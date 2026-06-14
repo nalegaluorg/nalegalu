@@ -8,12 +8,10 @@ pos: 1682
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu pracowników w ramach świadczenia usług
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -39,6 +37,12 @@ Art. 30–38. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** delegowania pracowników na terytorium Rzeczypospolitej Polskiej w ramach świadczenia usług;
+- **2)** kontroli przestrzegania przepisów o delegowaniu pracowników oraz realizacji obowiązków informacyjnych związanych z delegowaniem pracowników;
+- **3)** współpracy z właściwymi organami innych państw członkowskich dotyczącej delegowania pracowników na terytorium Rzeczypospolitej Polskiej i z tego terytorium;
+- **4)** ochrony pracowników delegowanych na terytorium Rzeczypospolitej Polskiej i z tego terytorium;
+- **5)** postępowania związanego z realizacją wniosków o powiadomienie o decyzji w sprawie nałożenia na pracodawcę delegującego pracownika z terytorium Rzeczypospolitej Polskiej administracyjnej kary pieniężnej lub grzywny administracyjnej oraz o egzekucję takiej kary lub grzywny.
+
 **Art. 2.**
 
 1. Przepisów ustawy nie stosuje się do:
@@ -50,11 +54,26 @@ Art. 30–38. (pominięte)
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** dzień roboczy – dzień kalendarzowy z wyjątkiem sobót oraz dni wolnych od pracy określonych w przepisach ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296);
+- **2)** organ wnioskujący – właściwy organ innego państwa członkowskiego, który zwraca się z wnioskiem o powiadomienie o decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej w związku z naruszeniem przepisów dotyczących delegowania pracownika z terytorium Rzeczypospolitej Polskiej lub o egzekucję takiej kary lub grzywny;
+- **3)** państwo członkowskie – państwo członkowskie Unii Europejskiej oraz państwo, które przyjęło, w drodze umowy z Unią Europejską, zobowiązanie do implementacji do krajowego porządku prawnego dyrektywy 96/71/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 1996 r. dotyczącej delegowania pracowników w ramach świadczenia usług (Dz. Urz. WE L 18 z 21.01.1997, str. 1 oraz Dz. Urz. UE L 173 z 09.07.2018, str. 16 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 431) oraz dyrektywy Parlamentu Europejskiego i Rady 2014/67/UE z dnia 15 maja 2014 r. w sprawie egzekwowania dyrektywy 96/71/WE dotyczącej delegowania pracowników w ramach świadczenia usług, zmieniającej rozporządzenie (UE) nr 1024/2012 w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 159 z 28.05.2014, str. 11);
+- **4)** pracodawca delegujący pracownika na terytorium RP – pracodawcę mającego siedzibę oraz prowadzącego znaczną działalność gospodarczą w innym państwie członkowskim:
+    - **a)** z którego terytorium kieruje tymczasowo pracownika do pracy na terytorium Rzeczypospolitej Polskiej: – w związku z realizacją umowy zawartej przez tego pracodawcę z podmiotem prowadzącym działalność na terytorium Rzeczypospolitej Polskiej, – w oddziale lub przedsiębiorstwie należącym do grupy przedsiębiorstw, do której należy ten pracodawca, prowadzącym działalność na terytorium Rzeczypospolitej Polskiej, – jako podmiot będący agencją pracy tymczasowej albo agencją wynajmującą personel, który skierował do pracodawcy użytkownika osobę pozostającą pracownikiem tego podmiotu przez cały okres skierowania,
+    - **b)** będącego podmiotem, który jako agencja pracy tymczasowej albo agencja wynajmująca personel skierował do pracodawcy użytkownika osobę pozostającą pracownikiem tego podmiotu przez cały okres skierowania, w przypadku gdy pracodawca użytkownik na terytorium tego samego lub innego państwa członkowskiego następnie kieruje tymczasowo tego pracownika do pracy na terytorium Rzeczypospolitej Polskiej;
+
+- **5)** pracodawca delegujący pracownika z terytorium RP – pracodawcę mającego siedzibę, a w przypadku osoby fizycznej prowadzącej działalność gospodarczą – stałe miejsce wykonywania takiej działalności, na terytorium Rzeczypospolitej Polskiej:
+    - **a)** kierującego tymczasowo pracownika w rozumieniu przepisów państwa członkowskiego, do którego jest delegowany, do pracy na terytorium tego państwa: – w związku z realizacją umowy zawartej przez tego pracodawcę z podmiotem prowadzącym działalność na terytorium innego państwa członkowskiego, – w oddziale lub przedsiębiorstwie należącym do grupy przedsiębiorstw, do której należy ten pracodawca, prowadzącym działalność na terytorium tego państwa członkowskiego, – jako agencja pracy tymczasowej,
+    - **b)** będącego agencją pracy tymczasowej, w przypadku gdy taka agencja kieruje pracownika do pracodawcy użytkownika na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego, który następnie kieruje tymczasowo tego pracownika do pracy na terytorium innego państwa członkowskiego;
+
+- **6)** pracownik delegowany na terytorium RP – pracownika zatrudnionego w innym państwie członkowskim, tymczasowo skierowanego do pracy na terytorium Rzeczypospolitej Polskiej przez pracodawcę delegującego pracownika na terytorium RP;
+- **7)** pracownik delegowany z terytorium RP – pracownika w rozumieniu przepisów państwa członkowskiego, do którego jest delegowany, wykonującego pracę na terytorium Rzeczypospolitej Polskiej, tymczasowo skierowanego do pracy na terytorium tego państwa przez pracodawcę delegującego pracownika z terytorium RP;
+- **8)** właściwy organ – organ lub podmiot odpowiedzialny na terytorium danego państwa członkowskiego za informowanie o przepisach dotyczących delegowania pracowników lub współpracę z takimi organami lub podmiotami innych państw członkowskich w zakresie monitorowania przestrzegania tych przepisów.
+
 #### Rozdział 2 Warunki zatrudnienia pracowników delegowanych na terytorium RP
 
 **Art. 4.**
 
-1. Pracodawca delegujący pracownika na terytorium RP zapewnia takiemu pracownikowi, do upływu okresu 12 miesięcy delegowania, warunki zatrudnienia nie mniej korzystne niż wynikające z przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423), zwanej dalej „Kodeksem pracy”, oraz innych przepisów regulujących prawa i obowiązki pracowników.
+1. Pracodawca delegujący pracownika na terytorium RP zapewnia takiemu pracownikowi, do upływu okresu 12 miesięcy delegowania, warunki zatrudnienia nie mniej korzystne niż wynikające z przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423), zwanej dalej „Kodeksem pracy”, oraz innych przepisów regulujących prawa i obowiązki pracowników.
 
 2. Warunki zatrudnienia, o których mowa w ust. 1, dotyczą:
 
@@ -111,7 +130,7 @@ Art. 30–38. (pominięte)
 
 **Art. 4d.**
 
-1. Pracodawca, o którym mowa w art. 3 pkt 4 lit. a tiret trzecie i lit. b, zapewnia pracownikowi delegowanemu na terytorium RP w okresie wykonywania przez niego pracy na rzecz pracodawcy użytkownika, do którego został skierowany warunki pracy i inne warunki zatrudnienia nie mniej korzystne niż przysługujące pracownikom tymczasowym zgodnie z przepisami o zatrudnianiu pracowników tymczasowych.
+1. Pracodawca, o którym mowa w art. 3 pkt 4 lit. a tiret trzecie i lit. b, zapewnia pracownikowi delegowanemu na terytorium RP – w okresie wykonywania przez niego pracy na rzecz pracodawcy użytkownika, do którego został skierowany – warunki pracy i inne warunki zatrudnienia nie mniej korzystne niż przysługujące pracownikom tymczasowym zgodnie z przepisami o zatrudnianiu pracowników tymczasowych.
 
 2. Warunki pracy i inne warunki zatrudnienia, o których mowa w ust. 1, mogą wynikać z przepisów, o których mowa w art. 4 ust. 1, a także z postanowień układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy, o których mowa w art. 9 Kodeksu pracy.
 
@@ -119,7 +138,7 @@ Art. 30–38. (pominięte)
 
 **Art. 5.**
 
-1. Do pracownika delegowanego na terytorium RP nie stosuje się warunków zatrudnienia dotyczących wymiaru urlopu wypoczynkowego oraz wynagrodzenia za pracę, jeżeli zgodnie z posiadanymi kwalifikacjami wykonuje on na danym stanowisku przez okres nie dłuższy niż 8 dni w ciągu roku, poczynając od dnia rozpoczęcia pracy na danym stanowisku wstępne prace montażowe lub instalacyjne przewidziane w umowie zawartej przez pracodawcę delegującego pracownika na terytorium RP z podmiotem prowadzącym działalność na tym terytorium, których wykonanie jest niezbędne do korzystania z dostarczonych wyrobów.
+1. Do pracownika delegowanego na terytorium RP nie stosuje się warunków zatrudnienia dotyczących wymiaru urlopu wypoczynkowego oraz wynagrodzenia za pracę, jeżeli zgodnie z posiadanymi kwalifikacjami wykonuje on na danym stanowisku – przez okres nie dłuższy niż 8 dni w ciągu roku, poczynając od dnia rozpoczęcia pracy na danym stanowisku – wstępne prace montażowe lub instalacyjne przewidziane w umowie zawartej przez pracodawcę delegującego pracownika na terytorium RP z podmiotem prowadzącym działalność na tym terytorium, których wykonanie jest niezbędne do korzystania z dostarczonych wyrobów.
 
 2. Przepisu ust. 1 nie stosuje się do pracownika, jeżeli wykonuje on na danym stanowisku prace związane z robotami budowlanymi lub utrzymaniem obiektu budowlanego, w szczególności:
 
@@ -141,13 +160,13 @@ Art. 30–38. (pominięte)
 
 1. Wykonawca powierzający wykonanie prac określonych w art. 5 ust. 2 pracodawcy delegującemu pracownika na terytorium RP ponosi wobec pracownika delegowanego na terytorium RP odpowiedzialność solidarną z tym pracodawcą za jego zobowiązania powstałe w trakcie wykonywania tych prac z tytułu zaległego wynagrodzenia za każdy miesiąc do wysokości minimalnego wynagrodzenia za pracę, o którym mowa w przepisach o minimalnym wynagrodzeniu za pracę, oraz wynagrodzenia i dodatku za pracę w godzinach nadliczbowych.
 
-2. Do odpowiedzialności solidarnej za zobowiązania określone w ust. 1 stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
+2. Do odpowiedzialności solidarnej za zobowiązania określone w ust. 1 stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
 
 **Art. 8.**
 
 1. W przypadku dochowania należytej staranności przez wykonawcę, o którym mowa w art. 7 ust. 1, polegającej na przekazaniu pracodawcy delegującemu pracownika na terytorium RP pisemnej informacji o warunkach zatrudnienia, o których mowa w art. 4 ust. 2 lub art. 4b albo art. 4d, oraz odebraniu od niego potwierdzenia złożenia oświadczenia, o którym mowa w art. 24 ust. 3, wykonawca ten nie ponosi odpowiedzialności solidarnej.
 
-2. Przekazanie pisemnej informacji, o której mowa w ust. 1, może nastąpić przez pisemne wskazanie strony internetowej, o której mowa w art. 13 ust. 1 w zakresie informacji o warunkach zatrudnienia zamieszczonych na tej stronie, zgodnie z art. 13 ust. 1 pkt 1 albo 1a. W przypadku wskazania strony internetowej w zakresie informacji, o której mowa w art. 13 ust. 1 pkt 1a, wykonawca przekazuje pracodawcy, o którym mowa w art. 3 pkt 4 lit. a tiret trzecie, dodatkowo pisemną informację o warunkach zatrudnienia, o których mowa w art. 4d ust. 2 i 3, wynikających z postanowień układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy, o których mowa w art. 9 Kodeksu pracy.
+2. Przekazanie pisemnej informacji, o której mowa w ust. 1, może nastąpić przez pisemne wskazanie strony internetowej, o której mowa w art. 13 ust. 1 – w zakresie informacji o warunkach zatrudnienia zamieszczonych na tej stronie, zgodnie z art. 13 ust. 1 pkt 1 albo 1a. W przypadku wskazania strony internetowej w zakresie informacji, o której mowa w art. 13 ust. 1 pkt 1a, wykonawca przekazuje pracodawcy, o którym mowa w art. 3 pkt 4 lit. a tiret trzecie, dodatkowo pisemną informację o warunkach zatrudnienia, o których mowa w art. 4d ust. 2 i 3, wynikających z postanowień układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy, o których mowa w art. 9 Kodeksu pracy.
 
 #### Rozdział 4 Zadania i uprawnienia Państwowej Inspekcji Pracy
 
@@ -194,7 +213,7 @@ Art. 30–38. (pominięte)
 1. Państwowa Inspekcja Pracy ma prawo występować do:
 
 - **1)** pracodawcy delegującego pracownika z terytorium RP,
-- **2)** przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480) z żądaniem udzielenia informacji dotyczących ich działalności, niezbędnych do zamieszczenia w odpowiedzi na wnioski, o których mowa w art. 9 ust. 2 pkt 4 lit. d.
+- **2)** przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480) – z żądaniem udzielenia informacji dotyczących ich działalności, niezbędnych do zamieszczenia w odpowiedzi na wnioski, o których mowa w art. 9 ust. 2 pkt 4 lit. d.
 
 2. Państwowa Inspekcja Pracy ma prawo występować również do Zakładu Ubezpieczeń Społecznych, a także naczelników urzędów skarbowych i innych organów administracji publicznej, z wnioskiem o udzielenie informacji niezbędnych do zamieszczenia w odpowiedzi na wnioski, o których mowa w art. 9 ust. 2 pkt 4 lit. d.
 
@@ -202,8 +221,8 @@ Art. 30–38. (pominięte)
 
 3. Wnioski, o których mowa w ust. 2 i 2a, kierowane do Zakładu Ubezpieczeń Społecznych zawierają:
 
-- **1)** w przypadku ubezpieczonych dane określone w art. 50 ust. 7 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. );
-- **2)** w przypadku płatników dane określone w art. 50 ust. 7 pkt 2 ustawy wymienionej w pkt 1.
+- **1)** w przypadku ubezpieczonych – dane określone w art. 50 ust. 7 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. );
+- **2)** w przypadku płatników – dane określone w art. 50 ust. 7 pkt 2 ustawy wymienionej w pkt 1.
 
 4. Podmioty, o których mowa w ust. 1, mają obowiązek udzielenia informacji w terminie 10 dni roboczych od dnia otrzymania żądania Państwowej Inspekcji Pracy.
 
@@ -238,13 +257,13 @@ Art. 30–38. (pominięte)
 - **1)** czy pracodawca delegujący pracownika na terytorium RP rzeczywiście prowadzi znaczną działalność na terytorium innego państwa członkowskiego inną niż działalność zarządcza lub administracyjna o charakterze wyłącznie wewnętrznym;
 - **2)** czy pracownik delegowany na terytorium RP wykonuje pracę na tym terytorium tylko tymczasowo.
 
-3. W celu dokonania ustaleń w zakresie określonym w ust. 2 pkt 1 Państwowa Inspekcja Pracy dokonuje biorąc pod uwagę szeroki przedział czasowy oceny wszystkich okoliczności uznanych za niezbędne, cechujących działalność prowadzoną przez pracodawcę delegującego pracownika na terytorium RP w państwie członkowskim jego siedziby lub miejsca zamieszkania i, w razie konieczności, na terytorium Rzeczypospolitej Polskiej, do których mogą należeć w szczególności:
+3. W celu dokonania ustaleń w zakresie określonym w ust. 2 pkt 1 Państwowa Inspekcja Pracy dokonuje – biorąc pod uwagę szeroki przedział czasowy – oceny wszystkich okoliczności uznanych za niezbędne, cechujących działalność prowadzoną przez pracodawcę delegującego pracownika na terytorium RP w państwie członkowskim jego siedziby lub miejsca zamieszkania i, w razie konieczności, na terytorium Rzeczypospolitej Polskiej, do których mogą należeć w szczególności:
 
-- **1)** miejsce, w którym przedsiębiorca ma zarejestrowaną działalność, prowadzi obsługę administracyjną, korzysta z pomieszczeń biurowych, podlega obowiązkom podatkowym z tytułu prowadzonej działalności i obowiązkom z tytułu ubezpieczeń społecznych oraz tam, gdzie jest to wymagane w którym, zgodnie z prawem państwa członkowskiego siedziby przedsiębiorcy, posiada stosowny dokument uprawniający do prowadzenia działalności danego rodzaju lub jest zarejestrowany w izbach handlowych lub organizacjach branżowych;
+- **1)** miejsce, w którym przedsiębiorca ma zarejestrowaną działalność, prowadzi obsługę administracyjną, korzysta z pomieszczeń biurowych, podlega obowiązkom podatkowym z tytułu prowadzonej działalności i obowiązkom z tytułu ubezpieczeń społecznych oraz – tam, gdzie jest to wymagane – w którym, zgodnie z prawem państwa członkowskiego siedziby przedsiębiorcy, posiada stosowny dokument uprawniający do prowadzenia działalności danego rodzaju lub jest zarejestrowany w izbach handlowych lub organizacjach branżowych;
 - **2)** miejsce, w którym prowadzi się nabór pracowników delegowanych i z którego są oni delegowani;
 - **3)** prawo właściwe dla umów zawieranych przez pracodawcę delegującego pracownika na terytorium RP ze swoimi pracownikami oraz prawo właściwe dla umów zawieranych z klientami tego pracodawcy;
 - **4)** miejsce, w którym przedsiębiorca prowadzi znaczną działalność gospodarczą oraz w którym zatrudnia personel administracyjny;
-- **5)** liczba wykonanych umów lub wielkość obrotu uzyskanego w państwie członkowskim siedziby przedsiębiorcy, z uwzględnieniem szczególnej sytuacji przedsiębiorców, w tym małych i średnich przedsiębiorców w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców oraz nowo powstałych przedsiębiorców.
+- **5)** liczba wykonanych umów lub wielkość obrotu uzyskanego w państwie członkowskim siedziby przedsiębiorcy, z uwzględnieniem szczególnej sytuacji przedsiębiorców, w tym małych i średnich przedsiębiorców w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców oraz nowo powstałych przedsiębiorców.
 
 4. W celu dokonania ustaleń w zakresie określonym w ust. 2 pkt 2 Państwowa Inspekcja Pracy dokonuje oceny wszystkich okoliczności uznanych za niezbędne, cechujących pracę i sytuację danego pracownika delegowanego na terytorium RP, do których mogą należeć w szczególności:
 
@@ -253,7 +272,7 @@ Art. 30–38. (pominięte)
 - **3)** delegowanie pracownika do państwa członkowskiego innego niż państwo, w którym lub z którego ten pracownik zwyczajowo wykonuje swoją pracę, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 593/2008 z dnia 17 czerwca 2008 r. w sprawie prawa właściwego dla zobowiązań umownych (Rzym I) (Dz. Urz. UE L 177 z 04.07.2008, str. 6) lub z Konwencją o prawie właściwym dla zobowiązań umownych, otwartą do podpisu w Rzymie dnia 19 czerwca 1980 roku (Dz. Urz. UE C 169 z 08.07.2005, str. 10);
 - **4)** powrót pracownika do państwa członkowskiego, z którego został delegowany, lub przewidywanie, że ponownie podejmie on pracę w tym państwie po zakończeniu wykonywania pracy lub usług, do których wykonania został delegowany;
 - **5)** charakter pracy;
-- **6)** zapewnienie pracownikowi transportu, zakwaterowania i wyżywienia lub zwrot kosztów, a w przypadku ich zapewnienia lub zwrotu kosztów sposób, w jaki jest to zapewniane, lub metoda, jaka jest stosowana przy zwrocie kosztów;
+- **6)** zapewnienie pracownikowi transportu, zakwaterowania i wyżywienia lub zwrot kosztów, a w przypadku ich zapewnienia lub zwrotu kosztów – sposób, w jaki jest to zapewniane, lub metoda, jaka jest stosowana przy zwrocie kosztów;
 - **7)** wykonywanie pracy w poprzednich okresach na danym stanowisku przez tego samego lub innego pracownika.
 
 5. Niewystąpienie jednej albo większej liczby okoliczności określonych w ust. 3 i 4 nie oznacza, że dana sytuacja nie stanowi delegowania pracownika na terytorium Rzeczypospolitej Polskiej. Ocenę tych okoliczności dostosowuje się do każdego konkretnego przypadku oraz uwzględnia się specyfikę danej sytuacji.
@@ -304,9 +323,18 @@ Art. 30–38. (pominięte)
 4. Państwowa Inspekcja Pracy może zwrócić wniosek organowi wnioskującemu, jeżeli:
 
 - **1)** ogólna kwota administracyjnej kary pieniężnej lub grzywny administracyjnej wynosi mniej niż 350 euro; jeżeli ogólna kwota takiej kary lub grzywny jest wyrażona w innej walucie niż euro, należy ją przeliczyć na walutę polską według średniego kursu danej waluty określonego przez Narodowy Bank Polski na dzień wydania decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej, a następnie otrzymaną kwotę przeliczyć według średniego kursu złotego w stosunku do euro, określonego przez Narodowy Bank Polski na ten dzień,
-- **2)** decyzja w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej jest sprzeczna z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej i o fakcie zwrotu wniosku powiadamia pracodawcę delegującego pracownika z terytorium RP.
+- **2)** decyzja w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej jest sprzeczna z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej – i o fakcie zwrotu wniosku powiadamia pracodawcę delegującego pracownika z terytorium RP.
 
 **Art. 19.** Państwowa Inspekcja Pracy bez zbędnej zwłoki informuje organ wnioskujący o:
+
+- **1)** czynnościach podjętych na jego wniosek o powiadomienie o decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej lub wniosek o egzekucję takiej kary lub grzywny, w tym o dacie przekazania pracodawcy delegującemu pracownika z terytorium RP:
+    - **a)** powiadomienia o decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej lub
+    - **b)** powiadomienia o wniosku o egzekucję administracyjnej kary pieniężnej lub grzywny administracyjnej;
+
+- **2)** podstawach odmowy podjęcia czynności, o których mowa w pkt 1:
+    - **a)** w przypadku gdy wniosek o powiadomienie o decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej nie spełnia wymogów określonych w art. 17 ust. 1 lub wniosek o egzekucję administracyjnej kary pieniężnej lub grzywny administracyjnej nie spełnia wymogów określonych w art. 18 ust. 1,
+    - **b)** w przypadku, o którym mowa w art. 18 ust. 4,
+    - **c)** w przypadku gdy analiza przeprowadzona przez naczelnika urzędu skarbowego wykazała, że prognozowane koszty egzekucji administracyjnej kary pieniężnej lub grzywny administracyjnej są nieproporcjonalnie wysokie w stosunku do kwoty, której ma dotyczyć egzekucja, lub egzekucja taka wiązałaby się z istotnymi trudnościami.
 
 **Art. 20.**
 
@@ -336,7 +364,7 @@ Art. 30–38. (pominięte)
 
 - **1)** dane identyfikacyjne pracodawcy obejmujące:
     - **a)** nazwę,
-    - **b)** siedzibę (adres) oraz numer telefonu i adres poczty elektronicznej o charakterze służbowym, a w przypadku pracodawcy będącego osobą fizyczną miejsce zamieszkania (adres) oraz numer telefonu i adres poczty elektronicznej o charakterze służbowym,
+    - **b)** siedzibę (adres) oraz numer telefonu i adres poczty elektronicznej o charakterze służbowym, a w przypadku pracodawcy będącego osobą fizyczną – miejsce zamieszkania (adres) oraz numer telefonu i adres poczty elektronicznej o charakterze służbowym,
     - **c)** numer identyfikacji podatkowej (NIP) albo numer identyfikacyjny uzyskany w państwie członkowskim siedziby pracodawcy dla celów podatkowych albo ubezpieczeniowych;
 
 - **2)** przewidywaną liczbę pracowników delegowanych na terytorium RP wraz z danymi obejmującymi ich imię i nazwisko, datę urodzenia oraz obywatelstwo;
@@ -372,9 +400,9 @@ Art. 30–38. (pominięte)
 
 **Art. 25b.**
 
-1. Pracodawca użytkownik w rozumieniu przepisów o zatrudnianiu pracowników tymczasowych, do którego został skierowany pracownik przez pracodawcę, o którym mowa w art. 3 pkt 5 lit. b, informuje tego pracodawcę o zamiarze skierowania tego pracownika do pracy w innym państwie członkowskim co najmniej 15 dni roboczych przed planowanym skierowaniem.
+1. Pracodawca użytkownik w rozumieniu przepisów o zatrudnianiu pracowników tymczasowych, do którego został skierowany pracownik przez pracodawcę, o którym mowa w art. 3 pkt 5 lit. b, informuje tego pracodawcę o zamiarze skierowania tego pracownika do pracy w innym państwie członkowskim – co najmniej 15 dni roboczych przed planowanym skierowaniem.
 
-2. Pracodawca użytkownik informuje podmiot, który jako agencja pracy tymczasowej albo agencja wynajmująca personel, skierował do tego pracodawcy osobę pozostającą pracownikiem tego podmiotu przez cały okres skierowania i który ma siedzibę oraz prowadzi znaczną działalność gospodarczą w innym państwie członkowskim, o zamiarze skierowania tego pracownika do pracy w innym państwie członkowskim co najmniej 15 dni roboczych przed planowanym skierowaniem.
+2. Pracodawca użytkownik informuje podmiot, który jako agencja pracy tymczasowej albo agencja wynajmująca personel, skierował do tego pracodawcy osobę pozostającą pracownikiem tego podmiotu przez cały okres skierowania i który ma siedzibę oraz prowadzi znaczną działalność gospodarczą w innym państwie członkowskim, o zamiarze skierowania tego pracownika do pracy w innym państwie członkowskim – co najmniej 15 dni roboczych przed planowanym skierowaniem.
 
 #### Rozdział 5b Obowiązki pracodawcy delegującego pracownika z terytorium RP
 
@@ -430,7 +458,7 @@ Art. 30–38. (pominięte)
 
 2. Tej samej karze podlega pracodawca delegujący pracownika na terytorium RP lub osoba działająca w jego imieniu w przypadku stwierdzenia przez Państwową Inspekcję Pracy, że dany pracownik nie może zostać uznany za pracownika delegowanego na terytorium RP.
 
-**Art. 28.** Kto, będąc pracodawcą delegującym pracownika z terytorium RP lub przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców lub osobą działającą w imieniu tego pracodawcy lub przedsiębiorcy, nie udziela informacji na żądanie Państwowej Inspekcji Pracy, zgodnie z art. 12 ust. 4, podlega karze grzywny od 1000 do 30 000 zł.
+**Art. 28.** Kto, będąc pracodawcą delegującym pracownika z terytorium RP lub przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców lub osobą działającą w imieniu tego pracodawcy lub przedsiębiorcy, nie udziela informacji na żądanie Państwowej Inspekcji Pracy, zgodnie z art. 12 ust. 4, podlega karze grzywny od 1000 do 30 000 zł.
 
 **Art. 28a.** Kto, będąc pracodawcą użytkownikiem nie przekazuje pracodawcy, o którym mowa w art. 3 pkt 4 lit. a tiret trzecie, informacji, o których mowa w art. 25a, podlega karze grzywny od 1000 do 30 000 zł.
 
@@ -440,7 +468,7 @@ Art. 30–38. (pominięte)
 
 2. Tej samej karze podlega pracodawca użytkownik, który nie informuje podmiotu, który jako agencja pracy tymczasowej albo agencja wynajmująca personel, skierował do tego pracodawcy osobę pozostającą pracownikiem tego podmiotu przez cały okres skierowania i który ma siedzibę oraz prowadzi znaczną działalność gospodarczą w innym państwie członkowskim, o zamiarze skierowania pracownika do pracy w innym państwie członkowskim, zgodnie z art. 25b ust. 2.
 
-**Art. 29.** Orzekanie w sprawach o czyny, o których mowa w art. 27–28b, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
+**Art. 29.** Orzekanie w sprawach o czyny, o których mowa w art. 27–28b, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
 

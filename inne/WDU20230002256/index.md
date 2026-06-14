@@ -8,10 +8,10 @@ pos: 2256
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2256 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 18 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2256/text.pdf) |
 
-Poz. 2256 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 18 października 2023 r.
-w sprawie części munduru policyjnego, których używanie jest dozwolone Na podstawie art. 12 ust. 2 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) zarządza się, co następuje: § 1. Dozwolone jest używanie części munduru policyjnego, wchodzących w skład ubioru:
+w sprawie części munduru policyjnego, których używanie jest dozwolone Na podstawie art. 12 ust. 2 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) zarządza się, co następuje:
+§ 1. Dozwolone jest używanie części munduru policyjnego, wchodzących w skład ubioru:
 1) wyjściowego i służbowego:
 a) koszula wyjściowa,
 b) krawat,

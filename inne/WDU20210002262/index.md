@@ -8,7 +8,7 @@ pos: 2262
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
@@ -40,6 +40,13 @@ Art. 52–55. (pominięte)
 **Art. 2.** Ustawę stosuje się do umów nabycia produktów rolnych lub spożywczych, zawieranych między nabywcami tych produktów a ich dostawcami, zwanych dalej „umowami”.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dostawca – przedsiębiorcę, który wytwarza lub przetwarza produkty rolne lub spożywcze lub odpłatnie zbywa je nabywcy;
+- **2)** łatwo psujące się produkty rolne lub spożywcze – produkty rolne lub spożywcze, które ze względu na swoją naturę lub etap przetwarzania mogą przestać nadawać się do sprzedaży lub przetworzenia w okresie 30 dni od ich zebrania, wyprodukowania lub przetworzenia;
+- **3)** nabywca – przedsiębiorcę lub podmiot, o którym mowa w art. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825), zwanej dalej „Prawem zamówień publicznych”, który bezpośrednio lub pośrednio nabywa od dostawcy produkty rolne lub spożywcze;
+- **4)** produkty rolne lub spożywcze – produkty wymienione w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, a także produkty niewymienione w tym załączniku, ale przetworzone z przeznaczeniem do spożycia z wykorzystaniem produktów wymienionych w tym załączniku;
+- **5)** przedsiębiorca – przedsiębiorcę w rozumieniu art. 4 pkt 1 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2021 r. poz. 275, z 2022 r. poz. 2581 i 2640 oraz z 2023 r. poz. 852), zwanej dalej „ustawą o ochronie konkurencji i konsumentów”;
+- **6)** rok obrotowy – rok obrotowy w rozumieniu art. 3 ust. 1 pkt 9 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120 i 295).
 
 **Art. 4.** Ochrona przed praktykami nieuczciwie wykorzystującymi przewagę kontraktową w obrocie produktami rolnymi lub spożywczymi, zwanymi dalej „praktykami nieuczciwie wykorzystującymi przewagę kontraktową”, przewidziana w ustawie nie wyłącza ochrony wynikającej z innych ustaw.
 
@@ -130,6 +137,11 @@ Art. 52–55. (pominięte)
 **Art. 9.** Przy dokonywaniu oceny praktyk nieuczciwie wykorzystujących przewagę kontraktową, o których mowa w art. 8 ust. 1, nie uwzględnia się przesłanek określonych w art. 6.
 
 **Art. 10.** Zakaz stosowania praktyk nieuczciwie wykorzystujących przewagę kontraktową, o których mowa w art. 8 ust. 1 pkt 1, nie ma:
+
+- **1)** wpływu na możliwość uzgodnienia przez nabywcę i dostawcę klauzuli dotyczącej podziału wartości w rozumieniu art. 172a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm. );
+- **2)** zastosowania do płatności uiszczanych przez:
+    - **a)** nabywcę na rzecz dostawcy w ramach programu dla szkół, o którym mowa w art. 23 rozporządzenia, o którym mowa w pkt 1,
+    - **b)** podmioty lecznicze, o których mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991).
 
 #### Rozdział 3 Właściwość Prezesa Urzędu Ochrony Konkurencji i Konsumentów
 
@@ -407,6 +419,9 @@ Art. 52–55. (pominięte)
 
 **Art. 43.** Prezes Urzędu może również nałożyć na przedsiębiorcę lub podmiot, o którym mowa w art. 4 Prawa zamówień publicznych, w drodze decyzji, karę pieniężną w wysokości stanowiącej równowartość w złotych do 50 000 000 euro, jeżeli ten przedsiębiorca lub ten podmiot, choćby nieumyślnie:
 
+- **1)** nie udzielił informacji żądanych przez Prezesa Urzędu na podstawie art. 18 ust. 1 lub art. 32 ust. 3 lub udzielił informacji nieprawdziwych lub wprowadzających w błąd;
+- **2)** uniemożliwia lub utrudnia rozpoczęcie lub przeprowadzenie kontroli na podstawie art. 21 ust. 1, w tym nie wykonuje obowiązków określonych w art. 24 ust. 1 lub art. 25 ust. 1.
+
 **Art. 44.** Prezes Urzędu może nałożyć na przedsiębiorcę lub podmiot, o którym mowa w art. 4 Prawa zamówień publicznych, w drodze decyzji, karę pieniężną w wysokości stanowiącej równowartość w złotych do 10 000 euro za każdy dzień opóźnienia w wykonaniu decyzji wydanych na podstawie art. 31 ust. 1, art. 32 ust. 1 i 2 oraz art. 33 ust. 1 i 3, postanowień wydanych na podstawie art. 105g ust. 1 ustawy o ochronie konkurencji i konsumentów w związku z art. 26 lub wyroków sądowych w sprawach praktyk nieuczciwie wykorzystujących przewagę kontraktową. Karę pieniężną nakłada się, licząc od daty wskazanej w tej decyzji.
 
 **Art. 45.** Wielkości, o których mowa w art. 42 ust. 5 i 6, art. 43 i art. 44, wyrażone w euro przelicza się na złote według średniego kursu ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roku kalendarzowego poprzedzającego rok nałożenia kary pieniężnej.
@@ -472,6 +487,10 @@ Art. 52–55. (pominięte)
 #### Rozdział 8 Przepisy przejściowe i końcowe
 
 **Art. 56.** Do postępowań w sprawach określonych w:
+
+- **1)** art. 297 § 1 pkt 11 lit. b oraz art. 298 pkt 6f ustawy zmienianej w art. 53 ,
+- **2)** art. 105 ust. 1 pkt 2 lit. r tiret trzecie ustawy zmienianej w art. 54 ,
+- **3)** art. 15zzzm ustawy zmienianej w art. 55 – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 57.** Do postępowań w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową wszczętych na podstawie ustawy uchylanej w art. 61 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

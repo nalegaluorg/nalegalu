@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi.*
 
 Łącznie: **95** orzeczeń
-(pominięto 77 orzeczeń sądów rejonowych)
+(pominięto 78 orzeczeń sądów rejonowych)
 
 ## art. 1 (23)
 

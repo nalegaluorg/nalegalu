@@ -8,7 +8,7 @@ pos: 212
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
@@ -29,147 +29,340 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 217b.** Do osób przygotowujących rozprawę doktorską trybie eksternistycznym, którym wyznaczono promotora lub promotorów albo promotora i promotora pomocniczego, stosuje się odpowiednio przepisy 212 i 213.
+- **1)** w art. 5 dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku zmian w klasyfikacji określonej w przepisach wydanych na podstawie ust. 3, zwanej dalej „klasyfikacją dziedzin i dyscyplin”, polegających na:
+- **1)** wyodrębnieniu nowej dyscypliny naukowej albo artystycznej Rada Doskonałości Naukowej, zwana dalej „RDN”, wskazuje dyscyplinę albo dyscypliny, z których nowa dyscyplina została wyodrębniona;
+- **2)** zmianie nazwy dyscypliny naukowej albo artystycznej RDN przyporządkowuje dotychczasową nazwę dyscypliny do nowej nazwy;
+- **3)** włączeniu dyscypliny naukowej albo artystycznej do innej dyscypliny albo do innych dyscyplin RDN wskazuje dyscyplinę albo dyscypliny, do których dotychczasowa dyscyplina została włączona.
 
-**Art. 217c.** Senat albo rada naukowa określi drodze uchwały warunki korzystania z infrastruktury badawczej i informatycznej podmiotu doktoryzującego przez osoby przygotowujące rozprawę doktorską trybie eksternistycznym.”;
+5. W sprawach, o których mowa w ust. 4, RDN podejmuje uchwałę. Uchwałę zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej RDN, w terminie 30 dni od dnia wejścia w życie przepisów wydanych na podstawie ust. 3, na mocy których zmiany w klasyfikacji dziedzin i dyscyplin zostały wprowadzone.”;
+
+- **2)** w art. 8 ust. 1 otrzymuje brzmienie: „1. Przepisów działów II–IV, art. 180, działu VI rozdziału 1 oraz działów VII–IX i XII–XIV nie stosuje się do uczelni i wyższych seminariów duchownych prowadzonych przez kościoły i inne związki wyznaniowe, z wyjątkiem Katolickiego Uniwersytetu Lubelskiego Jana Pawła II, chyba że ustawa lub umowa między Radą Ministrów a władzami kościoła albo innego związku wyznaniowego stanowią inaczej.”;
+- **3)** w art. 19 dodaje się ust. 3 w brzmieniu: „3. W posiedzeniach rady uczelni uczestniczy z głosem doradczym przedstawiciel każdej działającej w uczelni zakładowej organizacji związkowej, o której mowa w art. 25 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2022 r. poz. 854), będący jej członkiem.”;
+- **4)** w art. 20:
+    - **a)** w ust. 1 pkt 7 otrzymuje brzmienie: „7) nie ukończyła 70. roku życia do dnia rozpoczęcia kadencji.”,
+    - **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Senat może odwołać członka rady uczelni:
+
+- **1)** w przypadku gdy wszczęto przeciwko niemu postępowanie karne z oskarżenia publicznego o przestępstwo umyślne lub postępowanie o umyślne przestępstwo skarbowe;
+- **2)** w przypadku gdy zaprzestał spełniania wymagania określonego w ust. 3;
+- **3)** na wniosek rady uczelni, w przypadkach innych niż określone w pkt 1 i 2.”;
+- **5)** w art. 25 ust. 4 otrzymuje brzmienie: „4. Tryb wyboru do kolegium elektorów studentów i doktorantów oraz czas trwania ich członkostwa w kolegium elektorów określają odpowiednio regulamin samorządu studenckiego i regulamin samorządu doktorantów.”;
+- **6)** w art. 28 dodaje się ust. 5 w brzmieniu: „5. Zadanie, o którym mowa w ust. 1 pkt 11, może być wykonywane przez inny określony w statucie organ uczelni, o którym mowa w art. 17 ust. 2, z tym że efekty uczenia się określa senat.”;
+- **7)** w art. 31 w ust. 4 zdanie pierwsze otrzymuje brzmienie: „W głosowaniach w sprawach, o których mowa w art. 28 ust. 1 pkt 8, biorą udział członkowie senatu, a w przypadku, o którym mowa w art. 28 ust. 4 – członkowie innego określonego w statucie organu uczelni, o którym mowa w art. 17 ust. 2, będący profesorami i profesorami uczelni.”;
+- **8)** w art. 32:
+    - **a)** w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Do organów uczelni, o których mowa w art. 17 ust. 2, stosuje się odpowiednio przepisy art. 20 ust. 1 pkt 1–6 oraz ust. 2 i 4, a w przypadku uczelni publicznej – także przepis art. 20 ust. 1 pkt 7.”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Członkostwa w organie uczelni, o którym mowa w art. 17 ust. 2, nie można łączyć z pełnieniem funkcji organu tej albo innej uczelni.
+
+1b. Funkcji organu uczelni, o którym mowa w art. 17 ust. 2, nie można łączyć z pełnieniem funkcji innego organu tej uczelni ani z pełnieniem funkcji organu innej uczelni.”;
+
+- **9)** w art. 36:
+    - **a)** ust. 12 otrzymuje brzmienie: „12. Postępowania w sprawie nadania stopnia naukowego lub stopnia w zakresie sztuki, wszczęte i niezakończone do dnia postawienia uczelni w stan likwidacji, prowadzą podmioty wskazane przez RDN.”,
+    - **b)** w ust. 18 zdanie pierwsze otrzymuje brzmienie: „W przypadku likwidacji uczelni likwidator przekazuje dokumentację przebiegu studiów i dokumentację kształcenia w szkole doktorskiej na przechowanie podmiotowi wykonującemu działalność, o której mowa w art. 51a ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164), zapewniając na ten cel środki finansowe.”;
+
+- **10)** w art. 37 w ust. 3 pkt 6 otrzymuje brzmienie: „6) informację o postawieniu uczelni w stan likwidacji;”;
+- **11)** w art. 46 w ust. 12 zdanie pierwsze otrzymuje brzmienie: „W przypadku likwidacji uczelni założyciel przekazuje dokumentację przebiegu studiów, dokumentację kształcenia w szkole doktorskiej oraz dokumentację osobową i płacową na przechowanie podmiotowi wykonującemu działalność, o której mowa w art. 51a ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, zapewniając na ten cel środki finansowe.”;
+- **12)** w art. 67 dodaje się ust. 7 w brzmieniu: „7. W przypadkach i na warunkach określonych w regulaminie studiów uczelnia, na wniosek studenta, może zaliczyć na poczet praktyki zawodowej czynności wykonywane przez niego w szczególności w ramach zatrudnienia, stażu lub wolontariatu, jeżeli umożliwiły one uzyskanie efektów uczenia się określonych w programie studiów dla praktyk zawodowych.”;
+- **13)** w art. 74 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Uczelnia, w której student zagranicznej uczelni odbywa część studiów, wydaje temu studentowi, na jego wniosek, legitymację studencką.”;
+- **14)** w art. 87 ust. 2 otrzymuje brzmienie: „2. Wysokość miesięcznego dochodu na osobę w rodzinie studenta uprawniająca do ubiegania się o stypendium socjalne nie przekracza 1,6 sumy kwot określonych w art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2022 r. poz. 615, 1265 i 2140).”;
+- **15)** w art. 88 ust. 4 i 5 otrzymują brzmienie: „4. Rektor, komisja stypendialna albo odwoławcza komisja stypendialna odmawia przyznania stypendium socjalnego studentowi, którego miesięczny dochód na osobę w rodzinie nie przekracza kwoty określonej w art. 8 ust. 1 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm. ), jeżeli do wniosku o przyznanie stypendium socjalnego nie dołączy wydanego przez ośrodek pomocy społecznej albo przez centrum usług społecznych zaświadczenia o korzystaniu w roku złożenia tego wniosku ze świadczeń z pomocy społecznej przez niego lub przez członków jego rodziny.
+
+5. W przypadku gdy student, o którym mowa w ust. 4, lub członkowie jego rodziny nie korzystają ze świadczeń z pomocy społecznej, rektor, komisja stypendialna albo odwoławcza komisja stypendialna może przyznać temu studentowi stypendium socjalne, jeżeli udokumentował źródła utrzymania rodziny.”;
+
+- **16)** art. 105 otrzymuje brzmienie: „Art. 105. Osobie legitymującej się legitymacją studencką przysługuje prawo do korzystania z 50% ulgi w opłatach za przejazdy publicznymi środkami komunikacji miejskiej.”;
+- **17)** w art. 111:
+    - **a)** ust. 5 otrzymuje brzmienie: „5. Uczelnia może przeznaczać środki na realizację działań:
+
+- **1)** uczelnianych organizacji studenckich;
+- **2)** działających w uczelni stowarzyszeń zrzeszających wyłącznie studentów lub studentów, doktorantów i pracowników uczelni;
+- **3)** Akademickiego Związku Sportowego i jego klubów uczelnianych utworzonych w uczelni za zgodą rektora.”,
+    - **b)** dodaje się ust. 6 i 7 w brzmieniu: „6. Podmioty, o których mowa w ust. 5, przeznaczają otrzymane środki wyłącznie na działania obejmujące studentów, doktorantów lub pracowników uczelni.
+
+7. Podmioty, o których mowa w ust. 5, przedstawiają uczelni sprawozdanie z wykorzystania środków otrzymanych w danym roku akademickim.”;
+
+- **18)** w art. 116 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przy zatrudnianiu na stanowisku, o którym mowa w ust. 1, osoby, która uzyskała za granicą stopień naukowy, stopień w zakresie sztuki lub tytuł zawodowy, który nie został uznany za równoważny z odpowiednim polskim stopniem lub tytułem, można odstąpić od określonych w ust. 2 wymagań w zakresie posiadania tytułu profesora, stopnia doktora lub tytułu zawodowego magistra, magistra inżyniera albo równorzędnego, jeżeli zatrudniana osoba posiada znaczące osiągnięcia naukowe, artystyczne lub dydaktyczne.”;
+- **19)** w art. 128 w ust. 2 zdanie drugie otrzymuje brzmienie: „W przypadku nieobecności nauczyciela akademickiego w pracy, wynikającej z:
+- **1)** przebywania na:
+    - **a)** urlopie związanym z rodzicielstwem, określonym w przepisach działu ósmego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
+    - **b)** urlopie dla poratowania zdrowia,
+    - **c)** urlopie bezpłatnym trwającym nieprzerwanie co najmniej 3 miesiące,
+
+- **2)** odbywania:
+    - **a)** służby wojskowej,
+    - **b)** służby zastępczej,
+
+- **3)** pobierania:
+    - **a)** zasiłku chorobowego nieprzerwanie przez okres co najmniej 3 miesięcy,
+    - **b)** świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej – termin dokonania oceny okresowej ulega przedłużeniu o czas tej nieobecności.”;
+
+- **20)** w art. 173:
+    - **a)** w ust. 3 zdanie drugie otrzymuje brzmienie: „Oświadczenie można złożyć tylko w jednej jednostce uczestniczącej i w nie więcej niż 2 dyscyplinach, o których mowa w art. 343 ust. 7.”,
+    - **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Federacja jest podmiotem uprawnień związanych z posiadaniem uprawnienia nadanego w trybie określonym w art. 226a ust. 1 w zakresie:
+
+- **1)** nadawania stopni naukowych lub stopni w zakresie sztuki;
+- **2)** kształcenia doktorantów.”,
+    - **c)** ust. 9 otrzymuje brzmienie: „9. W przypadku likwidacji federacji przed upływem 4 lat od dnia jej powstania, jednostka uczestnicząca traci kategorię naukową albo uprawnienie nadane w trybie określonym w art. 226a ust. 1 w dyscyplinie, chyba że na dzień 31 grudnia roku poprzedzającego rok likwidacji zatrudniała co najmniej 12 pracowników prowadzących działalność naukową w tej dyscyplinie, w przeliczeniu na pełny wymiar czasu pracy związanej z prowadzeniem działalności naukowej w tej dyscyplinie.”;
+
+- **21)** w art. 176 pkt 1 otrzymuje brzmienie: „1) art. 24 ust. 9, art. 177–180, art. 182–226a, art. 259–262, art. 264, art. 266, art. 267 ust. 1, art. 268–270, art. 322, art. 343, art. 345, art. 346, art. 348–350, art. 351 ust. 4, art. 354, art. 355, art. 358a, art. 360–362, art. 408, art. 409 ust. 2–5, art. 410, art. 411, art. 420, art. 423, art. 425–428, art. 432, art. 469a i art. 469b;”;
+- **22)** w art. 179 dodaje się ust. 3 w brzmieniu: „3. Jeżeli postępowanie w sprawie nadania stopnia doktora jest prowadzone z udziałem podmiotu zagranicznego, umowa, o której mowa w art. 185 ust. 2, może określać, że osoba, której nadano stopień doktora, otrzymuje dyplom doktorski wydany przez ten podmiot oraz:
+- **1)** dyplom doktorski wydany przez podmiot systemu szkolnictwa wyższego i nauki nadający stopień doktora albo
+- **2)** wspólny dyplom doktorski wydany przez podmioty systemu szkolnictwa wyższego i nauki nadające stopień doktora albo dyplom doktorski wydany przez jeden z tych podmiotów, wskazany w umowie.”;
+- **23)** w art. 180:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Dyplomy doktorskie i dyplomy habilitacyjne oraz ich duplikaty i odpisy, a także zaświadczenia o uzyskaniu stopnia naukowego i stopnia w zakresie sztuki, przeznaczone do obrotu prawnego z zagranicą, są uwierzytelniane na wniosek zainteresowanego przez:”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku konieczności spełnienia wymagań określonych przez inne państwo albo w innych uzasadnionych przypadkach dyrektor NAWA uwierzytelnia inne niż wymienione w ust. 1 dokumenty dotyczące nadania stopnia naukowego i stopnia w zakresie sztuki.”;
+
+- **24)** art. 181 otrzymuje brzmienie: „Art. 181. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+- **1)** niezbędne elementy dyplomu doktorskiego i dyplomu habilitacyjnego, sposób sporządzania duplikatów i odpisów tych dyplomów oraz dokonywania w nich sprostowań i zmian danych osobowych, mając na uwadze konieczność zapewnienia kompletności i aktualności informacji zawartych w dyplomie doktorskim i dyplomie habilitacyjnym;
+- **2)** wzór legitymacji doktoranta i sposób potwierdzania jej ważności, mając na uwadze potrzebę poświadczenia statusu doktoranta;
+- **3)** sposób uwierzytelniania dokumentów, o których mowa w art. 180 ust. 1 i 1a, przeznaczonych do obrotu prawnego z zagranicą, mając na uwadze szczególne znaczenie dokumentów przeznaczonych do obrotu prawnego z zagranicą;
+- **4)** wysokość i sposób pobierania opłaty za uwierzytelnianie dokumentów, o których mowa w art. 180 ust. 1 i 1a, oraz wysokość opłaty za wydanie duplikatu dyplomu doktorskiego i dyplomu habilitacyjnego, a także odpisu tych dyplomów, w tym w języku obcym, mając na uwadze zapewnienie adekwatności wysokości opłat do kosztów.”;
+- **25)** w art. 182 dodaje się ust. 7 w brzmieniu: „7. W przypadku nauczyciela akademickiego albo pracownika naukowego zatrudnionego w więcej niż jednym podmiocie, o którym mowa w ust. 6, koszty postępowania:
+- **1)** ponosi podmiot będący podstawowym miejscem pracy tego nauczyciela albo pracownika, chyba że podmioty umówią się inaczej;
+- **2)** są ponoszone na podstawie umowy między podmiotami, jeżeli żaden z nich nie został wskazany jako podstawowe miejsce pracy tego nauczyciela albo pracownika.”;
+- **26)** w art. 185:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Uprawnienie do nadawania stopnia doktora posiadają uczelnia, instytut PAN, instytut badawczy albo instytut międzynarodowy, które w danej dyscyplinie posiadają:
+
+- **1)** kategorię naukową A+, A albo B+ albo
+- **2)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 – zwane dalej „podmiotem doktoryzującym”.”,
+    - **b)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Stopień doktora może być nadany również wspólnie przez podmioty doktoryzujące w dyscyplinie, w której każdy z nich posiada kategorię naukową A+, A albo B+ lub uprawnienie nadane w trybie określonym w art. 226a ust. 1, w tym z udziałem podmiotów zagranicznych posiadających uprawnienia do nadawania stopnia doktora w zakresie dyscypliny, w której stopień ten jest nadawany.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. W przypadku, o którym mowa w art. 177 ust. 6, stopień doktora może być nadany w dziedzinie nauki przez podmiot doktoryzujący, który posiada kategorie naukowe A+, A albo B+ lub uprawnienia nadane w trybie określonym w art. 226a ust. 1 w ponad połowie dyscyplin zawierających się w tej dziedzinie.”;
+
+- **27)** w art. 186 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W celu weryfikacji spełnienia wymagania, o którym mowa w ust. 1 pkt 2, w przypadku osoby ubiegającej się o nadanie stopnia doktora, która nie posiada odpowiedniego certyfikatu lub dyplomu ukończenia studiów, podmiot doktoryzujący może przeprowadzić egzamin potwierdzający znajomość nowożytnego języka obcego na poziomie biegłości językowej B2.”;
+- **28)** w art. 188 ust. 1 otrzymuje brzmienie: „1. Podmiot doktoryzujący udostępnia w BIP na swojej stronie podmiotowej, nie później niż w terminie:
+- **1)** 30 dni przed wyznaczonym terminem obrony rozprawy doktorskiej:
+    - **a)** rozprawę doktorską będącą pracą pisemną wraz z jej streszczeniem albo opis rozprawy doktorskiej niebędącej pracą pisemną,
+    - **b)** recenzje;
+
+- **2)** 10 dni przed wyznaczonym terminem obrony rozprawy doktorskiej – informację o terminie, miejscu i sposobie jej przeprowadzenia.”;
+- **29)** w art. 189 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Podmiot doktoryzujący odmawia wszczęcia postępowania w sprawie nadania stopnia doktora, jeżeli osoba, która złożyła wniosek o wszczęcie tego postępowania, nie spełnia wymagań określonych w art. 186 ust. 1 pkt 1–3 albo ust. 2 albo wymagania, o którym mowa w ust. 1 zdanie drugie. Na postanowienie o odmowie wszczęcia postępowania przysługuje zażalenie do RDN.”;
+- **30)** w art. 190 ust. 4 otrzymuje brzmienie: „4. Promotorem i recenzentem może być osoba posiadająca co najmniej stopień doktora habilitowanego, a promotorem pomocniczym – osoba posiadająca co najmniej stopień doktora.”;
+- **31)** w art. 191 po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Obrona rozprawy doktorskiej ma charakter publiczny, z wyłączeniem obrony rozprawy doktorskiej, o której mowa w art. 188 ust. 2.”;
+- **32)** w art. 192 w ust. 2 pkt 1 otrzymuje brzmienie: „1) sposób wyznaczania i zmiany promotora, promotorów lub promotora pomocniczego w przypadku osób ubiegających się o nadanie stopnia doktora w trybie eksternistycznym;”;
+- **33)** w art. 198:
+    - **a)** ust. 3 i 4 otrzymują brzmienie: „3. Szkoła doktorska może być prowadzona przez uczelnię akademicką, instytut PAN, instytut badawczy albo instytut międzynarodowy posiadające:
+
+- **1)** kategorię naukową A+, A albo B+ w co najmniej 2 dyscyplinach albo
+- **2)** kategorię naukową A+, A albo B+ w co najmniej 1 dyscyplinie i uprawnienie nadane w trybie określonym w art. 226a ust. 1 w co najmniej 1 dyscyplinie, albo
+- **3)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 w co najmniej 2 dyscyplinach – zwane dalej „podmiotem prowadzącym szkołę doktorską”.
+
+4. Szkoła doktorska może być prowadzona przez uczelnię akademicką, która prowadzi działalność naukową wyłącznie w 1 dyscyplinie, która jest dyscypliną w zakresie teologii albo kultury fizycznej, albo dyscypliną artystyczną, i posiada w niej kategorię naukową A+, A albo B+ albo uprawnienie nadane w trybie określonym w art. 226a ust. 1.”,
+
+- **b)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Szkoła doktorska może być prowadzona wspólnie przez uczelnie akademickie, instytuty PAN, instytuty badawcze lub instytuty międzynarodowe, z których każde posiada kategorię naukową A+, A albo B+ albo uprawnienie nadane w trybie określonym w art. 226a ust. 1 w co najmniej 1 dyscyplinie.”;
+- **34)** w art. 199 pkt 1 otrzymuje brzmienie: „1) prowadzenia kształcenia doktorantów w ramach dyscypliny, w której:
+    - **a)** uzyskał kategorię naukową B albo C,
+    - **b)** utracił uprawnienie nadane w trybie określonym w art. 226a ust. 1,”;
+
+- **35)** w art. 202 w ust. 4 zdanie pierwsze otrzymuje brzmienie: „Ocena śródokresowa jest przeprowadzana przez komisję, w skład której wchodzą 3 osoby, w tym co najmniej 1 osoba posiadająca stopień doktora habilitowanego albo tytuł profesora w dyscyplinie, w której jest przygotowywana rozprawa doktorska, zatrudniona poza podmiotem prowadzącym szkołę doktorską albo osoba, o której mowa w art. 190 ust. 5.”;
+- **36)** w art. 203:
+    - **a)** w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–6 w brzmieniu: „4) niepodjęcia kształcenia;
+
+- **5)** naruszenia zakazu, o którym mowa w art. 200 ust. 7 lub art. 209 ust. 10;
+- **6)** ukarania karą dyscyplinarną wydalenia ze szkoły doktorskiej.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W postępowaniu w sprawie skreślenia doktoranta z listy doktorantów, w przypadkach, o których mowa w ust. 1 pkt 5, wzywa się doktoranta do złożenia, w terminie nie krótszym niż 30 dni, rezygnacji z kształcenia w innej szkole doktorskiej lub z zatrudnienia jako nauczyciel akademicki albo pracownik naukowy.”;
+
+- **37)** w art. 206 dodaje się ust. 3 w brzmieniu: „3. Podmiot prowadzący szkołę doktorską w dyscyplinie, która została włączona do innej dyscypliny albo do innych dyscyplin, który w wyniku kolejnej ewaluacji jakości działalności naukowej nie otrzyma kategorii naukowej co najmniej B+ w dyscyplinie albo w żadnej z dyscyplin wskazanych przez RDN zgodnie z art. 5 ust. 4 pkt 3, albo nie zostanie objęty tą ewaluacją w tej dyscyplinie albo w żadnej z tych dyscyplin, zapewnia doktorantom przygotowującym rozprawę doktorską w dyscyplinie, która została włączona, możliwość kontynuowania kształcenia w innej szkole doktorskiej. Przepisy ust. 1a i 2 stosuje się.”;
+- **38)** w art. 208 dodaje się ust. 5 w brzmieniu: „5. Podmiot prowadzący szkołę doktorską, w której doktorant zagranicznej uczelni lub instytucji naukowej odbywa część kształcenia, wydaje temu doktorantowi, na jego wniosek, legitymację doktoranta.”;
+- **39)** art. 214 otrzymuje brzmienie: „Art. 214. Jednostka samorządu terytorialnego może przyznać osobom legitymującym się legitymacją doktoranta ulgi w opłatach za przejazdy publicznymi środkami komunikacji miejskiej.”;
+- **40)** w art. 216 w ust. 2 wyrazy „art. 111 ust. 2–5” zastępuje się wyrazami „art. 111 ust. 2–7”;
+- **41)** art. 217 otrzymuje brzmienie: „Art. 217. Osoba ubiegająca się o nadanie stopnia doktora w trybie eksternistycznym przed wszczęciem postępowania składa wniosek o wyznaczenie promotora lub promotorów albo promotora i promotora pomocniczego.”;
+- **42)** po art. 217 dodaje się art. 217a–217c w brzmieniu: „Art. 217a. Promotor lub promotorzy sporządzają opinię o rozprawie doktorskiej przygotowanej w trybie eksternistycznym w terminie 2 miesięcy od dnia jej przekazania do zaopiniowania.
+
+**Art. 217b.** Do osób przygotowujących rozprawę doktorską w trybie eksternistycznym, którym wyznaczono promotora lub promotorów albo promotora i promotora pomocniczego, stosuje się odpowiednio przepisy art. 212 i art. 213.
+
+**Art. 217c.** Senat albo rada naukowa określi w drodze uchwały warunki korzystania z infrastruktury badawczej i informatycznej podmiotu doktoryzującego przez osoby przygotowujące rozprawę doktorską w trybie eksternistycznym.”;
+
+- **43)** art. 218 otrzymuje brzmienie: „Art. 218. Uprawnienie do nadawania stopnia doktora habilitowanego posiadają uczelnia, instytut PAN, instytut badawczy albo instytut międzynarodowy, które w danej dyscyplinie posiadają:
+- **1)** kategorię naukową A+, A albo B+ albo
+- **2)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 – zwane dalej „podmiotem habilitującym”.”;
+- **44)** w art. 220 ust. 1 otrzymuje brzmienie: „1. Postępowanie w sprawie nadania stopnia doktora habilitowanego wszczyna się na wniosek osoby ubiegającej się o stopień doktora habilitowanego, składany do podmiotu habilitującego za pośrednictwem RDN.”;
+- **45)** w art. 221:
+    - **a)** ust. 9 otrzymuje brzmienie: „9. Komisja habilitacyjna przeprowadza kolokwium habilitacyjne w zakresie osiągnięć naukowych lub artystycznych osoby ubiegającej się o stopień doktora habilitowanego.”,
+    - **b)** po ust. 9a dodaje się ust. 9b i 9c w brzmieniu: „9b. Kolokwium habilitacyjne ma charakter publiczny, z wyłączeniem kolokwium w zakresie osiągnięć, o których mowa w art. 219 ust. 3.
+
+9c. Kolokwium habilitacyjnego nie przeprowadza się, jeżeli co najmniej 2 recenzje są negatywne.”;
+
+- **46)** w art. 222:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podmiot habilitujący udostępnia w BIP na swojej stronie podmiotowej:
+
+- **1)** wniosek osoby ubiegającej się o stopień doktora habilitowanego;
+- **2)** informację o składzie komisji habilitacyjnej;
+- **3)** recenzje;
+- **4)** informację o terminie, miejscu i sposobie przeprowadzenia kolokwium habilitacyjnego;
+- **5)** uchwałę zawierającą opinię w sprawie nadania stopnia doktora habilitowanego wraz z uzasadnieniem;
+- **6)** decyzję o nadaniu stopnia doktora habilitowanego albo o odmowie jego nadania.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Informację, o której mowa w ust. 1 pkt 4, podmiot habilitujący udostępnia nie później niż w terminie 10 dni przed wyznaczonym terminem przeprowadzenia kolokwium habilitacyjnego.”;
+
+- **47)** w art. 224 dodaje się ust. 3 i 4 w brzmieniu: „3. Osoba ubiegająca się o stopień doktora habilitowanego składa do RDN wniosek o wyrażenie zgody na skrócenie okresu na wystąpienie z ponownym wnioskiem o wszczęcie postępowania w sprawie nadania tego stopnia wraz z dokumentami potwierdzającymi znaczne zwiększenie dorobku naukowego lub artystycznego.
+
+4. W terminie 8 tygodni od dnia otrzymania wniosku o wyrażenie zgody na skrócenie okresu na wystąpienie z ponownym wnioskiem o wszczęcie postępowania w sprawie nadania stopnia doktora habilitowanego RDN wydaje w tej sprawie postanowienie. Na postanowienie RDN nie przysługuje zażalenie.”;
+
+- **48)** w dziale V po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Szczególne zasady nadawania uprawnień do nadawania stopnia doktora i doktora habilitowanego
 
 **Art. 226a.**
 
-1. W przypadku wyodrębnienia klasyfikacji dziedzin i dyscyplin nowej dyscypliny RDN może, na wniosek uczelni, instytutu PAN, instytutu badawczego albo instytutu międzynarodowego, drodze decyzji administracyjnej, nadać temu podmiotowi uprawnienie do nadawania stopnia doktora i stopnia doktora habilitowanego tej dyscyplinie.
+1. W przypadku wyodrębnienia w klasyfikacji dziedzin i dyscyplin nowej dyscypliny RDN może, na wniosek uczelni, instytutu PAN, instytutu badawczego albo instytutu międzynarodowego, w drodze decyzji administracyjnej, nadać temu podmiotowi uprawnienie do nadawania stopnia doktora i stopnia doktora habilitowanego w tej dyscyplinie.
 
-2. Wniosek, o którym mowa ust. 1, może złożyć uczelnia, instytut PAN, instytut badawczy albo instytut międzynarodowy, które spełniają łącznie następujące warunki:
+2. Wniosek, o którym mowa w ust. 1, może złożyć uczelnia, instytut PAN, instytut badawczy albo instytut międzynarodowy, które spełniają łącznie następujące warunki:
 
 - **1)** zatrudniają co najmniej 12 pracowników:
-    - **a)** prowadzących działalność naukową dyscyplinie, o której mowa ust. 1, przeliczeniu na pełny wymiar czasu pracy związanej z prowadzeniem działalności naukowej tej dyscyplinie, albo co najmniej 1 z tych dyscyplin.
+    - **a)** prowadzących działalność naukową w dyscyplinie, o której mowa w ust. 1, w przeliczeniu na pełny wymiar czasu pracy związanej z prowadzeniem działalności naukowej w tej dyscyplinie,
+    - **b)** posiadających osiągnięcia naukowe albo artystyczne w dyscyplinie albo w dyscyplinach wskazanych przez RDN zgodnie z art. 5 ust. 4 pkt 1;
 
-3. Uprawnienie nadane trybie określonym ust. 1 przysługuje do dnia, którym decyzja o przyznaniu danej uczelni, danemu instytutowi PAN, instytutowi badawczemu albo instytutowi międzynarodowemu kategorii naukowej ramach kolejnej ewaluacji jakości działalności naukowej dyscyplinie, o której mowa ust. 1, stanie się ostateczna. W przypadku gdy podmiot nie jest objęty kolejną ewaluacją jakości działalności naukowej dyscyplinie, której zostało mu nadane to uprawnienie, traci je z końcem roku, którym rozpoczęła się ta ewaluacja.
+- **2)** posiadają kategorię naukową A+, A albo B+ w dyscyplinie wskazanej przez RDN zgodnie z art. 5 ust. 4 pkt 1, albo w co najmniej 1 z tych dyscyplin.
 
-4. Od decyzji, o której mowa ust. 1, przysługuje wniosek o ponowne rozpatrzenie sprawy.”;
+3. Uprawnienie nadane w trybie określonym w ust. 1 przysługuje do dnia, w którym decyzja o przyznaniu danej uczelni, danemu instytutowi PAN, instytutowi badawczemu albo instytutowi międzynarodowemu kategorii naukowej w ramach kolejnej ewaluacji jakości działalności naukowej w dyscyplinie, o której mowa w ust. 1, stanie się ostateczna. W przypadku gdy podmiot nie jest objęty kolejną ewaluacją jakości działalności naukowej w dyscyplinie, w której zostało mu nadane to uprawnienie, traci je z końcem roku, w którym rozpoczęła się ta ewaluacja.
 
-- **49)** 228:
-    - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. RDN, drodze uchwały, określi wzór wniosku, o którym mowa ust. 1, i dokumenty składane wraz z tym wnioskiem.”,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. Od decyzji, o której mowa ust. 5 pkt 2, przysługuje, terminie 3 miesięcy od dnia jej doręczenia, wniosek o ponowne rozpatrzenie sprawy.”,
-    - **c)** ust. 8 otrzymuje brzmienie: „8. W postępowaniu sprawie wniosku o ponowne rozpatrzenie sprawy RDN zasięga opinii 2 recenzentów innych niż powołani zgodnie z ust. 3. Do powołania tych recenzentów przepisy 240 stosuje się.”;
+4. Od decyzji, o której mowa w ust. 1, przysługuje wniosek o ponowne rozpatrzenie sprawy.”;
 
-- **50)** po 228 dodaje się 228a brzmieniu: „Art. 228a. Postępowania sprawie nadania tytułu profesora w:
+- **49)** w art. 228:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. RDN, w drodze uchwały, określi wzór wniosku, o którym mowa w ust. 1, i dokumenty składane wraz z tym wnioskiem.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Od decyzji, o której mowa w ust. 5 pkt 2, przysługuje, w terminie 3 miesięcy od dnia jej doręczenia, wniosek o ponowne rozpatrzenie sprawy.”,
+    - **c)** ust. 8 otrzymuje brzmienie: „8. W postępowaniu w sprawie wniosku o ponowne rozpatrzenie sprawy RDN zasięga opinii 2 recenzentów innych niż powołani zgodnie z ust. 3. Do powołania tych recenzentów przepisy art. 240 stosuje się.”;
+
+- **50)** po art. 228 dodaje się art. 228a w brzmieniu: „Art. 228a. Postępowania w sprawie nadania tytułu profesora w:
 - **1)** dyscyplinie, która została włączona do innej dyscypliny albo do innych dyscyplin,
-- **2)** dziedzinie, która została włączona do innej dziedziny albo do innych dziedzin – wszczęte przed dniem wprowadzenia tej zmiany do klasyfikacji dziedzin i dyscyplin prowadzi się dyscyplinie albo dziedzinie, która została włączona, na zasadach dotychczasowych do dnia zakończenia tych postępowań.”;
-- **51)** 231 ust. 1 otrzymuje brzmienie: „1. Prawomocne orzeczenie sądu stwierdzające fakt:
+- **2)** dziedzinie, która została włączona do innej dziedziny albo do innych dziedzin – wszczęte przed dniem wprowadzenia tej zmiany do klasyfikacji dziedzin i dyscyplin prowadzi się w dyscyplinie albo w dziedzinie, która została włączona, na zasadach dotychczasowych do dnia zakończenia tych postępowań.”;
+- **51)** w art. 231 ust. 1 otrzymuje brzmienie: „1. Prawomocne orzeczenie sądu stwierdzające fakt:
 - **1)** złożenia niezgodnego z prawdą oświadczenia lustracyjnego lub
-- **2)** naruszenia praw autorskich – przez osobę, o której mowa 227 ust. 1 albo 2, której nadano tytuł profesora, skutkuje utratą tego tytułu.”;
-- **52)** 232 po ust. 2 dodaje się ust. 2a brzmieniu: „2a. RDN jest organem wyższego stopnia rozumieniu przepisów Kpa stosunku do podmiotów doktoryzujących i podmiotów habilitujących sprawach nadawania stopni naukowych i stopni zakresie sztuki.”;
-- **53)** 233:
-    - **a)** ust. 4 dodaje się zdanie drugie brzmieniu: „W przypadku gdy zakres danej dziedziny obejmuje tylko 1 dyscyplinę, skład RDN wchodzi 5 przedstawicieli tej dyscypliny.”,
-    - **b)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. W przypadku zmiany klasyfikacji dziedzin i dyscyplin polegającej na:
+- **2)** naruszenia praw autorskich – przez osobę, o której mowa w art. 227 ust. 1 albo 2, której nadano tytuł profesora, skutkuje utratą tego tytułu.”;
+- **52)** w art. 232 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. RDN jest organem wyższego stopnia w rozumieniu przepisów Kpa w stosunku do podmiotów doktoryzujących i podmiotów habilitujących w sprawach nadawania stopni naukowych i stopni w zakresie sztuki.”;
+- **53)** w art. 233:
+    - **a)** w ust. 4 dodaje się zdanie drugie w brzmieniu: „W przypadku gdy zakres danej dziedziny obejmuje tylko 1 dyscyplinę, w skład RDN wchodzi 5 przedstawicieli tej dyscypliny.”,
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku zmiany w klasyfikacji dziedzin i dyscyplin polegającej na:
 
 - **1)** wyodrębnieniu nowej dyscypliny,
-- **2)** włączeniu dyscypliny do innej dyscypliny albo do innych dyscyplin – RDN działa dotychczasowym składzie do końca kadencji, trakcie której wyodrębnienie albo włączenie nastąpiło.”, uprawnienie nadane trybie określonym 226a ust. 1.”;
-- **54)** 235:
-    - **a)** ust. 2 pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 brzmieniu: „3) zespoły, o których mowa ust. 5.”,
-    - **b)** ust. 3 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) 2 zastępców przewodniczącego;”;
+- **2)** włączeniu dyscypliny do innej dyscypliny albo do innych dyscyplin – RDN działa w dotychczasowym składzie do końca kadencji, w trakcie której wyodrębnienie albo włączenie nastąpiło.”,
+    - **c)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Kandydata na członka RDN reprezentującego daną dyscyplinę może zgłosić uczelnia, instytut PAN, instytut badawczy lub instytut międzynarodowy, które w tej dyscyplinie posiadają kategorię naukową A+, A albo B+ albo uprawnienie nadane w trybie określonym w art. 226a ust. 1.”;
 
-- **55)** 238 ust. 1:
-    - **a)** pkt 2 otrzymuje brzmienie: „2) rozpatrywanie zażaleń na postanowienia o odmowie wszczęcia postępowania sprawie nadania stopnia doktora, zażaleń na postanowienia o odmowie dopuszczenia do obrony rozprawy doktorskiej i odwołań od decyzji o odmowie nadania stopnia doktora;”,
-    - **b)** po pkt 4 dodaje się pkt 4a brzmieniu: „4a) rozpatrywanie wniosków o wyrażenie zgody na skrócenie okresu na wystąpienie z ponownym wnioskiem o wszczęcie postępowania sprawie nadania stopnia doktora habilitowanego;”,
-    - **c)** po pkt 6 dodaje się pkt 6a brzmieniu: „6a) podejmowanie uchwał sprawach, o których mowa 5 ust. 4;”;
+- **54)** w art. 235:
+    - **a)** w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) zespoły, o których mowa w ust. 5.”,
+    - **b)** w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) 2 zastępców przewodniczącego;”;
 
-- **56)** 240:
-    - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. RDN sporządza listę kandydatów na recenzentów, wskazanych zgodnie z ust. 1. Kolejność kandydatów na liście ustala się drodze losowania.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Recenzenci są wyznaczani przez RDN według kolejności na liście, o której mowa ust. 1a.”;
+- **55)** w art. 238 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) rozpatrywanie zażaleń na postanowienia o odmowie wszczęcia postępowania w sprawie nadania stopnia doktora, zażaleń na postanowienia o odmowie dopuszczenia do obrony rozprawy doktorskiej i odwołań od decyzji o odmowie nadania stopnia doktora;”,
+    - **b)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) rozpatrywanie wniosków o wyrażenie zgody na skrócenie okresu na wystąpienie z ponownym wnioskiem o wszczęcie postępowania w sprawie nadania stopnia doktora habilitowanego;”,
+    - **c)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) podejmowanie uchwał w sprawach, o których mowa w art. 5 ust. 4;”;
 
-- **57)** 269 po ust. 2 dodaje się ust. 2a–2c brzmieniu: „2a. W przypadku zmiany nazwy dyscypliny, której podmiotowi została przyznana kategoria naukowa, kategorię przyznaną dyscyplinie przed zmianą jej nazwy uważa się za kategorię dyscyplinie po zmianie jej nazwy, zgodnie z przyporządkowaniem dokonanym przez RDN na podstawie 5 ust. 4 pkt 2.
+- **56)** w art. 240:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. RDN sporządza listę kandydatów na recenzentów, wskazanych zgodnie z ust. 1. Kolejność kandydatów na liście ustala się w drodze losowania.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Recenzenci są wyznaczani przez RDN według kolejności na liście, o której mowa w ust. 1a.”;
 
-2b. W przypadku włączenia dyscypliny, której podmiotowi została przyznana kategoria naukowa, do innej dyscypliny albo do innych dyscyplin wskazanych przez RDN zgodnie z 5 ust. 4 pkt 3, podmiot ten zachowuje przyznaną kategorię do dnia, którym decyzja o przyznaniu kategorii naukowej ramach kolejnej ewaluacji jakości działalności naukowej dyscyplinie, do której dana dyscyplina została włączona, albo co najmniej 1 z dyscyplin, do których dana dyscyplina została włączona, stanie się ostateczna. Jeżeli podmiot nie jest objęty kolejną ewaluacją jakości działalności naukowej dyscyplinie, do której dana dyscyplina została włączona, albo co najmniej 1 z dyscyplin, do których dana dyscyplina została włączona, traci kategorię naukową przyznaną dyscyplinie, która została włączona, z końcem roku, którym rozpoczęła się ta ewaluacja.
+- **57)** w art. 269 po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. W przypadku zmiany nazwy dyscypliny, w której podmiotowi została przyznana kategoria naukowa, kategorię przyznaną w dyscyplinie przed zmianą jej nazwy uważa się za kategorię w dyscyplinie po zmianie jej nazwy, zgodnie z przyporządkowaniem dokonanym przez RDN na podstawie art. 5 ust. 4 pkt 2.
+
+2b. W przypadku włączenia dyscypliny, w której podmiotowi została przyznana kategoria naukowa, do innej dyscypliny albo do innych dyscyplin wskazanych przez RDN zgodnie z art. 5 ust. 4 pkt 3, podmiot ten zachowuje przyznaną kategorię do dnia, w którym decyzja o przyznaniu kategorii naukowej w ramach kolejnej ewaluacji jakości działalności naukowej w dyscyplinie, do której dana dyscyplina została włączona, albo w co najmniej 1 z dyscyplin, do których dana dyscyplina została włączona, stanie się ostateczna. Jeżeli podmiot nie jest objęty kolejną ewaluacją jakości działalności naukowej w dyscyplinie, do której dana dyscyplina została włączona, albo w co najmniej 1 z dyscyplin, do których dana dyscyplina została włączona, traci kategorię naukową przyznaną w dyscyplinie, która została włączona, z końcem roku, w którym rozpoczęła się ta ewaluacja.
 
 2c. Niezależnie od zachowania przyznanej kategorii naukowej zgodnie z ust. 2b:
 
-- **1)** od dnia włączenia dyscypliny do innej dyscypliny albo do innych dyscyplin nie wszczyna się postępowań sprawie nadania stopnia doktora i stopnia doktora habilitowanego dyscyplinie, która została włączona;
-- **2)** postępowania sprawie nadania stopnia doktora i stopnia doktora habilitowanego wszczęte przed dniem włączenia dyscypliny do innej dyscypliny albo do innych dyscyplin, prowadzi się dyscyplinie, która została włączona, na zasadach dotychczasowych do dnia zakończenia tych postępowań.”; „1) co najmniej 1 dyscyplinie danej dziedzinie posiadają kategorię naukową A+, A albo B+ albo uprawnienie nadane trybie określonym 226a ust. 1 oraz”,
-    - **b)** po ust. 5 dodaje się ust. 5a brzmieniu: „5a. W przypadku zmiany klasyfikacji dziedzin i dyscyplin polegającej na:
+- **1)** od dnia włączenia dyscypliny do innej dyscypliny albo do innych dyscyplin nie wszczyna się postępowań w sprawie nadania stopnia doktora i stopnia doktora habilitowanego w dyscyplinie, która została włączona;
+- **2)** postępowania w sprawie nadania stopnia doktora i stopnia doktora habilitowanego wszczęte przed dniem włączenia dyscypliny do innej dyscypliny albo do innych dyscyplin, prowadzi się w dyscyplinie, która została włączona, na zasadach dotychczasowych do dnia zakończenia tych postępowań.”;
+- **58)** w art. 271:
+    - **a)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) co najmniej w 1 dyscyplinie w danej dziedzinie posiadają kategorię naukową A+, A albo B+ albo uprawnienie nadane w trybie określonym w art. 226a ust. 1 oraz”,
+    - **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku zmiany w klasyfikacji dziedzin i dyscyplin polegającej na:
 
 - **1)** wyodrębnieniu nowej dziedziny,
-- **2)** włączeniu dziedziny do innej dziedziny albo do innych dziedzin – KEN działa dotychczasowym składzie do końca kadencji, trakcie której wyodrębnienie albo włączenie nastąpiło.”;
-- **59)** 323 ust. 3 otrzymuje brzmienie: „3. Minister może upoważnić dyrektora NAWA do wydawania decyzji:
-- **1)** o których mowa ust. 1 pkt 3;
-- **2)** sprawach, o których mowa ust. 2;
-- **3)** o których mowa 324 ust. 1 pkt 2, dla cudzoziemców niebędących stypendystami NAWA.”;
-- **60)** 324:
-    - **a)** ust. 2 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) cudzoziemca – obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm. ), oraz członków jego rodziny, mieszkających na terytorium Rzeczypospolitej Polskiej;”,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. O stypendium socjalne, o którym mowa 86 ust. 1 pkt 1, i o kredyt studencki, o którym mowa 98 ust. 1, może ubiegać się cudzoziemiec, o którym mowa ust. 2:
+- **2)** włączeniu dziedziny do innej dziedziny albo do innych dziedzin – KEN działa w dotychczasowym składzie do końca kadencji, w trakcie której wyodrębnienie albo włączenie nastąpiło.”;
+- **59)** w art. 323 ust. 3 otrzymuje brzmienie: „3. Minister może upoważnić dyrektora NAWA do wydawania decyzji:
+- **1)** o których mowa w ust. 1 pkt 3;
+- **2)** w sprawach, o których mowa w ust. 2;
+- **3)** o których mowa w art. 324 ust. 1 pkt 2, dla cudzoziemców niebędących stypendystami NAWA.”;
+- **60)** w art. 324:
+    - **a)** w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) cudzoziemca – obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm. ), oraz członków jego rodziny, mieszkających na terytorium Rzeczypospolitej Polskiej;”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. O stypendium socjalne, o którym mowa w art. 86 ust. 1 pkt 1, i o kredyt studencki, o którym mowa w art. 98 ust. 1, może ubiegać się cudzoziemiec, o którym mowa w ust. 2:
 
 - **1)** pkt 1 i 1a: z 2021 r. poz. 1697),
-    - **a)** będący osobą pracującą na własny rachunek lub pracownikiem, o których mowa 2 pkt 5 i 7 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U.
-    - **b)** który zachowuje prawo pobytu przypadkach, o których mowa 17 ustawy, o której mowa lit. a,
+    - **a)** będący osobą pracującą na własny rachunek lub pracownikiem, o których mowa w art. 2 pkt 5 i 7 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U.
+    - **b)** który zachowuje prawo pobytu w przypadkach, o których mowa w art. 17 ustawy, o której mowa w lit. a,
     - **c)** posiadający prawo stałego pobytu – oraz członkowie jego rodziny, mieszkający na terytorium Rzeczypospolitej Polskiej;
 
 - **2)** pkt 2–8.
 
-4. Za członków rodzin osób, o których mowa ust. 2 pkt 1 i 1a oraz ust. 3 pkt 1, uważa się osoby wymienione 2 pkt 4 ustawy, o której mowa ust. 3 pkt 1 lit. a.”;
+4. Za członków rodzin osób, o których mowa w ust. 2 pkt 1 i 1a oraz ust. 3 pkt 1, uważa się osoby wymienione w art. 2 pkt 4 ustawy, o której mowa w ust. 3 pkt 1 lit. a.”;
 
-- **61)** 326 ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) kontynuacji kształcenia na studiach drugiego stopnia lub na studiach podyplomowych, lub
-- **2)** ubiegania się o przyjęcie do szkoły doktorskiej lub o nadanie stopnia doktora.”; „3a. Stopień naukowy i stopień zakresie sztuki nie może zostać uznany za równoważny z odpowiednim polskim stopniem, jeżeli:
+- **61)** w art. 326 w ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) kontynuacji kształcenia na studiach drugiego stopnia lub na studiach podyplomowych, lub
+- **2)** ubiegania się o przyjęcie do szkoły doktorskiej lub o nadanie stopnia doktora.”;
+- **62)** w art. 328:
+    - **a)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Stopień naukowy i stopień w zakresie sztuki nie może zostać uznany za równoważny z odpowiednim polskim stopniem, jeżeli:
+
 - **1)** instytucja, która go nadała:
-    - **a)** nie działa systemie szkolnictwa wyższego i nauki żadnego państwa lub
-    - **b)** rozumieniu prawa wewnętrznego państwa, którego systemie szkolnictwa wyższego i nauki działa ta instytucja, dniu nadania tego stopnia nie posiadała uprawnień do nadawania stopni naukowych lub stopni zakresie sztuki;
+    - **a)** nie działa w systemie szkolnictwa wyższego i nauki żadnego państwa lub
+    - **b)** w rozumieniu prawa wewnętrznego państwa, w którego systemie szkolnictwa wyższego i nauki działa ta instytucja, w dniu nadania tego stopnia nie posiadała uprawnień do nadawania stopni naukowych lub stopni w zakresie sztuki;
 
-- **2)** kształcenie prowadzące do uzyskania tego stopnia albo część tego kształcenia realizowano niezgodnie z przepisami państwa, którym kształcenie to było prowadzone.”,
-    - **b)** ust. 4 zdanie drugie otrzymuje brzmienie: „Postępowanie prowadzi podmiot posiadający kategorię naukową A+ albo A dyscyplinie, której dotyczy wniosek, a jeżeli wniosek dotyczy dyscypliny nauk teologicznych – także Uniwersytet Papieski Jana Pawła II Krakowie.”;
+- **2)** kształcenie prowadzące do uzyskania tego stopnia albo część tego kształcenia realizowano niezgodnie z przepisami państwa, w którym kształcenie to było prowadzone.”,
+    - **b)** w ust. 4 zdanie drugie otrzymuje brzmienie: „Postępowanie prowadzi podmiot posiadający kategorię naukową A+ albo A w dyscyplinie, której dotyczy wniosek, a jeżeli wniosek dotyczy dyscypliny nauk teologicznych – także Uniwersytet Papieski Jana Pawła II w Krakowie.”;
 
-- **63)** 341 otrzymuje brzmienie: „Art. 341. Minister może powoływać zespoły doradcze lub ekspertów celu przedstawienia opinii lub ekspertyzy na jego potrzeby, szczególności opinii dotyczących przyznawania lub rozliczania środków finansowych, o których mowa 365 pkt 4 lit. b, pkt 5 i 7–9.”;
-- **64)** 343 po ust. 7 dodaje się ust. 7a brzmieniu: „7a. W przypadku:
-- **1)** zmiany klasyfikacji dziedzin i dyscyplin polegającej na zmianie:
+- **63)** art. 341 otrzymuje brzmienie: „Art. 341. Minister może powoływać zespoły doradcze lub ekspertów w celu przedstawienia opinii lub ekspertyzy na jego potrzeby, w szczególności opinii dotyczących przyznawania lub rozliczania środków finansowych, o których mowa w art. 365 pkt 4 lit. b, pkt 5 i 7–9.”;
+- **64)** w art. 343 po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. W przypadku:
+- **1)** zmiany w klasyfikacji dziedzin i dyscyplin polegającej na zmianie:
     - **a)** nazwy dyscypliny,
-    - **b)** przyporządkowania dyscypliny do dziedziny – osoba prowadząca działalność naukową i osoba biorąca udział prowadzeniu działalności naukowej składa oświadczenie, o którym mowa ust. 7, terminie 30 dni od dnia wejścia życie przepisów wydanych na podstawie 5 ust. 3, na mocy których zmiany te nastąpiły;
+    - **b)** przyporządkowania dyscypliny do dziedziny – osoba prowadząca działalność naukową i osoba biorąca udział w prowadzeniu działalności naukowej składa oświadczenie, o którym mowa w ust. 7, w terminie 30 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 5 ust. 3, na mocy których zmiany te nastąpiły;
 
-- **2)** wyodrębnienia klasyfikacji dziedzin i dyscyplin nowej dyscypliny osoba prowadząca działalność naukową i osoba biorąca udział prowadzeniu działalności naukowej może złożyć oświadczenie, o którym mowa ust. 7, bez zachowania terminu określonego tym przepisie;
-- **3)** włączenia dyscypliny do innej dyscypliny albo do innych dyscyplin osoba prowadząca działalność naukową i osoba biorąca udział prowadzeniu działalności naukowej składa oświadczenie, o którym mowa ust. 7, którym wskazuje dyscyplinę albo 1 z dyscyplin wskazanych przez RDN zgodnie z 5 ust. 4 pkt 3, terminie 30 dni od dnia wejścia życie przepisów wydanych na podstawie 5 ust. 3, na mocy których dyscyplina została włączona do innej dyscypliny albo do innych dyscyplin.”;
-- **65)** 349 ust. 1:
-    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Baza osób upoważnionych do podpisywania dokumentów, o których mowa 78 ust. 3 i 4, 163 ust. 4 oraz 180 ust. 1 i 1a, obejmuje:”,
-    - **b)** pkt 5 lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e brzmieniu: „e) zaświadczeń o uzyskaniu stopnia naukowego i stopnia zakresie sztuki.”;
+- **2)** wyodrębnienia w klasyfikacji dziedzin i dyscyplin nowej dyscypliny osoba prowadząca działalność naukową i osoba biorąca udział w prowadzeniu działalności naukowej może złożyć oświadczenie, o którym mowa w ust. 7, bez zachowania terminu określonego w tym przepisie;
+- **3)** włączenia dyscypliny do innej dyscypliny albo do innych dyscyplin osoba prowadząca działalność naukową i osoba biorąca udział w prowadzeniu działalności naukowej składa oświadczenie, o którym mowa w ust. 7, w którym wskazuje dyscyplinę albo 1 z dyscyplin wskazanych przez RDN zgodnie z art. 5 ust. 4 pkt 3, w terminie 30 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 5 ust. 3, na mocy których dyscyplina została włączona do innej dyscypliny albo do innych dyscyplin.”;
+- **65)** w art. 349 w ust. 1:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Baza osób upoważnionych do podpisywania dokumentów, o których mowa w art. 78 ust. 3 i 4, art. 163 ust. 4 oraz art. 180 ust. 1 i 1a, obejmuje:”,
+    - **b)** w pkt 5 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) zaświadczeń o uzyskaniu stopnia naukowego i stopnia w zakresie sztuki.”;
 
-- **66)** 358 ust. 2 po pkt 4 dodaje się pkt 4a brzmieniu: „4a) uchwałę, o której mowa 217c;”; „1a) przygotowuje rozprawę doktorską trybie eksternistycznym i nie posiada stopnia doktora – jeżeli od dnia wyznaczenia promotora lub promotorów albo promotora i promotora pomocniczego zgodnie z 217 nie upłynęło więcej niż 4 lata, albo”,
-    - **b)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Stypendium może otrzymać również osoba wykazująca się znaczącymi osiągnięciami działalności naukowej, która posiada stopień doktora, prowadzi działalność naukową i jest zatrudniona podmiocie, o którym mowa 7 ust. 1, jeżeli okres 7 lat od dnia uzyskania tego stopnia upłynął po ostatnim dniu terminu składania wniosków o stypendia, określonego przepisach wydanych na podstawie 363 pkt 1.”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Do okresów, o których mowa ust. 2 pkt 2 i ust. 2a, nie wlicza się okresów przebywania na urlopie związanym z rodzicielstwem, określonym przepisach działu ósmego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, lub okresów pobierania zasiłku macierzyńskiego lub świadczenia rodzicielskiego, albo okresów pobierania zasiłku chorobowego lub świadczenia rehabilitacyjnego związku z niezdolnością do pracy, tym spowodowaną chorobą wymagającą rehabilitacji leczniczej.”,
-    - **d)** ust. 4 pkt 1 otrzymuje brzmienie: „1) rektora uczelni, dyrektora instytutu PAN, dyrektora instytutu badawczego albo dyrektora instytutu międzynarodowego, których:
-    - **a)** jest prowadzona szkoła doktorska, której młody naukowiec jest doktorantem,
-    - **b)** młody naukowiec przygotowuje rozprawę doktorską trybie eksternistycznym;”,
-    - **e)** ust. 5 zdanie drugie otrzymuje brzmienie: „Do tego okresu nie wlicza się przerwy działalności naukowej związanej z urlopem związanym z rodzicielstwem, określonym przepisach działu ósmego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, albo pobieraniem zasiłku chorobowego lub świadczenia rehabilitacyjnego związku z niezdolnością do pracy, tym spowodowaną chorobą wymagającą rehabilitacji leczniczej.”,
-    - **f)** ust. 6 otrzymuje brzmienie: „6. Podmiot prowadzący szkołę doktorską, podmiot zatrudniający albo podmiot doktoryzujący przekazuje młodemu naukowcowi środki finansowe ramach stypendium na podstawie umowy.”;
+- **66)** w art. 358 w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) uchwałę, o której mowa w art. 217c;”;
+- **67)** w art. 360:
+    - **a)** w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) przygotowuje rozprawę doktorską w trybie eksternistycznym i nie posiada stopnia doktora – jeżeli od dnia wyznaczenia promotora lub promotorów albo promotora i promotora pomocniczego zgodnie z art. 217 nie upłynęło więcej niż 4 lata, albo”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Stypendium może otrzymać również osoba wykazująca się znaczącymi osiągnięciami w działalności naukowej, która posiada stopień doktora, prowadzi działalność naukową i jest zatrudniona w podmiocie, o którym mowa w art. 7 ust. 1, jeżeli okres 7 lat od dnia uzyskania tego stopnia upłynął po ostatnim dniu terminu składania wniosków o stypendia, określonego w przepisach wydanych na podstawie art. 363 pkt 1.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Do okresów, o których mowa w ust. 2 pkt 2 i ust. 2a, nie wlicza się okresów przebywania na urlopie związanym z rodzicielstwem, określonym w przepisach działu ósmego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, lub okresów pobierania zasiłku macierzyńskiego lub świadczenia rodzicielskiego, albo okresów pobierania zasiłku chorobowego lub świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej.”,
+    - **d)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) rektora uczelni, dyrektora instytutu PAN, dyrektora instytutu badawczego albo dyrektora instytutu międzynarodowego, w których:
+    - **a)** jest prowadzona szkoła doktorska, w której młody naukowiec jest doktorantem,
+    - **b)** młody naukowiec przygotowuje rozprawę doktorską w trybie eksternistycznym;”,
+    - **e)** w ust. 5 zdanie drugie otrzymuje brzmienie: „Do tego okresu nie wlicza się przerwy w działalności naukowej związanej z urlopem związanym z rodzicielstwem, określonym w przepisach działu ósmego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, albo pobieraniem zasiłku chorobowego lub świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej.”,
+    - **f)** ust. 6 otrzymuje brzmienie: „6. Podmiot prowadzący szkołę doktorską, podmiot zatrudniający albo podmiot doktoryzujący przekazuje młodemu naukowcowi środki finansowe w ramach stypendium na podstawie umowy.”;
 
-- **68)** 380:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Rozliczenie środków finansowych, o których mowa 365 pkt 2a, pkt 4 lit. a–c, pkt 5, 7 i 10–12, oraz środków finansowych przyznanych na podstawie 404 następuje na podstawie raportu z wykorzystania tych środków.”,
-    - **b)** dodaje się ust. 3 i 4 brzmieniu: „3. Zatwierdzenie rozliczenia środków finansowych, o których mowa 365 pkt 4 lit. a–c i pkt 10–12, oraz środków finansowych przyznanych na podstawie 404 następuje terminie 60 dni od dnia:
+- **68)** w art. 380:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rozliczenie środków finansowych, o których mowa w art. 365 pkt 2a, pkt 4 lit. a–c, pkt 5, 7 i 10–12, oraz środków finansowych przyznanych na podstawie art. 404 następuje na podstawie raportu z wykorzystania tych środków.”,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Zatwierdzenie rozliczenia środków finansowych, o których mowa w art. 365 pkt 4 lit. a–c i pkt 10–12, oraz środków finansowych przyznanych na podstawie art. 404 następuje w terminie 60 dni od dnia:
 
-- **1)** otrzymania opinii zespołu doradczego, o którym mowa 341 – przypadku powołania takiego zespołu celu przedstawienia opinii dotyczących rozliczania przyznanych środków finansowych;
-- **2)** złożenia raportu z wykorzystania środków finansowych – pozostałych przypadkach.
+- **1)** otrzymania opinii zespołu doradczego, o którym mowa w art. 341 – w przypadku powołania takiego zespołu w celu przedstawienia opinii dotyczących rozliczania przyznanych środków finansowych;
+- **2)** złożenia raportu z wykorzystania środków finansowych – w pozostałych przypadkach.
 
-4. W przypadku konieczności poprawienia lub uzupełnienia raportu z wykorzystania środków finansowych, lub złożenia wyjaśnień do tego raportu termin, o którym mowa ust. 3 pkt 2, jest liczony od dnia złożenia poprawionego lub uzupełnionego raportu, lub od dnia złożenia wyjaśnień do raportu.”;
+4. W przypadku konieczności poprawienia lub uzupełnienia raportu z wykorzystania środków finansowych, lub złożenia wyjaśnień do tego raportu termin, o którym mowa w ust. 3 pkt 2, jest liczony od dnia złożenia poprawionego lub uzupełnionego raportu, lub od dnia złożenia wyjaśnień do raportu.”;
 
-- **69)** 381 ust. 1 otrzymuje brzmienie: „1. Wnioski, opinie, umowy i raporty dotyczące:
-- **1)** zadań finansowanych ze środków finansowych, o których mowa 365 pkt 4 lit. b, pkt 5, 7 i 10–12,
-- **70)** 430 ust. 1 pkt 2 otrzymuje brzmienie: „2) uczelnia nie posiada żadnego pozwolenia na utworzenie studiów;”;
-- **71)** 438 ust. 4 zdanie trzecie otrzymuje brzmienie: „Przepisy 116 ust. 2–3 i 451 ust. 2 stosuje się.”;
-- **72)** 439 ust. 5 zdanie trzecie otrzymuje brzmienie: „Przepisy 116 ust. 2–3 i 451 ust. 4 stosuje się.”.
+- **69)** w art. 381 ust. 1 otrzymuje brzmienie: „1. Wnioski, opinie, umowy i raporty dotyczące:
+- **1)** zadań finansowanych ze środków finansowych, o których mowa w art. 365 pkt 4 lit. b, pkt 5, 7 i 10–12,
+- **2)** Mapy – stanowią tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji.”;
+- **70)** w art. 430 w ust. 1 pkt 2 otrzymuje brzmienie: „2) uczelnia nie posiada żadnego pozwolenia na utworzenie studiów;”;
+- **71)** w art. 438 w ust. 4 zdanie trzecie otrzymuje brzmienie: „Przepisy art. 116 ust. 2–3 i art. 451 ust. 2 stosuje się.”;
+- **72)** w art. 439 w ust. 5 zdanie trzecie otrzymuje brzmienie: „Przepisy art. 116 ust. 2–3 i art. 451 ust. 4 stosuje się.”.
 
-**Art. 2.** W ustawie z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego Warszawie z budżetu państwa (Dz. U. poz. 648) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego w Warszawie z budżetu państwa (Dz. U. poz. 648) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa (Dz. U. poz. 649) 1 otrzymuje brzmienie: „Art. 1. Papieski Wydział Teologiczny we Wrocławiu otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych.”.
+- **1)** w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „o finansowaniu Akademii Katolickiej w Warszawie z budżetu państwa”;
+- **2)** art. 1 otrzymuje brzmienie: „Art. 1. Akademia Katolicka w Warszawie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych.”.
 
-**Art. 4.** W ustawie z dnia 5 kwietnia 2006 r. o finansowaniu Wyższej Szkoły Filozoficzno-Pedagogicznej „Ignatianum” Krakowie z budżetu państwa (Dz. U. poz. 650) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa (Dz. U. poz. 649) art. 1 otrzymuje brzmienie: „Art. 1. Papieski Wydział Teologiczny we Wrocławiu otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych.”.
+
+**Art. 4.** W ustawie z dnia 5 kwietnia 2006 r. o finansowaniu Wyższej Szkoły Filozoficzno-Pedagogicznej „Ignatianum” w Krakowie z budżetu państwa (Dz. U. poz. 650) wprowadza się następujące zmiany:
+
+- **1)** w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „o finansowaniu Akademii Ignatianum w Krakowie z budżetu państwa”;
+- **2)** art. 1 otrzymuje brzmienie: „Art. 1. Akademia Ignatianum w Krakowie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych.”.
 
 **Art. 5.** W ustawie z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2022 r. poz. 2401) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm. ) 179 ust. 7 otrzymuje brzmienie: „7. W przypadku osób, które rozpoczęły studia doktoranckie przed rokiem akademickim 2019/2020 i ubiegają się o nadanie stopnia doktora na zasadach określonych ustawie, o której mowa 1, postępowanie sprawie nadania stopnia doktora wszczyna złożenie wniosku o wyznaczenie promotora lub promotorów albo promotora i promotora pomocniczego.”.
+- **1)** po art. 26 dodaje się art. 26a w brzmieniu: „Art. 26a. Dyrektor może powoływać ekspertów zewnętrznych do przeprowadzania ocen wykonania umów i rozliczenia przyznanych środków finansowych. Do powoływania ekspertów przepis art. 22 ust. 3 stosuje się.”;
+- **2)** w art. 29 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Dyrektor, w terminie do dnia 31 marca, przedstawia ministrowi właściwemu do spraw szkolnictwa wyższego i nauki następujące dokumenty dotyczące poprzedniego roku obrotowego:”.
 
-**Art. 8.** W przypadku rozprawy doktorskiej przekazanej do zaopiniowania przed dniem wejścia życie niniejszej ustawy termin na sporządzenie opinii o rozprawie przez promotora lub promotorów określony 217a ustawy, o której mowa 1, liczy się od dnia wejścia życie niniejszej ustawy.
+**Art. 6.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm. ) w art. 179 ust. 7 otrzymuje brzmienie: „7. W przypadku osób, które rozpoczęły studia doktoranckie przed rokiem akademickim 2019/2020 i ubiegają się o nadanie stopnia doktora na zasadach określonych w ustawie, o której mowa w art. 1, postępowanie w sprawie nadania stopnia doktora wszczyna złożenie wniosku o wyznaczenie promotora lub promotorów albo promotora i promotora pomocniczego.”.
 
-**Art. 9.** Senat uczelni albo rada naukowa instytutu naukowego Polskiej Akademii Nauk, instytutu badawczego albo międzynarodowego instytutu naukowego utworzonego na podstawie odrębnych ustaw działającego na terytorium Rzeczypospolitej Polskiej podejmą uchwałę sprawie, o której mowa 217c ustawy, o której mowa 1, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 7.** Rada Doskonałości Naukowej podejmuje i ogłasza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej pierwszą uchwałę, o której mowa w art. 5 ust. 5 ustawy, o której mowa w art. 1, w terminie 30 dni od dnia wejścia w życie art. 1 pkt 1.
 
-**Art. 10.** W przypadku postępowań sprawie nadania stopnia doktora habilitowanego wszczętych i niezakończonych do dnia 30 września 2023 r. komisja habilitacyjna może nie przeprowadzać kolokwium habilitacyjnego, chyba że osoba ubiegająca się o nadanie tego stopnia posiada osiągnięcia naukowe zakresie nauk humanistycznych, społecznych lub teologicznych.
+**Art. 8.** W przypadku rozprawy doktorskiej przekazanej do zaopiniowania przed dniem wejścia w życie niniejszej ustawy termin na sporządzenie opinii o rozprawie przez promotora lub promotorów określony w art. 217a ustawy, o której mowa w art. 1, liczy się od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Osoba prowadząca działalność naukową i osoba biorąca udział prowadzeniu działalności naukowej składa pierwsze oświadczenie, o którym mowa 343 ust. 7 ustawy, o której mowa 1, związku z wystąpieniem okoliczności, o których mowa 343 ust. 7a pkt 1 ustawy, o której mowa 1, terminie 30 dni od dnia wejścia życie 1 pkt 64.
+**Art. 9.** Senat uczelni albo rada naukowa instytutu naukowego Polskiej Akademii Nauk, instytutu badawczego albo międzynarodowego instytutu naukowego utworzonego na podstawie odrębnych ustaw działającego na terytorium Rzeczypospolitej Polskiej podejmą uchwałę w sprawie, o której mowa w art. 217c ustawy, o której mowa w art. 1, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 12.** Do zatwierdzania rozliczenia środków finansowych, o których mowa 365 pkt 4 lit. a–c i pkt 10–12 ustawy, o której mowa 1, oraz środków finansowych przyznanych na podstawie 404 tej ustawy, na podstawie raportów z wykorzystania tych środków, złożonych przed dniem wejścia życie 1 pkt 68, stosuje się przepisy dotychczasowe.
+**Art. 10.** W przypadku postępowań w sprawie nadania stopnia doktora habilitowanego wszczętych i niezakończonych do dnia 30 września 2023 r. komisja habilitacyjna może nie przeprowadzać kolokwium habilitacyjnego, chyba że osoba ubiegająca się o nadanie tego stopnia posiada osiągnięcia naukowe w zakresie nauk humanistycznych, społecznych lub teologicznych.
 
-**Art. 13.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+**Art. 11.** Osoba prowadząca działalność naukową i osoba biorąca udział w prowadzeniu działalności naukowej składa pierwsze oświadczenie, o którym mowa w art. 343 ust. 7 ustawy, o której mowa w art. 1, w związku z wystąpieniem okoliczności, o których mowa w art. 343 ust. 7a pkt 1 ustawy, o której mowa w art. 1, w terminie 30 dni od dnia wejścia w życie art. 1 pkt 64.
+
+**Art. 12.** Do zatwierdzania rozliczenia środków finansowych, o których mowa w art. 365 pkt 4 lit. a–c i pkt 10–12 ustawy, o której mowa w art. 1, oraz środków finansowych przyznanych na podstawie art. 404 tej ustawy, na podstawie raportów z wykorzystania tych środków, złożonych przed dniem wejścia w życie art. 1 pkt 68, stosuje się przepisy dotychczasowe.
+
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 1, pkt 9 lit. a, pkt 20, 21, 26, 33, 34, 37, 43, 48, 50, 53, pkt 55 lit. c, pkt 57, 58, 63, 64 i 68 oraz art. 7, art. 11 i art. 12, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 49 lit. a, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **3)** art. 1 pkt 23, 24 i 65, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **4)** art. 1 pkt 7, 14, 15, 28, 31, pkt 45 lit. a i lit. b w zakresie dodawanego ust. 9b, pkt 46, 47, pkt 49 lit. c, pkt 54, pkt 55 lit. b, pkt 56 i 60 oraz art. 10, które wchodzą w życie z dniem 1 października 2023 r.
+
 

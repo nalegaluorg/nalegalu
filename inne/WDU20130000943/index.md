@@ -8,10 +8,10 @@ pos: 943
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 sierpnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 943 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 sierpnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000943) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/943/text.pdf) |
 
-Poz. 943 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 sierpnia 2013 r.
-w sprawie określenia wzoru zaświadczenia o uzyskaniu statusu zastępcy notarialnego Na podstawie art. 76 § 6 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa wzór zaświadczenia o uzyskaniu statusu zastępcy notarialnego, o którym mowa w art.
+w sprawie określenia wzoru zaświadczenia o uzyskaniu statusu zastępcy notarialnego Na podstawie art. 76 § 6 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wzór zaświadczenia o uzyskaniu statusu zastępcy notarialnego, o którym mowa w art.
 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 23 sierpnia 2013 r.
 Minister Sprawiedliwości: wz. J. Kozdroń WZÓR Załącznik do rozporządzenia Ministra Sprawiedliwości z dnia ..........
-WZÓR …………………………….., dnia…………. 20…..r.
+WZÓR MINISTER SPRAWIEDLIWOŚCI …………………………….., dnia…………. 20…..r.
 nr ………….
 ZAŚWIADCZENIE O UZYSKANIU STATUSU ZASTĘPCY NOTARIALNEGO Działając na podstawie art. 76 § 1 i 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm.), zaświadczam, że Pan(i) ….…....................................................................
 (imię i nazwisko zastępcy notarialnego) ……….................................................................
@@ -38,5 +38,5 @@ ZAŚWIADCZENIE O UZYSKANIU STATUSU ZASTĘPCY NOTARIALNEGO Działając na podstaw
 przed ………....………………………………………………………………………………….......... .
 (nazwa i siedziba komisji egzaminacyjnej) (pieczęć okrągła) (Minister Sprawiedliwości) Otrzymują:
 1) ………………………………… ………………………………… (zastępca notarialny)
-2) ………………………………… ………………………………… (prezes izby notarialnej) MINISTER SPRAWIEDLIWOŚCI
+2) ………………………………… ………………………………… (prezes izby notarialnej)
 

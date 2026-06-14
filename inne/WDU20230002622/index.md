@@ -8,10 +8,10 @@ pos: 2622
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 grudnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2622 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 29 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,19 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2622/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 29 listopada 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 27 grudnia 2011 r. w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych (Dz. U. poz. 1699), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 13 października 2021 r. zmieniającym rozporządzenie w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych (Dz. U. poz. 1895).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 października 2021 r. zmieniającego rozporządzenie w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych (Dz. U. poz. 1895), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 27 grudnia 2011 r.
-w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych Na podstawie art. 28c ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) zarządza się, co następuje: § 1. Rozporządzenie określa wymagania techniczne dla:
+w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych Na podstawie art. 28c ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wymagania techniczne dla:
 1) dokumentów elektronicznych zawierających akty normatywne i inne akty prawne kierowane do ogłoszenia w dziennikach urzędowych;
 2) dzienników urzędowych wydawanych w postaci elektronicznej;
 3) środków komunikacji elektronicznej i informatycznych nośników danych używanych do udostępniania dzienników urzędowych oraz zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawartych w nich aktów normatywnych i innych aktów prawnych.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) adres względny adres określający położenie dokumentu elektronicznego względem katalogu głównego zawierającego akt podlegający ogłoszeniu w postaci zbioru dokumentów elektronicznych;
-2) metadane zestaw logicznie powiązanych z dokumentem elektronicznym usystematyzowanych informacji opisujących ten dokument, ułatwiających jego wyszukiwanie, kontrolę, zrozumienie i długotrwałe przechowanie oraz zarządzanie nim;
-3) wzór aktu wzór dokumentu elektronicznego przekazywany do centralnego repozytorium wzorów dokumentów elektronicznych w rozumieniu art. 19b ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703), zawierający:
+1) adres względny – adres określający położenie dokumentu elektronicznego względem katalogu głównego zawierającego akt podlegający ogłoszeniu w postaci zbioru dokumentów elektronicznych;
+2) metadane – zestaw logicznie powiązanych z dokumentem elektronicznym usystematyzowanych informacji opisujących ten dokument, ułatwiających jego wyszukiwanie, kontrolę, zrozumienie i długotrwałe przechowanie oraz zarządzanie nim;
+3) wzór aktu – wzór dokumentu elektronicznego przekazywany do centralnego repozytorium wzorów dokumentów elektronicznych w rozumieniu art. 19b ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703), zawierający:
 a) określenie struktury aktu prawnego zdefiniowanej w formacie XSD (schemacie XML),
 b) ustalenie sposobu wizualizacji aktu prawnego, w rozumieniu przepisów wydanych na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zdefiniowane w szablonie wizualizacji określonym w formacie XSL,
 c) metadane opisujące wzór aktu zapisany w formacie XML.
@@ -90,18 +90,20 @@ b) umożliwia, bez konieczności dokonywania zmian w dokumencie, wydruk treści 
 2) stosuje się wymagania dotyczące sporządzania aktów podlegających ogłoszeniu w postaci dokumentów elektronicznych określone w załączniku nr 3 do rozporządzenia.
 § 11. Do czasu wejścia w życie przepisów wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne stosuje się wymagania dotyczące formatów danych oraz środków komunikacji elektronicznej określone w załączniku nr 4 do rozporządzenia.
 § 12. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2012 r.
-STANDARD WIZUALIZACJI NAGŁÓWKA ZAŁĄCZNIKÓW § 1. Załącznik wizualizuje się w postaci stron w formacie A4 (210 mm × 297 mm).
+STANDARD WIZUALIZACJI NAGŁÓWKA ZAŁĄCZNIKÓW
+§ 1. Załącznik wizualizuje się w postaci stron w formacie A4 (210 mm × 297 mm).
 § 2. Marginesy na każdej stronie wizualizowanego załącznika mają następujące wymiary:
-1) wewnętrzny 18 mm;
-2) zewnętrzny 18 mm;
-3) górny 17,5 mm;
-4) dolny 17,5 mm.
+1) wewnętrzny – 18 mm;
+2) zewnętrzny – 18 mm;
+3) górny – 17,5 mm;
+4) dolny – 17,5 mm.
 § 3. W lewym górnym rogu każdej strony zamieszcza się nazwę dziennika urzędowego, a ponadto w tej samej linii:
 1) na środku strony zamieszcza się numer strony między znakami półpauzy;
 2) w prawym górnym rogu zamieszcza się numer pozycji aktu poprzedzony skrótem „Poz.”.
 § 4. Informacje wymienione w § 3 pisane są czcionką Times New Roman lub czcionką o podobnym kroju, o rozmiarze 9 pkt.
 § 5. Poniżej informacji wymienionych w § 3, w odległości 22 mm od góry strony, umieszcza się linię o długości 174 mm i grubości 1 pkt.
-(uchylony) WYMAGANIA DOTYCZĄCE SPORZĄDZANIA AKTÓW PODLEGAJĄCYCH OGŁOSZENIU W POSTACI DOKUMENTÓW ELEKTRONICZNYCH § 1. Akty podlegające ogłoszeniu są zapisywane jako teksty strukturalne w postaci uniwersalnego formatu tekstowego do zapisu danych w formie elektronicznej XML 1.0, określonego standardem W3C (World Wide Web Consortium).
+(uchylony) WYMAGANIA DOTYCZĄCE SPORZĄDZANIA AKTÓW PODLEGAJĄCYCH OGŁOSZENIU W POSTACI DOKUMENTÓW ELEKTRONICZNYCH
+§ 1. Akty podlegające ogłoszeniu są zapisywane jako teksty strukturalne w postaci uniwersalnego formatu tekstowego do zapisu danych w formie elektronicznej XML 1.0, określonego standardem W3C (World Wide Web Consortium).
 § 2. Tekst strukturalny aktu podlegającego ogłoszeniu zawiera:
 1) strukturę aktu prawnego:
 a) część,
@@ -124,18 +126,18 @@ l) tiret;
 7) załączniki do aktów podlegających ogłoszeniu;
 8) odesłania do innych aktów podlegających ogłoszeniu;
 9) oznaczenia definicji pojęć słownikowych.
-WYMAGANIA DOTYCZĄCE FORMATÓW DANYCH ORAZ ŚRODKÓW KOMUNIKACJI ELEKTRONICZNEJ § 1. 1. Systemy teleinformatyczne w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne używane przez podmioty realizujące zadania publiczne wyposaża się w składniki sprzętowe lub oprogramowanie umożliwiające wymianę danych z innymi systemami teleinformatycznymi za pomocą protokołów komunikacyjnych i szyfrujących określonych w obowiązujących przepisach, normach, standardach lub rekomendacjach ustanowionych przez krajową jednostkę normalizacyjną lub jednostkę normalizacyjną Unii Europejskiej.
+WYMAGANIA DOTYCZĄCE FORMATÓW DANYCH ORAZ ŚRODKÓW KOMUNIKACJI ELEKTRONICZNEJ
+§ 1. 1. Systemy teleinformatyczne w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne używane przez podmioty realizujące zadania publiczne wyposaża się w składniki sprzętowe lub oprogramowanie umożliwiające wymianę danych z innymi systemami teleinformatycznymi za pomocą protokołów komunikacyjnych i szyfrujących określonych w obowiązujących przepisach, normach, standardach lub rekomendacjach ustanowionych przez krajową jednostkę normalizacyjną lub jednostkę normalizacyjną Unii Europejskiej.
 2. W przypadku gdy w danej sprawie brak jest przepisów, norm lub standardów, o których mowa w ust. 1, stosuje się standardy uznane na poziomie międzynarodowym, w szczególności opracowane przez:
 1) Internet Engineering Task Force (IETF) i publikowane w postaci Request For Comments (RFC),
-2) World Wide Web Consortium (W3C) i publikowane w postaci W3C Recommendation (REC) adekwatnie do potrzeb wynikających z realizowanych zadań oraz bieżącego stanu technologii informatycznych.
+2) World Wide Web Consortium (W3C) i publikowane w postaci W3C Recommendation (REC) – adekwatnie do potrzeb wynikających z realizowanych zadań oraz bieżącego stanu technologii informatycznych.
 § 2. W odniesieniu do wskazanych w rozporządzeniu dokumentów, dla których wymagane jest zachowanie zgodności formatu danych z minimalnymi wymaganiami dla systemów teleinformatycznych, stosuje się formaty danych wskazane w poniższej tabeli.
-Format Oznaczenie lub nazwa danych, rozszerzenie Organizacja Lp. nazwy pliku Oryginalna pełna Opis standardu określająca lub nazwa standardu format, normę skrócona lub standard nazwa standardu normy albo dokumentu zawierającego specyfikację techniczną wskazanego formatu 1 2 3 4 5 6 A W celu przekazywania oraz publikacji dokumentów stosuje się: Do danych zawierających dokumenty tekstowe i tekstowo-graficzne co najmniej jeden z następujących 1 formatów danych: Dokumenty w postaci czystego (niesformatowanego)
-1.1 .txt zbioru znaków zapisanych ISO/IEC ISO/IEC 10646 w standardzie Unicode UTF-8 jako pliki typu .txt
-1.2 .rtf Rich Text Format Specification Dokumenty w postaci sformatowanego tekstu jako pliki typu .rtf Microsoft Corp.
-Wewnętrzny standard Microsoft Corp.
+Format Oznaczenie lub nazwa danych, normy albo rozszerzenie Organizacja dokumentu Lp. nazwy pliku Oryginalna pełna Opis standardu określająca zawierającego lub nazwa standardu format, normę specyfikację skrócona lub standard techniczną nazwa wskazanego formatu standardu 1 2 3 4 5 6 A W celu przekazywania oraz publikacji dokumentów stosuje się: Do danych zawierających dokumenty tekstowe i tekstowo-graficzne co najmniej jeden z następujących 1 formatów danych: Dokumenty w postaci czystego (niesformatowanego)
+1.1 .txt zbioru znaków zapisanych ISO/IEC ISO/IEC 10646 w standardzie Unicode UTF-8 jako pliki typu .txt Rich Text Format Dokumenty w postaci Microsoft Wewnętrzny standard
+1.2 .rtf sformatowanego tekstu Specification jako pliki typu .rtf Corp. Microsoft Corp.
 Portable Document Dokumenty tekstowo1.3 .pdf Format -graficzne jako pliki typu ISO/IEC ISO/IEC 32000-1 .pdf XML Paper Dokumenty tekstowo- Microsoft
-1.4 .xps Specification -graficzne jako pliki typu Corp., Ecma ECMA-388 .xps International
-1.5 .odt Open Document Format for Office Application Dokumenty w postaci sformatowanego tekstu ISO/IEC ISO/IEC 26300 jako pliki typu .odt Open Document Dokumenty w postaci sformatowanego arkusza
+1.4 .xps Specification -graficzne jako pliki typu Corp., Ecma ECMA-388 .xps International Open Document Dokumenty w postaci
+1.5 .odt Format for Office sformatowanego tekstu ISO/IEC ISO/IEC 26300 Application jako pliki typu .odt Open Document Dokumenty w postaci sformatowanego arkusza
 1.6 .ods Format for Office kalkulacyjnego jako pliki ISO/IEC ISO/IEC 26300 Application typu .ods Format Oznaczenie lub nazwa danych, normy albo rozszerzenie Organizacja dokumentu Lp. nazwy pliku Oryginalna pełna Opis standardu określająca zawierającego lub nazwa standardu format, normę specyfikację skrócona lub standard techniczną nazwa wskazanego formatu standardu 1 2 3 4 5 6 Open Document Dokumenty w postaci
 1.7 .odp Format for Office prezentacji ISO/IEC ISO/IEC 26300 Application multimedialnych jako pliki typu .odp Dokumenty w postaci Microsoft Wewnętrzny standard
 1.8 .doc Microsoft Office Word sformatowanego tekstu Corp. Microsoft Corp.
@@ -148,16 +150,16 @@ kalkulacyjnego Otwarty standard ISO ISO/IEC 29500-1 dokumentów
 2.2 .tif (.tiff) Tagged Image File Plik typu .tif ISO Format Geographic Tagged NASA Jet
 2.3 .geotiff Image File Format Plik typu .geotiff Propulsion GeoTIFF Revision 1.0 Laboratory Portable Network
 2.4 .png Graphics Plik typu .png ISO/IEC ISO/IEC 15948 Scalable Vector
-2.5 .svg Graphics (SVG) Plik grafiki wektorowej W3C 1.1 Specification 3 Do tworzenia stron WWW co najmniej jeden z następujących formatów danych:
-3.1 html Hypertext Language Markup Standard języka znaczników formatujących ISO/IEC ISO/IEC 15445 strony WWW HTML 4.01 Format Oznaczenie lub nazwa danych, normy albo rozszerzenie Organizacja dokumentu Lp. nazwy pliku Oryginalna pełna Opis standardu określająca zawierającego lub nazwa standardu format, normę specyfikację skrócona lub standard techniczną nazwa wskazanego formatu standardu 1 2 3 4 5 6 Extensible Standard języka
-3.2 .xhtml Hypertext Markup znaczników formatujących W3C Language strony WWW Standard języka znaczników formatujących strony WWW XHTML Basic 1.1 wykorzystywany
-3.3 html W3C Second Edition w zakresie prezentacji informacji w komputerach kieszonkowych (PDA) XHTML basic
+2.5 .svg Graphics (SVG) Plik grafiki wektorowej W3C 1.1 Specification 3 Do tworzenia stron WWW co najmniej jeden z następujących formatów danych: Hypertext Markup Standard języka
+3.1 .html Language znaczników formatujących ISO/IEC ISO/IEC 15445 strony WWW HTML 4.01 Format Oznaczenie lub nazwa danych, normy albo rozszerzenie Organizacja dokumentu Lp. nazwy pliku Oryginalna pełna Opis standardu określająca zawierającego lub nazwa standardu format, normę specyfikację skrócona lub standard techniczną nazwa wskazanego formatu standardu 1 2 3 4 5 6 Extensible Standard języka
+3.2 .xhtml Hypertext Markup znaczników formatujących W3C Language strony WWW Standard języka znaczników formatujących strony WWW XHTML Basic 1.1 – wykorzystywany
+3.3 .html W3C Second Edition w zakresie prezentacji informacji w komputerach kieszonkowych (PDA) XHTML basic
 3.4 .css Cascading Style Sheets Kaskadowy Arkusz Stylu W3C B Do określenia struktury i wizualizacji dokumentu elektronicznego: Do definiowania układu informacji polegającego na określeniu elementów informacyjnych oraz powiązań 1 między nimi stosuje się następujące formaty danych: Standard uniwersalnego Extensible Markup formatu tekstowego
 1.1 .xml Language służącego do zapisu W3C danych w formie elektronicznej Standard opisu definicji
 1.2 .xsd Extensible Markup struktury dokumentów W3C Language zapisanych w formacie XML
 1.3 .gml Geography Markup Język Znaczników OGC Language Geograficznych
-1.4 .rng Regular Language for XML Next Generation Język schematów do języka XML ISO/IEC ISO/IEC 19757-2 2 Do przetwarzania dokumentów zapisanych w formacie XML stosuje się co najmniej jeden z następujących formatów danych: Extensible Stylesheet Rozszerzalny Język
+1.4 .rng Regular Language for Język schematów do ISO/IEC ISO/IEC 19757-2 XML Next Generation języka XML 2 Do przetwarzania dokumentów zapisanych w formacie XML stosuje się co najmniej jeden z następujących formatów danych: Extensible Stylesheet Rozszerzalny Język
 2.1 .xsl Language Arkuszy Stylów W3C Extensible Stylesheet Przekształcenia
-2.2 .xslt Language Rozszerzalnego Języka W3C Transformation Arkuszy Stylów Objaśnienia skrótów nazw organizacji z kol. 5: IETF Internet Engineering Task Force ISO International Standardization Organization OASIS Organization for the Advancement of Structured Information Standards OGC Open Geospatial Consortium Inc.
-W3C World Wide Web Consortium ETSI European Telecommunications Standards
+2.2 .xslt Language Rozszerzalnego Języka W3C Transformation Arkuszy Stylów Objaśnienia skrótów nazw organizacji z kol. 5: IETF – Internet Engineering Task Force ISO – International Standardization Organization OASIS – Organization for the Advancement of Structured Information Standards OGC – Open Geospatial Consortium Inc.
+W3C – World Wide Web Consortium ETSI – European Telecommunications Standards
 

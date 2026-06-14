@@ -8,10 +8,10 @@ pos: 1324
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1324 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 9 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001324) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1324/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 9 czerwca 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie standardu organizacyjnego opieki okołoporodowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 16 sierpnia 2018 r. w sprawie standardu organizacyjnego opieki okołoporodowej (Dz. U.
 poz. 1756), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 30 czerwca 2022 r. zmieniającym rozporządzenie w sprawie standardu organizacyjnego opieki okołoporodowej (Dz. U. poz. 1430).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 30 czerwca 2022 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego opieki okołoporodowej (Dz. U. poz. 1430), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 16 sierpnia 2018 r.
-w sprawie standardu organizacyjnego opieki okołoporodowej Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991) zarządza się, co następuje: § 1. Określa się standard organizacyjny opieki zdrowotnej w podmiotach wykonujących działalność leczniczą udzielających świadczeń zdrowotnych w zakresie opieki okołoporodowej, stanowiący załącznik do rozporządzenia.
+w sprawie standardu organizacyjnego opieki okołoporodowej Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991) zarządza się, co następuje:
+§ 1. Określa się standard organizacyjny opieki zdrowotnej w podmiotach wykonujących działalność leczniczą udzielających świadczeń zdrowotnych w zakresie opieki okołoporodowej, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem przepisów części XIII ust. 3 pkt 8 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2022 r.
 STANDARD ORGANIZACYJNY OPIEKI ZDROWOTNEJ W PODMIOTACH WYKONUJĄCYCH DZIAŁALNOŚĆ LECZNICZĄ UDZIELAJĄCYCH ŚWIADCZEŃ ZDROWOTNYCH W ZAKRESIE OPIEKI OKOŁOPORODOWEJ I. Postanowienia ogólne
 1. Standard organizacyjny w podmiotach wykonujących działalność leczniczą udzielających świadczeń zdrowotnych w zakresie opieki okołoporodowej sprawowanej nad kobietą w okresie ciąży, porodu, połogu oraz nad noworodkiem, zwany dalej „standardem”, określa poszczególne elementy organizacji opieki mającej na celu zapewnienie dobrego stanu zdrowia matki i dziecka, przy ograniczeniu do niezbędnych interwencji medycznych, w szczególności:
@@ -41,37 +41,37 @@ STANDARD ORGANIZACYJNY OPIEKI ZDROWOTNEJ W PODMIOTACH WYKONUJĄCYCH DZIAŁALNOŚ
 4) podawania opioidów,
 5) nacięcia krocza,
 6) cięcia cesarskiego,
-7) podania noworodkowi mleka modyfikowanego z uwzględnieniem zasad bezpieczeństwa zdrowotnego, w ramach których opieka medyczna opiera się na praktykach o udowodnionej skuteczności.
+7) podania noworodkowi mleka modyfikowanego – z uwzględnieniem zasad bezpieczeństwa zdrowotnego, w ramach których opieka medyczna opiera się na praktykach o udowodnionej skuteczności.
 2. Podmioty wykonujące działalność leczniczą udzielające świadczeń zdrowotnych w zakresie opieki okołoporodowej ustalają wskaźniki tej opieki i monitorują je, nie rzadziej niż raz w roku, kierując się w szczególności ograniczaniem interwencji medycznych, o których mowa w ust. 1, oraz oceną satysfakcji kobiet objętych opieką.
 3. Sposób realizacji oraz dokumentowanie działań, o których mowa w ust. 2, określa regulamin organizacyjny podmiotu wykonującego działalność leczniczą.
 4. Użyte w standardzie określenia oznaczają:
-1) I okres porodu okres liczony od pojawienia się pierwszych regularnych skurczów macicy powodujących zgładzanie i rozwieranie szyjki macicy aż do jej pełnego rozwarcia;
-2) II okres porodu okres między całkowitym rozwarciem szyjki macicy a urodzeniem noworodka;
-3) III okres porodu okres rozpoczynający się po urodzeniu noworodka i obejmujący oddzielenie oraz wydalenie popłodu;
-4) IV okres porodu okres trwający 2 godziny po oddzieleniu i wydaleniu popłodu;
-5) ciąża fizjologiczna ciążę przebiegającą w sposób prawidłowy;
-6) osoba bliska małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, przedstawiciela ustawowego, osobę pozostającą we wspólnym pożyciu lub inną osobę wskazaną przez ciężarną lub rodzącą;
+1) I okres porodu – okres liczony od pojawienia się pierwszych regularnych skurczów macicy powodujących zgładzanie i rozwieranie szyjki macicy aż do jej pełnego rozwarcia;
+2) II okres porodu – okres między całkowitym rozwarciem szyjki macicy a urodzeniem noworodka;
+3) III okres porodu – okres rozpoczynający się po urodzeniu noworodka i obejmujący oddzielenie oraz wydalenie popłodu;
+4) IV okres porodu – okres trwający 2 godziny po oddzieleniu i wydaleniu popłodu;
+5) ciąża fizjologiczna – ciążę przebiegającą w sposób prawidłowy;
+6) osoba bliska – małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, przedstawiciela ustawowego, osobę pozostającą we wspólnym pożyciu lub inną osobę wskazaną przez ciężarną lub rodzącą;
 7) osoba sprawująca opiekę:
 a) położną,
 b) lekarza specjalistę w dziedzinie położnictwa i ginekologii, lekarza ze specjalizacją I stopnia w dziedzinie położnictwa i ginekologii, lekarza w trakcie specjalizacji w dziedzinie położnictwa i ginekologii, zwanych dalej „lekarzem położnikiem”,
 c) lekarza specjalistę w dziedzinie neonatologii, lekarza w trakcie specjalizacji w dziedzinie neonatologii albo lekarza specjalistę w dziedzinie pediatrii, zwanych dalej „lekarzem oddziału neonatologicznego”,
-d) pielęgniarkę sprawujących odpowiednio opiekę nad ciężarną, rodzącą, położnicą albo noworodkiem;
+d) pielęgniarkę – sprawujących odpowiednio opiekę nad ciężarną, rodzącą, położnicą albo noworodkiem;
 8) lekarz prowadzący analgezję regionalną porodu:
-a) lekarza, który posiada specjalizację II stopnia w dziedzinie: anestezjologii lub anestezjologii i reanimacji, lub anestezjologii i intensywnej terapii, lub
+a) lekarza, który posiada specjalizację II stopnia w dziedzinie: – anestezjologii lub – anestezjologii i reanimacji, lub – anestezjologii i intensywnej terapii, lub
 b) lekarza, który uzyskał tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii, lub
 c) lekarza, który posiada specjalizację I stopnia w dziedzinie anestezjologii i intensywnej terapii oraz co najmniej pięcioletnie doświadczenie w wykonywaniu analgezji regionalnej porodu, albo
 d) lekarza odbywającego szkolenie specjalizacyjne w dziedzinie anestezjologii i intensywnej terapii, po ukończeniu drugiego roku szkolenia, pod warunkiem że znajduje się pod bezpośrednim nadzorem lekarza specjalisty w dziedzinie anestezjologii i intensywnej terapii;
-9) położna anestezjologiczna położną, która ukończyła:
+9) położna anestezjologiczna – położną, która ukończyła:
 a) specjalizację w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki lub
 b) kurs kwalifikacyjny w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki, lub
 c) kurs kwalifikacyjny w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki w położnictwie i ginekologii;
-10) pielęgniarka anestezjologiczna pielęgniarkę, która ukończyła:
+10) pielęgniarka anestezjologiczna – pielęgniarkę, która ukończyła:
 a) specjalizację w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki lub
 b) kurs kwalifikacyjny w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki, lub
 c) w trakcie specjalizacji w dziedzinie pielęgniarstwa anestezjologicznego i intensywnej opieki;
-11) połóg okres rozpoczynający się po porodzie i trwający sześć tygodni, w czasie którego w organizmie kobiety następuje cofanie się zmian spowodowanych ciążą i porodem;
-12) poród fizjologiczny spontaniczny poród niskiego ryzyka od momentu rozpoczęcia i utrzymujący taki stopień ryzyka przez cały czas trwania, w wyniku którego noworodek rodzi się z położenia główkowego, pomiędzy ukończonym 37. a 42. tygodniem ciąży, po którym matka i noworodek są w dobrym stanie;
-13) edukacja przedporodowa praktyczne i teoretyczne przygotowanie ciężarnej oraz osoby bliskiej do podejmowania zachowań prozdrowotnych w okresie ciąży, podczas porodu, połogu oraz do rodzicielstwa, kształtowanie właściwych zachowań prozdrowotnych i przygotowanie do sprawowania opieki nad noworodkiem i niemowlęciem wpływające na obniżenie wskaźnika umieralności okołoporodowej, zmniejszenie liczby cięć cesarskich, porodów przedwczesnych, interwencji medycznych oraz łagodzenie lęku i niepokoju związanego z porodem, wzmocnienie zdrowia i poprawę samopoczucia matek i dzieci.
+11) połóg – okres rozpoczynający się po porodzie i trwający sześć tygodni, w czasie którego w organizmie kobiety następuje cofanie się zmian spowodowanych ciążą i porodem;
+12) poród fizjologiczny – spontaniczny poród niskiego ryzyka od momentu rozpoczęcia i utrzymujący taki stopień ryzyka przez cały czas trwania, w wyniku którego noworodek rodzi się z położenia główkowego, pomiędzy ukończonym 37. a 42. tygodniem ciąży, po którym matka i noworodek są w dobrym stanie;
+13) edukacja przedporodowa – praktyczne i teoretyczne przygotowanie ciężarnej oraz osoby bliskiej do podejmowania zachowań prozdrowotnych w okresie ciąży, podczas porodu, połogu oraz do rodzicielstwa, kształtowanie właściwych zachowań prozdrowotnych i przygotowanie do sprawowania opieki nad noworodkiem i niemowlęciem wpływające na obniżenie wskaźnika umieralności okołoporodowej, zmniejszenie liczby cięć cesarskich, porodów przedwczesnych, interwencji medycznych oraz łagodzenie lęku i niepokoju związanego z porodem, wzmocnienie zdrowia i poprawę samopoczucia matek i dzieci.
 5. Ingerencja w naturalny proces ciąży, porodu i laktacji wiąże się z uzasadnionym medycznie wskazaniem. Ingerencja w naturalny proces ciąży, porodu lub laktacji, w szczególności leczenie cukrzycy ciężarnej, nadciśnienia tętniczego i innych powikłań ciąży, lub poród zabiegowy, oznacza, że ciąża, poród lub laktacja wymagają zastosowania dodatkowych procedur wykraczających poza standard.
 6. Ciężarną lub rodzącą kieruje się do podmiotu leczniczego wykonującego działalność w zakresie opieki okołoporodowej, posiadającego oddział o poziomie referencyjnym zapewniającym opiekę perinatalną odpowiednią do jej stanu zdrowia oraz przebiegu ciąży lub porodu, z uwzględnieniem faktu, że I poziom opieki perinatalnej obejmuje opiekę nad fizjologicznie przebiegającą ciążą, porodem i połogiem oraz zdrowym noworodkiem, a także krótkotrwałą opiekę nad niespodziewanie występującą patologią ciąży, II poziom opieki perinatalnej obejmuje również opiekę nad patologią ciąży średniego stopnia, III poziom opieki perinatalnej obejmuje ponadto opiekę nad najcięższą patologią ciąży.
 7. W dokumentacji medycznej należy odnotować dzień, miesiąc, rok, godzinę i minutę objęcia rodzącej lub noworodka opieką i zakończenia jej sprawowania, z adnotacją o podmiocie wykonującym działalność leczniczą, który tę opiekę przejmuje, zawierającą jego dane.
@@ -97,25 +97,17 @@ c) w trakcie specjalizacji w dziedzinie pielęgniarstwa anestezjologicznego i in
 1) respektowaniu prawa do świadomego udziału w podejmowaniu decyzji związanych z ciążą, porodem, połogiem oraz opieką nad noworodkiem, obejmujących zakres podejmowanych działań i stosowanych procedur medycznych;
 2) prawie wyboru miejsca porodu w warunkach szpitalnych lub pozaszpitalnych;
 3) możliwości wyboru osoby sprawującej opiekę spośród osób uprawnionych do jej sprawowania, z uwzględnieniem możliwości organizacyjnych podmiotu wykonującego działalność leczniczą.
-II. Zakres świadczeń profilaktycznych i działań w zakresie promocji zdrowia oraz badań diagnostycznych i konsultacji medycznych, wykonywanych u kobiet w okresie ciąży, wraz z okresami ich przeprowadzania Termin badania Świadczenia profilaktyczne wykonywane Badania diagnostyczne przez lekarza lub położną i działania i konsultacje medyczne w zakresie promocji zdrowia 1 2 3 Do 10. tygodnia 1. Badanie podmiotowe i przedmiotowe.
-ciąży lub w chwili 2. Pomiar ciśnienia tętniczego krwi.
-pierwszego 3. Badanie gruczołów sutkowych.
-zgłoszenia się 4. Określenie wzrostu, masy ciała i wskaźnika BMI.
-5. Ocena ryzyka ciążowego.
-6. Propagowanie zdrowego stylu życia.
-7. Przekazanie informacji o możliwości wykonania badań w kierunku chorób uwarunkowanych genetycznie.
-8. W przypadku opieki sprawowanej przez położną obowiązkowa konsultacja lekarza położnika.
-9. Zebranie danych dotyczących zdrowego stylu życia i nawyków żywieniowych, w tym spożywania alkoholu i innych używek.
-1. Grupa krwi i Rh, o ile ciężarna nie posiada odpowiednio udokumentowanego badania grupy krwi.
-2. Przeciwciała odpornościowe do antygenów krwinek czerwonych.
-3. Morfologia krwi.
-4. Badanie ogólne moczu.
-5. Badanie cytologiczne, o ile nie było wykonane w ciągu ostatnich 6 miesięcy.
-6. Badanie stężenia glukozy we krwi na czczo, ewentualnie OGTT u kobiet z czynnikami ryzyka GDM.
-7. Badanie VDRL.
-8. Zalecenie kontroli stomatologicznej.
-9. Badanie HIV i HCV.
-10. Badanie w kierunku toksoplazmozy (IgG, IgM), o ile ciężarna nie przedstawi wyniku potwierdzającego występowanie przeciwciał IgG sprzed ciąży.
+II. Zakres świadczeń profilaktycznych i działań w zakresie promocji zdrowia oraz badań diagnostycznych i konsultacji medycznych, wykonywanych u kobiet w okresie ciąży, wraz z okresami ich przeprowadzania Termin badania Świadczenia profilaktyczne wykonywane Badania diagnostyczne przez lekarza lub położną i działania i konsultacje medyczne w zakresie promocji zdrowia 1 2 3 Do 10. tygodnia 1. Badanie podmiotowe i przedmiotowe. 1. Grupa krwi i Rh, o ile ciężarna nie posiada ciąży lub w chwili 2. Pomiar ciśnienia tętniczego krwi. odpowiednio udokumentowanego badania pierwszego 3. Badanie gruczołów sutkowych. grupy krwi.
+zgłoszenia się 4. Określenie wzrostu, masy ciała 2. Przeciwciała odpornościowe do i wskaźnika BMI. antygenów krwinek czerwonych.
+5. Ocena ryzyka ciążowego. 3. Morfologia krwi.
+6. Propagowanie zdrowego stylu życia. 4. Badanie ogólne moczu.
+7. Przekazanie informacji o możliwości 5. Badanie cytologiczne, o ile nie było wykonania badań w kierunku chorób wykonane w ciągu ostatnich 6 miesięcy.
+uwarunkowanych genetycznie. 6. Badanie stężenia glukozy we krwi
+8. W przypadku opieki sprawowanej przez na czczo, ewentualnie OGTT u kobiet położną obowiązkowa konsultacja lekarza z czynnikami ryzyka GDM.
+położnika. 7. Badanie VDRL.
+9. Zebranie danych dotyczących zdrowego 8. Zalecenie kontroli stomatologicznej.
+stylu życia i nawyków żywieniowych, 9. Badanie HIV i HCV.
+w tym spożywania alkoholu i innych 10. Badanie w kierunku toksoplazmozy (IgG, używek. IgM), o ile ciężarna nie przedstawi wyniku potwierdzającego występowanie przeciwciał IgG sprzed ciąży.
 11. Badanie w kierunku różyczki (IgG, IgM), o ile ciężarna nie chorowała lub nie była szczepiona lub w przypadku braku informacji.
 12. Oznaczenie TSH.
 11–14 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe. Badanie ultrasonograficzne zgodnie
@@ -124,48 +116,40 @@ zgłoszenia się 4. Określenie wzrostu, masy ciała i wskaźnika BMI.
 4. Ocena ryzyka ciążowego.
 5. Ocena ryzyka i nasilenia objawów depresji.
 6. Propagowanie zdrowego stylu życia.
-15–20 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
-2. Pomiar ciśnienia tętniczego krwi.
+15–20 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe. 1. Morfologia krwi.
+2. Pomiar ciśnienia tętniczego krwi. 2. Badanie ogólne moczu.
 3. Pomiar masy ciała.
 4. Ocena ryzyka ciążowego.
 5. Propagowanie zdrowego stylu życia.
-1. Morfologia krwi.
-2. Badanie ogólne moczu.
 18–22 tydzień ciąży Badanie ultrasonograficzne zgodnie z rekomendacjami PTGiP.
 21–26 tydzień ciąży Rozpoczęcie edukacji przedporodowej.
-21–26 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
-2. Ocena czynności serca płodu.
-3. Pomiar ciśnienia tętniczego krwi.
-4. Pomiar masy ciała.
-5. Ocena ryzyka ciążowego.
-6. Propagowanie zdrowego stylu życia.
-1. Badanie stężenia glukozy we krwi po doustnym podaniu 75 g glukozy (w 24–26 tygodniu ciąży) trzypunktowe oznaczenie stężenia glukozy: przed podaniem glukozy (na czczo), po 1 i 2 godz. od podania glukozy.
+21–26 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe. 1. Badanie stężenia glukozy we krwi
+2. Ocena czynności serca płodu. po doustnym podaniu 75 g glukozy
+3. Pomiar ciśnienia tętniczego krwi. (w 24–26 tygodniu ciąży) – trzypunktowe
+4. Pomiar masy ciała. oznaczenie stężenia glukozy: przed
+5. Ocena ryzyka ciążowego. podaniem glukozy (na czczo),
+6. Propagowanie zdrowego stylu życia. po 1 i 2 godz. od podania glukozy.
 2. Badanie ogólne moczu.
 3. Przeciwciała anty-D u kobiet Rh (–).
-7. W przypadku opieki sprawowanej przez 4. U kobiet z ujemnym wynikiem położną konsultacja lekarza położnika w I trymestrze badanie w kierunku (24–26 tydzień ciąży). toksoplazmozy (IgM).
+7. W przypadku opieki sprawowanej przez 4. U kobiet z ujemnym wynikiem położną konsultacja lekarza położnika w I trymestrze – badanie w kierunku (24–26 tydzień ciąży). toksoplazmozy (IgM).
 27–32 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe. 1. Morfologia krwi.
 2. Ocena czynności serca płodu. 2. Badanie ogólne moczu.
 3. Pomiar ciśnienia tętniczego krwi. 3. Przeciwciała anty-D u kobiet Rh (–).
 4. Pomiar masy ciała. 4. Badanie ultrasonograficzne zgodnie
 5. Ocena ryzyka ciążowego. z rekomendacjami PTGiP.
-6. Propagowanie zdrowego stylu życia. 5. W przypadku występowania wskazań podanie immunoglobuliny anty-D (28–30 tydzień ciąży).
-33–37 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe.
-2. Badanie położnicze.
-3. Ocena wymiarów miednicy.
-4. Ocena czynności serca płodu.
-5. Pomiar ciśnienia tętniczego krwi.
-6. Ocena ruchów płodu.
-7. Badanie gruczołów sutkowych.
-8. Pomiar masy ciała.
-9. Ocena ryzyka ciążowego.
-10. Ocena ryzyka i nasilenia objawów depresji.
+6. Propagowanie zdrowego stylu życia. 5. W przypadku występowania wskazań – podanie immunoglobuliny anty-D (28–30 tydzień ciąży).
+33–37 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe. 1. Morfologia krwi.
+2. Badanie położnicze. 2. Badanie ogólne moczu.
+3. Ocena wymiarów miednicy. 3. Badanie antygenu HBs.
+4. Ocena czynności serca płodu. 4. Badanie HIV.
+5. Pomiar ciśnienia tętniczego krwi. 5. Posiew z pochwy i odbytu w kierunku
+6. Ocena ruchów płodu. paciorkowców B-hemolizujących
+7. Badanie gruczołów sutkowych. (35–37 tydzień ciąży).
+8. Pomiar masy ciała. 6. Badanie VDRL, HCV w grupie kobiet
+9. Ocena ryzyka ciążowego. ze zwiększonym populacyjnym lub
+10. Ocena ryzyka i nasilenia objawów indywidualnym ryzykiem zakażenia.
+depresji.
 11. Propagowanie zdrowego stylu życia.
-1. Morfologia krwi.
-2. Badanie ogólne moczu.
-3. Badanie antygenu HBs.
-4. Badanie HIV.
-5. Posiew z pochwy i odbytu w kierunku paciorkowców B-hemolizujących (35–37 tydzień ciąży).
-6. Badanie VDRL, HCV w grupie kobiet ze zwiększonym populacyjnym lub indywidualnym ryzykiem zakażenia.
 38–39 tydzień ciąży 1. Badanie podmiotowe i przedmiotowe. 1 Badanie ogólne moczu.
 2. Badanie położnicze. 2. Morfologia krwi.
 3. Ocena ruchów płodu.
@@ -175,16 +159,14 @@ zgłoszenia się 4. Określenie wzrostu, masy ciała i wskaźnika BMI.
 7. Ocena ryzyka ciążowego.
 8. Propagowanie zdrowego stylu życia.
 9. W przypadku opieki sprawowanej przez położną konsultacja lekarza położnika.
-Niezwłocznie 1. Badanie podmiotowe i przedmiotowe.
-po 40. tygodniu ciąży 2. Badanie położnicze.
-3. Ocena ruchów płodu.
+Niezwłocznie 1. Badanie podmiotowe i przedmiotowe. 1. Badanie KTG.
+po 40. tygodniu ciąży 2. Badanie położnicze. 2. Badanie ultrasonograficzne zgodnie
+3. Ocena ruchów płodu. z rekomendacjami PTGiP.
 4. Pomiar ciśnienia tętniczego krwi.
 5. Pomiar masy ciała.
 6. Ocena ryzyka ciążowego.
-7. Przy prawidłowym wyniku KTG i USG oraz przy prawidłowym odczuwaniu ruchów płodu kolejne badanie za 7 dni, z ponownym KTG i USG. W trakcie tej wizyty należy ustalić datę hospitalizacji, tak aby poród miał miejsce przed końcem
-42. tygodnia. W przypadku odstępstw od normy indywidualizacja postępowania.
-1. Badanie KTG.
-2. Badanie ultrasonograficzne zgodnie z rekomendacjami PTGiP.
+7. Przy prawidłowym wyniku KTG i USG oraz przy prawidłowym odczuwaniu ruchów płodu – kolejne badanie za 7 dni, z ponownym KTG i USG. W trakcie tej wizyty należy ustalić datę hospitalizacji, tak aby poród miał miejsce przed końcem
+42. tygodnia. W przypadku odstępstw od normy – indywidualizacja postępowania.
 Osoba sprawująca opiekę:
 1) jeżeli nie jest położną podstawowej opieki zdrowotnej, informuje kobietę o możliwości korzystania z opieki położnej podstawowej opieki zdrowotnej oraz kieruje w okresie pomiędzy ukończonym 21. a 26. tygodniem ciąży w celu objęcia edukacją przedporodową oraz opieką sprawowaną nad nią i dzieckiem w miejscu, w którym będą przebywali po porodzie;
 2) odnotowuje w dokumentacji medycznej ciężarnej fakt skierowania do objęcia opieką przez położną podstawowej opieki zdrowotnej; położna podstawowej opieki zdrowotnej potwierdza objęcie kobiety opieką w czasie ciąży i po porodzie przez wpis do planu opieki przedporodowej i karty przebiegu ciąży swoich danych lub danych podmiotu wykonującego działalność leczniczą w zakresie podstawowej opieki zdrowotnej, w tym: numer telefonu kontaktowego i faksu lub adres poczty elektronicznej;
@@ -254,8 +236,8 @@ IV. Edukacja przedporodowa
 2. Ramowy program edukacji przedporodowej obejmuje okres prenatalny (ciąża), porodu, poporodowy (połóg) oraz wsparcie społeczne ciężarnej, położnicy i rodziny w okresie okołoporodowym.
 3. Ramowy program edukacji przedporodowej dotyczący okresu prenatalnego (ciąży) obejmuje w szczególności:
 1) przebieg ciąży i rozwój dziecka od początku ciąży do porodu;
-2) opiekę prenatalną dostępne formy opieki medycznej i plan opieki przedporodowej;
-3) styl życia w okresie ciąży zasady odżywiania, używki, nałogi oraz ich wpływ na rozwój ciąży i dziecka, aktywność zawodowa, aktywność fizyczna, zachowania i czynności uznawane za niebezpieczne dla kobiet w okresie ciąży;
+2) opiekę prenatalną – dostępne formy opieki medycznej i plan opieki przedporodowej;
+3) styl życia w okresie ciąży – zasady odżywiania, używki, nałogi oraz ich wpływ na rozwój ciąży i dziecka, aktywność zawodowa, aktywność fizyczna, zachowania i czynności uznawane za niebezpieczne dla kobiet w okresie ciąży;
 4) dolegliwości okresu ciąży i sposoby radzenia sobie z nimi;
 5) profilaktykę chorób zakaźnych w okresie okołoporodowym, w tym szczepienia ochronne;
 6) problemy psychologiczne i emocjonalne kobiety i jej rodziny w okresie ciąży, porodu i połogu;
@@ -267,10 +249,10 @@ IV. Edukacja przedporodowa
 4) pozycje wykorzystywane w I i II okresie porodu (pozycje wertykalne) i sprzęt pomocny w trakcie porodu;
 5) łagodzenie bólu porodowego (niefarmakologiczne i farmakologiczne);
 6) kontakt matki z dzieckiem „skóra do skóry”, w tym inicjacja karmienia piersią;
-7) cięcie cesarskie korzyści i zagrożenia dla matki i dziecka, powikłania wczesne i późne po cięciu cesarskim;
+7) cięcie cesarskie – korzyści i zagrożenia dla matki i dziecka, powikłania wczesne i późne po cięciu cesarskim;
 8) (uchylony).
 5. Ramowy program edukacji przedporodowej dotyczący okresu poporodowego (połóg) obejmuje w szczególności:
-1) opiekę w okresie połogu przebieg połogu, powrót płodności po porodzie oraz psychologiczne aspekty połogu;
+1) opiekę w okresie połogu – przebieg połogu, powrót płodności po porodzie oraz psychologiczne aspekty połogu;
 2) karmienie piersią i wsparcie w laktacji, w tym rozwiązywanie problemów związanych z laktacją;
 3) opiekę nad noworodkiem a następnie nad niemowlęciem, w tym postępowanie z noworodkiem po urodzeniu, działania profilaktyczne wykonywane u noworodka oraz niemowlęcia, pielęgnację dziecka, informacje i zalecenia dla rodziców odnośnie postępowania z dzieckiem w domu oraz zapewnienie dziecku bezpieczeństwa w środowisku domowym.
 6. Ramowy program edukacji przedporodowej dotyczący wsparcia społecznego w okresie okołoporodowym obejmuje w szczególności informacje dotyczące wsparcia emocjonalnego, informacyjnego, instrumentalnego, rzeczowego (materialnego).
@@ -313,7 +295,7 @@ VII. Łagodzenie bólu porodowego
 8. Metody niefarmakologiczne łagodzenia bólu porodowego obejmują:
 1) utrzymanie aktywności fizycznej rodzącej i przyjmowanie pozycji zmniejszających odczucia bólowe, w szczególności: spacer, kołysanie się, przyjmowanie pozycji kucznej lub pozycji wertykalnych z wykorzystaniem sprzętów pomocniczych, w szczególności takich jak: gumowa piłka, worek sako, drabinki, materac, sznury porodowe, krzesło porodowe;
 2) techniki oddechowe i ćwiczenia relaksacyjne;
-3) metody fizjoterapeutyczne, w tym: masaż relaksacyjny, ciepłe lub zimne okłady w okolicach odczuwania bólu, przezskórną stymulację nerwów (Transcuteneous Electrical Nerve Stimulation TENS);
+3) metody fizjoterapeutyczne, w tym: masaż relaksacyjny, ciepłe lub zimne okłady w okolicach odczuwania bólu, przezskórną stymulację nerwów (Transcuteneous Electrical Nerve Stimulation – TENS);
 4) immersję wodną;
 5) akupunkturę;
 6) akupresurę.
@@ -370,8 +352,8 @@ d) częstości akcji serca płodu (FHR);
 1) u rodzącej ocenę funkcji:
 a) układu oddechowego, w tym liczby oddechów oraz pulsoksymetrię przez co najmniej 6 godzin od ostatniej dawki stosowanego opioidu, uwzględniającą rodzaj zastosowanego opioidu i drogi jego podania; w uzasadnionych przypadkach obserwacja co najmniej 12 godzin,
 b) układu krążenia, obejmującą pomiary ciśnienia tętniczego i tętna nie rzadziej niż co 1 godzinę, a w uzasadnionych przypadkach odpowiednio częściej;
-2) u płodu ocenę czynności serca płodu nie rzadziej niż co 15 minut.
-35. Osoby sprawujące opiekę nad rodzącą odnotowują podejmowane działania mające na celu łagodzenie bólu porodowego oraz ocenę stanu rodzącej i płodu w karcie obserwacji przebiegu porodu oraz w przypadku zastosowania analgezji regionalnej w karcie przebiegu znieczulenia.
+2) u płodu – ocenę czynności serca płodu nie rzadziej niż co 15 minut.
+35. Osoby sprawujące opiekę nad rodzącą odnotowują podejmowane działania mające na celu łagodzenie bólu porodowego oraz ocenę stanu rodzącej i płodu w karcie obserwacji przebiegu porodu oraz w przypadku zastosowania analgezji regionalnej – w karcie przebiegu znieczulenia.
 VIII. Rozpoczęcie porodu
 1. Przyjęcie do porodu następuje przez zgłoszenie się do wybranego podmiotu realizującego świadczenia zdrowotne w zakresie położnictwa.
 2. Miejsce porodu, z wyjątkiem wystąpienia stanów nagłych, powinno być zgodne z dokonaną i udokumentowaną oceną czynników ryzyka okołoporodowego.
@@ -441,11 +423,11 @@ XI. Postępowanie w III okresie porodu
 3) założenia noworodkowi opasek identyfikacyjnych, przed jego odpępnieniem, po wcześniejszym odczytaniu i potwierdzeniu przez matkę zawartych na nich danych, zgodnie z przepisami wydanymi na podstawie art. 36 ust. 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991);
 4) zaciśnięcia pępowiny po ustaniu tętnienia, jednak nie wcześniej niż po upływie jednej minuty od urodzenia się dziecka;
 5) przecięcia pępowiny jałowymi narzędziami;
-6) oceny stanu noworodka w razie potrzeby podjęcie czynności resuscytacyjnych, zgodnych z aktualnymi zaleceniami Polskiego Towarzystwa Neonatologicznego oraz Polskiego Towarzystwa Anestezjologii i Intensywnej Terapii;
+6) oceny stanu noworodka – w razie potrzeby podjęcie czynności resuscytacyjnych, zgodnych z aktualnymi zaleceniami Polskiego Towarzystwa Neonatologicznego oraz Polskiego Towarzystwa Anestezjologii i Intensywnej Terapii;
 7) osuszenia noworodka po wydobyciu i położenia go na brzuchu matki w kontakcie „skóra do skóry”, jeżeli stan ogólny noworodka i matki na to pozwalają oraz zabezpieczenia noworodka przed utratą ciepła;
 8) obserwacji przebiegu kontaktu matki i dziecka „skóra do skóry” i pomocy w przystawieniu noworodka do piersi, jeżeli stan ogólny noworodka i matki na to pozwalają;
 9) podania produktów leczniczych w uzasadnionych sytuacjach;
-10) oceny stanu tkanek miękkich kanału rodnego, a w przypadku nacięcia krocza jego rozległości;
+10) oceny stanu tkanek miękkich kanału rodnego, a w przypadku nacięcia krocza – jego rozległości;
 11) oceny krwawienia z dróg rodnych i stopnia jego nasilenia;
 12) oceny obkurczenia mięśnia macicy;
 13) rozpoznania objawów oddzielenia i wydalenia łożyska;
@@ -520,7 +502,7 @@ f) czytelny podpis osoby odpowiedzialnej za sporządzenie i wysłanie zgłoszeni
 1) dostarczenie matce przez położną sprawującą opiekę nad matką i dzieckiem informacji spójnych i zgodnych z aktualną wiedzą na temat laktacji w zakresie korzyści i metod karmienia piersią lub mlekiem kobiecym;
 2) przeprowadzenie instruktażu matki w zakresie prawidłowej pozycji i sposobu przystawienia dziecka do piersi uwzględniającego informację, że we wczesnym okresie karmienia piersią należy podejmować próby przystawienia noworodka do piersi do kilkunastu razy na dobę na przynajmniej 15 minut do każdej piersi, a jeżeli noworodek nie budzi się, należy go budzić do karmienia po 3–4 godzinach, licząc od początku ostatniego karmienia, z wyjątkiem pierwszych dwunastu godzin życia dziecka, kiedy z powodu obniżonej aktywności dziecka wybudzanie nie jest wymagane co trzy godziny;
 3) zachęcanie matki do przystawiania noworodka do piersi po zaobserwowaniu wczesnych oznak głodu (czuwanie i zwiększona aktywność, poruszanie ustami, odruch szukania);
-4) dokonywanie, w pierwszych dniach po urodzeniu, bieżących obserwacji cech dobrego przystawienia i pozycji przy piersi oraz objawów skutecznego i nieskutecznego karmienia (w szczególności liczba karmień, stolców i mikcji na dobę, czas trwania i rytm odgłosu połykania podczas karmienia, przyrost masy tzw. wskaźniki skutecznego karmienia), których wyniki są odnotowywane w dokumentacji medycznej; w przypadku stwierdzenia nieskutecznego karmienia piersią, należy zdiagnozować problem na podstawie oceny umiejętności ssania i wdrożyć postępowanie zgodnie z aktualną wiedzą na temat laktacji w celu umożliwienia skutecznego nakarmienia noworodka mlekiem matki z piersi, a jeżeli nie jest to możliwe odciągniętym mlekiem matki. Należy przy tym uwzględnić prawidłowy dobór metody dokarmiania, który zgodnie z aktualną wiedzą nie zwiększy ryzyka pojawienia się problemów ze ssaniem piersi i laktacją. Diagnozę i przeprowadzone postępowanie należy odnotować w dokumentacji medycznej;
+4) dokonywanie, w pierwszych dniach po urodzeniu, bieżących obserwacji cech dobrego przystawienia i pozycji przy piersi oraz objawów skutecznego i nieskutecznego karmienia (w szczególności liczba karmień, stolców i mikcji na dobę, czas trwania i rytm odgłosu połykania podczas karmienia, przyrost masy tzw. wskaźniki skutecznego karmienia), których wyniki są odnotowywane w dokumentacji medycznej; w przypadku stwierdzenia nieskutecznego karmienia piersią, należy zdiagnozować problem na podstawie oceny umiejętności ssania i wdrożyć postępowanie zgodnie z aktualną wiedzą na temat laktacji w celu umożliwienia skutecznego nakarmienia noworodka mlekiem matki z piersi, a jeżeli nie jest to możliwe – odciągniętym mlekiem matki. Należy przy tym uwzględnić prawidłowy dobór metody dokarmiania, który zgodnie z aktualną wiedzą nie zwiększy ryzyka pojawienia się problemów ze ssaniem piersi i laktacją. Diagnozę i przeprowadzone postępowanie należy odnotować w dokumentacji medycznej;
 5) podawanie sztucznego mleka początkowego wyłącznie na zlecenie lekarza lub zgodnie z decyzją matki, po wcześniejszym udzieleniu jej informacji o takim żywieniu;
 6) przeprowadzenie instruktażu ręcznego pozyskiwania pokarmu, a w szczególności siary dla noworodka;
 7) niestosowanie, w okresie stabilizowania się laktacji, smoczków w celu uspokajania noworodka;
@@ -540,8 +522,8 @@ XIV. Połóg
 4. Opieka nad noworodkiem obejmuje w szczególności ocenę:
 1) stanu ogólnego noworodka (temperatura ciała, masa ciała, czynność serca, czynność oddechowa, oddawanie moczu i stolca);
 2) obecności odruchów noworodkowych;
-3) stanu skóry (zażółcenia powłok skórnych, zaczerwienienia rumień, odparzenia, wyprzenia, potówki, wysypki, ciemieniuchy, zasinienia, otarcia, zadrapania, wybroczyny);
-4) odżywiania sposobu karmienia (wyłącznie piersią, odciąganym pokarmem matki, mieszanką sztuczną, karmienie łączone), przebiegu karmienia (częstość, długość, wielkość porcji, oznaki głodu, nasycenia) oraz obecności zaburzeń czynnościowych jelitowych (ulewanie pokarmu, kolka jelitowa, inne);
+3) stanu skóry (zażółcenia powłok skórnych, zaczerwienienia – rumień, odparzenia, wyprzenia, potówki, wysypki, ciemieniuchy, zasinienia, otarcia, zadrapania, wybroczyny);
+4) odżywiania – sposobu karmienia (wyłącznie piersią, odciąganym pokarmem matki, mieszanką sztuczną, karmienie łączone), przebiegu karmienia (częstość, długość, wielkość porcji, oznaki głodu, nasycenia) oraz obecności zaburzeń czynnościowych jelitowych (ulewanie pokarmu, kolka jelitowa, inne);
 5) oczu (obrzęk powiek, łzawienie, obecność śluzu, ropy), nosa (wydzielina) i jamy ustnej (pleśniawki);
 6) zachowania się dziecka (długość snu, czuwania, nawiązywanie kontaktu);
 7) sposobu zapewniania higieny ciała (kąpiel, toaleta, przewijanie i zmiana pieluszek, ubieranie);
@@ -591,7 +573,7 @@ c) szanują jej prywatność i poczucie intymności,
 d) każdorazowo uzyskują zgodę rodzącej na wykonanie zabiegów i badań;
 7) kobiecie udziela się wyczerpującej informacji na temat stanu jej zdrowia;
 8) kobiecie udziela się także wszelkich informacji zarówno o możliwości uzyskania dalszej pomocy psychologicznej, miejscach i organizacjach udzielających wsparcia osobom w podobnej sytuacji, jak i przysługujących jej prawach;
-9) w przypadku zdiagnozowania ciężkiego i nieodwracalnego upośledzenia albo nieuleczalnej choroby, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu, należy poinformować o możliwości uzyskania dalszej pomocy w ramach opieki paliatywnej i hospicyjnej, przy czym podmiot leczniczy na III poziomie opieki perinatalnej zapewnia dostępność do opieki nad chorym noworodkiem w ramach opieki paliatywnej i hospicyjnej zgodnie ze wskazaniami medycznymi;
+9) w przypadku zdiagnozowania ciężkiego i nieodwracalnego upośledzenia albo nieuleczalnej choroby, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu, należy poinformować o możliwości uzyskania dalszej pomocy w ramach opieki paliatywnej i hospicyjnej, przy czym podmiot leczniczy na III poziomie opieki perinatalnej zapewnia dostępność do opieki nad chorym noworodkiem w ramach opieki paliatywnej i hospicyjnej – zgodnie ze wskazaniami medycznymi;
 10) kobiecie udziela się wyczerpującej informacji na temat obowiązującego stanu prawnego, w szczególności wynikającego z przepisów o aktach stanu cywilnego, zabezpieczenia społecznego i prawa pracy dotyczącego sytuacji, w jakiej się znalazła, jak również o możliwości pochówku;
 11) osobom wykonującym zawód medyczny zapewnia się wsparcie w radzeniu sobie ze stresem, w związku z opieką nad kobietą i dzieckiem, w sytuacjach, o których mowa w ust. 1;
 12) kobieta otrzymuje opiekę laktacyjną zgodnie z indywidualną sytuacją i zgodnie z aktualną wiedzą na temat laktacji w sytuacjach, o których mowa w ust. 1.

@@ -8,10 +8,10 @@ pos: 1087
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 czerwca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1087 zmianY Statutu Międzynarodowego Funduszu Wyszehradzkiego, stanowiącego załącznik do Umowy o powołaniu Międzynarodowego Funduszu Wyszehradzkiego, sporządzonej w Štiřinie dnia 9 czerwca 2000 r., sporządzone w Budapeszcie dnia 11 lipca 2005 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001087) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1087/text.pdf) |
 
-zmianY Statutu Międzynarodowego Funduszu Wyszehradzkiego, stanowiącego załącznik do Umowy o powołaniu Międzynarodowego Funduszu Wyszehradzkiego, sporządzonej w Štiřinie dnia 9 czerwca 2000 r., sporządzone w Budapeszcie dnia 11 lipca 2005 r.
 Przekład
 

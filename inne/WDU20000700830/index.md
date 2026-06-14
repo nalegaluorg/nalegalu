@@ -8,7 +8,7 @@ pos: 830
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie określenia wykazu specjalności lekarskich oraz zawodów niemedycznych uprawniających do prowadzenia leczenia i rehabilitacji osób uzależnionych.
@@ -26,7 +26,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000700830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/830/text.pdf) |
 
-Na podstawie art. 14 ust. 4 ustawy z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii (Dz.U. Nr 75, poz. 468, z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 715 oraz z 2000 r. Nr 20, poz. 256) zarządza się, co następuje: § 1. Określa się wykaz specjalności lekarskich, których posiadanie umożliwia leczenie i rehabilitację osób uzależnionych:
+Na podstawie art. 14 ust. 4 ustawy z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii (Dz.U. Nr 75, poz. 468, z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 715 oraz z 2000 r. Nr 20, poz. 256) zarządza się, co następuje:
+§ 1. Określa się wykaz specjalności lekarskich, których posiadanie umożliwia leczenie i rehabilitację osób uzależnionych:
 1) psychiatra,
 2) psychiatra dla dzieci i młodzieży,
 3) medycyna rodzinna.

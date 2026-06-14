@@ -8,10 +8,10 @@ pos: 1004
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lipca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1004 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 1 lipca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1004/text.pdf) |
 
-Poz. 1004 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 1 lipca 2016 r.
-w sprawie wykazu ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi Na podstawie art. 40 ust. 4 ustawy z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. poz. 1926) zarządza się, co następuje: § 1. Wykaz ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi wraz ze wskazaniem ich właściwości terytorialnej jest określony w załączniku do rozporządzenia.
+w sprawie wykazu ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi Na podstawie art. 40 ust. 4 ustawy z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. poz. 1926) zarządza się, co następuje:
+§ 1. Wykaz ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi wraz ze wskazaniem ich właściwości terytorialnej jest określony w załączniku do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: K. Radziwiłł WYKAZ OŚRODKÓW TOKSYKOLOGICZNYCH ODPOWIEDZIALNYCH ZA KONTROLĘ ZATRUĆ PRODUKTAMI BIOBÓJCZYMI WRAZ ZE WSKAZANIEM ICH WŁAŚCIWOŚCI TERYTORIALNEJ
 1) Pomorskie Centrum Toksykologii ul. Kartuska 4/6, 80-104 Gdańsk – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa pomorskiego, zachodniopomorskiego, warmińsko-mazurskiego oraz kujawsko-pomorskiego

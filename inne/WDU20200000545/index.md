@@ -8,10 +8,10 @@ pos: 545
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 marca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 545 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 marca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000545) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/545/text.pdf) |
 
-Poz. 545 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 marca 2020 r.
-w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm. ) zarządza się, co następuje: §1. W rozporządzeniu Ministra Zdrowia z dnia 4 stycznia 2019 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 34, 1629 i 2511) wprowadza się następujące zmiany:
+w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm. ) zarządza się, co następuje:
+§1. W rozporządzeniu Ministra Zdrowia z dnia 4 stycznia 2019 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 34, 1629 i 2511) wprowadza się następujące zmiany:
 1) w § 2:
 a) w ust. 2 po pkt 5 dodaje się średnik oraz pkt 6–8 w brzmieniu: „6) 1 kwietnia 2020 r. – w terminie do dnia 14 kwietnia 2020 r.;
 7) 1 lipca 2020 r. – w terminie do dnia 14 lipca 2020 r.;

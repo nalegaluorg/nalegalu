@@ -8,12 +8,10 @@ pos: 612
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu prac podwodnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 marca 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -49,6 +47,26 @@ o wykonywaniu prac podwodnych
 - **3)** płetwonurkowania w celach badawczych organizowanego przez uczelnie i instytuty badawcze.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** baza prac podwodnych – miejsce zainstalowania urządzeń technicznych i wyposażenia umożliwiających bezpieczne przygotowanie i przeprowadzenie prac podwodnych oraz czynności po ich zakończeniu;
+- **2)** czynnik oddechowy – stosowane do oddychania sprężone powietrze atmosferyczne, tlen lub mieszaninę oddechową;
+- **3)** dekompresja – kontrolowany proces obniżania ciśnienia oddziałującego na organizm nurka, prowadzony zgodnie z procedurą prac podwodnych;
+- **4)** długotrwałe prace podwodne – prace podwodne, których czas trwania przekracza 8 godzin, polegające na jednorazowym, ciągłym pozostawaniu nurka pod wpływem podwyższonego ciśnienia w czasie wykonywania prac pod powierzchnią wody i w czasie przebywania na powierzchni w komorze hiperbarycznej;
+- **5)** dzwon nurkowy – zbiornik ciśnieniowy, którego konstrukcja i wyposażenie pozwalają na transportowanie nurków pod powierzchnię wody;
+- **6)** głębinowe prace podwodne – prace prowadzone pod powierzchnią wody na głębokości większej niż 50 m;
+- **7)** komora dekompresyjna – zbiornik ciśnieniowy o konstrukcji i wyposażeniu umożliwiających prowadzenie pod opieką lekarza kompresji i dekompresji nurków;
+- **8)** komora hiperbaryczna – zbiornik ciśnieniowy o konstrukcji i wyposażeniu umożliwiających przebywanie w nim nurków w warunkach sztucznie wytworzonego podwyższonego ciśnienia atmosferycznego w czasie prowadzenia długotrwałych lub głębinowych prac podwodnych albo w celu przeprowadzania dekompresji;
+- **9)** kompresja – kontrolowany proces wzrostu ciśnienia oddziałującego na organizm nurka, prowadzony zgodnie z procedurą prac podwodnych;
+- **10)** nurek – osobę wykonującą prace pod powierzchnią wody w sprzęcie nurkowym albo pozostającą w warunkach sztucznie wytworzonego podwyższonego ciśnienia atmosferycznego;
+- **11)** obiekt zanurzalny – dzwon nurkowy, pojazd podwodny, batyskaf lub inne urządzenie przeznaczone do przebywania w nim osób w czasie wykonywania prac podwodnych;
+- **12)** organizator prac podwodnych – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną niemającą osobowości prawnej, świadczącą usługi w zakresie prac podwodnych oraz organizującą te prace;
+- **13)** prace podwodne – czynności wykonywane przez osoby pozostające pod powierzchnią wody w sprzęcie nurkowym lub w warunkach sztucznie wytworzonego podwyższonego ciśnienia atmosferycznego, a także czynności wykonywane na powierzchni przez osoby organizujące te prace oraz obsługujące urządzenia bazy prac podwodnych;
+- **14)** prace podwodne na małych głębokościach – prace prowadzone pod powierzchnią wody na głębokości do 20 m;
+- **15)** prace podwodne na średnich głębokościach – prace prowadzone pod powierzchnią wody na głębokości od 20 m do 50 m;
+- **16)** prace podwodne wykonywane w trudnych warunkach – czynności wykonywane pod powierzchnią wody w nocy, w czasie opadów atmosferycznych, przy temperaturze powietrza lub wody niższej niż 4°C, przy temperaturze powietrza wyższej niż 25°C, temperaturze wody wyższej niż 35°C, gdy widzialność w toni wodnej jest mniejsza niż 1 m, przy prędkości prądu wody większej niż 0,5 m/s i w akwenach górskich położonych powyżej 300 m nad poziomem morza;
+- **17)** procedura prac podwodnych – sposób postępowania przy wykonywaniu prac podwodnych, określający kolejność wykonywanych czynności, rodzaj sprzętu nurkowego, głębokość zanurzania, rodzaj i czas dekompresji, dopuszczalny czas pracy i przebywania w warunkach podwyższonego ciśnienia, długość przerw pomiędzy kolejnymi zanurzeniami, zasady asekuracji, łączności i postępowania w przypadku awarii lub wystąpienia objawów choroby dekompresyjnej;
+- **18)** sprzęt nurkowy – wyposażenie i urządzenia techniczne nakładane bezpośrednio na ciało nurka, składające się z aparatu oddechowego lub innego urządzenia doprowadzającego czynnik oddechowy, skafandra, środków ochrony głowy, odzieży ocieplonej i ochronnej, butów lub płetw, kompensatorów pływalności, pasów nośnych, stelaża, liny sygnałowej, noża, narzędzi oraz wyposażenia dodatkowego;
+- **19)** szczególnie niebezpieczne prace podwodne – czynności wykonywane pod powierzchnią wody z zastosowaniem materiałów wybuchowych lub pirotechnicznych, przy skażeniu substancjami stwarzającymi zagrożenie albo ich mieszaninami stwarzającymi zagrożenie, przy cięciu i spawaniu metali, przy użyciu urządzeń hydraulicznych i pneumatycznych, przy poszukiwaniu, przenoszeniu i rozbrajaniu min lub amunicji, a także przy prowadzeniu prób nowego sprzętu nurkowego lub sprawdzaniu nowych technologii prac podwodnych.
 
 #### Rozdział 2 Warunki wykonywania prac podwodnych
 
@@ -106,7 +124,7 @@ o wykonywaniu prac podwodnych
 - **8)** zapewnić nurkowi opiekę medyczną, a w przypadku wystąpienia nagłej dekompresji zapewnić bezzwłoczne przetransportowanie nurka do miejsca, gdzie będzie można udzielić mu specjalistycznej pomocy medycznej;
 - **9)** przygotowywać i prowadzić prace podwodne zgodnie z wymaganiami określonymi w przepisach dotyczących bezpieczeństwa i higieny pracy.
 
-3. prac podwodnych, o którym mowa w ust. 2 pkt 6, wydaje, na wniosek organizatora prac podwodnych, i rejestruje jego wydanie właściwy miejscowo dyrektor urzędu morskiego albo dyrektor urzędu żeglugi śródlądowej.
+3. Dziennik prac podwodnych, o którym mowa w ust. 2 pkt 6, wydaje, na wniosek organizatora prac podwodnych, i rejestruje jego wydanie właściwy miejscowo dyrektor urzędu morskiego albo dyrektor urzędu żeglugi śródlądowej.
 
 4. Za wydanie dziennika prac podwodnych pobiera się opłatę w wysokości określonej w załączniku; opłata stanowi dochód budżetu państwa.
 
@@ -215,6 +233,9 @@ o wykonywaniu prac podwodnych
 **Art. 16.** Do czasów, o których mowa w art. 12–15, wlicza się czas dekompresji określony w procedurze prac podwodnych.
 
 **Art. 17.** Nurek zatrudniony na podstawie umowy o pracę otrzymuje dodatek w wysokości 50% wynagrodzenia za każdą godzinę pracy:
+
+- **1)** przy wykonywaniu prac podwodnych w trudnych warunkach;
+- **2)** przy wykonywaniu szczególnie niebezpiecznych prac podwodnych.
 
 **Art. 18.** W czasie wykonywania prac pod powierzchnią wody organizator prac podwodnych zapewnia nurkowi bezpłatne wyżywienie, o wartości kalorycznej nie mniejszej niż 2500 kcal dziennie.
 
@@ -326,7 +347,7 @@ o wykonywaniu prac podwodnych
 
 **Art. 23.**
 
-1. Obywatelom państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, którzy nabyli w tych państwach, poza granicami Rzeczypospolitej Polskiej, kwalifikacje do wykonywania zawodów, o których mowa w art. 19, uznaje się te kwalifikacje na zasadach określonych w przepisach o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
+1. Obywatelom państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, którzy nabyli w tych państwach, poza granicami Rzeczypospolitej Polskiej, kwalifikacje do wykonywania zawodów, o których mowa w art. 19, uznaje się te kwalifikacje na zasadach określonych w przepisach o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
 
 2. (uchylony)
 
@@ -369,13 +390,19 @@ o wykonywaniu prac podwodnych
 
 **Art. 26.** Minister właściwy do spraw gospodarki morskiej, mając na uwadze specyfikę zawodów, o których mowa w art. 19, i uwzględniając aktualny stan wiedzy w tej dziedzinie, określi, w drodze rozporządzenia:
 
+- **1)** tryb i kryteria uznawania szkoleń prowadzonych przez ośrodek szkoleniowy, cofania uznania oraz przeprowadzania kontroli i oceny tych szkoleń;
+- **2)** ramowe programy szkoleń i wymagań egzaminacyjnych;
+- **3)** tryb, sposób i terminy przeprowadzania egzaminów przez komisję;
+- **4)** (uchylony)
+- **5)** kryteria, którym powinni odpowiadać kandydaci na przewodniczącego, zastępcę przewodniczącego, sekretarza i członków komisji.
+
 **Art. 27.**
 
 1. Za przeprowadzenie egzaminu pobiera się opłaty w wysokości określonej w załączniku.
 
 2. (uchylony)
 
-3. Za przeprowadzenie egzaminu i kontrolę oraz ocenę szkoleń prowadzonych przez ośrodek szkoleniowy członkom komisji oraz obsłudze administracyjnej egzaminu przysługuje wynagrodzenie w wysokości określonej w załączniku oraz zwrot należności na pokrycie kosztów związanych z podróżą. Do określenia wysokości oraz warunków ustalania należności związanych z podróżą stosuje się odpowiednio przepisy wydane na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320).
+3. Za przeprowadzenie egzaminu i kontrolę oraz ocenę szkoleń prowadzonych przez ośrodek szkoleniowy członkom komisji oraz obsłudze administracyjnej egzaminu przysługuje wynagrodzenie w wysokości określonej w załączniku oraz zwrot należności na pokrycie kosztów związanych z podróżą. Do określenia wysokości oraz warunków ustalania należności związanych z podróżą stosuje się odpowiednio przepisy wydane na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320).
 
 **Art. 28.**
 
@@ -391,7 +418,7 @@ o wykonywaniu prac podwodnych
 - **2)** wzory dokumentów potwierdzających nabycie kwalifikacji, o których mowa w pkt 1, a także wzory innych dokumentów związanych z wykonywaniem prac podwodnych;
 - **3)** sposób ustalania okoliczności wypadków z udziałem nurków w jednostkach organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych.
 
-**Art. 29.** Do postępowania w sprawach uznawania i potwierdzania kwalifikacji, wydawania dyplomów, świadectw, certyfikatów bezpieczeństwa konstrukcji i wyposażenia obiektu zanurzalnego oraz uznawania szkoleń prowadzonych przez ośrodki szkoleniowe, o których mowa w art. 24, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320 oraz z 2021 r. poz. 54 i 187).
+**Art. 29.** Do postępowania w sprawach uznawania i potwierdzania kwalifikacji, wydawania dyplomów, świadectw, certyfikatów bezpieczeństwa konstrukcji i wyposażenia obiektu zanurzalnego oraz uznawania szkoleń prowadzonych przez ośrodki szkoleniowe, o których mowa w art. 24, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320 oraz z 2021 r. poz. 54 i 187).
 
 #### Rozdział 5 Przepisy karne
 
@@ -402,9 +429,9 @@ o wykonywaniu prac podwodnych
 - **1)** organizuje prace podwodne, nie posiadając certyfikatu, o którym mowa w art. 4 ust. 1 i art. 10 ust. 1,
 - **2)** powierza wykonywanie prac podwodnych osobom nieposiadającym wymaganych uprawnień zawodowych,
 - **3)** świadczy bez zezwolenia usługi w zakresie prac podwodnych,
-- **4)** zleca prace podwodne organizatorowi prac podwodnych nieposiadającemu certyfikatu, o którym mowa w art. 4 ust. 1 i w art. 10 ust. 1 podlega karze grzywny albo karze ograniczenia wolności, albo obu tym karom łącznie.
+- **4)** zleca prace podwodne organizatorowi prac podwodnych nieposiadającemu certyfikatu, o którym mowa w art. 4 ust. 1 i w art. 10 ust. 1 – podlega karze grzywny albo karze ograniczenia wolności, albo obu tym karom łącznie.
 
-2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956, 1423, 2112 i 2320).
+2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956, 1423, 2112 i 2320).
 
 #### Rozdział 6 Przepisy zmieniające, dostosowujące i końcowe
 
@@ -414,5 +441,5 @@ o wykonywaniu prac podwodnych
 
 **Art. 33.** Przepisy art. 4, a także przepisy art. 6 ust. 4, art. 24 ust. 2 i art. 30 ust. 1 pkt 1 w zakresie dotyczącym certyfikatu potwierdzającego spełnianie wymagań systemu zarządzania bezpieczeństwem i higieną pracy stosuje się po upływie 18 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 34.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia . OPŁATY ZA WYDAWANIE DOKUMENTÓW I PRZEPROWADZANIE EGZAMINÓW 1. Opłaty za wydanie dokumentów 1.1. Za certyfikat bezpieczeństwa konstrukcji i wyposażenia obiektu zanurzalnego 200 j.t. 1.2. Za przedłużenie ważności certyfikatu bezpieczeństwa konstrukcji i wyposażenia obiektu zanurzalnego 50 j.t. 1.3. Za wydanie duplikatu certyfikatu bezpieczeństwa konstrukcji i wyposażenia obiektu zanurzalnego 25 j.t. 1.4. Za wydanie zezwolenia na wykonywanie prac podwodnych na obszarach morskich lub śródlądowych drogach wodnych 200 j.t. 1.5. Za kontrolę, ocenę i uznanie szkolenia prowadzonego przez ośrodek szkoleniowy 1350 j.t. 1.6. Za rozszerzenie działalności szkoleniowej ośrodka szkoleniowego 650 j.t. 2. Opłaty za wydanie dyplomów, świadectwa, książeczki nurka 2.1. Dyplom nurka III i II klasy 30 j.t. 2.2. Dyplom nurka I klasy oraz nurka saturowanego 50 j.t. 2.3. Dyplom kierownika prac podwodnych III, II i I klasy 50 j.t. 2.4. Świadectwo operatora systemów nurkowych 30 j.t. 2.5. Uznanie kwalifikacji uzyskanych w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym 200 j.t. 2.6. (uchylona) 2.7. Za wydanie książeczki nurka 20 j.t. 2.8. Za wydanie dziennika prac podwodnych 10 j.t. 3. Za wydanie duplikatów dokumentów wymienionych w poz. 2.1–2.8 opłatę podwyższa się o 50% opłaty podstawowej za ten dokument. 4. Za przeprowadzenie egzaminu przed Komisją Kwalifikacyjną dla Nurków 4.1. Na stopień nurka III i nurka II klasy 180 j.t. 4.2. Na stopień nurka I klasy i nurka saturowanego 300 j.t. 4.3. Na stopień kierownika prac podwodnych III, II i I klasy 250 j.t. 4.4. Na stopień operatora systemów nurkowych 150 j.t. 5. Za egzamin poprawkowy pobiera się opłatę w wysokości 50% opłat określonych w poz. 4.1–4.4. 6. Wynagrodzenia członków Komisji Kwalifikacyjnej dla Nurków za przeprowadzenie egzaminu (od osoby egzaminowanej) 6.1. Przewodniczący Komisji 35 j.t. 6.2. Zastępca Przewodniczącego Komisji 25 j.t. 6.3. Sekretarz Komisji 20 j.t. 6.4. Członek Komisji 22 j.t. 6.5. Obsługa administracyjna egzaminu 7 j.t. 7. Wynagrodzenie Komisji Kwalifikacyjnej dla Nurków za przeprowadzenie kontroli i oceny ośrodka szkoleniowego 7.1. Przewodniczący Komisji 300 j.t. 7.2. Członek Komisji 250 j.t. Jednostka taryfowa (j.t.) Wartość złotową jednostki taryfowej stanowi równowartość 0,2 SDR Specjalnych Praw Ciągnienia (jednostki rozrachunkowej Międzynarodowego Funduszu Walutowego) liczona według średniego kursu walutowego z poprzedniego tygodnia, podanego w tabelach kursowych Narodowego Banku Polskiego, zgodnie z art. 17 ust. 4 pkt 2 i art. 24 ust. 3 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2020 r. poz. 2027).
+**Art. 34.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia . OPŁATY ZA WYDAWANIE DOKUMENTÓW I PRZEPROWADZANIE EGZAMINÓW 1. Opłaty za wydanie dokumentów 1.1. Za certyfikat bezpieczeństwa konstrukcji i wyposażenia obiektu zanurzalnego 200 j.t. 1.2. Za przedłużenie ważności certyfikatu bezpieczeństwa konstrukcji i wyposażenia obiektu zanurzalnego 50 j.t. 1.3. Za wydanie duplikatu certyfikatu bezpieczeństwa konstrukcji i wyposażenia obiektu zanurzalnego 25 j.t. 1.4. Za wydanie zezwolenia na wykonywanie prac podwodnych na obszarach morskich lub śródlądowych drogach wodnych 200 j.t. 1.5. Za kontrolę, ocenę i uznanie szkolenia prowadzonego przez ośrodek szkoleniowy 1350 j.t. 1.6. Za rozszerzenie działalności szkoleniowej ośrodka szkoleniowego 650 j.t. 2. Opłaty za wydanie dyplomów, świadectwa, książeczki nurka 2.1. Dyplom nurka III i II klasy 30 j.t. 2.2. Dyplom nurka I klasy oraz nurka saturowanego 50 j.t. 2.3. Dyplom kierownika prac podwodnych III, II i I klasy 50 j.t. 2.4. Świadectwo operatora systemów nurkowych 30 j.t. 2.5. Uznanie kwalifikacji uzyskanych w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym 200 j.t. 2.6. (uchylona) 2.7. Za wydanie książeczki nurka 20 j.t. 2.8. Za wydanie dziennika prac podwodnych 10 j.t. 3. Za wydanie duplikatów dokumentów wymienionych w poz. 2.1–2.8 opłatę podwyższa się o 50% opłaty podstawowej za ten dokument. 4. Za przeprowadzenie egzaminu przed Komisją Kwalifikacyjną dla Nurków 4.1. Na stopień nurka III i nurka II klasy 180 j.t. 4.2. Na stopień nurka I klasy i nurka saturowanego 300 j.t. 4.3. Na stopień kierownika prac podwodnych III, II i I klasy 250 j.t. 4.4. Na stopień operatora systemów nurkowych 150 j.t. 5. Za egzamin poprawkowy pobiera się opłatę w wysokości 50% opłat określonych w poz. 4.1–4.4. 6. Wynagrodzenia członków Komisji Kwalifikacyjnej dla Nurków za przeprowadzenie egzaminu (od osoby egzaminowanej) 6.1. Przewodniczący Komisji 35 j.t. 6.2. Zastępca Przewodniczącego Komisji 25 j.t. 6.3. Sekretarz Komisji 20 j.t. 6.4. Członek Komisji 22 j.t. 6.5. Obsługa administracyjna egzaminu 7 j.t. 7. Wynagrodzenie Komisji Kwalifikacyjnej dla Nurków za przeprowadzenie kontroli i oceny ośrodka szkoleniowego 7.1. Przewodniczący Komisji 300 j.t. 7.2. Członek Komisji 250 j.t. Jednostka taryfowa (j.t.) Wartość złotową jednostki taryfowej stanowi równowartość 0,2 SDR – Specjalnych Praw Ciągnienia (jednostki rozrachunkowej Międzynarodowego Funduszu Walutowego) liczona według średniego kursu walutowego z poprzedniego tygodnia, podanego w tabelach kursowych Narodowego Banku Polskiego, zgodnie z art. 17 ust. 4 pkt 2 i art. 24 ust. 3 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2020 r. poz. 2027).
 

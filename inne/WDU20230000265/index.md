@@ -8,12 +8,10 @@ pos: 265
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o gwarancjach wolności sumienia i wyznania
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 stycznia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +30,7 @@ poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sty
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „Art. 417. Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 17 maja 1989 r.
-o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia i wyznania, nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny, uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych, kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii, stanowi, co następuje:
+o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: – wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia i wyznania, – nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny, – uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych, – kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, – umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii, stanowi, co następuje:
 
 ### DZIAŁ I Wolność sumienia i wyznania
 
@@ -45,6 +43,20 @@ o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: wyko
 3. Obywatele wierzący wszystkich wyznań oraz niewierzący mają równe prawa w życiu państwowym, politycznym, gospodarczym, społecznym i kulturalnym.
 
 **Art. 2.** Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności:
+
+- **1)** tworzyć wspólnoty religijne, zwane dalej „kościołami i innymi związkami wyznaniowymi”, zakładane w celu wyznawania i szerzenia wiary religijnej, posiadające własny ustrój, doktrynę i obrzędy kultowe;
+- **2)** zgodnie z zasadami swojego wyznania uczestniczyć w czynnościach i obrzędach religijnych oraz wypełniać obowiązki religijne i obchodzić święta religijne;
+- **2a)** należeć lub nie należeć do kościołów i innych związków wyznaniowych;
+- **3)** głosić swoją religię lub przekonania;
+- **4)** wychowywać dzieci zgodnie ze swoimi przekonaniami w sprawach religii;
+- **5)** zachowywać milczenie w sprawach swojej religii lub przekonań;
+- **6)** utrzymywać kontakty ze współwyznawcami, w tym uczestniczyć w pracach organizacji religijnych o zasięgu międzynarodowym;
+- **7)** korzystać ze źródeł informacji na temat religii;
+- **8)** wytwarzać i nabywać przedmioty potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich;
+- **9)** wytwarzać, nabywać i posiadać artykuły potrzebne do przestrzegania reguł religijnych;
+- **10)** wybrać stan duchowny lub zakonny;
+- **11)** zrzeszać się w organizacjach świeckich w celu realizacji zadań wynikających z wyznawanej religii bądź przekonań w sprawach religii;
+- **12)** otrzymać pochówek zgodny z wyznawanymi zasadami religijnymi lub z przekonaniami w sprawach religii.
 
 **Art. 3.**
 
@@ -386,7 +398,7 @@ o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: wyko
 
 6. Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację i wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji.
 
-7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
+7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
 
 8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.
 
@@ -425,7 +437,7 @@ o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: wyko
 
 2. W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu.
 
-**Art. 38c.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 38a i 38b.
+**Art. 38c.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 38a i 38b.
 
 **Art. 38d.**
 
@@ -467,7 +479,7 @@ o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: wyko
 
 1. Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
 
-2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b.
+2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b.
 
 ### DZIAŁ IV Przepisy przejściowe i końcowe
 

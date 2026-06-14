@@ -8,7 +8,7 @@ pos: 97
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # D z . U . 1994 N r 28 p o z . 97

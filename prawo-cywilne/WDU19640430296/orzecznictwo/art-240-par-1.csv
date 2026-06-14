@@ -32,13 +32,17 @@ saos_id|date|court|case_number|type|score|saos_url
 539264|2025-06-10|SO|I ACa 2834/23|Wyrok|56|https://www.saos.org.pl/judgments/539264
 534419|2024-12-10|SO|I ACa 1509/22|Wyrok|56|https://www.saos.org.pl/judgments/534419
 533843|2024-11-14|SO|I ACa 1328/23|Wyrok|56|https://www.saos.org.pl/judgments/533843
+545657|2024-10-17|SO|I ACa 1117/23|Wyrok|56|https://www.saos.org.pl/judgments/545657
 539268|2024-07-18|SO|I ACa 422/23|Wyrok|56|https://www.saos.org.pl/judgments/539268
 522259|2024-05-31|SO|I ACa 147/23|Wyrok|56|https://www.saos.org.pl/judgments/522259
 531184|2024-04-30|SO|I ACa 2701/22|Wyrok|56|https://www.saos.org.pl/judgments/531184
 531479|2024-04-18|SO|I ACa 1436/22|Wyrok|56|https://www.saos.org.pl/judgments/531479
 521594|2024-04-12|SO|I ACa 828/22|Wyrok|56|https://www.saos.org.pl/judgments/521594
 493544|2024-03-22|SO|I ACa 1316/22|Wyrok|56|https://www.saos.org.pl/judgments/493544
+546552|2024-03-08|SO|I ACa 2032/23|Wyrok|56|https://www.saos.org.pl/judgments/546552
 521086|2024-03-06|SO|I ACa 1003/22|Wyrok|56|https://www.saos.org.pl/judgments/521086
+545990|2024-02-22|SO|I ACa 2677/22|Wyrok|56|https://www.saos.org.pl/judgments/545990
+545994|2024-02-16|SO|I ACa 359/23|Wyrok|56|https://www.saos.org.pl/judgments/545994
 531463|2024-02-13|SO|I ACa 1245/22|Wyrok|56|https://www.saos.org.pl/judgments/531463
 518776|2024-02-09|SO|I ACa 1986/22|Wyrok|56|https://www.saos.org.pl/judgments/518776
 539274|2023-12-15|SO|I ACa 7/23|Wyrok|56|https://www.saos.org.pl/judgments/539274
@@ -55,6 +59,7 @@ saos_id|date|court|case_number|type|score|saos_url
 493849|2023-03-27|SO|I ACa 1941/22|Wyrok|56|https://www.saos.org.pl/judgments/493849
 494397|2023-03-13|SO|I ACa 624/22|Wyrok|56|https://www.saos.org.pl/judgments/494397
 539271|2023-03-07|SO|I ACa 602/22|Wyrok|56|https://www.saos.org.pl/judgments/539271
+546049|2023-02-28|SO|I ACa 2088/22|Wyrok|56|https://www.saos.org.pl/judgments/546049
 494782|2023-02-23|SO|I ACa 953/22|Wyrok|56|https://www.saos.org.pl/judgments/494782
 486408|2023-01-12|SO|I ACa 251/22|Wyrok|56|https://www.saos.org.pl/judgments/486408
 494469|2022-12-21|SO|I ACa 685/22|Wyrok|56|https://www.saos.org.pl/judgments/494469

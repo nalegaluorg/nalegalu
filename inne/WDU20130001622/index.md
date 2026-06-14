@@ -8,10 +8,10 @@ pos: 1622
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1622
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1622/text.pdf) |
 
-Poz. 1622
 USTAWA z dnia 22 listopada 2013 r.
 o zmianie ustawy – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym
 

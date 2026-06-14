@@ -8,10 +8,10 @@ pos: 1938
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1938 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 22 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1938/text.pdf) |
 
-Poz. 1938 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 22 grudnia 2024 r.
-zmieniające rozporządzenie w sprawie wystawiania faktur Na podstawie art. 106o–106q ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów z dnia 29 października 2021 r. w sprawie wystawiania faktur (Dz. U.
+zmieniające rozporządzenie w sprawie wystawiania faktur Na podstawie art. 106o–106q ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Finansów z dnia 29 października 2021 r. w sprawie wystawiania faktur (Dz. U.
 poz. 1979) wprowadza się następujące zmiany:
 1) do tytułu rozporządzenia dodaje się odnośnik nr 2 w brzmieniu: „ Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1, Dz. Urz. UE L 384 z 29.12.2006, str. 92, Dz. Urz. UE L 335 z 20.12.2007, str. 60, Dz. Urz. UE L 346 z 29.12.2007, str. 13, Dz. Urz. UE L 44 z 20.02.2008, str. 11, Dz. Urz. UE L 14 z 20.01.2009, str. 7, Dz. Urz. UE L 116 z 09.05.2009, str. 18, Dz. Urz. UE L 175 z 04.07.2009, str. 12, Dz. Urz. UE L 10 z 15.01.2010, str. 14, Dz. Urz. UE L 72 z 20.03.2010, str. 1, Dz. Urz. UE L 189 z 22.07.2010, str. 1, Dz. Urz. UE L 326 z 10.12.2010, str. 1, Dz. Urz.
 UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 201 z 26.07.2013, str. 1 i 4, Dz. Urz. UE L 353 z 28.12.2013, str. 5, Dz. Urz. UE L 142 z 31.05.2016, str. 12, Dz. Urz. UE L 177 z 01.07.2016, str. 9, Dz. Urz. UE L 348 z 29.12.2017, str. 7, Dz. Urz. UE L 125 z 22.05.2018, str. 15, Dz. Urz. UE L 162 z 27.06.2018, str. 1, Dz. Urz. UE L 225 z 06.09.2018, str. 1, Dz. Urz. UE L 282 z 12.11.2018, str. 5, Dz. Urz. UE L 286 z 14.11.2018, str. 20, Dz. Urz.

@@ -8,10 +8,10 @@ pos: 713
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 maja 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 713 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 7 maja 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000713) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/713/text.pdf) |
 
-Poz. 713 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 7 maja 2024 r.
-w sprawie przeprowadzania zaciągu ochotniczego Na podstawie art. 532 ust. 8 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb przeprowadzania zaciągu ochotniczego.
+w sprawie przeprowadzania zaciągu ochotniczego Na podstawie art. 532 ust. 8 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb przeprowadzania zaciągu ochotniczego.
 § 2. 1. Decyzję o przeprowadzaniu zaciągu ochotniczego podejmuje Szef Centralnego Wojskowego Centrum Rekrutacji.
 2. Zaciąg ochotniczy ogłaszają szefowie wojskowych centrów rekrutacji, zwani dalej „szefami WCR”, w drodze komunikatów w prasie, radiu, telewizji i Internecie, jak również w inny sposób przyjęty na obszarze ich działania, i podają miejsce i termin przeprowadzania zaciągu oraz preferowane specjalności wojskowe, kwalifikacje zawodowe i predyspozycje oczekiwane od osób, które zgłoszą się do pełnienia służby wojskowej w drodze zaciągu ochotniczego, zwanych dalej „ochotnikami”.
 3. W komunikatach szefowie WCR określają dowódców jednostek wojskowych, do których bezpośrednio mogą stawiać się ochotnicy w sprawach zaciągu ochotniczego.
@@ -38,7 +38,6 @@ w sprawie przeprowadzania zaciągu ochotniczego Na podstawie art. 532 ust. 8 ust
 § 7. Ochotnicy uznani za zdolnych do służby wojskowej są powoływani do czynnej służby wojskowej w terminie uzgodnionym z dowódcą jednostki wojskowej, w której będą odbywać służbę.
 § 8. W sprawie zaciągu ochotniczego konsul Rzeczypospolitej Polskiej kieruje polskich obywateli do właściwego szefa wojskowego centrum rekrutacji, którym jest:
 1) w odniesieniu do obywatela Rzeczypospolitej Polskiej czasowo przebywającego za granicą Rzeczypospolitej Polskiej – szef WCR właściwy ze względu na miejsce pobytu stałego lub pobytu czasowego w kraju trwającego powyżej 3 miesięcy;
-Dziennik Ustaw – 2 – Poz. 713
 2) w odniesieniu do obywatela Rzeczypospolitej Polskiej stale przebywającego poza granicami Rzeczpospolitej Polskiej – Szef Wojskowego Centrum Rekrutacji Warszawa-Śródmieście.
 § 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Obrony Narodowej: z up. P. Bejda

@@ -8,10 +8,10 @@ pos: 2435
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2435 ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI z dnia 9 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2435/text.pdf) |
 
-ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI z dnia 9 grudnia 2021 r.
-w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozdań z realizacji misji publicznej składanych przez jednostki publicznej radiofonii i telewizji Na podstawie art. 31a ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805 oraz z 2021 r. poz. 1676) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozdań z realizacji misji publicznej składanych przez jednostki publicznej radiofonii i telewizji Na podstawie art. 31a ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805 oraz z 2021 r. poz. 1676) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób prowadzenia dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106), przez jednostki publicznej radiofonii i telewizji, zwane dalej „jednostkami”;
 2) sposób sporządzania sprawozdania z realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji, zwanej dalej „ustawą”.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
@@ -34,12 +34,12 @@ w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozda�
 2) kosztach − rozumie się przez to koszty i straty oraz pozostałe koszty, o których mowa w art. 3 ust. 1 pkt 31 i 32 ustawy z dnia 29 września 1994 r. o rachunkowości;
 3) kosztach pozostałej działalności − rozumie się przez to koszty przypisane do pozostałej działalności, zgodnie z zasadami określonymi w § 3;
 4) kategoriach ustawowych − rozumie się przez to informację, publicystykę, kulturę, rozrywkę, edukację i sport, o których mowa w art. 21 ust. 1 ustawy;
-5) całkowitym koszcie realizacji misji publicznej rozumie się przez to sumę kosztów poniesionych w związku z realizacją misji publicznej, o której mowa w art. 21 ust. 1 ustawy, i nakładów poniesionych na aktywa określone w art. 3 ust. 1 pkt 14–16 ustawy z dnia 29 września 1994 r. o rachunkowości w związku z realizacją tej misji.
+5) całkowitym koszcie realizacji misji publicznej – rozumie się przez to sumę kosztów poniesionych w związku z realizacją misji publicznej, o której mowa w art. 21 ust. 1 ustawy, i nakładów poniesionych na aktywa określone w art. 3 ust. 1 pkt 14–16 ustawy z dnia 29 września 1994 r. o rachunkowości w związku z realizacją tej misji.
 § 3. 1. Jednostki, prowadząc dokumentację, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości, w zakresie ewidencji przychodów i kosztów związanych z realizacją misji publicznej, o której mowa w art. 21 ust. 1 ustawy, oraz pozostałą działalnością, z zastrzeżeniem ust. 2 i 3, są obowiązane do:
 1) przejrzystego oddzielenia ewidencji przychodów i kosztów związanych z realizacją misji publicznej, o której mowa w art. 21 ust. 1 ustawy, oraz pozostałą działalnością;
 2) przypisania kosztów i przychodów odpowiednio do poszczególnych rodzajów działalności związanej z realizacją misji publicznej, o której mowa w art. 21 ust. 1 ustawy, oraz pozostałej działalności;
 3) wskazania wszystkich źródeł i kwot przychodów, o których mowa w art. 31 ust. 1 i 2 ustawy, uzyskanych z realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy, oraz pozostałej działalności;
-4) wykazania, w wartości nominalnej, przychodu z otrzymanych w danym roku kalendarzowym, na podstawie odrębnych
+4) wykazania, w wartości nominalnej, przychodu z otrzymanych w danym roku kalendarzowym, na podstawie odrębnych przepisów prawa, skarbowych papierów wartościowych.
 2. W przypadku gdy koszty służą jednocześnie realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy, i pozostałej działalności, jednostki są obowiązane odpowiednio przypisać je proporcjonalnie do danej działalności.
 3. W przypadku gdy te same zasoby, w szczególności pracownicy lub współpracownicy, sprzęt i stałe wyposażenie, są wykorzystywane w realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy, i pozostałej działalności i nie jest możliwe przypisanie kosztów w sposób jednoznaczny, jednostki są obowiązane wspólne koszty przypisać w pełnej kwocie do realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy.
 § 4. 1. Wzór sprawozdania, o którym mowa w § 1 pkt 2, stanowi załącznik do rozporządzenia.
@@ -55,7 +55,7 @@ w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozda�
 § 8. Do sporządzenia sprawozdania, o którym mowa w § 1 pkt 2, za 2021 r. stosuje się przepisy dotychczasowe.
 § 9. Traci moc rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 24 września 2019 r. w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozdań składanych przez jednostki publicznej radiofonii i telewizji (Dz. U. poz. 2234).
 § 10. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski …… W m m m m m m m m m W Część II Informacja o wysokości i sposobie wykorzystania środków pochodzących z poszczególnych źródeł, o których mowa w art. 31 ust. 1 i 2 ustawy Wykorzystanie środków pochodzących z poszczególnych źródeł, o których mowa w art. 31 ust. 1 i 2 ustawy, oraz nadwyżki, o której mowa w art. 31 ust. 7 lub 8 ustawy Finansowanie aktywów określonych Finansowanie w art. 3 ust. 1 Lp. Wyszczególnienie kosztów pkt 14 realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy  16 ustawy o rachunkowości związanych z realizacją misji publicznej, o której mowa w art. 21 ust. 1 ustawy Finansowanie kosztów Razem pozostałej (3+4+5) działalności 1 2 3 4 5 6 Nadwyżka, o której mowa w art. 31
+Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski …… m m W m m m m m m m W Część II Informacja o wysokości i sposobie wykorzystania środków pochodzących z poszczególnych źródeł, o których mowa w art. 31 ust. 1 i 2 ustawy Wykorzystanie środków pochodzących z poszczególnych źródeł, o których mowa w art. 31 ust. 1 i 2 ustawy, oraz nadwyżki, o której mowa w art. 31 ust. 7 lub 8 ustawy Finansowanie aktywów określonych Finansowanie w art. 3 ust. 1 Lp. Wyszczególnienie kosztów pkt 14  16 Finansowanie realizacji misji ustawy kosztów Razem publicznej, o rachunkowości pozostałej (3+4+5) o której mowa związanych działalności w art. 21 ust. 1 z realizacją misji ustawy publicznej, o której mowa w art. 21 ust. 1 ustawy 1 2 3 4 5 6 Nadwyżka, o której mowa w art. 31
 1. ust. 7 lub 8 ustawy, z poprzedniego roku sprawozdawczego Przychody, o których mowa w art. 31
 2. ust. 1 i 2 ustawy, z danego roku sprawozdawczego z tego: przychody, o których mowa w art. 31
 2.1 ust. 1 pkt 1 ustawy przychody, o których mowa w art. 31
@@ -64,7 +64,7 @@ a) z obrotu prawami do audycji
 b) z przekazów handlowych
 c) z innych źródeł przychody, o których mowa w art. 31
 2.3 ust. 2 ustawy
-3. RAZEM (1+2) Część III Informacja o sposobie realizacji zasad, o których mowa w art. 31a ust. 1 ustawy Opis sposobu realizacji zasad m m m m m m m W m m m m m m m m W W W m m m m m m m W m m m …………… …… …………… ……… …………… ……… …………… ……… …………… … … … …………… ……… …………… ……… M m m W W m m m m m m W m m m …………… …………… …………… …………… …………… …………… …………… M W Część VII Informacja o dochodzie z pozostałej działalności, o wyliczeniu kosztu netto realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy, oraz o wyliczeniu nadwyżki, o której mowa w art. 31 ust. 7 lub 8 ustawy Lp. Wyszczególnienie Wartość
+3. RAZEM (1+2) Część III Informacja o sposobie realizacji zasad, o których mowa w art. 31a ust. 1 ustawy Opis sposobu realizacji zasad m m m m m m m m m m m m W m m m W W W M …………… ……… m m …………… ……… …………… … … … …………… m ……… m m …………… ……… m m …………… ……… m …………… …… m m W m m W W M …………… m m m …………… …………… m …………… m …………… m …………… m …………… m m W W Część VII Informacja o dochodzie z pozostałej działalności, o wyliczeniu kosztu netto realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy, oraz o wyliczeniu nadwyżki, o której mowa w art. 31 ust. 7 lub 8 ustawy Lp. Wyszczególnienie Wartość
 1. Przychody z pozostałej działalności
 2. Koszty pozostałej działalności
 3. Podatek dochodowy Inne obciążenia wyniku finansowego wynikające z odrębnych

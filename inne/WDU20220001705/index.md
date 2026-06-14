@@ -8,10 +8,10 @@ pos: 1705
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 sierpnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11770055 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 1 sierpnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,25 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1705/text.pdf) |
 
-11770055 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 1 sierpnia 2022 r.
-zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia Na podstawie art. 47 ust. 1 pkt 1 lit. c, d i g ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2021 r.
-poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116, 1383 i 1700) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 stycznia 2018 r. w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia (Dz. U. poz. 467, z 2020 r.
+zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia Na podstawie art. 47 ust. 1 pkt 1 lit. c, d i g ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r.
+poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116, 1383 i 1700) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 stycznia 2018 r. w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia (Dz. U. poz. 467, z 2020 r.
 poz. 1248, z 2021 r. poz. 1537 oraz z 2022 r. poz. 622) wprowadza się następujące zmiany:
 1) w załączniku nr 1:
-a) w części zatytułowanej „Przedmioty w liceum ogólnokształcącym i technikum mogą być nauczane w zakresie podstawowym lub w zakresie rozszerzonym:” pkt 2 otrzymuje brzmienie: „2) w zakresie podstawowym i w zakresie rozszerzonym przedmioty: język polski, język obcy nowożytny, matematyka, język mniejszości narodowej lub etnicznej, język mniejszości narodowej język niemiecki oraz język regionalny język kaszubski, historia, geografia, biologia, chemia, filozofia, język łaciński i kultura antyczna, fizyka, informatyka;”,
-b) w części zatytułowanej „W czteroletnim liceum ogólnokształcącym i pięcioletnim technikum są realizowane następujące przedmioty:” po pkt 22 dodaje się pkt 22a w brzmieniu: „22a) język mniejszości narodowej język niemiecki ;”,
+a) w części zatytułowanej „Przedmioty w liceum ogólnokształcącym i technikum mogą być nauczane w zakresie podstawowym lub w zakresie rozszerzonym:” pkt 2 otrzymuje brzmienie: „2) w zakresie podstawowym i w zakresie rozszerzonym – przedmioty: język polski, język obcy nowożytny, matematyka, język mniejszości narodowej lub etnicznej, język mniejszości narodowej – język niemiecki oraz język regionalny – język kaszubski, historia, geografia, biologia, chemia, filozofia, język łaciński i kultura antyczna, fizyka, informatyka;”,
+b) w części zatytułowanej „W czteroletnim liceum ogólnokształcącym i pięcioletnim technikum są realizowane następujące przedmioty:” po pkt 22 dodaje się pkt 22a w brzmieniu: „22a) język mniejszości narodowej – język niemiecki ;”,
 c) część zatytułowana „ Edukacja dla bezpieczeństwa ” otrzymuje brzmienie: „Edukacja dla bezpieczeństwa Przedmiot przygotowuje uczniów teoretycznie i praktycznie do właściwego zachowania się oraz odpowiednich reakcji w sytuacjach trudnych i kryzysowych, stwarzających zagrożenie dla zdrowia i życia. Przedmiot obejmuje treści kształcenia z zakresu bezpieczeństwa państwa oraz treści dotyczące organizacji działań ratowniczych, pierwszej pomocy i edukacji obronnej. Niezwykle ważne jest, aby kłaść szczególny nacisk na kształcenie umiejętności praktycznych, powtarzanych możliwie często, szczególnie przy nauce pierwszej pomocy, terenoznawstwa oraz strzelectwa. Wyrabianie w ten sposób u uczniów odpowiednich nawyków ma istotne znaczenie w wykorzystywaniu przez nich zdobytych umiejętności w warunkach realnego zagrożenia, kiedy to naturalnie występujący wysoki poziom stresu wpływa na proces decyzyjny.
 Bezpieczeństwo państwa jest pojmowane jako obszar wiedzy, który objaśnia działanie mechanizmów rządzących zapewnieniem ładu, porządku i stabilności społeczności ludzkich, towarzyszących temu koncepcji, metod i form postępowania. Trzeba ten obszar rozpatrywać w kontekście umiejętności skutecznego działania i radzenia sobie poszczególnych jednostek w sytuacjach określonych zagrożeń. Rozumienie problematyki bezpieczeństwa państwa ma przy tym wieloaspektową wykładnię: pozwala zrozumieć przeszłość, tworzy obraz teraźniejszości i stanowi przesłanki do myślenia o przyszłości. Ujęta w treściach kształcenia problematyka koncentruje się na zarządzaniu, polityce i strategii bezpieczeństwa, z uwzględnieniem także kontekstu międzynarodowego.
 Umiejętność udzielania pierwszej pomocy, z uwagi na największe prawdopodobieństwo wykorzystania jej w praktyce w życiu codziennym, należy do najważniejszych tematów w przedmiocie edukacja dla bezpieczeństwa. Za szczególnie ważne w tym zakresie należy uznać właściwe postępowanie z osobami, u których wystąpiło nagłe zatrzymanie krążenia. Podjęcie akcji ratunkowej przez świadka zdarzenia, prowadzenie jej do czasu przyjazdu karetki pogotowia może uratować życie, natomiast zaniechanie działania w nieuchronny sposób zwiększa ryzyko śmierci chorego. Uczniów należy wdrażać do dbałości o bezpieczeństwo własne oraz innych, wskazując, w jaki sposób mogą uzyskać pomoc osób godnych zaufania i służb ratunkowych.”,
-d) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej język niemiecki” w brzmieniu: „Język mniejszości narodowej język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej, tym samym służy kształtowaniu postaw świadomego i aktywnego uczestnictwa w życiu mieszkańców danego regionu.
+d) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „Język mniejszości narodowej – język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej, tym samym służy kształtowaniu postaw świadomego i aktywnego uczestnictwa w życiu mieszkańców danego regionu.
 Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest motywowanie ucznia do poznawania języka i kultury niemieckiej, w tym literatury.
 Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat i poszanowania kultury własnego narodu, jak również kultury polskiej i europejskiej.
 Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi. Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują, jak rozumieć podporządkowane im wymagania szczegółowe, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych.”,
-e) część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ZAKRES PODSTAWOWY ” otrzymuje brzmienie: „EDUKACJA DLA BEZPIECZEŃSTWA ZAKRES PODSTAWOWY Cele kształcenia wymagania ogólne I. Bezpieczeństwo państwa.
+e) część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ZAKRES PODSTAWOWY ” otrzymuje brzmienie: „EDUKACJA DLA BEZPIECZEŃSTWA ZAKRES PODSTAWOWY Cele kształcenia – wymagania ogólne I. Bezpieczeństwo państwa.
 II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagrożeń (wypadków masowych i katastrof).
 III. Podstawy pierwszej pomocy.
 IV. Edukacja obronna.
-Treści nauczania wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń:
+Treści nauczania – wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń:
 1) identyfikuje wyzwania dla bezpieczeństwa indywidualnego i zbiorowego, kategoryzuje je, przypisuje im właściwe znaczenie w kontekście bezpieczeństwa lokalnego i bezpieczeństwa całego państwa;
 2) zna i wymienia zadania parlamentu, prezydenta, Rady Ministrów w dziedzinie obronności oraz elementy systemu obronnego państwa;
 3) omawia zadania, struktury organizacyjne oraz podstawowe uzbrojenie i wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej;
@@ -78,7 +78,7 @@ II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagroże
 2. Źródła promieniowania jądrowego i jego skutki. Uczeń:
 1) wymienia rodzaje znaków substancji toksycznych i miejsca ich eksponowania;
 2) rozpoznaje znaki substancji toksycznych na pojazdach i budowlach;
-3) omawia wpływ środków promieniotwórczych na ludzi, zwierzęta, żywność i wodę oraz wie, jakie
+3) omawia wpływ środków promieniotwórczych na ludzi, zwierzęta, żywność i wodę oraz wie, jakie materiały można wykorzystywać jako zastępcze środki ochrony dróg oddechowych i skóry;
 4) wymienia sposoby zabezpieczenia żywności i wody przed skażeniami;
 5) potrafi omówić sposób użycia indywidualnego pakietu przeciwchemicznego, a także indywidualnego pakietu radioochronnego;
 6) wyjaśnia znaczenie pojęć odkażania, dezaktywacji, dezynfekcji, deratyzacji;
@@ -111,9 +111,10 @@ b) wskazuje, kiedy wezwać pomoc i w jaki sposób przekazać informacje o zdarze
 10) zna wyposażenie apteczki pierwszej pomocy; wymienia przedmioty, które powinny znaleźć się w apteczce np. domowej, samochodowej;
 11) zna zasady postępowania z osobą nieprzytomną:
 a) wymienia objawy utraty przytomności,
+b) ocenia przytomność poszkodowanego,
 c) ocenia czynność oddychania u osoby nieprzytomnej (trzema zmysłami przez okres do 10 sekund),
 d) wyjaśnia mechanizm niedrożności dróg oddechowych u osoby nieprzytomnej,
-e) udrażnia drogi oddechowe rękoczynem czoło żuchwa,
+e) udrażnia drogi oddechowe rękoczynem czoło – żuchwa,
 f) układa osobę nieprzytomną w pozycji bocznej bezpiecznej,
 g) zapewnia osobie nieprzytomnej komfort termiczny,
 h) systematycznie ponawia ocenę oddychania u osoby nieprzytomnej;
@@ -146,7 +147,7 @@ j) wymienia przykłady zapobiegania urazom w sporcie, w domu, w pracy;
 a) wyjaśnia pojęcie oparzenia, wymienia przyczyny i rodzaje oparzeń,
 b) omawia zasady postępowania w przypadku oparzenia termicznego,
 c) demonstruje metodę chłodzenia w przypadku oparzenia kończyny,
-d) wymienia przykłady zapobiegania oparzeniom, ze szczególnym uwzględnieniem małych dzieci
+d) wymienia przykłady zapobiegania oparzeniom, ze szczególnym uwzględnieniem małych dzieci i środowiska domowego;
 16) rozumie, na czym polega udzielenie pierwszej pomocy we wstrząsie:
 a) zna najważniejsze przyczyny wstrząsu, wymienia zagrożenia z niego wynikające,
 b) stosuje zasady postępowania przeciwwstrząsowego (ułożenie, ochrona przed wychłodzeniem, wsparcie psychiczne poszkodowanego);
@@ -195,12 +196,12 @@ Lekcje w szkole powinny być uzupełniane innymi formami zajęć, wśród który
 4) zajęcia plenerowe;
 5) tworzenie wystaw prac własnych, klasowych i szkolnych, promujących właściwe zachowania w razie zagrożeń;
 6) zwiedzanie wystaw powiązanych z treściami przedmiotu;
-7) spotkania (np. udział w zajęciach), prelekcje, wykłady z pracownikami kluczowych instytucji bezpieczeństwa Policji, Państwowej Straży Pożarnej i Sił Zbrojnych Rzeczypospolitej Polskiej oraz pracownikami straży miejskiej, pogotowia, kombatantami;
+7) spotkania (np. udział w zajęciach), prelekcje, wykłady z pracownikami kluczowych instytucji bezpieczeństwa – Policji, Państwowej Straży Pożarnej i Sił Zbrojnych Rzeczypospolitej Polskiej oraz pracownikami straży miejskiej, pogotowia, kombatantami;
 8) udział w konkursach, których zakres jest zgodny bądź zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa.
 Wskazane jest nawiązywanie współpracy między szkołami a lokalnymi jednostkami Policji, Państwową Strażą Pożarną, ośrodkami szkolenia, jednostkami wojskowymi i organizacjami proobronnymi, zarówno we wspomnianym zakresie prowadzenia zajęć, jak i udostępnianiu specjalistycznego sprzętu czy pomocy dydaktycznych.
 Ważne znaczenie w rozwoju ma też wychowanie mające na celu kształtowanie postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Trwający proces globalizacyjny we wszystkich obszarach życia generuje nowe problemy, zagrożenia, nakłania do stawiania pytań. Nauczyciel powinien stwarzać warunki sprzyjające swobodnej wymianie myśli i poglądów, dbając przy tym o zachowanie niezbędnej dyscypliny i porządek zajęć.
 Warunki bazowe do realizacji programu: pracownia lub klasa do prowadzenia zajęć z przedmiotu edukacja dla bezpieczeństwa o wielkości umożliwiającej aranżację do ćwiczeń praktycznych. Wskazane jest zaplecze lub zabezpieczone miejsce umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Szkoła powinna posiadać sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której realizowane są zajęcia, powinny być zagwarantowane wymienione elementy bazowe.”,
-f) po części zatytułowanej „JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ZAKRES PODSTAWOWY I ROZSZERZONY” dodaje się część zatytułowaną „JĘZYK MNIEJSZOŚCI NARODOWEJ JĘZYK NIEMIECKI ZAKRES PODSTAWOWY I ROZSZERZONY” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ JĘZYK NIEMIECKI ZAKRES PODSTAWOWY I ROZSZERZONY Cele kształcenia wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
+f) po części zatytułowanej „JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ZAKRES PODSTAWOWY I ROZSZERZONY” dodaje się część zatytułowaną „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ZAKRES PODSTAWOWY I ROZSZERZONY” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ZAKRES PODSTAWOWY I ROZSZERZONY Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
 1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości narodowej.
 2. Pogłębianie wiedzy z zakresu literatury, kultury narodowej.
 3. Kształtowanie świadomego uczestnictwa w życiu społeczności lokalnej.
@@ -219,10 +220,9 @@ IV. Tworzenie wypowiedzi.
 3. Doskonalenie umiejętności tworzenia wypowiedzi pisemnych.
 4. Doskonalenie umiejętności wyrażania własnych poglądów i opinii.
 5. Tworzenie wypowiedzi pisemnych, z uwzględnieniem estetyki tekstu i zasad jego organizacji, również z wykorzystaniem nowoczesnych technologii.
-Treści nauczania wymagania szczegółowe ZAKRES PODSTAWOWY ZAKRES ROZSZERZONY I. Świadomość własnego dziedzictwa narodowego. Uczeń:
-1) rozumie tematy, motywy, toposy charakterystyczne dla literatury narodowej;
-2) rozumie związek poznanych utworów z życiem narodu.
-spełnia wymagania określone dla zakresu podstawowego, a ponadto analizuje różne wzorce postaw społecznych, narodowych, obywatelskich, obyczajowych, kulturowych, moralnych, religijnych i w ich kontekście kształtuje swoją tożsamość.
+Treści nauczania – wymagania szczegółowe ZAKRES PODSTAWOWY ZAKRES ROZSZERZONY I. Świadomość własnego dziedzictwa narodowego. Uczeń:
+1) rozumie tematy, motywy, toposy charakterystyczne spełnia wymagania określone dla zakresu podstawowego, dla literatury narodowej; a ponadto analizuje różne wzorce postaw społecznych,
+2) rozumie związek poznanych utworów z życiem narodowych, obywatelskich, obyczajowych, kulturowych, narodu. moralnych, religijnych i w ich kontekście kształtuje swoją tożsamość.
 II. Kształcenie językowe.
 1. Gramatyka. Uczeń:
 1) odmienia części mowy; spełnia wymagania określone dla zakresu podstawowego.
@@ -238,17 +238,16 @@ II. Kształcenie językowe.
 4) rozpoznaje wyrazy rodzime i zapożyczone, rozumie ich funkcję w tekście.
 3. Komunikacja językowa i kultura języka. Uczeń:
 1) posługuje się oficjalną i nieoficjalną odmianą języka spełnia wymagania określone dla zakresu podstawowego, narodowego; a ponadto:
-2) rozumie konsekwencje stosowania form 1) rozróżnia i omawia na wybranych przykładach charakterystycznych dla środków komunikacji funkcje języka poznawczą (kategoryzowanie elektronicznej (takich jak: SMS, e-mail, czat); świata), komunikacyjną (tworzenie wypowiedzi
+2) rozumie konsekwencje stosowania form 1) rozróżnia i omawia na wybranych przykładach charakterystycznych dla środków komunikacji funkcje języka – poznawczą (kategoryzowanie elektronicznej (takich jak: SMS, e-mail, czat); świata), komunikacyjną (tworzenie wypowiedzi
 3) świadomie korzysta z zasobów internetu; i stosowanie języka w aktach komunikacji) oraz społeczną (jednoczenie grupy i budowanie
 4) rozpoznaje typ nadawcy i adresata tekstu; tożsamości);
 5) stosuje zasady etyki i etykiety językowej, wie, w jaki 2) stosuje uczciwe zabiegi perswazyjne, zdając sobie sposób zwracać się do rozmówcy w zależności od sprawę z ich funkcji.
 sytuacji i relacji z rozmówcą.
 4. Odbiór przekazu językowego. Uczeń:
-1) wskazuje charakterystyczne cechy stylu danego tekstu, nazywa zastosowane w nim środki językowe i określa ich funkcje w tekście;
+1) wskazuje charakterystyczne cechy stylu danego spełnia wymagania określone dla zakresu podstawowego, tekstu, nazywa zastosowane w nim środki językowe a ponadto rozpoznaje wypowiedź argumentacyjną, i określa ich funkcje w tekście; wskazuje tezę, argumenty i wnioski.
 2) odczytuje sens tekstu publicystycznego (a w nim znaczenia wyrazów, związków frazeologicznych, zdań, sensu akapitu), potrafi wydzielić jego fragmenty i objaśnić ich sens oraz funkcję na tle całości;
 3) dokonuje logicznego streszczenia tekstu (wyróżniając kluczowe pojęcia, twierdzenia i sposób ich uzasadnienia);
-4) odczytuje sens tekstów artystycznych i publicystycznych, również tych umieszczonych w internecie, uwzględniając zawarte w nich spełnia wymagania określone dla zakresu podstawowego, a ponadto rozpoznaje wypowiedź argumentacyjną, wskazuje tezę, argumenty i wnioski.
-informacje zarówno jawne, jak i ukryte;
+4) odczytuje sens tekstów artystycznych i publicystycznych, również tych umieszczonych w internecie, uwzględniając zawarte w nich informacje zarówno jawne, jak i ukryte;
 5) nazywa swoje reakcje czytelnicze (np. wrażenia);
 6) formułuje wnioski wynikające z przesłanek zawartych w tekście;
 7) rozpoznaje wypowiedź o charakterze np.
@@ -276,9 +275,9 @@ podstaw wersyfikacji, kompozycji, genologii) i określa ich funkcje;
 2) dostrzega specyfikę przekazów audiowizualnych (przedstawień teatralnych, filmów, programów informacyjnych, programów rozrywkowych).
 IV. Tworzenie wypowiedzi.
 1. Mówienie. Uczeń:
-1) tworzy samodzielną wypowiedź według podstawowych zasad logiki i retoryki;
+1) tworzy samodzielną wypowiedź według spełnia wymagania określone dla zakresu podstawowego.
+podstawowych zasad logiki i retoryki;
 2) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);
-spełnia wymagania określone dla zakresu podstawowego.
 3) publicznie wygłasza przygotowaną przez siebie wypowiedź, dbając o dźwiękową wyrazistość przekazu (w tym tempo mowy i donośność, poprawny akcent wyrazowy oraz poprawną intonację zdania);
 4) hierarchizuje informacje w zależności od ich funkcji w przekazie.
 2. Pisanie. Uczeń:
@@ -299,12 +298,12 @@ Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej je
 6) inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego, z zachowaniem zasad bezpieczeństwa w sieci.
 Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Wprowadza go w świat kultury wysokiej, uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, w tym metodę projektu, polegającą na szerokiej współpracy między uczniami.”;
 2) w załączniku nr 3:
-a) w części zatytułowanej „Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole II stopnia:” po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) język mniejszości narodowej język niemiecki ;”,
-b) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej język niemiecki” w brzmieniu: „Język mniejszości narodowej język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej.
+a) w części zatytułowanej „Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole II stopnia:” po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) język mniejszości narodowej – język niemiecki ;”,
+b) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „Język mniejszości narodowej – język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej.
 Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest motywowanie ucznia do poznawania języka ojczystego oraz kultury narodowej, w tym literatury.
 Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat i poszanowania kultury własnego narodu, jak również kultury polskiej i europejskiej.
 Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi. Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują, jak rozumieć podporządkowane im wymagania szczegółowe, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych.”,
-c) po części zatytułowanej „ JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ” dodaje się część zatytułowaną „ JĘZYK MNIEJSZOŚCI NARODOWEJ JĘZYK NIEMIECKI ” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ JĘZYK NIEMIECKI Cele kształcenia wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
+c) po części zatytułowanej „ JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ” dodaje się część zatytułowaną „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
 1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości narodowej.
 2. Pogłębianie wiedzy z zakresu kultury narodowej.
 II. Kształcenie językowe.
@@ -319,7 +318,7 @@ III. Kształcenie literackie i kulturowe.
 IV. Tworzenie wypowiedzi.
 1. Rozwijanie i pogłębianie umiejętności wypowiadania się w języku narodowym w różnych formach wypowiedzi ustnych i pisemnych.
 2. Doskonalenie umiejętności wyrażania własnych sądów, poglądów i opinii.
-Treści nauczania wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego. Uczeń:
+Treści nauczania – wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego. Uczeń:
 1) rozumie tematy, motywy charakterystyczne dla literatury narodowej;
 2) rozumie kontekst kulturowy poznawanych utworów literackich.
 II. Kształcenie językowe.
@@ -358,6 +357,7 @@ IV. Tworzenie wypowiedzi.
 1) tworzy samodzielną wypowiedź według podstawowych zasad logiki i retoryki;
 2) publicznie wygłasza przygotowaną przez siebie wypowiedź, dbając o dźwiękową wyrazistość przekazu (w tym tempo mowy i donośność, poprawny akcent wyrazowy oraz poprawną intonację zdania);
 3) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);
+4) hierarchizuje informacje w zależności od ich funkcji w przekazie.
 2. Pisanie. Uczeń:
 1) tworzy dłuższy tekst pisany (rozprawka, recenzja, referat, interpretacja utworu literackiego lub jego fragmentu) zgodnie z podstawowymi regułami jego organizacji, przestrzegając zasad spójności znaczeniowej i logicznej;
 2) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);
@@ -374,8 +374,8 @@ Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej je
 6) inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego, z zachowaniem zasad bezpieczeństwa w sieci.
 Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Wprowadza go w świat kultury wysokiej, uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, np. metodę projektu polegającą na szerokiej współpracy pomiędzy uczniami.”.
 § 2. Podstawę programową kształcenia ogólnego dla czteroletniego liceum ogólnokształcącego i pięcioletniego technikum, stanowiącą załącznik nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie wymagania dotyczącego wykonywania przez ucznia strzelania z wykorzystaniem broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych realizuje się, począwszy od roku szkolnego 2024/2025, z tym że w przypadku liceów ogólnokształcących i techników, które na terenie danego powiatu:
-1) mają dostęp do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych wymóg ten jest realizowany od roku szkolnego 2022/2023;
-2) nie mają dostępu do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych wymóg ten jest realizowany w roku szkolnym 2022/2023 i 2023/2024 w miarę istniejących możliwości.
+1) mają dostęp do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany od roku szkolnego 2022/2023;
+2) nie mają dostępu do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany w roku szkolnym 2022/2023 i 2023/2024 w miarę istniejących możliwości.
 § 3. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
 Minister Edukacji i Nauki: wz. D. Piontkowski
 

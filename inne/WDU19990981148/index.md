@@ -8,7 +8,7 @@ pos: 1148
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie przeznaczenia środków Funduszu Gwarantowanego Świadczeń Pracowniczych na odprawy dla pracowników przemysłu obronnego.
@@ -25,7 +25,8 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990981148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1148/text.pdf) |
 
 Na podstawie art. 3 ust. 3 i art. 6b ustawy z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz.U. z 1994 r. Nr 1, poz. 1, z 1995 r.
-Nr 87, poz. 435, z 1996 r. Nr 5, poz. 34, z 1997 r. Nr 28, poz. 153 i Nr 123, poz. 776 oraz z 1998 r. Nr 106, poz. 668 i Nr 137, poz. 887) oraz w związku z art. 5 pkt 4 ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz.U. Nr 83, poz. 932) zarządza się, co następuje: § 1.
+Nr 87, poz. 435, z 1996 r. Nr 5, poz. 34, z 1997 r. Nr 28, poz. 153 i Nr 123, poz. 776 oraz z 1998 r. Nr 106, poz. 668 i Nr 137, poz. 887) oraz w związku z art. 5 pkt 4 ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz.U. Nr 83, poz. 932) zarządza się, co następuje:
+§ 1.
 1. Niewypłacalnymi pracodawcami dla celów przewidzianych w art. 5 pkt 4 ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz.U.
 Nr 83, poz. 932) są podmioty gospodarki narodowej określone w załącznikach do rozporządzenia Rady Ministrów z dnia 28 kwietnia 1999 r. w sprawie ustalenia świadczeń przedemerytalnych dla osób zwolnionych z przyczyn dotyczących zakładu pracy z podmiotów gospodarki narodowej objętych programem restrukturyzacji przemysłu obronnego i wsparcia w zakresie modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz.U. Nr 38, poz. 363).
 2. Za dzień wystąpienia niewypłacalności pracodawcy, o której mowa w ust. 1, uważa się datę wejścia w życie rozporządzenia.

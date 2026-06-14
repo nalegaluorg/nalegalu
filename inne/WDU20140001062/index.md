@@ -8,7 +8,7 @@ pos: 1062
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie Znaku Polski Walczącej

@@ -8,7 +8,7 @@ pos: 1629
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 163/11/A/2009 WYROK z dnia 2 grudnia 2009 r.

@@ -8,10 +8,10 @@ pos: 2039
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2039 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 2 listopada 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2039/text.pdf) |
 
-Poz. 2039 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 2 listopada 2017 r.
 w sprawie wyboru stanowisk asesorskich w sądach powszechnych Na podstawie art. 33c ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U.
-z 2017 r. poz. 146 i 1139) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy tryb dokonywania wyboru stanowisk asesorskich w sądach powszechnych przez egzaminowanych aplikantów aplikacji sędziowskiej i aplikacji prokuratorskiej.
+z 2017 r. poz. 146 i 1139) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy tryb dokonywania wyboru stanowisk asesorskich w sądach powszechnych przez egzaminowanych aplikantów aplikacji sędziowskiej i aplikacji prokuratorskiej.
 § 2. Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury, w terminie 14 dni od dnia ogłoszenia listy klasyfikacyjnej egzaminowanych aplikantów aplikacji sędziowskiej, o której mowa w art. 33a ust. 1 ustawy z dnia 23 stycznia 2009 r.
 o Krajowej Szkole Sądownictwa i Prokuratury, zamieszcza w Biuletynie Informacji Publicznej komunikat o terminie i miejscu dokonywania przez egzaminowanych aplikantów aplikacji sędziowskiej wyboru stanowisk asesorskich ujętych w wykazie, o którym mowa w art. 32a ust. 2 tej ustawy.
 § 3. 1. Postępowanie w sprawie odebrania oświadczeń o dokonaniu wyboru stanowiska asesorskiego jest jawne.

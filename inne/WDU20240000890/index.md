@@ -8,10 +8,10 @@ pos: 890
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 890 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/890/text.pdf) |
 
-Poz. 890 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 czerwca 2024 r.
 w sprawie wysokości wynagrodzenia członków Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych Na podstawie art. 67zg ust. 9 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
-z 2024 r. poz. 581) zarządza się, co następuje: § 1. Członkom Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, przysługuje wynagrodzenie za udział w posiedzeniu w wysokości:
+z 2024 r. poz. 581) zarządza się, co następuje:
+§ 1. Członkom Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, przysługuje wynagrodzenie za udział w posiedzeniu w wysokości:
 1) 1500 zł – dla przewodniczącego Komisji,
 2) 1500 zł – dla wiceprzewodniczącego Komisji, w przypadku wykonywania zadań przewodniczącego w związku z jego nieobecnością,
 3) 1400 zł – dla członka Komisji wyznaczonego do przygotowania i przedstawienia na posiedzeniu projektu orzeczenia Komisji,

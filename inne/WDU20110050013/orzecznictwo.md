@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym*
 
-Łącznie: **28** orzeczeń
+Łącznie: **29** orzeczeń
 (pominięto 70 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
@@ -94,8 +94,9 @@ Orzeczenia powołujące: *Ustawa z dnia 16 grudnia 2010 r. o publicznym transpor
 
 - 2013-07-05 | SO | [VI Ga 98/13](https://www.saos.org.pl/judgments/17310) | Wyrok
 
-## (ogólnie) (6)
+## (ogólnie) (7)
 
+- 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok
 - 2018-10-18 | SO | [III AUa 699/18](https://www.saos.org.pl/judgments/452349) | Wyrok
 - 2018-06-21 | SO | [I ACa 105/17](https://www.saos.org.pl/judgments/346321) | Wyrok
 - 2017-12-06 | SO | [III AUa 1076/17](https://www.saos.org.pl/judgments/409190) | Wyrok

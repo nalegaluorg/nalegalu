@@ -8,10 +8,10 @@ pos: 334
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 11 WYROK z dnia 18 lutego 2003 r.
+# WYROK z dnia 18 lutego 2003 r.
 
 | Pole | Wartość |
 |---|---|

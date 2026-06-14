@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 
-Łącznie: **1231** orzeczeń
-(pominięto 1251 orzeczeń sądów rejonowych)
+Łącznie: **1239** orzeczeń
+(pominięto 1261 orzeczeń sądów rejonowych)
 
 ## art. 1 (6)
 
@@ -14,7 +14,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2015-02-12 | SO | [I ACa 1158/14](https://www.saos.org.pl/judgments/151829) | Wyrok
 - 2016-04-08 | SO | [XIII Ga 41/16](https://www.saos.org.pl/judgments/216504) | Uzasadnienie
 
-## art. 2 (146)
+## art. 2 (149)
 
 - 2014-12-03 | SN | [III CSK 113/14](https://www.saos.org.pl/judgments/167618) | Wyrok ★
 - 2001-07-19 | SN | [II UKN 477/00](https://www.saos.org.pl/judgments/80738) | Wyrok ★
@@ -52,7 +52,9 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2024-03-12 | SO | [I ACa 2967/23](https://www.saos.org.pl/judgments/519729) | Wyrok
 - 2024-02-27 | SO | [I ACa 3830/23](https://www.saos.org.pl/judgments/533222) | Wyrok
 - 2024-02-22 | SO | [I ACa 115/24](https://www.saos.org.pl/judgments/493400) | Wyrok
+- 2024-01-24 | SO | [I ACa 3021/23](https://www.saos.org.pl/judgments/546260) | Wyrok
 - 2024-01-17 | SO | [I ACa 977/22](https://www.saos.org.pl/judgments/494817) | Wyrok
+- 2024-01-09 | SO | [I ACa 3239/23](https://www.saos.org.pl/judgments/546261) | Wyrok
 - 2024-01-08 | SO | [I ACa 2783/23](https://www.saos.org.pl/judgments/543523) | Wyrok
 - 2024-01-08 | SO | [V ACa 792/23](https://www.saos.org.pl/judgments/539199) | Wyrok
 - 2023-12-18 | SO | [I ACa 3015/23](https://www.saos.org.pl/judgments/543525) | Wyrok
@@ -147,6 +149,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2012-11-06 | SO | [I ACa 820/12](https://www.saos.org.pl/judgments/18022) | Wyrok
 - 2012-06-20 | SO | [I ACa 556/12](https://www.saos.org.pl/judgments/2086) | Wyrok
 - 2024-11-28 | SO | [I ACa 539/24](https://www.saos.org.pl/judgments/535780) | Uzasadnienie
+- 2024-01-25 | SO | [V ACa 2338/23](https://www.saos.org.pl/judgments/547106) | Uzasadnienie
 - 2023-03-24 | SO | [I ACa 853/21](https://www.saos.org.pl/judgments/486420) | Uzasadnienie
 - 2023-01-12 | SO | [II Ca 234/22](https://www.saos.org.pl/judgments/484873) | Wyrok
 - 2022-04-28 | SO | [XV Ca 280/22](https://www.saos.org.pl/judgments/514942) | Wyrok
@@ -620,7 +623,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2016-02-29 | SO | [V Ga 11/16](https://www.saos.org.pl/judgments/248431) | Postanowienie
 - 2017-11-06 | SO | [XIII Ga 399/17](https://www.saos.org.pl/judgments/311880) | Uzasadnienie
 
-## art. 21 (71)
+## art. 21 (72)
 
 - 2001-02-13 | TK | [K 19/99](https://www.saos.org.pl/judgments/206112) | Wyrok ★
 - 2003-03-07 | SN | [III RN 37/02](https://www.saos.org.pl/judgments/81897) | Wyrok ★
@@ -651,6 +654,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2013-07-18 | SO | [I ACa 258/13](https://www.saos.org.pl/judgments/17686) | Wyrok
 - 2012-03-27 | SO | [II AKa 63/12](https://www.saos.org.pl/judgments/135901) | Wyrok
 - 2018-09-03 | SO | [II AKa 77/18](https://www.saos.org.pl/judgments/411282) | Uzasadnienie
+- 2024-11-27 | SO | [I Ca 268/24](https://www.saos.org.pl/judgments/546227) | Wyrok
 - 2021-05-06 | SO | [VII U 905/17](https://www.saos.org.pl/judgments/448838) | Wyrok
 - 2019-11-15 | SO | [VIII C 896/19](https://www.saos.org.pl/judgments/400119) | Wyrok
 - 2019-11-08 | SO | [VIII C 875/19](https://www.saos.org.pl/judgments/400118) | Wyrok
@@ -873,7 +877,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2018-05-04 | SO | [VI ACa 1450/16](https://www.saos.org.pl/judgments/358119) | Wyrok
 - 2014-09-16 | SO | [VI ACa 1810/13](https://www.saos.org.pl/judgments/69054) | Wyrok
 
-## art. 30 (123)
+## art. 30 (126)
 
 - 2008-12-05 | SN | [III CSK 228/08](https://www.saos.org.pl/judgments/165048) | Wyrok ★
 - 2025-11-24 | SO | [I ACa 1961/25](https://www.saos.org.pl/judgments/539990) | Wyrok
@@ -912,7 +916,9 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2024-03-12 | SO | [I ACa 2967/23](https://www.saos.org.pl/judgments/519729) | Wyrok
 - 2024-02-27 | SO | [I ACa 3830/23](https://www.saos.org.pl/judgments/533222) | Wyrok
 - 2024-02-22 | SO | [I ACa 115/24](https://www.saos.org.pl/judgments/493400) | Wyrok
+- 2024-01-24 | SO | [I ACa 3021/23](https://www.saos.org.pl/judgments/546260) | Wyrok
 - 2024-01-17 | SO | [I ACa 977/22](https://www.saos.org.pl/judgments/494817) | Wyrok
+- 2024-01-09 | SO | [I ACa 3239/23](https://www.saos.org.pl/judgments/546261) | Wyrok
 - 2024-01-08 | SO | [I ACa 2783/23](https://www.saos.org.pl/judgments/543523) | Wyrok
 - 2024-01-08 | SO | [V ACa 792/23](https://www.saos.org.pl/judgments/539199) | Wyrok
 - 2023-12-19 | SO | [I ACa 1216/23](https://www.saos.org.pl/judgments/493453) | Wyrok
@@ -987,6 +993,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2016-07-21 | SO | [VI ACa 779/15](https://www.saos.org.pl/judgments/250025) | Wyrok
 - 2014-08-26 | SO | [I ACa 715/14](https://www.saos.org.pl/judgments/131749) | Wyrok
 - 2024-11-28 | SO | [I ACa 539/24](https://www.saos.org.pl/judgments/535780) | Uzasadnienie
+- 2024-01-25 | SO | [V ACa 2338/23](https://www.saos.org.pl/judgments/547106) | Uzasadnienie
 - 2023-03-24 | SO | [I ACa 853/21](https://www.saos.org.pl/judgments/486420) | Uzasadnienie
 - 2024-10-14 | SO | [XIV C 618/21](https://www.saos.org.pl/judgments/518545) | Wyrok
 - 2023-01-12 | SO | [II Ca 234/22](https://www.saos.org.pl/judgments/484873) | Wyrok
@@ -1182,8 +1189,9 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2017-10-27 | SO | [VII Pa 140/17](https://www.saos.org.pl/judgments/330859) | Wyrok
 - 2018-11-23 | SO | [VIII U 581/14](https://www.saos.org.pl/judgments/368498) | Zarządzenie
 
-## art. 49 (33)
+## art. 49 (34)
 
+- 2026-02-18 | SO | [I AGa 309/25](https://www.saos.org.pl/judgments/546812) | Wyrok
 - 2025-09-12 | SO | [VII AGa 7/25](https://www.saos.org.pl/judgments/535190) | Wyrok
 - 2024-04-26 | SO | [II AKa 221/23](https://www.saos.org.pl/judgments/500685) | Wyrok
 - 2023-06-30 | SO | [I AGa 65/22](https://www.saos.org.pl/judgments/495121) | Wyrok
@@ -1222,11 +1230,12 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 
 - 2012-10-05 | SO | [I ACa 701/12](https://www.saos.org.pl/judgments/5858) | Wyrok
 
-## art. 52 (85)
+## art. 52 (86)
 
 - 2001-04-03 | SN | [I PKN 818/00](https://www.saos.org.pl/judgments/80472) | Wyrok ★
 - 1998-10-01 | SN | [I PKN 360/98](https://www.saos.org.pl/judgments/78571) | Wyrok ★
 - 2025-09-12 | SO | [VII AGa 7/25](https://www.saos.org.pl/judgments/535190) | Wyrok
+- 2025-03-06 | SO | [I AGa 42/24](https://www.saos.org.pl/judgments/546015) | Wyrok
 - 2024-04-26 | SO | [II AKa 221/23](https://www.saos.org.pl/judgments/500685) | Wyrok
 - 2024-04-25 | SO | [I ACa 1309/23](https://www.saos.org.pl/judgments/493536) | Wyrok
 - 2023-06-30 | SO | [I AGa 65/22](https://www.saos.org.pl/judgments/495121) | Wyrok
@@ -1559,10 +1568,11 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2016-07-25 | SO | [XVIII C 1825/15](https://www.saos.org.pl/judgments/270131) | Wyrok
 - 2015-03-23 | SO | [III K 59/12](https://www.saos.org.pl/judgments/135427) | Uzasadnienie
 
-## art. 77 (179)
+## art. 77 (180)
 
 - 2013-08-28 | SN | [V KK 80/13](https://www.saos.org.pl/judgments/102754) | Wyrok ★
 - 2013-06-19 | SN | [V KK 78/13](https://www.saos.org.pl/judgments/102222) | Postanowienie
+- 2025-12-01 | SO | [II AKa 83/25](https://www.saos.org.pl/judgments/545325) | Wyrok
 - 2025-02-27 | SO | [II AKa 17/25](https://www.saos.org.pl/judgments/541700) | Wyrok
 - 2025-02-26 | SO | [II AKa 69/22](https://www.saos.org.pl/judgments/532731) | Wyrok
 - 2025-01-29 | SO | [II AKa 12/23](https://www.saos.org.pl/judgments/533111) | Wyrok
@@ -2014,7 +2024,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 
 - 2019-12-20 | SO | [VI ACa 441/18](https://www.saos.org.pl/judgments/424412) | Wyrok
 
-## (ogólnie) (390)
+## (ogólnie) (391)
 
 - 2026-01-13 | SO | [I ACa 2287/25](https://www.saos.org.pl/judgments/542512) | Wyrok
 - 2025-07-09 | SO | [III AUa 1226/24](https://www.saos.org.pl/judgments/537900) | Wyrok
@@ -2286,6 +2296,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 września 1994 r. o rachunkowości.*
 - 2025-05-28 | SO | [VII U 601/24](https://www.saos.org.pl/judgments/530844) | Wyrok
 - 2025-04-24 | SO | [VII U 145/23](https://www.saos.org.pl/judgments/528747) | Wyrok
 - 2024-12-20 | SO | [V GC 194/23](https://www.saos.org.pl/judgments/541255) | Wyrok
+- 2024-06-20 | SO | [I C 95/24](https://www.saos.org.pl/judgments/545212) | Wyrok
 - 2023-12-14 | SO | [II Ca 940/23](https://www.saos.org.pl/judgments/502295) | Wyrok
 - 2023-08-17 | SO | [VI P 288/19](https://www.saos.org.pl/judgments/519361) | Wyrok
 - 2023-06-21 | SO | [VII U 326/20](https://www.saos.org.pl/judgments/512076) | Wyrok

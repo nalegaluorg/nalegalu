@@ -8,10 +8,10 @@ pos: 2444
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia Ministra Sprawiedliwości dnia 18 grudnia (poz. …) WZÓR OŚWIADCZENIE O STANIE MAJĄTKOWYM SKŁADANE PRZEZ KOMORNIKÓW SĄDOWYCH Właściwy urząd skarbowy ………………………………………………………………………………………………….
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2444 Załącznik do rozporządzenia Ministra Sprawiedliwości z dnia 18 grudnia 2018 r. (poz. …) WZÓR OŚWIADCZENIE O STANIE MAJĄTKOWYM SKŁADANE PRZEZ KOMORNIKÓW SĄDOWYCH Właściwy urząd skarbowy ………………………………………………………………………………………………….
 
 | Pole | Wartość |
 |---|---|
@@ -26,31 +26,31 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002444) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2444/text.pdf) |
 
 Ja, niżej podpisany(a), ..........................................................................................................
-urodzony(a) ........................................................ …..............................................................
+urodzony(a) ........................................................ w …..............................................................
 Komornik Sądowy(a) przy ........................................................................................................
-po zapoznaniu się przepisami ustawy dnia 22 marca komornikach sądowych 771, późn. zm.), zgodnie art. 32 ust. 1 tej ustawy oświadczam, że skład mojego majątku osobistego lub objętego małżeńską wspólnością majątkową wchodzą : I Zasoby pieniężne
-1. Środki posiadane walucie polskiej: ……………………………….………………...
-2. Środki posiadane walucie obcej: …………………………………………………....
-II Nieruchomości tytuły prawne do ich posiadania
-1. Nieruchomość zabudowana: stanowiąca działkę(i) nr ewid. …………. powierzchni: ………… m adres: …………………………………………………….………………………..…… tytuł prawny (własność, współwłasność, wielkość udziału we współwłasności, inny tytuł prawny podać jaki oraz inne dane): ………………………………………………………………..…….......................……….
+po zapoznaniu się z przepisami ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, z późn. zm.), zgodnie z art. 32 ust. 1 tej ustawy oświadczam, że w skład mojego majątku osobistego lub objętego małżeńską wspólnością majątkową wchodzą : I Zasoby pieniężne
+1. Środki posiadane w walucie polskiej: ……………………………….………………...
+2. Środki posiadane w walucie obcej: …………………………………………………....
+II Nieruchomości i tytuły prawne do ich posiadania
+1. Nieruchomość zabudowana: stanowiąca działkę(i) nr ewid. …………. o powierzchni: ………… m adres: …………………………………………………….………………………..…… tytuł prawny (własność, współwłasność, wielkość udziału we współwłasności, inny tytuł prawny – podać jaki oraz inne dane): ………………………………………………………………..…….......................……….
 2. Mieszkanie: powierzchnia: …… m adres: ………………………………………………………………………..…………….
-tytuł prawny (własność, współwłasność, wielkość udziału we współwłasności, inny tytuł prawny podać jaki oraz inne dane): ………………………………………………………………..…….......................………
+tytuł prawny (własność, współwłasność, wielkość udziału we współwłasności, inny tytuł prawny – podać jaki oraz inne dane): ………………………………………………………………..…….......................………
 3. Inne nieruchomości: powierzchnia: ……. m adres: ……………………………………………………………………………...............
-tytuł prawny (własność, współwłasność, wielkość udziału we współwłasności, inny tytuł prawny podać jaki oraz inne dane): …..……………………………………......…………………………………………...…..
+tytuł prawny (własność, współwłasność, wielkość udziału we współwłasności, inny tytuł prawny – podać jaki oraz inne dane): …..……………………………………......…………………………………………...…..
 4. Nieruchomości rolne: rodzaj gospodarstwa: ………………………………………………………….……...…...
 powierzchnia: ………… m adres: ……………………………………………………………………….………..…… rodzaj zabudowy: …………………………………………………………………...…….
-tytuł prawny (własność, współwłasność, użytkowanie wieczyste, dzierżawa, inny tytuł, podać jaki): …………………………………………………………………….…….…… Z tego tytułu osiągnąłem (osiągnęłam) ubiegłym roku dochód wysokości: …………………………….………………………………………………………….…… III Rzeczy ruchome wartości jednostkowej powyżej 10 000 zł (w przypadku pojazdów mechanicznych należy podać markę, model rok produkcji) …………………………………………………………………………………………………..
+tytuł prawny (własność, współwłasność, użytkowanie wieczyste, dzierżawa, inny tytuł, podać jaki): …………………………………………………………………….…….…… Z tego tytułu osiągnąłem (osiągnęłam) w ubiegłym roku dochód w wysokości: …………………………….………………………………………………………….…… III Rzeczy ruchome o wartości jednostkowej powyżej 10 000 zł (w przypadku pojazdów mechanicznych należy podać markę, model i rok produkcji) …………………………………………………………………………………………………..
 ………………………………………………………………………………….……………….
 …………………………………………………………………………………………………..
-………………………………………………………………………………………………..… IV Udziały akcje spółkach prawa handlowego (nazwa spółki, siedziba, wielkość udziałów, ilość akcji) …………………………………………………………………………………………………..
+………………………………………………………………………………………………..… IV Udziały i akcje w spółkach prawa handlowego (nazwa spółki, siedziba, wielkość udziałów, ilość akcji) …………………………………………………………………………………………………..
 …………………………………………………………………………………………………..
 ………………………………………………………………………………………………..… …………………………………………………………………………………………………..
-V Instrumenty finansowe rozumieniu art. 2 ustawy dnia 29 lipca 2005 obrocie instrumentami finansowymi 2286, późn. zm.) inne niż wskazane pkt IV (rodzaj, ilość wartość) ………………………………………………………………………………………..………....
+V Instrumenty finansowe w rozumieniu art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, z późn. zm.) inne niż wskazane w pkt IV (rodzaj, ilość i wartość) ………………………………………………………………………………………..………....
 …………………………………………………………………………………………………..
 .………………………………………………………………………………………………….
-..………………………………………………………………………………………………… VI Dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych, uzyskane okresie roku przed dniem, na który jest składane oświadczenie, ile ich łączna wartość przekracza 10 000 zł, ich źródła, tym: dochody uzyskane tytułu prowadzenia indywidualnej kancelarii komorniczej ……………………………………………………………………………………………..…… .………………………………………………………………………………………………… dochody innych źródeł, których jednostkowa wartość przekracza 10 000 zł ………………………………………………………………………………………………….
-….....…………………………………………………………………………………………… VII Mienie nabyte przez składającego oświadczenie albo jego małżonka od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków lub samorządowej osoby prawnej, które podlegało zbyciu drodze przetargu (podać rodzaj mienia, datę nabycia, od kogo) ………………………………………………………………………………………..………… …………………………………………………………………………………………..……… ……………………………………………………………………………………………..…… ………………………………………………………………………………………………..… VIII Wierzytelności pieniężne zobowiązania pieniężne wartości powyżej 10 000 zł (w tym zaciągnięte kredyty pożyczki, warunki, na jakich zostały udzielone, wobec kogo, związku jakim zdarzeniem, jakiej wysokości, wysokość pozostałego zadłużenia) ………………………..………………………………………………………………………… …………………………..……………………………………………………………………… ……………………………..…………………………………………………………………… ………………………………..………………………………………………………………… …………………………………………………………………………………………………..
+..………………………………………………………………………………………………… VI Dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych, uzyskane w okresie roku przed dniem, na który jest składane oświadczenie, o ile ich łączna wartość przekracza 10 000 zł, i ich źródła, w tym: – dochody uzyskane z tytułu prowadzenia indywidualnej kancelarii komorniczej ……………………………………………………………………………………………..…… .………………………………………………………………………………………………… – dochody z innych źródeł, których jednostkowa wartość przekracza 10 000 zł ………………………………………………………………………………………………….
+….....…………………………………………………………………………………………… VII Mienie nabyte przez składającego oświadczenie albo jego małżonka od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków lub samorządowej osoby prawnej, które podlegało zbyciu w drodze przetargu (podać rodzaj mienia, datę nabycia, od kogo) ………………………………………………………………………………………..………… …………………………………………………………………………………………..……… ……………………………………………………………………………………………..…… ………………………………………………………………………………………………..… VIII Wierzytelności pieniężne i zobowiązania pieniężne o wartości powyżej 10 000 zł (w tym zaciągnięte kredyty i pożyczki, warunki, na jakich zostały udzielone, wobec kogo, w związku z jakim zdarzeniem, w jakiej wysokości, wysokość pozostałego zadłużenia) ………………………..………………………………………………………………………… …………………………..……………………………………………………………………… ……………………………..…………………………………………………………………… ………………………………..………………………………………………………………… …………………………………………………………………………………………………..
 …………………………………………………………………………………………………..
-IX Inne dodatkowe dane stanie majątkowym ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… Jestem świadomy(a) odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+IX Inne dodatkowe dane o stanie majątkowym ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… Jestem świadomy(a) odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 …………………………………… ………………….….………… (miejscowość, data) (podpis)
 

@@ -8,10 +8,10 @@ pos: 758
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 758 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 kwietnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000758) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/758/text.pdf) |
 
-Poz. 758 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 kwietnia 2018 r.
-w sprawie ustalenia liczby sędziów w sądach dyscyplinarnych przy sądach apelacyjnych Na podstawie art. 110c ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 poz. 23, 3, 5, 106 i 138) zarządza się, co następuje: § 1. Ustala się liczbę sędziów w sądach dyscyplinarnych przy:
+w sprawie ustalenia liczby sędziów w sądach dyscyplinarnych przy sądach apelacyjnych Na podstawie art. 110c ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 poz. 23, 3, 5, 106 i 138) zarządza się, co następuje:
+§ 1. Ustala się liczbę sędziów w sądach dyscyplinarnych przy:
 1) Sądzie Apelacyjnym w Białymstoku – 9;
 2) Sądzie Apelacyjnym w Gdańsku – 15;
 3) Sądzie Apelacyjnym w Katowicach – 15;

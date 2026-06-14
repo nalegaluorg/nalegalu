@@ -8,7 +8,7 @@ pos: 592
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
@@ -24,16 +24,42 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-24 |
 | Data wydania | 2025-05-06 |
-| Ostatnia zmiana | 2026-03-05 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/592/text.pdf) |
 
+1) europejskim pojedynczym punkcie dostępu – należy przez to rozumieć europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
+2) formacie nadającym się do odczytu maszynowego – należy przez to rozumieć format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524);
+3) formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
+4) metadanych – należy przez to rozumieć metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859.> <Art. 92b. 1. Podmiot pośredniczący równocześnie z przekazaniem agencjom informacyjnym informacji, o których mowa w art. 77a ust. 4 i art. 79f ust. 5, treści wezwania, o której mowa w art. 77c ust. 1, informacji o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, oraz zmiany treści wezwania, o której mowa w art. 79e ust. 1 i 2, przekazuje te informacje i te treści Komisji.
+2. Spółka publiczna równocześnie z podaniem do wiadomości publicznej informacji, o której mowa w art. 90a ust. 4, przekazuje tę informację Komisji.
+3. Informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmiana treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, są przekazywane Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 16a ust. 5 dyrektywy 2004/25/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r.
+w sprawie ofert przejęcia (Dz. Urz. UE L 142 z 30.04.2004, str. 12, z późn.
+zm. ).
+4. Informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmiana treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, są opatrywane następującymi metadanymi:
+1) firmą spółki publicznej, której dotyczą informacje;
+2) identyfikatorem podmiotu prawnego spółki publicznej, której dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+3) kategorią wielkości spółki publicznej, której dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+4) sektorem przemysłu, w którym spółka publiczna, której dotyczą informacje, prowadzi działalność gospodarczą, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+5) rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+6) wskazaniem, czy informacje zawierają dane osobowe;
+7) metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 16a ust. 5 dyrektywy 2004/25/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie ofert przejęcia.
+5. Na potrzeby przekazania metadanej, o której mowa w ust. 4 pkt 2, spółka publiczna występuje o nadanie jej identyfikatora podmiotu prawnego określonego zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+6. Komisja udostępnia informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmianę treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, w europejskim pojedynczym punkcie dostępu.
 Art. 105–127. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zasady i warunki dokonywania oferty publicznej papierów wartościowych, prowadzenia subskrypcji lub sprzedaży tych papierów wartościowych oraz ubiegania się o dopuszczenie i wprowadzenie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym, w zakresie nieuregulowanym przepisami rozporządzenia 2017/1129;
+- **2)** obowiązki emitentów papierów wartościowych i innych podmiotów uczestniczących w obrocie tymi papierami wartościowymi lub innymi instrumentami finansowymi;
+- **3)** skutki uzyskania statusu spółki publicznej oraz szczególne prawa i obowiązki związane z posiadaniem i obrotem akcjami takich spółek.
+
 **Art. 2.** Przepisów ustawy nie stosuje się do:
+
+- **1)** weksli i czeków w rozumieniu przepisów prawa wekslowego i czekowego.
+- **2)** (uchylony)
+- **3)** (uchylony)
 
 **Art. 3.**
 
@@ -51,6 +77,58 @@ Art. 105–127. (pominięte)
 3. (uchylony)
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** rynku regulowanym – rozumie się przez to rynek regulowany w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146), zwanej dalej „ustawą o obrocie instrumentami finansowymi”;
+- **2)** alternatywnym systemie obrotu – rozumie się przez to alternatywny system obrotu w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **2a)** systemie obrotu instrumentami finansowymi – rozumie się przez to system obrotu instrumentami finansowymi w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **3)** obrocie pierwotnym – rozumie się przez to dokonywanie oferty publicznej, której przedmiotem są papiery wartościowe nowej emisji, przez:
+    - **a)** emitenta lub
+    - **b)** gwaranta emisji – w przypadku gdy w umowie o gwarancję emisji zawartej przez emitenta gwarant emisji zobowiązuje się do nabycia, na własny rachunek, całości albo części papierów wartościowych danej emisji, oferowanych wyłącznie temu podmiotowi, w celu dalszego ich zbywania w ofercie publicznej – oraz zbywanie lub nabywanie papierów wartościowych na podstawie takiej oferty;
+
+- **4)** obrocie wtórnym – rozumie się przez to obrót wtórny w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **4a)** ofercie publicznej – rozumie się przez to ofertę publiczną papierów wartościowych w rozumieniu art. 2 lit. d rozporządzenia 2017/1129;
+- **5)** pierwszej ofercie publicznej – rozumie się przez to dokonywaną po raz pierwszy ofertę publiczną dotyczącą określonych papierów wartościowych;
+- **6)** emitencie – rozumie się przez to emitenta w rozumieniu art. 2 lit. h rozporządzenia 2017/1129 oraz fundusz portfelowy, o którym mowa w art. 179 ust. 1 ustawy o funduszach inwestycyjnych;
+- **7)** (uchylony) 7a) oferującym – rozumie się przez to oferującego w rozumieniu art. 2 lit. i rozporządzenia 2017/1129;
+- **8)** instrumentach finansowych – rozumie się przez to instrumenty finansowe w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **9)** papierach wartościowych – rozumie się przez to papiery wartościowe w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi, z wyłączeniem instrumentów rynku pieniężnego o terminie zapadalności krótszym niż 12 miesięcy;
+- **10)** papierach wartościowych o charakterze nieudziałowym – rozumie się przez to papiery wartościowe o charakterze nieudziałowym w rozumieniu art. 2 lit. c rozporządzenia 2017/1129;
+- **11)** kwitach depozytowych – rozumie się przez to kwity depozytowe w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **12)** (uchylony)
+- **13)** (uchylony) 13a) umowie o gwarancję emisji – rozumie się przez to umowę między emitentem lub oferującym a gwarantem emisji, w której gwarant emisji zobowiązuje się do zapewnienia dojścia do skutku emisji lub sprzedaży papierów wartościowych w drodze oferty publicznej;
+- **14)** podmiocie dominującym – rozumie się przez to podmiot w sytuacji, gdy:
+    - **a)** posiada bezpośrednio lub pośrednio przez inne podmioty większość głosów w organach innego podmiotu, także na podstawie porozumień z innymi osobami, lub
+    - **b)** jest uprawniony do powoływania lub odwoływania większości członków organów zarządzających lub nadzorczych innego podmiotu, lub
+    - **c)** więcej niż połowa członków zarządu drugiego podmiotu jest jednocześnie członkami zarządu, prokurentami lub osobami pełniącymi funkcje kierownicze pierwszego podmiotu bądź innego podmiotu pozostającego z tym pierwszym w stosunku zależności;
+
+- **15)** podmiocie zależnym – rozumie się przez to podmiot, w stosunku do którego inny podmiot jest podmiotem dominującym, przy czym wszystkie podmioty zależne od tego podmiotu zależnego uważa się również za podmioty zależne od tego podmiotu dominującego;
+- **16)** grupie kapitałowej – rozumie się przez to podmiot dominujący wraz z podmiotami od niego zależnymi;
+- **17)** ogólnej liczbie głosów – rozumie się przez to sumę głosów przypadających na wszystkie akcje spółki;
+- **18)** depozycie papierów wartościowych – rozumie się przez to depozyt papierów wartościowych w rozumieniu ustawy o obrocie instrumentami finansowymi;
+- **19)** rachunku papierów wartościowych – rozumie się przez to rachunek papierów wartościowych w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **20)** spółce publicznej – rozumie się przez to spółkę, której co najmniej jedna akcja jest dopuszczona do obrotu na rynku regulowanym lub wprowadzona do obrotu w alternatywnym systemie obrotu na terytorium Rzeczypospolitej Polskiej;
+- **21)** państwie członkowskim – rozumie się przez to państwo, które jest członkiem Unii Europejskiej lub stroną umowy o Europejskim Obszarze Gospodarczym;
+- **22)** firmie inwestycyjnej – rozumie się przez to firmę inwestycyjną w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **22a)** Krajowym Depozycie – rozumie się przez to Krajowy Depozyt Papierów Wartościowych S.A.;
+- **23)** Komisji – rozumie się przez to Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135 oraz z 2025 r. poz. 146);
+- **24)** Przewodniczącym Komisji – rozumie się przez to Przewodniczącego Komisji Nadzoru Finansowego, o którym mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
+- **25)** (uchylony) 25a) rozporządzeniu 596/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylające dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm. );
+- **25b)** (uchylony) 25c) rozporządzeniu 575/2013 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
+- **25d)** rozporządzeniu 600/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm. );
+- **25e)** rozporządzeniu 2017/1129 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
+- **25f)** rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str.
+- **1)** ; <25g) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ); >
+- **26)** instytucji kredytowej – rozumie się przez to instytucję kredytową w rozumieniu art. 4 ust. 1 pkt 1 rozporządzenia 575/2013;
+- **27)** pośrednim nabyciu akcji – rozumie się przez to uzyskanie statusu podmiotu dominującego w podmiocie posiadającym akcje spółki publicznej lub w innym podmiocie będącym wobec tego podmiotu podmiotem dominującym albo nabycie lub objęcie akcji spółki publicznej przez podmiot bezpośrednio lub pośrednio zależny;
+- **28)** dniu roboczym – rozumie się przez to każdy dzień od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy;
+- **29)** uczestniku rynku uprawnień do emisji – rozumie się przez to podmiot, o którym mowa w art. 3 ust. 1 pkt 20 rozporządzenia 596/2014;
+- **30)** zorganizowanej platformie obrotu – rozumie się przez to zorganizowaną platformę obrotu w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **31)** informacji poufnej – rozumie się przez to informację poufną w rozumieniu art. 7 rozporządzenia 596/2014;
+- **32)** reklamie – rozumie się przez to reklamę w rozumieniu art. 2 lit. k rozporządzenia 2017/1129;
+- **33)** wzywającym – rozumie się przez to podmiot ogłaszający wezwanie do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej;
+- **34)** podmiocie pośredniczącym – rozumie się przez to podmiot prowadzący działalność maklerską na terytorium Rzeczypospolitej Polskiej, za pośrednictwem którego wezwanie do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej jest ogłaszane i przeprowadzane;
+- **35)** dostawcy usług finansowania społecznościowego – rozumie się przez to podmiot, o którym mowa w art. 2 ust. 1 lit. e rozporządzenia 2020/1503;
+- **36)** arkuszu kluczowych informacji inwestycyjnych – rozumie się przez to arkusz kluczowych informacji inwestycyjnych, o którym mowa w art. 23 rozporządzenia 2020/1503, sporządzany w przypadku oferty publicznej zbywalnych papierów wartościowych dokonywanej za pośrednictwem dostawcy usług finansowania społecznościowego.
 
 **Art. 4a.**
 
@@ -304,6 +382,13 @@ Art. 105–127. (pominięte)
 2. Komisja może również wydać w stosunku do emitenta, oferującego lub podmiotu, o którym mowa w art. 11a ust. 2, zalecenia przekazania do publicznej wiadomości przez te podmioty informacji, o których mowa w ust. 1.
 
 **Art. 19c.** W przypadku gdy wymaga tego nadzór nad ofertą publiczną lub dopuszczeniem do obrotu papierów wartościowych na rynku regulowanym, Komisja może żądać informacji i wyjaśnień w formie ustnej lub pisemnej, a także przedstawienia dokumentów lub nośników informacji, na koszt emitenta, odpowiednio od:
+
+- **1)** emitenta, osób wchodzących w skład organów zarządzających i nadzorczych emitenta oraz jego pracowników;
+- **2)** oferującego oraz osób wchodzących w skład organów zarządzających i nadzorczych oferującego;
+- **3)** firmy audytorskiej, która dokonała badania sprawozdań finansowych emitenta zamieszczonych w prospekcie, oraz biegłego rewidenta;
+- **4)** firmy inwestycyjnej, która pośredniczy w ofercie papierów wartościowych, subskrypcji lub sprzedaży, dokonywanych na podstawie tej oferty;
+- **5)** podmiotu dominującego w stosunku do emitenta lub oferującego oraz podmiotu zależnego w stosunku do emitenta lub oferującego;
+- **6)** dostawcy usług finansowania społecznościowego – w przypadku ofert publicznych dokonywanych za jego pośrednictwem.
 
 **Art. 20.** Emitenci papierów wartościowych dopuszczonych do obrotu na rynku regulowanym są obowiązani zapewnić posiadaczom papierów tego samego rodzaju, w takich samych okolicznościach, jednakowe traktowanie. Nie wyłącza to możliwości przeprowadzania przez emitenta, zgodnie z przepisami prawa jego siedziby, wcześniejszego wykupu dłużnych papierów wartościowych, w przypadku konieczności odstąpienia od wcześniejszych warunków emisji ze względów społecznych.
 
@@ -654,6 +739,10 @@ Art. 105–127. (pominięte)
 
 **Art. 55.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki, jakim powinno odpowiadać memorandum informacyjne, o którym mowa w art. 37b ust. 1, art. 38b ust. 1 oraz art. 40 ust. 1, w szczególności treść i zakres informacji ujawnianych w memorandum informacyjnym, tak aby zapewnić nabywcom papierów wartościowych podstawowe dane niezbędne do oceny ryzyka związanego z inwestowaniem w te papiery wartościowe;
+- **2)** podmioty uprawnione do ubiegania się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym, szczególne warunki, jakie są obowiązane spełniać te podmioty, szczegółowe warunki, jakim powinny odpowiadać warunki obrotu, o których mowa w art. 55d ust. 1, oraz szczególny tryb i warunki zatwierdzenia warunków obrotu, w tym kryteria, jakie muszą spełniać te instrumenty finansowe, aby mogły być przedmiotem obrotu, tak aby zapewnić nabywcom tych instrumentów finansowych podstawowe dane niezbędne do oceny ryzyka związanego z inwestowaniem w nie;
+- **3)** zakres informacji wykazywanych w sprawozdaniach finansowych i skonsolidowanych sprawozdaniach finansowych wymaganych w prospekcie dla emitentów z siedzibą na terytorium Rzeczypospolitej Polskiej, dla których właściwe są polskie zasady rachunkowości, w szczególności składniki sprawozdań finansowych i skonsolidowanych sprawozdań finansowych oraz zakres informacji w nich zamieszczanych, tak aby zapewnić nabywcom papierów wartościowych dane niezbędne do oceny sytuacji majątkowej, finansowej i wyniku finansowego emitenta.
+
 #### Rozdział 3 Obowiązki informacyjne emitentów
 
 **Art. 55a.**
@@ -978,9 +1067,16 @@ Art. 105–127. (pominięte)
 
 **Art. 70.** Spółka publiczna jest obowiązana do:
 
+- **1)** niezwłocznego przekazywania informacji, w zakresie określonym w art. 69, równocześnie do publicznej wiadomości, Komisji oraz spółce prowadzącej rynek regulowany, na którym są notowane akcje tej spółki, lub podmiotowi organizującemu alternatywny system obrotu, w którym są notowane te akcje;
+- **2)** (uchylony)
+- **3)** równoczesnego przekazywania do publicznej wiadomości, Komisji oraz spółce prowadzącej rynek regulowany, na którym są notowane akcje tej spółki, lub podmiotowi organizującemu alternatywny system obrotu, w którym są notowane te akcje, w terminie 7 dni od dnia odbycia walnego zgromadzenia, wykazu akcjonariuszy posiadających co najmniej 5 % liczby głosów na tym zgromadzeniu, z określeniem liczby głosów przysługujących każdemu z nich z posiadanych akcji i wskazaniem ich procentowego udziału w liczbie głosów na tym walnym zgromadzeniu oraz w ogólnej liczbie głosów.
+
 **Art. 70a.** W przypadku zawiadomienia, o którym mowa w art. 69 ust. 4b, spółka publiczna może sporządzić informację, o której mowa w art. 70 pkt 1, w języku angielskim.
 
 **Art. 71.** Komisja może zwolnić spółkę publiczną z obowiązku przekazania informacji, o których mowa w art. 70 pkt 1, w przypadku, gdy ujawnienie takich informacji mogłoby:
+
+- **1)** zaszkodzić interesowi publicznemu lub
+- **2)** spowodować istotną szkodę dla interesów tej spółki – o ile brak odpowiedniej informacji nie spowoduje wprowadzenia w błąd ogółu inwestorów w zakresie oceny wartości papierów wartościowych.
 
 **Art. 71a.** W przypadku spółki publicznej, dla której Rzeczpospolita Polska jest państwem przyjmującym, przepisów niniejszego oddziału nie stosuje się. Zakres i sposób wykonania obowiązków, o których mowa w niniejszym oddziale, określają przepisy państwa macierzystego.
 
@@ -1134,9 +1230,16 @@ Art. 105–127. (pominięte)
 
 **Art. 77e.** Podmioty będące stronami porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, które ogłosiły wspólnie wezwanie:
 
+- **1)** odpowiadają solidarnie za zapłatę ceny akcji proponowanej w wezwaniu oraz za wydanie papierów wartościowych w zamian za akcje objęte zapisami złożonymi w ramach wezwania;
+- **2)** mogą w treści wezwania określić proporcje, w jakich nastąpi nabycie akcji przez każdy z tych podmiotów.
+
 **Art. 77f.** Wzywający może wskazać w treści wezwania podmiot wchodzący w skład jego grupy kapitałowej, który będzie nabywał akcje będące przedmiotem wezwania. W przypadku gdy wzywającym jest fundusz inwestycyjny, wzywający może wskazać w treści wezwania inny fundusz inwestycyjny zarządzany przez to samo towarzystwo funduszy inwestycyjnych jako podmiot, który będzie nabywał akcje będące przedmiotem wezwania. Wzywający i podmiot wskazany przez wzywającego odpowiadają solidarnie za zapłatę ceny akcji proponowanej w wezwaniu oraz za wydanie papierów wartościowych w zamian za akcje objęte zapisami złożonymi w ramach wezwania.
 
 **Art. 77g.** W okresie między dokonaniem zawiadomienia, o którym mowa w art. 77a ust. 1, a zakończeniem wezwania wzywający oraz podmioty określone w art. 79 ust. 2 pkt 1:
+
+- **1)** mogą nabywać akcje spółki publicznej, której dotyczy wezwanie, jedynie w ramach tego wezwania i w sposób w nim określony;
+- **2)** nie mogą zbywać akcji spółki publicznej, której dotyczy wezwanie, ani zawierać umów, z których mógłby wynikać obowiązek zbycia przez nie tych akcji;
+- **3)** nie mogą nabywać pośrednio akcji spółki publicznej, której dotyczy wezwanie.
 
 **Art. 77h.**
 
@@ -1782,6 +1885,62 @@ Art. 105–127. (pominięte)
 
 2. W przypadku gdy podział spółki publicznej z siedzibą na terytorium Rzeczypospolitej Polskiej jest dokonywany w drodze podziału przez wyodrębnienie, o którym mowa w art. 529 § 1 pkt 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, przepisu ust. 1 pkt 2 nie stosuje się.
 
+#### Rozdział 5a Udostępnianie informacji w europejskim pojedynczym punkcie dostępu <Art. 92a. Ilekroć w niniejszym rozdziale jest mowa o:
+
+**Art. 92c.**
+
+1. Spółka z siedzibą na terytorium Rzeczypospolitej Polskiej, której co najmniej jedna akcja jest dopuszczona do obrotu na rynku regulowanym, równocześnie z zamieszczeniem na swojej stronie internetowej dokumentów, o których mowa w art. 90e ust. 5, sprawozdania o wynagrodzeniach, o którym mowa w art. 90g ust. 1, informacji o istotnej transakcji, o której mowa w art. 90i ust. 1, oraz informacji o transakcji, o której mowa w art. 90k, przekazuje te dokumenty, sprawozdania i informacje Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17, z późn. zm. ).
+
+2. Dokumenty, o których mowa w art. 90e ust. 5, sprawozdanie o wynagrodzeniach, o którym mowa w art. 90g ust. 1, informacja o istotnej transakcji, o której mowa w art. 90i ust. 1, oraz informacja o transakcji, o której mowa w art. 90k, są opatrywane następującymi metadanymi:
+
+- **1)** firmą spółki, o której mowa w ust. 1, której dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego spółki, o której mowa w ust. 1, której dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości spółki, o której mowa w ust. 1, której dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** sektorem przemysłu, w którym spółka, o której mowa w ust. 1, której dotyczą informacje, prowadzi działalność gospodarczą, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **6)** wskazaniem, czy informacje zawierają dane osobowe;
+- **7)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, spółka, o której mowa w ust. 1, występuje o nadanie jej identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia dokumenty, o których mowa w art. 90e ust. 5, sprawozdanie o wynagrodzeniach, o którym mowa w art. 90g ust. 1, informację o istotnej transakcji, o której mowa w art. 90i ust. 1, oraz informację o transakcji, o której mowa w art. 90k, w europejskim pojedynczym punkcie dostępu.
+
+**Art. 92d.**
+
+1. Komisja udostępnia w europejskim pojedynczym punkcie dostępu treść decyzji w sprawie wniosku, o którym mowa w art. 79 ust. 4a, w formacie umożliwiającym ekstrakcję danych.
+
+2. Decyzja w sprawie wniosku, o którym mowa w art. 79 ust. 4a, jest opatrywana następującymi metadanymi:
+
+- **1)** firmą spółki publicznej, której dotyczy decyzja w sprawie wniosku, o którym mowa w art. 79 ust. 4a;
+- **2)** identyfikatorem podmiotu prawnego spółki publicznej, której dotyczy decyzja w sprawie wniosku, o którym mowa w art. 79 ust. 4a, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy decyzja w sprawie wniosku, o którym mowa w art. 79 ust. 4a, zawiera dane osobowe.> <Art. 92e. 1. Informacje, o których mowa w art. 11a ust. 5 i 6 oraz art. 55c, przekazywane lub udostępniane w sposób wskazany w tych przepisach, są sporządzane w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy sporządzenie informacji w takim formacie jest wymagane na podstawie przepisów rozporządzenia delegowanego Komisji (UE) 2019/815 z dnia 17 grudnia 2018 r. uzupełniającego dyrektywę 2004/109/WE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących specyfikacji jednolitego elektronicznego formatu raportowania (Dz. Urz. UE L 143 z 29.05.2019, str. 1, z późn. zm. ) lub zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 23a ust. 5 dyrektywy 2004/109/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie harmonizacji wymogów dotyczących przejrzystości informacji o emitentach, których papiery wartościowe dopuszczane są do obrotu na rynku regulowanym oraz zmieniającej dyrektywę 2001/34/WE (Dz. Urz. UE L 390 z 31.12.2004, str. 38, z późn. zm. ).
+
+2. Informacje, o których mowa w art. 11a ust. 5 i 6 oraz art. 55c, są opatrywane następującymi metadanymi:
+
+- **1)** firmą (nazwą) emitenta lub uczestnika rynku uprawnień do emisji, których dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego emitenta lub uczestnika rynku uprawnień do emisji, których dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości emitenta lub uczestnika rynku uprawnień do emisji, których dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** sektorem przemysłu, w którym emitent lub uczestnik rynku uprawnień do emisji, których dotyczą informacje, prowadzi działalność gospodarczą, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **6)** wskazaniem, czy informacje zawierają dane osobowe;
+- **7)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 23a ust. 5 dyrektywy 2004/109/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie harmonizacji wymogów dotyczących przejrzystości informacji o emitentach, których papiery wartościowe dopuszczane są do obrotu na rynku regulowanym oraz zmieniającej dyrektywę 2001/34/WE.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, emitent lub uczestnik rynku uprawnień do emisji występują o nadanie im identyfikatora podmiotu prawnego określonego zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia informacje, o których mowa w art. 11a ust. 5 i 6 oraz art. 55c, w europejskim pojedynczym punkcie dostępu.
+
+**Art. 92f.**
+
+1. Komisja udostępnia w europejskim pojedynczym punkcie dostępu informacje, o których mowa w art. 96 ust. 10a, w formacie umożliwiającym ekstrakcję danych.
+
+2. Informacje są opatrywane następującymi metadanymi:
+
+- **1)** imieniem i nazwiskiem osoby fizycznej lub firmą (nazwą) innego podmiotu, na które została nałożona sankcja;
+- **2)** identyfikatorem podmiotu prawnego podmiotu, na który nałożono sankcję, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+
 #### Rozdział 6 Opłaty
 
 **Art. 93.** Udzielenie zezwolenia lub zgody przewidzianych w ustawie, a także uzyskanie przez dany podmiot statusu agencji informacyjnej w związku z wydaniem decyzji, o której mowa w art. 58 ust. 1, podlegają opłacie w wysokości nie większej niż równowartość w złotych 4500 euro.
@@ -2077,6 +2236,9 @@ Art. 105–127. (pominięte)
 
 **Art. 97c.** Komisja przekazuje corocznie Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych:
 
+- **1)** informację o przypadkach zastosowania w poprzednim roku kalendarzowym sankcji, o których mowa w art. 96c ust. 1 i 2;
+- **2)** informację zbiorczą o zastosowaniu środków, o których mowa w art. 96d ust. 1, 3 i 4.
+
 **Art. 97d.** Emitent jest obowiązany posiadać procedury anonimowego zgłaszania przez pracowników wskazanemu członkowi zarządu, a w szczególnych przypadkach – radzie nadzorczej, naruszeń prawa, w szczególności przepisów ustawy, rozporządzenia 2017/1129, oraz procedur i standardów etycznych.
 
 #### Rozdział 8 Odpowiedzialność cywilna
@@ -2213,6 +2375,9 @@ Art. 105–127. (pominięte)
 10. W przypadku gdy przekroczenie progu ogólnej liczby głosów, które powoduje powstanie obowiązku wykupienia akcji, o którym mowa w art. 82 i 83, nastąpiło przed dniem wejścia w życie ustawy, obowiązek ten ma zastosowanie, o ile po tym dniu udział w ogólnej liczbie głosów ulegnie dalszemu zwiększeniu. W takim przypadku termin wykonania tego obowiązku liczy się od dnia, w którym nastąpiło zdarzenie powodujące zwiększenie udziału w ogólnej liczbie głosów.
 
 **Art. 129.** W okresie siedmiu lat od dnia wejścia w życie niniejszej ustawy sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego nie jest wymagane w przypadku ofert publicznych prowadzonych przez Skarb Państwa:
+
+- **1)** dotyczących nabycia co najmniej 10 % akcji danej spółki przez jednego nabywcę lub
+- **2)** dotyczących nabycia przez jednego nabywcę akcji w spółce, w której udział Skarbu Państwa stanowi mniej niż 10 % kapitału zakładowego – dokonywanych w procesie prywatyzacji prowadzonym na podstawie odrębnych przepisów.
 
 **Art. 130.** (pominięty)
 

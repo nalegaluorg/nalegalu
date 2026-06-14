@@ -8,7 +8,7 @@ pos: 236
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 17 października 1995 r. sygn. K 10/95, z mocy art. 7 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. z 1991 r. Nr 109, poz. 470, z 1993 r. Nr 47, poz. 213, z 1994 r. Nr 122, poz. 593 i z 1995 r. Nr 13, poz. 59) oraz uchwały Trybunału Konstytucyjnego z dnia 20 października 1993 r. (Dz. U. Nr 105, poz. 481) ogłaszam utratę mocy obowiązującej art. 8 ust. 2 ustawy z dnia 20 października 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe (Dz. U. Nr 119, poz. 567).

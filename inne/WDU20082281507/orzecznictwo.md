@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapitałowych*
 
-Łącznie: **644** orzeczeń
+Łącznie: **645** orzeczeń
 (pominięto 350 orzeczeń sądów rejonowych)
 
 ## art. 2 (1)
@@ -41,10 +41,11 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2012-03-29 | SO | [III AUa 128/12](https://www.saos.org.pl/judgments/1438) | Wyrok
 - 2021-11-22 | SO | [VIII Ua 50/21](https://www.saos.org.pl/judgments/453462) | Uzasadnienie
 
-## art. 7 (55)
+## art. 7 (56)
 
 - 2014-05-07 | TK | [K 43/12](https://www.saos.org.pl/judgments/160144) | Wyrok ★
 - 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok ★
+- 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok
 - 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok
 - 2024-02-07 | SO | [III AUa 1419/22](https://www.saos.org.pl/judgments/504751) | Wyrok
 - 2022-11-17 | SO | [III AUa 282/22](https://www.saos.org.pl/judgments/478748) | Wyrok
@@ -126,8 +127,9 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2018-05-02 | SO | [VIII U 2394/17](https://www.saos.org.pl/judgments/339161) | Zarządzenie
 - 2017-02-07 | SO | [VIII U 1558/16](https://www.saos.org.pl/judgments/278587) | Zarządzenie
 
-## art. 9 (8)
+## art. 9 (9)
 
+- 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok
 - 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok
 - 2025-02-19 | SO | [III AUa 30/24](https://www.saos.org.pl/judgments/531377) | Wyrok
 - 2019-03-19 | SO | [III AUa 275/18](https://www.saos.org.pl/judgments/391172) | Wyrok
@@ -215,9 +217,10 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2019-05-20 | SO | [VIII U 1191/18](https://www.saos.org.pl/judgments/381893) | Uzasadnienie
 - 2016-02-10 | SO | [VIII U 2767/15](https://www.saos.org.pl/judgments/205062) | Zarządzenie
 
-## art. 25 (25)
+## art. 25 (26)
 
 - 2010-07-15 | TK | [K 63/07](https://www.saos.org.pl/judgments/109684) | Wyrok ★
+- 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok
 - 2018-04-05 | SO | [III AUa 74/18](https://www.saos.org.pl/judgments/352759) | Wyrok
 - 2018-04-05 | SO | [III AUa 747/16](https://www.saos.org.pl/judgments/339864) | Wyrok
 - 2017-06-29 | SO | [III AUa 1973/16](https://www.saos.org.pl/judgments/444672) | Wyrok

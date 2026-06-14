@@ -8,7 +8,7 @@ pos: 551
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej
@@ -33,7 +33,23 @@ Art. 134–137. (pominięte)
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** rejestrację i niektóre zasady organizacji europejskiego zgrupowania interesów gospodarczych, w zakresie nieuregulowanym w rozporządzeniu nr 2137/85/EWG z dnia 25 lipca 1985 r. w sprawie europejskiego zgrupowania interesów gospodarczych (EZIG) (Dz. Urz. WE L 199 z 31.07.1985);
+- **2)** powstanie, organizację i działalność spółki europejskiej, w zakresie nieuregulowanym w rozporządzeniu nr 2157/2001/WE z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001);
+- **3)** zasady zaangażowania pracowników w spółce europejskiej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** instytucja finansowa – instytucję finansową w rozumieniu art. 4 § 1 pkt 7 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187), zwanej dalej „Kodeksem spółek handlowych”;
+- **2)** państwa członkowskie – państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **3)** rejestr – rejestr przedsiębiorców w Krajowym Rejestrze Sądowym;
+- **4)** rozporządzenie 2137/85 – rozporządzenie, o którym mowa w art. 1 pkt 1;
+- **5)** rozporządzenie 2157/2001 – rozporządzenie, o którym mowa w art. 1 pkt 2;
+- **6)** spółka europejska – europejską spółkę akcyjną określoną w rozporządzeniu 2157/2001;
+- **7)** spółka publiczna – spółkę w rozumieniu art. 4 pkt 20 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176);
+- **8)** spółka uczestnicząca – spółkę bezpośrednio uczestniczącą w założeniu spółki europejskiej;
+- **9)** właściwy organ spółki – organ zarządzający albo administrujący spółki, stosownie do przepisów prawa, któremu ta spółka podlega;
+- **10)** zgrupowanie – europejskie zgrupowanie interesów gospodarczych określone w rozporządzeniu 2137/85;
+- **11)** zarządca zgrupowania – osobę fizyczną lub prawną, prowadzącą sprawy zgrupowania.
 
 **Art. 3.**
 
@@ -420,6 +436,19 @@ Art. 134–137. (pominięte)
 
 **Art. 58.** Użyte w tytule IV określenia oznaczają:
 
+- **1)** spółka zależna – przedsiębiorcę, na którego inna spółka wywiera dominujący wpływ w rozumieniu art. 4 ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. z 2019 r. poz. 1832), zwanej dalej „ustawą o europejskich radach zakładowych”;
+- **2)** zakład – jednostkę organizacyjną nieposiadającą osobowości prawnej, wykonującą działalność gospodarczą w oparciu o wydzielony zespół ludzi i środków materialnych;
+- **3)** zainteresowana spółka zależna lub zakład – spółkę zależną lub zakład spółki uczestniczącej, które mają się stać spółką zależną lub zakładem SE w związku z jej utworzeniem;
+- **4)** pracownik – osobę uznawaną za pracownika przez prawo danego państwa członkowskiego, które znajduje zastosowanie do stosunków pracy w spółce lub zakładzie zatrudniających tę osobę;
+- **5)** przedstawiciel pracowników – przedstawiciela pracowników w rozumieniu prawa państwa członkowskiego lub zgodnie z praktyką tego państwa;
+- **6)** specjalny zespół negocjacyjny – zespół utworzony zgodnie z przepisami działu 2 niniejszego tytułu w celu zawarcia z właściwym organem spółek uczestniczących porozumienia w sprawie zasad zaangażowania pracowników w SE;
+- **7)** organ przedstawicielski – organ reprezentujący pracowników, utworzony na mocy porozumienia, o którym mowa w dziale 3 niniejszego tytułu, lub na mocy przepisów działu 4 niniejszego tytułu;
+- **8)** zaangażowanie pracowników – zapewnienie prawa pracowników do informacji, konsultacji i uczestnictwa, umożliwiające im wywieranie wpływu na decyzje podejmowane w SE;
+- **9)** informowanie – informowanie organu przedstawicielskiego lub, w razie niepowołania takiego organu, ustanowionych w inny sposób przedstawicieli pracowników, w sprawach dotyczących SE oraz jej spółek zależnych i zakładów mających siedzibę w różnych państwach członkowskich, jak również w sprawach wykraczających poza uprawnienia organów spółek zależnych lub zakładów podejmujących decyzje w danych państwach członkowskich, w zakresie, formie i terminie umożliwiającym organowi przedstawicielskiemu lub ustanowionym w inny sposób przedstawicielom pracowników przeanalizowanie dostarczonych informacji i przygotowanie się do konsultacji z właściwym organem SE;
+- **10)** konsultacje – wymianę poglądów i podjęcie dialogu między organem przedstawicielskim lub ustanowionymi w inny sposób przedstawicielami pracowników a właściwym organem SE w zakresie, formie i terminie, umożliwiającym wzięcie pod uwagę opinii wydanej po ich zakończeniu przy podejmowaniu decyzji w SE;
+- **11)** uczestnictwo – wpływ organu przedstawicielskiego lub ustanowionych w inny sposób przedstawicieli pracowników na sprawy SE przez prawo wyboru lub wyznaczenia określonej liczby członków do rady nadzorczej albo rady administrującej SE albo prawo ich rekomendowania lub prawo sprzeciwienia się wyznaczeniu niektórych albo wszystkich członków tych organów;
+- **12)** dane identyfikacyjne – nazwę lub firmę spółki uczestniczącej, spółki zależnej i zakładu oraz ich siedzibę, a jeżeli posiadają one numer identyfikacyjny lub są zarejestrowane w rejestrze, także ten numer identyfikacyjny lub numer w rejestrze.
+
 ### DZIAŁ 2 Specjalny zespół negocjacyjny
 
 #### Rozdział 1 Zadania specjalnego zespołu negocjacyjnego
@@ -613,7 +642,21 @@ Art. 134–137. (pominięte)
 
 **Art. 84.** Zasady standardowe zaangażowania pracowników w SE, określone w niniejszym dziale, stosuje się od dnia jej rejestracji, w przypadku gdy:
 
+- **1)** spółki uczestniczące i specjalny zespół negocjacyjny tak postanowią albo
+- **2)** porozumienie nie zostanie zawarte w terminie określonym w art. 77 i:
+    - **a)** właściwe organy spółek uczestniczących zdecydują o stosowaniu tych zasad i tym samym o kontynuowaniu postępowania rejestracyjnego i
+    - **b)** specjalny zespół negocjacyjny nie podejmie uchwały, o której mowa w art. 81 ust. 1.
+
 **Art. 85.** Zasady standardowe uczestnictwa w SE stosuje się wyłącznie w przypadkach:
+
+- **1)** utworzenia SE w drodze przekształcenia, jeżeli zgodnie z prawem państwa członkowskiego przepisy odnoszące się do uczestnictwa w radzie nadzorczej albo radzie administrującej spółki miały zastosowanie do spółki przekształconej w SE;
+- **2)** utworzenia SE w drodze połączenia, gdy: Specjalny zespół negocjacyjny podejmuje decyzję w tej sprawie po upływie terminu, o którym mowa w art. 77, lub przed upływem tego terminu, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem;
+    - **a)** przed dniem rejestracji SE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółkach uczestniczących, obejmujących co najmniej 25 % łącznej liczby pracowników we wszystkich spółkach uczestniczących, albo
+    - **b)** przed dniem rejestracji SE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółkach uczestniczących, obejmujących mniej niż 25 % łącznej liczby pracowników we wszystkich spółkach uczestniczących, o ile specjalny zespół negocjacyjny tak postanowi.
+
+- **3)** utworzenia SE w drodze utworzenia holdingowej SE albo zależnej SE, gdy: Specjalny zespół negocjacyjny podejmuje decyzję w tej sprawie po upływie terminu, o którym mowa w art. 77, lub przed upływem tego terminu, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem.
+    - **a)** przed dniem rejestracji SE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółkach uczestniczących, obejmujących co najmniej 50 % łącznej liczby pracowników we wszystkich spółkach uczestniczących, albo
+    - **b)** przed dniem rejestracji SE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółek uczestniczących, obejmujących mniej niż 50 % łącznej liczby pracowników we wszystkich spółkach uczestniczących, o ile specjalny zespół negocjacyjny tak postanowi.
 
 **Art. 86.**
 
@@ -652,6 +695,10 @@ Art. 134–137. (pominięte)
 **Art. 91.** Organ przedstawicielski niezwłocznie zawiadamia właściwy organ SE o swym składzie. Właściwy organ SE przekazuje informację o składzie organu przedstawicielskiego właściwym organom spółek zależnych i kierownictwom zakładów.
 
 **Art. 92.** Właściwy organ SE niezwłocznie po otrzymaniu informacji o składzie organu przedstawicielskiego zwołuje zebranie organizacyjne, na którym:
+
+- **1)** następuje ukonstytuowanie się organu przedstawicielskiego;
+- **2)** organ przedstawicielski wybiera ze swojego składu przewodniczącego;
+- **3)** organ przedstawicielski uchwala wewnętrzny regulamin.
 
 **Art. 93.**
 
@@ -847,6 +894,10 @@ Art. 134–137. (pominięte)
 **Art. 131.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, dopuszcza do nabycia przez SE akcji własnych albo do brania ich w zastaw, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 
 **Art. 132.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym SE, dopuszcza do wydania dokumentów uprawniających do wykonywania praw z akcji:
+
+- **1)** niedostatecznie opłaconych,
+- **2)** przed zarejestrowaniem SE,
+- **3)** w przypadku podwyższenia kapitału zakładowego – przed zarejestrowaniem podwyższenia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 133.**
 

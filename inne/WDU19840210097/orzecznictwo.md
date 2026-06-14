@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 kwietnia 1984 r. o fundacjach.*
 
-Łącznie: **22** orzeczeń
-(pominięto 29 orzeczeń sądów rejonowych)
+Łącznie: **23** orzeczeń
+(pominięto 30 orzeczeń sądów rejonowych)
 
 ## art. 1 (4)
 
@@ -17,8 +17,9 @@ Orzeczenia powołujące: *Ustawa z dnia 6 kwietnia 1984 r. o fundacjach.*
 - 2018-05-29 | SO | [VII AGa 488/18](https://www.saos.org.pl/judgments/351923) | Wyrok
 - 2016-08-31 | SO | [I ACa 514/16](https://www.saos.org.pl/judgments/256151) | Wyrok
 
-## art. 4 (2)
+## art. 4 (3)
 
+- 2025-11-13 | SO | [I ACa 1583/24](https://www.saos.org.pl/judgments/546497) | Wyrok
 - 2024-06-10 | SO | [I ACa 579/23](https://www.saos.org.pl/judgments/525486) | Wyrok
 - 2018-05-29 | SO | [VII AGa 488/18](https://www.saos.org.pl/judgments/351923) | Wyrok
 
@@ -61,8 +62,9 @@ Orzeczenia powołujące: *Ustawa z dnia 6 kwietnia 1984 r. o fundacjach.*
 - 2018-04-24 | SO | [I C 489/17](https://www.saos.org.pl/judgments/363552) | Wyrok
 - 2018-10-09 | SO | [III Ca 1034/18](https://www.saos.org.pl/judgments/363444) | Uzasadnienie
 
-## art. 12 (1)
+## art. 12 (2)
 
+- 2025-11-13 | SO | [I ACa 1583/24](https://www.saos.org.pl/judgments/546497) | Wyrok
 - 2024-06-10 | SO | [I ACa 579/23](https://www.saos.org.pl/judgments/525486) | Wyrok
 
 ## art. 13 (2)

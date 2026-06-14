@@ -8,7 +8,7 @@ pos: 697
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Wyższej Szkole Pedagogicznej w Słupsku nazwy „Pomorska Akademia Pedagogiczna w Słupsku”

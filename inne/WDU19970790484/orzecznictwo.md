@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne.*
 
-Łącznie: **10** orzeczeń
+Łącznie: **11** orzeczeń
 (pominięto 6 orzeczeń sądów rejonowych)
 
 ## art. 3 (1)
@@ -17,8 +17,9 @@ Orzeczenia powołujące: *Ustawa z dnia 8 maja 1997 r. o poręczeniach i gwaranc
 
 - 2018-05-23 | SO | [I ACa 20/18](https://www.saos.org.pl/judgments/348460) | Wyrok
 
-## art. 34 (1)
+## art. 34 (2)
 
+- 2024-06-27 | SO | [I AGa 114/24](https://www.saos.org.pl/judgments/546811) | Wyrok
 - 2019-05-23 | SO | [VII AGa 127/19](https://www.saos.org.pl/judgments/389815) | Wyrok
 
 ## art. 43 (1)
@@ -29,6 +30,10 @@ Orzeczenia powołujące: *Ustawa z dnia 8 maja 1997 r. o poręczeniach i gwaranc
 
 - 2003-07-17 | SN | [III CZP 43/03](https://www.saos.org.pl/judgments/82115) | Uchwała ★
 - 2018-11-28 | SO | [I ACa 1185/17](https://www.saos.org.pl/judgments/367305) | Wyrok
+
+## art. 81 (1)
+
+- 2024-06-27 | SO | [I AGa 114/24](https://www.saos.org.pl/judgments/546811) | Wyrok
 
 ## art. 353(1) (1)
 

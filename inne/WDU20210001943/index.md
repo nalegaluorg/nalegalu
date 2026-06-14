@@ -8,10 +8,10 @@ pos: 1943
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 października 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1943 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 28 września 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001943) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1943/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 28 września 2021 r.
 w sprawie postępowania kwalifikacyjnego do służby w Służbie Celno-Skarbowej Na podstawie art. 153 ust. 6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r.
-poz. 422, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 422, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy zakres informacji o postępowaniu kwalifikacyjnym do służby w Służbie Celno-Skarbowej, zwanym dalej „postępowaniem”, oraz sposób podawania ich do wiadomości;
 2) kryteria i szczegółowy tryb postępowania oraz zakres tematyczny testu wiedzy;
 3) zakres testu sprawności fizycznej;
@@ -61,11 +61,11 @@ poz. 422, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie o
 1) będąca członkiem zespołu, o którym mowa w ust. 2, albo
 2) niebędąca członkiem zespołu, o którym mowa w ust. 2, wyznaczona przez kierownika jednostki organizacyjnej.
 5. Rozmowa kwalifikacyjna jest przeprowadzana z udziałem psychologa. Jeżeli wśród członków zespołu, o którym mowa w ust. 2, nie ma psychologa, kierownik jednostki organizacyjnej wyznacza do przeprowadzenia rozmowy kwalifikacyjnej psychologa niebędącego członkiem tego zespołu.
-6. Kierownik jednostki organizacyjnej może zwrócić się o udzielenie pomocy w przeprowadzeniu testu psychologicznego oraz rozmowy kwalifikacyjnej do kierownika innej jednostki organizacyjnej. Sposób oraz zakres udzielenia pomocy kierownicy jednostek organizacyjnych uzgadniają w zależności od potrzeb i możliwości w zakresie zasobów kadrowych
+6. Kierownik jednostki organizacyjnej może zwrócić się o udzielenie pomocy w przeprowadzeniu testu psychologicznego oraz rozmowy kwalifikacyjnej do kierownika innej jednostki organizacyjnej. Sposób oraz zakres udzielenia pomocy kierownicy jednostek organizacyjnych uzgadniają w zależności od potrzeb i możliwości w zakresie zasobów kadrowych i organizacyjnych, którymi dysponuje kierownik jednostki organizacyjnej.
 7. Kierownik jednostki organizacyjnej, w porozumieniu z przewodniczącym zespołu, o którym mowa w ust. 2, może dodatkowo wyznaczyć co najmniej jedną osobę niebędącą członkiem zespołu do dokonania określonych czynności techniczno-obsługowych w trakcie przeprowadzania postępowania.
 § 5. Do postępowania nie może przystąpić kandydat do służby w Służbie Celno-Skarbowej, zwany dalej „kandydatem”, który w poprzednim postępowaniu nie uzyskał wyniku pozytywnego z:
 1) testu psychologicznego lub
-2) testu kompetencyjnego jeżeli od dnia przeprowadzenia testu do dnia, w którym upływa termin składania dokumentów, o którym mowa w § 2 ust. 1 pkt 6, nie upłynęło 12 miesięcy.
+2) testu kompetencyjnego – jeżeli od dnia przeprowadzenia testu do dnia, w którym upływa termin składania dokumentów, o którym mowa w § 2 ust. 1 pkt 6, nie upłynęło 12 miesięcy.
 § 6. 1. Kandydata zawiadamia się za pomocą poczty elektronicznej lub telefonicznie o:
 1) miejscu i terminie oraz wynikach kolejnych etapów postępowania;
 2) wskazaniu na liście, o której mowa w § 17 ust. 6, po jej zatwierdzeniu przez kierownika jednostki organizacyjnej;
@@ -81,9 +81,9 @@ poz. 422, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie o
 3. Na każde pytanie testowe można udzielić tylko jednej poprawnej odpowiedzi, za którą otrzymuje się 1 punkt. W przypadku braku odpowiedzi lub udzielenia niepoprawnej odpowiedzi otrzymuje się 0 punktów.
 § 11. 1. Test wiedzy przeprowadza się w wydzielonych pomieszczeniach pod nadzorem co najmniej:
 1) dwóch członków zespołu, o którym mowa w § 4 ust. 2, albo
-2) jednego członka zespołu, o którym mowa w § 4 ust. 2, oraz co najmniej jednej osoby, o której mowa w § 4 ust. 7 wyznaczonych przez przewodniczącego tego zespołu.
+2) jednego członka zespołu, o którym mowa w § 4 ust. 2, oraz co najmniej jednej osoby, o której mowa w § 4 ust. 7 – wyznaczonych przez przewodniczącego tego zespołu.
 2. Przed rozpoczęciem testu wiedzy sprawdza się tożsamość kandydatów oraz informuje się ich o warunkach organizacyjnych i zasadach oceniania testu wiedzy.
-3. Kandydat otrzymuje arkusze testu wiedzy w postaci papierowej opatrzone pieczęcią jednostki organizacyjnej Krajowej Administracji Skarbowej, do której jest prowadzone postępowanie. Uwzględnia się wyłącznie odpowiedzi udzielone na arkuszach testu wiedzy opatrzonych pieczęcią jednostki organizacyjnej Krajowej Administracji Skarbowej, do której jest
+3. Kandydat otrzymuje arkusze testu wiedzy w postaci papierowej opatrzone pieczęcią jednostki organizacyjnej Krajowej Administracji Skarbowej, do której jest prowadzone postępowanie. Uwzględnia się wyłącznie odpowiedzi udzielone na arkuszach testu wiedzy opatrzonych pieczęcią jednostki organizacyjnej Krajowej Administracji Skarbowej, do której jest prowadzone postępowanie.
 4. Z udziału w teście wiedzy wyklucza się kandydata, który w trakcie przeprowadzania tego testu porozumiewał się z innymi kandydatami, posługiwał się innymi arkuszami testu wiedzy niż arkusze określone w ust. 3, korzystał z urządzeń służących do przechowywania, przekazywania lub odbierania informacji, zakłócał przebieg testu wiedzy lub opuścił pomieszczenie, w którym przeprowadza się test wiedzy, wraz z otrzymanymi arkuszami testu wiedzy. Kierownik jednostki organizacyjnej kończy postępowanie wobec kandydata, który został wykluczony z udziału w teście wiedzy.
 5. W wyjątkowych przypadkach członek zespołu może wyrazić zgodę na opuszczenie przez kandydata pomieszczenia, w którym jest przeprowadzany test wiedzy. Na czas nieobecności kandydat przekazuje członkowi zespołu arkusze testu wiedzy.
 § 12. 1. Do testu psychologicznego przystępują kandydaci, którzy uzyskali co najmniej 16 punktów z testu wiedzy.
@@ -104,6 +104,7 @@ poz. 422, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie o
 2. Przy wystawianiu oceny z rozmowy kwalifikacyjnej uwzględnia się:
 1) umiejętność komunikowania się;
 2) motywację do podjęcia służby w Służbie Celno-Skarbowej;
+3) umiejętność funkcjonowania w warunkach stresu i pod presją czasu.
 3. Ocena kandydata w zakresie kryteriów, o których mowa w ust. 2, jest sporządzana przez każdego z członków zespołu, o którym mowa w § 4 ust. 2, oraz psychologa, o którym mowa w § 4 ust. 5.
 4. Za każde kryterium można przyznać od 1 do 3 punktów, przy czym:
 1) 1 punkt oznacza niski poziom spełniania kryterium;
@@ -122,8 +123,9 @@ poz. 422, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie o
 1) rezygnacji kandydata, który uzyskał orzeczenie o fizycznej i psychicznej zdolności do służby w Służbie Celno-Skarbowej,
 2) gdy kandydat, który uzyskał orzeczenie o fizycznej i psychicznej zdolności do służby w Służbie Celno-Skarbowej, nie spełnia wymogów określonych w art. 151 ustawy,
 3) zwolnienia funkcjonariusza ze służby w Służbie Celno-Skarbowej w okresie 12 miesięcy od dnia jego przyjęcia do tej służby,
-4) niezgłoszenia się kandydata do służby w Służbie Celno-Skarbowej w terminie do 6 miesięcy od dnia zawiadomienia go o wskazaniu na liście, o której mowa w § 17 ust. 6 kierownik jednostki organizacyjnej może przyjąć do służby w Służbie Celno-Skarbowej kandydata, który zajmował kolejne miejsce na liście, o której mowa w § 17 ust. 6. Przepisy § 18 ust. 2–4 stosuje się odpowiednio.
-§ 20. Kandydat, który został wskazany na liście, o której mowa w § 17 ust. 6, lecz nie został przyjęty do służby w Służbie Celno-Skarbowej, który w terminie 12 miesięcy od dnia zawiadomienia go o wskazaniu na liście, o której mowa w § 17 ust. 6, ubiega się ponownie o przyjęcie do służby w Służbie Celno-Skarbowej w tej samej jednostce organizacyjnej Krajo§ 21. 1. Dokumenty, o których mowa w § 2 ust. 1 pkt 5, złożone przez kandydata, który nie został wskazany na liście, o której mowa w § 17 ust. 6, z powodu zakończenia wobec niego postępowania, są niszczone po upływie 3 miesięcy od dnia zawiadomienia kandydata o zakończeniu postępowania.
+4) niezgłoszenia się kandydata do służby w Służbie Celno-Skarbowej w terminie do 6 miesięcy od dnia zawiadomienia go o wskazaniu na liście, o której mowa w § 17 ust. 6 – kierownik jednostki organizacyjnej może przyjąć do służby w Służbie Celno-Skarbowej kandydata, który zajmował kolejne miejsce na liście, o której mowa w § 17 ust. 6. Przepisy § 18 ust. 2–4 stosuje się odpowiednio.
+§ 20. Kandydat, który został wskazany na liście, o której mowa w § 17 ust. 6, lecz nie został przyjęty do służby w Służbie Celno-Skarbowej, który w terminie 12 miesięcy od dnia zawiadomienia go o wskazaniu na liście, o której mowa w § 17 ust. 6, ubiega się ponownie o przyjęcie do służby w Służbie Celno-Skarbowej w tej samej jednostce organizacyjnej Krajowej Administracji Skarbowej, nie bierze udziału w etapach postępowania, o których mowa w art. 153 ust. 1 pkt 2–4 ustawy.
+§ 21. 1. Dokumenty, o których mowa w § 2 ust. 1 pkt 5, złożone przez kandydata, który nie został wskazany na liście, o której mowa w § 17 ust. 6, z powodu zakończenia wobec niego postępowania, są niszczone po upływie 3 miesięcy od dnia zawiadomienia kandydata o zakończeniu postępowania.
 2. Dokumenty, o których mowa w § 2 ust. 1 pkt 5, złożone przez kandydata, który został wskazany na liście, o której mowa w § 17 ust. 6, i nie został przyjęty do służby w Służbie Celno-Skarbowej, są niszczone po upływie 2 lat od dnia zawiadomienia kandydata o wskazaniu na liście, o której mowa w § 17 ust. 6.
 § 22. Centralny Zespół powołany przez Szefa Krajowej Administracji Skarbowej przed dniem wejścia w życie rozporządzenia uznaje się za powołany na podstawie przepisów rozporządzenia do dnia upływu okresu, na który został powołany.
 § 23. Kierownik jednostki organizacyjnej wyznacza osoby do przeprowadzania postępowań w terminie 30 dni od dnia wejścia w życie rozporządzenia.
@@ -134,11 +136,11 @@ poz. 422, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie o
 4. Przepis § 20 stosuje się do listy kandydatów sporządzonej na podstawie przepisów dotychczasowych.
 § 26. Traci moc rozporządzenie Ministra Finansów z dnia 31 grudnia 2019 r. w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Celno-Skarbowej (Dz. U. z 2020 r. poz. 2).
 § 27. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 września 2021 r. (poz. .....) Załącznik nr 1 WZÓR Nr ewidencyjny: KWESTIONARIUSZ OSOBOWY wypełnia kandydat do służby w Służbie Celno-Skarbowej
+Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 września 2021 r. (poz. .....) Załącznik nr 1 WZÓR WZÓR Nr ewidencyjny: KWESTIONARIUSZ OSOBOWY – wypełnia kandydat do służby w Służbie Celno-Skarbowej –
 1. W niniejszym kwestionariuszu należy zawrzeć wszystkie informacje, które są niezbędne w postępowaniu kwalifikacyjnym do służby w Służbie Celno-Skarbowej. Na poniższe pytania proszę udzielić wyczerpujących odpowiedzi zgodnych ze stanem faktycznym. Dane zawarte w kwestionariuszu mogą podlegać sprawdzeniu.
 Kwestionariusz osobowy nie podlega zwrotowi.
 2. Kwestionariusz osobowy należy wypełnić pismem drukowanym
-3. Kwestionariusz składa się z następujących części: Pouczenie wypełnia jednostka organizacyjna Krajowej Administracji Skarbowej, do której prowadzone jest postępowanie kwalifikacyjne. Pouczenie zawiera informację dotyczącą administratora danych oraz inspektora ochrony danych.
+3. Kwestionariusz składa się z następujących części: Pouczenie – wypełnia jednostka organizacyjna Krajowej Administracji Skarbowej, do której prowadzone jest postępowanie kwalifikacyjne. Pouczenie zawiera informację dotyczącą administratora danych oraz inspektora ochrony danych.
 4. Pouczenie: Dane osobowe są przetwarzane zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) (dalej: RODO).
 1. Administrator danych i kontakt do niego: Administratorem Pana/Pani danych osobowych jest ………………………….………………........…. z siedzibą w …………………….…... (dokładny adres). Kontakt pod adresem e-mail: …………………….…….….. lub pocztą tradycyjną na powyższy adres.
 2. Kontakt do inspektora ochrony danych osobowych: W sprawach dotyczących przetwarzania danych osobowych można kontaktować się z Inspektorem Ochrony Danych drogą elektroniczną na adres e-mail: ………………………….…………….
@@ -149,9 +151,8 @@ Kwestionariusz osobowy nie podlega zwrotowi.
 1) prawo dostępu do swoich danych oraz otrzymania ich kopii,
 2) prawo do sprostowania (poprawiania) swoich danych osobowych,
 3) prawo do ograniczenia przetwarzania danych osobowych,
-4) prawo do usunięcia danych osobowych żądanie realizacji tych praw należy przesłać w formie pisemnej na adres kontaktowy administratora danych podany powyżej;
-5) prawo do wniesienia skargi do organu nadzorczego Prezesa Urzędu Ochrony Danych Osobowych (ul. Stawki 2, 00-193 Warszawa).
-WZÓR
+4) prawo do usunięcia danych osobowych – żądanie realizacji tych praw należy przesłać w formie pisemnej na adres kontaktowy administratora danych podany powyżej;
+5) prawo do wniesienia skargi do organu nadzorczego – Prezesa Urzędu Ochrony Danych Osobowych (ul. Stawki 2, 00-193 Warszawa).
 7. Podstawa prawna przetwarzania danych:
 1) art. 6 ust. 1 lit. b i c RODO;
 2) art. 151 i art. 153 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r.
@@ -176,9 +177,9 @@ b) imiona rodziców ............................................................
 7. Adres poczty elektronicznej: ……………………………………….………………………………………………
 8. Telefon kontaktowy: ……………………………………………………………………..…………………………
 9. Numer ewidencyjny (PESEL) ................................................................................................................................
-10. W przypadku gdy został wydany paszport seria, numer, data wydania oraz data ważności paszportu ............................................................................................................................................................................
+10. W przypadku gdy został wydany paszport – seria, numer, data wydania oraz data ważności paszportu ............................................................................................................................................................................
 11. Wykształcenie Posiadane wykształcenie: ...............................................................................................................................................
-Nazwa uczelni/szkoły ( Uzyskany tytuł Okres nauki Kierunek/ zawodowy / tytuł (od–do) specjalność naukowy / stopień naukowy
+Uzyskany tytuł Nazwa uczelni/szkoły ( Okres nauki Kierunek/ zawodowy / tytuł (od–do) specjalność naukowy / stopień naukowy
 12. Wykształcenie uzupełniające Uzyskany tytuł Nazwa uczelni/szkoły/kursu Okres nauki Kierunek/ zawodowy / tytuł (od–do) specjalność naukowy / stopień naukowy
 13. Kwalifikacje zawodowe dodatkowe
 a) umiejętność obsługi komputera (znajomość programów) □ MS Word □ MS Excel □ Power Point □ MS Access inne programy.................................................................................................................................................................
@@ -235,19 +236,19 @@ Wynik testu: ............................. Izba Administracji Skarbowej w ......
 
 ## CZĘŚĆ II
 
-## Załącznik nr 2 — Zakres testu sprawności fizycznej dla kandydatów do służby w Służbie Celno-Skarbowej oraz sposób oceny jego wyników Rodzaje ćwiczeń dla kandydatów do służby w Służbie Celno-Skarbowej, normy i wymogi ich spełnienia
+## Załącznik nr 2 — Zakres testu ZAKRES sprawności TESTU fizycznej SPRAWNOśCI dla kandydatów FIZyCZNEJ DLA do służby KANDyDATóW w Służbie DO Celno-Skarbowej SłUżBy W SłUżBIE CELNO-SKARBOWEJ oraz sposób oceny ORAZ jego SPOSóB wyników OCENy JEgO WyNIKóW Rodzaje ćwiczeń dla kandydatów do służby w Służbie Celno-Skarbowej, normy i wymogi ich spełnienia
 
 1. Opis ćwiczeń:
 1) SIŁA MIĘŚNI RAMION: UGINANIE RAMION W PODPORZE LEŻĄC PRZODEM Miejsce: hala sportowa / sala gimnastyczna lub stadion/boisko Ocena: liczba prawidłowo wykonanych powtórzeń Sposób wykonania: Z podporu, leżąc przodem (kobiety z oparciem kolan o podłoże), ćwiczący (na sygnał prowadzącego) ugina ręce w stawach łokciowych i barkowych tak, aby znalazły się co najmniej na wysokości łokci (tułów wyprostowany), po czym dokonuje wyprostu, aż do uzyskania pozycji wyjściowej (pełny wyprost w stawach łokciowych). Oceniający głośno wymienia kolejno liczbę prawidłowo wykonanych powtórzeń. Jeżeli kandydat nie wykona ćwiczenia zgodnie z opisem, oceniający powtarza ostatnią liczbę zaliczonych ugięć ramion. W trakcie ćwiczenia nie wolno wykonywać przerw odpoczynkowych.
 2) SIŁA MIĘŚNI BRZUCHA: SKŁONY TUŁOWIA W PRZÓD Z LEŻENIA TYŁEM Miejsce: hala sportowa / sala gimnastyczna lub stadion/boisko Sprzęt: materac, stoper Ocena: liczba poprawnych skłonów wykonanych w czasie 30 sek.
 Sposób wykonania: Ćwiczenie wykonywane jest przy pomocy partnera lub drabinek gimnastycznych. W leżeniu na materacu na plecach, nogi ugięte w kolanach pod kątem około 90 stopni, stopy równolegle do siebie w odległości około 30 cm, ręce splecione palcami i ułożone z tyłu na głowie. Partner klęka przy stopach leżącego i przyciska je tak, aby całą podeszwą dotykały do materaca, lub stopy oparte o dolny szczebel drabinek gimnastycznych. Leżący na sygnał wykonuje skłon tułowia w przód, dotyka łokciami kolan i natychmiast powraca do leżenia tak, aby umożliwić splecionym palcom kontakt z podłożem, i ponownie wykonuje skłon. Oceniający głośno wymienia kolejno liczbę prawidłowo wykonanych powtórzeń. Jeżeli kandydat nie wykona ćwiczenia zgodnie z opisem, oceniający powtarza ostatnią liczbę zaliczonych skłonów.
 W trakcie wykonywania ćwiczenia nie wolno unosić bioder.
-3) WYTRZYMAŁOŚĆ: BIEG 600 m KOBIETY, 1000 m MĘŻCZYŹNI Miejsce: Ćwiczenie najlepiej przeprowadzić na bieżni lekkoatletycznej. Jeżeli nie ma możliwości korzystania z bieżni, bieg można wykonać na równym, twardym podłożu.
-ZAKRES TESTU SPRAWNOśCI FIZyCZNEJ DLA KANDyDATóW DO Sł UżBy W Sł UżBIE CELNO-SKARBOWEJ ORAZ SPOSóB OCENy JEgO WyNIKóW Trasa powinna być płaska i w dobrym stanie. Wskazane jest wówczas wytyczenie zamkniętego toru o odpowiedniej długości.
+3) WYTRZYMAŁOŚĆ: BIEG 600 m – KOBIETY, 1000 m – MĘŻCZYŹNI Miejsce: Ćwiczenie najlepiej przeprowadzić na bieżni lekkoatletycznej. Jeżeli nie ma możliwości korzystania z bieżni, bieg można wykonać na równym, twardym podłożu.
+Trasa powinna być płaska i w dobrym stanie. Wskazane jest wówczas wytyczenie zamkniętego toru o odpowiedniej długości.
 Sprzęt: stoper, taśma miernicza Ocena: Wynik próby stanowi uzyskany przez ćwiczącego czas z dokładnością do 1 sek.
 Sposób wykonania: Ćwiczący staje w dowolnej pozycji w odległości około 1 m od linii startu. Na komendę „na miejsca” przyjmuje pozycję startową wysoką przed linią startu.
 Na komendę „start” lub sygnał dźwiękowy ćwiczący rozpoczyna bieg po wyznaczonej trasie i pokonuje dystans w jak najkrótszym czasie. Próbę wykonuje się jeden raz.
-2. Tabele norm sprawnościowych kandydatów do służby w Służbie Celno-Skarbowej KOBIETY Nazwa ćwiczenia Grupa Jednostki Liczba punktów uzyskanych za Lp. wiekowa określoną liczbę powtórzeń oraz miary czas biegu 5 4 3 1 Uginanie ramion do 30 lat 11 7 4 w podporze leżąc powtórzenia przodem (kolana oparte o podłoże) powyżej 9 5 3 30 do 40 powtórzenia lat powyżej 6 4 2 40 lat powtórzenia 2 Skłony tułowia do 30 lat 16 13 10 w przód z leżenia powtórzenia tyłem w ciągu 30 sek. powyżej 30 do 40 lat 14 11 8 powtórzenia powyżej 12 9 6 40 lat powtórzenia 3 Bieg na 600 m do 30 lat minuty 3,15 3,30 3,45 powyżej minuty 3,25 3,40 3,55 30 do 40 lat powyżej minuty 3,35 3,50 4,05 40 lat MĘŻCZYŹNI Nazwa ćwiczenia Grupa Jednostki Liczba punktów uzyskanych za Lp. wiekowa określoną liczbę powtórzeń oraz miary czas biegu 5 4 3 1 Uginanie ramion do 30 lat 26 22 19 w podporze leżąc powtórzenia przodem powyżej 22 18 14 30 do 40 powtórzenia lat powyżej 17 12 8 40 lat powtórzenia 2 Skłony tułowia do 30 lat 25 21 15 w przód z leżenia powtórzenia tyłem w ciągu 30 sek. powyżej 23 17 13 30 do 40 powtórzenia lat powyżej 19 13 9 40 lat powtórzenia 3 Bieg na 1000 m do 30 lat minuty 4,30 4,45 5,05 powyżej minuty 4,50 5,05 5,20 30 do 40 lat powyżej minuty 5,05 5,20 5,40 40 lat
+2. Tabele norm sprawnościowych kandydatów do służby w Służbie Celno-Skarbowej KOBIETY Nazwa ćwiczenia Grupa Jednostki Liczba punktów uzyskanych za Lp. wiekowa określoną liczbę powtórzeń oraz miary czas biegu 5 4 3 1 Uginanie ramion do 30 lat 11 7 4 w podporze leżąc powtórzenia przodem (kolana oparte o podłoże) powyżej 9 5 3 30 do 40 powtórzenia lat powyżej 6 4 2 40 lat powtórzenia 2 Skłony tułowia do 30 lat 16 13 10 w przód z leżenia powtórzenia tyłem w ciągu 30 sek. powyżej 14 11 8 30 do 40 powtórzenia lat powyżej 12 9 6 40 lat powtórzenia 3 Bieg na 600 m do 30 lat minuty 3,15 3,30 3,45 powyżej minuty 3,25 3,40 3,55 30 do 40 lat powyżej minuty 3,35 3,50 4,05 40 lat MĘŻCZYŹNI Nazwa ćwiczenia Grupa Jednostki Liczba punktów uzyskanych za Lp. wiekowa określoną liczbę powtórzeń oraz miary czas biegu 5 4 3 1 Uginanie ramion do 30 lat 26 22 19 w podporze leżąc powtórzenia przodem powyżej 22 18 14 30 do 40 powtórzenia lat powyżej 17 12 8 40 lat powtórzenia 2 Skłony tułowia do 30 lat 25 21 15 w przód z leżenia powtórzenia tyłem w ciągu 30 sek. powyżej 23 17 13 30 do 40 powtórzenia lat powyżej 19 13 9 40 lat powtórzenia 3 Bieg na 1000 m do 30 lat minuty 4,30 4,45 5,05 powyżej minuty 4,50 5,05 5,20 30 do 40 lat powyżej minuty 5,05 5,20 5,40 40 lat
 3. Sposób oceny wyników testu sprawności fizycznej kandydatów do służby w Służbie Celno-Skarbowej Liczbę uzyskanych przez kandydata do służby w Służbie Celno-Skarbowej punktów z testu sprawności fizycznej stanowi suma punktów uzyskanych z trzech wykonanych ćwiczeń.
 W przypadku wykonania przez kandydata ćwiczenia na poziomie niższym niż 3 punkty lub rezygnacji z wykonania ćwiczenia kandydat otrzymuje 0 punktów. Maksymalna możliwa do uzyskania liczba punktów za wykonanie trzech ćwiczeń wynosi 15.
 

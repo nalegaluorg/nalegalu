@@ -8,10 +8,10 @@ pos: 1003
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1003 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 21 maja 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1003/text.pdf) |
 
-Poz. 1003 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 21 maja 2020 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie formy oraz sposobu sporządzenia przez zakłady ubezpieczeń i zakłady reasekuracji danych i informacji do celów nadzoru
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 22 lutego 2016 r. w sprawie formy oraz sposobu sporządzenia przez zakłady ubezpieczeń i zakłady reasekuracji danych i informacji do celów nadzoru (Dz. U. poz. 236), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 4 lipca 2019 r. zmieniającym rozporządzenie w sprawie formy oraz sposobu sporządzenia przez zakłady ubezpieczeń i zakłady reasekuracji danych i informacji do celów nadzoru (Dz. U.
 poz. 1306).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 4 lipca 2019 r. zmieniającego rozporządzenie w sprawie formy oraz sposobu sporządzenia przez zakłady ubezpieczeń i zakłady reasekuracji danych i informacji do celów nadzoru (Dz. U. poz. 1306), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: T. Kościński Dziennik Ustaw – 2 – Poz. 1003 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 22 lutego 2016 r.
-w sprawie formy oraz sposobu sporządzenia przez zakłady ubezpieczeń i zakłady reasekuracji danych i informacji do celów nadzoru Na podstawie art. 335 ust. 11 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895) zarządza się, co następuje: § 1. Rozporządzenie określa formę oraz sposób sporządzenia danych i informacji, o których mowa w art. 304 rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1), zwanego dalej „rozporządzeniem delegowanym Komisji (UE) 2015/35”.
+Minister Finansów: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 22 lutego 2016 r.
+w sprawie formy oraz sposobu sporządzenia przez zakłady ubezpieczeń i zakłady reasekuracji danych i informacji do celów nadzoru Na podstawie art. 335 ust. 11 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895) zarządza się, co następuje:
+§ 1. Rozporządzenie określa formę oraz sposób sporządzenia danych i informacji, o których mowa w art. 304 rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1), zwanego dalej „rozporządzeniem delegowanym Komisji (UE) 2015/35”.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
 1) zakładzie ubezpieczeń – rozumie się przez to krajowy zakład ubezpieczeń oraz główny oddział zagranicznego zakładu ubezpieczeń;
 2) zakładzie reasekuracji – rozumie się przez to krajowy zakład reasekuracji oraz główny oddział zagranicznego zakładu reasekuracji.

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 15 listopada 1984 r. o podatku rolnym.*
 
 Łącznie: **75** orzeczeń
-(pominięto 92 orzeczeń sądów rejonowych)
+(pominięto 93 orzeczeń sądów rejonowych)
 
 ## art. 1 (28)
 

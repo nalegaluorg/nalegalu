@@ -8,12 +8,10 @@ pos: 373
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach zarządzania mieniem państwowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +29,7 @@ source: "isap-pdf"
 1) ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834);
 2) ustawą z dnia 19 listopada 2024 r. o likwidacji Fundacji Platforma Przemysłu Przyszłości (Dz. U. poz. 1823);
 3) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897);
-4) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
+4) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
 poz. 1940);
 5) ustawą z dnia 9 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 160).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
@@ -42,11 +40,54 @@ poz. 1940);
 
 **Art. 84.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 
+- **1)** art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
+- **2)** art. 9 ustawy z dnia 19 listopada 2024 r. o likwidacji Fundacji Platforma Przemysłu Przyszłości (Dz. U. poz. 1823), który stanowi: „Art. 9. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 6 i art. 8, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
+- **3)** art. 41 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
+- **1)** art. 12, art. 15, art. 19 i art. 40, które wchodzą w życie z dniem 30 grudnia 2024 r.;
+- **2)** art. 9 pkt 14 i 15 oraz art. 28 ust. 5 i 6, które wchodzą w życie z dniem 16 stycznia 2025 r.;
+- **3)** art. 2 pkt 3 i 4 oraz art. 35, które wchodzą w życie z dniem 1 września 2025 r.;
+- **4)** art. 9 pkt 7 lit. b–e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r.”;
+- **4)** art. 34 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1940), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r.”;
+- **5)** art. 32 i art. 35 ustawy z dnia 9 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 160), które stanowią: „Art. 32. 1. Z dniem wejścia w życie niniejszej ustawy minister właściwy do spraw aktywów państwowych wstępuje we wszystkie prawa i obowiązki Szefa Kancelarii Prezesa Rady Ministrów wynikające z art. 114 ust. 3 i 4 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260, z 2018 r. poz. 1669 i 2159 oraz z 2019 r. poz. 730) dotyczące Zintegrowanego Systemu Informatycznego.
+
+2. W terminie niedłuższym niż 5 miesięcy od dnia wejścia w życie niniejszej ustawy Szef Kancelarii Prezesa Rady Ministrów przekaże ministrowi właściwemu do spraw aktywów państwowych składniki majątkowe oraz dokumenty dotyczące Zintegrowanego Systemu Informatycznego na podstawie protokołu zdawczo-odbiorczego.
+
+3. Minister właściwy do spraw aktywów państwowych zapewni dostęp do danych zgromadzonych w Zintegrowanym Systemie Informatycznym, w tym danych osobowych:
+
+- **1)** Prezesowi Rady Ministrów w zakresie niezbędnym do wykonywania przez Prezesa Rady Ministrów zadań, o których mowa w art. 7 ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940);
+- **2)** podmiotom, o których mowa w art. 8 ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, w zakresie niezbędnym do wykonywania przez te podmioty uprawnień przekazanych przez Radę Ministrów, oraz
+- **3)** podmiotom i organom, które wykonują prawa z akcji lub udziałów należących do Skarbu Państwa, w zakresie niezbędnym do wykonywania przez te podmioty i organy praw z akcji lub udziałów należących do Skarbu Państwa.
+
+4. Do czasu określenia przez ministra właściwego do spraw aktywów państwowych sposobu udostępniania danych, o których mowa w ust. 3, udostępnianie tych danych odbywa się na podstawie dotychczasowych zasad.
+
+5. Z dniem wejścia w życie niniejszej ustawy urzędem, któremu minister właściwy do spraw gospodarki może powierzyć, w drodze porozumienia, wykonywanie zadań, o których mowa w art. 109a ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym, staje się urząd obsługujący ministra właściwego do spraw aktywów państwowych.” „Art. 35. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 33 ust. 2 i 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady zarządzania mieniem państwowym, w zakresie nieuregulowanym w przepisach szczególnych.
 
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** spółce – należy przez to rozumieć spółkę handlową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187), spółkę europejską w rozumieniu ustawy z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. z 2022 r. poz. 259 oraz z 2025 r. poz. 1556) oraz spółkę działającą zgodnie z przepisami prawa obcego;
+- **1a)** akcjonariuszu – należy przez to rozumieć akcjonariusza w spółce akcyjnej, akcjonariusza w prostej spółce akcyjnej, akcjonariusza w spółce komandytowo-akcyjnej, akcjonariusza w spółce europejskiej, wspólnika w spółce z ograniczoną odpowiedzialnością oraz wspólnika w spółce działającej zgodnie z przepisami prawa obcego, który nie odpowiada za zobowiązania tej spółki;
+- **2)** akcjach – należy przez to rozumieć akcje w spółce akcyjnej, akcje w prostej spółce akcyjnej, akcje w spółce komandytowo-akcyjnej, akcje w spółce europejskiej lub udziały w spółce z ograniczoną odpowiedzialnością;
+- **3)** statucie – należy przez to rozumieć statut, umowę spółki lub akt założycielski;
+- **4)** walnym zgromadzeniu – należy przez to rozumieć walne zgromadzenie lub zgromadzenie wspólników;
+- **4a)** podmiocie uprawnionym do wykonywania praw z akcji należących do Skarbu Państwa – należy przez to rozumieć pełnomocnika Rządu, państwową osobę prawną, w tym jednoosobową spółkę Skarbu Państwa, organ administracji rządowej lub inną jednostkę uprawnioną do wykonywania praw z akcji należących do Skarbu Państwa;
+- **5)** członku organu zarządzającego – należy przez to rozumieć członka zarządu spółki kapitałowej, dyrektora w prostej spółce akcyjnej, członka rady administrującej w spółce europejskiej uprawnionego do prowadzenia spraw spółki europejskiej, członka wykonawczego rady dyrektorów lub członka organu zarządzającego spółki działającej zgodnie z przepisami prawa obcego, a także likwidatora w spółce lub członka organu zarządzającego państwowej osoby prawnej;
+- **6)** członku organu nadzorczego – należy przez to rozumieć członka rady nadzorczej spółki, członka komisji rewizyjnej spółki, członka rady administrującej nieuprawnionego do prowadzenia spraw spółki europejskiej, członka niewykonawczego rady dyrektorów lub członka organu nadzorczego spółki działającej zgodnie z przepisami prawa obcego, a także członka organu nadzorczego państwowej osoby prawnej;
+- **6a)** pełnomocniku wspólnika – należy przez to rozumieć pełnomocnika wspólnika, o którym mowa w art. 11 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2025 r. poz. 1478 i 1840);
+- **7)** kierowniku jednostki – należy przez to rozumieć dyrektora generalnego urzędu, kierownika urzędu – w urzędach, w których nie tworzy się stanowiska dyrektora generalnego urzędu, lub osobę, która na podstawie przepisów odrębnych jest odpowiedzialna za gospodarowanie mieniem Skarbu Państwa powierzonym jednostce budżetowej;
+- **8)** spółce realizującej misję publiczną – należy przez to rozumieć: poz. 595 oraz z 2026 r. poz. 176), – spółkę będącą zarządzającym specjalną strefą ekonomiczną, o której mowa w ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604 oraz z 2025 r. poz. 1173), – zarządcę infrastruktury w rozumieniu art. 4 pkt 7 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz. 1234 oraz z 2026 r. poz. 41), – Zarządcę Rozliczeń Spółka Akcyjna, o której mowa w ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311 oraz z 2026 r. poz. 176), – Korporację Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna, o której mowa w ustawie z dnia 7 lipca 1994 r. o ubezpieczeniach gwarantowanych przez Skarb Państwa (Dz. U. z 2026 r. poz. 146), – podmiot zarządzający portem morskim w rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796 oraz z 2026 r. poz. 176), – drogową spółkę specjalnego przeznaczenia, utworzoną na podstawie ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia (Dz. U. z 2021 r. poz. 1469 oraz z 2026 r. poz. 176),
+    - **a)** spółkę, której przedmiot działalności albo cel działania został określony ustawą, w szczególności: – jednostkę publicznej radiofonii i telewizji, – spółkę zarządzającą lotniskiem użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176), – operatora systemu przesyłowego, operatora systemu dystrybucyjnego, operatora systemu magazynowania, operatora systemu skraplania gazu ziemnego, operatora systemu połączonego oraz operatora sieci transportowej dwutlenku węgla w rozumieniu art. 3 pkt 24–28a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43), – spółkę, o której mowa w art. 5 ust. 2 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2025 r.
+    - **b)** Polski Fundusz Rozwoju Spółka Akcyjna z siedzibą w Warszawie,
+    - **c)** Agencję Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie,
+    - **d)** Polską Agencję Inwestycji i Handlu Spółka Akcyjna;
+    - **e)** (uchylona)
+    - **f)** Fundusz Transformacji Województwa Śląskiego Spółkę Akcyjną z siedzibą w Katowicach;
+
+- **9)** pełnomocniku Rządu – należy przez to rozumieć pełnomocnika Rządu ustanowionego na podstawie art. 10 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160), Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej, o którym mowa w art. 12a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego, o którym mowa w art. 4 ust. 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531).
 
 **Art. 3.**
 
@@ -84,7 +125,7 @@ poz. 1940);
 - **11c)** Instytut Europy Środkowej;
 - **11d)** Instytut Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego;
 - **12)** Międzynarodowy Instytut Biologii Molekularnej i Komórkowej w Warszawie;
-- **12a)** federacje podmiotów systemu szkolnictwa wyższego i nauki, o których mowa w art. 165 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **12a)** federacje podmiotów systemu szkolnictwa wyższego i nauki, o których mowa w art. 165 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
 - **13)** samodzielny publiczny zakład opieki zdrowotnej, dla którego podmiotem tworzącym jest Skarb Państwa reprezentowany przez ministra, centralny organ administracji rządowej albo wojewodę, uczelnia publiczna, o której mowa w pkt 10, albo Centrum Medycznego Kształcenia Podyplomowego;
 - **14)** park narodowy;
 - **15)** przedsiębiorstwo państwowe;
@@ -166,9 +207,9 @@ poz. 1940);
 
 5. W sprawach roszczeń z innych tytułów Skarb Państwa reprezentowany jest przez organ jednostki organizacyjnej, z której działalnością wiąże się roszczenie.
 
-6. W przypadku likwidacji państwowej jednostki budżetowej, w tym uzyskania przez nią osobowości prawnej lub przejęcia jej przez jednostkę samorządu terytorialnego, w sprawach związanych z jej działalnością Skarb Państwa reprezentuje kierownik jednostki, której zakres zadań obejmuje zadania zlikwidowanej jednostki, a w przypadku braku takiej jednostki wojewoda właściwy ze względu na siedzibę zlikwidowanej jednostki.
+6. W przypadku likwidacji państwowej jednostki budżetowej, w tym uzyskania przez nią osobowości prawnej lub przejęcia jej przez jednostkę samorządu terytorialnego, w sprawach związanych z jej działalnością Skarb Państwa reprezentuje kierownik jednostki, której zakres zadań obejmuje zadania zlikwidowanej jednostki, a w przypadku braku takiej jednostki – wojewoda właściwy ze względu na siedzibę zlikwidowanej jednostki.
 
-7. Do czynności prawnych dokonanych z naruszeniem przepisów o właściwości i zakresie reprezentacji Skarbu Państwa stosuje się odpowiednio przepis art. 103 § 1 i 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184).
+7. Do czynności prawnych dokonanych z naruszeniem przepisów o właściwości i zakresie reprezentacji Skarbu Państwa stosuje się odpowiednio przepis art. 103 § 1 i 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184).
 
 #### Rozdział 2 Wykonywanie praw z akcji
 
@@ -201,7 +242,7 @@ poz. 1940);
 2. Rada Ministrów określi, w drodze rozporządzenia, wykaz spółek, w których uprawnienia, o których mowa w ust. 1, wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa, wskazując odrębnie dla każdej spółki:
 
 - **1)** podmiot, o którym mowa w ust. 1, właściwy do wykonywania w stosunku do tej spółki przekazanych uprawnień,
-- **2)** zakres przekazanych uprawnień uwzględniając przedmiot działalności spółki, a także właściwość członka Rady Ministrów wynikającą w szczególności z ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846 oraz z 2026 r. poz. 160 i 187) lub zadania Prezesa Rady Ministrów w zakresie koordynacji pracy członków Rady Ministrów, zakres zadań pełnomocnika Rządu lub przedmiot działalności państwowej osoby prawnej, w tym jednoosobowej spółki Skarbu Państwa.
+- **2)** zakres przekazanych uprawnień – uwzględniając przedmiot działalności spółki, a także właściwość członka Rady Ministrów wynikającą w szczególności z ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846 oraz z 2026 r. poz. 160 i 187) lub zadania Prezesa Rady Ministrów w zakresie koordynacji pracy członków Rady Ministrów, zakres zadań pełnomocnika Rządu lub przedmiot działalności państwowej osoby prawnej, w tym jednoosobowej spółki Skarbu Państwa.
 
 3. Prezes Rady Ministrów lub inny członek Rady Ministrów, pełnomocnik Rządu lub państwowa osoba prawna, w tym jednoosobowa spółka Skarbu Państwa, którym Rada Ministrów przekazała wykonywanie uprawnień, o których mowa w ust. 1, mogą zlecać, z zachowaniem zasad i trybu określonych w odrębnych przepisach, osobom prawnym lub fizycznym dokonywanie określonych czynności prawnych lub faktycznych lub rodzajów czynności prawnych lub faktycznych w zakresie, w jakim przekazano im wykonywanie uprawnień, udzielając w tym zakresie pełnomocnictw.
 
@@ -227,16 +268,16 @@ poz. 1940);
 
 2. W spółce realizującej misję publiczną wykonywanie praw z akcji należących do Skarbu Państwa lub państwowej osoby prawnej odbywa się na zasadach prawidłowej gospodarki, w szczególności w celu efektywnej realizacji misji publicznej realizowanej przez tę spółkę.
 
-3. Przepisy działu IV w tytule I ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące spółki dominującej stosuje się odpowiednio do przedsiębiorcy będącego państwową osobą prawną.
+3. Przepisy działu IV w tytule I ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące spółki dominującej stosuje się odpowiednio do przedsiębiorcy będącego państwową osobą prawną.
 
-4. Przepisów działu IV w tytule I ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczących spółki dominującej nie stosuje się do Skarbu Państwa.
+4. Przepisów działu IV w tytule I ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczących spółki dominującej nie stosuje się do Skarbu Państwa.
 
 **Art. 9a.**
 
 1. Skarb Państwa może nabywać akcje w celu:
 
 - **1)** realizacji polityki społecznej lub gospodarczej państwa;
-- **2)** zwiększenia swojego udziału w kapitale zakładowym spółki, a w przypadku prostej spółki akcyjnej w ogólnej liczbie akcji;
+- **2)** zwiększenia swojego udziału w kapitale zakładowym spółki, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji;
 - **3)** podejmowania środków służących ochronie podstawowych interesów bezpieczeństwa Rzeczypospolitej Polskiej, o których mowa w art. 346 Traktatu o funkcjonowaniu Unii Europejskiej.
 
 2. Cena za nabywane akcje nie może być wyższa niż ich wartość rynkowa, wynikająca ze sporządzonej wyceny mającej na celu oszacowanie wartości przedsiębiorstwa spółki, której akcje mają zostać nabyte przez Skarb Państwa.
@@ -251,7 +292,7 @@ poz. 1940);
 
 2. Objęcie przez Skarb Państwa akcji w celach określonych w ust. 1 pkt 1 i 2 może nastąpić, jeżeli jest dokonywane na warunkach akceptowalnych dla inwestora prywatnego, chyba że jest ono dokonywane w ramach udzielania dozwolonej pomocy publicznej.
 
-**Art. 10.** Do akcji należących do Skarbu Państwa nie stosuje się przepisów art. 21 , art. 199, art. 300 , art. 300 i art. 359, w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+**Art. 10.** Do akcji należących do Skarbu Państwa nie stosuje się przepisów art. 21 , art. 199, art. 300 , art. 300 i art. 359, w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 **Art. 11.**
 
@@ -262,13 +303,13 @@ poz. 1940);
 2a. Wniosek o zgodę, o której mowa w ust. 2, w przypadku gdy akcje lub prawa z akcji w imieniu Skarbu Państwa zbywa państwowa osoba prawna, w tym jednoosobowa spółka Skarbu Państwa, lub inna jednostka uprawniona do wykonywania praw z akcji należących do Skarbu Państwa, składa:
 
 - **1)** organ nadzorujący państwową osobę prawną lub inną jednostkę uprawnioną do wykonywania praw z akcji należących do Skarbu Państwa;
-- **2)** podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w przypadku gdy akcje lub prawa z akcji zbywa jednoosobowa spółka Skarbu Państwa;
-- **3)** minister kierujący działem administracji rządowej właściwy ze względu na przedmiot działalności państwowej osoby prawnej lub innej jednostki uprawnionej do wykonywania praw z akcji należących do Skarbu Państwa w przypadku gdy państwowa osoba prawna lub inna jednostka uprawniona do wykonywania praw z akcji należących do Skarbu Państwa nie posiada organu nadzorującego.
+- **2)** podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa – w przypadku gdy akcje lub prawa z akcji zbywa jednoosobowa spółka Skarbu Państwa;
+- **3)** minister kierujący działem administracji rządowej właściwy ze względu na przedmiot działalności państwowej osoby prawnej lub innej jednostki uprawnionej do wykonywania praw z akcji należących do Skarbu Państwa – w przypadku gdy państwowa osoba prawna lub inna jednostka uprawniona do wykonywania praw z akcji należących do Skarbu Państwa nie posiada organu nadzorującego.
 
 3. Przepisu ust. 2 nie stosuje się do:
 
-- **1)** wniesienia akcji należących do Skarbu Państwa do spółki, której akcjonariuszami są wyłącznie Skarb Państwa lub inne państwowe osoby prawne, lub do spółki, o której mowa w art. 13 ust. 1, w zamian za objęcie akcji w podwyższonym kapitale zakładowym tej spółki, a w przypadku prostej spółki akcyjnej w zamian za objęcie nowych akcji tej spółki;
-- **2)** zbycia akcji lub praw z akcji spółek, w których Skarb Państwa posiada niewięcej niż 20 % kapitału zakładowego, a w przypadku prostej spółki akcyjnej niewięcej niż 20 % ogólnej liczby akcji, chyba że ich wartość rynkowa przekracza 10 000 000 złotych;
+- **1)** wniesienia akcji należących do Skarbu Państwa do spółki, której akcjonariuszami są wyłącznie Skarb Państwa lub inne państwowe osoby prawne, lub do spółki, o której mowa w art. 13 ust. 1, w zamian za objęcie akcji w podwyższonym kapitale zakładowym tej spółki, a w przypadku prostej spółki akcyjnej – w zamian za objęcie nowych akcji tej spółki;
+- **2)** zbycia akcji lub praw z akcji spółek, w których Skarb Państwa posiada niewięcej niż 20 % kapitału zakładowego, a w przypadku prostej spółki akcyjnej – niewięcej niż 20 % ogólnej liczby akcji, chyba że ich wartość rynkowa przekracza 10 000 000 złotych;
 - **3)** zbycia akcji lub praw z akcji spółek w upadłości;
 - **4)** (uchylony)
 - **5)** zbycia akcji na rzecz państwowej osoby prawnej;
@@ -280,8 +321,8 @@ poz. 1940);
 1. Występując z wnioskiem o zgodę, o której mowa w art. 11 ust. 2, podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa wskazuje:
 
 - **1)** opis procedury wyłaniania nabywcy, w tym proponowany tryb zbycia;
-- **2)** w przypadku sprzedaży lub zamiany cenę lub sposób jej ustalenia oraz sposób zapłaty lub wartość oraz sposób spełnienia świadczenia wzajemnego;
-- **3)** w przypadku zbycia w inny sposób, niż określony w pkt 2 wartość rynkową lub sposób jej ustalenia;
+- **2)** w przypadku sprzedaży lub zamiany – cenę lub sposób jej ustalenia oraz sposób zapłaty lub wartość oraz sposób spełnienia świadczenia wzajemnego;
+- **3)** w przypadku zbycia w inny sposób, niż określony w pkt 2 – wartość rynkową lub sposób jej ustalenia;
 - **4)** nabywcę, jeżeli został on wyłoniony;
 - **5)** uzasadnienie odnoszące się do skutków ekonomicznych i społecznych zbycia, w tym zawierające omówienie jego wpływu na ochronę interesów Skarbu Państwa oraz ochronę interesu pracowników i innych osób związanych ze spółką.
 
@@ -344,21 +385,21 @@ poz. 1940);
 6. W przypadku gdy spółka, o której mowa w ust. 1, jest spółką:
 
 - **1)** przejmowaną lub
-- **2)** dzieloną spółką przejmującą lub spółką nowo zawiązaną w wyniku podziału może być wyłącznie spółka, której akcjonariuszem jest wyłącznie Skarb Państwa lub inna państwowa osoba prawna, lub spółka, o której mowa w ust. 1.
+- **2)** dzieloną – spółką przejmującą lub spółką nowo zawiązaną w wyniku podziału może być wyłącznie spółka, której akcjonariuszem jest wyłącznie Skarb Państwa lub inna państwowa osoba prawna, lub spółka, o której mowa w ust. 1.
 
 7. Zbycie akcji lub praw z akcji spółki:
 
 - **1)** nowo zawiązanej w wyniku łączenia spółki, o której mowa w ust. 1,
 - **2)** przejmującej oraz nowo zawiązanej w wyniku podziału spółki, o której mowa w ust. 1,
-- **3)** przekształconej w wyniku przekształcenia spółki, o której mowa w ust. 1 następuje na warunkach określonych w ust. 2.
+- **3)** przekształconej w wyniku przekształcenia spółki, o której mowa w ust. 1 – następuje na warunkach określonych w ust. 2.
 
 **Art. 14.**
 
 1. Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa, który zbył akcje lub prawa z akcji należących do Skarbu Państwa, publikuje w Biuletynie Informacji Publicznej na swojej stronie podmiotowej lub na swojej stronie internetowej informacje o zbyciu akcji lub praw z akcji należących do Skarbu Państwa, z wyłączeniem zbycia akcji, o którym mowa w art. 11 ust. 3 pkt 6, zawierające co najmniej:
 
 - **1)** opis procedury wyłaniania nabywcy, w tym tryb zbycia;
-- **2)** w przypadku sprzedaży lub zamiany cenę lub sposób jej ustalenia oraz sposób zapłaty lub wartość oraz sposób spełnienia świadczenia wzajemnego;
-- **3)** w przypadku zbycia w inny sposób, niż określony w pkt 2 wartość rynkową lub sposób jej ustalenia;
+- **2)** w przypadku sprzedaży lub zamiany – cenę lub sposób jej ustalenia oraz sposób zapłaty lub wartość oraz sposób spełnienia świadczenia wzajemnego;
+- **3)** w przypadku zbycia w inny sposób, niż określony w pkt 2 – wartość rynkową lub sposób jej ustalenia;
 - **4)** nabywcę.
 
 2. W przypadku zbycia akcji lub praw z akcji w obrocie zorganizowanym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, nie stosuje się przepisu ust. 1 pkt 4.
@@ -370,7 +411,7 @@ poz. 1940);
 2. Wniosek o zgodę, o której mowa w art. 11 ust. 2, w sprawie zbycia akcji lub praw z akcji należących do państwowej osoby prawnej składa:
 
 - **1)** organ nadzorujący państwową osobę prawną;
-- **2)** minister kierujący działem administracji rządowej właściwy ze względu na przedmiot działalności państwowej osoby prawnej w przypadku gdy państwowa osoba prawna nie posiada organu nadzorującego.
+- **2)** minister kierujący działem administracji rządowej właściwy ze względu na przedmiot działalności państwowej osoby prawnej – w przypadku gdy państwowa osoba prawna nie posiada organu nadzorującego.
 
 **Art. 16.**
 
@@ -383,8 +424,8 @@ poz. 1940);
 1. Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa lub państwowa osoba prawna, w zakresie wykonywania praw z akcji w spółce, z wyłączeniem spółki w upadłości, są obowiązane podejmować działania mające na celu określenie, w drodze uchwały walnego zgromadzenia lub w statucie tej spółki, że zgody walnego zgromadzenia wymaga:
 
 - **1)** rozporządzenie składnikami aktywów trwałych w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), zaliczonymi do wartości niematerialnych i prawnych, rzeczowych aktywów trwałych lub inwestycji długoterminowych, w tym wniesienie jako wkładu do spółki lub spółdzielni, jeżeli wartość rynkowa tych składników przekracza 5 % sumy aktywów w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, ustalonych na podstawie ostatniego zatwierdzonego sprawozdania finansowego, a także oddanie tych składników do korzystania innemu podmiotowi, na okres dłuższy niż 180 dni w roku kalendarzowym, na podstawie czynności prawnej, jeżeli wartość rynkowa przedmiotu czynności prawnej przekracza 5 % sumy aktywów, przy czym, oddanie do korzystania w przypadku:
-    - **a)** umów najmu, dzierżawy i innych umów o oddanie składnika majątkowego do odpłatnego korzystania innym podmiotom przez wartość rynkową przedmiotu czynności prawnej rozumie się wartość świadczeń za: rok jeżeli oddanie składnika majątkowego nastąpiło na podstawie umów zawieranych na czas nieoznaczony, cały czas obowiązywania umowy w przypadku umów zawieranych na czas oznaczony,
-    - **b)** umów użyczenia i innych nieodpłatnych umów o oddanie składnika majątkowego do korzystania innym podmiotom przez wartość rynkową przedmiotu czynności prawnej rozumie się równowartość świadczeń, jakie przysługiwałyby w razie zawarcia umowy najmu lub dzierżawy, za: rok jeżeli oddanie składnika majątkowego nastąpi na podstawie umowy zawieranej na czas nieoznaczony, cały czas obowiązywania umowy w przypadku umów zawartych na czas oznaczony;
+    - **a)** umów najmu, dzierżawy i innych umów o oddanie składnika majątkowego do odpłatnego korzystania innym podmiotom – przez wartość rynkową przedmiotu czynności prawnej rozumie się wartość świadczeń za: – rok – jeżeli oddanie składnika majątkowego nastąpiło na podstawie umów zawieranych na czas nieoznaczony, – cały czas obowiązywania umowy – w przypadku umów zawieranych na czas oznaczony,
+    - **b)** umów użyczenia i innych nieodpłatnych umów o oddanie składnika majątkowego do korzystania innym podmiotom – przez wartość rynkową przedmiotu czynności prawnej rozumie się równowartość świadczeń, jakie przysługiwałyby w razie zawarcia umowy najmu lub dzierżawy, za: – rok – jeżeli oddanie składnika majątkowego nastąpi na podstawie umowy zawieranej na czas nieoznaczony, – cały czas obowiązywania umowy – w przypadku umów zawartych na czas oznaczony;
 
 - **2)** nabycie składników aktywów trwałych w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, o wartości przekraczającej:
     - **a)** 100 000 000 złotych lub
@@ -519,7 +560,7 @@ poz. 1940);
 - **7)** finansów przedsiębiorstw,
 - **8)** rewizji finansowej oraz analizy sprawozdań finansowych,
 - **9)** zasad ładu korporacyjnego w Rzeczypospolitej Polskiej, w Europie i na świecie,
-- **10)** prawa gospodarczego Unii Europejskiej w zakresie związanym z pełnieniem funkcji członka organu nadzorczego.
+- **10)** prawa gospodarczego Unii Europejskiej – w zakresie związanym z pełnieniem funkcji członka organu nadzorczego.
 
 3. Termin egzaminu określa minister właściwy do spraw aktywów państwowych.
 
@@ -545,6 +586,19 @@ poz. 1940);
 
 **Art. 22.** Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa lub państwowa osoba prawna, w zakresie wykonywania praw z akcji w spółce, z wyłączeniem spółki w upadłości, są obowiązane podejmować działania mające na celu określenie, w drodze uchwały walnego zgromadzenia lub w statucie tej spółki, wymogów, jakie musi spełniać kandydat na członka organu zarządzającego, uwzględniając w szczególności, że członkiem organu zarządzającego spółki:
 
+- **1)** może być osoba, która spełnia łącznie następujące warunki:
+    - **a)** posiada wykształcenie wyższe lub wykształcenie wyższe uzyskane za granicą uznane w Rzeczypospolitej Polskiej, na podstawie przepisów odrębnych,
+    - **b)** posiada co najmniej 5-letni okres zatrudnienia na podstawie umowy o pracę, powołania, wyboru, mianowania, spółdzielczej umowy o pracę, lub świadczenia usług na podstawie innej umowy lub wykonywania działalności gospodarczej na własny rachunek,
+    - **c)** posiada co najmniej 3-letnie doświadczenie na stanowiskach kierowniczych lub samodzielnych albo wynikające z prowadzenia działalności gospodarczej na własny rachunek,
+    - **d)** spełnia inne niż wymienione w lit. a–c wymogi określone w przepisach odrębnych, a w szczególności nie narusza ograniczeń lub zakazów zajmowania stanowiska członka organu zarządzającego w spółkach handlowych;
+
+- **2)** nie może być osoba, która spełnia przynajmniej jeden z poniższych warunków:
+    - **a)** pełni funkcję społecznego współpracownika albo jest zatrudniona w biurze poselskim, senatorskim, poselsko-senatorskim lub biurze posła do Parlamentu Europejskiego na podstawie umowy o pracę lub świadczy pracę na podstawie umowy zlecenia lub innej umowy o podobnym charakterze,
+    - **b)** wchodzi w skład organu partii politycznej reprezentującego partię polityczną na zewnątrz oraz uprawnionego do zaciągania zobowiązań,
+    - **c)** jest zatrudniona przez partię polityczną na podstawie umowy o pracę lub świadczy pracę na podstawie umowy zlecenia lub innej umowy o podobnym charakterze,
+    - **d)** pełni funkcję z wyboru w zakładowej organizacji związkowej lub zakładowej organizacji związkowej spółki z grupy kapitałowej,
+    - **e)** jej aktywność społeczna lub zarobkowa rodzi konflikt interesów wobec działalności spółki.
+
 **Art. 23.** Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa lub państwowa osoba prawna, w zakresie wykonywania praw z akcji w spółce, z wyłączeniem spółki w upadłości, są obowiązane podejmować działania mające na celu wprowadzenie do statutów spółek, wobec których spółka z udziałem Skarbu Państwa lub państwowej osoby prawnej jest przedsiębiorcą dominującym w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, wymogów, o których mowa w art. 22.
 
 **Art. 23a.** Obowiązki w zakresie podejmowania działań, o których mowa w art. 20 oraz art. 23, w spółkach, wobec których spółka z udziałem Skarbu Państwa lub państwowej osoby prawnej jest przedsiębiorcą dominującym w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, działających zgodnie z przepisami prawa obcego, są wykonywane z uwzględnieniem przepisów prawa właściwego dla siedziby tych spółek.
@@ -552,6 +606,20 @@ poz. 1940);
 #### Rozdział 4 Rada do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych
 
 **Art. 24.** Do zadań Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, zwanej dalej „Radą”, należy wydawanie opinii dotyczących:
+
+- **1)** kandydatów na członków organów nadzorczych spółek wskazanych przez:
+    - **a)** Skarb Państwa,
+    - **b)** państwową osobę prawną,
+    - **c)** spółkę z udziałem Skarbu Państwa lub państwowej osoby prawnej,
+    - **d)** podmiot, wobec którego spółka z udziałem Skarbu Państwa lub państwowej osoby prawnej jest przedsiębiorcą dominującym w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów;
+
+- **1a)** kandydatów na pełnomocników wspólnika;
+- **1b)** kandydatów na członków organów nadzorczych spółek, o których mowa w art. 19a ust. 1;
+- **1c)** kandydatów na członków organów nadzorczych państwowych osób prawnych;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** kandydatów na członków organów zarządzających, w przypadku określonym w art. 26;
+- **5)** spraw związanych z zarządzaniem mieniem państwowym, na wniosek Prezesa Rady Ministrów.
 
 **Art. 25.**
 
@@ -566,7 +634,7 @@ poz. 1940);
 
 2. Wniosek o wydanie opinii, o których mowa w art. 24 pkt 1–1c, zawiera:
 
-- **1)** imię, nazwisko, numer PESEL, a w przypadku gdy dana osoba nie posiada numeru PESEL serię i numer dokumentu potwierdzającego tożsamość, oraz adres zamieszkania kandydata;
+- **1)** imię, nazwisko, numer PESEL, a w przypadku gdy dana osoba nie posiada numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość, oraz adres zamieszkania kandydata;
 - **2)** wskazanie wnioskodawcy;
 - **3)** firmę, siedzibę i informacje o strukturze właścicielskiej podmiotu, do którego kandydat jest wskazywany;
 - **4)** w przypadku gdy kandydat jest wskazywany na okres kadencji, wskazanie okresu oraz numeru kadencji;
@@ -583,7 +651,7 @@ poz. 1940);
     - **a)** wykształcenie wyższe lub wykształcenie wyższe uzyskane za granicą uznane w Rzeczypospolitej Polskiej na podstawie przepisów odrębnych oraz
     - **b)** spełnianie jednego z wymogów, o których mowa w art. 19 ust. 1 pkt 1 lit. a–j;
 
-- **3)** informację o niekaralności kandydata wydaną przez Krajowy Rejestr Karny opatrzoną datą niewcześniejszą niż 2 miesiące przed dniem złożenia wniosku, a w przypadku gdy kandydat ma miejsce zamieszkania poza Rzecząpospolitą Polską informacje wydane przez Krajowy Rejestr Karny oraz właściwy organ państwa, w którym kandydat ma miejsce zamieszkania, opatrzone datą niewcześniejszą niż 2 miesiące przed dniem złożenia wniosku;
+- **3)** informację o niekaralności kandydata wydaną przez Krajowy Rejestr Karny opatrzoną datą niewcześniejszą niż 2 miesiące przed dniem złożenia wniosku, a w przypadku gdy kandydat ma miejsce zamieszkania poza Rzecząpospolitą Polską – informacje wydane przez Krajowy Rejestr Karny oraz właściwy organ państwa, w którym kandydat ma miejsce zamieszkania, opatrzone datą niewcześniejszą niż 2 miesiące przed dniem złożenia wniosku;
 - **4)** oświadczenia kandydata, złożone niewcześniej niż na miesiąc przed dniem złożenia wniosku, o:
     - **a)** braku okoliczności wymienionych w art. 19 ust. 1 pkt 2–5 i ust. 5,
     - **b)** prowadzonych przeciwko kandydatowi postępowaniach karnych i postępowaniach w sprawach o przestępstwa skarbowe,
@@ -625,7 +693,7 @@ poz. 1940);
     - **b)** funkcji pełnionych w organach innych podmiotów wraz ze wskazaniem, który z tych podmiotów jest spółką, o której mowa w art. 19c, oraz ze wskazaniem podmiotów lub organów, które wskazały kandydata do pełnienia funkcji w organach;
 
 - **2)** poświadczoną kopię dokumentu potwierdzającego wykształcenie wyższe lub wykształcenie wyższe uzyskane za granicą uznane w Rzeczypospolitej Polskiej na podstawie przepisów odrębnych;
-- **3)** informację o niekaralności kandydata wydaną przez Krajowy Rejestr Karny opatrzoną datą niewcześniejszą niż 2 miesiące przed dniem złożenia wniosku, a w przypadku gdy kandydat ma miejsce zamieszkania poza Rzecząpospolitą Polską informacje wydane przez Krajowy Rejestr Karny oraz właściwy organ państwa, w którym kandydat ma miejsce zamieszkania, opatrzone datą niewcześniejszą niż 2 miesiące przed dniem złożenia wniosku;
+- **3)** informację o niekaralności kandydata wydaną przez Krajowy Rejestr Karny opatrzoną datą niewcześniejszą niż 2 miesiące przed dniem złożenia wniosku, a w przypadku gdy kandydat ma miejsce zamieszkania poza Rzecząpospolitą Polską – informacje wydane przez Krajowy Rejestr Karny oraz właściwy organ państwa, w którym kandydat ma miejsce zamieszkania, opatrzone datą niewcześniejszą niż 2 miesiące przed dniem złożenia wniosku;
 - **4)** oświadczenia kandydata, złożone niewcześniej niż na miesiąc przed dniem złożenia wniosku, o:
     - **a)** spełnianiu wymogów określonych w art. 22,
     - **b)** prowadzonych przeciwko kandydatowi postępowaniach karnych i postępowaniach w sprawach o przestępstwa skarbowe,
@@ -649,8 +717,8 @@ poz. 1940);
 
 1. Członków Rady powołuje i odwołuje:
 
-- **1)** Prezes Rady Ministrów czterech członków,
-- **2)** minister właściwy do spraw aktywów państwowych czterech członków.
+- **1)** Prezes Rady Ministrów – czterech członków,
+- **2)** minister właściwy do spraw aktywów państwowych – czterech członków.
 
 2. Członkostwo w Radzie ustaje z chwilą:
 
@@ -661,7 +729,7 @@ poz. 1940);
 
 2a. Ustanie członkostwa w Radzie nie wstrzymuje jej prac, chyba że skład Rady uległ zmniejszeniu o więcej niż 2 członków.
 
-3. Informacja o powołaniu członka Rady i ustaniu członkostwa w Radzie jest zamieszczana w Biuletynie Informacji Publicznej na stronach podmiotowych Kancelarii Prezesa Rady Ministrów oraz urzędu obsługującego ministra właściwego do spraw aktywów państwowych.
+3. Informacja o powołaniu członka Rady i ustaniu członkostwa w Radzie jest zamieszczana w Biuletynie Informacji Publicznej – na stronach podmiotowych Kancelarii Prezesa Rady Ministrów oraz urzędu obsługującego ministra właściwego do spraw aktywów państwowych.
 
 **Art. 29.**
 
@@ -714,13 +782,16 @@ poz. 1940);
 - **20)** działalność holdingów finansowych, lub
 - **21)** działalność w zakresie transportu lądowego, wodnego, w tym morskiego, lub lotniczego, lub
 - **22)** działalność pocztowa objęta obowiązkiem świadczenia usług powszechnych, lub
-- **23)** działalność w zakresie informacji i komunikacji może być uznana za spółkę o istotnym znaczeniu dla gospodarki państwa.
+- **23)** działalność w zakresie informacji i komunikacji – może być uznana za spółkę o istotnym znaczeniu dla gospodarki państwa.
 
 2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz spółek o istotnym znaczeniu dla gospodarki państwa, uwzględniając znaczenie prowadzonej przez spółkę działalności dla gospodarki państwa.
 
 **Art. 32.** (uchylony)
 
 **Art. 33.** Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa lub państwowa osoba prawna, w zakresie wykonywania praw z akcji spółek uznanych zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 31 ust. 2 za spółki o istotnym znaczeniu dla gospodarki państwa przysługujących tym podmiotom, jako kandydata na członka organu nadzorczego spółki uznanej zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 31 ust. 2 za spółkę o istotnym znaczeniu dla gospodarki państwa wskazuje osobę, która:
+
+- **1)** spełnia wymogi, o których mowa w art. 19 ust. 1–3 i 5;
+- **2)** posiada wiedzę lub doświadczenie zawodowe w zakresie zarządzania działalnością przedsiębiorstw, nadzoru nad działalnością organów zarządzających przedsiębiorców, doradztwa gospodarczego lub specyfiki funkcjonowania rynku objętego przedmiotem działalności spółek uznanych zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 31 ust. 2 za spółki o istotnym znaczeniu dla gospodarki państwa.
 
 #### Rozdział 5a Fundusz Inwestycji Kapitałowych
 
@@ -758,7 +829,7 @@ poz. 1940);
 - **1)** będący podmiotem uprawnionym do wykonywania praw z akcji należących do Skarbu Państwa w spółkach zobowiązanych do wypłaty dywidend, a także zaliczek na poczet przewidywanych dywidend lub
 - **2)** będący organem nadzorującym państwową osobę prawną lub jednostkę uprawnioną do wykonywania praw z akcji należących do Skarbu Państwa będących podmiotami uprawnionymi do wykonywania praw z akcji należących do Skarbu Państwa w spółkach zobowiązanych do wypłaty dywidend, a także zaliczek na poczet przewidywanych dywidend, lub
 - **3)** będący podmiotem uprawnionym do wykonywania praw z akcji należących do Skarbu Państwa w jednoosobowej spółce Skarbu Państwa będącej podmiotem uprawnionym do wykonywania praw z akcji należących do Skarbu Państwa w spółkach zobowiązanych do wypłaty dywidend, a także zaliczek na poczet przewidywanych dywidend, lub
-- **4)** którego urząd obsługuje pełnomocnika Rządu, będącego podmiotem uprawnionym do wykonywania praw z akcji należących do Skarbu Państwa w spółkach zobowiązanych do wypłaty dywidend, a także zaliczek na poczet przewidywanych dywidend w terminach przewidzianych dla państwowych jednostek budżetowych do przekazywania dochodów budżetu państwa, o których mowa w przepisach dotyczących wykonywania budżetu państwa wydanych na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+- **4)** którego urząd obsługuje pełnomocnika Rządu, będącego podmiotem uprawnionym do wykonywania praw z akcji należących do Skarbu Państwa w spółkach zobowiązanych do wypłaty dywidend, a także zaliczek na poczet przewidywanych dywidend – w terminach przewidzianych dla państwowych jednostek budżetowych do przekazywania dochodów budżetu państwa, o których mowa w przepisach dotyczących wykonywania budżetu państwa wydanych na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 4. Wpłaty środków, o których mowa w ust. 1 pkt 3, dokonuje minister właściwy do spraw gospodarki w terminie 14 dni od ich otrzymania od przedsiębiorcy.
 
@@ -796,10 +867,10 @@ poz. 1940);
 
 2. Właściwość wojewody ustala się:
 
-- **1)** w przypadkach, o których mowa w ust. 1 pkt 1 lit. a i b według siedziby jednostki organizacyjnej Skarbu Państwa, państwowej osoby prawnej lub spółki z udziałem Skarbu Państwa, w przypadku gdy mienie jednostki organizacyjnej Skarbu Państwa, państwowej osoby prawnej lub spółki z udziałem Skarbu Państwa znajduje się na obszarze właściwości jednego wojewody, albo miejsca, w którym znajduje się przejęte przez Skarb Państwa mienie lub jego przeważająca część, gdy mienie jednostki organizacyjnej Skarbu Państwa, państwowej osoby prawnej lub spółki z udziałem Skarbu Państwa znajduje się na obszarze właściwości kilku wojewodów;
-- **2)** w przypadkach, o których mowa w ust. 1 pkt 1 lit. c i d oraz pkt 3 według miejsca, w którym znajduje się mienie lub jego przeważająca część;
-- **3)** w przypadku, o którym mowa w ust. 1 pkt 2 według miejsca zamieszkania spadkodawcy, a jeżeli jego miejsca zamieszkania w Rzeczypospolitej Polskiej nie da się ustalić, według miejsca, w którym znajduje się majątek spadkowy lub jego przeważająca część;
-- **4)** w przypadku, o którym mowa w ust. 1 pkt 4 według miejsca położenia przeważającej części składników majątkowych będących przedmiotem darowizn na rzecz Skarbu Państwa.
+- **1)** w przypadkach, o których mowa w ust. 1 pkt 1 lit. a i b – według siedziby jednostki organizacyjnej Skarbu Państwa, państwowej osoby prawnej lub spółki z udziałem Skarbu Państwa, w przypadku gdy mienie jednostki organizacyjnej Skarbu Państwa, państwowej osoby prawnej lub spółki z udziałem Skarbu Państwa znajduje się na obszarze właściwości jednego wojewody, albo miejsca, w którym znajduje się przejęte przez Skarb Państwa mienie lub jego przeważająca część, gdy mienie jednostki organizacyjnej Skarbu Państwa, państwowej osoby prawnej lub spółki z udziałem Skarbu Państwa znajduje się na obszarze właściwości kilku wojewodów;
+- **2)** w przypadkach, o których mowa w ust. 1 pkt 1 lit. c i d oraz pkt 3 – według miejsca, w którym znajduje się mienie lub jego przeważająca część;
+- **3)** w przypadku, o którym mowa w ust. 1 pkt 2 – według miejsca zamieszkania spadkodawcy, a jeżeli jego miejsca zamieszkania w Rzeczypospolitej Polskiej nie da się ustalić, według miejsca, w którym znajduje się majątek spadkowy lub jego przeważająca część;
+- **4)** w przypadku, o którym mowa w ust. 1 pkt 4 – według miejsca położenia przeważającej części składników majątkowych będących przedmiotem darowizn na rzecz Skarbu Państwa.
 
 3. W przypadku, o którym mowa w ust. 1 pkt 5, właściwy jest wojewoda mazowiecki.
 
@@ -815,7 +886,7 @@ poz. 1940);
 
 1. Jeżeli z przepisów odrębnych nie wynika, której państwowej osobie prawnej przysługują prawa majątkowe do składnika mienia państwowego, prawa te przysługują Skarbowi Państwa.
 
-2. Prezes Rady Ministrów wykonuje w imieniu Skarbu Państwa uprawnienia określone w przepisach odrębnych oraz uprawnienia przysługujące Skarbowi Państwa względem państwowych osób prawnych, o których mowa w art. 44 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, chyba że z przepisów odrębnych wynika właściwość innego organu jednostki organizacyjnej Skarbu Państwa lub państwowej osoby prawnej.
+2. Prezes Rady Ministrów wykonuje w imieniu Skarbu Państwa uprawnienia określone w przepisach odrębnych oraz uprawnienia przysługujące Skarbowi Państwa względem państwowych osób prawnych, o których mowa w art. 44 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, chyba że z przepisów odrębnych wynika właściwość innego organu jednostki organizacyjnej Skarbu Państwa lub państwowej osoby prawnej.
 
 3. Minister właściwy do spraw finansów publicznych wykonuje w imieniu Skarbu Państwa uprawnienia przysługujące Skarbowi Państwa do składnika mienia państwowego, chyba że z przepisów odrębnych lub czynności prawnej wynika właściwość innego organu lub jednostki organizacyjnej Skarbu Państwa.
 
@@ -845,27 +916,27 @@ poz. 1940);
 
 1. Dokonanie przez państwową osobę prawną czynności prawnej w zakresie rozporządzenia składnikami aktywów trwałych w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, zaliczonymi do wartości niematerialnych i prawnych, rzeczowych aktywów trwałych lub inwestycji długoterminowych, w tym wniesienia ich jako wkładu do spółki lub spółdzielni, wymaga zgody, jeżeli wartość rynkowa tych składników przekracza 200 000 złotych:
 
-- **1)** organu nadzorującego jeżeli wartość rynkowa składników aktywów trwałych wynosi do 5 000 000 złotych,
-- **2)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej jeżeli wartość rynkowa składników aktywów trwałych przekracza 5 000 000 złotych,
-- **3)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej w przypadku gdy państwowa osoba prawna nie posiada organu nadzorującego jeżeli wartość rynkowa składników aktywów trwałych przekracza 200 000 złotych,
-- **4)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej jeżeli organem nadzorującym państwowej osoby prawnej jest Prezes Rady Ministrów zwanych dalej „organami właściwymi”.
+- **1)** organu nadzorującego – jeżeli wartość rynkowa składników aktywów trwałych wynosi do 5 000 000 złotych,
+- **2)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej – jeżeli wartość rynkowa składników aktywów trwałych przekracza 5 000 000 złotych,
+- **3)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej w przypadku gdy państwowa osoba prawna nie posiada organu nadzorującego – jeżeli wartość rynkowa składników aktywów trwałych przekracza 200 000 złotych,
+- **4)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej – jeżeli organem nadzorującym państwowej osoby prawnej jest Prezes Rady Ministrów – zwanych dalej „organami właściwymi”.
 
 2. Dokonanie przez państwową osobę prawną czynności prawnej w zakresie oddania składników, o których mowa w ust. 1, do korzystania innemu podmiotowi, na okres dłuższy niż 180 dni w roku kalendarzowym, wymaga zgody, jeżeli wartość rynkowa przedmiotu czynności prawnej przekracza 200 000 złotych:
 
-- **1)** organu nadzorującego jeżeli wartość rynkowa przedmiotu czynności prawnej wynosi do 5 000 000 złotych,
-- **2)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej jeżeli wartość rynkowa świadczenia za oddanie do korzystania przedmiotu czynności prawnej przekracza 5 000 000 złotych,
-- **3)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej w przypadku gdy państwowa osoba prawna nie posiada organu nadzorującego jeżeli wartość rynkowa świadczenia za oddanie do korzystania przedmiotu czynności prawnej przekracza 200 000 złotych,
-- **4)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej jeżeli organem nadzorującym państwowej osoby prawnej jest Prezes Rady Ministrów zwanych dalej „organami właściwymi”.
+- **1)** organu nadzorującego – jeżeli wartość rynkowa przedmiotu czynności prawnej wynosi do 5 000 000 złotych,
+- **2)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej – jeżeli wartość rynkowa świadczenia za oddanie do korzystania przedmiotu czynności prawnej przekracza 5 000 000 złotych,
+- **3)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej w przypadku gdy państwowa osoba prawna nie posiada organu nadzorującego – jeżeli wartość rynkowa świadczenia za oddanie do korzystania przedmiotu czynności prawnej przekracza 200 000 złotych,
+- **4)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej – jeżeli organem nadzorującym państwowej osoby prawnej jest Prezes Rady Ministrów – zwanych dalej „organami właściwymi”.
 
 3. Wartością rynkową przedmiotu czynności prawnej przyjmowaną dla wyrażenia zgody, o której mowa w ust. 2, jest w przypadku:
 
-- **1)** umów najmu, dzierżawy i innych umów o oddanie składnika, o którym mowa w ust. 1, do odpłatnego korzystania innym podmiotom wartość świadczeń za:
-    - **a)** rok jeżeli oddanie składnika, o którym mowa w ust. 1, nastąpi na podstawie umowy zawieranej na czas nieoznaczony,
-    - **b)** cały czas obowiązywania umowy w przypadku umów zawieranych na czas oznaczony;
+- **1)** umów najmu, dzierżawy i innych umów o oddanie składnika, o którym mowa w ust. 1, do odpłatnego korzystania innym podmiotom – wartość świadczeń za:
+    - **a)** rok – jeżeli oddanie składnika, o którym mowa w ust. 1, nastąpi na podstawie umowy zawieranej na czas nieoznaczony,
+    - **b)** cały czas obowiązywania umowy – w przypadku umów zawieranych na czas oznaczony;
 
-- **2)** umów użyczenia i innych nieodpłatnych umów o oddanie składnika majątkowego do korzystania innemu podmiotowi równowartość świadczeń, jakie przysługiwałyby w razie zawarcia umowy najmu lub dzierżawy za:
-    - **a)** rok jeżeli oddanie składnika, o którym mowa w ust. 1, nastąpi na podstawie umowy zawieranej na czas nieokreślony,
-    - **b)** cały czas obowiązywania umowy w przypadku umów zawieranych na czas oznaczony.
+- **2)** umów użyczenia i innych nieodpłatnych umów o oddanie składnika majątkowego do korzystania innemu podmiotowi – równowartość świadczeń, jakie przysługiwałyby w razie zawarcia umowy najmu lub dzierżawy za:
+    - **a)** rok – jeżeli oddanie składnika, o którym mowa w ust. 1, nastąpi na podstawie umowy zawieranej na czas nieokreślony,
+    - **b)** cały czas obowiązywania umowy – w przypadku umów zawieranych na czas oznaczony.
 
 4. Czynność prawna dokonana z naruszeniem obowiązku określonego w ust. 1 lub 2 jest nieważna.
 
@@ -876,10 +947,10 @@ poz. 1940);
 - **3)** dokonywana w postępowaniu likwidacyjnym, upadłościowym lub restrukturyzacyjnym;
 - **4)** nabycia lub rozporządzania uprawnieniami do emisji, w rozumieniu ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2025 r. poz. 1685 i 1863);
 - **5)** nabycia lub rozporządzania jednostkami przyznanej emisji, jednostkami redukcji emisji, jednostkami poświadczonej redukcji emisji w rozumieniu ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673, z 2024 r. poz. 834 i 1940 oraz z 2025 r. poz. 1863);
-- **6)** dokonywana przez Krajowy Ośrodek Wsparcia Rolnictwa oraz Agencję Mienia Wojskowego w zakresie dotyczącym powierzonych tym agencjom wykonawczym, na podstawie przepisów odrębnych, składników mienia Skarbu Państwa;
+- **6)** dokonywana przez Krajowy Ośrodek Wsparcia Rolnictwa oraz Agencję Mienia Wojskowego – w zakresie dotyczącym powierzonych tym agencjom wykonawczym, na podstawie przepisów odrębnych, składników mienia Skarbu Państwa;
 - **7)** oddania przez muzeum państwowe do korzystania innym podmiotom muzealiów, o ile korzystanie to odbywa się w związku z ich przeniesieniem w trybie art. 29 ust. 1 pkt 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385);
-- **8)** udzielenia finansowania przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej w zakresie określonym w ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176);
-- **9)** dokonywana przez Krajowy Zasób Nieruchomości w zakresie dotyczącym nieruchomości wchodzących w skład Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości;
+- **8)** udzielenia finansowania przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej – w zakresie określonym w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176);
+- **9)** dokonywana przez Krajowy Zasób Nieruchomości – w zakresie dotyczącym nieruchomości wchodzących w skład Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości;
 - **10)** polegająca na przekazaniu nieruchomości do Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości.
 
 **Art. 39.**
@@ -896,7 +967,7 @@ poz. 1940);
 
 - **1)** dokumenty potwierdzające, że wnioskodawca jest państwową osobą prawną, chyba że osobowość prawna została nadana wnioskodawcy ustawą;
 - **2)** dokumenty potwierdzające prawo do składników aktywów trwałych, których dotyczy czynność prawna;
-- **3)** wycenę rzeczoznawcy określającą wartość rynkową składników aktywów trwałych, których dotyczy czynność prawna lub wartość rynkową przedmiotu czynności prawnej albo oświadczenie wnioskodawcy określające tę wartość jeżeli wartość rynkową składników aktywów trwałych można ustalić na podstawie opublikowanych cenników lub notowań giełdowych albo jeżeli koszt wyceny przewyższa 20 % wartości bilansowej składników aktywów trwałych; oświadczenie wnioskodawcy nie dotyczy nieruchomości;
+- **3)** wycenę rzeczoznawcy określającą wartość rynkową składników aktywów trwałych, których dotyczy czynność prawna lub wartość rynkową przedmiotu czynności prawnej albo oświadczenie wnioskodawcy określające tę wartość – jeżeli wartość rynkową składników aktywów trwałych można ustalić na podstawie opublikowanych cenników lub notowań giełdowych albo jeżeli koszt wyceny przewyższa 20 % wartości bilansowej składników aktywów trwałych; oświadczenie wnioskodawcy nie dotyczy nieruchomości;
 - **4)** projekt umowy, na podstawie której ma być dokonane rozporządzenie lub oddanie do korzystania;
 - **5)** inne dokumenty potwierdzające dane i informacje zawarte we wniosku.
 
@@ -938,19 +1009,23 @@ poz. 1940);
 
 **Art. 43.** Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej:
 
+- **1)** przygotowuje i przedkłada Sejmowi coroczne sprawozdania o stanie mienia Skarbu Państwa;
+- **2)** prowadzi ewidencję podmiotów, w szczególności państwowych jednostek organizacyjnych, którym przysługuje prawo wykonywania uprawnień wynikających z praw majątkowych Skarbu Państwa lub do działania w imieniu Skarbu Państwa;
+- **3)** prowadzi zbiorczą ewidencję mienia Skarbu Państwa.
+
 **Art. 44.** Rada Ministrów określi, w drodze rozporządzenia, sposób ewidencjonowania mienia Skarbu Państwa, w tym sposób prowadzenia zbiorczej ewidencji, o której mowa w art. 43 pkt 3, oraz związane z tym obowiązki jednostek organizacyjnych, którym powierzono to mienie, z uwzględnieniem konieczności zapewnienia dostępu do informacji umożliwiających zarządzanie mieniem Skarbu Państwa.
 
 #### Rozdział 9 Przepis karny
 
 **Art. 45.**
 
-1. Kto, wbrew ciążącemu na nim obowiązkowi, wskazuje jako kandydata na członka organu nadzorczego albo pełnomocnika wspólnika, osobę, która nie uzyskała pozytywnej opinii Rady, wydanej na podstawie art. 24 pkt 1 lit. a i b oraz pkt 1a i 1b podlega karze grzywny.
+1. Kto, wbrew ciążącemu na nim obowiązkowi, wskazuje jako kandydata na członka organu nadzorczego albo pełnomocnika wspólnika, osobę, która nie uzyskała pozytywnej opinii Rady, wydanej na podstawie art. 24 pkt 1 lit. a i b oraz pkt 1a i 1b – podlega karze grzywny.
 
 2. Tej samej karze podlega, kto powołuje do organu nadzorczego państwowej osoby prawnej osobę, która nie uzyskała pozytywnej opinii Rady, wydanej na podstawie art. 24 pkt 1c.
 
-3. Postępowanie w sprawach, o których mowa w ust. 1 i 2, toczy się na podstawie ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
+3. Postępowanie w sprawach, o których mowa w ust. 1 i 2, toczy się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
 
 #### Rozdział 10 Przepis końcowy
 
-**Art. 46.** Ustawa wchodzi w życie w terminie określonym w ustawie z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260, z 2018 r. poz. 1669 i 2159 oraz z 2019 r. poz. 730).
+**Art. 46.** Ustawa wchodzi w życie w terminie określonym w ustawie z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260, z 2018 r. poz. 1669 i 2159 oraz z 2019 r. poz. 730).
 

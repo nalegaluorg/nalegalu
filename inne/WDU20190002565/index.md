@@ -8,10 +8,10 @@ pos: 2565
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2565 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 31 grudnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2565/text.pdf) |
 
-Poz. 2565 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 31 grudnia 2019 r.
-zmieniające rozporządzenie w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania Na podstawie art. 62 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2019 r. poz. 1499, 1635, 1726 i 2020) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 1997 r. w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania (Dz. U. poz. 1098) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania Na podstawie art. 62 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2019 r. poz. 1499, 1635, 1726 i 2020) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 grudnia 1997 r. w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania (Dz. U. poz. 1098) wprowadza się następujące zmiany:
 1) w § 2 uchyla się ust. 5;
 2) po § 14 dodaje się § 14a w brzmieniu: „§ 14a. 1. Wysokość równoważnika pieniężnego za zasadniczą szkolną normę wyżywienia „SZ” wynosi 18 zł.
 2. Wysokość równoważnika pieniężnego za dodatkową uzupełniającą normę wyżywienia „DU” wynosi 7 zł.

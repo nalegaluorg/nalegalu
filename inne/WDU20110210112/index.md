@@ -8,7 +8,7 @@ pos: 112
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks wyborczy
@@ -35,6 +35,12 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 1.** Kodeks wyborczy określa zasady i tryb zgłaszania kandydatów, przeprowadzania oraz warunki ważności wyborów:
 
+- **1)** do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej;
+- **2)** Prezydenta Rzeczypospolitej Polskiej;
+- **3)** do Parlamentu Europejskiego w Rzeczypospolitej Polskiej;
+- **4)** do organów stanowiących jednostek samorządu terytorialnego;
+- **5)** wójtów, burmistrzów i prezydentów miast.
+
 **Art. 2.** W wyborach głosować można tylko osobiście, chyba że kodeks stanowi inaczej.
 
 **Art. 3.** W tych samych wyborach głosować można tylko jeden raz.
@@ -42,6 +48,22 @@ Wybory uzupełniające i przedterminowe
 **Art. 4.** Wybory odbywają się w dniu wolnym od pracy.
 
 **Art. 5.** Ilekroć w kodeksie jest mowa o:
+
+- **1)** wyborach – należy przez to rozumieć wybory do Sejmu i do Senatu, wybory Prezydenta Rzeczypospolitej, wybory do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, wybory do organów stanowiących jednostek samorządu terytorialnego oraz wybory wójtów, burmistrzów i prezydentów miast;
+- **2)** referendach – należy przez to rozumieć referenda ogólnokrajowe i referenda lokalne;
+- **3)** organach stanowiących jednostek samorządu terytorialnego – należy przez to rozumieć, odpowiednio, rady gmin, rady powiatów i sejmiki województw;
+- **4)** radzie gminy – należy przez to rozumieć także radę miasta na prawach powiatu;
+- **5)** radzie – należy przez to rozumieć także sejmik województwa;
+- **6)** wójcie – należy przez to rozumieć także burmistrza i prezydenta miasta;
+- **7)** zakładzie leczniczym – należy przez to rozumieć zakład leczniczy, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju świadczenia szpitalne lub stacjonarne i całodobowe świadczenia zdrowotne inne niż świadczenia szpitalne, w rozumieniu przepisów ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897 oraz z 2025 r. poz.
+- **129)** ;
+- **8)** domu pomocy społecznej – należy przez to rozumieć także placówkę zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o której mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572);
+- **9)** stałym zamieszkaniu – należy przez to rozumieć zamieszkanie w określonej miejscowości pod oznaczonym adresem z zamiarem stałego pobytu;
+- **10)** numerze ewidencyjnym PESEL – należy przez to rozumieć numer PESEL nadawany w trybie ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2024 r. poz. 736 i 854);
+- **11)** wyborcy niepełnosprawnym – należy przez to rozumieć wyborcę o ograniczonej sprawności fizycznej, psychicznej, umysłowej lub w zakresie zmysłów, która utrudnia mu wzięcie udziału w wyborach;
+- **12)** znaku „x” – rozumie się przez to co najmniej dwie linie, które przecinają się w obrębie kratki;
+- **13)** (uchylony)
+- **14)** adresie zamieszkania – należy przez to rozumieć adres, pod którym dana osoba faktycznie stale zamieszkuje i pod tym adresem ujęta jest w Centralnym Rejestrze Wyborców w stałym obwodzie głosowania zgodnie z adresem zameldowania na pobyt stały albo adresem stałego zamieszkania.
 
 **Art. 6.** Wszelkie pisma oraz postępowanie sądowe i administracyjne w sprawach wyborczych są wolne od opłat administracyjnych i kosztów sądowych.
 
@@ -77,7 +99,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Prawo wybierania (czynne prawo wyborcze) ma:
 
-- **1)** w wyborach do i do Senatu oraz w wyborach Prezydenta Rzeczypospolitej – obywatel polski, który najpóźniej w dniu głosowania kończy 18 lat;
+- **1)** w wyborach do Sejmu i do Senatu oraz w wyborach Prezydenta Rzeczypospolitej – obywatel polski, który najpóźniej w dniu głosowania kończy 18 lat;
 - **2)** w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej – obywatel polski, który najpóźniej w dniu głosowania kończy 18 lat oraz obywatel Unii Europejskiej niebędący obywatelem polskim, który najpóźniej w dniu głosowania kończy 18 lat, oraz stale zamieszkuje na terytorium Rzeczypospolitej Polskiej;
 - **3)** w wyborach do organów stanowiących jednostek samorządu terytorialnego:
     - **a)** rady gminy – obywatel polski, obywatel Unii Europejskiej niebędący obywatelem polskim oraz obywatel Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, który najpóźniej w dniu głosowania kończy 18 lat, oraz stale zamieszkuje na obszarze tej gminy,
@@ -95,7 +117,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Prawo wybieralności (bierne prawo wyborcze) ma:
 
-- **1)** w wyborach do – obywatel polski mający prawo wybierania w tych wyborach, który najpóźniej w dniu wyborów kończy 21 lat;
+- **1)** w wyborach do Sejmu – obywatel polski mający prawo wybierania w tych wyborach, który najpóźniej w dniu wyborów kończy 21 lat;
 - **2)** w wyborach do Senatu – obywatel polski mający prawo wybierania w tych wyborach, który najpóźniej w dniu wyborów kończy 30 lat;
 - **3)** w wyborach Prezydenta Rzeczypospolitej – obywatel polski, który najpóźniej w dniu wyborów kończy 35 lat i korzysta z pełni praw wyborczych do Sejmu;
 - **4)** w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej – osoba mająca prawo wybierania w tych wyborach, która najpóźniej w dniu głosowania kończy 21 lat, i od co najmniej 5 lat stale zamieszkuje w Rzeczypospolitej Polskiej lub na terytorium innego państwa członkowskiego Unii Europejskiej;
@@ -145,7 +167,9 @@ Wybory uzupełniające i przedterminowe
 
 § 13. Na postanowienia komisarza wyborczego, o których mowa w § 2, 4 i 9, wyborcom w liczbie co najmniej 15 przysługuje prawo wniesienia skargi do Naczelnego Sądu Administracyjnego, w terminie 3 dni od daty podania ich do publicznej wiadomości. Skargę wnosi się za pośrednictwem komisarza wyborczego. Komisarz wyborczy w terminie 2 dni przekazuje skargę Naczelnemu Sądowi Administracyjnemu wraz z kompletnymi i uporządkowanymi aktami sprawy i odpowiedzią na skargę oraz informacją o posiadaniu praw wyborczych przez wnoszących skargę, w postaci papierowej lub elektronicznej. Naczelny Sąd Administracyjny rozpoznaje sprawę na posiedzeniu niejawnym w składzie trzech sędziów nie później niż w ciągu 5 dni od dnia jej wpływu i wydaje orzeczenie, doręczając je niezwłocznie wnoszącym skargę oraz komisarzowi wyborczemu. Od orzeczenia Naczelnego Sądu Administracyjnego nie przysługuje środek prawny. Przepis art. 420 § 3 stosuje się.
 
-§ 14. (uchylony) § 15. Postanowienie komisarza wyborczego o utworzeniu obwodów głosowania jest podstawą dla właściwego dyrektora delegatury Krajowego Biura Wyborczego do wprowadzenia danych o obwodach głosowania, o których mowa w § 11, do Centralnego Rejestru Wyborców.
+§ 14. (uchylony)
+
+§ 15. Postanowienie komisarza wyborczego o utworzeniu obwodów głosowania jest podstawą dla właściwego dyrektora delegatury Krajowego Biura Wyborczego do wprowadzenia danych o obwodach głosowania, o których mowa w § 11, do Centralnego Rejestru Wyborców.
 
 **Art. 12a.** (uchylony)
 
@@ -173,11 +197,11 @@ Wybory uzupełniające i przedterminowe
 
 § 4. Propozycje zmian siedzib obwodowych komisji wyborczych, w tym siedzib znajdujących się w lokalach, o których mowa w art. 16 § 1 pkt 3, zainteresowani mogą przedkładać komisarzowi wyborczemu na piśmie na co najmniej 55 dni przed dniem wyborów. Przedłożone propozycje zmian siedzib obwodowych komisji wyborczych komisarz wyborczy niezwłocznie umieszcza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
 
-**Art. 13b.** Jeżeli w lokalu, w którym w ostatnich wyborach do i do Senatu, wyborach Prezydenta Rzeczypospolitej, wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej albo wyborach do organów jednostek samorządu terytorialnego przeprowadzanych w związku z zakończeniem kadencji rad przeprowadzano głosowanie, w dniu wyborów nie przeprowadza się głosowania lub ma w nim siedzibę obwodowa komisja wyborcza właściwa dla obwodu głosowania o zmienionych granicach, w dniu wyborów wójt umieszcza w miejscu łatwo dostępnym przy wejściu do tego lokalu informację umożliwiającą wyborcom dotarcie do właściwego lokalu wyborczego.
+**Art. 13b.** Jeżeli w lokalu, w którym w ostatnich wyborach do Sejmu i do Senatu, wyborach Prezydenta Rzeczypospolitej, wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej albo wyborach do organów jednostek samorządu terytorialnego przeprowadzanych w związku z zakończeniem kadencji rad przeprowadzano głosowanie, w dniu wyborów nie przeprowadza się głosowania lub ma w nim siedzibę obwodowa komisja wyborcza właściwa dla obwodu głosowania o zmienionych granicach, w dniu wyborów wójt umieszcza w miejscu łatwo dostępnym przy wejściu do tego lokalu informację umożliwiającą wyborcom dotarcie do właściwego lokalu wyborczego.
 
 **Art. 14.**
 
-§ 1. W celu przeprowadzenia wyborów do i do Senatu, wyborów Prezydenta Rzeczypospolitej oraz wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej tworzy się obwody głosowania dla obywateli polskich przebywających za granicą, jeżeli na terenie obwodu przebywa co najmniej 15 wyborców i jeżeli istnieje możliwość przekazania właściwej komisji wyborczej wyników głosowania niezwłocznie po jego zakończeniu.
+§ 1. W celu przeprowadzenia wyborów do Sejmu i do Senatu, wyborów Prezydenta Rzeczypospolitej oraz wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej tworzy się obwody głosowania dla obywateli polskich przebywających za granicą, jeżeli na terenie obwodu przebywa co najmniej 15 wyborców i jeżeli istnieje możliwość przekazania właściwej komisji wyborczej wyników głosowania niezwłocznie po jego zakończeniu.
 
 § 2. Obwody głosowania, o których mowa w § 1, tworzy, w drodze rozporządzenia, minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określając ich liczbę oraz siedziby obwodowych komisji wyborczych.
 
@@ -187,7 +211,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 15.**
 
-§ 1. W celu przeprowadzenia wyborów do i do Senatu, wyborów Prezydenta Rzeczypospolitej oraz wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej tworzy się obwody głosowania dla wyborców przebywających na polskich statkach morskich, które znajdują się w podróży w okresie obejmującym dzień wyborów, jeżeli przebywa na nich co najmniej 15 wyborców i jeżeli istnieje możliwość przekazania właściwej komisji wyborczej wyników głosowania niezwłocznie po jego zakończeniu.
+§ 1. W celu przeprowadzenia wyborów do Sejmu i do Senatu, wyborów Prezydenta Rzeczypospolitej oraz wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej tworzy się obwody głosowania dla wyborców przebywających na polskich statkach morskich, które znajdują się w podróży w okresie obejmującym dzień wyborów, jeżeli przebywa na nich co najmniej 15 wyborców i jeżeli istnieje możliwość przekazania właściwej komisji wyborczej wyników głosowania niezwłocznie po jego zakończeniu.
 
 § 2. W rozumieniu kodeksu polskim statkiem morskim jest statek podnoszący polską banderę i dowodzony przez polskiego kapitana.
 
@@ -285,7 +309,7 @@ Wybory uzupełniające i przedterminowe
 - **6)** adres stałego zamieszkania zarejestrowany w związku ze złożeniem wniosku w trybie określonym w art. 19;
 - **7)** adres przebywania zarejestrowany w związku ze złożeniem wniosku w trybie określonym w art. 28, art. 28a, art. 30, art. 34, art. 35 lub w związku z ujęciem danego wyborcy w wykazie sporządzanym na podstawie art. 29;
 - **8)** informację o pozbawieniu prawa wybierania z powodów wskazanych w art. 10 § 2, okres pozbawienia prawa wybierania, oznaczenie sądu lub Trybunału Stanu, sygnaturę akt, datę wydania oraz datę uprawomocnienia się orzeczenia, na podstawie którego nastąpiło pozbawienie prawa wybierania;
-- **9)** informację o okręgu wyborczym właściwym w wyborach do i do Senatu, wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej i w wyborach do organów stanowiących jednostek samorządu terytorialnego;
+- **9)** informację o okręgu wyborczym właściwym w wyborach do Sejmu i do Senatu, wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej i w wyborach do organów stanowiących jednostek samorządu terytorialnego;
 - **10)** informację o obwodzie głosowania właściwym ze względu na adres, o którym mowa w pkt 5 albo 6;
 - **11)** informację o obwodzie głosowania, w którym wyborca ma zostać ujęty w spisie wyborców sporządzonym dla danych wyborów, jeżeli jest to obwód inny niż wskazany w pkt 10;
 - **12)** informację o zgłoszeniu chęci głosowania w wyborach do Parlamentu Europejskiego przeprowadzanych przez inne państwo członkowskie Unii Europejskiej.
@@ -482,7 +506,7 @@ Wybory uzupełniające i przedterminowe
 
 § 5. Spis wyborców składa się z:
 
-- **1)** części A – w wyborach do i do Senatu, w wyborach Prezydenta Rzeczypospolitej oraz w wyborach do rad powiatów i sejmików województw;
+- **1)** części A – w wyborach do Sejmu i do Senatu, w wyborach Prezydenta Rzeczypospolitej oraz w wyborach do rad powiatów i sejmików województw;
 - **2)** części A i części B – w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, w wyborach do rad gmin oraz w wyborach wójtów.
 
 § 6. W spisie wyborców, w części A, zamieszcza się dane obywateli polskich w zakresie:
@@ -594,7 +618,17 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 32a.** Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia:
 
+- **1)** wzór spisu wyborców,
+- **2)** sposób i tryb sporządzania spisu wyborców oraz jego aktualizacji,
+- **3)** wzór wykazu wyborców przebywających w zakładach leczniczych, domach pomocy społecznej, zakładach karnych i aresztach śledczych oraz oddziałach zewnętrznych takich zakładów i aresztów, a także domach studenckich i zespołach domów studenckich, w których utworzono obwody głosowania – uwzględniając zakres danych wymaganych w spisie wyborców oraz konieczność zapewnienia ochrony danych osobowych.
+
 **Art. 32b.** Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku o ujęcie w obwodzie głosowania, o którym mowa w art. 19 § 3,
+- **2)** wzór wniosku o ujęcie w obwodzie głosowania, o którym mowa w art. 19a § 1,
+- **3)** wzór wniosku o skreślenie wyborcy z Centralnego Rejestru Wyborców, o którym mowa w art. 19a § 6,
+- **4)** wzór wniosku o zmianę miejsca głosowania, o którym mowa w art. 28 § 1,
+- **5)** wzór zaświadczenia o prawie do głosowania oraz sposób ewidencjonowania tych zaświadczeń – uwzględniając zakres danych wymaganych we wnioskach i w zaświadczeniu oraz konieczność zabezpieczenia zaświadczenia przed sfałszowaniem.
 
 **Art. 33.** (uchylony)
 
@@ -767,7 +801,9 @@ Wybory uzupełniające i przedterminowe
 
 § 2a. W jednym pomieszczeniu może znajdować się jeden lokal wyborczy.
 
-§ 3. (uchylony) § 4. O godzinie zakończenia głosowania przewodniczący obwodowej komisji wyborczej zarządza zakończenie głosowania. Od tej chwili mogą głosować tylko wyborcy, którzy przybyli do lokalu wyborczego przed godziną zakończenia głosowania.
+§ 3. (uchylony)
+
+§ 4. O godzinie zakończenia głosowania przewodniczący obwodowej komisji wyborczej zarządza zakończenie głosowania. Od tej chwili mogą głosować tylko wyborcy, którzy przybyli do lokalu wyborczego przed godziną zakończenia głosowania.
 
 § 5. Głosowanie w odrębnych obwodach głosowania oraz w obwodach głosowania utworzonych na polskich statkach morskich może się rozpocząć później niż o godzinie określonej w § 2, o ile nie będzie to miało wpływu na możliwość sprawnego oddania głosu przez wszystkich uprawnionych wyborców.
 
@@ -791,7 +827,9 @@ Wybory uzupełniające i przedterminowe
 - **2)** na drugiej kartce karty do głosowania umieszcza się spis treści zawierający nazwy zarejestrowanych komitetów wyborczych w kolejności wylosowanych numerów, ze wskazaniem numeru kartki karty do głosowania, na której znajduje się lista kandydatów danego komitetu wyborczego, oraz symbol graficzny komitetu wyborczego;
 - **3)** na trzeciej i kolejnych kartkach karty do głosowania umieszcza się poszczególne listy kandydatów każdego z komitetów wyborczych, z uwzględnieniem wymagań określonych w § 3 zdanie drugie oraz symbol graficzny komitetu wyborczego.
 
-§ 3b. (uchylony) § 4. Na karcie do głosowania oznacza się miejsce na umieszczenie pieczęci obwodowej komisji wyborczej oraz drukuje się, w przypadku wyborów:
+§ 3b. (uchylony)
+
+§ 4. Na karcie do głosowania oznacza się miejsce na umieszczenie pieczęci obwodowej komisji wyborczej oraz drukuje się, w przypadku wyborów:
 
 - **1)** Prezydenta Rzeczypospolitej – odcisk pieczęci Państwowej Komisji Wyborczej;
 - **2)** do Sejmu, do Senatu i do Parlamentu Europejskiego – odcisk pieczęci okręgowej komisji wyborczej;
@@ -805,7 +843,9 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Wyborca niepełnosprawny może głosować przy użyciu nakładek na karty do głosowania sporządzonych w alfabecie Braille’a.
 
-§ 2. (uchylony) § 3. Państwowa Komisja Wyborcza po zasięgnięciu opinii ministra właściwego do spraw zabezpieczenia społecznego, określi, w drodze uchwały, wzory nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, kierując się możliwością praktycznego zastosowania tych nakładek przez wyborców niepełnosprawnych.
+§ 2. (uchylony)
+
+§ 3. Państwowa Komisja Wyborcza po zasięgnięciu opinii ministra właściwego do spraw zabezpieczenia społecznego, określi, w drodze uchwały, wzory nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, kierując się możliwością praktycznego zastosowania tych nakładek przez wyborców niepełnosprawnych.
 
 **Art. 41.** Dopisanie na karcie do głosowania dodatkowych numerów list i nazw lub nazwisk albo poczynienie innych znaków lub dopisków na karcie do głosowania, w tym w kratce lub poza nią, nie wpływa na ważność oddanego na niej głosu.
 
@@ -828,7 +868,9 @@ Wybory uzupełniające i przedterminowe
 
 § 3. Od chwili rozpoczęcia głosowania aż do jego zakończenia w lokalu wyborczym muszą być równocześnie obecni członkowie obwodowej komisji wyborczej w liczbie stanowiącej co najmniej 1/2 jej pełnego składu, w tym przewodniczący komisji lub jego zastępca.
 
-§ 4. (uchylony) § 5. Od podjęcia przez obwodową komisję wyborczą czynności, o których mowa w § 1, do podpisania protokołu, o którym mowa w art. 75 § 1, czynności obwodowej komisji wyborczej na obszarze kraju mogą być rejestrowane przez mężów zaufania z wykorzystaniem własnych urządzeń rejestrujących.
+§ 4. (uchylony)
+
+§ 5. Od podjęcia przez obwodową komisję wyborczą czynności, o których mowa w § 1, do podpisania protokołu, o którym mowa w art. 75 § 1, czynności obwodowej komisji wyborczej na obszarze kraju mogą być rejestrowane przez mężów zaufania z wykorzystaniem własnych urządzeń rejestrujących.
 
 § 6. Materiały zawierające zarejestrowany przebieg czynności, o których mowa w § 5, na wniosek męża zaufania, rejestrującego te czynności, mogą zostać zakwalifikowane jako dokumenty z wyborów w rozumieniu art. 8.
 
@@ -889,7 +931,9 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 48.**
 
-§ 1. (uchylony) § 2. W lokalu wyborczym umieszcza się tylko urzędowe obwieszczenia wyborcze.
+§ 1. (uchylony)
+
+§ 2. W lokalu wyborczym umieszcza się tylko urzędowe obwieszczenia wyborcze.
 
 § 3. Państwowa Komisja Wyborcza może postanowić o umieszczeniu w lokalu wyborczym oraz w miejscu zapewniającym tajność głosowania zwięzłej informacji o sposobie głosowania właściwym dla przeprowadzanych wyborów. Informację tę sporządza, według wzoru ustalonego przez Państwową Komisję Wyborczą, dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego i zapewnia umieszczenie jej we wszystkich lokalach wyborczych.
 
@@ -921,7 +965,9 @@ Wybory uzupełniające i przedterminowe
 - **2)** osobę pominiętą w spisie, jeżeli wójt potwierdzi, że pominięcie w spisie jest wynikiem omyłki;
 - **3)** osobę skreśloną ze spisu dla danego obwodu głosowania w związku z wpisaniem tej osoby do spisu wyborców w jednostce, o której mowa w art. 12 § 4, jeżeli udokumentuje, iż opuściła tę jednostkę przed dniem wyborów.
 
-§ 3. (uchylony) § 4. Przepis § 2 stosuje się odpowiednio w przypadku przyjęcia wyborcy do jednostki, o której mowa w art. 12 § 4, przed dniem wyborów.
+§ 3. (uchylony)
+
+§ 4. Przepis § 2 stosuje się odpowiednio w przypadku przyjęcia wyborcy do jednostki, o której mowa w art. 12 § 4, przed dniem wyborów.
 
 **Art. 52.**
 
@@ -943,7 +989,15 @@ Wybory uzupełniające i przedterminowe
 
 § 6a. Przewodniczący obwodowej komisji wyborczej wyznacza członka komisji, który przebywając w bezpośredniej bliskości urny zapewnia jej nienaruszalność oraz przestrzeganie przez wyborców zasad, o których mowa w § 6.
 
-§ 7. (uchylony) § 7a. (uchylony) § 8. (uchylony) § 9. (uchylony) § 10. (uchylony)
+§ 7. (uchylony)
+
+§ 7a. (uchylony)
+
+§ 8. (uchylony)
+
+§ 9. (uchylony)
+
+§ 10. (uchylony)
 
 **Art. 53.** Wyborcy niepełnosprawnemu, na jego prośbę, może pomagać inna osoba, z wyłączeniem członków komisji wyborczych i mężów zaufania.
 
@@ -958,7 +1012,11 @@ Wybory uzupełniające i przedterminowe
 - **1)** podlegający w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897);
 - **2)** który najpóźniej w dniu głosowania kończy 60 lat.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. Głosowanie korespondencyjne jest wyłączone w przypadku głosowania w obwodach głosowania utworzonych w jednostkach, o których mowa w art. 12 § 4 i 7, oraz w obwodach głosowania utworzonych za granicą i na polskich statkach morskich, a także w przypadku udzielenia przez wyborcę niepełnosprawnego oraz wyborcę, który najpóźniej w dniu głosowania kończy 60 lat, pełnomocnictwa do głosowania.
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. Głosowanie korespondencyjne jest wyłączone w przypadku głosowania w obwodach głosowania utworzonych w jednostkach, o których mowa w art. 12 § 4 i 7, oraz w obwodach głosowania utworzonych za granicą i na polskich statkach morskich, a także w przypadku udzielenia przez wyborcę niepełnosprawnego oraz wyborcę, który najpóźniej w dniu głosowania kończy 60 lat, pełnomocnictwa do głosowania.
 
 **Art. 53b.**
 
@@ -983,7 +1041,13 @@ Wybory uzupełniające i przedterminowe
 
 § 3b. Główny Inspektor Sanitarny lub działający z jego upoważnienia inny organ Państwowej Inspekcji Sanitarnej przekazuje informację o wyborcach podlegających w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych właściwemu urzędnikowi wyborczemu, za pośrednictwem obsługującej go gminy.
 
-§ 4. (uchylony) § 5. (uchylony) § 6. (uchylony) § 7. W zgłoszeniu, o którym mowa w § 1, wyborca niepełnosprawny może zażądać dołączenia do pakietu wyborczego nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a oraz może zamieścić lub podać adres poczty elektronicznej lub numer telefonu komórkowego oraz informację o wyrażeniu zgody na przekazanie danych do rejestru danych kontaktowych osób fizycznych.
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. W zgłoszeniu, o którym mowa w § 1, wyborca niepełnosprawny może zażądać dołączenia do pakietu wyborczego nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a oraz może zamieścić lub podać adres poczty elektronicznej lub numer telefonu komórkowego oraz informację o wyrażeniu zgody na przekazanie danych do rejestru danych kontaktowych osób fizycznych.
 
 § 8. Jeżeli głosowanie korespondencyjne ma dotyczyć wyborów Prezydenta Rzeczypospolitej albo wyborów wójta zgłoszenie zamiaru głosowania korespondencyjnego dotyczy również ponownego głosowania.
 
@@ -999,7 +1063,9 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 53d.**
 
-§ 1. (uchylony) § 2. (uchylony)
+§ 1. (uchylony)
+
+§ 2. (uchylony)
 
 **Art. 53e.**
 
@@ -1007,9 +1073,13 @@ Wybory uzupełniające i przedterminowe
 
 § 2. W przypadkach, o których mowa w art. 295 § 1 i 2, wyborca, który zgłosił zamiar głosowania korespondencyjnego, otrzymuje pakiety wyborcze odrębne dla danych wyborów.
 
-§ 3. (uchylony) § 4. Pakiet wyborczy doręcza wyborcy urzędnik wyborczy za pośrednictwem operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717). Do przesyłki pakietu wyborczego w zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe dotyczące przesyłki poleconej.
+§ 3. (uchylony)
 
-§ 5. (uchylony) § 6. Pakiet wyborczy doręcza się wyłącznie do rąk własnych wyborcy, po okazaniu dokumentu potwierdzającego tożsamość i pisemnym pokwitowaniu odbioru.
+§ 4. Pakiet wyborczy doręcza wyborcy urzędnik wyborczy za pośrednictwem operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717). Do przesyłki pakietu wyborczego w zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe dotyczące przesyłki poleconej.
+
+§ 5. (uchylony)
+
+§ 6. Pakiet wyborczy doręcza się wyłącznie do rąk własnych wyborcy, po okazaniu dokumentu potwierdzającego tożsamość i pisemnym pokwitowaniu odbioru.
 
 § 7. Jeżeli odbierający nie może potwierdzić odbioru, osoba doręczająca pakiet wyborczy sama stwierdza datę doręczenia oraz wskazuje odbierającego i przyczynę braku jego podpisu.
 
@@ -1060,7 +1130,9 @@ Wybory uzupełniające i przedterminowe
 
 § 2. Wyborca niepełnosprawny oraz wyborca, który najpóźniej w dniu głosowania kończy 60 lat, może także przekazać kopertę zwrotną przedstawicielowi operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
 
-§ 3. (uchylony) § 4. Koperty zwrotne dostarczane są do właściwych obwodowych komisji wyborczych w godzinach głosowania.
+§ 3. (uchylony)
+
+§ 4. Koperty zwrotne dostarczane są do właściwych obwodowych komisji wyborczych w godzinach głosowania.
 
 § 5. Wyborca niepełnosprawny oraz wyborca, który najpóźniej w dniu głosowania kończy 60 lat, może w godzinach głosowania osobiście dostarczyć kopertę zwrotną do obwodowej komisji wyborczej, w obwodzie głosowania, w którym jest wpisany do spisu wyborców.
 
@@ -1081,7 +1153,9 @@ Wybory uzupełniające i przedterminowe
 - **3)** tryb przekazywania pakietów wyborczych właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego, w sytuacji, o której mowa w art. 53e § 9 zdanie drugie,
 - **4)** tryb przekazywania kopert zwrotnych właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego, w sytuacji, o której mowa w art. 53i § 1 – mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów, zapewnienie bezpieczeństwa tych przesyłek, a także ochrony zdrowia osobom odbierającym i przekazującym te przesyłki.
 
-§ 2. (uchylony) § 3. Państwowa Komisja Wyborcza określi, w drodze uchwały, sposób postępowania z:
+§ 2. (uchylony)
+
+§ 3. Państwowa Komisja Wyborcza określi, w drodze uchwały, sposób postępowania z:
 
 - **1)** kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej do zakończenia głosowania,
 - **2)** kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej po zakończeniu głosowania,
@@ -1089,7 +1163,9 @@ Wybory uzupełniające i przedterminowe
 - **4)** kopertami zwrotnymi niezawierającymi podpisanego oświadczenia, o którym mowa w art. 53g § 1 pkt 6,
 - **5)** pakietami wyborczymi nieodebranymi przez wyborców niepełnosprawnych, wyborców, którzy najpóźniej w dniu głosowania kończą 60 lat, oraz wyborców podlegających w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych – mając na względzie zapewnienie poszanowania zasad przeprowadzania wyborów oraz konieczność zabezpieczenia pakietów wyborczych, a w szczególności kopert zwrotnych i kart do głosowania.
 
-§ 4. (uchylony) § 5. (uchylony)
+§ 4. (uchylony)
+
+§ 5. (uchylony)
 
 **Art. 53k.**
 
@@ -1107,7 +1183,9 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Wyborca niepełnosprawny o znacznym lub umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych może udzielić pełnomocnictwa do głosowania w jego imieniu w wyborach, zwanego dalej „pełnomocnictwem do głosowania”.
 
-§ 2. (uchylony) § 3. Przepis § 1 stosuje się również do wyborcy, który najpóźniej w dniu głosownia kończy 60 lat.
+§ 2. (uchylony)
+
+§ 3. Przepis § 1 stosuje się również do wyborcy, który najpóźniej w dniu głosownia kończy 60 lat.
 
 § 4. Głosowanie za pośrednictwem pełnomocnika jest wyłączone w przypadku głosowania w obwodach głosowania utworzonych w jednostkach, o których mowa w art. 12 § 4 i 7, oraz w obwodach głosowania utworzonych za granicą i na polskich statkach morskich, a także w przypadku zgłoszenia przez wyborcę niepełnosprawnego oraz wyborcę, który najpóźniej w dniu głosowania kończy 60 lat zamiaru głosowania korespondencyjnego.
 
@@ -1142,7 +1220,9 @@ Wybory uzupełniające i przedterminowe
 
 - **1)** kopię aktualnego orzeczenia właściwego organu orzekającego o ustaleniu stopnia niepełnosprawności osoby udzielającej pełnomocnictwa do głosowania;
 - **2)** pisemną zgodę osoby mającej być pełnomocnikiem, zawierającą jej nazwisko i imię (imiona) oraz adres zamieszkania, a także nazwisko i imię (imiona) osoby udzielającej pełnomocnictwa do głosowania.
-- **3)** (uchylony) § 3a. W wyborach Prezydenta Rzeczypospolitej oraz w wyborach wójta akt pełnomocnictwa sporządza się na pierwsze oraz ponowne głosowanie odrębnie.
+- **3)** (uchylony)
+
+§ 3a. W wyborach Prezydenta Rzeczypospolitej oraz w wyborach wójta akt pełnomocnictwa sporządza się na pierwsze oraz ponowne głosowanie odrębnie.
 
 § 4. Akt pełnomocnictwa do głosowania po sprawdzeniu, na podstawie dostępnych urzędowo dokumentów, danych zawartych we wniosku niezwłocznie sporządza się w trzech egzemplarzach, z których po jednym otrzymują udzielający pełnomocnictwa do głosowania i pełnomocnik, a trzeci egzemplarz pozostaje w urzędzie gminy.
 
@@ -1204,7 +1284,11 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Niezwłocznie po zakończeniu głosowania obwodowa komisja wyborcza ustala wyniki głosowania w obwodzie odpowiednio do przeprowadzanych wyborów.
 
-§ 2. (uchylony) § 3. (uchylony) § 3a. Czynności obwodowej komisji wyborczej związane z ustalaniem wyników głosowania w obwodzie wykonują wspólnie wszyscy obecni członkowie komisji.
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 3a. Czynności obwodowej komisji wyborczej związane z ustalaniem wyników głosowania w obwodzie wykonują wspólnie wszyscy obecni członkowie komisji.
 
 § 3b. Niedopuszczalne jest wykonywanie czynności, o których mowa w § 3a, przez grupy członków obwodowych komisji wyborczych lub przez pojedynczych ich członków oddzielnie lub tworzenie z członków obwodowych komisji wyborczych grup roboczych, które wykonywałyby oddzielnie czynności po zakończeniu głosowania.
 
@@ -1236,7 +1320,9 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 72.**
 
-§ 1. (uchylony) § 2. Obwodowa komisja wyborcza ustala również liczbę wysłanych pakietów wyborczych, a także liczbę kart do głosowania wyjętych z kopert zwrotnych dostarczonych do obwodowej komisji wyborczej do zakończenia głosowania i podaje je w protokole głosowania w obwodzie właściwym dla przeprowadzanych wyborów.
+§ 1. (uchylony)
+
+§ 2. Obwodowa komisja wyborcza ustala również liczbę wysłanych pakietów wyborczych, a także liczbę kart do głosowania wyjętych z kopert zwrotnych dostarczonych do obwodowej komisji wyborczej do zakończenia głosowania i podaje je w protokole głosowania w obwodzie właściwym dla przeprowadzanych wyborów.
 
 § 3. Jeżeli w kopercie zwrotnej brak jest podpisanego oświadczenia, o którym mowa w art. 53g § 1 pkt 6, lub gdy koperta na kartę do głosowania nie jest zaklejona, koperty na kartę do głosowania nie wrzuca się do urny, a karty nie bierze się pod uwagę przy ustalaniu wyników głosowania w obwodzie.
 
@@ -1260,7 +1346,9 @@ Wybory uzupełniające i przedterminowe
 
 § 5. Protokół podpisują wszystkie osoby wchodzące w skład obwodowej komisji wyborczej obecne przy jego sporządzaniu. Protokół opatruje się pieczęcią komisji.
 
-§ 6. (uchylony) § 7. Członkom obwodowej komisji wyborczej przysługuje prawo wniesienia do protokołu uwag z wymienieniem konkretnych zarzutów, z tym że nie zwalnia to ich z obowiązku podpisania protokołu głosowania w obwodzie. Adnotację o wniesieniu uwag zamieszcza się w protokole.
+§ 6. (uchylony)
+
+§ 7. Członkom obwodowej komisji wyborczej przysługuje prawo wniesienia do protokołu uwag z wymienieniem konkretnych zarzutów, z tym że nie zwalnia to ich z obowiązku podpisania protokołu głosowania w obwodzie. Adnotację o wniesieniu uwag zamieszcza się w protokole.
 
 § 8. Wzory protokołów, o których mowa w § 1, ustala Państwowa Komisja Wyborcza.
 
@@ -1268,7 +1356,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Protokół głosowania przekazuje się:
 
-- **1)** w wyborach do i do Senatu, w wyborach Prezydenta Rzeczypospolitej oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej pełnomocnikowi, o którym mowa w art. 173, wyznaczonemu przez właściwą komisję wyborczą wyższego stopnia;
+- **1)** w wyborach do Sejmu i do Senatu, w wyborach Prezydenta Rzeczypospolitej oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej pełnomocnikowi, o którym mowa w art. 173, wyznaczonemu przez właściwą komisję wyborczą wyższego stopnia;
 - **2)** w wyborach do rady gminy oraz w wyborach wójta – gminnej komisji wyborczej;
 - **3)** w wyborach do rady powiatu i do sejmiku województwa – powiatowej komisji wyborczej.
 
@@ -1318,7 +1406,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 81.**
 
-§ 1. Państwowa Komisja Wyborcza może po zakończeniu głosowania, a przed ustaleniem wyników wyborów podawać do publicznej wiadomości cząstkowe nieoficjalne wyniki głosowania w wyborach do i do Senatu, w wyborach Prezydenta Rzeczypospolitej oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, ustalone na podstawie otrzymanych drogą elektroniczną informacji o wynikach głosowania w obwodach.
+§ 1. Państwowa Komisja Wyborcza może po zakończeniu głosowania, a przed ustaleniem wyników wyborów podawać do publicznej wiadomości cząstkowe nieoficjalne wyniki głosowania w wyborach do Sejmu i do Senatu, w wyborach Prezydenta Rzeczypospolitej oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, ustalone na podstawie otrzymanych drogą elektroniczną informacji o wynikach głosowania w obwodach.
 
 § 2. Tryb i sposób podawania wyników, o których mowa w § 1, określa Państwowa Komisja Wyborcza.
 
@@ -1351,7 +1439,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Prawo zgłaszania kandydatów w wyborach przysługuje komitetom wyborczym. Komitety wyborcze wykonują również inne czynności wyborcze, a w szczególności prowadzą na zasadzie wyłączności kampanię wyborczą na rzecz kandydatów.
 
-§ 2. W wyborach do i do Senatu oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej komitety wyborcze mogą być tworzone przez partie polityczne i koalicje partii politycznych oraz przez wyborców.
+§ 2. W wyborach do Sejmu i do Senatu oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej komitety wyborcze mogą być tworzone przez partie polityczne i koalicje partii politycznych oraz przez wyborców.
 
 § 3. W wyborach Prezydenta Rzeczypospolitej komitety wyborcze mogą być tworzone wyłącznie przez wyborców.
 
@@ -1425,7 +1513,9 @@ Wybory uzupełniające i przedterminowe
 - **1)** pełnomocnika wyborczego uprawnionego, z zastrzeżeniem art. 127, do występowania na rzecz i w imieniu komitetu wyborczego;
 - **2)** pełnomocnika finansowego, o którym mowa w art. 127.
 
-§ 3. (uchylony) § 4. Pełnomocnik wyborczy, o którym mowa w § 2 pkt 1, zawiadamia właściwy organ wyborczy o utworzeniu komitetu wyborczego wyborców. W zawiadomieniu podaje się imiona, nazwiska, adresy zamieszkania oraz numery ewidencyjne PESEL obywateli tworzących komitet wyborczy wyborców.
+§ 3. (uchylony)
+
+§ 4. Pełnomocnik wyborczy, o którym mowa w § 2 pkt 1, zawiadamia właściwy organ wyborczy o utworzeniu komitetu wyborczego wyborców. W zawiadomieniu podaje się imiona, nazwiska, adresy zamieszkania oraz numery ewidencyjne PESEL obywateli tworzących komitet wyborczy wyborców.
 
 § 5. W zawiadomieniu, o którym mowa w § 4, podaje się również:
 
@@ -1640,7 +1730,7 @@ Wybory uzupełniające i przedterminowe
 - **1)** tożsamości wyborcy udzielającego poparcia za jego pośrednictwem;
 - **2)** prawa wyborcy do udzielenia poparcia;
 - **3)** poparcia udzielonego w postaci papierowej przez wyborcę:
-    - **a)** liście kandydatów – w wyborach do lub wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej,
+    - **a)** liście kandydatów – w wyborach do Sejmu lub wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej,
     - **b)** kandydatowi – w wyborach do Senatu lub wyborach Prezydenta Rzeczypospolitej Polskiej.
 
 § 3. Minister właściwy do spraw informatyzacji zapewnia utrzymanie portalu poparcia, w tym:
@@ -1663,6 +1753,10 @@ Wybory uzupełniające i przedterminowe
 § 4. Minister właściwy do spraw informatyzacji, niezwłocznie po dokonaniu zmiany, o której mowa w § 1, udostępnia do wglądu kod źródłowy portalu poparcia Państwowej Komisji Wyborczej.
 
 **Art. 103f.** Szef Krajowego Biura Wyborczego:
+
+- **1)** wykonuje obowiązki, o których mowa w art. 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych);
+- **2)** określa zasady bezpieczeństwa przetwarzania danych osobowych w portalu poparcia;
+- **3)** określa zasady zgłaszania naruszenia ochrony danych osobowych.
 
 **Art. 103g.**
 
@@ -1704,7 +1798,19 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 103i.** Szef Krajowego Biura Wyborczego niezwłocznie po przyjęciu zawiadomienia o utworzeniu komitetu wyborczego wprowadza do portalu poparcia następujące dane:
 
+- **1)** nazwę komitetu wyborczego;
+- **2)** adres siedziby komitetu wyborczego;
+- **3)** imię (imiona) i nazwisko pełnomocnika wyborczego komitetu wyborczego;
+- **4)** numer ewidencyjny PESEL pełnomocnika wyborczego komitetu wyborczego;
+- **5)** oznaczenie wyborów;
+- **6)** imię (imiona) i nazwisko kandydata – w przypadku wyborów Prezydenta Rzeczypospolitej Polskiej;
+- **7)** imię (imiona) i nazwisko kandydata oraz numer okręgu wyborczego przekazane właściwemu organowi wyborczemu przez pełnomocnika wyborczego lub upoważnioną przez niego osobę – w przypadku wyborów do Senatu;
+- **8)** numer okręgu wyborczego, w którym będą zbierane podpisy popierające zgłoszenia list kandydatów, przekazany właściwemu organowi wyborczemu przez pełnomocnika wyborczego lub upoważnioną przez niego osobę – w przypadku wyborów do Sejmu oraz wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej.
+
 **Art. 103j.** Do portalu poparcia:
+
+- **1)** są przekazywane z Centralnego Rejestru Wyborców dane, o których mowa w art. 103g § 1 pkt 5 i 6, w zakresie niezbędnym do funkcjonowania tego portalu;
+- **2)** mogą być przekazywane z rejestru PESEL dane, o których mowa w art. 103g § 1 pkt 5 lit. c oraz pkt 6 lit. c, w zakresie adresu zameldowania na pobyt stały.
 
 **Art. 103k.**
 
@@ -1713,7 +1819,7 @@ Wybory uzupełniające i przedterminowe
 § 2. Po zalogowaniu się do portalu poparcia oraz uwierzytelnieniu w sposób określony w § 1 osoba udzielająca poparcia uzyskuje informacje o:
 
 - **1)** wyborach, w których lista kandydatów lub kandydat mają zostać zgłoszone;
-- **2)** oznaczeniu okręgu wyborczego, w którym lista kandydatów lub kandydat mają zostać zgłoszone – w przypadku wyborów do i do Senatu oraz wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej;
+- **2)** oznaczeniu okręgu wyborczego, w którym lista kandydatów lub kandydat mają zostać zgłoszone – w przypadku wyborów do Sejmu i do Senatu oraz wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej;
 - **3)** nazwie komitetu wyborczego, który zamierza zgłosić listę kandydatów lub kandydata;
 - **4)** kandydatach na Prezydenta Rzeczypospolitej Polskiej lub na senatora, którym może udzielić poparcia.
 
@@ -1721,13 +1827,16 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 103l.** Szef Krajowego Biura Wyborczego lub działający z jego upoważnienia dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego udostępnia dane gromadzone w portalu poparcia na żądanie:
 
+- **1)** właściwego sądu w związku z postępowaniami w sprawach protestów wyborczych;
+- **2)** sądów, prokuratury lub Policji, prowadzących postępowanie karne.
+
 **Art. 103m.** Zapisy w dziennikach systemów (logach) portalu poparcia przechowywane są przez 5 lat od dnia ich utworzenia.
 
 **Art. 103n.**
 
 § 1. Dane, o których mowa w art. 103g § 1 pkt 5 i 6, przechowywane są w portalu poparcia przez okres 5 lat od dnia wyborów.
 
-§ 2. W przypadku niedokonania zgłoszenia listy kandydatów w wyborach do lub wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej lub kandydata w wyborach do Senatu lub wyborach Prezydenta Rzeczypospolitej Polskiej Szef Krajowego Biura Wyborczego lub działający z jego upoważnienia dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego niezwłocznie usuwa dane, o których mowa w art. 103g § 1 pkt 5, dotyczące wyborców, którzy udzielili poparcia tym listom lub kandydatom.
+§ 2. W przypadku niedokonania zgłoszenia listy kandydatów w wyborach do Sejmu lub wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej lub kandydata w wyborach do Senatu lub wyborach Prezydenta Rzeczypospolitej Polskiej Szef Krajowego Biura Wyborczego lub działający z jego upoważnienia dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego niezwłocznie usuwa dane, o których mowa w art. 103g § 1 pkt 5, dotyczące wyborców, którzy udzielili poparcia tym listom lub kandydatom.
 
 **Art. 103o.** Jeżeli za pośrednictwem portalu poparcia zostały złożone podpisy w wystarczającej liczbie przewidzianej przepisami kodeksu, podpisów złożonych w postaci papierowej nie weryfikuje się pod kątem spełnienia przez nie wymagań określonych przepisami kodeksu.
 
@@ -1802,7 +1911,9 @@ Wybory uzupełniające i przedterminowe
 
 § 3. Plakaty i hasła wyborcze należy umieszczać w taki sposób, aby można je było usunąć bez powodowania szkód.
 
-§ 4. (utracił moc) § 5. Policja lub straż gminna jest obowiązana usuwać na koszt komitetów wyborczych plakaty i hasła wyborcze, których sposób umieszczenia może zagrażać życiu lub zdrowiu ludzi albo bezpieczeństwu mienia bądź bezpieczeństwu w ruchu drogowym.
+§ 4. (utracił moc)
+
+§ 5. Policja lub straż gminna jest obowiązana usuwać na koszt komitetów wyborczych plakaty i hasła wyborcze, których sposób umieszczenia może zagrażać życiu lub zdrowiu ludzi albo bezpieczeństwu mienia bądź bezpieczeństwu w ruchu drogowym.
 
 § 6. Plakaty i hasła wyborcze oraz urządzenia ogłoszeniowe ustawione w celu prowadzenia agitacji wyborczej pełnomocnicy wyborczy obowiązani są usunąć w terminie 30 dni po dniu wyborów.
 
@@ -1865,9 +1976,15 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Komitetom wyborczym, których kandydaci zostali zarejestrowani przysługuje, w okresie od 15 dnia przed dniem wyborów do dnia zakończenia kampanii wyborczej, prawo do rozpowszechniania nieodpłatnie audycji wyborczych, w programach publicznych nadawców radiowych i telewizyjnych na koszt tych nadawców.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. Czas antenowy przysługujący jednemu komitetowi wyborczemu nie może być odstępowany innemu komitetowi wyborczemu.
+§ 2. (uchylony)
 
-§ 5. (uchylony) § 6. Krajowa Rada Radiofonii i Telewizji po zasięgnięciu opinii Państwowej Komisji Wyborczej oraz właściwych zarządów publicznych nadawców radiowych i telewizyjnych oraz właściwych rad programowych, określi, w drodze rozporządzenia:
+§ 3. (uchylony)
+
+§ 4. Czas antenowy przysługujący jednemu komitetowi wyborczemu nie może być odstępowany innemu komitetowi wyborczemu.
+
+§ 5. (uchylony)
+
+§ 6. Krajowa Rada Radiofonii i Telewizji po zasięgnięciu opinii Państwowej Komisji Wyborczej oraz właściwych zarządów publicznych nadawców radiowych i telewizyjnych oraz właściwych rad programowych, określi, w drodze rozporządzenia:
 
 - **1)** czas przeznaczony na rozpowszechnianie nieodpłatnie audycji wyborczych w każdym z programów ogólnokrajowych i programów regionalnych,
 - **2)** ramowy podział czasu rozpowszechniania nieodpłatnie audycji wyborczych w okresie od 15 dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej,
@@ -1899,7 +2016,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 120.**
 
-§ 1. Telewizja Polska Spółka Akcyjna, zwana dalej „Telewizją Polską”, ma obowiązek przeprowadzenia debat pomiędzy przedstawicielami tych komitetów wyborczych w wyborach do lub w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, które zarejestrowały swoje listy kandydatów we wszystkich okręgach wyborczych, a w przypadku wyborów Prezydenta Rzeczypospolitej – pomiędzy kandydatami. Czas debat nie jest wliczany do czasu antenowego, o którym mowa w art. 117 i art. 119.
+§ 1. Telewizja Polska Spółka Akcyjna, zwana dalej „Telewizją Polską”, ma obowiązek przeprowadzenia debat pomiędzy przedstawicielami tych komitetów wyborczych w wyborach do Sejmu lub w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, które zarejestrowały swoje listy kandydatów we wszystkich okręgach wyborczych, a w przypadku wyborów Prezydenta Rzeczypospolitej – pomiędzy kandydatami. Czas debat nie jest wliczany do czasu antenowego, o którym mowa w art. 117 i art. 119.
 
 § 2. Krajowa Rada Radiofonii i Telewizji określi w drodze rozporządzenia, po zasięgnięciu opinii Zarządu Telewizji Polskiej, szczegółowe zasady i tryb przeprowadzenia debat, o których mowa w § 1, w tym czas trwania debat i program ogólnokrajowy, w którym debaty będą przeprowadzane, sposób przygotowania i emisji debat, oraz sposób upowszechnienia informacji o terminie emisji debat – tak, aby zapewnić poszanowanie zasady równości w prezentowaniu stanowisk i opinii uczestników debaty.
 
@@ -2116,7 +2233,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 143.**
 
-§ 1. W wyborach do i do Senatu, wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej oraz wyborach Prezydenta Rzeczypospolitej Państwowa Komisja Wyborcza podaje do publicznej wiadomości w Biuletynie Informacji Publicznej sprawozdanie finansowe komitetu wyborczego w terminie 30 dni od dnia jego złożenia.
+§ 1. W wyborach do Sejmu i do Senatu, wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej oraz wyborach Prezydenta Rzeczypospolitej Państwowa Komisja Wyborcza podaje do publicznej wiadomości w Biuletynie Informacji Publicznej sprawozdanie finansowe komitetu wyborczego w terminie 30 dni od dnia jego złożenia.
 
 § 2. Sprawozdania finansowe, o których mowa w § 1, Państwowa Komisja Wyborcza ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” po upływie terminu, o którym mowa w § 1.
 
@@ -2217,13 +2334,13 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 150.**
 
-§ 1. Partii politycznej, której komitet wyborczy uczestniczył w wyborach, partii politycznej wchodzącej w skład koalicji wyborczej, a także komitetowi wyborczemu wyborców uczestniczących w wyborach do i do Senatu przysługuje prawo do dotacji z budżetu państwa, zwanej dalej „dotacją podmiotową”, za każdy uzyskany mandat posła i senatora. Wydatki związane z dotacją podmiotową pokrywane są z budżetu państwa w części Budżet, finanse publiczne i instytucje finansowe.
+§ 1. Partii politycznej, której komitet wyborczy uczestniczył w wyborach, partii politycznej wchodzącej w skład koalicji wyborczej, a także komitetowi wyborczemu wyborców uczestniczących w wyborach do Sejmu i do Senatu przysługuje prawo do dotacji z budżetu państwa, zwanej dalej „dotacją podmiotową”, za każdy uzyskany mandat posła i senatora. Wydatki związane z dotacją podmiotową pokrywane są z budżetu państwa w części Budżet, finanse publiczne i instytucje finansowe.
 
-§ 2. Wysokość dotacji podmiotowej oblicza się według wzoru: W Dp = ×M, 560 gdzie poszczególne symbole oznaczają: Dp – wysokość przysługującej dotacji podmiotowej, W – sumę wydatków na kampanię wyborczą komitetów wyborczych (do wysokości przysługujących komitetom wyborczym limitów wydatków przewidzianych w wyborach do i do Senatu), które uzyskały co najmniej 1 mandat, M – liczbę mandatów posłów i senatorów uzyskanych przez dany komitet wyborczy.
+§ 2. Wysokość dotacji podmiotowej oblicza się według wzoru: W Dp = ×M, 560 gdzie poszczególne symbole oznaczają: Dp – wysokość przysługującej dotacji podmiotowej, W – sumę wydatków na kampanię wyborczą komitetów wyborczych (do wysokości przysługujących komitetom wyborczym limitów wydatków przewidzianych w wyborach do Sejmu i do Senatu), które uzyskały co najmniej 1 mandat, M – liczbę mandatów posłów i senatorów uzyskanych przez dany komitet wyborczy.
 
 § 3. Dotacja podmiotowa przysługuje wyłącznie do wysokości wydatków uwidocznionej w sprawozdaniu finansowym.
 
-§ 4. Dotacja podmiotowa przysługuje w wysokości, o której mowa w § 2 i 3, także za każdy mandat posła i senatora uzyskany w wyborach ponownych do i do Senatu oraz w wyborach uzupełniających do Senatu.
+§ 4. Dotacja podmiotowa przysługuje w wysokości, o której mowa w § 2 i 3, także za każdy mandat posła i senatora uzyskany w wyborach ponownych do Sejmu i do Senatu oraz w wyborach uzupełniających do Senatu.
 
 § 5. Wysokość dotacji podmiotowej przysługującej partii politycznej wchodzącej w skład koalicji wyborczej ustala się, dzieląc kwotę obliczoną zgodnie z § 2 między partie wchodzące w skład koalicji w proporcjach odpowiadających proporcji wpłat środków finansowych dokonanych przez poszczególne partie, które zawiązały koalicję wyborczą, na rzecz komitetu wyborczego tworzonego przez tę koalicję.
 
@@ -2367,9 +2484,9 @@ Wybory uzupełniające i przedterminowe
 
 § 4b. Liczba członków powołanych w skład Państwowej Komisji Wyborczej, spośród wskazanych przez jeden klub parlamentarny lub poselski, nie może być większa niż 3, z zastrzeżeniem § 4c.
 
-§ 4c. W przypadku gdy w danej kadencji są dwa kluby parlamentarne lub poselskie, pozostałego kandydata do części Państwowej Komisji Wyborczej, o której mowa w § 2 pkt 3, wyłania się w drodze losowania przeprowadzonego przez Prezydium spośród osób zgłoszonych przez kluby parlamentarne lub poselskie; każdy z nich może zgłosić do losowania jedną osobę.
+§ 4c. W przypadku gdy w danej kadencji Sejmu są dwa kluby parlamentarne lub poselskie, pozostałego kandydata do części Państwowej Komisji Wyborczej, o której mowa w § 2 pkt 3, wyłania się w drodze losowania przeprowadzonego przez Prezydium Sejmu spośród osób zgłoszonych przez kluby parlamentarne lub poselskie; każdy z nich może zgłosić do losowania jedną osobę.
 
-§ 4d. Po powołaniu członków Państwowej Komisji Wyborczej, o których mowa w § 2 pkt 3, zmiany w liczbie i składzie klubów parlamentarnych lub poselskich zachodzące w trakcie tej samej kadencji nie mają wpływu na skład Komisji.
+§ 4d. Po powołaniu członków Państwowej Komisji Wyborczej, o których mowa w § 2 pkt 3, zmiany w liczbie i składzie klubów parlamentarnych lub poselskich zachodzące w trakcie tej samej kadencji Sejmu nie mają wpływu na skład Komisji.
 
 § 4e. Członkowie Państwowej Komisji Wyborczej, o których mowa w § 2 pkt 3, nie mogą należeć do partii politycznych ani prowadzić działalności publicznej niedającej się pogodzić z pełnioną funkcją.
 
@@ -2430,7 +2547,7 @@ Wybory uzupełniające i przedterminowe
 - **2)** sprawowanie nadzoru nad aktualizowaniem danych zgromadzonych w Centralnym Rejestrze Wyborców oraz sporządzaniem spisów wyborców;
 - **2a)** prowadzenie wykazu osób, wobec których wydano prawomocne orzeczenie sądu stwierdzające utratę prawa wybieralności, o którym mowa w art. 21a ust. 2a ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów i udostępnianie danych tych osób komisjom wyborczym rejestrujących listy kandydatów i kandydatów;
 - **3)** powoływanie okręgowych i rejonowych komisji wyborczych oraz rozwiązywanie okręgowych i rejonowych komisji wyborczych po wykonaniu ich ustawowych zadań;
-- **3a)** rozwiązywanie w wyborach do i Senatu, wyborach Prezydenta Rzeczypospolitej, wyborach do Parlamentu Europejskiego obwodowych komisji wyborczych po wykonaniu ich ustawowych zadań;
+- **3a)** rozwiązywanie w wyborach do Sejmu i Senatu, wyborach Prezydenta Rzeczypospolitej, wyborach do Parlamentu Europejskiego obwodowych komisji wyborczych po wykonaniu ich ustawowych zadań;
 - **4)** powoływanie i odwoływanie komisarzy wyborczych;
 - **5)** rozpatrywanie skarg na działalność okręgowych komisji wyborczych oraz komisarzy wyborczych;
 - **6)** ustalanie wzorów urzędowych formularzy oraz druków wyborczych, a także wzorów pieczęci organów wyborczych niższego stopnia;
@@ -2652,7 +2769,7 @@ Wybory uzupełniające i przedterminowe
 
 - **1)** sprawowanie nadzoru nad przestrzeganiem prawa wyborczego przez odpowiednio rejonowe lub obwodowe komisje wyborcze;
 - **2)** rejestrowanie okręgowych list kandydatów na posłów i kandydatów na senatora oraz list kandydatów na posłów do Parlamentu Europejskiego;
-- **3)** zarządzanie drukowania kart do głosowania w wyborach do i do Senatu oraz w wyborach do Parlamentu Europejskiego;
+- **3)** zarządzanie drukowania kart do głosowania w wyborach do Sejmu i do Senatu oraz w wyborach do Parlamentu Europejskiego;
 - **4)** ustalanie i ogłaszanie wyników głosowania i wyników wyborów w okręgu wyborczym w zakresie określonym przepisami szczególnymi kodeksu;
 - **5)** rozpatrywanie skarg na działalność odpowiednio rejonowych lub obwodowych komisji wyborczych;
 - **6)** zapewnienie wykonania zadań wyborczych we współdziałaniu z wojewodą, urzędnikami wyborczymi i organami jednostek samorządu terytorialnego;
@@ -2713,21 +2830,25 @@ Wybory uzupełniające i przedterminowe
 - **1)** okazała się mniejsza niż ustawowy skład liczbowy komisji – pozostałych kandydatów do składu komisji wyłania się w drodze publicznego losowania spośród osób zgłoszonych przez wszystkich pełnomocników wyborczych; każdy z nich może zgłosić do losowania tyle osób, ile brakuje do ustawowego składu liczbowego komisji;
 - **2)** miała być większa niż ustawowy skład liczbowy komisji – kandydatów do składu komisji, w liczbie stanowiącej różnicę między ustawowym składem liczbowym komisji a liczbą członków powoływanych na podstawie § 2a pkt 1, wyłania się w drodze publicznego losowania spośród osób zgłoszonych przez pełnomocników wyborczych, o których mowa w § 2a pkt 2; każdy z nich może zgłosić do losowania tylko jedną osobę.
 
-§ 3a. Osoba będąca kandydatem na członka terytorialnej komisji wyborczej musi posiadać bierne prawo wyborcze do najpóźniej w dniu dokonania zgłoszenia.
+§ 3a. Osoba będąca kandydatem na członka terytorialnej komisji wyborczej musi posiadać bierne prawo wyborcze do Sejmu najpóźniej w dniu dokonania zgłoszenia.
 
 § 4. Losowanie, o którym mowa w § 3, przeprowadza:
 
 - **1)** w przypadku wojewódzkiej komisji wyborczej – komisarz wyborczy wykonujący czynności o charakterze ogólnowojewódzkim;
 - **2)** w przypadku powiatowej i gminnej komisji wyborczej – komisarz wyborczy.
 
-§ 5. (uchylony) § 6. W skład wojewódzkiej i powiatowej komisji wyborczej oraz komisji wyborczej w mieście na prawach powiatu wchodzi z urzędu, jako jej przewodniczący, osoba wskazana przez komisarza wyborczego.
+§ 5. (uchylony)
+
+§ 6. W skład wojewódzkiej i powiatowej komisji wyborczej oraz komisji wyborczej w mieście na prawach powiatu wchodzi z urzędu, jako jej przewodniczący, osoba wskazana przez komisarza wyborczego.
 
 § 7. Pierwsze posiedzenie:
 
 - **1)** wojewódzkiej komisji wyborczej – zwołuje niezwłocznie po jej powołaniu komisarz wyborczy wykonujący czynności o charakterze ogólnowojewódzkim;
 - **2)** powiatowej i gminnej komisji wyborczej – zwołuje niezwłocznie po jej powołaniu komisarz wyborczy.
 
-§ 8. (uchylony) § 9. Terytorialna komisja wyborcza na pierwszym posiedzeniu wybiera ze swojego składu przewodniczącego i jego zastępcę, z zastrzeżeniem § 6.
+§ 8. (uchylony)
+
+§ 9. Terytorialna komisja wyborcza na pierwszym posiedzeniu wybiera ze swojego składu przewodniczącego i jego zastępcę, z zastrzeżeniem § 6.
 
 § 10. Skład terytorialnej komisji wyborczej komisarz wyborczy podaje niezwłocznie do publicznej wiadomości w sposób zwyczajowo przyjęty.
 
@@ -2790,7 +2911,9 @@ Wybory uzupełniające i przedterminowe
 - **1)** w liczbie nie mniejszej niż 2/3 ustawowego składu komisji – po jednej osobie zgłoszonej przez każdego z pełnomocników wyborczych reprezentujących komitety wyborcze utworzone przez partie polityczne bądź koalicje partii politycznych, z których list odpowiednio w ostatnich wyborach: wybrano radnych do sejmiku województwa, z tym że kandydatów można zgłaszać tylko na obszarze województwa, na terenie którego komitet wyborczy wprowadził w ostatnich wyborach radnych do sejmiku województwa, albo wybrano posłów do Sejmu; jeżeli liczba takich komitetów wyborczych jest mniejsza niż 2/3 ustawowego składu komisji, prawo wskazania dodatkowej osoby mają pełnomocnicy komitetów wyborczych, o których mowa w pkt 2,
 - **2)** po jednej osobie zgłoszonej przez każdego z pełnomocników wyborczych reprezentujących pozostałe komitety wyborcze – z zastrzeżeniem § 7.
 
-§ 2a. (uchylony) § 3. W skład obwodowych komisji wyborczych w odrębnych obwodach głosowania powołuje się:
+§ 2a. (uchylony)
+
+§ 3. W skład obwodowych komisji wyborczych w odrębnych obwodach głosowania powołuje się:
 
 - **1)** 5 osób w obwodach głosowania do 100 osób,
 - **2)** 7 osób w obwodach głosowania od 101 do 300 osób,
@@ -2863,9 +2986,16 @@ Wybory uzupełniające i przedterminowe
 
 § 2. Komisarz wyborczy odwołuje członka obwodowej komisji wyborczej w przypadku nieuczestniczenia w pracach komisji bez usprawiedliwienia lub podejmowania działań sprzecznych z prawem lub w przypadku niewykonywania lub nienależytego wykonywania obowiązków przez członka komisji.
 
-§ 3. (uchylony) § 4. Uzupełnienie składu obwodowej komisji wyborczej następuje w trybie i na zasadach określonych w przepisach o jej powołaniu. Przepis art. 182 § 10 zdanie drugie stosuje się odpowiednio.
+§ 3. (uchylony)
+
+§ 4. Uzupełnienie składu obwodowej komisji wyborczej następuje w trybie i na zasadach określonych w przepisach o jej powołaniu. Przepis art. 182 § 10 zdanie drugie stosuje się odpowiednio.
 
 **Art. 185.** Do zadań obwodowej komisji wyborczej należy:
+
+- **1)** przeprowadzenie głosowania w obwodzie;
+- **2)** czuwanie w dniu wyborów nad przestrzeganiem prawa wyborczego w miejscu i czasie głosowania;
+- **3)** ustalenie wyników głosowania w obwodzie i podanie ich do publicznej wiadomości;
+- **4)** przesłanie wyników głosowania do właściwej komisji wyborczej.
 
 **Art. 186.**
 
@@ -2944,7 +3074,9 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Urzędnikiem wyborczym nie może być osoba kandydująca w wyborach w okręgu, w skład którego wchodzi gmina właściwa dla obszaru działania urzędnika wyborczego, komisarz wyborczy, pełnomocnik wyborczy, pełnomocnik finansowy, mąż zaufania lub członek komisji wyborczej. Urzędnikiem wyborczym nie może być osoba zatrudniona w urzędzie gminy, gminnej jednostce organizacyjnej lub osobie prawnej, w gminie, w której miałaby wykonywać swoją funkcję.
 
-§ 2. (uchylony) § 3. Urzędnik wyborczy nie może należeć do partii politycznych ani prowadzić działalności publicznej niedającej się pogodzić z pełnioną funkcją.
+§ 2. (uchylony)
+
+§ 3. Urzędnik wyborczy nie może należeć do partii politycznych ani prowadzić działalności publicznej niedającej się pogodzić z pełnioną funkcją.
 
 § 4. Urzędnikiem wyborczym nie może być osoba skazana prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
 
@@ -2996,27 +3128,27 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 191h.** Urzędnicy wyborczy mają obowiązek doskonalenia zawodowego poprzez uczestnictwo w szkoleniach dotyczących organizacji wyborów oraz prawa wyborczego. Szczegółowy zakres przedmiotowy oraz częstotliwość szkoleń określi dla urzędników wyborczych – właściwy miejscowo komisarz wyborczy. W przypadku istotnej zmiany przepisów prawa mającej wpływ na organizację i przebieg wyborów Państwowa Komisja Wyborcza zarządzi powszechny obowiązek szkoleń, o którym mowa w zdaniu pierwszym.
 
-### DZIAŁ III Wybory do
+### DZIAŁ III Wybory do Sejmu
 
 #### Rozdział 1 Zasady ogólne
 
-**Art. 192.** Wybory do są powszechne, równe, bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym.
+**Art. 192.** Wybory do Sejmu są powszechne, równe, bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym.
 
 **Art. 193.**
 
-§ 1. Do wybiera się 460 posłów z list kandydatów na posłów w wielomandatowych okręgach wyborczych.
+§ 1. Do Sejmu wybiera się 460 posłów z list kandydatów na posłów w wielomandatowych okręgach wyborczych.
 
-§ 2. Nie można kandydować równocześnie do i do Senatu.
+§ 2. Nie można kandydować równocześnie do Sejmu i do Senatu.
 
 **Art. 194.**
 
-§ 1. Wybory do zarządza Prezydent Rzeczypospolitej, w drodze postanowienia, nie później niż na 90 dni przed upływem 4 lat od rozpoczęcia kadencji Sejmu, wyznaczając wybory na dzień wolny od pracy, przypadający w ciągu 30 dni przed upływem 4 lat od rozpoczęcia kadencji Sejmu. Postanowienie Prezydenta Rzeczypospolitej podaje się do publicznej wiadomości w Biuletynie Informacji Publicznej i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 5 dniu od dnia zarządzenia wyborów.
+§ 1. Wybory do Sejmu zarządza Prezydent Rzeczypospolitej, w drodze postanowienia, nie później niż na 90 dni przed upływem 4 lat od rozpoczęcia kadencji Sejmu, wyznaczając wybory na dzień wolny od pracy, przypadający w ciągu 30 dni przed upływem 4 lat od rozpoczęcia kadencji Sejmu. Postanowienie Prezydenta Rzeczypospolitej podaje się do publicznej wiadomości w Biuletynie Informacji Publicznej i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 5 dniu od dnia zarządzenia wyborów.
 
 § 2. W postanowieniu, o którym mowa w § 1, Prezydent Rzeczypospolitej, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określa dni, w których upływają terminy wykonania czynności wyborczych przewidzianych w kodeksie (kalendarz wyborczy).
 
 **Art. 195.**
 
-§ 1. W razie skrócenia kadencji na mocy jego uchwały lub na mocy postanowienia Prezydenta Rzeczypospolitej Prezydent zarządza wybory, wyznaczając ich datę na dzień przypadający nie później niż w ciągu 45 dni od dnia wejścia w życie uchwały o skróceniu swojej kadencji lub od dnia ogłoszenia postanowienia Prezydenta Rzeczypospolitej o skróceniu kadencji Sejmu. Postanowienie Prezydenta Rzeczypospolitej o zarządzeniu wyborów podaje się do publicznej wiadomości w Biuletynie Informacji Publicznej i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 5 dniu od dnia jego podpisania. Przepis art. 194 § 2 stosuje się odpowiednio.
+§ 1. W razie skrócenia kadencji Sejmu na mocy jego uchwały lub na mocy postanowienia Prezydenta Rzeczypospolitej Prezydent zarządza wybory, wyznaczając ich datę na dzień przypadający nie później niż w ciągu 45 dni od dnia wejścia w życie uchwały Sejmu o skróceniu swojej kadencji lub od dnia ogłoszenia postanowienia Prezydenta Rzeczypospolitej o skróceniu kadencji Sejmu. Postanowienie Prezydenta Rzeczypospolitej o zarządzeniu wyborów podaje się do publicznej wiadomości w Biuletynie Informacji Publicznej i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 5 dniu od dnia jego podpisania. Przepis art. 194 § 2 stosuje się odpowiednio.
 
 § 2. Wybory, o których mowa w § 1, przeprowadza się w trybie i na zasadach określonych w kodeksie, z tym że:
 
@@ -3045,7 +3177,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 199.**
 
-§ 1. W wyborach do komitety wyborcze mogą wydatkować na agitację wyborczą wyłącznie kwoty ograniczone limitami, ustalonymi w następujący sposób:
+§ 1. W wyborach do Sejmu komitety wyborcze mogą wydatkować na agitację wyborczą wyłącznie kwoty ograniczone limitami, ustalonymi w następujący sposób:
 
 - **1)** wysokość limitu wyznaczona jest kwotą 82 groszy przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania;
 - **2)** limit wydatków dla danego komitetu oblicza się według wzoru: L = (w × k × m)/460, gdzie poszczególne symbole oznaczają: L – limit wydatków, w – łączną liczbę wyborców w kraju ujętych w Centralnym Rejestrze Wyborców w obwodach głosowania, k – kwotę przypadającą na każdego wyborcę w kraju ujętego w Centralnym Rejestrze Wyborców w obwodzie głosowania, o której mowa w pkt 1, m – łączną liczbę posłów wybieranych we wszystkich okręgach wyborczych, w których komitet zarejestrował listy kandydatów.
@@ -3062,7 +3194,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 201.**
 
-§ 1. W celu przeprowadzenia wyborów do tworzy się wielomandatowe okręgi wyborcze, zwane dalej „okręgami wyborczymi”.
+§ 1. W celu przeprowadzenia wyborów do Sejmu tworzy się wielomandatowe okręgi wyborcze, zwane dalej „okręgami wyborczymi”.
 
 § 2. W okręgu wyborczym wybiera się co najmniej 7 posłów.
 
@@ -3085,13 +3217,13 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Państwowa Komisja Wyborcza przedkłada Sejmowi wnioski w sprawie zmiany granic okręgów wyborczych i liczby posłów w nich wybieranych, jeżeli konieczność taka wynika ze zmian w zasadniczym podziale terytorialnym państwa lub ze zmiany liczby mieszkańców w okręgu wyborczym lub w kraju.
 
-§ 2. Dokonywanie zmian granic powiatów pociągających za sobą zmiany granic okręgów wyborczych jest niedopuszczalne w okresie 12 miesięcy poprzedzających upływ kadencji Sejmu, jak i w okresie od zarządzenia wyborów w razie skrócenia kadencji aż do dnia stwierdzenia ważności wyborów.
+§ 2. Dokonywanie zmian granic powiatów pociągających za sobą zmiany granic okręgów wyborczych jest niedopuszczalne w okresie 12 miesięcy poprzedzających upływ kadencji Sejmu, jak i w okresie od zarządzenia wyborów w razie skrócenia kadencji Sejmu aż do dnia stwierdzenia ważności wyborów.
 
 § 3. Sejm dokonuje, z zastrzeżeniem § 5, zmian w podziale na okręgi wyborcze z przyczyn, o których mowa w § 1, nie później niż na 3 miesiące przed dniem, w którym upływa termin zarządzenia wyborów do Sejmu.
 
 § 4. Ustalenie liczby mieszkańców, o której mowa w § 1, następuje na podstawie danych według stanu na koniec trzeciego kwartału roku poprzedzającego rok, w którym upływa kadencja Sejmu.
 
-§ 5. W razie skrócenia kadencji zmian w podziale na okręgi wyborcze nie dokonuje się.
+§ 5. W razie skrócenia kadencji Sejmu zmian w podziale na okręgi wyborcze nie dokonuje się.
 
 #### Rozdział 3 Zgłaszanie kandydatów na posłów
 
@@ -3155,9 +3287,13 @@ Wybory uzupełniające i przedterminowe
 
 § 2. Wyborca udzielający poparcia liście kandydatów składa podpis obok czytelnie wpisanego swojego nazwiska i imienia, adresu zamieszkania i numeru ewidencyjnego PESEL oraz daty udzielenia poparcia.
 
-§ 3. Wykaz podpisów musi zawierać na każdej stronie nazwę komitetu wyborczego zgłaszającego listę, numer okręgu wyborczego, w którym lista jest zgłaszana, oraz adnotację: „Udzielam poparcia liście kandydatów na posłów zgłaszanej przez ................ (nazwa komitetu wyborczego) w okręgu wyborczym ............ (numer okręgu) w wyborach do Rzeczypospolitej Polskiej zarządzonych na ............... (dzień, miesiąc, rok).”. <§ 4. Wyborca może udzielić poparcia liście kandydatów także za pośrednictwem portalu poparcia.>
+§ 3. Wykaz podpisów musi zawierać na każdej stronie nazwę komitetu wyborczego zgłaszającego listę, numer okręgu wyborczego, w którym lista jest zgłaszana, oraz adnotację: „Udzielam poparcia liście kandydatów na posłów zgłaszanej przez ................ (nazwa komitetu wyborczego) w okręgu wyborczym ............ (numer okręgu) w wyborach do Sejmu Rzeczypospolitej Polskiej zarządzonych na ............... (dzień, miesiąc, rok).”. <§ 4. Wyborca może udzielić poparcia liście kandydatów także za pośrednictwem portalu poparcia.>
 
-**Art. 210.** [§ 1. Lista kandydatów powinna być poparta, w sposób, o którym mowa w art. 209 § 2 i 3, podpisami co najmniej 5000 wyborców stale zamieszkałych w danym okręgu wyborczym.] <§ 1. Lista kandydatów powinna być poparta w sposób, o którym mowa w art. 103k lub art. 209 § 2 i 3, podpisami co najmniej 5000 wyborców stale zamieszkałych w danym okręgu wyborczym.> § 2. Komitet wyborczy, który z zachowaniem wymogów określonych w § 1, zgłosił listy kandydatów co najmniej w połowie okręgów wyborczych, uprawniony jest do zgłoszenia dalszych list bez poparcia zgłoszenia podpisami wyborców. Zgłoszenia list kandydatów przez komitety wyborcze bez zachowania wymogu, o którym mowa w § 1 uznaje się za skuteczne, jeżeli listy kandydatów zgłoszone z zachowaniem wymogów określonych w § 1 zostaną zarejestrowane co najmniej w połowie okręgów wyborczych.
+**Art. 210.** [§ 1. Lista kandydatów powinna być poparta, w sposób, o którym mowa w art. 209 § 2 i 3, podpisami co najmniej 5000 wyborców stale zamieszkałych w danym okręgu wyborczym.] <§ 1. Lista kandydatów powinna być poparta w sposób, o którym mowa w art. 103k lub art. 209 § 2 i 3, podpisami co najmniej 5000 wyborców stale zamieszkałych w danym okręgu wyborczym.>
+
+§ 2. Komitet wyborczy, który z zachowaniem wymogów określonych w § 1, zgłosił listy kandydatów co najmniej w połowie okręgów wyborczych, uprawniony jest do zgłoszenia dalszych list bez poparcia zgłoszenia podpisami wyborców. Zgłoszenia list kandydatów przez komitety wyborcze bez zachowania wymogu, o którym mowa w § 1 uznaje się za skuteczne, jeżeli listy kandydatów zgłoszone z zachowaniem wymogów określonych w § 1 zostaną zarejestrowane co najmniej w połowie okręgów wyborczych.
+
+§ 3. Okręgowe komisje wyborcze informują niezwłocznie Państwową Komisję Wyborczą o zarejestrowanych listach kandydatów. Państwowa Komisja Wyborcza informuje niezwłocznie okręgowe komisje wyborcze o komitetach wyborczych, które zarejestrowały listy co najmniej w połowie okręgów wyborczych.
 
 **Art. 211.**
 
@@ -3388,19 +3524,19 @@ Wybory uzupełniające i przedterminowe
 
 § 2. W razie stwierdzenia nieprawidłowości w ustaleniu wyników wyborów Państwowa Komisja Wyborcza zarządza ponowne ich ustalenie. Przepisy art. 232– 236 stosuje się odpowiednio.
 
-#### Rozdział 7 Ogłaszanie wyników wyborów do
+#### Rozdział 7 Ogłaszanie wyników wyborów do Sejmu
 
 **Art. 238.** Państwowa Komisja Wyborcza ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej w formie obwieszczenia oraz podaje do publicznej wiadomości wyniki wyborów do Sejmu. W obwieszczeniu zamieszcza się podstawowe informacje zawarte w protokołach wyborów posłów w okręgach wyborczych.
 
 **Art. 239.** Państwowa Komisja Wyborcza wręcza posłom zaświadczenia o wyborze.
 
-**Art. 240.** Państwowa Komisja Wyborcza przesyła Prezydentowi Rzeczypospolitej, Marszałkowi oraz Sądowi Najwyższemu sprawozdanie z wyborów nie później niż 14 dnia po ogłoszeniu obwieszczenia, o którym mowa w art. 238.
+**Art. 240.** Państwowa Komisja Wyborcza przesyła Prezydentowi Rzeczypospolitej, Marszałkowi Sejmu oraz Sądowi Najwyższemu sprawozdanie z wyborów nie później niż 14 dnia po ogłoszeniu obwieszczenia, o którym mowa w art. 238.
 
 #### Rozdział 8 Ważność wyborów
 
 **Art. 241.**
 
-§ 1. Protest przeciwko ważności wyborów do wnosi się na piśmie do Sądu Najwyższego w terminie 7 dni od dnia ogłoszenia wyników wyborów przez Państwową Komisję Wyborczą w Dzienniku Ustaw Rzeczypospolitej Polskiej. Nadanie w tym terminie protestu w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe jest równoznaczne z wniesieniem go do Sądu Najwyższego.
+§ 1. Protest przeciwko ważności wyborów do Sejmu wnosi się na piśmie do Sądu Najwyższego w terminie 7 dni od dnia ogłoszenia wyników wyborów przez Państwową Komisję Wyborczą w Dzienniku Ustaw Rzeczypospolitej Polskiej. Nadanie w tym terminie protestu w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe jest równoznaczne z wniesieniem go do Sądu Najwyższego.
 
 § 2. W odniesieniu do wyborcy przebywającego za granicą lub na polskim statku morskim wymogi wymienione w § 1 uważa się za spełnione, jeżeli protest został złożony odpowiednio właściwemu terytorialnie konsulowi lub kapitanowi statku. Wyborca obowiązany jest dołączyć do protestu zawiadomienie o ustanowieniu swojego pełnomocnika zamieszkałego w kraju lub pełnomocnika do doręczeń zamieszkałego w kraju, pod rygorem pozostawienia protestu bez biegu.
 
@@ -3450,7 +3586,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 246.** W razie podjęcia przez Sąd Najwyższy uchwały o nieważności wyborów i jej ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej przeprowadza się wybory ponowne, w zakresie unieważnienia, na zasadach i w trybie przewidzianych w kodeksie. Przepis art. 245 § 2 stosuje się odpowiednio.
 
-#### Rozdział 9 Wygaśnięcie mandatu posła i uzupełnienie składu
+#### Rozdział 9 Wygaśnięcie mandatu posła i uzupełnienie składu Sejmu
 
 **Art. 247.**
 
@@ -3471,7 +3607,7 @@ Wybory uzupełniające i przedterminowe
 
 § 3a. Wygaśnięcie mandatu posła wskutek objęcia urzędu Prezydenta Rzeczypospolitej następuje z chwilą złożenia wobec Zgromadzenia Narodowego przysięgi, o której mowa w art. 130 Konstytucji Rzeczypospolitej Polskiej.
 
-§ 4. Przepis § 3 stosuje się odpowiednio w odniesieniu do posła, który od dnia wyborów do dnia rozpoczęcia kadencji objął stanowisko lub funkcję, których stosownie do przepisów Konstytucji Rzeczypospolitej Polskiej albo ustaw nie można łączyć z mandatem posła oraz w odniesieniu do posła, który uzyskał mandat w toku kadencji Sejmu.
+§ 4. Przepis § 3 stosuje się odpowiednio w odniesieniu do posła, który od dnia wyborów do dnia rozpoczęcia kadencji Sejmu objął stanowisko lub funkcję, których stosownie do przepisów Konstytucji Rzeczypospolitej Polskiej albo ustaw nie można łączyć z mandatem posła oraz w odniesieniu do posła, który uzyskał mandat w toku kadencji Sejmu.
 
 § 5. Wygaśnięcie mandatu posła powołanego lub wybranego w czasie kadencji na stanowisko lub funkcję, o których mowa w § 1 pkt 6 i 7, następuje z dniem powołania lub wybrania.
 
@@ -3479,7 +3615,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Państwowa Komisja Wyborcza, po ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej wyników wyborów do Sejmu, przekazuje niezwłocznie Ministrowi Sprawiedliwości dane posłów zawierające imię (imiona), nazwisko, nazwisko rodowe, imiona rodziców, datę i miejsce urodzenia, adres zamieszkania, obywatelstwo oraz numer ewidencyjny PESEL.
 
-§ 2. Minister Sprawiedliwości na podstawie danych zgromadzonych w Krajowym Rejestrze Karnym przekazuje Marszałkowi w terminie 14 dni od dnia otrzymania danych, o których mowa w § 1:
+§ 2. Minister Sprawiedliwości na podstawie danych zgromadzonych w Krajowym Rejestrze Karnym przekazuje Marszałkowi Sejmu w terminie 14 dni od dnia otrzymania danych, o których mowa w § 1:
 
 - **1)** informację o posłach skazanych prawomocnym wyrokiem na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego lub za umyślne przestępstwo skarbowe oraz o posłach pozbawionych praw publicznych prawomocnym orzeczeniem sądu albo
 - **2)** informację, o tym, że żaden z posłów nie został skazany prawomocnym wyrokiem na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego lub za umyślne przestępstwo skarbowe ani nie został pozbawiony praw publicznych prawomocnym orzeczeniem sądu.
@@ -3488,7 +3624,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 249.**
 
-§ 1. Wygaśnięcie mandatu posła niezwłocznie stwierdza Marszałek w drodze postanowienia.
+§ 1. Wygaśnięcie mandatu posła niezwłocznie stwierdza Marszałek Sejmu w drodze postanowienia.
 
 § 2. Postanowienie, o którym mowa w § 1, ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, z zastrzeżeniem art. 250.
 
@@ -3496,23 +3632,23 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 250.**
 
-§ 1. Postanowienie Marszałka o wygaśnięciu mandatu posła z przyczyn określonych w art. 247 § 1 pkt 2–7 wraz z uzasadnieniem doręcza się niezwłocznie posłowi. Od postanowienia posłowi przysługuje prawo odwołania do Sądu Najwyższego w terminie 3 dni od dnia doręczenia postanowienia. Odwołanie wnosi się za pośrednictwem Marszałka Sejmu.
+§ 1. Postanowienie Marszałka Sejmu o wygaśnięciu mandatu posła z przyczyn określonych w art. 247 § 1 pkt 2–7 wraz z uzasadnieniem doręcza się niezwłocznie posłowi. Od postanowienia posłowi przysługuje prawo odwołania do Sądu Najwyższego w terminie 3 dni od dnia doręczenia postanowienia. Odwołanie wnosi się za pośrednictwem Marszałka Sejmu.
 
-§ 2. Sąd Najwyższy rozpatruje odwołanie, o którym mowa w § 1, i orzeka w sprawie w terminie 7 dni w postępowaniu nieprocesowym. Odpis postanowienia Sądu Najwyższego doręcza się posłowi, który wniósł odwołanie, Marszałkowi oraz Państwowej Komisji Wyborczej. W przypadku nieuwzględnienia odwołania przepisy art. 249 § 2 i 3 stosuje się.
+§ 2. Sąd Najwyższy rozpatruje odwołanie, o którym mowa w § 1, i orzeka w sprawie w terminie 7 dni w postępowaniu nieprocesowym. Odpis postanowienia Sądu Najwyższego doręcza się posłowi, który wniósł odwołanie, Marszałkowi Sejmu oraz Państwowej Komisji Wyborczej. W przypadku nieuwzględnienia odwołania przepisy art. 249 § 2 i 3 stosuje się.
 
 **Art. 251.**
 
-§ 1. Marszałek zawiadamia, na podstawie informacji Państwowej Komisji Wyborczej, kolejnego kandydata z tej samej listy kandydatów, który w wyborach otrzymał kolejno największą liczbę głosów, o przysługującym mu pierwszeństwie do mandatu, w przypadku:
+§ 1. Marszałek Sejmu zawiadamia, na podstawie informacji Państwowej Komisji Wyborczej, kolejnego kandydata z tej samej listy kandydatów, który w wyborach otrzymał kolejno największą liczbę głosów, o przysługującym mu pierwszeństwie do mandatu, w przypadku:
 
 - **1)** śmierci posła;
-- **2)** upływu terminu do wniesienia odwołania od postanowienia Marszałka o wygaśnięciu mandatu;
-- **3)** nieuwzględnienia odwołania od postanowienia Marszałka o wygaśnięciu mandatu przez Sąd Najwyższy.
+- **2)** upływu terminu do wniesienia odwołania od postanowienia Marszałka Sejmu o wygaśnięciu mandatu;
+- **3)** nieuwzględnienia odwołania od postanowienia Marszałka Sejmu o wygaśnięciu mandatu przez Sąd Najwyższy.
 
 § 2. Jeżeli pierwszeństwo do mandatu przysługuje więcej niż jednemu kandydatowi stosuje się odpowiednio art. 233.
 
 § 3. Oświadczenie o przyjęciu mandatu powinno być złożone w terminie 7 dni od dnia doręczenia zawiadomienia. Niezłożenie oświadczenia w terminie, o którym mowa w zdaniu poprzednim, oznacza zrzeczenie się pierwszeństwa do obsadzenia mandatu.
 
-§ 4. Kandydat może zrzec się pierwszeństwa do obsadzenia mandatu na rzecz kandydata z tej samej listy, który uzyskał kolejno największą liczbę głosów. Oświadczenie o zrzeczeniu się pierwszeństwa do obsadzenia mandatu powinno być złożone Marszałkowi w terminie 7 dni od dnia doręczenia zawiadomienia, o którym mowa w § 1.
+§ 4. Kandydat może zrzec się pierwszeństwa do obsadzenia mandatu na rzecz kandydata z tej samej listy, który uzyskał kolejno największą liczbę głosów. Oświadczenie o zrzeczeniu się pierwszeństwa do obsadzenia mandatu powinno być złożone Marszałkowi Sejmu w terminie 7 dni od dnia doręczenia zawiadomienia, o którym mowa w § 1.
 
 § 5. O obsadzeniu mandatu postanawia Marszałek Sejmu. Przepisy art. 249 § 2 i 3 stosuje się odpowiednio.
 
@@ -3554,7 +3690,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 256.** Do Senatu wybiera się 100 senatorów według zasady większości.
 
-**Art. 257.** Zarządzenie przez Prezydenta Rzeczypospolitej wyborów do jest równoznaczne z zarządzeniem wyborów do Senatu.
+**Art. 257.** Zarządzenie przez Prezydenta Rzeczypospolitej wyborów do Sejmu jest równoznaczne z zarządzeniem wyborów do Senatu.
 
 **Art. 258.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy działu III kodeksu.
 
@@ -3624,7 +3760,15 @@ Wybory uzupełniające i przedterminowe
 
 § 2. Kandydować można tylko w jednym okręgu wyborczym i tylko w ramach zgłoszenia przez jeden komitet wyborczy.
 
-**Art. 265.** [§ 1. Zgłoszenie kandydata na senatora powinno być poparte podpisami co najmniej 2000 wyborców.] <§ 1. Zgłoszenie kandydata na senatora powinno być poparte przez co najmniej 2000 wyborców.> § 2. Wyborca może udzielić poparcia więcej niż jednemu kandydatowi na senatora.
+**Art. 265.** [§ 1. Zgłoszenie kandydata na senatora powinno być poparte podpisami co najmniej 2000 wyborców.] <§ 1. Zgłoszenie kandydata na senatora powinno być poparte przez co najmniej 2000 wyborców.>
+
+§ 2. Wyborca może udzielić poparcia więcej niż jednemu kandydatowi na senatora.
+
+§ 3. Wyborca udzielający poparcia zgłoszeniu kandydata na senatora składa podpis obok czytelnie wpisanego swojego nazwiska i imienia, adresu zamieszkania, numeru ewidencyjnego PESEL oraz daty udzielenia poparcia.
+
+§ 4. Wykaz podpisów musi zawierać na każdej stronie nazwę komitetu wyborczego zgłaszającego kandydata, numer okręgu wyborczego, w którym kandydat jest zgłaszany, oraz adnotację: „Udzielam poparcia kandydatowi na senatora ................. (nazwisko, imię – imiona) zgłaszanemu przez .......................... (nazwa komitetu wyborczego) w okręgu wyborczym .............. (numer okręgu) w wyborach do Senatu Rzeczypospolitej Polskiej zarządzonych na ............... (dzień, miesiąc, rok).”. <§ 4a. Wyborca może udzielić poparcia kandydatowi na senatora także za pośrednictwem portalu poparcia.>
+
+§ 5. Poparcia dla zgłoszenia kandydata na senatora może udzielić wyłącznie wyborca stale zamieszkały w danym okręgu wyborczym.
 
 **Art. 265a.** Jeżeli, w przypadku, o którym mowa w art. 222 § 1, skreślenie nazwiska kandydata na senatora nastąpiło wskutek jego śmierci, komisja zawiadamia osobę zgłaszającą kandydata o możliwości zgłoszenia nowego kandydata. Zgłoszenia dokonuje się najpóźniej w 13 dniu przed dniem wyborów; w takim przypadku przepisu art. 265 § 1 nie stosuje się.
 
@@ -3799,7 +3943,7 @@ Wybory uzupełniające i przedterminowe
 
 § 4. Czas rozpowszechniania audycji wyborczych w odpowiednim programie regionalnym jest dzielony między uprawnione komitety wyborcze proporcjonalnie do liczby kandydatów na senatorów zarejestrowanych przez nie w okręgach wyborczych objętych zasięgiem danego programu.
 
-§ 5. Krajowa Rada Radiofonii i Telewizji, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, zasady i sposób łącznego prowadzenia kampanii wyborczej w programach radiowych i telewizyjnych przez komitety wyborcze uprawnione do rozpowszechniania audycji wyborczych w wyborach do i do Senatu.
+§ 5. Krajowa Rada Radiofonii i Telewizji, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, zasady i sposób łącznego prowadzenia kampanii wyborczej w programach radiowych i telewizyjnych przez komitety wyborcze uprawnione do rozpowszechniania audycji wyborczych w wyborach do Sejmu i do Senatu.
 
 **Art. 285.**
 
@@ -3813,7 +3957,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Komitet wyborczy, który zarejestrował kandydata lub kandydatów na senatorów, ma prawo do dotacji z budżetu państwa na zasadach określonych w art. 150.
 
-§ 2. W wyborach uzupełniających wysokość dotacji dla komitetu wyborczego zgłaszającego kandydata, który uzyskał mandat, oblicza się w ten sposób, że ogólną kwotę dotacji przypadającą na wszystkie komitety wyborcze w ostatnio przeprowadzonych wyborach do i do Senatu dzieli się przez 560 i mnoży przez wskaźnik przeciętnego wzrostu cen towarów i usług konsumpcyjnych. Wskaźnik ten oblicza Główny Urząd Statystyczny za okres od miesiąca, w którym przeprowadzono wybory do i Senatu, do miesiąca, w którym odbyły się wybory uzupełniające.
+§ 2. W wyborach uzupełniających wysokość dotacji dla komitetu wyborczego zgłaszającego kandydata, który uzyskał mandat, oblicza się w ten sposób, że ogólną kwotę dotacji przypadającą na wszystkie komitety wyborcze w ostatnio przeprowadzonych wyborach do Sejmu i do Senatu dzieli się przez 560 i mnoży przez wskaźnik przeciętnego wzrostu cen towarów i usług konsumpcyjnych. Wskaźnik ten oblicza Główny Urząd Statystyczny za okres od miesiąca, w którym przeprowadzono wybory do Sejmu i Senatu, do miesiąca, w którym odbyły się wybory uzupełniające.
 
 ### DZIAŁ V Wybory Prezydenta Rzeczypospolitej
 
@@ -3825,13 +3969,13 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 289.**
 
-§ 1. Wybory zarządza Marszałek nie wcześniej niż na 7 miesięcy i nie później niż na 6 miesięcy przed upływem kadencji urzędującego Prezydenta Rzeczypospolitej i wyznacza ich datę na dzień wolny od pracy przypadający nie wcześniej niż na 100 dni i nie później niż na 75 dni przed upływem kadencji urzędującego Prezydenta Rzeczypospolitej.
+§ 1. Wybory zarządza Marszałek Sejmu nie wcześniej niż na 7 miesięcy i nie później niż na 6 miesięcy przed upływem kadencji urzędującego Prezydenta Rzeczypospolitej i wyznacza ich datę na dzień wolny od pracy przypadający nie wcześniej niż na 100 dni i nie później niż na 75 dni przed upływem kadencji urzędującego Prezydenta Rzeczypospolitej.
 
-§ 2. W razie opróżnienia urzędu Prezydenta Rzeczypospolitej Marszałek zarządza wybory nie później niż w czternastym dniu po opróżnieniu urzędu i wyznacza datę wyborów na dzień wolny od pracy przypadający w ciągu 60 dni od dnia zarządzenia wyborów.
+§ 2. W razie opróżnienia urzędu Prezydenta Rzeczypospolitej Marszałek Sejmu zarządza wybory nie później niż w czternastym dniu po opróżnieniu urzędu i wyznacza datę wyborów na dzień wolny od pracy przypadający w ciągu 60 dni od dnia zarządzenia wyborów.
 
 **Art. 290.**
 
-§ 1. Marszałek zarządza wybory Prezydenta Rzeczypospolitej w drodze postanowienia. Postanowienie Marszałka podaje się do publicznej wiadomości i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 3 dniu od dnia zarządzenia wyborów.
+§ 1. Marszałek Sejmu zarządza wybory Prezydenta Rzeczypospolitej w drodze postanowienia. Postanowienie Marszałka Sejmu podaje się do publicznej wiadomości i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 3 dniu od dnia zarządzenia wyborów.
 
 § 2. W postanowieniu, o którym mowa w § 1, Marszałek Sejmu, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określa dni, w których upływają terminy wykonania czynności wyborczych przewidzianych w kodeksie (kalendarz wyborczy).
 
@@ -3861,7 +4005,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Jeżeli w wyborach, o których mowa w art. 289 i art. 292, głosowanie miałoby być przeprowadzone tylko na jednego kandydata, Państwowa Komisja Wyborcza stwierdza ten fakt w drodze uchwały, którą przekazuje Marszałkowi Sejmu, podaje do publicznej wiadomości i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
-§ 2. Marszałek ponownie zarządza wybory nie później niż w 14 dniu od dnia ogłoszenia uchwały Państwowej Komisji Wyborczej w Dzienniku Ustaw. Przepisy art. 289 § 2 i art. 290 stosuje się odpowiednio.
+§ 2. Marszałek Sejmu ponownie zarządza wybory nie później niż w 14 dniu od dnia ogłoszenia uchwały Państwowej Komisji Wyborczej w Dzienniku Ustaw. Przepisy art. 289 § 2 i art. 290 stosuje się odpowiednio.
 
 § 3. Przepis § 1 stosuje się odpowiednio w przypadku braku kandydatów.
 
@@ -3877,7 +4021,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 295.**
 
-§ 1. W razie zbiegu terminu wyborów do i Senatu z wyborami Prezydenta Rzeczypospolitej, wybory Prezydenta Rzeczypospolitej przeprowadzają komisje wyborcze powołane dla wyborów do Sejmu.
+§ 1. W razie zbiegu terminu wyborów do Sejmu i Senatu z wyborami Prezydenta Rzeczypospolitej, wybory Prezydenta Rzeczypospolitej przeprowadzają komisje wyborcze powołane dla wyborów do Sejmu.
 
 § 2. Przepis § 1 stosuje się odpowiednio w razie zbiegu terminu wyborów uzupełniających do Senatu i wyborów Prezydenta Rzeczypospolitej.
 
@@ -3913,7 +4057,7 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 299.**
 
-§ 1. Po zebraniu, zgodnie z wymaganiami określonymi w art. 303 § 1 pkt 3, co najmniej 1000 podpisów obywateli mających prawo wybierania do i popierających kandydata, pełnomocnik wyborczy zawiadamia o utworzeniu komitetu wyborczego Państwową Komisję Wyborczą. Podpisy, o których mowa w zdaniu pierwszym, stanowią część wymaganej liczby 100 000 podpisów obywateli popierających kandydata.
+§ 1. Po zebraniu, zgodnie z wymaganiami określonymi w art. 303 § 1 pkt 3, co najmniej 1000 podpisów obywateli mających prawo wybierania do Sejmu i popierających kandydata, pełnomocnik wyborczy zawiadamia o utworzeniu komitetu wyborczego Państwową Komisję Wyborczą. Podpisy, o których mowa w zdaniu pierwszym, stanowią część wymaganej liczby 100 000 podpisów obywateli popierających kandydata.
 
 § 2. W zawiadomieniu o utworzeniu komitetu wyborczego podaje się:
 
@@ -3945,7 +4089,9 @@ Wybory uzupełniające i przedterminowe
 
 - **1)** imię (imiona), nazwisko, wiek i miejsce zamieszkania (miejscowość) zgłaszanego kandydata na Prezydenta Rzeczypospolitej wraz ze wskazaniem jego przynależności do partii politycznej;
 - **2)** nazwę komitetu wyborczego oraz imię (imiona), nazwisko i adres do korespondencji pełnomocnika wyborczego oraz pełnomocnika finansowego;
-- **3)** wykaz obywateli popierających zgłoszenie, zawierający czytelne wskazanie imienia (imion) i nazwiska, adresu zamieszkania, daty udzielenia poparcia oraz numeru ewidencyjnego PESEL obywatela, który udziela poparcia, składając na wykazie własnoręczny podpis; każda strona wykazu musi zawierać nazwę komitetu wyborczego zgłaszającego kandydata oraz adnotację: „Udzielam poparcia kandydatowi na Prezydenta Rzeczypospolitej .............. [imię (imiona) i nazwisko kandydata] w wyborach zarządzonych na ......... (dzień, miesiąc, rok).”; <4) oświadczenie o liczbie podpisów wyborców popierających kandydata za pośrednictwem portalu poparcia.> § 2. Wycofanie udzielonego poparcia nie rodzi skutków prawnych. <§ 3. Wyborca może udzielić poparcia także za pośrednictwem portalu poparcia.>
+- **3)** wykaz obywateli popierających zgłoszenie, zawierający czytelne wskazanie imienia (imion) i nazwiska, adresu zamieszkania, daty udzielenia poparcia oraz numeru ewidencyjnego PESEL obywatela, który udziela poparcia, składając na wykazie własnoręczny podpis; każda strona wykazu musi zawierać nazwę komitetu wyborczego zgłaszającego kandydata oraz adnotację: „Udzielam poparcia kandydatowi na Prezydenta Rzeczypospolitej .............. [imię (imiona) i nazwisko kandydata] w wyborach zarządzonych na ......... (dzień, miesiąc, rok).”; <4) oświadczenie o liczbie podpisów wyborców popierających kandydata za pośrednictwem portalu poparcia.>
+
+§ 2. Wycofanie udzielonego poparcia nie rodzi skutków prawnych. <§ 3. Wyborca może udzielić poparcia także za pośrednictwem portalu poparcia.>
 
 **Art. 304.**
 
@@ -3954,9 +4100,13 @@ Wybory uzupełniające i przedterminowe
 § 2. Państwowa Komisja Wyborcza, sprawdzając prawidłowość zgłoszenia kandydata, bada:
 
 - **1)** czy kandydat spełnia warunki określone w art. 11 § 1 pkt 3;
-- **2)** zgodność danych, o których mowa w art. 297 § 4, na podstawie dostępnych urzędowo dokumentów; [3) czy zgłoszenie kandydatury poparło podpisami co najmniej 100 000 obywateli, zgodnie z art. 303 § 1 pkt 3.] <3) czy zgłoszenie kandydatury poparło co najmniej 100 000 obywateli, zgodnie z art. 103k i art. 303 § 1 pkt 3.> § 3. Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata, jeżeli kandydat nie posiada prawa wybieralności.
+- **2)** zgodność danych, o których mowa w art. 297 § 4, na podstawie dostępnych urzędowo dokumentów; [3) czy zgłoszenie kandydatury poparło podpisami co najmniej 100 000 obywateli, zgodnie z art. 303 § 1 pkt 3.] <3) czy zgłoszenie kandydatury poparło co najmniej 100 000 obywateli, zgodnie z art. 103k i art. 303 § 1 pkt 3.>
 
-§ 4. Jeżeli zgłoszenie wykazuje wady, Państwowa Komisja Wyborcza niezwłocznie wzywa pełnomocnika wyborczego do usunięcia wskazanych wad zgłoszenia w terminie 2 dni od daty podania do publicznej wiadomości informacji o wadach zgłoszenia. W przypadku nieusunięcia wad w terminie Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata. [§ 4a. Jeżeli liczba prawidłowo złożonych podpisów wyborców popierających zgłoszenie kandydata jest mniejsza niż wymagana, Państwowa Komisja Wyborcza wzywa pełnomocnika wyborczego do uzupełnienia wykazu podpisów, o ile nie upłynął termin, o którym mowa w art. 303 § 1. Uzupełnienie wykazu podpisów jest możliwe do upływu terminu, o którym mowa w art. 303 § 1.] <§ 4a. Jeżeli liczba wyborców prawidłowo udzielających poparcia zgłoszeniu kandydata jest mniejsza niż wymagana, Państwowa Komisja Wyborcza wzywa pełnomocnika wyborczego do uzupełnienia wykazu podpisów lub uzyskania poparcia za pośrednictwem portalu poparcia, o ile nie upłynął termin, o którym mowa w art. 303 § 1. Uzupełnienie wykazu podpisów lub uzyskanie poparcia za pośrednictwem portalu poparcia jest możliwe do upływu terminu, o którym mowa w art. 303 § 1.> [§ 4b. Jeżeli uzupełnienia wykazu podpisów nie dokonano przed upływem terminu, o którym mowa w art. 303 § 1, Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata.] <§ 4b. Jeżeli uzupełnienia, o którym mowa w § 4a, nie dokonano przed upływem terminu, o którym mowa w art. 303 § 1, Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata.> § 5. Postanowienie Państwowej Komisji Wyborczej, o którym mowa w § 3, 4 i 4b, wraz z uzasadnieniem, podaje się niezwłocznie do publicznej wiadomości oraz doręcza się pełnomocnikowi wyborczemu.
+§ 3. Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata, jeżeli kandydat nie posiada prawa wybieralności.
+
+§ 4. Jeżeli zgłoszenie wykazuje wady, Państwowa Komisja Wyborcza niezwłocznie wzywa pełnomocnika wyborczego do usunięcia wskazanych wad zgłoszenia w terminie 2 dni od daty podania do publicznej wiadomości informacji o wadach zgłoszenia. W przypadku nieusunięcia wad w terminie Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata. [§ 4a. Jeżeli liczba prawidłowo złożonych podpisów wyborców popierających zgłoszenie kandydata jest mniejsza niż wymagana, Państwowa Komisja Wyborcza wzywa pełnomocnika wyborczego do uzupełnienia wykazu podpisów, o ile nie upłynął termin, o którym mowa w art. 303 § 1. Uzupełnienie wykazu podpisów jest możliwe do upływu terminu, o którym mowa w art. 303 § 1.] <§ 4a. Jeżeli liczba wyborców prawidłowo udzielających poparcia zgłoszeniu kandydata jest mniejsza niż wymagana, Państwowa Komisja Wyborcza wzywa pełnomocnika wyborczego do uzupełnienia wykazu podpisów lub uzyskania poparcia za pośrednictwem portalu poparcia, o ile nie upłynął termin, o którym mowa w art. 303 § 1. Uzupełnienie wykazu podpisów lub uzyskanie poparcia za pośrednictwem portalu poparcia jest możliwe do upływu terminu, o którym mowa w art. 303 § 1.> [§ 4b. Jeżeli uzupełnienia wykazu podpisów nie dokonano przed upływem terminu, o którym mowa w art. 303 § 1, Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata.] <§ 4b. Jeżeli uzupełnienia, o którym mowa w § 4a, nie dokonano przed upływem terminu, o którym mowa w art. 303 § 1, Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata.>
+
+§ 5. Postanowienie Państwowej Komisji Wyborczej, o którym mowa w § 3, 4 i 4b, wraz z uzasadnieniem, podaje się niezwłocznie do publicznej wiadomości oraz doręcza się pełnomocnikowi wyborczemu.
 
 § 6. Pełnomocnikowi wyborczemu służy prawo wniesienia skargi do Sądu Najwyższego na postanowienie Państwowej Komisji Wyborczej o odmowie rejestracji kandydata. Skargę wnosi się w terminie 2 dni od daty podania do publicznej wiadomości postanowienia o odmowie rejestracji kandydata.
 
@@ -3990,6 +4140,9 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 312.** Za nieważny uznaje się głos:
 
+- **1)** oddany na karcie do głosowania, na której wyborca umieścił znak „x” przy więcej niż jednym nazwisku kandydata;
+- **2)** oddany na karcie do głosowania, na której wyborca nie umieścił znaku „x” przy żadnym z nazwisk kandydatów.
+
 #### Rozdział 5 Ustalanie wyników głosowania i wyboru Prezydenta Rzeczypospolitej. Ważność wyborów
 
 **Art. 313.** Obwodowa komisja wyborcza po ustaleniu wyników wyborów sporządza protokół głosowania w obwodzie w wyborach na Prezydenta Rzeczypospolitej i przekazuje go okręgowej komisji wyborczej.
@@ -4014,7 +4167,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Na podstawie wyników ustalonych w protokole głosowania Państwowa Komisja Wyborcza stwierdza, w drodze uchwały, wynik wyborów na Prezydenta Rzeczypospolitej.
 
-§ 2. Uchwałę, o której mowa w § 1, Państwowa Komisja Wyborcza przekazuje niezwłocznie Marszałkowi i urzędującemu Prezydentowi Rzeczypospolitej oraz wręcza nowo wybranemu Prezydentowi Rzeczypospolitej.
+§ 2. Uchwałę, o której mowa w § 1, Państwowa Komisja Wyborcza przekazuje niezwłocznie Marszałkowi Sejmu i urzędującemu Prezydentowi Rzeczypospolitej oraz wręcza nowo wybranemu Prezydentowi Rzeczypospolitej.
 
 **Art. 318.**
 
@@ -4034,7 +4187,7 @@ Wybory uzupełniające i przedterminowe
 
 § 3. Państwowa Komisja Wyborcza podaje do publicznej wiadomości w formie obwieszczenia wyniki ponownego głosowania i wynik wyborów. Obwieszczenie Państwowej Komisji Wyborczej podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
-**Art. 320.** Nie później niż 14 dnia po podaniu do publicznej wiadomości wyników wyborów, Państwowa Komisja Wyborcza przesyła Marszałkowi i Sądowi Najwyższemu sprawozdanie z wyborów.
+**Art. 320.** Nie później niż 14 dnia po podaniu do publicznej wiadomości wyników wyborów, Państwowa Komisja Wyborcza przesyła Marszałkowi Sejmu i Sądowi Najwyższemu sprawozdanie z wyborów.
 
 **Art. 321.**
 
@@ -4074,7 +4227,7 @@ Wybory uzupełniające i przedterminowe
 
 § 1. W razie podjęcia przez Sąd Najwyższy uchwały stwierdzającej nieważność wyboru Prezydenta Rzeczypospolitej, przeprowadza się nowe wybory na zasadach i w trybie przewidzianych w kodeksie.
 
-§ 2. Postanowienie Marszałka o nowych wyborach podaje się do publicznej wiadomości i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 5 dniu od dnia ogłoszenia uchwały Sądu Najwyższego, o której mowa w § 1.
+§ 2. Postanowienie Marszałka Sejmu o nowych wyborach podaje się do publicznej wiadomości i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 5 dniu od dnia ogłoszenia uchwały Sądu Najwyższego, o której mowa w § 1.
 
 #### Rozdział 6 Kampania wyborcza w programach publicznych nadawców radiowych i telewizyjnych
 
@@ -4184,6 +4337,10 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 341.** Prawo zgłaszania kandydatów na posłów do Parlamentu Europejskiego przysługuje:
 
+- **1)** komitetowi wyborczemu partii politycznej;
+- **2)** koalicyjnemu komitetowi wyborczemu;
+- **3)** komitetowi wyborczemu wyborców.
+
 **Art. 342.** Liczba kandydatów na posłów do Parlamentu Europejskiego zgłaszanych na liście kandydatów nie może być mniejsza niż 5 i większa niż 10. [Art. 343. Lista kandydatów powinna być poparta podpisami co najmniej 10 000 wyborców stale zamieszkałych w danym okręgu wyborczym. Przepisy art. 210 § 2 i 3 stosuje się.] <Art. 343. Lista kandydatów powinna być poparta przez co najmniej 10 000 wyborców stale zamieszkałych w danym okręgu wyborczym. Wyborca może udzielić poparcia liście kandydatów także za pośrednictwem portalu poparcia. Przepisy art. 210 § 2 i 3 stosuje się.>
 
 **Art. 344.**
@@ -4266,7 +4423,9 @@ Wybory uzupełniające i przedterminowe
 
 § 3. Protokół podpisują wszystkie osoby wchodzące w skład komisji obecne przy jego sporządzaniu. Protokół opatruje się pieczęcią komisji.
 
-§ 4. (uchylony) § 5. Przewodniczący rejonowej komisji wyborczej przekazuje niezwłocznie do właściwej okręgowej komisji wyborczej dane z protokołu dotyczące liczby głosów ważnych oddanych łącznie na wszystkie listy kandydatów i głosów ważnych oddanych na poszczególne listy kandydatów oraz głosów ważnych oddanych na poszczególnych kandydatów, w sposób ustalony przez Państwową Komisję Wyborczą.
+§ 4. (uchylony)
+
+§ 5. Przewodniczący rejonowej komisji wyborczej przekazuje niezwłocznie do właściwej okręgowej komisji wyborczej dane z protokołu dotyczące liczby głosów ważnych oddanych łącznie na wszystkie listy kandydatów i głosów ważnych oddanych na poszczególne listy kandydatów oraz głosów ważnych oddanych na poszczególnych kandydatów, w sposób ustalony przez Państwową Komisję Wyborczą.
 
 § 6. Protokół wyników głosowania w rejonie przewodniczący rejonowej komisji wyborczej przesyła niezwłocznie do okręgowej komisji wyborczej w trybie ustalonym przez Państwową Komisję Wyborczą. Protokoły głosowania z obwodów głosowania oraz pozostałe dokumenty z wyborów przekazuje dyrektorowi delegatury Krajowego Biura Wyborczego właściwej dla siedziby komisji.
 
@@ -4370,13 +4529,16 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 362.**
 
-§ 1. Państwowa Komisja Wyborcza przesyła Prezydentowi Rzeczypospolitej, Marszałkowi i Sądowi Najwyższemu sprawozdanie z wyborów oraz wręcza posłom do Parlamentu Europejskiego zaświadczenia o wyborze nie później niż 14. dnia po ogłoszeniu obwieszczenia, o którym mowa w art. 361.
+§ 1. Państwowa Komisja Wyborcza przesyła Prezydentowi Rzeczypospolitej, Marszałkowi Sejmu i Sądowi Najwyższemu sprawozdanie z wyborów oraz wręcza posłom do Parlamentu Europejskiego zaświadczenia o wyborze nie później niż 14. dnia po ogłoszeniu obwieszczenia, o którym mowa w art. 361.
 
-§ 2. Marszałek niezwłocznie po ogłoszeniu obwieszczenia, o którym mowa w art. 361, przesyła Przewodniczącemu Parlamentu Europejskiego zawiadomienie o wyborze posłów do Parlamentu Europejskiego i inne wymagane przez Parlament Europejski dokumenty.
+§ 2. Marszałek Sejmu niezwłocznie po ogłoszeniu obwieszczenia, o którym mowa w art. 361, przesyła Przewodniczącemu Parlamentu Europejskiego zawiadomienie o wyborze posłów do Parlamentu Europejskiego i inne wymagane przez Parlament Europejski dokumenty.
 
 #### Rozdział 7 Wygaśnięcie mandatu. Utrata mandatu
 
 **Art. 363.** Wygaśnięcie mandatu posła do Parlamentu Europejskiego następuje w przypadku:
+
+- **1)** śmierci;
+- **2)** zrzeczenia się mandatu.
 
 **Art. 364.**
 
@@ -4397,33 +4559,33 @@ Wybory uzupełniające i przedterminowe
 
 § 3. Utrata mandatu posła do Parlamentu Europejskiego, w przypadku, o którym mowa w § 1 pkt 2a i 3, następuje z dniem powołania lub wybrania.
 
-§ 4. Jeżeli poseł do Parlamentu Europejskiego uzyskał mandat posła na Sejm na podstawie art. 251, traci mandat posła do Parlamentu Europejskiego z dniem wydania przez Marszałka postanowienia o obsadzeniu mandatu posła na Sejm.
+§ 4. Jeżeli poseł do Parlamentu Europejskiego uzyskał mandat posła na Sejm na podstawie art. 251, traci mandat posła do Parlamentu Europejskiego z dniem wydania przez Marszałka Sejmu postanowienia o obsadzeniu mandatu posła na Sejm.
 
 **Art. 365.** Do posłów do Parlamentu Europejskiego stosuje się przepisy art. 248.
 
 **Art. 366.**
 
-§ 1. Utratę mandatu posła do Parlamentu Europejskiego niezwłocznie stwierdza Marszałek w drodze postanowienia.
+§ 1. Utratę mandatu posła do Parlamentu Europejskiego niezwłocznie stwierdza Marszałek Sejmu w drodze postanowienia.
 
 § 2. Postanowienie, o którym mowa w § 1, ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, z zastrzeżeniem art. 367.
 
 § 3. Postanowienie, o którym mowa w § 1, doręcza się niezwłocznie Państwowej Komisji Wyborczej, z zastrzeżeniem art. 367.
 
-§ 4. O utracie mandatu posła do Parlamentu Europejskiego Marszałek niezwłocznie zawiadamia Przewodniczącego Parlamentu Europejskiego, z zastrzeżeniem art. 367.
+§ 4. O utracie mandatu posła do Parlamentu Europejskiego Marszałek Sejmu niezwłocznie zawiadamia Przewodniczącego Parlamentu Europejskiego, z zastrzeżeniem art. 367.
 
 **Art. 367.**
 
-§ 1. Postanowienie Marszałka o utracie mandatu posła do Parlamentu Europejskiego z przyczyn określonych w art. 364 § 1 pkt 1–3 wraz z uzasadnieniem doręcza się niezwłocznie temu posłowi. Od postanowienia posłowi przysługuje prawo odwołania do Sądu Najwyższego w terminie 3 dni od dnia doręczenia postanowienia. Odwołanie wnosi się za pośrednictwem Marszałka Sejmu.
+§ 1. Postanowienie Marszałka Sejmu o utracie mandatu posła do Parlamentu Europejskiego z przyczyn określonych w art. 364 § 1 pkt 1–3 wraz z uzasadnieniem doręcza się niezwłocznie temu posłowi. Od postanowienia posłowi przysługuje prawo odwołania do Sądu Najwyższego w terminie 3 dni od dnia doręczenia postanowienia. Odwołanie wnosi się za pośrednictwem Marszałka Sejmu.
 
-§ 2. Sąd Najwyższy rozpatruje odwołanie, o którym mowa w § 1, i orzeka w sprawie w terminie 7 dni w postępowaniu nieprocesowym. Odpis postanowienia Sądu Najwyższego doręcza się posłowi, który wniósł odwołanie, Marszałkowi oraz Państwowej Komisji Wyborczej. W przypadku nieuwzględnienia odwołania przepisy art. 366 § 2–4 stosuje się.
+§ 2. Sąd Najwyższy rozpatruje odwołanie, o którym mowa w § 1, i orzeka w sprawie w terminie 7 dni w postępowaniu nieprocesowym. Odpis postanowienia Sądu Najwyższego doręcza się posłowi, który wniósł odwołanie, Marszałkowi Sejmu oraz Państwowej Komisji Wyborczej. W przypadku nieuwzględnienia odwołania przepisy art. 366 § 2–4 stosuje się.
 
 **Art. 368.**
 
-§ 1. Marszałek zawiadamia, na podstawie informacji Państwowej Komisji Wyborczej, kolejnego kandydata z tej samej listy kandydatów, który w wyborach otrzymał kolejno największą liczbę głosów, o przysługującym mu pierwszeństwie do mandatu w przypadku:
+§ 1. Marszałek Sejmu zawiadamia, na podstawie informacji Państwowej Komisji Wyborczej, kolejnego kandydata z tej samej listy kandydatów, który w wyborach otrzymał kolejno największą liczbę głosów, o przysługującym mu pierwszeństwie do mandatu w przypadku:
 
 - **1)** wygaśnięcia mandatu posła do Parlamentu Europejskiego, stwierdzonego przez Przewodniczącego Parlamentu Europejskiego;
-- **2)** upływu terminu do wniesienia odwołania od postanowienia Marszałka o utracie mandatu;
-- **3)** nieuwzględnienia odwołania od postanowienia Marszałka o utracie mandatu przez Sąd Najwyższy.
+- **2)** upływu terminu do wniesienia odwołania od postanowienia Marszałka Sejmu o utracie mandatu;
+- **3)** nieuwzględnienia odwołania od postanowienia Marszałka Sejmu o utracie mandatu przez Sąd Najwyższy.
 
 § 2. Przepisu § 1 nie stosuje się w przypadku utraty mandatu posła do Parlamentu Europejskiego na podstawie art. 364 § 1 pkt 4.
 
@@ -4431,9 +4593,9 @@ Wybory uzupełniające i przedterminowe
 
 § 4. Oświadczenie o przyjęciu mandatu powinno być złożone w terminie 7 dni od dnia doręczenia zawiadomienia. Niezłożenie oświadczenia w terminie, o którym mowa w zdaniu poprzednim, oznacza zrzeczenie się pierwszeństwa do obsadzenia mandatu.
 
-§ 5. Kandydat może zrzec się pierwszeństwa do obsadzenia mandatu na rzecz kolejnego uprawnionego kandydata z tej samej listy. Oświadczenie o ustąpieniu pierwszeństwa powinno być złożone Marszałkowi w terminie 7 dni od dnia doręczenia zawiadomienia, o którym mowa w § 1.
+§ 5. Kandydat może zrzec się pierwszeństwa do obsadzenia mandatu na rzecz kolejnego uprawnionego kandydata z tej samej listy. Oświadczenie o ustąpieniu pierwszeństwa powinno być złożone Marszałkowi Sejmu w terminie 7 dni od dnia doręczenia zawiadomienia, o którym mowa w § 1.
 
-§ 6. Jeżeli obsadzenie mandatu posła do Parlamentu Europejskiego w trybie określonym w § 1–3 byłoby niemożliwe z powodu braku kandydatów, którym mandat można przydzielić, Marszałek o przysługującym pierwszeństwie do mandatu zawiadamia, na podstawie obwieszczenia, o którym mowa w art. 361, kandydata z innej listy kandydatów tego samego komitetu wyborczego, który w wyborach otrzymał największą liczbę głosów, o ile nie uzyskał mandatu.
+§ 6. Jeżeli obsadzenie mandatu posła do Parlamentu Europejskiego w trybie określonym w § 1–3 byłoby niemożliwe z powodu braku kandydatów, którym mandat można przydzielić, Marszałek Sejmu o przysługującym pierwszeństwie do mandatu zawiadamia, na podstawie obwieszczenia, o którym mowa w art. 361, kandydata z innej listy kandydatów tego samego komitetu wyborczego, który w wyborach otrzymał największą liczbę głosów, o ile nie uzyskał mandatu.
 
 § 7. O obsadzeniu mandatu postanawia Marszałek Sejmu. Przepisy art. 366 § 2– 4 stosuje się odpowiednio.
 
@@ -4620,7 +4782,9 @@ Wybory uzupełniające i przedterminowe
 
 § 3. Przepisy § 1 pkt 1 i 2 stosuje się odpowiednio w przypadku radnego stale zamieszkałego na obszarze okręgu wyborczego lub jego części włączanego do sąsiedniej jednostki, a wybranego w innym okręgu wyborczym włączanym także w całości lub w części do tej jednostki.
 
-§ 4. W przypadku zmiany składu rady z przyczyn, o których mowa w § 1 pkt 1 i 2 oraz w § 3, rada działa w zmienionym składzie do końca kadencji, z zastrzeżeniem § 5. Zmiany w składach rad ogłasza, w formie obwieszczenia, komisarz wyborczy w wojewódzkim dzienniku urzędowym.
+§ 4. W przypadku zmiany składu rady z przyczyn, o których mowa w § 1 pkt 1 i 2 oraz w § 3, rada działa w zmienionym składzie do końca kadencji, z zastrzeżeniem
+
+§ 5. Zmiany w składach rad ogłasza, w formie obwieszczenia, komisarz wyborczy w wojewódzkim dzienniku urzędowym.
 
 § 5. Jeżeli w wyniku zmian, o których mowa w § 4, skład rady zmniejszył się poniżej 3/5 ustawowej liczby radnych, rada jednostki zostaje z mocy prawa rozwiązana.
 
@@ -4696,9 +4860,17 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 398.** W przypadku wyborów uzupełniających, wyborów przedterminowych lub wyborów do nowych rad:
 
+- **1)** zawiadomienia, o których mowa w art. 86 § 2, art. 87 § 5, art. 88 § 3 oraz art. 89 § 4, składa się właściwemu komisarzowi wyborczemu;
+- **2)** zawiadomienie, o którym mowa w art. 89 § 4, nie wymaga zebrania podpisów obywateli popierających utworzenie komitetu.
+
 #### Rozdział 7 Zgłaszanie kandydatów na radnych
 
 **Art. 399.** Prawo zgłaszania kandydatów na radnych przysługuje:
+
+- **1)** komitetowi wyborczemu partii politycznej;
+- **2)** koalicyjnemu komitetowi wyborczemu;
+- **3)** komitetowi wyborczemu organizacji;
+- **4)** komitetowi wyborczemu wyborców.
 
 **Art. 400.**
 
@@ -4783,6 +4955,10 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 408.** Listy kandydatów zarejestrowane w wyborach do organów stanowiących jednostek samorządu terytorialnego otrzymują numery ustalane w drodze losowania przez:
 
+- **1)** Państwową Komisję Wyborczą;
+- **2)** komisarzy wyborczych;
+- **3)** gminne komisje wyborcze.
+
 **Art. 409.**
 
 § 1. Jeżeli komitet wyborczy zarejestrował listy kandydatów co najmniej w połowie okręgów w wyborach do wszystkich sejmików województw, w tym przynajmniej jedną listę do każdego sejmiku, listy kandydatów tego komitetu zarejestrowane w wyborach do sejmików województw, rad powiatów i rad gmin otrzymują jednolity numer.
@@ -4844,6 +5020,9 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 413.** Wybory do rad gmin, pod nadzorem Państwowej Komisji Wyborczej i komisarzy wyborczych, przeprowadzają:
 
+- **1)** gminne komisje wyborcze;
+- **2)** obwodowe komisje wyborcze.
+
 **Art. 414.** Radni są wybierani w okręgach wyborczych bezpośrednio spośród zgłoszonych kandydatów.
 
 **Art. 415.** W gminie liczącej do 20 000 mieszkańców o wyborze na radnego rozstrzyga liczba ważnie oddanych głosów na poszczególnych kandydatów.
@@ -4896,7 +5075,9 @@ Wybory uzupełniające i przedterminowe
 
 § 1. Na postanowienie komisarza wyborczego w sprawach okręgów wyborczych zainteresowanej radzie gminy, a także wyborcom w liczbie co najmniej 15, przysługuje prawo wniesienia skargi do Naczelnego Sądu Administracyjnego w terminie 3 dni od daty podania do publicznej wiadomości postanowienia, o którym mowa w art. 419 § 4. Skargę wnosi się za pośrednictwem komisarza wyborczego. Komisarz wyborczy w terminie 2 dni przekazuje skargę Naczelnemu Sądowi Administracyjnemu wraz z kompletnymi i uporządkowanymi aktami sprawy i odpowiedzią na skargę oraz informacją o posiadaniu praw wyborczych przez wnoszących skargę, w postaci papierowej lub elektronicznej. Naczelny Sąd Administracyjny rozpoznaje sprawę na posiedzeniu niejawnym w składzie trzech sędziów nie później niż w ciągu 5 dni od dnia jej wpływu i wydaje orzeczenie, doręczając je niezwłocznie wnoszącym skargę oraz komisarzowi wyborczemu. Od orzeczenia Naczelnego Sądu Administracyjnego nie przysługuje środek prawny.
 
-§ 2. (uchylony) § 3. W zakresie nieuregulowanym w kodeksie do postępowania przed Naczelnym Sądem Administracyjnym stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685) dotyczące spraw ze skarg, o których mowa w art. 3 § 2 pkt 1 tej ustawy, z wyłączeniem art. 52–55, art. 61 § 2–6, art. 90, art. 91 § 2, art. 93, art. 96–122, art. 145 § 1 pkt 1 lit. b, pkt 2 i 3 oraz art. 243–262, z tym, że termin, o którym mowa w art. 193 tej ustawy wynosi 5 dni.
+§ 2. (uchylony)
+
+§ 3. W zakresie nieuregulowanym w kodeksie do postępowania przed Naczelnym Sądem Administracyjnym stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685) dotyczące spraw ze skarg, o których mowa w art. 3 § 2 pkt 1 tej ustawy, z wyłączeniem art. 52–55, art. 61 § 2–6, art. 90, art. 91 § 2, art. 93, art. 96–122, art. 145 § 1 pkt 1 lit. b, pkt 2 i 3 oraz art. 243–262, z tym, że termin, o którym mowa w art. 193 tej ustawy wynosi 5 dni.
 
 **Art. 421.**
 
@@ -5136,6 +5317,9 @@ Wybory uzupełniające i przedterminowe
 
 **Art. 451.** Wybory do rad powiatów, pod nadzorem Państwowej Komisji Wyborczej i komisarzy wyborczych, przeprowadzają:
 
+- **1)** powiatowe komisje wyborcze;
+- **2)** obwodowe komisje wyborcze.
+
 **Art. 452.**
 
 § 1. W razie zarządzenia wyborów do rad powiatów na ten sam dzień, na który zarządzono wybory do rad gmin, głosowanie przeprowadzają obwodowe komisje wyborcze powołane dla wyborów do rad gmin, na podstawie tych samych spisów wyborców.
@@ -5194,6 +5378,10 @@ Wybory uzupełniające i przedterminowe
 § 3. Ilekroć w przepisach niniejszego rozdziału jest mowa o powiatowej komisji wyborczej rozumie się przez to również miejską komisję wyborczą w mieście na prawach powiatu.
 
 **Art. 460.** Wybory do sejmików województw, pod nadzorem Państwowej Komisji Wyborczej i komisarzy wyborczych, przeprowadzają:
+
+- **1)** wojewódzkie komisje wyborcze;
+- **2)** powiatowe komisje wyborcze;
+- **3)** obwodowe komisje wyborcze.
 
 **Art. 461.**
 
@@ -5592,6 +5780,15 @@ Wybory uzupełniające i przedterminowe
 **Art. 505a.** Pełnomocnik finansowy komitetu wyborczego, który w związku z wyborami nie dopełnia obowiązku prowadzenia, umieszczania na stronie internetowej lub uaktualniania rejestru zaciągniętych kredytów lub rejestru wpłat osób fizycznych – podlega karze grzywny.
 
 **Art. 506.** Kto, w związku z wyborami:
+
+- **1)** pozyskuje korzyści majątkowe na rzecz komitetu wyborczego lub wydatkuje środki finansowe komitetu wyborczego na cele inne niż związane z wyborami,
+- **2)** pozyskuje korzyści majątkowe na rzecz komitetu wyborczego lub wydatkuje środki finansowe komitetu wyborczego przed dniem, od którego zezwala na to ustawa,
+- **3)** pozyskuje korzyści majątkowe na rzecz komitetu wyborczego po dniu wyborów,
+- **4)** wydatkuje środki finansowe komitetu wyborczego po dniu złożenia sprawozdania finansowego,
+- **5)** wydatkuje środki finansowe komitetu wyborczego z naruszeniem limitów wydatków określonych dla komitetów wyborczych,
+- **6)** udziela komitetowi wyborczemu organizacji albo komitetowi wyborczemu wyborców lub przyjmuje w imieniu tych komitetów korzyść majątkową pochodzącą z innego źródła niż od obywatela polskiego mającego miejsce stałego zamieszkania na terytorium Rzeczypospolitej Polskiej,
+- **7)** udziela komitetowi wyborczemu partii politycznej albo koalicyjnemu komitetowi wyborczemu lub przyjmuje w imieniu tych komitetów korzyść majątkową z innego źródła niż z funduszu wyborczego partii politycznej tworzącej komitet wyborczy partii politycznej lub z funduszów wyborczych partii politycznych tworzących koalicyjny komitet wyborczy,
+- **8)** nie będąc obywatelem polskim mającym miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej, dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań komitetu wyborczego – podlega grzywnie od 1000 do 100 000 złotych.
 
 **Art. 507.** Kto, w związku z wyborami, udziela komitetowi wyborczemu lub przyjmuje w jego imieniu korzyść majątkową o charakterze niepieniężnym inną niż nieodpłatne usługi polegające na rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne, pomocy w pracach biurowych udzielanej przez osoby fizyczne, wykorzystanie przedmiotów i urządzeń, w tym pojazdów mechanicznych, udostępnianych nieodpłatnie przez osoby fizyczne, nieodpłatne udostępnianie miejsc do ekspozycji materiałów wyborczych przez osoby fizyczne nieprowadzące działalności gospodarczej w zakresie reklamy – podlega grzywnie od 1000 do 100 000 złotych.
 

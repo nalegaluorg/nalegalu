@@ -8,10 +8,10 @@ pos: 591
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 maja 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 591 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 8 maja 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/591/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 8 maja 2014 r.
-w sprawie szczegółowych wymagań, jakim powinien odpowiadać plan zagospodarowania podziemnego składowiska dwutlenku węgla Na podstawie art. 27a ust. 6 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981, z późn. zm. ) zarządza się, co następuje: § 1. Plan zagospodarowania podziemnego składowiska dwutlenku węgla określa:
+w sprawie szczegółowych wymagań, jakim powinien odpowiadać plan zagospodarowania podziemnego składowiska dwutlenku węgla Na podstawie art. 27a ust. 6 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981, z późn. zm. ) zarządza się, co następuje:
+§ 1. Plan zagospodarowania podziemnego składowiska dwutlenku węgla określa:
 1) optymalny wariant wykorzystania pojemności podziemnego składowiska dwutlenku węgla, z uwzględnieniem:
 a) warunków geologicznych kompleksu podziemnego składowania dwutlenku węgla,
 b) technicznych możliwości oraz ekonomicznych uwarunkowań eksploatacji składowiska,
@@ -41,7 +41,7 @@ c) przewidywanego sposobu zamknięcia składowiska i likwidacji zakładu górnic
 1) nazwę i adres podmiotu, który zamówił i sfinansował plan, oraz jego podpis;
 2) nazwę i adres podmiotu, który wykonał plan, a także imię, nazwisko i podpis osoby sporządzającej plan;
 3) informacje dotyczące środków, w tym organizacyjnych, finansowych i technicznych, jakimi dysponuje podmiot, który zamówił i sfinansował plan, w celu zapewnienia prawidłowego wykonywania działalności polegającej na podziemnym składowaniu dwutlenku węgla, oraz określenie kwalifikacji tego podmiotu lub jego pracowników, w tym w zakresie górnictwa i ratownictwa górniczego;
-4) informacje o położeniu i granicach kompleksu podziemnego składowania dwutlenku węgla, w tym podziemnego składowiska dwutlenku węgla, oraz określenie granic projektowanego obszaru górniczego i terenu górniczego wraz z podaniem współrzędnych punktów załamania tych granic, określonych w państwowym systemie odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm. );
+4) informacje o położeniu i granicach kompleksu podziemnego składowania dwutlenku węgla, w tym podziemnego składowiska dwutlenku węgla, oraz określenie granic projektowanego obszaru górniczego i terenu górniczego wraz z podaniem współrzędnych punktów załamania tych granic, określonych w państwowym systemie odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2010 r. Nr 193, poz. 1287, z późn. zm. );
 5) charakterystykę warunków geograficznych i ochrony środowiska oraz uwarunkowań prawnych wpływających na ograniczenie możliwości eksploatacji podziemnego składowiska dwutlenku węgla lub jego części i na lokalizację obiektów zakładu górniczego wraz z określeniem lokalizacji tych obiektów;
 6) opis instalacji służących do podziemnego składowania dwutlenku węgla, w tym instalacji zatłaczającej i instalacji służącej do prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla, oraz zastosowanej technologii składowania wraz ze wskazaniem instalacji, które mogą powodować zagrożenie wystąpienia nieprawidłowości, oraz z charakterystyką tych nieprawidłowości;
 7) obliczenia całkowitej pojemności podziemnego składowiska dwutlenku węgla oraz jego pojemności przy proponowanym sposobie eksploatacji;
@@ -50,7 +50,7 @@ c) przewidywanego sposobu zamknięcia składowiska i likwidacji zakładu górnic
 a) litologii, mineralogii oraz parametrów zbiornikowych (ciśnienie, temperatura, porowatość, przepuszczalność i nasycenie płynami złożowymi) warstw skalnych wraz z charakterystyką ich lateralnej zmienności,
 b) warunków geologiczno-inżynierskich warstw skalnych wraz z charakterystyką ich lateralnej zmienności, w tym ciśnienia szczelinowania i geochemii (pH oraz współczynniki rozpuszczalności i mineralizacji),
 c) warunków hydrogeologicznych, w szczególności chemizmu, ciśnienia, stref zasilania i kierunku przepływu wód podziemnych w poszczególnych poziomach wodonośnych,
-d) dróg ewentualnej migracji płynów złożowych: naturalnych, w tym uskoki, rozmycia erozyjne, systemy spękań i formy krasowe, antropogenicznych, w tym otwory wiertnicze i wyrobiska górnicze;
+d) dróg ewentualnej migracji płynów złożowych: – naturalnych, w tym uskoki, rozmycia erozyjne, systemy spękań i formy krasowe, – antropogenicznych, w tym otwory wiertnicze i wyrobiska górnicze;
 10) opis trójwymiarowego statycznego geologicznego modelu górotworu, opracowanego dla kompleksu podziemnego składowania dwutlenku węgla, w tym podziemnego składowiska dwutlenku węgla, wraz z przedstawieniem sposobu jego opracowania;
 11) informacje o oczekiwanym rozwoju zmian ciśnienia, temperatury i chemizmu wód w kompleksie podziemnego składowania dwutlenku węgla oraz przewidywanym rozprzestrzenianiu i rozpuszczaniu dwutlenku węgla podczas i po zakończeniu jego zatłaczania, uzyskane w wyniku symulacji wykonanych w ramach modelowania dynamicznego;
 12) informację o przewidywanym terminie rozpoczęcia i zakończenia eksploatacji oraz zamknięcia podziemnego składowiska dwutlenku węgla;
@@ -67,9 +67,9 @@ d) dróg ewentualnej migracji płynów złożowych: naturalnych, w tym uskoki, r
 6) schemat instalacji służących do podziemnego składowania dwutlenku węgla.
 4. Do planu zagospodarowania podziemnego składowiska dwutlenku węgla dołącza się kopie decyzji zatwierdzających dokumentacje geologiczne lub dodatki do dokumentacji geologicznych lub kopie innych dokumentów, na podstawie których został sporządzony plan.
 5. Szczegółowe wymagania, jakim powinien odpowiadać:
-1) plan monitoringu kompleksu podziemnego składowania dwutlenku węgla określa załącznik nr 1 do rozporządzenia;
-2) plan działań naprawczych określa załącznik nr 2 do rozporządzenia;
-3) tymczasowy plan działań po zamknięciu podziemnego składowiska dwutlenku węgla określa załącznik nr 3 do rozporządzenia.
+1) plan monitoringu kompleksu podziemnego składowania dwutlenku węgla – określa załącznik nr 1 do rozporządzenia;
+2) plan działań naprawczych – określa załącznik nr 2 do rozporządzenia;
+3) tymczasowy plan działań po zamknięciu podziemnego składowiska dwutlenku węgla – określa załącznik nr 3 do rozporządzenia.
 § 3. Dodatek do planu zagospodarowania podziemnego składowiska dwutlenku węgla powinien spełniać odpowiednio wymagania przewidziane dla planu zagospodarowania podziemnego składowiska dwutlenku węgla, z tym że:
 1) dodatek powinien zawierać:
 a) określenie przyczyny i zakresu zmian planu zagospodarowania podziemnego składowiska dwutlenku węgla oraz wskazanie, czy zmiana planu będzie miała bezpośredni wpływ na warunki określone w koncesji,
@@ -77,7 +77,7 @@ b) aktualizację planu monitoringu kompleksu podziemnego składowania dwutlenku 
 2) w przypadku stwierdzenia, w szczególności na podstawie wyników monitoringu kompleksu podziemnego składowania dwutlenku węgla, znaczących różnic pomiędzy zachowaniem dwutlenku węgla w kompleksie podziemnego składowania dwutlenku węgla a jego prognozowanym zachowaniem, dodatek powinien zawierać:
 a) opis ponownych kalibracji trójwymiarowego modelu górotworu dokonanych na podstawie wyników monitoringu kompleksu podziemnego składowania dwutlenku węgla, a w razie konieczności także na podstawie dodatkowych informacji potwierdzających założenia ponownej kalibracji,
 b) opis nowych scenariuszy zagrożeń oraz nowych dróg, miejsc, wielkości i natężenia wycieku dwutlenku węgla i jego wydostania się poza kompleks podziemnego składowania dwutlenku węgla lub jego migracji, a także przegląd i aktualizację oceny ryzyka podziemnego składowania dwutlenku węgla, z uwzględnieniem ponownie skalibrowanego trójwymiarowego modelu górotworu oraz charakterystyki kompleksu podziemnego składowania dwutlenku węgla opartej na wykonanym ponownie modelowaniu dynamicznym,
-c) opis stwierdzonych istotnych różnic w stosunku do planu zagospodarowania podziemnego składowiska dwutlenku węgla, z uwzględnieniem nowych dróg, miejsc, wielkości i natężenia wycieku dwutlenku węgla i jego wydostania
+c) opis stwierdzonych istotnych różnic w stosunku do planu zagospodarowania podziemnego składowiska dwutlenku węgla, z uwzględnieniem nowych dróg, miejsc, wielkości i natężenia wycieku dwutlenku węgla i jego wydostania się poza kompleks podziemnego składowania dwutlenku węgla lub jego migracji;
 3) dodatek sporządzany przed zamknięciem podziemnego składowiska dwutlenku węgla i przystąpieniem do likwidacji zakładu górniczego powinien zawierać podsumowanie dotychczasowych wyników monitoringu kompleksu podziemnego składowania dwutlenku węgla, wykonanych modelowań oraz innych informacji uzyskanych w trakcie eksploatacji składowiska, sporządzoną na tej podstawie aktualizację planu monitoringu kompleksu podziemnego składowania dwutlenku węgla po zamknięciu składowiska, aktualizację planu działań naprawczych i aktualizację tymczasowego planu działań po zamknięciu podziemnego składowiska dwutlenku węgla, które uwzględniają ocenę ryzyka związanego z prowadzoną działalnością, w tym ryzyko wystąpienia wycieku dwutlenku węgla, najlepsze dostępne techniki i pojawiające się usprawnienia technologiczne.
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Środowiska: wz. S. Gawłowski SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINIEN ODPOWIADAĆ PLAN MONITORINGU KOMPLEKSU PODZIEMNEGO SKŁADOWANIA DWUTLENKU WĘGLA
@@ -98,17 +98,17 @@ Minister Środowiska: wz. S. Gawłowski SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINIEN 
 6) częstotliwość pomiarów i opróbowania wraz z uzasadnieniem i wskazaniem parametrów wymagających ciągłego i czasowego pomiaru lub opróbowania;
 7) harmonogram prowadzenia badań i pomiarów;
 8) opis zastosowanej technologii monitorowania i uzasadnienie jej wyboru, z uwzględnieniem najlepszych dostępnych technik, w szczególności opis odpowiednio:
-a) technologii umożliwiających wykrywanie obecności, lokalizacji, dróg migracji i wycieku dwutlenku węgla oraz
+a) technologii umożliwiających wykrywanie obecności, lokalizacji, dróg migracji i wycieku dwutlenku węgla oraz jego wydostania się poza kompleks podziemnego składowania dwutlenku węgla, w tym na powierzchnię,
 b) technologii zapewniających informacje o rozkładzie i zmianach ciśnienia w funkcji objętości, a także powierzchniowym i pionowym rozkładzie chmury dwutlenku węgla, będącej rozpraszającą się objętością dwutlenku węgla w formacji geologicznej, umożliwiających przeprowadzenie cyfrowej trójwymiarowej symulacji w celu porównania zaobserwowanych rozkładów parametrów z trójwymiarowym modelem górotworu, opracowanym dla kompleksu podziemnego składowania dwutlenku węgla,
 c) technologii, które w przypadku nieprawidłowości, o których mowa w pkt 2, lub wycieku dwutlenku węgla mogą zapewnić uzyskanie informacji o szerokim zasięgu przestrzennym, o wszelkich wcześniej niewykrytych potencjalnych drogach jego wycieku lub wydostania się poza kompleks podziemnego składowania dwutlenku węgla;
 9) sposób dokonania oceny i omówienie metod, które zostaną zastosowane w celu:
-a) porównania stanu środowiska z jego pierwotnym i modelowym stanem określonym w dokumentacji geologicznej, w szczególności porównania zachowania dwutlenku węgla w kompleksie podziemnego składowania dwutlenku węgla, a w uzasadnionych przypadkach w otaczającym go środowisku, oraz zachowania wody w formacjach geologicznych,
+a) porównania stanu środowiska z jego pierwotnym i modelowym stanem określonym w dokumentacji geologicznej, w szczególności porównania zachowania dwutlenku węgla w kompleksie podziemnego składowania dwutlenku węgla, a w uzasadnionych przypadkach – w otaczającym go środowisku, oraz zachowania wody w formacjach geologicznych,
 b) obserwacji migracji dwutlenku węgla,
 c) wykrycia jakościowych i ilościowych nieprawidłowości, o których mowa w pkt 2,
 d) wykrycia wycieku dwutlenku węgla lub jego wydostania się poza kompleks podziemnego składowania dwutlenku węgla, w szczególności wpływu na użytkowe poziomy wód podziemnych, a także na bezpieczeństwo zdrowia i życia ludzi oraz środowiska,
 e) dokonania oceny podjętych działań naprawczych,
 f) dokonania oceny stabilności oraz bezpieczeństwa kompleksu podziemnego składowania dwutlenku węgla w krótkiej i długiej perspektywie (po dziesiątkach i tysiącach lat).
-4. Plan monitoringu kompleksu podziemnego składowania dwutlenku węgla dla etapu eksploatacji podziemnego składowiska dwutlenku węgla, a dla pozostałych etapów w zależności od potrzeby, z uwzględnieniem uwarunkowań, o których mowa w ust. 1, oraz etapu, w którym jest prowadzony monitoring, zawiera opis planowanych ciągłych lub cyklicznych badań i kontroli:
+4. Plan monitoringu kompleksu podziemnego składowania dwutlenku węgla dla etapu eksploatacji podziemnego składowiska dwutlenku węgla, a dla pozostałych etapów – w zależności od potrzeby, z uwzględnieniem uwarunkowań, o których mowa w ust. 1, oraz etapu, w którym jest prowadzony monitoring, zawiera opis planowanych ciągłych lub cyklicznych badań i kontroli:
 1) składu chemicznego odbieranego i zatłaczanego strumienia dwutlenku węgla;
 2) składu chemicznego zatłoczonej substancji;
 3) przepływu objętościowego dwutlenku węgla przy głowicach odwiertów iniekcyjnych;

@@ -8,10 +8,10 @@ pos: 449
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 kwietnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 449 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 marca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000449) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/449/text.pdf) |
 
-Poz. 449 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 marca 2013 r.
-w sprawie umowy określającej zasady współpracy między depozytariuszami funduszu podstawowego i funduszu powiązanego oraz rodzajów nieprawidłowości, które uznaje się za mające negatywny wpływ na fundusz powiązany Na podstawie art. 169e ust. 6 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie umowy określającej zasady współpracy między depozytariuszami funduszu podstawowego i funduszu powiązanego oraz rodzajów nieprawidłowości, które uznaje się za mające negatywny wpływ na fundusz powiązany Na podstawie art. 169e ust. 6 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) niezbędny zakres treści umowy określającej zasady współpracy między depozytariuszem funduszu podstawowego a depozytariuszem funduszu powiązanego, w przypadku gdy fundusz podstawowy i fundusz powiązany mają różnych depozytariuszy;
 2) rodzaje nieprawidłowości dotyczących funduszu podstawowego, które uznaje się za mające negatywny wpływ na fundusz powiązany.
 § 2. Ilekroć w rozporządzeniu jest mowa o statucie, rozumie się przez to statut funduszu inwestycyjnego otwartego, a w przypadku funduszu zagranicznego – regulamin tego funduszu, w rozumieniu art. 253 ust. 5 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych, zwanej dalej „ustawą”.

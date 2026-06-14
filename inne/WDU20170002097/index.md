@@ -8,12 +8,10 @@ pos: 2097
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 października 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -28,12 +26,12 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2097/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 2042), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz.
+1) ustawą z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz.
 U. poz. 2260),
-2) ustawą z dnia 10 lutego 2017 r. Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624),
+2) ustawą z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624),
 3) ustawą z dnia 20 lipca 2017 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw (Dz. U. poz. 1509) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 października 2017 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), które stanowią: „Art. 120. 1. Minister właściwy do spraw administracji publicznej, z dniem wejścia w życie ustawy:
+1) art. 120 i art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), które stanowią: „Art. 120. 1. Minister właściwy do spraw administracji publicznej, z dniem wejścia w życie ustawy:
 1) wstępuje w prawa i obowiązki ministra właściwego do spraw Skarbu Państwa, wynikające z umowy zawartej przez Skarb Państwa z Bankiem Gospodarstwa Krajowego, zgodnie z art. 17 ust. 1 ustawy zmienianej w art. 53, w brzmieniu dotychczasowym;
 2) wstępuje w prawa i obowiązki ministra właściwego do spraw Skarbu Państwa do rejestru centralnego, o którym mowa w art. 19 ust. 2 ustawy zmienianej w art. 53, w brzmieniu dotychczasowym.
 2. Minister właściwy do spraw administracji publicznej przejmuje prowadzenie rejestru centralnego, o którym mowa w art. 19 ust. 2 ustawy zmienianej w art. 53.
@@ -44,7 +42,7 @@ U. poz. 2260),
 2) art. 97–99, art. 100 ust. 2, art. 114 ust. 2 i art. 116, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 3) art. 19 pkt 32, który wchodzi w życie z dniem 1 stycznia 2018 r.;
 4) art. 95, który wchodzi w życie z dniem 31 grudnia 2016 r.”;
-(Dz. U. poz. 624), który stanowi: „Art. 61. Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem art. 45, art. 46, art. 49–51, art. 52 ust. 2–5 oraz art. 57 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia niniejszej ustawy.”;
+2) art. 61 ustawy z dnia 10 lutego 2017 r. – Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. poz. 624), który stanowi: „Art. 61. Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem art. 45, art. 46, art. 49–51, art. 52 ust. 2–5 oraz art. 57 ust. 5 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia niniejszej ustawy.”;
 3) art. 10 ustawy z dnia 20 lipca 2017 r. o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw (Dz. U. poz. 1509), który stanowi: „Art. 10. Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem:
 1) art. 1 pkt 12, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
 2) art. 1 pkt 2–11 i 13–23, art. 2 pkt 2, art. 4 ust. 1–3 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
@@ -68,6 +66,13 @@ o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza o
 2. Przepisy ust. 1 stosuje się także do osób, które na skutek innych okoliczności związanych z wojną rozpoczętą w 1939 r., były zmuszone opuścić byłe terytorium Rzeczypospolitej Polskiej.
 
 **Art. 2.** Prawo do rekompensaty przysługuje właścicielowi nieruchomości pozostawionych poza obecnymi granicami Rzeczypospolitej Polskiej, jeżeli spełnia on łącznie następujące wymogi:
+
+- **1)** był w dniu 1 września 1939 r. obywatelem polskim i miał miejsce zamieszkania na byłym terytorium Rzeczypospolitej Polskiej w rozumieniu przepisów: poz. 580) lub
+    - **a)** art. 3 ustawy z dnia 2 sierpnia 1926 r. o prawie właściwym dla stosunków prywatnych wewnętrznych (Dz. U.
+    - **b)** art. 24 Kodeksu Postępowania Cywilnego (Dz. U. z 1932 r. poz. 934), lub
+    - **c)** § 3–10 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 maja 1934 r. wydanego w porozumieniu z Ministrem Skarbu co do § 2 ust. 3–5, z Ministrem Spraw Wojskowych co do §§ 20, 21, 22, 24 ust. 3, § 49 ust. 1 i 2, § 55 i § 56 oraz z Ministrem Spraw Zagranicznych co do § 18 ust. 1 i 2, § 51 i § 55, o meldunkach i księgach ludności (Dz. U. poz. 489) – oraz opuścił byłe terytorium Rzeczypospolitej Polskiej z przyczyn, o których mowa w art. 1, lub z tych przyczyn nie mógł na nie powrócić;
+
+- **2)** posiada obywatelstwo polskie.
 
 **Art. 3.**
 
@@ -119,7 +124,7 @@ o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza o
 5. W przypadku braku dokumentów, o których mowa w ust. 4 pkt 1 i 2, dowodami, o których mowa w ust. 1 pkt 1, mogą być oświadczenia dwóch świadków złożone, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, przed notariuszem, organem prowadzącym postępowanie lub w polskiej placówce konsularnej w kraju zamieszkania świadka, którzy:
 
 - **1)** zamieszkiwali w miejscowości, w której znajduje się nieruchomość pozostawiona poza obecnymi granicami Rzeczypospolitej Polskiej, lub w miejscowości sąsiedniej;
-- **2)** nie są osobami bliskimi w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm. ) właścicieli lub spadkobierców ubiegających się o potwierdzenie prawa do rekompensaty.
+- **2)** nie są osobami bliskimi – w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm. ) – właścicieli lub spadkobierców ubiegających się o potwierdzenie prawa do rekompensaty.
 
 6. Jeżeli wniosek nie spełnia wymogów określonych w ust. 1–3, wojewoda wzywa wnioskodawcę do usunięcia braków w terminie 6 miesięcy od dnia doręczenia wezwania.
 
@@ -167,16 +172,16 @@ o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza o
 
 2. Za porównywalne województwa i miasta wydzielone, z uwzględnieniem współczynników, o których mowa w ust. 1, uznaje się:
 
-- **1)** woj. lwowskie województwo podkarpackie, współczynnik 1,00;
-- **2)** woj. tarnopolskie województwo małopolskie, współczynnik 0,67, województwo podkarpackie, współczynnik 0,76;
-- **3)** woj. stanisławowskie województwo małopolskie, współczynnik 0,74, województwo podkarpackie, współczynnik 0,84;
-- **4)** woj. wołyńskie województwo lubelskie, współczynnik 0,84, województwo świętokrzyskie, współczynnik 1,02;
-- **5)** woj. poleskie województwo podlaskie, współczynnik 0,71;
-- **6)** woj. wileńskie województwo podlaskie, współczynnik 0,64, województwo mazowieckie, współczynnik 0,41;
-- **7)** woj. nowogródzkie województwo podlaskie, współczynnik 0,80, województwo mazowieckie, współczynnik 0,52;
-- **8)** woj. białostockie województwo podlaskie, współczynnik 1,00;
-- **9)** miasto Lwów miasto Kraków, współczynnik 1,00;
-- **10)** miasto Wilno miasto Lublin, współczynnik 1,00.
+- **1)** woj. lwowskie – województwo podkarpackie, współczynnik 1,00;
+- **2)** woj. tarnopolskie – województwo małopolskie, współczynnik 0,67, – województwo podkarpackie, współczynnik 0,76;
+- **3)** woj. stanisławowskie – województwo małopolskie, współczynnik 0,74, – województwo podkarpackie, współczynnik 0,84;
+- **4)** woj. wołyńskie – województwo lubelskie, współczynnik 0,84, – województwo świętokrzyskie, współczynnik 1,02;
+- **5)** woj. poleskie – województwo podlaskie, współczynnik 0,71;
+- **6)** woj. wileńskie – województwo podlaskie, współczynnik 0,64, – województwo mazowieckie, współczynnik 0,41;
+- **7)** woj. nowogródzkie – województwo podlaskie, współczynnik 0,80, – województwo mazowieckie, współczynnik 0,52;
+- **8)** woj. białostockie – województwo podlaskie, współczynnik 1,00;
+- **9)** miasto Lwów – miasto Kraków, współczynnik 1,00;
+- **10)** miasto Wilno – miasto Lublin, współczynnik 1,00.
 
 3. Wartość nieruchomości stanowiących lasy lub plantacje kultur wieloletnich określa się jako sumę wartości gruntu i odpowiednio wartości drzewostanu albo kultur wieloletnich. Przy określaniu wartości gruntu stosuje się metodę wskaźników szacunkowych gruntów, a przy określaniu wartości drzewostanu i kultur wieloletnich stosuje się przepisy art. 135 ust. 5 i 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
@@ -236,7 +241,7 @@ o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza o
 
 4. Środki ze źródeł, o których mowa w ust. 2 pkt 1 i 1a, Krajowy Ośrodek Wsparcia Rolnictwa przekazuje w formie zaliczek kwartalnych, w wysokości ustalonej w rocznym planie finansowym Zasobu Własności Rolnej Skarbu Państwa, w terminie 30 dni po zakończeniu kwartału. Rozliczenie roczne zobowiązania następuje w terminie 14 dni po zatwierdzeniu przez ministra właściwego do spraw rozwoju wsi sprawozdania finansowego Zasobu Własności Rolnej Skarbu Państwa.
 
-5. Do należności Funduszu Rekompensacyjnego w zakresie, o którym mowa w ust. 2, stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537).
+5. Do należności Funduszu Rekompensacyjnego w zakresie, o którym mowa w ust. 2, stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537).
 
 **Art. 17.**
 

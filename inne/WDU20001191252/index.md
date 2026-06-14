@@ -8,7 +8,7 @@ pos: 1252
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających
@@ -27,6 +27,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001191252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1252/text.pdf) |
 
+Art. 25–27. (pominięte)
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -35,12 +37,30 @@ source: "isap-pdf"
 
 - **1)** organizacji, działalności oraz zrzeszania się banków spółdzielczych, z zastrzeżeniem ust. 2;
 - **2)** działalności oraz zrzeszania się banków zrzeszających banki spółdzielcze;
-- **3)** tworzenia i funkcjonowania systemu ochrony;
+- **3)** tworzenia i funkcjonowania systemu ochrony.
 - **4)** (uchylony)
 
 2. Przepisów ustawy, z wyjątkiem art. 5a, art. 10a–10e, art. 11–13, art. 15 i art. 32–37, nie stosuje się do banków spółdzielczych, których kapitał założycielski wynosi co najmniej równowartość 5 000 000 euro, chyba że banki te są zrzeszone na zasadach określonych w art. 16 lub są uczestnikami systemu ochrony, o którym mowa w art. 22b ust. 1.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** banku spółdzielczym – należy przez to rozumieć bank będący spółdzielnią, do którego w zakresie nieuregulowanym w niniejszej ustawie oraz w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331 i 340) zwaną dalej „ustawą – Prawo bankowe”, stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2026 r. poz.
+- **521)** zwaną dalej „ustawą – Prawo spółdzielcze”;
+- **2)** banku zrzeszającym – należy przez to rozumieć bank w formie spółki akcyjnej, utworzony przez banki spółdzielcze, jeżeli bank ten zrzesza co najmniej jeden bank spółdzielczy na zasadach określonych w art. 16 oraz posiada kapitał założycielski wynoszący co najmniej czterokrotność kwoty określonej w art. 32 ust. 1 ustawy – Prawo bankowe lub dwukrotność tej kwoty w przypadku banku, którego działalność ogranicza się wyłącznie do świadczenia usług na rzecz zrzeszonych banków (apeksowy bank zrzeszający);
+- **3)** zrzeszeniu – należy przez to rozumieć grupę banków obejmującą bank zrzeszający i bank spółdzielczy lub banki spółdzielcze, które zawarły z bankiem zrzeszającym umowę zrzeszenia;
+- **4)** uprawnionych osobach – należy przez to rozumieć osoby, które: poz. 369, z 1995 r. poz. 704, z 1996 r. poz. 496 oraz z 1997 r. poz. 770 i 939) , poz. 844) ,
+    - **a)** od dnia przekształcenia Banku Gospodarki Żywnościowej w spółkę akcyjną do dnia wejścia w życie ustawy przepracowały łącznie co najmniej 3 lata w BGŻ Spółka Akcyjna, banku spółdzielczym lub banku regionalnym i zrzeszającym działającym na podstawie ustawy z dnia 24 czerwca 1994 r. o restrukturyzacji banków spółdzielczych i Banku Gospodarki Żywnościowej oraz o zmianie niektórych ustaw (Dz. U.
+    - **b)** przepracowały łącznie co najmniej dziesięć lat w państwowo-spółdzielczym Banku Gospodarki Żywnościowej bądź w Banku Gospodarki Żywnościowej Spółka Akcyjna, a z którymi rozwiązano stosunek pracy w którymkolwiek z tych banków wskutek przejścia na emeryturę lub rentę albo z przyczyn określonych w art. 1 ust. 1 ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy (Dz. U. z 2002 r. poz. 980, 1146 i 1679 oraz z 2003 r.
+    - **c)** po przepracowaniu łącznie co najmniej dziesięciu lat w państwowo-spółdzielczym Banku Gospodarki Żywnościowej bądź w Banku Gospodarki Żywnościowej Spółka Akcyjna, zostały przejęte przez inne zakłady pracy w trybie art. 23 Kodeksu pracy;
+
+- **5)** (uchylony)
+- **6)** systemie ochrony – należy przez to rozumieć system ochrony instytucjonalnej uznany przez Komisję Nadzoru Finansowego;
+- **7)** (uchylony)
+- **8)** rozporządzeniu nr 575/2013 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z
+
+27. 06.2013, str. 1, z późn. zm. );
+
+- **9)** rozporządzeniu delegowanym nr 2015/61 – należy przez to rozumieć rozporządzenie delegowane Komisji (UE) nr 2015/61 z dnia 10 października 2014 r. uzupełniające rozporządzenie nr 575/2013 w odniesieniu do wymogu pokrycia wypływów netto dla instytucji kredytowych (Dz. Urz. UE L 11 z 17.1.2015, str. 1).
 
 **Art. 2a.** Jeżeli ustawa nie stanowi inaczej, równowartość kwot wyrażonych w euro oblicza się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roku, za który zostało sporządzone ostatnie sprawozdanie finansowe banku spółdzielczego.
 
@@ -52,7 +72,7 @@ source: "isap-pdf"
 
 3. Członek banku spółdzielczego i jednostki zarządzającej systemem ochrony może uczestniczyć w walnym zgromadzeniu, zebraniu przedstawicieli albo grup członkowskich również przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość; odmiennego postanowienia statutu nie stosuje się.
 
-4. Posiedzenia walnego zgromadzenia, zebrania przedstawicieli albo grup członkowskich banków spółdzielczych i jednostek zarządzających systemami porozumiewania się na odległość; odmiennego postanowienia statutu nie stosuje się.
+4. Posiedzenia walnego zgromadzenia, zebrania przedstawicieli albo grup członkowskich banków spółdzielczych i jednostek zarządzających systemami ochrony mogą być zwoływane przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość; odmiennego postanowienia statutu nie stosuje się.
 
 5. Uchwały walnego zgromadzenia, zarządu, rady nadzorczej, zebrań przedstawicieli albo grup członkowskich banków spółdzielczych i jednostek zarządzających systemami ochrony mogą być podejmowane w trybie pisemnym lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość; odmiennego postanowienia statutu lub regulaminów nie stosuje się.
 
@@ -74,14 +94,16 @@ source: "isap-pdf"
 
 1b. Bank spółdzielczy posiadający kapitał założycielski o równowartości co najmniej 5 000 000 euro może prowadzić działalność na obszarze całego kraju.
 
-2. Bank spółdzielczy, za zgodą banku zrzeszającego, z którym zawarł umowę zrzeszenia, może prowadzić działalność także na terenie powiatów sąsiadujących z terenem określonym w ust. 1 i ust. 1a. Działalność obejmująca inne powiaty niż sąsiadujące wymaga uzyskania zgody Komisji Nadzoru Finansowego. terenach, teren działania banku przejmującego ulega powiększeniu o teren działania banku przejętego w dniu połączenia.
+2. Bank spółdzielczy, za zgodą banku zrzeszającego, z którym zawarł umowę zrzeszenia, może prowadzić działalność także na terenie powiatów sąsiadujących z terenem określonym w ust. 1 i ust. 1a. Działalność obejmująca inne powiaty niż sąsiadujące wymaga uzyskania zgody Komisji Nadzoru Finansowego.
+
+3. W przypadku łączenia się banków spółdzielczych działających na różnych terenach, teren działania banku przejmującego ulega powiększeniu o teren działania banku przejętego w dniu połączenia.
 
 4. Zmiana statutu banku spółdzielczego będąca wynikiem dostosowania terenu działania do terenu określonego w ust. 1 lub rozszerzenia terenu działania w związku z połączeniem, o którym mowa w ust. 3, nie wymaga zezwolenia Komisji Nadzoru Finansowego.
 
 5. Ograniczeń, o których mowa w ust. 1a i 2, nie stosuje się do banku spółdzielczego będącego uczestnikiem systemu ochrony, w przypadku:
 
 - **1)** gdy bank ten jest stroną umowy o utworzeniu konsorcjum bankowego, z zastrzeżeniem, iż siedziba kredytobiorcy powinna znajdować się w zakresie działania przynajmniej jednego z uczestników konsorcjum;
-- **2)** udzielania kredytów jednostkom podporządkowanym bankowi zrzeszającemu w rozumieniu art. 3 ust. 1 pkt 42 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863) lub jednostkom, na które bank zrzeszający wywiera znaczący wpływ w rozumieniu art. 3 ust. 1 pkt 36 tej ustawy;
+- **2)** udzielania kredytów jednostkom podporządkowanym bankowi zrzeszającemu w rozumieniu art. 3 ust. 1 pkt 42 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522) lub jednostkom, na które bank zrzeszający wywiera znaczący wpływ w rozumieniu art. 3 ust. 1 pkt 36 tej ustawy;
 - **3)** wykonywania czynności bankowych z członkami banku spółdzielczego;
 - **4)** wykonywania czynności bankowych z jednostką zarządzającą systemem ochrony;
 - **5)** gdy bank, o którym mowa w ust. 1b, zgodnie ze statutem nie prowadzi działalności na obszarze całego kraju.
@@ -92,7 +114,9 @@ source: "isap-pdf"
 
 2. Przepis ust. 1 stosuje się odpowiednio do banku, o którym mowa w art. 1 ust. 2, również w przypadku obniżenia kapitału założycielskiego poniżej wartości określonej w tym przepisie.
 
-3. Przepisów ust. 1 i 2 nie stosuje się, w przypadku gdy określony poziom kapitału założycielskiego zostanie zachowany po przeliczeniu na złote kwot wyrażonych w euro, z zastosowaniem średniej arytmetycznej średnich kursów euro ogłaszanych przez Narodowy Bank Polski, obowiązujących w dni robocze roku, za który zostało sporządzone ostatnie sprawozdanie finansowe banku spółdzielczego. zrzeszającym – źródło kapitału zapasowego lub rezerwowego stanowią bezzwrotne wpłaty wnoszone:
+3. Przepisów ust. 1 i 2 nie stosuje się, w przypadku gdy określony poziom kapitału założycielskiego zostanie zachowany po przeliczeniu na złote kwot wyrażonych w euro, z zastosowaniem średniej arytmetycznej średnich kursów euro ogłaszanych przez Narodowy Bank Polski, obowiązujących w dni robocze roku, za który zostało sporządzone ostatnie sprawozdanie finansowe banku spółdzielczego.
+
+**Art. 5b.** W banku spółdzielczym źródło funduszu zasobowego, a w banku zrzeszającym – źródło kapitału zapasowego lub rezerwowego stanowią bezzwrotne wpłaty wnoszone:
 
 - **1)** przez bank zrzeszający na fundusz zasobowy lub rezerwowy zrzeszonego banku spółdzielczego;
 - **2)** z funduszu pomocowego, o którym mowa w art. 22g ust. 1, na fundusz zasobowy, kapitał zapasowy lub rezerwowy banku – uczestnika systemu ochrony;
@@ -111,11 +135,13 @@ source: "isap-pdf"
 - **6)** udzielanie pożyczek pieniężnych;
 - **7)** udzielanie pożyczek i kredytów konsumenckich w rozumieniu przepisów odrębnej ustawy;
 - **8)** operacje czekowe i wekslowe;
-- **9)** świadczenie usług płatniczych oraz wydawanie pieniądza elektronicznego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222 oraz z 2025 r. poz. 146);
+- **9)** świadczenie usług płatniczych oraz wydawanie pieniądza elektronicznego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069 oraz z 2026 r. poz. 340);
 - **10)** nabywanie i zbywanie wierzytelności pieniężnych;
 - **11)** przechowywanie przedmiotów i papierów wartościowych oraz udostępnianie skrytek sejfowych;
 - **12)** udzielanie i potwierdzanie poręczeń;
-- **13)** wykonywanie innych czynności bankowych w imieniu i na rzecz banku zrzeszającego. spółdzielcze mogą wykonywać z osobami fizycznymi zamieszkującymi lub prowadzącymi przedsiębiorstwo na terenie działania banku spółdzielczego lub z osobami prawnymi i jednostkami organizacyjnymi nieposiadającymi osobowości prawnej, a posiadającymi zdolność prawną, mającymi siedzibę lub jednostki organizacyjne na terenie działania banku spółdzielczego. Czynności, o których mowa w ust. 1 pkt 4 i 12, banki spółdzielcze mogą wykonywać w zakresie i trybie uzgodnionym z bankiem zrzeszającym.
+- **13)** wykonywanie innych czynności bankowych w imieniu i na rzecz banku zrzeszającego.
+
+2. Czynności bankowe, o których mowa w ust. 1 pkt 3, 4, 6, 7 i 12, banki spółdzielcze mogą wykonywać z osobami fizycznymi zamieszkującymi lub prowadzącymi przedsiębiorstwo na terenie działania banku spółdzielczego lub z osobami prawnymi i jednostkami organizacyjnymi nieposiadającymi osobowości prawnej, a posiadającymi zdolność prawną, mającymi siedzibę lub jednostki organizacyjne na terenie działania banku spółdzielczego. Czynności, o których mowa w ust. 1 pkt 4 i 12, banki spółdzielcze mogą wykonywać w zakresie i trybie uzgodnionym z bankiem zrzeszającym.
 
 2a. W szczególnie uzasadnionych przypadkach bank spółdzielczy będący uczestnikiem systemu ochrony może wykonać czynność bankową z osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej a posiadającą zdolność prawną, mającymi miejsce zamieszkania lub siedzibę poza terenem jego działania, po uzyskaniu zgody organu zarządzającego tym systemem ochrony. Zgoda organu zarządzającego systemem ochrony nie jest wymagana w przypadkach, o których mowa w art. 5 ust. 5.
 
@@ -137,7 +163,7 @@ source: "isap-pdf"
 
 2. (uchylony)
 
-**Art. 10a.** Członek banku spółdzielczego może wypowiedzieć udziały objęte ponad liczbę udziałów, których zadeklarowania wymaga statut obowiązujący w chwili rygorem nieważności. Termin i okres wypowiedzenia tych udziałów określa statut.
+**Art. 10a.** Członek banku spółdzielczego może wypowiedzieć udziały objęte ponad liczbę udziałów, których zadeklarowania wymaga statut obowiązujący w chwili wypowiedzenia. Wypowiedzenie powinno być dokonane w formie pisemnej pod rygorem nieważności. Termin i okres wypowiedzenia tych udziałów określa statut.
 
 **Art. 10b.**
 
@@ -152,11 +178,11 @@ source: "isap-pdf"
 1a. Podejmując decyzję, o której mowa w ust. 1, zarząd banku spółdzielczego zwraca uwagę w szczególności na:
 
 - **1)** ogólną sytuację banku pod względem finansowym, płynnościowym oraz pod względem wypłacalności;
-- **2)** wymogi w zakresie funduszy własnych, o których mowa w art. 92 ust. 1 rozporządzenia nr 575/2013, wymogi nałożone na podstawie art. 138 ust. 2 pkt 2 i 3 ustawy – Prawo bankowe, oraz wymóg, o którym mowa w art. 55 ust. 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559 oraz z 2025 r. poz. 146).
+- **2)** wymogi w zakresie funduszy własnych, o których mowa w art. 92 ust. 1 rozporządzenia nr 575/2013, wymogi nałożone na podstawie art. 138 ust. 2 pkt 2 i 3 ustawy – Prawo bankowe, oraz wymóg, o którym mowa w art. 55 ust. 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2025 r. poz. 819).
 
 2. Wstrzymanie albo ograniczenie zwrotu wpłat na udziały następuje w drodze uchwały zarządu. Zarząd informuje członków żądających zwrotu wpłat na udziały o podjętej uchwale, w sposób i w terminie określonych w statucie. Przepisu art. 32 ustawy – Prawo spółdzielcze nie stosuje się.
 
-3. W przypadku ustania przesłanek będących podstawą wstrzymania albo ograniczenia zwrotu wpłat na udziały zarząd banku może dokonać wypłat członkom żądającym zwrotu wpłat na udziały. Zwrot tych wpłat nie może nastąpić przed w przypadku gdy jego udziały zostały przeznaczone na pokrycie strat spółdzielni. Sposób i termin zwrotu określa statut.
+3. W przypadku ustania przesłanek będących podstawą wstrzymania albo ograniczenia zwrotu wpłat na udziały zarząd banku może dokonać wypłat członkom żądającym zwrotu wpłat na udziały. Zwrot tych wpłat nie może nastąpić przed zatwierdzeniem sprawozdania finansowego za rok, w którym ustały te przesłanki, oraz w przypadku gdy jego udziały zostały przeznaczone na pokrycie strat spółdzielni. Sposób i termin zwrotu określa statut.
 
 **Art. 10d.**
 
@@ -172,7 +198,9 @@ source: "isap-pdf"
 
 **Art. 11.**
 
-1. (uchylony) będących jego członkami, nie może przekroczyć 1/5 jej składu. Osoby zajmujące stanowiska kierownicze w banku, o których mowa w art. 22 ust. 2, nie mogą być członkami rady nadzorczej.
+1. (uchylony)
+
+2. W radzie nadzorczej banku spółdzielczego udział pracowników banku, będących jego członkami, nie może przekroczyć 1/5 jej składu. Osoby zajmujące stanowiska kierownicze w banku, o których mowa w art. 22 ust. 2, nie mogą być członkami rady nadzorczej.
 
 **Art. 12.** (uchylony)
 
@@ -193,14 +221,16 @@ source: "isap-pdf"
 3. Związek rewizyjny na rzecz zrzeszonych w nim banków spółdzielczych w szczególności:
 
 - **1)** przeprowadza lustracje;
-- **2)** wykonuje czynności rewizji finansowej, w rozumieniu art. 2 pkt 7 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863);
+- **2)** wykonuje czynności rewizji finansowej, w rozumieniu art. 2 pkt 7 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891);
 - **3)** prowadzi działalność szkoleniową i instruktażową.
 
 4. Związek rewizyjny przekazuje wnioski wynikające z przeprowadzonej lustracji i sprawozdanie z badania oraz sprawozdanie z atestacji sprawozdawczości zrównoważonego rozwoju bankowi zrzeszającemu.
 
 5. Przepisy art. 134 ust. 1 ustawy – Prawo bankowe, w zakresie zasad powoływania biegłych rewidentów, oraz art. 136, w zakresie obowiązku powiadamiania Komisji Nadzoru Finansowego o stwierdzonych podczas lustracji nieprawidłowościach, stosuje się odpowiednio.
 
-6. (uchylony) Banki zrzeszające oraz zasady zrzeszania się banków spółdzielczych
+6. (uchylony)
+
+#### Rozdział 3 Banki zrzeszające oraz zasady zrzeszania się banków spółdzielczych
 
 **Art. 16.**
 
@@ -216,13 +246,13 @@ source: "isap-pdf"
 
 4. Bank spółdzielczy może wypowiedzieć umowę zrzeszenia z zachowaniem 6-miesięcznego okresu wypowiedzenia.
 
-4a. Zamiar wypowiedzenia, o którym mowa w ust. 4, bank spółdzielczy jest obowiązany zgłosić Komisji Nadzoru Finansowego. Komisja Nadzoru Finansowego w terminie miesiąca od dnia otrzymania zgłoszenia o zamiarze wypowiedzenia – w przypadku gdy to wypowiedzenie mogłoby prowadzić do naruszenia przepisów prawa, interesów klientów lub zagrożenia bezpieczeństwa gromadzonych środków w banku spółdzielczym – może zalecić podjęcie działań zmierzających do usunięcia tych nieprawidłowości. 4aa. Do zgłoszenia, o którym mowa w ust. 4a, bank spółdzielczy dołącza informację o zamiarze zawarcia umowy zrzeszenia z innym bankiem zrzeszającym na warunkach określonych w ust. 1, utworzenia z innym bankiem zrzeszenia albo prowadzenia działalności poza zrzeszeniem. w ust. 1, który zamierza prowadzić działalność poza zrzeszeniem, Komisja Nadzoru Finansowego odmawia wyrażenia zgody na prowadzenie przez ten bank działalności poza zrzeszeniem, jeżeli bank ten nie posiada kapitału założycielskiego na poziomie równowartości co najmniej 5 000 000 euro, nie spełnia ogólnych wymogów ostrożnościowych w odniesieniu do kwestii wymienionych w art. 1 rozporządzenia nr 575/2013, realizuje program postępowania naprawczego albo występują przesłanki określone w art. 142 ust. 1 ustawy – Prawo bankowe, albo nie jest należycie przygotowany organizacyjnie do rozpoczęcia działalności poza zrzeszeniem.
+4a. Zamiar wypowiedzenia, o którym mowa w ust. 4, bank spółdzielczy jest obowiązany zgłosić Komisji Nadzoru Finansowego. Komisja Nadzoru Finansowego w terminie miesiąca od dnia otrzymania zgłoszenia o zamiarze wypowiedzenia – w przypadku gdy to wypowiedzenie mogłoby prowadzić do naruszenia przepisów prawa, interesów klientów lub zagrożenia bezpieczeństwa gromadzonych środków w banku spółdzielczym – może zalecić podjęcie działań zmierzających do usunięcia tych nieprawidłowości. 4aa. Do zgłoszenia, o którym mowa w ust. 4a, bank spółdzielczy dołącza informację o zamiarze zawarcia umowy zrzeszenia z innym bankiem zrzeszającym na warunkach określonych w ust. 1, utworzenia z innym bankiem zrzeszenia albo prowadzenia działalności poza zrzeszeniem. 4ab. W przypadku banku spółdzielczego zrzeszonego na zasadach określonych w ust. 1, który zamierza prowadzić działalność poza zrzeszeniem, Komisja Nadzoru Finansowego odmawia wyrażenia zgody na prowadzenie przez ten bank działalności poza zrzeszeniem, jeżeli bank ten nie posiada kapitału założycielskiego na poziomie równowartości co najmniej 5 000 000 euro, nie spełnia ogólnych wymogów ostrożnościowych w odniesieniu do kwestii wymienionych w art. 1 rozporządzenia nr 575/2013, realizuje program postępowania naprawczego albo występują przesłanki określone w art. 142 ust. 1 ustawy – Prawo bankowe, albo nie jest należycie przygotowany organizacyjnie do rozpoczęcia działalności poza zrzeszeniem.
 
 4b. W przypadku braku realizacji zaleceń, o których mowa w ust. 4a, Komisja Nadzoru Finansowego może zastosować środki określone w art. 138 ustawy – Prawo bankowe.
 
 5. (uchylony)
 
-6. W przypadku wypowiedzenia przez bank spółdzielczy umowy zrzeszenia bank zrzeszający, na pisemne żądanie banku spółdzielczego zgłoszone do dnia upływu terminu wypowiedzenia, jest obowiązany zapewnić wykonywanie czynności, o których mowa w art. 19 ust. 2, na rzecz banku spółdzielczego za określoną w odrębnej umowie odpłatnością odpowiadającą charakterowi tych czynności, przez okres co najmniej 24 miesięcy od dnia rozwiązania umowy zrzeszenia, jednak nie dłużej niż do dnia zawarcia przez bank spółdzielczy umowy zrzeszenia z innym bankiem zrzeszającym.
+6. W przypadku wypowiedzenia przez bank spółdzielczy umowy zrzeszenia bank zrzeszający, na pisemne żądanie banku spółdzielczego zgłoszone do dnia upływu terminu wypowiedzenia, jest obowiązany zapewnić wykonywanie czynności, o których mowa w art. 19 ust. 2, na rzecz banku spółdzielczego za określoną w odrębnej umowie odpłatnością odpowiadającą charakterowi tych czynności, przez okres co najmniej 24 miesięcy od dnia rozwiązania umowy zrzeszenia, jednak niedłużej niż do dnia zawarcia przez bank spółdzielczy umowy zrzeszenia z innym bankiem zrzeszającym.
 
 **Art. 16a.**
 
@@ -238,7 +268,22 @@ source: "isap-pdf"
 
 3. Ograniczenia, o którym mowa w ust. 2, nie stosuje się do banków zrzeszających.
 
-**Art. 18.** (uchylony) określone w ustawie – Prawo bankowe lub w innych ustawach, w zakresie ustalonym w statucie banku. 2. Bank zrzeszający oprócz czynności, o których mowa w ust. 1:
+**Art. 18.** (uchylony)
+
+**Art. 19.**
+
+1. Bank zrzeszający wykonuje czynności bankowe oraz inne czynności określone w ustawie – Prawo bankowe lub w innych ustawach, w zakresie ustalonym w statucie banku.
+
+2. Bank zrzeszający oprócz czynności, o których mowa w ust. 1:
+
+- **1)** prowadzi rachunki bieżące zrzeszonych banków spółdzielczych, na których zrzeszone banki spółdzielcze utrzymują rezerwy obowiązkowe oraz przeprowadzają za ich pośrednictwem rozliczenia pieniężne tych banków;
+- **2)** nalicza i utrzymuje rezerwę obowiązkową zrzeszonych banków spółdzielczych na rachunku w Narodowym Banku Polskim;
+- **3)** prowadzi wyodrębniony rachunek, na którym deponowane są aktywa banków spółdzielczych, stanowiące pokrycie funduszu ochrony środków gwarantowanych;
+- **4)** wypełnia za zrzeszone z nim banki spółdzielcze obowiązki informacyjne wobec Narodowego Banku Polskiego oraz Bankowego Funduszu Gwarancyjnego;
+- **5)** (uchylony)
+- **6)** w uzasadnionych przypadkach występuje do Komisji Nadzoru Finansowego o zastosowanie środków przewidzianych w art. 138 i 141 ustawy – Prawo bankowe;
+- **7)** reprezentuje zrzeszone banki spółdzielcze w stosunkach zewnętrznych w sprawach wynikających z umowy zrzeszenia;
+- **8)** wykonuje inne czynności przewidziane w umowie zrzeszenia.
 
 **Art. 20.** (uchylony)
 
@@ -255,7 +300,7 @@ source: "isap-pdf"
 - **1)** zmian umowy zrzeszenia;
 - **2)** strategii zrzeszenia.
 
-5. W posiedzeniu zgromadzenia prezesów mogą także brać udział członkowie zarządu kierujący pracami zarządu, w stosunku do których toczy się postępowanie o wyrażenie zgody na powołanie odpowiednio na prezesa zarządu banku prawa wyborczego do rady zrzeszenia.
+5. W posiedzeniu zgromadzenia prezesów mogą także brać udział członkowie zarządu kierujący pracami zarządu, w stosunku do których toczy się postępowanie o wyrażenie zgody na powołanie odpowiednio na prezesa zarządu banku spółdzielczego lub prezesa banku zrzeszającego. Osoby te nie posiadają biernego prawa wyborczego do rady zrzeszenia.
 
 6. W skład rady zrzeszenia wchodzi prezes zarządu banku zrzeszającego oraz wybrani przez zgromadzenie prezesów prezesi banków spółdzielczych.
 
@@ -283,9 +328,10 @@ source: "isap-pdf"
 
 1a. System ochrony może także wspierać:
 
-- **1)** prowadzoną przez Bankowy Fundusz Gwarancyjny przymusową restrukturyzację, o której mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2024 r. poz. 487 oraz z 2025 r. poz.
-- **146)** , jeżeli została wszczęta wobec banku spółdzielczego;
-- **2)** przejęcie banku, o którym mowa w art. 146b ust. 1 ustawy – Prawo bankowe, jeżeli bankiem przejmowanym jest bank spółdzielczy. udzielanie dotacji, pożyczek, gwarancji i poręczeń na warunkach określonych w umowie systemu ochrony.
+- **1)** prowadzoną przez Bankowy Fundusz Gwarancyjny przymusową restrukturyzację, o której mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2025 r. poz. 643, 1069 i 1844 oraz z 2026 r. poz. 176, 331 i 340), jeżeli została wszczęta wobec banku spółdzielczego;
+- **2)** przejęcie banku, o którym mowa w art. 146b ust. 1 ustawy – Prawo bankowe, jeżeli bankiem przejmowanym jest bank spółdzielczy.
+
+1b. Wsparcie, o którym mowa w ust. 1a, odbywa się w szczególności przez udzielanie dotacji, pożyczek, gwarancji i poręczeń na warunkach określonych w umowie systemu ochrony.
 
 2. Umowa systemu ochrony określa zakres odpowiedzialności uczestnika systemu ochrony za zobowiązania wynikające z gwarantowania płynności i wypłacalności innych uczestników systemu ochrony.
 
@@ -304,7 +350,8 @@ source: "isap-pdf"
 6. Decyzja o uznaniu systemu ochrony może określać:
 
 - **1)** termin, od którego system ochrony powinien funkcjonować zgodnie z umową systemu ochrony;
-- **2)** dodatkowe warunki, których spełnienie zapewni bezpieczeństwo funkcjonowania systemu ochrony; w pkt 2, nie zostaną spełnione.
+- **2)** dodatkowe warunki, których spełnienie zapewni bezpieczeństwo funkcjonowania systemu ochrony;
+- **3)** termin, po upływie którego decyzja wygaśnie, jeżeli warunki, o których mowa w pkt 2, nie zostaną spełnione.
 
 7. W przypadku gdy funkcjonowanie systemu ochrony narusza przepisy prawa, zagraża interesom jego uczestników, nie zapewnia bezpieczeństwa środków gromadzonych u uczestników systemu ochrony, jest niezgodne z umową systemu ochrony lub w przypadku niespełnienia warunków określonych w art. 113 ust. 7 rozporządzenia nr 575/2013 Komisja Nadzoru Finansowego może uchylić decyzję o uznaniu systemu ochrony.
 
@@ -324,6 +371,21 @@ source: "isap-pdf"
 13. Do umowy systemu ochrony przepisów art. 6a–6d ustawy – Prawo bankowe oraz przepisów wykonawczych wydanych na podstawie art. 6e ustawy – Prawo bankowe nie stosuje się.
 
 **Art. 22c.** Wypowiedzenie umowy systemu ochrony wymaga formy pisemnej pod rygorem nieważności. Przepisy art. 16 ust. 4a–4b i 6 stosuje się odpowiednio. Wypowiedzenie następuje z zachowaniem co najmniej 24-miesięcznego okresu wypowiedzenia.
+
+**Art. 22d.**
+
+1. Systemem ochrony zarządza:
+
+- **1)** bank zrzeszający albo
+- **2)** jednostka zarządzająca systemem ochrony, utworzona w tym celu przez uczestników systemu ochrony, zwana dalej „jednostką zarządzającą”.
+
+2. Jednostkę zarządzającą tworzy się w formie spółki akcyjnej albo spółdzielni osób prawnych, do których w zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i
+
+- **187)** albo ustawy – Prawo spółdzielcze, z wyłączeniem art. 37 tej ustawy.
+
+3. Każdy z uczestników systemu ochrony jest obowiązany objąć i posiadać, do dnia rozwiązania albo wygaśnięcia umowy systemu ochrony, co najmniej minimalną liczbę akcji albo udziałów jednostki zarządzającej, określoną w jej statucie i umowie systemu ochrony.
+
+4. Akcjonariuszem albo członkiem jednostki zarządzającej może być tylko uczestnik systemu ochrony zarządzanego przez tę jednostkę. Akcjonariusze albo członkowie jednostki zarządzającej, w okresie wypowiedzenia przez nich umowy systemu ochrony, na walnym zgromadzeniu nie mogą wykonywać łącznie prawa głosu z więcej niż 24 % akcji albo udziałów.
 
 **Art. 22e.**
 
@@ -345,7 +407,9 @@ source: "isap-pdf"
 - **2)** ust. 1 pkt 2 i ust. 2 pkt 2 – są organami nadzorującymi system ochrony;
 - **3)** ust. 1 pkt 3 i ust. 2 pkt 3 – są organami zarządzającymi systemem ochrony.
 
-4. Umowa systemu ochrony może przewidywać powołanie organów innych niż wymienione w ust. 1 i 2. jednostki zarządzającej warunków wykonywania zadań związanych z funkcjonowaniem systemu ochrony, w szczególności w zakresie pomieszczeń, łącz telekomunikacyjnych i obsługi biurowej, oraz zasady pokrywania związanych z tym kosztów.
+4. Umowa systemu ochrony może przewidywać powołanie organów innych niż wymienione w ust. 1 i 2.
+
+5. W umowie systemu ochrony określa się zasady zapewnienia organom jednostki zarządzającej warunków wykonywania zadań związanych z funkcjonowaniem systemu ochrony, w szczególności w zakresie pomieszczeń, łącz telekomunikacyjnych i obsługi biurowej, oraz zasady pokrywania związanych z tym kosztów.
 
 6. Umowa systemu ochrony może zobowiązać jednego z uczestników systemu ochrony do zapewnienia organom jednostki zarządzającej warunków, o których mowa w ust. 5.
 
@@ -361,7 +425,7 @@ source: "isap-pdf"
 
 3. Członkowie zarządu jednostki zarządzającej są powoływani, za zgodą Komisji Nadzoru Finansowego, przez radę nadzorczą jednostki zarządzającej albo zgromadzenie uczestników systemu ochrony stosownie do postanowień umowy systemu ochrony albo statutu jednostki zarządzającej. Z wnioskiem o wyrażenie zgody występuje rada nadzorcza jednostki zarządzającej. Przepisy art. 22b oraz art. 30 ust. 1 pkt 2 ustawy – Prawo bankowe stosuje się odpowiednio.
 
-4. Szczegółowy zakres i sposób działania organów systemu ochrony, w tym tryb zwoływania posiedzeń oraz sposób i warunki podejmowania uchwał, czas trwania ich zakres ich niezbędnych kwalifikacji określa umowa systemu ochrony.
+4. Szczegółowy zakres i sposób działania organów systemu ochrony, w tym tryb zwoływania posiedzeń oraz sposób i warunki podejmowania uchwał, czas trwania ich kadencji, liczbę oraz zasady powoływania i odwoływania członków organów oraz zakres ich niezbędnych kwalifikacji określa umowa systemu ochrony.
 
 **Art. 22g.**
 
@@ -379,7 +443,7 @@ source: "isap-pdf"
 
 6. Skutki wyceny aktywów nabytych lub powstałych w ramach pomocy finansowej udzielonej ze środków funduszu pomocowego oraz aktywów nabytych lub powstałych w ramach inwestycji wolnych środków funduszu pomocowego odnosi się bezpośrednio na ten fundusz.
 
-7. Pomoc bezzwrotna udzielona ze środków funduszu pomocowego jest ujmowana w ciężar tego funduszu. mowa w art. 22g ust. 1, może polegać na:
+7. Pomoc bezzwrotna udzielona ze środków funduszu pomocowego jest ujmowana w ciężar tego funduszu. Art. 22ga. 1. Pomoc finansowa udzielana z funduszu pomocowego, o którym mowa w art. 22g ust. 1, może polegać na:
 
 - **1)** nabyciu przez bank zrzeszający zarządzający systemem ochrony albo przez jednostkę zarządzającą wierzytelności banku przejmowanego;
 - **2)** zawarciu przez banki spółdzielcze będące uczestnikami systemu ochrony z bankiem zrzeszającym zarządzającym systemem ochrony albo z jednostką zarządzającą, umowy o przekazywanie temu bankowi zrzeszającemu albo tej jednostce zarządzającej wszystkich świadczeń otrzymywanych przez uczestnika systemu z wierzytelności, z określonej puli wierzytelności lub z określonych wierzytelności (umowa o subpartycypację), w szczególności:
@@ -400,7 +464,9 @@ source: "isap-pdf"
 
 **Art. 22h.**
 
-1. W banku zrzeszającym albo jednostce zarządzającej tworzy się mechanizmy pomocy płynnościowej dostosowane do struktury organizacyjnej systemu ochrony. zasady zarządzania takimi mechanizmami określa umowa systemu ochrony. Art. 22ha. 1. W banku zrzeszającym albo jednostce zarządzającej można także utworzyć mechanizm wsparcia, o którym mowa w art. 22a ust. 1a.
+1. W banku zrzeszającym albo jednostce zarządzającej tworzy się mechanizmy pomocy płynnościowej dostosowane do struktury organizacyjnej systemu ochrony.
+
+2. Szczegółowe zasady tworzenia mechanizmów pomocy płynnościowej oraz zasady zarządzania takimi mechanizmami określa umowa systemu ochrony. Art. 22ha. 1. W banku zrzeszającym albo jednostce zarządzającej można także utworzyć mechanizm wsparcia, o którym mowa w art. 22a ust. 1a.
 
 2. Wsparcie, o którym mowa w art. 22a ust. 1a, może być udzielone w związku z przejęciem, o którym mowa w art. 174 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, lub przejęciem, o którym mowa w art. 146b ust. 1 ustawy – Prawo bankowe, jeżeli bankiem przejmowanym jest bank spółdzielczy.
 
@@ -417,7 +483,9 @@ source: "isap-pdf"
 - **1)** reprezentowanie systemu ochrony na zasadach określonych w umowie systemu ochrony;
 - **2)** zarządzanie systemem ochrony na zasadach określonych w umowie systemu ochrony;
 - **3)** podejmowanie działań koniecznych do zapewnienia bezpieczeństwa depozytów gromadzonych u uczestników systemu ochrony i zgodności ich działalności z postanowieniami umowy systemu ochrony;
-- **4)** podejmowanie działań służących zapewnieniu płynności i wypłacalności uczestników systemu ochrony. w procesach przymusowej restrukturyzacji i przejęć banków, o których mowa w art. 22a ust. 1a.
+- **4)** podejmowanie działań służących zapewnieniu płynności i wypłacalności uczestników systemu ochrony.
+
+1a. Organ zarządzający systemem ochrony może także udzielać wsparcia w procesach przymusowej restrukturyzacji i przejęć banków, o których mowa w art. 22a ust. 1a.
 
 2. Zasady dostępu uczestników systemu ochrony do informacji o ryzyku utraty przez uczestnika systemu ochrony płynności i wypłacalności, identyfikowanym, mierzonym albo szacowanym przez organ zarządzający systemem ochrony, określa umowa systemu ochrony.
 
@@ -431,7 +499,8 @@ source: "isap-pdf"
 
 7. W celu realizacji zadań określonych w ust. 1 pkt 3, organ zarządzający systemem ochrony lub osoby przez niego upoważnione są uprawnione do:
 
-- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części, gdzie jest prowadzona działalność uczestnika systemu ochrony, w dniach i godzinach, w jakich jest lub powinna być prowadzona ta działalność; dokumentów lub innych nośników informacji, jak również udostępnienia danych związanych z działalnością uczestnika systemu ochrony, a organy uczestnika systemu ochrony i jego pracownicy są obowiązani udzielać żądanych wyjaśnień i informacji oraz niezbędnej pomocy.
+- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części, gdzie jest prowadzona działalność uczestnika systemu ochrony, w dniach i godzinach, w jakich jest lub powinna być prowadzona ta działalność;
+- **2)** żądania pisemnych lub ustnych informacji i wyjaśnień oraz okazania dokumentów lub innych nośników informacji, jak również udostępnienia danych związanych z działalnością uczestnika systemu ochrony, a organy uczestnika systemu ochrony i jego pracownicy są obowiązani udzielać żądanych wyjaśnień i informacji oraz niezbędnej pomocy.
 
 8. Uczestnicy systemu ochrony są obowiązani, na żądanie organu zarządzającego systemem ochrony lub osób przez niego upoważnionych, udzielać informacji niezbędnych do wykonywania zadań określonych w ust. 1, w tym również informacji objętych tajemnicą bankową w rozumieniu art. 104 ustawy – Prawo bankowe.
 
@@ -450,7 +519,7 @@ source: "isap-pdf"
 
 4. Organ zarządzający systemem ochrony może wystąpić do Komisji Nadzoru Finansowego o ustanowienie:
 
-- **1)** kuratora nadzorującego wykonanie wewnętrznego planu naprawy w banku, jeżeli grupowy plan naprawy, o którym mowa w art. 141o ust. 1 ustawy – Prawo organ zarządzający systemem ochrony wewnętrznego planu naprawy banku;
+- **1)** kuratora nadzorującego wykonanie wewnętrznego planu naprawy w banku, jeżeli grupowy plan naprawy, o którym mowa w art. 141o ust. 1 ustawy – Prawo bankowe, określa przesłanki i tryb opracowania przez bank i zatwierdzenia przez organ zarządzający systemem ochrony wewnętrznego planu naprawy banku;
 - **2)** zarządu komisarycznego w banku:
     - **a)** jeżeli bank nie opracował wewnętrznego planu naprawy lub jego aktualizacji, nie podejmuje w tym zakresie skutecznych działań albo nie realizuje tego planu,
     - **b)** gdy bank rażąco lub uporczywie narusza przepisy prawa lub postanowienia umowy systemu ochrony.
@@ -463,15 +532,52 @@ source: "isap-pdf"
 
 8. Organ nadzorujący system ochrony jest obowiązany rozpatrzyć odwołanie w terminie 30 dni od dnia jego otrzymania. Wniesienie odwołania nie wstrzymuje wykonania środków, o których mowa w ust. 1 lub 2, chyba że organ zarządzający systemem ochrony postanowi inaczej.
 
-9. Organ zarządzający systemem ochrony niezwłocznie informuje Komisję Nadzoru Finansowego o zastosowaniu wobec uczestników systemu ochrony środków, o których mowa w ust. 1–3. Art. 22ja. Komisja Nadzoru Finansowego może wydać decyzję, o której mowa w art. 22j ust. 4 pkt 1, w celu zapewnienia efektywności działań naprawczych objętych wewnętrznym planem naprawy w ramach grupowego planu naprawy banków należących do systemu ochrony. Art. 22jb. Komisja Nadzoru Finansowego może wydać decyzję, o której mowa w art. 22j ust. 4 pkt 2: w ramach grupowego planu naprawy, o którym mowa w art. 141o ust. 1 ustawy – Prawo bankowe;
+9. Organ zarządzający systemem ochrony niezwłocznie informuje Komisję Nadzoru Finansowego o zastosowaniu wobec uczestników systemu ochrony środków, o których mowa w ust. 1–3. Art. 22ja. Komisja Nadzoru Finansowego może wydać decyzję, o której mowa w art. 22j ust. 4 pkt 1, w celu zapewnienia efektywności działań naprawczych objętych wewnętrznym planem naprawy w ramach grupowego planu naprawy banków należących do systemu ochrony. Art. 22jb. Komisja Nadzoru Finansowego może wydać decyzję, o której mowa w art. 22j ust. 4 pkt 2:
 
+- **1)** lit. a – w celu zapewnienia efektywności działań naprawczych w banku, w ramach grupowego planu naprawy, o którym mowa w art. 141o ust. 1 ustawy – Prawo bankowe;
 - **2)** lit. b – w celu usunięcia nieprawidłowości w działaniu banku, o których mowa w tym przepisie. Art. 22jc. Komisja Nadzoru Finansowego może wydać decyzję w sprawie ustanowienia kuratora w banku będącym uczestnikiem systemu ochrony, jeżeli system zarządzania bankiem nie zapewnia realizacji postanowień umowy systemu ochrony, utrudnia lub uniemożliwia realizację zadań systemu ochrony, stwarza zagrożenie dla uczestników systemu ochrony lub stwarza zagrożenie dla efektywności systemu zarządzania bankiem.
 
 **Art. 22k.** Organ zarządzający systemem ochrony sporządza, według stanu na koniec każdego kwartału, sprawozdanie o zastosowaniu środków, o których mowa w art. 22j ust. 1–3, oraz przekazuje je niezwłocznie do Komisji Nadzoru Finansowego.
 
 **Art. 22l.** Organ nadzorujący system ochrony, na wniosek organu zarządzającego systemem ochrony, jeżeli jest to niezbędne do przywrócenia właściwego funkcjonowania systemu ochrony, po uprzednim zawiadomieniu Komisji Nadzoru Finansowego, może wystąpić do zarządu uczestnika systemu ochrony o zwołanie, w terminie określonym w statucie, walnego zgromadzenia lub zebrania przedstawicieli w celu ustalenia sytuacji finansowej tego uczestnika, podjęcia uchwał o sposobie pozyskania środków w celu zwrotu pożyczki oraz utworzeniu rezerwy na pokrycie środków wypłaconych z funduszu pomocowego, o którym mowa w art. 22g ust. 1. Uchwały, o których mowa w zdaniu pierwszym, przedstawia się organowi zarządzającemu systemem ochrony. Jeżeli zarząd uczestnika systemu ochrony nie zwoła walnego zgromadzenia lub zebrania przedstawicieli, może być ono zwołane przez organ zarządzający systemem ochrony. Koszty zwołania i odbycia walnego zgromadzenia obciążają tego uczestnika systemu ochrony.
 
-**Art. 22m.** W przypadku zwołania walnego zgromadzenia lub zebrania przedstawicieli na podstawie art. 22l, organ nadzorujący system ochrony nie może wypowiedzieć umowy systemu ochrony uczestnikowi tego systemu, chyba że uczestnik ten rażąco narusza przepisy prawa lub postanowienia umowy systemu ochrony. Organ nadzorujący system ochrony może, do końca okresu wypowiedzenia, cofnąć oświadczenie o wypowiedzeniu, o ile uczestnik systemu ochrony zaprzestanie dokonywania takich naruszeń. sprawowanemu przez Komisję Nadzoru Finansowego w zakresie i na zasadach określonych w przepisach niniejszego rozdziału oraz w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135 oraz z 2025 r. poz.
+**Art. 22m.** W przypadku zwołania walnego zgromadzenia lub zebrania przedstawicieli na podstawie art. 22l, organ nadzorujący system ochrony nie może wypowiedzieć umowy systemu ochrony uczestnikowi tego systemu, chyba że uczestnik ten rażąco narusza przepisy prawa lub postanowienia umowy systemu ochrony. Organ nadzorujący system ochrony może, do końca okresu wypowiedzenia, cofnąć oświadczenie o wypowiedzeniu, o ile uczestnik systemu ochrony zaprzestanie dokonywania takich naruszeń.
+
+**Art. 22n.**
+
+1. Funkcjonowanie systemu ochrony podlega nadzorowi bankowemu sprawowanemu przez Komisję Nadzoru Finansowego w zakresie i na zasadach określonych w przepisach niniejszego rozdziału oraz w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069 oraz z 2026 r. poz. 252).
+
+2. Czynności podejmowane w ramach nadzoru, o którym mowa w ust. 1, polegają w szczególności na:
+
+- **1)** dokonywaniu oceny sytuacji finansowej systemu ochrony, w tym badaniu wypłacalności, jakości aktywów, płynności płatniczej i wyniku finansowego;
+- **2)** badaniu jakości systemu zarządzania, w szczególności systemu zarządzania ryzykiem oraz systemu kontroli wewnętrznej;
+- **3)** badaniu udzielanych kredytów, pożyczek pieniężnych, akredytyw, linii płynnościowych, gwarancji bankowych i poręczeń, obejmowanych pomocowych instrumentów kapitałowych oraz emitowanych bankowych papierów wartościowych oraz innych instrumentów w zakresie ich zgodności z przepisami;
+- **4)** badaniu zabezpieczenia oraz terminowości spłaty kredytów i pożyczek pieniężnych;
+- **5)** badaniu sposobu monitorowania przez organy systemu ochrony przestrzegania przez uczestników tego systemu określonych przez Komisję Nadzoru Finansowego norm dopuszczalnego ryzyka w działalności banków oraz zarządzania ryzykiem prowadzonej działalności, w tym jego dostosowania do rodzaju i skali działalności banków oraz systemu procesu identyfikacji i monitorowania ryzyka oraz sprawozdawania o ryzyku;
+- **6)** dokonywaniu przeglądu realizacji celów systemu ochrony oraz przestrzegania postanowień umowy systemu ochrony i statutu.
+
+3. Czynności kontrolne podejmowane przez pracowników Urzędu Komisji Nadzoru Finansowego są wykonywane po okazaniu legitymacji służbowej oraz doręczeniu upoważnienia wydanego przez Komisję Nadzoru Finansowego.
+
+4. Komisja Nadzoru Finansowego może, w ramach sprawowanego nadzoru, zalecić jednostce zarządzającej albo bankowi zrzeszającemu:
+
+- **1)** podjęcie środków koniecznych do przywrócenia płynności płatniczej systemu ochrony;
+- **2)** zwiększenie funduszu pomocowego;
+- **3)** zaniechanie określonych form reklamy;
+- **4)** opracowanie i stosowanie procedur, które zapewnią utrzymywanie, bieżące szacowanie i przegląd kapitału wewnętrznego przez uczestników systemu ochrony oraz funkcjonowanie systemu zarządzania systemem ochrony;
+- **5)** ograniczenie ryzyka występującego w działalności systemu ochrony.
+
+5. W przypadku stwierdzenia, że organy systemu ochrony nie realizują zaleceń określonych w ust. 4, a także gdy ich działalność jest wykonywana z naruszeniem przepisów prawa, postanowień umowy systemu ochrony lub statutu lub stwarza zagrożenie dla interesów uczestników systemu ochrony, Komisja Nadzoru Finansowego, po uprzednim upomnieniu na piśmie, może:
+
+- **1)** wystąpić do właściwego organu z wnioskiem o odwołanie albo odwołać prezesa, wiceprezesa lub innego członka organu zarządzającego systemem ochrony odpowiedzialnego za stwierdzone nieprawidłowości;
+- **2)** zawiesić w czynnościach członków organu zarządzającego systemem ochrony do czasu podjęcia uchwały w sprawie wniosku o ich odwołanie przez odpowiedni organ na najbliższym posiedzeniu; zawieszenie w czynnościach polega na wyłączeniu z podejmowania decyzji;
+- **3)** uchylić decyzję o uznaniu systemu ochrony.
+
+6. Komisja Nadzoru Finansowego może zawiesić w czynnościach członka organu zarządzającego systemem ochrony w przypadku:
+
+- **1)** przedstawienia mu zarzutów w postępowaniu karnym lub w postępowaniu w sprawie o przestępstwo skarbowe;
+- **2)** spowodowania znacznych strat majątkowych w tym systemie.
+
+7. Komisja Nadzoru Finansowego odwołuje członka organu zarządzającego systemem ochrony w przypadku zaistnienia przesłanek określonych w art. 22b ust. 3 pkt 1–3 ustawy – Prawo bankowe.
 
 #### Rozdział 3b (uchylony)
 
@@ -479,7 +585,9 @@ source: "isap-pdf"
 
 **Art. 23.**
 
-1. Banki zrzeszające, z zastrzeżeniem ust. 4, mogą się łączyć tylko z innymi bankami zrzeszającymi w trybie przeniesienia majątku banku na bank zrzeszający w zamian za akcje. Przepisy art. 124 i 124a ustawy – Prawo bankowe stosuje się odpowiednio. ustala się na podstawie wartości księgowej obu banków.
+1. Banki zrzeszające, z zastrzeżeniem ust. 4, mogą się łączyć tylko z innymi bankami zrzeszającymi w trybie przeniesienia majątku banku na bank zrzeszający w zamian za akcje. Przepisy art. 124 i 124a ustawy – Prawo bankowe stosuje się odpowiednio.
+
+2. Stosunek wymiany akcji banku przejmowanego na akcje banku przejmującego ustala się na podstawie wartości księgowej obu banków.
 
 3. W przypadku połączenia się banków zrzeszających dla banków spółdzielczych obowiązująca jest umowa zrzeszenia banku przejmującego. Banki spółdzielcze zrzeszone z bankiem przejętym mogą wypowiedzieć tę umowę w okresie jednego miesiąca od daty połączenia, z zachowaniem trzymiesięcznego okresu wypowiedzenia.
 
@@ -507,19 +615,28 @@ source: "isap-pdf"
 
 4. Szczegółowy zakres kompetencji rady, o której mowa w ust. 2, jej tryb działania oraz sposób wykonywania jej uchwał określa umowa.
 
-5. Po zawarciu umowy, o której mowa w ust. 1, banki zrzeszające wraz ze zrzeszonymi bankami spółdzielczymi mogą stosować jednolitą nazwę i znak firmowy dla utworzonych przez siebie zrzeszeń. Zmiany w przepisach obowiązujących Art. 25–27. (pominięte)
+5. Po zawarciu umowy, o której mowa w ust. 1, banki zrzeszające wraz ze zrzeszonymi bankami spółdzielczymi mogą stosować jednolitą nazwę i znak firmowy dla utworzonych przez siebie zrzeszeń.
+
+#### Rozdział 5 Zmiany w przepisach obowiązujących
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 
-**Art. 28.** Banki, które w dniu wejścia w życie ustawy nie spełniają wymogu określonego w art. 2 pkt 2, a pełniące funkcje banku zrzeszającego lub regionalnego zgodnie z ustawą z dnia 24 czerwca 1994 r. o restrukturyzacji banków spółdzielczych i Banku Gospodarki Żywnościowej oraz o zmianie niektórych ustaw obowiązane są uzyskać zwiększenie sumy funduszy własnych do poziomu nie niższego niż:
+**Art. 28.** Banki, które w dniu wejścia w życie ustawy nie spełniają wymogu określonego w art. 2 pkt 2, a pełniące funkcje banku zrzeszającego lub regionalnego zgodnie z ustawą z dnia 24 czerwca 1994 r. o restrukturyzacji banków spółdzielczych i Banku Gospodarki Żywnościowej oraz o zmianie niektórych ustaw obowiązane są uzyskać zwiększenie sumy funduszy własnych do poziomu nieniższego niż:
+
+- **1)** równowartość 10 000 000 euro – w okresie 6 miesięcy od dnia wejścia w życie ustawy, obliczonych w złotych według średniego kursu wynikającego z tabeli kursów ogłaszanej przez Narodowy Bank Polski, obowiązującego na koniec roku poprzedzającego rok osiągnięcia wymaganego progu kapitałowego;
+- **2)** równowartość 15 000 000 euro – do dnia 31 grudnia 2003 r., obliczonych w złotych według średniego kursu wynikającego z tabeli kursów ogłaszanej przez Narodowy Bank Polski, obowiązującego na koniec roku poprzedzającego rok osiągnięcia wymaganego progu kapitałowego;
+- **3)** równowartość 20 000 000 euro – do dnia 31 grudnia 2006 r., obliczonych w złotych według średniego kursu wynikającego z tabeli kursów ogłaszanej przez Narodowy Bank Polski, obowiązującego na koniec roku poprzedzającego rok osiągnięcia wymaganego progu kapitałowego.
 
 **Art. 29.** Projekt umowy, o którym mowa w art. 16 ust. 2, bank zrzeszający obowiązany jest przedstawić Komisji Nadzoru Bankowego w terminie 3 miesięcy od dnia wejścia w życie ustawy. Przepisy art. 16 ust. 3–5 stosuje się odpowiednio.
 
 **Art. 30.** Banki zrzeszające i banki spółdzielcze są obowiązane dostosować statuty do przepisów ustawy w terminie 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 31.** Powołanie zarządów banków spółdzielczych zgodnie z art. 12 nastąpi nie później niż w ciągu 3 lat od dnia wejścia w życie ustawy.
+**Art. 31.** Powołanie zarządów banków spółdzielczych zgodnie z art. 12 nastąpi niepóźniej niż w ciągu 3 lat od dnia wejścia w życie ustawy.
 
-**Art. 32.** W terminie 30 dni od dnia wejścia w życie ustawy administrowany przed dniem jej wejścia w życie przez BGŻ S.A. Fundusz Rozwoju Banków ciowej zostaje zlikwidowany, a jego środki podlegają przekazaniu do Bankowego Funduszu Gwarancyjnego według następujących zasad:
+**Art. 32.** W terminie 30 dni od dnia wejścia w życie ustawy administrowany przed dniem jej wejścia w życie przez BGŻ S.A. Fundusz Rozwoju Banków Spółdzielczych przejęty z państwowo-spółdzielczego Banku Gospodarki Żywnościowej zostaje zlikwidowany, a jego środki podlegają przekazaniu do Bankowego Funduszu Gwarancyjnego według następujących zasad:
+
+- **1)** środki, które w dniu wejścia w życie ustawy znajdowały się na rachunku BGŻ S.A., zostaną wraz z należnymi odsetkami przekazane do Bankowego Funduszu Gwarancyjnego z przeznaczeniem na wsparcie procesów łączenia się banków spółdzielczych oraz realizowane w tych bankach przedsięwzięcia inwestycyjne, o których mowa w art. 35 ust. 3;
+- **2)** należności Funduszu Rozwoju Banków Spółdzielczych z tytułu pożyczek udzielonych bankom spółdzielczym niespłacone do dnia wejścia w życie ustawy zostają umorzone.
 
 **Art. 33.**
 
@@ -529,7 +646,7 @@ source: "isap-pdf"
 
 3. Przepis ust. 1 ma odpowiednie zastosowanie do otrzymanych przez BGŻ S.A. obligacji restrukturyzacyjnych serii D, w części stanowiącej równowartość nieprzekazanej w formie wkładów niepieniężnych na rzecz banków, wymienionych w ust. 1, części majątku BGŻ S.A.
 
-4. W przypadku odstąpienia przez bank zrzeszający od restrukturyzacji wierzytelności banku spółdzielczego, prowadzonej przy wykorzystaniu obligacji restrukturyzacyjnych serii D, umorzeniu podlegają również obligacje przeznaczone na restrukturyzacje tych wierzytelności, od których prowadzenia bank zrzeszający odstąpił. Przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że za dzień umorzenia wierzytelności.
+4. W przypadku odstąpienia przez bank zrzeszający od restrukturyzacji wierzytelności banku spółdzielczego, prowadzonej przy wykorzystaniu obligacji restrukturyzacyjnych serii D, umorzeniu podlegają również obligacje przeznaczone na restrukturyzacje tych wierzytelności, od których prowadzenia bank zrzeszający odstąpił. Przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że za dzień umorzenia obligacji przyjmuje się dzień odstąpienia przez bank zrzeszający od restrukturyzacji wierzytelności.
 
 5. Umorzeniu nie podlegają obligacje przekazane na zwiększenie kapitału rezerwowego banków, o których mowa w ust. 1.
 
@@ -549,7 +666,7 @@ source: "isap-pdf"
 3. Pomoc finansowa, o której mowa w ust. 1, może być udzielona bankowi spółdzielczemu na finansowanie:
 
 - **1)** nabycia akcji banku zrzeszającego;
-- **2)** poniesionych lub planowanych wydatków związanych z łączeniem się banków spółdzielczych, mającym na celu zwiększenie bezpieczeństwa gromadzonych klientów, w szczególności na:
+- **2)** poniesionych lub planowanych wydatków związanych z łączeniem się banków spółdzielczych, mającym na celu zwiększenie bezpieczeństwa gromadzonych środków pieniężnych lub poprawę albo ujednolicenie standardów obsługi klientów, w szczególności na:
     - **a)** nabycie lub modyfikację programów lub sprzętu informatycznego,
     - **b)** rozwój lub ujednolicenie technologii bankowej,
     - **c)** modyfikację procedur finansowo-księgowych,
@@ -570,29 +687,29 @@ source: "isap-pdf"
 
 1. Na wniosek banku zrzeszającego albo innego podmiotu działającego w imieniu uczestników systemu ochrony albo zrzeszenia zintegrowanego, Bankowy Fundusz Gwarancyjny przekazuje do tego systemu albo zrzeszenia środki pieniężne zgromadzone na funduszu restrukturyzacji banków spółdzielczych w wysokości wartości tego funduszu do wykorzystania, proporcjonalnie do udziału sumy bilansowej banków spółdzielczych tworzących system ochrony albo zrzeszenie zintegrowane w sumie bilansowej wszystkich banków spółdzielczych według stanu na dzień 31 grudnia 2014 r.
 
-2. Do wniosku, o którym mowa w ust. 1, bank zrzeszający albo inny podmiot działający w imieniu uczestników systemu ochrony albo zrzeszenia zintegrowanego, systemu ochrony albo decyzji o uznaniu zrzeszenia zintegrowanego, a także informację o uczestnikach systemu ochrony albo zrzeszenia zintegrowanego.
+2. Do wniosku, o którym mowa w ust. 1, bank zrzeszający albo inny podmiot działający w imieniu uczestników systemu ochrony albo zrzeszenia zintegrowanego, dołącza informację o wydaniu przez Komisję Nadzoru Finansowego decyzji o uznaniu systemu ochrony albo decyzji o uznaniu zrzeszenia zintegrowanego, a także informację o uczestnikach systemu ochrony albo zrzeszenia zintegrowanego.
 
-3. W przypadku przekazania środków na podstawie ust. 1, Bankowy Fundusz Gwarancyjny przekazuje również środki zgromadzone na funduszu restrukturyzacji banków spółdzielczych pochodzące ze spłat rat kapitałowych pożyczek dokonanych w danym roku kalendarzowym, począwszy od dnia następującego po dniu przekazania środków na podstawie ust. 1, nie później niż w terminie 30 dni od dnia uzyskania informacji o uczestnikach systemu ochrony albo zrzeszenia zintegrowanego według stanu na dzień 31 grudnia danego roku, proporcjonalnie do udziału sumy bilansowej banków spółdzielczych tworzących system ochrony albo zrzeszenie zintegrowane w sumie bilansowej wszystkich banków spółdzielczych według stanu na dzień 31 grudnia 2014 r.
+3. W przypadku przekazania środków na podstawie ust. 1, Bankowy Fundusz Gwarancyjny przekazuje również środki zgromadzone na funduszu restrukturyzacji banków spółdzielczych pochodzące ze spłat rat kapitałowych pożyczek dokonanych w danym roku kalendarzowym, począwszy od dnia następującego po dniu przekazania środków na podstawie ust. 1, niepóźniej niż w terminie 30 dni od dnia uzyskania informacji o uczestnikach systemu ochrony albo zrzeszenia zintegrowanego według stanu na dzień 31 grudnia danego roku, proporcjonalnie do udziału sumy bilansowej banków spółdzielczych tworzących system ochrony albo zrzeszenie zintegrowane w sumie bilansowej wszystkich banków spółdzielczych według stanu na dzień 31 grudnia 2014 r.
 
 4. Informację, o której mowa w ust. 3, bank zrzeszający albo inny podmiot działający w imieniu uczestników systemu ochrony albo zrzeszenia zintegrowanego, przekazuje Bankowemu Funduszowi Gwarancyjnemu do dnia 10 stycznia każdego roku następującego po roku, w którym przekazano środki na podstawie ust. 1.
 
 5. Przekazanie środków, o którym mowa w ust. 1 i 3, następuje w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności wsparcia ze wspólnym rynkiem.
 
-6. Przekazanie środków, o którym mowa w ust. 1, następuje nie później niż w terminie 30 dni od dnia wydania decyzji, o której mowa w ust. 5.
+6. Przekazanie środków, o którym mowa w ust. 1, następuje niepóźniej niż w terminie 30 dni od dnia wydania decyzji, o której mowa w ust. 5.
 
 7. Przekazane środki przeznacza się w całości na tworzenie funduszy pomocowych, o których mowa w art. 22g ust. 1 i art. 22s ust. 1.
 
-8. Fundusz restrukturyzacji banków spółdzielczych zostaje zlikwidowany z dniem przekazania całości zgromadzonych na nim środków, jednak nie później niż do dnia 31 grudnia 2021 r.
+8. Fundusz restrukturyzacji banków spółdzielczych zostaje zlikwidowany z dniem przekazania całości zgromadzonych na nim środków, jednak niepóźniej niż do dnia 31 grudnia 2021 r.
 
 9. Zobowiązania Bankowego Funduszu Gwarancyjnego z tytułu likwidacji funduszu restrukturyzacji banków spółdzielczych, które nie zostaną zrealizowane do dnia 31 grudnia 2021 r., ulegają umorzeniu.
 
-10. Środki zgromadzone na funduszu restrukturyzacji banków spółdzielczych w dniu 31 grudnia 2021 r. oraz środki pochodzące ze spłat rat kapitałowych pożyczek dokonywanych po dniu 31 grudnia 2021 r. stanowią źródło finansowania Bankowego Funduszu Gwarancyjnego w rozumieniu art. 270 ustawy z dnia 10 czerwca 2016 r. przymusowej restrukturyzacji.
+10. Środki zgromadzone na funduszu restrukturyzacji banków spółdzielczych w dniu 31 grudnia 2021 r. oraz środki pochodzące ze spłat rat kapitałowych pożyczek dokonywanych po dniu 31 grudnia 2021 r. stanowią źródło finansowania Bankowego Funduszu Gwarancyjnego w rozumieniu art. 270 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 
 **Art. 36.**
 
 1. Formy, tryb oraz szczegółowe warunki udzielania pomocy, o której mowa w art. 35 ust. 1, w tym zasady oprocentowania, pobierania prowizji i zabezpieczenia spłaty, określa Rada Bankowego Funduszu Gwarancyjnego, z zastrzeżeniem ust. 2 i 3.
 
-2. W okresie korzystania z pomocy na cele związane z łączeniem się banków spółdzielczych, o której mowa w art. 35 ust. 3 pkt 2, bank spółdzielczy przeznacza nie mniej niż 80 % nadwyżki bilansowej na zwiększenie funduszu zasobowego lub rezerwowego.
+2. W okresie korzystania z pomocy na cele związane z łączeniem się banków spółdzielczych, o której mowa w art. 35 ust. 3 pkt 2, bank spółdzielczy przeznacza niemniej niż 80 % nadwyżki bilansowej na zwiększenie funduszu zasobowego lub rezerwowego.
 
 3. Udzielając pomocy Bankowy Fundusz Gwarancyjny może zastrzec dla banku obowiązek przekazywania określonych przez Bankowy Fundusz Gwarancyjny informacji oraz poddanie działalności banku kontroli w zakresie celowości wykorzystania udzielonej pożyczki.
 
@@ -600,7 +717,7 @@ source: "isap-pdf"
 
 1. Pomoc finansowa z zachowaniem warunków określonych w art. 35 i 36 może być udzielona także bankom spółdzielczym, które dokonały połączenia z innymi bankami w okresie 3 lat przed dniem wejścia w życie ustawy.
 
-2. Pomoc, o której mowa w ust. 1, może być udzielona do wysokości nie wyższej niż wydatki banku związane z realizacją celów określonych w art. 35 ust. 3.
+2. Pomoc, o której mowa w ust. 1, może być udzielona do wysokości niewyższej niż wydatki banku związane z realizacją celów określonych w art. 35 ust. 3.
 
 **Art. 38.**
 
@@ -610,17 +727,19 @@ source: "isap-pdf"
 
 **Art. 39.**
 
-1. Bank zrzeszający posiadający fundusze własne w wysokości co najmniej równowartości 20 000 000 euro w okresie do dnia 31 grudnia 2007 r. może emitować obligacje z terminem wykupu nie krótszym niż 5 lat, z których uzyskane środki za zgodą Komisji Nadzoru Finansowego mogą być zaliczone do jego funduszy uzupełniających.
+1. Bank zrzeszający posiadający fundusze własne w wysokości co najmniej równowartości 20 000 000 euro w okresie do dnia 31 grudnia 2007 r. może emitować obligacje z terminem wykupu niekrótszym niż 5 lat, z których uzyskane środki za zgodą Komisji Nadzoru Finansowego mogą być zaliczone do jego funduszy uzupełniających.
 
 2. (uchylony)
 
-3. (uchylony) nadejściem terminu ich wykupu.
+3. (uchylony)
+
+4. Bank zrzeszający nie może nabywać obligacji, o których mowa w ust. 1, przed nadejściem terminu ich wykupu.
 
 5. W razie upadłości lub likwidacji banku roszczenia obligatariuszy zaspokajane będą w ostatniej kolejności.
 
 **Art. 40.** (uchylony)
 
-**Art. 41.** Umowy zawarte przez banki spółdzielcze z bankami regionalnymi na podstawie przepisów ustawy, o której mowa w art. 28, lub bankiem zrzeszającym, dotyczące zrzeszania się tych banków, obowiązują do dnia zawarcia umowy, o której mowa w art. 16 ust. 1, nie dłużej jednak niż przez 14 miesięcy od dnia wejścia w życie ustawy, o ile postanowienia tych umów nie są sprzeczne z ustawą.
+**Art. 41.** Umowy zawarte przez banki spółdzielcze z bankami regionalnymi na podstawie przepisów ustawy, o której mowa w art. 28, lub bankiem zrzeszającym, dotyczące zrzeszania się tych banków, obowiązują do dnia zawarcia umowy, o której mowa w art. 16 ust. 1, niedłużej jednak niż przez 14 miesięcy od dnia wejścia w życie ustawy, o ile postanowienia tych umów nie są sprzeczne z ustawą.
 
 **Art. 42.**
 

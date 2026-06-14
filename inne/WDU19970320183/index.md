@@ -8,7 +8,7 @@ pos: 183
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Prawo spółdzielcze i ustawy o rachunkowości

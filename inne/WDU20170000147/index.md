@@ -8,10 +8,10 @@ pos: 147
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 stycznia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 147 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 13 stycznia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000147) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/147/text.pdf) |
 
-Poz. 147 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 13 stycznia 2017 r.
-w sprawie wykazu środków trwałych oraz wartości niematerialnych i prawnych prowadzonego przez przedsiębiorcę okrętowego Na podstawie art. 10 ust. 2 ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. poz. 1206 i 1948) zarządza się, co następuje: § 1. Rozporządzenie określa sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością w zakresie budowy statku lub przebudowy statku, zwanego dalej „wykazem”.
+w sprawie wykazu środków trwałych oraz wartości niematerialnych i prawnych prowadzonego przez przedsiębiorcę okrętowego Na podstawie art. 10 ust. 2 ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. poz. 1206 i 1948) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością w zakresie budowy statku lub przebudowy statku, zwanego dalej „wykazem”.
 § 2. 1. Wykaz zawiera co najmniej następujące dane:
 1) liczbę porządkową,
 2) datę nabycia,
@@ -40,7 +40,6 @@ w sprawie wykazu środków trwałych oraz wartości niematerialnych i prawnych p
 10) datę likwidacji oraz przyczynę likwidacji albo datę zbycia – w odniesieniu do poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 22a–22o ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032 i 2048 oraz z 2017 r. poz. 60) albo w art. 16a–16m ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, 1926, 1933 i 1948 oraz z 2017 r. poz. 60).
 2. Wpisów dotyczących środków trwałych oraz wartości niematerialnych i prawnych dokonuje się w wykazie najpóźniej w miesiącu przyjęcia ich do używania. Późniejszy termin wprowadzenia do wykazu uznaje się za ujawnienie środka trwałego lub wartości niematerialnej i prawnej, o którym mowa w art. 22h ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r.
 o podatku dochodowym od osób fizycznych albo w art. 16h ust. 1 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
-Dziennik Ustaw – 2 – Poz. 147
 3. Nie podlegają objęciu wykazem budynki mieszkalne, lokale mieszkalne i własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej, których wartość początkową ustala się zgodnie z art. 22g ust. 10 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
 4. W przypadku gdy przedsiębiorca okrętowy przed wyborem opodatkowania zryczałtowanym podatkiem od wartości sprzedanej produkcji prowadził:
 1) ewidencję środków trwałych oraz wartości niematerialnych i prawnych, o której mowa w art. 22n ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych albo w art. 9 ust. 1 ustawy z dnia 15 lutego 1992 r.

@@ -8,7 +8,7 @@ pos: 695
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2
@@ -38,6 +38,13 @@ source: "isap-pdf"
 3. Ustawy nie stosuje się do przedsiębiorców, wobec których ogłoszono upadłość, oraz przedsiębiorców, wobec których otwarte zostało postępowanie restrukturyzacyjne. W przypadku przedsiębiorców, względem których złożono wnioski w postępowaniach, o których mowa w zdaniu pierwszym, do czasu ich prawomocnego rozpatrzenia procedura udzielenia wsparcia określona w ustawie ulega zawieszeniu.
 
 **Art. 3.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** wsparciu – należy przez to rozumieć wszelkie formy oferowania przedsiębiorcom na warunkach rynkowych instrumentów finansowego wsparcia zwrotnego udzielanego przez Instytucję na rzecz przedsiębiorców, w tym w szczególności pożyczki, gwarancje, poręczenia oraz inne instrumenty, których przedmiotem jest finansowanie działalności gospodarczej, z wyłączeniem instrumentów zastrzeżonych dla podmiotów wykonujących działalność bankową oraz ubezpieczeniową; szczegółowy wykaz instrumentów finansowych oferowanych przez Instytucję jest publikowany na stronie internetowej Agencji Rozwoju Przemysłu S.A.;
+- **2)** trudnej sytuacji finansowej – należy przez to rozumieć sytuację, w której nastąpił spadek obrotów gospodarczych przedsiębiorcy w następstwie COVID-19;
+- **3)** spadku obrotów gospodarczych – należy przez to rozumieć spadek sprzedaży towarów lub usług w rozumieniu art. 15g ust. 9 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2024 r. poz. 340);
+- **4)** Instytucji – należy przez to rozumieć Agencję Rozwoju Przemysłu Spółkę Akcyjną (ARP S.A.) oraz spółkę zależną ARP S.A., w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), której ARP S.A. powierzyła wykonywanie zadań, o których mowa w niniejszej ustawie; w takim przypadku przepisy dotyczące wykonywania tych zadań przez Instytucję stosuje się odpowiednio do tej spółki zależnej;
+- **5)** beneficjencie – należy przez to rozumieć przedsiębiorcę, który otrzymał wsparcie na podstawie ustawy;
+- **6)** stanie zagrożenia epidemicznego albo stanie epidemii – należy przez to rozumieć stan zagrożenia epidemicznego oraz stan epidemii, w rozumieniu ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284, 909 i 1938) oraz inne stany nadzwyczajne, o ile konieczność ich wprowadzenia związana będzie z zapobieganiem oraz zwalczaniem zakażenia wirusem SARS-CoV-2 i rozprzestrzenianiem się choroby zakaźnej u ludzi, wywołanej tym wirusem.
 
 **Art. 4.** Celem oferowanego przez Instytucję wsparcia jest przeciwdziałanie skutkom gospodarczym COVID-19 poprzez zapewnienie beneficjentowi płynności finansowej przez okres trwania stanu zagrożenia epidemicznego albo stanu epidemii oraz przez okres 12 miesięcy następujący po odwołaniu tego stanu, do czasu ustania negatywnych skutków ekonomicznych dla przedsiębiorców.
 
@@ -361,6 +368,13 @@ source: "isap-pdf"
 
 **Art. 102.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii przy przeprowadzaniu wyborów powszechnych na Prezydenta Rzeczypospolitej Polskiej zarządzonych w 2020 r. nie stosuje się przepisów ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2019 r. poz. 684 i 1504 oraz z 2020 r. poz. 568) w zakresie:
 
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** przekazywania wyborcom informacji, o których mowa w art. 37d § 1;
+- **4)** głosowania korespondencyjnego, o którym mowa w art. 53a.
+- **5)** (uchylony)
+- **6)** (uchylony)
+
 **Art. 103.**
 
 1. Stałe upoważnienia do wykonywania kontroli celno-skarbowej wydane według wzoru określonego w przepisach wydanych na podstawie art. 62 ust. 16 ustawy zmienianej w art. 56 , zachowują ważność do dnia wydania stałego upoważnienia według wzoru określonego w przepisach wydanych na podstawie art. 62 ust. 16 ustawy zmienianej w art. 56 , jednak nie dłużej niż do dnia 31 grudnia 2021 r.
@@ -448,4 +462,13 @@ source: "isap-pdf"
 3. Zawarcie umowy wyłącza możliwość sądowego dochodzenia od Skarbu Państwa jakichkolwiek dodatkowych roszczeń związanych z realizacją przez podmiot polecenia, o którym mowa w art. 117a ust. 1.
 
 **Art. 118.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia , z wyjątkiem:
+
+- **1)** art. 22, który wchodzi w życie z mocą od dnia 13 marca 2020 r.;
+- **2)** art. 28, który wchodzi w życie z dniem 1 lipca 2020 r.;
+- **3)** art. 53 pkt 8 w zakresie dodawanego art. 67c – który wchodzi w życie z mocą od dnia 31 marca 2020 r.;
+- **4)** art. 73 pkt 45, który wchodzi w życie z mocą od dnia 13 kwietnia 2020 r.;
+- **5)** art. 73 pkt 57 w zakresie dodawanego art. 15zzzzm – który wchodzi w życie z mocą od dnia 12 marca 2020 r.;
+- **6)** art. 73 pkt 20, 38, 39 i 41, które wchodzą w życie z mocą od dnia 1 kwietnia 2020 r.;
+- **7)** art. 73 pkt 68 w zakresie dodawanego art. 31zy – który wchodzi w życie z mocą od dnia 14 marca 2020 r.
+
 

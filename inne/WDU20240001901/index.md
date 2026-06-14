@@ -8,10 +8,10 @@ pos: 1901
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1901 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 18 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1901/text.pdf) |
 
-Poz. 1901 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 18 grudnia 2024 r.
-w sprawie wysokości stawek opłaty rejestrowej oraz opłaty rocznej Na podstawie art. 57 ust. 8 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029 oraz z 2024 r. poz. 1834) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wysokość stawki:
+w sprawie wysokości stawek opłaty rejestrowej oraz opłaty rocznej Na podstawie art. 57 ust. 8 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029 oraz z 2024 r. poz. 1834) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa wysokość stawki:
 1) opłaty rejestrowej,
 2) opłaty rocznej – należnych z tytułu wpisu do rejestru, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach.
 2. Wysokość stawki opłaty rejestrowej dla:

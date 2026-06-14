@@ -8,7 +8,7 @@ pos: 1013
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
@@ -28,6 +28,40 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101511013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1013/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2009 r. Nr 3, poz. 11, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: 349 i 355 Traktatu o funkcjonowaniu Unii Europejskiej mają zastosowanie te Traktaty, z wyłączeniem terytorium kraju, z tym że:
+    - **a)** dotychczasową treść oznacza się jako ust. 1 i w tym ust.: – pkt 3 otrzymuje brzmienie: „3) terytorium państwa członkowskiego – terytorium państwa, do którego zgodnie z art. 52 Traktatu o Unii Europejskiej oraz art.
+    - **a)** nie uznaje się za terytorium państwa członkowskiego: – Wysp Kanaryjskich, z zastrzeżeniem ust. 2, – zamorskich departamentów Republiki Francuskiej, z zastrzeżeniem ust. 3, – Wysp Alandzkich, – Wysp Normandzkich, – terytoriów objętych zakresem art. 355 ust. 3 Traktatu o funkcjonowaniu Unii Europejskiej, – wyspy Helgoland, – obszaru Buesingen, – Ceuty, – Melilli, – Livigno, – Campione d’Italia, – włoskich wód jeziora Lugano,
+    - **b)** przemieszczanie wyrobów akcyzowych: – mające początek w Księstwie Monako lub z przeznaczeniem dla Księstwa Monako uznaje się za przemieszczanie mające początek w Republice Francuskiej lub z przeznaczeniem dla Republiki Francuskiej, – mające początek w Jungholz i Mittelberg (Kleines Walsertal) lub z przeznaczeniem dla Jungholz i Mittelberg (Kleines Walsertal) uznaje się za przemieszczanie mające początek w Republice Federalnej Niemiec lub z przeznaczeniem dla Republiki Federalnej Niemiec, – mające początek na wyspie Man lub z przeznaczeniem dla wyspy Man uznaje się za przemieszczanie mające początek w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub z przeznaczeniem dla Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, – mające początek w San Marino lub z przeznaczeniem dla San Marino uznaje się za przemieszczanie mające początek w Republice Włoskiej lub z przeznaczeniem dla Republiki Włoskiej, – mające początek w suwerennych strefach Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej Akrotiri i Dhekelia lub z przeznaczeniem dla suwerennych stref Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej Akrotiri i Dhekelia uznaje się za przemieszczanie mające początek w Republice Cypryjskiej lub z przeznaczeniem dla Republiki Cypryjskiej;”, – pkt 6–8 otrzymują brzmienie: „6) eksport – wywóz wyrobów akcyzowych lub samochodów osobowych z terytorium kraju poza terytorium Unii Europejskiej potwierdzony przez urząd celny, który nadzoruje faktyczne wyprowadzenie tych wyrobów lub samochodów poza terytorium Unii Europejskiej;
+
+- **7)** import – przywóz:
+    - **a)** samochodów osobowych z terytorium państwa trzeciego na terytorium kraju,
+    - **b)** wyrobów akcyzowych z terytorium państwa trzeciego na terytorium kraju: – jeżeli wyroby te z chwilą ich wprowadzenia na terytorium kraju nie zostają objęte zawieszającą procedurą celną, – jeżeli wyroby te zostały zwolnione z zawieszającej procedury celnej lub procedura ta została zakończona i powstał dług celny;
+
+- **8)** dostawa wewnątrzwspólnotowa – przemieszczanie wyrobów akcyzowych lub samochodów osobowych z terytorium kraju na terytorium państwa członkowskiego;”, – pkt 13 otrzymuje brzmienie: „13) zarejestrowany odbiorca – podmiot, któremu wydano zezwolenie na nabywanie wewnątrzwspólnotowe albo na jednorazowe nabycie wewnątrzwspólnotowe wyrobów akcyzowych wysłanych z zastosowaniem procedury zawieszenia poboru akcyzy, w ramach prowadzonej działalności gospodarczej, zwane dalej odpowiednio „zezwoleniem na nabywanie wyrobów akcyzowych jako zarejestrowany odbiorca” albo „zezwoleniem na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca”;”, – uchyla się pkt 14, – dodaje się pkt 14a w brzmieniu: „14a) zarejestrowany wysyłający – podmiot, któremu wydano zezwolenie na wysyłanie importowanych wyrobów akcyzowych z miejsca importu z zastosowaniem procedury zawieszenia poboru akcyzy, w ramach prowadzonej działalności gospodarczej;”, – pkt 15 otrzymuje brzmienie: „15) e-AD – elektroniczny administracyjny dokument, na podstawie którego przemieszcza się wyroby akcyzowe z zastosowaniem procedury zawieszenia poboru akcyzy;”, – po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) dokument zastępujący e-AD – dokument, na podstawie którego przemieszcza się wyroby akcyzowe z zastosowaniem procedury zawieszenia poboru akcyzy, gdy System jest niedostępny, zawierający takie same dane jak e-AD;”, – w pkt 19 zdanie wstępne otrzymuje brzmienie: „nabywca końcowy – podmiot nabywający energię elektryczną, nieposiadający koncesji na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm. ), z wyłączeniem:”, – w pkt 20 lit. b otrzymuje brzmienie: „b) objętych zwolnieniem od akcyzy ze względu na przeznaczenie: – napojów alkoholowych, – wyrobów energetycznych przemieszczanych, a w przypadku podmiotu pośredniczącego, również magazynowanych;”, – pkt 22 i 23 otrzymują brzmienie: „22) podmiot zużywający – podmiot:
+    - **a)** mający miejsce zamieszkania, siedzibę lub miejsce prowadzenia działalności gospodarczej na terytorium kraju, który wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie zużywa na cele uprawniające do zwolnienia,
+    - **b)** niemający miejsca zamieszkania, siedziby lub miejsca prowadzenia działalności gospodarczej na terytorium kraju, który odbiera nabyte wyroby energetyczne zwolnione od akcyzy ze względu na ich przeznaczenie, określone w art. 32 ust. 1 pkt 1 i 2, bezpośrednio do zbiornika na stałe zamontowanego na statku powietrznym lub jednostce pływającej, jeżeli w dokumencie dostawy jest zidentyfikowany statek powietrzny lub jednostka pływająca, na które są dostarczane nabyte wyroby;
+
+- **23)** podmiot pośredniczący – podmiot mający siedzibę lub miejsce zamieszkania na terytorium kraju, któremu wydano zezwolenie na prowadzenie działalności polegającej na dostarczaniu wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie ze składu podatkowego na terytorium kraju do podmiotu zużywającego, a w przypadku wyrobów akcyzowych, o których mowa w art. 32 ust. 1, pochodzących również bezpośrednio z importu;”, – dodaje się pkt 24–32 w brzmieniu: „24) zawieszająca procedura celna – zawieszającą procedurę celną w rozumieniu przepisów prawa celnego, jak również wprowadzenie wyrobów akcyzowych do miejsca składowania czasowego, do wolnych obszarów celnych lub do składów wolnocłowych;
+- **25)** miejsce importu – miejsce, w którym znajdują się importowane wyroby akcyzowe w momencie dopuszczenia do obrotu w rozumieniu przepisów prawa celnego;
+- **26)** System – krajowy system teleinformatyczny służący do obsługi przemieszczania wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy, w szczególności do przesyłania e-AD, raportu odbioru i raportu wywozu, unieważnienia e-AD, zmiany miejsca przeznaczenia oraz zawiadomienia o zmianie miejsca przeznaczenia, o których mowa w rozporządzeniu Komisji (WE) nr 684/2009 z dnia 24 lipca 2009 r. w sprawie wykonania dyrektywy Rady 2008/118/WE w odniesieniu do skomputeryzowanych procedur przemieszczania wyrobów akcyzowych w procedurze zawieszenia poboru akcyzy (Dz. Urz. UE L 197 z
+
+29. 07.2009, str. 24);
+
+- **27)** raport odbioru – raport składany za pośrednictwem Systemu stanowiący dowód, że przemieszczanie wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy zostało zakończone;
+- **28)** dokument zastępujący raport odbioru – dokument zawierający takie same dane jak raport odbioru, stanowiący dowód, że przemieszczanie wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy zostało zakończone, stosowany, gdy System jest niedostępny;
+- **29)** raport wywozu – raport składany za pośrednictwem Systemu stanowiący dowód, że w przypadku eksportu przemieszczanie wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy zostało zakończone;
+- **30)** dokument zastępujący raport wywozu – dokument zawierający takie same dane jak raport wywozu, stanowiący dowód, że w przypadku eksportu przemieszczanie wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy zostało zakończone, stosowany, gdy System jest niedostępny;
+- **31)** podmiot wysyłający – podmiot prowadzący skład podatkowy lub zarejestrowanego wysyłającego, którzy wysyłają wyroby akcyzowe z zastosowaniem procedury zawieszenia poboru akcyzy;
+- **32)** podmiot odbierający – podmiot prowadzący skład podatkowy, zarejestrowanego odbiorcę, nabywcę na terytorium państwa członkowskiego będącego podmiotem upoważnionym przez właściwe władze podatkowe tego państwa członkowskiego Unii Europejskiej do otrzymywania wyrobów akcyzowych w ramach procedury zawieszenia poboru akcyzy lub podmiot objęty zwolnieniem od akcyzy wynikającym z art. 31 ust. 1, do których są wysyłane wyroby akcyzowe z zastosowaniem procedury zawieszenia poboru akcyzy.”,
+    - **b)** dodaje się ust. 2–4 w brzmieniu: „2. W przypadku gdy zgodnie z art. 5 ust. 4 dyrektywy Rady 2008/118/WE z dnia 16 grudnia 2008 r. w sprawie ogólnych zasad dotyczących podatku akcyzowego, uchylającej dyrektywę 92/12/EWG (Dz. Urz. UE L 9 z 14.01.2009 r., str. 12), Królestwo Hiszpanii złoży oświadczenie, że dyrektywa ta będzie miała zastosowanie na Wyspach Kanaryjskich, będą one uznawane za terytorium państwa członkowskiego.
+
+3. W przypadku gdy zgodnie z art. 5 ust. 5 dyrektywy Rady 2008/118/WE z dnia 16 grudnia 2008 r. w sprawie ogólnych zasad dotyczących podatku akcyzowego, uchylającej dyrektywę 92/12/EWG (Dz. Urz. UE L 9 z 14.01.2009 r., str. 12), Republika Francuska złoży oświadczenie, że dyrektywa ta będzie miała zastosowanie we francuskich departamentach zamorskich, departamenty te będą uznawane za terytorium pa ństwa członkowskiego.
+
+4. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Ministra Finansów, datę, od której Wyspy Kanaryjskie oraz francuskie departamenty zamorskie będą uznawane za terytorium państwa członkowskiego.”;
+
+- **2)** użyte w art. 2 ust. 1 pkt 4 i 5, art. 30 ust. 9 pkt 1 i 2, art. 32 ust. 10, art. 36 ust. 6, art. 39 ust. 1 pkt 2, art. 40 ust. 1 pkt 1 lit. c i ust. 2 pkt 3–5, art. 42 ust. 2 i ust. 4 pkt 3, art. 43 ust. 2 pkt 5, art. 55 ust. 3, art. 69 ust. 3, art. 82 ust. 3 pkt 2 i 3 i ust. 4 pkt 2, art. 91 ust. 7 pkt 4, art. 94 ust. 5, art. 104 ust. 6, art. 110 ust. 1 pkt 2 i 5, ust. 5 i 8, art. 113 ust. 1 pkt 1 oraz art. 119 ust. 1 pkt 2 wyrazy „Wspólnoty Europejskiej” zastępuje się wyrazami „Unii Europejskiej”;
+- **3)** po art. 7 dodaje się art. 7a i 7b w brzmieniu: „Art. 7a. W przypadku zawarcia przez Rzeczpospolitą Polską z państwem członkowskim Unii Europejskiej umowy w sprawie odpowiedzialności za budowę lub utrzymanie mostu transgranicznego, most i miejsce jego budowy, o których mowa w umowie, uważa się za część terytorium państwa, które zgodnie z umową jest odpowiedzialne za budowę lub utrzymanie mostu.
 
 **Art. 7b.**
 
@@ -771,6 +805,9 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) w art. 72 wprowadza się następujące zmiany:
 
+- **1)** w ust. 1 pkt 6a otrzymuje brzmienie: „6a) dokumentu potwierdzającego zapłatę akcyzy na terytorium kraju albo dokumentu potwierdzającego brak obowiązku zapłaty akcyzy na terytorium kraju albo zaświadczenia stwierdzającego zwolnienie od akcyzy, w rozumieniu przepisów o podatku akcyzowym, jeżeli samochód osobowy lub pojazd rodzaju „samochodowy inny”, podrodzaj „czterokołowiec” (kategoria homologacyjna L7e) lub podrodzaj „czterokołowiec lekki” (kategoria homologacyjna L6e) został sprowadzony z terytorium państwa członkowskiego Unii Europejskiej i jest rejestrowany po raz pierwszy;”;
+- **2)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W przypadku nabycia samochodu osobowego lub pojazdu, o których mowa w ust. 1 pkt 6a, od wyspecjalizowanego salonu sprzedaży w rozumieniu przepisów o podatku akcyzowym, dokument potwierdzający zapłatę akcyzy na terytorium kraju może być zastąpiony oświadczeniem wyspecjalizowanego salonu sprzedaży, że posiada oryginał lub kopię dokumentu potwierdzającego zapłatę akcyzy na terytorium kraju od tego samochodu osobowego lub pojazdu.”.
+
 **Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, z późn. zm. ) w art. 53 § 30c otrzymuje brzmienie: „§ 30c. Użyte w rozdziale 6 kodeksu określenie „informacja podsumowująca” ma znaczenie nadane mu w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm. ).”.
 
 **Art. 4.**
@@ -780,6 +817,10 @@ source: "isap-pdf"
 2. W przypadku wyrobów akcyzowych objętych procedurą zawieszenia poboru akcyzy, jeżeli obowiązek podatkowy w podatku akcyzowym powstał przed dniem wejścia w życie niniejszej ustawy, lecz do tego dnia nie nastąpiło zakończenie procedury zawieszenia poboru akcyzy, stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 5.** Do wszczętych na podstawie ustawy, o której mowa w art. 1, i niezakończonych przed dniem wejścia w życie niniejszej ustawy postępowań w sprawach:
+
+- **1)** zezwoleń wyprowadzenia,
+- **2)** zabezpieczeń akcyzowych,
+- **3)** zwolnień od obowiązku złożenia zabezpieczenia akcyzowego – z zastrzeżeniem art. 8 ust. 2, stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 6.**
 

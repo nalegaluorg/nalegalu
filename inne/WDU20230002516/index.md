@@ -8,10 +8,10 @@ pos: 2516
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22551166 Załączniki do rozporządzenia Rady Ministrów z dnia 31 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,23 +25,24 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2516/text.pdf) |
 
-22551166
-1) elementy liniowe elementy liniowe infrastruktury technicznej, tj. kable energetyczne, telekomunikacyjne i rurociągi;
-2) podakwen obszar planu stanowiący wydzieloną część akwenu, na której określono funkcje dopuszczalne lub na której obowiązują zakazy lub ograniczenia;
-3) podwodne dziedzictwo kulturowe zabytki zlokalizowane na obszarze portu morskiego oraz ich otoczenie w rozumieniu art. 3 pkt 15 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904);
-4) sytuacja nadzwyczajna sytuacja zagrażająca życiu i zdrowiu ludzkiemu lub zagrażająca bezpieczeństwu żeglugi, środowisku lub mieniu w tak znacznym wymiarze, że wymaga podjęcia działań natychmiastowych.
+(Dz. U. poz. ) Załącznik nr 1
+§ 1. 1. Wyjaśnienie pojęć użytych w planie:
+1) elementy liniowe – elementy liniowe infrastruktury technicznej, tj. kable energetyczne, telekomunikacyjne i rurociągi;
+2) podakwen – obszar planu stanowiący wydzieloną część akwenu, na której określono funkcje dopuszczalne lub na której obowiązują zakazy lub ograniczenia;
+3) podwodne dziedzictwo kulturowe – zabytki zlokalizowane na obszarze portu morskiego oraz ich otoczenie w rozumieniu art. 3 pkt 15 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904);
+4) sytuacja nadzwyczajna – sytuacja zagrażająca życiu i zdrowiu ludzkiemu lub zagrażająca bezpieczeństwu żeglugi, środowisku lub mieniu w tak znacznym wymiarze, że wymaga podjęcia działań natychmiastowych.
 2. Określa się funkcje podstawowe lub dopuszczalne:
-1) badania naukowe prowadzenie badań naukowych, obejmujących m.in. monitoring wód oraz środowiska przyrodniczego oraz prowadzenie badań geologicznych (prac geologicznych) niewymagających koncesji na poszukiwanie i rozpoznawanie złóż;
-2) dziedzictwo kulturowe ochrona zidentyfikowanych elementów podwodnego dziedzictwa kulturowego, w szczególności zabytków i krajobrazów kulturowych poprzez wskazanie tych elementów w planie, a także zapewnienie warunków ich ochrony;
-3) funkcjonowanie portu utrzymanie i rozwój infrastruktury portowej w celu realizacji istniejących i przyszłych funkcji portowych: rybołówstwa, przeładunku, turystyki, transportu i przemysłu;
+1) badania naukowe – prowadzenie badań naukowych, obejmujących m.in. monitoring wód oraz środowiska przyrodniczego oraz prowadzenie badań geologicznych (prac geologicznych) niewymagających koncesji na poszukiwanie i rozpoznawanie złóż;
+2) dziedzictwo kulturowe – ochrona zidentyfikowanych elementów podwodnego dziedzictwa kulturowego, w szczególności zabytków i krajobrazów kulturowych poprzez wskazanie tych elementów w planie, a także zapewnienie warunków ich ochrony;
+3) funkcjonowanie portu – utrzymanie i rozwój infrastruktury portowej w celu realizacji istniejących i przyszłych funkcji portowych: rybołówstwa, przeładunku, turystyki, transportu i przemysłu;
 4) infrastruktura techniczna:
 a) układanie i utrzymywanie kabli energetycznych i telekomunikacyjnych,
 b) układanie i utrzymywanie rurociągów, w tym rurociągów zrzutowych i poborowych,
 c) lokalizacja innych obiektów służących bezpieczeństwu żeglugi i obronności, niewchodzących w skład infrastruktury portowej;
-5) obronność i bezpieczeństwo państwa realizacja zadań mających na celu utrzymanie bezpieczeństwa narodowego, w szczególności ochrony i obrony wartości i interesów narodowych przed istniejącymi lub potencjalnymi zagrożeniami zewnętrznymi, wykorzystanie akwenów pod miejsce postoju jednostek specjalnych;
+5) obronność i bezpieczeństwo państwa – realizacja zadań mających na celu utrzymanie bezpieczeństwa narodowego, w szczególności ochrony i obrony wartości i interesów narodowych przed istniejącymi lub potencjalnymi zagrożeniami zewnętrznymi, wykorzystanie akwenów pod miejsce postoju jednostek specjalnych;
 6) obsługa rybołówstwa ‒ zapewnienie dostępu do portu, infrastruktury portowej i usług portowych jednostkom rybackim;
-7) ochrona środowiska i przyrody zapewnienie obszarów morskich niezbędnych do ochrony środowiska i utrzymania walorów przyrodniczych polskich obszarów morskich, uwzględniające konieczność ochrony różnorodności biologicznej i siedlisk przyrodniczych, zachowania właściwego funkcjonowania ekosystemu, utrzymania drożności szlaków migracyjnych zwierząt, utrzymania dobrego stanu wód morskich lub jego poprawę, zapewnienia człowiekowi możliwości zrównoważonego korzystania z walorów przyrodniczych i krajobrazowych środowiska oraz prowadzenia badań naukowych, których wyniki służyć będą ochronie środowiska i przyrody;
-8) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż poszukiwanie, rozpoznawanie i wydobywanie ze złóż kopalin w rozumieniu ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029);
+7) ochrona środowiska i przyrody – zapewnienie obszarów morskich niezbędnych do ochrony środowiska i utrzymania walorów przyrodniczych polskich obszarów morskich, uwzględniające konieczność ochrony różnorodności biologicznej i siedlisk przyrodniczych, zachowania właściwego funkcjonowania ekosystemu, utrzymania drożności szlaków migracyjnych zwierząt, utrzymania dobrego stanu wód morskich lub jego poprawę, zapewnienia człowiekowi możliwości zrównoważonego korzystania z walorów przyrodniczych i krajobrazowych środowiska oraz prowadzenia badań naukowych, których wyniki służyć będą ochronie środowiska i przyrody;
+8) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – poszukiwanie, rozpoznawanie i wydobywanie ze złóż kopalin w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029);
 9) sztuczne wyspy i konstrukcje ‒ wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń służących w szczególności celom gospodarczym, ochronie środowiska i badaniom naukowym;
 10) transport ‒ umożliwienie bezpiecznego przemieszczania się jednostek pływających poprzez utrzymanie i modernizację torów wodnych oraz infrastruktury związanej z ich funkcjonowaniem;
 11) turystyka, sport i rekreacja ‒ zapewnienie dostępu do portu, infrastruktury portowej i usług portowych jednostkom turystycznym, a także udostępnienie akwenów na cele budowy i utrzymania infrastruktury turystycznej.
@@ -80,12 +81,10 @@ o ochronie zabytków i opiece nad zabytkami oraz ustawy z dnia 21 marca 1991 r. 
 § 6. 1. Układanie elementów liniowych, przebudowa, remont i utrzymanie elementów istniejących jest dopuszczone w całym obszarze objętym planem.
 2. Zasady układania elementów liniowych:
 1) zakazuje się układania elementów liniowych w sposób zagrażający bezpieczeństwu żeglugi;
-2) nakazuje się układanie elementów liniowych pod powierzchnią dna akwenu, a jeśli nie jest to możliwe ze względów środowiskowych czy technologicznych należy stosować inne zabezpieczenia trwałe zapewniające bezpieczeństwo nawigacyjne;
-3) nakazuje się układanie elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie oraz możliwie równolegle do już istniejącej, bezpośrednio sąsiadującej infrastruktury, z zachowaniem zasad określonych w przepisach wykonawczych wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r.
-Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ).
-3. W granicach akwenów obowiązuje zakaz wprowadzania nieoczyszczonych ścieków do wód, z wyjątkiem postępowania ze ściekami opadowymi oraz roztopowymi zgodnie z ustawą z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn.
-zm. ), ustawą z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2023 r. poz. 537 i 1688), ustawą z dnia 20 lipca 2017 r.
-Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029) oraz aktami wykonawczymi wydanymi na podstawie tych ustaw.
+2) nakazuje się układanie elementów liniowych pod powierzchnią dna akwenu, a jeśli nie jest to możliwe ze względów środowiskowych czy technologicznych – należy stosować inne zabezpieczenia trwałe zapewniające bezpieczeństwo nawigacyjne;
+3) nakazuje się układanie elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie oraz możliwie równolegle do już istniejącej, bezpośrednio sąsiadującej infrastruktury, z zachowaniem zasad określonych w przepisach wykonawczych wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ).
+3. W granicach akwenów obowiązuje zakaz wprowadzania nieoczyszczonych ścieków do wód, z wyjątkiem postępowania ze ściekami opadowymi oraz roztopowymi zgodnie z ustawą z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn.
+zm. ), ustawą z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2023 r. poz. 537 i 1688), ustawą z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029) oraz aktami wykonawczymi wydanymi na podstawie tych ustaw.
 § 7. 1. We wszystkich akwenach obowiązuje zakaz wznoszenia sztucznych wysp i konstrukcji:
 1) utrudniających dostęp do nabrzeży i innych miejsc do cumowania;
 2) naruszających elementy liniowe;
@@ -111,10 +110,10 @@ o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796), dopuszcza się p
 2. Wyznacza się akwen DZW.02.F o funkcji podstawowej funkcjonowanie portu. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
 3. Wyznacza się akwen DZW.03.F o funkcji podstawowej funkcjonowanie portu. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
 4. Wyznacza się akwen DZW.04.F o funkcji podstawowej funkcjonowanie portu. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
-5. Wyznacza się akwen DZW.05.F o funkcji podstawowej funkcjonowanie portu. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h: DOTYCZĄCYCH PRZEZNACZENIA POSZCZEGÓLNYCH AKWENÓW LUB ICH WYDZIELONYCH CZĘŚCI ORAZ INFORMACJI O SZCZEGÓLNIE ISTOTNYCH UWARUNKOWANIACH MAJĄCYCH WPŁYW NA PRZYSZŁE UŻYTKOWANIE POSZCZEGÓLNYCH AKWENÓW W POSTACI KART AKWENÓW § 1. Ustala się rozstrzygnięcia szczegółowe dla akwenu DZW.01.T określone w karcie akwenu.
+5. Wyznacza się akwen DZW.05.F o funkcji podstawowej funkcjonowanie portu. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h: Załącznik nr 2
+§ 1. Ustala się rozstrzygnięcia szczegółowe dla akwenu DZW.01.T określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.01.T T
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA TRANSPORT (T)
 6. FUNKCJE DOPUSZCZALNE
@@ -126,11 +125,11 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.01.T T
 7. ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW Nie ustala się.
 8. INWESTYCJE CELU PUBLICZNEGO Utrzymanie parametrów technicznych torów wodnych w obrębie akwenu.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) ochrona środowiska zgodnie z przepisami dotyczącymi ochrony przyrody;
-2) obronność i bezpieczeństwo państwa nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) rybołówstwo i akwakultura nie ustala się;
-5) pozyskiwanie energii odnawialnej nie ustala się;
+1) ochrona środowiska – zgodnie z przepisami dotyczącymi ochrony przyrody;
+2) obronność i bezpieczeństwo państwa – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) rybołówstwo i akwakultura – nie ustala się;
+5) pozyskiwanie energii odnawialnej – nie ustala się;
 6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Nie ustala się.
 11. ZASADY KORZYSTANIA Z AKWENU
@@ -141,12 +140,11 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.01.T T
 2) w akwenie znajduje się tor wodny;
 3) akwen częściowo znajduje się w granicach obszaru i terenu górniczego utworzonych dla złoża wód leczniczych „Kołobrzeg II”;
 4) urobek powstały w wyniku pogłębiania należy odkładać na miejsca wyznaczone przez Dyrektora Urzędu Morskiego;
-5) w akwenie znajduje się infrastruktura techniczna kabel telekomunikacyjny.
+5) w akwenie znajduje się infrastruktura techniczna – kabel telekomunikacyjny.
 13. INNE ISTOTNE INFORMACJE Brak.
 § 2. Ustala się rozstrzygnięcia szczegółowe dla akwenu DZW.02.F określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.02.F F
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA FUNKCJONOWANIE PORTU (F)
 6. FUNKCJE DOPUSZCZALNE
@@ -160,22 +158,21 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.02.F F
 7. ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW Ogranicza się realizacje inwestycji oraz prowadzenie prac związanych z budową, rozbudową i przebudową infrastruktury portowej do sposobów nienaruszających stateczności brzegu lub budowli hydrotechnicznych.
 8. INWESTYCJE CELU PUBLICZNEGO Nie ustala się.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) ochrona środowiska zgodnie z przepisami dotyczącymi ochrony przyrody;
-2) obronność i bezpieczeństwo państwa nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) rybołówstwo i akwakultura nie ustala się;
-5) pozyskiwanie energii odnawialnej nie ustala się;
-6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż nie ustala się.
+1) ochrona środowiska – zgodnie z przepisami dotyczącymi ochrony przyrody;
+2) obronność i bezpieczeństwo państwa – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) rybołówstwo i akwakultura – nie ustala się;
+5) pozyskiwanie energii odnawialnej – nie ustala się;
+6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Nie ustala się.
 11. ZASADY KORZYSTANIA Z AKWENU Akwen położony jest w granicach obszaru specjalnej ochrony ptaków Natura 2000 „Zatoka Pomorska” PLB990003 i „Wybrzeże Trzebiatowskie” PLB320010 oraz w granicach specjalnego obszaru ochrony siedlisk „Trzebiatowsko-Kołobrzeski Pas Nadmorski” PLH320017.
 12. SZCZEGÓLNIE ISTOTNE UWARUNKOWANIA DOTYCZĄCE AKWENU
 1) w akwenie znajduje się pirs;
-2) w akwenie znajduje się infrastruktura techniczna kabel telekomunikacyjny.
+2) w akwenie znajduje się infrastruktura techniczna – kabel telekomunikacyjny.
 13. INNE ISTOTNE INFORMACJE Brak.
 § 3. Ustala się rozstrzygnięcia szczegółowe dla akwenu DZW.03.F określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.03.F F
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA FUNKCJONOWANIE PORTU (F)
 6. FUNKCJE DOPUSZCZALNE
@@ -190,23 +187,22 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.03.F F
 7. ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW Ogranicza się realizacje inwestycji oraz prowadzenie prac związanych z budową, rozbudową i przebudową infrastruktury portowej do sposobów nienaruszających stateczności brzegu lub budowli hydrotechnicznych.
 8. INWESTYCJE CELU PUBLICZNEGO Nie ustala się.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) ochrona środowiska zgodnie z przepisami dotyczącymi ochrony przyrody;
-2) obronność i bezpieczeństwo państwa nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) rybołówstwo i akwakultura nie ustala się;
-5) pozyskiwanie energii odnawialnej nie ustala się;
+1) ochrona środowiska – zgodnie z przepisami dotyczącymi ochrony przyrody;
+2) obronność i bezpieczeństwo państwa – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) rybołówstwo i akwakultura – nie ustala się;
+5) pozyskiwanie energii odnawialnej – nie ustala się;
 6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Nie ustala się.
 11. ZASADY KORZYSTANIA Z AKWENU Akwen znajduje się częściowo w granicach obszaru specjalnej ochrony ptaków Natura 2000 „Zatoka Pomorska” PLB990003.
 12. SZCZEGÓLNIE ISTOTNE UWARUNKOWANIA DOTYCZĄCE AKWENU
 1) akwen pełni funkcje postojowe i przeładunkowe;
-2) w akwenie znajduje się infrastruktura techniczna kabel telekomunikacyjny;
+2) w akwenie znajduje się infrastruktura techniczna – kabel telekomunikacyjny;
 3) akwen częściowo znajduje się w granicach obszaru i terenu górniczego utworzonych dla złoża wód leczniczych „Kołobrzeg II”.
 13. INNE ISTOTNE INFORMACJE Brak.
 § 4. Ustala się rozstrzygnięcia szczegółowe dla akwenu DZW.04.F określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.04.F F
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA FUNKCJONOWANIE PORTU (F)
 6. FUNKCJE DOPUSZCZALNE
@@ -221,11 +217,11 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.04.F F
 7. ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW Ogranicza się realizacje inwestycji oraz prowadzenie prac związanych z budową, rozbudową i przebudową infrastruktury portowej do sposobów nienaruszających stateczności brzegu lub budowli hydrotechnicznych.
 8. INWESTYCJE CELU PUBLICZNEGO Nie ustala się.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) ochrona środowiska zgodnie z przepisami dotyczącymi ochrony przyrody;
-2) obronność i bezpieczeństwo państwa nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) rybołówstwo i akwakultura nie ustala się;
-5) pozyskiwanie energii odnawialnej nie ustala się;
+1) ochrona środowiska – zgodnie z przepisami dotyczącymi ochrony przyrody;
+2) obronność i bezpieczeństwo państwa – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) rybołówstwo i akwakultura – nie ustala się;
+5) pozyskiwanie energii odnawialnej – nie ustala się;
 6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Nie ustala się.
 11. ZASADY KORZYSTANIA Z AKWENU Akwen znajduje się w graniach obszaru chronionego krajobrazu „Koszaliński Pas Nadmorski”.
@@ -237,8 +233,7 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.04.F F
 13. INNE ISTOTNE INFORMACJE Brak.
 § 5. Ustala się rozstrzygnięcia szczegółowe dla akwenu DZW.05.F określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.05.F F
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA FUNKCJONOWANIE PORTU (F)
 6. FUNKCJE DOPUSZCZALNE
@@ -255,11 +250,11 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.05.F F
 2) wyznacza się podakwen DZW.05.F.1, na którym znajduje się most drogowy, który powoduje ograniczenie wysokości poruszających się pod nim jednostek.
 8. INWESTYCJE CELU PUBLICZNEGO Nie ustala się.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) ochrona środowiska zgodnie z przepisami dotyczącymi ochrony przyrody;
-2) obronność i bezpieczeństwo państwa nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) rybołówstwo i akwakultura nie ustala się;
-5) pozyskiwanie energii odnawialnej nie ustala się;
+1) ochrona środowiska – zgodnie z przepisami dotyczącymi ochrony przyrody;
+2) obronność i bezpieczeństwo państwa – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) rybołówstwo i akwakultura – nie ustala się;
+5) pozyskiwanie energii odnawialnej – nie ustala się;
 6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Nie ustala się.
 11. ZASADY KORZYSTANIA Z AKWENU Akwen położony w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Trzebiatowsko-Kołobrzeski Pas Nadmorski” PLH320017 oraz obszaru specjalnej ochrony ptaków Natura 2000 „Wybrzeże Trzebiatowskie” PLB320010.
@@ -268,15 +263,15 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE DZW.05.F F
 2) na nabrzeżu znajduje się zbiornik na wody zaolejone;
 3) akwen pełni funkcję postojową i przeładunkową;
 4) w podakwenie DZW.05.F.1 znajduje się most drogowy;
-5) w akwenie znajduje się infrastruktura techniczna kable sieci elektroenergetycznej niskiego napięcia;
+5) w akwenie znajduje się infrastruktura techniczna – kable sieci elektroenergetycznej niskiego napięcia;
 6) akwen częściowo znajduje się w granicach obszaru i terenu górniczego utworzonych dla złoża wód leczniczych „Kołobrzeg II”.
 13. INNE ISTOTNE INFORMACJE Na akwenie odbywa się ruch jednostek pływających w/z kierunku jeziora Resko Przymorskie.
 § 6. Uzasadnienie do szczegółowych rozstrzygnięć dotyczących poszczególnych akwenów zawiera załącznik.
-uwarunkowaniach mających wpływ na przyszłe użytkowanie poszczególnych akwenów w postaci kart akwenów UZASADNIENIE DO SZCZEGÓŁOWYCH ROZSTRZYGNIĘĆ DOTYCZĄCYCH POSZCZEGÓLNYCH AKWENÓW Ustalając szczegółowe rozstrzygnięcia do poszczególnych akwenów objętych planem zagospodarowania przestrzennego morskich wód wewnętrznych port morski w Dźwirzynie, zwanego dalej „planem”, uwzględniono w szczególności:
+Załącznik do części tekstowej planu w zakresie szczegółowych rozstrzygnięć dotyczących przeznaczenia poszczególnych akwenów lub ich wydzielonych części oraz informacji o szczególnie istotnych uwarunkowaniach mających wpływ na przyszłe użytkowanie poszczególnych akwenów w postaci kart akwenów UZASADNIENIE DO SZCZEGÓŁOWYCH ROZSTRZYGNIĘĆ DOTYCZĄCYCH POSZCZEGÓLNYCH AKWENÓW Ustalając szczegółowe rozstrzygnięcia do poszczególnych akwenów objętych planem zagospodarowania przestrzennego morskich wód wewnętrznych – port morski w Dźwirzynie, zwanego dalej „planem”, uwzględniono w szczególności:
 1) ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960, 1688 i 2029);
 2) ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r.
 poz. 1796);
-3) ustawę z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2022 r.
+3) ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r.
 poz. 2556, z późn. zm. );
 4) rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej oraz Ministra Infrastruktury i Budownictwa z dnia 17 maja 2017 r. w sprawie wymaganego zakresu planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej (Dz. U. poz. 1025), zwane dalej „Rozporządzeniem”;
 5) uchwałę nr 239 Rady Ministrów z dnia 13 grudnia 2011 r. w sprawie przyjęcia Koncepcji Przestrzennego Zagospodarowania Kraju 2030 (M.P. z 2012 r. poz. 252);
@@ -288,16 +283,16 @@ Na podstawie szczegółowego rozpoznania terenu i analizy złożonych wniosków 
 2) transport o oznaczeniu literowym T.
 Podczas wydzielenia poszczególnych akwenów i nadawaniu im funkcji brano pod uwagę wzajemne oddziaływanie lądu i morza, aspekty środowiskowe, gospodarcze i społeczne, jak też aspekty bezpieczeństwa; dążono do spójności między planem zagospodarowania przestrzennego morskich wód wewnętrznych w granicach portu w Dźwirzynie a planami i procesami, takimi jak zintegrowane zarządzanie obszarami przybrzeżnymi lub równoważne działania formalne i nieformalne.
 Na podstawie powyższego wyznaczono łącznie 2 funkcje podstawowe akwenów, o następującej ich ilości:
-1) F funkcjonowanie portu 4;
-2) T transport 1.
+1) F – funkcjonowanie portu – 4;
+2) T – transport – 1.
 Nie wydzielono akwenów z funkcją podstawową: badania naukowe, dziedzictwo kulturowe, infrastruktura techniczna, poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż, rybołówstwo, obsługa rybołówstwa, sztuczne wyspy i konstrukcje, turystyka, sport i rekreacja. Funkcje te wskazano jako dopuszczalne z ograniczeniami zawartymi w kartach akwenów, w zależności od istniejących uwarunkowań lub potrzeb w ramach poszczególnym akwenów.
-Z uwagi na specyfikę planu, który obejmuje obszar portu morskiego, nie wydzielono akwenów o funkcji pozyskiwanie energii odnawialnej ze względu na przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, zgodnie z którymi na morskich wodach wewnętrznych zakazuje się wznoszenia i wykorzystywania elektrowni wiatrowych; innych instalacji do pozyskiwania energii odnawialnej na obszarze objętym planem nie przewiduje się.
+Z uwagi na specyfikę planu, który obejmuje obszar portu morskiego, nie wydzielono akwenów o funkcji pozyskiwanie energii odnawialnej – ze względu na przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, zgodnie z którymi na morskich wodach wewnętrznych zakazuje się wznoszenia i wykorzystywania elektrowni wiatrowych; innych instalacji do pozyskiwania energii odnawialnej na obszarze objętym planem nie przewiduje się.
 Na całym obszarze planu funkcjami nadrzędnymi, czyli funkcjami, których wykonywanie nie może być ograniczane przez inne funkcje, jest obronność i bezpieczeństwo państwa, a także ochrona środowiska i przyrody. W wyniku priorytetowości zapewnienia funkcjonowania tych działów funkcje te nie zostały wskazane w rozstrzygnięciach szczegółowych jako funkcje dopuszczalne. Ważne jest, aby zapewnić wymogi związane z bezpieczeństwem państwa poprzez nieograniczanie działalności podmiotom zajmującym się obronnością. Zgodnie z zasadą zrównoważonego rozwoju przy opracowaniu planu wzięto za cel ochronę środowiska przyrodniczego, w tym utrzymanie i poprawę jego stanu ekologicznego.
 Na obszarze opracowania ustalono priorytetowe kierunki rozwoju transportu i rozwoju infrastruktury technicznej na akwenie DZW.01.T, który ma zapewniać żeglugę w porcie.
 W celu umożliwienia bezpiecznego przemieszczania się jednostek pływających oraz wyodrębnienia infrastruktury zapewniającej dostęp do portu (wyznaczonej na podstawie zarządzenia Nr 2 Dyrektora Urzędu Morskiego w Słupsku z dnia 15 lutego 2017 r. w sprawie określenia obiektów, urządzeń i instalacji wchodzących w skład infrastruktury zapewniającej dostęp do portów Dźwirzyno, Kołobrzeg, Darłowo, Ustka, Rowy, Łeba (Dz. Urz. Woj.
 Pomorskiego poz. 656, Dz. Urz. Woj. Zachodniopomorskiego z 2022 r. poz. 4559 i z 2023 r.
-poz. 1815 oraz Dz. Urz. Woj. Pomorskiego z 2023 r. poz. 608)) na obszarach tych wyznaczono funkcję podstawową T transport. Dla tego akwenu ustala się przede wszystkim utrzymanie i modernizację torów wodnych oraz infrastruktury związanej z jej funkcjonowaniem.
-Na zdecydowanej większości obszaru portu morskiego w Dźwirzynie wyznaczona została funkcja podstawowa F funkcjonowanie portu. Akweny te zapewniają wykonywanie funkcji portowych, takich jak przeładunek, działalność stoczniowa, postój, przewozy pasażerskie oraz inne związane właśnie z funkcjonowaniem portu. Na obszarze opracowania istotne jest, aby w jak największym stopniu wykorzystać jego potencjał, uwzględniając istniejące i perspektywiczne obszary portu, które zostały wskazane w ustaleniach ogólnych oraz kartach akwenów.
+poz. 1815 oraz Dz. Urz. Woj. Pomorskiego z 2023 r. poz. 608)) na obszarach tych wyznaczono funkcję podstawową T – transport. Dla tego akwenu ustala się przede wszystkim utrzymanie i modernizację torów wodnych oraz infrastruktury związanej z jej funkcjonowaniem.
+Na zdecydowanej większości obszaru portu morskiego w Dźwirzynie wyznaczona została funkcja podstawowa F – funkcjonowanie portu. Akweny te zapewniają wykonywanie funkcji portowych, takich jak przeładunek, działalność stoczniowa, postój, przewozy pasażerskie oraz inne związane właśnie z funkcjonowaniem portu. Na obszarze opracowania istotne jest, aby w jak największym stopniu wykorzystać jego potencjał, uwzględniając istniejące i perspektywiczne obszary portu, które zostały wskazane w ustaleniach ogólnych oraz kartach akwenów.
 Funkcja turystyka, sport i rekreacja została wyznaczona jako dopuszczalna na akwenach DZW.02.F, DZW.03.F, DZW.04.F i DZW.05.F. Jest to wynikiem stacjonowania w porcie jednostek zajmujących się przewozami turystycznymi. Ograniczenia, a także szczegółowe zasady korzystania z akwenów zostały zawarte w rozstrzygnięciach szczegółowych.
 Ustalając zasady realizacji funkcji dopuszczalnej infrastruktura techniczna, kierowano się przede wszystkim oszczędnym korzystaniem z przestrzeni (tj. równolegle do siebie, z zachowaniem zasad określonych w warunkach technicznych). Wykonywanie funkcji dopuszczalnej infrastruktura techniczna posiada najwięcej ograniczeń związanych z lokalizacją elementów infrastruktury, jednocześnie dopuszczona jest na wszystkich akwenach.
 Port w Dźwirzynie posiada dobrze rozwiniętą bazę rybacką, dlatego funkcja obsługa rybołówstwa dopuszczona jest w akwenach DZW.02.F, DZW.03.F, DZW.04.F i DZW.05.F.
@@ -306,5 +301,7 @@ W akwenach DZW.01.T, DZW.03.F, DZW.04.F, DZW.05.F dopuszczona jest funkcja poszu
 Ochronę dziedzictwa kulturowego zapewniają przepisy rozstrzygnięć szczegółowych wskazujące na wymóg uwzględnienia przepisów odrębnych w zakresie ochrony zabytków.
 RYSUNEK UWARUNKOWAŃ Skorowidz arkuszy Rysunek orientacyjny określający lokalizację obszaru objętego planem w stosunku do wybrzeża Załącznik nr 3 RYSUNEK PLANU STANOWIĄCY CZĘŚĆ GRAFICZNĄ PLANU Skorowidz arkuszy Rysunek orientacyjny określający lokalizację obszaru objętego planem w stosunku do wybrzeża
 
-## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE USTALEŃ OGÓLNYCH ZAWIERAJĄCYCH WSKAZANIE ROZSTRZYGNIĘĆ OBOWIĄZUJĄCYCH NA CZĘŚCI LUB NA CAŁYM OBSZARZE OBJĘTYM PLANEM, ROZSTRZYGNIĘĆ DOTYCZĄCYCH ROZMIESZCZENIA INWESTYCJI CELU PUBLICZNEGO ORAZ KIERUNKÓW ROZWOJU TRANSPORTU I INFRASTRUKTURY TECHNICZNEJ § 1. 1. Wyjaśnienie pojęć użytych w planie:
+## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE USTALEŃ OGÓLNYCH ZAWIERAJĄCYCH WSKAZANIE ROZSTRZYGNIĘĆ OBOWIĄZUJĄCYCH NA CZĘŚCI LUB NA CAŁYM OBSZARZE OBJĘTYM PLANEM, ROZSTRZYGNIĘĆ DOTYCZĄCYCH ROZMIESZCZENIA INWESTYCJI CELU PUBLICZNEGO ORAZ KIERUNKÓW ROZWOJU TRANSPORTU I INFRASTRUKTURY TECHNICZNEJ
+
+## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE SZCZEGÓŁOWYCH ROZSTRZYGNIĘĆ DOTYCZĄCYCH PRZEZNACZENIA POSZCZEGÓLNYCH AKWENÓW LUB ICH WYDZIELONYCH CZĘŚCI ORAZ INFORMACJI O SZCZEGÓLNIE ISTOTNYCH UWARUNKOWANIACH MAJĄCYCH WPŁYW NA PRZYSZŁE UŻYTKOWANIE POSZCZEGÓLNYCH AKWENÓW W POSTACI KART AKWENÓW
 

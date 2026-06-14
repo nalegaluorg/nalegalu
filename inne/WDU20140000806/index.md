@@ -8,10 +8,10 @@ pos: 806
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 czerwca 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 806 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 czerwca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/806/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 czerwca 2014 r.
-w sprawie sposobu i trybu sprawowania nadzoru nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych Na podstawie art. 24 ust. 13 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie sposobu i trybu sprawowania nadzoru nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych Na podstawie art. 24 ust. 13 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy sposób i tryb sprawowania nadzoru nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych;
 2) zakres danych objętych określonymi dokumentami, innymi niż formularz, o którym mowa w pkt 3, sporządzanymi w procesie sprawowania nadzoru nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych;
 3) wzór formularza zgłoszenia pojedynczego przypadku działania niepożądanego produktu leczniczego weterynaryjnego.
 § 2. W ramach sprawowania nadzoru nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwany dalej „Prezesem Urzędu”:
-1) zbiera i analizuje, w tym przeprowadza ocenę przyczynowo-skutkową, zgłoszenia pojedynczego przypadku działania niepożądanego produktu leczniczego weterynaryjnego, zwanego dalej „zgłoszeniem”, oraz raporty, o których mowa w art. 24 ust. 1 pkt 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, zwanej dalej „ustawą”, dotyczące:
+1) zbiera i analizuje, w tym przeprowadza ocenę przyczynowo-skutkową, zgłoszenia pojedynczego przypadku działania niepożądanego produktu leczniczego weterynaryjnego, zwanego dalej „zgłoszeniem”, oraz raporty, o których mowa w art. 24 ust. 1 pkt 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanej dalej „ustawą”, dotyczące:
 a) pojedynczych przypadków działania niepożądanego produktu leczniczego weterynaryjnego po zastosowaniu produktu zgodnie z Charakterystyką Produktu Leczniczego Weterynaryjnego,
 b) pojedynczych przypadków działania niepożądanego produktu leczniczego weterynaryjnego po zastosowaniu produktu niezgodnie z Charakterystyką Produktu Leczniczego Weterynaryjnego,
 c) spodziewanego działania niepożądanego produktu leczniczego weterynaryjnego oraz zwiększonej częstotliwości jego występowania,
@@ -58,6 +58,7 @@ Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 3), podmiot odpowi
 3) dotyczące działania niepożądanego produktu leczniczego weterynaryjnego uzyskane w wyniku prowadzenia badań dotyczących bezpieczeństwa.
 § 5. 1. Raport dotyczący obserwowanego u zwierzęcia działania niepożądanego produktu leczniczego weterynaryjnego zawiera:
 1) imię i nazwisko osoby przekazującej raport w imieniu podmiotu odpowiedzialnego, wraz z jej służbowym: adresem, numerem telefonu i faksu, jeżeli dotyczy;
+2) numer zgłoszenia nadany przez podmiot odpowiedzialny, jeżeli dotyczy;
 3) datę otrzymania zgłoszenia przez podmiot odpowiedzialny lub osobę działającą w imieniu tego podmiotu;
 4) wskazanie źródła danych, o których mowa w § 4;
 5) kod umożliwiający identyfikację osoby zgłaszającej w celu uniknięcia powielenia zgłoszenia, informacje o zawodzie, jeżeli zgłoszenie obserwowanego działania niepożądanego wynika z wykonywanej pracy;
@@ -91,9 +92,10 @@ a) nazwę tego produktu oraz jego nazwę powszechnie stosowaną,
 b) numer pozwolenia na dopuszczenie do obrotu,
 c) kod międzynarodowej klasyfikacji anatomiczno-terapeutyczno-chemicznej produktów leczniczych (ATC) albo produktów leczniczych weterynaryjnych (ATCvet),
 d) postać farmaceutyczną,
+e) numer serii produktu leczniczego,
 f) termin ważności, jeżeli dotyczy,
 g) warunki przechowywania, jeżeli dotyczy,
-h) w skazanie, czy produkt leczniczy zastosował lekarz weterynarii, właściciel, opiekun zwierzęcia, czy też osoba trzecia,
+h) wskazanie, czy produkt leczniczy zastosował lekarz weterynarii, właściciel, opiekun zwierzęcia, czy też osoba trzecia,
 i) drogę podania,
 j) datę rozpoczęcia leczenia,
 k) datę zakończenia leczenia albo długość leczenia,
@@ -102,14 +104,14 @@ l) inne informacje na temat produktu leczniczego podawanego jednocześnie;
 a) opis zaobserwowanego działania niepożądanego produktu leczniczego weterynaryjnego, łącznie z lokalizacją, stopniem ciężkości i objawami klinicznymi,
 b) datę wystąpienia objawów,
 c) datę ustąpienia objawów albo czas trwania działania niepożądanego,
-d) o pis leczenia albo działań podjętych po zaobserwowaniu działania niepożądanego produktu leczniczego weterynaryjnego,
-e) liczbę zwierząt wykazujących objawy działania niepożądan ego produktu leczniczego weterynaryjnego,
+d) opis leczenia albo działań podjętych po zaobserwowaniu działania niepożądanego produktu leczniczego weterynaryjnego,
+e) liczbę zwierząt wykazujących objawy działania niepożądanego produktu leczniczego weterynaryjnego,
 f) liczbę zwierząt padłych,
-g) d ziałania podjęte po zaobserwowaniu objawów, takie jak w szczególności zmniejszenie dawki, zaprzestanie podawania,
+g) działania podjęte po zaobserwowaniu objawów, takie jak w szczególności zmniejszenie dawki, zaprzestanie podawania,
 h) liczbę zwierząt, które przeżyły, ale nie powróciły do pełni zdrowia, jeżeli dane te są dostępne,
 i) liczbę zwierząt, które przeżyły i powróciły do pełni zdrowia, jeżeli dane te są dostępne,
 j) inne informacje, które mogą być pomocne w ocenie działania niepożądanego produktu leczniczego weterynaryjnego, w szczególności dotyczące podatności zwierzęcia na alergie, zmiany nawyków żywieniowych, poziomu produkcji,
-k) w przypadku zwierząt padłych związek śmierci z obserwowanym działaniem niepożądanym produktu leczniczego weterynaryjnego, z przytoczeniem wyników badań przeprowadzonych po śmierci oraz wyników badań laboratoryjnych, jeżeli takie zostały wykonane;
+k) w przypadku zwierząt padłych – związek śmierci z obserwowanym działaniem niepożądanym produktu leczniczego weterynaryjnego, z przytoczeniem wyników badań przeprowadzonych po śmierci oraz wyników badań laboratoryjnych, jeżeli takie zostały wykonane;
 28) ocenę przyczynowo-skutkową obserwowanego działania niepożądanego produktu leczniczego weterynaryjnego.
 2. Raport dotyczący obserwowanego u człowieka działania niepożądanego produktu leczniczego weterynaryjnego zawiera:
 1) imię i nazwisko osoby przekazującej raport w imieniu podmiotu odpowiedzialnego, wraz z jej służbowym: adresem, numerem telefonu i faksu, jeżeli dotyczy;
@@ -121,7 +123,8 @@ k) w przypadku zwierząt padłych związek śmierci z obserwowanym działaniem n
 7) dane, o których mowa w art. 24 ust. 12 pkt 1 ustawy, albo kod umożliwiający identyfikację osoby zgłaszającej w celu uniknięcia powielenia zgłoszenia, informacje o zawodzie, jeżeli ma to związek z ekspozycją na produkt leczniczy weterynaryjny;
 8) datę zastosowania produktu leczniczego weterynaryjnego albo datę ekspozycji na ten produkt;
 9) datę wystąpienia działania niepożądanego produktu leczniczego weterynaryjnego;
-10) d ane produktu leczniczego weterynaryjnego: nazwę, numer pozwolenia, nazwę substancji czynnej, kod między11) okoliczności ekspozycji, takie jak w szczególności inhalacja, wstrzyknięcie, kontakt ze skórą, typ ekspozycji oraz czas jej trwania;
+10) dane produktu leczniczego weterynaryjnego: nazwę, numer pozwolenia, nazwę substancji czynnej, kod międzynarodowej klasyfikacji anatomiczno-terapeutyczno-chemicznej produktów leczniczych weterynaryjnych (ATCvet);
+11) okoliczności ekspozycji, takie jak w szczególności inhalacja, wstrzyknięcie, kontakt ze skórą, typ ekspozycji oraz czas jej trwania;
 12) opis zaobserwowanego działania niepożądanego produktu leczniczego weterynaryjnego, z podaniem objawów;
 13) informacje o skutkach wystąpienia działania niepożądanego produktu leczniczego weterynaryjnego, takich jak w szczególności całkowite wyleczenie, konieczność dalszego leczenia;
 14) nazwę (firmę), adres, numer telefonu podmiotu leczniczego udzielającego pomocy;
@@ -138,9 +141,10 @@ k) w przypadku zwierząt padłych związek śmierci z obserwowanym działaniem n
 § 9. Jeżeli ocena bezpieczeństwa produktu leczniczego weterynaryjnego jest związana ze zmianą częstości występowania działań niepożądanych produktu leczniczego weterynaryjnego, to powinna ona uwzględniać dane o łącznej liczbie zgłoszeń dotyczących tego produktu oraz szacunkowej liczbie zwierząt poddanych jego działaniu.
 § 10. Jeżeli informacje zawarte w raporcie znacząco wpływają na ocenę bezpieczeństwa stosowania produktu leczniczego weterynaryjnego, podmiot odpowiedzialny zaznacza ten fakt w komentarzu do raportu.
 § 11. Jeżeli informacje zawarte w raporcie wpływają na ocenę bezpieczeństwa produktu leczniczego weterynaryjnego, podmiot odpowiedzialny przedstawia jednocześnie propozycje działań zmierzających do zmiany danych objętych pozwoleniem, zmiany dokumentacji będącej podstawą wydania pozwolenia na dopuszczenie do obrotu produktu leczniczego weterynaryjnego lub zmian w Charakterystyce Produktu Leczniczego Weterynaryjnego.
-§ 12. 1. Zgłoszenie otrzymane przez podmiot odpowiedzialny od właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym podmiot odpowiedzialny włącza do raportu okresowego.
-2. W przypadku gdy zgłoszenie otrzymane od właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym mogłoby prowadzić do zmiany oceny stosunku korzyści do ryzyka dla danego produktu leczniczego wete§ 13. Zgłoszenia dokonuje się na formularzu, którego wzór stanowi załącznik do rozporządzenia. Zgłoszenie może być dokonane w innej formie, pod warunkiem zawarcia w nim wszystkich danych określonych w formularzu.
-§ 14. Raport okresowy sporządza się w celu dokonania krytycznej oceny, czy dane zebrane z terytorium Rzeczypospolitej Polskiej i innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym w okresie, którego dotyczy raport, są zgodne z dotychczasową wiedzą o bezpieczeństwie produktu leczniczego weterynaryjnego, i ustalenia, czy stosunek korzyści wynikającej z zastosowania produktu do ryzyka wiążącego się z jego zastosowaniem nie uległ zmianie oraz czy są konieczne zmiany w Charakterystyce Produktu Leczniczego Weterynaryjnego.
+§ 12. 1. Zgłoszenie otrzymane przez podmiot odpowiedzialny od właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym podmiot odpowiedzialny włącza do raportu okresowego.
+2. W przypadku gdy zgłoszenie otrzymane od właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym mogłoby prowadzić do zmiany oceny stosunku korzyści do ryzyka dla danego produktu leczniczego weterynaryjnego, informację taką podmiot odpowiedzialny przekazuje niezwłocznie do Prezesa Urzędu.
+§ 13. Zgłoszenia dokonuje się na formularzu, którego wzór stanowi załącznik do rozporządzenia. Zgłoszenie może być dokonane w innej formie, pod warunkiem zawarcia w nim wszystkich danych określonych w formularzu.
+§ 14. Raport okresowy sporządza się w celu dokonania krytycznej oceny, czy dane zebrane z terytorium Rzeczypospolitej Polskiej i innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym w okresie, którego dotyczy raport, są zgodne z dotychczasową wiedzą o bezpieczeństwie produktu leczniczego weterynaryjnego, i ustalenia, czy stosunek korzyści wynikającej z zastosowania produktu do ryzyka wiążącego się z jego zastosowaniem nie uległ zmianie oraz czy są konieczne zmiany w Charakterystyce Produktu Leczniczego Weterynaryjnego.
 § 15. Raport okresowy przedstawia się w języku polskim, a jeżeli jest to utrudnione, w języku angielskim.
 § 16. 1. Raport okresowy zawiera:
 1) dane dotyczące podmiotu odpowiedzialnego i produktu leczniczego weterynaryjnego, w tym:
@@ -151,7 +155,7 @@ d) europejską datę referencyjną (EBD) albo datę rozpoczęcia cyklu składani
 e) informację o okresie objętym raportem okresowym,
 f) datę pierwszego wprowadzenia produktu leczniczego weterynaryjnego do obrotu,
 g) informację, którym w kolejności jest składany raport okresowy;
-2) podsumowanie informacji o podjętych przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub podmiot odpowiedzialny działaniach związanych z bezpieczeństwem produktu leczniczego weterynaryjnego;
+2) podsumowanie informacji o podjętych przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub podmiot odpowiedzialny działaniach związanych z bezpieczeństwem produktu leczniczego weterynaryjnego;
 3) Charakterystykę Produktu Leczniczego Weterynaryjnego;
 4) informacje na temat ekspozycji na produkt leczniczy weterynaryjny;
 5) informacje na temat częstości występowania działań niepożądanych produktu leczniczego weterynaryjnego;
@@ -162,12 +166,13 @@ g) informację, którym w kolejności jest składany raport okresowy;
 10) informacje dotyczące bezpieczeństwa produktu leczniczego weterynaryjnego otrzymane po zakończeniu zbierania danych do przedstawianego raportu okresowego;
 11) tabelaryczne zestawienie danych na temat zgłoszeń dotyczących działań niepożądanych produktu leczniczego weterynaryjnego obserwowanych u zwierząt, obejmujące następujące dane:
 a) nadany przez podmiot odpowiedzialny numer zgłoszenia, zawierający kod państwa, w którym obserwowano działanie niepożądane,
-b) n umer zgłoszenia nadany przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, jeżeli dotyczy,
+b) numer zgłoszenia nadany przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, jeżeli dotyczy,
 c) datę leczenia lub szczepienia,
 d) informacje, czy produkt był stosowany zgodnie z Charakterystyką Produktu Leczniczego Weterynaryjnego,
 e) datę wystąpienia działania niepożądanego produktu leczniczego weterynaryjnego,
 f) liczbę, gatunek i wiek leczonych zwierząt,
 g) liczbę zwierząt (przybliżoną), u których obserwowano działanie niepożądane, jeżeli dotyczy,
+h) liczbę zwierząt padłych,
 i) inne produkty podawane jednocześnie, włącznie z premiksami (nazwa i substancja czynna),
 j) obserwowane objawy działania niepożądanego lub rozpoznanie włącznie z czasem ich trwania,
 k) terminologię VEDDRA opisującą obserwowane objawy działania niepożądanego lub rozpoznanie,
@@ -175,7 +180,7 @@ l) krótki komentarz podmiotu odpowiedzialnego,
 m) ocenę przyczynowo-skutkową;
 12) tabelaryczne zestawienie danych na temat zgłoszeń dotyczących działań niepożądanych produktu leczniczego weterynaryjnego obserwowanych u człowieka, obejmujące następujące dane:
 a) nadany przez podmiot odpowiedzialny numer zgłoszenia zawierający kod państwa, w którym obserwowano działanie niepożądane,
-b) n umer zgłoszenia nadany przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, jeżeli dotyczy,
+b) numer zgłoszenia nadany przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, jeżeli dotyczy,
 c) datę ekspozycji na produkt leczniczy weterynaryjny,
 d) datę wystąpienia objawów,
 e) dane, o których mowa w art. 24 ust. 12 pkt 1 ustawy, albo kod umożliwiający identyfikację osoby zgłaszającej w celu uniknięcia powielenia zgłoszenia, informacje o zawodzie, jeżeli ma to związek z ekspozycją na produkt leczniczy weterynaryjny,
@@ -186,7 +191,7 @@ i) informacje na temat ustąpienia objawów działania niepożądanego,
 j) krótki komentarz podmiotu odpowiedzialnego.
 2. Informacje, o których mowa w ust. 1 pkt 11 i 12, sporządza się na formularzach opracowanych przez podmiot odpowiedzialny, jeżeli zawierają one dane, o których mowa w ust. 1 pkt 11 i 12, zgodnie z wiążącymi wytycznymi, o których mowa w art. 77 dyrektywy 2001/82/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych.
 § 17. Podmiot odpowiedzialny przekazuje jako podejrzenie wystąpienia działania niepożądanego produktu leczniczego weterynaryjnego, w ramach raportu okresowego, wszystkie informacje dotyczące podejrzeń, że wyznaczony okres karencji jest niewystarczający.
-§ 18. Jeżeli Prezes Urzędu, właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub podmiot odpowiedzialny podjęli lub mają zamiar podjąć odpowiednie działania w związku z zagrożeniem zdrowia publicznego, w raporcie okresowym przedstawia się uzasadnienie dla podjętych lub zamierzonych działań oraz załącza się do niego stosowną dokumentację.
+§ 18. Jeżeli Prezes Urzędu, właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub podmiot odpowiedzialny podjęli lub mają zamiar podjąć odpowiednie działania w związku z zagrożeniem zdrowia publicznego, w raporcie okresowym przedstawia się uzasadnienie dla podjętych lub zamierzonych działań oraz załącza się do niego stosowną dokumentację.
 § 19. 1. W raporcie okresowym, który dotyczy produktu leczniczego weterynaryjnego zawierającego jedną substancję czynną, zamieszcza się informacje dotyczące w szczególności postaci, dawki i wskazań dla danej substancji czynnej, przy czym może być celowe oddzielne przedstawienie danych lub informacji o różnych dawkach, wskazaniach lub populacjach.
 2. Informacje o bezpieczeństwie produktów leczniczych weterynaryjnych złożonych, które zawierają substancje czynne będące przedmiotem odrębnych raportów okresowych, podmiot odpowiedzialny może przedstawić w osobnym raporcie okresowym lub włączyć jako odrębne opracowanie do raportu okresowego dla produktu leczniczego weterynaryjnego zawierającego jedną z substancji czynnych.
 § 20. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

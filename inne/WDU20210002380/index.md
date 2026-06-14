@@ -8,10 +8,10 @@ pos: 2380
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2380 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 15 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002380) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2380/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 15 grudnia 2021 r.
-w sprawie ekspertyzy nawigacyjnej i ekspertyz technicznych dla morskiej farmy wiatrowej i zespołu urządzeń Na podstawie art. 113b ust. 10 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2020 r. poz. 680 oraz z 2021 r. poz. 234) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie ekspertyzy nawigacyjnej i ekspertyz technicznych dla morskiej farmy wiatrowej i zespołu urządzeń Na podstawie art. 113b ust. 10 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2020 r. poz. 680 oraz z 2021 r. poz. 234) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy zakres ekspertyzy:
 a) nawigacyjnej w zakresie oceny wpływu morskiej farmy wiatrowej i zespołu urządzeń na bezpieczeństwo i efektywność żeglugi statków w polskich obszarach morskich,
 b) technicznej w zakresie oceny wpływu morskiej farmy wiatrowej i zespołu urządzeń na polskie obszary morza A1 i A2 Morskiego Systemu Łączności w Niebezpieczeństwie i dla Zapewnienia Bezpieczeństwa (GMDSS) oraz Systemu Łączności Operacyjnej Morskiej Służby Poszukiwania i Ratownictwa,
@@ -87,7 +87,7 @@ III. Formalna ocena ryzyka przeprowadzona w zakresie będącym przedmiotem ekspe
 2) zalecanych środków kontroli ryzyka oraz sposobów redukcji zagrożeń, w tym dotyczących wdrożenia odpowiednich rozwiązań formalnych lub organizacyjnych lub instalacji odpowiednich urządzeń.
 SZCZEGÓŁOWY ZAKRES EKSPERTYZY TECHNICZNEJ W ZAKRESIE OCENY WPŁYWU MORSKIEJ FARMY WIATROWEJ I ZESPOŁU URZĄDZEŃ NA POLSKIE OBSZARY MORZA A1 I A2 MORSKIEGO SYSTEMU ŁĄCZNOŚCI W NIEBEZPIECZEŃSTWIE I DLA ZAPEWNIENIA BEZPIECZEŃSTWA (GMDSS) ORAZ SYSTEMU ŁĄCZNOŚCI OPERACYJNEJ MORSKIEJ SŁUŻBY POSZUKIWANIA I RATOWNICTWA Ekspertyza techniczna w zakresie oceny wpływu morskiej farmy wiatrowej w rozumieniu art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2021 r.
 poz. 234, 784, 1093 i 1642), zwanej dalej „MFW”, i zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, zwanego dalej „zespołem urządzeń”, na polskie obszary morza A1 i A2 Morskiego Systemu Łączności w Niebezpieczeństwie i dla Zapewnienia Bezpieczeństwa (GMDSS) oraz Systemu Łączności Operacyjnej Morskiej Służby Poszukiwania i Ratownictwa, zwana dalej „ekspertyzą”, zawiera następujące elementy: I. Informacje ogólne dotyczące:
-1) nazwy MFW i zespołu urządzeń oraz nazw i danych teleadresowych wytwórcy i podmiotów zaangażowanych w proces budowy i eksploatacji MFW i zespołu urządzeń, a także ich likwidacji jeżeli są znane;
+1) nazwy MFW i zespołu urządzeń oraz nazw i danych teleadresowych wytwórcy i podmiotów zaangażowanych w proces budowy i eksploatacji MFW i zespołu urządzeń, a także ich likwidacji – jeżeli są znane;
 2) celu i zakresu ekspertyzy;
 3) podstaw prawnych, standardów i wytycznych uwzględnionych w ekspertyzie;
 4) kwalifikacji i doświadczenia osób, które opracowały ekspertyzę, ze wskazaniem autorów poszczególnych części lub stron ekspertyzy.
@@ -106,7 +106,7 @@ c) wpływu MFW i zespołu urządzeń na statkowe radiostacje operujące w paśmi
 9) zakresu oraz harmonogramu pomiarów, testów i badań, o których mowa w art. 113e ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2020 r. poz. 680 oraz z 2021 r. poz. 234).
 SZCZEGÓŁOWY ZAKRES EKSPERTYZY TECHNICZNEJ W ZAKRESIE OCENY WPŁYWU MORSKIEJ FARMY WIATROWEJ I ZESPOŁU URZĄDZEŃ NA KRAJOWY SYSTEM BEZPIECZEŃSTWA MORSKIEGO Ekspertyza techniczna w zakresie oceny wpływu morskiej farmy wiatrowej w rozumieniu art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2021 r.
 poz. 234, 784, 1093 i 1642), zwanej dalej „MFW”, i zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, zwanego dalej „zespołem urządzeń”, na Krajowy System Bezpieczeństwa Morskiego, zwana dalej „ekspertyzą”, zawiera następujące elementy: I. Informacje ogólne dotyczące:
-1) nazwy MFW i zespołu urządzeń oraz nazw i danych teleadresowych wytwórcy i podmiotów zaangażowanych w proces budowy i eksploatacji MFW i zespołu urządzeń, a także ich likwidacji jeżeli są znane;
+1) nazwy MFW i zespołu urządzeń oraz nazw i danych teleadresowych wytwórcy i podmiotów zaangażowanych w proces budowy i eksploatacji MFW i zespołu urządzeń, a także ich likwidacji – jeżeli są znane;
 2) celu i zakresu ekspertyzy;
 3) podstaw prawnych, standardów i wytycznych uwzględnionych w ekspertyzie;
 4) kwalifikacji i doświadczenia osób, które opracowały ekspertyzę, ze wskazaniem autorów poszczególnych części lub stron ekspertyzy.

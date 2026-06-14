@@ -8,7 +8,7 @@ pos: 2073
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o spółdzielniach rolników
@@ -49,6 +49,17 @@ Art. 19–24. (pominięte)
 3. Nazwa spółdzielni rolników zawiera oznaczenie „Spółdzielnia Rolników”.
 
 **Art. 5.** Poza postanowieniami określonymi w art. 5 § 1 ustawy – Prawo spółdzielcze, statut spółdzielni rolników, zwany dalej „statutem”, zawiera co najmniej:
+
+- **1)** warunki przyjmowania do spółdzielni rolników członków będących rolnikami oraz podmiotów niebędących rolnikami;
+- **2)** wskazanie minimalnego okresu członkostwa w spółdzielni rolników, który nie może być krótszy niż rok obrotowy;
+- **3)** wskazanie terminu składania przez członka spółdzielni rolników informacji o zamiarze wystąpienia ze spółdzielni rolników, który nie może upływać później niż 3 miesiące przed końcem roku obrotowego;
+- **4)** zasady i zakres dostarczania przez członków spółdzielni rolników, w zakresie prowadzonej przez nich działalności, informacji dotyczących w szczególności: powierzchni uprawy, plonów oraz wielkości produkcji produktów lub grup produktów;
+- **5)** obowiązujące członków spółdzielni rolników będących rolnikami zasady produkcji produktów lub grup produktów, w tym dotyczące ich jakości i ilości, oraz sposoby ich przygotowywania do zbycia;
+- **6)** zasady użytkowania, dzierżawy lub najmu przez spółdzielnię rolników wkładów niepieniężnych oraz sposób ustalania odpłatności za ich użytkowanie, dzierżawę lub najem;
+- **7)** rodzaj i zakres odpowiedzialności członków spółdzielni rolników;
+- **8)** sankcje wobec członka spółdzielni rolników, który nie wypełnia nałożonych na niego obowiązków statutowych lub nie spełnia wymogów określonych w ustawie, w tym przyczyny wykluczenia i wykreślenia członka spółdzielni rolników z tej spółdzielni;
+- **9)** szczegółowy sposób i warunki podziału nadwyżki bilansowej i pokrywania strat;
+- **10)** zasady ustalania liczby głosów przysługujących członkom spółdzielni rolników będącym osobami prawnymi – w przypadku niestosowania zasady, o której mowa w art. 36 § 2 zdanie pierwsze ustawy – Prawo spółdzielcze.
 
 #### Rozdział 2 Tworzenie, organizacja, przedmiot działalności i członkowie spółdzielni rolników
 
@@ -109,6 +120,9 @@ Art. 19–24. (pominięte)
 #### Rozdział 3 Zasady działania i gospodarka spółdzielni rolników
 
 **Art. 10.** Statut może stanowić, że wysokość wpisowego wynosi:
+
+- **1)** określoną kwotę albo
+- **2)** iloraz określonej w statucie części ułamkowej funduszu zasobowego spółdzielni rolników i liczby członków spółdzielni rolników – według stanu na koniec roku kalendarzowego bezpośrednio poprzedzającego rok przystąpienia członka do spółdzielni rolników.
 
 **Art. 11.**
 
@@ -200,6 +214,10 @@ Art. 19–24. (pominięte)
 #### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
 
 **Art. 25.** Zwolnienia, o których mowa w art. 20 , art. 21 i art. 23 pkt 2, stanowią pomoc:
+
+- **1)** de minimis, udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis – w przypadku gdy pomoc jest udzielana podmiotom prowadzącym działalność gospodarczą inną niż produkcja rolna;
+- **2)** de minimis w rolnictwie, o której mowa w rozporządzeniu Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9) – w przypadku gdy pomoc jest udzielana podmiotom prowadzącym produkcję rolną;
+- **3)** de minimis, o której mowa w rozporządzeniu Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury (Dz. Urz. UE L 190 z 28.06.2014, str. 45) – w przypadku gdy pomoc jest udzielana podmiotom prowadzącym działalność w zakresie przetwórstwa i wprowadzania do obrotu ryb, wytworzonych przez rolników.
 
 **Art. 26.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 21, który wchodzi w życie z dniem 1 stycznia 2019 r.
 

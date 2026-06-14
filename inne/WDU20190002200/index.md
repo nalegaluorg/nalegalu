@@ -8,7 +8,7 @@ pos: 2200
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
@@ -35,11 +35,34 @@ Art. 108–120. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** cenie transferowej – rozumie się przez to cenę transferową w rozumieniu art. 23m ust. 1 pkt 1 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych;
+- **2)** krajowym podmiocie powiązanym – rozumie się przez to podmiot powiązany położony lub mający miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej;
+- **3)** Ordynacji podatkowej – rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. );
+- **4)** podmiotach niepowiązanych – rozumie się przez to podmioty niepowiązane w rozumieniu art. 23m ust. 1 pkt 3 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 3 ustawy o podatku dochodowym od osób prawnych;
+- **5)** podmiotach powiązanych – rozumie się przez to podmioty powiązane w rozumieniu art. 23m ust. 1 pkt 4 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych;
+- **6)** procedurach rozstrzygania sporów dotyczących podwójnego opodatkowania – rozumie się przez to procedurę:
+    - **a)** rozstrzygania sporów dotyczących podwójnego opodatkowania między państwami członkowskimi Unii Europejskiej,
+    - **b)** wzajemnego porozumiewania się prowadzoną na podstawie umów o unikaniu podwójnego opodatkowania,
+    - **c)** eliminowania podwójnego opodatkowania w przypadku korekty zysku podmiotów powiązanych;
+
+- **7)** rozporządzeniu 2019/652 – rozumie się przez to rozporządzenie wykonawcze Komisji (UE) 2019/652 z dnia 24 kwietnia 2019 r. określające standardowy regulamin funkcjonowania komisji doradczej lub komisji ds. pozasądowego rozstrzygania sporów oraz standardowy formularz przekazywania informacji dotyczących publikacji ostatecznej decyzji zgodnie z dyrektywą Rady (UE) 2017/1852 (Dz. Urz. UE L 110 z 25.04.2019, str. 26);
+- **8)** transakcji kontrolowanej – rozumie się przez to transakcję kontrolowaną w rozumieniu art. 23m ust. 1 pkt 6 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 6 ustawy o podatku dochodowym od osób prawnych;
+- **9)** umowie o unikaniu podwójnego opodatkowania – rozumie się przez to umowę w sprawie unikania podwójnego opodatkowania dochodów lub majątku, której stroną jest Rzeczpospolita Polska;
+- **10)** ustawie o podatku dochodowym od osób fizycznych – rozumie się przez to ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. );
+- **11)** ustawie o podatku dochodowym od osób prawnych – rozumie się przez to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, 2640 i 2745 oraz z 2023 r. poz. 185, 326 i 412);
+- **12)** zagranicznym podmiocie powiązanym – rozumie się przez to podmiot powiązany położony lub mający miejsce zamieszkania, siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej, powiązany z krajowym podmiotem powiązanym.
+
 ### DZIAŁ II Rozstrzyganie sporów dotyczących podwójnego opodatkowania oraz korekty krajowe
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 3.** Ilekroć w niniejszym dziale jest mowa o:
+
+- **1)** Konwencji Arbitrażowej – rozumie się przez to Konwencję z dnia 23 lipca 1990 r. w sprawie eliminowania podwójnego opodatkowania w przypadku korekty zysków przedsiębiorstw powiązanych (Dz. U. z 2007 r. poz. 1080 i
+- **1081)** ;
+- **2)** kwestii spornej – rozumie się przez to sprawę, która prowadzi do sporu między państwami w zakresie wykładni i stosowania umów międzynarodowych;
+- **3)** Ministrze Finansów – rozumie się przez to ministra właściwego do spraw finansów publicznych;
+- **4)** umowie międzynarodowej – rozumie się przez to Konwencję Arbitrażową i umowę o unikaniu podwójnego opodatkowania.
 
 **Art. 4.**
 
@@ -339,6 +362,9 @@ Art. 108–120. (pominięte)
 
 **Art. 28.** Procedura rozstrzygania sporów dotyczących podwójnego opodatkowania między państwami członkowskimi Unii Europejskiej ulega zakończeniu, jeżeli:
 
+- **1)** sąd administracyjny wydał prawomocne orzeczenie w sprawie kwestii spornej, a przed zawarciem porozumienia, o którym mowa w art. 26 ust. 1, Minister Finansów zawiadomił organy innych zainteresowanych państw o tym orzeczeniu, lub
+- **2)** organ innego zainteresowanego państwa poinformuje Ministra Finansów, że w sprawie kwestii spornej zostało przez sąd innego zainteresowanego państwa wydane rozstrzygnięcie, od którego nie dopuszcza się odstępstwa zgodnie z prawem krajowym tego zainteresowanego państwa.
+
 ##### Oddział 4 Etap rozstrzygania sporu przy udziale komisji doradczej
 
 **Art. 29.**
@@ -354,6 +380,10 @@ Art. 108–120. (pominięte)
 2. W przypadku, o którym mowa w ust. 1, przyjmuje się, że komisja doradcza została ustanowiona w dniu, w którym dla wszystkich organów zainteresowanych państw upłynął termin, o którym mowa w ust. 1.
 
 **Art. 31.** Minister Finansów w terminie 120 dni od dnia otrzymania wniosku o ustanowienie komisji doradczej albo od dnia, o którym mowa w art. 30 ust. 2, przekazuje osobie, której dotyczy spór:
+
+- **1)** regulamin funkcjonowania komisji doradczej;
+- **2)** informacje o terminie na wydanie opinii w sprawie sposobu rozstrzygnięcia kwestii spornej;
+- **3)** odniesienie do mających zastosowanie przepisów krajowych oraz mających zastosowanie umów międzynarodowych.
 
 **Art. 32.**
 
@@ -495,6 +525,9 @@ Art. 108–120. (pominięte)
 **Art. 47.** Prawomocne rozstrzygnięcie sądu uwzględniające wniosek, o którym mowa w art. 45 ust. 1–3, wywołuje skutek prawny wyznaczenia niezależnego eksperta oraz jego zastępcy albo ustanowienia komisji doradczej.
 
 **Art. 48.** Minister Finansów zawiadamia:
+
+- **1)** organy innych zainteresowanych państw o wyznaczeniu przez sąd niezależnego eksperta oraz jego zastępcy albo o ustanowieniu przez sąd komisji doradczej;
+- **2)** osoby wchodzące w skład komisji doradczej o wyznaczeniu ich do składu komisji.
 
 **Art. 49.** Minister Finansów uzgadnia z organami innych zainteresowanych państw zasady wyznaczania niezależnych ekspertów.
 
@@ -725,6 +758,10 @@ Art. 108–120. (pominięte)
 
 **Art. 73.** Minister Finansów odrzuca wniosek, o którym mowa w art. 72 ust. 1, jeżeli:
 
+- **1)** został złożony po upływie terminu określonego w mającej zastosowanie umowie o unikaniu podwójnego opodatkowania;
+- **2)** wnioskodawca nie uzupełnił wniosku w terminie pomimo ponownego wezwania do jego uzupełnienia;
+- **3)** kwestia sporna nie istnieje, została uprzednio rozstrzygnięta w jednej z procedur rozstrzygania sporów dotyczących podwójnego opodatkowania lub gdy z innych przyczyn wniosek nie może zostać przyjęty.
+
 **Art. 74.**
 
 1. Minister Finansów, jeżeli uzna wniosek za uzasadniony, a charakter kwestii spornej nie stoi temu na przeszkodzie, może jednostronnie rozstrzygnąć kwestię sporną.
@@ -767,6 +804,9 @@ Art. 108–120. (pominięte)
 
 **Art. 81.** Ilekroć w niniejszym dziale jest mowa o:
 
+- **1)** uprzednim porozumieniu cenowym – rozumie się przez to decyzję, w której uznaje się, że cena transferowa transakcji kontrolowanej została ustalona na warunkach, które ustaliłyby między sobą podmioty niepowiązane;
+- **2)** właściwym organie zagranicznym – rozumie się przez to władzę podatkową właściwą w sprawach wydawania uprzednich porozumień cenowych dla zagranicznego podmiotu powiązanego.
+
 **Art. 82.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej.
 
 #### Rozdział 2 Wydawanie uprzednich porozumień cenowych
@@ -796,7 +836,14 @@ Art. 108–120. (pominięte)
 
 **Art. 85.** Uprzedniego porozumienia cenowego nie wydaje się w zakresie transakcji kontrolowanych:
 
+- **1)** zakończonych przed dniem złożenia wniosku;
+- **2)** rozpoczętych przed dniem złożenia wniosku, które w dniu złożenia wniosku są objęte postępowaniem podatkowym, kontrolą podatkową, kontrolą celno-skarbową lub postępowaniem przed sądem administracyjnym za okres któregokolwiek z dwóch ostatnich lat podatkowych wnioskodawcy poprzedzających rok podatkowy, w którym złożono wniosek;
+- **3)** będących przedmiotem wniosku o wydanie porozumienia inwestycyjnego lub zawartego porozumienia inwestycyjnego, o którym mowa w art. 20zs § 1 Ordynacji podatkowej.
+
 **Art. 86.** W przypadku gdy transakcja kontrolowana została zawarta:
+
+- **1)** wyłącznie pomiędzy krajowymi podmiotami powiązanymi,
+- **2)** pomiędzy krajowym podmiotem powiązanym a zagranicznym podmiotem powiązanym i krajowy podmiot powiązany nie wystąpił z wnioskiem o porozumienie z właściwym organem zagranicznym – Szef Krajowej Administracji Skarbowej wydaje jednostronne uprzednie porozumienie cenowe.
 
 **Art. 87.** W przypadku gdy transakcja kontrolowana została zawarta pomiędzy krajowym podmiotem powiązanym a zagranicznym podmiotem powiązanym, Szef Krajowej Administracji Skarbowej, na wniosek krajowego podmiotu powiązanego, porozumiewa się z jednym właściwym organem zagranicznym (porozumienie dwustronne) lub więcej niż jednym właściwym organem zagranicznym (porozumienie wielostronne).
 
@@ -894,6 +941,10 @@ Art. 108–120. (pominięte)
 9. W przypadku uprzedniego porozumienia cenowego wydanego na wniosek, o którym mowa w art. 84 ust. 1, okres obowiązywania uprzedniego porozumienia cenowego określa się w odniesieniu do lat podatkowych utworzonego krajowego podmiotu powiązanego.
 
 **Art. 96.** Uprzednie porozumienie cenowe niezwłocznie doręcza się:
+
+- **1)** wnioskodawcy;
+- **2)** innemu niż wnioskodawca krajowemu podmiotowi powiązanemu, uczestniczącemu w dokonaniu transakcji kontrolowanej objętej uprzednim porozumieniem cenowym;
+- **3)** naczelnikowi urzędu skarbowego i naczelnikowi urzędu celno-skarbowego właściwym dla krajowych podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej objętej uprzednim porozumieniem cenowym.
 
 **Art. 97.**
 
@@ -1078,4 +1129,9 @@ Art. 108–120. (pominięte)
 - **2)** ust. 3 – jest Minister Sprawiedliwości.
 
 **Art. 130.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 117–120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 108 pkt 3, 4 i 8 oraz art. 109 pkt 3, 4, 8, 9 i pkt 10 lit. a i c, które wchodzą w życie z dniem 1 stycznia 2020 r.;
+- **3)** art. 109 pkt 10 lit. b w zakresie art. 15e ust. 15 pkt 2, i pkt 11, art. 110, art. 111 pkt 2 lit. b, pkt 3, 5, 6, 9, 11, pkt 19 lit. b, pkt 21 w zakresie art. 295a § 2, pkt 22, pkt 23 lit. b i pkt 25, art. 115 pkt 1–6, art. 116 pkt 1 lit. a w zakresie art. 76 pkt 1 lit. b, oraz lit. b, które wchodzą w życie z dniem 1 lipca 2020 r.
+
 

@@ -8,10 +8,10 @@ pos: 1171
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 sierpnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11117711 ZMIANA ZAKRESU OBOWIĄZYWANIA Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1171/text.pdf) |
 
-Poz. 11117711 ZMIANA ZAKRESU OBOWIĄZYWANIA Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.
 W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dokonuje się zmiany zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 roku, która polega na zawieszeniu jego stosowania od dnia 23 maja 2024 roku.
 Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie, dnia 23 maja 2024 roku.

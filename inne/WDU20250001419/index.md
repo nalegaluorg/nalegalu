@@ -8,7 +8,7 @@ pos: 1419
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków
@@ -24,14 +24,71 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-26 |
 | Data wydania | 2025-10-20 |
-| Ostatnia zmiana | 2026-01-05 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001419) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1419/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** finansowania ze środków Funduszu Termomodernizacji i Remontów części kosztów przedsięwzięć termomodernizacyjnych i remontowych, przedsięwzięć niskoemisyjnych oraz zakupu, montażu, budowy lub modernizacji instalacji odnawialnego źródła energii;
+- **2)** funkcjonowania centralnej ewidencji emisyjności budynków.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** inwestor – właściciela lub zarządcę budynku, lokalnej sieci ciepłowniczej lub lokalnego źródła ciepła, z wyłączeniem jednostek budżetowych i samorządowych zakładów budżetowych;
+- **1a)** właściciel części budynku mieszkalnego – właściciela co najmniej jednego wyodrębnionego lokalu kwaterunkowego w budynku mieszkalnym albo właściciela niewyodrębnionych lokali kwaterunkowych w budynku mieszkalnym, w którym został wyodrębniony co najmniej jeden lokal mieszkalny;
+- **1b)** przedsięwzięcia niskoemisyjne – przedsięwzięcia, których przedmiotem jest przygotowanie i realizacja ulepszenia, w wyniku którego następuje:
+    - **a)** wymiana urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, na spełniające standardy niskoemisyjne, z wyłączeniem kotłów na paliwo stałe spełniających wymagania klasy 5 zgodnie z normą przenoszącą europejską normę EN 303-5:2012, a w przypadku wydania nowszej wersji tej normy zgodnie z normą ją przenoszącą,
+    - **b)** likwidacja urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, z wyłączeniem kotłów na paliwo stałe spełniających wymagania klasy 5 zgodnie z normą przenoszącą europejską normę EN 303-5:2012, a w przypadku wydania nowszej wersji tej normy zgodnie z normą ją przenoszącą, oraz przyłączenie budynku mieszkalnego jednorodzinnego odpowiednio do sieci ciepłowniczej, elektroenergetycznej lub gazowej albo modernizacja tego przyłączenia, wraz z zainstalowaniem w tych budynkach niezbędnych urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową, ba) likwidacja urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, oraz zapewnienie budynkowi mieszkalnemu jednorodzinnemu dostępu do energii z zewnętrznej instalacji odnawialnego źródła energii oraz dostępu do pompy ciepła, wraz z zainstalowaniem urządzeń służących doprowadzaniu energii elektrycznej z tej instalacji oraz zainstalowaniem w tych budynkach niezbędnych urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową,
+    - **c)** zmniejszenie zapotrzebowania budynków mieszkalnych jednorodzinnych na energię dostarczaną na potrzeby ich ogrzewania i podgrzewania wody użytkowej, jeżeli równocześnie: – następuje wymiana urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, na spełniające standardy niskoemisyjne albo – następuje wymiana urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, oraz budowa albo modernizacja przyłącza gazowego albo elektroenergetycznego do budynku mieszkalnego jednorodzinnego, albo – następuje likwidacja urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, oraz budowa przyłącza ciepłowniczego do budynku mieszkalnego jednorodzinnego, albo – istniejące urządzenia lub systemy grzewcze spełniają standardy niskoemisyjne, albo – budynek mieszkalny jednorodzinny jest przyłączony do sieci ciepłowniczej, albo – budynek mieszkalny jednorodzinny jest przyłączony, na potrzeby ogrzewania budynku, do sieci gazowej lub elektroenergetycznej, albo – w budynku mieszkalnym jednorodzinnym jest wykorzystywany kocioł na paliwo stałe spełniający wymagania klasy 5 zgodnie z normą przenoszącą europejską normę EN 303-5:2012, a w przypadku wydania nowszej wersji tej normy zgodnie z normą ją przenoszącą;
+
+- **1c)** standardy niskoemisyjne – wymagania, jakie spełniają urządzenia lub systemy grzewcze ogrzewające budynki mieszkalne jednorodzinne lub urządzenia lub systemy podgrzewające wodę użytkową w tych budynkach, w tym: w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla miejscowych ogrzewaczy pomieszczeń na paliwo stałe (Dz. Urz. UE L 193 z 21.07.2015, str. 1, z późn. zm. ), – rozporządzenia delegowanego Komisji (UE) 2015/1187 z dnia 27 kwietnia 2015 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla kotłów na paliwo stałe i zestawów zawierających kocioł na paliwo stałe, ogrzewacze dodatkowe, regulatory temperatury i urządzenia słoneczne (Dz. Urz. UE L 193 z 21.07.2015, str. 43, z późn. zm. ), – rozporządzenia Komisji (UE) 2015/1188 z dnia 28 kwietnia 2015 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla miejscowych ogrzewaczy pomieszczeń (Dz. Urz. UE L 193 z 21.07.2015, str. 76, z późn. zm. ), – rozporządzenia Komisji (UE) 2015/1189 z dnia 28 kwietnia 2015 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla kotłów na paliwo stałe (Dz. Urz. UE L 193 z 21.07.2015, str. 100, z późn. zm. ), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE (Dz. Urz. UE L 198 z 28.07.2017, str. 1, z późn. zm. ), – wydanych na podstawie art. 169 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i
+    - **a)** w przypadku kotłów na paliwo stałe lub miejscowych ogrzewaczy pomieszczeń, wynikające z przepisów: – rozporządzenia Komisji (UE) 2015/1185 z dnia 24 kwietnia 2015 r.
+
+- **1080)** , – odrębnych, w tym aktów prawa miejscowego, – rozporządzenia delegowanego Komisji (UE) 2015/1186 z dnia 24 kwietnia 2015 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykietowania energetycznego miejscowych ogrzewaczy pomieszczeń (Dz. Urz. UE L 193 z 21.07.2015, str. 20, z późn. zm. ), o odnawialnych źródłach energii, ciepło z sieci ciepłowniczej, energię elektryczną, wynikające z przepisów dotyczących efektywności energetycznej, w tym przepisów: – rozporządzenia delegowanego Komisji (UE) nr 626/2011 z dnia 4 maja 2011 r. uzupełniającego dyrektywę 2010/30/UE Parlamentu Europejskiego i Rady w odniesieniu do etykiet efektywności energetycznej dla klimatyzatorów (Dz. Urz. UE L 178 z 06.07.2011, str. 1, z późn. zm. ), – rozporządzenia delegowanego Komisji (UE) nr 811/2013 z dnia 18 lutego 2013 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla ogrzewaczy pomieszczeń, ogrzewaczy wielofunkcyjnych, zestawów zawierających ogrzewacz pomieszczeń, regulator temperatury i urządzenie słoneczne oraz zestawów zawierających ogrzewacz wielofunkcyjny, regulator temperatury i urządzenie słoneczne (Dz. Urz. UE L 239 z 06.09.2013, str. 1, z późn. zm. ), – rozporządzenia delegowanego Komisji (UE) nr 812/2013 z dnia 18 lutego 2013 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla podgrzewaczy wody, zasobników ciepłej wody użytkowej i zestawów zawierających podgrzewacz wody i urządzenie słoneczne (Dz. Urz. UE L 239 z 06.09.2013, str. 83, z późn. zm. ), – rozporządzenia delegowanego Komisji (UE) nr 1254/2014 z dnia 11 lipca 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej systemów wentylacyjnych przeznaczonych do budynków mieszkalnych (Dz. Urz. UE L 337 z 25.11.2014, str. 27, z późn. zm. ), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE;
+    - **b)** w przypadku pomp ciepła, systemów wentylacji mechanicznej z odzyskiem ciepła oraz urządzeń wykorzystujących: paliwo gazowe lub olejowe, w tym kotłów gazowych i olejowych kondensacyjnych, odnawialne źródła energii w rozumieniu ustawy z dnia 20 lutego 2015 r.
+
+- **1d)** gospodarstwo domowe – osobę samotnie zamieszkującą i gospodarującą, która spełnia warunki, o których mowa w art. 11d ust. 1 (gospodarstwo domowe jednoosobowe), albo osobę spełniającą warunki, o których mowa w art. 11d ust. 1, oraz osoby z nią spokrewnione lub niespokrewnione pozostające w faktycznym związku, wspólnie z nią zamieszkujące i gospodarujące (gospodarstwo domowe wieloosobowe);
+- **2)** przedsięwzięcia termomodernizacyjne – przedsięwzięcia, których przedmiotem jest:
+    - **a)** ulepszenie, w wyniku którego następuje zmniejszenie zapotrzebowania na energię dostarczaną na potrzeby ogrzewania i podgrzewania wody użytkowej oraz ogrzewania do budynków mieszkalnych, budynków zbiorowego zamieszkania oraz budynków stanowiących własność jednostek samorządu terytorialnego służących do wykonywania przez nie zadań publicznych,
+    - **b)** ulepszenie, w wyniku którego następuje zmniejszenie strat energii pierwotnej w lokalnych sieciach ciepłowniczych oraz zasilających je lokalnych źródłach ciepła, jeżeli budynki wymienione w lit. a, do których dostarczana jest z tych sieci energia, spełniają wymagania w zakresie oszczędności energii, określone w przepisach prawa budowlanego, lub zostały podjęte działania mające na celu zmniejszenie zużycia energii dostarczanej do tych budynków,
+    - **c)** wykonanie przyłącza technicznego do scentralizowanego źródła ciepła, w związku z likwidacją lokalnego źródła ciepła, w wyniku czego następuje zmniejszenie kosztów pozyskania ciepła dostarczanego do budynków wymienionych w lit. a,
+    - **d)** całkowita lub częściowa zamiana źródeł energii na źródła odnawialne lub zastosowanie wysokosprawnej kogeneracji;
+
+- **3)** przedsięwzięcia remontowe – przedsięwzięcia, których przedmiotem jest:
+    - **a)** remont budynków wielorodzinnych, z wyłączeniem ich części stanowiących lokale mieszkalne lub lokale o innym przeznaczeniu,
+    - **b)** wymiana w budynkach wielorodzinnych okien lub remont balkonów, nawet jeśli służą one do wyłącznego użytku właścicieli lokali,
+    - **c)** przebudowa budynków wielorodzinnych, w wyniku której następuje ich ulepszenie,
+    - **d)** wyposażenie budynków wielorodzinnych w instalacje i urządzenia wymagane dla oddawanych do użytkowania budynków mieszkalnych, zgodnie z przepisami techniczno-budowlanymi;
+
+- **4)** budynek zbiorowego zamieszkania – dom opieki społecznej, hotel robotniczy, internat i bursę szkolną, dom studencki, dom dziecka, dom emeryta i rencisty, dom dla bezdomnych oraz budynki o podobnym przeznaczeniu, w tym plebanie, domy zakonne i klasztory;
+- **5)** budynek wielorodzinny – budynek mieszkalny, w którym występują więcej niż dwa lokale mieszkalne;
+- **6)** lokalna sieć ciepłownicza – sieć ciepłowniczą dostarczającą ciepło do budynków z lokalnych źródeł ciepła;
+- **7)** lokalne źródło ciepła:
+    - **a)** kotłownię lub węzeł cieplny, z których nośnik ciepła jest dostarczany bezpośrednio do instalacji ogrzewania i ciepłej wody w budynku,
+    - **b)** ciepłownię osiedlową lub grupowy wymiennik ciepła wraz z siecią ciepłowniczą o mocy nominalnej do 11,6 MW, dostarczającą ciepło do budynków;
+
+- **8)** audyt energetyczny – opracowanie określające zakres oraz parametry techniczne i ekonomiczne przedsięwzięcia termomodernizacyjnego, ze wskazaniem rozwiązania optymalnego, w szczególności z punktu widzenia kosztów realizacji tego przedsięwzięcia oraz oszczędności energii, stanowiące jednocześnie założenia do projektu budowlanego;
+- **9)** audyt remontowy – opracowanie określające zakres oraz parametry techniczne i ekonomiczne przedsięwzięcia remontowego, stanowiące jednocześnie założenia do projektu budowlanego;
+- **10)** premia – premię termomodernizacyjną, premię remontową oraz premię kompensacyjną;
+- **11)** bank kredytujący – instytucję finansową ustawowo upoważnioną do udzielania kredytów, udzielającą kredytu na przedsięwzięcie termomodernizacyjne, przedsięwzięcie remontowe lub remont budynku mieszkalnego jednorodzinnego, który spełnia kryteria określone w art. 10 ust. 1;
+- **12)** wskaźnik kosztu przedsięwzięcia – stosunek kosztu przedsięwzięcia termomodernizacyjnego, przedsięwzięcia remontowego albo remontu budynku mieszkalnego jednorodzinnego, który spełnia kryteria określone w art. 10 ust. 1, w przeliczeniu na 1 m powierzchni użytkowej budynku mieszkalnego, do ceny 1 m powierzchni użytkowej budynku mieszkalnego, ostatnio ogłoszonej przez Prezesa Głównego Urzędu Statystycznego na potrzeby obliczania premii gwarancyjnej przed kwartałem złożenia wniosku o przyznanie premii;
+- **13)** lokal kwaterunkowy – lokal w rozumieniu ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725), którego najem został nawiązany na podstawie decyzji administracyjnej o przydziale lub na podstawie innego tytułu prawnego przed wprowadzeniem w danej miejscowości publicznej gospodarki lokalami albo szczególnego trybu najmu, a czynsz za najem tego lokalu był:
+    - **a)** regulowany,
+    - **b)** ustawowo ograniczony do 3 % wartości odtworzeniowej lokalu w skali roku,
+    - **c)** ustawowo ograniczony w zakresie możliwości jego podwyższania do 10 % dotychczasowego czynszu w skali roku – w jakimkolwiek okresie między 12 listopada 1994 r. a 25 kwietnia 2005 r.;
+
+- **14)** wskaźnik przeliczeniowy – wskaźnik przeliczeniowy kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych w rozumieniu ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, obowiązujący w dniu złożenia wniosku o premię dla miejsca, w którym znajduje się budynek, którego dotyczy ten wniosek;
+- **15)** instalacja odnawialnego źródła energii – instalację odnawialnego źródła energii w rozumieniu art. 2 pkt 13 lit. a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, 1847 i 1881 oraz z 2025 r. poz. 303, 759 i 1218) z wyłączeniem magazynu biogazu rolniczego;
+- **16)** wartość wskaźnika EP – wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną w budynku wyrażoną w kWh/(m rok), obliczoną zgodnie z przepisami wydanymi na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101);
+- **17)** modernizacja instalacji odnawialnego źródła energii – modernizację w rozumieniu art. 2 pkt 19a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **18)** poważne szkody dla celów środowiskowych – poważne szkody dla celów środowiskowych określone w art. 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13, z późn. zm.);
+- **19)** grant OZE – grant na zakup, montaż, budowę lub modernizację instalacji odnawialnego źródła energii;
+- **20)** grant termomodernizacyjny – grant na poprawę efektywności energetycznej budynku;
+- **21)** grant MZG – grant na poprawę stanu technicznego mieszkaniowego zasobu gminy;
+- **22)** premia MZG – premię na poprawę stanu technicznego mieszkaniowego zasobu gminy;
+- **23)** premia powodziowa – premia na przedsięwzięcie remontowe realizowane w odniesieniu do budynków wielorodzinnych uszkodzonych na skutek powodzi w rozumieniu art. 16 pkt 43 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960).
 
 #### Rozdział 2 Premia termomodernizacyjna i grant termomodernizacyjny
 
@@ -130,6 +187,10 @@ source: "isap-pdf"
 6. Jeżeli z audytu remontowego budynku wielorodzinnego wynika, że spełnia on wymagania w zakresie oszczędności energii określone w przepisach prawa budowlanego, nie stosuje się warunków określonych w ust. 1 pkt 1 i ust. 2 oraz w ust. 3 pkt 1.
 
 **Art. 8.** Premia remontowa nie może być przeznaczona na:
+
+- **1)** remont lokali, z wyjątkiem prac, o których mowa w art. 2 pkt 3 lit. b;
+- **2)** prace prowadzące do zwiększenia powierzchni użytkowej budynku;
+- **3)** realizację prac, na które uzyskano inne wsparcie ze środków publicznych.
 
 **Art. 9.**
 
@@ -850,12 +911,12 @@ source: "isap-pdf"
 - **1)** środki przekazywane z budżetu państwa – w wysokości określonej w ustawie budżetowej;
 - **1a)** środki przekazane przez Krajowy Zasób Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834);
 - **1b)** (uchylony) 1c) środki rezerwy celowej, o której mowa w art. 3 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717 oraz z 2025 r. poz. 620 i 680);
-- **2)** odsetki od lokat środków Funduszu w bankach;
-- **3)** wpływy z inwestycji środków Funduszu w papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski oraz w papiery wartościowe określające świadczenia pieniężne, poręczane lub gwarantowane przez Skarb Państwa albo Narodowy Bank Polski, a także w jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034, z późn. zm. );
+- **2)** odsetki od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **3)** (uchylony)
 - **4)** darowizny i zapisy;
 - **5)** inne wpływy.
 
-2. Suma lokat, o których mowa w ust. 1 pkt 2, w jednym banku lub w grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 15 % okresowo wolnych środków Funduszu.
+2. (uchylony)
 
 3. Składające się na Fundusz środki rezerwy celowej, o której mowa w art. 3 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, przeznacza się wyłącznie na premie udzielane zgodnie z art. 28a ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi.
 
@@ -873,10 +934,7 @@ source: "isap-pdf"
 - **3)** pokrycie kosztów obsługi Funduszu;
 - **4)** pokrycie kosztów promocji Funduszu.
 
-2. Okresowo wolne środki Funduszu mogą być:
-
-- **1)** lokowane w innych bankach, z zastrzeżeniem art. 24 ust. 2;
-- **2)** inwestowane w papiery wartościowe lub jednostki uczestnictwa, o których mowa w art. 24 ust. 1 pkt 3.
+2. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 **Art. 26.**
 
@@ -1148,9 +1206,20 @@ source: "isap-pdf"
 
 **Art. 29a.** Równowartość pobranej opłaty recyklingowej, o której mowa w ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927), jest wnoszona, na rachunek bankowy Funduszu, zgodnie z zapotrzebowaniem wynikającym z realizacji porozumień, o których mowa w art. 11c ust. 1, w roku:
 
+- **1)** 2021 – w wysokości nie wyższej niż 185 000 000 zł;
+- **2)** 2022 – w wysokości nie wyższej niż 177 700 000 zł;
+- **3)** 2023 – w wysokości nie wyższej niż 173 000 000 zł;
+- **4)** 2024 – w wysokości nie wyższej niż 167 500 000 zł.
+
 **Art. 30.** Do wniosków o premię termomodernizacyjną złożonych przez inwestora przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 31.** Traci moc ustawa z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. poz. 1121, z późn. zm. ).
 
-**Art. 32.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 21 listopada 2008 r. (Dz. U. z 2025 r. poz. 000) P = k *0,02* w *  ( pu * m ) 12 Objaśnienia: P – wysokość premii kompensacyjnej; Zgodnie z art. 11 ust. 2 i 3: k = a) 0,5, jeśli wskaźnik kosztu przedsięwzięcia jest mniejszy od 0,5,
+**Art. 32.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 21 listopada 2008 r. (Dz. U. z 2025 r. poz. 1419) m P = k *0,02* w *  ( pu * ) 12 Objaśnienia: P – wysokość premii kompensacyjnej; Zgodnie z art. 11 ust. 2 i 3: k = a) 0,5, jeśli wskaźnik kosztu przedsięwzięcia jest mniejszy od 0,5,
+
+w – wartość wskaźnika przeliczeniowego; n – liczba lokali kwaterunkowych w budynku mieszkalnym albo w części budynku mieszkalnego; pu – powierzchnia użytkowa i-tego lokalu kwaterunkowego; m – wyrażony liczbą miesięcy okres, w którym obowiązywały w stosunku do i-tego lokalu kwaterunkowego ograniczenia określone w art. 2 pkt 13, w okresie od dnia 12 listopada 1994 r. do dnia 25 kwietnia 2005 r., a w przypadku nabycia budynku mieszkalnego albo części budynku mieszkalnego z tym lokalem kwaterunkowym po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania – od dnia nabycia do dnia 25 kwietnia 2005 r. Liczbę miesięcy zaokrągla się do pełnych miesięcy w górę. Wynik obliczeń wysokości premii kompensacyjnej zaokrągla się do pełnych złotych w górę.
+
+- **b)** wskaźnik kosztu przedsięwzięcia, jeśli wskaźnik ten jest nie mniejszy od 0,5 i nie większy od 0,7,
+- **c)** 0,7, jeśli wskaźnik kosztu przedsięwzięcia jest większy od 0,7;
+
 

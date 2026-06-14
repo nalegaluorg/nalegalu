@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych*
 
 Łącznie: **7** orzeczeń
-(pominięto 12 orzeczeń sądów rejonowych)
+(pominięto 13 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

@@ -8,7 +8,7 @@ pos: 1028
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zwolnieniu świadczeń z tytułu prześladowań przez nazistowskie Niemcy z podatków i opłat oraz o niezaliczaniu ich do dochodów

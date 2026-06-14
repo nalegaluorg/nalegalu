@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym*
 
-Łącznie: **500** orzeczeń
-(pominięto 261 orzeczeń sądów rejonowych)
+Łącznie: **501** orzeczeń
+(pominięto 262 orzeczeń sądów rejonowych)
 
 ## art. 1 (6)
 
@@ -334,7 +334,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 - 2017-08-23 | SO | [XII C 2207/13](https://www.saos.org.pl/judgments/307175) | Wyrok
 - 2014-01-21 | SO | [XV Ca 1211/13](https://www.saos.org.pl/judgments/47666) | Postanowienie
 
-## art. 36 (253)
+## art. 36 (254)
 
 - 2012-10-16 | TK | [K 4/10](https://www.saos.org.pl/judgments/110900) | Wyrok ★
 - 2010-03-18 | TK | [K 8/08](https://www.saos.org.pl/judgments/109666) | Wyrok ★
@@ -393,6 +393,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 - 2021-01-12 | SO | [I ACa 103/19](https://www.saos.org.pl/judgments/529316) | Wyrok
 - 2020-12-08 | SO | [I ACa 1313/19](https://www.saos.org.pl/judgments/434905) | Wyrok
 - 2020-10-22 | SO | [I ACa 786/19](https://www.saos.org.pl/judgments/488905) | Wyrok
+- 2020-09-17 | SO | [I ACa 1048/19](https://www.saos.org.pl/judgments/545300) | Wyrok
 - 2020-02-27 | SO | [I ACa 530/19](https://www.saos.org.pl/judgments/413072) | Wyrok
 - 2020-02-27 | SO | [V ACa 621/19](https://www.saos.org.pl/judgments/410264) | Wyrok
 - 2020-02-13 | SO | [I ACa 758/19](https://www.saos.org.pl/judgments/415124) | Wyrok
@@ -598,7 +599,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 
 - 2019-11-20 | SO | [I ACa 687/18](https://www.saos.org.pl/judgments/404120) | Wyrok
 
-## art. 37 (98)
+## art. 37 (99)
 
 - 2010-02-09 | TK | [P 58/08](https://www.saos.org.pl/judgments/109726) | Wyrok ★
 - 2012-07-25 | TK | [SK 13/12](https://www.saos.org.pl/judgments/110989) | Postanowienie ★
@@ -623,6 +624,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 - 2021-03-25 | SO | [I ACa 627/20](https://www.saos.org.pl/judgments/439802) | Wyrok
 - 2021-03-08 | SO | [I ACa 237/20](https://www.saos.org.pl/judgments/438026) | Wyrok
 - 2021-02-09 | SO | [I ACa 275/20](https://www.saos.org.pl/judgments/440536) | Wyrok
+- 2020-09-17 | SO | [I ACa 1048/19](https://www.saos.org.pl/judgments/545300) | Wyrok
 - 2020-02-27 | SO | [V ACa 621/19](https://www.saos.org.pl/judgments/410264) | Wyrok
 - 2019-11-20 | SO | [I ACa 687/18](https://www.saos.org.pl/judgments/404120) | Wyrok
 - 2019-11-05 | SO | [I ACa 242/19](https://www.saos.org.pl/judgments/398119) | Wyrok
@@ -1124,6 +1126,10 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 ## art. 368 (1)
 
 - 2010-10-27 | SN | [V CSK 86/10](https://www.saos.org.pl/judgments/93291) | Wyrok ★
+
+## art. 378 (1)
+
+- 2020-09-17 | SO | [I ACa 1048/19](https://www.saos.org.pl/judgments/545300) | Wyrok
 
 ## art. 417 (1)
 

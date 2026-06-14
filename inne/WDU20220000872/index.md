@@ -8,7 +8,7 @@ pos: 872
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o listach zastawnych i bankach hipotecznych oraz niektórych innych ustaw
@@ -29,7 +29,38 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2022 r. poz. 581) wprowadza się następujące zmiany:
 
+- **1)** art. 2 otrzymuje brzmienie: „Art. 2. Ilekroć w ustawie jest mowa o:
+- **1)** aktywach podstawowych – należy przez to rozumieć:
+    - **a)** wierzytelności banku hipotecznego zabezpieczone hipotekami – w przypadku hipotecznych listów zastawnych,
+    - **b)** wierzytelności, o których mowa w art. 3 ust. 2 – w przypadku publicznych listów zastawnych;
+
+- **2)** aktywach stanowiących zabezpieczenie listów zastawnych – należy przez to rozumieć aktywa podstawowe, aktywa zastępcze oraz instrumenty pochodne, o których mowa w art. 18a;
+- **3)** aktywach zastępczych – należy przez to rozumieć środki banku hipotecznego, o których mowa w art. 18 ust. 3;
+- **4)** bankowo-hipotecznej wartości nieruchomości – należy przez to rozumieć ustaloną zgodnie z przepisami ustawy wartość, która w ocenie banku hipotecznego odzwierciedla poziom ryzyka związanego z nieruchomością jako przedmiotem zabezpieczenia kredytów udzielanych przez bank hipoteczny;
+- **5)** instrumencie pochodnym – należy przez to rozumieć instrument pochodny w rozumieniu art. 3 pkt 28a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 861 i 872);
+- **6)** nadzabezpieczeniu – należy przez to rozumieć poziom zabezpieczenia listów zastawnych wyższy niż łączna nominalna wartość znajdujących się w obrocie odpowiednio hipotecznych albo publicznych listów zastawnych;
+- **7)** przymusowej restrukturyzacji – należy przez to rozumieć przymusową restrukturyzację, o której mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 793 i 872);
+- **8)** puli aktywów stanowiących zabezpieczenie – należy przez to rozumieć aktywa stanowiące zabezpieczenie listów zastawnych wpisane do rejestru zabezpieczenia listów zastawnych;
+- **9)** zabezpieczeniu hipoteką – należy przez to rozumieć hipotekę na rzecz banku hipotecznego ustanowioną na prawie użytkowania wieczystego lub prawie własności nieruchomości położonej na obszarze kraju.”;
+- **2)** w dziale II dodaje się art. 2a i art. 2b w brzmieniu: „Art. 2a. List zastawny jest dłużnym papierem wartościowym wyemitowanym przez bank hipoteczny zgodnie z przepisami ustawy, który jest zabezpieczony aktywami stanowiącymi zabezpieczenie listów zastawnych, względem których posiadaczom listów zastawnych przysługuje bezpośrednio roszczenie zarówno do osobnej masy upadłości wyodrębnionej zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228, z późn. zm. ), jak i do banku hipotecznego.
+
 **Art. 2b.** Bank hipoteczny może emitować hipoteczne listy zastawne i publiczne listy zastawne.”;
+
+- **3)** w art. 3: uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 w odniesieniu do wymogu pokrycia wypływów netto dla instytucji kredytowych (Dz. Urz. UE L 11 z 17.01.2015, str. 1, z późn. zm. ).
+    - **a)** w ust. 2: – w pkt 3 wyrazy „jednostkom samorządu terytorialnego.” zastępuje się wyrazami „jednostkom samorządu terytorialnego, albo”, – dodaje się pkt 4 w brzmieniu: „4) nabytych przez bank hipoteczny papierów wartościowych emitowanych przez:
+    - **a)** Skarb Państwa,
+    - **b)** jednostki samorządu terytorialnego,
+    - **c)** Bank Gospodarstwa Krajowego, które zostały zabezpieczone w całości gwarancją lub poręczeniem Skarbu Państwa.”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Papiery wartościowe, o których mowa w ust. 2 pkt 4, mogą stanowić podstawę emisji publicznych listów zastawnych, jeżeli są wolne od wszelkich obciążeń w rozumieniu art. 7 ust. 2 rozporządzenia delegowanego Komisji (UE) 2015/61 z dnia 10 października 2014 r.
+
+2b. Papiery wartościowe, o których mowa w ust. 2 pkt 4 lit. b i c, mogą stanowić podstawę emisji publicznych listów zastawnych, pod warunkiem że emitent nie ograniczył swojej odpowiedzialności za zobowiązania wynikające z tych papierów wartościowych.”;
+
+- **4)** w art. 5a ust. 2 otrzymuje brzmienie: „2. List zastawny o jednostkowej wartości nominalnej równej kwocie stanowiącej równowartość 100 000 euro lub przekraczającej tę kwotę, ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu podjęcia przez emitenta decyzji o emisji, może mieć formę dokumentu.”;
+- **5)** art. 7a otrzymuje brzmienie: „Art. 7a. Warunki emisji listów zastawnych zawierają w szczególności informacje o:
+- **1)** sposobie i terminach wypłaty odsetek oraz terminach i warunkach wykupu listu zastawnego stosowanych w przypadku ogłoszenia upadłości banku hipotecznego zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe;
+- **2)** warunkach dotyczących wykonania zobowiązań z tytułu listów zastawnych w przypadku wszczęcia przymusowej restrukturyzacji banku hipotecznego;
+- **3)** uprawnieniach i roli Komisji Nadzoru Finansowego oraz kuratora, o którym mowa w art. 443 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, w przypadku ogłoszenia upadłości banku hipotecznego.”;
+- **6)** po art. 7a dodaje się art. 7b–7d w brzmieniu: „Art. 7b. Przedłużenie terminu wykupu emitowanych listów zastawnych jest dopuszczalne wyłącznie w przypadku ogłoszenia upadłości banku hipotecznego zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe.
 
 **Art. 7c.**
 
@@ -222,6 +253,15 @@ source: "isap-pdf"
 
 **Art. 33g.** Komisja Nadzoru Finansowego, ustalając wysokość kary pieniężnej, o której mowa w art. 33f ust. 1, uwzględnia:
 
+- **1)** wagę i okres naruszenia;
+- **2)** stopień przyczynienia się banku hipotecznego lub członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie do powstania tego naruszenia;
+- **3)** stosunek wysokości kary pieniężnej do skali działalności banku hipotecznego mierzonej wielkością przychodów albo prognozowanych przychodów, a w przypadku członka zarządu banku hipotecznego – mierzonej wielkością jego rocznego dochodu;
+- **4)** szkody wyrządzone inwestorom w wyniku naruszenia, chyba że nie jest możliwe ich ustalenie;
+- **5)** skalę korzyści uzyskanych lub strat unikniętych przez bank hipoteczny lub przez członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie, o ile można te korzyści lub straty ustalić;
+- **6)** gotowość banku hipotecznego lub członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie do współpracy z Komisją Nadzoru Finansowego;
+- **7)** uprzednie naruszenia popełnione przez bank hipoteczny lub członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie, ich rodzaj i wagę;
+- **8)** skutki naruszenia dla stabilności finansowej i rynku finansowego.
+
 **Art. 33h.**
 
 1. Komisja Nadzoru Finansowego niezwłocznie przekazuje do publicznej wiadomości informacje o:
@@ -243,13 +283,49 @@ source: "isap-pdf"
 
 **Art. 33i.** Komisja Nadzoru Finansowego informuje Europejski Urząd Nadzoru Bankowego o:
 
+- **1)** nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej;
+- **2)** złożeniu wniosku o ponowne rozpatrzenie sprawy od decyzji administracyjnej o nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej oraz o wyniku postępowania w tej sprawie;
+- **3)** wniesieniu skargi do sądu administracyjnego na decyzję administracyjną o nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej oraz o treści orzeczenia sądu administracyjnego w tej sprawie.”;
+- **23)** w art. 37 ust. 1 otrzymuje brzmienie: „1. Kto dokonuje emisji listów zastawnych nie będąc do tego uprawnionym lub przy emisji narusza obowiązki określone w art. 17, art. 19, art. 22 ust. 1–4 i art. 23, lub nie będąc uprawnionym do emitowania listów zastawnych emitowane papiery wartościowe określa nazwą „list zastawny” lub inną nazwą, która zawiera te wyrazy, lub nazwą „europejski list zastawny”, „europejska obligacja zabezpieczona”, „europejski list zastawny (premium)”, „europejska obligacja zabezpieczona (premium)”, lub używa tych oznaczeń w języku urzędowym Unii Europejskiej, podlega grzywnie do 50 000 zł i karze pozbawienia wolności od 6 miesięcy do lat 5.”.
+
 **Art. 2.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204 oraz z 2021 r. poz. 1177 i 1978) w art. 16 w ust. 2 pkt 5 otrzymuje brzmienie: „5) wierzytelności banku hipotecznego zabezpieczone hipoteką;”.
 
 **Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ) w art. 21 w ust. 1 po pkt 130c dodaje się pkt 130d w brzmieniu: „130d) odsetki lub dyskonto od obligacji emitowanych przez Bankowy Fundusz Gwarancyjny i oferowanych na rynkach zagranicznych oraz dochody z odpłatnego zbycia tych obligacji, uzyskane przez podatników, o których mowa w art. 3 ust. 2a;”.
 
 **Art. 4.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 12 w ust. 4 po pkt 24a dodaje się pkt 24b i 24c w brzmieniu: „24b) otrzymanych środków z funduszu pomocowego, o którym mowa w art. 130h ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe – w części przeznaczonej na realizację celów, o których mowa w art. 130b ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 130b ust. 2 tej ustawy;
+- **24c)** otrzymanych środków z funduszu pomocowego, o którym mowa w art. 22g ust. 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2022 r. poz. 456 i 872) – w części przeznaczonej na realizację celów, o których mowa w art. 22a ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 22a ust. 1a tej ustawy;”;
+- **2)** w art. 15 w ust. 1h w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) wpłaty uczestników systemu ochrony na fundusz pomocowy, o których mowa w art. 130h ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+- **6)** wpłaty uczestników systemu ochrony na fundusz pomocowy, o których mowa w art. 22g ust. 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających.”;
+- **3)** w art. 16 w ust. 1 pkt 58 otrzymuje brzmienie: „58) wydatków i kosztów bezpośrednio sfinansowanych z dochodów (przychodów), o których mowa w art. 17 ust. 1 pkt 14a, 23, 24, 42, 47, 48, 52, 53, 54a, 56, 56b–56j i 59;”;
+- **4)** w art. 17 w ust. 1: – Prawo bankowe – w części przeznaczonej na realizację celów, o których mowa w art. 130b ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 130b ust. 2 tej ustawy;
+    - **a)** po pkt 50d dodaje się pkt 50e w brzmieniu: „50e) odsetki lub dyskonto od obligacji emitowanych przez Bankowy Fundusz Gwarancyjny i oferowanych na rynkach zagranicznych oraz dochody z odpłatnego zbycia tych obligacji, uzyskane przez podatników, o których mowa w art. 3 ust. 2;”,
+    - **b)** uchyla się pkt 55,
+    - **c)** po pkt 56b dodaje się pkt 56c–56j w brzmieniu: „56c) wpłaty uczestników systemu ochrony na fundusz pomocowy, o których mowa w art. 130h ust. 2 ustawy z dnia 29 sierpnia 1997 r.
+
+- **56d)** wpłaty uczestników systemu ochrony na fundusz pomocowy, o których mowa w art. 22g ust. 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających – w części przeznaczonej na realizację celów, o których mowa w art. 22a ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 22a ust. 1a tej ustawy;
+- **56e)** wartość umorzonych zobowiązań z tytułu zaciągniętej przez bank pożyczki ze środków funduszu pomocowego, o którym mowa w art. 130h ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe – w części przeznaczonej na realizację celów, o których mowa w art. 130b ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 130b ust. 2 tej ustawy;
+- **56f)** wartość umorzonych zobowiązań z tytułu zaciągniętej przez bank pożyczki ze środków funduszu pomocowego, o którym mowa w art. 22g ust. 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających – w części przeznaczonej na realizację celów, o których mowa w art. 22a ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 22a ust. 1a tej ustawy;
+- **56g)** środki przekazane z funduszu pomocowego, o którym mowa w art. 130h ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, na rzecz banku przejmującego zobowiązania innego banku – w części przeznaczonej na spłatę tych zobowiązań w zakresie, w jakim są realizowane cele, o których mowa w art. 130b ust. 1 tej ustawy, i wsparcie, o którym mowa w art. 130b ust. 2 tej ustawy;
+- **56h)** środki przekazane z funduszu pomocowego, o którym mowa w art. 22g ust. 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających, na rzecz banku przejmującego zobowiązania innego banku – w części przeznaczonej na spłatę tych zobowiązań w zakresie, w jakim są realizowane cele, o których mowa w art. 22a ust. 1 tej ustawy, i wsparcie, o którym mowa w art. 22a ust. 1a tej ustawy;
+- **56i)** środki przekazane z funduszu pomocowego, o którym mowa w art. 130h ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, na rzecz banku przejmowanego – w części przeznaczonej na realizację celów, o których mowa w art. 130b ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 130b ust. 2 tej ustawy;
+- **56j)** środki przekazane z funduszu pomocowego, o którym mowa w art. 22g ust. 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających, na rzecz banku przejmowanego – w części przeznaczonej na realizację celów, o których mowa w art. 22a ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 22a ust. 1a tej ustawy;”.
+
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439 i 2447 oraz z 2022 r. poz. 830) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) zasady tworzenia i funkcjonowania systemu ochrony;”;
+- **2)** w art. 4 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) system ochrony – instytucjonalny system ochrony, którego uczestnikami są banki działające w formie spółki akcyjnej, uznany przez Komisję Nadzoru Finansowego;”;
+- **3)** w art. 36: o listach zastawnych i bankach hipotecznych (Dz. U. z 2022 r. poz. 581 i
+    - **a)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Do wniosku o wydanie zezwolenia na rozpoczęcie działalności przez bank hipoteczny załącza się dodatkowo regulacje wewnętrzne, o których mowa w art. 12a ust. 3 pkt 2–4 ustawy z dnia 29 sierpnia 1997 r.
+
+- **872)** .”,
+    - **b)** po ust. 3a dodaje się ust. 3b w brzmieniu: „3b. Komisja Nadzoru Finansowego informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o udzieleniu bankowi hipotecznemu zezwolenia, o którym mowa w ust. 1.”;
+
+- **4)** w art. 105 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) jednostce zarządzającej systemem ochrony, o której mowa w art. 130e ust. 1, w zakresie informacji niezbędnych do realizacji celów, o których mowa w art. 130b ust. 1, i wsparcia, o którym mowa w art. 130b ust. 2, lub zadań organu zarządzającego systemem ochrony określonych w art. 130k ust. 1 pkt 3 i 4 oraz ust. 2, jeżeli bank jest uczestnikiem tego systemu ochrony.”;
+- **5)** w art. 106d w ust. 1 po wyrazach „i bankach zrzeszających,” dodaje się wyrazy „jednostki zarządzające systemem ochrony, o których mowa w art. 130e ust. 1,”;
+- **6)** w art. 106e po wyrazach „i bankach zrzeszających,” dodaje się wyrazy „jednostki zarządzające systemem ochrony, o których mowa w art. 130e ust. 1,”;
+- **7)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „Rozdział 10a System ochrony
 
 **Art. 130b.**
 
@@ -451,15 +527,137 @@ source: "isap-pdf"
 
 **Art. 6.** W ustawie z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2022 r. poz. 456) wprowadza się następujące zmiany:
 
+- **1)** w art. 22a po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. System ochrony może także wspierać:
+- **1)** prowadzoną przez Bankowy Fundusz Gwarancyjny przymusową restrukturyzację, o której mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 793 i 872), jeżeli została wszczęta wobec banku spółdzielczego;
+- **2)** przejęcie banku, o którym mowa w art. 146b ust. 1 ustawy – Prawo bankowe, jeżeli bankiem przejmowanym jest bank spółdzielczy.
+
+1b. Wsparcie, o którym mowa w ust. 1a, odbywa się w szczególności przez udzielanie dotacji, pożyczek, gwarancji i poręczeń na warunkach określonych w umowie systemu ochrony.”;
+
+- **2)** w art. 22g ust. 1 otrzymuje brzmienie: „1. W banku zrzeszającym albo jednostce zarządzającej tworzy się fundusz pomocowy w celu zapewnienia środków na finansowanie zadań systemu ochrony w zakresie pomocy finansowej dla uczestników systemu ochrony mającej na celu poprawę ich wypłacalności i zapobieżenie upadłości oraz umożliwienie udzielania przez system ochrony wsparcia, o którym mowa w art. 22a ust. 1a.”;
+- **3)** po art. 22h dodaje się art. 22ha w brzmieniu: „Art. 22ha. 1. W banku zrzeszającym albo jednostce zarządzającej można także utworzyć mechanizm wsparcia, o którym mowa w art. 22a ust. 1a.
+
+2. Wsparcie, o którym mowa w art. 22a ust. 1a, może być udzielone w związku z przejęciem, o którym mowa w art. 174 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, lub przejęciem, o którym mowa w art. 146b ust. 1 ustawy – Prawo bankowe, jeżeli bankiem przejmowanym jest bank spółdzielczy.
+
+3. W przypadku, o którym mowa w art. 22a ust. 1a pkt 1, wniosek o wsparcie jest składany przed wszczęciem przymusowej restrukturyzacji przez podmiot zainteresowany przejęciem przedsiębiorstwa lub wybranych albo wszystkich praw majątkowych lub wybranych albo wszystkich zobowiązań lub praw udziałowych podmiotu, wobec którego może zostać wszczęta przymusowa restrukturyzacja.
+
+4. O wyrażeniu zgody na udzielenie wsparcia, o którym mowa w art. 22a ust. 1a, bank zrzeszający albo jednostka zarządzająca informuje wnioskodawcę, Bankowy Fundusz Gwarancyjny oraz Komisję Nadzoru Finansowego.
+
+5. W przypadku odmowy udzielenia wsparcia, o którym mowa w art. 22a ust. 1a, bank zrzeszający albo jednostka zarządzająca przekazuje niezwłocznie wnioskodawcy, Bankowemu Funduszowi Gwarancyjnemu oraz Komisji Nadzoru Finansowego uzasadnienie odmowy udzielenia wsparcia.”;
+
+- **4)** w art. 22i:
+    - **a)** w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) podejmowanie działań służących zapewnieniu płynności i wypłacalności uczestników systemu ochrony.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organ zarządzający systemem ochrony może także udzielać wsparcia w procesach przymusowej restrukturyzacji i przejęć banków, o których mowa w art. 22a ust. 1a.”.
+
 **Art. 7.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 440 w ust. 2 pkt 3 i 4 otrzymują brzmienie: „3) kategoria trzecia: o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji,
+    - **a)** podkategoria pierwsza: pozostałe należności z tytułu środków objętych ochroną gwarancyjną innych niż środki gwarantowane w rozumieniu art. 2 pkt 65 ustawy z dnia 10 czerwca 2016 r.
+    - **b)** podkategoria druga: pozostałe należności wynikające z umów rachunku bankowego,
+    - **c)** podkategoria trzecia: odsetki od należności ujętych w kategoriach, o których mowa w pkt 1 i 2, oraz podkategoriach, o których mowa w lit. a i b,
+    - **d)** podkategoria czwarta: inne należności, jeżeli nie podlegają zaspokojeniu w innych kategoriach, w szczególności podatki i inne daniny publiczne oraz pozostałe należności z tytułu składek na ubezpieczenie społeczne;
+
+- **4)** kategoria czwarta:
+    - **a)** podkategoria pierwsza: odsetki od należności ujętych w pkt 3 lit. d, a także sądowe kary grzywny i administracyjne kary pieniężne oraz należności z tytułu darowizn i zapisów,
+    - **b)** podkategoria druga: należności jednostki zarządzającej systemem ochrony, o której mowa w art. 130e ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz jednostki zarządzającej systemem ochrony, o której mowa w art. 22d ust. 1 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających, wraz z odsetkami i kosztami egzekucji;”;
+
+- **2)** w art. 442 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W razie ogłoszenia upadłości banku hipotecznego osobną masę upadłości, która służy zaspokojeniu roszczeń wierzycieli z listów zastawnych oraz roszczeń z tytułu umów o instrument pochodny, wpisanych do rejestru zabezpieczenia listów zastawnych, tworzą:”;
+- **3)** w art. 442a w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Przepisu ust. 1 nie stosuje się do potrącenia wierzytelności z tytułu instrumentów pochodnych, w przypadku których zostały spełnione warunki określone w art. 18a ust. 1 ustawy o listach zastawnych, wpisanych do rejestru zabezpieczenia listów zastawnych.”;
+- **4)** w art. 446b w ust. 1 pkt 2 otrzymuje brzmienie: „2) syndyk może zawierać umowy dotyczące instrumentów pochodnych, o których mowa w art. 442a ust. 2.”;
+- **5)** art. 448 otrzymuje brzmienie: „Art. 448. Z osobnej masy upadłości zaspokaja się kolejno:
+- **1)** koszty likwidacji osobnej masy upadłości, które obejmują także wynagrodzenie kuratora, oraz odsetki i inne należności uboczne z listów zastawnych oraz z tytułu okresowych płatności odsetkowych dokonywanych w ramach instrumentów pochodnych;
+- **2)** roszczenia z listów zastawnych według ich wartości nominalnej oraz roszczenia z tytułu instrumentów pochodnych.”;
+- **6)** w art. 458 ust. 2 otrzymuje brzmienie: „2. Zagraniczne należności publicznoprawne zaspokaja się w kategorii trzeciej podkategorii czwartej.”.
 
 **Art. 8.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2022 r. poz. 100) w art. 6a ust. 2 otrzymuje brzmienie: „2. W przypadku emisji listów zastawnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 1–8, art. 12a ust. 3 oraz art. 17–34 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2022 r. poz. 581 i 872).”.
 
 **Art. 9.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2021 r. poz. 605, 1595 i 2140) w art. 97:
 
+- **1)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) dłużne papiery wartościowe wyemitowane: UE L 328 z 18.12.2019, str. 29) i zabezpieczone aktywami stanowiącymi zabezpieczenie, w rozumieniu przepisów tej dyrektywy, względem których nabywcom tych papierów wartościowych bezpośrednio przysługuje pierwszeństwo w odzyskaniu świadczeń wynikających z tych papierów wartościowych.”;
+    - **a)** przed dniem 8 lipca 2022 r. przez jedną instytucję kredytową, która podlega szczególnemu nadzorowi publicznemu mającemu na celu ochronę posiadaczy tych papierów wartościowych, pod warunkiem że kwoty uzyskane z emisji tych papierów wartościowych są inwestowane przez emitenta w aktywa, które w całym okresie do dnia wykupu zapewniają spełnienie wszystkich świadczeń pieniężnych wynikających z tych papierów wartościowych oraz w przypadku niewypłacalności emitenta zapewniają pierwszeństwo w odzyskaniu wszystkich świadczeń pieniężnych wynikających z tych papierów wartościowych,
+    - **b)** od dnia 8 lipca 2022 r. przez jedną instytucję kredytową zgodnie z przepisami państwa członkowskiego wdrażającymi dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2162 z dnia 27 listopada 2019 r. w sprawie emisji obligacji zabezpieczonych i nadzoru publicznego nad obligacjami zabezpieczonymi oraz zmieniającą dyrektywy 2009/65/WE i 2014/59/UE (Dz. Urz.
+
+- **2)** uchyla się ust. 5.
+
 **Art. 10.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 861) w art. 70 w ust. 2 pkt 1 otrzymuje brzmienie: „1) art. 69 ust. 2 pkt 1–6 – o ile przedmiotem tych czynności są papiery wartościowe, o których mowa w art. 4 ust. 1 pkt 2, lub inne niedopuszczone do obrotu zorganizowanego instrumenty finansowe, obligacje emitowane przez Bank Gospodarstwa Krajowego na rzecz funduszy utworzonych, powierzonych albo przekazanych temu bankowi na podstawie odrębnych ustaw, gwarantowane przez Skarb Państwa, a także obligacje emitowane przez Bankowy Fundusz Gwarancyjny lub podmiot zarządzający aktywami, o którym mowa w art. 224 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;”.
 
 **Art. 11.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2021 r. poz. 1983 i 2140) wprowadza się następujące zmiany:
+
+- **1)** w art. 4:
+    - **a)** pkt 27 otrzymuje brzmienie: „27) pośrednim nabyciu akcji – rozumie się przez to uzyskanie statusu podmiotu dominującego w podmiocie posiadającym akcje spółki publicznej lub w innym podmiocie będącym wobec tego podmiotu podmiotem dominującym albo nabycie lub objęcie akcji spółki publicznej przez podmiot bezpośrednio lub pośrednio zależny;”,
+    - **b)** w pkt 32 kropkę zastępuje się średnikiem i dodaje się pkt 33 i 34 w brzmieniu: „33) wzywającym – rozumie się przez to podmiot ogłaszający wezwanie do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej;
+
+- **34)** podmiocie pośredniczącym – rozumie się przez to podmiot prowadzący działalność maklerską na terytorium Rzeczypospolitej Polskiej, za pośrednictwem którego wezwanie do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej jest ogłaszane i przeprowadzane.”;
+- **2)** w art. 11a w ust. 9 w zdaniu drugim wyrazy „art. 77–79” zastępuje się wyrazami „art. 77–77h i art. 79–79f”;
+- **3)** po art. 72 dodaje się art. 72a w brzmieniu: „Art. 72a. 1. Nabycie akcji spółki publicznej, której akcje są dopuszczone do obrotu na rynku regulowanym, może nastąpić w wyniku wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji tej spółki, zwanego dalej „wezwaniem dobrowolnym”.
+
+2. Wezwanie dobrowolne może zawierać zastrzeżenie, że wezwanie to zostaje ogłoszone pod warunkiem, że do dnia wskazanego w treści tego wezwania, nie później jednak niż do zakończenia przyjmowania zapisów w odpowiedzi na to wezwanie, właściwy organ:
+
+- **1)** udzieli zezwolenia na dokonanie koncentracji przedsiębiorców;
+- **2)** udzieli zgody lub zezwolenia na nabycie akcji będących przedmiotem tego wezwania;
+- **3)** nie zgłosi sprzeciwu wobec nabycia akcji będących przedmiotem tego wezwania.
+
+3. Wezwanie dobrowolne może zawierać zastrzeżenie, że wezwanie to zostaje ogłoszone pod warunkiem wyrażenia, do dnia wskazanego w treści tego wezwania, nie później jednak niż do zakończenia przyjmowania zapisów w odpowiedzi na to wezwanie, wymaganej przepisami prawa zgody na nabycie akcji przez walne zgromadzenie lub inny organ stanowiący lub nadzorujący wzywającego.
+
+4. Wezwanie dobrowolne może zawierać zastrzeżenie, że wezwanie to zostaje ogłoszone pod warunkiem, że do dnia wskazanego w treści tego wezwania, nie później jednak niż do zakończenia przyjmowania zapisów w odpowiedzi na to wezwanie, zostanie:
+
+- **1)** podjęta przez walne zgromadzenie lub radę nadzorczą spółki publicznej, której akcje są objęte tym wezwaniem, uchwała w określonej sprawie;
+- **2)** zakończone z określonym skutkiem inne wezwanie do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki należącej do tej samej grupy kapitałowej co spółka publiczna, której akcje są objęte tym wezwaniem dobrowolnym, ogłoszone na terytorium państwa należącego do Organizacji Współpracy Gospodarczej i Rozwoju (OECD) przez wzywającego lub spółkę należącą do tej samej co wzywający grupy kapitałowej;
+- **3)** zawarta przez spółkę publiczną, na której akcje to wezwanie jest ogłaszane, umowa określona w treści warunku.
+
+5. Wezwanie dobrowolne może zawierać zastrzeżenie określające minimalną liczbę akcji objętą zapisami, po której osiągnięciu podmiot nabywający akcje zobowiązuje się do nabycia tych akcji. Minimalna liczba akcji określona w tym wezwaniu wraz z liczbą akcji posiadanych przez podmioty, o których mowa w art. 87, których udział w ogólnej liczbie głosów uwzględnia się na potrzeby powstania obowiązku ogłoszenia wezwania, nie może stanowić więcej niż suma 50% ogólnej liczby głosów.
+
+6. W przypadkach, o których mowa w ust. 3–5, wzywający może zastrzec możliwość nabycia akcji objętych zapisami złożonymi w odpowiedzi na wezwanie dobrowolne mimo nieziszczenia się zastrzeżonego warunku.
+
+7. Wzywający jest obowiązany przekazać niezwłocznie agencji informacyjnej informację o ziszczeniu albo nieziszczeniu się warunku, w terminie określonym w treści wezwania dobrowolnego, lub o podjęciu przez wzywającego decyzji o nabywaniu akcji w tym wezwaniu mimo nieziszczenia się zastrzeżonego warunku.
+
+8. Przepis ust. 7 stosuje się odpowiednio do otrzymania zawiadomienia właściwego organu o udzieleniu albo nieudzieleniu zezwolenia na dokonanie koncentracji przedsiębiorców, udzieleniu zgody lub zezwolenia albo nieudzieleniu zgody lub zezwolenia na nabycie akcji będących przedmiotem wezwania dobrowolnego lub braku sprzeciwu albo sprzeciwie wobec nabycia akcji będących przedmiotem wezwania dobrowolnego, o których mowa w ust. 2.”;
+
+- **4)** art. 73 otrzymuje brzmienie: „Art. 73. 1. W przypadku przekroczenia progu 50% ogólnej liczby głosów w spółce publicznej, akcjonariusz lub podmiot, który pośrednio nabył akcje, jest obowiązany, w terminie trzech miesięcy od przekroczenia tego progu, do ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji tej spółki, zwanego dalej „wezwaniem obowiązkowym”.
+
+2. Obowiązek, o którym mowa w ust. 1, nie powstaje w przypadku, gdy udział akcjonariusza lub podmiotu, który pośrednio nabył akcje, w ogólnej liczbie głosów ulegnie zmniejszeniu do nie więcej niż 50% ogólnej liczby głosów, w wyniku podwyższenia kapitału zakładowego, zmiany statutu spółki publicznej lub wygaśnięcia uprzywilejowania jego akcji, w terminie trzech miesięcy od przekroczenia progu, o którym mowa w ust. 1.
+
+3. Jeżeli przekroczenie progu, o którym mowa w ust. 1, nastąpiło w wyniku dziedziczenia, a w przypadku Skarbu Państwa – także innego zdarzenia prawnego niż nabycie lub pośrednie nabycie akcji, połączenie lub podział spółki, obowiązek, o którym mowa w ust. 1, ma zastosowanie w przypadku, gdy po takim przekroczeniu udział w ogólnej liczbie głosów uległ dalszemu zwiększeniu. Termin wykonania obowiązku liczy się od dnia, w którym nastąpiło zdarzenie powodujące dalsze zwiększenie udziału w ogólnej liczbie głosów.
+
+4. Udział w ogólnej liczbie głosów powodujący obowiązek ogłoszenia wezwania obowiązkowego ustala się na koniec dnia.
+
+5. Obowiązek, o którym mowa w ust. 1, nie powstaje w przypadku przekroczenia progu, o którym mowa w ust. 1, w wyniku ogłoszenia wezwania dobrowolnego.”;
+
+- **5)** po art. 73 dodaje się art. 73a w brzmieniu: „Art. 73a. Odstąpienie od ogłoszonego wezwania jest niedopuszczalne, chyba że po jego ogłoszeniu inny podmiot ogłosił po wyższej cenie wezwanie do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki publicznej i w wezwaniu tym nie zastrzeżono żadnego warunku.”;
+- **6)** uchyla się art. 74;
+- **7)** w art. 75 w ust. 3:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Obowiązek, o którym mowa w art. 73, nie powstaje w przypadku nabywania akcji:”,
+    - **b)** w pkt 6 skreśla się wyrazy „i art. 74 ust. 5”;
+
+- **8)** w art. 76:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W zamian za akcje będące przedmiotem wezwania do zapisywania się na zamianę wszystkich pozostałych akcji spółki publicznej mogą być nabywane wyłącznie akcje innej spółki publicznej lub inne papiery wartościowe dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu dające prawo głosu w spółce publicznej.”,
+    - **b)** uchyla się ust. 1a,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Wezwanie musi przewidywać możliwość sprzedaży akcji przez podmiot zgłaszający się w odpowiedzi na to wezwanie po cenie ustalonej zgodnie z art. 79 ust. 1, 2, 3a i 4a oraz art. 79a.”;
+
+- **9)** w art. 77: Ustanowione zabezpieczenie zapewnia możliwość zaspokojenia się z przedmiotu zabezpieczenia niezwłocznie po upływie terminu nabycia akcji objętych zapisami złożonymi w odpowiedzi na wezwanie. Ustanowienie zabezpieczenia jest dokumentowane zaświadczeniem banku lub innej instytucji finansowej udzielającej zabezpieczenia lub pośredniczącej w jego udzieleniu.
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Ogłoszenie wezwania następuje po ustanowieniu na rzecz podmiotu pośredniczącego zabezpieczenia w wysokości nie niższej niż 100% wartości akcji, które mają być przedmiotem wezwania.
+
+2. Wezwanie jest ogłaszane i przeprowadzane za pośrednictwem podmiotu pośredniczącego.”,
+
+- **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Podmiot pośredniczący realizuje zabezpieczenie wyłącznie na rzecz podmiotu, który złożył zapis w odpowiedzi na wezwanie.”,
+- **c)** uchyla się ust. 3–7;
+- **10)** po art. 77 dodaje się art. 77a–77h w brzmieniu: „Art. 77a. 1. Podmiot pośredniczący jest obowiązany do przekazania Komisji, w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, zawiadomienia o zamiarze ogłoszenia wezwania. Do zawiadomienia podmiot pośredniczący załącza treść wezwania oraz zaświadczenie, o którym mowa w art. 77 ust. 1 zdanie trzecie.
+
+2. Zawiadomienie, o którym mowa w ust. 1, jest przekazywane za pomocą systemu teleinformatycznego umożliwiającego składanie powiadomień, do którego dostęp jest zapewniany przez Komisję na jej stronie internetowej.
+
+3. W przypadku zaistnienia zdarzeń uniemożliwiających przekazanie zawiadomienia, o którym mowa w ust. 1, za pomocą systemu teleinformatycznego, o którym mowa w ust. 2, przekazanie zawiadomienia następuje na adres poczty elektronicznej wskazany w tym celu przez Komisję na jej stronie internetowej. Niezwłocznie po ustaniu zdarzeń uniemożliwiających przekazanie zawiadomienia, o którym mowa w ust. 1, za pomocą systemu teleinformatycznego, o którym mowa w ust. 2, zawiadomienie to przekazuje się ponownie za pomocą tego systemu teleinformatycznego.
+
+4. Podmiot pośredniczący po przekazaniu Komisji zawiadomienia, o którym mowa w ust. 1, niezwłocznie, nie później niż w terminie 24 godzin, przekazuje agencjom informacyjnym, w celu publikacji, informację zawierającą:
+
+- **1)** firmę (nazwę) wzywającego, a w przypadku wzywającego będącego osobą fizyczną – jego imię i nazwisko;
+- **2)** liczbę akcji, na którą ogłoszone będzie wezwanie;
+- **3)** dane podmiotu pośredniczącego;
+- **4)** cenę, po jakiej wzywający zamierza nabywać akcje, oraz stosunek zamiany.
+
+5. Agencja informacyjna publikuje informacje określone w ust. 4 w serwisie bezpłatnym i dostępnym dla wszystkich inwestorów na niedyskryminacyjnych warunkach.
+
+6. Niezwłocznie po opublikowaniu przez jedną z agencji informacyjnych informacji określonych w ust. 4 podmiot pośredniczący udostępnia te informacje na swojej stronie internetowej.
+
+7. Przekazanie zawiadomienia, o którym mowa w ust. 1, następuje najpóźniej na 17 dni roboczych przed planowanym dniem ogłoszenia wezwania.
 
 **Art. 77b.**
 
@@ -493,9 +691,16 @@ source: "isap-pdf"
 
 **Art. 77e.** Podmioty będące stronami porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, które ogłosiły wspólnie wezwanie:
 
+- **1)** odpowiadają solidarnie za zapłatę ceny akcji proponowanej w wezwaniu oraz za wydanie papierów wartościowych w zamian za akcje objęte zapisami złożonymi w ramach wezwania;
+- **2)** mogą w treści wezwania określić proporcje, w jakich nastąpi nabycie akcji przez każdy z tych podmiotów.
+
 **Art. 77f.** Wzywający może wskazać w treści wezwania podmiot wchodzący w skład jego grupy kapitałowej, który będzie nabywał akcje będące przedmiotem wezwania. W przypadku gdy wzywającym jest fundusz inwestycyjny, wzywający może wskazać w treści wezwania inny fundusz inwestycyjny zarządzany przez to samo towarzystwo funduszy inwestycyjnych jako podmiot, który będzie nabywał akcje będące przedmiotem wezwania. Wzywający i podmiot wskazany przez wzywającego odpowiadają solidarnie za zapłatę ceny akcji proponowanej w wezwaniu oraz za wydanie papierów wartościowych w zamian za akcje objęte zapisami złożonymi w ramach wezwania.
 
 **Art. 77g.** W okresie między dokonaniem zawiadomienia, o którym mowa w art. 77a ust. 1, a zakończeniem wezwania wzywający oraz podmioty określone w art. 79 ust. 2 pkt 1:
+
+- **1)** mogą nabywać akcje spółki publicznej, której dotyczy wezwanie, jedynie w ramach tego wezwania i w sposób w nim określony;
+- **2)** nie mogą zbywać akcji spółki publicznej, której dotyczy wezwanie, ani zawierać umów, z których mógłby wynikać obowiązek zbycia przez nie tych akcji;
+- **3)** nie mogą nabywać pośrednio akcji spółki publicznej, której dotyczy wezwanie.
 
 **Art. 77h.**
 
@@ -659,13 +864,169 @@ source: "isap-pdf"
 
 **Art. 12.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2022 r. poz. 660) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 2 pkt 1 otrzymuje brzmienie: „1) nadzór bankowy, sprawowany zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439 i 2447 oraz z 2022 r. poz. 830 i 872), zwanej dalej „ustawą – Prawo bankowe”, ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 492 i 655), ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2022 r. poz. 581 i 872), ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2022 r. poz. 456 i 872) oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 575/2013”;”;
+- **2)** w art. 7 w ust. 1 pkt 3 otrzymuje brzmienie: „3) posiadają co najmniej wykształcenie wyższe i tytuł zawodowy magistra, magistra inżyniera lub tytuł równorzędny;”;
+- **3)** w art. 20:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Kształtowanie wysokości wynagrodzeń i nagród dla Przewodniczącego Komisji, jego Zastępców i pracowników Urzędu Komisji oraz wynagrodzeń członków Komisji, o których mowa w art. 5 ust. 2, powinno zapewnić sprawne wykonywanie nadzoru nad rynkiem finansowym i realizację celów określonych w art. 2.”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Członkowie Komisji, o których mowa w art. 5 ust. 2, otrzymują miesięczne wynagrodzenie w wysokości do 100% przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504). Wysokość miesięcznego wynagrodzenia każdego z członków Komisji, o których mowa w art. 5 ust. 2, jest obliczana proporcjonalnie do udziału danego członka Komisji w posiedzeniach Komisji w danym miesiącu.
+
+1b. Do wynagrodzeń, o których mowa w ust. 1a, nie stosuje się art. 4 ust. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2020 r. poz. 1637 oraz z 2021 r. poz. 1834).”,
+
+- **c)** ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób ustalania wysokości środków przeznaczonych na wynagrodzenia i nagrody dla Przewodniczącego Komisji i jego Zastępców oraz ustalania wysokości tych wynagrodzeń i nagród, a także sposób ustalania wysokości środków przeznaczonych na wynagrodzenia dla członków Komisji, o których mowa w art. 5 ust. 2, oraz ustalania wysokości tych wynagrodzeń, uwzględniając organizację Urzędu Komisji i Komisji, konieczność zapewnienia właściwej realizacji zadań Urzędu Komisji i Komisji w zakresie sprawowanego nadzoru oraz poziom płac w instytucjach nadzorowanych.”.
+
 **Art. 13.** W ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2019 r. poz. 1821, z 2021 r. poz. 2071 oraz z 2022 r. poz. 241) wprowadza się następujące zmiany:
+
+- **1)** w art. 26a w ust. 1 wyrazy „W latach 2022–2027” zastępuje się wyrazami „W latach 2023–2027”;
+- **2)** po art. 26a dodaje się art. 26aa w brzmieniu: „Art. 26aa. W roku 2022 minister właściwy do spraw finansów publicznych może przekazać ministrowi właściwemu do spraw gospodarki złożami kopalin, na jego wniosek, skarbowe papiery wartościowe celem ich przekazania przedsiębiorstwu, o którym mowa w art. 8 ust. 1, na podwyższenie kapitału zakładowego tego przedsiębiorstwa, jeżeli jest to niezbędne do realizacji jego zadań określonych w ustawie, w ramach limitu określonego w art. 5 ust. 3 ustawy budżetowej na rok 2022 z dnia 17 grudnia 2021 r. (Dz. U. z 2022 r. poz. 270), z tym że wartość nominalna nowo wyemitowanych skarbowych papierów wartościowych na ten cel nie może przekroczyć kwoty 800 000 tys. zł. Przepisy art. 26a ust. 2–7 stosuje się odpowiednio.”;
+- **3)** w art. 26b skreśla się wyrazy „ , o których mowa w art. 5f ustawy”;
+- **4)** w art. 26c ust. 1 otrzymuje brzmienie: „1. W latach 2023–2031 minister właściwy do spraw finansów publicznych może przekazać przedsiębiorstwu górniczemu objętemu systemem wsparcia, na wniosek ministra właściwego do spraw gospodarki złożami kopalin, skarbowe papiery wartościowe na podwyższenie kapitału zakładowego tego przedsiębiorstwa w celu finansowania dopłat do wysokości określonej w ustawie budżetowej na dany rok budżetowy.”;
+- **5)** po art. 26c dodaje się art. 26ca–26cc w brzmieniu: „Art. 26ca. W roku 2022 minister właściwy do spraw finansów publicznych może przekazać ministrowi właściwemu do spraw gospodarki złożami kopalin, na jego wniosek, skarbowe papiery wartościowe celem ich przekazania przedsiębiorstwu górniczemu objętemu systemem wsparcia na podwyższenie kapitału zakładowego tego przedsiębiorstwa w celu finansowania dopłat, w ramach limitu określonego w art. 5 ust. 3 ustawy budżetowej na rok 2022 z dnia 17 grudnia 2021 r., z tym że wartość nominalna nowo wyemitowanych skarbowych papierów wartościowych na ten cel nie może przekroczyć kwoty 5 200 000 tys. zł. Przepisy art. 26c ust. 2– 7 stosuje się odpowiednio. Art. 26cb. Minister właściwy do spraw gospodarki złożami kopalin może zlecić na podstawie umowy Bankowi Gospodarstwa Krajowego otwarcie i prowadzenie rachunku papierów wartościowych dla skarbowych papierów wartościowych, o których mowa w art. 26aa i art. 26ca, lub świadczenie innych usług związanych z tymi papierami wartościowymi. Art. 26cc. W przypadku nieprzekazania w roku 2022 przez ministra właściwego do spraw gospodarki złożami kopalin skarbowych papierów wartościowych zgodnie z art. 26aa i art. 26ca, podlegają one zwrotowi na rachunek wskazany przez ministra właściwego do spraw finansów publicznych.”;
+- **6)** art. 26e otrzymuje brzmienie: „Art. 26e. 1. System wsparcia stanowi pomoc publiczną i podlega notyfikacji do Komisji Europejskiej.
+
+2. Minister właściwy do spraw gospodarki złożami kopalin jest właściwy w zakresie pomocy publicznej udzielonej na podstawie niniejszej ustawy w formie dotacji z budżetu państwa i skarbowych papierów wartościowych, w tym do dochodzenia zwrotu kwoty stanowiącej równowartość udzielonej pomocy publicznej wraz z odsetkami, w przypadku obowiązku zwrotu pomocy, oraz jego egzekwowania.”.
 
 **Art. 14.** W ustawie z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2022 r. poz. 454) wprowadza się następujące zmiany:
 
+- **1)** w art. 74 dodaje się ust. 9 w brzmieniu: „9. Przepisu ust. 2 nie stosuje się do obligacji:
+- **1)** stanowiących zobowiązania kwalifikowalne, o których mowa w art. 2 pkt 90a ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 793);
+- **2)** które przestały spełniać wymóg, o którym mowa w art. 72c ust. 1 zdanie pierwsze rozporządzenia 575/2013.”;
+- **2)** w art. 75 dodaje się ust. 6 w brzmieniu: „6. Przepisu ust. 1 pkt 2 nie stosuje się do obligacji:
+- **1)** stanowiących zobowiązania kwalifikowalne, o których mowa w art. 2 pkt 90a ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+- **2)** które przestały spełniać wymóg, o którym mowa w art. 72c ust. 1 zdanie pierwsze rozporządzenia 575/2013.”.
+
 **Art. 15.** W ustawie z dnia 15 stycznia 2016 r. o podatku od niektórych instytucji finansowych (Dz. U. z 2019 r. poz. 1836) w art. 5 dodaje się ust. 11 w brzmieniu: „11. W przypadku podatników, o których mowa w art. 4 pkt 1–8, podstawę opodatkowania obniża się o wartość aktywów w postaci:
 
+- **1)** nabytych przez podatnika obligacji emitowanych przez Bankowy Fundusz Gwarancyjny lub podmiot zarządzający aktywami, o którym mowa w art. 224 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 793);
+- **2)** kredytów lub pożyczek udzielonych przez podatnika Bankowemu Funduszowi Gwarancyjnemu lub podmiotowi zarządzającemu aktywami, o którym mowa w art. 224 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.”.
+
 **Art. 16.** W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 793) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 po pkt 71 dodaje się pkt 71a w brzmieniu: „71a) umowy finansowe:
+    - **a)** umowy będące instrumentami finansowymi w rozumieniu ustawy o obrocie instrumentami finansowymi,
+    - **b)** niebędące instrumentami finansowymi, o których mowa w lit. a, umowy dotyczące obrotu towarami,
+    - **c)** niebędące instrumentami finansowymi, o których mowa w lit. a, opcje, kontrakty terminowe, swapy, umowy forward oraz inne prawa majątkowe, których cena lub wartość zależy bezpośrednio lub pośrednio od ceny lub wartości składnika majątku, usługi, prawa lub udziału,
+    - **d)** umowy pożyczki międzybankowej, jeżeli termin spłaty pożyczki wynosi 3 miesiące albo jest krótszy,
+    - **e)** umowy ramowe, których przedmiotem jest zawieranie umów, o których mowa w lit. a–d;”;
+
+- **2)** w art. 8:
+    - **a)** w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) obniżanie, na wniosek Zarządu Funduszu, docelowego poziomu środków systemu gwarantowania depozytów w bankach;”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Rada Funduszu, na wniosek Zarządu Funduszu, przyjmuje zasady określania docelowego poziomu środków, o których mowa w ust. 1 pkt 8a. Zasady są zamieszczane na stronie internetowej Funduszu.”;
+
+- **3)** w art. 11 w ust. 4 po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) zwrotnego przeniesienia wybranych praw majątkowych lub wybranych zobowiązań, o którym mowa w art. 225 ust. 2,”;
+- **4)** w art. 67 w ust. 1 w pkt 1 wyrazy „zobowiązań podlegających umorzeniu lub konwersji” zastępuje się wyrazami „zobowiązań kwalifikowalnych”;
+- **5)** w art. 70:
+    - **a)** ust. 2a otrzymuje brzmienie: „2a. Fundusz dokonuje umorzenia lub konwersji zobowiązań kwalifikowalnych w przypadku, o którym mowa w ust. 1 pkt 1, jeżeli zobowiązania kwalifikowalne spełniają warunki, o których mowa w art. 98 ust. 2l pkt 1, oraz:
+
+- **1)** zaistniały warunki, o których mowa w art. 101 ust. 7–9, lub okoliczności, o których mowa w art. 102 ust. 1 lub 4, lub
+- **2)** bez dokonania umorzenia lub konwersji zobowiązań kwalifikowalnych podmiot nie spełnia warunków kontynuowania działalności, lub
+- **3)** kontynuacja działalności podmiotu wymaga nadzwyczajnego wsparcia ze środków publicznych.”,
+    - **b)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadkach, o których mowa w ust. 2 pkt 2 i ust. 2a pkt 2, uznaje się, że podmiot nie spełnia warunków kontynuowania działalności, jeżeli łącznie spełnione są następujące przesłanki:”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Nie uznaje się za nadzwyczajne wsparcie ze środków publicznych, o którym mowa w ust. 2 pkt 3 i ust. 2a pkt 3, udzielenia na podstawie odrębnych przepisów pomocy wypłacalnemu podmiotowi w celu przeciwdziałania poważnym zakłóceniom w gospodarce i utrzymania stabilności finansowej w formie, o której mowa w art. 101 ust. 13 pkt 3, o ile wsparcie to jest proporcjonalne do skali zakłóceń, ma charakter zapobiegawczy i czasowy oraz nie służy pokryciu strat, które podmiot poniósł lub poniesie w bliskiej przyszłości.”;
+
+- **6)** w art. 70a:
+    - **a)** w ust. 1 w pkt 9 wyrazy „sposób pozwalający” zastępuje się wyrazami „wskazanie sposobu pozwalającego”,
+    - **b)** w ust. 7 wyraz „mu” zastępuje się wyrazem „im”;
+
+- **7)** w art. 92 w ust. 9 w zdaniu pierwszym po wyrazach „okoliczności określonych w ust. 3” dodaje się wyrazy „i 3a”;
+- **8)** w art. 101:
+    - **a)** w ust. 5 pkt 4 otrzymuje brzmienie: „4) naruszenie określonego przez Fundusz minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych;”,
+    - **b)** ust. 12a otrzymuje brzmienie: „12a. Decyzje w sprawach umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych oraz zastosowania instrumentów przymusowej restrukturyzacji zawierają oszacowanie wartości aktywów i pasywów podmiotu.”;
+
+- **9)** w art. 112:
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) udzielać osobom trzecim gwarancji spłaty zobowiązań:
+    - **a)** podmiotu w restrukturyzacji, jego podmiotów zależnych, instytucji pomostowej, podmiotu zarządzającego aktywami oraz podmiotu przejmującego – z tytułu kredytu lub pożyczki,
+    - **b)** podmiotu zarządzającego aktywami z tytułu obligacji wyemitowanych przez ten podmiot i nabytych przez te osoby trzecie.”,
+    - **b)** w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Fundusz może udzielić wsparcia z funduszy przymusowej restrukturyzacji w celu zastosowania instrumentu przejęcia przedsiębiorstwa, przeniesienia, o którym mowa w art. 188 ust. 1, lub przeniesienia, o którym mowa w art. 225 ust. 1, polegającego na:”, – pkt 1 otrzymuje brzmienie: „1) udzieleniu gwarancji całkowitego lub częściowego pokrycia strat wynikających z ryzyka związanego z wszystkimi lub wybranymi prawami majątkowymi lub zobowiązaniami podmiotu w restrukturyzacji, jego podmiotów zależnych, instytucji pomostowej lub podmiotu zarządzającego aktywami;”, – w pkt 2 po wyrazach „art. 188 ust. 5” dodaje się wyrazy „i 5a”,
+    - **c)** ust. 8 i 9 otrzymują brzmienie: „8. Jeżeli nie umówiono się inaczej, z dniem spełnienia przez Fundusz świadczenia z tytułu gwarancji, o której mowa w ust. 1 pkt 3 lub ust. 7, Fundusz nabywa z mocy prawa spłaconą wierzytelność wynikającą z udzielonego kredytu, pożyczki lub wyemitowanych i objętych obligacji do wysokości dokonanej zapłaty, wraz z przedmiotem zabezpieczenia ustanowionym przez pożyczkobiorcę, kredytobiorcę lub podmiot zarządzający aktywami oraz innymi prawami związanymi z nabytą wierzytelnością.
+
+9. Gwarancja, o której mowa w ust. 1 pkt 3 lub ust. 7, może także obejmować spłatę kredytu, pożyczki lub wykup obligacji, wraz z odsetkami umownymi oraz innymi kosztami związanymi z kredytem, pożyczką lub obligacjami. Wypłaty z tytułu gwarancji są pomniejszane o spłaty kredytu dokonane przez kredytobiorcę lub pożyczkobiorcę lub kwotę dokonanych płatności z tytułu wyemitowanych obligacji oraz o kwoty uzyskane przez kredytodawcę, pożyczkodawcę lub podmiot, który nabył obligacje, w wyniku zaspokojenia się z przedmiotu zabezpieczenia tego kredytu, pożyczki lub z przedmiotu zabezpieczenia tych obligacji.”;
+
+- **10)** w art. 113 po ust. 1e dodaje się ust. 1f i 1g w brzmieniu: „1f. Fundusz niezwłocznie zamieszcza na swojej stronie internetowej uchwały Zarządu Funduszu o powołaniu zarządu, rady nadzorczej, zmianie statutu lub umowy spółki podmiotu w restrukturyzacji. Uchwały wchodzą w życie z chwilą zamieszczenia ich na stronie internetowej.
+
+1g. W przypadku wydania decyzji o przejęciu praw udziałowych przez podmiot przejmujący, o której mowa w art. 174 ust. 1 pkt 3, nie stosuje się przepisu ust. 1 pkt 2. W tym przypadku rada nadzorcza ulega rozwiązaniu, a mandaty jej członków wygasają, z tym że może ona wnieść skargę do sądu administracyjnego, o której mowa w art. 103 ust. 5, oraz zachowuje zdolność sądową i procesową w tym postępowaniu przed sądami administracyjnymi.”;
+
+- **11)** w art. 121:
+    - **a)** w pkt 1 lit. a otrzymuje brzmienie: „a) przepisów art. 212, art. 223, art. 233, art. 236, art. 237, art. 255 § 1, art. 397, art. 399 § 3, art. 400, art. 401, art. 430 § 1 oraz przepisów tytułu IV działów I i II Kodeksu spółek handlowych,”,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) prowadzonej wobec podmiotów w restrukturyzacji będących bankami nie stosuje się przepisów art. 34 ust. 2, art. 124, art. 124a i art. 124c ustawy – Prawo bankowe;”;
+
+- **12)** w art. 131 ust. 1b otrzymuje brzmienie: „1b. Członkowie europejskiego kolegium przymusowej restrukturyzacji uwzględniają globalną strategię przymusowej restrukturyzacji dla grupy przyjętą przez właściwe organy przymusowej restrukturyzacji państw trzecich w celu realizacji zadania, o którym mowa w art. 127 ust. 2 pkt 9.”;
+- **13)** w art. 133 w ust. 2 w pkt 4 wyrazy „art. 272 ust. 4 i 5” zastępuje się wyrazami „art. 272 ust. 3”;
+- **14)** w art. 138 w ust. 7 pkt 2 otrzymuje brzmienie: „2) bilans uwzględniający dokonaną ocenę oraz kwoty, o których mowa w ust. 4 i 5;”;
+- **15)** w art. 144b:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W umowie finansowej, której jedną ze stron jest podmiot, a prawem właściwym jest prawo państwa trzeciego, zawiera się zastrzeżenie, zgodnie z którym Funduszowi przysługują uprawnienia, o których mowa w art. 142–144a, a przepisy art. 156 stosuje się do stron tej umowy.”,
+    - **b)** w ust. 2 w pkt 1 wyrazy „w art. 102 ust. 1 pkt 3 i art. 142–144” zastępuje się wyrazami „w art. 142–144a lub do których miałyby zastosowanie przepisy art. 156”,
+    - **c)** ust. 6 otrzymuje brzmienie: „6. Niezamieszczenie w umowie finansowej, o której mowa w ust. 1 lub 3, zastrzeżeń umownych określonych w ust. 1 pozostaje bez wpływu na możliwość stosowania przez Fundusz uprawnień, o których mowa w art. 142–144a, oraz stosowania do stron tej umowy przepisów art. 156.”;
+
+- **16)** w dziale III tytuł rozdziału 11 otrzymuje brzmienie: „Skutki zawieszenia wykonania zobowiązań i przymusowej restrukturyzacji dla zobowiązań podmiotu lub podmiotu w restrukturyzacji”;
+- **17)** w art. 156:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zawieszenia wykonania zobowiązań, o którym mowa w art. 144a, wszczęcia przymusowej restrukturyzacji, decyzji podejmowanych przez Fundusz w ramach przymusowej restrukturyzacji, a także skutków takich decyzji w odniesieniu do umów zawartych przez podmiot w restrukturyzacji nie uznaje się za podstawę realizacji zabezpieczenia w rozumieniu art. 3 pkt 4 ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych ani za ogłoszenie upadłości w rozumieniu art. 1 pkt 14 ustawy o ostateczności rozrachunku, jeżeli nadal są wypełniane istotne zobowiązania podmiotu lub podmiotu w restrukturyzacji wynikające z umowy, w tym zobowiązania do płatności i dostawy, a także zobowiązania do zapewnienia zabezpieczenia, z zastrzeżeniem art. 142, art. 144, art. 161 i art. 213.”,
+    - **b)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli istotne postanowienia umowy, w szczególności w zakresie dostawy, płatności i zabezpieczenia, są wykonywane przez podmiot, podmiot w restrukturyzacji lub podmioty grupy, której częścią jest ten podmiot lub ten podmiot w restrukturyzacji, zawieszenie wykonania zobowiązań, o którym mowa w art. 144a, wszczęcie przymusowej restrukturyzacji, decyzje podejmowane przez Fundusz w ramach przymusowej restrukturyzacji i ich skutki nie stanowią dla drugiej strony takiej umowy podstawy do:”, – pkt 1 otrzymuje brzmienie: „1) wypowiedzenia, odstąpienia, wstrzymania wykonania lub dokonania zmiany umowy oraz dokonania potrącenia lub kompensaty w przypadku umów zawartych przez podmiot lub podmiot w restrukturyzacji, a także umów zawartych:
+    - **a)** przez podmiot zależny od podmiotu lub podmiotu w restrukturyzacji, w przypadku gdy podmiot lub podmiot w restrukturyzacji zabezpiecza wykonanie zobowiązań z tytułu umowy,
+    - **b)** przez podmiot grupy, jeżeli istotne postanowienia umowy odnoszą się do niewykonania zobowiązań przez inny podmiot grupy;”, – pkt 3 otrzymuje brzmienie: „3) ograniczania lub żądania ograniczenia praw podmiotu lub podmiotu w restrukturyzacji, lub podmiotów grupy wynikających z umów, w tym postanowień umowy dotyczących niewykonania zobowiązań, przez inny podmiot grupy.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Przepisy ust. 1 i 2 nie naruszają prawa do podjęcia działania, o którym mowa w ust. 2, jeżeli realizacja tego prawa następuje z powodów innych niż w związku z zawieszeniem wykonania zobowiązań, o którym mowa w art. 144a, wszczęciem przymusowej restrukturyzacji, podjęciem przez Fundusz decyzji w ramach przymusowej restrukturyzacji lub ich skutkami.”;
+
+- **18)** w art. 175 uchyla się ust. 8;
+- **19)** po art. 175 dodaje się art. 175a w brzmieniu: „Art. 175a. W przypadku wydania decyzji, o której mowa w art. 174 ust. 1 pkt 3, uprawnienia Funduszu określone w art. 113 ust. 1 pkt 1 oraz ust. 1e wygasają z dniem określonym w tej decyzji.”;
+- **20)** art. 179 otrzymuje brzmienie: „Art. 179. 1. Fundusz może przekazać podmiotowi przejmującemu, a w przypadku przejęcia praw udziałowych – podmiotowi w restrukturyzacji lub podmiotowi przejmującemu, środki z funduszu gwarancyjnego banków albo z funduszu gwarancyjnego kas do wysokości różnicy:
+- **1)** między wartością przejmowanych zobowiązań podmiotu w restrukturyzacji a wartością przejmowanego przedsiębiorstwa albo przejmowanych praw majątkowych podmiotu w restrukturyzacji – w przypadku przejęcia przedsiębiorstwa na podstawie art. 174 ust. 1 pkt 1 i 2 albo przejęcia praw majątkowych na podstawie art. 174 ust. 1 pkt 2;
+- **2)** między wartością zobowiązań podmiotu w restrukturyzacji a wartością przedsiębiorstwa podmiotu w restrukturyzacji – w przypadku przejęcia praw udziałowych podmiotu w restrukturyzacji na podstawie art. 174 ust. 1 pkt 3.
+
+2. Wysokość środków przekazanych zgodnie z ust. 1 nie może być wyższa niż różnica między wartością zobowiązań podmiotu w restrukturyzacji z tytułu środków gwarantowanych na dzień wszczęcia przymusowej restrukturyzacji a wartością przewidywanych na podstawie oszacowania, o którym mowa w art. 137 ust. 1, kwot zaspokojenia roszczeń z tytułu wypłaty środków gwarantowanych w postępowaniu upadłościowym, w przypadku gdyby na dzień wydania decyzji o wszczęciu przymusowej restrukturyzacji sąd wydał postanowienie o ogłoszeniu upadłości podmiotu w restrukturyzacji.”;
+
+- **21)** w art. 181 w ust. 2 zdanie drugie otrzymuje brzmienie: „Przepisów art. 25–25r ustawy – Prawo bankowe, art. 106–108 ustawy o obrocie instrumentami finansowymi oraz art. 73 ustawy o ofercie publicznej nie stosuje się.”;
+- **22)** w art. 188:
+    - **a)** ust. 4 i 5 otrzymują brzmienie: „4. Wartość przenoszonych zobowiązań nie może przekraczać łącznej wartości przenoszonych praw majątkowych oraz przekazanych do instytucji pomostowej praw majątkowych lub środków pochodzących z innych źródeł.
+
+5. Fundusz może przekazać instytucji pomostowej, a w przypadku przeniesienia praw udziałowych – podmiotowi w restrukturyzacji lub instytucji pomostowej, środki z funduszu gwarancyjnego banków albo z funduszu gwarancyjnego kas do wysokości różnicy:
+
+- **1)** między wartością przenoszonych zobowiązań podmiotu w restrukturyzacji a wartością przenoszonego przedsiębiorstwa albo przenoszonych praw majątkowych podmiotu w restrukturyzacji – w przypadku przeniesienia przedsiębiorstwa lub jego części na podstawie ust. 1 pkt 2 i 3 albo przeniesienia praw majątkowych na podstawie ust. 1 pkt 3;
+- **2)** między wartością zobowiązań podmiotu w restrukturyzacji a wartością przedsiębiorstwa podmiotu w restrukturyzacji – w przypadku przeniesienia praw udziałowych podmiotu w restrukturyzacji na podstawie ust. 1 pkt 1.”,
+    - **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Wysokość środków przekazanych zgodnie z ust. 5 nie może być wyższa niż różnica między wartością zobowiązań podmiotu w restrukturyzacji z tytułu środków gwarantowanych na dzień wszczęcia przymusowej restrukturyzacji a wartością przewidywanych na podstawie oszacowania, o którym mowa w art. 137 ust. 1, kwot zaspokojenia roszczeń z tytułu wypłaty środków gwarantowanych w postępowaniu upadłościowym, w przypadku gdyby na dzień wydania decyzji o wszczęciu przymusowej restrukturyzacji sąd wydał postanowienie o ogłoszeniu upadłości podmiotu w restrukturyzacji.”,
+    - **c)** ust. 6 otrzymuje brzmienie: „6. W przypadku przeniesienia i zwrotnego przeniesienia praw udziałowych w podmiocie w restrukturyzacji przepisu art. 73 ustawy o ofercie publicznej nie stosuje się.”;
+
+- **23)** w art. 193:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Instytucja pomostowa zbywa swoje:
+
+- **1)** przedsiębiorstwo lub
+- **2)** wybrane albo wszystkie prawa majątkowe, lub
+- **3)** wybrane albo wszystkie zobowiązania – na zasadach określonych w art. 178.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Zbycie, o którym mowa w ust. 2, nie wymaga zgody wierzycieli oraz dłużników instytucji pomostowej.”;
+
+- **24)** w art. 202 dodaje się ust. 4 i 5 w brzmieniu: „4. Fundusz może przekazać podmiotowi w restrukturyzacji środki z funduszu gwarancyjnego banków albo z funduszu gwarancyjnego kas, w przypadku gdy pokrycie straty podmiotu w restrukturyzacji, wynikającej z oszacowania, o którym mowa w art. 137 ust. 1, wymagałoby umorzenia zobowiązań z tytułu środków gwarantowanych do wysokości niezbędnej do pokrycia kwoty straty podmiotu w restrukturyzacji.
+
+5. Wysokość środków przekazanych zgodnie z ust. 4 nie może być wyższa niż różnica między wartością zobowiązań podmiotu w restrukturyzacji z tytułu środków gwarantowanych na dzień wszczęcia przymusowej restrukturyzacji a wartością przewidywanych na podstawie oszacowania, o którym mowa w art. 137 ust. 1, kwot zaspokojenia roszczeń z tytułu wypłaty środków gwarantowanych w postępowaniu upadłościowym, w przypadku gdyby na dzień decyzji o wszczęciu przymusowej restrukturyzacji sąd wydał postanowienie o ogłoszeniu upadłości podmiotu w restrukturyzacji.”;
+
+- **25)** w art. 206 w ust. 1 w pkt 6 wyrazy „kontrahentów centralnych” zastępuje się wyrazem „CCP”;
+- **26)** w art. 212a:
+    - **a)** w ust. 1 w pkt 9 wyrazy „sposób pozwalający” zastępuje się wyrazami „wskazanie sposobu pozwalającego”,
+    - **b)** w ust. 7 wyraz „mu” zastępuje się wyrazem „im”;
+
+- **27)** w art. 220 zdanie pierwsze otrzymuje brzmienie: „Jeżeli przekroczenie progu 50% ogólnej liczby głosów w spółce publicznej nastąpiło w wyniku konwersji wierzytelności na akcje podmiotu w restrukturyzacji, obowiązek ogłoszenia wezwania obowiązkowego, o którym mowa w art. 73 ustawy o ofercie publicznej, ma zastosowanie w przypadku, gdy po takim nabyciu akcji udział w ogólnej liczbie głosów uległ dalszemu zwiększeniu.”;
+- **28)** w art. 222 w ust. 4 uchyla się pkt 5;
+- **29)** po art. 225 dodaje się art. 225a w brzmieniu: „Art. 225a. 1. W przypadku zabezpieczenia kredytów objętych instrumentem przymusowej restrukturyzacji w postaci wydzielenia praw majątkowych hipoteką lub zastawem rejestrowym, z dniem przeniesienia tych kredytów wskazanym w decyzji, o której mowa w art. 225 ust. 1, na podmiot zarządzający aktywami przechodzą odpowiednio hipoteki lub zastawy rejestrowe. Przepisów art. 79 ust. 1 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204, z 2021 r. poz. 1177 i 1978 oraz z 2022 r. poz. 872) oraz art. 17 ust. 1 zdanie drugie ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017) nie stosuje się.
+
+2. Do chwili ujawnienia podmiotu zarządzającego aktywami w księdze wieczystej albo w rejestrze zastawów spełnienie świadczenia do rąk wierzyciela ujawnionego odpowiednio w księdze wieczystej albo w rejestrze zastawów ma skutek względem podmiotu zarządzającego aktywami. Wierzyciel ujawniony w księdze wieczystej albo w rejestrze zastawów jest zobowiązany dokonać niezwłocznie rozliczenia z podmiotem zarządzającym aktywami.
+
+3. W razie wygaśnięcia hipoteki albo zastawu rejestrowego przed ujawnieniem podmiotu zarządzającego aktywami odpowiednio w księdze wieczystej albo w rejestrze zastawów, podmiot zarządzający aktywami jest obowiązany dokonać czynności umożliwiających wykreślenie hipoteki z księgi wieczystej albo zastawu rejestrowego z rejestru zastawów.
+
+4. Podmiot zarządzający aktywami oraz Fundusz na swoich stronach internetowych zamieszczają informację o skutkach wydania przez Fundusz decyzji, o której mowa w art. 225 ust. 1, wskazując w szczególności na zakres przejętych praw majątkowych i zobowiązań.
+
+5. Niezwłocznie po przeniesieniu kredytów zabezpieczonych hipoteką lub zastawem rejestrowym, które zostały objęte instrumentem przymusowej restrukturyzacji w postaci wydzielenia praw majątkowych, podmiot zarządzający aktywami jest obowiązany dokonać czynności w celu ujawnienia podmiotu zarządzającego aktywami odpowiednio w księdze wieczystej albo w rejestrze zastawów.
+
+6. Z chwilą zawiadomienia sądu, sądu polubownego lub organu prowadzącego postępowanie administracyjne o zastosowaniu instrumentu przymusowej restrukturyzacji w postaci wydzielenia praw majątkowych podmiot zarządzający aktywami wstępuje z mocy prawa w miejsce podmiotu w restrukturyzacji do postępowań cywilnych, administracyjnych, sądowo-administracyjnych oraz przed sądami polubownymi, dotyczących hipotek lub zastawów rejestrowych zabezpieczających kredyty, które zostały objęte instrumentem przymusowej restrukturyzacji w postaci wydzielenia praw majątkowych, bez konieczności uzyskania zgody strony przeciwnej albo osoby trzeciej, która ma interes prawny.”;
+
+- **30)** w art. 226:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Wynagrodzenie ustalone zgodnie z ust. 1 podmiot zarządzający aktywami płaci na rzecz:
+
+- **1)** podmiotu w restrukturyzacji albo
+- **2)** podmiotu przejmującego, albo
+- **3)** podmiotu, który został przejęty zgodnie z art. 174 ust. 1 pkt 3, albo
+- **4)** instytucji pomostowej – w formie i w terminie ustalonych w decyzji Funduszu o przeniesieniu praw majątkowych, nie później jednak niż w terminie 3 miesięcy, licząc od dnia przeniesienia.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Zapłata wynagrodzenia może nastąpić w szczególności przez objęcie przez podmioty wskazane w ust. 3 pkt 1–4 instrumentów dłużnych wyemitowanych przez podmiot zarządzający aktywami.”;
+
+- **31)** w art. 228 ust. 2 otrzymuje brzmienie: „2. Podmiot zarządzający aktywami jest zwolniony z obowiązku zawiadamiania o nabyciu pakietów akcji spółek publicznych, uzyskania zgody odpowiednich organów na wykonywanie praw z tych akcji oraz ogłoszenia wezwania obowiązkowego, o którym mowa w art. 73 ustawy o ofercie publicznej.”;
+- **32)** po art. 229 dodaje się art. 229a w brzmieniu: „Art. 229a. Podmiot zarządzający aktywami może emitować obligacje na zasadach i w trybie określonych w rozdziale 18a albo na podstawie odrębnych ustaw.”;
+- **33)** w dziale III po rozdziale 18 dodaje się rozdział 18a w brzmieniu: „Rozdział 18a Zasady i tryb emisji obligacji przez podmiot zarządzający aktywami
 
 **Art. 229b.**
 
@@ -719,6 +1080,9 @@ source: "isap-pdf"
 
 **Art. 229e.** Emisja obligacji może być dokonywana w trybie:
 
+- **1)** oferty publicznej, o której mowa w art. 2 lit. d rozporządzenia nr 2017/1129;
+- **2)** proponowania nabycia obligacji w inny sposób niż określony w pkt 1.
+
 **Art. 229f.**
 
 1. Z chwilą wykupu obligacje podlegają umorzeniu.
@@ -726,6 +1090,35 @@ source: "isap-pdf"
 2. Podmiot zarządzający aktywami może nabywać własne obligacje jedynie w celu ich umorzenia.
 
 **Art. 229g.** Jeżeli dzień, w którym na podstawie warunków emisji powstaje obowiązek wykonania czynności, przypada na dzień ustawowo wolny od pracy albo sobotę, termin wykonania tej czynności upływa w pierwszym dniu roboczym po tym dniu.”;
+
+- **34)** w art. 234 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) wynagrodzenie, o którym mowa w art. 190,”,
+    - **b)** część wspólna otrzymuje brzmienie: „– po potrąceniu kosztów przymusowej restrukturyzacji związanych z zastosowaniem instrumentów przejęcia przedsiębiorstwa lub instytucji pomostowej.”;
+
+- **35)** po art. 234 dodaje się art. 234a w brzmieniu: „Art. 234a. 1. W przypadku zastosowania instrumentu wydzielenia praw majątkowych środki z tytułu wynagrodzenia, o którym mowa w art. 226 ust. 1, podmiot zarządzający aktywami przekazuje, za pośrednictwem Funduszu, podmiotom wskazanym w art. 226 ust. 3 pkt 1–4, gdy taki sposób zapłaty wynagrodzenia zostanie wskazany w decyzji, o której mowa w art. 225 ust. 1.
+
+2. Fundusz może, w odniesieniu do środków, o których mowa w ust. 1, dokonać potrącenia kosztów przymusowej restrukturyzacji.”;
+
+- **36)** w art. 235 pkt 9 otrzymuje brzmienie: „9) wydatki z tytułu finansowania przymusowej restrukturyzacji, o których mowa w art. 179, art. 188 ust. 5 i 5a, art. 202 ust. 4 i 5, art. 237 oraz art. 272 ust. 3 i 7;”;
+- **37)** w art. 237 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Koszty związane z utworzeniem podmiotu zarządzającego aktywami, wydatki na objęcie jego praw udziałowych oraz koszty jego działalności nieznajdujące pokrycia w jego przychodach stanowią koszt przymusowej restrukturyzacji, z zastrzeżeniem art. 227.”;
+- **38)** w art. 270 ust. 2 otrzymuje brzmienie: „2. Fundusz może emitować obligacje na zasadach i w trybie określonych w rozdziale 7 albo na podstawie odrębnych ustaw.”;
+- **39)** w art. 272:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Środki funduszu gwarancyjnego banków i funduszu gwarancyjnego kas przeznacza się na finansowanie przymusowej restrukturyzacji w zakresie, w jakim służą one zapewnieniu dostępu deponentów do środków gwarantowanych w przymusowej restrukturyzacji, w szczególności w przypadkach, o których mowa w art. 179, art. 188 ust. 5 i 5a oraz art. 202 ust. 4 i 5.”,
+    - **b)** uchyla się ust. 4 i 5,
+    - **c)** ust. 7 otrzymuje brzmienie: „7. Jeżeli oszacowanie, o którym mowa w art. 241 ust. 1, wykaże, że wysokość środków przekazanych zgodnie z ust. 3 jest wyższa niż wysokość wynikająca z konieczności wypłaty środków gwarantowanych w postępowaniu upadłościowym, pomniejszona o przewidywane kwoty zaspokojenia roszczeń z tytułu wypłaty środków gwarantowanych w takim postępowaniu, powstałą różnicę przekazuje się z funduszu przymusowej restrukturyzacji na fundusz gwarancyjny banków albo na fundusz gwarancyjny kas.”;
+
+- **40)** w art. 287:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Docelowy poziom środków systemu gwarantowania depozytów w bankach wynosi 2,6% kwoty środków gwarantowanych w bankach i oddziałach banków zagranicznych objętych obowiązkowym systemem gwarantowania depozytów, przy czym poziom ten może być obniżany przez Radę Funduszu do poziomu nie niższego niż 1,6% kwoty środków gwarantowanych w bankach i oddziałach banków zagranicznych objętych obowiązkowym systemem gwarantowania depozytów.”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Rada Funduszu, obniżając docelowy poziom środków systemu gwarantowania depozytów w bankach, bierze pod uwagę w szczególności:
+
+- **1)** bieżący poziom środków systemu gwarantowania depozytów w bankach;
+- **2)** wysokość środków zgromadzonych przez systemy ochrony instytucjonalnej i systemy ochrony, o których mowa w art. 4 ust. 1 pkt 9a ustawy – Prawo bankowe;
+- **3)** sytuację ekonomiczno-finansową sektora bankowego;
+- **4)** stanowisko jednostki zarządzającej systemem ochrony, o której mowa w art. 130e ust. 1 ustawy – Prawo bankowe.
+
+2b. Rada Funduszu przed ustaleniem docelowego poziomu środków systemu gwarantowania depozytów w bankach zasięga opinii Komitetu Stabilności Finansowej, o którym mowa w art. 3 ust. 1 ustawy o nadzorze makroostrożnościowym.”;
+
+- **41)** w dziale V dodaje się rozdział 7 w brzmieniu: „Rozdział 7 Zasady i tryb emisji obligacji gwarantowanych przez Skarb Państwa
 
 **Art. 316a.**
 
@@ -780,9 +1173,16 @@ source: "isap-pdf"
 
 **Art. 18.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933 oraz z 2022 r. poz. 807) wprowadza się następujące zmiany:
 
+- **1)** w art. 11 w ust. 3 uchyla się pkt 4;
+- **2)** w art. 13 w ust. 2 uchyla się pkt 2.
+
 **Art. 19.** W ustawie z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2020 r. poz. 1027 i 2320) w art. 21 w ust. 8 wyrazy „art. 2 pkt 1” zastępuje się wyrazami „art. 2 pkt 4”.
 
 **Art. 20.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598, 2054 i 2269 oraz z 2022 r. poz. 25) w art. 11 w ust. 5:
+
+- **1)** w pkt 11 uchyla się lit. c;
+- **2)** uchyla się pkt 12;
+- **3)** w pkt 13 lit. a otrzymuje brzmienie: „a) dokonanie aktualizacji oszacowania, o którym mowa w art. 19f ust. 8 tej ustawy,”.
 
 **Art. 21.** Postępowanie w sprawie wniosku o wpis w księdze wieczystej informacji, o której mowa w art. 24 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, podlega umorzeniu.
 
@@ -799,6 +1199,11 @@ source: "isap-pdf"
 **Art. 24.** W zakresie monitorowania przez Komisję Nadzoru Finansowego spełniania przez listy zastawne wyemitowane przed dniem wejścia w życie niniejszej ustawy wymogów określonych w przepisach ustawy zmienianej w art. 1 stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z wyjątkiem art. 7a tej ustawy, oraz stosuje się przepis art. 7a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
 **Art. 25.** Do listów zastawnych wyemitowanych przed dniem wejścia w życie niniejszej ustawy w ramach tego samego Międzynarodowego Numeru Identyfikacyjnego Papierów Wartościowych (emisje ciągłe) stosuje się, nie dłużej jednak niż do dnia 8 lipca 2024 r., przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z wyjątkiem art. 7a tej ustawy, oraz stosuje się przepis art. 7a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, jeżeli łącznie są spełnione następujące warunki:
+
+- **1)** termin zapadalności listów zastawnych przypada przed dniem 8 lipca 2027 r.;
+- **2)** łączna wielkość emisji w ramach tego samego Międzynarodowego Numeru Identyfikacyjnego Papierów Wartościowych od dnia wejścia w życie niniejszej ustawy nie będzie wyższa niż dwukrotność łącznej wielkości emisji listów zastawnych znajdujących się w obrocie według stanu na dzień wejścia w życie niniejszej ustawy;
+- **3)** łączna wielkość emisji listów zastawnych w terminie zapadalności nie jest wyższa niż 6 000 000 000 euro lub równowartość tej kwoty w złotych ustalona przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu wejścia w życie niniejszej ustawy;
+- **4)** nieruchomości, które zabezpieczają aktywa stanowiące zabezpieczenie listów zastawnych, znajdują się na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 26.**
 
@@ -860,4 +1265,10 @@ source: "isap-pdf"
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 2 ustawy zmienianej w art. 12 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 2 ustawy zmienianej w art. 12, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszego przepisu.
 
 **Art. 36.** Ustawa wchodzi w życie z dniem 8 lipca 2022 r., z wyjątkiem:
+
+- **1)** art. 13, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 3, art. 4, art. 5 pkt 1, 2 i 4–7, art. 6, art. 7 pkt 1 i 6, art. 10, art. 14, art. 15, art. 16 pkt 1–20, pkt 22 lit. a i b, pkt 23–26, 28–30 i 32–43, art. 17, art. 20, art. 33 i art. 34, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 11, art. 16 pkt 21, pkt 22 lit. c, pkt 27 i 31, art. 18 i art. 28–32, które wchodzą w życie z dniem 30 maja 2022 r.;
+- **4)** art. 12 pkt 2 i 3 oraz art. 35 ust. 2, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+
 

@@ -8,7 +8,7 @@ pos: 1043
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin
@@ -33,7 +33,33 @@ Art. 83–96. (pominięte)
 
 **Art. 1.** Ustawa określa zasady i warunki wjazdu na terytorium Rzeczypospolitej Polskiej, pobytu oraz wyjazdu z tego terytorium:
 
+- **1)** obywateli państw członkowskich Unii Europejskiej,
+- **2)** obywateli państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym,
+- **3)** obywateli Konfederacji Szwajcarskiej, 3a) obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7), zwanej dalej „Umową Wystąpienia”, zwanych dalej „obywatelami Zjednoczonego Królestwa”,
+- **4)** członków rodzin obywateli, o których mowa w pkt 1–3, którzy do nich dołączają lub z nimi przebywają,
+- **5)** członków rodzin obywateli Rzeczypospolitej Polskiej, którzy do nich dołączają lub z nimi przebywają,
+- **6)** członków rodzin obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. e i f Umowy Wystąpienia, zwanych dalej „członkami rodzin obywateli Zjednoczonego Królestwa” – a także tryb postępowania i organy właściwe w tych sprawach.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** granica – granicę państwową Rzeczypospolitej Polskiej w rozumieniu przepisów ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r. poz. 184);
+- **2)** dokument podróży – dokument podróży w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619, 621 i 622);
+- **2a)** kraj pochodzenia – państwo, którego obywatelem jest cudzoziemiec, a w przypadku cudzoziemca, którego obywatelstwa nie da się ustalić lub który nie posiada obywatelstwa żadnego państwa – państwo, w którym stale zamieszkuje;
+- **3)** obywatel UE – cudzoziemca:
+    - **a)** obywatela państwa członkowskiego Unii Europejskiej,
+    - **b)** obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym,
+    - **c)** obywatela Konfederacji Szwajcarskiej,
+    - **d)** obywatela Zjednoczonego Królestwa;
+
+- **4)** członek rodziny:
+    - **a)** w przypadku członka rodziny obywatela UE, o którym mowa w pkt 3 lit. a– c – cudzoziemca będącego lub niebędącego obywatelem UE: – małżonka obywatela UE, – bezpośredniego zstępnego obywatela UE lub jego małżonka, w wieku do 21 lat lub pozostającego na utrzymaniu obywatela UE lub jego małżonka, – bezpośredniego wstępnego obywatela UE lub jego małżonka, pozostającego na utrzymaniu obywatela UE lub jego małżonka, – bezpośredniego wstępnego małoletniego obywatela UE, sprawującego faktyczną opiekę nad tym małoletnim obywatelem UE i na którego utrzymaniu ten małoletni obywatel UE pozostaje,
+    - **b)** w przypadku członka rodziny obywatela Rzeczypospolitej Polskiej – cudzoziemca niebędącego obywatelem UE: – małżonka obywatela Rzeczypospolitej Polskiej w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – związek małżeński z obywatelem Rzeczypospolitej Polskiej został zawarty przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – małżonka obywatela Rzeczypospolitej Polskiej posiadającego poprzednio obywatelstwo innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, – bezpośredniego zstępnego obywatela Rzeczypospolitej Polskiej lub jego małżonka, w wieku do 21 lat lub pozostającego na utrzymaniu obywatela Rzeczypospolitej Polskiej lub jego małżonka, w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – życie rodzinne z obywatelem Rzeczypospolitej Polskiej zostało rozwinięte lub umocnione przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – bezpośredniego wstępnego obywatela Rzeczypospolitej Polskiej lub jego małżonka, pozostającego na utrzymaniu obywatela Rzeczypospolitej Polskiej lub jego małżonka, w przypadku spełnienia łącznie następujących warunków: – – obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – życie rodzinne z obywatelem Rzeczypospolitej Polskiej zostało rozwinięte lub umocnione przed pobytem w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub w trakcie pobytu w tym państwie, – – obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – bezpośredniego wstępnego małoletniego obywatela Rzeczypospolitej Polskiej, w przypadku spełnienia łącznie następujących warunków: – – małoletni obywatel Rzeczypospolitej Polskiej bezpośrednio przed przyjazdem na terytorium Rzeczypospolitej Polskiej posiadał prawo pobytu powyżej 3 miesięcy lub prawo stałego pobytu w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, – – małoletni obywatel Rzeczypospolitej Polskiej zamierza ponownie zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – – bezpośredni wstępny sprawuje faktyczną opiekę nad tym małoletnim obywatelem Rzeczypospolitej Polskiej, – – małoletni obywatel Rzeczypospolitej Polskiej pozostaje na utrzymaniu bezpośredniego wstępnego, – bezpośredniego wstępnego małoletniego obywatela Rzeczypospolitej Polskiej, w przypadku spełnienia łącznie następujących warunków: – – małoletni obywatel Rzeczypospolitej Polskiej zamierza zamieszkać na terytorium Rzeczypospolitej Polskiej na stałe, – – bezpośredni wstępny sprawuje samodzielnie faktyczną opiekę nad tym małoletnim obywatelem Rzeczypospolitej Polskiej, – – małoletni obywatel Rzeczypospolitej Polskiej pozostaje na utrzymaniu bezpośredniego wstępnego,
+    - **c)** w przypadku członka rodziny obywatela UE, o którym mowa w pkt 3 lit. d – cudzoziemca, o którym mowa w art. 9 lit. a Umowy Wystąpienia;
+
+- **5)** osoba pracująca na własny rachunek – osobę fizyczną będącą przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ), a także każdą inną osobę fizyczną wykonującą działalność zarobkową we własnym imieniu i na własny rachunek, nawet gdy inne ustawy nie zaliczają tej działalności do działalności gospodarczej, lub osoby wykonującej taką działalność do przedsiębiorców;
+- **6)** państwo członkowskie – państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, Konfederację Szwajcarską;
+- **7)** pracownik – osobę pozostającą w stosunku pracy, a także osobę wykonującą pracę w ramach umowy cywilnoprawnej;
+- **8)** wiza – wizę w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 
 **Art. 2a.**
 
@@ -62,6 +88,13 @@ Art. 83–96. (pominięte)
 
 **Art. 6.** Organy właściwe w sprawach uregulowanych w ustawie są obowiązane do pouczenia obywatela UE i członka rodziny w języku dla nich zrozumiałym o:
 
+- **1)** zasadach i trybie postępowania w tych sprawach;
+- **2)** przysługujących im prawach i ciążących na nich obowiązkach;
+- **3)** treści decyzji, na podstawie których odmawia się wjazdu lub wydania wizy, cofa się lub unieważnia wizę, odmawia się zarejestrowania pobytu lub unieważnia się zarejestrowanie pobytu;
+- **4)** treści decyzji, na podstawie których odmawia się wydania dokumentów określonych w ustawie lub unieważnia się te dokumenty;
+- **5)** treści decyzji o wydaleniu;
+- **6)** trybie i terminie wnoszenia odwołania lub innych zwykłych środków zaskarżenia.
+
 **Art. 7.**
 
 1. Wnioski w sprawach uregulowanych w ustawie sporządza się w języku polskim i składa na formularzach.
@@ -73,6 +106,37 @@ Art. 83–96. (pominięte)
 **Art. 7a.** W postępowaniach w sprawach uregulowanych w ustawie obywatel UE lub członek rodziny obywatela UE w razie braku możliwości okazania dokumentu podróży lub innego dokumentu potwierdzającego tożsamość i obywatelstwo, mogą przedstawić inny dowód niż dokument urzędowy, który pozwoli potwierdzić ich tożsamość i obywatelstwo w niebudzący wątpliwości sposób.
 
 **Art. 8.** W postępowaniach oraz rejestrach prowadzonych na podstawie ustawy mogą być przetwarzane następujące dane:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** nazwisko poprzednie;
+- **3)** płeć;
+- **4)** imię ojca;
+- **5)** imię matki;
+- **6)** data urodzenia;
+- **7)** miejsce i kraj urodzenia;
+- **8)** rysopis:
+    - **a)** wzrost w centymetrach,
+    - **b)** kolor oczu,
+    - **c)** znaki szczególne;
+
+- **9)** odciski linii papilarnych;
+- **10)** obywatelstwo (obywatelstwa);
+- **11)** stan cywilny;
+- **12)** miejsce zamieszkania lub pobytu;
+- **13)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL);
+- **14)** wizerunek twarzy;
+- **15)** adres w kraju pochodzenia;
+- **16)** adres w kraju poprzedniego zamieszkania;
+- **17)** dane dotyczące dokumentu podróży:
+    - **a)** seria i numer,
+    - **b)** data wydania i data upływu ważności,
+    - **c)** nazwa i kraj organu wydającego,
+    - **d)** liczba osób wpisanych do dokumentu podróży;
+
+- **18)** dane dotyczące dokumentu potwierdzającego tożsamość:
+    - **a)** seria i numer,
+    - **b)** data wydania i data upływu ważności,
+    - **c)** nazwa i kraj organu wydającego.
 
 **Art. 8a.**
 
@@ -143,9 +207,27 @@ Art. 83–96. (pominięte)
 
 **Art. 10b.** Wizę unieważnia się, jeżeli w chwili jej wydania zachodziły następujące okoliczności:
 
+- **1)** obowiązywał wpis danych członka rodziny niebędącego obywatelem UE do wykazu lub
+- **2)** członek rodziny niebędący obywatelem UE nie spełniał przesłanek jej wydania, lub
+- **3)** w postępowaniu o wydanie wizy członek rodziny niebędący obywatelem UE:
+    - **a)** złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub informacje lub
+    - **b)** zeznał nieprawdę lub zataił prawdę albo podrobił lub przerobił dokument w celu jego użycia jako autentycznego lub takiego dokumentu używał jako autentycznego, lub
+
+- **4)** członek rodziny niebędący obywatelem UE ubiegał się o wydanie wizy w celu obejścia przepisów prawa obowiązujących w innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu na tym terytorium oraz wyjazdu z niego, lub
+- **5)** związek małżeński członka rodziny niebędącego obywatelem UE został zawarty z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej w celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego, lub
+- **6)** względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego wymagały odmowy jej wydania, lub
+- **7)** względy zdrowia publicznego wymagały odmowy jej wydania.
+
 **Art. 10c.** Wizę cofa lub unieważnia w drodze decyzji:
 
+- **1)** konsul;
+- **2)** komendant oddziału Straży Granicznej;
+- **3)** komendant placówki Straży Granicznej.
+
 **Art. 10d.** Od decyzji o cofnięciu lub unieważnieniu wizy wydanej przez:
+
+- **1)** konsula – przysługuje odwołanie do ministra właściwego do spraw zagranicznych;
+- **2)** komendanta oddziału Straży Granicznej lub komendanta placówki Straży Granicznej – przysługuje odwołanie do Komendanta Głównego Straży Granicznej.
 
 **Art. 10e.** <1.> Wydanie decyzji o cofnięciu lub unieważnieniu wizy odnotowuje się w dokumencie podróży. <2. Organ, który unieważnił lub cofnął członkowi rodziny niebędącemu obywatelem UE wizę Schengen, niezwłocznie pobiera dane, o których mowa w art. 19 ust. 1 rozporządzenia nr 2017/2226, z Wizowego Systemu Informacyjnego i importuje je bezpośrednio do ostatniego wpisu dotyczącego wjazdu/wyjazdu tego cudzoziemca zarejestrowanego w EES, zgodnie z art. 13 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS) (Dz. Urz. UE L 218 z 13.08.2008, str. 60, z późn. zm. ).>
 
@@ -216,6 +298,20 @@ Art. 83–96. (pominięte)
 
 **Art. 16.** Obywatelowi UE przysługuje prawo pobytu przez okres dłuższy niż 3 miesiące, w przypadku gdy spełnia jeden z następujących warunków:
 
+- **1)** jest pracownikiem lub osobą pracującą na własny rachunek na terytorium Rzeczypospolitej Polskiej;
+- **2)** posiada wystarczające środki finansowe do utrzymania siebie i członków rodziny na terytorium Rzeczypospolitej Polskiej, tak aby nie stanowić obciążenia dla pomocy społecznej, oraz:
+    - **a)** posiada ubezpieczenie zdrowotne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) lub
+    - **b)** jest osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 23 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, lub
+    - **c)** posiada dokument potwierdzający posiadanie prywatnego ubezpieczenia zdrowotnego, pokrywającego wszelkie wydatki, które mogą wyniknąć podczas pobytu na terytorium Rzeczypospolitej Polskiej w związku z potrzebą pomocy medycznej lub leczeniem szpitalnym, w którym ubezpieczyciel zobowiązuje się do pokrycia kosztów udzielonych ubezpieczonemu świadczeń zdrowotnych bezpośrednio na rzecz podmiotu udzielającego takich świadczeń, na podstawie wystawionego przez ten podmiot rachunku;
+
+- **3)** studiuje lub odbywa szkolenie zawodowe w Rzeczypospolitej Polskiej oraz:
+    - **a)** posiada wystarczające środki finansowe do utrzymania siebie i członków rodziny na terytorium Rzeczypospolitej Polskiej, tak aby nie stanowić obciążenia dla pomocy społecznej, oraz
+    - **b)** posiada ubezpieczenie zdrowotne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub
+    - **c)** jest osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 23 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, lub
+    - **d)** posiada dokument potwierdzający posiadanie prywatnego ubezpieczenia zdrowotnego, pokrywającego wszelkie wydatki, które mogą wyniknąć podczas pobytu na terytorium Rzeczypospolitej Polskiej w związku z potrzebą pomocy medycznej lub leczeniem szpitalnym, w którym ubezpieczyciel zobowiązuje się do pokrycia kosztów udzielonych ubezpieczonemu świadczeń zdrowotnych bezpośrednio na rzecz podmiotu udzielającego takich świadczeń, na podstawie wystawionego przez ten podmiot rachunku;
+
+- **4)** jest małżonkiem obywatela Rzeczypospolitej Polskiej.
+
 **Art. 17.**
 
 1. Obywatel UE, który przestał być pracownikiem lub osobą pracującą na własny rachunek, zachowuje prawo pobytu przysługujące pracownikowi lub osobie pracującej na własny rachunek w następujących przypadkach:
@@ -227,6 +323,9 @@ Art. 83–96. (pominięte)
 2. Jeżeli okres wykonywania pracy lub wykonywania innej działalności zarobkowej we własnym imieniu i na własny rachunek na terytorium Rzeczypospolitej Polskiej poprzedzający bezrobocie, o którym mowa w ust. 1 pkt 2, był krótszy niż rok, prawo pobytu przysługujące pracownikowi lub osobie pracującej na własny rachunek obywatel UE zachowuje przez okres 6 miesięcy od dnia zarejestrowania się we właściwym powiatowym urzędzie pracy.
 
 **Art. 18.** Prawo pobytu przysługujące obywatelowi UE, o którym mowa w art. 16:
+
+- **1)** pkt 1 i 2 oraz w art. 17, rozciąga się na członka rodziny dołączającego do niego lub przebywającego z nim na terytorium Rzeczypospolitej Polskiej;
+- **2)** pkt 3, rozciąga się na małżonka i dziecko pozostające na jego utrzymaniu lub na utrzymaniu małżonka, dołączających do niego lub przebywających z nim na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 18a.** Członkowi rodziny obywatela Rzeczypospolitej Polskiej, o którym mowa w art. 2 pkt 4 lit. b, przysługuje prawo pobytu, jeżeli dołącza do obywatela Rzeczypospolitej Polskiej lub przebywa z nim na terytorium Rzeczypospolitej Polskiej.
 
@@ -306,6 +405,14 @@ Art. 83–96. (pominięte)
 2. Przy ocenie spełniania warunku posiadania wystarczających środków finansowych, o którym mowa w art. 16 pkt 2 lub 3 lit. a, uwzględnia się udział obywatela UE w programach pomocowych współfinansowanych ze środków unijnych, mających na celu zwalczanie wykluczenia społecznego i wzmocnienie integracji społecznej.
 
 **Art. 25.** Jeżeli w postępowaniu o wydanie karty pobytowej okoliczności sprawy wskazują, że:
+
+- **1)** jedno z małżonków przyjęło korzyść majątkową w zamian za wyrażenie zgody na zawarcie małżeństwa, o ile nie wynika to ze zwyczaju ugruntowanego w danym państwie lub grupie społecznej,
+- **2)** małżonkowie nie wypełniają prawnych obowiązków wynikających z zawarcia małżeństwa,
+- **3)** małżonkowie nie zamieszkują wspólnie,
+- **4)** małżonkowie nie spotkali się nigdy przed zawarciem małżeństwa,
+- **5)** małżonkowie nie mówią językiem zrozumiałym dla obojga,
+- **6)** małżonkowie nie są zgodni co do dotyczących ich danych osobowych i innych istotnych okoliczności, które ich dotyczą,
+- **7)** jedno z małżonków lub oboje małżonkowie w przeszłości zawierali już małżeństwa w celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego – organ prowadzący postępowanie ustala, czy związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty w celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego.
 
 **Art. 25a.**
 
@@ -528,9 +635,34 @@ Art. 83–96. (pominięte)
 
 **Art. 37a.** Zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową anuluje się w przypadku:
 
+- **1)** gdy zostały utracone albo uszkodzone – z dniem zgłoszenia utraty albo uszkodzenia do właściwego organu;
+- **2)** gdy zachodzi potrzeba ich wymiany z powodu:
+    - **a)** zmiany wizerunku twarzy posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej w stosunku do wizerunku twarzy umieszczonego w tym zaświadczeniu lub w tej karcie pobytowej w stopniu utrudniającym lub uniemożliwiającym identyfikację ich posiadacza,
+    - **b)** zmiany danych w nich umieszczonych – z dniem odbioru nowego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub nowej karty pobytowej;
+
+- **3)** nabycia przez obywatela UE lub członka rodziny niebędącego obywatelem UE obywatelstwa polskiego – z dniem upływu terminu zwrotu zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej;
+- **4)** zgonu posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej – z dniem uzyskania przez organ, który je wydał, informacji o zgonie obywatela UE lub członka rodziny niebędącego obywatelem UE;
+- **5)** gdy zaświadczenie o zarejestrowaniu pobytu obywatela UE lub karta pobytowa nie zostały zwrócone po wydaniu decyzji o ich unieważnieniu.
+
 **Art. 37b.** Zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową anuluje:
 
+- **1)** organ, który je wydał, w przypadku:
+    - **a)** nabycia przez posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej obywatelstwa polskiego,
+    - **b)** zgonu posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej,
+    - **c)** gdy decyzja o unieważnieniu zarejestrowania pobytu lub karty pobytowej stała się ostateczna,
+    - **d)** przekazania cudzego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub cudzej karty pobytowej przez osobę, która je znalazła, chyba że zostały one już unieważnione,
+    - **e)** zwrócenia odzyskanego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub odzyskanej karty pobytowej, chyba że zostały one już unieważnione;
+
+- **2)** organ, który wymienia zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową, w przypadku:
+    - **a)** zgłoszenia do właściwego organu ich uszkodzenia,
+    - **b)** odbioru nowego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub nowej karty pobytowej w przypadku zmiany danych w nich zamieszczonych lub ich uszkodzenia.
+
 **Art. 37c.** W przypadku gdy organ prowadzący kontrolę graniczną lub kontrolę legalności pobytu ustali, że obywatel UE lub członek rodziny niebędący obywatelem UE posługuje się zaświadczeniem o zarejestrowaniu pobytu obywatela UE lub kartą pobytową, które był obowiązany zwrócić na podstawie art. 37 ust. 1, organ ten:
+
+- **1)** zatrzymuje takie zaświadczenie lub taką kartę;
+- **2)** wydaje nieodpłatnie zaświadczenie potwierdzające zatrzymanie takiego zaświadczenia lub takiej karty;
+- **3)** przesyła zatrzymane zaświadczenie lub zatrzymaną kartę organowi, który je wydał;
+- **4)** dokumentuje realizację czynności, o których mowa w pkt 1–3.
 
 **Art. 37d.**
 
@@ -832,6 +964,11 @@ Art. 83–96. (pominięte)
 **Art. 61a.** Do anulowania dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu stosuje się odpowiednio przepisy art. 37a, art. 37b i art. 37d.
 
 **Art. 61b.** W przypadku gdy organ prowadzący kontrolę graniczną lub kontrolę legalności pobytu ustali, że obywatel UE lub członek rodziny niebędący obywatelem UE posługuje się dokumentem potwierdzającym prawo stałego pobytu lub kartą stałego pobytu, które był obowiązany zwrócić na podstawie art. 61 ust. 1, organ ten:
+
+- **1)** zatrzymuje taki dokument lub kartę;
+- **2)** wydaje nieodpłatnie zaświadczenie potwierdzające zatrzymanie takiego dokumentu lub takiej karty;
+- **3)** przesyła zatrzymany dokument lub zatrzymaną kartę organowi, który je wydał;
+- **4)** dokumentuje realizację czynności, o których mowa w pkt 1–3.
 
 **Art. 62.** Odmowa wydania lub wymiany dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu oraz ich unieważnienie następuje w drodze decyzji.
 
@@ -1149,7 +1286,16 @@ Art. 83–96. (pominięte)
 
 **Art. 69.** Małoletniemu obywatelowi UE decyzja o wydaleniu może być wydana tylko w przypadku, gdy:
 
+- **1)** zachodzą okoliczności, o których mowa w art. 68, lub
+- **2)** przemawia za tym dobro dziecka zgodnie z Konwencją o prawach dziecka, przyjętą przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 20 listopada 1989 r. (Dz. U. z 1991 r. poz. 526, z 2000 r. poz. 11, z 2012 r. poz. 1333 oraz z 2013 r. poz. 677).
+
 **Art. 70.** W postępowaniu o wydalenie obywatela UE lub członka rodziny niebędącego obywatelem UE uwzględnia się w szczególności:
+
+- **1)** okres pobytu na terytorium Rzeczypospolitej Polskiej;
+- **2)** wiek i stan zdrowia;
+- **3)** sytuację rodzinną i ekonomiczną;
+- **4)** stopień integracji społecznej i kulturalnej w Rzeczypospolitej Polskiej;
+- **5)** stopień więzi z krajem pochodzenia.
 
 **Art. 71.**
 
@@ -1231,7 +1377,13 @@ Art. 83–96. (pominięte)
 
 **Art. 74b.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** treść wniosku o wydanie decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, uwzględniając potrzebę zapewnienia sprawności i prawidłowości postępowania, a w szczególności konieczność uzyskania informacji niezbędnych do wydania decyzji o wydaleniu;
+- **2)** sposób odnotowywania w dokumencie podróży wydania decyzji o wydaleniu, uwzględniając zapewnienie możliwości ustalenia podczas kontroli dokumentu podróży obywatela UE lub członka rodziny niebędącego obywatelem UE, że decyzja ta została wydana.
+
 **Art. 75.** Komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który wydał decyzję o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, uchyla tę decyzję, jeżeli nie została wykonana po upływie 2 lat od dnia jej wydania, w przypadku gdy:
+
+- **1)** obywatel UE lub członek rodziny niebędący obywatelem UE nie stanowi już rzeczywistego zagrożenia dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego lub
+- **2)** okoliczności, które miały wpływ na wydanie decyzji o wydaleniu uległy istotnej zmianie.
 
 **Art. 76.** Do czasu zakończenia postępowania w sprawie uchylenia decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, o którym mowa w art. 75, decyzji tych nie wykonuje się.
 
@@ -1289,6 +1441,10 @@ Art. 83–96. (pominięte)
 - **4)** jeżeli ustanie przyczyna zatrzymania, o której mowa w ust. 1 i 2.
 
 **Art. 78b.** Obywatela UE lub członka rodziny niebędącego obywatelem UE umieszcza się w strzeżonym ośrodku, jeżeli:
+
+- **1)** istnieje prawdopodobieństwo wydania decyzji o wydaleniu, w której nie będzie określony termin opuszczenia terytorium Rzeczypospolitej Polskiej albo będzie określony termin krótszy niż 31 dni, lub
+- **2)** wydano decyzję o wydaleniu, w której nie określono terminu opuszczenia terytorium Rzeczypospolitej Polskiej albo określony termin jest krótszy niż 31 dni i istnieje konieczność zabezpieczenia jej przymusowego wykonania, lub
+- **3)** nie opuścili oni terytorium Rzeczypospolitej Polskiej w terminie określonym w decyzji o wydaleniu.
 
 **Art. 78c.**
 
@@ -1355,9 +1511,50 @@ Art. 83–96. (pominięte)
 
 **Art. 79.** W sprawach dotyczących obywateli UE i członków rodzin niebędących obywatelami UE prowadzi się w systemie informatycznym następujące rejestry:
 
+- **1)** pobytu obywatela UE;
+- **2)** kart pobytowych;
+- **3)** dokumentów potwierdzających prawo stałego pobytu;
+- **4)** kart stałego pobytu;
+- **5)** zaświadczeń, o których mowa w art. 41a ust. 1.
+
 **Art. 79a.** Rejestry w sprawach dotyczących obywateli UE i członków rodzin niebędących obywatelami UE prowadzą:
 
+- **1)** wojewoda i Szef Urzędu do Spraw Cudzoziemców, każdy w swoim zakresie – w przypadku rejestrów, o których mowa w art. 79 pkt 1–4;
+- **2)** minister właściwy do spraw wewnętrznych – w przypadku rejestru, o którym mowa w art. 79 pkt 5.
+
 **Art. 80.** W rejestrach przechowuje się dane, o których mowa w art. 8, dotyczące obywateli UE i członków rodzin niebędących obywatelami UE, wobec których prowadzi się postępowania w sprawach uregulowanych w ustawie, a ponadto:
+
+- **1)** w rejestrze, o którym mowa w art. 79 pkt 1, przechowuje się:
+    - **a)** informacje o wnioskach dotyczących zarejestrowania pobytu, wydania nowego i wymiany zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,
+    - **b)** informacje dotyczące zarejestrowania pobytu,
+    - **c)** imię, nazwisko i stanowisko służbowe pracownika dokonującego wpisu do rejestru,
+    - **d)** informacje o wydaniu nowego i wymianie zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,
+    - **e)** informacje o decyzjach administracyjnych, postanowieniach i wyrokach sądu dotyczących odmowy i unieważnienia zarejestrowania pobytu,
+    - **f)** informacje o dacie wydania, numerze, serii i dacie upływu okresu ważności zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,
+    - **g)** obraz linii papilarnych – w przypadku obywateli Zjednoczonego Królestwa;
+
+- **2)** w rejestrze, o którym mowa w art. 79 pkt 2, przechowuje się informacje o:
+    - **a)** wnioskach o wydanie karty pobytowej, wydanie nowej karty pobytowej i wymianę karty pobytowej,
+    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności karty pobytowej,
+    - **c)** decyzjach administracyjnych, postanowieniach i wyrokach sądu dotyczących wymiany i unieważnienia karty pobytowej,
+    - **d)** obrazie linii papilarnych;
+
+- **3)** w rejestrze, o którym mowa w art. 79 pkt 3, przechowuje się informacje o:
+    - **a)** wnioskach o wydanie dokumentu potwierdzającego prawo stałego pobytu, wydanie nowego dokumentu potwierdzającego prawo stałego pobytu i wymianę dokumentu potwierdzającego prawo stałego pobytu,
+    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności dokumentu potwierdzającego prawo stałego pobytu,
+    - **c)** decyzjach administracyjnych, postanowieniach i wyrokach sądu dotyczących wymiany i unieważnienia dokumentu potwierdzającego prawo stałego pobytu,
+    - **d)** obrazie linii papilarnych – w przypadku obywateli Zjednoczonego Królestwa;
+
+- **4)** w rejestrze, o którym mowa w art. 79 pkt 4, przechowuje się informacje o:
+    - **a)** wnioskach o wydanie karty stałego pobytu, wydanie nowej karty stałego pobytu i wymianę karty stałego pobytu,
+    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności karty stałego pobytu,
+    - **c)** decyzjach administracyjnych, postanowieniach i wyrokach sądu dotyczących wymiany i unieważnienia karty stałego pobytu,
+    - **d)** obrazie linii papilarnych;
+
+- **5)** w rejestrze, o którym mowa w art. 79 pkt 5, przechowuje się informacje o:
+    - **a)** organie, który wydał zaświadczenie, o którym mowa w art. 41a ust. 1,
+    - **b)** dacie wydania zaświadczenia, o którym mowa w art. 41a ust. 1,
+    - **c)** dacie unieważnienia zaświadczenia, o którym mowa w art. 41a ust. 1.
 
 **Art. 80a.**
 
@@ -1374,6 +1571,11 @@ Art. 83–96. (pominięte)
 #### Rozdział 7 Przepisy karne
 
 **Art. 81.** Kto:
+
+- **1)** nie dopełnia obowiązku zarejestrowania pobytu na terytorium Rzeczypospolitej Polskiej,
+- **2)** uchyla się od obowiązku posiadania albo wymiany karty pobytowej lub karty stałego pobytu,
+- **3)** wbrew obowiązkowi nie zwraca zaświadczenia o zarejestrowaniu pobytu obywatela UE, karty pobytowej, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu,
+- **4)** wbrew obowiązkowi nie zawiadamia o utracie zaświadczenia o zarejestrowaniu pobytu obywatela UE, karty pobytowej, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu w terminie 3 dni od dnia ich utraty – podlega karze grzywny.
 
 **Art. 82.** Orzekanie w sprawach o czyny, o których mowa w art. 81, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860).
 

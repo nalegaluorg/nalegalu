@@ -8,10 +8,12 @@ pos: 687
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# dnia 31 lipca 1997 r.
+# o Polskiej Agencji Prasowej
+
+*USTAWA z dnia 31 lipca 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,52 +27,135 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971070687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/687/text.pdf) |
 
-Polska Agencja Prasowa, mająca charakter publicznej agencji prasowej, uzyskuje przekazuje odbiorcom rzetelne, obiektywne wszechstronne informacje kraju zagranicy.
-2. Polska Agencja Prasowa ma obowiązek upowszechniać stanowiska Sejmu, Senatu, Prezydenta Rzeczypospolitej Rady Ministrów.
-3. Polska Agencja Prasowa umożliwia innym naczelnym organom państwa prezentowanie stanowisk ważnych sprawach państwowych.
-2. Polska Agencja Prasowa nie może znaleźć się pod prawną, ekonomiczną lub inną kontrolą jakiegokolwiek ugrupowania ideologicznego, politycznego lub gospodarczego.
-3. Minister Skarbu Państwa imieniu Skarbu Państwa przekształci Polską Agencję Prasową spółkę akcyjną Skarbu Państwa – „Polska Agencja Prasowa Spółka Akcyjna”, zwaną dalej „Spółką”.
-2. Siedzibą jest miasto Warszawa.
-4. Przychodami są wpływy opłat za serwisy informacyjne przekazywane odbiorcom oraz wpływy pochodzące innych źródeł.
-2. Spółka może prowadzić inną działalność gospodarczą, jeżeli nie pozostaje ona sprzeczności zadaniami określonymi ustawie.
-3. Przychodami są także dotacje podmiotowe budżetu państwa dofinansowanie działalności bieżącej Spółki, związanej realizacją celów, mowa
-4. Spółka składa ministra właściwego spraw kultury ochrony dziedzictwa narodowego wniosek udzielenie dotacji, wskazując szczegółowo zadania służące realizacji celów, mowa 1, kwotę dotacji, jaką wnosi Spółka, oraz szczegółowe uzasadnienie.
-określonych 1 oraz dla pozostałej działalności gospodarczej, tym prawidłowego przypisywania przychodów kosztów podstawie konsekwentnie stosowanych mających obiektywne uzasadnienie metod oraz
-2) jasnego określenia dokumentacji, której mowa 10 ustawy dnia 29 września 1994 r. rachunkowości (Dz. U. 2019 r. poz. 351), zasad prowadzenia odrębnej ewidencji oraz metod przypisywania kosztów przychodów, mowa pkt 1, oraz
-3) składania sprawozdań kwartalnych rocznych realizacji zadań objętych dotacją wykorzystania dotacji.
-7. Spółka przedstawia ministrowi właściwemu spraw kultury ochrony dziedzictwa narodowego rozliczenie otrzymanej dotacji.
-7a. Sprawozdania, mowa 6 pkt 3, rozliczenie, którym mowa udostępnia się także Radzie Mediów Narodowych.
-8. Minister właściwy spraw kultury ochrony dziedzictwa narodowego porozumieniu ministrem właściwym spraw finansów publicznych określi, drodze rozporządzenia, szczegółowy tryb przyznawania rozliczania dotacji, uwzględniając szczególności rzeczywiste koszty ponoszone przez Spółkę cele określone 1 zakres danych, które powinny być zawarte we wniosku udzielenie dotacji.
-5. Do stosuje się przepisy ustawy dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. 2019 r. poz. 505), chyba że ustawa stanowi inaczej.
-6. Zmiana statutu następuje wniosek lub za zgodą Rady Mediów Narodowych.
-2. Statut określa część kapitału własnego tworzącego kapitał zakładowy oraz część kapitału własnego tworzącego kapitał zapasowy.
-7. Skarb Państwa zachowuje wszystkie akcje Spółce.
-2. (uchylony) Mediów Narodowych.
-6. (uchylony)
-7. W przypadku przeniesienia całego majątku spółki powstałej wyniku komercjalizacji, zwanej dalej „spółką przejmowaną”, Spółkę osoby uprawnione nieodpłatnego nabycia od Skarbu Państwa udziałów albo akcji spółki przejmowanej, miejsce prawa nieodpłatnego nabycia udziałów albo akcji spółki przejmowanej, mogą skorzystać prawa nieodpłatnego nabycia akcji objętych przez Skarb Państwa wyniku przejęcia.
-8. Do nieodpłatnego nabycia akcji, którym mowa stosuje się odpowiednio przepisy działu IV ustawy dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników (Dz. U. 2018 r. poz. 2170 oraz 2019 r.
-poz. 492).
-9. Osobą uprawnioną nieodpłatnego nabycia akcji, którym mowa jest pracownik spółki przejmowanej, który spełnia warunki określone 2 pkt 5 ustawy dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników złożył oświadczenie zamiarze nabycia akcji podstawie 38 1 tej ustawy, albo jego spadkobierca, który złożył oświadczenie podstawie 38c 2 albo 3 tej ustawy.
-8. Zarząd liczy od 1 3 członków.
-2. Członków Zarządu, tym Prezesa Zarządu, powołuje odwołuje Rada Mediów Narodowych.
+**Art. 1.**
+
+1. Polska Agencja Prasowa, mająca charakter publicznej agencji prasowej, uzyskuje i przekazuje odbiorcom rzetelne, obiektywne i wszechstronne informacje z kraju i z zagranicy.
+
+2. Polska Agencja Prasowa ma obowiązek upowszechniać stanowiska Sejmu, Senatu, Prezydenta Rzeczypospolitej Polskiej i Rady Ministrów.
+
+3. Polska Agencja Prasowa umożliwia innym naczelnym organom państwa prezentowanie stanowisk w ważnych sprawach państwowych.
+
+**Art. 2.** Polska Agencja Prasowa nie może znaleźć się pod prawną, ekonomiczną lub inną kontrolą jakiegokolwiek ugrupowania ideologicznego, politycznego lub gospodarczego.
+
+**Art. 3.**
+
+1. Minister Skarbu Państwa w imieniu Skarbu Państwa przekształci Polską Agencję Prasową w spółkę akcyjną Skarbu Państwa – „Polska Agencja Prasowa Spółka Akcyjna”, zwaną dalej „Spółką”.
+
+2. Siedzibą Spółki jest miasto Warszawa.
+
+**Art. 4.**
+
+1. Przychodami Spółki są wpływy z opłat za serwisy informacyjne przekazywane odbiorcom oraz wpływy pochodzące z innych źródeł.
+
+2. Spółka może prowadzić inną działalność gospodarczą, jeżeli nie pozostaje ona w sprzeczności z zadaniami określonymi w ustawie.
+
+3. Przychodami Spółki są także dotacje podmiotowe z budżetu państwa na dofinansowanie działalności bieżącej Spółki, związanej z realizacją celów, o których mowa w art. 1.
+
+4. Spółka składa do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego wniosek o udzielenie dotacji, wskazując szczegółowo zadania służące realizacji celów, o których mowa w art. 1, kwotę dotacji, o jaką wnosi Spółka, oraz szczegółowe uzasadnienie.
+
+5. Dotacja nie może przewyższać różnicy pomiędzy koniecznymi, rzeczywistymi kosztami poniesionymi przez Spółkę na realizację celów, o których mowa w art. 1, a przychodami z tego tytułu.
+
+6. Spółka jest obowiązana do:
+
+- **1)** prowadzenia odrębnej ewidencji dla działalności związanej z realizacją celów określonych w art. 1 oraz dla pozostałej działalności gospodarczej, w tym do prawidłowego przypisywania przychodów i kosztów na podstawie konsekwentnie stosowanych i mających obiektywne uzasadnienie metod oraz
+- **2)** jasnego określenia w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351), zasad prowadzenia odrębnej ewidencji oraz metod przypisywania kosztów i przychodów, o których mowa w pkt 1, oraz
+- **3)** składania sprawozdań kwartalnych i rocznych z realizacji zadań objętych dotacją i wykorzystania dotacji.
+
+7. Spółka przedstawia ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego rozliczenie z otrzymanej dotacji.
+
+7a. Sprawozdania, o których mowa w ust. 6 pkt 3, i rozliczenie, o którym mowa w ust. 7, udostępnia się także Radzie Mediów Narodowych.
+
+8. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy tryb przyznawania i rozliczania dotacji, uwzględniając w szczególności rzeczywiste koszty ponoszone przez Spółkę na cele określone w art. 1 i zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji.
+
+**Art. 5.** Do Spółki stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505), chyba że ustawa stanowi inaczej.
+
+**Art. 6.**
+
+1. Zmiana statutu Spółki następuje na wniosek lub za zgodą Rady Mediów Narodowych.
+
+2. Statut Spółki określa część kapitału własnego tworzącego kapitał zakładowy oraz część kapitału własnego tworzącego kapitał zapasowy.
+
+**Art. 7.**
+
+1. Skarb Państwa zachowuje wszystkie akcje w Spółce.
+
+2. (uchylony)
+
 3. (uchylony)
-9. Rada Nadzorcza, powoływana przez Radę Mediów Narodowych, liczy 3 członków.
+
+4. Na Walnym Zgromadzeniu wszelkie prawa z akcji Spółki są wykonywane w taki sposób, aby nie zagrażało to zdolności Spółki do wykonywania zadań określonych w art. 1.
+
+5. W Walnym Zgromadzeniu mają prawo uczestniczyć także członkowie Rady Mediów Narodowych.
+
+6. (uchylony)
+
+7. W przypadku przeniesienia całego majątku spółki powstałej w wyniku komercjalizacji, zwanej dalej „spółką przejmowaną”, na Spółkę osoby uprawnione do nieodpłatnego nabycia od Skarbu Państwa udziałów albo akcji spółki przejmowanej, w miejsce prawa do nieodpłatnego nabycia udziałów albo akcji spółki przejmowanej, mogą skorzystać z prawa do nieodpłatnego nabycia akcji objętych przez Skarb Państwa w wyniku przejęcia.
+
+8. Do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, stosuje się odpowiednio przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2018 r. poz. 2170 oraz z 2019 r. poz. 492).
+
+9. Osobą uprawnioną do nieodpłatnego nabycia akcji, o którym mowa w ust. 7, jest pracownik spółki przejmowanej, który spełnia warunki określone w art. 2 pkt 5 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników i złożył oświadczenie o zamiarze nabycia akcji na podstawie art. 38 ust. 1 tej ustawy, albo jego spadkobierca, który złożył oświadczenie na podstawie art. 38c ust. 2 albo 3 tej ustawy.
+
+**Art. 8.**
+
+1. Zarząd Spółki liczy od 1 do 3 członków.
+
+2. Członków Zarządu, w tym Prezesa Zarządu, powołuje i odwołuje Rada Mediów Narodowych.
+
+3. (uchylony)
+
+**Art. 9.**
+
+1. Rada Nadzorcza, powoływana przez Radę Mediów Narodowych, liczy 3 członków.
+
 1a. (uchylony)
+
 2. Rada Nadzorcza wybiera ze swojego grona Przewodniczącego Rady.
-3. (uchylony) realizacji zadań przez Spółkę jej organy.
-3. Stanowiska opinie, mowa 2, są przedmiotem obrad Zarządu Spółki.
-4. Szczegółowe zasady powoływania odwoływania członków Rady Programowej S.A., liczbę jej członków oraz sposób tryb realizacji zadań, mowa 2, określa statut Spółki.
-11. Spółka wstępuje we wszelkie prawa obowiązki Prasowej, chyba że ustawa stanowi inaczej.
-12. Grunty stanowiące własność Skarbu Państwa będące dniu wejścia życie ustawy zarządzie stają się, mocy prawa, przedmiotem użytkowania wieczystego chwilą jej zarejestrowania.
-2. Budynki inne urządzenia oraz lokale znajdujące się gruntach stanowiących własność Skarbu Państwa będących dniu wejścia życie ustawy zarządzie stają się, chwilą zarejestrowania Spółki, mocy prawa, własnością Spółki. Nabycie własności następuje nieodpłatnie.
-3. Nabycie prawa wieczystego użytkowania gruntów, mowa 1, oraz własności budynków, innych urządzeń lokali, mowa 2, stwierdza się decyzją wojewody.
-13. Minister Skarbu Państwa wniesie wszelkie składniki majątkowe będące zarządzie Prasowej, utworzonej ustawą dnia 28 lipca 1983 r. (Dz. U. poz. 202), po zakończeniu jej działalności, podstawie bilansu zamknięcia.
-2. Minister Skarbu Państwa przekształci Polską Agencję Prasową Spółkę terminie 4 miesięcy od dnia wejścia życie ustawy.
-14. Pracownicy stają się, mocy prawa, pracownikami Spółki, zastrzeżeniem 2 3.
-4. Za zobowiązania wynikające ze stosunków pracy, powstałe przed dniem zarejestrowania Spółki, odpowiada Spółka.
-15. Członków pierwszej Rady Nadzorczej powołuje rok Minister Skarbu Państwa uzgodnieniu Prezesem Rady Ministrów.
-2. Członków pierwszego Zarządu powołuje 2 lata Minister Skarbu Państwa uzgodnieniu Prezesem Rady Ministrów.
-16. Traci moc ustawa dnia 28 lipca 1983 r.
-(Dz. U. poz. 202).
-17. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+
+3. (uchylony)
+
+**Art. 10.**
+
+1. W Spółce działa Rada Programowa Polskiej Agencji Prasowej S.A. jako jej organ opiniodawczo-doradczy. Członków Rady Programowej powołuje i odwołuje Rada Mediów Narodowych.
+
+2. Rada Programowa Polskiej Agencji Prasowej S.A., na wniosek organów Spółki lub z własnej inicjatywy, zajmuje stanowiska oraz wyraża opinie w sprawach realizacji zadań przez Spółkę i jej organy.
+
+3. Stanowiska i opinie, o których mowa w ust. 2, są przedmiotem obrad Zarządu Spółki.
+
+4. Szczegółowe zasady powoływania i odwoływania członków Rady Programowej Polskiej Agencji Prasowej S.A., liczbę jej członków oraz sposób i tryb realizacji zadań, o których mowa w ust. 2, określa statut Spółki.
+
+**Art. 11.** Spółka wstępuje we wszelkie prawa i obowiązki Polskiej Agencji Prasowej, chyba że ustawa stanowi inaczej.
+
+**Art. 12.**
+
+1. Grunty stanowiące własność Skarbu Państwa i będące w dniu wejścia w życie ustawy w zarządzie Polskiej Agencji Prasowej stają się, z mocy prawa, przedmiotem użytkowania wieczystego Spółki z chwilą jej zarejestrowania.
+
+2. Budynki i inne urządzenia oraz lokale znajdujące się na gruntach stanowiących własność Skarbu Państwa i będących w dniu wejścia w życie ustawy w zarządzie Polskiej Agencji Prasowej stają się, z chwilą zarejestrowania Spółki, z mocy prawa, własnością Spółki. Nabycie własności następuje nieodpłatnie.
+
+3. Nabycie prawa wieczystego użytkowania gruntów, o których mowa w ust. 1, oraz własności budynków, innych urządzeń i lokali, o których mowa w ust. 2, stwierdza się decyzją wojewody.
+
+**Art. 13.**
+
+1. Minister Skarbu Państwa wniesie do Spółki wszelkie składniki majątkowe będące w zarządzie Polskiej Agencji Prasowej, utworzonej ustawą z dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej (Dz. U. poz. 202), po zakończeniu jej działalności, na podstawie bilansu zamknięcia.
+
+2. Minister Skarbu Państwa przekształci Polską Agencję Prasową w Spółkę w terminie 4 miesięcy od dnia wejścia w życie ustawy.
+
+**Art. 14.**
+
+1. Pracownicy Polskiej Agencji Prasowej stają się, z mocy prawa, pracownikami Spółki, z zastrzeżeniem ust. 2 i 3.
+
+2. Stosunek pracy pracowników pełniących funkcje prezesa, wiceprezesa i dyrektora generalnego Polskiej Agencji Prasowej ustaje, z mocy prawa, z dniem wpisania Spółki do rejestru handlowego.
+
+3. Do pracowników mianowanych Polskiej Agencji Prasowej stosuje się przepis art. 23 § 5 Kodeksu pracy.
+
+4. Za zobowiązania Polskiej Agencji Prasowej wynikające ze stosunków pracy, powstałe przed dniem zarejestrowania Spółki, odpowiada Spółka.
+
+**Art. 15.**
+
+1. Członków pierwszej Rady Nadzorczej powołuje na rok Minister Skarbu Państwa w uzgodnieniu z Prezesem Rady Ministrów.
+
+2. Członków pierwszego Zarządu powołuje na 2 lata Minister Skarbu Państwa w uzgodnieniu z Prezesem Rady Ministrów.
+
+**Art. 16.** Traci moc ustawa z dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej (Dz. U. poz. 202).
+
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

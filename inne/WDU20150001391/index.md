@@ -8,10 +8,10 @@ pos: 1391
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 września 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1391 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 2 września 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001391) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1391/text.pdf) |
 
-ROZPORZĄDZENIE RADY MINISTRÓW z dnia 2 września 2015 r.
-w sprawie udzielania i rozliczania dofinansowania kosztów związanych z uczestnictwem niektórych organizacji rolniczych w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej Na podstawie art. 35b ust. 6 ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 2014 r. poz. 1079 oraz z 2015 r. poz. 838) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie udzielania i rozliczania dofinansowania kosztów związanych z uczestnictwem niektórych organizacji rolniczych w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej Na podstawie art. 35b ust. 6 ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 2014 r. poz. 1079 oraz z 2015 r. poz. 838) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy zakres i tryb udzielania oraz sposób rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej oraz stowarzyszeń zrzeszających młodych rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej;
 2) konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w art. 35b ust. 1a ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych, zwanej dalej „ustawą”;
 3) konieczne elementy informacji, o której mowa w art. 35b ust. 4a ustawy.
@@ -52,16 +52,16 @@ k) Związku Producentów Kukurydzy (C.E.P.M.),
 l) Światowej Federacji Hodowli Koni Sportowych (WBFSH),
 m) Międzynarodowej Federacji Koni Huculskich (HIF),
 n) Międzynarodowej Konfederacji Koni Angloarabskich (CIAA),
-o) Międzynarodowej Federacji Związków Pszczelarskich (APIMONDIA) zwane dalej „dotacją”, jest udzielane na pisemny wniosek o udzielenie dotacji, złożony przez Krajową Radę Izb Rolniczych do ministra właściwego do spraw rolnictwa, zwanego dalej „ministrem”.
+o) Międzynarodowej Federacji Związków Pszczelarskich (APIMONDIA) – zwane dalej „dotacją”, jest udzielane na pisemny wniosek o udzielenie dotacji, złożony przez Krajową Radę Izb Rolniczych do ministra właściwego do spraw rolnictwa, zwanego dalej „ministrem”.
 2. Dotacja jest udzielana do wysokości limitu określonych na ten cel środków finansowych, których dysponentem jest minister.
 3. Wniosek, o którym mowa w ust. 1, składa się do ministra na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia, w terminie do dnia 31 stycznia roku, którego dotyczy wniosek.
 4. Do wniosku, o którym mowa w ust. 1, dołącza się kalkulację kosztów sporządzoną przez Krajową Radę Izb Rolniczych na podstawie kalkulacji jej kosztów i kalkulacji kosztów związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, rolniczych spółdzielni produkcyjnych, pracodawców rolnych, Krajowej Rady Spółdzielczej oraz stowarzyszeń zrzeszających młodych rolników, zwanych dalej „organizacjami rolniczymi”, przekazanych przez organizacje rolnicze.
 5. Organizacje rolnicze przekazują Krajowej Radzie Izb Rolniczych kalkulacje kosztów, o których mowa w ust. 4, w terminie do dnia 31 grudnia roku poprzedzającego rok, którego dotyczy wniosek.
 § 3. 1. Dotacja obejmuje dofinansowanie:
-1) składek członkowskich 95% ich wysokości;
-2) kosztów obsługi w języku polskim prac w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej 95% kosztów;
-3) kosztów uczestnictwa w konferencjach, kongresach, posiedzeniach organów i grup roboczych ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej do 95% kosztów;
-4) kosztów funkcjonowania prowadzonych przez Krajową Radę Izb Rolniczych i organizacje rolnicze biur w Brukseli w zakresie ich uczestnictwa w Komitecie Rolniczych Organizacji Zawodowych (COPA) oraz w Głównym Komitecie Spółdzielczości Rolniczej (COGECA) do 50% kosztów.
+1) składek członkowskich – 95% ich wysokości;
+2) kosztów obsługi w języku polskim prac w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej – 95% kosztów;
+3) kosztów uczestnictwa w konferencjach, kongresach, posiedzeniach organów i grup roboczych ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej – do 95% kosztów;
+4) kosztów funkcjonowania prowadzonych przez Krajową Radę Izb Rolniczych i organizacje rolnicze biur w Brukseli w zakresie ich uczestnictwa w Komitecie Rolniczych Organizacji Zawodowych (COPA) oraz w Głównym Komitecie Spółdzielczości Rolniczej (COGECA) – do 50% kosztów.
 2. Rodzaje kosztów objętych dotacją, o których mowa w ust. 1, są określone w załączniku nr 2 do rozporządzenia.
 § 4. Udzielenie dotacji następuje po rozpatrzeniu przez ministra wniosku, o którym mowa w § 2 ust. 1, w drodze umowy zawartej między Krajową Radą Izb Rolniczych a ministrem.
 § 5. 1. Umowa, o której mowa w § 4:
@@ -104,9 +104,10 @@ Na podstawie § 2 rozporządzenia Rady Ministrów z dnia 2 września 2015 r. w s
 1) składek członkowskich w wysokości ……………….. zł,
 2) kosztów obsługi w języku polskim prac w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej w wysokości ………………………. zł,
 3) kosztów uczestnictwa w konferencjach, kongresach, posiedzeniach organów i grup roboczych ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej w wysokości ……………………….… zł,
-4) kosztów funkcjonowania prowadzonych przez Krajową Radę Izb Rolniczych i organizacje rolnicze biur w Brukseli w zakresie ich uczestnictwa w Komitecie Rolniczych Organizacji Zawodowych (COPA) oraz w Głównym Komitecie Spółdzielczości Rolniczej (COGECA) w wysokości ……………………….… zł stanowiących kwotę …………………….. złotych (słownie: ……………..………. złotych).
+4) kosztów funkcjonowania prowadzonych przez Krajową Radę Izb Rolniczych i organizacje rolnicze biur w Brukseli w zakresie ich uczestnictwa w Komitecie Rolniczych Organizacji Zawodowych (COPA) oraz w Głównym Komitecie Spółdzielczości Rolniczej (COGECA) w wysokości ……………………….… zł – stanowiących kwotę …………………….. złotych (słownie: ……………..………. złotych).
 Kalkulacja kosztów stanowi załącznik do wniosku.
-RODZAJE KOSZTÓW OBJĘTYCH DOTACJĄ:
+Formularz kalkulacji kosztów Nazwa organizacji Koszty planowane Dofinansowanie 1 2 3 I. Składki członkowskie Składki członkowskie RAZEM II. Koszty obsługi w języku polskim prac w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej usługi RAZEM III. Koszty uczestnictwa w konferencjach, kongresach, posiedzeniach organów i grup roboczych ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej wynagrodzenia usługi koszty podróży służbowych koszty pozostałe RAZEM IV. Koszty funkcjonowania prowadzonych przez Krajową Radę Izb Rolniczych i organizacje rolnicze biur w Brukseli w zakresie ich uczestnictwa w Komitecie Rolniczych Organizacji Zawodowych (COPA) oraz w Głównym Komitecie Spółdzielczości Rolniczej (COGECA) wynagrodzenia materiały i wyposażenie usługi koszty podróży służbowych RAZEM OGÓŁEM Formularz kalkulacji kosztów na 2015 r.
+Nazwa organizacji Nazwa Wydatki poniesione od Koszty planowane Dofinansowanie Wydatki dnia 1 stycznia 2015 r. dnia 1 2 3 4 I. Składki członkowskie Składki członkowskie RAZEM II. Koszty obsługi w języku polskim prac w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej usługi RAZEM III. Koszty uczestnictwa w konferencjach, kongresach, posiedzeniach organów i grup roboczych ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej wynagrodzenia usługi koszty podróży służbowych koszty pozostałe RAZEM IV. Koszty funkcjonowania prowadzonych przez Krajową Radę Izb Rolniczych i organizacje rolnicze biur w Brukseli w zakresie ich uczestnictwa w Komitecie Rolniczych Organizacji Zawodowych (COPA) oraz w Głównym Komitecie Spółdzielczości Rolniczej (COGECA) wynagrodzenia materiały i wyposażenie usługi koszty podróży służbowych RAZEM OGÓŁEM RODZAJE KOSZTÓW OBJĘTYCH DOTACJĄ:
 1) składki członkowskie;
 2) koszty obsługi w języku polskim prac w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej, w tym:
 a) usługi tłumaczenia symultanicznego podczas posiedzeń w ramach prac w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej,
@@ -114,11 +115,11 @@ b) usługi tłumaczenia materiałów i dokumentów ponadnarodowych organizacji r
 3) koszty uczestnictwa w konferencjach, kongresach, posiedzeniach organów i grup roboczych ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej, w tym:
 a) wynagrodzenia brutto, wraz z pochodnymi, osób zatrudnionych do obsługi związanej z uczestnictwem izb rolniczych oraz organizacji rolniczych w konferencjach, kongresach, posiedzeniach organów i grup roboczych ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej, na terytorium Rzeczypospolitej Polskiej,
 b) usługi telekomunikacyjne obejmujące koszty usług telefonicznych, w tym połączenia stacjonarne, użytkowanie służbowych telefonów komórkowych i łączy internetowych,
-c) koszty podróży służbowych (krajowych i zagranicznych): noclegi, wyżywienie, paliwo, opłaty parkingowe, opłaty za udział w konferencjach i kongresach, opłaty za transport z lotniska i na lotnisko, ubezpieczenie osób prezentujących stanowiska na forum ponadnarodowych organizacji rolniczych, bilety lotnicze, kolejowe lub autobusowe,
-d) koszty pozostałe, w tym: usługi księgowe wyłącznie w zakresie związanym z rozliczeniem dotacji, usługi tłumaczenia w języku polskim w trakcie konferencji, kongresów i posiedzeń;
+c) koszty podróży służbowych (krajowych i zagranicznych): – noclegi, – wyżywienie, – paliwo, – opłaty parkingowe, – opłaty za udział w konferencjach i kongresach, – opłaty za transport z lotniska i na lotnisko, – ubezpieczenie osób prezentujących stanowiska na forum ponadnarodowych organizacji rolniczych, – bilety lotnicze, kolejowe lub autobusowe,
+d) koszty pozostałe, w tym: – usługi księgowe wyłącznie w zakresie związanym z rozliczeniem dotacji, – usługi tłumaczenia w języku polskim w trakcie konferencji, kongresów i posiedzeń;
 4) koszty funkcjonowania prowadzonych przez Krajową Radę Izb Rolniczych i organizacje rolnicze biur w Brukseli w zakresie ich uczestnictwa w Komitecie Rolniczych Organizacji Zawodowych (COPA) oraz w Głównym Komitecie Spółdzielczości Rolniczej (COGECA), w tym:
 a) wynagrodzenia brutto, wraz z pochodnymi, osób zatrudnionych do obsługi biura w Brukseli,
-b) materiały i wyposażenie: materiały biurowe i artykuły piśmienne, niezbędne do właściwego funkcjonowania biura w Brukseli, wyposażenie biura w Brukseli,
-c) usługi: telekomunikacyjne obejmujące koszty usług telefonicznych, w tym połączenia stacjonarne, użytkowanie służbowych telefonów komórkowych i łączy internetowych, konserwacja i naprawa sprzętu biurowego, aktualizacja oprogramowania komputerowego, najem i utrzymanie biura w Brukseli, w tym koszty energii elektrycznej, cieplnej i gazowej oraz opłaty za wodę, opłaty pocztowe,
-d) koszty podróży służbowych (krajowych i zagranicznych) osób obsługujących biuro w Brukseli: noclegi, wyżywienie, paliwo, opłaty parkingowe, opłaty za transport z lotniska i na lotnisko, bilety lotnicze, kolejowe lub autobusowe.
+b) materiały i wyposażenie: – materiały biurowe i artykuły piśmienne, niezbędne do właściwego funkcjonowania biura w Brukseli, – wyposażenie biura w Brukseli,
+c) usługi: – telekomunikacyjne obejmujące koszty usług telefonicznych, w tym połączenia stacjonarne, użytkowanie służbowych telefonów komórkowych i łączy internetowych, – konserwacja i naprawa sprzętu biurowego, – aktualizacja oprogramowania komputerowego, – najem i utrzymanie biura w Brukseli, w tym koszty energii elektrycznej, cieplnej i gazowej oraz opłaty za wodę, – opłaty pocztowe,
+d) koszty podróży służbowych (krajowych i zagranicznych) osób obsługujących biuro w Brukseli: – noclegi, – wyżywienie, – paliwo, – opłaty parkingowe, – opłaty za transport z lotniska i na lotnisko, – bilety lotnicze, kolejowe lub autobusowe.
 

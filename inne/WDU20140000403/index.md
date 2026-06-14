@@ -8,10 +8,10 @@ pos: 403
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 marca 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 403 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 21 marca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/403/text.pdf) |
 
-Poz. 403 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 21 marca 2014 r.
-w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych Na podstawie art. 54 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca 2013 r. zmieniającym rozporządzenie w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych (Dz. U. poz. 435) § 2 otrzymuje brzmienie: „§ 2. Pasy przeciwpożarowe w sąsiedztwie linii kolejowej, na której prowadzony jest ruch kolejowy, urządzone przed dniem wejścia w życie niniejszego rozporządzenia, mogą być utrzymywane w sposób określony w dotychczasowych przepisach nie dłużej niż przez okres 3 lat od dnia wejścia w życie niniejszego rozporządzenia.”.
+w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych Na podstawie art. 54 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca 2013 r. zmieniającym rozporządzenie w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych (Dz. U. poz. 435) § 2 otrzymuje brzmienie: „§ 2. Pasy przeciwpożarowe w sąsiedztwie linii kolejowej, na której prowadzony jest ruch kolejowy, urządzone przed dniem wejścia w życie niniejszego rozporządzenia, mogą być utrzymywane w sposób określony w dotychczasowych przepisach nie dłużej niż przez okres 3 lat od dnia wejścia w życie niniejszego rozporządzenia.”.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Infrastruktury i Rozwoju: wz. A. Zdziebło
 

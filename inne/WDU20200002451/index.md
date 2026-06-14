@@ -8,10 +8,10 @@ pos: 2451
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2451 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 29 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2451/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI dnia 29 grudnia 2020 r.
-sprawie wzoru wniosku o umieszczenie obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Unii Europejskiej strzeżonym ośrodku albo o zastosowanie wobec nich aresztu dla cudzoziemców Na podstawie art. 78e ust. 5 ustawy dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. 2019 poz. 293 oraz 2020 r. poz. 2023 i 2369) zarządza się, co następuje: § 1. Wzór wniosku o umieszczenie obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Europejskiej strzeżonym ośrodku albo o zastosowanie wobec nich aresztu dla cudzoziemców jest określony załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie dniem stycznia 2021 r.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Grodecki WZÓR WZÓR ……………….………… ……..………….….. , dnia ………….………..
+w sprawie wzoru wniosku o umieszczenie obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Unii Europejskiej w strzeżonym ośrodku albo o zastosowanie wobec nich aresztu dla cudzoziemców Na podstawie art. 78e ust. 5 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 poz. 293 oraz z 2020 r. poz. 2023 i 2369) zarządza się, co następuje:
+§ 1. Wzór wniosku o umieszczenie obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Europejskiej w strzeżonym ośrodku albo o zastosowanie wobec nich aresztu dla cudzoziemców jest określony w załączniku do rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+Minister Spraw Wewnętrznych i Administracji: wz. B. Grodecki Załącznik do rozporządzenia Ministra Spraw 2020 r. (poz. …) WZÓR WZÓR ……………….………… ……..………….….. , dnia ………….………..
 egz. nr ….
-………..……/..………… SĄD REJONOWY .....................................
-WNIOSEK O UMIESZCZENIE OBYWATELA UNII EUROPEJSKIEJ/CZŁONKA RODZINY NIEBĘDĄCEGO OBYWATELEM UNII EUROPEJSKIEJ W STRZEŻONYM OŚRODKU/O ZASTOSOWANIE ARESZTU DLA CUDZOZIEMCÓW Na podstawie art. 78e ust. 2 związku art. 78b pkt …. / Na podstawie art. 78e ust. 2 związku art. 78c ust. i art. 78b pkt ….
-ustawy dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. 2019 r. poz. 293 oraz 2020 r. poz. 2023 i 2369) wnoszę o umieszczenie strzeżonym ośrodku/zastosowanie aresztu dla cudzoziemców .......................................................................................................................................................
+………..……/..………… SĄD REJONOWY w .....................................
+WNIOSEK O UMIESZCZENIE OBYWATELA UNII EUROPEJSKIEJ/CZŁONKA RODZINY NIEBĘDĄCEGO OBYWATELEM UNII EUROPEJSKIEJ W STRZEŻONYM OŚRODKU/O ZASTOSOWANIE ARESZTU DLA CUDZOZIEMCÓW Na podstawie art. 78e ust. 2 w związku z art. 78b pkt …. / Na podstawie art. 78e ust. 2 w związku z art. 78c ust. 1 i art. 78b pkt ….
+ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293 oraz z 2020 r. poz. 2023 i 2369) wnoszę o umieszczenie w strzeżonym ośrodku/zastosowanie aresztu dla cudzoziemców .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
-wraz ………………………………………….…………………………………………….
+wraz z ………………………………………….…………………………………………….
 …………………………………………………………………………………………………...
 .......................................................................................................................................................
 .......................................................................................................................................................
@@ -58,9 +58,9 @@ UZASADNIENIE ...................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
 …………………………………………..
-Wykonano 2 egz.
-Egz. nr - adresat Egz. nr 2 - aa Wpisać numer wniosku o umieszczenie obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Unii Europejskiej strzeżonym ośrodku/o zastosowanie aresztu dla cudzoziemców danym roku kalendarzowym.
+Wykonano w 2 egz.
+Egz. nr 1 - adresat Egz. nr 2 - aa Wpisać numer wniosku o umieszczenie obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Unii Europejskiej w strzeżonym ośrodku/o zastosowanie aresztu dla cudzoziemców w danym roku kalendarzowym.
 Niepotrzebne skreślić.
-Wpisać podstawę prawną umieszczenia obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Unii Europejskiej strzeżonym ośrodku/zastosowania aresztu dla cudzoziemców.
-Wypełnić dane małoletniego przypadku wniosku o umieszczenie obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Unii Europejskiej strzeżonym ośrodku.
+Wpisać podstawę prawną umieszczenia obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Unii Europejskiej w strzeżonym ośrodku/zastosowania aresztu dla cudzoziemców.
+Wypełnić dane małoletniego w przypadku wniosku o umieszczenie obywatela Unii Europejskiej lub członka rodziny niebędącego obywatelem Unii Europejskiej w strzeżonym ośrodku.
 

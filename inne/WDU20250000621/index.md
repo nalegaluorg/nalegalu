@@ -8,7 +8,7 @@ pos: 621
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-20 |
 | Data wydania | 2025-05-12 |
-| Ostatnia zmiana | 2026-04-17 |
+| Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000621) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/621/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -51,6 +51,33 @@ source: "isap-pdf"
 5. Minister właściwy do spraw pracy udziela wyjaśnień dotyczących stosowania przepisów ustawy w celu jej jednolitego stosowania.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** cudzoziemcu – oznacza to każdego, kto nie posiada obywatelstwa polskiego;
+- **2)** nielegalnym powierzeniu pracy cudzoziemcowi – oznacza to powierzenie pracy cudzoziemcowi:
+    - **a)** który nielegalnie przebywa na terytorium Rzeczypospolitej Polskiej lub
+    - **b)** którego podstawa pobytu nie uprawnia do wykonywania pracy, lub
+    - **c)** bez zezwolenia na pracę lub oświadczenia o powierzeniu pracy cudzoziemcowi wpisanego do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2, zwanej dalej „ewidencją oświadczeń”, jeżeli są wymagane, lub
+    - **d)** na innych warunkach lub na innym stanowisku niż określone w odpowiednim zezwoleniu na pracę lub oświadczeniu o powierzeniu pracy cudzoziemcowi wpisanym do ewidencji oświadczeń, chyba że przepisy prawa dopuszczają ich zmianę lub cudzoziemiec jest uprawniony do wykonywania pracy na innej podstawie, lub
+    - **e)** na innych warunkach lub na innym stanowisku niż określone w zezwoleniu na pobyt czasowy, o którym mowa w art. 114, art. 126, art. 127, art. 137a, art. 139a ust. 1, art. 139o ust. 1 lub art. 142 ust. 3, z zastrzeżeniem art. 119 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, chyba że przepisy prawa dopuszczają ich zmianę lub cudzoziemiec jest uprawniony do wykonywania pracy na innej podstawie, lub
+    - **f)** bez zawarcia umowy w formie pisemnej, z wyjątkiem przypadków, o których mowa w art. 6 ust. 1 pkt 2;
+
+- **3)** nielegalnym wykonywaniu pracy przez cudzoziemca – oznacza to wykonywanie pracy przez cudzoziemca:
+    - **a)** który nielegalnie przebywa na terytorium Rzeczypospolitej Polskiej lub
+    - **b)** którego podstawa pobytu nie uprawnia do wykonywania pracy, lub
+    - **c)** który nie posiada odpowiedniego zezwolenia na pracę lub oświadczenia o powierzeniu pracy cudzoziemcowi, jeżeli są wymagane;
+
+- **4)** podmiocie powierzającym pracę cudzoziemcowi – oznacza to jednostkę organizacyjną, chociażby nie posiadała osobowości prawnej, lub osobę fizyczną, które na podstawie umowy lub innego stosunku prawnego powierzają lub zamierzają powierzyć pracę cudzoziemcowi;
+- **5)** podmiocie zagranicznym – oznacza to podmiot powierzający pracę cudzoziemcowi, niemający siedziby, miejsca pobytu stałego ani stałego miejsca wykonywania działalności gospodarczej na terytorium Rzeczypospolitej Polskiej, który ma siedzibę albo miejsce stałego pobytu w innym państwie oraz prowadzi na jego terytorium działalność gospodarczą;
+- **6)** polskim podmiocie powierzającym pracę cudzoziemcowi – oznacza to podmiot powierzający pracę cudzoziemcowi, mający siedzibę albo miejsce pobytu stałego na terytorium Rzeczypospolitej Polskiej, w tym oddział lub przedstawicielstwo podmiotu zagranicznego, albo w przypadku obywatela państwa – strony umowy o Europejskim Obszarze Gospodarczym, stałe miejsce wykonywania działalności gospodarczej na terytorium Rzeczypospolitej Polskiej;
+- **7)** pracodawcy użytkowniku – oznacza to pracodawcę użytkownika w rozumieniu art. 2 pkt 1 ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2025 r. poz. 236);
+- **8)** pracowniku tymczasowym – oznacza to pracownika tymczasowego w rozumieniu art. 2 pkt 2 ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych;
+- **9)** powierzaniu pracy cudzoziemcowi – oznacza to powierzenie cudzoziemcowi:
+    - **a)** wykonywania pracy na terytorium Rzeczypospolitej Polskiej na podstawie stosunku pracy, stosunku służbowego lub umowy o pracę nakładczą lub
+    - **b)** wykonywania pracy lub świadczenia usług na terytorium Rzeczypospolitej Polskiej na podstawie umów cywilnoprawnych, w szczególności umowy zlecenia, umowy o świadczenie usług, umowy o dzieło lub umowy o pomocy przy zbiorach w rozumieniu przepisów o ubezpieczeniu społecznym rolników, albo wykonywania pracy w okresie członkostwa w rolniczej spółdzielni produkcyjnej, spółdzielni kółek rolniczych lub spółdzielni usług rolniczych, lub
+    - **c)** pełnienia funkcji w zarządach osób prawnych wpisanych do rejestru przedsiębiorców Krajowego Rejestru Sądowego, zwanego dalej „rejestrem przedsiębiorców KRS”, lub spółek kapitałowych w organizacji, jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej, lub
+    - **d)** reprezentacji lub prowadzenia spraw spółki komandytowej lub komandytowo-akcyjnej wpisanej do rejestru przedsiębiorców KRS, jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej, lub
+    - **e)** pełnienia funkcji prokurenta przedsiębiorcy wpisanego do rejestru przedsiębiorców KRS, jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej, lub
+    - **f)** wykonywania pracy na terytorium Rzeczypospolitej Polskiej w ramach delegowania, o którym mowa w art. 6 ust. 1 pkt 3.
 
 **Art. 3.**
 
@@ -312,6 +339,9 @@ source: "isap-pdf"
 
 **Art. 12.** W postępowaniu o wydanie lub uchylenie zezwolenia na pracę:
 
+- **1)** stroną postępowania jest wyłącznie podmiot powierzający pracę cudzoziemcowi;
+- **2)** nie stosuje się przepisów art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
 **Art. 13.**
 
 1. Wydania zezwolenia na pracę odmawia się, jeżeli:
@@ -414,6 +444,10 @@ source: "isap-pdf"
 
 **Art. 19.** Podmiot powierzający pracę cudzoziemcowi powiadamia organ, który wydał zezwolenie na pracę, jeżeli:
 
+- **1)** cudzoziemiec nie podjął pracy w okresie 2 miesięcy od początkowej daty ważności zezwolenia na pracę;
+- **2)** cudzoziemiec przerwał pracę na okres przekraczający 2 miesiące;
+- **3)** cudzoziemiec zakończył pracę wcześniej niż 2 miesiące przed upływem okresu ważności zezwolenia na pracę.
+
 **Art. 20.**
 
 1. Powiadomień, o których mowa w art. 18 ust. 2 i art. 19, dokonuje się za pomocą systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 7 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, w ciągu 7 dni od dnia wystąpienia okoliczności, o których mowa w art. 18 ust. 1 lub art. 19.
@@ -452,6 +486,9 @@ source: "isap-pdf"
 
 **Art. 24.** Zezwolenie na pracę wygasa z mocy prawa z dniem, w którym udzielono cudzoziemcowi:
 
+- **1)** zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej lub zezwolenia na pobyt stały albo
+- **2)** zezwolenia na pobyt czasowy, o którym mowa w art. 114 ust. 1, art. 126 ust. 1 i 3 lub art. 127 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, w związku z wykonywaniem pracy u tego samego polskiego podmiotu powierzającego pracę cudzoziemcowi i na tym samym stanowisku.
+
 **Art. 25.**
 
 1. Zobowiązanie cudzoziemca do wykonywania czynności wynikających z umowy cywilnoprawnej lub obowiązek świadczenia pracy na terytorium Rzeczypospolitej Polskiej wygasają na okres, w którym cudzoziemiec nie spełnia warunków określonych w art. 3 ust. 1–3, 5 i 6.
@@ -470,6 +507,11 @@ source: "isap-pdf"
 - **2)** w przypadkach, o których mowa w art. 2 pkt 9 lit. c–e.
 
 **Art. 27.** Wojewoda rozpatrując wnioski o wydanie zezwolenia na pracę cudzoziemca na rzecz polskiego podmiotu powierzającego pracę cudzoziemcowi uwzględnia w kolejności wnioski:
+
+- **1)** przedsiębiorców określonych w wykazie, o którym mowa w art. 28 ust. 1;
+- **2)** o wydanie kolejnego zezwolenia na pracę dla tego samego polskiego podmiotu powierzającego pracę cudzoziemcowi i dla tego samego cudzoziemca w wymiarze czasu pracy nie niższym i za wynagrodzeniem nie niższym niż określone w uprzednio wydanym zezwoleniu na pracę, ważnym w dniu złożenia kolejnego wniosku o wydanie zezwolenia na pracę;
+- **3)** dotyczące cudzoziemców mających wykonywać pracę w zawodach określonych w wykazie, o którym mowa w art. 29 ust. 1;
+- **4)** pozostałe.
 
 **Art. 28.**
 
@@ -615,6 +657,11 @@ source: "isap-pdf"
 
 **Art. 37.** W zezwoleniu na pracę w związku z pełnieniem określonej funkcji określa się:
 
+- **1)** dane polskiego podmiotu powierzającego pracę cudzoziemcowi, o których mowa w art. 9 ust. 1 pkt 1 lit. a–c;
+- **2)** dane cudzoziemca, o których mowa w art. 9 ust. 1 pkt 3;
+- **3)** funkcję;
+- **4)** okres ważności zezwolenia.
+
 **Art. 38.** Zezwolenie na pracę w związku z pełnieniem określonej funkcji wydaje się na czas określony, nie dłuższy niż 1 rok, jeżeli polski podmiot powierzający pracę cudzoziemcowi prowadzi działalność gospodarczą na terytorium Rzeczypospolitej Polskiej przez okres krótszy niż 1 rok lub nie spełnia warunków, o których mowa w art. 36 ust. 2.
 
 **Art. 39.** Zezwolenie na pracę w związku z pełnieniem określonej funkcji nie jest wymagane, jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej przez okres nieprzekraczający łącznie 6 miesięcy w ciągu kolejnych 12 miesięcy w związku z pełnieniem funkcji w zarządzie osoby prawnej wpisanej do rejestru przedsiębiorców lub spółki kapitałowej w organizacji albo w związku z reprezentacją lub prowadzeniem spraw spółki komandytowej lub komandytowo-akcyjnej, albo w związku z udzieloną mu prokurą.
@@ -646,6 +693,10 @@ source: "isap-pdf"
 
 **Art. 41.** Zezwolenie na pracę w związku z delegowaniem cudzoziemca przez podmiot zagraniczny na terytorium Rzeczypospolitej Polskiej wydaje się, jeżeli:
 
+- **1)** wykonywanie pracy przez cudzoziemca będzie odbywało się na warunkach zgodnych z art. 4 ust. 1 i ust. 2 pkt 1–8 oraz art. 5 ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz. 73);
+- **2)** wysokość wynagrodzenia, która będzie przysługiwała cudzoziemcowi za wykonywanie pracy, nie będzie niższa niż 70 % aktualnego w dniu złożenia wniosku przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa;
+- **3)** podmiot zagraniczny wskazał osobę przebywającą na terytorium Rzeczypospolitej Polskiej, posiadającą dokumenty potwierdzające wypełnienie obowiązków określonych w pkt 1 i 2, działającą w imieniu tego podmiotu i upoważnioną do jego reprezentowania wobec wojewody i innych organów, o których mowa w art. 17 ust. 1 pkt 9.
+
 **Art. 42.**
 
 1. W zezwoleniu na pracę w związku z delegowaniem cudzoziemca przez podmiot zagraniczny na terytorium Rzeczypospolitej Polskiej określa się:
@@ -663,6 +714,10 @@ source: "isap-pdf"
 
 **Art. 44.** Zezwolenie na pracę nie jest wymagane, jeżeli cudzoziemiec:
 
+- **1)** uprawniony do pobytu na terytorium innego państwa Europejskiego Obszaru Gospodarczego i zatrudniony na podstawie stosunku pracy zgodnie z przepisami obowiązującymi w tym państwie, zazwyczaj wykonujący pracę w tym państwie, został czasowo delegowany przez tego pracodawcę w celu świadczenia usług na terytorium Rzeczypospolitej Polskiej, lub
+- **2)** jest delegowany na terytorium Rzeczypospolitej Polskiej na okres nieprzekraczający 30 dni w roku kalendarzowym do oddziału, zakładu lub przedstawicielstwa podmiotu zagranicznego albo do podmiotu pozostającego z podmiotem zagranicznym w stosunku dominacji lub zależności, lub w stosunku powiązania w rozumieniu art. 4 § 1 pkt 4 i 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych,
+- **3)** jest delegowany na terytorium Rzeczypospolitej Polskiej na okres nieprzekraczający 30 dni w ciągu 180 dni w innym celu niż określony w pkt 1 i 2 i w innym celu niż wykonanie usługi.
+
 #### Rozdział 5 Zezwolenie na pracę sezonową
 
 **Art. 45.**
@@ -679,6 +734,10 @@ source: "isap-pdf"
 **Art. 46.** Zezwolenie na pracę sezonową wydaje starosta właściwy ze względu na siedzibę lub miejsce stałego pobytu polskiego podmiotu powierzającego pracę cudzoziemcowi.
 
 **Art. 47.** Wniosek o wydanie zezwolenia na pracę sezonową, poza informacjami, o których mowa w art. 9, zawiera:
+
+- **1)** datę wjazdu cudzoziemca na terytorium państw obszaru Schengen oraz dane dotyczące pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej w dniu złożenia wniosku, w tym podstawę prawną jego pobytu;
+- **2)** oświadczenie polskiego podmiotu powierzającego pracę cudzoziemcowi, że zapewnia cudzoziemcowi zakwaterowanie albo że według wiedzy polskiego podmiotu powierzającego pracę cudzoziemcowi cudzoziemiec zapewnia sobie zakwaterowanie we własnym zakresie;
+- **3)** informacje dotyczące przewidywanego płatnego urlopu przysługującego cudzoziemcowi.
 
 **Art. 48.** Wnioski o wydanie zezwolenia na pracę sezonową rozpatruje się z uwzględnieniem pierwszeństwa wniosków dotyczących pracy cudzoziemców, którzy co najmniej raz w okresie 5 lat poprzedzających złożenie wniosku wykonywali pracę na rzecz danego polskiego podmiotu powierzającego pracę cudzoziemcowi na podstawie zezwolenia na pracę sezonową, jeżeli praca będzie wykonywana na podstawie umowy o pracę.
 
@@ -962,6 +1021,11 @@ source: "isap-pdf"
 3. W przypadku niewypłacenia należnego wynagrodzenia polski podmiot powierzający pracę cudzoziemcowi jest obowiązany wypłacić cudzoziemcowi zaległe wynagrodzenie za okres wykonywanej pracy.
 
 **Art. 69.** Wpis nowego oświadczenia o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń nie jest wymagany, jeżeli:
+
+- **1)** nastąpiła zmiana siedziby, miejsca stałego pobytu, stałego miejsca prowadzenia działalności gospodarczej, nazwy lub formy prawnej polskiego podmiotu powierzającego pracę cudzoziemcowi lub pracodawcy użytkownika;
+- **2)** nastąpiło przejście zakładu pracy lub jego części na innego pracodawcę;
+- **3)** zwiększono wymiar czasu pracy lub liczbę godzin pracy w tygodniu lub miesiącu określone w oświadczeniu o powierzeniu pracy cudzoziemcowi nie więcej niż do pełnego wymiaru czasu pracy;
+- **4)** nastąpiła zmiana nazwy stanowiska pracy bez zmiany zakresu obowiązków cudzoziemca; <5) polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, stwierdzono istnienie stosunku pracy.>
 
 **Art. 70.**
 
@@ -1366,6 +1430,9 @@ source: "isap-pdf"
 
 **Art. 85.** Nie podlega karze za wykroczenie określone w art. 84 ust. 1, polegające na powierzeniu pracy cudzoziemcowi nieposiadającemu ważnej wizy lub innego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej, kto, zatrudniając cudzoziemca, spełnił łącznie następujące warunki:
 
+- **1)** wypełnił obowiązki, o których mowa w art. 4 ust. 2 i 4, chyba że wiedział, że przedstawiony dokument uprawniający do pobytu na terytorium Rzeczypospolitej Polskiej został sfałszowany;
+- **2)** zgłosił cudzoziemca, którego zatrudnił, do ubezpieczeń społecznych, o ile obowiązek taki wynika z obowiązujących przepisów.
+
 **Art. 86.**
 
 1. Środki z tytułu orzeczonych i wyegzekwowanych kar grzywien, o których mowa w art. 84, stanowią przychód Funduszu Pracy.
@@ -1378,13 +1445,32 @@ source: "isap-pdf"
 
 **Art. 87.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 2 w pkt 4 w lit. i wyrazy „w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475)” zastępuje się wyrazami „w ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621)”;
+- **2)** w art. 10d w ust. 23a wyrazy „art. 4 ust. 7 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy” zastępuje się wyrazami „art. 14a pkt 1 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej”.
+
 **Art. 88.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197 i 620) w art. 1 ust. 1 otrzymuje brzmienie: „1. Ubezpieczenie społeczne rolników, zwane dalej „ubezpieczeniem”, obejmuje, na zasadach określonych w ustawie, rolników i pracujących z nimi domowników oraz pomocników rolnika, którzy:
+
+- **1)** są obywatelami polskimi;
+- **2)** są obywatelami państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
+- **3)** w rozumieniu art. 2 pkt 4 lit. a ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688 oraz z 2025 r. poz. 619) są członkami rodzin osób, o których mowa w pkt 2, dołączającymi do tych osób lub z nimi przebywającymi;
+- **4)** w rozumieniu art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin są członkami rodziny obywatela polskiego przebywającymi z nim na terytorium Rzeczypospolitej Polskiej;
+- **5)** są osobami, o których mowa w art. 19 ust. 2 i 3 lub art. 19a ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin;
+- **6)** są obywatelami Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b oraz d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm. ), lub członkami ich rodzin, o których mowa w art. 10 ust. 1 lit. e oraz f tej umowy;
+- **7)** są cudzoziemcami, o których mowa w art. 3 ust. 1 lub 3 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621).”.
 
 **Art. 89.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2024 r. poz. 706 i 1907) w art. 121 w § 9a wyrazy „przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2023 r. poz. 735, 1429, 1723 i 1737)” zastępuje się wyrazami „ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621).”.
 
 **Art. 90.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111 i 497) w art. 299 w § 3 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18–20 w brzmieniu: „18) wojewodom w zakresie prowadzonych postępowań w sprawach zezwoleń na pracę;
 
+- **19)** starostom w zakresie prowadzonych postępowań o wydanie zezwolenia na pracę sezonową lub wpis oświadczenia o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621);
+- **20)** ministrowi właściwemu do spraw pracy w zakresie prowadzonych postępowań w sprawach zezwoleń na pracę i oświadczeń o powierzeniu pracy cudzoziemcowi.”.
+
 **Art. 91.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620) w art. 96:
+
+- **1)** w § 1a w pkt 2 na końcu skreśla się przecinek i uchyla się pkt 3;
+- **2)** po § 1ae dodaje się § 1af w brzmieniu: „§ 1af. W postępowaniu mandatowym, w sprawach o czyny określone w:
+- **1)** art. 84 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), w których oskarżycielem publicznym jest właściwy organ Państwowej Inspekcji Pracy lub Straży Granicznej,
+- **2)** art. 465 ust. 1a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619), w których oskarżycielem publicznym jest właściwy organ Straży Granicznej – można nałożyć grzywnę w wysokości do 10 000 zł.”.
 
 **Art. 92.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389 i 619) w art. 35 ust. 1 i 2 otrzymują brzmienie: „1. Jeżeli sprawa dotycząca udzielenia ochrony międzynarodowej nie została załatwiona w terminie, o którym mowa w art. 34 ust. 1, i opóźnienie nie nastąpiło z winy wnioskodawcy, Szef Urzędu, na wniosek osoby, której dotyczy wniosek o udzielenie ochrony międzynarodowej, wydaje zaświadczenie, które wraz z tymczasowym zaświadczeniem tożsamości cudzoziemca uprawnia tę osobę do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach i w trybie określonych w ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621). 2. W zaświadczeniu, o którym mowa w ust. 1, potwierdza się, że sprawa dotycząca udzielenia ochrony międzynarodowej nie została zakończona w terminie 6 miesięcy i opóźnienie nie nastąpiło z winy wnioskodawcy, oraz wskazuje się imię (imiona) i nazwisko cudzoziemca uprawnionego do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach i w trybie określonych w ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.”.
 
@@ -1394,17 +1480,198 @@ source: "isap-pdf"
 
 **Art. 95.** W ustawie z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1745) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) zadania właściwych ministrów w zakresie monitorowania zjawiska powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej.”;
+- **2)** uchyla się art. 2 i art. 3;
+- **3)** w art. 13 pkt 1 otrzymuje brzmienie: „1) wypełnił obowiązki, o których mowa w art. 4 ust. 2 i 4 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), chyba że wiedział, że przedstawiony dokument uprawniający do pobytu na terytorium Rzeczypospolitej Polskiej został sfałszowany;”;
+- **4)** po art. 14 dodaje się art. 14a w brzmieniu: „Art. 14a. Minister właściwy do spraw pracy w uzgodnieniu z ministrem właściwym do spraw wewnętrznych:
+- **1)** określa – na podstawie oceny ryzyka powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej – sektory działalności na poziomie sekcji, zgodnie z Polską Klasyfikacją Działalności (PKD), o szczególnym natężeniu powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej;
+- **2)** przygotowuje – na podstawie informacji przekazanych przez Straż Graniczną i Państwową Inspekcję Pracy – i przekazuje Komisji Europejskiej:
+    - **a)** co roku, do dnia 30 czerwca – informacje o liczbie przeprowadzonych w poprzednim roku kontroli w zakresie powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej oraz procentowym udziale podmiotów powierzających wykonywanie pracy tym cudzoziemcom w każdym sektorze, o którym mowa w pkt 1,
+    - **b)** co trzy lata – sprawozdania z realizacji ustawy.”.
+
 **Art. 96.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 pkt 23 otrzymuje brzmienie: „23) wykonywanie pracy – wykonywanie pracy przez cudzoziemca w związku z powierzeniem mu pracy w rozumieniu art. 2 pkt 9 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621);”;
+- **2)** użyte w art. 7 w ust. 2, w art. 13 w pkt 18, w art. 77 w ust. 1 w pkt 1 w lit. g i w ust. 11, w art. 106 w ust. 1a w pkt 1, w pkt 2 w lit. g i w pkt 3 oraz w ust. 1b, w art. 114 w ust. 1 w pkt 4 oraz w ust. 4b, w art. 114a w ust. 1, w art. 117 w pkt 1 we wprowadzeniu do wyliczenia, w art. 118 w ust. 1 w pkt 1 i w ust. 2, w art. 121 w ust. 1, w art. 122 w pkt 2, w art. 123 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 127a w ust. 1, w art. 142a w ust. 1, w art. 187 w pkt 5 oraz w art. 337 w ust. 3 i 4, w różnej liczbie i różnym przypadku, wyrazy „podmiot powierzający wykonywanie pracy” lub „podmiot powierzający wykonywanie pracy cudzoziemcowi” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „podmiot powierzający pracę cudzoziemcowi”;
+- **3)** w art. 60 w ust. 1 pkt 5 i 5a otrzymują brzmienie: „5) wykonywania pracy na podstawie wpisanego do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, oświadczenia o powierzeniu pracy cudzoziemcowi;
+- **5a)** wykonywania pracy na podstawie zezwolenia na pracę sezonową;”;
+- **4)** art. 64 otrzymuje brzmienie: „Art. 64. 1. Wiza w celu, o którym mowa w art. 60 ust. 1 pkt 6, może być wydana cudzoziemcowi, który przedstawi zezwolenie na pracę, o którym mowa w art. 32, art. 37 lub art. 42 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, chyba że zezwolenie to nie jest wymagane.
+
+2. Wiza w celu, o którym mowa w art. 60 ust. 1 pkt 5, może być wydana cudzoziemcowi, który przedstawi oświadczenie o powierzeniu pracy cudzoziemcowi wpisane do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
+
+3. Wiza w celu, o którym mowa w art. 60 ust. 1 pkt 5a, może być wydana cudzoziemcowi, którego dotyczy wniosek o wydanie zezwolenia na pracę sezonową wpisany do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, jeżeli cudzoziemiec przedstawi zaświadczenie, o którym mowa w art. 50 ust. 1 pkt 2 tej ustawy. Zaświadczenie wydane na okresy, o których mowa w art. 53 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, jest ważne do końca ostatniego okresu pracy wskazanego w tym zaświadczeniu.
+
+4. Wizę w celu, o którym mowa w art. 60 ust. 1 pkt 6, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w zezwoleniu na pracę, o którym mowa w art. 32, art. 37 lub art. 42 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub dokumencie dotyczącym zatrudnienia cudzoziemca, innym niż zaświadczenie, o którym mowa w art. 50 ust. 1 pkt 2 tej ustawy, lub oświadczenie o powierzeniu pracy cudzoziemcowi wpisane do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 tej ustawy. Okres ten nie może być dłuższy niż przewidziany dla danego typu wizy.
+
+5. Wizę w celu, o którym mowa w art. 60 ust. 1 pkt 5, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w oświadczeniu o powierzeniu pracy cudzoziemcowi wpisanym do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej. Okres ten nie może być dłuższy niż przewidziany dla danego typu wizy.
+
+6. Wizę w celu, o którym mowa w art. 60 ust. 1 pkt 5a, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w zaświadczeniu, o którym mowa w art. 50 ust. 1 pkt 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej. Okres ten nie może być dłuższy niż przewidziany dla danego typu wizy.
+
+7. W przypadku wizy wydawanej w celu, o którym mowa w art. 60 ust. 1 pkt 5a, okres pobytu, na który się ją wydaje, nie może być dłuższy niż 9 miesięcy w roku kalendarzowym, z uwzględnieniem ograniczeń wynikających dla wiz Schengen.”;
+
+- **5)** w art. 65:
+    - **a)** w ust. 1d w pkt 2 w lit. a tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”,
+    - **b)** w ust. 1e w pkt 2 w lit. a tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+
+- **6)** w art. 77:
+    - **a)** w ust. 1 w pkt 1 lit. sa otrzymuje brzmienie: „sa) informacje o posiadanym zezwoleniu na pracę, zaświadczeniu o wpisie wniosku do ewidencji wniosków w sprawie pracy sezonowej, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, oświadczeniu o powierzeniu pracy cudzoziemcowi lub zwolnieniu z wymogu posiadania zezwolenia na pracę,”,
+    - **b)** po ust. 9 dodaje się ust. 9a w brzmieniu: „9a. Konsul rozpatruje wnioski o wydanie wizy z uwzględnieniem pierwszeństwa cudzoziemców mających wykonywać pracę:
+
+- **1)** u przedsiębiorców określonych w wykazie, o którym mowa w art. 28 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub
+- **2)** w grupie zawodów określonej w wykazie, o którym mowa w art. 29 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.”;
+- **7)** w art. 90:
+    - **a)** w ust. 1c w pkt 6 w lit. a tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”,
+    - **b)** w ust. 1d w pkt 6 w lit. a tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+
+- **8)** w art. 106 w ust. 1a:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy i pracę, zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji albo zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej, jeżeli celem jego pobytu jest wykonywanie pracy przez pełnienie funkcji w zarządzie spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, którą utworzył lub której udziały lub akcje objął lub nabył, lub prowadzenie spraw spółki komandytowej lub komandytowo-akcyjnej przez komplementariusza, lub działanie w charakterze prokurenta, składając wniosek o udzielenie zezwolenia na pobyt czasowy dołącza do niego wypełniony przez podmiot powierzający pracę cudzoziemcowi załącznik zawierający:”,
+    - **b)** w pkt 2 po lit. a dodaje się lit. aa w brzmieniu: „aa) zawód, zgodny z klasyfikacją zawodów i specjalności na potrzeby rynku pracy,”;
+
+- **9)** w art. 114:
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) cudzoziemiec będzie wykonywał pracę w zawodzie, który nie znajduje się na liście zawodów, o której mowa w art. 31 ust. 3 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;”,
+    - **b)** uchyla się ust. 3 i 3a,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Przepisu ust. 1 pkt 3 i 4 nie stosuje się, gdy cudzoziemiec spełnia warunki zwolnienia z wymogu posiadania zezwolenia na pracę określone odrębnymi przepisami.”;
+
+- **10)** w art. 116 pkt 4 otrzymuje brzmienie: „4) przebywa na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy w zakresie działalności określonych w przepisach wydanych na podstawie art. 45 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+- **11)** w art. 117: z 2005 r. poz. 160), lub
+    - **a)** w pkt 1: – lit. a–c otrzymują brzmienie: „a) został prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, i w ciągu 2 lat od ukarania został ponownie ukarany za podobne wykroczenie lub
+    - **b)** został prawomocnie ukarany za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub
+    - **c)** jest osobą fizyczną skazaną prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221, art. 270, art. 271, art. 272, art. 273 lub art. 275 Kodeksu karnego, lub”, – uchyla się lit. d, – w lit. f średnik zastępuje się wyrazami „ , lub” i dodaje się lit. g–j w brzmieniu: „g) jest osobą fizyczną prawomocnie skazaną za przestępstwo, o którym mowa w art. 189a Kodeksu karnego, lub skazaną w innym państwie za przestępstwo, o którym mowa w Protokole o zapobieganiu, zwalczaniu oraz karaniu za handel ludźmi, w szczególności kobietami i dziećmi, uzupełniającym Konwencję Narodów Zjednoczonych przeciwko międzynarodowej przestępczości zorganizowanej, przyjętym przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 15 listopada 2000 r. (Dz. U.
+    - **h)** nie dopełnia obowiązku opłacania składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy albo nie dopełnia obowiązku opłacania składek na ubezpieczenie społeczne rolników, z wyjątkiem przypadków, gdy uzyskał przewidziane prawem odroczenie terminu płatności lub rozłożenie na raty zaległych płatności lub gdy wysokość nieopłaconej składki nie przekracza kwoty kosztów upomnienia w postępowaniu egzekucyjnym, lub
+    - **i)** nie dopełnia obowiązku zgłoszenia do ubezpieczenia społecznego pracowników lub innych osób objętych obowiązkowym ubezpieczeniem społecznym, lub
+    - **j)** zalega z uiszczeniem podatku dochodowego od osób fizycznych lub podatku dochodowego od osób prawnych, z wyjątkiem przypadków, gdy uzyskał przewidziane prawem zwolnienie, odroczenie, rozłożenie na raty zaległych płatności lub wstrzymanie w całości wykonania decyzji właściwego organu;”,
+    - **b)** w pkt 2 w lit. b wyrazy „ , lub” zastępuje się średnikiem i uchyla lit. c;
+
+- **12)** art. 117a otrzymuje brzmienie: „Art. 117a. Udzielenia zezwolenia na pobyt czasowy i pracę odmawia się, jeżeli:
+- **1)** podmiot powierzający pracę cudzoziemcowi lub pracodawca użytkownik nie prowadzi działalności uzasadniającej zatrudnienie danego cudzoziemca w danym okresie, w tym ma zawieszoną działalność gospodarczą, został wykreślony z właściwego rejestru lub jego działalność jest w okresie likwidacji lub
+- **2)** podmiot powierzający pracę cudzoziemcowi nie posiada środków finansowych ani źródeł dochodu niezbędnych do pokrycia zobowiązań wynikających z zatrudnienia cudzoziemca, lub
+- **3)** podmiot powierzający pracę cudzoziemcowi został ustanowiony lub działa głównie w celu ułatwiania cudzoziemcom wjazdu na terytorium Rzeczypospolitej Polskiej, lub
+- **4)** z okoliczności sprawy wynika, że cudzoziemiec byłby zatrudniony przez podmiot, który nie jest agencją pracy tymczasowej działającą na terytorium Rzeczypospolitej Polskiej zgodnie z obowiązującymi przepisami, a praca byłaby wykonywana na rzecz osoby trzeciej.”;
+- **13)** w art. 117b wyrazy „art. 88ca ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy” zastępuje się wyrazami „art. 27 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej”;
+- **14)** w art. 118:
+    - **a)** w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) stanowisko lub rodzaj pracy;
+
+- **3)** najniższe wynagrodzenie, które będzie otrzymywać cudzoziemiec na danym stanowisku;”;
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Przepisu ust. 1 nie stosuje się, gdy cudzoziemiec spełnia warunki zwolnienia z wymogu posiadania zezwolenia na pracę określone odrębnymi przepisami.
+
+4. W przypadku, o którym mowa w ust. 3, w decyzji o udzieleniu zezwolenia na pobyt czasowy i pracę, poza okresem ważności zezwolenia, zamieszcza się informację, że cudzoziemiec jest uprawniony do wykonywania pracy na warunkach określonych w przepisie będącym podstawą zwolnienia z wymogu posiadania zezwolenia na pracę.”;
+
+- **15)** art. 119 otrzymuje brzmienie: „Art. 119. 1. Zmiana lub udzielenie nowego zezwolenia na pobyt czasowy i pracę nie są wymagane, jeżeli:
+- **1)** nastąpiła zmiana siedziby lub miejsca zamieszkania, nazwy lub formy prawnej:
+    - **a)** podmiotu powierzającego pracę cudzoziemcowi,
+    - **b)** pracodawcy użytkownika;
+
+- **2)** nastąpiło przejście zakładu pracy lub jego części na innego pracodawcę;
+- **3)** zwiększono wymiar czasu pracy określony w zezwoleniu na pobyt czasowy i pracę przy jednoczesnym proporcjonalnym zwiększeniu wynagrodzenia;
+- **4)** nastąpiła zmiana nazwy stanowiska pracy bez zmiany zakresu obowiązków cudzoziemca;
+- **5)** zastąpiono umowę cywilnoprawną umową o pracę.
+
+2. Podmiot powierzający pracę cudzoziemcowi zawiadamia pisemnie wojewodę, który udzielił zezwolenia na pobyt czasowy i pracę, w terminie 15 dni roboczych, o okolicznościach, o których mowa w ust. 1.
+
+3. Jeżeli zezwolenia na pobyt czasowy i pracę udzielił Szef Urzędu w drugiej instancji, zawiadomienie, o którym mowa w ust. 2, kieruje się do wojewody, który orzekał w sprawie udzielenia zezwolenia na pobyt czasowy i pracę w pierwszej instancji.”;
+
+- **16)** w art. 120:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) u innego podmiotu powierzającego pracę lub w warunkach zwolnienia z wymogu posiadania zezwolenia na pracę, lub”,
+    - **b)** w ust. 4 pkt 2 otrzymuje brzmienie: „2) podmiot powierzający pracę cudzoziemcowi nie spełnia warunków, o których mowa w art. 114 ust. 1 pkt 3 lub 4, lub”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Wojewoda może odmówić zmiany zezwolenia na pobyt czasowy i pracę w przypadkach, o których mowa w ust. 1 pkt 1, jeżeli:
+
+- **1)** podmiot powierzający pracę cudzoziemcowi lub pracodawca użytkownik nie prowadzi działalności uzasadniającej zatrudnienie danego cudzoziemca w danym okresie, w tym zawiesił działalność, został wykreślony z właściwego rejestru lub jego działalność jest w okresie likwidacji lub
+- **2)** podmiot powierzający pracę cudzoziemcowi nie posiada środków finansowych ani źródeł dochodu niezbędnych do pokrycia zobowiązań wynikających z zatrudnienia cudzoziemca.”,
+    - **d)** w ust. 6 pkt 2 otrzymuje brzmienie: „2) podmiot powierzający pracę cudzoziemcowi nie spełnia warunków, o których mowa w art. 114 ust. 1 pkt 3, 4 lub 5.”;
+
+- **17)** w art. 120a w ust. 2 w pkt 1 wyrazy „podmiot powierzający mu wykonywanie pracy” zastępuje się wyrazami „podmiot powierzający pracę cudzoziemcowi”;
+- **18)** w art. 121 dodaje się ust. 4 w brzmieniu: „4. Podmiot powierzający pracę cudzoziemcowi wymieniony w zezwoleniu na pobyt czasowy i pracę zawiadamia pisemnie wojewodę, który udzielił tego zezwolenia, a w przypadku gdy zezwolenia na pobyt czasowy i pracę udzielił Szef Urzędu w drugiej instancji – wojewodę, który orzekał w sprawie udzielenia zezwolenia na pobyt czasowy i pracę w pierwszej instancji, o utracie pracy u niego przez cudzoziemca, któremu udzielono tego zezwolenia, w terminie 15 dni od tego zdarzenia.”;
+- **19)** uchyla się art. 125;
+- **20)** w art. 127 pkt 2 otrzymuje brzmienie: „2) cudzoziemiec będzie wykonywał pracę w zawodzie, który nie znajduje się na liście zawodów, o której mowa w art. 31 ust. 3 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;”;
+- **21)** art. 129 otrzymuje brzmienie: „Art. 129. Przepisu art. 127 pkt 2 nie stosuje się, gdy:
+- **1)** cudzoziemiec, bezpośrednio przed złożeniem wniosku, posiadał zezwolenie na pracę lub zezwolenie na pobyt czasowy i pracę, lub zezwolenie, o którym mowa w art. 127, u tego samego podmiotu powierzającego mu pracę na tym samym stanowisku lub
+- **2)** cudzoziemiec był już legalnie zatrudniony na terytorium Rzeczypospolitej Polskiej przez okres 2 lat na podstawie zezwolenia, o którym mowa w art. 127, lub
+- **3)** cudzoziemiec spełnia warunki zwolnienia z obowiązku posiadania zezwolenia na pracę określone odrębnymi przepisami.”;
+- **22)** uchyla się art. 136;
+- **23)** w art. 139f w ust. 1 w pkt 4 w lit. a tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+- **24)** w art. 139s w ust. 1 w pkt 3 w lit. a tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+- **25)** w art. 140 w ust. 1 pkt 1 otrzymuje brzmienie: „1) posiada zezwolenie na pracę w rozumieniu ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej albo pisemne oświadczenie pracodawcy o zamiarze zatrudnienia go, jeżeli zezwolenie na pracę nie jest wymagane;”;
+- **26)** w art. 142 w ust. 1 w pkt 3 w lit. a wyrazy „art. 87 ust. 1 pkt 1–9 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy” zastępuje się wyrazami „art. 1 ust. 4 pkt 6 oraz art. 3 ust. 1 pkt 1–12 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej”;
+- **27)** w art. 143a:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) podmiot powierzający pracę cudzoziemcowi;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Jeżeli cudzoziemiec spełnia warunki zwolnienia z wymogu posiadania zezwolenia na pracę określone odrębnymi przepisami, w decyzji o udzieleniu zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej, poza okresem ważności zezwolenia, zamieszcza się informację, że cudzoziemiec jest uprawniony do wykonywania pracy na warunkach określonych w przepisie będącym podstawą zwolnienia z wymogu posiadania zezwolenia na pracę.”;
+
+- **28)** w art. 144 w ust. 15 w pkt 5 lit. a i b otrzymują brzmienie: „a) ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub
+    - **b)** ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+
+- **29)** w art. 144a w ust. 1 w pkt 3 w lit. e tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+- **30)** w art. 157d w ust. 1 w pkt 2 w lit. a tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+- **31)** w art. 157j w ust. 1 w pkt 2 w lit. a tiret pierwsze i drugie otrzymują brzmienie: „– ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub”;
+- **32)** w art. 185a w ust. 1: o promocji zatrudnienia i instytucjach rynku pracy” zastępuje się wyrazami „art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej”;
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Zezwolenia na pobyt czasowy ze względu na pracę sezonową udziela się cudzoziemcowi w przypadku, gdy celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w zakresie działalności określonych w przepisach wydanych na podstawie art. 45 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej u podmiotu powierzającego pracę cudzoziemcowi, który dotychczas zatrudniał tego cudzoziemca, lub u innego podmiotu powierzającego pracę cudzoziemcowi, jeżeli cudzoziemiec spełnia łącznie następujące warunki:”,
+    - **b)** w pkt 1 wyrazy „art. 88p ust. 1 pkt 1 ustawy z dnia 20 kwietnia 2004 r.
+
+- **33)** w art. 244 w ust. 1 pkt 11 otrzymuje brzmienie: „11) adnotację „dostęp do rynku pracy” – w przypadku zezwolenia udzielonego cudzoziemcowi, który jest uprawniony do wykonywania pracy na terytorium Rzeczypospolitej Polskiej lub jest zwolniony z wymogu posiadania zezwolenia na pracę;”;
+- **34)** w art. 302: o promocji zatrudnienia i instytucjach rynku pracy” zastępuje się wyrazami „art. 84 ust. 3 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej”;
+    - **a)** w ust. 1 w pkt 4 wyrazy „oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi” zastępuje się wyrazami „oświadczenia o powierzeniu pracy cudzoziemcowi”,
+    - **b)** w ust. 4 wyrazy „art. 120 ust. 3 ustawy z dnia 20 kwietnia 2004 r.
+
+- **35)** w art. 307 ust. 1 otrzymuje brzmienie: „1. W dniu, w którym decyzja o zobowiązaniu cudzoziemca do powrotu stanie się ostateczna, z mocy prawa następuje unieważnienie wizy krajowej, wygaśnięcie zezwolenia na pobyt czasowy, wygaśnięcie zezwolenia na pracę lub unieważnienie wpisu oświadczenia o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.”;
+- **36)** art. 381 otrzymuje brzmienie: „Art. 381. Wykonanie decyzji o zobowiązaniu cudzoziemca do powrotu wydanej przez organ wydającego państwa członkowskiego powoduje unieważnienie z mocy prawa wizy krajowej, zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego lub wpisu oświadczenia o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub wygaśnięcie z mocy prawa zezwolenia na pracę.”.
 
 **Art. 97.** W ustawie z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz. 73) art. 26 otrzymuje brzmienie: „Art. 26. Przepisy ustawy stosuje się odpowiednio w przypadku wykonywania pracy na terytorium Rzeczypospolitej Polskiej przez pracownika skierowanego do tej pracy przez pracodawcę mającego siedzibę w państwie niebędącym państwem członkowskim, z zastrzeżeniem przepisów art. 41 pkt 2 i 3 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621).”.
 
 **Art. 98.** W ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222) wprowadza się następujące zmiany:
 
+- **1)** w art. 48 w ust. 11 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 i 16 w brzmieniu: „15) kontrola jest przeprowadzana na podstawie przepisów art. 1 ust. 2 pkt 13a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. );
+- **16)** kontrola jest przeprowadzana na podstawie przepisów art. 10 ust. 1 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712 oraz z 2025 r. poz. 321, 368 i 620).”;
+- **2)** w art. 54 w ust. 1 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 i 16 w brzmieniu: „15) kontrola jest przeprowadzana na podstawie przepisów art. 1 ust. 2 pkt 13a ustawy z dnia 12 października 1990 r. o Straży Granicznej;
+- **16)** kontrola jest przeprowadzana na podstawie przepisów art. 10 ust. 1 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy.”.
+
 **Art. 99.** W ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89 i 619) w art. 4 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Prawo do podejmowania i wykonywania działalności gospodarczej w formie spółki z ograniczoną odpowiedzialnością, prostej spółki akcyjnej i spółki akcyjnej, o którym mowa w ust. 3, nie obejmuje prawa do:
+
+- **1)** spełniania powtarzających się świadczeń niepieniężnych, o których mowa w art. 176 lub art. 356 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), lub
+- **2)** świadczenia pracy lub usług w zamian za akcje prostej spółki akcyjnej.”.
 
 **Art. 100.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897 oraz z 2025 r. poz. 619 i 620) w art. 325 ust. 1 otrzymuje brzmienie: „1. Powierzenie cudzoziemcowi pracy polegającej na realizacji zadań związanych z kształceniem i prowadzeniem działalności naukowej w podmiocie, o którym mowa w art. 7 ust. 1 pkt 1–7, nie wymaga uzyskania zezwolenia na pracę lub oświadczenia o powierzeniu pracy cudzoziemcowi.”.
 
 **Art. 101.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337 i 620) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 8 wyrazy „art. 87 ust. 1 pkt 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2023 r. poz. 735, 1429, 1723 i 1737)” zastępuje się wyrazami „art. 3 ust. 1 pkt 12 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621)”;
+- **2)** w art. 22:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) podmiot powierzający pracę cudzoziemcowi powiadomi, w terminie 7 dni od dnia podjęcia pracy przez obywatela Ukrainy, powiatowy urząd pracy właściwy ze względu na siedzibę lub miejsce zamieszkania podmiotu o powierzeniu pracy temu obywatelowi;”,
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Podmiot powierzający pracę cudzoziemcowi składa ponownie powiadomienie, o którym mowa w ust. 1 pkt 2, w terminie 7 dni od wystąpienia następujących okoliczności:
+
+- **1)** zmienił się rodzaj umowy pomiędzy podmiotem powierzającym pracę cudzoziemcowi a obywatelem Ukrainy lub
+- **2)** zmieniło się stanowisko lub rodzaj wykonywanej pracy, lub
+- **3)** zmniejszono wymiar czasu pracy lub liczbę godzin pracy w tygodniu lub miesiącu określoną w powiadomieniu, lub
+- **4)** obniżono miesięczną lub godzinową stawkę wynagrodzenia określoną w powiadomieniu.
+
+3. Obowiązek powiadomienia, o którym mowa w ust. 1 pkt 2, nie dotyczy przypadków, o których mowa w art. 3 ust. 1–3 i 5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.”,
+
+- **c)** ust. 5 otrzymuje brzmienie: „5. Jeżeli obywatel Ukrainy rozpoczął pracę zgodnie z przepisami art. 87 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2025 r. poz. 214) lub art. 3 ust. 1–3 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej przed wydaniem mu zezwolenia na pobyt czasowy i pracę, o którym mowa w art. 114 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, i zamierza kontynuować pracę na rzecz tego samego podmiotu powierzającego pracę cudzoziemcowi na warunkach określonych w ust. 1, powiadomienie, o którym mowa w ust. 1 pkt 2, składa się w terminie 7 dni od dnia przekazania informacji zgodnie z ust. 6.”,
+- **d)** w ust. 6 wyrazy „podmiot powierzający wykonywanie pracy” zastępuje się wyrazami „podmiot powierzający pracę cudzoziemcowi”,
+- **e)** ust. 8 i 9 otrzymują brzmienie: „8. Powiadomienie, o którym mowa w ust. 1 pkt 2, następuje za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 7 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).
+
+9. W powiadomieniu, o którym mowa w ust. 1 pkt 2, podmiot powierzający pracę cudzoziemcowi przekazuje:
+
+- **1)** informacje dotyczące podmiotu powierzającego pracę cudzoziemcowi:
+    - **a)** nazwę albo imię (imiona) i nazwisko,
+    - **b)** adres siedziby albo miejsca zamieszkania,
+    - **c)** numer telefonu lub adres poczty elektronicznej o charakterze służbowym,
+    - **d)** numer identyfikacji podatkowej (NIP) i numer identyfikacyjny REGON – w przypadku podmiotu prowadzącego działalność gospodarczą albo numer PESEL – w przypadku osoby fizycznej,
+    - **e)** numer wpisu do rejestru podmiotów prowadzących agencje zatrudnienia – w przypadku podmiotu powierzającego pracę cudzoziemcowi prowadzącego agencję zatrudnienia świadczącą usługi pracy tymczasowej,
+    - **f)** symbol PKD oraz opis wykonywanej działalności związanej z pracą obywateli Ukrainy;
+
+- **2)** dane osobowe obywatela Ukrainy:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** obywatelstwo,
+    - **c)** rodzaj, numer i serię dokumentu podróży lub innego dokumentu stwierdzającego lub pozwalającego ustalić tożsamość oraz państwo, w którym wydano ten dokument,
+    - **d)** numer PESEL albo w przypadku osób nieposiadających tego numeru – datę urodzenia i płeć;
+
+- **3)** rodzaj umowy między podmiotem powierzającym pracę cudzoziemcowi a obywatelem Ukrainy;
+- **4)** stanowisko lub rodzaj wykonywanej pracy;
+- **5)** miejsce wykonywanej pracy;
+- **6)** miesięczną lub godzinową stawkę wynagrodzenia;
+- **7)** wymiar czasu pracy lub liczbę godzin pracy w tygodniu lub w miesiącu;
+- **8)** liczbę wszystkich osób wykonujących pracę na podstawie umowy o pracę i na podstawie umów cywilnoprawnych według stanu na dzień 23 lutego 2022 r. oraz na dzień złożenia powiadomienia.”,
+    - **f)** ust. 14 otrzymuje brzmienie: „14. W przypadku gdy podmiot powierzający pracę cudzoziemcowi nie dopełnił warunków powiadomienia o powierzeniu pracy obywatelowi Ukrainy, o których mowa w ust. 1 pkt 2–5 i ust. 2, przepisu art. 84 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej nie stosuje się.”,
+    - **g)** ust. 17 otrzymuje brzmienie: „17. Minister właściwy do spraw pracy może określić, w drodze rozporządzenia, stosunek liczby obywateli Ukrainy, o których mowa w ust. 1, którym podmiot powierzający pracę może powierzyć pracę, do liczby wszystkich osób, którym ten podmiot powierza pracę, kierując się względami bezpieczeństwa państwa i porządku publicznego, ochroną lokalnych rynków pracy oraz zasadą komplementarności zatrudnienia cudzoziemców w stosunku do obywateli polskich.”.
 
 #### Rozdział 11 Przepisy przejściowe i przepis końcowy
 
@@ -1461,6 +1728,13 @@ source: "isap-pdf"
 **Art. 112.** Przepisu art. 4 ust. 3a ustawy zmienianej w art. 99 nie stosuje się do udziałów lub akcji w spółkach z ograniczoną odpowiedzialnością, prostych spółkach akcyjnych i spółkach akcyjnych, objętych lub nabytych przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 113.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 90 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 i art. 62 ust. 6,
+- **2)** art. 90 ust. 4 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 7,
+- **3)** art. 90 ust. 9 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 45 ust. 2,
+- **4)** art. 90 ust. 10 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 8,
+- **5)** art. 90a ust. 3 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 5 i art. 63 ust. 4,
+- **6)** art. 80 ust. 1 i art. 107 ust. 1 ustawy zmienianej w art. 96, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 80 ust. 1 i art. 107 ust. 1 ustawy zmienianej w art. 96 – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 114.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.
 

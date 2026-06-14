@@ -8,10 +8,10 @@ pos: 1148
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 czerwca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1148 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 30 maja 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1148/text.pdf) |
 
-Poz. 1148 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 30 maja 2018 r.
 w sprawie przetwarzania danych dotyczących przelotu pasażera przez Krajową Jednostkę do spraw Informacji o Pasażerach Na podstawie art. 35 ustawy z dnia 9 maja 2018 r. o przetwarzaniu danych dotyczących przelotu pasażera (Dz. U.
-poz. 894) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 894) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób i tryb kierowania przez właściwe organy do Krajowej Jednostki do spraw Informacji o Pasażerach, zwanej dalej „JIP”, wniosków o:
 a) przekazanie danych dotyczących przelotu pasażera, zwanych dalej „danymi PNR”,
 b) przekazanie danych PNR przez przewoźnika lotniczego w terminach innych niż określone w art. 6 ust. 1 ustawy z dnia 9 maja 2018 r. o przetwarzaniu danych dotyczących przelotu pasażera, zwanej dalej „ustawą”,
@@ -43,7 +43,6 @@ e) usunięcie kryteriów przetwarzania danych PNR;
 4. Punkt kontaktowy, o którym mowa w art. 37 ustawy, przed przekazaniem do JIP wniosku, o którym mowa w § 1 pkt 1, sprawdza, czy zawiera on wymagane dane.
 § 3. 1. JIP przekazuje właściwemu organowi, za pośrednictwem punktu kontaktowego, o którym mowa w art. 37 ustawy, informację o wyznaczonym terminie dokonania okresowego przeglądu aktualności kryteriów przetwarzania danych PNR, o którym mowa w art. 29 ust. 1 ustawy.
 2. Właściwy organ niezwłocznie wyznacza swojego przedstawiciela do wykonania z JIP okresowego przeglądu aktualności kryteriów przetwarzania danych PNR.
-Dziennik Ustaw – 2 – Poz. 1148
 3. JIP sporządza sprawozdanie z okresowego przeglądu aktualności kryteriów, w którym zamieszcza ocenę tych kryteriów przetwarzania danych PNR pod względem potrzeby ich aktualizacji, usunięcia albo ustalenia nowych kryteriów przetwarzania danych PNR.
 4. JIP przekazuje, za pośrednictwem punktu kontaktowego, o którym mowa w art. 37 ustawy, sprawozdanie, o którym mowa w ust. 3, właściwemu organowi.
 § 4. 1. JIP przekazuje właściwemu organowi dane PNR lub wyniki ich przetwarzania w postaci elektronicznej przy użyciu KSI PNR, a w przypadku braku takiej możliwości przy użyciu dostępnych środków komunikacji elektronicznej albo w postaci papierowej.

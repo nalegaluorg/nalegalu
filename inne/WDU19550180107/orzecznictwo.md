@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Dekret z dnia 18 kwietnia 1955 r. o uwłaszczeniu i o uregulowaniu innych spraw, związanych z reformą rolną i osadnictwem rolnym.*
 
 Łącznie: **3** orzeczeń
-(pominięto 2 orzeczeń sądów rejonowych)
+(pominięto 3 orzeczeń sądów rejonowych)
 
 ## art. 12 (1)
 

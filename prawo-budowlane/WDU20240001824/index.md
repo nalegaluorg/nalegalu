@@ -8,7 +8,7 @@ pos: 1824
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
@@ -30,6 +30,9 @@ source: "isap-pdf"
 **Art. 1.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151) w art. 53b w ust. 2 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „31 grudnia 2027 r.”.
 
 **Art. 2.** W ustawie z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688) w art. 78:
+
+- **1)** uchyla się pkt 1;
+- **2)** w pkt 2 wyrazy „pkt 62 lit. b i f” zastępuje się wyrazami „pkt 62 lit. b, lit. e w zakresie ust. 3b i lit. f”.
 
 **Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

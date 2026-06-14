@@ -8,10 +8,10 @@ pos: 1592
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów Stwierdzamy, że praca albo służba w organach bezpieczeństwa państwa komunistycznego, lub pomoc udzielana tym organom przez osobowe źródło informacji, polegające na zwalczaniu opozycji demokratycznej, związków zawodowych, stowarzyszeń, kościołów i związków wyznaniowych, łamaniu prawa do wolności słowa i zgromadzeń, gwałceniu prawa do życia, wolności, własności i bezpieczeństwa obywateli, była trwale związana z łamaniem praw człowieka i obywatela na rzecz komunistycznego ustroju totalitarnego. Mając na względzie powyższe, a także konieczność zapewnienia obsady funkcji, stanowisk i zawodów wymagających zaufania publicznego przez osoby, które swoim dotychczasowym postępowaniem dają i dawały w przeszłości gwarancje uczciwości, szlachetności, poczucia odpowiedzialności za własne słowa i czyny, odwagi cywilnej i prawości, oraz ze względu na konstytucyjne gwarancje zapewniające obywatelom prawo do informacji o osobach pełniących takie funkcje, zajmujących takie stanowiska i wykonujących takie zawody, stanowi się, co następuje: Przepisy ogólne
+# o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów Stwierdzamy, że praca albo służba w organach bezpieczeństwa państwa komunistycznego, lub pomoc udzielana tym organom przez osobowe źródło informacji, polegające na zwalczaniu opozycji demokratycznej, związków zawodowych, stowarzyszeń, kościołów i związków wyznaniowych, łamaniu prawa do wolności słowa i zgromadzeń, gwałceniu prawa do życia, wolności, własności i bezpieczeństwa obywateli, była trwale związana z łamaniem praw człowieka i obywatela na rzecz komunistycznego ustroju totalitarnego. Mając na względzie powyższe, a także konieczność zapewnienia obsady funkcji, stanowisk i zawodów wymagających zaufania publicznego przez osoby, które swoim dotychczasowym postępowaniem dają i dawały w przeszłości gwarancje uczciwości, szlachetności, poczucia odpowiedzialności za własne słowa i czyny, odwagi cywilnej i prawości, oraz ze względu na konstytucyjne gwarancje zapewniające obywatelom prawo do informacji o osobach pełniących takie funkcje, zajmujących takie stanowiska i wykonujących takie zawody, stanowi się, co następuje:
 
 *USTAWA z dnia 18 października 2006 r.*
 
@@ -27,7 +27,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062181592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1592/text.pdf) |
 
-Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
+Art. 30–55. (pominięte)
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady i tryb ujawniania informacji o dokumentach organów bezpieczeństwa państwa oraz treści tych dokumentów, znajdujących się w archiwum Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwanego dalej „Instytutem Pamięci Narodowej”, tryb składania oraz oceny zgodności z prawdą oświadczeń dotyczących pracy lub służby w organach bezpieczeństwa państwa lub współpracy z tymi organami w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r.
 
@@ -47,6 +49,7 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 - **10)** Wojskowa Służba Wewnętrzna;
 - **11)** Zarząd II Sztabu Generalnego Wojska Polskiego;
 - **12)** inne służby Sił Zbrojnych prowadzące działania operacyjno-rozpoznawcze lub dochodzeniowo-śledcze, w tym w rodzajach broni oraz w okręgach wojskowych.
+- **13)** (utracił moc)
 - **14)** (utracił moc)
 
 2. (utracił moc)
@@ -68,15 +71,122 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 1. Współpracą w rozumieniu ustawy jest świadoma i tajna współpraca z ogniwami operacyjnymi lub śledczymi organów bezpieczeństwa państwa w charakterze tajnego informatora lub pomocnika przy operacyjnym zdobywaniu informacji.
 
-2. Współpracą w rozumieniu ustawy jest również świadome działanie, którego obowiązek wynikał z ustawy obowiązującej w czasie tego działania lub pełnioną służbą, jeżeli informacje przekazywane były organom bezpieczeństwa państwa w zamiarze naruszenia wolności i praw człowieka i obywatela.
+2. Współpracą w rozumieniu ustawy jest również świadome działanie, którego obowiązek wynikał z ustawy obowiązującej w czasie tego działania w związku z pełnioną funkcją, zajmowanym stanowiskiem, wykonywaną pracą lub pełnioną służbą, jeżeli informacje przekazywane były organom bezpieczeństwa państwa w zamiarze naruszenia wolności i praw człowieka i obywatela.
 
 3. Służbą w rozumieniu ustawy nie jest pełnienie jej w organach, o których mowa w art. 2, której obowiązek wynikał z ustawy obowiązującej w tym czasie.
 
 **Art. 4.** Osobami pełniącymi funkcje publiczne w rozumieniu ustawy są:
 
+- **1)** Prezydent Rzeczypospolitej Polskiej;
+- **2)** poseł, senator, poseł do Parlamentu Europejskiego;
+- **3)** osoba zajmująca kierownicze stanowisko państwowe w rozumieniu ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2023 r. poz. 624);
+- **4)** członek Rady Polityki Pieniężnej;
+- **5)** członek Zarządu Narodowego Banku Polskiego;
+- **5a)** członek Państwowej Komisji Wyborczej, o którym mowa w art. 157 § 2 pkt 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365);
+- **6)** członek Kolegium Instytutu Pamięci Narodowej;
+- **6a)** komisarz wyborczy;
+- **7)** Prezes Narodowego Funduszu Zdrowia i jego zastępcy;
+- **8)** Prezes Zakładu Ubezpieczeń Społecznych i jego zastępcy;
+- **9)** Prezes Kasy Rolniczego Ubezpieczenia Społecznego i jego zastępcy;
+- **10)** Przewodniczący, Zastępcy Przewodniczącego oraz członkowie Komisji Nadzoru Finansowego;
+- **10a)** członkowie korpusu służby cywilnej;
+- **10b)** urzędnicy państwowi oraz inni pracownicy, o których mowa w art. 1 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917 oraz z 2025 r. poz. 39, 620 i 820);
+- **11)** osoby wchodzące w skład służby zagranicznej w rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i
+- **1840)** ;
+- **11a)** niebędące członkami służby zagranicznej w rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej osoby: o służbie zagranicznej,
+    - **a)** o których mowa w art. 3 ust. 2 pkt 3 ustawy z dnia 21 stycznia 2021 r.
+    - **b)** zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie umowy o pracę w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807),
+    - **c)** zatrudnione w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie przepisów ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych,
+    - **d)** zatrudnione w jednostkach organizacyjnych nadzorowanych przez ministra właściwego do spraw zagranicznych – o ile osoby te są obywatelami polskimi;
+
+- **11b)** (uchylony)
+- **12)** osoby powołane lub mianowane na podstawie przepisów innych ustaw na inne, niż wymienione w pkt 3–11 i 14, stanowiska przez Prezydenta Rzeczypospolitej Polskiej, Sejm, Prezydium Sejmu, Senat, Prezydium Senatu, Sejm i Senat, Marszałka Sejmu, Marszałka Senatu lub Prezesa Rady Ministrów;
+- **13)** prezes sądu;
+- **14)** sędzia i prokurator;
+- **15)** kierownik powszechnej jednostki organizacyjnej prokuratury;
+- **16)** radca Prokuratorii Generalnej Rzeczypospolitej Polskiej;
+- **17)** organ i członek organu jednostki samorządu terytorialnego, organu związku jednostek samorządu terytorialnego oraz organu jednostki pomocniczej jednostki samorządu terytorialnego, której obowiązek utworzenia wynika z ustawy;
+- **17a)** członek zarządu związku metropolitalnego;
+- **18)** członek rady uczelni, rektor, członek kolegium elektorów, członek senatu, osoba będąca członkiem organu w rozumieniu art. 17 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), osoba pełniąca funkcję organu w rozumieniu tego przepisu, prezydent federacji podmiotów systemu szkolnictwa wyższego i nauki, członek zgromadzenia federacji podmiotów systemu szkolnictwa wyższego i nauki, osoba ubiegająca się o tytuł profesora, członek Rady Doskonałości Naukowej, członek Polskiej Komisji Akredytacyjnej, członek Komisji Ewaluacji Nauki oraz członek Rady Głównej Nauki i Szkolnictwa Wyższego;
+- **18a)** Dyrektor Narodowej Agencji Wymiany Akademickiej i jego zastępcy;
+- **18b)** członkowie Rady Narodowej Agencji Wymiany Akademickiej;
+- **18c)** Prezes i Wiceprezesi Centrum Łukasiewicz;
+- **19)** członek rady nadzorczej, członek zarządu, dyrektor programu i jego zastępcy, wydawca lub autor audycji publicystycznej lub informacyjnej oraz dyrektor terenowego oddziału i agencji „Telewizji Polskiej – Spółka Akcyjna”, „Polskiego Radia – Spółka Akcyjna”, a także członek Zarządu, członek Rady Nadzorczej oraz członek Rady Programowej „Polskiej Agencji Prasowej – Spółka Akcyjna”, dyrektor oddziału, dyrektor biura, redaktor naczelny „Polskiej Agencji Prasowej – Spółka Akcyjna” oraz członek rady nadzorczej, członek zarządu, dyrektor i jego zastępcy w spółce radiofonii regionalnej;
+- **20)** (utracił moc)
+- **21)** (utracił moc)
+- **22)** dyrektor generalny Najwyższej Izby Kontroli oraz pracownicy Najwyższej Izby Kontroli nadzorujący lub wykonujący czynności kontrolne;
+- **23)** (utracił moc)
+- **24)** osoby zajmujące kierownicze stanowiska:
+    - **a)** w urzędach organów władzy publicznej, w tym naczelnych i centralnych organach administracji państwowej: dyrektora generalnego, dyrektora departamentu lub jednostki równorzędnej, jego zastępcy oraz naczelnika wydziału lub jednostki równorzędnej,
+    - **b)** w administracji rządowej w województwie: dyrektora generalnego, dyrektora i jego zastępcy, kierownika zespolonej służby, inspekcji lub straży i jego zastępcy, kierownika w organie administracji niezespolonej i jego zastępcy;
+
+- **25)** osoba zajmująca wysokie stanowisko państwowe w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. poz. 1217, z późn. zm. ) , inne niż wymienione w pkt 3, 7, 11 i 24;
+- **26)** pracownicy Urzędu Komisji Nadzoru Finansowego zajmujący stanowiska dyrektora pionu i jego zastępcy, dyrektora departamentu lub jednostki równorzędnej i jego zastępcy oraz naczelnika wydziału lub jednostki równorzędnej;
+- **27)** pracownicy Narodowego Banku Polskiego zajmujący stanowiska dyrektora departamentu lub jednostki równorzędnej, jego zastępcy oraz naczelnika wydziału lub jednostki równorzędnej, jego zastępcy oraz doradcy prezesa, terenowego koordynatora inspekcji, głównego specjalisty kierującego zespołem, kierownika zespołu, kierownika sekcji i głównego specjalisty;
+- **28)** pracownicy Instytutu Pamięci Narodowej;
+- **29)** członek Rady Narodowego Funduszu Zdrowia, dyrektor i zastępcy dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia, dyrektor i zastępcy dyrektora departamentów (komórek równorzędnych) w centrali Narodowego Funduszu Zdrowia oraz główny księgowy Narodowego Funduszu Zdrowia;
+- **29a)** kontrolerzy w rozumieniu art. 61e ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. );
+- **30)** dyrektor (kierownik) komórki organizacyjnej w centrali Zakładu Ubezpieczeń Społecznych, dyrektor oddziału w Zakładzie Ubezpieczeń Społecznych i ich zastępcy;
+- **31)** dyrektor biura centrali Kasy Rolniczego Ubezpieczenia Społecznego, dyrektor oddziału regionalnego Kasy Rolniczego Ubezpieczenia Społecznego i ich zastępcy;
+- **32)** skarbnik województwa, powiatu lub gminy oraz sekretarz powiatu lub gminy;
+- **32a)** skarbnik związku metropolitalnego oraz sekretarz związku metropolitalnego;
+- **33)** prezes, wiceprezes i członkowie samorządowych kolegiów odwoławczych;
+- **34)** pracownicy regionalnych izb obrachunkowych zajmujący stanowiska: prezesa, członka kolegium, naczelnika wydziału oraz inspektora do spraw kontroli;
+- **35)** (uchylony)
+- **36)** członek zarządu, członek rady nadzorczej banku państwowego;
+- **37)** dyrektor przedsiębiorstwa państwowego, jego zastępca oraz osoba zarządzająca przedsiębiorstwem na podstawie umowy o zarządzanie przedsiębiorstwem państwowym;
+- **38)** (uchylony)
+- **39)** członek zarządu, członek rady nadzorczej spółki handlowej z udziałem Skarbu Państwa, w której udział Skarbu Państwa przekracza 50 % kapitału zakładowego lub 50 % liczby akcji;
+- **40)** członek zarządu, członek rady nadzorczej w spółce handlowej z udziałem jednostki samorządu terytorialnego, w której udział jednostki samorządu terytorialnego przekracza 50 % kapitału zakładowego lub 50 % liczby akcji;
+- **41)** (uchylony)
+- **42)** osoba będąca przedstawicielem Skarbu Państwa w radzie nadzorczej spółki handlowej innej niż wymieniona w pkt 39;
+- **43)** osoba będąca przedstawicielem jednostki samorządu terytorialnego w radzie nadzorczej spółki handlowej, innej niż wymieniona w pkt 40;
+- **44)** pracownicy nauki i szkolnictwa wyższego:
+    - **a)** (utraciła moc)
+    - **b)** osoba pełniąca funkcję kierowniczą albo głównego księgowego w uczelni publicznej,
+    - **c)** osoba zajmująca stanowisko dyrektora instytutu, wicedyrektora instytutu, kanclerza, głównego księgowego, prezesa, wiceprezesa, sekretarza naukowego w Polskiej Akademii Nauk lub w instytucie badawczym,
+    - **d)** osoba zajmująca w instytucie działającym w ramach Sieci Badawczej Łukasiewicz stanowisko dyrektora lub zastępcy dyrektora,
+    - **e)** członek Akademii Kopernikańskiej posiadający obywatelstwo polskie oraz dyrektor Centrum Badawczego Mikołaja Kopernika i dyrektor Biura Akademii Kopernikańskiej;
+
+- **45)** dyrektor szkoły publicznej lub niepublicznej;
+- **46)** dyrektor Centralnej Komisji Egzaminacyjnej i dyrektor okręgowej komisji egzaminacyjnej;
+- **47)** adwokat, radca prawny, notariusz;
+- **48)** komornik;
+- **49)** (utracił moc)
+- **50)** (utracił moc)
+- **51)** audytor wewnętrzny w rozumieniu ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. poz. 2104, z późn. zm. ) ;
+- **52)** (utracił moc)
+- **53)** (utracił moc)
+- **54)** dyrektor i zastępcy dyrektora Narodowego Centrum Badań i Rozwoju;
+- **55)** żołnierze zawodowi zajmujący stanowiska służbowe o stopniach etatowych pułkowników (komandorów) i generałów (admirałów) oraz zajmujący stanowiska służbowe Szefa Centralnego Wojskowego Centrum Rekrutacji oraz szefów wojskowych centrów rekrutacji;
+- **56)** dyrektor i zastępcy dyrektora Narodowego Centrum Nauki;
+- **57)** dyrektor Centrum Dialogu im. Juliusza Mieroszewskiego;
+- **58)** osoba zatrudniona w jednostce organizacyjnej Krajowej Administracji Skarbowej w rozumieniu art. 1 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131) albo funkcjonariusz Służby Celno-Skarbowej;
+- **59)** Szef Krajowej Administracji Skarbowej i jego zastępcy;
+- **60)** członek zarządu polskiego związku sportowego;
+- **61)** Dyrektor Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego i jego zastępcy, członkowie Rady Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego;
+- **61a)** Dyrektor Instytutu Współpracy Polsko-Węgierskiej im. Wacława Felczaka i jego zastępcy;
+- **61b)** Dyrektor Polskiego Instytutu Ekonomicznego i jego zastępcy;
+- **61c)** Dyrektor Instytutu Europy Środkowej i jego zastępcy;
+- **61d)** Dyrektor Instytutu Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego i jego zastępca;
+- **62)** osoba zatrudniona w Straży Marszałkowskiej i funkcjonariusz Straży Marszałkowskiej;
+- **63)** Komendant Straży Marszałkowskiej i jego zastępcy;
+- **64)** osoby pełniące funkcje organów albo wchodzące w skład organów Polskiego Związku Łowieckiego;
+- **65)** członkowie zarządu koła łowieckiego lub komisji rewizyjnej koła łowieckiego;
+- **66)** Prezes i zastępcy Prezesa Agencji Badań Medycznych oraz osoba pełniąca obowiązki Prezesa Agencji Badań Medycznych;
+- **67)** członkowie Rady Agencji Badań Medycznych;
+- **68)** Prezes Polskiej Agencji Nadzoru Audytowego, Zastępca Prezesa Polskiej Agencji Nadzoru Audytowego oraz członkowie Rady Polskiej Agencji Nadzoru Audytowego;
+- **68a)** Prezes Rządowej Agencji Rezerw Strategicznych oraz jego zastępcy;
+- **69)** państwowi inspektorzy sanitarni;
+- **69a)** członek Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, członek Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, członek rady nadzorczej wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej oraz członek zarządu wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej;
+- **70)** Dyrektor Państwowego Instytutu Medycznego Ministerstwa Spraw Wewnętrznych i Administracji i jego zastępcy;
+- **71)** dyrektor Centrum Medycznego Kształcenia Podyplomowego.
+
 **Art. 5.** (uchylony)
 
-**Art. 6.** (uchylony) Oświadczenia i rejestr oświadczeń
+**Art. 6.** (uchylony)
+
+#### Rozdział 2 Oświadczenia i rejestr oświadczeń
 
 **Art. 7.**
 
@@ -92,7 +202,11 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 4. Tryb składania oświadczeń przez osoby, o których mowa w art. 4 pkt 1, 2 i 17, pochodzące z wyborów powszechnych, określają przepisy odpowiednich ustaw regulujących zasady przeprowadzania wyborów.
 
-5. Organy, którym składane są oświadczenia lustracyjne, przekazują je niezwłocznie do Biura Lustracyjnego Instytutu Pamięci Narodowej celem rozpoznania w trybie określonym w ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, chyba że z przepisów odrębnych wynika obowiązek przekazania oświadczenia do oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej, z zastrzeżeniem art. 21c. które pełnią służbę w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego i wykonywały lub wykonują czynności operacyjno-rozpoznawcze poza granicami państwa w celu ochrony jego bezpieczeństwa, obronności lub bezpieczeństwa i zdolności bojowej Sił Zbrojnych Rzeczypospolitej Polskiej oraz innych jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej, w oświadczeniu lustracyjnym nie podają informacji o pracy lub służbie w organach bezpieczeństwa państwa.
+5. Organy, którym składane są oświadczenia lustracyjne, przekazują je niezwłocznie do Biura Lustracyjnego Instytutu Pamięci Narodowej celem rozpoznania w trybie określonym w ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, chyba że z przepisów odrębnych wynika obowiązek przekazania oświadczenia do oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej, z zastrzeżeniem art. 21c.
+
+**Art. 7a.**
+
+1. Osoby zobowiązane do złożenia oświadczenia lustracyjnego, które pełnią służbę w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego i wykonywały lub wykonują czynności operacyjno-rozpoznawcze poza granicami państwa w celu ochrony jego bezpieczeństwa, obronności lub bezpieczeństwa i zdolności bojowej Sił Zbrojnych Rzeczypospolitej Polskiej oraz innych jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej, w oświadczeniu lustracyjnym nie podają informacji o pracy lub służbie w organach bezpieczeństwa państwa.
 
 2. Osoby, o których mowa w ust. 1, równocześnie ze złożeniem oświadczenia lustracyjnego składają, z zachowaniem przepisów o ochronie informacji niejawnych, deklarację zawierającą informacje o pracy lub służbie w organach bezpieczeństwa państwa.
 
@@ -105,6 +219,117 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 6. Do deklaracji znajdujących się w Instytucie Pamięci Narodowej nie może mieć dostępu żadna inna osoba poza przedstawicielami wyznaczonymi przez odpowiednio Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu oraz – w zakresie deklaracji przekazanych przez Szefa Służby Kontrwywiadu Wojskowego albo Szefa Służby Wywiadu Wojskowego – przez Ministra Obrony Narodowej, a także przez Prezesa Instytutu Pamięci Narodowej w celu realizacji czynności, o których mowa w art. 52a pkt 2 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
 **Art. 8.** Właściwym organem do przedłożenia oświadczenia lustracyjnego jest w stosunku do osób kandydujących na funkcję publiczną, o której mowa w art. 4:
+
+- **1)** pkt 1 i 2 – Państwowa Komisja Wyborcza;
+- **2)** pkt 3:
+    - **a)** w stosunku do osoby desygnowanej na stanowisko Prezesa Rady Ministrów – Prezydent Rzeczypospolitej Polskiej,
+    - **b)** w stosunku do kandydata na kierownicze stanowisko państwowe, na które powołuje lub mianuje Prezydent Rzeczypospolitej Polskiej lub Prezes Rady Ministrów – powołujący lub mianujący,
+    - **c)** w stosunku do kandydata na kierownicze stanowisko państwowe, na które powołuje, wybiera lub mianuje Sejm, Prezydium Sejmu, Sejm i Senat lub Marszałek Sejmu – Marszałek Sejmu,
+    - **d)** w stosunku do kandydata na kierownicze stanowisko państwowe, na które powołuje lub mianuje Senat lub Marszałek Senatu – Marszałek Senatu,
+    - **e)** w stosunku do kandydata na kierownicze stanowisko państwowe, na które powołuje lub mianuje organ inny niż wymienione w lit. b–d – organ powołujący lub mianujący;
+
+- **3)** pkt 4 – Prezydent Rzeczypospolitej Polskiej;
+- **4)** pkt 5 – Prezes Narodowego Banku Polskiego;
+- **4a)** pkt 5a – Marszałek Sejmu;
+- **5)** pkt 6 – właściwy organ wybierający lub powołujący;
+- **5a)** pkt 6a – minister właściwy do spraw wewnętrznych;
+- **6)** pkt 7 – minister właściwy do spraw zdrowia;
+- **7)** pkt 8 – Prezes Rady Ministrów;
+- **8)** pkt 9 – minister właściwy do spraw rozwoju wsi;
+- **9)** pkt 10 – właściwy organ powołujący, wyznaczający lub delegujący;
+- **9a)** pkt 10a i 10b – kierownik urzędu, a w odniesieniu do kierownika urzędu – właściwy organ powołujący;
+- **10)** pkt 11 i 11a – minister właściwy do spraw zagranicznych;
+- **10a)** (uchylony)
+- **11)** pkt 12 – właściwy organ powołujący lub mianujący;
+- **12)** pkt 13:
+    - **a)** w stosunku do kandydata na funkcję prezesa sądu powszechnego oraz prezesa sądu wojskowego – Minister Sprawiedliwości,
+    - **b)** w stosunku do kandydata na funkcję prezesa wojewódzkiego sądu administracyjnego – Prezes Naczelnego Sądu Administracyjnego;
+
+- **13)** pkt 14:
+    - **a)** w stosunku do kandydata na stanowisko sędziego Trybunału Konstytucyjnego lub sędziego Trybunału Stanu – Marszałek Sejmu,
+    - **b)** w stosunku do osoby niebędącej sędzią, ubiegającej się o stanowisko sędziego Sądu Najwyższego – Pierwszy Prezes Sądu Najwyższego,
+    - **c)** w stosunku do osoby niebędącej sędzią, ubiegającej się o stanowisko sędziego sądu administracyjnego – Krajowa Rada Sądownictwa,
+    - **d)** w stosunku do kandydata na stanowisko sędziego sądu powszechnego lub wojskowego – Krajowa Rada Sądownictwa,
+    - **e)** w stosunku do kandydata na stanowisko prokuratora – Prokurator Generalny;
+
+- **14)** pkt 15 – Prokurator Generalny;
+- **15)** pkt 16 – Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej;
+- **16)** pkt 17 – w stosunku do osoby ubiegającej się o funkcję organu lub członka organu jednostki samorządu terytorialnego oraz członka organu jednostki pomocniczej jednostki samorządu terytorialnego, której obowiązek utworzenia wynika z ustawy, pochodzącego z wyborów powszechnych – właściwa komisja wyborcza; w stosunku do pozostałych osób – właściwy wojewoda;
+- **16a)** pkt 17a – właściwy wojewoda;
+- **17)** pkt 18 i 18a:
+    - **a)** w stosunku do kandydata na członka rady uczelni, członka kolegium elektorów, członka senatu, członka organu w rozumieniu art. 17 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce oraz do kandydata do pełnienia funkcji organu w rozumieniu tego przepisu – właściwy rektor,
+    - **b)** w stosunku do osoby ubiegającej się o tytuł profesora – przewodniczący Rady Doskonałości Naukowej,
+    - **c)** w stosunku do kandydata na rektora, prezydenta federacji podmiotów systemu szkolnictwa wyższego i nauki, członka zgromadzenia federacji podmiotów systemu szkolnictwa wyższego i nauki, członka Rady Doskonałości Naukowej, członka Polskiej Komisji Akredytacyjnej, członka Komisji Ewaluacji Nauki, członka Rady Głównej Nauki i Szkolnictwa Wyższego, Dyrektora Narodowej Agencji Wymiany Akademickiej i na jego zastępcę – właściwy podmiot powołujący lub dokonujący wyboru;
+
+- **17a)** pkt 18b – właściwy organ powołujący;
+- **17b)** pkt 18c – minister właściwy do spraw szkolnictwa wyższego i nauki;
+- **18)** pkt 19 – organ lub podmiot uprawniony do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa, a w stosunku do członków rad nadzorczych jednostek publicznej radiofonii i telewizji – właściwy organ powołujący;
+- **19)** pkt 20 – właściwy organ koncesyjny;
+- **20)** pkt 21 :
+    - **a)** w stosunku do członka zarządu lub rady nadzorczej wydawcy, wspólnika spółki osobowej będącej wydawcą lub osoby fizycznej będącej wydawcą w rozumieniu ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe – właściwy organ rejestracyjny;
+    - **b)** (utraciła moc)
+
+- **21)** pkt 22 – Prezes Najwyższej Izby Kontroli;
+- **22)** pkt 23 – Przewodniczący Komisji Nadzoru Finansowego;
+- **23)** pkt 24:
+    - **a)** lit. a – odpowiednio właściwy minister lub kierownik urzędu,
+    - **b)** lit. b – właściwy wojewoda;
+
+- **24)** pkt 25 – właściwy organ powołujący;
+- **25)** pkt 26 – Przewodniczący Komisji Nadzoru Finansowego;
+- **26)** pkt 27 – Prezes Narodowego Banku Polskiego;
+- **27)** pkt 28 – Prezes Instytutu Pamięci Narodowej;
+- **28)** pkt 29 – minister właściwy do spraw zdrowia;
+- **28a)** pkt 29a – Prezes Narodowego Funduszu Zdrowia;
+- **29)** pkt 30 – Prezes Rady Ministrów;
+- **30)** pkt 31 – minister właściwy do spraw rozwoju wsi;
+- **31)** pkt 32 – właściwy organ powołujący;
+- **31a)** pkt 32a – właściwy wojewoda;
+- **32)** pkt 33 – Prezes Rady Ministrów;
+- **33)** pkt 34 – w stosunku do kandydata na prezesa regionalnej izby obrachunkowej – Prezes Rady Ministrów; w stosunku do kandydata na członka kolegium regionalnej izby obrachunkowej, a także naczelnika wydziału lub inspektora do spraw kontroli w regionalnej izbie obrachunkowej – prezes tej izby;
+- **34)** (uchylony)
+- **35)** pkt 36 – Prezes Rady Ministrów;
+- **36)** pkt 37 – właściwy organ założycielski;
+- **37)** pkt 39 – organ lub podmiot uprawniony do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa;
+- **38)** pkt 40 – właściwy wojewoda;
+- **39)** pkt 42 – organ lub podmiot uprawniony do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa;
+- **40)** pkt 43 – właściwy wojewoda;
+- **41)** pkt 44 – właściwy rektor lub kierownik jednostki zatrudniającej;
+- **42)** pkt 45 – właściwy kurator oświaty;
+- **43)** pkt 46 – minister właściwy do spraw oświaty i wychowania;
+- **44)** pkt 47:
+    - **a)** w stosunku do osoby ubiegającej się o wpis na listę adwokatów lub radców prawnych – właściwa okręgowa rada adwokacka lub okręgowa izba radców prawnych,
+    - **b)** w stosunku do osoby ubiegającej się o powołanie do wykonywania zawodu notariusza – Minister Sprawiedliwości;
+
+- **45)** pkt 48 – Minister Sprawiedliwości;
+- **46)** pkt 49 – Krajowa Rada Biegłych Rewidentów;
+- **47)** pkt 50 – Krajowa Rada Doradców Podatkowych;
+- **48)** pkt 51 – kierownik jednostki sektora finansów publicznych;
+- **49)** (utracił moc)
+- **50)** (uchylony)
+- **51)** pkt 54 i 56 – minister właściwy do spraw szkolnictwa wyższego i nauki;
+- **52)** pkt 55 – Minister Obrony Narodowej;
+- **53)** pkt 57 – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego;
+- **54)** pkt 58 – kierownik jednostki organizacyjnej Krajowej Administracji Skarbowej;
+- **55)** pkt 59 – minister właściwy do spraw finansów publicznych;
+- **56)** pkt 60 – minister właściwy do spraw kultury fizycznej;
+- **57)** pkt 61 – Przewodniczący Komitetu do spraw Pożytku Publicznego;
+- **57a)** pkt 61a i 61c – Szef Kancelarii Prezesa Rady Ministrów; 57aa) pkt 61b – minister właściwy do spraw finansów publicznych;
+- **57b)** pkt 61d – minister właściwy do spraw oświaty i wychowania;
+- **58)** pkt 62 – Komendant Straży Marszałkowskiej;
+- **59)** pkt 63 – Szef Kancelarii Sejmu;
+- **60)** pkt 64:
+    - **a)** w stosunku do kandydata na delegata na okręgowy zjazd delegatów Polskiego Związku Łowieckiego, kandydata na delegata na Krajowy Zjazd Delegatów Polskiego Związku Łowieckiego lub kandydata do Naczelnej Rady Łowieckiej – właściwy zarząd okręgowy,
+    - **b)** w stosunku do innych osób – właściwy organ powołujący;
+
+- **61)** pkt 65 – właściwy organ wybierający;
+- **62)** pkt 66 i 67 – minister właściwy do spraw zdrowia;
+- **63)** pkt 68 – właściwy organ powołujący;
+- **63a)** pkt 68a – minister właściwy do spraw wewnętrznych;
+- **64)** pkt 69 – właściwy organ powołujący;
+- **64a)** pkt 69a – minister właściwy do spraw klimatu;
+- **65)** pkt 70 – minister właściwy do spraw wewnętrznych;
+- **66)** pkt 71 – minister właściwy do spraw zdrowia.
 
 **Art. 9.** Osoby składające oświadczenie lustracyjne, w zakresie jego treści, są zwolnione z mocy prawa z obowiązku zachowania w tajemnicy informacji niejawnych.
 
@@ -125,6 +350,8 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 4. Złożenie oświadczenia lustracyjnego w związku z pełnieniem w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego albo Centralnym Biurze Antykorupcyjnym funkcji publicznej, o której mowa w art. 4 pkt 24, następuje z zachowaniem przepisów o ochronie informacji niejawnych. Przepisów ust. 1 –3 nie stosuje się.
 
 5. Wzór oświadczenia lustracyjnego składanego na zasadach określonych w ust. 4 stanowi załącznik nr 4 do ustawy.
+
+**Art. 12.** (uchylony)
 
 **Art. 13.** Treść oświadczenia lustracyjnego kandydata na Prezydenta Rzeczypospolitej Polskiej, posła lub senatora, posła do Parlamentu Europejskiego oraz kandydata na pochodzący z wyborów powszechnych organ i członka organu jednostki samorządu terytorialnego oraz członka organu jednostki pomocniczej jednostki samorządu terytorialnego, której obowiązek utworzenia wynika z ustawy, stwierdzającego fakt ich pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi, w części A określonej wzorem stanowiącym załącznik nr 1a do ustawy, podaje się do publicznej wiadomości również w obwieszczeniu wyborczym.
 
@@ -147,7 +374,7 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 - **1)** na wniosek osoby lustrowanej, w zakresie, w jakim mogą zostać ujawnione okoliczności dotyczące tej osoby, o których mowa w art. 22 ust. 3 pkt 1, albo
 - **2)** z urzędu, w zakresie, w jakim mogą zostać ujawnione okoliczności, o których mowa w art. 22 ust. 3 pkt 1, dotyczące innej osoby lub innych osób, chyba że były one pracownikami lub funkcjonariuszami organów bezpieczeństwa państwa.
 
-2a. Sąd może wyłączyć jawność całości albo części rozprawy również na żądanie prokuratora Biura Lustracyjnego lub prokuratora oddziałowego biura informacji niejawnych.
+2a. Sąd może wyłączyć jawność całości albo części rozprawy również na żądanie prokuratora Biura Lustracyjnego lub prokuratora oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej, jeżeli zachodzi obawa ujawnienia informacji niejawnych.
 
 3. Akta zakończonych postępowań lustracyjnych, przeprowadzonych bez wyłączenia jawności rozprawy, są jawne.
 
@@ -165,7 +392,9 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 3. Sąd wszczyna postępowanie na wniosek osoby, która złożyła oświadczenie lustracyjne, stwierdzające fakt jej pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi, a domaga się ustalenia, że jej praca, służba lub współpraca była wymuszona poprzez groźbę utraty życia lub zdrowia przez nią lub osoby jej najbliższe w rozumieniu Kodeksu karnego.
 
-4. (utracił moc) osoba, która przed dniem wejścia w życie ustawy pełniła funkcję publiczną, o której mowa w art. 4, która została publicznie pomówiona o fakt pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r., i złożyła oświadczenie lustracyjne.
+4. (utracił moc)
+
+5. Wniosek o wszczęcie postępowania może złożyć do sądu również osoba, która przed dniem wejścia w życie ustawy pełniła funkcję publiczną, o której mowa w art. 4, która została publicznie pomówiona o fakt pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r., i złożyła oświadczenie lustracyjne.
 
 5a. W przypadkach, o których mowa w ust. 3–5, sąd przekazuje oświadczenie lustracyjne do Biura Lustracyjnego lub oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej w celu przygotowania postępowania lustracyjnego oraz przedstawienia stanowiska w sprawie zgodności oświadczenia z prawdą.
 
@@ -177,7 +406,7 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 1. Do osoby poddanej postępowaniu lustracyjnemu, zwanej dalej „osobą lustrowaną”, mają zastosowanie przepisy dotyczące oskarżonego w postępowaniu karnym.
 
-2. Do prokuratora Biura Lustracyjnego i prokuratora oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej w postępowaniu lustracyjnym mają zastosowanie przepisy dotyczące oskarżyciela publicznego w postępowaniu karnym. Udział prokuratora Biura Lustracyjnego lub prokuratora oddziałowego jest obowiązkowy.
+2. Do prokuratora Biura Lustracyjnego i prokuratora oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej w postępowaniu lustracyjnym mają zastosowanie przepisy dotyczące oskarżyciela publicznego w postępowaniu karnym. Udział prokuratora Biura Lustracyjnego lub prokuratora oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej w postępowaniu lustracyjnym jest obowiązkowy.
 
 **Art. 21a.**
 
@@ -203,7 +432,9 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 4. Sąd wyznacza termin rozprawy nie później niż na 30 dzień od dnia przyjęcia apelacji.
 
-5. Orzeczenie sądu wydane w drugiej instancji jest prawomocne. Uzasadnienie orzeczenia sporządza się z urzędu w terminie 30 dni od daty wydania orzeczenia. sądu mogą wnieść wyłącznie Prokurator Generalny oraz Rzecznik Praw Obywatelskich z urzędu lub na wniosek osoby lustrowanej. Kasacja może być wniesiona:
+5. Orzeczenie sądu wydane w drugiej instancji jest prawomocne. Uzasadnienie orzeczenia sporządza się z urzędu w terminie 30 dni od daty wydania orzeczenia.
+
+6. W postępowaniu lustracyjnym kasację od prawomocnego orzeczenia sądu mogą wnieść wyłącznie Prokurator Generalny oraz Rzecznik Praw Obywatelskich z urzędu lub na wniosek osoby lustrowanej. Kasacja może być wniesiona:
 
 - **1)** z powodu rażącego naruszenia prawa, jeżeli mogło ono mieć istotny wpływ na treść orzeczenia;
 - **2)** jeżeli utrzymanie orzeczenia w mocy byłoby rażąco niesprawiedliwe.
@@ -225,7 +456,9 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 2. Postępowanie lustracyjne zakończone prawomocnym orzeczeniem wznawia się, jeżeli:
 
 - **1)** w związku z postępowaniem dopuszczono się przestępstwa, które zostało stwierdzone prawomocnym wyrokiem, a istnieje uzasadniona podstawa do przyjęcia, że przestępstwo to mogło mieć wpływ na treść orzeczenia;
-- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem sądowi, wskazujące na to, że prawomocne orzeczenie z powodu nowych faktów i dowodów jest oczywiście niesłuszne. upływie 10 lat od uprawomocnienia się orzeczenia.
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem sądowi, wskazujące na to, że prawomocne orzeczenie z powodu nowych faktów i dowodów jest oczywiście niesłuszne.
+
+3. Postępowania na niekorzyść osoby lustrowanej nie wznawia się po upływie 10 lat od uprawomocnienia się orzeczenia.
 
 4. Postępowanie lustracyjne może być wznowione z urzędu, na wniosek osoby, w sprawie której wydano prawomocne orzeczenie, lub na wniosek dyrektora Biura Lustracyjnego Instytutu Pamięci Narodowej.
 
@@ -245,7 +478,7 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 1. Przepisy art. 21e ust. 1 i 3 nie dotyczą sędziów, prokuratorów, radców Prokuratorii Generalnej Rzeczypospolitej Polskiej, adwokatów, radców prawnych, notariuszy i komorników, którzy w tym zakresie podlegają sądownictwu dyscyplinarnemu. Przepis art. 21e ust. 2 stosuje się odpowiednio.
 
-2. Za złożenie przez osoby pełniące funkcje wymienione w ust. 1 niezgodnego z prawdą oświadczenia lustracyjnego, stwierdzone prawomocnym orzeczeniem sądu, sąd dyscyplinarny orzeka karę złożenia skutkującą pozbawieniem pełnionej funkcji publicznej. Przepisów o przedawnieniu w postępowaniu dyscyplinarnym nie stosuje się.
+2. Za złożenie przez osoby pełniące funkcje wymienione w ust. 1 niezgodnego z prawdą oświadczenia lustracyjnego, stwierdzone prawomocnym orzeczeniem sądu, sąd dyscyplinarny orzeka karę złożenia z urzędu lub inną przewidzianą w odpowiednich ustawach karę dyscyplinarną skutkującą pozbawieniem pełnionej funkcji publicznej. Przepisów o przedawnieniu w postępowaniu dyscyplinarnym nie stosuje się.
 
 3. Z żądaniem wszczęcia postępowania dyscyplinarnego w sprawach określonych w ust. 2, może wystąpić także prokurator Biura Lustracyjnego lub prokurator oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej.
 
@@ -262,11 +495,12 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 1. Każdemu przysługuje prawo dostępu do informacji zawartych w dokumentach organów bezpieczeństwa państwa, znajdujących się w Instytucie Pamięci Narodowej, dotyczących:
 
 - **1)** Prezydenta Rzeczypospolitej Polskiej;
-- **2)** Marszałka i Marszałka Senatu;
+- **2)** Marszałka Sejmu i Marszałka Senatu;
 - **3)** posłów i senatorów oraz posłów do Parlamentu Europejskiego;
 - **4)** Prezesa Rady Ministrów i członków Rady Ministrów;
 - **5)** Pierwszego Prezesa Sądu Najwyższego, Prezesa Sądu Najwyższego oraz sędziów Sądu Najwyższego;
-- **6)** Prezesa Trybunału Konstytucyjnego, wiceprezesa Trybunału Konstytucyjnego oraz sędziów Trybunału Konstytucyjnego; Naczelnego Sądu Administracyjnego;
+- **6)** Prezesa Trybunału Konstytucyjnego, wiceprezesa Trybunału Konstytucyjnego oraz sędziów Trybunału Konstytucyjnego;
+- **7)** Prezesa i wiceprezesów Naczelnego Sądu Administracyjnego oraz sędziów Naczelnego Sądu Administracyjnego;
 - **8)** Przewodniczącego Trybunału Stanu, zastępców przewodniczącego Trybunału Stanu oraz członków Trybunału Stanu;
 - **8a)** Rzecznika Praw Obywatelskich;
 - **8b)** Rzecznika Praw Dziecka;
@@ -280,7 +514,7 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 - **13)** członka Krajowej Rady Radiofonii i Telewizji;
 - **14)** Prezesa Instytutu Pamięci Narodowej oraz członków Kolegium Instytutu Pamięci Narodowej;
 - **15)** Prokuratora Generalnego oraz prokuratorów Prokuratury Krajowej, prokuratora regionalnego oraz prokuratorów Instytutu Pamięci Narodowej;
-- **16)** Szefa Kancelarii Prezydenta, Szefa Kancelarii Prezesa Rady Ministrów, Szefa Kancelarii i Szefa Kancelarii Senatu;
+- **16)** Szefa Kancelarii Prezydenta, Szefa Kancelarii Prezesa Rady Ministrów, Szefa Kancelarii Sejmu i Szefa Kancelarii Senatu;
 - **17)** osób pełniących funkcje sekretarza stanu i podsekretarza stanu;
 - **18)** (utracił moc)
 - **19)** (utracił moc)
@@ -289,8 +523,9 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 2. Przepis ust. 1 stosuje się do osób, które wyraziły zgodę na kandydowanie lub zgodę na objęcie funkcji, o których mowa w ust. 1.
 
-3. Prawo dostępu do informacji, o którym mowa w ust. 1 i 2, podlega wyłączeniu w zakresie dotyczącym: religijne, przynależność wyznaniową oraz danych o stanie zdrowia i życiu seksualnym;
+3. Prawo dostępu do informacji, o którym mowa w ust. 1 i 2, podlega wyłączeniu w zakresie dotyczącym:
 
+- **1)** informacji ujawniających pochodzenie etniczne lub rasowe, przekonania religijne, przynależność wyznaniową oraz danych o stanie zdrowia i życiu seksualnym;
 - **2)** danych osobowych innych osób, chyba że były one pracownikami lub funkcjonariuszami organów bezpieczeństwa państwa;
 - **3)** danych adresowych i numerów PESEL.
 
@@ -306,7 +541,11 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 2. W przypadku, gdy pisemna zgoda na ujawnienie informacji, o których mowa w art. 22 ust. 3, została wyrażona po udostępnieniu informacji w Biuletynie Informacji Publicznej, Prezes Instytutu Pamięci Narodowej zamieszcza je niezwłocznie w Biuletynie Informacji Publicznej.
 
-3. W okresie udostępniania informacji dotyczących osoby, o której mowa w art. 22 ust. 1 lub 2, w Biuletynie Informacji Publicznej, prawo dostępu do informacji dotyczących tej osoby przysługuje również na zasadach określonych w art. 25–28. udostępniane w Biuletynie Informacji Publicznej przez okres pełnienia funkcji publicznej osoby, której dotyczą.
+3. W okresie udostępniania informacji dotyczących osoby, o której mowa w art. 22 ust. 1 lub 2, w Biuletynie Informacji Publicznej, prawo dostępu do informacji dotyczących tej osoby przysługuje również na zasadach określonych w art. 25–28.
+
+**Art. 24.**
+
+1. Informacje dotyczące osób, o których mowa w art. 22 ust. 1, są udostępniane w Biuletynie Informacji Publicznej przez okres pełnienia funkcji publicznej osoby, której dotyczą.
 
 2. Informacje dotyczące osób, o których mowa w art. 22 ust. 2, są udostępniane w Biuletynie Informacji Publicznej przez okres poprzedzający objęcie funkcji publicznej.
 
@@ -327,7 +566,11 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 4. Wniosek składa się osobiście we właściwym oddziale Instytutu Pamięci Narodowej lub za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820), pod warunkiem poświadczenia podpisu wnioskodawcy przez notariusza lub inną osobę uprawnioną do uwierzytelniania podpisów zgodnie z prawem państwa, w którym czynność ta zostanie dokonana.
 
-5. W przypadku stwierdzenia przez organ braków formalnych wniosku przepisy art. 64 Kodeksu postępowania administracyjnego stosuje się odpowiednio. wnioskodawcy zapoznania się z treścią dokumentów będących nośnikami takich informacji.
+5. W przypadku stwierdzenia przez organ braków formalnych wniosku przepisy art. 64 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+
+**Art. 26.**
+
+1. Udostępnienie informacji następuje poprzez umożliwienie wnioskodawcy zapoznania się z treścią dokumentów będących nośnikami takich informacji.
 
 2. Udostępnienie dokumentów wnioskodawcy powinno nastąpić bez zbędnej zwłoki.
 
@@ -353,7 +596,8 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 2. W postępowaniu przed sądami administracyjnymi prowadzonym na skutek wniesienia skargi, o której mowa w ust. 1, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769), z tym że:
 
-- **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 14 dni od dnia otrzymania skargi; z odpowiedzią na skargę.
+- **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 14 dni od dnia otrzymania skargi;
+- **2)** skargę rozpatruje się w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
 
 #### Rozdział 5 Przepisy karne
 
@@ -377,6 +621,8 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
 
+#### Rozdział 7 Przepisy przejściowe i końcowe
+
 **Art. 56.**
 
 1. Osoba urodzona przed dniem 1 sierpnia 1972 r., która w dniu wejścia w życie niniejszej ustawy pełni funkcję publiczną wymienioną w art. 4, ma obowiązek złożenia oświadczenia, o którym mowa w art. 7 ust. 1, w terminie jednego miesiąca od dnia doręczenia powiadomienia, o którym mowa w ust. 2.
@@ -391,7 +637,9 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 57.**
 
-1. W przypadku niezłożenia w terminie oświadczenia lustracyjnego przez osobę, zobowiązaną do jego złożenia na podstawie art. 56 ust. 1, następuje skutek określony w art. 21e ust. 1. następuje z mocy prawa z dniem, w którym upłynął termin do złożenia oświadczenia. Fakt pozbawienia funkcji publicznej stwierdza podmiot właściwy w sprawie pozbawienia lub stwierdzenia wygaśnięcia funkcji publicznej.
+1. W przypadku niezłożenia w terminie oświadczenia lustracyjnego przez osobę, zobowiązaną do jego złożenia na podstawie art. 56 ust. 1, następuje skutek określony w art. 21e ust. 1.
+
+2. Pozbawienie funkcji publicznej osoby, o której mowa w ust. 1, następuje z mocy prawa z dniem, w którym upłynął termin do złożenia oświadczenia. Fakt pozbawienia funkcji publicznej stwierdza podmiot właściwy w sprawie pozbawienia lub stwierdzenia wygaśnięcia funkcji publicznej.
 
 3. Przepisy ust. 1 i 2 nie mają zastosowania do sędziego, który w przypadku niezłożenia oświadczenia w terminie, podlega w tym zakresie sądownictwu dyscyplinarnemu. Za niezłożenie przez sędziego oświadczenia, sąd dyscyplinarny orzeka karę złożenia sędziego z urzędu. Przepisów o przedawnieniu w postępowaniu dyscyplinarnym nie stosuje się.
 
@@ -411,7 +659,9 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 1. Z dniem wejścia w życie niniejszej ustawy kończy się kadencja Rzecznika Interesu Publicznego i jego zastępców.
 
-2. Z dniem wejścia w życie niniejszej ustawy mienie i dokumenty będące we władaniu Rzecznika Interesu Publicznego przechodzą z mocy prawa we władanie Instytutu Pamięci Narodowej. się z dniem wejścia w życie niniejszej ustawy należnościami i zobowiązaniami Instytutu Pamięci Narodowej.
+2. Z dniem wejścia w życie niniejszej ustawy mienie i dokumenty będące we władaniu Rzecznika Interesu Publicznego przechodzą z mocy prawa we władanie Instytutu Pamięci Narodowej.
+
+2a. Należności i zobowiązania Biura Rzecznika Interesu Publicznego stają się z dniem wejścia w życie niniejszej ustawy należnościami i zobowiązaniami Instytutu Pamięci Narodowej.
 
 2b. Z dniem wejścia w życie niniejszej ustawy Instytut Pamięci Narodowej wstępuje w prawa i obowiązki wynikające z umów i porozumień zawartych przez Biuro Rzecznika Interesu Publicznego.
 
@@ -432,7 +682,7 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 8. W przypadku wygaśnięcia stosunku pracy, o którym mowa w ust. 4, lub wypowiedzenia, o którym mowa w ust. 6, pracownikom:
 
 - **1)** mianowanym – przysługuje świadczenie pieniężne przewidziane w art. 13 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych;
-- **2)** innym niż wymienieni w pkt 1 – przysługuje odprawa, o której mowa w art. 8 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach niedotyczących pracowników (Dz. U. z 2025 r. poz. 570).
+- **2)** innym niż wymienieni w pkt 1 – przysługuje odprawa, o której mowa w art. 8 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2025 r. poz. 570).
 
 **Art. 61.** W terminie, o którym mowa w art. 63b ust. 2, Prezes Sądu Apelacyjnego w Warszawie przekaże Prezesowi Instytutu Pamięci Narodowej dokumenty, o których mowa w art. 3.
 
@@ -446,7 +696,7 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 4. Nie później niż w terminie 60 dni od dnia wejścia w życie niniejszej ustawy dyrektorzy Archiwum Akt Nowych oraz innych archiwów państwowych przygotują do udostępnienia pracownikom i prokuratorom Instytutu Pamięci Narodowej dokumenty wytworzone lub zgromadzone przez Główny Urząd Kontroli Prasy, Publikacji i Widowisk oraz wojewódzkie i miejskie urzędy kontroli prasy, publikacji i widowisk, Główny Urząd Kontroli Prasy, Publikacji i Widowisk oraz okręgowe urzędy, a także przez Urząd do Spraw Wyznań oraz terenowe organy administracji państwowej o właściwości szczególnej do spraw wyznań stopnia wojewódzkiego.
 
-4a. W terminie 60 dni od dnia wejścia w życie niniejszej ustawy Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu oraz Minister Obrony Narodowej, w porozumieniu z Prezesem Instytutu Pamięci Narodowej, ustalą, czy w odniesieniu do dokumentów przekazywanych do archiwum Instytutu Pamięci Narodowej w trybie określonym w ust. 1–3, nie zachodzą wymienionej w art. 39 . Wniosek o zatwierdzenie zastrzeżenia dostępu do określonych dokumentów, o którym mowa w art. 39 ust. 3 ustawy wymienionej w art. 39 , powinien zostać złożony przed przekazaniem dokumentów do Instytutu Pamięci Narodowej.
+4a. W terminie 60 dni od dnia wejścia w życie niniejszej ustawy Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu oraz Minister Obrony Narodowej, w porozumieniu z Prezesem Instytutu Pamięci Narodowej, ustalą, czy w odniesieniu do dokumentów przekazywanych do archiwum Instytutu Pamięci Narodowej w trybie określonym w ust. 1–3, nie zachodzą przesłanki do zastrzeżenia dostępu, o którym mowa w art. 39 ust. 1 ustawy wymienionej w art. 39 . Wniosek o zatwierdzenie zastrzeżenia dostępu do określonych dokumentów, o którym mowa w art. 39 ust. 3 ustawy wymienionej w art. 39 , powinien zostać złożony przed przekazaniem dokumentów do Instytutu Pamięci Narodowej.
 
 5. Prezes Instytutu Pamięci Narodowej może, w każdym czasie, zażądać od organów, o których mowa w ust. 1–3, dokumentów nieprzekazanych. Przekazanie dokumentów następuje w terminie wyznaczonym przez Prezesa Instytutu Pamięci Narodowej.
 
@@ -460,7 +710,11 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 2. Do spraw, o których mowa w ust. 1, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy w brzmieniu ustalonym niniejszą ustawą.
 
-3. W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy pokrzywdzony w rozumieniu art. 6 ustawy, o której mowa w art. 39 , w brzmieniu dotychczasowym, który uzyskał prawo wglądu do dotyczących go dokumentów i nie zrealizował tego prawa przed dniem wejścia w życie niniejszej ustawy, może uzyskać wgląd do dotyczących go dokumentów na zasadach określonych w ustawie, o której mowa w art. 39 , w brzmieniu dotychczasowym, po złożeniu oświadczenia, o którym mowa w art. 7 ust. 1 albo informacji, o której mowa w art. 7 ust. 3a, do Biura Lustracyjnego Instytutu Pamięci Narodowej lub oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej, właściwego miejscowo ze względu na realizację prawa wglądu do dokumentów. dniem wejścia w życie niniejszej ustawy, toczą się według przepisów dotychczasowych, z zastrzeżeniem ust. 2–6.
+3. W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy pokrzywdzony w rozumieniu art. 6 ustawy, o której mowa w art. 39 , w brzmieniu dotychczasowym, który uzyskał prawo wglądu do dotyczących go dokumentów i nie zrealizował tego prawa przed dniem wejścia w życie niniejszej ustawy, może uzyskać wgląd do dotyczących go dokumentów na zasadach określonych w ustawie, o której mowa w art. 39 , w brzmieniu dotychczasowym, po złożeniu oświadczenia, o którym mowa w art. 7 ust. 1 albo informacji, o której mowa w art. 7 ust. 3a, do Biura Lustracyjnego Instytutu Pamięci Narodowej lub oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej, właściwego miejscowo ze względu na realizację prawa wglądu do dokumentów.
+
+**Art. 63a.**
+
+1. Postępowania lustracyjne wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, toczą się według przepisów dotychczasowych, z zastrzeżeniem ust. 2–6.
 
 2. W postępowaniach, o których mowa w ust. 1, uprawnienia i obowiązki Rzecznika Interesu Publicznego przejmuje dyrektor Biura Lustracyjnego Instytutu Pamięci Narodowej lub wyznaczony przez niego prokurator Biura Lustracyjnego albo oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej.
 
@@ -478,7 +732,7 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 
 1. Akta zakończonych postępowań lustracyjnych, przeprowadzonych na podstawie przepisów ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. poz. 428, z późn. zm. ), są jawne, z zastrzeżeniem ust. 2 i 4.
 
-2. W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy Sąd Apelacyjny w Warszawie w składzie jednego sędziego wydaje postanowienie w sprawie jawności akt, o których mowa w ust. 1, albo odmawia ich ujawnienia. Lustracyjnego lub prokuratorowi oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej, przysługuje zażalenie do Sądu Najwyższego.
+2. W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy Sąd Apelacyjny w Warszawie w składzie jednego sędziego wydaje postanowienie w sprawie jawności akt, o których mowa w ust. 1, albo odmawia ich ujawnienia. Na postanowienie sądu osobie lustrowanej oraz prokuratorowi Biura Lustracyjnego lub prokuratorowi oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej, przysługuje zażalenie do Sądu Najwyższego.
 
 3. Sąd rozpatruje sprawy, o których mowa w ust. 1, według kolejności wpływu wniosków Rzecznika Interesu Publicznego do Wydziału Lustracyjnego Sądu Apelacyjnego w Warszawie.
 
@@ -499,4 +753,11 @@ Art. 30–55. (pominięte) Przepisy przejściowe i końcowe
 2. Rada Ministrów zapewni sfinansowanie w roku 2006 realizacji przez Instytut Pamięci Narodowej zadań określonych w niniejszej ustawie.
 
 **Art. 66.** Traci moc ustawa z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. poz. 428, z późn. zm. ), z wyjątkiem art. 30.
+
+**Art. 67.** Ustawa wchodzi w życie z dniem 15 marca 2007 r., z wyjątkiem:
+
+- **1)** art. 39 pkt 7 i art. 57, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia .
+- **2)** (uchylony)
+- **3)** (utracił moc) Załączniki do ustawy z dnia 18 października 2006 r. (Dz. U. poz. 1519) Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik
+
 

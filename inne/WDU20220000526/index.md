@@ -8,7 +8,7 @@ pos: 526
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
@@ -31,7 +31,13 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 17 marca 2021 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. poz. 616 i 1773) w art. 2:
 
+- **1)** ust. 2 otrzymuje brzmienie: „2. Pierwszy wykaz świadczeniodawców zakwalifikowanych do poszczególnych poziomów systemu zabezpieczenia, o którym mowa w art. 2 ust. 4 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 844), obowiązuje do dnia 31 grudnia 2022 r.”;
+- **2)** dodaje się ust. 3 w brzmieniu: „3. W 2022 r. wykaz, o którym mowa w art. 95n ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ), ogłasza się dla terenu danego województwa w terminie do dnia 30 września. Wykaz ten obowiązuje od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2027 r.”.
+
 **Art. 3.** W ustawie z dnia 17 listopada 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 2232 i 2459) wprowadza się następujące zmiany:
+
+- **1)** art. 8 otrzymuje brzmienie: „Art. 8. Jeżeli wniosek o kredyt na studia medyczne, o którym mowa w art. 103a ust. 2 ustawy zmienianej w art. 1, został złożony w roku akademickim 2021/2022, kredytu udziela się na pokrycie opłat za usługi edukacyjne ponoszone od tego roku akademickiego.”;
+- **2)** w art. 11 ust. 1 otrzymuje brzmienie: „1. Bank dokonuje wypłaty transzy kredytu na studia medyczne za dany semestr roku akademickiego 2021/2022 na zasadach, o których mowa w art. 103b ust. 1 ustawy zmienianej w art. 1, w terminie 14 dni od dnia zawarcia umowy kredytu na studia medyczne.”.
 
 **Art. 4.**
 

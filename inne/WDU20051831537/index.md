@@ -8,7 +8,7 @@ pos: 1537
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadzorze nad rynkiem kapitałowym
@@ -24,16 +24,83 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-29 |
 | Data wydania | 2005-09-23 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051831537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1537/text.pdf) |
 
-Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
+Art. 48–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa organizację oraz tryb wykonywania nadzoru nad rynkiem kapitałowym.
 
-**Art. 2.** Ilekroć w ustawie jest mowa o: z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722);
+**Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** ustawie o obrocie instrumentami finansowymi – rozumie się przez to ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722);
+- **2)** ustawie o ofercie publicznej – rozumie się przez to ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620);
+- **3)** ustawie o funduszach inwestycyjnych – rozumie się przez to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034);
+- **4)** ustawie o giełdach towarowych – rozumie się przez to ustawę z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910);
+- **4a)** ustawie o finansowaniu społecznościowym dla przedsięwzięć gospodarczych – rozumie się przez to ustawę z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984);
+- **5)** ustawie o nadzorze uzupełniającym – rozumie się przez to ustawę z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2020 r. poz. 1413);
+- **5a)** rozporządzeniu 236/2012 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
+- **5b)** rozporządzeniu 648/2012 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.);
+- **5c)** rozporządzeniu 1031/2010 – rozumie się przez to rozporządzenie Komisji (UE) nr 1031/2010 z dnia 12 listopada 2010 r. w sprawie harmonogramu, kwestii administracyjnych oraz pozostałych aspektów sprzedaży na aukcji uprawnień do emisji gazów cieplarnianych na mocy dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie (Dz. Urz. UE L 302 z 18.11.2010, str. 1, z późn. zm.);
+- **5d)** rozporządzeniu 575/2013 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
+- **5e)** rozporządzeniu 909/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniające dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 28.08.2014, str. 1);
+- **5f)** rozporządzeniu 596/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylające dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm. );
+- **5g)** rozporządzeniu 600/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm. );
+- **5h)** rozporządzeniu 1095/2010 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1095/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/77/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 84, z późn. zm. );
+- **5i)** rozporządzeniu 2016/1011 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniające dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm. );
+- **5j)** rozporządzeniu 2017/1129 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
+- **5k)** rozporządzeniu 2019/2033 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. );
+- **5l)** rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1);
+- **5m)** rozporządzeniu 2022/858 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/858 z dnia 30 maja 2022 r. w sprawie systemu pilotażowego na potrzeby infrastruktur rynkowych opartych na technologii rozproszonego rejestru, a także zmiany rozporządzeń (UE) nr 600/2014 i (UE) nr 909/2014 oraz dyrektywy 2014/65/UE (Dz. Urz. UE L 151 z 02.06.2022, str. 1);
+- **5n)** rozporządzeniu 2023/2631 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2631 z dnia 22 listopada 2023 r. w sprawie europejskich zielonych obligacji oraz opcjonalnego ujawniania informacji na temat obligacji wprowadzanych do obrotu jako zrównoważone środowiskowo i obligacji powiązanych ze zrównoważonym rozwojem (Dz. Urz. UE L 2023/2631 z 30.11.2023, z późn. zm. ); <5o) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
+- **6)** rynku kapitałowym – rozumie się przez to:
+    - **a)** rynek papierów wartościowych i innych instrumentów finansowych – w zakresie, w jakim do tych papierów wartościowych i instrumentów finansowych stosuje się przepisy ustaw, o których mowa w pkt 1 i 2, oraz rozporządzenia 236/2012 i rozporządzenia 648/2012, oraz
+    - **b)** rynek usług świadczonych przez fundusze inwestycyjne i inne instytucje wspólnego inwestowania – w zakresie, w jakim do tych usług i podmiotów stosuje się przepisy ustawy, o której mowa w pkt 3, i przepisy rozporządzeń, o których mowa w art. 3 ust. 5, oraz
+    - **c)** rynek towarów giełdowych w rozumieniu ustawy, o której mowa w pkt 4, oraz
+    - **d)** rynek dwudniowych kontraktów na rynku kasowym, o których mowa w art. 3 ust. 1 pkt 3 rozporządzenia 1031/2010 – w zakresie, w jakim do obrotu tymi uprawnieniami do emisji stosuje się przepisy tego rozporządzenia,
+    - **e)** rynek usług finansowania społecznościowego, o których mowa w art. 2 ust. 1 lit. a rozporządzenia 2020/1503;
+
+- **7)** instrumentach finansowych – rozumie się przez to instrumenty finansowe w rozumieniu ustawy o obrocie instrumentami finansowymi;
+- **8)** papierach wartościowych – rozumie się przez to papiery wartościowe w rozumieniu ustawy o obrocie instrumentami finansowymi;
+- **8a)** krótkiej sprzedaży – rozumie się przez to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia 236/2012;
+- **9)** rachunkach papierów wartościowych – rozumie się przez to rachunki papierów wartościowych w rozumieniu ustawy o obrocie instrumentami finansowymi;
+- **9a)** rachunku zbiorczym – rozumie się przez to rachunek zbiorczy w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
+- **10)** rynku regulowanym – rozumie się przez to rynek regulowany w rozumieniu ustawy o obrocie instrumentami finansowymi;
+- **10a)** alternatywnym systemie obrotu – rozumie się przez to alternatywny system obrotu w rozumieniu ustawy o obrocie instrumentami finansowymi;
+- **11)** państwie członkowskim – rozumie się przez to państwo, które jest członkiem Unii Europejskiej lub stroną umowy o Europejskim Obszarze Gospodarczym;
+- **12)** kontrahencie finansowym – rozumie się przez to kontrahenta finansowego w rozumieniu art. 2 pkt 8 rozporządzenia 648/2012;
+- **13)** członku rozliczającym – rozumie się przez to członka rozliczającego w rozumieniu art. 2 pkt 14 rozporządzenia 648/2012;
+- **14)** kliencie świadczącym pośrednie usługi rozliczeniowe – rozumie się przez to klienta w rozumieniu art. 2 pkt 15 rozporządzenia 648/2012, świadczącego pośrednie usługi rozliczeniowe, o których mowa w rozdziale II rozporządzenia delegowanego Komisji (UE) nr 149/2013 z dnia 19 grudnia 2012 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 w odniesieniu do regulacyjnych standardów technicznych dotyczących pośrednich uzgodnień rozliczeniowych, obowiązku rozliczania, rejestru publicznego, dostępu do systemu obrotu, kontrahentów niefinansowych, technik ograniczania ryzyka związanego z kontraktami pochodnymi będącymi przedmiotem obrotu poza rynkiem regulowanym, które nie są rozliczane przez kontrahenta centralnego (Dz. Urz. UE L 52 z 23.02.2013, str. 11);
+- **15)** systemie rozrachunku papierów wartościowych – rozumie się przez to system, o którym mowa w art. 1 pkt 2 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz. 585);
+- **16)** przepisach prawa bankowego stosowanych przez niektóre domy maklerskie – rozumie się przez to przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879) oraz aktów wykonawczych wydanych na jej podstawie, które na podstawie art. 4c ust. 2–4 tej ustawy stosuje się do domów maklerskich:
+    - **a)** wobec których została wydana decyzja, o której mowa w art. 110ac ust. 1 ustawy o obrocie instrumentami finansowymi, lub
+    - **b)** o których mowa w art. 1 ust. 2 lit. a lub b lub ust. 5 rozporządzenia 2019/2033.
+
+**Art. 3.**
+
+1. Organem nadzoru nad rynkiem kapitałowym oraz rynkiem instrumentów finansowych, będących przedmiotem ubiegania się o dopuszczenie do obrotu na takim rynku, w rozumieniu aktów prawnych wydawanych przez instytucje i organy Unii Europejskiej, jest Komisja Nadzoru Finansowego, zwana dalej „Komisją”.
+
+2. Komisja jest właściwym organem w rozumieniu rozporządzenia 236/2012, rozporządzenia 648/2012, rozporządzenia 1031/2010, z wyłączeniem art. 55 ust. 1 tego rozporządzenia, rozporządzenia 596/2014, rozporządzenia 909/2014, rozporządzenia 600/2014, rozporządzenia 2016/1011, z zastrzeżeniem ust. 2b, rozporządzenia 2017/1129, rozporządzenia 2019/2033, z wyłączeniem wydawania aktów, o których mowa w art. 41 ust. 2 tego rozporządzenia, rozporządzenia 2020/1503, rozporządzenia 2022/858 oraz rozporządzenia 2023/2631.
+
+2a. Odpowiednim organem, o którym mowa w art. 12 ust. 1 lit. a rozporządzenia 909/2014, jest Prezes Narodowego Banku Polskiego.
+
+2b. Krajowym właściwym organem państwa członkowskiego, o którym mowa w art. 23c ust. 1 rozporządzenia 2016/1011, jest minister właściwy do spraw instytucji finansowych.
+
+2c. Komisja jest organem odpowiedzialnym za koordynację współpracy i wymiany informacji z Komisją Europejską, Europejskim Urzędem Nadzoru Giełd i Papierów Wartościowych i właściwymi organami z innych państw członkowskich zgodnie z art. 40 ust. 3 rozporządzenia 2016/1011.
+
+3. Zadania właściwego organu w rozumieniu rozporządzenia 236/2012, w zakresie:
+
+- **1)** określonym w art. 23b–23e – wykonuje Komisja we współpracy z ministrem właściwym do spraw finansów publicznych;
+- **2)** koordynowania współpracy i wymiany informacji z Komisją Europejską, Europejskim Urzędem Nadzoru Giełd i Papierów Wartościowych oraz organami nadzoru w innych państwach członkowskich – wykonuje Komisja.
+
+4. Szczegółowe zasady współpracy, o której mowa w ust. 3 pkt 1, w tym w zakresie wymiany informacji, określa porozumienie Komisji z ministrem właściwym do spraw finansów publicznych.
+
+5. Komisja jest organem właściwym w przypadkach, w których państwem członkowskim pochodzenia, w rozumieniu przepisów:
+
+- **1)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy venture capital (Dz. Urz. UE L 115 z 25.04.2013, str. 1),
+- **2)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy na rzecz przedsiębiorczości społecznej (Dz. Urz. UE L 115 z 25.04.2013, str. 18) – jest Rzeczpospolita Polska.
 
 **Art. 3a.**
 
@@ -45,7 +112,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 - **2)** na żądanie sądu lub prokuratora w związku z toczącym się postępowaniem karnym lub postępowaniem w sprawie o przestępstwo skarbowe.
 - **3)** (uchylony) 2a. Informacje o naruszeniach lub potencjalnych naruszeniach przepisów rozporządzenia 596/2014 mogą być ujawnione również w ramach współpracy międzynarodowej z państwami trzecimi, na zasadach określonych w porozumieniach zawieranych na podstawie art. 26 ust. 1 rozporządzenia 596/2014, a gdy informacja zawiera dane osobowe – z uwzględnieniem warunków określonych w art. 29 tego rozporządzenia.
 
-3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób odbierania zgłoszeń, o których mowa w ust. 1, sposób postępowania z odebranymi zgłoszeniami i ich przechowywania, a także podejmowane po przyjęciu zgłoszenia, mając na względzie zapewnienie należytej ochrony osoby dokonującej zgłoszenia lub osoby, której zarzuca się naruszenie, w szczególności w zakresie wskazanym odpowiednio w art. 32 ust. 2 lit. b i c rozporządzenia 596/2014, art. 41 ust. 2 lit. b i c rozporządzenia 2017/1129 albo w art. 65 ust. 2 lit. b i c rozporządzenia 909/2014.
+3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób odbierania zgłoszeń, o których mowa w ust. 1, sposób postępowania z odebranymi zgłoszeniami i ich przechowywania, a także informowania o sposobie odbierania zgłoszeń i o działaniach, jakie mogą być podejmowane po przyjęciu zgłoszenia, mając na względzie zapewnienie należytej ochrony osoby dokonującej zgłoszenia lub osoby, której zarzuca się naruszenie, w szczególności w zakresie wskazanym odpowiednio w art. 32 ust. 2 lit. b i c rozporządzenia 596/2014, art. 41 ust. 2 lit. b i c rozporządzenia 2017/1129 albo w art. 65 ust. 2 lit. b i c rozporządzenia 909/2014.
 
 **Art. 3b.**
 
@@ -63,6 +130,32 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 5.** Nadzorowi Komisji podlegają podmioty prowadzące działalność na rynku kapitałowym na podstawie zezwoleń Komisji lub innego właściwego organu administracji, oraz inne podmioty – w zakresie, w jakim ciążą na nich określone w odrębnych przepisach obowiązki związane z uczestnictwem w tym rynku, w szczególności:
 
+- **1)** firmy inwestycyjne w rozumieniu ustawy o obrocie instrumentami finansowymi,
+- **2)** agenci firm inwestycyjnych w rozumieniu ustawy o obrocie instrumentami finansowymi,
+- **3)** (uchylony)
+- **4)** banki powiernicze w rozumieniu ustawy o obrocie instrumentami finansowymi,
+- **5)** spółki prowadzące rynek regulowany,
+- **6)** Krajowy Depozyt Papierów Wartościowych S.A., 6a) spółki prowadzące izbę rozliczeniową, 6b) spółki prowadzące izbę rozrachunkową, 6c) spółka, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1– 6 lub ust. 2 ustawy o obrocie instrumentami finansowymi, 6d) centralny depozyt papierów wartościowych w rozumieniu art. 2 ust. 1 pkt 1 rozporządzenia 909/2014,
+- **7)** emitenci dokonujący oferty publicznej papierów wartościowych w rozumieniu ustawy o ofercie publicznej lub emitenci, których papiery wartościowe są dopuszczone do obrotu na rynku regulowanym lub które są wprowadzone do alternatywnego systemu obrotu, a także emitenci, którzy ubiegają się o dopuszczenie lub wprowadzenie ich papierów wartościowych do takiego obrotu,
+- **8)** fundusze inwestycyjne,
+- **9)** towarzystwa funduszy inwestycyjnych, 9a) zarządzający ASI w rozumieniu ustawy o funduszach inwestycyjnych,
+- **10)** inne podmioty prowadzące obsługę funduszy inwestycyjnych lub alternatywnych funduszy inwestycyjnych, w tym podmioty, którym zostało powierzone wykonywanie obowiązków towarzystwa funduszy inwestycyjnych lub zarządzającego ASI w rozumieniu ustawy o funduszach inwestycyjnych,
+- **11)** spółki prowadzące giełdy towarowe,
+- **12)** towarowe domy maklerskie w rozumieniu ustawy o giełdach towarowych,
+- **13)** zagraniczne osoby prawne prowadzące na terytorium Rzeczypospolitej Polskiej działalność maklerską w zakresie obrotu towarami giełdowymi,
+- **14)** (uchylony)
+- **15)** giełdowe izby rozrachunkowe w rozumieniu ustawy o giełdach towarowych,
+- **16)** CCP w rozumieniu art. 2 pkt 1 rozporządzenia 648/2012,
+- **17)** kontrahent finansowy,
+- **18)** finansowe spółki holdingowe w rozumieniu art. 4 ust. 1 pkt 20 rozporządzenia 575/2013, mające siedzibę na terytorium Rzeczypospolitej Polskiej, 18a) inwestycyjne spółki holdingowe w rozumieniu art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033, mające siedzibę na terytorium Rzeczypospolitej Polskiej,
+- **19)** finansowe spółki holdingowe o działalności mieszanej w rozumieniu art. 4 ust. 1 pkt 40 rozporządzenia 2019/2033, mające siedzibę na terytorium Rzeczypospolitej Polskiej,
+- **20)** holdingi mieszane w rozumieniu art. 4 ust. 1 pkt 22 rozporządzenia 575/2013, mające siedzibę na terytorium Rzeczypospolitej Polskiej, 20a) holdingi mieszane w rozumieniu art. 110a ust. 1 pkt 6c ustawy o obrocie instrumentami finansowymi, mające siedzibę na terytorium Rzeczypospolitej Polskiej,
+- **21)** uczestnicy rynku uprawnień do emisji w rozumieniu rozporządzenia 596/2014,
+- **22)** zatwierdzony podmiot publikujący oraz zatwierdzony mechanizm sprawozdawczy, w rozumieniu odpowiednio art. 2 ust. 1 pkt 34 i 36 rozporządzenia 600/2014, posiadające zezwolenie Komisji,
+- **23)** administratorzy w rozumieniu art. 3 ust. 1 pkt 6 rozporządzenia 2016/1011,
+- **24)** dostawcy usług finansowania społecznościowego, o których mowa w art. 2 ust. 1 lit. e rozporządzenia 2020/1503,
+- **25)** banki państwowe prowadzące działalność maklerską na podstawie zezwolenia, o którym mowa w art. 111a ust. 1 ustawy o obrocie instrumentami finansowymi – zwane dalej „podmiotami nadzorowanymi”.
+
 #### Rozdział 2 Zasady działania Komisji
 
 **Art. 6.** (uchylony)
@@ -79,6 +172,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 2. Do zadań Komisji należy również przygotowywanie projektów aktów prawnych związanych z funkcjonowaniem rynku kapitałowego.
 
 3. Komisja może występować do właściwych organów z wnioskami o wydanie lub zmianę przepisów wykonawczych przewidzianych przepisami ustaw.
+
+4. (uchylony)
 
 **Art. 7a.** Komisja wykonuje zadania w zakresie nadzoru przekazane przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych na podstawie art. 74 rozporządzenia 648/2012, art. 38o rozporządzenia 600/2014 oraz art. 48m rozporządzenia 2016/1011.
 
@@ -106,7 +201,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 13.**
 
-1. Przewodniczący Komisji wydaje postanowienia o wszczęciu postępowania administracyjnego oraz, w przypadkach określonych w ustawie lub odrębnych przepisach, inne postanowienia, zarządzenia i zalecenia. W tym zakresie Przewodniczący Komisji wykonuje uprawnienia Komisji. ust. 2.
+1. Przewodniczący Komisji wydaje postanowienia o wszczęciu postępowania administracyjnego oraz, w przypadkach określonych w ustawie lub odrębnych przepisach, inne postanowienia, zarządzenia i zalecenia. W tym zakresie Przewodniczący Komisji wykonuje uprawnienia Komisji.
+
+2. Do decyzji wydawanych przez Przewodniczącego Komisji stosuje się art. 12 ust. 2.
 
 3. (uchylony)
 
@@ -130,7 +227,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 4. O ile ustawa nie stanowi inaczej, podstawę obliczenia opłat, o których mowa w ust. 1 pkt 1, ustala się na podstawie danych pochodzących ze zbadanych sprawozdań finansowych za poprzedni rok kalendarzowy, a w przypadku podmiotów, dla których rok obrotowy obejmuje okres inny niż rok kalendarzowy – danych ze zbadanego sprawozdania finansowego za rok obrotowy zakończony w poprzednim roku kalendarzowym.
 
-5. W przypadku podmiotów niemających obowiązku sporządzania sprawozdań finansowych podstawę obliczenia opłat, o których mowa w ust. 1 pkt 1, ustala się na podstawie innego dokumentu potwierdzającego wartość przychodów. o zmiennej wysokości, ponoszą koszty w wysokości zapewniającej skuteczność sprawowanego nadzoru, proporcjonalnie do wysokości kosztów nadzoru nad rynkiem kapitałowym w zakresie odpowiadającym rodzajowi ich działalności.
+5. W przypadku podmiotów niemających obowiązku sporządzania sprawozdań finansowych podstawę obliczenia opłat, o których mowa w ust. 1 pkt 1, ustala się na podstawie innego dokumentu potwierdzającego wartość przychodów.
+
+6. Podmioty obowiązane do wnoszenia opłat, o których mowa w ust. 1 pkt 1, o zmiennej wysokości, ponoszą koszty w wysokości zapewniającej skuteczność sprawowanego nadzoru, proporcjonalnie do wysokości kosztów nadzoru nad rynkiem kapitałowym w zakresie odpowiadającym rodzajowi ich działalności.
 
 7. Podmiot rozpoczynający działalność, z którą wiąże się obowiązek ponoszenia opłaty rocznej, o której mowa w przepisach ustaw wymienionych w ust. 1 pkt 1, pierwszą opłatę, z zastrzeżeniem ust. 9–11, wnosi za rok następujący po roku, w którym rozpoczął działalność, a w przypadku podmiotów, dla których rok obrotowy obejmuje okres inny niż rok kalendarzowy, za rok kalendarzowy następujący po roku, w którym zakończył się pierwszy rok obrotowy.
 
@@ -152,6 +251,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 12. (uchylony)
 
+13. (uchylony)
+
 14. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
 - **1)** wysokość lub sposób wyliczania oraz sposób i terminy uiszczania opłat, o których mowa w ust. 1 pkt 1, a w razie braku obowiązku sporządzania przez podmioty obowiązane do wnoszenia opłat, o których mowa w ust. 1 pkt 1, sprawozdań finansowych – także sposoby udokumentowania przez te podmioty wielkości uzyskanych przychodów,
@@ -170,8 +271,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 3. Obowiązek zachowania tajemnicy zawodowej istnieje również po ustaniu stosunków prawnych, o których mowa w ust. 1 i 2.
 
-4. Zakres, treść, ograniczenia i skutki naruszenia: rozporządzenie 236/2012 oraz ustawa o obrocie instrumentami finansowymi;
+4. Zakres, treść, ograniczenia i skutki naruszenia:
 
+- **1)** tajemnicy służbowej w rozumieniu art. 34 rozporządzenia 236/2012 – określają rozporządzenie 236/2012 oraz ustawa o obrocie instrumentami finansowymi;
 - **2)** tajemnicy służbowej w rozumieniu art. 83 rozporządzania 648/2012 – określają rozporządzenie 648/2012 oraz ustawa o obrocie instrumentami finansowymi;
 - **2a)** tajemnicy zawodowej w rozumieniu art. 38f rozporządzenia 600/2014 – określa rozporządzenie 600/2014;
 - **3)** tajemnicy służbowej w rozumieniu art. 48 rozporządzenia 2016/1011 – określają rozporządzenie 2016/1011 oraz ustawa o obrocie instrumentami finansowymi.
@@ -186,7 +288,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 4. Do spraw z wniosku, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o postępowaniu nieprocesowym.
 
-5. Postanowienie o udzieleniu zgody lub odmowie jej udzielenia wraz z wnioskiem o udostępnienie informacji z protokołów kontroli zawierających opis stwierdzonych nieprawidłowości oraz ostatecznych decyzji administracyjnych którego dotyczy protokół kontroli lub ostateczna decyzja administracyjna.
+5. Postanowienie o udzieleniu zgody lub odmowie jej udzielenia wraz z wnioskiem o udostępnienie informacji z protokołów kontroli zawierających opis stwierdzonych nieprawidłowości oraz ostatecznych decyzji administracyjnych podlega doręczeniu osobie fizycznej, Przewodniczącemu Komisji oraz podmiotowi, którego dotyczy protokół kontroli lub ostateczna decyzja administracyjna.
 
 6. Na postanowienie, o którym mowa w ust. 5, osobie fizycznej, Przewodniczącemu Komisji oraz podmiotowi, którego dotyczy protokół kontroli lub ostateczna decyzja administracyjna, przysługuje zażalenie do sądu drugiej instancji.
 
@@ -208,7 +310,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
     - **a)** wykorzystanie takich informacji wyłącznie na potrzeby wykonywania nadzoru lub prowadzenia postępowań administracyjnych lub sądowych w sprawach związanych z wykonywaniem tego nadzoru,
     - **b)** objęcie takich informacji tajemnicą wiążącą ten organ;
 
-- **3)** zapewnione jest, że dalsze przekazywanie udzielonych przez Komisję informacji poza organ nadzoru, któremu ich udzielono, w innych celach niż określone Komisji.
+- **3)** zapewnione jest, że dalsze przekazywanie udzielonych przez Komisję informacji poza organ nadzoru, któremu ich udzielono, w innych celach niż określone w ust. 1, każdorazowo możliwe będzie wyłącznie po uprzednim uzyskaniu zgody Komisji.
 
 4. Informacje uzyskane przez Komisję nie mogą być, bez zgody organu nadzoru, który je przekazał, wykorzystywane w innych celach niż określone w ust. 1 lub przekazywane poza Komisję do właściwego organu innego państwa.
 
@@ -227,7 +329,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 4. Jeżeli Komisja wyrazi na to zgodę, informacje udzielone przez Komisję organowi nadzoru w innym państwie członkowskim mogą być wykorzystane w innych celach niż określone w art. 20 ust. 1 lub przekazane poza ten organ do właściwego organu innego państwa.
 
-5. Jeżeli organ nadzoru w innym państwie członkowskim wyrazi na to zgodę, informacje niezbędne w celach określonych w art. 20 ust. 1, uzyskane przez Komisję od tego organu, mogą być wykorzystywane w innych celach lub przekazywane poza porozumienia, o którym mowa w art. 20 ust. 2.
+5. Jeżeli organ nadzoru w innym państwie członkowskim wyrazi na to zgodę, informacje niezbędne w celach określonych w art. 20 ust. 1, uzyskane przez Komisję od tego organu, mogą być wykorzystywane w innych celach lub przekazywane poza Komisję do właściwego organu innego państwa, w szczególności będącego stroną porozumienia, o którym mowa w art. 20 ust. 2.
 
 6. W przypadku ustalenia, że zachowania naruszające przepisy prawa również miały lub mają miejsce na terytorium innego państwa członkowskiego lub dotyczą instrumentów finansowych będących przedmiotem obrotu na rynku regulowanym w innym państwie członkowskim, Komisja lub jej upoważniony przedstawiciel przekazuje organowi nadzoru w tym państwie szczegółowe informacje dotyczące tych zachowań.
 
@@ -246,7 +348,10 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 - **1)** rozporządzenia 236/2012 – określają art. 34, art. 35 i art. 38–40 tego rozporządzenia;
 - **2)** rozporządzenia 648/2012 – określają art. 17–19, art. 24, art. 32 ust. 6 i 7 oraz art. 84 tego rozporządzenia;
 - **2a)** rozporządzenia 600/2014 – określają art. 26 i art. 38e tego rozporządzenia;
-- **3)** rozporządzenia 2016/1011 – określają art. 38, art. 44, art. 47 i art. 48 tego rozporządzenia. terytorium innego państwa członkowskiego, Komisja może przekazywać organowi nadzoru w tym państwie członkowskim informacje, które mogą ułatwić temu organowi nadzór nad domem maklerskim, w zakresie:
+- **3)** rozporządzenia 2016/1011 – określają art. 38, art. 44, art. 47 i art. 48 tego rozporządzenia.
+
+**Art. 21a.** W przypadku gdy dom maklerski prowadzi działalność maklerską na terytorium innego państwa członkowskiego, Komisja może przekazywać organowi nadzoru w tym państwie członkowskim informacje, które mogą ułatwić temu organowi nadzór nad domem maklerskim, w zakresie:
+
 - **1)** zarządzania i struktury własnościowej domu maklerskiego;
 - **2)** płynności, wypłacalności i ograniczania dużych ekspozycji;
 - **3)** czynników, które mogą wywierać wpływ na ryzyko systemowe stwarzane przez dom maklerski;
@@ -257,7 +362,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 22.** Jeżeli wymaga tego wykonywanie zadań określonych ustawą o nadzorze uzupełniającym, Komisja może przekazywać i otrzymywać informacje od banków centralnych innych państw członkowskich, Europejskiego Systemu Banków Centralnych oraz Europejskiego Banku Centralnego. Art. 21 ust. 6–8 stosuje się odpowiednio.
 
-**Art. 22a.** Komisja może przekazywać Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych, Europejskiemu Urzędowi Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych oraz Europejskiemu Urzędowi Nadzoru Bankowego informacje niezbędne do wykonania przez te urzędy zadań i uprawnień określonych odpowiednio w rozporządzeniu 1095/2010, rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm. ) i rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm. ).
+**Art. 22a.** Komisja może przekazywać Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych, Europejskiemu Urzędowi Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych oraz Europejskiemu Urzędowi Nadzoru Bankowego informacje niezbędne do wykonania przez te urzędy zadań i uprawnień określonych odpowiednio w rozporządzeniu 1095/2010, rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm. ) i rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm. ).
 
 **Art. 22b.**
 
@@ -268,7 +373,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 - **3)** inne niż wskazane w pkt 1 i 2 przepisy tego państwa regulujące zasady świadczenia usług przez firmy inwestycyjne, lub
 - **4)** przepisy rozporządzenia 600/2014 lub inne bezpośrednio stosowane przepisy prawa Unii Europejskiej mające zastosowanie do działalności firmy inwestycyjnej.
 
-2. W przypadku otrzymania przez Komisję od organu nadzoru z innego niż Rzeczpospolita Polska państwa członkowskiego informacji o prowadzeniu na terytorium Rzeczypospolitej Polskiej, przez podmiot niepodlegający nadzorowi tego organu, działalności naruszającej przepisy ustawy o obrocie instrumentami finansowymi, przepisy wydane na jej podstawie, inne przepisy regulujące zasady świadczenia usług przez firmy inwestycyjne, przepisy rozporządzenia 600/2014 lub do działalności firmy inwestycyjnej, Komisja przekazuje informacje o podjętych działaniach i wynikach tych działań organowi nadzoru z innego niż Rzeczpospolita Polska państwa członkowskiego, od którego otrzymała powiadomienie, oraz Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
+2. W przypadku otrzymania przez Komisję od organu nadzoru z innego niż Rzeczpospolita Polska państwa członkowskiego informacji o prowadzeniu na terytorium Rzeczypospolitej Polskiej, przez podmiot niepodlegający nadzorowi tego organu, działalności naruszającej przepisy ustawy o obrocie instrumentami finansowymi, przepisy wydane na jej podstawie, inne przepisy regulujące zasady świadczenia usług przez firmy inwestycyjne, przepisy rozporządzenia 600/2014 lub inne bezpośrednio stosowane przepisy prawa Unii Europejskiej mające zastosowanie do działalności firmy inwestycyjnej, Komisja przekazuje informacje o podjętych działaniach i wynikach tych działań organowi nadzoru z innego niż Rzeczpospolita Polska państwa członkowskiego, od którego otrzymała powiadomienie, oraz Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
 
 **Art. 23.**
 
@@ -290,7 +395,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 - **1)** tymczasowego zawieszenia określonych w art. 13 rozporządzenia 236/2012 ograniczeń w zakresie dokonywania krótkiej sprzedaży;
 - **2)** tymczasowego zawieszenia określonych w art. 14 rozporządzenia 236/2012 ograniczeń w zakresie zawierania transakcji swapu ryzyka kredytowego z tytułu długu państwowego;
-- **3)** wprowadzenia, na podstawie art. 18 rozporządzenia 236/2012, obowiązku zgłaszania Komisji lub podawania do wiadomości publicznej informacji o pozycjach krótkich netto dotyczących określonego instrumentu finansowego lub kategorii instrumentów finansowych; powiadamiania Komisji o znaczących zmianach wysokości opłat pobieranych w ramach kredytowania określonych instrumentów finansowych lub ich kategorii;
+- **3)** wprowadzenia, na podstawie art. 18 rozporządzenia 236/2012, obowiązku zgłaszania Komisji lub podawania do wiadomości publicznej informacji o pozycjach krótkich netto dotyczących określonego instrumentu finansowego lub kategorii instrumentów finansowych;
+- **4)** wprowadzenia, na podstawie art. 19 rozporządzenia 236/2012, obowiązku powiadamiania Komisji o znaczących zmianach wysokości opłat pobieranych w ramach kredytowania określonych instrumentów finansowych lub ich kategorii;
 - **5)** wprowadzenia, na podstawie art. 20 rozporządzenia 236/2012, zakazu lub ograniczeń w zakresie dokonywania krótkiej sprzedaży lub zawierania innych transakcji, w przypadku których spadek ceny lub wartości instrumentu finansowego wiąże się z uzyskaniem korzyści majątkowej;
 - **6)** wprowadzenia, na podstawie art. 21 rozporządzenia 236/2012, ograniczeń w zakresie zawierania transakcji swapu ryzyka kredytowego z tytułu długu państwowego lub w zakresie wartości otwieranych pozycji dotyczących swapu ryzyka kredytowego z tytułu długu państwowego;
 - **7)** wprowadzenia, na podstawie art. 23 rozporządzenia 236/2012, zakazu lub ograniczeń w zakresie dokonywania na rynku regulowanym lub w alternatywnym systemie obrotu krótkiej sprzedaży określonego instrumentu finansowego lub zawierania innych transakcji mających za przedmiot określony instrument finansowy.
@@ -307,7 +413,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 23c.**
 
-1. O wystąpieniu o opinię ministra właściwego do spraw finansów publicznych, o której mowa w art. 23b, Komisja informuje Prezesa Narodowego Banku Polskiego, przekazując mu treść tego wystąpienia. opinii, o której mowa w tym przepisie, minister właściwy do spraw finansów publicznych informuje Prezesa Narodowego Banku Polskiego, przekazując mu treść tego wniosku albo tej opinii.
+1. O wystąpieniu o opinię ministra właściwego do spraw finansów publicznych, o której mowa w art. 23b, Komisja informuje Prezesa Narodowego Banku Polskiego, przekazując mu treść tego wystąpienia.
+
+2. O wystąpieniu z wnioskiem, o którym mowa w art. 23b, oraz o wyrażeniu opinii, o której mowa w tym przepisie, minister właściwy do spraw finansów publicznych informuje Prezesa Narodowego Banku Polskiego, przekazując mu treść tego wniosku albo tej opinii.
 
 **Art. 23d.** Powiadomienia otrzymane na podstawie art. 7 i art. 8 rozporządzenia 236/2012 Komisja przekazuje ministrowi właściwemu do spraw finansów publicznych na zasadach określonych w porozumieniu, o którym mowa w art. 3 ust. 4.
 
@@ -319,7 +427,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do powiadomień, o których mowa w art. 17 ust. 10 rozporządzenia 236/2012.
 
-**Art. 23f.** W przypadku wprowadzenia przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych, na podstawie art. 28 ust. 1 lit. a rozporządzenia 236/2012, obowiązku zgłaszania Komisji lub podawania do wiadomości publicznej informacji o pozycjach krótkich netto dotyczących określonego instrumentu finansowego lub kategorii instrumentów finansowych albo wprowadzenia przez ten Urząd, na podstawie art. 28 ust. 1 lit. b rozporządzenia 236/2012, zakazu lub ograniczeń w zakresie dokonywania krótkiej sprzedaży lub zawierania innych transakcji, w przypadku których spadek ceny lub wartości instrumentu finansowego wiąże się z uzyskaniem korzyści majątkowej, informacje o wprowadzeniu takiego obowiązku, ograniczenia lub zakazu są zamieszczane na stronach internetowych Komisji. Współpraca w zakresie nadzoru nad podmiotami prowadzącymi systemy rozrachunku papierów wartościowych oraz nadzoru nad tymi systemami
+**Art. 23f.** W przypadku wprowadzenia przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych, na podstawie art. 28 ust. 1 lit. a rozporządzenia 236/2012, obowiązku zgłaszania Komisji lub podawania do wiadomości publicznej informacji o pozycjach krótkich netto dotyczących określonego instrumentu finansowego lub kategorii instrumentów finansowych albo wprowadzenia przez ten Urząd, na podstawie art. 28 ust. 1 lit. b rozporządzenia 236/2012, zakazu lub ograniczeń w zakresie dokonywania krótkiej sprzedaży lub zawierania innych transakcji, w przypadku których spadek ceny lub wartości instrumentu finansowego wiąże się z uzyskaniem korzyści majątkowej, informacje o wprowadzeniu takiego obowiązku, ograniczenia lub zakazu są zamieszczane na stronach internetowych Komisji.
+
+#### Rozdział 3b Współpraca w zakresie nadzoru nad podmiotami prowadzącymi systemy rozrachunku papierów wartościowych oraz nadzoru nad tymi systemami
 
 **Art. 23g.**
 
@@ -345,6 +455,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 1. W przypadkach i na zasadach określonych w rozporządzeniu 2016/1011 Komisja wydaje decyzje w sprawach:
 
+- **1)** (uchylony)
 - **2)** (uchylony) 2a) wyznaczenia wskaźnika referencyjnego jako istotnego na podstawie art. 24 ust. 3 i 7 rozporządzenia 2016/1011;
 - **2b)** udzielenia zezwolenia, o którym mowa w art. 29 ust. 1 rozporządzenia 2016/1011;
 - **3)** udzielenia zezwolenia określonego w art. 34 ust. 1 lit. a rozporządzenia 2016/1011;
@@ -360,7 +471,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 1. Na żądanie Komisji lub jej upoważnionego przedstawiciela administratorzy w rozumieniu art. 3 ust. 1 pkt 6 rozporządzenia 2016/1011, osoby, które opublikowały lub rozpowszechniały wskaźnik referencyjny w rozumieniu art. 3 ust. 1 pkt 3 rozporządzenia 2016/1011, osoby wchodzące w skład organów zarządzających lub nadzorczych administratora albo pozostające z nim w stosunku pracy lub będące odpowiednio likwidatorem, syndykiem ustanowionym w postępowaniu upadłościowym lub zarządcą ustanowionym w postępowaniu restrukturyzacyjnym są obowiązane do niezwłocznego udzielenia pisemnych lub ustnych informacji i wyjaśnień, a także sporządzenia i przekazania, na ich koszt, kopii dokumentów i innych nośników informacji, w tym posiadanych przez te podmioty nagrań rozmów telefonicznych oraz innych informacji zarejestrowanych za pośrednictwem urządzeń i systemów teleinformatycznych, w celu umożliwienia wykonywania ustawowych zadań Komisji w zakresie nadzoru nad sposobem wykonywania przez administratorów obowiązków określonych w rozporządzeniu 2016/1011.
 
-1a. Przepis ust. 1 stosuje się odpowiednio do podmiotu uczestniczącego w opracowywaniu wskaźnika referencyjnego lub przekazującego dane na potrzeby jego opracowywania, w tym usługodawcy, któremu zadania, usługi lub czynności z art. 10 rozporządzenia 2016/1011.
+1a. Przepis ust. 1 stosuje się odpowiednio do podmiotu uczestniczącego w opracowywaniu wskaźnika referencyjnego lub przekazującego dane na potrzeby jego opracowywania, w tym usługodawcy, któremu zadania, usługi lub czynności związane z opracowywaniem wskaźnika referencyjnego zostały zlecone zgodnie z art. 10 rozporządzenia 2016/1011.
 
 2. Na żądanie Komisji lub jej upoważnionego przedstawiciela podmioty, o których mowa w ust. 1 i 1a:
 
@@ -373,9 +484,14 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 24.** W związku z wykonywaniem zadań w zakresie nadzoru Komisja, Przewodniczący Komisji, upoważnieni przedstawiciele Komisji oraz pracownicy urzędu Komisji mają prawo dostępu do:
 
+- **1)** informacji poufnych w rozumieniu art. 7 rozporządzenia 596/2014 lub informacji poufnych, o których mowa w art. 62 ust. 1 rozporządzenia 1031/2010, oraz informacji wewnętrznych w rozumieniu art. 37 lit. a rozporządzenia 1031/2010,
+- **2)** innych informacji, w tym informacji stanowiących tajemnicę zawodową, o której mowa w art. 19 ust. 1 – będących w posiadaniu osób fizycznych lub innych podmiotów, w szczególności wymienionych w art. 20, art. 21 i art. 23, jak również w art. 150 ust. 1 ustawy o obrocie instrumentami finansowymi oraz w art. 7 ustawy o finansowaniu społecznościowym dla przedsięwzięć gospodarczych. Informacje te oraz informacje uzyskane przez Komisję, zgodnie z art. 20, art. 21 i art. 23, mogą być, jeżeli przepisy prawa nie stanowią inaczej, wykorzystywane wyłącznie do wykonywania ustawowych zadań w zakresie nadzoru, w szczególności mogą stanowić dowód w postępowaniu administracyjnym prowadzonym przez Komisję.
+
 **Art. 24a.**
 
-1. W przypadku wydania decyzji nakładającej karę za naruszenie przepisów rozporządzenia 596/2014, Komisja może, w drodze uchwały, zdecydować o przekazaniu do publicznej wiadomości informacji o jej wydaniu, w zakresie i w sposób określony w art. 34 tego rozporządzenia. której dotyczy decyzja, Komisja udostępnia na swojej stronie internetowej przez okres 5 lat, licząc od dnia ich udostępnienia.
+1. W przypadku wydania decyzji nakładającej karę za naruszenie przepisów rozporządzenia 596/2014, Komisja może, w drodze uchwały, zdecydować o przekazaniu do publicznej wiadomości informacji o jej wydaniu, w zakresie i w sposób określony w art. 34 tego rozporządzenia.
+
+2. Informacje, o których mowa w ust. 1, dotyczące imienia i nazwiska osoby, której dotyczy decyzja, Komisja udostępnia na swojej stronie internetowej przez okres 5 lat, licząc od dnia ich udostępnienia.
 
 **Art. 25.**
 
@@ -391,7 +507,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 2. Informacja, o której mowa w ust. 1, nie może zawierać danych osobowych osób, chyba że:
 
-- **1)** zapadło w stosunku do tych osób prawomocne orzeczenie lub przepisów, o których mowa w ust. 1 pkt 1, lub
+- **1)** zapadło w stosunku do tych osób prawomocne orzeczenie lub
+- **2)** wydana została ostateczna decyzja w sprawie naruszenia przez te osoby przepisów, o których mowa w ust. 1 pkt 1, lub
 - **3)** decyzji w sprawie naruszenia przez te osoby przepisów, o których mowa w ust. 1 pkt 1, został nadany rygor natychmiastowej wykonalności.
 
 2a. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o każdym przypadku przekazania do publicznej wiadomości informacji o zastosowaniu środków prawnych, o których mowa w ust. 1 pkt 2, podjętych w celu przeciwdziałania naruszeniu przepisów ustawy o obrocie instrumentami finansowymi.
@@ -405,9 +522,16 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 - **3)** zagroziłoby prowadzonemu postępowaniu karnemu lub postępowaniu w sprawach o przestępstwa skarbowe;
 - **4)** wyrządziłoby niewspółmierną szkodę tej osobie lub domowi maklerskiemu.
 
-2d. Informacje, o których mowa w ust. 2b i 2c, są dostępne na stronie internetowej Komisji przez 5 lat, licząc od dnia ich zamieszczenia, z tym że wskazanie imienia i nazwiska osoby, na którą nałożono sankcję, jest zamieszczane na okres nie dłuższy niż rok.
+2d. Informacje, o których mowa w ust. 2b i 2c, są dostępne na stronie internetowej Komisji przez 5 lat, licząc od dnia ich zamieszczenia, z tym że wskazanie imienia i nazwiska osoby, na którą nałożono sankcję, jest zamieszczane na okres nie dłuższy niż rok. <2e. Komisja udostępnia informacje, o których mowa w ust. 2b, w europejskim pojedynczym punkcie dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859, w formacie umożliwiającym ekstrakcję danych rozumianym jako format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka.
 
-3. W przypadkach uzasadnionych potrzebą wykonywania nadzoru przez zagraniczny organ nadzoru, z którym Komisja zawarła porozumienie, o którym mowa wych w sprawach związanych z wykonywaniem nadzoru przez ten organ, albo na wniosek organu nadzoru w innym państwie członkowskim, Komisja może wszczynać z urzędu i prowadzić kontrolę, postępowanie wyjaśniające lub postępowanie administracyjne, jak również żądać wszczęcia takich kontroli i postępowania przez organ nadzoru w innym państwie członkowskim. W takim przypadku upoważniony przedstawiciel tego organu nadzoru może brać udział w czynnościach dokonywanych w toku takich kontroli i postępowania.
+2f. Informacje, o których mowa w ust. 2b, są opatrywane następującymi metadanymi w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859:
+
+- **1)** imieniem i nazwiskiem osoby lub nazwą (firmą) podmiotu, których dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego podmiotu, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+
+3. W przypadkach uzasadnionych potrzebą wykonywania nadzoru przez zagraniczny organ nadzoru, z którym Komisja zawarła porozumienie, o którym mowa w art. 20 ust. 2, albo potrzebą prowadzenia postępowań administracyjnych lub sądowych w sprawach związanych z wykonywaniem nadzoru przez ten organ, albo na wniosek organu nadzoru w innym państwie członkowskim, Komisja może wszczynać z urzędu i prowadzić kontrolę, postępowanie wyjaśniające lub postępowanie administracyjne, jak również żądać wszczęcia takich kontroli i postępowania przez organ nadzoru w innym państwie członkowskim. W takim przypadku upoważniony przedstawiciel tego organu nadzoru może brać udział w czynnościach dokonywanych w toku takich kontroli i postępowania.
 
 4. Komisja nie wszczyna kontroli lub postępowania, o których mowa w ust. 3, lub odmawia dopuszczenia do udziału w czynnościach, jeżeli:
 
@@ -422,7 +546,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 7. Uprawnienia Komisji, o których mowa w przepisach niniejszego rozdziału, mają zastosowanie do:
 
-- **1)** zachowań na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego dotyczących instrumentów finansowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej; instrumentów finansowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym na terytorium innego państwa członkowskiego.
+- **1)** zachowań na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego dotyczących instrumentów finansowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej;
+- **2)** zachowań zaistniałych na terytorium Rzeczypospolitej Polskiej dotyczących instrumentów finansowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym na terytorium innego państwa członkowskiego.
 
 **Art. 26.**
 
@@ -437,7 +562,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 - **1)** oddziału zagranicznej instytucji kredytowej w rozumieniu ustawy o obrocie instrumentami finansowymi prowadzącej na terytorium Rzeczypospolitej Polskiej działalność maklerską – kontrola dotyczy wyłącznie jednostki organizacyjnej, w ramach której prowadzona jest ta działalność;
 - **2)** oddziału zagranicznej firmy inwestycyjnej prowadzącej na terytorium Rzeczypospolitej Polskiej działalność maklerską – kontrola dotyczy wyłącznie badania zgodności prowadzonej na terytorium Rzeczypospolitej Polskiej działalności maklerskiej z określonymi w przepisach prawa polskiego zasadami świadczenia usług;
-- **3)** banku, o którym mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi – kontrola dotyczy wyłącznie prowadzenia działalności, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, praktyk sprzedaży krzyżowej obejmujących czynności, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub instrumenty finansowe, działalności w zakresie lokat strukturyzowanych, o których mowa w rozdziale 6a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz działalności prowadzonej w charakterze podmiotu systematycznie internalizującego transakcje w rozumieniu ustawy o obrocie instrumentami finansowymi. w stosunku do oddziału domu maklerskiego lub banku prowadzącego działalność maklerską znajdującego się na terytorium innego państwa członkowskiego, następuje po uprzednim pisemnym poinformowaniu przez Komisję właściwego organu nadzoru w państwie, na którego terytorium znajduje się oddział domu maklerskiego lub banku.
+- **3)** banku, o którym mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi – kontrola dotyczy wyłącznie prowadzenia działalności, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, praktyk sprzedaży krzyżowej obejmujących czynności, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub instrumenty finansowe, działalności w zakresie lokat strukturyzowanych, o których mowa w rozdziale 6a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz działalności prowadzonej w charakterze podmiotu systematycznie internalizującego transakcje w rozumieniu ustawy o obrocie instrumentami finansowymi.
+
+3. Wykonanie uprawnień w zakresie kontroli, o której mowa w ust. 1, w stosunku do oddziału domu maklerskiego lub banku prowadzącego działalność maklerską znajdującego się na terytorium innego państwa członkowskiego, następuje po uprzednim pisemnym poinformowaniu przez Komisję właściwego organu nadzoru w państwie, na którego terytorium znajduje się oddział domu maklerskiego lub banku.
 
 3a. Komisja może zwrócić się do właściwego organu nadzoru w państwie członkowskim, na którego terytorium znajduje się oddział domu maklerskiego lub banku prowadzącego działalność maklerską, o wykonanie uprawnień w zakresie kontroli, o której mowa w ust. 1, w stosunku do oddziału domu maklerskiego lub banku prowadzącego działalność maklerską znajdującego się na terytorium tego państwa członkowskiego. W przypadku odmowy uwzględnienia żądania przez właściwy organ nadzoru, Komisja może poinformować o tym Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
 
@@ -445,7 +572,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 4. W stosunku do oddziałów i przedstawicielstw zagranicznych firm inwestycyjnych prowadzących działalność na terytorium Rzeczypospolitej Polskiej uprawnienia w zakresie kontroli, o której mowa w ust. 1, służą odpowiednio również przedstawicielom organów nadzoru nad rynkiem papierów wartościowych lub rynkiem finansowym w innym państwie członkowskim, w którym zagraniczna firma inwestycyjna uzyskała zezwolenie, na zasadach określonych w przepisach tego państwa. Wykonanie uprawnień może nastąpić po uprzednim pisemnym poinformowaniu Komisji.
 
-5. Na pisemne żądanie organów nadzoru, o których mowa w ust. 4, uprawnienia im przyznane, w stosunku do oddziału lub przedstawicielstwa zagranicznej firmy inwestycyjnej, wykonuje Komisja lub jej upoważniony przedstawiciel. mogłoby niekorzystnie wpłynąć na suwerenność, bezpieczeństwo lub interes publiczny Rzeczypospolitej Polskiej. W takim przypadku szczegółowa informacja o tych okolicznościach jest przekazywana Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz właściwemu organowi nadzoru.
+5. Na pisemne żądanie organów nadzoru, o których mowa w ust. 4, uprawnienia im przyznane, w stosunku do oddziału lub przedstawicielstwa zagranicznej firmy inwestycyjnej, wykonuje Komisja lub jej upoważniony przedstawiciel.
+
+5a. Komisja może nie uwzględnić żądania organu nadzoru, jeżeli jego wykonanie mogłoby niekorzystnie wpłynąć na suwerenność, bezpieczeństwo lub interes publiczny Rzeczypospolitej Polskiej. W takim przypadku szczegółowa informacja o tych okolicznościach jest przekazywana Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz właściwemu organowi nadzoru.
 
 6. Przedstawicielom organów nadzoru w innych państwach członkowskich, w których zagraniczne firmy inwestycyjne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej uzyskały zezwolenie, przysługuje – w związku z wykonywaniem uprawnień w zakresie kontroli, o której mowa w ust. 1, w stosunku do oddziałów i przedstawicielstw zagranicznych firm inwestycyjnych – prawo dostępu do informacji stanowiących tajemnicę zawodową, będących w posiadaniu tych podmiotów i osób fizycznych w nich zatrudnionych lub pozostających z nimi w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze.
 
@@ -463,7 +592,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 2. Zakres kontroli obejmuje całość lub część określonych zagadnień dotyczących działalności lub sytuacji finansowej kontrolowanego.
 
-3. Czynności podejmowane przez kontrolerów w toku kontroli (czynności kontrolne) mają na celu ustalenie stanu faktycznego oraz rzetelne jego a w razie stwierdzenia nieprawidłowości – ustalenie ich zakresu i przyczyn oraz osób odpowiedzialnych za ich powstanie.
+3. Czynności podejmowane przez kontrolerów w toku kontroli (czynności kontrolne) mają na celu ustalenie stanu faktycznego oraz rzetelne jego udokumentowanie, pozwalające na ocenę prawidłowości działania kontrolowanego, a w razie stwierdzenia nieprawidłowości – ustalenie ich zakresu i przyczyn oraz osób odpowiedzialnych za ich powstanie.
 
 4. Czynności kontrolne powinny być wykonywane w sposób niezakłócający w istotnym stopniu działalności gospodarczej prowadzonej przez kontrolowanego, w szczególności terminowego wykonania jego zobowiązań wobec osób trzecich.
 
@@ -484,7 +613,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 - **1)** podstawę prawną do przeprowadzenia kontroli;
 - **2)** oznaczenie organu kontroli;
 - **3)** datę i miejsce wystawienia;
-- **4)** imiona, nazwiska oraz stanowiska służbowe kontrolerów będących pracownikami urzędu Komisji; Komisji;
+- **4)** imiona, nazwiska oraz stanowiska służbowe kontrolerów będących pracownikami urzędu Komisji;
+- **5)** numery legitymacji służbowych kontrolerów będących pracownikami urzędu Komisji;
 - **6)** firmę (nazwę) kontrolowanego;
 - **7)** miejsce przeprowadzenia kontroli;
 - **8)** przedmiot oraz zakres kontroli;
@@ -511,7 +641,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 30.**
 
-1. Kontrolę przeprowadza zespół kontrolujący, składający się z co najmniej dwóch kontrolerów, po okazaniu kontrolowanemu lub osobie przez niego upoważnionej legitymacji służbowej lub dokumentu potwierdzającego tożsamość oraz doręczeniu upoważnienia do przeprowadzenia kontroli. Obowiązek okazania legitymacji służbowej nie dotyczy osób, o których mowa w art. 26 ust. 7. upoważnionej czynności kontrolne mogą być wszczęte po okazaniu legitymacji służbowej pracownikowi kontrolowanego lub przywołanemu świadkowi, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę. W takim przypadku upoważnienie doręcza się kontrolowanemu niezwłocznie, nie później jednak niż trzeciego dnia od wszczęcia kontroli.
+1. Kontrolę przeprowadza zespół kontrolujący, składający się z co najmniej dwóch kontrolerów, po okazaniu kontrolowanemu lub osobie przez niego upoważnionej legitymacji służbowej lub dokumentu potwierdzającego tożsamość oraz doręczeniu upoważnienia do przeprowadzenia kontroli. Obowiązek okazania legitymacji służbowej nie dotyczy osób, o których mowa w art. 26 ust. 7.
+
+2. W przypadku nieobecności kontrolowanego lub osoby przez niego upoważnionej czynności kontrolne mogą być wszczęte po okazaniu legitymacji służbowej pracownikowi kontrolowanego lub przywołanemu świadkowi, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę. W takim przypadku upoważnienie doręcza się kontrolowanemu niezwłocznie, nie później jednak niż trzeciego dnia od wszczęcia kontroli.
 
 3. Po doręczeniu upoważnienia, a przed podjęciem pierwszej czynności kontrolnej, kontroler ma również obowiązek poinformować osobę, o której mowa w ust. 1, o prawach i obowiązkach kontrolowanego, pouczyć o skutkach prawnych utrudniania lub uniemożliwiania przeprowadzenia czynności kontrolnych, w szczególności o treści art. 32a, art. 46 i art. 47a, a także o odpowiedzialności za złożenie nieprawdziwych wyjaśnień lub zatajenie prawdy. Składający wyjaśnienia może odmówić odpowiedzi na pytania, gdy odpowiedź mogłaby narazić jego lub jego bliskich, o których mowa w art. 83 § 1 Kodeksu postępowania administracyjnego, na odpowiedzialność karną lub bezpośrednią szkodę majątkową.
 
@@ -521,7 +653,11 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 6. Upoważnienie do przeprowadzenia kontroli wraz z pouczeniem, o którym mowa w ust. 3, można doręczyć kontrolowanemu bezpośrednio, w tym jako wydruk, o którym mowa w art. 27 ust. 6, albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045), albo za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
 
-7. Okazanie kontrolowanemu lub osobie przez niego upoważnionej legitymacji służbowej lub dokumentu potwierdzającego tożsamość może odbyć się za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, umożliwiających jednoczesne przekazywanie obrazu i dźwięku. kontroli mogłyby oddziaływać na jego prawa lub obowiązki albo prawa lub obowiązki jego małżonka lub osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądź osób związanych z nim z tytułu przysposobienia, opieki lub kurateli.
+7. Okazanie kontrolowanemu lub osobie przez niego upoważnionej legitymacji służbowej lub dokumentu potwierdzającego tożsamość może odbyć się za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, umożliwiających jednoczesne przekazywanie obrazu i dźwięku.
+
+**Art. 31.**
+
+1. Kontroler podlega wyłączeniu od udziału w kontroli, jeżeli ustalenia kontroli mogłyby oddziaływać na jego prawa lub obowiązki albo prawa lub obowiązki jego małżonka lub osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądź osób związanych z nim z tytułu przysposobienia, opieki lub kurateli.
 
 2. Powody wyłączenia kontrolera od udziału w kontroli trwają mimo ustania małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.
 
@@ -541,7 +677,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 2. W szczególnie uzasadnionych przypadkach zagrożenia bezpieczeństwa obrotu czynności kontrolne niecierpiące zwłoki mogą być podejmowane w dniach wolnych od pracy lub poza godzinami pracy kontrolowanego, po uprzednim poinformowaniu osoby uprawnionej do reprezentowania kontrolowanego.
 
-3. Czynności kontrolne mogą być podejmowane również poza miejscem określonym w ust. 1, w szczególności w lokalu urzędu Komisji, jeżeli jest to uzasadnione charakterem tych czynności oraz może przyczynić się to do szybszego i skuteczniejszego przeprowadzenia kontroli. w ust. 1, oraz wglądu do ksiąg, dokumentów lub innych nośników informacji.
+3. Czynności kontrolne mogą być podejmowane również poza miejscem określonym w ust. 1, w szczególności w lokalu urzędu Komisji, jeżeli jest to uzasadnione charakterem tych czynności oraz może przyczynić się to do szybszego i skuteczniejszego przeprowadzenia kontroli.
+
+4. Kontroler ma prawo wstępu do miejsc i pomieszczeń, o których mowa w ust. 1, oraz wglądu do ksiąg, dokumentów lub innych nośników informacji.
 
 5. Na żądanie kontrolera osoby wchodzące w skład statutowych organów kontrolowanego lub osoby pozostające z kontrolowanym w stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt kontrolowanego, kopii dokumentów, korespondencji elektronicznej, rejestrów połączeń telefonicznych i rejestru przesyłu danych lub innych nośników informacji oraz udzielenia pisemnych lub ustnych wyjaśnień, dotyczących przedmiotu kontroli w terminie, w sposób i w formie określonych w żądaniu.
 
@@ -553,7 +691,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 6c. Z przekazania kontrolerowi materiałów, o których mowa w ust. 5 i 6b, oraz pobrania materiałów, o których mowa w ust. 6a, sporządza się protokół, który otrzymuje kontroler i kontrolowany. Kontroler oraz osoba przekazująca materiały podpisują protokół.
 
-6d. W przypadku odmowy podpisania protokołu, o którym mowa w ust. 6c, wzmiankę o tym umieszcza się w protokole, z podaniem przyczyn odmowy. swobodnego poruszania się po miejscach i pomieszczeniach, o których mowa w ust. 1, bez obowiązku uzyskania przepustki, oraz nie podlega rewizji osobistej.
+6d. W przypadku odmowy podpisania protokołu, o którym mowa w ust. 6c, wzmiankę o tym umieszcza się w protokole, z podaniem przyczyn odmowy.
+
+7. W zakresie wynikającym z przedmiotu kontroli kontroler jest uprawniony do swobodnego poruszania się po miejscach i pomieszczeniach, o których mowa w ust. 1, bez obowiązku uzyskania przepustki, oraz nie podlega rewizji osobistej.
 
 8. Przeprowadzenie kontroli nie powinno, w miarę możliwości, zakłócać wykonywania zadań kontrolowanego.
 
@@ -575,6 +715,13 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 34.** Ustaleń kontroli dokonuje się na podstawie zebranych w toku kontroli:
 
+- **1)** dokumentów, innych nośników informacji i rejestrów;
+- **2)** wyjaśnień udzielonych przez osoby, o których mowa w art. 32 ust. 5;
+- **3)** danych i informacji zamieszczonych w systemach informatycznych kontrolowanego;
+- **4)** oświadczeń osób trzecich;
+- **4a)** zapisów obrazu lub dźwięku;
+- **5)** innych materiałów, które mogą przyczynić się do ustalenia stanu faktycznego w zakresie objętym kontrolą.
+
 **Art. 34a.**
 
 1. Wyjaśnienia, informacje i zestawienia pisemne sporządzane przez kontrolowanego na potrzeby przeprowadzanej kontroli powinny być podpisane przez osoby upoważnione do ich sporządzenia. W przypadku odmowy ich podpisania kontroler sporządza stosowną adnotację na protokole przekazania materiałów.
@@ -593,7 +740,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 4. Kontroler przekazuje kontrolowanemu kopię wyjaśnień ustnych utrwalonych za pomocą urządzenia rejestrującego dźwięk lub obraz. Kontrolowany lub osoba przez niego upoważniona potwierdza na piśmie otrzymanie takiej kopii.
 
-5. Wyjaśnienia udzielane ustnie przez osoby, o których mowa w art. 32 ust. 5, mogą zostać odebrane telefonicznie lub za pomocą środków komunikacji usług drogą elektroniczną, umożliwiających przekazywanie obrazu lub dźwięku.
+5. Wyjaśnienia udzielane ustnie przez osoby, o których mowa w art. 32 ust. 5, mogą zostać odebrane telefonicznie lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, umożliwiających przekazywanie obrazu lub dźwięku.
 
 **Art. 35.**
 
@@ -618,7 +765,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 - **9)** opis dokonanych czynności kontrolnych oraz ustalenia dotyczące stanu faktycznego, ze wskazaniem dokumentów lub innych informacji i materiałów, na jakich ustalenia te zostały oparte, jak również opis stwierdzonych nieprawidłowości, ich zakresu i przyczyn;
 - **10)** wykaz sporządzonych protokołów, o których mowa w art. 32 ust. 6c i art. 34b ust. 1, oraz wykaz czynności, o których mowa w art. 32 ust. 6ba i art. 34b ust. 3;
 - **11)** miejsce i datę sporządzenia protokołu kontroli;
-- **12)** wzmiankę o udzieleniu zaleceń w trybie art. 36 ust. 6; kontrolowanego z wykonania zaleceń, o których mowa w art. 36 ust. 5 i 6;
+- **12)** wzmiankę o udzieleniu zaleceń w trybie art. 36 ust. 6;
+- **13)** informację, że odmowa podpisania protokołu kontroli nie zwalnia kontrolowanego z wykonania zaleceń, o których mowa w art. 36 ust. 5 i 6;
 - **14)** zarządzenia Przewodniczącego Komisji wydane w toku kontroli.
 
 2. (uchylony)
@@ -635,7 +783,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 2c. Kontroler umieszcza na egzemplarzu protokołu kontroli, który otrzymuje Komisja, wzmiankę o odmowie jego podpisania, załączając wyjaśnienia, o których mowa w ust. 2b, jeżeli zostały złożone.
 
-2d. Odmowa podpisania protokołu kontroli nie zwalnia kontrolowanego z wykonania zaleceń, o których mowa w ust. 5 i 6. protokołu kontroli. Zastrzeżenia doręcza się na piśmie Przewodniczącemu Komisji, w sposób określony w ust. 1, w terminie 14 dni od dnia otrzymania protokołu kontroli.
+2d. Odmowa podpisania protokołu kontroli nie zwalnia kontrolowanego z wykonania zaleceń, o których mowa w ust. 5 i 6.
+
+3. Kontrolowany ma prawo przedstawienia umotywowanych zastrzeżeń do protokołu kontroli. Zastrzeżenia doręcza się na piśmie Przewodniczącemu Komisji, w sposób określony w ust. 1, w terminie 14 dni od dnia otrzymania protokołu kontroli.
 
 4. W przypadku gdy Przewodniczący Komisji:
 
@@ -652,7 +802,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 8. Kontrolowany, niezwłocznie, nie później niż w dniu następnym po upływie terminu do usunięcia nieprawidłowości wskazanych w zaleceniach, przekazuje Komisji informację o sposobie ich uwzględnienia, wskazując szczegółowy sposób usunięcia stwierdzonych nieprawidłowości.
 
-9. Terminy, o których mowa w ust. 1, 2a, 3–5a i 8, uważa się za zachowane, jeżeli przed ich upływem pismo zostało doręczone bezpośrednio, nadane w polskiej 2012 r. – Prawo pocztowe albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłane na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+9. Terminy, o których mowa w ust. 1, 2a, 3–5a i 8, uważa się za zachowane, jeżeli przed ich upływem pismo zostało doręczone bezpośrednio, nadane w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłane na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
 **Art. 37.**
 
@@ -675,7 +825,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 **Art. 37a.**
 
-1. Upoważnieni pracownicy urzędu Komisji mogą przeprowadzić w domu maklerskim lub podmiocie, o którym mowa w art. 5 pkt 18–20a, wizytę nadzorczą w zakresie niezbędnym do nadzoru ostrożnościowego nad domami maklerskimi. dotyczących wydania przez Komisję zezwolenia, pozwolenia lub zgody, o których mowa w przepisach rozporządzenia 2019/2033 lub rozporządzenia 575/2013.
+1. Upoważnieni pracownicy urzędu Komisji mogą przeprowadzić w domu maklerskim lub podmiocie, o którym mowa w art. 5 pkt 18–20a, wizytę nadzorczą w zakresie niezbędnym do nadzoru ostrożnościowego nad domami maklerskimi.
+
+2. Wizyta nadzorcza może być także przeprowadzona w przypadku postępowań dotyczących wydania przez Komisję zezwolenia, pozwolenia lub zgody, o których mowa w przepisach rozporządzenia 2019/2033 lub rozporządzenia 575/2013.
 
 3. Do wizyty nadzorczej stosuje się odpowiednio przepisy art. 27 ust. 4, art. 28, art. 29 ust. 2 i 3 oraz art. 30–32 i art. 34.
 
@@ -691,7 +843,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 2. (uchylony)
 
-3. (uchylony) 4a. (uchylony)
+3. (uchylony)
+
+4. (uchylony) 4a. (uchylony)
 
 5. W granicach koniecznych do sprawdzenia, czy zachodzi:
 
@@ -702,7 +856,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
     - **c)** podmiotu, o którym mowa w art. 32 ust. 2 ustawy o funduszach inwestycyjnych, prowadzącego działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub tytułów uczestnictwa,
     - **d)** podmiotu, któremu towarzystwo funduszy inwestycyjnych, w odniesieniu do funduszu inwestycyjnego otwartego, powierzyło wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1 ustawy o funduszach inwestycyjnych, oraz podmiotu, któremu wykonywanie takich czynności zostało przekazane,
     - **e)** podmiotu prowadzącego rejestr uczestników funduszu inwestycyjnego otwartego,
-    - **f)** przedstawiciela funduszu zagranicznego lub przedstawiciela funduszu inwestycyjnego otwartego z siedzibą w państwie należącym do Europejskiego Obszaru Gospodarczego, – przekazania Komisji posiadanych przez te podmioty nagrań rozmów telefonicznych oraz innych informacji zarejestrowanych za pośrednictwem urządzeń i systemów teleinformatycznych, dotyczących podmiotu dokonującego czynności faktycznych lub prawnych mających związek z wyjaśnianymi faktami.
+    - **f)** przedstawiciela funduszu zagranicznego lub przedstawiciela funduszu inwestycyjnego otwartego z siedzibą w państwie należącym do Europejskiego Obszaru Gospodarczego,
+    - **g)** agenta płatności – przekazania Komisji posiadanych przez te podmioty nagrań rozmów telefonicznych oraz innych informacji zarejestrowanych za pośrednictwem urządzeń i systemów teleinformatycznych, dotyczących podmiotu dokonującego czynności faktycznych lub prawnych mających związek z wyjaśnianymi faktami.
 
 - **2)** (uchylony) 5a. Udostępnienie informacji zgodnie z:
 - **1)** ust. 5 pkt 1 lub 1a – nie stanowi naruszenia obowiązku zachowania [tajemnicy telekomunikacyjnej] <tajemnicy komunikacji elektronicznej>.
@@ -726,7 +881,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 - **1)** rachunku papierów wartościowych lub rachunku zbiorczego,
 - **2)** innego rachunku, na którym są zapisywane instrumenty finansowe niebędące papierami wartościowymi,
-- **3)** rachunku pieniężnego – na okres nie dłuższy niż 96 godzin od momentu wskazanego w żądaniu. Niezwłocznie po przekazaniu żądania Przewodniczący Komisji lub jego zastępca składa zawiadomienie o podejrzeniu popełnienia przestępstwa, załączając informacje i dokumenty dotyczące blokowanego rachunku. uniemożliwienie dysponowania i korzystania z całości lub części instrumentów finansowych lub środków pieniężnych zgromadzonych na rachunku, w tym również przez podmiot nadzorowany, z wyłączeniem dokonania rozliczeń w instrumentach finansowych lub środkach pieniężnych wynikających z transakcji zawartych i zobowiązań wynikających z nabytych instrumentów finansowych przed otrzymaniem żądania, o którym mowa w ust. 1.
+- **3)** rachunku pieniężnego – na okres nie dłuższy niż 96 godzin od momentu wskazanego w żądaniu. Niezwłocznie po przekazaniu żądania Przewodniczący Komisji lub jego zastępca składa zawiadomienie o podejrzeniu popełnienia przestępstwa, załączając informacje i dokumenty dotyczące blokowanego rachunku.
+
+2. Przez blokadę rachunku, o której mowa w ust. 1, rozumie się czasowe uniemożliwienie dysponowania i korzystania z całości lub części instrumentów finansowych lub środków pieniężnych zgromadzonych na rachunku, w tym również przez podmiot nadzorowany, z wyłączeniem dokonania rozliczeń w instrumentach finansowych lub środkach pieniężnych wynikających z transakcji zawartych i zobowiązań wynikających z nabytych instrumentów finansowych przed otrzymaniem żądania, o którym mowa w ust. 1.
 
 3. Podmiot nadzorowany dokonuje blokady rachunku natychmiast po otrzymaniu żądania, o którym mowa w ust. 1.
 
@@ -742,7 +899,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 2. W postanowieniu, o którym mowa w ust. 1, wskazuje się organ wydający postanowienie, datę jego wydania, zakres, sposób i termin blokady rachunku, uzasadnienie oraz pouczenie o prawie do złożenia zażalenia do sądu właściwego do rozpoznania sprawy.
 
-3. W szczególnie uzasadnionych przypadkach ogłoszenie postanowienia, o którym mowa w ust. 1, może być odroczone na czas oznaczony, niezbędny ze względu na dobro sprawy. O wydaniu postanowienia zawiadamia się wówczas niezwłocznie podmiot nadzorowany. czasu ich stosowania nie zostanie wydane postanowienie o zabezpieczeniu majątkowym lub postanowienie w przedmiocie dowodów rzeczowych.
+3. W szczególnie uzasadnionych przypadkach ogłoszenie postanowienia, o którym mowa w ust. 1, może być odroczone na czas oznaczony, niezbędny ze względu na dobro sprawy. O wydaniu postanowienia zawiadamia się wówczas niezwłocznie podmiot nadzorowany.
+
+4. Wstrzymanie transakcji lub blokada rachunku upada, jeżeli przed upływem czasu ich stosowania nie zostanie wydane postanowienie o zabezpieczeniu majątkowym lub postanowienie w przedmiocie dowodów rzeczowych.
 
 5. W zakresie nieuregulowanym w przepisach niniejszego rozdziału do blokowania rachunku stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37).
 
@@ -763,7 +922,9 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 2. W przypadku, o którym mowa w:
 
 - **1)** (uchylony)
-- **2)** ust. 1 pkt 2 – przepis art. 39 stosuje się odpowiednio. poinformować go o dokonaniu blokady rachunku, wskazując organ, który zażądał dokonania blokady, z wyjątkiem przypadku wydania przez prokuratora postanowienia o blokadzie rachunku, którego ogłoszenie zostało odroczone na czas oznaczony.
+- **2)** ust. 1 pkt 2 – przepis art. 39 stosuje się odpowiednio.
+
+**Art. 43.** Na żądanie posiadacza rachunku podmiot nadzorowany może poinformować go o dokonaniu blokady rachunku, wskazując organ, który zażądał dokonania blokady, z wyjątkiem przypadku wydania przez prokuratora postanowienia o blokadzie rachunku, którego ogłoszenie zostało odroczone na czas oznaczony.
 
 **Art. 44.** Przepisy art. 40 i 41 stosuje się odpowiednio w toku wszczętego postępowania karnego o przestępstwa określone w art. 181–183 ustawy o obrocie instrumentami finansowymi, gdy otrzymane przez prokuratora zawiadomienie o podejrzeniu popełnienia przestępstwa pochodzi z innego źródła.
 
@@ -782,6 +943,8 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 **Art. 47a.** Komisja może, w drodze decyzji, nałożyć na kontrolowanego karę pieniężną w wysokości do 20 000 000 zł, jeżeli kontrolowany uniemożliwia lub utrudnia rozpoczęcie lub przeprowadzenie kontroli, w tym nie wykonuje obowiązków lub uniemożliwia wykonywanie czynności określonych w art. 32 ust. 4–6ba i 7 oraz art. 33 ust. 1.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+#### Rozdział 7 Przepisy przejściowe i końcowe
 
 **Art. 53.**
 
@@ -806,7 +969,7 @@ Art. 48–52. (pominięte) Przepisy przejściowe i końcowe
 
 - **1)** art. 19d, art. 20 ust. 4 oraz art. 81 ust. 8 ustawy, o której mowa w art. 54,
 - **2)** art. 236 ust. 4 ustawy o funduszach inwestycyjnych,
-- **3)** art. 26 ust. 3 ustawy o giełdach towarowych
+- **3)** art. 26 ust. 3 ustawy o giełdach towarowych – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy.
 
 2. Jeżeli obowiązujące przepisy, w zakresie określonym w niniejszej ustawie, powołują się na przepisy ustawy, o której mowa w art. 54, albo odsyłają ogólnie do przepisów tej ustawy, stosuje się w tym zakresie właściwe przepisy niniejszej ustawy.
 

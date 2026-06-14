@@ -11,7 +11,7 @@ domain: null
 source: "eli-html"
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 29 października 2021 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej
+# Rozporządzenie Ministra Finansówz dnia 29 października 2021 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 
 | Pole | Wartość |
 |---|---|
@@ -30,8 +30,7 @@ Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólne
 § 1.
 W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2021 r. poz. 1026) wprowadza się następujące zmiany:
 1)
-w § 2 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17–19 w brzmieniu:
-„
+w § 2 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17–19 w brzmieniu: „
 17)
 płatności w ramach systemów wsparcia bezpośredniego;
 18)
@@ -63,15 +62,11 @@ l)
 m)
 „Wsparcie dla rozwoju lokalnego w ramach inicjatywy LEADER”;
 19)
-pomocy technicznej.
-” ;
+pomocy technicznej. ” ;
 2)
-w § 3 dodaje się ust. 12 w brzmieniu:
-„
+w § 3 dodaje się ust. 12 w brzmieniu: „
 12.
-Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 17–19, udziela się od dnia 1 grudnia 2021 r.
-” .
+Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 17–19, udziela się od dnia 1 grudnia 2021 r. ” .
 § 2.
-Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
+Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r. 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).
 

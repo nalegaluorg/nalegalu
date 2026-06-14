@@ -8,7 +8,7 @@ pos: 1725
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o usługach zaufania oraz identyfikacji elektronicznej
@@ -48,6 +48,10 @@ Art. 50–130. (pominięte)
 #### Rozdział 2 Krajowa infrastruktura zaufania
 
 **Art. 2.** Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie krajowej infrastruktury zaufania, która obejmuje:
+
+- **1)** rejestr dostawców usług zaufania, zwany dalej „rejestrem”;
+- **2)** zaufaną listę;
+- **3)** narodowe centrum certyfikacji.
 
 **Art. 3.**
 
@@ -123,6 +127,9 @@ Art. 50–130. (pominięte)
 
 **Art. 7.** Dostawca usług zaufania wpisany do rejestru jest obowiązany informować ministra właściwego do spraw informatyzacji o:
 
+- **1)** każdej zmianie danych wpisanych do rejestru – w terminie 14 dni od zmiany tych danych;
+- **2)** zamiarze zaprzestania świadczenia kwalifikowanych usług zaufania, otwarciu jego likwidacji, ogłoszeniu jego upadłości lub oddaleniu wniosku o ogłoszenie upadłości z przyczyn wskazanych w art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe – niezwłocznie.
+
 **Art. 8.**
 
 1. Minister właściwy do spraw informatyzacji wykreśla kwalifikowanego dostawcę usług zaufania lub świadczoną przez niego kwalifikowaną usługę zaufania z rejestru w drodze decyzji.
@@ -169,6 +176,12 @@ Art. 50–130. (pominięte)
 
 **Art. 12.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
+- **1)** wymagania organizacyjno-techniczne krajowej infrastruktury zaufania,
+- **2)** szczegółową treść wpisów w rejestrze oraz sposób ich dokonywania,
+- **3)** tryb wydawania i unieważniania certyfikatów dostawcy usług zaufania oraz certyfikatów narodowego centrum certyfikacji,
+- **4)** wymagania dla polityki certyfikacji narodowego centrum certyfikacji,
+- **5)** wymagania bezpieczeństwa krajowej infrastruktury zaufania – uwzględniając konieczność zapewnienia ochrony tajemnicy przedsiębiorstwa i interesów odbiorców usług zaufania oraz interoperacyjność systemów stosowanych przez dostawców usług zaufania oraz krajową infrastrukturę zaufania.
+
 #### Rozdział 3 Działalność dostawców usług zaufania
 
 **Art. 13.**
@@ -182,6 +195,9 @@ Art. 50–130. (pominięte)
 4. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw informatyzacji, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia, o którym mowa w ust. 1, oraz minimalną sumę gwarancyjną, uwzględniając specyfikę działalności prowadzonej przez kwalifikowanych dostawców usług zaufania.
 
 **Art. 14.** Kwalifikowany dostawca usług zaufania, wydając kwalifikowany certyfikat podpisu elektronicznego, jest obowiązany:
+
+- **1)** uzyskać od osoby ubiegającej się o certyfikat potwierdzenie przyporządkowania do niej danych służących do weryfikacji podpisu elektronicznego, które są zawarte w wydanym certyfikacie;
+- **2)** poinformować osobę ubiegającą się o certyfikat o procedurze zgłaszania żądań unieważnienia kwalifikowanego certyfikatu.
 
 **Art. 15.**
 
@@ -205,6 +221,10 @@ Art. 50–130. (pominięte)
 6. Obowiązek zachowania w tajemnicy danych do składania podpisu elektronicznego lub pieczęci elektronicznej jest nieograniczony w czasie.
 
 **Art. 16.** Zaawansowany podpis elektroniczny lub zaawansowana pieczęć elektroniczna weryfikowane za pomocą certyfikatu dostawcy usług zaufania służą do opatrywania podpisem elektronicznym lub pieczęcią elektroniczną:
+
+- **1)** certyfikatów kwalifikowanych, o których mowa w załączniku I lit. g, załączniku III lit. g oraz załączniku IV lit. h do rozporządzenia 910/2014;
+- **2)** informacji o statusie certyfikatów kwalifikowanych, w tym listy zawieszonych lub unieważnionych certyfikatów;
+- **3)** innych certyfikatów związanych ze świadczeniem kwalifikowanych usług zaufania.
 
 **Art. 17.**
 
@@ -249,6 +269,10 @@ Art. 50–130. (pominięte)
 **Art. 20a.** (uchylony)
 
 **Art. 21.** Dostawca usług zaufania nie odpowiada za szkody wynikające z nieprzestrzegania przez odbiorcę usług zaufania zasad określonych w polityce świadczenia usługi, w szczególności za szkody wynikające z:
+
+- **1)** użycia certyfikatu niezgodnie z zakresem określonym w polityce świadczenia usługi wskazanej w certyfikacie, w tym za szkody wynikające z przekroczenia najwyższej wartości granicznej transakcji, jeżeli wartość ta została wskazana w certyfikacie;
+- **2)** nieprawdziwości danych zawartych w certyfikacie, podanych przez odbiorcę usług zaufania używającego tego certyfikatu, chyba że szkoda była wynikiem niedołożenia należytej staranności przez dostawcę usług zaufania;
+- **3)** przechowywania lub używania przez odbiorców usług zaufania danych do składania podpisu elektronicznego, pieczęci elektronicznej lub uwierzytelniania witryn internetowych w sposób niezapewniający ich ochrony przed nieuprawnionym wykorzystaniem.
 
 #### Rozdział 4 Krajowy schemat identyfikacji elektronicznej
 
@@ -388,9 +412,15 @@ Art. 50–130. (pominięte)
 
 **Art. 21i.** Minister właściwy do spraw informatyzacji informuje podmiot odpowiedzialny za system identyfikacji elektronicznej na piśmie, w postaci papierowej albo elektronicznej, o:
 
+- **1)** przyłączeniu systemu identyfikacji elektronicznej do węzła krajowego;
+- **2)** każdej zmianie polityki bezpieczeństwa, o której mowa w art. 39b ust. 1 pkt 3.
+
 **Art. 21j.** W przypadku niespełniania wymagań, o których mowa w art. 21b ust. 1, minister właściwy do spraw informatyzacji wydaje decyzję o odmowie przyłączenia systemu identyfikacji elektronicznej do węzła krajowego.
 
 **Art. 21k.** Podmiot odpowiedzialny za system identyfikacji elektronicznej przyłączony do węzła krajowego dostarcza ministrowi właściwemu do spraw informatyzacji:
+
+- **1)** dokumenty potwierdzające spełnianie aktualnych wymagań dla wskazanych we wniosku poziomów bezpieczeństwa środków identyfikacji elektronicznej, o których mowa w art. 21g ust. 3 pkt 1, w przypadku zmiany przepisów wydanych na podstawie art. 8 ust. 3 rozporządzenia 910/2014, w terminie 14 dni od dnia wejścia w życie zmiany tych przepisów;
+- **2)** kopię kolejnej umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z wykorzystywaniem środków identyfikacji elektronicznej wydanych w systemie identyfikacji elektronicznej wnioskodawcy, w terminie 14 dni od dnia jej zawarcia.
 
 **Art. 21l.**
 
@@ -566,6 +596,17 @@ Art. 50–130. (pominięte)
 
 **Art. 26a.** Minister właściwy do spraw informatyzacji określi i udostępni w Biuletynie Informacji Publicznej na swojej stronie podmiotowej standard publicznej usługi rejestrowanego doręczenia elektronicznego świadczonej przez operatora wyznaczonego i kwalifikowanych dostawców usług zaufania świadczących kwalifikowane usługi rejestrowanego doręczenia elektronicznego w zakresie współpracy z publiczną usługą rejestrowanego doręczenia elektronicznego oraz skrzynki doręczeń, obejmujący:
 
+- **1)** wymagania techniczne przekazywania dokumentów elektronicznych w ramach publicznej usługi rejestrowanego doręczenia elektronicznego,
+- **2)** sposób identyfikacji nadawcy i adresata danych w ramach publicznej usługi rejestrowanego doręczenia elektronicznego,
+- **3)** strukturę dowodów wysłania i dowodów otrzymania w ramach publicznej usługi rejestrowanego doręczenia elektronicznego,
+- **4)** formę i sposób:
+    - **a)** wystawiania dowodu wysłania,
+    - **b)** wystawiania dowodu otrzymania,
+    - **c)** utrwalania dowodów wysłania i dowodów otrzymania – w ramach publicznej usługi rejestrowanego doręczenia elektronicznego,
+
+- **5)** zakres i strukturę danych dotyczących komunikacji pomiędzy adresami do doręczeń elektronicznych,
+- **6)** wymagania funkcjonowania skrzynki doręczeń, o której mowa w art. 2 pkt 9 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045) – uwzględniając konieczność zapewnienia interoperacyjności i bezpieczeństwa wymiany danych, w tym możliwość transgranicznej wymiany danych, biorąc pod uwagę normy i wytyczne dotyczące procedur wysyłania i otrzymywania danych opracowane przez Europejski Instytut Norm Telekomunikacyjnych lub normy wskazane przez Komisję Europejską w drodze aktów wykonawczych, o których mowa w art. 44 ust. 2 rozporządzenia 910/2014.
+
 **Art. 26b.** Kwalifikowany dostawca usług zaufania świadczy kwalifikowaną usługę rejestrowanego doręczenia elektronicznego zgodnie ze standardem określonym w art. 26a.
 
 **Art. 26c.** Kwalifikowany dostawca usług zaufania świadczący kwalifikowaną usługę rejestrowanego doręczenia elektronicznego zgłasza do ministra właściwego do spraw informatyzacji za pomocą systemu teleinformatycznego, o którym mowa w art. 58 ust. 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, informację o zmianie lokalizacji adresu do doręczeń elektronicznych w przypadku przeniesienia go do innego dostawcy.
@@ -600,9 +641,19 @@ Art. 50–130. (pominięte)
 
 **Art. 30.** Minister właściwy do spraw informatyzacji w przypadku stwierdzenia, że kwalifikowany dostawca usług zaufania prowadzi działalność niezgodnie z przepisami o usługach zaufania, może:
 
+- **1)** wezwać kwalifikowanego dostawcę usług zaufania, aby w wyznaczonym terminie:
+    - **a)** usunął stwierdzone nieprawidłowości i doprowadził swoją działalność do stanu zgodnego z przepisami o usługach zaufania,
+    - **b)** zmienił politykę świadczenia usług lub inne dokumenty związane ze świadczeniem usług zaufania,
+    - **c)** unieważnił kwalifikowane certyfikaty wydane z naruszeniem polityki świadczenia usług;
+
+- **2)** wydać decyzję o odebraniu kwalifikowanemu dostawcy usług zaufania statusu kwalifikowanego lub statusu kwalifikowanego świadczonej przez niego usłudze zaufania.
+
 **Art. 30a.** (uchylony)
 
 **Art. 31.** Audyt, o którym mowa w art. 20:
+
+- **1)** ust. 2 rozporządzenia 910/2014 – jest przeprowadzany przez osoby upoważnione przez ministra właściwego do spraw informatyzacji, zwane dalej „audytorami organu nadzoru”;
+- **2)** ust. 1 lub 2 rozporządzenia 910/2014 – może być przeprowadzany przy udziale osób upoważnionych przez ministra właściwego do spraw informatyzacji, zwanych dalej „obserwatorami organu nadzoru”, w przypadku gdy jest przeprowadzany przez jednostkę oceniającą zgodność.
 
 **Art. 32.**
 
@@ -677,6 +728,12 @@ Art. 50–130. (pominięte)
 
 **Art. 39d.** Minister właściwy do spraw informatyzacji wydaje decyzję o odłączeniu systemu identyfikacji elektronicznej od węzła krajowego i odłącza ten system od węzła krajowego w przypadku:
 
+- **1)** złożenia przez podmiot odpowiedzialny za system identyfikacji elektronicznej wniosku o odłączenie od węzła krajowego;
+- **2)** zaprzestania prowadzenia działalności przez podmiot odpowiedzialny za system identyfikacji elektronicznej;
+- **3)** nieusunięcia przyczyny zawieszenia możliwości uwierzytelniania, o której mowa w art. 21r ust. 1, lub możliwości korzystania z systemu, o której mowa w art. 39c ust. 1, w terminie 3 miesięcy od dnia jego zawieszenia;
+- **4)** nieprzedstawienia kolejnej umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z wykorzystywaniem środków identyfikacji elektronicznej wydanych w systemie identyfikacji elektronicznej;
+- **5)** wydania przez Szefa Agencji Bezpieczeństwa Wewnętrznego negatywnej opinii w przypadku, o którym mowa w art. 21s ust. 3, w stosunku do podmiotu odpowiedzialnego za system identyfikacji elektronicznej.
+
 **Art. 39e.**
 
 1. Decyzja o odłączeniu systemu identyfikacji elektronicznej od węzła krajowego jest podstawą do wykreślenia tego systemu z rejestru systemów.
@@ -692,6 +749,10 @@ Art. 50–130. (pominięte)
 2. Minister właściwy do spraw informatyzacji przywraca możliwość uwierzytelniania z wykorzystaniem węzła krajowego w systemie teleinformatycznym, w którym udostępniane są usługi online, niezwłocznie po otrzymaniu od podmiotu odpowiedzialnego za ten system potwierdzenia usunięcia naruszenia, które było podstawą do zawieszenia, o którym mowa w ust. 1.
 
 **Art. 39h.** Minister właściwy do spraw informatyzacji wydaje decyzję o odłączeniu systemu teleinformatycznego, w którym udostępniane są usługi online, i odłącza ten system od węzła krajowego w przypadku:
+
+- **1)** złożenia przez podmiot odpowiedzialny za ten system wniosku o odłączenie systemu od węzła krajowego;
+- **2)** zaprzestania udostępniania usług online w tym systemie;
+- **3)** nieusunięcia przyczyny zawieszenia tego systemu, o której mowa w art. 39g ust. 1, w terminie 3 miesięcy od dnia jego zawieszenia.
 
 **Art. 39i.** Podmiot odpowiedzialny za system teleinformatyczny, w którym udostępniane są usługi online, na żądanie ministra właściwego do spraw informatyzacji oraz Szefa Agencji Bezpieczeństwa Wewnętrznego, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych, jest obowiązany udzielać informacji oraz udostępniać dokumenty, które są bezpośrednio związane z funkcjonowaniem tego systemu, w tym dotyczą naruszeń, o których mowa w art. 39g ust. 1.
 
@@ -745,6 +806,19 @@ Art. 50–130. (pominięte)
 #### Rozdział 7 Przepisy o karach pieniężnych
 
 **Art. 46.** Karze pieniężnej podlega kwalifikowany dostawca usług zaufania, który:
+
+- **1)** nie wykonuje obowiązku wynikającego z art. 24 ust. 1 rozporządzenia 910/2014;
+- **2)** nie usunął w terminie określonym w wezwaniu, o którym mowa w art. 30 pkt 1 lit. a, stwierdzonych nieprawidłowości w prowadzonej przez siebie działalności;
+- **3)** stosuje politykę świadczenia usługi lub przyjmuje inne dokumenty związane ze świadczeniem usługi zaufania niezgodne z przepisami o usługach zaufania;
+- **4)** nie unieważnia kwalifikowanych certyfikatów mimo wezwania ministra właściwego do spraw informatyzacji, o którym mowa w art. 30 pkt 1 lit. c;
+- **5)** wydaje certyfikaty niezgodnie z polityką świadczenia usługi;
+- **6)** nie udziela informacji lub nie udostępnia dokumentów w przypadku, o którym mowa w art. 28;
+- **7)** nie poinformował ministra właściwego do spraw informatyzacji o zmianie danych podlegających wpisowi do rejestru lub danych dotyczących technicznych możliwości prowadzenia działalności w zakresie świadczenia usług zaufania wskazanych we wniosku o wpis do rejestru;
+- **8)** (uchylony)
+- **9)** uniemożliwia lub utrudnia audytorowi organu nadzoru wykonywanie czynności audytowych;
+- **10)** nie posiada planu zakończenia działalności lub nie stosuje go do zakończenia działalności;
+- **11)** nie wykona obowiązku, o którym mowa w art. 20 ust. 3 lub 4;
+- **12)** nie wykona obowiązku, o którym mowa w art. 13 ust. 1.
 
 **Art. 47.**
 

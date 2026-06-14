@@ -8,10 +8,10 @@ pos: 286
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 286 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 26 lutego 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/286/text.pdf) |
 
-Poz. 286 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 26 lutego 2024 r.
-w sprawie wymagań dotyczących pomiarów, rejestracji i sposobu obliczania ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe Na podstawie art. 62a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wymagań dotyczących pomiarów, rejestracji i sposobu obliczania ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe Na podstawie art. 62a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wymagania dotyczące pomiarów, rejestracji i sposobu obliczania ilości wodoru odnawialnego transportowanego środkami transportu innymi niż sieci gazowe, zwanego dalej „wodorem odnawialnym”;
 2) miejsce dokonywania pomiarów ilości wodoru odnawialnego;
 3) sposób przeliczania ilości wodoru odnawialnego na ilość energii wyrażoną w MWh.
@@ -37,13 +37,13 @@ w sprawie wymagań dotyczących pomiarów, rejestracji i sposobu obliczania ilo�
 2) poprawki wprowadza się w sposób umożliwiający odczytanie poprawionego lub skreślonego wpisu i potwierdza się podpisem osoby rejestrującej.
 3. Rejestrację danych, o których mowa w ust. 1, z zastosowaniem elektronicznego systemu przetwarzania danych prowadzi się w sposób:
 1) chronologiczny;
-Dziennik Ustaw – 2 – Poz. 286
+DU Pozycja XXX DPRŚ.555.296.2023 (word) JS lamanie:
 2) umożliwiający:
 a) wgląd do treści dokonywanych wpisów oraz ochronę przechowywanych danych przed usunięciem lub zniekształceniem,
 b) sporządzanie wydruków za każdy dzień.
 § 4. Ilość wodoru odnawialnego oblicza się na podstawie wskazań urządzeń pomiarowo-rozliczeniowych, o których mowa w § 2.
 § 5. Pomiarów ilości wodoru odnawialnego dokonuje się w miejscu jego zatłaczania do zbiornika transportowego środka transportu innego niż sieci gazowe.
-§ 6. Ilość wodoru odnawialnego przelicza się na ilość energii wyrażoną w MWh według wzoru: 𝐸 𝑀 = ×39,4 1000 gdzie poszczególne symbole oznaczają: 𝐸 – ilość energii wytworzonej z wodoru odnawialnego wyrażona w MWh, 𝑀 – ilość masy wodoru odnawialnego wytworzonego z wykorzystaniem energii z odnawialnych źródeł energii wyrażona w kg, 39,4 – współczynnik ciepła spalania wodoru odnawialnego wyrażonego w kWh/kg.
+§ 6. Ilość wodoru odnawialnego przelicza się na ilość energii wyrażoną w MWh według wzoru: 𝑀 ×39,4 𝐸 = 1000 gdzie poszczególne symbole oznaczają: 𝐸 – ilość energii wytworzonej z wodoru odnawialnego wyrażona w MWh, 𝑀 – ilość masy wodoru odnawialnego wytworzonego z wykorzystaniem energii z odnawialnych źródeł energii wyrażona w kg, 39,4 – współczynnik ciepła spalania wodoru odnawialnego wyrażonego w kWh/kg.
 § 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Klimatu i Środowiska: P. Hennig-Kloska
 

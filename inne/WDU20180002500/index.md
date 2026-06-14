@@ -8,7 +8,7 @@ pos: 2500
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
@@ -28,6 +28,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002500) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2500/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 72 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Tytuły dłużne, o których mowa w ust. 1 pkt 1–3, obejmują zobowiązania finansowe wynikające ze stosunków prawnych, które nazwą odpowiadają tym tytułom dłużnym, oraz z innych stosunków prawnych, które wywołują skutki ekonomiczne podobne do skutków wynikających z papierów wartościowych opiewających na wierzytelności pieniężne, umów kredytów i pożyczek oraz przyjętych depozytów.”;
+- **2)** art. 90 i art. 91 otrzymują brzmienie: „Art. 90. Na finansowanie wydatków na inwestycje i zakupy inwestycyjne, w tym ujęte w ramach przedsięwzięć, o których mowa w art. 226 ust. 3, jednostki samorządu terytorialnego mogą zaciągać pożyczki w państwowych funduszach celowych oraz w państwowych i samorządowych osobach prawnych zaliczanych do sektora finansów publicznych, o ile ustawa tworząca fundusz lub osobę prawną tak stanowi.
 
 **Art. 91.**
 
@@ -120,6 +123,10 @@ source: "isap-pdf"
 **Art. 6.** W ustawie z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 2193) w załączniku nr 2 do ustawy, w załączniku nr 6 w tabeli „Wykaz usług o niskiej wartości dodanej” dodaje się kategorię 8 w brzmieniu:
 
 **Art. 7.** W roku 2019 do budżetu, wieloletniej prognozy finansowej oraz gospodarki finansowej jednostki samorządu terytorialnego, w tym zaciągania zobowiązań, stosuje się:
+
+- **1)** przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, z wyjątkiem przepisów art. 91, art. 92 ust. 1, art. 261 i art. 262 ust. 1 ustawy zmienianej w art. 1, które stosuje się w brzmieniu nadanym niniejszą ustawą;
+- **2)** przepisy art. 212 ust. 1 pkt 6a i ust. 2 pkt 1a, art. 232 ust. 2 oraz art. 258 ust. 1 pkt 4 i ust. 3 ustawy zmienianej w art. 1;
+- **3)** przepisy art. 243 ust. 3b i 5 ustawy zmienianej w art. 1, z tym że dane o kwotach spłaty zobowiązań zamieszczane są wyłącznie w objaśnieniach dołączanych do wieloletniej prognozy finansowej.
 
 **Art. 8.**
 

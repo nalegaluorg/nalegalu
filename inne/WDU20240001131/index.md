@@ -8,12 +8,10 @@ pos: 1131
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo dewizowe
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 lipca 2024 r.*
+# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo dewizowe
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1131/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2022 r. poz. 309), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lipca 2024 r.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2022 r. poz. 309), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lipca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 9 maja 2024 r.
 o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 2, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
@@ -73,11 +71,11 @@ Art. 43–54. (pominięte)
 - **18)** obrotem wartościami dewizowymi w kraju jest zawarcie umowy lub dokonanie innej czynności prawnej powodującej lub mogącej powodować dokonywanie w kraju między rezydentami lub między nierezydentami rozliczeń w walutach obcych albo przeniesienie w kraju między rezydentami lub między nierezydentami własności wartości dewizowych, a także wykonywanie takich umów lub czynności;
 - **19)** działalnością kantorową jest regulowana działalność gospodarcza polegająca na kupnie i sprzedaży wartości dewizowych oraz pośrednictwie w ich kupnie i sprzedaży;
 - **19a)** działalnością gospodarczą, w przypadku wykonywania jej:
-    - **a)** w kraju jest działalność gospodarcza w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236),
-    - **b)** za granicą jest działalność gospodarcza w rozumieniu przepisów państwa, w którym jest ona wykonywana;
+    - **a)** w kraju – jest działalność gospodarcza w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236),
+    - **b)** za granicą – jest działalność gospodarcza w rozumieniu przepisów państwa, w którym jest ona wykonywana;
 
-- **20)** uprawnionym bankiem jest: Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879),
-    - **a)** bank mający siedzibę w kraju, który zgodnie z określonym w statucie przedmiotem działalności jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy z dnia 29 sierpnia 1997 r.
+- **20)** uprawnionym bankiem jest:
+    - **a)** bank mający siedzibę w kraju, który zgodnie z określonym w statucie przedmiotem działalności jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879),
     - **b)** utworzony w kraju oddział banku zagranicznego, który zgodnie z określonym w zezwoleniu na jego utworzenie przedmiotem działalności, jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy wymienionej w lit. a,
     - **c)** utworzony w kraju oddział instytucji kredytowej, która jest uprawniona do wykonywania w państwie macierzystym czynności objętych czynnością bankową, o której mowa w art. 5 ust. 2 pkt 10 ustawy wymienionej w lit. a.
 
@@ -134,7 +132,7 @@ Art. 43–54. (pominięte)
 
 2. Sprawy związane z udzielaniem indywidualnych zezwoleń dewizowych są rozstrzygane przez Prezesa Narodowego Banku Polskiego w drodze decyzji administracyjnej, z uwzględnieniem ust. 4 i 5.
 
-3. Do decyzji Prezesa Narodowego Banku Polskiego wydanych w sprawach, o których mowa w ust. 2, stosuje się odpowiednio art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+3. Do decyzji Prezesa Narodowego Banku Polskiego wydanych w sprawach, o których mowa w ust. 2, stosuje się odpowiednio art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 4. Prezes Narodowego Banku Polskiego może uchylić udzielone zezwolenie, jeżeli korzystanie z niego odbywa się wbrew określonym w tym zezwoleniu warunkom.
 
@@ -143,6 +141,35 @@ Art. 43–54. (pominięte)
 #### Rozdział 3 Ograniczenia w dokonywaniu obrotu dewizowego z zagranicą oraz obrotu wartościami dewizowymi w kraju
 
 **Art. 9.** Ograniczeniom podlega:
+
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** wywóz, wysyłanie oraz przekazywanie przez rezydentów do krajów trzecich krajowych lub zagranicznych środków płatniczych, z przeznaczeniem na podjęcie lub rozszerzenie w tych krajach działalności gospodarczej, w tym na nabycie nieruchomości na potrzeby tej działalności, z wyjątkiem przekazywania do krajów trzecich krajowych lub zagranicznych środków płatniczych na pokrycie kosztów działalności polegającej na bezpośrednim świadczeniu usług w wykonaniu zawartej umowy lub promocji i reklamie działalności gospodarczej prowadzonej przez rezydenta w kraju;
+- **5)** zbywanie w kraju przez nierezydentów z krajów trzecich, a także przez organizacje międzynarodowe, do których nie należy Rzeczpospolita Polska, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów:
+    - **a)** papierów wartościowych dłużnych o terminie wykupu krótszym niż rok, z wyjątkiem nabytych w kraju,
+    - **b)** wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, z wyjątkiem nabytych w kraju lub powstałych w obrocie z rezydentami w zakresie niewymagającym zezwolenia dewizowego;
+
+- **6)** (uchylony)
+- **7)** nabywanie przez rezydentów, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów:
+    - **a)** (uchylona)
+    - **b)** udziałów i akcji w spółkach mających siedzibę w krajach trzecich, a także obejmowanie udziałów i akcji w takich spółkach,
+    - **c)** jednostek uczestnictwa w funduszach zbiorowego inwestowania mających siedzibę w krajach trzecich,
+    - **d)** papierów wartościowych dłużnych wyemitowanych bądź wystawionych przez nierezydentów z krajów trzecich,
+    - **e)** wartości dewizowych zbywanych przez nierezydentów z krajów trzecich, w zamian za inne wartości dewizowe lub krajowe środki płatnicze,
+    - **f)** wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, zbywanych przez nierezydentów z krajów trzecich;
+
+- **8)** zbywanie przez rezydentów, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów, w krajach trzecich:
+    - **a)** papierów wartościowych dłużnych o terminie wykupu krótszym niż rok, z wyjątkiem nabytych w tych krajach na podstawie zezwolenia dewizowego,
+    - **b)** wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, z wyjątkiem nabytych w tych krajach na podstawie zezwolenia dewizowego lub powstałych w obrocie z nierezydentami z krajów trzecich w zakresie niewymagającym zezwolenia dewizowego;
+
+- **9)** otwieranie przez rezydentów, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów, rachunków w bankach i oddziałach banków, mających siedzibę w krajach trzecich, z wyjątkiem ich otwierania w czasie pobytu w tych krajach, a także w związku z działalnością określoną w pkt 4, z zastrzeżeniem nieutrzymywania takich rachunków dłużej niż 2 miesiące od zakończenia pobytu lub działalności;
+- **10)** (uchylony)
+- **11)** (uchylony)
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** dokonywanie przez rezydentów i nierezydentów z krajów trzecich rozliczeń pieniężnych w wykonaniu czynności określonych w pkt 5 i 7–9, z wyłączeniem czynności, których dokonywanie nie wymaga zezwolenia dewizowego.
+- **15)** (uchylony)
 
 **Art. 10.**
 
@@ -161,7 +188,7 @@ Art. 43–54. (pominięte)
 
 **Art. 11.**
 
-1. Działalność kantorowa jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców i wymaga wpisu do rejestru działalności kantorowej, zwanego dalej „rejestrem”.
+1. Działalność kantorowa jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i wymaga wpisu do rejestru działalności kantorowej, zwanego dalej „rejestrem”.
 
 2. Przepisów o działalności kantorowej nie stosuje się do banków, oddziałów banków zagranicznych oraz do instytucji kredytowych i oddziałów instytucji kredytowych.
 
@@ -221,7 +248,7 @@ Art. 43–54. (pominięte)
 2. Wraz z wnioskiem przedsiębiorca składa pisemne oświadczenie następującej treści: „Oświadczam, że:
 
 - **1)** dane zawarte we wniosku o wpis do rejestru są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam szczególne warunki wykonywania działalności kantorowej określone w rozdziale 4 ustawy z dnia 27 lipca 2002 r. Prawo dewizowe. Oświadczam także, że posiadam aktualne zaświadczenia o niekaralności i dokumenty potwierdzające kwalifikacje wymagane przepisami ustawy, o której mowa w pkt 2.”.
+- **2)** znane mi są i spełniam szczególne warunki wykonywania działalności kantorowej określone w rozdziale 4 ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe. Oświadczam także, że posiadam aktualne zaświadczenia o niekaralności i dokumenty potwierdzające kwalifikacje wymagane przepisami ustawy, o której mowa w pkt 2.”.
 
 3. Oświadczenie powinno również zawierać:
 
@@ -273,7 +300,7 @@ Art. 43–54. (pominięte)
 
 **Art. 17e.** W sprawach dotyczących wpisu do rejestru, nieuregulowanych w niniejszym rozdziale, Prezes Narodowego Banku Polskiego stosuje przepisy Kodeksu postępowania administracyjnego.
 
-**Art. 17f.** W zakresie nieuregulowanym w ustawie do działalności kantorowej stosuje się odpowiednio przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 17f.** W zakresie nieuregulowanym w ustawie do działalności kantorowej stosuje się odpowiednio przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 5 (uchylony)
 
@@ -286,7 +313,7 @@ Art. 43–54. (pominięte)
 1. Rezydenci i nierezydenci są obowiązani dokonywać przekazów pieniężnych za granicę oraz rozliczeń w kraju związanych z obrotem dewizowym za pośrednictwem:
 
 - **1)** uprawnionych banków lub
-- **2)** instytucji płatniczych oraz instytucji pieniądza elektronicznego uprawnionych do świadczenia usług płatniczych, a w przypadku dokonywania rozliczeń w kraju również biur usług płatniczych jeżeli kwota przekazu lub rozliczenia przekracza równowartość 15 000 euro.
+- **2)** instytucji płatniczych oraz instytucji pieniądza elektronicznego uprawnionych do świadczenia usług płatniczych, a w przypadku dokonywania rozliczeń w kraju również biur usług płatniczych – jeżeli kwota przekazu lub rozliczenia przekracza równowartość 15 000 euro.
 
 2. Obowiązek dokonywania rozliczeń zgodnie z ust. 1 nie dotyczy przypadków, w których stroną rozliczenia jest uprawniony bank, krajowa instytucja płatnicza, oddział unijnej instytucji płatniczej, krajowa instytucja pieniądza elektronicznego lub oddział unijnej instytucji pieniądza elektronicznego.
 
@@ -338,7 +365,7 @@ Art. 43–54. (pominięte)
 - **3)** obowiązek, o którym mowa w art. 30 ust. 1, jest wykonywany przez rezydentów oraz przedsiębiorców wykonujących działalność kantorową, oraz czy dane przekazywane w wykonaniu tego obowiązku są zgodne ze stanem faktycznym.
 - **4)** (uchylony)
 
-**Art. 33a.** Do kontroli działalności kantorowej przedsiębiorcy, kontroli wykonywania przez przedsiębiorców obowiązku, o którym mowa w art. 30 ust. 1, oraz kontroli wykorzystania udzielonego przedsiębiorcy zezwolenia dewizowego stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 33a.** Do kontroli działalności kantorowej przedsiębiorcy, kontroli wykonywania przez przedsiębiorców obowiązku, o którym mowa w art. 30 ust. 1, oraz kontroli wykorzystania udzielonego przedsiębiorcy zezwolenia dewizowego stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 34.**
 
@@ -361,11 +388,30 @@ Art. 43–54. (pominięte)
 
 **Art. 36.** Wyniki przeprowadzonej kontroli kontroler przedstawia w sporządzonym przez siebie:
 
+- **1)** protokóle, jeżeli kontrola została przeprowadzona w siedzibie jednostki kontrolowanej, lub
+- **2)** sprawozdaniu, jeżeli kontrola została przeprowadzona w siedzibie Narodowego Banku Polskiego.
+
 **Art. 36a.** Kontrolerzy informują kierownika kontrolowanej jednostki o istotnych nieprawidłowościach stwierdzonych w toku kontroli, wskazując na potrzebę niezwłocznego podjęcia działań w celu ich usunięcia.
 
 **Art. 36b.** Protokół i sprawozdanie, o których mowa w art. 36, powinny:
 
+- **1)** zawierać zwięzły opis wyników kontroli;
+- **2)** wskazywać przepisy prawne oraz warunki zawarte w zezwoleniu dewizowym, które zostały naruszone;
+- **3)** stanowić podstawę do sformułowania wniosków pokontrolnych i zaleceń.
+
 **Art. 36c.** Protokół i sprawozdanie powinny ponadto zawierać:
+
+- **1)** nazwę kontrolowanej jednostki w pełnym brzmieniu oraz adres jej siedziby;
+- **2)** imię i nazwisko oraz stanowisko osoby udzielającej upoważnienia do przeprowadzenia kontroli oraz datę wystawienia upoważnienia;
+- **3)** imię i nazwisko kontrolera lub kontrolerów;
+- **4)** określenie zakresu kontroli;
+- **5)** określenie okresu objętego kontrolą oraz datę rozpoczęcia i zakończenia kontroli;
+- **6)** listę osób udzielających wyjaśnień w trakcie kontroli;
+- **7)** określenie dokumentów, na podstawie których przeprowadzono kontrolę;
+- **8)** wykaz załączników stanowiących część składową sprawozdania lub protokołu;
+- **9)** adnotację o przekazaniu kierownikowi kontrolowanej jednostki jednego egzemplarza protokołu albo sprawozdania;
+- **10)** pouczenie o prawie i trybie składania przez kontrolowaną jednostkę zastrzeżeń do ustaleń zawartych w protokole lub sprawozdaniu;
+- **11)** imiona i nazwiska członków organu zarządzającego kontrolowanej jednostki, w przypadku osób prawnych.
 
 **Art. 37.**
 
@@ -405,6 +451,9 @@ Art. 43–54. (pominięte)
 
 **Art. 40c.** W przypadku stwierdzenia w toku kontroli rażącego naruszenia:
 
+- **1)** przepisów prawa lub warunków udzielonego zezwolenia dewizowego, kontrolerzy występują do Prezesa Narodowego Banku Polskiego albo dyrektora jednostki organizacyjnej Narodowego Banku Polskiego, który wydał zezwolenie dewizowe, o jego uchylenie;
+- **2)** warunków wykonywania działalności kantorowej kontrolerzy występują do Prezesa Narodowego Banku Polskiego o wydanie decyzji o zakazie jej wykonywania.
+
 **Art. 41.** W razie powstania w toku kontroli uzasadnionego podejrzenia popełnienia wykroczenia lub przestępstwa przez kontrolowaną jednostkę lub inny podmiot, Prezes Narodowego Banku Polskiego powiadamia o tym właściwy organ zgodnie z obowiązującymi przepisami.
 
 **Art. 42.** (uchylony)
@@ -427,7 +476,7 @@ Art. 43–54. (pominięte)
 
 2. Banki oraz oddziały banków zagranicznych uprawnione, na mocy przepisów dotychczasowych, do kupna i sprzedaży wartości dewizowych stają się bankami uprawnionymi do wykonywania czynności bankowej w tym zakresie, z zastrzeżeniem ust. 3 i 4.
 
-3. Banki, o których mowa w ust. 1 i 2, są obowiązane, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, rozszerzyć określony w statucie przedmiot działania o czynności bankowe określone w art. 5 ust. 2 pkt 7 i 10 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, pod rygorem utraty dotychczasowych uprawnień w tym zakresie.
+3. Banki, o których mowa w ust. 1 i 2, są obowiązane, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, rozszerzyć określony w statucie przedmiot działania o czynności bankowe określone w art. 5 ust. 2 pkt 7 i 10 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, pod rygorem utraty dotychczasowych uprawnień w tym zakresie.
 
 4. Oddziały banków zagranicznych, o których mowa w ust. 1 i 2, są obowiązane, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, wystąpić z wnioskiem o rozszerzenie określonego w zezwoleniu na ich utworzenie przedmiotu działania o czynności bankowe określone w art. 5 ust. 2 pkt 7 i 10 ustawy wymienionej w ust. 3, pod rygorem utraty dotychczasowych uprawnień w tym zakresie.
 
@@ -441,11 +490,17 @@ Art. 43–54. (pominięte)
 
 **Art. 59.** Ilekroć w obowiązujących przepisach jest mowa o:
 
-**Art. 60.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 2 grudnia 1994 r. Prawo dewizowe (Dz. U. poz. 703, z 1995 r. poz. 641, z 1996 r. poz. 496 oraz z 1997 r. poz. 449) lub ustawie z dnia 18 grudnia 1998 r. Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676), należy przez to rozumieć niniejszą ustawę.
+- **1)** osobach krajowych w rozumieniu prawa dewizowego lub przepisów prawa dewizowego, należy przez to rozumieć rezydentów, o których mowa w art. 2 ust. 1 pkt 1;
+- **2)** osobach zagranicznych w rozumieniu prawa dewizowego lub przepisów prawa dewizowego, należy przez to rozumieć nierezydentów, o których mowa w art. 2 ust. 1 pkt 2.
 
-**Art. 61.** Traci moc ustawa z dnia 18 grudnia 1998 r. Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676).
+**Art. 60.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 2 grudnia 1994 r. – Prawo dewizowe (Dz. U. poz. 703, z 1995 r. poz. 641, z 1996 r. poz. 496 oraz z 1997 r. poz. 449) lub ustawie z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676), należy przez to rozumieć niniejszą ustawę.
+
+**Art. 61.** Traci moc ustawa z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676).
 
 **Art. 62.** Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej traci moc art. 10:
+
+- **1)** ust. 2 – w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 2;
+- **2)** ust. 3 – w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 4.
 
 **Art. 63.** Ustawa wchodzi w życie z dniem 1 października 2002 r.
 

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.*
 
-Łącznie: **17612** orzeczeń w **278** artykułach
-(pominięto 8188 orzeczeń sądów rejonowych)
+Łącznie: **17636** orzeczeń w **278** artykułach
+(pominięto 8209 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -14,52 +14,52 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 |---|---:|---:|---:|---:|---:|---:|---|
 | art. 1 | 193 | 12 | 136 | 45 | 10 | 3 | [art-1.csv](orzecznictwo/art-1.csv) |
 | art. 1 § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-1-par-1.csv](orzecznictwo/art-1-par-1.csv) |
-| art. 2 | 500 | 30 | 292 | 178 | 27 | 3 | [art-2.csv](orzecznictwo/art-2.csv) |
+| art. 2 | 502 | 30 | 294 | 178 | 27 | 3 | [art-2.csv](orzecznictwo/art-2.csv) |
 | art. 3 | 36 | 4 | 18 | 14 | 7 | 0 | [art-3.csv](orzecznictwo/art-3.csv) |
-| art. 4 | 1806 | 21 | 1203 | 582 | 17 | 4 | [art-4.csv](orzecznictwo/art-4.csv) |
+| art. 4 | 1809 | 21 | 1205 | 583 | 17 | 4 | [art-4.csv](orzecznictwo/art-4.csv) |
 | art. 4 § 1 | 2 | 0 | 1 | 1 | 0 | 0 | [art-4-par-1.csv](orzecznictwo/art-4-par-1.csv) |
 | art. 5 | 256 | 5 | 43 | 208 | 6 | 0 | [art-5.csv](orzecznictwo/art-5.csv) |
 | art. 5 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-5-par-1.csv](orzecznictwo/art-5-par-1.csv) |
-| art. 6 | 8434 | 94 | 4620 | 3720 | 85 | 11 | [art-6.csv](orzecznictwo/art-6.csv) |
+| art. 6 | 8442 | 94 | 4623 | 3725 | 85 | 11 | [art-6.csv](orzecznictwo/art-6.csv) |
 | art. 6 § 2 | 1 | 0 | 0 | 1 | 0 | 0 | [art-6-par-2.csv](orzecznictwo/art-6-par-2.csv) |
 | art. 7 | 152 | 8 | 100 | 44 | 7 | 1 | [art-7.csv](orzecznictwo/art-7.csv) |
-| art. 8 | 4380 | 40 | 2204 | 2136 | 33 | 7 | [art-8.csv](orzecznictwo/art-8.csv) |
-| art. 9 | 1625 | 23 | 890 | 712 | 22 | 2 | [art-9.csv](orzecznictwo/art-9.csv) |
+| art. 8 | 4388 | 40 | 2207 | 2141 | 33 | 7 | [art-8.csv](orzecznictwo/art-8.csv) |
+| art. 9 | 1626 | 23 | 891 | 712 | 22 | 2 | [art-9.csv](orzecznictwo/art-9.csv) |
 | art. 9 § 2 | 2 | 0 | 0 | 2 | 0 | 0 | [art-9-par-2.csv](orzecznictwo/art-9-par-2.csv) |
 | art. 10 | 28 | 1 | 14 | 13 | 2 | 0 | [art-10.csv](orzecznictwo/art-10.csv) |
 | art. 10 § 1 | 2 | 0 | 0 | 2 | 0 | 0 | [art-10-par-1.csv](orzecznictwo/art-10-par-1.csv) |
-| art. 11 | 3283 | 16 | 1750 | 1517 | 15 | 3 | [art-11.csv](orzecznictwo/art-11.csv) |
+| art. 11 | 3286 | 16 | 1751 | 1519 | 15 | 3 | [art-11.csv](orzecznictwo/art-11.csv) |
 | art. 11(3) | 1 | 0 | 0 | 1 | 0 | 0 | [art-113.csv](orzecznictwo/art-113.csv) |
-| art. 12 | 4936 | 25 | 2772 | 2139 | 25 | 1 | [art-12.csv](orzecznictwo/art-12.csv) |
+| art. 12 | 4938 | 25 | 2772 | 2141 | 25 | 1 | [art-12.csv](orzecznictwo/art-12.csv) |
 | art. 12 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-12-par-1.csv](orzecznictwo/art-12-par-1.csv) |
 | art. 12 § 6 | 1 | 0 | 1 | 0 | 0 | 0 | [art-12-par-6.csv](orzecznictwo/art-12-par-6.csv) |
-| art. 13 | 4020 | 40 | 2472 | 1508 | 39 | 1 | [art-13.csv](orzecznictwo/art-13.csv) |
+| art. 13 | 4023 | 40 | 2473 | 1510 | 39 | 1 | [art-13.csv](orzecznictwo/art-13.csv) |
 | art. 13(9) | 1 | 0 | 1 | 0 | 0 | 0 | [art-139.csv](orzecznictwo/art-139.csv) |
 | art. 14 | 673 | 9 | 324 | 340 | 7 | 3 | [art-14.csv](orzecznictwo/art-14.csv) |
 | art. 14 § 1 | 2 | 0 | 0 | 2 | 0 | 0 | [art-14-par-1.csv](orzecznictwo/art-14-par-1.csv) |
 | art. 14 § 11 | 1 | 0 | 0 | 1 | 0 | 0 | [art-14-par-11.csv](orzecznictwo/art-14-par-11.csv) |
-| art. 15 | 76 | 2 | 37 | 37 | 1 | 1 | [art-15.csv](orzecznictwo/art-15.csv) |
+| art. 15 | 77 | 2 | 37 | 38 | 1 | 1 | [art-15.csv](orzecznictwo/art-15.csv) |
 | art. 15 § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-15-par-1.csv](orzecznictwo/art-15-par-1.csv) |
-| art. 16 | 248 | 26 | 94 | 128 | 13 | 13 | [art-16.csv](orzecznictwo/art-16.csv) |
+| art. 16 | 249 | 26 | 95 | 128 | 13 | 13 | [art-16.csv](orzecznictwo/art-16.csv) |
 | art. 17 | 412 | 10 | 228 | 174 | 6 | 4 | [art-17.csv](orzecznictwo/art-17.csv) |
-| art. 18 | 3738 | 45 | 2374 | 1319 | 32 | 13 | [art-18.csv](orzecznictwo/art-18.csv) |
+| art. 18 | 3742 | 45 | 2376 | 1321 | 32 | 13 | [art-18.csv](orzecznictwo/art-18.csv) |
 | art. 18 § 1 | 9 | 0 | 9 | 0 | 0 | 0 | [art-18-par-1.csv](orzecznictwo/art-18-par-1.csv) |
 | art. 18 § 2 | 11 | 0 | 5 | 6 | 0 | 0 | [art-18-par-2.csv](orzecznictwo/art-18-par-2.csv) |
 | art. 18 § 3 | 1 | 0 | 1 | 0 | 0 | 0 | [art-18-par-3.csv](orzecznictwo/art-18-par-3.csv) |
 | art. 18 § 3020 | 1 | 0 | 1 | 0 | 0 | 0 | [art-18-par-3020.csv](orzecznictwo/art-18-par-3020.csv) |
 | art. 18 § 4010 | 1 | 0 | 1 | 0 | 0 | 0 | [art-18-par-4010.csv](orzecznictwo/art-18-par-4010.csv) |
 | art. 19 | 917 | 12 | 334 | 571 | 7 | 5 | [art-19.csv](orzecznictwo/art-19.csv) |
-| art. 20 | 2239 | 10 | 1328 | 901 | 9 | 1 | [art-20.csv](orzecznictwo/art-20.csv) |
+| art. 20 | 2241 | 10 | 1329 | 902 | 9 | 1 | [art-20.csv](orzecznictwo/art-20.csv) |
 | art. 20 § 1 | 2 | 0 | 2 | 0 | 0 | 0 | [art-20-par-1.csv](orzecznictwo/art-20-par-1.csv) |
 | art. 21 | 319 | 9 | 273 | 37 | 4 | 5 | [art-21.csv](orzecznictwo/art-21.csv) |
 | art. 21 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-21-par-1.csv](orzecznictwo/art-21-par-1.csv) |
 | art. 21 § 2 | 2 | 0 | 2 | 0 | 0 | 0 | [art-21-par-2.csv](orzecznictwo/art-21-par-2.csv) |
 | art. 21 § 6 | 5 | 0 | 4 | 1 | 0 | 0 | [art-21-par-6.csv](orzecznictwo/art-21-par-6.csv) |
-| art. 22 | 91 | 7 | 40 | 44 | 7 | 1 | [art-22.csv](orzecznictwo/art-22.csv) |
+| art. 22 | 92 | 7 | 41 | 44 | 7 | 1 | [art-22.csv](orzecznictwo/art-22.csv) |
 | art. 22 § 1 | 3 | 0 | 3 | 0 | 0 | 0 | [art-22-par-1.csv](orzecznictwo/art-22-par-1.csv) |
 | art. 23 | 182 | 7 | 103 | 72 | 6 | 1 | [art-23.csv](orzecznictwo/art-23.csv) |
 | art. 23 § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-23-par-1.csv](orzecznictwo/art-23-par-1.csv) |
-| art. 24 | 908 | 28 | 441 | 439 | 29 | 1 | [art-24.csv](orzecznictwo/art-24.csv) |
+| art. 24 | 911 | 28 | 443 | 440 | 29 | 1 | [art-24.csv](orzecznictwo/art-24.csv) |
 | art. 25 | 148 | 3 | 41 | 104 | 3 | 0 | [art-25.csv](orzecznictwo/art-25.csv) |
 | art. 26 | 117 | 7 | 56 | 54 | 12 | 1 | [art-26.csv](orzecznictwo/art-26.csv) |
 | art. 26 § 3 | 1 | 0 | 1 | 0 | 1 | 0 | [art-26-par-3.csv](orzecznictwo/art-26-par-3.csv) |
@@ -69,7 +69,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 29 § 1 | 18 | 0 | 9 | 9 | 0 | 0 | [art-29-par-1.csv](orzecznictwo/art-29-par-1.csv) |
 | art. 29 § 2 | 17 | 0 | 8 | 9 | 0 | 0 | [art-29-par-2.csv](orzecznictwo/art-29-par-2.csv) |
 | art. 30 | 17 | 2 | 11 | 4 | 2 | 0 | [art-30.csv](orzecznictwo/art-30.csv) |
-| art. 31 | 893 | 40 | 477 | 376 | 39 | 3 | [art-31.csv](orzecznictwo/art-31.csv) |
+| art. 31 | 894 | 40 | 478 | 376 | 39 | 3 | [art-31.csv](orzecznictwo/art-31.csv) |
 | art. 31 § 1 | 17 | 0 | 1 | 16 | 0 | 0 | [art-31-par-1.csv](orzecznictwo/art-31-par-1.csv) |
 | art. 31 § 3 | 1 | 0 | 0 | 1 | 0 | 0 | [art-31-par-3.csv](orzecznictwo/art-31-par-3.csv) |
 | art. 32 | 1077 | 20 | 584 | 473 | 19 | 2 | [art-32.csv](orzecznictwo/art-32.csv) |
@@ -79,18 +79,18 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 34 | 83 | 2 | 55 | 26 | 2 | 0 | [art-34.csv](orzecznictwo/art-34.csv) |
 | art. 34 § 3 | 1 | 1 | 0 | 0 | 1 | 0 | [art-34-par-3.csv](orzecznictwo/art-34-par-3.csv) |
 | art. 35 | 8 | 1 | 6 | 1 | 1 | 0 | [art-35.csv](orzecznictwo/art-35.csv) |
-| art. 36 | 1042 | 13 | 550 | 479 | 11 | 2 | [art-36.csv](orzecznictwo/art-36.csv) |
+| art. 36 | 1043 | 13 | 550 | 480 | 11 | 2 | [art-36.csv](orzecznictwo/art-36.csv) |
 | art. 37 | 32 | 4 | 19 | 9 | 4 | 0 | [art-37.csv](orzecznictwo/art-37.csv) |
 | art. 38 | 790 | 3 | 538 | 249 | 2 | 1 | [art-38.csv](orzecznictwo/art-38.csv) |
 | art. 39 | 7 | 1 | 5 | 1 | 1 | 0 | [art-39.csv](orzecznictwo/art-39.csv) |
-| art. 40 | 898 | 1 | 186 | 711 | 1 | 0 | [art-40.csv](orzecznictwo/art-40.csv) |
-| art. 41 | 632 | 5 | 359 | 268 | 5 | 0 | [art-41.csv](orzecznictwo/art-41.csv) |
+| art. 40 | 901 | 1 | 187 | 713 | 1 | 0 | [art-40.csv](orzecznictwo/art-40.csv) |
+| art. 41 | 634 | 5 | 359 | 270 | 5 | 0 | [art-41.csv](orzecznictwo/art-41.csv) |
 | art. 42 | 3 | 1 | 0 | 2 | 1 | 0 | [art-42.csv](orzecznictwo/art-42.csv) |
 | art. 43 | 8 | 0 | 5 | 3 | 0 | 0 | [art-43.csv](orzecznictwo/art-43.csv) |
 | art. 44 | 9 | 0 | 8 | 1 | 0 | 0 | [art-44.csv](orzecznictwo/art-44.csv) |
 | art. 45 | 12 | 0 | 3 | 9 | 0 | 0 | [art-45.csv](orzecznictwo/art-45.csv) |
 | art. 45 § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-45-par-1.csv](orzecznictwo/art-45-par-1.csv) |
-| art. 46 | 1056 | 6 | 463 | 587 | 6 | 0 | [art-46.csv](orzecznictwo/art-46.csv) |
+| art. 46 | 1057 | 6 | 464 | 587 | 6 | 0 | [art-46.csv](orzecznictwo/art-46.csv) |
 | art. 46 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-46-par-1.csv](orzecznictwo/art-46-par-1.csv) |
 | art. 47 | 774 | 10 | 336 | 428 | 9 | 3 | [art-47.csv](orzecznictwo/art-47.csv) |
 | art. 47 § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-47-par-1.csv](orzecznictwo/art-47-par-1.csv) |
@@ -129,7 +129,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 66 | 201 | 7 | 145 | 49 | 9 | 0 | [art-66.csv](orzecznictwo/art-66.csv) |
 | art. 66 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-66-par-1.csv](orzecznictwo/art-66-par-1.csv) |
 | art. 67 | 10 | 2 | 3 | 5 | 2 | 0 | [art-67.csv](orzecznictwo/art-67.csv) |
-| art. 68 | 1300 | 12 | 701 | 587 | 13 | 0 | [art-68.csv](orzecznictwo/art-68.csv) |
+| art. 68 | 1301 | 12 | 701 | 588 | 13 | 0 | [art-68.csv](orzecznictwo/art-68.csv) |
 | art. 68 § 33 | 1 | 0 | 0 | 1 | 0 | 0 | [art-68-par-33.csv](orzecznictwo/art-68-par-33.csv) |
 | art. 69 | 15 | 0 | 13 | 2 | 0 | 0 | [art-69.csv](orzecznictwo/art-69.csv) |
 | art. 70 | 7 | 0 | 5 | 2 | 0 | 0 | [art-70.csv](orzecznictwo/art-70.csv) |
@@ -152,18 +152,18 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 77 § 1 | 2 | 0 | 0 | 2 | 0 | 0 | [art-77-par-1.csv](orzecznictwo/art-77-par-1.csv) |
 | art. 79 | 9 | 0 | 2 | 7 | 0 | 0 | [art-79.csv](orzecznictwo/art-79.csv) |
 | art. 80 | 44 | 1 | 12 | 31 | 1 | 0 | [art-80.csv](orzecznictwo/art-80.csv) |
-| art. 81 | 86 | 1 | 55 | 30 | 0 | 1 | [art-81.csv](orzecznictwo/art-81.csv) |
+| art. 81 | 87 | 1 | 56 | 30 | 0 | 1 | [art-81.csv](orzecznictwo/art-81.csv) |
 | art. 82 | 31 | 1 | 7 | 23 | 1 | 0 | [art-82.csv](orzecznictwo/art-82.csv) |
-| art. 83 | 4701 | 47 | 2538 | 2116 | 47 | 10 | [art-83.csv](orzecznictwo/art-83.csv) |
+| art. 83 | 4708 | 47 | 2539 | 2122 | 47 | 10 | [art-83.csv](orzecznictwo/art-83.csv) |
 | art. 83 § 1 | 9 | 0 | 5 | 4 | 0 | 0 | [art-83-par-1.csv](orzecznictwo/art-83-par-1.csv) |
 | art. 83 § 2 | 1 | 0 | 0 | 1 | 0 | 0 | [art-83-par-2.csv](orzecznictwo/art-83-par-2.csv) |
-| art. 84 | 953 | 14 | 317 | 622 | 14 | 2 | [art-84.csv](orzecznictwo/art-84.csv) |
+| art. 84 | 956 | 14 | 317 | 625 | 14 | 2 | [art-84.csv](orzecznictwo/art-84.csv) |
 | art. 84 § 3 | 1 | 0 | 0 | 1 | 0 | 0 | [art-84-par-3.csv](orzecznictwo/art-84-par-3.csv) |
 | art. 84 § 6 | 1 | 0 | 0 | 1 | 0 | 0 | [art-84-par-6.csv](orzecznictwo/art-84-par-6.csv) |
 | art. 85 | 929 | 11 | 443 | 475 | 8 | 3 | [art-85.csv](orzecznictwo/art-85.csv) |
 | art. 85 § 1 | 3 | 1 | 0 | 2 | 1 | 0 | [art-85-par-1.csv](orzecznictwo/art-85-par-1.csv) |
 | art. 85 § 2 | 1 | 1 | 0 | 0 | 1 | 0 | [art-85-par-2.csv](orzecznictwo/art-85-par-2.csv) |
-| art. 86 | 378 | 5 | 242 | 131 | 5 | 0 | [art-86.csv](orzecznictwo/art-86.csv) |
+| art. 86 | 379 | 5 | 242 | 132 | 5 | 0 | [art-86.csv](orzecznictwo/art-86.csv) |
 | art. 87 | 61 | 1 | 39 | 21 | 1 | 0 | [art-87.csv](orzecznictwo/art-87.csv) |
 | art. 88 | 8 | 0 | 7 | 1 | 0 | 0 | [art-88.csv](orzecznictwo/art-88.csv) |
 | art. 89 | 30 | 0 | 13 | 17 | 0 | 0 | [art-89.csv](orzecznictwo/art-89.csv) |
@@ -244,14 +244,14 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 157 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-157-par-1.csv](orzecznictwo/art-157-par-1.csv) |
 | art. 165 | 1 | 0 | 1 | 0 | 0 | 0 | [art-165.csv](orzecznictwo/art-165.csv) |
 | art. 165 § 2 | 1 | 0 | 1 | 0 | 0 | 0 | [art-165-par-2.csv](orzecznictwo/art-165-par-2.csv) |
-| art. 173 | 793 | 0 | 124 | 669 | 0 | 0 | [art-173.csv](orzecznictwo/art-173.csv) |
-| art. 174 | 795 | 0 | 125 | 670 | 0 | 0 | [art-174.csv](orzecznictwo/art-174.csv) |
-| art. 175 | 793 | 0 | 124 | 669 | 0 | 0 | [art-175.csv](orzecznictwo/art-175.csv) |
+| art. 173 | 795 | 0 | 125 | 670 | 0 | 0 | [art-173.csv](orzecznictwo/art-173.csv) |
+| art. 174 | 797 | 0 | 126 | 671 | 0 | 0 | [art-174.csv](orzecznictwo/art-174.csv) |
+| art. 175 | 795 | 0 | 125 | 670 | 0 | 0 | [art-175.csv](orzecznictwo/art-175.csv) |
 | art. 180 | 2 | 0 | 1 | 1 | 0 | 0 | [art-180.csv](orzecznictwo/art-180.csv) |
 | art. 181 | 1 | 0 | 0 | 1 | 0 | 0 | [art-181.csv](orzecznictwo/art-181.csv) |
 | art. 183 | 153 | 0 | 6 | 147 | 0 | 0 | [art-183.csv](orzecznictwo/art-183.csv) |
 | art. 184 | 10 | 0 | 7 | 3 | 0 | 0 | [art-184.csv](orzecznictwo/art-184.csv) |
-| art. 185 | 709 | 0 | 84 | 625 | 0 | 0 | [art-185.csv](orzecznictwo/art-185.csv) |
+| art. 185 | 711 | 0 | 85 | 626 | 0 | 0 | [art-185.csv](orzecznictwo/art-185.csv) |
 | art. 187 | 1 | 0 | 0 | 1 | 0 | 0 | [art-187.csv](orzecznictwo/art-187.csv) |
 | art. 187 § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-187-par-1.csv](orzecznictwo/art-187-par-1.csv) |
 | art. 189 | 1 | 0 | 1 | 0 | 0 | 0 | [art-189.csv](orzecznictwo/art-189.csv) |
@@ -270,7 +270,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 328 § 2 | 1 | 0 | 1 | 0 | 0 | 0 | [art-328-par-2.csv](orzecznictwo/art-328-par-2.csv) |
 | art. 342 | 1 | 0 | 0 | 1 | 0 | 0 | [art-342.csv](orzecznictwo/art-342.csv) |
 | art. 384 | 1 | 1 | 0 | 0 | 1 | 0 | [art-384.csv](orzecznictwo/art-384.csv) |
-| art. 477 | 5 | 0 | 4 | 1 | 0 | 0 | [art-477.csv](orzecznictwo/art-477.csv) |
+| art. 477 | 6 | 0 | 5 | 1 | 0 | 0 | [art-477.csv](orzecznictwo/art-477.csv) |
 | art. 477(10) | 1 | 0 | 0 | 1 | 0 | 0 | [art-47710.csv](orzecznictwo/art-47710.csv) |
 | art. 477(10) § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-47710-par-1.csv](orzecznictwo/art-47710-par-1.csv) |
 | art. 477(14) | 2 | 0 | 2 | 0 | 0 | 0 | [art-47714.csv](orzecznictwo/art-47714.csv) |
@@ -289,7 +289,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | § 12 | 2 | 0 | 0 | 2 | 0 | 0 | [par-12.csv](orzecznictwo/par-12.csv) |
 | § 12 ust. 3 | 2 | 0 | 0 | 2 | 0 | 0 | [par-12-ust-3.csv](orzecznictwo/par-12-ust-3.csv) |
 | § 12 ust. 4 | 2 | 0 | 0 | 2 | 0 | 0 | [par-12-ust-4.csv](orzecznictwo/par-12-ust-4.csv) |
-| (ogólnie) | 857 | 0 | 398 | 459 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
+| (ogólnie) | 858 | 0 | 398 | 460 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
 
 ## Najważniejsze orzeczenia
 
@@ -548,8 +548,8 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 2003-09-19 | SN | [II UK 41/03](https://www.saos.org.pl/judgments/82191) | Wyrok (score: 78)
 - ★★ 2008-11-20 | SN | [III UO 3/08](https://www.saos.org.pl/judgments/89215) | Postanowienie (score: 69)
 - ★★ 2001-03-13 | SN | [II UZ 14/01](https://www.saos.org.pl/judgments/80421) | Postanowienie (score: 69)
+- ★★ 2026-03-31 | SO | [III AUa 726/25](https://www.saos.org.pl/judgments/546031) | Wyrok (score: 56)
 - ★★ 2025-12-15 | SO | [III AUa 1537/25](https://www.saos.org.pl/judgments/543463) | Wyrok (score: 56)
-- ★★ 2025-11-10 | SO | [III AUa 1410/25](https://www.saos.org.pl/judgments/543459) | Wyrok (score: 56)
 
 ### art. 12 (20 wiodących)
 
@@ -791,6 +791,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 2005-07-14 | SN | [II UK 314/04](https://www.saos.org.pl/judgments/83606) | Wyrok (score: 78)
 - ★★★ 2005-07-06 | SN | [III UK 76/05](https://www.saos.org.pl/judgments/83583) | Wyrok (score: 78)
 - ★★★ 2004-02-12 | SN | [II UK 235/03](https://www.saos.org.pl/judgments/82485) | Wyrok (score: 78)
+- ★★ 2025-11-04 | SO | [III AUa 1418/25](https://www.saos.org.pl/judgments/545508) | Wyrok (score: 56)
 - ★★ 2025-07-30 | SO | [II AKa 55/25](https://www.saos.org.pl/judgments/544066) | Wyrok (score: 56)
 - ★★ 2025-07-30 | SO | [III AUa 45/25](https://www.saos.org.pl/judgments/537923) | Wyrok (score: 56)
 - ★★ 2025-07-16 | SO | [III AUa 1319/24](https://www.saos.org.pl/judgments/537902) | Wyrok (score: 56)
@@ -800,7 +801,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2025-06-11 | SO | [III AUa 1192/24](https://www.saos.org.pl/judgments/537898) | Wyrok (score: 56)
 - ★★ 2025-06-03 | SO | [III AUa 974/24](https://www.saos.org.pl/judgments/537947) | Wyrok (score: 56)
 - ★★ 2025-05-30 | SO | [III AUa 303/24](https://www.saos.org.pl/judgments/537915) | Wyrok (score: 56)
-- ★★ 2025-05-27 | SO | [III AUa 713/24](https://www.saos.org.pl/judgments/537937) | Wyrok (score: 56)
 
 ### art. 20 § 1 (2 wiodących)
 
@@ -856,6 +856,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 2005-11-04 | SN | [V CK 296/05](https://www.saos.org.pl/judgments/163695) | Wyrok (score: 78)
 - ★★★ 2005-04-05 | SN | [I UK 372/04](https://www.saos.org.pl/judgments/83320) | Wyrok (score: 78)
 - ★★ 2005-10-27 | SN | [III CZP 69/05](https://www.saos.org.pl/judgments/163678) | Postanowienie (score: 69)
+- ★★ 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok (score: 56)
 - ★★ 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok (score: 56)
 - ★★ 2025-01-22 | SO | [III AUa 233/24](https://www.saos.org.pl/judgments/526217) | Wyrok (score: 56)
 - ★★ 2023-11-07 | SO | [III AUa 206/23](https://www.saos.org.pl/judgments/504847) | Wyrok (score: 56)
@@ -867,7 +868,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2019-06-17 | SO | [III AUa 261/19](https://www.saos.org.pl/judgments/425845) | Wyrok (score: 56)
 - ★★ 2019-02-07 | SO | [III AUa 667/18](https://www.saos.org.pl/judgments/426086) | Wyrok (score: 56)
 - ★★ 2018-12-19 | SO | [III AUa 243/18](https://www.saos.org.pl/judgments/374541) | Wyrok (score: 56)
-- ★★ 2018-11-22 | SO | [III AUa 589/18](https://www.saos.org.pl/judgments/364815) | Wyrok (score: 56)
 
 ### art. 22 § 1 (3 wiodących)
 
@@ -1274,6 +1274,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 ### art. 40 (20 wiodących)
 
 - ★★★ 2003-03-25 | SN | [I KZP 50/02](https://www.saos.org.pl/judgments/81931) | Uchwała (score: 89)
+- ★★ 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok (score: 56)
 - ★★ 2025-08-06 | SO | [III AUa 558/25](https://www.saos.org.pl/judgments/537927) | Wyrok (score: 56)
 - ★★ 2025-07-07 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/542880) | Wyrok (score: 56)
 - ★★ 2025-06-30 | SO | [III AUa 76/25](https://www.saos.org.pl/judgments/538428) | Wyrok (score: 56)
@@ -1292,7 +1293,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2024-07-31 | SO | [III AUa 690/23](https://www.saos.org.pl/judgments/505122) | Wyrok (score: 56)
 - ★★ 2024-06-19 | SO | [III AUa 206/24](https://www.saos.org.pl/judgments/525836) | Wyrok (score: 56)
 - ★★ 2024-05-28 | SO | [III AUa 495/23](https://www.saos.org.pl/judgments/520848) | Wyrok (score: 56)
-- ★★ 2024-03-26 | SO | [III AUa 900/23](https://www.saos.org.pl/judgments/505201) | Wyrok (score: 56)
 
 ### art. 41 (20 wiodących)
 
@@ -1354,6 +1354,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 2011-08-02 | SN | [II UK 5/11](https://www.saos.org.pl/judgments/95560) | Wyrok (score: 78)
 - ★★★ 2006-07-18 | SN | [I UK 370/05](https://www.saos.org.pl/judgments/84464) | Wyrok (score: 78)
 - ★★★ 2005-11-04 | SN | [V CK 296/05](https://www.saos.org.pl/judgments/163695) | Wyrok (score: 78)
+- ★★ 2026-03-31 | SO | [III AUa 778/25](https://www.saos.org.pl/judgments/545384) | Wyrok (score: 56)
 - ★★ 2025-10-23 | SO | [III AUa 518/23](https://www.saos.org.pl/judgments/540183) | Wyrok (score: 56)
 - ★★ 2025-06-25 | SO | [III AUa 1104/24](https://www.saos.org.pl/judgments/537896) | Wyrok (score: 56)
 - ★★ 2025-02-05 | SO | [III AUa 179/24](https://www.saos.org.pl/judgments/537905) | Wyrok (score: 56)
@@ -1367,7 +1368,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2023-02-15 | SO | [III AUa 715/21](https://www.saos.org.pl/judgments/486365) | Wyrok (score: 56)
 - ★★ 2023-01-24 | SO | [III AUa 402/22](https://www.saos.org.pl/judgments/482471) | Wyrok (score: 56)
 - ★★ 2023-01-23 | SO | [III AUa 286/22](https://www.saos.org.pl/judgments/483375) | Wyrok (score: 56)
-- ★★ 2023-01-11 | SO | [III AUa 633/21](https://www.saos.org.pl/judgments/486357) | Wyrok (score: 56)
 
 ### art. 46 § 1 (1 wiodących)
 
@@ -1874,6 +1874,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 ### art. 81 (20 wiodących)
 
 - ★★★ 2004-05-24 | TK | [Ts 19/04](https://www.saos.org.pl/judgments/106822) | Postanowienie (score: 80)
+- ★★ 2026-04-01 | SO | [III AUa 114/24](https://www.saos.org.pl/judgments/545455) | Wyrok (score: 56)
 - ★★ 2025-08-06 | SO | [III AUa 99/25](https://www.saos.org.pl/judgments/537948) | Wyrok (score: 56)
 - ★★ 2025-06-12 | SO | [III AUa 631/24](https://www.saos.org.pl/judgments/537929) | Wyrok (score: 56)
 - ★★ 2025-04-30 | SO | [III AUa 709/24](https://www.saos.org.pl/judgments/537936) | Wyrok (score: 56)
@@ -1892,7 +1893,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2018-01-09 | SO | [III AUa 981/17](https://www.saos.org.pl/judgments/409221) | Wyrok (score: 56)
 - ★★ 2017-12-19 | SO | [III AUa 359/17](https://www.saos.org.pl/judgments/324659) | Wyrok (score: 56)
 - ★★ 2017-07-12 | SO | [III AUa 931/17](https://www.saos.org.pl/judgments/428519) | Wyrok (score: 56)
-- ★★ 2017-05-16 | SO | [III AUa 2158/16](https://www.saos.org.pl/judgments/308818) | Wyrok (score: 56)
 
 ### art. 82 (8 wiodących)
 
@@ -2604,6 +2604,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 
 ### art. 173 (20 wiodących)
 
+- ★★ 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok (score: 56)
 - ★★ 2025-07-07 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/542880) | Wyrok (score: 56)
 - ★★ 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok (score: 56)
 - ★★ 2025-05-21 | SO | [III AUa 773/24](https://www.saos.org.pl/judgments/537939) | Wyrok (score: 56)
@@ -2623,10 +2624,10 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2023-01-03 | SO | [III AUa 611/21](https://www.saos.org.pl/judgments/485899) | Wyrok (score: 56)
 - ★★ 2022-12-14 | SO | [III AUa 349/22](https://www.saos.org.pl/judgments/504930) | Wyrok (score: 56)
 - ★★ 2022-06-30 | SO | [III AUa 234/22](https://www.saos.org.pl/judgments/483373) | Wyrok (score: 56)
-- ★★ 2022-06-29 | SO | [III AUa 442/21](https://www.saos.org.pl/judgments/474978) | Wyrok (score: 56)
 
 ### art. 174 (20 wiodących)
 
+- ★★ 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok (score: 56)
 - ★★ 2025-07-07 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/542880) | Wyrok (score: 56)
 - ★★ 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok (score: 56)
 - ★★ 2025-05-21 | SO | [III AUa 773/24](https://www.saos.org.pl/judgments/537939) | Wyrok (score: 56)
@@ -2646,10 +2647,10 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2023-01-03 | SO | [III AUa 611/21](https://www.saos.org.pl/judgments/485899) | Wyrok (score: 56)
 - ★★ 2022-12-14 | SO | [III AUa 349/22](https://www.saos.org.pl/judgments/504930) | Wyrok (score: 56)
 - ★★ 2022-06-30 | SO | [III AUa 234/22](https://www.saos.org.pl/judgments/483373) | Wyrok (score: 56)
-- ★★ 2022-06-29 | SO | [III AUa 442/21](https://www.saos.org.pl/judgments/474978) | Wyrok (score: 56)
 
 ### art. 175 (20 wiodących)
 
+- ★★ 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok (score: 56)
 - ★★ 2025-07-07 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/542880) | Wyrok (score: 56)
 - ★★ 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok (score: 56)
 - ★★ 2025-05-21 | SO | [III AUa 773/24](https://www.saos.org.pl/judgments/537939) | Wyrok (score: 56)
@@ -2669,7 +2670,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2023-01-03 | SO | [III AUa 611/21](https://www.saos.org.pl/judgments/485899) | Wyrok (score: 56)
 - ★★ 2022-12-14 | SO | [III AUa 349/22](https://www.saos.org.pl/judgments/504930) | Wyrok (score: 56)
 - ★★ 2022-06-30 | SO | [III AUa 234/22](https://www.saos.org.pl/judgments/483373) | Wyrok (score: 56)
-- ★★ 2022-06-29 | SO | [III AUa 442/21](https://www.saos.org.pl/judgments/474978) | Wyrok (score: 56)
 
 ### art. 180 (1 wiodących)
 
@@ -2696,6 +2696,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 
 ### art. 185 (20 wiodących)
 
+- ★★ 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok (score: 56)
 - ★★ 2025-07-07 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/542880) | Wyrok (score: 56)
 - ★★ 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok (score: 56)
 - ★★ 2025-05-21 | SO | [III AUa 773/24](https://www.saos.org.pl/judgments/537939) | Wyrok (score: 56)
@@ -2715,7 +2716,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2023-04-13 | SO | [III AUa 390/23](https://www.saos.org.pl/judgments/519202) | Wyrok (score: 56)
 - ★★ 2022-12-14 | SO | [III AUa 349/22](https://www.saos.org.pl/judgments/504930) | Wyrok (score: 56)
 - ★★ 2022-06-29 | SO | [III AUa 442/21](https://www.saos.org.pl/judgments/474978) | Wyrok (score: 56)
-- ★★ 2022-06-23 | SO | [III AUa 1407/20](https://www.saos.org.pl/judgments/525748) | Wyrok (score: 56)
 
 ### art. 189 (1 wiodących)
 
@@ -2755,9 +2755,10 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 
 - ★★★ 2009-06-09 | SN | [II UK 403/08](https://www.saos.org.pl/judgments/90380) | Wyrok (score: 78)
 
-### art. 477 (4 wiodących)
+### art. 477 (5 wiodących)
 
 - ★★ 2020-07-01 | SO | [III AUa 681/19](https://www.saos.org.pl/judgments/417357) | Wyrok (score: 56)
+- ★★ 2015-11-04 | SO | [III AUa 423/15](https://www.saos.org.pl/judgments/192561) | Wyrok (score: 56)
 - ★★ 2014-06-16 | SO | [III AUa 3904/12](https://www.saos.org.pl/judgments/65582) | Wyrok (score: 56)
 - ★★ 2014-05-21 | SO | [III AUa 1475/13](https://www.saos.org.pl/judgments/64322) | Wyrok (score: 56)
 - ★★ 2013-03-13 | SO | [III AUa 1261/12](https://www.saos.org.pl/judgments/7567) | Wyrok (score: 56)

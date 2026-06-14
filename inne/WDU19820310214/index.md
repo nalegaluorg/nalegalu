@@ -8,7 +8,7 @@ pos: 214
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pracownikach urzędów państwowych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1982-09-16 |
 | Data wydania | 1982-10-08 |
-| Ostatnia zmiana | 2026-04-21 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820310214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -68,9 +68,18 @@ source: "isap-pdf"
 
 **Art. 2.** Rada Ministrów, w drodze rozporządzenia:
 
+- **1)** określa stanowiska, na których w urzędach wymienionych w art. 1 zatrudniani pracownicy są urzędnikami państwowymi w rozumieniu ustawy;
+- **2)** może rozciągnąć w całości lub w części przepisy ustawy na pracowników innych urzędów państwowych niż określone w art. 1.
+
 #### Rozdział 2 Nawiązanie, zmiana i rozwiązanie stosunku pracy
 
 **Art. 3.** Urzędnikiem państwowym może być osoba, która:
+
+- **1)** jest obywatelem polskim;
+- **2)** ukończyła osiemnaście lat życia i ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
+- **3)** jest nieskazitelnego charakteru;
+- **4)** ma odpowiednie wykształcenie i odbyła aplikację administracyjną;
+- **5)** posiada stan zdrowia pozwalający na zatrudnienie na określonym stanowisku.
 
 **Art. 3a.** Na stanowisko urzędnika państwowego zatrudnionego w urzędach wymienionych w art. 1 ust. 1 może zostać przeniesiony w drodze porozumienia pracodawców członek korpusu służby cywilnej w rozumieniu ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
 
@@ -381,7 +390,7 @@ source: "isap-pdf"
 
 5. Komisje dyscyplinarne II instancji (odwoławcze) powołuje się przy:
 
-- **1)** Marszałku – dla urzędników Kancelarii Sejmu, Krajowego Biura Wyborczego, Urzędu Ochrony Danych Osobowych oraz Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **1)** Marszałku Sejmu – dla urzędników Kancelarii Sejmu, Krajowego Biura Wyborczego, Urzędu Ochrony Danych Osobowych oraz Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
 - **2)** Marszałku Senatu – dla urzędników Kancelarii Senatu;
 - **3)** Prezydencie Rzeczypospolitej Polskiej – dla urzędników Kancelarii Prezydenta;
 - **4)** Prezesie Rady Ministrów – dla urzędników Kancelarii Prezesa Rady Ministrów, urzędów podległych Prezesowi Rady Ministrów oraz ministerstw i urzędów centralnych organów administracji rządowej;
@@ -412,6 +421,12 @@ source: "isap-pdf"
 3. Decyzja o przekazaniu komisji dyscyplinarnej I instancji wniosku o wszczęciu postępowania dyscyplinarnego należy do kierownika urzędu.
 
 **Art. 36².** Do zadań rzecznika dyscyplinarnego należy w szczególności:
+
+- **1)** prowadzenie postępowania wyjaśniającego;
+- **2)** składanie wniosków o wszczęcie postępowania dyscyplinarnego, jeżeli wyniki postępowania wyjaśniającego to uzasadniają;
+- **3)** udział w rozprawach w charakterze strony;
+- **4)** wnoszenie odwołań od orzeczeń komisji dyscyplinarnej I instancji;
+- **5)** udział w postępowaniu odwoławczym.
 
 **Art. 36³.**
 
@@ -550,11 +565,11 @@ source: "isap-pdf"
 - **2)** wykazu stanowisk objętych aplikacją administracyjną oraz zasad i trybu odbywania tej aplikacji;
 - **3)** rozkładu czasu pracy w tygodniu i jego wymiaru w poszczególnych dniach tygodnia.
 
-1b. W ramach posiadanych środków na wynagrodzenia określonych w ustawie budżetowej kierownicy urzędów, o których mowa w ust. 1a, ustalają regulamin wynagradzania w urzędzie. Regulamin ten w odniesieniu do Kancelarii zatwierdza Marszałek Sejmu, a w odniesieniu do Kancelarii Senatu – Marszałek Senatu. Przepisów art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2 i art. 47 ust. 3 nie stosuje się.
+1b. W ramach posiadanych środków na wynagrodzenia określonych w ustawie budżetowej kierownicy urzędów, o których mowa w ust. 1a, ustalają regulamin wynagradzania w urzędzie. Regulamin ten w odniesieniu do Kancelarii Sejmu zatwierdza Marszałek Sejmu, a w odniesieniu do Kancelarii Senatu – Marszałek Senatu. Przepisów art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2 i art. 47 ust. 3 nie stosuje się.
 
 1c. Dodatkowy fundusz nagród dla urzędników państwowych za szczególne osiągnięcia w pracy zawodowej utworzony na podstawie art. 24 ust. 2 w urzędach, o których mowa w ust. 1a, pozostaje w dyspozycji kierowników tych urzędów i może być przez nich podwyższany w ramach posiadanych środków na wynagrodzenia.
 
-2. Uprawnienie wynikające z art. 31 ust. 3 przysługuje odpowiednio organowi wymienionemu w ust. 1 oraz Marszałkowi w odniesieniu do pracowników Kancelarii Sejmu, Krajowego Biura Wyborczego i Urzędu Ochrony Danych Osobowych, a także Marszałkowi Senatu w odniesieniu do pracowników Kancelarii Senatu oraz kierownikom urzędów wymienionym w art. 1 ust. 1 pkt 3b i 6–7a w odniesieniu do pracowników tych urzędów.
+2. Uprawnienie wynikające z art. 31 ust. 3 przysługuje odpowiednio organowi wymienionemu w ust. 1 oraz Marszałkowi Sejmu w odniesieniu do pracowników Kancelarii Sejmu, Krajowego Biura Wyborczego i Urzędu Ochrony Danych Osobowych, a także Marszałkowi Senatu w odniesieniu do pracowników Kancelarii Senatu oraz kierownikom urzędów wymienionym w art. 1 ust. 1 pkt 3b i 6–7a w odniesieniu do pracowników tych urzędów.
 
 3. Przewidziane w ustawie uprawnienia ministrów przysługują odpowiednio kierownikom urzędów wymienionych w ust. 1 oraz w art. 1 ust. 1 pkt 1, 2, 3b, 6– 7a, 9 i 13.
 

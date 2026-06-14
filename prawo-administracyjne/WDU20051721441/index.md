@@ -8,7 +8,7 @@ pos: 1441
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o samorządzie gminnym oraz ustawy o drogach publicznych

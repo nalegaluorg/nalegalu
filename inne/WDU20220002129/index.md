@@ -8,10 +8,10 @@ pos: 2129
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 października 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22112299 PROTOKÓŁ WYKONAWCZY między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Armenii do Umowy między Unią Europejską a Republiką Armenii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 19 kwietnia 2013 r., sporządzony w Warszawie dnia 29 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2129/text.pdf) |
 
-22112299 PROTOKÓŁ WYKONAWCZY między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Armenii do Umowy między Unią Europejską a Republiką Armenii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 19 kwietnia 2013 r., sporządzony w Warszawie dnia 29 października 2021 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 29 października 2021 roku w Warszawie został sporządzony Protokół Wykonawczy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Armenii do Umowy między Unią Europejską a Republiką Armenii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 19 kwietnia 2013 roku, w następującym brzmieniu: Po zaznajomieniu się z powyższym Protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 29 października 2021 roku w Warszawie został sporządzony Protokół Wykonawczy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Armenii do Umowy między Unią Europejską a Republiką Armenii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 19 kwietnia 2013 roku, w następującym brzmieniu: Po zaznajomieniu się z powyższym Protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęty, ratyfikowany i potwierdzony, – będzie niezmiennie zachowywany.
 Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie, dnia 19 maja 2022 roku.
 Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.

@@ -8,7 +8,7 @@ pos: 1844
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 160/11/A/2007 WYROK z dnia 20 grudnia 2007 r.

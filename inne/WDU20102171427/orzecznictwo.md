@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 września 2010 r. o ewidencji ludności*
 
-Łącznie: **29** orzeczeń
-(pominięto 45 orzeczeń sądów rejonowych)
+Łącznie: **30** orzeczeń
+(pominięto 48 orzeczeń sądów rejonowych)
 
 ## art. 6 (1)
 
@@ -45,8 +45,9 @@ Orzeczenia powołujące: *Ustawa z dnia 24 września 2010 r. o ewidencji ludnoś
 
 - 2016-12-28 | SO | [I ACa 848/16](https://www.saos.org.pl/judgments/275855) | Wyrok
 
-## art. 46 (4)
+## art. 46 (5)
 
+- 2026-05-19 | SO | [I ACa 2230/23](https://www.saos.org.pl/judgments/547036) | Wyrok
 - 2016-03-30 | SO | [I ACz 464/16](https://www.saos.org.pl/judgments/215956) | Postanowienie
 - 2021-01-02 | SO | [II AKa 109/20](https://www.saos.org.pl/judgments/432016) | Uzasadnienie
 - 2024-05-29 | SO | [II1 Co 245/24](https://www.saos.org.pl/judgments/504587) | Postanowienie

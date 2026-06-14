@@ -8,7 +8,7 @@ pos: 1165
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
@@ -29,6 +29,118 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 3:
+    - **a)** po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) paliwa ciekłe – ciekłe nośniki energii, w tym zawierające dodatki:
+    - **a)** półprodukty rafineryjne,
+    - **b)** gaz płynny LPG,
+    - **c)** benzyny pirolityczne,
+    - **d)** benzyny silnikowe,
+    - **e)** benzyny lotnicze,
+    - **f)** paliwa typu benzyny do silników odrzutowych,
+    - **g)** paliwa typu nafty do silników odrzutowych,
+    - **h)** inne nafty,
+    - **i)** oleje napędowe,
+    - **j)** lekkie oleje opałowe i pozostałe oleje napędowe,
+    - **k)** ciężkie oleje opałowe,
+    - **l)** benzyny lakowe i przemysłowe,
+    - **m)** biopaliwa płynne (ciekłe) – określone w załączniku B rozdziały 4 i 5 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1099/2008 z dnia 22 października 2008 r. w sprawie statystyki energii (Dz. Urz. UE L 304 z 14.11.2008, str. 1, z późn. zm.), których szczegółowy wykaz ustanawiają przepisy wydane na podstawie art. 32 ust. 6;”,
+    - **b)** po pkt 10c dodaje się pkt 10d–10j w brzmieniu: „10d) infrastruktura paliw ciekłych – instalację wytwarzania, magazynowania i przeładunku paliw ciekłych, rurociąg przesyłowy lub dystrybucyjny paliw ciekłych, stację paliw ciekłych, a także środek transportu paliw ciekłych;
+
+- **10e)** instalacja wytwarzania paliw ciekłych – instalację lub zespół instalacji technologicznych oraz urządzenia techniczne, w tym zbiorniki, powiązane technicznie z tymi instalacjami, wykorzystywane w procesie wytwarzania paliw ciekłych;
+- **10f)** instalacja magazynowania paliw ciekłych – zbiorniki magazynowe oraz instalacje przeładunkowe paliw ciekłych wykorzystywane do przechowywania oraz przeładunku paliw ciekłych z wyłączeniem stacji paliw ciekłych, a także bezzbiornikowe magazyny paliw ciekłych;
+- **10g)** instalacja przeładunku paliw ciekłych – instalację używaną do rozładunku lub załadunku paliw ciekłych na cysterny drogowe, cysterny kolejowe, cysterny kontenerowe lub statki;
+- **10h)** stacja paliw ciekłych – zespół urządzeń służących do zaopatrywania przez przedsiębiorstwo energetyczne w paliwa ciekłe w szczególności pojazdów, w tym ciągników rolniczych, maszyn nieporuszających się po drogach, a także rekreacyjnych jednostek pływających;
+- **10i)** stacja kontenerowa – stację paliw ciekłych o konstrukcji umożliwiającej jej przemieszczanie;
+- **10j)** środek transportu paliw ciekłych – cysternę drogową, cysternę kolejową, cysternę kontenerową lub statek przystosowane do załadunku, transportu i rozładunku paliw ciekłych, wykorzystywane do sprzedaży paliw ciekłych bezpośrednio odbiorcom końcowym na podstawie koncesji, o których mowa w art. 32 ust. 1 pkt 1 i 4, lub do przywozu paliw ciekłych na podstawie wpisu do rejestru, o którym mowa w art. 32a;”,
+    - **c)** po pkt 12b dodaje się pkt 12c–12i w brzmieniu: „12c) podmiot przywożący – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która samodzielnie lub za pośrednictwem innego podmiotu dokonuje przywozu paliw ciekłych:
+    - **a)** na potrzeby własne, z wyłączeniem przywozu paliw ciekłych przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm. ), lub
+    - **b)** w celu rozporządzenia nimi poprzez jakąkolwiek czynność prawną lub faktyczną, dla której dokonania nie jest wymagana koncesja, o której mowa w art. 32 ust. 1 pkt 4, lub
+    - **c)** w związku z działalnością gospodarczą w zakresie obrotu paliwami ciekłymi, która nie wymaga koncesji, o której mowa w art. 32 ust. 1 pkt 4;
+
+- **12d)** przywóz paliw ciekłych – sprowadzenie na terytorium Rzeczypospolitej Polskiej paliw ciekłych w ramach nabycia wewnątrzwspólnotowego lub importu;
+- **12e)** wywóz paliw ciekłych – wywóz paliw ciekłych poza terytorium Rzeczypospolitej Polskiej w ramach dostawy wewnątrzwspólnotowej lub eksportu;
+- **12f)** nabycie wewnątrzwspólnotowe paliw ciekłych – przemieszczenie paliw ciekłych z terytorium innego państwa członkowskiego Unii Europejskiej na terytorium Rzeczypospolitej Polskiej, w rozumieniu przepisów o podatku akcyzowym;
+- **12g)** dostawa wewnątrzwspólnotowa paliw ciekłych – przemieszczenie paliw ciekłych z terytorium Rzeczypospolitej Polskiej na terytorium innego państwa członkowskiego Unii Europejskiej, w rozumieniu przepisów o podatku akcyzowym;
+- **12h)** import paliw ciekłych – import paliw ciekłych w rozumieniu przepisów o podatku akcyzowym;
+- **12i)** eksport paliw ciekłych – eksport paliw ciekłych w rozumieniu przepisów o podatku akcyzowym;”,
+    - **d)** pkt 45 otrzymuje brzmienie: „45) wytwarzanie:
+    - **a)** produkcję paliw stałych, paliw gazowych lub energii w procesie energetycznym,
+    - **b)** produkcję paliw ciekłych w instalacjach wytwarzania paliw ciekłych, w procesach: – przerobu ropy naftowej, kondensatu gazu ziemnego (NGL), półproduktów rafinacji ropy naftowej i innych węglowodorów albo przerobu biomasy, – przetwarzania poprzez mieszanie komponentów lub paliw ciekłych lub poprzez mieszanie komponentów z paliwami ciekłymi, – przeklasyfikowywania komponentów w paliwa ciekłe w rozumieniu przepisów o podatku akcyzowym;”,
+    - **e)** w pkt 55 kropkę zastępuje się średnikiem i dodaje się pkt 56–58 w brzmieniu: „56) magazynowanie paliw gazowych – świadczenie usług przechowywania paliw gazowych w instalacji magazynowej;
+
+- **57)** magazynowanie paliw ciekłych – świadczenie usług przechowywania paliw ciekłych w instalacji magazynowania paliw ciekłych;
+- **58)** przeładunek paliw ciekłych – świadczenie usług załadowywania lub rozładowywania cystern drogowych, cystern kolejowych, cystern kontenerowych lub statków z wykorzystaniem instalacji przeładunku paliw ciekłych.”;
+- **2)** po art. 4b dodaje się art. 4ba w brzmieniu: „Art. 4ba. 1. Przedsiębiorstwo energetyczne zajmujące się magazynowaniem, przeładunkiem, przesyłaniem lub dystrybucją paliw ciekłych prowadzi wykaz przedsiębiorstw energetycznych zajmujących się wytwarzaniem, obrotem, w tym obrotem z zagranicą paliwami ciekłymi, podmiotów przywożących i odbiorców końcowych paliw ciekłych, którym świadczyli w ciągu ostatnich 12 miesięcy odpowiednio usługi magazynowania, przeładunku, przesyłania lub dystrybucji. Wykaz ustalany jest na ostatni dzień każdego miesiąca kalendarzowego w terminie do 7 dni od ostatniego dnia miesiąca.
+
+2. Wykaz, o którym mowa w ust. 1, zawiera:
+
+- **1)** oznaczenie przedsiębiorstwa energetycznego, podmiotu przywożącego lub odbiorcy końcowego paliw ciekłych poprzez:
+    - **a)** imię i nazwisko albo nazwę wraz z oznaczeniem formy prawnej,
+    - **b)** miejsce zamieszkania albo siedzibę oraz ich adres,
+    - **c)** numer PESEL lub numer identyfikacji podatkowej (NIP), jeżeli posiada,
+    - **d)** numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli posiada,
+    - **e)** numer akcyzowy wydany przez właściwego naczelnika urzędu celnego, jeżeli posiada,
+    - **f)** serię i numer dokumentu tożsamości w przypadku osób fizycznych;
+
+- **2)** informacje o rodzajach paliw ciekłych będących przedmiotem usług, o których mowa w ust. 1;
+- **3)** informacje o posiadanych koncesjach lub o wpisie do rejestru podmiotów przywożących;
+- **4)** informacje o wpisie do rejestru zapasów interwencyjnych, o którym mowa w art. 13 ustawy wymienionej w art. 33 ust. 1a pkt 2.
+
+3. Przedsiębiorstwo energetyczne świadczące usługi, o których mowa w ust. 1, udostępnia wykaz w swojej siedzibie oraz publikuje go na swojej stronie internetowej, jeżeli ją posiada, z wyłączeniem danych dotyczących miejsca zamieszkania, numeru PESEL oraz serii i numeru dokumentu tożsamości.
+
+4. Przedsiębiorstwo energetyczne świadczące usługi, o których mowa w ust. 1, przekazuje Prezesowi Urzędu Regulacji Energetyki, Prezesowi Agencji Rezerw Materiałowych oraz ministrowi właściwemu do spraw finansów publicznych miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w ust. 1, w terminie 14 dni od dnia zakończenia miesiąca, którego dotyczy sprawozdanie.
+
+5. Sprawozdanie, o którym mowa w ust. 4, zawiera:
+
+- **1)** oznaczenie przedsiębiorstwa energetycznego, podmiotu przywożącego lub odbiorcy końcowego paliw ciekłych poprzez wskazanie danych określonych w ust. 2 pkt 1;
+- **2)** informacje o rodzajach i ilości paliw ciekłych oraz ich pochodzeniu, poprzez wskazanie informacji o przywozie na terytorium Rzeczypospolitej Polskiej lub wytworzeniu lub nabyciu na tym terytorium, będących przedmiotem usług, o których mowa w ust. 1, wraz z podaniem miejsca ich świadczenia.
+
+6. Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 4, mając na względzie zakres informacji i danych określonych w ust. 5 oraz kierując się koniecznością ujednolicenia formy i sposobu jego przekazywania.
+
+7. Prezes Agencji Rezerw Materiałowych oraz minister właściwy do spraw finansów publicznych informują niezwłocznie Prezesa Urzędu Regulacji Energetyki o niezłożeniu w terminie sprawozdania, o którym mowa w ust. 4.”;
+
+- **3)** w art. 9c w ust. 1 pkt 12 otrzymuje brzmienie: „12) realizację obowiązków wynikających z rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 oraz obowiązków wynikających z rozporządzeń przyjętych na podstawie art. 8 oraz art. 23 rozporządzenia 715/2009.”;
+- **4)** w art. 9h: w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 oraz obowiązków wynikających z rozporządzeń przyjętych na podstawie art. 8 oraz art. 23 rozporządzenia 715/2009.”,
+    - **a)** w ust. 7 pkt 6 otrzymuje brzmienie: „6) zdolność do wypełniania obowiązków wynikających z rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 714/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej i uchylającego rozporządzenie (WE) nr 1228/2003 oraz obowiązków wynikających z rozporządzeń przyjętych na podstawie art. 6 oraz art. 18 rozporządzenia 714/2009 lub rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r.
+    - **b)** dodaje się ust. 14 w brzmieniu: „14. Prezes Urzędu Regulacji Energetyki może w uzasadnionych przypadkach, w drodze decyzji, zobowiązać właściciela sieci do podjęcia określonych działań mających na celu spełnienie przez wyznaczonego na jego sieci operatora systemu warunków i kryteriów niezależności, o których mowa w art. 9d ust. 1–1c, oraz warunków, o których mowa w art. 9h ust. 7 pkt 2–4, oraz wyznaczyć termin na ich podjęcie. Wydając decyzję, Prezes Urzędu Regulacji Energetyki w szczególności bierze pod uwagę warunki uzyskania certyfikatu spełniania kryteriów niezależności przez tego operatora.”;
+
+- **5)** w art. 23:
+    - **a)** uchyla się ust. 1a,
+    - **b)** w ust. 2: – pkt 11–11b otrzymują brzmienie: „11) kontrolowanie realizacji przez operatora systemu przesyłowego elektroenergetycznego lub operatora systemu połączonego elektroenergetycznego oraz innych uczestników rynku energii elektrycznej obowiązków wynikających z przepisów rozporządzenia (WE) nr 714/2009 Parlamentu Europejskiego i Rady z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej i uchylającego rozporządzenie (WE) nr 1228/2003, a także wykonywanie innych obowiązków organu regulacyjnego wynikających z tego rozporządzenia oraz obowiązków wynikających z rozporządzeń wydanych na podstawie art. 6 i art. 18 rozporządzenia 714/2009;
+
+- **11a)** kontrolowanie realizacji przez operatora systemu przesyłowego gazowego lub operatora systemu połączonego gazowego oraz innych uczestników rynku paliw gazowych obowiązków wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005, wykonywanie innych obowiązków organu regulacyjnego wynikających z tego rozporządzenia oraz zatwierdzanie odpowiednich punktów w systemie przesyłowym, objętych obowiązkiem, o którym mowa w art. 18 tego rozporządzenia, a także wykonywanie obowiązków organu regulacyjnego wynikających z rozporządzeń przyjętych na podstawie art. 8 oraz art. 23 rozporządzenia 715/2009;
+- **11b)** zatwierdzanie metod alokacji zdolności przesyłowych i zarządzania ograniczeniami, opracowanych zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 714/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej i uchylającego rozporządzenie (WE) nr 1228/2003 oraz rozporządzeń przyjętych na podstawie art. 6 i art. 18 rozporządzenia 714/2009 lub rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowej gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 oraz rozporządzeń przyjętych na podstawie art. 8 oraz art. 23 rozporządzenia 715/2009;”, – po pkt 21a dodaje się pkt 21b i 21c w brzmieniu: „21b) kontrolowanie przedsiębiorstwa energetycznego lub podmiotu przywożącego na zasadach określonych w ustawie;
+- **21c)** prowadzenie w postaci elektronicznej:
+    - **a)** rejestru podmiotów przywożących,
+    - **b)** wykazu podmiotów, które złożyły wnioski o udzielenie, zmianę lub cofnięcie koncesji albo o udzielenie lub zmianę promesy koncesji,
+    - **c)** rejestru przedsiębiorstw energetycznych posiadających koncesję,
+    - **d)** wykazu podmiotów posiadających promesę koncesji,
+    - **e)** wykazu podmiotów, wobec których toczyło się postępowanie w sprawie udzielenia koncesji, które zostało następnie umorzone lub zakończyło się odmową udzielenia koncesji lub pozostawieniem wniosku bez rozpoznania,
+    - **f)** wykazu przedsiębiorstw energetycznych, którym cofnięto koncesję,
+    - **g)** wykazu podmiotów, którym koncesja wygasła, wraz z podaniem podstawy i daty wygaśnięcia koncesji;”,
+    - **c)** w ust. 3 skreśla się wyrazy „i ust. 5”,
+    - **d)** ust. 3a otrzymuje brzmienie: „3a. W sprawach z wniosku o udzielenie, przedłużenie albo cofnięcie koncesji na wytwarzanie paliw ciekłych, magazynowanie lub przeładunek paliw ciekłych oraz obrót paliwami ciekłymi z zagranicą z wyłączeniem spraw o zmianę tych koncesji, Prezes URE zasięga opinii Prezesa Agencji Rezerw Materiałowych, ministra właściwego do spraw finansów publicznych, Prokuratora Generalnego oraz Komendanta Głównego Policji.”,
+    - **e)** po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: „3b. Wraz z wnioskiem, o którym mowa w ust. 3a, Prezes URE przekazuje Prezesowi Agencji Rezerw Materiałowych umowy przedwstępne wobec umów, o których mowa w art. 10 lub art. 11 ustawy, o której mowa w art. 33 ust. 1a pkt 2.
+
+3c. Organy, o których mowa w ust. 3a, wydają w formie postanowienia opinie zawierające ocenę spełnienia przez wnioskodawcę określonych w rozdziale 5 wymogów udzielenia, przedłużenia albo cofnięcia koncesji, w zakresie, w jakim wynika to z właściwości ich działania określonych w przepisach odrębnych.”,
+
+- **f)** ust. 4a otrzymuje brzmienie: „4a. Nieprzedstawienie przez Prezesa Agencji Rezerw Materiałowych, ministra właściwego do spraw finansów publicznych, Prokuratora Generalnego lub Komendanta Głównego Policji opinii, o której mowa w ust. 3a, w terminie 21 dni od dnia wpływu wniosku do zaopiniowania, jest równoznaczne z wydaniem opinii pozytywnej.”;
+- **6)** po art. 23p dodaje się art. 23r–23w w brzmieniu: „Art. 23r. 1. Prezes URE przeprowadza kontrolę lub prowadzi postępowanie wyjaśniające w sprawie naruszenia:
+- **1)** warunków prowadzenia działalności objętej koncesjami, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych, albo wpisem do rejestru podmiotów przywożących lub
+- **2)** warunków udzielonych koncesji, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych.
+
+2. Kontrole, o których mowa w ust. 1, prowadzone są zgodnie z planem kontroli, przygotowywanym corocznie przez Prezesa URE.
+
+3. W ramach realizacji zadań lub kontroli prowadzonych na zasadach i w trybach określonych w odrębnych przepisach: Szef Agencji Bezpieczeństwa Wewnętrznego, Generalny Inspektor Kontroli Skarbowej, Szef Służby Celnej, Prezes Agencji Rezerw Materiałowych, Prezes Urzędu Dozoru Technicznego, Dyrektor Transportowego Dozoru Technicznego, Inspekcja Handlowa, Państwowa Inspekcja Pracy oraz organy: Policji, Prokuratury, Inspekcji Ochrony Środowiska, Państwowej Straży Pożarnej, nadzoru budowlanego, administracji miar i Państwowej Inspekcji Sanitarnej kontrolują spełnienie obowiązku:
+
+- **1)** posiadania koncesji, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych;
+- **2)** wpisu do rejestru, o którym mowa w art. 32a;
+- **3)** zgłoszenia do Prezesa URE infrastruktury paliw ciekłych, o którym mowa w art. 43e.
+
+4. Organy, o których mowa w ust. 3, mogą kontrolować spełnienie wymogu prowadzenia sprzedaży paliw ciekłych i świadczenia usług magazynowania lub przeładunku paliw ciekłych, przesyłania lub dystrybucji paliw ciekłych w sposób zgodny z art. 43a.
+
+5. W toku postępowania kontrolnego lub wyjaśniającego, Prezes URE współpracuje z organami, o których mowa w ust. 3, które zobowiązane są do przekazywania Prezesowi URE wszelkich posiadanych informacji i dokumentów, które mogą posłużyć do stwierdzenia, czy nastąpiło naruszenie warunków, o których mowa w ust. 1.
+
 **Art. 23s.**
 
 1. W celu wparcia właściwej realizacji postępowań kontrolnych, o których mowa w art. 23r ust. 3 i 4, Prezes URE publikuje w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki informator kontroli, zawierający opis wymagań i obowiązków wynikających z przepisów, które powinny być sprawdzane w toku kontroli przeprowadzanej na podstawie przepisów odrębnych.
@@ -45,7 +157,44 @@ source: "isap-pdf"
 
 **Art. 23w.** W celu ustalenia, czy istnieją podstawy do złożenia zawiadomienia o podejrzeniu popełnienia przestępstwa określonego w art. 57g, Prezes URE może zarządzić przeprowadzenie postępowania wyjaśniającego. Przepisy art. 23p ust. 1–4 oraz 6–8 stosuje się odpowiednio.”;
 
+- **7)** tytuł rozdziału 5 otrzymuje brzmienie: „Koncesje, rejestry i taryfy”;
+- **8)** w art. 32: poz. 1045 i 1777 oraz z 2016 r. poz. 266), obrotu paliwami gazowymi, jeżeli roczna wartość obrotu nie przekracza równowartości 100 000 euro, obrotu gazem płynnym, jeżeli roczna wartość obrotu nie przekracza równowartości 10 000 euro oraz obrotu ciepłem, jeżeli moc zamówiona przez odbiorców nie przekracza 5 MW;”,
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) magazynowania paliw gazowych w instalacjach magazynowych, skraplania gazu ziemnego i regazyfikacji skroplonego gazu ziemnego w instalacjach skroplonego gazu ziemnego, jak również magazynowania lub przeładunku paliw ciekłych w instalacjach magazynowania paliw ciekłych lub instalacjach przeładunku paliw ciekłych, z wyłączeniem lokalnego magazynowania gazu płynnego w instalacjach o przepustowości poniżej 1 MJ/s;”, – w pkt 4 lit. a otrzymuje brzmienie: „a) obrotu paliwami stałymi, obrotu energią elektryczną za pomocą instalacji o napięciu poniżej 1 kV będącej własnością odbiorcy, obrotu skroplonym gazem ziemnym dostarczonym z zagranicy dokonanego w punkcie dostawy do terminalu w rozumieniu art. 1 ust. 2 pkt 1 ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2014 r. poz. 1501, z 2015 r.
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Koncesje na prowadzenie działalności, o której mowa w ust. 1 pkt 4, w zakresie obrotu gazem ziemnym z zagranicą, będą wydawane z uwzględnieniem dywersyfikacji dostaw gazu ziemnego oraz bezpieczeństwa energetycznego. Przedsiębiorstwo energetyczne zajmujące się obrotem gazem ziemnym z zagranicą jest obowiązane do dywersyfikacji dostaw gazu ziemnego z zagranicy.
+
+3. Rada Ministrów, na wniosek ministra właściwego do spraw energii, określi, w drodze rozporządzenia, minimalny poziom dywersyfikacji dostaw gazu ziemnego z zagranicy na okres co najmniej 10 lat oraz szczegółowy sposób ustalania tego poziomu, biorąc pod uwagę politykę energetyczną państwa oraz konieczność zapewnienia bezpieczeństwa energetycznego kraju.”,
+
+- **c)** po ust. 3 dodaje się ust. 3 w brzmieniu: „3 . Rada Ministrów w rozporządzeniu, o którym mowa w ust. 3, może określić wyłączenia z obowiązku dywersyfikacji dostaw gazu ziemnego z zagranicy, biorąc pod uwagę stan infrastruktury technicznej w sektorze gazu ziemnego oraz jej wpływ na dywersyfikację źródeł i kierunków dostaw gazu oraz zwiększenie konkurencyjności w zakresie dostarczania paliw gazowych i bezpieczeństwa ich dostarczania.”,
+- **d)** uchyla się ust. 5,
+- **e)** dodaje się ust. 6 i 7 w brzmieniu: „6. Minister właściwy do spraw energii określi, w drodze rozporządzenia, szczegółowy wykaz paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji, o których mowa w ust. 1 pkt 1–4, oraz których przywóz wymaga wpisu do rejestru, o którym mowa w art. 32a, stosując obowiązującą klasyfikację Nomenklatury Scalonej (kody CN) według załącznika I do rozporządzenia Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz. UE L 256 z 07.09.1987, str. 1).
+
+7. Minister właściwy do spraw energii, wydając rozporządzenie, o którym mowa w ust. 6, kieruje się potrzebą zapewnienia prawidłowego funkcjonowania krajowego rynku paliw, bezpieczeństwem paliwowym państwa i ochroną konkurencji.”;
+
+- **9)** po art. 32 dodaje się art. 32a–32d w brzmieniu: „Art. 32a. 1. Prezes URE prowadzi rejestr podmiotów przywożących.
+
+2. Rejestr podmiotów przywożących prowadzi się w postaci elektronicznej.
+
+3. Rejestr podmiotów przywożących jest jawny i udostępniany w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki, z wyłączeniem danych dotyczących miejsca zamieszkania, numeru PESEL oraz serii i numeru dokumentu tożsamości.
+
+4. Rejestr podmiotów przywożących zawiera:
+
+- **1)** oznaczenie podmiotu przywożącego poprzez:
+    - **a)** imię i nazwisko albo nazwę wraz z oznaczeniem formy prawnej,
+    - **b)** miejsce zamieszkania albo siedzibę oraz ich adres,
+    - **c)** numer PESEL lub numer identyfikacji podatkowej (NIP), jeżeli posiada,
+    - **d)** numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli posiada,
+    - **e)** numer akcyzowy wydany przez właściwego naczelnika urzędu celnego, jeżeli posiada,
+    - **f)** serię i numer dokumentu tożsamości w przypadku osób fizycznych;
+
+- **2)** informacje o rodzajach paliw ciekłych będące przedmiotem przywozu;
+- **3)** informacje o rodzajach i lokalizacji infrastruktury paliw ciekłych wykorzystywanej przez podmiot przywożący;
+- **4)** wskazanie przeznaczenia przywożonego paliwa ciekłego, o którym mowa w art. 3 pkt 12c;
+- **5)** wskazanie planowanej daty rozpoczęcia działalności polegającej na przywozie paliw ciekłych.
+
 **Art. 32b.** Do rejestru podmiotów przywożących nie może zostać wpisany podmiot, który:
+
+- **1)** został skazany prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe mające związek z przedmiotem działalności gospodarczej objętej ustawą;
+- **2)** zalega w podatkach stanowiących dochód budżetu państwa, z wyjątkiem przypadków gdy uzyskał przewidziane prawem zwolnienie, odroczenie, rozłożenie na raty zaległości podatkowych albo podatku lub wstrzymanie w całości wykonania decyzji właściwego organu podatkowego lub organu kontroli skarbowej.
 
 **Art. 32c.**
 
@@ -135,6 +284,80 @@ source: "isap-pdf"
 
 **Art. 38g.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzory treści gwarancji bankowych i ubezpieczeniowych, poręczenia i upoważnienia do wyłącznego dysponowania lokatą, składanych jako zabezpieczenie majątkowe, uwzględniając konieczność zapewnienia prawidłowej realizacji przez gwaranta zobowiązania, o którym mowa w art. 38a ust. 1.”;
 
+- **18)** w art. 41:
+    - **a)** w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) niespełniania któregokolwiek z warunków, o których mowa w art. 33 ust. 1, lub w przypadku wystąpienia okoliczności, o których mowa w art. 33 ust. 3 lub 3a.”,
+    - **b)** ust. 2b otrzymuje brzmienie: „2b. Prezes URE cofa koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą również w przypadku, gdy przedsiębiorstwo energetyczne:
+
+- **1)** nie spełnia któregokolwiek z warunków, o których mowa w art. 33 ust. 1b pkt 1–3;
+- **2)** nie spełnia warunku, o którym mowa w art. 33 ust. 1b pkt 4, chyba że zawarło jedną z umów, o których mowa w art. 10 lub art. 11 ustawy wymienionej w art. 33 ust. 1a pkt 2;
+- **3)** posługuje się przy sprzedaży albo obrocie paliwami ciekłymi numerem identyfikacyjnym innym, niż określony w koncesji zgodnie z art. 37 ust. 2a;
+- **4)** pomimo wezwania ze strony Prezesa Agencji Rezerw Materiałowych nie utrzymuje zapasów obowiązkowych ropy lub paliw, o których mowa w art. 5 ustawy wymienionej w art. 33 ust. 1a pkt 2, w przewidzianym terminie i wymaganej ilości lub nie wnosi opłaty zapasowej, o której mowa w art. 21b ustawy wymienionej w art. 33 ust. 1a pkt 2, w należnej wysokości albo w terminie;
+- **5)** pomimo wezwania przez Prezesa URE nie realizuje Narodowego Celu Wskaźnikowego, o którym mowa w art. 23 ustawy o biokomponentach i biopaliwach ciekłych.”,
+    - **c)** po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. Prezes URE cofa koncesję na obrót paliwami ciekłymi poza przypadkami określonymi w ust. 2 również, gdy:
+
+- **1)** przedsiębiorstwo energetyczne wykonuje działalność polegającą na obrocie paliwami ciekłymi z zagranicą bez wymaganej koncesji;
+- **2)** przedsiębiorstwu energetycznemu została prawomocnie cofnięta koncesja na obrót paliwami ciekłymi z zagranicą z przyczyn określonych w ust. 2 pkt 1 w zakresie art. 58 ust. 1 pkt 1 ustawy o swobodzie działalności gospodarczej lub w ust. 2 pkt 4 w zakresie w art. 33 ust. 3 pkt 3 i 5 i 6 lub ust. 3a;
+- **3)** przedsiębiorstwo energetyczne nie spełnia warunków, o których mowa w art. 33 ust. 1b pkt 1 i 3, jeżeli są wymagane zgodnie z art. 33 ust. 1d.”,
+    - **d)** w ust. 4 pkt 3 otrzymuje brzmienie: „3) w przypadku niewykonania obowiązku, o którym mowa w art. 37 ust. 2c, w zakresie art. 37 ust. 1 pkt 1 i 7.”,
+    - **e)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Prezes URE może cofnąć koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą również w przypadku, gdy przedsiębiorstwo energetyczne:
+
+- **1)** nie wykona jednego z obowiązków, o których mowa w art. 33 ust. 1c, art. 37 ust. 2c w zakresie art. 37 ust. 2a lub art. 37 ust. 2d;
+- **2)** przez dwa kolejne miesiące nie przedstawi w terminie informacji, o których mowa w art. 22 ust. 1 i 3 ustawy wymienionej w art. 33 ust. 1a pkt 2, albo przedstawi w tych informacjach dane nieprawdziwe;
+- **3)** nie przekaże sprawozdania, o którym mowa w art. 30b ust. 1 ustawy o biokomponentach i biopaliwach ciekłych.
+
+4b. Prezes URE może cofnąć koncesję na obrót paliwami ciekłymi poza przypadkami określonymi w ust. 4 również w przypadku, gdy przedsiębiorstwo energetyczne nie wykona obowiązku, o którym mowa w art. 37 ust. 2c w zakresie art. 37 ust. 2a.”,
+
+- **f)** dodaje się ust. 6 i 7 w brzmieniu: „6. Prezes URE niezwłocznie powiadamia Prezesa Agencji Rezerw Materiałowych, ministra właściwego do spraw finansów publicznych, Prokuratora Generalnego oraz Komendanta Głównego Policji o cofnięciu koncesji na wytwarzanie paliw ciekłych lub koncesji na obrót paliwami ciekłymi z zagranicą.
+
+7. Prezes URE publikuje w Biuletynie Informacji Publicznej URE aktualne wykazy:
+
+- **1)** podmiotów, które złożyły wnioski o udzielenie, zmianę lub cofnięcie koncesji albo o udzielenie lub zmianę promesy koncesji do czasu ich rozpatrzenia;
+- **2)** przedsiębiorstw energetycznych, którym w okresie ostatnich 3 lat, cofnięta została koncesja wraz z podaniem podstawy i daty wydania takiej decyzji;
+- **3)** podmiotów, wobec których toczyło się postępowanie w sprawie udzielenia koncesji, które zostało następnie umorzone lub zakończyło się odmową udzielenia koncesji lub pozostawieniem wniosku bez rozpoznania wraz z podaniem podstawy i daty wydania rozstrzygnięcia;
+- **4)** podmiotów, którym wygasła koncesja, wraz z podaniem podstawy i daty wygaśnięcia koncesji.”;
+- **19)** po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. 1. Koncesja na wytwarzanie paliw ciekłych lub koncesja na obrót paliwami ciekłymi lub koncesja na obrót paliwami ciekłymi z zagranicą wygasa, jeżeli przedsiębiorstwo energetyczne przez kolejne 12 miesięcy nie wykaże w sprawozdaniach, o których mowa w art. 43d, prowadzenia działalności objętej koncesją.
+
+2. W przypadku określonym w ust. 1 Prezes URE, w drodze decyzji, stwierdza wygaśnięcie koncesji.”;
+
+- **20)** w art. 43:
+    - **a)** ust. 6 otrzymuje brzmienie: „6. Wniosek o udzielenie promesy koncesji na obrót gazem ziemnym z zagranicą powinien określać prognozowaną wielkość przywozu gazu ziemnego oraz sposób utrzymywania zapasów obowiązkowych gazu ziemnego na terytorium Rzeczypospolitej Polskiej lub państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zgodnie z art. 24 ust. 1 ustawy wymienionej w art. 33 ust. 1a pkt 2.”,
+    - **b)** dodaje się ust. 11 w brzmieniu: „11. Prezes URE publikuje w Biuletynie Informacji Publicznej URE wykaz przedsiębiorstw energetycznych, którym udzielona została promesa koncesji, obejmujący:
+
+- **1)** oznaczenie przedsiębiorstwa energetycznego;
+- **2)** rodzaj działalności, na którą została wydana promesa;
+- **3)** datę wydania promesy oraz okres, na jaki została wydana.”;
+- **21)** dotychczasową treść art. 43a oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu: „2. Usługi w zakresie magazynowania lub przeładunku, przesyłania lub dystrybucji paliw ciekłych mogą być świadczone wyłącznie na rzecz przedsiębiorców energetycznych posiadających koncesje, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych, jeżeli są wymagane, lub na rzecz podmiotów przywożących wpisanych do rejestru, o którym mowa w art. 32a, jeżeli jest wymagany, oraz wpisanych do rejestru zapasów interwencyjnych, o którym mowa w art. 13 ustawy wymienionej w art. 33 ust. 1a pkt 2, jeżeli wpis do tego rejestru jest wymagany, z wyłączeniem usług świadczonych na rzecz odbiorców końcowych paliw ciekłych.
+
+3. Działalność gospodarcza w zakresie wytwarzania paliw ciekłych, magazynowania lub przeładunku paliw ciekłych, przesyłania lub dystrybucji paliw ciekłych oraz obrotu paliwami ciekłymi, w tym obrotu nimi z zagranicą, a także przywóz paliw ciekłych realizowany na podstawie wpisu do rejestru, o którym mowa w art. 32a, są prowadzone zgodnie z nazwą oraz klasyfikacją Nomenklatury Scalonej (kody CN), jaką posiadają paliwa ciekłe stosownie do przepisów wydanych na podstawie art. 32 ust. 6.
+
+4. Sprzedaż paliw ciekłych z wykorzystaniem stacji kontenerowej jest dozwolona wyłącznie w celu zaopatrzenia w paliwa ciekłe Sił Zbrojnych, jednostek pływających żeglugi morskiej i śródlądowej, kolejnictwa oraz statków powietrznych lotnictwa cywilnego, a także w celu realizacji inwestycji o znaczeniu krajowym.”;
+
+- **22)** po art. 43a dodaje się art. 43b–43e w brzmieniu: „Art. 43b. 1. Prezes URE prowadzi rejestr przedsiębiorstw energetycznych posiadających koncesję.
+
+2. Rejestr, o którym mowa w ust. 1, prowadzi się w postaci elektronicznej.
+
+3. Rejestr, o którym mowa w ust. 1, jest jawny i udostępniany w Biuletynie Informacji Publicznej URE, z wyłączeniem danych dotyczących numeru PESEL oraz serii i numeru dokumentu tożsamości.
+
+4. Rejestr, o którym mowa w ust. 1, zawiera:
+
+- **1)** oznaczenie przedsiębiorstwa energetycznego poprzez:
+    - **a)** imię i nazwisko albo nazwę wraz z oznaczeniem formy prawnej,
+    - **b)** miejsce prowadzenia działalności gospodarczej albo siedzibę oraz ich adres,
+    - **c)** numer PESEL lub numer identyfikacji podatkowej (NIP), jeżeli posiada,
+    - **d)** numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli posiada,
+    - **e)** numer akcyzowy wydany przez właściwego naczelnika urzędu celnego, jeżeli posiada,
+    - **f)** seria i numer dokumentu tożsamości w przypadku osób fizycznych;
+
+- **2)** rodzaj i datę udzielonej koncesji oraz okres, na jaki została wydana;
+- **3)** aktualną treść koncesji.
+
+5. Rejestr, o którym mowa w ust. 1, w części, w jakiej dotyczy przedsiębiorstw energetycznych posiadających koncesje, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie paliw ciekłych, poza danymi, o których mowa w art. 43b ust. 4, zawiera dodatkowo:
+
+- **1)** informacje o rodzajach paliw ciekłych objętych koncesją;
+- **2)** informacje o złożonym zabezpieczeniu majątkowym, o którym mowa w art. 38a, oraz okresie jego ważności, jeżeli jest wymagane;
+- **3)** informacje o rodzajach i lokalizacji infrastruktury paliw ciekłych;
+- **4)** numer, za pomocą którego podmiot identyfikowany jest na potrzeby podatku od towarów i usług, o którym mowa w art. 37 ust. 2a.
+
 **Art. 43c.** Prezes URE, co najmniej raz do roku, przekazuje w formie elektronicznej aktualny wykaz przedsiębiorstw energetycznych posiadających koncesje w zakresie, w jakim dotyczą paliw ciekłych: ministrowi właściwemu do spraw finansów publicznych, Prokuratorowi Generalnemu, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Komendantowi Głównemu Policji, Komendantowi Głównemu Państwowej Straży Pożarnej, Prezesowi Agencji Rezerw Materiałowych, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, Prezesowi Urzędu Dozoru Technicznego, Dyrektorowi Transportowego Dozoru Technicznego, Prezesowi Głównego Urzędu Miar, Głównemu Inspektorowi Nadzoru Budowlanego, Głównemu Inspektorowi Ochrony Środowiska, Głównemu Inspektorowi Sanitarnemu oraz Głównemu Inspektorowi Pracy.
 
 **Art. 43d.**
@@ -196,17 +419,224 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2016 r. poz. 290 i 691) wprowadza się następujące zmiany:
 
+- **1)** w art. 32: Wyrażenie zgody następuje w terminie 60 dni od dnia złożenia wniosku. Niezajęcie przez organ stanowiska w tym terminie uznaje się za wyrażenie zgody.”;
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) wyrażeniu zgody przez ministra właściwego do spraw energii – w przypadku budowy gazociągu przesyłowego, gazociągu o zasiągu krajowym lub jeżeli budowa ta wynika z umów międzynarodowych.”;
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw energii wyraża zgodę, o której mowa w ust. 1 pkt 3, po uzyskaniu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, jeżeli budowa gazociągu przesyłowego nie stanowi zagrożenia dla bezpieczeństwa energetycznego Rzeczypospolitej Polskiej.
+
+- **2)** w art. 84a dodaje się ust. 3 w brzmieniu: „3. Wykonując kontrolę, o której mowa w art. 84 ust. 1 pkt 1, organ nadzoru budowlanego kontroluje również spełnianie przez podmiot kontrolowany obowiązków, o których mowa w art. 23r ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ), oraz może kontrolować spełnianie przez podmiot kontrolowany obowiązku, o którym mowa w art. 23r ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.”.
+
 **Art. 5.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2015 r. poz. 1125) wprowadza się następujące zmiany:
+
+- **1)** w art. 37 w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu: „19) kontrola spełniania obowiązków, o których mowa w art. 23r ust. 3 i 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ).”;
+- **2)** w art. 44 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) kontrola spełniania obowiązków, o których mowa w art. 23r ust. 3 i 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.”.
 
 **Art. 6.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2015 r. poz. 1212, 1844 i 1855 oraz z 2016 r. poz. 437, 544 i 1020) w art. 16 w ust. 1 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „18) określone w art. 57g ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ).”.
 
 **Art. 7.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 46 w ust. 1 pkt 3 otrzymuje brzmienie: „3) wytwarzania, przetwarzania, magazynowania lub przeładunku, przesyłania, dystrybucji i obrotu paliwami i energią;”;
+- **2)** w art. 79 w ust. 2 pkt 4b otrzymuje brzmienie: „4b) kontrola jest prowadzona na podstawie art. 23c lub art. 23r ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. );”;
+- **3)** w art. 82 w ust. 1 pkt 3a otrzymuje brzmienie: „3a) kontrola jest prowadzona na podstawie art. 23c lub art. 23r ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;”;
+- **4)** w art. 83 w ust. 2 pkt 3a otrzymuje brzmienie: „3a) kontrola jest prowadzona na podstawie art. 23c lub art. 23r ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;”;
+- **5)** po art. 84b dodaje się art. 84ba w brzmieniu: „Art. 84ba. Przepisów art. 82 i art. 83 nie stosuje się do próby technicznej, o której mowa w art. 29d ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2014 r. poz. 1695 oraz z 2016 r. poz. 266, 352, 1052 i
+- **1165)** .”.
+
 **Art. 8.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2015 r. poz. 775 oraz z 2016 r. poz. 266) wprowadza się następujące zmiany:
+
+- **1)** użyte w art. 2 ust. 1 pkt 14, 18, 18a, 19, 20a i 39, art. 4 ust. 1, art. 5 ust. 2 i 5 pkt 1, art. 12a ust. 1 i 2, art. 12b pkt 4, art. 12c ust. 1 i ust. 4 pkt 2, art. 19 ust. 2 pkt 1, art. 21 ust. 1 pkt 2, art. 23 ust. 1, 4a i 4d, art. 26a ust. 5 pkt 1, art. 28e ust. 2 pkt 1 i 2, art. 30 ust. 1 pkt 1 lit. c, ust. 1b pkt 3, art. 30a ust. 1 i 2, art. 30b ust. 1 pkt 1–3, art. 33 ust. 1 pkt 1, 1a, 8e i 9 oraz ust. 5 i 7 w różnej liczbie i przypadku wyrazy „sprzedaż lub zbycie w innej formie” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „rozporządzenie poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej”;
+- **2)** w art. 2 w ust. 1 pkt 25 otrzymuje brzmienie: „25) podmiot realizujący Narodowy Cel Wskaźnikowy – każdy podmiot, w tym mający siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, dokonujący, samodzielnie lub za pośrednictwem innego podmiotu, wytwarzania, importu lub nabycia wewnątrzwspólnotowego paliw ciekłych lub biopaliw ciekłych, który:
+    - **a)** rozporządza nimi na terytorium Rzeczypospolitej Polskiej poprzez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub
+    - **b)** zużywa je na potrzeby własne na tym terytorium, z wyłączeniem przywozu paliw ciekłych przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm. ).”;
+
+- **3)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. Podmiot realizujący Narodowy Cel Wskaźnikowy realizuje obowiązek, o którym mowa w art. 23 ust. 1, w co najmniej 50% za pomocą biokomponentów zawartych w paliwach ciekłych oraz zobowiązany jest to udokumentować.”;
+- **4)** w art. 26a ust. 1 otrzymuje brzmienie: „1. Prezes Urzędu Regulacji Energetyki jest uprawniony do przeprowadzania kontroli podmiotów realizujących Narodowy Cel Wskaźnikowy, w zakresie wykonania obowiązku, o którym mowa w art. 23 ust. 1 oraz art. 23a.”;
+- **5)** po art. 28 w rozdziale 4a dodaje się art. 28 w brzmieniu: „Art. 28 . 1. Prezes Urzędu Regulacji Energetyki prowadzi wykaz podmiotów, które zobowiązane są do realizacji Narodowego Celu Wskaźnikowego w danym roku kalendarzowym, w szczególności na podstawie sprawozdań, o których mowa w art. 43d ustawy, o której mowa w art. 28.
+
+2. Wykaz, o którym mowa w ust. 1, jest jawny i podlega publikacji w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki.”;
+
+- **6)** w art. 33:
+    - **a)** w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) będąc podmiotem realizującym Narodowy Cel Wskaźnikowy, nie wykonuje obowiązku, o którym mowa w art. 23a;”,
+    - **b)** po ust. 5a dodaje się ust. 5b w brzmieniu: „5b. W przypadku, o którym mowa w ust. 1 pkt 5a, kara pieniężna wynosi 0,1 zł za każdy MJ wartości energetycznej biokomponentów, które podmiot realizujący Narodowy Cel Wskaźnikowy był obowiązany dodać do paliw ciekłych w celu zrealizowania obowiązku, o którym mowa w art. 23a, a których udziału nie udokumentował.”,
+    - **c)** w ust. 9 pkt 3 otrzymuje brzmienie: „3) w zakresie pkt 2a, 2b, 5, 5a, 7a, 8a, 8d i 8e – Prezes Urzędu Regulacji Energetyki.”.
 
 **Art. 9.** W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2014 r. poz. 1728, z 2015 r. poz. 1361 oraz z 2016 r. poz. 266 i 542) wprowadza się następujące zmiany:
 
+- **1)** w art. 12 ust. 4 otrzymuje brzmienie: „4. Wykazy, o których mowa w ust. 2 pkt 1–3, prowadzone są w systemie informatycznym i udostępniane są w Biuletynie Informacji Publicznej Urzędu Ochrony Konkurencji i Konsumentów.”;
+- **2)** w art. 16:
+    - **a)** w ust. 2 uchyla się pkt 5,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przepis art. 79a ust. 6 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej nie ma zastosowania do przeprowadzania kontroli, o której mowa w ust. 1.”,
+    - **c)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Inspektor w toku kontroli żąda okazania:
+
+- **1)** koncesji, o której mowa w art. 32 ust. 1 pkt 1–4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ), w zakresie wytwarzania, magazynowania lub przeładunku, przesyłania lub dystrybucji oraz obrotu paliwami ciekłymi, w tym obrotu paliwami ciekłymi z zagranicą, jeżeli taka koncesja jest wymagana ze względu na rodzaj działalności prowadzonej przez kontrolowanego przedsiębiorcę;
+- **2)** decyzji o wpisie do rejestru, o którym mowa w art. 32a ust. 1 ustawy, o której mowa w pkt 1, jeżeli jest ona wymagana ze względu na rodzaj działalności prowadzonej przez kontrolowanego przedsiębiorcę.”.
+
 **Art. 10.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2014 r. poz. 1695 oraz z 2016 r. poz. 266, 352 i 1052) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 pkt 2 otrzymuje brzmienie: „2) przeprowadzania kontroli u podmiotów objętych obowiązkiem tworzenia i utrzymywania zapasów, o których mowa w pkt 1, a także u przedsiębiorców świadczących usługi magazynowania oraz którym zlecono tworzenie i utrzymywanie zapasów;”;
+- **2)** w art. 2:
+    - **a)** w pkt 16 wyrazy „przedsiębiorców zajmujących” zastępuje się wyrazami „podmioty zajmujące”,
+    - **b)** pkt 19 i 20 otrzymują brzmienie: „19) handlowiec:
+    - **a)** przedsiębiorcę wykonującego samodzielnie lub za pośrednictwem innego podmiotu działalność gospodarczą w zakresie przywozu ropy naftowej lub paliw,
+    - **b)** osobę fizyczną, osobę prawną i jednostkę organizacyjną nieposiadającą osobowości prawnej, która, nie prowadząc działalności gospodarczej w zakresie przywozu ropy naftowej lub paliw, samodzielnie lub za pośrednictwem innego podmiotu wykonuje działalność polegającą na przywozie ropy naftowej lub paliw i zużywa je na potrzeby własne z wyłączeniem przywozu paliw w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm. ), lub rozporządza nimi poprzez jakąkolwiek czynność prawną lub faktyczną;
+
+- **20)** pierwszy rok wykonywania działalności – kolejnych dwanaście miesięcy kalendarzowych, począwszy od miesiąca, w którym podmiot rozpoczął w ramach wykonywanej działalności faktyczną produkcję lub przywóz paliw lub przywóz ropy naftowej;”;
+- **3)** w art. 5 w ust. 2 oraz w art. 6 ust. 1, ust. 2 pkt 1 i ust. 3–5 skreśla się wyraz „gospodarczej”;
+- **4)** w art. 6 w ust. 2 w pkt 1 wyraz „przedsiębiorca” zastępuje się wyrazem „podmiot”;
+- **5)** w art. 11a w ust. 9 w pkt 3 wyraz „przedsiębiorcy” zastępuje się wyrazami „producentów lub handlowców”;
+- **6)** w art. 13:
+    - **a)** w ust. 3 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) numer w rejestrze podmiotów przywożących zgodnie z przepisami ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne – w przypadku gdy jest on wymagany;”,
+    - **b)** ust. 3a otrzymuje brzmienie: „3a. Rejestr producentów i handlowców w części zawierającej:
+
+- **1)** oznaczenie producenta lub handlowca oraz dane dotyczące jego adresu siedziby, adresu zakładu głównego i adresu do doręczeń,
+- **2)** wskazanie przedmiotu wykonywanej działalności, z której wynika wpis do rejestru,
+- **3)** numer identyfikacji podatkowej (NIP), numer identyfikacji w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), numer akcyzowy nadany przez właściwego naczelnika urzędu celnego,
+- **4)** numer, rodzaj i okres obowiązywania koncesji na produkcję paliw lub obrót paliwami z zagranicą,
+- **5)** numer w rejestrze podmiotów przywożących,
+- **6)** informacje o rodzajach produkowanych lub przywożonych surowców lub paliw,
+- **7)** informacje o wykreśleniu z rejestru – jest rejestrem jawnym udostępnianym w Biuletynie Informacji Publicznej Agencji.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Prezes Agencji przekazuje w formie elektronicznej Prezesowi URE, ministrowi właściwemu do spraw finansów publicznych, Prokuratorowi Generalnemu oraz Komendantowi Głównemu Policji wykaz producentów lub handlowców wpisanych do rejestru w terminie 14 dni od dnia dokonania wpisu. Wykaz zawiera informacje, o których mowa w ust. 3a.”,
+    - **d)** ust. 6 otrzymuje brzmienie: „6. Dane jednostkowe zawarte w rejestrze, z wyjątkiem danych, o których mowa w ust. 3a, stanowią tajemnicę prawnie chronioną i mogą być udostępnione jedynie na żądanie organów władzy publicznej dla celów prowadzonych przez nie postępowań lub innym organom, w tym organizacjom międzynarodowym, jeżeli taki obowiązek wynika z ustawy, umowy międzynarodowej albo przepisów Unii Europejskiej.”;
+
+- **7)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Prezes Agencji przekazuje w formie elektronicznej Prezesowi URE, co najmniej raz na kwartał lub na każde żądanie Prezesa URE, wykaz producentów i handlowców, którzy mają zawarte umowy, o których mowa w art. 10 i art. 11.
+
+2. Wykaz, o którym mowa w ust. 1, zawiera oznaczenie stron umowy, rodzaj i przedmiot umowy zawierający informację o rodzaju i lokalizacji utrzymywanych w ten sposób zapasach obowiązkowych, datę zawarcia umowy i okres jej obowiązywania.”;
+
+- **8)** w art. 14:
+    - **a)** ust. 1 i 1a otrzymują brzmienie: „1. Podmioty zamierzające podjąć działalność gospodarczą w zakresie produkcji paliw lub przywozu ropy naftowej lub paliw są obowiązane złożyć wniosek o wpis do rejestru w terminie nie później niż 14 dni przed planowanym podjęciem wykonywania tej działalności.
+
+1a. W przypadku pozyskania przez Prezesa Agencji informacji o podjęciu przez podmiot działalności w zakresie produkcji paliw lub przywozu ropy naftowej lub paliw, pomimo niedopełnienia obowiązku, o którym mowa w ust. 1, Prezes Agencji wzywa ten podmiot do złożenia wniosku o wpis do rejestru w terminie 7 dni od dnia doręczenia wezwania z pouczeniem, że niezłożenie wniosku w wyznaczonym terminie stanowi niedopełnienie obowiązku złożenia wniosku o wpis do rejestru.”,
+
+- **b)** w ust. 2: – pkt 2 otrzymuje brzmienie: „2) oznaczenie formy prawnej, a także numer identyfikacji podatkowej (NIP), numer akcyzowy wydany przez właściwego naczelnika urzędu celnego, jeżeli producent lub handlowiec taki posiada, i numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) producenta lub handlowca, jeżeli producent lub handlowiec taki posiada, oraz numer PESEL osoby kierującej działalnością producenta lub handlowca lub, dla osób nieposiadających numeru PESEL, numer innego dokumentu tożsamości;”, – w pkt 5 i 6 skreśla się wyraz „gospodarczej”, – po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) numer w rejestrze podmiotów przywożących, zgodnie z przepisami ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne – w przypadku gdy jest on wymagany;”,
+- **c)** w ust. 4 w pkt 1 skreśla się wyraz „gospodarczej”;
+- **9)** w art. 16 w ust. 2 w pkt 2 w lit. a oraz w ust. 3a, 3b i 4 pkt 2 skreśla się użyty w różnych przypadkach wyraz „gospodarcza”;
+- **10)** w art. 21b:
+    - **a)** w ust. 2 skreśla się użyte dwukrotnie wyrazy „pkt 3”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Producent paliw, z wyłączeniem gazu płynnego (LPG), przetwarzający paliwa poprzez procesy mieszania, będący jednocześnie handlowcem, oblicza opłatę zapasową, przyjmując za jej podstawę różnicę pomiędzy ilością wyprodukowanych paliw i tą ilością, która stanowiła już podstawę obliczenia i zapłaty przez niego opłaty zapasowej z tytułu przywozu.
+
+2b. Producent paliw, z wyłączeniem gazu płynnego (LPG), przetwarzający paliwa poprzez procesy mieszania, oblicza opłatę zapasową, przyjmując za jej podstawę różnicę pomiędzy ilością wyprodukowanych paliw i tą ilością, która stanowiła już podstawę obliczenia i zapłaty przez niego opłaty zapasowej.”,
+
+- **c)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Producent gazu płynnego (LPG) przetwarzający go poprzez procesy mieszania będący jednocześnie handlowcem oblicza opłatę zapasową, przyjmując za jej podstawę różnicę pomiędzy ilością wyprodukowanych paliw i tą ilością gazu płynnego (LPG), która stanowiła już podstawę obliczenia i zapłaty przez niego opłaty zapasowej z tytułu przywozu.
+
+5b. Producent gazu płynnego (LPG) przetwarzający go poprzez procesy mieszania oblicza opłatę zapasową, przyjmując za jej podstawę różnicę pomiędzy ilością wyprodukowanych paliw i tą ilością gazu płynnego (LPG), która stanowiła już podstawę obliczenia i zapłaty przez niego opłaty zapasowej.”,
+
+- **d)** w ust. 13 po wyrazach „działu III” dodaje się wyrazy „oraz działu V”,
+- **e)** w ust. 14 po wyrazach „w dziale III” dodaje się wyrazy „oraz w dziale V”;
+- **11)** w art. 22:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Producenci i handlowcy składają Prezesowi Agencji co miesiąc deklarację o:
+
+- **1)** wielkości przywozu ropy naftowej i paliw oraz wielkości produkcji paliw, a także strukturze produkcji i przywozu paliw,
+- **2)** ilościach ropy naftowej, paliw lub biokomponentów, o których mowa w art. 5 ust. 6,
+- **3)** tworzonych i utrzymywanych zapasach obowiązkowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania,
+- **4)** utrzymywanych zapasach handlowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania,
+- **5)** wysokości opłaty zapasowej – w terminie 20 dni od upływu ostatniego dnia miesiąca, którego dotyczy przekazywana deklaracja.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Minister właściwy do spraw energii, uwzględniając konieczność zapewnienia przekazywania Prezesowi Agencji właściwych danych oraz ułatwienia składania deklaracji, określi, w drodze rozporządzenia, wzór deklaracji, o której mowa w ust. 1, wraz z objaśnieniem co do sposobu jej wypełniania.
+
+1b. Deklaracje, o których mowa w ust. 1, stanowią deklaracje w rozumieniu przepisów Ordynacji podatkowej.
+
+1c. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie magazynowania ropy naftowej lub paliw przekazują Prezesowi Agencji co miesiąc informację o:
+
+- **1)** magazynowanych zapasach obowiązkowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania,
+- **2)** magazynowanych zapasach handlowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania – w terminie 20 dni od upływu ostatniego dnia miesiąca, którego dotyczy przekazywana informacja.”,
+    - **c)** w ust. 4 wyraz „przedsiębiorcą” zastępuje się wyrazem „podmiotem”;
+
+- **12)** w art. 24:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu zapewnienia zaopatrzenia Rzeczypospolitej Polskiej w gaz ziemny oraz minimalizacji skutków:
+
+- **1)** zagrożenia bezpieczeństwa paliwowego państwa,
+- **2)** wystąpienia sytuacji awaryjnej w sieci gazowej,
+- **3)** nieprzewidzianego wzrostu zużycia gazu ziemnego – przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego są obowiązani do utrzymywania zapasów obowiązkowych gazu ziemnego.”, poz. 266), do utrzymywania zapasów obowiązkowych gazu ziemnego jest obowiązany wyłącznie podmiot, który korzysta z usług regazyfikacji lub przeładunku skroplonego gazu ziemnego na podstawie umowy z operatorem terminalu i którego zregazyfikowany gaz ziemny jest wprowadzany do sieci przesyłowej lub przeładowywany na inne środki transportu.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W zakresie skroplonego gazu ziemnego dostarczanego z zagranicy do punktu dostawy tego gazu do terminalu, o którym mowa w art. 1 ust. 2 pkt 1 ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2014 r. poz. 1501, z 2015 r. poz. 1045 i 1777 oraz z 2016 r.
+    - **c)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego:”, – pkt 1 otrzymuje brzmienie: „1) utrzymuje zapasy obowiązkowe gazu ziemnego w wielkości odpowiadającej co najmniej 30-dniowemu średniemu dziennemu przywozowi tego gazu, ustalonemu w sposób określony w art. 25 ust. 2 albo 5;”,
+    - **d)** uchyla się ust. 5–6;
+
+- **13)** w art. 24a ust. 2 otrzymuje brzmienie: „2. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego przedstawia operatorowi systemu przesyłowego gazowego lub operatorowi systemów połączonych gazowych dokumenty umożliwiające weryfikację technicznych możliwości dostarczenia do sieci przesyłowej lub dystrybucyjnej krajowej całkowitej ilości zapasów gazu ziemnego utrzymywanych w instalacjach magazynowych poza terytorium Rzeczypospolitej Polskiej, w szczególności umowy, o których mowa w ust. 1 pkt 2.”;
+- **14)** po art. 24a dodaje się art. 24b w brzmieniu: „Art. 24b. 1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego mogą zlecić, po uzyskaniu zgody Prezesa URE, o której mowa w ust. 7, na podstawie umowy, wykonywanie zadań w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego innemu przedsiębiorstwu energetycznemu wykonującemu działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiotowi dokonującemu przywozu gazu ziemnego.
+
+2. Podmiot przyjmujący zlecenie, o którym mowa w ust. 1, nie może zlecić jego wykonywania innemu podmiotowi.
+
+3. Umowa, o której mowa w ust. 1, określa w szczególności:
+
+- **1)** ilość utrzymywanych zapasów obowiązkowych gazu ziemnego w okresie obowiązywania umowy;
+- **2)** sposób wykonania zlecenia;
+- **3)** warunki zapewniające utrzymywanie odpowiedniego poziomu ilościowego i jakościowego utrzymywanych zapasów obowiązkowych gazu ziemnego;
+- **4)** sposób postępowania podczas utrzymywania zapasów obowiązkowych gazu ziemnego, uruchamiania oraz uzupełnienia tych zapasów po uruchomieniu;
+- **5)** okres obowiązywania umowy, przy czym okres ten odpowiada lub jest wielokrotnością okresu, o którym mowa w art. 25 ust. 4;
+- **6)** miejsce utrzymywania zapasów obowiązkowych gazu ziemnego w okresie obowiązywania umowy;
+- **7)** sposób wykonywania obowiązków dotyczących sporządzania i przekazywania informacji, o których mowa w art. 27 ust. 1;
+- **8)** zasady współpracy w przypadku kontroli Prezesa URE w zakresie wykonywania obowiązków, o których mowa w art. 24;
+- **9)** postanowienia dotyczące zmiany warunków umowy i jej wypowiedzenia;
+- **10)** odpowiedzialność stron za niedotrzymanie warunków umowy.
+
+4. W przypadku gdy zapasy obowiązkowe gazu ziemnego, utrzymywane zgodnie z ust. 1, nie stanowią majątku przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiotu dokonującego przywozu gazu ziemnego, zlecającego utrzymywanie tych zapasów, umowa powinna zawierać także postanowienia gwarantujące zlecającemu prawo nabycia tych zapasów w okresie jej obowiązywania oraz określać sposób ustalania ceny odsprzedaży tych zapasów.
+
+5. W przypadku zlecenia przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego utrzymywania, w ich imieniu, zapasów obowiązkowych gazu ziemnego podmiotom wymienionym w ust. 1, podmiot przyjmujący zlecenie:
+
+- **1)** nie może wykorzystywać, na własne potrzeby, utrzymywanych zapasów obowiązkowych gazu ziemnego w okresie obowiązywania umowy;
+- **2)** gwarantuje zlecającemu dostęp do utrzymywanych zapasów obowiązkowych gazu ziemnego w okresie obowiązywania umowy.
+
+6. Projekt umowy o wykonywanie zadań w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego, zlecające utrzymywanie tych zapasów, przed zawarciem tej umowy przedkłada Prezesowi URE w celu zatwierdzenia w drodze decyzji. Do wniosku o zatwierdzenie projektu umowy przedsiębiorstwo i podmiot dołącza opinię operatora systemu przesyłowego gazowego lub operatora systemów połączonych gazowych uwzględniającą wynik weryfikacji, o której mowa w art. 24 ust. 2 pkt 3.
+
+7. Prezes URE, w terminie 30 dni, w drodze decyzji, wyraża zgodę albo odmawia wyrażenia zgody na zawarcie umowy, o której mowa w ust. 1.
+
+8. Prezes URE odmawia wyrażenia zgody na zawarcie umowy, o której mowa w ust. 1, jeżeli:
+
+- **1)** projekt tej umowy nie zawiera postanowień, o których mowa w ust. 3;
+- **2)** lokalizacja lub parametry techniczne instalacji magazynowych i sieci gazowych, do których instalacje te są przyłączone, nie zapewniają możliwości dostarczenia całkowitej ilości zapasów obowiązkowych gazu ziemnego do systemu gazowego w okresie nie dłuższym niż 40 dni.
+
+9. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego, o których mowa w ust. 1, przekazują Prezesowi URE kopie umowy, o której mowa w ust. 1, w terminie 14 dni od dnia jej zawarcia.
+
+10. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego, o których mowa w ust. 1, zlecający wykonywanie swoich zadań w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego innym podmiotom, ponoszą odpowiedzialność za spełnianie przez te zapasy wymagań jakościowych, utrzymywanie ich wymaganych ilości oraz wypełnianie obowiązków dotyczących uruchomienia tych zapasów na skutek decyzji ministra właściwego do spraw energii i ich uzupełnienia.”;
+
+- **15)** w art. 25:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Wielkość zapasów gazu ziemnego ustala przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego, z uwzględnieniem ust. 5, do dnia 30 kwietnia każdego roku.
+
+2. Przedsiębiorstwa i podmioty, o których mowa w ust. 1, ustalają wielkość zapasów obowiązkowych gazu ziemnego na podstawie wielkości dokonanego przywozu, w okresie od dnia 1 kwietnia roku ubiegłego do dnia 31 marca danego roku, na podstawie danych zawartych w sprawozdaniach statystycznych sporządzanych przez te przedsiębiorstwa i podmioty oraz danych przekazanych w trybie art. 49c ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.”, Na okres od dnia 1 października następującego po dniu rozpoczęcia przywozu gazu ziemnego do dnia 30 września roku kolejnego wielkość zapasów obowiązkowych gazu ziemnego jest określana przez Prezesa URE w odrębnej decyzji, wydanej najpóźniej na 15 dni przed dniem 1 października następującym po dniu rozpoczęcia przywozu gazu ziemnego, na podstawie danych o średniej ilości jego przywozu z dotychczasowego okresu prowadzenia działalności, wynikających ze sprawozdań statystycznych sporządzanych przez te przedsiębiorstwa lub podmioty oraz danych przekazanych w trybie art. 49c ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+
+- **b)** uchyla się ust. 2a,
+- **c)** ust. 3 otrzymuje brzmienie: „3. Informacje o wielkości zapasów obowiązkowych gazu ziemnego, ustalonej zgodnie z ust. 2, przedsiębiorstwa i podmioty, o których mowa w ust. 1, przedkładają do dnia 15 maja każdego roku Prezesowi URE w celu ich weryfikacji. Prezes URE, w drodze decyzji, dokonuje weryfikacji tych informacji na podstawie danych zawartych w sprawozdaniach statystycznych sporządzanych przez te przedsiębiorstwa i podmioty oraz danych przekazanych w trybie art. 49c ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.”,
+- **d)** ust. 5 i 6 otrzymują brzmienie: „5. Wielkość zapasów obowiązkowych gazu ziemnego dla przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiotu dokonującego przywozu gazu ziemnego, które rozpoczęły przywóz po 31 marca, na okres od dnia rozpoczęcia przywozu gazu ziemnego do dnia 30 września, ustala Prezes URE, na podstawie średniodobowego planowanego przez to przedsiębiorstwo lub podmiot przywozu w okresie od dnia jego rozpoczęcia do dnia 31 marca kolejnego roku, w drodze decyzji.
+
+6. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego są obowiązani poinformować Prezesa URE o zamiarze rozpoczęcia przywozu gazu ziemnego najpóźniej na 30 dni przed dniem rozpoczęcia tego przywozu.”;
+
+- **16)** w art. 26 ust. 3 i 4 otrzymują brzmienie: „3. W przypadku uruchomienia zapasów obowiązkowych gazu ziemnego, o których mowa w ust. 1, przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego są obowiązane do ich uzupełnienia do wielkości ustalonej zgodnie z art. 25 ust. 2 albo 5 w okresie 4 miesięcy, licząc od ostatniego dnia miesiąca, w którym nastąpiło ich uruchomienie.
+
+4. W szczególnie uzasadnionych przypadkach termin, o którym mowa w ust. 3, może być, na wniosek przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiotu dokonującego przywozu gazu ziemnego, wydłużony do okresu nie dłuższego niż 8 miesięcy, w drodze decyzji wydanej przez ministra właściwego do spraw energii.”;
+
+- **17)** w art. 27:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiot dokonujący przywozu gazu ziemnego przedstawia ministrowi właściwemu do spraw energii oraz operatorowi systemu gazowego informacje o:”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Przedsiębiorstwa i podmioty, o których mowa w ust. 1, przekazują ministrowi właściwemu do spraw energii oraz Prezesowi URE informacje o działaniach podjętych w okresie od dnia 1 kwietnia poprzedniego roku do dnia 31 marca danego roku, w celu zapewnienia bezpieczeństwa paliwowego państwa w zakresie obrotu gazem ziemnym z zagranicą oraz realizacji obowiązku utrzymywania zapasów obowiązkowych gazu ziemnego, do dnia 15 maja każdego roku.”;
+
+- **18)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Zapasy obowiązkowe gazu ziemnego stanowią majątek przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą i podmiotów dokonujących przywozu gazu ziemnego, chyba że z umowy, o której mowa w art. 24b ust. 1, wynika, że zapasy te stanowią majątek przyjmującego zlecenie.
+
+2. Koszty ponoszone przez przedsiębiorstwa i podmioty, o których mowa w ust. 1, w związku z realizacją obowiązku utrzymywania, uruchamiania oraz uzupełniania zapasów obowiązkowych gazu ziemnego, są zaliczane do kosztów uzasadnionych ich działalności w rozumieniu art. 3 pkt 21 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.”;
+
+- **19)** tytuł rozdziału 3a otrzymuje brzmienie: „Fundusz Zapasów Interwencyjnych”;
+- **20)** w art. 28a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Tworzy się Fundusz Zapasów Interwencyjnych, zwany dalej „Funduszem”.”,
+    - **b)** w ust. 4 pkt 2 otrzymuje brzmienie: „2) finansuje realizację zadań Agencji w zakresie zapasów interwencyjnych.”;
+
+- **21)** w art. 28b pkt 5 otrzymuje brzmienie: „5) wpływów z kar, o których mowa w art. 63 ust. 1 pkt 1–5a, 7, 8, 18–18b i 20;”;
+- **22)** w art. 28c:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Środki Funduszu przeznacza się na realizację zadań Agencji w zakresie zapasów interwencyjnych w szczególności na:”,
+    - **b)** pkt 8–10 otrzymują brzmienie: „8) zwrot nadpłaconych lub nienależnie zapłaconych opłat zapasowych wraz z oprocentowaniem;
+
+- **9)** zwrot kar, o których mowa w art. 63 ust. 1 pkt 1–5a, 7, 8, 18–18b i 20, wraz z oprocentowaniem;
+- **10)** koszty działalności Agencji związane z wykonywaniem zadań w zakresie zapasów interwencyjnych;”,
+    - **c)** w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) koszty przeprowadzenia prób technicznych, o których mowa w art. 29d.”;
+
+- **23)** w art. 29:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Czynności kontrolne wykonują pracownicy Agencji po okazaniu legitymacji służbowej oraz po doręczeniu podmiotowi albo osobie przez niego upoważnionej upoważnienia do przeprowadzenia kontroli działalności podmiotu.”,
+    - **b)** w ust. 5 pkt 6 otrzymuje brzmienie: „6) żądania ustnych i pisemnych wyjaśnień, a także żądania dokumentów, dotyczących ograniczeń prawnych i faktycznych w zakresie utrzymywania zapasów interwencyjnych oraz danych dotyczących parametrów technicznych magazynów i związanych z tymi magazynami systemów przesyłowych.”;
+
+- **24)** po art. 29c dodaje się art. 29d–29g w brzmieniu: „Art. 29d. 1. Prezes Agencji może przeprowadzić kontrolę u właścicieli instalacji magazynowej lub magazynów, w których są utrzymywane zapasy interwencyjne, polegającą na przeprowadzeniu próby technicznej instalacji magazynowej lub magazynów w celu ustalenia rzeczywistej dostępności fizycznej zapasów interwencyjnych, w szczególności polegającej na przetłoczeniu określonej ilości tych zapasów.
+
+2. Na żądanie ministra właściwego do spraw energii lub Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej Prezes Agencji przeprowadza kontrolę, o której mowa w ust. 1.
+
+3. Właściciel systemu przesyłowego lub transportowego związanego z instalacją lub magazynem, w których utrzymywane są zapasy interwencyjne, współdziała przy przeprowadzeniu próby technicznej, o której mowa w ust. 1, z podmiotem kontrolowanym i Prezesem Agencji.
+
+4. Prezes Agencji zawiadamia o zamiarze przeprowadzenia kontroli, o której mowa w ust. 1, właścicieli instalacji magazynowej lub magazynów, w których są utrzymywane zapasy interwencyjne, lub właścicieli systemów przesyłowych lub transportowych związanych z tymi instalacjami lub magazynami. W zawiadomieniu Prezes Agencji określa plan kontroli.
+
+5. Prezes Agencji ustala termin przeprowadzenia próby technicznej w uzgodnieniu z właścicielem instalacji magazynowej lub magazynu, w których są utrzymywane zapasy interwencyjne, i właścicielem związanych z tymi instalacjami lub magazynem systemów przesyłowych lub transportowych. Próbę rozpoczyna się nie później niż w terminie 6 miesięcy od dnia doręczenia właścicielowi instalacji magazynowej lub magazynów, w których są utrzymywane zapasy interwencyjne, zawiadomienia, o którym mowa w ust. 4.
 
 **Art. 29e.**
 
@@ -463,4 +893,10 @@ source: "isap-pdf"
 4. W przypadku gdy wysokość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
 **Art. 44.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 1 lit. b w zakresie art. 3 pkt 10f, pkt 10 lit. c, d i f–i, pkt 11 lit. d w zakresie art. 35 ust. 1c pkt 6, pkt 12 lit. b i c, pkt 18 lit. a, b, d i e w zakresie art. 41 ust. 4a oraz art. 14, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 8 pkt 3 i 4 oraz 6, które wchodzą w życie z dniem 1 stycznia 2017 r.;
+- **3)** art. 10 pkt 12 lit. d w zakresie art. 24 ust. 5c i pkt 33 lit. a tiret szóste i lit. f, które wchodzą w życie z dniem 15 listopada 2017 r.;
+- **4)** art. 10 pkt 10 lit. d i e w zakresie art. 21b ust. 13 i 14, pkt 11 lit. a i b w zakresie art. 22 ust. 1 i 1b oraz pkt 26 w zakresie art. 38, które wchodzą w życie z dniem 1 stycznia 2017 r.
+
 

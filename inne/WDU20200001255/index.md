@@ -1,0 +1,137 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 8 lipca 2020 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej
+address: WDU20200001255
+eli: DU/2020/1255
+publisher: DU
+year: 2020
+pos: 1255
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1255 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 lipca 2020 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 1255 |
+| ISAP | WDU20200001255 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2020-07-08 |
+| Data wydania | 2020-07-17 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1255/text.pdf) |
+
+zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2019 r. poz. 736 i 2120) wprowadza się następujące zmiany:
+1) w załączniku nr 1 w części V „Warunki realizacji świadczeń gwarantowanych lekarza podstawowej opieki zdrowotnej” w ust. 4 w pkt 3 lit. a otrzymuje brzmienie: „a) zestaw przeciwwstrząsowy zawierający produkty lecznicze określone w przepisach wydanych na podstawie art. 68 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944),”;
+2) w załączniku nr 2:
+a) w części I w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „6) poradę realizowaną w warunkach ambulatoryjnych w bezpośrednim kontakcie ze świadczeniobiorcą lub na odległość przy użyciu systemów teleinformatycznych lub systemów łączności;
+7) poradę realizowaną w domu świadczeniobiorcy, w przypadkach uzasadnionych medycznie.”,
+b) w części IV „Warunki realizacji świadczeń pielęgniarki podstawowej opieki zdrowotnej” w ust. 4: – w pkt 1 lit. i otrzymuje brzmienie: „i) zestaw przeciwwstrząsowy zawierający produkty lecznicze określone w przepisach wydanych na podstawie art. 68 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,”, – w pkt 2 lit. b otrzymuje brzmienie: „b) zestaw przeciwwstrząsowy zawierający produkty lecznicze określone w przepisach wydanych na podstawie art. 68 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,”,
+c) dodaje się część V w brzmieniu: „Część V. Warunki realizacji porady pielęgniarki podstawowej opie ki zdrowotnej NAZWA ŚWIADCZENIA WARUNKI REALIZACJI ŚWIADCZEŃ GWARANTOWANEGO 1 2 3 Porada pielęgniarki 1) pielęgniarka podstawowej opieki zdrowotnej, o której mowa w art. 7 ustapodstawowej opieki Personel wy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U.
+zdrowotnej z 2020 r. poz. 172), lub
+2) pielęgniarka podstawowej opieki zdrowotnej, o której mowa w art. 7 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, posiadająca uprawnienia zawodowe określone w art. 15a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2020 r. poz. 562, 567 i 945), lub
+3) pielęgniarka podstawowej opieki zdrowotnej, o której mowa w art. 7 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, uprawniona do samodzielnego doboru sposobów leczenia ran w ramach świadczeń leczniczych udzielanych bez zlecenia lekarskiego.
+1) profilaktyka chorób i promocja zdrowia lub
+2) dobór sposobów leczenia ran w ramach świadczeń leczniczych udzielanych przez pielęgniarkę samodzielnie bez zlecenia lekarskiego, lub
+3) ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie recepty, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, lub Zakres 4) wystawianie recept na leki zlecone przez lekarza, w ramach kontynuacji świadczenia leczenia, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, lub
+5) ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie zlecenia albo recepty, lub
+6) wystawianie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla świadczeniobiorcy.
+Dostępność Dostęp do badań laboratoryjnych wykonywanych w medycznym laboratorium badań diagnostycznym wpisanym do ewidencji Krajowej Rady Diagnostów Laboratolub procedur ryjnych.
+medycznych
+1. Profilaktyka chorób i promocja zdrowia w ramach świadczeń zapobiegawczych udzielanych przez pielęgniarkę obejmuje:
+1) przeprowadzenie wywiadu w celu zdefiniowania problemów zdrowotnych oraz ocenę stopnia przygotowania świadczeniobiorcy do samokontroli i samoopieki;
+2) wykonanie podstawowych pomiarów życiowych i ich ocenę;
+3) wykonanie badania fizykalnego;
+4) ustalenie indywidualnych celów terapeutycznych;
+Standard 5) opracowanie planu edukacji zdrowotnej;
+i organizacja 6) przekazanie informacji zgodnie z celami terapeutycznymi, w tym eduudzielania kację dotyczącą przyjmowania leków i suplementów diety;
+świadczenia
+7) naukę technik samodzielnej obserwacji;
+8) ocenę postępów i ustalenie planu reedukacji (przy kolejnych wizytach);
+9) udzielanie informacji o zaleceniach pielęgniarskich.
+2. Dobór sposobów leczenia ran w ramach świadczeń leczniczych udzielanych przez pielęgniarkę samodzielnie bez zlecenia lekarskiego obejmuje:
+1) przeprowadzenie wywiadu;
+2) wykonanie podstawowych pomiarów życiowych i ich ocenę;
+3) wykonanie badania fizykalnego;
+4) przekazanie informacji o możliwości doboru sposobów leczenia ran;
+5) opatrzenie ran;
+6) udzielanie informacji o zaleceniach pielęgniarskich, w tym kierowanie do lekarza podstawowej opieki zdrowotnej.
+3. Ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie recepty, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, obejmuje:
+1) przeprowadzenie badania przedmiotowego i podmiotowego;
+2) ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, i wystawienie recepty lub poinformowanie o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej celem dalszej oceny stanu zdrowia;
+3) udzielanie informacji o zaleceniach pielęgniarskich.
+4. Wystawianie recept na leki zlecone przez lekarza w ramach kontynuacji leczenia, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, obejmuje:
+1) przeprowadzenie wywiadu;
+2) wystawienie recepty na leki zlecone przez lekarza w ramach kontynuacji leczenia lub poinformowanie o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej celem dalszej oceny stanu zdrowia;
+3) udzielanie informacji o zaleceniach pielęgniarskich.
+5. Ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie zlecenia albo recepty obejmuje:
+1) przeprowadzenie badania przedmiotowego i podmiotowego;
+2) ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawienia na nie zlecenia albo recepty lub poinformowanie o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej celem dalszej oceny stanu zdrowia;
+3) udzielanie informacji o zaleceniach pielęgniarskich.
+6. Wystawienie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym badań medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla świadczeniobiorcy obejmuje wykonanie następujących czynności:
+1) przeprowadzenie badania przedmiotowego i podmiotowego;
+2) wystawienie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym medycznej diagnostyki laboratoryjnej lub poinformowanie o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej celem dalszej oceny stanu zdrowia;
+3) udzielanie informacji o zaleceniach pielęgniarskich.
+Miejsce 1) gabinet pielęgniarki podstawowej opieki zdrowotnej lub udzielania 2) miejsce pobytu świadczeniobiorcy.
+świadczeń Wyposażenie Zgodnie z wymaganiami określonymi w załączniku nr 2 w części IV „Warunki w sprzęt, realizacji świadczeń pielęgniarki podstawowej opieki zdrowotnej”, w ust. 4.
+aparaturę medyczną i produkty lecznicze ”;
+3) w załączniku nr 3:
+a) w części I w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) poradę realizowaną w warunkach ambulatoryjnych w bezpośrednim kontakcie ze świadczeniobiorcą lub na odległość przy użyciu systemów teleinformatycznych lub systemów łączności;
+6) poradę realizowaną w domu świadczeniobiorcy, w przypadkach uzasadnionych medycznie.”,
+b) w części III „Warunki realizacji świadczeń gwarantowanych położnej podstawowej opieki zdrowotnej” w ust. 4: – w pkt 1 lit. i otrzymuje brzmienie: „i) zestaw przeciwwstrząsowy zawierający produkty lecznicze określone w przepisach wydanych na podstawie art. 68 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,”, – w pkt 2 lit. b otrzymuje brzmienie: „b) zestaw przeciwwstrząsowy zawierający produkty lecznicze określone w przepisach wydanych na podstawie art. 68 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,”,
+c) dodaje się część IV w brzmieniu: „Część IV. Warunki realizacji porady położnej podstawowej opieki zdrowotnej NAZWA ŚWIADCZENIA WARUNKI REALIZACJI ŚWIADCZEŃ GWARANTOWANEGO 1 2 3 Porada 1) położna podstawowej opieki zdrowotnej, o której mowa w art. 8 ustawy położnej z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U.
+podstawowej opieki z 2020 r. poz. 172), lub zdrowotnej 2) położna podstawowej opieki zdrowotnej, o której mowa w art. 8 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, posiadająca Personel uprawnienia zawodowe określone w art. 15a ustawy z dnia 15 lipca 2011 r.
+o zawodach pielęgniarki i położnej (Dz. U. z 2020 r. poz. 562, 567 i 945), lub
+3) położna podstawowej opieki zdrowotnej, o której mowa w art. 8 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, uprawniona do samodzielnego doboru sposobów leczenia ran w ramach świadczeń leczniczych udzielanych bez zlecenia lekarskiego.
+1) porada dla kobiet z chorobami ginekologicznymi i onkologii ginekologicznej lub
+2) dobór sposobów leczenia ran w ramach świadczeń leczniczych udzielanych przez położną samodzielnie bez zlecenia lekarskiego, lub
+3) ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pieZakres lęgniarki i położnej, w tym wystawianie na nie recepty, z wyłączeniem leświadczenia ków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, lub
+4) wystawianie recepty na leki zlecone przez lekarza, w ramach kontynuacji leczenia, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, lub
+5) ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie zlecenia albo recepty, lub
+6) wystawianie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla świadczeniobiorcy, lub
+7) wykonywanie oraz interpretacja badania KTG u kobiety ciężarnej.
+Dostępność Dostęp do badań laboratoryjnych wykonywanych w medycznym laboratorium badań lub diagnostycznym wpisanym do ewidencji Krajowej Rady Diagnostów Laboratoprocedur ryjnych.
+medycznych
+1. Dobór sposobów leczenia ran w ramach świadczeń leczniczych udzielanych przez położną samodzielnie bez zlecenia lekarskiego obejmuje:
+1) przeprowadzenie wywiadu;
+2) wykonanie podstawowych pomiarów życiowych i ich ocenę;
+3) wykonanie badania fizykalnego;
+4) przekazanie informacji o możliwości doboru sposobów leczenia ran;
+5) opatrzenie ran;
+6) wydanie informacji o zaleceniach położnej, w tym kierowanie do lekarza specjalisty w dziedzinie położnictwa i ginekologii.
+2. Porada dla kobiet z chorobami ginekologicznymi i onkologii ginekologiczStandard nej obejmuje wykonanie następujących czynności: i organizacja 1) przeprowadzenie badania przedmiotowego i podmiotowego;
+udzielania 2) przeprowadzenie edukacji świadczeniobiorcy, zgodnie z rozpoznanyświadczenia mi problemami zdrowotnymi, oraz wskazanie świadczeniobiorcy trybu dalszego postępowania, w tym informacji o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej lub lekarza specjalisty celem dalszej oceny stanu zdrowia;
+3) wydanie informacji o zaleceniach położnej.
+3. Ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie recepty, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, obejmuje:
+1) przeprowadzenie badania przedmiotowego i podmiotowego;
+2) ordynowanie leków zawierających substancje czynne, o których mowa w art. 15a ust. 8 pkt 1 lit. a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, i wystawienie recepty lub poinformowanie o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej celem dalszej oceny stanu zdrowia;
+3) wydanie informacji o zaleceniach położnej.
+4. Wystawianie recept na leki zlecone przez lekarza w ramach kontynuacji leczenia, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego obejmuje:
+1) przeprowadzenie wywiadu;
+2) wystawienie recepty na leki zlecone przez lekarza w ramach kontynuacji leczenia lub poinformowanie o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej celem dalszej oceny stanu zdrowia;
+3) wydanie informacji o zaleceniach położnej.
+5. Ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawianie na nie zlecenia albo recepty, obejmuje:
+1) przeprowadzenie badania przedmiotowego i podmiotowego;
+2) ordynowanie wyrobów medycznych, o których mowa w art. 15a ust. 8 pkt 1 lit. c ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym wystawienia na nie zlecenia albo recepty lub poinformowanie o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej celem dalszej oceny stanu zdrowia;
+3) wydanie informacji o zaleceniach położnej.
+6. Wystawienie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położne, w tym badań medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla świadczeniobiorcy, obejmuje:
+1) przeprowadzenie badania przedmiotowego i podmiotowego;
+2) wystawienie skierowania na wykonanie badań diagnostycznych, o których mowa w art. 15a ust. 8 pkt 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, w tym medycznej diagnostyki laboratoryjnej lub poinformowanie o konieczności zgłoszenia się do lekarza podstawowej opieki zdrowotnej celem dalszej oceny stanu zdrowia;
+3) wydanie informacji o zaleceniach położnej.
+7. Wykonywanie oraz interpretacja badania KTG u kobiet ciężarnych:
+1) przeprowadzenie wywiadu lub przeprowadzenie badania przedmiotowego i podmiotowego;
+2) wykonywanie badania KTG przez minimum 20 minut;
+3) ocena zapisu KTG;
+4) wydanie informacji o zaleceniach położnej.
+Miejsce 1) gabinet położnej podstawowej opieki zdrowotnej lub udzielania 2) miejsce pobytu świadczeniobiorcy.
+świadczeń Wyposażenie Zgodnie z wymaganiami określonymi w załączniku nr 3 w części III „Warunki w sprzęt, realizacji świadczeń gwarantowanych położnej podstawowej opieki zdrowotnej”, aparaturę ust. 4.
+medyczną i produkty lecznicze ”;
+4) w załączniku nr 4 w części III „Warunki realizacji świadczeń gwarantowanych pielęgniarki lub higienistki szkolnej” w ust. 4 w pkt 2 lit. a otrzymuje brzmienie: „a) zestaw przeciwwstrząsowy zawierający produkty lecznicze określone w przepisach wydanych na podstawie art. 68 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,”.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Zdrowia: wz. J. Szczurek-Żelazko
+

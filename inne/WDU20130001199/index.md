@@ -8,7 +8,7 @@ pos: 1199
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej
@@ -28,6 +28,11 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1199/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 7 grudnia 2012 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej (Dz. U. poz. 1456) wprowadza się następujące zmiany:
+
+- **1)** w art. 34 ust. 1 otrzymuje brzmienie: „1. W roku 2013 ze środków Krajowego Funduszu Drogowego, o którym mowa w art. 39 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2012 r. poz. 931, z późn. zm. ), mogą być finansowane remonty i przebudowy dróg krajowych realizowane przez Generalnego Dyrektora Dróg Krajowych i Autostrad, do łącznej wysokości 165 mln zł.”;
+- **2)** po art. 37 dodaje się art. 37a–37e w brzmieniu: „Art. 37a. 1. W roku 2013 nie stosuje się przepisu art. 7 ust. 1 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 67, poz. 570, z późn. zm. ).
+
+2. W roku 2013 na finansowanie potrzeb obronnych Rzeczypospolitej Polskiej przeznacza się z budżetu państwa kwotę w wysokości 28 252 277 tys. zł.
 
 **Art. 37b.** W roku 2013 nie stosuje się przepisu art. 94b ust. 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ).
 

@@ -8,7 +8,7 @@ pos: 11
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: W dniu 12 grudnia 1995 r. została przyjęta w Nowym Jorku na Konferencji PaństwStron Poprawka do artykułu 43 ustęp 2 Konwencji o prawach dziecka w następującym brzmieniu: Przekład Poprawka do artykułu 43 ustęp 2 Konwencji o prawach dziecka, przyjęta na Konferencji Państw-Stron dnia 12 grudnia 1995 r.

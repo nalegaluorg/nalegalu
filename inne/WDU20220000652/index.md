@@ -8,10 +8,10 @@ pos: 652
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 marca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 652 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 17 marca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/652/text.pdf) |
 
-Poz. 652 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 17 marca 2022 r.
 w sprawie formatu dokumentu zawierającego wyniki inwentaryzacji przyrodniczej oraz formatu raportu o oddziaływaniu przedsięwzięcia na środowisko Na podstawie art. 66 ust. 8 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r.
-poz. 2373 i 2389) zarządza się, co następuje: § 1. 1. Dokument zawierający wyniki inwentaryzacji przyrodniczej oraz raport o oddziaływaniu przedsięwzięcia na środowisko zapisuje się w części:
+poz. 2373 i 2389) zarządza się, co następuje:
+§ 1. 1. Dokument zawierający wyniki inwentaryzacji przyrodniczej oraz raport o oddziaływaniu przedsięwzięcia na środowisko zapisuje się w części:
 1) tekstowej tych dokumentów – w formacie PDF z możliwością przeszukiwania tekstu oraz w formacie RTF, DOCX, DOC albo ODT;
 2) tabelarycznej tych dokumentów – w formacie PDF z możliwością przeszukiwania tekstu oraz w formacie XML, XLSX, XLS albo ODS;
 3) graficznej i kartograficznej tych dokumentów – w formacie PDF.

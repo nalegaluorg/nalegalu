@@ -8,12 +8,12 @@ pos: 65
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 9 kwietnia 1968 r. o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych.
+# o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych
 
-*USTAWA z dnia 9 1968 dokonywaniu księgach wieczystych wpisów rzecz Skarbu Państwa oparciu międzynarodowe umowy uregulowaniu finansowych*
+*USTAWA z dnia 9 kwietnia 1968 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,34 +29,34 @@ source: "isap-pdf"
 
 **Art. 1.**
 
-1. Przepisy ustawy stosuje się do wpisów rzecz Skarbu Państwa księgach wieczystych tytułu własności nieruchomości obywateli państw obcych oraz uprawnień wynikających z wieczystego użytkowania lub z ustanowionych rzecz tych obywateli ograniczonych praw rzeczowych, które to nieruchomości i prawa przeszły rzecz Skarbu Państwa podstawie międzynarodowych umów uregulowaniu wzajemnych finansowych, zawartych z rządami tych państw przez Rząd Polski.
+1. Przepisy ustawy stosuje się do wpisów na rzecz Skarbu Państwa w księgach wieczystych tytułu własności nieruchomości obywateli państw obcych oraz uprawnień wynikających z wieczystego użytkowania lub z ustanowionych na rzecz tych obywateli ograniczonych praw rzeczowych, które to nieruchomości i prawa przeszły na rzecz Skarbu Państwa na podstawie międzynarodowych umów o uregulowaniu wzajemnych roszczeń finansowych, zawartych z rządami tych państw przez Rząd Polski.
 
 2. Przepisy ustawy stosuje się odpowiednio do zagranicznych osób prawnych.
 
 **Art. 2.**
 
-1. Wpis do księgi wieczystej Skarbu Państwa jako właściciela nieruchomości lub uprawnionego do korzystania z wieczystego użytkowania albo z ograniczonego prawa rzeczowego następuje podstawie decyzji Ministra Finansów , stwierdzającej przejście rzecz Skarbu Państwa nieruchomości lub prawa podstawie międzynarodowej umowy uregulowaniu wzajemnych finansowych.
+1. Wpis do księgi wieczystej Skarbu Państwa jako właściciela nieruchomości lub uprawnionego do korzystania z wieczystego użytkowania albo z ograniczonego prawa rzeczowego następuje na podstawie decyzji Ministra Finansów , stwierdzającej przejście na rzecz Skarbu Państwa nieruchomości lub prawa na podstawie międzynarodowej umowy o uregulowaniu wzajemnych roszczeń finansowych.
 
-2. Decyzja, której mowa ust. 1, jest ostateczna.
+2. Decyzja, o której mowa w ust. 1, jest ostateczna.
 
 **Art. 2a.**
 
-1. Minister Finansów prowadzi postępowanie administracyjne sprawie stwierdzenia przejścia rzecz Skarbu Państwa nieruchomości lub prawa podstawie międzynarodowej umowy uregulowaniu wzajemnych finansowych wniosek organu reprezentującego Skarb Państwa sprawach gospodarowania nieruchomościami właściwego ze względu położenie nieruchomości albo z urzędu.
+1. Minister Finansów prowadzi postępowanie administracyjne w sprawie stwierdzenia przejścia na rzecz Skarbu Państwa nieruchomości lub prawa na podstawie międzynarodowej umowy o uregulowaniu wzajemnych roszczeń finansowych na wniosek organu reprezentującego Skarb Państwa w sprawach gospodarowania nieruchomościami właściwego ze względu na położenie nieruchomości albo z urzędu.
 
-2. Stroną postępowania administracyjnego, którym mowa ust. 1, jest organ reprezentujący Skarb Państwa sprawach gospodarowania nieruchomościami właściwy ze względu położenie nieruchomości.
+2. Stroną postępowania administracyjnego, o którym mowa w ust. 1, jest organ reprezentujący Skarb Państwa w sprawach gospodarowania nieruchomościami właściwy ze względu na położenie nieruchomości.
 
-3. Postępowanie administracyjne, którym mowa ust. 1, umarza się, jeżeli brak jest podstaw do stwierdzenia przejścia rzecz Skarbu Państwa nieruchomości lub prawa podstawie międzynarodowej umowy uregulowaniu wzajemnych finansowych.
+3. Postępowanie administracyjne, o którym mowa w ust. 1, umarza się, jeżeli brak jest podstaw do stwierdzenia przejścia na rzecz Skarbu Państwa nieruchomości lub prawa na podstawie międzynarodowej umowy o uregulowaniu wzajemnych roszczeń finansowych.
 
-**Art. 2b.** Na postanowienie, które zgodnie z ustawą z dnia 14 czerwca 1960 – Kodeks postępowania administracyjnego (Dz. U. z 2024 poz. 572 oraz z 2025 poz. 769) służy zażalenie, strona niezadowolona z postanowienia może wnieść skargę do sądu administracyjnego.
+**Art. 2b.** Na postanowienie, na które zgodnie z ustawą z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) służy zażalenie, strona niezadowolona z postanowienia może wnieść skargę do sądu administracyjnego.
 
-**Art. 3.** Minister Sprawiedliwości, porozumieniu z Ministrem Finansów , drodze rozporządzenia ustali tryb postępowania sprawie dokonywania księgach wieczystych wpisów wymienionych art. 1.
+**Art. 3.** Minister Sprawiedliwości, w porozumieniu z Ministrem Finansów , w drodze rozporządzenia ustali tryb postępowania w sprawie dokonywania w księgach wieczystych wpisów wymienionych w art. 1.
 
-**Art. 4.** Przepisy ustawy stosuje się odpowiednio do składania wniosków i dokumentów do zbioru dokumentów przypadku, gdy nieruchomość nie ma urządzonej księgi wieczystej albo gdy księga ta zaginęła lub uległa zniszczeniu.
+**Art. 4.** Przepisy ustawy stosuje się odpowiednio do składania wniosków i dokumentów do zbioru dokumentów w przypadku, gdy nieruchomość nie ma urządzonej księgi wieczystej albo gdy księga ta zaginęła lub uległa zniszczeniu.
 
 **Art. 5.**
 
-1. Ustawa wchodzi życie z dniem ogłoszenia .
+1. Ustawa wchodzi w życie z dniem ogłoszenia .
 
-2. Ustawę stosuje się również do nieruchomości oraz praw, które przeszły rzecz Skarbu Państwa podstawie międzynarodowych umów uregulowaniu wzajemnych finansowych, zawartych przed ogłoszeniem ustawy.
+2. Ustawę stosuje się również do nieruchomości oraz praw, które przeszły na rzecz Skarbu Państwa na podstawie międzynarodowych umów o uregulowaniu wzajemnych roszczeń finansowych, zawartych przed ogłoszeniem ustawy.
 
 

@@ -8,10 +8,10 @@ pos: 98
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 stycznia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 98 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 15 stycznia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/98/text.pdf) |
 
-Poz. 98 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 15 stycznia 2020 r.
-w sprawie wykazu wymaganych dokumentów załączanych do wniosku o udzielenie kredytu preferencyjnego oraz do wniosku o umorzenie części kredytu preferencyjnego Na podstawie art. 12 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901) zarządza się, co następuje: § 1. Do wniosku o udzielenie kredytu preferencyjnego armator, o którym mowa w art. 2 pkt 1 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym, zwanej dalej „ustawą”, załącza:
+w sprawie wykazu wymaganych dokumentów załączanych do wniosku o udzielenie kredytu preferencyjnego oraz do wniosku o umorzenie części kredytu preferencyjnego Na podstawie art. 12 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901) zarządza się, co następuje:
+§ 1. Do wniosku o udzielenie kredytu preferencyjnego armator, o którym mowa w art. 2 pkt 1 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym, zwanej dalej „ustawą”, załącza:
 1) aktualny odpis z Krajowego Rejestru Sądowego albo aktualne zaświadczenie o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
 2) zaświadczenie wydane przez naczelnika właściwego urzędu skarbowego o niezaleganiu w podatkach stanowiących dochód budżetu państwa, sporządzone nie wcześniej niż 30 dni przed dniem złożenia wniosku;
 3) zaświadczenie wydane przez właściwy oddział Zakładu Ubezpieczeń Społecznych o niezaleganiu przez armatora z zapłatą składek na ubezpieczenia społeczne i zdrowotne, sporządzone nie wcześniej niż 30 dni przed dniem złożenia wniosku;

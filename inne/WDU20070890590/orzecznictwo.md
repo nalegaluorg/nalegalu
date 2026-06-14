@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym*
 
 Łącznie: **21** orzeczeń
-(pominięto 49 orzeczeń sądów rejonowych)
+(pominięto 51 orzeczeń sądów rejonowych)
 
 ## art. 2 (2)
 

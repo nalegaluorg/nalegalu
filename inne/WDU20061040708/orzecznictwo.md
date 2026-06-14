@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym*
 
 Łącznie: **43** orzeczeń
-(pominięto 19 orzeczeń sądów rejonowych)
+(pominięto 20 orzeczeń sądów rejonowych)
 
 ## art. 1 (5)
 

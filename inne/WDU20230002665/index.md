@@ -8,10 +8,10 @@ pos: 2665
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 grudnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2665 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 7 grudnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2665/text.pdf) |
 
-Poz. 2665 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 7 grudnia 2023 r.
 zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r.
-poz. 1259 i 1273) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 1898 oraz z 2023 r. poz. 2171) wprowadza się następujące zmiany:
+poz. 1259 i 1273) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 1898 oraz z 2023 r. poz. 2171) wprowadza się następujące zmiany:
 1) w § 4 w ust. 1 oraz w § 7 wyrazy „31 grudnia 2025 r.” zastępuje się wyrazami „31 października 2025 r.”;
 2) w § 8:
 a) w ust. 1 po wyrazach „wynosi 500 000 zł” dodaje się wyrazy „na ostatecznego odbiorcę wsparcia w okresie realizacji inwestycji, o której mowa w § 1”,

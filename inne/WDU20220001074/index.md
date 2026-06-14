@@ -8,10 +8,10 @@ pos: 1074
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 maja 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1074 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 12 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1074/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 12 kwietnia 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lutego 2018 r. w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków (Dz. U. poz. 472), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Infrastruktury z dnia 17 marca 2021 r. zmieniającym rozporządzenie w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków (Dz. U. poz. 520).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 17 marca 2021 r. zmieniającego rozporządzenie w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków (Dz. U. poz. 520), które stanowią: „§ 2. Wnioski o zatwierdzenie taryfy dla zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków sporządzone według wzoru określonego w przepisach dotychczasowych złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 27 lutego 2018 r.
-w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków Na podstawie art. 23 ust. 1, art. 25 i art. 27 ust. 2 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2020 r. poz. 2028) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków Na podstawie art. 23 ust. 1, art. 25 i art. 27 ust. 2 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2020 r. poz. 2028) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe sposoby określania taryf, w tym:
 a) kryteria ustalania niezbędnych przychodów,
 b) alokację kosztów na taryfowe grupy odbiorców usług,
@@ -39,13 +39,13 @@ c) kryteria różnicowania cen i stawek opłat;
 2) wzór wniosku o zatwierdzenie taryfy;
 3) warunki prowadzenia rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) cena za dostarczoną wodę wielkość wyrażoną w jednostkach pieniężnych, którą odbiorca usług jest obowiązany zapłacić przedsiębiorstwu wodociągowo-kanalizacyjnemu za 1 m dostarczonej wody; do ceny dolicza się podatek od towarów i usług w wysokości określonej odrębnymi przepisami;
-2) cena za odprowadzone ścieki wielkość wyrażoną w jednostkach pieniężnych, którą odbiorca usług jest obowiązany zapłacić przedsiębiorstwu wodociągowo-kanalizacyjnemu za 1 m odprowadzonych ścieków, w tym ścieków komunalnych lub ścieków przemysłowych; do ceny dolicza się podatek wymieniony w pkt 1;
-3) koszty gotowości do świadczenia usług koszty eksploatacji i utrzymania urządzeń wodociągowych lub urządzeń kanalizacyjnych, stanowiące nie więcej niż 15% całości tych kosztów, podzielone zgodnie z przyjętym współczynnikiem alokacji na taryfowe grupy odbiorców usług oraz liczbę odbiorców usług w danej grupie;
-4) niepodzielony zysk z lat ubiegłych część zysku netto, która nie została rozdysponowana na rzecz wspólników lub akcjonariuszy przedsiębiorstwa wodociągowo-kanalizacyjnego z tytułu dywidendy lub która nie została przekazana na kapitał zapasowy lub rezerwowy tego przedsiębiorstwa;
-5) okres obrachunkowy poprzedzający wprowadzenie nowej taryfy 36 kolejnych miesięcy obrachunkowych poprzedzających nie więcej niż o 120 dni dzień złożenia wniosku o zatwierdzenie taryfy;
-6) stawka opłaty abonamentowej wielkość wyrażoną w jednostkach pieniężnych na odbiorcę usług za okres rozliczeniowy, którą odbiorca usług jest obowiązany zapłacić przedsiębiorstwu wodociągowo-kanalizacyjnemu za utrzymanie w gotowości do świadczenia usług urządzeń wodociągowych lub urządzeń kanalizacyjnych, oraz jednostkę usługi odczytu wodomierza lub urządzenia pomiarowego i rozliczenia należności za ilość dostarczonej wody lub ilość odprowadzonych ścieków; do stawki opłaty abonamentowej dolicza się podatek wymieniony w pkt 1;
-7) subsydiowanie skrośne pokrywanie kosztów dotyczących jednego rodzaju prowadzonej przez przedsiębiorstwo wodociągowo-kanalizacyjne działalności gospodarczej lub jednej z taryfowych grup odbiorców usług przychodami pochodzącymi z innego rodzaju prowadzonej działalności gospodarczej lub od innej taryfowej grupy odbiorców usług.
+1) cena za dostarczoną wodę – wielkość wyrażoną w jednostkach pieniężnych, którą odbiorca usług jest obowiązany zapłacić przedsiębiorstwu wodociągowo-kanalizacyjnemu za 1 m dostarczonej wody; do ceny dolicza się podatek od towarów i usług w wysokości określonej odrębnymi przepisami;
+2) cena za odprowadzone ścieki – wielkość wyrażoną w jednostkach pieniężnych, którą odbiorca usług jest obowiązany zapłacić przedsiębiorstwu wodociągowo-kanalizacyjnemu za 1 m odprowadzonych ścieków, w tym ścieków komunalnych lub ścieków przemysłowych; do ceny dolicza się podatek wymieniony w pkt 1;
+3) koszty gotowości do świadczenia usług – koszty eksploatacji i utrzymania urządzeń wodociągowych lub urządzeń kanalizacyjnych, stanowiące nie więcej niż 15% całości tych kosztów, podzielone zgodnie z przyjętym współczynnikiem alokacji na taryfowe grupy odbiorców usług oraz liczbę odbiorców usług w danej grupie;
+4) niepodzielony zysk z lat ubiegłych – część zysku netto, która nie została rozdysponowana na rzecz wspólników lub akcjonariuszy przedsiębiorstwa wodociągowo-kanalizacyjnego z tytułu dywidendy lub która nie została przekazana na kapitał zapasowy lub rezerwowy tego przedsiębiorstwa;
+5) okres obrachunkowy poprzedzający wprowadzenie nowej taryfy – 36 kolejnych miesięcy obrachunkowych poprzedzających nie więcej niż o 120 dni dzień złożenia wniosku o zatwierdzenie taryfy;
+6) stawka opłaty abonamentowej – wielkość wyrażoną w jednostkach pieniężnych na odbiorcę usług za okres rozliczeniowy, którą odbiorca usług jest obowiązany zapłacić przedsiębiorstwu wodociągowo-kanalizacyjnemu za utrzymanie w gotowości do świadczenia usług urządzeń wodociągowych lub urządzeń kanalizacyjnych, oraz jednostkę usługi odczytu wodomierza lub urządzenia pomiarowego i rozliczenia należności za ilość dostarczonej wody lub ilość odprowadzonych ścieków; do stawki opłaty abonamentowej dolicza się podatek wymieniony w pkt 1;
+7) subsydiowanie skrośne – pokrywanie kosztów dotyczących jednego rodzaju prowadzonej przez przedsiębiorstwo wodociągowo-kanalizacyjne działalności gospodarczej lub jednej z taryfowych grup odbiorców usług przychodami pochodzącymi z innego rodzaju prowadzonej działalności gospodarczej lub od innej taryfowej grupy odbiorców usług.
 § 3. Przedsiębiorstwo wodociągowo-kanalizacyjne:
 1) opracowuje taryfę w sposób zapewniający:
 a) uzyskanie niezbędnych przychodów,
@@ -75,7 +75,8 @@ c) w oparciu o przeciętne normy zużycia wody;
 4) stawkę opłaty abonamentowej w rozliczeniach za ilość odprowadzonych ścieków ustaloną:
 a) na podstawie zużycia wody określonego zgodnie ze wskazaniami wodomierza głównego lub w oparciu o przeciętne normy zużycia wody lub na podstawie umowy o zaopatrzenie w wodę lub odprowadzanie ścieków,
 b) zgodnie ze wskazaniami urządzenia pomiarowego;
-5) stawkę opłaty za przekroczenie warunków wprowadzania ścieków przemysłowych do urządzeń kanalizacyjnych, w zależności od wykorzystania przepustowości oczyszczalni, stosowanej technologii oczyszczania ścieków komunalnych oraz uzyskiwanego stopnia redukcji ładunku zanieczyszczeń i sposobu stosowania osadów ściekowych; do staw§ 6. 1. Przedsiębiorstwo wodociągowo-kanalizacyjne ustala niezbędne przychody na podstawie kosztów w okresie obrachunkowym poprzedzającym wprowadzenie nowej taryfy na potrzeby obliczenia cen i stawek opłat planowanych na 3 lata obowiązywania taryfy, uwzględniając w szczególności:
+5) stawkę opłaty za przekroczenie warunków wprowadzania ścieków przemysłowych do urządzeń kanalizacyjnych, w zależności od wykorzystania przepustowości oczyszczalni, stosowanej technologii oczyszczania ścieków komunalnych oraz uzyskiwanego stopnia redukcji ładunku zanieczyszczeń i sposobu stosowania osadów ściekowych; do stawki opłaty dolicza się podatek, o którym mowa w § 2 pkt 1.
+§ 6. 1. Przedsiębiorstwo wodociągowo-kanalizacyjne ustala niezbędne przychody na podstawie kosztów w okresie obrachunkowym poprzedzającym wprowadzenie nowej taryfy na potrzeby obliczenia cen i stawek opłat planowanych na 3 lata obowiązywania taryfy, uwzględniając w szczególności:
 1) koszty eksploatacji i utrzymania ponoszone w zakresie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków, w tym:
 a) amortyzację lub odpisy umorzeniowe ustalane zgodnie z przepisami o rachunkowości od wartości początkowej środków trwałych metodą liniową niezależnie od źródeł ich finansowania,
 b) opłaty za korzystanie ze środowiska,
@@ -97,9 +98,10 @@ c) opłaty za usługi wodne;
 1) ze środków własnych przedsiębiorstwa wodociągowo-kanalizacyjnego;
 2) kredytów lub pożyczek spłacanych przez przedsiębiorstwo wodociągowo-kanalizacyjne.
 6. Uwzględnienie w niezbędnych przychodach oraz cenach i stawkach opłat kosztów, o których mowa w ust. 1 pkt 2, powinno być dokonywane stopniowo i rozłożone w czasie.
-7. Przy ustalaniu nowej taryfy kwota kosztów, o których mowa w ust. 1, może zostać pomniejszona o niepodzielony zysk z lat ubiegłych. Niepodzielony zysk z lat ubiegłych z usług świadczonych z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków nie może zostać przeznaczony na finansowanie działalności przedsiębiorstwa wodociągowo-kanalizacyjnego wykraczającej poza zadania z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowa8. Jeżeli przy ustalaniu nowej taryfy kwota kosztów, o których mowa w ust. 1, nie zostanie pomniejszona o niepodzielony zysk z lat ubiegłych, niepodzielony zysk z lat ubiegłych z usług świadczonych z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków powinien zostać przeznaczony na inwestycje związane ze zbiorowym zaopatrzeniem w wodę lub zbiorowym odprowadzaniem ścieków w kolejnych latach lub na pokrycie kosztów zobowiązań finansowych, o których mowa w § 6 ust. 1 pkt 6.
+7. Przy ustalaniu nowej taryfy kwota kosztów, o których mowa w ust. 1, może zostać pomniejszona o niepodzielony zysk z lat ubiegłych. Niepodzielony zysk z lat ubiegłych z usług świadczonych z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków nie może zostać przeznaczony na finansowanie działalności przedsiębiorstwa wodociągowo-kanalizacyjnego wykraczającej poza zadania z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków.
+8. Jeżeli przy ustalaniu nowej taryfy kwota kosztów, o których mowa w ust. 1, nie zostanie pomniejszona o niepodzielony zysk z lat ubiegłych, niepodzielony zysk z lat ubiegłych z usług świadczonych z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków powinien zostać przeznaczony na inwestycje związane ze zbiorowym zaopatrzeniem w wodę lub zbiorowym odprowadzaniem ścieków w kolejnych latach lub na pokrycie kosztów zobowiązań finansowych, o których mowa w § 6 ust. 1 pkt 6.
 § 8. 1. Na podstawie kosztów, o których mowa w § 7 ust. 1, zaplanowanych zgodnie z § 7 ust. 2, ustala się niezbędne przychody jako sumę składników:
-1) iloczynu sumy kosztów wynagrodzeń oraz świadczeń na rzecz pracowników i średniorocznego wskaźnika przyrostu przeciętnego miesięcznego wynagrodzenia, ustalonego przez strony uprawnione do zawarcia zakładowego układu zbiorowego pracy, a w przypadku braku zawarcia takiego układu średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ustalonego w ustawie budżetowej lub Wieloletnim Planie Finansowym Państwa;
+1) iloczynu sumy kosztów wynagrodzeń oraz świadczeń na rzecz pracowników i średniorocznego wskaźnika przyrostu przeciętnego miesięcznego wynagrodzenia, ustalonego przez strony uprawnione do zawarcia zakładowego układu zbiorowego pracy, a w przypadku braku zawarcia takiego układu – średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ustalonego w ustawie budżetowej lub Wieloletnim Planie Finansowym Państwa;
 2) iloczynu sumy kosztów materiałów, usług transportowych i średniorocznego wskaźnika cen produkcji sprzedanej przemysłu;
 3) pozostałych kosztów eksploatacji i utrzymania według planowanych lub obowiązujących stawek na lata obowiązywania taryfy;
 4) planowanych lub wynikających z zawartej przez przedsiębiorstwo wodociągowo-kanalizacyjne umowy kosztów zakupionej wody lub kosztów wprowadzanych ścieków do urządzeń niebędących w posiadaniu przedsiębiorstwa wodociągowo-kanalizacyjnego;
@@ -120,9 +122,9 @@ c) opłaty za usługi wodne;
 5) wyposażenie w wodomierze i urządzenia pomiarowe;
 6) możliwość wyodrębniania kosztów dla ich właściwej alokacji.
 4. Na potrzeby alokacji kosztów na taryfowe grupy odbiorców usług metody podziału kosztów uwzględniają w szczególności określenie współczynników alokacji kosztów ustalonych:
-1) na podstawie udziałów poszczególnych taryfowych grup odbiorców usług w całkowitej ilości dostarczonej wody lub w całkowitej ilości odebranych ścieków w odniesieniu do kosztów, których wysokość dla poszczególnych taryfowych grup odbiorców usług jest wprost proporcjonalna do wielkości świadczonych usług dla tych grup;
-2) w oparciu o ewidencję księgową kosztów, sporządzoną zgodnie z przepisami o rachunkowości w odniesieniu do kosztów, których nie da się podzielić na poszczególne taryfowe grupy odbiorców usług w oparciu o wielkość świadczonych usług.
-5. Metody, o których mowa w ust. 4, mogą uwzględniać określenie współczynników alokacji kosztów ustalonych w oparciu o analizę kosztów w odniesieniu do kosztów zależnych od uwarunkowań technicznych świadczenia usług, w szczególności takich jak:
+1) na podstawie udziałów poszczególnych taryfowych grup odbiorców usług w całkowitej ilości dostarczonej wody lub w całkowitej ilości odebranych ścieków – w odniesieniu do kosztów, których wysokość dla poszczególnych taryfowych grup odbiorców usług jest wprost proporcjonalna do wielkości świadczonych usług dla tych grup;
+2) w oparciu o ewidencję księgową kosztów, sporządzoną zgodnie z przepisami o rachunkowości – w odniesieniu do kosztów, których nie da się podzielić na poszczególne taryfowe grupy odbiorców usług w oparciu o wielkość świadczonych usług.
+5. Metody, o których mowa w ust. 4, mogą uwzględniać określenie współczynników alokacji kosztów ustalonych w oparciu o analizę kosztów – w odniesieniu do kosztów zależnych od uwarunkowań technicznych świadczenia usług, w szczególności takich jak:
 1) wielkość ładunku zanieczyszczeń w przyjmowanych do odprowadzenia ściekach;
 2) wykorzystanie przepustowości urządzeń wodociągowych i urządzeń kanalizacyjnych.
 § 12. Na potrzeby alokacji kosztów system finansowo-księgowy przedsiębiorstwa wodociągowo-kanalizacyjnego powinien w szczególności umożliwiać podział na poszczególne rodzaje prowadzonej działalności i taryfowe grupy odbiorców usług oraz określać:
@@ -145,11 +147,11 @@ c) opłaty za usługi wodne;
 3) uwzględnienie, przy określaniu niezbędnych przychodów odpowiadających poszczególnym cenom i stawkom opłat, zróżnicowania kosztów eksploatacji i utrzymania odpowiednio do zużycia wody i odprowadzania ścieków przez odbiorców usług z poszczególnych taryfowych grup odbiorców usług oraz kosztów wynikających z nakładów inwestycyjnych.
 § 14. Przedsiębiorstwo wodociągowo-kanalizacyjne dokonuje wyboru struktury i rodzaju taryfy, uwzględniając w zależności od:
 1) przyjętego rodzaju taryfy dla poszczególnych taryfowych grup odbiorców usług:
-a) taryfę jednolitą zawierającą jednolite ceny usług i jednolite stawki opłat dla wszystkich taryfowych grup odbiorców usług, odrębne dla zaopatrzenia w wodę i dla odprowadzania ścieków,
-b) taryfę niejednolitą zawierającą różne dla poszczególnych taryfowych grup odbiorców usług ceny za dostarczoną wodę i ceny za odprowadzane ścieki lub różne dla poszczególnych taryfowych grup odbiorców usług stawki opłat;
+a) taryfę jednolitą – zawierającą jednolite ceny usług i jednolite stawki opłat dla wszystkich taryfowych grup odbiorców usług, odrębne dla zaopatrzenia w wodę i dla odprowadzania ścieków,
+b) taryfę niejednolitą – zawierającą różne dla poszczególnych taryfowych grup odbiorców usług ceny za dostarczoną wodę i ceny za odprowadzane ścieki lub różne dla poszczególnych taryfowych grup odbiorców usług stawki opłat;
 2) struktury taryfy:
-a) taryfę jednoczłonową zawierającą cenę odniesioną do 1 m dostarczanej wody lub 1 m odprowadzanych ścieków, bez stawki opłaty abonamentowej,
-b) taryfę wieloczłonową zawierającą ceny i stawki opłat, w tym stawkę opłaty abonamentowej;
+a) taryfę jednoczłonową – zawierającą cenę odniesioną do 1 m dostarczanej wody lub 1 m odprowadzanych ścieków, bez stawki opłaty abonamentowej,
+b) taryfę wieloczłonową – zawierającą ceny i stawki opłat, w tym stawkę opłaty abonamentowej;
 3) zróżnicowania cen wody w różnych przedziałach jej zużycia lub ścieków w różnych przedziałach ich wprowadzania:
 a) taryfę sezonową, charakteryzującą się wyższymi cenami wody lub ścieków w sezonie szczytowego zapotrzebowania na usługi wodociągowo-kanalizacyjne i niższymi cenami poza sezonem,
 b) taryfę progresywną, stosowaną przy ograniczonych możliwościach ujmowania wody lub oczyszczania ścieków przez przedsiębiorstwo wodociągowo-kanalizacyjne, w której ceny za wodę lub ścieki rosną wraz ze wzrostem ich ilości ponad przedział nie mniejszy, niż to wynika z przeciętnych norm zużycia wody.
@@ -162,8 +164,8 @@ b) taryfę progresywną, stosowaną przy ograniczonych możliwościach ujmowania
 2. Obliczenie cen i stawek opłat następuje przez podzielenie odpowiadających im planowanych niezbędnych przychodów przez planowaną ilość świadczonych usług.
 3. Planowaną ilość świadczonych usług oblicza się jako sumę zweryfikowanej ilości świadczonych usług w okresie 12 miesięcy poprzedzających okres wprowadzenia nowej taryfy oraz zmiany ilości świadczonych usług, w tym wynikającej w szczególności z planowanej realizacji wieloletniego planu rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych.
 § 16. 1. Należności za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków ustala się jako iloczyny cen i stawek opłat oraz odpowiadających im ilości świadczonych usług.
-2. Jeżeli taryfa zawiera stawkę opłaty abonamentowej, należności wynikające z wysokości tej stawki są regulowane
-3. Jeżeli przedsiębiorstwo wodociągowo-kanalizacyjne świadczy wyłącznie usługę odprowadzania ścieków oraz brak jest urządzenia pomiarowego, ilość odprowadzonych ścieków ustala się w oparciu o przeciętne normy zużycia wody, a w przypadku braku odniesienia w tych normach jako równą ilości ścieków określonej w umowie.
+2. Jeżeli taryfa zawiera stawkę opłaty abonamentowej, należności wynikające z wysokości tej stawki są regulowane niezależnie od tego, czy odbiorca usług pobierał wodę lub odprowadzał ścieki w okresie rozliczeniowym.
+3. Jeżeli przedsiębiorstwo wodociągowo-kanalizacyjne świadczy wyłącznie usługę odprowadzania ścieków oraz brak jest urządzenia pomiarowego, ilość odprowadzonych ścieków ustala się w oparciu o przeciętne normy zużycia wody, a w przypadku braku odniesienia w tych normach – jako równą ilości ścieków określonej w umowie.
 4. W rozliczeniach z osobami korzystającymi z lokali w budynku wielolokalowym oraz z właścicielem lub zarządcą tego budynku należności za dostarczoną wodę lub odprowadzone ścieki mogą być regulowane na podstawie prognozy ilości usług, które mają być świadczone przez przedsiębiorstwo wodociągowo-kanalizacyjne.
 5. Prognoza, o której mowa w ust. 4, wynika z umowy i jest ustalana w oparciu o przeciętne normy zużycia wody lub na podstawie średniego zużycia wody w ubiegłym okresie rozliczeniowym.
 § 17. 1. Odbiorca usług dokonuje zapłaty za dostarczoną wodę lub odprowadzone ścieki w terminie określonym w fakturze, który nie może być krótszy niż 14 dni od daty jej wysłania lub dostarczenia w inny sposób.
@@ -171,20 +173,19 @@ b) taryfę progresywną, stosowaną przy ograniczonych możliwościach ujmowania
 3. Rozliczenie ilości świadczonych przez przedsiębiorstwo wodociągowo-kanalizacyjne usług jest dokonywane na podstawie wskazań wodomierzy lub urządzenia pomiarowego lub na podstawie umowy, przynajmniej raz w roku oraz zawsze przy zmianie cen za wodę lub ścieki, których ilość nie jest ustalana w oparciu o przeciętne normy zużycia wody. Przepis ust. 1 stosuje się odpowiednio.
 4. Zgłoszenie przez odbiorcę usług zastrzeżeń do wysokości należności określonych w fakturze nie wstrzymuje jej zapłaty.
 5. W przypadku nadpłaty zalicza się ją na poczet przyszłych należności lub, na wniosek odbiorcy usług, zwraca się ją w terminie 14 dni od dnia złożenia wniosku w tej sprawie.
-§ 18. 1. W przypadku stwierdzenia nieprawidłowego działania wodomierza głównego ilość pobranej wody ustala się na podstawie średniego zużycia wody w okresie 3 miesięcy przed stwierdzeniem nieprawidłowego działania wodomierza, a gdy nie jest to możliwe na podstawie średniego zużycia wody w analogicznym okresie roku ubiegłego lub iloczynu średniomiesięcznego zużycia wody w roku ubiegłym i liczby miesięcy nieprawidłowego działania wodomierza.
+§ 18. 1. W przypadku stwierdzenia nieprawidłowego działania wodomierza głównego ilość pobranej wody ustala się na podstawie średniego zużycia wody w okresie 3 miesięcy przed stwierdzeniem nieprawidłowego działania wodomierza, a gdy nie jest to możliwe – na podstawie średniego zużycia wody w analogicznym okresie roku ubiegłego lub iloczynu średniomiesięcznego zużycia wody w roku ubiegłym i liczby miesięcy nieprawidłowego działania wodomierza.
 2. Przedsiębiorstwo wodociągowo-kanalizacyjne na wniosek odbiorcy usług występuje o sprawdzenie prawidłowości działania wodomierza głównego.
 3. W przypadku gdy sprawdzenie prawidłowości działania wodomierza nie potwierdza zgłoszonych przez odbiorcę usług zastrzeżeń, pokrywa on koszty sprawdzenia.
 § 19. Wzór wniosku o zatwierdzenie taryfy określa załącznik do rozporządzenia.
 § 20. Okres obrachunkowy poprzedzający wprowadzenie nowej taryfy dla wniosku o zatwierdzenie taryfy przekazanego przez przedsiębiorstwo wodociągowo-kanalizacyjne organowi regulacyjnemu wynosi w:
-1) 2018 r. 12 kolejnych miesięcy obrachunkowych poprzedzających nie więcej niż o 120 dni dzień złożenia wniosku;
-2) 2019 r. 24 kolejne miesiące obrachunkowe poprzedzające nie więcej niż o 120 dni dzień złożenia wniosku.
+1) 2018 r. – 12 kolejnych miesięcy obrachunkowych poprzedzających nie więcej niż o 120 dni dzień złożenia wniosku;
+2) 2019 r. – 24 kolejne miesiące obrachunkowe poprzedzające nie więcej niż o 120 dni dzień złożenia wniosku.
 § 21. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe, z uwzględnieniem przepisów art. 9 ustawy z dnia 27 października 2017 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (Dz. U. poz. 2180).
 § 22. Traci moc rozporządzenie Ministra Budownictwa z dnia 28 czerwca 2006 r. w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryf oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków (Dz. U. z 2017 r. poz. 1701).
 § 23. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-WZÓR Załącznik do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lutego 2018 r.
-WZÓR ……………………..… ………………………………… Dyrektor Regionalnego Zarządu Gospodarki Wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w …………………........
-WNIOSEK O ZATWIERDZENIE TARYFY DLA ZBIOROWEGO ZAOPATRZENIA W WODĘ I ZBIOROWEGO ODPROWADZANIA ŚCIEKÓW Przedsiębiorstwo wodociągowo-kanalizacyjne …………… prowadzące działalność na terenie gminy/gmin**……………………….. przedkłada wniosek o zatwierdzenie taryfy dla zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków na terenie gminy/gmin**……………………….., na terenie której/których** wyznaczono aglomerację / nie wyznaczono aglomeracji** w rozumieniu art. 86 ust. 3 pkt 1 ustawy z dnia 20 lipca 2017 r.
-Prawo wodne (Dz. U. z 2021 r. poz. 2233 i 2368 oraz z 2022 r. poz. 88, 258 i 855) uchwałą rady gminy o wyznaczeniu aglomeracji nr ………………….., zgodnie z art. 87 ust. 1–4 ustawy z dnia 20 lipca 2017 r. Prawo wodne, na okres 3 lat.
+Załącznik do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lutego 2018 r.
+WZÓR WZÓR ……………………..… ………………………………… Dyrektor Regionalnego Zarządu Gospodarki Wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w …………………........
+WNIOSEK O ZATWIERDZENIE TARYFY DLA ZBIOROWEGO ZAOPATRZENIA W WODĘ I ZBIOROWEGO ODPROWADZANIA ŚCIEKÓW Przedsiębiorstwo wodociągowo-kanalizacyjne …………… prowadzące działalność na terenie gminy/gmin**……………………….. przedkłada wniosek o zatwierdzenie taryfy dla zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków na terenie gminy/gmin**……………………….., na terenie której/których** wyznaczono aglomerację / nie wyznaczono aglomeracji** w rozumieniu art. 86 ust. 3 pkt 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233 i 2368 oraz z 2022 r. poz. 88, 258 i 855) uchwałą rady gminy o wyznaczeniu aglomeracji nr ………………….., zgodnie z art. 87 ust. 1–4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, na okres 3 lat.
 Kierujący przedsiębiorstwem wodociągowo-kanalizacyjnym: ………………………………….
 …………………………………………………………………………………………………..
 * Zgodnie z przepisami wydanymi na podstawie art. 27d ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2020 r. poz. 2028).
@@ -196,7 +197,7 @@ Załączniki:
 2) Uzasadnienie;
 3) Sprawozdania finansowe za ostatnie 3 lata obrotowe;
 4) Wieloletni plan rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych;
-5) Informacja o ilości zakupionej przez przedsiębiorstwo wodociągowo-kanalizacyjne wody i jej cenie lub informacja o ilości ścieków wprowadzonych do urządzeń niebędących w posiadaniu tego przedsiębiorstwa i cenie za ich wprowadzenie za ostatnie 3 lata obrotowe;
+5) Informacja o ilości zakupionej przez przedsiębiorstwo wodociągowo-kanalizacyjne wody i jej cenie lub informacja o ilości ścieków wprowadzonych do urządzeń niebędących w posiadaniu tego przedsiębiorstwa i cenie za ich wprowadzenie – za ostatnie 3 lata obrotowe;
 6) Porównanie cen i stawek opłat taryfy obowiązującej w dniu złożenia wniosku z cenami i stawkami opłat nowej taryfy dotyczącej zaopatrzenia w wodę (Tabela A);
 7) Porównanie cen i stawek opłat taryfy obowiązującej w dniu złożenia wniosku z cenami i stawkami opłat nowej taryfy dotyczącej odprowadzania ścieków (Tabela B);
 8) Ustalenie poziomu niezbędnych przychodów przedsiębiorstwa wodociągowo-kanalizacyjnego (Tabela C);
@@ -206,5 +207,5 @@ Załączniki:
 12) Zestawienie przychodów przedsiębiorstwa wodociągowo-kanalizacyjnego według taryfowych grup odbiorców usług, z uwzględnieniem wielkości zużycia wody oraz cen i stawek opłat za zaopatrzenie w wodę i odprowadzanie ścieków w okresie obowiązywania nowych taryf (Tabela G);
 13) Skutki finansowe zmiany cen i stawek opłat za zaopatrzenie w wodę i odprowadzanie ścieków (Tabela H);
 14) Analizy ekonomiczne związane z korzystaniem z wód (Tabela I).
-W W W W W M W M W W W W W W W W W W M W M W W W W W M W W W W W W W W W W W W W W W W W … … W W W W W W W W … … % % % % W W W W W M W … … W W W W W W W W W M W W W W W W W W W W W … … W W W M W W W W W W … … W … … W W … … W M W M W W … W W
+W W W W W W W W M W M W W M W W W W W W W W M W W W W W W W M W W W W W W W W W W W … … W W W W W W % % % % … W … W W W W W W W … W … M W W W W W W M W W W W W W W … W … W W W W W W W W W W W W W … M … W … … W … … W W W W W … W M W M W W W
 

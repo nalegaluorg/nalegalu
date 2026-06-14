@@ -8,7 +8,7 @@ pos: 70
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o komercjalizacji i prywatyzacji oraz ustawy o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
@@ -29,11 +29,19 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2:
+    - **a)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) poprzedniku – rozumie się przez to bezpośredniego poprzedniego pracodawcę uprawnionych pracowników, którego zespół składników majątkowych wszedł w skład komercjalizowanego przedsiębiorstwa państwowego lub przedsiębiorstwa państwowego sprywatyzowanego przez wniesienie do spółki,”,
+    - **b)** w pkt 5 lit. c i d otrzymują brzmienie: „c) osoby, które przepracowały co najmniej dziesięć lat w komercjalizowanym przedsiębiorstwie państwowym oraz jego poprzedniku albo w przedsiębiorstwie, które zostało sprywatyzowane przez wniesienie do spółki oraz jego poprzedniku, a rozwiązanie stosunku pracy nastąpiło wskutek przejścia na emeryturę lub rentę albo z przyczyn niedotyczących pracowników,
+    - **d)** osoby, które po przepracowaniu dziesięciu lat w przedsiębiorstwie państwowym podlegającym prywatyzacji oraz jego poprzedniku, zostały przejęte przez inne zakłady pracy w trybie art. 23 Kodeksu pracy,”;
+
+- **2)** po art. 2 dodaje się art. 2a-2d w brzmieniu: „Art. 2a. Przebieg procesów prywatyzacyjnych, prowadzonych na podstawie przepisów działu IV i V ustawy, jest jawny.
+
 **Art. 2b.**
 
 1. Z przebiegu procesu prywatyzacyjnego, o którym mowa w art. 2a, sporządza się kartę prywatyzacji, zawierającą co najmniej:
 
-- **1)** informacje o nabywcy: siedzibę, jeżeli nabywca jest osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, albo
+- **1)** informacje o nabywcy:
+    - **a)** nazwę lub firmę, pod którą działa, formę prawną oraz siedzibę, jeżeli nabywca jest osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, albo
     - **b)** imię, nazwisko oraz miejsce zamieszkania, jeżeli nabywca jest osobą fizyczną,
 
 - **2)** uzyskaną cenę,
@@ -53,12 +61,27 @@ source: "isap-pdf"
 
 **Art. 2d.** Umowy zawarte w trybie art. 33 ust. 1, 3 i 5 oraz art. 39 ust. 1 są jawne i podlegają udostępnianiu na zasadach określonych w przepisach o dostępie do informacji publicznej.”;
 
+- **3)** w art. 4a uchyla się ust. 3-9;
+- **4)** po art. 4a dodaje się art. 4b i 4c w brzmieniu: „Art. 4b. 1. Minister właściwy do spraw Skarbu Państwa, na wniosek organu wykonawczego jednostki samorządu terytorialnego, na obszarze której znajduje się siedziba spółki, w której Skarb Państwa posiada akcje, lub na wniosek organu wykonawczego związku jednostek samorządu terytorialnego, na obszarze którego mieści się siedziba spółki, może zbyć nieodpłatnie część lub wszystkie posiadane przez Skarb Państwa akcje tej spółki na rzecz tej jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego, o ile zostały spełnione łącznie następujące warunki:
+- **1)** przedmiot działalności spółki jest związany z realizacją zadań własnych tej jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego,
+- **2)** spółka wykonuje działalność gospodarczą na obszarze składającej wniosek jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego,
+- **3)** spółka nie jest wpisana na listę spółek o szczególnym znaczeniu dla gospodarki państwa lub inne listy spółek o znaczeniu państwowym, tworzone na podstawie przepisów odrębnych.
+
+2. Zbycie akcji, o którym mowa w ust. 1, nie jest zbyciem akcji na zasadach ogólnych. Do zbycia akcji nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm. ). Zbycie akcji jest jawne i następuje na podstawie umowy cywilnoprawnej.
+
+3. Uprawnieni pracownicy w spółce powstałej w wyniku komercjalizacji, której akcje zostały nieodpłatnie zbyte w trybie, o którym mowa w ust. 1, zachowują uprawnienia do nieodpłatnego nabycia akcji. Przepisy art. 36-38c stosuje się odpowiednio, przy czym kompetencje ministra właściwego do spraw Skarbu Państwa w zakresie zbywania akcji wykonuje organ wykonawczy jednostki samorządu terytorialnego lub organ wykonawczy związku jednostek samorządu terytorialnego.
+
+4. Do ustalenia momentu powstania prawa do nieodpłatnego nabycia akcji przez uprawnionych pracowników oraz rolników lub rybaków stosuje się odpowiednio art. 38 ust. 2.
+
+5. Przepisy, o których mowa w ust. 1 i 2, stosuje się odpowiednio do nieodpłatnego zbycia akcji posiadanych przez jednostkę samorządu terytorialnego lub związek jednostek samorządu terytorialnego na rzecz innej jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego, przy czym kompetencje ministra właściwego do spraw Skarbu Państwa w zakresie zbywania akcji wykonuje organ wykonawczy jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego.
+
 **Art. 4c.**
 
 1. W przypadku sprzedaży akcji, o których mowa w art. 4b ust. 1, część uzyskanych przychodów jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego przekazuje, w terminie 3 miesię cy od dnia uzyskania przychodów z tego tytułu, na wyodrębnione rachunki funduszy celowych, o których mowa w art. 56 ust. 1, w następującej wysokości:
 
 - **1)** 5 % przychodów ze sprzedaży akcji – na Fundusz Reprywatyzacji,
-- **2)** 15 % przychodów ze sprzedaży akcji – na Fundusz Restrukturyzacji Przedsiębiorców, Państwa,
+- **2)** 15 % przychodów ze sprzedaży akcji – na Fundusz Restrukturyzacji Przedsiębiorców,
+- **3)** 2 % przychodów ze sprzedaży akcji – na Fundusz Skarbu Państwa,
 - **4)** 2 % przychodów ze sprzedaży akcji – na Fundusz Nauki i Technologii Polskiej.
 
 2. Jeżeli jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego zbędzie akcje, o których mowa w art. 4b ust. 1, w drodze czynności prawnej innej niż sprzedaż, w terminie 3 miesięcy od dnia dokonania takiej czynności, przekazuje na wyodrębnione rachunki funduszy celowych, o których mowa w art. 56 ust. 1, kwotę stanowiącą równowartość:
@@ -82,7 +105,8 @@ source: "isap-pdf"
 - **3)** może zobowiązać spółkę, w której Skarb Państwa posiada większość głosów na walnym zgromadzeniu, do wprowadzenia w jej przedsiębiorstwie zmian wynikających z wymogów ochrony środowiska, a w szczególności wynikających z analizy, o której mowa w pkt 2 lit. b.”,
     - **b)** uchyla się ust. 3;
 
-- **6)** w art. 33: – pkt 3 otrzymuje brzmienie: „3) negocjacji podjętych na podstawie publicznego zaproszenia,”, – pkt 5 otrzymuje brzmienie: „5) aukcji ogłoszonej publicznie, jeżeli cena wywoławcza nie jest niższa od wartości księgowej akcji,”, – dodaje się pkt 6 w brzmieniu: „6) sprzedaży akcji na rynku regulowanym.”,
+- **6)** w art. 33:
+    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) negocjacji podjętych na podstawie publicznego zaproszenia,”, – pkt 5 otrzymuje brzmienie: „5) aukcji ogłoszonej publicznie, jeżeli cena wywoławcza nie jest niższa od wartości księgowej akcji,”, – dodaje się pkt 6 w brzmieniu: „6) sprzedaży akcji na rynku regulowanym.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb zbywania akcji oraz warunki, jakie powinny spełniać: oferta zbycia akcji, zaproszenie do składania ofert nabycia akcji oraz zaproszenie do negocjacji, które mogą dotyczyć zobowiązań inwestycyjnych, zobowiązań związanych z ochroną środowiska, a także zobowiązań związanych z ochroną interesów pracowników i innych osób związanych ze spółką, uwzględniając konieczność zapewnienia jawności i przejrzystości procesowi prywatyzacji.”,
     - **c)** dodaje się ust. 5 w brzmieniu: „5. Akcje należące do Skarbu Państwa mogą być zbywane w trybie innym niż określony w ust. 1, bez obowiązku występowania o zgodę Rady Ministrów, jeżeli:
 
@@ -92,7 +116,8 @@ source: "isap-pdf"
 - **8)** po art. 36 dodaje się art. 36a w brzmieniu: „Art. 36a. W przypadku obniżenia kapitału zakładowego spółki przed dniem zbycia przez Skarb Państwa pierwszych akcji na zasadach ogólnych, uprawnionym pracownikom oraz rolnikom lub rybakom przysługuje prawo do nieodpłatnego nabycia do 15 % akcji należących do Skarbu Państwa w kapitale zakładowym spółki po zarejestrowaniu obni żenia kapitału zakładowego. Do nieodpłatnego nabycia akcji stosuje się odpowiednio przepisy art. 36 i 37-38d.”;
 - **9)** w art. 37 w ust. 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 36 ust. 2 lub ust. 3 oraz ust. 4a stosuje się odpowiednio.”;
 - **10)** w art. 38:
-    - **a)** uchyla się ust. 1b, „2. Prawo do nieodpłatnego nabycia akcji powstaje po upływie 3 miesięcy od dnia zbycia przez Skarb Państwa pierwszych akcji na zasadach ogólnych i wygasa z upływem 24 miesięcy od dnia powstania tego prawa. Jeżeli zbycie akcji Skarbu Państwa na zasadach ogólnych nastąpiło w okresie, o którym mowa w ust. 1, prawo do nieodpłatnego nabycia akcji powstaje po 3 miesiącach od upływu terminu na złożenie oświadczenia o zamiarze nabycia akcji.”;
+    - **a)** uchyla się ust. 1b,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Prawo do nieodpłatnego nabycia akcji powstaje po upływie 3 miesięcy od dnia zbycia przez Skarb Państwa pierwszych akcji na zasadach ogólnych i wygasa z upływem 24 miesięcy od dnia powstania tego prawa. Jeżeli zbycie akcji Skarbu Państwa na zasadach ogólnych nastąpiło w okresie, o którym mowa w ust. 1, prawo do nieodpłatnego nabycia akcji powstaje po 3 miesiącach od upływu terminu na złożenie oświadczenia o zamiarze nabycia akcji.”;
 
 - **11)** art. 38b otrzymuje brzmienie: „Art. 38b. 1. W przypadku połączenia spółki powstałej w wyniku komercjalizacji z inną spółką, podziału tej spółki, jej przekształcenia lub wniesienia przez Skarb Państwa jej akcji do innej spółki, do nieodpłatnego nabywania akcji przez uprawnionych pracowników oraz rolników lub rybaków stosuje się odpowiednio przepisy art. 36-38, 38c i 38d.
 
@@ -106,7 +131,7 @@ source: "isap-pdf"
 
 3. W przypadku śmierci uprawnionego pracownika, rolnika lub rybaka, w okresie 6 miesięcy od dnia wpisania spółki do rejestru, spadkobierca może skorzystać z prawa do nieodpłatnego nabycia akcji, o ile złoży oświadczenie o zamiarze nieodpłatnego nabycia akcji, w terminie, o którym mowa w art. 38 ust. 1. Do złożenia oświadczenia o zamiarze nieodpłatnego nabycia akcji przez spadkobiercę osoby uprawnionej nie jest wymagane przedstawienie postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
 
-4. Spadkobierca uprawnionego pracownika, rolnika lub rybaka może nieodpłatnie nabyć akcje spółki pod warunkiem przedstawienia ku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza, w terminie, o którym mowa w art. 38 ust. 2.
+4. Spadkobierca uprawnionego pracownika, rolnika lub rybaka może nieodpłatnie nabyć akcje spółki pod warunkiem przedstawienia prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza, w terminie, o którym mowa w art. 38 ust. 2.
 
 5. W przypadku śmierci uprawnionego pracownika, rolnika lub rybaka termin do skorzystania z prawa do nieodpłatnego nabycia akcji, o którym mowa w art. 38 ust. 2, nie rozpoczyna biegu, a rozpoczęty ulega przerwaniu do czasu uzyskania prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku, a w przypadku przedstawienia zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza ulega przedłużeniu o miesiąc, o ile zostaną łącznie spełnione następujące warunki:
 
@@ -122,7 +147,7 @@ source: "isap-pdf"
 
 2. Zaoferowanie uprawnionym pracownikom oraz rolnikom lub rybakom możliwości wykonania ich prawa do nieodpłatnego nabycia akcji, o których mowa w ust. 1, powinno nastąpić niezwłocznie po zarejestrowaniu uchwały walnego zgromadzenia o podwyższeniu kapitału spółki, do której Skarb Państwa wniósł akcje spółki powstałej w wyniku komercjalizacji.
 
-3. Podstawą ustalenia liczby przysługujących uprawnionym pracownikom oraz rolnikom lub rybakom akcji spółki, do której wniesiono akcje spółki powstałej w wyniku komercjalizacji, jest wycena wartości aportu w postaci akcji spółki powstałej w wyniku komercjalizacji oraz ustalony na jej podstawie parytet służący określeniu liczby akcji obejmowanych przez Skarb Państwa w zamian za wnoszone akcje. Liczba akcji zbywanych nieodpłatnie uprawnionym pracownikom oraz rolnikom lub rybakom powinna być proporcjonalna do liczby akcji należnych im na podstawie akcji wnoszonych do liczby akcji objętych przez Skarb Państwa.
+3. Podstawą ustalenia liczby przysługujących uprawnionym pracownikom oraz rolnikom lub rybakom akcji spółki, do której wniesiono akcje spółki powstałej w wyniku komercjalizacji, jest wycena wartości aportu w postaci akcji spółki powstałej w wyniku komercjalizacji oraz ustalony na jej podstawie parytet służący określeniu liczby akcji obejmowanych przez Skarb Państwa w zamian za wnoszone akcje. Liczba akcji zbywanych nieodpłatnie uprawnionym pracownikom oraz rolnikom lub rybakom powinna być proporcjonalna do liczby akcji należnych im na podstawie art. 36 albo art. 37 i określa się ją na podstawie stosunku liczby akcji wnoszonych do liczby akcji objętych przez Skarb Państwa.
 
 4. Uprawnieni pracownicy oraz rolnicy lub rybacy mogą skorzystać z prawa do nieodpłatnego nabycia akcji spółki, do której Skarb Państwa wniósł akcje spółki powstałej w wyniku komercjalizacji, o ile w ciągu dwóch miesięcy od dnia złożenia im oferty, o której mowa w ust. 1, przez ministra właściwego do spraw Skarbu Państwa, złożą spółce powstałej w wyniku komercjalizacji pisemne oświadczenie o zamiarze wykonania przysługującego im prawa do nieodpłatnego nabycia akcji. Niezłożenie oświadczenia w powyższym terminie powoduje utratę prawa do wykonania prawa nieodpłatnego nabycia akcji w spółce, do której Skarb Państwa wniósł akcje spółki powstałej w wyniku komercjalizacji.
 
@@ -144,6 +169,34 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 7 września 2007 r. o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego (Dz. U. Nr 191, poz.
 
+- **1367)** wprowadza się następujące zmiany:
+- **1)** w art. 2: zm. ),
+    - **a)** pkt 2 otrzymuje brzmienie: „2) spółce konsolidowanej – rozumie się przez to:
+    - **a)** spółkę z udziałem Skarbu Państwa, której akcje zostały wniesione na pokrycie kapitału zakładowego spółki konsolidującej,
+    - **b)** spółkę powstałą w wyniku połączenia spółek, o których mowa w lit. a, w trybie art. 492 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn.
+    - **c)** spółkę powstałą w wyniku podziału spółki, o której mowa w lit. a, w trybie art. 529 § 1 pkt 1-3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;”,
+    - **b)** w pkt 3 lit. b otrzymuje brzmienie: „b) osoby, które jako uprawnieni pracownicy, w rozumieniu ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, albo jako ich spadkobiercy, nabyły od Skarbu Państwa akcje spółek konsolidowanych lub prawo do nieodpłatnego nabycia akcji spółek konsolidowanych lub prawo do ekwiwalentu;”,
+    - **c)** pkt 4 otrzymuje brzmienie: „4) uprawnionych akcjonariuszach – rozumie się przez to akcjonariuszy spółki konsolidowanej, którzy jako uprawnieni pracownicy, w rozumieniu ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, lub jako spadkobiercy tych osób, nabyli akcje spółki konsolidowanej nieodpłatnie od Skarbu Państwa, jak również pozostałych akcjonariuszy spółki konsolidowanej;”;
+
+- **2)** w art. 3 ust. 3 otrzymuje brzmienie: „3. Suma akcji spółki konsolidującej udostępnionych uprawnionym pracownikom spółek konsolidowanych i ich spadkobiercom oraz uprawnionym akcjonariuszom, na zasadach określonych w ustawie, nie może przekroczyć 15% liczby akcji objętych przez Skarb Państwa w spółce konsolidującej w zamian za wniesione akcje spółki konsolidowanej.”;
+- **3)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Prawo do nieodpłatnego nabycia akcji spółki konsolidującej powstaje po upływie sześciu miesięcy od dnia powstania prawa do nieodpłatnego nabycia akcji spółki konsolidowanej i wygasa z upływem dwunastu miesięcy od dnia jego powstania.
+
+2. Uprawnieni pracownicy mogą skorzystać z prawa do nieodpłatnego nabycia akcji spółki konsolidującej, o ile złożą pisemne oświadczenie o zamiarze nabycia akcji tej spółki. Termin do składania oświadczeń o zamiarze nieodpłatnego nabycia akcji spółki konsolidującej rozpoczyna się w dniu powstania prawa do nieodpłatnego nabycia akcji spółki konsolidowanej i kończy się z upływem trzech miesięcy od dnia jego rozpoczęcia. Niezłożenie oświadczenia w powyższym terminie powoduje utratę prawa do nieodpłatnego nabycia akcji spółki konsolidującej. Do złożenia oświadczenia o zamiarze nieodpłatnego nabycia akcji przez spadkobiercę uprawnionego pracownika nie jest wymagane przedstawienie postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
+
+3. W przypadku śmierci uprawnionego pracownika termin na zrealizowanie przez jego spadkobierców prawa do nieodpłatnego nabycia akcji spółki konsolidującej nie rozpoczyna biegu, a rozpoczęty ulega przerwaniu do czasu uzyskania prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku, albo w przypadku przedstawienia zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza ulega przedłużeniu o miesiąc. W razie przerwania biegu terminu, termin ten biegnie na nowo od dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku.
+
+4. Prawo do nieodpłatnego nabycia akcji przez spadkobierców może być zrealizowane, o ile wniosek o stwierdzenie nabycia spadku został złożony nie później niż w dniu, w którym upłynął termin wygaśnięcia prawa, o którym mowa w ust. 1, albo w tym terminie został przedstawiony zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
+
+5. Do nieodpłatnego udostępniania akcji spółki konsolidującej mają zastosowanie przepisy działu IV rozdziału 2, z wyłączeniem przepisów art. 38 ust. 1-4 oraz art. 38c ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji.
+
+6. Do nieodpłatnego udostępniania akcji spółki konsolidowanej mają zastosowanie przepisy działu IV rozdziału 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, z tym że do zamiany akcji spółki konsolidowanej na akcje spółki konsolidującej nie mają zastosowania przepisy art. 38 ust. 3 i 4.”;
+
+- **4)** w art. 5 ust. 1 otrzymuje brzmienie: „1. Uprawnieni pracownicy spółek konsolidowanych oraz uprawnieni akcjonariusze mogą skorzystać z prawa zamiany posiadanych akcji spółki konsolidowanej na akcje spółki konsolidującej, o ile złożą pisemne oświadczenie o zamiarze dokonania zamiany wszystkich posiadanych akcji. Przepis art. 38c ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji stosuje się odpowiednio.”;
+- **5)** w art. 6 ust. 1 otrzymuje brzmienie: „1. Uprawnieni pracownicy, którzy nabyli prawo do ekwiwalentu, mogą skorzystać z prawa do zamiany tego prawa na prawo do nieodpłatnego nabycia akcji spółki konsolidującej, o ile złożą pisemne oświadczenie o zamiarze dokonania tej zamiany. Termin do składania oświadczeń o zamiarze dokonania tej zamiany rozpoczyna się w dniu powstania prawa do ekwiwalentu i kończy się z upływem trzech miesięcy od dnia jego rozpoczęcia. Niezłożenie oświadczenia w powyższym terminie powoduje utratę prawa do zamiany.”;
+- **6)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Akcjonariusze spółek PGE-Energia spółka akcyjna z siedzibą w Lublinie oraz PGE Górnictwo i Energetyka spółka akcyjna z siedzibą w Łodzi, którzy nabyli akcje tych spółek na zasadach określonych w niniejszej ustawie, stają się akcjonariuszami spółki PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą w Lublinie w wyniku połączenia spółki PGE-Energia spółka akcyjna z siedzibą w Lublinie oraz PGE Górnictwo i Energetyka spółka akcyjna z siedzibą w Łodzi ze spółką PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą w Lublinie, w trybie art. 492 § 1 pkt 1 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych, przez przeniesienie całego majątku spółek PGE-Energia spółka akcyjna z siedzibą w Lublinie oraz PGE Górnictwo i Energetyka spółka akcyjna z siedzibą w Łodzi na spółkę PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą w Lublinie.
+
+2. Plan połączenia uwzględni spadkobierców, o których mowa w art. 4 i 5. Wydanie akcji spadkobiercom spółki przejmującej nastąpi na zasadach określonych w art. 38c ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji.”.
+
 **Art. 3.**
 
 1. W spółkach, w których przed dniem wejścia w życie niniejszej ustawy powstało prawo do nieodpłatnego nabycia akcji, a Skarb Państwa zbył pierwsze akcje na rzecz uprawnionych pracowników, do realizacji uprawnień do nieodpłatnego nabycia akcji stosuje się przepisy dotychczasowe.
@@ -154,7 +207,9 @@ source: "isap-pdf"
 
 **Art. 4.**
 
-1. Przepisy art. 38c ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji stosuje się odpowiednio do zbywania spadkobiercom osób uprawnionych akcji spółek, jeżeli ich prawo do nieodpłatnego nabycia akcji wygasło wskutek upływu terminu, o którym mowa w art. 38 ust. 2 tej ustawy w dotychczasowym brzmieniu, w okresie 40 miesięcy przed dniem wejścia w życie niniejszej ustawy. nego nabycia akcji w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+1. Przepisy art. 38c ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji stosuje się odpowiednio do zbywania spadkobiercom osób uprawnionych akcji spółek, jeżeli ich prawo do nieodpłatnego nabycia akcji wygasło wskutek upływu terminu, o którym mowa w art. 38 ust. 2 tej ustawy w dotychczasowym brzmieniu, w okresie 40 miesięcy przed dniem wejścia w życie niniejszej ustawy.
+
+2. Spadkobiercy, o których mowa w ust. 1, mogą skorzystać z prawa do nieodpłatnego nabycia akcji w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 5.**
 

@@ -8,10 +8,10 @@ pos: 1316
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11331166 Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwca 2023 r. (Dz. U. poz. ….) Załącznik nr 1 WZÓR LEGITYMACJI POSIADACZA BRONI Okładka dokumentu Wyklejka dokumentu Strona pierwsza Strona pierwsza z naklejką Strona druga Strona trzecia Strona czwarta Strona piąta Strona szósta Strona siódma Strona ósma Strona dziewiąta Strona dziesiąta Strona jedenasta Strona dwunasta Strona trzynasta Strona czternasta Strona piętnasta Załącznik nr 2 WZÓR ZAŚWIADCZENIA UPRAWNIAJĄCEGO DO NABYCIA BRONI I. Informacje ogólne o dokumencie.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1316/text.pdf) |
 
-11331166 Załącznik nr 1 WZÓR LEGITYMACJI POSIADACZA BRONI Okładka dokumentu Wyklejka dokumentu Strona pierwsza Strona pierwsza z naklejką Strona druga Strona trzecia Strona czwarta Strona piąta Strona szósta Strona siódma Strona ósma Strona dziewiąta Strona dziesiąta Strona jedenasta Strona dwunasta Strona trzynasta Strona czternasta Strona piętnasta I. Informacje ogólne o dokumencie.
 Dokument formatu A5, jednostronny, personalizowany z wykorzystaniem drukarki atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
 II. Zabezpieczenia dokumentu.
 1. Zabezpieczenia w podłożu:
@@ -39,7 +38,9 @@ c) oznaczenie indywidualne wykonane techniką typografii,
 d) mikrodruki,
 e) element wykonany farbą irydyscentną,
 f) element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym.
-WZÓR LEGITYMACJI OSOBY DOPUSZCZONEJ DO POSIADANIA BRONI Okładka dokumentu Wyklejka dokumentu Strona pierwsza Strona pierwsza z naklejką Strona druga Strona trzecia Strona czwarta Strona piąta Strona szósta Strona siódma Strona ósma I. Informacje ogólne o dokumencie.
+
+## Załącznik nr 3 — WZÓR LEGITYMACJI OSOBY DOPUSZCZONEJ DO POSIADANIA BRONI Okładka dokumentu Wyklejka dokumentu Strona pierwsza Strona pierwsza z naklejką Strona druga Strona trzecia Strona czwarta Strona piąta Strona szósta Strona siódma Strona ósma I. Informacje ogólne o dokumencie.
+
 Dokument formatu 125 mm × 88 mm, książeczkowy ze stroną personalizacyjną w postaci naklejki. Fotografia i dane personalne nanoszone z wykorzystaniem drukarki atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
 Do personalizacji dokumentu wykorzystuje się fotografię o wymiarach 35 mm × 45 mm, wykonaną zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 października 2021 r. w sprawie wzoru dowodu osobistego, jego wydawania i odbioru oraz utraty, uszkodzenia, unieważnienia i zwrotu (Dz. U. poz. 1865).
 II. Zabezpieczenia dokumentu.
@@ -79,7 +80,9 @@ a) zabezpieczona nić introligatorska aktywna w promieniowaniu ultrafioletowym,
 b) okładka moletowana,
 c) na okładce naniesione elementy wykonane techniką foliodruku,
 d) klej uniemożliwiający bezśladowe odklejenie naklejki z danymi personalnymi od podłoża.
-WZÓR ŚWIADECTWA BRONI Awers dokumentu Rewers dokumentu I. Informacje ogólne o dokumencie.
+
+## Załącznik nr 4 — WZÓR ŚWIADECTWA BRONI Awers dokumentu Rewers dokumentu I. Informacje ogólne o dokumencie.
+
 Dokument formatu A7, dwustronny, personalizowany z wykorzystaniem drukarki atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
 II. Zabezpieczenia dokumentu.
 1. Zabezpieczenia w podłożu:
@@ -102,7 +105,9 @@ d) element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym.
 4. Inne zabezpieczenia:
 a) dane broni i podmiotu ją posiadającego nanoszone techniką druku atramentowego,
 b) oznaczenie indywidualne wykonane techniką typografii przy zastosowaniu farby aktywnej w promieniowaniu ultrafioletowym, nanoszone przez wytwórcę na etapie produkcji blankietu.
-WZÓR KARTY REJESTRACYJNEJ BRONI Okładka dokumentu Wyklejka dokumentu Strona pierwsza Strona pierwsza z naklejką Strona druga Strona trzecia Strona czwarta Strona piąta Strona szósta Strona siódma Strona ósma I. Informacje ogólne o dokumencie.
+
+## Załącznik nr 5 — WZÓR KARTY REJESTRACYJNEJ BRONI Okładka dokumentu Wyklejka dokumentu Strona pierwsza Strona pierwsza z naklejką Strona druga Strona trzecia Strona czwarta Strona piąta Strona szósta Strona siódma Strona ósma I. Informacje ogólne o dokumencie.
+
 Dokument formatu 125 mm × 88 mm, książeczkowy ze stroną personalizacyjną w postaci naklejki. Fotografia i dane personalne nanoszone z wykorzystaniem drukarki atramentowej lub innej równoważnej, której środek kryjący będzie zapewniał trwałą integrację z podłożem.
 Do personalizacji dokumentu wykorzystuje się fotografię o wymiarach 35 mm × 45 mm, wykonaną zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 października 2021 r. w sprawie wzoru dowodu osobistego, jego wydawania i odbioru oraz utraty, uszkodzenia, unieważnienia i zwrotu (Dz. U. poz. 1865).
 II. Zabezpieczenia dokumentu.

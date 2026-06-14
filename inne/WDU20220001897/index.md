@@ -8,10 +8,10 @@ pos: 1897
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 września 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1897 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 31 sierpnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1897/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 31 sierpnia 2022 r.
 w sprawie funkcjonowania okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich Na podstawie art. 344 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy sposób funkcjonowania i organizacji okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich;
 2) sposób dokumentowania pobytu nieletnich w ośrodkach, zakładach i schroniskach, o których mowa w pkt 1;
 3) szczegółowy sposób zapewnienia bezpieczeństwa w ośrodkach, zakładach i schroniskach, o których mowa w pkt 1.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) odkosach rozumie się przez to kraty metalowe lub pręty metalowe połączone drutem ostrzowym lub kolczastym, instalowane na murach bądź przed otworami okiennymi;
-2) ośrodku rozumie się przez to okręgowy ośrodek wychowawczy;
-3) schronisku rozumie się przez to schronisko dla nieletnich;
-4) stanowisku ochrony rozumie się przez to miejsce, odcinek lub rejon, powierzone pracownikowi ośrodka, zakładu lub schroniska, celem realizacji zadań związanych z ochroną;
-5) terenie ośrodka, zakładu lub schroniska rozumie się przez to teren, który ogranicza zewnętrzna linia ogrodzenia ochronnego lub inne oznaczenie granic ośrodka, zakładu lub schroniska;
-6) ustawie rozumie się przez to ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich;
-7) zabezpieczeniach techniczno-ochronnych rozumie się przez to zabezpieczenia mechaniczne, elektryczne, elektroniczne lub budowlane stosowane w systemie ochrony ośrodka, zakładu lub schroniska;
-8) zakładzie rozumie się przez to zakład poprawczy;
-9) zmianie rozumie się przez to grupę pracowników powołaną do wykonywania w jednym czasie zadań z zakresu ochrony ośrodka, zakładu lub schroniska.
+1) odkosach – rozumie się przez to kraty metalowe lub pręty metalowe połączone drutem ostrzowym lub kolczastym, instalowane na murach bądź przed otworami okiennymi;
+2) ośrodku – rozumie się przez to okręgowy ośrodek wychowawczy;
+3) schronisku – rozumie się przez to schronisko dla nieletnich;
+4) stanowisku ochrony – rozumie się przez to miejsce, odcinek lub rejon, powierzone pracownikowi ośrodka, zakładu lub schroniska, celem realizacji zadań związanych z ochroną;
+5) terenie ośrodka, zakładu lub schroniska – rozumie się przez to teren, który ogranicza zewnętrzna linia ogrodzenia ochronnego lub inne oznaczenie granic ośrodka, zakładu lub schroniska;
+6) ustawie – rozumie się przez to ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich;
+7) zabezpieczeniach techniczno-ochronnych – rozumie się przez to zabezpieczenia mechaniczne, elektryczne, elektroniczne lub budowlane stosowane w systemie ochrony ośrodka, zakładu lub schroniska;
+8) zakładzie – rozumie się przez to zakład poprawczy;
+9) zmianie – rozumie się przez to grupę pracowników powołaną do wykonywania w jednym czasie zadań z zakresu ochrony ośrodka, zakładu lub schroniska.
+§ 3. W ośrodkach:
 1) kształcenie ogólne i zawodowe oraz zatrudnianie prowadzi się na terenie ośrodka lub poza ośrodkiem, z uwzględnieniem postaw, potrzeb, uzdolnień i zainteresowań nieletnich;
 2) praktyczna nauka zawodu nieletnich i kształcenie ustawiczne może odbywać się poza ośrodkiem;
 3) zajęcia w czasie wolnym od nauki i pracy prowadzi się na terenie ośrodka lub poza ośrodkiem.
@@ -96,7 +97,7 @@ Przepis ust. 2 i 3 stosuje się odpowiednio.
 5) pomieszczenia do udzielania świadczeń zdrowotnych;
 6) pomieszczenia do prowadzenia zajęć psychologiczno-pedagogicznych;
 7) izbę chorych;
-8) w ośrodku, o którym mowa w art. 135 ust. 1 ustawy pomieszczenia przeznaczone na dom dla matki i dziecka;
+8) w ośrodku, o którym mowa w art. 135 ust. 1 ustawy – pomieszczenia przeznaczone na dom dla matki i dziecka;
 9) tereny i urządzenia do zajęć rekreacyjnych i sportowych.
 3. Organizację i funkcjonowanie szkół i warsztatów szkolnych określają odrębne przepisy.
 4. Organizację i funkcjonowanie internatu, zespołu pomocy psychologiczno-pedagogicznej i innych działów realizujących zadania ośrodka określa regulamin.
@@ -134,8 +135,9 @@ Przepis ust. 2 i 3 stosuje się odpowiednio.
 13) protokoły posiedzeń rady ośrodka.
 3. Sposób prowadzenia dokumentacji pobytu nieletnich w ośrodku określa załącznik do rozporządzenia.
 4. Dokumentacja pobytu nieletnich w ośrodku może być prowadzona przy wykorzystaniu systemów informatycznych.
-5.Dokumentację przebiegu nauczania nieletnich prowadzi się i przechowuje zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn.
+5.Dokumentację przebiegu nauczania nieletnich prowadzi się i przechowuje zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn.
 zm. ).
+§20. W zakładach otwartych:
 1) kształcenie ogólne i zawodowe oraz zatrudnianie prowadzi się na terenie zakładu lub poza zakładem, z uwzględnieniem postaw, potrzeb, uzdolnień i zainteresowań nieletnich;
 2) praktyczna nauka zawodu nieletnich i kształcenie ustawiczne może odbywać się poza zakładem;
 3) zajęcia w czasie wolnym od nauki i pracy prowadzi się na terenie zakładu lub poza zakładem.
@@ -225,7 +227,7 @@ Przepis ust. 2 i 3 stosuje się odpowiednio.
 8) izby adaptacyjne;
 9) izby izolacyjne;
 10) pomieszczenia przeznaczone na hostele poza zakładem lub w zakładzie;
-11) w zakładzie, o którym mowa w art. 135 ust. 1 ustawy pomieszczenia przeznaczone na dom dla matki i dziecka;
+11) w zakładzie, o którym mowa w art. 135 ust. 1 ustawy – pomieszczenia przeznaczone na dom dla matki i dziecka;
 12) tereny i urządzenia do zajęć rekreacyjnych i sportowych.
 3. Organizację i funkcjonowanie szkół i warsztatów szkolnych określają odrębne przepisy.
 4. Organizację i funkcjonowanie internatu, zespołu diagnostyczno-korekcyjnego i innych działów realizujących zadania zakładu określa regulamin.
@@ -264,7 +266,8 @@ Przepis ust. 2 i 3 stosuje się odpowiednio.
 14) protokoły posiedzeń rady zakładu.
 3. Sposób prowadzenia dokumentacji pobytu nieletnich w zakładach określa załącznik do rozporządzenia.
 4. Dokumentacja pobytu nieletnich w zakładzie może być prowadzona przy wykorzystaniu systemów informatycznych.
-5. Dokumentację przebiegu nauczania nieletnich prowadzi się i przechowuje zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+5. Dokumentację przebiegu nauczania nieletnich prowadzi się i przechowuje zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+§ 44. 1. Kształcenie ogólne i zawodowe, praktyczna nauka zawodu i kształcenie ustawiczne, zatrudnianie oraz zajęcia w czasie wolnym od nauki i pracy prowadzi się na terenie schroniska.
 2. W szczególnie uzasadnionych przypadkach kształcenie ogólne i zawodowe, praktyczna nauka zawodu i kształcenie ustawiczne, zatrudnianie oraz zajęcia w czasie wolnym od nauki i pracy mogą odbywać się poza schroniskiem za zgodą organu prowadzącego postępowanie.
 § 45. W schroniskach realizuje się system wychowawczy ze szczególnym uwzględnieniem działań diagnostycznych oraz zabezpieczających nieletniego do potrzeb postępowania sądowego.
 § 46. Praca wychowawcza w schronisku zwykłym jest ukierunkowana na uzyskanie wszechstronnej diagnozy nieletniego, wskazanie kierunków oddziaływania oraz rozpoczęcie procesu jego resocjalizacji.
@@ -279,8 +282,9 @@ Przepis ust. 2 i 3 stosuje się odpowiednio.
 2) szkoła albo szkoły i warsztaty szkolne;
 3) zespół diagnostyczny.
 § 50. Do funkcjonowania i organizacji schronisk § 32–36, § 37 ust. 2–4 i § 38–43 stosuje się odpowiednio.
+§ 51. W systemie ochrony ośrodka, zakładu lub schroniska można stosować:
 1) zabezpieczenia techniczno-ochronne, w szczególności:
-a) linię zewnętrzną ogrodzenia ochronnego wykonaną z materiału pełnego, którą może stanowić również ściana budynku, albo wykonaną z materiałów tworzących ogrodzenie ażurowe wyposażoną w zabezpieczenia utrudniające jej pokonanie,
+a) linię zewnętrzną ogrodzenia ochronnego wykonaną z materiału pełnego, którą może stanowić również ściana budynku, albo wykonaną z materiałów tworzących ogrodzenie ażurowe – wyposażoną w zabezpieczenia utrudniające jej pokonanie,
 b) bramy, drzwi, kraty, przesłony i siatki,
 c) zamki i blokady do bram, drzwi i krat,
 d) agregat prądotwórczy lub inne zastępcze źródła energii elektrycznej i oświetlenia,
@@ -320,12 +324,12 @@ c) środki alarmowania.
 3) okna budynków mogą być wyposażone w zabezpieczenia techniczno-ochronne;
 4) budynki i budowle oraz pomieszczenia w nich się znajdujące mogą pozostawać otwarte przez całą dobę.
 § 56. Pracownicy ochrony pełnią służbę w zmianach.
-§ 57. 1. W pełnym systemie ochrony zmiana liczy nie mniej niż trzech pracowników ochrony, a w ograniczonym systemie ochrony i w ośrodku nie mniej niż dwóch pracowników ochrony.
+§ 57. 1. W pełnym systemie ochrony zmiana liczy nie mniej niż trzech pracowników ochrony, a w ograniczonym systemie ochrony i w ośrodku – nie mniej niż dwóch pracowników ochrony.
 2. W uproszczonym systemie ochrony czynności w zakresie ochrony może pełnić jeden pracownik ochrony.
 3. W przypadku, o którym mowa w ust. 1, dyrektor ośrodka, zakładu lub schroniska może określić, w drodze instrukcji, odstępstwa w zakresie liczby pracowników na zmianie, jeżeli jest to uzasadnione organizacją ośrodka, zakładu lub schroniska, a także w sytuacji wystąpienia następujących zdarzeń:
-1) sytuacji kryzysowych naturalnych, cywilizacyjno-gospodarczych i społeczno-politycznych;
+1) sytuacji kryzysowych – naturalnych, cywilizacyjno-gospodarczych i społeczno-politycznych;
 2) związanych z warunkami architektonicznymi, ze stanem urządzeń technicznych;
-3) sytuacji związanych ze stanem kadrowym placówki (urlop, okres świąteczny i wakacyjny), uruchomieniem posterunku stałego przy izbie adaptacyjnej w przypadku umieszczenia w niej nieletniego, wypadku losowego;
+3) sytuacji związanych ze stanem kadrowym placówki – (urlop, okres świąteczny i wakacyjny), uruchomieniem posterunku stałego przy izbie adaptacyjnej w przypadku umieszczenia w niej nieletniego, wypadku losowego;
 4) stanem osobowym wychowanków;
 5) wydarzenia nadzwyczajnego w placówce.
 § 58. 1. W pełnym systemie ochrony sypialnie nieletnich w porze nocnej otwierane są w obecności dwóch pracowników.
@@ -406,7 +410,7 @@ c) środki alarmowania.
 2) znajomość wzorów legitymacji służbowych oraz dokumentów uprawniających nieletnich do opuszczenia terenu zakładu lub schroniska;
 3) dokładne sprawdzanie dokumentów oraz tożsamości osób uprawnionych do wejścia na teren zakładu lub schroniska i do wyjścia z terenu zakładu lub schroniska;
 4) kontrolowanie przedmiotów wnoszonych na teren zakładu lub schroniska i wynoszonych z terenu zakładu lub schroniska oraz deponowania tych przedmiotów;
-5) kontrolowanie pojazdów wjeżdżających na teren zakładu lub schroniska i z niego wyjeżdżających oraz ich ładunków w obecności zainteresowanej osoby;
+5) kontrolowanie pojazdów wjeżdżających na teren zakładu lub schroniska i z niego wyjeżdżających oraz ich ładunków – w obecności zainteresowanej osoby;
 6) zawiadamianie dyrektora zakładu lub schroniska o znalezionych w trakcie kontroli przedmiotach, których nieletni nie może posiadać w zakładzie lub schronisku, oraz w przypadkach, o których mowa w art. 354 ust. 1 zdanie drugie ustawy, i ich zabezpieczenie do chwili przybycia dyrektora;
 7) kontrolowanie ruchu nieletnich w rejonie stanowiska ochrony;
 8) prowadzenie dokumentacji znajdującej się na stanowisku ochrony;
@@ -430,39 +434,41 @@ c) środki alarmowania.
 2) rozpoznawanie istnienia struktur podkultury w ośrodku, zakładzie lub schronisku i udziału w niej nieletnich;
 3) rozpoznawanie atmosfery i nastrojów wśród nieletnich oraz ich zamiarów godzących w bezpieczeństwo ośrodka, zakładu lub schroniska.
 3.Jeżeli w wyniku czynności zapobiegawczych pracownik zauważy zachowania nieletnich zagrażające bezpieczeństwu ośrodka, zakładu lub schroniska, informuje o tym dyrektora ośrodka, zakładu lub schroniska.
-Minister Sprawiedliwości: wz. M. Woś SPOSÓB PROWADZENIA DOKUMENTACJI POBYTU NIELETNICH W OŚRODKU, ZAKŁADZIE I SCHRONISKU § 1. 1. Księgę ewidencji nieletnich prowadzi się chronologicznie według daty przyjęcia nieletniego do ośrodka, zakładu lub schroniska.
-2. Do księgi ewidencji wpisuje się: imię i nazwisko nieletniego przyjętego do ośrodka, zakładu lub schroniska, datę i miejsce urodzenia, imiona i nazwiska rodziców oraz ich adres zamieszkania, imiona i nazwiska oraz adresy opiekunów prawnych, nazwę organu, do którego dyspozycji nieletni pozostaje, adres dotychczasowego miejsca pobytu stałego (zameldowania), a jeżeli nie ma on stałego zameldowania, odnotowuje się, skąd przybył, datę przyjęcia do ośrodka, zakładu lub schroniska oraz datę i przyczynę skreślenia z ewidencji, nazwę i adres ośrodka, zakładu lub schroniska, do którego nieletni został przeniesiony, adres rodziców (opiekunów), którym został oddany, adres i miejsce pracy jeżeli nieletni został usamodzielniony.
+§70. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Sprawiedliwości: wz. M. Woś SPOSÓB PROWADZENIA DOKUMENTACJI POBYTU NIELETNICH W OŚRODKU, ZAKŁADZIE I SCHRONISKU
+§ 1. 1. Księgę ewidencji nieletnich prowadzi się chronologicznie według daty przyjęcia nieletniego do ośrodka, zakładu lub schroniska.
+2. Do księgi ewidencji wpisuje się: imię i nazwisko nieletniego przyjętego do ośrodka, zakładu lub schroniska, datę i miejsce urodzenia, imiona i nazwiska rodziców oraz ich adres zamieszkania, imiona i nazwiska oraz adresy opiekunów prawnych, nazwę organu, do którego dyspozycji nieletni pozostaje, adres dotychczasowego miejsca pobytu stałego (zameldowania), a jeżeli nie ma on stałego zameldowania, odnotowuje się, skąd przybył, datę przyjęcia do ośrodka, zakładu lub schroniska oraz datę i przyczynę skreślenia z ewidencji, nazwę i adres ośrodka, zakładu lub schroniska, do którego nieletni został przeniesiony, adres rodziców (opiekunów), którym został oddany, adres i miejsce pracy – jeżeli nieletni został usamodzielniony.
 § 2. Akta osobowe nieletniego w ośrodku, zakładzie i schronisku składają się z dwóch części, które obejmują:
-1) w części A dokumenty związane z przyjęciem nieletniego do ośrodka, zakładu lub schroniska: skierowanie, nakaz przyjęcia, orzeczenia sądu, potwierdzenia o zapoznaniu się nieletniego z prawami i obowiązkami oraz zasadami pobytu w ośrodku, zakładzie lub schronisku oraz dokumenty związane ze zwolnieniem nieletniego z ośrodka, zakładu lub schroniska, a ponadto: korespondencję zewnętrzną ośrodka, zakładu lub schroniska w sprawach nieletnich oraz zatrzymaną na podstawie art. 116 ust. 3 ustawy, wnioski o udzielenie nagrody, wnioski o zastosowanie środka dyscyplinarnego, skargi i wnioski nieletniego kierowane do dyrektora ośrodka, zakładu lub schroniska;
-2) w części B dokumenty dotyczące procesu resocjalizacji nieletniego podczas pobytu w ośrodku, zakładzie lub schronisku, w szczególności kopię opinii psychologiczno-pedagogicznej, opinii diagnostycznej, indywidualny plan resocjalizacji, indywidualny program oddziaływań wychowawczych, resocjalizacyjnych i terapeutycznych, arkusz spostrzeżeń.
+1) w części A – dokumenty związane z przyjęciem nieletniego do ośrodka, zakładu lub schroniska: skierowanie, nakaz przyjęcia, orzeczenia sądu, potwierdzenia o zapoznaniu się nieletniego z prawami i obowiązkami oraz zasadami pobytu w ośrodku, zakładzie lub schronisku oraz dokumenty związane ze zwolnieniem nieletniego z ośrodka, zakładu lub schroniska, a ponadto: korespondencję zewnętrzną ośrodka, zakładu lub schroniska w sprawach nieletnich oraz zatrzymaną na podstawie art. 116 ust. 3 ustawy, wnioski o udzielenie nagrody, wnioski o zastosowanie środka dyscyplinarnego, skargi i wnioski nieletniego kierowane do dyrektora ośrodka, zakładu lub schroniska;
+2) w części B – dokumenty dotyczące procesu resocjalizacji nieletniego podczas pobytu w ośrodku, zakładzie lub schronisku, w szczególności kopię opinii psychologiczno-pedagogicznej, opinii diagnostycznej, indywidualny plan resocjalizacji, indywidualny program oddziaływań wychowawczych, resocjalizacyjnych i terapeutycznych, arkusz spostrzeżeń.
 § 3. 1. Ośrodek, zakład i schronisko prowadzi karty wyposażenia dla nieletnich korzystających z zaopatrzenia w odzież i inne wyposażenie.
 2. Kartę wyposażenia prowadzi osoba wyznaczona przez dyrektora ośrodka, zakładu lub schroniska. Do karty wpisuje się imię i nazwisko nieletniego, datę urodzenia, bieliznę, odzież, obuwie i inne wyposażenie będące własnością nieletniego w chwili przybycia do ośrodka, zakładu lub schroniska i otrzymane w czasie pobytu.
 § 4. Księga ewidencji nieletnich umieszczonych w izbie adaptacyjnej zawiera: imię i nazwisko nieletniego, datę i godzinę umieszczenia, przyczynę umieszczenia, imię i nazwisko osoby podejmującej decyzję o umieszczeniu, uwagi i spostrzeżenia osób sprawujących opiekę nad nieletnim w czasie jego pobytu w izbie oraz datę i godzinę zwolnienia z izby.
 § 5. Księga ewidencji nagród i środków dyscyplinarnych zawiera: imię i nazwisko nieletniego, datę, rodzaj nagrody lub środka dyscyplinarnego, czas trwania nagrody lub środka dyscyplinarnego.
-§ 6. 1. Księga ewidencji przepustek i urlopów w ośrodku i zakładzie zawiera: imię i nazwisko nieletniego, datę i godzinę opuszczenia ośrodka lub zakładu, datę i godzinę przybycia do ośrodka lub zakładu, a jeżeli się spóźnił przyczynę spóźnienia i uwagi.
-2. Księga ewidencji przepustek w schronisku zawiera: imię i nazwisko nieletniego, datę i godzinę opuszczenia schroniska, datę i godzinę przybycia do schroniska, a jeżeli się spóźnił przyczynę spóźnienia i uwagi.
-§ 7. Księga ewidencji czasowego opuszczenia ośrodka, zakładu lub schroniska, o którym mowa w art. 189 ust. 1 pkt 3, art. 252 ust. 1 pkt 3 i art. 299 ust. 1 pkt 3 ustawy, zawiera: imię i nazwisko nieletniego, datę i godzinę opuszczenia ośrodka, zakładu lub schroniska, datę i godzinę przybycia do ośrodka, zakładu lub schroniska, a jeżeli się spóźnił przyczynę spóźnienia i uwagi.
+§ 6. 1. Księga ewidencji przepustek i urlopów w ośrodku i zakładzie zawiera: imię i nazwisko nieletniego, datę i godzinę opuszczenia ośrodka lub zakładu, datę i godzinę przybycia do ośrodka lub zakładu, a jeżeli się spóźnił – przyczynę spóźnienia i uwagi.
+2. Księga ewidencji przepustek w schronisku zawiera: imię i nazwisko nieletniego, datę i godzinę opuszczenia schroniska, datę i godzinę przybycia do schroniska, a jeżeli się spóźnił – przyczynę spóźnienia i uwagi.
+§ 7. Księga ewidencji czasowego opuszczenia ośrodka, zakładu lub schroniska, o którym mowa w art. 189 ust. 1 pkt 3, art. 252 ust. 1 pkt 3 i art. 299 ust. 1 pkt 3 ustawy, zawiera: imię i nazwisko nieletniego, datę i godzinę opuszczenia ośrodka, zakładu lub schroniska, datę i godzinę przybycia do ośrodka, zakładu lub schroniska, a jeżeli się spóźnił – przyczynę spóźnienia i uwagi.
 § 8. 1. Dla każdej grupy wychowawczej ośrodek, zakład i schronisko prowadzi dziennik zajęć wychowawczych, w którym odnotowuje się przebieg zajęć wychowawczych w danym roku.
-2. zajęć wychowawczych zakłada wychowawca grupy, opatrując kartę tytułową dziennika stemplem podłużnym ośrodka, zakładu lub schroniska, wpisując nazwę ośrodka, zakładu lub schroniska i oznaczenie grupy; kartę tytułową dziennika podpisuje dyrektor ośrodka, zakładu lub schroniska.
+2. Dziennik zajęć wychowawczych zakłada wychowawca grupy, opatrując kartę tytułową dziennika stemplem podłużnym ośrodka, zakładu lub schroniska, wpisując nazwę ośrodka, zakładu lub schroniska i oznaczenie grupy; kartę tytułową dziennika podpisuje dyrektor ośrodka, zakładu lub schroniska.
 3. Do dziennika zajęć wychowawczych wychowawcy grupy wpisują: listę nieletnich, datę i miejsce urodzenia, klasę, nazwisko i adres rodziców (opiekunów).
 4. W dzienniku zajęć wychowawczych odnotowuje się zajęcia powtarzające się okresowo, plan pracy resocjalizacyjnej, tygodniowe założenia wychowawcze i realizację planu, kontakty z rodziną nieletniego, zajęcia specjalistyczne oraz w kołach zainteresowań, a także przeprowadzone obserwacje z podaniem nazwy zajęć i osoby prowadzącej.
 § 9. 1. Księgę przebiegu służby nocnej zakłada kierownik internatu, opatrując kartę tytułową stemplem podłużnym i wpisując nazwę ośrodka, zakładu lub schroniska. Kartę tytułową podpisuje dyrektor ośrodka, zakładu lub schroniska.
 2. Wychowawca pełniący służbę nocną wpisuje czas pełnienia służby, imię i nazwisko pełniących służbę nocną, przebieg służby nocnej, częstotliwość przeprowadzonej kontroli grup wychowawczych, domu dla matki i dziecka oraz terenu obiektu, odnotowując uwagi i zaistniałe wydarzenia oraz wydane polecenia, jeżeli zachodzi taka potrzeba.
 § 10. Księga ewidencji wydarzeń nadzwyczajnych zawiera: imię i nazwisko nieletniego, datę i godzinę wydarzenia, rodzaj wydarzenia oraz miejsce jego wystąpienia, opis wydarzenia, pod czyją opieką przebywał nieletni. W przypadku ucieczki należy podać też datę i godzinę doprowadzenia (lub przybycia) nieletniego oraz informację, przez kogo został doprowadzony.
 § 11. Księga ewidencji użycia środków przymusu bezpośredniego składa się z trzech części, które obejmują:
-1) w części A imię i nazwisko nieletniego, datę i godzinę użycia środka przymusu bezpośredniego w postaci siły fizycznej, kaftana bezpieczeństwa, pasa obezwładniającego lub kasku zabezpieczającego, rodzaj użytego środka, imię i nazwisko osoby, która podjęła decyzję o użyciu środka;
-2) w części B księga ewidencji nieletnich umieszczonych w izbie izolacyjnej zawiera: imię i nazwisko nieletniego, datę i godzinę umieszczenia, przyczynę umieszczenia, imię i nazwisko osoby podejmującej decyzję o umieszczeniu, uwagi i spostrzeżenia osób sprawujących opiekę nad nieletnim w czasie jego pobytu w izbie oraz datę i godzinę zwolnienia z izby;
-3) w części C księga ewidencji prewencyjnego użycia środków przymusu bezpośredniego zawiera: imię i nazwisko nieletniego, datę i godzinę użycia środka, określenie celu, imię i nazwisko osoby, która podjęła decyzję o użyciu środka.
+1) w części A – imię i nazwisko nieletniego, datę i godzinę użycia środka przymusu bezpośredniego w postaci siły fizycznej, kaftana bezpieczeństwa, pasa obezwładniającego lub kasku zabezpieczającego, rodzaj użytego środka, imię i nazwisko osoby, która podjęła decyzję o użyciu środka;
+2) w części B – księga ewidencji nieletnich umieszczonych w izbie izolacyjnej – zawiera: imię i nazwisko nieletniego, datę i godzinę umieszczenia, przyczynę umieszczenia, imię i nazwisko osoby podejmującej decyzję o umieszczeniu, uwagi i spostrzeżenia osób sprawujących opiekę nad nieletnim w czasie jego pobytu w izbie oraz datę i godzinę zwolnienia z izby;
+3) w części C – księga ewidencji prewencyjnego użycia środków przymusu bezpośredniego – zawiera: imię i nazwisko nieletniego, datę i godzinę użycia środka, określenie celu, imię i nazwisko osoby, która podjęła decyzję o użyciu środka.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Funkcjonowanie i organizacja ośrodków § 3. W ośrodkach:
+#### Rozdział 2 Funkcjonowanie i organizacja ośrodków
 
-#### Rozdział 3 Funkcjonowanie i organizacja zakładów §20. W zakładach otwartych:
+#### Rozdział 3 Funkcjonowanie i organizacja zakładów
 
-#### Rozdział 4 Funkcjonowanie i organizacja schronisk § 44. 1. Kształcenie ogólne i zawodowe, praktyczna nauka zawodu i kształcenie ustawiczne, zatrudnianie oraz zajęcia w czasie wolnym od nauki i pracy prowadzi się na terenie schroniska.
+#### Rozdział 4 Funkcjonowanie i organizacja schronisk
 
-#### Rozdział 5 Środki zapewnienia bezpieczeństwa w ośrodkach, zakładach i schroniskach § 51. W systemie ochrony ośrodka, zakładu lub schroniska można stosować:
+#### Rozdział 5 Środki zapewnienia bezpieczeństwa w ośrodkach, zakładach i schroniskach
 
-#### Rozdział 6 Przepis końcowy §70. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+#### Rozdział 6 Przepis końcowy
 

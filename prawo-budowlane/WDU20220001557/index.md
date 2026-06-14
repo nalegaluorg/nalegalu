@@ -8,7 +8,7 @@ pos: 1557
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
@@ -28,6 +28,108 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001557) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1557/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 pkt 13 otrzymuje brzmienie: „13) dokumentacji budowy – należy przez to rozumieć pozwolenie na budowę lub zgłoszenie wraz z załączonym projektem budowlanym, dziennik budowy, protokoły odbiorów częściowych i końcowych, rysunki i opisy służące realizacji obiektu, dokumenty geodezyjne i książkę obmiarów;”;
+- **2)** w art. 5a w ust. 1 wyrazy „Kodeksu postępowania administracyjnego” zastępuje się wyrazami „ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301), zwanej dalej „Kodeksem postępowania administracyjnego” ”;
+- **3)** w art. 9 w ust. 5 wyrazy „w rozdziale 5a” zastępuje się wyrazami „w rozdziale 5b”;
+- **4)** w art. 12:
+    - **a)** po ust. 4e dodaje się ust. 4ea w brzmieniu: „4ea. W okresie stanu zagrożenia epidemicznego albo stanu epidemii właściwa izba samorządu zawodowego może odstąpić od wymogów, o których mowa w ust. 4e.”,
+    - **b)** po ust. 4i dodaje się ust. 4j w brzmieniu: „4j. Do okresu ważności pozytywnego wyniku części pisemnej egzaminu, o którym mowa w ust. 4i, nie wlicza się okresu trwania stanu zagrożenia epidemicznego albo stanu epidemii.”,
+    - **c)** po ust. 5f dodaje się ust. 5g–5i w brzmieniu: „5g. Dane identyfikujące uprawnienia budowlane, uznane kwalifikacje zawodowe oraz dane dotyczące osoby, która nabyła te uprawnienia lub kwalifikacje, podlegają wpisowi do centralnego rejestru osób posiadających uprawnienia budowlane.
+
+5h. Niezwłocznie po dniu, w którym decyzja o nadaniu uprawnień budowlanych stała się ostateczna, właściwa okręgowa komisja kwalifikacyjna izby samorządu zawodowego przekazuje Głównemu Inspektorowi Nadzoru Budowlanego dane, o których mowa w ust. 5g, za pomocą systemu Centralny Rejestr Osób Posiadających Uprawnienia Budowlane, zwanego dalej „systemem e-CRUB”, przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie art. 88a ust. 6.
+
+5i. W przypadku stwierdzenia nieprawidłowości danych, o których mowa w ust. 5g, przekazanych za pomocą systemu e-CRUB, Główny Inspektor Nadzoru Budowlanego wzywa właściwą okręgową komisję kwalifikacyjną izby samorządu zawodowego do zweryfikowania tych danych, wskazując stwierdzone nieprawidłowości.”,
+
+- **d)** ust. 7 otrzymuje brzmienie: „7. Podstawę do wykonywania samodzielnych funkcji technicznych w budownictwie stanowi wpis na listę członków właściwej izby samorządu zawodowego potwierdzony zaświadczeniem wydanym przez tę izbę z określonym w nim terminem ważności.”,
+- **e)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Wymogu w zakresie przedkładania zaświadczenia, o którym mowa w ust. 7, nie stosuje się w stosunku do osób wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane.”,
+- **f)** ust. 9 otrzymuje brzmienie: „9. Właściwa okręgowa rada izby samorządu zawodowego przekazuje niezwłocznie, za pomocą systemu e-CRUB, informacje o wpisie na listę członków właściwej izby samorządu zawodowego oraz o wykreśleniu z tej listy lub o zawieszeniu w prawach członka, w celu ujawnienia w centralnym rejestrze osób posiadających uprawnienia budowlane.”,
+- **g)** dodaje się ust. 10–17 w brzmieniu: „10. Niezwłocznie po dniu, w którym decyzja o uznaniu kwalifikacji zawodowych stała się ostateczna, właściwa Krajowa Rada izby samorządu zawodowego przekazuje Głównemu Inspektorowi Nadzoru Budowlanego dane, o których mowa w ust. 5g, za pomocą systemu e-CRUB i przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie art. 88a ust. 6.
+
+11. Osoba, która nabyła uprawnienia budowlane przed dniem 1 stycznia 1995 r. i jest członkiem izby samorządu zawodowego, może wystąpić do właściwej okręgowej komisji kwalifikacyjnej izby samorządu zawodowego z wnioskiem o przekazanie Głównemu Inspektorowi Nadzoru Budowlanego, za pomocą systemu e-CRUB, danych identyfikujących uprawnienia budowlane wraz z kopią tych uprawnień oraz danych dotyczących osoby, która nabyła te uprawnienia, w tym informacji o dotychczasowych wpisach na listę członków właściwej izby samorządu zawodowego oraz wykreśleniach z tej listy lub zawieszeniach w prawach członka, przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie art. 88a ust. 6.
+
+12. Wniosek, o którym mowa w ust. 11, zawiera:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** adres zamieszkania;
+- **3)** numer PESEL – w przypadku osób posiadających obywatelstwo polskie;
+- **4)** numer i serię dokumentu potwierdzającego tożsamość – w przypadku osób nieposiadających obywatelstwa polskiego;
+- **5)** dane identyfikujące uprawnienia budowlane.
+
+13. Do wniosku dołącza się oryginał uprawnień budowlanych nabytych przed dniem 1 stycznia 1995 r. albo ich odpis poświadczony za zgodność z oryginałem przez notariusza. Nie ma obowiązku dołączania oryginału oraz odpisu tych uprawnień, jeżeli izba samorządu zawodowego posiada już taki oryginał lub odpis.
+
+14. Właściwa okręgowa komisja kwalifikacyjna, po uzyskaniu od właściwej okręgowej rady informacji o dotychczasowych wpisach wnioskodawcy na listę członków właściwej izby samorządu zawodowego oraz wykreśleniach z tej listy lub zawieszeniach w prawach członka, przeprowadza weryfikację danych i informacji zawartych we wniosku wraz z dołączonymi dokumentami, o których mowa w ust. 13, w terminie 3 miesięcy od dnia złożenia wniosku, i w zależności od wyniku tej weryfikacji:
+
+- **1)** przekazuje dane i informacje, o których mowa w ust. 11, wraz z kopią uprawnień budowlanych, Głównemu Inspektorowi Nadzoru Budowlanego, za pomocą systemu e-CRUB;
+- **2)** wydaje decyzję o odmowie przekazania Głównemu Inspektorowi Nadzoru Budowlanego danych i informacji, o których mowa w ust. 11, oraz kopii uprawnień budowlanych; od decyzji przysługuje odwołanie do właściwej krajowej komisji kwalifikacyjnej izby samorządu zawodowego.
+
+15. Przekazanie Głównemu Inspektorowi Nadzoru Budowlanego danych i informacji, o których mowa w ust. 11, wraz z kopią uprawnień budowlanych, następuje bez przeprowadzenia weryfikacji danych i informacji zawartych we wniosku wraz z dołączonymi dokumentami, o których mowa w ust. 13, jeżeli przedmiotem wniosku są uprawnienia budowlane, które były podstawą wpisu na listę członków właściwej izby samorządu zawodowego. W takim przypadku ust. 13 nie stosuje się.
+
+16. W przypadku stwierdzenia nieprawidłowości danych lub informacji, o których mowa w ust. 11, przekazanych za pomocą systemu e-CRUB, Główny Inspektor Nadzoru Budowlanego wzywa izbę samorządu zawodowego do zweryfikowania tych danych lub informacji, wskazując stwierdzone nieprawidłowości.
+
+17. W zakresie nieuregulowanym w ustawie do postępowania w sprawie wniosku, o którym mowa w ust. 11, stosuje się przepisy Kodeksu postępowania administracyjnego.”;
+
+- **5)** w art. 30 w ust. 4d pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+- **6)** użyte w art. 30 w ust. 4f, w art. 30b w ust. 6, w art. 31 w ust. 1f, w art. 33 w ust. 2e, w art. 34 w ust. 5c, w art. 36a w ust. 1d, w art. 37a w ust. 1c, w art. 40 w ust. 7, w art. 41 w ust. 4d, w art. 45a w ust. 7, w art. 47 w ust. 2c, w art. 53a w ust. 5, w art. 57 w ust. 3c i w art. 71 w ust. 2d wyrazy „pod adresem elektronicznym określonym w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu” zastępuje się wyrazami „na portalu e-Budownictwo”;
+- **7)** w art. 30b w ust. 4 pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+- **8)** w art. 31 w ust. 1d pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+- **9)** w art. 33: poz. 1385), złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny; składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy(-ma) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;”,
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Pozwolenie na budowę obiektu budowlanego może nie obejmować przyłączy wymienionych w art. 29 ust. 1 pkt 23, które są wymagane dla takiego obiektu. Nie zwalnia to z obowiązków, o których mowa w art. 29 ust. 1 pkt 23, art. 29a i art. 57 ust. 1 pkt 4 lit. a.”,
+    - **b)** w ust. 2 pkt 10 otrzymuje brzmienie: „10) w przypadku obiektu budowlanego, w którym przewidywane jest wykorzystywanie ciepła na potrzeby ogrzewania lub podgrzewania ciepłej wody użytkowej – oświadczenie projektanta posiadającego uprawnienia budowlane w specjalności, o której mowa w art. 14 ust. 1 pkt 4 lit. b, dotyczące możliwości podłączenia projektowanego obiektu budowlanego do istniejącej sieci ciepłowniczej, zgodnie z warunkami określonymi w art. 7b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r.
+    - **c)** w ust. 2c pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+
+- **10)** w art. 34:
+    - **a)** po ust. 3d dodaje się ust. 3da w brzmieniu: „3da. Wymogu dołączenia kopii:
+
+- **1)** uprawnień budowlanych w odpowiedniej specjalności, o którym mowa w ust. 3d pkt 1 – nie stosuje się do uprawnień budowlanych wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane;
+- **2)** zaświadczenia, o którym mowa w ust. 3d pkt 2 – nie stosuje się do osób wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane.”,
+    - **b)** w ust. 4b zdanie pierwsze otrzymuje brzmienie: „W przypadku sporządzenia projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego w postaci elektronicznej zatwierdzenie polega na opatrzeniu projektów kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną organu zatwierdzającego projekt.”,
+    - **c)** w ust. 5a pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+
+- **11)** w art. 35 w ust. 1:
+    - **a)** w pkt 3: – uchyla się lit. a i b, – uchyla się lit. d,
+    - **b)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) dołączenie:
+    - **a)** wymaganych opinii, uzgodnień, pozwoleń i sprawdzeń,
+    - **b)** oświadczeń, o których mowa w art. 33 ust. 2 pkt 9 i 10;”,
+    - **c)** pkt 4 otrzymuje brzmienie: „4) posiadanie przez projektanta i projektanta sprawdzającego odpowiednich uprawnień budowlanych na podstawie:
+    - **a)** kopii dokumentów, o których mowa w art. 34 ust. 3d pkt 1 – w przypadku uprawnień niewpisanych do centralnego rejestru osób posiadających uprawnienia budowlane,
+    - **b)** danych w centralnym rejestrze osób posiadających uprawnienia budowlane – w przypadku uprawnień wpisanych do tego rejestru;”,
+    - **d)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) przynależność projektanta i projektanta sprawdzającego do właściwej izby samorządu zawodowego na podstawie:
+    - **a)** zaświadczenia, o którym mowa w art. 12 ust. 7 – w przypadku osób niewpisanych do centralnego rejestru osób posiadających uprawnienia budowlane,
+    - **b)** danych w centralnym rejestrze osób posiadających uprawnienia budowlane – w przypadku osób wpisanych do tego rejestru.”;
+
+- **12)** w art. 36a:
+    - **a)** w ust. 1b pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”,
+    - **b)** w ust. 5b w pkt 2 uchyla się lit. c,
+    - **c)** w ust. 6 zdanie pierwsze otrzymuje brzmienie: „Projektant dokonuje kwalifikacji zamierzonego odstąpienia od projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego lub innych warunków decyzji o pozwoleniu na budowę, a w przypadku uznania, że jest ono nieistotne, dołącza do dokumentacji budowy odpowiednie informacje (rysunek i opis) dotyczące tego odstąpienia.”;
+
+- **13)** w art. 37a w ust. 1a pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+- **14)** w art. 40 w ust. 5 w części wspólnej wyrazy „za pośrednictwem adresu elektronicznego, o którym mowa w ust. 7” zastępuje się wyrazami „za pośrednictwem portalu e-Budownictwo”;
+- **15)** w art. 41:
+    - **a)** po ust. 4a dodaje się ust. 4aa w brzmieniu: „4aa. Wymogu dołączenia kopii:
+
+- **1)** zaświadczeń, o którym mowa w ust. 4a pkt 1 – nie stosuje się do osób wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane;
+- **2)** uprawnień budowlanych w odpowiedniej specjalności, o którym mowa w ust. 4a pkt 1 – nie stosuje się do uprawnień budowlanych wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane.”,
+    - **b)** w ust. 4b pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+
+- **16)** w art. 42 w ust. 1:
+    - **a)** w pkt 2 lit. d otrzymuje brzmienie: „d) robót budowlanych objętych decyzją o legalizacji budowy, o której mowa w art. 49 ust. 4, w której nałożono obowiązek uzyskania pozwolenia na użytkowanie,”,
+    - **b)** w pkt 3 lit. b otrzymuje brzmienie: „b) robót budowlanych objętych decyzją o legalizacji budowy, o której mowa w art. 49 ust. 4, w której nałożono obowiązek uzyskania pozwolenia na użytkowanie,”;
+
+- **17)** art. 45 otrzymuje brzmienie: „Art. 45. W przypadku robót budowlanych wymagających ustanowienia kierownika budowy prowadzi się dziennik budowy zgodnie z przepisami rozdziału 5a.”;
+- **18)** w art. 45a:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Przed rozpoczęciem budowy lub rozbiórki kierownik budowy jest obowiązany:”, – w pkt 2 po wyrazie „technicznego” dodaje się wyrazy „albo projektu rozbiórki”,
+    - **b)** w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) rozbiórki niewymagającej uzyskania decyzji o pozwoleniu na rozbiórkę.”,
+    - **c)** w ust. 5 pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+
+- **19)** art. 46 otrzymuje brzmienie: „Art. 46. Kierownik budowy, a jeżeli jego ustanowienie nie jest wymagane – inwestor, przez okres wykonywania robót budowlanych:
+- **1)** przechowuje:
+    - **a)** dokumenty stanowiące podstawę wykonywania robót budowlanych,
+    - **b)** oświadczenia dotyczące wyrobów budowlanych jednostkowo zastosowanych w obiekcie budowlanym, o których mowa w art. 10 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych;
+
+- **2)** udostępnia dokumenty, o których mowa w pkt 1, upoważnionym pracownikom organów nadzoru budowlanego i innych organów uprawnionych do kontroli przestrzegania przepisów na terenie budowy.”;
+- **20)** w art. 47 w ust. 2a pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+- **21)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a Dziennik budowy
 
 **Art. 47a.**
 
@@ -121,6 +223,10 @@ source: "isap-pdf"
 
 **Art. 47i.** Jeżeli dziennik budowy jest prowadzony w postaci elektronicznej, w przypadku wydania decyzji o przeniesieniu:
 
+- **1)** decyzji o pozwoleniu na budowę,
+- **2)** decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4,
+- **3)** praw i obowiązków wynikających ze zgłoszenia, wobec którego organ nie wniósł sprzeciwu – organ właściwy do wydania dziennika budowy zapewnia nowemu inwestorowi dostęp do tego dziennika w systemie EDB oraz pozbawia dotychczasowego inwestora tego dostępu w terminie 3 dni roboczych od dnia, w którym decyzja o przeniesieniu stała się wykonalna.
+
 **Art. 47j.**
 
 1. Dziennik budowy prowadzony w postaci papierowej może się składać z tomów.
@@ -198,6 +304,18 @@ source: "isap-pdf"
 
 **Art. 47r.** W systemie EDB są przechowywane dane osobowe:
 
+- **1)** użytkowników kont:
+    - **a)** imię,
+    - **b)** nazwisko,
+    - **c)** e-mail,
+    - **d)** numer telefonu – jeżeli został wskazany przez użytkownika konta,
+    - **e)** numer PESEL – jeżeli został wskazany przez użytkownika konta lub w ramach uwierzytelnienia;
+
+- **2)** znajdujące się:
+    - **a)** we wpisach dokonanych w dziennikach budowy,
+    - **b)** w dokumentach załączonych do dzienników budowy,
+    - **c)** w dokumentach zapisanych na kontach użytkowników.
+
 **Art. 47s.**
 
 1. System EDB zapewnia dostęp do dziennika budowy prowadzonego w postaci elektronicznej przez okres prowadzenia robót budowlanych.
@@ -234,9 +352,49 @@ source: "isap-pdf"
 
 **Art. 47u.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy sposób wydawania i prowadzenia dziennika budowy w postaci papierowej i elektronicznej, w tym dokonywania wpisów,
+- **2)** format dziennika budowy w postaci papierowej,
+- **3)** szczegółowy sposób uwierzytelniania i autoryzacji w systemie EDB – mając na celu zapewnienie przejrzystości i chronologii prowadzenia wpisów w dziennikach budowy oraz zapewnienie bezpieczeństwa gromadzonych danych i możliwości dokonywania wpisów przez osoby do tego uprawnione.
+
 **Art. 47v.** Dziennik budowy w postaci papierowej wydaje się do dnia 31 grudnia 2029 r., z wyjątkiem dziennika budowy dotyczącego robót budowlanych na terenach zamkniętych ustalonych decyzją Ministra Obrony Narodowej.”;
 
+- **22)** dotychczasowy rozdział 5a oznacza się jako rozdział 5b;
+- **23)** w art. 49 ust. 5 otrzymuje brzmienie: „5. W przypadku budowy:
+- **1)** wymagającej decyzji o pozwoleniu na budowę lub
+- **2)** o której mowa w art. 29 ust. 1 pkt 1–3 – w decyzji, o której mowa w ust. 4, nakłada się obowiązek uzyskania decyzji o pozwoleniu na użytkowanie.”;
+- **24)** w art. 51:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Po upływie terminu lub na wniosek inwestora organ nadzoru budowlanego sprawdza wykonanie obowiązku, o którym mowa w ust. 1 pkt 3, i wydaje decyzję o:
+
+- **1)** zatwierdzeniu projektów, o których mowa w ust. 1 pkt 3, oraz
+- **2)** pozwoleniu na wznowienie robót budowlanych – jeżeli roboty budowlane nie zostały zakończone.”,
+    - **b)** po ust. 4b dodaje się ust. 4c w brzmieniu: „4c. W decyzji, o której mowa w ust. 4, nakłada się obowiązek uzyskania decyzji o pozwoleniu na użytkowanie.”,
+    - **c)** w ust. 6 wyrazy „Przepisów ust. 4 i 5 dotyczących” zastępuje się wyrazami „Przepisu ust. 4c dotyczącego”;
+
+- **25)** w art. 53a w ust. 3 pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+- **26)** dotychczasowy rozdział 5b oznacza się jako rozdział 5c;
+- **27)** w art. 57:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) oryginał dziennika budowy prowadzonego w postaci papierowej, a w przypadku prowadzenia dziennika budowy w postaci elektronicznej numer tego dziennika, o którym mowa w art. 47h ust. 2;”,
+    - **b)** w ust. 3a pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”,
+    - **c)** w ust. 8 wyrazy „ust. 1 pkt 1, 4 i 5” zastępuje się wyrazami „ust. 1 pkt 4 i 5, oraz dziennik budowy prowadzony w postaci papierowej, jeżeli dokumenty te były dołączone w oryginale do zawiadomienia o zakończeniu budowy obiektu budowlanego albo wniosku o udzielenie pozwolenia na użytkowanie”;
+
+- **28)** art. 60 otrzymuje brzmienie: „Art. 60. 1. Inwestor, oddając do użytkowania obiekt budowlany, przekazuje właścicielowi albo zarządcy obiektu dokumentację budowy i dokumentację powykonawczą. Przekazaniu podlegają również inne dokumenty i decyzje dotyczące obiektu, a także, w razie potrzeby, instrukcje obsługi i eksploatacji: obiektu, instalacji i urządzeń związanych z tym obiektem.
+
+2. Jeżeli w ramach dokumentacji budowy dziennik budowy był prowadzony w postaci elektronicznej, przekazaniu podlega:
+
+- **1)** wydruk tego dziennika z systemu EDB lub
+- **2)** nośnik danych zawierający dziennik budowy pobrany z systemu EDB.”;
+- **29)** po rozdziale 5c dodaje się rozdział 5d w brzmieniu: „Rozdział 5d Książka obiektu budowlanego
+
 **Art. 60a.** Książka obiektu budowlanego jest dokumentem przeznaczonym do dokonywania wpisów w zakresie:
+
+- **1)** informacji o obiekcie budowlanym;
+- **2)** imienia i nazwiska albo nazwy, adresu zamieszkania lub siedziby oraz e-maila właściciela lub zarządcy;
+- **3)** kontroli, o których mowa w art. 62 ust. 1;
+- **4)** ekspertyz i opinii technicznych dotyczących obiektu budowlanego oraz imion i nazwisk osób, przez które zostały sporządzone;
+- **5)** przeglądów technicznych, konserwacji oraz napraw urządzeń przeciwpożarowych, o których mowa w art. 4 ust. 1 pkt 3 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, oraz imion i nazwisk osób, które dokonały tych czynności;
+- **6)** robót budowlanych związanych z obiektem budowlanym, a wykonywanych po oddaniu do użytkowania;
+- **7)** katastrof budowlanych dotyczących obiektu budowlanego;
+- **8)** decyzji, postanowień, zaświadczeń i innych dokumentów wydanych przez organy administracji publicznej, dotyczących obiektu budowlanego.
 
 **Art. 60b.**
 
@@ -258,6 +416,10 @@ source: "isap-pdf"
 - **3)** dróg lub obiektów mostowych, dla których jest prowadzona książka drogi lub książka obiektu mostowego na podstawie przepisów o drogach publicznych.
 
 **Art. 60c.** Książkę obiektu budowlanego zakłada właściciel lub zarządca obiektu budowlanego w terminie 30 dni od dnia:
+
+- **1)** doręczenia decyzji o pozwoleniu na użytkowanie – w przypadku obiektu budowlanego, do którego użytkowania jest wymagana decyzja o pozwoleniu na użytkowanie;
+- **2)** upływu terminu na zgłoszenie, w drodze decyzji, przez organ nadzoru budowlanego sprzeciwu do zawiadomienia o zakończeniu budowy albo doręczenia zaświadczenia organu nadzoru budowlanego o braku podstaw do wniesienia sprzeciwu – w przypadku obiektu budowlanego, do użytkowania którego jest wymagane zawiadomienie o zakończeniu budowy;
+- **3)** dokonania zmiany sposobu użytkowania obiektu budowlanego lub jego części – jeżeli w wyniku tej zmiany obiekt budowlany niewymagający wcześniej założenia książki obiektu budowlanego stał się obiektem budowlanym, dla którego należy prowadzić książkę obiektu budowlanego.
 
 **Art. 60d.** Właściciel lub zarządca obiektu budowlanego wskazuje w książce obiektu budowlanego osobę fizyczną do prowadzenia tej książki. Za prowadzenie książki obiektu budowlanego odpowiada wskazana w tej książce osoba fizyczna.
 
@@ -420,6 +582,31 @@ source: "isap-pdf"
 
 **Art. 60r.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy sposób prowadzenia książki obiektu budowlanego w postaci papierowej i elektronicznej, w tym dokonywania wpisów,
+- **2)** szczegółowy sposób uwierzytelniania i autoryzacji w systemie c-KOB – mając na względzie zapewnienie nieusuwalności, przejrzystości i chronologii wpisów w książce obiektu budowlanego oraz zapewnienie bezpieczeństwa gromadzonych danych.”;
+- **30)** w art. 62 w ust. 1 w pkt 3 skreśla się wyrazy „osoba dokonująca kontroli jest obowiązana bezzwłocznie na piśmie zawiadomić organ nadzoru budowlanego o przeprowadzonej kontroli;”;
+- **31)** w art. 62a po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Wymogu dołączenia kopii:
+- **1)** zaświadczeń, o których mowa w art. 12 ust. 7 – nie stosuje się do osób wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane;
+- **2)** uprawnień budowlanych w odpowiedniej specjalności – nie stosuje się do uprawnień budowlanych wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane.”;
+- **32)** po art. 62a dodaje się art. 62b w brzmieniu: „Art. 62b. 1. W terminie 7 dni od dnia zakończenia kontroli obiektu budowlanego, dla którego istnieje obowiązek prowadzenia książki obiektu budowlanego, osoba przeprowadzająca kontrolę, o której mowa w art. 62 ust. 1, dokonuje wpisu o kontroli w książce obiektu budowlanego prowadzonej w postaci:
+- **1)** elektronicznej w systemie c-KOB albo
+- **2)** papierowej.
+
+2. W terminie 7 dni od dnia zakończenia kontroli obiektu budowlanego osoba przeprowadzająca kontrolę, o której mowa w art. 62 ust. 1 pkt 3, zawiadamia o kontroli organ nadzoru budowlanego:
+
+- **1)** za pomocą systemu c-KOB albo
+- **2)** na piśmie – jeżeli kontrola dotyczyła obiektu budowlanego, dla którego nie prowadzi się książki obiektu budowlanego w postaci elektronicznej.
+
+3. W przypadku awarii lub przerwy w działaniu systemu c-KOB uniemożliwiającej dokonanie zawiadomienia, o którym mowa w ust. 2 pkt 1, przepis art. 60f ust. 2 stosuje się odpowiednio.”;
+
+- **33)** w art. 64:
+    - **a)** uchyla się ust. 1 i 2,
+    - **b)** uchyla się ust. 4;
+
+- **34)** w art. 70 dodaje się ust. 3 w brzmieniu: „3. Protokół, o którym mowa w ust. 2, dotyczący obiektu budowlanego, dla którego jest prowadzona książka obiektu budowlanego w postaci elektronicznej, przekazuje się za pomocą systemu c-KOB.”;
+- **35)** w art. 71 w ust. 2b pkt 2 otrzymuje brzmienie: „2) formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.”;
+- **36)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „Rozdział 7a Portal e-Budownictwo
+
 **Art. 79a.**
 
 1. Portal e-Budownictwo zapewnia możliwość wygenerowania:
@@ -454,6 +641,9 @@ source: "isap-pdf"
 
 **Art. 79c.** Założenie konta w portalu e-Budownictwo odbywa się przez:
 
+- **1)** rejestrację albo
+- **2)** uwierzytelnienie.
+
 **Art. 79d.**
 
 1. Rejestrując się w portalu e-Budownictwo, należy wskazać e-mail.
@@ -469,6 +659,9 @@ source: "isap-pdf"
 2. Portal e-Budownictwo zabezpiecza konto należące do użytkownika konta przed dostępem osób trzecich.
 
 **Art. 79f.** Dostęp do konta w portalu e-Budownictwo następuje przez:
+
+- **1)** podanie identyfikatora użytkownika i hasła albo
+- **2)** uwierzytelnienie.
 
 **Art. 79g.** Uwierzytelnienie, o którym mowa w art. 79c pkt 2 i art. 79f pkt 2, wymaga użycia środka identyfikacji elektronicznej, wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797).
 
@@ -568,7 +761,41 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2021 r. poz. 869 i 2490) wprowadza się następujące zmiany:
 
+- **1)** w art. 4 w ust. 1 pkt 3 otrzymuje brzmienie: „3) zapewnić przeglądy techniczne, konserwacje oraz naprawy urządzeń przeciwpożarowych i gaśnic, w sposób gwarantujący ich sprawne i niezawodne funkcjonowanie;”;
+- **2)** w art. 6d:
+    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Uzgodnienie projektu w przypadku jego sporządzenia w postaci:
+
+- **1)** papierowej – potwierdza się przez opatrzenie go pieczęcią i podpisem;
+- **2)** elektronicznej – potwierdza się przez opatrzenie go kwalifikowanym podpisem elektronicznym oraz wydaniem dla niego karty uzgodnienia opatrzonej tym podpisem, która stanowi załącznik do projektu.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Karta uzgodnienia zawiera dane umożliwiające identyfikację uzgodnienia projektu, obejmujące w szczególności:
+
+- **1)** nazwę, rodzaj i datę opracowania uzgodnionego projektu;
+- **2)** lokalizację obiektu budowlanego lub urządzenia przeciwpożarowego;
+- **3)** datę dokonania uzgodnienia;
+- **4)** stwierdzenie zgodności projektu z wymaganiami ochrony przeciwpożarowej bez uwag albo z uwagami;
+- **5)** uwagi – w przypadku uzgodnienia projektu z uwagami.”;
+- **3)** w art. 6e ust. 5 otrzymuje brzmienie: „5. Inwestor do wniosku o uzgodnienie projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub projektu technicznego dołącza te projekty w postaci:
+- **1)** papierowej – w co najmniej 4 egzemplarzach albo
+- **2)** elektronicznej.”;
+- **4)** art. 6f otrzymuje brzmienie: „Art. 6f. 1. Projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany uzgodnione przez komendanta wojewódzkiego Państwowej Straży Pożarnej opatruje się:
+- **1)** pieczęcią organu – w przypadku projektu w postaci papierowej;
+- **2)** kwalifikowanym podpisem elektronicznym organu – w przypadku projektu w postaci elektronicznej.
+
+2. Uzgodniony projekt przekazuje się inwestorowi wraz z postanowieniem.
+
+3. Jeden egzemplarz projektu, o którym mowa w ust. 1 pkt 1, pozostaje w aktach sprawy organu.
+
+4. Do uzgodnienia projektu technicznego stosuje się przepisy ust. 1–3.”;
+
+- **5)** w art. 6g pkt 4 i 5 otrzymują brzmienie: „4) wzór pieczęci oraz karty uzgodnienia potwierdzających uzgodnienie projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego, projektu technicznego oraz projektu urządzenia przeciwpożarowego,
+- **5)** sposób i zakres zawiadomienia o uzgodnieniu projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub projektu technicznego, oraz wzór tego zawiadomienia”.
+
 **Art. 3.** W ustawie z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów oraz inżynierów budownictwa (Dz. U. z 2019 r. poz. 1117) wprowadza się następujące zmiany:
+
+- **1)** w art. 15 ust. 3 otrzymuje brzmienie: „3. Jeżeli liczba członków okręgowej izby przekracza 100 osób, okręgowy zjazd izby stanowią delegaci wybrani w obwodach wyborczych.”;
+- **2)** po art. 49 dodaje się art. 49a w brzmieniu: „Art. 49a. 1. Okręgowy sąd dyscyplinarny, Krajowy Sąd Dyscyplinarny, okręgowy rzecznik odpowiedzialności zawodowej oraz Krajowy Rzecznik Odpowiedzialności Zawodowej, w toku prowadzonych postępowań, o których mowa w art. 46 pkt 1 i 2, mogą zwrócić się z wnioskiem do organu administracji architektoniczno-budowlanej lub organu nadzoru budowlanego o udostępnienie kopii projektu budowlanego, o którym mowa w art. 34 ustawy – Prawo budowlane, będącego w posiadaniu tych organów, jeżeli udostępnienie to ma związek z prowadzonym postępowaniem.
+
+2. Organy, o których mowa w ust. 1, przekazują kopię projektu budowlanego nie później niż w terminie 30 dni od dnia doręczenia wniosku o jej udostępnienie.”.
 
 **Art. 4.** Do postępowań w sprawie wydania decyzji, o której mowa w art. 12 ust. 7 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie art. 1 pkt 4 lit. d, stosuje się przepisy dotychczasowe.
 
@@ -601,4 +828,9 @@ source: "isap-pdf"
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6g ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 6g ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 4 lit. c–g, pkt 10 lit. a, pkt 11 lit. c i d, pkt 15 lit. a, pkt 31, pkt 37 lit. b, pkt 39 i 42–44, art. 4 oraz art. 8 ust. 1, które wchodzą w życie z dniem 1 sierpnia 2022 r.;
+- **2)** art. 1 pkt 1, 3, 17, 19, 21, 22, 26, pkt 27 lit. a i c i pkt 28 oraz art. 5, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **3)** art. 1 pkt 29, 30, 32–34 i pkt 41 lit. b i c oraz art. 6, które wchodzą w życie z dniem 1 stycznia 2023 r.
+
 

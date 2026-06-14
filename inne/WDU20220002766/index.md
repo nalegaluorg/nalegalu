@@ -8,10 +8,10 @@ pos: 2766
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2766 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 19 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2766/text.pdf) |
 
-Poz. 2766 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 19 grudnia 2022 r.
 w sprawie przekazywania Narodowemu Bankowi Polskiemu danych do oceny funkcjonowania rozliczeń pieniężnych i rozrachunków międzybankowych Na podstawie art. 23 ust. 2b ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r.
-poz. 2025) zarządza się, co następuje: § 1. Rozporządzenie określa sposób, zakres i terminy realizacji obowiązku, o którym mowa w art. 23 ust. 2a ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, zwanej dalej „ustawą”.
+poz. 2025) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób, zakres i terminy realizacji obowiązku, o którym mowa w art. 23 ust. 2a ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, zwanej dalej „ustawą”.
 § 2. Podmioty uczestniczące w rozliczeniach pieniężnych i rozrachunkach międzybankowych przekazują Narodowemu Bankowi Polskiemu, zwanemu dalej „NBP”, dane o:
 1) liczbie uczestników systemu;
 2) liczbie i wartości transakcji dokonanych przy użyciu polecenia przelewu;
@@ -43,7 +43,6 @@ poz. 2025) zarządza się, co następuje: § 1. Rozporządzenie określa sposób
 12) liczbie i wartości przekazów pieniężnych w podziale na zrealizowane w obrocie krajowym i z zagranicą w podziale na kraje;
 13) liczbie i wartości transakcji mających na celu naruszenie lub obejście przepisów prawa w podziale na zrealizowane w obrocie krajowym i z zagranicą w podziale na kraje;
 14) liczbie placówek;
-Dziennik Ustaw – 2 – Poz. 2766
 15) liczbie i wartości przekazów pocztowych w podziale na zrealizowane w obrocie krajowym i z zagranicą w podziale na kraje;
 16) liczbie i wartości wpłat na rachunki bankowe.
 § 3. 1. Dane, o których mowa w § 2 pkt 1–11, są przekazywane na żądanie NBP, co kwartał w terminie do końca miesiąca następującego po upływie kwartału, którego dane dotyczą.

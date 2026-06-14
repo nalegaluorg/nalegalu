@@ -8,10 +8,10 @@ pos: 2260
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK RZECZYPOSPOLITEJ Warszawa, dnia ROZPORZĄDZENIE RADY z dnia zmieniające rozporządzenie w sprawie szczegółowych krajowego rejestru urzędowego podziału organów administracji rządowej Na podstawie art. 49 ustawy z dnia 29 czerwca rządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 15 sowania i udostępniania krajowego rejestru urzędowego organów administracji rządowej i jednostek samorządu „Identyfikatory i nazwy jednostek podziału terytorialnego
+# RZECZYPOSPOLITEJ ROZPORZĄDZENIE RADY z dnia zmieniające rozporządzenie w sprawie szczegółowych krajowego rejestru urzędowego podziału organów administracji rządowej Na podstawie art. 49 ustawy z dnia 29 czerwca rządza się, co następuje:
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002260) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2260/text.pdf) |
 
+§ 1. W rozporządzeniu Rady Ministrów z dnia 15 sowania i udostępniania krajowego rejestru urzędowego organów administracji rządowej i jednostek samorządu „Identyfikatory i nazwy jednostek podziału terytorialnego
 1) w części dotyczącej województwa dolnośląskiego:
 a) powiatu jeleniogórskiego wyrazy „Powiat jeleniogórski
 b) powiatu ząbkowickiego w części Gminy wyrazy „Kamieniec Ząbkowicki Kamieniec Ząbkowicki – miasto Kamieniec Ząbkowicki – obszar wiejski
 2) w części dotyczącej województwa lubelskiego:
 a) powiatu biłgorajskiego w części Gminy wyrazy „Goraj 060206 3 Goraj – miasto 060206 4 Goraj – obszar wiejski 060206 5”,
 b) powiatu lubartowskiego w części Gminy wyrazy „Kamionka 060805 3 Kamionka – miasto 060805 4 Kamionka – obszar wiejski 060805 5”;
-Dziennik Ustaw
 3) w części dotyczącej województwa mazowieckiego:
 a) powiatu lipskiego w części Gminy wyrazy „Solec „Solec nad Wisłą 140906 Solec nad Wisłą – miasto 140906 Solec nad Wisłą – obszar wiejski 140906
 b) powiatu płońskiego w części Gminy wyrazy „Sochocin 142011 3 Sochocin – miasto 142011 4 Sochocin – obszar wiejski 142011 5”,

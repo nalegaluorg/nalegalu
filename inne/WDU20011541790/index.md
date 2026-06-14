@@ -8,7 +8,7 @@ pos: 1790
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej oraz ustawy o organizacji hodowli i rozrodzie zwierząt gospodarskich

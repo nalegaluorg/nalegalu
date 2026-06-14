@@ -8,10 +8,10 @@ pos: 1560
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 sierpnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1560 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 12 sierpnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001560) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1560/text.pdf) |
 
-Poz. 1560 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 12 sierpnia 2019 r.
 w sprawie zmiany nazw niektórych publicznych uczelni zawodowych Na podstawie art. 35 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
-poz. 1668, z późn. zm. ) zarządza się, co następuje: § 1. Zmienia się nazwy następujących publicznych uczelni zawodowych:
+poz. 1668, z późn. zm. ) zarządza się, co następuje:
+§ 1. Zmienia się nazwy następujących publicznych uczelni zawodowych:
 1) z dniem 1 września 2019 r.:
 a) Państwowej Wyższej Szkoły Zawodowej im. Jana Grodka w Sanoku na Uczelnię Państwową im. Jana Grodka w Sanoku,
 b) Państwowej Wyższej Szkoły Zawodowej im. prof. Stanisława Tarnowskiego w Tarnobrzegu na Państwową Uczelnię Zawodową im. prof. Stanisława Tarnowskiego w Tarnobrzegu,

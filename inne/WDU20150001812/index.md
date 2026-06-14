@@ -1,0 +1,292 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 5 listopada 2015 r. zmieniające rozporządzenie w sprawie \"Zasad techniki prawodawczej\""
+address: WDU20150001812
+eli: DU/2015/1812
+publisher: DU
+year: 2015
+pos: 1812
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# zmieniające rozporządzenie w sprawie „Zasad techniki prawodawczej” Na podstawie art. 14 ust. 4 pkt 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1812 |
+| ISAP | WDU20150001812 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-11-05 |
+| Data wydania | 2015-11-06 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1812/text.pdf) |
+
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 20 czerwca 2002 r. w sprawie „Zasad techniki prawodawczej” (Dz. U. Nr 100, poz. 908) w załączniku do rozporządzenia wprowadza się następujące zmiany:
+1) § 1 otrzymuje brzmienie: „§ 1. 1. Podjęcie decyzji o przygotowaniu projektu ustawy poprzedza się w szczególności:
+1) wyznaczeniem i opisaniem stanu stosunków społecznych w dziedzinie wymagającej interwencji organów władzy publicznej oraz wskazaniem pożądanych kierunków ich zmiany;
+2) analizą aktualnego stanu prawnego, z uwzględnieniem prawa Unii Europejskiej, umów międzynarodowych, którymi Rzeczpospolita Polska jest związana, w tym umów z zakresu ochrony praw człowieka, oraz prawodawstwa organizacji i organów międzynarodowych, których Rzeczpospolita Polska jest członkiem;
+3) ustaleniem możliwości podjęcia środków interwencji organów władzy publicznej, alternatywnych w stosunku do uchwalenia ustawy;
+4) określeniem przewidywanych skutków społecznych, gospodarczych, organizacyjnych, prawnych i finansowych każdego z rozważanych rozwiązań;
+5) zasięgnięciem opinii podmiotów objętych zakresem interwencji organów władzy publicznej.
+2. W przypadku podjęcia decyzji o przygotowaniu projektu ustawy, jeżeli projekt ten nie jest opracowywany na podstawie założeń, należy w szczególności:
+1) ustalić skutki dotychczasowych uregulowań prawnych obowiązujących w danej dziedzinie;
+2) określić cele, jakie zamierza się osiągnąć przez uchwalenie ustawy;
+3) ustalić rozwiązania prawne alternatywne, które mogą skutecznie służyć osiągnięciu założonych celów;
+4) sformułować prognozy podstawowych i ubocznych skutków zamierzonych rozwiązań prawnych alternatywnych, w tym wpływu tych rozwiązań na system prawa;
+5) określić skutki finansowe poszczególnych rozwiązań prawnych alternatywnych oraz ustalić źródła ich pokrycia;
+6) dokonać wyboru optymalnego w danych warunkach rozwiązania prawnego.”;
+2) w § 4 ust. 2 otrzymuje brzmienie: „2. W ustawie nie powtarza się również postanowień umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską oraz dających się bezpośrednio stosować postanowień aktów normatywnych ustanowionych przez organizacje międzynarodowe lub organy międzynarodowe.”;
+3) w § 8 w ust. 2:
+a) pkt 1 otrzymuje brzmienie: „1) określeniami specjalistycznymi, o ile ich użycie nie jest powodowane zapewnieniem należytej precyzji tekstu;”,
+b) pkt 3 otrzymuje brzmienie: „3) nowo tworzonymi pojęciami lub strukturami językowymi, chyba że w dotychczasowym słownictwie polskim brak jest odpowiedniego określenia.”;
+4) § 12 otrzymuje brzmienie: „§ 12. Uzasadnienie projektu ustawy, oprócz spełnienia wymagań określonych w ustawach, w regulaminie Sejmu i w regulaminie pracy Rady Ministrów, powinno zawierać:
+1) przedstawienie możliwości podjęcia alternatywnych w stosunku do uchwalenia projektowanej ustawy środków umożliwiających osiągnięcie zamierzonego celu, ze wskazaniem, czy środki te zostały podjęte, a w przypadku ich podjęcia – przedstawienie osiągniętych wyników;
+2) szczegółowe wyjaśnienie potrzeby wejścia w życie projektowanej ustawy albo jej poszczególnych przepisów w terminie krótszym niż 14 dni od dnia ogłoszenia, jeżeli projekt ustawy przewiduje takie postanowienia.”;
+5) w § 14 ust. 3 otrzymuje brzmienie: „3. Ustawa może zawierać przepisy wprowadzające zmiany w innych ustawach (przepisy zmieniające), przepisy epizodyczne oraz przepisy o utracie mocy obowiązującej ustawy.”;
+6) w § 15:
+a) po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) przepisy epizodyczne;”,
+b) pkt 5 otrzymuje brzmienie: „5) przepisy uchylające, przepisy o utracie mocy obowiązującej ustawy oraz przepisy o wejściu ustawy w życie (przepisy końcowe).”;
+7) po § 19 dodaje się § 19a i § 19b w brzmieniu: „§ 19a. 1. W przypadku ustawy wdrażającej postanowienia aktu normatywnego ustanowionego przez instytucję Unii Europejskiej po określeniu przedmiotu ustawy zamieszcza się odnośnik do tytułu ustawy informujący o wdrażanym akcie normatywnym i zakresie wdrożenia, co wyraża się w szczególności zwrotem:
+1) „niniejsza ustawa wdraża … (tytuł aktu)” – w przypadku wdrożenia w ustawie aktu normatywnego w całości;
+2) „niniejsza ustawa w zakresie swojej regulacji wdraża … (tytuł aktu)” – w przypadku wdrożenia w ustawie w całości tej części postanowień aktu normatywnego, które odnoszą się do zakresu regulacji tej ustawy.
+2. W przypadku ustawy, której uchwalenie jest związane z wydaniem lub obowiązywaniem aktu normatywnego ustanowionego przez instytucję Unii Europejskiej, dającego się bezpośrednio stosować, po określeniu przedmiotu ustawy zamieszcza się odnośnik do tytułu ustawy informujący o akcie normatywnym, z którym ustawa jest związana, co wyraża się w szczególności zwrotem „niniejsza ustawa służy stosowaniu … (tytuł aktu)”.
+§ 19b. W przypadku ustawy, w której zostały zamieszczone przepisy zmieniające lub przepisy uchylające inne ustawy, po określeniu przedmiotu ustawy zamieszcza się odnośnik do tytułu ustawy, w którym podaje się odrębnie tytuły ustaw zmienianych i tytuły ustaw uchylanych. Jeżeli zamieszcza się odnośnik, o którym mowa w § 19a, odnośnik podający tytuły zmienianych lub uchylanych ustaw oznacza się jako drugi.”;
+8) w § 24:
+a) w ust. 1 pkt 2–4 otrzymują brzmienie: „2) przepisy ustrojowe;
+3) przepisy proceduralne;
+4) przepisy o karach pieniężnych i przepisy karne.”,
+b) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W szczególnie uzasadnionych przypadkach, w szczególności jeżeli kara pieniężna jest związana z naruszeniem przepisów ustrojowych lub proceduralnych, przepisy o karach pieniężnych można zamieszczać bezpośrednio po przepisach, z którymi jest związane wprowadzenie tych kar.”;
+9) § 26 i § 27 otrzymują brzmienie: „§ 26. W przepisach ustrojowych zamieszcza się w szczególności przepisy o zadaniach i kompetencjach organów lub instytucji, ich formie prawnej i organizacji, sposobie ich finansowania i obsadzania oraz jakim podmiotom one podlegają albo jakie podmioty sprawują nad nimi nadzór.
+§ 27. W przepisach proceduralnych określa się w szczególności:
+1) sposób postępowania przed organami lub instytucjami;
+2) strony i innych uczestników postępowania oraz ich prawa i obowiązki w postępowaniu;
+3) rodzaje rozstrzygnięć, które zapadają w postępowaniu, i tryb ich wzruszania;
+4) zasady i tryb ponoszenia opłat i kosztów postępowania;
+5) zasady i tryb wykonania rozstrzygnięć, które zapadają w postępowaniu.”;
+10) w dziale I po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „Rozdział 4a Przepisy epizodyczne
+§ 29a. W przepisach epizodycznych zamieszcza się regulacje, które wprowadzają odstępstwa od określonych przepisów, a których okres obowiązywania jest wyraźnie określony.
+§ 29b. 1. W przepisach epizodycznych okres obowiązywania regulacji określa się w szczególności przez:
+1) wymienienie roku kalendarzowego albo lat kalendarzowych;
+2) oznaczenie początku i końca obowiązywania regulacji, wyrażone dniami oznaczonymi kalendarzowo;
+3) wskazanie liczby dni, tygodni, miesięcy albo lat, które upływają od dnia wejścia w życie ustawy albo jej poszczególnych przepisów.
+2. W przepisach epizodycznych początku i końca obowiązywania regulacji nie uzależnia się od wystąpienia zdarzenia przyszłego, chyba że jest to konieczne ze względu na zakres regulacji ustawy albo jej poszczególnych przepisów, a termin wystąpienia zdarzenia przyszłego można ustalić w sposób niebudzący wątpliwości i zostanie on urzędowo podany do wiadomości publicznej.
+3. W przypadku, o którym mowa w ust. 2, ustawa powinna określać formę urzędowego podania do wiadomości publicznej terminu wystąpienia zdarzenia przyszłego oraz organ właściwy do dokonania tej czynności.
+§ 29c. Regulacje określone w § 29a mogą być także zamieszczone w odrębnej ustawie (ustawie epizodycznej).
+W takim przypadku regulacje te zamieszcza się jako przepisy merytoryczne.”;
+11) w § 30:
+a) ust. 1 otrzymuje brzmienie: „1. W przepisach przejściowych reguluje się wpływ nowej albo znowelizowanej ustawy na stosunki powstałe pod działaniem ustawy albo ustaw dotychczasowych bez względu na to, czy do tych stosunków zamierza się stosować przepisy dotychczasowe, przepisy nowe czy przepisy regulujące ten wpływ w sposób odmienny od przepisów dotychczasowych i przepisów nowych.”,
+b) w ust. 2: – pkt 1 otrzymuje brzmienie: „1) sposób zakończenia postępowań będących w toku (wszczętych w czasie obowiązywania dotychczasowych przepisów i niezakończonych ostatecznie do dnia ich uchylenia albo zmiany), skuteczność czynności dokonanych w postępowaniu oraz organy lub instytucje właściwe do zakończenia postępowania i terminy przekazania im spraw;”, – pkt 4 i 5 otrzymują brzmienie: „4) czy i w jakim zakresie stosuje się nowe przepisy do uprawnień, obowiązków, kompetencji oraz czynności, o których mowa w pkt 3;
+5) czy i w jakim zakresie utrzymuje się czasowo w mocy przepisy wykonawcze wydane na podstawie dotychczasowych przepisów upoważniających.”;
+12) § 31 otrzymuje brzmienie: „§ 31. 1. Jeżeli w stosunku do spraw, o których mowa w § 30 ust. 2 pkt 1–3, zamierza się czasowo stosować przepisy dotychczasowej ustawy, zaznacza się to wyraźnie, nadając przepisowi przejściowemu odpowiednio brzmienie: „W sprawach … stosuje się art. … ustawy … (tytuł dotychczasowej ustawy).” albo „W sprawach … stosuje się art. … ustawy … (tytuł znowelizowanej ustawy), w brzmieniu dotychczasowym.”.
+2. W przypadku, o którym mowa w ust. 1, z wyłączeniem postanowień dotyczących przepisów karnych, można wskazać również termin, do którego będą stosowane przepisy dotychczasowej ustawy, co wyraża się zwrotem: „nie dłużej niż …”.
+3. Jeżeli w stosunku do spraw, o których mowa w § 30 ust. 2 pkt 1–4, zamierza się stosować przepisy nowej albo znowelizowanej ustawy, zaznacza się to wyraźnie, nadając przepisowi przejściowemu odpowiednio brzmienie: „W sprawach … stosuje się art. … (oznaczenie przepisu nowej ustawy).” albo „W sprawach … stosuje się art. … (tytuł znowelizowanej ustawy), w brzmieniu nadanym niniejszą ustawą.”.”;
+13) w § 32 ust. 2 otrzymuje brzmienie: „2. Jeżeli zmienia się treść przepisu upoważniającego do wydania aktu wykonawczego w ten sposób, że zmienia się rodzaj aktu wykonawczego, zakres spraw przekazanych do uregulowania aktem wykonawczym lub wytyczne dotyczące treści tego aktu, przyjmuje się, że akt wykonawczy wydany na podstawie tego przepisu upoważniającego traci moc obowiązującą z dniem wejścia w życie przepisu zmieniającego treść przepisu upoważniającego.”;
+14) w § 33:
+a) ust. 1 otrzymuje brzmienie: „1. Jeżeli akt wykonawczy wydany na podstawie uchylanego albo zmienianego przepisu upoważniającego nie jest niezgodny z nową albo znowelizowaną ustawą, można go wyjątkowo zachować czasowo w mocy do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie nowego albo zmienionego przepisu upoważniającego, nadając przepisowi przejściowemu brzmienie:
+1) „Dotychczasowe przepisy wykonawcze wydane na podstawie art. … ustawy, o której mowa w art. … (artykuł uchylający dotychczasową ustawę), zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. … niniejszej ustawy, jednak nie dłużej niż … (oznaczenie dnia albo okresu wyrażonego w miesiącach).” – w przypadku zachowywania czasowo w mocy aktu wykonawczego wydanego na podstawie uchylanego przepisu upoważniającego;
+2) „Dotychczasowe przepisy wykonawcze wydane na podstawie art. … ustawy zmienianej w art. … (artykuł wprowadzający zmiany w dotychczasowej ustawie), zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. … ustawy zmienianej w art. … (artykuł wprowadzający zmiany w dotychczasowej ustawie), w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż … (oznaczenie dnia albo okresu wyrażonego w miesiącach).” – w przypadku zachowywania czasowo w mocy aktu wykonawczego wydanego na podstawie zmienianego przepisu upoważniającego.”,
+b) uchyla się ust. 4;
+15) § 35 i § 36 otrzymują brzmienie: „§ 35. 1. W przepisach dostosowujących reguluje się sprawy związane z dostosowaniem do nowej albo znowelizowanej ustawy jej adresatów, w tym organów lub instytucji, w szczególności:
+1) utworzenie organów lub instytucji;
+2) przekształcenie organów lub instytucji w inne organy lub instytucje tworzone przez ustawę;
+3) zniesienie organów lub likwidację instytucji;
+4) sposób powołania po raz pierwszy organów lub instytucji tworzonych ustawą;
+5) sposób przekształcenia organów lub instytucji utworzonych na podstawie dotychczasowej ustawy w organy lub instytucje tworzone przez ustawę;
+6) sposób zniesienia organów lub likwidacji instytucji przez ustawę, zasady zagospodarowania ich mienia oraz uprawnienia i obowiązki ich dotychczasowych pracowników.
+2. W przepisach dostosowujących można wyjątkowo wyznaczyć termin dostosowania organów lub instytucji do nowej albo znowelizowanej ustawy.
+§ 36. Rozwiązania przewidziane w przepisach przejściowych i dostosowujących powinny być ukształtowane w sposób nieuciążliwy dla ich adresatów i pozostawiać im możliwość przystosowania się do przepisów nowej albo znowelizowanej ustawy.”;
+16) w § 38 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) w razie potrzeby – przepisy o utracie mocy obowiązującej ustawy;
+3) przepisy o wejściu ustawy w życie.”;
+17) w § 39 ust. 1 otrzymuje brzmienie: „1. W przepisie uchylającym wyczerpująco wymienia się ustawy, które ustawa uchyla; nie poprzestaje się na domyślnym uchyleniu poprzedniej ustawy przez odmienne uregulowanie danej sprawy w nowej ustawie.”;
+18) w § 40 ust. 1 otrzymuje brzmienie: „1. Przepisowi uchylającemu ustawę nadaje się brzmienie: „Traci moc ustawa … (tytuł ustawy).”.”;
+19) w § 41:
+a) ust. 2 otrzymuje brzmienie: „2. Jeżeli w wyniku uchylenia jednostek systematyzacyjnych ustawy lub jej przepisów wyjątkowo zachowuje się moc obowiązującą tylko niektórych przepisów ustawy, w ustawie zamieszcza się przepis zmieniający, w którym wyczerpująco wymienia się uchylane jednostki systematyzacyjne ustawy lub jej przepisy, wyrażając to zwrotem: „W ustawie … (tytuł ustawy) uchyla się …”.”,
+b) uchyla się ust. 3;
+20) uchyla się § 42;
+21) § 44 otrzymuje brzmienie: „§ 44. 1. Ustawa powinna wchodzić w życie w całości w jednym terminie.
+2. Odstępstwo od zasady, o której mowa w ust. 1, może nastąpić wyjątkowo w przypadku, gdy zróżnicowanie terminów wejścia w życie poszczególnych przepisów ustawy jest niezbędne do zrealizowania celu ustawy oraz nie narusza jej spójności.
+3. Jeżeli zróżnicowanie terminów wejścia w życie poszczególnych przepisów ustawy mogłoby naruszać jej spójność lub zmniejszać jej komunikatywność, a dana instytucja prawna ma mieć zastosowanie do zdarzeń lub stanów rzeczy zaistniałych lub powstałych od określonego dnia, wyraża się to w odrębnym przepisie jednoznacznie określającym tę instytucję oraz te zdarzenia lub stany rzeczy.”;
+22) w § 45:
+a) w ust. 1: – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) „Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia”;”, – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) „Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie … (dni, tygodni, miesięcy, lat) od dnia ogłoszenia”;”, – dodaje się pkt 6 i 7 w brzmieniu: „6) „Ustawa wchodzi w życie …, z wyjątkiem art. …, który wchodzi w życie …”;
+7) „Ustawa wchodzi w życie w terminie określonym w ustawie z dnia … – … (tytuł ustawy wprowadzającej) (Dz. U. …)”.”,
+b) ust. 2 otrzymuje brzmienie: „2. Liczbę dni, tygodni, miesięcy lub lat, o których mowa w ust. 1 pkt 1, 2 i 3a, zapisuje się cyframi arabskimi albo słownie. Określenie dnia i miesiąca, o których mowa w ust. 1 pkt 3, zapisuje się słownie.”;
+23) § 46 otrzymuje brzmienie: „§ 46. 1. Wejścia w życie ustawy albo jej poszczególnych przepisów nie uzależnia się od wystąpienia zdarzenia przyszłego, chyba że jest to konieczne ze względu na zakres regulacji ustawy albo jej poszczególnych przepisów, a termin wystąpienia zdarzenia przyszłego można ustalić w sposób niebudzący wątpliwości i zostanie on urzędowo podany do wiadomości publicznej.
+2. W przypadku, o którym mowa w ust. 1, ustawa powinna określać formę urzędowego podania do wiadomości publicznej terminu wystąpienia zdarzenia przyszłego oraz organ właściwy do dokonania tej czynności.”;
+24) w § 47 ust. 1 otrzymuje brzmienie: „1. W przypadku ustaw szczególnie obszernych lub zasadniczo zmieniających dotychczasowe ustawy, przepisy o wejściu w życie ustawy „głównej” oraz przepisy zmieniające, uchylające, epizodyczne, przejściowe i dostosowujące można zamieścić w oddzielnej ustawie (ustawie wprowadzającej).”;
+25) w § 48:
+a) pkt 4 otrzymuje brzmienie: „4) przepisy epizodyczne, przejściowe i dostosowujące;”,
+b) dodaje się pkt 5 w brzmieniu: „5) przepisy o wejściu w życie ustawy wprowadzającej.”;
+26) w § 49 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Jeżeli poszczególne przepisy ustawy „głównej” mają wejść w życie w innym terminie niż ustawa „główna”, termin wejścia w życie przepisów ustawy wprowadzającej, których zakres regulacji jest nierozerwalnie związany z tymi przepisami ustawy „głównej”, ustala się na ten sam dzień, co dzień wejścia w życie tych przepisów.”;
+27) w § 51 ust. 1 otrzymuje brzmienie: „1. Przepisowi o wejściu ustawy w życie, który nadaje moc wsteczną ustawie albo jej poszczególnym przepisom, można nadać brzmienie: „Ustawa wchodzi w życie …, z mocą od dnia …” albo „Ustawa wchodzi w życie …, z tym że art. … z mocą od dnia …”, albo „Ustawa wchodzi w życie …, z wyjątkiem art. …, który wchodzi w życie z dniem …, z mocą od dnia …”.”;
+28) § 52 i § 53 otrzymują brzmienie: „§ 52. 1. Przepis określający termin utraty mocy obowiązującej ustawy albo jej poszczególnych przepisów zamieszcza się tylko w przypadku, gdy ustawa albo jej poszczególne przepisy mają obowiązywać w ograniczonym czasie; utratę mocy obowiązującej ustawy albo jej poszczególnych przepisów można uzależnić od wystąpienia zdarzenia przyszłego tylko w przypadku, gdy termin jego wystąpienia można ustalić w sposób niebudzący wątpliwości i zostanie on urzędowo podany do wiadomości publicznej.
+2. W przypadku, o którym mowa w ust. 1, ustawa powinna określać formę urzędowego podania do wiadomości publicznej terminu wystąpienia zdarzenia przyszłego oraz organ właściwy do dokonania tej czynności.
+3. Przepisowi, o którym mowa w ust. 1, można nadać brzmienie: „Ustawa obowiązuje do dnia …” albo „Przepisy art. … tracą moc …”.
+§ 53. Jeżeli przepisy epizodyczne, przejściowe, dostosowujące i końcowe ustawy, w której artykuły pogrupowano w jednostki systematyzacyjne, nie są liczne, można je zamieścić w jednej jednostce systematyzacyjnej pod wspólnym tytułem, wymieniając rodzaje zamieszczonych w niej przepisów.”;
+29) w § 56:
+a) ust. 1 otrzymuje brzmienie: „1. W obrębie artykułu (ustępu) zawierającego wyliczenie wyróżnia się dwie części: wprowadzenie do wyliczenia oraz punkty. Wyliczenie może kończyć się częścią wspólną, odnoszącą się do wszystkich punktów. Po części wspólnej nie dodaje się kolejnej samodzielnej myśli; w razie potrzeby formułuje się ją w kolejnym ustępie.”,
+b) dodaje się ust. 4 w brzmieniu: „4. W obrębie tiret można dokonać kolejnego wyliczenia, wprowadzając podwójne tiret.”;
+30) w § 57:
+a) ust. 1–3 otrzymują brzmienie: „1. Artykuł oznacza się skrótem „art.” i cyframi arabskimi z kropką, z zachowaniem ciągłości numeracji artykułów w obrębie całej ustawy, a przy powoływaniu – skrótem „art.” bez względu na liczbę i przypadek oraz cyframi arabskimi bez kropki; w ustawie wprowadzającej ustawę określaną jako „kodeks” numer artykułu można oznaczyć cyframi rzymskimi.
+2. Ustęp oznacza się cyframi arabskimi z kropką bez nawiasu, z zachowaniem ciągłości numeracji w obrębie danego artykułu, a przy powoływaniu – skrótem „ust.” bez względu na liczbę i przypadek oraz cyframi arabskimi bez kropki.
+3. Punkt oznacza się cyframi arabskimi z nawiasem z prawej strony, z zachowaniem ciągłości numeracji w obrębie danego artykułu albo ustępu, a przy powoływaniu – skrótem „pkt” bez względu na liczbę i przypadek oraz cyframi arabskimi bez nawiasu. Każdy punkt kończy się średnikiem, a ostatni kropką, chyba że wyliczenie kończy się częścią wspólną odnoszącą się do wszystkich punktów. W takim przypadku kropkę stawia się po części wspólnej, a każdy punkt, z wyjątkiem ostatniego, kończy się przecinkiem.”,
+b) dodaje się ust. 7 w brzmieniu: „7. Każde podwójne tiret kończy się przecinkiem, a ostatnie przecinkiem, średnikiem albo kropką, chyba że wyliczenie kończy się częścią wspólną odnoszącą się do wszystkich podwójnych tiret. W takim przypadku, przecinek, średnik albo kropkę stawia się po części wspólnej. Przy powoływaniu podwójnego tiret oznacza się je wyrazami „podwójne tiret” i wyrażonym słownie numerem porządkowym tego podwójnego tiret.”;
+31) w § 58 ust. 3 otrzymuje brzmienie: „3. Punkty, litery, tiret i podwójne tiret rozpoczyna się na wysokości początku wprowadzenia do wyliczenia.”;
+32) w § 59 ust. 1 otrzymuje brzmienie: „1. Przepisy artykułu podzielonego na ustępy, punkty, litery, tiret i podwójne tiret powołuje się w następującej kolejności: „art. … ust. … pkt … lit. … tiret … podwójne tiret …”, bez przecinków po kolejnych jednostkach redakcyjnych.”;
+33) § 60 otrzymuje brzmienie: „§ 60. 1. W celu systematyzacji przepisów ustawy artykuły można grupować w jednostki systematyzacyjne.
+2. Artykuły grupuje się w rozdziały, rozdziały grupuje się w działy, a działy łączy się w tytuły. W ustawie można wprowadzić dodatkowo oddziały jako jednostki systematyzacyjne niższego stopnia niż rozdział.
+3. W ustawie określanej jako „kodeks” tytuły można grupować w księgi, a księgi łączyć w części.”;
+34) w § 62 ust. 2 otrzymuje brzmienie: „2. Nazwa jednostki systematyzacyjnej składa się z:
+1) jej oznaczenia, które stanowi wyraz „część”, „księga”, „tytuł”, „dział”, „rozdział”, „oddział” z odpowiednią liczbą porządkową;
+2) jej tytułu, który stanowi zwięzłe określenie treści lub zakresu regulowanych spraw, rozpoczęte wielką literą, zapisane od nowego wiersza.”;
+35) w § 64 ust. 2 otrzymuje brzmienie: „2. Jeżeli rozporządzenie ma wydać minister kierujący działem administracji rządowej, wskazuje się go nazwą działu administracji rządowej, którym kieruje, z wyjątkiem Ministra Obrony Narodowej i Ministra Sprawiedliwości, których wskazuje się ich nazwami własnymi.”;
+36) w § 72 pkt 1 otrzymuje brzmienie: „1) podmiot właściwy do wydania aktu normatywnego;”;
+37) w § 73 ust. 3 otrzymuje brzmienie: „3. Podmiot upoważniany do współuczestniczenia w wydaniu aktu normatywnego wskazuje się:
+1) nazwą własną;
+2) w sposób wskazany w § 64 ust. 2 – w przypadku ministrów kierujących działami administracji rządowej.”;
+38) § 74 otrzymuje brzmienie: „§ 74. 1. Przepisowi upoważniającemu do współuczestniczenia w wydaniu rozporządzenia, uchwały albo zarządzenia nadaje się brzmienie:
+1) jeżeli współuczestniczenie ma polegać na wspólnym wydaniu aktu normatywnego przez upoważnione podmioty: „Minister (inny podmiot) … oraz minister (inny podmiot) … określą (mogą określić) …”;
+2) jeżeli współuczestniczenie ma polegać na osiągnięciu porozumienia w sprawie treści aktu normatywnego, a następstwem braku porozumienia ma być to, że akt nie dochodzi do skutku: „Minister (inny podmiot) … w porozumieniu z ministrem (innym podmiotem) … określi (może określić) …”;
+3) jeżeli współuczestniczenie ma polegać jedynie na samym wyrażeniu opinii o projekcie aktu normatywnego, a następstwem niezasięgnięcia opinii ma być to, że akt nie dochodzi do skutku: „Minister (inny podmiot) …, po zasięgnięciu opinii (nazwa podmiotu) …, określi (może określić) …”;
+4) jeżeli współuczestniczenie ma polegać na zainicjowaniu aktu normatywnego przez inny podmiot, a następstwem braku inicjatywy jest niemożność wydania aktu przez podmiot upoważniony do jego wydania: „Minister (inny podmiot) …, na wniosek ministra (innego podmiotu) …, określi (może określić) …”.
+2. W przepisie upoważniającym do wydania rozporządzenia rozwiązania, o których mowa w ust. 1 pkt 1, 2 i 4, stosuje się wówczas, gdy współuczestniczącym w wydaniu rozporządzenia jest wyłącznie organ uprawniony do wydawania rozporządzeń.”;
+39) w dziale I tytuł rozdziału 9 otrzymuje brzmienie: „Przepisy karne oraz przepisy o karach pieniężnych”;
+40) w § 75 ust. 1 i 2 otrzymują brzmienie: „1. W przepisie karnym znamiona czynu zabronionego określa się w sposób wyczerpujący, bez odsyłania do nakazów lub zakazów zawartych w pozostałych przepisach tej samej ustawy, w przepisach innych ustaw, w tym ustaw określanych jako „kodeks”, w postanowieniach umów międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie lub w dających się bezpośrednio stosować postanowieniach aktów normatywnych ustanowionych przez organizacje międzynarodowe lub organy międzynarodowe.
+2. Odesłanie, o którym mowa w ust. 1, stosuje się tylko w przypadku, gdy bezprawność czynu polega na naruszeniu nakazów lub zakazów wyraźnie sformułowanych w innych przepisach tej samej ustawy lub w postanowieniach umów lub aktów, o których mowa w ust. 1. W takim przypadku w przepisie karnym, stosując odesłanie, używa się zwrotu: „Kto wbrew przepisom art. … (postanowieniom art. …)”.”;
+41) po § 81 dodaje się § 81a w brzmieniu: „§ 81a. 1. W przepisach o karach pieniężnych określa się w sposób wyczerpujący okoliczności powstania odpowiedzialności, podmiot uprawniony do nałożenia kary pieniężnej oraz wysokość tej kary.
+2. Przepis o karze pieniężnej formułuje się w sposób pozwalający na jednoznaczne ustalenie wysokości kary albo określenie granic, w których ustala się jej wysokość. W przypadku gdy przepis o karze pieniężnej wyznacza granice wysokości tej kary, określa się także przesłanki, którymi powinien kierować się podmiot uprawniony do nałożenia kary pieniężnej, ustalając jej wysokość.
+3. Do przepisów o karach pieniężnych stosuje się odpowiednio § 75, § 76, § 78, § 79 ust. 4 oraz § 80.”;
+42) § 82 otrzymuje brzmienie: „§ 82. Zmiana (nowelizacja) ustawy polega na uchyleniu niektórych jej przepisów, zastąpieniu niektórych jej przepisów przepisami o innej treści lub brzmieniu lub na dodaniu do niej nowych przepisów.”;
+43) w § 85:
+a) ust. 3 i 4 otrzymują brzmienie: „3. Jeżeli uchyla się albo dodaje tylko jeden przepis ustawy, przepisowi zmieniającemu nadaje się odpowiednio brzmienie: „W ustawie … (tytuł ustawy) uchyla się art. …” albo „W ustawie … (tytuł ustawy) po art. … dodaje się art. … w brzmieniu: …”.
+4. Jeżeli zmienia się treść lub brzmienie tylko jednego przepisu ustawy, przepisowi zmieniającemu nadaje się brzmienie: „W ustawie … (tytuł ustawy) art. … otrzymuje brzmienie: …” albo „W ustawie … (tytuł ustawy) w art. … … otrzymuje brzmienie: …”.”,
+b) dodaje się ust. 5 w brzmieniu: „5. Jeżeli zmienia się treść lub brzmienie więcej niż jednego przepisu w artykule ustawy, przepisowi zmieniającemu nadaje się brzmienie: „W ustawie … (tytuł ustawy) w art. … …”.”;
+44) w § 87:
+a) ust. 1 otrzymuje brzmienie: „1. Zmieniany przepis ustawy przytacza się w pełnym nowym brzmieniu.”,
+b) dodaje się ust. 3 w brzmieniu: „3. Jeżeli zmiana przepisu ustawy polega na zastąpieniu w nim, dodaniu lub skreśleniu niektórych wyrazów lub znaków interpunkcyjnych, a sprzyja to wyrażeniu intencji prawodawcy w sposób zrozumiały dla adresatów, można nie przytaczać jego pełnego nowego brzmienia. W takim przypadku w przepisie zmieniającym wskazuje się jednoznacznie dokonywaną zmianę, stosując w szczególności zwrot: „wyrazy „…” (nazwa znaku interpunkcyjnego) zastępuje się wyrazami „…” (nazwa znaku interpunkcyjnego)”, „po wyrazach „…” (nazwa znaku interpunkcyjnego) dodaje się wyrazy „…” (nazwa znaku interpunkcyjnego)” albo „skreśla się wyrazy „…” (nazwa znaku interpunkcyjnego)”.”;
+45) § 88 otrzymuje brzmienie: „§ 88. 1. Jeżeli dane określenie, występujące w wielu przepisach zmienianej ustawy, w każdym z nich skreśla się albo zastępuje się nowym określeniem, zmiany tej dokonuje się przepisem zmieniającym w brzmieniu: „skreśla się użyte w art. …, w różnej liczbie i różnym przypadku, wyrazy „…”” albo „użyte w art. …, w różnej liczbie i różnym przypadku, wyrazy „…” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „…””.
+2. Przepis zmieniający, o którym mowa w ust. 1, zamieszcza się w ustawie zmieniającej według kolejności dokonywanych zmian w ustawie zmienianej, biorąc pod uwagę umiejscowienie w ustawie zmienianej pierwszego z przepisów, w którym dane określenie skreśla się albo zastępuje się nowym określeniem.”;
+46) w § 89:
+a) ust. 1–3 otrzymują brzmienie: „1. Jeżeli do tekstu ustawy dodaje się nowe artykuły, zachowuje się dotychczasową numerację, dodając do numeru nowego artykułu małą literę alfabetu łacińskiego, z wyłączeniem liter właściwych tylko językowi polskiemu, z zachowaniem ciągłości alfabetycznej, co wyraża się zwrotem: „po art. X dodaje się art. Xa w brzmieniu …”.
+2. Zasadę wyrażoną w ust. 1 stosuje się odpowiednio, gdy w obrębie artykułu dodaje się nowy ustęp, w obrębie ustępu nowy punkt albo w obrębie punktu nową literę, co wyraża się zwrotem: „w art. … po ust. X (pkt X, lit. X) dodaje się ust. Xa (pkt Xa, lit. Xa) w brzmieniu: …”; jednakże gdy kolejną jednostkę redakcyjną niższego stopnia dodaje się na końcu artykułu, ustępu, punktu albo litery, oznacza się ją odpowiednio kolejnymi cyframi arabskimi lub literami alfabetu łacińskiego, co wyraża się zwrotem: „w art. … w ust. … dodaje się pkt … (lit. …) w brzmieniu: …”, przy czym przed oznaczeniem każdej kolejnej jednostki redakcyjnej pisze się przyimek „w”.
+3. W przypadku, o którym mowa w ust. 1 i 2, w razie wyczerpania się liter, dalsze kolejno dodawane artykuły lub jednostki redakcyjne niższego stopnia oznacza się najpierw dwuliterowo, a następnie wieloliterowo, dopisując do oznaczenia wynikającego z ust. 1 i 2 najpierw pierwszą, a następnie kolejne litery alfabetu łacińskiego (Xa … Xz, Xza … Xzz, Xzza … Xzzz).”,
+b) dodaje się ust. 4 w brzmieniu: „4. Zasadę określoną w ust. 3 stosuje się odpowiednio, jeżeli nowy artykuł (jednostkę redakcyjną niższego stopnia) dodaje się po artykule (jednostce redakcyjnej niższego stopnia) oznaczonym zgodnie z ust. 1 i 2 i równocześnie następujący po nim artykuł (jednostka redakcyjna niższego stopnia) jest oznaczony w ten sposób, co wyraża się zwrotem: „po art. (ust., pkt, lit.) Xa dodaje się art. (ust., pkt, lit.) Xaa (a następnie Xab … Xaz, Xaza … Xazz)”.”;
+47) po § 89 dodaje się § 89a w brzmieniu: „§ 89a. Jeżeli do tekstu ustawy dodaje się nowe artykuły na początku określonej jednostki systematyzacyjnej, wyraża się to zwrotem: „w (oznaczenie jednostki systematyzacyjnej) dodaje się art. … w brzmieniu: …”.”;
+48) w § 91 ust. 2 i 3 otrzymują brzmienie: „2. W szczególnie uzasadnionych przypadkach, jeżeli jest to konieczne dla uniknięcia luki w prawie, można wyjątkowo znowelizować przepisy zmieniające ogłoszonej ustawy w okresie ich vacatio legis.
+3. Nowelizację przepisów zmieniających, o której mowa w ust. 2, wprowadza się w życie z dniem wejścia w życie tych przepisów zmieniających.”;
+49) w § 93:
+a) ust. 1 otrzymuje brzmienie: „1. Ustawa zmieniająca może zawierać jedynie przepisy uchylające, przepisy zastępujące lub przepisy uzupełniające przepisy ustawy zmienianej, a w razie potrzeby – także przepisy epizodyczne, przejściowe i dostosowujące, konieczne ze względu na dokonywaną nowelizację.”,
+b) ust. 4 otrzymuje brzmienie: „4. Jeżeli w ustawie zmieniającej wyjątkowo zamieszczono przepisy inne niż określone w ust. 1, nie wystarczy poprzestać na uchyleniu ustawy znowelizowanej, ale uchyla się także te przepisy.”;
+50) w § 94:
+a) ust. 2 otrzymuje brzmienie: „2. Każdy nowelizowany artykuł ujmuje się w oddzielny punkt. Jeżeli w jednym artykule wprowadza się zmiany w jego jednostkach redakcyjnych niższego stopnia, każdą nowelizowaną jednostkę tego samego stopnia ujmuje się w oddzielnej literze, a w przypadku wprowadzenia zmian w jednostkach redakcyjnych następnego niższego stopnia – w oddzielnym tiret, a w razie potrzeby – również w oddzielnym podwójnym tiret.”,
+b) dodaje się ust. 3 w brzmieniu: „3. Jeżeli zmiana polega na dodaniu albo uchyleniu kolejno po sobie następujących artykułów (jednostek redakcyjnych niższego stopnia) albo na nadaniu nowego brzmienia kolejno po sobie następującym artykułom (jednostkom redakcyjnym niższego stopnia), zmiany tych artykułów albo jednostek ujmuje się odpowiednio w jeden punkt, literę, tiret albo podwójne tiret.”;
+51) w § 96:
+a) ust. 1 otrzymuje brzmienie: „1. Tytuł ustawy zmieniającej formułuje się zgodnie z zasadami wyrażonymi w § 16–18 i § 19a, z tym że przedmiot ustawy określa się przez użycie zwrotu: „ustawa o zmianie ustawy … (tytuł ustawy)”, a jeżeli zmienia się jednocześnie kilka ustaw – wymienia się tytuł każdej zmienianej ustawy.”,
+b) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Jeżeli zmienia się ustawę nowelizującą i sformułowanie tytułu ustawy w sposób określony w ust. 1 powodowałoby wątpliwości co do przedmiotu ustawy, przedmiot ten można określić przez użycie zwrotu „ustawa zmieniająca ustawę … (tytuł ustawy)”.”,
+c) ust. 4 otrzymuje brzmienie: „4. W przypadku, o którym mowa w ust. 2, po określeniu przedmiotu ustawy, zamieszcza się odnośnik do tytułu ustawy, w którym podaje się tytuły wszystkich zmienianych ustaw niewymienionych w tytule ustawy oraz odrębnie – tytuły uchylanych ustaw. Jeżeli zamieszcza się odnośnik, o którym mowa w § 19a, odnośnik podający tytuły zmienianych lub uchylanych ustaw oznacza się jako drugi.”;
+52) § 97 otrzymuje brzmienie: „§ 97. 1. Jeżeli ustawa, w której artykuły pogrupowano w jednostki systematyzacyjne, zawiera liczne przepisy zmieniające, wydziela się je we wspólną jednostkę systematyzacyjną zatytułowaną „Zmiany w przepisach” i zamieszcza bezpośrednio przed przepisami epizodycznymi, przejściowymi, dostosowującymi i końcowymi.
+2. Jeżeli ustawa, w której artykuły pogrupowano w jednostki systematyzacyjne, zawiera nieliczne przepisy zmieniające, przepis zmieniający albo przepisy zmieniające zamieszcza się bezpośrednio przed przepisami epizodycznymi, przejściowymi, dostosowującymi i końcowymi w jednej jednostce systematyzacyjnej, wymieniając w tytule tej jednostki rodzaje zamieszczonych w niej przepisów.”;
+53) w § 98 ust. 1 otrzymuje brzmienie: „1. Jeżeli ustawa ma wyznaczyć termin ogłoszenia tekstu jednolitego, przepis wyznaczający ten termin zamieszcza się:
+1) w ustawie zmieniającej;
+2) w ustawie wprowadzającej, jeżeli ogłoszenie tekstu jednolitego ma dotyczyć ustawy zmienianej ustawą wprowadzającą.”;
+54) uchyla się § 99 i § 100;
+55) po § 100 dodaje się § 100a w brzmieniu: „§ 100a. Tekst jednolity sporządza się według stanu prawnego obowiązującego w dniu wydania obwieszczenia o ogłoszeniu tego tekstu, przy czym można zamieścić w nim również zmiany w ustawie ogłoszone w dzienniku urzędowym do dnia wydania tego obwieszczenia, które wejdą w życie po dniu jego wydania.”;
+56) § 102 otrzymuje brzmienie: „§ 102. 1. W tytule obwieszczenia w oddzielnych wierszach zamieszcza się:
+1) oznaczenie rodzaju aktu;
+2) nazwę organu wydającego obwieszczenie;
+3) datę obwieszczenia;
+4) określenie przedmiotu obwieszczenia z wymienieniem tytułu ustawy, której tekst jednolity jest ogłaszany.
+2. Oznaczenie rodzaju aktu oraz nazwę organu wydającego obwieszczenie pisze się wielkimi literami.
+3. Jako datę obwieszczenia podaje się dzień określony kalendarzowo, w którym zostało ono podpisane przez organ wydający to obwieszczenie.
+4. W tytule obwieszczenia nie podaje się daty ustawy, której tekst jednolity się ogłasza, a także oznaczenia dzienników urzędowych, w których została ogłoszona ta ustawa i jej zmiany oraz wcześniejsze teksty jednolite i ich zmiany.
+5. Określenie przedmiotu obwieszczenia rozpoczyna się od wyrazów „w sprawie ogłoszenia jednolitego tekstu ustawy …”.”;
+57) w § 103 ust. 1 otrzymuje brzmienie: „1. W obwieszczeniu przytacza się przepis ustawy upoważniający do ogłoszenia tekstu jednolitego i tytuł ustawy, której tekst jednolity jest ogłaszany, a ponadto wymienia się ustawy, które wprowadziły zmiany do pierwotnego tekstu tej ustawy albo jej ostatniego tekstu jednolitego, oraz orzeczenia Trybunału Konstytucyjnego stwierdzające niezgodność przepisów tej ustawy z Konstytucją Rzeczypospolitej Polskiej lub ratyfikowaną umową międzynarodową, której ratyfikacja wymagała uprzedniej zgody wyrażonej w ustawie.”;
+58) § 104 i § 105 otrzymują brzmienie: „§ 104. Treść obwieszczenia o ogłoszeniu tekstu jednolitego ustawy formułuje się według wzoru: „1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. …) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia … … (przy czym podaje się tylko oznaczenie dziennika urzędowego, w którym został ogłoszony tekst pierwotny albo ostatni tekst jednolity), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia … … (przy czym podaje się oznaczenie dzienników urzędowych, w których został ogłoszony tekst pierwotny i wszystkie jego zmiany, a także dziennika urzędowego, w którym została ogłoszona zmiana tego tekstu w zakresie terminu wejścia w życie ustawy),
+2) … oraz zmian wynikających z przepisów ogłoszonych przed dniem … (podaje się dzień, na który ustalono stan prawny, zgodnie z którym sporządzono tekst jednolity).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. … ustawy z dnia … … (przy czym podaje się oznaczenie dzienników urzędowych, w których został ogłoszony tekst pierwotny i wszystkie jego zmiany, a także dziennika urzędowego, w którym została ogłoszona zmiana tego tekstu w zakresie terminu wejścia w życie ustawy), który stanowi: „Art. …”;
+2) …”.
+§ 105. Jeżeli na podstawie przepisu późniejszego można ustalić w sposób niewątpliwy, że przepis wcześniejszy nie obowiązuje, w obwieszczeniu o ogłoszeniu tekstu jednolitego czyni się o tym wzmiankę w brzmieniu: „Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia … … nie obejmuje przepisu art. … tej ustawy jako wygasłego od dnia … w związku z wejściem w życie art. … ustawy z dnia … … (Dz. U. …)”. W takim przypadku w treści obwieszczenia o ogłoszeniu tekstu jednolitego, o której mowa w § 104, wzmiankę w tej sprawie zamieszcza się jako odrębny kolejny punkt (pkt 3).”;
+59) w § 106 pkt 2–4 otrzymują brzmienie: „2) w miejscu uchylonej jednostki redakcyjnej lub systematyzacyjnej wpisuje się oznaczenie uchylonej jednostki oraz określenie „uchylony”, podając w odnośniku tytuł ustawy uchylającej oraz oznaczenie dziennika urzędowego, w którym została ogłoszona ta ustawa, i dziennika urzędowego, w którym została ogłoszona zmiana w zakresie terminu wejścia w życie ustawy, a także podaje się przepis uchylający i datę jego wejścia w życie;
+3) przy jednostkach redakcyjnych lub systematyzacyjnych, których treść zmieniono, i przy jednostkach dodanych podaje się w odnośnikach do tych jednostek tytuł ustawy nowelizującej oraz oznaczenie dziennika urzędowego, w którym została ogłoszona ta ustawa, i dziennika urzędowego, w którym została ogłoszona zmiana w zakresie terminu wejścia w życie ustawy, a także podaje się przepis nowelizujący i datę jego wejścia w życie;
+4) w przypadku jednostek redakcyjnych lub systematyzacyjnych wielokrotnie zmienianych, w odnośnikach do tych jednostek podaje się ostatnią zmianę, zgodnie z zasadami wyrażonymi w pkt 2 i 3.”;
+60) § 108 otrzymuje brzmienie: „§ 108. W odnośnikach do tekstu jednolitego omawia się również zmiany inne niż wymienione w § 106 pkt 2–4 i § 107, w tym zmiany wynikające z orzeczenia Trybunału Konstytucyjnego stwierdzającego niezgodność przepisów ustawy z Konstytucją Rzeczypospolitej Polskiej lub ratyfikowaną umową międzynarodową, której ratyfikacja wymagała uprzedniej zgody wyrażonej w ustawie, oraz zmiany, które nastąpiły w przepisach, do których odsyła ustawa, której tekst jednolity jest ogłaszany.”;
+61) w § 112 ust. 3 otrzymuje brzmienie: „3. Treść obwieszczenia o sprostowaniu błędu formułuje się według wzoru: „Na podstawie art. 17 ust. 3 (art. 17 ust. 2a, 2b albo 4 – gdy obwieszczenie wydaje inny organ niż Prezes Rady Ministrów) ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. …) obwieszcza się, że w … (tytuł aktu normatywnego z oznaczeniem dziennika urzędowego, w którym został ogłoszony ten akt) w … (oznaczenie jednostki redakcyjnej) zamiast wyrazu „…” powinien być wyraz „…”.”.”;
+62) uchyla się § 116;
+63) § 117 otrzymuje brzmienie: „§ 117. W rozporządzeniu nie zamieszcza się przepisów karnych i przepisów o karach pieniężnych, a także przepisów odsyłających do przepisów karnych i przepisów o karach pieniężnych.”;
+64) w § 120 ust. 2 otrzymuje brzmienie: „2. Nazwę organu wydającego rozporządzenie podaje się w brzmieniu ustalonym w przepisach o utworzeniu tego organu. W przypadku ministrów ich nazwę podaje się według nazwy ministerstwa, którym kierują, z wyjątkiem Ministra Obrony Narodowej i Ministra Sprawiedliwości, których wskazuje się ich nazwami własnymi.”;
+65) § 122 otrzymuje brzmienie: „§ 122. 1. Jeżeli w upoważnieniu ustawowym jako organ właściwy do wydania rozporządzenia wskazano ministra określonego nazwą działu administracji rządowej, do tytułu rozporządzenia po nazwie ministra wydającego rozporządzenie dodaje się odnośnik, w którym wskazuje się przepis prawny, na podstawie którego minister ten kieruje działem administracji rządowej wskazanym w upoważnieniu ustawowym.
+2. Jeżeli właściwość organu wskazanego w upoważnieniu ustawowym jako organ właściwy do wydania rozporządzenia przejął inny organ albo jeżeli organ wskazany w upoważnieniu ustawowym przestał istnieć, a jego kompetencje przejął inny organ, w odnośniku, o którym mowa w ust. 1, wskazuje się przepis prawny przekazujący kompetencje organu wskazanego w przepisie upoważniającym organowi wydającemu rozporządzenie.”;
+66) § 124 otrzymuje brzmienie: „§ 124. 1. Podstawową jednostką redakcyjną rozporządzenia jest paragraf (§).
+2. Paragrafy można dzielić na ustępy, ustępy na punkty, punkty na litery, litery na tiret, a tiret na podwójne tiret.”;
+67) po § 124 dodaje się § 124a w brzmieniu: „§ 124a. 1. W celu systematyzacji przepisów rozporządzenia paragrafy można grupować w jednostki systematyzacyjne.
+2. Paragrafy grupuje się w rozdziały, a rozdziały grupuje się w działy.
+3. W rozporządzeniu wyjątkowo można wprowadzić dodatkowo oddziały jako jednostki systematyzacyjne niższego stopnia niż rozdział.”;
+68) w § 125:
+a) pkt 1 otrzymuje brzmienie: „1) określa się jego przedmiot, jeżeli nie jest on określony w tytule rozporządzenia w sposób szczegółowy i wyczerpujący, rozpoczynając przepis od wyrazów: „Rozporządzenie określa …”;”,
+b) dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. W przepisach ogólnych zamieszcza się również inne, niż wskazane w ust. 1, postanowienia wspólne dla wszystkich albo dla większości przepisów merytorycznych zawartych w rozporządzeniu.”;
+69) § 126 otrzymuje brzmienie: „§ 126. 1. W rozporządzeniu zamieszcza się przepis uchylający inne rozporządzenie tylko w przypadku, gdy ma ono uchylić rozporządzenie wcześniejsze, które zostało wydane na podstawie tego samego, nadal obowiązującego przepisu upoważniającego, przez:
+1) ten sam organ, który wydaje rozporządzenie uchylające;
+2) organ, którego właściwość przejął organ wydający rozporządzenie uchylające.
+2. Nie uchyla się rozporządzenia, które zostało pozostawione czasowo w mocy przez obowiązującą ustawę.
+W takiej sytuacji w nowym rozporządzeniu zamieszcza się odnośnik do przepisu o wejściu w życie informujący o rozporządzeniu, które przestało obowiązywać na podstawie samego prawa, a którego treść wiąże się z treścią nowego rozporządzenia, podając również termin utraty mocy obowiązującej wymienionego rozporządzenia oraz przepis prawny, w następstwie którego przestało ono obowiązywać.
+3. W rozporządzeniu zamieszcza się odnośnik do przepisu o wejściu w życie informujący o rozporządzeniu, którego treść wiąże się z treścią nowego rozporządzenia, a które przestało obowiązywać na podstawie samego prawa z dniem wejścia w życie przepisu zmieniającego albo uchylającego przepis upoważniający do wydania tego rozporządzenia. W odnośniku tym podaje się również termin utraty mocy obowiązującej wymienionego rozporządzenia oraz przepis prawny, w następstwie którego przestało ono obowiązywać.”;
+70) uchyla się § 130;
+71) w § 131 uchyla się ust. 2;
+72) § 132–135 otrzymują brzmienie: „§ 132. Do projektów rozporządzeń stosuje się odpowiednio zasady wyrażone w dziale I w rozdziałach 1–7 i w dziale II, o ile zasady zawarte w niniejszym dziale nie stanowią inaczej.
+§ 133. Uchwały Rady Ministrów są wydawane na podstawie Konstytucji Rzeczypospolitej Polskiej lub ustawy, a uchwały innych podmiotów oraz zarządzenia – na podstawie ustawy.
+§ 134. Podstawą wydania uchwały i zarządzenia jest przepis prawny, który:
+1) upoważnia dany podmiot do uregulowania określonego zakresu spraw;
+2) wyznacza zadania lub kompetencje danego podmiotu.
+§ 135. W uchwale i zarządzeniu zamieszcza się przepisy prawne regulujące wyłącznie sprawy z zakresu przekazanego w przepisie, o którym mowa w § 134 pkt 1, oraz sprawy należące do zadań lub kompetencji podmiotu, o których mowa w § 134 pkt 2.”;
+73) uchyla się § 136;
+74) § 137 otrzymuje brzmienie: „§ 137. W uchwale i zarządzeniu nie powtarza się przepisów ustaw oraz przepisów innych aktów normatywnych.”;
+75) § 141 otrzymuje brzmienie: „§ 141. Do projektów uchwał i zarządzeń stosuje się odpowiednio zasady wyrażone w dziale V, z wyjątkiem § 132, w dziale I w rozdziałach 1–7 i w dziale II, o ile zasady zawarte w niniejszym dziale nie stanowią inaczej.”;
+76) uchyla się § 142;
+77) § 143 otrzymuje brzmienie: „§ 143. Do projektów aktów prawa miejscowego stosuje się odpowiednio zasady wyrażone w dziale VI, z wyjątkiem § 141, w dziale V, z wyjątkiem § 132, w dziale I w rozdziałach 1–7 i w dziale II, a do przepisów porządkowych – również w dziale I w rozdziale 9, chyba że odrębne przepisy stanowią inaczej.”;
+78) w § 151 ust. 1 otrzymuje brzmienie: „1. Definicję formułuje się tak, aby wskazywała w sposób niebudzący wątpliwości, że odnosi się do znaczenia określeń, w szczególności nadaje się jej postać: „Określenie „a” oznacza b.” albo „Określenie „a” znaczy tyle co wyrażenie „b”.”.”;
+79) w § 153 ust. 3 otrzymuje brzmienie: „3. Jeżeli nie jest możliwe sformułowanie definicji, o której mowa w ust. 1 lub 2, można objaśnić znaczenie danego określenia przez przykładowe wyliczenie jego zakresu, wyraźnie wskazując przykładowy charakter wyliczenia przez posłużenie się zwrotem: „w szczególności”.”;
+80) w § 154 ust. 4 otrzymuje brzmienie: „4. W przepisie, w którym formułuje się definicję, nie wprowadza się skrótu dla oznaczenia określenia definiowanego.”;
+81) § 158 otrzymuje brzmienie: „§ 158. 1. Jeżeli w akcie normatywnym odsyła się do innego aktu normatywnego, przy odesłaniu przytacza się w całości aktualny tytuł tego aktu oraz oznaczenie:
+1) pozycji oraz, w razie potrzeby, rocznika dziennika urzędowego, w którym ten akt ogłoszono – jeżeli akt ten nie był nowelizowany;
+2) pozycji oraz, w razie potrzeby, rocznika dziennika urzędowego, w którym ogłoszono zarówno pierwotny tekst tego aktu, jak i akty zmieniające ten akt – jeżeli akt ten był nowelizowany, a nie ogłoszono jego tekstu jednolitego;
+3) rocznika oraz pozycji dziennika urzędowego, w którym ogłoszono ostatni tekst jednolity tego aktu – jeżeli ogłoszono taki tekst jednolity;
+4) rocznika oraz pozycji dziennika urzędowego, w którym ogłoszono tekst jednolity, oraz dziennika urzędowego, w którym ogłoszono akty zmieniające tekst jednolity tego aktu – jeżeli ogłoszono tekst jednolity tego aktu, a był on nowelizowany.
+2. Jeżeli w akcie normatywnym odsyła się do innego aktu normatywnego więcej niż raz, przy kolejnym odesłaniu przytacza się tylko aktualny tytuł tego aktu w całości.
+3. W przypadku odesłania do przepisu, którego brzmienie zostało zmienione, jednakże przepis go zmieniający został uchylony w okresie jego vacatio legis, przytacza się również oznaczenie pozycji oraz, w razie potrzeby, rocznika dziennika urzędowego, w którym ogłoszono przepis zmieniający i przepis, który go uchylił.
+4. Jeżeli Trybunał Konstytucyjny wydał orzeczenie stwierdzające niezgodność aktu normatywnego, do którego się odsyła, albo poszczególnych jego przepisów, do których następuje odesłanie, z Konstytucją Rzeczypospolitej Polskiej, z ratyfikowaną umową międzynarodową lub z ustawą, przy przytaczaniu pozycji oraz, w razie potrzeby, rocznika dzienników urzędowych, w których ogłoszono dany akt i jego kolejne zmiany, podaje się również pozycję oraz, w razie potrzeby, rocznik dziennika urzędowego, w którym ogłoszono to orzeczenie. Nie przytacza się roczników oraz pozycji dzienników urzędowych, w których ogłoszono orzeczenia Trybunału Konstytucyjnego uznające, że akt normatywny, do którego następuje odesłanie, jest zgodny albo nie jest niezgodny z Konstytucją Rzeczypospolitej Polskiej, z ratyfikowaną umową międzynarodową lub z ustawą, oraz orzeczenia o umorzeniu postępowania albo o pozostawieniu wniosku właściwego organu bez rozpoznania.
+5. Jeżeli liczba zmian aktu normatywnego, do którego następuje odesłanie, albo jego tekstu jednolitego jest większa niż pięć, można nie wymieniać roczników oraz pozycji dzienników urzędowych, w których ogłoszono te zmiany, a poprzestać jedynie na podaniu pozycji oraz, w razie potrzeby, rocznika dziennika urzędowego, w którym ogłoszono pierwotny tekst tego aktu albo jego ostatni tekst jednolity z dopiskiem „z późn. zm.”, po którym zamieszcza się odnośnik.
+6. W odnośniku, o którym mowa w ust. 5, wymienia się wszystkie kolejne zmiany pierwotnego tekstu danego aktu normatywnego albo jego ostatniego tekstu jednolitego, podając odpowiednie roczniki oraz pozycje dzienników urzędowych.
+7. Oznaczenie dzienników urzędowych formułuje się w postaci: „(… (skrót nazwy dziennika urzędowego) poz. … i …, z … r. poz. … oraz z … r. poz. …)”, przy czym w przypadku ogłoszenia w dzienniku urzędowym pierwotnego tekstu aktu normatywnego w innym roku niż wymieniony w dacie tego aktu oraz w przypadku ogłoszenia tekstu jednolitego aktu normatywnego, po powołaniu skrótu nazwy dziennika urzędowego podaje się rocznik tego dziennika urzędowego („z … r.”).”;
+82) w § 161 ust. 1 i 2 otrzymują brzmienie: „1. Zasady przytaczania tytułów aktów normatywnych, wraz z oznaczeniem roczników oraz pozycji dzienników urzędowych, w których te akty zostały ogłoszone, wyrażone w § 158 ust. 1 i 3–7, stosuje się również w przepisach epizodycznych, przejściowych i dostosowujących oraz w przepisach zmieniających i uchylających przy powoływaniu zmienianych albo uchylanych aktów normatywnych, a także w podstawach prawnych aktów normatywnych innych niż ustawa.
+2. Podając oznaczenia roczników oraz pozycji, w których zostały ogłoszone kolejne zmiany zmienianego albo uchylanego aktu normatywnego lub jego teksty jednolite, podaje się roczniki oraz pozycje dzienników urzędowych, które ukazały się do dnia uchwalenia albo wydania aktu zmieniającego albo uchylającego.”;
+83) po § 161 dodaje się § 161a w brzmieniu: „§ 161a. 1. Jeżeli w akcie normatywnym odsyła się do postanowień aktu normatywnego ustanowionego przez instytucję Unii Europejskiej, przy odesłaniu przytacza się w całości aktualny tytuł tego aktu w brzmieniu ogłoszonym w dzienniku urzędowym z podaniem rodzaju aktu, organu, który go wydał, i numeru aktu oraz jego daty i przedmiotu, a także oznaczenie:
+1) serii, numeru oraz daty i strony dziennika urzędowego, w którym ten akt ogłoszono – jeżeli akt ten nie był nowelizowany;
+2) serii, numeru oraz daty i strony dziennika urzędowego, w którym ogłoszono pierwotny tekst tego aktu, z dopiskiem „z późn. zm.”, po którym zamieszcza się odnośnik – jeżeli akt ten był nowelizowany.
+2. Jeżeli w akcie normatywnym odsyła się do postanowień aktu normatywnego, o którym mowa w ust. 1, więcej niż jeden raz, przy kolejnym odesłaniu przytacza się tylko aktualny tytuł tego aktu w całości.
+3. Oznaczenie dzienników urzędowych formułuje się w postaci: „(… (skrót nazwy dziennika urzędowego) … (seria) … (numer) z … (data zapisana cyframi w postaci dd.mm.rrrr), str. …)”.
+4. W odnośniku, o którym mowa w ust. 1 pkt 2, kolejne zmiany aktu normatywnego wymienia się, podając oznaczenia dzienników urzędowych, w których je ogłoszono, w postaci określonej w ust. 3.
+5. W przypadku aktów normatywnych, o których mowa w ust. 1, ogłoszonych przed dniem 1 maja 2004 r.
+przytacza się obok oznaczenia dziennika urzędowego, w którym ogłoszono akt przed tym dniem, również oznaczenie:
+1) rozdziału, tomu i strony dziennika urzędowego – wydanie specjalne, w którym ogłoszono ten akt w języku polskim – jeżeli akt ten nie był nowelizowany;
+2) rozdziału, tomu i strony dziennika urzędowego – wydanie specjalne, w którym ogłoszono ten akt w języku polskim, z dopiskiem „z późn. zm.”, po którym nie zamieszcza się odnośnika – jeżeli akt ten był nowelizowany przed dniem 1 maja 2004 r.
+6. Oznaczenie dziennika urzędowego – wydanie specjalne dodaje się po myślniku i formułuje w postaci: „… (skrót nazwy dziennika urzędowego) rozdz. …, t. …, str. …”.
+7. W przypadku, o którym mowa w ust. 5 pkt 2, oznaczenie dziennika urzędowego – wydanie specjalne, w którym ogłoszono w języku polskim akt zmieniający akt normatywny, do którego następuje odesłanie, przytacza w odnośniku, o którym mowa w ust. 1 pkt 2.
+8. Do odesłań do postanowień aktu normatywnego, o którym mowa w ust. 1, stosuje się odpowiednio § 159 i § 160.
+9. Jeżeli w akcie normatywnym odsyła się do postanowień nieogłoszonego w dzienniku urzędowym Unii Europejskiej aktu wykonawczego lub aktu delegowanego ustanawianego przez instytucję Unii Europejskiej, przy odesłaniu wskazuje się przepis aktu normatywnego ustanowionego przez instytucję Unii Europejskiej, który stanowi podstawę wydania aktu wykonawczego lub aktu delegowanego.
+10. Do odesłań, o których mowa w ust. 9, stosuje się odpowiednio ust. 1–7 oraz § 159 i § 160.”;
+84) w § 162 w ust. 2:
+a) uchyla się pkt 3,
+b) po pkt 3 dodaje się pkt 3a–3c w brzmieniu: „3a) Dziennik Urzędowy Unii Europejskiej – skrótem „Dz. Urz. UE”;
+3b) Dziennik Urzędowy Unii Europejskiej Polskie wydanie specjalne – skrótem „Dz. Urz. UE Polskie wydanie specjalne”;
+3c) Dziennik Urzędowy Wspólnot Europejskich – skrótem „Dz. Urz. WE”;”;
+85) § 163 otrzymuje brzmienie: „§ 163. 1. Odnośnik oznacza się cyframi arabskimi z nawiasem z prawej strony i umieszcza się z prawej strony, powyżej wyrażenia, do którego się odnosi. W przypadku gdy zachodzi konieczność umieszczenia po danym wyrażeniu dwóch albo więcej odnośników, oddziela się je przecinkami.
+2. W razie potrzeby odnośnik do tytułu albo przepisu można znowelizować, stosując odpowiednio zasady wyrażone w dziale II.”.
+§ 2. Do projektów aktów prawnych podlegających uzgodnieniom, które przed dniem wejścia w życie niniejszego rozporządzenia zostały skierowane do uzgodnień, a w przypadku projektów aktów prawnych niepodlegających uzgodnieniom – które przed dniem wejścia w życie niniejszego rozporządzenia zostały skierowane do podpisu, stosuje się przepisy dotychczasowe.
+§ 3. Rozporządzenie wchodzi w życie z dniem 1 marca 2016 r.
+Prezes Rady Ministrów: E. Kopacz
+

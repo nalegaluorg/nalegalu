@@ -8,10 +8,10 @@ pos: 1679
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 września 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1679 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 1 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1679/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 1 sierpnia 2017 r.
-w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 6. Wspieranie wdrażania Zintegrowanej Polityki Morskiej, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 2 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki i tryb przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 6. Wspieranie wdrażania Zintegrowanej Polityki Morskiej, zawartego w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, w tym:
+w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 6. Wspieranie wdrażania Zintegrowanej Polityki Morskiej, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 2 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki i tryb przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 6. Wspieranie wdrażania Zintegrowanej Polityki Morskiej, zawartego w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, w tym:
 1) szczegółowe wymagania, jakim powinny odpowiadać wnioski o dofinansowanie i wnioski o płatność, oraz tryb składania tych wniosków;
 2) szczegółowy sposób oceny oraz terminy rozpatrywania wniosków o dofinansowanie i wniosków o płatność;
 3) kryteria wyboru operacji;
@@ -42,7 +42,7 @@ zm. ), zwanego dalej „rozporządzeniem nr 508/2014”;
 2. Pomoc przyznaje się na realizację operacji:
 1) która nie jest finansowana z innych środków publicznych;
 2) spełniającej wymagania określone w programie w zakresie zapewnienia osiągnięcia i zachowania celów działania, o którym mowa w ust. 1, w ramach którego operacja jest realizowana;
-3) zgodnie z przepisami o zamówieniach publicznych w przypadku gdy przepisy te mają zastosowanie;
+3) zgodnie z przepisami o zamówieniach publicznych – w przypadku gdy przepisy te mają zastosowanie;
 4) spełniającej wymagania określone przepisami mającymi zastosowanie do inwestycji realizowanych w ramach danej operacji;
 5) dla której wykazano racjonalność kosztów, przez którą rozumie się dokonywanie wydatków w sposób celowy i oszczędny, z zachowaniem zasad:
 a) uzyskiwania najlepszych efektów z danych nakładów,
@@ -83,12 +83,12 @@ z 2016 r. poz. 2045, z późn. zm. ).
 1) opracowuje minister właściwy do spraw gospodarki morskiej;
 2) udostępnia się na stronie internetowej urzędu obsługującego ministra właściwego do spraw gospodarki morskiej oraz na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa i na stronie internetowej administrowanej przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”, nie później niż 14 dni przed rozpoczęciem terminu składania wniosków o dofinansowanie.
 § 7. Do kosztów kwalifikowalnych operacji w ramach działania Zintegrowany Nadzór Morski zalicza się:
-1) w zakresie rozwoju współpracy między przedstawicielami nauki, administracji i organizacjami sektora gospodarki morskiej koszty:
+1) w zakresie rozwoju współpracy między przedstawicielami nauki, administracji i organizacjami sektora gospodarki morskiej – koszty:
 a) najmu lokali lub budynków oraz najmu lub zakupu sprzętu konferencyjnego na potrzeby przeprowadzenia szkoleń, seminariów, konferencji i wizyt studyjnych,
 b) transportu lub zakwaterowania uczestników szkoleń, seminariów, konferencji i wizyt studyjnych,
 c) zakupu materiałów konferencyjnych oraz usług cateringowych na potrzeby organizacji szkoleń, seminariów, konferencji i wizyt studyjnych,
-d) przygotowania ekspertyz, opracowań i opinii z zakresu integracji systemów nadzoru morskiego;
-2) w zakresie opracowania i wdrożenia rozwiązań służących integracji systemów nadzoru morskiego, w tym projektów testowych koszty:
+d) przygotowania ekspertyz, opracowań i opinii – z zakresu integracji systemów nadzoru morskiego;
+2) w zakresie opracowania i wdrożenia rozwiązań służących integracji systemów nadzoru morskiego, w tym projektów testowych – koszty:
 a) przygotowania opracowań, analiz lub ekspertyz z zakresu integracji systemów nadzoru morskiego,
 b) zakupu sprzętu i oprogramowania związanego ze stworzeniem i utrzymaniem technologii umożliwiającej integrację poszczególnych systemów nadzoru morskiego,
 c) przygotowania opracowań dotyczących ewaluacji wyników i wniosków wynikających z badań nad możliwością integracji systemów nadzoru morskiego.
@@ -97,15 +97,15 @@ c) przygotowania opracowań dotyczących ewaluacji wyników i wniosków wynikaj�
 2) stowarzyszeniom, fundacjom, organizacjom pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r.
 o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 1817 i 1948 oraz z 2017 r. poz. 60 i 573) oraz innym organizacjom pozarządowym, realizującym statutowe zadania objęte działem administracji rządowej gospodarka morska, w zakresie transportu morskiego, żeglugi morskiej, obszarów morskich, portów i przystani morskich, przemysłu stoczniowego lub ochrony środowiska morskiego;
 3) jednostkom naukowym realizującym statutowe zadania objęte działem administracji rządowej gospodarka morska, w zakresie transportu morskiego, żeglugi morskiej, obszarów morskich, portów i przystani morskich, przemysłu stoczniowego lub ochrony środowiska morskiego;
-4) szkołom wyższym oraz jednostkom międzyuczelnianym lub jednostkom wspólnym powstałym na podstawie porozumienia, o którym mowa w art. 31a ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym (Dz. U. z 2016 r.
+4) szkołom wyższym oraz jednostkom międzyuczelnianym lub jednostkom wspólnym powstałym na podstawie porozumienia, o którym mowa w art. 31a ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r.
 poz. 1842, z późn. zm. );
 5) podmiotom realizującym zadania w zakresie parków narodowych, parków krajobrazowych lub obszarów NATURA 2000 zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn. zm. ).
 2. Warunkiem przyznania pomocy podmiotom, o których mowa w ust. 1 pkt 2, jest prowadzenie przez te podmioty działalności statutowej w zakresie określonym w tym przepisie przez okres co najmniej 2 lat przed dniem złożenia wniosku o dofinansowanie.
 3. Pomoc, o której mowa w ust. 1, z wyłączeniem kosztów, o których mowa w § 9 pkt 1 i 2, przyznaje się do wysokości:
-1) 50 000 zł w przypadku operacji, których zasięg obejmuje obszar nie więcej niż 3 województw;
-2) 70 000 zł w przypadku operacji, których zasięg obejmuje obszar co najmniej 4 województw.
+1) 50 000 zł – w przypadku operacji, których zasięg obejmuje obszar nie więcej niż 3 województw;
+2) 70 000 zł – w przypadku operacji, których zasięg obejmuje obszar co najmniej 4 województw.
 4. Pomoc, o której mowa w ust. 1, przyznaje się na operacje o wartości kosztów kwalifikowalnych wynoszącej co najmniej 10 000 zł.
-§ 9. Do kosztów kwalifikowalnych operacji w ramach działania promowanie ochrony środowiska morskiego i zrównoważonej eksploatacji zasobów zalicza się koszty:
+§ 9. Do kosztów kwalifikowalnych operacji w ramach działania promowanie ochrony środowiska morskiego i zrównoważonej eksploatacji zasobów zalicza się – koszty:
 1) zakupu lub użytkowania aparatury specjalistycznej do celów kontroli przestrzegania wymogów środowiskowych, w tym prowadzenia monitoringu środowiska, zgodnie z planami ochrony dla obszarów NATURA 2000 położonych na obszarach morskich;
 2) wykonania inwentaryzacji i dokumentacji przyrodniczych oraz sporządzania projektów planów ochrony dla położonego na obszarach morskich obszaru NATURA 2000 w zakresie, o którym mowa w art. 29 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
 3) wynajmu sali, zakupu usług cateringowych, materiałów biurowych lub promocyjnych, na potrzeby spotkań konsultacyjnych lub postępowań z udziałem społeczeństwa na potrzeby prac, o których mowa w pkt 2;
@@ -118,14 +118,14 @@ poz. 1842, z późn. zm. );
 2) stowarzyszeniom, fundacjom i organizacjom pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r.
 o działalności pożytku publicznego i o wolontariacie oraz innym organizacjom pozarządowym, realizującym statutowe zadania objęte działem administracji rządowej gospodarka morska, w zakresie transportu morskiego, żeglugi morskiej, obszarów morskich, portów i przystani morskich, przemysłu stoczniowego lub ochrony środowiska morskiego;
 3) jednostkom naukowym realizującym statutowe zadania objęte działem administracji rządowej gospodarka morska, w zakresie transportu morskiego, żeglugi morskiej, obszarów morskich, portów i przystani morskich, przemysłu stoczniowego lub ochrony środowiska morskiego;
-4) szkołom wyższym oraz jednostkom międzyuczelnianym lub jednostkom wspólnym powstałym na podstawie porozumienia, o którym mowa w art. 31a ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym;
+4) szkołom wyższym oraz jednostkom międzyuczelnianym lub jednostkom wspólnym powstałym na podstawie porozumienia, o którym mowa w art. 31a ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym;
 5) instytucjom kultury, dla których organizatorem jest minister właściwy do spraw kultury i dziedzictwa narodowego.
 2. Warunkiem przyznania pomocy podmiotom, o których mowa w ust. 1 pkt 2, jest prowadzenie przez te podmioty działalności statutowej w zakresie określonym w tym przepisie przez okres co najmniej 2 lat przed dniem złożenia wniosku o dofinansowanie.
 3. Pomoc, o której mowa w ust. 1, przyznaje się do wysokości:
-1) 50 000 zł w przypadku operacji, których zasięg obejmuje obszar nie więcej niż 3 województw;
-2) 70 000 zł w przypadku operacji, których zasięg obejmuje obszar co najmniej 4 województw.
+1) 50 000 zł – w przypadku operacji, których zasięg obejmuje obszar nie więcej niż 3 województw;
+2) 70 000 zł – w przypadku operacji, których zasięg obejmuje obszar co najmniej 4 województw.
 4. Pomoc, o której mowa w ust. 1, przyznaje się na operacje o wartości kosztów kwalifikowalnych wynoszącej co najmniej 10 000 zł.
-§ 11. Do kosztów kwalifikowalnych operacji w ramach działania poprawa wiedzy na temat stanu środowiska morskiego zalicza się koszty:
+§ 11. Do kosztów kwalifikowalnych operacji w ramach działania poprawa wiedzy na temat stanu środowiska morskiego zalicza się – koszty:
 1) zakupu materiałów biurowych lub promocyjnych, usług cateringowych na potrzeby organizacji szkoleń, seminariów, wizyt studyjnych, targów, konferencji lub wystaw tematycznych, z zakresu poprawy wiedzy na temat środowiska morskiego;
 2) transportu lub zakwaterowania dla uczestników szkoleń, seminariów, wizyt studyjnych, z zakresu poprawy wiedzy na temat środowiska morskiego;
 3) najmu lokali lub budynków, najmu lub zakupu sprzętu na potrzeby przeprowadzenia szkoleń, seminariów, wizyt studyjnych lub konferencji, z zakresu poprawy wiedzy na temat środowiska morskiego;
@@ -210,7 +210,7 @@ g) umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą przez
 h) prowadzenia wyodrębnionej ewidencji księgowej oraz dokumentacji finansowo-księgowej środków finansowych zgodnie z przepisami o rachunkowości, w sposób umożliwiający identyfikację poszczególnych operacji księgowych lub korzystania z odpowiedniego kodu księgowego dla wszystkich transakcji związanych z operacją, o których mowa w art. 125 ust. 4 lit. b rozporządzenia nr 1303/2013,
 i) informowania Agencji o zakończonym postępowaniu o udzielenie zamówienia publicznego, przeprowadzonym w ramach realizacji operacji, jeżeli beneficjent był zobowiązany do przeprowadzenia tego postępowania na podstawie przepisów o zamówieniach publicznych, oraz przedłożenia Agencji dokumentów związanych z postępowaniem o udzielenie zamówienia publicznego, w tym umowy w sprawie zamówienia publicznego,
 j) osiągnięcia kryteriów wyboru operacji,
-k) zachowania konkurencyjnego trybu wyboru wykonawców poszczególnych zadań ujętych w zestawieniu rzeczowo-finansowym operacji w przypadku gdy do ich wyboru nie mają zastosowania przepisy o zamówieniach publicznych;
+k) zachowania konkurencyjnego trybu wyboru wykonawców poszczególnych zadań ujętych w zestawieniu rzeczowo-finansowym operacji – w przypadku gdy do ich wyboru nie mają zastosowania przepisy o zamówieniach publicznych;
 2) terminy złożenia wniosku o płatność oraz terminy wypłaty pomocy;
 3) informacja o przypadkach, w których wypłacona beneficjentowi pomoc podlega zwrotowi.
 2. Okres, którego dotyczą zobowiązania wymienione w ust. 1 pkt 1, liczy się od dnia dokonania przez Agencję płatności końcowej.
@@ -225,8 +225,8 @@ k) zachowania konkurencyjnego trybu wyboru wykonawców poszczególnych zadań uj
 2) całej operacji (płatność końcowa).
 3. Wniosek o płatność składa się na formularzu opracowanym i udostępnionym przez Agencję w formie pisemnej, w postaci papierowej, osobiście przez osobę upoważnioną przez beneficjenta, bezpośrednio w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji.
 4. Operacja może być realizowana w nie więcej niż czterech etapach, przy czym wykonanie zakresu rzeczowego, zgodnie z zestawieniem rzeczowo-finansowym operacji, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych operacji oraz złożenie wniosku o płatność końcową, następuje w terminie:
-1) 36 miesięcy od dnia zawarcia umowy o dofinansowanie w przypadku operacji realizowanych w kilku etapach,
-2) 24 miesięcy od dnia zawarcia umowy o dofinansowanie w przypadku operacji realizowanych w jednym etapie lecz nie później niż do dnia 31 marca 2023 r.
+1) 36 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w kilku etapach,
+2) 24 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 31 marca 2023 r.
 5. W przypadku gdy operacja jest realizowana w etapach, złożenie pierwszego wniosku o płatność pośrednią następuje nie później niż w terminie 24 miesięcy od dnia zawarcia umowy o dofinansowanie.
 6. Do wniosku o płatność dołącza się dokumenty określone w załączniku nr 3 do rozporządzenia.
 7. Dokumenty, o których mowa w ust. 6, dołącza się w postaci papierowej, w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji, osobę upoważnioną przez beneficjenta lub podmiot, który wydał dokument, lub poświadczonych przez notariusza lub przez występującego w sprawie pełnomocnika będącego radcą prawnym lub adwokatem.
@@ -241,52 +241,52 @@ k) zachowania konkurencyjnego trybu wyboru wykonawców poszczególnych zadań uj
 § 30. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk KRYTERIA WYBORU OPERACJI
 1. Działanie Zintegrowany Nadzór Morski:
-1) operacja dotyczy integracji systemów nadzoru lub monitoringu morskiego służących realizacji zadań zdefiniowanych w komunikacie Komisji do Parlamentu Europejskiego i Rady „Poprawa orientacji sytuacyjnej dzięki wzmocnionej współpracy między organami nadzoru morskiego: kolejne kroki w ramach wspólnego mechanizmu wymiany informacji dla obszaru morskiego UE” z dnia 8 lipca 2014 r. [COM(2014) 451 final] (obrony, realizacji polityki celnej, kontroli granicznej, ogólnego egzekwowania prawa, kontroli rybołówstwa, ochrony środowiska morskiego/reagowania na zanieczyszczenia oraz bezpieczeństwa i ochrony na morzu) 5 pkt;
-2) operacja obejmuje współpracę dwóch lub więcej różnych użytkowników systemów nadzoru morskiego wymienionych w kryterium 1 3 pkt;
-3) operacja obejmuje współpracę co najmniej jednego z użytkowników systemów nadzoru morskiego wymienionych w kryterium 1 i co najmniej jednej jednostki naukowej realizującej statutowe zadania w zakresie gospodarki morskiej lub szkoły wyższej 1 pkt.
+1) operacja dotyczy integracji systemów nadzoru lub monitoringu morskiego służących realizacji zadań zdefiniowanych w komunikacie Komisji do Parlamentu Europejskiego i Rady „Poprawa orientacji sytuacyjnej dzięki wzmocnionej współpracy między organami nadzoru morskiego: kolejne kroki w ramach wspólnego mechanizmu wymiany informacji dla obszaru morskiego UE” z dnia 8 lipca 2014 r. [COM(2014) 451 final] (obrony, realizacji polityki celnej, kontroli granicznej, ogólnego egzekwowania prawa, kontroli rybołówstwa, ochrony środowiska morskiego/reagowania na zanieczyszczenia oraz bezpieczeństwa i ochrony na morzu) – 5 pkt;
+2) operacja obejmuje współpracę dwóch lub więcej różnych użytkowników systemów nadzoru morskiego wymienionych w kryterium 1 – 3 pkt;
+3) operacja obejmuje współpracę co najmniej jednego z użytkowników systemów nadzoru morskiego wymienionych w kryterium 1 i co najmniej jednej jednostki naukowej realizującej statutowe zadania w zakresie gospodarki morskiej lub szkoły wyższej – 1 pkt.
 2. Działanie promowanie ochrony środowiska morskiego i zrównoważonej eksploatacji zasobów:
 1) operacja ma na celu:
-a) ochronę środowiska morskiego i zrównoważoną eksploatację zasobów morskich i przybrzeżnych 5 pkt,
-b) ochronę środowiska morskiego 3 pkt,
-c) zrównoważoną eksploatację zasobów morskich i przybrzeżnych 2 pkt;
+a) ochronę środowiska morskiego i zrównoważoną eksploatację zasobów morskich i przybrzeżnych – 5 pkt,
+b) ochronę środowiska morskiego – 3 pkt,
+c) zrównoważoną eksploatację zasobów morskich i przybrzeżnych – 2 pkt;
 2) operacja służy opracowaniu planów ochrony dla obszarów NATURA 2000 położonych na obszarach morskich w zakresie, o którym mowa w art. 29 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r.
-poz. 2134, z późn. zm. ) 5 pkt;
-3) operacja jest działaniem ochronnym wynikającym z planów ochrony dla obszarów NATURA 2000 położonych na obszarach morskich w zakresie, o którym mowa w art. 29 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody 2 pkt;
+poz. 2134, z późn. zm. ) – 5 pkt;
+3) operacja jest działaniem ochronnym wynikającym z planów ochrony dla obszarów NATURA 2000 położonych na obszarach morskich w zakresie, o którym mowa w art. 29 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody – 2 pkt;
 4) zasięg oddziaływania operacji obejmuje:
-a) cały obszar Rzeczypospolitej Polskiej 5 pkt,
-b) obszary morskie Rzeczypospolitej Polskiej 3 pkt,
-c) obszar co najmniej 3 województw, ale mniej niż cały obszar Rzeczypospolitej Polskiej 1 pkt;
+a) cały obszar Rzeczypospolitej Polskiej – 5 pkt,
+b) obszary morskie Rzeczypospolitej Polskiej – 3 pkt,
+c) obszar co najmniej 3 województw, ale mniej niż cały obszar Rzeczypospolitej Polskiej – 1 pkt;
 5) dodatkowo przyznaje się 3 pkt, jeżeli operacja ma charakter innowacyjny.
 3. Działanie poprawa wiedzy na temat stanu środowiska morskiego:
 1) zasięg oddziaływania operacji obejmuje:
-a) cały obszar Rzeczypospolitej Polskiej 5 pkt,
-b) obszar co najmniej 3 województw, ale mniej niż cały obszar Rzeczypospolitej Polskiej 3 pkt,
-c) obszar 1 do 2 województw 1 pkt;
+a) cały obszar Rzeczypospolitej Polskiej – 5 pkt,
+b) obszar co najmniej 3 województw, ale mniej niż cały obszar Rzeczypospolitej Polskiej – 3 pkt,
+c) obszar 1 do 2 województw – 1 pkt;
 2) operacja ma na celu:
-a) ochronę środowiska morskiego i zrównoważoną eksploatację zasobów morskich i przybrzeżnych 5 pkt,
-b) ochronę środowiska morskiego 3 pkt,
-c) zrównoważoną eksploatację zasobów morskich i przybrzeżnych 2 pkt;
+a) ochronę środowiska morskiego i zrównoważoną eksploatację zasobów morskich i przybrzeżnych – 5 pkt,
+b) ochronę środowiska morskiego – 3 pkt,
+c) zrównoważoną eksploatację zasobów morskich i przybrzeżnych – 2 pkt;
 3) dodatkowo przyznaje się 2 pkt, jeżeli operacja jest skierowana do dzieci lub młodzieży.
 ZAŁĄCZNIKI DO WNIOSKU O DOFINANSOWANIE
 1. Działanie Zintegrowany Nadzór Morski:
-1) pełnomocnictwo w przypadku gdy zostało udzielone;
-2) kopia aktu założycielskiego lub statutu w przypadku gdy wymaga tego specyfika operacji;
+1) pełnomocnictwo – w przypadku gdy zostało udzielone;
+2) kopia aktu założycielskiego lub statutu – w przypadku gdy wymaga tego specyfika operacji;
 3) pozytywna opinia ministra właściwego do spraw gospodarki morskiej, o której mowa w § 6 ust. 3 rozporządzenia;
-4) kopia dokumentu potwierdzającego prawo do dysponowania nieruchomością na cel związany z realizacją operacji w przypadku gdy wymaga tego specyfika operacji;
-5) studium wykonalności projektu dla danej operacji w przypadku braku pozwolenia budowlanego albo zgłoszenia, o których mowa w przepisach prawa budowlanego, lub pozwolenia wodnoprawnego, o którym mowa w przepisach prawa wodnego w przypadku gdy wymaga tego specyfika operacji;
+4) kopia dokumentu potwierdzającego prawo do dysponowania nieruchomością na cel związany z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji;
+5) studium wykonalności projektu dla danej operacji – w przypadku braku pozwolenia budowlanego albo zgłoszenia, o których mowa w przepisach prawa budowlanego, lub pozwolenia wodnoprawnego, o którym mowa w przepisach prawa wodnego – w przypadku gdy wymaga tego specyfika operacji;
 6) dokument potwierdzający koszty operacji;
 7) kopia umowy partnerskiej w przypadku realizacji operacji przez więcej niż jeden podmiot.
 2. Działanie promowanie ochrony środowiska morskiego i zrównoważonej eksploatacji zasobów:
-1) pełnomocnictwo w przypadku gdy zostało udzielone;
-2) kopia aktu założycielskiego lub statutu w przypadku gdy wymaga tego specyfika operacji;
-3) kopia dokumentu potwierdzającego prawo do dysponowania nieruchomością na cel związany z realizacją operacji w przypadku gdy wymaga tego specyfika operacji;
+1) pełnomocnictwo – w przypadku gdy zostało udzielone;
+2) kopia aktu założycielskiego lub statutu – w przypadku gdy wymaga tego specyfika operacji;
+3) kopia dokumentu potwierdzającego prawo do dysponowania nieruchomością na cel związany z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji;
 4) dokument potwierdzający koszty operacji;
 5) kopia umowy partnerskiej w przypadku realizacji projektu przez więcej niż jeden podmiot;
 6) oświadczenie potwierdzające prowadzenie działalności, o której mowa w § 8 ust. 2 rozporządzenia.
 3. Działanie poprawa wiedzy na temat stanu środowiska morskiego:
-1) pełnomocnictwo w przypadku gdy zostało udzielone;
-2) kopia aktu założycielskiego lub statutu w przypadku gdy wymaga tego specyfika operacji;
-3) kopia dokumentu potwierdzającego prawo do dysponowania nieruchomością na cel związany z realizacją operacji w przypadku gdy wymaga tego specyfika operacji;
+1) pełnomocnictwo – w przypadku gdy zostało udzielone;
+2) kopia aktu założycielskiego lub statutu – w przypadku gdy wymaga tego specyfika operacji;
+3) kopia dokumentu potwierdzającego prawo do dysponowania nieruchomością na cel związany z realizacją operacji – w przypadku gdy wymaga tego specyfika operacji;
 4) dokument potwierdzający koszty operacji;
 5) kopia umowy partnerskiej w przypadku realizacji projektu przez więcej niż jeden podmiot;
 6) oświadczenie potwierdzające prowadzenie działalności, o której mowa w § 10 ust. 2 rozporządzenia.
@@ -297,13 +297,13 @@ ZAŁĄCZNIKI DO WNIOSKU O PŁATNOŚĆ
 3) co najmniej dwie oferty otrzymane przez wnioskodawcę dla każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji.
 2. Działanie promowanie ochrony środowiska morskiego i zrównoważonej eksploatacji zasobów:
 1) kopie faktur lub innych dokumentów księgowych o równoważnej wartości dowodowej wraz z dowodami zapłaty, zgodnie z wykazem dokumentów potwierdzających poniesione wydatki;
-2) wzory materiałów promocyjnych w przypadku gdy wymaga tego specyfika operacji;
-3) dokumentacja fotograficzna w przypadku gdy wymaga tego specyfika operacji;
+2) wzory materiałów promocyjnych – w przypadku gdy wymaga tego specyfika operacji;
+3) dokumentacja fotograficzna – w przypadku gdy wymaga tego specyfika operacji;
 4) co najmniej dwie oferty otrzymane przez wnioskodawcę dla każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji.
 3. Działanie poprawa wiedzy na temat stanu środowiska morskiego:
 1) kopie faktur lub innych dokumentów księgowych o równoważnej wartości dowodowej wraz z dowodami zapłaty, zgodnie z wykazem dokumentów potwierdzających poniesione wydatki;
-2) dokument potwierdzający podniesienie kwalifikacji zawodowych, w tym zaświadczenie o ukończeniu szkolenia, seminarium, warsztatu edukacyjnego lub otrzymanych certyfikatach w przypadku gdy wymaga tego specyfika operacji;
-3) dokumentacja fotograficzna w przypadku gdy wymaga tego specyfika operacji;
-4) wzory materiałów promocyjnych w przypadku gdy wymaga tego specyfika operacji;
+2) dokument potwierdzający podniesienie kwalifikacji zawodowych, w tym zaświadczenie o ukończeniu szkolenia, seminarium, warsztatu edukacyjnego lub otrzymanych certyfikatach – w przypadku gdy wymaga tego specyfika operacji;
+3) dokumentacja fotograficzna – w przypadku gdy wymaga tego specyfika operacji;
+4) wzory materiałów promocyjnych – w przypadku gdy wymaga tego specyfika operacji;
 5) co najmniej dwie oferty otrzymane przez wnioskodawcę dla każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji.
 

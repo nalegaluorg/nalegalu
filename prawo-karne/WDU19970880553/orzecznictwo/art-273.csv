@@ -60,6 +60,7 @@ saos_id|date|court|case_number|type|score|saos_url
 82548|2004-03-01|SN|V KK 248/03|Postanowienie|69|https://www.saos.org.pl/judgments/82548
 82504|2004-02-17|SN|II KK 277/02|Postanowienie|69|https://www.saos.org.pl/judgments/82504
 81979|2003-04-24|SN|WK 4/03|Postanowienie|69|https://www.saos.org.pl/judgments/81979
+545018|2025-09-22|SO|II AKa 154/24|Wyrok|56|https://www.saos.org.pl/judgments/545018
 536106|2025-07-31|SO|II AKa 320/24|Wyrok|56|https://www.saos.org.pl/judgments/536106
 531101|2025-05-27|SO|II AKa 256/24|Wyrok|56|https://www.saos.org.pl/judgments/531101
 525440|2025-03-26|SO|II AKa 124/22|Wyrok|56|https://www.saos.org.pl/judgments/525440
@@ -481,6 +482,7 @@ saos_id|date|court|case_number|type|score|saos_url
 445381|2021-07-05|SO|IV K 176/19|Wyrok|40|https://www.saos.org.pl/judgments/445381
 441698|2021-05-31|SO|IV K 243/20|Wyrok|40|https://www.saos.org.pl/judgments/441698
 440324|2021-05-21|SO|III Pa 4/21|Wyrok|40|https://www.saos.org.pl/judgments/440324
+547015|2021-05-11|SO|III K 47/12|Wyrok|40|https://www.saos.org.pl/judgments/547015
 430848|2021-01-26|SO|IV P 66/20|Wyrok|40|https://www.saos.org.pl/judgments/430848
 503310|2020-11-26|SO|II K 56/12|Wyrok|40|https://www.saos.org.pl/judgments/503310
 438618|2020-11-03|SO|IV Ka 663/20|Wyrok|40|https://www.saos.org.pl/judgments/438618
@@ -573,6 +575,7 @@ saos_id|date|court|case_number|type|score|saos_url
 502873|2024-05-27|SO|II K 2686/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/502873
 511241|2023-12-20|SO|VI Ka 666/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/511241
 491340|2023-07-17|SO|IV K 111/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/491340
+547016|2023-01-26|SO|III K 47/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/547016
 490729|2022-10-24|SO|III K 288/22|Zarządzenie|27|https://www.saos.org.pl/judgments/490729
 470090|2022-07-18|SO|VIII U 130/22|Zarządzenie|27|https://www.saos.org.pl/judgments/470090
 471041|2022-06-03|SO|IV K 142/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/471041

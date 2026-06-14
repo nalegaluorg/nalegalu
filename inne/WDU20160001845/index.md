@@ -8,10 +8,10 @@ pos: 1845
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 listopada 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1845 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 9 listopada 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001845) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1845/text.pdf) |
 
-Poz. 1845 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 9 listopada 2016 r.
-w sprawie oznakowania krwi i jej składników Na podstawie art. 29a ust. 6 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2014 r. poz. 332 oraz z 2016 r. poz. 823) zarządza się, co następuje: § 1. Rozporządzenie określa sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację jednostek organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4 ustawy z dnia 22 sierpnia 1997 r.
+w sprawie oznakowania krwi i jej składników Na podstawie art. 29a ust. 6 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2014 r. poz. 332 oraz z 2016 r. poz. 823) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację jednostek organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4 ustawy z dnia 22 sierpnia 1997 r.
 o publicznej służbie krwi, zwanych dalej „jednostkami”, dawcy krwi oraz sposób oznaczania krwi i jej składników za pomocą tego oznakowania.
 § 2. Niepowtarzalne oznakowanie umożliwiające identyfikację jednostek, dawcy krwi oraz uzyskanej krwi i jej składników, zwane dalej „niepowtarzalnym oznakowaniem”, jest tworzone przez sukcesywne dodawanie, w miarę wykonywanych czynności i procesów, w określonej kolejności, oznaczeń stanowiących ich odzwierciedlenie.
 § 3. 1. Niepowtarzalne oznakowanie obejmuje:
@@ -35,7 +35,6 @@ a) pięcioznakowego kodu alfanumerycznego, identyfikującego państwo i jednostk
 b) dwuznakowego kodu numerycznego, określającego rok pobrania,
 c) sześciocyfrowego kodu, określającego kolejny numer pobrania w danym roku dla danego miejsca pobrania;
 2) dwucyfrowy kod służący zidentyfikowaniu konkretnej etykiety i ułatwieniu kontroli oraz znak kontrolny, który jest przypisywany automatycznie przez system i służy sprawdzeniu poprawności ręcznie wpisywanego kodu numeru pobrania;
-Dziennik Ustaw – 2 – Poz. 1845
 3) datę pobrania zapisaną w formacie RRRR-MM-DD albo DD-MMM-RRRR;
 4) datę preparatyki zapisaną w formacie RRRR-MM-DD albo DD-MMM-RRRR;
 5) numer i opis krwi lub jej składników, zgodny z międzynarodowym systemem znakowania ISBT 128, uwzględniający:

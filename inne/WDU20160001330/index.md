@@ -8,7 +8,7 @@ pos: 1330
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o muzeach
@@ -28,6 +28,21 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001330) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1330/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446 oraz z 2015 r. poz. 397 i 774) wprowadza s1330astępujące zmiany:
+
+- **1)** w art. 2 ust. 2 otrzymuje brzmienie: „2. Ochronę materiałów archiwalnych wchodzących w skład narodowego zasobu archiwalnego regulują przepisy ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698, z późn. zm. ), z uwzględnieniem przepisów art. 14a ust. 2 oraz rozdziału 2a.”;
+- **2)** w art. 7 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) wpis na Listę Skarbów Dziedzictwa;”;
+- **3)** w art. 8 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Rejestr prowadzi się w formie odrębnych ksiąg dla zabytków:
+- **1)** nieruchomych;
+- **2)** ruchomych;
+- **3)** archeologicznych.”;
+- **4)** art. 11 otrzymuje brzmienie: „Art. 11. Do rejestru nie wpisuje się zabytku:
+- **1)** wpisanego na Listę Skarbów Dziedzictwa;
+- **2)** wpisanego do inwentarza muzeum;
+- **3)** wchodzącego w skład narodowego zasobu bibliotecznego.”;
+- **5)** w art. 13 w ust. 4 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) został wpisany na Listę Skarbów Dziedzictwa;”;
+- **6)** po art. 14 dodaje się art. 14a i art. 14b w brzmieniu: „Art. 14a. 1. Listę Skarbów Dziedzictwa prowadzi minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+
+2. Na Listę Skarbów Dziedzictwa wpisuje się zabytek ruchomy o szczególnej wartości dla dziedzictwa kulturowego, zaliczany do jednej z kategorii, o których mowa w art. 64 ust. 1, na podstawie decyzji wydanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z urzędu albo na wniosek właściciela zabytku ruchomego.
 
 **Art. 14b.**
 

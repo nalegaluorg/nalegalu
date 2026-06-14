@@ -8,7 +8,7 @@ pos: 648
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 25/99 Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący Jerzy Ciemniewski Zdzisław Czeszejko-Sochacki – sprawozdawca Teresa Dębowska-Romanowska Lech Garlicki Stefan J. Jaworski Wiesław Johann Krzysztof Kolasiński Biruta Lewaszkiewicz-Petrykowska Andrzej Mączyński Ferdynand Rymarz Jadwiga Skórzewska-Łosiak Jerzy Stępień Janusz Trzciński Marian Zdyb Joanna Szymczak – protokolant po rozpoznaniu 20 czerwca 2000 r. w pełnym składzie na rozprawie z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej, Prezesa Narodowego Banku Polskiego i Prokuratora Generalnego sprawy z wniosku Prezesa Najwyższej Izby Kontroli:

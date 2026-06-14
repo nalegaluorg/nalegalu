@@ -8,7 +8,7 @@ pos: 655
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o obronie Ojczyzny W trosce o bezpieczeństwo naszej Ojczyzny, kierując się konstytucyjnym obowiązkiem Jej obrony nałożonym na każdego obywatela Rzeczypospolitej Polskiej oraz pragnąc zagwarantować wszystkim, którzy realizują ten obowiązek, jak najlepsze warunki, w szczególności żołnierzom, którzy pełnią służbę wojskową dla dobra Rzeczypospolitej Polskiej, a od których służba ta wymaga zdyscyplinowania, lojalności i poświęcenia, stanowi się, co następuje:
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-11 |
 | Data wydania | 2022-03-23 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.pdf) |
 
 Art. 698–776. (pominięte)
@@ -33,7 +33,91 @@ Art. 698–776. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zakres przedmiotowy i podmiotowy obowiązku obrony Ojczyzny;
+- **2)** rodzaje i skład Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „Siłami Zbrojnymi”, oraz ich zadania;
+- **3)** organy właściwe w sprawach obrony państwa i ich zadania;
+- **4)** zasady programowania i finansowania rozwoju Sił Zbrojnych;
+- **5)** sposób prowadzenia rejestracji i kwalifikacji wojskowej oraz ewidencji wojskowej;
+- **6)** sposób prowadzenia rekrutacji do służby wojskowej;
+- **7)** zasady kształcenia kandydatów do służby wojskowej oraz żołnierzy;
+- **8)** zasady współpracy z organizacjami proobronnymi;
+- **9)** rodzaje służby wojskowej;
+- **10)** zasady powoływania do służby wojskowej, jej przebieg i zasady zwalniania z tej służby;
+- **11)** uprawnienia i obowiązki służbowe żołnierzy;
+- **12)** zasady i sposób wyróżniania żołnierzy oraz ponoszenia przez nich odpowiedzialności dyscyplinarnej;
+- **13)** zasady otrzymywania uposażenia i innych świadczeń przez żołnierzy;
+- **14)** zakres odpowiedzialności majątkowej żołnierzy;
+- **15)** zakres świadczeń odszkodowawczych pozostających w związku ze służbą wojskową;
+- **16)** zasady pełnienia służby wojskowej w razie ogłoszenia mobilizacji, stanu wojennego i w czasie wojny;
+- **17)** inne formy spełniania obowiązku obrony Ojczyzny;
+- **18)** sposób ustalania jednostek przewidzianych do militaryzacji, właściwość organów w tym zakresie oraz zasady pełnienia służby w jednostkach zmilitaryzowanych;
+- **19)** właściwość organów w sprawach wnioskowania o uznanie obiektu za szczególnie ważny dla bezpieczeństwa lub obronności państwa;
+- **20)** zakres świadczeń na rzecz obrony;
+- **21)** zasady realizacji przez przedsiębiorców zadań na rzecz Sił Zbrojnych.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** cyberprzestrzeni – należy przez to rozumieć cyberprzestrzeń, o której mowa w art. 2 ust. 1b ustawy z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 504);
+- **2)** czasie wojny – należy przez to rozumieć czas działań wojennych prowadzonych na terytorium Rzeczypospolitej Polskiej, których początek i koniec jest określany w trybie postanowienia Prezydenta Rzeczypospolitej Polskiej wydanego na wniosek Rady Ministrów;
+- **3)** decyzji – należy przez to rozumieć decyzję wydawaną przez właściwy organ wojskowy oraz rozkaz personalny;
+- **4)** dowódcy jednostki wojskowej – należy przez to rozumieć osobę kierującą lub dowodzącą jednostką wojskową, w której żołnierz zajmuje stanowisko służbowe lub do której został skierowany w ramach pełnienia zawodowej służby wojskowej w dyspozycji;
+- **5)** drodze do miejsca i z miejsca wykonywania czynności, drodze z miejsca zamieszkania do jednostki wojskowej i z powrotem albo drodze na urlop lub przepustkę i z powrotem – należy przez to rozumieć najkrótszy czas dojazdu lądowym środkiem publicznego transportu zbiorowego, łącznie z przesiadkami, licząc od stacji (przystanku) najbliższej miejsca pełnienia służby do stacji (przystanku) najbliższej miejsca zamieszkania, bez uwzględnienia czasu dojazdu do i od stacji (przystanku) w obrębie miejscowości, z której żołnierz dojeżdża, oraz miejscowości, w której wykonuje obowiązki służbowe;
+- **6)** drodze służbowej – należy przez to rozumieć wnoszenie wystąpień (wniosków, skarg, próśb, zażaleń i pytań) za pośrednictwem kolejnych przełożonych, aż do właściwego do rozpatrzenia sprawy, który sprawę ostatecznie rozpatrzy;
+- **7)** dzieciach pozostających na utrzymaniu żołnierza zawodowego – należy przez to rozumieć dzieci własne żołnierza zawodowego, dzieci jego małżonka, dzieci przysposobione i dzieci przyjęte na wychowanie, do czasu zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie przekroczyły 18 roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w szkole wyższej 25 roku życia, albo
+    - **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a;
+
+- **8)** etacie – należy przez to rozumieć dokument określający cechy i charakterystykę jednostki organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej lub komórki organizacyjnej urzędu obsługującego Ministra Obrony Narodowej, jej wewnętrzną strukturę organizacyjną, liczbę, rodzaje i rangę wszystkich stanowisk służbowych ujętych w tym dokumencie oraz liczbę i rodzaje uzbrojenia, sprzętu wojskowego, środków transportu i innego wyposażenia należnego jednostce (komórce) organizacyjnej;
+- **9)** interesie bezpieczeństwa i obronności – należy przez to rozumieć całokształt potrzeb państwa mających na celu zapewnienie ochrony podstawowych wartości, takich jak: suwerenność, niepodległość, nienaruszalność terytorium, pozycja międzynarodowa oraz ład i porządek konstytucyjny;
+- **10)** jednostce organizacyjnej – należy przez to rozumieć jednostkę podległą Ministrowi Obrony Narodowej lub przez niego nadzorowaną, z wyłączeniem urzędu obsługującego Ministra Obrony Narodowej;
+- **11)** jednostce przewidzianej do militaryzacji – należy przez to rozumieć podmiot lub przedsiębiorcę, na które nałożono zadania na rzecz obronności lub bezpieczeństwa państwa oraz umieszczono w wykazie jednostek przewidzianych do militaryzacji prowadzonym przez Ministra Obrony Narodowej;
+- **12)** jednostce wojskowej – należy przez to rozumieć jednostkę organizacyjną Sił Zbrojnych oraz komórkę organizacyjną, funkcjonujące na podstawie nadanego przez Ministra Obrony Narodowej etatu, posługujące się pieczęcią urzędową z godłem Rzeczypospolitej Polskiej i nazwą (numerem) jednostki wojskowej;
+- **13)** komórce organizacyjnej – należy przez to rozumieć komórki organizacyjne tworzące urząd obsługujący Ministra Obrony Narodowej;
+- **14)** kwalifikacji wojskowej – należy przez to rozumieć proces ukierunkowany na określenie zdolności do pełnienia służby wojskowej;
+- **15)** militaryzacji – należy przez to rozumieć narzędzie wspomagające organy państwa w realizacji nałożonych na nie zadań obronnych będące specyficzną formą zadań obronnych stanowiącą środek realizacji przedsięwzięć określonych w planach operacyjnych organów administracji rządowej w wymiarze organizacyjnym i osobowym;
+- **16)** mobilizacji – należy przez to rozumieć proces przygotowania państwa, w tym Sił Zbrojnych, do osiągnięcia gotowości do przeciwdziałania bezpośredniemu zewnętrznemu zagrożeniu bezpieczeństwa państwa, uruchamiany zarządzeniem Prezydenta Rzeczypospolitej Polskiej;
+- **17)** mocach produkcyjnych, naprawczych lub usługowych – należy przez to rozumieć składniki materialne i niematerialne przeznaczone do prowadzenia działalności gospodarczej przez przedsiębiorcę i niezbędne do realizacji przez niego zadań na rzecz obronności państwa w zakresie zabezpieczenia potrzeb Sił Zbrojnych;
+- **18)** objęciu stanowiska służbowego – należy przez to rozumieć określony w rozkazie dziennym dowódcy jednostki wojskowej dzień przystąpienia żołnierza zawodowego do wykonywania obowiązków służbowych na stanowisku służbowym, na które żołnierz ten został wyznaczony decyzją uprawnionego organu;
+- **18a)** operacji wojskowej prowadzonej na terytorium Rzeczypospolitej Polskiej w czasie pokoju – należy przez to rozumieć:
+    - **a)** zorganizowane działanie Sił Zbrojnych prowadzone w celu zapewnienia bezpieczeństwa zewnętrznego państwa, niebędące szkoleniem lub ćwiczeniem,
+    - **b)** działanie wojsk obcych w ramach wzmocnienia wojskowego Sił Zbrojnych Rzeczypospolitej Polskiej lub wojsk Państw-Stron Traktatu Północnoatlantyckiego, o którym mowa w art. 3a ust. 1 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2024 r. poz. 1770) – podejmowane, jeżeli okoliczności wymagają natychmiastowego działania, w szczególności w sytuacjach zagrożenia granicy państwa, obiektów infrastruktury krytycznej, bezpieczeństwa ludzi lub mienia w znacznych rozmiarach, w tym w przypadku gdy siły i środki służb podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych mogą okazać się nieadekwatne ze względu na charakter zagrożenia;
+
+- **19)** organie wojskowym – należy przez to rozumieć podmiot resortu obrony narodowej realizujący zgodnie ze swoją właściwością zadania z zakresu obronności państwa określone w ustawie;
+- **20)** organizacji proobronnej – należy przez to rozumieć organizację pozarządową, z którą Minister Obrony Narodowej zawarł partnerską umowę proobronną;
+- **21)** planach operacyjnych – należy przez to rozumieć dokumenty planistyczne wykonywane w ramach planowania polegającego na ustalaniu czynności dotyczących przygotowania i działania organów administracji rządowej, organów samorządu terytorialnego i przedsiębiorców oraz innych podmiotów, w tym podmiotów niebędących przedsiębiorcami, w warunkach zagrożenia bezpieczeństwa państwa i w czasie wojny;
+- **22)** potrzebach Sił Zbrojnych – należy przez to rozumieć celowość:
+    - **a)** powołania do służby wojskowej,
+    - **b)** wyznaczenia na stanowisko służbowe,
+    - **c)** zwolnienia ze stanowiska służbowego,
+    - **d)** przeniesienia do dyspozycji albo do innego korpusu osobowego,
+    - **e)** zwolnienia ze służby wojskowej,
+    - **f)** realizacji zadań służbowych przez żołnierzy,
+    - **g)** realizacji innych zadań zabezpieczających interes bezpieczeństwa państwa;
+
+- **23)** pracowniczym przydziale mobilizacyjnym – należy przez to rozumieć imienne wyznaczenie pracownika resortu obrony narodowej albo pracownika zatrudnionego u innego pracodawcy na stanowisko określone etatem czasu wojennego;
+- **24)** pracowniku resortu obrony narodowej – należy przez to rozumieć pracownika albo członka korpusu służby cywilnej zatrudnionego w jednostce wojskowej, jednostce organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej oraz członka korpusu służby cywilnej albo pracownika zatrudnionego w urzędzie obsługującym Ministra Obrony Narodowej;
+- **25)** programach obronnych – należy przez to rozumieć dokumenty planistyczne wykonywane w ramach programowania polegającego na ustalaniu zadań obronnych realizowanych w czasie pokoju w celu utrzymania i rozwoju potencjału obronnego państwa oraz przygotowania Sił Zbrojnych, organów administracji rządowej, organów samorządu terytorialnego i przedsiębiorców oraz innych podmiotów do działania w warunkach zewnętrznego zagrożenia bezpieczeństwa państwa i w czasie wojny, a także sposób projektowania środków budżetowych przeznaczonych na ten cel;
+- **26)** prokuratorach do spraw wojskowych – należy przez to rozumieć prokuratorów powszechnych jednostek organizacyjnych prokuratury pełniących czynności w Departamencie do Spraw Wojskowych w Prokuraturze Krajowej, w wydziałach do spraw wojskowych prokuratur okręgowych i w działach do spraw wojskowych prokuratur rejonowych;
+- **27)** przedsiębiorcy – należy przez to rozumieć przedsiębiorcę, o którym mowa w art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622), z wyłączeniem osoby zagranicznej oraz przedsiębiorcy zagranicznego;
+- **28)** przedsiębiorcy zagranicznym – należy przez to rozumieć osobę, o której mowa w art. 3 pkt 7 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621);
+- **29)** przydziale mobilizacyjnym – należy przez to rozumieć imienne wyznaczenie żołnierza zawodowego, osoby będącej w rezerwie, na stanowisko służbowe określone etatem czasu wojennego, zgodnie z wymaganiami kwalifikacyjnymi oraz predyspozycjami określonymi dla tego stanowiska;
+- **30)** resorcie obrony narodowej – należy przez to rozumieć urząd obsługujący Ministra Obrony Narodowej, jednostki wojskowe oraz jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane;
+- **31)** rezerwach strategicznych – należy przez to rozumieć zgłoszone przez Ministra Obrony Narodowej, w ramach rezerw strategicznych, o których mowa w art. 4 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2024 r. poz. 1598 i 1907), surowce i materiały niezbędne do zabezpieczenia realizacji zadań przez przedsiębiorców, określonych w Planie zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców, w warunkach zagrożenia bezpieczeństwa państwa i w czasie wojny;
+- **32)** równorzędnym stanowisku służbowym – należy przez to rozumieć stanowisko służbowe, którego stopień etatowy jest równy stopniowi etatowemu stanowiska służbowego zajmowanego poprzednio przez żołnierza, a w przypadku oficerów młodszych stopniowi wojskowemu posiadanemu przez oficera;
+- **33)** sędziach sądów wojskowych – należy przez to rozumieć żołnierzy zawodowych pełniących zawodową służbę wojskową na stanowiskach sędziów w sądach wojskowych;
+- **34)** stanowisku służbowym – należy przez to rozumieć usytuowanie żołnierza oraz pracownika w hierarchii służbowej jednostki organizacyjnej lub komórki organizacyjnej;
+- **35)** stopniu etatowym – należy przez to rozumieć stopień lub stopnie wojskowe określone dla danego stanowiska służbowego;
+- **35a)** szkole podstawowej lub szkole ponadpodstawowej – należy przez to rozumieć również szkołę artystyczną realizującą kształcenie ogólne odpowiednio w zakresie szkoły podstawowej lub liceum ogólnokształcącego;
+- **36)** uregulowanym stosunku do służby wojskowej – należy przez to rozumieć:
+    - **a)** nadanie danej osobie kategorii zdolności do służby wojskowej i przeniesienie jej do rezerwy,
+    - **b)** odbycie obowiązkowej zasadniczej służby wojskowej i przeniesienie do rezerwy osoby, która ją odbyła, ba) odbycie dobrowolnej zasadniczej służby wojskowej i przeniesienie do rezerwy osoby, która ją odbyła,
+    - **c)** odbycie służby zastępczej i przeniesienie do rezerwy osoby, która ją odbyła,
+    - **d)** pełnienie zawodowej służby wojskowej, terytorialnej służby wojskowej przez okres co najmniej 3 lat oraz służby w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Straży Granicznej, Centralnym Biurze Antykorupcyjnym, Służbie Ochrony Państwa, Służbie Więziennej, Straży Marszałkowskiej, Służbie Celno-Skarbowej lub Państwowej Straży Pożarnej;
+
+- **37)** wyższym stanowisku służbowym – należy przez to rozumieć stanowisko służbowe, którego stopień etatowy jest wyższy od stopnia etatowego poprzednio zajmowanego przez żołnierza stanowiska służbowego;
+- **38)** związku organizacyjnym – należy przez to rozumieć jednostki wojskowe zorganizowane przez Ministra Obrony Narodowej w określoną strukturę, w szczególności w korpus, dywizję lub brygadę, funkcjonującą samodzielnie albo w składzie rodzaju Sił Zbrojnych, na podstawie nadanych etatów;
+- **39)** żołnierzu – należy przez to rozumieć osobę pełniącą czynną służbę wojskową;
+- **40)** żołnierzu zawodowym – należy przez to rozumieć żołnierza pełniącego zawodową służbę wojskową.
 
 ### DZIAŁ II Obowiązek obrony
 
@@ -447,7 +531,7 @@ Art. 698–776. (pominięte)
 
 6. Przedłużenie czasu prowadzenia operacji wojskowej na terytorium Rzeczypospolitej Polskiej w czasie pokoju może nastąpić wielokrotnie, za zgodą Sejmu, na czas każdorazowo nie dłuższy niż 60 dni. Prezydent Rzeczypospolitej Polskiej, na wniosek Rady Ministrów określający przyczyny konieczności przedłużenia czasu prowadzenia operacji wojskowej na terytorium Rzeczypospolitej Polskiej w czasie pokoju, wydaje postanowienie w sprawie przedłużenia czasu prowadzenia tej operacji, po uzyskaniu zgody Sejmu.
 
-7. O postanowieniu, o którym mowa w ust. 3, Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałka i Marszałka Senatu.
+7. O postanowieniu, o którym mowa w ust. 3, Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałka Sejmu i Marszałka Senatu.
 
 **Art. 26.**
 
@@ -504,7 +588,7 @@ Art. 698–776. (pominięte)
 
 2. Minister Obrony Narodowej, realizując politykę Rady Ministrów w zakresie ogólnego kierownictwa w dziedzinie obronności kraju i zapewnienia bezpieczeństwa zewnętrznego państwa, kieruje obronnością kraju.
 
-3. Minister Obrony Narodowej przekazuje Marszałkowi i Marszałkowi Senatu informację o przebiegu operacji wojskowej prowadzonej na terytorium Rzeczypospolitej Polskiej w czasie pokoju, w terminie 14 dni od dnia jej zakończenia.
+3. Minister Obrony Narodowej przekazuje Marszałkowi Sejmu i Marszałkowi Senatu informację o przebiegu operacji wojskowej prowadzonej na terytorium Rzeczypospolitej Polskiej w czasie pokoju, w terminie 14 dni od dnia jej zakończenia.
 
 **Art. 29.**
 
@@ -591,6 +675,9 @@ Art. 698–776. (pominięte)
 
 **Art. 36.** Rada Ministrów, uwzględniając potrzeby obronne Rzeczypospolitej Polskiej, po zasięgnięciu opinii komisji sejmowej właściwej w sprawach obrony państwa, co 4 lata określa, w drodze uchwały, szczegółowe kierunki przebudowy i modernizacji technicznej Sił Zbrojnych na kolejny 15-letni okres planistyczny, stosownie do zasad planowania obronnego w Organizacji Traktatu Północnoatlantyckiego na podstawie:
 
+- **1)** głównych kierunków rozwoju Sił Zbrojnych oraz ich przygotowań do obrony państwa określanych przez Prezydenta Rzeczypospolitej Polskiej;
+- **2)** zobowiązań Rzeczypospolitej Polskiej przyjętych w ramach planowania obronnego w Organizacji Traktatu Północnoatlantyckiego.
+
 **Art. 37.**
 
 1. Minister Obrony Narodowej na podstawie szczegółowych kierunków przebudowy i modernizacji technicznej Sił Zbrojnych, o których mowa w art. 36, oraz stosownie do zasad planowania obronnego w Organizacji Traktatu Północnoatlantyckiego wprowadza, w drodze zarządzenia, program rozwoju Sił Zbrojnych, zwany dalej „programem”, po zasięgnięciu opinii komisji sejmowej właściwej w sprawach obrony państwa.
@@ -633,6 +720,10 @@ Art. 698–776. (pominięte)
 4. Środki pieniężne będące różnicą między przychodami uzyskanymi od środków zgromadzonych na rachunku, o którym mowa w ust. 1, a kosztami obsługi bieżącej tego rachunku stanowią wpływy Funduszu Wsparcia Sił Zbrojnych, o którym mowa w art. 41, i są przekazywane na rachunek bankowy tego Funduszu.
 
 **Art. 39.** Źródłami finansowania programu są:
+
+- **1)** budżet państwa;
+- **2)** środki Funduszu Wsparcia Sił Zbrojnych, o którym mowa w art. 41;
+- **3)** przychody ze zbycia akcji lub udziałów spółek przemysłowego potencjału obronnego, o których mowa w art. 47.
 
 **Art. 40.**
 
@@ -692,6 +783,7 @@ Art. 698–776. (pominięte)
     - **d)** usług i robót budowlanych związanych z rozwojem infrastruktury wojskowej;
 
 - **8)** wpływów ze skarbowych papierów wartościowych, o których mowa w art. 43;
+- **8a)** odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **9)** kredytów, pożyczek oraz wyemitowanych obligacji, o których mowa w art. 45 ust. 1, oraz zobowiązań finansowych, o których mowa w art. 45a ust. 1;
 - **9a)** wpływów, o których mowa w art. 38a ust. 4;
 - **10)** wpływów z wpłat lub darowizn, o których mowa w art. 50;
@@ -747,7 +839,7 @@ Art. 698–776. (pominięte)
 
 8. Minister Obrony Narodowej przedkłada komisji sejmowej właściwej w sprawach obrony państwa sprawozdanie z realizacji planu finansowego Funduszu, w terminie do dnia 31 maja roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie. Komisja sejmowa właściwa w sprawach obrony państwa wyraża opinię do przedłożonego sprawozdania.
 
-9. Okresowo wolne środki Funduszu Bank Gospodarstwa Krajowego może lokować w formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+9. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 10. Dla potrzeb opracowania programu Bank Gospodarstwa Krajowego sporządza prognozę przychodów i wydatków Funduszu.
 
@@ -955,6 +1047,12 @@ Art. 698–776. (pominięte)
 8. W przypadku niezgłoszenia się bez uzasadnionej przyczyny do rejestracji osoby podlegającej temu obowiązkowi wójt (burmistrz, prezydent miasta) nakłada na tę osobę grzywnę w celu przymuszenia albo zarządza przymusowe doprowadzenie przez Policję do urzędu gminy, w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 **Art. 55.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia:
+
+- **1)** tryb prowadzenia rejestracji,
+- **2)** wzory dokumentów prowadzonych w ramach rejestracji,
+- **3)** szczegółowy zakres danych ujmowanych w poszczególnych dokumentach,
+- **4)** organy, którym mogą być udostępniane dokumenty związane z rejestracją,
+- **5)** tryb i sposób wzywania na rejestrację – kierując się potrzebą zapewnienia realizacji celu prowadzenia rejestracji oraz uwzględniając pisemny lub elektroniczny sposób prowadzenia dokumentów w ramach rejestracji.
 
 #### Rozdział 2 Kwalifikacja wojskowa
 
@@ -1726,7 +1824,14 @@ Art. 698–776. (pominięte)
 
 **Art. 99.** Zadaniami szkół podoficerskich są w szczególności:
 
+- **1)** kształcenie kandydatów na podoficerów;
+- **2)** prowadzenie kursów dla podoficerów.
+
 **Art. 100.** Minister Obrony Narodowej, w drodze rozporządzenia:
+
+- **1)** tworzy i znosi szkoły podoficerskie,
+- **2)** określi szczegółowe warunki i tryb składania egzaminów końcowych w szkołach podoficerskich oraz odbywania praktyk, a także wzór świadectwa stwierdzającego jej ukończenie,
+- **3)** określi cele, organizację i podstawowe założenia procesu kształcenia w szkołach podoficerskich – mając na uwadze efektywne przygotowanie kadry zawodowej Sił Zbrojnych do pełnienia służby wojskowej.
 
 **Art. 101.**
 
@@ -1736,7 +1841,18 @@ Art. 698–776. (pominięte)
 
 **Art. 102.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** tryb ubiegania się o przyjęcie, w tym tryb postępowania rekrutacyjnego, do uczelni wojskowych, szkół podoficerskich, centrów szkolenia i ośrodków szkolenia, dokumenty wymagane przy ubieganiu się o przyjęcie do tych uczelni, szkół, centrów i ośrodków szkolenia oraz zakres i terminy składania egzaminów wstępnych,
+- **2)** warunki i tryb powoływania do służby wojskowej pełnionej na czas kształcenia odpowiednio w uczelni wojskowej, szkole podoficerskiej, centrum szkolenia lub ośrodku szkolenia,
+- **3)** warunki i tryb przyjmowania do uczelni wojskowych, szkół podoficerskich, centrów szkolenia i ośrodków szkolenia,
+- **4)** sposób ustalania kosztów kształcenia na uczelni wojskowej, w szkole podoficerskiej, centrum szkolenia i ośrodku szkolenia oraz wzór umowy, o której mowa w art. 95 ust. 5,
+- **5)** sposób wnoszenia opłat z tytułu egzaminów wstępnych dla osób niebędących żołnierzami zawodowymi, ubiegających się o przyjęcie do uczelni wojskowych, szkół podoficerskich, centrów szkolenia i ośrodków szkolenia oraz szczegółowy tryb ich pobierania,
+- **6)** warunki i tryb mianowania na stopnie wojskowe żołnierzy pełniących służbę wojskową na czas kształcenia odpowiednio w uczelni wojskowej, szkole podoficerskiej, centrum szkolenia lub ośrodku szkolenia,
+- **7)** przebieg służby, warunki i tryb opiniowania żołnierzy pełniących tę służbę, w tym wzór arkusza opinii, ich uprawnienia inne niż określone w ustawie oraz tryb postępowania związany ze zwalnianiem z tej służby – uwzględniając konieczność zapewnienia sprawności procesu powoływania do zawodowej służby wojskowej i ustalenia w jego toku przydatności do tej służby, konieczność zapewnienia sprawności postępowania przy przyjmowaniu do uczelni wojskowych, szkół podoficerskich, centrów szkolenia i ośrodków szkolenia.
+
 **Art. 103.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** warunki i tryb mianowania na stopnie wojskowe żołnierzy pełniących zawodową służbę wojskową na czas kształcenia odpowiednio w uczelni wojskowej, szkole podoficerskiej, centrum szkolenia lub ośrodku szkolenia,
+- **2)** przebieg służby, warunki i tryb opiniowania żołnierzy pełniących tę służbę, w tym wzór arkusza opinii oraz tryb postępowania związany ze zwalnianiem z tej służby – uwzględniając konieczność zapewnienia, aby warunki mianowania uwzględniały poszczególne okresy nauki, opinie oraz wyniki uzyskiwane w nauce przez żołnierzy pełniących zawodową służbę wojskową oraz aby przebieg i czas trwania nauki uwzględniał praktyki zawodowe i przerwy wakacyjne oraz urlopy z różnych tytułów.
 
 **Art. 104.** Absolwenta uczelni wyższej innej niż uczelnia wojskowa, posiadającego tytuł zawodowy magistra lub równorzędny, który ukończył kierunek studiów zapewniający nabycie kwalifikacji szczególnie przydatnych w Siłach Zbrojnych oraz złożył wniosek o powołanie do zawodowej służby wojskowej, można skierować na kurs oficerski, pod warunkiem odbycia szkolenia, o którym mowa w art. 143 ust. 2 pkt 1.
 
@@ -1772,6 +1888,12 @@ Art. 698–776. (pominięte)
 4. W szczególnie uzasadnionych przypadkach Minister Obrony Narodowej może zwolnić żołnierza zawodowego, o którym mowa w ust. 1, z obowiązku zwrotu kosztów poniesionych na jego studia lub naukę albo staż, kurs lub specjalizację lub inną formę szkolenia i doskonalenia zawodowego, przy czym zwolnienie to nie dotyczy kosztów w wysokości dwunastokrotności najniższego uposażenia zasadniczego żołnierza zawodowego obowiązującego w dniu zawarcia umowy, które żołnierz jest obowiązany pokryć.
 
 **Art. 107.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** tryb udzielania żołnierzom zawodowym pomocy w związku z pobieraniem przez nich nauki, rodzaj, formę, zakres i wysokość pomocy oraz sposób jej ustalania i tryb jej zwrotu, a także sposób dokumentowania poniesionych przez żołnierza zawodowego wydatków objętych pomocą,
+- **2)** tryb kierowania na studia lub naukę oraz na staż, kurs lub specjalizację w kraju lub za granicą i organy właściwe w tych sprawach,
+- **3)** tryb odwołania ze studiów lub z nauki oraz ze stażu, z kursu lub ze specjalizacji w kraju lub za granicą i organy właściwe w tych sprawach,
+- **4)** wzory umów, o których mowa w art. 105 ust. 5 i art. 106 ust. 1,
+- **5)** sposób ustalania kosztów związanych z pobieraniem nauki przez żołnierza zawodowego pełniącego służbę w uczelni wojskowej, szkole podoficerskiej, jednostce wojskowej, centrum lub ośrodku szkolenia oraz tryb zwrotu tych kosztów – uwzględniając konieczność zapewnienia efektywności procesu kształcenia żołnierzy zawodowych i potrzeby Sił Zbrojnych, racjonalność wydatkowania środków publicznych, zapewnienie sprawności postępowania organów wojskowych w związku z pobieraniem przez żołnierzy zawodowych nauki oraz aby wysokość udzielanej pomocy uwzględniała koszty zakwaterowania, wyżywienia, umundurowania i nauki oraz dojazdu do miejsca jej pobierania, a także czesnego i stypendium, jak również mając na uwadze jednolitość postępowania przy zawieraniu umów.
 
 #### Rozdział 4 Kształcenie w Szkołach Legii Akademickiej
 
@@ -1872,6 +1994,10 @@ Art. 698–776. (pominięte)
 **Art. 117.** Dowódcy jednostek wojskowych w ramach realizacji swoich zadań mogą współpracować z organizacjami proobronnymi w zakresie działalności dydaktyczno-instruktorskiej, kształtowania postaw patriotycznych i kapitału społecznego oraz wzmocnienia potencjału Sił Zbrojnych na rzecz obronności i bezpieczeństwa państwa.
 
 **Art. 118.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** obszary szkoleniowe, w których członkowie lub wolontariusze organizacji proobronnych mogą uzyskać uprawnienie do prowadzenia działalności instruktorskiej,
+- **2)** zakres wsparcia rzeczowego i finansowego organizacji proobronnych,
+- **3)** tryb oraz podmioty odpowiedzialne za prowadzenie szkoleń, o których mowa w art. 116 – mając na uwadze konieczność zapewnienia skutecznej współpracy z organizacjami proobronnymi oraz potrzeby Sił Zbrojnych.
 
 ### DZIAŁ IX Służba wojskowa
 
@@ -2098,6 +2224,9 @@ Art. 698–776. (pominięte)
 #### Rozdział 2 Rodzaje służby wojskowej
 
 **Art. 129.** Służba wojskowa dzieli się na:
+
+- **1)** czynną służbę wojskową;
+- **2)** służbę w rezerwie.
 
 **Art. 130.**
 
@@ -2405,6 +2534,12 @@ Art. 698–776. (pominięte)
 
 **Art. 151.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** sposób powoływania do dobrowolnej zasadniczej służby wojskowej,
+- **2)** czas trwania dobrowolnej zasadniczej służby wojskowej oraz czas trwania szkolenia podstawowego i szkolenia specjalistycznego,
+- **3)** wymiar czasu, o który może zostać skrócony czas trwania dobrowolnej zasadniczej służby wojskowej dla osób będących absolwentami szkół ponadpodstawowych i ubiegających się o powołanie do dobrowolnej zasadniczej służby wojskowej,
+- **4)** sposób odbywania dobrowolnej zasadniczej służby wojskowej,
+- **5)** sposób i tryb postępowania organów wojskowych w zakresie przyjmowania osób powołanych do dobrowolnej zasadniczej służby wojskowej, wyznaczania, zmiany i zwalniania żołnierzy ze stanowisk służbowych, przenoszenia do innych jednostek wojskowych, delegowania i podróży służbowych – uwzględniając potrzeby uzupełnieniowe Sił Zbrojnych oraz konieczność zapewnienia efektywnego przebiegu tej służby.
+
 ##### Oddział 2 Obowiązkowa zasadnicza służba wojskowa
 
 **Art. 152.**
@@ -2454,12 +2589,16 @@ Art. 698–776. (pominięte)
 
 **Art. 157.** Nie powołuje się do obowiązkowej zasadniczej służby wojskowej:
 
+- **1)** obywateli polskich, którzy stale zamieszkują za granicą przez okres co najmniej 2 lat i którzy nie posiadają miejsca pobytu stałego albo czasowego trwającego ponad 3 miesiące na terytorium Rzeczypospolitej Polskiej;
+- **2)** osób, które pełnią służbę w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Straży Granicznej, Centralnym Biurze Antykorupcyjnym, Służbie Ochrony Państwa, Służbie Więziennej, Straży Marszałkowskiej, Służbie Celno-Skarbowej lub Państwowej Straży Pożarnej;
+- **3)** żołnierzy OT, żołnierzy pełniących dobrowolną zasadniczą służbę wojskową albo żołnierzy pełniących zawodową służbę wojskową.
+
 **Art. 158.**
 
 1. Obowiązek pełnienia zasadniczej służby wojskowej odracza się na wniosek osoby podlegającej temu obowiązkowi w przypadku:
 
 - **1)** wyboru na posła, w tym do Parlamentu Europejskiego, lub senatora – od dnia ogłoszenia wyników wyboru do dnia wygaśnięcia mandatu;
-- **2)** kandydowania do Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej lub Parlamentu Europejskiego – do dnia ogłoszenia wyników wyborów;
+- **2)** kandydowania do Sejmu Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej lub Parlamentu Europejskiego – do dnia ogłoszenia wyników wyborów;
 - **3)** udokumentowanej konieczności sprawowania bezpośredniej opieki nad członkiem rodziny wspólnie zamieszkującym, który nie ukończył 16 roku życia lub został uznany za całkowicie niezdolnego do pracy i do samodzielnej egzystencji albo który ukończył 75 rok życia, jeżeli nie ma innego pełnoletniego członka rodziny bliższego lub równego stopniem pokrewieństwa obowiązanego do sprawowania tej opieki, albo ze względu na obowiązek sprawowania opieki wynikający z prawomocnego orzeczenia sądu – na czas sprawowania tej opieki;
 - **4)** pobierania nauki w szkole ponadpodstawowej – na czas pobierania tej nauki;
 - **5)** pobierania nauki w szkole wyższej, jeżeli jest ona studentem – na czas pobierania tej nauki;
@@ -2544,6 +2683,9 @@ Art. 698–776. (pominięte)
 6. Przed przeniesieniem do pasywnej rezerwy żołnierze zwolnieni z obowiązkowej zasadniczej służby wojskowej przedterminowo mogą być w każdym czasie wezwani przez dowódcę jednostki wojskowej do dalszego jej odbywania. Wezwanie do odbycia pozostałego okresu tej służby doręcza się żołnierzowi na piśmie co najmniej na 3 dni przed dniem stawienia się do tej służby.
 
 **Art. 167.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** tryb postępowania w zakresie zwalniania żołnierzy z obowiązkowej zasadniczej służby wojskowej przed jej odbyciem, a także przenoszenia do pasywnej rezerwy tych żołnierzy, terminy, w których następuje zwolnienie ze służby i przeniesienie do rezerwy, czynności podlegające wykonaniu przez poszczególne organy wojskowe, uwzględniając zróżnicowanie postępowania w zależności od podstaw zwolnienia oraz niezbędny okres konieczny do rozliczenia się żołnierza z jednostką wojskową;
+- **2)** przypadki i sposób postępowania w zakresie wzywania żołnierzy zwolnionych przedterminowo z obowiązkowej zasadniczej służby wojskowej do odbycia pozostałego okresu tej służby, mając na względzie konieczność zapewnienia sprawnego postępowania w tych sprawach.
 
 **Art. 168.**
 
@@ -2812,6 +2954,10 @@ Art. 698–776. (pominięte)
 12. Orzekając o zaliczeniu żołnierza zawodowego do kategorii Z/O, właściwe wojskowe komisje lekarskie uwzględniają zdolność do pełnienia zawodowej służby wojskowej na stanowisku służbowym wskazanym przez organ właściwy do wyznaczania na to stanowisko. Stanowisko służbowe wskazuje się w uzgodnieniu z żołnierzem zawodowym.
 
 **Art. 191.** Żołnierz zawodowy pełni zawodową służbę wojskową:
+
+- **1)** na stanowisku służbowym;
+- **2)** w uczelni wojskowej, szkole podoficerskiej, centrum szkolenia, ośrodku szkolenia, w których pobiera naukę;
+- **3)** w dyspozycji.
 
 **Art. 192.**
 
@@ -3114,6 +3260,10 @@ Art. 698–776. (pominięte)
 
 **Art. 212.** Minister Obrony Narodowej w przypadku uwzględnienia wniosku, o którym mowa w art. 210 ust. 1:
 
+- **1)** uzgadnia z instytucją krajową lub instytucją zagraniczną obsadę personalną stanowiska służbowego określonego we wniosku albo pełnioną funkcję, po uprzednim uzyskaniu od żołnierza zawodowego zgody na oddelegowanie;
+- **2)** zalicza w celu obliczenia wysokości uposażenia i innych należności pieniężnych przysługujących żołnierzowi zawodowemu w okresie oddelegowania stanowisko służbowe w podmiocie, do którego następuje oddelegowanie, do odpowiedniej grupy uposażenia oraz ustala wojskowy stopień etatowy, stosownie do zaszeregowania stanowisk służbowych;
+- **3)** oddelegowuje żołnierza zawodowego do wykonywania zadań służbowych zgodnie z wnioskiem.
+
 **Art. 213.**
 
 1. Warunkiem oddelegowania żołnierza zawodowego jest wyznaczenie go w podmiocie, do którego następuje oddelegowanie, na stanowisko służbowe lub do pełnienia funkcji zgodnie z decyzją o oddelegowaniu.
@@ -3218,6 +3368,23 @@ Art. 698–776. (pominięte)
 8. Przepisy ust. 1–7 stosuje się gdy środek zapobiegawczy w postaci zawieszenia w czynnościach służbowych nie został zastosowany w toku prowadzonego postępowania karnego przez prokuratora lub sąd.
 
 **Art. 226.** Żołnierza zawodowego zwalnia się z zawodowej służby wojskowej wskutek:
+
+- **1)** zrzeczenia się obywatelstwa polskiego;
+- **2)** wybrania na posła, w tym do Parlamentu Europejskiego, senatora, na kierownicze stanowisko państwowe obsadzane na podstawie wyboru oraz do organów wykonawczych samorządu terytorialnego;
+- **3)** ustalenia przez wojskową komisję lekarską niezdolności do służby;
+- **4)** odmowy przyjęcia skierowania do wojskowej komisji lekarskiej lub nieusprawiedliwionego niezgłoszenia się do tej komisji w określonym terminie i miejscu albo niepoddania się badaniom, do których został zobowiązany przez komisję lekarską;
+- **5)** osiągnięcia wieku 60 lat życia, z zastrzeżeniem art. 227;
+- **6)** otrzymania niedostatecznej ogólnej oceny w opinii służbowej;
+- **7)** złożenia niezgodnego z prawdą oświadczenia lustracyjnego;
+- **8)** odmowy pełnienia służby na równorzędnym lub wyższym stanowisku służbowym;
+- **9)** upływu terminu wypowiedzenia stosunku służbowego zawodowej służby wojskowej dokonanego przez żołnierza zawodowego;
+- **10)** niewyznaczenia na stanowisko służbowe w czasie pozostawania w dyspozycji;
+- **11)** utraty stopnia wojskowego albo degradacji;
+- **12)** prawomocnego orzeczenia o wymierzeniu kary dyscyplinarnej określonej w art. 362 ust. 1 pkt 7;
+- **13)** prawomocnego orzeczenia środków karnych pozbawienia praw publicznych, wydalenia z zawodowej służby wojskowej lub zakazu wykonywania zawodu żołnierza zawodowego;
+- **14)** skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania;
+- **15)** prawomocnego ukarania przez organ właściwego samorządu zawodowego karą zawieszenia lub pozbawienia prawa wykonywania zawodu (specjalności zawodowej), o ile brak jest możliwości wyznaczenia tego żołnierza na inne stanowisko służbowe;
+- **16)** nieobecności w służbie jednorazowo przez okres 3 dni roboczych, która nie została usprawiedliwiona.
 
 **Art. 227.** Minister Obrony Narodowej, w przypadkach uzasadnionych potrzebami Sił Zbrojnych, na wniosek żołnierza zawodowego złożony nie później niż przed osiągnięciem wieku 60 lat życia, może wyrazić zgodę na dalsze pełnienie przez niego zawodowej służby wojskowej, określając termin zwolnienia z zawodowej służby wojskowej, przy czym termin zwolnienia z zawodowej służby wojskowej nie może być późniejszy niż dzień osiągnięcia przez żołnierza zawodowego wieku 65 lat.
 
@@ -3520,13 +3687,18 @@ Art. 698–776. (pominięte)
 
 5. Na ćwiczenia wojskowe żołnierzy PR nie powołuje się osób, które są wyłączone od obowiązku pełnienia służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny lub:
 
-- **1)** prowadzą własną kampanię wyborczą w przypadku kandydowania do Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej, Parlamentu Europejskiego lub organów samorządu terytorialnego – w czasie jej trwania;
+- **1)** prowadzą własną kampanię wyborczą w przypadku kandydowania do Sejmu Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej, Parlamentu Europejskiego lub organów samorządu terytorialnego – w czasie jej trwania;
 - **2)** zostały wybrane na posła, w tym do Parlamentu Europejskiego, albo senatora – w czasie trwania kadencji;
 - **3)** pełnią funkcję organów jednostek samorządu terytorialnego albo sprawują mandat radnego;
 - **4)** zajmują kierownicze stanowiska w urzędach administracji rządowej;
 - **5)** zostały przeznaczone do odbycia służby zastępczej lub odbyły tę służbę.
 
 **Art. 249.** Ćwiczenia wojskowe mogą być odbywane jako:
+
+- **1)** jednodniowe;
+- **2)** krótkotrwałe – trwające nieprzerwanie do 30 dni;
+- **3)** długotrwałe – trwające nieprzerwanie do 90 dni;
+- **4)** rotacyjne – trwające łącznie do 30 dni i odbywane z przerwami w określonych dniach w ciągu danego roku kalendarzowego.
 
 **Art. 250.** Żołnierze PR odbywają ćwiczenia wojskowe w jednostkach wojskowych i związkach organizacyjnych albo jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych oraz w innych podmiotach wskazanych przez Ministra Obrony Narodowej.
 
@@ -3539,6 +3711,10 @@ Art. 698–776. (pominięte)
 ### DZIAŁ XI Psy i konie w Siłach Zbrojnych
 
 **Art. 254.** W celu realizacji zadań ustawowych, o których mowa w art. 4 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179) oraz w art. 11, lub w celach reprezentacyjnych Siły Zbrojne mogą używać:
+
+- **1)** psów służbowych – psów będących własnością Skarbu Państwa, znajdujących się na stanie jednostki wojskowej, w której są używane;
+- **2)** psów kontraktowych – psów stanowiących własność żołnierza pełniącego czynną służbę wojskową, dobranych do użycia w jednostce wojskowej na podstawie kontaktu zawartego między tym żołnierzem a jednostką wojskową, w której psy są używane w trakcie trwania kontraktu, i znajdujących się na stanie jednostki wojskowej, w której są używane;
+- **3)** koni służbowych – koni będących własnością Skarbu Państwa, znajdujących się na stanie jednostki wojskowej, w której są używane.
 
 **Art. 255.**
 
@@ -3555,6 +3731,12 @@ Art. 698–776. (pominięte)
 6. Psy służbowe, psy kontraktowe i konie służbowe ujmuje się w ewidencji określonej w przepisach wydanych na podstawie art. 267 pkt 4 i 5.
 
 **Art. 256.** Opiekunem psa służbowego, opiekunem psa kontraktowego lub opiekunem konia służbowego jest odpowiednio:
+
+- **1)** przewodnik – żołnierz lub pracownik, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie i uzyskał pozytywną ocenę z egzaminu końcowego;
+- **2)** kandydat na przewodnika – żołnierz lub pracownik, któremu przydzielono pod opiekę psa służbowego i którego skierowano po raz pierwszy na szkolenie;
+- **3)** właściciel – żołnierz pełniący czynną służbę wojskową, który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 267 pkt 1, z którym zawarto kontrakt, na podstawie którego jednostka wojskowa używa psa w trakcie trwania kontraktu;
+- **4)** żołnierz-jeździec – żołnierz, któremu przydzielono pod opiekę konia służbowego i który ukończył szkolenie i uzyskał pozytywną ocenę z egzaminu końcowego;
+- **5)** kandydat na żołnierza-jeźdźca – żołnierz, któremu przydzielono pod opiekę konia służbowego i którego skierowano po raz pierwszy na szkolenie.
 
 **Art. 257.**
 
@@ -3577,6 +3759,11 @@ Art. 698–776. (pominięte)
 9. Opiekunem psa służbowego lub konia służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 266 ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 7, zdanie pierwsze stosuje się.
 
 **Art. 258.** Opiekun psa służbowego, opiekun konia służbowego, opiekun psa służbowego wycofanego z użycia i opiekun konia służbowego wycofanego z użycia oraz organizacja, o której mowa w art. 257 ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
 
 **Art. 259.**
 
@@ -3686,6 +3873,23 @@ Art. 698–776. (pominięte)
 
 **Art. 267.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** jednostki organizacyjne właściwe do prowadzenia szkolenia kandydatów na przewodników psów służbowych, przewodników psów służbowych i psów służbowych, właścicieli psów kontraktowych i psów kontraktowych oraz kandydatów na żołnierzy-jeźdźców, żołnierzy-jeźdźców i koni służbowych, a także rodzaje i sposób ich szkolenia,
+- **2)** termin ważności upoważnienia i atestu, o których mowa w art. 255 ust. 3, oraz sposób ich przedłużania,
+- **3)** wymagania zdrowotne i użytkowe psów i koni zapewniające przydatność do użycia w Siłach Zbrojnych,
+- **4)** tryb nabywania, przekazywania i wycofywania z użycia w Siłach Zbrojnych psów służbowych i koni służbowych, podmiot właściwy do nabywania lub pokrywania kosztów tego nabycia oraz sposób prowadzenia ewidencji psów służbowych i ewidencji koni służbowych,
+- **5)** tryb pozyskiwania psów kontraktowych oraz sposób prowadzenia ewidencji psów kontraktowych,
+- **6)** wzór kontraktu, o którym mowa w art. 254 pkt 2,
+- **7)** sposób znakowania zakwalifikowanych do służby psów służbowych, psów kontraktowych i koni służbowych oraz wzory dowodu tożsamości psa służbowego, psa kontraktowego oraz dowodu tożsamości konia służbowego,
+- **8)** sposób utrzymania i używania psów służbowych, psów kontraktowych i koni służbowych w Siłach Zbrojnych,
+- **9)** zakres opieki lekarsko-weterynaryjnej nad psami służbowymi, psami kontraktowymi, końmi służbowymi, psami służbowymi wycofanymi z użycia, psami kontraktowymi wycofanymi z użycia, które przez okres co najmniej 5 lat trwania kontraktu były używane w jednostce wojskowej, i końmi służbowymi wycofanymi z użycia i tryb udzielania zgody na leczenie tych zwierząt w zakładach leczniczych dla zwierząt innych niż zakłady podległe Ministrowi Obrony Narodowej oraz sposób sprawowania nadzoru nad psami służbowymi, psami kontraktowymi, końmi służbowymi oraz psami służbowymi wycofanymi z użycia, psami kontraktowymi wycofanymi z użycia, które przez okres co najmniej 5 lat trwania kontraktu były używane w jednostce wojskowej, i końmi służbowymi wycofanymi z użycia,
+- **10)** tryb odbierania psa służbowego, konia służbowego, psa służbowego wycofanego z użycia i konia służbowego wycofanego z użycia opiekunowi oraz organizacji, o której mowa w art. 257 ust. 7,
+- **11)** sposób żywienia, wielkość normy wyżywienia dla psa służbowego, psa kontraktowego i konia służbowego oraz normy wyżywienia dla psa służbowego wycofanego z użycia, psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w jednostce wojskowej, i konia służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na żywienie zwierząt,
+- **12)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego, psa kontraktowego lub konia służbowego, psa służbowego wycofanego z użycia, psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w jednostce wojskowej, i konia służbowego wycofanego z użycia, a także sposób ustalania wysokości tego ryczałtu,
+- **13)** tryb pokrywania kosztów zabiegów profilaktycznych, leczenia psa służbowego, psa kontraktowego, konia służbowego, psa służbowego wycofanego z użycia, psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w jednostce wojskowej, lub konia służbowego wycofanego z użycia, w tym kosztów produktów leczniczych,
+- **14)** wzór upoważnienia i atestu, o których mowa w art. 255 ust. 3,
+- **15)** wzór protokołu odebrania opiekunowi lub organizacji, o której mowa w art. 257 ust. 7, psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia,
+- **16)** wzory protokołów wycofania psa służbowego i wycofania konia służbowego z użycia w Siłach Zbrojnych – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego, psa kontraktowego lub konia służbowego, prawidłowej opieki nad zwierzęciem, racjonalne wydatkowanie środków finansowych oraz to, że wysokość dziennej stawki pieniężnej na żywienie zwierząt jest uzależniona od wagi zwierząt, okresu roku oraz warunków realizacji zadań przez te zwierzęta, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
+
 ### DZIAŁ XII Uprawnienia i obowiązki służbowe żołnierzy
 
 #### Rozdział 1 Przepisy ogólne
@@ -3784,6 +3988,12 @@ Art. 698–776. (pominięte)
 4. W przypadku zbiegu uprawnienia do zwolnienia lekarskiego z uprawnieniem do zwolnienia od zajęć służbowych lub urlopu okolicznościowego, o których mowa w art. 281 ust. 15 i 16, żołnierz zawodowy jest obowiązany w pierwszej kolejności wykorzystać zwolnienie lekarskie.
 
 **Art. 277.** Okres przebywania na zwolnieniu lekarskim stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że:
+
+- **1)** w przypadku poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz niezdolności do służby wskutek poddania się zabiegowi pobrania komórek, tkanek i narządów – zaświadczenie wystawione przez lekarza na zwykłym druku zgodnie z przepisem art. 53 ust. 3 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
+- **2)** w przypadku, o którym mowa w art. 276 ust. 1 pkt 2 – zaświadczenie jednostki organizacyjnej publicznej służby krwi;
+- **3)** w przypadku, o którym mowa w art. 276 ust. 1 pkt 6 lit. a – oświadczenie żołnierza zawodowego;
+- **4)** w przypadkach, o których mowa w art. 276 ust. 1 pkt 6 lit. b i c – zaświadczenie lekarskie wystawione przez lekarza na zwykłym druku;
+- **5)** w przypadku, o którym mowa w art. 6 ust. 2 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – decyzja wydana przez właściwy organ albo uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
 
 **Art. 278.**
 
@@ -3916,6 +4126,12 @@ Art. 698–776. (pominięte)
 4. Dowódca jednostki wojskowej, który odwołał żołnierza zawodowego z urlopu wypoczynkowego lub dodatkowego urlopu wypoczynkowego albo wstrzymał udzielenie takiego urlopu, wydaje na wniosek żołnierza decyzję o zwrocie kosztów spowodowanych odwołaniem lub wstrzymaniem urlopu.
 
 **Art. 283.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** stanowiska służbowe, na których pełnienie zawodowej służby wojskowej jest szkodliwe dla zdrowia albo które posiadają szczególne właściwości, ze względu na zajmowanie których udziela się dodatkowego urlopu wypoczynkowego, uwzględniając podobne lub takie same stanowiska ustalone na podstawie przepisów prawa pracy;
+- **2)** tryb orzekania o potrzebie udzielenia urlopu zdrowotnego i organy właściwe w tych sprawach, uwzględniając konieczność zapewnienia sprawności postępowania w tych sprawach;
+- **3)** warunki i tryb udzielania urlopów, o których mowa w art. 280 oraz art. 281 ust. 1, 2, 6–8, 12 i 16, a także wymiar urlopu, o którym mowa w art. 281 ust. 7 i 13 pkt 2, zapewniając ciągłość i skuteczność realizacji zadań;
+- **4)** warunki i tryb odwoływania z urlopu wypoczynkowego i dodatkowego urlopu wypoczynkowego, a także wstrzymania udzielenia takiego urlopu oraz zwracania kosztów spowodowanych odwołaniem z urlopu lub wstrzymaniem urlopu i sposób ich obliczania, zapewniając, aby zastosowanie tych środków miało charakter wyjątkowy;
+- **5)** warunki i tryb udzielania żołnierzom zawodowym zwolnienia od zajęć służbowych, o którym mowa w art. 281 ust. 15 i 18, zapewniając ciągłość i skuteczność realizacji zadań oraz uwzględniając plany poszczególnych specjalizacji lekarskich.
 
 **Art. 284.**
 
@@ -4186,6 +4402,14 @@ Art. 698–776. (pominięte)
 **Art. 294.** Świadczenia, o których mowa w art. 203 ust. 7 pkt 2, art. 287 i art. 288–293, są dofinansowane lub finansowane z budżetu państwa z części, której dysponentem jest Minister Obrony Narodowej.
 
 **Art. 295.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** sposób dokumentowania i wypłaty:
+    - **a)** dodatku za rozłąkę,
+    - **b)** zwrotu kosztów codziennych dojazdów,
+    - **c)** zwrotu kosztów przejazdów odbywanych nie częściej niż raz w miesiącu do miejsca zamieszkania członków rodziny i z powrotem – biorąc pod uwagę potrzebę zapewnienia jednolitości postępowania i dokumentowania składanych wniosków i oświadczeń;
+
+- **2)** sposób i tryb postępowania w zakresie przyznawania świadczeń, o których mowa w art. 293 ust. 1, sposób ustalania wysokości dochodu w rodzinie żołnierza zawodowego dla celów przyznania tych świadczeń, sposób korzystania ze świadczeń, o których mowa w art. 293 ust. 1 pkt 3 i 4, wysokość świadczeń, o których mowa w art. 293 ust. 1 pkt 1 i 2, oraz terminy wypłaty świadczeń, o których mowa w art. 293 ust. 1 pkt 1 i 2, uwzględniając sytuację materialną żołnierza zawodowego, sprawność postępowania w tych sprawach oraz dostępność ośrodków wypoczynkowych;
+- **3)** tryb i terminy wypłaty zaliczek, o których mowa w art. 293 ust. 15, biorąc pod uwagę sytuację materialną wnioskodawcy i sprawność postępowania.
 
 **Art. 296.**
 
@@ -4579,6 +4803,11 @@ Art. 698–776. (pominięte)
 
 **Art. 322.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** kwalifikacje przydatne w Siłach Zbrojnych, o których mowa w art. 318 i art. 320,
+- **2)** wzór umowy, o której mowa w art. 318 ust. 2 i art. 320 ust. 2,
+- **3)** sposób i tryb naliczania i wypłacania ekwiwalentu pieniężnego, o którym mowa w art. 320 ust. 1,
+- **4)** sposób i tryb naliczania oraz dokonywania zwrotu kosztów, o których mowa w art. 321 ust. 2, i kosztów świadczeń, o których mowa w art. 318 ust. 4 pkt 2 i art. 321 ust. 3 – uwzględniając klasyfikację zawodów i specjalności na potrzeby rynku pracy określoną w przepisach wydanych na podstawie art. 29 ust. 3 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz konieczność zagwarantowania równości stron umowy oraz zapewnienia sprawności postępowania w zakresie wypłacania ekwiwalentu.
+
 **Art. 323.**
 
 1. Żołnierzowi OT można przyznać dofinansowanie kosztów studiów, nauki, stażu, kursu lub specjalizacji, zwłaszcza w specjalnościach wojskowych wymagających podwyższonych kwalifikacji, w wymiarze proporcjonalnym do deklarowanego okresu pełnienia terytorialnej służby wojskowej.
@@ -4642,7 +4871,7 @@ Art. 698–776. (pominięte)
 
 3. Żołnierze niebędący żołnierzami zawodowymi, biorąc udział w zgromadzeniach o charakterze politycznym, nie mogą występować w umundurowaniu oraz odznakach i oznakach wojskowych.
 
-4. Przepisu ust. 2 nie stosuje się w przypadku kandydowania żołnierza niebędącego żołnierzem zawodowym do Rzeczypospolitej Polskiej lub Senatu Rzeczypospolitej Polskiej, Parlamentu Europejskiego lub organów samorządu terytorialnego.
+4. Przepisu ust. 2 nie stosuje się w przypadku kandydowania żołnierza niebędącego żołnierzem zawodowym do Sejmu Rzeczypospolitej Polskiej lub Senatu Rzeczypospolitej Polskiej, Parlamentu Europejskiego lub organów samorządu terytorialnego.
 
 5. Żołnierze niebędący żołnierzami zawodowymi nie mogą tworzyć związków zawodowych i wstępować do nich ani brać udziału w działalności związków zawodowych, których byli członkami w chwili powołania do służby.
 
@@ -4941,7 +5170,7 @@ Art. 698–776. (pominięte)
 
 **Art. 346.**
 
-1. Żołnierz zawodowy może kandydować do Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz Parlamentu Europejskiego, na kierownicze stanowiska w państwie obsadzane na podstawie wyboru oraz do organów samorządu terytorialnego, o czym niezwłocznie informuje dowódcę jednostki wojskowej.
+1. Żołnierz zawodowy może kandydować do Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz Parlamentu Europejskiego, na kierownicze stanowiska w państwie obsadzane na podstawie wyboru oraz do organów samorządu terytorialnego, o czym niezwłocznie informuje dowódcę jednostki wojskowej.
 
 2. Na czas trwania kampanii wyborczej żołnierzowi zawodowemu udziela się urlopu bezpłatnego.
 
@@ -4960,6 +5189,10 @@ Art. 698–776. (pominięte)
 2. Prokuratorzy do spraw wojskowych będący żołnierzami zawodowymi ponoszą odpowiedzialność dyscyplinarną za przewinienia dyscyplinarne na zasadach określonych w ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze.
 
 **Art. 350.** Odpowiedzialność dyscyplinarna na podstawie ustawy nie wyłącza odpowiedzialności dyscyplinarnej za:
+
+- **1)** przewinienia dyscyplinarne polegające na naruszeniu przepisów o wykonywaniu specjalności zawodowej – żołnierzy, których przynależność do samorządów zawodowych jest obowiązkowa;
+- **2)** naruszenie przepisów obowiązujących w uczelni oraz za czyny uchybiające godności studenta lub doktoranta – żołnierzy, którzy odbywają studia lub kształcenie w szkole doktorskiej w uczelni wojskowej;
+- **3)** postępowanie uchybiające obowiązkom nauczyciela akademickiego lub godności zawodu nauczycielskiego – żołnierzy będących nauczycielami akademickimi.
 
 **Art. 351.**
 
@@ -5001,6 +5234,9 @@ Art. 698–776. (pominięte)
 4. Jeżeli postępowanie dyscyplinarne zostało wszczęte na wniosek sądu lub prokuratora, organ wnioskujący informuje się o wyniku tego postępowania.
 
 **Art. 354.** Przewinienie dyscyplinarne jest zawinione wtedy, gdy żołnierz:
+
+- **1)** ma zamiar jego popełnienia, to jest chce je popełnić albo przewidując możliwość jego popełnienia, na to się godzi;
+- **2)** nie ma zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał lub mógł i powinien przewidzieć albo zaniechał działania, które mógł lub powinien podjąć.
 
 **Art. 355.**
 
@@ -5219,6 +5455,20 @@ Art. 698–776. (pominięte)
 
 **Art. 379.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** sposób postępowania w sprawach stosowania dyscyplinarnych środków zapobiegawczych, w tym:
+    - **a)** postępowania, odpowiednio, przełożonego dyscyplinarnego, wojskowego organu porządkowego i Żandarmerii Wojskowej przed zastosowaniem tych środków,
+    - **b)** uchylenia, wygaśnięcia lub zmiany postanowienia o zastosowaniu dyscyplinarnego środka zapobiegawczego,
+    - **c)** treści postanowień w tych sprawach,
+    - **d)** sposobu i terminu zawiadamiania właściwych przełożonych, organów wojskowych i zainteresowanych osób o zastosowaniu dyscyplinarnego środka zapobiegawczego,
+    - **e)** czynności i terminów rozpatrywania zażaleń na zastosowanie dyscyplinarnych środków zapobiegawczych,
+
+- **2)** sposób i tryb osadzania żołnierza w izbie zatrzymań, w tym:
+    - **a)** tryb doprowadzania do izby zatrzymań żołnierza, w stosunku do którego zostało wydane postanowienie o osadzeniu w izbie zatrzymań,
+    - **b)** tryb przyjęcia żołnierza doprowadzonego do izby zatrzymań i postępowania w razie jego nieprzyjęcia do izby zatrzymań,
+    - **c)** czynności dokonywane przez obsługę izby zatrzymań wobec osadzonych żołnierzy,
+
+- **3)** rodzaje, zakres, przypadki, sposób i tryb dokonywania badań, o których mowa w art. 377, w celu zapewnienia prawidłowości ich przeprowadzania, sposób postępowania w przypadku odmowy poddania się badaniu przez żołnierza, procedurę składania i rozpatrywania zażaleń w tych sprawach – uwzględniając konieczność zagwarantowania sprawności postępowania w tych sprawach, zapewnienie odpowiedniego poziomu kształtowania dyscypliny wojskowej i prawidłowości dokonywania badań i osadzania żołnierzy w izbie zatrzymań oraz uwzględniając również warunki pełnienia służby wojskowej po ogłoszeniu mobilizacji, w stanach nadzwyczajnych, w czasie wojny, a także podczas wykonywania zadań służbowych w strefie działań wojennych oraz w przypadku użycia Sił Zbrojnych poza granicami państwa, jak również udziału w akcjach humanitarnych, poszukiwawczych lub ratowniczych.
+
 #### Rozdział 4 Postępowanie dyscyplinarne
 
 **Art. 380.**
@@ -5283,6 +5533,10 @@ Art. 698–776. (pominięte)
 4. W przypadku gdy przewinienie dyscyplinarne stanowi jednocześnie przestępstwo lub wykroczenie albo przestępstwo skarbowe lub wykroczenie skarbowe, przedawnienie karalności dyscyplinarnej następuje z upływem okresu przedawnienia ich karalności.
 
 **Art. 383.** Postępowania dyscyplinarnego nie wszczyna się, jeżeli:
+
+- **1)** czynności wyjaśniające nie potwierdziły popełnienia czynu stanowiącego przewinienie dyscyplinarne;
+- **2)** upłynęły terminy określone w art. 382 ust. 1 lub 4;
+- **3)** postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego żołnierza zostało prawomocnie zakończone lub wszczęte wcześniej toczy się.
 
 **Art. 384.**
 
@@ -5903,7 +6157,16 @@ Art. 698–776. (pominięte)
 
 **Art. 425.** Jednostki wojskowe, pododdziały, oddziały i instytucje wojskowe można wyróżnić za:
 
+- **1)** czyny świadczące o ofiarności i odwadze żołnierzy tych jednostek wojskowych, pododdziałów, oddziałów i instytucji wojskowych dokonane w czasie wojny lub w strefie działań wojennych;
+- **2)** szczególne osiągnięcia w wykonywaniu zadań służbowych, w tym szkoleniowych w czasie pokoju, w razie ogłoszenia mobilizacji lub stanów nadzwyczajnych, użycia Sił Zbrojnych w kraju i poza granicami państwa w działaniach antyterrorystycznych, akcjach humanitarnych, poszukiwawczych lub ratowniczych, a także w zwalczaniu klęsk żywiołowych oraz likwidacji ich skutków.
+
 **Art. 426.** Wyróżnieniami dla jednostek wojskowych, pododdziałów, oddziałów i instytucji wojskowych są:
+
+- **1)** dyplom uznania;
+- **2)** wpisanie nazwy i osiągnięć pododdziału lub oddziału do kroniki jednostki wojskowej;
+- **3)** wpisanie nazwy i osiągnięć podległej jednostki wojskowej do kroniki jednostki wojskowej nadrzędnej;
+- **4)** tytuł honorowy;
+- **5)** wpisanie nazwy i osiągnięć jednostki wojskowej, pododdziału, oddziału lub instytucji wojskowej do Księgi Honorowej Wojska Polskiego.
 
 **Art. 427.**
 
@@ -5940,6 +6203,12 @@ Art. 698–776. (pominięte)
 5. Dla celów ustalenia wysokości funduszów pozostających w dyspozycji kierowników instytucji, do której nastąpiło oddelegowanie, przepis ust. 2 stosuje się odpowiednio.
 
 **Art. 429.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** tryb udzielania wyróżnień,
+- **2)** rodzaje odznak honorowych, tytułów honorowych oraz honorowej broni białej,
+- **3)** wzory odznak honorowych, odznak i znaków tytułów honorowych oraz honorowej broni białej,
+- **4)** sposób noszenia odznak honorowych, odznak tytułów honorowych oraz honorowej broni białej, a także eksponowania, przekazywania i przechowywania niektórych wyróżnień,
+- **5)** pododdziały, oddziały i instytucje wojskowe, które mogą być wyróżnione poszczególnymi rodzajami wyróżnień – uwzględniając rodzaje osiągnięć będących kryterium wyróżnienia, a zwłaszcza mających znaczenie dla obronności państwa i Sił Zbrojnych oraz czynów świadczących o ofiarności i odwadze w warunkach pełnienia czynnej służby wojskowej po ogłoszeniu mobilizacji, w stanach nadzwyczajnych, w czasie wojny, a także podczas wykonywania zadań służbowych w strefie działań wojennych oraz w przypadku użycia Sił Zbrojnych poza granicami państwa, jak również udziału w akcjach humanitarnych, poszukiwawczych lub ratowniczych, oraz uroczysty charakter udzielania wyróżnień i sposób wręczania niektórych z nich, zgodnie z ceremoniałem wojskowym.
 
 ### DZIAŁ XIV Uposażenie żołnierzy i inne należności pieniężne
 
@@ -6527,6 +6796,12 @@ Art. 698–776. (pominięte)
 
 **Art. 459.** Żołnierzowi zwolnionemu z zawodowej służby wojskowej, niezależnie od odprawy, o której mowa w art. 458, przysługują następujące należności pieniężne:
 
+- **1)** przez okres 1 roku po zwolnieniu ze służby wypłacane co miesiąc świadczenie pieniężne w wysokości kwoty uposażenia zasadniczego wraz z dodatkami o charakterze stałym, należnego w ostatnim dniu pełnienia służby;
+- **2)** ekwiwalent pieniężny za urlop wypoczynkowy, w tym za dodatkowy urlop wypoczynkowy, z wyjątkiem urlopu, o którym mowa w art. 281 ust. 2, niewykorzystany w roku zwolnienia ze służby, oraz za lata poprzednie;
+- **3)** dodatkowe uposażenie roczne za rok, w którym nastąpiło zwolnienie ze służby, obliczone zgodnie z art. 442;
+- **4)** gratyfikacja urlopowa niewykorzystana w roku zwolnienia ze służby;
+- **5)** zwrot kosztów jednorazowego przejazdu żołnierza i członków jego rodziny oraz zwrot kosztów przewozu urządzenia domowego do obranego przez żołnierza miejsca zamieszkania w kraju – w wysokości i na zasadach określonych jak dla żołnierzy zawodowych przeniesionych do pełnienia służby w innej miejscowości.
+
 **Art. 460.**
 
 1. Świadczenie pieniężne, o którym mowa w art. 459 pkt 1, przysługuje żołnierzowi, który pełnił nieprzerwanie zawodową służbę wojskową przez okres co najmniej 15 lat, do którego dolicza się okres służby w formacjach, o których mowa w art. 137 ust. 1. Przepis art. 458 ust. 3 stosuje się odpowiednio.
@@ -6845,6 +7120,9 @@ Art. 698–776. (pominięte)
 
 **Art. 483.** Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia:
 
+- **1)** stawki uposażenia zasadniczego żołnierzy odbywających ćwiczenia wojskowe, żołnierzy pełniących służbę w aktywnej rezerwie oraz żołnierzy OT pełniących terytorialną służbę wojskową rotacyjnie, w kwotach dziennych – uwzględniając różne rodzaje służby wojskowej, a także stopień etatowy zajmowanego stanowiska służbowego lub posiadany stopień wojskowy;
+- **2)** wysokość dodatków do uposażenia zasadniczego – uwzględniając takie same rozwiązania dla wszystkich żołnierzy niezależnie od rodzaju odbywanej lub pełnionej służby wojskowej.
+
 **Art. 484.**
 
 1. W okresie choroby, urlopu i zwolnienia od zajęć służbowych żołnierz zachowuje prawo do pobieranego ostatnio uposażenia i innych należności pieniężnych, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na wysokość uposażenia zasadniczego lub na prawo do dodatków i innych należności pieniężnych, z zastrzeżeniem art. 480b.
@@ -6875,6 +7153,9 @@ Art. 698–776. (pominięte)
 
 **Art. 490.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** terminy płatności uposażenia, dodatków do uposażenia i innych należności pieniężnych oraz tryb ich wypłacania, uwzględniając sposób wypłaty określony w art. 476 ust. 2 i 3;
+- **2)** tryb pokrywania przez Siły Zbrojne kosztów pogrzebu żołnierzy niebędących żołnierzami zawodowymi, uwzględniając konieczność zapewnienia sprawności postępowania w tych sprawach oraz mając na uwadze rodzaj wydatków składających się na koszty pogrzebu.
+
 **Art. 490a.** Do ustalania organu właściwego w sprawach określonych w przepisach niniejszego rozdziału przepisy art. 470 stosuje się odpowiednio.
 
 ### DZIAŁ XV Odpowiedzialność majątkowa żołnierzy
@@ -6896,6 +7177,9 @@ Art. 698–776. (pominięte)
 **Art. 494.** Dowódca (szef, komendant, dyrektor, kierownik, rektor) jednostki organizacyjnej, spełniającej funkcję organu zaopatrującego w mienie, zwany dalej „właściwym organem jednostki organizacyjnej”, jest obowiązany wykazać okoliczności uzasadniające odpowiedzialność majątkową żołnierza oraz wysokość wyrządzonej szkody.
 
 **Art. 495.** Żołnierz nie ponosi odpowiedzialności majątkowej za szkodę:
+
+- **1)** w takim zakresie, w jakim inna osoba albo jednostka organizacyjna przyczyniła się do powstania szkody lub jej zwiększenia;
+- **2)** wynikłą w związku z działaniem w granicach dopuszczalnego ryzyka.
 
 **Art. 496.** W przypadku wyrządzenia szkody przez kilku żołnierzy każdy z nich ponosi odpowiedzialność majątkową za część szkody, stosownie do przyczynienia się do niej i stopnia winy. Jeżeli nie jest możliwe ustalenie stopnia przyczynienia się poszczególnych żołnierzy do powstania szkody lub stopnia ich winy, odpowiadają oni w częściach równych.
 
@@ -6930,6 +7214,9 @@ Art. 698–776. (pominięte)
 **Art. 503.** Do odpowiedzialności majątkowej, określonej w art. 501 i art. 502, stosuje się odpowiednio przepisy art. 495, art. 499 i art. 500.
 
 **Art. 504.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** sposób i tryb powierzania żołnierzom mienia, o którym mowa w art. 501 ust. 1, uwzględniając w szczególności rodzaje mienia, które może być powierzone żołnierzowi, oraz terminy związane z jego przekazywaniem i zwrotem jednostce organizacyjnej;
+- **2)** sposób i tryb łącznego powierzania żołnierzom mienia, o którym mowa w art. 502 ust. 1, rodzaje mienia, które może być łącznie powierzane żołnierzom, oraz tryb zawierania i rozwiązywania umowy o wspólnej odpowiedzialności majątkowej żołnierzy, oraz wzór tej umowy, uwzględniając kwalifikacje żołnierzy i wykonywanych przez nich funkcji, z jednoczesnym wykluczeniem przypadków ich podległości służbowej.
 
 #### Rozdział 4 Dochodzenie roszczeń o odszkodowanie
 
@@ -6968,6 +7255,15 @@ Art. 698–776. (pominięte)
 
 **Art. 508.** Ilekroć w niniejszym dziale jest mowa o:
 
+- **1)** wypadku – należy przez to rozumieć nagłe zdarzenie wywołane przyczyną zewnętrzną powodujące uraz lub śmierć, pozostające w związku z pełnieniem czynnej służby wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, które zaszło podczas:
+    - **a)** wykonywania obowiązków służbowych albo poleceń przełożonych,
+    - **b)** wykonywania czynności w interesie służby wojskowej, nawet bez polecenia przełożonych,
+    - **c)** ratowania ludzi z grożącego niebezpieczeństwa albo ratowania mienia przed zniszczeniem lub zagarnięciem,
+    - **d)** udziału w pościgu lub ujęciu osób podejrzanych o popełnienie przestępstwa albo ochroną innych osób przed napaścią,
+    - **e)** odbywania drogi do miejsca i z miejsca wykonywania czynności określonych w lit. a i b – lub w związku z tymi czynnościami;
+
+- **2)** drodze do miejsca i z miejsca wykonywania czynności, drodze z miejsca zamieszkania do jednostki wojskowej i z powrotem albo drodze na urlop lub przepustkę i z powrotem – należy przez to rozumieć drogę najkrótszą i nieprzerwaną, z tym że nie uważa się, że droga została przerwana, jeżeli przerwa była życiowo uzasadniona i jej czas nie przekraczał granicy potrzeby, a także wówczas, gdy droga, nie będąc drogą najkrótszą, była najdogodniejsza ze względów komunikacyjnych.
+
 **Art. 509.**
 
 1. Świadczenia odszkodowawcze obejmują jednorazowe odszkodowanie przysługujące w razie wypadków lub chorób pozostających w związku ze służbą wojskową oraz odszkodowanie za przedmioty osobistego użytku utracone, całkowicie zniszczone lub uszkodzone wskutek wypadku pozostającego w związku ze służbą wojskową.
@@ -6985,11 +7281,27 @@ Art. 698–776. (pominięte)
 
 **Art. 510.** Świadczenia odszkodowawcze przysługują następującym członkom rodziny żołnierza:
 
+- **1)** małżonkowi, z wyjątkiem przypadku orzeczonej separacji;
+- **2)** dzieciom własnym, dzieciom współmałżonka, dzieciom przysposobionym oraz przyjętym na wychowanie i utrzymanie przed osiągnięciem pełnoletności wnukom, rodzeństwu i innym dzieciom, w tym również w ramach rodziny zastępczej, spełniającym w dniu śmierci żołnierza warunki wymagane do uzyskania renty rodzinnej;
+- **3)** rodzicom, osobom przysposabiającym, macosze i ojczymowi:
+    - **a)** żołnierzy odbywających zasadniczą służbę wojskową – jeżeli bezpośrednio przed powołaniem do czynnej służby wojskowej prowadzili z nimi wspólne gospodarstwo domowe lub znacząco przyczyniali się do ich utrzymania,
+    - **b)** innych żołnierzy niż wymienieni w lit. a – jeżeli w dniu śmierci żołnierza prowadzili z nim wspólne gospodarstwo domowe lub jeżeli żołnierz bezpośrednio przed śmiercią znacząco przyczyniał się do ich utrzymania – albo jeżeli ustalone zostało wyrokiem lub ugodą sądową prawo do alimentów ze strony tych żołnierzy.
+
 **Art. 511.** Uszczerbek na zdrowiu, o którym mowa w art. 509 ust. 2, uważa się za:
+
+- **1)** stały – jeżeli powoduje upośledzenie czynności organizmu nierokujące poprawy;
+- **2)** długotrwały – jeżeli powoduje upośledzenie czynności organizmu na okres przekraczający 6 miesięcy mogące ulec poprawie.
 
 **Art. 512.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw zdrowia i ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wykaz chorób, z tytułu których przysługują świadczenia określone w niniejszym dziale, z uwzględnieniem szczególnych właściwości lub warunków służby wojskowej powodujących powstawanie tych chorób oraz ich związku z pełnioną służbą.
 
 **Art. 513.** Świadczenia określone w niniejszym dziale nie przysługują:
+
+- **1)** w przypadku choroby lub wypadku, których wyłączną przyczyną było udowodnione przez właściwy organ umyślne lub rażąco niedbałe działanie albo zaniechanie żołnierza naruszające obowiązujące przepisy lub rozkazy, jeżeli jego przełożeni zapewnili warunki odpowiadające tym przepisom, a żołnierz posiadał umiejętności potrzebne do wykonywania określonych czynności i był należycie przeszkolony w zakresie znajomości tych przepisów;
+- **2)** w przypadku:
+    - **a)** wypadku, któremu żołnierz uległ podczas: – pobytu na urlopie lub przepustce, z wyjątkiem odbywania drogi na urlop lub przepustkę i z powrotem oraz przypadków, o których mowa w art. 508 pkt 1 lit. c i d, – samowolnego opuszczenia swojej jednostki wojskowej lub wyznaczonego miejsca przebywania albo samowolnego pozostawania poza nimi, z wyjątkiem przypadków, o których mowa w art. 508 pkt 1 lit. c i d,
+    - **b)** wypadku, do którego w znacznym stopniu przyczyniło się zachowanie żołnierza spowodowane jego stanem nietrzeźwości albo zażyciem środków odurzających lub substancji psychotropowych lub innych podobnie działających substancji lub środków;
+
+- **3)** jeżeli uszczerbek na zdrowiu lub śmierć żołnierza zostały spowodowane przez niego umyślnie.
 
 **Art. 514.** Świadczenia odszkodowawcze przewidziane w tym dziale przysługują niezależnie od świadczeń odszkodowawczych przewidzianych dla żołnierzy pełniących służbę wojskową poza granicami państwa.
 
@@ -7042,6 +7354,10 @@ Art. 698–776. (pominięte)
 2. Zwiększenie jednorazowego odszkodowania przysługuje, jeżeli zmiany w stanie zdrowia żołnierza uzasadniające zwiększenie odszkodowania nastąpiły w terminach określonych w ust. 1 pkt 1 i 2.
 
 **Art. 520.** W szczególnie uzasadnionych przypadkach Minister Obrony Narodowej może przyznać:
+
+- **1)** żołnierzowi albo członkowi rodziny zmarłego żołnierza – jednorazowe odszkodowanie wyższe niż określone w art. 517 albo art. 518;
+- **2)** członkowi rodziny zmarłego żołnierza niespełniającemu warunków wymaganych do uzyskania renty rodzinnej albo innej osobie bliskiej – jednorazowe odszkodowanie na zasadach określonych w art. 518;
+- **3)** członkom rodziny żołnierza, który zaginął w czasie pełnienia służby wojskowej – jednorazowe odszkodowanie w wysokości określonej w art. 518.
 
 **Art. 521.**
 
@@ -7109,6 +7425,11 @@ Art. 698–776. (pominięte)
 **Art. 529.** Świadczenia odszkodowawcze wypłaca dowódca jednostki wojskowej, na którego zaopatrzeniu pozostaje Szef Centralnego Wojskowego Centrum Rekrutacji.
 
 **Art. 530.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** tryb postępowania w sprawie ustalania okoliczności i przyczyn wypadków przez właściwe organy, w tym tryb zgłaszania przez osoby zainteresowane zastrzeżeń do ustaleń tych organów, jak również tryb postępowania w przypadku ujawnienia choroby,
+- **2)** tryb przyznawania i wypłaty odszkodowań, terminy postępowania w tych sprawach oraz przypadki, w których postępowanie w sprawie odszkodowania prowadzi się z urzędu, jak również sposób doręczeń decyzji dotyczących odszkodowań,
+- **3)** wzory dokumentów sporządzanych w toku postępowania w sprawie ustalania okoliczności i przyczyn wypadków oraz postępowania o przyznanie i wypłatę odszkodowania,
+- **4)** tryb postępowania w sprawach, o których mowa w art. 520 – mając na względzie ochronę interesów osób poszkodowanych wskutek wypadku lub choroby żołnierza oraz konieczność sprawnego i terminowego prowadzenia postępowań i wypłaty odszkodowań.
 
 ### DZIAŁ XVII Służba wojskowa w razie ogłoszenia mobilizacji i w czasie wojny
 
@@ -7269,7 +7590,7 @@ Art. 698–776. (pominięte)
 
 - **2)** na wniosek i dotyczy osób, których powołanie do służby wojskowej, o której mowa w ust. 1, groziłoby zaprzestaniem lub poważnym zakłóceniem pracy urzędu państwowego lub samorządowego albo działalności gospodarczej przedsiębiorcy niezbędnej dla zapewnienia obrony lub bezpieczeństwa państwa.
 
-6. Podstawę wyłączenia z urzędu stanowi pisemne zawiadomienie (imienny wykaz osób) przekazane przez Kancelarię Rzeczypospolitej Polskiej, Kancelarię Senatu Rzeczypospolitej Polskiej oraz kierowników urzędów jednostek samorządu terytorialnego w stosunku do osób, o których mowa w ust. 5 pkt 1 lit. a i b, lub kierowników urzędów państwowych lub urzędów jednostek samorządu terytorialnego oraz przedsiębiorców, pracodawców lub innych podmiotów uprawnionych do zatrudnienia lub nawiązania stosunku służbowego w stosunku do osób, o których mowa w ust. 5 pkt 1 lit. c i d.
+6. Podstawę wyłączenia z urzędu stanowi pisemne zawiadomienie (imienny wykaz osób) przekazane przez Kancelarię Sejmu Rzeczypospolitej Polskiej, Kancelarię Senatu Rzeczypospolitej Polskiej oraz kierowników urzędów jednostek samorządu terytorialnego w stosunku do osób, o których mowa w ust. 5 pkt 1 lit. a i b, lub kierowników urzędów państwowych lub urzędów jednostek samorządu terytorialnego oraz przedsiębiorców, pracodawców lub innych podmiotów uprawnionych do zatrudnienia lub nawiązania stosunku służbowego w stosunku do osób, o których mowa w ust. 5 pkt 1 lit. c i d.
 
 7. Podstawę wyłączenia na wniosek stanowi pisemny udokumentowany wniosek kierowników urzędów państwowych lub samorządowych albo przedsiębiorców w stosunku do osób, o których mowa w ust. 5 pkt 2.
 
@@ -7548,6 +7869,12 @@ Art. 698–776. (pominięte)
 
 **Art. 561.** Służba zastępcza trwa:
 
+- **1)** w podmiotach:
+    - **a)** 9 miesięcy w przypadku absolwentów szkół wyższych,
+    - **b)** 18 miesięcy w przypadku pozostałych osób;
+
+- **2)** w formacjach uzbrojonych – 12 miesięcy.
+
 **Art. 562.**
 
 1. Do osób odbywających służbę zastępczą, które w dniu rozpoczęcia odbycia tej służby pozostają w stosunku pracy, stosuje się odpowiednio przepisy art. 303 i art. 313 ust. 1.
@@ -7596,6 +7923,10 @@ Art. 698–776. (pominięte)
 3. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, wzór umowy o wykonywanie pracy przez osobę podlegającą kwalifikacji wojskowej, która powinna w szczególności wskazywać miejsce i stanowisko pracy osoby podlegającej kwalifikacji wojskowej oraz przyczyny rozwiązania umowy, uwzględniając konieczność zapewnienia prawidłowego wykonywania pracy.
 
 **Art. 568.** Podmiot jest obowiązany zapewnić osobie podlegającej kwalifikacji wojskowej:
+
+- **1)** odzież i obuwie robocze oraz środki ochrony indywidualnej, dostarczane na zasadach określonych przepisami działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **2)** możliwość korzystania z urządzeń socjalnych, na zasadach określonych dla pracowników zatrudnionych przez ten podmiot;
+- **3)** posiłki i napoje, przyznawane na zasadach określonych przepisami wydanymi na podstawie art. 232 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz inne posiłki, jeżeli osoba podlegająca kwalifikacji wojskowej odbywa służbę na stanowisku pracy, na którym pracownikom danego podmiotu przysługują takie posiłki.
 
 **Art. 569.**
 
@@ -7757,6 +8088,12 @@ Art. 698–776. (pominięte)
 
 **Art. 586.** Osobie odbywającej służbę zastępczą w podmiocie przysługuje zwolnienie od pracy:
 
+- **1)** w celu wykonania okresowych badań lekarskich i szczepień ochronnych – na czas tych badań i szczepień;
+- **2)** w celu osobistego stawienia się na wezwanie przed organem administracji publicznej, organem wymiaru sprawiedliwości albo organem ścigania – na czas stawiennictwa;
+- **3)** w przypadku ślubu tej osoby lub urodzenia się jej dziecka albo śmierci i pogrzebu małżonka tej osoby lub jej dziecka, ojca, matki, ojczyma lub macochy – w wymiarze 2 dni;
+- **4)** w przypadku śmierci i pogrzebu jej siostry, brata, teściowej, teścia, babki, dziadka, a także innej osoby pozostającej we wspólnym pożyciu albo na utrzymaniu tej osoby lub pod jej bezpośrednią opieką – w wymiarze 1 dnia;
+- **5)** w celu załatwienia ważnych spraw rodzinnych – w wymiarze do 2 dni.
+
 **Art. 587.**
 
 1. Podmiot zawiadamia w terminie 14 dni marszałka województwa o każdej nieobecności w pracy osoby odbywającej służbę zastępczą.
@@ -7883,6 +8220,17 @@ Art. 698–776. (pominięte)
 
 **Art. 602.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb ustalania jednostek przewidzianych do militaryzacji,
+- **2)** tryb ustalania limitów osób, o których mowa w art. 600 ust. 9,
+- **3)** czynności:
+    - **a)** organu wnioskującego o objęcie militaryzacją,
+    - **b)** organu, który objął jednostkę przygotowaniami do militaryzacji,
+    - **c)** kierownika jednostki przewidzianej do militaryzacji,
+    - **d)** kierownika jednostki zmilitaryzowanej,
+
+- **4)** zakres danych i wzór wniosku o wpis do wykazu,
+- **5)** tryb przeprowadzania kontroli stanu przygotowania jednostek przewidzianych do militaryzacji – uwzględniając prawidłowe wykonywanie zadań szczególnie ważnych dla bezpieczeństwa lub obronności państwa oraz konieczność zapewnienia sprawności i efektywności postępowania.
+
 **Art. 603.**
 
 1. Jednostki przewidziane do militaryzacji w sprawach przygotowania do objęcia militaryzacją podlegają Prezesowi Rady Ministrów, właściwym ministrom ze względu na przedmiot ich działania lub wojewodom właściwym ze względu na miejsce realizacji zadań przez jednostkę przewidzianą do militaryzacji, centralnym organom administracji rządowej, kierownikowi urzędu centralnego albo Prezesowi Narodowego Banku Polskiego.
@@ -8006,6 +8354,20 @@ Art. 698–776. (pominięte)
 
 **Art. 614.** Z wnioskiem do Rady Ministrów o uznanie obiektu za szczególnie ważny dla bezpieczeństwa lub obronności państwa mogą występować:
 
+- **1)** Prezes Rady Ministrów, ministrowie i przewodniczący komitetów wchodzących w skład Rady Ministrów – w stosunku do obiektów:
+    - **a)** będących w ich właściwości,
+    - **b)** organów, formacji i jednostek organizacyjnych im podległych lub przez nich nadzorowanych,
+    - **c)** instytucji państwowych oraz przedsiębiorców i innych jednostek organizacyjnych – według właściwości wynikającej z ustaw;
+
+- **2)** organy administracji rządowej nadzorowane przez Prezesa Rady Ministrów – w stosunku do obiektów będących w ich właściwości;
+- **3)** Prezes Narodowego Banku Polskiego – w stosunku do obiektów będących w jego właściwości;
+- **4)** Prezes Zarządu Banku Gospodarstwa Krajowego – w stosunku do obiektów będących w jego właściwości;
+- **5)** wojewodowie – w stosunku do obiektów:
+    - **a)** będących w ich właściwości,
+    - **b)** jednostek organizacyjnych im podporządkowanych lub przez nich nadzorowanych,
+    - **c)** przedsiębiorców prowadzących działalność na terenie województwa, które nie są we właściwości innych organów,
+    - **d)** będących we właściwości organów jednostek samorządu terytorialnego oraz utworzonych przez te organy jednostek organizacyjnych – po zasięgnięciu opinii organów wykonawczych właściwych jednostek samorządu terytorialnego.
+
 **Art. 615.** Na podstawie ustaleń Rady Ministrów, o których mowa w art. 613, Minister Obrony Narodowej prowadzi i aktualizuje wykaz obiektów szczególnie ważnych dla bezpieczeństwa lub obronności państwa.
 
 **Art. 616.** Obiekty szczególnie ważne dla obronności lub bezpieczeństwa państwa kategoryzuje się z uwagi na ich znaczenie oraz pełnioną funkcję dla systemu bezpieczeństwa państwa.
@@ -8059,6 +8421,11 @@ Art. 698–776. (pominięte)
 12. Minister Obrony Narodowej określi, w drodze rozporządzenia, wzór znaku zakazu fotografowania, mając na uwadze zapewnienie jednoznaczności i czytelności zakazu.
 
 **Art. 617.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** rodzaje obiektów szczególnie ważnych dla obronności lub bezpieczeństwa państwa i ich kategorie,
+- **2)** tryb uznawania obiektów za szczególnie ważne dla obronności lub bezpieczeństwa państwa oraz utraty przez nie takiego charakteru,
+- **3)** czynności w zakresie przygotowywania szczególnej ochrony obiektów,
+- **4)** zakres danych i wzór wniosku o uznanie obiektu za szczególnie ważny dla bezpieczeństwa lub obronności państwa – mając na uwadze znaczenie obiektów dla obronności lub bezpieczeństwa państwa oraz konieczność zapewnienia prawidłowości przygotowania i prowadzenia ochrony tych obiektów.
 
 ### DZIAŁ XXI Świadczenia na rzecz obrony
 
@@ -8153,7 +8520,7 @@ Art. 698–776. (pominięte)
 
 1. Obowiązkowi świadczeń osobistych nie podlegają:
 
-- **1)** osoby wybrane do i Senatu Rzeczypospolitej Polskiej lub organów samorządu terytorialnego na czas pełnienia mandatu;
+- **1)** osoby wybrane do Sejmu i Senatu Rzeczypospolitej Polskiej lub organów samorządu terytorialnego na czas pełnienia mandatu;
 - **2)** żołnierze pełniący służbę wojskową oraz osoby powołane do tej służby, jeżeli termin stawienia się do służby koliduje z terminem wykonania świadczenia;
 - **3)** osoby odbywające służbę zastępczą;
 - **4)** osoby, wobec których orzeczono trwałą lub długotrwałą niezdolność do pracy w gospodarstwie rolnym na podstawie ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, osoby uznane za całkowicie niezdolne do pracy oraz samodzielnej egzystencji albo całkowicie niezdolne do pracy na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jak również osoby zaliczone do osób o znacznym stopniu niepełnosprawności albo umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych;
@@ -8166,7 +8533,19 @@ Art. 698–776. (pominięte)
 
 **Art. 626.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** tryb nakładania, wykonywania i zwalniania z obowiązku świadczeń osobistych,
+- **2)** wzory planów i wykazów świadczeń osobistych prowadzonych przez wojewodę, szefa wojskowego centrum rekrutacji, organy samorządu terytorialnego i jednostki organizacyjne, na rzecz których może być wykonywane świadczenie osobiste,
+- **3)** wzory decyzji administracyjnych, wniosków, wezwań i obwieszczeń oraz zaświadczeń wydawanych w sprawach świadczeń osobistych,
+- **4)** tryb wypłacania ryczałtu i należności pieniężnych za wykonanie świadczeń osobistych oraz dokumenty składane w celu ich wypłacenia,
+- **5)** zakres udostępniania lub doręczania planów i wykazów świadczeń osobistych, lub ich wyciągów,
+- **6)** sposób i miejsce przechowywania dokumentów – mając na uwadze konieczność zapewnienia sprawności i efektywności nakładania świadczeń oraz ich wykonywania, priorytet zadań realizowanych przez Siły Zbrojne lub zadań realizowanych na ich rzecz oraz konieczność zapewnienia możliwości wypłacania ryczałtu i należności pieniężnych nie wcześniej niż po wykonaniu świadczenia osobistego.
+
 **Art. 627.** Wojewoda koordynuje na obszarze województwa działalność organów samorządu terytorialnego w zakresie planowania i nakładania obowiązku świadczeń osobistych, w tym:
+
+- **1)** prowadzi zbiorczy wykaz świadczeń osobistych przewidzianych do realizacji na obszarze województwa, zawierający rodzaj prac do wykonania lub niezbędne kwalifikacje oraz wykaz jednostek organizacyjnych, na których rzecz świadczenia mają być wykonane;
+- **2)** planuje wydatki finansowe związane z nakładaniem obowiązku świadczeń osobistych na obszarze województwa;
+- **3)** nadzoruje zadania związane z planowaniem, typowaniem i nakładaniem świadczeń osobistych na obszarze województwa;
+- **4)** analizuje potrzeby i możliwości realizacji świadczeń osobistych przez organy gminy na obszarze województwa, a w razie potrzeby wskazuje wójta (burmistrza, prezydenta miasta), który może zrealizować zadania nałożenia tych świadczeń.
 
 #### Rozdział 2 Świadczenia rzeczowe w czasie pokoju
 
@@ -8183,7 +8562,7 @@ Art. 698–776. (pominięte)
 5. Przedmiotem świadczeń rzeczowych nie mogą być:
 
 - **1)** tereny, pomieszczenia, środki transportowe, maszyny i inny sprzęt, znajdujące się w posiadaniu: 146, 222 i 525), spółdzielczych kas oszczędnościowo-kredytowych, a także Polskiej Wytwórni Papierów Wartościowych,
-    - **a)** jednostek organizacyjnych służących bezpośrednio działalności i Senatu Rzeczypospolitej Polskiej, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Prezesa Rady Ministrów, ministerstw i urzędów wojewódzkich oraz Narodowego Banku Polskiego, banków, izby rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz.
+    - **a)** jednostek organizacyjnych służących bezpośrednio działalności Sejmu i Senatu Rzeczypospolitej Polskiej, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Prezesa Rady Ministrów, ministerstw i urzędów wojewódzkich oraz Narodowego Banku Polskiego, banków, izby rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz.
     - **b)** jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych odpowiednio przez Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw informatyzacji, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego oraz Szefa Krajowej Administracji Skarbowej,
     - **c)** przedstawicielstw dyplomatycznych i urzędów konsularnych państw obcych oraz innych przedstawicielstw i instytucji zrównanych z nimi w zakresie przywilejów i immunitetów na mocy ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, jak również członków tych przedstawicielstw, urzędów i instytucji oraz członków ich rodzin, a także innych osób zrównanych z nimi w zakresie przywilejów i immunitetów, jeżeli nie posiadają obywatelstwa polskiego,
     - **d)** jednostek przewidzianych do militaryzacji i zmilitaryzowanych, które są przeznaczone na potrzeby ujęte w etacie jednostki zmilitaryzowanej;
@@ -8277,7 +8656,21 @@ Art. 698–776. (pominięte)
 
 **Art. 635.** Wojewoda koordynuje na obszarze województwa działalność organów samorządu terytorialnego w zakresie planowania i nakładania obowiązku świadczeń rzeczowych, w tym:
 
+- **1)** prowadzi zbiorczy wykaz świadczeń rzeczowych przewidzianych do realizacji na obszarze województwa;
+- **2)** planuje wydatki finansowe związane z nakładaniem obowiązku świadczeń rzeczowych na obszarze województwa;
+- **3)** nadzoruje zadania związane z planowaniem, typowaniem i nakładaniem świadczeń rzeczowych na obszarze województwa;
+- **4)** analizuje potrzeby i możliwości realizacji świadczeń rzeczowych przez organy gminy na obszarze województwa, a w razie potrzeby wskazuje wójta (burmistrza, prezydenta miasta), który może zrealizować zadania nałożenia tych świadczeń.
+
 **Art. 636.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** tryb planowania i nakładania obowiązku świadczeń rzeczowych, przeznaczania do tych świadczeń i zwalniania z nich oraz ich wykonywania,
+- **2)** rodzaje planów, zestawień i wykazów świadczeń rzeczowych prowadzonych przez wojewodę, szefa wojskowego centrum rekrutacji, organy samorządu terytorialnego i jednostki organizacyjne, na rzecz których może być wykonywane świadczenie rzeczowe,
+- **3)** wzory decyzji administracyjnych, wniosków, wezwań w sprawach świadczeń rzeczowych,
+- **4)** tryb i zakres żądania oraz przekazywania informacji, o których mowa w art. 632,
+- **5)** tryb oddania, przyjęcia i zwrotu przedmiotu świadczeń rzeczowych oraz tryb dochodzenia roszczeń, o których mowa w art. 633,
+- **6)** wykaz dobowych stawek ryczałtu za używanie poszczególnych przedmiotów świadczeń rzeczowych, o których mowa w art. 634,
+- **7)** sposób i miejsce przechowywania dokumentów oraz zakres udostępniania lub doręczania planów, zestawień i wykazów świadczeń rzeczowych, lub ich wyciągów, lub innych dokumentów sporządzanych w tych sprawach,
+- **8)** sposób dokonywania oględzin nieruchomości i rzeczy ruchomych, które mogą być lub są przedmiotem świadczeń rzeczowych – uwzględniając priorytet zadań realizowanych przez Siły Zbrojne lub zadań realizowanych na ich rzecz, konieczność zapewnienia skutecznego przepływu informacji między organami właściwymi w sprawach świadczeń rzeczowych oraz osobami zobowiązanymi do wykonywania tych świadczeń, dopuszczenie drogi postępowania sądowego w dochodzeniu roszczeń oraz fakt, że ryczałt za używanie poszczególnych przedmiotów świadczeń rzeczowych podlega corocznej waloryzacji.
 
 #### Rozdział 3 Świadczenia w razie ogłoszenia mobilizacji i w czasie wojny
 
@@ -8449,6 +8842,9 @@ Art. 698–776. (pominięte)
 
 **Art. 650.** Zadania przedsiębiorców w zakresie ochrony obiektów szczególnie ważnych dla bezpieczeństwa lub obronności państwa stanowią zadania, o których mowa w art. 613 ust. 2 i 3 oraz w:
 
+- **1)** art. 5 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532) w zakresie obiektów, w tym: obiektów budowlanych, urządzeń, instalacji, usług ujętych w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej;
+- **2)** przepisach wydanych na podstawie art. 6 ust. 7 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907), w zakresie zadań z obszaru ochrony infrastruktury krytycznej.
+
 #### Rozdział 2 Plan zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców
 
 **Art. 651.**
@@ -8516,6 +8912,9 @@ Art. 698–776. (pominięte)
 
 **Art. 653.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb opracowywania Planu i aneksu do Planu oraz załączników do Planu lub aneksu do Planu, a także zawartość oraz strukturę tych dokumentów,
+- **2)** wzory dokumentów wykorzystywanych do opracowania Planu – uwzględniając konieczność zapewnienia spójności opisu realizowanych zadań, jednolitości przekazywanych informacji niezbędnych do opracowania Planu oraz możliwości produkcyjno-usługowych przedsiębiorców.
+
 **Art. 654.**
 
 1. Prezes Rady Ministrów, na wniosek Ministra Obrony Narodowej, podejmuje decyzję o uruchomieniu Planu, w drodze rozporządzenia, w którym określa:
@@ -8563,6 +8962,34 @@ Art. 698–776. (pominięte)
 #### Rozdział 3 Wymagania wobec przedsiębiorców
 
 **Art. 657.** Przedsiębiorcą realizującym zadania na rzecz Sił Zbrojnych może być wyłącznie przedsiębiorca:
+
+- **1)** posiadający moce produkcyjne, naprawcze lub usługowe, które mogą być wykorzystane do realizacji zadań, o których mowa w art. 648 ust. 1 pkt 1 i 2;
+- **2)** będący osobą fizyczną, której nie skazano prawomocnie za: 28 i 620),
+    - **a)** przestępstwo udziału w zorganizowanej grupie przestępczej albo związku mającym na celu popełnienie przestępstwa lub przestępstwa skarbowego, o którym mowa w art. 258 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
+    - **b)** przestępstwo handlu ludźmi, o którym mowa w art. 189a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
+    - **c)** przestępstwo, o którym mowa w art. 228–230a, art. 250a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub w art. 46 i art. 48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz.
+    - **d)** przestępstwo finansowania przestępstwa o charakterze terrorystycznym, o którym mowa w art. 165a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub przestępstwo udaremniania lub utrudniania stwierdzenia przestępnego pochodzenia pieniędzy lub ukrywania ich pochodzenia, o którym mowa w art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
+    - **e)** przestępstwo o charakterze terrorystycznym, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub mające na celu popełnienie tego przestępstwa,
+    - **f)** przestępstwa przeciwko obrotowi gospodarczemu, o których mowa w art. 296–307 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub przestępstwo oszustwa, o którym mowa w art. 286 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
+    - **g)** przestępstwa przeciwko wiarygodności dokumentów, o których mowa w art. 270–277d ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
+    - **h)** przestępstwo pracy małoletnich, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1745 oraz z 2025 r. poz.
+
+- **621)** ,
+    - **i)** przestępstwo, o którym mowa w art. 9 ust. 1 i ust. 3 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej,
+    - **j)** przestępstwo skarbowe;
+
+- **3)** którego urzędującego członka organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo-akcyjnej lub prokurenta nie skazano prawomocnie za przestępstwo, o którym mowa w pkt 2;
+- **4)** wobec którego nie wydano prawomocnego wyroku sądu lub ostatecznej decyzji administracyjnej o zaleganiu z uiszczeniem podatków, opłat lub składek na ubezpieczenia społeczne lub zdrowotne;
+- **5)** który nie naruszył obowiązków dotyczących płatności podatków, opłat lub składek na ubezpieczenia społeczne lub ubezpieczenie zdrowotne, z wyjątkiem przypadku, o którym mowa w pkt 4, chyba że przedsiębiorca wykaże, że dokonał płatności należnych podatków, opłat lub składek na ubezpieczenia społeczne lub ubezpieczenie zdrowotne wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłaty tych należności;
+- **6)** który nie naruszył obowiązków w dziedzinie ochrony środowiska, prawa socjalnego lub prawa pracy to jest:
+    - **a)** nie został prawomocnie skazany za przestępstwo przeciwko środowisku na podstawie art. 181–188 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub za przestępstwa przeciwko prawom osób wykonujących pracę zarobkową na podstawie art. 218–221 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub odpowiednio na podstawie przepisów prawa obcego,
+    - **b)** nie został prawomocnie skazany za wykroczenie przeciwko prawom pracownika lub wykroczenie przeciwko środowisku, jeżeli za jego popełnienie wymierzono karę aresztu, ograniczenia wolności lub karę grzywny,
+    - **c)** nie wydano wobec niego ostatecznej decyzji administracyjnej o naruszeniu obowiązków wynikających z zakresu prawa ochrony środowiska, prawa pracy lub przepisów o zabezpieczeniu społecznym, jeżeli wymierzono tą decyzją karę pieniężną;
+
+- **7)** którego urzędującego członka organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo-akcyjnej lub prokurenta nie skazano prawomocnie za przestępstwo lub wykroczenie, o którym mowa w pkt 6 lit. a lub b;
+- **8)** w stosunku, do którego nie otwarto likwidacji, nie ogłoszono upadłości, którego aktywami nie zarządza likwidator lub sąd, nie zawarł układu z wierzycielami, którego działalność gospodarcza nie jest zawieszona;
+- **9)** posiadający wymagane przepisami prawa: koncesje, licencje, zezwolenia do prowadzenia działalności gospodarczej wydane przez uprawniony organ administracji państwowej;
+- **10)** posiadający zdolność do przetwarzania informacji niejawnych, jeśli jest to określone przez Ministra Obrony Narodowej jako wymóg przy wykonywaniu zadań.
 
 #### Rozdział 4 Obowiązki przedsiębiorców
 
@@ -8758,6 +9185,9 @@ Art. 698–776. (pominięte)
 
 **Art. 670.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** tryb udzielania obywatelom polskim zgody na służbę w obcym wojsku lub obcej organizacji wojskowej,
+- **2)** wzór wniosku o udzielenie zgody na służbę w obcym wojsku lub obcej organizacji wojskowej – uwzględniając obowiązek zabezpieczania interesów Rzeczypospolitej Polskiej oraz możliwości wykonywania zadań przez Siły Zbrojne.
+
 ### DZIAŁ XXIV Medale
 
 **Art. 671.**
@@ -8826,7 +9256,16 @@ Art. 698–776. (pominięte)
 
 **Art. 677.** Medal WP może być nadany osobom, które:
 
+- **1)** aktywnie wspierały na arenie międzynarodowej pokojową działalność Wojska Polskiego;
+- **2)** przyczyniły się do rozwoju potencjału obronnego Rzeczypospolitej Polskiej;
+- **3)** szczególnie zasłużyły się w dziedzinie współdziałania w ramach jednostek wielonarodowych, w skład których wchodzą jednostki Wojska Polskiego, w tym przede wszystkim w integrowaniu dowództw, sztabów i jednostek wojskowych na wszystkich szczeblach dowodzenia (zarządzania);
+- **4)** przyczyniły się do popularyzacji dziejów i tradycji Wojska Polskiego na arenie międzynarodowej.
+
 **Art. 678.** Medal WP dzieli się na 3 stopnie:
+
+- **1)** I stopień – Złoty Medal Wojska Polskiego;
+- **2)** II stopień – Srebrny Medal Wojska Polskiego;
+- **3)** III stopień – Brązowy Medal Wojska Polskiego.
 
 **Art. 679.**
 
@@ -8859,6 +9298,11 @@ Art. 698–776. (pominięte)
 ### DZIAŁ XXV Przepisy karne i przepisy o karach pieniężnych
 
 **Art. 681.** Kto wbrew obowiązkom wynikającym z ustawy:
+
+- **1)** nie stawia się do kwalifikacji wojskowej przed wójtem (burmistrzem, prezydentem miasta), przed właściwą komisją lekarską lub przed szefem wojskowego centrum rekrutacji w określonym terminie i miejscu albo nie przedstawia dokumentów, których przedstawienie zostało nakazane,
+- **2)** nie zgłasza się w celu uregulowania stosunku do obowiązku obrony,
+- **3)** nie zgłasza się w określonym terminie i miejscu na wezwanie właściwych organów w sprawach dotyczących obowiązku obrony oraz odmawia poddania się badaniom lekarskim,
+- **4)** odmawia udzielenia właściwym organom prowadzącym ewidencję wojskową informacji w zakresie danych jego dotyczących i przetwarzanych w ewidencji wojskowej – podlega karze ograniczenia wolności albo grzywny.
 
 **Art. 682.**
 
@@ -9338,5 +9782,24 @@ Art. 698–776. (pominięte)
 
 **Art. 823.** Tracą moc:
 
+- **1)** ustawa z dnia 21 kwietnia 1966 r. o ustanowieniu medalu „Za udział w walkach o Berlin” i medalu „Za zasługi dla obronności kraju” (Dz. U. z 2019 r. poz. 425);
+- **2)** ustawa z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 372 i 1728);
+- **3)** ustawa z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy niezawodowych (Dz. U. z 2017 r. poz. 2146);
+- **4)** ustawa z dnia 30 lipca 1992 r. o ustanowieniu Święta Wojska Polskiego (Dz. U. poz. 303);
+- **5)** ustawa z dnia 3 października 1992 r. o przysiędze wojskowej (Dz. U. poz. 386);
+- **6)** ustawa z dnia 14 grudnia 1995 r. o ustanowieniu Medalu „Siły Zbrojne w Służbie Ojczyzny” (Dz. U. z 1996 r. poz. 140);
+- **7)** ustawa z dnia 3 września 1999 r. o ustanowieniu Medalu Wojska Polskiego (Dz. U. poz. 936);
+- **8)** ustawa z dnia 25 maja 2001 r. o odpowiedzialności majątkowej żołnierzy (Dz. U. z 2018 r. poz. 85);
+- **9)** ustawa z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 161);
+- **10)** ustawa z dnia 23 sierpnia 2001 r. o organizowaniu zadań na rzecz obronności państwa realizowanych przez przedsiębiorców (Dz. U. z 2020 r. poz. 1669);
+- **11)** ustawa z dnia 11 kwietnia 2003 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową (Dz. U. z 2017 r. poz. 1950);
+- **12)** ustawa z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536);
+- **13)** ustawa z dnia 28 listopada 2003 r. o służbie zastępczej (Dz. U. z 2018 r. poz. 885);
+- **14)** ustawa z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. z 2021 r. poz. 1489).
+
 **Art. 824.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r.
+
 

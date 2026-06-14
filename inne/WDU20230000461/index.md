@@ -8,10 +8,10 @@ pos: 461
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 461 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 9 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,25 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/461/text.pdf) |
 
-Poz. 461 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI dnia 9 marca 2023 r.
-sprawie kryteriów uznawania użytków rolnych do wypasu lub uprawy Na podstawie art. 21 2 ustawy dnia 8 lutego 2023 r. Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) zarządza się, co następuje: § 1. 1. Użytki rolne uznaje do wypasu lub uprawy, jeżeli:
-1) został na nich przeprowadzony co najmniej jeden zabieg agrotechniczny mający na celu usunięcie lub zniszczenie niepożądanej roślinności – przypadku gruntów ornych i trwałych użytków zielonych,
-2) na nich przeprowadzone co najmniej dwa zabiegi agrotechniczne, tym jeden mający na celu usunięcie lub zniszczenie niepożądanej roślinności i drugi mający na celu usunięcie obumarłych drzew lub gałęzi, lub cięcie sanitarne suchych i zasychających gałęzi – przypadku sadów – terminie do dnia 31 lipca roku, którym został złożony wniosek przyznanie pomocy, której mowa art. 20 pkt 1–4 ustawy dnia 8 lutego 2023 r. Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, zwanej dalej „ustawą”.
-2. Zabiegi agrotechniczne, których mowa 1, przypadku:
+w sprawie kryteriów uznawania użytków rolnych za pozostające w stanie, dzięki któremu nadają się one do wypasu lub uprawy Na podstawie art. 21 ust. 2 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) zarządza się, co następuje:
+§ 1. 1. Użytki rolne uznaje się za pozostające w stanie, dzięki któremu nadają się one do wypasu lub uprawy, jeżeli:
+1) został na nich przeprowadzony co najmniej jeden zabieg agrotechniczny mający na celu usunięcie lub zniszczenie niepożądanej roślinności – w przypadku gruntów ornych i trwałych użytków zielonych,
+2) zostały na nich przeprowadzone co najmniej dwa zabiegi agrotechniczne, w tym jeden mający na celu usunięcie lub zniszczenie niepożądanej roślinności i drugi mający na celu usunięcie obumarłych drzew lub gałęzi, lub cięcie sanitarne suchych i zasychających gałęzi – w przypadku sadów – w terminie do dnia 31 lipca roku, w którym został złożony wniosek o przyznanie pomocy, o której mowa w art. 20 pkt 1–4 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, zwanej dalej „ustawą”.
+2. Zabiegi agrotechniczne, o których mowa w ust. 1, w przypadku:
 1) gruntów ornych:
-a) ugorowanych innych niż grunty ugorowane roślinami miododajnymi, stanowiących obszary, których mowa art. 4 4 lit. b ppkt (ii) Parlamentu Europejskiego i Rady (UE) 2021/2115 dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) uchylającego (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435
-06.12.2021, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 2021/2115”, i dla których to gruntów ornych określono normy przepisach wydanych na podstawie art. 55 1 ustawy – przeprowadza terminie do dnia 30 września roku, którym został złożony wniosek przyznanie pomocy, której mowa art. 20 pkt 1–4 ustawy,
-b) objętych zobowiązaniami rolno-środowiskowo-klimatycznymi, których mowa art. 70 1 2021/2115, ramach interwencji, której mowa art. 42 1 pkt 7 ustawy wariancie Wieloletnie pasy kwietne – przeprowadza terminie i zakresie określonych przepisach dotyczących płatności rolno-środowiskowo-klimatycznych wydanych na podstawie art. 71 1 ustawy;
-Dziennik Ustaw – 2 – Poz. 461
+a) ugorowanych innych niż grunty ugorowane z roślinami miododajnymi, stanowiących obszary, o których mowa w art. 4 ust. 4 lit. b ppkt (ii) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/2115”, i dla których to gruntów ornych określono normy w przepisach wydanych na podstawie art. 55 ust. 1 ustawy – przeprowadza się w terminie do dnia 30 września roku, w którym został złożony wniosek o przyznanie pomocy, o której mowa w art. 20 pkt 1–4 ustawy,
+b) objętych zobowiązaniami rolno-środowiskowo-klimatycznymi, o których mowa w art. 70 ust. 1 rozporządzenia 2021/2115, w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy w wariancie Wieloletnie pasy kwietne – przeprowadza się w terminie i zakresie określonych w przepisach dotyczących płatności rolno-środowiskowo-klimatycznych wydanych na podstawie art. 71 ust. 1 ustawy;
 2) trwałych użytków zielonych objętych zobowiązaniami rolno-środowiskowo-klimatycznymi:
-a) ramach pakietów wymienionych § 4 1 pkt 4 i 5 Ministra Rolnictwa i Rozwoju Wsi dnia 18 marca 2015 r. sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 415, późn. zm. ) – przeprowadza terminie i zakresie określonych tym rozporządzeniu,
-b) których mowa art. 70 1 2021/2115, ramach interwencji, których mowa art. 42 1 pkt 1–3 ustawy – przeprowadza terminie i zakresie określonych przepisach dotyczących płatności rolno-środowiskowo-klimatycznych wydanych na podstawie art. 71 1 ustawy;
+a) w ramach pakietów wymienionych w § 4 ust. 1 pkt 4 i 5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 415, z późn. zm. ) – przeprowadza się w terminie i zakresie określonych w tym rozporządzeniu,
+b) o których mowa w art. 70 ust. 1 rozporządzenia 2021/2115, w ramach interwencji, o których mowa w art. 42 ust. 1 pkt 1–3 ustawy – przeprowadza się w terminie i zakresie określonych w przepisach dotyczących płatności rolno-środowiskowo-klimatycznych wydanych na podstawie art. 71 ust. 1 ustawy;
 3) sadów objętych zobowiązaniami rolno-środowiskowo-klimatycznymi:
-a) ramach pakietu § 4 1 pkt 3 rozporządzenia, którym mowa pkt 2 lit. a – przeprowadza terminie i zakresie określonych tym rozporządzeniu,
-b) których mowa art. 70 1 2021/2115, ramach interwencji, której mowa art. 42 1 pkt 4 ustawy – przeprowadza terminie i zakresie określonych przepisach dotyczących płatności rolno-środowiskowo-klimatycznych wydanych na podstawie art. 71 1 ustawy.
-§ 2. Użytki rolne stanowiące obszary, których mowa art. 4 4 lit. b ppkt (ii) 2021/2115, uznaje do wypasu lub uprawy, nawet jeżeli:
-1) nie przeprowadzono zabiegów agrotechnicznych, których mowa § 1 1, albo
-2) zabiegi agrotechniczne, których mowa § 1 1, przeprowadzono po terminie określonym tym przepisie – ile znajdują na nich grunty ugorowane roślinami miododajnymi, miedze śródpolne, strefy buforowe lub pasy gruntów wzdłuż obrzeży lasu, dla których określono normy przepisach wydanych na podstawie art. 55 1 ustawy.
-§ 3. Rozporządzenie wchodzi życie dniem 15 marca 2023 r.
+a) w ramach pakietu wymienionego w § 4 ust. 1 pkt 3 rozporządzenia, o którym mowa w pkt 2 lit. a – przeprowadza się w terminie i zakresie określonych w tym rozporządzeniu,
+b) o których mowa w art. 70 ust. 1 rozporządzenia 2021/2115, w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 4 ustawy – przeprowadza się w terminie i zakresie określonych w przepisach dotyczących płatności rolno-środowiskowo-klimatycznych wydanych na podstawie art. 71 ust. 1 ustawy.
+§ 2. Użytki rolne stanowiące obszary, o których mowa w art. 4 ust. 4 lit. b ppkt (ii) rozporządzenia 2021/2115, uznaje się za pozostające w stanie, dzięki któremu nadają się one do wypasu lub uprawy, nawet jeżeli:
+1) nie przeprowadzono zabiegów agrotechnicznych, o których mowa w § 1 ust. 1, albo
+2) zabiegi agrotechniczne, o których mowa w § 1 ust. 1, przeprowadzono po terminie określonym w tym przepisie – o ile znajdują się na nich grunty ugorowane z roślinami miododajnymi, miedze śródpolne, strefy buforowe lub pasy gruntów wzdłuż obrzeży lasu, dla których określono normy w przepisach wydanych na podstawie art. 55 ust. 1 ustawy.
+§ 3. Rozporządzenie wchodzi w życie z dniem 15 marca 2023 r.
 Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk
 

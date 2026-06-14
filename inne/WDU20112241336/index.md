@@ -8,7 +8,7 @@ pos: 1336
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dotacji dla Fundacji Auschwitz-Birkenau przeznaczonej na uzupełnienie Kapitału Wieczystego
@@ -27,31 +27,39 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112241336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1336/text.pdf) |
 
-**Art. 1.** Ustawa określa cel i zakres wykorzystania oraz sposób udzielenia dotacji z budżetu państwa, zwanej dalej „dotacją”, dla Fundacji Auschwitz-Birkenau z siedzibą Warszawie, zwanej dalej „Fundacją”.
+**Art. 1.** Ustawa określa cel i zakres wykorzystania oraz sposób udzielenia dotacji z budżetu państwa, zwanej dalej „dotacją”, dla Fundacji Auschwitz-Birkenau z siedzibą w Warszawie, zwanej dalej „Fundacją”.
 
 **Art. 2.**
 
 1. Dotacja jest przeznaczona na uzupełnienie Kapitału Wieczystego Fundacji.
 
-2. Środki stanowiące część Kapitału Wieczystego Fundacji pochodzącą z dotacji są całości inwestowane poprzez nabywanie papierów wartościowych i innych instrumentów finansowych, o których mowa art. 17 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm. ).
+2. Środki stanowiące część Kapitału Wieczystego Fundacji pochodzącą z dotacji są w całości inwestowane poprzez nabywanie papierów wartościowych i innych instrumentów finansowych, o których mowa w art. 17 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm. ).
 
-3. Środki pochodzące z dotacji przeznaczonej na uzupełnienie Kapitału Wieczystego Fundacji nie mogą być wydawane ani inny sposób bezpośrednio przeznaczane na realizację celów Fundacji.
+3. Środki pochodzące z dotacji przeznaczonej na uzupełnienie Kapitału Wieczystego Fundacji nie mogą być wydawane ani w inny sposób bezpośrednio przeznaczane na realizację celów Fundacji.
 
-**Art. 3.** Dochody z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji Fundacja przeznacza wyłącznie na konserwację terenu i pozostałości byłego niemieckiego nazistowskiego obozu koncentracyjnego i zagłady KL Auschwitz I i Auschwitz II Birkenau znajdujących się pod opieką Państwowego Muzeum Auschwitz-Birkenau Oświęcimiu, a szczególności:
+**Art. 3.** Dochody z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji Fundacja przeznacza wyłącznie na konserwację terenu i pozostałości byłego niemieckiego nazistowskiego obozu koncentracyjnego i zagłady KL Auschwitz I i Auschwitz II Birkenau znajdujących się pod opieką Państwowego Muzeum Auschwitz-Birkenau w Oświęcimiu, a w szczególności:
+
+- **1)** bloków i innych budynków murowanych;
+- **2)** baraków, wieżyczek i innych obiektów drewnianych;
+- **3)** ruin po nieistniejących barakach;
+- **4)** pozostałości po krematoriach i komorach gazowych;
+- **5)** terenów, rowów, historycznej zieleni;
+- **6)** rampy, ogrodzeń kolczastych, dróg obozowych i innych instalacji;
+- **7)** zbiorów archiwalnych i wszelkich innych obiektów ruchomych i nieruchomych.
 
 **Art. 4.**
 
-1. Kwota dotacji stanowi równowartość złotych kwoty 10 mln euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski ostatnim dniu roboczym poprzedzającym dzień przekazania środków na rzecz Fundacji.
+1. Kwota dotacji stanowi równowartość w złotych kwoty 10 mln euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roboczym poprzedzającym dzień przekazania środków na rzecz Fundacji.
 
-2. Dotację przekazuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego całości albo transzach nie później niż do końca 2015 r.
+2. Dotację przekazuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w całości albo w transzach nie później niż do końca 2015 r.
 
 **Art. 5.**
 
 1. Dotacja jest wypłacana po zawarciu umowy o udzielenie dotacji między ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego a Fundacją.
 
-2. Umowa, o której mowa ust. 1, określa szczególności:
+2. Umowa, o której mowa w ust. 1, określa w szczególności:
 
-- **1)** zobowiązanie Fundacji do przeznaczenia dotacji na cel określony art. 2 ust. 1;
+- **1)** zobowiązanie Fundacji do przeznaczenia dotacji na cel określony w art. 2 ust. 1;
 - **2)** szczegółowe zasady gospodarowania środkami pochodzącymi z dotacji;
 - **3)** wysokość dotacji;
 - **4)** sposób i terminy przekazania dotacji;
@@ -61,9 +69,9 @@ source: "isap-pdf"
 
 3. Fundacja jest obowiązana do prowadzenia wyodrębnionej ewidencji księgowej środków otrzymanych z dotacji oraz ewidencji dochodów z inwestowania środków pochodzących z dotacji.
 
-4. Dotacja podlega zwrotowi przypadku gdy zostanie wykorzystana inny niż wskazany ustawie sposób lub zostanie podjęta uchwała o zmianie przeznaczenia Kapitału Wieczystego Fundacji.
+4. Dotacja podlega zwrotowi w przypadku gdy zostanie wykorzystana w inny niż wskazany w ustawie sposób lub zostanie podjęta uchwała o zmianie przeznaczenia Kapitału Wieczystego Fundacji.
 
-5. Fundacja składa ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego terminie do końca marca sprawozdanie za rok poprzedni, zawierające rozliczenie rzeczowo-finansowe zadań zrealizowanych ze środków pochodzących z dochodów z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji oraz informację o sposobie inwestowania środków pochodzących z dotacji.
+5. Fundacja składa ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego w terminie do końca marca sprawozdanie za rok poprzedni, zawierające rozliczenie rzeczowo-finansowe zadań zrealizowanych ze środków pochodzących z dochodów z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji oraz informację o sposobie inwestowania środków pochodzących z dotacji.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

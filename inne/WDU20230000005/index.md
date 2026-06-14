@@ -8,10 +8,10 @@ pos: 5
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 stycznia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 5 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 22 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000005) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/5/text.pdf) |
 
-Poz. 5 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 22 grudnia 2022 r.
-zmieniające rozporządzenie w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy Na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Infrastruktury z dnia 25 marca 2002 r. w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy (Dz. U. poz. 271, z 2004 r. poz. 2376, z 2007 r. poz. 1462 oraz z 2011 r. poz. 308) § 2 otrzymuje brzmienie: „§ 2. Koszty używania pojazdów do celów służbowych pokrywa pracodawca według stawek za 1 kilometr przebiegu pojazdu, które nie mogą być wyższe niż:
+zmieniające rozporządzenie w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy Na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 25 marca 2002 r. w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy (Dz. U. poz. 271, z 2004 r. poz. 2376, z 2007 r. poz. 1462 oraz z 2011 r. poz. 308) § 2 otrzymuje brzmienie: „§ 2. Koszty używania pojazdów do celów służbowych pokrywa pracodawca według stawek za 1 kilometr przebiegu pojazdu, które nie mogą być wyższe niż:
 1) dla samochodu osobowego:
 a) o pojemności skokowej silnika do 900 cm – 0,89 zł,
 b) o pojemności skokowej silnika powyżej 900 cm – 1,15 zł,

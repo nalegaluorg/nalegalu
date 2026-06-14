@@ -8,7 +8,7 @@ pos: 1318
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy - Kodeks karny wykonawczy

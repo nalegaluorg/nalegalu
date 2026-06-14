@@ -8,7 +8,7 @@ pos: 224
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Akademii Medycznej w Białymstoku nazwy „Uniwersytet Medyczny w Białymstoku”

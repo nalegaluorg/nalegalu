@@ -8,10 +8,10 @@ pos: 293
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 lutego 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 293 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 22 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/293/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 22 grudnia 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie wzoru zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wzoru formularza wniosku o udzielenie cudzoziemcowi tego zezwolenia
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 25 kwietnia 2014 r. w sprawie wzoru zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wzoru formularza wniosku o udzielenie cudzoziemcowi tego zezwolenia (Dz. U. poz. 554), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 lipca 2020 r. zmieniającym rozporządzenie w sprawie wzoru zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wzoru formularza wniosku o udzielenie cudzoziemcowi tego zezwolenia (Dz. U. poz. 1215);
@@ -39,7 +38,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Spraw Wewnętrznych i Administracji: wz. B. Grodecki ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 25 kwietnia 2014 r.
 w sprawie wzoru zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wzoru formularza wniosku o udzielenie cudzoziemcowi tego zezwolenia Na podstawie art. 46 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354 oraz z 2022 r.
-poz. 91) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 91) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego;
 2) wzór zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego;
 3) liczbę fotografii dołączanych do wniosku, o którym mowa w pkt 1;
@@ -65,8 +65,11 @@ poz. 91) zarządza się, co następuje: § 1. Rozporządzenie określa:
 3. Przekazanie danych i informacji, o których mowa w ust. 1 i 2, do spersonalizowania zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, następuje w drodze teletransmisji danych.
 § 6. Do zezwoleń na przekraczanie granicy w ramach małego ruchu granicznego, o których udzielenie wniosek złożono przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 7. Rozporządzenie wchodzi w życie z dniem 1 maja 2014 r.
-2) W przypadku zezwolenia wydawanego obywatelom Republiki Białorusi: AWERS REWERS
-2) W przypadku zezwolenia wydawanego obywatelom Republiki Białorusi: AWERS REWERS
-3) W przypadku zezwolenia wydawanego obywatelom Ukrainy: AWERS REWERS Tekst NR DOKUMENTU oraz NR CAN nie jest tekstem stałym naniesionym trwale na blankiecie, a jedynie określa pole, w którym w trakcie personalizacji będzie nanoszony indywidualny dla danego dokumentu numer tego dokumentu oraz numer CAN.
-3) W przypadku zezwolenia wydawanego obywatelom Ukrainy: AWERS REWERS Tekst NR DOKUMENTU oraz NR CAN nie jest tekstem stałym naniesionym trwale na blankiecie, a jedynie określa pole, w którym w trakcie personalizacji będzie nanoszony indywidualny dla danego dokumentu numer tego dokumentu oraz numer CAN.
+WZÓR Załącznik nr 1 WZÓR WNIOSEK O UDZIELENIE CUDZOZIEMCOWI ZEZWOLENIA NA PRZEKRACZANIE GRANICY W RAMACH MAŁEGO RUCHU GRANICZNEGO   * Dziennik Ustaw – 7 – Załącznik Załącznik Poz. nr nr 293 2 2 WZÓR WZÓR ZEZWOLENIA ZEZWOLENIA NA NA PRZEKRACZANIE PRZEKRACZANIE GRANICY GRANICY W W RAMACH RAMACH MAŁEGO MAŁEGO RUCHU RUCHU GRANICZNEGO GRANICZNEGO WZÓR ZEZWOLENIA NA PRZEKRACZANIE GRANICY W RAMACH MAŁEGO RUCHU GRANICZNEGO Dokument Dokument w w skali skali 1:1 1:1 Dokument w skali 1:1
+1) 1) W W przypadku przypadku zezwolenia zezwolenia wydawanego wydawanego obywatelom obywatelom Federacji Federacji Rosyjskiej: Rosyjskiej:
+1) W przypadku zezwolenia wydawanego obywatelom Federacji Rosyjskiej: AWERS AWERS AWERS REWERS REWERS REWERS ________________________________ ________________________________ W W brzmieniu brzmieniu ustalonym ustalonym przez przez § § 1 1 rozporządzenia rozporządzenia Ministra Ministra Spraw Spraw Wewnętrznych Wewnętrznych i i Administracji Administracji z z dnia dnia 5 5 stycznia stycznia 2021 2021 r. r.
+zmieniającego zmieniającego rozporządzenie rozporządzenie w w sprawie sprawie wzoru wzoru zezwolenia zezwolenia na na przekraczanie przekraczanie granicy granicy w w ramach ramach małego małego ruchu ruchu granicznego granicznego oraz oraz wzoru wzoru formularza formularza wniosku wniosku o o udzielenie udzielenie cudzoziemcowi cudzoziemcowi tego tego zezwolenia zezwolenia (Dz. (Dz. U. U. poz. poz. 35), 35), które które weszło weszło w w życie życie z z dniem dniem 9 9 stycznia stycznia 2021 2021 r. r.
+2) 2) W W przypadku przypadku zezwolenia zezwolenia wydawanego wydawanego obywatelom obywatelom Republiki Republiki Białorusi: Białorusi: AWERS AWERS REWERS REWERS
+3) W przypadku zezwolenia wydawanego obywatelom Ukrainy:
+3) W przypadku zezwolenia wydawanego obywatelom Ukrainy: AWERS AWERS REWERS REWERS Tekst NR DOKUMENTU oraz NR CAN nie jest tekstem stałym naniesionym trwale na blankiecie, a jedynie określa pole, Tekst w którym NR DOKUMENTU w trakcie personalizacji oraz NR będzie CAN nie nanoszony jest tekstem indywidualny stałym naniesionym dla danego trwale dokumentu na blankiecie, numer tego a jedynie dokumentu określa oraz numer pole, w CAN. którym w trakcie personalizacji będzie nanoszony indywidualny dla danego dokumentu numer tego dokumentu oraz numer CAN.
 

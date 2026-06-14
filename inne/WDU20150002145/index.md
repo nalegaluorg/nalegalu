@@ -8,10 +8,10 @@ pos: 2145
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 grudnia 2015 r. w sprawie szczegółowego zakresu informacji wymaganych do podania do publicznej wiadomości przez właściwe organy Państwowej Straży Pożarnej
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2145 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 2 grudnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,157 +25,82 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2145/text.pdf) |
 
-Treść rozporządzenia
-Na podstawie art. 267 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) zarządza się, co następuje:
-§ 1.
-Rozporządzenie określa:
-1)
-szczegółowy zakres:
-a)
-informacji o zatwierdzonych raportach o bezpieczeństwie lub ich zmianach,
-b)
-informacji o przyjętych zewnętrznych planach operacyjno-ratowniczych lub ich zmianach,
-c)
-informacji o przedłożonych zgłoszeniach zakładów, o których mowa w art. 250 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zwanej dalej „ustawą”,
-d)
-informacji o pozytywnie zaopiniowanych programach zapobiegania poważnym awariom,
-e)
-informacji o kontrolach planowych w terenie,
-f)
-informacji o możliwości udziału społeczeństwa w postępowaniu, którego przedmiotem jest sporządzenie zewnętrznego planu operacyjno-ratowniczego – na 30 dni przed jego przyjęciem,
-g)
-informacji o decyzjach wydanych na podstawie art. 267a ust. 2 oraz art. 264d ust. 1 ustawy,
-h)
-instrukcji postępowania mieszkańców na wypadek wystąpienia awarii,
-i)
-informacji o zamieszczeniu w publicznie dostępnym wykazie, aktualizowanym corocznie, wykazu substancji niebezpiecznych znajdujących się w zakładach o dużym ryzyku,
-j)
-uzasadnienia odstąpienia od sporządzenia zewnętrznego planu operacyjno-ratowniczego;
-2)
-formę udostępniania informacji, o których mowa w pkt 1;
-3)
-właściwe organy Państwowej Straży Pożarnej obowiązane do ich udostępniania.
-§ 2.
-Informacje, o których mowa w § 1 pkt 1, w przypadku zakładu o dużym ryzyku, udostępnia komendant wojewódzki Państwowej Straży Pożarnej właściwy miejscowo ze względu na lokalizację zakładu o dużym ryzyku, którego dotyczą te informacje.
-§ 3.
-Informacje, o których mowa w § 1 pkt 1 lit. c-e, g i h, w przypadku zakładu o zwiększonym ryzyku, udostępnia komendant powiatowy (miejski) Państwowej Straży Pożarnej właściwy miejscowo ze względu na lokalizację zakładu o zwiększonym ryzyku, którego dotyczą te informacje.
-§ 4.
-Zakres informacji o zatwierdzonych raportach o bezpieczeństwie lub ich zmianach obejmuje:
-1)
-oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
-2)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
-3)
-datę i numer decyzji zatwierdzającej raport o bezpieczeństwie;
-4)
-datę i numer decyzji zatwierdzającej zmiany w raporcie o bezpieczeństwie.
-§ 5.
-Zakres informacji o przyjętych zewnętrznych planach operacyjno-ratowniczych lub ich zmianach obejmuje:
-1)
-oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
-2)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
-3)
-datę przyjęcia planu operacyjno-ratowniczego lub jego zmiany.
-§ 6.
-Zakres informacji o przedłożonych zgłoszeniach zakładów o zwiększonym ryzyku lub o dużym ryzyku obejmuje:
-1)
-nazwę powiatu, na terenie którego znajduje się zakład;
-2)
-oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
-3)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
-4)
-datę przedłożenia zgłoszenia zakładu.
-§ 7.
-Zakres informacji o pozytywnie zaopiniowanych programach zapobiegania poważnym awariom obejmuje:
-1)
-nazwę powiatu, na terenie którego znajduje się zakład;
-2)
-oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
-3)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
-4)
-datę złożenia i pozytywnego zaopiniowania programu zapobiegania poważnym awariom oraz jego zmian.
-§ 8.
-Zakres informacji o kontrolach planowych w terenie obejmuje:
-1)
-nazwę powiatu, na terenie którego znajduje się zakład;
-2)
-nazwę, siedzibę i adres strony internetowej zakładu ze wskazaniem, czy jest to zakład o dużym ryzyku czy zakład o zwiększonym ryzyku;
-3)
-nazwę organu lub organów kontrolujących, które zaplanowały kontrolę w zakładzie;
-4)
-datę ostatniej kontroli na terenie zakładu;
-5)
-wskazanie, gdzie można uzyskać bardziej szczegółowe informacje na temat kontroli oraz jej planu.
-§ 9.
-Zakres informacji o możliwości udziału społeczeństwa w postępowaniu, którego przedmiotem jest sporządzenie zewnętrznego planu operacyjno-ratowniczego, obejmuje:
-1)
-nazwę organu sporządzającego zewnętrzny plan operacyjno-ratowniczy;
-2)
-dane teleadresowe organu sporządzającego zewnętrzny plan operacyjno-ratowniczy;
-3)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
-4)
-termin udziału społeczeństwa w postępowaniu, którego przedmiotem jest sporządzenie zewnętrznego planu operacyjno-ratowniczego.
-§ 10.
-Zakres informacji o decyzjach wydanych na podstawie art. 264d ust. 1 ustawy obejmuje:
-1)
-nazwę powiatu, na terenie którego znajdują się zakłady;
-2)
-datę i numer decyzji komendanta wojewódzkiego Państwowej Straży Pożarnej;
-3)
-oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
-4)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail ze wskazaniem, czy jest to zakład o dużym ryzyku czy zakład o zwiększonym ryzyku lub inny zakład sąsiadujący.
-§ 11.
-Zakres informacji o decyzjach wydanych na podstawie art. 267a ust. 2 ustawy obejmuje:
-1)
-nazwę powiatu, na terenie którego znajduje się zakład;
-2)
-datę i numer decyzji właściwego organu Państwowej Straży Pożarnej;
-3)
-oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
-4)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail ze wskazaniem, czy jest to zakład o dużym ryzyku czy zakład o zwiększonym ryzyku lub inny zakład sąsiadujący.
-§ 12.
-Zakres informacji o zamieszczeniu w publicznie dostępnym wykazie, aktualizowanym corocznie, wykazu substancji niebezpiecznych znajdujących się w zakładach o dużym ryzyku obejmuje:
-1)
-datę zamieszczenia informacji i numer wpisu w publicznie dostępnym wykazie;
-2)
-oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
-3)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
-4)
-datę ostatniej aktualizacji danych o substancjach niebezpiecznych, dokonanej przez zakład.
-§ 13.
-Uzasadnienie odstąpienia od sporządzenia zewnętrznego planu operacyjno-ratowniczego obejmuje:
-1)
-oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
-2)
-nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
-3)
-datę odstąpienia od sporządzenia zewnętrznego planu operacyjno-ratowniczego;
-4)
-wskazanie przyczyn odstąpienia od sporządzenia zewnętrznego planu operacyjno-ratowniczego.
-§ 14.
-Informacje, o których mowa w § 3–13, udostępnia się w formie tabelarycznej.
-§ 15.
-1.
-Instrukcja o postępowaniu mieszkańców na wypadek wystąpienia awarii zawiera w szczególności informacje dotyczące:
-1)
-rodzajów zagrożeń możliwych do wystąpienia w zakładach o zwiększonym ryzyku lub o dużym ryzyku;
-2)
-sposobów powiadamiania i alarmowania mieszkańców, właściwych dla każdego rodzaju zagrożenia, o którym mowa w pkt 1;
-3)
-sposobów zachowania się mieszkańców na wypadek wystąpienia zagrożeń, o których mowa w pkt 1;
-4)
-wykazu telefonów alarmowych oraz adresów i telefonów wojewódzkich, powiatowych i gminnych organów i służb odpowiedzialnych za podjęcie działań operacyjno-ratowniczych;
-5)
-innych kwestii, ważnych dla bezpieczeństwa mieszkańców.
-2.
-Instrukcję, o której mowa w ust. 1, sporządza się w zwartej i czytelnej formie opisowej z wykorzystaniem tabel i rysunków.
-§ 16.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+w sprawie szczegółowego zakresu informacji wymaganych do podania do publicznej wiadomości przez właściwe organy Państwowej Straży Pożarnej Na podstawie art. 267 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r.
+poz. 1232, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) szczegółowy zakres:
+a) informacji o zatwierdzonych raportach o bezpieczeństwie lub ich zmianach,
+b) informacji o przyjętych zewnętrznych planach operacyjno-ratowniczych lub ich zmianach,
+c) informacji o przedłożonych zgłoszeniach zakładów, o których mowa w art. 250 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zwanej dalej „ustawą”,
+d) informacji o pozytywnie zaopiniowanych programach zapobiegania poważnym awariom,
+e) informacji o kontrolach planowych w terenie,
+f) informacji o możliwości udziału społeczeństwa w postępowaniu, którego przedmiotem jest sporządzenie zewnętrznego planu operacyjno-ratowniczego – na 30 dni przed jego przyjęciem,
+g) informacji o decyzjach wydanych na podstawie art. 267a ust. 2 oraz art. 264d ust. 1 ustawy,
+h) instrukcji postępowania mieszkańców na wypadek wystąpienia awarii,
+i) informacji o zamieszczeniu w publicznie dostępnym wykazie, aktualizowanym corocznie, wykazu substancji niebezpiecznych znajdujących się w zakładach o dużym ryzyku,
+j) uzasadnienia odstąpienia od sporządzenia zewnętrznego planu operacyjno-ratowniczego;
+2) formę udostępniania informacji, o których mowa w pkt 1;
+3) właściwe organy Państwowej Straży Pożarnej obowiązane do ich udostępniania.
+§ 2. Informacje, o których mowa w § 1 pkt 1, w przypadku zakładu o dużym ryzyku, udostępnia komendant wojewódzki Państwowej Straży Pożarnej właściwy miejscowo ze względu na lokalizację zakładu o dużym ryzyku, którego dotyczą te informacje.
+§ 3. Informacje, o których mowa w § 1 pkt 1 lit. c–e, g i h, w przypadku zakładu o zwiększonym ryzyku, udostępnia komendant powiatowy (miejski) Państwowej Straży Pożarnej właściwy miejscowo ze względu na lokalizację zakładu o zwiększonym ryzyku, którego dotyczą te informacje.
+§ 4. Zakres informacji o zatwierdzonych raportach o bezpieczeństwie lub ich zmianach obejmuje:
+1) oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
+2) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
+3) datę i numer decyzji zatwierdzającej raport o bezpieczeństwie;
+4) datę i numer decyzji zatwierdzającej zmiany w raporcie o bezpieczeństwie.
+§ 5. Zakres informacji o przyjętych zewnętrznych planach operacyjno-ratowniczych lub ich zmianach obejmuje:
+1) oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
+2) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
+3) datę przyjęcia planu operacyjno-ratowniczego lub jego zmiany.
+§ 6. Zakres informacji o przedłożonych zgłoszeniach zakładów o zwiększonym ryzyku lub o dużym ryzyku obejmuje:
+1) nazwę powiatu, na terenie którego znajduje się zakład;
+2) oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
+3) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
+4) datę przedłożenia zgłoszenia zakładu.
+§ 7. Zakres informacji o pozytywnie zaopiniowanych programach zapobiegania poważnym awariom obejmuje:
+1) nazwę powiatu, na terenie którego znajduje się zakład;
+2) oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
+3) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
+4) datę złożenia i pozytywnego zaopiniowania programu zapobiegania poważnym awariom oraz jego zmian.
+§ 8. Zakres informacji o kontrolach planowych w terenie obejmuje:
+1) nazwę powiatu, na terenie którego znajduje się zakład;
+2) nazwę, siedzibę i adres strony internetowej zakładu ze wskazaniem, czy jest to zakład o dużym ryzyku czy zakład o zwiększonym ryzyku;
+3) nazwę organu lub organów kontrolujących, które zaplanowały kontrolę w zakładzie;
+4) datę ostatniej kontroli na terenie zakładu;
+5) wskazanie, gdzie można uzyskać bardziej szczegółowe informacje na temat kontroli oraz jej planu.
+§ 9. Zakres informacji o możliwości udziału społeczeństwa w postępowaniu, którego przedmiotem jest sporządzenie zewnętrznego planu operacyjno-ratowniczego, obejmuje:
+1) nazwę organu sporządzającego zewnętrzny plan operacyjno-ratowniczy;
+2) dane teleadresowe organu sporządzającego zewnętrzny plan operacyjno-ratowniczy;
+3) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
+4) termin udziału społeczeństwa w postępowaniu, którego przedmiotem jest sporządzenie zewnętrznego planu operacyjno-ratowniczego.
+§ 10. Zakres informacji o decyzjach wydanych na podstawie art. 264d ust. 1 ustawy obejmuje:
+1) nazwę powiatu, na terenie którego znajdują się zakłady;
+2) datę i numer decyzji komendanta wojewódzkiego Państwowej Straży Pożarnej;
+3) oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
+4) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail ze wskazaniem, czy jest to zakład o dużym ryzyku czy zakład o zwiększonym ryzyku lub inny zakład sąsiadujący.
+§ 11. Zakres informacji o decyzjach wydanych na podstawie art. 267a ust. 2 ustawy obejmuje:
+1) nazwę powiatu, na terenie którego znajduje się zakład;
+2) datę i numer decyzji właściwego organu Państwowej Straży Pożarnej;
+3) oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
+4) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail ze wskazaniem, czy jest to zakład o dużym ryzyku czy zakład o zwiększonym ryzyku lub inny zakład sąsiadujący.
+§ 12. Zakres informacji o zamieszczeniu w publicznie dostępnym wykazie, aktualizowanym corocznie, wykazu substancji niebezpiecznych znajdujących się w zakładach o dużym ryzyku obejmuje:
+1) datę zamieszczenia informacji i numer wpisu w publicznie dostępnym wykazie;
+2) oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
+3) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
+4) datę ostatniej aktualizacji danych o substancjach niebezpiecznych, dokonanej przez zakład.
+§ 13. Uzasadnienie odstąpienia od sporządzenia zewnętrznego planu operacyjno-ratowniczego obejmuje:
+1) oznaczenie prowadzącego zakład, jego miejsce zamieszkania albo siedzibę, numer telefonu/faksu i adres e-mail;
+2) nazwę, siedzibę, adres strony internetowej zakładu, jego numer telefonu/faksu i adres e-mail;
+3) datę odstąpienia od sporządzenia zewnętrznego planu operacyjno-ratowniczego;
+4) wskazanie przyczyn odstąpienia od sporządzenia zewnętrznego planu operacyjno-ratowniczego.
+§ 14. Informacje, o których mowa w § 3–13, udostępnia się w formie tabelarycznej.
+§ 15. 1. Instrukcja o postępowaniu mieszkańców na wypadek wystąpienia awarii zawiera w szczególności informacje dotyczące:
+1) rodzajów zagrożeń możliwych do wystąpienia w zakładach o zwiększonym ryzyku lub o dużym ryzyku;
+2) sposobów powiadamiania i alarmowania mieszkańców, właściwych dla każdego rodzaju zagrożenia, o którym mowa w pkt 1;
+3) sposobów zachowania się mieszkańców na wypadek wystąpienia zagrożeń, o których mowa w pkt 1;
+4) wykazu telefonów alarmowych oraz adresów i telefonów wojewódzkich, powiatowych i gminnych organów i służb odpowiedzialnych za podjęcie działań operacyjno-ratowniczych;
+5) innych kwestii, ważnych dla bezpieczeństwa mieszkańców.
+2. Instrukcję, o której mowa w ust. 1, sporządza się w zwartej i czytelnej formie opisowej z wykorzystaniem tabel i rysunków.
+§ 16. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

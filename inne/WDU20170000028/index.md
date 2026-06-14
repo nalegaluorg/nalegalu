@@ -8,10 +8,10 @@ pos: 28
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 28 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 29 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,36 +25,39 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/28/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 29 grudnia 2016 r.
-sprawie stażu adaptacyjnego i testu umiejętności toku postępowania o uznanie kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
-1) warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad odbywaniem stażu oraz oceny nabytych przez wnioskodawcę jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego,
-2) warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności toku postępowania o uznanie nabytych państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodów dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej Rzeczypospolitej Polskiej.
-§ 2. Użyte rozporządzeniu określenia oznaczają:
-1) ustawa ustawę z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej;
-2) postępowanie postępowanie sprawie uznania kwalifikacji do wykonywania zawodu regulowanego prowadzone na podstawie przepisów rozdziału 2 ustawy;
-4) wnioskodawca wnioskodawcę rozumieniu ustawy.
-§ 3. 1. Odbycie stażu adaptacyjnego albo przystąpienie do testu umiejętności następuje dla poszczególnych zawodów dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej.
-2. Wykaz zawodów, o których mowa ust. 1, określa załącznik do rozporządzenia.
-3. Jeżeli wnioskodawca wnosi o uznanie kwalifikacji do wykonywania więcej niż jednego zawodu dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, odbycie stażu adaptacyjnego albo przystąpienie do testu umiejętności następuje osobno dla każdego zawodu, którego dotyczy postępowanie.
-§ 4. 1. Wnioskodawca po otrzymaniu postanowienia, o którym mowa art. 20 ust. 1 ustawy, występuje do Prezesa Agencji z wnioskiem o odbycie stażu adaptacyjnego albo przeprowadzenie testu umiejętności.
-2. Wniosek, o którym mowa ust. 1, zawiera szczególności:
+w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad odbywaniem stażu oraz oceny nabytych przez wnioskodawcę w jego trakcie umiejętności, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego,
+2) warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności – w toku postępowania o uznanie nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej w Rzeczypospolitej Polskiej.
+§ 2. Użyte w rozporządzeniu określenia oznaczają:
+1) ustawa – ustawę z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+2) postępowanie – postępowanie w sprawie uznania kwalifikacji do wykonywania zawodu regulowanego prowadzone na podstawie przepisów rozdziału 2 ustawy;
+3) Prezes Agencji – Prezesa Państwowej Agencji Atomistyki;
+4) wnioskodawca – wnioskodawcę w rozumieniu ustawy.
+§ 3. 1. Odbycie stażu adaptacyjnego albo przystąpienie do testu umiejętności następuje dla poszczególnych zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej.
+2. Wykaz zawodów, o których mowa w ust. 1, określa załącznik do rozporządzenia.
+3. Jeżeli wnioskodawca wnosi o uznanie kwalifikacji do wykonywania więcej niż jednego zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, odbycie stażu adaptacyjnego albo przystąpienie do testu umiejętności następuje osobno dla każdego zawodu, którego dotyczy postępowanie.
+§ 4. 1. Wnioskodawca po otrzymaniu postanowienia, o którym mowa w art. 20 ust. 1 ustawy, występuje do Prezesa Agencji z wnioskiem o odbycie stażu adaptacyjnego albo przeprowadzenie testu umiejętności.
+2. Wniosek, o którym mowa w ust. 1, zawiera w szczególności:
 1) imię i nazwisko wnioskodawcy;
 2) adres do korespondencji wnioskodawcy;
 3) wskazanie wyboru stażu adaptacyjnego albo testu umiejętności;
-4) wskazanie daty i numeru postanowienia, o którym mowa art. 20 ust. 1 ustawy.
-§ 5. 1. Prezes Agencji doręcza jednostce organizacyjnej, której ma być odbywany staż adaptacyjny, albo komisji egzaminacyjnej przeprowadzającej test umiejętności postanowienie, o którym mowa art. 20 ust. 1 ustawy, wraz z kopią dokumentacji zawierającej informacje o posiadanych kwalifikacjach, tym o wykształceniu i doświadczeniu zawodowym wnioskodawcy.
-2. Dokumentacja, o której mowa ust. 1, może być doręczona postaci elektronicznej.
-§ 7. W przypadku wystąpienia przez wnioskodawcę z wnioskiem, o którym mowa § 4 ust. 1, Prezes Agencji wskazuje postanowieniu jednostkę organizacyjną, której wnioskodawca ma odbyć staż adaptacyjny, z zastrzeżeniem § 8, ustala program stażu adaptacyjnego oraz określa termin jego rozpoczęcia.
-§ 8. 1. Wnioskodawca, występując z wnioskiem, o którym mowa § 4 ust. 1, może zaproponować jednostkę organizacyjną gotową nawiązać z wnioskodawcą stosunek prawny, o którym mowa art. 5 pkt 13 ustawy, celu odbycia przez niego stażu adaptacyjnego.
-2. W przypadku, o którym mowa ust. 1, wnioskodawca podaje we wniosku o odbycie stażu adaptacyjnego adres jednostki organizacyjnej, której zamierza odbyć staż adaptacyjny, oraz dołącza do wniosku zobowiązanie jednostki organizacyjnej do nawiązania z wnioskodawcą stosunku prawnego, na czas nie krótszy niż okres stażu adaptacyjnego.
-§ 9. 1. Koszty odbywania stażu adaptacyjnego są ustalane kwotowo przez jednostkę organizacyjną, której wnioskodawca będzie odbywał staż adaptacyjny, nie później niż na 14 dni przed dniem jego rozpoczęcia, oparciu o rzeczywiste wydatki związane z odbywaniem stażu adaptacyjnego, z uwzględnieniem programu stażu adaptacyjnego i jego długości, wydatków organizacyjno-technicznych związanych ze stażem adaptacyjnym oraz wynagrodzenia opiekuna stażu adaptacyjnego.
-2. Wnioskodawca wpłaca kwotę opłaty z tytułu kosztów, o których mowa ust. 1, jednorazowo albo miesięcznie równych częściach, na rachunek bankowy jednostki organizacyjnej, której wnioskodawca będzie odbywał staż adaptacyjny.
-3. W przypadku nierozpoczęcia odbywania stażu adaptacyjnego wyznaczonym terminie, wnioskodawca może wystąpić do kierownika jednostki organizacyjnej, której odbywa staż adaptacyjny, o niezwłoczny zwrot wniesionej przez zwolnień od pracy.
-5. W przypadku odwołania stażu adaptacyjnego z przyczyn leżących po stronie jednostki organizacyjnej, której ma być odbywany staż, wnioskodawcy zwraca opłatę, o której mowa ust. 2, na wskazany przez niego rachunek bankowy.
-§ 10. W celu odbycia stażu adaptacyjnego wnioskodawca jest zatrudniany jednostce organizacyjnej na podstawie umowy o pracę albo odbywa staż adaptacyjny na podstawie umowy cywilnoprawnej na warunkach określonych między wnioskodawcą a jednostką organizacyjną.
-§ 11. 1. Staż adaptacyjny odbywa pod nadzorem opiekuna stażu adaptacyjnego, zwanego dalej „opiekunem stażu”, którym może być osoba posiadająca kwalifikacje zakresie bezpieczeństwa jądrowego i ochrony radiologicznej równorzędne albo wyższe od kwalifikacji, o uznanie których występuje wnioskodawca.
-2. Opiekuna stażu, o którym mowa ust. 1, wyznacza kierownik jednostki organizacyjnej, której wnioskodawca odbywa staż adaptacyjny.
-3. Opiekun stażu sprawuje nadzór nad przebiegiem stażu adaptacyjnego wnioskodawcy szczególności przez:
+4) wskazanie daty i numeru postanowienia, o którym mowa w art. 20 ust. 1 ustawy.
+§ 5. 1. Prezes Agencji doręcza jednostce organizacyjnej, w której ma być odbywany staż adaptacyjny, albo komisji egzaminacyjnej przeprowadzającej test umiejętności postanowienie, o którym mowa w art. 20 ust. 1 ustawy, wraz z kopią dokumentacji zawierającej informacje o posiadanych kwalifikacjach, w tym o wykształceniu i doświadczeniu zawodowym wnioskodawcy.
+2. Dokumentacja, o której mowa w ust. 1, może być doręczona w postaci elektronicznej.
+§ 6. Staż adaptacyjny odbywa się w jednostce organizacyjnej właściwej ze względu na rodzaj zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, którego dotyczy postępowanie.
+§ 7. W przypadku wystąpienia przez wnioskodawcę z wnioskiem, o którym mowa w § 4 ust. 1, Prezes Agencji wskazuje w postanowieniu jednostkę organizacyjną, w której wnioskodawca ma odbyć staż adaptacyjny, z zastrzeżeniem § 8, ustala program stażu adaptacyjnego oraz określa termin jego rozpoczęcia.
+§ 8. 1. Wnioskodawca, występując z wnioskiem, o którym mowa w § 4 ust. 1, może zaproponować jednostkę organizacyjną gotową nawiązać z wnioskodawcą stosunek prawny, o którym mowa w art. 5 pkt 13 ustawy, w celu odbycia przez niego stażu adaptacyjnego.
+2. W przypadku, o którym mowa w ust. 1, wnioskodawca podaje we wniosku o odbycie stażu adaptacyjnego adres jednostki organizacyjnej, w której zamierza odbyć staż adaptacyjny, oraz dołącza do wniosku zobowiązanie jednostki organizacyjnej do nawiązania z wnioskodawcą stosunku prawnego, na czas nie krótszy niż okres stażu adaptacyjnego.
+§ 9. 1. Koszty odbywania stażu adaptacyjnego są ustalane kwotowo przez jednostkę organizacyjną, w której wnioskodawca będzie odbywał staż adaptacyjny, nie później niż na 14 dni przed dniem jego rozpoczęcia, w oparciu o rzeczywiste wydatki związane z odbywaniem stażu adaptacyjnego, z uwzględnieniem programu stażu adaptacyjnego i jego długości, wydatków organizacyjno-technicznych związanych ze stażem adaptacyjnym oraz wynagrodzenia opiekuna stażu adaptacyjnego.
+2. Wnioskodawca wpłaca kwotę opłaty z tytułu kosztów, o których mowa w ust. 1, jednorazowo albo miesięcznie w równych częściach, na rachunek bankowy jednostki organizacyjnej, w której wnioskodawca będzie odbywał staż adaptacyjny.
+3. W przypadku nierozpoczęcia odbywania stażu adaptacyjnego w wyznaczonym terminie, wnioskodawca może wystąpić do kierownika jednostki organizacyjnej, w której odbywa się staż adaptacyjny, o niezwłoczny zwrot wniesionej przez niego opłaty na podany we wniosku rachunek bankowy.
+4. Oceny zasadności wniosku, o którym mowa w ust. 3, dokonuje kierownik jednostki, w której odbywa się staż adaptacyjny, kierując się przepisami w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy.
+5. W przypadku odwołania stażu adaptacyjnego z przyczyn leżących po stronie jednostki organizacyjnej, w której ma być odbywany staż, wnioskodawcy zwraca się opłatę, o której mowa w ust. 2, na wskazany przez niego rachunek bankowy.
+§ 10. W celu odbycia stażu adaptacyjnego wnioskodawca jest zatrudniany w jednostce organizacyjnej na podstawie umowy o pracę albo odbywa staż adaptacyjny na podstawie umowy cywilnoprawnej – na warunkach określonych między wnioskodawcą a jednostką organizacyjną.
+§ 11. 1. Staż adaptacyjny odbywa się pod nadzorem opiekuna stażu adaptacyjnego, zwanego dalej „opiekunem stażu”, którym może być osoba posiadająca kwalifikacje w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej równorzędne albo wyższe od kwalifikacji, o uznanie których występuje wnioskodawca.
+2. Opiekuna stażu, o którym mowa w ust. 1, wyznacza kierownik jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny.
+3. Opiekun stażu sprawuje nadzór nad przebiegiem stażu adaptacyjnego wnioskodawcy w szczególności przez:
 1) kontrolę realizacji programu stażu adaptacyjnego;
 2) gromadzenie informacji o przebiegu stażu adaptacyjnego.
 4. Opiekun stażu sporządza raport z przebiegu stażu adaptacyjnego i opinię o przebiegu stażu adaptacyjnego, które przedstawia kierownikowi jednostki organizacyjnej.
@@ -62,92 +65,101 @@ sprawie stażu adaptacyjnego i testu umiejętności toku postępowania o uznanie
 1) z powodu braku możliwości pełnienia przez wyznaczonego opiekuna czynności nadzoru;
 2) na uzasadniony wniosek wnioskodawcy złożony nie później niż na trzy miesiące przed zakończeniem stażu adaptacyjnego;
 3) na uzasadniony wniosek opiekuna stażu złożony nie później niż na trzy miesiące przed zakończeniem stażu adaptacyjnego.
-6. W przypadku zaistnienia okoliczności, o której mowa ust. 5, kierownik jednostki organizacyjnej, której staż adaptacyjny jest odbywany, niezwłocznie dokonuje zmiany opiekuna stażu, informując o tym wnioskodawcę.
-§ 12. 1. Wnioskodawca odbywa staż adaptacyjny zgodnie z programem stażu adaptacyjnego ustalonym przez Prezesa Agencji postanowieniu, o którym mowa § 7.
-2. Program stażu adaptacyjnego jest przygotowywany dla każdego wnioskodawcy indywidualnie po przeprowadzeniu analizy kwalifikacji wnioskodawcy z uwzględnieniem zakresu wiedzy, jaka jest niezbędna do spełnienia wymagań kwalifikacyjnych określonych dla danego zawodu dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej.
-3. Program stażu adaptacyjnego ustala na podstawie:
+6. W przypadku zaistnienia okoliczności, o której mowa w ust. 5, kierownik jednostki organizacyjnej, w której staż adaptacyjny jest odbywany, niezwłocznie dokonuje zmiany opiekuna stażu, informując o tym wnioskodawcę.
+§ 12. 1. Wnioskodawca odbywa staż adaptacyjny zgodnie z programem stażu adaptacyjnego ustalonym przez Prezesa Agencji w postanowieniu, o którym mowa w § 7.
+2. Program stażu adaptacyjnego jest przygotowywany dla każdego wnioskodawcy indywidualnie po przeprowadzeniu analizy kwalifikacji wnioskodawcy z uwzględnieniem zakresu wiedzy, jaka jest niezbędna do spełnienia wymagań kwalifikacyjnych określonych dla danego zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej.
+3. Program stażu adaptacyjnego ustala się na podstawie:
 1) świadectw i dyplomów oraz innych dokumentów potwierdzających posiadane przez wnioskodawcę kwalifikacje,
 2) dotychczasowego doświadczenia zawodowego wnioskodawcy,
-3) wymogów kwalifikacyjnych dla określonego zawodu dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, którego dotyczy postępowanie,
-4) różnic wynikających ze specyfiki zawodu regulowanego na terenie Rzeczypospolitej Polskiej i państwa wnioskodawcy z uwzględnieniem zakresu i czasu trwania stażu adaptacyjnego, określonych postanowieniu, o którym mowa art. 20 ust. 1 ustawy.
-§ 13. Na umotywowany wniosek wnioskodawcy złożony trakcie stażu adaptacyjnego, wykazujący niemożność zrealizowania programu stażu adaptacyjnego czasie pozostałym do zakończenia stażu adaptacyjnego, Prezes Agencji przedłuża czas trwania stażu adaptacyjnego, wyznaczony postanowieniu, o którym mowa art. 20 ust. 1 ustawy, na czas określony nieprzekraczający łącznie z odbytym już przez wnioskodawcę stażem adaptacyjnym trzech lat, po zapoznaniu § 15. 1. Opiekun stażu informuje, formie pisemnej, postaci papierowej lub elektronicznej, kierownika jednostki organizacyjnej, której wnioskodawca odbywa staż adaptacyjny, o realizacji przez wnioskodawcę zadań wynikających z programu stażu adaptacyjnego.
-2. Kierownik jednostki organizacyjnej, której wnioskodawca odbywa staż adaptacyjny, może wskazywać opiekunowi stażu zmiany przebiegu stażu adaptacyjnego mające zapewnić prawidłową realizację programu stażu adaptacyjnego.
-3. Kopię informacji, o której mowa ust. 1, kierownik jednostki organizacyjnej przesyła Prezesowi Agencji.
-§ 16. 1. Prezes Agencji wyznacza przedstawiciela, który jego imieniu sprawuje nadzór nad przebiegiem stażu adaptacyjnego.
-2. Przedstawiciel Prezesa Agencji sprawuje nadzór nad przebiegiem stażu adaptacyjnego szczególności przez:
+3) wymogów kwalifikacyjnych dla określonego zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, którego dotyczy postępowanie,
+4) różnic wynikających ze specyfiki zawodu regulowanego na terenie Rzeczypospolitej Polskiej i państwa wnioskodawcy – z uwzględnieniem zakresu i czasu trwania stażu adaptacyjnego, określonych w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy.
+§ 13. Na umotywowany wniosek wnioskodawcy złożony w trakcie stażu adaptacyjnego, wykazujący niemożność zrealizowania programu stażu adaptacyjnego w czasie pozostałym do zakończenia stażu adaptacyjnego, Prezes Agencji przedłuża czas trwania stażu adaptacyjnego, wyznaczony w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy, na czas określony nieprzekraczający łącznie z odbytym już przez wnioskodawcę stażem adaptacyjnym trzech lat, po zapoznaniu się z opinią kierownika jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny.
+§ 14. Staż adaptacyjny rozpoczyna się w terminie określonym w postanowieniu, o którym mowa w § 7.
+§ 15. 1. Opiekun stażu informuje, w formie pisemnej, w postaci papierowej lub elektronicznej, kierownika jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny, o realizacji przez wnioskodawcę zadań wynikających z programu stażu adaptacyjnego.
+2. Kierownik jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny, może wskazywać opiekunowi stażu zmiany w przebiegu stażu adaptacyjnego mające zapewnić prawidłową realizację programu stażu adaptacyjnego.
+3. Kopię informacji, o której mowa w ust. 1, kierownik jednostki organizacyjnej przesyła Prezesowi Agencji.
+§ 16. 1. Prezes Agencji wyznacza przedstawiciela, który w jego imieniu sprawuje nadzór nad przebiegiem stażu adaptacyjnego.
+2. Przedstawiciel Prezesa Agencji sprawuje nadzór nad przebiegiem stażu adaptacyjnego w szczególności przez:
 1) kontrolę warunków odbywania stażu adaptacyjnego i realizacji programu stażu adaptacyjnego;
-2) obserwację pracy wykonywanej przez wnioskodawcę czasie odbywania stażu adaptacyjnego;
-3) kontrolę postępów wnioskodawcy przygotowaniu do samodzielnego wykonywania zawodu;
+2) obserwację pracy wykonywanej przez wnioskodawcę w czasie odbywania stażu adaptacyjnego;
+3) kontrolę postępów wnioskodawcy w przygotowaniu do samodzielnego wykonywania zawodu;
 4) gromadzenie dodatkowych informacji o przebiegu stażu adaptacyjnego.
-3. Prezes Agencji informuje, formie pisemnej, postaci papierowej lub elektronicznej, wnioskodawcę i kierownika jednostki organizacyjnej, której wnioskodawca odbywa staż adaptacyjny, o wyznaczeniu przedstawiciela, o którym mowa ust. 1.
-4. Przedstawiciel Prezesa Agencji sporządza, formie pisemnej, postaci papierowej lub elektronicznej, sprawozdanie zawierające wnioski wynikające z przeprowadzenia czynności, o których mowa ust. 2, które przedstawia Prezesowi Agencji oraz kierownikowi jednostki organizacyjnej, której wnioskodawca odbywa staż adaptacyjny.
-§ 17. 1. Oceny umiejętności nabytych przez wnioskodawcę trakcie odbywania stażu adaptacyjnego dokonują wspólnie, na podstawie raportu i opinii, o których mowa § 11 ust. 4, opiekun stażu i kierownik jednostki organizacyjnej, której wnioskodawca odbywa staż adaptacyjny, nie później niż ciągu czternastu dni od dnia zakończenia stażu adaptacyjnego.
-2. Przy dokonywaniu oceny, o której mowa ust. 1, uwzględnia poprawność merytoryczną wykonania powierzonych obowiązków, a także przestrzeganie porządku pracy ustalonego jednostce organizacyjnej, której wnioskodawca odbywał staż adaptacyjny.
-3. Ocena, o której mowa ust. 1, zawiera uzasadnioną opinię opiekuna stażu adaptacyjnego o przygotowaniu wnioskodawcy do samodzielnego wykonywania zawodu lub o jego braku.
-4. Ocena, o której mowa ust. 1, potwierdzana jest podpisem kierownika jednostki organizacyjnej, której wnioskodawca odbywał staż adaptacyjny.
-§ 18. Kierownik jednostki organizacyjnej, której wnioskodawca odbywał staż adaptacyjny, przekazuje ocenę, o której mowa § 17 ust. 1, wnioskodawcy oraz Prezesowi Agencji terminie siedmiu dni od dnia jej sporządzenia.
-§ 19. 1. W przypadku niemożności kontynuowania stażu adaptacyjnego danej jednostce organizacyjnej wnioskodawca może, najpóźniej na trzy miesiące przed dniem zakończenia stażu, wystąpić do Prezesa Agencji z umotywowanym wnioskiem o zmianę jednostki organizacyjnej, której odbywa staż.
-2. Prezes Agencji niezwłocznie dokonuje oceny zasadności wniosku po zasięgnięciu opinii kierownika jednostki organizacyjnej, której wnioskodawca odbywa staż adaptacyjny, i uwzględnia wniosek albo odmawia uwzględnienia wniosku.
-3. W postępowaniu sprawie zmiany jednostki organizacyjnej przepisy § 5, 7 i 8 stosuje odpowiednio.
-4. Prezes Agencji informuje kierownika jednostki organizacyjnej, której wnioskodawca dotychczas odbywał staż adaptacyjny, o uwzględnieniu wniosku, o którym mowa ust. 1.
-5. Kierownik jednostki organizacyjnej wraz z dotychczasowym opiekunem stażu sporządza informację o stopniu realizacji programu stażu adaptacyjnego i przekazuje ją wnioskodawcy oraz Prezesowi Agencji terminie siedmiu dni od dnia § 20. 1. Jeżeli ocena, o której mowa § 17 ust. 1, jest negatywna, wnioskodawca, terminie czternastu dni od dnia otrzymania oceny, może wystąpić do Prezesa Agencji z wnioskiem o powtórne odbycie stażu adaptacyjnego.
-2. Do powtórnego odbycia stażu adaptacyjnego stosuje przepisy § 6–19 .
-1) pkt 1 załącznika do rozporządzenia jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu egzaminu kwalifikacyjnego dla kandydatów na stanowisko inspektora dozoru jądrowego, określonego przepisach wydanych na podstawie art. 71 ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z późn. zm. ), zwanej dalej „ustawą Prawo atomowe”;
-2) pkt 2 załącznika do rozporządzenia jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu szkolenia dla osób ubiegających o uprawnienia inspektorów ochrony radiologicznej, określonego przepisach wydanych na podstawie art. 12b ust. 1 ustawy Prawo atomowe;
-3) pkt 3 załącznika do rozporządzenia jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu szkolenia dla osób ubiegających o uprawnienia umożliwiające zatrudnienie na stanowisku mającym istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, określonego przepisach wydanych na podstawie art. 12b ust. 1 ustawy Prawo atomowe;
-4) pkt 4 załącznika do rozporządzenia jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu szkolenia dla osób ubiegających o uprawnienia do wykonywania czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej, określonego przepisach wydanych na podstawie art. 12d ust. 8 ustawy Prawo atomowe.
-2. Zakres testu umiejętności każdorazowo uwzględnia różnice zakresie wymagań dotyczących wykonywania poszczególnych zawodów dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej pomiędzy Rzecząpospolitą Polską a państwem wnioskodawcy.
-§ 22. 1. Test umiejętności dla zawodów dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionych w:
-1) pkt 1 załącznika do rozporządzenia przygotowuje i przeprowadza komisja egzaminacyjna właściwa dla uprawnień inspektora dozoru jądrowego, o której mowa art. 65 ust. 5 ustawy Prawo atomowe;
-2) pkt 2 załącznika do rozporządzenia przygotowuje i przeprowadza komisja egzaminacyjna właściwa dla uprawnień inspektora ochrony radiologicznej, o której mowa art. 7 ust. 1 ustawy Prawo atomowe;
-3) pkt 3 załącznika do rozporządzenia przygotowuje i przeprowadza komisja egzaminacyjna właściwa dla uprawnień umożliwiających zatrudnienie na stanowisku mającym istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, o której mowa art. 12a ust. 6 ustawy Prawo atomowe;
-4) pkt 4 załącznika do rozporządzenia przygotowuje i przeprowadza odpowiednia komisja egzaminacyjna właściwa dla uprawnień umożliwiających wykonywanie czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej, o której mowa art. 12d ust. 6 ustawy Prawo atomowe.
-2. Test umiejętności przeprowadza obecności co najmniej trzech członków komisji egzaminacyjnej, tym przewodniczącego lub jego zastępcy.
+3. Prezes Agencji informuje, w formie pisemnej, w postaci papierowej lub elektronicznej, wnioskodawcę i kierownika jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny, o wyznaczeniu przedstawiciela, o którym mowa w ust. 1.
+4. Przedstawiciel Prezesa Agencji sporządza, w formie pisemnej, w postaci papierowej lub elektronicznej, sprawozdanie zawierające wnioski wynikające z przeprowadzenia czynności, o których mowa w ust. 2, które przedstawia Prezesowi Agencji oraz kierownikowi jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny.
+§ 17. 1. Oceny umiejętności nabytych przez wnioskodawcę w trakcie odbywania stażu adaptacyjnego dokonują wspólnie, na podstawie raportu i opinii, o których mowa w § 11 ust. 4, opiekun stażu i kierownik jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny, nie później niż w ciągu czternastu dni od dnia zakończenia stażu adaptacyjnego.
+2. Przy dokonywaniu oceny, o której mowa w ust. 1, uwzględnia się poprawność merytoryczną wykonania powierzonych obowiązków, a także przestrzeganie porządku pracy ustalonego w jednostce organizacyjnej, w której wnioskodawca odbywał staż adaptacyjny.
+3. Ocena, o której mowa w ust. 1, zawiera uzasadnioną opinię opiekuna stażu adaptacyjnego o przygotowaniu wnioskodawcy do samodzielnego wykonywania zawodu lub o jego braku.
+4. Ocena, o której mowa w ust. 1, potwierdzana jest podpisem kierownika jednostki organizacyjnej, w której wnioskodawca odbywał staż adaptacyjny.
+§ 18. Kierownik jednostki organizacyjnej, w której wnioskodawca odbywał staż adaptacyjny, przekazuje ocenę, o której mowa w § 17 ust. 1, wnioskodawcy oraz Prezesowi Agencji w terminie siedmiu dni od dnia jej sporządzenia.
+§ 19. 1. W przypadku niemożności kontynuowania stażu adaptacyjnego w danej jednostce organizacyjnej wnioskodawca może, najpóźniej na trzy miesiące przed dniem zakończenia stażu, wystąpić do Prezesa Agencji z umotywowanym wnioskiem o zmianę jednostki organizacyjnej, w której odbywa się staż.
+2. Prezes Agencji niezwłocznie dokonuje oceny zasadności wniosku po zasięgnięciu opinii kierownika jednostki organizacyjnej, w której wnioskodawca odbywa staż adaptacyjny, i uwzględnia wniosek albo odmawia uwzględnienia wniosku.
+3. W postępowaniu w sprawie zmiany jednostki organizacyjnej przepisy § 5, 7 i 8 stosuje się odpowiednio.
+4. Prezes Agencji informuje kierownika jednostki organizacyjnej, w której wnioskodawca dotychczas odbywał staż adaptacyjny, o uwzględnieniu wniosku, o którym mowa w ust. 1.
+5. Kierownik jednostki organizacyjnej wraz z dotychczasowym opiekunem stażu sporządza informację o stopniu realizacji programu stażu adaptacyjnego i przekazuje ją wnioskodawcy oraz Prezesowi Agencji w terminie siedmiu dni od dnia otrzymania informacji, o której mowa w ust. 4.
+6. Prezes Agencji przekazuje niezwłocznie informację, o której mowa w ust. 5, jednostce organizacyjnej, w której wnioskodawca będzie kontynuował odbywanie stażu adaptacyjnego.
+§ 20. 1. Jeżeli ocena, o której mowa w § 17 ust. 1, jest negatywna, wnioskodawca, w terminie czternastu dni od dnia otrzymania oceny, może wystąpić do Prezesa Agencji z wnioskiem o powtórne odbycie stażu adaptacyjnego.
+2. Do powtórnego odbycia stażu adaptacyjnego stosuje się przepisy § 6–19 .
+§ 21. 1. Zakres testu umiejętności dla zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionych w:
+1) pkt 1 załącznika do rozporządzenia – jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu egzaminu kwalifikacyjnego dla kandydatów na stanowisko inspektora dozoru jądrowego, określonego w przepisach wydanych na podstawie art. 71 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z późn. zm. ), zwanej dalej „ustawą – Prawo atomowe”;
+2) pkt 2 załącznika do rozporządzenia – jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu szkolenia dla osób ubiegających się o uprawnienia inspektorów ochrony radiologicznej, określonego w przepisach wydanych na podstawie art. 12b ust. 1 ustawy – Prawo atomowe;
+3) pkt 3 załącznika do rozporządzenia – jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu szkolenia dla osób ubiegających się o uprawnienia umożliwiające zatrudnienie na stanowisku mającym istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, określonego w przepisach wydanych na podstawie art. 12b ust. 1 ustawy – Prawo atomowe;
+4) pkt 4 załącznika do rozporządzenia – jest indywidualnie ustalany dla wnioskodawcy na podstawie odpowiedniego zakresu szkolenia dla osób ubiegających się o uprawnienia do wykonywania czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej, określonego w przepisach wydanych na podstawie art. 12d ust. 8 ustawy – Prawo atomowe.
+2. Zakres testu umiejętności każdorazowo uwzględnia różnice w zakresie wymagań dotyczących wykonywania poszczególnych zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej pomiędzy Rzecząpospolitą Polską a państwem wnioskodawcy.
+§ 22. 1. Test umiejętności dla zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionych w:
+1) pkt 1 załącznika do rozporządzenia – przygotowuje i przeprowadza komisja egzaminacyjna właściwa dla uprawnień inspektora dozoru jądrowego, o której mowa w art. 65 ust. 5 ustawy – Prawo atomowe;
+2) pkt 2 załącznika do rozporządzenia – przygotowuje i przeprowadza komisja egzaminacyjna właściwa dla uprawnień inspektora ochrony radiologicznej, o której mowa w art. 7 ust. 1 ustawy – Prawo atomowe;
+3) pkt 3 załącznika do rozporządzenia – przygotowuje i przeprowadza komisja egzaminacyjna właściwa dla uprawnień umożliwiających zatrudnienie na stanowisku mającym istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, o której mowa w art. 12a ust. 6 ustawy – Prawo atomowe;
+4) pkt 4 załącznika do rozporządzenia – przygotowuje i przeprowadza odpowiednia komisja egzaminacyjna właściwa dla uprawnień umożliwiających wykonywanie czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej, o której mowa w art. 12d ust. 6 ustawy – Prawo atomowe.
+2. Test umiejętności przeprowadza się w obecności co najmniej trzech członków komisji egzaminacyjnej, w tym przewodniczącego lub jego zastępcy.
+§ 23. 1. Test umiejętności przeprowadza się w terminie trzech miesięcy od dnia otrzymania przez Prezesa Agencji wniosku, o którym mowa w § 4 ust. 1.
 2. O terminie i miejscu przeprowadzenia testu umiejętności Prezes Agencji zawiadamia wnioskodawcę co najmniej na trzydzieści dni przed wyznaczonym dniem przeprowadzenia testu umiejętności.
-§ 24. 1. W zawiadomieniu, o którym mowa § 23 ust. 2, wskazuje wysokość kosztów przeprowadzenia testu umiejętności.
-2. Koszty przeprowadzenia testu umiejętności są ustalane kwotowo przez Prezesa Agencji oparciu o wydatki ponoszone przez Prezesa Agencji związku z przeprowadzeniem testu, z uwzględnieniem wynagrodzenia członków komisji egzaminacyjnej oraz wydatków organizacyjno-technicznych związanych z przeprowadzeniem testu umiejętności.
-3. Wnioskodawca wpłaca opłatę za przeprowadzenie testu umiejętności wysokości kosztów ustalonych zgodnie z ust. 2 na rachunek bankowy Państwowej Agencji Atomistyki.
+§ 24. 1. W zawiadomieniu, o którym mowa w § 23 ust. 2, wskazuje się wysokość kosztów przeprowadzenia testu umiejętności.
+2. Koszty przeprowadzenia testu umiejętności są ustalane kwotowo przez Prezesa Agencji w oparciu o wydatki ponoszone przez Prezesa Agencji w związku z przeprowadzeniem testu, z uwzględnieniem wynagrodzenia członków komisji egzaminacyjnej oraz wydatków organizacyjno-technicznych związanych z przeprowadzeniem testu umiejętności.
+3. Wnioskodawca wpłaca opłatę za przeprowadzenie testu umiejętności w wysokości kosztów ustalonych zgodnie z ust. 2 na rachunek bankowy Państwowej Agencji Atomistyki.
 4. Dowód wniesienia opłaty wnioskodawca przedstawia przed przystąpieniem do testu umiejętności.
 5. Nieprzedstawienie dowodu wniesienia opłaty powoduje niedopuszczenie wnioskodawcy do odbycia testu.
 6. W przypadku nieprzystąpienia do testu umiejętności bez uzasadnionej przyczyny opłata wniesiona przez wnioskodawcę nie podlega zwrotowi.
-7. Na wniosek wnioskodawcy, który z ważnych przyczyn losowych nie przystąpił do testu umiejętności, opłatę niezwłocznie zwraca na rachunek bankowy wskazany przez wnioskodawcę albo zalicza na poczet opłaty za ponowne przeprowadzenie testu umiejętności.
-8. W przypadku odwołania testu umiejętności z przyczyn leżących po stronie Prezesa Agencji opłatę, o której mowa ust. 1, zwraca wnioskodawcy na wskazany przez niego rachunek bankowy.
+7. Na wniosek wnioskodawcy, który z ważnych przyczyn losowych nie przystąpił do testu umiejętności, opłatę niezwłocznie zwraca się na rachunek bankowy wskazany przez wnioskodawcę albo zalicza się na poczet opłaty za ponowne przeprowadzenie testu umiejętności.
+8. W przypadku odwołania testu umiejętności z przyczyn leżących po stronie Prezesa Agencji opłatę, o której mowa w ust. 1, zwraca się wnioskodawcy na wskazany przez niego rachunek bankowy.
 § 25. 1. Test umiejętności opracowuje komisja egzaminacyjna.
-2. Test umiejętności składa z dwóch etapów: pisemnego i ustnego.
-§ 26. 1. Etap pisemny testu umiejętności składa z:
-1) tematów obliczeniowych przypadku zawodu dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionego pkt 1 załącznika do rozporządzenia;
-2) pytań testowych oraz zadań obliczeniowych lub pytań problemowych przypadku zawodów dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionych pkt 2–4 załącznika do rozporządzenia.
+2. Test umiejętności składa się z dwóch etapów: pisemnego i ustnego.
+§ 26. 1. Etap pisemny testu umiejętności składa się z:
+1) tematów obliczeniowych – w przypadku zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionego w pkt 1 załącznika do rozporządzenia;
+2) pytań testowych oraz zadań obliczeniowych lub pytań problemowych – w przypadku zawodów w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionych w pkt 2–4 załącznika do rozporządzenia.
 2. Czas trwania etapu pisemnego określa każdorazowo przewodniczący komisji egzaminacyjnej przeprowadzającej test umiejętności, uwzględniając indywidualnie określony zakres testu umiejętności.
 3. Czas trwania etapu pisemnego nie może przekroczyć 90 minut.
 4. Za etap pisemny komisja egzaminacyjna przyznaje:
 1) 1 pkt za każdą poprawną odpowiedź na pytanie testowe;
 2) od 0 do 10 pkt za każde zadanie obliczeniowe lub pytanie problemowe.
-§ 27. 1. Do etapu ustnego testu umiejętności dopuszcza osoby, które:
-1) przypadku etapu pisemnego, o którym mowa § 26 ust. 1 pkt 1, otrzymały co najmniej 2/3 punktów możliwych do uzyskania;
-2) przypadku etapu pisemnego, o którym mowa § 26 ust. 1 pkt 2, otrzymały co najmniej 2/3 punktów możliwych do uzyskania za odpowiedzi na pytania testowe oraz co najmniej 2/3 punktów możliwych do uzyskania za rozwiązanie pytań problemowych lub zadań obliczeniowych.
-4. Etap ustny uznaje za zdany, jeżeli osoba zdająca otrzymała co najmniej 2/3 punktów możliwych do uzyskania.
-§ 28. 1. Wynik testu umiejętności określa jako „pozytywny” lub „negatywny”.
+§ 27. 1. Do etapu ustnego testu umiejętności dopuszcza się osoby, które:
+1) w przypadku etapu pisemnego, o którym mowa w § 26 ust. 1 pkt 1, otrzymały co najmniej 2/3 punktów możliwych do uzyskania;
+2) w przypadku etapu pisemnego, o którym mowa w § 26 ust. 1 pkt 2, otrzymały co najmniej 2/3 punktów możliwych do uzyskania za odpowiedzi na pytania testowe oraz co najmniej 2/3 punktów możliwych do uzyskania za rozwiązanie pytań problemowych lub zadań obliczeniowych.
+2. Etap ustny składa się z nie więcej niż 6 pytań.
+3. Za odpowiedź na każde pytanie przyznaje się od 0 do 5 punktów.
+4. Etap ustny uznaje się za zdany, jeżeli osoba zdająca otrzymała co najmniej 2/3 punktów możliwych do uzyskania.
+§ 28. 1. Wynik testu umiejętności określa się jako „pozytywny” lub „negatywny”.
 2. O wyniku testu umiejętności komisja egzaminacyjna rozstrzyga większością głosów. W razie równej liczby głosów o wyniku testu rozstrzyga głos przewodniczącego komisji.
-3. Z przeprowadzonego testu umiejętności sporządza protokół, który podpisują członkowie komisji egzaminacyjnej przeprowadzający test umiejętności.
-§ 29. Wynik przeprowadzonego testu umiejętności przewodniczący komisji egzaminacyjnej przekazuje Prezesowi Agencji i wnioskodawcy terminie siedmiu dni od dnia przeprowadzenia testu.
-§ 30. 1. Nieprzystąpienie do testu umiejętności wyznaczonym terminie bez uzasadnionej przyczyny uważa za odstąpienie od testu umiejętności.
+3. Z przeprowadzonego testu umiejętności sporządza się protokół, który podpisują członkowie komisji egzaminacyjnej przeprowadzający test umiejętności.
+§ 29. Wynik przeprowadzonego testu umiejętności przewodniczący komisji egzaminacyjnej przekazuje Prezesowi Agencji i wnioskodawcy w terminie siedmiu dni od dnia przeprowadzenia testu.
+§ 30. 1. Nieprzystąpienie do testu umiejętności w wyznaczonym terminie bez uzasadnionej przyczyny uważa się za odstąpienie od testu umiejętności.
 2. Ponowne przystąpienie do testu umiejętności wymaga złożenia nowego wniosku, chyba że nieprzystąpienie do testu umiejętności nastąpiło z uzasadnionej przyczyny.
 3. W przypadku nieprzystąpienia do testu umiejętności z uzasadnionej przyczyny Prezes Agencji wyznacza ponownie miejsce i termin przeprowadzenia testu.
-4. Prezes Agencji dokonuje oceny przyczyny nieprzystąpienia do testu umiejętności wyznaczonym terminie, kierując przepisami sprawie usprawiedliwiania nieobecności pracy oraz udzielania pracownikom zwolnień od pracy.
-§ 31. Wnioskodawca, który uzyskał negatywny wynik z testu umiejętności, może ponownie złożyć wniosek o przeprowadzenie testu umiejętności dla danego zawodu dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej nie wcześniej niż po upływie trzech miesięcy od dnia, którym przeprowadzono test umiejętności. Przepisy § 23–30 stosuje się.
-§ 33. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.
+4. Prezes Agencji dokonuje oceny przyczyny nieprzystąpienia do testu umiejętności w wyznaczonym terminie, kierując się przepisami w sprawie usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy.
+§ 31. Wnioskodawca, który uzyskał negatywny wynik z testu umiejętności, może ponownie złożyć wniosek o przeprowadzenie testu umiejętności dla danego zawodu w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej nie wcześniej niż po upływie trzech miesięcy od dnia, w którym przeprowadzono test umiejętności. Przepisy § 23–30 stosuje się.
+§ 32. W sprawach wszczętych i niezakończonych przed wejściem w życie rozporządzenia stosuje się przepisy dotychczasowe.
+§ 33. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Środowiska: J. Szyszko WYKAZ ZAWODÓW REGULOWANYCH W DZIEDZINIE BEZPIECZEŃSTWA JĄDROWEGO I OCHRONY RADIOLOGICZNEJ, W PRZYPADKU KTÓRYCH ODBYWA SIĘ STAŻ ADAPTACYJNY LUB PRZYSTĘPUJE DO TESTU UMIEJĘTNOŚCI W RAMACH UZNAWANIA KWALIFIKACJI ZAWODOWYCH
 1) inspektor dozoru jądrowego:
 a) I stopnia,
 b) II stopnia;
-2) inspektor ochrony radiologicznej, z wyjątkiem inspektora ochrony radiologicznej pracowniach rentgenowskich stosujących aparaty rentgenowskie do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych;
+2) inspektor ochrony radiologicznej, z wyjątkiem inspektora ochrony radiologicznej w pracowniach rentgenowskich stosujących aparaty rentgenowskie do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych;
 3) stanowisko mające istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej o specjalności:
 a) operator reaktora badawczego,
 b) dozymetrysta reaktora badawczego,
 c) starszy dozymetrysta reaktora badawczego,
 d) kierownik zmiany reaktora badawczego,
 e) kierownik reaktora badawczego,
-f) zastępca dyrektora do spraw bezpieczeństwa jądrowego i ochrony radiologicznej jednostce organizacyjnej posiadającej reaktor badawczy,
+f) zastępca dyrektora do spraw bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej posiadającej reaktor badawczy,
 g) specjalista do spraw ewidencji materiałów jądrowych,
 h) operator przechowalnika wypalonego paliwa jądrowego,
 i) kierownik składowiska odpadów promieniotwórczych,
@@ -156,17 +168,17 @@ k) operator akceleratora stosowanego do celów medycznych oraz urządzeń do tel
 l) operator akceleratora stosowanego do celów innych niż medyczne, z wyłączeniem akceleratorów stosowanych do kontroli pojazdów,
 m) operator akceleratora stosowanego do kontroli pojazdów,
 n) operator urządzeń do brachyterapii ze źródłami promieniotwórczymi;
-4) stanowiska pracy związane z wykonywaniem czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej:
-a) zarządzanie jednostką organizacyjną wykonującą działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej i zarządzanie elektrownią jądrową zakresie: zintegrowanego systemu zarządzania, bezpiecznego rozruchu, eksploatacji oraz likwidacji elektrowni jądrowej, tym wdrożenia zasad kultury bezpieczeństwa, ochrony fizycznej i przygotowań przeciwawaryjnych, zabezpieczeń materiałów jądrowych, szkoleń i uzyskiwania uprawnień przez personel elektrowni jądrowej,
-b) kierowanie rozruchem i eksploatacją elektrowni jądrowej: kierowanie i nadzór nad rozruchem oraz eksploatacją elektrowni jądrowej, nadzór nad planowaniem produkcji i remontów elektrowni jądrowej oraz wykonywaniem zadań produkcyjnych, nadzór nad opracowywaniem procesu i instrukcji rozruchowych i eksploatacyjnych (ruchowych) elektrowni jądrowej, koordynowanie i nadzorowanie szkoleń oraz egzaminów personelu rozruchu i eksploatacji elektrowni jądrowej,
+4) stanowiska pracy związane z wykonywaniem czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej:
+a) zarządzanie jednostką organizacyjną wykonującą działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej i zarządzanie elektrownią jądrową w zakresie: – zintegrowanego systemu zarządzania, – bezpiecznego rozruchu, eksploatacji oraz likwidacji elektrowni jądrowej, w tym wdrożenia zasad kultury bezpieczeństwa, – ochrony fizycznej i przygotowań przeciwawaryjnych, – zabezpieczeń materiałów jądrowych, – szkoleń i uzyskiwania uprawnień przez personel elektrowni jądrowej,
+b) kierowanie rozruchem i eksploatacją elektrowni jądrowej: – kierowanie i nadzór nad rozruchem oraz eksploatacją elektrowni jądrowej, – nadzór nad planowaniem produkcji i remontów w elektrowni jądrowej oraz wykonywaniem zadań produkcyjnych, – nadzór nad opracowywaniem procesu i instrukcji rozruchowych i eksploatacyjnych (ruchowych) w elektrowni jądrowej, – koordynowanie i nadzorowanie szkoleń oraz egzaminów personelu rozruchu i eksploatacji elektrowni jądrowej,
 c) dozór ruchu elektrowni jądrowej na zmianie roboczej,
-d) sterowanie: sterowanie reaktorem jądrowym i jądrowym blokiem energetycznym,
+d) sterowanie: – sterowanie reaktorem jądrowym i jądrowym blokiem energetycznym, – wykonywanie operacji z paliwem jądrowym w reaktorze jądrowym i w basenie przeładunkowym paliwa.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny § 6. Staż adaptacyjny odbywa jednostce organizacyjnej właściwej ze względu na rodzaj zawodu dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej, którego dotyczy postępowanie.
+#### Rozdział 2 Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności § 21. 1. Zakres testu umiejętności dla zawodów dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej wymienionych w:
+#### Rozdział 3 Test umiejętności
 
-#### Rozdział 4 Przepisy przejściowe i końcowe § 32. W sprawach wszczętych i niezakończonych przed wejściem życie rozporządzenia stosuje przepisy dotychczasowe.
+#### Rozdział 4 Przepisy przejściowe i końcowe
 

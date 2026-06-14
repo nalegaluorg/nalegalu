@@ -8,7 +8,7 @@ pos: 726
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu Medalu za Zasługi dla Policji oraz Medalu imienia podkomisarza Policji Andrzeja Struja
@@ -29,15 +29,35 @@ source: "isap-pdf"
 
 **Art. 1.** Ustanawia się:
 
+- **1)** Medal za Zasługi dla Policji;
+- **2)** Medal imienia podkomisarza Policji Andrzeja Struja.
+
 **Art. 1a.** Medal za Zasługi dla Policji przyznaje się za wybitne zasługi w dziedzinie realizacji ustawowych zadań Policji. Medal ten przyznaje się również za współpracę polskiej Policji z policjami innych państw.
 
 **Art. 2.** Medal za Zasługi dla Policji może być nadany:
 
+- **1)** obywatelowi polskiemu zamieszkałemu w kraju, w tym policjantowi i pracownikowi Policji, który:
+    - **a)** inicjował lub organizował działania mające na celu zapobieganie popełnianiu przestępstw lub wykroczeń oraz zjawiskom kryminogennym, a także współdziałał w tym zakresie z organami państwowymi, samorządu terytorialnego lub organizacjami społecznymi,
+    - **b)** swoim postępowaniem, nienaganną pracą lub służbą podnosił sprawność działań Policji,
+    - **c)** swoją działalnością przyczynił się do rozwoju współpracy Policji z policjami innych państw;
+
+- **2)** cudzoziemcowi lub obywatelowi polskiemu zamieszkałemu poza granicami kraju, który:
+    - **a)** przyczynił się do rozwoju Policji lub podejmował działania skutkujące podniesieniem sprawności jej działania lub poziomu jej wyposażenia technicznego,
+    - **b)** wykazał się osiągnięciami w dziedzinie współdziałania policji innych państw z Policją,
+    - **c)** działał na rzecz Policji lub wspierał jej działania na forum międzynarodowym.
+
 **Art. 2a.** Medal imienia podkomisarza Policji Andrzeja Struja przyznaje się policjantowi za podjęcie:
+
+- **1)** poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia z narażeniem własnego życia lub zdrowia;
+- **2)** w czasie służby czynności ratowania życia ludzkiego ze szczególnym narażeniem własnego życia lub zdrowia.
 
 **Art. 3.** Medal, o którym mowa w art. 1 pkt 1 lub 2, może być nadany pośmiertnie.
 
 **Art. 4.** Medal, o którym mowa w art. 1 pkt 1, posiada trzy stopnie:
+
+- **1)** I stopień – Złoty Medal za Zasługi dla Policji;
+- **2)** II stopień – Srebrny Medal za Zasługi dla Policji;
+- **3)** III stopień – Brązowy Medal za Zasługi dla Policji.
 
 **Art. 5.**
 
@@ -100,5 +120,12 @@ source: "isap-pdf"
 
 **Art. 10.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy tryb postępowania w sprawach o nadanie Medalu, o którym mowa w art. 1 pkt 1 i 2,
+- **2)** sposób wręczania i noszenia odznaki Medalu, o którym mowa w art. 1 pkt 1 i 2, oraz prowadzenia ewidencji, o której mowa w art. 9 ust. 1,
+- **3)** wzory odpowiednich dokumentów – mając na względzie potrzebę sprawnego sporządzania dokumentacji oraz terminowego prowadzenia postępowania, jak również uwzględniając uroczysty charakter aktu wręczania Medalu.
+
 **Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 7 czerwca 2001 r. (Dz. U. z 2024 r. poz.
+
+- **1187)** Załącznik nr 1 Załącznik nr 2
+
 

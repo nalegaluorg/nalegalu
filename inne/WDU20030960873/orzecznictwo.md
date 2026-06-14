@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie*
 
-Łącznie: **36** orzeczeń
+Łącznie: **37** orzeczeń
 (pominięto 41 orzeczeń sądów rejonowych)
 
 ## art. 2 (1)
@@ -75,8 +75,9 @@ Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2003 r. o działalności po�
 
 - 2020-02-26 | SO | [I ACa 75/19](https://www.saos.org.pl/judgments/429732) | Wyrok
 
-## (ogólnie) (15)
+## (ogólnie) (16)
 
+- 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok
 - 2023-10-19 | SO | [I ACa 606/22](https://www.saos.org.pl/judgments/494374) | Wyrok
 - 2022-03-04 | SO | [III AUa 1095/21](https://www.saos.org.pl/judgments/491610) | Wyrok
 - 2021-03-16 | SO | [V ACa 601/20](https://www.saos.org.pl/judgments/435240) | Wyrok

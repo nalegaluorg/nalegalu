@@ -8,10 +8,10 @@ pos: 708
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 770088 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 23 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000708) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/708/text.pdf) |
 
-770088 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 23 marca 2023 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego Na podstawie art. 47 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 29 sierpnia 2006 r. w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. z 2021 r. poz. 319) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego Na podstawie art. 47 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 29 sierpnia 2006 r. w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. z 2021 r. poz. 319) wprowadza się następujące zmiany:
 1) w § 2 ust. 2 otrzymuje brzmienie: „2. Dla kontroli planowych właściwa jednostka organizacyjna CBA sporządza roczny plan kontroli, o którym mowa w art. 32 ust. 1 ustawy, zawierający tematy kontroli przeprowadzanych w danym roku kalendarzowym.”;
 2) § 3 otrzymuje brzmienie: „§ 3. W przypadku kontroli nieujętych w planie kontroli wszczyna się kontrole doraźne, których celem jest:
 1) potwierdzenie wiarygodnych informacji dotyczących zachowań, o których mowa w art. 1 ust. 3a i 4 ustawy;
@@ -39,6 +39,7 @@ zmieniające rozporządzenie w sprawie szczegółowych warunków oraz trybu przy
 1) wyniki czynności analitycznych prowadzonych na podstawie ustawy;
 2) wyniki wcześniejszych kontroli;
 3) informacje pochodzące od organów państwowych i samorządowych;
+4) inne informacje mające znaczenie dla opracowania programu kontroli.”;
 5) § 7 otrzymuje brzmienie: „§ 7. Przed przystąpieniem do czynności kontrolnych, z wyłączeniem przypadku, o którym mowa w art. 33 ust. 5 ustawy, funkcjonariusz CBA przeprowadzający kontrolę, zwany dalej „funkcjonariuszem”:
 1) okazuje kontrolowanemu legitymację służbową;
 2) doręcza imienne upoważnienie do przeprowadzenia kontroli.”;
@@ -47,7 +48,7 @@ zmieniające rozporządzenie w sprawie szczegółowych warunków oraz trybu przy
 1) konieczności przedłużenia okresu kontroli,
 2) zmiany danych dotyczących funkcjonariusza,
 3) zmiany danych dotyczących osób lub podmiotów objętych kontrolą,
-4) zmiany programu kontroli pociągającej za sobą zmianę zakresu kontroli wystawia się nowe upoważnienie do przeprowadzenia kontroli, które niezwłocznie doręcza się kontrolowanemu.
+4) zmiany programu kontroli pociągającej za sobą zmianę zakresu kontroli – wystawia się nowe upoważnienie do przeprowadzenia kontroli, które niezwłocznie doręcza się kontrolowanemu.
 § 11. Doręczając protokół kontroli, funkcjonariusz informuje kontrolowanego o:
 1) prawie zgłoszenia umotywowanych zastrzeżeń do ustaleń zawartych w protokole kontroli;
 2) prawie odmowy podpisania protokołu kontroli.
@@ -60,14 +61,14 @@ zmieniające rozporządzenie w sprawie szczegółowych warunków oraz trybu przy
 5. Jeżeli Szef CBA stwierdzi zasadność zastrzeżeń w odniesieniu do treści protokołu kontroli, dokonuje się w nim zmian, dołączając do jego treści odpowiednie adnotacje w brzmieniu:
 1) „Ustalenia na str. … skreśla się:” lub
 2) „Uzupełnienie do str. … protokołu kontroli:”, lub
-3) „Treść ustaleń na str. … otrzymuje brzmienie:” wraz z opisem dokonanych zmian.”;
+3) „Treść ustaleń na str. … otrzymuje brzmienie:” – wraz z opisem dokonanych zmian.”;
 8) w § 14 ust. 2 i 3 otrzymują brzmienie: „2. Akta kontroli prowadzi się zgodnie z tokiem dokonywanych czynności, włączając do nich materiały i numerując kolejno zamieszczane karty.
 3. Do pierwszego tomu akt kontroli załącza się zbiorczy wykaz materiałów zawartych we wszystkich tomach zawierający ich nazwy i odpowiednie numery kart.”;
 9) w § 15:
 a) ust. 2 otrzymuje brzmienie: „2. W przypadkach określonych w art. 46 ustawy prawo wglądu do akt kontroli, za zgodą Szefa CBA lub osoby przez niego upoważnionej, mają również właściwe organy państwowe i samorządowe.”,
 b) dodaje się ust. 3 w brzmieniu: „3. Po doręczeniu protokołu kontroli, ale przed upływem terminu na jego podpisanie lub odmowę dokonania tej czynności, kontrolowanemu przysługuje prawo wglądu do akt kontroli i wykonywania fotokopii poszczególnych kart, z zastrzeżeniem przepisów o tajemnicy ustawowo chronionej.”;
 10) w § 16:
-a) w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „W aktach kontroli zamieszcza się materiały dowodowe i dokumenty sporządzane w trakcie kontroli, w szczególności:”, pkt 2 otrzymuje brzmienie: „2) odmowę zwolnienia spod zabezpieczenia materiałów dowodowych sporządzoną według wzoru określonego w załączniku nr 2 do rozporządzenia;”, w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–13 w brzmieniu: „10) postanowienie o zarządzeniu dodatkowych czynności kontrolnych sporządzone według wzoru określonego w załączniku nr 10 do rozporządzenia;
+a) w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „W aktach kontroli zamieszcza się materiały dowodowe i dokumenty sporządzane w trakcie kontroli, w szczególności:”, – pkt 2 otrzymuje brzmienie: „2) odmowę zwolnienia spod zabezpieczenia materiałów dowodowych sporządzoną według wzoru określonego w załączniku nr 2 do rozporządzenia;”, – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–13 w brzmieniu: „10) postanowienie o zarządzeniu dodatkowych czynności kontrolnych sporządzone według wzoru określonego w załączniku nr 10 do rozporządzenia;
 11) zastrzeżenia złożone przez kontrolowanego;
 12) stanowisko Szefa CBA do zastrzeżeń złożonych przez kontrolowanego;
 13) odmowę podpisania protokołu przez kontrolowanego, jeżeli została wyrażona na piśmie.”,
@@ -78,15 +79,15 @@ c) ust. 5 otrzymuje brzmienie: „5. Jeżeli zachodzi potrzeba włączenia do ak
 12) § 20 otrzymuje brzmienie: „§ 20. 1. Protokół kontroli podlega akceptacji przez kierownika właściwej jednostki organizacyjnej CBA.
 2. Czynności opisane w art. 45 ust. 3–10 ustawy mogą być wykonywane po upływie terminu zakończenia kontroli określonego w upoważnieniu do przeprowadzenia kontroli.
 3. Kontrola kończy się doręczeniem kontrolowanemu protokołu kontroli, o którym mowa w ust. 1.”;
-13) w § 21 ust. 1 otrzymuje brzmienie: „1. Jeżeli wyniki kontroli wskazują na konieczność podjęcia określonych czynności wobec kontrolowanego, po podpisaniu protokołu kontroli funkcjonariusz opracowuje projekt wniosku, o którym mowa w art. 46 ust. 1 pkt 1 lit. a
+13) w § 21 ust. 1 otrzymuje brzmienie: „1. Jeżeli wyniki kontroli wskazują na konieczność podjęcia określonych czynności wobec kontrolowanego, po podpisaniu protokołu kontroli funkcjonariusz opracowuje projekt wniosku, o którym mowa w art. 46 ust. 1 pkt 1 lit. a lub b ustawy.”;
 14) § 22 otrzymuje brzmienie: „§ 22. 1. Projekty dokumentów, o których mowa w § 21, są przekazywane do akceptacji kierownika właściwej jednostki organizacyjnej CBA.
 2. W uzasadnionych przypadkach kierownik właściwej jednostki organizacyjnej CBA przedstawia Szefowi CBA dokumenty, o których mowa w ust. 1.”;
 15) załączniki nr 1 i 9 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia;
 16) dodaje się załącznik nr 10 w brzmieniu określonym w załączniku nr 3 do niniejszego rozporządzenia.
 § 2. Do czynności kontrolnych w ramach kontroli wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki WZÓR z dnia 23 marca 2023 r.
-(Dz. U. poz. ...) Załącznik nr 1 WZÓR Centralne Biuro Antykorupcyjne .........................., dnia ............................
+Prezes Rady Ministrów: M. Morawiecki Załączniki do rozporządzenia z dnia 23 marca 2023 r.
+(Dz. U. poz. ...) Załącznik nr 1 WZÓR WZÓR Centralne Biuro Antykorupcyjne .........................., dnia ............................
 (miejscowość) .....................................…......................
 (nazwa i adres jednostki organizacyjnej CBA) ........................…………………….......
 (imię, nazwisko oraz stanowisko służbowe funkcjonariusza) POKWITOWANIE pobrania / zwolnienia spod zabezpieczenia i zwrotu pobranych materiałów dowodowych Na podstawie art. 37 ust. 5 pkt 3 / art. 37 ust. 6 ustawy z dnia 9 czerwca 2006 r.
@@ -96,10 +97,10 @@ o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. p
 3) ................................................................................................................................................................
 przez ich zabranie z/od ............................................................................................................................
 (oznaczenie jednostki kontrolowanej / osoby kontrolowanej) ................................................................
-(podpis funkcjonariusza) Pouczenie Zgodnie z art. 37 ust. 6 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym o zwolnieniu materiałów dowodowych spod zabezpieczenia decyduje funkcjonariusz kontrolujący, a w przypadku jego odmowy kierownik właściwej jednostki organizacyjnej Centralnego Biura Antykorupcyjnego.
+(podpis funkcjonariusza) Pouczenie Zgodnie z art. 37 ust. 6 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym o zwolnieniu materiałów dowodowych spod zabezpieczenia decyduje funkcjonariusz kontrolujący, a w przypadku jego odmowy – kierownik właściwej jednostki organizacyjnej Centralnego Biura Antykorupcyjnego.
 ____________________ * Niepotrzebne skreślić.
 
-## Załącznik nr 2 — WZÓR Centralne Biuro Antykorupcyjne .........................., dnia ............................
+## Załącznik nr 2 — WZÓR WZÓR Centralne Biuro Antykorupcyjne .........................., dnia ............................
 
 (miejscowość) .....................................…......................
 (nazwa i adres jednostki organizacyjnej CBA) ........................…………………….......
@@ -116,12 +117,12 @@ w/u ............................................................................
 1. ................................................................................................................................................................
 (imię i nazwisko, stanowisko służbowe, numer telefonu)
 2. ................................................................................................................................................................
-(imię i nazwisko, stanowisko służbowe, numer telefonu) WZÓR
+(imię i nazwisko, stanowisko służbowe, numer telefonu)
 3. Dane dotyczące okresu kontroli oraz funkcjonariuszy kontrolujących: Kontrolę przeprowadzili w dniach ............................................................................................................
 1. ................................................................................................................................................................
-(imię i nazwisko, stanowisko służbowe) posiadający(-ca) upoważnienie do kontroli nr ................. wydane przez .............................................
+(imię i nazwisko, stanowisko służbowe) – posiadający(-ca) upoważnienie do kontroli nr ................. wydane przez .............................................
 2. ................................................................................................................................................................
-(imię i nazwisko, stanowisko służbowe) posiadający(-ca) upoważnienie do kontroli nr ................. wydane przez ..............................................
+(imię i nazwisko, stanowisko służbowe) – posiadający(-ca) upoważnienie do kontroli nr ................. wydane przez ..............................................
 4. W trakcie kontroli podjęto następujące czynności: .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
@@ -165,7 +166,9 @@ W dniu ……………………… kontrolowany podpisał protokół / odmówił
 …………………………………………………………………………………………………...
 W dniu ……………………………… kontrolowany po otrzymaniu stanowiska Szefa CBA dotyczącego zastrzeżeń do protokołu kontroli podpisał protokół / odmówił podpisania protokołu.
 ...................................................................... …………………………………………… (podpis kontrolowanego i pieczęć, jeżeli ją posiada) (podpisy funkcjonariuszy kontrolujących) ____________________ * Niepotrzebne skreślić.
-WZÓR Centralne Biuro Antykorupcyjne .........................., dnia ............................
+
+## Załącznik nr 3 — WZÓR WZÓR Centralne Biuro Antykorupcyjne .........................., dnia ............................
+
 (miejscowość) .....................................…......................
 (nazwa i adres jednostki organizacyjnej CBA) POSTANOWIENIE O ZARZĄDZENIU DODATKOWYCH CZYNNOŚCI KONTROLNYCH W związku z wniesieniem przez kontrolowanego zastrzeżeń do protokołu kontroli z dnia ………….....
 dotyczącego ...................................................................................................................................
@@ -174,10 +177,10 @@ dotyczącego ...................................................................
 1) ……………………………………………………………………………………………………… ;
 2) ……………………………………………………………………………………………………… ;
 3) ……………………………………………………………………………………………………… .
-Przeprowadzenie ww. czynności zlecam: Panu (Pani) ................................................... ..……………......................................
-(imię i nazwisko funkcjonariusza) (nr legitymacji służbowej funkcjonariusza) Panu (Pani) ................................................... ..……………......................................
-(imię i nazwisko funkcjonariusza) (nr legitymacji służbowej funkcjonariusza) Panu (Pani) ................................................... ……..……….................................... .
+Przeprowadzenie ww. czynności zlecam: Panu (Pani) ................................................... – ..……………......................................
+(imię i nazwisko funkcjonariusza) (nr legitymacji służbowej funkcjonariusza) Panu (Pani) ................................................... – ..……………......................................
+(imię i nazwisko funkcjonariusza) (nr legitymacji służbowej funkcjonariusza) Panu (Pani) ................................................... – ……..……….................................... .
 (imię i nazwisko funkcjonariusza) (nr legitymacji służbowej funkcjonariusza) Dodatkowe czynności kontrolne należy przeprowadzić do dnia ……………………….... .
 ..........................................................................
-(podpis Szefa Centralnego Biura Antykorupcyjnego albo osoby upoważnionej) WZÓR
+(podpis Szefa Centralnego Biura Antykorupcyjnego albo osoby upoważnionej)
 

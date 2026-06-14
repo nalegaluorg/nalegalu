@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej.*
 
 Łącznie: **21** orzeczeń
-(pominięto 72 orzeczeń sądów rejonowych)
+(pominięto 74 orzeczeń sądów rejonowych)
 
 ## art. 2 (6)
 

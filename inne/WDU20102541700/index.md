@@ -8,7 +8,7 @@ pos: 1700
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania
@@ -45,9 +45,40 @@ Art. 24–30. (pominięte)
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** dyskryminacji bezpośredniej – rozumie się przez to sytuację, w której osoba fizyczna ze względu na płeć, rasę, pochodzenie etniczne, narodowość, religię, wyznanie, światopogląd, niepełnosprawność, wiek lub orientację seksualną jest traktowana mniej korzystnie niż jest, była lub byłaby traktowana inna osoba w porównywalnej sytuacji;
+- **2)** dyskryminacji pośredniej – rozumie się przez to sytuację, w której dla osoby fizycznej ze względu na płeć, rasę, pochodzenie etniczne, narodowość, religię, wyznanie, światopogląd, niepełnosprawność, wiek lub orientację seksualną na skutek pozornie neutralnego postanowienia, zastosowanego kryterium lub podjętego działania występują lub mogłyby wystąpić niekorzystne dysproporcje lub szczególnie niekorzystna dla niej sytuacja, chyba że postanowienie, kryterium lub działanie jest obiektywnie uzasadnione ze względu na zgodny z prawem cel, który ma być osiągnięty, a środki służące osiągnięciu tego celu są właściwe i konieczne;
+- **3)** molestowaniu – rozumie się przez to każde niepożądane zachowanie, którego celem lub skutkiem jest naruszenie godności osoby fizycznej i stworzenie wobec niej zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery;
+- **4)** molestowaniu seksualnym – rozumie się przez to każde niepożądane zachowanie o charakterze seksualnym wobec osoby fizycznej lub odnoszące się do płci, którego celem lub skutkiem jest naruszenie godności tej osoby, w szczególności przez stworzenie wobec niej zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery; na zachowanie to mogą się składać fizyczne, werbalne lub pozawerbalne elementy;
+- **5)** nierównym traktowaniu – rozumie się przez to traktowanie osób fizycznych w sposób będący jednym lub kilkoma z następujących zachowań: dyskryminacją bezpośrednią, dyskryminacją pośrednią, molestowaniem, molestowaniem seksualnym, a także mniej korzystnym traktowaniem osoby fizycznej wynikającym z odrzucenia molestowania lub molestowania seksualnego lub podporządkowania się molestowaniu lub molestowaniu seksualnemu, oraz zachęcanie do takich zachowań i nakazywanie tych zachowań;
+- **6)** zasadzie równego traktowania – rozumie się przez to brak jakichkolwiek zachowań stanowiących nierówne traktowanie;
+- **7)** usługach – rozumie się przez to usługi w rozumieniu art. 57 Traktatu o funkcjonowaniu Unii Europejskiej.
+
 **Art. 4.** Ustawę stosuje się w zakresie:
 
+- **1)** podejmowania kształcenia zawodowego, w tym dokształcania, doskonalenia, przekwalifikowania zawodowego oraz praktyk zawodowych;
+- **2)** warunków podejmowania i wykonywania działalności gospodarczej lub zawodowej, w tym w szczególności w ramach stosunku pracy albo pracy na podstawie umowy cywilnoprawnej;
+- **3)** przystępowania i działania w związkach zawodowych, organizacjach pracodawców oraz samorządach zawodowych, a także korzystania z uprawnień przysługujących członkom tych organizacji;
+- **4)** dostępu i warunków korzystania z:
+    - **a)** form pomocy określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oferowanych przez publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje zatrudnienia i instytucje szkoleniowe, oraz form pomocy oferowanych przez inne podmioty działające na rzecz zatrudnienia, rozwoju zasobów ludzkich i przeciwdziałania bezrobociu,
+    - **b)** zabezpieczenia społecznego,
+    - **c)** opieki zdrowotnej,
+    - **d)** oświaty i szkolnictwa wyższego,
+    - **e)** usług, w tym usług mieszkaniowych, rzeczy oraz nabywania praw i energii, jeżeli są one oferowane publicznie.
+
 **Art. 5.** Ustawy nie stosuje się do:
+
+- **1)** sfery życia prywatnego i rodzinnego oraz czynności prawnych pozostających w związku z tymi sferami;
+- **2)** treści zawartych w środkach masowego przekazu oraz ogłoszeniach w zakresie dostępu i dostarczania towarów i usług, w zakresie dotyczącym odmiennego traktowania ze względu na płeć;
+- **3)** swobody wyboru strony umowy, o ile tylko nie jest oparty na płci, rasie, pochodzeniu etnicznym lub narodowości;
+- **4)** usług edukacyjnych w zakresie dotyczącym odmiennego traktowania ze względu na płeć;
+- **5)** odmiennego traktowania ze względu na płeć w dostępie i warunkach korzystania z usług, rzeczy oraz nabywania praw lub energii, jeżeli ich zapewnienie wyłącznie lub głównie dla przedstawicieli jednej płci jest obiektywnie i racjonalnie uzasadnione celem zgodnym z prawem, a środki służące realizacji tego celu są właściwe i konieczne;
+- **6)** odmiennego traktowania co do możliwości i warunków podejmowania i wykonywania działalności zawodowej oraz podejmowania, odbywania i ukończenia nauki w zakresie kształcenia zawodowego, w tym w zakresie studiów wyższych, jeżeli rodzaj lub warunki wykonywania danej działalności zawodowej powodują, że przyczyna odmiennego traktowania jest rzeczywistym i decydującym wymaganiem zawodowym stawianym danej osobie fizycznej, proporcjonalnym do osiągnięcia zgodnego z prawem celu różnicowania sytuacji tej osoby;
+- **7)** ograniczania przez kościoły i inne związki wyznaniowe, a także organizacje, których etyka opiera się na religii, wyznaniu lub światopoglądzie, dostępu do działalności zawodowej oraz jej wykonywania ze względu na religię, wyznanie lub światopogląd, jeżeli rodzaj lub warunki wykonywania takiej działalności powodują, że religia, wyznanie lub światopogląd są rzeczywistym i decydującym wymaganiem zawodowym stawianym danej osobie fizycznej, proporcjonalnym do osiągnięcia zgodnego z prawem celu różnicowania sytuacji tej osoby; dotyczy to również wymagania od zatrudnionych osób fizycznych działania w dobrej wierze i lojalności wobec etyki kościoła, innego związku wyznaniowego oraz organizacji, których etyka opiera się na religii, wyznaniu lub światopoglądzie;
+- **8)** odmiennego traktowania osób fizycznych ze względu na wiek:
+    - **a)** gdy jest to obiektywnie i racjonalnie uzasadnione celem zgodnym z prawem, w szczególności celami kształcenia zawodowego, pod warunkiem że środki służące realizacji tego celu są właściwe i konieczne,
+    - **b)** polegającego na ustalaniu dla celów zabezpieczenia społecznego różnych zasad przyznawania lub nabycia prawa do świadczeń, w tym różnych kryteriów wieku do obliczania wysokości świadczeń; w przypadku pracowniczych programów emerytalnych takie odmienne traktowanie jest dopuszczalne, pod warunkiem że nie stanowi dyskryminacji ze względu na płeć;
+
+- **9)** odmiennego traktowania, ze względu na kryterium obywatelstwa, osób fizycznych niebędących obywatelami państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej ani członkami ich rodzin, w szczególności w zakresie warunków wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej oraz związanego ze statusem prawnym.
 
 #### Rozdział 2 Zasada równego traktowania i środki prawne dla jej ochrony
 
@@ -176,7 +207,15 @@ Art. 24–30. (pominięte)
 
 **Art. 22.** Podmiot, o którym mowa w art. 18 ust. 2 opracowuje i przedkłada Radzie Ministrów Krajowy Program Działań na rzecz Równego Traktowania, określający cele i priorytety działań na rzecz równego traktowania, w szczególności w zakresie:
 
+- **1)** podnoszenia świadomości społecznej w zakresie równego traktowania, w tym na temat przyczyn i skutków naruszenia zasady równego traktowania;
+- **2)** przeciwdziałania naruszeniom zasady równego traktowania;
+- **3)** współpracy z partnerami społecznymi, organizacjami pozarządowymi i innymi podmiotami w zakresie równego traktowania.
+
 **Art. 23.** Podmiot, o którym mowa w art. 18 ust. 2 opracowuje i przedkłada Radzie Ministrów, w terminie do dnia 31 marca każdego roku, sprawozdanie za poprzedni rok kalendarzowy, zawierające:
+
+- **1)** (uchylony)
+- **2)** wnioski oraz rekomendacje dotyczące działań, które należy podjąć w celu zapewnienia przestrzegania zasady równego traktowania;
+- **3)** raport z realizacji Krajowego Programu Działań na rzecz Równego Traktowania, o którym mowa w art. 22.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 

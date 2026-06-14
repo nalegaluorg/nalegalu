@@ -8,10 +8,10 @@ pos: 496
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 449966 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000496) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/496/text.pdf) |
 
-449966 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 stycznia 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2018 r. w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa (Dz. U. poz. 610), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego 2019 r. zmieniającym rozporządzenie w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa (Dz. U. poz. 464);
@@ -38,7 +37,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 3) § 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwca 2022 r. zmieniającego rozporządzenie w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa (Dz. U. poz. 1428), które stanowią: „§ 2. Do postępowań kwalifikacyjnych w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 15 marca 2018 r.
-w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa Na podstawie art. 69 ust. 9 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa Na podstawie art. 69 ust. 9 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) zakres informacji o planowanym postępowaniu kwalifikacyjnym w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa, zwanym dalej „postępowaniem kwalifikacyjnym”, oraz sposób podawania tych informacji do wiadomości;
 2) dokumenty, które należy złożyć w związku z postępowaniem kwalifikacyjnym, oraz wzór kwestionariusza osobowego;
 3) zakres tematyczny testu wiedzy oraz zakres i sposób przeprowadzania testu sprawności fizycznej i badań psychologicznych;
@@ -181,7 +181,7 @@ b) testu psychologicznego, z ustalenia zdolności fizycznej i psychicznej oraz z
 § 32. Postępowanie kwalifikacyjne, które nie zostało zakończone przed planowanym terminem przyjęcia do służby w SOP, jest kontynuowane, a w przypadku jego zakończenia po tym terminie kandydata do służby umieszcza się na liście kandydatów uwzględniającej kolejny planowany termin przyjęcia do służby w SOP.
 § 33. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 
-## Załącznik nr 1 — KWESTIONARIUSZ OSOBOWY KANDYDATA DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA I. DANE OSOBOWE
+## Załącznik nr 1 — KWESTIONARIUSZ KWESTIONARIUSZ OSOBOWY OSOBOWY KANDYDATA KANDYDATA DO DO SŁUŻBY SŁUŻBY W W SŁUŻBIE SŁUŻBIE OCHRONY OCHRONY PAŃSTWA PAŃSTWA I. DANE OSOBOWE
 
 1. Nazwisko
 2. Nazwiska poprzednie (również rodowe)
@@ -192,7 +192,7 @@ b) testu psychologicznego, z ustalenia zdolności fizycznej i psychicznej oraz z
 7. Narodowość
 8. Dowód osobisty
 9. Numer PESEL:
-10. Numer identyfikacji podatkowej (NIP), jeżeli został nadany: KWESTIONARIUSZ OSOBOWY KANDYDATA DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA
+10. Numer identyfikacji podatkowej (NIP), jeżeli został nadany:
 11. Stosunek do służby wojskowej:
 12. Aktualne miejsce zameldowania na pobyt stały:
 13. Aktualne miejsce zamieszkania, jeżeli jest inne niż w pkt 12:
@@ -216,7 +216,7 @@ II. INFORMACJE O WYKSZTAŁCENIU I DOŚWIADCZENIU ZAWODOWYM KANDYDATA DO SŁUŻBY
 4. Aktualne miejsce(-ca) pracy (służby)
 5. Poprzednie miejsca pracy (służby)
 6. Czy kiedykolwiek rozwiązano z Panem/Panią umowę o pracę w trybie art. 52 i art. 53 Kodeksu pracy lub też nastąpiło z Pana/Pani strony porzucenie pracy (proszę podać powody)?
-Prawdziwość danych zawartych w kwestionariuszu stwierdzam własnoręcznym podpisem.
+III. DANE DOTYCZĄCE CZŁONKÓW RODZINY KANDYDATA DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA I JEGO MAŁŻONKA (Proszę podać w kolejności: rodzice, rodzeństwo, małżonek, dzieci) Miejsce Zawód Stopień Imię i nazwisko urodzenia wyuczony/ Adres Adres wykonywany pokrewieństwa zamieszkania zameldowania nazwisko numer PESEL rodowe (jeżeli został nadany) IV. ŻYCIORYS Prawdziwość danych zawartych w kwestionariuszu stwierdzam własnoręcznym podpisem.
 Wypełniają funkcjonariusze i pracownicy Służby Ochrony Państwa.
 Osoba przyjmująca kwestionariusz Ocena I etapu postępowania kwalifikacyjnego ( Ocena II etapu postępowania kwalifikacyjnego OCENA KOŃCOWA PREDYSPOZYCJI KANDYDATA DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA KRYTERIA DOKONYWANIA OCENY KANDYDATA DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA PODCZAS ROZMOWY KWALIFIKACYJNEJ
 1. Kryteria podlegające ocenie:
@@ -259,20 +259,20 @@ NIEZBĘDNE ELEMENTY KARTY OCENY SPRAWNOŚCI FIZYCZNEJ KANDYDATA DO SŁUŻBY W S�
 3) określenie przyczyny nieukończenia przez kandydata do służby w Służbie Ochrony Państwa testu sprawności fizycznej, w szczególności z powodu urazu lub kontuzji;
 4) określenie składu zespołu przeprowadzającego test sprawności fizycznej, ze wskazaniem stopni, imion i nazwisk jego członków oraz ich podpisów;
 5) określenie miejscowości, daty przeprowadzenia testu sprawności fizycznej.
-ZAKRES I SPOSÓB PRZEPROWADZANIA TESTU SPRAWNOŚCI FIZYCZNEJ DLA KANDYDATÓW DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA ORAZ SPOSÓB OCENY JEGO WYNIKÓW Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwca 2022 r. (poz. …) ZAKRES I SPOSÓB PRZEPROWADZANIA TESTU SPRAWNOŚCI FIZYCZNEJ DLA KANDYDATÓW DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA ORAZ SPOSÓB OCENY JEGO WYNIKÓW
+Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwca 2022 r. (poz. …) ZAKRES I SPOSÓB PRZEPROWADZANIA TESTU SPRAWNOŚCI FIZYCZNEJ DLA KANDYDATÓW ZAKRES DO I SPOSÓB SŁUŻBY PRZEPROWADZANIA W SŁUŻBIE OCHRONY PAŃSTWA TESTU SPRAWNOŚCI ORAZ SPOSÓB FIZYCZNEJ OCENY JEGO DLA WYNIKÓW KANDYDATÓW DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA ORAZ SPOSÓB OCENY JEGO WYNIKÓW
 1. Test sprawności fizycznej przeprowadza się w sali gimnastycznej.
 2. Kandydat do służby w Służbie Ochrony Państwa wykonuje test sprawności fizycznej w stroju i obuwiu sportowym.
 3. Rozpoczęcie testu sprawności fizycznej poprzedza rozgrzewka. Kandydat do służby w Służbie Ochrony Państwa przeprowadza rozgrzewkę indywidualnie.
 4. Test sprawności fizycznej składa się z prób sprawnościowych przeprowadzonych w jednym dniu w następującej kolejności: podciąganie się na drążku wysokim (mężczyźni), skłony tułowia w czasie 1 minuty, rzut piłką lekarską (3 kg), bieg wahadłowy 10 × 10 m.
 5. Test sprawności fizycznej jest poprzedzony pokazem sposobu wykonania prób sprawnościowych, przeprowadzonym przez instruktora z zespołu powołanego przez kierownika komórki organizacyjnej Służby Ochrony Państwa właściwej do spraw szkolenia.
-NORMY EGZAMINACYJNE SPRAWNOŚCI FIZYCZNEJ DLA KANDYDATÓW DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA (MĘŻCZYŹNI) Jednostka Punkty Nazwa próby miary 3 2,5 2 1,5 1 0,5 Podciąganie się na drążku wysokim [liczba powtórzeń] 12 10 9 8 6 4 Skłony tułowia w czasie 1 minuty [liczba powtórzeń] 56 52 48 44 39 34 Rzut piłką lekarską (3 kg) [metry] 10 9 8 7 6,5 6 Bieg wahadłowy 10 × 10 m [sekundy] 30,5 31 31,5 32 32,5 33 NORMY EGZAMINACYJNE SPRAWNOŚCI FIZYCZNEJ DLA KANDYDATÓW DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA (KOBIETY) Nazwa próby Jednostka Punkty miary 4 3 2,5 2 1 0,5 Skłony tułowia w czasie 1 minuty [liczba powtórzeń] 52 49 46 43 38 32 Rzut piłką lekarską (3 kg) [metry] 7,5 6,5 6 5,5 5 4,5 Bieg wahadłowy 10 × 10 m [sekundy] 32,5 33 33,5 34 34,5 35 OPIS WYKONANIA PRÓB SPRAWNOŚCIOWYCH Podciąganie się na drążku wysokim Minimalna wysokość drążka wysokiego do wykonania ćwiczenia wynosi 220 cm. Na komendę „Gotów” kandydat do służby w Służbie Ochrony Państwa wykonuje zwis nachwytem z ramionami wyprostowanymi w stawach łokciowych pozycja wyjściowa. Na komendę „Ćwicz” podciąga się tak, aby broda znalazła się powyżej drążka, i wraca do pozycji wyjściowej, następnie ponawia ćwiczenie. Osoba egzaminująca głośno podaje liczbę zaliczonych podciągnięć. Jeżeli kandydat do służby w Służbie Ochrony Państwa nie wykona ćwiczenia zgodnie z opisem (np. nie podciągnie się do wymaganej pozycji lub nie wróci do zwisu z ramionami wyprostowanymi w stawach łokciowych), osoba egzaminująca powtarza ostatnią liczbę prawidłowo wykonanych podciągnięć.
+NORMY EGZAMINACYJNE SPRAWNOŚCI FIZYCZNEJ DLA KANDYDATÓW DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA (MĘŻCZYŹNI) Jednostka Punkty Nazwa próby miary 3 2,5 2 1,5 1 0,5 Podciąganie się na drążku wysokim [liczba powtórzeń] 12 10 9 8 6 4 Skłony tułowia w czasie 1 minuty [liczba powtórzeń] 56 52 48 44 39 34 Rzut piłką lekarską (3 kg) [metry] 10 9 8 7 6,5 6 Bieg wahadłowy 10 × 10 m [sekundy] 30,5 31 31,5 32 32,5 33 NORMY EGZAMINACYJNE SPRAWNOŚCI FIZYCZNEJ DLA KANDYDATÓW DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA (KOBIETY) Nazwa próby Jednostka Punkty miary 4 3 2,5 2 1 0,5 Skłony tułowia w czasie 1 minuty [liczba powtórzeń] 52 49 46 43 38 32 Rzut piłką lekarską (3 kg) [metry] 7,5 6,5 6 5,5 5 4,5 Bieg wahadłowy 10 × 10 m [sekundy] 32,5 33 33,5 34 34,5 35 OPIS WYKONANIA PRÓB SPRAWNOŚCIOWYCH Podciąganie się na drążku wysokim Minimalna wysokość drążka wysokiego do wykonania ćwiczenia wynosi 220 cm. Na komendę „Gotów” kandydat do służby w Służbie Ochrony Państwa wykonuje zwis nachwytem z ramionami wyprostowanymi w stawach łokciowych – pozycja wyjściowa. Na komendę „Ćwicz” podciąga się tak, aby broda znalazła się powyżej drążka, i wraca do pozycji wyjściowej, następnie ponawia ćwiczenie. Osoba egzaminująca głośno podaje liczbę zaliczonych podciągnięć. Jeżeli kandydat do służby w Służbie Ochrony Państwa nie wykona ćwiczenia zgodnie z opisem (np. nie podciągnie się do wymaganej pozycji lub nie wróci do zwisu z ramionami wyprostowanymi w stawach łokciowych), osoba egzaminująca powtarza ostatnią liczbę prawidłowo wykonanych podciągnięć.
 Skłony tułowia w czasie 1 minuty Na komendę „Gotów” kandydat do służby w Służbie Ochrony Państwa przyjmuje pozycję: leży na plecach z palcami rąk splecionymi i ułożonymi z tyłu na głowie, łokcie dotykają materaca, nogi są ugięte w stawach kolanowych (maksymalnie do kąta prostego), stopy rozstawione na szerokość bioder są zaczepione o pierwszy lub drugi szczebel drabinki od dołu. Na komendę „Ćwicz” wykonuje skłon w przód z jednoczesnym dotknięciem łokciami kolan i powraca do leżenia, tak aby łokcie dotknęły podłoża (pierwsze powtórzenie). Osoba egzaminująca głośno wymienia kolejno liczbę prawidłowo wykonanych powtórzeń. Jeżeli kandydat do służby w Służbie Ochrony Państwa nie wykona ćwiczenia zgodnie z opisem (np. nie dotknie łokciami kolan lub w pozycji wyjściowej do ponowienia ćwiczenia nie dotknie oboma łokciami powierzchni materaca), osoba egzaminująca powtarza ostatnią liczbę prawidłowo wykonanych skłonów.
 Rzut piłką lekarską (3 kg) Kandydat do służby w Służbie Ochrony Państwa przyjmuje pozycję: postawa rozkroczna, przodem do kierunku rzutu, stopy ustawione przed linią rzutu. Wykonuje rzut zza głowy do przodu piłką lekarską o ciężarze 3 kg. Podczas rzutu może wspiąć się na palce lub wykonać podskok. W trakcie rzutu i po rzucie nie może stanąć na linii rzutu lub jej przekroczyć. Długość rzutu ustala się na podstawie przygotowanych pomiarów wykonanych z dokładnością do 0,5 m. Piłka całym obwodem musi przekroczyć linię pomiaru.
 Kandydat do służby w Służbie Ochrony Państwa może wykonać trzy rzuty. Ocenę z próby ustala się na podstawie lepszego wyniku.
 Bieg wahadłowy 10 × 10 m Na komendę „Start” kandydat do służby w Służbie Ochrony Państwa rozpoczyna bieg w kierunku przeciwległej tyczki. Obiega ją, wraca do tyczki na linii startu, obiega ją i pokonuje tę trasę pięciokrotnie.
 Instruktor informuje o liczbie ukończonych długości. Przewrócenie tyczki powoduje powtórzenie próby, która jest próbą ostateczną. Czas mierzy się z dokładnością do 0,1 s.
 
-## Załącznik nr 7 — SYSTEM PUNKTOWY OCENY ETAPÓW POSTĘPOWANIA KWALIFIKACYJNEGO ORAZ PREFERENCJI Z TYTUŁU WYKSZTAŁCENIA I UMIEJĘTNOŚCI POSIADANYCH PRZEZ KANDYDATA DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA Dodana przez § 1 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego 2019 r.
+## Załącznik nr 7 — SYSTEM SYSTEM PUNKTOWY PUNKTOWY OCENY OCENY ETAPÓW ETAPÓW POSTĘPOWANIA POSTĘPOWANIA KWALIFIKACYJNEGO KWALIFIKACYJNEGO ORAZ ORAZ PREFERENCJI PREFERENCJI Z TYTUŁU Z TYTUŁU WYKSZTAŁCENIA WYKSZTAŁCENIA I UMIEJĘTNOŚCI I UMIEJĘTNOŚCI POSIADANYCH POSIADANYCH PRZEZ PRZEZ KANDYDATA KANDYDATA DO DO SŁUŻBY SŁUŻBY W W SŁUŻBIE SŁUŻBIE OCHRONY OCHRONY PAŃSTWA PAŃSTWA Dodana przez § 1 pkt 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego 2019 r.
 
-zmieniającego rozporządzenie w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów SYSTEM PUNKTOWY OCENY ETAPÓW POSTĘPOWANIA KWALIFIKACYJNEGO ORAZ PREFERENCJI Z TYTUŁU WYKSZTAŁCENIA I UMIEJĘTNOŚCI POSIADANYCH PRZEZ KANDYDATA DO SŁUŻBY W SŁUŻBIE OCHRONY PAŃSTWA
+zmieniającego rozporządzenie w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Służbie Ochrony Państwa (Dz. U. poz. 464), które weszło w życie z dniem 26 marca 2019 r.
 

@@ -8,10 +8,10 @@ pos: 2304
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22330044 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 10 października 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2304/text.pdf) |
 
-22330044 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 10 października 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej”
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 16 sierpnia 2017 r. w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” (Dz. U. z 2019 r. poz. 2102), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 lipca 2021 r. zmieniającym rozporządzenie w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” (Dz. U. poz. 1415).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 lipca 2021 r. zmieniającego rozporządzenie w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” (Dz. U. poz. 1415), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 16 sierpnia 2017 r.
 w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” Na podstawie art. 6 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
-poz. 813, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 813, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb postępowania w sprawach o nadanie odznaki „Zasłużony dla Krajowej Administracji Skarbowej”, zwanej dalej „odznaką”, osoby uprawnione do występowania z wnioskiem o nadanie odznaki oraz termin rozpatrzenia wniosku;
 2) wzór odznaki, wzór wniosku o nadanie odznaki zawierający informację uzasadniającą jej nadanie oraz wzór legitymacji potwierdzającej nadanie odznaki, zwanej dalej „legitymacją”;
 3) sposób wręczania i noszenia odznaki;
@@ -64,8 +64,8 @@ m) stopień służbowy,
 n) staż pracy lub służby ogółem, w tym w Krajowej Administracji Skarbowej,
 o) posiadane ordery, odznaczenia lub odznaki;
 2) uzasadnienie wniosku o nadanie odznaki, ze szczególnym uwzględnieniem zasług;
-3) opinię Szefa Krajowej Administracji Skarbowej w przypadkach, o których mowa w § 2 ust. 1 pkt 1, 3–5 i 7;
-4) opinię ministra właściwego do spraw zagranicznych w przypadku wniosku o nadanie odznaki cudzoziemcowi;
+3) opinię Szefa Krajowej Administracji Skarbowej – w przypadkach, o których mowa w § 2 ust. 1 pkt 1, 3–5 i 7;
+4) opinię ministra właściwego do spraw zagranicznych – w przypadku wniosku o nadanie odznaki cudzoziemcowi;
 5) nazwę, podpis wnioskodawcy i datę wniosku;
 6) przewidywany termin wręczenia odznaki.
 2. Wniosek o nadanie odznaki minister właściwy do spraw finansów publicznych rozpatruje nie później niż na tydzień przed przewidywanym terminem wręczenia odznaki, wskazanym we wniosku o jej nadanie. Decyzję ministra właściwego do spraw finansów publicznych umieszcza się na złożonym wniosku, o którym mowa w ust. 1.
@@ -76,11 +76,12 @@ o) posiadane ordery, odznaczenia lub odznaki;
 3. Miniaturka odznaki o średnicy 25 mm podobnie wykonana jak odznaka przedstawia jej stronę licową bez zawieszenia. Strona odwrotna gładka ze sztyftem i zapięciem zaciskowym.
 4. Wzór graficzny odznaki wraz ze wstążką oraz baretki określa załącznik nr 2 do rozporządzenia.
 § 5. 1. Wręczenie odznaki następuje dnia 21 września w Dniu Krajowej Administracji Skarbowej, a w szczególnie uzasadnionych przypadkach również w innych terminach.
-2. Odznakę wraz z legitymacją wręcza minister właściwy do spraw finansów publicznych, Szef Krajowej Administracji Skarbowej albo inna osoba upoważniona przez ministra właściwego do spraw finansów publicznych, a poza terytorium Rzeczypospolitej Polskiej kierownik przedstawicielstwa dyplomatycznego lub urzędu konsularnego Rzeczypospolitej Polskiej.
+2. Odznakę wraz z legitymacją wręcza minister właściwy do spraw finansów publicznych, Szef Krajowej Administracji Skarbowej albo inna osoba upoważniona przez ministra właściwego do spraw finansów publicznych, a poza terytorium Rzeczypospolitej Polskiej – kierownik przedstawicielstwa dyplomatycznego lub urzędu konsularnego Rzeczypospolitej Polskiej.
 3. Odznakę wręcza się w sposób i w okolicznościach zapewniających uroczysty charakter aktu wręczenia.
 4. Wręczenie odznaki poprzedza się odczytaniem treści decyzji ministra właściwego do spraw finansów publicznych o nadaniu odznaki i wypowiedzeniem formuły w brzmieniu: „Wręczam odznakę Zasłużony dla Krajowej Administracji Skarbowej” albo w brzmieniu: „W imieniu ministra właściwego do spraw finansów publicznych wręczam odznakę Zasłużony dla Krajowej Administracji Skarbowej”.
 5. Osoba wyróżniona odznaką otrzymuje nadaną odznakę wraz z legitymacją, baretkę oraz miniaturkę.
 6. Wzór legitymacji określa załącznik nr 3 do rozporządzenia.
+§ 6. Odznakę nosi się w formie pełnej odznaki, jej miniaturki lub baretki.
 § 7. 1. Odznakę nosi się na lewej stronie piersi, po orderach i odznaczeniach, a przed odznakami honorowymi samorządowymi, chyba że przepisy odrębne lub przepisy państwa, którego osoba wyróżniona posiada obywatelstwo, określają inaczej.
 2. W przypadku posiadania odznaki w dwóch lub więcej stopniach nosi się odznakę najwyższego stopnia.
 3. W przypadku osoby w mundurze, która nie posiada orderów, odznaczeń i innych odznak honorowych, odznakę nosi się na ubiorze z kołnierzem wykładanym ponad górną kieszeń, przy czym wstążkę podkłada się do połowy pod klapę kołnierza; na ubiorze zapinanym pod szyję wstążkę umieszcza się w odległości około 3 cm od linii zapięcia guzików.
@@ -108,14 +109,12 @@ Przepis § 7 ust. 1 stosuje się odpowiednio.
 § 11. Ewidencję osób wyróżnionych odznaką prowadzi komórka organizacyjna w urzędzie obsługującym ministra właściwego do spraw finansów publicznych właściwa w sprawach związanych z nadawaniem odznaki.
 § 12. W razie utraty odznaki, miniaturki lub legitymacji, na wniosek osoby wyróżnionej, wydaje się wtórny egzemplarz odpowiednio odznaki, miniaturki lub legitymacji, za zwrotem kosztów ich wytworzenia.
 § 13. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia , z wyjątkiem § 2 ust. 1 pkt 6, który wchodzi w życie z dniem 1 stycznia 2018 r.
-Załączniki do rozporządzenia Ministra Rozwoju i Finansów z dnia 16 sierpnia 2017 r. (Dz. U. z 2022 r. poz.….) Załącznik nr 1 WZÓR Nr ............
+Załączniki do rozporządzenia Ministra Rozwoju i Finansów z dnia 16 sierpnia 2017 r. (Dz. U. z 2022 r. poz.….) Załącznik nr 1 WZÓR WZÓR Nr ............
 WNIOSEK O NADANIE BRĄZOWEJ/ SREBRNEJ/ ZŁOTEJ* ODZNAKI „ZASŁUŻONY DLA KRAJOWEJ ADMINISTRACJI SKARBOWEJ”
 1. Imiona 2. Nazwisko ………….................................. .................................................................................................
 ……………………………….. ……………………………………………………………...
-3. Data i miejsce urodzenia 4.
+3. Data i miejsce urodzenia 4. Państwo zamieszkania ……………….......................... ………………………………….............................................
 ………………..........................
-………………..........................
-Państwo zamieszkania ………………………………….............................................
 5. Obywatelstwo …………………………………...............................................................................................
 6. Adres miejsca zamieszkania lub adres do korespondencji ……………………………………………................................................................................
 ( miejscowość, kod pocztowy ) ………………………………………………............................................................................
@@ -123,28 +122,24 @@ Państwo zamieszkania …………………………………...................
 7. Miejsce pracy albo służby ……………………………………………................................................................................
 8. Stanowisko służbowe 9. Stopień służbowy** …………………....................................... …………………………........................................
 10. Staż pracy lub służby ogółem ................................................... , w tym w Krajowej Administracji Skarbowej ..................................
-11. Uzasadnienie wniosku ze szczególnym uwzględnieniem zasług WZÓR
+11. Uzasadnienie wniosku ze szczególnym uwzględnieniem zasług
 12. Opinia Szefa Krajowej Administracji Skarbowej***
 13. Opinia ministra właściwego do spraw zagranicznych****
 14. Wnoszę o nadanie odznaki …….……………....................... …..………….......................... .……….............
 ( nazwa wnioskodawcy ) ( podpis wnioskodawcy ) ( data )
 15. Przewidywany termin wręczenia odznaki ………………………………………………...........................................................................
-16. Posiadane ordery, odznaczenia lub odznaki nazwa …………………….............................................
-…………………….............................................
-…………………….............................................
-…………………….............................................
-…………………….............................................
-data nadania …………………………..............................
-…………………………..............................
-…………………………..............................
-…………………………..............................
-…………………………..............................
+16. Posiadane ordery, odznaczenia lub odznaki nazwa data nadania ……………………............................................. …………………………..............................
+……………………............................................. …………………………..............................
+……………………............................................. …………………………..............................
+……………………............................................. …………………………..............................
+……………………............................................. …………………………..............................
 17. Decyzja ministra właściwego do spraw finansów publicznych Nadaję/Odmawiam nadania* nazwa stopnia odznaki …………………………………………………………… ………….................. ……………………...............
 ( data ) ( podpis ) Uwagi: * Niepotrzebne skreślić.
 ** W przypadku osób, które nie posiadają stopnia służbowego, należy wpisać: „nie posiada”.
 *** W przypadku gdy z wnioskiem o nadanie odznaki nie występuje Szef Krajowej Administracji Skarbowej.
 **** W przypadku gdy wniosek o nadanie odznaki dotyczy cudzoziemca.
-WZÓR WZÓR ODZNAKI ODZNAKI „ZASŁUŻONY „ZASŁUŻONY DLA DLA KRAJOWEJ KRAJOWEJ ADMINISTRACJI ADMINISTRACJI SKARBOWEJ” SKARBOWEJ” I BARETKI I BARETKI Załącznik nr 3 WZÓR Objaśnienie: Legitymacja jest kartonikiem koloru białego o wymiarach 110 × 150 mm. Na jej czołowej stronie jest tłoczone godło Rzeczypospolitej Polskiej.
-Na podstawie art. 6 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn.
-zm.) Pan(i) został(a) wyróżniony(-na) ODZNAKĄ „ZASŁUŻONY DLA KRAJOWEJ ADMINISTRACJI SKARBOWEJ” RZECZPOSPOLITA POLSKA LEGITYMACJA Nr ……………… 150 mm WZÓR
+
+## Załącznik nr 2 — WZÓR WZÓR ODZNAKI ODZNAKI „ZASŁUŻONY „ZASŁUŻONY DLA DLA KRAJOWEJ KRAJOWEJ ADMINISTRACJI ADMINISTRACJI SKARBOWEJ” SKARBOWEJ” I BARETKI I BARETKI Załącznik nr 3 WZÓR WZÓR RZECZPOSPOLITA POLSKA Na podstawie art. 6 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn.
+
+zm.) Pan(i) LEGITYMACJA został(a) wyróżniony(-na) Nr ……………… ODZNAKĄ „ZASŁUŻONY DLA KRAJOWEJ ADMINISTRACJI SKARBOWEJ” 150 mm Objaśnienie: Legitymacja jest kartonikiem koloru białego o wymiarach 110 × 150 mm. Na jej czołowej stronie jest tłoczone godło Rzeczypospolitej Polskiej.
 

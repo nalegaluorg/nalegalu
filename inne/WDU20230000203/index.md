@@ -8,7 +8,7 @@ pos: 203
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
@@ -24,10 +24,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-13 |
 | Data wydania | 2023-01-30 |
-| Ostatnia zmiana | 2024-10-08 |
+| Ostatnia zmiana | 2026-06-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/203/text.pdf) |
 
 **Art. 1.** Ustawa określa:
+
+- **1)** cel działania Funduszu Transformacji Województwa Śląskiego Spółki Akcyjnej z siedzibą w Katowicach, zwanego dalej „Funduszem”;
+- **2)** instrumenty służące realizacji celu Funduszu;
+- **3)** organizację Funduszu.
 
 **Art. 2.**
 

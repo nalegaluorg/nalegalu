@@ -8,10 +8,10 @@ pos: 2171
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2171 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 4 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2171/text.pdf) |
 
-Poz. 2171 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 4 października 2023 r.
 zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r.
-poz. 1259 i 1273) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U.
+poz. 1259 i 1273) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U.
 poz. 1898) wprowadza się następujące zmiany:
 1) w § 5 w pkt 1 lit. a i b otrzymują brzmienie: „a) Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1) albo
 b) Komisji (UE) 2022/2473 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 82, z późn. zm. ), albo”;

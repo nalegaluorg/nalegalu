@@ -8,10 +8,10 @@ pos: 1098
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 września 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1098 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 4 września 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1098/text.pdf) |
 
-Poz. 1098 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 4 września 2013 r.
-w sprawie reorganizacji Branżowego Ośrodka Badawczo-Rozwojowego Maszyn Elektrycznych „Komel” Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) zarządza się, co następuje: § 1. Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” z siedzibą w Katowicach, numer identyfikacyjny REGON 000038014, numer identyfikacji podatkowej NIP 634-013-31-63 z dniem 1 października 2013 r.
+w sprawie reorganizacji Branżowego Ośrodka Badawczo-Rozwojowego Maszyn Elektrycznych „Komel” Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) zarządza się, co następuje:
+§ 1. Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel” z siedzibą w Katowicach, numer identyfikacyjny REGON 000038014, numer identyfikacji podatkowej NIP 634-013-31-63 z dniem 1 października 2013 r.
 otrzymuje nazwę Instytut Napędów i Maszyn Elektrycznych KOMEL.
 § 2. Nadzór nad Instytutem Napędów i Maszyn Elektrycznych KOMEL, zwanym dalej „Instytutem”, sprawuje minister właściwy do spraw gospodarki.
 § 3. 1. Przedmiotem działania Instytutu jest prowadzenie badań naukowych i prac rozwojowych, przystosowywanie wyników badań naukowych i prac rozwojowych do zastosowania w praktyce oraz wdrażanie wyników badań naukowych i prac rozwojowych w dziedzinie nauk przyrodniczych i technicznych, w obszarach:

@@ -8,10 +8,10 @@ pos: 366
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lutego 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 366 Załącznik do rozporządzenia Ministra Sprawiedliwości z dnia 8 lutego 2018 r. (poz. ) WZÓR EUROPEJSKI NAKAZ DOCHODZENIOWY Niniejszy europejski nakaz dochodzeniowy został wydany przez właściwy organ. Organ wydający go poświadcza, że wydanie niniejszego nakazu jest konieczne i proporcjonalne do celów określonego w nim postępowania oraz że uwzględnia ono prawa podejrzanego lub oskarżonego, a wskazane w nim czynności dochodzeniowe mogłyby zostać zarządzone na takich samych warunkach w podobnej sprawie krajowej. Proszę o przeprowadzenie wskazanej(-nych) poniżej czynności dochodzeniowej(-wych) przy należytym uwzględnieniu poufności dochodzenia oraz o przekazanie materiału dowodowego uzyskanego wskutek wykonania nakazu.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000366) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/366/text.pdf) |
 
-o 2018 . (poz ) EUROPEJSKI NAKAZ DOCHODZENIOWY Niniejszy europejski nakaz dochodzeniowy został wydany przez właściwy organ. Organ wydający go poświadcza, że wydanie niniejszego nakazu jest konieczne i proporcjonalne do celów określonego w nim postępowania oraz że uwzględnia ono prawa podejrzanego lub oskarżonego, a wskazane w nim czynności dochodzeniowe mogłyby zostać zarządzone na takich samych warunkach w podobnej sprawie krajowej. Proszę o przeprowadzenie wskazanej(-nych) poniżej czynności dochodzeniowej(-wych) przy należytym uwzględnieniu poufności dochodzenia oraz o przekazanie materiału dowodowego uzyskanego wskutek wykonania nakazu.
 Państwo wydające: ……..……………………………………………………………………….
 Państwo wykonujące: ...……………………………...…………………………………………
 Terminy wykonania nakazu określa dyrektywa 2014/41/EU. Jeżeli jednak konieczny jest krótszy lub inny określony termin, proszę go podać i wyjaśnić powody: …………………….

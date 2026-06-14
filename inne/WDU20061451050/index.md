@@ -8,7 +8,7 @@ pos: 1050
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz ustawy o podpisie elektronicznym

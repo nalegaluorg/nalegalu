@@ -8,7 +8,7 @@ pos: 717
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o planowaniu i zagospodarowaniu przestrzennym
@@ -76,6 +76,66 @@ Art. 68–82. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** „ładzie przestrzennym” – należy przez to rozumieć takie ukształtowanie przestrzeni, które tworzy harmonijną całość oraz uwzględnia w uporządkowanych relacjach wszelkie uwarunkowania i wymagania funkcjonalne, społeczno-gospodarcze, środowiskowe, kulturowe oraz kompozycyjno-estetyczne;
+- **2)** „zrównoważonym rozwoju” – należy przez to rozumieć rozwój, o którym mowa w art. 3 pkt 50 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176);
+- **3)** „środowisku” – należy przez to rozumieć środowisko, o którym mowa w art. 3 pkt 39 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **4)** „interesie publicznym” – należy przez to rozumieć uogólniony cel dążeń i działań, uwzględniających zobiektywizowane potrzeby ogółu społeczeństwa lub lokalnych społeczności, związanych z zagospodarowaniem przestrzennym;
+- **5)** „inwestycji celu publicznego” – należy przez to rozumieć działania o znaczeniu lokalnym (gminnym) i ponadlokalnym (powiatowym, wojewódzkim i krajowym), a także krajowym (obejmującym również inwestycje międzynarodowe i ponadregionalne), oraz metropolitalnym (obejmującym obszar metropolitalny) bez względu na status podmiotu podejmującego te działania oraz źródła ich finansowania, stanowiące realizację celów, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080);
+- **5a)** „inwestycji uzupełniającej” – należy przez to rozumieć inwestycję w zakresie budowy, zmiany sposobu użytkowania lub przebudowy sieci uzbrojenia terenu w rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019, 1542 i 1792), dróg publicznych, linii kolejowych, obiektów infrastruktury publicznego transportu zbiorowego, obiektów działalności kulturalnej, obiektów opieki nad dziećmi do lat 3, przedszkoli, szkół, placówek wsparcia dziennego, placówek opieki zdrowotnej, obiektów, w których prowadzona jest działalność z zakresu pomocy społecznej, obiektów służących działalności pożytku publicznego, obiektów sportu i rekreacji, obszarów zieleni publicznej, obiektów budowlanych przeznaczonych na działalność handlową lub usługową – o ile służą obsłudze inwestycji głównej;
+- **6)** (uchylony) 6a) (uchylony) 6b) (uchylony)
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** „dobrach kultury współczesnej” – należy przez to rozumieć niebędące zabytkami dobra kultury, takie jak pomniki, miejsca pamięci, budynki, ich wnętrza i detale, zespoły budynków, założenia urbanistyczne i krajobrazowe, będące uznanym dorobkiem współcześnie żyjących pokoleń, jeżeli cechuje je wysoka wartość artystyczna lub historyczna;
+- **11)** „terenie zamkniętym” – należy przez to rozumieć teren zamknięty, o którym mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+- **12)** „działce budowlanej” – należy przez to rozumieć nieruchomość gruntową lub działkę gruntu, której wielkość, cechy geometryczne, dostęp do drogi publicznej oraz wyposażenie w urządzenia infrastruktury technicznej spełniają wymogi realizacji obiektów budowlanych wynikające z odrębnych przepisów i aktów prawa miejscowego;
+- **13)** „uzbrojeniu terenu” – należy przez to rozumieć drogi, obiekty budowlane, urządzenia i przewody, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
+- **14)** „dostępie do drogi publicznej” – należy przez to rozumieć bezpośredni dostęp do tej drogi albo dostęp do niej przez drogę wewnętrzną lub przez ustanowienie odpowiedniej służebności drogowej;
+- **15)** „standardach” – należy przez to rozumieć zbiory i zakresy wymagań dotyczących opracowań i aktów planowania przestrzennego oraz zasady stosowania w nich parametrów dotyczących zagospodarowania przestrzennego;
+- **16)** (uchylony) 16a) „reklamie” – należy przez to rozumieć upowszechnianie w jakiejkolwiek wizualnej formie informacji promującej osoby, przedsiębiorstwa, towary, usługi, przedsięwzięcia lub ruchy społeczne;
+- **16b)** „tablicy reklamowej” – należy przez to rozumieć przedmiot materialny przeznaczony lub służący ekspozycji reklamy wraz z jego elementami konstrukcyjnymi i zamocowaniami, o płaskiej powierzchni służącej ekspozycji reklamy, w szczególności baner reklamowy, reklamę naklejaną na okna budynków i reklamy umieszczane na rusztowaniu, ogrodzeniu lub wyposażeniu placu budowy, z wyłączeniem drobnych przedmiotów codziennego użytku wykorzystywanych zgodnie z ich przeznaczeniem;
+- **16c)** „urządzeniu reklamowym” – należy przez to rozumieć przedmiot materialny przeznaczony lub służący ekspozycji reklamy wraz z jego elementami konstrukcyjnymi i zamocowaniami, inny niż tablica reklamowa, z wyłączeniem drobnych przedmiotów codziennego użytku wykorzystywanych zgodnie z ich przeznaczeniem;
+- **16d)** „szyldzie” – należy przez to rozumieć tablicę reklamową lub urządzenie reklamowe informującą o działalności prowadzonej na nieruchomości, na której ta tablica reklamowa lub urządzenie reklamowe się znajdują;
+- **16e)** „krajobrazie” – należy przez to rozumieć postrzeganą przez ludzi przestrzeń, zawierającą elementy przyrodnicze lub wytwory cywilizacji, ukształtowaną w wyniku działania czynników naturalnych lub działalności człowieka;
+- **16f)** „krajobrazie priorytetowym” – należy przez to rozumieć krajobraz szczególnie cenny dla społeczeństwa ze względu na swoje wartości przyrodnicze, kulturowe, historyczne, architektoniczne, urbanistyczne, ruralistyczne lub estetyczno-widokowe, i jako taki wymagający zachowania lub określenia zasad i warunków jego kształtowania;
+- **17)** „walorach ekonomicznych przestrzeni” – należy przez to rozumieć te cechy przestrzeni, które można określić w kategoriach ekonomicznych;
+- **18)** „wartości nieruchomości” – należy przez to rozumieć wartość rynkową nieruchomości;
+- **19)** „powierzchni sprzedaży” – należy przez to rozumieć tę część ogólnodostępnej powierzchni obiektu handlowego stanowiącego całość techniczno-użytkową, przeznaczonego do sprzedaży detalicznej, w której odbywa się bezpośrednia sprzedaż towarów (bez wliczania do niej powierzchni usług i gastronomii oraz powierzchni pomocniczej, do której zalicza się powierzchnie magazynów, biur, komunikacji, ekspozycji wystawowej itp.);
+- **20)** „uniwersalnym projektowaniu” – należy przez to rozumieć uniwersalne projektowanie, o którym mowa w art. 2 pkt 4 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami;
+- **20a)** (uchylony)
+- **21)** „średniookresowej strategii rozwoju kraju” – należy przez to rozumieć strategię, o której mowa w art. 9 pkt 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846);
+- **22)** „akcie planowania przestrzennego” – należy przez to rozumieć plan ogólny gminy, miejscowy plan zagospodarowania przestrzennego, uchwałę ustalającą zasady i warunki sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane, audyt krajobrazowy oraz plan zagospodarowania przestrzennego województwa;
+- **23)** „obszarze zabudowy śródmiejskiej” – należy przez to rozumieć położony w mieście obszar zwartej, intensywnej zabudowy mieszkaniowej i usługowej;
+- **24)** „nieruchomości o nieuregulowanym stanie prawnym” – należy przez to rozumieć nieruchomość, o której mowa w art. 113 ust. 6 i 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
+- **25)** „obszarze zieleni publicznej” – należy przez to rozumieć ogólnodostępny: o lasach (Dz. U. z 2025 r. poz. 567 i 1795) – będący w posiadaniu jednostki samorządu terytorialnego lub Skarbu Państwa;
+    - **a)** teren o powierzchni niemniejszej niż 0,05 ha pokryty roślinnością, wyposażony w infrastrukturę techniczną i rekreacyjną, w szczególności park, zieleniec, ogród jordanowski lub zabytkowy, z wyłączeniem zieleni towarzyszącej drogom, budynkom, składowiskom, lotniskom, dworcom kolejowym oraz obiektom przemysłowym,
+    - **b)** las, o którym mowa w art. 3 pkt 1 ustawy z dnia 28 września 1991 r.
+
+- **26)** „szkole podstawowej” – należy przez to rozumieć publiczną szkołę podstawową w rozumieniu przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837 oraz z 2026 r. poz. 187 i 203);
+- **27)** „handlu wielkopowierzchniowym” – należy przez to rozumieć handel realizowany w obiekcie handlowym o powierzchni sprzedaży powyżej 2000 m ;
+- **28)** „powierzchni biologicznie czynnej” – należy przez to rozumieć teren zapewniający naturalną wegetację roślin i retencję wód opadowych i roztopowych, teren pokryty ciekami lub zbiornikami wodnymi, z wyłączeniem basenów rekreacyjnych i przemysłowych, a także 50 % powierzchni tarasów i stropodachów oraz innych powierzchni zapewniających naturalną wegetację roślin, o powierzchni niemniejszej niż 10 m ;
+- **29)** „udziale powierzchni biologicznie czynnej” – należy przez to rozumieć stosunek sumy powierzchni biologicznie czynnych znajdujących się na:
+    - **a)** działce budowlanej do powierzchni tej działki budowlanej – w przypadku miejscowych planów zagospodarowania przestrzennego,
+    - **b)** terenie do powierzchni tego terenu – w przypadku decyzji o warunkach zabudowy i zagospodarowania terenu;
+
+- **30)** „wysokości zabudowy” – należy przez to rozumieć różnicę pomiędzy wysokością:
+    - **a)** najwyżej położonego punktu budynku na dachu, ścianie lub attyce, z wyłączeniem komina, nadbudówki mieszczącej maszynownię dźwigu lub innego pomieszczenia technicznego oraz wyjścia z klatki schodowej, a średnią wysokością najniższego i najwyższego poziomu terenu mierzoną na obwodzie rzutu poziomego ścian zewnętrznych budynku,
+    - **b)** najwyżej i najniżej położonego nad poziomem terenu punktu budowli;
+
+- **31)** „intensywności zabudowy” – należy przez to rozumieć stosunek sumy powierzchni wszystkich kondygnacji budynków zlokalizowanych na:
+    - **a)** działce budowlanej do powierzchni tej działki budowlanej – w przypadku miejscowych planów zagospodarowania przestrzennego,
+    - **b)** terenie do powierzchni tego terenu – w przypadku decyzji o warunkach zabudowy i zagospodarowania terenu;
+
+- **32)** „nadziemnej intensywności zabudowy” – należy przez to rozumieć stosunek sumy powierzchni kondygnacji nadziemnych budynków zlokalizowanych na:
+    - **a)** działce budowlanej do powierzchni tej działki budowlanej – w przypadku miejscowych planów zagospodarowania przestrzennego,
+    - **b)** terenie do powierzchni tego terenu – w przypadku decyzji o warunkach zabudowy i zagospodarowania terenu;
+
+- **33)** „powierzchni kondygnacji” – należy przez to rozumieć powierzchnię rzutu poziomego kondygnacji, mierzoną po zewnętrznym obrysie rzutu poziomego ścian zewnętrznych tej kondygnacji, z wyłączeniem powierzchni balkonów, logii i tarasów;
+- **34)** „kondygnacji nadziemnej” – należy przez to rozumieć kondygnację, która nie jest zagłębiona poniżej poziomu przylegającego do niej terenu o więcej niż połowę jej wysokości w świetle;
+- **35)** „udziale powierzchni zabudowy” – należy przez to rozumieć stosunek sumy powierzchni rzutu poziomego budynków, z wyłączeniem części zagłębionych poniżej poziomu terenu, mierzonej po zewnętrznym obrysie rzutu poziomego ścian zewnętrznych tych budynków zlokalizowanych na:
+    - **a)** działce budowlanej do powierzchni tej działki budowlanej – w przypadku miejscowych planów zagospodarowania przestrzennego,
+    - **b)** terenie do powierzchni tego terenu – w przypadku decyzji o warunkach zabudowy i zagospodarowania terenu.
+
 **Art. 3.**
 
 1. Kształtowanie i prowadzenie polityki przestrzennej na terenie gminy, w tym uchwalanie gminnych aktów planowania przestrzennego, z wyjątkiem morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej oraz terenów zamkniętych ustalonych przez organ inny niż minister właściwy do spraw transportu, należy do zadań własnych gminy.
@@ -104,6 +164,13 @@ Art. 68–82. (pominięte)
 4. Przepisów ust. 3 nie stosuje się do terenów zamkniętych ustalanych przez ministra właściwego do spraw transportu.
 
 **Art. 5.** Projekty planów zagospodarowania przestrzennego województwa, planów ogólnych gminy oraz miejscowych planów zagospodarowania przestrzennego sporządzają osoby, które spełniają jeden z warunków:
+
+- **1)** nabyły uprawnienia do projektowania w planowaniu przestrzennym na podstawie ustawy z dnia 12 lipca 1984 r. o planowaniu przestrzennym (Dz. U. z 1989 r. poz. 99, 178 i 192, z 1990 r. poz. 198 i 505 oraz z 1993 r. poz. 212);
+- **2)** nabyły uprawnienia urbanistyczne na podstawie art. 51 ustawy z dnia 7 lipca 1994 r. o zagospodarowaniu przestrzennym (Dz. U. z 1999 r. poz. 139, z późn. zm. );
+- **3)** posiadają kwalifikacje do wykonywania zawodu urbanisty na terytorium Rzeczypospolitej Polskiej uzyskane na podstawie ustawy z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów (Dz. U. z 2013 r. poz. 932 i 1650);
+- **4)** posiadają dyplom ukończenia studiów wyższych w zakresie architektury, urbanistyki lub gospodarki przestrzennej;
+- **5)** posiadają dyplom ukończenia studiów wyższych w zakresie innym niż określony w pkt 4 oraz ukończyły studia podyplomowe w zakresie planowania przestrzennego, urbanistyki lub gospodarki przestrzennej;
+- **6)** są obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, którzy nabyli kwalifikacje zawodowe do projektowania zagospodarowania przestrzeni i zagospodarowania przestrzennego w skali lokalnej i regionalnej odpowiadające wymaganiom określonym w pkt 4 lub 5.
 
 **Art. 6.**
 
@@ -235,6 +302,9 @@ Art. 68–82. (pominięte)
 
 **Art. 8j.** Konsultacje społeczne, o których mowa w art. 8i ust. 1:
 
+- **1)** pkt 1 i 4, prowadzi się przez okres co najmniej 28 dni;
+- **2)** pkt 2 i 3, przeprowadza się niewcześniej niż po upływie 7 dni od dnia rozpoczęcia konsultacji społecznych, i niepóźniej niż na 7 dni przed ostatnim dniem terminu, o którym mowa w pkt 1.
+
 **Art. 8k.**
 
 1. Przed rozpoczęciem konsultacji społecznych sporządza się wykaz wniosków do projektu aktu planowania przestrzennego wraz z propozycją ich rozpatrzenia i uzasadnieniem.
@@ -281,6 +351,33 @@ Art. 68–82. (pominięte)
 7. Plan ogólny jest aktem prawa miejscowego.
 
 **Art. 13b.** Ustalenia planu ogólnego określa się, uwzględniając uwarunkowania rozwoju przestrzennego gminy, w szczególności: <1) politykę przestrzenną gminy określoną w strategii rozwoju gminy lub strategii rozwoju ponadlokalnego;>
+
+- **2)** ustalenia planu zagospodarowania przestrzennego województwa;
+- **3)** znajdujące się na obszarze gminy: 1292 i 1907 oraz z 2025 r. poz. 1168 i 1673), lub ujęte w wojewódzkiej lub gminnej ewidencji zabytków oraz dobra kultury współczesnej,
+    - **a)** formy ochrony przyrody oraz ich otuliny,
+    - **b)** obszary szczególnego zagrożenia powodzią, wały przeciwpowodziowe oraz pasy o szerokości 50 m od stopy wału,
+    - **c)** obszary gruntów zmeliorowanych,
+    - **d)** tereny zagrożone ruchami masowymi ziemi oraz tereny, na których występują te ruchy,
+    - **e)** strefy ochronne ujęć wody,
+    - **f)** obszary ochronne zbiorników wód śródlądowych,
+    - **g)** tereny górnicze i obszary górnicze wraz z filarami ochronnymi,
+    - **h)** udokumentowane złoża kopalin, kompleksy podziemnego składowania dwutlenku węgla i podziemne bezzbiornikowe magazyny substancji,
+    - **i)** obszary uzdrowisk oraz obszary ochrony uzdrowiskowej,
+    - **j)** zabytki objęte formami ochrony, o których mowa w ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz.
+    - **k)** obszary pomników zagłady i ich strefy ochronne,
+    - **l)** tereny zamknięte i ich strefy ochronne,
+    - **m)** obszary ograniczonego użytkowania,
+    - **n)** obszary wymagające przekształceń, rehabilitacji, rekultywacji lub remediacji,
+    - **o)** obszary zdegradowane i obszary rewitalizacji,
+    - **p)** obszary ciche w aglomeracji oraz obszary ciche poza aglomeracją,
+    - **q)** grunty rolne stanowiące użytki rolne klas I–III oraz grunty leśne,
+    - **r)** zakłady o zwiększonym i dużym ryzyku wystąpienia poważnej awarii przemysłowej,
+    - **s)** obszary pasa nadbrzeżnego, w tym w szczególności pasa technicznego;
+
+- **4)** rozmieszczenie istniejących i planowanych obiektów infrastruktury społecznej, transportowej i technicznej wraz z obowiązującymi dla nich ograniczeniami w zagospodarowaniu;
+- **5)** rekomendacje i wnioski zawarte w audycie krajobrazowym oraz krajobrazy priorytetowe;
+- **6)** opracowanie ekofizjograficzne w zakresie wymagań, o których mowa w art. 72 ust. 1–3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **7)** zapotrzebowanie na nową zabudowę mieszkaniową w gminie. Art. 13ba. Ustalenia planu ogólnego określa się, uwzględniając granice obszaru, dla którego uchwala się plan ogólny, oraz uwarunkowania rozwoju przestrzennego gminy, o których mowa w art. 13b, aktualne na dzień niewcześniejszy niż dzień wystąpienia o opinie i uzgodnienia, o których mowa w art. 13i ust. 3 pkt 5.
 
 **Art. 13c.**
 
@@ -537,6 +634,30 @@ Art. 68–82. (pominięte)
 3. (uchylony)
 
 **Art. 17.** Wójt, burmistrz albo prezydent miasta po podjęciu przez radę gminy uchwały o przystąpieniu do sporządzania planu miejscowego kolejno:
+
+- **1)** ogłasza w sposób określony w art. 8h ust. 1 o podjęciu uchwały o przystąpieniu do sporządzania planu miejscowego, określając sposoby i miejsce składania wniosków do projektu planu miejscowego oraz termin ich składania, niekrótszy jednak niż 21 dni od dnia ogłoszenia;
+- **2)** zawiadamia o podjęciu uchwały o przystąpieniu do sporządzania planu miejscowego instytucje i organy właściwe do uzgadniania i opiniowania projektu planu miejscowego, określając termin składania wniosków do projektu planu miejscowego, niekrótszy jednak niż 21 dni od dnia zawiadomienia;
+- **3)** (uchylony)
+- **4)** sporządza projekt planu miejscowego wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana;
+- **5)** (uchylony) <5a) udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem i prognozą oddziaływania na środowisko, o ile jest wymagana;>
+- **6)** występuje o:
+    - **a)** opinie o projekcie planu miejscowego do: – gminnej lub innej właściwej, w rozumieniu art. 8, komisji urbanistyczno-architektonicznej, – wójtów, burmistrzów gmin albo prezydentów miast, graniczących z obszarem objętym planem miejscowym, w zakresie rozmieszczenia inwestycji celu publicznego o znaczeniu lokalnym, – regionalnego dyrektora ochrony środowiska, jeżeli odstąpiono od przeprowadzenia strategicznej oceny oddziaływania na środowisko, – marszałka województwa w zakresie: – – udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innych niż złoża strategiczne, – – udokumentowanych wód podziemnych, – (uchylone) – właściwego organu Państwowej Straży Pożarnej i wojewódzkiego inspektora ochrony środowiska w zakresie lokalizacji nowych zakładów o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej, nowych inwestycji i zagospodarowania terenów w sąsiedztwie zakładów o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej, w przypadku gdy te inwestycje lub sposób zagospodarowania terenów zwiększają ryzyko lub skutki poważnych awarii przemysłowych, oraz zmian, o których mowa w art. 250 ust. 5 i 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w istniejących zakładach o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej oraz właściwego organu Państwowej Straży Pożarnej w zakresie potrzeb dotyczących zapewnienia wody do celów przeciwpożarowych oraz dojazdu dla pojazdów jednostek ochrony przeciwpożarowej, – właściwego państwowego wojewódzkiego inspektora sanitarnego, – starosty, jako właściwego organu ochrony środowiska w zakresie terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy, – operatora systemu przesyłowego elektroenergetycznego w zakresie sposobu zagospodarowania gruntów leżących w odległości niewiększej niż: – – 25 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej wynosi 220 kV, – – 40 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej przekracza 220 kV, lecz jest niewiększe niż 400 kV, – – 70 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej przekracza 400 kV, – – 25 m od osi linii kablowej HVDC 450 kV oraz żyły powrotnej, – operatora systemu przesyłowego gazowego w zakresie sposobu zagospodarowania gruntów leżących w odległości niewiększej niż: – – 65 metrów od osi gazociągu wysokiego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 100 metrów od osi gazociągu wysokiego ciśnienia o średnicy większej niż 500 mm, – operatora systemu dystrybucyjnego gazowego w zakresie terenów leżących w odległości niewiększej niż: – – 65 m od osi gazociągu wysokiego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 100 m od osi gazociągu wysokiego ciśnienia o średnicy większej niż 500 mm, – – 35 m od osi gazociągu podwyższonego średniego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 50 m od osi gazociągu podwyższonego średniego ciśnienia o średnicy większej niż 500 mm, – podmiotu zajmującego się transportem ropy naftowej lub produktów naftowych rurociągami przesyłowymi dalekosiężnymi w zakresie terenów leżących w odległości niewiększej niż 20 m od osi istniejącego rurociągu przesyłowego dalekosiężnego służącego do transportu ropy naftowej lub produktów naftowych, – właściwego zarządcy infrastruktury kolejowej w zakresie dotyczącym sposobu zagospodarowania obszarów kolejowych i terenów przyległych do obszarów kolejowych, – dyrektora zarządu zlewni Państwowego Gospodarstwa Wodnego Wody Polskie w zakresie wpływu ustaleń planu na funkcjonowanie melioracji wodnych oraz
+    - **b)** uzgodnienie projektu planu miejscowego z: – wojewodą, zarządem województwa, zarządem powiatu w zakresie odpowiednich zadań rządowych i samorządowych, – organami właściwymi do uzgadniania projektu planu miejscowego na podstawie przepisów odrębnych, – właściwym zarządcą drogi, jeżeli sposób zagospodarowania gruntów przyległych do pasa drogowego lub zmiana tego sposobu mogą mieć wpływ na ruch drogowy lub samą drogę, – właściwymi organami wojskowymi, ochrony granic oraz bezpieczeństwa państwa, – dyrektorem właściwego urzędu morskiego w zakresie zagospodarowania pasa technicznego, pasa ochronnego oraz morskich portów i przystani, – właściwym organem nadzoru górniczego w zakresie zagospodarowania terenów górniczych, – ministrem właściwym do spraw zdrowia w zakresie zagospodarowania obszarów ochrony uzdrowiskowej, – właściwym wojewódzkim konserwatorem zabytków w zakresie ochrony zabytków i opieki nad zabytkami, – wojewodą, w zakresie planu miejscowego zmieniającego plan miejscowy, o którym mowa w art. 37na ust. 1, – zarządem województwa w zakresie uwzględnienia rekomendacji i wniosków zawartych w audycie krajobrazowym, – dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w zakresie dotyczącym zabudowy i zagospodarowania terenu położonego na obszarach szczególnego zagrożenia powodzią, – Prezesem Urzędu Transportu Kolejowego, jeżeli sposób zagospodarowania linii kolejowej o znaczeniu państwowym oraz gruntów w jej sąsiedztwie lub zmiana tego sposobu mogą mieć wpływ na bezpieczeństwo ruchu kolejowego lub rozwój sieci kolejowych, – podmiotem zarządzającym w zakresie zagospodarowania właściwego portu lub przystani morskiej oraz – ministrem właściwym do spraw środowiska w zakresie udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, i uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 tej ustawy, a także w zakresie kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji, oraz – (uchylone) – Spółką Celową w rozumieniu art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym w zakresie dotyczącym lokalizacji Inwestycji i Inwestycji Towarzyszących w rozumieniu art. 2 pkt 3 i 4 tej ustawy oraz obszaru otoczenia Centralnego Portu Komunikacyjnego, o którym mowa w tej ustawie, oraz
+    - **c)** zgody na zmianę przeznaczenia gruntów rolnych i leśnych na cele nierolnicze i nieleśne, jeżeli wymagają tego przepisy odrębne;
+
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** wprowadza zmiany do projektu planu miejscowego wynikające z:
+    - **a)** uzyskanych opinii,
+    - **b)** dokonanych uzgodnień;
+
+- **10)** (uchylony) <10a) udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i wykazem wniosków, o którym mowa w art. 8k ust. 1;>
+- **11)** ogłasza, w sposób określony w art. 8h ust. 1, o rozpoczęciu konsultacji społecznych;
+- **12)** (uchylony)
+- **13)** przeprowadza konsultacje społeczne, a następnie wprowadza zmiany do projektu planu miejscowego wynikające z tych konsultacji;
+- **13a)** w niezbędnym zakresie ponawia czynności, o których mowa w pkt 5a, pkt 6 lit. b i pkt 9 lit. b;
+- **13b)** jeżeli w wyniku czynności określonych w pkt 13 lub 13a w projekcie planu miejscowego wprowadzono zmiany w zakresie dotyczącym lokalizacji przedsięwzięć mogących znacząco oddziaływać na środowisko, ponawia czynności, o których mowa w pkt 10a–13, w zakresie tych zmian; <13c) udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;>
+- **14)** przedstawia radzie gminy projekt planu miejscowego wraz z raportem, o którym mowa w art. 8k ust. 2.
 
 **Art. 17a.** (uchylony)
 
@@ -858,6 +979,9 @@ Art. 68–82. (pominięte)
 
 **Art. 37c.** Przepisów dotyczących reklam nie stosuje się do upowszechniania informacji wyłącznie:
 
+- **1)** trwale upamiętniającej osoby, instytucje lub wydarzenia;
+- **2)** o charakterze religijnym, związanym z działalnością kościołów lub innych związków wyznaniowych, jeżeli tablica reklamowa lub urządzenie reklamowe sytuowane są w granicach terenów użytkowanych jako miejsca kultu i działalności religijnej oraz cmentarzy.
+
 **Art. 37d.**
 
 1. Podmiot, który umieścił tablicę reklamową lub urządzenie reklamowe niezgodne z przepisami uchwały, o której mowa w art. 37a ust. 1, podlega karze pieniężnej.
@@ -886,6 +1010,79 @@ Art. 68–82. (pominięte)
 11. Kara pieniężna stanowi dochód gminy.
 
 **Art. 37e.** W sprawach nieuregulowanych, dotyczących kar pieniężnych, o których mowa w art. 37d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują wójtowi (burmistrzowi, prezydentowi miasta). Art. 37ea. 1. Na wniosek inwestora złożony za pośrednictwem wójta, burmistrza albo prezydenta miasta rada gminy może uchwalić zintegrowany plan inwestycyjny. 2. Zintegrowany plan inwestycyjny obejmuje obszar inwestycji głównej oraz inwestycji uzupełniającej. 3. Zintegrowany plan inwestycyjny jest szczególną formą planu miejscowego. 4. Wejście w życie zintegrowanego planu inwestycyjnego powoduje utratę mocy obowiązującej planów miejscowych lub ich części odnoszących się do terenu objętego tym zintegrowanym planem inwestycyjnym. Art. 37eb. 1. Do wniosku, o którym mowa w art. 37ea ust. 1, inwestor dołącza projekt zintegrowanego planu inwestycyjnego. 2. W przypadku gdy do wniosku, o którym mowa w art. 37ea ust. 1, nie dołączono projektu zintegrowanego planu inwestycyjnego albo nie spełnia on wymagań określonych w art. 15 ust. 1–3, art. 16 ust. 1 oraz przepisach wydanych na podstawie art. 16 ust. 2 lub nie zawiera załącznika, o którym mowa w art. 67a ust. 5, wójt, burmistrz albo prezydent miasta wzywa do dołączenia projektu zintegrowanego planu inwestycyjnego spełniającego te wymagania, wskazując termin niedłuższy niż 14 dni, pouczając jednocześnie, że niedołączenie tego projektu spełniającego te wymagania spowoduje pozostawienie wniosku bez rozpoznania. 3. Jeżeli inwestor nie usunie braków, o których mowa w ust. 2, w terminie, wójt, burmistrz albo prezydent miasta wydaje postanowienie o pozostawieniu wniosku, o którym mowa w art. 37ea ust. 1, bez rozpoznania, na które służy zażalenie do wojewody. Do postanowienia stosuje się przepisy Kodeksu postępowania administracyjnego. 4. Wniosek, o którym mowa w art. 37ea ust. 1, wójt, burmistrz albo prezydent miasta, w terminie 3 dni roboczych od dnia jego otrzymania, a w przypadku, o którym mowa w ust. 2, od dnia usunięcia braków, o których mowa w ust. 2: <1) udostępnia w Rejestrze,>
+
+- **2)** przekazuje radzie gminy – ogłaszając o tych czynnościach, w sposób określony w art. 8h ust. 1 pkt 2–4. Art. 37ec. 1. Rada gminy może wyrazić zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego.
+
+2. Jeżeli rada gminy wyraziła zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego, wójt, burmistrz albo prezydent miasta, kolejno:
+
+- **1)** prowadzi z inwestorem, a w przypadku, o którym mowa w art. 37ed ust. 5, również z osobą trzecią będącą właścicielem lub użytkownikiem wieczystym nieruchomości, na której ma być realizowana inwestycja uzupełniająca, negocjacje w zakresie treści projektu umowy urbanistycznej oraz projektu zintegrowanego planu inwestycyjnego;
+- **2)** wprowadza zmiany do projektu zintegrowanego planu inwestycyjnego, wraz z uzasadnieniem, sporządza prognozę oddziaływania na środowisko, o ile jest wymagana, oraz projekt umowy urbanistycznej, uwzględniając wynik negocjacji, o których mowa w pkt 1; <3) udostępnia w Rejestrze projekt zintegrowanego planu inwestycyjnego wraz z uzasadnieniem, projektem umowy urbanistycznej i prognozą oddziaływania na środowisko, o ile jest wymagana;>
+- **4)** jednocześnie:
+    - **a)** występuje o opinie, o których mowa w art. 17 pkt 6 lit. a,
+    - **b)** występuje o uzgodnienia, o których mowa w art. 17 pkt 6 lit. b,
+    - **c)** występuje o zgody na zmianę przeznaczenia gruntów rolnych i leśnych na cele nierolnicze i nieleśne, jeżeli wymagają tego przepisy odrębne,
+    - **d)** ogłasza, w sposób określony w art. 8h ust. 1, o rozpoczęciu konsultacji społecznych i przeprowadza konsultacje społeczne;
+
+- **5)** w terminie 14 dni od dnia zakończenia opiniowania, uzgadniania i konsultacji społecznych, o których mowa w pkt 4 lit. a, b i d, wprowadza zmiany do projektu zintegrowanego planu inwestycyjnego wynikające z:
+    - **a)** uzyskanych opinii,
+    - **b)** dokonanych uzgodnień,
+    - **c)** przeprowadzonych konsultacji społecznych;
+
+- **6)** w niezbędnym zakresie ponawia czynności, o których mowa w pkt 1, pkt 4 lit. b, i pkt 5 lit. b, a jeżeli wprowadzone zgodnie z pkt 5 zmiany dotyczą lokalizacji przedsięwzięcia mogącego znacząco oddziaływać na środowisko, ponawia także czynności, o których mowa w pkt 4 lit. d i pkt 5 lit. c;
+- **7)** zawiera w imieniu gminy umowę urbanistyczną; <8) udostępnia w Rejestrze projekt zintegrowanego planu inwestycyjnego wraz z uzasadnieniem, umową urbanistyczną, prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;>
+- **9)** przedstawia radzie gminy projekt zintegrowanego planu inwestycyjnego stanowiący załącznik do umowy, o której mowa w pkt 7, wraz z raportem o którym mowa w art. 8k ust. 2.
+
+3. Do czasu zawarcia umowy urbanistycznej wójt, burmistrz albo prezydent miasta może odstąpić od negocjacji, informując o tym radę gminy.
+
+4. Termin na dokonanie uzgodnień i przedstawienie opinii, o których mowa w art. 17 pkt 6 lit. a i b, oraz uzgodnień w ramach czynności ponawianych, o których mowa w ust. 2 pkt 6, wynosi 14 dni od dnia wystąpienia o uzgodnienie albo przedstawienie opinii. Przepisu art. 25 ust. 1a nie stosuje się.
+
+5. Dopuszcza się ograniczenie form konsultacji społecznych do zbierania uwag oraz prowadzenie konsultacji społecznych przez okres co najmniej 21 dni.
+
+6. W przypadku gdy zintegrowany plan inwestycyjny dotyczy wyłącznie lokalizacji instalacji odnawialnych źródeł energii innych niż elektrownie wiatrowe w rozumieniu ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych oraz nie dotyczy warunków określonych w art. 27b ust. 2:
+
+- **1)** wójt, burmistrz albo prezydent miasta wykonuje czynności określone w ust. 1 bez wyrażenia przez radę gminy zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego;
+- **2)** konsultacje społeczne, o których mowa w art. 8i ust. 1: Art. 37ed. 1. Przez umowę urbanistyczną inwestor zobowiązuje się na rzecz gminy do realizacji inwestycji uzupełniającej.
+    - **a)** pkt 1 i 4, prowadzi się przez okres 14 dni,
+    - **b)** pkt 2 i 3, przeprowadza się niewcześniej niż po upływie 3 dni od dnia rozpoczęcia konsultacji społecznych i niepóźniej niż 3 dni przed ostatnim dniem okresu, o którym mowa w lit. a.
+
+2. Przez umowę urbanistyczną inwestor może zobowiązać się na rzecz gminy, w szczególności do:
+
+- **1)** przekazania nieruchomości stanowiących część przedmiotu inwestycji głównej;
+- **2)** pokrycia całości lub części kosztów realizacji inwestycji uzupełniającej, w tym do zapłaty ceny za nieruchomość, o której mowa w ust. 5;
+- **3)** pokrycia całości lub części poniesionych przez gminę kosztów uchwalenia zintegrowanego planu inwestycyjnego, w tym kosztów realizacji roszczeń, o których mowa w art. 36 ust. 1 i 3.
+
+3. Przez umowę urbanistyczną gmina może:
+
+- **1)** zobowiązać się w szczególności do realizacji inwestycji uzupełniającej, jeżeli wchodzi ona w zakres zadań własnych gminy;
+- **2)** zwolnić w całości lub w części inwestora z opłaty, o której mowa w art. 36 ust. 4.
+
+4. Jeżeli inwestor jest właścicielem lub użytkownikiem wieczystym nieruchomości, na której ma być realizowana inwestycja uzupełniająca, zobowiązuje się przez umowę urbanistyczną do zbycia tej nieruchomości gminie.
+
+5. Jeżeli osoba trzecia jest właścicielem lub użytkownikiem wieczystym nieruchomości, na której ma być realizowana inwestycja uzupełniająca, może w szczególności zobowiązać się w umowie, o której mowa w ust. 1, do zbycia tej nieruchomości gminie.
+
+6. Jeżeli umowa urbanistyczna zobowiązuje do zbycia rzeczy, w umowie urbanistycznej określa się zasady tego zbycia.
+
+7. Załącznikiem do umowy urbanistycznej jest projekt zintegrowanego planu inwestycyjnego.
+
+8. Skutki prawne umowy urbanistycznej powstają z dniem wejścia w życie zintegrowanego planu inwestycyjnego w brzmieniu określonym w załączniku do umowy urbanistycznej.
+
+9. Umowę urbanistyczną zawiera się w formie aktu notarialnego.
+
+10. Do umowy urbanistycznej nie stosuje się przepisu art. 18 ust. 2 pkt 9 lit. a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym oraz uchwał dotyczących zasad wydanych na podstawie tego przepisu.
+
+11. Jeżeli zintegrowany plan inwestycyjny zostanie uchylony, zmieniony lub zostanie stwierdzona jego nieważność przed upływem 5 lat od dnia jego wejścia w życie, strony umowy urbanistycznej mogą w terminie 6 miesięcy od dnia uchylenia, zmiany lub stwierdzenia nieważności zintegrowanego planu inwestycyjnego odstąpić od umowy urbanistycznej.
+
+12. Rada gminy może ustalić w formie uchwały, stanowiącej akt prawa miejscowego, zasady określania postanowień umów urbanistycznych.
+
+13. Uchwała, o której mowa w ust. 12, dotyczy wszystkich umów urbanistycznych zawieranych przez gminę.
+
+14. W uchwale, o której mowa w ust. 12, dopuszcza się ustalenie różnych zasad określania postanowień umów urbanistycznych, biorąc pod uwagę w szczególności rodzaj lub parametry inwestycji głównej. Art. 37ee. W negocjacjach poprzedzających zawarcie umowy urbanistycznej bierze udział osoba wyznaczona przez radę gminy, a w przypadku gdy rada gminy nie wyznaczy takiej osoby – przewodniczący rady gminy. Art. 37ef. 1. Rada gminy nie może wnieść poprawek do projektu zintegrowanego planu inwestycyjnego.
+
+2. W przypadku odrzucenia zintegrowanego planu inwestycyjnego rada gminy może podjąć uchwałę o zwróceniu zintegrowanego planu inwestycyjnego do wójta, burmistrza albo prezydenta miasta wraz z propozycjami poprawek do umowy urbanistycznej, w tym do załącznika określającego projekt zintegrowanego planu inwestycyjnego.
+
+3. Po otrzymaniu uchwały, o której mowa w ust. 2, wójt, burmistrz albo prezydent miasta ponawia czynności, o których mowa w art. 37ec ust. 2 pkt 1–3, pkt 4 lit. b, pkt 5 lit. b i pkt 7–9. Art. 37eg. 1. Stronami umowy urbanistycznej może być kilku inwestorów, którzy złożyli jeden wniosek o uchwalenie zintegrowanego planu inwestycyjnego.
+
+2. Wójt, burmistrz albo prezydent miasta może prowadzić jedno postępowanie w sprawie uchwalenia zintegrowanego planu inwestycyjnego na podstawie kilku oddzielnych wniosków. W takim przypadku jest zawierana jedna umowa urbanistyczna oraz jest podejmowana jedna uchwała w przedmiocie zintegrowanego planu inwestycyjnego.
 
 **Art. 37f.**
 
@@ -981,6 +1178,9 @@ Art. 68–82. (pominięte)
 6. Do scalenia i podziału nieruchomości, w zakresie nieuregulowanym w ust. 1– 5, stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 37m.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, wymagany:
+
+- **1)** zakres projektu miejscowego planu rewitalizacji w części tekstowej w zakresie ustaleń, o których mowa w art. 37g ust. 2, uwzględniając w szczególności potrzebę zapewnienia czytelności i jednolitego rozumienia stosowanych pojęć;
+- **2)** zakres i formę wizualizacji ustaleń miejscowego planu rewitalizacji, o której mowa w art. 37g ust. 4, uwzględniając w szczególności potrzebę zapewnienia kompletności, czytelności i powszechnej dostępności wizualizacji.
 
 **Art. 37n.**
 
@@ -1678,6 +1878,21 @@ Art. 68–82. (pominięte)
 
 **Art. 67b.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób tworzenia oraz prowadzenia, w tym aktualizacji i udostępniania, zbiorów uwzględniający zakres informacyjny, strukturę, format i rozdzielczość przestrzenną danych gromadzonych w zbiorach oraz zakres informacyjny i strukturę metadanych infrastruktury informacji przestrzennej w zakresie zagospodarowania przestrzennego, mając na uwadze zapewnienie spójności i aktualności danych dotyczących aktów, o których mowa w art. 67a ust. 2, oraz zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej. [Art. 67c. 1. Organy, o których mowa w art. 67a ust. 1, tworzą i aktualizują dane przestrzenne dla aktów, o których mowa w art. 67a ust. 2, w toku prowadzonej procedury planistycznej, przy czym dane, o których mowa w art. 67a ust. 3 pkt 1 i 2, tworzone są najpóźniej w terminie 30 dni od dnia podjęcia uchwały w sprawie przystąpienia do sporządzenia danego aktu albo jego zmiany. 2. Zbiór podlega aktualizacji i udostępnianiu w ramach infrastruktury informacji przestrzennej najpóźniej w terminie 30 dni od dnia:
 
+- **1)** ogłoszenia w wojewódzkim dzienniku urzędowym aktu albo jego zmiany;
+- **2)** uchwalenia aktu albo jego zmiany – w przypadku aktów niepodlegających ogłoszeniu w wojewódzkim dzienniku urzędowym;
+- **3)** wydania rozstrzygnięcia nadzorczego wojewody;
+- **4)** wydania wyroku sądu administracyjnego dotyczącego aktu;
+- **5)** przekazania danych, o którym mowa w ust. 4 i 5.
+
+3. Organy, o których mowa w art. 67a ust. 1, udostępniają nieodpłatnie dane przestrzenne tworzone dla aktów, o których mowa w art. 67a ust. 2, za pośrednictwem usług, o których mowa w art. 9 ust. 1 pkt 1–3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej.
+
+4. W przypadku zmiany granic gmin polegającej na wyłączeniu części obszaru gminy i jego włączeniu do sąsiedniej gminy, gmina, której obszar wyłączono, przekazuje gminie, do której obszar włączono, najpóźniej w terminie 14 dni od dnia zmiany granic, kopie danych przestrzennych tworzonych dla aktów, o których mowa w art. 67a ust. 2, dotyczących tego obszaru.
+
+5. W przypadku wydania zarządzenia zastępczego w sprawie:
+
+- **1)** przyjęcia miejscowego planu zagospodarowania przestrzennego albo jego zmiany dla obszaru, którego dotyczy bezczynność gminy, w zakresie koniecznym dla lokalizacji inwestycji celu publicznego,
+- **2)** wprowadzenia obszaru udokumentowanego złoża kopaliny albo obszaru udokumentowanego kompleksu podziemnego składowania dwutlenku węgla do studium – dane przestrzenne dla tych aktów tworzy wojewoda, a następnie przekazuje je organowi właściwemu najpóźniej w terminie 14 dni od dnia wydania zarządzenia.] <Rozdział 5b Rejestr Urbanistyczny
+
 **Art. 67d.**
 
 1. W Rejestrze gromadzi się informacje i dane z zakresu planowania i zagospodarowania przestrzennego, w tym dane przestrzenne.
@@ -1748,6 +1963,10 @@ Art. 68–82. (pominięte)
 3. Organy, o których mowa w ust. 1 i 2, mogą upoważnić do wprowadzania do Rejestru informacji lub danych podmioty, które wytworzyły te informacje lub dane.
 
 **Art. 67j.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe rozwiązania organizacyjno-techniczne Rejestru,
+- **2)** szczegółowy zakres informacji i danych gromadzonych w Rejestrze,
+- **3)** tryb tworzenia, aktualizacji oraz udostępniania informacji i danych, o których mowa w art. 67d ust. 1 – mając na względzie zapewnienie jednolitości, przejrzystości i kompletności informacji i danych gromadzonych i udostępnianych w Rejestrze, a także zapewnienie interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej oraz w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.>
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
 

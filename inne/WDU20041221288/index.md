@@ -8,7 +8,7 @@ pos: 1288
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 11 maja 2004 r.

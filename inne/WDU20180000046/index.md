@@ -8,10 +8,10 @@ pos: 46
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 stycznia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 46 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 5 stycznia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/46/text.pdf) |
 
-Poz. 46 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 5 stycznia 2018 r.
-w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Beaty Kempy Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje: § 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Beaty Kempy Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
+§ 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 § 2. Do zakresu działania ministra należy w szczególności:
 1) analiza potrzeb i przygotowywanie propozycji kierunków działań w zakresie pomocy humanitarnej;
 2) promowanie, upowszechnianie i propagowanie problematyki pomocy humanitarnej;

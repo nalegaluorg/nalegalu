@@ -8,7 +8,7 @@ pos: 1355
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz niektórych innych ustaw
@@ -29,7 +29,226 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 4:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Kadra zawodowa Sił Zbrojnych dzieli się na:
+
+- **1)** korpus oficerów zawodowych, do którego zalicza się:
+    - **a)** oficerów młodszych,
+    - **b)** oficerów starszych,
+    - **c)** generałów i admirałów;
+
+- **2)** korpus podoficerów zawodowych, do którego zalicza się:
+    - **a)** podoficerów młodszych,
+    - **b)** podoficerów,
+    - **c)** podoficerów starszych;
+
+- **3)** korpus szeregowych zawodowych.”,
+    - **b)** uchyla się ust. 4;
+
+- **2)** w art. 5:
+    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Od orzeczenia wojskowej komisji lekarskiej przysługuje odwołanie do wojskowej komisji lekarskiej wyższego stopnia.
+
+1b. Członek składu orzekającego wojskowej komisji lekarskiej może zgłosić na piśmie sprzeciw wobec projektu orzeczenia wojskowej komisji lekarskiej.”,
+
+- **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przepisu ust. 3 pkt 1 nie stosuje się do żołnierzy – kobiet ciężarnych.”,
+- **c)** w ust. 8: – pkt 1–3 otrzymują brzmienie: „1) wykaz chorób i ułomności uwzględniany przy orzekaniu o zdolności do zawodowej służby wojskowej oraz do służby poza granicami państwa wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej;
+- **2)** wykaz chorób i ułomności uwzględniany przy orzekaniu o zdolności do pełnienia służby w poszczególnych rodzajach Sił Zbrojnych i rodzajach wojsk oraz na poszczególnych stanowiskach służbowych wymagających szczególnych predyspozycji zdrowotnych wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej;
+- **3)** wykaz chorób i ułomności uwzględniany przy orzekaniu o ograniczonej zdolności do pełnienia zawodowej służby wojskowej w poszczególnych rodzajach Sił Zbrojnych i rodzajach wojsk oraz na określonych stanowiskach służbowych wraz ze wskazaniem kategorii zdolności do zawodowej służby wojskowej;”, – po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) tryb rozpatrywania sprzeciwów wobec projektów orzeczeń wojskowych komisji lekarskich oraz uchylania orzeczeń w trybie nadzoru;”, – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu: „10) wzór skierowania do wojskowych komisji lekarskich;
+- **11)** wzory orzeczeń wydawanych przez wojskowe komisje lekarskie.”,
+    - **d)** ust. 9 otrzymuje brzmienie: „9. Wydając rozporządzenie, o którym mowa w ust. 8, Minister Obrony Narodowej kierować się będzie koniecznością zapewnienia ochrony danych osobowych w procesie orzeczniczym, a także tym, aby do zawodowej służby wojskowej były powoływane i pełniły ją osoby posiadające stan zdrowia odpowiadający warunkom zawodowej służby wojskowej uzależnionym od rodzaju Sił Zbrojnych i rodzaju wojsk oraz od poszczególnych stanowisk służbowych.”;
+
+- **3)** w art. 5a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Osobę, która zgłosiła chęć pełnienia zawodowej służby wojskowej, wojskowy komendant uzupełnień kieruje do wojskowej pracowni psychologicznej w celu przeprowadzenia badań psychologicznych oraz wydania orzeczenia psychologicznego o istnieniu lub braku przeciwwskazań do pełnienia tej służby.”,
+    - **b)** ust. 7 otrzymuje brzmienie: „7. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** tryb kierowania do wojskowych pracowni psychologicznych oraz sposób i tryb wydawania orzeczeń psychologicznych,
+- **2)** zakres badań psychologicznych, którym jest poddawana osoba, która zgłosiła chęć pełnienia zawodowej służby wojskowej,
+- **3)** tryb odwoływania się od orzeczeń psychologicznych,
+- **4)** sposób postępowania z dokumentacją związaną z badaniami psychologicznymi oraz wzory stosowanych dokumentów i orzeczeń – mając na uwadze właściwość terytorialną wojskowych pracowni psychologicznych oraz ich właściwość do wykonywania badań i wydawania orzeczeń w trybie odwoławczym, a także konieczność zawarcia we wzorze orzeczenia informacji o możliwości i trybie odwołania od orzeczenia.”;
+- **4)** w art. 6:
+    - **a)** w ust. 1: – w pkt 3 lit. b i c otrzymują brzmienie: „b) stopniem etatowym, dla którego określono jeden lub kilka stopni wojskowych,
+    - **c)** grupą lub grupami uposażenia,”, – pkt 4 otrzymuje brzmienie: „4) stopień etatowy – dla danego stanowiska służbowego:
+    - **a)** szeregowych zawodowych – określone dwa stopnie wojskowe,
+    - **b)** podoficerów młodszych, podoficerów i podoficerów starszych – określone po trzy stopnie wojskowe,
+    - **c)** oficerów zawodowych – określony stopień wojskowy, a w odniesieniu do oficerów młodszych – określone dwa stopnie wojskowe;”, – pkt 6 otrzymuje brzmienie: „6) równorzędne stanowisko służbowe – stanowisko służbowe, którego stopień etatowy jest równy stopniowi etatowemu poprzednio zajmowanego stanowiska służbowego, a w przypadku oficerów młodszych – stopniowi wojskowemu posiadanemu przez oficera;”, – uchyla się pkt 11a, – pkt 12 otrzymuje brzmienie: „12) kadencja na stanowisku służbowym – okres pełnienia służby na stanowisku służbowym przez oficera zawodowego w służbie stałej;”,
+    - **b)** w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) dowódcy jednostki wojskowej – należy przez to rozumieć osobę kierującą lub dowodzącą jednostką wojskową, w której żołnierz zawodowy zajmuje stanowisko służbowe lub do której został skierowany w ramach pełnienia zawodowej służby wojskowej w rezerwie kadrowej albo w dyspozycji.”;
+
+- **5)** po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. 1. Roszczenia wynikające z przepisów ustawy przedawniają się z upływem trzech lat od dnia, w którym stały się wymagalne.
+
+2. Przerwanie biegu przedawnienia roszczenia następuje na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm. ).”;
+
+- **6)** w art. 9 ust. 6 otrzymuje brzmienie: „6. Termin rozpoczęcia pełnienia zawodowej służby wojskowej oraz stanowisko służbowe, na jakim będzie pełniona ta służba, określa rozkaz personalny, a w przypadku żołnierzy kontraktowych – kontrakt, z zastrzeżeniem art. 14 ust. 3 i 3a.”;
+- **7)** w art. 10 zdanie wstępne otrzymuje brzmienie: „Rozkazy personalne o powołaniu do zawodowej służby wojskowej wydają, w odniesieniu do stanowisk służbowych:”;
+- **8)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Do służby stałej w korpusie oficerów zawodowych powołuje się żołnierza służby kandydackiej po ukończeniu studiów w uczelni wojskowej oraz osobę, o której mowa w art. 124a ust. 1 pkt 2, mianowanych na stopień wojskowy podporucznika (podporucznika marynarki), po uzyskaniu przez niego tytułu zawodowego magistra lub równorzędnego.
+
+2. Do służby stałej można powołać:
+
+- **1)** w korpusie oficerów zawodowych:
+    - **a)** oficera służby kontraktowej, który posiada tytuł zawodowy magistra lub równorzędny, stopień wojskowy równy lub bezpośrednio niższy od stopnia etatowego stanowiska służbowego, na jakie ma być wyznaczony, a w przypadku gdy stanowisko etatowe jest określone dwoma stopniami wojskowymi posiada stopień wojskowy równy lub bezpośrednio niższy od stopnia wojskowego, do którego ma być zaszeregowany po powołaniu do służby stałej, oraz posiada co najmniej dobrą ogólną ocenę w ostatniej opinii służbowej,
+    - **b)** oficera rezerwy, który spełnia łącznie następujące warunki: – posiada tytuł zawodowy magistra lub równorzędny, – posiada stopień wojskowy równy lub bezpośrednio niższy od stopnia etatowego stanowiska służbowego, na jakie ma być wyznaczony, a w przypadku gdy stanowisko etatowe jest określone dwoma stopniami wojskowymi posiada stopień wojskowy równy lub bezpośrednio niższy od stopnia wojskowego, do którego ma być zaszeregowany po powołaniu do zawodowej służby wojskowej, – pełnił przed zwolnieniem ze służby i przeniesieniem do rezerwy stałą lub kontraktową zawodową służbę wojskową;
+
+- **2)** w korpusie podoficerów zawodowych:
+    - **a)** podoficera służby kontraktowej, który posiada stopień wojskowy równy lub bezpośrednio niższy od stopnia wojskowego stanowiska etatowego, do którego ma być zaszeregowany po powołaniu do służby stałej, oraz co najmniej dobrą ogólną ocenę w ostatniej opinii służbowej,
+    - **b)** podoficera rezerwy, który spełnia łącznie następujące warunki: – posiada wykształcenie średnie, – posiada stopień wojskowy równy lub bezpośrednio niższy od stopnia wojskowego stanowiska etatowego, do którego ma być zaszeregowany po powołaniu do zawodowej służby wojskowej, – pełnił przed zwolnieniem ze służby i przeniesieniem do rezerwy stałą lub kontraktową zawodową służbę wojskową.”;
+
+- **9)** w art. 12:
+    - **a)** w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) w korpusie oficerów zawodowych – żołnierza służby kandydackiej, posiadającego tytuł zawodowy magistra lub równorzędny, mianowanego na stopień wojskowy podporucznika (podporucznika marynarki), po ukończeniu szkolenia w uczelni wojskowej;
+
+- **2)** w korpusie podoficerów zawodowych – żołnierza służby kandydackiej, posiadającego wykształcenie średnie, mianowanego na stopień wojskowy kaprala (mata), po ukończeniu przez niego nauki w szkole podoficerskiej;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Do służby kontraktowej można powołać:
+
+- **1)** w korpusie oficerów zawodowych – oficera rezerwy, który posiada tytuł zawodowy magistra lub równorzędny oraz stopień wojskowy równy lub bezpośrednio niższy od stopnia etatowego stanowiska służbowego, na jakie ma być wyznaczony, a w przypadku gdy stanowisko etatowe jest określone dwoma stopniami wojskowymi posiada stopień wojskowy równy lub bezpośrednio niższy od stopnia wojskowego, do którego ma być zaszeregowany po powołaniu do zawodowej służby wojskowej;
+- **2)** w korpusie podoficerów zawodowych – podoficera rezerwy, który posiada wykształcenie średnie oraz stopień wojskowy równy lub bezpośrednio niższy od stopnia wojskowego stanowiska etatowego, do którego ma być zaszeregowany po powołaniu do zawodowej służby wojskowej;
+- **3)** w korpusie szeregowych zawodowych – żołnierza rezerwy, który odbył czynną służbę wojskową oraz ukończył co najmniej gimnazjum i posiada przygotowanie zawodowe lub kwalifikacje albo umiejętności przydatne w korpusie osobowym, w jakim ma pełnić zawodową służbę wojskową, oraz stopień wojskowy szeregowego (marynarza) lub starszego szeregowego (starszego marynarza).”;
+- **10)** w art. 13 ust. 2 i 3 otrzymują brzmienie: „2. Powołanie żołnierza do służby kontraktowej może nastąpić jednorazowo na okres od dwóch do sześciu lat.
+
+3. Pierwszy kontrakt na pełnienie służby kontraktowej zawiera się na okres dwóch lat.”;
+
+- **11)** w art. 14 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Zgoda, o której mowa w ust. 3, nie jest wymagana, gdy wyznaczenie żołnierza służby kontraktowej na inne niż określone w kontrakcie stanowisko służbowe następuje z przyczyn, o których mowa w art. 45 ust. 1 pkt 1, 2 i
+
+4. ”;
+
+- **12)** w art. 15 dodaje się ust. 3 w brzmieniu: „3. Warunkiem zawarcia kolejnego kontraktu z żołnierzem jest posiadanie przez niego ogólnej oceny co najmniej dobrej w ostatniej opinii służbowej.”;
+- **13)** w art. 17a ust. 1 otrzymuje brzmienie: „1. Osobę posiadającą stopień policyjny, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego lub Urzędu Ochrony Państwa, jeżeli przemawiają za tym potrzeby Sił Zbrojnych, można powołać do służby kontraktowej, a w szczególnie uzasadnionych przypadkach, za zgodą Ministra Obrony Narodowej, do służby stałej, na stanowisko służbowe zaszeregowane do stopnia wojskowego równorzędnego ze stopniem posiadanym w odpowiedniej służbie.”;
+- **14)** w art. 19 uchyla się ust. 2;
+- **15)** w art. 20:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Żołnierz zawodowy zwolniony z dotychczas zajmowanego stanowiska służbowego może być przeniesiony do rezerwy kadrowej organu określonego w ust. 3, jeżeli przewiduje się wyznaczenie go na inne stanowisko służbowe.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Okres pozostawania żołnierza zawodowego w rezerwie kadrowej nie może być jednorazowo dłuższy niż dwa lata dla żołnierza służby stałej i sześć miesięcy dla żołnierza służby kontraktowej.”,
+    - **c)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) ze skierowaniem żołnierza zawodowego na studia, kursy i szkolenie, czas pozostawania w rezerwie kadrowej obejmuje okres tych studiów oraz kursów i szkoleń;”,
+    - **d)** w ust. 5 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) nie nabywa prawa do urlopu wypoczynkowego i dodatkowego urlopu wypoczynkowego za ten okres.”;
+
+- **16)** w art. 22 ust.7 otrzymuje brzmienie: „7. Do żołnierzy zawodowych pełniących zawodową służbę wojskową w instytucjach cywilnych, o których mowa w ust. 1 pkt 2 i 3, stosuje się odpowiednio obowiązujące na zajmowanych przez nich stanowiskach służbowych przepisy prawa pracy lub przepisy dotyczące stosunku służbowego, odnoszące się do obowiązków pracodawcy i pracownika, regulaminów pracy, wyróżnień niezwiązanych z przebiegiem zawodowej służby wojskowej, odpowiedzialności materialnej pracowników, rozkładu czasu pracy oraz bezpieczeństwa i higieny pracy, jak również tworzenia funduszu nagród, a także przyznawania nagród innych niż wynikające z przepisów ustawy z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. Nr 190, poz. 1474 oraz z 2012 r. poz. 1529).”;
+- **17)** w art. 24 ust. 8 otrzymuje brzmienie: „8. Rada Ministrów określi, w drodze rozporządzenia:
+- **1)** przypadki, w których następuje wyznaczenie, a w których skierowanie do pełnienia zawodowej służby wojskowej poza granicami państwa, z uwzględnieniem jednostek lub struktur organizacyjnych, w których następuje wyznaczenie do pełnienia służby wojskowej, oraz charakteru służby wojskowej poza granicami państwa;
+- **2)** szczegółowy tryb postępowania przy wyznaczaniu lub kierowaniu żołnierzy zawodowych do pełnienia służby poza granicami państwa, a także odwoływania do kraju z tej służby, mając na uwadze konieczność uzyskania przez kandydata orzeczenia lekarskiego stwierdzającego brak przeciwwskazań zdrowotnych do pełnienia tej służby oraz odpowiedniego poświadczenia bezpieczeństwa, zgodnie z przepisami o ochronie informacji niejawnych;
+- **3)** warunki pełnienia przez żołnierzy służby poza granicami państwa, z uwzględnieniem podległości, o której mowa w ust. 4;
+- **4)** warunki przyznawania świadczeń żołnierzom wyznaczonym lub skierowanym do pełnienia służby poza granicami państwa oraz świadczeń przysługujących żołnierzom w związku z wyznaczeniem lub skierowaniem do pełnienia zawodowej służby wojskowej poza granicami państwa, mając na uwadze świadczenia przysługujące członkom rodzin żołnierzy przebywającym z nimi za granicą, z uwzględnieniem specyfiki wykonywanych zadań, zagrożeń dla zdrowia lub życia tych żołnierzy, a także istniejących w danym państwie warunków miejscowych, jak również zachowanie wszystkich uprawnień i świadczeń, jakie przysługują na podstawie przepisów obowiązujących wobec żołnierzy pełniących czynną służbę wojskową w kraju, oraz uwzględniając powstałe w tym czasie zmiany mające wpływ na te uprawnienia, z wyjątkiem świadczeń określonych w art. 68 ust. 1 i 2.”;
+- **18)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a. 1. Żołnierzom zawodowym będącym nauczycielami akademickimi mogą być powierzane funkcje organu jednoosobowego uczelni wojskowej lub jego zastępcy albo kierownika jednostki organizacyjnej tej uczelni lub jego zastępcy.
+
+2. Przepis ust. 1 stosuje się odpowiednio do żołnierzy zawodowych pełniących służbę w instytutach badawczych.”;
+
+- **19)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Żołnierz zawodowy podlega corocznemu opiniowaniu służbowemu.
+
+2. Opiniowanie służbowe przeprowadza się w okresie od dnia 15 sierpnia do dnia 15 października.
+
+3. Opiniowaniem służbowym obejmuje się również żołnierza zawodowego skierowanego do pełnienia służby poza granicami państwa – za okres pełnienia tej służby. Opinię tę uwzględnia się przy opiniowaniu, o którym mowa w ust. 1.
+
+4. Żołnierz zawodowy wyznaczony na stanowisko służbowe poza granicami państwa podlega opiniowaniu służbowemu według trybu obowiązującego w miejscu pełnienia służby.
+
+5. Opiniowanie służbowe żołnierza zawodowego ma:
+
+- **1)** ocenić jego wywiązywanie się z obowiązków na stanowisku służbowym;
+- **2)** oceniać jego kompetencje i predyspozycje;
+- **3)** wyznaczać kierunki rozwoju zawodowego i określać potrzeby szkoleniowe opiniowanego żołnierza.
+
+6. Opinię służbową sporządza osobiście bezpośredni przełożony żołnierza zawodowego. Przy ocenie predyspozycji przełożony sporządzający tę opinię może zasięgnąć opinii psychologa jednostki wojskowej.
+
+7. Na podstawie ocen, o których mowa w ust. 5, bezpośredni przełożony wystawia ogólną ocenę opiniowanego żołnierza zawodowego, wyrażoną przy zastosowaniu następującej skali ocen:
+
+- **1)** wzorowa (6);
+- **2)** bardzo dobra (5);
+- **3)** dobra (4);
+- **4)** dostateczna (3);
+- **5)** niedostateczna (2).
+
+8. W przypadku uzyskania przez opiniowanego żołnierza zawodowego oceny niedostatecznej ze sprawdzianu sprawności fizycznej lub nieprzystąpienia do tego sprawdzianu, chyba że został zwolniony ze sprawdzianu na podstawie art. 50a ust. 3, ocena ogólna nie może być wyższa niż dostateczna.
+
+9. Przełożony jest obowiązany doręczyć, za pokwitowaniem, potwierdzoną kopię opinii służbowej żołnierzowi zawodowemu, którego ona dotyczy, w terminie czternastu dni od dnia jej sporządzenia. W opinii służbowej zamieszcza się pouczenie o przysługującym żołnierzowi zawodowemu prawie wniesienia odwołania od opinii.
+
+10. W przypadku odmowy przyjęcia opinii służbowej przez opiniowanego żołnierza zawodowego na równi z doręczeniem, o którym mowa w ust. 9, uznaje się zapoznanie opiniowanego z treścią opinii przez jej odczytanie. Przełożony poucza opiniowanego o przysługującym mu prawie do wniesienia odwołania od opinii i dokonuje o tym fakcie adnotacji w arkuszu opinii służbowej.
+
+11. Żołnierzowi zawodowemu przysługuje prawo wniesienia odwołania od opinii służbowej do wyższego przełożonego w terminie czternastu dni od dnia jej doręczenia. Odwołanie wniesione po terminie nie podlega rozpoznaniu.
+
+12. Wyższy przełożony, w terminie trzydziestu dni od dnia otrzymania odwołania, może zaskarżoną opinię służbową:
+
+- **1)** utrzymać w mocy;
+- **2)** zmienić lub uzupełnić;
+- **3)** uchylić i wydać nową;
+- **4)** uchylić, jeżeli brak było podstaw prawnych do jej sporządzenia.
+
+13. Opinia służbowa wydana wskutek odwołania jest ostateczna.
+
+14. Żołnierz zawodowy, który w ostatecznej opinii służbowej uzyskał ogólną ocenę niedostateczną, może wystąpić do dowódcy jednostki wojskowej z wnioskiem o zweryfikowanie tej opinii.
+
+15. Dowódca jednostki wojskowej w przypadku wystąpienia z wnioskiem, o którym mowa w ust. 14, może powołać komisję w celu zbadania zasadności wniosku i po zapoznaniu się z opinią komisji, w terminie trzydziestu dni od dnia otrzymania wniosku, może ostateczną opinię:
+
+- **1)** utrzymać w mocy;
+- **2)** zmienić ją lub uzupełnić;
+- **3)** uchylić i wydać nową;
+- **4)** uchylić, jeżeli brak było podstaw prawnych do jej sporządzenia.
+
+16. Za przygotowanie i przebieg procesu opiniowania służbowego żołnierza zawodowego pełniącego zawodową służbę wojskową:
+
+- **1)** w jednostce wojskowej – odpowiada dowódca jednostki wojskowej;
+- **2)** poza granicami państwa – odpowiada krajowy przełożony, któremu żołnierz w tym czasie podlega.
+
+17. Opinię służbową o żołnierzu zawodowym udostępnia się w przypadku wystąpienia o nią przez sąd, prokuratora, Żandarmerię Wojskową, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Agencję Bezpieczeństwa Wewnętrznego, Policję, Agencję Wywiadu, Centralne Biuro Antykorupcyjne, Straż Graniczną, rzecznika dyscyplinarnego lub rzecznika dyscypliny finansów publicznych – w przypadku gdy podmioty te prowadzą postępowanie dotyczące tego żołnierza.
+
+18. Przepisów ust. 1–17 nie stosuje się do żołnierzy zawodowych pełniących zawodową służbę wojskową na stanowiskach służbowych sędziów sądów wojskowych oraz asesorów i prokuratorów wojskowych jednostek organizacyjnych prokuratury.
+
+19. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy tryb opiniowania służbowego oraz sposób oceniania żołnierza zawodowego, doręczania mu i zapoznawania go z treścią opinii służbowej, wnoszenia i rozpatrywania od niej odwołania oraz weryfikowania opinii ostatecznych;
+- **2)** tryb udostępniania opinii służbowej podmiotom, o których mowa w ust. 17;
+- **3)** wzór arkusza opinii służbowej. Rozporządzenie powinno zapewnić, aby sporządzana opinia służbowa jednoznacznie wskazywała na przydatność lub brak przydatności żołnierza zawodowego na zajmowanym stanowisku służbowym, poziom i rzetelność wykonywania zadań służbowych oraz predyspozycje do zajmowania wyższych stanowisk służbowych, a wzór arkusza opinii służbowej zawierał wszystkie dane niezbędne do jej sporządzenia, w tym dotyczące oceny ze sprawdzianu sprawności fizycznej, oraz umożliwiał opiniowanemu wypowiedzenie się w sprawie dalszego przebiegu służby, a także aby opiniowanie było oparte na zasadzie jawności dla opiniowanego.”;
+- **20)** art. 28 i art. 29 otrzymują brzmienie: „Art. 28. Jeżeli przemawiają za tym potrzeby Sił Zbrojnych, na stopień wojskowy podporucznika (podporucznika marynarki) może być mianowany, po odbyciu szkolenia wojskowego i zdaniu egzaminu na oficera, podoficer zawodowy lub szeregowy zawodowy, który posiada tytuł zawodowy magistra lub równorzędny oraz wzorową ogólną ocenę w ostatniej opinii służbowej.
+
 **Art. 29.** Jeżeli przemawiają za tym potrzeby Sił Zbrojnych, na stopień wojskowy kaprala (mata) może być mianowany, po zdaniu egzaminu na podoficera, szeregowy zawodowy, który posiada wykształcenie średnie i co najmniej bardzo dobrą ogólną ocenę w ostatniej opinii służbowej.”;
+
+- **21)** art. 31 otrzymuje brzmienie: „Art. 31. 1. Żołnierza zawodowego mianuje się na stopień wojskowy, który odpowiada stopniowi etatowemu stanowiska służbowego, na jakie żołnierz ma być wyznaczony, z dniem objęcia stanowiska służbowego albo na stopień wojskowy, do którego ma być zaszeregowany w ramach zajmowanego przez niego stanowiska służbowego, z dniem określonym w rozkazie o mianowaniu.
+
+2. Warunkiem wydania decyzji o wyznaczeniu żołnierza zawodowego na bezpośrednio wyższe stanowisko służbowe oraz objęcia obowiązków na tym stanowisku lub zaszeregowaniu do bezpośrednio wyższego stopnia wojskowego w ramach dotychczasowego stanowiska służbowego jest uprzednie wydanie decyzji o mianowaniu tego żołnierza, przez uprawniony organ, na wyższy stopień wojskowy.
+
+3. Mianowania, o którym mowa w ust. 1 i 2, nie stosuje się do żołnierzy zawodowych wyznaczanych na stanowiska służbowe zaszeregowane do stopni generałów (admirałów) oraz żołnierzy zawodowych, o których mowa w art. 42b i art. 42c.”;
+
+- **22)** w art. 35:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Żołnierza zawodowego wyznacza się na stanowisko służbowe, w drodze decyzji, stosownie do potrzeb Sił Zbrojnych, w zależności od wymaganych kwalifikacji zawodowych, posiadanej oceny w opinii służbowej oraz modelu przebiegu służby w poszczególnych korpusach osobowych (grupach osobowych).”,
+    - **b)** uchyla się ust. 2;
+
+- **23)** w art. 36:
+    - **a)** w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) podoficerów zawodowych – posiadanie wykształcenia średniego;
+
+- **3)** oficerów zawodowych – posiadanie tytułu zawodowego magistra lub równorzędnego.”,
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Wyznaczenie na kolejne stanowisko służbowe jest uzależnione od ukończenia kursu, szkolenia, stażu lub specjalizacji, w zależności od wymaganych kwalifikacji, a także w odniesieniu do oficerów:
+
+- **1)** od stopnia etatowego majora (komandora podporucznika) – ukończenie studiów podyplomowych w uczelni wojskowej lub posiadanie stopnia naukowego doktora;
+- **2)** od stopnia etatowego generała brygady (kontradmirała) – ukończenie podyplomowych studiów polityki obronnej.
+
+3. Do celów określonych w ust. 2 na równi ze świadectwem lub dyplomem uczelni wojskowej są traktowane świadectwa lub dyplomy zagranicznych oraz krajowych szkół i uczelni.”,
+
+- **c)** dodaje się ust. 4 w brzmieniu: „4. Przepisu ust. 2 nie stosuje się przy wyznaczaniu żołnierzy zawodowych na stanowiska służbowe, których zajmowanie jest uzależnione od posiadania kwalifikacji lub spełnienia wymagań określonych w innych ustawach, które warunkują możliwość wykonywania niektórych zawodów, a także na stanowiska w uczelniach wojskowych oraz instytutach badawczych.”;
+- **24)** w art. 37:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Oficer zawodowy w służbie stałej pełni zawodową służbę wojskową przez czas określony kadencjami na stanowisku służbowym.
+
+2. Kadencja na stanowisku służbowym trwa od dwóch do trzech lat.”, 2, jest krótszy niż dwa lata, można określić dla takiego żołnierza kadencję, której okres kończy się z dniem osiągnięcia przez niego wieku określonego w ustawie.”,
+
+- **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku gdy okres pozostający do osiągnięcia przez żołnierza zawodowego wieku, o którym mowa w art. 111 pkt 5 lub art. 111b ust.
+- **c)** ust. 5 i 6 otrzymują brzmienie: „5. Okres kadencji na stanowisku służbowym określa organ właściwy do wyznaczania na stanowisko służbowe w decyzji o wyznaczeniu oficera zawodowego na to stanowisko albo w rozkazie o zmianie zaszeregowania oficera młodszego do wyższego stopnia wojskowego zajmowanego stanowiska służbowego.
+
+6. Oficer zawodowy, o którym mowa w ust. 1, może powtarzać kadencję na tym samym stanowisku służbowym, z zastrzeżeniem art. 43 ust. 2.”,
+
+- **d)** uchyla się ust. 7,
+- **e)** ust. 8 otrzymuje brzmienie: „8. Przepisów ust. 1–6 nie stosuje się do oficerów zawodowych pełniących zawodową służbę wojskową na stanowiskach służbowych sędziów w sądach wojskowych oraz asesorów i prokuratorów wojskowych jednostek organizacyjnych prokuratury oraz w instytucjach cywilnych.”;
+- **25)** art. 40–42 otrzymują brzmienie: „Art. 40. 1. Wyznaczenie oficera zawodowego na kolejne wyższe stanowisko służbowe może nastąpić w zależności od wolnych stanowisk, a także od ogólnej oceny co najmniej bardzo dobrej w ostatniej opinii służbowej.
+
+2. Okres zajmowania stanowiska służbowego o tym samym stopniu wojskowym wynosi co najmniej trzy lata. Jeżeli przemawiają za tym potrzeby Sił Zbrojnych, okres ten może być krótszy, nie mniej jednak niż dwa lata.
+
+3. Zmiana zaszeregowania oficera młodszego do kolejnego wyższego stopnia wojskowego może nastąpić po upływie co najmniej trzech lat zajmowania stanowiska w posiadanym stopniu wojskowym oraz uzyskaniu ogólnej oceny co najmniej bardzo dobrej w ostatniej opinii służbowej. Jeżeli przemawiają za tym potrzeby Sił Zbrojnych, okres służby na stanowisku służbowym w posiadanym stopniu wojskowym może być krótszy, nie mniej jednak niż dwa lata.
+
+4. Zmiany zaszeregowania, o której mowa w ust. 3, dokonuje organ właściwy do wyznaczenia żołnierza zawodowego na stanowisko służbowe rozkazem personalnym.
+
+5. W przypadku uzyskania przez oficera zawodowego pełniącego zawodową służbę wojskową w opinii służbowej ogólnej oceny dobrej przy wyznaczaniu na kolejne stanowisko służbowe:
+
+- **1)** wyznacza się go na to samo lub równorzędne stanowisko służbowe;
+- **2)** nie zaszeregowuje się go do wyższego stopnia wojskowego na zajmowanym przez niego stanowisku służbowym.
+
+6. W przypadku uzyskania przez oficera zawodowego pełniącego zawodową służbę wojskową w opinii służbowej ogólnej oceny dostatecznej przy wyznaczaniu na kolejne stanowisko służbowe:
+
+- **1)** wyznacza się go na to samo lub równorzędne stanowisko służbowe;
+- **2)** nie zaszeregowuje się go do wyższego stopnia wojskowego na zajmowanym przez niego stanowisku służbowym;
+- **3)** może być on zwolniony z zawodowej służby wojskowej.
+
+7. Przepisów ust. 1–6 nie stosuje się do żołnierzy zawodowych pełniących zawodową służbę wojskową na stanowiskach służbowych sędziów w sądach wojskowych oraz prokuratorów w wojskowych jednostkach organizacyjnych prokuratury.
 
 **Art. 41.**
 
@@ -340,7 +559,46 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm. ) w art. 74 ust. 2 i 2a otrzymują brzmienie: „2. Stopniami wojskowymi są następujące stopnie, z zastrzeżeniem ust. 2a:
 
+- **1)** szeregowych:
+    - **a)** szeregowy,
+    - **b)** starszy szeregowy;
+
+- **2)** podoficerskie:
+    - **a)** podoficerów młodszych: – kapral, – starszy kapral, – plutonowy,
+    - **b)** podoficerów: – sierżant, – starszy sierżant, – młodszy chorąży,
+    - **c)** podoficerów starszych: – chorąży, – starszy chorąży, – starszy chorąży sztabowy;
+
+- **3)** oficerskie:
+    - **a)** oficerów młodszych: – podporucznik, – porucznik, – kapitan,
+    - **b)** oficerów starszych: – major, – podpułkownik, – pułkownik,
+    - **c)** generalskie: – generał brygady, – generał dywizji, – generał broni, – generał.
+
+2a. W Marynarce Wojennej stopniami wojskowymi są stopnie:
+
+- **1)** szeregowych:
+    - **a)** marynarz,
+    - **b)** starszy marynarz;
+
+- **2)** podoficerskie:
+    - **a)** podoficerów młodszych: – mat, – starszy mat, – bosmanmat,
+    - **b)** podoficerów: – bosman, – starszy bosman, – młodszy chorąży marynarki,
+    - **c)** podoficerów starszych: – chorąży marynarki, – starszy chorąży marynarki, – starszy chorąży sztabowy marynarki;
+
+- **3)** oficerskie:
+    - **a)** oficerów młodszych: – podporucznik marynarki, – porucznik marynarki, – kapitan marynarki,
+    - **b)** oficerów starszych: – komandor podporucznik, – komandor porucznik, – komandor,
+    - **c)** admiralskie: – kontradmirał, – wiceadmirał, – admirał floty, – admirał.”.
+
 **Art. 3.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666 i 675) wprowadza się następujące zmiany:
+
+- **1)** w art. 5:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podstawę wymiaru emerytury lub renty inwalidzkiej stanowi uposażenie należne żołnierzowi zawodowemu w ostatnim miesiącu pełnienia zawodowej służby wojskowej, z zastrzeżeniem ust. 1a–4 oraz art.
+
+32b. ”,
+
+- **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Podstawę wymiaru emerytury lub renty inwalidzkiej w przypadku żołnierzy, którzy nie otrzymują uposażenia, o którym mowa w ust. 1, albo otrzymują je w niepełnej wysokości, stanowi pełna kwota uposażenia należnego żołnierzowi na ostatnio zajmowanym stanowisku służbowym, z uwzględnieniem zmian mających wpływ na prawo do uposażenia lub jego wysokości powstałych w okresie, w którym żołnierz nie otrzymywał uposażenia lub otrzymywał je w niepełnej wysokości.”;
+- **2)** w art. 18f ust. 3 otrzymuje brzmienie: „3. Do ustalenia podstawy wymiaru emerytury nie stosuje się przepisu art. 80 ust. 5f ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych.”;
+- **3)** w art. 32b ust. 1 otrzymuje brzmienie: „1. W przypadku ponownego powołania emeryta do zawodowej służby wojskowej i pełnienia tej służby nieprzerwanie przez okres co najmniej 12 miesięcy, na wniosek emeryta ustala się nową podstawę wymiaru emerytury, w sposób określony odpowiednio w art. 5 ust. 1 i 1a albo w art. 18f.”.
 
 **Art. 4.** Sprawy wszczęte, lecz niezakończone ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy prowadzi się według przepisów dotychczasowych.
 

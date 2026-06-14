@@ -8,10 +8,10 @@ pos: 322
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 322 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 16 lutego 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/322/text.pdf) |
 
-Poz. 322 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 16 lutego 2023 r.
 w sprawie szczegółowego sposobu określania wymagań, jakie powinien spełniać przedsiębiorca ubiegający się o uzyskanie zezwolenia w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych Na podstawie art. 7 ust. 7 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U.
-z 2022 r. poz. 2519) zarządza się, co następuje: § 1. Wymagania, jakie powinien spełniać przedsiębiorca ubiegający się o uzyskanie zezwolenia na prowadzenie działalności w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych, dotyczące:
+z 2022 r. poz. 2519) zarządza się, co następuje:
+§ 1. Wymagania, jakie powinien spełniać przedsiębiorca ubiegający się o uzyskanie zezwolenia na prowadzenie działalności w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych, dotyczące:
 1) opisu wyposażenia technicznego zawierającego wymagania odnośnie do:
 a) pojazdów asenizacyjnych przeznaczonych do świadczenia usług w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych,
 b) bazy transportowej,

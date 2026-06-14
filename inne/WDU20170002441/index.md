@@ -8,10 +8,10 @@ pos: 2441
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2441 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 19 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2441/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 19 grudnia 2017 r.
-w sprawie sposobu i trybu ustalania okoliczności i przyczyn wypadków w Służbie Celno-Skarbowej Na podstawie art. 28 ust. 3 ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. poz. 616 i 1199 oraz z 2017 r. poz. 1321) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb ustalania okoliczności i przyczyn wypadków w Służbie Celno-Skarbowej, w tym:
+w sprawie sposobu i trybu ustalania okoliczności i przyczyn wypadków w Służbie Celno-Skarbowej Na podstawie art. 28 ust. 3 ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. poz. 616 i 1199 oraz z 2017 r. poz. 1321) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb ustalania okoliczności i przyczyn wypadków w Służbie Celno-Skarbowej, w tym:
 1) tryb postępowania komisji powypadkowej;
 2) tryb zgłaszania i rozpatrywania uwag i zastrzeżeń do ustaleń komisji powypadkowej oraz zatwierdzania tych ustaleń;
 3) wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego.
 § 2. Ilekroć w rozporządzeniu jest mowa o ustawie, rozumie się przez to ustawę z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą.
 § 3. 1. W celu utrwalenia przebiegu i wyników czynności wymienionych w art. 20 ust. 1:
-1) pkt 1 ustawy sporządza się dokument oględzin miejsca wypadku lub stanu technicznego maszyn lub urządzeń, którego wzór stanowi załącznik nr 1 do rozporządzenia;
-2) pkt 3 ustawy sporządza się dokument przyjęcia wyjaśnień od poszkodowanego, którego wzór stanowi załącznik nr 2 do rozporządzenia, lub dokument przyjęcia wyjaśnień od świadka wypadku oraz innych osób, których informacje mogą mieć znaczenie dla ustalenia okoliczności i przyczyn wypadku, którego wzór stanowi załącznik nr 3 do rozporządzenia.
+1) pkt 1 ustawy – sporządza się dokument oględzin miejsca wypadku lub stanu technicznego maszyn lub urządzeń, którego wzór stanowi załącznik nr 1 do rozporządzenia;
+2) pkt 3 ustawy – sporządza się dokument przyjęcia wyjaśnień od poszkodowanego, którego wzór stanowi załącznik nr 2 do rozporządzenia, lub dokument przyjęcia wyjaśnień od świadka wypadku oraz innych osób, których informacje mogą mieć znaczenie dla ustalenia okoliczności i przyczyn wypadku, którego wzór stanowi załącznik nr 3 do rozporządzenia.
 2. Czynności, o których mowa w art. 20 ust. 1 ustawy, mogą być wykonane przez co najmniej jednego z członków komisji powypadkowej na podstawie upoważnienia przewodniczącego komisji powypadkowej; w takim przypadku członkowie komisji powypadkowej, którzy nie uczestniczyli w czynnościach, zapoznają się z aktami postępowania wyjaśniającego dokumentującymi przebieg i wynik tych czynności i potwierdzają ten fakt podpisem i datą.
 3. W przypadku gdy wykonanie czynności określonej w art. 20 ust. 1 pkt 1 ustawy stało się bezprzedmiotowe, komisja powypadkowa wskazuje przyczyny odstąpienia od wykonania czynności.
 § 4. 1. Komisja powypadkowa, ustalając przyczyny wypadku, uwzględnia udokumentowane okoliczności wypadku oraz inne zebrane dowody mające związek z wypadkiem lub jego skutkami.
@@ -53,12 +53,14 @@ w sprawie sposobu i trybu ustalania okoliczności i przyczyn wypadków w Służb
 § 8. 1. Poszkodowany albo uprawnieni członkowie jego rodziny mogą zgłaszać uwagi i zastrzeżenia do ustaleń zawartych w protokole powypadkowym lub w wyciągu z protokołu powypadkowego w terminie 7 dni od dnia zapoznania się z protokołem powypadkowym albo wyciągiem z protokołu powypadkowego albo od dnia doręczenia protokołu powypadkowego lub wyciągu z protokołu powypadkowego.
 2. Uwagi i zastrzeżenia, o których mowa w ust. 1, wnosi się w formie pisemnej do kierownika jednostki organizacyjnej za pośrednictwem przewodniczącego komisji powypadkowej.
 § 9. 1. Po upływie terminu, o którym mowa w § 8 ust. 1, komisja powypadkowa niezwłocznie przedstawia kierownikowi jednostki organizacyjnej protokół powypadkowy, do którego dołącza uwagi i zastrzeżenia wniesione przez poszkodowanego albo uprawnionych członków jego rodziny oraz zdanie odrębne, jeżeli zostało złożone przez członka komisji powypadkowej.
-2. W przypadku sporządzenia przez komisję powypadkową nowego protokołu powypadkowego poprzedni protokół § 10. 1. Kierownik jednostki organizacyjnej wykonuje czynności określone w art. 24 ust. 1 ustawy w terminie 5 dni od dnia przedstawienia przez komisję powypadkową protokołu powypadkowego.
+2. W przypadku sporządzenia przez komisję powypadkową nowego protokołu powypadkowego poprzedni protokół powypadkowy włącza się do akt postępowania wyjaśniającego.
+§ 10. 1. Kierownik jednostki organizacyjnej wykonuje czynności określone w art. 24 ust. 1 ustawy w terminie 5 dni od dnia przedstawienia przez komisję powypadkową protokołu powypadkowego.
 2. Komisja powypadkowa wykonuje czynności określone w art. 24 ust. 2 ustawy w terminie 7 dni od dnia dokonania dodatkowych ustaleń albo wyjaśnień i uzupełnień.
 3. W przypadku, o którym mowa w art. 24 ust. 2 pkt 2 ustawy, kierownik jednostki organizacyjnej zatwierdza protokół powypadkowy w terminie 5 dni od dnia jego przedstawienia przez komisję powypadkową.
 § 11. Wzór rejestru wypadków pozostających w związku z pełnieniem służby stanowi załącznik nr 5 do rozporządzenia.
 § 12. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk ......................................................
+Minister Rozwoju i Finansów: wz. W. Janczyk Załączniki do rozporządzenia z dnia 19 grudnia 2017 r. (poz.
+) Załącznik nr 1 WZÓR ......................................................
 ..................................., dnia....................................r.
 DOKUMENT OGLĘDZIN MIEJSCA WYPADKU LUB STANU TECHNICZNEGO MASZYN LUB URZĄDZEŃ * W dniu..........................niżej wymieniona osoba/wymienione osoby* :
 1) .................................................................... ...................................................................................
@@ -78,7 +80,9 @@ Stan miejsca/maszyny/urządzenia* poddanego/poddanej* oględzinom został utrwal
 ...............................................................................................
 ...............................................................................................
 ...............................................................................................
-WZÓR ........................., dnia .......................................................r.
+
+## Załącznik nr 2 — WZÓR ........................., dnia .......................................................r.
+
 DOKUMENT PRZYJĘCIA WYJAŚNIEŃ OD POSZKODOWANEGO/POSZKODOWANEJ* W dniu ..................................... ...... niżej wymieniona osoba/wymienione osoby*
 1) ................................................................................ ...............................................................................
 2) ................................................................................ ...............................................................................
@@ -101,11 +105,11 @@ następujące wyjaśnienia: ……………………………………….……
 …………………………………………………..……………………………………………………………..
 …………………………………………………………………………………………………………..……..
 ………………………………………………………………………………………..………………………..
-WZÓR ………………………………………………………………………………………………………………… ………………………………………………………………………………………………………………… ……………………………….
-………….……………………………………………………… ………….……………………………………………………… ………….……………………………………………………… ………….……………………………………………………… DOKUMENT PRZYJĘCIA WYJAŚNIENIA OD ŚWIADKA ORAZ INNYCH OSÓB, KTÓRYCH INFORMACJE MOGĄ MIEĆ ZNACZENIE DLA USTALENIA OKOLICZNOŚCI I PRZYCZYN WYPADKU* WZÓR ………………………, dnia…………………................
+………………………………………………………………………………………………………………… ………………………………………………………………………………………………………………… ……………………………….
+………….……………………………………………………… ………….……………………………………………………… ………….……………………………………………………… ………….……………………………………………………… Dziennik Ustaw – 7 – Załącznik Poz. nr 2441 3 WZÓR DOKUMENT PRZYJĘCIA WYJAŚNIENIA OD ŚWIADKA ORAZ INNYCH OSÓB, KTÓRYCH INFORMACJE MOGĄ MIEĆ ZNACZENIE DLA USTALENIA OKOLICZNOŚCI I PRZYCZYN WYPADKU* Załącznik nr 4 WZÓR ………………………, dnia…………………................
 PROTOKÓŁ POWYPADKOWY NR ……../………
 1. Komisja powypadkowa w składzie:
-1) Przewodniczący …………………………………………………………………………………………
+1) Przewodniczący – …………………………………………………………………………………………
 2) ……………………………………………………………………………………………………………..
 3) ……………………………………………………………………………………………………………..
 4) …………………………………………………………………………………………………………….
@@ -122,7 +126,7 @@ ustalono następujące okoliczności i przyczyny wypadku: …………………�
 ……………………………………………………………………………………………………………................
 ……………………………………………………………………………………………………………................
 ……………………………………………………………………………………………………………................
-WZÓR Poszkodowany(-na) poniósł/poniosła* śmierć bezpośrednio/zmarł(a)* w dniu………………………………..r.
+Poszkodowany(-na) poniósł/poniosła* śmierć bezpośrednio/zmarł(a)* w dniu………………………………...r.
 o godz. ………w…………………………………………………………………………………………………..
 5. Ustala się, że powyższy wypadek jest/nie jest* wypadkiem w związku z pełnieniem służby w Służbie Celno-Skarbowej, co uzasadnia się następująco: ……………………………………………………………………………………………………………………..
 ……………………………………………………………………………………………………………………..
@@ -170,5 +174,5 @@ za pośrednictwem przewodniczącego komisji powypadkowej.
 17. Potwierdzam odbiór protokołu, który otrzymałem(-łam) w dniu:……………………………………………r.
 …………………………………………………………………............
 18. Zatwierdzony protokół przesłano za pisemnym potwierdzeniem odbioru poszkodowanemu(-ej) /członkowi rodziny poszkodowanego(-ej)* w dniu ……………..………….r.
-* W W W W M
+* M W W W W
 

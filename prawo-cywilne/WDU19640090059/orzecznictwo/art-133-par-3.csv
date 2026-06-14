@@ -8,6 +8,7 @@ saos_id|date|court|case_number|type|score|saos_url
 45384|2014-03-06|SO|I ACa 854/13|Wyrok|56|https://www.saos.org.pl/judgments/45384
 357162|2017-11-16|SO|I ACz 1812/17|Postanowienie|47|https://www.saos.org.pl/judgments/357162
 541527|2025-11-17|SO|IV RC 247/25|Wyrok|40|https://www.saos.org.pl/judgments/541527
+545031|2025-04-25|SO|II Ca 225/24|Wyrok|40|https://www.saos.org.pl/judgments/545031
 507281|2023-09-29|SO|III RC 32/23|Wyrok|40|https://www.saos.org.pl/judgments/507281
 502287|2023-09-12|SO|II Ca 932/23|Wyrok|40|https://www.saos.org.pl/judgments/502287
 507347|2023-08-07|SO|III RC 59/23|Wyrok|40|https://www.saos.org.pl/judgments/507347
@@ -30,8 +31,10 @@ saos_id|date|court|case_number|type|score|saos_url
 382008|2019-04-15|SO|III RC 194/18|Wyrok|40|https://www.saos.org.pl/judgments/382008
 383355|2019-04-02|SO|III RC 39/17|Wyrok|40|https://www.saos.org.pl/judgments/383355
 379071|2019-03-27|SO|III RC 96/18|Wyrok|40|https://www.saos.org.pl/judgments/379071
+545810|2019-03-12|SO|III RC 2/19|Wyrok|40|https://www.saos.org.pl/judgments/545810
 379011|2019-02-28|SO|III RC 120/18|Wyrok|40|https://www.saos.org.pl/judgments/379011
 371636|2019-02-06|SO|III RC 120/18|Wyrok|40|https://www.saos.org.pl/judgments/371636
+545813|2018-12-06|SO|III RC 39/18|Wyrok|40|https://www.saos.org.pl/judgments/545813
 363670|2018-11-15|SO|V Ca 163/18|Wyrok|40|https://www.saos.org.pl/judgments/363670
 363949|2018-11-09|SO|III RC 131/17|Wyrok|40|https://www.saos.org.pl/judgments/363949
 357874|2018-09-19|SO|III RC 57/18|Wyrok|40|https://www.saos.org.pl/judgments/357874

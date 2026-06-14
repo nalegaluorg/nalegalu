@@ -8,7 +8,7 @@ pos: 906
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu
@@ -29,6 +29,10 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa szczególne zasady:
 
+- **1)** odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku powodzi, wiatru, osunięcia ziemi lub działania innego żywiołu,
+- **2)** zagospodarowania terenów oraz zasady i tryb nabywania nieruchomości w celu realizacji miejscowych planów odbudowy, w związku z osunięciem ziemi,
+- **3)** wydawania decyzji o warunkach zabudowy i zagospodarowania terenu, w celu odbudowy obiektów budowlanych zniszczonych w wyniku powodzi, wiatru, osunięcia ziemi lub działania innego żywiołu – na obszarze i w okresie określonych w trybie, o którym mowa w art. 2.
+
 **Art. 2.** Prezes Rady Ministrów na podstawie danych przekazywanych przez właściwych wojewodów, uwzględniając rodzaj żywiołu oraz skutki przez niego wyrządzone, na okres nie dłuższy niż 24 miesiące określa, w drodze rozporządzenia, gminy lub miejscowości, w których stosuje się szczególne zasady odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych, szczególne zasady zagospodarowania terenów oraz zasady i tryb nabywania nieruchomości, w związku z osunięciem ziemi, a także szczególne zasady wydawania decyzji o warunkach zabudowy i zagospodarowania terenu, w celu odbudowy obiektów budowlanych zniszczonych w wyniku powodzi, wiatru, osunięcia ziemi lub działania innego żywiołu.
 
 **Art. 3.** Do odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku powodzi, wiatru, osunięcia ziemi lub działania innego żywiołu w zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418).
@@ -36,6 +40,13 @@ source: "isap-pdf"
 **Art. 3a.** Do odbudowy dróg publicznych zniszczonych lub uszkodzonych w wyniku działania żywiołu nie stosuje się przepisów techniczno-budowlanych, o których mowa w art. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, które uniemożliwiłyby odtworzenie drogi publicznej o wymiarach drogi zniszczonej lub uszkodzonej w dotychczasowym przebiegu.
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** odbudowie – należy przez to rozumieć odtworzenie obiektu budowlanego w całości lub w części: z 2025 r. poz. 311 i 1019) lub w przypadku infrastruktury technicznej, o której mowa w art. 2 ust. 1 pkt 6 tej ustawy – uzgodnionym z właścicielem, użytkownikiem wieczystym lub zarządcą nieruchomości, na której lub nad którą ta infrastruktura jest umieszczona – przy czym dopuszcza się stosowanie wyrobów budowlanych innych niż użyto w stanie pierwotnym;
+    - **a)** o wymiarach obiektu zniszczonego lub uszkodzonego – w dotychczasowym miejscu, przy czym dopuszcza się zmianę parametrów obiektu budowlanego dotyczących: – powierzchni zabudowy w zakresie nieprzekraczającym 5 %, – wysokości, długości lub szerokości w zakresie nieprzekraczającym 2 %,
+    - **b)** o wymiarach obiektu zniszczonego lub uszkodzonego albo o innych wymiarach – na terenie tej samej gminy w innym miejscu albo innej gminy określonej w przepisach wydanych na podstawie art. 2, w miejscu: – wskazanym w miejscowym planie odbudowy, miejscowym planie zagospodarowania przestrzennego albo decyzji o warunkach zabudowy i zagospodarowania terenu, albo – w przypadku infrastruktury telekomunikacyjnej o nieznacznym oddziaływaniu w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U.
+
+- **2)** (uchylony)
+- **3)** instalacjach – należy przez to rozumieć urządzenia, w tym stanowiące albo niestanowiące całości techniczno-użytkowej antenowe konstrukcje wsporcze i instalacje radiokomunikacyjne, a także związane z tymi urządzeniami osprzęt i urządzenia zasilające, instalowane na obiektach budowlanych.
 
 **Art. 5.** Przepisy ustawy stosuje się odpowiednio do urządzeń budowlanych związanych z obiektem budowlanym, o których mowa w art. 3 pkt 9 ustawy – Prawo budowlane.
 
@@ -54,6 +65,9 @@ source: "isap-pdf"
 2. W przypadku odbudowy, o której mowa w ust. 1, dopuszcza się inne parametry techniczne lub wyposażenie niż użyto w stanie pierwotnym, zapewniające ciągłość i jakość świadczonych usług.
 
 **Art. 6b.** W przypadku odbudowy, o której mowa w art. 6a:
+
+- **1)** pomiary pól elektromagnetycznych w środowisku, o których mowa w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647), wykonuje się w terminie 60 dni od dnia rozpoczęcia eksploatacji tej instalacji,
+- **2)** zgłoszenia, o którym mowa w art. 152 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, dokonuje się w terminie 90 dni od dnia rozpoczęcia eksploatacji tej instalacji – chyba że w tych terminach nastąpił demontaż zainstalowanych w ramach tej odbudowy elementów instalacji.
 
 **Art. 6c.**
 

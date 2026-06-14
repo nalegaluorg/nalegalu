@@ -8,10 +8,10 @@ pos: 1307
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1307 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 19 sierpnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001307) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1307/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 19 sierpnia 2016 r.
-w sprawie świadectwa potwierdzającego niepreferencyjne pochodzenie towaru Na podstawie art. 10 ust. 3 ustawy z dnia 19 marca 2004 r. Prawo celne (Dz. U. z 2015 r. 858, 1649, 1844 i 1893 oraz z 2016 r. poz. 65 i 1228) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie świadectwa potwierdzającego niepreferencyjne pochodzenie towaru Na podstawie art. 10 ust. 3 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. 858, 1649, 1844 i 1893 oraz z 2016 r. poz. 65 i 1228) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór świadectwa potwierdzającego niepreferencyjne pochodzenie towaru, zwanego dalej „świadectwem pochodzenia”;
 2) wzór wniosku o wystawienie świadectwa pochodzenia;
 3) szczegółowe wymogi, jakie powinien spełniać wniosek o wystawienie świadectwa pochodzenia oraz to świadectwo;
@@ -49,9 +49,9 @@ w sprawie świadectwa potwierdzającego niepreferencyjne pochodzenie towaru Na p
 § 8. Do wyczerpania nakładów druków formularzy mogą być stosowane formularze wniosku o wystawienie świadectwa pochodzenia i świadectwa pochodzenia zgodne ze wzorem obowiązującym przed dniem wejścia w życie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny.
 § 9. Z uproszczonego trybu wystawiania świadectw pochodzenia mogą nadal korzystać podmioty, którym przed dniem wejścia w życie niniejszego rozporządzenia wydano upoważnienie do stosowania uproszczenia określonego w § 7 ust. 2.
 § 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: P. Szałamacha WZÓR Wniosek o wystawienie świadectwa pochodzenia 9 sie pnia 20 6 r (poz r 1 y t 1 Eksporter/ Nadawca (imię i nazwisko Nr 000000 lub nazwa oraz pełny adres, takie jakie widnieją w KRS). WNIOSEK (Pole przeznaczone na numer wystawienia) 2 Odbiorca (imię i nazwisko lub nazwa UNIA EUROPEJSKA oraz pełny adres, jeżeli znany, lub wpis „na zamówienie”) ŚWIADECTWO POCHODZENIA 3 Kraj pochodzenia („Unia Europejska” lub dany kraj pochodzenia) 4 Szczegóły dotyczące transportu 5 Uwagi (wypełnianie nieobowiązkowe) 6 Liczba porządkowa; znaki, numery, liczba i rodzaj opakowań; 7 Ilość (wyrażona w opis towarów (dla towarów niezapakowanych określić liczbę lub masie brutto lub netto wpisać „luzem”) albo w innych jednostkach miary) 8 Ja niżej podpisany(-na), - WNOSZĘ o wystawienie świadectwa pochodzenia potwierdzającego, że opisane wyżej towary pochodzą z kraju wskazanego w polu 3.
+Minister Finansów: P. Szałamacha Załączniki do rozporządzenia Ministra Finansów z dnia 19 sierpnia 2016 r. (poz. …) Załącznik nr 1 WZÓR WZÓR Wniosek Wniosek o o wystawienie wystawienie świadectwa świadectwa pochodzenia pochodzenia 1 Eksporter/ Nadawca (imię i nazwisko Nr 000000 lub nazwa oraz pełny adres, takie jakie widnieją w KRS). WNIOSEK (Pole przeznaczone na numer wystawienia) 2 Odbiorca (imię i nazwisko lub nazwa UNIA EUROPEJSKA oraz pełny adres, jeżeli znany, lub wpis „na zamówienie”) ŚWIADECTWO POCHODZENIA 3 Kraj pochodzenia („Unia Europejska” lub dany kraj pochodzenia) 4 Szczegóły dotyczące transportu 5 Uwagi (wypełnianie nieobowiązkowe) 6 Liczba porządkowa; znaki, numery, liczba i rodzaj opakowań; 7 Ilość (wyrażona w opis towarów (dla towarów niezapakowanych określić liczbę lub masie brutto lub netto wpisać „luzem”) albo w innych jednostkach miary) 8 Ja niżej podpisany(-na), - WNOSZĘ o wystawienie świadectwa pochodzenia potwierdzającego, że opisane wyżej towary pochodzą z kraju wskazanego w polu 3.
 - OŚWIADCZAM, że dane zawarte w niniejszym wniosku i przedstawione dokumenty potwierdzające oraz informacje dostarczone właściwym organom upoważnionym do wystawienia niniejszego świadectwa są prawdziwe, że towary, których dotyczą te dokumenty i informacje, są tymi, dla których wnosi się o wystawienie świadectwa, że towary te spełniają warunki ustanowione w regułach dotyczących wspólnej definicji pojęcia pochodzenia towarów.
 - ZOBOWIĄZUJĘ SIĘ do przedstawienia, na wniosek właściwych organów, takich uzupełniających informacji i dokumentów potwierdzających, które uznają one za potrzebne do celów wystawienia świadectwa.
-9 Wnioskodawca (jeżeli nie jest on tożsamy z eksporterem/nadawcą) Miejsce i data Podpis wnioskodawcy*) *) Obok podpisu wnioskodawcy musi być podane drukowanymi literami jego imię i nazwisko (Pole przeznaczone na dodatkowe dane wymagane przez poszczególne państwa) 1 Eksporter/ Nadawca Nr 000000 ORYGINAŁ (Pole przeznaczone na numer wystawienia) 2 Odbiorca UNIA EUROPEJSKA ŚWIADECTWO POCHODZENIA 3 Kraj pochodzenia 4 Szczegóły dotyczące transportu 5 Uwagi (Wypełnianie nieobowiązkowe) 6 Liczba porządkowa; znaki, numery, liczba i rodzaj opakowań; 7 Ilość opis towarów WZÓR Świadectwo pochodzenia 8 NIŻEJ PODPISANY ORGAN POŚWIADCZA, ŻE TOWARY OPISANE POWYŻEJ POCHODZĄ Z KRAJU WSKAZANEGO W POLU 3 Miejsce i data wystawienia, nazwa, podpis i pieczęć właściwego organu.
-1 Eksporter/Nadawca Nr 000000 KOPIA (Pole przeznaczone na numer wystawienia) 2 Odbiorca UNIA EUROPEJSKA ŚWIADECTWO POCHODZENIA 3 Kraj pochodzenia 4 Szczegóły dotyczące transportu (Wypełnianie nieobowiązkowe) 5 Uwagi 6 Liczba porządkowa; znaki, numery, liczba i rodzaj opakowań; 7 Ilość opis towarów 8 NIŻEJ PODPISANY ORGAN POŚWIADCZA, ŻE TOWARY OPISANE POWYŻEJ POCHODZĄ Z KRAJU WSKAZANEGO W POLU 3 Miejsce i data wystawienia, nazwa, podpis i pieczęć właściwego organu.
+9 Wnioskodawca (jeżeli nie jest on tożsamy z eksporterem/nadawcą) Miejsce i data Podpis wnioskodawcy*) *) Obok podpisu wnioskodawcy musi być podane drukowanymi literami jego imię i nazwisko (Pole przeznaczone na dodatkowe dane wymagane przez poszczególne państwa) WZÓR Załącznik nr 2 WZÓR Świadectwo pochodzenia Świadectwo pochodzenia 1 Eksporter/ Nadawca Nr 000000 ORYGINAŁ (Pole przeznaczone na numer wystawienia) 2 Odbiorca UNIA EUROPEJSKA ŚWIADECTWO POCHODZENIA 3 Kraj pochodzenia 4 Szczegóły dotyczące transportu 5 Uwagi (Wypełnianie nieobowiązkowe) 6 Liczba porządkowa; znaki, numery, liczba i rodzaj opakowań; 7 Ilość opis towarów 8 NIŻEJ PODPISANY ORGAN POŚWIADCZA, ŻE TOWARY OPISANE POWYŻEJ POCHODZĄ Z KRAJU WSKAZANEGO W POLU 3 Miejsce i data wystawienia, nazwa, podpis i pieczęć właściwego organu.
+1 Eksporter/Nadawca Nr 000000 KOPIA (Pole przeznaczone na numer wystawienia) 2 Odbiorca UNIA EUROPEJSKA ŚWIADECTWO POCHODZENIA 3 Kraj pochodzenia 4 Szczegóły dotyczące transportu 5 Uwagi (Wypełnianie nieobowiązkowe) 6 Liczba porządkowa; znaki, numery, liczba i rodzaj opakowań; 7 Ilość opis towarów 8 NIŻEJ PODPISANY ORGAN POŚWIADCZA, ŻE TOWARY OPISANE POWYŻEJ POCHODZĄ Z KRAJU WSKAZANEGO W POLU 3 Miejsce i data wystawienia, nazwa, podpis i pieczęć właściwego organu.
 

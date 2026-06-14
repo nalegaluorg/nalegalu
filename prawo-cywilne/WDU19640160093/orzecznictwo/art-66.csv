@@ -77,6 +77,7 @@ saos_id|date|court|case_number|type|score|saos_url
 163601|2005-10-14|SN|III CZP 67/05|Postanowienie|69|https://www.saos.org.pl/judgments/163601
 543527|2025-09-24|SO|I ACa 3325/24|Wyrok|56|https://www.saos.org.pl/judgments/543527
 541209|2025-07-07|SO|III AUa 166/25|Wyrok|56|https://www.saos.org.pl/judgments/541209
+545988|2025-03-26|SO|I ACa 2621/23|Wyrok|56|https://www.saos.org.pl/judgments/545988
 537433|2025-03-06|SO|I ACa 1871/23|Wyrok|56|https://www.saos.org.pl/judgments/537433
 534664|2024-12-19|SO|I ACa 964/22|Wyrok|56|https://www.saos.org.pl/judgments/534664
 528451|2024-08-07|SO|I ACa 1233/22|Wyrok|56|https://www.saos.org.pl/judgments/528451
@@ -517,10 +518,12 @@ saos_id|date|court|case_number|type|score|saos_url
 112445|2008-02-28|KIO|KIO/UZP 123/08|Wyrok|44|https://www.saos.org.pl/judgments/112445
 493171|2021-02-15|SO|II AKa 156/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/493171
 542771|2026-02-13|SO|VII U 1450/24|Wyrok|40|https://www.saos.org.pl/judgments/542771
+545250|2026-01-30|SO|I C 1037/24|Wyrok|40|https://www.saos.org.pl/judgments/545250
 542228|2025-12-05|SO|VII Pa 115/24|Wyrok|40|https://www.saos.org.pl/judgments/542228
 540980|2025-12-02|SO|VII U 1564/23|Wyrok|40|https://www.saos.org.pl/judgments/540980
 538768|2025-10-22|SO|VII U 539/24|Wyrok|40|https://www.saos.org.pl/judgments/538768
 543231|2025-05-12|SO|I C 3866/23|Wyrok|40|https://www.saos.org.pl/judgments/543231
+545032|2025-04-03|SO|II Ca 295/24|Wyrok|40|https://www.saos.org.pl/judgments/545032
 519002|2024-11-25|SO|VII Ua 31/24|Wyrok|40|https://www.saos.org.pl/judgments/519002
 522938|2024-07-31|SO|II Ca 709/24|Wyrok|40|https://www.saos.org.pl/judgments/522938
 520325|2024-07-09|SO|II Ca 2196/23|Wyrok|40|https://www.saos.org.pl/judgments/520325
@@ -546,6 +549,7 @@ saos_id|date|court|case_number|type|score|saos_url
 456040|2022-01-25|SO|I C 512/20|Wyrok|40|https://www.saos.org.pl/judgments/456040
 476096|2021-12-20|SO|VI P 240/21|Wyrok|40|https://www.saos.org.pl/judgments/476096
 480422|2021-09-27|SO|XII Ga 967/20|Wyrok|40|https://www.saos.org.pl/judgments/480422
+546881|2021-07-22|SO|VI P 383/19|Wyrok|40|https://www.saos.org.pl/judgments/546881
 447402|2021-06-01|SO|XII C 1295/18|Wyrok|40|https://www.saos.org.pl/judgments/447402
 446123|2021-05-31|SO|XII C 1808/18|Wyrok|40|https://www.saos.org.pl/judgments/446123
 446124|2021-04-08|SO|XII C 1837/19|Wyrok|40|https://www.saos.org.pl/judgments/446124

@@ -8,7 +8,7 @@ pos: 850
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o licencji doradcy restrukturyzacyjnego
@@ -142,6 +142,9 @@ source: "isap-pdf"
 2. Minister Sprawiedliwości, na wniosek Komisji, nie później niż 3 miesiące przed wyznaczonym kolejnym terminem egzaminu w określonym roku kalendarzowym, może uzupełnić lub wprowadzić zmiany w ogłoszonym na dany rok wykazie tytułów aktów prawnych i zalecanej literatury, z których wybrane stanowią podstawę opracowania pytań testowych na egzaminy w danym roku kalendarzowym.
 
 **Art. 9.** Minister Sprawiedliwości określi w drodze rozporządzenia:
+
+- **1)** sposób organizacji egzaminu, biorąc pod uwagę warunki jego przeprowadzenia zapewniające samodzielną pracę osoby ubiegającej się o licencję doradcy restrukturyzacyjnego oraz szczegółowe czynności Komisji i jej przewodniczącego;
+- **2)** wysokość i sposób wnoszenia opłaty egzaminacyjnej nieprzekraczającej minimalnego wynagrodzenia za pracę, z uwzględnieniem rzeczywistych kosztów przeprowadzenia egzaminu oraz dopuszczalnych form uiszczania opłaty.
 
 #### Rozdział 3 Licencja doradcy restrukturyzacyjnego
 

@@ -8,10 +8,10 @@ pos: 1010
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1010 Załącznik do rozporządzenia Ministra Finansów z dnia 2 lipca 2015 r. (poz. …) FORMULARZ INFORMACYJNY O OFERCIE ODWRÓCONEGO KREDYTU HIPOTECZNEGO Wprowadzenie Udzielenie poniższych informacji wymagane jest prawem, aby zapoznać Kredytobiorcę ze szczegółowymi warunkami udzielania i rozliczania odwróconego kredytu hipotecznego (dalej: „kredytu”). Formularz informacyjny umożliwi porównanie różnych ofert kredytu.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001010) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1010/text.pdf) |
 
-Wprowadzenie Udzielenie poniższych informacji wymagane jest prawem, aby zapoznać Kredytobiorcę ze szczegółowymi warunkami udzielania i rozliczania odwróconego kredytu hipotecznego (dalej: „kredytu”). Formularz informacyjny umożliwi porównanie różnych ofert kredytu.
 Niniejszy formularz informacyjny został przygotowany: przez [imię i nazwisko pracownika Banku/Pośrednika ] w dniu [bieżąca data] dla [imię i nazwisko Kredytobiorcy ], [który jest właścicielem (współwłaścicielem) nieruchomości/któremu przysługuje spółdzielcze własnościowe prawo do lokalu (udział w spółdzielczym własnościowym prawie do lokalu)/któremu przysługuje prawo użytkowania wieczystego (udział w prawie użytkowania wieczystego) ] [adres nieruchomości ].
 Niniejszy formularz informacyjny został przedstawiony Kredytobiorcy: przez [imię i nazwisko pracownika Banku/ Pośrednika] w dniu [bieżąca data].
 Niniejszy formularz informacyjny został przygotowany na podstawie informacji dostarczonych przez Kredytobiorcę, które nie zostały zweryfikowane przez Bank/Pośrednika, przy uwzględnieniu aktualnej sytuacji na rynku finansowym.
 Przedstawiona poniżej oferta obowiązuje do dnia [termin ważności]. Po tym terminie może się zmienić odpowiednio do sytuacji na rynku.
-Niniejszy formularz informacyjny nie stanowi oferty w rozumieniu art. 66 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.).
+Niniejszy formularz informacyjny nie stanowi oferty w rozumieniu art. 66 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.).
 1. Dane identyfikacyjne i kontaktowe Banku/Pośrednika
 1.1. Bank : [Nazwa] Adres: [Adres, z którego ma korzystać Kredytobiorca] Numer telefonu: [Numer telefonu] Numer faksu: [Numer faksu] Adres poczty elektronicznej: [Adres poczty elektronicznej] Adres strony internetowej: [Adres strony internetowej] (W odpowiednich przypadkach) Osoba [Imię i nazwisko osoby wyznaczonej do wyznaczona do kontaktu/punkt kontaktowy: kontaktu/punkt kontaktowy]
 1.2. Pośrednik: [Nazwa] Adres: [Adres, z którego ma korzystać Kredytobiorca] Numer telefonu: [Numer telefonu] Numer faksu: [Numer faksu] Adres poczty elektronicznej: [Adres poczty elektronicznej] Adres strony internetowej: [Adres strony internetowej] (W odpowiednich przypadkach) Osoba [Imię i nazwisko osoby wyznaczonej do wyznaczona do kontaktu/punkt kontaktowy: kontaktu/punkt kontaktowy]
@@ -50,7 +49,7 @@ Zmiana stopy oprocentowania może mieć wpływ na całkowitą kwotę zadłużeni
 2.10. Przygotowanie i rozpatrzenie wniosku kredytowego Sposób płatności: [podać sposób płatności, np. wpłata gotówkowa, przelew na rachunek, potrącenie z kwoty kredytu /raty kredytu] Sposób rozliczenia: [podać sposób rozliczenia, np. płatność jednorazowa, w ratach] (W odpowiednich przypadkach) Powyższe dane mogą mieć charakter szacunkowy.
 2.11. Wymagane zabezpieczenie kredytu: [podać przedmiot zabezpieczenia kredytu] Zabezpieczeniem kredytu jest: [podać sposób (formę) zabezpieczenia kredytu] Bankowi przysługuje roszczenie o przeniesienie własności nieruchomości , stanowiącej zabezpieczenie kredytu, jeżeli nie zostanie spłacona całkowita kwota do zapłaty.
 Zabezpieczeniem kredytu może być hipoteka ustanowiona na jednej lub kilku nieruchomościach oraz ujawnione w księdze wieczystej roszczenie o przeniesienie własności nieruchomości .
-Całkowita kwota do zapłaty suma wypłaconej kwoty kredytu, odsetek oraz innych kosztów niezapłaconych przez Kredytobiorcę przed spłatą kredytu, należnych do dnia spłaty.
+Całkowita kwota do zapłaty – suma wypłaconej kwoty kredytu, odsetek oraz innych kosztów niezapłaconych przez Kredytobiorcę przed spłatą kredytu, należnych do dnia spłaty.
 2.12. Wycena nieruchomości Koszt wyceny nieruchomości ponosi: [strona umowy kredytu, która ponosi koszt] (W odpowiednich przypadkach) Sposób płatności: [podać sposób płatności, np. wpłata gotówkowa, przelew na rachunek, potrącenie z kwoty kredytu/raty kredytu] (W odpowiednich przypadkach) Sposób rozliczenia: [podać sposób rozliczenia, np. płatność jednorazowa, w ratach] (W odpowiednich przypadkach) Dane mogą mieć charakter szacunkowy.
 2.13. Monitorowanie wartości nieruchomości Koszt monitorowania wartości nieruchomości ponosi: [strona umowy kredytu, która ponosi koszt] Częstotliwość monitorowania wartości nieruchomości : [długość okresu, co który będzie monitorowana wartość nieruchomości ] Sposób monitorowania wartości nieruchomości : [podać zasady] Sposób płatności: [podać sposób płatności, np. wpłata gotówkowa, przelew na rachunek, potrącenie z kwoty kredytu/raty kredytu] Sposób rozliczenia płatności: [podać sposób rozliczenia, np. płatność jednorazowa, w ratach] (W odpowiednich przypadkach) Powyższe dane mogą mieć charakter szacunkowy.
 2.14. Zasady spłaty i rozliczenia kredytu Sposób spłaty i rozliczenia kredytu w przypadku odstąpienia Kredytobiorcy od umowy kredytu: [podać sposób spłaty i rozliczenia] Sposób spłaty i rozliczenia kredytu w przypadku przedterminowej spłaty całkowitej kwoty do zapłaty przez Kredytobiorcę: [podać sposób spłaty i rozliczenia]. Bank w terminie 14 dni od dnia dokonania spłaty potwierdzi rozliczenie umowy kredytu.
@@ -66,8 +65,7 @@ Sposób spłaty i rozliczenia kredytu w przypadku przedterminowej spłaty częś
 3.7. Inne koszty (W odpowiednich przypadkach) [podać informacje o wysokości lub konieczności poniesienia przez Kredytobiorcę wszystkich innych kosztów, w związku z zawarciem i zmianą umowy kredytu, w szczególności: opłat, podatków oraz kosztów usług dodatkowych]
 4. Pozostałe informacje
 4.1. Odstąpienie od umowy kredytu przez Kredytobiorcę Termin odstąpienia od umowy kredytu: Kredytobiorca może bez podania przyczyny odstąpić od umowy kredytu w terminie 30 dni od dnia jej zawarcia.
-Sposób odstąpienia od umowy kredytu: Kredytobiorca, przed upływem terminu 30 dni, składa oświadczenie o odstąpieniu od umowy, według wzoru dołączonego do umowy kredytu, pod adres wskazany przez Bank [podać adres] lub nadaje oświadczenie w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r.
-Prawo pocztowe (Dz. U. poz. 1529).
+Sposób odstąpienia od umowy kredytu: Kredytobiorca, przed upływem terminu 30 dni, składa oświadczenie o odstąpieniu od umowy, według wzoru dołączonego do umowy kredytu, pod adres wskazany przez Bank [podać adres] lub nadaje oświadczenie w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529).
 Warunki i sposób dokonania przez Kredytobiorcę zwrotu środków: Kredytobiorca obowiązany jest do zwrotu Bankowi wypłaconej kwoty kredytu, powiększonej o odsetki naliczone przez Bank do dnia odstąpienia od umowy kredytu, oraz opłat lub ich części poniesionych przez Bank na rzecz organów administracji państwowej lub sądów. [Podać sposób zwrotu środków] Sposób postępowania w przypadku niedokonania przez Kredytobiorcę zwrotu środków: [podać sposób postępowania] (W odpowiednich przypadkach) Dodatkowe informacje: [podać dodatkowe informacje]
 4.2. Wypowiedzenie umowy kredytu przez Kredytobiorcę Termin wypowiedzenia umowy kredytu: Kredytobiorca może wypowiedzieć umowę kredytu w każdym czasie, z zachowaniem 30-dniowego terminu.
 Sposób wypowiedzenia umowy kredytu: Kredytobiorca składa pisemne oświadczenie o wypowiedzeniu umowy kredytu, pod adres wskazany przez Bank [podać adres], w oddziale (placówce) Banku lub nadaje oświadczenie za pośrednictwem poczty.

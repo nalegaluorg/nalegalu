@@ -8,10 +8,10 @@ pos: 524
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 marca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 524 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 lutego 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/524/text.pdf) |
 
-Poz. 524 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 lutego 2018 r.
-w sprawie reorganizacji Przemysłowego Instytutu Automatyki i Pomiarów w Warszawie Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2017 r. poz. 1158, 1452 i 2201) zarządza się, co następuje: § 1. Przemysłowy Instytut Automatyki i Pomiarów z siedzibą w Warszawie, numer identyfikacyjny REGON 000035257, numer identyfikacji podatkowej NIP 525-000-88-15 , otrzymuje nazwę Przemysłowy Instytut Automatyki i Pomiarów PIAP.
+w sprawie reorganizacji Przemysłowego Instytutu Automatyki i Pomiarów w Warszawie Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2017 r. poz. 1158, 1452 i 2201) zarządza się, co następuje:
+§ 1. Przemysłowy Instytut Automatyki i Pomiarów z siedzibą w Warszawie, numer identyfikacyjny REGON 000035257, numer identyfikacji podatkowej NIP 525-000-88-15 , otrzymuje nazwę Przemysłowy Instytut Automatyki i Pomiarów PIAP.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Prezes Rady Ministrów: M. Morawiecki Przemysłowy Instytut Automatyki i Pomiarów w Warszawie utworzony zarządzeniem nr 112 Ministra Przemysłu Ciężkiego z dnia 25 maja 1965 r. w sprawie utworzenia Przemysłowego Instytutu Automatyki i Pomiarów, zmienionym zarządzeniem nr 10/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 5 marca 1986 r. w sprawie dostosowania organizacji instytutu naukowo-badawczego pod nazwą Przemysłowy Instytut Automatyki i Pomiarów do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zmienionym rozporządzeniem Rady Ministrów z dnia 27 grudnia 2010 r. w sprawie połączenia Przemysłowego Instytutu Automatyki i Pomiarów oraz Ośrodka Badawczo-Rozwojowego Urządzeń Sterowania Napędów (Dz. U. poz. 1763).
 

@@ -8,10 +8,10 @@ pos: 536
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 kwietnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 536 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 marca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/536/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 marca 2016 r.
 w sprawie regulaminu wyścigów konnych Na podstawie art. 10 ust. 1 ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. z 2015 r. poz. 642 i 1893) zarządza się, co następuje:
+§ 1. Rozporządzenie ustala regulamin wyścigów konnych określający sprawy dotyczące:
 1) ras koni dopuszczonych do udziału w wyścigach konnych;
 2) systemów, rodzajów i warunków przeprowadzania gonitw;
 3) obowiązków i uprawnień właścicieli koni, kierowników stajni wyścigowych, trenerów, pracowników obsługi stajni oraz jeźdźców (powożących);
@@ -46,10 +46,12 @@ w sprawie regulaminu wyścigów konnych Na podstawie art. 10 ust. 1 ustawy z dni
 17) szczegółowego trybu postępowania w sprawach o przewinienia dyscyplinarne;
 18) wymogów, które powinien spełniać oficjalny program wyścigów konnych;
 19) kategoryzacji jeźdźców (powożących).
+§ 2. Do udziału w wyścigach konnych dopuszcza się konie ras:
 1) pełnej krwi angielskiej;
 2) arabskie czystej krwi;
 3) półkrwi;
 4) kłusaki.
+§ 3. Gonitwy galopem przeprowadza się systemem grupowym lub handikapowym – w przypadku koni, o których mowa w § 2 pkt 1–3.
 § 4. 1. System grupowy polega na przeprowadzaniu gonitw, w których biorą udział konie zakwalifikowane do poszczególnych grup ze względu na osiągnięte wyniki w wyścigach konnych, a w przypadku koni rasy półkrwi, również ze względu na pochodzenie, przy czym:
 1) konie, które wygrały, z wyjątkiem wyniku łeb w łeb, gonitwę grupową dla koni grupy, w której się znajdowały, lub dla koni grupy wyższej, przesuwa się do grupy bezpośrednio wyższej od tej, w której się znajdowały;
 2) konie, które wygrały gonitwę pozagrupową kategorii A, także z wynikiem łeb w łeb, przesuwa się do kategorii A, bez względu na to, w której grupie się znajdowały;
@@ -89,7 +91,7 @@ d) gonitwy dla koni IV grupy,
 e) gonitwy pozagrupowe kategorii A i B dla wszystkich koni bez ograniczeń,
 f) gonitwy pozagrupowe kategorii A i B z ograniczeniami, w szczególności ze względu na płeć, wiek lub przynależność do grup,
 g) gonitwy próbne dla 2-letnich koni pełnej krwi angielskiej albo 3-letnich koni arabskich czystej krwi, które nie biegały w gonitwach;
-7) kwalifikacyjne dla gonitw z płotami, rozgrywane zgodnie z warunkami określonymi w załączniku nr 3 do rozporządzenia.
+7) kwalifikacyjne – dla gonitw z płotami, rozgrywane zgodnie z warunkami określonymi w załączniku nr 3 do rozporządzenia.
 8) specjalne:
 a) gonitwy w ramach zawodów lub imprez, o których mowa w art. 44 ust. 3 ustawy z dnia 29 czerwca 2007 r.
 o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. poz. 921, z 2008 r. poz. 1056, z 2009 r.
@@ -104,7 +106,7 @@ a) w gonitwie dla koni zakwalifikowanych o jedną grupę lub kategorię niżej n
 b) w gonitwie dla koni kategorii lub grup wyższych niż grupa lub kategoria, do której zakwalifikowano tego konia;
 2) jeżeli koń wygra, także z wynikiem łeb w łeb, gonitwę dla koni zakwalifikowanych o jedną grupę lub kategorię niżej niż grupa lub kategoria, do której zakwalifikowano tego konia, do końca danego roku koń ten nie może brać udziału w takich gonitwach; nie dotyczy to koni zakwalifikowanych do kategorii A.
 § 8. 1. Konie pełnej krwi angielskiej mogą brać udział w gonitwach galopem, jeżeli zostały wpisane do Polskiej Księgi Stadnej Koni Pełnej Krwi Angielskiej lub innej księgi tej rasy prowadzonej przez podmiot uznany, zgodnie z prawodawstwem zootechnicznym w rozumieniu art. 2 pkt 5 ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, przez właściwy organ państwa członkowskiego Unii Europejskiej oraz Międzynarodową Federację Władz Wyścigowych, zwaną dalej „IFHA”, lub odpowiedniej księgi zagranicznej uznanej przez IFHA.
-2. Konie arabskie czystej krwi mogą brać udział w gonitwach, jeżeli zostały wpisane do Polskiej Księgi Stadnej Koni Arabskich Czystej Krwi lub innej księgi tej rasy prowadzonej przez podmiot uznany, zgodnie z prawodawstwem zootechnicznym, przez właściwy organ państwa członkowskiego Unii Europejskiej oraz Światową Organizację Konia Arabskiego WAHO lub odpowiedniej księgi zagranicznej uznanej przez tę organizację.
+2. Konie arabskie czystej krwi mogą brać udział w gonitwach, jeżeli zostały wpisane do Polskiej Księgi Stadnej Koni Arabskich Czystej Krwi lub innej księgi tej rasy prowadzonej przez podmiot uznany, zgodnie z prawodawstwem zootechnicznym, przez właściwy organ państwa członkowskiego Unii Europejskiej oraz Światową Organizację Konia Arabskiego – WAHO lub odpowiedniej księgi zagranicznej uznanej przez tę organizację.
 3. Konie ras półkrwi mogą brać udział w gonitwach, jeżeli ze względu na pochodzenie spełniają warunki wpisu do księgi hodowlanej w rozumieniu art. 2 pkt 13 ustawy, o której mowa w ust. 1, prowadzonej dla danej rasy w Rzeczypospolitej Polskiej lub do odpowiedniej księgi zagranicznej.
 4. Konie wpisane do odpowiednich ksiąg zagranicznych, o których mowa w ust. 1–3, zgłoszone do wyścigów konnych w danym roku, mogą brać udział w gonitwach, jeżeli:
 1) do Klubu zostaną przesłane dokumenty potwierdzające wpis do odpowiednich ksiąg prowadzonych w innym państwie dla tych koni;
@@ -112,29 +114,29 @@ b) w gonitwie dla koni kategorii lub grup wyższych niż grupa lub kategoria, do
 § 9. Z wyjątkiem gonitw kwalifikacyjnych, konie nie mogą brać udziału w gonitwach częściej niż co 6 dni.
 § 10. 1. Gonitwy wyłącznie dla koni 2-letnich nie mogą odbywać się przed dniem 1 czerwca, a dla koni 2-letnich i starszych przed dniem 1 września.
 2. W gonitwach płaskich mogą brać udział konie:
-1) 2-letnie i starsze w przypadku koni pełnej krwi angielskiej;
-2) 3-letnie i starsze w przypadku koni arabskich czystej krwi;
-3) 3-letnie i starsze w przypadku koni ras półkrwi.
+1) 2-letnie i starsze – w przypadku koni pełnej krwi angielskiej;
+2) 3-letnie i starsze – w przypadku koni arabskich czystej krwi;
+3) 3-letnie i starsze – w przypadku koni ras półkrwi.
 3. W gonitwach z płotami mogą brać udział konie:
-1) 3-letnie i starsze w przypadku koni pełnej krwi angielskiej;
-2) 4-letnie i starsze w przypadku koni arabskich czystej krwi;
-3) 3-letnie i starsze w przypadku koni ras półkrwi.
+1) 3-letnie i starsze – w przypadku koni pełnej krwi angielskiej;
+2) 4-letnie i starsze – w przypadku koni arabskich czystej krwi;
+3) 3-letnie i starsze – w przypadku koni ras półkrwi.
 4. W gonitwach z przeszkodami mogą brać udział konie:
-1) 3-letnie i starsze w przypadku koni pełnej krwi angielskiej;
-2) 3-letnie i starsze w przypadku koni ras półkrwi.
+1) 3-letnie i starsze – w przypadku koni pełnej krwi angielskiej;
+2) 3-letnie i starsze – w przypadku koni ras półkrwi.
 § 11. Gonitwy płaskie dla koni pełnej krwi angielskiej przeprowadza się na dystansie nie krótszym niż 800 m, z tym że w przypadku gonitw przeprowadzanych dla koni w różnym wieku, w których biorą udział konie 2-letnie, gonitwy przeprowadza się na dystansie od 800 m do 1400 m.
 § 12. Gonitwy płaskie dla koni arabskich czystej krwi przeprowadza się na dystansie nie krótszym niż 1400 m.
 § 13. Gonitwy płaskie dla koni ras półkrwi przeprowadza się na dystansach:
-1) od 1400 m do 3200 m w przypadku gonitw przeprowadzanych wyłącznie dla koni 3-letnich oraz gonitw przeprowadzanych dla koni w różnym wieku z udziałem koni 3-letnich;
-2) od 2000 m do 3200 m w przypadku przeprowadzania pozostałych gonitw.
+1) od 1400 m do 3200 m – w przypadku gonitw przeprowadzanych wyłącznie dla koni 3-letnich oraz gonitw przeprowadzanych dla koni w różnym wieku z udziałem koni 3-letnich;
+2) od 2000 m do 3200 m – w przypadku przeprowadzania pozostałych gonitw.
 § 14. Gonitwy z płotami przeprowadza się na dystansie nie krótszym niż 2400 m i nie dłuższym niż 5000 m.
 § 15. 1. Gonitwy z przeszkodami przeprowadza się na dystansie nie krótszym niż 2600 m.
 2. Konie 3-letnie mogą brać udział w gonitwach z przeszkodami rozgrywanych wyłącznie dla koni tej grupy wiekowej od dnia 1 września, na dystansach do 4200 m.
-§ 16. 1. Konie 3-letnie mogą brać udział w gonitwach z płotami rozgrywanych wyłącznie dla koni tej grupy wiekowej od dnia 1 czerwca i tylko na dystansach do 3200 m.
-2. Konie 3-letnie mogą brać udział w gonitwach z płotami rozgrywanych z udziałem koni starszych od dnia 1 września i tylko na dystansach do 3200 m.
+§ 16. 1. Konie 3-letnie mogą brać udział w gonitwach z płotami rozgrywanych wyłącznie dla koni tej grupy wiekowej – od dnia 1 czerwca i tylko na dystansach do 3200 m.
+2. Konie 3-letnie mogą brać udział w gonitwach z płotami rozgrywanych z udziałem koni starszych – od dnia 1 września i tylko na dystansach do 3200 m.
 § 17. 1. Gonitwy płaskie przeprowadza się na bieżni toru wyścigowego.
 2. Trasę gonitwy z płotami i gonitwy z przeszkodami wytycza się chorągiewkami żółtymi, białymi i czerwonymi.
-3. Chorągiewki żółte wyznaczają profil zakrętu i należy je mijać z zewnętrznej strony. Chorągiewki białe i czerwone wyznaczają płoty albo przeszkody, które należy pokonać, oraz odcinki trasy. Chorągiewki białe umieszcza się z lewej strony płotów albo przeszkód oraz odcinków trasy, a czerwone z prawej. Przejazd odbywa się między chorągiewkami.
+3. Chorągiewki żółte wyznaczają profil zakrętu i należy je mijać z zewnętrznej strony. Chorągiewki białe i czerwone wyznaczają płoty albo przeszkody, które należy pokonać, oraz odcinki trasy. Chorągiewki białe umieszcza się z lewej strony płotów albo przeszkód oraz odcinków trasy, a czerwone – z prawej. Przejazd odbywa się między chorągiewkami.
 4. W gonitwach, o których mowa w ust. 2, płoty są ustawione na trasie gonitwy w odstępach od 200 m do 400 m, a przeszkody w odstępach uzależnionych od stopnia trudności gonitwy, przy czym ostatni płot albo przeszkoda nie mogą być ustawione w odległości mniejszej niż 200 m od celownika.
 § 18. 1. W gonitwach biorą udział konie, których przynajmniej przednie kończyny są okute płaskimi, gładkimi podkowami, których wzory są zgodne z zaleceniami IFHA.
 2. Za zgodą komisji technicznej w gonitwach płaskich, z płotami albo gonitwach z przeszkodami mogą być stosowane podkowy płaskie z elementami zapewniającymi lepszą przyczepność, pod warunkiem że elementy te nie stanowią zagrożenia dla koni biorących udział w gonitwie.
@@ -151,18 +153,19 @@ b) w gonitwie dla koni kategorii lub grup wyższych niż grupa lub kategoria, do
 3. Koń przed gonitwą z płotami albo gonitwą z przeszkodami dokonuje próbnych skoków przez płoty albo przeszkody wskazane przez komisję techniczną.
 4. Koń, który dwukrotnie nie wykona próbnego skoku przez płot albo przeszkodę wskazaną przez komisję techniczną, nie bierze udziału w gonitwie.
 § 21. Warunkiem przeprowadzenia gonitwy jest wystartowanie w niej co najmniej dwóch koni należących do dwóch różnych właścicieli, trenowanych przez różnych trenerów, a ponadto w przypadku gonitw:
-1) płaskich grupowych zapisanie do nich co najmniej 7 koni, należących do co najmniej dwóch różnych właścicieli, trenowanych przez co najmniej dwóch różnych trenerów;
-2) płaskich pozagrupowych zapisanie do nich co najmniej 5 koni, należących do co najmniej dwóch różnych właścicieli, trenowanych przez co najmniej dwóch różnych trenerów;
-3) z płotami i z przeszkodami zapisanie do nich co najmniej 7 koni, należących do co najmniej dwóch różnych właścicieli, trenowanych przez co najmniej dwóch różnych trenerów.
+1) płaskich grupowych – zapisanie do nich co najmniej 7 koni, należących do co najmniej dwóch różnych właścicieli, trenowanych przez co najmniej dwóch różnych trenerów;
+2) płaskich pozagrupowych – zapisanie do nich co najmniej 5 koni, należących do co najmniej dwóch różnych właścicieli, trenowanych przez co najmniej dwóch różnych trenerów;
+3) z płotami i z przeszkodami – zapisanie do nich co najmniej 7 koni, należących do co najmniej dwóch różnych właścicieli, trenowanych przez co najmniej dwóch różnych trenerów.
 § 22. 1. Gonitwę przeprowadza się, jeżeli zostały dla niej ustalone szczegółowe warunki, obejmujące co najmniej:
 1) system jej przeprowadzenia;
 2) jej rodzaj i dystans;
 3) wysokość przewidzianych nagród, z wyjątkiem gonitw kwalifikacyjnych.
 2. Szczegółowe warunki gonitwy ustala organizator wyścigów konnych i podaje do wiadomości w sposób zwyczajowo przyjęty na danym torze wyścigowym, co najmniej w terminie:
 1) 14 dni przed przewidywanym terminem zapisu koni do gonitwy;
-2) 7 dni przed przewidywanym terminem zapisu koni do gonitwy w przypadku gonitw dodatkowych.
+2) 7 dni przed przewidywanym terminem zapisu koni do gonitwy – w przypadku gonitw dodatkowych.
 3. W przypadku gdy organizator wyścigów konnych organizuje co najmniej 70 gonitw w roku, warunki, o których mowa w ust. 2, podaje do wiadomości w terminie do dnia 20 stycznia.
 4. W przypadku przeprowadzenia gonitwy dodatkowej z powodu niezapisania do gonitwy płaskiej grupowej albo do gonitwy z płotami lub przeszkodami wymaganej liczby koni, organizator wyścigów konnych, po uzyskaniu pozytywnej opinii Prezesa, podaje do wiadomości warunki tej gonitwy w sposób zwyczajowo przyjęty na danym torze wyścigowym, najpóźniej w dniu zapisu koni do tej gonitwy.
+§ 23. 1. Gonitwy kłusem przeprowadza się systemem wynikowym lub handikapowym.
 2. System wynikowy polega na przeprowadzaniu gonitw, w których biorą udział konie spełniające warunki określone przez organizatora wyścigów konnych dotyczące wyników koni.
 3. System handikapowy polega na przeprowadzaniu gonitw, w których szanse koni są wyrównywane przez zwiększenie dystansu, jaki konie mają do pokonania, nie więcej niż o 80 m.
 § 24. Wyróżnia się następujące rodzaje gonitw kłusem:
@@ -215,9 +218,10 @@ c) gonitwy ze specjalnymi warunkami dotyczącymi jeźdźców.
 3) wysokość przewidzianych nagród, z wyjątkiem gonitw kwalifikacyjnych.
 2. Szczegółowe warunki gonitwy ustala organizator wyścigów konnych i podaje do wiadomości w sposób zwyczajowo przyjęty na danym torze wyścigowym, w terminie co najmniej:
 1) 14 dni przed przewidywanym terminem zapisu koni do gonitwy;
-2) 7 dni przed przewidywanym terminem zapisu koni do gonitwy w przypadku gonitw dodatkowych.
+2) 7 dni przed przewidywanym terminem zapisu koni do gonitwy – w przypadku gonitw dodatkowych.
 3. W przypadku gdy organizator wyścigów konnych organizuje co najmniej 70 gonitw w roku, warunki, o których mowa w ust. 2, podaje do wiadomości w terminie do dnia 20 stycznia.
 4. W przypadku przeprowadzenia gonitwy dodatkowej z powodu niezapisania do gonitwy wymaganej liczby koni organizator wyścigów konnych, po uzyskaniu pozytywnej opinii Prezesa, podaje do wiadomości warunki tej gonitwy w sposób zwyczajowo przyjęty na danym torze wyścigowym, najpóźniej w dniu zapisu koni do tej gonitwy.
+§ 32. 1. Do uprawnień właścicieli koni należy:
 1) zgłaszanie koni do wyścigów konnych w danym roku;
 2) zapisywanie i wycofywanie koni z gonitw;
 3) zgłaszanie protestów;
@@ -240,7 +244,7 @@ c) gonitwy ze specjalnymi warunkami dotyczącymi jeźdźców.
 4) zapewnienie właściwego osiodłania konia do gonitwy albo właściwego przygotowania zaprzęgu do gonitwy;
 5) zgłaszanie dyżurnemu lekarzowi weterynarii, przed i po gonitwie, podejrzenia zachorowania konia;
 6) zgłoszenie do komisji technicznej zastępstwa, potwierdzonego na piśmie, w przypadku nieobecności w czasie rozgrywania gonitw;
-7) wnioskowanie do Klubu o wystawienie i przesłanie zaświadczenia zezwalającego na udział w gonitwie (Racing Clearance Notification (RCN)) do organu lub instytucji właściwej w sprawach organizowania wyścigów konnych w państwie, w którym jest rozgrywana gonitwa w przypadku udziału konia w gonitwie w innym państwie;
+7) wnioskowanie do Klubu o wystawienie i przesłanie zaświadczenia zezwalającego na udział w gonitwie (Racing Clearance Notification (RCN)) do organu lub instytucji właściwej w sprawach organizowania wyścigów konnych w państwie, w którym jest rozgrywana gonitwa – w przypadku udziału konia w gonitwie w innym państwie;
 8) ubezpieczenie pracowników obsługi stajni wyścigowej od następstw nieszczęśliwych wypadków.
 3. Trener posiadający licencję na dosiadanie koni (powożenie) nie może w gonitwie dosiadać (powozić) konia przeciwko koniom przez siebie trenowanym, chyba że dosiada (powozi) jednego z trenowanych przez siebie koni.
 4. Trener nie może trenować konia, którego właścicielem jest inny trener posiadający ważną licencję na trenowanie koni.
@@ -261,7 +265,7 @@ b) kasku spełniającym wymagania odpowiednio IFHA albo UET,
 c) białych spodniach i butach z cholewkami,
 d) kamizelce ochronnej spełniającej wymagania odpowiednio IFHA albo UET;
 4) sprawdzenie prawidłowości osiodłania konia albo właściwego przygotowania zaprzęgu do gonitwy;
-5) złożenie do Klubu, wraz z wnioskiem o licencję na dosiadanie koni (powożenie), pisemnego oświadczenia o ubezpieczeniu się od następstw nieszczęśliwych wypadków, a w przypadku jeźdźca pisemnego oświadczenia o najniższej wadze, pod jaką jeździec może dosiadać koni w tym sezonie;
+5) złożenie do Klubu, wraz z wnioskiem o licencję na dosiadanie koni (powożenie), pisemnego oświadczenia o ubezpieczeniu się od następstw nieszczęśliwych wypadków, a w przypadku jeźdźca – pisemnego oświadczenia o najniższej wadze, pod jaką jeździec może dosiadać koni w tym sezonie;
 6) wywiązywanie się z realizacji dyspozycji trenera dotyczących taktyki i zachowania się w trakcie gonitwy;
 7) utrzymanie wagi, tak aby waga sprawdzona po gonitwie nie była niższa od wagi ustalonej przed gonitwą lub wyższa od tej wagi więcej niż o 1 kg.
 3. Jeździec (powożący) nie może w gonitwie dosiadać (powozić) konia przeciwko koniom, których jest właścicielem, chyba że dosiada (powozi) jednego z koni będących jego własnością.
@@ -269,8 +273,9 @@ d) kamizelce ochronnej spełniającej wymagania odpowiednio IFHA albo UET;
 5. Do obowiązków jeźdźców (powożących) posiadających licencję zagraniczną, oprócz obowiązków określonych w ust. 2, należy:
 1) przedstawienie komisji technicznej ważnej licencji wydanej przez władze wyścigowe państwa będącego członkiem IFHA lub UET;
 2) przedłożenie komisji technicznej wypełnionej deklaracji Clearance Form, której wzór jest określony w załączniku nr 5 do rozporządzenia.
+§ 37. 1. Członkowie komisji technicznej wybierają przewodniczącego komisji technicznej i jego zastępcę spośród składu tej komisji.
 2. Do kompetencji komisji technicznej należy:
-1) nadzór nad przestrzeganiem przepisów regulaminu wyścigów konnych, w tym nadzór nad prawidłowością przebiegu gonitwy, a w przypadku podejrzenia wystąpienia nieprawidłowości wszczęcie postępowania wyjaśniającego i ogłoszenie tego w sposób zwyczajowo przyjęty na danym torze wyścigowym;
+1) nadzór nad przestrzeganiem przepisów regulaminu wyścigów konnych, w tym nadzór nad prawidłowością przebiegu gonitwy, a w przypadku podejrzenia wystąpienia nieprawidłowości – wszczęcie postępowania wyjaśniającego i ogłoszenie tego w sposób zwyczajowo przyjęty na danym torze wyścigowym;
 2) ustalanie, czy koń lub jeździec (powożący) może brać udział w gonitwie ze względu na przepisy regulaminu wyścigów konnych oraz warunki poszczególnych gonitw;
 3) rozstrzyganie protestów;
 4) uznawanie gonitw za nieważne;
@@ -281,25 +286,25 @@ d) kamizelce ochronnej spełniającej wymagania odpowiednio IFHA albo UET;
 9) stwierdzanie niedyspozycji lub choroby jeźdźca (powożącego) na podstawie orzeczenia dyżurnego lekarza medycyny;
 10) ustalanie norm czasu przebywania dystansu w poszczególnych fazach gonitwy;
 11) niedopuszczenie konia do udziału w gonitwie;
-12) wnioskowanie do organizatora wyścigów konnych o odwołanie gonitwy albo dnia wyścigowego lub wyznaczenie, za zgodą Prezesa, innego terminu gonitwy albo dnia wyścigowego do 7 dni od terminu ustalonego w planie gonitw, w przypadku wystąpienia nieprzewidzianych zdarzeń lub złych warunków atmosferycznych, mogących zagrażać bezpieczeństwu przeprowadzanej gonitwy;
+12) wnioskowanie do organizatora wyścigów konnych o odwołanie gonitwy albo dnia wyścigowego lub wyznaczenie, za zgodą Prezesa, innego terminu gonitwy albo dnia wyścigowego – do 7 dni od terminu ustalonego w planie gonitw, w przypadku wystąpienia nieprzewidzianych zdarzeń lub złych warunków atmosferycznych, mogących zagrażać bezpieczeństwu przeprowadzanej gonitwy;
 13) przekazanie do Klubu deklaracji Clearance Form niezwłocznie po zakończeniu dnia wyścigowego;
 14) wykonywanie innych czynności określonych w regulaminie wyścigów konnych.
 3. Komisja techniczna niezwłocznie informuje organizatora wyścigów konnych na piśmie lub w innej uzgodnionej formie o wniesionych protestach oraz rozstrzygnięciach tych protestów.
 § 38. 1. Orzeczenia komisji technicznej zapadają zwykłą większością głosów w obecności co najmniej trzech członków tej komisji, w tym przewodniczącego lub jego zastępcy.
-2. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego komisji technicznej, a w razie jego nieobecności głos zastępcy.
+2. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego komisji technicznej, a w razie jego nieobecności – głos zastępcy.
 3. Orzeczenie komisji technicznej wraz z uzasadnieniem podpisują wszyscy członkowie komisji, którzy brali udział w jego wydaniu.
 4. Komisja techniczna niezwłocznie informuje organizatora wyścigów konnych o wydanym orzeczeniu.
 5. Orzeczenie komisji technicznej jest niezwłocznie podawane do wiadomości przez organizatora wyścigów konnych w sposób zwyczajowo przyjęty na danym torze wyścigowym.
 § 39. 1. Sędziowie techniczni wykonują następujące czynności:
-1) sędzia starter czuwa nad prawidłowością startu;
-2) sędzia u celownika ustala, w jakiej kolejności konie osiągnęły celownik, podaje stan toru wyścigowego i warunki pogodowe w dniu wyścigowym;
-3) sędzia u wagi sprawdza wagę jeźdźców przed i po gonitwie;
-4) sędzia u zegara ustala dokładny czas gonitwy od startu do momentu osiągnięcia celownika przez pierwszego konia;
-5) sędziowie obserwatorzy czuwają nad prawidłowością przebiegu gonitwy na stanowiskach wskazanych przez przewodniczącego komisji technicznej, związanych z przeprowadzeniem gonitw.
+1) sędzia starter – czuwa nad prawidłowością startu;
+2) sędzia u celownika – ustala, w jakiej kolejności konie osiągnęły celownik, podaje stan toru wyścigowego i warunki pogodowe w dniu wyścigowym;
+3) sędzia u wagi – sprawdza wagę jeźdźców przed i po gonitwie;
+4) sędzia u zegara – ustala dokładny czas gonitwy od startu do momentu osiągnięcia celownika przez pierwszego konia;
+5) sędziowie obserwatorzy – czuwają nad prawidłowością przebiegu gonitwy na stanowiskach wskazanych przez przewodniczącego komisji technicznej, związanych z przeprowadzeniem gonitw.
 2. W razie dostrzeżenia nieprawidłowości w zakresie czynności powierzonych sędziemu technicznemu, sędzia techniczny niezwłocznie informuje o tym fakcie przewodniczącego komisji technicznej.
 § 40. 1. Członkowie komisji odwoławczej wybierają przewodniczącego komisji odwoławczej i jego zastępcę spośród składu tej komisji.
 2. Komisja odwoławcza rozpatruje odwołania od orzeczeń komisji technicznej w sprawach określonych w regulaminie wyścigów konnych.
-3. Odwołanie wnosi się w terminie 3 dni od dnia doręczenia orzeczenia komisji technicznej wraz z uzasadnieniem za pośrednictwem tej komisji.
+3. Odwołanie wnosi się w terminie 3 dni od dnia doręczenia orzeczenia komisji technicznej wraz z uzasadnieniem – za pośrednictwem tej komisji.
 4. Komisja odwoławcza rozpatruje odwołanie w terminie 5 dni od dnia jego wniesienia.
 5. Wniesienie odwołania nie wstrzymuje wykonania orzeczenia.
 6. Do orzeczeń wydawanych przez komisję odwoławczą stosuje się odpowiednio przepisy § 38.
@@ -313,11 +318,13 @@ d) kamizelce ochronnej spełniającej wymagania odpowiednio IFHA albo UET;
 2) wykonywanie czynności związanych z przeprowadzeniem kontroli antydopingowej koni;
 3) udzielanie pomocy lekarsko-weterynaryjnej.
 § 43. Dyżurny lekarz medycyny i dyżurny lekarz weterynarii przekazują komisji technicznej wyniki swoich ustaleń na piśmie.
+§ 44. 1. Kierownik stajni wyścigowej albo trener samodzielnie prowadzący stajnię wyścigową zgłaszają na piśmie tę stajnię do Klubu.
 2. Zgłoszenie, o którym mowa w ust. 1, zawiera:
 1) imię i nazwisko, miejsce zamieszkania oraz adres kierownika stajni wyścigowej;
 2) imiona i nazwiska, miejsca zamieszkania oraz adresy trenerów;
 3) imiona i nazwiska, miejsca zamieszkania oraz adresy pracowników obsługi stajni.
 3. Wszelkie zmiany dotyczące danych zawartych w zgłoszeniu przekazuje się Klubowi na piśmie najpóźniej przed upływem 48 godzin od ich zaistnienia.
+§ 45. 1. W gonitwach, z wyjątkiem gonitw międzynarodowych, mogą brać udział konie, które w terminie do dnia 31 stycznia zostały zgłoszone do wyścigów konnych w danym roku, z zastrzeżeniem ust. 2.
 2. W gonitwach, z wyjątkiem gonitw międzynarodowych, mogą brać udział konie zgłoszone po dniu 31 stycznia, jeżeli:
 1) były trenowane na terytorium Rzeczypospolitej Polskiej co najmniej miesiąc przed dniem pierwszego startu oraz
 2) została uiszczona opłata za ich zgłoszenie w wysokości dziesięciokrotności opłaty za zgłoszenie dokonane przed dniem 31 stycznia.
@@ -331,6 +338,7 @@ d) kamizelce ochronnej spełniającej wymagania odpowiednio IFHA albo UET;
 5) nazwę stajni wyścigowej, w której koń jest przygotowywany do wyścigów konnych;
 6) barwy, pod jakimi koń ma brać udział w gonitwach.
 6. Wszelkie zmiany danych zawartych w zgłoszeniu przekazuje się Klubowi na piśmie najpóźniej przed upływem 48 godzin od ich zaistnienia.
+§ 46. 1. Barwy wyścigowe Klub rejestruje corocznie, na wniosek właściciela konia.
 2. Wniosek o rejestrację barw wyścigowych zawiera:
 1) imię i nazwisko oraz adres albo nazwę i siedzibę właściciela konia;
 2) opis barw wyścigowych, przy czym barwy mogą zawierać do 3 kolorów; logo reklamowe uważa się za jeden kolor.
@@ -338,11 +346,13 @@ d) kamizelce ochronnej spełniającej wymagania odpowiednio IFHA albo UET;
 4. Prezes może odmówić rejestracji barw, jeżeli nie odróżniają się one w sposób wystarczający od barw już zarejestrowanych.
 5. Przedłużenie rejestracji barw wyścigowych na kolejny rok następuje na wniosek właściciela konia i dotyczy barw wyścigowych zarejestrowanych w Klubie w poprzednim roku.
 6. W przypadku gdy w gonitwie bierze udział więcej niż jeden koń danego właściciela, sędzia u wagi może nakazać użycie czapki drugiej i kolejnych, o barwach innych niż zarejestrowane, lub nakazać zastosowanie dodatkowego elementu stroju w postaci szarfy lub opaski, który umożliwi odróżnienie koni.
+§ 47. 1. Identyfikacja koni biorących udział w gonitwie polega na weryfikacji:
 1) zgodności wyglądu konia z opisem graficznym konia zawartym w jego dokumencie identyfikacyjnym;
 2) zgodności odczytu numeru wszczepionego transpondera elektronicznego z numerem tego transpondera zamieszczonym w jego dokumencie identyfikacyjnym;
 3) na podstawie dokumentu identyfikacyjnego, czy koń został zaszczepiony przeciwko grypie produktami leczniczymi weterynaryjnymi dopuszczonymi do obrotu, według odpowiedniego dla nich schematu, zgodnie z zasadami określonymi przez organizacje międzynarodowe wyścigów konnych, których członkiem jest Klub.
 2. Identyfikację koni biorących udział w gonitwie przeprowadza osoba upoważniona przez Prezesa.
 3. Jeżeli osoba upoważniona przez Prezesa do identyfikacji koni stwierdzi niezgodność informacji zawartych w dokumencie identyfikacyjnym ze stanem faktycznym, informuje o tym fakcie komisję techniczną, która nie dopuszcza konia, którego to dotyczy, do udziału w gonitwie.
+§ 48. 1. Każdy koń mający wziąć udział w gonitwie powinien być do niej zapisany.
 2. Terminy zapisów ustala organizator wyścigów konnych, z tym że termin ten nie może być krótszy niż 5 dni przed rozegraniem gonitwy.
 3. Zapis jest pisemnym dowodem zgłoszenia konia do udziału w określonej gonitwie.
 4. Zapis konia do gonitwy powinien zawierać:
@@ -408,6 +418,7 @@ c) dosiadania konia bez bata;
 1) zostało dokonane przez osobę do tego nieuprawnioną lub niezgodnie z przepisami ust. 1 lub 2 lub
 2) oświadczenie o wycofaniu konia z gonitwy zostało złożone po upływie terminu ustalonego przez organizatora wyścigów konnych.
 6. Oświadczenie o wycofaniu konia z gonitwy jest nieodwołalne.
+§ 54. 1. Waga jeźdźca oznacza wagę człowieka, bez kasku, oraz wagę wszystkich przedmiotów, które koń niesie w gonitwie, z wyjątkiem napierśnika, wytoka, nachrapnika, uzdy, kiełzna, okularów, bata, nauszników, wszelkich ochraniaczy, bandaży, ścierki pod siodło z numerem oraz innych przedmiotów zgodnych z zaleceniami IFHA – pomniejszoną o 0,5 kg przewidziane na kamizelkę ochronną albo o rzeczywistą wagę kamizelki.
 2. Konie biorące udział w gonitwach powinny nieść wagę wynikającą ze szczegółowych warunków ustalonych dla danej gonitwy.
 3. Właściciel konia lub osoba przez niego upoważniona, podczas ważenia jeźdźca, może zwiększyć wagę wynikającą ze szczegółowych warunków ustalonych dla danej gonitwy, nie więcej jednak niż o 2 kg, stosując skalę wag co 0,5 kg, informując o tym sędziego u wagi.
 4. Jeżeli waga, jaką ma nieść koń w gonitwie, nie została przed gonitwą sprawdzona, koń nie może brać udziału w gonitwie.
@@ -416,32 +427,32 @@ c) dosiadania konia bez bata;
 2) wyniki osiągane przez konia w gonitwach;
 3) kategorię jeźdźca.
 § 56. 1. Klacze pełnej krwi angielskiej w wieku 2 lat korzystają z 1 kg ulgi wagi, natomiast w wieku od 3 do 6 lat korzystają z ulgi wagi na dystansach:
-1) do 1400 m włącznie 1 kg;
-2) powyżej 1400 m 2 kg.
+1) do 1400 m włącznie – 1 kg;
+2) powyżej 1400 m – 2 kg.
 2. Klacze arabskie czystej krwi i klacze ras półkrwi, w wieku od 3 do 6 lat włącznie, korzystają z 2 kg ulgi wagi niezależnie od dystansu gonitwy.
 3. W gonitwach klaczy noszą one wagę odpowiadającą ich wiekowi.
 4. Wałachy noszą w gonitwach wagę określoną dla ogierów.
 § 57. 1. W gonitwach, w których przysługuje ulga wagi ze względu na kategorię jeźdźca, stosuje się następujące ulgi wagi:
-1) 4 kg gdy dosiadającym jest uczeń jeździecki;
-2) 3 kg gdy dosiadającym jest starszy uczeń jeździecki;
-3) 2 kg gdy dosiadającym jest praktykant dżokejski;
-4) 1 kg gdy dosiadającym jest kandydat dżokejski.
+1) 4 kg – gdy dosiadającym jest uczeń jeździecki;
+2) 3 kg – gdy dosiadającym jest starszy uczeń jeździecki;
+3) 2 kg – gdy dosiadającym jest praktykant dżokejski;
+4) 1 kg – gdy dosiadającym jest kandydat dżokejski.
 2. W gonitwach przeznaczonych wyłącznie dla uczniów jeździeckich starsi uczniowie jeździeccy nie korzystają z ulgi wagi, a pozostałych jeźdźców obowiązują następujące ulgi wagi:
-1) jeżeli uczeń jeździecki nie wygrał jeszcze żadnej gonitwy stosuje się 2 kg ulgi wagi;
-2) jeżeli uczeń jeździecki wygrał przynajmniej jedną gonitwę do czasu wygrania przez niego 10 gonitw stosuje się 1 kg ulgi wagi.
+1) jeżeli uczeń jeździecki nie wygrał jeszcze żadnej gonitwy – stosuje się 2 kg ulgi wagi;
+2) jeżeli uczeń jeździecki wygrał przynajmniej jedną gonitwę – do czasu wygrania przez niego 10 gonitw stosuje się 1 kg ulgi wagi.
 3. Ulg wagi, o których mowa w ust. 1 i 2, nie stosuje się w gonitwach dla koni 2-letnich pełnej krwi angielskiej i 3-letnich koni arabskich czystej krwi.
 4. Ulgi wagi ze względu na kategorię jeźdźca nie stosuje się w gonitwach pozagrupowych oraz w przypadku jeźdźców z licencją zagraniczną.
 § 58. 1. Jeżeli koń bierze udział w gonitwie dla koni grupy lub kategorii niższej niż grupa lub kategoria, do której został zakwalifikowany:
 1) niesie nadwyżkę wagi w wysokości:
-a) 3 kg na dystansach do 1400 m włącznie,
-b) 2 kg na dystansach powyżej 1400 m i poniżej 2000 m,
-c) 1 kg na dystansach 2000 m i dłuższych;
+a) 3 kg – na dystansach do 1400 m włącznie,
+b) 2 kg – na dystansach powyżej 1400 m i poniżej 2000 m,
+c) 1 kg – na dystansach 2000 m i dłuższych;
 2) nie stosuje się ulgi wagi ze względu na kategorię jeźdźca.
 2. Jeżeli koń, który został zakwalifikowany do kategorii A, wygra gonitwę pozagrupową kategorii B, także z wynikiem łeb w łeb, a następnie bierze udział w gonitwie pozagrupowej kategorii B, stosuje się 2 kg nadwyżki wagi oraz nadwyżkę wagi określoną w ust. 1 pkt 1.
 3. Jeżeli koń wygra, także z wynikiem łeb w łeb, gonitwę pozagrupową kategorii A, a następnie bierze udział w gonitwie pozagrupowej kategorii B, stosuje się 2 kg nadwyżki wagi za każdą wygraną gonitwę w kategorii A oraz nadwyżkę wagi określoną w ust. 1 pkt 1.
 4. Jeżeli koń bierze udział w gonitwie dla koni grupy wyższej od grupy, do której został zakwalifikowany, stosuje się ulgę wagi w wysokości:
-1) 3 kg na dystansach 2000 m i dłuższych;
-2) 4 kg na dystansach poniżej 2000 m.
+1) 3 kg – na dystansach 2000 m i dłuższych;
+2) 4 kg – na dystansach poniżej 2000 m.
 5. Łączna ulga wagi z tytułu kategorii jeźdźca oraz z tytułu startu w grupie wyższej nie może wynosić więcej niż 5 kg.
 6. W niekorzystnych warunkach atmosferycznych komisja techniczna może podnieść wagę noszoną przez konie w gonitwach przeprowadzanych systemem grupowym o 1 kg, z wyjątkiem gonitw międzynarodowych.
 7. Konie 2-letnie pełnej krwi angielskiej i 3-letnie konie arabskie czystej krwi we wszystkich gonitwach noszą wagę wieku i nie mogą biegać w grupie niższej niż się znajdują.
@@ -451,17 +462,19 @@ c) 1 kg na dystansach 2000 m i dłuższych;
 3. W razie zbiegu ulgi wagi ze względu na kategorię jeźdźca z nadwyżką wagi lub ulgą wagi, wynikającą z innych warunków gonitwy, ulgę wagi odejmuje się od wagi ustalonej na podstawie pozostałych warunków gonitwy.
 4. Ulga wagi klaczy w gonitwach dla koni oraz w gonitwach dla ogierów i klaczy nie jest liczona do sumy ulg przysługujących klaczy w danej gonitwie.
 § 60. Szczegółowa skala wag noszonych przez konie jest określona w załączniku nr 2 do rozporządzenia.
+§ 61. 1. Organizator wyścigów konnych ustala dla każdej gonitwy, z wyjątkiem gonitw kwalifikacyjnych, wysokość nagród pieniężnych dla trenerów, jeźdźców (powożących) i właścicieli koni, które w danej gonitwie zajęły kolejne trzy miejsca, licząc od pierwszego miejsca. Niezależnie od nagród pieniężnych mogą być przyznawane nagrody rzeczowe.
 2. Organizator wyścigów konnych może ustanowić nagrody dla trenerów, jeźdźców (powożących) i właścicieli koni, które zajęły dalsze miejsca.
 3. Nagrody są wypłacane w terminie 21 dni od dnia ogłoszenia wyników gonitwy, z wyjątkiem nagród za konie, które zostały poddane próbie dopingowej. Późniejszy termin wypłaty nagród wymaga zgody uprawnionego do nagrody.
 4. W razie orzeczenia o zdyskwalifikowaniu konia nagrody przechodzą na następne konie w kolejności, w jakiej osiągnęły celownik za koniem zdyskwalifikowanym, a właściciel konia zdyskwalifikowanego, jeżeli odebrał nagrodę, jest obowiązany do jej zwrócenia organizatorowi wyścigów konnych najpóźniej 48 godzin od uprawomocnienia się orzeczenia o zdyskwalifikowaniu konia.
 5. Nagrody nieodebrane w terminie 2 lat od dnia ogłoszenia wyników gonitwy nie są wypłacane.
 6. Dopuszcza się przyznawanie dodatkowych nagród pieniężnych i rzeczowych dla właścicieli, hodowców, trenerów, jeźdźców lub powożących koni, które brały udział w gonitwie.
 § 62. 1. Jeżeli co najmniej 2 konie osiągnęły równocześnie celownik, z wynikiem łeb w łeb, nagrody dzieli się na równe części w następujący sposób:
-1) za 2 konie na pierwszym miejscu pierwszą i drugą nagrodę;
-2) za 3 konie na pierwszym miejscu pierwszą, drugą i trzecią nagrodę;
-3) za 4 lub więcej koni na pierwszym miejscu wszystkie nagrody za miejsca, które te konie osiągnęły;
-4) za 2 i więcej koni na drugim miejscu drugą i trzecią nagrodę.
+1) za 2 konie na pierwszym miejscu – pierwszą i drugą nagrodę;
+2) za 3 konie na pierwszym miejscu – pierwszą, drugą i trzecią nagrodę;
+3) za 4 lub więcej koni na pierwszym miejscu – wszystkie nagrody za miejsca, które te konie osiągnęły;
+4) za 2 i więcej koni na drugim miejscu – drugą i trzecią nagrodę.
 2. Przepisy ust. 1 stosuje się odpowiednio do nagród, o których mowa w § 61 ust. 2.
+§ 63. Koń biorący udział w gonitwie powinien być przyprowadzony na miejsce wskazane przez organizatora wyścigów konnych nie później niż na 30 minut przed rozpoczęciem gonitwy. Koń powinien być na pierwszy sygnał sędziego u wagi osiodłany i wyprowadzony na padok. Na drugi sygnał konie powinny być całkowicie przygotowane do gonitwy.
 Na trzeci sygnał jeźdźcy wyjeżdżają na bieżnię toru wyścigowego w celu udania się na start i przejeżdżają przed komisją techniczną.
 § 64. 1. Jeździec biorący udział w gonitwie powinien być zważony w obecności sędziego u wagi, który sprawdza i zapisuje wagę jeźdźca. Zważenie powinno nastąpić najpóźniej na 45 minut przed rozpoczęciem gonitwy.
 2. Jeżeli jeździec po zważeniu uległ wypadkowi, przewodniczący komisji technicznej może zezwolić, aby konia dosiadał inny jeździec.
@@ -484,7 +497,7 @@ Na trzeci sygnał jeźdźcy wyjeżdżają na bieżnię toru wyścigowego w celu 
 6) w przypadku gdy koń nie daje się wprowadzić do maszyny startowej, sędzia starter zwalnia tego konia ze swojej dyspozycji;
 7) sędzia starter uznaje start za nieważny w przypadku nieotwarcia się którychkolwiek drzwiczek maszyny startowej, sygnalizując to głosem oraz podniesieniem czerwonej chorągiewki.
 4. W gonitwach, w których start odbywa się przy zastosowaniu czerwonej chorągiewki, jeźdźcy powinni wyrównać szereg w odległości nie większej niż 15 m od linii startu, następnie podjechać stępem do miejsca startu i nie zatrzymując się, na znak startera, rozpocząć gonitwę.
-§ 70. Jeżeli w czasie od wyjścia koni na bieżnię toru wyścigowego do wprowadzenia ich do maszyny startowej, a w przypadku startu przy zastosowaniu czerwonej chorągiewki do momentu podejścia do linii startu, nastąpi jakakolwiek okoliczność uniemożliwiająca w ocenie komisji technicznej udział konia w gonitwie lub w wyniku której może zostać naruszona zasada równości szans, komisja techniczna może uznać konia za zwolnionego z dyspozycji sędziego startera.
+§ 70. Jeżeli w czasie od wyjścia koni na bieżnię toru wyścigowego do wprowadzenia ich do maszyny startowej, a w przypadku startu przy zastosowaniu czerwonej chorągiewki – do momentu podejścia do linii startu, nastąpi jakakolwiek okoliczność uniemożliwiająca w ocenie komisji technicznej udział konia w gonitwie lub w wyniku której może zostać naruszona zasada równości szans, komisja techniczna może uznać konia za zwolnionego z dyspozycji sędziego startera.
 § 71. 1. Sędzia starter może zwolnić konia ze swojej dyspozycji:
 1) jeżeli jeździec opóźnia podejście do maszyny startowej lub przeszkadza w dokonaniu szybkiego i prawidłowego startu;
 2) w wypadku nagłego zachorowania jeźdźca lub konia;
@@ -494,7 +507,7 @@ Na trzeci sygnał jeźdźcy wyjeżdżają na bieżnię toru wyścigowego w celu 
 § 72. 1. Jeżeli sędzia starter stwierdził, że start nastąpił:
 1) w sposób naruszający zasadę równych szans, w szczególności w przypadku, o którym mowa w § 69 ust. 3 pkt 7, lub
 2) w przypadku awarii maszyny startowej albo
-3) niezgodnie z § 69 ust. 4 uznaje taki start za nieważny i sygnałem dźwiękowym lub świetlnym oraz podniesieniem czerwonej chorągiewki daje sygnał osobie wyznaczonej przez organizatora wyścigów konnych (kontrstarterowi), znajdującej się w odległości 80 m od linii startu, do zawrócenia koni na miejsce startu.
+3) niezgodnie z § 69 ust. 4 – uznaje taki start za nieważny i sygnałem dźwiękowym lub świetlnym oraz podniesieniem czerwonej chorągiewki daje sygnał osobie wyznaczonej przez organizatora wyścigów konnych (kontrstarterowi), znajdującej się w odległości 80 m od linii startu, do zawrócenia koni na miejsce startu.
 2. W przypadku gdy konie miną kontrstartera i nie powrócą na miejsce startu, komisja techniczna uznaje te konie za zwolnione z dyspozycji sędziego startera.
 § 73. 1. Konia, który nie wystartował lub wystartował, ale zatrzymał się lub zboczył z wyznaczonego toru gonitwy przed minięciem kontrstartera, uważa się za konia, który pozostał na starcie.
 2. Konia, który po prawidłowym starcie minął kontrstartera, uważa się za konia, który brał udział w gonitwie w sposób ważny, nawet jeżeli jej nie ukończył.
@@ -512,7 +525,7 @@ a) poganiać konia ręką,
 b) uderzać konia wodzami,
 c) płoszyć innego konia,
 d) nadużywać bata w stosunku do dosiadanego konia, w szczególności przez zbyt dużą liczbę pobudzeń, zbyt mocne pobudzanie oraz przez podnoszenie ręki z batem powyżej linii barku (ramienia); dopuszczalna liczba pobudzeń konia batem na prostej finiszowej wynosi 6,
-e) uderzać konia w sposób, który może spowodować obrażenia, w szczególności przez uderzanie w głowę lub słabiznę, a w przypadku puszczenia wodzy ręką z batem także przed siodłem,
+e) uderzać konia w sposób, który może spowodować obrażenia, w szczególności przez uderzanie w głowę lub słabiznę, a w przypadku puszczenia wodzy ręką z batem – także przed siodłem,
 f) uderzać konia batem, jeżeli w wyniku tego koń nie przyspiesza, został pokonany lub z przewagą wygrywa gonitwę,
 g) stwarzać innych sytuacji mogących narazić na niebezpieczeństwo jeźdźców i konie;
 6) jeźdźcy powinni wykazać poprawną taktycznie i technicznie jazdę;
@@ -555,6 +568,7 @@ b) w okularach, pomimo tego, że został zapisany do gonitwy bez okularów.
 3) wszystkie konie biorące udział w gonitwie zostały zdyskwalifikowane;
 4) odbyła się na innym dystansie niż ustalono w szczegółowych warunkach gonitwy.
 2. Od orzeczenia komisji technicznej o uznaniu gonitwy za nieważną właścicielowi konia przysługuje prawo wniesienia odwołania do komisji odwoławczej.
+§ 79. 1. W gonitwach kłusaków w zaprzęgu sulkę wyposaża się w:
 1) dyszle wykonane z drewna, metalu lub włókna węglowego;
 2) podpory pod stopy powożącego, umiejscowione na dyszlach;
 3) pełne koła (szprychy zabezpieczone plastikową osłoną);
@@ -574,9 +588,9 @@ b) w okularach, pomimo tego, że został zapisany do gonitwy bez okularów.
 5) sędzia starter wydaje następnie komendę „gotów do startu”, po której maszyna startowa oraz ustawione za nią zaprzęgi rozpoczynają jazdę;
 6) w odległości około 100 m przed linią startu zaprzęgi zajmują swoje pola startowe, z tym że zaprzęgi w drugim rzędzie ustawiają się bezpośrednio za pierwszym rzędem;
 7) maszyna startowa podczas startu powinna osiągać prędkości:
-a) 200 m przed linią startu 30 km/h,
-b) 100 m przed linią startu 40 km/h,
-c) na linii startu 52 km/h;
+a) 200 m przed linią startu – 30 km/h,
+b) 100 m przed linią startu – 40 km/h,
+c) na linii startu – 52 km/h;
 8) po przekroczeniu linii startu maszyna startowa zwiększa prędkość, aby oddalić się od zaprzęgów i bezkolizyjnie zjechać na bok.
 2. W gonitwach, w których start odbywa się przy zastosowaniu czerwonej chorągiewki:
 1) zaprzęgi ustawia się w kolejności numerów startowych;
@@ -637,6 +651,7 @@ h) poruszając się chodem innym niż czysty kłus wyraźnie zyskał dystans w s
 2. Dyskwalifikacja zaprzęgu z powodu nieprawidłowości chodu konia może zapaść w trybie natychmiastowym w trakcie gonitwy, a zdyskwalifikowany zaprzęg nie może jej kontynuować i powinien w sposób bezpieczny opuścić bieżnię toru wyścigowego.
 3. Od orzeczenia komisji technicznej w sprawie dyskwalifikacji zaprzęgu właścicielowi konia przysługuje odwołanie do komisji odwoławczej.
 § 87. Do uznawania gonitwy za nieważną stosuje się odpowiednio przepisy § 78.
+§ 88. 1. Koń biorący udział w gonitwie kłusem pod siodłem powinien być przyprowadzony na miejsce wskazane przez organizatora wyścigów konnych nie później niż na 30 minut przed rozpoczęciem gonitwy.
 2. Ogłowie konia nie może zawierać elementów mogących powodować ból lub zranienie.
 3. Waga jeźdźca oznacza wagę człowieka, bez kasku, oraz wszystkich przedmiotów, które koń niesie w gonitwie, z wyjątkiem napierśnika, wytoka, nachrapnika, uzdy, kiełzna, okularów, bata, nauszników, wszelkich ochraniaczy, bandaży, ścierki pod siodło z numerem, pomniejszoną o 0,5 kg przewidziane na kamizelkę ochronną albo o rzeczywistą wagę kamizelki.
 4. Szczegółowa skala wag noszonych przez konie jest określona w załączniku nr 2 do rozporządzenia.
@@ -650,9 +665,9 @@ h) poruszając się chodem innym niż czysty kłus wyraźnie zyskał dystans w s
 4) sędzia starter wydaje następnie komendę „gotów do startu”, po której maszyna startowa oraz ustawione za nią konie ruszają;
 5) w odległości około 100 m przed linią startu konie zajmują swoje pola startowe;
 6) maszyna startowa podczas startu powinna osiągać prędkości:
-a) 200 m przed linią startu 30 km/h,
-b) 100 m przed linią startu 40 km/h,
-c) na linii startu 52 km/h;
+a) 200 m przed linią startu – 30 km/h,
+b) 100 m przed linią startu – 40 km/h,
+c) na linii startu – 52 km/h;
 7) po przekroczeniu linii startu maszyna startowa zwiększa prędkość, aby oddalić się od koni i bezkolizyjnie zjechać na bok.
 2. W gonitwach, w których start odbywa się przy zastosowaniu czerwonej chorągiewki:
 1) konie ustawia się w kolejności numerów startowych;
@@ -672,7 +687,7 @@ c) na linii startu 52 km/h;
 § 92. Jeżeli w okresie od wyjścia koni na bieżnię toru wyścigowego do momentu podejścia do linii startu nastąpi jakakolwiek okoliczność uniemożliwiająca w ocenie komisji technicznej udział konia w gonitwie lub w której wyniku może zostać naruszona zasada równości szans, komisja techniczna może uznać konia za zwolnionego z dyspozycji sędziego startera.
 § 93. Jeżeli sędzia starter stwierdził, że start nastąpił:
 1) w sposób naruszający zasadę równych szans lub
-2) w wyniku awarii maszyny startowej uznaje taki start za nieważny i sygnałem dźwiękowym lub świetlnym oraz podniesieniem czerwonej chorągiewki daje sygnał osobie wyznaczonej przez organizatora wyścigów konnych (kontrstarterowi), znajdującej się w odległości 80 m od linii startu, do zawrócenia koni na miejsce startu.
+2) w wyniku awarii maszyny startowej – uznaje taki start za nieważny i sygnałem dźwiękowym lub świetlnym oraz podniesieniem czerwonej chorągiewki daje sygnał osobie wyznaczonej przez organizatora wyścigów konnych (kontrstarterowi), znajdującej się w odległości 80 m od linii startu, do zawrócenia koni na miejsce startu.
 § 94. 1. Konia, który nie wystartował lub wystartował, ale zatrzymał się lub zboczył z wyznaczonego toru gonitwy przed minięciem kontrstartera, uważa się za konia, który pozostał na starcie.
 2. Konia, który po prawidłowym starcie minął kontrstartera, uważa się za konia, który brał udział w gonitwie w sposób ważny, nawet jeżeli jej nie ukończył.
 3. Konia, który prawidłowo wystartował, minął kontrstartera, zboczył z wyznaczonego toru gonitwy lub nie osiągnął celownika, uważa się za konia, który nie ukończył gonitwy.
@@ -728,6 +743,7 @@ e) podnosząc rękojeść bata powyżej poziomu ramienia;
 2. Dyskwalifikacja konia z powodu nieprawidłowości chodów może zapaść w trybie natychmiastowym w trakcie gonitwy, a zdyskwalifikowany koń nie może jej kontynuować i jeździec, w sposób bezpieczny, opuszcza bieżnię toru wyścigowego.
 3. Od orzeczenia komisji technicznej w sprawie dyskwalifikacji konia właścicielowi konia przysługuje odwołanie do komisji odwoławczej.
 § 99. Do uznawania gonitwy za nieważną stosuje się odpowiednio przepisy § 78.
+§ 100. 1. Protest może być złożony z powodu następujących nieprawidłowości dotyczących gonitwy:
 1) nieprawidłowego dystansu gonitwy;
 2) różnicy między wagą jeźdźca stwierdzoną po gonitwie a wagą ustaloną przed gonitwą;
 3) niedopełnienia warunków określonych w § 63, a w przypadku kłusaków w § 79 ust. 4 i § 88 ust. 1;
@@ -743,19 +759,20 @@ e) podnosząc rękojeść bata powyżej poziomu ramienia;
 13) udziału w gonitwie konia innego niż ten, który był do niej zapisany, oraz dokonania identyfikacji na podstawie podrobionych, przerobionych lub poświadczających nieprawdę dokumentów.
 2. Protest składa się w następujących terminach:
 1) w sprawach, o których mowa w ust. 1 pkt 1:
-a) najpóźniej na 30 minut przed rozpoczęciem gonitwy, jeżeli protest dotyczy pierwszej gonitwy określonej w oficjalnym programie wyścigów konnych na dany dzień, a w pozostałych gonitwach najpóźniej do sygnału oznaczającego wyjeżdżanie jeźdźców na start do gonitwy,
+a) najpóźniej na 30 minut przed rozpoczęciem gonitwy, jeżeli protest dotyczy pierwszej gonitwy określonej w oficjalnym programie wyścigów konnych na dany dzień, a w pozostałych gonitwach – najpóźniej do sygnału oznaczającego wyjeżdżanie jeźdźców na start do gonitwy,
 b) najpóźniej do chwili wyjechania zaprzęgów na bieżnię toru wyścigowego;
 2) w sprawach, o których mowa w ust. 1 pkt 2, najpóźniej do czasu, gdy jeździec, którego wagi protest dotyczy, nie zejdzie z wagi;
-3) w sprawach, o których mowa w ust. 1 pkt 3−7, najpóźniej do sygnału oznaczającego zakończenie ważenia jeźdźców po gonitwie albo do upływu 5 minut po minięciu celownika przez ostatni zaprzęg;
-4) w sprawach, o których mowa w ust. 1 pkt 8−13, najpóźniej przed upływem 48 godzin po zakończeniu gonitwy.
+3) w sprawach, o których mowa w ust. 1 pkt 3 − 7, najpóźniej do sygnału oznaczającego zakończenie ważenia jeźdźców po gonitwie albo do upływu 5 minut po minięciu celownika przez ostatni zaprzęg;
+4) w sprawach, o których mowa w ust. 1 pkt 8 − 13, najpóźniej przed upływem 48 godzin po zakończeniu gonitwy.
 3. Protestów zgłoszonych po upływie terminów określonych w ust. 2 nie rozpatruje się.
 § 101. 1. Protest składa się ustnie albo na piśmie przewodniczącemu komisji technicznej.
-2. Jeździec (powożący) biorący udział w gonitwie zapowiada protest sędziemu u celownika, wyjeżdżając z bieżni toru wyścigowego i podnosząc rękę. Następnie jeździec składa go ustnie sędziemu u wagi, a powożący ustnie przewodniczącemu komisji technicznej.
+2. Jeździec (powożący) biorący udział w gonitwie zapowiada protest sędziemu u celownika, wyjeżdżając z bieżni toru wyścigowego i podnosząc rękę. Następnie jeździec składa go ustnie sędziemu u wagi, a powożący – ustnie przewodniczącemu komisji technicznej.
 3. Protest zgłoszony ustnie:
 1) przez osoby inne niż jeździec (powożący) powinien być potwierdzony na piśmie najpóźniej przed upływem terminu do jego złożenia;
-2) przez trenerów w sprawach określonych w § 100 ust. 1 pkt 3 − 7 powinien być potwierdzony na piśmie najpóźniej przed upływem godziny od jego zgłoszenia.
+2) przez trenerów w sprawach określonych w § 100 ust. 1 pkt 3−7 powinien być potwierdzony na piśmie najpóźniej przed upływem godziny od jego zgłoszenia.
 § 102. 1. Protesty rozstrzyga komisja techniczna, która przed wydaniem orzeczenia wzywa osoby zainteresowane do udzielenia wyjaśnień.
 2. Jeżeli protest nie zostanie uwzględniony, osobie, która go złożyła, służy odwołanie do komisji odwoławczej.
+§ 103. Kontrola antydopingowa polega na pobraniu krwi, wydaliny lub wydzieliny z organizmu jeźdźca (powożącego) lub konia oraz na przeprowadzeniu badań laboratoryjnych próbek pobranego materiału w laboratorium wskazanym przez Prezesa.
 § 104. 1. Przeprowadzenie kontroli antydopingowej zarządza komisja techniczna z własnej inicjatywy lub na wniosek:
 1) sędziego technicznego;
 2) właściciela konia;
@@ -776,19 +793,20 @@ b) najpóźniej do chwili wyjechania zaprzęgów na bieżnię toru wyścigowego;
 3) czas i miejsce pobrania krwi, wydaliny lub wydzieliny oraz sporządzenia próbek;
 4) podpisy:
 a) lekarza pobierającego krew, wydalinę lub wydzielinę,
-b) sędziego wyścigowego członka komisji technicznej,
+b) sędziego wyścigowego – członka komisji technicznej,
 c) trenera konia, od którego pobierana jest próba.
 § 107. 1. O wyniku badania próbki komisja techniczna informuje niezwłocznie po otrzymaniu tego wyniku z laboratorium:
-1) właściciela, trenera oraz kierownika stajni w przypadku kontroli dotyczącej konia;
-2) jeźdźca (powożącego) w przypadku kontroli dotyczącej jeźdźca (powożącego).
+1) właściciela, trenera oraz kierownika stajni – w przypadku kontroli dotyczącej konia;
+2) jeźdźca (powożącego) – w przypadku kontroli dotyczącej jeźdźca (powożącego).
 2. Osoby, o których mowa w ust. 1, które mają zastrzeżenia do wyniku badania próbki, mogą w terminie 7 dni od dnia otrzymania tego wyniku złożyć do komisji technicznej wniosek o przeprowadzenie badania drugiej próbki.
 3. Badanie drugiej próbki przeprowadza się w innym laboratorium, wybranym przez osobę składającą wniosek spośród określonych przez Prezesa laboratoriów, których wykaz podaje się do wiadomości przez wywieszenie w lokalach należących do toru wyścigowego.
 4. W przypadku przeprowadzenia badania drugiej próbki o wyniku kontroli decyduje wynik tego badania.
 § 108. Koszty przeprowadzenia kontroli antydopingowej ponosi Klub, z tym że w przypadku gdy:
-1) wniosek o przeprowadzenie kontroli złożył właściciel konia, kierownik stajni wyścigowej, trener lub jeździec (powożący), a wynik okazał się negatywny koszty te ponosi osoba, która złożyła wniosek;
-2) wynik kontroli jest pozytywny koszty te ponosi jeździec (powożący) w przypadku kontroli jeźdźca (powożącego) albo właściciel konia w przypadku kontroli konia.
+1) wniosek o przeprowadzenie kontroli złożył właściciel konia, kierownik stajni wyścigowej, trener lub jeździec (powożący), a wynik okazał się negatywny – koszty te ponosi osoba, która złożyła wniosek;
+2) wynik kontroli jest pozytywny – koszty te ponosi jeździec (powożący) – w przypadku kontroli jeźdźca (powożącego) albo właściciel konia – w przypadku kontroli konia.
 § 109. 1. Niedozwolonymi środkami dopingującymi dla jeźdźców (powożących) są środki farmakologiczne ujęte w art. 43 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2016 r. poz. 176) oraz środki uznane za dopingowe przez IFHA i UET.
 2. Wykaz niedozwolonych środków dopingujących dla koni jest określony w załączniku nr 6 do rozporządzenia.
+§ 110. 1. Organizator wyścigów konnych powinien zapewnić wyodrębnione pomieszczenia lub miejsca dla:
 1) komisji technicznej;
 2) sędziego u wagi;
 3) sędziego u celownika;
@@ -798,6 +816,7 @@ c) trenera konia, od którego pobierana jest próba.
 § 111. 1. Na padoku mogą przebywać sędziowie, jeźdźcy (powożący), trenerzy, kierownicy stajni lub właściciele koni biorących udział w danej gonitwie, osoby wyznaczone do prezentacji koni, dyżurni lekarze weterynarii i medycyny oraz osoby upoważnione przez organizatora wyścigów konnych.
 2. Na bieżni toru wyścigowego w trakcie rozgrywania gonitwy mogą przebywać wyłącznie sędziowie wyścigowi lub osoby wyznaczone przez organizatora wyścigów konnych.
 § 112. W pomieszczeniu lub miejscu wyznaczonym dla sędziego u wagi mogą przebywać jeźdźcy przygotowujący się do gonitwy oraz trenerzy, których konie biorą udział w gonitwie.
+§ 113. 1. Kto:
 1) umyślnie podaje w zapisie konia do gonitwy albo w zgłoszeniu konia do wyścigów konnych w danym roku informacje nieprawdziwe, posługuje się fałszywymi dokumentami stanowiącymi podstawę identyfikacji konia, podmienia konia w gonitwie,
 2) zmniejsza lub usiłuje zmniejszyć szanse koni w gonitwie lub współdziała w popełnieniu takiego czynu albo pomaga lub nakłania do jego popełnienia,
 3) przez umyślne działanie zmniejsza wartość użytkową konia,
@@ -808,7 +827,7 @@ c) trenera konia, od którego pobierana jest próba.
 8) będąc sędzią wyścigowym, kierownikiem stajni, trenerem lub jeźdźcem (powożącym) albo dyżurnym lekarzem weterynarii albo medycyny, czyni zakłady wzajemne,
 9) narusza obowiązki określone w przepisach o wyścigach konnych, wykonuje je w stanie po użyciu alkoholu lub środka odurzającego lub rażąco narusza porządek na terenie lub w lokalu należącym do toru wyścigowego,
 10) dosiada (powozi) konia w gonitwie po użyciu niedozwolonego środka dopingującego,
-11) stosuje względem konia elementy wchodzące w skład siodła, ogłowia, uprzęży powodujące jego zranienia lub ból lub wiedząc o tym nie przeciwdziała temu podlega karze pieniężnej albo zawieszenia pozwolenia na kierowanie stajnią wyścigową, albo zawieszenia licencji na trenowanie koni, dosiadanie koni (powożenie), albo pełnienie funkcji sędziego wyścigowego.
+11) stosuje względem konia elementy wchodzące w skład siodła, ogłowia, uprzęży powodujące jego zranienia lub ból lub wiedząc o tym nie przeciwdziała temu – podlega karze pieniężnej albo zawieszenia pozwolenia na kierowanie stajnią wyścigową, albo zawieszenia licencji na trenowanie koni, dosiadanie koni (powożenie), albo pełnienie funkcji sędziego wyścigowego.
 2. Kto jako trener, jeździec (powożący) albo sędzia wyścigowy dopuszcza się czynów, o których mowa w ust. 1, w sposób szczególnie rażący lub popełnia je notorycznie, podlega karze pozbawienia prawa trenowania koni albo dosiadania (powożenia) koni, albo pełnienia funkcji sędziego wyścigowego.
 § 114. Kto:
 1) zastosuje w gonitwie niedozwolone podkowy,
@@ -818,7 +837,7 @@ c) trenera konia, od którego pobierana jest próba.
 5) przy starcie korzysta z pomocy osób trzecich lub takiej pomocy udziela,
 6) zgłosi oczywiście bezzasadny protest,
 7) odmawia udzielenia wyjaśnień komisji technicznej,
-8) przez niedbalstwo doprowadzi do zranienia konia podlega karze upomnienia albo nagany, albo karze pieniężnej.
+8) przez niedbalstwo doprowadzi do zranienia konia – podlega karze upomnienia albo nagany, albo karze pieniężnej.
 § 115. Jeździec (powożący), który:
 1) nie dokłada wszelkich starań, aby wygrać gonitwę lub zająć jak najlepsze miejsce,
 2) przez niedbalstwo przeszkadza innemu koniowi lub zaprzęgowi w gonitwie,
@@ -831,17 +850,19 @@ c) trenera konia, od którego pobierana jest próba.
 9) nie rozsiodła konia po gonitwie lub nie zgłosi się do sędziego u wagi, lub oddali się z miejsca ważenia bez zezwolenia,
 10) w gonitwie z płotami lub przeszkodami dokonuje skoków próbnych nienakazanych przez komisję techniczną,
 11) bierze udział w gonitwie bez kamizelki ochronnej,
-12) nie przygotuje się do gonitwy w czasie i w sposób określony w regulaminie wyścigów konnych podlega karze pieniężnej albo karze zawieszenia licencji na dosiadanie koni (powożenie).
+12) nie przygotuje się do gonitwy w czasie i w sposób określony w regulaminie wyścigów konnych – podlega karze pieniężnej albo karze zawieszenia licencji na dosiadanie koni (powożenie).
 § 116. 1. Kto:
 1) zapisuje do gonitwy z płotami lub przeszkodami konia źle skaczącego,
-2) nie przygotuje konia lub zaprzęgu do gonitwy w czasie i w sposób określony w regulaminie wyścigów konnych podlega karze upomnienia, nagany lub karze pieniężnej.
+2) nie przygotuje konia lub zaprzęgu do gonitwy w czasie i w sposób określony w regulaminie wyścigów konnych – podlega karze upomnienia, nagany lub karze pieniężnej.
 2. Kto używa w gonitwach barw innych niż te, które zostały zarejestrowane, podlega karze pieniężnej.
+§ 117. Komisja techniczna wszczyna postępowanie dyscyplinarne z urzędu albo na wniosek organizatora wyścigów konnych, sędziego technicznego, właściciela konia, kierownika stajni, trenera, jeźdźca (powożącego), dyżurnego lekarza weterynarii lub dyżurnego lekarza medycyny.
 § 118. 1. W przypadku potrzeby przeprowadzenia czynności wyjaśniających w postępowaniu dyscyplinarnym, przewodniczący komisji technicznej wyznacza do tych czynności jednego z jej członków.
 2. Prowadzący czynności wyjaśniające bada wszelkie okoliczności potrzebne do bezstronnego wyjaśnienia sprawy, jak również zbiera środki dowodowe, w szczególności przesłuchuje świadków, a w razie potrzeby korzysta z opinii biegłych.
 3. Prowadzący czynności wyjaśniające sporządza protokół z przebiegu przesłuchania świadka. Protokół podpisuje prowadzący czynności wyjaśniające i świadek.
 4. Prowadzący czynności wyjaśniające umożliwia obwinionemu przed zakończeniem tych czynności sposobność wypowiedzenia się co do wszystkich zarzutów, jak również co do materiału dowodowego zebranego w sprawie. Okoliczności wskazane przez obwinionego, mające służyć odparciu zarzutu, prowadzący czynności wyjaśniające powinien sprawdzić w miarę możności, a zgłoszonych przez obwinionego świadków przesłuchać, jeżeli uzna, że zeznania tych świadków mogą mieć dla obrony obwinionego istotne znaczenie.
 5. Odmowa wypowiedzenia się przez obwinionego w czasie przeprowadzania czynności wyjaśniających lub fizyczna niemożność przesłuchania go, trwająca do ukończenia postępowania wyjaśniającego, nie wstrzymuje dalszego toku sprawy.
 6. Osoba ukarana karą pieniężną wpłaca kwotę pieniężną z tytułu orzeczonej kary na rzecz Klubu w terminie 14 dni od dnia doręczenia orzeczenia.
+§ 119. 1. Organizator wyścigów konnych wydaje oficjalny program wyścigów konnych na poszczególne dni wyścigowe, w których rozgrywane są gonitwy.
 2. Program wyścigów konnych zawiera co najmniej:
 1) nazwę toru wyścigowego;
 2) datę, godziny i kolejność rozgrywania poszczególnych gonitw;
@@ -852,15 +873,17 @@ c) trenera konia, od którego pobierana jest próba.
 7) wagę, którą ma nieść koń w gonitwie;
 8) barwy wyścigowe właścicieli koni;
 9) komunikaty i orzeczenia komisji technicznej.
-1) amator jeździec (powożący) niepobierający wynagrodzenia, który nie dosiadał (nie powoził) koni jako zawodowiec w okresie ostatnich trzech lat;
-2) zawodowiec jeździec (powożący) pobierający wynagrodzenie.
+§ 120. 1. W zależności od pobierania wynagrodzenia ustala się następujące kategorie jeźdźców (powożących):
+1) amator – jeździec (powożący) niepobierający wynagrodzenia, który nie dosiadał (nie powoził) koni jako zawodowiec w okresie ostatnich trzech lat;
+2) zawodowiec – jeździec (powożący) pobierający wynagrodzenie.
 2. W zależności od liczby wygranych w gonitwach rozgrywanych wyłącznie galopem ustala się następujące kategorie jeźdźców:
-1) uczeń jeździecki jeździec, który nie wygrał 10 gonitw;
-2) starszy uczeń jeździecki jeździec, który wygrał od 10 do 24 gonitw;
-3) praktykant dżokejski jeździec, który wygrał od 25 do 49 gonitw;
-4) kandydat dżokejski jeździec, który wygrał od 50 do 99 gonitw;
-5) dżokej jeździec, który wygrał co najmniej 100 gonitw.
+1) uczeń jeździecki – jeździec, który nie wygrał 10 gonitw;
+2) starszy uczeń jeździecki – jeździec, który wygrał od 10 do 24 gonitw;
+3) praktykant dżokejski – jeździec, który wygrał od 25 do 49 gonitw;
+4) kandydat dżokejski – jeździec, który wygrał od 50 do 99 gonitw;
+5) dżokej – jeździec, który wygrał co najmniej 100 gonitw.
 3. Przy ustalaniu kategorii jeźdźca zalicza się zwycięstwa w gonitwach, o których mowa w § 6 pkt 1, z wyjątkiem gonitw kwalifikacyjnych.
+§ 121. 1. Szczegółowe warunki gonitw ustalone przez organizatora wyścigów konnych przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność, o ile nie są niezgodne z przepisami tego rozporządzenia.
 2. Szczegółowe warunki gonitw ustalone przed dniem wejścia w życie niniejszego rozporządzenia i niezgodne z przepisami tego rozporządzenia organizator wyścigów konnych zmienia, w terminie 21 dni od wejścia w życie niniejszego rozporządzenia, w sposób zgodny z przepisami niniejszego rozporządzenia.
 § 122. Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 sierpnia 2001 r. w sprawie ustalenia regulaminu wyścigów konnych (Dz. U. poz. 1006 i 1432, z 2002 r. poz. 1281, z 2004 r. poz. 1617, 2007 r. poz. 21 oraz z 2008 r. poz. 985).
 § 123. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
@@ -893,7 +916,7 @@ a) gonitwę kategorii A,
 b) sumę nagród w wysokości najniższej pierwszej nagrody kategorii A dla danej rasy,
 c) samodzielnie grupę lub kategorię niższą od tej, w której się znajdowały, z wyłączeniem koni kategorii A, które wygrały handikap grupowy;
 2) podczas przegrupowania na sezon letni tworzy się IV grupę koni, które w sezonie wiosennym danego roku nie wygrały gonitwy III grupy.
-8. Konie 3-letnie i starsze pełnej krwi angielskiej oraz 4-letnie i starsze konie arabskie czystej krwi po wygraniu jednorazowo 125% najniższej pierwszej nagrody kategorii A dla danej rasy zostają przegrupowane co najmniej do kategorii B, a po wygraniu jednorazowo 250% najniższej pierwszej nagrody kategorii A dla danej rasy do kategorii A (nie dotyczy handikapów).
+8. Konie 3-letnie i starsze pełnej krwi angielskiej oraz 4-letnie i starsze konie arabskie czystej krwi po wygraniu jednorazowo 125% najniższej pierwszej nagrody kategorii A dla danej rasy zostają przegrupowane co najmniej do kategorii B, a po wygraniu jednorazowo 250% najniższej pierwszej nagrody kategorii A dla danej rasy – do kategorii A (nie dotyczy handikapów).
 9. Wszystkie gonitwy handikapowe (nie dotyczy handikapów grupowych, wygranych z wynikiem łeb w łeb) wygrane na terytorium Rzeczypospolitej Polskiej i w innym państwie bez względu na wysokość nagrody przesuwają konia o jedną grupę, z wyjątkiem koni kategorii A, które po wygraniu handikapu grupowego są traktowane jak konie, które wygrały grupę niżej. Przepis dotyczy koni wszystkich ras.
 10. Handikap generalny jest prowadzony na bieżąco i ogłaszany w każdy poniedziałek przed dniem zapisów w siedzibie Klubu. Koń zostaje ujęty w handikapie generalnym przed sezonem, jeżeli był ujęty w handikapie generalnym po sezonie roku poprzedniego. Koń, który nie był ujęty w handikapie generalnym przed sezonem, zostanie w nim ujęty, jeżeli w bieżącym sezonie ukończył przynajmniej dwie gonitwy i nie został w żadnej z nich zdyskwalifikowany. Po dniu derby dla koni pełnej krwi angielskiej w handikapie generalnym zostaną ujęte tylko te konie, które w bieżącym sezonie ukończyły przynajmniej dwie gonitwy i nie zostały w żadnej z nich zdyskwalifikowane. Przy ustalaniu w handikapie generalnym wagi konia, który nie był w nim ujęty przed sezonem, nie uwzględnia się startów tego konia w innym państwie.
 11. Jeżeli między ogłoszeniem wagi, jaką mają nieść poszczególne konie w gonitwie handikapowej, a chwilą ważenia jeźdźca do gonitwy, koń wygrał gonitwę, otrzymuje dodatkowo 2 kg nadwagi za każdą wygraną gonitwę.
@@ -910,28 +933,28 @@ b) nie wygrał gonitwy, bierze się pod uwagę sumę wartości nagród za zajęt
 SKALA WAG NOSZONYCH PRZEZ KONIE I. Skala wag w gonitwach płaskich
 1. Wagi noszone przez konie pełnej krwi angielskiej i konie półkrwi, obowiązujące w gonitwach:
 1) dla koni 2-letnich:
-a) do dnia 31 lipca 56 kg,
-b) po dniu 31 lipca 57 kg;
+a) do dnia 31 lipca – 56 kg,
+b) po dniu 31 lipca – 57 kg;
 2) dla koni 2-letnich i starszych:
-a) dla koni 2-letnich 53 kg,
-b) dla koni 3-letnich 61 kg,
-c) dla koni 4-letnich i starszych 62 kg;
-3) przeznaczonych wyłącznie dla koni 3-letnich na wszystkich dystansach i we wszystkich miesiącach 59 kg.
+a) dla koni 2-letnich – 53 kg,
+b) dla koni 3-letnich – 61 kg,
+c) dla koni 4-letnich i starszych – 62 kg;
+3) przeznaczonych wyłącznie dla koni 3-letnich na wszystkich dystansach i we wszystkich miesiącach – 59 kg.
 2. W gonitwach innych niż wymienione w ust. 1 obowiązuje waga noszona, podana w kilogramach w tabeli nr 1: Tabela nr 1 Dystans Wiek koni Miesiące I II III IV V VI VII VIII IX X XI XII do 1400 m 3-letnie 50 51 52 53 54 55 56 57 58 59 60 60 4-letnie 60 60 60 60 60 60 60 60 60 60 60 60 i starsze ponad 1400 m 3-letnie 49 50 51 52 53 54 55 56 57 58 59 60 i poniżej 2000 m 4-letnie 60 60 60 60 60 60 60 60 60 60 60 60 i starsze od 2000 m do 3-letnie 48 49 50 51 52 53 54 55 56 57 58 59 2400 m 4-letnie 60 60 60 60 60 60 60 60 60 60 60 60 i starsze ponad 2400 m 3-letnie 47 48 49 50 51 52 53 54 55 56 57 58 4-letnie 60 60 60 60 60 60 60 60 60 60 60 60 i starsze
 3. 2-letnie klacze pełnej krwi angielskiej korzystają z 1 kg ulgi wagi.
 4. Wałachy niosą wagę określoną dla ogierów.
 5. Wagę, jaka obowiązuje w gonitwach, o których mowa w ust. 1 pkt 2 i ust. 2, stosuje się również wówczas, gdy do gonitwy nie zapisano koni któregokolwiek z roczników lub po zapisaniu wycofano z gonitwy konie któregokolwiek z roczników.
 6. Ulgi wagi dla klaczy stosuje się również w przypadku, gdy do gonitwy przeznaczonej dla koni różnej płci zapisano wyłącznie klacze lub gdy wszystkie zapisane ogiery i wałachy wycofano.
 7. W gonitwach przeznaczonych dla koni arabskich czystej krwi na wszystkich dystansach i we wszystkich miesiącach obowiązują następujące wagi noszone:
-1) dla koni 3-letnich 58 kg;
-2) dla koni 4-letnich 59 kg;
-3) dla koni 5-letnich i starszych 62 kg.
+1) dla koni 3-letnich – 58 kg;
+2) dla koni 4-letnich – 59 kg;
+3) dla koni 5-letnich i starszych – 62 kg.
 8. W gonitwach przeznaczonych dla koni 3-letnich i starszych arabskich czystej krwi konie 3-letnie korzystają z 4 kg ulgi wagi.
 II. Skala wag w gonitwach z płotami
 1. W gonitwach z płotami dla koni pełnej krwi angielskiej i dla koni półkrwi obowiązuje waga noszona, podana w kilogramach w tabeli nr 2: Tabela nr 2 Dystans Wiek koni Miesiące I II III IV V VI VII VIII IX X XI XII 2400 m 3-letnie - 63 64 64 65 66 3-letnie i starsze - - - - 63 64 4-letnie 66 66 67 67 67 68 5-letnie i starsze 69 69 69 69 69 69 od 2500 m 3-letnie - 63 64 64 65 66 do 3200 m 3-letnie i starsze - - - - 62 63 4-letnie 66 66 67 67 67 68 5-letnie i starsze 69 69 69 69 69 69 powyżej 4-letnie 66 66 66 66 67 67 3200 m 5-letnie i starsze 69 69 69 69 69 69 Klacze 3-, 4-, 5- i 6-letnie korzystają z 2 kg ulgi wagi.
 2. W gonitwach, w których mogą brać udział wyłącznie konie arabskie czystej krwi, obowiązuje następująca skala wagi we wszystkich sezonach i na wszystkich dystansach:
-1) dla koni 4-letnich 66 kg;
-2) dla koni 5-letnich i starszych 70 kg.
+1) dla koni 4-letnich – 66 kg;
+2) dla koni 5-letnich i starszych – 70 kg.
 Klacze w wieku 4–6 lat korzystają z 2 kg ulgi wagi.
 3. Jeżeli konie ras półkrwi uczestniczą w gonitwie z końmi pełnej krwi angielskiej, korzystają z 5 kg ulgi wagi.
 III. Skala wag w gonitwach z przeszkodami
@@ -939,9 +962,9 @@ III. Skala wag w gonitwach z przeszkodami
 2. Jeżeli konie ras półkrwi uczestniczą w gonitwie z końmi pełnej krwi angielskiej, korzystają z 5 kg ulgi wagi.
 IV. Skala wag noszonych w gonitwach kłusem pod siodłem
 1. W gonitwach kłusem pod siodłem, na wszystkich dystansach i we wszystkich miesiącach, obowiązuje następująca skala minimalnych wag dla koni:
-1) 3-letnich 60 kg;
-2) 4-letnich 63 kg;
-3) 5-letnich i starszych 67 kg.
+1) 3-letnich – 60 kg;
+2) 4-letnich – 63 kg;
+3) 5-letnich i starszych – 67 kg.
 2. Klacze w wieku 3–4 lat korzystają z 2 kg ulgi wagi.
 WARUNKI PRZEPROWADZANIA GONITW KWALIFIKACYJNYCH DLA GONITW Z PŁOTAMI
 1. Gonitwy kwalifikacyjne przeprowadza się w celu wyłonienia koni, które będą mogły brać udział w wyścigach z płotami.
@@ -954,15 +977,8 @@ WARUNKI PRZEPROWADZANIA GONITW KWALIFIKACYJNYCH DLA KŁUSAKÓW
 3. Gonitwa kwalifikacyjna jest rozgrywana w zaprzęgu na dystansie 2000 m.
 4. Warunkiem uzyskania kwalifikacji jest uzyskanie rekordu nie większego niż 1 minuta 40 sekund.
 5. Warunkiem przeprowadzenia gonitwy kwalifikacyjnej jest udział w niej co najmniej 2 koni.
-WZÓR DEKLARACJI CLEARANCE FORM Jeździec The Jockey Niniejszym oświadczam, że posiadam licencję dżokeja / jeźdźca amatora do wyścigów płaskich / przeszkodowych / płotowych, wydaną przez …………………………………………………………………………..… …………………………………………………………………………......
-na sezon ………………………. . Jednocześnie oświadczam, że nie zostałem na ten dzień zawieszony ani poddany restrykcjom medycznym, a także nie mam obecnie żadnych obrażeń i w chwili obecnej jestem zdolny do jazdy. Zgadzam się stosować do wszelkich przepisów władz wyścigowych kraju, w którym jeżdżę, i akceptuję, że każda kara przez te władze na mnie nałożona może zostać podtrzymana przez władze wyścigowe innych krajów, stosownie do ich wewnętrznych przepisów i regulacji.
-Potwierdzam także, że podlegam / nie podlegam karze zawieszenia w przyszłości.
-Jeśli tak, proszę podać okres zawieszenia: …………………………………………………………………………… .
-Podpis: ……………….……… Data: ………………….…… Miejsce: …………………….… Dżokej / jeździec …………………………………………………………..……… który podpisał …………………………………………………………………… i nie został Podpis: …………………………………………………………………… Data: …………………………………………………………………… I hereby declare that I hold a jockey/amateur-rider’s permit for flat race/steeple-chases and hurdle races issued by ......................................................................................................................
-......................................................................................................................
-for season ......................... . I am not subject to any suspension on this day or medical restriction and I am currently free from injury and fit to ride at this time. I agree to be bound in all respects by the Rules of the recognized Turf Authority concerned when riding abroad and I accept that any suspension which may be imposed on me by that Authority may be extended by the other Horseracing Authorities under their domestic Rules and in accordance with their laws of public order. I also confirm that I am / I am not subject to any future period of suspension.
-If subject to future suspension, please give relevant dates: ........................
-Signature: The jockey ………………………………………………………………… Who signed …………………………………………………………………… ……………….……… and incurred Signature: …………………………………………………………………… Date: Date: …………………………………………………………………… ………………….…… ......................................................................................
+WZÓR DEKLARACJI CLEARANCE FORM Jeździec The Jockey Niniejszym oświadczam, że posiadam licencję dżokeja / jeźdźca amatora do wyścigów płaskich / przeszkodowych / płotowych, wydaną przez Podpis: Dżokej / jeździec …………………………………………………………………………..… …………………………………………………………..……… …………………………………………………………………………...... który podpisał na sezon ………………………. . Jednocześnie oświadczam, że nie zo- …………………………………………………………………… stałem na ten dzień zawieszony ani poddany restrykcjom medycznym, a także nie mam obecnie żadnych obrażeń i w chwili obecnej jestem ……………….……… i nie został zdolny do jazdy. Zgadzam się stosować do wszelkich przepisów władz Podpis: wyścigowych kraju, w którym jeżdżę, i akceptuję, że każda kara przez te …………………………………………………………………… władze na mnie nałożona może zostać podtrzymana przez władze wyścigowe innych krajów, stosownie do ich wewnętrznych przepisów Data: Data: i regulacji. …………………………………………………………………… Potwierdzam także, że podlegam / nie podlegam karze zawieszenia w przyszłości.
+Jeśli tak, proszę podać okres zawieszenia: ………………….…… …………………………………………………………………………… . Miejsce: …………………….… I hereby declare that I hold a jockey/amateur-rider’s permit for flat race/steeple-chases and hurdle races issued by Signature: The jockey ...................................................................................................................... ………………………………………………………………… ...................................................................................................................... Who signed for season ......................... . I am not subject to any suspension on this …………………………………………………………………… day or medical restriction and I am currently free from injury and fit to ……………….……… and incurred ride at this time. I agree to be bound in all respects by the Rules of the Signature: recognized Turf Authority concerned when riding abroad and I accept …………………………………………………………………… that any suspension which may be imposed on me by that Authority may be extended by the other Horseracing Authorities under their domestic Date: Rules and in accordance with their laws of public order. I also confirm Date: that I am / I am not subject to any future period of suspension. …………………………………………………………………… If subject to future suspension, please give relevant dates: ........................ ………………….…… ......................................................................................
 At: ………………….…… WYKAZ NIEDOZWOLONYCH ŚRODKÓW DOPINGUJĄCYCH DLA KONI
 1. Niedozwolonymi środkami dopingującymi dla koni są:
 1) substancje hormonalne i ich syntetyczne odpowiedniki;
@@ -971,53 +987,53 @@ At: ………………….…… WYKAZ NIEDOZWOLONYCH ŚRODKÓW DOPINGUJĄCYCH D
 4) substancje cytotoksyczne;
 5) środki maskujące;
 6) inne substancje uznane przez IFHA za niedozwolone środki dopingujące dla koni.
-2. Niedozwolonymi środkami dopingującymi dla koni są również substancje wymienione w poniższej tabeli, jeżeli ich stężenie przekracza próg w niej określony: Nazwa substancji Próg dopuszczalnego stężenia poszczególnych substancji arszenik 0,3 mikrograma arszeniku na mililitr moczu boldenon (u ogierów) 0,015 mikrograma wolnego i związanego boldenonu na mililitr moczu ogiera dwutlenek węgla 36 milimoli przyswajalnego dwutlenku węgla na litr osocza krwi sulfotlenek metylu 15 mikrogramów sulfotlenku metylu na mililitr moczu lub 1 mikrogram sulfotlenku metylu na mililitr osocza krwi estranediol u koni 0,045 mikrograma wolnego i związanego (poza wałachami) 5α-estrano-3β,17α-diolu na mililitr moczu hydrokortyzon 1 mikrogram hydrokortyzonu na mililitr moczu metoksytyramina 4 mikrogramy wolnej i związanej 3-metoksytyraminy na mililitr moczu kwas salicylowy 750 mikrogramów kwasu salicylowego na mililitr moczu lub 6,5 mikrograma kwasu salicylowego na mililitr osocza krwi testosteron 0,02 mikrograma wolnego i związanego testosteronu na mililitr moczu u wałachów lub 100 pikogramów wolnego testosteronu w osoczu u wałachów lub 0,055 mikrograma wolnego i związanego testosteronu na mililitr moczu u klaczy (dopóki nie jest źrebna) teobromina 2 mikrogramy teobrominy na mililitr moczu lub 0,3 mikrograma teobrominy na mililitr osocza krwi
+2. Niedozwolonymi środkami dopingującymi dla koni są również substancje wymienione w poniższej tabeli, jeżeli ich stężenie przekracza próg w niej określony: Nazwa substancji Próg dopuszczalnego stężenia poszczególnych substancji arszenik 0,3 mikrograma arszeniku na mililitr moczu boldenon (u ogierów) 0,015 mikrograma wolnego i związanego boldenonu na mililitr moczu ogiera dwutlenek węgla 36 milimoli przyswajalnego dwutlenku węgla na litr osocza krwi sulfotlenek metylu 15 mikrogramów sulfotlenku metylu na mililitr moczu lub 1 mikrogram sulfotlenku metylu na mililitr osocza krwi estranediol u koni 0,045 mikrograma wolnego i związanego 5α-estrano-3β,17α-diolu (poza wałachami) na mililitr moczu hydrokortyzon 1 mikrogram hydrokortyzonu na mililitr moczu metoksytyramina 4 mikrogramy wolnej i związanej 3-metoksytyraminy na mililitr moczu kwas salicylowy 750 mikrogramów kwasu salicylowego na mililitr moczu lub 6,5 mikrograma kwasu salicylowego na mililitr osocza krwi testosteron 0,02 mikrograma wolnego i związanego testosteronu na mililitr moczu u wałachów lub 100 pikogramów wolnego testosteronu w osoczu u wałachów lub 0,055 mikrograma wolnego i związanego testosteronu na mililitr moczu u klaczy (dopóki nie jest źrebna) teobromina 2 mikrogramy teobrominy na mililitr moczu lub 0,3 mikrograma teobrominy na mililitr osocza krwi
 
-#### Rozdział 1 Przepis ogólny § 1. Rozporządzenie ustala regulamin wyścigów konnych określający sprawy dotyczące:
+#### Rozdział 1 Przepis ogólny
 
-#### Rozdział 2 Rasy koni dopuszczonych do udziału w wyścigach konnych § 2. Do udziału w wyścigach konnych dopuszcza się konie ras:
+#### Rozdział 2 Rasy koni dopuszczonych do udziału w wyścigach konnych
 
-#### Rozdział 3 Systemy, rodzaje i warunki przeprowadzania gonitw galopem § 3. Gonitwy galopem przeprowadza się systemem grupowym lub handikapowym w przypadku koni, o których mowa w § 2 pkt 1–3.
+#### Rozdział 3 Systemy, rodzaje i warunki przeprowadzania gonitw galopem
 
-#### Rozdział 4 Systemy, rodzaje i warunki przeprowadzania gonitw kłusem § 23. 1. Gonitwy kłusem przeprowadza się systemem wynikowym lub handikapowym.
+#### Rozdział 4 Systemy, rodzaje i warunki przeprowadzania gonitw kłusem
 
-#### Rozdział 5 Obowiązki i uprawnienia właścicieli koni, kierowników stajni wyścigowych, trenerów, pracowników obsługi stajni oraz jeźdźców (powożących) § 32. 1. Do uprawnień właścicieli koni należy:
+#### Rozdział 5 Obowiązki i uprawnienia właścicieli koni, kierowników stajni wyścigowych, trenerów, pracowników obsługi stajni oraz jeźdźców (powożących)
 
-#### Rozdział 6 Kompetencje i tryb działania komisji technicznej, sędziów technicznych, komisji odwoławczej oraz dyżurnych lekarzy medycyny i weterynarii § 37. 1. Członkowie komisji technicznej wybierają przewodniczącego komisji technicznej i jego zastępcę spośród składu tej komisji.
+#### Rozdział 6 Kompetencje i tryb działania komisji technicznej, sędziów technicznych, komisji odwoławczej oraz dyżurnych lekarzy medycyny i weterynarii
 
-#### Rozdział 7 Zgłaszanie do Klubu stajni wyścigowych § 44. 1. Kierownik stajni wyścigowej albo trener samodzielnie prowadzący stajnię wyścigową zgłaszają na piśmie tę stajnię do Klubu.
+#### Rozdział 7 Zgłaszanie do Klubu stajni wyścigowych
 
-#### Rozdział 8 Zgłaszanie koni do wyścigów w danym roku § 45. 1. W gonitwach, z wyjątkiem gonitw międzynarodowych, mogą brać udział konie, które w terminie do dnia 31 stycznia zostały zgłoszone do wyścigów konnych w danym roku, z zastrzeżeniem ust. 2.
+#### Rozdział 8 Zgłaszanie koni do wyścigów w danym roku
 
-#### Rozdział 9 Rejestracja barw wyścigowych § 46. 1. Barwy wyścigowe Klub rejestruje corocznie, na wniosek właściciela konia.
+#### Rozdział 9 Rejestracja barw wyścigowych
 
-#### Rozdział 10 Identyfikacja koni § 47. 1. Identyfikacja koni biorących udział w gonitwie polega na weryfikacji:
+#### Rozdział 10 Identyfikacja koni
 
-#### Rozdział 11 Zapisywanie i wycofywanie koni z gonitw § 48. 1. Każdy koń mający wziąć udział w gonitwie powinien być do niej zapisany.
+#### Rozdział 11 Zapisywanie i wycofywanie koni z gonitw
 
-#### Rozdział 12 Wagi noszone przez konie w gonitwach galopem § 54. 1. Waga jeźdźca oznacza wagę człowieka, bez kasku, oraz wagę wszystkich przedmiotów, które koń niesie w gonitwie, z wyjątkiem napierśnika, wytoka, nachrapnika, uzdy, kiełzna, okularów, bata, nauszników, wszelkich ochraniaczy, bandaży, ścierki pod siodło z numerem oraz innych przedmiotów zgodnych z zaleceniami IFHA pomniejszoną o 0,5 kg przewidziane na kamizelkę ochronną albo o rzeczywistą wagę kamizelki.
+#### Rozdział 12 Wagi noszone przez konie w gonitwach galopem
 
-#### Rozdział 13 Nagrody wyścigowe § 61. 1. Organizator wyścigów konnych ustala dla każdej gonitwy, z wyjątkiem gonitw kwalifikacyjnych, wysokość nagród pieniężnych dla trenerów, jeźdźców (powożących) i właścicieli koni, które w danej gonitwie zajęły kolejne trzy miejsca, licząc od pierwszego miejsca. Niezależnie od nagród pieniężnych mogą być przyznawane nagrody rzeczowe.
+#### Rozdział 13 Nagrody wyścigowe
 
-#### Rozdział 14 Szczegółowe zasady rozgrywania gonitw galopem § 63. Koń biorący udział w gonitwie powinien być przyprowadzony na miejsce wskazane przez organizatora wyścigów konnych nie później niż na 30 minut przed rozpoczęciem gonitwy. Koń powinien być na pierwszy sygnał sędziego u wagi osiodłany i wyprowadzony na padok. Na drugi sygnał konie powinny być całkowicie przygotowane do gonitwy.
+#### Rozdział 14 Szczegółowe zasady rozgrywania gonitw galopem
 
-#### Rozdział 15 Szczegółowe zasady rozgrywania gonitw kłusaków w zaprzęgu § 79. 1. W gonitwach kłusaków w zaprzęgu sulkę wyposaża się w:
+#### Rozdział 15 Szczegółowe zasady rozgrywania gonitw kłusaków w zaprzęgu
 
-#### Rozdział 16 Szczegółowe zasady rozgrywania gonitw kłusem pod siodłem § 88. 1. Koń biorący udział w gonitwie kłusem pod siodłem powinien być przyprowadzony na miejsce wskazane przez organizatora wyścigów konnych nie później niż na 30 minut przed rozpoczęciem gonitwy.
+#### Rozdział 16 Szczegółowe zasady rozgrywania gonitw kłusem pod siodłem
 
-#### Rozdział 17 Składanie protestów § 100. 1. Protest może być złożony z powodu następujących nieprawidłowości dotyczących gonitwy:
+#### Rozdział 17 Składanie protestów
 
-#### Rozdział 18 Zasady i tryb kontroli antydopingowej jeźdźców (powożących) i koni oraz wykaz niedozwolonych środków dopingujących § 103. Kontrola antydopingowa polega na pobraniu krwi, wydaliny lub wydzieliny z organizmu jeźdźca (powożącego) lub konia oraz na przeprowadzeniu badań laboratoryjnych próbek pobranego materiału w laboratorium wskazanym przez Prezesa.
+#### Rozdział 18 Zasady i tryb kontroli antydopingowej jeźdźców (powożących) i koni oraz wykaz niedozwolonych środków dopingujących
 
-#### Rozdział 19 Zasady porządkowe na terenach i w lokalach należących do toru wyścigowego § 110. 1. Organizator wyścigów konnych powinien zapewnić wyodrębnione pomieszczenia lub miejsca dla:
+#### Rozdział 19 Zasady porządkowe na terenach i w lokalach należących do toru wyścigowego
 
-#### Rozdział 20 Katalog czynów stanowiących przewinienia dyscyplinarne oraz kar wymierzanych za ich popełnienie § 113. 1. Kto:
+#### Rozdział 20 Katalog czynów stanowiących przewinienia dyscyplinarne oraz kar wymierzanych za ich popełnienie
 
-#### Rozdział 21 Szczegółowy tryb postępowania w sprawach o przewinienia dyscyplinarne § 117. Komisja techniczna wszczyna postępowanie dyscyplinarne z urzędu albo na wniosek organizatora wyścigów konnych, sędziego technicznego, właściciela konia, kierownika stajni, trenera, jeźdźca (powożącego), dyżurnego lekarza weterynarii lub dyżurnego lekarza medycyny.
+#### Rozdział 21 Szczegółowy tryb postępowania w sprawach o przewinienia dyscyplinarne
 
-#### Rozdział 22 Wymogi, które powinien spełniać oficjalny program wyścigów konnych § 119. 1. Organizator wyścigów konnych wydaje oficjalny program wyścigów konnych na poszczególne dni wyścigowe, w których rozgrywane są gonitwy.
+#### Rozdział 22 Wymogi, które powinien spełniać oficjalny program wyścigów konnych
 
-#### Rozdział 23 Kategoryzacja jeźdźców (powożących) § 120. 1. W zależności od pobierania wynagrodzenia ustala się następujące kategorie jeźdźców (powożących):
+#### Rozdział 23 Kategoryzacja jeźdźców (powożących)
 
-#### Rozdział 24 Przepisy końcowe § 121. 1. Szczegółowe warunki gonitw ustalone przez organizatora wyścigów konnych przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność, o ile nie są niezgodne z przepisami tego rozporządzenia.
+#### Rozdział 24 Przepisy końcowe
 

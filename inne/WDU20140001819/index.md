@@ -8,10 +8,10 @@ pos: 1819
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1819 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 1 grudnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1819/text.pdf) |
 
-Poz. 1819 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 1 grudnia 2014 r.
-w sprawie trybu i zasad postępowania w zakresie sporządzania uzasadnienia i oceny konieczności zastosowania offsetu w celu ochrony podstawowych interesów bezpieczeństwa państwa Na podstawie art. 7 ust. 7 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932) zarządza się, co następuje: § 1. 1. Minister kierujący działem administracji rządowej, któremu jednostka organizacyjna będąca zamawiającym podlega lub przez którego jest nadzorowana, zwany dalej „właściwym ministrem”, wskazuje komórkę lub jednostkę organizacyjną właściwą do sporządzenia uzasadnienia konieczności zastosowania offsetu spośród komórek i jednostek organizacyjnych, które mu podlegają lub są przez niego nadzorowane.
+w sprawie trybu i zasad postępowania w zakresie sporządzania uzasadnienia i oceny konieczności zastosowania offsetu w celu ochrony podstawowych interesów bezpieczeństwa państwa Na podstawie art. 7 ust. 7 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932) zarządza się, co następuje:
+§ 1. 1. Minister kierujący działem administracji rządowej, któremu jednostka organizacyjna będąca zamawiającym podlega lub przez którego jest nadzorowana, zwany dalej „właściwym ministrem”, wskazuje komórkę lub jednostkę organizacyjną właściwą do sporządzenia uzasadnienia konieczności zastosowania offsetu spośród komórek i jednostek organizacyjnych, które mu podlegają lub są przez niego nadzorowane.
 2. Właściwy minister, niezwłocznie po otrzymaniu informacji, o której mowa w art. 8 ust. 1 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa, przekazuje ją komórce lub jednostce organizacyjnej właściwej do sporządzenia uzasadnienia konieczności zastosowania offsetu.
 3. Komórka lub jednostka organizacyjna, o której mowa w ust. 1, sporządza uzasadnienie konieczności zastosowania offsetu, które zawiera co najmniej:
 1) nazwę zadania będącego przedmiotem zamówienia lub nazwę przedmiotu zamówienia;

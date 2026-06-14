@@ -8,10 +8,10 @@ pos: 2676
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2676 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2676/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 grudnia 2022 r.
-w sprawie wzoru dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego” Na podstawie art. 71 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wzoru dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego” Na podstawie art. 71 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego”;
 2) szczegółowe rodzaje zabezpieczenia dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego” przed sfałszowaniem lub użyciem przez osobę nieuprawnioną.
 § 2. Ustala się wzór dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego”, stanowiący załącznik do rozporządzenia.

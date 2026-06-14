@@ -8,10 +8,10 @@ pos: 931
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 993311 Załączniki do rozporządzenia Rady Ministrów z dnia 31 maja 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,22 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000931) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/931/text.pdf) |
 
-993311
-1) elementy liniowe elementy liniowe infrastruktury technicznej, tj. kable energetyczne, telekomunikacyjne, w tym optotelekomunikacyjne, oraz rurociągi;
-2) infrastruktura turystyczna obiekty turystyczne związane z bierną i aktywną turystyką, w szczególności: domy na wodzie, pomosty, pontony, slipy, pirsy, miejsca postoju jednostek turystycznych oraz urządzenia i konstrukcje rekreacyjne;
-3) obszar ochrony wizury znaków nawigacyjnych obszar wyznaczony w celu zapewnienia widzialności świateł i konstrukcji znaków nawigacyjnych;
+(Dz. U. poz. …) Załącznik nr 1
+§ 1. 1. Wyjaśnienie pojęć użytych w planie:
+1) elementy liniowe – elementy liniowe infrastruktury technicznej, tj. kable energetyczne, telekomunikacyjne, w tym optotelekomunikacyjne, oraz rurociągi;
+2) infrastruktura turystyczna – obiekty turystyczne związane z bierną i aktywną turystyką, w szczególności: domy na wodzie, pomosty, pontony, slipy, pirsy, miejsca postoju jednostek turystycznych oraz urządzenia i konstrukcje rekreacyjne;
+3) obszar ochrony wizury znaków nawigacyjnych – obszar wyznaczony w celu zapewnienia widzialności świateł i konstrukcji znaków nawigacyjnych;
 4) podakwen ‒ obszar planu stanowiący wydzieloną część akwenu, na której określono funkcje dopuszczalne lub na której obowiązują zakazy lub ograniczenia;
-5) sytuacja nadzwyczajna sytuacja zagrażająca życiu i zdrowiu ludzkiemu lub zagrażająca bezpieczeństwu żeglugi lub środowisku, lub mieniu w tak znacznym wymiarze, że wymaga podjęcia działań natychmiastowych.
+5) sytuacja nadzwyczajna – sytuacja zagrażająca życiu i zdrowiu ludzkiemu lub zagrażająca bezpieczeństwu żeglugi lub środowisku, lub mieniu w tak znacznym wymiarze, że wymaga podjęcia działań natychmiastowych.
 2. Określa się funkcje podstawowe lub dopuszczalne:
-1) badania naukowe prowadzenie badań naukowych obejmujących m.in. monitoring wód i środowiska przyrodniczego oraz prowadzenie badań geologicznych (prac geologicznych) niewymagających koncesji na poszukiwanie i rozpoznawanie złóż;
+1) badania naukowe – prowadzenie badań naukowych obejmujących m.in. monitoring wód i środowiska przyrodniczego oraz prowadzenie badań geologicznych (prac geologicznych) niewymagających koncesji na poszukiwanie i rozpoznawanie złóż;
 2) dziedzictwo kulturowe ‒ ochrona zidentyfikowanych elementów podwodnego dziedzictwa kulturowego w szczególności zabytków i krajobrazów kulturowych przez wskazanie tych elementów w planie, a także zapewnienie warunków ich ochrony;
-3) funkcjonowanie portu utrzymanie i rozwój infrastruktury portowej w celu realizacji istniejących i przyszłych funkcji portowych, takich jak: rybołówstwo, przeładunek, turystyka, transport i przemysł;
+3) funkcjonowanie portu – utrzymanie i rozwój infrastruktury portowej w celu realizacji istniejących i przyszłych funkcji portowych, takich jak: rybołówstwo, przeładunek, turystyka, transport i przemysł;
 4) infrastruktura techniczna:
 a) układanie i utrzymywanie kabli energetycznych i telekomunikacyjnych,
 b) układanie i utrzymywanie rurociągów, w tym rurociągów zrzutowych i poborowych,
 c) lokalizacja innych obiektów służących bezpieczeństwu żeglugi i obronności, niewchodzących w skład infrastruktury portowej;
 5) ochrona środowiska i przyrody ‒ zapewnienie przestrzeni w obszarach morskich niezbędnej do ochrony środowiska i utrzymania walorów przyrodniczych polskich obszarów morskich, uwzględniające konieczność ochrony różnorodności biologicznej i siedlisk przyrodniczych, zachowania właściwego funkcjonowania ekosystemu, utrzymania drożności szlaków migracyjnych zwierząt, utrzymania dobrego stanu wód morskich lub jego poprawę, zapewnienia człowiekowi możliwości zrównoważonego korzystania z walorów przyrodniczych i krajobrazowych środowiska oraz prowadzenia badań naukowych, których wyniki służyć będą ochronie środowiska i przyrody;
-6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż ‒ poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż w rozumieniu ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U.
+6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż ‒ poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U.
 z 2023 r. poz. 633, 1688 i 2029 oraz z 2024 r. poz. 834);
 7) sztuczne wyspy i konstrukcje ‒ wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń służących w szczególności celom gospodarczym, ochronie środowiska i badaniom naukowym;
 8) transport ‒ umożliwienie bezpiecznego przemieszczania się jednostek pływających przez utrzymanie i modernizację torów wodnych oraz infrastruktury związanej z ich funkcjonowaniem;
@@ -72,15 +73,14 @@ o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 20
 3. W przypadku lokalizacji lub rozpoznania podwodnego dziedzictwa kulturowego, do czasu wyznaczenia wokół niego obszaru chronionego oraz zasad obowiązujących na tym obszarze zakazuje się prowadzenia prac mogących spowodować jego uszkodzenie.
 4. W obszarach przeznaczonych pod inwestycje, których prowadzenie może zagrozić podwodnemu dziedzictwu kulturowemu, przeprowadza się inwentaryzację archeologiczną.
 § 5. 1. Układanie elementów liniowych, przebudowę, remont i utrzymanie elementów istniejących dopuszcza się w całym obszarze objętym planem, z tym że:
-1) nakazuje się układanie nowych elementów liniowych pod powierzchnią dna akwenu, a jeżeli nie jest to możliwe ze względów środowiskowych czy lub technologicznych należy stosować inne zabezpieczenia trwale zapewniające bezpieczeństwo nawigacyjne;
-2) nakazuje się układanie nowych elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie, tj. możliwie prostopadle do linii brzegu i bez załamań kierunku oraz nakazuje się układanie wielu elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie oraz możliwie równolegle do już istniejącej, bezpośrednio sąsiadującej infrastruktury, z zachowaniem warunków określonych w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r.
-Prawo budowlane (Dz. U. z 2024 r. poz. 725 i 834);
+1) nakazuje się układanie nowych elementów liniowych pod powierzchnią dna akwenu, a jeżeli nie jest to możliwe ze względów środowiskowych czy lub technologicznych – należy stosować inne zabezpieczenia trwale zapewniające bezpieczeństwo nawigacyjne;
+2) nakazuje się układanie nowych elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie, tj. możliwie prostopadle do linii brzegu i bez załamań kierunku oraz nakazuje się układanie wielu elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie oraz możliwie równolegle do już istniejącej, bezpośrednio sąsiadującej infrastruktury, z zachowaniem warunków określonych w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725 i 834);
 3) zakazuje się układania elementów liniowych w sposób rozproszony;
 4) dopuszcza się układanie wylotów kolektorów służących do wprowadzenia ścieków lub wód do wód morskich we wszystkich akwenach przylegających do linii brzegu, w których dopuszczona jest funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono ograniczenia w tym zakresie;
 5) dopuszcza się układanie kolektorów do poboru i zrzutu wód na cele energetyki komunalnej we wszystkich akwenach przylegających do linii brzegu, w których dopuszczona jest funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono ograniczenia w tym zakresie.
 2. Ustala się pas technologiczny wzdłuż projektowanych i istniejących elementów liniowych w poziomie dla linii kablowych SN i nN o szerokości 0,50 m (po 0,25 m po każdej ze stron od osi linii). W pasach technologicznych obowiązuje zakaz kotwiczenia, z wyłączeniem kotwiczenia awaryjnego oraz związanego z pracami instalacyjnymi i serwisowymi infrastruktury liniowej.
-3. Dopuszcza się układanie wylotów kolektorów służących do wprowadzania ścieków lub wód opadowych oraz roztopowych do wód morskich, a także wylotów przekopów służących wymianie wód we wszystkich akwenach przylegających do linii brzegowej, z zastrzeżeniem przepisów ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r.
-poz. 54 i 834), ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757) i ustawy z dnia 20 lipca 2017 r. Prawo wodne oraz aktów wykonawczych wydanych na podstawie tych ustaw.
+3. Dopuszcza się układanie wylotów kolektorów służących do wprowadzania ścieków lub wód opadowych oraz roztopowych do wód morskich, a także wylotów przekopów służących wymianie wód we wszystkich akwenach przylegających do linii brzegowej, z zastrzeżeniem przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r.
+poz. 54 i 834), ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757) i ustawy z dnia 20 lipca 2017 r. – Prawo wodne oraz aktów wykonawczych wydanych na podstawie tych ustaw.
 4. Układanie elementów liniowych jest możliwe po spełnieniu warunków zawartych w pozwoleniu, o którym mowa w art. 26 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 § 6. 1. Poszukiwanie lub rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż jest dopuszczone na całym obszarze planu, z wyjątkiem akwenów o funkcji podstawowej transport, pod warunkiem, że działalność ta nie będzie uniemożliwiała wykorzystania akwenu zgodnie z jego funkcją podstawową.
 2. Ustala się następujące ograniczenia w zakresie poszukiwania lub rozpoznawania złóż węglowodorów i wydobywania węglowodorów ze złóż:
@@ -128,10 +128,10 @@ Ustala się wykaz współrzędnych charakterystycznych punktów załamania grani
 2. Wyznacza się akwen TRZ.2.T o funkcji podstawowej transport. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
 3. Wyznacza się akwen TRZ.3.Ip o funkcji podstawowej funkcjonowanie portu. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
 4. Wyznacza się akwen TRZ.4.S o funkcji podstawowej turystyka, sport i rekreacja.
-Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h: DOTYCZĄCYCH PRZEZNACZENIA POSZCZEGÓLNYCH AKWENÓW LUB ICH WYDZIELONYCH CZĘŚCI ORAZ INFORMACJI O SZCZEGÓLNIE ISTOTNYCH UWARUNKOWANIACH MAJĄCYCH WPŁYW NA PRZYSZŁE UŻYTKOWANIE POSZCZEGÓLNYCH AKWENÓW W POSTACI KART AKWENÓW § 1. Ustala się rozstrzygnięcia szczegółowe dla akwenu TRZ.1.Ip określone w karcie akwenu.
+Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h: Załącznik nr 2
+§ 1. Ustala się rozstrzygnięcia szczegółowe dla akwenu TRZ.1.Ip określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE TRZ.1.Ip Ip
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA FUNKCJONOWANIE PORTU (Ip)
 6. FUNKCJE DOPUSZCZALNE
@@ -148,34 +148,33 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE TRZ.1.Ip Ip
 2) w wyznaczonym podakwenie 1.1 obowiązuje zakaz lokalizacji obiektów i świateł mogących przysłaniać znaki nawigacyjne od strony wody oraz utrudniać widzialność i rozpoznawalność ww. znaków.
 8. INWESTYCJE CELU PUBLICZNEGO Brak.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) obronność i bezpieczeństwo państwa nie ustala się;
-2) ochrona środowiska nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż nie ustala się;
-5) rybołówstwo nie ustala się.
+1) obronność i bezpieczeństwo państwa – nie ustala się;
+2) ochrona środowiska – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;
+5) rybołówstwo – nie ustala się.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Dopuszcza się lokalizację elementów infrastruktury turystycznej, zgodnie z rozstrzygnięciami zawartymi w części 7. ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW pkt 1.
 11. ZASADY KORZYSTANIA Z AKWENU
-1) formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody akwen położony jest w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009);
-2) obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami brak;
-3) obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska brak;
+1) formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen położony jest w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009);
+2) obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;
+3) obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;
 4) strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r.
 o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r.
-poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834) brak;
-5) ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim brak;
-6) w akwenie realizowane są działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
+poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834) – brak;
+5) ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim – brak;
+6) w akwenie realizowane są działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
 12. SZCZEGÓLNIE ISTOTNE UWARUNKOWANIA DOTYCZĄCE AKWENU
 1) wzdłuż północnej części akwenu zlokalizowana jest wyspa refulacyjna (falochronowa);
-2) w akwenie, przy wyspie refulacyjnej, zlokalizowana jest przystań dalbowa 9 szt. dalb;
-3) w akwenie zlokalizowana jest infrastruktura techniczna przewód podwodny;
+2) w akwenie, przy wyspie refulacyjnej, zlokalizowana jest przystań dalbowa – 9 szt. dalb;
+3) w akwenie zlokalizowana jest infrastruktura techniczna – przewód podwodny;
 4) w akwenie zlokalizowany jest akwen ochrony wizury (podakwen 1.1);
-5) w akwenie znajduje się siedlisko 3150 starorzecza i naturalne eutroficzne zbiorniki wodne;
+5) w akwenie znajduje się siedlisko 3150 – starorzecza i naturalne eutroficzne zbiorniki wodne;
 6) w bezpośrednim sąsiedztwie akwenu, po stronie lądowej, obowiązują ustalenia miejscowego planu zagospodarowania przestrzennego gminy Police, w części dotyczącej obszaru miejscowości Trzebież, przyjętego uchwałą nr XLV/345/01 Rady Miejskiej w Policach z dnia 20 grudnia 2001 r. w sprawie zmian w planie miejscowym zagospodarowania przestrzennego gminy Police, w części dotyczącej obszaru miejscowości Trzebież (Dz. Urz. Woj. Zach.
 z 2002 r. poz. 256).
 13. INNE ISTOTNE INFORMACJE Po wydaniu rozporządzenia przez ministra właściwego do spraw środowiska będą obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009).
 § 2. Ustala się rozstrzygnięcia szczegółowe dla akwenu TRZ.2.T określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE TRZ.2.T T
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA TRANSPORT (T)
 6. FUNKCJE DOPUSZCZALNE
@@ -190,33 +189,32 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE TRZ.2.T T
 2) zakazuje się nurkowania, z wyjątkiem działań ratunkowych i związanych z bezpieczeństwem żeglugi oraz wydobywania obiektów zabytkowych i nurkowań związanych z eksploatacją i budową obiektów hydrotechnicznych.
 8. INWESTYCJE CELU PUBLICZNEGO Utrzymanie parametrów technicznych toru wodnego.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) obronność i bezpieczeństwo państwa nie ustala się;
-2) ochrona środowiska nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż nie ustala się;
-5) rybołówstwo nie ustala się.
+1) obronność i bezpieczeństwo państwa – nie ustala się;
+2) ochrona środowiska – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;
+5) rybołówstwo – nie ustala się.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Nie ustala się.
 11. ZASADY KORZYSTANIA Z AKWENU
-1) formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody akwen położony jest w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009);
-2) obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami brak;
-3) obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska brak;
+1) formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen położony jest w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009);
+2) obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;
+3) obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;
 4) strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r.
 o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r.
-poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834) brak;
-5) ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim brak;
-6) w akwenie realizowane są działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
+poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834) – brak;
+5) ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim – brak;
+6) w akwenie realizowane są działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
 12. SZCZEGÓLNIE ISTOTNE UWARUNKOWANIA DOTYCZĄCE AKWENU
 1) po akwenie odbywa się żegluga o charakterze lokalnym;
 2) akwen pełni funkcję tranzytową dla barek uprawiających żeglugę między Polską a Niemcami;
 3) akwen jest wykorzystywany na rzecz turystyki, sportu i rekreacji;
-4) w akwenie zlokalizowana jest infrastruktura techniczna przewód podwodny;
+4) w akwenie zlokalizowana jest infrastruktura techniczna – przewód podwodny;
 5) przez akwen przebiega projektowany „Zachodniopomorski Szlak Żeglarski”, w ramach którego sukcesywnie następuje przebudowa i modernizacja marin i portów jachtowych w Gryfinie, Szczecinie, Trzebieży, Lubczynie, Stepnicy, Wolinie, Wapnicy, Świnoujściu, Kamieniu Pomorskim, Dziwnowie, Niechorzu, Mrzeżynie, Kołobrzegu, Mielnie i Darłowie;
-6) w akwenie znajduje się siedlisko 3150 starorzecza i naturalne eutroficzne zbiorniki wodne.
+6) w akwenie znajduje się siedlisko 3150 – starorzecza i naturalne eutroficzne zbiorniki wodne.
 13. INNE ISTOTNE INFORMACJE Po wydaniu rozporządzenia przez ministra właściwego do spraw środowiska będą obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009).
 § 3. Ustala się rozstrzygnięcia szczegółowe dla akwenu TRZ.3.Ip określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE TRZ.3.Ip Ip
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA FUNKCJONOWANIE PORTU (Ip)
 6. FUNKCJE DOPUSZCZALNE
@@ -236,35 +234,34 @@ a) nienaruszających elementów liniowych,
 b) niezagrażających stateczności budowli hydrotechnicznych.
 8. INWESTYCJE CELU PUBLICZNEGO Brak.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) obronność i bezpieczeństwo państwa nie ustala się;
-2) ochrona środowiska nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż nie ustala się;
-5) rybołówstwo nie ustala się.
+1) obronność i bezpieczeństwo państwa – nie ustala się;
+2) ochrona środowiska – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;
+5) rybołówstwo – nie ustala się.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Dopuszcza się lokalizację elementów infrastruktury turystycznej, zgodnie z rozstrzygnięciami zawartymi w części 7. ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW pkt 1.
 11. ZASADY KORZYSTANIA Z AKWENU
-1) formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody akwen położony jest w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009);
-2) obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami brak;
-3) obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska brak;
+1) formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen położony jest w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009);
+2) obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;
+3) obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;
 4) strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r.
 o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r.
-poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834) brak;
-5) ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim brak;
-6) w akwenie realizowane są działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
+poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834) – brak;
+5) ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim – brak;
+6) w akwenie realizowane są działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
 12. SZCZEGÓLNIE ISTOTNE UWARUNKOWANIA DOTYCZĄCE AKWENU
 1) akwen pełni funkcję żeglarską, postojową;
 2) w akwenie zlokalizowane są akweny ochrony wizury (podakweny 3.1, 3.2 i 3.3);
 3) część akwenu wykorzystywana jest do postoju oraz załadunku i przeładunku jednostek rybackich;
-4) część akwenu (podakwen 3.4) pełni funkcję stoczniową prowadzone są tu remonty, naprawy i modernizacje oraz produkcja jednostek pływających;
+4) część akwenu (podakwen 3.4) pełni funkcję stoczniową – prowadzone są tu remonty, naprawy i modernizacje oraz produkcja jednostek pływających;
 5) część akwenu stanowi miejsce postoju i manewrowania jednostek SAR;
-6) w akwenie znajduje się siedlisko 3150 starorzecza i naturalne eutroficzne zbiorniki wodne;
+6) w akwenie znajduje się siedlisko 3150 – starorzecza i naturalne eutroficzne zbiorniki wodne;
 7) w bezpośrednim sąsiedztwie akwenu, po stronie lądowej, obowiązują ustalenia miejscowego planu zagospodarowania przestrzennego gminy Police, w części dotyczącej obszaru miejscowości Trzebież, przyjętego uchwałą nr XLV/345/01 Rady Miejskiej w Policach z dnia 20 grudnia 2001 r. w sprawie zmian w planie miejscowym zagospodarowania przestrzennego gminy Police, w części dotyczącej obszaru miejscowości Trzebież (Dz. Urz. Woj. Zach.
 z 2002 r. poz. 256).
 13. INNE ISTOTNE INFORMACJE Po wydaniu rozporządzenia przez ministra właściwego do spraw środowiska będą obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009).
 § 4. Ustala się rozstrzygnięcia szczegółowe dla akwenu TRZ.4.S określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE TRZ.4.S S
-2. NUMER AKWENU
-3. OPIS POŁOŻENIA
+2. NUMER 3. OPIS AKWENU POŁOŻENIA
 4. POLE POWIERZCHNI
 5. FUNKCJA PODSTAWOWA TURYSTYKA, SPORT I REKREACJA (S)
 6. FUNKCJE DOPUSZCZALNE
@@ -281,35 +278,35 @@ KARTA AKWENU 1. OZNACZENIE LITEROWE TRZ.4.S S
 2) w wyznaczonym podakwenie 4.1 obowiązuje zakaz lokalizacji obiektów i świateł mogących przysłaniać znaki nawigacyjne od strony wody oraz utrudniać widzialność i rozpoznawalność ww. znaków.
 8. INWESTYCJE CELU PUBLICZNEGO Brak.
 9. WARUNKI KORZYSTANIA Z AKWENU
-1) obronność i bezpieczeństwo państwa nie ustala się;
-2) ochrona środowiska nie ustala się;
-3) ochrona dziedzictwa kulturowego nie ustala się;
-4) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż nie ustala się;
-5) rybołówstwo nie ustala się.
+1) obronność i bezpieczeństwo państwa – nie ustala się;
+2) ochrona środowiska – nie ustala się;
+3) ochrona dziedzictwa kulturowego – nie ustala się;
+4) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;
+5) rybołówstwo – nie ustala się.
 10. USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Dopuszcza się lokalizację elementów infrastruktury turystycznej, zgodnie z rozstrzygnięciami zawartymi w części 7. ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW pkt 1.
 11. ZASADY KORZYSTANIA Z AKWENU
-1) formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody akwen położony jest w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009);
-2) obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami brak;
-3) obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska brak;
+1) formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen położony jest w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009);
+2) obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;
+3) obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;
 4) strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r.
 o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r.
-poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834) brak;
-5) ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim brak;
-6) w akwenie realizowane są działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
+poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834) – brak;
+5) ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim – brak;
+6) w akwenie realizowane są działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029).
 12. SZCZEGÓLNIE ISTOTNE UWARUNKOWANIA DOTYCZĄCE AKWENU
 1) akwen pełni funkcję żeglarską, postojową;
 2) w akwenie zlokalizowany jest basen jachtowy i pomost oraz funkcjonuje Centralny Ośrodek Żeglarski;
 3) w akwenie zlokalizowane są akweny ochrony wizury (podakwen 4.1);
-4) w akwenie znajduje się siedlisko 3150 starorzecza i naturalne eutroficzne zbiorniki wodne;
+4) w akwenie znajduje się siedlisko 3150 – starorzecza i naturalne eutroficzne zbiorniki wodne;
 5) w bezpośrednim sąsiedztwie akwenu, po stronie lądowej, obowiązują ustalenia miejscowego planu zagospodarowania przestrzennego gminy Police, w części dotyczącej obszaru miejscowości Trzebież, przyjętego uchwałą nr XLV/345/01 Rady Miejskiej w Policach z dnia 20 grudnia 2001 r. w sprawie zmian w planie miejscowym zagospodarowania przestrzennego gminy Police, w części dotyczącej obszaru miejscowości Trzebież (Dz. Urz. Woj. Zach.
 z 2002 r. poz. 256).
 13. INNE ISTOTNE INFORMACJE Po wydaniu rozporządzenia przez ministra właściwego do spraw środowiska będą obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Szczeciński” (PLB320009).
 § 5. Uzasadnienie do szczegółowych rozstrzygnięć dotyczących poszczególnych akwenów zawiera załącznik.
-uwarunkowaniach mających wpływ na przyszłe użytkowanie poszczególnych akwenów w postaci kart akwenów UZASADNIENIE DO SZCZEGÓŁOWYCH ROZSTRZYGNIĘĆ DOTYCZĄCYCH POSZCZEGÓLNYCH AKWENÓW Ustalając szczegółowe rozstrzygnięcia do poszczególnych akwenów objętych planem zagospodarowania przestrzennego morskich wód wewnętrznych port morski w Trzebieży, zwanego dalej „planem”, uwzględniono w szczególności:
+Załącznik do części tekstowej planu w zakresie szczegółowych rozstrzygnięć dotyczących przeznaczenia poszczególnych akwenów lub ich wydzielonych części oraz informacji uwarunkowaniach mających wpływ na przyszłe użytkowanie poszczególnych akwenów w postaci kart akwenów UZASADNIENIE DO SZCZEGÓŁOWYCH ROZSTRZYGNIĘĆ DOTYCZĄCYCH POSZCZEGÓLNYCH AKWENÓW Ustalając szczegółowe rozstrzygnięcia do poszczególnych akwenów objętych planem zagospodarowania przestrzennego morskich wód wewnętrznych – port morski w Trzebieży, zwanego dalej „planem”, uwzględniono w szczególności:
 1) ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834), zwaną dalej „Ustawą”;
 2) ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r.
 poz. 1796);
-3) ustawę z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54 i 834);
+3) ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54 i 834);
 4) ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890);
 5) rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej oraz Ministra Infrastruktury i Budownictwa z dnia 17 maja 2017 r. w sprawie wymaganego zakresu planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej (Dz. U. poz. 1025), zwane dalej „Rozporządzeniem”;
 6) zarządzenie nr 3 Dyrektora Urzędu Morskiego w Szczecinie z dnia 19 października 2022 r. w sprawie określenia infrastruktury zapewniającej dostęp do portów morskich w Darłowie, Dziwnowie, Dźwirzynie, Kamieniu Pomorskim, Kołobrzegu, Lubinie, Mrzeżynie, Nowym Warpnie, Policach, Stepnicy, Trzebieży, Wapnicy i Wolinie oraz do przystani morskich w Międzyzdrojach, Niechorzu i Rewalu (Dz. Urz. Woj. Zach.
@@ -332,9 +329,9 @@ Mając na uwadze powyższe kryterium, wyznaczając granice poszczególnych akwen
 Na podstawie istniejącego zagospodarowania części portu oraz planowanego zagospodarowania terenu lądowego został wyznaczony akwen o funkcji podstawowej turystyka, sport i rekreacja.
 W wyniku wskazania ww. obszarów zostały wyznaczone akweny o funkcji podstawowej funkcjonowanie portu. Akweny te uwzględniają istniejące i perspektywiczne obszary portu, przeznaczone do wykonywania funkcji portowych (postojowe, przewozów pasażerskich i inne związane z funkcjonowaniem portu).
 Wyznaczono łącznie 3 funkcje podstawowe akwenów:
-1) Ip funkcjonowanie portu 2 akweny;
-2) S turystyka, sport i rekreacja 1 akwen;
-3) T transport 1 akwen.
+1) Ip – funkcjonowanie portu – 2 akweny;
+2) S – turystyka, sport i rekreacja – 1 akwen;
+3) T – transport – 1 akwen.
 Nie wydzielono akwenów z funkcją podstawową: infrastruktura techniczna, dziedzictwo kulturowe, ochrona środowiska i przyrody, sztuczne wyspy i konstrukcje oraz badania naukowe. Funkcje te wskazano jako dopuszczalne z ograniczeniami zawartymi w kartach akwenów, w zależności od istniejących uwarunkowań lub potrzeb w ramach poszczególnych akwenów.
 Z uwagi na specyfikę planu, który obejmuje obszar portu morskiego, nie wydzielono akwenów o funkcji podstawowej akwakultura i rybołówstwo, nie wskazano ich też jako funkcja dopuszczalna. Obszary portów są wyłączone z wykonywania rybołówstwa komercyjnego.
 Wznoszenie sztucznych wysp, konstrukcji i urządzeń zostało dopuszczone w akwenach jako dopełnienie innych funkcji, takich jak transport, funkcjonowanie portu oraz turystyka, sport i rekreacja. Ustalono przy tym ogólne zakazy ich wznoszenia w sposób:
@@ -342,13 +339,13 @@ Wznoszenie sztucznych wysp, konstrukcji i urządzeń zostało dopuszczone w akwe
 2) naruszający elementy liniowe;
 3) w miejscach zagrażających stateczności budowli hydrotechnicznych;
 4) zagrażający bezpieczeństwu żeglugi lub utrudniający utrzymanie właściwych parametrów toru wodnego.
-Ustalając zasady realizacji funkcji dopuszczalnej infrastruktura techniczna, jako podstawową zasadę przyjęto oszczędne korzystanie z przestrzeni zakaz układania sieci infrastruktury technicznej w sposób rozproszony. Elementy liniowe należy układać w sposób możliwie równoległy do siebie, z zachowaniem minimalnych buforów bezpieczeństwa, wskazanych w warunkach technicznych. Ponadto dla zapewnienia bezpieczeństwa żeglugi po torach wodnych wskazano wymóg ustalenia pasów technologicznych wzdłuż projektowanych i istniejących elementów liniowych w poziomie, w których obowiązywać będzie zakaz kotwiczenia (z wyjątkiem kotwiczenia awaryjnego oraz kotwiczenia związanego z pracami instalacyjnymi i serwisowymi).
+Ustalając zasady realizacji funkcji dopuszczalnej infrastruktura techniczna, jako podstawową zasadę przyjęto oszczędne korzystanie z przestrzeni – zakaz układania sieci infrastruktury technicznej w sposób rozproszony. Elementy liniowe należy układać w sposób możliwie równoległy do siebie, z zachowaniem minimalnych buforów bezpieczeństwa, wskazanych w warunkach technicznych. Ponadto dla zapewnienia bezpieczeństwa żeglugi po torach wodnych wskazano wymóg ustalenia pasów technologicznych wzdłuż projektowanych i istniejących elementów liniowych w poziomie, w których obowiązywać będzie zakaz kotwiczenia (z wyjątkiem kotwiczenia awaryjnego oraz kotwiczenia związanego z pracami instalacyjnymi i serwisowymi).
 Ochronę dziedzictwa kulturowego zapewniają przepisy planu wskazujące na wymóg uwzględnienia przepisów dotyczących ochrony zabytków oraz odpowiednich przepisów wykonawczych w tym zakresie. Funkcja ochrona dziedzictwa kulturowego została dopuszczona na obszarze całego planu.
 W obszarze objętym planem nie wyznaczono akwenów o funkcji podstawowej pozyskiwanie energii odnawialnej ze względu na przepisy Ustawy, zgodnie z którymi na morskich wodach wewnętrznych zakazuje się wznoszenia i wykorzystywania elektrowni wiatrowych. Pozostałych instalacji do pozyskiwania energii odnawialnej na obszarze opracowania nie przewiduje się.
 W obszarze objętym planem, z wyjątkiem akwenu o funkcji podstawowej transport, dopuszczone zostało poszukiwanie lub rozpoznawanie oraz wydobywanie kopalin ze złóż.
 W obszarze objętym planem zakazano wznoszenia sztucznych wysp, konstrukcji i urządzeń służących do wydobycia węglowodorów. Ograniczono przy tym realizację infrastruktury służącej do wydobycia węglowodorów do elementów liniowych wyprowadzających węglowodory na ląd, jak np. rurociągi. Zastosowany w planie zakaz podyktowany był szczególnymi uwarunkowaniami portu. Port jest akwenem zamkniętym, zatem w przypadku wydostania się ropy do wód akwenu, doszłoby do wystąpienia katastrofy ekologicznej o znacznym zasięgu. Miałoby to negatywny wpływ na stan zasobów przyrodniczych (florę i faunę) zarówno w wodzie, jak i na lądzie. Warunkiem prowadzenia przedmiotowej działalności w obszarze objętym planem jest niepowodowanie trudności w wykorzystaniu morskich wód wewnętrznych zgodnie z ich funkcją podstawową.
 Zakazując w obszarze objętym planem lokalizacji sztucznych wysp, konstrukcji i urządzeń służących do wydobycia węglowodorów kierowano się zasadą przezorności.
-W przypadku prowadzenia ocen oddziaływania na środowisko, w szczególności na obszary Natura 2000, polega ona na tym, że nierozwiane, racjonalne wątpliwości zawsze interpretuje się na korzyść środowiska. Jeżeli nie da się ustalić czy negatywne oddziaływanie wystąpi, czy też nie, zakłada się, że wystąpi. Na płaszczyźnie ocen środowiskowych praktycznym wymiarem zastosowania zasady przezorności powinna być odmowa wyrażenia zgody na realizację działań, których skutki są niepewne, niejasne, wątpliwe lub ryzykowne. Kierując się zasadą przezorności wątpliwość czy dane negatywne oddziaływanie należy uznać za znaczące, czy nieznaczące, rozstrzygnąć należy na korzyść środowiska, przyjmując że będzie ono znaczące, natomiast wątpliwość czy dane działania pogorszą integralność obszaru Natura 2000, czy nie odniosą takiego skutku przyjmując że pogorszą integralność. Zasada przezorności wymaga, aby wszelkie prawdopodobieństwo wystąpienia negatywnych skutków traktować jak pewność ich wystąpienia. Podsumowując, oceniono, że istnieją przesłanki środowiskowe zakazujące lokalizowania takich konstrukcji.
+W przypadku prowadzenia ocen oddziaływania na środowisko, w szczególności na obszary Natura 2000, polega ona na tym, że nierozwiane, racjonalne wątpliwości zawsze interpretuje się na korzyść środowiska. Jeżeli nie da się ustalić czy negatywne oddziaływanie wystąpi, czy też nie, zakłada się, że wystąpi. Na płaszczyźnie ocen środowiskowych praktycznym wymiarem zastosowania zasady przezorności powinna być odmowa wyrażenia zgody na realizację działań, których skutki są niepewne, niejasne, wątpliwe lub ryzykowne. Kierując się zasadą przezorności wątpliwość czy dane negatywne oddziaływanie należy uznać za znaczące, czy nieznaczące, rozstrzygnąć należy na korzyść środowiska, przyjmując że będzie ono znaczące, natomiast wątpliwość czy dane działania pogorszą integralność obszaru Natura 2000, czy nie odniosą takiego skutku – przyjmując że pogorszą integralność. Zasada przezorności wymaga, aby wszelkie prawdopodobieństwo wystąpienia negatywnych skutków traktować jak pewność ich wystąpienia. Podsumowując, oceniono, że istnieją przesłanki środowiskowe zakazujące lokalizowania takich konstrukcji.
 Nie wyznaczono także akwenów o funkcji podstawowej ochrona środowiska i przyrody z uwagi na brak obszarów objętych formami ochrony przyrody, określonymi w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody, innymi niż obszary Natura 2000. W obszarze objętym planem nie występują również tereny o charakterze zastrzeżonym z uwagi na obronność i bezpieczeństwo państwa, dlatego nie wyznaczono akwenów o takiej funkcji. Obszar portu morskiego w Trzebieży pełni głównie funkcje postojowe, przewozów pasażerskich oraz inne portowe. Ze względu na brak przesłanek nie wyznaczono także akwenów o funkcji sztuczne wyspy i konstrukcje.
 Badania naukowe zostały wskazane jako funkcja dopuszczalna we wszystkich akwenach.
 Zakazuje się jednak ich prowadzenia w sposób:
@@ -364,7 +361,9 @@ bezpieczeństwo nawigacyjne. W związku z tym, zgodnie z ustaleniami planu, wsze
 W celu zapewnienia ochrony nabrzeży portowych w akwenach o funkcji podstawowej funkcjonowanie portu ustalono ograniczenia w realizacji inwestycji oraz prowadzenia prac związanych z rozbudową i przebudową infrastruktury portowej do sposobów niezagrażających stateczności budowli hydrotechnicznych. Dodatkowo na obszarze całego planu budowa nowych obiektów, rozbudowa, przebudowa i remont obiektów istniejących musi uwzględniać sąsiedztwo z istniejącymi lub projektowanymi obiektami hydrotechnicznymi i elementami liniowymi oraz być realizowana w sposób zapewniający nienaruszalność i stateczność tych obiektów lub gwarantujący usunięcie ewentualnych kolizji.
 Jako kolejna funkcja podstawowa w obszarze objętym planem została wyznaczona funkcja turystyka, sport i rekreacja. Zasięg akwenu o tej funkcji wynikał z istniejących uwarunkowań obszaru objętego planem i terenu sąsiedniego (port jachtowy) oraz planowanych inwestycji turystyczno-rekreacyjnych na lądzie. Realizacja inwestycji związanych z rozbudową i przebudową infrastruktury portowej oraz realizacji nowych elementów infrastruktury turystycznej została ograniczona do sposobów niezagrażających stateczności budowli hydrotechnicznych w porcie.
 Podstawą rozstrzygnięć szczegółowych były zebrane materiały planistyczne oraz wnioski złożone przez interesariuszy. Najważniejsze informacje zebrane podczas inwentaryzacji zaprezentowane zostały na poniższym rysunku.
-RYSUNEK UWARUNKOWAŃ Załącznik nr 3 RYSUNEK PLANU STANOWIĄCY CZĘŚĆ GRAFICZNĄ PLANU Załącznik
+RYSUNEK UWARUNKOWAŃ Załącznik nr 3 RYSUNEK PLANU STANOWIĄCY CZĘŚĆ CZĘŚĆ GRAFICZNĄ GRAFICZNĄ PLANU PLANU
 
-## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE USTALEŃ OGÓLNYCH ZAWIERAJĄCYCH WSKAZANIE ROZSTRZYGNIĘĆ OBOWIĄZUJĄCYCH NA CZĘŚCI LUB NA CAŁYM OBSZARZE OBJĘTYM PLANEM, ROZSTRZYGNIĘĆ DOTYCZĄCYCH ROZMIESZCZENIA INWESTYCJI CELU PUBLICZNEGO ORAZ KIERUNKÓW ROZWOJU TRANSPORTU I INFRASTRUKTURY TECHNICZNEJ § 1. 1. Wyjaśnienie pojęć użytych w planie:
+## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE USTALEŃ OGÓLNYCH ZAWIERAJĄCYCH WSKAZANIE ROZSTRZYGNIĘĆ OBOWIĄZUJĄCYCH NA CZĘŚCI LUB NA CAŁYM OBSZARZE OBJĘTYM PLANEM, ROZSTRZYGNIĘĆ DOTYCZĄCYCH ROZMIESZCZENIA INWESTYCJI CELU PUBLICZNEGO ORAZ KIERUNKÓW ROZWOJU TRANSPORTU I INFRASTRUKTURY TECHNICZNEJ
+
+## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE SZCZEGÓŁOWYCH ROZSTRZYGNIĘĆ DOTYCZĄCYCH PRZEZNACZENIA POSZCZEGÓLNYCH AKWENÓW LUB ICH WYDZIELONYCH CZĘŚCI ORAZ INFORMACJI O SZCZEGÓLNIE ISTOTNYCH UWARUNKOWANIACH MAJĄCYCH WPŁYW NA PRZYSZŁE UŻYTKOWANIE POSZCZEGÓLNYCH AKWENÓW W POSTACI KART AKWENÓW
 

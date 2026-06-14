@@ -8,7 +8,7 @@ pos: 583
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-12 |
 | Data wydania | 2022-03-12 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000583) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.pdf) |
 
 **Art. 1.** (uchylony)
@@ -80,6 +80,7 @@ source: "isap-pdf"
 - **3)** z wpłat z budżetu państwa;
 - **4)** z wpływów ze skarbowych papierów wartościowych, o których mowa w art. 15;
 - **5)** ze środków z zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji, o których mowa w art. 16 ust. 3;
+- **5a)** z odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **6)** z innych przychodów, w tym darowizn;
 - **7)** ze środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi, o których mowa w art. 5 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. [8) z odsetek od środków Funduszu pozostających na wydzielonych rachunkach bankowych, których obowiązek utworzenia wynika z obowiązujących przepisów lub umów, będących w dyspozycji kierownika jednostki organizacyjnej realizującej zadania finansowane ze środków Funduszu.]
 
@@ -172,7 +173,7 @@ source: "isap-pdf"
 
 32. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu, zaciągania kredytów i pożyczek oraz przeprowadzania emisji obligacji, o których mowa w art. 16 ust. 3.
 
-33. Okresowo wolne środki Funduszu w złotych Bank Gospodarstwa Krajowego lokuje w formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Wolne środki Funduszu w walutach obcych Bank Gospodarstwa Krajowego może lokować w bankach.
+33. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 34. (uchylony)
 
@@ -258,6 +259,14 @@ source: "isap-pdf"
 
 **Art. 20.** W celu realizacji zadań, o których mowa w art. 14 ust. 1:
 
+- **1)** (uchylony)
+- **2)** minister właściwy do spraw finansów publicznych, na polecenie Prezesa Rady Ministrów, utworzy nową rezerwę celową i może przenieść do tej rezerwy kwoty wydatków zablokowane na podstawie art. 177 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Utworzenie przez ministra właściwego do spraw finansów publicznych nowej rezerwy celowej nie wymaga uzyskania opinii sejmowej komisji właściwej do spraw budżetu. Przepisu art. 177 ust. 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się;
+- **3)** przepisu art. 177 ust. 8 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się.
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** (uchylony)
+- **7)** (uchylony)
+
 **Art. 21.** (uchylony)
 
 **Art. 21a.**
@@ -288,11 +297,13 @@ source: "isap-pdf"
 
 - **1)** z opłat prowizyjnych za poręczenia i gwarancje finansowane ze środków FGK;
 - **2)** z wpływów z tytułu odzyskanych kwot zapłaconych przez Bank Gospodarstwa Krajowego w wykonaniu umowy poręczenia lub gwarancji finansowanej ze środków FGK;
-- **3)** z odsetek z tytułu oprocentowania środków FGK;
+- **3)** z odsetek od wolnych środków FGK przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **4)** ze środków z budżetu państwa przekazywanych przez ministra właściwego do spraw finansów publicznych w wysokości umożliwiającej pokrycie kosztów i wydatków, o których mowa w ust. 2, i które nie znajdują pokrycia ze środków, o których mowa w pkt 1–3 oraz 5–7;
 - **5)** z darowizn i zapisów;
 - **6)** ze środków z zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji na rzecz FGK przez Bank Gospodarstwa Krajowego;
 - **7)** z wpływów z innych tytułów.
+
+4. Wolne środki FGK w walutach obcych mogą być lokowane w bankach.
 
 **Art. 21c.**
 
@@ -335,6 +346,12 @@ source: "isap-pdf"
 5. Bank Gospodarstwa Krajowego przekazuje ministrom, o których mowa w ust. 2, półroczne informacje o realizacji planu finansowego FGK w terminie 90 dni po upływie półrocza.
 
 **Art. 21e.** Minister właściwy do spraw finansów publicznych zawiera z Bankiem Gospodarstwa Krajowego umowę określającą w szczególności:
+
+- **1)** szczegółowe warunki i tryb udzielania gwarancji i poręczeń;
+- **2)** wysokość, warunki i tryb pobierania opłat prowizyjnych z tytułu udzielonych gwarancji i poręczeń;
+- **3)** warunki i tryb przekazywania środków, o których mowa w art. 21b ust. 3 pkt 4 i art. 21c ust. 2;
+- **4)** okres, w jakim Bank Gospodarstwa Krajowego będzie udzielał gwarancji i poręczeń w ramach FGK;
+- **5)** zasady udzielania finansowania, o którym mowa w art. 21c ust. 3, oraz zwrotu Bankowi Gospodarstwa Krajowego środków własnych, o których mowa w art. 21c ust. 3, wraz z wynagrodzeniem z tytułu tego finansowania.
 
 **Art. 21f.** W przypadku zapłaty przez Bank Gospodarstwa Krajowego kwoty z tytułu gwarancji lub poręczenia spłaty kredytu lub innego zobowiązania, udzielonych na podstawie art. 21a, Bank Gospodarstwa Krajowego wstępuje, z chwilą zapłaty, w prawa beneficjenta gwarancji lub poręczenia do wysokości dokonanej zapłaty.
 
@@ -540,7 +557,15 @@ source: "isap-pdf"
 
 **Art. 42b.** (uchylony) <Art. 42c. Obywatelowi Ukrainy, którego pobyt na terytorium Rzeczypospolitej Polskiej uznaje się za legalny na podstawie art. 106 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, wydaje się, na jego wniosek, kartę pobytu, o której mowa w art. 226 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jeżeli są spełnione łącznie następujące warunki:
 
+- **1)** w dniu 4 czerwca 2025 r. posiadał status UKR;
+- **2)** w dniu złożenia wniosku o wydanie karty pobytu posiada status UKR;
+- **3)** posiadał nieprzerwany status UKR przynajmniej przez 365 dni.
+
 **Art. 42d.** Kartę pobytu, o której mowa w art. 226 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, wydaje się również dziecku urodzonemu na terytorium Rzeczypospolitej Polskiej przez matkę, która jest osobą, o której mowa w art. 106 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, jeżeli są spełnione łącznie następujące warunki:
+
+- **1)** pobyt tego dziecka na terytorium Rzeczypospolitej Polskiej uznaje się za legalny na podstawie art. 106 ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **2)** w dniu złożenia wniosku o wydanie karty pobytu dziecko to posiada status UKR;
+- **3)** matce tego dziecka wydano kartę pobytu w przypadku, o którym mowa w art. 42c.
 
 **Art. 42e.**
 
@@ -699,6 +724,10 @@ source: "isap-pdf"
 
 **Art. 42m.** W karcie pobytu wydanej w przypadku, o którym mowa w art. 42c lub art. 42d:
 
+- **1)** umieszcza się adnotację „Poprzednio posiadacz ochrony czasowej”;
+- **2)** umieszcza się informację o udzieleniu jej posiadaczowi zezwolenia na pobyt czasowy;
+- **3)** nie umieszcza się adresu zameldowania na pobyt stały lub czasowy.
+
 **Art. 42n.** Za wydanie karty pobytu w przypadku, o którym mowa w art. 42c lub art. 42d, pobiera się opłatę, o której mowa w art. 235 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, w wysokości określonej w przepisach wydanych na podstawie art. 239 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach dla wydania karty pobytu.
 
 **Art. 42o.**
@@ -760,6 +789,9 @@ source: "isap-pdf"
 **Art. 42v.** Obywatel Ukrainy, któremu udzielono zezwolenia na pobyt czasowy w sposób, o którym mowa w art. 42r ust. 1, jest zwolniony z obowiązku posiadania zezwolenia na pracę.
 
 **Art. 42w.** Obywatel Ukrainy, któremu udzielono zezwolenia na pobyt czasowy w sposób, o którym mowa w art. 42r ust. 1, może podejmować i wykonywać działalność gospodarczą na terytorium Rzeczypospolitej Polskiej na takich samych zasadach jak obywatele polscy.> <Art. 42x. Jeżeli do dnia 4 marca 2027 r. uprawniony obywatel Ukrainy złoży wniosek, o którym mowa w art. 42c lub art. 42d, w trybie przewidzianym w art. 42f ust. 1, pobyt obywatela Ukrainy, dla którego został złożony wniosek, uważa się za legalny na terytorium Rzeczypospolitej Polskiej do dnia:
+
+- **1)** odbioru karty pobytu lub jej unieważnienia w trybie art. 42r ust. 2,
+- **2)** w którym decyzja o odmowie wydania karty pobytu lub umorzeniu postępowania w sprawie wydania karty pobytu stanie się ostateczna.>
 
 **Art. 43.** (uchylony)
 
@@ -905,7 +937,12 @@ source: "isap-pdf"
 
 **Art. 55c.** Dyrektor przedszkola, szkoły lub placówki, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną – osoba kierująca tą inną formą wychowania przedszkolnego, może, w drodze decyzji, skreślić dziecko, ucznia albo wychowanka, będących obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa, z listy odpowiednio dzieci, uczniów, albo wychowanków, jeżeli dziecko, uczeń albo wychowanek:
 
+- **1)** nie zamieszkuje na obszarze gminy, w której jest położone przedszkole, inna forma wychowania przedszkolnego, szkoła lub placówka, oraz
+- **2)** ma nieusprawiedliwioną nieobecność w okresie dwóch miesięcy na co najmniej 50 % dni zajęć odpowiednio w przedszkolu, oddziale przedszkolnym w szkole podstawowej, innej formie wychowania przedszkolnego, szkole lub placówce.
+
 **Art. 56.** Do dnia 31 sierpnia 2026 r. w szkole, w której utworzono dodatkowy oddział w celu zapewnienia kształcenia, wychowania i opieki dzieciom i uczniom będącym obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa, nauczycielowi mogą być przydzielone, za jego zgodą, godziny ponadwymiarowe w wymiarze wyższym niż określony w art. 35 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i
+
+- **1871)** .
 
 **Art. 56a.** Do dnia 31 sierpnia 2026 r. godziny ponadwymiarowe w wymiarze wyższym niż określony w art. 35 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela mogą być przydzielone nauczycielowi języka polskiego, za jego zgodą, także w szkole, w której nie utworzono dodatkowego oddziału w celu zapewnienia kształcenia, wychowania i opieki dzieciom i uczniom będącym obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa.
 
@@ -1075,6 +1112,11 @@ source: "isap-pdf"
 
 **Art. 72.** Skazując sprawcę, który w czasie trwania konfliktu zbrojnego na terytorium Ukrainy popełnił przestępstwo, o którym mowa w:
 
+- **1)** art. 189, art. 189a § 2, art. 191 § 1–2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965) – sąd orzeka karę pozbawienia wolności w wysokości nie niższej niż rok, a w wypadku przestępstwa określonego w art. 189 § 3, w wysokości nie niższej niż 5 lat, do górnej granicy ustawowego zagrożenia przewidzianego za przypisane sprawcy przestępstwo zwiększonego o połowę;
+- **2)** art. 204 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 5 do lat 15;
+- **3)** art. 203 lub art. 204 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 8 do lat 25;
+- **4)** art. 189a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 10 do lat 25. Art. 73–95. (pominięte)
+
 **Art. 96.** (uchylony)
 
 **Art. 97.** (uchylony)
@@ -1177,4 +1219,8 @@ source: "isap-pdf"
 **Art. 115.** (uchylony)
 
 **Art. 116.** Ustawa wchodzi w życie z dniem ogłoszenia , z mocą od dnia 24 lutego 2022 r., z wyjątkiem:
+
+- **1)** art. 12 ust. 10–16, art. 72 oraz art. 89, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 95, który wchodzi w życie z dniem 27 marca 2022 r.
+
 

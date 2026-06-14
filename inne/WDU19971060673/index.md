@@ -8,7 +8,7 @@ pos: 673
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych
@@ -45,7 +45,7 @@ source: "isap-pdf"
 
 **Art. 5.** Wpływy, o których mowa w art. 4, stanowią przychody budżetu państwa przeznaczone na finansowanie reformy systemu ubezpieczeń społecznych.
 
-**Art. 6.** Przepisy o zbywaniu akcji za obligacje prywatyzacyjne nie naruszają przepisów ustawy z dnia 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania i rent (Dz.U. Nr 30, poz. 164).
+**Art. 6.** Przepisy o zbywaniu akcji za obligacje prywatyzacyjne nie naruszają przepisów ustawy z dnia 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent (Dz.U. Nr 30, poz. 164).
 
 **Art. 7.** Ustawa nie narusza uprawnień do nieodpłatnego nabywania akcji, określonych w odrębnych przepisach.
 

@@ -8,7 +8,7 @@ pos: 948
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
@@ -40,6 +40,9 @@ Art. 65–73. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje zasady i tryb:
+
+- **1)** komercjalizacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, działającego na podstawie ustawy z dnia 6 lipca 1995 r. o przedsiębiorstwie państwowym „Polskie Koleje Państwowe” (Dz. U. poz. 474, z późn. zm. ), zwanego dalej „PKP”;
+- **2)** restrukturyzacji spółki akcyjnej powstałej w wyniku komercjalizacji PKP, działającej pod firmą „Polskie Koleje Państwowe Spółka Akcyjna”, z siedzibą w Warszawie, zwanej dalej „PKP SA”.
 
 **Art. 2.**
 
@@ -331,6 +334,11 @@ Art. 65–73. (pominięte)
 **Art. 20b.** W przypadku zbycia akcji lub udziałów spółkom, o których mowa w art. 14, art. 15 i art. 19, a także spółkom utworzonym przez PKP do dnia, w którym skuteczny stał się wpis PKP SA do rejestru przedsiębiorców, nabywanych przez te spółki w celu umorzenia, nie stosuje się przepisów ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
 **Art. 20c.** Finansowanie kosztów związanych ze zbyciem akcji lub udziałów spółek, o których mowa w art. 14 i art. 19, oraz akcji lub udziałów należących do PKP SA w spółkach wykonujących przewozy pasażerskie i przewozy towarowe na linii szerokotorowej wpisanych do rejestru przedsiębiorców przed dniem wpisania do rejestru PKP SA, może odbywać się ze środków:
+
+- **1)** budżetu państwa, w przypadku gdy zbycia dokonuje minister właściwy do spraw transportu;
+- **2)** PKP SA, w przypadku gdy zbycia dokonuje PKP SA na podstawie pełnomocnictwa udzielonego przez ministra właściwego do spraw transportu;
+- **3)** zwrotnej lub bezzwrotnej pomocy zagranicznej;
+- **4)** spółki, której akcje lub udziały są zbywane, na podstawie umowy zawartej pomiędzy tą spółką a zbywającym.
 
 **Art. 20d.**
 
@@ -1077,6 +1085,11 @@ Art. 65–73. (pominięte)
 
 **Art. 48.** Pracownicy, z którymi rozwiązanie stosunku pracy nastąpiło w latach 2000–2003 z przyczyn dotyczących zakładu pracy w:
 
+- **1)** PKP lub PKP SA,
+- **2)** spółkach ze 100-procentowym udziałem PKP utworzonych po dniu 31 sierpnia 1999 r. na podstawie art. 13 ustawy, o której mowa w art. 1 pkt 1,
+- **3)** państwowych jednostkach organizacyjnych utworzonych po dniu 31 sierpnia 1999 r. na podstawie art. 44 ustawy, o której mowa w art. 1 pkt 1,
+- **4)** spółkach utworzonych na podstawie art. 14, 15 i art. 19, a którzy nie spełniają warunków umożliwiających uzyskanie prawa do emerytury, urlopu kolejowego lub świadczenia przedemerytalnego, mają prawo do jednorazowej odprawy pieniężnej.
+
 **Art. 49.**
 
 1. Pracownikowi, z którym w latach 2000–2003 został rozwiązany stosunek pracy z przyczyn, o których mowa w art. 48, mającemu stałe miejsce zamieszkania na obszarze powiatu, w którym stopa bezrobocia w dniu rozwiązania stosunku pracy z pracownikiem jest większa niż przeciętna stopa bezrobocia w kraju, przysługuje, z zastrzeżeniem art. 50 ust. 1, jednorazowa odprawa pieniężna w wysokości 30 000 zł.
@@ -1355,4 +1368,10 @@ Art. 65–73. (pominięte)
 2. Do dnia wykreślenia PKP z rejestru przedsiębiorstw państwowych PKP działa na podstawie ustawy, o której mowa w ust. 1, o ile przepisy ustawy nie stanowią inaczej.
 
 **Art. 83.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** rozdziału 7, art. 65–67, art. 70, które wchodzą w życie w terminie, o którym mowa w art. 8 ust. 3;
+- **2)** art. 69 pkt 10, który wchodzi w życie z dniem 31 grudnia 2000 r.;
+- **3)** art. 69 pkt 9 i pkt 21 oraz art. 74, które wchodzą w życie z dniem 1 stycznia 2001 r.;
+- **4)** art. 71, który wchodzi w życie w terminie, o którym mowa w art. 8 ust. 3, jednak nie wcześniej niż dnia 2 stycznia 2001 r.
+
 

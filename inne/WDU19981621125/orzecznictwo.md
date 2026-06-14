@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury.*
 
 Łącznie: **30** orzeczeń
-(pominięto 35 orzeczeń sądów rejonowych)
+(pominięto 36 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 

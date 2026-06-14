@@ -8,12 +8,10 @@ pos: 725
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 marca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -58,32 +56,32 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** lokatorze należy przez to rozumieć najemcę lokalu lub osobę używającą lokal na podstawie innego tytułu prawnego niż prawo własności;
-- **2)** właścicielu należy przez to rozumieć wynajmującego lub inną osobę, z którą wiąże lokatora stosunek prawny uprawniający go do używania lokalu;
-- **3)** współlokatorze należy przez to rozumieć lokatora, któremu przysługuje tytuł prawny do używania lokalu wspólnie z innym lokatorem;
-- **4)** lokalu należy przez to rozumieć lokal służący do zaspokajania potrzeb mieszkaniowych, a także lokal będący pracownią służącą twórcy do prowadzenia działalności w dziedzinie kultury i sztuki; nie jest w rozumieniu ustawy lokalem pomieszczenie przeznaczone do krótkotrwałego pobytu osób, w szczególności znajdujące się w budynkach internatów, burs, pensjonatów, hoteli, domów wypoczynkowych lub w innych budynkach służących do celów turystycznych lub wypoczynkowych;
-- **5)** (uchylony) 5a) tymczasowym pomieszczeniu należy przez to rozumieć pomieszczenie nadające się do zamieszkania, posiadające dostęp do źródła zaopatrzenia w wodę i do ustępu, chociażby te urządzenia znajdowały się poza budynkiem, oświetlenie naturalne i elektryczne, możliwość ogrzewania, niezawilgocone przegrody budowlane oraz zapewniające możliwość zainstalowania urządzenia do gotowania posiłków, zapewniające co najmniej 5 m powierzchni mieszkalnej na jedną osobę i w miarę możności znajdujące się w tej samej lub pobliskiej miejscowości, w której dotychczas zamieszkiwały osoby przekwaterowywane;
-- **6)** lokalu zamiennym należy przez to rozumieć lokal znajdujący się w tej samej miejscowości, w której jest położony lokal dotychczasowy, wyposażony w co najmniej takie urządzenia techniczne, w jakie był wyposażony lokal używany dotychczas, o powierzchni pokoi takiej jak w lokalu dotychczas używanym; warunek ten uznaje się za spełniony, jeżeli na członka gospodarstwa domowego przypada 10 m powierzchni łącznej pokoi, a w wypadku gospodarstwa jednoosobowego 20 m tej powierzchni;
-- **7)** powierzchni użytkowej lokalu należy przez to rozumieć powierzchnię wszystkich pomieszczeń znajdujących się w lokalu, a w szczególności pokoi, kuchni, spiżarni, przedpokoi, alków, holi, korytarzy, łazienek oraz innych pomieszczeń służących mieszkalnym i gospodarczym potrzebom lokatora, bez względu na ich przeznaczenie i sposób używania; za powierzchnię użytkową lokalu nie uważa się powierzchni balkonów, tarasów i loggii, antresoli, szaf i schowków w ścianach, pralni, suszarni, wózkowni, strychów, piwnic i komórek przeznaczonych do przechowywania opału;
-- **8)** opłatach niezależnych od właściciela należy przez to rozumieć opłaty za dostawy do lokalu energii, gazu, wody oraz odbiór ścieków, odpadów i nieczystości ciekłych;
-- **8a)** kosztach utrzymania lokalu należy przez to rozumieć koszty, ustalane proporcjonalnie do powierzchni użytkowej lokalu w stosunku do powierzchni użytkowej wszystkich lokali w danym budynku, obciążające właściciela, obejmujące opłatę za użytkowanie wieczyste gruntu, podatek od nieruchomości oraz koszty:
+- **1)** lokatorze – należy przez to rozumieć najemcę lokalu lub osobę używającą lokal na podstawie innego tytułu prawnego niż prawo własności;
+- **2)** właścicielu – należy przez to rozumieć wynajmującego lub inną osobę, z którą wiąże lokatora stosunek prawny uprawniający go do używania lokalu;
+- **3)** współlokatorze – należy przez to rozumieć lokatora, któremu przysługuje tytuł prawny do używania lokalu wspólnie z innym lokatorem;
+- **4)** lokalu – należy przez to rozumieć lokal służący do zaspokajania potrzeb mieszkaniowych, a także lokal będący pracownią służącą twórcy do prowadzenia działalności w dziedzinie kultury i sztuki; nie jest w rozumieniu ustawy lokalem pomieszczenie przeznaczone do krótkotrwałego pobytu osób, w szczególności znajdujące się w budynkach internatów, burs, pensjonatów, hoteli, domów wypoczynkowych lub w innych budynkach służących do celów turystycznych lub wypoczynkowych;
+- **5)** (uchylony) 5a) tymczasowym pomieszczeniu – należy przez to rozumieć pomieszczenie nadające się do zamieszkania, posiadające dostęp do źródła zaopatrzenia w wodę i do ustępu, chociażby te urządzenia znajdowały się poza budynkiem, oświetlenie naturalne i elektryczne, możliwość ogrzewania, niezawilgocone przegrody budowlane oraz zapewniające możliwość zainstalowania urządzenia do gotowania posiłków, zapewniające co najmniej 5 m powierzchni mieszkalnej na jedną osobę i w miarę możności znajdujące się w tej samej lub pobliskiej miejscowości, w której dotychczas zamieszkiwały osoby przekwaterowywane;
+- **6)** lokalu zamiennym – należy przez to rozumieć lokal znajdujący się w tej samej miejscowości, w której jest położony lokal dotychczasowy, wyposażony w co najmniej takie urządzenia techniczne, w jakie był wyposażony lokal używany dotychczas, o powierzchni pokoi takiej jak w lokalu dotychczas używanym; warunek ten uznaje się za spełniony, jeżeli na członka gospodarstwa domowego przypada 10 m powierzchni łącznej pokoi, a w wypadku gospodarstwa jednoosobowego – 20 m tej powierzchni;
+- **7)** powierzchni użytkowej lokalu – należy przez to rozumieć powierzchnię wszystkich pomieszczeń znajdujących się w lokalu, a w szczególności pokoi, kuchni, spiżarni, przedpokoi, alków, holi, korytarzy, łazienek oraz innych pomieszczeń służących mieszkalnym i gospodarczym potrzebom lokatora, bez względu na ich przeznaczenie i sposób używania; za powierzchnię użytkową lokalu nie uważa się powierzchni balkonów, tarasów i loggii, antresoli, szaf i schowków w ścianach, pralni, suszarni, wózkowni, strychów, piwnic i komórek przeznaczonych do przechowywania opału;
+- **8)** opłatach niezależnych od właściciela – należy przez to rozumieć opłaty za dostawy do lokalu energii, gazu, wody oraz odbiór ścieków, odpadów i nieczystości ciekłych;
+- **8a)** kosztach utrzymania lokalu – należy przez to rozumieć koszty, ustalane proporcjonalnie do powierzchni użytkowej lokalu w stosunku do powierzchni użytkowej wszystkich lokali w danym budynku, obciążające właściciela, obejmujące opłatę za użytkowanie wieczyste gruntu, podatek od nieruchomości oraz koszty:
     - **a)** konserwacji, utrzymania należytego stanu technicznego nieruchomości oraz przeprowadzonych remontów,
     - **b)** zarządzania nieruchomością,
     - **c)** utrzymania pomieszczeń wspólnego użytkowania, windy, anteny zbiorczej, domofonu oraz zieleni,
     - **d)** ubezpieczenia nieruchomości,
     - **e)** inne, o ile wynikają z umowy;
 
-- **9)** gospodarstwie domowym należy przez to rozumieć gospodarstwo domowe, o którym mowa w przepisach o dodatkach mieszkaniowych;
-- **9a)** społecznej inicjatywie mieszkaniowej należy przez to rozumieć społeczną inicjatywę mieszkaniową, w rozumieniu ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224, z 2022 r. poz. 807, 1561 i 2456 oraz z 2023 r. poz. 185) oraz towarzystwo budownictwa społecznego utworzone przed dniem wejścia w życie ustawy z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11 oraz z 2022 r. poz. 807 i 2666);
-- **10)** mieszkaniowym zasobie gminy należy przez to rozumieć lokale służące do zaspokajania potrzeb mieszkaniowych, stanowiące własność gminy lub jednoosobowych spółek gminnych, którym gmina powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjątkiem społecznych inicjatyw mieszkaniowych, oraz lokale pozostające w posiadaniu samoistnym tych podmiotów;
-- **11)** publicznym zasobie mieszkaniowym należy przez to rozumieć lokale wchodzące w skład mieszkaniowego zasobu gminy oraz lokale stanowiące własność innych jednostek samorządu terytorialnego lub Skarbu Państwa;
-- **12)** wskaźniku przeliczeniowym kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych należy przez to rozumieć przeciętny koszt budowy 1 m powierzchni użytkowej budynków mieszkalnych:
+- **9)** gospodarstwie domowym – należy przez to rozumieć gospodarstwo domowe, o którym mowa w przepisach o dodatkach mieszkaniowych;
+- **9a)** społecznej inicjatywie mieszkaniowej – należy przez to rozumieć społeczną inicjatywę mieszkaniową, w rozumieniu ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224, z 2022 r. poz. 807, 1561 i 2456 oraz z 2023 r. poz. 185) oraz towarzystwo budownictwa społecznego utworzone przed dniem wejścia w życie ustawy z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11 oraz z 2022 r. poz. 807 i 2666);
+- **10)** mieszkaniowym zasobie gminy – należy przez to rozumieć lokale służące do zaspokajania potrzeb mieszkaniowych, stanowiące własność gminy lub jednoosobowych spółek gminnych, którym gmina powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjątkiem społecznych inicjatyw mieszkaniowych, oraz lokale pozostające w posiadaniu samoistnym tych podmiotów;
+- **11)** publicznym zasobie mieszkaniowym – należy przez to rozumieć lokale wchodzące w skład mieszkaniowego zasobu gminy oraz lokale stanowiące własność innych jednostek samorządu terytorialnego lub Skarbu Państwa;
+- **12)** wskaźniku przeliczeniowym kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych – należy przez to rozumieć przeciętny koszt budowy 1 m powierzchni użytkowej budynków mieszkalnych:
     - **a)** dla województwa, z wyłączeniem miast będących siedzibą wojewody lub sejmiku województwa,
     - **b)** dla miast będących siedzibą wojewody lub sejmiku województwa, ustalany na okres 6 miesięcy przez wojewodę na podstawie aktualnych danych urzędu statystycznego, opracowanych według powiatów, oraz własnych analiz i ogłaszany, w drodze obwieszczenia, w wojewódzkim dzienniku urzędowym;
 
-- **13)** pobliskiej miejscowości należy przez to rozumieć miejscowość położoną w powiecie, w którym znajduje się lokal, lub powiecie graniczącym z tym powiatem.
+- **13)** pobliskiej miejscowości – należy przez to rozumieć miejscowość położoną w powiecie, w którym znajduje się lokal, lub powiecie graniczącym z tym powiatem.
 
-2. Obmiaru powierzchni użytkowej lokalu, o której mowa w ust. 1 pkt 7, dokonuje się w świetle wyprawionych ścian. Powierzchnię pomieszczeń lub ich części o wysokości w świetle równej lub większej od 2,20 m należy zaliczać do obliczeń w 100%, o wysokości równej lub większej od 1,40 m, lecz mniejszej od 2,20 m w 50%, o wysokości mniejszej od 1,40 m pomija się całkowicie. Pozostałe zasady obliczania powierzchni należy przyjmować zgodnie z Polską Normą odpowiednią do określania i obliczania wskaźników powierzchniowych i kubaturowych w budownictwie.
+2. Obmiaru powierzchni użytkowej lokalu, o której mowa w ust. 1 pkt 7, dokonuje się w świetle wyprawionych ścian. Powierzchnię pomieszczeń lub ich części o wysokości w świetle równej lub większej od 2,20 m należy zaliczać do obliczeń w 100%, o wysokości równej lub większej od 1,40 m, lecz mniejszej od 2,20 m – w 50%, o wysokości mniejszej od 1,40 m pomija się całkowicie. Pozostałe zasady obliczania powierzchni należy przyjmować zgodnie z Polską Normą odpowiednią do określania i obliczania wskaźników powierzchniowych i kubaturowych w budownictwie.
 
 **Art. 3.**
 
@@ -103,7 +101,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 2. Gmina, na zasadach i w przypadkach określonych w ustawie, zapewnia lokale w ramach najmu socjalnego i lokale zamienne, a także zaspokaja potrzeby mieszkaniowe gospodarstw domowych o niskich dochodach.
 
-2a. W przypadku wykonywania przez komornika obowiązku opróżnienia lokalu, o którym mowa w art. 1046 § 4 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ), gmina wskazuje tymczasowe pomieszczenie, chyba że pomieszczenie odpowiadające wymogom tymczasowego pomieszczenia wskazał wierzyciel lub dłużnik albo osoba trzecia.
+2a. W przypadku wykonywania przez komornika obowiązku opróżnienia lokalu, o którym mowa w art. 1046 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ), gmina wskazuje tymczasowe pomieszczenie, chyba że pomieszczenie odpowiadające wymogom tymczasowego pomieszczenia wskazał wierzyciel lub dłużnik albo osoba trzecia.
 
 2b. Gmina może przeznaczać lokale wchodzące w skład mieszkaniowego zasobu gminy na wykonywanie innych zadań jednostek samorządu terytorialnego realizowanych na zasadach przewidzianych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm. ) oraz ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140 oraz z 2023 r. poz. 403).
 
@@ -158,7 +156,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 - **1)** utrzymanie w należytym stanie, porządku i czystości pomieszczeń i urządzeń budynku, służących do wspólnego użytku mieszkańców, oraz jego otoczenia;
 - **2)** dokonywanie napraw budynku, jego pomieszczeń i urządzeń, o których mowa w pkt 1, oraz przywrócenie poprzedniego stanu budynku uszkodzonego, niezależnie od przyczyn, z tym że najemcę obciąża obowiązek pokrycia strat powstałych z jego winy;
 - **3)** dokonywanie napraw lokalu, napraw lub wymiany instalacji i elementów wyposażenia technicznego w zakresie nieobciążającym najemcy, a zwłaszcza:
-    - **a)** napraw i wymiany wewnętrznych instalacji: wodociągowej, gazowej i ciepłej wody bez armatury i wyposażenia, a także napraw i wymiany wewnętrznej instalacji kanalizacyjnej, centralnego ogrzewania wraz z grzejnikami, instalacji elektrycznej, anteny zbiorczej z wyjątkiem osprzętu,
+    - **a)** napraw i wymiany wewnętrznych instalacji: wodociągowej, gazowej i ciepłej wody – bez armatury i wyposażenia, a także napraw i wymiany wewnętrznej instalacji kanalizacyjnej, centralnego ogrzewania wraz z grzejnikami, instalacji elektrycznej, anteny zbiorczej – z wyjątkiem osprzętu,
     - **b)** wymiany pieców grzewczych, stolarki okiennej i drzwiowej oraz podłóg, posadzek i wykładzin podłogowych, a także tynków.
 
 **Art. 6b.**
@@ -224,6 +222,9 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 **Art. 8.** Jeżeli właścicielem jest jednostka samorządu terytorialnego, stawki czynszu, o których mowa w art. 7, ustala organ wykonawczy tej jednostki:
 
+- **1)** w przypadku gminy – zgodnie z zasadami, o których mowa w art. 21 ust. 2 pkt 4;
+- **2)** w przypadku pozostałych jednostek samorządu terytorialnego – zgodnie z uchwałą rady powiatu lub sejmiku województwa w sprawie zasad wynajmu lokali mieszkalnych stanowiących własność tych jednostek.
+
 **Art. 8a.**
 
 1. Właściciel może podwyższyć czynsz albo inne opłaty za używanie lokalu, wypowiadając jego dotychczasową wysokość, najpóźniej na koniec miesiąca kalendarzowego, z zachowaniem terminów wypowiedzenia.
@@ -240,7 +241,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 - **1)** zwrot kapitału w skali roku na poziomie nie wyższym niż:
     - **a)** 1,5% nakładów poniesionych przez właściciela na budowę albo zakup lokalu lub
-    - **b)** 10% nakładów poniesionych przez właściciela na trwałe ulepszenie istniejącego lokalu zwiększające jego wartość użytkową aż do ich pełnego zwrotu;
+    - **b)** 10% nakładów poniesionych przez właściciela na trwałe ulepszenie istniejącego lokalu zwiększające jego wartość użytkową – aż do ich pełnego zwrotu;
 
 - **2)** godziwy zysk.
 
@@ -295,7 +296,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 **Art. 10.**
 
-1. W razie awarii wywołującej szkodę lub zagrażającej bezpośrednio powstaniem szkody lokator jest obowiązany niezwłocznie udostępnić lokal w celu jej usunięcia. Jeżeli lokator jest nieobecny lub odmawia udostępnienia lokalu, właściciel ma prawo wejść do lokalu w obecności funkcjonariusza Policji lub straży gminnej (miejskiej), a gdy wymaga to pomocy straży pożarnej także przy jej udziale.
+1. W razie awarii wywołującej szkodę lub zagrażającej bezpośrednio powstaniem szkody lokator jest obowiązany niezwłocznie udostępnić lokal w celu jej usunięcia. Jeżeli lokator jest nieobecny lub odmawia udostępnienia lokalu, właściciel ma prawo wejść do lokalu w obecności funkcjonariusza Policji lub straży gminnej (miejskiej), a gdy wymaga to pomocy straży pożarnej – także przy jej udziale.
 
 2. Jeżeli otwarcie lokalu nastąpiło pod nieobecność lokatora lub pełnoletniej osoby stale z nim zamieszkującej, właściciel jest obowiązany zabezpieczyć lokal i znajdujące się w nim rzeczy do czasu przybycia lokatora; z czynności tych sporządza się protokół.
 
@@ -363,13 +364,13 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 - **3)** obłożnie chorego,
 - **4)** emeryta lub rencisty spełniającego kryteria do otrzymania świadczenia z pomocy społecznej,
 - **5)** osoby posiadającej status bezrobotnego,
-- **6)** osoby spełniającej przesłanki określone przez radę gminy w drodze uchwały chyba że osoby te mogą zamieszkać w innym lokalu niż dotychczas używany lub ich sytuacja materialna pozwala na zaspokojenie potrzeb mieszkaniowych we własnym zakresie.
+- **6)** osoby spełniającej przesłanki określone przez radę gminy w drodze uchwały – chyba że osoby te mogą zamieszkać w innym lokalu niż dotychczas używany lub ich sytuacja materialna pozwala na zaspokojenie potrzeb mieszkaniowych we własnym zakresie.
 
 5. Sąd może orzec o braku uprawnienia do zawarcia umowy najmu socjalnego lokalu, w szczególności jeżeli nakazanie opróżnienia następuje z przyczyn, o których mowa w art. 13.
 
 6. Orzekając o uprawnieniu do zawarcia umowy najmu socjalnego lokalu, sąd nakazuje wstrzymanie wykonania opróżnienia lokalu do czasu złożenia przez gminę oferty zawarcia umowy najmu socjalnego lokalu.
 
-6a. Gmina, składając ofertę zawarcia umowy najmu socjalnego lokalu, poucza osobę uprawnioną, że jeżeli kwestionuje prawidłowość tej oferty, może wytoczyć powództwo o ustalenie uprawnienia do zawarcia umowy najmu socjalnego lokalu, a po nadaniu klauzuli wykonalności wyrokowi eksmisyjnemu powództwo o pozbawienie wykonalności tytułu wykonawczego.
+6a. Gmina, składając ofertę zawarcia umowy najmu socjalnego lokalu, poucza osobę uprawnioną, że jeżeli kwestionuje prawidłowość tej oferty, może wytoczyć powództwo o ustalenie uprawnienia do zawarcia umowy najmu socjalnego lokalu, a po nadaniu klauzuli wykonalności wyrokowi eksmisyjnemu – powództwo o pozbawienie wykonalności tytułu wykonawczego.
 
 7. Przepisu ust. 4 nie stosuje się do osób, które utraciły tytuł prawny do lokalu niewchodzącego w skład publicznego zasobu mieszkaniowego, z wyjątkiem osób, które były uprawnione do używania lokalu na podstawie stosunku prawnego nawiązanego ze spółdzielnią mieszkaniową albo ze społeczną inicjatywą mieszkaniową.
 
@@ -405,7 +406,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 4. (utracił moc)
 
-5. Jeżeli osobie uprawnionej do zawarcia umowy najmu socjalnego lokalu na mocy wyroku gmina nie dostarczyła lokalu, właścicielowi przysługuje roszczenie odszkodowawcze do gminy, na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326).
+5. Jeżeli osobie uprawnionej do zawarcia umowy najmu socjalnego lokalu na mocy wyroku gmina nie dostarczyła lokalu, właścicielowi przysługuje roszczenie odszkodowawcze do gminy, na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326).
 
 **Art. 19.** Do ochrony praw lokatora do używania lokalu stosuje się odpowiednio przepisy o ochronie własności.
 
@@ -475,7 +476,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 1. Umową najmu instytucjonalnego lokalu jest umowa najmu lokalu mieszkalnego zawierana przez osobę fizyczną, osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, prowadzącą działalność gospodarczą w zakresie wynajmowania lokali.
 
-2. Umowa najmu instytucjonalnego lokalu zawierana jest na czas oznaczony. Przepisu art. 661 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny nie stosuje się.
+2. Umowa najmu instytucjonalnego lokalu zawierana jest na czas oznaczony. Przepisu art. 661 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
 
 3. Do umowy najmu instytucjonalnego lokalu załącza się oświadczenie najemcy w formie aktu notarialnego, w którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu instytucjonalnego lokalu w terminie wskazanym w żądaniu, o którym mowa w art. 19i ust. 2, oraz przyjął do wiadomości, że w razie konieczności wykonania powyższego zobowiązania prawo do najmu socjalnego lokalu ani pomieszczenia tymczasowego nie przysługuje.
 
@@ -528,7 +529,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 1. Umową najmu instytucjonalnego z dojściem do własności jest umowa najmu lokalu mieszkalnego, dla którego została założona księga wieczysta, zawierana przez osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą w zakresie wynajmowania lokali, będącą właścicielem lokalu mieszkalnego, zawierająca zobowiązanie najemcy do nabycia lokalu mieszkalnego będącego przedmiotem tej umowy oraz zobowiązanie wynajmującego do przeniesienia na najemcę prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu najpóźniej w dniu zakończenia umowy najmu po zapłacie ceny za lokal.
 
-2. Umowa najmu instytucjonalnego z dojściem do własności zawierana jest na czas oznaczony. Przepisu art. 661 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny nie stosuje się.
+2. Umowa najmu instytucjonalnego z dojściem do własności zawierana jest na czas oznaczony. Przepisu art. 661 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
 
 3. Umowa najmu instytucjonalnego z dojściem do własności zawierana jest w formie aktu notarialnego. Umowa zawiera w swej treści oświadczenie najemcy, w którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu instytucjonalnego z dojściem do własności w terminie wskazanym w żądaniu, o którym mowa w art. 19i ust. 2, oraz przyjął do wiadomości, że w razie konieczności wykonania powyższego zobowiązania prawo do najmu socjalnego lokalu ani pomieszczenia tymczasowego nie przysługuje.
 
@@ -565,6 +566,18 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 **Art. 19m.** Umowa najmu instytucjonalnego z dojściem do własności, o której mowa w art. 19k ust. 1, zawiera w szczególności:
 
+- **1)** określenie stron, miejsca i daty podpisania umowy;
+- **2)** oznaczenie przedmiotu umowy;
+- **3)** czynsz najmu, opłaty niezależne od właściciela oraz inne opłaty związane z korzystaniem z lokalu mieszkalnego;
+- **4)** cenę sprzedaży lokalu mieszkalnego;
+- **5)** harmonogram określający wysokość i terminy płatności poszczególnych rat ceny sprzedaży;
+- **6)** zobowiązanie właściciela do przeniesienia prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu po zapłaceniu całej ceny;
+- **7)** zobowiązanie najemcy do zapłaty całej ceny za lokal mieszkalny w sposób określony w umowie;
+- **8)** termin zawarcia umowy przeniesienia prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu;
+- **9)** oświadczenie właściciela o ustanowieniu hipoteki na pozycji pierwszej na zabezpieczenie roszczenia najemcy o zwrot zapłaconej ceny na wypadek niewykonania umowy wraz z wnioskiem o wpis tej hipoteki do księgi wieczystej prowadzonej dla lokalu mieszkalnego;
+- **10)** zgodę wierzyciela zabezpieczonego hipoteką na bezobciążeniowe przeniesienie prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu po wpłacie całej ceny sprzedaży przez najemcę, jeżeli takie obciążenie hipoteczne istnieje;
+- **11)** oświadczenie najemcy, w którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu instytucjonalnego z dojściem do własności w terminie wskazanym w żądaniu, o którym mowa w art. 19i ust. 2, oraz przyjął do wiadomości, że w razie konieczności wykonania powyższego zobowiązania prawo do najmu socjalnego lokalu ani pomieszczenia tymczasowego nie przysługuje.
+
 **Art. 19n.**
 
 1. Właściciel zawiera umowę przeniesienia prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu w terminie określonym w umowie najmu instytucjonalnego z dojściem do własności, najpóźniej w dniu zakończenia tej umowy.
@@ -582,7 +595,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 2. Najemca może wypowiedzieć umowę najmu instytucjonalnego z dojściem do własności, jeżeli:
 
 - **1)** wady lokalu uniemożliwiają korzystanie z lokalu zgodnie z jego przeznaczeniem, zagrażają życiu lub zdrowiu najemcy lub jego domowników,
-- **2)** wynajmujący uniemożliwia mu korzystanie z lokalu zgodnie z jego przeznaczeniem po uprzednim pisemnym wezwaniu wynajmującego i wyznaczeniu mu co najmniej 30-dniowego terminu na usunięcie tych wad lub zaniechania uniemożliwiania korzystania z lokalu zgodnie z jego przeznaczeniem i bezskutecznym upływie tego terminu.
+- **2)** wynajmujący uniemożliwia mu korzystanie z lokalu zgodnie z jego przeznaczeniem – po uprzednim pisemnym wezwaniu wynajmującego i wyznaczeniu mu co najmniej 30-dniowego terminu na usunięcie tych wad lub zaniechania uniemożliwiania korzystania z lokalu zgodnie z jego przeznaczeniem i bezskutecznym upływie tego terminu.
 
 **Art. 19p.** Najemca może wypowiedzieć umowę najmu instytucjonalnego z dojściem do własności z zachowaniem sześciomiesięcznego terminu wypowiedzenia z ważnych przyczyn związanych ze zmianą sytuacji życiowej.
 
@@ -594,9 +607,9 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 3. W przypadku określonym w ust. 1 zwrot części ceny zakupu lokalu mieszkalnego następuje w terminie 3 miesięcy od dnia opróżnienia tego lokalu.
 
-4. Kwota zwracanej części ceny zakupu lokalu mieszkalnego, o której mowa w ust. 2, stanowi sumę kwot wpłaconych w każdym roku kalendarzowym obowiązywania umowy, obliczonych według wzoru: 𝑃 =𝑃 𝐶 ∗ ∗ (100% − 0,75% ∗ 𝑛/4) 𝐶 gdzie poszczególne symbole oznaczają: P zwaloryzowana kwota zwracanych rat wpłaconych w danym roku kalendarzowym, P suma rat wpłaconych w danym roku kalendarzowym, C średnia arytmetyczna czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2022 r. poz. 1202 i 1561) dla kwartałów poprzedzających kwartał, w którym nastąpiło opróżnienie lokalu, C średnia arytmetyczna wartości wskaźników ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego dla kwartałów w danym roku kalendarzowym, n liczba pełnych kwartałów przypadających w okresie od końca danego roku kalendarzowego do dnia, w którym nastąpiło opróżnienie lokalu.
+4. Kwota zwracanej części ceny zakupu lokalu mieszkalnego, o której mowa w ust. 2, stanowi sumę kwot wpłaconych w każdym roku kalendarzowym obowiązywania umowy, obliczonych według wzoru: 𝐶 ∗ (100% − 0,75% ∗ 𝑛/4) 𝑃 =𝑃 ∗ 𝐶 gdzie poszczególne symbole oznaczają: P – zwaloryzowana kwota zwracanych rat wpłaconych w danym roku kalendarzowym, P – suma rat wpłaconych w danym roku kalendarzowym, C – średnia arytmetyczna czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2022 r. poz. 1202 i 1561) dla kwartałów poprzedzających kwartał, w którym nastąpiło opróżnienie lokalu, C – średnia arytmetyczna wartości wskaźników ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego dla kwartałów w danym roku kalendarzowym, n – liczba pełnych kwartałów przypadających w okresie od końca danego roku kalendarzowego do dnia, w którym nastąpiło opróżnienie lokalu.
 
-**Art. 19r.** Do roszczeń najemcy z umowy najmu instytucjonalnego z dojściem do własności przepisu art. 91 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520) nie stosuje się. 2. Sprzedaż lokalu mieszkalnego objętego umową najmu instytucjonalnego z dojściem do własności w postępowaniu upadłościowym, którego właścicielem jest upadły, nie wywołuje skutków sprzedaży egzekucyjnej. Przepisu art. 313 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe nie stosuje się. 3. Przepisów ust. 1 i 2 nie stosuje się w przypadku rozwiązania lub wygaśnięcia umowy najmu instytucjonalnego z dojściem do własności w trakcie trwania postępowania upadłościowego.
+**Art. 19r.** Do roszczeń najemcy z umowy najmu instytucjonalnego z dojściem do własności przepisu art. 91 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520) nie stosuje się. 2. Sprzedaż lokalu mieszkalnego objętego umową najmu instytucjonalnego z dojściem do własności w postępowaniu upadłościowym, którego właścicielem jest upadły, nie wywołuje skutków sprzedaży egzekucyjnej. Przepisu art. 313 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe nie stosuje się. 3. Przepisów ust. 1 i 2 nie stosuje się w przypadku rozwiązania lub wygaśnięcia umowy najmu instytucjonalnego z dojściem do własności w trakcie trwania postępowania upadłościowego.
 
 **Art. 19s.** Do umowy najmu instytucjonalnego z dojściem do własności stosuje się przepisy art. 2, art. 6 ust. 3, art. 10 ust. 1–3, art. 18 ust. 1 i 2, art. 19h ust. 2, art. 19i oraz art. 25d pkt 5.
 
@@ -662,8 +675,8 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 4a. W przypadku gdy powierzchnia użytkowa lokalu przekracza w przeliczeniu na liczbę członków gospodarstwa domowego:
 
-- **1)** 50 m dla jednej osoby,
-- **2)** 25 m dla każdej kolejnej osoby wynajmujący może wypowiedzieć umowę najmu z zachowaniem sześciomiesięcznego terminu wypowiedzenia na koniec miesiąca kalendarzowego, pod warunkiem jednoczesnego przedstawienia pisemnej oferty zawarcia umowy najmu innego lokalu, spełniającego wymagania co najmniej takie same, jakie powinien spełniać lokal zamienny.
+- **1)** 50 m – dla jednej osoby,
+- **2)** 25 m – dla każdej kolejnej osoby – wynajmujący może wypowiedzieć umowę najmu z zachowaniem sześciomiesięcznego terminu wypowiedzenia na koniec miesiąca kalendarzowego, pod warunkiem jednoczesnego przedstawienia pisemnej oferty zawarcia umowy najmu innego lokalu, spełniającego wymagania co najmniej takie same, jakie powinien spełniać lokal zamienny.
 
 4b. Gmina może określić w wieloletnim programie gospodarowania mieszkaniowym zasobem gminy termin wypowiedzenia umowy najmu dłuższy niż 6 miesięcy. Koszty przeprowadzki do zaoferowanego lokalu pokrywa gmina.
 
@@ -709,7 +722,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 4. W przypadku złożenia deklaracji po upływie terminu, o którym mowa w ust. 2, lub udostępnienia dokumentów, o których mowa w ust. 2a, po upływie wyznaczonego przez gminę terminu, przepisy ust. 5−13 stosuje się odpowiednio.
 
-5. Jeżeli średni miesięczny dochód gospodarstwa domowego najemcy w przeliczeniu na członka gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji jest wyższy niż dochód określony na podstawie kryteriów zawartych w uchwale rady gminy, o której mowa w art. 21 ust. 1 pkt 2, dotyczących wysokości dochodu gospodarstwa domowego uzasadniającej oddanie w najem lub podnajem lokalu, wysokość czynszu ustala się, wypowiadając jego dotychczasową wysokość najpóźniej na koniec miesiąca kalendarzowego, zgodnie z poniższym wzorem: 𝐶 =𝐶 𝐷 +( −𝐿 𝑛 ) gdzie poszczególne symbole oznaczają: C nowa wysokość czynszu za najem lokalu mieszkalnego, C wysokość czynszu za najem lokalu mieszkalnego, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy, D średni miesięczny dochód gospodarstwa domowego najemcy w okresie 3 miesięcy poprzedzających złożenie deklaracji, n liczba osób w gospodarstwie domowym najemcy, a w przypadku jednoosobowego gospodarstwa domowego wartość 1,2, L określona na podstawie kryteriów zawartych w uchwale rady gminy wysokość dochodu gospodarstwa domowego o danej liczbie członków, w przeliczeniu na członka gospodarstwa domowego, uzasadniająca oddanie w najem lub podnajem lokalu.
+5. Jeżeli średni miesięczny dochód gospodarstwa domowego najemcy w przeliczeniu na członka gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji jest wyższy niż dochód określony na podstawie kryteriów zawartych w uchwale rady gminy, o której mowa w art. 21 ust. 1 pkt 2, dotyczących wysokości dochodu gospodarstwa domowego uzasadniającej oddanie w najem lub podnajem lokalu, wysokość czynszu ustala się, wypowiadając jego dotychczasową wysokość najpóźniej na koniec miesiąca kalendarzowego, zgodnie z poniższym wzorem: 𝐷 𝐶 =𝐶 +( −𝐿 ) 𝑛 gdzie poszczególne symbole oznaczają: C – nowa wysokość czynszu za najem lokalu mieszkalnego, C – wysokość czynszu za najem lokalu mieszkalnego, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy, D – średni miesięczny dochód gospodarstwa domowego najemcy w okresie 3 miesięcy poprzedzających złożenie deklaracji, n – liczba osób w gospodarstwie domowym najemcy, a w przypadku jednoosobowego gospodarstwa domowego wartość 1,2, L – określona na podstawie kryteriów zawartych w uchwale rady gminy wysokość dochodu gospodarstwa domowego o danej liczbie członków, w przeliczeniu na członka gospodarstwa domowego, uzasadniająca oddanie w najem lub podnajem lokalu.
 
 6. Wysokość czynszu za najem lokalu mieszkalnego ustalona na podstawie wzoru, o którym mowa w ust. 5, nie może być niższa niż wysokość czynszu, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy. Wysokość czynszu nie może jednocześnie przekroczyć w skali roku 8% wartości odtworzeniowej lokalu.
 
@@ -762,6 +775,12 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 **Art. 25d.** Prawo do tymczasowego pomieszczenia nie przysługuje dłużnikowi, jeżeli:
 
+- **1)** z tytułu wykonawczego wynika, że nakazanie opróżnienia lokalu zostało orzeczone z powodu stosowania przemocy w rodzinie lub z powodu rażącego lub uporczywego wykraczania przeciwko porządkowi domowemu albo niewłaściwego zachowania czyniącego uciążliwym korzystanie z innych lokali w budynku, albo że dłużnik dokonał zajęcia opróżnionego lokalu bez tytułu prawnego;
+- **2)** dłużnik został zobowiązany do opróżnienia lokalu zajmowanego na podstawie umowy najmu okazjonalnego, której zawarcie zostało zgłoszone zgodnie z art. 19b ust. 1;
+- **3)** dłużnik został zobowiązany do opróżnienia tymczasowego pomieszczenia;
+- **4)** dłużnik został zobowiązany do opróżnienia lokalu zajmowanego na podstawie umowy najmu instytucjonalnego lokalu;
+- **5)** dłużnik został zobowiązany do opróżnienia lokalu zajmowanego na podstawie umowy najmu instytucjonalnego z dojściem do własności.
+
 **Art. 25e.** Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art. 10 ust. 1–3, art. 11 ust. 2 pkt 1–3, art. 13, art. 18, art. 20 ust. 2a i 2b, art. 21, art. 23 ust. 3 i 4 oraz art. 25.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
@@ -784,7 +803,7 @@ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywi
 
 2. W dniu nawiązania umowy najmu, o której mowa w ust. 1, czynsz najmu takich lokali jest naliczany w wysokości 3% wartości odtworzeniowej.
 
-**Art. 31.** Do osób, które do chwili śmierci najemcy lokalu sprawowały nad nim opiekę na podstawie umowy zawartej z najemcą przed dniem 12 listopada 1994 r., spełniającej wymagania określone w art. 9 ust. 2 ustawy z dnia 10 kwietnia 1974 r. Prawo lokalowe (Dz. U. z 1987 r. poz. 165, z późn. zm. ), stosuje się art. 691 Kodeksu cywilnego w brzmieniu obowiązującym przed dniem 12 listopada 1994 r.
+**Art. 31.** Do osób, które do chwili śmierci najemcy lokalu sprawowały nad nim opiekę na podstawie umowy zawartej z najemcą przed dniem 12 listopada 1994 r., spełniającej wymagania określone w art. 9 ust. 2 ustawy z dnia 10 kwietnia 1974 r. – Prawo lokalowe (Dz. U. z 1987 r. poz. 165, z późn. zm. ), stosuje się art. 691 Kodeksu cywilnego w brzmieniu obowiązującym przed dniem 12 listopada 1994 r.
 
 **Art. 32.**
 

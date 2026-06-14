@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej*
 
 Łącznie: **56** orzeczeń
-(pominięto 49 orzeczeń sądów rejonowych)
+(pominięto 50 orzeczeń sądów rejonowych)
 
 ## art. 2 (2)
 

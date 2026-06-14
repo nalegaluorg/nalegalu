@@ -1,0 +1,87 @@
+---
+title: Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 15 kwietnia 2022 r. zmieniające rozporządzenie w sprawie refundacji składek na ubezpieczenia społeczne osób niepełnosprawnych
+address: WDU20220000839
+eli: DU/2022/839
+publisher: DU
+year: 2022
+pos: 839
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 839 ROZPORZĄDZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 15 kwietnia 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 839 |
+| ISAP | WDU20220000839 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2022-04-15 |
+| Data wydania | 2022-04-19 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/839/text.pdf) |
+
+zmieniające rozporządzenie w sprawie refundacji składek na ubezpieczenia społeczne osób niepełnosprawnych Na podstawie art. 25d ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 9 stycznia 2009 r. w sprawie refundacji składek na ubezpieczenia społeczne osób niepełnosprawnych (Dz. U. z 2019 r. poz. 1218 oraz z 2021 r. poz. 1147) wprowadza się następujące zmiany:
+1) w § 2 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Wnioski Wn-U-G oraz wnioski Wn-U-A pozbawione tła, wypełnień (tint) lub linii obramowań uznaje się za zgodne ze wzorem określonym w ust. 1.”;
+2) w § 6 ust. 1 otrzymuje brzmienie: „1. Osoba niepełnosprawna wykonująca działalność gospodarczą składa wniosek Wn-U-G w terminie do ostatniego dnia miesiąca następującego po miesiącu, w którym upłynął termin do opłacenia składek na ubezpieczenia społeczne, zgodnie z przepisami o systemie ubezpieczeń społecznych.”;
+3) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. 1. Zmiany określone w § 1 pkt 2 i 3 mają zastosowanie do wniosków Wn-U-G za okresy począwszy od stycznia 2022 r.
+2. Wnioski Wn-U-G za miesiące do grudnia 2021 r. włącznie składa się według wzorów określonych w przepisach dotychczasowych.
+3. Osoba niepełnosprawna wykonująca działalność gospodarczą składa wniosek Wn-U-G za styczeń 2022 r. w terminie do dnia 30 kwietnia 2022 r.
+4. Zmian we wnioskach Wn-U-G dokonuje się przez złożenie wniosków według wzoru określonego w niniejszym rozporządzeniu.
+Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
+5. Do dnia 31 sierpnia 2022 r.:
+1) wnioski Wn-U-G za okresy począwszy od stycznia 2022 r. składa się według wzorów określonych w przepisach dotychczasowych,
+2) zmian we wnioskach Wn-U-G dokonuje się przez złożenie wniosków Wn-U-G według wzorów określonych w przepisach dotychczasowych – z uwzględnieniem § 1 pkt 1 oraz terminów płatności składek, oraz terminów złożenia wniosków Wn-U-G określonych w § 1 pkt 2 i § 2 ust. 3.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Rodziny i Polityki Społecznej: M. Maląg Załącznik do rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 15 kwietnia 2022 r. (poz. 839) WZÓR WZÓR Wniosek osoby niepełnosprawnej wykonującej działalność gospodarczą owypłatę refundacji składek na ubezpieczenia społeczne Wn-U-G To jest wniosek ❑ zwykły / ❑ korygujący za okres – , wypełniony w dniu .
+Dotyczy on refundacji składek z terminem płatności , które zostały opłacone w dniu .
+Ten wniosek ❑ jest / ❑ nie jest wnioskiem zgłoszeniowym.
+Dane wnioskodawcy Numer w rejestrze PFRON NIP REGON Nazwisko _______________________________________ Pierwsze imię ______________________ PESEL Forma prawna Szczególna forma prawna Forma własności Wielkość PKD Dodatkowe informacje o płatniku składek NIP płatnika składek Pełna nazwa ______________________________________________________________ Adres wnioskodawcy Ulica _____________________________ Nr domu ______ Nr lokalu ______ Miejscowość ______________________________________ Kod pocztowy Poczta ____________________________________________ Telefon _________________ E-mail ___________________________________ Identyfikator adresu Adres do korespondencji / dane pełnomocnika Adresat/Pełnomocnik _____________________________________________________________ Ulica ______________________________ Nr domu ______ Nr lokalu ______ Miejscowość ____________________________________________ Kod pocztowy: Poczta ____________________________________________ Telefon _____________ E-mail __________________________________ Informacja o składkach na ubezpieczenia społeczne, działalności gospodarczej i niepełnosprawności Kwota składek na ubezpieczenie emerytalne , Kwota składek na ubezpieczenie rentowe , Liczba dni prowadzenia działalności gospodarczej w okresie z poz. 2 . Liczba dni udokumentowanej niepełnosprawności w okresie prowadzonej działalności (w tym w stopniu: znacznym , umiarkowanym , lekkim ).
+Otrzymana pomoc Czy wnioskodawca otrzymał pomoc publiczną, pomoc de minimis lub inne wsparcie ze środków publicznych dotyczące składek z poz. 38 lub 39?
+❑Nie / ❑ Tak, w kwocie ____________________________ zł.
+Czy wnioskodawca otrzymał pomoc de minimis? ❑ Nie / ❑ Tak, tylko z PFRON / ❑ Tak, tylko inną niż z PFRON lub również inną niż z PFRON.
+Zakres wniosku Wnioskuję o należną mi refundację w kwocie ____________________________ zł.
+Proszę o przekazywanie jej na rachunek bankowy numer .
+Oświadczenia końcowe Oświadczam, że nie mam zaległości w zobowiązaniach wobec PFRON w kwocie przekraczającej ogółem 100 zł. Dane zawarte we wniosku są zgodne ze stanem prawnym i faktycznym. ❑ Proszę / ❑ nie proszę o wydanie identyfikatora (loginu) i hasła dostępu . Prośba dotyczy .
+Imię i nazwisko osoby upoważnionej ______________________________________________ Podpis ______________________________ Wn-U-G str. 1/ Objaśnienia do formularza Wn-U-G Zarząd PFRON mieści się pod adresem: al. Jana Pawła II 13, 00-828 Warszawa.
+Wniosek Wn-U-G za styczeń 2022 r. składa się do dnia 30 kwietnia 2022 r.
+Proszę w odpowiednim polu wstawić znak „X”.
+Proszę wpisać rok i miesiąc prowadzenia działalności gospodarczej, za który zostały w całości opłacone obowiązkowe składki podlegające refundacji.
+Proszę wpisać datę w formacie: rok-miesiąc-dzień.
+W poz. 4 proszę wpisać kod dotyczący terminu płatności składek na ubezpieczenia społeczne: 1 – jeżeli wnioskodawca ma obowiązek opłacać składki do 10 dnia każdego miesiąca (w przypadku składania wniosku za okres nie późniejszy niż grudzień 2021 r.) lub do 20. dnia każdego miesiąca (w przypadku wniosku składanego za okres nie wcześniejszy niż styczeń 2022 r.) albo 2 – jeżeli wnioskodawca ma obowiązek opłacać składki do 15. dnia każdego miesiąca. W przypadku wniosków za okresy począwszy od stycznia 2022 r. niewypełnienie poz. 4 oznacza, że kod terminu płatności składek jest równy 1.
+Proszę wpisać datę w formacie rok-miesiąc-dzień. W przypadku opłaty bezgotówkowej proszę wpisać dzień obciążenia rachunku bankowego, a w przypadku opłaty gotówkowej proszę wskazać datę wpłaty należności w placówce pocztowej lub innej placówce uprawnionej do poboru opłat.
+Proszę wpisać numer, jeżeli został nadany wnioskodawcy przed dniem złożenia wniosku.
+Proszę wpisać numer identyfikacji podatkowej, o ile jego nadanie wynika z przepisów prawa i został nadany wnioskodawcy przed dniem złożenia wniosku Wn-U-G.
+Proszę wpisać numer REGON, o ile jego nadanie wynika z przepisów prawa. W przypadku posiadania 9-cyfrowego numeru REGON w poz. 9 proszę po dziewiątej cyfrze wpisać pięć zer.
+Proszę wpisać kod odpowiadający formie prawnej wnioskodawcy: 1A – przedsiębiorstwo państwowe, 1B – jednoosobowa spółka Skarbu Państwa, 1C – jednoosobowa spółka jednostki samorządu terytorialnego w rozumieniu przepisów o gospodarce komunalnej, 1D – spółka akcyjna albo spółka z ograniczoną odpowiedzialnością, w stosunku do których Skarb Państwa, jednostka samorządu terytorialnego, przedsiębiorstwo państwowe lub jednoosobowa spółka Skarbu Państwa są podmiotami, które posiadają uprawnienia takie jak przedsiębiorcy dominujący w rozumieniu przepisów o ochronie konkurencji i konsumentów, 2 – wnioskodawca nienależący do kategorii określonych kodem od 1A do 1D. Niewypełnienie poz. 13 jest równoznaczne z wpisaniem kodu 2.
+Proszę wpisać kod szczególnej formy prawnej określony w przepisach dotyczących sposobu i metodologii prowadzenia i aktualizacji rejestru podmiotów gospodarki narodowej.
+Forma własności jest określana na podstawie procentowego udziału własności, zgodnie z przepisami dotyczącymi sposobu i metodologii prowadzenia i aktualizacji krajowego rejestru urzędowego podmiotów gospodarki narodowej. Proszę podać kolejno odpowiednie kody odpowiadające własności: 1 – Skarbu Państwa, 2 – państwowych osób prawnych, 3 – jednostek samorządu terytorialnego, 4 – krajowych osób fizycznych, 5 ‒ pozostałych krajowych jednostek prywatnych, 6 – osób zagranicznych.
+Proszę podać odpowiedni kod: 0 – mikroprzedsiębiorca, kod 1 – przedsiębiorca mały, kod 2 – przedsiębiorca średni, kod 3 – inny przedsiębiorca, kod 4 – wnioskodawca niebędący przedsiębiorcą. Proszę ustalić wielkość przedsiębiorcy zgodnie ze wspólnotową definicją mikroprzedsiębiorstw, małych i średnich przedsiębiorstw obowiązującą w okresie z poz. 2.
+Proszę wpisać numer, o ile jego nadanie wynika z przepisów prawa. Proszę wpisać klasę rodzaju działalności zgodnie z rozporządzeniem Rady Ministrów z dnia 24 grudnia 2007 r. w sprawie Polskiej Klasyfikacji Działalności (PKD) (Dz. U. poz. 1885, z późn. zm.). Podaje się klasę działalności, w związku z którą podmiot ubiega się o pomoc de minimis. Jeżeli brak jest możliwości ustalenia jednej takiej działalności, podaje się klasę PKD tej działalności, która generuje największy przychód.
+Proszę wypełnić poz. 18, jeżeli NIP osoby niepełnosprawnej wykonującej działalność gospodarczą różni się od NIP płatnika składek podlegających refundacji.
+Niewypełnienie poz. 18 jest równoznaczne ze złożeniem oświadczenia o identyczności NIP osoby niepełnosprawnej wykonującej działalność gospodarczą oraz NIP płatnika składek podlegających refundacji (poz. 18 = poz. 8).
+Proszę wpisać pełną nazwę albo imię i nazwisko płatnika składek z poz. 18, a jeżeli poz. 18 = poz. 8, proszę wpisać nazwę pod którą wnioskodawca prowadzi działalność, której dotyczy refundacja.
+W przypadku korzystania z telefonu proszę wpisać dziewięciocyfrowy numer telefonu.
+Proszę wypełnić w przypadku korzystania z poczty elektronicznej.
+Proszę wpisać pełne, siedmiocyfrowe oznaczenie gminy, na której obszarze wnioskodawca ma odpowiednio siedzibę lub ostatnie miejsce zamieszkania – zgodnie z rozporządzeniem Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.).
+Identyfikatory terytorialne gmin są dostępne na stronie internetowej Głównego Urzędu Statystycznego.
+Proszę wypełnić poz. 29–37, jeżeli adres, na który PFRON ma kierować korespondencję przeznaczoną dla wnioskodawcy, jest inny niż adres wykazany w bloku Adres wnioskodawcy. Jeżeli wnioskodawca udzielił pełnomocnictwa obejmującego składanie Wn-U-G, to w poz. 29–37 proszę wpisać nazwę lub imię i nazwisko pełnomocnika i jego adres do korespondencji. Jednocześnie proszę jednokrotnie złożyć odpowiednio pełnomocnictwo albo zawiadomienie o odwołaniu pełnomocnictwa.
+Proszę wpisać odpowiednio imię i nazwisko osoby lub nazwę podmiotu, do których należy kierować korespondencję do wnioskodawcy (wnioskodawcy lub innego odbiorcy w miejscu wyznaczonym przez wnioskodawcę). Jeżeli adresatem jest pełnomocnik, to proszę wpisać imię i nazwisko pełnomocnika. Jeżeli pełnomocnik funkcjonuje w ramach jednostki organizacyjnej, to proszę wpisać również pełną nazwę tej jednostki.
+Proszę wpisać kwotę obowiązkowych składek na ubezpieczenie emerytalne dotyczących prowadzonej działalności gospodarczej za okres z poz. 2, które zostały opłacone w całości – terminowo lub z uchybieniem terminów określonych w art. 47 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm. – nieprzekraczającym 14 dni, jednak nie później niż w dniu złożenia wniosku).
+Proszę wpisać kwotę obowiązkowych składek na ubezpieczenie rentowe dotyczących prowadzonej działalności gospodarczej za okres z poz. 2, które zostały opłacone w całości (terminowo lub z uchybieniem terminów określonych w art. 47 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych nieprzekraczającym 14 dni, jednak nie później niż w dniu złożenia wniosku).
+Proszę wpisać liczbę dni kalendarzowych w okresie z poz. 2, w których wnioskodawca prowadził działalność gospodarczą. Niewypełnienie poz. 40 jest równoznaczne z oświadczeniem o prowadzeniu przez wnioskodawcę działalności gospodarczej przez wszystkie dni okresu sprawozdawczego.
+Proszę wpisać liczbę dni kalendarzowych w okresie z poz. 2, w których wnioskodawca prowadził działalność gospodarczą i jednocześnie jego niepełnosprawność w rozumieniu ustawy była potwierdzona ważnym orzeczeniem. W odniesieniu do refundacji składek za okresy do maja 2011 r. włącznie niewypełnienie poz. 41 jest równoznaczne z oświadczeniem o spełnianiu przez wnioskodawcę tych warunków przez wszystkie dni okresu sprawozdawczego. W odniesieniu do refundacji składek za okresy począwszy od czerwca 2011 r. niewypełnienie poz. 41 jest równoznaczne z niespełnianiem przez wnioskodawcę tych warunków w żadnym z dni okresu sprawozdawczego.
+Dane wykazywane w poz. 46 podaje się z dokładnością do dwóch miejsc po przecinku. Jeżeli trzecia cyfra po przecinku należy do przedziału od 5 do 9, to stosuje się zaokrąglenie w górę, a gdy jest mniejsza niż 5, to pierwszą i drugą cyfrę po przecinku pozostawia się bez zmian.
+Wybranie odpowiedzi „Nie” lub „Tak, tylko z PFRON” albo niewypełnienie poz. 47 oznacza, że wnioskodawca: 1) nie otrzymał pomocy de minimis, pomocy de minimis w rolnictwie lub pomocy de minimis w sektorze rybołówstwa i akwakultury lub 2) otrzymał pomoc de minimis, pomocy de minimis w rolnictwie lub pomocy de minimis w sektorze rybołówstwa i akwakultury wyłącznie z PFRON. W przypadku wybrania odpowiedzi „Tak, tylko inną niż z PFRON lub również inną niż z PFRON” proszę załączyć do Wn-U-G kopie zaświadczeń o uzyskanej pomocy de minimis innej niż udzielona przez PFRON albo oświadczenie o wysokości uzyskanej pomocy de minimis. Każde zaświadczenie lub oświadczenie załącza się jednokrotnie.
+Dane wykazywane w poz. 48 podaje się z dokładnością do dwóch miejsc po przecinku. Jeżeli trzecia cyfra po przecinku należy do przedziału od 5 do 9, to stosuje się zaokrąglenie w górę, a gdy jest mniejsza niż 5, to pierwszą i drugą cyfrę po przecinku pozostawia się bez zmian. W odniesieniu do refundacji składek za okresy do maja 2011 r. włącznie: poz. 48 = ((poz. 38 + poz. 39) x poz. 41 / poz. 40) – poz. 46. W odniesieniu do refundacji składek za okresy od czerwca 2011 r. włącznie: poz. 48 = ((poz. 38 + poz. 39) x (poz. 42 x 1 + poz. 43 x 0,6 + poz. 44 x 0,3) / poz. 40) – poz. 46. Wnioskodawca może nie wypełniać poz. 48.
+Proszę w odpowiednim polu wstawić znak „X”. Do składania wniosków Wn-U-G w formie elektronicznej są potrzebne identyfikator (login) i hasło dostępu do programu informatycznego udostępnionego przez PFRON. Wnioskodawca otrzyma je od PFRON w terminie 14 dni od dnia złożenia wniosku w formie dokumentu pisemnego z zaznaczoną odpowiedzią „Proszę o wydanie identyfikatora (loginu) i hasła dostępu”. Można je uzyskać bez względu na to, czy wniosek ten jest wnioskiem zgłoszeniowym, czy składanym za późniejsze okresy sprawozdawcze. Niewypełnienie poz. 50 jest równoznaczne z wybraniem odpowiedzi „Nie proszę o wydanie identyfikatora i hasła dostępu”. Zaznaczenie tej odpowiedzi nie odbiera wnioskodawcy możliwości późniejszego otrzymania identyfikatora (loginu) i hasła dostępu.
+W przypadku zaznaczenia odpowiedzi „Proszę o wydanie identyfikatora (loginu) i hasła dostępu” w poz. 50 proszę wpisać w poz. 51 odpowiedni kod: 1 – wydanie identyfikatora (loginu) i hasła dostępu po raz pierwszy, 2 – wydanie utraconego identyfikatora (loginu) i hasła dostępu, 3 – wydanie identyfikatora (loginu) i hasła dostępu w przypadku podejrzenia ujawnienia danych służących do składania podpisu elektronicznego, 4 – inne. Jeżeli w poz. 50 została wybrana odpowiedź „Nie proszę o wydanie identyfikatora i hasła dostępu”, to poz. 51 = 0.
+Proszę wpisać dane osoby uprawnionej lub upoważnionej do reprezentowania wnioskodawcy w przypadku wypełniania deklaracji przez tę osobę, a nie osobiście przez wnioskodawcę.
+Podpis osoby z poz. 52, a w przypadku niewypełnienia poz. 52 – podpis wnioskodawcy. Po podpisaniu wniosku podpisem elektronicznym poz. 52 jest wypełniana automatycznie imieniem i nazwiskiem osoby, która użyła tego podpisu. Złożenie podpisu wykraczającego poza poz. 53 nie powoduje nieważności wniosku.
+

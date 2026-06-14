@@ -8,10 +8,10 @@ pos: 1092
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Po zaznajomieniu się z powyższymi zmianami, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, są przyjęte, ratyfikowane i potwierdzone, będą one niezmiennie zachowywane.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1092 Zmiany Z manili do załącznika do Międzynarodowej Konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzone w Manili dnia 25 czerwca 2010 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1092/text.pdf) |
 
-Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
-Dano w Warszawie dnia 18 grudnia 2012 r.
-Prezydent Rzeczypospolitej Polskiej: B. Komorowski L.S.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 25 czerwca 2010 r. w Manili zostały sporządzone Zmiany z Manili do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, w następującym brzmieniu: Przekład
 

@@ -8,7 +8,7 @@ pos: 1109
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego

@@ -8,10 +8,10 @@ pos: 1731
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 września 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1731 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 29 sierpnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1731/text.pdf) |
 
-Poz. 1731 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 29 sierpnia 2018 r.
-w sprawie warunków i trybu współpracy z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej w ramach nadzoru nad agencją płatniczą w zakresie spełniania kryteriów akredytacyjnych Na podstawie art. 6 ust. 2 ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. z 2018 r. poz. 221) zarządza się, co następuje: § 1. Rozporządzenie określa warunki i tryb współpracy ministra właściwego do spraw finansów publicznych, zwanego dalej „ministrem”, z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej, zwanym dalej „audytorem”, w ramach sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia Komisji (WE) nr 885/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie akredytacji agencji płatniczych i innych jednostek, jak również rozliczenia rachunków EFGR i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 90, z późn. zm. ).
+w sprawie warunków i trybu współpracy z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej w ramach nadzoru nad agencją płatniczą w zakresie spełniania kryteriów akredytacyjnych Na podstawie art. 6 ust. 2 ustawy z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. z 2018 r. poz. 221) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki i tryb współpracy ministra właściwego do spraw finansów publicznych, zwanego dalej „ministrem”, z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej, zwanym dalej „audytorem”, w ramach sprawowania stałego nadzoru nad agencją płatniczą, o którym mowa w art. 2 rozporządzenia Komisji (WE) nr 885/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie akredytacji agencji płatniczych i innych jednostek, jak również rozliczenia rachunków EFGR i EFRROW (Dz. Urz. UE L 171 z 23.06.2006, str. 90, z późn. zm. ).
 § 2. Współpraca, o której mowa w § 1, polega na przedkładaniu ministrowi:
 1) opracowanej przez audytora:
 a) kwartalnej informacji dotyczącej stanu spełniania przez agencję płatniczą kryteriów akredytacyjnych określonych w załączniku I do rozporządzenia Komisji (WE) nr 885/2006 z dnia 21 czerwca 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1290/2005 w zakresie akredytacji agencji płatniczych i innych jednostek, jak również rozliczenia rachunków EFGR i EFRROW, zwanych dalej „kryteriami akredytacyjnymi” – nie później niż do 15 dnia miesiąca następującego po zakończeniu każdego kwartału,
@@ -34,7 +34,6 @@ b) informacji o stwierdzonych uchybieniach mogących utrudniać realizację prze
 c) zatwierdzonej przez osobę kierującą agencją płatniczą informacji o harmonogramie działań mających na celu wypełnienie zaleceń audytora, określającej zakres działań naprawczych po przeprowadzonym audycie wewnętrznym zleconym przez ministra – w terminie 10 dni od dnia jego zatwierdzenia,
 d) informacji o pełnym wdrożeniu zaleceń audytora określającej zakres działań naprawczych po przeprowadzonym audycie wewnętrznym zleconym przez ministra – niezwłocznie po zakończeniu przez audytora czynności sprawdzających wdrożenie zaleceń, jednak nie później niż w ciągu 7 dni,
 e) kwartalnej informacji o przeprowadzonych w agencji płatniczej audytach wewnętrznych i kontrolach zewnętrznych dotyczących obszarów objętych kryteriami akredytacyjnymi wraz z informacją o zakresie przeprowadzonej kontroli i jej wynikach – nie później niż do 15 dnia miesiąca następującego po zakończeniu każdego kwartału;
-Dziennik Ustaw – 2 – Poz. 1731
 2) opracowanej przez ministra właściwego do spraw rozwoju wsi informacji o stwierdzonych uchybieniach, o których mowa w pkt 1 lit. b – niezwłocznie po ich stwierdzeniu przez ministra właściwego do spraw rozwoju wsi, jednak nie później niż w ciągu 7 dni.
 § 3. 1. Minister, po otrzymaniu informacji, o której mowa w § 2 pkt 1 lit. b lub pkt 2, zleca przeprowadzenie audytu wewnętrznego w agencji płatniczej.
 2. Jeżeli wyniki audytu, o którym mowa w ust. 1, potwierdzają zaprzestanie spełniania przez agencję płatniczą jednego lub więcej kryteriów akredytacyjnych, audytor przekazuje niezwłocznie ministrowi informację w tym zakresie, jednak nie później niż w ciągu 7 dni.

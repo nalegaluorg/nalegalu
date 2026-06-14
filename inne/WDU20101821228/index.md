@@ -8,7 +8,7 @@ pos: 1228
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie informacji niejawnych
@@ -47,7 +47,8 @@ Art. 74–180. (pominięte)
 2. Przepisy ustawy mają zastosowanie do:
 
 - **1)** organów władzy publicznej, w szczególności:
-    - **a)** i Senatu,
+    - **a)** Sejmu i Senatu,
+    - **b)** Prezydenta Rzeczypospolitej Polskiej,
     - **c)** organów administracji rządowej,
     - **d)** organów jednostek samorządu terytorialnego, a także innych podległych im jednostek organizacyjnych lub przez nie nadzorowanych,
     - **e)** sądów i trybunałów,
@@ -67,7 +68,35 @@ Art. 74–180. (pominięte)
 
 **Art. 2.** W rozumieniu ustawy:
 
-**Art. 3.** Do postępowań sprawdzających, kontrolnych postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego, w zakresie nieuregulowanym w ustawie, mają zastosowanie przepisy art. 6, art. 7, art. 8, art. 12, art. 14–16, art. 24 § 1 pkt 1–6 i § 2–4, art. 26 § 1, art. 28, art. 29, art. 30 § 1–3, art. 35 § 1, art. 39, art. 41–47, art. 50, art. 55, art. 57–60, art. 61 § 3 i 4, art. 63 § 4, art. 64, art. 65, art. 72, art. 75 § 1, art. 77 § 1, art. 97 § 1 pkt 4 i § 2, art. 98, art. 101, art. 103, art. 104, art. 105 § 2, art. 107, art. 109 § 1, art. 112, art. 113 § 1, art. 125 § 1, art. 156– 158 oraz art. 217 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). rękojmię zachowania tajemnicy i tylko w zakresie niezbędnym do wykonywania przez nią pracy lub pełnienia służby na zajmowanym stanowisku albo wykonywania czynności zleconych. 2. Zasady zwalniania od obowiązku zachowania w tajemnicy informacji niejawnych oraz sposób postępowania z aktami spraw zawierającymi informacje niejawne w postępowaniu przed sądami i innymi organami określają przepisy odrębnych ustaw. 3. Jeżeli przepisy odrębnych ustaw uprawniają organy, służby lub instytucje albo ich upoważnionych pracowników do dokonywania kontroli, w szczególności do swobodnego dostępu do pomieszczeń i materiałów, a jej zakres dotyczy informacji niejawnych, uprawnienia te są realizowane z zachowaniem przepisów niniejszej ustawy.
+- **1)** jednostką organizacyjną – jest podmiot wymieniony w art. 1 ust. 2;
+- **2)** rękojmią zachowania tajemnicy – jest zdolność osoby do spełnienia ustawowych wymogów dla zapewnienia ochrony informacji niejawnych przed ich nieuprawnionym ujawnieniem, stwierdzona w wyniku przeprowadzenia postępowania sprawdzającego;
+- **3)** dokumentem – jest każda utrwalona informacja niejawna;
+- **4)** materiałem – jest dokument lub przedmiot albo dowolna ich część, chronione jako informacja niejawna, a zwłaszcza urządzenie, wyposażenie lub broń wyprodukowane albo będące w trakcie produkcji, a także składnik użyty do ich wytworzenia;
+- **5)** przetwarzaniem informacji niejawnych – są wszelkie operacje wykonywane w odniesieniu do informacji niejawnych i na tych informacjach, w szczególności ich wytwarzanie, modyfikowanie, kopiowanie, klasyfikowanie, gromadzenie, przechowywanie, przekazywanie lub udostępnianie;
+- **6)** systemem teleinformatycznym – jest system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513);
+- **7)** dokumentem szczególnych wymagań bezpieczeństwa – jest systematyczny opis sposobu zarządzania bezpieczeństwem systemu teleinformatycznego;
+- **8)** dokumentem procedur bezpiecznej eksploatacji systemu teleinformatycznego – jest opis sposobu i trybu postępowania w sprawach związanych z bezpieczeństwem informacji niejawnych przetwarzanych w systemie teleinformatycznym oraz zakres odpowiedzialności użytkowników systemu teleinformatycznego i pracowników mających do niego dostęp;
+- **9)** dokumentacją bezpieczeństwa systemu teleinformatycznego – jest dokument szczególnych wymagań bezpieczeństwa oraz dokument procedur bezpiecznej eksploatacji systemu teleinformatycznego, opracowane zgodnie z zasadami określonymi w ustawie;
+- **10)** akredytacją bezpieczeństwa teleinformatycznego – jest dopuszczenie systemu teleinformatycznego do przetwarzania informacji niejawnych;
+- **11)** certyfikacją – jest proces potwierdzania zdolności urządzenia, narzędzia lub innego środka do ochrony informacji niejawnych;
+- **12)** audytem bezpieczeństwa systemu teleinformatycznego – jest weryfikacja poprawności realizacji wymagań i procedur, określonych w dokumentacji bezpieczeństwa systemu teleinformatycznego;
+- **13)** przedsiębiorcą – jest przedsiębiorca w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ) lub każda inna jednostka organizacyjna, niezależnie od formy własności, którzy w ramach prowadzonej działalności gospodarczej zamierzają realizować lub realizują związane z dostępem do informacji niejawnych umowy lub zadania wynikające z przepisów prawa;
+- **14)** kierownikiem przedsiębiorcy – jest członek jednoosobowego zarządu lub innego jednoosobowego organu zarządzającego, a jeżeli organ jest wieloosobowy – cały organ albo członek lub członkowie tego organu wyznaczeni co najmniej uchwałą zarządu do pełnienia funkcji kierownika przedsiębiorcy, z wyłączeniem pełnomocników ustanowionych przez ten organ lub jednostkę; w przypadku spółki jawnej i spółki cywilnej kierownikiem przedsiębiorcy są wspólnicy prowadzący sprawy spółki, w przypadku spółki partnerskiej – wspólnicy prowadzący sprawy spółki albo zarząd, a w odniesieniu do spółki komandytowej i spółki komandytowo-akcyjnej – komplementariusze prowadzący sprawy spółki; w przypadku osoby fizycznej prowadzącej działalność gospodarczą kierownikiem przedsiębiorcy jest ta osoba; za kierownika przedsiębiorcy uważa się również likwidatora, a także syndyka lub zarządcę ustanowionego w postępowaniu upadłościowym; kierownik przedsiębiorcy jest kierownikiem jednostki organizacyjnej w rozumieniu przepisów ustawy;
+- **15)** ryzykiem – jest kombinacja prawdopodobieństwa wystąpienia zdarzenia niepożądanego i jego konsekwencji;
+- **16)** szacowaniem ryzyka – jest całościowy proces analizy i oceny ryzyka;
+- **17)** zarządzaniem ryzykiem – są skoordynowane działania w zakresie zarządzania bezpieczeństwem informacji, z uwzględnieniem ryzyka;
+- **18)** zatrudnieniem – jest również odpowiednio powołanie, mianowanie lub wyznaczenie;
+- **19)** rozwiązaniem informatycznym – jest urządzenie lub zespół urządzeń, oprogramowanie, narzędzie lub usługa informatyczna umożliwiająca przetwarzanie informacji niejawnych w postaci elektronicznej, eksploatowana lub planowana do wdrożenia wyłącznie w jednostkach organizacyjnych wskazanych w art. 10 ust. 2.
+
+**Art. 3.** Do postępowań sprawdzających, kontrolnych postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego, w zakresie nieuregulowanym w ustawie, mają zastosowanie przepisy art. 6, art. 7, art. 8, art. 12, art. 14–16, art. 24 § 1 pkt 1–6 i § 2–4, art. 26 § 1, art. 28, art. 29, art. 30 § 1–3, art. 35 § 1, art. 39, art. 41–47, art. 50, art. 55, art. 57–60, art. 61 § 3 i 4, art. 63 § 4, art. 64, art. 65, art. 72, art. 75 § 1, art. 77 § 1, art. 97 § 1 pkt 4 i § 2, art. 98, art. 101, art. 103, art. 104, art. 105 § 2, art. 107, art. 109 § 1, art. 112, art. 113 § 1, art. 125 § 1, art. 156– 158 oraz art. 217 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+
+**Art. 4.**
+
+1. Informacje niejawne mogą być udostępnione wyłącznie osobie dającej rękojmię zachowania tajemnicy i tylko w zakresie niezbędnym do wykonywania przez nią pracy lub pełnienia służby na zajmowanym stanowisku albo wykonywania czynności zleconych.
+
+2. Zasady zwalniania od obowiązku zachowania w tajemnicy informacji niejawnych oraz sposób postępowania z aktami spraw zawierającymi informacje niejawne w postępowaniu przed sądami i innymi organami określają przepisy odrębnych ustaw.
+
+3. Jeżeli przepisy odrębnych ustaw uprawniają organy, służby lub instytucje albo ich upoważnionych pracowników do dokonywania kontroli, w szczególności do swobodnego dostępu do pomieszczeń i materiałów, a jej zakres dotyczy informacji niejawnych, uprawnienia te są realizowane z zachowaniem przepisów niniejszej ustawy.
 
 #### Rozdział 2 Klasyfikowanie informacji niejawnych
 
@@ -81,7 +110,7 @@ Art. 74–180. (pominięte)
 - **4)** osłabi gotowość obronną Rzeczypospolitej Polskiej;
 - **5)** doprowadzi lub może doprowadzić do identyfikacji funkcjonariuszy, żołnierzy lub pracowników służb odpowiedzialnych za realizację zadań wywiadu lub kontrwywiadu, którzy wykonują czynności operacyjno-rozpoznawcze, jeżeli zagrozi to bezpieczeństwu wykonywanych czynności lub może doprowadzić do identyfikacji osób udzielających im pomocy w tym zakresie;
 - **6)** zagrozi lub może zagrozić życiu lub zdrowiu funkcjonariuszy, żołnierzy lub pracowników, którzy wykonują czynności operacyjno-rozpoznawcze, lub osób udzielających im pomocy w tym zakresie;
-- **7)** zagrozi lub może zagrozić życiu lub zdrowiu świadków koronnych lub osób dla nich najbliższych, osób, którym udzielono środków ochrony i pomocy pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21 oraz z 2024 r. poz. 1228), albo świadków, o których mowa w art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304), lub osób dla nich najbliższych.
+- **7)** zagrozi lub może zagrozić życiu lub zdrowiu świadków koronnych lub osób dla nich najbliższych, osób, którym udzielono środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21 oraz z 2024 r. poz. 1228), albo świadków, o których mowa w art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304), lub osób dla nich najbliższych.
 
 2. Informacjom niejawnym nadaje się klauzulę „tajne”, jeżeli ich nieuprawnione ujawnienie spowoduje poważną szkodę dla Rzeczypospolitej Polskiej przez to, że:
 
@@ -100,6 +129,7 @@ Art. 74–180. (pominięte)
 - **4)** utrudni wykonywanie zadań służbom lub instytucjom odpowiedzialnym za ochronę bezpieczeństwa lub podstawowych interesów Rzeczypospolitej Polskiej;
 - **5)** utrudni wykonywanie zadań służbom lub instytucjom odpowiedzialnym za ochronę porządku publicznego, bezpieczeństwa obywateli lub ściganie sprawców przestępstw i przestępstw skarbowych oraz organom wymiaru sprawiedliwości;
 - **6)** zagrozi stabilności systemu finansowego Rzeczypospolitej Polskiej;
+- **7)** wpłynie niekorzystnie na funkcjonowanie gospodarki narodowej.
 
 4. Informacjom niejawnym nadaje się klauzulę „zastrzeżone”, jeżeli nie nadano im wyższej klauzuli tajności, a ich nieuprawnione ujawnienie może mieć szkodliwy wpływ na wykonywanie przez organy władzy publicznej lub inne jednostki organizacyjne zadań w zakresie obrony narodowej, polityki zagranicznej, bezpieczeństwa publicznego, przestrzegania praw i wolności obywateli, wymiaru sprawiedliwości albo interesów ekonomicznych Rzeczypospolitej Polskiej.
 
@@ -119,7 +149,7 @@ Art. 74–180. (pominięte)
 
 6. Po zniesieniu lub zmianie klauzuli tajności podejmuje się czynności polegające na naniesieniu odpowiednich zmian w oznaczeniu materiału i poinformowaniu o nich odbiorców. Odbiorcy materiału, którzy przekazali go kolejnym odbiorcom, są odpowiedzialni za poinformowanie ich o zniesieniu lub zmianie klauzuli tajności.
 
-7. Uprawnienia w zakresie zniesienia lub zmiany klauzuli tajności materiału przechodzą, w przypadku rozwiązania, zniesienia, likwidacji, upadłości obejmującej likwidację majątku upadłego, przekształcenia lub reorganizacji jednostki organizacyjnej, na jej następcę prawnego. W razie braku następcy prawnego zwaną dalej „ABW”, lub Służbę Kontrwywiadu Wojskowego, zwaną dalej „SKW”, z zastrzeżeniem art. 10 ust. 2 i 3.
+7. Uprawnienia w zakresie zniesienia lub zmiany klauzuli tajności materiału przechodzą, w przypadku rozwiązania, zniesienia, likwidacji, upadłości obejmującej likwidację majątku upadłego, przekształcenia lub reorganizacji jednostki organizacyjnej, na jej następcę prawnego. W razie braku następcy prawnego uprawnienia w tym zakresie przechodzą na Agencję Bezpieczeństwa Wewnętrznego, zwaną dalej „ABW”, lub Służbę Kontrwywiadu Wojskowego, zwaną dalej „SKW”, z zastrzeżeniem art. 10 ust. 2 i 3.
 
 8. Poszczególne części materiału mogą być oznaczone różnymi klauzulami tajności.
 
@@ -138,9 +168,13 @@ Art. 74–180. (pominięte)
 2. Ochronie nie podlegają dane, o których mowa w ust. 1 pkt 1 i 2, zawarte w dokumentach, zbiorach danych, rejestrach i kartotekach, a także w aktach funkcjonariuszy i żołnierzy organów bezpieczeństwa państwa, przekazanych do Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu na podstawie przepisów:
 
 - **1)** ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102),
-- **2)** ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940) – chyba że nadano im klauzulę tajności w wyniku przeglądu, o którym mowa w art. 19 ustawy z dnia 29 kwietnia 2016 r. o zmianie ustawy o Instytucie Pamięci Narodowej ustaw (Dz. U. poz. 749), lub przeglądu, o którym mowa w art. 6 ust. 4.
+- **2)** ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940) – chyba że nadano im klauzulę tajności w wyniku przeglądu, o którym mowa w art. 19 ustawy z dnia 29 kwietnia 2016 r. o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw (Dz. U. poz. 749), lub przeglądu, o którym mowa w art. 6 ust. 4.
 
 **Art. 8.** Informacje niejawne, którym nadano określoną klauzulę tajności:
+
+- **1)** mogą być udostępnione wyłącznie osobie uprawnionej, zgodnie z przepisami ustawy dotyczącymi dostępu do określonej klauzuli tajności;
+- **2)** muszą być przetwarzane w warunkach uniemożliwiających ich nieuprawnione ujawnienie, zgodnie z przepisami określającymi wymagania dotyczące kancelarii tajnych, bezpieczeństwa systemów teleinformatycznych, obiegu materiałów i środków bezpieczeństwa fizycznego, odpowiednich do nadanej klauzuli tajności;
+- **3)** muszą być chronione, odpowiednio do nadanej klauzuli tajności, z zastosowaniem środków bezpieczeństwa określonych w ustawie i przepisach wykonawczych wydanych na jej podstawie.
 
 **Art. 9.**
 
@@ -161,6 +195,7 @@ Art. 74–180. (pominięte)
 1. ABW i SKW, nadzorując funkcjonowanie systemu ochrony informacji niejawnych w jednostkach organizacyjnych pozostających w ich właściwości określonej w ust. 2 i 3:
 
 - **1)** prowadzą kontrolę ochrony informacji niejawnych i przestrzegania przepisów obowiązujących w tym zakresie;
+- **2)** realizują zadania w zakresie bezpieczeństwa systemów teleinformatycznych;
 - **3)** prowadzą postępowania sprawdzające, kontrolne postępowania sprawdzające oraz postępowania bezpieczeństwa przemysłowego;
 - **4)** zapewniają ochronę informacji niejawnych wymienianych między Rzecząpospolitą Polską a innymi państwami lub organizacjami międzynarodowymi;
 - **5)** prowadzą doradztwo i szkolenia w zakresie ochrony informacji niejawnych.
@@ -185,7 +220,8 @@ Art. 74–180. (pominięte)
 
 - **1)** wglądu do dokumentów związanych z ochroną informacji niejawnych międzynarodowych;
 - **2)** wstępu do obiektów i pomieszczeń przeznaczonych do przetwarzania informacji niejawnych międzynarodowych;
-- **3)** dostępu do systemów teleinformatycznych przeznaczonych do przetwarzania informacji niejawnych międzynarodowych; międzynarodowych.
+- **3)** dostępu do systemów teleinformatycznych przeznaczonych do przetwarzania informacji niejawnych międzynarodowych;
+- **4)** uzyskiwania wyjaśnień i informacji dotyczących ochrony informacji niejawnych międzynarodowych.
 
 5. Szef ABW organizuje współdziałanie z Szefem SKW w zakresie wykonywania funkcji krajowej władzy bezpieczeństwa.
 
@@ -204,7 +240,7 @@ Art. 74–180. (pominięte)
 - **5)** żądania od kierowników i pracowników kontrolowanych jednostek organizacyjnych udzielania ustnych i pisemnych wyjaśnień;
 - **6)** zasięgania w związku z przeprowadzaną kontrolą informacji w jednostkach niekontrolowanych, jeżeli ich działalność pozostaje w związku z przetwarzaniem lub ochroną informacji niejawnych, oraz żądania wyjaśnień od kierowników i pracowników tych jednostek;
 - **7)** powoływania oraz korzystania z pomocy biegłych i specjalistów, jeżeli stwierdzenie okoliczności ujawnionych w czasie przeprowadzania kontroli wymaga wiadomości specjalnych;
-- **8)** uczestniczenia w posiedzeniach kierownictwa, organów zarządzających lub nadzorczych, a także organów opiniodawczo-doradczych w sprawach organizacyjnej.
+- **8)** uczestniczenia w posiedzeniach kierownictwa, organów zarządzających lub nadzorczych, a także organów opiniodawczo-doradczych w sprawach dotyczących problematyki ochrony tych informacji w kontrolowanej jednostce organizacyjnej.
 
 2. Jeżeli w czasie wykonywania kontroli, o której mowa w ust. 1, zostanie w znacznym stopniu uprawdopodobnione podejrzenie możliwości przetwarzania informacji niejawnych w systemach teleinformatycznych nieposiadających akredytacji bezpieczeństwa teleinformatycznego, funkcjonariusze ABW albo funkcjonariusze lub żołnierze SKW mogą żądać udostępnienia do kontroli tych systemów, wyłącznie w celu i zakresie niezbędnym do ustalenia, czy przetwarzanie takie miało miejsce, oraz wyjaśnienia okoliczności z tym związanych.
 
@@ -220,6 +256,8 @@ Art. 74–180. (pominięte)
 
 5. Czynności, o których mowa w ust. 1 pkt 1–5 i 8, dokonywane przez ABW w stosunku do Kancelarii Sejmu, Kancelarii Senatu oraz Kancelarii Prezydenta Rzeczypospolitej Polskiej są wykonywane w uzgodnieniu odpowiednio z Marszałkiem Sejmu, Marszałkiem Senatu oraz Szefem Kancelarii Prezydenta Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
 
+6. Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
 - **1)** sposób przygotowania oraz zakres i tryb przeprowadzania kontroli stanu zabezpieczenia informacji niejawnych;
 - **2)** tryb uzgadniania terminu kontroli, w tym czynności, o których mowa w ust. 1 pkt 1–5 i 8, wykonywanych w stosunku do Kancelarii Sejmu, Kancelarii Senatu oraz Kancelarii Prezydenta Rzeczypospolitej Polskiej;
 - **3)** zadania funkcjonariuszy ABW oraz funkcjonariuszy lub żołnierzy SKW nadzorujących i wykonujących czynności kontrolne;
@@ -233,7 +271,7 @@ Art. 74–180. (pominięte)
 
 2. Służby i instytucje uprawnione do prowadzenia poszerzonych postępowań sprawdzających, w zakresie koniecznym do wykonywania swoich zadań, w celu ochrony informacji niejawnych mogą zwracać się do innych instytucji, służb i organów o udzielenie niezbędnej pomocy przy wykonywaniu czynności w ramach prowadzonych postępowań sprawdzających, kontrolnych postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego.
 
-3. Szefowie służb i instytucji określonych w art. 23 ust. 2 i 5 udostępniają upoważnionym funkcjonariuszom, pracownikom albo żołnierzom służb i instytucji, o których mowa w ust. 1, na potrzeby prowadzonych przez te służby i instytucje postępowań sprawdzających lub kontrolnych postępowań sprawdzających, pozostające w ich dyspozycji informacje i dokumenty wyłącznie w przypadku, gdy w ich opinii osoba objęta postępowaniem sprawdzającym lub kontrolnym postępowaniem sprawdzającym nie daje rękojmi zachowania tajemnicy; świadczących, że osoba ta nie daje tej rękojmi.
+3. Szefowie służb i instytucji określonych w art. 23 ust. 2 i 5 udostępniają upoważnionym funkcjonariuszom, pracownikom albo żołnierzom służb i instytucji, o których mowa w ust. 1, na potrzeby prowadzonych przez te służby i instytucje postępowań sprawdzających lub kontrolnych postępowań sprawdzających, pozostające w ich dyspozycji informacje i dokumenty wyłącznie w przypadku, gdy w ich opinii osoba objęta postępowaniem sprawdzającym lub kontrolnym postępowaniem sprawdzającym nie daje rękojmi zachowania tajemnicy; w przeciwnym przypadku informują, że nie posiadają informacji i dokumentów świadczących, że osoba ta nie daje tej rękojmi.
 
 4. Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
@@ -252,7 +290,8 @@ Art. 74–180. (pominięte)
 
 - **1)** obywatelstwo polskie;
 - **2)** wykształcenie wyższe;
-- **3)** odpowiednie poświadczenie bezpieczeństwa wydane przez ABW albo SKW, a także przez były Urząd Ochrony Państwa lub byłe Wojskowe Służby Informacyjne; przeprowadzonym przez ABW albo SKW, a także przez byłe Wojskowe Służby Informacyjne.
+- **3)** odpowiednie poświadczenie bezpieczeństwa wydane przez ABW albo SKW, a także przez były Urząd Ochrony Państwa lub byłe Wojskowe Służby Informacyjne;
+- **4)** zaświadczenie o przeszkoleniu w zakresie ochrony informacji niejawnych przeprowadzonym przez ABW albo SKW, a także przez byłe Wojskowe Służby Informacyjne.
 
 4. Kierownik jednostki organizacyjnej może zatrudnić zastępcę lub zastępców pełnomocnika ochrony, z zastrzeżeniem spełnienia przez te osoby warunków, o których mowa w ust. 3.
 
@@ -274,7 +313,8 @@ Art. 74–180. (pominięte)
     - **b)** numer PESEL,
     - **c)** imię ojca,
     - **d)** datę i miejsce urodzenia,
-    - **e)** adres miejsca zamieszkania lub pobytu, numer;
+    - **e)** adres miejsca zamieszkania lub pobytu,
+    - **f)** określenie dokumentu kończącego procedurę, datę jego wydania oraz numer;
 
 - **9)** przekazywanie odpowiednio ABW lub SKW do ewidencji, o których mowa w art. 73 ust. 1, danych, o których mowa w art. 73 ust. 2, osób uprawnionych do dostępu do informacji niejawnych, a także osób, którym odmówiono wydania poświadczenia bezpieczeństwa lub wobec których podjęto decyzję o cofnięciu poświadczenia bezpieczeństwa, na podstawie wykazu, o którym mowa w pkt 8.
 
@@ -286,6 +326,10 @@ Art. 74–180. (pominięte)
 
 **Art. 16.** Pracownikiem pionu ochrony w jednostce organizacyjnej może być osoba, która posiada:
 
+- **1)** obywatelstwo polskie, z wyjątkiem pracowników pionu ochrony zatrudnionych u przedsiębiorców;
+- **2)** odpowiednie poświadczenie bezpieczeństwa lub upoważnienie, o którym mowa w art. 21 ust. 4 pkt 1;
+- **3)** zaświadczenie o odbytym przeszkoleniu w zakresie ochrony informacji niejawnych.
+
 **Art. 17.**
 
 1. W przypadku stwierdzenia naruszenia w jednostce organizacyjnej przepisów o ochronie informacji niejawnych pełnomocnik ochrony zawiadamia o tym kierownika jednostki organizacyjnej i podejmuje niezwłocznie działania zmierzające do wyjaśnienia okoliczności tego naruszenia oraz ograniczenia jego negatywnych skutków.
@@ -294,8 +338,9 @@ Art. 74–180. (pominięte)
 
 **Art. 18.**
 
-1. Minister Obrony Narodowej określi, w drodze rozporządzenia: niejawnych w jednostkach organizacyjnych jemu podległych lub przez niego nadzorowanych;
+1. Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe zadania pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych jemu podległych lub przez niego nadzorowanych;
 - **2)** szczególne wymagania dotyczące stosowania środków bezpieczeństwa fizycznego przeznaczonych do ochrony informacji niejawnych;
 - **3)** miejsce i rolę Pełnomocnika Ministra Obrony Narodowej do Spraw Ochrony Informacji Niejawnych oraz pełnomocników ochrony kierowników bezpośrednio nadrzędnych jednostek organizacyjnych w resortowym systemie ochrony informacji niejawnych;
 - **4)** zakres, tryb i sposób współdziałania pełnomocników ochrony w zakresie ochrony informacji niejawnych z SKW;
@@ -312,7 +357,7 @@ Art. 74–180. (pominięte)
 1. Szkolenie w zakresie ochrony informacji niejawnych przeprowadza się w celu zapoznania z:
 
 - **1)** przepisami dotyczącymi ochrony informacji niejawnych oraz odpowiedzialności karnej, dyscyplinarnej i służbowej za ich naruszenie, w szczególności za nieuprawnione ujawnienie informacji niejawnych;
-- **2)** zasadami ochrony informacji niejawnych w zakresie niezbędnym do wykonywania pracy lub pełnienia służby, z uwzględnieniem zasad zarządzania ryzyka;
+- **2)** zasadami ochrony informacji niejawnych w zakresie niezbędnym do wykonywania pracy lub pełnienia służby, z uwzględnieniem zasad zarządzania ryzykiem bezpieczeństwa informacji niejawnych, w szczególności szacowania ryzyka;
 - **3)** sposobami ochrony informacji niejawnych oraz postępowania w sytuacjach zagrożenia dla takich informacji lub w przypadku ich ujawnienia.
 
 2. Szkolenie, o którym mowa w ust. 1:
@@ -334,8 +379,9 @@ Art. 74–180. (pominięte)
 
 1. Szkolenie, o którym mowa w art. 19 ust. 1, kończy się wydaniem zaświadczenia. Odbierając zaświadczenie, osoba przeszkolona składa pisemne oświadczenie o zapoznaniu się z przepisami o ochronie informacji niejawnych.
 
-2. Prezes Rady Ministrów określi, w drodze rozporządzenia: informacji niejawnych;
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wzory zaświadczeń stwierdzających odbycie szkolenia w zakresie ochrony informacji niejawnych;
 - **2)** sposób rozliczania kosztów szkolenia, o których mowa w art. 19 ust. 4.
 
 3. W rozporządzeniu, o którym mowa w ust. 2, Prezes Rady Ministrów uwzględni odrębności wynikające z wydawania zaświadczeń przez ABW i SKW oraz pełnomocników ochrony oraz sposób ustalania kosztów na potrzeby ich rozliczania w ten sposób, że ich wysokość nie może przekroczyć 25 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłaty nagród z zysku za ubiegły rok, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 60 pkt 5 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2024 r. poz. 814, 854 i 1897 oraz z 2025 r. poz. 129, 619 i 637).
@@ -355,7 +401,10 @@ Art. 74–180. (pominięte)
 
 - **1)** zajmujących stanowiska związane z kierowaniem wykonywania przez przedsiębiorcę umowy związanej z dostępem do informacji niejawnych lub związane z bezpośrednim wykonywaniem takiej umowy albo wykonujących zadania na rzecz obronności lub bezpieczeństwa państwa, związane z dostępem do informacji niejawnych u przedsiębiorcy;
 - **2)** które w imieniu przedsiębiorcy, o którym mowa w pkt 1, uczestniczą w czynnościach zmierzających do zawarcia umowy, jeżeli czynności te są związane z dostępem do informacji niejawnych;
-- **3)** zatrudnionych w pionie ochrony przedsiębiorcy, o którym mowa w pkt 1, z wyjątkiem osoby zajmującej stanowisko pełnomocnika ochrony oraz zastępcy pełnomocnika ochrony. prac, związanych z dostępem danej osoby do informacji niejawnych o klauzuli „zastrzeżone” może nastąpić po:
+- **3)** zatrudnionych w pionie ochrony przedsiębiorcy, o którym mowa w pkt 1, z wyjątkiem osoby zajmującej stanowisko pełnomocnika ochrony oraz zastępcy pełnomocnika ochrony.
+
+4. Dopuszczenie do pracy lub pełnienia służby na stanowiskach albo zlecenie prac, związanych z dostępem danej osoby do informacji niejawnych o klauzuli „zastrzeżone” może nastąpić po:
+
 - **1)** pisemnym upoważnieniu przez kierownika jednostki organizacyjnej, jeżeli nie posiada ona poświadczenia bezpieczeństwa;
 - **2)** odbyciu szkolenia w zakresie ochrony informacji niejawnych.
 
@@ -382,8 +431,9 @@ Art. 74–180. (pominięte)
 - **2)** wobec funkcjonariuszy, żołnierzy i pracowników oraz osób ubiegających się o przyjęcie do służby lub pracy w ABW albo SKW;
 - **3)** wobec osób wykonujących czynności zlecone lub ubiegających się o wykonywanie tych czynności na rzecz ABW albo SKW.
 
-3. ABW przeprowadza poszerzone postępowania sprawdzające wobec: Komendanta Służby Ochrony Państwa, Komendanta Głównego Policji, Dyrektora Generalnego Służby Więziennej, Komendanta Głównego Straży Granicznej, Inspektora Nadzoru Wewnętrznego oraz osób przewidzianych na te stanowiska;
+3. ABW przeprowadza poszerzone postępowania sprawdzające wobec:
 
+- **1)** Szefa SKW, Szefa Agencji Wywiadu, zwanej dalej „AW”, Szefa CBA, Komendanta Służby Ochrony Państwa, Komendanta Głównego Policji, Dyrektora Generalnego Służby Więziennej, Komendanta Głównego Straży Granicznej, Inspektora Nadzoru Wewnętrznego oraz osób przewidzianych na te stanowiska;
 - **2)** pełnomocników ochrony, zastępców pełnomocników ochrony oraz osób przewidzianych na te stanowiska w SKW, AW, CBA, Służbie Ochrony Państwa, Policji, Służbie Więziennej oraz Straży Granicznej.
 
 4. SKW przeprowadza poszerzone postępowania sprawdzające wobec:
@@ -405,7 +455,8 @@ Art. 74–180. (pominięte)
 2. W toku postępowania sprawdzającego ustala się, czy istnieją uzasadnione wątpliwości dotyczące:
 
 - **1)** uczestnictwa, współpracy lub popierania przez osobę sprawdzaną działalności szpiegowskiej, terrorystycznej, sabotażowej albo innej wymierzonej przeciwko Rzeczypospolitej Polskiej;
-- **2)** zagrożenia osoby sprawdzanej ze strony obcych służb specjalnych w postaci prób werbunku lub nawiązania z nią kontaktu; wszystkim, czy osoba sprawdzana uczestniczyła lub uczestniczy w działalności partii politycznych lub innych organizacji, o których mowa w art. 13 Konstytucji Rzeczypospolitej Polskiej, albo współpracowała lub współpracuje z takimi partiami lub organizacjami;
+- **2)** zagrożenia osoby sprawdzanej ze strony obcych służb specjalnych w postaci prób werbunku lub nawiązania z nią kontaktu;
+- **3)** przestrzegania porządku konstytucyjnego Rzeczypospolitej Polskiej, a przede wszystkim, czy osoba sprawdzana uczestniczyła lub uczestniczy w działalności partii politycznych lub innych organizacji, o których mowa w art. 13 Konstytucji Rzeczypospolitej Polskiej, albo współpracowała lub współpracuje z takimi partiami lub organizacjami;
 - **4)** ukrywania lub świadomego niezgodnego z prawdą podawania w ankiecie bezpieczeństwa osobowego, zwanej dalej „ankietą”, lub postępowaniu sprawdzającym przez osobę sprawdzaną informacji mających znaczenie dla ochrony informacji niejawnych;
 - **5)** wystąpienia związanych z osobą sprawdzaną okoliczności powodujących ryzyko jej podatności na szantaż lub wywieranie presji;
 - **6)** niewłaściwego postępowania z informacjami niejawnymi, jeżeli:
@@ -422,7 +473,7 @@ Art. 74–180. (pominięte)
 
 4. W razie niedających się usunąć wątpliwości, o których mowa w ust. 2 lub 3, interes ochrony informacji niejawnych ma pierwszeństwo przed innymi prawnie chronionymi interesami.
 
-5. Organ prowadzący postępowanie sprawdzające, kierując się zasadami bezstronności i obiektywizmu, jest obowiązany do wykazania najwyższej staranności z przepisami ustawy.
+5. Organ prowadzący postępowanie sprawdzające, kierując się zasadami bezstronności i obiektywizmu, jest obowiązany do wykazania najwyższej staranności w toku prowadzonego postępowania sprawdzającego co do jego zgodności z przepisami ustawy.
 
 6. Wszystkie czynności przeprowadzone w toku postępowań sprawdzających muszą być rzetelnie udokumentowane i powinny być zakończone przed upływem 3 miesięcy od dnia:
 
@@ -442,7 +493,9 @@ Art. 74–180. (pominięte)
 1. Zwykłe postępowanie sprawdzające obejmuje:
 
 - **1)** sprawdzenie, w niezbędnym zakresie, w ewidencjach, rejestrach i kartotekach, w szczególności w Krajowym Rejestrze Karnym, danych zawartych w wypełnionej i podpisanej przez osobę sprawdzaną ankiecie, a także sprawdzenie innych informacji uzyskanych w toku postępowania sprawdzającego, w zakresie niezbędnym do ustalenia, czy osoba sprawdzana daje rękojmię zachowania tajemnicy;
-- **2)** sprawdzenie w ewidencjach i kartotekach niedostępnych powszechnie danych zawartych w ankiecie oraz innych informacji uzyskanych w toku postępowania sprawdzającego, w zakresie niezbędnym do ustalenia, czy osoba sprawdzana daje rękojmię zachowania tajemnicy. wniosek pełnomocnika ochrony przez ABW albo SKW.
+- **2)** sprawdzenie w ewidencjach i kartotekach niedostępnych powszechnie danych zawartych w ankiecie oraz innych informacji uzyskanych w toku postępowania sprawdzającego, w zakresie niezbędnym do ustalenia, czy osoba sprawdzana daje rękojmię zachowania tajemnicy.
+
+2. Sprawdzenie, o którym mowa w ust. 1 pkt 2, jest prowadzone na pisemny wniosek pełnomocnika ochrony przez ABW albo SKW.
 
 3. W toku sprawdzenia, o którym mowa w ust. 1 pkt 2, ABW albo SKW ma prawo przeprowadzić rozmowę z osobą sprawdzaną w celu usunięcia nieścisłości lub sprzeczności zawartych w uzyskanych informacjach.
 
@@ -467,7 +520,7 @@ Art. 74–180. (pominięte)
 
 2. Do czynności, o której mowa w ust. 1 pkt 2, przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego i wydane na jej podstawie przepisy dotyczące wywiadu środowiskowego stosuje się odpowiednio.
 
-3. Czynności, o których mowa w ust. 1 pkt 3, są wykonywane zgodnie z art. 105 ust. 1 pkt 2 lit. k ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769 i 820) oraz art. 48 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) stosuje się odpowiednio.
+3. Czynności, o których mowa w ust. 1 pkt 3, są wykonywane zgodnie z art. 105 ust. 1 pkt 2 lit. k ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ). Przepisy art. 82 § 1 i 2, art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769 i 820) oraz art. 48 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) stosuje się odpowiednio.
 
 4. Do poszerzonego postępowania sprawdzającego przepisy art. 25 ust. 5– 7 stosuje się odpowiednio.
 
@@ -486,13 +539,18 @@ Art. 74–180. (pominięte)
 
 2. Zawieszone postępowanie sprawdzające zostaje podjęte, jeżeli:
 
-- **1)** ustąpiły przyczyny uzasadniające zawieszenie postępowania; poświadczenia bezpieczeństwa lub umorzenia postępowania sprawdzającego.
+- **1)** ustąpiły przyczyny uzasadniające zawieszenie postępowania;
+- **2)** ujawniono okoliczności mogące stanowić podstawę do odmowy wydania poświadczenia bezpieczeństwa lub umorzenia postępowania sprawdzającego.
 
 3. O zawieszeniu postępowania sprawdzającego oraz o jego podjęciu organ prowadzący postępowanie sprawdzające zawiadamia wnioskodawcę, pełnomocnika ochrony i osobę sprawdzaną.
 
 4. Do zażalenia na postanowienie w sprawie zawieszenia postępowania sprawdzającego przepisy art. 35, art. 37 i art. 38 stosuje się odpowiednio.
 
 **Art. 28.** Postępowanie sprawdzające kończy się:
+
+- **1)** wydaniem poświadczenia bezpieczeństwa;
+- **2)** odmową wydania poświadczenia bezpieczeństwa;
+- **3)** umorzeniem.
 
 **Art. 29.**
 
@@ -515,7 +573,9 @@ Art. 74–180. (pominięte)
 
 - **1)** 10 lat – w przypadku dostępu do informacji niejawnych o klauzuli „poufne”;
 - **2)** 7 lat – w przypadku dostępu do informacji niejawnych o klauzuli „tajne”;
-- **3)** 5 lat – w przypadku dostępu do informacji niejawnych o klauzuli „ściśle tajne”. niejawnych o wyższej klauzuli tajności uprawnia do dostępu do informacji niejawnych o niższej klauzuli tajności, odpowiednio przez okresy, o których mowa w ust. 3, także w odniesieniu do poświadczeń bezpieczeństwa organizacji międzynarodowych.
+- **3)** 5 lat – w przypadku dostępu do informacji niejawnych o klauzuli „ściśle tajne”.
+
+4. Poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych o wyższej klauzuli tajności uprawnia do dostępu do informacji niejawnych o niższej klauzuli tajności, odpowiednio przez okresy, o których mowa w ust. 3, także w odniesieniu do poświadczeń bezpieczeństwa organizacji międzynarodowych.
 
 5. Poświadczenia bezpieczeństwa wydane w wyniku przeprowadzenia postępowań sprawdzających, o których mowa w art. 23 ust. 5, zachowują ważność wyłącznie w okresie pracy lub służby w organie, który przeprowadził postępowanie sprawdzające.
 
@@ -540,7 +600,8 @@ Art. 74–180. (pominięte)
 - **2)** wskazanie wnioskodawcy postępowania sprawdzającego;
 - **3)** określenie organu, który przeprowadził postępowanie sprawdzające;
 - **4)** datę i miejsce wydania;
-- **5)** imię, nazwisko i datę urodzenia osoby sprawdzanej; wskazaniem klauzuli informacji niejawnych, do których osoba sprawdzana miała mieć dostęp;
+- **5)** imię, nazwisko i datę urodzenia osoby sprawdzanej;
+- **6)** określenie rodzaju przeprowadzonego postępowania sprawdzającego, ze wskazaniem klauzuli informacji niejawnych, do których osoba sprawdzana miała mieć dostęp;
 - **7)** stwierdzenie, że osoba sprawdzana nie daje rękojmi zachowania tajemnicy;
 - **8)** imienną pieczęć i podpis upoważnionego funkcjonariusza ABW albo funkcjonariusza lub żołnierza SKW, albo pełnomocnika ochrony, który przeprowadził postępowanie sprawdzające;
 - **9)** pouczenie o dopuszczalności i terminie wniesienia odwołania odpowiednio do Prezesa Rady Ministrów albo Szefa ABW lub Szefa SKW.
@@ -562,7 +623,8 @@ Art. 74–180. (pominięte)
 1. Umorzenie postępowania sprawdzającego następuje w przypadku:
 
 - **1)** śmierci osoby sprawdzanej;
-- **2)** rezygnacji osoby sprawdzanej z ubiegania się o stanowisko albo zajmowania stanowiska lub wykonywania prac, związanych z dostępem do informacji niejawnych; osoby sprawdzanej na stanowisku lub zlecenia jej prac, związanych z dostępem do informacji niejawnych;
+- **2)** rezygnacji osoby sprawdzanej z ubiegania się o stanowisko albo zajmowania stanowiska lub wykonywania prac, związanych z dostępem do informacji niejawnych;
+- **3)** odstąpienia przez kierownika jednostki organizacyjnej od zamiaru obsadzenia osoby sprawdzanej na stanowisku lub zlecenia jej prac, związanych z dostępem do informacji niejawnych;
 - **4)** gdy postępowanie z innej przyczyny stało się bezprzedmiotowe.
 
 2. O umorzeniu postępowania sprawdzającego organ je prowadzący zawiadamia wnioskodawcę, pełnomocnika ochrony oraz, w przypadkach, o których mowa w ust. 1 pkt 2–4, osobę sprawdzaną.
@@ -583,7 +645,9 @@ Art. 74–180. (pominięte)
 
 2. Postępowanie, o którym mowa w ust. 1, przeprowadza organ właściwy do przeprowadzenia kolejnego postępowania sprawdzającego, z zastrzeżeniem ust. 3.
 
-3. W przypadkach uzasadnionych względami bezpieczeństwa państwa kontrolne postępowanie sprawdzające może zostać przeprowadzone przez ABW albo SKW. prowadzonych wobec osób, które posiadają poświadczenie bezpieczeństwa wydane w wyniku przeprowadzenia postępowania sprawdzającego, o którym mowa w art. 23 ust. 5.
+3. W przypadkach uzasadnionych względami bezpieczeństwa państwa kontrolne postępowanie sprawdzające może zostać przeprowadzone przez ABW albo SKW.
+
+4. Przepisu ust. 3 nie stosuje się do kontrolnych postępowań sprawdzających prowadzonych wobec osób, które posiadają poświadczenie bezpieczeństwa wydane w wyniku przeprowadzenia postępowania sprawdzającego, o którym mowa w art. 23 ust. 5.
 
 5. W celu weryfikacji informacji, o których mowa w ust. 1, właściwy organ może przeprowadzić niezbędne czynności sprawdzające. Pełnomocnik ochrony może przeprowadzić w tym trybie czynności, o których mowa w art. 25 ust. 1 pkt 1, a służby i instytucje uprawnione do prowadzenia poszerzonych postępowań sprawdzających także czynności, o których mowa w art. 25 ust. 1 pkt 2. Czynności te muszą być rzetelnie udokumentowane i prowadzone zgodnie z zasadami bezstronności, obiektywizmu i wykazania najwyższej staranności. Dokumentację tych czynności dołącza się do akt postępowania sprawdzającego.
 
@@ -604,7 +668,8 @@ Art. 74–180. (pominięte)
 11. Kontrolne postępowanie sprawdzające kończy się:
 
 - **1)** decyzją o cofnięciu poświadczenia bezpieczeństwa;
-- **2)** poinformowaniem osób wymienionych w ust. 6 o braku zastrzeżeń w stosunku do osoby, którą objęto kontrolnym postępowaniem sprawdzającym, z jednoczesnym potwierdzeniem dalszej jej zdolności do zachowania tajemnicy w zakresie określonym w posiadanym przez nią poświadczeniu bezpieczeństwa; zostanie zakończone przed upływem 12 miesięcy od dnia jego wszczęcia.
+- **2)** poinformowaniem osób wymienionych w ust. 6 o braku zastrzeżeń w stosunku do osoby, którą objęto kontrolnym postępowaniem sprawdzającym, z jednoczesnym potwierdzeniem dalszej jej zdolności do zachowania tajemnicy w zakresie określonym w posiadanym przez nią poświadczeniu bezpieczeństwa;
+- **3)** decyzją o umorzeniu postępowania, w przypadku gdy postępowanie to nie zostanie zakończone przed upływem 12 miesięcy od dnia jego wszczęcia.
 
 12. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór decyzji o cofnięciu poświadczenia bezpieczeństwa.
 
@@ -622,7 +687,8 @@ Art. 74–180. (pominięte)
 
 5. Szefowie Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Sejmu, Kancelarii Senatu lub Kancelarii Prezesa Rady Ministrów albo minister właściwy dla określonego działu administracji rządowej, Prezes Narodowego Banku Polskiego, Prezes Najwyższej Izby Kontroli lub kierownik urzędu centralnego, a w przypadku ich braku ABW albo SKW, mogą:
 
-- **1)** w szczególnie uzasadnionych przypadkach, z zastrzeżeniem art. 4 ust. 2, wyrazić pisemną zgodę na jednorazowe udostępnienie określonych informacji niejawnych osobie nieposiadającej odpowiedniego poświadczenia bezpieczeństwa; „tajne” lub „ściśle tajne” osobie, wobec której wszczęto poszerzone postępowanie sprawdzające.
+- **1)** w szczególnie uzasadnionych przypadkach, z zastrzeżeniem art. 4 ust. 2, wyrazić pisemną zgodę na jednorazowe udostępnienie określonych informacji niejawnych osobie nieposiadającej odpowiedniego poświadczenia bezpieczeństwa;
+- **2)** wyrazić pisemną zgodę na udostępnienie informacji niejawnych o klauzuli „tajne” lub „ściśle tajne” osobie, wobec której wszczęto poszerzone postępowanie sprawdzające.
 
 6. W stanach nadzwyczajnych Prezydent Rzeczypospolitej Polskiej lub Prezes Rady Ministrów, każdy w swoim zakresie, może wyrazić zgodę na odstąpienie od przeprowadzenia postępowania sprawdzającego.
 
@@ -647,17 +713,20 @@ Art. 74–180. (pominięte)
 - **11)** członka Krajowej Rady Radiofonii i Telewizji;
 - **12)** Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
 - **13)** Szefa Kancelarii: Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu i Prezesa Rady Ministrów;
-- **14)** posła i senatora; administracyjnych i Naczelnego Sądu Administracyjnego, a także Trybunału Stanu i Trybunału Konstytucyjnego, asesora sądowego, ławnika sądu powszechnego i ławnika sądu wojskowego oraz prokuratora i asesora prokuratury pełniącego czynności prokuratorskie.
+- **14)** posła i senatora;
+- **15)** sędziego sądu powszechnego i sądu wojskowego, Sądu Najwyższego, sądów administracyjnych i Naczelnego Sądu Administracyjnego, a także Trybunału Stanu i Trybunału Konstytucyjnego, asesora sądowego, ławnika sądu powszechnego i ławnika sądu wojskowego oraz prokuratora i asesora prokuratury pełniącego czynności prokuratorskie.
 
-11. W stosunku do osób zajmujących lub kandydujących na stanowiska albo pełniących funkcje, o których mowa w ust. 10 pkt 5–15, ubiegających się o dostęp do informacji niejawnych organizacji międzynarodowych lub o dostęp, który ma wynikać z umowy międzynarodowej zawartej przez Rzeczpospolitą Polską, ABW albo SKW, przeprowadzają poszerzone postępowanie sprawdzające. Z wnioskiem o przeprowadzenie tego postępowania występuje osoba uprawniona do powołania na to stanowisko lub Marszałek w stosunku do posłów lub jeżeli do powołania jest uprawniony Sejm albo Marszałek Senatu w stosunku do senatorów lub jeżeli do powołania jest uprawniony Senat.
+11. W stosunku do osób zajmujących lub kandydujących na stanowiska albo pełniących funkcje, o których mowa w ust. 10 pkt 5–15, ubiegających się o dostęp do informacji niejawnych organizacji międzynarodowych lub o dostęp, który ma wynikać z umowy międzynarodowej zawartej przez Rzeczpospolitą Polską, ABW albo SKW, przeprowadzają poszerzone postępowanie sprawdzające. Z wnioskiem o przeprowadzenie tego postępowania występuje osoba uprawniona do powołania na to stanowisko lub Marszałek Sejmu w stosunku do posłów lub jeżeli do powołania jest uprawniony Sejm albo Marszałek Senatu w stosunku do senatorów lub jeżeli do powołania jest uprawniony Senat.
 
-12. W stosunku do kandydatów na stanowiska, o których mowa w ust. 10 pkt 6– 13, oraz wobec posłów lub senatorów, których obowiązki poselskie bądź senatorskie wymagają dostępu do informacji niejawnych o klauzuli „ściśle tajne”, ABW przeprowadza poszerzone postępowanie sprawdzające. Z wnioskiem o przeprowadzenie tego postępowania występuje osoba uprawniona do powołania na to stanowisko lub Marszałek w stosunku do posłów lub jeżeli do powołania jest uprawniony Sejm albo Marszałek Senatu w stosunku do senatorów lub jeżeli do powołania jest uprawniony Senat.
+12. W stosunku do kandydatów na stanowiska, o których mowa w ust. 10 pkt 6– 13, oraz wobec posłów lub senatorów, których obowiązki poselskie bądź senatorskie wymagają dostępu do informacji niejawnych o klauzuli „ściśle tajne”, ABW przeprowadza poszerzone postępowanie sprawdzające. Z wnioskiem o przeprowadzenie tego postępowania występuje osoba uprawniona do powołania na to stanowisko lub Marszałek Sejmu w stosunku do posłów lub jeżeli do powołania jest uprawniony Sejm albo Marszałek Senatu w stosunku do senatorów lub jeżeli do powołania jest uprawniony Senat.
 
 13. Postępowanie sprawdzające, o którym mowa w ust. 12, w stosunku do osób kandydujących na stanowiska, o których mowa w ust. 10 pkt 6–13, powinno być zakończone przed upływem 14 dni od dnia złożenia wniosku o przeprowadzenie tego postępowania wraz z wypełnioną ankietą, o której mowa w art. 24 ust. 10.
 
-14. W przypadku zakończenia postępowania sprawdzającego prowadzonego na wniosek Marszałka albo Marszałka Senatu decyzją o odmowie wydania poświadczenia bezpieczeństwa, Prezes Rady Ministrów przedstawia informację o powodach tej decyzji odpowiednio Marszałkowi lub Marszałkowi Senatu.
+14. W przypadku zakończenia postępowania sprawdzającego prowadzonego na wniosek Marszałka Sejmu albo Marszałka Senatu decyzją o odmowie wydania poświadczenia bezpieczeństwa, Prezes Rady Ministrów przedstawia informację o powodach tej decyzji odpowiednio Marszałkowi Sejmu lub Marszałkowi Senatu.
 
-15. Prezydent Rzeczypospolitej Polskiej, Prezes Rady Ministrów oraz Marszałek i Marszałek Senatu zapoznają się z przepisami o ochronie informacji niejawnych i składają oświadczenie o znajomości tych przepisów. Oświadczenie przechowuje się odpowiednio w Kancelariach Prezydenta Rzeczypospolitej Polskiej, Prezesa Rady Ministrów, albo Senatu. Postępowanie odwoławcze i skargowe, wznowienie postępowania
+15. Prezydent Rzeczypospolitej Polskiej, Prezes Rady Ministrów oraz Marszałek Sejmu i Marszałek Senatu zapoznają się z przepisami o ochronie informacji niejawnych i składają oświadczenie o znajomości tych przepisów. Oświadczenie przechowuje się odpowiednio w Kancelariach Prezydenta Rzeczypospolitej Polskiej, Prezesa Rady Ministrów, Sejmu albo Senatu.
+
+#### Rozdział 6 Postępowanie odwoławcze i skargowe, wznowienie postępowania
 
 **Art. 35.**
 
@@ -688,7 +757,7 @@ Art. 74–180. (pominięte)
 - **6)** pouczenie o dopuszczalności i terminie wniesienia skargi do sądu administracyjnego;
 - **7)** podpis, z podaniem imienia i nazwiska oraz stanowiska służbowego, osoby upoważnionej do jego wydania.
 
-3. Prezes Rady Ministrów może na żądanie osoby sprawdzanej lub z urzędu zlecić właściwemu podmiotowi przeprowadzenie dodatkowych czynności, w tym specjalistycznych badań, o których mowa w art. 26 ust. 6, w celu uzupełnienia postępowaniu sprawdzającym. W przypadku, gdy zlecenie przeprowadzenia dodatkowych czynności dotyczy ponownego przeprowadzenia specjalistycznych badań, badania te powinny być wykonane przez innego specjalistę niż badania przeprowadzone w ramach postępowania sprawdzającego zakończonego wydaniem decyzji, od której odwołanie jest rozpatrywane.
+3. Prezes Rady Ministrów może na żądanie osoby sprawdzanej lub z urzędu zlecić właściwemu podmiotowi przeprowadzenie dodatkowych czynności, w tym specjalistycznych badań, o których mowa w art. 26 ust. 6, w celu uzupełnienia dowodów i materiałów w postępowaniu sprawdzającym lub kontrolnym postępowaniu sprawdzającym. W przypadku, gdy zlecenie przeprowadzenia dodatkowych czynności dotyczy ponownego przeprowadzenia specjalistycznych badań, badania te powinny być wykonane przez innego specjalistę niż badania przeprowadzone w ramach postępowania sprawdzającego zakończonego wydaniem decyzji, od której odwołanie jest rozpatrywane.
 
 4. Prezes Rady Ministrów wydaje decyzję, w której:
 
@@ -710,7 +779,9 @@ Art. 74–180. (pominięte)
 
 6. Po wydaniu decyzji lub postanowienia Prezes Rady Ministrów niezwłocznie zwraca właściwemu podmiotowi akta postępowania sprawdzającego lub kontrolnego postępowania sprawdzającego.
 
-7. Decyzje i postanowienia doręcza się na piśmie osobie sprawdzanej i właściwemu podmiotowi, zawiadamiając o rozstrzygnięciu zawartym w decyzji lub postanowieniu osobę uprawnioną do obsady stanowiska. art. 31 stosuje się odpowiednio.
+7. Decyzje i postanowienia doręcza się na piśmie osobie sprawdzanej i właściwemu podmiotowi, zawiadamiając o rozstrzygnięciu zawartym w decyzji lub postanowieniu osobę uprawnioną do obsady stanowiska.
+
+8. Do postępowania odwoławczego przepisy art. 27, art. 30 ust. 4 oraz art. 31 stosuje się odpowiednio.
 
 **Art. 37.**
 
@@ -734,7 +805,7 @@ Art. 74–180. (pominięte)
 
 **Art. 39.**
 
-1. Prezes Rady Ministrów, pełnomocnicy ochrony lub podmioty wymienione w art. 23 ust. 2 i 5 wznawiają postępowanie sprawdzające lub kontrolne postępowanie sprawdzające, zakończone decyzją ostateczną, odpowiednio o odmowie wydania albo o cofnięciu poświadczenia bezpieczeństwa, jeżeli decyzja została wydana wyłącznie w związku z przedstawieniem osobie sprawdzanej zarzutu popełnienia przestępstwa, postawieniem jej w stan oskarżenia lub skazaniem za skarbowe, a postępowanie karne zostało następnie umorzone lub zakończone uniewinnieniem osoby sprawdzanej.
+1. Prezes Rady Ministrów, pełnomocnicy ochrony lub podmioty wymienione w art. 23 ust. 2 i 5 wznawiają postępowanie sprawdzające lub kontrolne postępowanie sprawdzające, zakończone decyzją ostateczną, odpowiednio o odmowie wydania albo o cofnięciu poświadczenia bezpieczeństwa, jeżeli decyzja została wydana wyłącznie w związku z przedstawieniem osobie sprawdzanej zarzutu popełnienia przestępstwa, postawieniem jej w stan oskarżenia lub skazaniem za przestępstwo umyślne, ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, a postępowanie karne zostało następnie umorzone lub zakończone uniewinnieniem osoby sprawdzanej.
 
 2. Wznowienie postępowania następuje z urzędu lub na wniosek osoby sprawdzanej.
 
@@ -762,6 +833,13 @@ Art. 74–180. (pominięte)
 
 **Art. 40.** Organ albo podmiot, o którym mowa w art. 39 ust. 1, po przeprowadzeniu postępowania określonego w art. 39 ust. 8 wydaje decyzję, w której:
 
+- **1)** odmawia uchylenia decyzji o odmowie wydania lub o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi brak podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **2)** odmawia uchylenia decyzji o utrzymaniu w mocy decyzji o odmowie wydania lub o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi brak podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **3)** uchyla decyzję o odmowie wydania poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1, i wydaje nową decyzję rozstrzygającą o istocie sprawy;
+- **4)** uchyla decyzję o utrzymaniu w mocy decyzji o odmowie wydania poświadczenia bezpieczeństwa oraz poprzedzającą ją decyzję o odmowie wydania poświadczenia, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1, i przekazuje sprawę do ponownego rozpatrzenia;
+- **5)** uchyla decyzję o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **6)** uchyla decyzję o utrzymaniu w mocy decyzji o cofnięciu poświadczenia bezpieczeństwa oraz poprzedzającą ją decyzję o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1.
+
 **Art. 41.**
 
 1. Od decyzji o odmowie wznowienia postępowania, o którym mowa w art. 23 ust. 2–5, oraz od decyzji o odmowie uchylenia decyzji wydanej w wyniku postępowania, o którym mowa w art. 23 ust. 2–5, osobie sprawdzanej przysługuje odwołanie do Prezesa Rady Ministrów.
@@ -770,7 +848,7 @@ Art. 74–180. (pominięte)
 
 3. Od decyzji Prezesa Rady Ministrów o odmowie wznowienia postępowania, o którym mowa w art. 35, oraz od decyzji Prezesa Rady Ministrów o odmowie uchylenia decyzji wydanej w wyniku postępowania, o którym mowa w art. 35, nie służy odwołanie, jednakże osoba sprawdzana niezadowolona z decyzji może zwrócić się do Prezesa Rady Ministrów z wnioskiem o ponowne rozpatrzenie sprawy.
 
-4. Od decyzji Szefa ABW albo Szefa SKW o odmowie wznowienia postępowania, o którym mowa w art. 37, oraz od decyzji Szefa ABW albo Szefa SKW o odmowie uchylenia decyzji wydanej w wyniku postępowania, o którym mowa w art. 37, nie służy odwołanie, jednakże osoba sprawdzana niezadowolona z decyzji o ponowne rozpatrzenie sprawy.
+4. Od decyzji Szefa ABW albo Szefa SKW o odmowie wznowienia postępowania, o którym mowa w art. 37, oraz od decyzji Szefa ABW albo Szefa SKW o odmowie uchylenia decyzji wydanej w wyniku postępowania, o którym mowa w art. 37, nie służy odwołanie, jednakże osoba sprawdzana niezadowolona z decyzji może zwrócić się odpowiednio do Szefa ABW albo Szefa SKW z wnioskiem o ponowne rozpatrzenie sprawy.
 
 #### Rozdział 7 Kancelarie tajne. Środki bezpieczeństwa fizycznego
 
@@ -796,7 +874,7 @@ Art. 74–180. (pominięte)
 
 3. Kierownik jednostki organizacyjnej zatwierdza, opracowany przez pełnomocnika ochrony sposób i tryb przetwarzania informacji niejawnych o klauzuli „poufne” w podległych komórkach organizacyjnych.
 
-4. Kierownik jednostki organizacyjnej, w której są przetwarzane informacje niejawne o klauzuli „poufne” lub wyższej, zatwierdza opracowaną przez z nieuprawnionym dostępem do informacji niejawnych lub ich utratą.
+4. Kierownik jednostki organizacyjnej, w której są przetwarzane informacje niejawne o klauzuli „poufne” lub wyższej, zatwierdza opracowaną przez pełnomocnika ochrony dokumentację określającą poziom zagrożeń związanych z nieuprawnionym dostępem do informacji niejawnych lub ich utratą.
 
 5. Kierownik jednostki organizacyjnej zatwierdza, opracowaną przez pełnomocnika ochrony, instrukcję dotyczącą sposobu i trybu przetwarzania informacji niejawnych o klauzuli „zastrzeżone” w podległych komórkach organizacyjnych oraz zakres i warunki stosowania środków bezpieczeństwa fizycznego w celu ich ochrony.
 
@@ -820,7 +898,9 @@ Art. 74–180. (pominięte)
 
 2. Zakres stosowania środków bezpieczeństwa fizycznego uzależnia się od poziomu zagrożeń związanych z nieuprawnionym dostępem do informacji niejawnych lub ich utratą.
 
-3. Przy określaniu poziomu zagrożeń, o którym mowa w ust. 2, uwzględnia się w szczególności występujące rodzaje zagrożeń, klauzule tajności i liczbę informacji niejawnych. W uzasadnionych przypadkach przy określaniu poziomu zagrożeń uwzględnia się wskazania odpowiednio ABW lub SKW. informacji niejawnych o klauzuli „poufne” lub wyższej należy w szczególności:
+3. Przy określaniu poziomu zagrożeń, o którym mowa w ust. 2, uwzględnia się w szczególności występujące rodzaje zagrożeń, klauzule tajności i liczbę informacji niejawnych. W uzasadnionych przypadkach przy określaniu poziomu zagrożeń uwzględnia się wskazania odpowiednio ABW lub SKW.
+
+**Art. 46.** W celu uniemożliwienia osobom nieuprawnionym dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej należy w szczególności:
 
 - **1)** zorganizować strefy ochronne;
 - **2)** wprowadzić system kontroli wejść i wyjść ze stref ochronnych;
@@ -845,7 +925,7 @@ Art. 74–180. (pominięte)
 
 2. W rozporządzeniu, o którym mowa w ust. 1, Rada Ministrów uwzględni potrzebę racjonalizacji nakładów ponoszonych przez jednostki organizacyjne w zakresie tworzenia systemu bezpieczeństwa fizycznego informacji niejawnych, zgodnie z zasadami określonymi w ustawie.
 
-3. Ministrowie właściwi do spraw wewnętrznych, informatyzacji, administracji publicznej, spraw zagranicznych, finansów publicznych, budżetu i instytucji finansowych, Minister Obrony Narodowej, Minister Sprawiedliwości, Prezes Narodowego Banku Polskiego, Prezes Najwyższej Izby Kontroli, Pierwszy Prezes Sądu Najwyższego, Prokurator Generalny, Szefowie Kancelarii Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu oraz Prezesa Rady Ministrów, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego, Szef Służby Wywiadu Wojskowego, Szef Centralnego Biura Antykorupcyjnego, Komendant Główny Policji, Komendant Główny Straży Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, określą, w drodze zarządzenia, każdy w zakresie swojego działania, szczególny sposób organizacji i funkcjonowania kancelarii tajnych oraz komórek organizacyjnych, o których mowa w art. 44 ust. 1, sposób i tryb przetwarzania informacji niejawnych oraz dobór i stosowanie środków bezpieczeństwa fizycznego.
+3. Ministrowie właściwi do spraw wewnętrznych, informatyzacji, administracji publicznej, spraw zagranicznych, finansów publicznych, budżetu i instytucji finansowych, Minister Obrony Narodowej, Minister Sprawiedliwości, Prezes Narodowego Banku Polskiego, Prezes Najwyższej Izby Kontroli, Pierwszy Prezes Sądu Najwyższego, Prokurator Generalny, Szefowie Kancelarii Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu oraz Prezesa Rady Ministrów, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego, Szef Służby Wywiadu Wojskowego, Szef Centralnego Biura Antykorupcyjnego, Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Służby Ochrony Państwa, a także Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, określą, w drodze zarządzenia, każdy w zakresie swojego działania, szczególny sposób organizacji i funkcjonowania kancelarii tajnych oraz komórek organizacyjnych, o których mowa w art. 44 ust. 1, sposób i tryb przetwarzania informacji niejawnych oraz dobór i stosowanie środków bezpieczeństwa fizycznego.
 
 4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze zarządzenia, dla archiwów państwowych szczególny sposób i tryb przetwarzania informacji niejawnych wchodzących w skład zasobu archiwalnego tych archiwów, dobór i stosowanie środków bezpieczeństwa fizycznego oraz organizację komórek organizacyjnych odpowiedzialnych za przetwarzanie materiałów niejawnych.
 
@@ -859,7 +939,9 @@ Art. 74–180. (pominięte)
 - **6)** sposób postępowania w przypadku zaistnienia nieprzewidzianych okoliczności mogących mieć wpływ na bezpieczeństwo przesyłki;
 - **7)** warunki przewożenia materiałów poza granicami Rzeczypospolitej Polskiej.
 
-6. W rozporządzeniu, o którym mowa w ust. 5, Prezes Rady Ministrów uwzględni potrzebę zabezpieczenia materiałów przed nieuprawnionym ujawnieniem, utratą, uszkodzeniem lub zniszczeniem oraz szczególne warunki ochrony ze względu na rozmiary lub charakter materiału. Bezpieczeństwo teleinformatyczne
+6. W rozporządzeniu, o którym mowa w ust. 5, Prezes Rady Ministrów uwzględni potrzebę zabezpieczenia materiałów przed nieuprawnionym ujawnieniem, utratą, uszkodzeniem lub zniszczeniem oraz szczególne warunki ochrony ze względu na rozmiary lub charakter materiału.
+
+#### Rozdział 8 Bezpieczeństwo teleinformatyczne
 
 **Art. 48.**
 
@@ -887,7 +969,9 @@ Art. 74–180. (pominięte)
 - **5)** powołanie podstawy prawnej;
 - **6)** rozstrzygnięcie oraz uzasadnienie faktyczne i prawne;
 - **7)** wskazanie okresu ważności świadectwa;
-- **8)** podpis, z podaniem imienia i nazwiska oraz stanowiska osoby upoważnionej do jego wydania. systemu teleinformatycznego, o którym mowa w ust. 6 pkt 2, jeżeli system jest przeznaczony do przetwarzania informacji niejawnych o klauzuli „poufne”.
+- **8)** podpis, z podaniem imienia i nazwiska oraz stanowiska osoby upoważnionej do jego wydania.
+
+8. ABW albo SKW może odstąpić od przeprowadzenia audytu bezpieczeństwa systemu teleinformatycznego, o którym mowa w ust. 6 pkt 2, jeżeli system jest przeznaczony do przetwarzania informacji niejawnych o klauzuli „poufne”.
 
 9. Kierownik jednostki organizacyjnej udziela akredytacji bezpieczeństwa teleinformatycznego dla systemu teleinformatycznego przeznaczonego do przetwarzania informacji niejawnych o klauzuli „zastrzeżone” przez zatwierdzenie dokumentacji bezpieczeństwa systemu teleinformatycznego.
 
@@ -903,7 +987,7 @@ Art. 74–180. (pominięte)
 
 **Art. 49.**
 
-1. Dokument szczególnych wymagań bezpieczeństwa systemu teleinformatycznego powinien zawierać w szczególności wyniki procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych w systemie teleinformatycznym oraz określać przyjęte w ramach zarządzania ryzykiem sposoby osiągania i utrzymywania odpowiedniego poziomu bezpieczeństwa systemu, a także opisywać aspekty jego budowy, zasady działania i eksploatacji, które mają związek procesu szacowania ryzyka mogą zostać przedstawione w odrębnym dokumencie niż dokument szczególnych wymagań bezpieczeństwa.
+1. Dokument szczególnych wymagań bezpieczeństwa systemu teleinformatycznego powinien zawierać w szczególności wyniki procesu szacowania ryzyka dla bezpieczeństwa informacji niejawnych przetwarzanych w systemie teleinformatycznym oraz określać przyjęte w ramach zarządzania ryzykiem sposoby osiągania i utrzymywania odpowiedniego poziomu bezpieczeństwa systemu, a także opisywać aspekty jego budowy, zasady działania i eksploatacji, które mają związek z bezpieczeństwem systemu lub wpływają na jego bezpieczeństwo. Przebieg i wyniki procesu szacowania ryzyka mogą zostać przedstawione w odrębnym dokumencie niż dokument szczególnych wymagań bezpieczeństwa.
 
 2. Dokument szczególnych wymagań bezpieczeństwa opracowuje się na etapie projektowania, w razie potrzeby konsultuje z ABW albo SKW, bieżąco uzupełnia na etapie wdrażania i modyfikuje na etapie eksploatacji przed dokonaniem zmian w systemie teleinformatycznym.
 
@@ -919,7 +1003,7 @@ Art. 74–180. (pominięte)
 
 8. W terminie 30 dni od otrzymania dokumentacji bezpieczeństwa systemu teleinformatycznego przeznaczonego do przetwarzania informacji niejawnych o klauzuli „poufne” lub wyższej ABW albo SKW przeprowadza na jej podstawie ocenę bezpieczeństwa tego systemu. Pozytywny wynik oceny stanowi podstawę do zatwierdzenia przez ABW albo SKW dokumentacji bezpieczeństwa systemu teleinformatycznego. W uzasadnionych przypadkach, w szczególności wynikających ze stopnia skomplikowania systemu, termin przeprowadzenia oceny może być przedłużony o kolejne 30 dni.
 
-9. Prezes Rady Ministrów określi, w drodze rozporządzenia, podstawowe wymagania bezpieczeństwa teleinformatycznego, jakim powinny odpowiadać systemy teleinformatyczne, niezbędne dane, jakie powinna zawierać dokumentacja dokumentacji.
+9. Prezes Rady Ministrów określi, w drodze rozporządzenia, podstawowe wymagania bezpieczeństwa teleinformatycznego, jakim powinny odpowiadać systemy teleinformatyczne, niezbędne dane, jakie powinna zawierać dokumentacja bezpieczeństwa systemów informatycznych oraz sposób opracowania tej dokumentacji.
 
 10. W rozporządzeniu, o którym mowa w ust. 9, Prezes Rady Ministrów uwzględni w szczególności wymagania w zakresie zarządzania ryzykiem oraz dotyczące zapewnienia poufności, integralności i dostępności informacji niejawnych przetwarzanych w systemach teleinformatycznych.
 
@@ -937,7 +1021,11 @@ Art. 74–180. (pominięte)
 
 6. Szef ABW albo Szef SKW może zlecić podmiotowi zewnętrznemu badanie urządzenia lub narzędzia służącego do ochrony informacji niejawnych, na zasadach, warunkach i w zakresie przez siebie określonych.
 
-7. Bez konieczności przeprowadzania badań i oceny Szef ABW albo Szef SKW może dopuścić do stosowania w systemie teleinformatycznym przeznaczonym do przetwarzania informacji niejawnych o klauzuli „zastrzeżone” urządzenia lub narzędzia kryptograficzne, jeżeli otrzymały stosowny certyfikat wydany przez krajową władzę bezpieczeństwa państwa będącego członkiem NATO lub Unii Europejskiej lub inny uprawniony organ w NATO lub w Unii Europejskiej. o którym mowa w art. 48 ust. 1, nie podlegają systemy teleinformatyczne, których elementy znajdują się poza strefami ochronnymi oraz służące bezpośrednio do pozyskiwania i przekazywania w sposób niejawny informacji oraz utrwalania dowodów w trakcie realizacji czynności operacyjno-rozpoznawczych lub procesowych przez uprawnione do tego podmioty. Wyłączenie obowiązku akredytacji bezpieczeństwa teleinformatycznego nie obejmuje interfejsów, o których mowa w art. 43 ust. 5 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820), oraz systemów z nimi współpracujących.
+7. Bez konieczności przeprowadzania badań i oceny Szef ABW albo Szef SKW może dopuścić do stosowania w systemie teleinformatycznym przeznaczonym do przetwarzania informacji niejawnych o klauzuli „zastrzeżone” urządzenia lub narzędzia kryptograficzne, jeżeli otrzymały stosowny certyfikat wydany przez krajową władzę bezpieczeństwa państwa będącego członkiem NATO lub Unii Europejskiej lub inny uprawniony organ w NATO lub w Unii Europejskiej.
+
+**Art. 51.**
+
+1. Obowiązkowi akredytacji bezpieczeństwa teleinformatycznego, o którym mowa w art. 48 ust. 1, nie podlegają systemy teleinformatyczne, których elementy znajdują się poza strefami ochronnymi oraz służące bezpośrednio do pozyskiwania i przekazywania w sposób niejawny informacji oraz utrwalania dowodów w trakcie realizacji czynności operacyjno-rozpoznawczych lub procesowych przez uprawnione do tego podmioty. Wyłączenie obowiązku akredytacji bezpieczeństwa teleinformatycznego nie obejmuje interfejsów, o których mowa w art. 43 ust. 5 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820), oraz systemów z nimi współpracujących.
 
 2. Obowiązkowi akredytacji bezpieczeństwa teleinformatycznego, o którym mowa w art. 48 ust. 1, oraz obowiązkowi badań i oceny bezpieczeństwa w ramach procesów certyfikacji prowadzonych przez ABW albo SKW nie podlegają systemy teleinformatyczne, urządzenia i narzędzia kryptograficzne wykorzystywane przez ABW, SKW, AW lub SWW do uzyskiwania lub przetwarzania informacji niejawnych podczas wykonywania czynności operacyjno-rozpoznawczych.
 
@@ -955,7 +1043,7 @@ Art. 74–180. (pominięte)
 
 1. Kierownik jednostki organizacyjnej wyznacza:
 
-- **1)** pracownika lub pracowników pionu ochrony pełniących funkcję inspektora bezpieczeństwa teleinformatycznego, odpowiedzialnych za weryfikację i bieżącą kontrolę zgodności funkcjonowania systemu teleinformatycznego ze bezpiecznej eksploatacji;
+- **1)** pracownika lub pracowników pionu ochrony pełniących funkcję inspektora bezpieczeństwa teleinformatycznego, odpowiedzialnych za weryfikację i bieżącą kontrolę zgodności funkcjonowania systemu teleinformatycznego ze szczególnymi wymaganiami bezpieczeństwa oraz przestrzegania procedur bezpiecznej eksploatacji;
 - **2)** osobę lub zespół osób, niepełniących funkcji inspektora bezpieczeństwa teleinformatycznego, odpowiedzialnych za funkcjonowanie systemu teleinformatycznego oraz za przestrzeganie zasad i wymagań bezpieczeństwa przewidzianych dla systemu teleinformatycznego, zwanych dalej „administratorem systemu”.
 
 2. W uzasadnionych przypadkach, za zgodą ABW albo SKW, administrator systemu lub inspektor bezpieczeństwa teleinformatycznego może wykonywać zadania w więcej niż jednej jednostce organizacyjnej na podstawie porozumienia właściwych kierowników jednostek organizacyjnych.
@@ -976,7 +1064,7 @@ Art. 74–180. (pominięte)
 
 2. Z opłat, o których mowa w ust. 1, są zwolnione jednostki organizacyjne będące jednostkami budżetowymi.
 
-3. Przedsiębiorcy obowiązani na podstawie odrębnych ustaw do wykonywania zadań publicznych na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego są zwolnieni z opłat za przeprowadzenie czynności, o których teleinformatycznego systemów teleinformatycznych niezbędnych do wykonania tych zadań.
+3. Przedsiębiorcy obowiązani na podstawie odrębnych ustaw do wykonywania zadań publicznych na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego są zwolnieni z opłat za przeprowadzenie czynności, o których mowa w art. 48 ust. 3–6, w przypadku akredytacji bezpieczeństwa teleinformatycznego systemów teleinformatycznych niezbędnych do wykonania tych zadań.
 
 4. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb ustalania wysokości oraz poboru opłat, o których mowa w ust. 1.
 
@@ -997,7 +1085,7 @@ Art. 74–180. (pominięte)
 
 2. Dokumentem potwierdzającym zdolność do ochrony informacji niejawnych o klauzuli „poufne” lub wyższej jest świadectwo bezpieczeństwa przemysłowego, zwane dalej „świadectwem”, wydawane przez ABW albo SKW po przeprowadzeniu postępowania bezpieczeństwa przemysłowego.
 
-3. W przypadku przedsiębiorcy wykonującego działalność jednoosobowo i osobiście zdolność do ochrony informacji niejawnych potwierdza poświadczenie tajności „poufne” lub wyższej, wydawane przez ABW albo SKW, i zaświadczenie o odbytym przeszkoleniu w zakresie ochrony informacji niejawnych wydawane przez ABW albo SKW.
+3. W przypadku przedsiębiorcy wykonującego działalność jednoosobowo i osobiście zdolność do ochrony informacji niejawnych potwierdza poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych o klauzuli tajności „poufne” lub wyższej, wydawane przez ABW albo SKW, i zaświadczenie o odbytym przeszkoleniu w zakresie ochrony informacji niejawnych wydawane przez ABW albo SKW.
 
 4. Przepisu ust. 3 nie stosuje się, jeżeli obowiązek uzyskania świadectwa wynika z ratyfikowanej przez Rzeczpospolitą Polską umowy międzynarodowej lub prawa wewnętrznego strony zawierającej umowę.
 
@@ -1011,7 +1099,11 @@ Art. 74–180. (pominięte)
 
 9. W przypadku gdy przedsiębiorca zamierza wykonywać umowy związane z dostępem do informacji niejawnych o klauzuli „zastrzeżone”, świadectwo nie jest wymagane.
 
-10. Przedsiębiorca, o którym mowa w ust. 9, jest obowiązany spełnić wymagania ustawy w zakresie ochrony informacji niejawnych o klauzuli „zastrzeżone”, z wyjątkiem wymogu zatrudnienia pełnomocnika ochrony, jeżeli wykonuje umowę związaną z dostępem do tych informacji, z wyłączeniem możliwości ich przetwarzania w użytkowanych przez niego obiektach. o klauzuli „poufne” lub wyższej wydaje się świadectwo odpowiednio:
+10. Przedsiębiorca, o którym mowa w ust. 9, jest obowiązany spełnić wymagania ustawy w zakresie ochrony informacji niejawnych o klauzuli „zastrzeżone”, z wyjątkiem wymogu zatrudnienia pełnomocnika ochrony, jeżeli wykonuje umowę związaną z dostępem do tych informacji, z wyłączeniem możliwości ich przetwarzania w użytkowanych przez niego obiektach.
+
+**Art. 55.**
+
+1. W zależności od stopnia zdolności do ochrony informacji niejawnych o klauzuli „poufne” lub wyższej wydaje się świadectwo odpowiednio:
 
 - **1)** pierwszego stopnia – potwierdzające pełną zdolność przedsiębiorcy do ochrony tych informacji;
 - **2)** drugiego stopnia – potwierdzające zdolność przedsiębiorcy do ochrony tych informacji, z wyłączeniem możliwości ich przetwarzania we własnych systemach teleinformatycznych;
@@ -1042,7 +1134,9 @@ Art. 74–180. (pominięte)
 
 1. Postępowanie bezpieczeństwa przemysłowego jest prowadzone na wniosek przedsiębiorcy. Wniosek nie wymaga uzasadnienia.
 
-2. We wniosku przedsiębiorca określa stopień świadectwa oraz klauzulę tajności informacji niejawnych, których zdolność do ochrony ma potwierdzać świadectwo. przemysłowego, zwany dalej „kwestionariuszem”, oraz ankiety lub kopie poświadczeń bezpieczeństwa osób określonych w art. 57 ust. 3.
+2. We wniosku przedsiębiorca określa stopień świadectwa oraz klauzulę tajności informacji niejawnych, których zdolność do ochrony ma potwierdzać świadectwo.
+
+3. Do wniosku przedsiębiorca dołącza kwestionariusz bezpieczeństwa przemysłowego, zwany dalej „kwestionariuszem”, oraz ankiety lub kopie poświadczeń bezpieczeństwa osób określonych w art. 57 ust. 3.
 
 4. ABW albo SKW może wezwać przedsiębiorcę do uzupełnienia braków formalnych we wniosku i jego załącznikach w terminie 30 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
 
@@ -1066,7 +1160,11 @@ Art. 74–180. (pominięte)
 - **4)** administratora systemu teleinformatycznego;
 - **5)** pozostałych osób wskazanych w kwestionariuszu, które powinny mieć dostęp do informacji niejawnych.
 
-4. W stosunku do osób, o których mowa w ust. 3 pkt 1–4, odpowiednie poświadczenie bezpieczeństwa oznacza poświadczenie upoważniające do dostępu do informacji niejawnych o klauzuli nie niższej niż wskazana we wniosku przedsiębiorcy o wydanie świadectwa. w art. 57 przeprowadza się na podstawie danych zawartych w kwestionariuszu oraz innych informacji uzyskanych w trakcie postępowania bezpieczeństwa przemysłowego pozwalających ocenić zdolność przedsiębiorcy do ochrony informacji niejawnych.
+4. W stosunku do osób, o których mowa w ust. 3 pkt 1–4, odpowiednie poświadczenie bezpieczeństwa oznacza poświadczenie upoważniające do dostępu do informacji niejawnych o klauzuli nie niższej niż wskazana we wniosku przedsiębiorcy o wydanie świadectwa.
+
+**Art. 58.**
+
+1. Sprawdzenia przedsiębiorcy i osób wymienionych w art. 57 przeprowadza się na podstawie danych zawartych w kwestionariuszu oraz innych informacji uzyskanych w trakcie postępowania bezpieczeństwa przemysłowego pozwalających ocenić zdolność przedsiębiorcy do ochrony informacji niejawnych.
 
 2. Kwestionariusz zawiera:
 
@@ -1087,7 +1185,7 @@ Art. 74–180. (pominięte)
 
 1. W przypadku postępowania bezpieczeństwa przemysłowego prowadzonego w celu wydania świadectwa, o którym mowa w art. 55 ust. 1 pkt 3, zatrudnienie pełnomocnika ochrony oraz utworzenie pionu ochrony nie jest wymagane, z wyjątkiem ubiegania się o świadectwo potwierdzające zdolność do ochrony informacji niejawnych o klauzuli będącej zagranicznym odpowiednikiem klauzuli „tajne” lub „poufne”, stosowanym przez organizacje międzynarodowe.
 
-2. Pełnomocnik ochrony jednostki organizacyjnej zlecającej wykonanie umowy, z której wykonaniem łączy się dostęp do informacji niejawnych o klauzuli „poufne”, ochrony informacji niejawnych wobec osób określonych w art. 57 ust. 3 pkt 5 w przypadku postępowania bezpieczeństwa przemysłowego, o którym mowa w art. 55 ust. 1 pkt 3. Odpowiednie wnioski kierownik przedsiębiorcy składa do kierownika jednostki organizacyjnej, która zleca wykonanie umowy.
+2. Pełnomocnik ochrony jednostki organizacyjnej zlecającej wykonanie umowy, z której wykonaniem łączy się dostęp do informacji niejawnych o klauzuli „poufne”, może przeprowadzić zwykłe postępowanie sprawdzające oraz szkolenie w zakresie ochrony informacji niejawnych wobec osób określonych w art. 57 ust. 3 pkt 5 w przypadku postępowania bezpieczeństwa przemysłowego, o którym mowa w art. 55 ust. 1 pkt 3. Odpowiednie wnioski kierownik przedsiębiorcy składa do kierownika jednostki organizacyjnej, która zleca wykonanie umowy.
 
 **Art. 61.**
 
@@ -1097,6 +1195,10 @@ Art. 74–180. (pominięte)
 
 **Art. 62.** ABW albo SKW umarza postępowanie bezpieczeństwa przemysłowego, w tym postępowania sprawdzające wobec osób wymienionych w art. 57 ust. 3, w przypadku:
 
+- **1)** wycofania przez przedsiębiorcę wniosku o wydanie świadectwa;
+- **2)** wydania orzeczenia o zakazie prowadzenia przez przedsiębiorcę działalności gospodarczej;
+- **3)** przejęcia lub likwidacji przedsiębiorcy.
+
 **Art. 63.**
 
 1. ABW albo SKW zawiesza lub podejmuje postępowanie bezpieczeństwa przemysłowego, w tym postępowania sprawdzające wobec osób wymienionych w art. 57 ust. 3, na wniosek przedsiębiorcy.
@@ -1105,7 +1207,8 @@ Art. 74–180. (pominięte)
 
 - **1)** wydania przez inny organ decyzji nakazującej przedsiębiorcy wstrzymanie prowadzenia działalności gospodarczej;
 - **2)** wszczęcia postępowania upadłościowego wobec przedsiębiorcy;
-- **3)** nieuregulowania w terminie zobowiązań publicznoprawnych; niejawnych od uprzedniego rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd.
+- **3)** nieuregulowania w terminie zobowiązań publicznoprawnych;
+- **4)** uzależnienia wyniku oceny zdolności przedsiębiorcy do ochrony informacji niejawnych od uprzedniego rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd.
 
 3. ABW albo SKW podejmuje z urzędu postępowanie bezpieczeństwa przemysłowego, w tym postępowania sprawdzające wobec osób wymienionych w art. 57 ust. 3, zawieszone na podstawie ust. 2, po ustaniu przyczyn zawieszenia.
 
@@ -1128,7 +1231,9 @@ Art. 74–180. (pominięte)
 
 **Art. 65.**
 
-1. ABW albo SKW, w okresie ważności świadectwa, może przeprowadzić z urzędu sprawdzenie przedsiębiorcy w zakresie elementów, o których mowa w art. 57 ust. 2, w celu ustalenia, czy nie utracił on zdolności do ochrony informacji niejawnych przed nieuprawnionym ujawnieniem. realizuje umowę na rzecz jednostek organizacyjnych, o których mowa w art. 1 ust. 2 pkt 2, SKW – gdy w toku realizacji umowy ujawniła fakty wskazujące na możliwość utraty przez przedsiębiorcę zdolności do ochrony informacji niejawnych – może wystąpić do ABW o przeprowadzenie kontroli, o której mowa w art. 10 ust. 1 pkt 1, lub sprawdzenia określonego w art. 57 ust. 2.
+1. ABW albo SKW, w okresie ważności świadectwa, może przeprowadzić z urzędu sprawdzenie przedsiębiorcy w zakresie elementów, o których mowa w art. 57 ust. 2, w celu ustalenia, czy nie utracił on zdolności do ochrony informacji niejawnych przed nieuprawnionym ujawnieniem.
+
+2. W przypadku gdy świadectwo zostało wydane przez ABW, a przedsiębiorca realizuje umowę na rzecz jednostek organizacyjnych, o których mowa w art. 1 ust. 2 pkt 2, SKW – gdy w toku realizacji umowy ujawniła fakty wskazujące na możliwość utraty przez przedsiębiorcę zdolności do ochrony informacji niejawnych – może wystąpić do ABW o przeprowadzenie kontroli, o której mowa w art. 10 ust. 1 pkt 1, lub sprawdzenia określonego w art. 57 ust. 2.
 
 3. W kontroli, o której mowa w art. 10 ust. 1 pkt 1, lub sprawdzeniu, o którym mowa w art. 57 ust. 2 pkt 3, mogą uczestniczyć żołnierze lub funkcjonariusze SKW. Przed kontrolą lub sprawdzeniem, o którym mowa w art. 57 ust. 2 pkt 3, upoważnieni żołnierze lub funkcjonariusze SKW mogą zapoznać się z aktami postępowania bezpieczeństwa przemysłowego w zakresie objętym kontrolą lub sprawdzeniem.
 
@@ -1148,7 +1253,9 @@ Art. 74–180. (pominięte)
 3. ABW albo SKW może cofnąć świadectwo, stwierdzając utratę zdolności do ochrony informacji niejawnych, z powodu:
 
 - **1)** ujawnienia, w wyniku sprawdzeń osób wymienionych w art. 57 ust. 2 pkt 4, w toku postępowania bezpieczeństwa przemysłowego niedających się usunąć wątpliwości określonych w art. 24 ust. 2 pkt 1–3 lub 5 lub w art. 24 ust. 3;
-- **2)** niewykonania przez przedsiębiorcę obowiązku, o którym mowa w art. 70 ust. 1. organizacyjne, które zawarły umowy z przedsiębiorcą.
+- **2)** niewykonania przez przedsiębiorcę obowiązku, o którym mowa w art. 70 ust. 1.
+
+4. O cofnięciu świadectwa ABW albo SKW zawiadamia niezwłocznie jednostki organizacyjne, które zawarły umowy z przedsiębiorcą.
 
 **Art. 67.**
 
@@ -1182,7 +1289,7 @@ Art. 74–180. (pominięte)
 
 **Art. 69.**
 
-1. Od decyzji o umorzeniu postępowania bezpieczeństwa przemysłowego, odmowie wydania oraz o cofnięciu świadectwa przedsiębiorcy postanowienie przysługuje skarga do sądu administracyjnego.
+1. Od decyzji o umorzeniu postępowania bezpieczeństwa przemysłowego, odmowie wydania oraz o cofnięciu świadectwa przedsiębiorcy przysługuje odwołanie do Prezesa Rady Ministrów, na którego decyzję lub postanowienie przysługuje skarga do sądu administracyjnego.
 
 2. Do odwołania i skargi, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 35, art. 36 i art. 38.
 
@@ -1204,7 +1311,11 @@ Art. 74–180. (pominięte)
 
 3. W przypadkach gdy zawierającymi umowę są jednostki organizacyjne, o których mowa w art. 1 ust. 2 pkt 2, ABW po uzyskaniu od przedsiębiorcy informacji, o której mowa w ust. 1 pkt 2, przekazuje ją SKW.
 
-4. W przypadku gdy jednostką zawierającą umowę jest inna jednostka organizacyjna niż wymieniona w ust. 3, SKW po uzyskaniu od przedsiębiorcy informacji, o której mowa w ust. 1 pkt 2, przekazuje ją ABW. informacji niejawnych o klauzuli „poufne” lub wyższej jest odpowiedzialna za wprowadzenie do umowy instrukcji bezpieczeństwa przemysłowego, określającej:
+4. W przypadku gdy jednostką zawierającą umowę jest inna jednostka organizacyjna niż wymieniona w ust. 3, SKW po uzyskaniu od przedsiębiorcy informacji, o której mowa w ust. 1 pkt 2, przekazuje ją ABW.
+
+**Art. 71.**
+
+1. Jednostka organizacyjna zawierająca umowę związaną z dostępem do informacji niejawnych o klauzuli „poufne” lub wyższej jest odpowiedzialna za wprowadzenie do umowy instrukcji bezpieczeństwa przemysłowego, określającej:
 
 - **1)** szczegółowe wymagania dotyczące ochrony informacji niejawnych o klauzuli „poufne” lub wyższej, które zostaną przekazane przedsiębiorcy w związku z wykonywaniem umowy, odpowiednie do liczby tych informacji, klauzuli tajności oraz liczby osób mających do nich dostęp;
 - **2)** skutki oraz zakres odpowiedzialności wykonawcy umowy z tytułu niewykonania lub nienależytego wykonania obowiązków wynikających z niniejszej ustawy, a także nieprzestrzegania wymagań określonych w instrukcji bezpieczeństwa przemysłowego.
@@ -1225,6 +1336,7 @@ Art. 74–180. (pominięte)
     - **b)** przedmiocie umowy,
     - **c)** najwyższej koniecznej klauzuli tajności informacji niejawnych, do których dostęp będzie wiązał się z wykonywaniem umowy,
     - **d)** naruszeniu przepisów o ochronie informacji niejawnych u przedsiębiorcy, z którym zawarto umowę,
+    - **e)** zakończeniu wykonywania umowy;
 
 - **2)** niezwłocznego przekazania odpowiednio ABW lub SKW:
     - **a)** kopii instrukcji bezpieczeństwa przemysłowego, o której mowa w ust. 1,
@@ -1248,7 +1360,7 @@ Art. 74–180. (pominięte)
 - **6)** Inspektorowi Nadzoru Wewnętrznego w celu realizacji zadania określonego w art. 11a ust. 3 pkt 9 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529).
 - **7)** (uchylony)
 
-2. Przepisu ust. 1 pkt 2 nie stosuje się w odniesieniu do akt postępowań sprawdzających lub kontrolnych postępowań sprawdzających przeprowadzonych przez AW, ABW, SKW lub SWW. Akta tych postępowań mogą być udostępnione do samą służbę wobec tej samej osoby.
+2. Przepisu ust. 1 pkt 2 nie stosuje się w odniesieniu do akt postępowań sprawdzających lub kontrolnych postępowań sprawdzających przeprowadzonych przez AW, ABW, SKW lub SWW. Akta tych postępowań mogą być udostępnione do wglądu wyłącznie dla celów postępowania sprawdzającego prowadzonego przez tę samą służbę wobec tej samej osoby.
 
 3. Akta zwykłych postępowań sprawdzających oraz kontrolnych postępowań sprawdzających, mogą być udostępnione do wglądu i przekazane w przypadkach określonych w ust. 1 oraz dla celów postępowania sprawdzającego lub kontrolnego postępowania sprawdzającego wobec tej samej osoby.
 
@@ -1274,6 +1386,7 @@ Art. 74–180. (pominięte)
 - **3)** imię ojca;
 - **4)** datę i miejsce urodzenia;
 - **5)** adres miejsca zamieszkania lub pobytu;
+- **6)** nazwę jednostki organizacyjnej;
 - **7)** określenie dokumentu kończącego procedurę, datę wydania oraz numer.
 
 3. Dane z ewidencji, o których mowa w ust. 1, oraz wykazów, o których mowa w art. 15 ust. 1 pkt 8, są udostępniane na pisemne żądanie wyłącznie w przypadkach określonych w art. 72 ust. 1 pkt 1 i 3–5 oraz służbom i instytucjom uprawnionym do realizacji poszerzonych postępowań sprawdzających dla celów postępowania sprawdzającego oraz postępowania bezpieczeństwa przemysłowego.
@@ -1294,7 +1407,7 @@ Art. 74–180. (pominięte)
 
 **Art. 183.** Przepis art. 14 ust. 3 pkt 2 stosuje się do pełnomocników ochrony i zastępców pełnomocników ochrony zatrudnionych po dniu wejścia w życie ustawy.
 
-**Art. 184.** Kierownicy jednostek organizacyjnych, w których w dniu wejścia w życie ustawy funkcjonują kancelarie tajne, informują o nich w terminie do przetwarzanych informacji niejawnych.
+**Art. 184.** Kierownicy jednostek organizacyjnych, w których w dniu wejścia w życie ustawy funkcjonują kancelarie tajne, informują o nich w terminie do 3 miesięcy od tej daty odpowiednio ABW lub SKW, z określeniem klauzuli tajności przetwarzanych informacji niejawnych.
 
 **Art. 185.**
 
@@ -1315,7 +1428,7 @@ Art. 74–180. (pominięte)
 
 **Art. 187.** Przedsiębiorcy wykonujący umowy związane z dostępem do informacji niejawnych o klauzuli „poufne”, nieposiadający w dniu wejścia w życie ustawy ważnego świadectwa bezpieczeństwa przemysłowego powinni uzyskać takie świadectwo w terminie 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 188.** Do postępowań sprawdzających, kontrolnych postępowań sprawdzających i postępowań bezpieczeństwa przemysłowego wszczętych dotychczasowe.
+**Art. 188.** Do postępowań sprawdzających, kontrolnych postępowań sprawdzających i postępowań bezpieczeństwa przemysłowego wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 189.**
 

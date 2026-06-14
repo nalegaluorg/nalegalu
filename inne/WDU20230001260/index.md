@@ -8,10 +8,10 @@ pos: 1260
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1260 OBWIESZCZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 5 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001260) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1260/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 5 czerwca 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie wymagań dla zabawek
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 20 października 2016 r. w sprawie wymagań dla zabawek (Dz. U. z 2019 r.
 poz. 1816), z uwzględnieniem zmian wprowadzonych:
@@ -41,26 +40,27 @@ poz. 1816), z uwzględnieniem zmian wprowadzonych:
 Minister Rozwoju i Technologii: W. Buda ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 20 października 2016 r.
 w sprawie wymagań dla zabawek Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r.
 poz. 1854) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wymagania dla zabawek;
 2) procedury oceny zgodności;
 3) zakres dokumentacji technicznej zabawek;
 4) sposób oznakowania zabawek;
 5) elementy deklaracji zgodności.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) zabawka wyrób zaprojektowany lub przeznaczony do zabawy oraz wyrób, który ze względu na swoje cechy charakterystyczne lub wygląd może być użyty do zabawy przez dzieci w wieku poniżej 14 lat;
-2) wyrób funkcjonalny wyrób niebędący zabawką, który działa i jest używany w taki sam sposób jak wyrób, urządzenie lub instalacja przeznaczone do użytku dorosłych i który może być pomniejszonym modelem takiego wyrobu, urządzenia lub instalacji;
-3) zabawka funkcjonalna zabawkę, która działa i jest używana w taki sam sposób jak wyrób, urządzenie lub instalacja przeznaczone do użytku dorosłych i która może być pomniejszonym modelem takiego wyrobu, urządzenia lub instalacji;
-4) zabawka do zabawy w wodzie zabawkę przeznaczoną do użytku w płytkiej dla dziecka wodzie, zdolną unieść lub utrzymać dziecko na wodzie;
-5) prędkość konstrukcyjna wzorcową potencjalną prędkość eksploatacyjną, determinowaną konstrukcją zabawki;
-6) zabawka ruchowa zabawkę przeznaczoną do użytku domowego, której konstrukcja nośna pozostaje nieruchoma w trakcie zabawy i która jest przeznaczona do wspinania się, skakania, huśtania, zjeżdżania, kołysania, obracania, raczkowania, pełzania lub kombinacji tych czynności;
-7) zabawka chemiczna zabawkę przeznaczoną do bezpośredniego obchodzenia się z substancjami chemicznymi i mieszaninami, która jest wykorzystywana w sposób odpowiedni dla wieku dziecka, pod nadzorem dorosłych;
-8) zapachowa gra planszowa zabawkę, której celem jest ułatwienie dziecku nauki rozpoznawania różnych zapachów lub smaków;
-9) zestaw kosmetyczny zabawkę, która ma na celu ułatwienie dziecku nauki wytwarzania wyrobów, w szczególności perfum, mydeł, kremów, szamponów, płynów do kąpieli, błyszczyków, pomadek do ust, past do zębów i odżywek;
-10) gra smakowa zabawkę, której celem jest umożliwienie dziecku przygotowania słodyczy lub innych potraw, co wiąże się z wykorzystaniem składników spożywczych, takich jak substancje słodzące, płynne, sypkie i aromaty;
-11) uraz uraz fizyczny lub inny uszczerbek na zdrowiu, w tym powodujący długotrwałe skutki dla zdrowia, powstały na skutek obchodzenia się z daną zabawką;
-12) zagrożenie potencjalne źródło urazu;
-13) ryzyko prawdopodobny współczynnik wystąpienia zagrożenia powodującego uraz oraz stopień powagi urazu;
-14) przeznaczone dla dzieci przypuszczenie rodzica lub opiekuna dziecka na podstawie funkcji, wymiarów i charakterystyki zabawki, że jest ona przeznaczona do użytku przez dzieci z podanej grupy wiekowej.
+1) zabawka – wyrób zaprojektowany lub przeznaczony do zabawy oraz wyrób, który ze względu na swoje cechy charakterystyczne lub wygląd może być użyty do zabawy przez dzieci w wieku poniżej 14 lat;
+2) wyrób funkcjonalny – wyrób niebędący zabawką, który działa i jest używany w taki sam sposób jak wyrób, urządzenie lub instalacja przeznaczone do użytku dorosłych i który może być pomniejszonym modelem takiego wyrobu, urządzenia lub instalacji;
+3) zabawka funkcjonalna – zabawkę, która działa i jest używana w taki sam sposób jak wyrób, urządzenie lub instalacja przeznaczone do użytku dorosłych i która może być pomniejszonym modelem takiego wyrobu, urządzenia lub instalacji;
+4) zabawka do zabawy w wodzie – zabawkę przeznaczoną do użytku w płytkiej dla dziecka wodzie, zdolną unieść lub utrzymać dziecko na wodzie;
+5) prędkość konstrukcyjna – wzorcową potencjalną prędkość eksploatacyjną, determinowaną konstrukcją zabawki;
+6) zabawka ruchowa – zabawkę przeznaczoną do użytku domowego, której konstrukcja nośna pozostaje nieruchoma w trakcie zabawy i która jest przeznaczona do wspinania się, skakania, huśtania, zjeżdżania, kołysania, obracania, raczkowania, pełzania lub kombinacji tych czynności;
+7) zabawka chemiczna – zabawkę przeznaczoną do bezpośredniego obchodzenia się z substancjami chemicznymi i mieszaninami, która jest wykorzystywana w sposób odpowiedni dla wieku dziecka, pod nadzorem dorosłych;
+8) zapachowa gra planszowa – zabawkę, której celem jest ułatwienie dziecku nauki rozpoznawania różnych zapachów lub smaków;
+9) zestaw kosmetyczny – zabawkę, która ma na celu ułatwienie dziecku nauki wytwarzania wyrobów, w szczególności perfum, mydeł, kremów, szamponów, płynów do kąpieli, błyszczyków, pomadek do ust, past do zębów i odżywek;
+10) gra smakowa – zabawkę, której celem jest umożliwienie dziecku przygotowania słodyczy lub innych potraw, co wiąże się z wykorzystaniem składników spożywczych, takich jak substancje słodzące, płynne, sypkie i aromaty;
+11) uraz – uraz fizyczny lub inny uszczerbek na zdrowiu, w tym powodujący długotrwałe skutki dla zdrowia, powstały na skutek obchodzenia się z daną zabawką;
+12) zagrożenie – potencjalne źródło urazu;
+13) ryzyko – prawdopodobny współczynnik wystąpienia zagrożenia powodującego uraz oraz stopień powagi urazu;
+14) przeznaczone dla dzieci – przypuszczenie rodzica lub opiekuna dziecka na podstawie funkcji, wymiarów i charakterystyki zabawki, że jest ona przeznaczona do użytku przez dzieci z podanej grupy wiekowej.
 § 3. Przepisów rozporządzenia nie stosuje się do:
 1) sprzętu do publicznego używania na placach zabaw;
 2) automatycznych urządzeń służących do zabawy, działających na środki płatnicze lub bezpłatnych, przeznaczonych do publicznego używania;
@@ -92,6 +92,7 @@ e) kopii prawdziwej broni palnej;
 23) oświetlenia przeznaczonego dla dzieci;
 24) transformatorów elektrycznych do zabawek;
 25) dodatków do ubrań dla dzieci, które nie są przeznaczone do zabawy.
+§ 4. 1. Wymagania dla zabawek określa § 5 ust. 1 i 2 oraz pkt 1–6 załącznika nr 1 do rozporządzenia.
 2. Zabawki wprowadzane do obrotu muszą spełniać wymagania, o których mowa w ust. 1, z uwzględnieniem klasyfikacji substancji i mieszanin.
 3. Klasyfikację substancji i mieszanin, o których mowa w ust. 2, określa dodatek B do załącznika II do dyrektywy Parlamentu Europejskiego i Rady 2009/48/WE z dnia 18 czerwca 2009 r. w sprawie bezpieczeństwa zabawek (Dz. Urz.
 UE L 170 z 30.06.2009, str. 1, z późn. zm. ), zwanej dalej „dyrektywą 2009/48/WE”.
@@ -105,6 +106,7 @@ UE L 170 z 30.06.2009, str. 1, z późn. zm. ), zwanej dalej „dyrektywą 2009/
 8. Wymagania dotyczące instrukcji i ostrzeżeń, o których mowa w ust. 3, określa pkt 7 załącznika nr 1 do rozporządzenia.
 9. Na zabawkach nie mogą być umieszczone ostrzeżenia, o których mowa w pkt 7.2.1–7.11 załącznika nr 1 do rozporządzenia, jeżeli są one sprzeczne z przewidywanym użytkowaniem zabawki, określonym na podstawie ich funkcji, rozmiarów i charakterystyki.
 10. Ostrzeżenia, od których zależy decyzja o zakupie zabawki, takie jak określające minimalny i maksymalny wiek dziecka, a także pozostałe mające zastosowanie ostrzeżenia umieszcza się na opakowaniu lub w inny wyraźnie widoczny dla konsumenta przed zakupem sposób, również w przypadku zakupu przez Internet.
+§ 6. Przed wprowadzeniem zabawki do obrotu w ramach procedury oceny zgodności przeprowadza się analizę zagrożeń chemicznych, fizycznych, mechanicznych, elektrycznych, palności, higieny i radioaktywnych, które zabawka może stwarzać, oraz dokonuje oceny ewentualnego narażenia na takie zagrożenia.
 § 7. 1. W celu wykazania, że zabawka spełnia wymagania określone w § 5 i pkt 1–6 załącznika nr 1 do rozporządzenia, stosuje się procedury oceny zgodności zgodnie z § 8–10.
 2. Procedury oceny zgodności zabawek określa załącznik nr 2 do rozporządzenia.
 § 8. W przypadku gdy producent zastosował normy zharmonizowane, których numery zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej, obejmujące wszystkie wymagania dla danej zabawki, stosuje się procedurę wewnętrznej kontroli produkcji (moduł A).
@@ -116,11 +118,12 @@ UE L 170 z 30.06.2009, str. 1, z późn. zm. ), zwanej dalej „dyrektywą 2009/
 § 10. 1. Procedury dotyczące:
 1) wniosku o badanie typu,
 2) przeprowadzenia badania typu,
-3) wydania certyfikatu badania typu przeprowadza się zgodnie z wymaganiami określonymi w badaniu typu (moduł B), o którym mowa w pkt 2 załącznika nr 2 do rozporządzenia.
+3) wydania certyfikatu badania typu – przeprowadza się zgodnie z wymaganiami określonymi w badaniu typu (moduł B), o którym mowa w pkt 2 załącznika nr 2 do rozporządzenia.
 2. Wniosek o badanie typu zawiera opis zabawki i adres miejsca jej produkcji.
-3. Jednostka notyfikowana przeprowadzająca badanie typu ocenia wykonaną przez producenta analizę zagrożeń, o której mowa w § 6, a w razie konieczności dokonuje tej oceny wspólnie z producentem.
+3. Jednostka notyfikowana przeprowadzająca badanie typu ocenia wykonaną przez producenta analizę zagrożeń, o której mowa w § 6, a w razie konieczności – dokonuje tej oceny wspólnie z producentem.
 4. Certyfikat badania typu zawiera odniesienie do dyrektywy 2009/48/WE, kolorowy obraz i przejrzysty opis zabawki, jej wymiary oraz wykaz przeprowadzonych badań z odniesieniem do odpowiednich sprawozdań z badania. Jeżeli to niezbędne, dokonuje się weryfikacji certyfikatu badania typu, w szczególności w przypadku zmiany procesu produkcji, stosowanych surowców lub składników zabawki, ale nie rzadziej niż raz na pięć lat.
 5. Certyfikat badania typu podlega wycofaniu, jeżeli zabawka nie spełnia wymagań określonych w § 5 ust. 1 i w pkt 1–6 załącznika nr 1 do rozporządzania.
+§ 11. Dokumentacja techniczna zabawek zawiera wszystkie istotne dane lub informacje dotyczące środków zastosowanych przez producenta, zapewniające zgodność z wymaganiami określonymi w § 5 i pkt 1–6 załącznika nr 1 do rozporządzenia, w szczególności:
 1) szczegółowy opis projektu i produkcji, w tym wykaz stosowanych części i materiałów użytych w zabawkach, oraz karty charakterystyki substancji chemicznych, otrzymane od dostawców substancji chemicznych;
 2) opis oceny bezpieczeństwa oraz przeprowadzonej analizy zagrożeń, o której mowa w § 6;
 3) opis zastosowanej procedury oceny zgodności;
@@ -129,7 +132,8 @@ UE L 170 z 30.06.2009, str. 1, z późn. zm. ), zwanej dalej „dyrektywą 2009/
 6) kopie dokumentów, które producent przedłożył jednostce notyfikowanej, jeżeli była zaangażowana i brała udział w ocenie zgodności;
 7) sprawozdania z badań i opis środków, za pomocą których producent zapewnił zgodność produkcji z normami zharmonizowanymi, jeżeli producent zastosował procedurę wewnętrznej kontroli produkcji, o której mowa w § 8;
 8) kopię certyfikatu badania typu, opis środków, za pomocą których producent zapewnił zgodność produkcji z typem wyrobu, opisanym w certyfikacie badania typu, oraz kopie dokumentów, które producent przedłożył jednostce notyfikowanej, w przypadku gdy producent przedstawił zabawkę do badania typu oraz zastosował procedurę zgodności z typem, w oparciu o wewnętrzną kontrolę produkcji, o których mowa w § 9.
-2. Zabawki muszą być opatrzone nazwiskiem lub nazwą, zarejestrowaną nazwą towarową lub zarejestrowanym znakiem towarowym i adresem kontaktowym producenta oraz importera na zabawce, a jeśli to niemożliwe na opakowaniu lub w dokumencie dołączonym do zabawki. Podany adres kontaktowy wskazuje jedno miejsce, w którym można skontaktować się z producentem.
+§ 12. 1. Zabawki powinny być opatrzone nazwą typu, numerem partii, serii lub modelu lub inną informacją umożliwiającą ich identyfikację lub, w przypadku gdy wielkość lub charakter zabawki to uniemożliwiają, wymagane informacje umieszcza się na opakowaniu lub w dokumencie załączonym do wyrobu.
+2. Zabawki muszą być opatrzone nazwiskiem lub nazwą, zarejestrowaną nazwą towarową lub zarejestrowanym znakiem towarowym i adresem kontaktowym producenta oraz importera na zabawce, a jeśli to niemożliwe – na opakowaniu lub w dokumencie dołączonym do zabawki. Podany adres kontaktowy wskazuje jedno miejsce, w którym można skontaktować się z producentem.
 3. Dopuszcza się możliwość prezentacji zabawek nieposiadających oznakowania CE lub niespełniających wymagań, na wystawach i innych pokazach, pod warunkiem że zostanie do nich dołączona informacja, która wyraźnie wskaże, że zabawka nie spełnia wymagań i nie będzie udostępniana na Europejskim Obszarze Gospodarczym, dopóki nie będzie zgodna z obowiązującymi wymaganiami.
 § 13. 1. Oprócz oznakowania znakiem CE, przed wprowadzeniem zabawki do obrotu, należy umieścić na niej piktogram lub innego rodzaju znak wskazujący na szczególne zagrożenie lub na przeznaczenie danej zabawki, jeżeli ma to zastosowanie.
 2. Oznakowanie CE umieszcza się w sposób widoczny, czytelny i trwały na zabawce, przytwierdzonej etykiecie lub na opakowaniu zgodnie z art. 30 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r.
@@ -137,6 +141,7 @@ ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące si�
 UE L 169 z 25.06.2019, str. 1). W przypadku małych zabawek lub zabawek składających się z małych części oznakowanie CE może być umieszczone na etykiecie, załączonej ulotce lub instrukcji. Jeżeli nie jest to technicznie możliwe, w przypadku zabawek umieszczanych w ekspozytorach, oznakowanie CE jest umieszczane na ekspozytorze, pod warunkiem że ekspozytor był pierwotnie wykorzystany jako opakowanie zabawek.
 3. Jeżeli opakowanie zabawki będzie zakrywać oznakowanie CE, należy je umieścić także na opakowaniu.
 § 14. Elementy deklaracji zgodności określa załącznik nr 3 do rozporządzenia.
+§ 15. 1. Zabawki wprowadzone do obrotu przed dniem wejścia w życie niniejszego rozporządzenia na podstawie przepisów dotychczasowych i spełniające ich wymagania mogą być nadal udostępniane na rynku.
 2. Certyfikaty dla zabawek, o których mowa w ust. 1, wydane przez jednostki oceniające zgodność przed dniem wejścia w życie niniejszego rozporządzenia, zachowują ważność do dnia określonego w tych certyfikatach.
 § 16. Rozporządzenie wchodzi w życie z dniem 21 października 2016 r.
 WYMAGANIA DLA ZABAWEK
@@ -199,7 +204,7 @@ Materiały dające się zapalić, o których mowa w pkt 2.1.1–2.1.4, nie mogą
 dotyczącego produktów kosmetycznych (Dz. Urz. UE L 342 z 22.12.2009, str. 59, z późn. zm. ), zwanego dalej „rozporządzeniem o kosmetykach”.
 3.9. Zabawki nie mogą zawierać substancji zapachowych mogących powodować alergie, o których mowa w pierwszej tabeli w pkt 11 części III załącznika II do dyrektywy 2009/48/WE.
 3.9.1. Śladowa obecność wymienionych w pkt 3.9 substancji zapachowych jest dopuszczalna, pod warunkiem że jest ona nieunikniona z punktu widzenia technicznego, przy zastosowaniu zasad dobrej praktyki produkcyjnej, oraz nie przekracza 100 mg/kg.
-3.9.2. Na zabawce, na przytwierdzonej do niej etykiecie lub na opakowaniu umieszcza się nazwy substancji zapachowych mogących powodować alergie, o których mowa w drugiej tabeli w pkt 11 części III załącznika II do dyrektywy 2009/48/WE jeżeli dodano je do zabawki w stężeniach przekraczających 100 mg/kg masy zabawki lub jej części.
+3.9.2. Na zabawce, na przytwierdzonej do niej etykiecie lub na opakowaniu umieszcza się nazwy substancji zapachowych mogących powodować alergie, o których mowa w drugiej tabeli w pkt 11 części III załącznika II do dyrektywy 2009/48/WE – jeżeli dodano je do zabawki w stężeniach przekraczających 100 mg/kg masy zabawki lub jej części.
 3.10. Dopuszcza się stosowanie substancji zapachowych, o których mowa w pkt 12 części III załącznika II do dyrektywy 2009/48/WE, w grach zapachowych, zestawach kosmetycznych i grach smakowych, pod warunkiem że:
 3.10.1. są one wyraźnie oznakowane na opakowaniu, a opakowanie zawiera ostrzeżenie określone w pkt 7.11;
 3.10.2. jeżeli ma to zastosowanie, wyroby wytworzone zgodnie z instrukcją przez dziecko spełniają wymagania określone w rozporządzeniu o kosmetykach;
@@ -224,7 +229,7 @@ Gry zapachowe, zestawy kosmetyczne i gry smakowe nie są przeznaczone dla dzieci
 5.2.1. zabawki z materiałów włókienniczych powinny być tak wyprodukowane, aby było możliwe ich upranie, z wyjątkiem zabawek zawierających mechanizm, który może ulec uszkodzeniu, jeżeli zostanie zamoczony;
 5.2.2. zabawki powinny spełniać wymagania określone w rozporządzeniu także po ich wyczyszczeniu lub upraniu zgodnie z instrukcjami producenta.
 6. Wymagania w zakresie radioaktywności
-6.1. Zabawki nie mogą naruszać wymogów określonych w art. 4 ust. 2 ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2023 r. poz. 1173).
+6.1. Zabawki nie mogą naruszać wymogów określonych w art. 4 ust. 2 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2023 r. poz. 1173).
 7. Wymagania dotyczące instrukcji i ostrzeżeń
 7.1. Ograniczenia w zakresie użytkowania, o których mowa w § 5 ust. 3 rozporządzenia, określają co najmniej minimalny lub maksymalny wiek użytkownika i, tam gdzie jest to właściwe, umiejętności użytkownika, maksymalną lub minimalną masę użytkowników oraz informację o konieczności zapewnienia, że zabawka musi być używana wyłącznie pod nadzorem osoby dorosłej.
 7.2.1. Zabawki, które mogą być niebezpieczne dla dzieci w wieku poniżej 36 miesięcy, są opatrzone ostrzeżeniem, takim jak: „Nieodpowiednie dla dzieci w wieku poniżej 36 miesięcy” lub „Nieodpowiednie dla dzieci w wieku poniżej 3 lat” lub ostrzeżeniem w formie następującego symbolu graficznego: Do ostrzeżenia dołącza się informację o szczególnych zagrożeniach, która może być umieszczona w instrukcji użytkowania.
@@ -323,15 +328,15 @@ ELEMENTY DEKLARACJI ZGODNOŚCI Deklaracja zgodności zawiera następujące eleme
 8. Informacje dodatkowe: Podpisano przez lub w imieniu: ….
 (miejsce i data wydania) (nazwisko, stanowisko) (podpis)
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Wymagania dla zabawek § 4. 1. Wymagania dla zabawek określa § 5 ust. 1 i 2 oraz pkt 1–6 załącznika nr 1 do rozporządzenia.
+#### Rozdział 2 Wymagania dla zabawek
 
-#### Rozdział 3 Procedury oceny zgodności § 6. Przed wprowadzeniem zabawki do obrotu w ramach procedury oceny zgodności przeprowadza się analizę zagrożeń chemicznych, fizycznych, mechanicznych, elektrycznych, palności, higieny i radioaktywnych, które zabawka może stwarzać, oraz dokonuje oceny ewentualnego narażenia na takie zagrożenia.
+#### Rozdział 3 Procedury oceny zgodności
 
-#### Rozdział 4 Zakres dokumentacji technicznej zabawek § 11. Dokumentacja techniczna zabawek zawiera wszystkie istotne dane lub informacje dotyczące środków zastosowanych przez producenta, zapewniające zgodność z wymaganiami określonymi w § 5 i pkt 1–6 załącznika nr 1 do rozporządzenia, w szczególności:
+#### Rozdział 4 Zakres dokumentacji technicznej zabawek
 
-#### Rozdział 5 Sposób oznakowania zabawek i elementy deklaracji zgodności § 12. 1. Zabawki powinny być opatrzone nazwą typu, numerem partii, serii lub modelu lub inną informacją umożliwiającą ich identyfikację lub, w przypadku gdy wielkość lub charakter zabawki to uniemożliwiają, wymagane informacje umieszcza się na opakowaniu lub w dokumencie załączonym do wyrobu.
+#### Rozdział 5 Sposób oznakowania zabawek i elementy deklaracji zgodności
 
-#### Rozdział 6 Przepisy przejściowe i końcowy § 15. 1. Zabawki wprowadzone do obrotu przed dniem wejścia w życie niniejszego rozporządzenia na podstawie przepisów dotychczasowych i spełniające ich wymagania mogą być nadal udostępniane na rynku.
+#### Rozdział 6 Przepisy przejściowe i końcowy
 

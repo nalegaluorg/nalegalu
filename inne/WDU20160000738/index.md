@@ -8,7 +8,7 @@ pos: 738
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dokumentach paszportowych
@@ -31,7 +31,20 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** rodzaje dokumentów paszportowych;
+- **2)** właściwość organów wydających dokumenty paszportowe;
+- **3)** okoliczności uzasadniające odmowę wydania lub unieważnienie dokumentu paszportowego;
+- **4)** zakres danych wpisywanych do dokumentu paszportowego;
+- **5)** zakres danych zawartych w ewidencjach paszportowych oraz sposób prowadzenia tych ewidencji i zasady udostępniania danych w nich gromadzonych oraz organy właściwe w tych sprawach.
+
 **Art. 2.** Ilekroć w ustawie mowa jest o:
+
+- **1)** danych biometrycznych – należy przez to rozumieć wizerunek twarzy i odciski palców umieszczone w dokumentach paszportowych w formie elektronicznej;
+- **2)** dokumencie paszportowym – należy przez to rozumieć: paszport, paszport tymczasowy, paszport dyplomatyczny, paszport służbowy Ministerstwa Spraw Zagranicznych;
+- **3)** organie paszportowym – należy przez to rozumieć ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zagranicznych, wojewodę i konsula;
+- **4)** sporządzeniu dokumentu paszportowego – należy przez to rozumieć przeniesienie danych osobowych i biometrycznych osoby ubiegającej się o wydanie dokumentu paszportowego do książeczki paszportowej w postaci graficznej i elektronicznej;
+- **5)** utracie dokumentu paszportowego – należy przez to rozumieć fizyczną utratę dokumentu przez osobę, dla której został sporządzony, która nastąpiła w szczególności w wyniku zagubienia lub przestępstwa;
+- **6)** zniszczeniu dokumentu paszportowego – należy przez to rozumieć zniszczenie dokumentu w stopniu utrudniającym identyfikację osoby, dla której został sporządzony, lub stwierdzenie autentyczności dokumentu.
 
 **Art. 3.** Każdy obywatel polski ma prawo do otrzymania paszportu. Pozbawienie lub ograniczenie tego prawa może nastąpić wyłącznie w przypadkach przewidzianych w ustawie.
 
@@ -73,6 +86,11 @@ source: "isap-pdf"
 - **2)** w przypadku rodziców i małżonków rodziców 50% – kwoty określonej w przepisach wydanych na podstawie art. 11 ust. 1.
 
 **Art. 9.** Nie pobiera się opłaty za wydanie paszportu od:
+
+- **1)** osób, które w dniu złożenia wniosku o wydanie paszportu mają ukończone 70 lat;
+- **2)** osób, o których mowa w art. 8 ust. 1 pkt 2, jeżeli ich wyjazd za granicę następuje w celu długotrwałego leczenia lub w związku z koniecznością poddania się operacji;
+- **3)** osób, które złożyły wniosek o wymianę paszportu z powodu jego wady technicznej;
+- **4)** żołnierzy wyznaczonych do pełnienia służby poza granicami państwa, z wyjątkiem żołnierzy zawodowych.
 
 **Art. 10.**
 
@@ -207,6 +225,11 @@ source: "isap-pdf"
 **Art. 21.** (uchylony)
 
 **Art. 22.** W wyjątkowych sytuacjach dotyczących osoby występującej o paszport, w szczególności uzasadnionych:
+
+- **1)** względami ochrony życia i zdrowia tej osoby,
+- **2)** poważnymi trudnościami w prowadzeniu przez nią działalności humanitarnej,
+- **3)** posiadaniem w paszporcie wiz lub pieczęci potwierdzających przekraczanie granicy państw lub pobyt na ich terytorium, co uniemożliwia lub znacznie utrudnia wjazd na terytorium innego państwa,
+- **4)** względami bezpieczeństwa państwa – po uprawdopodobnieniu tych okoliczności, tej samej osobie można wydać drugi paszport, z tym że okres jego ważności wynosi 2 lata od daty jego wydania.
 
 **Art. 23.**
 
@@ -444,6 +467,13 @@ source: "isap-pdf"
 3. Organy paszportowe przekazują, w formie elektronicznej, do centralnej ewidencji dane z ewidencji paszportowych niezwłocznie po podjęciu decyzji o wydaniu, odmowie wydania lub unieważnieniu dokumentu paszportowego.
 
 **Art. 50.** W ewidencjach paszportowych wpisuje się dane określone w art. 18 ust. 1 i art. 25 oraz:
+
+- **1)** datę złożenia wniosku o wydanie dokumentu paszportowego;
+- **2)** informację o odmowie wydania dokumentu paszportowego z powodów, o których mowa w art. 17 ust. 1;
+- **3)** datę wydania decyzji i przyczynę unieważnienia dokumentu paszportowego;
+- **3a)** informację o zastosowaniu oraz uchyleniu lub zmianie przez uprawniony organ środka zapobiegawczego w postaci zakazu opuszczania kraju połączonego z zatrzymaniem dokumentu paszportowego lub o tymczasowym zatrzymaniu dokumentu paszportowego przez uprawniony organ;
+- **4)** datę utraty ważności dokumentu paszportowego;
+- **5)** numer akt sprawy o wydanie dokumentu paszportowego.
 
 **Art. 50a.**
 

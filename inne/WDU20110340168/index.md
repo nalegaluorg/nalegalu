@@ -8,7 +8,7 @@ pos: 168
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o organizacji rynku rybnego
@@ -33,9 +33,26 @@ Art. 46–47a. (uchylone)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania i właściwość organów i jednostek organizacyjnych w zakresie organizacji rynku rybnego uregulowanej przepisami: ustanawiającego wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa, zmieniającego rozporządzenia (WE) nr 847/96, (WE) nr 2371/2002, (WE) nr 811/2004, (WE) nr 768/2005, (WE) nr 2115/2005, (WE) nr 2166/2005, (WE) nr 388/2006, (WE) nr 509/2007, (WE) nr 676/2007, (WE) nr 1098/2007, (WE) nr 1300/2008, (WE) nr 1342/2008 i uchylającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1627/94 oraz (WE) nr 1966/2006 (Dz. Urz. UE L 343 z 22.12.2009, str. 1), zwanego dalej „rozporządzeniem nr 1224/2009”, ustanawiającego wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania, zmieniającego rozporządzenia (EWG) nr 2847/93, (WE) nr 1936/2001 i (WE) nr 601/2004 oraz uchylającego rozporządzenia (WE) nr 1093/94 i (WE) nr 1447/1999 (Dz. Urz. UE L 286 z 29.10.2008, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1005/2008”;
+    - **a)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1379/2013”, i w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia,
+    - **b)** rozporządzenia Rady (WE) nr 1224/2009 z dnia 20 listopada 2009 r.
+    - **c)** rozporządzenia wykonawczego Komisji (UE) nr 404/2011 z dnia 8 kwietnia 2011 r. ustanawiającego szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1224/2009 ustanawiającego wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa (Dz. Urz. UE L 112 z 30.04.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 404/2011”,
+    - **d)** rozporządzenia Rady (WE) nr 1005/2008 z dnia 29 września 2008 r.
+
+- **2)** wymagania dotyczące wprowadzania do obrotu produktów rybnych;
+- **3)** tryb uznawania i zasady funkcjonowania organizacji producentów sektora rybołówstwa i organizacji producentów sektora akwakultury, związków tych organizacji oraz organizacji międzybranżowych, o których mowa w rozporządzeniu nr 1379/2013;
+- **4)** tryb i formy wykonywania kontroli w zakresie organizacji rynku rybnego;
+- **5)** (uchylony)
+- **6)** właściwość organów w zakresie realizacji obowiązków informacyjnych i sprawozdawczych państwa członkowskiego dotyczących organizacji rynku rybnego.
+
 **Art. 2.** Przepisy ustawy nie naruszają przepisów o bezpieczeństwie żywności i żywienia oraz przepisów o produktach pochodzenia zwierzęcego.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** producent – producenta w rozumieniu art. 5 lit. c rozporządzenia nr 1379/2013;
+- **2)** (uchylony)
+- **3)** produkty rybne – produkty rybołówstwa, o których mowa w art. 5 lit. a rozporządzenia nr 1379/2013, oraz produkty akwakultury, o których mowa w art. 5 lit. b rozporządzenia nr 1379/2013;
+- **4)** organizacja producentów – organizację producentów sektora rybołówstwa lub organizację producentów sektora akwakultury.
 
 **Art. 4.** Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że przepisy ustawy stanowią inaczej.
 
@@ -224,6 +241,16 @@ Art. 46–47a. (uchylone)
 
 **Art. 16.** Minister właściwy do spraw rybołówstwa, w drodze decyzji, wykreśla przedsiębiorcę z rejestru skupujących w przypadku:
 
+- **1)** zakazania przedsiębiorcy prowadzenia działalności podlegającej wpisowi do rejestru skupujących na podstawie ostatecznej decyzji powiatowego lekarza weterynarii, wydanej w trybie przepisów o produktach pochodzenia zwierzęcego;
+- **2)** gdy przedsiębiorca, będąc do tego obowiązanym:
+    - **a)** nie wystawia: – dokumentu sprzedaży, o którym mowa w art. 62 ust. 1 lub art. 63 ust. 1 rozporządzenia nr 1224/2009, zwanego dalej „dokumentem sprzedaży”, lub – deklaracji przejęcia, o której mowa w art. 66 ust. 1 rozporządzenia nr 1224/2009, zwanej dalej „deklaracją przejęcia”,
+    - **b)** wystawia: – dokument sprzedaży z naruszeniem wymagań określonych w art. 62 ust. 1, art. 63 ust. 1 lub art. 64 ust. 1 rozporządzenia nr 1224/2009, – deklarację przejęcia z naruszeniem wymagań określonych w art. 66 ust. 1 lub 3 lub art. 67 ust. 1 rozporządzenia nr 1224/2009,
+    - **c)** nie przechowuje dokumentu sprzedaży lub deklaracji przejęcia przez okres, o którym mowa w art. 18 ust. 3 – oraz w okresie ostatnich dwóch lat dwukrotnie została na niego nałożona kara pieniężna z tytułu niewykonania tych obowiązków;
+
+- **2a)** gdy przedsiębiorca w okresie dwóch lat od dnia wpisania do rejestru skupujących nie rozpoczął działalności gospodarczej polegającej na skupie od producentów produktów rybołówstwa albo w okresie dwóch lat od dnia przekazania ostatniego dokumentu sprzedaży Głównemu Inspektorowi Rybołówstwa Morskiego nie prowadził skupu, co zostało potwierdzone danymi z elektronicznego systemu raportowania połowów, o którym mowa w przepisach o rybołówstwie;
+- **3)** dokonania zgłoszenia, o którym mowa w art. 15 ust. 1 pkt 3.
+- **4)** (uchylony)
+
 **Art. 17.**
 
 1. Przedsiębiorca może ponownie wystąpić z wnioskiem o wpis do rejestru skupujących po upływie roku od dnia, w którym decyzja o wykreśleniu z tego rejestru stała się ostateczna.
@@ -357,6 +384,12 @@ Art. 46–47a. (uchylone)
 **Art. 28.** Minister właściwy do spraw rybołówstwa odmawia, w drodze decyzji, uznania organizacji producentów, w przypadku gdy nie są spełnione wymagania, o których mowa w art. 14 ust. 1 rozporządzenia nr 1379/2013, oraz w przypadku gdy nie upłynął okres, o którym mowa w art. 34 ust. 3.
 
 **Art. 29.** Organizacja producentów jest obowiązana do przedkładania ministrowi właściwemu do spraw rybołówstwa:
+
+- **1)** informacji o zmianie danych zawartych w rejestrze, o którym mowa w art. 24 ust. 4 pkt 1, oraz innych danych mających znaczenie dla jej uznania – w terminie 30 dni od dnia zaistnienia tych zmian;
+- **2)** planu produkcji i obrotu, o którym mowa w art. 28 ust. 2 rozporządzenia nr 1379/2013, zwanego dalej „planem produkcji i obrotu”, w terminie określonym w art. 2 ust. 1 rozporządzenia wykonawczego Komisji (UE) nr 1418/2013 z dnia 17 grudnia 2013 r. dotyczącego planów produkcji i obrotu zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1379/2013 w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury (Dz. Urz. UE L 353 z 28.12.2013, str. 40), zwanego dalej „rozporządzeniem nr 1418/2013”;
+- **3)** zmian planu produkcji i obrotu – niezwłocznie po dokonaniu zmiany zgodnie z art. 28 ust. 4 rozporządzenia nr 1379/2013;
+- **4)** (uchylony)
+- **5)** rocznego sprawozdania ze swojej działalności w ramach planu produkcji i obrotu, o którym mowa w art. 28 ust. 5 rozporządzenia nr 1379/2013, zwanego dalej „sprawozdaniem rocznym” – w terminie nie dłuższym niż siedem tygodni od zakończenia roku połowowego.
 
 **Art. 30.**
 
@@ -538,7 +571,40 @@ Art. 46–47a. (uchylone)
 
 **Art. 60.** Minister właściwy do spraw rybołówstwa:
 
+- **1)** zatwierdza i przyjmuje:
+    - **a)** dokument statystyczny, o którym mowa w art. 4 ust. 1 rozporządzenia Rady (WE) nr 1984/2003 z dnia 8 kwietnia 2003 r. wprowadzającego system w odniesieniu do statystycznego monitorowania handlu tuńczykiem błękitnopłetwym, włócznikiem i opastunem wewnątrz Wspólnoty (Dz. Urz. UE L 295 z 13.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 4, t. 6, str. 51), zwanego dalej „rozporządzeniem nr 1984/2003”,
+    - **b)** certyfikat powrotnego wywozu, o którym mowa w art. 6 ust. 1 rozporządzenia nr 1984/2003, oraz przesyła jego kopię państwu będącemu państwem bandery statku rybackiego lub państwem wywozu, zgodnie z art. 6 ust. 3 tego rozporządzenia,
+    - **c)** dokument połowowy, o którym mowa w art. 3 ust. 1 rozporządzenia nr 640/2010,
+    - **d)** certyfikat powrotnego wywozu tuńczyka błękitnopłetwego, o którym mowa w art. 7 rozporządzenia nr 640/2010;
+
+- **2)** zatwierdza:
+    - **a)** dokument statystyczny, o którym mowa w art. 5 ust. 1 rozporządzenia nr 1984/2003, i przesyła jego kopię państwu członkowskiemu będącemu państwem bandery statku rybackiego,
+    - **b)** dokumentację, o której mowa w art. 15 ust. 1 i art. 16 rozporządzenia Rady (WE) nr 1035/2001 z dnia 22 maja 2001 r. ustanawiającego system dokumentacji połowów dla Dissostichus spp. (Dz. Urz. WE L 145 z 31.05.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 11, t. 37, str. 299, z późn. zm.), zwanego dalej „rozporządzeniem nr 1035/2001”;
+
+- **3)** przekazuje:
+    - **a)** informacje, o których mowa w art. 5 ust. 4 i art. 8–10 rozporządzenia nr 1984/2003,
+    - **b)** informacje, o których mowa w art. 13 ust. 3 i art. 15 ust. 3 rozporządzenia nr 1035/2001,
+    - **c)** dane, o których mowa w art. 22 rozporządzenia nr 1035/2001,
+    - **d)** kopie dokumentacji połowów lub kopie dokumentów, o których mowa w art. 20 rozporządzenia nr 1035/2001,
+    - **e)** numer potwierdzenia, o którym mowa w art. 9 rozporządzenia nr 1035/2001,
+    - **f)** kopie potwierdzonych dokumentów połowowych lub certyfikatów powrotnego wywozu, o których mowa w art. 8 rozporządzenia nr 640/2010,
+    - **g)** informacje, o których mowa w art. 10 rozporządzenia nr 640/2010;
+
+- **4)** wydaje:
+    - **a)** formularze dokumentacji połowów, o których mowa w art. 6 rozporządzenia nr 1035/2001,
+    - **b)** zatwierdzoną dokumentację połowów, o której mowa w art. 22a rozporządzenia nr 1035/2001,
+    - **c)** formularze dokumentów połowowych, o których mowa w art. 3 ust. 8 rozporządzenia nr 640/2010;
+
+- **5)** przyjmuje:
+    - **a)** informacje, o których mowa w art. 8 ust. 2 lit. d rozporządzenia nr 1035/2001,
+    - **b)** dokumenty i kopie dokumentów, o których mowa w art. 10 ust. 3, art. 11 i art. 12 ust. 3 rozporządzenia nr 1035/2001;
+
+- **6)** dokonuje notyfikacji, o której mowa w art. 21 rozporządzenia nr 1035/2001.
+
 **Art. 61.** Główny Inspektor Rybołówstwa Morskiego dokonuje:
+
+- **1)** kontroli posiadania wymaganej dokumentacji połowów w przypadkach, o których mowa w art. 4 i 5 rozporządzenia nr 1035/2001, oraz należytego jej wypełniania;
+- **2)** zatwierdzenia dokumentacji połowów, o którym mowa w art. 10 ust. 1 lit. b oraz art. 12 ust. 1 tiret pierwsze rozporządzenia nr 1035/2001.
 
 **Art. 62.**
 
@@ -722,6 +788,11 @@ Art. 46–47a. (uchylone)
 **Art. 68.** (pominięty)
 
 **Art. 69.** Rejestry:
+
+- **1)** przedsiębiorców skupujących produkty rybne,
+- **2)** organizacji producentów rybnych objętych pomocą finansową,
+- **3)** organizacji międzybranżowych,
+- **4)** związków organizacji producentów rybnych – prowadzone na podstawie przepisów dotychczasowych stają się odpowiednio rejestrami, o których mowa w art. 13 ust. 1 i art. 24 ust. 4.
 
 **Art. 70.**
 

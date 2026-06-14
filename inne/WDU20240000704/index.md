@@ -8,10 +8,10 @@ pos: 704
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 maja 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 704 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 25 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000704) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/704/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 25 kwietnia 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie opiniowania służbowego policjantów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2020 r. poz. 1102), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. zmieniającym rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 1686);
@@ -39,7 +38,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 3) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 767), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
 4) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 1411), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.”.
 Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 30 sierpnia 2010 r.
-w sprawie opiniowania służbowego policjantów Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145) zarządza się, co następuje: § 1. Rozporządzenie określa wzór formularza opinii służbowej, zwanej dalej „opinią”, oraz szczegółowe zasady i tryb okresowego opiniowania służbowego policjantów, zwanego dalej „opiniowaniem”.
+w sprawie opiniowania służbowego policjantów Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wzór formularza opinii służbowej, zwanej dalej „opinią”, oraz szczegółowe zasady i tryb okresowego opiniowania służbowego policjantów, zwanego dalej „opiniowaniem”.
 § 2. Opiniowanie policjanta, zwanego dalej „opiniowanym”, ma w szczególności:
 1) ustalać przydatność policjanta na zajmowanym stanowisku służbowym oraz przydatność do służby;
 2) motywować policjanta do sprawnego wykonywania zadań i czynności służbowych;
@@ -138,7 +138,7 @@ b) policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jeg
 18) przełożony właściwy w sprawach osobowych, w stosunku do policjanta zwolnionego z obowiązku wykonywania zadań służbowych na zasadach określonych w przepisach o związkach zawodowych, w dyspozycji którego pozostaje policjant.
 § 6. 1. Wydający opinię sporządza ją samodzielnie lub przy pomocy upoważnionych przełożonych opiniowanego.
 1a. Jeżeli okres służby, za który policjant jest opiniowany, obejmuje okres oddelegowania do pełnienia zadań służbowych poza Policją w kraju lub za granicą, przed sporządzeniem opinii Komendant Główny Policji lub upoważniona przez niego osoba z inicjatywy własnej lub wydającego opinię, o którym mowa w § 5 pkt 1 i 3–15, może zwrócić się z wnioskiem, o którym mowa w art. 36ma ustawy z dnia 6 kwietnia 1990 r. o Policji, zwanej dalej „ustawą”.
-1b. We wniosku, o którym mowa w art. 36ma ustawy, wskazuje się wydającego opinię, do którego powinny zostać przesłane informacje, oraz termin ich przekazania nie krótszy niż 7 dni i nie dłuższy niż 14 dni od dnia wpływu wniosku do urzędu, jednostki organizacyjnej lub służby, do których oddelegowano opiniowanego.
+1b. We wniosku, o którym mowa w art. 36ma ustawy, wskazuje się wydającego opinię, do którego powinny zostać przesłane informacje, oraz termin ich przekazania – nie krótszy niż 7 dni i nie dłuższy niż 14 dni od dnia wpływu wniosku do urzędu, jednostki organizacyjnej lub służby, do których oddelegowano opiniowanego.
 2. Wydający opinię lub upoważniony przez niego przełożony opiniowanego przed sporządzeniem opinii przeprowadza z opiniowanym rozmowę, podczas której omawia:
 1) główne obowiązki wykonywane przez opiniowanego w okresie podlegającym ocenie oraz sposób ich realizacji, uwzględniając, czy opiniowany spełnia kryteria, o których mowa w § 4 ust. 1;
 2) trudności, jakie napotkał opiniowany w trakcie realizacji zadań;
@@ -150,7 +150,7 @@ b) policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jeg
 4. Sporządzenie opinii następuje nie później niż w ciągu 14 dni od rozmowy, o której mowa w ust. 2.
 5. Wydający opinię lub upoważniony przez niego przełożony opiniowanego zapoznają opiniowanego z opinią w ciągu 14 dni od jej sporządzenia, podczas rozmowy.
 6. Opinię sporządza się w dwóch egzemplarzach. Jeden egzemplarz włącza się do akt osobowych policjanta, a drugi wręcza się opiniowanemu podczas rozmowy, o której mowa w ust. 5. Fakt otrzymania opinii opiniowany potwierdza podpisem. Jeśli opiniowany odmawia złożenia podpisu, jego przełożony, który zapoznaje go z opinią, sporządza stosowną adnotację.
-7. W przypadku niemożności bezpośredniego zapoznania opiniowanego dowódcy kontyngentu policyjnego albo policjanta oddelegowanego do pełnienia zadań służbowych poza Policją w kraju lub za granicą z opinią, o której mowa w ust. 5, i jej osobistego wręczenia opinię tę doręcza się opiniowanemu za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467).
+7. W przypadku niemożności bezpośredniego zapoznania opiniowanego dowódcy kontyngentu policyjnego albo policjanta oddelegowanego do pełnienia zadań służbowych poza Policją w kraju lub za granicą z opinią, o której mowa w ust. 5, i jej osobistego wręczenia opinię tę doręcza się opiniowanemu za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467).
 8. W przypadku, o którym mowa w ust. 7, na wniosek opiniowanego opinia może być doręczona mu przy wykorzystaniu środków komunikacji elektronicznej. Otrzymanie opinii opiniowany potwierdza w oświadczeniu, które może być złożone przy wykorzystaniu środków komunikacji elektronicznej.
 9. Pokwitowanie, o którym mowa w ust. 7, lub oświadczenie, o którym mowa w ust. 8, włącza się do akt osobowych policjanta.
 10. Przepisy ust. 2a, 3a, 3b i 7–9 stosuje się odpowiednio do policjanta odbywającego zagraniczną podróż służbową trwającą dłużej niż miesiąc.
@@ -201,15 +201,14 @@ Zadania realizuje prawidłowo z uwzględnieniem nakładu pracy oraz czasu właś
 Ma właściwy stosunek do realizowanych zadań służbowych, lecz nie zawsze wykonuje je prawidłowo. 3 Popełnia błędy, które stara się naprawiać. Wymaga kontroli jakości pracy.
 Mimo właściwego stosunku do realizowanych zadań służbowych wymaga stałego nadzoru i instruktażu. 2 Popełnia liczne błędy, których sam nie potrafi naprawić. Wymaga stałej kontroli jakości pracy.
 Ma niewłaściwy stosunek do wykonywanych zadań. Mimo nadzoru i instruktażu realizuje zadania na 1 niskim poziomie lub fragmentarycznie, nie wykazuje troski o jakość pracy.
-2. Samodzielność i inicjatywa ‒ umiejętność działania bez angażowania innych osób oraz konieczności nadzoru przełożonych, zdolność do samodzielnego wyszukiwania i zdobywania informacji, formułowania wniosków i proponowania rozwiązań w celu wykonania zleconego zadania, podejmowanie odpowiedzialności za działania OPISOWA SKALA OCEN OCENA 1 2 Zdolny do efektywnego samodzielnego działania, wykonując złożone, niestandardowe zadania, dobiera właściwe metody i środki, proponuje nowe rozwiązania, które są wykorzystywane przez innych.
-Cechuje go wysoka odpowiedzialność za siebie i gotowość do podjęcia odpowiedzialności za współpracowników.
-6 Samodzielny w działaniu, dobiera metody i środki adekwatne do realizowanych zadań, także 5 niestandardowych, proponuje rozwiązania. Bierze odpowiedzialność za efekty swoich działań.
+2. Samodzielność i inicjatywa ‒ umiejętność działania bez angażowania innych osób oraz konieczności nadzoru przełożonych, zdolność do samodzielnego wyszukiwania i zdobywania informacji, formułowania wniosków i proponowania rozwiązań w celu wykonania zleconego zadania, podejmowanie odpowiedzialności za działania OPISOWA SKALA OCEN OCENA 1 2 Zdolny do efektywnego samodzielnego działania, wykonując złożone, niestandardowe zadania, dobiera właściwe metody i środki, proponuje nowe rozwiązania, które są wykorzystywane przez innych. 6 Cechuje go wysoka odpowiedzialność za siebie i gotowość do podjęcia odpowiedzialności za współpracowników.
+Samodzielny w działaniu, dobiera metody i środki adekwatne do realizowanych zadań, także 5 niestandardowych, proponuje rozwiązania. Bierze odpowiedzialność za efekty swoich działań.
 Zdolny do samodzielnego działania, wykonuje zróżnicowane zadania, proponuje rozwiązania. Potrzebuje 4 wsparcia przy niestandardowych zadaniach. Cechuje go odpowiedzialność.
 Samodzielnie realizuje proste zadania, wymaga nadzoru w trudniejszych. Korzysta z gotowych wzorców rozwiązania. Nie podejmuje inicjatywy w realizacji kolejnych etapów zadania. Na ogół czuje się 3 odpowiedzialny za pracę.
 Na ogół nie działa samodzielnie, wymaga stałej pomocy. Niechętnie poszukuje informacji. Nie czuje się 2 odpowiedzialny za podejmowane działania.
 Nie potrafi działać samodzielnie, bez angażowania innych osób. Nie poszukuje informacji. Nie podejmuje 1 działań i odpowiedzialności za nie.
 3. Terminowość ‒ dbałość o przestrzeganie terminów określonych przepisami dotyczących wykonywanych zadań, wywiązywanie się z zadań w wyznaczonym przez przełożonego terminie, wykonywanie obowiązków bez zbędnej zwłoki OPISOWA SKALA OCEN OCENA 1 2 Zawsze dotrzymuje terminów realizacji lub je wyprzedza. 6 Zawsze dotrzymuje terminów realizacji. 5 Na ogół przestrzega terminów realizacji. 4 Często nie przestrzega terminów realizacji. 3 Na ogół nie przestrzega terminów realizacji. 2 Ignoruje terminy realizacji. 1
-4. Planowanie i organizowanie pracy umiejętność planowania działań, sposobów ich realizacji i organizowania pracy w celu wykonania zadań, ustalanie priorytetów, dostosowanie planów i organizacji pracy do zmieniających się okoliczności, efektywne wykorzystywanie czasu OPISOWA SKALA OCEN OCENA 1 2 Bardzo sprawnie klasyfikuje zadania i prawidłowo ustala kolejność ich realizacji. Posiada umiejętność planowania wariantów złożonych, z uwzględnieniem zmieniających się okoliczności. Tworzy algorytmy 6 do ogólnego stosowania.
+4. Planowanie i organizowanie pracy – umiejętność planowania działań, sposobów ich realizacji i organizowania pracy w celu wykonania zadań, ustalanie priorytetów, dostosowanie planów i organizacji pracy do zmieniających się okoliczności, efektywne wykorzystywanie czasu OPISOWA SKALA OCEN OCENA 1 2 Bardzo sprawnie klasyfikuje zadania i prawidłowo ustala kolejność ich realizacji. Posiada umiejętność planowania wariantów złożonych, z uwzględnieniem zmieniających się okoliczności. Tworzy algorytmy 6 do ogólnego stosowania.
 Sprawnie klasyfikuje zadania i prawidłowo ustala kolejność ich realizacji. Posiada umiejętność 5 planowania wariantowego, z uwzględnieniem zmieniających się okoliczności.
 Prawidłowo klasyfikuje zadania o zróżnicowanym stopniu trudności i ustala kolejność ich realizacji. 4 Posiada umiejętność prawidłowego planowania własnej pracy adekwatnie do okoliczności.
 Dość dobra organizacja pracy własnej. Potrafi sklasyfikować zadania i prawidłowo ustalić kolejność 3 realizacji w sprawach prostych. Posiada umiejętność prawidłowego planowania własnej pracy.
@@ -230,10 +229,10 @@ Potrafi pracować w zespole i docenia wagę współpracy. Czasami obciąża wła
 Wyraża wolę współpracy w zespole, lecz niewiele wnosi do przebiegu wspólnych prac. Często obciąża własnymi zadaniami i czynnościami pozostałych członków zespołu lub jest bardziej nastawiony na 2 rywalizację niż na współpracę.
 Nie potrafi współpracować w zespole. Przedkłada własny interes nad interes zespołu. Wykazuje bierność 1 w realizowaniu wspólnych celów.
 3. Kultura osobista ‒ dbałość o kulturę języka i wygląd zewnętrzny, realizacja funkcji usługowej swojego stanowiska, tworzenie przyjaznej atmosfery, umożliwianie interesantom przedstawienia własnych racji, służenie pomocą OPISOWA SKALA OCEN OCENA 1 2 Uważny i pełen szacunku, taktowny i uczynny. Służy pomocą w stopniu przekraczającym jego obowiązki.
-Cechuje go bardzo wysoka kultura osobista. Swój styl dopasowuje do charakteru pracy i zajmowanego stanowiska. Stanowi wzór do naśladowania.
-6 Bardzo uprzejmy, taktowny i skłonny do daleko idącej pomocy. Cechuje go wysoka kultura osobista. 5 Chwalony przez interesantów.
-Przyjazny, otwarty, taktowny i chętny do pomocy. Przykłada wagę do kultury języka i wyglądu zewnętrznego. Umożliwia interesantom przedstawianie własnych racji.
-4 1 2 Poprawna kultura języka i wygląd zewnętrzny. Nie zawsze chętny do pomocy. Zazwyczaj przyjazny, 3 ale często okazuje zniecierpliwienie.
+Cechuje go bardzo wysoka kultura osobista. Swój styl dopasowuje do charakteru pracy i zajmowanego 6 stanowiska. Stanowi wzór do naśladowania.
+Bardzo uprzejmy, taktowny i skłonny do daleko idącej pomocy. Cechuje go wysoka kultura osobista. 5 Chwalony przez interesantów.
+Przyjazny, otwarty, taktowny i chętny do pomocy. Przykłada wagę do kultury języka i wyglądu 4 zewnętrznego. Umożliwia interesantom przedstawianie własnych racji.
+1 2 Poprawna kultura języka i wygląd zewnętrzny. Nie zawsze chętny do pomocy. Zazwyczaj przyjazny, 3 ale często okazuje zniecierpliwienie.
 Na ogół dba o kulturę języka i wygląd zewnętrzny. Czasami traktuje interesantów w sposób przedmiotowy. 2 Obojętny wobec potrzeb interesantów.
 Nie dba o kulturę języka i wygląd zewnętrzny. Interesantów traktuje w sposób przedmiotowy. Niechętny 1 do pomocy, lekceważący wobec interesantów.
 4. Dyspozycyjność ‒ gotowość podejmowania zadań dodatkowych; zdolność realizacji zadań i czynności poza czasem służby OPISOWA SKALA OCEN OCENA 1 2 W pełni dyspozycyjny w czasie i poza czasem służby, często realizuje zadania służbowe w czasie wolnym 6 od służby.
@@ -245,29 +244,27 @@ III. KOMPETENCJE KIEROWNICZE
 Kieruje zespołem, w którym wprowadził dobrą atmosferę pracy. Stosuje efektywne metody motywowania pracowników, skoncentrowane na realizacji celu. Potrafi rozwiązywać konflikty. Posiada wysoką 5 umiejętność argumentowania, przekonywania, perswazji.
 Wspiera podwładnych i dba o atmosferę pracy, podwładni potrafią pracować zespołowo. Stosuje różne metody motywowania pracowników, skoncentrowane na realizacji celu. Nie stwarza sytuacji 4 konfliktowych. Posiada umiejętność argumentowania, przekonywania, perswazji.
 Stara się wspierać podwładnych i dbać o atmosferę pracy w zespole. Stosuje sposoby motywowania, które nie zawsze są efektywne, ale na ogół skoncentrowane na realizacji celu. Na ogół nie stwarza sytuacji 3 konfliktowych.
-Nie potrafi skutecznie wspierać podwładnych. Nie zawsze wykorzystuje możliwości poprawienia atmosfery pracy w zespole. Stosowane sposoby motywowania podwładnych nie są efektywne lub nie są skoncentrowane na realizacji celu. Stwarza sytuacje konfliktowe.
-2 Nie daje dobrego przykładu, nie motywuje pracowników. Wprowadza złą atmosferę w zespole, nie wspiera podwładnych w realizacji celu. Prowokuje konflikty.
-1
+Nie potrafi skutecznie wspierać podwładnych. Nie zawsze wykorzystuje możliwości poprawienia atmosfery pracy w zespole. Stosowane sposoby motywowania podwładnych nie są efektywne lub nie są 2 skoncentrowane na realizacji celu. Stwarza sytuacje konfliktowe.
+Nie daje dobrego przykładu, nie motywuje pracowników. Wprowadza złą atmosferę w zespole, nie 1 wspiera podwładnych w realizacji celu. Prowokuje konflikty.
 2. Radzenie sobie w sytuacjach kryzysowych ‒ umiejętność dostosowania działań do szybko zmieniających się warunków i sytuacji, stanowczego i zdecydowanego działania skierowanego na rozwiązanie problemu, zachowania się w sytuacjach nietypowych OPISOWA SKALA OCEN OCENA 1 2 Sprawnie dostosowuje działania do zmieniających się warunków. Utrzymuje wysoką jakość pracy w sytuacjach kryzysowych. Potrafi przewidywać potencjalne problemy i minimalizować ich negatywne 6 skutki.
 Dostosowuje działania do zmieniających się warunków. Utrzymuje jakość pracy w sytuacjach 5 kryzysowych. Wyciąga wnioski i potrafi wykorzystać je w przyszłości.
 Posiada umiejętność działania w sytuacjach kryzysowych. Działa w sposób zdecydowany, skierowany na 4 rozwiązanie problemu.
 Posiada skłonność do unikania samodzielnego działania w sytuacjach kryzysowych. Najlepiej działa pod 3 czyimś kierunkiem.
-Unika samodzielnego działania w sytuacjach kryzysowych. Popełnia błędy w działaniu. 2 W sytuacjach kryzysowych jego działanie się dezorganizuje. Jego błędy powodują nasilenie skutków zdarzenia.
-1
+Unika samodzielnego działania w sytuacjach kryzysowych. Popełnia błędy w działaniu. 2 W sytuacjach kryzysowych jego działanie się dezorganizuje. Jego błędy powodują nasilenie skutków 1 zdarzenia.
 3. Kreatywność ‒ umiejętność tworzenia nowych rozwiązań oraz doskonalenia już istniejących; inicjowanie zmian oraz otwartość na nie; poszukiwanie i dostrzeganie obszarów wymagających zmian oraz sygnalizowanie o nich OPISOWA SKALA OCEN OCENA 1 2 Tworzy propozycje rozwiązań przy użyciu różnorodnych środków o strategicznym znaczeniu. Inicjuje 6 i potrafi koordynować działania w obszarach wymagających zmian.
 Tworzy nowe rozwiązania przy użyciu różnorodnych środków. Inicjuje działanie w obszarach 5 wymagających zmian.
 Potrafi wykorzystać umiejętności do doskonalenia istniejących rozwiązań. Dostrzega obszary 4 wymagające zmian i sygnalizuje o nich.
 Wdraża zaproponowane rozwiązania. Nie zawsze dostrzega obszary wymagające zmian. 3 Potrzebuje nadzoru przy wdrażaniu nowych rozwiązań. Przyjmuje istniejący stan rzeczy za najbardziej 2 optymalny, nie dostrzega obszarów wymagających zmian.
-W sposób zachowawczy i sztywny podchodzi do wdrażania nowych rozwiązań. Nie toleruje zmian. 1 WZÓR FORMULARZA OPINII SŁUŻBOWEJ OPINIA SŁUŻBOWA Dotyczy służby*: stałej, przygotowawczej, kandydackiej, kontraktowej Data sporządzenia opinii: Za okres służby: A. Dane opiniowanego Nazwisko: Imię (imiona): Data urodzenia: Stopień policyjny: Data przyjęcia do służby: Identyfikator: Wykształcenie: Kwalifikacje zawodowe: Nazwa zajmowanego stanowiska służbowego: Nazwa komórki organizacyjnej: Nazwa jednostki organizacyjnej Policji: B. Potwierdzenie przeprowadzenia rozmowy W dniu .................................................. została przeprowadzona rozmowa, o której mowa w § 6 ust. 2 rozporządzenia**.
+W sposób zachowawczy i sztywny podchodzi do wdrażania nowych rozwiązań. Nie toleruje zmian. 1 WZÓR FORMULARZA OPINII SŁUŻBOWEJ OPINIA SŁUŻBOWA Dotyczy służby*: stałej, przygotowawczej, kandydackiej, kontraktowej Data sporządzenia opinii: Za okres służby: A. Dane opiniowanego Nazwisko: Imię (imiona): Data urodzenia: Stopień policyjny: Data przyjęcia do służby: Identyfikator: Wykształcenie: Kwalifikacje zawodowe: Nazwa zajmowanego Nazwa komórki Nazwa jednostki stanowiska służbowego: organizacyjnej: organizacyjnej Policji: B. Potwierdzenie przeprowadzenia rozmowy W dniu .................................................. została przeprowadzona rozmowa, o której mowa w § 6 ust. 2 rozporządzenia**.
 C. Ocena opiniowanego Samoocena*** Ocena Lp. Kryterium przełożonego*** 1 2 3 4 5 6 1 2 3 4 5 6 REALIZACJA ZADAŃ I CZYNNOŚCI 1 Jakość 2 Samodzielność i inicjatywa 3 Terminowość 4 Planowanie i organizowanie pracy KOMPETENCJE OGÓLNE 1 Rozwój własny i podnoszenie kwalifikacji 2 Umiejętność współpracy 3 Kultura osobista 4 Dyspozycyjność KOMPETENCJE KIEROWNICZE**** 1 Dbałość o relacje międzyludzkie 2 Radzenie sobie w sytuacjach kryzysowych 3 Kreatywność D. Propozycje dotyczące kierunków rozwoju zawodowego i potrzeb szkoleniowych opiniowanego ................................................................................................................................................................................................
 ................................................................................................................................................................................................
 ................................................................................................................................................................................................
 ................................................................................................................................................................................................
 ................................................................................................................................................................................................
-E. Wnioski końcowe dotyczące opiniowanego*** 1 Opinia pozytywna.  2 Nieprzydatny na zajmowanym stanowisku służbowym, może zostać przeniesiony na niższe stanowisko służbowe.
- 3 Nieprzydatny do służby.  4 Nie wywiązuje się z obowiązków służbowych ‒ pierwsza opinia służbowa o niewywiązywaniu się z obowiązków służbowych w okresie odbywania służby stałej.
- Nie wywiązuje się z obowiązków służbowych w związku z drugą opinią służbową o niewywiązywa5 niu się z obowiązków służbowych w okresie odbywania służby stałej może zostać przeniesiony na niższe stanowisko służbowe.
- 6 Nie wywiązuje się z obowiązków służbowych w związku z drugą opinią o niewywiązywaniu się z obowiązków służbowych w okresie odbywania służby stałej może zostać zwolniony ze służby.
- F. Potwierdzenie zapoznania się z opinią W dniu ........................................................... w trakcie rozmowy, o której mowa w § 6 ust. 5 rozporządzenia**, zostałem zapoznany z niniejszą opinią służbową i otrzymałem jej egzemplarz.
+E. Wnioski końcowe dotyczące opiniowanego*** 1 Opinia pozytywna.  2 Nieprzydatny na zajmowanym stanowisku służbowym, może zostać przeniesiony na niższe stanowisko  służbowe.
+3 Nieprzydatny do służby.  4 Nie wywiązuje się z obowiązków służbowych ‒ pierwsza opinia służbowa o niewywiązywaniu się  z obowiązków służbowych w okresie odbywania służby stałej.
+Nie wywiązuje się z obowiązków służbowych – w związku z drugą opinią służbową o niewywiązywa5 niu się z obowiązków służbowych w okresie odbywania służby stałej może zostać przeniesiony na niż-  sze stanowisko służbowe.
+6 Nie wywiązuje się z obowiązków służbowych – w związku z drugą opinią o niewywiązywaniu się  z obowiązków służbowych w okresie odbywania służby stałej może zostać zwolniony ze służby.
+F. Potwierdzenie zapoznania się z opinią W dniu ........................................................... w trakcie rozmowy, o której mowa w § 6 ust. 5 rozporządzenia**, zostałem zapoznany z niniejszą opinią służbową i otrzymałem jej egzemplarz.
 Jednocześnie pouczono mnie o możliwości złożenia odwołania od opinii służbowej w terminie 14 dni od zapoznania się z opinią do***** za pośrednictwem wydającego opinię.
 

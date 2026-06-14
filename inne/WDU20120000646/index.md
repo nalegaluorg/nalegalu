@@ -8,10 +8,10 @@ pos: 646
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 11 czerwca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 646 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 29 maja 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/646/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI dnia 29 maja 2012 r.
-sprawie wzorów formularzy do przekazywania informacji dyrektorom oddziałów terenowych Agencji Rynku Rolnego dostawcom hurtowym Na podstawie art. 10 ust. 2 ustawy dnia 20 kwietnia 2004 r. organizacji rynku mleka przetworów mlecznych (Dz. U.
-2009 r. Nr 11, poz. 65, późn. zm. ) zarządza się, co następuje: § 1. Określa się wzór formularza:
+w sprawie wzorów formularzy do przekazywania informacji dyrektorom oddziałów terenowych Agencji Rynku Rolnego i dostawcom hurtowym Na podstawie art. 10 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U.
+z 2009 r. Nr 11, poz. 65, z późn. zm. ) zarządza się, co następuje:
+§ 1. Określa się wzór formularza:
 1) miesięcznych informacji przekazywanych przez podmioty skupujące:
 a) dyrektorom oddziałów terenowych Agencji Rynku Rolnego, stanowiący załącznik nr 1 do rozporządzenia,
 b) dostawcom hurtowym, stanowiący załącznik nr 2 do rozporządzenia;
 2) rocznych informacji przekazywanych przez podmioty skupujące:
 a) dyrektorom oddziałów terenowych Agencji Rynku Rolnego, stanowiący załącznik nr 3 do rozporządzenia,
 b) dostawcom hurtowym, stanowiący załącznik nr 4 do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Rolnictwa Rozwoju Wsi dnia 7 kwietnia 2005 r. sprawie wzorów formularzy do przekazywania informacji dyrektorom oddziałów terenowych Agencji Rynku Rolnego dostawcom hurtowym (Dz. U. Nr 69, poz. 617).
-§ 3. Rozporządzenie wchodzi życie dniem ogłoszenia.
-Minister Rolnictwa Rozwoju Wsi: wz. K. Plocke ………………………………………………………… …… ………………………………………………………… … ……………………
+§ 2. Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 kwietnia 2005 r. w sprawie wzorów formularzy do przekazywania informacji dyrektorom oddziałów terenowych Agencji Rynku Rolnego i dostawcom hurtowym (Dz. U. Nr 69, poz. 617).
+§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Minister Rolnictwa i Rozwoju Wsi: wz. K. Plocke ………………………………………………………………… ………………………………………………………… …… …………………………………………………… ………………………………………………………… …………………… …
 

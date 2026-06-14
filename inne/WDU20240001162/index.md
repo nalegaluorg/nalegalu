@@ -8,7 +8,7 @@ pos: 1162
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych W celu przeciwdziałania uzależnieniu od używania tytoniu i wyrobów tytoniowych oraz ochrony zdrowia przed jego następstwami stanowi się, co następuje:
@@ -31,6 +31,77 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** aromat charakterystyczny – wyraźnie wyczuwalny zapach lub smak inny niż zapach lub smak tytoniu, wynikający z zastosowania dodatku lub kombinacji dodatków, w tym zapach lub smak owoców, przypraw, ziół, alkoholu, słodyczy, mentolu lub wanilii, który jest odczuwalny przed spożyciem wyrobu tytoniowego lub w trakcie spożywania;
+- **2)** cygaretka – rodzaj małego cygara o maksymalnej wadze jednostkowej 3 g;
+- **3)** cygaro – zrolowany tytoń, który może być spożywany w drodze procesu spalania, przeznaczony do palenia wyłącznie w postaci:
+    - **a)** tytoniu zrolowanego o zewnętrznym owinięciu z naturalnego tytoniu,
+    - **b)** tytoniu zrolowanego z poszarpanym, wymieszanym wkładem, owiniętego liściem tytoniu w naturalnym kolorze cygara z odtworzonego tytoniu pokrywającym wyrób w całości, łącznie z filtrem, tam, gdzie zachodzi taka konieczność, ale nie ustnik, w przypadku cygar z ustnikiem, gdzie waga sztuki, wyłączając filtr lub ustnik, wynosi nie mniej niż 2,3 g i nie więcej niż 10 g, a obwód równy przynajmniej jednej trzeciej długości wynosi nie mniej niż 34 mm;
+
+- **4)** dodatek – substancję inną niż tytoń, dodaną do wyrobu tytoniowego, jego opakowania jednostkowego lub opakowania zbiorczego;
+- **5)** dystrybutor – przedsiębiorcę uczestniczącego w procesie dostarczania lub udostępniania papierosów elektronicznych lub pojemników zapasowych na dowolnym etapie, którego działalność nie wpływa na właściwości wyrobów związane z bezpieczeństwem ich używania;
+- **6)** importer – właściciela wyrobów tytoniowych lub powiązanych wyrobów, które zostały wprowadzone na terytorium Unii Europejskiej, lub osobę mającą prawo do rozporządzania tymi wyrobami;
+- **7)** konsument – osobę fizyczną działającą w celach niezwiązanych z jej działalnością handlową, gospodarczą, rzemieślniczą lub zawodową;
+- **8)** maksymalny poziom – maksymalną ilość substancji, która może być zawarta w wyrobie tytoniowym, lub maksymalną ilość substancji wydzielanych przez wyrób tytoniowy mierzoną w miligramach, z tym że zawartość lub poziom może wynosić 0;
+- **9)** mieszane ostrzeżenie zdrowotne – ostrzeżenie zdrowotne składające się z połączenia ostrzeżenia tekstowego i odpowiadającej mu fotografii lub ilustracji;
+- **10)** nikotyna – alkaloidy nikotynowe;
+- **11)** nowatorski wyrób tytoniowy – wyrób tytoniowy inny niż papieros, tytoń do samodzielnego skręcania papierosów, tytoń fajkowy, tytoń do fajki wodnej, cygaro, cygaretka, tytoń do żucia, tytoń do nosa lub tytoń do stosowania doustnego;
+- **12)** opakowanie jednostkowe – najmniejsze wprowadzane do obrotu pojedyncze opakowanie wyrobu tytoniowego lub powiązanego wyrobu;
+- **13)** opakowanie zbiorcze – każde opakowanie, w którym wprowadza się do obrotu wyroby tytoniowe lub powiązane wyroby, zawierające opakowanie jednostkowe lub zbiór opakowań jednostkowych, z tym że przezroczyste osłony nie są uważane za opakowanie zbiorcze;
+- **14)** ostrzeżenie zdrowotne – ostrzeżenie dotyczące niekorzystnego wpływu wyrobu na zdrowie ludzkie lub innych niepożądanych konsekwencji jego spożycia, w tym ostrzeżenia tekstowe, mieszane ostrzeżenia zdrowotne, ostrzeżenia ogólne i wiadomości informacyjne;
+- **15)** palarnia – wyodrębnione konstrukcyjnie od innych pomieszczeń i ciągów komunikacyjnych pomieszczenie, odpowiednio oznaczone, służące wyłącznie do palenia wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych, lub papierosów elektronicznych, zaopatrzone w wywiewną wentylację mechaniczną lub system filtracyjny w taki sposób, aby dym tytoniowy, para z papierosów elektronicznych lub substancje uwalniane za pomocą nowatorskiego wyrobu tytoniowego nie przenikały do innych pomieszczeń;
+- **16)** palenie nowatorskich wyrobów tytoniowych – spożycie substancji uwalnianych za pomocą nowatorskiego wyrobu tytoniowego;
+- **17)** palenie papierosów elektronicznych – spożycie pary zawierającej nikotynę albo pary niezawierającej nikotyny, wydzielanych przez papieros elektroniczny;
+- **18)** pojemnik zapasowy – naczynie z płynem zawierającym nikotynę, który można wykorzystać do ponownego napełnienia papierosa elektronicznego, albo naczynie z płynem niezawierającym nikotyny, który jest przeznaczony do wykorzystania w papierosach elektronicznych;
+- **19)** papieros – zrolowany tytoń, który może być spożywany w drodze procesu spalania; za papierosy uznaje się:
+    - **a)** tytoń zrolowany nadający się do palenia w tej postaci, który nie jest cygarem albo cygaretką,
+    - **b)** tytoń zrolowany, który w drodze nieprzemysłowej obróbki jest umieszczany w tutkach z bibuły papierosowej,
+    - **c)** tytoń zrolowany, który w drodze prostej, nieprzemysłowej obróbki jest owijany w bibułę papierosową;
+
+- **20)** papieros elektroniczny – wyrób, który może być wykorzystywany do spożycia za pomocą ustnika pary zawierającej nikotynę lub pary niezawierającej nikotyny, lub wszystkie elementy tego wyrobu, w tym kartridże, zbiorniki i urządzenia bez kartridża lub zbiornika; papierosy elektroniczne mogą być jednorazowego użytku albo wielokrotnego napełniania za pomocą pojemnika zapasowego lub zbiornika lub do wielokrotnego ładowania za pomocą kartridżów jednorazowych;
+- **20a)** podgrzewany wyrób tytoniowy – nowatorski wyrób tytoniowy, w którym w wyniku podgrzania dochodzi do uwalniania nikotyny i innych substancji, które są następnie wdychane przez konsumenta, i który, w zależności od jego cech, jest wyrobem tytoniowym bezdymnym lub wyrobem tytoniowym do palenia;
+- **21)** powiązany wyrób – papieros elektroniczny, pojemnik zapasowy, wyrób ziołowy do palenia oraz woreczek nikotynowy;
+- **22)** producent – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która produkuje wyrób lub posiada zaprojektowany i wyprodukowany wyrób, i udostępnia ten wyrób do obrotu pod własną nazwą (firmą) lub własnym znakiem handlowym;
+- **23)** promocja wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych:
+    - **a)** publiczne rozdawanie wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych,
+    - **b)** organizowanie degustacji wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych,
+    - **c)** organizowanie premiowanej sprzedaży wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych lub konkursów opartych na ich zakupie oraz innych form publicznego zachęcania do ich nabywania lub używania, bez względu na formę dotarcia do adresata,
+    - **d)** oferowanie wyrobów tytoniowych lub woreczków nikotynowych konsumentom po obniżonej cenie w stosunku do ceny wydrukowanej na opakowaniu jednostkowym;
+
+- **24)** punkt detaliczny – punkt, w którym wyroby tytoniowe, woreczki nikotynowe, papierosy elektroniczne lub pojemniki zapasowe są wprowadzane do obrotu, w tym przez osobę fizyczną;
+- **25)** reklama wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych:
+    - **a)** rozpowszechnianie komunikatów, wizerunków marek wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych, rekwizytów tytoniowych lub symboli z nimi związanych,
+    - **b)** rozpowszechnianie nazw lub symboli graficznych podmiotów produkujących wyroby tytoniowe, woreczki nikotynowe, papierosy elektroniczne, pojemniki zapasowe lub rekwizyty tytoniowe, nieróżniących się od nazw i symboli graficznych wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych, rekwizytów tytoniowych lub symboli z nimi związanych – służących popularyzowaniu marek wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych, z wyłączeniem informacji używanych do celów handlowych w relacjach pomiędzy podmiotami zajmującymi się produkcją, dystrybucją i handlem wyrobami tytoniowymi, woreczkami nikotynowymi, papierosami elektronicznymi, pojemnikami zapasowymi lub rekwizytami tytoniowymi;
+
+- **26)** rekwizyty tytoniowe – artykuły i przyrządy przeznaczone do używania tytoniu lub wyrobów tytoniowych, z wyłączeniem zapalniczek i zapałek, takie jak papierośnice, cygarniczki, bibułki papierosowe, urządzenia do zwijania papierosów, fajki oraz przybory do ich czyszczenia i nabijania, popielniczki, obcinacze do cygar, oraz artykuły i przyrządy przeznaczone do używania papierosów elektronicznych lub pojemników zapasowych;
+- **27)** składnik – tytoń, dodatek, a także wszystkie substancje lub elementy występujące w gotowym wyrobie tytoniowym lub powiązanym wyrobie, w tym papier, filtr, tusz, kapsułki i kleje;
+- **28)** sponsorowanie – wspieranie w formie finansowej lub rzeczowej działalności osób fizycznych, osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej związane z eksponowaniem nazw wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych i podmiotów produkujących takie wyroby, a także ich symboli graficznych;
+- **29)** substancje smoliste – surowy, bezwodny, beznikotynowy kondensat dymu tytoniowego;
+- **30)** środek aromatyzujący – dodatek nadający zapach lub smak;
+- **31)** tajemnica handlowa – tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji;
+- **32)** tlenek węgla – bezbarwny, bezwonny gaz, który powstaje w wyniku niepełnego spalania substancji organicznych, występujący w fazie gazowej dymu papierosowego;
+- **33)** toksyczność – stopień, w jakim dana substancja może wywołać szkodliwe skutki dla organizmu człowieka, w tym skutki rozłożone w czasie, zwykle będące następstwem regularnego lub stałego spożycia takiej substancji lub narażenia na jej działanie;
+- **34)** torebka – opakowanie jednostkowe tytoniu do samodzielnego skręcania papierosów w formie prostokątnej kieszeni z klapką przykrywającą zamknięcie albo w formie stojącej torebki;
+- **35)** transgraniczna sprzedaż na odległość – sprzedaż konsumentom wyrobów na odległość, w przypadku której w momencie zamawiania wyrobu w punkcie detalicznym konsument znajduje się w państwie członkowskim Unii Europejskiej innym niż państwo członkowskie lub państwo trzecie, w którym znajduje się siedziba punktu detalicznego; uważa się, że siedziba punktu detalicznego znajduje się w państwie członkowskim:
+    - **a)** w przypadku osoby fizycznej – gdy miejsce prowadzenia przez nią działalności znajduje się w tym państwie członkowskim,
+    - **b)** w innych przypadkach – gdy punkt detaliczny ma swoją siedzibę, zarząd lub miejsce prowadzenia działalności, włączając oddział, agencję lub innego rodzaju zakład, w tym państwie członkowskim;
+
+- **36)** tytoń – liście oraz inne naturalne, przetworzone lub nieprzetworzone części roślin tytoniu, w tym tytoń ekspandowany i tytoń odtworzony;
+- **37)** tytoń do fajki wodnej – wyrób tytoniowy, który może być spożywany w fajce wodnej; tytoń do fajki wodnej uważa się za wyrób tytoniowy do palenia; jeżeli dany wyrób może być wykorzystywany w fajkach wodnych i jako tytoń do samodzielnego skręcania papierosów, uznaje się go za tytoń do samodzielnego skręcania papierosów;
+- **38)** tytoń do nosa – wyrób tytoniowy bezdymny, który może być zażywany przez nos;
+- **39)** tytoń do samodzielnego skręcania papierosów – tytoń, z którego konsumenci lub punkty detaliczne mogą zrobić papierosy;
+- **40)** tytoń do stosowania doustnego – wszystkie wyroby tytoniowe do stosowania doustnego, z wyjątkiem tych przeznaczonych do inhalacji albo żucia, wytworzone całkowicie lub częściowo z tytoniu, w postaci proszku, cząstek lub też połączenia tych postaci, szczególnie takie, które są porcjowane w saszetki lub dostępne w perforowanych saszetkach;
+- **41)** tytoń do żucia – wyrób tytoniowy bezdymny przeznaczony wyłącznie do żucia;
+- **42)** tytoń fajkowy – tytoń, który może być spożywany w drodze procesu spalania, przeznaczony wyłącznie do użycia w fajce;
+- **43)** właściwości CMR – właściwości rakotwórcze, mutagenne lub działające szkodliwie na rozrodczość człowieka;
+- **44)** właściwości uzależniające – potencjał farmakologiczny substancji w zakresie wywoływania stanu, który wpływa na zdolność osoby do kontrolowania swojego zachowania, zwykle przez pobudzenie układu nagrody lub złagodzenie objawów odstawienia;
+- **44a)** woreczek nikotynowy – wszystkie wyroby do stosowania doustnego, z wyjątkiem tych przeznaczonych do inhalacji, niezawierające tytoniu, lecz zawierające nikotynę, zmieszaną lub niezmieszaną z innymi składnikami, które są porcjowane w woreczki lub dostępne w woreczkach;
+- **45)** wprowadzanie do obrotu – udostępnianie wyrobów, niezależnie od miejsca ich produkcji, konsumentom na terytorium Rzeczypospolitej Polskiej, za opłatą lub nieodpłatnie, w tym w drodze sprzedaży na odległość; w przypadku transgranicznej sprzedaży na odległość za miejsce wprowadzenia do obrotu wyrobu uznaje się państwo członkowskie Unii Europejskiej, w którym znajduje się konsument;
+- **46)** wydzielane substancje – substancje uwalniane podczas używania tytoniu lub wyrobu tytoniowego zgodnie z przeznaczeniem, takie jak substancje znajdujące się w dymie, lub substancje uwalniane w procesie używania wyrobów tytoniowych bezdymnych;
+- **47)** wyrób tytoniowy do palenia – wyrób tytoniowy inny niż wyrób tytoniowy bezdymny;
+- **48)** wyrób tytoniowy – wyrób przeznaczony do spożycia przez konsumentów, składający się, nawet częściowo, z tytoniu, w tym zmodyfikowanego genetycznie;
+- **49)** wyrób tytoniowy bezdymny – wyrób tytoniowy, z którym nie wiąże się proces spalania, w tym tytoń do żucia, tytoń do nosa i tytoń do stosowania doustnego;
+- **50)** wyrób ziołowy do palenia – wyrób na bazie roślin, ziół lub owoców, który nie zawiera tytoniu i może być spożywany w drodze procesu spalania.
+
 **Art. 2a.**
 
 1. Do spraw objętych ustawą stosuje się akty Komisji Europejskiej wydane na podstawie kompetencji delegowanych przez Parlament Europejski i Radę, o których mowa w ustawie, zwane dalej „aktami delegowanymi”.
@@ -38,6 +109,14 @@ source: "isap-pdf"
 2. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów delegowanych.
 
 **Art. 3.** Ochrona zdrowia przed następstwami używania tytoniu realizowana jest przez kształtowanie polityki zdrowotnej, ekonomicznej i społecznej, do której należy:
+
+- **1)** ochrona prawa osób niepalących do życia w środowisku wolnym od dymu tytoniowego, pary z papierosów elektronicznych i substancji uwalnianych za pomocą nowatorskich wyrobów tytoniowych;
+- **2)** promocja zdrowia przez propagowanie stylu życia wolnego od nałogu palenia papierosów, używania innych wyrobów tytoniowych oraz palenia papierosów elektronicznych;
+- **2a)** działalność wychowawcza i informacyjna;
+- **3)** tworzenie warunków ekonomicznych i prawnych zachęcających do ograniczenia używania tytoniu;
+- **4)** informowanie o szkodliwości palenia tytoniu na opakowaniach wyrobów tytoniowych;
+- **5)** obniżanie norm dopuszczalnych zawartości substancji szkodliwych w wyrobach tytoniowych;
+- **6)** leczenie i rehabilitacja osób uzależnionych od tytoniu.
 
 **Art. 3a.**
 
@@ -222,6 +301,10 @@ source: "isap-pdf"
 2. Akty delegowane określają zniesienie zwolnienia określonego w ust. 1 w odniesieniu do konkretnej kategorii wyrobu, o którym mowa w ust. 1.
 
 **Art. 7f.** Zabrania się sprzedaży na odległość, w tym transgranicznej sprzedaży na odległość:
+
+- **1)** wyrobów tytoniowych;
+- **2)** papierosów elektronicznych i pojemników zapasowych oraz ich części;
+- **3)** woreczków nikotynowych.
 
 **Art. 8.**
 
@@ -811,11 +894,35 @@ source: "isap-pdf"
 
 **Art. 12.** Kto:
 
+- **1)** reklamuje lub promuje wyroby lub produkty wbrew postanowieniom art. 8 ust. 1,
+- **2)** sponsoruje działalność sportową, kulturalną, oświatową, zdrowotną lub społeczno-polityczną wbrew postanowieniom art. 8 ust. 2,
+- **3)** eksponuje w punkcie detalicznym przedmioty imitujące opakowania wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych wbrew postanowieniom art. 8 ust. 3,
+- **4)** na opakowaniu jednostkowym lub opakowaniu zbiorczym wyrobów tytoniowych lub woreczków nikotynowych umieszcza jakiekolwiek elementy lub cechy, które sugerują korzyści ekonomiczne, o których mowa w art. 8 ust. 5,
+- **5)** produkuje lub wprowadza do obrotu tytoń do stosowania doustnego,
+- **6)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe w opakowaniach, na których nie zamieszczono ostrzeżenia zdrowotnego lub z ostrzeżeniem zdrowotnym wbrew postanowieniom art. 9–9f,
+- **7)** wprowadza do obrotu wyroby tytoniowe w opakowaniach, na których nie zamieszczono ostrzeżenia zdrowotnego sformułowanego w języku polskim,
+- **8)** produkuje lub importuje wyroby tytoniowe, w których maksymalny poziom wydzielanych substancji smolistych, nikotyny i tlenku węgla w dymie papierosowym przekracza wartości, o których mowa w art. 10 ust. 1 i 2, podlega grzywnie do 200 000 zł albo karze ograniczenia wolności, albo obu tym karom łącznie.
+
 **Art. 12a.** Kto umieszcza na opakowaniu jednostkowym lub opakowaniu zbiorczym lub na wyrobie tytoniowym jakiekolwiek elementy lub cechy, o których mowa w art. 8 ust. 4, podlega grzywnie do 200 000 zł albo karze ograniczenia wolności, albo obu tym karom łącznie.
 
 **Art. 12b.** Kto w procesie produkcji wyrobów tytoniowych stosuje dodatki zwiększające właściwości uzależniające od nikotyny tych wyrobów, podlega grzywnie do 500 000 zł albo karze ograniczenia wolności albo obu tym karom łącznie.
 
 **Art. 12c.** Kto:
+
+- **1)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe, których opakowanie jednostkowe nie spełnia wymagań określonych w art. 6a,
+- **2)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe wbrew zakazom, o których mowa w art. 7c ust. 1, 3 lub 4,
+- **3)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe zawierające dodatki określone w przepisach wydanych na podstawie art. 7d ust. 6 lub 10,
+- **4)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe, w których poziom zawartości dodatków przekracza wartości określone w przepisach, o których mowa w art. 7d ust. 7,
+- **5)** nie stosuje się do zakazów sprzedaży na odległość, o których mowa w art. 7f, 5a) udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu wyroby tytoniowe, nie dopełniając obowiązku przekazania jednorazowej informacji, o której mowa w art. 8a ust. 1, odnośnie ich rodzaju lub marki, 5b) udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu wyroby tytoniowe, w stosunku do których została wydana decyzja na podstawie art. 8a ust. 5b,
+- **6)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu opakowanie jednostkowe wyrobów tytoniowych nieoznaczone drukowanym lub umieszczonym w sposób nieusuwalny i trwały niepowtarzalnym identyfikatorem, o którym mowa w art. 10a ust. 1,
+- **7)** nie dopełnia obowiązków, o których mowa w art. 10a ust. 6, 7 lub 9 lub art. 10b ust. 1,
+- **8)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu nowatorski wyrób tytoniowy bez zezwolenia, o którym mowa w art. 11a ust. 1,
+- **9)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu papierosy elektroniczne i pojemniki zapasowe, nie dopełniając obowiązku zgłoszenia, o którym mowa w art. 11b ust. 1 i 16, 9a) udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu papierosy elektroniczne lub pojemniki zapasowe, w stosunku do których została wydana decyzja na podstawie art. 11b ust. 11,
+- **10)** produkuje lub importuje w celu wprowadzenia do obrotu papierosy elektroniczne lub pojemniki zapasowe, które nie spełniają wymagań określonych w art. 11c ust. 1–11,
+- **11)** nie stosuje się do nakazów lub zakazów, o których mowa w art. 11f ust. 1 i ust. 3 pkt 2 lub ust. 5,
+- **12)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu wyroby ziołowe do palenia, nie dopełniając obowiązku przekazania wykazu składników, o którym mowa w art. 11h ust. 1, odnośnie ich rodzaju lub marki,
+- **13)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu woreczki nikotynowe, nie dopełniając obowiązku przekazania wykazu składników, o którym mowa w art. 11ha ust. 1, odnośnie ich rodzaju lub marki,
+- **14)** produkuje lub importuje w celu wprowadzenia do obrotu woreczki nikotynowe, które nie spełniają wymagań określonych w art. 11hb, podlega grzywnie do 200 000 zł albo karze ograniczenia wolności, albo obu tym karom łącznie.
 
 **Art. 13.**
 
@@ -863,4 +970,7 @@ source: "isap-pdf"
 **Art. 16.** (pominięty)
 
 **Art. 17.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 9 listopada 1995 r. (Dz. U. z 2024 r. poz.
+
+- **1162)**
+
 

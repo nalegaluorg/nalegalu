@@ -8,7 +8,7 @@ pos: 1314
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o transporcie kolejowym i ustawy o usługach turystycznych oraz ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych i ustawy o działach administracji rządowej - w związku z dostosowaniem do prawa Unii Europejskiej
@@ -84,7 +84,29 @@ W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz.
 
 **Art. 2.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590 oraz z 1998 r. Nr 106, poz. 668) wprowadza się następujące zmiany:
 
+- **1)** w art. 44 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Zagraniczne uczelnie zawodowe mogą tworzyć jednostki organizacyjne na obszarze Rzeczypospolitej Polskiej po uzyskaniu zgody ministra właściwego do spraw szkolnictwa wyższego. Do tworzenia, prowadzenia działalności i likwidacji jednostki organizacyjnej stosuje się odpowiednio przepisy dotyczące zakładania, prowadzenia działalności i likwidacji niepaństwowej uczelni zawodowej.”;
+- **2)** w art. 52 ust. 1 i 2 otrzymują brzmienie: „1. Zatrudnienie osoby niebędącej obywatelem polskim w uczelni zawodowej w charakterze nauczyciela akademickiego następuje bez konieczności uzyskania zezwolenia i zgody organu zatrudnienia. Zezwolenia i zgody nie wymaga także powierzenie osobie niebędącej obywatelem polskim innej pracy zarobkowej, w zakresie zadań określonych w art. 56 ust. 2.
+
+2. Osoba, o której mowa w ust. 1, podlega obowiązkowi ubezpieczenia zdrowotnego oraz ubezpieczeń społecznych, a także korzysta z uprawnień przewidzianych w ustawie i innych uprawnień - na zasadach obowiązujących obywateli polskich pozostających w stosunku pracy.”.
+
 **Art. 3.** W ustawie z dnia 27 czerwca 1997 r. o transporcie kolejowym (Dz.U. Nr 96, poz. 591, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 84, poz. 934 oraz z 2000 r. Nr 84, poz.
+
+- **948)** wprowadza się następujące zmiany:
+- **1)** w art. 4 w pkt 11 kropkę zastępuje się przecinkiem oraz dodaje pkt 12 i 13 w brzmieniu: „12) przewozach miejskich i podmiejskich – należy przez to rozumieć kolejowe przewozy pasażerskie wykonywane w ramach przewozów regionalnych, ograniczone do obszaru miasta i gmin z nim sąsiadujących lub kilku sąsiednich miast i sąsiadujących z nimi gmin,
+- **13)** infrastrukturze kolejowej - należy przez to rozumieć budynki, budowle i urządzenia wraz z zajętymi pod nimi gruntami, przeznaczone do prowadzenia ruchu kolejowego i do utrzymania linii kolejowych, niezbędne do zapewnienia bezpieczeństwa ruchu kolejowego.”;
+- **2)** w art. 8 i w art. 13 w ust. 1 i 2 użyte w odpowiednich przypadkach wyrazy „Główny Inspektor Kolejnictwa” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Prezes Urzędu Transportu Kolejowego”, a w art. 37 w ust. 1, w art. 38 w ust. 1-3, w art. 39 oraz w art. 40 użyte w odpowiednich przypadkach wyrazy „Główny Inspektor” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Prezes UTK”;
+- **3)** w art. 25 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Rada Ministrów może, w drodze rozporządzenia, wyłączyć obowiązek uzyskiwania koncesji przez przewoźników kolejowych wykonujących wyłącznie przewozy miejskie, podmiejskie lub regionalne, jeżeli uzna, że w odniesieniu do tych kategorii przewozów nadzór nad przestrzeganiem przepisów odnoszących się do bezpieczeństwa ruchu zapewni spełnienie celów publicznych w dostatecznym stopniu.”;
+- **4)** art. 27 otrzymuje brzmienie: „Art. 27. Prezes Urzędu Transportu Kolejowego, zwany dalej „Prezesem UTK”, jest organem właściwym do udzielania, odmowy udzielania, zmiany i cofania koncesji na działalność gospodarczą polegającą na:
+- **1)** zarządzaniu liniami kolejowymi,
+- **2)** wykonywaniu przewozów kolejowych.”;
+- **5)** tytuł rozdziału 5 otrzymuje brzmienie: „Regulacja i nadzór techniczny w transporcie kolejowym oraz bezpieczeństwo ruchu kolejowego”;
+- **6)** art. 33-36 otrzymują brzmienie: „Art. 33. 1. Centralnym organem administracji rządowej właściwym w sprawach regulacji transportu kolejowego, nadzoru technicznego nad eksploatacją linii kolejowych, pojazdów szynowych oraz bezpieczeństwa ruchu kolejowego jest Prezes UTK.
+
+2. Prezes UTK jest powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw transportu.
+
+3. Wiceprezes Urzędu Transportu Kolejowego jest powoływany i odwoływany przez ministra właściwego do spraw transportu na wniosek Prezesa UTK.
+
+4. Nadzór nad Prezesem UTK sprawuje minister właściwy do spraw transportu.
 
 **Art. 34.**
 
@@ -182,6 +204,49 @@ W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz.
 
 **Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz.U. Nr 133, poz. 884 i Nr 158 poz. 1043, z 1998 r. Nr 113, poz. 714, z 1999 r. Nr 40, poz. 401 oraz z 2000 r. Nr 43, poz. 486) wprowadza siê nastêpuj¹ce zmiany:
 
+- **1)** w art. 1 wyrazy „przedsiębiorców krajowych i zagranicznych” zastępuje się wyrazami „przedsiębiorców i przedsiębiorców zagranicznych w rozumieniu ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz.U. Nr 101, poz. 1178), zwanych dalej „przedsiębiorcami” ”;
+- **2)** art. 2 otrzymuje brzmienie: „Art. 2. Zawieranie na terytorium Rzeczypospolitej Polskiej w imieniu przedsiębiorcy zagranicznego umów z klientami o świadczenie usług turystycznych jest dopuszczalne, jeżeli przedsiębiorca ten prowadzi na terytorium Rzeczypospolitej Polskiej działalność gospodarczą na warunkach określonych w ustawie, o której mowa w art. 1.”;
+- **3)** w art. 3:
+    - **a)** pkt 4 otrzymuje brzmienie: „4)organizowanie imprez turystycznych - przygotowywanie lub oferowanie, a także realizacja imprez turystycznych,”,
+    - **b)** w pkt 7 wyraz „koncesje” zastępuje się wyrazem „zezwolenia”,
+    - **c)** po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „7a) przewodnik turystyczny - osobę zawodowo oprowadzającą grupy wycieczkowe po wybranych obszarach, miejscowościach i obiektach oraz udzielającą o nich informacji, 7b) pilot wycieczek - osobę towarzyszącą, w imieniu organizatora turystyki, uczestnikom imprezy turystycznej, sprawującą opiekę nad nimi i czuwającą nad sposobem wykonania na ich rzecz usług,”,
+    - **d)** skreśla się pkt 12 i 13;
+
+- **4)** w art. 5 po ust. 3 dodaje się ust. 4 i 5 w brzmieniu: „4. Wojewoda jest uprawniony do występowania na rzecz klientów w sprawach wypłaty środków z tytułu umowy gwarancji bankowej, umowy gwarancji ubezpieczeniowej lub umowy ubezpieczenia, na zasadach określonych w treści tych umów.
+
+5. Z sumy określonej w umowie gwarancji bankowej, umowie gwarancji ubezpieczeniowej lub umowie ubezpieczenia pokrywa się w pierwszej kolejności koszty sprowadzenia do kraju klientów, o których mowa w ust. 1 pkt 2. Jeżeli pozostała suma gwarancji jest niewystarczająca na zwrot wszystkich wpłat wniesionych przez klientów, wypłaty obniża się proporcjonalnie do wysokości pozostałej sumy.”;
+
+- **5)** w art. 6 w ust. l w pkt 3 kropkę zastępuje się przecinkiem i dodaje pkt 4 w brzmieniu: „4) 6 lat praktyki w obsłudze turystów, w pozostałych przypadkach.”;
+- **6)** w art. 7 w ust. 4 skreśla się wyrazy „ , a wydane zezwolenie cofa”;
+- **7)** w art. 8 po ust. 4 dodaje się ust. 5 w brzmieniu: ,,5. Wojewoda prowadzi ewidencję wydanych na terenie województwa zezwoleń i związanych z nimi umów gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 5 ust. 1 pkt 2, oraz udziela informacji o wydanych zezwoleniach na zasadach ustalonych dla rejestru.”;
+- **8)** w art. 9:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw turystyki oraz wojewoda jest upoważniony do kontroli prowadzonej przez przedsiębiorcę działalności gospodarczej, o której mowa w art. 4 ust. 1, w zakresie:
+
+- **1)** spełniania wymagań niezbędnych do uzyskania zezwolenia,
+- **2)** zgodności prowadzonej działalności z wydanym zezwoleniem,
+- **3)** przestrzegania warunków wykonywania działalności gospodarczej określonych ustawą.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw turystyki oraz wojewoda jest upoważniony do kontroli działalności agentów turystycznych w zakresie:
+
+- **1)** zgodności prowadzonej działalności z zawartymi umowami agencyjnymi,
+- **2)** przestrzegania przez przedsiębiorców dających zlecenie agentom warunków wykonywania działalności gospodarczej określonych ustawą.”,
+    - **c)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. W razie stwierdzenia przez ministra właściwego do spraw turystyki w wyniku kontroli, o której mowa w ust. 1 i 1a, uchybień w sposobie prowadzenia działalności gospodarczej, występuje on do właściwego wojewody o podjęcie działań, o których mowa w ust. 2.”;
+
+- **9)** w art. 10a:
+    - **a)** w ust. l w pkt 2 kropkę zastępuje się przecinkiem i dodaje pkt 3 w brzmieniu: ,,3) nieusunięcia przez przedsiębiorcę stwierdzonych uchybień, pomimo wezwania, o którym mowa w art. 9 ust. 2.”,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: ,,3. Przepis ust. 2 stosuje się także do osób kierujących działalnością przedsiębiorstwa w imieniu przedsiębiorcy, któremu cofnięto zezwolenie lub który prowadził działalność bez wymaganego zezwolenia. Osoby te w okresie wskazanym w ust. 2 nie mogą również kierować działalnością przedsiębiorstwa lub jego jednostek organizacyjnych w zakresie wymagającym zezwolenia.”;
+
+- **10)** po art. 10a dodaje się art. 10b w brzmieniu: „Art. 10b. Przedsiębiorcę występującego wobec klientów jako agent turystyczny uważa się za organizatora turystyki w rozumieniu ustawy, jeżeli:
+- **1)** w umowach zawieranych z klientami nie wskazuje jednoznacznie właściwego organizatora turystyki, którego reprezentuje, lub
+- **2)** działa jako agent organizatora turystyki, który nie jest uprawniony do zawierania umów z klientami na terytorium Rzeczypospolitej Polskiej, lub
+- **3)** działa bez ważnej umowy agencyjnej lub przekracza jej zakres.”;
+- **11)** art. 11 otrzymuje brzmienie: „Art. 11. W zakresie nieuregulowanym ustawą do umów z klientami zawieranych przez organizatorów turystyki i pośredników turystycznych stosuje się przepisy Kodeksu cywilnego oraz inne przepisy dotyczące ochrony konsumenta.”;
+- **12)** po art. 11 dodaje się art. 11a i 11b w brzmieniu: „Art. 11a. 1. Organizator turystyki odpowiada za niewykonanie lub nienależyte wykonanie umowy o świadczenie usług turystycznych, chyba że niewykonanie lub nienależyte wykonanie jest spowodowane wyłącznie:
+- **1)** działaniem lub zaniechaniem klienta,
+- **2)** działaniem lub zaniechaniem osób trzecich, nie uczestniczących w wykonywaniu usług przewidzianych w umowie, jeżeli tych działań lub zaniechań nie można było przewidzieć ani uniknąć, albo
+- **3)** siłą wyższą.
+
+2. Wyłączenie odpowiedzialności za niewykonanie lub nienależyte wykonanie umowy, w przypadkach wymienionych w ust. 1, nie zwalnia organizatora turystyki od obowiązku udzielenia w czasie trwania imprezy turystycznej pomocy poszkodowanemu klientowi.
+
 **Art. 11b.**
 
 1. Nie można w drodze umowy wyłączyć lub ograniczyć odpowiedzialności określonej w art. 11a, także w razie wyboru prawa obcego, z zastrzeżeniem ust. 2 i 3.
@@ -265,6 +330,11 @@ W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz.
 - **4)** wydatki materiałowe.”.
 
 **Art. 5.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133,poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106 poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532 oraz z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665 i Nr 73, poz. 852) wprowadza się następujące zmiany:
+
+- **1)** w art. 479 w § 2 w pkt 3 po wyrazach „o przeciwdziałaniu praktykom monopolistycznym” dodaje się wyrazy „ , o transporcie kolejowym”;
+- **2)** w części pierwszej w księdze pierwszej w tytule VII w dziale IVa w tytule rozdziału 2 po wyrazach „z zakresu regulacji” dodaje się wyrazy „transportu kolejowego,”;
+- **3)** w art. 479 w § 1 po wyrazach „Prezesa Urzędu Ochrony Konkurencji i Konsumentów lub delegatur tego Urzędu,” dodaje się wyrazy „decyzji Prezesa Urzędu Transportu Kolejowego,”;
+- **4)** w art. 479 w § 1 po wyrazach „z zakresu regulacji” dodaje się wyrazy „transportu kolejowego,”.
 
 **Art. 6.** W ustawie z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych (Dz.U. z 1994 r. Nr 7, poz. 25, Nr 77, poz. 355, Nr 91, poz. 421 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163 i Nr 81, poz. 406, z 1996 r. Nr 77, poz. 367, z 1997 r. Nr 75, poz. 471, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 751, 752 i 753, Nr 121, poz. 769, Nr 124, poz. 782 i Nr 133, poz. 882, z 1998 r. Nr 98, poz. 607, Nr 160, poz. 1064 i Nr 162, poz. 1118 i 1125, z 1999 r. Nr 20, poz. 180, Nr 60, poz. 636, Nr 75, poz. 853, Nr 83, poz. 931 i Nr 110, poz. 1255 oraz z 2000 r. Nr 48, poz. 551, Nr 50, poz. 580 i Nr 56, poz. 678) w art. 20 po wyrazach „z zakresu regulacji energetyki” dodaje się wyrazy „i regulacji transportu kolejowego”.
 

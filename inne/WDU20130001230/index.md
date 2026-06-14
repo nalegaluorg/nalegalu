@@ -8,10 +8,10 @@ pos: 1230
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 października 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1230 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 15 października 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1230/text.pdf) |
 
-Poz. 1230 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 15 października 2013 r.
-zmieniające rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727 i 1149) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów z dnia 26 lutego 2009 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. z 2013 r. poz. 1083) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+zmieniające rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727 i 1149) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Finansów z dnia 26 lutego 2009 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica (Dz. U. z 2013 r. poz. 1083) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Finansów: wz. J. Cichoń SZCZEGÓŁOWY OPIS GRANIC I OBSZAR SKŁADU WOLNOCŁOWEGO NA TERENIE PORTU LOTNICZEGO POZNAŃ-ŁAWICA Skład wolnocłowy jest zlokalizowany w Terminalu Pasażerskim Portu Lotniczego Poznań-Ławica, w części dostępnej dla pasażerów po odprawie biletowo-bagażowej i kontroli bezpieczeństwa.
 Skład wolnocłowy stanowi strefę zamkniętą odcinkami ścian określonymi w poniższym opisie granicy składu wolnocłowego. Z uwagi na usytuowanie składu wolnocłowego wewnątrz budynku odgraniczenie składu wolnocłowego stanowią trwałe elementy budowlane.

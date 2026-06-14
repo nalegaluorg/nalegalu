@@ -8,10 +8,10 @@ pos: 1331
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 września 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1331 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 19 sierpnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1331/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 19 sierpnia 2015 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie sposobu i trybu przeprowadzania kontroli podmiotów leczniczych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378 oraz z 2015 r. poz. 1045 i 1224) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 20 grudnia 2012 r.
 w sprawie sposobu i trybu przeprowadzania kontroli podmiotów leczniczych (Dz. U. poz. 1509), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 10 lipca 2014 r. zmieniającym rozporządzenie w sprawie sposobu i trybu przeprowadzania kontroli podmiotów leczniczych (Dz. U. poz. 1093).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 10 lipca 2014 r. zmieniającego rozporządzenie w sprawie sposobu i trybu przeprowadzania kontroli podmiotów leczniczych (Dz. U. poz. 1093), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Zdrowia: M. Zembala ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 20 grudnia 2012 r.
 w sprawie sposobu i trybu przeprowadzania kontroli podmiotów leczniczych Na podstawie art. 122 ust. 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, 788 i 905) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy sposób i tryb przeprowadzania kontroli, o której mowa w art. 118, art. 119 i art. 121 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, zwanej dalej „ustawą”, w tym:
 1) warunki i tryb:
 a) przygotowania oraz prowadzenia czynności kontrolnych,
 b) dokumentowania poszczególnych czynności kontrolnych,
@@ -39,9 +39,10 @@ c) sporządzania wystąpień pokontrolnych;
 2) możliwości składania zastrzeżeń do ustaleń kontroli i ich rozpatrzenia;
 3) wzory dokumentów obowiązujących przy przeprowadzaniu czynności kontrolnych.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) jednostka kontrolowana podmiot leczniczy w rozumieniu art. 4 ust. 1 ustawy;
-2) kierownik jednostki kontrolowanej kierownik w rozumieniu art. 2 ust. 2 pkt 1 ustawy;
-3) podmiot uprawniony do kontroli minister właściwy do spraw zdrowia, podmiot wskazany w art. 122 ust. 7 ustawy albo inny podmiot tworzący w rozumieniu art. 2 ust. 1 pkt 6 ustawy.
+1) jednostka kontrolowana – podmiot leczniczy w rozumieniu art. 4 ust. 1 ustawy;
+2) kierownik jednostki kontrolowanej – kierownik w rozumieniu art. 2 ust. 2 pkt 1 ustawy;
+3) podmiot uprawniony do kontroli – minister właściwy do spraw zdrowia, podmiot wskazany w art. 122 ust. 7 ustawy albo inny podmiot tworzący w rozumieniu art. 2 ust. 1 pkt 6 ustawy.
+§ 3. Kontrolę zarządza podmiot uprawniony do kontroli.
 § 4. 1. Kontrolujący powinien przygotowywać kontrolę w sposób, który zapewnia, że kontrola będzie realizowana w sposób oszczędny, wydajny i skuteczny, a także zgodnie z programem kontroli.
 2. Przeprowadzenie kontroli poprzedza opracowanie programu kontroli.
 3. Przy opracowywaniu programu kontroli uwzględnia się w szczególności:
@@ -68,7 +69,7 @@ c) sporządzania wystąpień pokontrolnych;
 7. O wyłączeniu kontrolującego rozstrzyga podmiot uprawniony do kontroli.
 8. Do czasu podjęcia rozstrzygnięcia w sprawie wyłączenia kontrolującego z udziału w kontroli, kontrolujący podejmuje jedynie czynności niecierpiące zwłoki.
 § 6. 1. W miarę możliwości kontrolę przeprowadza się w zespołach liczących co najmniej dwóch kontrolujących, spośród których wyznacza się kierownika zespołu.
-2. Czynności kontrolne w jednostce kontrolowanej przeprowadza kontrolujący na podstawie imiennego upoważnienia, udzielonego przez podmiot uprawniony do kontroli po okazaniu legitymacji służbowej, a jeżeli w danej jednostce nie są wydawane legitymacje służbowe po okazaniu dokumentu pozwalającego na ustalenie tożsamości.
+2. Czynności kontrolne w jednostce kontrolowanej przeprowadza kontrolujący na podstawie imiennego upoważnienia, udzielonego przez podmiot uprawniony do kontroli – po okazaniu legitymacji służbowej, a jeżeli w danej jednostce nie są wydawane legitymacje służbowe – po okazaniu dokumentu pozwalającego na ustalenie tożsamości.
 3. Upoważnienie do przeprowadzenia kontroli zawiera:
 1) oznaczenie wydającego upoważnienie oraz numer, datę i miejsce wystawienia;
 2) wskazanie podstawy prawnej;
@@ -97,6 +98,7 @@ c) sporządzania wystąpień pokontrolnych;
 7) wysokość wynagrodzenia za przeprowadzenie kontroli;
 8) obowiązki podmiotu, któremu kontrola została zlecona, w zakresie sporządzenia projektu wystąpienia pokontrolnego, rozpatrywania zastrzeżeń oraz sporządzenia wystąpienia pokontrolnego;
 9) obowiązki dotyczące przekazania kompletnych i ponumerowanych akt kontroli.
+§ 9. Przed rozpoczęciem czynności kontrolnych w jednostce kontrolowanej, kontrolujący okazuje kierownikowi jednostki kontrolowanej upoważnienie oraz legitymację służbową lub dokument pozwalający na ustalenie tożsamości, o których mowa w § 6 ust. 2.
 § 10. 1. Kontrolę przeprowadza się w siedzibie jednostki kontrolowanej lub miejscu wykonywania działalności leczniczej, w dniach i godzinach pracy w nich obowiązujących.
 2. W razie konieczności, kontrola może być przeprowadzona w dniach wolnych od pracy i poza godzinami pracy, obowiązującymi w jednostce kontrolowanej, za zgodą kierownika jednostki kontrolowanej.
 3. Kontrola lub poszczególne jej czynności mogą być, w miarę potrzeb, przeprowadzane również poza siedzibą jednostki kontrolowanej lub miejscem wykonywania działalności leczniczej.
@@ -126,7 +128,7 @@ c) sporządzania wystąpień pokontrolnych;
 1) oddanie na przechowanie kierownikowi lub innemu pracownikowi jednostki kontrolowanej za pokwitowaniem;
 2) przechowanie w jednostce kontrolowanej w oddzielnym, zamkniętym i opieczętowanym pomieszczeniu;
 3) zabranie z jednostki kontrolowanej za pokwitowaniem.
-2. O zwolnieniu materiałów dowodowych spod zabezpieczenia decyduje kontrolujący, a w razie jego odmowy podmiot uprawniony do kontroli.
+2. O zwolnieniu materiałów dowodowych spod zabezpieczenia decyduje kontrolujący, a w razie jego odmowy – podmiot uprawniony do kontroli.
 § 18. 1. Kontrolujący dokumentuje przebieg i wyniki kontroli w założonych w tym celu aktach kontroli, które w szczególności obejmują:
 1) wykaz ich zawartości, z podaniem nazw dokumentów i numerów kart stron;
 2) program kontroli;
@@ -139,6 +141,7 @@ c) sporządzania wystąpień pokontrolnych;
 3. Akta kontroli sporządza się w jednym egzemplarzu i przechowuje w siedzibie podmiotu uprawnionego do kontroli.
 § 19. 1. Kierownik jednostki kontrolowanej na każdym etapie prowadzonej kontroli ma prawo wglądu do akt kontroli, z zachowaniem przepisów o tajemnicy prawnie chronionej.
 2. Podmiot uprawniony do kontroli udostępnia akta kontroli po anonimizacji w dokumentach danych osobowych pracownika lub innej osoby, jeżeli zastrzegły one nieujawnianie danych umożliwiających ich identyfikację, a zachodzi uzasadniona obawa, że udzielone informacje w sprawach objętych kontrolą mogą narazić tego pracownika lub osobę na jakikolwiek uszczerbek lub zarzut z powodu udzielenia tych informacji.
+§ 20. 1. Ustalenia dokonane w trakcie kontroli oraz oceny opisuje się w projekcie wystąpienia pokontrolnego.
 2. Projekt wystąpienia pokontrolnego kontrolujący sporządza po zakończeniu czynności kontrolnych w jednostce kontrolowanej.
 3. Projekt wystąpienia pokontrolnego zawiera:
 1) oznaczenie jednostki kontrolowanej;
@@ -152,7 +155,7 @@ c) sporządzania wystąpień pokontrolnych;
 4. Projekt wystąpienia pokontrolnego sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden przekazuje się do jednostki kontrolowanej.
 5. Projekt wystąpienia pokontrolnego podpisuje kontrolujący i podmiot uprawniony do kontroli.
 § 21. Po zakończeniu czynności kontrolnych w jednostce kontrolowanej, kontrolujący, za zgodą podmiotu uprawnionego do kontroli, może zwrócić się do kierownika jednostki kontrolowanej o złożenie w wyznaczonym terminie dodatkowych pisemnych wyjaśnień dotyczących zakresu kontroli, niezbędnych do sporządzenia wystąpienia pokontrolnego.
-§ 22. 1. Kierownik jednostki kontrolowanej ma prawo w terminie 7 dni od dnia otrzymania projektu wystąpienia pokontrolnego do zgłoszenia umotywowanych pisemnych zastrzeżeń do tego projektu, przy czym termin ten uważa się za zachowany, jeżeli przed jego upływem pismo zostało nadane w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. poz. 1529).
+§ 22. 1. Kierownik jednostki kontrolowanej ma prawo w terminie 7 dni od dnia otrzymania projektu wystąpienia pokontrolnego do zgłoszenia umotywowanych pisemnych zastrzeżeń do tego projektu, przy czym termin ten uważa się za zachowany, jeżeli przed jego upływem pismo zostało nadane w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529).
 2. Na umotywowany wniosek kierownika jednostki kontrolowanej, złożony przed upływem terminu na zgłoszenie zastrzeżeń, przy zaistnieniu szczególnie ważnych przyczyn, termin na zgłoszenie zastrzeżeń może zostać przedłużony przez podmiot uprawniony do kontroli na dalszy czas oznaczony.
 3. Podmiot uprawniony do kontroli ma prawo sprostowania w projekcie wystąpienia pokontrolnego, w każdym czasie, z urzędu lub na wniosek kierownika jednostki kontrolowanej, błędów pisarskich lub innych oczywistych omyłek.
 4. Projekt wystąpienia pokontrolnego, w którym dokonano sprostowania, przekazuje się kierownikowi jednostki kontrolowanej wraz z informacją o dokonanych zmianach.
@@ -175,6 +178,7 @@ c) sporządzania wystąpień pokontrolnych;
 6. Od wystąpienia pokontrolnego nie przysługują środki odwoławcze.
 § 26. Kierownik jednostki kontrolowanej, w wyznaczonym terminie, informuje podmiot uprawniony do kontroli o sposobie wykonania zaleceń, wykorzystaniu wniosków lub przyczynach ich niewykorzystania albo o innym sposobie usunięcia stwierdzonych nieprawidłowości.
 § 27. Podmiot uprawniony do kontroli może odstąpić w każdym czasie od dalszego przeprowadzania czynności kontrolnych, informując na piśmie kierownika jednostki kontrolowanej o odstąpieniu od kontroli. W takim przypadku nie sporządza się wystąpienia pokontrolnego.
+§ 28. Do kontroli wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 29. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
 WZÓR OŚWIADCZENIE Przed rozpoczęciem czynności kontrolnych w ..........................................................................................................................
 ....................................................................................................................................................................................................
@@ -202,13 +206,13 @@ Okres ważności upoważnienia przedłuża się do dnia ........................
 ................................................................................................
 Pouczenie: Poucza się, iż prawa i obowiązki jednostki kontrolowanej wynikają z art. 118 ust. 1–3, art. 119 ust. 4, art. 121 ust. 3 i art. 122 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm.) oraz rozporządzenia Ministra Zdrowia z dnia 20 grudnia 2012 r. w sprawie sposobu i trybu przeprowadzania kontroli podmiotów leczniczych (Dz. U. z 2015 r. poz. 1331).
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowy sposób i tryb przeprowadzania kontroli, o której mowa w art. 118, art. 119 i art. 121 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, zwanej dalej „ustawą”, w tym:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Przygotowanie kontroli § 3. Kontrolę zarządza podmiot uprawniony do kontroli.
+#### Rozdział 2 Przygotowanie kontroli
 
-#### Rozdział 3 Warunki i tryb prowadzenia kontroli oraz dokumentowanie czynności kontrolnych § 9. Przed rozpoczęciem czynności kontrolnych w jednostce kontrolowanej, kontrolujący okazuje kierownikowi jednostki kontrolowanej upoważnienie oraz legitymację służbową lub dokument pozwalający na ustalenie tożsamości, o których mowa w § 6 ust. 2.
+#### Rozdział 3 Warunki i tryb prowadzenia kontroli oraz dokumentowanie czynności kontrolnych
 
-#### Rozdział 4 Warunki i tryb przedstawiania ustaleń kontroli, składania zastrzeżeń do ustaleń kontroli i ich rozpatrzenia oraz sporządzania wystąpień pokontrolnych § 20. 1. Ustalenia dokonane w trakcie kontroli oraz oceny opisuje się w projekcie wystąpienia pokontrolnego.
+#### Rozdział 4 Warunki i tryb przedstawiania ustaleń kontroli, składania zastrzeżeń do ustaleń kontroli i ich rozpatrzenia oraz sporządzania wystąpień pokontrolnych
 
-#### Rozdział 5 Przepisy przejściowe i końcowe § 28. Do kontroli wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+#### Rozdział 5 Przepisy przejściowe i końcowe
 

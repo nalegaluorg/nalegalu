@@ -1,6 +1,6 @@
-# Orzecznictwo — Wyrok Trybunału Konstytucyjnego z dnia 13 stycznia 2005 r. sygn. akt P 15/02
+# Orzecznictwo — WDU20050130111
 
-Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 13 stycznia 2005 r. sygn. akt P 15/02*
+Orzeczenia powołujące: *WDU20050130111*
 
 Łącznie: **1** orzeczeń
 

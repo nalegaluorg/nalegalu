@@ -2,14 +2,14 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników.*
 
-Łącznie: **715** orzeczeń
-(pominięto 1193 orzeczeń sądów rejonowych)
+Łącznie: **716** orzeczeń
+(pominięto 1195 orzeczeń sądów rejonowych)
 
 ## art. 0 (1)
 
 - 2014-12-22 | SO | [VII Pa 364/14](https://www.saos.org.pl/judgments/74081) | Uzasadnienie
 
-## art. 1 (175)
+## art. 1 (176)
 
 - 2006-02-15 | SN | [II PZP 13/05](https://www.saos.org.pl/judgments/84098) | Uchwała ★
 - 2015-03-04 | SN | [I PK 184/14](https://www.saos.org.pl/judgments/168485) | Wyrok ★
@@ -84,6 +84,7 @@ Orzeczenia powołujące: *Ustawa z dnia 13 marca 2003 r. o szczególnych zasadac
 - 2012-10-11 | SO | [III AUa 1172/12](https://www.saos.org.pl/judgments/663) | Wyrok
 - 2025-11-25 | SO | [VII Pa 87/24](https://www.saos.org.pl/judgments/540196) | Wyrok
 - 2025-06-18 | SO | [VII Pa 74/24](https://www.saos.org.pl/judgments/530865) | Wyrok
+- 2024-11-22 | SO | [VI P 182/20](https://www.saos.org.pl/judgments/545973) | Wyrok
 - 2024-07-19 | SO | [VI P 111/23](https://www.saos.org.pl/judgments/515858) | Wyrok
 - 2024-04-05 | SO | [VII Pa 66/23](https://www.saos.org.pl/judgments/511861) | Wyrok
 - 2023-10-30 | SO | [VI P 299/21](https://www.saos.org.pl/judgments/521570) | Wyrok

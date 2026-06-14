@@ -8,12 +8,10 @@ pos: 584
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie fizjoterapeuty
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -39,7 +37,7 @@ source: "isap-pdf"
 5) art. 17 ust. 3 pkt 2, ust. 3b i 3c ustawy zmienianej w art. 50,
 6) art. 113d ustawy zmienianej w art. 52,
 7) art. 71 ust. 5a i 5b ustawy zmienianej w art. 55,
-8) art. 28 ust. 2 i 3 ustawy zmienianej w art. 59 w brzmieniu nadanym niniejszą ustawą.
+8) art. 28 ust. 2 i 3 ustawy zmienianej w art. 59 – w brzmieniu nadanym niniejszą ustawą.
 2. Komunikat ogłasza się w terminie co najmniej 14 dni przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.” „Art. 84. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 3 ust. 1 pkt 7, art. 10 ust. 4 pkt 2 i art. 19 ust. 1 pkt 7 lit. b, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 73 ust. 1;
 2) art. 23, art. 31 pkt 1 i 3–7, art. 39, art. 48, art. 51, art. 68 i art. 72, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 77 ust. 1;
@@ -159,6 +157,11 @@ o zawodzie fizjoterapeuty
 
 **Art. 9.** Fizjoterapeuta jest obowiązany:
 
+- **1)** informować pacjenta o jego prawach określonych w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **2)** udzielać informacji pacjentowi lub jego przedstawicielowi ustawowemu albo osobie bliskiej lub opiekunowi faktycznemu w rozumieniu przepisów ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, w zakresie niezbędnym do udzielanych przez siebie świadczeń zdrowotnych;
+- **3)** zachowywać w tajemnicy informacje związane z pacjentem, uzyskane w związku z wykonywaniem zawodu zgodnie z przepisami ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **4)** prowadzić i udostępniać dokumentację medyczną na zasadach określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
+
 **Art. 10.**
 
 1. KIF jest uprawniona do kontroli fizjoterapeutów w celu oceny wykonywania zawodu przez fizjoterapeutę.
@@ -209,7 +212,7 @@ o zawodzie fizjoterapeuty
 
 5. Fizjoterapeuta, którego sprawa dotyczy, jest uprawniony do uczestnictwa, z prawem zabrania głosu, w posiedzeniu Krajowej Rady Fizjoterapeutów w czasie rozpatrywania jego sprawy.
 
-6. Jeżeli fizjoterapeuta odmawia poddania się badaniu przez komisję lub jeżeli Krajowa Rada Fizjoterapeutów na podstawie wyników postępowania wyjaśniającego uzna, że dalsze wykonywanie zawodu lub ściśle określonych czynności zawodowych ze względu na stan zdrowia fizjoterapeuty nie jest możliwe Krajowa Rada Fizjoterapeutów podejmuje uchwałę o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych.
+6. Jeżeli fizjoterapeuta odmawia poddania się badaniu przez komisję lub jeżeli Krajowa Rada Fizjoterapeutów na podstawie wyników postępowania wyjaśniającego uzna, że dalsze wykonywanie zawodu lub ściśle określonych czynności zawodowych ze względu na stan zdrowia fizjoterapeuty nie jest możliwe – Krajowa Rada Fizjoterapeutów podejmuje uchwałę o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych.
 
 7. Fizjoterapeucie, w stosunku do którego podjęto uchwałę o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych, przysługuje prawo wniesienia odwołania od uchwały o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych, do ministra właściwego do spraw zdrowia, w terminie 14 dni od dnia otrzymania uchwały.
 
@@ -226,22 +229,22 @@ o zawodzie fizjoterapeuty
 1. Prawo wykonywania zawodu fizjoterapeuty przysługuje osobie, która spełnia łącznie następujące warunki:
 
 - **1)** ma pełną zdolność do czynności prawnych;
-- **2)** jej stan zdrowia pozwala na wykonywanie zawodu fizjoterapeuty, co potwierdza się orzeczeniem lekarskim albo innym dokumentem potwierdzającym brak przeciwwskazań do wykonywania zawodu fizjoterapeuty wymaganych w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska lub Konfederacji Szwajcarskiej, lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym wydanym przez właściwe podmioty w tym państwie;
+- **2)** jej stan zdrowia pozwala na wykonywanie zawodu fizjoterapeuty, co potwierdza się orzeczeniem lekarskim albo innym dokumentem potwierdzającym brak przeciwwskazań do wykonywania zawodu fizjoterapeuty wymaganych w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska lub Konfederacji Szwajcarskiej, lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym wydanym przez właściwe podmioty w tym państwie;
 - **3)** wykazuje znajomość języka polskiego w stopniu wystarczającym do wykonywania zawodu fizjoterapeuty;
-- **4)** swoim dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu fizjoterapeuty, w szczególności nie była skazana prawomocnym wyrokiem za umyślne przestępstwo przeciwko życiu i zdrowiu, przeciwko wolności seksualnej i obyczajności oraz za czyny określone w art. 207 i art. 211 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872);
+- **4)** swoim dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu fizjoterapeuty, w szczególności nie była skazana prawomocnym wyrokiem za umyślne przestępstwo przeciwko życiu i zdrowiu, przeciwko wolności seksualnej i obyczajności oraz za czyny określone w art. 207 i art. 211 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872);
 - **5)** posiada dyplom, świadectwo lub inny dokument, zwane dalej „dyplomem”:
     - **a)** potwierdzający kwalifikacje, o którym mowa w ust. 3, lub
-    - **b)** potwierdzający kwalifikacje do wykonywania zawodu fizjoterapeuty uzyskane w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska lub Konfederacji Szwajcarskiej, lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, uznane w Rzeczypospolitej Polskiej zgodnie z przepisami o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, lub
+    - **b)** potwierdzający kwalifikacje do wykonywania zawodu fizjoterapeuty uzyskane w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska lub Konfederacji Szwajcarskiej, lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, uznane w Rzeczypospolitej Polskiej zgodnie z przepisami o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, lub
     - **c)** potwierdzający kwalifikacje do wykonywania zawodu fizjoterapeuty, wydany w państwie innym niż państwo wskazane w lit. b, uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem uzyskiwanym w Rzeczypospolitej Polskiej.
 
 2. Za wystarczające w zakresie spełnienia wymagania, o którym mowa w ust. 1 pkt 3, uznaje się przedstawienie odpowiednich dokumentów potwierdzających ukończenie studiów wyższych prowadzonych w języku polskim lub publicznej szkoły policealnej lub niepublicznej szkoły policealnej o uprawnieniach szkoły publicznej, kształcącej w języku polskim, albo:
 
-- **1)** w przypadku osób, o których mowa w ust. 1 pkt 5 lit. a i b złożenie oświadczenia następującej treści: „Oświadczam, że władam językiem polskim w mowie i piśmie w zakresie niezbędnym do wykonywania zawodu fizjoterapeuty.”, zawierającego klauzulę „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
-- **2)** w przypadku osób, o których mowa w ust. 1 pkt 5 lit. c złożenie z wynikiem pozytywnym egzaminu z języka polskiego organizowanego przez Krajową Radę Fizjoterapeutów.
+- **1)** w przypadku osób, o których mowa w ust. 1 pkt 5 lit. a i b – złożenie oświadczenia następującej treści: „Oświadczam, że władam językiem polskim w mowie i piśmie w zakresie niezbędnym do wykonywania zawodu fizjoterapeuty.”, zawierającego klauzulę „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
+- **2)** w przypadku osób, o których mowa w ust. 1 pkt 5 lit. c – złożenie z wynikiem pozytywnym egzaminu z języka polskiego organizowanego przez Krajową Radę Fizjoterapeutów.
 
 3. Dyplomem potwierdzającym posiadanie kwalifikacji jest dyplom wydany osobie, która:
 
-- **1)** rozpoczęła po dniu 1 października 2017 r. jednolite 5-letnie studia wyższe w zakresie fizjoterapii, obejmujące co najmniej 300 punktów ECTS, o których mowa w art. 67 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), zwanych dalej „punktami ECTS”, w tym co najmniej 160 punktów ECTS w zakresie fizjoterapii oraz odbyła 6-miesięczną praktykę zawodową i uzyskała tytuł zawodowy magistra albo 1a) rozpoczęła po roku akademickim 2018/2019 studia przygotowujące do wykonywania zawodu fizjoterapeuty, prowadzone zgodnie z przepisami wydanymi na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, albo
+- **1)** rozpoczęła po dniu 1 października 2017 r. jednolite 5-letnie studia wyższe w zakresie fizjoterapii, obejmujące co najmniej 300 punktów ECTS, o których mowa w art. 67 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), zwanych dalej „punktami ECTS”, w tym co najmniej 160 punktów ECTS w zakresie fizjoterapii oraz odbyła 6-miesięczną praktykę zawodową i uzyskała tytuł zawodowy magistra albo 1a) rozpoczęła po roku akademickim 2018/2019 studia przygotowujące do wykonywania zawodu fizjoterapeuty, prowadzone zgodnie z przepisami wydanymi na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, albo
 - **2)** rozpoczęła po dniu 30 września 2012 r. i przed dniem 1 października 2017 r. studia wyższe z zakresu fizjoterapii, obejmujące co najmniej 180 punktów ECTS, w tym co najmniej 100 punktów ECTS w zakresie fizjoterapii i uzyskała tytuł licencjata lub dodatkowo odbyła studia wyższe obejmujące co najmniej 120 punktów ECTS, w tym co najmniej 60 punktów ECTS w zakresie fizjoterapii i uzyskała tytuł magistra, albo
 - **3)** rozpoczęła po dniu 31 grudnia 1997 r. studia wyższe na kierunku fizjoterapia zgodnie ze standardami kształcenia określonymi w odrębnych przepisach i uzyskała tytuł licencjata lub magistra na tym kierunku, albo
 - **4)** rozpoczęła przed dniem 1 stycznia 1998 r. studia wyższe na kierunku rehabilitacja ruchowa lub rehabilitacja i uzyskała tytuł magistra na tym kierunku, albo
@@ -279,7 +282,7 @@ o zawodzie fizjoterapeuty
 
 - **1)** imię i nazwisko kierownika, o którym mowa w ust. 10;
 - **2)** imię i nazwisko osoby odbywającej praktykę;
-- **3)** numer PESEL, a w przypadku braku numeru PESEL cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
+- **3)** numer PESEL, a w przypadku braku numeru PESEL – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
 - **4)** datę rozpoczęcia praktyki;
 - **5)** imię i nazwisko opiekuna;
 - **6)** wykaz czynności praktycznych wykonywanych przez osobę odbywającą praktykę;
@@ -295,7 +298,7 @@ o zawodzie fizjoterapeuty
 
 - **1)** ramowy program praktyki zawodowej,
 - **2)** sposób odbywania, skrócenia, dokumentowania i zaliczania praktyki zawodowej,
-- **3)** wzór dziennika praktyki zawodowej mając na celu zapewnienie właściwej realizacji praktyki zawodowej.
+- **3)** wzór dziennika praktyki zawodowej – mając na celu zapewnienie właściwej realizacji praktyki zawodowej.
 
 **Art. 15.** (uchylony)
 
@@ -319,7 +322,7 @@ o zawodzie fizjoterapeuty
 
 4. Postępowanie w sprawie stwierdzenia prawa wykonywania zawodu powinno się zakończyć niezwłocznie, jednak niepóźniej niż w terminie 3 miesięcy od dnia złożenia wszystkich wymaganych dokumentów określonych ustawą.
 
-5. W przypadku uzasadnionych wątpliwości dotyczących autentyczności dyplomów, świadectw lub innych dokumentów wydanych przez odpowiednie władze lub organizacje państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Krajowa Rada Fizjoterapeutów może zwrócić się do odpowiednich władz lub organizacji tego państwa o potwierdzenie autentyczności dyplomów, świadectw lub innych dokumentów wydanych przez to państwo oraz o poświadczenie, że fizjoterapeuta zamierzający wykonywać zawód na terytorium Rzeczypospolitej Polskiej uzyskał wykształcenie zgodne z przepisami obowiązującymi w tym państwie.
+5. W przypadku uzasadnionych wątpliwości dotyczących autentyczności dyplomów, świadectw lub innych dokumentów wydanych przez odpowiednie władze lub organizacje państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Krajowa Rada Fizjoterapeutów może zwrócić się do odpowiednich władz lub organizacji tego państwa o potwierdzenie autentyczności dyplomów, świadectw lub innych dokumentów wydanych przez to państwo oraz o poświadczenie, że fizjoterapeuta zamierzający wykonywać zawód na terytorium Rzeczypospolitej Polskiej uzyskał wykształcenie zgodne z przepisami obowiązującymi w tym państwie.
 
 **Art. 22.**
 
@@ -329,7 +332,7 @@ o zawodzie fizjoterapeuty
 - **2)** nazwisko rodowe;
 - **3)** płeć;
 - **4)** datę i miejsce urodzenia;
-- **5)** numer PESEL, serię i numer dowodu osobistego, a w przypadku osób, które nie mają nadanego numeru PESEL numer paszportu lub innego dokumentu stwierdzającego tożsamość;
+- **5)** numer PESEL, serię i numer dowodu osobistego, a w przypadku osób, które nie mają nadanego numeru PESEL – numer paszportu lub innego dokumentu stwierdzającego tożsamość;
 - **6)** obywatelstwo;
 - **7)** adres miejsca zamieszkania;
 - **8)** adres do korespondencji oraz adres poczty elektronicznej, jeżeli posiada;
@@ -342,7 +345,7 @@ o zawodzie fizjoterapeuty
 2. Do wniosku dołącza się:
 
 - **1)** w przypadku osób, o których mowa w art. 13 ust. 3, dodatkowo:
-    - **a)** dokumenty potwierdzające spełnienie wymagań, o których mowa w art. 13 ust. 3 ich oryginały lub notarialnie potwierdzone kopie,
+    - **a)** dokumenty potwierdzające spełnienie wymagań, o których mowa w art. 13 ust. 3 – ich oryginały lub notarialnie potwierdzone kopie,
     - **b)** pisemne oświadczenie o posiadaniu pełnej zdolności do czynności prawnych,
     - **c)** aktualną fotografię;
 
@@ -373,8 +376,8 @@ o zawodzie fizjoterapeuty
 
 1b. Dokument „Prawo wykonywania zawodu fizjoterapeuty” potwierdzający przyznanie prawa, o którym mowa w art. 13 i art. 21, zawiera:
 
-- **1)** nazwę dokumentu „Prawo wykonywania zawodu fizjoterapeuty”;
-- **2)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość, nazwę, numer dokumentu i kraj wydania;
+- **1)** nazwę dokumentu – „Prawo wykonywania zawodu fizjoterapeuty”;
+- **2)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość, nazwę, numer dokumentu i kraj wydania;
 - **3)** numer prawa wykonywania zawodu;
 - **4)** datę i numer uchwały Krajowej Rady Fizjoterapeutów;
 - **5)** podpis Prezesa Krajowej Rady Fizjoterapeutów;
@@ -394,22 +397,27 @@ o zawodzie fizjoterapeuty
 
 **Art. 25.**
 
-1. Do uchwał w sprawach stwierdzenia i przyznania prawa wykonywania zawodu stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
+1. Do uchwał w sprawach stwierdzenia i przyznania prawa wykonywania zawodu stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
 
 2. Od ostatecznych uchwał podjętych w przedmiocie stwierdzenia i przyznania prawa wykonywania zawodu skargę do sądu administracyjnego może wnieść także minister właściwy do spraw zdrowia.
 
-3. W sprawach określonych w ust. 1, w których skargę do sądu administracyjnego wniósł inny uprawniony podmiot, minister właściwy do spraw zdrowia może wziąć udział w postępowaniu sądowym na prawach przysługujących prokuratorowi. Przepis art. 8 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143) stosuje się odpowiednio.
+3. W sprawach określonych w ust. 1, w których skargę do sądu administracyjnego wniósł inny uprawniony podmiot, minister właściwy do spraw zdrowia może wziąć udział w postępowaniu sądowym na prawach przysługujących prokuratorowi. Przepis art. 8 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143) stosuje się odpowiednio.
 
 **Art. 26.** Prawo wykonywania zawodu fizjoterapeuty wygasa w przypadku:
 
+- **1)** śmierci;
+- **2)** zrzeczenia się prawa wykonywania zawodu;
+- **3)** prawomocnego orzeczenia przez sąd dyscyplinarny zakazu wykonywania zawodu;
+- **4)** utraty pełnej zdolności do czynności prawnych.
+
 **Art. 27.**
 
-1. Fizjoterapeuta będący obywatelem państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, który posiada uprawnienia do wykonywania zawodu fizjoterapeuty w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, może tymczasowo i okazjonalnie wykonywać zawód fizjoterapeuty, jeżeli złoży do Krajowej Rady Fizjoterapeutów:
+1. Fizjoterapeuta będący obywatelem państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, który posiada uprawnienia do wykonywania zawodu fizjoterapeuty w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, może tymczasowo i okazjonalnie wykonywać zawód fizjoterapeuty, jeżeli złoży do Krajowej Rady Fizjoterapeutów:
 
 - **1)** pisemne oświadczenie o zamiarze tymczasowego i okazjonalnego wykonywania zawodu na terytorium Rzeczypospolitej Polskiej;
 - **2)** dokument potwierdzający obywatelstwo;
-- **3)** zaświadczenie wydane przez właściwe organy państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, stwierdzające, że zgodnie z prawem wykonuje w tym państwie zawód fizjoterapeuty oraz że w chwili składania oświadczenia nie obowiązuje go zakaz, nawet tymczasowy, wykonywania zawodu fizjoterapeuty;
-- **4)** zaświadczenie o wykonywaniu tego zawodu przez co najmniej rok w okresie ostatnich 10 lat albo dokument potwierdzający kształcenie regulowane w przypadku gdy zawód fizjoterapeuty nie jest regulowany w państwie siedziby usługodawcy;
+- **3)** zaświadczenie wydane przez właściwe organy państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, stwierdzające, że zgodnie z prawem wykonuje w tym państwie zawód fizjoterapeuty oraz że w chwili składania oświadczenia nie obowiązuje go zakaz, nawet tymczasowy, wykonywania zawodu fizjoterapeuty;
+- **4)** zaświadczenie o wykonywaniu tego zawodu przez co najmniej rok w okresie ostatnich 10 lat albo dokument potwierdzający kształcenie regulowane – w przypadku gdy zawód fizjoterapeuty nie jest regulowany w państwie siedziby usługodawcy;
 - **5)** dokumenty potwierdzające kwalifikacje do wykonywania zawodu fizjoterapeuty.
 
 2. Oświadczenie, o którym mowa w ust. 1 pkt 1, składa się przed rozpoczęciem wykonywania zawodu fizjoterapeuty na terytorium Rzeczypospolitej Polskiej po raz pierwszy i ponawia w każdym roku, w którym fizjoterapeuta zamierza wykonywać zawód w sposób tymczasowy i okazjonalny na terytorium Rzeczypospolitej Polskiej.
@@ -424,7 +432,7 @@ o zawodzie fizjoterapeuty
 - **2)** obywatelstwo;
 - **3)** miejsce i datę urodzenia;
 - **4)** nazwę i numer oraz kraj wydania dokumentu potwierdzającego tożsamość;
-- **5)** nazwę i oznaczenie dokumentu potwierdzającego prawo do wykonywania zawodu fizjoterapeuty w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym;
+- **5)** nazwę i oznaczenie dokumentu potwierdzającego prawo do wykonywania zawodu fizjoterapeuty w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym;
 - **6)** miejsce, okres, formę i zakres świadczeń zdrowotnych udzielanych w ramach tymczasowego i okazjonalnego wykonywania zawodu fizjoterapeuty na terytorium Rzeczypospolitej Polskiej, jeżeli ich określenie jest możliwe;
 - **7)** datę wydania przez Krajową Radę Fizjoterapeutów zaświadczenia o spełnieniu obowiązku złożenia oświadczenia oraz dokumentów, o których mowa w ust. 1;
 - **8)** adres do korespondencji.
@@ -465,7 +473,7 @@ o zawodzie fizjoterapeuty
 - **2)** nazwisko rodowe;
 - **3)** imiona rodziców;
 - **4)** miejsce i datę urodzenia;
-- **5)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
+- **5)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
 - **6)** obywatelstwo;
 - **7)** adres miejsca zamieszkania;
 - **8)** numer zaświadczenia o prawie wykonywania zawodu oraz numery poprzednich zaświadczeń o prawie wykonywania zawodu z określeniem organu wydającego zaświadczenie i daty wydania;
@@ -473,7 +481,7 @@ o zawodzie fizjoterapeuty
 - **10)** informację o ograniczeniach w wykonywaniu zawodu;
 - **11)** nazwę ukończonej szkoły, numer dyplomu i datę jego wydania oraz rok ukończenia szkoły;
 - **12)** datę rozpoczęcia wykonywania zawodu;
-- **13)** datę i rodzaj ukończonego kształcenia podyplomowego, nazwę organizatora kształcenia wydającego zaświadczenie oraz w przypadku szkolenia specjalizacyjnego numer dyplomu oraz datę jego wydania;
+- **13)** datę i rodzaj ukończonego kształcenia podyplomowego, nazwę organizatora kształcenia wydającego zaświadczenie oraz w przypadku szkolenia specjalizacyjnego – numer dyplomu oraz datę jego wydania;
 - **14)** stopień naukowy, datę jego uzyskania oraz nazwę organu nadającego stopień;
 - **15)** tytuł naukowy, datę jego uzyskania oraz nazwę organu nadającego tytuł;
 - **16)** nazwę pracodawcy oraz datę zatrudnienia i stanowisko, poczynając od daty rozpoczęcia wykonywania zawodu;
@@ -492,7 +500,7 @@ o zawodzie fizjoterapeuty
 
 1. Krajowa Rada Fizjoterapeutów na wniosek osoby wpisanej do Krajowego Rejestru Fizjoterapeutów, niezwłocznie wydaje wypis w zakresie dotyczącym tej osoby. Wydanie wypisu jest bezpłatne.
 
-2. Krajowa Rada Fizjoterapeutów na wniosek odpowiednich władz lub organizacji państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym udostępnia z Krajowego Rejestru Fizjoterapeutów, niezbędne do uznania kwalifikacji informacje, o które wnoszą te władze lub organizacje, a które mogą mieć wpływ na podjęcie lub wykonywanie zawodu fizjoterapeuty na terytorium tego państwa.
+2. Krajowa Rada Fizjoterapeutów na wniosek odpowiednich władz lub organizacji państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym udostępnia z Krajowego Rejestru Fizjoterapeutów, niezbędne do uznania kwalifikacji informacje, o które wnoszą te władze lub organizacje, a które mogą mieć wpływ na podjęcie lub wykonywanie zawodu fizjoterapeuty na terytorium tego państwa.
 
 3. Na wniosek upoważnionych organów udostępnia się informacje zawarte w Krajowym Rejestrze Fizjoterapeutów dla celów statystycznych.
 
@@ -552,7 +560,7 @@ o zawodzie fizjoterapeuty
 
 10. Staż adaptacyjny, o którym mowa w ust. 8 pkt 2, jest odbywany w jednostce szkolącej, o której mowa w art. 36 ust. 1, na podstawie umowy o odbycie stażu adaptacyjnego zawartej z tą jednostką na warunkach określonych w umowie.
 
-11. KIF uznaje albo odmawia uznania, w drodze decyzji, tytułu specjalisty uzyskanego przez fizjoterapeutę w państwach członkowskich Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej za równoważny z tytułem specjalisty na terytorium Rzeczypospolitej Polskiej zgodnie z zasadami określonymi w przepisach dotyczących zasad uznawania kwalifikacji zawodowych nabytych w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej.
+11. KIF uznaje albo odmawia uznania, w drodze decyzji, tytułu specjalisty uzyskanego przez fizjoterapeutę w państwach członkowskich Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej za równoważny z tytułem specjalisty na terytorium Rzeczypospolitej Polskiej zgodnie z zasadami określonymi w przepisach dotyczących zasad uznawania kwalifikacji zawodowych nabytych w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej.
 
 12. W decyzji zamieszcza się:
 
@@ -634,7 +642,7 @@ o zawodzie fizjoterapeuty
 
 17. Podmioty, o których mowa w ust. 1, przekazują na bieżąco do CMKP informacje niezbędne do prowadzenia staży kierunkowych i kursów specjalizacyjnych.
 
-18. Podmiot, który zrealizował staż albo kurs specjalizacyjny, o których mowa w ust. 15, przekazuje do CMKP listę fizjoterapeutów, którzy ukończyli staż kierunkowy lub kurs specjalizacyjny, zawierającą imię i nazwisko oraz numer PESEL fizjoterapeuty, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania.
+18. Podmiot, który zrealizował staż albo kurs specjalizacyjny, o których mowa w ust. 15, przekazuje do CMKP listę fizjoterapeutów, którzy ukończyli staż kierunkowy lub kurs specjalizacyjny, zawierającą imię i nazwisko oraz numer PESEL fizjoterapeuty, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania.
 
 **Art. 37.**
 
@@ -689,7 +697,7 @@ o zawodzie fizjoterapeuty
 12. Osobom wykonującym czynności kontrolne przysługuje:
 
 - **1)** wynagrodzenie za wykonanie czynności kontrolnych w wysokości niewyższej niż 300 zł;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **3)** zwolnienie od pracy w dniach wykonywania czynności kontrolnych bez zachowania prawa do wynagrodzenia.
 
 **Art. 38.**
@@ -761,7 +769,7 @@ o zawodzie fizjoterapeuty
 - **2)** nazwisko rodowe;
 - **3)** miejsce i datę urodzenia;
 - **4)** płeć;
-- **5)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
+- **5)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
 - **6)** numer dokumentu „Prawo wykonywania zawodu fizjoterapeuty”;
 - **7)** obywatelstwo (obywatelstwa);
 - **8)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
@@ -773,7 +781,7 @@ o zawodzie fizjoterapeuty
 4. Do wniosku dołącza się:
 
 - **1)** odpis dyplomu ukończenia uczelni wyższej;
-- **2)** dokument potwierdzający uzyskanie stopnia naukowego doktora w przypadku, o którym mowa w art. 41 ust. 3 pkt 2 lit. b;
+- **2)** dokument potwierdzający uzyskanie stopnia naukowego doktora – w przypadku, o którym mowa w art. 41 ust. 3 pkt 2 lit. b;
 - **3)** dokument potwierdzający okres zatrudnienia w zawodzie;
 - **4)** oświadczenie dotyczące rodzaju publikacji.
 
@@ -785,7 +793,7 @@ o zawodzie fizjoterapeuty
 
 6a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 6. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
 
-7. Do terminów, o których mowa w ust. 6 albo wyznaczonych na podstawie ust. 6a, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+7. Do terminów, o których mowa w ust. 6 albo wyznaczonych na podstawie ust. 6a, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 8. Fizjoterapeuta ubiegający się o odbywanie szkolenia specjalizacyjnego w dziedzinie fizjoterapii może być w danym terminie dopuszczony do postępowania kwalifikacyjnego tylko w jednym województwie.
 
@@ -801,9 +809,9 @@ o zawodzie fizjoterapeuty
 
 - **1)** (uchylony)
 - **2)** w postępowaniu konkursowym przyznaje się punkty za:
-    - **a)** staż pracy w zawodzie fizjoterapeuty, w pełnym wymiarze czasu pracy 2 punkty za każdy rok, niewięcej niż 6 punktów,
-    - **b)** posiadanie stopnia naukowego doktora 18 punktów,
-    - **c)** opublikowanie jako autor lub współautor: podręcznika naukowego z zakresu fizjoterapii 2 punkty za każdy, niewięcej niż 6 punktów, artykułu naukowego z zakresu fizjoterapii w czasopiśmie recenzowanym 1 punkt za każdy, niewięcej niż 10 punktów,
+    - **a)** staż pracy w zawodzie fizjoterapeuty, w pełnym wymiarze czasu pracy – 2 punkty za każdy rok, niewięcej niż 6 punktów,
+    - **b)** posiadanie stopnia naukowego doktora – 18 punktów,
+    - **c)** opublikowanie jako autor lub współautor: – podręcznika naukowego z zakresu fizjoterapii – 2 punkty za każdy, niewięcej niż 6 punktów, – artykułu naukowego z zakresu fizjoterapii w czasopiśmie recenzowanym – 1 punkt za każdy, niewięcej niż 10 punktów,
     - **d)** szkolenie podyplomowe z zakresu fizjoterapii, gdzie 100 godzin szkolenia jest równe 2 punktom, niewięcej niż 10 punktów;
 
 - **3)** w przypadku gdy co najmniej dwóch kandydatów ubiegających się o miejsce szkoleniowe w dziedzinie fizjoterapii uzyskało identyczny wynik w postępowaniu konkursowym uwzględnia się wynik studiów na dyplomie ukończenia studiów wyższych;
@@ -842,7 +850,7 @@ o zawodzie fizjoterapeuty
 
 2. Rejestr, o którym mowa w ust. 1, zawiera:
 
-- **1)** numer wpisu do rejestru składający się z ciągu kolejnych znaków: numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
+- **1)** numer wpisu do rejestru składający się z ciągu kolejnych znaków: numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
 - **2)** imię (imiona) i nazwisko;
 - **3)** obywatelstwo (obywatelstwa);
 - **4)** numer i datę wydania dyplomu ukończenia studiów wyższych;
@@ -879,7 +887,7 @@ o zawodzie fizjoterapeuty
 
 - **1)** przez okres pobierania świadczeń, o których mowa w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
 - **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas niedłuższy niż 3 miesiące w okresie szkolenia specjalizacyjnego;
-- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185, art. 187 i art. 188 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy;
+- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185, art. 187 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **4)** z powodu przerwy niedłuższej niż 14 dni wynikającej z procedur stosowanych przy zmianie jednostki szkolącej;
 - **5)** z powodu przerwy niedłuższej niż 12 miesięcy wynikającej z realizacji specjalizacji odbywanej w trybie poszerzenia zajęć programowych studiów podyplomowych o program specjalizacji zgodny z zakresem tych studiów.
 
@@ -985,7 +993,7 @@ o zawodzie fizjoterapeuty
 
 2. Fizjoterapeuta, który został zakwalifikowany do odbywania szkolenia specjalizacyjnego w trybie postępowania kwalifikacyjnego i posiada stopień naukowy doktora habilitowanego i odpowiedni dorobek zawodowy w zakresie fizjoterapii, może wystąpić do dyrektora CMKP o uznanie dotychczasowego dorobku naukowego i zawodowego fizjoterapeuty za równoważny ze zrealizowaniem przez niego w części albo w całości programu specjalizacji.
 
-3. Dyrektor CMKP, na podstawie opinii powołanego przez siebie zespołu, może uznać, w drodze decyzji, dotychczasowy dorobek naukowy i zawodowy fizjoterapeuty, o którym mowa w ust. 2, za równoważny ze zrealizowaniem przez niego w części albo w całości szczegółowego programu specjalizacji, a w przypadku uznania za równoważny w całości podjąć decyzję o dopuszczeniu tego fizjoterapeuty do PESFZ.
+3. Dyrektor CMKP, na podstawie opinii powołanego przez siebie zespołu, może uznać, w drodze decyzji, dotychczasowy dorobek naukowy i zawodowy fizjoterapeuty, o którym mowa w ust. 2, za równoważny ze zrealizowaniem przez niego w części albo w całości szczegółowego programu specjalizacji, a w przypadku uznania za równoważny w całości – podjąć decyzję o dopuszczeniu tego fizjoterapeuty do PESFZ.
 
 4. W skład zespołu, o którym mowa w ust. 3, wchodzą:
 
@@ -999,7 +1007,7 @@ o zawodzie fizjoterapeuty
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
+- **3)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
 - **4)** obywatelstwo (obywatelstwa);
 - **5)** adres do korespondencji, numer telefonu i adres poczty elektronicznej, jeżeli posiada;
 - **6)** nazwę i adres jednostki szkolącej, w której było odbywane szkolenie specjalizacyjne;
@@ -1010,11 +1018,11 @@ o zawodzie fizjoterapeuty
 
 7. Formularz wniosku, o którym mowa w ust. 5, jest generowany elektronicznie i pobierany na stronie internetowej CEM. CEM potwierdza elektronicznie zapisanie zgłoszonych danych. Wnioskodawca po wypełnieniu formularza i jego wydrukowaniu składa podpisany własnoręcznie wniosek do właściwego wojewody.
 
-8. Wniosek i dokumenty, o których mowa w ust. 5, składa się w terminie do dnia 15 lipca każdego roku dla sesji jesiennej albo do dnia 15 stycznia każdego roku dla sesji wiosennej. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+8. Wniosek i dokumenty, o których mowa w ust. 5, składa się w terminie do dnia 15 lipca każdego roku dla sesji jesiennej albo do dnia 15 stycznia każdego roku dla sesji wiosennej. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-8a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 8. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
+8a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 8. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
 
-9. Wojewoda weryfikuje wniosek i dokumenty wnioskodawcy pod względem formalnym. W przypadku gdy dokumenty te nie spełniają warunków formalnych, wnioskodawca wzywany jest do uzupełnienia braków formalnych w terminie 7 dni od dnia doręczenia wezwania. Przepisy art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się.
+9. Wojewoda weryfikuje wniosek i dokumenty wnioskodawcy pod względem formalnym. W przypadku gdy dokumenty te nie spełniają warunków formalnych, wnioskodawca wzywany jest do uzupełnienia braków formalnych w terminie 7 dni od dnia doręczenia wezwania. Przepisy art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się.
 
 10. Wojewoda, w terminie 14 dni od dnia otrzymania kompletnego wniosku i dokumentów, o których mowa w ust. 5, przekazuje je właściwemu konsultantowi krajowemu i zwraca się o weryfikację, w terminie 14 dni od dnia ich doręczenia, czy wnioskodawca odbył szkolenie specjalizacyjne zgodnie z programem specjalizacji. Konsultant krajowy przekazuje właściwemu wojewodzie rozstrzygnięcie i zwraca wniosek i dokumenty, które są następnie przechowywane przez wojewodę zgodnie z przepisami art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
 
@@ -1041,13 +1049,13 @@ o zawodzie fizjoterapeuty
 
 2. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
 
-3. W przypadku niewniesienia opłaty, o której mowa w ust. 1, albo wniesienia jej w wysokości niższej niż należna, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w art. 49 ust. 5, a w przypadku jego braku, pocztą na wskazany w tym wniosku adres do korespondencji. Przepisy art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięte nim zgłoszenie do PESFZ traktuje się jako niezłożone.
+3. W przypadku niewniesienia opłaty, o której mowa w ust. 1, albo wniesienia jej w wysokości niższej niż należna, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w art. 49 ust. 5, a w przypadku jego braku, pocztą na wskazany w tym wniosku adres do korespondencji. Przepisy art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięte nim zgłoszenie do PESFZ traktuje się jako niezłożone.
 
 4. Z opłaty, o której mowa w ust. 1, za kolejne zgłoszenie do PESFZ może zostać zwolniony fizjoterapeuta, który w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii mimo zgłoszenia się do PESFZ nie przystąpił do tego egzaminu.
 
 5. W celu uzyskania zwolnienia z opłaty, o którym mowa w ust. 4, fizjoterapeuta w terminie 30 dni od dnia, w którym odbył się PESFZ, do którego miał przystąpić, składa do dyrektora CEM wniosek o zwolnienie z opłaty za kolejne zgłoszenie do PESFZ.
 
-6. Do terminu, o którym mowa w ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+6. Do terminu, o którym mowa w ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 51.**
 
@@ -1061,7 +1069,7 @@ o zawodzie fizjoterapeuty
 
 5. Członkiem PKE nie może być osoba skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
 
-6. Powołanie następuje na czas nieokreślony. Powołanie nie skutkuje powstaniem stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+6. Powołanie następuje na czas nieokreślony. Powołanie nie skutkuje powstaniem stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 7. Kandydatów do PKE mogą zgłaszać:
 
@@ -1072,7 +1080,7 @@ o zawodzie fizjoterapeuty
 8. W zgłoszeniu, o którym mowa w ust. 7, zamieszcza się:
 
 - **1)** imię i nazwisko kandydata;
-- **2)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
+- **2)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
 - **3)** określenie posiadanej specjalizacji;
 - **4)** wskazanie dziedziny, w której kandydat ma być powołany do PKE;
 - **5)** adres korespondencyjny kandydata.
@@ -1120,12 +1128,16 @@ o zawodzie fizjoterapeuty
 5. Członkom Zespołów Egzaminacyjnych przysługuje:
 
 - **1)** wynagrodzenie za udział w pracach tego Zespołu, w wysokości niewyższej niż 500 zł dla Przewodniczącego Zespołu oraz niewyższej niż 300 zł dla członka Zespołu;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **3)** zwolnienie od pracy w dniu wykonywania czynności Zespołu Egzaminacyjnego bez zachowania prawa do wynagrodzenia.
 
 6. Dyrektor CEM określa, w drodze zarządzenia, szczegóły dotyczące warunków wypłaty wynagrodzenia, o którym mowa w ust. 5 pkt 1, oraz zwrotu kosztów, o których mowa w ust. 5 pkt 2.
 
 **Art. 53.** Do zadań Zespołu Egzaminacyjnego przeprowadzającego dany PESFZ należy:
+
+- **1)** przeprowadzenie PESFZ zgodnie z regulaminem porządkowym, o którym mowa w art. 54 ust. 8;
+- **2)** przekazanie do CEM kart odpowiedzi, niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminu ustnego i praktycznego oraz dokumentacji związanej z przeprowadzonym PESFZ, niezwłocznie po zakończonym PESFZ, niepóźniej jednak niż w terminie 14 dni od dnia zakończenia PESFZ.
 
 **Art. 54.**
 
@@ -1154,7 +1166,7 @@ o zawodzie fizjoterapeuty
 
 8. PESFZ przeprowadza się zgodnie z regulaminem porządkowym ustalonym przez dyrektora CEM i zatwierdzonym przez ministra właściwego do spraw zdrowia.
 
-9. W uzasadnionych przypadkach minister właściwy do spraw zdrowia może, na wniosek dyrektora CEM, wyrazić zgodę na odstąpienie od przeprowadzenia egzaminu testowego dla wszystkich fizjoterapeutów dopuszczonych do PESFZ, w określonej sesji egzaminacyjnej, z zachowaniem egzaminu ustnego, albo zdecydować o przeprowadzeniu PESFZ jeden raz w roku z zachowaniem wszystkich jego części, w jednej z sesji egzaminacyjnych.
+9. W uzasadnionych przypadkach minister właściwy do spraw zdrowia może, na wniosek dyrektora CEM, wyrazić zgodę na odstąpienie od przeprowadzenia egzaminu testowego dla wszystkich fizjoterapeutów dopuszczonych do PESFZ, w określonej sesji egzaminacyjnej, z zachowaniem egzaminu ustnego, albo zdecydować o przeprowadzeniu PESFZ jeden raz w roku – z zachowaniem wszystkich jego części, w jednej z sesji egzaminacyjnych.
 
 10. W uzasadnionych przypadkach, związanych z wystąpieniem zwiększonego zagrożenia epidemicznego lub innych okoliczności zagrażających bezpieczeństwu osób uczestniczących w PESFZ, dyrektor CEM w porozumieniu z przewodniczącym właściwej PKE może zdecydować, że egzamin ustny PESFZ zostanie przeprowadzony za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i wszystkich członków Zespołu Egzaminacyjnego, zwany dalej „zdalnym PESFZ”.
 
@@ -1208,7 +1220,7 @@ o zawodzie fizjoterapeuty
 
 **Art. 57.**
 
-1. CEM ustala wyniki PESFZ, a w zakresie egzaminu testowego publikuje je na swojej stronie internetowej. Wynik PESFZ nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. CEM ustala wyniki PESFZ, a w zakresie egzaminu testowego publikuje je na swojej stronie internetowej. Wynik PESFZ nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Fizjoterapeuta, który nie przystąpił do PESFZ w wyznaczonym terminie albo uzyskał wynik negatywny z PESFZ, może przystąpić do PESFZ w kolejnej sesji egzaminacyjnej.
 
@@ -1237,7 +1249,7 @@ o zawodzie fizjoterapeuty
 5. Rejestr, o którym mowa w ust. 4, zawiera następujące dane osoby, której wydano dyplom:
 
 - **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL, a w przypadku braku numeru PESEL nazwę i numer dokumentu potwierdzającego tożsamość;
+- **2)** numer PESEL, a w przypadku braku numeru PESEL – nazwę i numer dokumentu potwierdzającego tożsamość;
 - **3)** numer i datę wydania dyplomu;
 - **4)** imię i nazwisko kierownika specjalizacji oraz jego stopień albo tytuł naukowy;
 - **5)** nazwę i adres jednostki szkolącej, w której zainteresowany odbywał szkolenie specjalizacyjne;
@@ -1267,6 +1279,17 @@ o zawodzie fizjoterapeuty
 7. Za powtórzony PESFZ albo jego część nie pobiera się opłaty egzaminacyjnej.
 
 **Art. 60.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** wzór KS,
+- **2)** kod specjalizacji w dziedzinie fizjoterapii – uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji;
+- **3)** wzór dyplomu specjalisty, uwzględniając konieczność zapewnienia przejrzystości dokumentu,
+- **4)** wysokość wynagrodzenia za wykonanie czynności kontrolnych, o których mowa w art. 37 ust. 12 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych,
+- **5)** szczegółowy tryb działania PKE oraz wysokość wynagrodzenia przewodniczącego i członków PKE,
+- **6)** wzór oświadczenia, o którym mowa w art. 52 ust. 4,
+- **7)** szczegółowy sposób i tryb składania PESFZ oraz ustalania jego wyników – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia PESFZ oraz zapewnienia bezstronności pracy PKE, a także nakład pracy przewodniczącego i członków PKE;
+- **8)** tryb wydawania przez dyrektora CEM duplikatu lub odpisu dyplomu PESFZ oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESFZ,
+- **9)** tryb dokonywania przez dyrektora CEM korekty dyplomu PESFZ oraz sposób uiszczania opłaty za dokonanie korekty dyplomu – uwzględniając konieczność prawidłowego i sprawnego wydania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
+- **10)** wysokość opłaty za PESFZ, uwzględniając koszty przeprowadzenia PESFZ oraz wydania dyplomu potwierdzającego tytuł specjalisty.
 
 #### Rozdział 6 Samorząd fizjoterapeutów
 
@@ -1364,7 +1387,7 @@ o zawodzie fizjoterapeuty
 - **1)** zawieszonych w prawie wykonywania zawodu na podstawie art. 12 ust. 4 lub
 - **2)** wobec których sąd orzekł prawomocnie środek karny pozbawienia praw publicznych lub środek karny albo środek zabezpieczający polegający na zakazie wykonywania zawodu albo sąd lub prokurator wydał postanowienie o zastosowaniu środka zapobiegawczego w postaci zawieszenia w wykonywaniu zawodu, lub
 - **3)** skazanych prawomocnym wyrokiem sądu za popełnione umyślnie przestępstwo ścigane z oskarżenia publicznego, lub
-- **4)** ukaranych jedną z kar wymienionych w art. 108 ust. 1 pkt 2–8 do czasu upływu terminu zatarcia kary lub upływu terminu, na który został orzeczony środek zabezpieczający.
+- **4)** ukaranych jedną z kar wymienionych w art. 108 ust. 1 pkt 2–8 – do czasu upływu terminu zatarcia kary lub upływu terminu, na który został orzeczony środek zabezpieczający.
 
 3. Bierne prawo wyborcze nie przysługuje członkom KIF, którzy za okres co najmniej jednego roku w okresie ostatnich pięciu lat przed wyborami nie wykonali obowiązku opłacenia składki członkowskiej, do dnia opłacenia tej składki.
 
@@ -1404,7 +1427,7 @@ o zawodzie fizjoterapeuty
 
 1. Na wniosek Krajowej Rady Fizjoterapeutów albo Prezesa pracodawca jest obowiązany zwolnić od pracy pracownika będącego członkiem organu KIF lub wykonującego czynności na rzecz KIF, bez zachowania prawa do wynagrodzenia.
 
-2. Krajowa Rada Fizjoterapeutów określa zasady i tryb kompensacji wynagrodzenia przez organy samorządu na czas zwolnień od pracy, o których mowa w ust. 1, oraz tryb zwrotu kosztów podróży i innych uzasadnionych wydatków poniesionych przez członka w związku z wykonywaniem czynności na rzecz KIF, biorąc pod uwagę przepisy wydane na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+2. Krajowa Rada Fizjoterapeutów określa zasady i tryb kompensacji wynagrodzenia przez organy samorządu na czas zwolnień od pracy, o których mowa w ust. 1, oraz tryb zwrotu kosztów podróży i innych uzasadnionych wydatków poniesionych przez członka w związku z wykonywaniem czynności na rzecz KIF, biorąc pod uwagę przepisy wydane na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 70.**
 
@@ -1421,7 +1444,7 @@ o zawodzie fizjoterapeuty
 - **3)** wyborów osób na funkcje w organach KIF;
 - **4)** reprezentowania KIF przez osoby pełniące funkcje w ich organach.
 
-2. Minister właściwy do spraw zdrowia może zaskarżyć do Sądu Najwyższego pod zarzutem niezgodności z prawem uchwałę organu KIF w terminie 3 miesięcy od dnia jej otrzymania. Do rozpoznania skargi stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473) o postępowaniu nieprocesowym.
+2. Minister właściwy do spraw zdrowia może zaskarżyć do Sądu Najwyższego pod zarzutem niezgodności z prawem uchwałę organu KIF w terminie 3 miesięcy od dnia jej otrzymania. Do rozpoznania skargi stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473) o postępowaniu nieprocesowym.
 
 3. Sąd Najwyższy utrzymuje zaskarżoną uchwałę w mocy albo ją uchyla i przekazuje sprawę do ponownego rozpoznania właściwemu organowi KIF, ustalając wytyczne co do sposobu jej załatwienia.
 
@@ -1429,12 +1452,12 @@ o zawodzie fizjoterapeuty
 
 5. Minister właściwy do spraw zdrowia może zwrócić się do Krajowego Zjazdu Fizjoterapeutów lub do Krajowej Rady Fizjoterapeutów o podjęcie uchwały w sprawie należącej do właściwości samorządu.
 
-6. Wniosek, o którym mowa w ust. 5, powinien rozpatrzyć najbliższy Krajowy Zjazd Fizjoterapeutów, a Krajowa Rada Fizjoterapeutów na najbliższym posiedzeniu, jednak niepóźniej niż w terminie 3 miesięcy od dnia jego wpływu.
+6. Wniosek, o którym mowa w ust. 5, powinien rozpatrzyć najbliższy Krajowy Zjazd Fizjoterapeutów, a Krajowa Rada Fizjoterapeutów – na najbliższym posiedzeniu, jednak niepóźniej niż w terminie 3 miesięcy od dnia jego wpływu.
 
 7. Przepisów ust. 1–6 nie stosuje się do uchwał:
 
 - **1)** podejmowanych w postępowaniu w zakresie odpowiedzialności zawodowej fizjoterapeutów;
-- **2)** do których na podstawie odrębnych przepisów stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego odnoszące się do decyzji administracyjnych.
+- **2)** do których na podstawie odrębnych przepisów stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego odnoszące się do decyzji administracyjnych.
 
 **Art. 72.** Krajowa Rada Fizjoterapeutów przesyła ministrowi właściwemu do spraw zdrowia, w terminie do dnia 31 maja, sprawozdanie z działalności samorządu fizjoterapeutów za rok ubiegły.
 
@@ -1461,6 +1484,14 @@ o zawodzie fizjoterapeuty
 
 **Art. 75.** Do zadań Krajowego Zjazdu Fizjoterapeutów należy:
 
+- **1)** wybór Prezesa;
+- **2)** wybór Krajowej Rady Fizjoterapeutów, Komisji Rewizyjnej, Sądu Dyscyplinarnego, Wyższego Sądu Dyscyplinarnego oraz Rzecznika i jego zastępców;
+- **3)** uchwalanie wytycznych działania samorządu i jego organów;
+- **4)** określenie zasad przeprowadzania wyborów do organów samorządu, liczby członków tych organów oraz trybu ich odwoływania, a także zasad podejmowania uchwał przez organy samorządu;
+- **5)** rozpatrywanie i zatwierdzanie sprawozdań Krajowej Rady Fizjoterapeutów, Komisji Rewizyjnej, Sądu Dyscyplinarnego, Wyższego Sądu Dyscyplinarnego i Rzecznika;
+- **6)** kodyfikowanie zasad etyki fizjoterapeutów;
+- **7)** ustalanie podstawowych zasad gospodarki finansowej samorządu.
+
 **Art. 76.**
 
 1. Nadzwyczajny Krajowy Zjazd Fizjoterapeutów zwołuje Krajowa Rada Fizjoterapeutów:
@@ -1476,17 +1507,38 @@ o zawodzie fizjoterapeuty
 
 **Art. 77.** Do zakresu działania Krajowej Rady Fizjoterapeutów należy:
 
+- **1)** reprezentowanie samorządu wobec organów państwowych i samorządowych, sądów, organów Narodowego Funduszu Zdrowia, instytucji i organizacji;
+- **2)** wykonywanie uchwał Krajowego Zjazdu Fizjoterapeutów;
+- **3)** udzielanie opinii o projektach aktów prawnych oraz przedstawianie wniosków dotyczących unormowań prawnych z zakresu ochrony zdrowia;
+- **4)** opiniowanie programu studiów wyższych oraz programów specjalizacji z zakresu fizjoterapii;
+- **5)** uchwalanie budżetu Krajowej Rady Fizjoterapeutów i zatwierdzanie sprawozdań z jego wykonania oraz rozpatrywanie wniosków Komisji Rewizyjnej;
+- **6)** wybór Prezesa oraz Rzecznika, jeżeli ich mandat wygasł w okresie pomiędzy Krajowymi Zjazdami Fizjoterapeutów;
+- **7)** koordynowanie doskonalenia zawodowego fizjoterapeutów;
+- **8)** ustalanie zasad gospodarki finansowej samorządu;
+- **9)** określanie wysokości składki członkowskiej i zasad jej podziału oraz wysokości opłat manipulacyjnych;
+- **10)** wykonywanie innych zadań określonych w ustawie oraz przepisach odrębnych.
+
 **Art. 78.** Do zakresu działania Komisji Rewizyjnej należy kontrola działalności finansowej i gospodarczej Krajowej Rady Fizjoterapeutów.
 
 **Art. 79.** Sąd Dyscyplinarny rozpatruje sprawy dyscyplinarne fizjoterapeutów, wniesione przez Rzecznika.
 
 **Art. 80.** Wyższy Sąd Dyscyplinarny:
 
+- **1)** uchwala regulaminy wewnętrzne Sądu Dyscyplinarnego i Wyższego Sądu Dyscyplinarnego;
+- **2)** rozpatruje odwołania od orzeczeń Sądu Dyscyplinarnego.
+
 **Art. 81.** Rzecznik:
+
+- **1)** przygotowuje postępowanie dyscyplinarne i wykonuje czynności oskarżyciela przed Sądem Dyscyplinarnym i Wyższym Sądem Dyscyplinarnym;
+- **2)** prowadzi działalność prewencyjną w zakresie wykroczeń zawodowych i postępowania sprzecznego z zasadami etyki zawodowej.
 
 **Art. 82.** Samorząd może prowadzić działalność gospodarczą.
 
 **Art. 83.** Działalność samorządu jest finansowana:
+
+- **1)** ze składek członkowskich;
+- **2)** z innych źródeł, a w szczególności z dotacji, subwencji, darowizn i spadków;
+- **3)** z działalności gospodarczej.
 
 **Art. 84.** Nieopłacone w terminie składki członkowskie i koszty postępowania w przedmiocie odpowiedzialności dyscyplinarnej podlegają egzekucji w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268 i 516).
 
@@ -1513,7 +1565,7 @@ o zawodzie fizjoterapeuty
 
 2. Celem czynności sprawdzających jest zbadanie okoliczności koniecznych do ustalenia, czy istnieją podstawy do wszczęcia postępowania wyjaśniającego. W trakcie czynności sprawdzających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu, z wyjątkiem przesłuchania w charakterze świadka osoby składającej skargę na fizjoterapeutę.
 
-3. Celem postępowania wyjaśniającego jest ustalenie, czy został popełniony czyn mogący stanowić przewinienie zawodowe, wyjaśnienie okoliczności sprawy, a w przypadku stwierdzenia znamion przewinienia zawodowego ustalenie osoby obwinionej oraz zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu dyscyplinarnego.
+3. Celem postępowania wyjaśniającego jest ustalenie, czy został popełniony czyn mogący stanowić przewinienie zawodowe, wyjaśnienie okoliczności sprawy, a w przypadku stwierdzenia znamion przewinienia zawodowego – ustalenie osoby obwinionej oraz zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu dyscyplinarnego.
 
 4. Celem postępowania przed sądem dyscyplinarnym jest pociągnięcie do odpowiedzialności sprawcy przewinienia zawodowego oraz ujawnienie okoliczności sprzyjających popełnianiu przewinień zawodowych, a także zapobieganie im oraz umacnianie poszanowania prawa i zasad współżycia społecznego.
 
@@ -1589,7 +1641,7 @@ o zawodzie fizjoterapeuty
 
 2. Postępowanie w przedmiocie odpowiedzialności zawodowej umarza się, jeżeli wystąpią przesłanki wymienione w ust. 1.
 
-3. W przypadku śmierci osoby obwinionej przed ukończeniem rozpoczętego postępowania przed sądem dyscyplinarnym toczy się ono nadal, jeżeli w terminie 2 miesięcy od dnia jej zgonu zażąda tego jej małżonek, wstępny, zstępny, rodzeństwo, powinowaty w tej samej linii lub stopniu, osoba pozostająca w stosunku przysposobienia oraz jej małżonek lub osoba pozostająca we wspólnym pożyciu. W takim przypadku sąd dyscyplinarny może wydać tylko orzeczenie uniewinniające albo w przypadku braku przesłanek dla wydania tego rodzaju orzeczenia umorzyć postępowanie.
+3. W przypadku śmierci osoby obwinionej przed ukończeniem rozpoczętego postępowania przed sądem dyscyplinarnym toczy się ono nadal, jeżeli w terminie 2 miesięcy od dnia jej zgonu zażąda tego jej małżonek, wstępny, zstępny, rodzeństwo, powinowaty w tej samej linii lub stopniu, osoba pozostająca w stosunku przysposobienia oraz jej małżonek lub osoba pozostająca we wspólnym pożyciu. W takim przypadku sąd dyscyplinarny może wydać tylko orzeczenie uniewinniające albo w przypadku braku przesłanek dla wydania tego rodzaju orzeczenia – umorzyć postępowanie.
 
 **Art. 95.**
 
@@ -1617,7 +1669,7 @@ o zawodzie fizjoterapeuty
 
 7. Sąd Dyscyplinarny rozpoznaje zażalenie oraz orzeka w składzie trzyosobowym.
 
-8. Uchylając postanowienie o umorzeniu postępowania wyjaśniającego albo o odmowie jego wszczęcia, Sąd Dyscyplinarny wskazuje powody uchylenia, a w miarę potrzeby także okoliczności, które należy wyjaśnić, lub czynności, które należy przeprowadzić. Wskazania te są wiążące dla Rzecznika.
+8. Uchylając postanowienie o umorzeniu postępowania wyjaśniającego albo o odmowie jego wszczęcia, Sąd Dyscyplinarny wskazuje powody uchylenia, a w miarę potrzeby – także okoliczności, które należy wyjaśnić, lub czynności, które należy przeprowadzić. Wskazania te są wiążące dla Rzecznika.
 
 **Art. 97.** W toku postępowania wyjaśniającego Rzecznik powinien dążyć do szczegółowego wyjaśnienia sprawy. W tym celu może przesłuchiwać pokrzywdzonego i inne osoby w charakterze świadków, powoływać i przesłuchiwać biegłych lub specjalistów, jak również przeprowadzać inne dowody. W przypadkach niecierpiących zwłoki, w szczególności wtedy gdy mogłoby to spowodować zatarcie śladów lub dowodów przewinienia zawodowego, Rzecznik może przesłuchać fizjoterapeutę w charakterze osoby obwinionej, przed wydaniem postanowienia o przedstawieniu zarzutów, jeżeli zachodzą warunki do sporządzenia takiego postanowienia.
 
@@ -1765,7 +1817,7 @@ o zawodzie fizjoterapeuty
 - **4)** opis i kwalifikację prawną zarzucanego czynu;
 - **5)** rozstrzygnięcie w przedmiocie postępowania;
 - **6)** postanowienie o kosztach postępowania;
-- **7)** rozstrzygnięcie co do kary, a w razie potrzeby co do zaliczenia na jej poczet tymczasowego zawieszenia w prawie wykonywania zawodu, w przypadku orzeczenia skazującego.
+- **7)** rozstrzygnięcie co do kary, a w razie potrzeby – co do zaliczenia na jej poczet tymczasowego zawieszenia w prawie wykonywania zawodu, w przypadku orzeczenia skazującego.
 
 2. Uzasadnienie orzeczenia zawiera:
 
@@ -1791,7 +1843,7 @@ o zawodzie fizjoterapeuty
 
 2. Odwołanie, o którym mowa w ust. 1, wnosi się za pośrednictwem Sądu Dyscyplinarnego.
 
-3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Wyższy Sąd Dyscyplinarny, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1, 2 i 5–10 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490 i 421).
+3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Wyższy Sąd Dyscyplinarny, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1, 2 i 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490 i 421).
 
 **Art. 117.**
 
@@ -1811,7 +1863,7 @@ o zawodzie fizjoterapeuty
 
 1. Od prawomocnego orzeczenia Wyższego Sądu Dyscyplinarnego kończącego postępowanie w przedmiocie odpowiedzialności zawodowej stronom, ministrowi właściwemu do spraw zdrowia i Prezesowi przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia. Strony, minister właściwy do spraw zdrowia i Prezes wnoszą kasację do Sądu Najwyższego za pośrednictwem Wyższego Sądu Dyscyplinarnego.
 
-2. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
+2. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
 
 3. Kasację w stosunku do tej samej osoby obwinionej i od tego samego orzeczenia każdy uprawniony może wnieść tylko raz.
 
@@ -1823,9 +1875,14 @@ o zawodzie fizjoterapeuty
 
 **Art. 121.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu dyscyplinarnego wznawia się, jeżeli:
 
+- **1)** w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem temu sądowi, wskazujące na to, że:
+    - **a)** osoba obwiniona nie popełniła czynu albo jej czyn nie stanowił przewinienia zawodowego lub nie podlegał karze,
+    - **b)** sąd ten umorzył postępowanie, błędnie przyjmując popełnienie przez osobę obwinioną zarzucanego jej czynu.
+
 **Art. 122.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu dyscyplinarnego można wznowić w przypadku uchylenia lub istotnej zmiany treści prawomocnego orzeczenia, z powodu którego zostało ono umorzone w trybie art. 107 ust. 1.
 
-**Art. 123.** Czyn, o którym mowa w art. 121 pkt 1, musi być ustalony prawomocnym wyrokiem skazującym, chyba że orzeczenie takie nie może zapaść z przyczyn wymienionych w art. 17 § 1 pkt 3–11 lub w art. 22 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+**Art. 123.** Czyn, o którym mowa w art. 121 pkt 1, musi być ustalony prawomocnym wyrokiem skazującym, chyba że orzeczenie takie nie może zapaść z przyczyn wymienionych w art. 17 § 1 pkt 3–11 lub w art. 22 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 **Art. 124.**
 
@@ -1833,7 +1890,7 @@ o zawodzie fizjoterapeuty
 
 2. Wniosek o wznowienie postępowania na korzyść osoby obwinionej może złożyć w razie jej śmierci osoba, o której mowa w art. 89 ust. 3.
 
-3. Postępowanie wznawia się z urzędu tylko w razie ujawnienia jednego z uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+3. Postępowanie wznawia się z urzędu tylko w razie ujawnienia jednego z uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 4. Wznowienie nie może nastąpić z przyczyn wymienionych w ust. 3, jeżeli były one przedmiotem rozpoznania w trybie kasacji.
 
@@ -1902,13 +1959,19 @@ o zawodzie fizjoterapeuty
 - **2)** 3 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 108 ust. 1 pkt 2,
 - **3)** 3 lat od dnia wykonania orzeczenia o ukaraniu karami wymienionymi w art. 108 ust. 1 pkt 3–6,
 - **4)** 5 lat od dnia wykonania orzeczenia o ukaraniu karą wymienioną w art. 108 ust. 1 pkt 7,
-- **5)** 15 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 108 ust. 1 pkt 8 jeżeli fizjoterapeuta nie zostanie w tym czasie ponownie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie w przedmiocie odpowiedzialności zawodowej.
+- **5)** 15 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 108 ust. 1 pkt 8 – jeżeli fizjoterapeuta nie zostanie w tym czasie ponownie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie w przedmiocie odpowiedzialności zawodowej.
 
 2. Zatarcie ukarania następuje przez usunięcie z rejestru ukaranych fizjoterapeutów wpisu o ukaraniu.
 
 **Art. 134.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb prowadzenia rejestru ukaranych fizjoterapeutów,
+- **2)** sposób i tryb wykonania prawomocnych orzeczeń sądów dyscyplinarnych – kierując się potrzebą respektowania praw uczestników postępowania oraz specyfiką i złożonością postępowań w przedmiocie odpowiedzialności zawodowej.
+
 **Art. 135.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
+
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 #### Rozdział 8 Przepisy karne
 
@@ -1920,7 +1983,7 @@ o zawodzie fizjoterapeuty
 
 **Art. 139.** Kto dopuszcza do udzielania świadczeń z zakresu fizjoterapii osobę nieposiadającą prawa wykonywania zawodu wymaganego do udzielania tych świadczeń, podlega karze ograniczenia wolności albo grzywny.
 
-**Art. 140.** Postępowanie w sprawach o czyny określone w art. 138 i art. 139 toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm. ).
+**Art. 140.** Postępowanie w sprawach o czyny określone w art. 138 i art. 139 toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm. ).
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
@@ -1961,6 +2024,12 @@ o zawodzie fizjoterapeuty
 **Art. 146.** Osoby, które przed dniem wejścia w życie niniejszej ustawy uzyskały I stopień specjalizacji, mogą uzupełnić kwalifikacje i uzyskać tytuł specjalisty w trybie określonym w niniejszej ustawie, według uzupełniającego programu szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
 
 **Art. 147.** Osoba, której minister właściwy do spraw zdrowia, przed dniem wejścia w życie niniejszej ustawy, powierzył obowiązki specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, może:
+
+- **1)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 36 ust. 8;
+- **2)** pełnić funkcję kierownika specjalizacji w danej dziedzinie ochrony zdrowia;
+- **3)** wchodzić w skład zespołu kontrolnego, o którym mowa w art. 37 ust. 4;
+- **4)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 38 ust. 3;
+- **5)** przystąpić do PESFZ.
 
 **Art. 148.**
 

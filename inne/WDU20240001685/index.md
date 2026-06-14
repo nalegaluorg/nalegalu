@@ -8,7 +8,7 @@ pos: 1685
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych
@@ -127,7 +127,8 @@ h) wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny s
 § 4. Szef Krajowej Administracji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego lub zorganizować z zainteresowanym spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
 § 5. Ze spotkania uzgodnieniowego sporządza się protokół.
 Art. 119zfr. § 1. Szef Krajowej Administracji Skarbowej wydaje opinię zabezpieczającą w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1.
-§ 2. Szef Krajowej Administracji Skarbowej odmawia wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1. Odmawiając wydania opinii zabezpieczającej, wskazuje się okoliczności świadczące o tym, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1.
+§ 2. Szef Krajowej Administracji Skarbowej odmawia wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1. Odmawiając wydania opinii zabezpieczającej, wskazuje się okoliczności świadczące o tym, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a
+§ 1.
 § 3. Odmowa wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
 Art. 119zfs. Złożenie wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
 Art. 119zft. Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego zawiera w szczególności:
@@ -662,6 +663,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 21.** W przypadku bezpaństwowej jednostki składowej:
 
+- **1)** efektywną stawkę podatkową oraz
+- **2)** jurysdykcyjny globalny podatek wyrównawczy, w tym obniżenie z tytułu substratu majątkowo-osobowego – oblicza się za każdy rok podatkowy odrębnie od innych jednostek składowych, w tym innych bezpaństwowych jednostek składowych.
+
 **Art. 22.**
 
 1. W przypadku gdy jednostka dominująca posiada, bezpośrednio lub pośrednio, udziały własnościowe w jednostce joint venture lub jednostce zależnej joint venture, oblicza dla tych jednostek podatek wyrównawczy grupy joint venture.
@@ -694,6 +698,14 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 24.** Podatnikiem krajowego podatku wyrównawczego jest:
 
+- **1)** zlokalizowana na terytorium Rzeczypospolitej Polskiej:
+    - **a)** jednostka składowa grupy międzynarodowej lub grupy krajowej, w tym jednostka pośrednicząca, o której mowa w art. 7 ust. 2 pkt 2,
+    - **b)** jednostka joint venture oraz jednostka zależna joint venture;
+
+- **2)** bezpaństwowa jednostka składowa będąca:
+    - **a)** jednostką pośredniczącą, o której mowa w art. 7 ust. 3 pkt 1, jeżeli taka jednostka została utworzona na terytorium Rzeczypospolitej Polskiej,
+    - **b)** stałym zakładem, jeżeli działalność takiego zakładu jest prowadzona na terytorium Rzeczypospolitej Polskiej i ten zakład podlega opodatkowaniu podatkiem dochodowym od osób prawnych.
+
 **Art. 25.**
 
 1. Krajowy podatek wyrównawczy oblicza podatnik będący nisko opodatkowaną jednostką składową.
@@ -712,6 +724,10 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **2)** jurysdykcyjny kwalifikowany dochód (stratę) netto oraz efektywną stawkę podatkową tej grupy dla Rzeczypospolitej Polskiej.
 
 **Art. 26.** Jeżeli Rzeczpospolita Polska jest jurysdykcją o niskim poziomie opodatkowania, oblicza się jurysdykcyjny krajowy podatek wyrównawczy za rok podatkowy według wzoru: (indywidualna stawka podatkowa ∙ nadwyżka zysku)+ dodatkowy podatek wyrównawczy , gdzie:
+
+- **1)** indywidualną stawkę podatkową stanowi różnica między minimalną stawką podatkową a efektywną stawką podatkową;
+- **2)** nadwyżkę zysku stanowi różnica między jurysdykcyjnym kwalifikowanym dochodem netto a substratem majątkowo-osobowym;
+- **3)** dodatkowy podatek wyrównawczy stanowi kwota podatku, o którym mowa w art. 16, obliczona odpowiednio dla krajowego podatku wyrównawczego.
 
 **Art. 27.**
 
@@ -740,6 +756,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 30.** W celu obliczenia skorygowanych podatków kwalifikowanych:
 
+- **1)** nie przydziela się podatnikowi podatków kwalifikowanych zgodnie z art. 93 pkt 1, 3 i 4;
+- **2)** przydziela się podatnikowi podatki kwalifikowane zgodnie z art. 93 pkt 5 wyłącznie w zakresie podatku pobieranego u źródła.
+
 **Art. 31.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy działów II oraz V–XI.
 
 ### DZIAŁ IV Podatek wyrównawczy od niedostatecznie opodatkowanych zysków
@@ -751,6 +770,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 2. Przepisu ust. 1 nie stosuje się do jednostek składowych będących jednostkami inwestycyjnymi.
 
 **Art. 33.** Podatek od niedostatecznie opodatkowanych zysków oblicza się w przypadku, gdy jednostka dominująca najwyższego szczebla grupy międzynarodowej jest zlokalizowana w innej niż Rzeczpospolita Polska jurysdykcji oraz:
+
+- **1)** w jurysdykcji tej nie obowiązuje kwalifikowana zasada włączenia dochodu do opodatkowania albo jurysdykcja ta jest jurysdykcją o niskim poziomie opodatkowania w rozumieniu art. 11 ust. 3, a jednostka dominująca najwyższego szczebla nie podlega kwalifikowanej zasadzie włączenia dochodu do opodatkowania, lub
+- **2)** jest jednostką wyłączoną.
 
 **Art. 34.**
 
@@ -831,6 +853,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 40.** Jednostka składowa jest obowiązana obliczyć księgowy dochód (stratę) netto na podstawie akceptowalnego standardu rachunkowości lub zatwierdzonego standardu rachunkowości zastosowanego w skonsolidowanym sprawozdaniu grupy z uwzględnieniem korekt, o których mowa w art. 38 i art. 39, jeżeli:
 
+- **1)** jednostka ta nie prowadzi ksiąg na podstawie akceptowalnego standardu rachunkowości lub zatwierdzonego standardu rachunkowości albo
+- **2)** to skonsolidowane sprawozdanie grupy jest hipotetycznym sprawozdaniem finansowym.
+
 ##### Oddział 2 Korekty księgowego dochodu (straty) netto
 
 **Art. 41.**
@@ -874,6 +899,12 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 42.** Korekta z tytułu obciążenia podatkowego netto, o której mowa w art. 41 ust. 1 pkt 1 lit. a, polega na zwiększeniu o pozycje, które uprzednio zmniejszyły księgowy dochód (stratę) netto, oraz pomniejszeniu o pozycje, które uprzednio zwiększyły ten księgowy dochód (stratę) netto, z tytułu:
 
+- **1)** podatków kwalifikowanych, bieżących i odroczonych, ujętych w obciążeniu wyniku finansowego z tytułu podatku dochodowego albo ujętych w księgach jako koszt lub podobny zapis, w tym podatków kwalifikowanych naliczonych od dochodu (przychodów), który jest wyłączony z obliczania kwalifikowanego dochodu (straty);
+- **2)** aktywa z tytułu podatku odroczonego od straty za rok podatkowy;
+- **3)** kwalifikowanego krajowego podatku wyrównawczego lub krajowego podatku wyrównawczego naliczonych jako koszt lub jako obciążenie wyniku finansowego z tytułu podatku dochodowego;
+- **4)** globalnego podatku wyrównawczego, podatku wyrównawczego od niedostatecznie opodatkowanych zysków lub podatków równoważnych wynikających z przepisów obowiązujących w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, które są równoważne z zasadami określonymi w dyrektywie 2022/2523, a w odniesieniu do jurysdykcji innej niż państwo członkowskie Unii Europejskiej – z Modelowymi zasadami OECD odpowiadającymi tym przepisom, naliczonych jako koszt lub jako obciążenie wyniku finansowego z tytułu podatku dochodowego;
+- **5)** wyłączonego przypisanego podatku, o którym mowa w art. 79 ust. 2, naliczonego jako koszt.
+
 **Art. 43.**
 
 1. Korekta z tytułu dywidend wyłączonych, o której mowa w art. 41 ust. 1 pkt 1 lit. b, polega na nieuwzględnieniu dywidend oraz innych płatności o podobnym charakterze otrzymanych lub naliczonych z tytułu udziałów własnościowych.
@@ -898,9 +929,20 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 45.** Korekta z tytułu uwzględnianych zysków (strat) wynikających z aktualizacji wyceny, o której mowa w art. 41 ust. 1 pkt 1 lit. d, polega na uwzględnieniu zysku (straty) netto, odpowiednio powiększonego (pomniejszonej) o związane z zyskiem (stratą) podatki kwalifikowane za dany rok podatkowy z tytułu aktualizacji wyceny, powstałe w wyniku zastosowania metody, w ramach której w odniesieniu do rzeczowych aktywów trwałych są spełnione łącznie następujące warunki:
 
+- **1)** okresowo koryguje się ich wartość bilansową do wartości godziwej;
+- **2)** wykazuje się zmiany wartości w innych całkowitych dochodach;
+- **3)** nie wykazuje się w rachunku zysków i strat tych zysków (strat), które zostały wykazane w innych całkowitych dochodach.
+
 **Art. 46.** Korekta z tytułu zysków (strat) z tytułu zbycia aktywów i zobowiązań dokonanego w zakresie reorganizacji, o której mowa w art. 41 ust. 1 pkt 1 lit. e, polega na ich nieuwzględnieniu zgodnie z przepisami działu VIII rozdziału 2.
 
 **Art. 47.** Korekta z tytułu asymetrycznych zysków (strat) z tytułu różnic kursowych, o której mowa w art. 41 ust. 1 pkt 1 lit. f, polega na uwzględnieniu zysku (straty) z tytułu różnic kursowych, w odniesieniu do jednostki składowej, której waluta stosowana do określenia księgowego dochodu (straty) netto (księgowa waluta funkcjonalna) jest inna niż waluta stosowana do określenia dochodu (straty) podlegającego opodatkowaniu podatkiem kwalifikowanym w jurysdykcji, w której ta jednostka jest zlokalizowana (podatkowa waluta funkcjonalna), jeżeli ten zysk (strata):
+
+- **1)** jest uwzględniany przy obliczaniu dochodu albo straty ustalanych dla celów podatku kwalifikowanego jednostki składowej i ten zysk (stratę) można przypisać zmianom kursu wymiany między księgową walutą funkcjonalną a podatkową walutą funkcjonalną;
+- **2)** jest uwzględniany przy obliczaniu księgowego dochodu (straty) netto jednostki składowej i ten zysk (stratę) można przypisać zmianom kursu wymiany między:
+    - **a)** księgową walutą funkcjonalną a podatkową walutą funkcjonalną,
+    - **b)** walutą inną niż podatkowa waluta funkcjonalna i księgowa waluta funkcjonalna (trzecią walutą obcą) a księgową walutą funkcjonalną;
+
+- **3)** można przypisać zmianom kursu wymiany między trzecią walutą obcą a podatkową walutą funkcjonalną niezależnie od tego, czy taki zysk (strata) jest uwzględniony w dochodzie podlegającym opodatkowaniu podatkiem kwalifikowanym lub stracie w opodatkowaniu podatkiem kwalifikowanym.
 
 **Art. 48.**
 
@@ -1314,7 +1356,14 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 70.** Księgowy dochód (stratę) netto stałego zakładu stanowi zysk (strata) netto:
 
+- **1)** wynikający ze sprawozdania finansowego tego stałego zakładu – w przypadku stałego zakładu, o którym mowa w art. 2 ust. 1 pkt 40 lit. a–c, sporządzającego sprawozdanie finansowe;
+- **2)** który zostałby wykazany w sprawozdaniu finansowym takiego zakładu, gdyby to sprawozdanie zostało sporządzone zgodnie ze standardem rachunkowości stosowanym przy sporządzeniu skonsolidowanego sprawozdania grupy – w przypadku stałego zakładu, o którym mowa w art. 2 ust. 1 pkt 40 lit. a–c, niesporządzającego sprawozdania finansowego;
+- **3)** ustalony na podstawie dochodu zwolnionego lub wyłączonego z opodatkowania podatkiem dochodowym w jurysdykcji lokalizacji centrali oraz kosztów, które nie są odliczane do celów podatkowych w jurysdykcji lokalizacji centrali, jeżeli ten dochód i te koszty można przypisać transakcjom prowadzonym poza tą jurysdykcją – w przypadku stałego zakładu, o którym mowa w art. 2 ust. 1 pkt 40 lit. d.
+
 **Art. 71.** Księgowy dochód (strata) netto stałego zakładu, o którym mowa w art. 70, uwzględnia wyłącznie przychody i koszty, które:
+
+- **1)** można przypisać takiemu zakładowi zgodnie z właściwą umową o unikaniu podwójnego opodatkowania lub mającym zastosowanie prawem krajowym jurysdykcji, w której ten zakład jest zlokalizowany, bez względu na wysokość dochodu podlegającego opodatkowaniu oraz wysokość kosztów podlegających odliczeniu w tej jurysdykcji – w przypadku stałego zakładu, o którym mowa w art. 2 ust. 1 pkt 40 lit. a lub b;
+- **2)** zostałyby przypisane takiemu zakładowi zgodnie z postanowieniami podobnymi do art. 7 Modelowej konwencji OECD – w przypadku stałego zakładu, o którym mowa w art. 2 ust. 1 pkt 40 lit. c.
 
 **Art. 72.**
 
@@ -1439,6 +1488,11 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 81.** Podatki kwalifikowane zwiększa się o kwotę:
 
+- **1)** podatków kwalifikowanych ujętych jako koszt lub podobny zapis w celu ustalenia zysku (straty) netto;
+- **2)** wartości aktywa od kwalifikowanej straty, wykorzystanego zgodnie z art. 92 ust. 3 – w przypadku dokonania wyboru, o którym mowa w art. 92 ust. 1;
+- **3)** podatków kwalifikowanych dotyczących niepewnej pozycji podatkowej, zapłaconych przez jednostkę składową w roku podatkowym – w przypadku gdy te podatki w poprzednich latach podatkowych zostały wyłączone z podatków kwalifikowanych na podstawie art. 82 ust. 1 pkt 1 lit. b;
+- **4)** odliczenia lub zwrotu podatku z tytułu kwalifikowanej zwrotnej ulgi lub kwalifikowanej zbywalnej ulgi – w przypadku gdy kwota tego odliczenia lub tego zwrotu została ujęta w księgach jako zmniejszenie podatku dochodowego w części bieżącej.
+
 **Art. 82.**
 
 1. Podatki kwalifikowane zmniejsza się o:
@@ -1485,6 +1539,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 84.** Jeżeli w związku z rozliczaniem przez jednostkę składową zysku (straty), w rozumieniu art. 63 ust. 3, powstały jakiekolwiek korzyści inne niż korzyści wymienione w art. 83 ust. 1, które:
 
+- **1)** wpływają na wysokość podatku dochodowego w części bieżącej lub podatku dochodowego w części odroczonej albo
+- **2)** pozostają w związku z kwalifikowanymi udziałami własnościowymi – te korzyści uwzględnia się odpowiednio przy obliczaniu skorygowanych podatków kwalifikowanych jednostki składowej.
+
 ##### Oddział 2 Całkowita korekta podatku odroczonego
 
 **Art. 85.**
@@ -1520,6 +1577,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **2)** dokonano wyboru polegającego na nieuwzględnianiu tej kwoty zwiększenia rezerwy w kwocie całkowitej korekty podatku odroczonego za rok podatkowy.
 
 **Art. 87.** Całkowitą korektę podatku odroczonego powiększa się o ujęte w księgach pozycje z tytułu:
+
+- **1)** niedozwolonych rozliczeń międzyokresowych, o których mowa w art. 86 ust. 1 pkt 1 lit. b, lub niewykorzystanych rozliczeń międzyokresowych, o których mowa w art. 86 ust. 1 pkt 1 lit. c, w części, w jakiej podstawa ich utworzenia została zapłacona w roku podatkowym;
+- **2)** rezerwy z tytułu podatku odroczonego utworzonej ponownie zgodnie z art. 89, jeżeli ta rezerwa została utworzona w jednym roku z poprzednich lat podatkowych i rozwiązana oraz zapłacona w roku podatkowym.
 
 **Art. 88.**
 
@@ -1599,6 +1659,12 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 ##### Oddział 4 Przydzielanie podatków kwalifikowanych
 
 **Art. 93.** Podatki kwalifikowane przydziela się:
+
+- **1)** stałemu zakładowi w części, w jakiej te podatki odnoszą się do kwalifikowanego dochodu (straty) tego zakładu, w tym przydzielonego zgodnie z art. 70 i art. 71, i zostały ujęte w księgach tego stałego zakładu, centrali, jednostki pośredniczącej lub innej jednostki składowej;
+- **2)** jednostce będącej właścicielem jednostki transparentnej podatkowo, w części, w jakiej podatki te odnoszą się do kwalifikowanego dochodu (straty) przydzielonego jednostce będącej właścicielem tej jednostki transparentnej podatkowo zgodnie z art. 75 ust. 1 pkt 1 i zostały ujęte w księgach tej jednostki transparentnej podatkowo lub tej jednostki będącej właścicielem;
+- **3)** jednostce składowej będącej zagraniczną jednostką kontrolowaną, w części, w jakiej zgodnie z przepisami o zagranicznych jednostkach kontrolowanych obowiązującymi w jurysdykcji lokalizacji jednostki będącej jej właścicielem podatki kwalifikowane odnoszą się do dochodu tej jednostki składowej będącej zagraniczną jednostką kontrolowaną i zostały ujęte w księgach jednostki będącej jej właścicielem, z zastrzeżeniem art. 94;
+- **4)** jednostce składowej będącej jednostką hybrydową, w części, w jakiej te podatki odnoszą się do kwalifikowanego dochodu (straty) tej jednostki i zostały ujęte w księgach tej jednostki lub jednostki będącej właścicielem tej jednostki, z zastrzeżeniem art. 94;
+- **5)** jednostce składowej, która dokonała w roku podatkowym wypłat dywidendy lub wypłat o podobnym charakterze i w związku z takimi wypłatami te podatki zostały ujęte w księgach jednostki będącej właścicielem, jeżeli udziały własnościowe w tej jednostce składowej posiadane są przez tę jednostkę będącą właścicielem bezpośrednio.
 
 **Art. 94.**
 
@@ -1687,6 +1753,17 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 ### DZIAŁ VII Substrat majątkowo-osobowy
 
 **Art. 100.** Ilekroć w niniejszym dziale jest mowa o:
+
+- **1)** kwalifikowanych pracownikach – rozumie się przez to:
+    - **a)** pracowników jednostki składowej grupy międzynarodowej lub grupy krajowej zatrudnionych w pełnym lub niepełnym wymiarze czasu pracy,
+    - **b)** niezależnych zleceniobiorców uczestniczących w podstawowej działalności operacyjnej takiej grupy, podlegających jej kierownictwu i kontroli;
+
+- **2)** kwalifikowanych kosztach płac – rozumie się przez to koszty ponoszone bezpośrednio w związku z zatrudnieniem kwalifikowanych pracowników, w szczególności wynagrodzenia włącznie z wynagrodzeniem w formie akcji, oraz inne obowiązkowe i dobrowolne koszty odnoszące się do świadczeń o charakterze indywidualnym, takie jak składki na ubezpieczenie zdrowotne i ubezpieczenia społeczne, w tym finansowane przez pracodawcę, koszty programów emerytalnych, jak również podatków związanych z zatrudnieniem;
+- **3)** kwalifikowanych rzeczowych aktywach trwałych – rozumie się przez to:
+    - **a)** składniki rzeczowych aktywów trwałych,
+    - **b)** zasoby naturalne,
+    - **c)** prawo korzystającego do korzystania z rzeczowych aktywów trwałych w ramach umowy leasingu,
+    - **d)** prawa do nieruchomości lub eksploatacji zasobów naturalnych przyznane przez właściwe organy jurysdykcji, w szczególności prawa o charakterze koncesyjnym, których uzyskanie wiąże się z koniecznością dokonania znaczących inwestycji w rzeczowe aktywa trwałe.
 
 **Art. 101.**
 
@@ -1798,7 +1875,17 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 107.** Przez reorganizację rozumie się zbycie aktywów i zobowiązań jednostki składowej, w tym w wyniku przekształcenia, połączenia, podziału, likwidacji jednostek, dokonanych na podstawie odrębnych przepisów, jeżeli są spełnione łącznie następujące warunki:
 
+- **1)** wynagrodzenie:
+    - **a)** za zbycie aktywów i zobowiązań stanowią, w całości albo znacznej części, udziały w kapitale jednostki składowej nabywającej aktywa i zobowiązania lub takie udziały w osobie powiązanej z taką jednostką, chyba że brak wynagrodzenia ze zbycia wynika z tego, że emisja udziału w kapitale nie miałaby znaczenia gospodarczego lub
+    - **b)** jest otrzymywane w związku z unicestwieniem udziałów w kapitale likwidowanej jednostki;
+
+- **2)** zysk (strata) jednostki składowej z tytułu zbycia tych aktywów i zobowiązań nie podlega, w całości albo części, opodatkowaniu podatkiem dochodowym;
+- **3)** zgodnie z przepisami podatkowymi jurysdykcji, w której jest zlokalizowana jednostka składowa nabywająca aktywa i zobowiązania, w dochodzie tej jednostki podlegającym opodatkowaniu podatkiem dochodowym, obliczanym z tytułu zbycia nabytych aktywów i zobowiązań lub z innego tytułu, dla którego oblicza się taki dochód, uwzględnia się wartość podatkową tych aktywów i zobowiązań wynikającą z ksiąg jednostki składowej zbywającej aktywa i zobowiązania, skorygowaną o niekwalifikowany zysk (stratę) z tytułu tego zbycia.
+
 **Art. 108.** Jeżeli nabycie lub zbycie aktywów lub zobowiązań następuje w sposób inny niż w drodze reorganizacji, jednostka składowa, która:
+
+- **1)** zbywa aktywa lub zobowiązania, przy obliczaniu kwalifikowanego dochodu (straty) uwzględnia zysk (stratę) wynikający z takiego zbycia;
+- **2)** nabywa aktywa lub zobowiązania, przy obliczaniu kwalifikowanego dochodu (straty) uwzględnia ich wartość bilansową przyjętą przez tę jednostkę i ustaloną zgodnie ze standardem rachunkowości stosowanym przy sporządzaniu skonsolidowanego sprawozdania grupy.
 
 **Art. 109.**
 
@@ -2093,6 +2180,10 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 126.** W celu sprawdzenia, czy:
 
+- **1)** nadwyżka zysku wynosi więcej niż zero,
+- **2)** możliwy jest wybór wyłączenia de minimis, o którym mowa w art. 124 ust. 1,
+- **3)** efektywna stawka podatkowa jest wyższa niż minimalna stawka podatkowa – można dokonać wyboru bezpiecznej przystani dla jednostek składowych osiągających wyniki finansowe o niskiej istotności, o którym mowa w art. 127.
+
 **Art. 127.**
 
 1. Na podstawie wyboru bezpiecznej przystani dla jednostek składowych osiągających wyniki finansowe o niskiej istotności dokonanego zgodnie z art. 137 w odniesieniu do jednostki składowej osiągającej wyniki finansowe o niskiej istotności, w celu wyliczeń, o których mowa w art. 126, przyjmuje się, że:
@@ -2174,6 +2265,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **5)** przepisu art. 130 ust. 4 nie stosuje się w przypadku, gdy aktywa z tytułu podatku odroczonego wynikające z pozycji wyłączonych z kwalifikowanego dochodu (straty) zostały uwzględnione w obliczeniu krajowego podatku wyrównawczego.
 
 **Art. 132.** W przypadku przeniesienia w jakiejkolwiek formie aktywów innych niż zapasy, między jednostkami składowymi grupy w okresie od dnia 1 grudnia 2021 r. do ostatniego dnia roku podatkowego bezpośrednio poprzedzającego pierwszy rok podatkowy, o którym mowa w art. 130 ust. 1, jednostka przejmująca ustala:
+
+- **1)** wartość początkową tych aktywów w wysokości wartości bilansowej wykazanej w księgach przenoszącej jednostki składowej na moment przeniesienia;
+- **2)** aktywa i rezerwy z tytułu podatku odroczonego na podstawie wartości, o której mowa w pkt 1.
 
 ### DZIAŁ XI Przepisy administracyjne
 
@@ -2270,9 +2364,31 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 138.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 16 w ust. 1 po pkt 15a dodaje się pkt 15b w brzmieniu: „15b) globalnego podatku wyrównawczego, krajowego podatku wyrównawczego, podatku wyrównawczego od niedostatecznie opodatkowanych zysków, o których mowa w ustawie z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685), oraz podatków równoważnych nakładanych w państwach innych niż Rzeczpospolita Polska;”;
+- **2)** w art. 20 po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. Przepisów ust. 1–2b nie stosuje się do kwalifikowanego globalnego podatku wyrównawczego, kwalifikowanego krajowego podatku wyrównawczego, podatku pobieranego na podstawie kwalifikowanej zasady niedostatecznie opodatkowanych zysków, o których mowa w ustawie z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych.”.
+
 **Art. 139.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619) wprowadza się następujące zmiany:
 
+- **1)** w art. 37 dodaje się ust. 12 w brzmieniu: „12. Jednostka nie tworzy rezerw i nie ustala aktywów z tytułu odroczonego podatku dochodowego związanych z globalnym podatkiem wyrównawczym, krajowym podatkiem wyrównawczym i podatkiem wyrównawczym od niedostatecznie opodatkowanych zysków, o których mowa w ustawie z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685).”;
+- **2)** w art. 45:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Sprawozdanie finansowe sporządza się na dzień zamknięcia ksiąg rachunkowych, o którym mowa w art. 12 ust. 2, oraz na inny dzień bilansowy, stosując odpowiednio, z zastrzeżeniem ust. 1a–1ba, zasady wyceny aktywów i pasywów oraz ustalania wyniku finansowego, określone w rozdziale 4.”,
+    - **b)** po ust. 1b dodaje się ust. 1ba w brzmieniu: „1ba. Sprawozdania finansowe jednostek będących podatnikami krajowego podatku wyrównawczego, o którym mowa w ustawie z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych, mogą być sporządzane zgodnie z MSR.”,
+    - **c)** ust. 1d otrzymuje brzmienie: „1d. Organ zatwierdzający może podjąć decyzję w sprawie zaprzestania stosowania MSR przy sporządzaniu sprawozdań finansowych przez jednostki w przypadku ustania okoliczności, o których mowa w ust. 1a–1ba.”;
+
+- **3)** w art. 74 dodaje się ust. 4 w brzmieniu: „4. W przypadku jednostek podlegających opodatkowaniu na podstawie przepisów ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych okresy przechowywania, o których mowa w ust. 1 i 2, wynoszą co najmniej 5 lat, licząc od końca roku kalendarzowego, w którym upłynął termin płatności podatku określony w przepisach tej ustawy.”;
+- **4)** w załączniku nr 1 do ustawy w części „Dodatkowe informacje i objaśnienia”: o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych.”.
+    - **a)** w ust. 1 w pkt 19 kropkę zastępuje się średnikiem i dodaje się pkt 20 w brzmieniu: „20) informację, że do jednostki ma zastosowanie art. 37 ust. 12, na mocy którego jednostka nie tworzy rezerw i nie ustala aktywów z tytułu odroczonego podatku dochodowego związanych z globalnym podatkiem wyrównawczym, krajowym podatkiem wyrównawczym i podatkiem wyrównawczym od niedostatecznie opodatkowanych zysków, o których mowa w ustawie z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych.”,
+    - **b)** w ust. 2 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „13) informacje o kwotach z tytułu opodatkowania jednostki w bieżącym okresie sprawozdawczym globalnym podatkiem wyrównawczym, krajowym podatkiem wyrównawczym i podatkiem wyrównawczym od niedostatecznie opodatkowanych zysków, o których mowa w ustawie z dnia 6 listopada 2024 r.
+
 **Art. 140.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879) wprowadza się następujące zmiany:
+
+- **1)** w art. 13:
+    - **a)** w § 2: – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) organ właściwy w sprawach zmiany albo uchylenia opinii w sprawie opodatkowania wyrównawczego, o której mowa w art. 14t § 1, w przypadkach, o których mowa w art. 14zd § 3;”, – pkt 6 otrzymuje brzmienie: „6) organ właściwy w sprawach opinii zabezpieczających, w tym w zakresie opinii zabezpieczających w sprawie opodatkowania wyrównawczego;”,
+    - **b)** w § 2a po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) organ właściwy w sprawach wydawania, zmiany albo uchylenia opinii w sprawie opodatkowania wyrównawczego, o której mowa w art. 14t § 1;”;
+
+- **2)** w art. 14a po § 1b dodaje się § 1c w brzmieniu: „§ 1c. Wniosek o wydanie interpretacji ogólnej nie może dotyczyć przepisów ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685), zwanej dalej „ustawą o opodatkowaniu wyrównawczym”.”;
+- **3)** w art. 14b w § 2a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) dotyczące globalnego podatku wyrównawczego, krajowego podatku wyrównawczego oraz podatku wyrównawczego od niedostatecznie opodatkowanych zysków, o których mowa w ustawie o opodatkowaniu wyrównawczym.”;
+- **4)** w dziale II po rozdziale 1a dodaje się rozdziały 1b i 1c w brzmieniu: „Rozdział 1b Opinia w sprawie opodatkowania wyrównawczego
 
 **Art. 14t.**
 
@@ -2436,13 +2552,53 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 142.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, 850 i 879) wprowadza się następujące zmiany:
 
+- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „ Niniejsza ustawa w zakresie swojej regulacji:
+- **1)** realizuje postanowienia dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1371 z dnia 5 lipca 2017 r. w sprawie zwalczania za pośrednictwem prawa karnego nadużyć na szkodę interesów finansowych Unii (Dz. Urz. UE L 198 z 28.07.2017, str. 29);
+- **2)** wdraża dyrektywę Rady (UE) 2022/2523 z dnia 15 grudnia 2022 r. w sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w Unii (Dz. Urz. UE L 328 z 22.12.2022, str. 1 oraz Dz. Urz. UE L 13 z 16.01.2023, str. 9).”;
+- **2)** po art. 56e dodaje się art. 56f w brzmieniu: „Art. 56f. § 1. Podatnik, który wbrew obowiązkowi nie składa właściwemu organowi podatkowemu informacji, o której mowa w art. 133 ust. 1 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685), nie składa jej za pomocą środków komunikacji elektronicznej lub składa ją niezgodnie z wzorem dokumentu elektronicznego, podlega karze grzywny do 720 stawek dziennych.
+
+§ 2. Podatnik, który w informacji, o której mowa w art. 133 ust. 1 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych, podaje nieprawdę lub zataja prawdę, podlega karze grzywny do 480 stawek dziennych.
+
+§ 3. Podatnik, który wbrew obowiązkowi nie składa w terminie właściwemu organowi podatkowemu informacji, o której mowa w art. 133 ust. 1 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych, podlega karze grzywny do 180 stawek dziennych.
+
+§ 4. W wypadku mniejszej wagi sprawca czynu zabronionego określonego w § 1–3 podlega karze grzywny za wykroczenie skarbowe.”;
+
+- **3)** po art. 80g dodaje się art. 80h w brzmieniu: „Art. 80h. § 1. Kto wbrew obowiązkowi nie składa w terminie właściwemu organowi podatkowemu zawiadomienia o danych, o którym mowa w art. 133 ust. 7 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych, podlega karze grzywny do 180 stawek dziennych.
+
+§ 2. W wypadku mniejszej wagi sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.”.
+
 **Art. 143.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w § 2 pkt 4a otrzymuje brzmienie: „4a) pisemne interpretacje przepisów prawa podatkowego wydawane w indywidualnych sprawach, opinie zabezpieczające i odmowy wydania opinii zabezpieczających, opinie w sprawie opodatkowania wyrównawczego, opinie zabezpieczające w sprawie opodatkowania wyrównawczego i odmowy wydania opinii zabezpieczających w sprawie opodatkowania wyrównawczego;”;
+- **2)** art. 57a otrzymuje brzmienie: „Art. 57a. Skarga na pisemną interpretację przepisów prawa podatkowego wydaną w indywidualnej sprawie, opinię zabezpieczającą, opinię, o której mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, i odmowę wydania tych opinii, opinię w sprawie opodatkowania wyrównawczego, opinię zabezpieczającą w sprawie opodatkowania wyrównawczego i odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego może być oparta wyłącznie na zarzucie naruszenia przepisów postępowania, dopuszczeniu się błędu wykładni lub niewłaściwej oceny co do zastosowania przepisu prawa materialnego. Sąd administracyjny jest związany zarzutami skargi oraz powołaną podstawą prawną.”;
+- **3)** w art. 146 w § 1 zdanie pierwsze otrzymuje brzmienie: „Sąd, uwzględniając skargę na akt lub czynność, o których mowa w art. 3 § 2 pkt 4–4b, uchyla ten akt, interpretację, opinię zabezpieczającą, opinię, o której mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, lub odmowę wydania tych opinii, opinię w sprawie opodatkowania wyrównawczego, opinię zabezpieczającą w sprawie opodatkowania wyrównawczego i odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego albo stwierdza bezskuteczność czynności.”.
 
 **Art. 144.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 22 w ust. 1 po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) prowadzenie spraw dotyczących opinii w sprawie opodatkowania wyrównawczego;”;
+- **2)** w art. 35b w ust. 1 w pkt 2 lit. a otrzymuje brzmienie: „a) pism w sprawach dotyczących wydawania przez organy KAS wiążących informacji stawkowych, interpretacji ogólnych, interpretacji indywidualnych i opinii w sprawie opodatkowania wyrównawczego, w tym w zakresie określonym w art. 35a ust. 1,”;
+- **3)** w art. 278b w ust. 1a wyrazy „do dnia 31 grudnia 2024 r.” zastępuje się wyrazami „do dnia 31 marca 2025 r.”.
+
 **Art. 145.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2024 r. poz. 1588) wprowadza się następujące zmiany:
 
+- **1)** w art. 75t w ust. 4 pkt 3 otrzymuje brzmienie: „3) adres elektroniczny;”;
+- **2)** w art. 75u w ust. 3:
+    - **a)** w pkt 1 lit. c otrzymuje brzmienie: „c) adres elektroniczny,”,
+    - **b)** w pkt 2 w lit. g po wyrazach „adres do doręczeń elektronicznych” dodaje się wyrazy „ , o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045)”;
+
+- **3)** w art. 75y w ust. 1 w pkt 1 lit. c otrzymuje brzmienie: „c) adres elektroniczny,”;
+- **4)** w art. 76 w pkt 2 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e i f w brzmieniu: „e) opinię w sprawie opodatkowania wyrównawczego, o której mowa w art. 14t § 1 ustawy – Ordynacja podatkowa, a także jej zmianę lub uchylenie, o których mowa w art. 14zd § 1 pkt 1 i 2 tej ustawy,
+    - **f)** opinię zabezpieczającą w sprawie opodatkowania wyrównawczego, o której mowa w art. 119zfp § 1 ustawy – Ordynacja podatkowa, a także odmowę jej wydania i jej zmianę, o których mowa w art. 119zfr § 2 i art. 119zfw tej ustawy;”;
+
+- **5)** tytuł działu VII otrzymuje brzmienie: „Przepisy zmieniające, epizodyczne, przejściowe i końcowe”;
+- **6)** w dziale VII:
+    - **a)** tytuł rozdziału 2 otrzymuje brzmienie: „Przepisy epizodyczne, przejściowe i końcowe”,
+    - **b)** w rozdziale 2 dodaje się art. 97a w brzmieniu: „Art. 97a. Listę państw i terytoriów, o której mowa w art. 75a ust. 6, obowiązującą za 2023 r., ogłasza się w terminie do dnia 31 grudnia 2024 r.”.
+
 **Art. 146.** W ustawie z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105, z późn. zm. ) w art. 89:
+
+- **1)** w pkt 6 skreśla się wyrazy „ , art. 14 pkt 19, art. 22 pkt 2 w zakresie art. 19a ust. 3”;
+- **2)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) art. 14 pkt 19 oraz art. 22 pkt 2 w zakresie art. 19a ust. 3, które wchodzą w życie z dniem 1 kwietnia 2025 r.;”.
 
 ### DZIAŁ XIII Przepisy epizodyczne, przejściowe i dostosowujące oraz przepis końcowy
 
@@ -2451,6 +2607,30 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 ##### Oddział 1 Tymczasowe bezpieczne przystanie
 
 **Art. 147.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** całkowitych przychodach – rozumie się przez to sumę osiągniętych przychodów dla danej jurysdykcji, wykazanych w kwalifikowanej informacji o grupie podmiotów;
+- **2)** kwalifikowanej informacji o grupie podmiotów – rozumie się przez to:
+    - **a)** informację o grupie podmiotów, o której mowa w art. 127 ust. 5, jeżeli została przygotowana na podstawie kwalifikowanego sprawozdania finansowego, albo
+    - **b)** informację o grupie podmiotów, która byłaby przygotowana na podstawie kwalifikowanego sprawozdania finansowego, gdyby właściwa jednostka była obowiązana do przygotowania takiej informacji zgodnie z przepisami CBCR w rozumieniu art. 127 ust. 3 jurysdykcji jednostki dominującej najwyższego szczebla, a w przypadku braku takich przepisów w tej jurysdykcji – na podstawie standardu wynikającego z właściwych dokumentów Otwartych Ram do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działających przy OECD;
+
+- **3)** kwalifikowanym sprawozdaniu finansowym – rozumie się przez to:
+    - **a)** księgi jednostki składowej służące sporządzeniu skonsolidowanego sprawozdania grupy,
+    - **b)** sprawozdanie finansowe jednostki składowej sporządzone zgodnie z akceptowalnym standardem rachunkowości lub zatwierdzonym standardem rachunkowości, zawierające wiarygodne informacje wprowadzone na podstawie tego standardu,
+    - **c)** księgi jednostki używane do przygotowania informacji o grupie podmiotów, o której mowa w art. 127 ust. 5 – w przypadku jednostek, które nie są uwzględniane w skonsolidowanym sprawozdaniu grupy wyłącznie ze względu na ich niewielki rozmiar lub nieistotność, lub
+    - **d)** sprawozdanie finansowe centrali, które pozwala przypisać całkowity przychód, zysk przed opodatkowaniem oraz uproszczone podatki kwalifikowane do stałego zakładu albo księgi stałego zakładu przygotowane w celach zarządczych, o ile pozwalają przypisać całkowity przychód, zysk przed opodatkowaniem oraz uproszczone podatki kwalifikowane do tego stałego zakładu – w przypadku gdy dla stałego zakładu nie przygotowuje się kwalifikowanego sprawozdania finansowego wskazanego w lit. a–c;
+
+- **4)** niezrealizowanej stracie netto z tytułu wartości godziwej – rozumie się przez to sumę wszystkich strat wynikających ze zmian wartości godziwej udziałów własnościowych z wyjątkiem inwestycji portfelowych, pomniejszoną o wszelkie zyski wynikające z takich zmian;
+- **5)** uproszczonej efektywnej stawce podatkowej – rozumie się przez to kwotę obliczoną według wzoru: ∙100 %;
+- **6)** uproszczonej minimalnej stawce podatkowej – rozumie się przez to:
+    - **a)** dla roku podatkowego rozpoczynającego się w 2024 r. – 15 %,
+    - **b)** dla roku podatkowego rozpoczynającego się w 2025 r. – 16 %,
+    - **c)** dla roku podatkowego rozpoczynającego się w 2026 r. – 17 %;
+
+- **7)** uproszczonych podatkach kwalifikowanych – rozumie się przez to kwotę podatku dochodowego w części bieżącej oraz odroczonej wykazaną w kwalifikowanym sprawozdaniu finansowym, z wyłączeniem kwot przypadających na:
+    - **a)** podatki inne niż podatki kwalifikowane,
+    - **b)** niepewne pozycje podatkowe;
+
+- **8)** zysku przed opodatkowaniem – rozumie się przez to zysk (stratę) przed opodatkowaniem, dla danej jurysdykcji, wykazany w kwalifikowanej informacji o grupie podmiotów.
 
 **Art. 148.**
 
@@ -2610,6 +2790,12 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 **Art. 155.** W przypadku dokonania wyboru, o którym mowa w art. 154 ust. 1:
 
+- **1)** ilekroć przepisy ustawy stanowią o pierwszym roku, za który grupa jest obowiązana do stosowania przepisów ustawy, rozumie się przez to rok podatkowy, o którym mowa w art. 154 ust. 1;
+- **2)** ilekroć przepisy ustawy odnoszą się do dnia wejścia w życie ustawy, rozumie się przez to dzień 1 stycznia 2024 r.;
+- **3)** wartość procentowa stosowana w celu ustalenia substratu majątkowo-osobowego z tytułu kwalifikowanych kosztów płac, o której mowa w art. 101 ust. 3, dla roku podatkowego rozpoczynającego się po dniu 31 grudnia 2023 r. wynosi 9,8 %;
+- **4)** wartość procentowa stosowana w celu ustalenia substratu majątkowo-osobowego z tytułu kwalifikowanych rzeczowych aktywów trwałych, o której mowa w art. 101 ust. 5, dla roku podatkowego rozpoczynającego się po dniu 31 grudnia 2023 r. wynosi 7,8 %;
+- **5)** w odniesieniu do roku podatkowego, o którym mowa w art. 154 ust. 1, nie stosuje się przepisów działu IV oraz innych przepisów ustawy w zakresie odnoszącym się do podatku wyrównawczego od niedostatecznie opodatkowanych zysków.
+
 **Art. 156.**
 
 1. Jeżeli termin złożenia:
@@ -2660,6 +2846,9 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 - **2)** jednostki, o której mowa w art. 2 ust. 1 pkt 6 lit. b.
 
 **Art. 160.** W przypadku grupy objętej odpowiednio zakresem dyrektywy 2022/2523 albo Modelowych zasad OECD w odniesieniu do roku podatkowego rozpoczętego po dniu 31 grudnia 2023 r. pięcioletni okres, o którym mowa w:
+
+- **1)** art. 128 ust. 1, art. 129 ust. 1 pkt 1 i ust. 3 – liczy się począwszy od pierwszego roku podatkowego rozpoczynającego się po tym dniu;
+- **2)** art. 129 ust. 1 pkt 2 – liczy się począwszy od pierwszego roku podatkowego rozpoczynającego się po dniu 31 grudnia 2024 r.
 
 **Art. 161.** Wniosek o zawarcie porozumienia inwestycyjnego, o którym mowa w art. 20zu § 1 ustawy zmienianej w art. 140, złożony przed dniem wejścia w życie niniejszej ustawy, może zostać zmieniony zgodnie z art. 20zu § 3 pkt 1 ustawy zmienianej w art. 140, przez objęcie tego porozumienia inwestycyjnego opinią w sprawie opodatkowania wyrównawczego, o której mowa w art. 20zt pkt 2a tej ustawy.
 

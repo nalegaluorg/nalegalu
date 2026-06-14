@@ -1,0 +1,33 @@
+---
+title: "Rozporządzenie Ministra Obrony Narodowej z dnia 29 kwietnia 2021 r. zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19"
+address: WDU20210000809
+eli: DU/2021/809
+publisher: DU
+year: 2021
+pos: 809
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 809 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 29 kwietnia 2021 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 809 |
+| ISAP | WDU20210000809 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2021-04-29 |
+| Data wydania | 2021-04-29 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000809) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/809/text.pdf) |
+
+zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 Na podstawie art. 433a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r.
+poz. 478 i 619) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 16 października 2020 r. w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 1828 oraz z 2021 r. poz. 357) w § 1 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „30 kwietnia 2021 r.” zastępuje się wyrazami „30 czerwca 2021 r.”.
+§ 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2021 r.
+Minister Obrony Narodowej: z up. W. Skurkiewicz
+

@@ -8,7 +8,7 @@ pos: 187
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zawodzie psychologa oraz samorządzie zawodowym psychologów
@@ -31,7 +31,24 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** uzyskiwania prawa wykonywania zawodu psychologa;
+- **2)** wykonywania zawodu psychologa;
+- **3)** organizacji i działania samorządu zawodowego psychologów;
+- **4)** odpowiedzialności dyscyplinarnej psychologów.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** dokumentacji psychologicznej – należy przez to rozumieć zbiór wszystkich materiałów zebranych w związku z udzielaniem przez psychologa świadczeń psychologicznych, o których mowa w art. 23 ust. 2;
+- **2)** metodach psychologicznych – należy przez to rozumieć:
+    - **a)** testy psychologiczne – wystandaryzowane, obiektywne oraz o sprawdzonej trafności i rzetelności techniki pomiaru właściwości psychologicznych,
+    - **b)** inne metody i techniki psychologiczne – techniki, które obejmują w szczególności: rozmowę, wywiad, metodę biograficzną, obserwację, analizę próbek zachowania, techniki projekcyjne, genogram, eksperyment kliniczny, eksperyment naturalny (społeczny) oraz eksperyment laboratoryjny – służące udzielaniu świadczeń psychologicznych, o których mowa w art. 23 ust. 2;
+
+- **3)** odbiorcy świadczeń psychologicznych – należy przez to rozumieć osobę objętą świadczeniami psychologicznymi, o których mowa w art. 23 ust. 2;
+- **4)** opiekunie faktycznym – należy przez to rozumieć opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26);
+- **5)** państwie członkowskim Unii Europejskiej – należy przez to rozumieć inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym oraz Konfederację Szwajcarską;
+- **6)** rzeczniku dyscyplinarnym – należy przez to rozumieć Krajowego Rzecznika Dyscyplinarnego i regionalnego rzecznika dyscyplinarnego;
+- **7)** sądzie dyscyplinarnym – należy przez to rozumieć Krajowy Sąd Dyscyplinarny i regionalny sąd dyscyplinarny;
+- **8)** świadczeniu usługi transgranicznej – należy przez to rozumieć udzielanie tymczasowo lub okazjonalnie świadczenia psychologicznego, o którym mowa w art. 23 ust. 2, w Rzeczypospolitej Polskiej przez psychologa z państwa członkowskiego Unii Europejskiej uprawnionego do wykonywania zawodu psychologa w państwie członkowskim Unii Europejskiej.
 
 **Art. 3.**
 
@@ -396,6 +413,13 @@ source: "isap-pdf"
 
 **Art. 21.** W celu określenia jednolitych zasad organizacji współpracy psychologa z opiekunem Krajowa Rada ustala:
 
+- **1)** rekomendacje dla opiekunów dotyczące:
+    - **a)** sposobu współpracy psychologa z opiekunem, które zawierają co najmniej wytyczne dotyczące sposobu weryfikacji rzetelności pracy psychologa, znajomości oraz praktycznego zastosowania ustawy i Kodeksu Etyki Zawodowej,
+    - **b)** sporządzania i treści uzasadnienia opinii okresowej, końcowej i uzupełniającej;
+
+- **2)** zakres tematyczny współpracy psychologa z opiekunem;
+- **3)** wzory dokumentów poświadczających współpracę psychologa z opiekunem.
+
 **Art. 22.**
 
 1. Od dnia wpisu do Rejestru psycholog wykonuje zawód samodzielnie.
@@ -426,6 +450,12 @@ source: "isap-pdf"
 7. Psycholog podczas udzielania świadczeń psychologicznych oraz w związku z ich udzielaniem korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
 
 **Art. 24.** Za wykonywanie zawodu psychologa uważa się również:
+
+- **1)** prowadzenie przez psychologa badań naukowych i prac rozwojowych w zakresie psychologii;
+- **2)** prowadzenie przez psychologa działalności dydaktycznej w zakresie psychologii;
+- **3)** prowadzenie przez psychologa działalności w zakresie ustawicznego rozwoju zawodowego psychologów;
+- **4)** kierowanie przez psychologa pracą zawodową osób wykonujących zawód psychologa;
+- **5)** sprawowanie funkcji z wyboru w organach samorządu psychologów lub wykonywanie pracy na rzecz tego samorządu w zakresie realizacji jego zadań.
 
 **Art. 25.**
 
@@ -624,6 +654,15 @@ source: "isap-pdf"
 
 **Art. 34.** Do zadań samorządu psychologów należy w szczególności:
 
+- **1)** sprawowanie pieczy nad należytym wykonywaniem zawodu psychologa;
+- **2)** ustanawianie zasad etyki zawodowej dotyczących wykonywania zawodu psychologa oraz dbanie o ich przestrzeganie;
+- **3)** prowadzenie postępowania w przedmiocie odpowiedzialności dyscyplinarnej psychologów;
+- **4)** reprezentowanie psychologów i ochrona ich interesów zawodowych;
+- **5)** organizacja lub koordynacja doskonalenia zawodowego psychologów;
+- **6)** współdziałanie z organami administracji publicznej oraz organizacjami w kraju i za granicą w sprawach dotyczących wykonywania zawodu psychologa;
+- **7)** opiniowanie aktów prawnych dotyczących zawodu psychologa;
+- **8)** zarządzanie majątkiem Krajowej Izby i regionalnych izb.
+
 **Art. 35.**
 
 1. Wybory do organów samorządu psychologów są równe, powszechne i odbywają się w głosowaniu tajnym przy nieograniczonej liczbie kandydatów.
@@ -747,6 +786,12 @@ source: "isap-pdf"
 
 **Art. 42.** Organami Krajowej Izby są:
 
+- **1)** Krajowy Zjazd;
+- **2)** Krajowa Rada;
+- **3)** Krajowa Komisja Rewizyjna;
+- **4)** Krajowy Sąd Dyscyplinarny;
+- **5)** Krajowy Rzecznik Dyscyplinarny.
+
 **Art. 43.**
 
 1. Najwyższą władzą Krajowej Izby jest Krajowy Zjazd.
@@ -767,6 +812,29 @@ source: "isap-pdf"
 4. Prawo uczestnictwa w Krajowym Zjeździe mają delegaci będący członkami samorządu psychologów w dniu rejestracji uczestnictwa w Krajowym Zjeździe.
 
 **Art. 45.** Do Krajowego Zjazdu należy:
+
+- **1)** kierowanie działalnością Krajowej Izby;
+- **2)** wybór i odwoływanie:
+    - **a)** Prezesa Krajowej Rady i 4 członków Krajowej Rady,
+    - **b)** członków Krajowej Komisji Rewizyjnej i Krajowego Sądu Dyscyplinarnego, w tym Prezesa Krajowego Sądu Dyscyplinarnego,
+    - **c)** Krajowego Rzecznika Dyscyplinarnego i jego zastępców;
+
+- **3)** podejmowanie uchwał w sprawach objętych zakresem działania Krajowej Izby;
+- **4)** uchwalanie Regulaminu Krajowej Izby;
+- **5)** uchwalanie Kodeksu Etyki Zawodowej;
+- **6)** określanie standardów pracy w zawodzie psychologa;
+- **7)** uchwalanie budżetu Krajowej Izby;
+- **8)** ustalanie podstawowych zasad gospodarki finansowej samorządu psychologów, w tym wysokości:
+    - **a)** składki członkowskiej, terminów jej płatności oraz zasad jej podziału,
+    - **b)** opłat, o których mowa w art. 13 ust. 1, 3 i 7;
+
+- **9)** rozpatrywanie i zatwierdzanie sprawozdania Krajowej Rady z wykonania budżetu;
+- **10)** rozpatrywanie i zatwierdzanie sprawozdań oraz udzielanie absolutorium Krajowej Radzie, Krajowej Komisji Rewizyjnej, Krajowemu Sądowi Dyscyplinarnemu i Krajowemu Rzecznikowi Dyscyplinarnemu;
+- **11)** ustalanie liczby i obszaru działania poszczególnych regionalnych izb;
+- **12)** ustalanie z każdej regionalnej izby liczby delegatów na Krajowy Zjazd, zgodnie z art. 35 ust. 3 pkt 1;
+- **13)** ustalanie z każdej regionalnej izby liczby delegatów na regionalny zjazd, zgodnie z art. 35 ust. 3 pkt 2;
+- **14)** ustalanie liczby członków Krajowej Rady, o których mowa w art. 48 ust. 1 pkt 1;
+- **15)** określanie trybu zgłaszania zaprzestania wykonywania zawodu, o którym mowa w art. 30 ust. 1.
 
 **Art. 46.**
 
@@ -832,7 +900,18 @@ source: "isap-pdf"
 
 **Art. 50.** Regulamin Krajowej Izby określa w szczególności:
 
+- **1)** liczbę członków organów samorządu psychologów, z wyłączeniem art. 48 ust. 1 pkt 2 i ust. 3 oraz art. 59 ust. 1 i 2;
+- **2)** tryb wyboru i odwoływania członków organów samorządu psychologów;
+- **3)** zasady podejmowania uchwał przez organy samorządu psychologów, w tym podejmowania uchwał z wykorzystaniem środków komunikacji elektronicznej;
+- **4)** tryb wyboru delegatów, o których mowa w art. 35 ust. 3;
+- **5)** sposób reprezentowania organów samorządu psychologów;
+- **6)** zasady uchwalania zmian Regulaminu Krajowej Izby.
+
 **Art. 51.** Krajowa Komisja Rewizyjna:
+
+- **1)** kontroluje działalność finansową i gospodarczą Krajowej Izby;
+- **2)** składa sprawozdania z działalności kontrolnej Krajowej Radzie i Krajowemu Zjazdowi;
+- **3)** występuje na Krajowym Zjeździe z wnioskiem w sprawie udzielenia absolutorium Krajowej Radzie.
 
 **Art. 52.**
 
@@ -858,6 +937,12 @@ source: "isap-pdf"
 
 **Art. 54.** Organami regionalnej izby są:
 
+- **1)** regionalny zjazd;
+- **2)** regionalna rada;
+- **3)** regionalna komisja rewizyjna;
+- **4)** regionalny sąd dyscyplinarny;
+- **5)** regionalny rzecznik dyscyplinarny.
+
 **Art. 55.**
 
 1. Najwyższą władzą regionalnej izby jest regionalny zjazd.
@@ -869,6 +954,19 @@ source: "isap-pdf"
 4. Ogłoszenie o zwołaniu regionalnego zjazdu zamieszcza się na stronie internetowej regionalnej izby.
 
 **Art. 56.** Do regionalnego zjazdu należy:
+
+- **1)** kierowanie działalnością regionalnej izby;
+- **2)** wybór i odwoływanie:
+    - **a)** członków Krajowej Rady, o których mowa w art. 48 ust. 1 pkt 1,
+    - **b)** prezesa regionalnej rady oraz członków regionalnej rady,
+    - **c)** członków regionalnej komisji rewizyjnej i regionalnego sądu dyscyplinarnego, w tym prezesa regionalnego sądu dyscyplinarnego,
+    - **d)** regionalnego rzecznika dyscyplinarnego i jego zastępców;
+
+- **3)** podejmowanie uchwał w sprawach objętych zakresem działania regionalnej izby;
+- **4)** uchwalanie regulaminu regionalnej izby;
+- **5)** uchwalanie budżetu oraz ustalanie zasad gospodarki finansowej regionalnej izby;
+- **6)** rozpatrywanie i zatwierdzanie sprawozdania regionalnej rady z wykonania budżetu;
+- **7)** rozpatrywanie i zatwierdzanie sprawozdań oraz udzielanie absolutorium regionalnej radzie, regionalnej komisji rewizyjnej, regionalnemu sądowi dyscyplinarnemu i regionalnemu rzecznikowi dyscyplinarnemu.
 
 **Art. 57.**
 
@@ -920,6 +1018,10 @@ source: "isap-pdf"
 
 **Art. 60.** Regionalna komisja rewizyjna:
 
+- **1)** kontroluje działalność finansową i gospodarczą regionalnej izby;
+- **2)** składa sprawozdania z działalności kontrolnej regionalnej radzie i regionalnemu zjazdowi;
+- **3)** występuje na regionalnym zjeździe z wnioskiem w sprawie udzielenia absolutorium regionalnej radzie.
+
 **Art. 61.**
 
 1. Regionalny sąd dyscyplinarny rozpatruje sprawy z zakresu odpowiedzialności dyscyplinarnej psychologów.
@@ -935,6 +1037,9 @@ source: "isap-pdf"
 3. Regionalny rzecznik dyscyplinarny składa regionalnemu zjazdowi sprawozdanie ze swojej działalności.
 
 **Art. 63.** Regionalny rzecznik dyscyplinarny:
+
+- **1)** wykonuje czynności sprawdzające i prowadzi postępowania wyjaśniające w sprawach odpowiedzialności dyscyplinarnej psychologów przynależnych do regionalnej izby, której jest rzecznikiem;
+- **2)** wnosi sprawy do regionalnego sądu dyscyplinarnego.
 
 #### Rozdział 5 Odpowiedzialność dyscyplinarna psychologów
 
@@ -1007,6 +1112,13 @@ source: "isap-pdf"
 
 **Art. 70.** W toku postępowania w przedmiocie odpowiedzialności dyscyplinarnej psychologów obwiniony ma prawo do:
 
+- **1)** składania wyjaśnień;
+- **2)** odmowy składania wyjaśnień;
+- **3)** zgłaszania wniosków dowodowych;
+- **4)** przeglądania akt postępowania oraz sporządzania z nich notatek, fotokopii oraz odpisów;
+- **5)** korzystania z pomocy obrońcy;
+- **6)** końcowego zaznajomienia z materiałami postępowania.
+
 **Art. 71.**
 
 1. Organ prowadzący postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów przeprowadza dowody na wniosek stron albo z urzędu.
@@ -1037,6 +1149,13 @@ source: "isap-pdf"
 **Art. 74.** Prawomocne rozstrzygnięcie sądu kształtujące prawo lub stosunek prawny jest wiążące dla organów prowadzących postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów.
 
 **Art. 75.** Postępowania w przedmiocie odpowiedzialności dyscyplinarnej psychologów nie wszczyna się, a wszczęte umarza się, jeżeli:
+
+- **1)** czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;
+- **2)** czyn nie stanowi przewinienia dyscyplinarnego albo ustawy stanowią, że sprawca nie popełnia przewinienia dyscyplinarnego;
+- **3)** obwiniony zmarł;
+- **4)** nastąpiło ustanie karalności;
+- **5)** postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów co do tego samego czynu tej samej osoby zostało prawomocnie zakończone albo wcześniej wszczęte toczy się;
+- **6)** szkodliwość społeczna czynu jest znikoma.
 
 **Art. 76.**
 
@@ -1456,6 +1575,9 @@ source: "isap-pdf"
 
 **Art. 124.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności dyscyplinarnej psychologów stosuje się odpowiednio przepisy:
 
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego;
+- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+
 **Art. 125.** Okres przechowywania danych osobowych, które zostały zgromadzone w toku prowadzonych przez organy samorządu psychologów postępowań w przedmiocie odpowiedzialności dyscyplinarnej psychologów, wynosi 10 lat od końca roku kalendarzowego, w którym zakończyło się postępowanie, niekrócej niż do dnia zatarcia kary dyscyplinarnej.
 
 #### Rozdział 6 Przepisy karne
@@ -1484,11 +1606,40 @@ source: "isap-pdf"
 
 **Art. 130.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 9fa po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku nauczyciela psychologa realizującego przygotowanie do zawodu nauczyciela zajęcia, o których mowa w ust. 1 i 5, nie mogą być zajęciami realizowanymi indywidualnie z uczniami, jeżeli w ramach tych zajęć może być naruszona tajemnica, o której mowa w art. 27 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187).”;
+- **2)** w art. 10 po ust. 8b dodaje się ust. 8c i 8d w brzmieniu: „8c. Na stanowisku nauczyciela psychologa nie można zatrudnić nauczyciela, jeżeli:
+- **1)** nie posiada prawa wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów;
+- **2)** przeciwko nauczycielowi toczy się postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów, o którym mowa w ustawie z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów;
+- **3)** tymczasowo zawieszono prawo wykonywania zawodu psychologa przez tego nauczyciela albo ograniczono zakres czynności w wykonywaniu zawodu psychologa, na podstawie art. 87 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów;
+- **4)** został prawomocnie ukarany karą ograniczenia zakresu czynności w wykonywaniu zawodu psychologa, o której mowa w art. 94 ust. 1 pkt 4 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, w okresie, w którym obowiązuje to ograniczenie, jeżeli zakres czynności, które objęto ograniczeniem, należałby do zadań nauczyciela psychologa;
+- **5)** został prawomocnie ukarany karą zawieszenia prawa wykonywania zawodu psychologa, o której mowa w art. 94 ust. 1 pkt 5 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, w okresie, w którym obowiązuje zawieszenie prawa wykonywania zawodu psychologa.
+
+8d. W celu potwierdzenia spełniania warunków, o których mowa w ust. 8c, nauczyciel psycholog, przed nawiązaniem stosunku pracy, jest obowiązany przedstawić dyrektorowi szkoły zaświadczenie z rejestru, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, z wyjątkiem przypadku gdy z nauczycielem jest nawiązywany kolejny stosunek pracy w tej samej szkole w ciągu 3 miesięcy od dnia rozwiązania albo wygaśnięcia na podstawie art. 20 ust. 5c poprzedniego stosunku pracy.”;
+
+- **3)** w art. 26 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „6) stwierdzenia, że nawiązanie stosunku pracy z nauczycielem psychologiem nastąpiło z naruszeniem warunków, o których mowa w art. 10 ust. 8c;
+- **7)** skreślenia nauczyciela psychologa z rejestru, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, w przypadkach, o których mowa w art. 14 ust. 1 pkt 2–6, 8 i 9 tej ustawy;
+- **8)** prawomocnego orzeczenia wobec nauczyciela psychologa kary wymienionej w art. 94 ust. 1 pkt 5 albo 6 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów.”;
+- **4)** po art. 28b dodaje się art. 28c w brzmieniu: „Art. 28c. Stosunek pracy z nauczycielem psychologiem ulega rozwiązaniu, bez wypowiedzenia, w razie prawomocnego orzeczenia kary ograniczenia zakresu czynności w wykonywaniu zawodu psychologa, o której mowa w art. 94 ust. 1 pkt 4 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, jeżeli zakres czynności, które objęto ograniczeniem, należy do zadań nauczyciela psychologa.”;
+- **5)** po art. 39 dodaje się art. 39a w brzmieniu: „Art. 39a. Do wynagrodzenia nauczyciela psychologa oraz nauczyciela psychologa pełniącego funkcję dyrektora szkoły w okresie tymczasowego zawieszenia prawa wykonywania zawodu psychologa albo ograniczenia zakresu czynności w wykonywaniu zawodu psychologa na podstawie art. 87 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, jeżeli w wyniku tego ograniczenia nauczyciel psycholog albo nauczyciel psycholog pełniący funkcję dyrektora szkoły nie świadczy pracy, stosuje się odpowiednio art. 85u.”;
+- **6)** w art. 42d w ust. 1 dodaje się zdanie drugie w brzmieniu: „Ilekroć w przepisie niniejszego artykułu jest mowa o nauczycielu psychologu, należy przez to rozmieć także osobę, o której mowa w art. 15 ust. 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.”.
+
 **Art. 131.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366) wprowadza się następujące zmiany:
+
+- **1)** w art. 25 po ust. 21a dodaje się ust. 21b w brzmieniu: „21b. Do badań psychologicznych, o których mowa w ust. 2 pkt 4, ust. 5 pkt 2, ust. 12 pkt 1 lit. b, ust. 12a pkt 2, ust. 12c pkt 1 lit. c oraz art. 13c pkt 3, nie stosuje się przepisów art. 25 ust. 10 oraz art. 28 ust. 4 i 13 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187).”;
+- **2)** w art. 35a po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Do badania psychologicznego, o którym mowa w ust. 1, nie stosuje się przepisów art. 25 ust. 10 oraz art. 28 ust. 4 i 13 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów.”.
 
 **Art. 132.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366 oraz z 2026 r. poz. 50) wprowadza się następujące zmiany:
 
+- **1)** w art. 31 po ust. 20 dodaje się ust. 20a i 20b w brzmieniu: „20a. Do badań psychologicznych, o których mowa w ust. 2 pkt 4, ust. 7 pkt 2, ust. 11 pkt 2 i ust. 12 pkt 2, nie stosuje się przepisów art. 25 ust. 10, art. 26 ust. 5 zdanie drugie oraz art. 28 ust. 3, 4 i 13 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187).
+
+20b. Dokumentację psychologiczną z badań psychologicznych kandydatów, wobec których odstąpiono od prowadzenia postępowania kwalifikacyjnego, przechowuje się przez okres 6 miesięcy od dnia wystąpienia przesłanek odstąpienia od prowadzenia postępowania kwalifikacyjnego.”;
+
+- **2)** w art. 39b po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Do badania psychologicznego, o którym mowa w ust. 1, nie stosuje się przepisów art. 26 ust. 5 zdanie drugie oraz art. 28 ust. 3, 4 i 13 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów.”.
+
 **Art. 133.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917) w art. 5 w ust. 3:
+
+- **1)** w pkt 1 lit. a otrzymuje brzmienie: „a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187),”;
+- **2)** w pkt 4 lit. a otrzymuje brzmienie: „a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów,”.
 
 **Art. 134.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872) w art. 180 w § 2 w zdaniu pierwszym po wyrazach „doradcy podatkowego,” dodaje się wyrazy „psychologa,”.
 
@@ -1502,17 +1653,52 @@ source: "isap-pdf"
 
 **Art. 139.** W ustawie z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026) w art. 8 w ust. 1 pkt 1 otrzymuje brzmienie: „1) uzyskała:
 
+- **a)** w Rzeczypospolitej Polskiej tytuł zawodowy magistra na kierunku psychologia lub za granicą wykształcenie uznane za równorzędne w Rzeczypospolitej Polskiej lub
+- **b)** tytuł zawodowy magistra na kierunku psychologia zdrowia po ukończeniu w Rzeczypospolitej Polskiej jednolitych studiów magisterskich na kierunku psychologia zdrowia;”.
+
 **Art. 140.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2025 r. poz. 1226, 1676 i 1872 oraz z 2026 r. poz. 180) wprowadza się następujące zmiany:
+
+- **1)** w art. 87:
+    - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) posiada prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);”,
+    - **b)** w ust. 3 w pkt 4 lit. d otrzymuje brzmienie: „d) wobec której prawomocnie orzeczono karę dyscyplinarną, o której mowa w art. 94 ust. 1 pkt 6 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów.”;
+
+- **2)** w art. 88 w ust. 6 pkt 5 otrzymuje brzmienie: „5) prawomocnego orzeczenia wobec niego kary dyscyplinarnej, o której mowa w art. 94 ust. 1 pkt 6 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów.”.
 
 **Art. 141.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301) wprowadza się następujące zmiany:
 
+- **1)** w art. 26 w ust. 1 pkt 3 otrzymuje brzmienie: „3) w przypadku psychologa – prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);”;
+- **2)** w art. 98 w ust. 1 pkt 3 otrzymuje brzmienie: „3) w przypadku psychologa – prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów;”.
+
 **Art. 142.** W ustawie z dnia 5 sierpnia 2015 r. o opiniodawczych zespołach sądowych specjalistów (Dz. U. z 2018 r. poz. 708) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w ust. 2 pkt 3 otrzymuje brzmienie: „3) która posiada prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187), lub ukończyła studia wyższe z zakresu pedagogiki w Rzeczypospolitej Polskiej i uzyskała tytuł magistra, lub ukończyła zagraniczne studia z zakresu pedagogiki uznane w Rzeczypospolitej Polskiej albo jest lekarzem posiadającym specjalizację z zakresu pediatrii, medycyny rodzinnej, chorób wewnętrznych, psychiatrii lub psychiatrii dzieci i młodzieży;”;
+- **2)** w art. 8 ust. 3 otrzymuje brzmienie: „3. Jako specjalista w zakresie psychologii może być zatrudniona osoba, która posiada prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, oraz która posiada co najmniej 3-letni staż pracy w poradnictwie rodzinnym lub z młodzieżą społecznie niedostosowaną albo 3-letnią praktykę kliniczną.”.
 
 **Art. 143.** W ustawie z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich (Dz. U. z 2026 r. poz. 110) w art. 22j w ust. 6 pkt 5 otrzymuje brzmienie: „5) psychologa, o której mowa w art. 27 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);”.
 
 **Art. 144.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837) wprowadza się następujące zmiany:
 
+- **1)** w art. 13:
+    - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 1 i 10.”,
+    - **b)** w ust. 6 pkt 2 otrzymuje brzmienie: „2) zatrudnia nauczycieli posiadających kwalifikacje określone dla nauczycieli przedszkoli publicznych; przepisy art. 15 ust. 1, 4 i 10 stosuje się odpowiednio.”;
+
+- **2)** w art. 14:
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 2 i 10;”,
+    - **b)** w ust. 3 pkt 6 otrzymuje brzmienie: „6) zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4, 6 i 10 stosuje się odpowiednio;”,
+    - **c)** w ust. 4 pkt 7 otrzymuje brzmienie: „7) zatrudnia nauczycieli zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4, 6 i 10 stosuje się odpowiednio;”;
+
+- **3)** w art. 15:
+    - **a)** ust. 5 otrzymuje brzmienie: „5. Przepisy ust. 2–4 i 10 stosuje się odpowiednio do placówek artystycznych, placówek, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych i placówek doskonalenia nauczycieli szkół artystycznych, z tym że zgodę na zatrudnienie osoby niebędącej nauczycielem wyraża minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.”,
+    - **b)** dodaje się ust. 10 w brzmieniu: „10. W uzasadnionych przypadkach w przedszkolu, szkole lub placówce publicznej może być, za zgodą kuratora oświaty, a w przypadku szkoły artystycznej – ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zatrudniona osoba niebędąca nauczycielem, posiadająca prawo wykonywania zawodu, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187), posiadająca przygotowanie uznane przez dyrektora szkoły lub placówki za odpowiednie do udzielania świadczeń psychologicznych dzieciom i młodzieży. Przepisy ust. 3 i 4 stosuje się odpowiednio.”;
+
+- **4)** w art. 32 ust. 8 i 9 otrzymują brzmienie: „8. Nauczyciela oraz osobę, o której mowa w art. 15 ust. 1 i 10, prowadzących zajęcia w innej formie wychowania przedszkolnego prowadzonej przez gminę, zatrudnia dyrektor przedszkola lub szkoły podstawowej prowadzonych przez tę gminę.
+
+9. Zajęcia w innych formach wychowania przedszkolnego prowadzą nauczyciele posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 15 ust. 1, 3, 4 i 10 stosuje się odpowiednio.”.
+
 **Art. 145.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) w art. 68:
+
+- **1)** w ust. 1 w pkt 11 dodaje się przecinek i dodaje się pkt 12 w brzmieniu: „12) psychologa”;
+- **2)** w ust. 3 w pkt 4 dodaje się przecinek i dodaje się pkt 5 w brzmieniu: „5) pkt 12 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw pracy”.
 
 **Art. 146.** W ustawie z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 (Dz. U. z 2024 r. poz. 94) w art. 3c w ust. 1 pkt 6 otrzymuje brzmienie: „6) psychologa, o której mowa w art. 27 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);”.
 
@@ -1561,6 +1747,9 @@ source: "isap-pdf"
 2. Prawa i obowiązki psychologów zatrudnionych na stanowisku nauczyciela psychologa w przedszkolach, szkołach i placówkach wymienionych w art. 1 ust. 1 i 2 ustawy zmienianej w art. 130 w zakresie nieuregulowanym niniejszą ustawą określają przepisy ustawy zmienianej w art. 130.
 
 **Art. 150.** Niezłożenie wniosku o wpis do Rejestru w terminie, o którym mowa w art. 147 ust. 1, albo wydanie ostatecznej uchwały w sprawie odmowy wpisu do Rejestru podjętej na skutek wniosku złożonego w trybie art. 147 ust. 1 powoduje:
+
+- **1)** wygaśnięcie stosunku pracy – w przypadku osób zatrudnionych w ramach stosunku pracy na stanowisku psychologa;
+- **2)** brak możliwości pełnienia służby na stanowiskach służbowych, na których wykonywany jest zawód psychologa – w przypadku osób, o których mowa w art. 149 ust. 1.
 
 **Art. 151.**
 
@@ -1667,6 +1856,15 @@ source: "isap-pdf"
 
 **Art. 154.** Pierwszy Krajowy Zjazd:
 
+- **1)** dokonuje wyboru:
+    - **a)** Prezesa Krajowej Rady i 4 członków Krajowej Rady, o których mowa w art. 48 ust. 1 pkt 2,
+    - **b)** członków Krajowej Komisji Rewizyjnej i Krajowego Sądu Dyscyplinarnego, w tym Prezesa Krajowego Sądu Dyscyplinarnego,
+    - **c)** Krajowego Rzecznika Dyscyplinarnego;
+
+- **2)** ustala liczbę i obszary działania regionalnych izb;
+- **3)** ustala liczbę delegatów z każdej regionalnej izby na Krajowy Zjazd i pierwsze regionalne zjazdy;
+- **4)** wskazuje po jednym pełnomocniku do powołania w każdej z regionalnych izb, który współpracuje z Komitetem w celu organizacji pierwszych regionalnych zjazdów.
+
 **Art. 155.**
 
 1. Pierwsze regionalne zjazdy wybierają:
@@ -1712,4 +1910,9 @@ source: "isap-pdf"
 **Art. 160.** Traci moc ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026).
 
 **Art. 161.** Ustawa wchodzi w życie po upływie 2 lat i 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 139 i art. 151–159, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 145, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **3)** art. 17 ust. 3, który wchodzi w życie po upływie 5 lat i 3 miesięcy od dnia ogłoszenia.
+
 

@@ -8,7 +8,7 @@ pos: 677
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”

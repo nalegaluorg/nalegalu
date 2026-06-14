@@ -8,10 +8,10 @@ pos: 753
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 kwietnia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 753 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 22 kwietnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000753) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/753/text.pdf) |
 
-Poz. 753 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 22 kwietnia 2020 r.
-w sprawie szczegółowego wykazu składników wyposażenia statku, których zakup jest refinansowany, oraz ich liczby przypadającej na jeden statek Na podstawie art. 15 ust. 4 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901 oraz z 2020 r. poz. 284) zarządza się, co następuje: § 1. Refinansuje się zakup następujących składników wyposażenia statku:
+w sprawie szczegółowego wykazu składników wyposażenia statku, których zakup jest refinansowany, oraz ich liczby przypadającej na jeden statek Na podstawie art. 15 ust. 4 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901 oraz z 2020 r. poz. 284) zarządza się, co następuje:
+§ 1. Refinansuje się zakup następujących składników wyposażenia statku:
 1) automatycznie nadmuchiwanej kamizelki ratunkowej dla osoby regularnie przebywającej na pokładzie statku;
 2) zbiorowego środka ratunkowego;
 3) radiotelefonu VHF;

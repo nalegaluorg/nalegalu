@@ -37,6 +37,14 @@ o utrzymaniu czystości i porządku w gminach
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania gminy oraz obowiązki:
+    - **a)** właścicieli nieruchomości,
+    - **b)** właścicieli lokali w budynku wielolokalowym, w którym ustanowiono odrębną własność lokali, osób, którym służy tytuł prawny do lokalu w budynkach wielolokalowych, osób faktycznie zamieszkujących lub użytkujących te lokale lub osób faktycznie zamieszkujących lub użytkujących lokal należący do spółdzielni mieszkaniowej dotyczące utrzymania czystości i porządku;
+
+- **2)** warunki wykonywania działalności w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości i zagospodarowania tych odpadów;
+- **3)** warunki udzielania zezwoleń podmiotom świadczącym usługi w zakresie uregulowanym w ustawie;
+- **4)** obowiązki wytwórców odpadów komunalnych w zakresie selektywnego zbierania tych odpadów.
+
 **Art. 1a.** W sprawach dotyczących postępowania z odpadami komunalnymi w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm. ).
 
 **Art. 1b.**
@@ -172,6 +180,9 @@ o utrzymaniu czystości i porządku w gminach
 6. Sprawozdanie, o którym mowa w ust. 5, wójt, burmistrz lub prezydent miasta przekazuje właściwemu wojewódzkiemu inspektorowi ochrony środowiska i właściwemu dyrektorowi regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie corocznie, nie później niż do końca kwietnia roku następującego po roku, którego dotyczy.
 
 **Art. 3a.** (uchylony) Art. 3aa. Gminy są obowiązane osiągnąć za rok 2020 poziom:
+
+- **1)** przygotowania do ponownego użycia i recyklingu następujących frakcji odpadów komunalnych: papieru, metali, tworzyw sztucznych i szkła w wysokości co najmniej 50 % wagowo;
+- **2)** recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami innych niż niebezpieczne odpadów budowlanych i rozbiórkowych stanowiących odpady komunalne w wysokości co najmniej 70 % wagowo.
 
 **Art. 3b.**
 
@@ -466,6 +477,10 @@ o utrzymaniu czystości i porządku w gminach
 **Art. 6g.** (uchylony)
 
 **Art. 6h.** Opłatę za gospodarowanie odpadami komunalnymi są obowiązani ponosić:
+
+- **1)** właściciele nieruchomości, na których zamieszkują mieszkańcy,
+- **2)** osoby wymienione w art. 1 pkt 1 lit. b, jeżeli rada gminy podjęła uchwałę, o której mowa w art. 2a ust. 1,
+- **3)** właściciele nieruchomości, na których nie zamieszkują mieszkańcy, jeżeli rada gminy podjęła uchwałę, o której mowa w art. 6c ust. 2 na rzecz gminy, na terenie której są położone nieruchomości lub lokale.
 
 **Art. 6i.**
 
@@ -890,6 +905,10 @@ o utrzymaniu czystości i porządku w gminach
 
 **Art. 9g.** Podmiot odbierający odpady komunalne na podstawie umowy z właścicielem nieruchomości jest obowiązany do osiągnięcia w danym roku kalendarzowym w odniesieniu do masy odebranych przez siebie odpadów komunalnych poziomów:
 
+- **1)** przygotowania do ponownego użycia i recyklingu określonych w art. 3aa albo art. 3b ust. 1;
+- **2)** ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania określonych w przepisach wydanych na podstawie art. 3c ust. 2 pkt 1;
+- **3)** nieprzekraczających poziomów składowania określonych w art. 3b ust. 2a.
+
 **Art. 9h.** Podmiot odbierający odpady komunalne na podstawie umowy z właścicielem nieruchomości jest obowiązany przekazać właścicielowi nieruchomości, od którego odbiera odpady komunalne, rachunek, w którym są wyszczególnione koszty odbierania i zagospodarowania odpadów komunalnych.
 
 **Art. 9i.** W przypadku zakończenia działalności polegającej na odbieraniu odpadów komunalnych przedsiębiorca odbierający odpady komunalne od właścicieli nieruchomości jest obowiązany złożyć do właściwego wójta, burmistrza lub prezydenta miasta, w terminie 14 dni od dnia trwałego zaprzestania wykonywania tej działalności, wniosek o wykreślenie z rejestru.
@@ -1110,6 +1129,27 @@ o utrzymaniu czystości i porządku w gminach
 5. Sprawozdanie jest przekazywane ministrowi właściwemu do spraw klimatu za pośrednictwem Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami.
 
 **Art. 9t.** (uchylony) Art. 9ta. 1. Termin do złożenia deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi oraz sprawozdań, o których mowa w art. 9o ust. 1, uważa się za zachowany, jeżeli przed jego upływem deklaracja lub sprawozdanie zostało:
+
+- **1)** nadane w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366) lub
+- **2)** wysłane na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, do właściwego wójta, burmistrza lub prezydenta miasta i został wystawiony dowód otrzymania, o którym mowa w art. 41 tej ustawy.
+
+2. W przypadku awarii systemu teleinformatycznego, w którym Baza danych o produktach i opakowaniach oraz o gospodarce odpadami jest prowadzona, uniemożliwiającej złożenie sprawozdań, o których mowa w art. 9n ust. 1, art. 9na ust. 1, art. 9nb ust. 1, art. 9q ust. 1 i art. 9s ust. 1, w terminie określonym odpowiednio w art. 9n ust. 2, art. 9na ust. 2, art. 9nb ust. 2, art. 9q ust. 2 i art. 9s ust. 2, podmioty obowiązane składają sprawozdania niezwłocznie po ustaniu awarii.
+
+3. Administrator Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami zamieszcza komunikat o czasie trwania awarii na swojej stronie Biuletynu Informacji Publicznej oraz na stronie internetowej rejestru umożliwiającej dostęp do indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, o ile jest to technicznie możliwe. Art. 9taa. Nie dokonuje się korekty sprawozdań, o których mowa w art. 9n ust. 1, art. 9na ust. 1, art. 9nb ust. 1, art. 9o ust. 1, art. 9q ust. 1 i art. 9s ust. 1, po upływie 2 lat od terminu ich przekazania określonego odpowiednio w art. 9n ust. 2, art. 9na ust. 2, art. 9nb ust. 2, art. 9o ust. 2, art. 9q ust. 2 i art. 9s ust. 2. Art. 9tb. 1. Na podstawie sprawozdań złożonych przez podmioty odbierające odpady komunalne od właścicieli nieruchomości, podmioty prowadzące punkty selektywnego zbierania odpadów komunalnych, podmioty zbierające odpady komunalne, informacji przekazanych przez prowadzących instalacje komunalne oraz na podstawie rocznego sprawozdania z realizacji zadań z zakresu gospodarowania odpadami komunalnymi oraz innych dostępnych danych o czynnikach wpływających na koszty systemu gospodarowania odpadami komunalnymi wójt, burmistrz lub prezydent miasta sporządza analizę stanu gospodarki odpadami komunalnymi obejmującą w szczególności:
+
+- **1)** możliwości przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych, bioodpadów stanowiących odpady komunalne oraz przeznaczonych do składowania pozostałości z sortowania odpadów komunalnych i pozostałości z procesu mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych;
+- **2)** potrzeby inwestycyjne związane z gospodarowaniem odpadami komunalnymi;
+- **3)** koszty poniesione w związku z odbieraniem, odzyskiem, recyklingiem i unieszkodliwianiem odpadów komunalnych w podziale na wpływy, wydatki i nadwyżki z opłat za gospodarowanie odpadami komunalnymi;
+- **4)** liczbę mieszkańców;
+- **5)** liczbę właścicieli nieruchomości, którzy nie zawarli umowy, o której mowa w art. 6 ust. 1, w imieniu których gmina powinna podjąć działania, o których mowa w art. 6 ust. 6–12;
+- **6)** ilość odpadów komunalnych wytwarzanych na terenie gminy;
+- **7)** ilość niesegregowanych (zmieszanych) odpadów komunalnych i bioodpadów stanowiących odpady komunalne, odbieranych z terenu gminy oraz przeznaczonych do składowania pozostałości z sortowania odpadów komunalnych i pozostałości z procesu mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych;
+- **8)** uzyskane poziomy przygotowania do ponownego użycia i recyklingu odpadów komunalnych;
+- **9)** masę odpadów komunalnych wytworzonych na terenie gminy przekazanych do termicznego przekształcania oraz stosunek masy odpadów komunalnych przekazanych do termicznego przekształcania do masy odpadów komunalnych wytworzonych na terenie gminy.
+
+2. Analizę stanu gospodarki odpadami komunalnymi sporządza się w terminie do dnia 30 kwietnia za poprzedni rok kalendarzowy.
+
+3. Analiza stanu gospodarki odpadami komunalnymi podlega publicznemu udostępnieniu na stronie podmiotowej Biuletynu Informacji Publicznej urzędu gminy.
 
 #### Rozdział 4c Kontrola
 

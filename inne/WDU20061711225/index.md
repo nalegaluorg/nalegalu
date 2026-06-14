@@ -8,7 +8,7 @@ pos: 1225
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o bezpieczeństwie żywności i żywienia
@@ -33,7 +33,7 @@ Art. 105–118. (pominięte)
 
 **Art. 1.**
 
-1. Ustawa określa wymagania i procedury niezbędne dla zapewnienia bezpieczeństwa żywności i żywienia zgodnie z przepisami rozporządzenia (WE) wiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd do Spraw Bezpieczeństwa Żywności oraz ustanawiającego procedury w sprawie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463), zwanego dalej „rozporządzeniem nr 178/2002”.
+1. Ustawa określa wymagania i procedury niezbędne dla zapewnienia bezpieczeństwa żywności i żywienia zgodnie z przepisami rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd do Spraw Bezpieczeństwa Żywności oraz ustanawiającego procedury w sprawie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463), zwanego dalej „rozporządzeniem nr 178/2002”.
 
 2. Ustawa określa:
 
@@ -44,6 +44,9 @@ Art. 105–118. (pominięte)
 
 - **3)** właściwość organów w zakresie przeprowadzania urzędowych kontroli żywności na zasadach określonych w rozporządzeniu (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt (Dz. Urz. UE L 191 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200), zwanym dalej „rozporządzeniem nr 882/2004”;
 - **4)** wymagania dotyczące przeprowadzania urzędowych kontroli żywności – w zakresie nieuregulowanym w rozporządzeniu nr 882/2004.
+
+3. Ustawa reguluje również:
+
 - **1)** zasady sprzedaży, reklamy i promocji środków spożywczych,
 - **2)** wymagania w zakresie żywienia dzieci i młodzieży w ramach żywienia zbiorowego – w przedszkolach, innych formach wychowania przedszkolnego, szkołach, z wyłączeniem szkół dla dorosłych, branżowych szkół II stopnia oraz szkół policealnych, a także w placówkach systemu oświaty, o których mowa w art. 2 pkt 3, 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), zwanych dalej „jednostkami systemu oświaty”.
 
@@ -59,7 +62,9 @@ Art. 105–118. (pominięte)
 
 **Art. 3.**
 
-1. Żywnością (środkiem spożywczym) jest każda substancja lub produkt w rozumieniu art. 2 rozporządzenia nr 178/2002. oznakowane i wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej jako żywność.
+1. Żywnością (środkiem spożywczym) jest każda substancja lub produkt w rozumieniu art. 2 rozporządzenia nr 178/2002.
+
+2. Produkty niespełniające wymagań prawa żywnościowego nie mogą być oznakowane i wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej jako żywność.
 
 3. Użyte w ustawie określenia oznaczają:
 
@@ -75,14 +80,15 @@ Art. 105–118. (pominięte)
     - **e)** cech organoleptycznych, i działań, które muszą być podejmowane na wszystkich etapach produkcji lub obrotu żywnością – w celu zapewnienia zdrowia i życia człowieka;
 
 - **6)** cechy organoleptyczne – zespół cech obejmujących smak, zapach, wygląd, w tym barwę i konsystencję, środków spożywczych, które można wyodrębnić i ocenić przy pomocy zmysłów człowieka;
-- **7)** data minimalnej trwałości – datę w rozumieniu art. 2 ust. 2 lit. r rozporządzenia Parlamentu Europejskiego i Rady nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.), zwanego dalej „rozporządzeniem nr 1169/2011”;
+- **7)** data minimalnej trwałości – datę w rozumieniu art. 2 ust. 2 lit. r rozporządzenia Parlamentu Europejskiego i Rady nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.), zwanego dalej „rozporządzeniem nr 1169/2011”;
 - **8)** dobra praktyka higieniczna (Good Hygienic Practice – GHP) – działania, które muszą być podjęte, i warunki higieniczne, które muszą być spełniane i kontrolowane na wszystkich etapach produkcji lub obrotu, aby zapewnić bezpieczeństwo żywności;
 - **9)** dobra praktyka produkcyjna (Good Manufacturing Practice – GMP) – w odniesieniu do produkcji żywności: działania, które muszą być podjęte, i warunki, które muszą być spełniane, aby produkcja żywności odbywała się w sposób zapewniający bezpieczeństwo żywności, zgodnie z jej przeznaczeniem, a w odniesieniu do produkcji materiałów i wyrobów przeznaczonych do kontaktu z żywnością – dobra praktyka produkcyjna w rozumieniu art. 3 lit. a rozporządzenia (WE) nr 2023/2006 z dnia 22 grudnia 2006 r. w sprawie dobrej praktyki produkcyjnej w odniesieniu do materiałów i wyrobów przeznaczonych do kontaktu z żywnością (Dz. Urz. UE L 384 z 29.12.2006, str. 75), zwanego dalej „rozporządzeniem nr 2023/2006”;
 - **10)** dostawy bezpośrednie – działalność, o której mowa w art. 1 ust. 2 lit. c rozporządzenia nr 852/2004;
 - **10a)** enzym spożywczy – enzym spożywczy w rozumieniu art. 3 ust. 2 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1332/2008 z dnia 16 grudnia 2008 r. w sprawie enzymów spożywczych, zmieniającego dyrektywę Rady 83/417/EWG, rozporządzenie Rady (WE) nr 1493/1999, dyrektywę 2000/13/WE, dyrektywę Rady 2001/112/WE oraz rozporządzenie (WE) nr 258/97 (Dz. Urz. UE L 354 z 31.12.2008, str. 7), zwanego dalej „rozporządzeniem nr 1332/2008”;
 - **11)** informowanie o ryzyku – informowanie o ryzyku w rozumieniu art. 3 pkt 13 rozporządzenia nr 178/2002;
 - **12)** materiały i wyroby przeznaczone do kontaktu z żywnością – materiały i wyroby, do których ma zastosowanie rozporządzenie nr 1935/2004, zgodnie z art. 1 ust. 2 i 3 tego rozporządzenia;
-- **13)** monitoring – monitorowanie w rozumieniu art. 2 pkt 8 rozporządzenia nr 882/2004; dopuszczalny poziom pozostałości (Najwyższy Dopuszczalny Poziom – NDP) w rozumieniu art. 3 ust. 2 lit. d rozporządzenia (WE) nr 396/2005 Parlamentu Europejskiego i Rady z dnia 23 lutego 2005 r. w sprawie najwyższych dopuszczalnych poziomów pozostałości pestycydów w żywności i paszy pochodzenia roślinnego i zwierzęcego oraz na ich powierzchni, zmieniającego dyrektywę Rady 91/414/EWG (Dz. Urz. UE L 70 z 16.03.2005, str. 1), zwanego dalej „rozporządzeniem nr 396/2005”;
+- **13)** monitoring – monitorowanie w rozumieniu art. 2 pkt 8 rozporządzenia nr 882/2004;
+- **14)** najwyższy dopuszczalny poziom pozostałości pestycydów – najwyższy dopuszczalny poziom pozostałości (Najwyższy Dopuszczalny Poziom – NDP) w rozumieniu art. 3 ust. 2 lit. d rozporządzenia (WE) nr 396/2005 Parlamentu Europejskiego i Rady z dnia 23 lutego 2005 r. w sprawie najwyższych dopuszczalnych poziomów pozostałości pestycydów w żywności i paszy pochodzenia roślinnego i zwierzęcego oraz na ich powierzchni, zmieniającego dyrektywę Rady 91/414/EWG (Dz. Urz. UE L 70 z 16.03.2005, str. 1), zwanego dalej „rozporządzeniem nr 396/2005”;
 - **15)** naturalna woda mineralna – wodę podziemną wydobywaną jednym lub kilkoma otworami naturalnymi lub wierconymi, różniącą się od wody przeznaczonej do spożycia przez ludzi pierwotną czystością pod względem chemicznym i mikrobiologicznym oraz charakterystycznym stabilnym składem mineralnym, a w określonych przypadkach także właściwościami mającymi znaczenie fizjologiczne, powodującymi korzystne oddziaływanie na zdrowie ludzi;
 - **16)** (uchylony)
 - **17)** nowa żywność – żywność i składniki żywności, do których ma zastosowanie rozporządzenie (WE) nr 258/97 Parlamentu Europejskiego i Rady z dnia 27 stycznia 1997 r. dotyczące nowej żywności i nowych składników żywności (Dz. Urz. WE L 43 z 14.02.1997, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 18, str. 244), zwane dalej „rozporządzeniem nr 258/97”, zgodnie z art. 1 tego rozporządzenia;
@@ -90,7 +96,8 @@ Art. 105–118. (pominięte)
 - **19)** opakowany środek spożywczy – żywność opakowaną w rozumieniu art. 2 ust. 2 lit. e rozporządzenia nr 1169/2011;
 - **20)** otwór – miejsce czerpania (wydobywania) naturalnej wody mineralnej lub wody źródlanej z naturalnego źródła lub z odwiertu;
 - **20a)** oświadczenie zdrowotne – oświadczenie zdrowotne w rozumieniu art. 2 ust. 2 pkt 5 rozporządzenia (WE) nr 1924/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie oświadczeń żywieniowych i zdrowotnych dotyczących żywności (Dz. Urz. UE L 12 z 18.01.2007, str. 3), zwanego dalej „rozporządzeniem nr 1924/2006”;
-- **21)** oświadczenie żywieniowe – oświadczenie żywieniowe w rozumieniu art. 2 ust. 2 pkt 4 rozporządzenia nr 1924/2006; z żywnością – podmiot działający na rynku w rozumieniu art. 2 ust. 2 lit. d rozporządzenia nr 1935/2004;
+- **21)** oświadczenie żywieniowe – oświadczenie żywieniowe w rozumieniu art. 2 ust. 2 pkt 4 rozporządzenia nr 1924/2006;
+- **21a)** podmiot działający na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością – podmiot działający na rynku w rozumieniu art. 2 ust. 2 lit. d rozporządzenia nr 1935/2004;
 - **22)** podmiot działający na rynku spożywczym – podmiot w rozumieniu art. 3 pkt 3 rozporządzenia nr 178/2002;
 - **22a)** podmiot zajmujący się recyklingiem – podmiot zajmujący się recyklingiem materiałów i wyrobów z tworzyw sztucznych w rozumieniu art. 2 ust. 2 lit. f rozporządzenia Komisji (WE) nr 282/2008 z dnia 27 marca 2008 r. w sprawie materiałów i wyrobów z tworzyw sztucznych pochodzących z recyklingu przeznaczonych do kontaktu z żywnością oraz zmieniającego rozporządzenie (WE) nr 2023/2006 (Dz. Urz. UE L 86 z 28.03.2008, str. 9), zwanego dalej „rozporządzeniem nr 282/2008”;
 - **23)** pozostałości pestycydów – pozostałości pestycydów w rozumieniu art. 3 ust. 2 lit. c rozporządzenia nr 396/2005;
@@ -100,7 +107,8 @@ Art. 105–118. (pominięte)
 - **27)** preparat do początkowego żywienia niemowląt – środek spożywczy specjalnego przeznaczenia żywieniowego stosowany w żywieniu niemowląt przez pierwsze miesiące życia, pokrywający całkowite zapotrzebowanie żywieniowe do czasu wprowadzenia odpowiedniego żywienia uzupełniającego;
 - **28)** produkcja pierwotna – produkcję podstawową w rozumieniu art. 3 pkt 17 rozporządzenia nr 178/2002;
 - **29)** produkcja środków spożywczych – czynności obejmujące przygotowywanie surowców do przerobu, ich przechowywanie, poddawanie procesom technologicznym, pakowanie i znakowanie oraz wszelkie inne czynności związane z przygotowywaniem do obrotu, a także przechowywanie wyrobów gotowych do czasu wprowadzenia ich do obrotu;
-- **29a)** przetwórca – przetwórcę w rozumieniu art. 2 ust. 2 lit. e rozporządzenia nr 282/2008; art. 3 ust. 7 rozporządzenia nr 178/2002, polegający na:
+- **29a)** przetwórca – przetwórcę w rozumieniu art. 2 ust. 2 lit. e rozporządzenia nr 282/2008;
+- **29b)** rolniczy handel detaliczny – handel detaliczny w rozumieniu art. 3 ust. 7 rozporządzenia nr 178/2002, polegający na:
     - **a)** produkcji żywności zawierającej co najmniej jeden składnik pochodzący w całości z własnej uprawy, hodowli lub chowu podmiotu działającego na rynku spożywczym oraz
     - **b)** zbywaniu żywności, o której mowa w lit. a, konsumentowi finalnemu, o którym mowa w art. 3 ust. 18 rozporządzenia nr 178/2002, lub zakładom prowadzącym handel detaliczny z przeznaczeniem dla konsumenta finalnego;
 
@@ -112,17 +120,19 @@ Art. 105–118. (pominięte)
 - **34a)** składnik żywności o właściwościach aromatyzujących – składnik żywności o właściwościach aromatyzujących w rozumieniu art. 3 ust. 2 lit. i rozporządzenia nr 1334/2008;
 - **35)** (uchylony)
 - **36)** substancja dodatkowa – dodatek do żywności w rozumieniu art. 3 ust. 2 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności (Dz. Urz. UE L 354 z 31.12.2008, str. 16), zwanego dalej „rozporządzeniem nr 1333/2008”;
-- **37)** substancja pomagająca w przetwarzaniu – substancję pomocniczą w przetwórstwie w rozumieniu art. 3 ust. 2 lit. b rozporządzenia nr 1333/2008; art. 1 rozporządzenia Rady (EWG) nr 315/93 z dnia 8 lutego 1993 r. ustanawiającego procedury Wspólnoty w odniesieniu do substancji skażających w żywności (Dz. Urz. WE L 37 z 13.02.1993, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 204), zwanego dalej „rozporządzeniem nr 315/93”;
+- **37)** substancja pomagająca w przetwarzaniu – substancję pomocniczą w przetwórstwie w rozumieniu art. 3 ust. 2 lit. b rozporządzenia nr 1333/2008;
+- **38)** substancja zanieczyszczająca – substancję zanieczyszczającą w rozumieniu art. 1 rozporządzenia Rady (EWG) nr 315/93 z dnia 8 lutego 1993 r. ustanawiającego procedury Wspólnoty w odniesieniu do substancji skażających w żywności (Dz. Urz. WE L 37 z 13.02.1993, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 204), zwanego dalej „rozporządzeniem nr 315/93”;
 - **39)** suplement diety – środek spożywczy, którego celem jest uzupełnienie normalnej diety, będący skoncentrowanym źródłem witamin lub składników mineralnych lub innych substancji wykazujących efekt odżywczy lub inny fizjologiczny, pojedynczych lub złożonych, wprowadzany do obrotu w formie umożliwiającej dawkowanie, w postaci: kapsułek, tabletek, drażetek i w innych podobnych postaciach, saszetek z proszkiem, ampułek z płynem, butelek z kroplomierzem i w innych podobnych postaciach płynów i proszków przeznaczonych do spożywania w małych, odmierzonych ilościach jednostkowych, z wyłączeniem produktów posiadających właściwości produktu leczniczego w rozumieniu przepisów prawa farmaceutycznego;
 - **40)** surowce – produkty produkcji pierwotnej w rozumieniu art. 2 ust. 1 lit. b rozporządzenia nr 852/2004;
 - **41)** system analizy zagrożeń i krytycznych punktów kontroli (Hazard Analysis and Critical Control Points), zwany dalej „systemem HACCP” – postępowanie mające na celu zapewnienie bezpieczeństwa żywności przez identyfikację i oszacowanie skali zagrożeń z punktu widzenia wymagań zdrowotnych żywności oraz ryzyka wystąpienia zagrożeń podczas przebiegu wszystkich etapów produkcji i obrotu żywnością; system ten ma również na celu określenie metod eliminacji lub ograniczania zagrożeń oraz ustalenie działań korygujących;
 - **42)** system wczesnego ostrzegania o niebezpiecznej żywności i paszach (Rapid Alert System for Food and Feed), zwany dalej „systemem RASFF” – postępowanie organów urzędowej kontroli żywności i innych podmiotów realizujących zadania z zakresu bezpieczeństwa żywności, zgodnie z zasadami określonymi w art. 50– 52 rozporządzenia nr 178/2002;
-- **43)** środek spożywczy specjalnego przeznaczenia żywieniowego – środek spożywczy, który ze względu na specjalny skład lub sposób przygotowania wyraźnie różni się od środków spożywczych powszechnie spożywanych i zgodnie z informacją zamieszczoną na opakowaniu jest wprowadzany do obrotu z przeznaczeniem do zaspokajania szczególnych potrzeb żywieniowych: ze względu na specjalny stan fizjologiczny mogą odnieść szczególne korzyści z kontrolowanego spożycia określonych substancji zawartych w żywności – taki środek spożywczy może być określany jako „dietetyczny”,
+- **43)** środek spożywczy specjalnego przeznaczenia żywieniowego – środek spożywczy, który ze względu na specjalny skład lub sposób przygotowania wyraźnie różni się od środków spożywczych powszechnie spożywanych i zgodnie z informacją zamieszczoną na opakowaniu jest wprowadzany do obrotu z przeznaczeniem do zaspokajania szczególnych potrzeb żywieniowych:
+    - **a)** osób, których procesy trawienia i metabolizmu są zachwiane lub osób, które ze względu na specjalny stan fizjologiczny mogą odnieść szczególne korzyści z kontrolowanego spożycia określonych substancji zawartych w żywności – taki środek spożywczy może być określany jako „dietetyczny”,
     - **b)** zdrowych niemowląt i małych dzieci w wieku od roku do 3 lat;
 
 - **44)** środek spożywczy szkodliwy dla zdrowia lub życia człowieka – środek spożywczy, którego spożycie w warunkach normalnych i zgodnie z przeznaczeniem może spowodować negatywne skutki dla zdrowia lub życia człowieka, w szczególności, jeżeli:
     - **a)** nie spełnia wymagań zdrowotnych określonych w dziale II,
-    - **b)** zawiera: – substancje zanieczyszczające lub zanieczyszczenia mikrobiologiczne w ilościach przekraczających dopuszczalne poziomy określone w rozporządzeniach Unii Europejskiej oraz inne zanieczyszczenia, – pozostałości skażeń promieniotwórczych w ilościach przekraczających poziomy określone w rozporządzeniach Unii Europejskiej , – weterynaryjne produkty lecznicze w ilościach przekraczających dopuszczalne poziomy lub zabronione określone w rozporządzeniach Unii Europejskiej , w przepisach Unii Europejskiej ;
+    - **b)** zawiera: – substancje zanieczyszczające lub zanieczyszczenia mikrobiologiczne w ilościach przekraczających dopuszczalne poziomy określone w rozporządzeniach Unii Europejskiej oraz inne zanieczyszczenia, – pozostałości skażeń promieniotwórczych w ilościach przekraczających poziomy określone w rozporządzeniach Unii Europejskiej , – weterynaryjne produkty lecznicze w ilościach przekraczających dopuszczalne poziomy lub zabronione określone w rozporządzeniach Unii Europejskiej , – inne substancje szkodliwe dla zdrowia lub życia człowieka określone w przepisach Unii Europejskiej ;
 
 - **45)** środek spożywczy zafałszowany – środek spożywczy, którego skład lub inne właściwości zostały zmienione, a konsument nie został o tym poinformowany w sposób określony w przepisach rozporządzenia nr 1169/2011, albo środek spożywczy, w którym zostały wprowadzone zmiany mające na celu ukrycie jego rzeczywistego składu lub innych właściwości; środek spożywczy jest środkiem spożywczym zafałszowanym, w szczególności jeżeli:
     - **a)** dodano do niego substancje zmieniające jego skład lub obniżające jego wartość odżywczą,
@@ -132,7 +142,8 @@ Art. 105–118. (pominięte)
 
 - **46)** środek spożywczy zepsuty – środek spożywczy, którego skład lub właściwości uległy zmianom wskutek nieprawidłowości zaistniałych na etapie produkcji, obrotu lub pod wpływem działań czynników naturalnych, takich jak: wilgotność, czas, temperatura lub światło, albo wskutek obecności drobnoustrojów, a także zanieczyszczeń, powodujących, że nie nadaje się on do spożycia zgodnie z jego przeznaczeniem w rozumieniu art. 14 ust. 2 lit. b i ust. 5 rozporządzenia nr 178/2002;
 - **47)** termin przydatności do spożycia – termin, o którym mowa w art. 24 rozporządzenia nr 1169/2011;
-- **48)** ujęcie wód podziemnych – zespół urządzeń wodnych służących do wydobywania wody podziemnej i jednocześnie zabezpieczających tę wodę przed zanieczyszczeniem; pkt 1 rozporządzenia nr 882/2004 w zakresie odnoszącym się do bezpieczeństwa żywności;
+- **48)** ujęcie wód podziemnych – zespół urządzeń wodnych służących do wydobywania wody podziemnej i jednocześnie zabezpieczających tę wodę przed zanieczyszczeniem;
+- **49)** urzędowe kontrole żywności – urzędowe kontrole w rozumieniu art. 2 pkt 1 rozporządzenia nr 882/2004 w zakresie odnoszącym się do bezpieczeństwa żywności;
 - **50)** wartość odżywcza – szczególne wartości środka spożywczego ze względu na:
     - **a)** energię (wartość kaloryczną), niezależnie od tego, czy środek spożywczy jej dostarcza i w jakiej ilości, lub
     - **b)** składniki odżywcze, niezależnie od tego, czy środek spożywczy je zawiera, czy nie;
@@ -147,7 +158,7 @@ Art. 105–118. (pominięte)
 - **54)** zakład – przedsiębiorstwo spożywcze w rozumieniu art. 3 pkt 2 rozporządzenia nr 178/2002;
 - **54a)** zakład działający na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością – przedsiębiorstwo w rozumieniu art. 2 ust. 2 lit. c rozporządzenia nr 1935/2004;
 - **55)** zakład żywienia zbiorowego – zakład żywienia zbiorowego w rozumieniu art. 2 ust. 2 lit. d rozporządzenia nr 1169/2011;
-- **56)** zakład żywienia zbiorowego typu zamkniętego – zakład wykonujący działalność w zakresie zorganizowanego żywienia określonych grup konsumentów, w szczególności w szpitalach, zakładach opiekuńczo-wychowawczych, żłobkach, przedszkolach, szkołach, internatach, zakładach pracy, z wyłączeniem punktów żywieniowych;
+- **56)** zakład żywienia zbiorowego typu zamkniętego – zakład wykonujący działalność w zakresie zorganizowanego żywienia określonych grup konsumentów, w szczególności w szpitalach, zakładach opiekuńczo-wychowawczych, żłobkach, przedszkolach, szkołach, internatach, zakładach pracy, z wyłączeniem żywienia w samolotach i innych środkach transportu oraz wojskowych polowych punktów żywieniowych;
 - **57)** zanieczyszczenia – substancje zanieczyszczające, zanieczyszczenia biologiczne oraz ciała obce, szkodniki lub ich części;
 - **58)** zarządzanie ryzykiem – zarządzanie ryzykiem w rozumieniu art. 3 pkt 12 rozporządzenia nr 178/2002;
 - **59)** żywność genetycznie zmodyfikowana – genetycznie zmodyfikowaną żywność w rozumieniu art. 2 pkt 6 rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432), zwanego dalej „rozporządzeniem nr 1829/2003”;
@@ -160,7 +171,7 @@ Art. 105–118. (pominięte)
 
 **Art. 3a.**
 
-1. Ilekroć w ustawie jest mowa o państwie członkowskim Unii Europejskiej, należy przez to rozumieć również państwo członkowskie Europejskiego Gospodarczym.
+1. Ilekroć w ustawie jest mowa o państwie członkowskim Unii Europejskiej, należy przez to rozumieć również państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym.
 
 2. Ilekroć w ustawie jest mowa o państwie trzecim, należy przez to rozumieć państwo inne niż wymienione w ust. 1.
 
@@ -183,7 +194,7 @@ Art. 105–118. (pominięte)
 - **1)** wyprodukowane lub wprowadzone do obrotu w innym państwie członkowskim Unii Europejskiej, zgodnie z prawem tego państwa, lub
 - **2)** wyprodukowane w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA), będącym stroną umowy o Europejskim Obszarze Gospodarczym, albo wyprodukowane lub wprowadzone do obrotu w Republice Turcji, zgodnie z prawem tych państw, w zakresie, w jakim korzystają ze swobody przepływu towarów na podstawie umów zawartych ze Wspólnotą Europejską – pod warunkiem, że nie stanowią zagrożenia dla zdrowia lub życia człowieka.
 
-4. W przypadku uzasadnionego podejrzenia, że środek spożywczy, o którym mowa w ust. 3, może zagrażać zdrowiu lub życiu człowieka, właściwy organ urzędowej kontroli żywności żąda przedstawienia przez podmiot działający na rynku równoważnych wymagań zdrowotnych, w tym dokumentów wydanych przez właściwe władze państwa pochodzenia.
+4. W przypadku uzasadnionego podejrzenia, że środek spożywczy, o którym mowa w ust. 3, może zagrażać zdrowiu lub życiu człowieka, właściwy organ urzędowej kontroli żywności żąda przedstawienia przez podmiot działający na rynku spożywczym w wyznaczonym terminie informacji potwierdzających spełnianie równoważnych wymagań zdrowotnych, w tym dokumentów wydanych przez właściwe władze państwa pochodzenia.
 
 **Art. 6a.**
 
@@ -200,7 +211,7 @@ Art. 105–118. (pominięte)
 
 2. Jeżeli istnieją dostateczne podstawy do stwierdzenia, że środek spożywczy specjalnego przeznaczenia żywieniowego, znajdujący się w obrocie w państwach członkowskich Unii Europejskiej, dla którego nie określono szczegółowych wymagań zdrowotnych, nie jest odpowiedni do zaspokajania szczególnych potrzeb żywieniowych zgodnie z jego przeznaczeniem lub zagraża zdrowiu lub życiu człowieka, to obrót takim środkiem spożywczym może być zawieszony lub ograniczony albo mogą zostać ustanowione szczególne wymagania dla takiego środka spożywczego.
 
-3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa może, w drodze rozporządzenia, zawiesić lub ograniczyć obrót w ust. 1 lub 2, uwzględniając konieczność zapewnienia bezpieczeństwa zdrowia lub życia człowieka oraz fakt, że rozporządzenie obowiązuje do dnia wejścia w życie odpowiednich przepisów Unii Europejskiej albo do dnia odmowy przyjęcia przez Komisję Europejską lub Radę Unii Europejskiej takich przepisów.
+3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa może, w drodze rozporządzenia, zawiesić lub ograniczyć obrót albo ustanowić szczególne wymagania dla środków spożywczych, o których mowa w ust. 1 lub 2, uwzględniając konieczność zapewnienia bezpieczeństwa zdrowia lub życia człowieka oraz fakt, że rozporządzenie obowiązuje do dnia wejścia w życie odpowiednich przepisów Unii Europejskiej albo do dnia odmowy przyjęcia przez Komisję Europejską lub Radę Unii Europejskiej takich przepisów.
 
 4. Minister właściwy do spraw zdrowia przekazuje niezwłocznie rozporządzenie, o którym mowa w ust. 3, wraz z uzasadnieniem, innym państwom członkowskim Unii Europejskiej i Komisji Europejskiej.
 
@@ -212,9 +223,14 @@ Art. 105–118. (pominięte)
 
 **Art. 10.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** wykaz substancji dodatkowych (dozwolonych substancji dodatkowych), które mogą być wprowadzane do obrotu i stosowane w żywności, w tym w aromatach, zgodnie z ich funkcjami technologicznymi, oraz szczegółowe warunki ich stosowania, w tym rodzaj środków spożywczych, w których mogą być stosowane, oraz ich dopuszczalne maksymalne poziomy,
+- **2)** specyfikacje i kryteria czystości substancji dodatkowych – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz wymagania w tym zakresie obowiązujące w Unii Europejskiej.
+
 **Art. 10a.** Wymagania dotyczące enzymów spożywczych określa rozporządzenie nr 1332/2008.
 
-**Art. 11.** (uchylony) Aromaty i rozpuszczalniki
+**Art. 11.** (uchylony)
+
+#### Rozdział 3 Aromaty i rozpuszczalniki
 
 **Art. 12.** Aromaty i rozpuszczalniki używane lub stosowane w produkcji żywności nie mogą zawierać pierwiastków i substancji chemicznych w ilościach szkodliwych dla zdrowia człowieka.
 
@@ -233,7 +249,9 @@ Art. 105–118. (pominięte)
 3. Minister właściwy do spraw zdrowia może określić w rozporządzeniu, o którym mowa w ust. 2:
 
 - **1)** wymagania dotyczące pobierania próbek i metod analitycznych stosowanych w trakcie urzędowej kontroli żywności do oznaczania parametrów właściwych dla rozpuszczalników ekstrakcyjnych,
-- **2)** specyfikacje i kryteria czystości rozpuszczalników ekstrakcyjnych – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej, jeżeli są ustalone. Zanieczyszczenia żywności
+- **2)** specyfikacje i kryteria czystości rozpuszczalników ekstrakcyjnych – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej, jeżeli są ustalone.
+
+#### Rozdział 4 Zanieczyszczenia żywności
 
 **Art. 15.**
 
@@ -249,9 +267,12 @@ Art. 105–118. (pominięte)
 
 **Art. 16.** Środki spożywcze produkowane i wprowadzane do obrotu muszą spełniać wymagania:
 
+- **1)** mikrobiologiczne określone w rozporządzeniu Komisji (WE) nr 2073/2005 z dnia 15 listopada 2005 r. w sprawie kryteriów mikrobiologicznych dotyczących środków spożywczych (Dz. Urz. UE L 338 z 22.12.2005, str. 1, z późn. zm.);
+- **2)** w zakresie najwyższych dopuszczalnych poziomów substancji zanieczyszczających określonych w rozporządzeniu Komisji (WE) nr 1881/2006 z dnia 19 grudnia 2006 r. ustalającym najwyższe dopuszczalne poziomy niektórych zanieczyszczeń w środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 5, z późn. zm.), zwanym dalej „rozporządzeniem nr 1881/2006”.
+
 **Art. 17.**
 
-1. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa może określić, w drodze rozporządzenia, maksymalne poziomy substancji zanieczyszczających innych niż określone w rozporządzeniu nr 1881/2006, które mogą się znajdować w środkach spożywczych lub na ich powierzchni, przeznaczonych do obrotu lub do produkcji innych środków bezpieczeństwa żywności oraz ochronę zdrowia publicznego.
+1. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa może określić, w drodze rozporządzenia, maksymalne poziomy substancji zanieczyszczających innych niż określone w rozporządzeniu nr 1881/2006, które mogą się znajdować w środkach spożywczych lub na ich powierzchni, przeznaczonych do obrotu lub do produkcji innych środków spożywczych, mając na względzie potwierdzone dane naukowe, potrzebę zapewnienia bezpieczeństwa żywności oraz ochronę zdrowia publicznego.
 
 2. Minister właściwy do spraw zdrowia może wydać rozporządzenie, o którym mowa w ust. 1, z zachowaniem trybu i po spełnieniu warunków określonych w art. 5 ust. 3 rozporządzenia nr 315/93.
 
@@ -263,6 +284,20 @@ Art. 105–118. (pominięte)
 #### Rozdział 5 Napromienianie żywności promieniowaniem jonizującym
 
 **Art. 18.** Środki spożywcze mogą być poddawane napromienianiu promieniowaniem jonizującym wyłącznie w celu:
+
+- **1)** zmniejszenia liczby przypadków chorób spowodowanych spożyciem żywności przez niszczenie drobnoustrojów chorobotwórczych;
+- **2)** zapobiegania psuciu się żywności przez opóźnienie lub powstrzymanie procesów rozkładu i przez niszczenie mikroorganizmów odpowiedzialnych za te procesy;
+- **3)** przedłużenia okresu przydatności do spożycia przez hamowanie naturalnych procesów biologicznych związanych z dojrzewaniem lub kiełkowaniem;
+- **4)** usunięcia organizmów szkodliwych dla zdrowia roślin lub dla żywności pochodzenia roślinnego.
+
+**Art. 19.** Napromienianie żywności promieniowaniem jonizującym jest dopuszczalne wyłącznie, jeżeli:
+
+- **1)** nie stanowi zagrożenia dla zdrowia lub życia człowieka;
+- **2)** jest korzystne dla konsumentów;
+- **3)** jest uzasadnione technologicznie oraz nie będzie wykonywane w celu zastępowania wymagań zdrowotnych oraz warunków sanitarnych i higienicznych w produkcji i w obrocie żywnością;
+- **4)** żywność poddawana temu napromienianiu:
+    - **a)** spełnia obowiązujące wymagania zdrowotne oraz
+    - **b)** nie zawiera substancji chemicznych służących do jej konserwacji lub stabilizacji.
 
 **Art. 20.**
 
@@ -278,7 +313,7 @@ Art. 105–118. (pominięte)
 
 3. Zgoda Głównego Inspektora Sanitarnego jest wydawana pod warunkiem, że:
 
-- **1)** wyposażenie zakładu lub jednostki organizacyjnej podmiotu działającego na rynku spożywczym, w których będzie dokonywane napromienianie żywności promieniowaniem jonizującym w urządzenia i aparaturę do napromieniania żywności, spełniają wymagania określone na podstawie art. 22 ust. 1 pkt 2, w sposób zapewniający jej bezpieczeństwo;
+- **1)** wyposażenie zakładu lub jednostki organizacyjnej podmiotu działającego na rynku spożywczym, w których będzie dokonywane napromienianie żywności promieniowaniem jonizującym w urządzenia i aparaturę do napromieniania żywności, spełniają wymagania określone na podstawie art. 22 ust. 1 pkt 2, a personel posiada kwalifikacje niezbędne do napromieniania żywności w sposób zapewniający jej bezpieczeństwo;
 - **2)** zakład lub jednostka organizacyjna będą spełniały wymagania higieniczne zapewniające bezpieczeństwo żywności;
 - **3)** przestrzegane będą warunki określone w art. 19.
 
@@ -290,9 +325,34 @@ Art. 105–118. (pominięte)
 
 **Art. 21.** Główny Inspektor Sanitarny przekazuje do Komisji Europejskiej:
 
+- **1)** niezwłocznie:
+    - **a)** informację o podmiocie działającym na rynku spożywczym, który uzyskał zgodę na dokonywanie napromieniania żywności promieniowaniem jonizującym,
+    - **b)** kopię decyzji o zawieszeniu lub cofnięciu zgody;
+
+- **2)** corocznie informacje o:
+    - **a)** wynikach kontroli przeprowadzanych w zakładach lub jednostkach organizacyjnych podmiotów działających na rynku spożywczym dokonujących napromieniania żywności promieniowaniem jonizującym, w szczególności dotyczące rodzaju i ilości środków spożywczych poddawanych napromienianiu oraz stosowanych dawek promieniowania,
+    - **b)** wynikach kontroli przeprowadzanych na etapie obrotu żywnością oraz stosowanych metodach analitycznych.
+
+**Art. 22.**
+
+1. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** środki spożywcze, które mogą być poddane napromienianiu promieniowaniem jonizującym, maksymalne dopuszczalne dawki oraz dozwolone źródła promieniowania jonizującego,
+- **2)** szczegółowe warunki napromieniania żywności promieniowaniem jonizującym, w tym wymagania dotyczące urządzeń służących do napromieniania oraz procedury pomiarowe,
+- **3)** szczególne wymagania w zakresie opakowania i oznakowania środków spożywczych poddanych napromienianiu promieniowaniem jonizującym,
+- **4)** zakres informacji zamieszczanych w rejestrach, o których mowa w art. 20 ust. 5, oraz okres ich przechowywania,
+- **5)** szczególne warunki przywozu z państw trzecich środków spożywczych poddanych napromienianiu promieniowaniem jonizującym – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej.
+
+2. Minister właściwy do spraw zdrowia może określić w rozporządzeniu, o którym mowa w ust. 1:
+
+- **1)** dodatkowe warunki wydania zgody na dokonywanie napromieniania żywności promieniowaniem jonizującym,
+- **2)** metody analityczne, stosowane do celów urzędowej kontroli żywności i monitoringu, pobieranych próbek żywności napromienianej promieniowaniem jonizującym – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz jednolite wymagania obowiązujące w Unii Europejskiej w tym zakresie, jeżeli są ustalone.
+
 **Art. 23.**
 
-1. Przepisów art. 18–22 nie stosuje się do środków spożywczych wystawionych na działanie promieniowania jonizującego powstałego na skutek zastosowania urządzeń pomiarowych lub kontrolnych pod warunkiem, że wchłonięta dawka nie przekracza poziomu 0,01 Gy dla urządzeń kontrolnych, w których wykorzystuje się neutrony, oraz 0,5 Gy w pozostałych przypadkach, przy maksymalnym poziomie energii promieniowania wynoszącym 10 MeV w przypadku promieni rentgenowskich, 14 MeV w przypadku neutronów i 5 MeV w innych przypadkach. napromieniania żywności przygotowywanej pod nadzorem lekarza dla pacjentów wymagających diety o sterylnej czystości.
+1. Przepisów art. 18–22 nie stosuje się do środków spożywczych wystawionych na działanie promieniowania jonizującego powstałego na skutek zastosowania urządzeń pomiarowych lub kontrolnych pod warunkiem, że wchłonięta dawka nie przekracza poziomu 0,01 Gy dla urządzeń kontrolnych, w których wykorzystuje się neutrony, oraz 0,5 Gy w pozostałych przypadkach, przy maksymalnym poziomie energii promieniowania wynoszącym 10 MeV w przypadku promieni rentgenowskich, 14 MeV w przypadku neutronów i 5 MeV w innych przypadkach.
+
+2. Przepisów art. 19 pkt 3 i pkt 4 lit. b, art. 20–22 nie stosuje się do napromieniania żywności przygotowywanej pod nadzorem lekarza dla pacjentów wymagających diety o sterylnej czystości.
 
 #### Rozdział 6 Środki spożywcze specjalnego przeznaczenia żywieniowego
 
@@ -316,7 +376,7 @@ Art. 105–118. (pominięte)
 
 3. Środki spożywcze specjalnego przeznaczenia żywieniowego przeznaczone bezpośrednio dla konsumenta finalnego mogą być wprowadzane do obrotu wyłącznie w opakowaniach obejmujących w całości te środki, z zastrzeżeniem przepisów, o których mowa w art. 26 ust. 2 pkt 3.
 
-4. Dopuszcza się upowszechnianie wszelkich użytecznych informacji i zaleceń dotyczących środków spożywczych specjalnego przeznaczenia żywieniowego, farmacji lub żywienia.
+4. Dopuszcza się upowszechnianie wszelkich użytecznych informacji i zaleceń dotyczących środków spożywczych specjalnego przeznaczenia żywieniowego, kierowanych wyłącznie do osób posiadających kwalifikacje w zakresie medycyny, farmacji lub żywienia.
 
 **Art. 25.**
 
@@ -334,7 +394,8 @@ Art. 105–118. (pominięte)
 
 1. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** przeznaczenie środków spożywczych specjalnego przeznaczenia żywieniowego należących do grup wymienionych w art. 24 ust. 2 pkt 1–4, przeznaczenia żywieniowego wymienione w art. 24 ust. 2 pkt 1–4, w szczególności w zakresie ich składu,
+- **1)** przeznaczenie środków spożywczych specjalnego przeznaczenia żywieniowego należących do grup wymienionych w art. 24 ust. 2 pkt 1–4,
+- **2)** szczegółowe wymagania, jakie powinny spełniać środki spożywcze specjalnego przeznaczenia żywieniowego wymienione w art. 24 ust. 2 pkt 1–4, w szczególności w zakresie ich składu,
 - **3)** wykaz substancji chemicznych należących do kategorii substancji dodawanych w szczególnych celach żywieniowych do środków spożywczych specjalnego przeznaczenia żywieniowego określonych w art. 24 ust. 2 pkt 1 i 2, które mogą być wykorzystane w produkcji tych środków spożywczych oraz warunki ich stosowania,
 - **4)** szczególne wymagania i warunki dotyczące oznakowania, prezentacji i reklamy środków spożywczych specjalnego przeznaczenia żywieniowego i przedmiotów służących do karmienia niemowląt,
 - **5)** wymagania w zakresie treści materiałów informacyjnych i edukacyjnych dotyczących żywienia niemowląt oraz warunki przekazywania takich materiałów przez producentów i dystrybutorów środków spożywczych specjalnego przeznaczenia żywieniowego i przedmiotów służących do karmienia niemowląt – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej.
@@ -349,7 +410,9 @@ Art. 105–118. (pominięte)
 
 **Art. 27.**
 
-1. Suplementy diety mogą zawierać w swoim składzie witaminy i składniki mineralne, które naturalnie występują w żywności i spożywane są jako jej część, oraz inne substancje wykazujące efekt odżywczy lub inny efekt fizjologiczny. mineralnych oraz innych substancji, o których mowa w ust. 1, w suplementach diety zapewnia, że zwykłe stosowanie suplementu diety zgodnie z informacją zamieszczoną w oznakowaniu będzie bezpieczne dla zdrowia i życia człowieka.
+1. Suplementy diety mogą zawierać w swoim składzie witaminy i składniki mineralne, które naturalnie występują w żywności i spożywane są jako jej część, oraz inne substancje wykazujące efekt odżywczy lub inny efekt fizjologiczny.
+
+2. Maksymalny dopuszczalny poziom zawartości witamin i składników mineralnych oraz innych substancji, o których mowa w ust. 1, w suplementach diety zapewnia, że zwykłe stosowanie suplementu diety zgodnie z informacją zamieszczoną w oznakowaniu będzie bezpieczne dla zdrowia i życia człowieka.
 
 3. Suplementy diety przeznaczone bezpośrednio dla konsumenta finalnego są wprowadzane do obrotu w opakowaniu.
 
@@ -371,8 +434,9 @@ Art. 105–118. (pominięte)
 
 1. Do środków spożywczych mogą być dodawane witaminy, składniki mineralne lub inne substancje wykazujące efekt odżywczy lub inny fizjologiczny, z uwzględnieniem wymagań określonych w rozporządzeniu (WE) nr 1925/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie dodawania do żywności witamin i składników mineralnych oraz niektórych innych substancji (Dz. Urz. UE L 404 z 30.12.2006, str. 26, z późn. zm.), zwanym dalej „rozporządzeniem nr 1925/2006”.
 
-2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia: mineralne,
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** środki spożywcze, do których są obligatoryjnie dodawane witaminy i składniki mineralne,
 - **2)** poziomy lub maksymalne poziomy witamin i składników mineralnych – mając na względzie potwierdzone dane naukowe, w tym dotyczące zmiennego zapotrzebowania różnych grup konsumentów, wymagania określone w art. 12 rozporządzenia nr 1925/2006 oraz potrzebę zapewnienia bezpieczeństwa żywności.
 
 3. Minister właściwy do spraw zdrowia może określić w rozporządzeniu, o którym mowa w ust. 2, zakazy lub ograniczenia w stosowaniu niektórych substancji innych niż witaminy i składniki mineralne w produkcji określonych środków spożywczych.
@@ -394,7 +458,8 @@ Art. 105–118. (pominięte)
 - **3)** wzór oznakowania w języku polskim;
 - **4)** kwalifikację/rodzaj środka spożywczego przyjętą przez podmiot działający na rynku spożywczym;
 - **5)** skład jakościowy obejmujący dane dotyczące składników zawartych w produkcie, w tym substancji czynnych;
-- **6)** skład ilościowy składników; podmiotu powiadamiającego o pierwszym wprowadzeniu do obrotu.
+- **6)** skład ilościowy składników;
+- **7)** imię i nazwisko albo nazwę, adres oraz numer identyfikacji podatkowej (NIP) podmiotu powiadamiającego o pierwszym wprowadzeniu do obrotu.
 
 3. Jeżeli środek spożywczy, o którym mowa w ust. 1, znajduje się w obrocie w innym państwie członkowskim Unii Europejskiej, w powiadomieniu należy ponadto wskazać właściwy organ tego państwa, który został powiadomiony o wprowadzeniu środka spożywczego do obrotu lub zezwolił na wprowadzenie środka spożywczego do obrotu w tym państwie, załączając równocześnie kopię uprzedniego powiadomienia lub zezwolenia.
 
@@ -410,7 +475,7 @@ Art. 105–118. (pominięte)
 
 2. Podstawą wprowadzenia do obrotu środków, o których mowa w ust. 1, jest zapotrzebowanie wystawione przez lekarza w podmiocie wykonującym działalność leczniczą na środek spożywczy specjalnego przeznaczenia żywieniowego stosowany w podmiocie wykonującym działalność leczniczą lub stosowany poza podmiotem wykonującym działalność leczniczą, którego zasadność wystawienia została potwierdzona przez konsultanta z danej dziedziny medycyny.
 
-2a. Zapotrzebowanie, o którym mowa w ust. 2, składa się do ministra właściwego do spraw zdrowia za pośrednictwem Systemu Obsługi Importu Docelowego, o którym mowa w art. 31c ustawy z dnia 28 kwietnia 2011 r. o systemie r. poz. 650), zwanego dalej „SOID”.
+2a. Zapotrzebowanie, o którym mowa w ust. 2, składa się do ministra właściwego do spraw zdrowia za pośrednictwem Systemu Obsługi Importu Docelowego, o którym mowa w art. 31c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650), zwanego dalej „SOID”.
 
 2b. Założenie konta w SOID następuje na zasadach przewidzianych w art. 4ab ust. 1, 3, 5 i 6 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650).
 
@@ -426,7 +491,8 @@ Art. 105–118. (pominięte)
     - **b)** numer identyfikacji podatkowej (NIP),
     - **c)** numer wpisu do rejestru podmiotów wykonujących działalność leczniczą,
     - **d)** resortowy kod identyfikacyjny jednostki organizacyjnej lub komórki organizacyjnej, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm. ), jeżeli dotyczy,
-    - **e)** dane adresowe, o rozpatrzeniu zapotrzebowania;
+    - **e)** dane adresowe,
+    - **f)** adres poczty elektronicznej, na który zostanie wysłana informacja o rozpatrzeniu zapotrzebowania;
 
 - **2)** dane lekarza wystawiającego zapotrzebowanie:
     - **a)** imię i nazwisko,
@@ -452,12 +518,14 @@ Art. 105–118. (pominięte)
     - **g)** nazwę producenta,
     - **h)** rozpoznanie według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
 
-- **6)** dane konsultanta z danej dziedziny medycyny potwierdzającego zasadność wystawienia zapotrzebowania: żywieniowego stosowany poza podmiotem wykonującym działalność leczniczą zawiera:
+- **6)** dane konsultanta z danej dziedziny medycyny potwierdzającego zasadność wystawienia zapotrzebowania:
     - **a)** imię i nazwisko,
     - **b)** numer prawa wykonywania zawodu,
     - **c)** kwalifikacje zawodowe, w tym posiadane tytuły: zawodowy i naukowy,
     - **d)** oznaczenie typu konsultanta (wojewódzki albo krajowy),
     - **e)** oznaczenie dziedziny medycyny.
+
+2e. Zapotrzebowanie na środek spożywczy specjalnego przeznaczenia żywieniowego stosowany poza podmiotem wykonującym działalność leczniczą zawiera:
 
 - **1)** dane podmiotu wykonującego działalność leczniczą składającego zapotrzebowanie:
     - **a)** nazwę (firmę) łącznie z nazwą jednostki organizacyjnej lub nazwą komórki organizacyjnej – jeżeli dotyczy,
@@ -484,7 +552,8 @@ Art. 105–118. (pominięte)
     - **d)** ilość i jednostkę ilości,
     - **e)** czas trwania kuracji – w dniach,
     - **f)** uzasadnienie zapotrzebowania,
-    - **g)** nazwę producenta, i Problemów Zdrowotnych;
+    - **g)** nazwę producenta,
+    - **h)** rozpoznanie według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
 
 - **5)** dane konsultanta z danej dziedziny medycyny potwierdzającego zasadność wystawienia zapotrzebowania:
     - **a)** imię i nazwisko,
@@ -505,10 +574,12 @@ Art. 105–118. (pominięte)
 
 **Art. 30.**
 
-1. Po otrzymaniu powiadomienia, o którym mowa w art. 29 ust. 1, Główny Inspektor Sanitarny może przeprowadzić postępowanie mające na celu wyjaśnienie, czy produkt objęty powiadomieniem, ze względu na jego skład, właściwości poszczególnych składników oraz przeznaczenie: na rynku spożywczym kwalifikacją oraz czy spełnia wymagania dla danego rodzaju środka spożywczego, w szczególności, czy jako:
+1. Po otrzymaniu powiadomienia, o którym mowa w art. 29 ust. 1, Główny Inspektor Sanitarny może przeprowadzić postępowanie mające na celu wyjaśnienie, czy produkt objęty powiadomieniem, ze względu na jego skład, właściwości poszczególnych składników oraz przeznaczenie:
 
-- **a)** środek spożywczy specjalnego przeznaczenia żywieniowego wyraźnie różni się od żywności przeznaczonej do powszechnego spożycia oraz czy odpowiada szczególnym potrzebom żywieniowym, zgodnie z jego przeznaczeniem, o którym mowa w art. 3 ust. 3 pkt 43, i spełnia wymagania określone w przepisach wydanych na podstawie art. 26 ust. 1 i 2,
-- **b)** suplement diety lub środek spożywczy, do którego dodano witaminy, składniki mineralne lub inne substancje wykazujące efekt odżywczy lub inny fizjologiczny spełnia warunki określone w przepisach wydanych – odpowiednio – na podstawie art. 27 ust. 6 i 7 oraz w rozporządzeniu 1925/2006;
+- **1)** jest środkiem spożywczym zgodnie z zaproponowaną przez podmiot działający na rynku spożywczym kwalifikacją oraz czy spełnia wymagania dla danego rodzaju środka spożywczego, w szczególności, czy jako:
+    - **a)** środek spożywczy specjalnego przeznaczenia żywieniowego wyraźnie różni się od żywności przeznaczonej do powszechnego spożycia oraz czy odpowiada szczególnym potrzebom żywieniowym, zgodnie z jego przeznaczeniem, o którym mowa w art. 3 ust. 3 pkt 43, i spełnia wymagania określone w przepisach wydanych na podstawie art. 26 ust. 1 i 2,
+    - **b)** suplement diety lub środek spożywczy, do którego dodano witaminy, składniki mineralne lub inne substancje wykazujące efekt odżywczy lub inny fizjologiczny spełnia warunki określone w przepisach wydanych – odpowiednio – na podstawie art. 27 ust. 6 i 7 oraz w rozporządzeniu 1925/2006;
+
 - **2)** nie spełnia wymagań innego rodzaju produktu przeznaczonego do używania przez ludzi, w szczególności produktu leczniczego w rozumieniu przepisów prawa farmaceutycznego, produktu kosmetycznego w rozumieniu przepisów o produktach kosmetycznych lub wyrobu medycznego w rozumieniu przepisów o wyrobach medycznych.
 
 2. Główny Inspektor Sanitarny powiadamia niezwłocznie podmiot, o którym mowa w art. 29 ust. 1, o rozpoczęciu postępowania, o którym mowa w ust. 1.
@@ -519,7 +590,11 @@ Art. 105–118. (pominięte)
 
 5. Główny Inspektor Sanitarny prowadzi rejestr produktów objętych powiadomieniem o pierwszym wprowadzeniu do obrotu na terytorium Rzeczypospolitej Polskiej, o których mowa w art. 29 ust. 1. Rejestr produktów prowadzony jest w formie elektronicznej i zawiera dane określone na podstawie art. 31 ust. 6 pkt 2 wprowadzone do rejestru w sposób, o którym mowa w art. 29 ust. 4.
 
-6. Dane z rejestru, o którym mowa w ust. 5, są publikowane na stronie internetowej Głównego Inspektoratu Sanitarnego, z wyłączeniem danych stanowiących tajemnicę przedsiębiorcy. w art. 30 ust. 1, Główny Inspektor Sanitarny może:
+6. Dane z rejestru, o którym mowa w ust. 5, są publikowane na stronie internetowej Głównego Inspektoratu Sanitarnego, z wyłączeniem danych stanowiących tajemnicę przedsiębiorcy.
+
+**Art. 31.**
+
+1. W przypadku przeprowadzania postępowania, o którym mowa w art. 30 ust. 1, Główny Inspektor Sanitarny może:
 
 - **1)** zażądać opinii Zespołu do Spraw Suplementów Diety działającego w ramach Rady Sanitarno-Epidemiologicznej, o której mowa w art. 9 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2023 r. poz. 338);
 - **2)** zobowiązać podmiot, o którym mowa w art. 29 ust. 1, do udokumentowania, że środek spożywczy spełnia wymagania, o których mowa w art. 30 ust. 1, w szczególności do przedłożenia opinii podmiotu, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742), zwanego dalej „jednostką naukową”.
@@ -537,7 +612,8 @@ Art. 105–118. (pominięte)
 - **1)** wzór formularza powiadomienia, o którym mowa w art. 29 ust. 4,
 - **2)** dane zawarte w rejestrze produktów objętych powiadomieniem umożliwiające ich identyfikację oraz wzór rejestru,
 - **3)** wykaz krajowych jednostek naukowych właściwych do wydawania opinii, o której mowa w ust. 1 pkt 2,
-- **4)** metody obliczania kosztów ponoszonych przez krajową jednostkę naukową w związku z wydaniem opinii, w tym w szczególności rodzaje kosztów i średni wymiar czasu pracy niezbędnego do przygotowania opinii, Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych – mając na względzie zapewnienie sprawnego przebiegu postępowań, o których mowa w art. 30, kompetencje jednostek zgodnie z zakresem zadań określonych statutami oraz kwalifikacje personelu i kalkulację kosztów za przygotowywanie opinii.
+- **4)** metody obliczania kosztów ponoszonych przez krajową jednostkę naukową w związku z wydaniem opinii, w tym w szczególności rodzaje kosztów i średni wymiar czasu pracy niezbędnego do przygotowania opinii,
+- **5)** wysokość opłaty pobieranej przy wydawaniu opinii przez Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych – mając na względzie zapewnienie sprawnego przebiegu postępowań, o których mowa w art. 30, kompetencje jednostek zgodnie z zakresem zadań określonych statutami oraz kwalifikacje personelu i kalkulację kosztów za przygotowywanie opinii.
 
 **Art. 32.**
 
@@ -557,7 +633,7 @@ Art. 105–118. (pominięte)
 
 3. Oznakowanie wód przeznaczonych do spożycia przez ludzi, niebędących naturalnymi wodami mineralnymi, nie może wprowadzać konsumenta w błąd informacjami, które sugerowałyby, że woda ta jest naturalną wodą mineralną, w szczególności nie może zawierać oznaczenia „naturalna woda mineralna”.
 
-4. Dopuszcza się znakowanie naturalnych wód mineralnych informacjami: „pobudzające trawienie”, „może polepszyć funkcje wątrobowo-żółciowe” lub wymagania określone w tym zakresie na podstawie art. 39 pkt 1.
+4. Dopuszcza się znakowanie naturalnych wód mineralnych informacjami: „pobudzające trawienie”, „może polepszyć funkcje wątrobowo-żółciowe” lub oznaczeniami podobnymi, pod warunkiem że wody te spełniają szczególne wymagania określone w tym zakresie na podstawie art. 39 pkt 1.
 
 **Art. 34.**
 
@@ -583,6 +659,9 @@ Art. 105–118. (pominięte)
 - **5)** informacje o właściwościach wody wynikające z przeprowadzonej oceny i kwalifikacji rodzajowej tej wody;
 - **6)** nazwę handlową (wymyśloną), pod którą woda będzie wprowadzana do obrotu;
 - **7)** wzór etykiety z proponowanym oznakowaniem.
+
+3. Do wniosku dołącza się:
+
 - **1)** (uchylony)
 - **2)** ocenę i kwalifikację rodzajową naturalnej wody mineralnej objętej wnioskiem o uznanie, przeprowadzone przez jednostkę naukową lub inny podmiot upoważnione przez Głównego Inspektora Sanitarnego albo przez instytucję naukową lub inny podmiot innego państwa członkowskiego Unii Europejskiej właściwe do przeprowadzania ocen i kwalifikacji rodzajowych naturalnych wód mineralnych w tych państwach;
 - **3)** zaświadczenie właściwego organu państwa trzeciego, o którym mowa w art. 34 ust. 2, jeżeli woda pochodzi z otworu znajdującego się na terytorium tego państwa.
@@ -605,7 +684,11 @@ Art. 105–118. (pominięte)
 - **1)** naturalna woda mineralna lub warunki jej wydobywania, transportu i rozlewu nie odpowiadają wymaganiom określonym w ustawie oraz w uznaniu, o którym mowa w art. 35 ust. 1;
 - **2)** podmiot, o którym mowa w art. 35 ust. 1, nie złożył nowego zaświadczenia przed upływem okresu ważności zaświadczenia, o którym mowa w art. 34 ust. 2.
 
-4. Główny Inspektor Sanitarny przekazuje każdorazowo Komisji Europejskiej informacje o uznaniu i o uchyleniu uznania wody jako naturalnej wody mineralnej. ust. 1–3.
+4. Główny Inspektor Sanitarny przekazuje każdorazowo Komisji Europejskiej informacje o uznaniu i o uchyleniu uznania wody jako naturalnej wody mineralnej.
+
+**Art. 37.**
+
+1. Do wód źródlanych i wód stołowych stosuje się przepisy art. 33 ust. 1–3.
 
 2. Wody źródlane i wody stołowe podlegają ocenie i kwalifikacji rodzajowej.
 
@@ -622,6 +705,11 @@ Art. 105–118. (pominięte)
 3. Główny Inspektor Sanitarny może cofnąć, w drodze decyzji, upoważnienie, jeżeli jednostka naukowa lub inny podmiot, o których mowa w ust. 1, nie będą spełniać kryteriów, o których mowa w ust. 2 pkt 1 i 2.
 
 **Art. 39.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania, jakie powinny spełniać naturalne wody mineralne, wody źródlane i wody stołowe, w tym wymagania mikrobiologiczne, maksymalne dopuszczalne poziomy naturalnych składników mineralnych tych wód, warunki poddawania tych wód procesom usuwania składników lub nasycania dwutlenkiem węgla,
+- **2)** wzorcowy zakres badań, sposób przeprowadzania oceny i kwalifikacji rodzajowej wód, o których mowa w pkt 1,
+- **3)** szczególne wymagania dotyczące oznakowania, prezentacji i reklamy wód, o których mowa w pkt 1,
+- **4)** szczegółowe wymagania higieniczne dotyczące wydobywania, transportu i rozlewu wód, o których mowa w pkt 1 – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności, przestrzeganie warunków określonych w art. 33 oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej.
 
 **Art. 40.** Przepisy art. 33–39 nie mają zastosowania do wód leczniczych wykorzystywanych w zakładach lecznictwa uzdrowiskowego w celach leczniczych określonych w przepisach ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151) oraz tych wód wprowadzanych do obrotu w opakowaniach na zasadach określonych przepisami prawa farmaceutycznego.
 
@@ -642,7 +730,8 @@ Art. 105–118. (pominięte)
 - **1)** są jednego gatunku, z wyjątkiem grzybów, które mogą być użyte do produkcji środków spożywczych;
 - **2)** nie są rozdrobnione, z wyjątkiem podzielonych jeden raz wzdłuż osi ich trzonów, a także nie mogą to być wyłącznie trzony lub trzony oddzielone od kapeluszy w ilości przekraczającej liczbę kapeluszy;
 - **3)** nie wykazują zapleśnienia;
-- **4)** nie występują w nich żywe larwy lub kanaliki po larwach muchówek, a ilość grzybów zaczerwionych pierwotnie nie przekracza 5% masy całkowitej grzybów; ściółki, mchu, igliwia, nie przekracza 0,3% masy całkowitej grzybów;
+- **4)** nie występują w nich żywe larwy lub kanaliki po larwach muchówek, a ilość grzybów zaczerwionych pierwotnie nie przekracza 5% masy całkowitej grzybów;
+- **5)** zawartość substancji zanieczyszczających organicznych, w szczególności ściółki, mchu, igliwia, nie przekracza 0,3% masy całkowitej grzybów;
 - **6)** zawartość substancji zanieczyszczających mineralnych nie przekracza 1% masy całkowitej grzybów.
 
 2. (uchylony)
@@ -676,9 +765,18 @@ Art. 105–118. (pominięte)
 - **3)** ukończyła kurs specjalistyczny dla kandydatów na grzyboznawców;
 - **4)** zdała egzamin przed komisją egzaminacyjną powołaną przez państwowego wojewódzkiego inspektora sanitarnego działającego z upoważnienia Głównego Inspektora Sanitarnego.
 
-3. Organem właściwym w sprawach nadawania uprawnień klasyfikatora grzybów i grzyboznawcy, potwierdzonych świadectwami, oraz pozbawiania tych wydanych na podstawie art. 44.
+3. Organem właściwym w sprawach nadawania uprawnień klasyfikatora grzybów i grzyboznawcy, potwierdzonych świadectwami, oraz pozbawiania tych uprawnień jest państwowy wojewódzki inspektor sanitarny wskazany w przepisach wydanych na podstawie art. 44.
 
 **Art. 44.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+
+- **1)** wykaz grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych oraz środków spożywczych zawierających grzyby,
+- **2)** szczegółowe wymagania dotyczące oznakowania grzybów oraz przetworów grzybowych,
+- **3)** wykaz i rodzaje przetworów grzybowych dopuszczonych do obrotu oraz wymagania, jakie muszą spełniać te przetwory,
+- **4)** warunki skupu, przechowywania i sprzedaży grzybów oraz wymagania technologiczne i warunki przetwarzania grzybów,
+- **5)** wzory atestów na grzyby świeże i grzyby suszone,
+- **6)** warunki i tryb uzyskiwania uprawnień klasyfikatora grzybów i grzyboznawcy, w tym ramowe programy kursów specjalistycznych,
+- **7)** państwowego wojewódzkiego inspektora sanitarnego właściwego do nadawania i pozbawiania uprawnień, o których mowa w pkt 6,
+- **8)** wzory świadectw klasyfikatora grzybów i grzyboznawcy – mając na względzie potrzebę zapewnienia bezpieczeństwa żywności oraz racjonalne gospodarowanie zasobami grzybów rosnących w warunkach naturalnych, w tym ograniczenia wynikające z przepisów o ochronie przyrody.
 
 #### Rozdział 10a Rolniczy handel detaliczny
 
@@ -690,11 +788,13 @@ Art. 105–118. (pominięte)
 - **2)** podlegają urzędowej kontroli w zakresie bezpieczeństwa żywności przeprowadzanej odpowiednio przez organy Państwowej Inspekcji Sanitarnej albo Inspekcji Weterynaryjnej;
 - **3)** są prowadzone zgodnie z przepisami prawa żywnościowego, w szczególności rozporządzenia nr 178/2002 i rozporządzenia nr 852/2004 oraz przepisami Unii Europejskiej wydanymi w trybie tych rozporządzeń.
 
-2. Zbywanie żywności w ramach rolniczego handlu detalicznego: finalnego:
+2. Zbywanie żywności w ramach rolniczego handlu detalicznego:
 
-- **a)** odbywa się wyłącznie na terytorium Rzeczypospolitej Polskiej, z tym że w przypadku żywności będącej produktem pochodzenia zwierzęcego oraz żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego – wyłącznie na obszarze województwa, w którym ma miejsce prowadzenie produkcji tej żywności w ramach rolniczego handlu detalicznego, lub na obszarach powiatów lub miast stanowiących siedzibę wojewody lub sejmiku województwa, sąsiadujących z tym województwem,
-- **b)** podlega limitom ilościowym dostosowanym do potrzeb konsumentów finalnych,
-- **c)** jest dokumentowane w sposób umożliwiający określenie ilości żywności zbywanej w ramach rolniczego handlu detalicznego;
+- **1)** do zakładów prowadzących handel detaliczny z przeznaczeniem dla konsumenta finalnego:
+    - **a)** odbywa się wyłącznie na terytorium Rzeczypospolitej Polskiej, z tym że w przypadku żywności będącej produktem pochodzenia zwierzęcego oraz żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego – wyłącznie na obszarze województwa, w którym ma miejsce prowadzenie produkcji tej żywności w ramach rolniczego handlu detalicznego, lub na obszarach powiatów lub miast stanowiących siedzibę wojewody lub sejmiku województwa, sąsiadujących z tym województwem,
+    - **b)** podlega limitom ilościowym dostosowanym do potrzeb konsumentów finalnych,
+    - **c)** jest dokumentowane w sposób umożliwiający określenie ilości żywności zbywanej w ramach rolniczego handlu detalicznego;
+
 - **2)** nie może być dokonywane z udziałem pośrednika, chyba że zbywanie tej żywności odbywa się podczas wystaw, festynów, targów lub kiermaszy, organizowanych w celu promocji żywności, a pośrednik zbywa konsumentom finalnym żywność:
     - **a)** wyprodukowaną przez tego pośrednika w ramach rolniczego handlu detalicznego,
     - **b)** wyprodukowaną przez inny podmiot prowadzący rolniczy handel detaliczny na obszarze powiatu, w którym pośrednik ten prowadzi produkcję żywności w ramach rolniczego handlu detalicznego, lub na obszarze powiatu sąsiadującego z tym powiatem.
@@ -702,10 +802,12 @@ Art. 105–118. (pominięte)
 3. W miejscu zbywania żywności konsumentowi finalnemu przez podmiot prowadzący rolniczy handel detaliczny, w tym przez pośrednika, o którym mowa w ust. 2 pkt 2, umieszcza się w sposób czytelny i widoczny dla konsumenta:
 
 - **1)** napis „rolniczy handel detaliczny”;
-- **2)** dane obejmujące: właściwym do spraw zdrowia określi, w drodze rozporządzenia, maksymalną ilość żywności zbywanej w ramach rolniczego handlu detalicznego do zakładów prowadzących handel detaliczny z przeznaczeniem dla konsumenta finalnego oraz zakres i sposób dokumentowania tej ilości, mając na względzie potrzeby konsumentów finalnych, rodzaj zbywanej żywności oraz ochronę zdrowia publicznego, w tym zapewnienie bezpieczeństwa tej żywności.
+- **2)** dane obejmujące:
     - **a)** imię i nazwisko albo nazwę i siedzibę podmiotu prowadzącego rolniczy handel detaliczny,
     - **b)** adres miejsca prowadzenia produkcji tej żywności,
     - **c)** weterynaryjny numer identyfikacyjny podmiotu prowadzącego rolniczy handel detaliczny, o ile taki numer został nadany.
+
+4. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, maksymalną ilość żywności zbywanej w ramach rolniczego handlu detalicznego do zakładów prowadzących handel detaliczny z przeznaczeniem dla konsumenta finalnego oraz zakres i sposób dokumentowania tej ilości, mając na względzie potrzeby konsumentów finalnych, rodzaj zbywanej żywności oraz ochronę zdrowia publicznego, w tym zapewnienie bezpieczeństwa tej żywności.
 
 5. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw zdrowia może określić, w drodze rozporządzenia, szczegółowy sposób oznakowania miejsca zbywania żywności konsumentowi finalnemu przez podmiot prowadzący rolniczy handel detaliczny, w tym przez pośrednika, mając na względzie zapewnienie informacji o żywności zbywanej w ramach rolniczego handlu detalicznego i podmiotach prowadzących ten handel oraz ochronę zdrowia publicznego.
 
@@ -729,7 +831,9 @@ Art. 105–118. (pominięte)
 
 1. (uchylony)
 
-2. Środki spożywcze wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej muszą być oznakowane w języku polskim. Środki spożywcze mogą być ponadto oznakowane w innych językach. przeznaczonych do wywozu poza terytorium Rzeczypospolitej Polskiej.
+2. Środki spożywcze wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej muszą być oznakowane w języku polskim. Środki spożywcze mogą być ponadto oznakowane w innych językach.
+
+3. Wymóg znakowania w języku polskim nie dotyczy środków spożywczych przeznaczonych do wywozu poza terytorium Rzeczypospolitej Polskiej.
 
 **Art. 49.** (uchylony)
 
@@ -745,7 +849,9 @@ Art. 105–118. (pominięte)
 
 **Art. 51.** (uchylony)
 
-**Art. 52.** Środki spożywcze oznakowane datą minimalnej trwałości lub terminem przydatności do spożycia mogą znajdować się w obrocie do tej daty lub terminu. Oświadczenia żywieniowe i zdrowotne
+**Art. 52.** Środki spożywcze oznakowane datą minimalnej trwałości lub terminem przydatności do spożycia mogą znajdować się w obrocie do tej daty lub terminu.
+
+#### Rozdział 12 Oświadczenia żywieniowe i zdrowotne
 
 **Art. 52a.** Środki spożywcze mogą być znakowane oświadczeniami żywieniowymi i zdrowotnymi pod warunkiem spełniania wymagań określonych w rozporządzeniu nr 1924/2006.
 
@@ -764,7 +870,9 @@ Art. 105–118. (pominięte)
 1. W jednostkach systemu oświaty:
 
 - **1)** sprzedawane mogą być wyłącznie środki spożywcze objęte grupami środków spożywczych przeznaczonych do sprzedaży dzieciom i młodzieży w tych jednostkach określonymi w przepisach wydanych na podstawie ust. 6 pkt 1;
-- **2)** w ramach żywienia zbiorowego dzieciom i młodzieży stosowane mogą być wyłącznie środki spożywcze, które spełniają wymagania określone w przepisach wydanych na podstawie ust. 6 pkt 2. polegającej na prowadzeniu działalności zachęcającej do nabywania środków spożywczych innych niż objęte grupami środków spożywczych przeznaczonych do sprzedaży dzieciom i młodzieży w tych jednostkach określonymi w przepisach wydanych na podstawie ust. 6 pkt 1 oraz niespełniających wymagań określonych w przepisach wydanych na podstawie ust. 6 pkt 2.
+- **2)** w ramach żywienia zbiorowego dzieciom i młodzieży stosowane mogą być wyłącznie środki spożywcze, które spełniają wymagania określone w przepisach wydanych na podstawie ust. 6 pkt 2.
+
+2. W jednostkach systemu oświaty zabrania się reklamy oraz promocji polegającej na prowadzeniu działalności zachęcającej do nabywania środków spożywczych innych niż objęte grupami środków spożywczych przeznaczonych do sprzedaży dzieciom i młodzieży w tych jednostkach określonymi w przepisach wydanych na podstawie ust. 6 pkt 1 oraz niespełniających wymagań określonych w przepisach wydanych na podstawie ust. 6 pkt 2.
 
 3. Dyrektor przedszkola, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – także osoba kierująca daną inną formą wychowania przedszkolnego albo dyrektor szkoły lub dyrektor jednostki systemu oświaty może ustalić, w porozumieniu z radą rodziców, szczegółową listę produktów dopuszczonych do sprzedaży lub stosowania w ramach żywienia zbiorowego w oparciu o przepisy wydane na podstawie ust. 6.
 
@@ -775,7 +883,9 @@ Art. 105–118. (pominięte)
 6. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** grupy środków spożywczych przeznaczonych do sprzedaży dzieciom i młodzieży w jednostkach systemu oświaty,
-- **2)** wymagania, jakie muszą spełniać środki spożywcze stosowane w ramach żywienia zbiorowego dzieci i młodzieży w jednostkach systemu oświaty – uwzględniając normy żywienia dzieci i młodzieży oraz mając na względzie wartości odżywcze i zdrowotne środków spożywczych. Materiały i wyroby przeznaczone do kontaktu z żywnością
+- **2)** wymagania, jakie muszą spełniać środki spożywcze stosowane w ramach żywienia zbiorowego dzieci i młodzieży w jednostkach systemu oświaty – uwzględniając normy żywienia dzieci i młodzieży oraz mając na względzie wartości odżywcze i zdrowotne środków spożywczych.
+
+### DZIAŁ III Materiały i wyroby przeznaczone do kontaktu z żywnością
 
 **Art. 53.**
 
@@ -785,9 +895,15 @@ Art. 105–118. (pominięte)
 
 **Art. 54.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia:
 
+- **1)** wykaz substancji, których stosowanie jest dozwolone w procesie wytwarzania lub przetwarzania materiałów i wyrobów z tworzyw sztucznych, z uwzględnieniem dopuszczalnych limitów migracji lub zawartości tych substancji oraz innych ograniczeń i specyfikacji dla substancji lub materiałów i wyrobów, a także sposób sprawdzania zgodności tych materiałów i wyrobów z ustalonymi limitami,
+- **2)** wykaz substancji, których stosowanie jest dozwolone w procesie wytwarzania lub przetwarzania materiałów i wyrobów z innych tworzyw niż określone w pkt 1, z uwzględnieniem dopuszczalnych limitów migracji lub zawartości tych substancji oraz innych ograniczeń i specyfikacji dla substancji lub materiałów i wyrobów, a także sposób sprawdzania zgodności tych materiałów i wyrobów z ustalonymi limitami – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowia lub życia człowieka, ochronę środowiska oraz jednolite wymagania obowiązujące w tym zakresie w Unii Europejskiej.
+
 **Art. 55.** Materiały i wyroby przeznaczone do kontaktu z żywnością wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej są znakowane w języku polskim. Materiały i wyroby mogą być ponadto znakowane w innych językach.
 
 **Art. 56.** Główny Inspektor Sanitarny jest organem właściwym, w rozumieniu art. 13 rozporządzenia nr 1935/2004, do:
+
+- **1)** przyjmowania wniosków podmiotów, o których mowa w art. 53, o udzielenie zezwolenia na stosowanie substancji nieobjętych wykazami, o których mowa w art. 54, oraz na procesy recyklingu materiałów i wyrobów z tworzyw sztucznych zgodnie z przepisami rozporządzenia nr 282/2008;
+- **2)** przekazywania tych wniosków do Europejskiego Urzędu ds. Bezpieczeństwa Żywności.
 
 **Art. 57.** Główny Inspektor Sanitarny prowadzi rejestr wniosków, o których mowa w art. 56.
 
@@ -807,7 +923,7 @@ Art. 105–118. (pominięte)
 
 2. Osoba pracująca w styczności z żywnością powinna uzyskać określone przepisami o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi orzeczenie lekarskie dla celów sanitarno-epidemiologicznych o braku przeciwwskazań do wykonywania prac, przy wykonywaniu których istnieje możliwość przeniesienia zakażenia na inne osoby.
 
-3. Spełnienie wymagań określonych w rozdziale XII załącznika II do rozporządzenia nr 852/2004 jest potwierdzane dokumentacją o przeprowadzonych lub w obrocie żywnością oraz osobom odpowiedzialnym za wdrożenie i stosowanie zasad systemu HACCP w zakładzie.
+3. Spełnienie wymagań określonych w rozdziale XII załącznika II do rozporządzenia nr 852/2004 jest potwierdzane dokumentacją o przeprowadzonych szkoleniach lub udzielonym instruktażu osobom wykonującym prace przy produkcji lub w obrocie żywnością oraz osobom odpowiedzialnym za wdrożenie i stosowanie zasad systemu HACCP w zakładzie.
 
 4. Podmiot działający na rynku spożywczym jest obowiązany przechowywać w aktach osobowych orzeczenia lekarskie i dokumentację, o których mowa w ust. 2 i 3, oraz udostępniać je na żądanie organów urzędowej kontroli żywności.
 
@@ -820,6 +936,11 @@ Art. 105–118. (pominięte)
 #### Rozdział 2 Rejestracja i zatwierdzanie zakładów
 
 **Art. 61.** Państwowy powiatowy inspektor sanitarny lub państwowy graniczny inspektor sanitarny są organami właściwymi w sprawach rejestracji oraz zatwierdzania, warunkowego zatwierdzania, przedłużania warunkowego zatwierdzenia, zawieszania oraz cofania zatwierdzenia zakładów, które:
+
+- **1)** produkują lub wprowadzają do obrotu żywność pochodzenia niezwierzęcego,
+- **2)** wprowadzają do obrotu produkty pochodzenia zwierzęcego, nieobjętych urzędową kontrolą organów Inspekcji Weterynaryjnej,
+- **3)** produkują lub wprowadzają do obrotu żywność zawierającą jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego, o której mowa w art. 1 ust. 2 rozporządzenia nr 853/2004, z wyłączeniem zakładów prowadzących rolniczy handel detaliczny, z zastrzeżeniem art. 73 ust. 6,
+- **4)** działają na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością, w tym zakładów prowadzonych przez podmioty zajmujące się recyklingiem – w trybie i na zasadach określonych w rozporządzeniu nr 852/2004 i rozporządzeniu nr 882/2004.
 
 **Art. 62.**
 
@@ -839,7 +960,9 @@ Art. 105–118. (pominięte)
 
 **Art. 63.**
 
-1. Zakłady, o których mowa w art. 61, mogą rozpocząć działalność po zatwierdzeniu lub warunkowym zatwierdzeniu, a w przypadkach określonych w ust. 2, po uzyskaniu wpisu do rejestru zakładów. działającego na rynku spożywczym prowadzącego zakład.
+1. Zakłady, o których mowa w art. 61, mogą rozpocząć działalność po zatwierdzeniu lub warunkowym zatwierdzeniu, a w przypadkach określonych w ust. 2, po uzyskaniu wpisu do rejestru zakładów.
+
+1a. Zatwierdzanie jest dokonywane na podstawie wniosku podmiotu działającego na rynku spożywczym prowadzącego zakład.
 
 2. Zatwierdzenie nie jest wymagane w odniesieniu do:
 
@@ -857,7 +980,7 @@ Art. 105–118. (pominięte)
 - **11)** zakładów działających na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością, w tym zakładów prowadzonych przez podmioty zajmujące się recyklingiem;
 - **12)** podmiotów działających na rynku spożywczym prowadzących produkcję pierwotną;
 - **13)** podmiotów prowadzących rolniczy handel detaliczny żywnością pochodzenia niezwierzęcego;
-- **14)** podmiotów działających na rynku spożywczym przygotowujących żywność w pomieszczeniach używanych głównie jako prywatne domy mieszkalne, ale gdzie mowa w rozdziale III załącznika II do rozporządzenia nr 852/2004.
+- **14)** podmiotów działających na rynku spożywczym przygotowujących żywność w pomieszczeniach używanych głównie jako prywatne domy mieszkalne, ale gdzie regularnie przygotowuje się żywność w celu wprowadzenia do obrotu, o których mowa w rozdziale III załącznika II do rozporządzenia nr 852/2004.
 
 3. W przypadkach, o których mowa w ust. 2, podmiot działający na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością jest obowiązany złożyć wniosek o wpis do rejestru zakładów.
 
@@ -875,7 +998,7 @@ Art. 105–118. (pominięte)
 
 - **1)** imię, nazwisko i numer PESEL, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy, numer identyfikacyjny REGON, jeżeli taki numer posiada, oraz numer identyfikacji podatkowej (NIP);
 - **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada;
-- **1b)** numer identyfikacyjny w ewidencji gospodarstw rolnych, w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności – w odniesieniu do w zakresie dostaw bezpośrednich;
+- **1b)** numer identyfikacyjny w ewidencji gospodarstw rolnych, w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności – w odniesieniu do podmiotów działających na rynku spożywczym prowadzących działalność w zakresie dostaw bezpośrednich;
 - **2)** określenie rodzaju i zakresu działalności, która ma być prowadzona w zakładzie, w tym rodzaju żywności, która ma być przedmiotem produkcji lub obrotu;
 - **3)** określenie lokalizacji zakładu lub miejsca prowadzenia działalności gospodarczej.
 
@@ -900,6 +1023,7 @@ Art. 105–118. (pominięte)
 - **1)** wniosku podmiotu działającego na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością;
 - **2)** decyzji właściwego państwowego powiatowego inspektora sanitarnego, o której mowa w art. 66 ust. 1 pkt 1;
 - **3)** decyzji właściwego państwowego powiatowego inspektora sanitarnego lub państwowego granicznego inspektora sanitarnego, jeżeli zakład zaprzestał działalności w zakresie produkcji lub obrotu żywnością lub materiałami i wyrobami przeznaczonymi do kontaktu z żywnością, a podmiot działający na rynku spożywczym lub na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością nie złożył wniosku, o którym mowa w pkt 1;
+- **4)** braku aktualizacji, o której mowa w ust. 2.
 
 **Art. 66.**
 
@@ -933,7 +1057,9 @@ Art. 105–118. (pominięte)
 - **3)** wniosku o zatwierdzenie zakładu i o wpis do rejestru zakładów,
 - **4)** wniosku o dokonanie zmian w rejestrze zakładów,
 - **5)** wniosku o wykreślenie z rejestru zakładów,
-- **6)** zaświadczenia o wpisie do rejestru zakładów – mając na względzie jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej. o którym mowa w ust. 3, sposób prowadzenia rejestru zakładów w systemie informatycznym, z wyłączeniem danych objętych tajemnicą przedsiębiorcy, mając na względzie powszechny dostęp do danych zawartych w rejestrach oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej, jeżeli zostaną ustalone.
+- **6)** zaświadczenia o wpisie do rejestru zakładów – mając na względzie jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej.
+
+4. Minister właściwy do spraw zdrowia może określić, w rozporządzeniu, o którym mowa w ust. 3, sposób prowadzenia rejestru zakładów w systemie informatycznym, z wyłączeniem danych objętych tajemnicą przedsiębiorcy, mając na względzie powszechny dostęp do danych zawartych w rejestrach oraz jednolite wymagania w tym zakresie obowiązujące w Unii Europejskiej, jeżeli zostaną ustalone.
 
 #### Rozdział 3 Wymagania szczególne w zakresie higieny
 
@@ -956,7 +1082,7 @@ Art. 105–118. (pominięte)
 
 2. Wydając rozporządzenie, o którym mowa w ust. 1, należy uwzględnić tryb i warunki określone w art. 13 ust. 5–7 rozporządzenia nr 852/2004.
 
-3. Minister właściwy do spraw zdrowia oraz minister właściwy do spraw rolnictwa, każdy w zakresie swojego działania, działając w porozumieniu, mogą określonych w rozdziale II pkt 1 i rozdziale V pkt 1 załącznika II do rozporządzenia nr 852/2004 w zakładach produkujących żywność tradycyjną w zakresie określonym w art. 7 ust. 2 rozporządzenia Komisji (WE) nr 2074/2005 z dnia 5 grudnia 2005 r. ustanawiającego środki wykonawcze w odniesieniu do niektórych produktów objętych rozporządzeniem (WE) nr 853/2004 i do organizacji urzędowych kontroli na mocy rozporządzeń (WE) nr 854/2004 oraz (WE) nr 882/2004, ustanawiającego odstępstwa od rozporządzenia (WE) nr 852/2004 i zmieniającego rozporządzenie (WE) nr 853/2004 oraz (WE) nr 854/2004 (Dz. Urz. WE L 338 z 22.12.2005, str. 27), zwanego dalej „rozporządzeniem nr 2074/2005”, mając na względzie umożliwienie zakładom stosowania tradycyjnych metod produkcji oraz zapewnienie bezpieczeństwa żywności.
+3. Minister właściwy do spraw zdrowia oraz minister właściwy do spraw rolnictwa, każdy w zakresie swojego działania, działając w porozumieniu, mogą określić, w drodze rozporządzenia, ogólne odstępstwa od wymagań higienicznych określonych w rozdziale II pkt 1 i rozdziale V pkt 1 załącznika II do rozporządzenia nr 852/2004 w zakładach produkujących żywność tradycyjną w zakresie określonym w art. 7 ust. 2 rozporządzenia Komisji (WE) nr 2074/2005 z dnia 5 grudnia 2005 r. ustanawiającego środki wykonawcze w odniesieniu do niektórych produktów objętych rozporządzeniem (WE) nr 853/2004 i do organizacji urzędowych kontroli na mocy rozporządzeń (WE) nr 854/2004 oraz (WE) nr 882/2004, ustanawiającego odstępstwa od rozporządzenia (WE) nr 852/2004 i zmieniającego rozporządzenie (WE) nr 853/2004 oraz (WE) nr 854/2004 (Dz. Urz. WE L 338 z 22.12.2005, str. 27), zwanego dalej „rozporządzeniem nr 2074/2005”, mając na względzie umożliwienie zakładom stosowania tradycyjnych metod produkcji oraz zapewnienie bezpieczeństwa żywności.
 
 4. Właściwy państwowy powiatowy inspektor sanitarny oraz właściwy powiatowy lekarz weterynarii, zgodnie z kompetencjami określonymi w art. 73, są organami właściwymi do wydawania decyzji przyznających indywidualne odstępstwa od wymagań higienicznych określonych w rozdziale II pkt 1 i rozdziale V pkt 1 załącznika II do rozporządzenia nr 852/2004 zakładom produkującym żywność tradycyjną, jeżeli są spełniane przez zakład wymagania określone na podstawie ust. 3.
 
@@ -966,7 +1092,9 @@ Art. 105–118. (pominięte)
 
 7. Główny Inspektor Sanitarny oraz Główny Lekarz Weterynarii, każdy w zakresie swoich kompetencji, powiadamiają Komisję Europejską oraz pozostałe państwa członkowskie Unii Europejskiej o przyznanych odstępstwach określonych na podstawie ust. 4, na zasadach określonych w art. 7 ust. 3 rozporządzenia nr 2074/2005.
 
-**Art. 70.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczególne wymagania higieniczne w zakresie transportu morskiego cukru surowego luzem, mając na względzie zapewnienie bezpieczeństwa żywności. przechowywania lub sprzedaży grzybów oraz produkcji przetworów grzybowych spełniają obowiązujące wymagania higieniczne oraz muszą zatrudniać klasyfikatorów grzybów lub grzyboznawców.
+**Art. 70.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczególne wymagania higieniczne w zakresie transportu morskiego cukru surowego luzem, mając na względzie zapewnienie bezpieczeństwa żywności.
+
+**Art. 71.** Zakłady prowadzące działalność gospodarczą w zakresie skupu, przechowywania lub sprzedaży grzybów oraz produkcji przetworów grzybowych spełniają obowiązujące wymagania higieniczne oraz muszą zatrudniać klasyfikatorów grzybów lub grzyboznawców.
 
 **Art. 72.**
 
@@ -990,7 +1118,8 @@ Art. 105–118. (pominięte)
 
 1. Organami urzędowej kontroli żywności, o których mowa w art. 4 rozporządzenia nr 882/2004, w zakresie bezpieczeństwa żywności, są:
 
-- **1)** organy Państwowej Inspekcji Sanitarnej, zgodnie z właściwością określoną przepisami ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, w odniesieniu do: obrotu, przywożonej z państw trzecich oraz wywożonej i powrotnie wywożonej do tych państw, 1 ust. 2 rozporządzenia nr 853/2004, produkowanej i wprowadzanej do obrotu lub wywożonej do państw trzecich, przywożonej z tych państw w zakresie nieobjętym decyzją Komisji 2007/275/WE z dnia 17 kwietnia 2007 r. dotyczącą wykazu zwierząt i produktów mających podlegać kontroli w punktach kontroli granicznej na mocy dyrektyw Rady 91/496/EWG i 97/78/WE (Dz. Urz. UE L 116 z 04.05.2007, str. 9, z późn. zm.) oraz powrotnie wywożonej do tych państw, z wyłączeniem żywności znajdującej się w rolniczym handlu detalicznym,
+- **1)** organy Państwowej Inspekcji Sanitarnej, zgodnie z właściwością określoną przepisami ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, w odniesieniu do: 1 ust. 2 rozporządzenia nr 853/2004, produkowanej i wprowadzanej do obrotu lub wywożonej do państw trzecich, przywożonej z tych państw w zakresie nieobjętym decyzją Komisji 2007/275/WE z dnia 17 kwietnia 2007 r. dotyczącą wykazu zwierząt i produktów mających podlegać kontroli w punktach kontroli granicznej na mocy dyrektyw Rady 91/496/EWG i 97/78/WE (Dz. Urz. UE L 116 z 04.05.2007, str. 9, z późn. zm.) oraz powrotnie wywożonej do tych państw, z wyłączeniem żywności znajdującej się w rolniczym handlu detalicznym,
+    - **a)** żywności pochodzenia niezwierzęcego produkowanej i wprowadzanej do obrotu, przywożonej z państw trzecich oraz wywożonej i powrotnie wywożonej do tych państw,
     - **b)** produktów pochodzenia zwierzęcego znajdujących się w handlu detalicznym w rozumieniu art. 3 pkt 7 rozporządzenia nr 178/2002, z wyłączeniem produktów pochodzenia zwierzęcego znajdujących się w rolniczym handlu detalicznym,
     - **c)** żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego, o której mowa w art.
     - **d)** prawidłowości stosowania zasad systemu HACCP w zakładach objętych nadzorem Państwowej Inspekcji Sanitarnej;
@@ -1002,7 +1131,7 @@ Art. 105–118. (pominięte)
 
 2. W sprawach przeprowadzania urzędowych kontroli żywności w odniesieniu do żywności produkowanej lub wprowadzonej do obrotu z obiektów lub urządzeń ruchomych lub tymczasowych właściwość organów jest określana każdorazowo według siedziby zakładu lub miejsca prowadzenia tej działalności.
 
-3. Organy Państwowej Inspekcji Sanitarnej oraz organy, o których mowa w ust. 1 pkt 5, są właściwe w sprawach przeprowadzania urzędowych kontroli lonym w rozporządzeniu nr 1935/2004 oraz w rozporządzeniu nr 282/2008.
+3. Organy Państwowej Inspekcji Sanitarnej oraz organy, o których mowa w ust. 1 pkt 5, są właściwe w sprawach przeprowadzania urzędowych kontroli materiałów i wyrobów przeznaczonych do kontaktu z żywnością w zakresie określonym w rozporządzeniu nr 1935/2004 oraz w rozporządzeniu nr 282/2008.
 
 4. Urzędowe kontrole, o których mowa w ust. 1, obejmują:
 
@@ -1013,7 +1142,21 @@ Art. 105–118. (pominięte)
 
 6. Jeżeli środki spożywcze pochodzenia zwierzęcego są produkowane lub przechowywane w zakładzie produkującym lub przechowującym inne środki spożywcze lub właściwe władze państwa przeznaczenia wywożonej żywności zawierającej jednocześnie produkty pochodzenia roślinnego i zwierzęcego, o której mowa w art. 1 ust. 2 rozporządzenia nr 853/2004, wymagają świadectwa zdrowia wystawionego przez urzędowego lekarza weterynarii, szczegółowe warunki i sposób współdziałania w zakresie sprawowania nadzoru oraz przeprowadzania urzędowych kontroli żywności, określa porozumienie zawarte między Głównym Inspektorem Sanitarnym a Głównym Lekarzem Weterynarii.
 
-**Art. 74.** (uchylony) kontrolom organów Państwowej Inspekcji Sanitarnej są obowiązane do pokrywania opłat uwzględniających koszty związane z czynnościami wykonywanymi w ramach urzędowych kontroli żywności:
+**Art. 74.** (uchylony)
+
+**Art. 75.**
+
+1. Podmioty działające na rynku spożywczym podlegające urzędowym kontrolom organów Państwowej Inspekcji Sanitarnej są obowiązane do pokrywania opłat uwzględniających koszty związane z czynnościami wykonywanymi w ramach urzędowych kontroli żywności:
+
+- **1)** jeżeli w wyniku tych czynności zostaną stwierdzone przez kontrolujących niezgodności z przepisami prawa żywnościowego, w tym jeżeli zachodzi konieczność pobrania próbek żywności albo materiałów lub wyrobów przeznaczonych do kontaktu z żywnością do badań i wykonania badań laboratoryjnych w celu potwierdzenia niezgodności;
+- **2)** związanych z przeprowadzeniem ponownych czynności kontrolnych w celu sprawdzenia, czy niezgodności, o których mowa w pkt 1, zostały usunięte;
+- **3)** związanych z przeprowadzaniem granicznych kontroli sanitarnych.
+
+2. Opłatami, o których mowa w ust. 1, jest obciążany producent środka spożywczego lub inny podmiot działający na rynku spożywczym odpowiedzialny za towar w obrocie.
+
+3. Jeżeli w trakcie wykonywania czynności kontrolnych stwierdzono niezgodności, o których mowa w ust. 1, wskazujące, że mogły one powstać na etapie, gdy zakwestionowany środek spożywczy znajdował się w obrocie i producent nie ponosi odpowiedzialności za powstałe niezgodności, wówczas opłatami jest obciążany kontrolowany.
+
+4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość opłat mających na celu pokrycie kosztów ponoszonych przez organy Państwowej Inspekcji Sanitarnej za czynności wykonywane w ramach urzędowych kontroli żywności, w tym metody obliczania niektórych opłat, stawki opłat oraz sposób wnoszenia opłat, mając na względzie zasady ustalania opłat określone w art. 27–29 rozporządzenia nr 882/2004.
 
 **Art. 76.**
 
@@ -1022,7 +1165,7 @@ Art. 105–118. (pominięte)
 - **1)** wstępu do pomieszczeń zakładu o każdej porze;
 - **2)** badania procesów technologicznych i receptur w zakresie niezbędnym do zrealizowania celu kontroli;
 - **3)** przeglądania ksiąg i innych dokumentów kontrolowanego zakładu, jeżeli jest to niezbędne ze względu na cel przeprowadzanej kontroli;
-- **4)** podejmowania innych czynności niezbędnych do wyjaśnienia sprawy, zgodnie z zakresem uprawnień w ramach urzędowych kontroli żywności, w tym robów przeznaczonych do kontaktu z żywnością w celu wykonania badań laboratoryjnych.
+- **4)** podejmowania innych czynności niezbędnych do wyjaśnienia sprawy, zgodnie z zakresem uprawnień w ramach urzędowych kontroli żywności, w tym nieodpłatnego pobierania próbek środków spożywczych lub materiałów i wyrobów przeznaczonych do kontaktu z żywnością w celu wykonania badań laboratoryjnych.
 
 2. Uzyskane przez organy urzędowej kontroli żywności, w trakcie kontroli, informacje, dokumenty i inne dane stanowiące tajemnicę przedsiębiorcy nie mogą być przekazywane innym organom ani ujawniane, jeżeli nie jest to konieczne ze względu na ochronę życia lub zdrowia człowieka, z wyłączeniem żądania sądu lub prokuratury w związku z toczącym się postępowaniem.
 
@@ -1041,7 +1184,9 @@ Art. 105–118. (pominięte)
 
 3. Zadania realizowane przez laboratoria referencyjne są finansowane z budżetu państwa, z części, której dysponentem są minister właściwy do spraw zdrowia oraz minister właściwy do spraw rolnictwa, każdy w zakresie swoich kompetencji.
 
-4. Minister właściwy do spraw zdrowia wyznacza, w drodze rozporządzenia, laboratoria referencyjne wykonujące badania środków spożywczych podlegających urzędowym kontrolom organów Państwowej Inspekcji Sanitarnej oraz materiałów i wyrobów przeznaczonych do kontaktu z żywnością dla celów urzędowych kontroli żywności i żywienia, mając na względzie zapewnienie bezpieczeństwa żywności oraz realizację zadań określonych w art. 33 rozporządzenia nr 882/2004. Graniczne kontrole sanitarne
+4. Minister właściwy do spraw zdrowia wyznacza, w drodze rozporządzenia, laboratoria referencyjne wykonujące badania środków spożywczych podlegających urzędowym kontrolom organów Państwowej Inspekcji Sanitarnej oraz materiałów i wyrobów przeznaczonych do kontaktu z żywnością dla celów urzędowych kontroli żywności i żywienia, mając na względzie zapewnienie bezpieczeństwa żywności oraz realizację zadań określonych w art. 33 rozporządzenia nr 882/2004.
+
+#### Rozdział 2 Graniczne kontrole sanitarne
 
 **Art. 79.**
 
@@ -1062,7 +1207,7 @@ Art. 105–118. (pominięte)
 - **1)** przez państwowych granicznych inspektorów sanitarnych – na przejściach granicznych określonych na podstawie art. 83 ust. 2 pkt 1;
 - **2)** przez państwowych powiatowych inspektorów sanitarnych lub państwowych granicznych inspektorów sanitarnych właściwych ze względu na miejsce przeznaczenia towarów, siedzibę importera albo odbiorcy towarów, zgodnie z danymi wskazanymi we wniosku o dokonanie granicznej kontroli sanitarnej lub określonych w dokumentach przewozowych towarzyszących towarom, a także w innych właściwych miejscach, o których mowa w art. 15 ust. 2 rozporządzenia nr 882/2004.
 
-1a. Państwowy graniczny inspektor sanitarny przeprowadzający graniczną kontrolę sanitarną w portach morskich współpracuje z organami celnymi w zakresie właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Państwowy graniczny inspektor sanitarny przeprowadza graniczną kontrolę sanitarną w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 60 ust. 2–5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, 556, 588, 641, 658 i 760).
+1a. Państwowy graniczny inspektor sanitarny przeprowadzający graniczną kontrolę sanitarną w portach morskich współpracuje z organami celnymi w zakresie tej kontroli, w szczególności informuje naczelnika urzędu celno-skarbowego właściwego dla portu morskiego o terminie, w tym o godzinie, i miejscu planowanej kontroli. Państwowy graniczny inspektor sanitarny przeprowadza graniczną kontrolę sanitarną w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 60 ust. 2–5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, 556, 588, 641, 658 i 760).
 
 2. W przypadku podejrzenia niezgodności z wymaganiami zdrowotnymi, albo gdy istnieją wątpliwości odnośnie identyfikacji towaru, o których mowa w art. 18 rozporządzenia nr 882/2004, są przeprowadzane kontrole bezpośrednie.
 
@@ -1084,7 +1229,8 @@ Art. 105–118. (pominięte)
 
 1. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzory:
 
-- **1)** wniosku o dokonanie granicznej kontroli sanitarnej, kontrolą sanitarną – mając na względzie zapewnienie bezpieczeństwa żywności.
+- **1)** wniosku o dokonanie granicznej kontroli sanitarnej,
+- **2)** świadectwa spełniania wymagań zdrowotnych towaru objętego graniczną kontrolą sanitarną – mając na względzie zapewnienie bezpieczeństwa żywności.
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
@@ -1099,7 +1245,7 @@ Art. 105–118. (pominięte)
 
 **Art. 85.**
 
-1. Urzędowe kontrole przeprowadzane przez organy, o których mowa w art. 73 ust. 1, obejmują zadania dotyczące powiadamiania o niebezpiecznej żywności, w tym żywności pochodzenia zwierzęcego oraz paszach określonych z żywnością, w ramach sieci systemu RASFF.
+1. Urzędowe kontrole przeprowadzane przez organy, o których mowa w art. 73 ust. 1, obejmują zadania dotyczące powiadamiania o niebezpiecznej żywności, w tym żywności pochodzenia zwierzęcego oraz paszach określonych w przepisach o paszach oraz o materiałach i wyrobach przeznaczonych do kontaktu z żywnością, w ramach sieci systemu RASFF.
 
 2. Główny Inspektor Sanitarny kieruje siecią systemu RASFF oraz:
 
@@ -1117,7 +1263,11 @@ Art. 105–118. (pominięte)
 
 2. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, wykaz jednostek badawczo-rozwojowych , o których mowa w ust. 1, nadzorowanych przez tych ministrów, mając na względzie zapewnienie bezpieczeństwa żywności i żywienia, kompetencje jednostki i kwalifikacje personelu.
 
-3. Zadania, o których mowa w ust. 1, realizowane przez jednostki badawczo-rozwojowe są finansowane z budżetu państwa, z części, której dysponentem są minister właściwy do spraw zdrowia oraz minister właściwy do spraw rolnictwa, każdy w zakresie swoich kompetencji. potrzeby oceny ryzyka realizuje Rada do Spraw Monitoringu Żywności i Żywienia, zwana dalej „Radą”, działająca przy ministrze właściwym do spraw zdrowia.
+3. Zadania, o których mowa w ust. 1, realizowane przez jednostki badawczo-rozwojowe są finansowane z budżetu państwa, z części, której dysponentem są minister właściwy do spraw zdrowia oraz minister właściwy do spraw rolnictwa, każdy w zakresie swoich kompetencji.
+
+**Art. 87.**
+
+1. Zadania związane z funkcjonowaniem programu monitoringu na potrzeby oceny ryzyka realizuje Rada do Spraw Monitoringu Żywności i Żywienia, zwana dalej „Radą”, działająca przy ministrze właściwym do spraw zdrowia.
 
 2. W skład Rady wchodzi:
 
@@ -1140,7 +1290,9 @@ Art. 105–118. (pominięte)
 - **6)** doradztwo naukowe na rzecz organów urzędowej kontroli żywności;
 - **7)** dokonywanie oceny ryzyka.
 
-6. Dokumenty, o których mowa w ust. 5 pkt 1–3, są przedstawiane przez Radę do akceptacji przez ministra właściwego do spraw zdrowia i ministra właściwego do spraw rolnictwa. do spraw rolnictwa określi, w drodze rozporządzenia, regulamin pracy Rady, biorąc pod uwagę zakres jej zadań.
+6. Dokumenty, o których mowa w ust. 5 pkt 1–3, są przedstawiane przez Radę do akceptacji przez ministra właściwego do spraw zdrowia i ministra właściwego do spraw rolnictwa.
+
+7. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, regulamin pracy Rady, biorąc pod uwagę zakres jej zadań.
 
 8. Członkom Rady, z wyjątkiem członków Rady będących pracownikami urzędów organów administracji rządowej, za udział w posiedzeniach przysługują diety oraz zwrot kosztów podróży na obszarze kraju przewidziane w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641).
 
@@ -1166,6 +1318,7 @@ Art. 105–118. (pominięte)
 
 2. Współpraca, o której mowa w ust. 1, obejmuje w szczególności:
 
+- **1)** wyznaczanie przedstawiciela do Forum Doradczego Urzędu;
 - **2)** składanie do Urzędu wniosków o wydanie opinii naukowych w sprawach objętych zakresem działania Urzędu;
 - **3)** przekazywanie Urzędowi zgromadzonych danych naukowych dotyczących bezpieczeństwa żywności;
 - **4)** przekazywanie, na żądanie Urzędu, dodatkowych danych niezbędnych do oceny ryzyka;
@@ -1175,11 +1328,16 @@ Art. 105–118. (pominięte)
 
 **Art. 91.** Minister właściwy do spraw zdrowia jest organem właściwym w szczególności w zakresie realizacji zadań, o których mowa:
 
+- **1)** w art. 38 rozporządzenia nr 396/2005;
+- **2)** w art. 7 ust. 2 rozporządzenia (WE) nr 2065/2003 Parlamentu Europejskiego i Rady z dnia 10 listopada 2003 r. w sprawie środków aromatyzujących dymu wędzarniczego używanych lub przeznaczonych do użycia w środkach spożywczych lub na ich powierzchni (Dz. Urz. UE L 309 z 26.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 661).
+
 **Art. 92.**
 
 1. Główny Inspektor Sanitarny jest organem właściwym do zapewnienia przeprowadzenia postępowania dotyczącego wstępnej oceny naukowej oraz sporządzenia wstępnego sprawozdania odnośnie do nowej żywności wprowadzanej do obrotu w zakresie określonym przepisami rozporządzenia nr 258/97 oraz do przyjmowania od Komisji Europejskiej wstępnych sprawozdań przygotowanych w innych państwach członkowskich Unii Europejskiej, a także do zgłaszania uwag i uzasadnionych sprzeciwów do takich sprawozdań.
 
-2. Postępowanie, o którym mowa w ust. 1, przeprowadzają krajowe jednostki naukowe upoważnione, w drodze decyzji, przez ministra właściwego do spraw zdrowia, podejmowanej z uwzględnieniem w szczególności zadań statutowych i kwalifikacji personelu oraz niezależności jednostki od podmiotów działających na rynku spożywczym. przygotowania wstępnego sprawozdania, o którym mowa w ust. 1, ponoszą wnioskodawcy określeni w art. 4 ust. 1 rozporządzenia nr 258/97.
+2. Postępowanie, o którym mowa w ust. 1, przeprowadzają krajowe jednostki naukowe upoważnione, w drodze decyzji, przez ministra właściwego do spraw zdrowia, podejmowanej z uwzględnieniem w szczególności zadań statutowych i kwalifikacji personelu oraz niezależności jednostki od podmiotów działających na rynku spożywczym.
+
+3. Koszty dokumentacji, badań lub dowodów naukowych niezbędnych do przygotowania wstępnego sprawozdania, o którym mowa w ust. 1, ponoszą wnioskodawcy określeni w art. 4 ust. 1 rozporządzenia nr 258/97.
 
 **Art. 93.**
 
@@ -1201,7 +1359,7 @@ Art. 105–118. (pominięte)
 
 ### DZIAŁ VII Odpowiedzialność za szkodę wyrządzoną przez środki spożywcze
 
-**Art. 95.** W przypadku szkody wyrządzonej przez środki spożywcze odpowiedzialność za tę szkodę ponosi podmiot działający na rynku spożywczym na odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny.
+**Art. 95.** W przypadku szkody wyrządzonej przez środki spożywcze odpowiedzialność za tę szkodę ponosi podmiot działający na rynku spożywczym na zasadach określonych w przepisach Kodeksu cywilnego dotyczących odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny.
 
 ### DZIAŁ VIII Przepisy karne i kary pieniężne
 
@@ -1225,7 +1383,9 @@ Art. 105–118. (pominięte)
 
 **Art. 98.**
 
-1. Kto prowadzi działalność gospodarczą w zakresie sprzedaży żywności „na odległość” (sprzedaży wysyłkowej), w tym sprzedaży przez internet, bez spełnienia obowiązku określonego w art. 63 ust. 3, podlega karze ograniczenia wolności albo pozbawienia wolności do roku. dochodów albo dopuszcza się przestępstw określonych w ust. 1 w stosunku do żywności o znacznej wartości, podlega karze pozbawienia wolności od 6 miesięcy do lat 3.
+1. Kto prowadzi działalność gospodarczą w zakresie sprzedaży żywności „na odległość” (sprzedaży wysyłkowej), w tym sprzedaży przez internet, bez spełnienia obowiązku określonego w art. 63 ust. 3, podlega karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+2. Jeżeli sprawca uczynił sobie z przestępstwa określonego w ust. 1 stałe źródło dochodów albo dopuszcza się przestępstw określonych w ust. 1 w stosunku do żywności o znacznej wartości, podlega karze pozbawienia wolności od 6 miesięcy do lat 3.
 
 **Art. 99.**
 
@@ -1248,7 +1408,8 @@ Art. 105–118. (pominięte)
 1. Kto:
 
 - **1)** używa do produkcji lub wprowadza do obrotu środek spożywczy po upływie terminu przydatności do spożycia lub daty minimalnej trwałości,
-- **2)** dokonuje napromieniania żywności bez uzyskania zgody, o której mowa w art. 20 ust. 1, lub niezgodnie z warunkami w niej określonymi, bez powiadomienia Głównego Inspektora Sanitarnego,
+- **2)** dokonuje napromieniania żywności bez uzyskania zgody, o której mowa w art. 20 ust. 1, lub niezgodnie z warunkami w niej określonymi,
+- **3)** wprowadza po raz pierwszy do obrotu środek, o którym mowa w art. 29 ust. 1, bez powiadomienia Głównego Inspektora Sanitarnego,
 - **4)** reklamuje lub prowadzi działalność promocyjną preparatów do początkowego żywienia niemowląt wbrew zakazowi określonemu w art. 25 ust. 2,
 - **5)** prowadzi działalność promocyjną przedmiotów służących do karmienia niemowląt wbrew zakazowi określonemu w art. 25 ust. 2,
 - **6)** oferuje lub dostarcza preparaty do początkowego żywienia niemowląt oraz przedmioty służące do karmienia niemowląt, ich próbki lub inne przedmioty tego typu o charakterze promocyjnym, konsumentom wbrew zakazowi określonemu w art. 25 ust. 2,
@@ -1258,7 +1419,8 @@ Art. 105–118. (pominięte)
 - **10)** wykonuje czynności klasyfikatora grzybów lub grzyboznawcy bez posiadania uprawnień określonych w art. 43,
 - **11)** zatrudnia osoby, co do których stwierdzone zostały przeciwwskazania do wykonywania prac, przy wykonywaniu których istnieje możliwość przeniesienia zakażenia na inne osoby wbrew zakazowi, o którym mowa w załączniku II rozdziale VIII ust. 2 rozporządzenia nr 852/2004 lub osoby nieposiadające orzeczeń lekarskich do celów sanitarno-epidemiologicznych o braku przeciwwskazań do wykonywania prac, przy wykonywaniu których istnieje możliwość przeniesienia zakażenia na inne osoby, wbrew obowiązkowi określonemu w art. 59 ust. 2,
 - **12)** (uchylony)
-- **13)** wprowadza do obrotu materiał lub wyrób przeznaczony do kontaktu z żywnością niespełniający wymagań określonych w art. 3 rozporządzenia nr 1935/2004 albo taki materiał lub wyrób zawierający w swoim składzie substancje inne niż określone w trybie art. 54, albo taki materiał lub wyrób nieprawidłowo oznakowany, przeznaczonych do kontaktu z żywnością zasad dobrej praktyki produkcyjnej wbrew obowiązkowi określonemu w art. 4 rozporządzenia nr 2023/2006,
+- **13)** wprowadza do obrotu materiał lub wyrób przeznaczony do kontaktu z żywnością niespełniający wymagań określonych w art. 3 rozporządzenia nr 1935/2004 albo taki materiał lub wyrób zawierający w swoim składzie substancje inne niż określone w trybie art. 54, albo taki materiał lub wyrób nieprawidłowo oznakowany,
+- **14)** nie przestrzega w zakładzie działającym na rynku materiałów i wyrobów przeznaczonych do kontaktu z żywnością zasad dobrej praktyki produkcyjnej wbrew obowiązkowi określonemu w art. 4 rozporządzenia nr 2023/2006,
 - **15)** prowadzi proces recyklingu materiałów i wyrobów z tworzyw sztucznych, bez zezwolenia Komisji wydanego na zasadach określonych w art. 4– 8 rozporządzenia nr 282/2008 lub w sposób niezgodny z warunkami określonymi w tym zezwoleniu,
 - **16)** prowadzi działalność w zakresie produkcji lub obrotu materiałami i wyrobami przeznaczonymi do kontaktu z żywnością, w tym materiałami i wyrobami z tworzyw sztucznych pochodzącymi z recyklingu, bez złożenia wniosku o wpis do rejestru zakładów w trybie i na zasadach określonych w art. 63,
 - **17)** nie umieszcza w miejscu zbywania żywności w ramach rolniczego handlu detalicznego oznaczenia, o którym mowa w art. 44a ust. 3, lub podaje w tym oznaczeniu informacje niepełne lub nieprawdziwe, podlega karze grzywny.
@@ -1279,7 +1441,7 @@ Art. 105–118. (pominięte)
 
 1. Kto:
 
-- **1)** nie przestrzega wymagań w zakresie znakowania środków spożywczych, w tym w zakresie prezentacji, reklamy i promocji, określonych w art. 33 ust. 3 i 4, art. 45 ust. 3 i 4, art. 48 ust. 2 i 3 oraz art. 52a, a także wymagań w tym zakresie ust. 1 pkt 3, art. 26 ust. 1 pkt 4, art. 27 ust. 6 pkt 2, art. 39 pkt 3 i art. 44 pkt 2, 1a) (utracił moc) 1b) nie przestrzega wymagań w zakresie znakowania środków spożywczych, określonych w przepisach:
+- **1)** nie przestrzega wymagań w zakresie znakowania środków spożywczych, w tym w zakresie prezentacji, reklamy i promocji, określonych w art. 33 ust. 3 i 4, art. 45 ust. 3 i 4, art. 48 ust. 2 i 3 oraz art. 52a, a także wymagań w tym zakresie określonych w przepisach wydanych na podstawie art. 14 ust. 2 pkt 3, art. 22 ust. 1 pkt 3, art. 26 ust. 1 pkt 4, art. 27 ust. 6 pkt 2, art. 39 pkt 3 i art. 44 pkt 2, 1a) (utracił moc) 1b) nie przestrzega wymagań w zakresie znakowania środków spożywczych, określonych w przepisach:
     - **a)** rozporządzenia nr 1333/2008 – w zakresie substancji dodatkowych,
     - **b)** rozporządzenia nr 1334/2008 – w zakresie aromatów,
     - **c)** rozporządzenia nr 1169/2011,
@@ -1291,7 +1453,7 @@ Art. 105–118. (pominięte)
 - **6)** prowadzi działalność w zakresie produkcji lub obrotu żywnością wbrew decyzji o cofnięciu lub zawieszeniu zatwierdzenia zakładu, o której mowa w art. 66 ust. 1, lub wbrew decyzji o czasowym zawieszeniu działania lub zamknięciu całego lub części danego zakładu na podstawie art. 54 ust. 2 lit. e rozporządzenia nr 882/2004,
 - **7)** utrudnia lub uniemożliwia przeprowadzenie urzędowej kontroli żywności,
 - **8)** w ramach prowadzonej działalności sprzedaje w jednostce systemu oświaty środki spożywcze inne niż objęte grupami środków spożywczych przeznaczonych do sprzedaży dzieciom i młodzieży określonymi w przepisach wydanych na podstawie art. 52c ust. 6 pkt 1,
-- **9)** w ramach prowadzonej działalności reklamuje lub promuje w jednostce systemu oświaty środki spożywcze inne niż objęte grupami środków spożywczych przeznaczonych do sprzedaży dzieciom i młodzieży określonymi w przepisach określonych w przepisach wydanych na podstawie art. 52c ust. 6 pkt 2,
+- **9)** w ramach prowadzonej działalności reklamuje lub promuje w jednostce systemu oświaty środki spożywcze inne niż objęte grupami środków spożywczych przeznaczonych do sprzedaży dzieciom i młodzieży określonymi w przepisach wydanych na podstawie art. 52c ust. 6 pkt 1 lub niespełniające wymagań określonych w przepisach wydanych na podstawie art. 52c ust. 6 pkt 2,
 - **10)** prowadząc działalność w zakresie zbiorowego żywienia dzieci i młodzieży w jednostce systemu oświaty w ramach żywienia zbiorowego stosuje środki spożywcze nieodpowiadające wymaganiom określonym w przepisach wydanych na podstawie art. 52c ust. 6 pkt 2 podlega karze pieniężnej w wysokości do trzydziestokrotnego przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 2. W przypadkach, o których mowa w ust. 1:
@@ -1308,7 +1470,9 @@ Art. 105–118. (pominięte)
 
 3. Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że organowi, o którym mowa w ust. 1, przysługują uprawnienia organu podatkowego.
 
-4. Kary pieniężne stanowią dochód budżetu państwa. Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+4. Kary pieniężne stanowią dochód budżetu państwa.
+
+### DZIAŁ IX Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
 
@@ -1332,7 +1496,7 @@ Art. 105–118. (pominięte)
 
 1. Podmioty działające na rynku spożywczym, których zakłady nie są wpisane do rejestru, o którym mowa w art. 62 ust. 1 pkt 1, są obowiązane, w okresie sześciu miesięcy od dnia wejścia w życie ustawy, złożyć wnioski o wpis do rejestru zakładów lub o zatwierdzenie zakładu.
 
-2. Wnioski, o których mowa w art. 64 ust. 1, nie są wymagane, jeżeli zakłady produkujące lub wprowadzające żywność do obrotu są objęte rejestrami prowadzonymi na podstawie art. 27a ustawy, o której mowa w art. 127 pkt 1, lub na w niniejszej ustawie.
+2. Wnioski, o których mowa w art. 64 ust. 1, nie są wymagane, jeżeli zakłady produkujące lub wprowadzające żywność do obrotu są objęte rejestrami prowadzonymi na podstawie art. 27a ustawy, o której mowa w art. 127 pkt 1, lub na podstawie przepisów wcześniej obowiązujących, i spełniają wymagania określone w niniejszej ustawie.
 
 3. W przypadkach, o których mowa w ust. 2, właściwy państwowy powiatowy inspektor sanitarny dokonuje wpisu zakładu do rejestru zakładów z urzędu, chyba że w terminie, o którym mowa w ust. 1, podmiot działający na rynku spożywczym zostanie wezwany do złożenia wniosku lub uzupełnienia danych objętych wnioskiem albo podmiot ten złoży wniosek o dokonanie zmian w rejestrze lub o wykreślenie zakładu z rejestru.
 
@@ -1351,6 +1515,8 @@ Art. 105–118. (pominięte)
 3. Przepisy wykonawcze wydane na podstawie art. 3 ust. 4 pkt 1 i 2 ustawy, o której mowa w art. 127 pkt 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 54 pkt 1 i 2 niniejszej ustawy.
 
 4. Przepisy wykonawcze wydane na podstawie art. 15 pkt 1 ustawy, o której mowa w art. 107 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 127.** Tracą moc:
 
 - **1)** ustawa z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. z 2005 r. poz. 265 i 1480);
 - **2)** ustawa z dnia 6 września 2001 r. o materiałach i wyrobach przeznaczonych do kontaktu z żywnością (Dz. U. poz. 1408, z 2003 r. poz. 1662, z 2004 r. poz. 1808 oraz z 2005 r. poz. 1480).

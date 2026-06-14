@@ -8,7 +8,7 @@ pos: 1169
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009–2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009–2019
@@ -28,6 +28,10 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1169/text.pdf) |
 
 **Art. 1.** Ustawa określa zasady ustalania wysokości:
+
+- **1)** emerytur ustalonych w czerwcu w latach 2009–2019 na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159);
+- **2)** rent rodzinnych przysługujących uprawnionym osobom na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009–2019;
+- **3)** rent rodzinnych przysługujących uprawnionym osobom na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych po ubezpieczonych, którzy osiągnęli wiek emerytalny określony w art. 24 ust. 1 tej ustawy i zmarli w czerwcu w latach 2009–2019 oraz nie mieli ustalonego prawa do emerytury.
 
 **Art. 2.**
 

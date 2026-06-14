@@ -8,7 +8,7 @@ pos: 1831
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnej opiece geriatrycznej
@@ -35,6 +35,10 @@ Art. 47–49. (pominięte)
 
 **Art. 2.** Szczególna opieka geriatryczna jest sprawowana w:
 
+- **1)** szpitalnych oddziałach geriatrycznych wskazanych w wojewódzkim planie działania szczególnej opieki geriatrycznej, zwanym dalej „wojewódzkim planem”;
+- **2)** centrach zdrowia 75+, zwanych dalej „centrami”;
+- **3)** podstawowej opiece zdrowotnej.
+
 **Art. 3.**
 
 1. Do korzystania ze szczególnej opieki geriatrycznej mają prawo osoby uprawnione do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858 i 1222), które ukończyły 75. rok życia, zwane dalej „osobami uprawnionymi”.
@@ -51,9 +55,24 @@ Art. 47–49. (pominięte)
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
 
+- **1)** całościowa ocena geriatryczna – wielowymiarowy, interdyscyplinarny proces diagnostyczny prowadzony w celu identyfikacji problemów zdrowotnych i opiekuńczych, optymalizacji leczenia, planowania opieki zdrowotnej oraz poprawy sprawności funkcjonalnej i jakości życia;
+- **2)** lekarz podstawowej opieki zdrowotnej – lekarza, o którym mowa w art. 6 ust. 1 i 2 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527);
+- **3)** obszar działania centrum – obszar działania centrum określony w wojewódzkim planie;
+- **4)** opiekun – osobę bliską lub opiekuna faktycznego w rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581);
+- **5)** pielęgniarka podstawowej opieki zdrowotnej – pielęgniarkę, o której mowa w art. 7 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej;
+- **6)** podmiot leczniczy – podmiot, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799);
+- **7)** podmiot wykonujący działalność leczniczą – podmiot, o którym mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **8)** skala VES-13 (Vulnerable Elders Survey 13) – badanie kwestionariuszowe, obejmujące samoocenę stanu zdrowia i wykonywania codziennych czynności, pomagające zidentyfikować osoby o zwiększonym ryzyku znacznego pogorszenia stanu zdrowia i sprawności funkcjonalnej;
+- **9)** świadczenie opieki zdrowotnej – świadczenie opieki zdrowotnej, o którym mowa w art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **10)** wstępna ocena geriatryczna – badanie przesiewowe przeprowadzone na podstawie wywiadu bezpośredniego, uwzględniające skalę VES-13, badanie fizykalne i badania laboratoryjne, mające na celu stwierdzenie potrzeby objęcia danej osoby szczególną opieką geriatryczną.
+
 #### Rozdział 2 Wykonywanie zadań z zakresu szczególnej opieki geriatrycznej
 
 **Art. 5.** Zadania z zakresu szczególnej opieki geriatrycznej wykonują:
+
+- **1)** minister właściwy do spraw zdrowia;
+- **2)** wojewoda;
+- **3)** powiat.
 
 **Art. 6.**
 
@@ -68,7 +87,19 @@ Art. 47–49. (pominięte)
 
 **Art. 7.** Do zadań wojewody z zakresu szczególnej opieki geriatrycznej należy:
 
+- **1)** sporządzanie projektu wojewódzkiego planu oraz jego aktualizacji;
+- **2)** uzgadnianie z właściwymi powiatami warunków utworzenia centrum;
+- **3)** monitorowanie działalności centrum w zakresie organizacji i dostępności do świadczeń opieki zdrowotnej.
+
 **Art. 8.** Do zadań powiatu z zakresu szczególnej opieki geriatrycznej należy:
+
+- **1)** rozpoznawanie potrzeb zdrowotnych i stanu zdrowia osób, które ukończyły
+
+75. rok życia, zamieszkujących na terenie powiatu;
+
+- **2)** zgłaszanie propozycji dotyczącej utworzenia i lokalizacji centrum, o której mowa w art. 13 ust. 2;
+- **3)** utworzenie centrum, w przypadku gdy taka potrzeba wynika z wojewódzkiego planu;
+- **4)** zawieranie porozumień, o których mowa w art. 19 ust. 1.
 
 #### Rozdział 3 Wojewódzki plan
 
@@ -105,6 +136,16 @@ Art. 47–49. (pominięte)
 3. W przypadku braku zgłoszenia, o którym mowa w art. 13 ust. 2, na obszarze działania centrum, albo niezłożenia deklaracji, o której mowa w art. 13 ust. 4, centrum lokalizuje się w podmiocie leczniczym wykonującym działalność na obszarze działania centrum, biorąc pod uwagę kryteria określone w art. 12.
 
 **Art. 12.** Przy sporządzaniu wojewódzkiego planu wojewoda bierze pod uwagę:
+
+- **1)** liczbę osób, które ukończyły 60. rok życia zamieszkujących na terenie województwa, ustaloną zgodnie z art. 10 ust. 3;
+- **2)** liczbę osób, które ukończyły 75. rok życia zamieszkujących na terenie poszczególnych powiatów, ustaloną zgodnie z art. 11 ust. 1;
+- **3)** potrzebę zapewnienia równomiernego rozmieszczenia na terenie województwa:
+    - **a)** oddziałów geriatrycznych,
+    - **b)** centrów;
+
+- **4)** potrzebę zapewnienia dostępności świadczeń opieki zdrowotnej udzielanych w:
+    - **a)** oddziałach geriatrycznych,
+    - **b)** centrach.
 
 **Art. 13.**
 
@@ -195,6 +236,12 @@ Art. 47–49. (pominięte)
 
 **Art. 22.** W centrum wyodrębnia się:
 
+- **1)** poradnię konsultacyjną;
+- **2)** co najmniej jeden dzienny ośrodek opieki geriatrycznej;
+- **3)** geriatryczny zespół opieki domowej;
+- **4)** zespół koordynatorów opieki geriatrycznej;
+- **5)** zespół edukatorów zdrowotnych.
+
 **Art. 23.** W poradni konsultacyjnej zapewnia się udzielanie porad specjalistycznych w zakresie, o którym mowa w art. 20 ust. 2 pkt 1 i 3, porad psychologicznych oraz świadczeń pielęgniarskich.
 
 **Art. 24.**
@@ -251,7 +298,18 @@ Art. 47–49. (pominięte)
 
 **Art. 29.** Do zadań edukatora zdrowotnego należy prowadzenie różnych form edukacji zdrowotnej dostosowanej do potrzeb pacjentów oraz ich opiekunów, obejmującej:
 
+- **1)** rozpoznawanie potrzeb edukacyjnych i planowanie edukacji zdrowotnej z uwzględnieniem stanu zdrowia pacjenta i warunków środowiskowych, w których funkcjonuje, w celu uzyskania przez niego kompetencji do podejmowania samoopieki;
+- **2)** podnoszenie poziomu wiedzy i umiejętności związanych z korzystaniem z systemu ochrony zdrowia i rozumieniem zasad jego funkcjonowania;
+- **3)** zwiększanie poziomu świadomości w zakresie czynników społecznych i środowiskowych wpływających na zdrowie;
+- **4)** ewaluację samodzielności pacjenta w zakresie kontroli stanu zdrowia, przebiegu choroby oraz zapobiegania jej skutkom, radzenia sobie w sytuacjach trudnych, a także zwiększenia aktywności fizycznej i uczestnictwa w życiu społecznym.
+
 **Art. 30.** W centrum działa punkt informacyjno-recepcyjny, do zadań którego należy w szczególności:
+
+- **1)** informowanie o świadczeniach opieki zdrowotnej udzielanych w centrum oraz zasadach ich udzielania;
+- **2)** informowanie o zasadach korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych oraz zasadach korzystania ze świadczeń pomocy społecznej i usług społecznych realizowanych przez jednostki organizacyjne pomocy społecznej i centra usług społecznych działające na obszarze działania centrum;
+- **3)** w przypadku osób uprawnionych, które zgłosiły się do centrum bez skierowania lekarza podstawowej opieki zdrowotnej oraz:
+    - **a)** dokonały wyboru świadczeniodawcy, o którym mowa w art. 9 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej – umówienie, za zgodą osoby uprawnionej, terminu wizyty u tego świadczeniodawcy w celu przeprowadzenia wstępnej oceny geriatrycznej,
+    - **b)** nie dokonały wyboru świadczeniodawcy, o którym mowa w art. 9 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej – poinformowanie o możliwości wyboru takiego świadczeniodawcy i przeprowadzenia przez niego wstępnej oceny geriatrycznej.
 
 **Art. 31.**
 

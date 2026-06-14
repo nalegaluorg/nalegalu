@@ -8,7 +8,7 @@ pos: 322
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o substancjach chemicznych i ich mieszaninach
@@ -60,6 +60,38 @@ Art. 65–84. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** substancjach – rozumie się przez to substancje, o których mowa w art. 3 pkt 1 rozporządzenia nr 1907/2006;
+- **2)** mieszaninach – rozumie się przez to mieszaniny lub roztwory, o których mowa w art. 3 pkt 2 rozporządzenia nr 1907/2006;
+- **3)** wyrobie – rozumie się przez to przedmiot, o którym mowa w art. 3 pkt 3 rozporządzenia nr 1907/2006, o ile ustawa nie stanowi inaczej;
+- **4)** detergencie – rozumie się przez to substancję lub mieszaninę, o której mowa w art. 2 pkt 1 rozporządzenia nr 648/2004;
+- **5)** środku powierzchniowo czynnym – rozumie się przez to substancję lub mieszaninę, o której mowa w art. 2 pkt 6 rozporządzenia nr 648/2004;
+- **6)** rejestrującym – rozumie się przez to osobę, o której mowa w art. 3 pkt 7 rozporządzenia nr 1907/2006;
+- **7)** produkcji – rozumie się przez to procesy, o których mowa w art. 3 pkt 8 rozporządzenia nr 1907/2006;
+- **8)** producencie – rozumie się przez to osobę, o której mowa w art. 3 pkt 9 rozporządzenia nr 1907/2006, o ile ustawa nie stanowi inaczej;
+- **9)** wytwórcy wyrobu – rozumie się przez to osobę, o której mowa w art. 3 pkt 4 rozporządzenia nr 1907/2006;
+- **10)** imporcie – rozumie się przez to wprowadzenie, o którym mowa w art. 3 pkt 10 rozporządzenia nr 1907/2006;
+- **11)** importerze – rozumie się przez to osobę, o której mowa w art. 3 pkt 11 rozporządzenia nr 1907/2006;
+- **12)** dalszym użytkowniku – rozumie się przez to osobę, o której mowa w art. 3 pkt 13 rozporządzenia nr 1907/2006;
+- **13)** dystrybutorze – rozumie się przez to osobę, o której mowa w art. 3 pkt 14 rozporządzenia nr 1907/2006;
+- **14)** dostawcy substancji lub mieszaniny – rozumie się przez to osobę, o której mowa w art. 3 pkt 32 rozporządzenia nr 1907/2006;
+- **15)** dostawcy wyrobu – rozumie się przez to osobę, o której mowa w art. 3 pkt 33 rozporządzenia nr 1907/2006;
+- **16)** odbiorcy substancji lub mieszaniny – rozumie się przez to osobę, o której mowa w art. 3 pkt 34 rozporządzenia nr 1907/2006;
+- **17)** odbiorcy wyrobu – rozumie się przez to osobę, o której mowa w art. 3 pkt 35 rozporządzenia nr 1907/2006;
+- **18)** uczestniku łańcucha dostaw – rozumie się przez to osobę, o której mowa w art. 3 pkt 17 rozporządzenia nr 1907/2006;
+- **19)** wprowadzeniu do obrotu – rozumie się przez to procesy, o których mowa w art. 3 pkt 12 rozporządzenia nr 1907/2006, o ile ustawa nie stanowi inaczej;
+- **20)** stosowaniu – rozumie się przez to procesy, o których mowa w art. 3 pkt 24 rozporządzenia nr 1907/2006;
+- **21)** ograniczeniu – rozumie się przez to ograniczenie, o którym mowa w art. 3 pkt 31 rozporządzenia nr 1907/2006;
+- **22)** karcie charakterystyki – rozumie się przez to kartę charakterystyki, o której mowa w art. 31 rozporządzenia nr 1907/2006;
+- **23)** Agencji – rozumie się przez to Europejską Agencję Chemikaliów utworzoną na podstawie rozporządzenia nr 1907/2006;
+- **24)** (uchylony)
+- **25)** Dobrej Praktyce Laboratoryjnej – rozumie się przez to system jakości odnoszący się do procesu organizacyjnego i warunków planowania, przeprowadzania i monitorowania nieklinicznych badań substancji i mieszanin pod względem bezpieczeństwa dla zdrowia człowieka i środowiska naturalnego oraz odnotowywania, archiwizowania i sprawozdawania ich wyników;
+- **26)** klasie zagrożenia – rozumie się przez to klasę zagrożenia, o której mowa w art. 2 pkt 1 rozporządzenia nr 1272/2008;
+- **27)** kategorii zagrożenia – rozumie się przez to kategorię zagrożenia, o której mowa w art. 2 pkt 2 rozporządzenia nr 1272/2008;
+- **28)** wywozie – rozumie się przez to wywóz, o którym mowa w art. 3 pkt 16 rozporządzenia nr 649/2012;
+- **29)** przywozie – rozumie się przez to przywóz, o którym mowa w art. 3 pkt 17 rozporządzenia nr 649/2012;
+- **30)** chemikaliach – rozumie się przez to chemikalia, o których mowa w art. 3 pkt 1 rozporządzenia nr 649/2012;
+- **31)** substancjach stwarzających zagrożenie albo mieszaninach stwarzających zagrożenie – rozumie się przez to substancje albo mieszaniny, o których mowa w art. 3 rozporządzenia nr 1272/2008.
+
 **Art. 3.**
 
 1. W odniesieniu do niektórych substancji, w ich postaci własnej, jako składników mieszaniny lub w wyrobach, niezbędnych na potrzeby obronności państwa, zezwala się na zwolnienie ze stosowania rozporządzenia nr 1907/2006, z wyłączeniem przepisów tytułu IV tego rozporządzenia.
@@ -83,6 +115,14 @@ Art. 65–84. (pominięte)
 3. Prezesa Biura odwołuje minister właściwy do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw gospodarki i opinii ministra właściwego do spraw klimatu.
 
 **Art. 7.** Stanowisko Prezesa Biura może zajmować osoba, która:
+
+- **1)** posiada tytuł zawodowy magistra lub równorzędny;
+- **2)** jest obywatelem polskim;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **5)** posiada kompetencje kierownicze;
+- **6)** posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
+- **7)** posiada doświadczenie i wiedzę z zakresu spraw należących do właściwości Prezesa Biura.
 
 **Art. 8.**
 
@@ -268,6 +308,20 @@ Art. 65–84. (pominięte)
 
 **Art. 23.** W przypadku uznania, że obrót określonymi substancjami stwarzającymi zagrożenie i mieszaninami stwarzającymi zagrożenie może spowodować niedopuszczalne zagrożenie dla ogółu społeczeństwa, minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki może określić, w drodze rozporządzenia:
 
+- **1)** klasy i kategorie tych substancji stwarzających zagrożenie i tych mieszanin stwarzających zagrożenie,
+- **2)** wymagania dotyczące kwalifikacji, które muszą posiadać osoby prowadzące na terytorium Rzeczypospolitej Polskiej obrót tymi substancjami stwarzającymi zagrożenie i tymi mieszaninami stwarzającymi zagrożenie,
+- **3)** sposób potwierdzania kwalifikacji, o których mowa w pkt 2, nabytych w państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej przez: poz. 2354 oraz z 2022 r. poz. 91, 583, 830, 835 i 1383), o cudzoziemcach, zm. ), oraz obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym – biorąc pod uwagę konieczność ochrony zdrowia ludzi i ochrony środowiska przed zagrożeniami stwarzanymi przez substancje stwarzające zagrożenie i mieszaniny stwarzające zagrożenie.
+    - **a)** obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej,
+    - **b)** członka rodziny osoby, o której mowa w lit. a, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697),
+    - **c)** obywatela państwa trzeciego posiadającego zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, o którym mowa w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r.
+    - **d)** obywatela państwa trzeciego posiadającego zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 151 ust. 1 lub art. 151b ust. 1 ustawy z dnia 12 grudnia 2013 r.
+    - **e)** obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **f)** obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **g)** obywatela państwa trzeciego posiadającego status uchodźcy lub objętego ochroną uzupełniającą,
+    - **h)** obywatela państwa trzeciego, który przybywa na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium w celu połączenia się z rodziną i jest członkiem rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej w związku z nadaniem mu statusu uchodźcy lub udzieleniem mu ochrony uzupełniającej,
+    - **i)** obywatela państwa trzeciego, który ubiega się o przyjęcie na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji w rozumieniu art. 3 pkt 24 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **j)** obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i ma prawo do wykonywania pracy oraz posiada dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 19, t. 6, str. 3, z późn.
+
 **Art. 24.** (uchylony)
 
 **Art. 25.** Producent, importer oraz dalszy użytkownik są obowiązani ustanowić, prowadzić i aktualizować na bieżąco spis produkowanych, importowanych lub stosowanych substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie.
@@ -304,6 +358,27 @@ Art. 65–84. (pominięte)
 #### Rozdział 6 Przepisy o nadzorze
 
 **Art. 29.** Nadzór nad przestrzeganiem przepisów ustawy oraz przepisów rozporządzeń, o których mowa w art. 1 ust. 1, sprawują, w zakresie swojej właściwości, Państwowa Inspekcja Sanitarna oraz Wojskowa Inspekcja Sanitarna, a także:
+
+- **1)** Inspekcja Ochrony Środowiska – w zakresie zagrożeń dla środowiska dotyczących:
+    - **a)** prawidłowości kart charakterystyki w zakresie: – postępowania w przypadku niezamierzonego uwolnienia substancji lub mieszaniny do środowiska, – magazynowania substancji lub mieszaniny, – postępowania z odpadami, – informacji ekologicznych,
+    - **b)** spełnienia przez dalszych użytkowników obowiązków określonych w art. 37 ust. 5 i 6 rozporządzenia nr 1907/2006, dotyczących stosowania środków kontroli ryzyka – w zakresie niezbędnym do zapewnienia, że ryzyko dla środowiska jest odpowiednio kontrolowane,
+    - **c)** przestrzegania warunków zezwolenia wydanego zgodnie z przepisami tytułu VII rozporządzenia nr 1907/2006 na stosowanie substancji chemicznych, zawartych w załączniku XIV do rozporządzenia nr 1907/2006,
+    - **d)** przestrzegania przez dalszych użytkowników przepisów dotyczących ograniczeń produkcji, obrotu i stosowania substancji chemicznych i ich mieszanin, zgodnie z art. 26 ustawy, lub przepisów, o których mowa w art. 67 rozporządzenia nr 1907/2006 – w zakresie swoich kompetencji,
+    - **e)** przestrzegania przepisów rozporządzenia nr 1907/2006 dotyczących substancji odzyskiwanych w postaci własnej lub jako składnik mieszaniny;
+
+- **2)** Państwowa Inspekcja Pracy – w zakresie nadzoru i kontroli nad przestrzeganiem przepisów ustawy – w zakresie swoich kompetencji;
+- **3)** Inspekcja Handlowa – w zakresie przestrzegania:
+    - **a)** obowiązku dokonania wymaganej rejestracji substancji oraz obowiązku dostarczenia odbiorcy substancji lub mieszaniny wymaganej karty charakterystyki,
+    - **b)** przepisów, o których mowa w art. 26 ustawy, lub przepisów, o których mowa w art. 67 rozporządzenia nr 1907/2006 – w zakresie swoich kompetencji,
+    - **c)** przepisów art. 11 rozporządzenia nr 648/2004 – w zakresie oznakowania detergentów w handlu hurtowym i detalicznym,
+    - **d)** przepisów tytułów III i IV rozporządzenia nr 1272/2008 – w odniesieniu do handlu hurtowego i detalicznego;
+
+- **4)** Państwowa Straż Pożarna – w zakresie właściwego oznakowania miejsc składowania substancji i mieszanin, o których mowa w części 2 załącznika I do rozporządzenia nr 1272/2008;
+- **5)** organy celno-skarbowe – w zakresie przestrzegania przepisów dotyczących:
+    - **a)** wywozu i przywozu niebezpiecznych chemikaliów, określonych w rozporządzeniu nr 649/2012,
+    - **b)** substancji, mieszaniny lub wyrobu, których import jest zakazany lub które podlegają ograniczeniom w imporcie, zgodnie z przepisami wydanymi na podstawie art. 26,
+    - **c)** importu substancji, mieszaniny lub wyrobu, określonych w tytule VII rozporządzenia nr 1907/2006,
+    - **d)** importu substancji, mieszaniny lub wyrobu wymienionego w załączniku XVII do rozporządzenia nr 1907/2006; o przypadkach importu substancji, mieszanin lub wyrobów, które budzą wątpliwości organu celnego co do przestrzegania przez importerów warunków określonych w tym załączniku, organy celne informują właściwego państwowego inspektora sanitarnego.
 
 **Art. 30.** Organy wymienione w art. 29 sprawują nadzór na zasadach i w trybie określonych w odrębnych przepisach.
 
@@ -490,6 +565,11 @@ Art. 65–84. (pominięte)
 4. Pierwszy wykaz certyfikowanych jednostek badawczych, o którym mowa w art. 16 ust. 1, obejmuje jednostki, które uzyskały certyfikaty potwierdzające spełnianie zasad Dobrej Praktyki Laboratoryjnej przed dniem wejścia w życie ustawy.
 
 **Art. 88.** Przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 4 ust. 2, art. 24 ust. 2 i 5, art. 26, art. 27 ust. 2, art. 28 ust. 3 i art. 31 ustawy, o której mowa w art. 89, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 15, art. 17 ust. 4, art. 19 ust. 5, art. 20 ust. 11, art. 21 ust. 3, art. 22 ust. 7 i art. 26 niniejszej ustawy,
+- **2)** art. 33c ustawy, o której mowa w art. 89, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27b ust. 6 ustawy, o której mowa w art. 66 , w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 222 § 3 ustawy, o której mowa w art. 65 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 222 § 3 ustawy, o której mowa w art. 65, w brzmieniu nadanym niniejszą ustawą,
+- **4)** art. 27b ust. 4 ustawy, o której mowa w art. 66, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27b ust. 4 ustawy, o której mowa w art. 66, w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 89.** Traci moc ustawa z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. z 2009 r. poz. 1222 oraz z 2010 r. poz. 679 i 1228).
 

@@ -8,12 +8,12 @@ pos: 804
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym W celu szczególnego wyróżnienia obrońców Ojczyzny i zadośćuczynienia za wieloletnie przemilczanie ich zasług, za doznane w okresie powojennym represje i prześladowania oraz za cierpienia związane przymusowym oddaleniem od Ojczyzny – Sejm Rzeczypospolitej Polskiej uchwala, co następuje:
+# o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym W celu szczególnego wyróżnienia obrońców Ojczyzny i zadośćuczynienia za wieloletnie przemilczanie ich zasług, za doznane w okresie powojennym represje i prześladowania oraz za cierpienia związane z przymusowym oddaleniem od Ojczyzny – Sejm Rzeczypospolitej Polskiej uchwala, co następuje:
 
-*USTAWA 24 lipca 1999 r.*
+*USTAWA z dnia 24 lipca 1999 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,7 +29,7 @@ source: "isap-pdf"
 
 **Art. 1.**
 
-1. Żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym mianuje się okazji 60 rocznicy wybuchu II wojny światowej na wyższe stopnie wojskowe.
+1. Żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym mianuje się z okazji 60 rocznicy wybuchu II wojny światowej na wyższe stopnie wojskowe.
 
 2. Żołnierzem w rozumieniu ustawy jest osoba wchodząca w skład:
 
@@ -38,13 +38,16 @@ source: "isap-pdf"
 
 **Art. 2.**
 
-1. Żołnierzy, o których mowa w art. 1, mianuje się na pierwszy stopień oficerski podporucznika lub kolejne stopnie oficerskie do stopnia pułkownika włącznie, tym że:
+1. Żołnierzy, o których mowa w art. 1, mianuje się na pierwszy stopień oficerski podporucznika lub kolejne stopnie oficerskie do stopnia pułkownika włącznie, z tym że:
 
 - **1)** chorążych, podoficerów i szeregowych – mianuje się na pierwszy stopień oficerski podporucznika;
 - **2)** oficerów – mianuje się o jeden stopień;
 - **3)** oficerów, którzy w okresie powojennym nie byli mianowani na wyższe stopnie wojskowe – mianuje się o dwa stopnie.
+
+2. Mianowaniu nie podlegają:
+
 - **1)** żołnierze, którzy w okresie powojennym byli już co najmniej dwukrotnie mianowani na stopnie oficerskie za dokonane czyny świadczące o szczególnym męstwie lub za wyjątkowe zasługi;
-- **2)** osoby wymienione w art. 21 ust. 2 ustawy 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. 2022 r. poz. 2039 oraz 2026 r. poz. 26).
+- **2)** osoby wymienione w art. 21 ust. 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039 oraz z 2026 r. poz. 26).
 
 **Art. 3.**
 
@@ -53,13 +56,15 @@ source: "isap-pdf"
 - **1)** władz naczelnych związków i stowarzyszeń kombatanckich – w odniesieniu do własnych członków;
 - **2)** szefów wojskowych centrów rekrutacji właściwych ze względu na miejsce stałego pobytu żołnierza lub jego czasowego pobytu trwającego ponad trzy miesiące – w odniesieniu do żołnierzy nienależących do żadnej organizacji kombatanckiej;
 - **3)** attachés wojskowych polskich przedstawicielstw dyplomatycznych – w odniesieniu do osób mających obywatelstwo polskie i zamieszkujących za granicą;
-- **4)** zainteresowanego – w przypadku gdy podmioty wymienione w pkt 1–3 nie wystąpiły takim wnioskiem; w tym przypadku wnioski składa się za ich pośrednictwem.
+- **4)** zainteresowanego – w przypadku gdy podmioty wymienione w pkt 1–3 nie wystąpiły z takim wnioskiem; w tym przypadku wnioski składa się za ich pośrednictwem.
 
 2. Wnioski o mianowanie żołnierza składa się do Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych, który po sprawdzeniu, czy odpowiadają one warunkom określonym w ustawie, przedstawia je Ministrowi Obrony Narodowej.
 
-3. Jeżeli wniosek nie zawiera niezbędnych danych, które mogą mieć wpływ na mianowanie na odpowiedni stopień wojskowy, wzywa się wnioskodawcę do uzupełnienia wniosku w terminie 3 miesięcy pod rygorem zwrotu wniosku lub rozpatrzenia go uwzględnieniem wyłącznie danych w nim zawartych.
+3. Jeżeli wniosek nie zawiera niezbędnych danych, które mogą mieć wpływ na mianowanie na odpowiedni stopień wojskowy, wzywa się wnioskodawcę do uzupełnienia wniosku w terminie 3 miesięcy pod rygorem zwrotu wniosku lub rozpatrzenia go z uwzględnieniem wyłącznie danych w nim zawartych.
 
 4. Wzór wniosku o mianowanie żołnierza stanowi załącznik do ustawy.
 
-**Art. 4.** W sprawach nieuregulowanych mają zastosowanie przepisy ustawy 11 marca 2022 r. o obronie Ojczyzny (Dz. U. 2025 r. poz. 825, 1014 i 1080 oraz 2026 r. poz. 26 i 426).
+**Art. 4.** W sprawach nieuregulowanych mają zastosowanie przepisy ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26 i 426).
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 24 (Dz. U. z 2026 r. poz. 563)
 

@@ -8,10 +8,10 @@ pos: 1432
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1432 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 29 czerwca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1432/text.pdf) |
 
-Poz. 1432 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 29 czerwca 2022 r.
-w sprawie płatności uposażenia i innych należności pieniężnych oraz pokrywania przez Siły Zbrojne Rzeczypospolitej Polskiej kosztów pogrzebu żołnierzy niebędących żołnierzami zawodowymi Na podstawie art. 490 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie płatności uposażenia i innych należności pieniężnych oraz pokrywania przez Siły Zbrojne Rzeczypospolitej Polskiej kosztów pogrzebu żołnierzy niebędących żołnierzami zawodowymi Na podstawie art. 490 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) terminy płatności uposażenia, dodatków do uposażenia i innych należności pieniężnych oraz tryb ich wypłacania;
 2) tryb pokrywania przez Siły Zbrojne kosztów pogrzebu żołnierzy niebędących żołnierzami zawodowymi, zwanych dalej „żołnierzami”.
 § 2. Uposażenie zasadnicze wypłaca się żołnierzowi miesięcznie w terminie, o którym mowa w art. 476 ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”.

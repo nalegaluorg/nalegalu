@@ -1,0 +1,242 @@
+---
+title: Ustawa z dnia 27 lipca 2012 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
+address: WDU20120001016
+eli: DU/2012/1016
+publisher: DU
+year: 2012
+pos: 1016
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
+
+*USTAWA z dnia 27 lipca 2012 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2012 poz. 1016 |
+| ISAP | WDU20120001016 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2012-07-27 |
+| Data wydania | 2012-09-13 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1016/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1 pkt 3 otrzymuje brzmienie: „3) inne, niż wymienione w pkt 1 i 2, osoby posiadające obywatelstwo polskie:
+    - **a)** które nie ukończyły 18. roku życia, lub
+    - **b)** posiadające miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, które są w okresie ciąży, porodu lub połogu”;
+
+- **2)** w art. 5 po pkt 32 dodaje się pkt 32a w brzmieniu: „32a) rachunek – fakturę w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054) lub rachunek w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749);”;
+- **3)** w art. 49 uchyla się ust. 8;
+- **4)** w art. 50:
+    - **a)** ust. 2–9 otrzymują brzmienie: „2. Przedstawienie przez świadczeniobiorcę dokumentów, o których mowa w ust. 1, nie jest wymagane, jeżeli zostaną spełnione łącznie następujące warunki:
+
+- **1)** świadczeniobiorca potwierdzi swoją tożsamość poprzez okazanie dowodu osobistego, paszportu, prawa jazdy albo legitymacji szkolnej; legitymacja szkolna może być okazana jedynie przez osobę, która nie ukończyła 18. roku życia;
+- **2)** świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji uzyska potwierdzenie prawa do świadczeń opieki zdrowotnej osoby ubiegającej się o udzielenie świadczenia opieki zdrowotnej w sposób określony w ust. 3.
+
+3. Prawo do świadczeń opieki zdrowotnej może zostać potwierdzone na podstawie dokumentu elektronicznego, o którym mowa w art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm. ), sporządzonego, na podstawie numeru PESEL, przez Fundusz dla świadczeniodawcy lub niebędącej świadczeniodawcą osoby uprawnionej w rozumieniu art. 2 pkt 14 ustawy o refundacji i przesłanego za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm. ) z zapewnieniem integralności i poufności zawartych w nim danych oraz uwierzytelnieniem stron uprawnionych do przetwarzania tych danych.
+
+4. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, warunki, jakie muszą spełniać świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji, występujący do Funduszu o dokument elektroniczny, o którym mowa w ust. 3, mając na uwadze konieczność zapewnienia integralności oraz poufności przetwarzanych danych.
+
+5. Dokument elektroniczny, o którym mowa w ust. 3, zawiera imię i nazwisko oraz numer PESEL świadczeniobiorcy, a także informację, według stanu na dzień sporządzenia dokumentu, o prawie do świadczeń opieki zdrowotnej.
+
+6. W przypadku niepotwierdzenia prawa do świadczeń opieki zdrowotnej w sposób określony w ust. 1 lub 3 świadczeniobiorca po okazaniu dokumentu, o którym mowa w ust. 2 pkt 1, może przedstawić inny dokument potwierdzający prawo do świadczeń opieki zdrowotnej, a jeżeli takiego dokumentu nie posiada, złożyć pisemne oświadczenie o przysługującym mu prawie do świadczeń opieki zdrowotnej.
+
+7. Świadczeniobiorca składający oświadczenie, o którym mowa w ust. 6, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Posiadam prawo do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych.”.
+
+8. Oświadczenie, o którym mowa w ust. 6, zawiera imię i nazwisko, adres zamieszkania, wskazanie podstawy prawa do świadczeń opieki zdrowotnej, numer PESEL oraz wskazanie dokumentu, na podstawie którego świadczeniodawca potwierdził tożsamość świadczeniobiorcy, a w przypadku osób nieposiadających numeru PESEL – dane, o których mowa w art. 188 ust. 4 pkt 9. Świadczeniodawca albo niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji potwierdza podpisem na oświadczeniu dane identyfikujące dokument, na podstawie którego potwierdzono tożsamość.
+
+9. W przypadku świadczeniobiorców małoletnich oraz innych osób nieposiadających pełnej zdolności do czynności prawnych oświadczenie, o którym mowa w ust. 6, składa przedstawiciel ustawowy albo opiekun prawny lub faktyczny w rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159 i 742). Przepisy ust. 7 i 8 stosuje się odpowiednio.”,
+
+- **b)** dodaje się ust. 10–22 w brzmieniu: „10. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w ust. 6 i 9, mając na względzie zapewnienie czytelności oświadczeń.
+
+11. W stanach nagłych lub w przypadku, gdy ze względu na stan zdrowia nie jest możliwe złożenie oświadczenia, o którym mowa w ust. 6, świadczenie opieki zdrowotnej zostaje udzielone pomimo braku potwierdzenia prawa do świadczeń opieki zdrowotnej w sposób wskazany w ust. 1, 3 lub 6. W takim przypadku osoba, której udzielono świadczenia opieki zdrowotnej, jest obowiązana do przedstawienia dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej albo złożenia oświadczenia, o którym mowa w ust. 6, w terminie 14 dni od dnia rozpoczęcia udzielania świadczenia opieki zdrowotnej, a jeżeli świadczenie to jest udzielane w oddziale szpitalnym, w terminie 7 dni od dnia zakończenia udzielania świadczenia opieki zdrowotnej – pod rygorem obciążenia tej osoby kosztami udzielonych jej świadczeń.
+
+12. Późniejsze niż przewidziane terminami określonymi w ust. 11, jednak w okresie nie dłuższym niż 1 rok, licząc od dnia upływu tych terminów, przedstawienie dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej albo złożenie oświadczenia, o którym mowa w ust. 6, nie może stanowić podstawy odmowy przez świadczeniodawcę zwolnienia świadczeniobiorcy z obowiązku poniesienia kosztów udzielonego świadczenia opieki zdrowotnej albo zwrotu tych kosztów.
+
+13. Roszczenia przysługujące na podstawie ust. 11 ulegają przedawnieniu z upływem 5 lat od dnia upływu terminów określonych w ust. 11.
+
+14. W przypadku dzieci do ukończenia 3. miesiąca życia, które nie posiadają numeru PESEL, potwierdzenie, o którym mowa w ust. 3, następuje na podstawie numeru PESEL osoby obowiązanej do zgłoszenia dziecka do ubezpieczenia zdrowotnego.
+
+15. Fundusz nie może odmówić świadczeniodawcy sfinansowania świadczenia opieki zdrowotnej z powodu braku prawa do świadczeń opieki zdrowotnej osoby, która uzyskała to świadczenie, albo żądać od niebędącej świadczeniodawcą osoby uprawnionej w rozumieniu art. 2 pkt 14 ustawy o refundacji zwrotu kosztów świadczenia opieki zdrowotnej poniesionych przez Fundusz pomimo braku prawa do świadczeń opieki zdrowotnej osoby, która uzyskała to świadczenie na podstawie recepty wystawionej przez osobę uprawnioną, jeżeli:
+
+- **1)** w dniu udzielenia tego świadczenia potwierdził, w sposób określony w ust. 3, prawo świadczeniobiorcy do świadczeń opieki zdrowotnej albo świadczeniobiorca ten w tym dniu przedstawił dokument potwierdzający prawo do świadczeń opieki zdrowotnej lub złożył oświadczenie, o którym mowa w ust. 6,
+- **2)** świadczeniobiorca w terminie przedstawił dokument potwierdzający prawo do świadczeń opieki zdrowotnej lub złożył oświadczenie, o którym mowa w ust. 6, w przypadkach określonych w ust. 11 – o ile świadczenie to zostało zrealizowane zgodnie z warunkami umowy o udzielanie świadczeń opieki zdrowotnej zawartej ze świadczeniodawcą albo niebędącą świadczeniodawcą osobą uprawnioną w rozumieniu art. 2 pkt 14 ustawy o refundacji.
+
+16. W przypadku gdy świadczenie opieki zdrowotnej zostało udzielone pomimo braku prawa do świadczeń opieki zdrowotnej w wyniku:
+
+- **1)** posługiwania się kartą ubezpieczenia zdrowotnego albo innym dokumentem potwierdzającym prawo do świadczeń opieki zdrowotnej przez osobę, która utraciła to prawo w okresie ważności karty albo innego dokumentu, albo
+- **2)** złożenia oświadczenia, o którym mowa w ust. 6 – osoba, której udzielono świadczenia opieki zdrowotnej, jest obowiązana do uiszczenia kosztów tego świadczenia.
+
+17. Przepisu ust. 16 pkt 2 nie stosuje się do osoby, która w chwili składania oświadczenia, o którym mowa w ust. 6, działała w usprawiedliwionym błędnym przekonaniu, że posiada prawo do świadczeń opieki zdrowotnej.
+
+18. Koszty świadczeń opieki zdrowotnej udzielonych w przypadkach określonych w ust. 16, które Fundusz poniósł zgodnie z ust. 15, podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji. Dyrektor oddziału wojewódzkiego Funduszu wydaje decyzję administracyjną ustalającą obowiązek poniesienia kosztów i ich wysokość oraz termin płatności. Do postępowania w sprawach o ustalenie poniesienia kosztów stosuje się przepisy Kodeksu postępowania administracyjnego.
+
+19. Od kwoty należności, o których mowa w ust. 18, nalicza się odsetki ustawowe, poczynając od dnia, w którym upłynął termin płatności tych należności.
+
+20. Nie wydaje się decyzji, o której mowa w ust. 18, jeżeli od dnia, w którym zakończono udzielanie świadczenia opieki zdrowotnej, o którym mowa w ust. 15, upłynęło 5 lat.
+
+21. Należności, o których mowa w ust. 18, ulegają przedawnieniu z upływem 5 lat, licząc od dnia, w którym decyzja ustalająca te należności stała się ostateczna.
+
+22. Dyrektor oddziału wojewódzkiego Funduszu może umorzyć w całości albo w części spłatę należności ustalonej w decyzji, o której mowa w ust. 18, lub odroczyć spłatę tej należności, lub rozłożyć ją na raty, stosując odpowiednio zasady określone w art. 56–58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ).”;
+
+- **5)** po art. 50 dodaje się art. 50a w brzmieniu: „Art. 50a. 1. Fundusz ustala podmioty, które powinny ponieść koszty rozliczonego przez Fundusz świadczenia opieki zdrowotnej i obciąża te podmioty kosztami, z uwzględnieniem art. 50 ust. 15 i 16.
+
+2. W przypadku świadczeń opieki zdrowotnej trwających dłużej niż jeden dzień, dla których ustalono więcej niż jeden podmiot, który powinien ponieść koszt rozliczonego świadczenia opieki zdrowotnej, poniesiony przez Fundusz koszt tego świadczenia dzielony jest proporcjonalnie do czasu jego trwania. Przy ustalaniu kosztu tego świadczenia nie stosuje się art. 44 i art. 45 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
+
+3. Należności z tytułu realizacji świadczeń opieki zdrowotnej udzielanych:
+
+- **1)** ubezpieczonym,
+- **2)** osobom uprawnionym do świadczeń na podstawie przepisów o koordynacji,
+- **3)** osobom, o których mowa w art. 2 ust. 1 pkt 2 i 3 oraz art. 12 pkt 2–4, 6 i 9 – świadczeniodawca może przedstawić na jednym rachunku łącznie.”;
+- **6)** w art. 53:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku wydania poświadczenia, o którym mowa w ust. 1, prawo osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji może zostać potwierdzone w sposób określony w art. 50 ust. 3.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Jeżeli poświadczenie albo dokument, o których mowa w ust. 1, nie zostaną przedstawione w przypadku:
+
+- **1)** stanu nagłego,
+- **2)** porodu – przepisy art. 50 ust. 11–15 i 18–22 stosuje się odpowiednio.”;
+- **7)** w art. 67:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Obowiązek ubezpieczenia zdrowotnego uważa się za spełniony po zgłoszeniu do ubezpieczenia zdrowotnego osoby podlegającej temu obowiązkowi zgodnie z przepisami art. 74–76 oraz opłaceniu składki w terminie i na zasadach określonych w ustawie.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przepisu ust. 1 nie stosuje się do osób, o których mowa w art. 66 ust. 1 pkt 8a, oraz członków ich rodzin.”,
+    - **c)** ust. 2 i 3 otrzymują brzmienie: „2. Osoba podlegająca obowiązkowi ubezpieczenia zdrowotnego po zgłoszeniu do ubezpieczenia zdrowotnego uzyskuje prawo do świadczeń opieki zdrowotnej.
+
+3. Osoba podlegająca obowiązkowi ubezpieczenia zdrowotnego ma obowiązek zgłosić do ubezpieczenia zdrowotnego członków rodziny, o których mowa w art. 3 ust. 2 pkt 5 i 6. Osoby, które nie zgłaszają się do ubezpieczenia zdrowotnego same, informują podmiot właściwy do dokonania zgłoszenia do ubezpieczenia zdrowotnego o członkach rodziny podlegających zgłoszeniu do ubezpieczenia zdrowotnego, w terminie 7 dni od dnia zaistnienia okoliczności powodujących konieczność dokonania zgłoszenia. Członkowie rodziny uzyskują prawo do świadczeń opieki zdrowotnej od dnia zgłoszenia do ubezpieczenia zdrowotnego.”,
+
+- **d)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku członków rodziny do objęcia ubezpieczeniem zdrowotnym wystarczy zgłoszenie do ubezpieczenia zdrowotnego przez jedną osobę podlegającą obowiązkowi ubezpieczenia zdrowotnego, z tym że wnuki mogą zostać zgłoszone tylko w przypadku, gdy żaden z rodziców nie podlega obowiązkowi ubezpieczenia zdrowotnego na podstawie art. 66 ust. 1 lub nie jest osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji z tytułu wykonywania pracy lub pracy na własny rachunek albo ubezpieczeniu dobrowolnemu.”,
+- **e)** ust. 5 otrzymuje brzmienie: „5. Prawo do świadczeń opieki zdrowotnej dla osób, które ukończyły szkołę:
+- **1)** ponadgimnazjalną – wygasa po upływie 6 miesięcy od dnia zakończenia nauki albo skreślenia z listy uczniów;
+- **2)** wyższą – wygasa po upływie 4 miesięcy od dnia zakończenia nauki albo skreślenia z listy studentów.”;
+- **8)** w art. 68 ust. 3 otrzymuje brzmienie: „3. Osoba, o której mowa w ust. 1, jest obowiązana zgłosić do Funduszu członków rodziny, o których mowa w art. 3 ust. 2 pkt 5 i 6, w terminie 7 dni od dnia określonego w umowie, o której mowa w ust. 5, lub od dnia zaistnienia okoliczności powodujących konieczność dokonania zgłoszenia.”;
+- **9)** art. 74 otrzymuje brzmienie: „Art. 74. 1. Do ubezpieczenia zdrowotnego osób objętych ubezpieczeniami społecznymi lub ubezpieczeniem społecznym rolników, osób wymienionych w art. 75 i art. 76 oraz członków ich rodzin stosuje się odpowiednio przepisy dotyczące zasad, trybu i terminu zgłaszania do ubezpieczeń społecznych lub do ubezpieczenia społecznego rolników oraz wyrejestrowywania z tych ubezpieczeń, z zastrzeżeniem art. 75 ust. 1–2a, art. 77 i art. 86 ust. 6.
+
+2. Do ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 2–8 i 8b–15 oraz członków ich rodzin, stosuje się odpowiednio przepisy dotyczące zasad, trybu i terminu zgłaszania do ubezpieczeń społecznych oraz wyrejestrowywania z tych ubezpieczeń, z zastrzeżeniem art. 77.”;
+
+- **10)** w art. 75 ust. 16 otrzymuje brzmienie: „16. Osoby, o których mowa w art. 66 ust. 1 pkt 34, do ubezpieczenia zdrowotnego zgłaszają się same za pośrednictwem Kasy Rolniczego Ubezpieczenia Społecznego. Osoby te są obowiązane niezwłocznie złożyć w Kasie Rolniczego Ubezpieczenia Społecznego zgłoszenie do ubezpieczenia zdrowotnego.”;
+- **11)** po art. 76 dodaje się art. 76a w brzmieniu: „Art. 76a. 1. Osoba, w stosunku do której wygasł tytuł do objęcia ubezpieczeniem zdrowotnym, podlega wyrejestrowaniu z tego tytułu wraz z członkami rodziny.
+
+2. Osoba podlegająca obowiązkowi ubezpieczenia zdrowotnego, która zgłosiła do Funduszu członków rodziny, jest obowiązana poinformować podmiot właściwy do dokonania wyrejestrowania o okolicznościach powodujących konieczność ich wyrejestrowania z ubezpieczenia zdrowotnego, w terminie 7 dni od dnia zaistnienia tych okoliczności.
+
+3. Wyrejestrowania z ubezpieczenia zdrowotnego dokonuje podmiot właściwy do dokonania zgłoszenia.”;
+
+- **12)** w art. 77: 66 ust. 1 pkt 8a, oraz członków ich rodzin kierowane są do centrali Funduszu.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zgłoszenia do ubezpieczenia zdrowotnego oraz zgłoszenia o wyrejestrowaniu z ubezpieczenia zdrowotnego, o których mowa w art. 74– 76a, są kierowane do Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zgłoszenia do ubezpieczenia zdrowotnego oraz zgłoszenia o wyrejestrowaniu z ubezpieczenia zdrowotnego osób, o których mowa w art.
+
+- **13)** w art. 87: 188 ust. 4 pkt 1, 7–9 i 13, oraz o opłaconych za nich składkach na ubezpieczenie zdrowotne, przekazane w zgłoszeniu, o którym mowa w art. 77 ust. 1 i 3, i w imiennym raporcie miesięcznym, oraz o odsetkach za zwłokę, w terminie 15 dni roboczych od dnia wpływu składek i odsetek oraz dokumentów umożliwiających ustalenie ich wysokości i rozdzielenie ich na ubezpieczonych.
+    - **a)** w ust. 4: – pkt 1 otrzymuje brzmienie: „1) osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c – i, pkt 2–8, 8b–33 i 35 oraz w art. 68 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych, z zastrzeżeniem pkt 2;”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) osób wymienionych w art. 66 ust. 1 pkt 8a są opłacane i ewidencjonowane w centrali Funduszu;”,
+    - **b)** ust. 7 i 8 otrzymują brzmienie: „7. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, przekazują nieodpłatnie do centrali Funduszu lub – na jego wniosek – do oddziału wojewódzkiego Funduszu, dane o ubezpieczonych oraz zgłoszonych do ubezpieczenia zdrowotnego członkach rodzin ubezpieczonych, określone w art.
+
+8. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, przekazują nieodpłatnie centrali Funduszu lub oddziałowi wojewódzkiemu Funduszu, na ich wniosek, dane związane z:
+
+- **1)** ustaleniem właściwego ustawodawstwa niezbędnego do potwierdzania prawa do świadczeń opieki zdrowotnej zgodnie z przepisami o koordynacji;
+- **2)** potwierdzaniem prawa do świadczeń opieki zdrowotnej z tytułu wypadku przy pracy lub choroby zawodowej w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) zgodnie z przepisami o koordynacji, dotyczące:
+    - **a)** stwierdzonego naruszenia sprawności organizmu w wyniku wypadku przy pracy,
+    - **b)** nazwy, rodzaju lub kategorii choroby zawodowej oraz stwierdzonego naruszenia sprawności organizmu w wyniku tej choroby,
+    - **c)** wypłacenia zasiłku chorobowego i świadczenia rehabilitacyjnego z tytułu wypadku przy pracy oraz przyznania renty z tytułu niezdolności do pracy w związku z wypadkiem przy pracy, a także okresu, za który zostały wypłacone,
+    - **d)** uznania zdarzenia przez Zakład Ubezpieczeń Społecznych lub Kasę Rolniczego Ubezpieczenia Społecznego za wypadek przy pracy.”,
+    - **c)** po ust. 9 dodaje się ust. 9a w brzmieniu: „9a. W przypadku gdy Fundusz na podstawie danych otrzymanych z Zakładu Ubezpieczeń Społecznych i Kasy Rolniczego Ubezpieczenia Społecznego stwierdzi, że osoba podlega w tym samym czasie obowiązkowi ubezpieczenia zdrowotnego zarówno z tytułu objęcia ubezpieczeniami społecznymi oraz ubezpieczeniem społecznym rolników, przekazuje tę informację do Kasy Rolniczego Ubezpieczenia Społecznego.”,
+    - **d)** po ust.10b dodaje się ust. 10c–10g w brzmieniu: „10c. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, przekazują do centrali Funduszu odpowiednio dane dotyczące wszystkich osób pobierających zasiłki, o których mowa w art. 67 ust. 6, i wszystkich osób, które złożyły wniosek o emeryturę lub rentę, o których mowa w art. 67 ust. 7, z zastrzeżeniem ust. 10f, oraz o pracownikach korzystających z urlopu bezpłatnego.
+
+10d. Zakres danych dotyczących wszystkich osób pobierających zasiłki, o których mowa w art. 67 ust. 6, i wszystkich osób, które złożyły wniosek o emeryturę lub rentę, o których mowa w art. 67 ust. 7, obejmuje dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, tytuł uprawnienia oraz datę odpowiednio rozpoczęcia i zakończenia pobierania zasiłku albo datę zgłoszenia wniosku o emeryturę lub rentę.
+
+10e. Zakres danych dotyczących pracowników korzystających z urlopu bezpłatnego obejmuje dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, oraz datę rozpoczęcia i zakończenia urlopu bezpłatnego.
+
+10f. Organ emerytalny właściwy zgodnie z przepisami ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm. ) oraz ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm. ) wydaje osobie, która złożyła wniosek o emeryturę lub rentę, zaświadczenie potwierdzające złożenie wniosku oraz przekazuje niezwłocznie kopię tego zaświadczenia oddziałowi wojewódzkiemu Funduszu właściwemu ze względu na miejsce zamieszkania tej osoby.
+
+10g. Zaświadczenie, o którym mowa w ust. 10f, zawiera dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, tytuł uprawnienia oraz datę zgłoszenia wniosku o emeryturę lub rentę.”,
+
+- **e)** ust. 11 otrzymuje brzmienie: „11. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego, po zasięgnięciu opinii Prezesa Funduszu, Prezesa Zakładu Ubezpieczeń Społecznych i Prezesa Kasy Rolniczego Ubezpieczenia Społecznego, określi, w drodze rozporządzenia, szczegółowy zakres oraz sposób przekazywania do centrali Funduszu i oddziału wojewódzkiego Funduszu przez Zakład Ubezpieczeń Społecznych, Kasę Rolniczego Ubezpieczenia Społecznego i podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, danych dotyczących osób objętych ubezpieczeniem zdrowotnym i płatników składek oraz osób, o których mowa w ust. 10c – 10e, uwzględniając konieczność zapewnienia poufności i integralności przekazywanych danych.”;
+- **14)** art. 89 otrzymuje brzmienie: „Art. 89. Od kwoty nieprzekazanych w terminie przez Zakład Ubezpieczeń Społecznych, Kasę Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, składek na ubezpieczenie zdrowotne wraz z należnymi odsetkami Fundusz pobiera odsetki za zwłokę na zasadach i w wysokości określonych dla zaległości podatkowych.”;
+- **15)** w art. 90 dodaje się ust. 5 w brzmieniu: „5. Przepisów ust. 1–4 nie stosuje się do podmiotu zobowiązanego do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a.”;
+- **16)** art. 92 otrzymuje brzmienie: „Art. 92. Rada Ministrów określi, w drodze rozporządzenia, odrębny sposób:
+- **1)** ubezpieczania w stosunku do osób, o których mowa w art. 66 ust. 1 pkt 5–8 i 8b–13, które ze względu na wymogi obronności lub bezpieczeństwa państwa zostały oddelegowane do wykonywania pracy lub wyznaczone do pełnienia służby poza macierzystą jednostką,
+- **2)** zgłaszania i wyrejestrowywania z ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 8a, i członków ich rodzin, oraz przekazywania składek na ubezpieczenie zdrowotne – mając na uwadze względy obronności państwa.”;
+- **17)** w art. 97 ust. 4 otrzymuje brzmienie: „4. Fundusz prowadzi Centralny Wykaz Ubezpieczonych w celu:
+- **1)** potwierdzenia prawa do świadczeń z ubezpieczenia zdrowotnego;
+- **2)** przetwarzania danych o ubezpieczonych w Funduszu;
+- **3)** przetwarzania danych o osobach uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
+- **4)** przetwarzania danych o osobach innych niż ubezpieczeni uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów ustawy;
+- **5)** wydawania poświadczeń i zaświadczeń w zakresie swojej działalności;
+- **6)** rozliczania kosztów świadczeń opieki zdrowotnej, w tym udzielanych na podstawie przepisów o koordynacji.”;
+- **18)** w art. 102 w ust. 5 po pkt 24 dodaje się pkt 24a w brzmieniu: „24a) rozpatrywanie odwołań od decyzji administracyjnych, o których mowa w art. 50 ust. 18;”;
+- **19)** w art. 107 w ust. 5 w pkt 22 kropkę zastępuje się średnikiem i dodaje pkt 23 w brzmieniu: „23) wydawanie decyzji administracyjnych, o których mowa w art. 50 ust. 18.”;
+- **20)** w art. 109 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku gdy wnioskodawcą jest Zakład Ubezpieczeń Społecznych albo Kasa Rolniczego Ubezpieczenia Społecznego, do wniosku, o którym mowa w ust. 3, wnioskodawca dołącza kopie posiadanych dokumentów i informacje uzasadniające treść żądania.”;
+- **21)** w dziale VIa art. 161b oznacza się jako art. 161ba;
+- **22)** w art. 161e w ust. 1 wyrazy „art. 161b ust. 1 i 2” zastępuje się wyrazami „art. 161ba ust. 1 i 2”;
+- **23)** w art. 188:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) stwierdzenia istnienia ubezpieczenia zdrowotnego oraz prawa do świadczeń opieki zdrowotnej finansowanych przez Fundusz;”, – w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu: „9) identyfikacji płatnika składek na ubezpieczenie zdrowotne.”,
+    - **b)** w ust. 4: – po pkt 11 dodaje się pkt 11a i 11b w brzmieniu: „11a) adres zameldowania;
+
+- **11b)** adres do korespondencji i inne dane pozwalające na skontaktowanie się z osobą, której dane Fundusz przetwarza w Centralnym Wykazie Ubezpieczonych;”, – pkt 14 otrzymuje brzmienie: „14) stopień niepełnosprawności;”, – po pkt 22 dodaje się pkt 22a–22c w brzmieniu: „22a) kod tytułu ubezpieczenia;
+- **22b)** data powstania obowiązku ubezpieczenia zdrowotnego;
+- **22c)** data wypełnienia zgłoszenia do ubezpieczenia zdrowotnego;”, – po pkt 23 dodaje się pkt 23a w brzmieniu: „23a) data wygaśnięcia obowiązku ubezpieczenia zdrowotnego;”, – pkt 24 otrzymuje brzmienie: „24) okres, za który opłacono składkę na ubezpieczenie zdrowotne, oraz dane dotyczące opłaconych, nieopłaconych, nieopłaconych w terminie i należnych składek na ubezpieczenie zdrowotne wraz ze wskazaniem okresu, jakiego dotyczą;”, – w pkt 27 kropkę zastępuje się średnikiem i dodaje pkt 28–33 w brzmieniu: „28) dane dotyczące wypadków przy pracy i chorób zawodowych, będące w posiadaniu ubezpieczonego, jego pracodawcy lub Zakładu Ubezpieczeń Społecznych;
+- **29)** informacje, określające ustawodawstwo właściwe zgodnie z przepisami o koordynacji, będące w posiadaniu ubezpieczonego, jego pracodawcy, Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego;
+- **30)** dane o przychodach z tytułów rodzących obowiązek ubezpieczenia zdrowotnego;
+- **31)** okres uprawnień wynikających z art. 67 ust. 6 i 7;
+- **32)** informacje, czy członek rodziny pozostaje we wspólnym gospodarstwie domowym;
+- **33)** kod przyczyny wyrejestrowania z tytułu ubezpieczenia zdrowotnego.”;
+- **24)** art. 192 otrzymuje brzmienie: „Art. 192. 1. Fundusz na żądanie świadczeniobiorcy informuje go o:
+- **1)** posiadanym w danym dniu prawie do świadczeń opieki zdrowotnej oraz podstawie tego prawa, a w przypadku gdy prawo do świadczeń opieki zdrowotnej wynika z objęcia ubezpieczeniem zdrowotnym, także o dacie zgłoszenia do ubezpieczenia zdrowotnego oraz numerach NIP i REGON płatnika ubezpieczenia zdrowotnego – na podstawie informacji przetwarzanych w Centralnym Wykazie Ubezpieczonych;
+- **2)** udzielonych mu świadczeniach opieki zdrowotnej oraz kwocie środków publicznych wydatkowanych na sfinansowanie tych świadczeń.
+
+2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, sposób, tryb i terminy występowania do Funduszu oraz udostępniania przez Fundusz informacji, o których mowa w ust. 1, mając na uwadze zakres informacji, o jaką występuje świadczeniobiorca, konieczność zapewnienia właściwej identyfikacji i uwierzytelniania świadczeniobiorcy oraz ochrony danych osobowych przed nieuprawnionym dostępem lub ujawnieniem.”;
+
+- **25)** w art. 193:
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) nie dokonuje w terminie zgłoszenia do ubezpieczenia zdrowotnego lub wyrejestrowania z ubezpieczenia zdrowotnego,”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) będąc ubezpieczonym, nie informuje podmiotu właściwego do dokonania zgłoszenia do ubezpieczenia zdrowotnego o okolicznościach powodujących konieczność zgłoszenia lub wyrejestrowania członka rodziny,”.
+
+**Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 87 ust. 11 oraz art. 92 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 87 ust. 11 oraz art. 92 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 3.**
+
+1. Podmioty właściwe do dokonania wyrejestrowania z ubezpieczenia zdrowotnego, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, w trybie i na zasadach dotychczasowych, wyrejestrują z ubezpieczenia zdrowotnego osoby, wobec których do dnia wejścia w życie niniejszej ustawy wygasł obowiązek ubezpieczenia zdrowotnego.
+
+2. W odniesieniu do podmiotów, o których mowa w ust. 1, przepisu art. 193 pkt 1a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się.
+
+**Art. 4.** Roszczenia powstałe przed dniem wejścia w życie niniejszej ustawy na podstawie art. 50 ust. 4 i 5 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, ulegają przedawnieniu z upływem 5 lat od dnia, w którym stały się wymagalne.
+
+**Art. 5.**
+
+1. W latach 2013–2022 maksymalny limit kosztów wynagrodzeń Narodowego Funduszu Zdrowia wraz z opłacanymi przez pracodawcę składkami na ubezpieczenie społeczne i Fundusz Pracy z tytułu realizacji zadań, o których mowa w art. 50 ust. 18 oraz art. 50 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, wynosi 55 859 tys. zł, z tym że w poszczególnych latach limit wynosi:
+
+- **1)** 2013 r. – 7 514 tys. zł;
+- **2)** 2014 r. – 7 702 tys. zł;
+- **3)** 2015 r. – 7 895 tys. zł;
+- **4)** 2016 r. – 5 665 tys. zł;
+- **5)** 2017 r. – 5 226 tys. zł;
+- **6)** 2018 r. – 4 816 tys. zł;
+- **7)** 2019 r. – 4 438 tys. zł;
+- **8)** 2020 r. – 4 317 tys. zł;
+- **9)** 2021 r. – 4 200 tys. zł;
+- **10)** 2022 r. – 4 086 tys. zł.
+
+2. W latach 2013–2022 maksymalny limit wydatków budżetu państwa na finansowanie w urzędach skarbowych wynagrodzeń wraz z opłacanymi przez pracodawcę składkami na ubezpieczenie społeczne i Fundusz Pracy z tytułu realizacji zadań, o których mowa w art. 50 ust. 18 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, wynosi 20 856 tys. zł, z tym że w poszczególnych latach limit wynosi:
+
+- **1)** 2013 r. – 2 806 tys. zł;
+- **2)** 2014 r. – 2 876 tys. zł;
+- **3)** 2015 r. – 2 948 tys. zł;
+- **4)** 2016 r. – 2 115 tys. zł;
+- **5)** 2017 r. – 1 951 tys. zł;
+- **6)** 2018 r. – 1 798 tys. zł;
+- **7)** 2019 r. – 1 657 tys. zł;
+- **8)** 2020 r. – 1 612 tys. zł;
+- **9)** 2021 r. – 1 568 tys. zł;
+- **10)** 2022 r. – 1 525 tys. zł.
+
+3. Prezes Narodowego Funduszu Zdrowia monitoruje wykorzystanie rocznych limitów kosztów, o których mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 5 i 6.
+
+4. Minister właściwy do spraw finansów publicznych monitoruje wykorzystanie rocznych limitów wydatków, o których mowa w ust. 2, oraz wdraża mechanizmy korygujące, o których mowa w ust. 5 i 6.
+
+5. W przypadku gdy wielkość odpowiednio kosztów albo wydatków, o których mowa w ust. 1 i 2, po pierwszym półroczu danego roku wyniesie więcej niż 65% limitów przewidzianych na ten rok, wielkość kosztów albo wydatków obniża się w czwartym kwartale o kwotę stanowiącą różnicę pomiędzy wielkością tego limitu a kwotą przekroczenia.
+
+6. W przypadku gdy w drugim półroczu zostanie przekroczony limit odpowiednio kosztów albo wydatków, o których mowa w ust. 1 i 2, przewidzianych na dany rok, w następnym roku limit kosztów albo wydatków określonych na ten rok obniża się o kwotę przekroczenia w poprzednim roku.
+
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.
+

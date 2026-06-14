@@ -8,7 +8,7 @@ pos: 206
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wojewodzie i administracji rządowej w województwie
@@ -33,7 +33,18 @@ Art. 65–77. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zakres działania oraz zasady funkcjonowania wojewody;
+- **2)** tryb powoływania i odwoływania wojewody;
+- **3)** organizację rządowej administracji zespolonej w województwie i niezespolonej administracji rządowej.
+
 **Art. 2.** Zadania administracji rządowej w województwie wykonują:
+
+- **1)** wojewoda;
+- **2)** organy rządowej administracji zespolonej w województwie, w tym kierownicy zespolonych służb, inspekcji i straży;
+- **3)** organy niezespolonej administracji rządowej;
+- **4)** jednostki samorządu terytorialnego i ich związki, jeżeli wykonywanie przez nie zadań administracji rządowej wynika z odrębnych ustaw lub z zawartego porozumienia;
+- **5)** starosta, jeżeli wykonywanie przez niego zadań administracji rządowej wynika z odrębnych ustaw;
+- **6)** inne podmioty, jeżeli wykonywanie przez nie zadań administracji rządowej wynika z odrębnych ustaw.
 
 **Art. 3.**
 
@@ -63,6 +74,11 @@ Art. 65–77. (pominięte)
 3. Zadania i kompetencje wojewody w stanach nadzwyczajnych określają odrębne ustawy.
 
 **Art. 4.** Odrębne ustawy określają:
+
+- **1)** zasadniczy podział terytorialny państwa;
+- **2)** nazwę województwa i nazwę urzędu wojewody oraz jego siedzibę;
+- **3)** zasady i tryb ustalania granic województw oraz dokonywania ich zmian;
+- **4)** zasady ustalania niepokrywających się z zasadniczym podziałem terytorialnym państwa podziałów terytorialnych w celu wykonywania zadań niezespolonej administracji rządowej.
 
 **Art. 5.** Zasady organizacji, funkcjonowania i zakres zadań organów rządowej administracji zespolonej w województwie oraz organów niezespolonej administracji rządowej określają odrębne ustawy.
 
@@ -168,6 +184,14 @@ Art. 65–77. (pominięte)
 
 **Art. 22.** Wojewoda odpowiada za wykonywanie polityki Rady Ministrów w województwie, a w szczególności:
 
+- **1)** dostosowuje do miejscowych warunków cele polityki Rady Ministrów oraz, w zakresie i na zasadach określonych w odrębnych ustawach, koordynuje i kontroluje wykonanie wynikających stąd zadań;
+- **2)** zapewnia współdziałanie wszystkich organów administracji rządowej i samorządowej działających w województwie i kieruje ich działalnością w zakresie zapobiegania zagrożeniu życia, zdrowia lub mienia oraz zagrożeniom środowiska, bezpieczeństwa państwa i utrzymania porządku publicznego, ochrony praw obywatelskich, a także zapobiegania klęskom żywiołowym i innym nadzwyczajnym zagrożeniom oraz zwalczania i usuwania ich skutków, na zasadach określonych w odrębnych ustawach;
+- **3)** dokonuje oceny stanu zabezpieczenia przeciwpowodziowego województwa, opracowuje plan operacyjny ochrony przed powodzią oraz ogłasza i odwołuje pogotowie i alarm przeciwpowodziowy;
+- **3a)** wykonuje zadania organu ochrony ludności i obrony cywilnej określone w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
+- **4)** wykonuje i koordynuje zadania w zakresie obronności i bezpieczeństwa państwa oraz zarządzania kryzysowego, wynikające z odrębnych ustaw;
+- **5)** przedstawia Radzie Ministrów, za pośrednictwem ministra właściwego do spraw administracji publicznej, projekty dokumentów rządowych w sprawach dotyczących województwa;
+- **6)** wykonuje inne zadania określone w odrębnych ustawach oraz ustalone przez Radę Ministrów i Prezesa Rady Ministrów.
+
 **Art. 23.**
 
 1. Wojewoda:
@@ -226,6 +250,11 @@ Art. 65–77. (pominięte)
 #### Rozdział 4 Rządowa administracja zespolona w województwie
 
 **Art. 51.** Wojewoda jako zwierzchnik rządowej administracji zespolonej w województwie:
+
+- **1)** kieruje nią i koordynuje jej działalność;
+- **2)** kontroluje jej działalność;
+- **3)** zapewnia warunki skutecznego jej działania;
+- **4)** ponosi odpowiedzialność za rezultaty jej działania.
 
 **Art. 52.** Tryb powoływania i odwoływania organów rządowej administracji zespolonej w województwie określają odrębne ustawy.
 

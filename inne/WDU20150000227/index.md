@@ -8,7 +8,7 @@ pos: 227
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 12/2/A/2015 WYROK z dnia 10 lutego 2015 r.

@@ -8,10 +8,10 @@ pos: 616
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 616 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 19 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/616/text.pdf) |
 
-Poz. 616 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 19 kwietnia 2024 r.
-w sprawie świadczenia pieniężnego dla żołnierzy pełniących terytorialną służbę wojskową, żołnierzy aktywnej rezerwy i żołnierzy pasywnej rezerwy Na podstawie art. 312 ust. 11 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb ustalania i wypłacania żołnierzom obrony terytorialnej, zwanym dalej „żołnierzami OT”, którzy pełnili terytorialną służbę wojskową rotacyjnie, żołnierzom aktywnej rezerwy, zwanym dalej „żołnierzami AR”, oraz żołnierzom pasywnej rezerwy, zwanym dalej „żołnierzami PR”, świadczenia pieniężnego rekompensującego utracone wynagrodzenie ze stosunku pracy lub stosunku służbowego albo dochód lub przychód dla żołnierzy rozliczających ryczałt od przychodów ewidencjonowanych z prowadzonej działalności gospodarczej lub rolniczej, które mogliby uzyskać w okresie pełnienia czynnej służby wojskowej, zwanego dalej „świadczeniem pieniężnym”.
+w sprawie świadczenia pieniężnego dla żołnierzy pełniących terytorialną służbę wojskową, żołnierzy aktywnej rezerwy i żołnierzy pasywnej rezerwy Na podstawie art. 312 ust. 11 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb ustalania i wypłacania żołnierzom obrony terytorialnej, zwanym dalej „żołnierzami OT”, którzy pełnili terytorialną służbę wojskową rotacyjnie, żołnierzom aktywnej rezerwy, zwanym dalej „żołnierzami AR”, oraz żołnierzom pasywnej rezerwy, zwanym dalej „żołnierzami PR”, świadczenia pieniężnego rekompensującego utracone wynagrodzenie ze stosunku pracy lub stosunku służbowego albo dochód lub przychód dla żołnierzy rozliczających ryczałt od przychodów ewidencjonowanych z prowadzonej działalności gospodarczej lub rolniczej, które mogliby uzyskać w okresie pełnienia czynnej służby wojskowej, zwanego dalej „świadczeniem pieniężnym”.
 § 2. Czas:
 1) pełnienia przez żołnierzy OT terytorialnej służby wojskowej rotacyjnie,
 2) pełnienia przez żołnierzy AR służby w rezerwie aktywnej,
@@ -37,7 +37,7 @@ w sprawie świadczenia pieniężnego dla żołnierzy pełniących terytorialną 
 3) kwota uzyskana z pomnożenia liczby hektarów przeliczeniowych, w rozumieniu ustawy z dnia 15 listopada 1984 r.
 o podatku rolnym (Dz. U. z 2020 r. poz. 333 oraz z 2023 r. poz. 1450), gospodarstwa rolnego, w którym żołnierz prowadzi działalność rolniczą, przez miesięczną wysokość przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego ogłoszoną na podstawie art. 18 tej ustawy; w przypadku współwłasności gospodarstwa rolnego dochód z pracy współwłaściciela liczy się zgodnie z jego udziałem we współwłasności.
 2. W przypadku gdy okresy pozostawania w stosunku pracy lub stosunku służbowym albo prowadzenia działalności gospodarczej są krótsze niż okresy, o których mowa w ust. 1 pkt 1 lub 2, podstawę wymiaru świadczenia pieniężnego ustala się proporcjonalnie.
-Dziennik Ustaw – 2 – Poz. 616 § 4. 1. Na wniosek żołnierza, zawierający imię, nazwisko i numer PESEL:
+§ 4. 1. Na wniosek żołnierza, zawierający imię, nazwisko i numer PESEL:
 1) pracodawca – w przypadku żołnierza pozostającego w stosunku pracy lub w stosunku służbowym,
 2) naczelnik urzędu skarbowego – w przypadku żołnierza prowadzącego działalność gospodarczą,
 3) wójt, burmistrz lub prezydent miasta – w przypadku żołnierza prowadzącego działalność rolniczą – wydaje temu żołnierzowi zaświadczenie, w którym podaje jego imię, nazwisko i numer PESEL oraz wysokość kwot, o których mowa w § 3 ust 1.

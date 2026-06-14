@@ -8,12 +8,10 @@ pos: 1611
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o obywatelstwie polskim
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -55,6 +53,11 @@ o obywatelstwie polskim
 
 **Art. 4.** Obywatelstwo polskie nabywa się:
 
+- **1)** z mocy prawa;
+- **2)** przez nadanie obywatelstwa polskiego;
+- **3)** przez uznanie za obywatela polskiego;
+- **4)** przez przywrócenie obywatelstwa polskiego.
+
 **Art. 5.** Zawarcie związku małżeńskiego przez obywatela polskiego z osobą niebędącą obywatelem polskim nie powoduje zmian w obywatelstwie małżonków.
 
 **Art. 6.**
@@ -76,11 +79,17 @@ o obywatelstwie polskim
 
 **Art. 9.** Oświadczenia, o których mowa w ustawie, w sprawach związanych z nabyciem lub utratą obywatelstwa polskiego, składa się:
 
+- **1)** osobiście do protokołu przed:
+    - **a)** wojewodą właściwym ze względu na miejsce zamieszkania − od obywatela polskiego zamieszkałego na terytorium Rzeczypospolitej Polskiej oraz od cudzoziemca przebywającego legalnie na terytorium Rzeczypospolitej Polskiej, z wyłączeniem pobytu na podstawie wizy lub w ruchu bezwizowym,
+    - **b)** konsulem − od osoby zamieszkałej za granicą;
+
+- **2)** korespondencyjnie z podpisem urzędowo poświadczonym.
+
 **Art. 10.**
 
-1. W sprawach o nadanie obywatelstwa polskiego i wyrażenie zgody na zrzeczenie się obywatelstwa polskiego nie stosuje się, z zastrzeżeniem art. 28 ust. 5 i art. 53, przepisów Kodeksu postępowania administracyjnego oraz przepisów ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769).
+1. W sprawach o nadanie obywatelstwa polskiego i wyrażenie zgody na zrzeczenie się obywatelstwa polskiego nie stosuje się, z zastrzeżeniem art. 28 ust. 5 i art. 53, przepisów Kodeksu postępowania administracyjnego oraz przepisów ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769).
 
-2. W sprawach uregulowanych w ustawie należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171), o ile przepisy szczególne nie stanowią inaczej.
+2. W sprawach uregulowanych w ustawie należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171), o ile przepisy szczególne nie stanowią inaczej.
 
 3. W sprawach innych niż wymienione w ust. 1 i 2 stosuje się przepisy Kodeksu postępowania administracyjnego, o ile ustawa nie stanowi inaczej.
 
@@ -114,6 +123,9 @@ o obywatelstwie polskim
 #### Rozdział 2 Nabycie obywatelstwa polskiego z mocy prawa
 
 **Art. 14.** Małoletni nabywa obywatelstwo polskie przez urodzenie, w przypadku gdy:
+
+- **1)** co najmniej jedno z rodziców jest obywatelem polskim;
+- **2)** urodził się na terytorium Rzeczypospolitej Polskiej, a jego rodzice są nieznani, nie posiadają żadnego obywatelstwa lub ich obywatelstwo jest nieokreślone.
 
 **Art. 15.** Małoletni nabywa obywatelstwo polskie, gdy został znaleziony na terytorium Rzeczypospolitej Polskiej, a jego rodzice są nieznani.
 
@@ -220,7 +232,7 @@ o obywatelstwie polskim
 
 1. Szef Kancelarii Prezydenta Rzeczypospolitej przekazuje, w celu doręczenia wnioskodawcy, akty nadania obywatelstwa polskiego i zawiadomienia o odmowie nadania obywatelstwa polskiego:
 
-- **1)** ministrowi właściwemu do spraw zagranicznych jeżeli akt nadania obywatelstwa polskiego albo zawiadomienie o odmowie nadania obywatelstwa polskiego dotyczy cudzoziemca, którego wniosek o nadanie obywatelstwa polskiego został złożony za pośrednictwem konsula;
+- **1)** ministrowi właściwemu do spraw zagranicznych – jeżeli akt nadania obywatelstwa polskiego albo zawiadomienie o odmowie nadania obywatelstwa polskiego dotyczy cudzoziemca, którego wniosek o nadanie obywatelstwa polskiego został złożony za pośrednictwem konsula;
 - **2)** wojewodzie, który przyjął wniosek o nadanie obywatelstwa polskiego.
 
 2. Minister właściwy do spraw zagranicznych, za pośrednictwem konsula, który przyjął wniosek o nadanie obywatelstwa polskiego, informuje niezwłocznie wnioskodawcę o nadaniu obywatelstwa polskiego albo o odmowie nadania obywatelstwa polskiego. Informacja może być przekazana przy pomocy urządzeń umożliwiających odczyt i zapis znaków pisma na nośniku papierowym lub za pośrednictwem sieci telekomunikacyjnych.
@@ -261,15 +273,18 @@ o obywatelstwie polskim
 
 2. Cudzoziemiec ubiegający się o uznanie za obywatela polskiego, z wyłączeniem cudzoziemca, o którym mowa w ust. 1 pkt 4 i 5, jest obowiązany posiadać znajomość języka polskiego potwierdzoną urzędowym poświadczeniem, o którym mowa w art. 11a ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556 oraz z 2025 r. poz. 622), na poziomie biegłości językowej co najmniej B1, świadectwem ukończenia szkoły w Rzeczypospolitej Polskiej lub świadectwem ukończenia szkoły za granicą z wykładowym językiem polskim.
 
-2a. Znajomości języka polskiego, o której mowa w ust. 2, nie potwierdza świadectwo ukończenia szkoły policealnej, o której mowa w art. 18 ust. 1 pkt 2 lit. f ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160).
+2a. Znajomości języka polskiego, o której mowa w ust. 2, nie potwierdza świadectwo ukończenia szkoły policealnej, o której mowa w art. 18 ust. 1 pkt 2 lit. f ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160).
 
 3. Do ustalenia, czy cudzoziemiec przebywa nieprzerwanie na terytorium Rzeczypospolitej Polskiej, stosuje się przepis art. 195 ust. 4 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079).
 
 **Art. 31.** Cudzoziemcowi odmawia się uznania za obywatela polskiego, w przypadku gdy:
 
+- **1)** nie spełnia wymogów, o których mowa w art. 30;
+- **2)** nabycie przez niego obywatelstwa polskiego stanowi zagrożenie dla obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego.
+
 **Art. 32.**
 
-1. Uznanie cudzoziemca za obywatela polskiego następuje na jego wniosek, a w przypadku małoletniego cudzoziemca na wniosek jego przedstawicieli ustawowych.
+1. Uznanie cudzoziemca za obywatela polskiego następuje na jego wniosek, a w przypadku małoletniego cudzoziemca – na wniosek jego przedstawicieli ustawowych.
 
 2. W przypadku braku porozumienia między przedstawicielami ustawowymi każdy z nich może zwrócić się o rozstrzygnięcie do sądu.
 
@@ -330,7 +345,7 @@ o obywatelstwie polskim
 
 - **1)** art. 11 lub 13 ustawy z dnia 20 stycznia 1920 r. o obywatelstwie Państwa Polskiego (Dz. U. poz. 44, z 1932 r. poz. 896, z 1934 r. poz. 976, z 1938 r. poz. 548 oraz z 1946 r. poz. 106),
 - **2)** art. 11 lub 12 ustawy z dnia 8 stycznia 1951 r. o obywatelstwie polskim (Dz. U. poz. 25),
-- **3)** art. 13, 14 lub 15 ustawy z dnia 15 lutego 1962 r. o obywatelstwie polskim (Dz. U. z 2000 r. poz. 353, z późn. zm. ) przywraca się obywatelstwo polskie, na jego wniosek.
+- **3)** art. 13, 14 lub 15 ustawy z dnia 15 lutego 1962 r. o obywatelstwie polskim (Dz. U. z 2000 r. poz. 353, z późn. zm. ) – przywraca się obywatelstwo polskie, na jego wniosek.
 
 2. Nie przywraca się obywatelstwa polskiego cudzoziemcowi, który:
 
@@ -381,7 +396,7 @@ o obywatelstwie polskim
 
 1. Przed wydaniem decyzji, o której mowa w art. 39 ust. 1, minister właściwy do spraw wewnętrznych zwraca się do Komendanta Głównego Policji, Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby do innych organów, o udzielenie informacji, czy przywrócenie obywatelstwa polskiego nie stanowi zagrożenia dla obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego oraz czy cudzoziemiec, który złożył wniosek o przywrócenie obywatelstwa polskiego, nie działał na szkodę Polski, a zwłaszcza jej niepodległości i suwerenności, lub uczestniczył w łamaniu praw człowieka.
 
-2. Przed wydaniem decyzji, o której mowa w art. 39 ust. 1, minister właściwy do spraw wewnętrznych może zwrócić się do Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu o przekazanie informacji o treści posiadanych dokumentów dotyczących osoby ubiegającej się o przywrócenie obywatelstwa polskiego oraz o ich udostępnienie.
+2. Przed wydaniem decyzji, o której mowa w art. 39 ust. 1, minister właściwy do spraw wewnętrznych może zwrócić się do Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu o przekazanie informacji o treści posiadanych dokumentów dotyczących osoby ubiegającej się o przywrócenie obywatelstwa polskiego oraz o ich udostępnienie.
 
 3. Organy, o których mowa w ust. 1 i 2, są obowiązane udzielić pisemnej informacji, w terminie 30 dni od dnia otrzymania zapytania. W szczególnie uzasadnionych przypadkach termin ten może być przedłużony do 3 miesięcy, o czym organ obowiązany do udzielenia informacji powiadamia ministra właściwego do spraw wewnętrznych.
 
@@ -495,7 +510,7 @@ o obywatelstwie polskim
 
 **Art. 55.**
 
-1. Decyzję w sprawie potwierdzenia posiadania obywatelstwa polskiego lub jego utraty wydaje na wniosek osoby, której postępowanie dotyczy, lub podmiotu, który wykaże interes prawny lub ciążący na nim obowiązek uzyskania decyzji, wojewoda właściwy ze względu na miejsce zamieszkania lub ostatnie miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej osoby, której postępowanie dotyczy, a w przypadku braku tej podstawy wojewoda mazowiecki.
+1. Decyzję w sprawie potwierdzenia posiadania obywatelstwa polskiego lub jego utraty wydaje na wniosek osoby, której postępowanie dotyczy, lub podmiotu, który wykaże interes prawny lub ciążący na nim obowiązek uzyskania decyzji, wojewoda właściwy ze względu na miejsce zamieszkania lub ostatnie miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej osoby, której postępowanie dotyczy, a w przypadku braku tej podstawy – wojewoda mazowiecki.
 
 2. Postępowanie w sprawie, o której mowa w ust. 1, może być wszczęte także z urzędu.
 
@@ -545,6 +560,18 @@ o obywatelstwie polskim
 
 **Art. 61.** W rejestrach, o których mowa w art. 59 ust. 3, gromadzi się i przechowuje:
 
+- **1)** informacje o wnioskach i wydanych rozstrzygnięciach w sprawach nadania obywatelstwa polskiego, uznania za obywatela polskiego, przywrócenia obywatelstwa polskiego i wyrażenia zgody na zrzeczenie się obywatelstwa polskiego oraz o złożonych oświadczeniach o wyborze dla małoletniego obywatelstwa innego państwa;
+- **2)** dane dotyczące osób, które nabyły lub utraciły obywatelstwo polskie, określające:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** nazwisko rodowe,
+    - **c)** datę i miejsce urodzenia,
+    - **d)** imię i nazwisko ojca,
+    - **e)** imię i nazwisko rodowe matki,
+    - **f)** płeć,
+    - **g)** obywatelstwo,
+    - **h)** datę nabycia lub utraty obywatelstwa polskiego,
+    - **i)** numer PESEL, jeżeli został nadany.
+
 **Art. 62.**
 
 1. Dane lub informacje przechowywane w rejestrze centralnym i rejestrach, o których mowa w art. 59 ust. 3, podlegają ochronie na podstawie odrębnych przepisów, o ile ustawa nie stanowi inaczej.
@@ -558,7 +585,7 @@ o obywatelstwie polskim
 - **5)** Agencji Wywiadu,
 - **6)** sądom,
 - **7)** prokuraturze,
-- **8)** Kancelarii Prezydenta Rzeczypospolitej w zakresie niezbędnym do realizacji ich ustawowych zadań.
+- **8)** Kancelarii Prezydenta Rzeczypospolitej – w zakresie niezbędnym do realizacji ich ustawowych zadań.
 
 3. (uchylony)
 

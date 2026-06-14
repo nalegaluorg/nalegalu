@@ -8,10 +8,10 @@ pos: 873
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 czerwca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 873 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 15 czerwca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/873/text.pdf) |
 
-Poz. 873 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 15 czerwca 2016 r.
-w sprawie określenia systemów, w których istnieje ryzyko systemowe Na podstawie art. 15 ust. 2 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2013 r. poz. 246 i 1036, z 2015 r. poz. 978 oraz z 2016 r. poz. 615) zarządza się, co następuje: § 1. Systemami płatności, w których istnieje ryzyko systemowe, są:
+w sprawie określenia systemów, w których istnieje ryzyko systemowe Na podstawie art. 15 ust. 2 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2013 r. poz. 246 i 1036, z 2015 r. poz. 978 oraz z 2016 r. poz. 615) zarządza się, co następuje:
+§ 1. Systemami płatności, w których istnieje ryzyko systemowe, są:
 1) system Elixir, prowadzony przez Krajową Izbę Rozliczeniową Spółkę Akcyjną, z siedzibą w Warszawie;
 2) system Euro Elixir, prowadzony przez Krajową Izbę Rozliczeniową Spółkę Akcyjną, z siedzibą w Warszawie.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

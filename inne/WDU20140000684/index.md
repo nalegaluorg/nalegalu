@@ -8,7 +8,7 @@ pos: 684
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 50/5/A/2014 WYROK z dnia 7 maja 2014 r.

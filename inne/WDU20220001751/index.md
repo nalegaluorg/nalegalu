@@ -8,7 +8,7 @@ pos: 1751
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Polskiej Organizacji Turystycznej oraz ustawy o grach hazardowych
@@ -29,9 +29,15 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. z 2022 r. poz. 1015) w art. 3:
 
+- **1)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) wykonywanie innych zadań powierzonych przez organy i jednostki, o których mowa w ust. 2 pkt 1, 1c i 2, na zasadach określonych w umowie zawieranej pomiędzy tymi organami i jednostkami a Polską Organizacją Turystyczną;”;
+- **2)** w ust. 2 po pkt 1b dodaje się pkt 1c w brzmieniu: „1c) ministrem właściwym do spraw kultury fizycznej – w zakresie promocji Polski przez polskich sportowców lub kluby sportowe w sportach drużynowych uczestniczące we współzawodnictwie sportowym organizowanym przez polskie związki sportowe oraz biorące udział w międzynarodowych rozgrywkach sportowych;”.
+
 **Art. 2.** W ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2022 r. poz. 888 i 1301) w art. 86 w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) dotacje z budżetu państwa z części budżetowej, której dysponentem jest minister właściwy do spraw kultury fizycznej.”.
 
 **Art. 3.** W 2022 r.:
+
+- **1)** do zmian kwot przychodów i kosztów ujętych w planie finansowym Centralnego Ośrodka Sportu nie stosuje się ograniczeń, o których mowa w art. 24 ust. 5 zdanie pierwsze ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, 1692, 1725 i 1747);
+- **2)** dotacja z budżetu państwa, o której mowa w art. 29 ust. 1a ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2022 r. poz. 1599), może zostać udzielona także na bieżące utrzymanie obiektów noclegowych wraz z gastronomią i zarządzanie nimi.
 
 **Art. 4.** W 2022 r. do zmiany rocznego planu finansowego Polskiej Organizacji Turystycznej nie stosuje się przepisu art. 52 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz przepisu art. 19 zdanie drugie ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. z 2022 r. poz. 1015).
 

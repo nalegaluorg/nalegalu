@@ -8,7 +8,7 @@ pos: 1378
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pomocy osobom uprawnionym do alimentów Uważając, że dostarczanie środków utrzymania osobom, które nie są w stanie samodzielnie zaspokoić swoich potrzeb, a w szczególności dzieciom, jest w pierwszej kolejności obowiązkiem wskazanych w Kodeksie rodzinnym i opiekuńczym członków ich rodziny, konstytucyjna zasada pomocniczości nakłada na państwo obowiązek wspierania jedynie tych osób ubogich, które nie są w stanie samodzielnie zaspokoić swoich potrzeb i nie otrzymują należnego im wsparcia od osób należących do kręgu zobowiązanych wobec nich do alimentacji, wspieranie osób znajdujących się w trudnej sytuacji materialnej z powodu niemożności wyegzekwowania alimentów należy łączyć z działaniami zmierzającymi do zwiększenia odpowiedzialności osób zobowiązanych do alimentacji, stanowi się co następuje:
@@ -59,6 +59,68 @@ Art. 32–40. (pominięte)
 2. Świadczenia z funduszu alimentacyjnego przysługują osobom, o których mowa w ust. 1, jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej przez okres świadczeniowy, w którym otrzymują świadczenia z funduszu alimentacyjnego, chyba że dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** (uchylony)
+- **2)** bezskuteczności egzekucji – oznacza to egzekucję, w wyniku której w okresie ostatnich dwóch miesięcy nie wyegzekwowano pełnej należności z tytułu zaległych i bieżących zobowiązań alimentacyjnych, albo postępowanie upadłościowe, w toku którego w okresie ostatnich dwóch miesięcy nie otrzymano pełnej należności z tytułu zaległych i bieżących zobowiązań alimentacyjnych; za bezskuteczną egzekucję uważa się również niemożność wszczęcia lub prowadzenia egzekucji alimentów przeciwko dłużnikowi alimentacyjnemu przebywającemu poza granicami Rzeczypospolitej Polskiej, w szczególności z powodu:
+    - **a)** braku podstawy prawnej do podjęcia czynności zmierzających do wykonania tytułu wykonawczego w miejscu zamieszkania dłużnika,
+    - **b)** braku możliwości wskazania przez osobę uprawnioną miejsca zamieszkania dłużnika alimentacyjnego za granicą;
+
+- **3)** dłużniku alimentacyjnym – oznacza to osobę zobowiązaną do alimentów na podstawie tytułu wykonawczego, przeciwko której egzekucja okazała się bezskuteczna;
+- **4)** dochodzie – oznacza to dochód, o którym mowa w przepisach o świadczeniach rodzinnych;
+- **5)** dochodzie rodziny – oznacza to dochód rodziny, o którym mowa w przepisach o świadczeniach rodzinnych;
+- **5a)** dochodzie członka rodziny – oznacza to przeciętny miesięczny dochód członka rodziny osiągnięty w roku kalendarzowym poprzedzającym okres świadczeniowy, z zastrzeżeniem art. 9 ust. 3–4b;
+- **6)** instytucji zapewniającej całodobowe utrzymanie – oznacza to dom pomocy społecznej, młodzieżowy ośrodek wychowawczy, schronisko dla nieletnich, zakład poprawczy, areszt śledczy, zakład karny, a także szkołę wojskową lub inną szkołę, jeżeli instytucje te zapewniają nieodpłatne pełne utrzymanie;
+- **7)** nienależnie pobranym świadczeniu – oznacza to świadczenia z funduszu alimentacyjnego:
+    - **a)** wypłacone mimo zaistnienia okoliczności powodujących ustanie albo wstrzymanie wypłaty świadczenia w całości lub w części,
+    - **b)** przyznane lub wypłacone w przypadku świadomego wprowadzenia w błąd przez osobę pobierającą te świadczenia,
+    - **c)** wypłacone bez podstawy prawnej lub z rażącym naruszeniem prawa, jeżeli stwierdzono nieważność decyzji przyznającej świadczenie albo w wyniku wznowienia postępowania uchylono decyzję przyznającą świadczenie i odmówiono prawa do świadczenia,
+    - **d)** wypłacone, w przypadku gdy osoba uprawniona w okresie ich pobierania otrzymała, niezgodnie z kolejnością określoną w art. 28, zaległe lub bieżące alimenty, do wysokości otrzymanych w tym okresie alimentów,
+    - **e)** (uchylona)
+    - **f)** wypłacone osobie innej niż osoba, która została wskazana w decyzji przyznającej świadczenia z funduszu alimentacyjnego, z przyczyn niezależnych od organu, który wydał tę decyzję,
+    - **g)** wypłacone w związku z zastosowaniem przepisów o utracie i uzyskaniu dochodu – po ustaleniu, że wystąpiły okoliczności, o których mowa w art. 9 ust. 4b;
+
+- **8)** okresie świadczeniowym – oznacza to okres, na jaki ustala się prawo do świadczenia z funduszu alimentacyjnego, tj. od dnia 1 października do dnia 30 września następnego roku kalendarzowego;
+- **8a)** organie prowadzącym postępowanie egzekucyjne – oznacza to organ, który prowadzi egzekucję, albo syndyka wyznaczonego w postępowaniu upadłościowym dłużnika;
+- **9)** organie właściwym dłużnika – oznacza to wójta, burmistrza lub prezydenta miasta właściwego ze względu na miejsce zamieszkania dłużnika alimentacyjnego;
+- **10)** organie właściwym wierzyciela – oznacza to wójta, burmistrza lub prezydenta miasta właściwego ze względu na miejsce zamieszkania osoby uprawnionej;
+- **11)** osobie uprawnionej – oznacza to osobę uprawnioną do alimentów od rodzica na podstawie tytułu wykonawczego pochodzącego lub zatwierdzonego przez sąd, jeżeli egzekucja okazała się bezskuteczna;
+- **12)** rodzinie – oznacza to odpowiednio następujących członków rodziny: rodziców osoby uprawnionej, małżonka rodzica osoby uprawnionej, osobę, z którą rodzic osoby uprawnionej wychowuje wspólne dziecko, pozostające na ich utrzymaniu dzieci w wieku do ukończenia 25. roku życia oraz dziecko, które ukończyło 25. rok życia otrzymujące świadczenia z funduszu alimentacyjnego lub legitymujące się orzeczeniem o znacznym stopniu niepełnosprawności, jeżeli w związku z tą niepełnosprawnością przysługuje świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy, o których mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2025 r. poz. 1208) albo zasiłek dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246), a także osobę uprawnioną; do rodziny nie zalicza się:
+    - **a)** dziecka pozostającego pod opieką opiekuna prawnego,
+    - **b)** dziecka pozostającego w związku małżeńskim,
+    - **c)** (uchylona)
+    - **d)** rodzica osoby uprawnionej zobowiązanego tytułem wykonawczym pochodzącym lub zatwierdzonym przez sąd do alimentów na jej rzecz;
+
+- **13)** szkole – oznacza to szkołę podstawową, szkołę ponadpodstawową oraz szkołę artystyczną, w której realizowany jest obowiązek szkolny i obowiązek nauki, a także młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodek rewalidacyjno-wychowawczy;
+- **14)** szkole wyższej – oznacza to uczelnię w rozumieniu przepisów o szkolnictwie wyższym i nauce oraz kolegium pracowników służb społecznych;
+- **15)** (uchylony) 15a) zatrudnieniu lub innej pracy zarobkowej – oznacza to wykonywanie pracy na podstawie stosunku pracy, stosunku służbowego, umowy o pracę nakładczą oraz wykonywanie pracy lub świadczenie usług na podstawie umowy agencyjnej, umowy zlecenia, umowy o dzieło, kontraktu menedżerskiego albo w okresie członkostwa w rolniczej spółdzielni produkcyjnej, spółdzielni kółek rolniczych lub spółdzielni usług rolniczych, a także prowadzenie pozarolniczej działalności gospodarczej;
+- **16)** znacznym stopniu niepełnosprawności – oznacza to:
+    - **a)** niepełnosprawność w stopniu znacznym, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
+    - **b)** całkowitą niezdolność do pracy i samodzielnej egzystencji orzeczoną na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
+    - **c)** stałą albo długotrwałą niezdolność do pracy w gospodarstwie rolnym i do samodzielnej egzystencji albo trwałą lub okresową całkowitą niezdolność do pracy w gospodarstwie rolnym i do samodzielnej egzystencji, orzeczoną na podstawie przepisów o ubezpieczeniu społecznym rolników w celu uzyskania świadczeń określonych w tych przepisach,
+    - **d)** posiadanie orzeczenia o zaliczeniu do I grupy inwalidów,
+    - **e)** niezdolność do samodzielnej egzystencji orzeczoną na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub przepisów o ubezpieczeniu społecznym rolników;
+
+- **17)** utracie dochodu – oznacza to utratę dochodu spowodowaną: o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), ea) utratą zasądzonych świadczeń alimentacyjnych w związku ze śmiercią osoby zobowiązanej do tych świadczeń,
+    - **a)** uzyskaniem prawa do urlopu wychowawczego,
+    - **b)** utratą zasiłku lub stypendium dla bezrobotnych,
+    - **c)** utratą zatrudnienia lub innej pracy zarobkowej,
+    - **d)** utratą zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej, dodatku dopełniającego, rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2025 r. poz. 1577), lub świadczenia pieniężnego przyznanego na zasadach określonych w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658),
+    - **e)** wykreśleniem z rejestru pozarolniczej działalności gospodarczej lub zawieszeniem jej wykonywania w rozumieniu art. 16b ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770) lub art. 36aa ust. 1 ustawy z dnia 13 października 1998 r.
+    - **f)** utratą zasiłku chorobowego, świadczenia rehabilitacyjnego lub zasiłku macierzyńskiego, przysługujących po utracie zatrudnienia lub innej pracy zarobkowej,
+    - **g)** utratą świadczenia rodzicielskiego,
+    - **h)** utratą zasiłku macierzyńskiego, o którym mowa w przepisach o ubezpieczeniu społecznym rolników,
+    - **i)** utratą stypendium doktoranckiego określonego w art. 209 ust. 1 i 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+
+- **18)** uzyskaniu dochodu – oznacza to uzyskanie dochodu spowodowane:
+    - **a)** zakończeniem urlopu wychowawczego,
+    - **b)** uzyskaniem zasiłku lub stypendium dla bezrobotnych,
+    - **c)** uzyskaniem zatrudnienia lub innej pracy zarobkowej,
+    - **d)** uzyskaniem zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej, dodatku dopełniającego, rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym, lub świadczenia pieniężnego przyznanego na zasadach określonych w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia,
+    - **e)** rozpoczęciem pozarolniczej działalności gospodarczej lub wznowieniem jej wykonywania po okresie zawieszenia w rozumieniu art. 16b ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników lub art. 36aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
+    - **f)** uzyskaniem zasiłku chorobowego, świadczenia rehabilitacyjnego lub zasiłku macierzyńskiego, przysługujących po utracie zatrudnienia lub innej pracy zarobkowej,
+    - **g)** uzyskaniem świadczenia rodzicielskiego,
+    - **h)** uzyskaniem zasiłku macierzyńskiego, o którym mowa w przepisach o ubezpieczeniu społecznym rolników,
+    - **i)** uzyskaniem stypendium doktoranckiego określonego w art. 209 ust. 1 i 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 #### Rozdział 2 Zasady pomocy państwa osobom uprawnionym do alimentów na podstawie tytułu wykonawczego w przypadku bezskuteczności egzekucji oraz działania podejmowane wobec dłużników alimentacyjnych
 
@@ -229,6 +291,9 @@ Art. 32–40. (pominięte)
 4. W przypadku gdy ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, przekazały organowi właściwemu wierzyciela informacje, że osoba uprawniona bądź jej przedstawiciel ustawowy marnotrawią wypłacane świadczenia z funduszu alimentacyjnego, organ właściwy wierzyciela może przekazywać należne osobie świadczenia w całości lub w części w formie rzeczowej.
 
 **Art. 11.** Przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego i ich wysokości:
+
+- **1)** w razie ustalenia łącznej kwoty alimentów dla kilku osób uprawnionych za kwotę alimentów przysługujących jednej osobie uważa się część łącznej kwoty proporcjonalną do liczby osób, dla których ustalono alimenty;
+- **2)** w razie ustalenia alimentów więcej niż jednym tytułem wykonawczym od rodziców dziecka za kwotę alimentów przysługujących jednej osobie uważa się kwotę alimentów przysługujących na podstawie wszystkich tytułów wykonawczych.
 
 **Art. 12.**
 
@@ -701,4 +766,9 @@ Art. 32–40. (pominięte)
 **Art. 47.** Traci moc ustawa z dnia 22 kwietnia 2005 r. o postępowaniu wobec dłużników alimentacyjnych oraz zaliczce alimentacyjnej (Dz. U. poz. 732 i 1366, z 2008 r. poz. 770 oraz z 2009 r. poz. 1261), z wyjątkiem art. 17 ust. 5, który traci moc z dniem 1 grudnia 2008 r.
 
 **Art. 48.** Ustawa wchodzi w życie z dniem 1 października 2008 r., z wyjątkiem:
+
+- **1)** art. 12 ust. 2 i 3a, art. 15 ust. 9, art. 20 ust. 3–5 i art. 46a, które wchodzą w życie z dniem 1 sierpnia 2008 r.;
+- **2)** art. 32, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia ;
+- **3)** art. 45, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
 

@@ -8,7 +8,7 @@ pos: 1241
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich
@@ -33,7 +33,33 @@ Art. 47–51. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** podmioty uprawnione do wykonywania ratownictwa górskiego i ratownictwa na zorganizowanych terenach narciarskich, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności;
+- **2)** obowiązki osób przebywających w górach oraz na zorganizowanych terenach narciarskich, a w szczególności uprawiających sport, rekreację lub turystykę;
+- **3)** podmioty odpowiedzialne za zapewnienie bezpieczeństwa osobom przebywającym w górach i na zorganizowanych terenach narciarskich;
+- **4)** warunki bezpieczeństwa osób przebywających w górach oraz na zorganizowanych terenach narciarskich, a w szczególności uprawiających tam sport, rekreację lub turystykę;
+- **5)** nadzór i kontrolę nad ratownictwem górskim.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** górach – rozumie się przez to obszar Beskidu Niskiego, Beskidu Wyspowego, Beskidu Średniego, Beskidu Sądeckiego, Beskidu Żywieckiego, Beskidu Małego, Beskidu Śląskiego, Bieszczadów, Gorców, Pienin, Sudetów Wschodnich, Sudetów Środkowych, Sudetów Zachodnich, Tatr, pasma Spisko-Gubałowskiego oraz Wyżyny Krakowsko-Wieluńskiej z wyłączeniem obszarów jednostek osadniczych i dróg publicznych;
+- **2)** parkach narciarskich – rozumie się przez to tereny, na których znajdują się obiekty przeznaczone do wykonywania ewolucji akrobatycznych na nartach i snowboardzie, w szczególności takie jak skocznie, rynny, poręcze;
+- **3)** pólkach ćwiczebnych – rozumie się przez to tereny przeznaczone w szczególności do nauczania narciarstwa lub snowboardingu;
+- **4)** narciarskiej trasie biegowej – rozumie się przez to tereny wyznaczone i odpowiednio oznakowane, przeznaczone do uprawiania narciarstwa biegowego o szerokości co najmniej 3 m;
+- **5)** narciarskiej trasie zjazdowej – rozumie się przez to tereny przeznaczone do uprawiania narciarstwa i snowboardingu, zapewniające istnienie wolnej przestrzeni do zjazdu, odpowiedniej do stopnia trudności narciarskiej trasy zjazdowej i zdolności przewozowej urządzeń transportu linowego i taśmowego przeznaczonych do transportu osób, przy których się znajdują;
+- **6)** nartostradzie – rozumie się przez to tereny przeznaczone do uprawiania narciarstwa zjazdowego i snowboardingu, o szerokości co najmniej 3 m, służące w szczególności do komunikacji pomiędzy: narciarskimi trasami zjazdowymi, zorganizowanymi terenami narciarskimi, stacjami urządzeń transportu linowego i taśmowego przeznaczonych do transportu osób, oraz trasy dojazdowe do dróg, parkingów i obiektów użyteczności publicznej;
+- **7)** ratownictwie górskim – rozumie się przez to organizowanie i udzielanie pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia w górach oraz transportowanie zwłok z gór;
+- **8)** ratownictwie narciarskim – rozumie się przez to organizowanie i udzielanie pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na zorganizowanych terenach narciarskich;
+- **9)** ratowniku górskim – rozumie się przez to osobę posiadającą uprawnienia ratownicze lub instruktorskie w zakresie ratownictwa górskiego oraz specjalistyczną wiedzę z zakresu technik ratownictwa górskiego i topografii obszaru, na którym działa dany podmiot uprawniony do wykonywania ratownictwa górskiego, spełniającą wymagania określone w:
+    - **a)** ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733, 2705 i 2770) dla lekarza systemu i pielęgniarki systemu realizujących doskonalenie zawodowe lub ratownika,
+    - **b)** ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) dla ratownika medycznego realizującego doskonalenie zawodowe – zatrudnioną lub pełniącą służbę w tym podmiocie lub będącą członkiem tego podmiotu;
+
+- **10)** ratowniku narciarskim – rozumie się przez to osobę, która ukończyła szkolenie w zakresie transportu osób potrzebujących pomocy na zorganizowanych terenach narciarskich organizowane przez podmiot uprawniony do wykonywania ratownictwa górskiego, spełniającą wymagania określone w:
+    - **a)** ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu i pielęgniarki systemu realizujących doskonalenie zawodowe lub ratownika,
+    - **b)** ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych dla ratownika medycznego realizującego doskonalenie zawodowe;
+
+- **11)** wypadku – rozumie się przez to nagłe zdarzenie lub zachorowanie, którego następstwem jest naruszenie czynności narządu ciała lub rozstrój zdrowia osoby przebywającej w górach lub na zorganizowanych terenach narciarskich;
+- **12)** zarządzającym zorganizowanym terenem narciarskim – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej będącą właścicielem, użytkownikiem, najemcą, dzierżawcą lub posiadającą inny tytuł prawny do zorganizowanego terenu narciarskiego lub urządzeń transportu linowego lub taśmowego przeznaczonych do transportu osób, przy których znajduje się zorganizowany teren narciarski;
+- **13)** zorganizowanym terenie narciarskim – rozumie się przez to ogólnie udostępnione i odpowiednio naśnieżone lub z odpowiednio przygotowanym sztucznym podłożem, oznaczone i zabezpieczone tereny przeznaczone do uprawiania narciarstwa lub snowboardingu, znajdujące się przy urządzeniach transportu linowego lub taśmowego przeznaczonych do transportu osób, a także narciarskie trasy biegowe oraz parki narciarskie i pólka ćwiczebne.
 
 #### Rozdział 2 Bezpieczeństwo w górach
 
@@ -49,6 +75,12 @@ Art. 47–51. (pominięte)
 - **4)** ogłaszaniu komunikatu lawinowego.
 
 **Art. 4.** Osoby przebywające w górach obowiązane są do zachowania należytej staranności w celu ochrony życia i zdrowia własnego oraz innych osób, a w szczególności:
+
+- **1)** zapoznania się z zasadami korzystania z danego terenu, obiektu lub urządzenia i ich przestrzegania;
+- **2)** stosowania się do znaków nakazu i zakazu umieszczanych przez podmioty, o których mowa w art. 3 ust. 1;
+- **3)** zapoznania się oraz dostosowania swoich planów aktywności do umiejętności, aktualnych warunków atmosferycznych, prognozy pogody, komunikatu lawinowego dla danego obszaru i zastosowania się do zaleceń i ograniczeń wynikających z ogłoszonego stopnia zagrożenia lawinowego oraz z panujących i przewidywanych warunków atmosferycznych;
+- **4)** użytkowania sprzętu odpowiedniego do rodzaju podejmowanej aktywności, sprawnego technicznie i zgodnie z jego przeznaczeniem i zasadami użycia;
+- **5)** bezzwłocznego informowania podmiotów uprawnionych do wykonywania ratownictwa górskiego o zaistniałym wypadku lub zaginięciu osoby oraz o innych zdarzeniach nadzwyczajnych mogących mieć wpływ na bezpieczeństwo osób.
 
 #### Rozdział 3 Podmioty uprawnione do wykonywania ratownictwa górskiego, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
 
@@ -80,6 +112,14 @@ Art. 47–51. (pominięte)
 5. Minister właściwy do spraw wewnętrznych zawiadamia wojewodę właściwego do dokonania wpisu do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, o cofnięciu zgody, o której mowa w ust. 1.
 
 **Art. 6.** W ramach ratownictwa górskiego podejmowane są działania ratownicze polegające w szczególności na:
+
+- **1)** przyjęciu zgłoszenia o wypadku lub innym zdarzeniu;
+- **2)** dotarciu na miejsce wypadku z wyposażeniem ratowniczym;
+- **3)** udzieleniu kwalifikowanej pierwszej pomocy;
+- **4)** zabezpieczeniu i ewakuacji osób przebywających w górach z terenów stanowiących zagrożenie dla życia i zdrowia;
+- **5)** transporcie osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia do miejsca, gdzie jest możliwe podjęcie medycznych czynności ratunkowych przez jednostki systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, po uprzednim uzgodnieniu miejsca przekazania osoby, której udzielono pomocy w ramach działań ratowniczych, z dyspozytorem jednostki systemu Państwowe Ratownictwo Medyczne;
+- **6)** poszukiwaniu osób zaginionych w górach;
+- **7)** transporcie zwłok z gór.
 
 **Art. 7.**
 
@@ -125,6 +165,11 @@ Art. 47–51. (pominięte)
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
 **Art. 8.** Podmioty uprawnione do wykonywania ratownictwa górskiego współdziałają przy wykonywaniu ratownictwa górskiego, a w czasie prowadzenia działań ratowniczych mogą żądać pomocy od:
+
+- **1)** organów administracji rządowej i samorządowej;
+- **2)** innych jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne;
+- **3)** jednostek podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych i Ministra Obrony Narodowej;
+- **4)** Państwowego Gospodarstwa Leśnego Lasy Państwowe, dyrekcji parków narodowych lub dyrekcji parków krajobrazowych.
 
 **Art. 9.**
 
@@ -316,6 +361,9 @@ Art. 47–51. (pominięte)
 
 **Art. 23.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw kultury fizycznej oraz ministrem właściwym do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** dopuszczalne obciążenie narciarskiej trasy zjazdowej oraz sposób jego obliczania,
+- **2)** szczegółowe warunki oświetlania zorganizowanych terenów narciarskich – mając na uwadze konieczność zapewnienia bezpieczeństwa osób korzystających z tych terenów.
+
 **Art. 24.**
 
 1. Narciarskie trasy zjazdowe, biegowe oraz nartostrady nie mogą krzyżować się z drogami publicznymi oraz trasami urządzeń transportu linowego osób o niskim prowadzeniu liny lub urządzeń transportu taśmowego przeznaczonych do transportu osób.
@@ -378,6 +426,12 @@ Art. 47–51. (pominięte)
 
 **Art. 31.** Osoby uprawiające narciarstwo lub snowboarding na zorganizowanym terenie narciarskim obowiązane są do zachowania należytej staranności w celu ochrony życia i zdrowia własnego oraz innych osób, a w szczególności:
 
+- **1)** zapoznania się z zasadami korzystania z danego terenu, obiektu lub urządzenia i ich przestrzegania;
+- **2)** stosowania się do znaków nakazu i zakazu umieszczanych przez zarządzającego zorganizowanym terenem narciarskim;
+- **3)** zjeżdżania z szybkością dostosowaną do swoich umiejętności oraz stopnia trudności i stanu trasy, warunków atmosferycznych i natężenia ruchu;
+- **4)** użytkowania sprawnego technicznie sprzętu narciarskiego i snowboardowego odpowiedniego do rodzaju podejmowanej aktywności, zgodnie z jego przeznaczeniem i zasadami użycia;
+- **5)** bezzwłocznego informowania ratowników narciarskich o zaistniałym wypadku lub zaginięciu osoby oraz o innych zdarzeniach nadzwyczajnych mogących mieć wpływ na bezpieczeństwo osób.
+
 #### Rozdział 5 Podmioty uprawnione do wykonywania ratownictwa narciarskiego na zorganizowanych terenach narciarskich, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
 
 **Art. 32.**
@@ -387,6 +441,13 @@ Art. 47–51. (pominięte)
 2. Zarządzający zorganizowanym terenem narciarskim, w drodze umowy, może zlecić wykonywanie ratownictwa narciarskiego podmiotowi uprawnionemu do wykonywania ratownictwa górskiego.
 
 **Art. 33.** W ramach ratownictwa narciarskiego podejmowane są działania ratownicze polegające w szczególności na:
+
+- **1)** przyjęciu zgłoszenia o wypadku;
+- **2)** dotarciu na miejsce wypadku z wyposażeniem ratowniczym;
+- **3)** udzieleniu kwalifikowanej pierwszej pomocy;
+- **4)** zabezpieczeniu miejsca wypadku;
+- **5)** ewakuacji osób z terenów stanowiących zagrożenie dla życia lub zdrowia;
+- **6)** transporcie osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia, do miejsca, gdzie jest możliwe podjęcie medycznych czynności ratunkowych przez jednostki systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, po uprzednim uzgodnieniu miejsca przekazania z dyspozytorem jednostki systemu Państwowe Ratownictwo Medyczne.
 
 **Art. 34.**
 

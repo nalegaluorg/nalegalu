@@ -8,7 +8,7 @@ pos: 86
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o podatku dochodowym od osób prawnych
@@ -205,9 +205,110 @@ Art. 29–36. (pominięte)
 
 **Art. 4a.** Ilekroć w ustawie jest mowa o:
 
+- **1)** inwestycjach – oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), zwanej dalej „ustawą o rachunkowości”;
+- **2)** składnikach majątkowych – oznacza to aktywa w rozumieniu ustawy o rachunkowości, pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 16g ust. 3;
+- **3)** przedsiębiorstwie – oznacza to przedsiębiorstwo w rozumieniu przepisów Kodeksu cywilnego;
+- **4)** zorganizowanej części przedsiębiorstwa – oznacza to organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania;
+- **5)** programie restrukturyzacji na podstawie odrębnych ustaw – oznacza to restrukturyzację na podstawie ustaw: poz. 1112, z późn. zm. ) , z 2024 r. poz. 561 oraz z 2025 r. poz. 1661),
+    - **a)** z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U.
+    - **b)** z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663),
+    - **c)** z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2024 r. poz. 1835),
+    - **d)** z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U.
+    - **e)** z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. z 2020 r. poz. 2216),
+    - **f)** z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. z 2018 r. poz. 164);
+
+- **5a)** postępowaniu restrukturyzacyjnym – oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428, z 2025 r. poz. 1085, 1170 i 1172 oraz z 2026 r. poz. 176);
+- **6)** urzędzie skarbowym – oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
+- **7)** ustawie o podatku od towarów i usług – oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811);
+- **8)** ustawie o partnerstwie publiczno-prywatnym – oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz.
+- **1637)** ;
+- **9)** (uchylony) 9a) samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu niewięcej niż 9 osób łącznie z kierowcą, z wyjątkiem:
+    - **a)** pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków,
+    - **b)** pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu,
+    - **c)** pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: – agregat elektryczny/spawalniczy, – do prac wiertniczych, – koparka, koparko-spycharka, – ładowarka, – podnośnik do prac konserwacyjno-montażowych, – żuraw samochodowy,
+    - **d)** pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług;
+
+- **10)** małym podatniku – oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 2 000 000 euro; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł;
+- **11)** zagranicznym zakładzie – oznacza to:
+    - **a)** stałą placówkę, poprzez którą podmiot mający siedzibę lub zarząd na terytorium jednego państwa wykonuje całkowicie lub częściowo działalność na terytorium innego państwa, a w szczególności oddział, przedstawicielstwo, biuro, fabrykę, warsztat albo miejsce wydobywania bogactw naturalnych,
+    - **b)** plac budowy, budowę, montaż lub instalację, prowadzone na terytorium jednego państwa przez podmiot mający siedzibę lub zarząd na terytorium innego państwa,
+    - **c)** osobę, która w imieniu i na rzecz podmiotu mającego siedzibę lub zarząd na terytorium jednego państwa działa na terytorium innego państwa, jeżeli osoba ta ma pełnomocnictwo do zawierania w jego imieniu umów i pełnomocnictwo to faktycznie wykonuje – chyba że umowa o unikaniu podwójnego opodatkowania, której stroną jest Rzeczpospolita Polska, stanowi inaczej;
+
+- **12)** certyfikacie rezydencji – oznacza to zaświadczenie o miejscu siedziby podatnika dla celów podatkowych wydane przez właściwy organ administracji podatkowej państwa miejsca siedziby podatnika;
+- **13)** ubezpieczycielu – rozumie się przez to zakład ubezpieczeń albo zakład reasekuracji prowadzący działalność na podstawie przepisów o działalności ubezpieczeniowej i reasekuracyjnej;
+- **14)** spółce niebędącej osobą prawną – oznacza to spółkę inną niż określona w pkt 21;
+- **15)** rachunku zbiorczym – oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **16)** udziale (akcji) – oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w art. 1 ust. 3;
+- **16a)** wartości emisyjnej udziałów (akcji) – oznacza to cenę, po jakiej obejmowane są udziały (akcje), określoną w statucie lub umowie spółki, a w razie ich braku – w innym dokumencie o podobnym charakterze, nieniższą od wartości rynkowej tych udziałów (akcji);
+- **17)** wspólniku – oznacza to również akcjonariusza;
+- **18)** kapitale zakładowym – oznacza to również kapitał akcyjny prostej spółki akcyjnej oraz kapitał podstawowy spółki, o której mowa w art. 1 ust. 3;
+- **19)** udziale w zyskach osób prawnych – oznacza to również udział w zyskach spółek, o których mowa w art. 1 ust. 3;
+- **19a)** udziale w kapitale (udziale w kapitale zakładowym) – oznacza to również stosunek liczby akcji przysługujących akcjonariuszowi prostej spółki akcyjnej do liczby wszystkich akcji wyemitowanych w spółce;
+- **19b)** wartości nominalnej udziałów (akcji) – oznacza to również cenę emisyjną akcji prostej spółki akcyjnej;
+- **20)** objęciu udziału (akcji) – oznacza to również uzyskanie przez wspólnika spółki, o której mowa w art. 1 ust. 3, ogółu praw i obowiązków wspólnika w tej spółce;
+- **21)** spółce – oznacza to:
+    - **a)** spółkę posiadającą osobowość prawną, w tym także spółkę zawiązaną na podstawie rozporządzenia Rady (WE) nr 2157/2001 z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, str. 251),
+    - **b)** spółkę kapitałową w organizacji,
+    - **c)** spółki, o których mowa w art. 1 ust. 3 pkt 1 i 1a, mające siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
+    - **d)** spółkę niemającą osobowości prawnej mającą siedzibę lub zarząd w innym państwie, jeżeli zgodnie z przepisami prawa podatkowego tego innego państwa jest traktowana jak osoba prawna i podlega w tym państwie opodatkowaniu od całości swoich dochodów bez względu na miejsce ich osiągania;
+
+- **22)** pochodnych instrumentach finansowych – oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **22a)** walucie wirtualnej – oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **22b)** ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu – oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669);
+- **23)** komercjalizowanej własności intelektualnej – oznacza to: z 2023 r. poz. 1170),
+    - **a)** patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa – określone w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U.
+    - **b)** autorskie prawa majątkowe do programu komputerowego,
+    - **c)** równowartość udokumentowanej wiedzy (informacji) nadającej się do wykorzystania w działalności przemysłowej, naukowej lub handlowej (know-how),
+    - **d)** prawa do korzystania z praw lub wartości wymienionych w lit. a–c na podstawie umowy licencyjnej;
+
+- **24)** podmiocie komercjalizującym – oznacza to: poz. 168), o instytutach badawczych (Dz. U. z 2024 r. poz. 534, z 2025 r. poz. 1071 i 1080 oraz z 2026 r. poz. 160),
+    - **a)** uczelnię w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ),
+    - **b)** spółkę utworzoną na podstawie art. 149 ust. 1 lub art. 150 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce,
+    - **c)** Polską Akademię Nauk lub jej instytut naukowy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2026 r.
+    - **d)** spółkę utworzoną na podstawie art. 83 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk,
+    - **e)** instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r.
+    - **f)** spółkę utworzoną na podstawie art. 17 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych,
+    - **g)** twórcę uprawnionego do praw lub wartości wymienionych w pkt 23 lit. a–c, a także zawarcia umowy licencyjnej, o której mowa w pkt 23 lit. d,
+    - **h)** międzynarodowy instytut naukowy utworzony na podstawie odrębnych przepisów, działający na terytorium Rzeczypospolitej Polskiej,
+    - **i)** Centrum Łukasiewicz,
+    - **j)** instytuty działające w ramach Sieci Badawczej Łukasiewicz,
+    - **k)** spółkę utworzoną na podstawie art. 30 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2026 r. poz. 194) – jeżeli wnosi do spółki kapitałowej komercjalizowaną własność intelektualną;
+
+- **25)** krótkiej sprzedaży – oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
+- **26)** działalności badawczo-rozwojowej – oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
+- **27)** badaniach naukowych – oznacza to:
+    - **a)** badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce,
+    - **b)** badania aplikacyjne w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+
+- **28)** pracach rozwojowych – oznacza to prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **29)** rzeczywistym właścicielu – oznacza to podmiot, który spełnia łącznie następujące warunki:
+    - **a)** otrzymuje należność dla własnej korzyści, w tym decyduje samodzielnie o jej przeznaczeniu i ponosi ryzyko ekonomiczne związane z utratą tej należności lub jej części,
+    - **b)** nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym do przekazania całości lub części należności innemu podmiotowi,
+    - **c)** prowadzi rzeczywistą działalność gospodarczą w kraju siedziby, jeżeli należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, uwzględnia się charakter oraz skalę działalności prowadzonej przez ten podmiot w zakresie otrzymanej należności;
+
+- **30)** ustawie o funduszach inwestycyjnych – oznacza to ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176);
+- **30a)** alternatywnej spółce inwestycyjnej – oznacza to alternatywną spółkę inwestycyjną w rozumieniu ustawy o funduszach inwestycyjnych;
+- **30b)** alternatywnej spółce inwestycyjnej wdrażającej instrument finansowy – oznacza to alternatywną spółkę inwestycyjną, za pośrednictwem której podmiot wdrażający instrument finansowy, o którym mowa w rozdziale 10 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014– 2020 (Dz. U. z 2020 r. poz. 818) lub w rozdziale 10 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. z 2025 r. poz. 1733 i 1844), dokonuje wdrożenia instrumentu finansowego poprzez wniesienie wkładu pieniężnego do tej spółki;
+- **31)** nabytych wierzytelnościach banku hipotecznego – oznacza to nabyte przez bank hipoteczny, w celu emisji listów zastawnych, od innych banków wierzytelności z tytułu udzielonych przez nie kredytów;
+- **32)** odpisie na straty kredytowe – oznacza to odpis na oczekiwane straty kredytowe z tytułu składnika aktywów finansowych, utworzony na:
+    - **a)** udzielony kredyt (pożyczkę) lub
+    - **b)** udzielone gwarancje (poręczenia) spłaty kredytu (pożyczki), lub
+    - **c)** nabyte wierzytelności banku hipotecznego – przez jednostki, które na podstawie art. 45 ust. 1a i 1b ustawy o rachunkowości sporządzają sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości, Międzynarodowymi Standardami Sprawozdawczości Finansowej oraz związanymi z nimi interpretacjami ogłoszonymi w formie rozporządzeń Komisji Europejskiej, zwanymi dalej „MSR”, o których mowa w art. 2 ust. 3 ustawy o rachunkowości;
+
+- **33)** ustawie o pracowniczych planach kapitałowych – oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2026 r. poz. 192);
+- **34)** ustawie o przeciwdziałaniu nadmiernym opóźnieniom – oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790);
+- **35)** spółce nieruchomościowej – oznacza to podmiot inny niż osoba fizyczna, obowiązany do sporządzania bilansu na podstawie przepisów o rachunkowości, w którym:
+    - **a)** na pierwszy dzień roku podatkowego, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – na pierwszy dzień roku obrotowego, co najmniej 50 % wartości rynkowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość rynkowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości oraz wartość rynkowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego pierwszy dzień roku podatkowego – w przypadku podmiotów rozpoczynających działalność,
+    - **b)** na ostatni dzień roku poprzedzającego rok podatkowy, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – na ostatni dzień roku poprzedzającego rok obrotowy, co najmniej 50 % wartości bilansowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość bilansowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości i wartość bilansowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego ostatni dzień roku podatkowego poprzedzającego odpowiednio rok podatkowy albo rok obrotowy oraz w roku poprzedzającym odpowiednio rok podatkowy albo rok obrotowy przychody podatkowe, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – przychody ujęte w wyniku finansowym netto, z tytułu najmu, podnajmu, dzierżawy, poddzierżawy, leasingu i innych umów o podobnym charakterze lub z przeniesienia własności, których przedmiotem są nieruchomości lub prawa do nieruchomości, o których mowa w art. 3 ust. 3 pkt 4, oraz z tytułu udziałów w innych spółkach nieruchomościowych, stanowiły co najmniej 60 % ogółu odpowiednio przychodów podatkowych albo przychodów ujętych w wyniku finansowym netto – w przypadku podmiotów innych niż określone w lit. a;
+
+- **36)** fundacji rodzinnej – oznacza to fundację rodzinną albo fundację rodzinną w organizacji w rozumieniu ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825).
+
 **Art. 4b.** (uchylony)
 
 **Art. 4c.** Spełnienie wymagań dla pojazdów samochodowych określonych w:
+
+- **1)** art. 4a pkt 9a lit. a i b stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań;
+- **2)** art. 4a pkt 9a lit. c stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym.
 
 **Art. 5.**
 
@@ -609,6 +710,11 @@ Art. 29–36. (pominięte)
 
 **Art. 11b.** Przepisów niniejszego rozdziału nie stosuje się do:
 
+- **1)** transakcji kontrolowanych oraz transakcji, innych niż transakcje kontrolowane, w których cena lub sposób określenia ceny przedmiotu takiej transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych;
+- **2)** transakcji między Bankowym Funduszem Gwarancyjnym a instytucją pomostową lub do transakcji pomiędzy podmiotem zarządzającym aktywami a instytucją pomostową, w rozumieniu ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+- **3)** transakcji między uczelnią medyczną w rozumieniu art. 2 ust. 1 pkt 13 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej a podmiotem leczniczym, o którym mowa w art. 6 ust. 6 tej ustawy;
+- **4)** transakcji zawieranych przez spółkę specjalnego przeznaczenia, o której mowa w ustawie z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 1846), w ramach działalności realizującej cele określone dla tej spółki w przepisach tej ustawy.
+
 ##### Oddział 2 Zasada ceny rynkowej
 
 **Art. 11c.**
@@ -653,6 +759,12 @@ Art. 29–36. (pominięte)
 - **2)** zastępuje transakcję kontrolowaną transakcją właściwą – stosuje metodę odpowiednią dla transakcji właściwej.
 
 **Art. 11e.** Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzyskanych przychodów lub poniesionych kosztów uzyskania przychodów, jeżeli są spełnione łącznie następujące warunki:
+
+- **1)** w transakcjach kontrolowanych realizowanych przez podatnika w trakcie roku podatkowego ustalone zostały warunki, które ustaliłyby podmioty niepowiązane;
+- **2)** nastąpiła zmiana istotnych okoliczności mających wpływ na ustalone w trakcie roku podatkowego warunki lub znane są faktycznie poniesione koszty lub uzyskane przychody będące podstawą obliczenia ceny transferowej, a zapewnienie ich zgodności z warunkami, jakie ustaliłyby podmioty niepowiązane, wymaga dokonania korekty cen transferowych;
+- **3)** w momencie dokonania korekty podatnik posiada oświadczenie podmiotu powiązanego lub dowód księgowy potwierdzające dokonanie przez ten podmiot korekty cen transferowych w tej samej wysokości co podatnik;
+- **4)** istnieje podstawa prawna do wymiany informacji podatkowych z państwem, w którym podmiot powiązany, o którym mowa w pkt 3, ma miejsce zamieszkania, siedzibę lub zarząd.
+- **5)** (uchylony)
 
 **Art. 11f.**
 
@@ -765,6 +877,38 @@ Art. 29–36. (pominięte)
 **Art. 11m.** (uchylony)
 
 **Art. 11n.** Obowiązek sporządzenia lokalnej dokumentacji cen transferowych, o którym mowa w art. 11k ust. 1, nie ma zastosowania do transakcji kontrolowanych:
+
+- **1)** zawieranych wyłącznie przez podmioty powiązane mające miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej w roku podatkowym, w którym każdy z tych podmiotów powiązanych spełnia łącznie następujące warunki:
+    - **a)** nie korzysta ze zwolnienia, o którym mowa w art. 6,
+    - **b)** nie korzysta ze zwolnienia, o którym mowa w art. 17 ust. 1 pkt 34 i 34a,
+    - **c)** nie poniósł straty podatkowej;
+
+- **1a)** zawieranych wyłącznie:
+    - **a)** pomiędzy położonymi na terytorium Rzeczypospolitej Polskiej zagranicznymi zakładami podmiotów powiązanych mających miejsce zamieszkania, siedzibę lub zarząd na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego,
+    - **b)** przez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego z podmiotem powiązanym mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej – w roku podatkowym, w którym przychody lub koszty uzyskania przychodów powstałe w wyniku takich transakcji kontrolowanych zostały przypisane do zagranicznego zakładu pod warunkiem, że żaden z podmiotów powiązanych w zakresie tych przychodów lub kosztów przypisanych do zagranicznego zakładu nie korzysta ze zwolnień, o których mowa w art. 6 i art. 17 ust. 1 pkt 34 i 34a, i nie poniósł straty podatkowej;
+
+- **2)** objętych uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1 Ordynacji podatkowej, albo porozumieniem podatkowym, o którym mowa w art. 20zb pkt 2 Ordynacji podatkowej, za okres, którego takie porozumienie dotyczy;
+- **3)** których wartość w całości trwale nie stanowi przychodu albo kosztu uzyskania przychodu, z wyłączeniem transakcji finansowych, transakcji kapitałowych oraz transakcji dotyczących inwestycji, środków trwałych lub wartości niematerialnych i prawnych;
+- **4)** między spółkami tworzącymi podatkową grupę kapitałową;
+- **5)** w przypadku gdy powiązania wynikają wyłącznie z powiązania ze Skarbem Państwa lub jednostkami samorządu terytorialnego lub ich związkami;
+- **6)** w których cena została ustalona w trybie przetargu nieograniczonego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. );
+- **7)** realizowanych między grupą producentów rolnych wpisaną do rejestru, o którym mowa w art. 9 ust. 1 ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145), a jej członkami, dotyczących odpłatnego zbycia:
+    - **a)** na rzecz grupy producentów rolnych produktów lub grup produktów wyprodukowanych w gospodarstwach członków takiej grupy,
+    - **b)** przez grupę producentów rolnych na rzecz jej członków towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w lit. a, oraz świadczenia usług związanych z tą produkcją;
+
+- **8)** realizowanych między wstępnie uznaną grupą producentów owoców i warzyw lub uznaną organizacją producentów owoców i warzyw, działających na podstawie ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2023 r. poz. 1318), a jej członkami, dotyczących odpłatnego zbycia:
+    - **a)** na rzecz takiej grupy lub organizacji produktów lub grup produktów wyprodukowanych w gospodarstwach członków takiej grupy lub organizacji,
+    - **b)** przez taką grupę lub organizację na rzecz jej członków towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w lit. a, oraz świadczenia usług związanych z tą produkcją;
+
+- **9)** polegających na przypisaniu dochodu do zagranicznego zakładu położonego na terytorium Rzeczypospolitej Polskiej przez podatników, o których mowa w art. 3 ust. 2, jeżeli przepisy właściwych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, przewidują, że dochody te mogą być opodatkowane tylko w państwie innym niż Rzeczpospolita Polska;
+- **10)** polegających wyłącznie na dokonaniu rozliczenia pomiędzy podmiotami powiązanymi wydatków poniesionych na rzecz podmiotu niepowiązanego, jeżeli łącznie są spełnione następujące warunki:
+    - **a)** nie powstaje wartość dodana i rozliczenie następuje bez uwzględniania marży lub narzutu zysku,
+    - **b)** rozliczenie nie jest związane bezpośrednio z inną transakcją kontrolowaną,
+    - **c)** rozliczenie nastąpiło niezwłocznie po dokonaniu zapłaty na rzecz podmiotu niepowiązanego,
+    - **d)** podmiot powiązany nie jest podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową – przy czym w przypadku zastosowania klucza alokacji przepis art. 11f ust. 1 pkt 3 stosuje się odpowiednio;
+
+- **11)** stanowiących usługi o niskiej wartości dodanej – w przypadku spełnienia warunków określonych w art. 11f;
+- **12)** dotyczących pożyczki, kredytu lub emisji obligacji – w przypadku spełnienia warunków określonych w art. 11g.
 
 **Art. 11o.**
 
@@ -1891,6 +2035,12 @@ Art. 29–36. (pominięte)
 
 **Art. 16c.** Amortyzacji nie podlegają:
 
+- **1)** grunty i prawa wieczystego użytkowania gruntów,
+- **2)** budynki, lokale, budowle i urządzenia zaliczane do spółdzielczych zasobów mieszkaniowych lub służących działalności społeczno-wychowawczej prowadzonej przez spółdzielnie mieszkaniowe, 2a) budynki mieszkalne, lokale mieszkalne stanowiące odrębną nieruchomość, spółdzielcze własnościowe prawo do lokalu mieszkalnego oraz prawo do domu jednorodzinnego w spółdzielni mieszkaniowej,
+- **3)** dzieła sztuki i eksponaty muzealne,
+- **4)** wartość firmy, jeżeli wartość ta powstała w inny sposób niż określony w art. 16b ust. 2 pkt 2 i 2a,
+- **5)** składniki majątku, które nie są używane na skutek zawieszenia wykonywania działalności gospodarczej na podstawie przepisów dotyczących zawieszenia wykonywania działalności gospodarczej albo zaprzestania działalności, w której te składniki były używane; w tym przypadku składniki te nie podlegają amortyzacji od miesiąca następującego po miesiącu, w którym zawieszono albo zaprzestano tej działalności – zwane odpowiednio środkami trwałymi lub wartościami niematerialnymi i prawnymi.
+
 **Art. 16d.**
 
 1. Podatnicy mogą nie dokonywać odpisów amortyzacyjnych od składników majątku, o których mowa w art. 16a i 16b, których wartość początkowa określona zgodnie z art. 16g nie przekracza 10 000 zł; wydatki poniesione na ich nabycie stanowią wówczas koszty uzyskania przychodów w miesiącu oddania ich do używania.
@@ -2542,6 +2692,23 @@ Art. 29–36. (pominięte)
 
 **Art. 17a.** Ilekroć w rozdziale jest mowa o:
 
+- **1)** umowie leasingu – rozumie się przez to umowę nazwaną w kodeksie cywilnym, a także każdą inną umowę, na mocy której jedna ze stron, zwana dalej „finansującym”, oddaje do odpłatnego używania albo używania i pobierania pożytków na warunkach określonych w ustawie drugiej stronie, zwanej dalej „korzystającym”, podlegające amortyzacji środki trwałe lub wartości niematerialne i prawne, a także grunty oraz prawo wieczystego użytkowania gruntów;
+- **2)** podstawowym okresie umowy leasingu – rozumie się przez to czas oznaczony, na jaki została zawarta ta umowa, z wyłączeniem czasu, na który może być przedłużona lub skrócona; w przypadku zmiany strony lub stron tej umowy podstawowy okres umowy uważa się za zachowany, jeżeli inne postanowienia umowy nie uległy zmianie;
+- **3)** odpisach amortyzacyjnych – rozumie się przez to odpisy amortyzacyjne dokonywane wyłącznie zgodnie z przepisami art. 16a–16m, z uwzględnieniem art. 16;
+- **4)** normatywnym okresie amortyzacji – rozumie się przez to w odniesieniu do:
+    - **a)** środków trwałych – okres, w którym odpisy amortyzacyjne, wynikające z zastosowania stawek amortyzacyjnych określonych w Wykazie stawek amortyzacyjnych, zrównują się z wartością początkową środków trwałych,
+    - **b)** wartości niematerialnych i prawnych – okres ustalony w art. 16m;
+
+- **5)** rzeczywistej wartości netto – rozumie się przez to:
+    - **a)** wartość początkową środków trwałych lub wartości niematerialnych i prawnych zaktualizowaną zgodnie z odrębnymi przepisami, pomniejszoną o sumę odpisów amortyzacyjnych, o których mowa w art. 16h ust. 1 pkt 1,
+    - **b)** wartość, o której mowa w art. 16ł ust. 6;
+
+- **6)** hipotetycznej wartości netto – rozumie się przez to wartość początkową określoną zgodnie z art. 16g pomniejszoną o:
+    - **a)** odpisy amortyzacyjne obliczone według zasad określonych w art. 16k ust. 1 z uwzględnieniem współczynnika 3 – w odniesieniu do środków trwałych,
+    - **b)** odpisy amortyzacyjne obliczone przy zastosowaniu trzykrotnie skróconych okresów amortyzowania, o których mowa w pkt 4 lit. b – w odniesieniu do wartości niematerialnych i prawnych;
+
+- **7)** spłacie wartości początkowej – rozumie się przez to faktycznie otrzymaną przez finansującego w opłatach ustalonych w umowie leasingu równowartość wartości początkowej środków trwałych lub wartości niematerialnych i prawnych, określoną zgodnie z art. 16g, w podstawowym okresie umowy leasingu; spłaty tej nie koryguje się o kwotę wypłaconą korzystającemu, o której mowa w art. 17d albo art. 17h.
+
 **Art. 17b.**
 
 1. Opłaty ustalone w umowie leasingu, ponoszone przez korzystającego w podstawowym okresie umowy z tytułu używania środków trwałych oraz wartości niematerialnych i prawnych stanowią przychód finansującego i odpowiednio w przypadku, o którym mowa w pkt 1, koszt uzyskania przychodów korzystającego, z zastrzeżeniem ust. 2 i 3, jeżeli:
@@ -2559,6 +2726,9 @@ Art. 29–36. (pominięte)
 3. W przypadku finansującego będącego spółką niebędącą osobą prawną ograniczenia, o których mowa w ust. 2, dotyczą także wspólników tych spółek.
 
 **Art. 17c.** Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 17b ust. 1, finansujący przenosi na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy:
+
+- **1)** przychodem ze sprzedaży środków trwałych lub wartości niematerialnych i prawnych jest ich wartość wyrażona w cenie określonej w umowie sprzedaży; jeżeli jednak cena ta jest niższa od hipotetycznej wartości netto środków trwałych lub wartości niematerialnych i prawnych, przychód ten określa się w wysokości wartości rynkowej według zasad określonych w art. 14;
+- **2)** kosztem uzyskania przychodów przy ustalaniu dochodu ze sprzedaży jest rzeczywista wartość netto.
 
 **Art. 17d.**
 
@@ -2822,6 +2992,182 @@ Art. 29–36. (pominięte)
 6. Jeżeli podatnik utracił prawo do odliczenia, o którym mowa w ust. 1, dolicza kwoty poprzednio odliczone w zeznaniu podatkowym składanym za rok podatkowy, w którym utracił to prawo.
 
 **Art. 18e.** Podatnicy korzystający z odliczenia, o którym mowa w art. 18d, oraz podatnicy, którym przysługuje kwota określona w art. 18da, są obowiązani wykazać w zeznaniu poniesione koszty kwalifikowane podlegające odliczeniu lub stanowiące podstawę do wyliczenia przysługującej podatnikowi kwoty. Art. 18ea. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 30 % sumy kosztów produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu, przy czym wysokość odliczenia nie może w roku podatkowym przekroczyć 10 % dochodu osiągniętego z innych źródeł przychodów niż z zysków kapitałowych. 2. Przez produkt rozumie się produkt w rozumieniu przepisów ustawy o rachunkowości, z wyłączeniem usługi. 3. Przez produkcję próbną nowego produktu rozumie się etap rozruchu technologicznego produkcji niewymagający dalszych prac projektowo-konstrukcyjnych lub inżynieryjnych, którego celem jest wykonanie prób i testów przed uruchomieniem procesu produkcji nowego produktu, powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych, przy czym etap rozruchu technologicznego obejmuje okres od momentu poniesienia pierwszego kosztu związanego z tym etapem do momentu rozpoczęcia produkcji nowego produktu. 4. Przez wprowadzenie na rynek nowego produktu rozumie się działania podejmowane w celu przygotowania dokumentacji służącej uzyskaniu w odniesieniu do produktu powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych certyfikatów i zezwoleń umożliwiających skierowanie produktu do sprzedaży. 5. Za koszty produkcji próbnej nowego produktu uznaje się:
+
+- **1)** cenę nabycia, o której mowa w art. 16g ust. 3, lub koszt wytworzenia, o którym mowa w art. 16g ust. 4, fabrycznie nowych środków trwałych niezbędnych do uruchomienia produkcji próbnej nowego produktu, zaliczonych do grupy 3–6 i 8 Klasyfikacji;
+- **2)** wydatki na ulepszenie, o których mowa w art. 16g ust. 13, poniesione w celu dostosowania środka trwałego, zaliczonego do grupy 3–6 i 8 Klasyfikacji, do uruchomienia produkcji próbnej nowego produktu;
+- **3)** koszty nabycia materiałów i surowców nabytych wyłącznie w celu produkcji próbnej nowego produktu.
+
+6. Do kosztów wprowadzenia na rynek nowego produktu zalicza się koszty:
+
+- **1)** badań, ekspertyz, przygotowania dokumentacji niezbędnej do uzyskania certyfikatu, homologacji, znaku CE, znaku bezpieczeństwa, uzyskania lub utrzymania zezwolenia na obrót lub innych obowiązkowych dokumentów lub oznakowań związanych z dopuszczeniem do obrotu lub użytkowania oraz koszty opłat pobieranych w celu ich uzyskania, odnowienia lub przedłużenia;
+- **2)** badania cyklu życia produktu;
+- **3)** systemu weryfikacji technologii środowiskowych.
+
+7. Koszty produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu pomniejsza się o podatek od towarów i usług, z wyjątkiem przypadków gdy zgodnie z odrębnymi przepisami podatek od towarów i usług nie stanowi podatku naliczonego albo podatnikowi nie przysługuje obniżenie kwoty należnego podatku o podatek naliczony albo zwrot różnicy podatku w rozumieniu ustawy o podatku od towarów i usług.
+
+8. W przypadku skorzystania z odliczenia do kosztów produkcji próbnej nowego produktu, o których mowa w ust. 5 pkt 1 i 2, przepisu art. 16 ust. 1 pkt 48 nie stosuje się.
+
+9. Odliczenie przysługuje, jeżeli koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu:
+
+- **1)** zostały faktycznie poniesione w roku podatkowym, za który jest dokonywane odliczenie;
+- **2)** nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym.
+
+10. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 17 ust. 1 pkt 34 lub 34a, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
+
+11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Art. 18eb. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z przychodów innych niż przychody z zysków kapitałowych, niewięcej jednak niż 1 000 000 zł w roku podatkowym.
+
+2. Przez produkty rozumie się rzeczy wytworzone przez podatnika.
+
+3. Przez zwiększenie przychodów ze sprzedaży produktów, o których mowa w ust. 1, rozumie się odpłatne zbycie produktów do podmiotu niebędącego podmiotem powiązanym w rozumieniu art. 11a ust. 1 pkt 4.
+
+4. Podatnik jest uprawniony do skorzystania z odliczenia pod warunkiem, że w okresie 2 kolejno następujących po sobie lat podatkowych, licząc od roku podatkowego, w którym poniósł koszty zwiększenia przychodów, o których mowa w ust. 1, zwiększył przychody ze sprzedaży produktów w stosunku do przychodów z tego tytułu ustalonych na ostatni dzień roku podatkowego poprzedzającego rok poniesienia tych kosztów lub osiągnął przychody ze sprzedaży produktów dotychczas nieoferowanych, lub osiągnął przychody ze sprzedaży produktów dotychczas nieoferowanych w danym kraju.
+
+5. Przy ustalaniu spełnienia warunku, o którym mowa w ust. 4, uwzględnia się wyłącznie przychody, z których dochód podlega opodatkowaniu na terytorium Rzeczypospolitej Polskiej.
+
+6. W przypadku gdy podatnik, który skorzystał z odliczenia, nie spełni warunku, o którym mowa w ust. 4, jest obowiązany w zeznaniu składanym za rok podatkowy, w którym upłynął termin do osiągnięcia przychodów ze sprzedaży produktów, do odpowiedniego doliczenia kwoty uprzednio odliczonej.
+
+7. Za koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów uznaje się koszty:
+
+- **1)** uczestnictwa w targach poniesione na:
+    - **a)** organizację miejsca wystawowego,
+    - **b)** zakup biletów lotniczych dla pracowników,
+    - **c)** zakwaterowanie i wyżywienie dla pracowników;
+
+- **2)** działań promocyjno-informacyjnych, w tym zakupu przestrzeni reklamowych, przygotowania strony internetowej, publikacji prasowych, broszur, katalogów informacyjnych i ulotek, dotyczących produktów;
+- **3)** dostosowania opakowań produktów do wymagań kontrahentów;
+- **4)** przygotowania dokumentacji umożliwiającej sprzedaż produktów, w szczególności dotyczącej certyfikacji towarów oraz rejestracji znaków towarowych;
+- **5)** przygotowania dokumentacji niezbędnej do przystąpienia do przetargu, a także w celu składania ofert innym podmiotom.
+
+8. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 17 ust. 1 pkt 34 lub 34a, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów uzyskania przychodów poniesionych w celu zwiększenia przychodów ze sprzedaży produktów, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
+
+9. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty w celu zwiększenia przychodów ze sprzedaży produktów. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
+
+10. Koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym. Art. 18ec. 1. Podatnik będący przedsiębiorcą, uzyskujący przychody inne niż przychody z zysków kapitałowych, odlicza od podstawy opodatkowania ustalonej zgodnie z art. 18 kwoty wydatków na nabycie udziałów (akcji) w spółce posiadającej osobowość prawną, do wysokości dochodu uzyskanego w roku podatkowym przez podatnika z przychodów innych niż przychody z zysków kapitałowych, niewięcej jednak niż 250 000 zł w roku podatkowym, jeżeli łącznie są spełnione następujące warunki:
+
+- **1)** spółka, której udziały (akcje) są nabywane, ma siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej lub w innym państwie, z którym Rzeczpospolita Polska zawarła umowę o unikaniu podwójnego opodatkowania zawierającą podstawę prawną do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego tego innego państwa;
+- **2)** główny przedmiot działalności spółki, o której mowa w pkt 1, jest tożsamy z przedmiotem działalności podatnika lub działalność takiej spółki może być racjonalnie uznana za działalność wspierającą działalność podatnika, przy czym działalność takiej spółki nie jest działalnością finansową;
+- **3)** działalność, o której mowa w pkt 2, była przez spółkę i przez podatnika prowadzona przed dniem nabycia w niej przez podatnika udziałów (akcji) przez okres niekrótszy niż 24 miesiące;
+- **4)** w okresie dwóch lat przed dniem nabycia udziałów (akcji) spółka i podatnik nie byli podmiotami powiązanymi w rozumieniu art. 11a ust. 1 pkt 4;
+- **5)** podatnik w jednej transakcji nabywa udziały (akcje) spółki, o której mowa w ust. 1, w ilości stanowiącej bezwzględną większość praw głosu.
+
+2. Za wydatki na nabycie udziałów (akcji) w spółce będącej osobą prawną, o których mowa w ust. 1, uznaje się wydatki związane bezpośrednio z transakcją nabycia udziałów (akcji) w tej spółce na:
+
+- **1)** obsługę prawną nabycia udziałów i akcji i ich wycenę,
+- **2)** opłaty notarialne, sądowe i skarbowe,
+- **3)** podatki i inne należności publicznoprawne zapłacone w Rzeczypospolitej Polskiej i za granicą – z wyłączeniem ceny zapłaconej za nabywane udziały (akcje) oraz ponoszonych w związku z tą transakcją kosztów finansowania dłużnego.
+
+3. Odliczeniu podlega kwota faktycznie poniesionych w roku podatkowym wydatków, o których mowa w ust. 1.
+
+4. Odliczenia, o którym mowa w ust. 1, dokonuje się w zeznaniu za rok podatkowy, w którym zostały nabyte udziały (akcje).
+
+5. W przypadku zbycia przez podatnika lub przez jego następcę prawnego udziałów (akcji), o których mowa w ust. 1, albo ich umorzenia przed upływem 36 miesięcy, licząc od dnia nabycia udziałów (akcji) w spółce, podatnik albo jego następca prawny jest obowiązany w rozliczeniu za rok podatkowy, w którym doszło do takiego zbycia lub umorzenia, zwiększyć podstawę opodatkowania o kwotę dokonanego odliczenia.
+
+6. Przepis ust. 5 stosuje się odpowiednio w przypadku, gdy podatnik lub jego następca prawny, przed upływem 36 miesięcy, licząc od dnia nabycia udziałów (akcji), o których mowa w ust. 1, zostanie postawiony w stan likwidacji, zostanie ogłoszona jego upadłość lub zaistnieją inne, przewidziane prawem okoliczności zakończenia działalności podatnika lub następcy prawnego.
+
+7. Wydatki odliczone od podstawy opodatkowania zgodnie z ust. 1 podlegają zaliczeniu do kosztów uzyskania przychodów zgodnie z ustawą. Art. 18ed. 1. Podstawa opodatkowania ustalona zgodnie z art. 18, po uprzednim odliczeniu kwot określonych w art. 18d i 18ea–18ec, może być pomniejszona o kwotę stanowiącą:
+
+- **1)** 150 % wydatków na przygotowanie prospektu emisyjnego, opłaty notarialne, sądowe, skarbowe i giełdowe oraz opracowanie i publikację ogłoszeń wymaganych przepisami prawa,
+- **2)** 50 % wydatków, bez uwzględnienia podatku od towarów i usług, na usługi doradztwa prawnego, w tym doradztwa podatkowego, i finansowego, niewięcej jednak niż 50 000 zł – poniesionych bezpośrednio na dokonanie pierwszej oferty publicznej dotyczącej akcji w rozumieniu art. 4 pkt 5 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176), z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym lub z zamiarem ubiegania się o wprowadzenie tych akcji do obrotu w alternatywnym systemie obrotu.
+
+2. Odliczenia, o którym mowa w ust. 1, dokonuje się w zeznaniu za rok podatkowy, w którym podatnik wprowadził swoje akcje po raz pierwszy do obrotu na rynku regulowanym akcji albo w alternatywnym systemie obrotu.
+
+3. Przez wydatki poniesione bezpośrednio na dokonanie pierwszej oferty publicznej dotyczącej akcji rozumie się wydatki związane bezpośrednio i wyłącznie z tą ofertą poniesione w roku podatkowym, w którym dokonano pierwszej oferty publicznej dotyczącej akcji lub w roku poprzedzającym ten rok podatkowy, niepóźniej niż do dnia dokonania tej pierwszej oferty publicznej dotyczącej akcji.
+
+4. Wydatki, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone, w tym od podstawy opodatkowania podatkiem dochodowym. Art. 18ee. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych na działalność:
+
+- **1)** sportową,
+- **2)** kulturalną w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej,
+- **3)** wspierającą szkolnictwo wyższe i naukę – przy czym kwota odliczenia nie może w roku podatkowym przekroczyć kwoty dochodu uzyskanego przez podatnika z przychodów innych niż przychody z zysków kapitałowych.
+
+2. Za koszty uzyskania przychodów poniesione na działalność sportową uznaje się koszty poniesione na finansowanie:
+
+- **1)** klubu sportowego, o którym mowa w art. 28 ust. 1 ustawy z dnia 25 czerwca 2010 r. o sporcie, na realizację celów wskazanych w art. 28 ust. 2 tej ustawy;
+- **2)** stypendium sportowego;
+- **3)** imprezy sportowej, niebędącej masową imprezą sportową, o której mowa w art. 3 pkt 3 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2023 r. poz. 616).
+
+3. Przez stypendium sportowe, o którym mowa w ust. 2 pkt 2, rozumie się finansowane przez podatnika jednostronne, bezzwrotne świadczenie pieniężne, które jest przyznawane przez jednostki samorządu terytorialnego, ministra właściwego do spraw kultury fizycznej, organizacje pożytku publicznego lub kluby sportowe, za osiągnięcie określonego wyniku sportowego lub umożliwiające przygotowanie się do imprezy sportowej.
+
+4. Za koszty uzyskania przychodów poniesione na działalność kulturalną uznaje się koszty poniesione na finansowanie:
+
+- **1)** instytucji kultury wpisanych do rejestru prowadzonego na podstawie art. 14 ust. 3 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej;
+- **2)** działalności kulturalnej realizowanej przez uczelnie artystyczne i publiczne szkoły artystyczne.
+
+5. Za koszty uzyskania przychodów poniesione na działalność wspierającą szkolnictwo wyższe i naukę uznaje się koszty poniesione na:
+
+- **1)** stypendia, o których mowa w: zm. );
+    - **a)** art. 97 i art. 213 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce,
+    - **b)** art. 283 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn.
+
+- **2)** finansowanie zatrudnionemu przez podatnika pracownikowi opłat, o których mowa w art. 163 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, określonych w umowie zawartej pomiędzy podmiotem prowadzącym kształcenie a osobą podejmującą kształcenie;
+- **3)** finansowanie wynagrodzeń, wraz z pochodnymi, studentów odbywających u podatnika staże i praktyki przewidziane programem studiów;
+- **4)** sfinansowanie studiów dualnych, o których mowa w art. 62 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, na konkretnym kierunku studiów, w tym koszty praktyk;
+- **5)** wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, prowadzonego przez tę uczelnię.
+
+6. Odliczenie kosztów, o których mowa w ust. 5 pkt 3–5, przysługuje pod warunkiem, że są ponoszone na podstawie umowy zawartej przez podatnika z uczelnią.
+
+7. Prawo do odliczenia kosztów uzyskania przychodów poniesionych na działalność wspierającą szkolnictwo wyższe i naukę nie przysługuje podatnikowi będącemu założycielem uczelni niepublicznej.
+
+8. Koszty, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym.
+
+9. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty, o których mowa w ust. 1.
+
+10. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
+
+11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 16 ust. 1 pkt 48 nie stosuje się. Art. 18ef. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
+
+- **1)** 2500 zł w roku podatkowym – w przypadku podatników zwolnionych z obowiązku prowadzenia ewidencji sprzedaży na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych przy zastosowaniu kas rejestrujących, zgodnie z przepisami o podatku od towarów i usług;
+- **2)** 1000 zł w roku podatkowym – w przypadku podatników innych niż określonych w pkt 1.
+
+2. Podatnik, o którym mowa w ust. 1, będący małym podatnikiem, któremu w roku podatkowym przysługuje prawo do otrzymania zwrotu różnicy podatku, o której mowa w art. 87 ust. 2 ustawy o podatku od towarów i usług, na zasadach określonych w art. 87 ust. 6d–6l tej ustawy:
+
+- **1)** przez co najmniej 7 miesięcy – w przypadku podatnika, o którym mowa w art. 99 ust. 1 ustawy o podatku od towarów i usług,
+- **2)** przez co najmniej 2 kwartały – w przypadku podatnika, o którym mowa w art. 99 ust. 2 i 3 ustawy o podatku od towarów i usług – może odliczyć z tytułów, o których mowa w ust. 1, kwotę odpowiadającą 200 % poniesionych wydatków, niewięcej niż 2000 zł w roku podatkowym, przy czym odliczenie przysługuje w każdym roku podatkowym, w którym podatnik poniósł wydatki, przy czym przepisów ust. 6 i 7 nie stosuje się.
+
+3. Kwota odliczenia, o którym mowa w ust. 1 i 2, nie może w roku podatkowym przekroczyć kwoty dochodu uzyskanego przez podatnika z przychodów innych niż przychody z zysków kapitałowych.
+
+4. Prawo do odliczenia, o którym mowa w ust. 2, przysługuje w przypadku, gdy prawo do otrzymania różnicy podatku, na zasadach określonych w art. 87 ust. 6d–6l ustawy o podatku od towarów i usług, przysługuje podatnikowi lub spółce niebędącej osobą prawną, w której podatnik jest wspólnikiem.
+
+5. Jeżeli w związku z poniesionymi wydatkami, o których mowa w ust. 1, podatnik ma prawo do dokonania odliczenia, o którym mowa w ust. 1 i 2, dokonuje odliczenia na podstawie ust. 1 albo 2.
+
+6. Podatnik, który zapewnił możliwość przyjmowania płatności przy użyciu terminala płatniczego, korzystając z programów finansujących zwrot wydatków związanych z obsługą transakcji płatniczych przy użyciu terminala płatniczego, wydatki, o których mowa w ust. 1, odlicza w roku podatkowym, w którym zaprzestał korzystania z programów finansujących zwrot wydatków związanych z obsługą transakcji płatniczych przy użyciu terminala płatniczego, i w roku następującym po tym roku.
+
+7. Przepisu ust. 1 nie stosuje się do podatnika, który przyjmował płatności przy użyciu terminala płatniczego w okresie 12 miesięcy bezpośrednio poprzedzających miesiąc, w którym podatnik ponownie rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego.
+
+8. Przez wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego rozumie się opłaty, o których mowa w art. 2 pkt 19a–19ab ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069 oraz z 2026 r. poz. 340), i opłaty z tytułu korzystania z terminala płatniczego wynikające z umowy najmu, dzierżawy lub innej umowy o podobnym charakterze.
+
+9. Przez terminal płatniczy rozumie się urządzenie umożliwiające dokonywanie płatności bezgotówkowych z wykorzystaniem karty płatniczej lub innego instrumentu płatniczego, w rozumieniu przepisów ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
+
+10. Jeżeli poniesione wydatki były opodatkowane podatkiem od towarów i usług, za kwotę wydatku uważa się kwotę wydatku wraz z podatkiem od towarów i usług, o ile podatek ten nie został odliczony na podstawie ustawy o podatku od towarów i usług.
+
+11. Odliczeniu nie podlegają wydatki w części, w jakiej zostały zwrócone podatnikowi w jakiejkolwiek formie.
+
+12. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono wydatki.
+
+13. Kwota odliczenia nieznajdująca pokrycia w rocznym dochodzie podatnika podlega odliczeniu w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym poniesiono wydatek.
+
+14. W przypadku skorzystania z odliczeń, o których mowa w ust. 1 i 2, przepisu art. 16 ust. 1 pkt 48 nie stosuje się. Art. 18eg. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę:
+
+- **1)** 12 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 1 rok nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
+- **2)** 15 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 2 lata nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
+- **3)** 18 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 3 lata nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
+- **4)** 21 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 4 lata nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
+- **5)** 24 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 5 lat nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie.
+
+2. Warunek, o którym mowa w ust. 1, dotyczący okresu służby żołnierza terytorialnej służby wojskowej lub żołnierza aktywnej rezerwy, ustala się na ostatni dzień roku podatkowego albo ostatni dzień zatrudnienia tego żołnierza w roku podatkowym.
+
+3. Podatnik będący mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu odpowiednio art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców może podwyższać kwoty, o których mowa w ust. 1, o współczynnik 1,5.
+
+4. Podatnik, który przez cały rok podatkowy zatrudnia w ramach stosunku pracy co najmniej 5 pracowników, w przeliczeniu na pełne etaty, który nie jest mikroprzedsiębiorcą lub małym przedsiębiorcą, może podwyższać kwoty, o których mowa w ust. 1, o współczynnik 1,2.
+
+5. Kwota odliczenia, o której mowa w ust. 1, 3 i 4, nie może przekroczyć dochodu osiągniętego przez podatnika w roku podatkowym z innych źródeł przychodów niż przychody z zysków kapitałowych. W przypadku gdy podatnik poniósł w tym źródle za rok podatkowy stratę albo wielkość dochodu osiągniętego przez podatnika w tym źródle jest niższa od kwoty przysługujących mu odliczeń, podatnik może dokonać odliczenia, o którym mowa w zdaniu pierwszym, w najbliższych kolejno po sobie następujących 5 latach podatkowych, z tym że kwota odliczenia nie może przekroczyć w żadnym z tych lat wysokości dochodu osiągniętego w ramach innych źródeł przychodów niż przychody z zysków kapitałowych.
+
+6. Jeżeli żołnierz terytorialnej służby wojskowej lub aktywnej rezerwy, o którym mowa w ust. 1, był zatrudniony w ramach stosunku pracy przez niepełny rok podatkowy, prawo do odliczenia przysługuje w wysokości 1/12 kwoty, o której mowa w ust. 1, za każdy pełny miesiąc kalendarzowy tego zatrudnienia.
+
+7. Kwota odliczenia, o której mowa w ust. 1, przysługuje na każdego zatrudnionego w ramach stosunku pracy żołnierza terytorialnej służby wojskowej lub żołnierza aktywnej rezerwy, niebędącego wspólnikiem tego podatnika, któremu, zgodnie z umową o pracę, przysługuje miesięczne wynagrodzenie w wysokości co najmniej minimalnego wynagrodzenia za pracę obowiązującego w danym miesiącu na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę. W przypadku prowadzenia działalności w formie spółki niebędącej osobą prawną, za zatrudnionego, o którym mowa w zdaniu pierwszym, nie uważa się wspólnika tej spółki.
+
+8. Odliczenia dokonuje się w zeznaniu, o którym mowa w art. 27 ust. 1, podając numer PESEL żołnierzy terytorialnej służby wojskowej lub aktywnej rezerwy, liczbę miesięcy i lat nieprzerwanej służby w terytorialnej służbie wojskowej, informacje, czy podatnik jest mikroprzedsiębiorcą, małym przedsiębiorcą lub zatrudnia co najmniej 5 pracowników. Na żądanie organów podatkowych podatnik jest obowiązany przedstawić zaświadczenia, oświadczenia oraz inne dowody niezbędne do ustalenia prawa do odliczenia.
+
+9. Jeżeli rok podatkowy podatnika jest krótszy lub dłuższy niż 12 miesięcy, wysokość przysługującego podatnikowi odliczenia ustala się jako iloczyn 1/12 kwot, o których mowa w ust. 1, oraz liczby miesięcy tego roku podatkowego podatnika.
 
 **Art. 18f.**
 
@@ -3367,6 +3713,106 @@ Art. 29–36. (pominięte)
 
 **Art. 24c.** W przypadku podatkowej grupy kapitałowej suma przychodów, o której mowa w art. 24b ust. 9, obejmuje sumę przychodów spółek tworzących podatkową grupę kapitałową. Art. 24ca. 1. Podatek od spółek będących podatnikami w rozumieniu art. 3 ust. 1 oraz podatkowych grup kapitałowych, które w roku podatkowym:
 
+- **1)** poniosły stratę ze źródła przychodów innych niż z zysków kapitałowych albo
+- **2)** osiągnęły udział dochodów ze źródła przychodów innych niż z zysków kapitałowych, określonych zgodnie z art. 7 ust. 1 albo art. 7a ust. 1, w przychodach innych niż z zysków kapitałowych w wysokości niewiększej niż 2 % – wynosi 10 % podstawy opodatkowania (minimalny podatek dochodowy).
+
+2. Dla celów obliczenia straty oraz udziału dochodów w przychodach, o których mowa w ust. 1, nie uwzględnia się:
+
+- **1)** zaliczonych do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne, kosztów wynikających z nabycia, wytworzenia lub ulepszenia środków trwałych lub wykorzystywania środków trwałych na podstawie umowy określonej w art. 17a pkt 1, jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający;
+- **2)** przychodów oraz kosztów uzyskania przychodów bezpośrednio lub pośrednio związanych z tymi przychodami odpowiednio osiągniętych albo poniesionych w związku z transakcją, jeżeli:
+    - **a)** cena lub sposób określenia ceny przedmiotu transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych oraz
+    - **b)** podatnik w roku podatkowym poniósł stratę ze źródła przychodów innych niż z zysków kapitałowych z transakcji, o której mowa w lit. a, albo osiągnął udział dochodów ze źródła przychodów innych niż z zysków kapitałowych w przychodach innych niż z zysków kapitałowych wynikający z takiej transakcji w wysokości niewiększej niż 2 %, przy czym obliczenia straty i udziału dochodów w przychodach dokonuje się odrębnie dla transakcji tego samego rodzaju;
+
+- **3)** zaliczonych do kosztów uzyskania przychodów opłat ustalonych w umowie określonej w art. 17a pkt 1;
+- **4)** przychodów oraz kosztów uzyskania przychodów bezpośrednio związanych z tymi przychodami z tytułu zbycia wierzytelności na rzecz instytucji finansowej w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, której przedmiotem działalności jest świadczenie usług finansowych polegających na odpłatnym nabywaniu od wierzyciela wierzytelności powstałych w wyniku zawarcia umowy sprzedaży towarów lub świadczenia usług pomiędzy tym wierzycielem a dłużnikiem;
+- **5)** wzrostu kosztów uzyskania przychodów z tytułu zakupu energii elektrycznej, cieplnej lub gazu przewodowego, stanowiącego dodatnią różnicę między kosztami uzyskania przychodów poniesionymi z tego tytułu w roku podatkowym, za który należny jest minimalny podatek dochodowy, a kosztami uzyskania przychodów poniesionymi z tego tytułu w roku podatkowym bezpośrednio poprzedzającym ten rok;
+- **6)** zapłaconych przez podmiot do tego obowiązany kwot:
+    - **a)** podatku akcyzowego,
+    - **b)** podatku od sprzedaży detalicznej,
+    - **c)** podatku od gier,
+    - **d)** opłaty paliwowej,
+    - **e)** opłaty emisyjnej;
+
+- **7)** zaliczonej odpowiednio do przychodów lub kosztów uzyskania przychodów kwoty podatku akcyzowego zawartego w cenie wyrobów akcyzowych kupowanych i sprzedanych przez podatnika dokonującego obrotu tymi wyrobami;
+- **8)** 20 % kosztów uzyskania przychodów, o których mowa w art. 15 ust. 4g–4h.
+
+3. Podstawę opodatkowania stanowi suma:
+
+- **1)** kwoty odpowiadającej 1,5 % wartości przychodów ze źródła przychodów innych niż z zysków kapitałowych osiągniętych przez podatnika w roku podatkowym oraz
+- **2)** poniesionych na rzecz podmiotów powiązanych w rozumieniu art. 11a ust. 1 pkt 4, z wyjątkiem gdy powiązania wynikają wyłącznie z powiązania ze Skarbem Państwa lub jednostkami samorządu terytorialnego lub ich związkami, kosztów finansowania dłużnego w rozumieniu art. 15c ust. 12 w takiej części, w jakiej koszty te przewyższają kwotę obliczoną według następującego wzoru: [(P – Po) – (K – Am – Kfd)] × 30 % w którym poszczególne symbole oznaczają: P – zsumowaną wartość przychodów ze wszystkich źródeł przychodów, z których dochody podlegają opodatkowaniu podatkiem dochodowym, Po – przychody o charakterze odsetkowym w rozumieniu art. 15c ust. 13, K – sumę kosztów uzyskania przychodów bez pomniejszeń wynikających z art. 15c ust. 1, Am – odpisy amortyzacyjne, o których mowa w art. 16a–16m, zaliczone w roku podatkowym do kosztów uzyskania przychodów, Kfd – zaliczone w roku podatkowym do kosztów uzyskania przychodów koszty finansowania dłużnego nieuwzględnione w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, przed dokonaniem pomniejszeń wynikających z art. 15c ust. 1, oraz
+- **3)** (uchylony)
+- **4)** kosztów:
+    - **a)** usług doradczych, badania rynku, usług reklamowych, zarządzania i kontroli, przetwarzania danych, ubezpieczeń, gwarancji i poręczeń oraz świadczeń o podobnym charakterze,
+    - **b)** wszelkiego rodzaju opłat i należności za korzystanie lub prawo do korzystania z praw lub wartości, o których mowa w art. 16b ust. 1 pkt 4– 7,
+    - **c)** przeniesienia ryzyka niewypłacalności dłużnika z tytułu pożyczek, innych niż udzielonych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe, w tym w ramach zobowiązań wynikających z pochodnych instrumentów finansowych oraz świadczeń o podobnym charakterze – poniesionych bezpośrednio lub pośrednio na rzecz podmiotów powiązanych w rozumieniu art. 11a ust. 1 pkt 4 lub podmiotów mających miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2, w części, w jakiej koszty te łącznie w roku podatkowym przekraczają o 3 000 000 zł kwotę obliczoną według następującego wzoru: [(P – Po) – (K – Am – O)] × 5 % w którym poszczególne symbole oznaczają: P – zsumowaną wartość przychodów ze wszystkich źródeł przychodów, z których dochody podlegają opodatkowaniu podatkiem dochodowym, Po – przychody o charakterze odsetkowym w rozumieniu art. 15c ust. 13, K – sumę kosztów uzyskania przychodów bez pomniejszeń wynikających z art. 15c ust. 1, Am – odpisy amortyzacyjne, o których mowa w art. 16a–16m, zaliczone w roku podatkowym do kosztów uzyskania przychodów, O – zaliczone w roku podatkowym do kosztów uzyskania przychodów odsetki, bez pomniejszeń wynikających z art. 15c ust. 1.
+
+3a. Podatnik może wybrać uproszczony sposób ustalania podstawy opodatkowania stanowiącej kwotę odpowiadającą 3 % wartości osiągniętych przez podatnika w roku podatkowym przychodów ze źródła przychodów innych niż z zysków kapitałowych, przy czym o wyborze takiego sposobu ustalania podstawy opodatkowania podatnik informuje w zeznaniu, o którym mowa w art. 27 ust. 1, składanym za rok podatkowy, za który dokonał takiego wyboru.
+
+4. Do przychodów i kosztów, o których mowa w ust. 3 pkt 2 i 4, przepis art. 7 ust. 3 stosuje się odpowiednio.
+
+5. Przez przychody i koszty, o których mowa w ust. 3 pkt 2 i 4, rozumie się również przychody i koszty przypisane podatnikowi zgodnie z art. 5.
+
+6. Przy wyliczaniu nadwyżki kosztów, o których mowa w ust. 3 pkt 2, przepisy art. 15c ust. 8–11 stosuje się.
+
+7. Za koszty poniesione pośrednio na rzecz podmiotów, o których mowa w ust. 3 pkt 4, uważa się koszty poniesione na rzecz podmiotu niepowiązanego w rozumieniu art. 11a ust. 1 pkt 3 z podatnikiem, jeżeli rzeczywistym właścicielem należności z tytułów, o których mowa w ust. 3 pkt 4, lub jej części jest podmiot powiązany w rozumieniu art. 11a ust. 1 pkt 4 z podatnikiem lub podmiot mający miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2.
+
+8. Jeżeli rok podatkowy podatnika jest dłuższy albo krótszy niż 12 miesięcy, kwotę 3 000 000 zł, o której mowa w ust. 3 pkt 4, oblicza się, mnożąc kwotę 250 000 zł przez liczbę rozpoczętych miesięcy roku podatkowego podatnika.
+
+9. Przepisu ust. 3 pkt 4 nie stosuje się do:
+
+- **1)** kosztów usług, o których mowa w art. 8 ust. 2a ustawy o podatku od towarów i usług;
+- **2)** usług ubezpieczenia świadczonych przez podmioty, o których mowa w art. 15c ust. 16 pkt 6 i 7;
+- **3)** gwarancji i poręczeń udzielonych przez podmioty, o których mowa w art. 15c ust. 16 pkt 1–3, 6 i 7.
+
+10. Podstawa opodatkowania podlega pomniejszeniu o:
+
+- **1)** wartość odliczeń zmniejszających w roku podatkowym podstawę opodatkowania, o której mowa w art. 18, z wyłączeniem pomniejszeń, o których mowa w art. 18f, przy czym art. 27 ust. 4a stosuje się odpowiednio;
+- **2)** przychody, które są uwzględniane przy obliczaniu dochodu zwolnionego z podatku na podstawie art. 17 ust. 1 pkt 34 lub 34a, u podatnika, który w roku podatkowym korzysta ze zwolnień podatkowych określonych w tych przepisach;
+- **3)** przychody, o których mowa w ust. 2.
+
+11. Podatnicy obowiązani do zapłaty minimalnego podatku dochodowego są obowiązani w zeznaniu, o którym mowa w art. 27 ust. 1, wykazać podstawę opodatkowania, pomniejszenia, o których mowa w ust. 10, i kwotę minimalnego podatku dochodowego.
+
+12. Podatnicy są obowiązani wpłacić na rachunek urzędu skarbowego należny minimalny podatek dochodowy w terminie, o którym mowa w art. 27 ust. 1, przy czym kwotę minimalnego podatku dochodowego podlegającą wpłacie pomniejsza się o należny za ten sam rok podatkowy podatek obliczony zgodnie z art. 19.
+
+13. Kwotę zapłaconego za dany rok podatkowy minimalnego podatku dochodowego odlicza się od podatku obliczonego zgodnie z art. 19. Odliczenia dokonuje się w zeznaniu, o którym mowa w art. 27 ust. 1, za kolejno następujące po sobie 3 lata podatkowe następujące bezpośrednio po roku, za który podatnik wpłacił minimalny podatek dochodowy.
+
+14. Przepisu ust. 1 nie stosuje się do podatników:
+
+- **1)** w roku podatkowym, w którym rozpoczęli działalność, oraz w kolejno następujących po sobie dwóch latach podatkowych, następujących bezpośrednio po tym roku podatkowym;
+- **2)** będących przedsiębiorstwami finansowymi w rozumieniu art. 15c ust. 16;
+- **3)** jeżeli w roku podatkowym uzyskali przychody niższe o co najmniej 30 % w stosunku do przychodów uzyskanych w roku podatkowym bezpośrednio poprzedzającym ten rok podatkowy;
+- **4)** których udziałowcami, akcjonariuszami albo wspólnikami są wyłącznie osoby fizyczne i jeżeli podatnik nie posiada:
+    - **a)** bezpośrednio lub pośrednio, więcej niż 5 %: – udziałów (akcji) w kapitale innej spółki lub – ogółu praw i obowiązków w spółce niebędącej osobą prawną,
+    - **b)** innych praw majątkowych związanych z prawem do otrzymania świadczenia jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym;
+
+- **5)** jeżeli w roku podatkowym większość uzyskanych przez nich przychodów innych niż z zysków kapitałowych zostało osiągniętych w związku z:
+    - **a)** eksploatacją w transporcie międzynarodowym statków morskich lub statków powietrznych,
+    - **b)** wydobywaniem kopalin wymienionych w załączniku do ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz.
+
+- **69)** , których ceny zależą bezpośrednio lub pośrednio od notowań na światowych rynkach,
+    - **c)** wykonywaniem działalności leczniczej, o której mowa w art. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
+    - **d)** transakcjami, o których mowa w ust. 2 pkt 2;
+
+- **6)** wchodzących w skład grupy co najmniej dwóch spółek, w której jedna spółka posiada przez cały rok podatkowy bezpośrednio lub pośrednio co najmniej 75 % udział odpowiednio w kapitale zakładowym, kapitale akcyjnym lub udziale kapitałowym pozostałych spółek wchodzących w skład tej grupy, jeżeli: 1, lub należące do podatkowej grupy kapitałowej;
+    - **a)** rok podatkowy spółek obejmuje ten sam okres oraz
+    - **b)** obliczony za rok podatkowy, zgodnie z ust. 1 i 2, udział łącznych dochodów spółek w ich łącznych przychodach jest większy niż 2 % – przy czym przy ustalaniu warunków, o których mowa w lit. a i b, uwzględnia się wszystkie spółki z grupy będące podatnikami, o których mowa w art. 3 ust.
+
+- **7)** będących małymi podatnikami;
+- **8)** będących spółkami prowadzącymi gospodarkę komunalną, o których mowa w rozdziale 3 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2021 r. poz. 679);
+- **9)** którzy osiągnęli udział, o którym mowa w ust. 1 pkt 2, w jednym z trzech lat podatkowych bezpośrednio poprzedzających rok podatkowy, za który należny jest minimalny podatek dochodowy, w wysokości co najmniej 2 %;
+- **10)** postawionych w stan upadłości, likwidacji lub objętych postępowaniem restrukturyzacyjnym;
+- **11)** będących stroną umowy o współdziałanie, o której mowa w art. 20s § 1 Ordynacji podatkowej;
+- **12)** będących instytucją finansową w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, której podstawowym przedmiotem działalności jest świadczenie usług finansowych polegających na odpłatnym nabywaniu od wierzyciela wierzytelności powstałych w wyniku zawarcia umowy sprzedaży towarów lub świadczenia usług pomiędzy tym wierzycielem a dłużnikiem;
+- **13)** będących przedsiębiorstwami górniczymi otrzymującymi pomoc publiczną na podstawie ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2024 r. poz. 1383 oraz z 2025 r. poz. 1822).
+
+15. Podatnicy, o których mowa w ust. 14 pkt 6, przekazują do urzędu skarbowego informację o spółkach wchodzących w roku podatkowym w skład grupy spełniającej warunki określone w tym przepisie, w terminie złożenia zeznania, o którym mowa w art. 27 ust. 1.
+
+15a. Łączny dochód spółek wchodzących w skład grupy, o którym mowa w ust. 14 pkt 6 lit. b, stanowi nadwyżka sumy dochodów nad sumą strat spółek tworzących tę grupę.
+
+16. Przepisu ust. 14 pkt 1 nie stosuje się do podatników utworzonych w sposób określony w art. 19 ust. 1a.
+
+17. Przepisy ust. 1–16 stosuje się odpowiednio do podatnika, o którym mowa w art. 3 ust. 2, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład.
+
 **Art. 24d.**
 
 1. Podatek od osiągniętego przez podatnika kwalifikowanego dochodu z kwalifikowanych praw własności intelektualnej wynosi 5 % podstawy opodatkowania.
@@ -3490,7 +3936,7 @@ Art. 29–36. (pominięte)
 
 **Art. 24i.**
 
-1. Podatnik może wystąpić do właściwego naczelnika urzędu skarbowego o rozłożenie na raty zapłaty całości albo części podatku od dochodów z niezrealizowanych zysków, na okres niedłuższy niż 5 lat, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przeniesienie składników majątku albo przeniesienie rezydencji podatkowej następuje na terytorium państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną zawartej z Rzecząpospolitą Polską lub Unią Europejską umowy w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, 1).
+1. Podatnik może wystąpić do właściwego naczelnika urzędu skarbowego o rozłożenie na raty zapłaty całości albo części podatku od dochodów z niezrealizowanych zysków, na okres niedłuższy niż 5 lat, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przeniesienie składników majątku albo przeniesienie rezydencji podatkowej następuje na terytorium państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną zawartej z Rzecząpospolitą Polską lub Unią Europejską umowy w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, s. 1).
 
 2. W przypadku gdy istnieje realne ryzyko nieodzyskania podatku od dochodów z niezrealizowanych zysków, rozłożenie na raty zapłaty całości albo części tego podatku następuje po przedłożeniu przez podatnika zabezpieczenia wykonania zobowiązania podatkowego z tego tytułu wraz z opłatą prolongacyjną w formie przewidzianej przepisami Ordynacji podatkowej dla zabezpieczeń wykonania zobowiązań podatkowych.
 
@@ -4172,6 +4618,13 @@ Art. 29–36. (pominięte)
 
 **Art. 28c.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** podmiotach powiązanych – oznacza to podmioty powiązane w rozumieniu art. 11a ust. 1 pkt 4, przy czym wielkość udziałów i praw, o których mowa w art. 11a ust. 2 pkt 1 lit. a–c, wynosi, z zastrzeżeniem art. 28j ust. 1 pkt 2 lit. g, co najmniej 5 %;
+- **2)** podziale lub pokryciu wyniku finansowego netto – oznacza to podział lub pokrycie wyniku finansowego netto, o których mowa w przepisach o rachunkowości;
+- **2a)** przeciętnym miesięcznym wynagrodzeniu w sektorze przedsiębiorstw – oznacza to przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w trzecim kwartale roku kalendarzowego poprzedzającego pierwszy dzień roku podatkowego, ogłaszane przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
+- **3)** wyniku finansowym netto – oznacza to wynik finansowy netto ustalany na podstawie przepisów o rachunkowości;
+- **4)** zysku (stracie) netto – oznacza to zysk (stratę) netto ustalany na podstawie przepisów o rachunkowości;
+- **5)** rozdysponowanym dochodzie z tytułu zysku netto – oznacza to część dochodu z tytułu zysku netto, która została przeznaczona do dystrybucji w jakiejkolwiek formie, w tym do wypłaty wspólnikom, na pokrycie strat powstałych w okresie innym niż okres opodatkowania ryczałtem, na wypłatę wynagrodzeń związanych z udziałami, na podwyższenie kapitału zakładowego.
+
 **Art. 28d.**
 
 1. Podatnik opodatkowany ryczałtem od dochodów spółek, zwanym dalej w niniejszym rozdziale „ryczałtem”, jest obowiązany do prowadzenia ksiąg rachunkowych oraz sporządzania sprawozdań finansowych na podstawie przepisów o rachunkowości w sposób zapewniający prawidłowe określenie:
@@ -4641,6 +5094,9 @@ Art. 29–36. (pominięte)
 3. W zakresie nieuregulowanym w niniejszym artykule, do darowizn stosuje się odpowiednio przepisy art. 18 ust. 1b, 1c, 1e–1g, 1k oraz art. 27 ust. 4a.
 
 **Art. 38h.** (uchylony) Art. 38ha. Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 24b, ustalone za okres:
+
+- **1)** od dnia 1 marca 2020 r. do dnia 31 grudnia 2020 r.;
+- **2)** od dnia 1 stycznia 2021 r. do końca miesiąca, w którym stan epidemii został odwołany – w przypadku obowiązywania po dniu 31 grudnia 2020 r. stanu epidemii ogłoszonego z powodu COVID-19. Art. 38hb. Zwalnia się od podatku dochodowego dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 1 pkt 3 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2024 r. poz. 1509 oraz z 2025 r. poz. 290 i 759).
 
 **Art. 38i.**
 

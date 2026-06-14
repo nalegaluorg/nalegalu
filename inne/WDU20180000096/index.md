@@ -8,10 +8,10 @@ pos: 96
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 stycznia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 96 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 10 stycznia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/96/text.pdf) |
 
-Poz. 96 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 10 stycznia 2018 r.
-w sprawie szczegółowego zakresu działania Ministra Środowiska Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje: § 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Środowiska, zwanego dalej „ministrem”.
+w sprawie szczegółowego zakresu działania Ministra Środowiska Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Środowiska, zwanego dalej „ministrem”.
 2. Minister kieruje działem administracji rządowej – środowisko.
 3. Minister jest dysponentem części 41 budżetu państwa.
 4. Obsługę ministra zapewnia Ministerstwo Środowiska.
 5. Organy podległe ministrowi lub przez niego nadzorowane określa załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 9 stycznia 2018 r.
-Prezes Rady Ministrów: M. Morawiecki Dziennik Ustaw – 2 – Poz. 96 WYKAZ ORGANÓW PODLEGŁYCH MINISTROWI ŚRODOWISKA LUB PRZEZ NIEGO NADZOROWANYCH
+Prezes Rady Ministrów: M. Morawiecki WYKAZ ORGANÓW PODLEGŁYCH MINISTROWI ŚRODOWISKA LUB PRZEZ NIEGO NADZOROWANYCH
 1) Generalny Dyrektor Ochrony Środowiska;
 2) Główny Inspektor Ochrony Środowiska;
 3) Prezes Państwowej Agencji Atomistyki.

@@ -8,7 +8,7 @@ pos: 1344
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo farmaceutyczne oraz ustawy o zawodzie farmaceuty

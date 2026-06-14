@@ -1,0 +1,99 @@
+---
+title: Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniające rozporządzenie w sprawie oświadczeń o stanie majątkowym funkcjonariuszy oraz pracowników Straży Granicznej
+address: WDU20180000243
+eli: DU/2018/243
+publisher: DU
+year: 2018
+pos: 243
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 243 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 23 stycznia 2018 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 243 |
+| ISAP | WDU20180000243 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2018-01-23 |
+| Data wydania | 2018-01-26 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/243/text.pdf) |
+
+zmieniające rozporządzenie w sprawie oświadczeń o stanie majątkowym funkcjonariuszy oraz pracowników Straży Granicznej Na podstawie art. 91a ust. 9 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. w sprawie oświadczeń o stanie majątkowym funkcjonariuszy oraz pracowników Straży Granicznej (Dz. U. poz. 2364) wprowadza się następujące zmiany:
+1) w § 2 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) Komendantowi Głównemu Straży Granicznej:
+a) Komendant Biura Spraw Wewnętrznych Straży Granicznej oraz jego zastępcy,
+b) komendanci oddziałów Straży Granicznej oraz ich zastępcy,
+c) komendanci ośrodków szkolenia Straży Granicznej oraz ich zastępcy,
+d) komendanci ośrodków Straży Granicznej oraz ich zastępcy,
+e) funkcjonariusze pełniący służbę w Komendzie Głównej Straży Granicznej;
+3) Komendantowi Biura Spraw Wewnętrznych Straży Granicznej, komendantom oddziałów Straży Granicznej, ośrodków szkolenia Straży Granicznej lub ośrodków Straży Granicznej – funkcjonariusze pełniący służbę w podległych im jednostkach organizacyjnych.”;
+2) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
+Minister Spraw Wewnętrznych i Administracji: J. Brudziński Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji …..) WZÓR WZÓR POUCZENIE
+1. Osoba składająca oświadczenie o stanie majątkowym wypełnia dwie jego integralne części: w części A oświadczenia są zawarte informacje dotyczące stanu majątkowego, w części B zaś informacje dotyczące daty i miejsca urodzenia, numeru PESEL, adresu zamieszkania składającego oświadczenie oraz miejsca położenia nieruchomości – niepodlegające publikacji w Biuletynie Informacji Publicznej w zakresie określonym w art. 91a ust. 8 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138).
+2. Osoba składająca oświadczenie o stanie majątkowym jest obowiązana do zgodnego z prawdą, starannego i zupełnego wypełnienia każdej z rubryk oświadczenia znajdujących się w poszczególnych jego częściach (oznaczonych lit. A i cyframi rzymskimi albo lit. B) oraz punktach i pozycjach tabel (oznaczonych cyframi arabskimi), kierując się treścią zamieszczonych objaśnień.
+3. Jeżeli poszczególne części i punkty oświadczenia o stanie majątkowym nie znajdują w konkretnym przypadku zastosowania, należy skreślić niewłaściwe sformułowanie w nich zawarte.
+4. W przypadku wyczerpania miejsca przewidzianego w formularzu na podanie informacji w ramach poszczególnych części, punktów lub pozycji, do oświadczenia o stanie majątkowym należy dołączyć arkusze formatu A4 zawierające: uzupełnienie wymaganych informacji w układzie i stopniu szczegółowości określonych we właściwych punktach oświadczenia, oznaczenie formularza oświadczenia, części, punktu i pozycji, do których odnoszą się te informacje, oraz datę i podpis składającego oświadczenie.
+OŚWIADCZENIE O STANIE MAJĄTKOWYM FUNKCJONARIUSZA / PRACOWNIKA* STRAŻY GRANICZNEJ
+pełniący(-ca) służbę / zatrudniony(-na)* w ………………………………………………………………………………………………………………………………….
+………………………………………………………………………………………………………………………………….
+po zapoznaniu się z przepisami ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138), składając oświadczenie o stanie majątkowym zgodnie z art. 91a tej ustawy : * Niewłaściwe skreślić.
+We właściwy kwadrat wpisać znak X oraz uzupełnić odpowiednie dane.
+1/11 □ przy nawiązaniu stosunku służbowego ……………………………………………………………………………………...
+□ według stanu na dzień 31 grudnia roku poprzedniego, tj. ………………………………..……….………………………… □ przy rozwiązywaniu stosunku służbowego ………………………………………………………………………………… □ na żądanie Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, właściwego komendanta oddziału Straży Granicznej, komendanta ośrodka szkolenia Straży Granicznej lub komendanta ośrodka Straży Granicznej ....................................................................................................................................................
+podaję według stanu na określony powyżej dzień następujące informacje o składnikach majątku posiadanych na terytorium Rzeczypospolitej Polskiej oraz poza jej granicami.
+I
+1. Posiadam domy, mieszkania lub inne nieruchomości / nie posiadam domów, mieszkań lub innych nieruchomości*: (nie dotyczy gospodarstwa rolnego – informacje w tym zakresie należy podać w pkt 2) Poz. Zakres informacji Nieruchomość 1. Nieruchomość 2. Nieruchomość 3.
+1 Opis nieruchomości (dom, mieszkanie, lokal użytkowy, plac, działka – rodzaj zabudowy, garaż, hala, magazyn, inne – wymienić) 2 Powierzchnia nieruchomości w m 3 Wskazanie, czy nieruchomość należy do majątku osobistego osoby składającej oświadczenie czy do majątku objętego małżeńską wspólnością majątkową 4 Tytuł prawny do władania nieruchomością (własność, współwłasność: małżeńska lub z osobą trzecią – wielkość udziału, udział we wspólnocie gruntowej, spółdzielcze własnościowe prawo, inny tytuł – wymienić) 5 Forma nabycia nieruchomości (kupno, spadek, darowizna, zamiana, zniesienie współwłasności, zasiedzenie, inna forma – wymienić) * Niewłaściwe skreślić. 2/11 6 Wartość nieruchomości z ostatniego posiadanego dokumentu określającego tę wartość albo – w przypadku braku takiego dokumentu – data i cena nabycia z aktu notarialnego lub innego dokumentu stwierdzającego nabycie nieruchomości (należy podać rodzaj i datę wydania tych dokumentów).
+W przypadku braku wymienionych dokumentów podać opis nieruchomości i przybliżoną datę jej nabycia lub wybudowania.
+2. Posiadam gospodarstwo rolne / nie posiadam gospodarstwa rolnego*: Poz. Zakres informacji Gospodarstwo rolne 1. Gospodarstwo rolne 2.
+1 Forma gospodarstwa rolnego, kierunek prowadzonej w gospodarstwie rolnym produkcji rolnej 2 Powierzchnia gruntów rolnych gospodarstwa rolnego w ha 3 Rodzaj zabudowy (dom, budynki gospodarcze, np. stajnia, stodoła, inne – wymienić) 4 Powierzchnia wskazanych wyżej budynków w m 5 Wskazanie, czy gospodarstwo należy do majątku osobistego osoby składającej oświadczenie czy do majątku objętego małżeńską wspólnością majątkową 6 Tytuł prawny do władania gospodarstwem (własność, współwłasność: małżeńska lub z osobą trzecią – wielkość udziału, użytkowanie wieczyste, użytkowanie, dzierżawa, udział we wspólnocie gruntowej, inny tytuł – wymienić) 7 Forma nabycia gospodarstwa (kupno, spadek, darowizna, zamiana, zniesienie współwłasności, zasiedzenie, inna forma – wymienić) 8 Wartość gospodarstwa rolnego z ostatniego posiadanego dokumentu określającego tę wartość albo – w przypadku braku takiego dokumentu – data i cena nabycia z aktu notarialnego lub innego dokumentu stwierdzającego nabycie gospodarstwa (należy podać rodzaj i datę wydania tych dokumentów).
+W przypadku braku wymienionych dokumentów podać opis gospodarstwa i przybliżoną datę jego nabycia lub wybudowania.
+* Niewłaściwe skreślić.
+3/11
+3. Posiadam zasoby pieniężne / nie posiadam zasobów pieniężnych*: Kwota środków pieniężnych zgromadzonych w walucie polskiej (suma środków zgromadzonych w gotówce oraz na rachunkach bieżących i lokatach prowadzonych przez banki, spółdzielcze kasy oszczędnościowo-kredytowe lub inne instytucje finansowe) Kwota środków pieniężnych zgromadzonych w walucie obcej (w rozbiciu na poszczególne waluty – suma środków zgromadzonych w gotówce oraz na rachunkach bieżących i lokatach prowadzonych przez banki lub inne instytucje finansowe) Papiery wartościowe (rodzaj, ilość, data i cena nabycia, a w przypadku papierów wartościowych w obrocie publicznym – wartość rynkowa na dzień złożenia oświadczenia) II Posiadam mienie nabyte / nie posiadam mienia nabytego* od Skarbu Państwa, innej państwowej osoby prawnej, gminy, związku międzygminnego, powiatu, związku powiatów, związku powiatowo-gminnego lub związku metropolitalnego, które podlegało zbyciu w drodze przetargu: Rodzaj mienia Powierzchnia w ha lub m (w przypadku nabycia nieruchomości gruntowej, domu, mieszkania) Wskazanie, czy mienie zostało nabyte do majątku osobistego osoby składającej oświadczenie czy do majątku objętego małżeńską wspólnością majątkową Tytuł prawny do władania mieniem (własność, współwłasność małżeńska lub z osobą trzecią – wielkość udziału, użytkowanie wieczyste, użytkowanie, dzierżawa, inny tytuł – wymienić) Dane podmiotu, od którego mienie nabyto (nazwa i adres) * Niewłaściwe skreślić.
+4/11 6 Wartość nabytego mienia z ostatniego posiadanego dokumentu określającego tę wartość, a w przypadku braku takiego dokumentu – data i cena nabycia z aktu notarialnego lub innego dokumentu stwierdzającego nabycie mienia (należy podać rodzaj i datę wydania tych dokumentów) III
+1. Jestem / nie jestem* członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółki prawa handlowego lub spółdzielni : Poz. Zakres informacji Podmiot 1. Podmiot 2. Podmiot 3.
+1 Nazwa i adres spółki, spółdzielni 2 Pełnione funkcje lub zajmowane stanowiska (w tym członkostwo w zarządzie, radzie nadzorczej, komisji rewizyjnej) 3 Data rozpoczęcia pełnienia funkcji lub zajmowania stanowisk
+2. Uczestniczę / nie uczestniczę* w spółkach cywilnych lub spółkach prawa handlowego: Poz. Zakres informacji Spółka 1. Spółka 2. Spółka 3.
+1 Nazwa i adres spółki 2 Forma prawna uczestnictwa w spółce (wspólnik, partner, komandytariusz, komplementariusz, udziałowiec, akcjonariusz) 3 Data rozpoczęcia uczestnictwa w spółce * Niewłaściwe skreślić.
+Nie dotyczy członkostwa w radach nadzorczych spółdzielni mieszkaniowych.
+5/11
+3. Posiadam udziały lub akcje / nie posiadam udziałów lub akcji* w spółkach prawa handlowego lub jestem / nie jestem* wspólnikiem w osobowych spółkach handlowych: Poz. Zakres informacji Spółka 1. Spółka 2. Spółka 3.
+1 Nazwa i adres spółki 2 Ilość i wartość nominalna wkładów lub udziałów 3 Ilość i wartość nominalna akcji, a w przypadku akcji w obrocie publicznym – wartość rynkowa na dzień złożenia oświadczenia 4 Data nabycia wkładów, udziałów lub akcji IV Prowadzę / zawiesiłem(-łam)* działalność gospodarczą na własny rachunek lub wspólnie z innymi osobami / nie prowadzę działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami*, zarządzam / nie zarządzam* taką działalnością lub jestem / nie jestem* przedstawicielem czy też pełnomocnikiem w prowadzeniu takiej działalności : Poz. Zakres informacji Podmiot 1. Podmiot 2. Podmiot 3.
+1 Nazwa / firma prowadzonej lub zarządzanej działalności gospodarczej, lub której osoba składająca oświadczenie jest przedstawicielem lub pełnomocnikiem, oraz numer NIP, REGON lub KRS właściwy dla tej działalności 2 Wskazanie, czy działalność gospodarcza jest przez osobę składającą oświadczenie prowadzona czy zarządzana, czy osoba składająca oświadczenie jest przedstawicielem lub pełnomocnikiem tej działalności V Posiadam składniki rzeczowe / nie posiadam składników rzeczowych* mienia ruchomego o wartości jednostkowej powyżej 10 000 złotych: Poz. Zakres informacji Składnik mienia 1. Składnik mienia 2. Składnik mienia 3.
+1 Rodzaj mienia ruchomego (pojazdy mechaniczne, sprzęt rolniczy, jachty, łodzie, dzieła sztuki, biżuteria itp. – wymienić) 2 Wskazanie, czy mienie należy do majątku osobistego osoby składającej oświadczenie czy do majątku objętego małżeńską wspólnością majątkową * Niewłaściwe skreślić.
+Nie dotyczy to działalności wytwórczej w rolnictwie w zakresie produkcji roślinnej i zwierzęcej, w formie i zakresie gospodarstwa rodzinnego.
+6/11 Tytuł prawny do władania mieniem (własność, współwłasność małżeńska lub z osobą trzecią – wielkość udziału, użytkowanie, inny tytuł – wymienić) Wartość składnika mienia z ostatniego posiadanego dokumentu określającego jego wartość albo – w przypadku braku takiego dokumentu – data i cena nabycia składnika mienia z dokumentu stwierdzającego jego nabycie (należy podać rodzaj i datę wydania tych dokumentów).
+W przypadku braku wymienionych dokumentów podać opis składnika mienia i przybliżoną datę jego nabycia lub wytworzenia.
+Marka, model i rok produkcji – w przypadku pojazdów mechanicznych Rodzaj zobowiązania (kredyt, pożyczka, wierzytelność, inne zobowiązanie – wymienić) Dane podmiotu, wobec którego powstało zobowiązanie (nazwa banku, urzędu, instytucji, firmy, innego podmiotu wraz z adresem, a w przypadku zobowiązań wobec osób fizycznych należy wpisać: „zobowiązanie wobec osoby fizycznej”) Zdarzenie, w związku z którym powstało zobowiązanie Kwota zobowiązania oraz kwota pozostała do spłaty Termin spłaty zobowiązania (jeżeli jest określony w treści zobowiązania)
+2. Jestem / nie jestem* podmiotem praw majątkowych niewymienionych w innych częściach oświadczenia: Poz. Zakres informacji Prawo majątkowe 1. Prawo majątkowe 2. Prawo majątkowe 3.
+1 Rodzaj prawa majątkowego (ograniczone prawa rzeczowe, prawa autorskie, prawa do wynalazku, patentu, inne prawo – wymienić) 2 Dane podmiotu, wobec którego przysługuje prawo majątkowe (nazwa banku, urzędu, instytucji, firmy, innego podmiotu wraz z adresem, a w przypadku praw wobec osób fizycznych należy wpisać: „prawo majątkowe wobec osoby fizycznej”) 3 Zdarzenie, w związku z którym powstało prawo majątkowe 4 Wartość prawa majątkowego z ostatniego posiadanego dokumentu określającego jego wartość albo – w przypadku braku takiego dokumentu – data i cena nabycia prawa majątkowego z dokumentu stwierdzającego jego nabycie (należy podać rodzaj i datę wydania tych dokumentów).
+W przypadku braku wymienionych dokumentów podać opis prawa majątkowego i przybliżoną datę jego nabycia lub powstania.
+VII Uzyskałem(-łam) w roku ubiegłym przychody / nie uzyskałem(-łam) w roku ubiegłym przychodów*: Należy podać w poniższej tabeli:
+1) źródła uzyskanego przychodu zgodnie z podziałem formularza oświadczenia na części, w których został wymieniony stan prawny lub faktyczny związany z uzyskaniem przychodu, np.: część A-I: przychód z najmu nieruchomości, przychód z dzierżawy, przychód z gospodarstwa rolnego (z uwzględnieniem rodzaju i wysokości dotacji/dopłat), odsetki z lokat bankowych, przychód z posiadanych papierów wartościowych, część A-II: przychód z posiadanego mienia nabytego od Skarbu Państwa, innej państwowej osoby prawnej, gminy, związku międzygminnego, powiatu, związku powiatów, związku powiatowo-gminnego lub związku metropolitalnego, które podlegało zbyciu w drodze przetargu, * Niewłaściwe skreślić.
+część A-III: przychód z tytułu członkostwa w organach stanowiących osób prawnych, udziały w zysku podmiotów gospodarczych wymienionych w tej części, część A-IV: przychód z prowadzonej lub zarządzanej działalności gospodarczej wymienionej w tej części, część A-V: przychód z najmu składników mienia ruchomego wymienionych w tej części, część A-VI: odsetki od udzielonych pożyczek wymienionych w tej części, przychód z praw autorskich, Inne: wynagrodzenie ze stosunku służbowego lub stosunku pracy, uposażenie, dieta, emerytura lub renta, przychód z umowy zlecenia lub umowy o dzieło, przychód z tytułu zbycia nieruchomości, składników mienia ruchomego lub papierów wartościowych, przychód z otrzymanej darowizny pieniężnej lub spadku, przychód z wygranej pieniężnej w grach hazardowych, inne niewymienione powyżej źródła przychodu – należy określić w tabeli;
+2) kwoty przychodów faktycznie uzyskane z poszczególnych źródeł;
+3) przynależność przychodu do majątku osobistego składającego oświadczenie albo do majątku objętego małżeńską wspólnością majątkową .
+Powyższe oświadczenie składam świadomy(-ma), iż na podstawie art. 147b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138) za podanie nieprawdy w oświadczeniu majątkowym grozi kara pozbawienia wolności, ograniczenia wolności albo grzywny.
+……………………………………. ………………………………….
+Objaśnienia co do miejsca i terminu składania oświadczenia o stanie majątkowym:
+1. Funkcjonariusze przyjęci do służby w Straży Granicznej składają oświadczenie o stanie majątkowym w dniu nawiązania stosunku służbowego, we właściwej jednostce organizacyjnej Straży Granicznej.
+2. Funkcjonariusze, z którymi rozwiązany został stosunek służbowy, składają oświadczenie o stanie majątkowym w dniu zwolnienia ze służby, we właściwej jednostce organizacyjnej Straży Granicznej.
+3. Funkcjonariusze składają oświadczenie o stanie majątkowym corocznie do dnia 31 marca oraz na żądanie Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, właściwych komendantów oddziałów, komendantów ośrodków szkolenia Straży Granicznej lub ośrodków Straży Granicznej, w terminie 14 dni od otrzymania pisemnego żądania jego złożenia, we właściwej jednostce organizacyjnej Straży Granicznej.
+4. Pracownicy Straży Granicznej zobowiązani do złożenia oświadczenia o stanie majątkowym na żądanie Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, właściwych komendantów oddziałów, komendantów ośrodków szkolenia Straży Granicznej lub ośrodków Straży Granicznej, w terminie 14 dni od otrzymania pisemnego żądania jego złożenia, we właściwej jednostce organizacyjnej Straży Granicznej.
+* Niewłaściwe skreślić.
+
+## CZĘŚĆ A Ja, niżej podpisany(-na), ………………………………………………………………………………………………………………………………….
+
+## Część Określenie źródła Kwota Przynależność przychodu Uwagi formularza przychodu przychodu do majątku osobistego albo do majątku objętego małżeńską wspólnością majątkową A-I A-II A-III A-IV A-V A-VI Inne Do oświadczenia dołączam uzupełnienie / nie dołączam uzupełnienia* informacji, o którym mowa w pkt 4 pouczenia.
+
+## CZĘŚĆ B (imię/imiona 
+

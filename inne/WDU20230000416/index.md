@@ -8,10 +8,10 @@ pos: 416
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 416 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 lutego 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-02-17 |
 | Data wydania | 2023-03-06 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/416/text.pdf) |
 
-Poz. 416 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 lutego 2023 r.
-w sprawie wysokości opłaty za egzamin na doradcę podatkowego Na podstawie art. 25 ust. 2 ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117) zarządza się, co następuje: § 1. 1. Opłata za egzamin na doradcę podatkowego wynosi 1800 zł.
+w sprawie wysokości opłaty za egzamin na doradcę podatkowego Na podstawie art. 25 ust. 2 ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117) zarządza się, co następuje:
+§ 1. 1. Opłata za egzamin na doradcę podatkowego wynosi 1800 zł.
 2. W przypadku negatywnego wyniku z części pisemnej albo ustnej egzaminu na doradcę podatkowego opłata za ponowny egzamin z tej części egzaminu wynosi 900 zł.
 § 2. Do wysokości opłaty za egzamin na doradcę podatkowego oraz opłaty za ponowny egzamin z części pisemnej albo ustnej, którego termin został wyznaczony przed dniem wejścia w życie niniejszego rozporządzenia, na dzień przypadający od dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 3. Traci moc rozporządzenie Ministra Finansów z dnia 17 listopada 2010 r. w sprawie wysokości opłaty za egzamin na doradcę podatkowego (Dz. U. poz. 1493).

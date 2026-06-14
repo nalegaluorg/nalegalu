@@ -8,7 +8,7 @@ pos: 253
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 2) wart. 26 ust. 3 otrzymuje brzmienie: władz znajduje się w mieście położonym na terytorium tej gminy.”.

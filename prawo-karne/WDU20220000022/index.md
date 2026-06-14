@@ -8,7 +8,7 @@ pos: 22
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Narodowym Banku Polskim oraz ustawy – Kodeks karny wykonawczy

@@ -8,10 +8,10 @@ pos: 1731
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, PREZESA zmieniające rozporządzenie sprawie Dopuszczalnych Stężeń i Natężeń Na podstawie art. 228 § 1 ustawy z dnia oraz z 2017 r. poz. 60 i 962) zarządza się, co § 1. W rozporządzeniu Prezesa Rady Ministrów Komisji do Spraw Najwyższych Dopuszczalnych Pracy (Dz. U. z 2015 r. poz. 1772) § 1 otrzymuje „§ 1. Powołuje się Międzyresortową ników Szkodliwych dla Zdrowia Środowisku
+# RZECZYPOSPOLITEJ PREZESA zmieniające rozporządzenie w sprawie Dopuszczalnych Stężeń i Natężeń Na podstawie art. 228 § 1 ustawy z dnia oraz z 2017 r. poz. 60 i 962) zarządza się, co
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1731/text.pdf) |
 
+§ 1. W rozporządzeniu Prezesa Rady Ministrów Komisji do Spraw Najwyższych Dopuszczalnych Pracy (Dz. U. z 2015 r. poz. 1772) § 1 otrzymuje „§ 1. Powołuje się Międzyresortową ników Szkodliwych dla Zdrowia w Środowisku
 1) przewodniczący – Danuta Koradecka,
 2) zastępcy przewodniczącego:
 a) Sławomir Czerczak, Instytut Medycyny
@@ -45,7 +46,7 @@ k) Małgorzata Kupczewska-Dobecka,
 l) Jan Krzysztof Ludwicki, Narodowy
 m) Anna Margis, Ministerstwo Energii,
 n) Stanisław Marzec, Instytut Medycyny
-o) Marta Matyjek, Związek Pracodawców Dziennik Ustaw
+o) Marta Matyjek, Związek Pracodawców
 p) Zygmunt Mierzejewski, Forum
 q) Wanda Mikulska, Ministerstwo
 r) Andrzej Milczarek, Instytut Chemii
@@ -56,5 +57,6 @@ v) Sylwia Oziembło-Brzykczy, Główny
 w) Marek Pietrzak, Ministerstwo
 x) Marzena Podpora, Ministerstwo
 y) Małgorzata Pośniak, Centralny
-z) Jacek Romankow, Związek Rzemiosła za) Anna Siwek-Ślusarek, Ministerstwo zb) Elżbieta Sosnowska, Polski Komitet zc) Łukasz Wojciech Stańczak, Polska zd) Jerzy Wroński, Konfederacja § 2. Rozporządzenie wchodzi życie po
+z) Jacek Romankow, Związek Rzemiosła za) Anna Siwek-Ślusarek, Ministerstwo zb) Elżbieta Sosnowska, Polski Komitet zc) Łukasz Wojciech Stańczak, Polska zd) Jerzy Wroński, Konfederacja
+§ 2. Rozporządzenie wchodzi w życie po
 

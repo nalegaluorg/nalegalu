@@ -1,0 +1,144 @@
+---
+title: "Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 31 grudnia 2020 r. zmieniające rozporządzenie w sprawie nadania statutu Bankowi Gospodarstwa Krajowego"
+address: WDU20210000128
+eli: DU/2021/128
+publisher: DU
+year: 2021
+pos: 128
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 128 ROZPORZĄDZENIE MINISTRA ROZWOJU, PRACY I TECHNOLOGII z dnia 31 grudnia 2020 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 128 |
+| ISAP | WDU20210000128 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2020-12-31 |
+| Data wydania | 2021-01-19 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000128) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/128/text.pdf) |
+
+zmieniające rozporządzenie w sprawie nadania statutu Bankowi Gospodarstwa Krajowego Na podstawie art. 2 ust. 3 ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2020 r.
+poz. 1198) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rozwoju z dnia 16 września 2016 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego (Dz. U. poz. 1527) w załączniku wprowadza się następujące zmiany:
+1) w § 3:
+a) ust. 1 otrzymuje brzmienie: „1. Bank posiada osobowość prawną i prowadzi działalność na terytorium Rzeczypospolitej Polskiej oraz może prowadzić działalność poza jej terytorium.”,
+b) uchyla się ust. 2;
+2) w § 4:
+a) w ust. 1 pkt 4 otrzymuje brzmienie: „4) udzielanie i potwierdzanie gwarancji bankowych oraz otwieranie i potwierdzanie akredytyw;”,
+b) w ust. 2 pkt 8 otrzymuje brzmienie: „8) udzielać i potwierdzać poręczenia;”;
+3) w § 5:
+a) w ust. 1: – pkt 7 i 8 otrzymują brzmienie: „7) świadczyć usługi zaufania oraz wydawać środki identyfikacji elektronicznej w rozumieniu przepisów o usługach zaufania oraz identyfikacji elektronicznej;
+8) prowadzić działalność maklerską;”, – po pkt 8 dodaje się pkt 8a i 8b w brzmieniu: „8a) wykonywać niestanowiące działalności maklerskiej czynności polegające na:
+a) przyjmowaniu i przekazywaniu zleceń nabycia lub zbycia instrumentów finansowych,
+b) wykonywaniu zleceń, o których mowa w lit. a, na rachunek dającego zlecenie,
+c) nabywaniu lub zbywaniu na własny rachunek instrumentów finansowych,
+d) oferowaniu instrumentów finansowych,
+e) świadczeniu usług w wykonaniu zawartych umów o gwarancję emisji lub zawieraniu i wykonywaniu innych umów o podobnym charakterze, jeżeli ich przedmiotem są instrumenty finansowe;
+8b) prowadzić działalność powierniczą oraz wykonywać funkcję agenta emisji papierów wartościowych;”, – pkt 15 otrzymuje brzmienie: „15) świadczyć usługi finansowe, inne niż usługi, o których mowa w pkt 14, na podstawie odrębnych przepisów, w wykonaniu umów zawartych ze Skarbem Państwa lub państwowymi osobami prawnymi albo w ramach realizacji rządowych programów społeczno-gospodarczych, w tym poręczeniowo-gwarancyjnych, oraz programów samorządności lokalnej i rozwoju regionalnego;”, – po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) wykonywać funkcje agenta firmy inwestycyjnej;”,
+b) po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Przedmiotem czynności określonych w ust. 1 pkt 8a lit. a–d mogą być wyłącznie papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski lub inne niedopuszczone do obrotu zorganizowanego instrumenty finansowe oraz obligacje, o których mowa w art. 70 ust. 2 pkt 1 ustawy z dnia 29 lipca 2005 r.
+o obrocie instrumentami finansowymi (Dz. U. z 2020 r. poz. 89, 284, 288, 568 i 2320).
+1b. Przedmiotem czynności określonych w ust. 1 pkt 8a lit. c mogą być także dopuszczone do obrotu zorganizowanego obligacje, listy zastawne oraz inne zbywalne papiery wartościowe inkorporujące prawa majątkowe odpowiadające prawom wynikającym z zaciągniętego długu lub instrumenty pochodne, których instrumentem bazowym są obligacje, listy zastawne, inne zbywalne papiery wartościowe inkorporujące prawa majątkowe odpowiadające prawom wynikającym z zaciągniętego długu, stopa procentowa lub waluta.”;
+4) uchyla się § 8 i § 9;
+5) w § 11 dodaje się ust. 3 w brzmieniu: „3. Przewodniczący Rady Nadzorczej, na wypadek jednoczesnej nieobecności przewodniczącego oraz członka Rady Nadzorczej pełniącego stale funkcję zastępcy przewodniczącego, ustala kolejność zastępstw członków Rady Nadzorczej w przewodniczeniu posiedzeniom Rady Nadzorczej.”;
+6) w § 12:
+a) w ust. 1: – pkt 4 i 5 otrzymują brzmienie: „4) zatwierdzanie podstawowej struktury organizacyjnej Banku;
+5) zatwierdzanie regulaminu kontroli wewnętrznej w Banku oraz regulaminu funkcjonowania komórki do spraw zgodności;”, – pkt 9 i 10 otrzymują brzmienie: „9) wyrażanie zgody na nabycie i zbycie nieruchomości lub udziału we własności nieruchomości o wartości przewyższającej 2 miliony złotych, z wyłączeniem nabycia i zbycia nieruchomości lub udziału we własności nieruchomości przejmowanych za wierzytelności Banku;
+10) wyrażanie zgody na utworzenie i likwidację jednostek organizacyjnych Banku;”,
+b) w ust. 2: – uchyla się pkt 3, – pkt 4 otrzymuje brzmienie: „4) wybór firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego oraz skonsolidowanego sprawozdania finansowego;”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) zatwierdzanie polityki wyboru firmy audytorskiej do przeprowadzenia badania sprawozdania finansowego oraz skonsolidowanego sprawozdania finansowego, a także zatwierdzanie polityki świadczenia przez firmę audytorską przeprowadzającą badanie, przez podmioty powiązane z tą firmą lub przez członka sieci firmy audytorskiej dozwolonych usług niebędących badaniem;”, – pkt 5 i 6 otrzymują brzmienie: „5) powołanie członków Komitetów Rady Nadzorczej, o których mowa w § 24–26, w tym przewodniczących Komitetów, a także uchwalenie regulaminów tych Komitetów;
+6) nadzór nad wprowadzeniem systemu zarządzania obejmującego zarządzanie ryzykiem i system kontroli wewnętrznej oraz ocena jego adekwatności i skuteczności, w szczególności poprzez zatwierdzenie: akceptowalnego poziomu ryzyka, strategii zarządzania ryzykiem, polityk zarządzania ryzykami oraz monitorowanie ich realizacji;”;
+7) w § 13:
+a) ust. 3–6 otrzymują brzmienie: „3. Posiedzenia Rady Nadzorczej odbywają się w miarę potrzeby, jednak nie rzadziej niż raz na kwartał.
+Posiedzenie zwołuje przewodniczący Rady Nadzorczej albo w razie jego nieobecności – członek Rady Nadzorczej pełniący stale funkcję zastępcy przewodniczącego z własnej inicjatywy lub na wniosek prezesa Zarządu albo co najmniej dwóch członków Rady Nadzorczej lub co najmniej dwóch członków Zarządu złożony w formie pisemnej albo w formie elektronicznej przewodniczącemu Rady Nadzorczej albo w razie jego nieobecności – członkowi Rady Nadzorczej pełniącemu stale funkcję zastępcy przewodniczącego. Posiedzenia Rady Nadzorczej prowadzi jej przewodniczący, a w razie jego nieobecności – członek Rady Nadzorczej pełniący stale funkcję zastępcy przewodniczącego albo osoba wyznaczona do przewodniczenia posiedzeniu zgodnie z § 11 ust. 3.
+4. Posiedzenie Rady Nadzorczej odbywa się nie później niż w ciągu 10 dni od dnia złożenia wniosku w sprawie jego zwołania.
+5. Członkowie Rady Nadzorczej mogą uczestniczyć w posiedzeniu Rady Nadzorczej również przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
+6. Uchwały Rady Nadzorczej zapadają bezwzględną większością głosów. Do ważności uchwał podejmowanych na posiedzeniu wymagane jest zawiadomienie o posiedzeniu wszystkich członków Rady Nadzorczej oraz uczestniczenie w posiedzeniu co najmniej połowy jej członków, w tym przewodniczącego lub członka Rady Nadzorczej pełniącego stale funkcję zastępcy przewodniczącego bądź osoby wyznaczonej do przewodniczenia posiedzeniu zgodnie z § 11 ust. 3.”,
+b) po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Uchwały na posiedzeniu podejmowane są w głosowaniu jawnym, z zastrzeżeniem ust. 7.”,
+c) ust. 7 i 8 otrzymują brzmienie: „7. W głosowaniu tajnym podejmowane są uchwały:
+1) o charakterze osobowym;
+2) dotyczące spraw dotkniętych konfliktem interesów, o którym mowa w ust. 8a;
+3) gdy wymagają tego obowiązujące przepisy prawa.
+8. W uzasadnionych przypadkach uchwały Rady Nadzorczej mogą być podejmowane w trybie pisemnym lub z wykorzystaniem środków porozumiewania się na odległość. Uchwałę Rady Nadzorczej w trybie pisemnym lub z wykorzystaniem środków porozumiewania się na odległość uważa się za podjętą, jeżeli projekt uchwały został przedstawiony wszystkim członkom Rady Nadzorczej i opowiedziała się za nią bezwzględna większość członków Rady Nadzorczej.”,
+d) po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. Członek Rady Nadzorczej obowiązany jest poinformować przewodniczącego Rady, a w przypadku przewodniczącego Rady – członka Rady Nadzorczej pełniącego stale funkcję zastępcy przewodniczącego, bądź osobę wyznaczoną do przewodniczenia posiedzeniu zgodnie z § 11 ust. 3 o zaistniałym konflikcie interesów albo uzasadnionym ryzyku jego wystąpienia. W przypadku wystąpienia konfliktu interesów albo uzasadnionego ryzyka jego wystąpienia członek Rady Nadzorczej, którego konflikt interesów dotyczy, nie może przewodniczyć posiedzeniu Rady Nadzorczej, jest obowiązany do powstrzymania się od wszelkich działań mogących wpłynąć na treść decyzji w sprawie, w której względem tego członka wystąpił konflikt interesów albo uzasadnione ryzyko jego wystąpienia, oraz do opuszczenia posiedzenia na czas podjęcia decyzji w sprawie, w której względem tego członka wystąpił konflikt interesów albo uzasadnione ryzyko jego wystąpienia.”,
+e) w ust. 9: – pkt 2 i 3 otrzymują brzmienie: „2) zatwierdzenia sprawozdania finansowego oraz skonsolidowanego sprawozdania finansowego;
+3) zatwierdzenia sprawozdania Zarządu z działalności;”, – w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) wieloletnich programów rozwoju Banku.”;
+8) w § 15:
+a) w ust. 2 pkt 4 otrzymuje brzmienie: „4) ustalanie regulaminów dotyczących zasad świadczenia przez Bank usług lub wykonywania czynności, o których mowa w § 4–5;”,
+b) po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wykonywanie zadań, o których mowa w ust. 2 pkt 3 i 4, Zarząd może przekazać w całości lub w części wskazanemu członkowi Zarządu, z uwzględnieniem wewnętrznego podziału kompetencji, o którym mowa w ust. 2 pkt 2.”,
+c) w ust. 3: – pkt 2 i 3 otrzymują brzmienie: „2) sprawozdanie finansowe oraz skonsolidowane sprawozdanie finansowe;
+3) sprawozdanie Zarządu z działalności;”, – pkt 10 otrzymuje brzmienie: „10) wnioski w sprawie nabycia i zbycia nieruchomości lub udziału we własności nieruchomości o wartości przewyższającej 2 miliony złotych, z wyłączeniem nabycia i zbycia nieruchomości lub udziału we własności nieruchomości przejmowanych za wierzytelności Banku;”, – po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) strategię zarządzania ryzykiem oraz polityki zarządzania ryzykami, w tym akceptowalny poziom ryzyka;”;
+9) w § 16:
+a) ust. 1 otrzymuje brzmienie: „1. Uchwały Zarządu podejmowane są na posiedzeniu Zarządu.”,
+b) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Członkowie Zarządu, w tym prezes Zarządu, mogą uczestniczyć w posiedzeniu Zarządu również przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.”,
+c) ust. 2 i 3 otrzymują brzmienie: „2. Dla ważności uchwał podejmowanych na posiedzeniu wymagane jest zawiadomienie o posiedzeniu wszystkich członków Zarządu oraz obecność na posiedzeniu co najmniej połowy jego członków. Uchwały Zarządu podejmowane na posiedzeniu zapadają zwykłą większością głosów. W przypadku równej liczby głosów decyduje głos prezesa Zarządu, a w razie jego nieobecności – członka Zarządu przewodniczącego posiedzeniu.
+3. Uchwały Zarządu mogą zostać podjęte w trybie pisemnym lub z wykorzystaniem środków porozumiewania się na odległość. Uchwałę Zarządu w trybie pisemnym albo z wykorzystaniem środków porozumiewania się na odległość uważa się za podjętą, jeżeli projekt uchwały został przedstawiony wszystkim członkom Zarządu i opowiedziała się za nim zwykła większość członków Zarządu.”,
+d) po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Członek Zarządu obowiązany jest poinformować prezesa Zarządu, a w przypadku prezesa Zarządu – członka Zarządu przewodniczącego obradom, o zaistniałym konflikcie interesów albo uzasadnionym ryzyku jego wystąpienia. W przypadku konfliktu interesów członek Zarządu, którego konflikt dotyczy, nie może przewodniczyć obradom na czas podejmowania decyzji w sprawie oraz jest zobowiązany do powstrzymania się od wszelkich działań mogących wpłynąć na treść decyzji w sprawie oraz do opuszczenia posiedzenia Zarządu na czas dokonywania wyżej wskazanych czynności.
+3b. Uchwały podejmowane są w głosowaniu jawnym, z zastrzeżeniem ust. 3c.
+3c. W głosowaniu tajnym podejmowane są uchwały:
+1) o charakterze osobowym;
+2) dotyczące spraw dotkniętych konfliktem interesów, o którym mowa w ust. 3a;
+3) gdy wymagają tego obowiązujące przepisy prawa.”,
+e) ust. 4 otrzymuje brzmienie: „4. W trybie określonym w ust. 3 nie mogą być podjęte uchwały dotyczące:
+1) zasad polityki kadrowej i płacowej;
+2) wieloletnich programów rozwoju Banku;
+3) sprawozdania finansowego Banku oraz skonsolidowanego sprawozdania finansowego i sprawozdania Zarządu z działalności;
+4) planu finansowo-rzeczowego Banku;
+5) wniosków w sprawie podziału zysku albo pokrycia straty Banku;
+6) opinii o obniżeniu funduszu statutowego Banku, zgodnie z art. 5c ustawy;
+7) opinii o zaliczkowej wpłacie z zysku, o której mowa w § 37 ust. 4 i 5.”;
+10) w § 17:
+a) ust. 1 otrzymuje brzmienie: „1. Prezes Zarządu reprezentuje Bank na zewnątrz, przewodniczy posiedzeniom Zarządu, organizuje działalność Banku, a także zapewnia wykonywanie uchwał Zarządu.”,
+b) w ust. 2 uchyla się pkt 4,
+c) ust. 5 otrzymuje brzmienie: „5. Prezes Zarządu, na wypadek jednoczesnej nieobecności prezesa Zarządu, pierwszego wiceprezesa Zarządu oraz wiceprezesa Zarządu, ustala kolejność zastępstw członków Zarządu w przewodniczeniu posiedzeniom Zarządu.”;
+11) w § 18 ust. 3 otrzymuje brzmienie: „3. Sprawowanie nadzoru, o którym mowa w ust. 2, nie może zostać powierzone członkowi Zarządu, którego kompetencje obejmują obszary stwarzające ryzyko istotne w działalności Banku.”;
+12) w § 19 ust. 1 otrzymuje brzmienie: „1. Zasady składania oświadczeń woli w imieniu Banku, w tym w zakresie praw i obowiązków majątkowych, określają przepisy art. 10 ust. 3 ustawy.”;
+13) w § 20:
+a) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Prezes Zarządu jest przełożonym wszystkich pracowników Banku.”,
+b) ust. 2 otrzymuje brzmienie: „2. Prezes Zarządu może upoważnić inne osoby do wykonywania w jego imieniu czynności wskazanych w § 17 ust. 2 pkt 2 i 3.”;
+14) w § 21 ust. 1 otrzymuje brzmienie: „1. Podstawową strukturę organizacyjną Banku stanowi centrala oraz inne jednostki organizacyjne tworzone dla realizacji zadań Banku.”;
+15) w § 22 ust. 2 otrzymuje brzmienie: „2. Organizację jednostek organizacyjnych i komórek organizacyjnych centrali Banku oraz szczegółowy zakres ich zadań określają regulaminy organizacyjne tych jednostek i komórek.”;
+16) w § 23 ust. 3 i 4 otrzymują brzmienie: „3. Zarząd może powoływać inne komitety zajmujące się określonymi rodzajami działalności Banku, w tym działalnością zleconą.
+4. Tryb powoływania, zakres działania i skład komitetów, o których mowa w ust. 1–3, określa Zarząd w drodze uchwały.”;
+17) § 24 otrzymuje brzmienie: „§ 24. 1. W Banku działa Komitet do spraw Audytu, którego członkowie powoływani są spośród członków Rady Nadzorczej. Komitet do spraw Audytu jest komitetem, o którym mowa w ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2020 r. poz. 1415).
+2. W skład Komitetu do spraw Audytu wchodzi od 3 do 5 członków spełniających wymogi określone w odrębnych przepisach.
+3. Szczegółowy zakres i tryb działania Komitetu do spraw Audytu określają obowiązujące w tym zakresie przepisy prawa oraz regulamin Komitetu do spraw Audytu.”;
+18) § 25 otrzymuje brzmienie: „§ 25. 1. W Banku działa Komitet do spraw Wynagrodzeń i Nominacji, którego członkowie są powoływani spośród członków Rady Nadzorczej.
+2. W skład Komitetu do spraw Wynagrodzeń i Nominacji wchodzi od 3 do 5 członków.
+3. Szczegółowy zakres i tryb działania Komitetu do spraw Wynagrodzeń i Nominacji określają obowiązujące w tym zakresie przepisy prawa oraz regulamin Komitetu do spraw Wynagrodzeń i Nominacji.”;
+19) w § 26 ust. 3 otrzymuje brzmienie: „3. Szczegółowy zakres i tryb działania Komitetu do spraw Ryzyka określają obowiązujące w tym zakresie przepisy prawa oraz regulamin Komitetu do spraw Ryzyka.”;
+20) § 27 otrzymuje brzmienie: „§ 27. 1. W Banku funkcjonuje system zarządzania, na który składają się zasady i mechanizmy dotyczące funkcjonujących w Banku procesów decyzyjnych oraz oceny prowadzonej przez Bank działalności.
+2. W ramach systemu zarządzania w Banku funkcjonują w szczególności:
+1) system zarzadzania ryzykiem;
+2) system kontroli wewnętrznej.
+3. System zarządzania ryzykiem ma na celu zapewnienie identyfikacji, pomiaru lub szacowania ryzyka oraz jego kontrolowanie, monitorowanie i raportowanie dla potrzeb prawidłowości wyznaczania i realizacji celów działalności Banku, w tym stabilności i bezpieczeństwa działania Banku, wysokiej jakości aktywów oraz osiągnięcia planowanego wyniku finansowego w ramach akceptowalnego poziomu ryzyka, w szczególności poprzez:
+1) stosowanie sformalizowanych zasad przy określaniu wielkości podejmowanego ryzyka;
+2) stosowanie sformalizowanych procedur przy identyfikacji, pomiarze lub szacowaniu ryzyka, w tym jego poziomu w przyszłości oraz monitorowania ryzyka;
+3) stosowanie sformalizowanych zasad przy ustalaniu limitów ograniczających ryzyko oraz przy ustalaniu trybu postępowania w przypadku przekroczenia tych limitów;
+4) zapewnianie funkcjonowania systemu sprawozdawczości zarządczej umożliwiającego monitorowanie poziomu ryzyka;
+5) dostosowywanie struktury organizacyjnej do wielkości i profilu ponoszonego ryzyka, w tym zorganizowanie komórki audytu wewnętrznego oraz komórki do spraw zgodności.
+4. System kontroli wewnętrznej ma na celu zapewnienie:
+1) skuteczności i efektywności działania Banku;
+2) wiarygodności sprawozdawczości finansowej;
+3) przestrzegania zasad zarządzania ryzykiem w Banku;
+4) zgodności działania Banku z przepisami prawa, regulacjami wewnętrznymi i standardami rynkowymi.
+5. System kontroli wewnętrznej obejmuje:
+1) funkcję kontroli mającą za zadanie zapewnienie przestrzegania mechanizmów kontrolnych dotyczących w szczególności zarządzania ryzykiem w Banku, która obejmuje stanowiska, grupy ludzi lub jednostki organizacyjne odpowiedzialne za realizację zadań przypisanych tej funkcji;
+2) komórkę do spraw zgodności mającą za zadanie identyfikację, ocenę, kontrolę i monitorowanie ryzyka braku zgodności, rozumianego jako ryzyko skutków nieprzestrzegania przepisów prawa, regulacji wewnętrznych oraz standardów rynkowych, a także przedstawianie raportów w tym zakresie;
+3) komórkę audytu wewnętrznego mającą za zadanie badanie i ocenę, w sposób niezależny i obiektywny, adekwatności i skuteczności systemu zarządzania ryzykiem i systemu kontroli wewnętrznej, z wyłączeniem komórki audytu wewnętrznego.
+6. Komórka do spraw zgodności podlega bezpośrednio członkowi Zarządu, wskazanemu w ramach podziału kompetencji w Zarządzie, zatwierdzanego przez Radę Nadzorczą w trybie, o którym mowa w § 12 ust. 1 pkt 14.
+7. Komórka audytu wewnętrznego podlega bezpośrednio prezesowi Zarządu.
+8. Rada Nadzorcza sprawuje nadzór nad wprowadzeniem systemu kontroli wewnętrznej, w tym co najmniej raz w roku dokonuje oceny adekwatności i skuteczności tego systemu.”;
+21) w § 30 ust. 2 otrzymuje brzmienie: „2. Fundusze własne Banku stanowią sumę kapitału Tier I i kapitału Tier II wyznaczonych zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ).”;
+22) w § 36 ust. 1 otrzymuje brzmienie: „1. Sprawozdanie finansowe oraz skonsolidowane sprawozdanie finansowe Zarząd przedstawia do rozpatrzenia i zatwierdzenia Radzie Nadzorczej w terminie do dnia 31 maja roku następnego po roku obrotowym, za który zostały sporządzone.”;
+23) po § 37 dodaje się § 37a w brzmieniu: „§ 37a. Zysk z lat ubiegłych jest przeznaczany, zgodnie z treścią uchwały Rady Nadzorczej, na cele wskazane w § 37.”.
+§ 2. Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Rozwoju, Pracy i Technologii: J. Gowin
+

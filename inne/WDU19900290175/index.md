@@ -8,7 +8,7 @@ pos: 175
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # z d n i a 27 k w i e t n i a 1990 r . r o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości.

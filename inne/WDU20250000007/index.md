@@ -8,12 +8,10 @@ pos: 7
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o regionalnych izbach obrachunkowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 grudnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/7/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2023 r. poz. 1325), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 grudnia 2024 r.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2023 r. poz. 1325), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 grudnia 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 102 i art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), które stanowią: „Art. 102. Do informacji o stwierdzonych nieprawidłowościach w zakresie danych dotyczących naliczania subwencji i rozliczeń dotacji celowych za rok 2024 i lata poprzedzające stosuje się art. 10 ustawy zmienianej w art. 59 w brzmieniu dotychczasowym.” „Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.;
 2) art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”.
 Marszałek Sejmu: S. Hołownia
-USTAWA z dnia października 1992 r.
+USTAWA z dnia 7 października 1992 r.
 o regionalnych izbach obrachunkowych
 
 #### Rozdział 1 Przepisy ogólne
@@ -61,7 +59,7 @@ o regionalnych izbach obrachunkowych
 
 1. Nadzór nad działalnością regionalnych izb obrachunkowych sprawuje minister właściwy do spraw administracji publicznej na podstawie kryterium zgodności z prawem.
 
-2. W razie powtarzającego się naruszania przez izbę prawa, Prezes Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej może rozwiązać kolegium izby, określając jednocześnie termin nie dłuższy niż 3 miesiące dla powołania kolegium w nowym składzie. Rozwiązanie kolegium jest równoznaczne z odwołaniem prezesa i zastępcy prezesa izby.
+2. W razie powtarzającego się naruszania przez izbę prawa, Prezes Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej może rozwiązać kolegium izby, określając jednocześnie termin nie dłuższy niż 3 miesiące – dla powołania kolegium w nowym składzie. Rozwiązanie kolegium jest równoznaczne z odwołaniem prezesa i zastępcy prezesa izby.
 
 3. Prezes Rady Ministrów w sytuacji przewidzianej w ust. 2 wyznacza, na wniosek ministra właściwego do spraw administracji publicznej, tymczasowego prezesa, który do czasu utworzenia kolegium w nowym składzie pełni funkcję tego organu.
 
@@ -87,14 +85,14 @@ o regionalnych izbach obrachunkowych
 
 2. Izby mogą również przeprowadzać kontrolę:
 
-- **1)** podmiotów, o których mowa w art. 1 ust. 2 pkt 6 i na wniosek jednostek samorządu terytorialnego lub ich związków;
-- **2)** podmiotów, o których mowa w art. 1 ust. 2 pkt 1–6 na wniosek organów administracji rządowej, agencji lub funduszy celowych w przypadku przekazania środków publicznych na rzecz tych podmiotów.
+- **1)** podmiotów, o których mowa w art. 1 ust. 2 pkt 6 i 7 – na wniosek jednostek samorządu terytorialnego lub ich związków;
+- **2)** podmiotów, o których mowa w art. 1 ust. 2 pkt 1–6 – na wniosek organów administracji rządowej, agencji lub funduszy celowych w przypadku przekazania środków publicznych na rzecz tych podmiotów.
 
 3. (uchylony)
 
 **Art. 7a.**
 
-1. O zakresie i terminie rozpoczęcia kontroli prezes izby lub osoba przez niego upoważniona powiadamia kierownika jednostki kontrolowanej, a w przypadku kontroli podmiotów, o których mowa w art. 1 ust. 2 pkt 6 i 7, również właściwy organ wykonawczy jednostki samorządu terytorialnego. Powiadomienia o terminie kontroli kompleksowej dokonuje się nie później niż na dni przed jej rozpoczęciem.
+1. O zakresie i terminie rozpoczęcia kontroli prezes izby lub osoba przez niego upoważniona powiadamia kierownika jednostki kontrolowanej, a w przypadku kontroli podmiotów, o których mowa w art. 1 ust. 2 pkt 6 i 7, również właściwy organ wykonawczy jednostki samorządu terytorialnego. Powiadomienia o terminie kontroli kompleksowej dokonuje się nie później niż na 7 dni przed jej rozpoczęciem.
 
 2. Kierownik jednostki kontrolowanej jest obowiązany zapewnić warunki niezbędne do sprawnego przeprowadzenia kontroli.
 
@@ -116,7 +114,7 @@ o regionalnych izbach obrachunkowych
 - **8)** dostępu do danych osobowych dotyczących kwalifikacji i uposażenia pracowników samorządowych;
 - **9)** sporządzania lub zlecania sporządzenia niezbędnych do kontroli odpisów oraz wyciągów z dokumentów.
 
-2. Realizując zadania wynikające z ust. 1 pkt 7, inspektorzy związani są tajemnicą skarbową, o której mowa w art. 293 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831).
+2. Realizując zadania wynikające z ust. 1 pkt 7, inspektorzy związani są tajemnicą skarbową, o której mowa w art. 293 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831).
 
 3. Pracownicy jednostki kontrolowanej obowiązani są do udzielenia inspektorowi wyjaśnień ustnych lub pisemnych w sprawach dotyczących przedmiotu kontroli w zakresie wynikającym z powierzonych im czynności służbowych.
 
@@ -143,8 +141,8 @@ o regionalnych izbach obrachunkowych
 **Art. 10.**
 
 - **1)** Prezes izby przekazuje informację o stwierdzonych nieprawidłowościach w zakresie:
-- **1)** danych przyjmowanych do ustalenia potrzeb finansowych, o których mowa w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717) organom ustalającym te potrzeby;
-- **2)** rozliczeń dotacji celowych organom dokonującym podziału tych środków.
+- **1)** danych przyjmowanych do ustalenia potrzeb finansowych, o których mowa w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717) – organom ustalającym te potrzeby;
+- **2)** rozliczeń dotacji celowych – organom dokonującym podziału tych środków.
 
 **Art. 10a.**
 
@@ -168,7 +166,7 @@ o regionalnych izbach obrachunkowych
 - **2)** budżetu i jego zmian;
 - **3)** zaciągania zobowiązań wpływających na wysokość długu publicznego jednostki samorządu terytorialnego oraz udzielania pożyczek;
 - **4)** zasad i zakresu przyznawania dotacji z budżetu jednostki samorządu terytorialnego;
-- **5)** podatków i opłat lokalnych, do których mają zastosowanie przepisy ustawy Ordynacja podatkowa;
+- **5)** podatków i opłat lokalnych, do których mają zastosowanie przepisy ustawy – Ordynacja podatkowa;
 - **6)** absolutorium;
 - **7)** wieloletniej prognozy finansowej i jej zmian.
 
@@ -191,6 +189,20 @@ o regionalnych izbach obrachunkowych
 4. Wskazanie nieprawidłowości oraz sposobu i terminu ich usunięcia zawiesza bieg 30-dniowego terminu określonego w art. 91 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465 i 1572), art. 79 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107) oraz art. 82 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566), na okres nie dłuższy niż 30 dni.
 
 **Art. 13.** Do zadań izby należy ponadto:
+
+- **1)** wydawanie, na wniosek organu wykonawczego jednostki samorządu terytorialnego, opinii o możliwości spłaty kredytu, pożyczki oraz innych zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a także wykupu papierów wartościowych;
+- **2)** (uchylony)
+- **3)** wydawanie opinii o przedkładanych projektach uchwał budżetowych jednostek samorządu terytorialnego;
+- **4)** (uchylony)
+- **5)** wydawanie opinii o przedkładanych przez zarządy powiatów i województw oraz przez wójtów (burmistrzów, prezydentów miast) sprawozdaniach z wykonania budżetu wraz z informacjami o stanie mienia jednostek samorządu terytorialnego i objaśnieniami;
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** wydawanie opinii o wnioskach komisji rewizyjnych organów stanowiących jednostek samorządu terytorialnego w sprawie absolutorium oraz opinii w sprawie uchwały rady gminy o nieudzieleniu wójtowi absolutorium;
+- **9)** rozpatrywanie spraw dotyczących powiadomień przez skarbnika (głównego księgowego budżetu jednostki samorządu terytorialnego) o przypadkach dokonania kontrasygnaty na pisemne polecenie zwierzchnika, zgodnie z odrębnymi ustawami;
+- **10)** rozpatrywanie innych spraw określonych w odrębnych ustawach;
+- **11)** udzielanie wyjaśnień na wystąpienia podmiotów wymienionych w art. 1 ust. 2 w sprawach dotyczących stosowania przepisów o finansach publicznych;
+- **12)** wydawanie opinii o przedkładanych projektach uchwał o wieloletnich prognozach finansowych;
+- **13)** wydawanie opinii o programach postępowań naprawczych jednostek samorządu terytorialnego.
 
 #### Rozdział 3 Organizacja i zasady działania regionalnych izb obrachunkowych
 
@@ -246,9 +258,9 @@ o regionalnych izbach obrachunkowych
 
 8. Wyboru kandydatów dokonuje się zwykłą większością głosów. W przypadku równej liczby głosów o rozstrzygnięciu głosowania decyduje głos przewodniczącego.
 
-9. Komisja konkursowa w terminie dni od podjęcia uchwały w sprawie niedopuszczenia kandydata do konkursu, o którym mowa w ust. 6, albo podjęcia uchwały w sprawie wyboru kandydatów, o którym mowa w ust. 8, zawiadamia kandydata na piśmie o podjętej uchwale.
+9. Komisja konkursowa w terminie 7 dni od podjęcia uchwały w sprawie niedopuszczenia kandydata do konkursu, o którym mowa w ust. 6, albo podjęcia uchwały w sprawie wyboru kandydatów, o którym mowa w ust. 8, zawiadamia kandydata na piśmie o podjętej uchwale.
 
-10. W terminie dni od otrzymania zawiadomienia, o którym mowa w ust. 9, kandydat ma prawo odwołać się do kolegium izby. Kolegium izby rozpatruje odwołanie w terminie 30 dni od dnia jego otrzymania.
+10. W terminie 7 dni od otrzymania zawiadomienia, o którym mowa w ust. 9, kandydat ma prawo odwołać się do kolegium izby. Kolegium izby rozpatruje odwołanie w terminie 30 dni od dnia jego otrzymania.
 
 11. Przewodniczący komisji konkursowej przedstawia kolegium izby listę kandydatów na członków kolegium. Kolegium izby przy opiniowaniu kandydata lub kandydatów realizuje zasadę powoływania przez Prezesa Rady Ministrów członków kolegium w połowie spośród kandydatów zgłoszonych przez organy stanowiące jednostek samorządu terytorialnego.
 
@@ -266,13 +278,13 @@ o regionalnych izbach obrachunkowych
 
 5. Członkiem komisji konkursowej nie może być członek kolegium izby, który kandyduje na stanowisko prezesa izby, jest małżonkiem kandydata albo osobą pozostającą z nim we wspólnym pożyciu, jego krewnym albo powinowatym do drugiego stopnia bądź jest z nim związany z tytułu przysposobienia, opieki albo kurateli. Jeżeli okoliczności, o których mowa w zdaniu pierwszym, zostaną ujawnione po powołaniu komisji, kolegium izby dokonuje zmiany w składzie komisji. Czynności komisji dokonane przed zmianą uznaje się za nieważne.
 
-6. Komisja nie dopuszcza do konkursu ofert niespełniających wymagań określonych w ogłoszeniu o konkursie lub złożonych po upływie terminu składania ofert. Art. 15a ust. stosuje się odpowiednio.
+6. Komisja nie dopuszcza do konkursu ofert niespełniających wymagań określonych w ogłoszeniu o konkursie lub złożonych po upływie terminu składania ofert. Art. 15a ust. 7 stosuje się odpowiednio.
 
-7. Przewodniczący komisji konkursowej w terminie dni przedstawia kolegium izby listę kandydatów lub kandydata na prezesa izby. Kolegium izby wybiera kandydata na prezesa izby, w głosowaniu tajnym, bezwzględną większością głosów, w obecności co najmniej połowy jej składu. Przewodniczący kolegium przesyła uchwałę ministrowi właściwemu do spraw administracji publicznej.
+7. Przewodniczący komisji konkursowej w terminie 7 dni przedstawia kolegium izby listę kandydatów lub kandydata na prezesa izby. Kolegium izby wybiera kandydata na prezesa izby, w głosowaniu tajnym, bezwzględną większością głosów, w obecności co najmniej połowy jej składu. Przewodniczący kolegium przesyła uchwałę ministrowi właściwemu do spraw administracji publicznej.
 
-8. Kolegium izby w terminie dni od podjęcia uchwały w sprawie zaopiniowania kandydatów na prezesa izby zawiadamia kandydatów na piśmie o podjętej uchwale.
+8. Kolegium izby w terminie 7 dni od podjęcia uchwały w sprawie zaopiniowania kandydatów na prezesa izby zawiadamia kandydatów na piśmie o podjętej uchwale.
 
-9. W terminie dni od otrzymania zawiadomienia, o którym mowa w ust. 8, kandydat ma prawo odwołać się do ministra właściwego do spraw administracji publicznej. Minister właściwy do spraw administracji publicznej rozpatruje odwołanie w terminie 30 dni od dnia jego otrzymania.
+9. W terminie 7 dni od otrzymania zawiadomienia, o którym mowa w ust. 8, kandydat ma prawo odwołać się do ministra właściwego do spraw administracji publicznej. Minister właściwy do spraw administracji publicznej rozpatruje odwołanie w terminie 30 dni od dnia jego otrzymania.
 
 10. Kadencja prezesa izby trwa 6 lat, licząc od daty powołania.
 
@@ -288,7 +300,7 @@ o regionalnych izbach obrachunkowych
 
 3. Decyzję o odwołaniu, wraz z uzasadnieniem, doręcza się zainteresowanemu. Na decyzję o odwołaniu zainteresowanemu służy prawo wniesienia skargi do sądu administracyjnego w terminie 14 dni od dnia jej doręczenia. Wniesienie skargi wstrzymuje odwołanie ze stanowiska. Sąd administracyjny wyznacza rozprawę w tej sprawie w terminie przypadającym w ciągu 30 dni od dnia złożenia skargi.
 
-4. Do postępowania w sprawach, o których mowa w ust. 3, stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych. Przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685) nie stosuje się.
+4. Do postępowania w sprawach, o których mowa w ust. 3, stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych. Przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685) nie stosuje się.
 
 5. W przypadku odwołania prezesa izby albo jego śmierci, kolegium właściwej izby ogłasza konkurs na stanowisko prezesa izby w terminie 14 dni od dnia odwołania albo od dnia jego śmierci. Przepis art. 16 ust. 2 stosuje się odpowiednio.
 
@@ -346,7 +358,7 @@ o regionalnych izbach obrachunkowych
 
 1. Posiedzenia kolegium izby zwołuje prezes izby w razie potrzeby, nie rzadziej jednak niż raz na kwartał. Prezes izby zwołuje kolegium także na pisemny wniosek co najmniej połowy członków kolegium, w terminie 14 dni od dnia jego złożenia.
 
-2. Posiedzeniu kolegium przewodniczy prezes izby, a w przypadku jego nieobecności zastępca prezesa izby lub wyznaczony przez prezesa członek kolegium.
+2. Posiedzeniu kolegium przewodniczy prezes izby, a w przypadku jego nieobecności – zastępca prezesa izby lub wyznaczony przez prezesa członek kolegium.
 
 3. Rozstrzygnięcia nadzorcze, postanowienia i opinie kolegium w sprawach objętych ustawą są podejmowane w formie uchwał.
 
@@ -447,8 +459,8 @@ o regionalnych izbach obrachunkowych
 
 1. Prezes izby nawiązuje i rozwiązuje stosunek pracy:
 
-- **1)** na podstawie powołania z etatowymi członkami kolegium izby;
-- **2)** na podstawie umowy o pracę z pozostałymi pracownikami izby.
+- **1)** na podstawie powołania – z etatowymi członkami kolegium izby;
+- **2)** na podstawie umowy o pracę – z pozostałymi pracownikami izby.
 
 2. Podstawą rozwiązania stosunku pracy etatowego członka kolegium jest odwołanie.
 

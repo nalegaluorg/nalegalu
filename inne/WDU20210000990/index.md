@@ -8,10 +8,10 @@ pos: 990
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 maja 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 990 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 27 maja 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000990) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/990/text.pdf) |
 
-Poz. 990 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 27 maja 2021 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182 i 904) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U.
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182 i 904) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U.
 poz. 364, z późn. zm. ) w § 5 wprowadza się następujące zmiany:
 1) po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zgłoszenia zmian we wniosku o przyznanie płatności ONW dokonuje się w terminie określonym do dokonywania zgłoszeń zmian we wnioskach o przyznanie płatności bezpośrednich w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego.”;
 2) uchyla się ust. 5.

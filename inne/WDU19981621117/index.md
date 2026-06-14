@@ -8,7 +8,7 @@ pos: 1117
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
@@ -31,6 +31,18 @@ source: "isap-pdf"
 
 **Art. 2.** W rozumieniu ustawy:
 
+- **1)** użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w:
+    - **a)** konflikcie zbrojnym lub dla wzmocnienia sił państwa albo państw sojuszniczych, aa) działaniach na rzecz wzmocnienia bezpieczeństwa Rzeczypospolitej Polskiej,
+    - **b)** misji pokojowej,
+    - **c)** akcji zapobieżenia aktom terroryzmu lub ich skutkom,
+    - **d)** ewakuacji obywateli Rzeczypospolitej Polskiej, w przypadku konieczności ochrony ich życia lub zdrowia, z państwa niebędącego państwem członkowskim Unii Europejskiej, państwem członkowskim Europejskiego Obszaru Gospodarczego lub państwem-stroną Traktatu Północnoatlantyckiego;
+
+- **2)** pobyt Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oznacza obecność jednostek wojskowych poza granicami państwa w celu udziału w:
+    - **a)** szkoleniach i ćwiczeniach wojskowych,
+    - **b)** akcjach ratowniczych, poszukiwawczych lub humanitarnych; przepisu tego nie stosuje się do akcji ratowniczych regulowanych przepisami o ratownictwie na morzu lub prowadzonych przez wojskowe lotnicze zespoły poszukiwawczo-ratownicze w celu udzielenia pomocy ludziom albo statkom powietrznym lub morskim znajdującym się w niebezpieczeństwie na zasadach określonych w umowach międzynarodowych,
+    - **c)** przedsięwzięciach reprezentacyjnych,
+    - **d)** stałych operacyjnych działaniach prowadzonych w celu monitorowania bezpieczeństwa zewnętrznego Rzeczypospolitej Polskiej lub w ramach wysuniętej obecności.
+
 **Art. 2a.**
 
 1. Użycie Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa może nastąpić na podstawie niezbywalnego prawa do samoobrony, o którym mowa w art. 51 Karty Narodów Zjednoczonych, decyzji właściwego organu organizacji międzynarodowej, której Rzeczpospolita Polska jest członkiem, a także zaproszenia lub zgody państwa przyjmującego.
@@ -46,7 +58,7 @@ source: "isap-pdf"
 - **1)** Rady Ministrów – w sytuacjach określonych w art. 2 pkt 1 lit. a, aa i b;
 - **2)** Prezesa Rady Ministrów – w sytuacjach określonych w art. 2 pkt 1 lit. c i d.
 
-2. O podjętym postanowieniu Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałków i Senatu.
+2. O podjętym postanowieniu Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałków Sejmu i Senatu.
 
 3. W przypadku gdy wymaga tego ochrona informacji niejawnych, postanowienie Prezydenta Rzeczypospolitej Polskiej o użyciu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa nie podlega ogłoszeniu.
 
@@ -128,6 +140,9 @@ source: "isap-pdf"
 5. Użycie broni i innego uzbrojenia powinno następować w sposób i z natężeniem proporcjonalnym do zagrożenia, wyrządzający możliwie najmniejszą szkodę i nie narażać innych osób, a w szczególności osoby cywilne, na niebezpieczeństwo utraty życia lub zdrowia. O ile sytuacja na to pozwala oraz nie wynika to wprost z celu realizacji zadania, użycie broni i innego uzbrojenia przeciwko osobie nie powinno zmierzać do pozbawienia jej życia.
 
 **Art. 7c.** Minister Obrony Narodowej określa, w drodze zarządzenia niepodlegającego ogłoszeniu, dla każdej operacji zagranicznej z udziałem Sił Zbrojnych:
+
+- **1)** które z zasad dotyczących użycia środków przymusu bezpośredniego, użycia broni i innego uzbrojenia, zawartych w niniejszej ustawie oraz wynikających z wiążących Rzeczpospolitą Polską ratyfikowanych umów międzynarodowych, międzynarodowego prawa zwyczajowego i planu operacji opracowanego przez organizację międzynarodową odpowiedzialną za jej prowadzenie, mają być stosowane przez żołnierzy Polskich Kontyngentów Wojskowych, w celu zrealizowania zadań operacji,
+- **2)** sposób, tryb dokumentowania oraz meldowania o zastosowaniu środków przymusu bezpośredniego oraz użycia broni i innego uzbrojenia – mając na uwadze cel użycia Sił Zbrojnych poza granicami państwa, sytuację i warunki na terytorium, na którym jest prowadzona operacja zagraniczna, oraz niezbędne w tych warunkach prawo do samoobrony.
 
 **Art. 7d.**
 

@@ -8,10 +8,10 @@ pos: 1008
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 września 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1008 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 8 kwietnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1008/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 8 kwietnia 2013 r.
-w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu odkrywkowego zakładu górniczego Na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21) zarządza się, co następuje:
+w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu odkrywkowego zakładu górniczego Na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe wymagania dotyczące prowadzenia ruchu odkrywkowego zakładu górniczego, zwanego dalej „zakładem górniczym”, w zakresie:
 1) bezpieczeństwa i higieny pracy, w tym oceniania i dokumentowania ryzyka zawodowego oraz stosowania niezbędnych rozwiązań zmniejszających to ryzyko;
 2) bezpieczeństwa pożarowego;
 3) gospodarki złożami kopalin w procesie ich wydobywania;
@@ -36,6 +36,7 @@ w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu odkrywkowego z
 1) prac w podziemnych wyrobiskach górniczych stosuje się przepisy w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu podziemnych zakładów górniczych;
 2) robót wiertniczych stosuje się przepisy w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi.
 § 3. Ilekroć w rozporządzeniu jest mowa o dokumentacji techniczno-ruchowej, należy przez to rozumieć także instrukcje wymienione w przepisach określających zasadnicze wymagania dla wyrobów podlegających ocenie zgodności.
+§ 4. Przedsiębiorca sporządza, uzupełnia i aktualizuje dokumentację dotyczącą prowadzenia ruchu zakładu górniczego, oceny ryzyka zawodowego i stosowania rozwiązań zmniejszających to ryzyko oraz przeprowadza bieżące analizy i badania niezbędne dla bezpiecznego prowadzenia tego ruchu.
 § 5. Przedsiębiorca regularnie dokonuje przeglądu działań podjętych w celu zapewnienia bezpieczeństwa i ochrony zdrowia pracowników.
 § 6. 1. Przed rozpoczęciem prac przedsiębiorca sporządza dla zakładu górniczego dokument bezpieczeństwa i ochrony zdrowia pracowników, zwany dalej „dokumentem bezpieczeństwa”.
 2. Zawartość dokumentu bezpieczeństwa określa załącznik nr 1 do rozporządzenia.
@@ -51,7 +52,7 @@ w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu odkrywkowego z
 4) ustala zasady zabezpieczenia zakładu górniczego na zmianach, na których ruch nie jest prowadzony, w dni wolne od pracy oraz w przypadku czasowego wstrzymania eksploatacji;
 5) zapewnia odpowiedni nadzór lub środki łączności, jeżeli stanowiska pracy są zajmowane przez odosobnionych pracowników.
 2. W zakresie, o którym mowa w ust. 1 pkt 1, określa się w szczególności sposób:
-1) koordynacji prac wykonywanych przez poszczególne działy ruchu zakładu górniczego i służby specjalistyczne oraz pracowników zatrudnionych w podmiotach, o których mowa w art. 121 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, zwanej dalej „ustawą”;
+1) koordynacji prac wykonywanych przez poszczególne działy ruchu zakładu górniczego i służby specjalistyczne oraz pracowników zatrudnionych w podmiotach, o których mowa w art. 121 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, zwanej dalej „ustawą”;
 2) wykonywania nadzoru nad pracami, o których mowa w pkt 1;
 3) użytkowania maszyn i urządzeń w zakładzie górniczym.
 3. Kierownik ruchu zakładu górniczego może wykonywać swoje obowiązki przy pomocy podległych mu osób kierownictwa i dozoru ruchu zakładu górniczego.
@@ -60,8 +61,8 @@ w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu odkrywkowego z
 3. Jeżeli w zakładzie górniczym nie została zorganizowana służba dyspozytorska ruchu zakładu górniczego, zadania tej służby, dostosowane do potrzeb organizacji ruchu zakładu górniczego, wykonuje wyznaczona przez kierownika ruchu zakładu górniczego osoba kierownictwa lub dozoru ruchu zakładu górniczego.
 § 9. 1. Dla osób kierownictwa i dozoru ruchu zakładu górniczego sporządza się zakresy czynności, szczegółowo określające ich obowiązki, uprawnienia i zakres odpowiedzialności.
 2. Zakresy czynności, o których mowa w ust. 1, zatwierdza:
-1) przedsiębiorca dla kierownika ruchu zakładu górniczego;
-2) kierownik ruchu zakładu górniczego dla podległych mu osób kierownictwa i dozoru ruchu zakładu górniczego.
+1) przedsiębiorca – dla kierownika ruchu zakładu górniczego;
+2) kierownik ruchu zakładu górniczego – dla podległych mu osób kierownictwa i dozoru ruchu zakładu górniczego.
 3. Osoby, których zakres czynności obejmować będzie zadania dotyczące techniki strzałowej, mogą być zatrudniane w kierownictwie i dozorze ruchu zakładu górniczego, jeżeli ukończyły kurs specjalistyczny z zakresu techniki strzałowej, powtarzany co 5 lat.
 4. Osoba, której doręczono zakres czynności, potwierdza pisemnie jego odbiór.
 § 10. 1. Kierownik ruchu zakładu górniczego jest odpowiedzialny za opracowanie zrozumiałej dla pracowników instrukcji bezpiecznego wykonywania pracy dla stanowiska lub miejsca pracy w ruchu zakładu górniczego.
@@ -108,7 +109,7 @@ b) w których osoby są narażone na zagrożenia w przypadku awarii sztucznego o
 1) wykonują pracownicy pod bezpośrednim nadzorem osoby dozoru ruchu zakładu górniczego;
 2) poprzedza się:
 a) sprawdzeniem stanu bezpieczeństwa miejsca pracy i urządzeń przez osobę dozoru ruchu zakładu górniczego,
-b) i nstruktażem pracowników o sposobach prawidłowego wykonywania prac oraz mogących wystąpić zagrożeniach i sposobach ograniczenia związanego z nimi ryzyka,
+b) instruktażem pracowników o sposobach prawidłowego wykonywania prac oraz mogących wystąpić zagrożeniach i sposobach ograniczenia związanego z nimi ryzyka,
 c) doborem odpowiednich środków ochrony.
 3. Podczas wykonywania prac, o których mowa w ust. 1, przebywanie osób niebiorących udziału w tych pracach oraz wykonywanie innych prac w pobliżu tego miejsca jest niedozwolone.
 § 19. 1. Jeżeli dokument bezpieczeństwa tego wymaga, kierownik ruchu zakładu górniczego udziela zezwoleń na wykonywanie prac niebezpiecznych, jak i zwykłych czynności, które współwystępując z innymi, mogą powodować poważne zagrożenie.
@@ -131,9 +132,9 @@ Na każdej zmianie powinien być co najmniej jeden przeszkolony pracownik.
 6) czynności wykonywane przez poszkodowanego w chwili wypadku lub bezpośrednio przed zgonem naturalnym;
 7) dane osobowe poszkodowanego:
 a) nazwisko i imię,
-b) d atę i miejsce urodzenia,
+b) datę i miejsce urodzenia,
 c) nazwę i adres pracodawcy,
-d) m iejsce zatrudnienia,
+d) miejsce zatrudnienia,
 e) stanowisko,
 f) staż pracy w górnictwie;
 8) miejsce pobytu poszkodowanego po wypadku lub po zaistnieniu zgonu naturalnego;
@@ -159,7 +160,8 @@ f) staż pracy w górnictwie;
 § 24. 1. Wyprzedzenie robót górniczych robotami odwadniającymi ustala się na podstawie szczegółowego rozeznania hydrogeologicznego złoża.
 2. W przypadkach uzasadnionych warunkami terenowymi i techniczno-ruchowymi kierownik ruchu zakładu górniczego może odstąpić od wymogu, o którym mowa w ust. 1.
 § 25. 1. Wyrobiska górnicze zabezpiecza się przed napływem wód z terenów przyległych i działaniem erozyjnym na skarpach, półkach, pochylniach i poziomach roboczych w sposób zapewniający przyjęcie i odprowadzenie:
-2) dopływów na terenach wyżynnych i górskich występujących z prawdopodobieństwem raz na 100 lat;
+1) dopływów na terenach nizinnych – występujących z prawdopodobieństwem raz na 50 lat;
+2) dopływów na terenach wyżynnych i górskich – występujących z prawdopodobieństwem raz na 100 lat;
 3) zrzutów wód z urządzeń odwadniających.
 2. W przypadkach uzasadnionych warunkami terenowymi i technicznymi kierownik ruchu zakładu górniczego może odstąpić od wykonywania zabezpieczenia, o którym mowa w ust. 1.
 § 26. 1. Wykonywanie robót udostępniających, eksploatacyjnych oraz zwałowanie nadkładu dostosowuje się odpowiednio do warunków geologiczno-górniczych i wyposażenia technicznego zakładu górniczego.
@@ -196,8 +198,8 @@ f) staż pracy w górnictwie;
 § 35. 1. Hydromechaniczne i termiczne urabianie nadkładu lub kopaliny oraz prowadzenie eksploatacji złoża spod lustra wody urządzeniami pływającymi wykonuje się zgodnie z projektem technicznym eksploatacji, zatwierdzonym przez kierownika ruchu zakładu górniczego.
 2. Projekt techniczny eksploatacji zawiera w szczególności informacje, o których mowa w § 34 ust. 2.
 3. W przypadku prowadzenia eksploatacji złoża spod lustra wody urządzeniami pływającymi:
-1) na wodach płynących uznanych za śródlądowe drogi wodne w projekcie technicznym eksploatacji uwzględnia się przepisy ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm. );
-2) na morzu w projekcie technicznym eksploatacji uwzględnia się wymagania określone w przepisach ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z 2012 r. poz. 1068 oraz z 2013 r. poz. 852).
+1) na wodach płynących uznanych za śródlądowe drogi wodne – w projekcie technicznym eksploatacji uwzględnia się przepisy ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm. );
+2) na morzu – w projekcie technicznym eksploatacji uwzględnia się wymagania określone w przepisach ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z 2012 r. poz. 1068 oraz z 2013 r. poz. 852).
 4. Zasady podziału obowiązków i współdziałania osób załogi urządzenia pływającego i osób zatrudnionych przy prowadzeniu ruchu zakładu górniczego, o którym mowa w ust. 3, ustala przedsiębiorca, powiadamiając właściwe organy nadzoru górniczego, a także administracji śródlądowej albo morskiej.
 § 36. 1. Podczas urabiania złoża palnikiem termicznym używanie otwartego ognia w odległości mniejszej niż 10 m od zbiornika paliw i butli gazowych jest niedopuszczalne.
 2. W pobliżu miejsca wykonywania pracy przy użyciu palnika termicznego lokalizuje się stanowisko sprzętu przeciwpożarowego. Ilość i rodzaj tego sprzętu ustala się w projekcie technicznym eksploatacji.
@@ -208,7 +210,7 @@ f) staż pracy w górnictwie;
 § 38. Niedopuszczalne jest urabianie skał sypkich, plastycznych i kruchych przez podkopywanie, podcinanie lub podwrębianie, z wyjątkiem przypadków wynikających z technologii robót zatwierdzonej przez kierownika ruchu zakładu górniczego.
 § 39. 1. Złoże torfu leczniczego przeznaczone do eksploatacji zabezpiecza się przed zanieczyszczeniami.
 2. Dokonując zabezpieczania, o którym mowa w ust. 1, uwzględnia się warunki hydrogeologiczne występowania złoża torfu leczniczego, jego parametry oraz sposoby zabezpieczeń higieniczno-sanitarnych złoża, w szczególności jego oznakowania, wyznaczenia pasów ochronnych i ich zagospodarowania. Zasady dokonania zabezpieczeń ustala kierownik ruchu zakładu górniczego.
-§ 40. 1. W zakładzie górniczym organizuje się i wyposaża się w środki do zapobiegania i zwalczania pożarów służbę ochrony przeciwpożarowej, a w przypadku zakładów górniczych wydobywających kopaliny palne jednostkę ochrony przeciwpożarowej.
+§ 40. 1. W zakładzie górniczym organizuje się i wyposaża się w środki do zapobiegania i zwalczania pożarów służbę ochrony przeciwpożarowej, a w przypadku zakładów górniczych wydobywających kopaliny palne – jednostkę ochrony przeciwpożarowej.
 2. Kierownik ruchu zakładu górniczego jest odpowiedzialny za ochronę przeciwpożarową zakładu górniczego.
 3. Zasady funkcjonowania ochrony przeciwpożarowej w zakładzie górniczym określa kierownik ruchu zakładu górniczego w regulaminie ochrony przeciwpożarowej.
 4. Przedsiębiorca może zapewnić ochronę przeciwpożarową przez stałą współpracę służb ochrony przeciwpożarowej kilku przedsiębiorców lub zlecenie zapobiegania i zwalczania pożarów wyspecjalizowanym w tym zakresie jednostkom ochrony przeciwpożarowej.
@@ -222,7 +224,7 @@ f) staż pracy w górnictwie;
 7) ustala potrzeby i zasady zabezpieczenia obiektów, maszyn i urządzeń w sprzęt i instalacje przeciwpożarowe;
 8) współdziała z terenowymi komendami straży pożarnych w zakresie zabezpieczenia operacyjnego zakładu górniczego;
 9) opiniuje programy modernizacyjno-rozwojowe zakładu górniczego w zakresie ich zgodności z wymaganiami ochrony przeciwpożarowej oraz uczestniczy w komisjach odbioru technicznego nowych lub modernizowanych obiektów i urządzeń;
-10) o pracowuje analizy stanu zabezpieczenia przeciwpożarowego zakładu górniczego oraz przedkłada kierownikowi ruchu zakładu górniczego wnioski w zakresie poprawy stanu bezpieczeństwa pożarowego.
+10) opracowuje analizy stanu zabezpieczenia przeciwpożarowego zakładu górniczego oraz przedkłada kierownikowi ruchu zakładu górniczego wnioski w zakresie poprawy stanu bezpieczeństwa pożarowego.
 § 42. W przypadku wystąpienia pożarów endogenicznych kierownik ruchu zakładu górniczego określa wielkość pola pożarowego oraz sposoby zabezpieczenia i likwidacji tych pożarów.
 § 43. 1. Podczas eksploatacji maszyn i urządzeń używanych w zakładzie górniczym oraz na terenach przyległych do zakładu jest niedopuszczalne wykonywanie czynności, które mogą spowodować powstanie lub rozprzestrzenienie się pożaru.
 2. Na terenie zakładu górniczego wyznacza się odpowiednio oznakowane i utrzymane drogi dojazdowe do poszczególnych maszyn oraz punkty czerpania wody dla celów przeciwpożarowych.
@@ -241,6 +243,7 @@ f) staż pracy w górnictwie;
 3) należyte ogrzewanie obiektów, pomieszczeń i urządzeń zakładu górniczego;
 4) usuwanie śniegu i lodu oraz nawisów lodowych i śnieżnych na obiektach, urządzeniach i drogach, likwidację gołoledzi na drogach i przejściach, usuwanie z wyrobiska górniczego wód pochodzących z topniejącego śniegu lub gwałtownej odwilży;
 5) dostosowanie maszyn, urządzeń, obiektów budowlanych i poziomów eksploatacyjnych do pracy w warunkach zimowych.
+§ 48. 1. Oceny zagrożeń występujących w ruchu zakładu górniczego dokonuje kierownik ruchu zakładu górniczego, który w szczególności:
 1) w uzasadnionych przypadkach powołuje zespół lub zespoły do rozpoznawania i zapobiegania zagrożeniom występującym w ruchu zakładu górniczego oraz ustala tryb ich działania;
 2) na podstawie opinii zespołu lub zespołów, o których mowa w pkt 1:
 a) określa zasady prowadzenia ruchu zakładu górniczego w warunkach występujących zagrożeń,
@@ -262,15 +265,16 @@ b) ocenia możliwość zaistnienia wstrząsów sejsmicznych o energii równej lu
 1) w zakładzie górniczym tworzy się stację lub stacje geofizyki górniczej, w której dokonuje się bieżącej analizy aktywności sejsmicznej górotworu i ocenia się możliwość zaistnienia kolejnych wstrząsów sejsmicznych;
 2) kierownik ruchu zakładu górniczego, na podstawie opinii zespołu, o którym mowa w § 48 ust. 1 pkt 1, określa:
 a) sposób organizacji badań i interpretacji skutków tych wstrząsów oraz metod usuwania zagrożenia sejsmicznego,
-b) r odzaj, zakres i sposób wykorzystania metod stosowanych do oceny możliwości zaistnienia kolejnych wstrząsów sejsmicznych.
+b) rodzaj, zakres i sposób wykorzystania metod stosowanych do oceny możliwości zaistnienia kolejnych wstrząsów sejsmicznych.
 2. Każdy zaistniały w zakładzie górniczym wstrząs sejsmiczny o energii równej albo większej niż 1 x 10 J lokalizuje się i nanosi na mapy przeglądowe wyrobisk górniczych.
-§ 51. 1. Studnie odwadniające i otwory wiertnicze, w których stwierdzono występowanie gazów szkodliwych i wybuchowych przekraczających wartości dopuszczalne określone w przepisach ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z 2010 r. Nr 57, poz. 353 oraz z 2012 r. poz. 908) oraz w przepisach wydanych na podstawie art. 227 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ), uznaje się za miejsce zagrożenia gazowego.
+§ 51. 1. Studnie odwadniające i otwory wiertnicze, w których stwierdzono występowanie gazów szkodliwych i wybuchowych przekraczających wartości dopuszczalne określone w przepisach ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380, z 2010 r. Nr 57, poz. 353 oraz z 2012 r. poz. 908) oraz w przepisach wydanych na podstawie art. 227 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ), uznaje się za miejsce zagrożenia gazowego.
 2. Strefy zagrożenia gazowego zabezpiecza się przed wstępem osób nieupoważnionych w sposób ustalony przez kierownika ruchu zakładu górniczego.
 3. Pracowników zatrudnionych w strefach zagrożenia gazowego wyposaża się w środki ochrony indywidualnej oraz w aparaturę do kontrolnych pomiarów stężeń gazów.
 4. Jeżeli dokument bezpieczeństwa tego wymaga, instaluje się przyrządy mierzące stężenia gazów w określonych miejscach w sposób automatyczny i ciągły, a także automatyczne urządzenia alarmujące oraz urządzenia automatycznie odcinające prąd w instalacjach elektrycznych i silnikach spalinowych. Wyniki pomiarów automatycznych rejestruje i przechowuje się zgodnie z wymaganiami dokumentu bezpieczeństwa.
 § 52. 1. W zakładzie górniczym, w którym występują pyły palne, sposób zapobiegania i zwalczania ich zapłonów opracowuje kierownik ruchu zakładu górniczego.
 2. Miejsca zagrożone zapłonem pyłów oznakowuje się tablicami ostrzegawczymi o zakazie używania ognia.
 § 53. Instalacje, urządzenia lub obiekty, które w przypadku uszkodzenia lub awarii mogłyby stać się źródłem zagrożenia dla otoczenia, lokalizuje się w sposób umożliwiający likwidację zagrożenia.
+§ 54. 1. Maszyny i urządzenia eksploatuje się, konserwuje i naprawia w sposób określony w dokumentacji techniczno-ruchowej.
 2. Osoby dozoru ruchu zakładu górniczego oraz inni pracownicy zatrudnieni w ruchu tego zakładu, każdy w swoim zakresie działania, odpowiadają za właściwą eksploatację oraz konserwację maszyn i urządzeń.
 3. Wprowadzenie zmian w maszynach i urządzeniach, w szczególności w konstrukcji nośnej, zawiesiach, rozmieszczeniu przeciwciężarów oraz rozszerzenie zakresów działania wyłączników krańcowych jest dozwolone tylko za zgodą kierownika ruchu zakładu górniczego, w sposób określony w dokumentacji techniczno-ruchowej.
 § 55. Urządzenia ciśnieniowe i dźwignicowe montuje się i eksploatuje w sposób określony w przepisach o dozorze technicznym.
@@ -333,6 +337,7 @@ b) r odzaj, zakres i sposób wykorzystania metod stosowanych do oceny możliwoś
 § 70. Materiały eksploatacyjne i części zamienne magazynuje się na maszynach i urządzeniach technicznych wyłącznie w miejscach do tego przeznaczonych.
 § 71. Na maszynach urabiających, ładujących i zwałujących dopuszczalne jest instalowanie dodatkowych grzejników elektrycznych tylko za zgodą kierownika ruchu zakładu górniczego lub wyznaczonej przez niego osoby dozoru odpowiedniego działu ruchu zakładu górniczego i służby przeciwpożarowej tego zakładu.
 § 72. Przejścia, pomosty, schody i drabiny na maszynach i urządzeniach utrzymuje się w stanie zapewniającym bezpieczne ich używanie.
+§ 73. 1. Zakład górniczy, w którym przerwa w dopływie energii elektrycznej może spowodować zagrożenie dla ludzi, środowiska i mienia, wyposaża się w dwa niezależne zasilania.
 2. Każde z zasilań, o których mowa w ust. 1, zapewnia co najmniej pokrycie minimalnej mocy gwarantowanej dla urządzeń, w których przerwa w dopływie energii może spowodować zagrożenie.
 § 74. W zakładzie górniczym przechowuje się aktualne dane dotyczące warunków zwarciowych, występujących w miejscu połączenia z zasilającym układem elektroenergetycznym.
 § 75. Instalowanie, eksploatacja oraz kontrola stanu technicznego maszyn, urządzeń i instalacji elektrycznych odbywają się zgodnie z wymaganiami określonymi w dokumentacji techniczno-ruchowej oraz we właściwych normach.
@@ -353,7 +358,7 @@ b) r odzaj, zakres i sposób wykorzystania metod stosowanych do oceny możliwoś
 2. W każdej stacji elektroenergetycznej znajduje się:
 1) schemat ideowy układu elektroenergetycznego stacji;
 2) instrukcja obsługi stacji;
-3) wykaz sprzętu ochronnego, niezbędnego do bezpiecznej obsługi stacji wraz z określeniem miejsca jego przechowywania;
+3) w ykaz sprzętu ochronnego, niezbędnego do bezpiecznej obsługi stacji wraz z określeniem miejsca jego przechowywania;
 4) instrukcja udzielania pierwszej pomocy w przypadku porażenia prądem elektrycznym oraz poparzenia łukiem elektrycznym;
 5) instrukcja przeciwpożarowa;
 6) wykaz sprzętu przeciwpożarowego będącego w jej wyposażeniu.
@@ -367,6 +372,7 @@ b) r odzaj, zakres i sposób wykorzystania metod stosowanych do oceny możliwoś
 § 87. Szczegółowe wymagania dotyczące linii napowietrznych znajdujących się na terenie zakładu górniczego są określane przez kierownika ruchu zakładu górniczego.
 § 88. Sieci trakcji przewodowej zakładu górniczego buduje się w sposób zapewniający bezpieczeństwo osób oraz zakładu górniczego.
 § 89. Szczegółowe wymagania w zakresie instalowania, eksploatacji i kontroli maszyn, urządzeń i sieci elektroenergetycznych, a także ochrony przeciwporażeniowej w zakładach wydobywających węgiel brunatny określa załącznik nr 2 do rozporządzenia.
+§ 90. 1. Zakład górniczy wyposaża się w urządzenia i sieci telekomunikacyjne zapewniające bezpieczne wykonywanie pracy i umożliwiające, w razie potrzeby, podjęcie natychmiastowych działań w zakresie udzielania pomocy, ewakuacji i prowadzenia akcji ratowniczej.
 2. Kierownik ruchu zakładu górniczego ustala miejsca i obiekty, które wyposaża się w urządzenia telekomunikacyjne.
 3. Urządzenia telekomunikacyjne związane z bezpieczeństwem ruchu zakładu górniczego zasila się tak, aby w przypadku zaniku napięcia zasilania zapewnić ich pracę przez okres ustalony przez kierownika ruchu zakładu górniczego.
 4. Kierownik ruchu zakładu górniczego ustala wykaz urządzeń, o których mowa w ust. 3.
@@ -376,6 +382,7 @@ b) r odzaj, zakres i sposób wykorzystania metod stosowanych do oceny możliwoś
 § 94. Układy automatyzacji przeznaczone do centralnego sterowania maszyn i urządzeń zapewniają uruchamianie, zatrzymywanie i bieżącą kontrolę pracy maszyn i urządzeń sterowanych ze stanowiska dyspozytorskiego.
 § 95. W każdym układzie automatyzacji obok sterowania automatycznego lub zdalnego zapewnia się sterowanie lokalne.
 § 96. W zakładzie górniczym sporządza się, przechowuje i aktualizuje na bieżąco mapy sieci telekomunikacyjnej na podkładzie mapy sytuacyjno-wysokościowej powierzchni w skali 1:2000 lub 1:5000.
+§ 97. 1. Przenośniki taśmowe wyposaża się w urządzenia:
 1) do napinania oraz czyszczenia taśmy;
 2) hamulcowe, zabezpieczające przed samoczynnym ruchem taśmy pod wpływem ciężaru urobku oraz przed zasypaniem przenośnika odbierającego;
 3) umożliwiające awaryjne zatrzymanie przenośnika;
@@ -445,6 +452,7 @@ b) r odzaj, zakres i sposób wykorzystania metod stosowanych do oceny możliwoś
 2. Na każdej zmianie roboczej przed rozpoczęciem pracy kontroluje się stan zanurzenia pontonów urządzenia pływającego. Wyniki kontroli wpisuje się do książki kontroli.
 § 128. Urobek na przenośnik pływający podaje się przy użyciu kosza zasypowego.
 § 129. Jednostki pływające napełnia się urobkiem w ilości nieprzekraczającej dopuszczalnej ładowności. Podczas załadunku lub rozładunku jednostki pływające przycumowuje się lub kotwiczy.
+§ 130. 1. Sposób odwadniania wyrobisk odkrywkowych określa dokumentacja techniczna, sporządzona na podstawie warunków hydrologicznych i hydrogeologicznych. Dokumentację tę zatwierdza kierownik ruchu zakładu górniczego.
 W przypadku braku dokumentacji technicznej sposób odwadniania określa kierownik ruchu zakładu górniczego.
 2. Jeżeli w pobliżu zakładu górniczego znajdują się rzeki, stawy lub inne zbiorniki wodne, a ich wody mogą przedostać się do wyrobisk górniczych, wyrobiska te chroni się w sposób ustalony przez kierownika ruchu zakładu górniczego.
 § 131. 1. Odwadnianie wyrobiska górniczego, zwałowiska odpadów wydobywczych w wyrobisku i mas ziemnych lub skalnych, zwanego dalej „zwałowiskiem”, a także składowiska urobku i produktów, zwanego dalej „składowiskiem”, które powstały w związku z prowadzeniem eksploatacji kopalin, obejmuje:
@@ -458,23 +466,23 @@ W przypadku braku dokumentacji technicznej sposób odwadniania określa kierowni
 § 132. Częstotliwość kontroli zwierciadła wody w otworach obserwacyjnych ustala kierownik ruchu zakładu górniczego. Kontrole te przeprowadza się co najmniej raz na sześć miesięcy.
 § 133. W przypadku przewidywanych zmian poziomu zwierciadła wód podziemnych, spowodowanych działalnością górniczą, w systemie odwadniania uwzględnia się prowadzenie obserwacji poziomu tego zwierciadła oraz zmian stosunków wodnych w górotworze, stosownie do postępu robót, nie rzadziej niż co dwa miesiące.
 § 134. 1. Podczas projektowania odwadniania zakładu górniczego określa się przewidywane dopływy wody w m /min, wynikające z:
-1) dokumentacji hydrogeologicznych w przypadku wód podziemnych;
-2) obliczeń hydrologicznych w przypadku wód opadowych.
+1) dokumentacji hydrogeologicznych – w przypadku wód podziemnych;
+2) obliczeń hydrologicznych – w przypadku wód opadowych.
 2. Określenia przewidywanych dopływów wód podziemnych w czynnym zakładzie górniczym dokonuje się na podstawie pomiarów i obserwacji, jeżeli warunki hydrogeologiczne nie ulegają zasadniczym zmianom, a zakład górniczy z okresu ostatnich dwóch lat posiada udokumentowane wyniki przeprowadzonych obserwacji i pomiarów.
 3. Dopływy wód opadowych w obrębie zlewni wyrobiska górniczego i zwałowiska oblicza się na podstawie maksymalnego opadu dobowego o prawdopodobieństwie 10% (opad występujący raz na 10 lat).
 § 135. 1. W zakładach górniczych wydobywających kopaliny inne niż węgiel brunatny, zaliczonych do:
-1) pierwszego stopnia zagrożenia wodnego wydajność pomp zapewnia odprowadzenie w ciągu 36 godzin dobowego dopływu wód podziemnych oraz w ciągu 48 godzin dobowego dopływu wód opadowych, określonych zgodnie z § 134;
-2) drugiego stopnia zagrożenia wodnego wydajność pomp zapewnia:
+1) p ierwszego stopnia zagrożenia wodnego – wydajność pomp zapewnia odprowadzenie w ciągu 36 godzin dobowego dopływu wód podziemnych oraz w ciągu 48 godzin dobowego dopływu wód opadowych, określonych zgodnie z § 134;
+2) drugiego stopnia zagrożenia wodnego – wydajność pomp zapewnia:
 a) odprowadzenie w ciągu 24 godzin dobowego dopływu wód podziemnych oraz w ciągu 36 godzin dobowego dopływu wód opadowych, określonych zgodnie z § 134,
 b) w przypadku możliwości retencjonowania wód na poziomach eksploatacyjnych odprowadzenie dobowego dopływu wód opadowych w ciągu 48 godzin.
 2. Pompownie, do których sumaryczny dobowy dopływ wód podziemnych i wód opadowych, określony zgodnie z § 134, przekracza 1 m³/min, wyposaża się w rezerwowe pompy o wydajności nie niższej niż 50% wydajności pomp, o której mowa w ust. 1 pkt 2.
 § 136. 1. W zakładach górniczych wydobywających węgiel brunatny, zaliczonych do:
-1) pierwszego stopnia zagrożenia wodnego wydajność pompowni odprowadzających wody z wyrobisk górniczych zapewnia:
+1) pierwszego stopnia zagrożenia wodnego – wydajność pompowni odprowadzających wody z wyrobisk górniczych zapewnia:
 a) odprowadzenie dobowych dopływów wód podziemnych w ciągu 24 godzin,
 b) w przypadku możliwości retencjonowania wód na poziomach eksploatacyjnych odprowadzenie dobowego dopływu określonego w lit. a w ciągu 48 godzin,
 c) odprowadzenie dobowego dopływu wód opadowych w ciągu 36 godzin,
 d) rezerwę wynoszącą 30% łącznej wydajności pomp;
-2) drugiego stopnia zagrożenia wodnego wydajność pompowni odprowadzających wody z wyrobisk górniczych zapewnia:
+2) drugiego stopnia zagrożenia wodnego – wydajność pompowni odprowadzających wody z wyrobisk górniczych zapewnia:
 a) odprowadzenie dobowych dopływów wód podziemnych i opadowych w ciągu 24 godzin,
 b) rezerwę wynoszącą 50% łącznej wydajności pomp,
 c) w przypadku możliwości retencjonowania wód na poziomach eksploatacyjnych odprowadzenie dopływu określonego w lit. a w ciągu 36 godzin.
@@ -483,7 +491,8 @@ c) w przypadku możliwości retencjonowania wód na poziomach eksploatacyjnych o
 § 138. 1. Pompownie powinny posiadać:
 1) zbiorniki o pojemności czterogodzinnego dopływu wody, określonego w § 134;
 2) dwa rurociągi tłoczne lub dwa zestawy rurociągów tłocznych, z których każdy zapewni bieżące odprowadzenie obliczeniowego dopływu wody do pompowni.
-2. W szczególnie uzasadnionych przypadkach, przy zapewnieniu bezpieczeństwa pracowników oraz bezpieczeństwa i ciągłości ruchu zakładu górniczego, dopuszcza się zmniejszenie pojemności zbiornika do dwugodzinnego przewidywane3. O dopuszczalnym zmniejszeniu pojemności zbiornika do dwugodzinnego przewidywanego dopływu wody oraz posiadaniu jednego rurociągu tłocznego lub jednego zestawu rurociągów tłocznych decyduje kierownik ruchu zakładu górniczego, powiadamiając właściwy organ nadzoru górniczego.
+2. W szczególnie uzasadnionych przypadkach, przy zapewnieniu bezpieczeństwa pracowników oraz bezpieczeństwa i ciągłości ruchu zakładu górniczego, dopuszcza się zmniejszenie pojemności zbiornika do dwugodzinnego przewidywanego dopływu wody oraz posiadanie jednego rurociągu lub jednego zestawu rurociągów tłocznych.
+3. O dopuszczalnym zmniejszeniu pojemności zbiornika do dwugodzinnego przewidywanego dopływu wody oraz posiadaniu jednego rurociągu tłocznego lub jednego zestawu rurociągów tłocznych decyduje kierownik ruchu zakładu górniczego, powiadamiając właściwy organ nadzoru górniczego.
 § 139. W przypadkach uzasadnionych warunkami technicznymi kierownik ruchu zakładu górniczego odstępuje od stosowania odwadniania.
 § 140. 1. W przypadku gdy studnie pompowe stanowią podstawowy system odwadniania, zapewnia się warunki zasilania w energię elektryczną i odprowadzenia wody eliminujące jednoczesny wymuszony postój takiej liczby studni, która może stanowić zagrożenie dla bezpieczeństwa ruchu zakładu górniczego.
 2. W studniach pompowych:
@@ -492,6 +501,7 @@ c) w przypadku możliwości retencjonowania wód na poziomach eksploatacyjnych o
 3) zapewnia się możliwość dokonywania kontrolnych pomiarów ilości pompowanej wody.
 3. Dla zapewnienia ciągłości pracy studni pompowych zakład górniczy posiada niezbędną rezerwę pomp oraz urządzeń do ich wymiany w liczbie ustalonej przez kierownika ruchu zakładu górniczego.
 4. Warunki wykonywania i eksploatacji studni pompowych w wyrobisku górniczym i w rejonach zagrożonych występowaniem zapadlisk lub osuwisk ustala kierownik ruchu zakładu górniczego.
+§ 141. 1. Zwałowisko lub składowisko lokalizuje się w części wyrobiska górniczego, z której całkowicie wyeksploatowano kopalinę, lub poza granicą zasobów bilansowych, w miejscu niepowodującym pogorszenia warunków późniejszej eksploatacji zasobów złóż.
 2. W przypadkach uzasadnionych warunkami terenowymi i techniczno-ekonomicznymi dopuszcza się lokalizowanie tymczasowych zwałowisk lub składowisk w granicach zasobów bilansowych złoża.
 § 142. 1. Teren przeznaczony pod zwałowiska lub składowiska:
 1) odwadnia się i zabezpiecza się przed dopływem wody, z wyjątkiem wyrobisk stanowiących zbiorniki wodne;
@@ -503,11 +513,12 @@ c) w przypadku możliwości retencjonowania wód na poziomach eksploatacyjnych o
 2) kątów generalnych zboczy;
 3) bezpiecznej odległości od:
 a) wyrobiska górniczego,
-b) k rawędzi frontów eksploatacyjnych dla zwałowania w wyrobisku górniczym,
+b) krawędzi frontów eksploatacyjnych dla zwałowania w wyrobisku górniczym,
 c) cieków i zbiorników wodnych,
-d) d róg, obiektów budowlanych, linii kolejowych i innych urządzeń;
+d) dróg, obiektów budowlanych, linii kolejowych i innych urządzeń;
 4) wysokości pięter i ich ilości;
 5) maszyn i urządzeń stosowanych do zwałowania i składowania;
+6) dopuszczalnego kąta nachylenia poprzecznego torów.
 3. W przypadkach uzasadnionych warunkami terenowymi lub technicznymi oraz warunkami bezpieczeństwa, a także przeznaczeniem urobionych mas ziemnych lub skalnych kierownik ruchu zakładu górniczego może odstąpić od sporządzenia dokumentacji, o której mowa w ust. 1.
 4. Zwałowiska i składowiska kształtuje się, użytkuje i utrzymuje w sposób niepowodujący zagrożenia dla pracowników i osób postronnych oraz zapobiegający zanieczyszczeniu gleby, wód powierzchniowych i podziemnych.
 § 144. 1. Budowę zwałowisk prowadzi się tak, aby masy nadkładowe najbardziej przydatne do rekultywacji były zwałowane jako wierzchowina.
@@ -518,6 +529,7 @@ d) d róg, obiektów budowlanych, linii kolejowych i innych urządzeń;
 § 146. Zwałowanie kopalin palnych wykonuje się w sposób uniemożliwiający ich samozapalenie.
 § 147. W przypadku możliwości odzysku zwałowanych mas nadkładowych lub ich części stosuje się zwałowanie selektywne, o ile jest to ekonomicznie uzasadnione.
 § 148. Podczas wyładunku zwałowanego materiału ze środków transportowych niedopuszczalne jest przebywanie pracowników od strony rozładowywanych środków transportowych.
+§ 149. 1. Roboty górnicze projektuje się i wykonuje w sposób zapewniający możliwie największe wykorzystanie złoża, przy uwzględnieniu uwarunkowań wynikających z zachowania bezpieczeństwa powszechnego, bezpieczeństwa i higieny pracy, ochrony środowiska, ochrony obiektów budowlanych oraz zapobiegania szkodom.
 2. Eksploatację złóż wielosurowcowych prowadzi się w sposób selektywny.
 § 150. 1. W granicach zasobów bilansowych złoża nie dopuszcza się lokowania przez przedsiębiorcę obiektów budowlanych w sposób powodujący pogorszenie warunków późniejszej eksploatacji złoża.
 2. W przypadkach uzasadnionych warunkami terenowymi i techniczno-ekonomicznymi dopuszcza się lokowanie tymczasowych obiektów budowlanych w granicach zasobów bilansowych złoża.
@@ -535,20 +547,20 @@ d) d róg, obiektów budowlanych, linii kolejowych i innych urządzeń;
 3. Informację wpisaną do książki uwag niezwłocznie przedkłada się kierownikowi ruchu zakładu górniczego, który w przypadkach określonych w ust. 2 pkt 1–3, wyznacza termin oraz osoby odpowiedzialne za usunięcie zgłoszonych nieprawidłowości.
 § 154. W zakresie obsługi geologicznej zakładu górniczego, o której mowa w § 151 ust. 1:
 1) kontroluje się:
-a) r oboty górnicze i wiertnicze wykonywane na potrzeby zakładu górniczego,
-b) r acjonalne wykorzystanie kopalin,
-c) z godność prowadzenia robót górniczych z koncesją, projektem zagospodarowania złoża i planem ruchu zakładu górniczego,
-d) s elektywną eksploatację i zwałowanie złóż wielosurowcowych;
+a) roboty górnicze i wiertnicze wykonywane na potrzeby zakładu górniczego,
+b) racjonalne wykorzystanie kopalin,
+c) zgodność prowadzenia robót górniczych z koncesją, projektem zagospodarowania złoża i planem ruchu zakładu górniczego,
+d) selektywną eksploatację i zwałowanie złóż wielosurowcowych;
 2) kartuje, profiluje i opróbowuje się roboty górnicze i wiertnicze;
 3) bada się budowę geologiczną górotworu, wykonuje się obserwacje i pomiary hydrogeologiczne oraz prowadzi się ewidencję ich wyników;
 4) prowadzi się:
-a) b adania strukturalne, mineralogiczne i petrograficzne, niezbędne do określenia zjawisk geologicznych,
-b) a ktualizację treści geologicznej map podstawowych, przeglądowych i specjalnych,
-c) b adania geologiczne wyprzedzające i rozpoznawcze,
-d) o kresowe analizy gospodarki złożem;
+a) badania strukturalne, mineralogiczne i petrograficzne, niezbędne do określenia zjawisk geologicznych,
+b) aktualizację treści geologicznej map podstawowych, przeglądowych i specjalnych,
+c) badania geologiczne wyprzedzające i rozpoznawcze,
+d) okresowe analizy gospodarki złożem;
 5) sporządza się:
-a) p odstawowe dokumenty dotyczące prac geologicznych i górniczych,
-b) o perat ewidencyjny zasobów złoża kopaliny;
+a) podstawowe dokumenty dotyczące prac geologicznych i górniczych,
+b) operat ewidencyjny zasobów złoża kopaliny;
 6) dokumentuje się przyczyny powstania strat w zasobach złoża;
 7) bada się stosunki wodne w terenie górniczym i jego bezpośrednim sąsiedztwie;
 8) bada się i kontroluje jakość złoża oraz zmienności parametrów jakościowych w procesie wydobywania kopalin;
@@ -557,7 +569,8 @@ b) o perat ewidencyjny zasobów złoża kopaliny;
 § 155. W zakresie obsługi mierniczej zakładu górniczego, o której mowa w § 151 ust. 1:
 1) kontroluje się zgodność prowadzonych robót górniczych z planem ruchu zakładu górniczego i wymaganiami określonymi w koncesji;
 2) wykonuje się:
-a) prace geodezyjne związane z budową, rozbudową i ruchem zakładu górniczego, w tym pomiary zdjętego nadkłab) p omiary określające wpływ robót górniczych na powierzchnię terenu górniczego,
+a) prace geodezyjne związane z budową, rozbudową i ruchem zakładu górniczego, w tym pomiary zdjętego nadkładu i wydobytej kopaliny,
+b) pomiary określające wpływ robót górniczych na powierzchnię terenu górniczego,
 c) pomiary uzupełniające i kontrolne;
 3) sporządza, aktualizuje i uzupełnia się dokumentację mierniczo-geologiczną;
 4) wyznacza się w terenie punkty załamania granicy obszaru górniczego, filary, pasy i półki ochronne oraz kontroluje się prowadzenie robót górniczych w ich granicach;
@@ -568,9 +581,10 @@ b) zjawisk osuwiskowych, występujących w wyrobiskach górniczych i w rejonie z
 7) kontroluje się sposób zagospodarowania terenów oraz opracowuje się wnioski dotyczące sposobu zagospodarowania lub przekazywania terenów zbędnych.
 § 156. 1. Przed rozpoczęciem robót górniczych w sąsiedztwie granic obszaru górniczego służba miernicza wyznacza w terenie przebieg tych granic. Punkty załamania granic obszaru górniczego w tym rejonie stabilizuje się w sposób trwały w gruncie.
 2. W przypadkach uzasadnionych warunkami terenowymi i techniczno-ruchowymi lub warunkami bezpieczeństwa służba miernicza zakładu górniczego wyznacza granice obszaru górniczego, o których mowa w ust. 1 i § 155 pkt 4, w inny sposób określony przez kierownika ruchu zakładu górniczego.
-§ 158. Zasady postępowania z wodami z odwodnienia zakładu górniczego określają przepisy ustawy z dnia 18 lipca 2001 r. Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm. ).
+§ 157. Kierownik ruchu zakładu górniczego podejmuje działania mające na celu zmniejszenie negatywnego wpływu ruchu zakładu górniczego na środowisko.
+§ 158. Zasady postępowania z wodami z odwodnienia zakładu górniczego określają przepisy ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm. ).
 § 159. Sposób postępowania z odpadami wydobywczymi określają przepisy ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych, z wyjątkiem zwałowania odpadów wydobywczych w obrębie wyrobisk górniczych, o którym mowa w rozdziale 9.
-§ 160. W zakładzie górniczym wykonywanie pomiarów emisji zanieczyszczeń do powietrza atmosferycznego i emisji hałasu do środowiska odbywa się w sposób określony w przepisach ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ).
+§ 160. W zakładzie górniczym wykonywanie pomiarów emisji zanieczyszczeń do powietrza atmosferycznego i emisji hałasu do środowiska odbywa się w sposób określony w przepisach ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ).
 § 161. Urządzenia odpylające i neutralizujące oraz zabezpieczenia służące do ochrony powietrza atmosferycznego eksploatuje się w sposób określony w instrukcji zatwierdzonej przez kierownika ruchu zakładu górniczego.
 § 162. 1. Rekultywację gruntów w granicach zakładu górniczego prowadzi się w miarę, jak grunty te stają się zbędne całkowicie, częściowo lub na określony czas do prowadzenia ruchu zakładu górniczego.
 2. Rekultywację w granicach udokumentowanego złoża poprzedza się dokonaniem obmiaru wyeksploatowanej części tego złoża.
@@ -582,13 +596,15 @@ b) zjawisk osuwiskowych, występujących w wyrobiskach górniczych i w rejonie z
 3) metody kształtowania rzeźby terenu niekorzystnie przekształconego oraz odtwarzania gleb;
 4) sposób regulacji stosunków wodnych na gruntach rekultywowanych;
 5) sposób zabezpieczenia przeciwerozyjnego rekultywowanych powierzchni;
-6) technologię i środki techniczne służące zapobieganiu powstawania pożarów na terenach rekultywowanych w przypadku wykorzystywania do rekultywacji odpadów zawierających części palne;
-7) sposób zabezpieczenia niewykorzystanej części złoża kopaliny, a w przypadku ich występowania również sąsiednich złóż kopalin;
+6) technologię i środki techniczne służące zapobieganiu powstawania pożarów na terenach rekultywowanych – w przypadku wykorzystywania do rekultywacji odpadów zawierających części palne;
+7) sposób zabezpieczenia niewykorzystanej części złoża kopaliny, a w przypadku ich występowania – również sąsiednich złóż kopalin;
 8) harmonogram realizacji robót rekultywacyjnych.
 6. Przepisów ust. 3–5 nie stosuje się do rekultywacji gruntów w odkrywkowych zakładach górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę, z wyjątkiem rekultywacji wykonywanej z wykorzystaniem odpadów pochodzących spoza zakładu górniczego.
 § 163. Wypełnianie wyrobisk górniczych i innych terenów w granicach zakładu górniczego prowadzi się wyłącznie z wykorzystaniem rodzajów odpadów określonych w przepisach wydanych na podstawie ustawy z dnia 14 grudnia 2012 r.
 o odpadach (Dz. U. z 2013 r. poz. 21 i 888).
+§ 164. Przepisów § 7 ust. 1 pkt 1 i ust. 2, § 8, § 9 ust. 3, § 16, § 24, § 31, § 35 ust. 3 pkt 2 i ust. 4, § 40 ust. 1 i 4, § 41, § 43 ust. 2, § 45 ust. 4, § 46, § 48 ust. 1 pkt 2 lit. b, § 49 ust. 1 pkt 1, § 50, § 131 ust. 1 i 2, § 134–140, § 143 ust. 1–3, § 152, § 154 pkt 1 lit. d, pkt 4, 8 i 9, § 155 pkt 3 i 5 rozporządzenia oraz ust. 2 pkt 1 załącznika nr 1 do rozporządzenia nie stosuje się do odkrywkowych zakładów górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę.
 § 165. Przepisów § 8, § 24, § 35 ust. 3 pkt 2, § 41, § 43 ust. 2, § 48 ust. 1 pkt 2 lit. b, § 143 ust. 2 pkt 5, § 154 pkt 4 lit. a i d, § 155 pkt 5 nie stosuje się do odkrywkowych zakładów górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez marszałka województwa.
+§ 166. Dokumenty związane z prowadzeniem ruchu zakładu górniczego, sporządzone przed dniem wejścia w życie rozporządzenia zachowują moc do czasu wydania nowych, nie dłużej niż 6 miesięcy od dnia wejścia w życie rozporządzenia.
 § 167. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Gospodarki: wz. M. Kasprzak DOKUMENT BEZPIECZEŃSTWA
 1. Dokument bezpieczeństwa stanowi zbiór wewnętrznych instrukcji lub innych regulacji umożliwiających ocenę i dokumentowanie ryzyka zawodowego oraz stosowania niezbędnych środków profilaktycznych zmniejszających to ryzyko w zakładzie górniczym.
@@ -615,8 +631,8 @@ e) zatrudniania pracowników posiadających wymagane kwalifikacje lub potrzebne 
 f) identyfikacji i wykonywania prac szczególnie niebezpiecznych,
 g) przeprowadzania badań profilaktycznych pracowników,
 h) szkoleń w dziedzinie bezpieczeństwa i higieny pracy,
-i) b adań przyczyn i okoliczności wypadków przy pracy,
-j) s tosowania znaków bezpieczeństwa i ich lokalizacji;
+i) badań przyczyn i okoliczności wypadków przy pracy,
+j) stosowania znaków bezpieczeństwa i ich lokalizacji;
 7) opis postępowania w sytuacjach awaryjnych dotyczący:
 a) sposobów ewakuacji i zapewnienia środków ratunkowych,
 b) organizacji ratownictwa i pierwszej pomocy medycznej,
@@ -626,10 +642,10 @@ c) zapewnienia łączności, systemów ostrzegawczych i alarmowych;
 INSTALOWANIE, EKSPLOATACJA I KONTROLA MASZYN, URZĄDZEŃ I SIECI ELEKTROENERGETYCZNYCH ORAZ OCHRONA PRZECIWPORAŻENIOWA W ZAKŁADACH GÓRNICZYCH WYDOBYWAJĄCYCH WĘGIEL BRUNATNY
 1. Określenia
 1.1. Maszyny i urządzenia ze względu na charakter pracy dzielą się na:
-1) stałe ustawione w osobnych, przeznaczonych dla nich pomieszczeniach, o budowie uniemożliwiającej ich przemieszczanie;
-2) przewoźne i przenośne mające budowę przystosowaną do łatwej, częstej zmiany miejsca pracy;
-3) ruchome zmieniające swoje położenie podczas pracy; są to urządzenia wydobywcze, przenośniki lub przesuwne (przestawiane) urządzenia elektroenergetyczne bez własnego, miejscowego uziomu;
-4) ręczne są to urządzenia ruchome trzymane podczas pracy w rękach.
+1) stałe – ustawione w osobnych, przeznaczonych dla nich pomieszczeniach, o budowie uniemożliwiającej ich przemieszczanie;
+2) przewoźne i przenośne – mające budowę przystosowaną do łatwej, częstej zmiany miejsca pracy;
+3) ruchome – zmieniające swoje położenie podczas pracy; są to urządzenia wydobywcze, przenośniki lub przesuwne (przestawiane) urządzenia elektroenergetyczne bez własnego, miejscowego uziomu;
+4) ręczne – są to urządzenia ruchome trzymane podczas pracy w rękach.
 1.2. Przez kierownika działu rozumie się kierownika działu ruchu zakładu górniczego odpowiedzialnego za prowadzenie ruchu urządzeń elektroenergetycznych. W przypadku braku takiego działu ruchu w schemacie organizacyjnym zakładu górniczego jego obowiązki wypełnia kierownik ruchu zakładu górniczego.
 2. Instalowanie i eksploatacja maszyn, urządzeń i sieci elektroenergetycznych
 2.1. Urządzenia pod względem budowy powinny być dobrane do warunków środowiskowych oraz instalowane tak, aby zapewnione było bezpieczeństwo obsługi.
@@ -642,7 +658,7 @@ INSTALOWANIE, EKSPLOATACJA I KONTROLA MASZYN, URZĄDZEŃ I SIECI ELEKTROENERGETY
 2.2.5. Szerokość przejścia w stacjach elektroenergetycznych jest nie mniejsza niż 0,8 m.
 2.2.6. Nowo budowane rozdzielnice posiadają wykonanie łukoochronne, zabezpieczające obsługę przed działaniem łuku powstałego w wyniku zwarcia wewnętrznego. W rozdzielnicach tych należy stosować wyłączniki bezolejowe.
 2.2.7. Rozdzielnice posiadają aktualne schematy ideowe, podane wartości zabezpieczeń oraz przekrojów kabli i przewodów.
-2.2.8. Dla każdej stacji prowadzi się książkę, do której pracownicy ruchu elektrycznego wpisują wyniki przeprowadzonych okresowych oględzin, przeglądów, kontroli, wszystkie dokonane czynności łączeniowe oraz opisy prac wykonanych w stacji. W stacjach ze stałą obsługą prowadzi się dziennik, w którym odnotowuje się wskazania
+2.2.8. Dla każdej stacji prowadzi się książkę, do której pracownicy ruchu elektrycznego wpisują wyniki przeprowadzonych okresowych oględzin, przeglądów, kontroli, wszystkie dokonane czynności łączeniowe oraz opisy prac wykonanych w stacji. W stacjach ze stałą obsługą prowadzi się dziennik, w którym odnotowuje się wskazania przyrządów pomiarowych według wzoru ustalonego przez kierownika działu.
 2.3. Kable i przewody.
 2.3.1. Przewody oponowe nie mogą być narażone na uszkodzenia mechaniczne. W szczególności niedopuszczalne jest:
 a) przejeżdżanie przez przewody oponowe,
@@ -657,7 +673,7 @@ c) przekraczanie dopuszczalnych sił rozciągających.
 2.3.8. Przewody, które mogą stale być zanurzone w wodzie, zasilające urządzenia, są do tego przystosowane. Przystosowanie to jest wykazane odpowiednim atestem.
 3. Kontrole maszyn, urządzeń i sieci elektroenergetycznych
 3.1. Maszyny, urządzenia i sieci podlegają okresowym kontrolom według zasad i w terminach ustalonych w instrukcji szczegółowej, zatwierdzonej przez kierownika działu, opracowanej w oparciu o dokumentacje techniczne eksploatowanych maszyn i urządzeń. Kierownik działu powinien ustalić liczbę i wzór książek kontrolnych oraz zakres dokonywania zapisów pokontrolnych.
-3.2. Urządzenia elektroenergetyczne po każdorazowym ich zabudowaniu i zmianie sposobu zasilania są odbierane przez wyznaczoną osobę dozoru ruchu elektrycznego ze szczególnym uwzględnieniem doboru i nastawienia zabezpieczeń.
+3.2. U rządzenia elektroenergetyczne po każdorazowym ich zabudowaniu i zmianie sposobu zasilania są odbierane przez wyznaczoną osobę dozoru ruchu elektrycznego ze szczególnym uwzględnieniem doboru i nastawienia zabezpieczeń.
 3.3. Pomiarów rezystancji izolacji instalacji elektroenergetycznych dokonuje się:
 1) przed oddaniem do ruchu nowego urządzenia lub sieci i po naprawie;
 2) nie rzadziej niż raz na 5 lat, na eksploatowanych na otwartym powietrzu lub w pozostałych pomieszczeniach.
@@ -665,37 +681,37 @@ c) przekraczanie dopuszczalnych sił rozciągających.
 3.5. Pomiary rezystancji uziemień prowadzi się:
 1) przed oddaniem do ruchu nowego urządzenia lub sieci;
 2) nie rzadziej niż co 5 lat oraz po zmianie warunków powodujących wzrost prądów uziomowych.
-3.6. Sprawdzenia wartości nastawionych zabezpieczeń dokonuje się nie rzadziej niż co 5 lat, a sprawdzenia funkcjonalności zabezpieczeń niewyposażonych w układ samokontroli nie rzadziej niż co 12 miesięcy.
+3.6. Sprawdzenia wartości nastawionych zabezpieczeń dokonuje się nie rzadziej niż co 5 lat, a sprawdzenia funkcjonalności zabezpieczeń niewyposażonych w układ samokontroli – nie rzadziej niż co 12 miesięcy.
 1. Konstrukcję stalową stacji napędowych przenośników łączy się z uziemioną konstrukcją przewoźnych bądź przesuwnych, umieszczonych poza przenośnikiem, stacji zasilających te przenośniki. Połączenia wykonuje się co najmniej w dwóch miejscach za pomocą płaskowników lub linek stalowych o przekroju nie mniejszym niż 100 mm .
 Zamiast jednego z tych dwóch połączeń dopuszcza się wykorzystanie żył ochronnych w przewodzie lub kablu zasilającym, o ile łączny przekrój żył ochronnych jest nie mniejszy niż 25 mm .
-2. Metalowych obudów (części przewodzących dostępnych) urządzeń elektroenergetycznych zainstalowanych na maszynach górniczych i przenośnikach można nie łączyć oddzielnym przewodem ochronnym z metalowymi częściami konstrukcyjnymi maszyn górniczych i przenośników, jeżeli istnieje skuteczne przewodzące połączenie tych części poprzez powierzchnie styku. Wystarczające jest połączenie śrubowe zabezpieczone przed samopoluzowaniem.
-3. Jeżeli na ruchomych częściach maszyn górniczych niespełniających funkcji przewodu ochronnego są ułożone kable lub przewody nieekranowane, części te chroni się przed dotykiem pośrednim. Ochronę wykonuje się przez połączenie tych części z przewodem ochronnym sieci zasilającej.
+2. M etalowych obudów (części przewodzących dostępnych) urządzeń elektroenergetycznych zainstalowanych na maszynach górniczych i przenośnikach można nie łączyć oddzielnym przewodem ochronnym z metalowymi częściami konstrukcyjnymi maszyn górniczych i przenośników, jeżeli istnieje skuteczne przewodzące połączenie tych części poprzez powierzchnie styku. Wystarczające jest połączenie śrubowe zabezpieczone przed samopoluzowaniem.
+3. J eżeli na ruchomych częściach maszyn górniczych niespełniających funkcji przewodu ochronnego są ułożone kable lub przewody nieekranowane, części te chroni się przed dotykiem pośrednim. Ochronę wykonuje się przez połączenie tych części z przewodem ochronnym sieci zasilającej.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowe wymagania dotyczące prowadzenia ruchu odkrywkowego zakładu górniczego, zwanego dalej „zakładem górniczym”, w zakresie:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe § 4. Przedsiębiorca sporządza, uzupełnia i aktualizuje dokumentację dotyczącą prowadzenia ruchu zakładu górniczego, oceny ryzyka zawodowego i stosowania rozwiązań zmniejszających to ryzyko oraz przeprowadza bieżące analizy i badania niezbędne dla bezpiecznego prowadzenia tego ruchu.
+#### Rozdział 2 Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe
 
-#### Rozdział 3 Zagrożenia § 48. 1. Oceny zagrożeń występujących w ruchu zakładu górniczego dokonuje kierownik ruchu zakładu górniczego, który w szczególności:
+#### Rozdział 3 Zagrożenia
 
-#### Rozdział 4 Maszyny, urządzenia i instalacje techniczne oraz obiekty budowlane zakładu górniczego § 54. 1. Maszyny i urządzenia eksploatuje się, konserwuje i naprawia w sposób określony w dokumentacji techniczno-ruchowej.
+#### Rozdział 4 Maszyny, urządzenia i instalacje techniczne oraz obiekty budowlane zakładu górniczego
 
-#### Rozdział 5 Maszyny, urządzenia i instalacje elektroenergetyczne § 73. 1. Zakład górniczy, w którym przerwa w dopływie energii elektrycznej może spowodować zagrożenie dla ludzi, środowiska i mienia, wyposaża się w dwa niezależne zasilania.
+#### Rozdział 5 Maszyny, urządzenia i instalacje elektroenergetyczne
 
-#### Rozdział 6 Urządzenia telekomunikacyjne i układy automatyzacji § 90. 1. Zakład górniczy wyposaża się w urządzenia i sieci telekomunikacyjne zapewniające bezpieczne wykonywanie pracy i umożliwiające, w razie potrzeby, podjęcie natychmiastowych działań w zakresie udzielania pomocy, ewakuacji i prowadzenia akcji ratowniczej.
+#### Rozdział 6 Urządzenia telekomunikacyjne i układy automatyzacji
 
-#### Rozdział 7 Transport § 97. 1. Przenośniki taśmowe wyposaża się w urządzenia:
+#### Rozdział 7 Transport
 
-#### Rozdział 8 Odwadnianie § 130. 1. Sposób odwadniania wyrobisk odkrywkowych określa dokumentacja techniczna, sporządzona na podstawie warunków hydrologicznych i hydrogeologicznych. Dokumentację tę zatwierdza kierownik ruchu zakładu górniczego.
+#### Rozdział 8 Odwadnianie
 
-#### Rozdział 9 Zwałowanie i składowanie § 141. 1. Zwałowisko lub składowisko lokalizuje się w części wyrobiska górniczego, z której całkowicie wyeksploatowano kopalinę, lub poza granicą zasobów bilansowych, w miejscu niepowodującym pogorszenia warunków późniejszej eksploatacji zasobów złóż.
+#### Rozdział 9 Zwałowanie i składowanie
 
-#### Rozdział 10 Gospodarka złożami kopalin w procesie ich wydobywania, geologia górnicza i miernictwo górnicze § 149. 1. Roboty górnicze projektuje się i wykonuje w sposób zapewniający możliwie największe wykorzystanie złoża, przy uwzględnieniu uwarunkowań wynikających z zachowania bezpieczeństwa powszechnego, bezpieczeństwa i higieny pracy, ochrony środowiska, ochrony obiektów budowlanych oraz zapobiegania szkodom.
+#### Rozdział 10 Gospodarka złożami kopalin w procesie ich wydobywania, geologia górnicza i miernictwo górnicze
 
-#### Rozdział 11 Ochrona środowiska § 157. Kierownik ruchu zakładu górniczego podejmuje działania mające na celu zmniejszenie negatywnego wpływu ruchu zakładu górniczego na środowisko.
+#### Rozdział 11 Ochrona środowiska
 
-#### Rozdział 12 Odkrywkowe zakłady górnicze wydobywające kopaliny na podstawie koncesji udzielonej przez starostę lub marszałka województwa § 164. Przepisów § 7 ust. 1 pkt 1 i ust. 2, § 8, § 9 ust. 3, § 16, § 24, § 31, § 35 ust. 3 pkt 2 i ust. 4, § 40 ust. 1 i 4, § 41, § 43 ust. 2, § 45 ust. 4, § 46, § 48 ust. 1 pkt 2 lit. b, § 49 ust. 1 pkt 1, § 50, § 131 ust. 1 i 2, § 134–140, § 143 ust. 1–3, § 152, § 154 pkt 1 lit. d, pkt 4, 8 i 9, § 155 pkt 3 i 5 rozporządzenia oraz ust. 2 pkt 1 załącznika nr 1 do rozporządzenia nie stosuje się do odkrywkowych zakładów górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę.
+#### Rozdział 12 Odkrywkowe zakłady górnicze wydobywające kopaliny na podstawie koncesji udzielonej przez starostę lub marszałka województwa
 
-#### Rozdział 13 Przepis przejściowy i końcowy § 166. Dokumenty związane z prowadzeniem ruchu zakładu górniczego, sporządzone przed dniem wejścia w życie rozporządzenia zachowują moc do czasu wydania nowych, nie dłużej niż 6 miesięcy od dnia wejścia w życie rozporządzenia.
+#### Rozdział 13 Przepis przejściowy i końcowy
 
 ## CZĘŚĆ I Instalowanie, eksploatacja i kontrola maszyn, urządzeń i sieci elektroenergetycznych
 

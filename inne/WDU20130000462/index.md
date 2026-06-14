@@ -8,10 +8,10 @@ pos: 462
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 kwietnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 462 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 5 kwietnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/462/text.pdf) |
 
-Poz. 462 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 5 kwietnia 2013 r.
-w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Szczecin-Goleniów Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm. ) zarządza się, co następuje: § 1. 1. Ustanawia się skład wolnocłowy na terenie Portu Lotniczego Szczecin-Goleniów.
+w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Szczecin-Goleniów Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Ustanawia się skład wolnocłowy na terenie Portu Lotniczego Szczecin-Goleniów.
 2. Szczegółowy opis granic i obszar składu wolnocłowego określa załącznik do rozporządzenia.
 § 2. Zarządzającym składem wolnocłowym na terenie Portu Lotniczego Szczecin-Goleniów ustanawia się Port Lotniczy Szczecin-Goleniów Spółka z ograniczoną odpowiedzialnością z siedzibą w Glewicach.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

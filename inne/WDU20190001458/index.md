@@ -8,10 +8,10 @@ pos: 1458
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 sierpnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1458 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 31 lipca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1458/text.pdf) |
 
-Poz. 1458 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 31 lipca 2019 r.
-w sprawie minimalnej sumy gwarancyjnej ubezpieczenia, sumy gwarancji bankowej, sumy gwarancji ubezpieczeniowej lub wartości innego zabezpieczenia roszczeń użytkownika, o których mowa w art. 117a ust. 3 ustawy o usługach płatniczych Na podstawie art. 117a ust. 7 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2019 r. poz. 659 i 730) zarządza się, co następuje: § 1. Ilekroć w rozporządzeniu jest mowa o ustawie, należy przez to rozumieć ustawę z dnia 19 sierpnia 2011 r.
+w sprawie minimalnej sumy gwarancyjnej ubezpieczenia, sumy gwarancji bankowej, sumy gwarancji ubezpieczeniowej lub wartości innego zabezpieczenia roszczeń użytkownika, o których mowa w art. 117a ust. 3 ustawy o usługach płatniczych Na podstawie art. 117a ust. 7 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2019 r. poz. 659 i 730) zarządza się, co następuje:
+§ 1. Ilekroć w rozporządzeniu jest mowa o ustawie, należy przez to rozumieć ustawę z dnia 19 sierpnia 2011 r.
 o usługach płatniczych.
 § 2. Minimalną sumę gwarancyjną ubezpieczenia, sumę gwarancji bankowej, sumę gwarancji ubezpieczeniowej lub wartość innego zabezpieczenia roszczeń użytkownika, o których mowa w art. 117a ust. 3 ustawy, zwaną dalej „minimalną sumą”, oblicza się w skali roku jako sumę następujących wskaźników:
 1) wartości wniosków o odszkodowanie;
@@ -36,7 +36,7 @@ o usługach płatniczych.
 § 3. Wartość wskaźnika, o którym mowa w § 2 pkt 1, oblicza się jako:
 1) wyrażoną w euro łączną wartość roszczeń wynikającą ze wszystkich wniosków o odszkodowanie z tytułu nieuprawnionego dostępu do informacji o rachunku płatniczym lub nieuprawnionego użycia takich informacji, zwanych dalej „wnioskami o odszkodowanie”, złożonych w okresie ostatnich 12 miesięcy dostawcy świadczącemu wyłącznie usługę dostępu do informacji o rachunku, zwanemu dalej „dostawcą”, przez użytkowników lub dostawców usług płatniczych prowadzących rachunek płatniczy dla płatnika; w przypadku gdy w tym okresie nie został złożony dostawcy żaden wniosek o odszkodowanie, wskaźnika wartości wniosków o odszkodowanie nie uwzględnia się przy obliczaniu minimalnej sumy;
 2) wyrażoną w euro łączną wartość roszczeń wynikającą z wniosków o odszkodowanie przewidywanych przez wnioskodawcę zamierzającego prowadzić działalność jako dostawca, zwanego dalej „wnioskodawcą”, lub przez dostawcę na potrzeby złożenia wniosku, o którym mowa w art. 117b ust. 3 ustawy – w przypadku gdy nie świadczyli usługi dostępu do informacji o rachunku w okresie ostatnich 12 miesięcy; w przypadku nieokreślenia przewidywanej wartości roszczeń wynikającej z wniosków o odszkodowanie lub jeżeli przewidywana ich wartość jest niższa niż 50 000 euro, przyjmuje się, że wartość wskaźnika wartości wniosków o odszkodowanie wynosi 50 000 euro.
-Dziennik Ustaw – 2 – Poz. 1458 § 4. 1. Wartość wskaźnika, o którym mowa w § 2 pkt 2, oblicza się jako wyrażoną w euro sumę następujących elementów:
+§ 4. 1. Wartość wskaźnika, o którym mowa w § 2 pkt 2, oblicza się jako wyrażoną w euro sumę następujących elementów:
 1) 40% części R do 10 000 dostępnych rachunków włącznie,
 2) 25% części R powyżej 10 000 do 100 000 dostępnych rachunków włącznie,
 3) 10% części R powyżej 100 000 do 1 000 000 dostępnych rachunków włącznie,

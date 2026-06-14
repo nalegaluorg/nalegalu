@@ -8,10 +8,10 @@ pos: 1096
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 października 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1096 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 25 września 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1096/text.pdf) |
 
-Poz. 1096 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 25 września 2012 r.
 w sprawie określenia maksymalnych poziomów substancji zanieczyszczających, które mogą znajdować się w tłuszczach stosowanych do smażenia, oraz kryteriów dla metod analitycznych stosowanych do ich oznaczania Na podstawie art. 17 ust. 1 i 3 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r.
-Nr 136, poz. 914, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+Nr 136, poz. 914, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) maksymalne poziomy substancji zanieczyszczających innych niż określone w rozporządzeniu Komisji (WE) nr 1881/2006 z dnia 19 grudnia 2006 r. ustalającym najwyższe dopuszczalne poziomy niektórych zanieczyszczeń w środkach spożywczych (Dz. Urz. UE L 364 z 20.12.2006, str. 5, z późn. zm.), które mogą się znajdować w tłuszczach stosowanych przez podmioty działające na rynku spożywczym do smażenia żywności, zwanych dalej „tłuszczami”;
 2) metody pobierania i przygotowywania próbek tłuszczów;
 3) kryteria dla metod analitycznych stosowanych do oznaczania poziomów zawartości substancji zanieczyszczających.

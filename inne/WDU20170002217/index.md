@@ -8,7 +8,7 @@ pos: 2217
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o podstawowej opiece zdrowotnej
@@ -35,7 +35,16 @@ Art. 25–32. (pominięte)
 
 **Art. 2.** Podstawowa opieka zdrowotna stanowi miejsce pierwszego kontaktu świadczeniobiorcy, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), zwanego dalej „świadczeniobiorcą”, z systemem ochrony zdrowia, z wyłączeniem sytuacji, w których świadczeniobiorca znajduje się w stanie nagłego zagrożenia zdrowotnego, o którym mowa w art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz.
 
+- **91)** , lub udzielane są mu świadczenia, o których mowa w art. 57 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą o świadczeniach”, w ramach którego jest zapewniony dostęp do profilaktycznych, diagnostycznych, leczniczych, pielęgnacyjnych oraz rehabilitacyjnych świadczeń opieki zdrowotnej finansowanych ze środków publicznych.
+
 **Art. 3.** Podstawowa opieka zdrowotna ma na celu:
+
+- **1)** zapewnienie opieki zdrowotnej nad świadczeniobiorcą i jego rodziną;
+- **2)** koordynację opieki zdrowotnej nad świadczeniobiorcą w systemie ochrony zdrowia;
+- **3)** ocenę potrzeb oraz ustalenie priorytetów zdrowotnych populacji objętej opieką oraz wdrażanie działań profilaktycznych;
+- **4)** rozpoznawanie, eliminowanie lub ograniczanie zagrożeń i problemów zdrowia fizycznego i psychicznego;
+- **5)** zapewnienie profilaktycznej opieki zdrowotnej oraz promocji zdrowia dostosowanych do potrzeb różnych grup społeczeństwa;
+- **6)** zapewnienie edukacji świadczeniobiorcy w zakresie odpowiedzialności za własne zdrowie i kształtowanie świadomości prozdrowotnej.
 
 **Art. 4.** Koordynacja opieki zdrowotnej nad świadczeniobiorcą w systemie ochrony zdrowia polega na zintegrowaniu udzielania świadczeń opieki zdrowotnej, obejmujących wszystkie etapy i elementy procesu ich realizacji, z wykorzystaniem systemów teleinformatycznych, środków komunikacji elektronicznej lub publicznie dostępnych usług telekomunikacyjnych, ze szczególnym uwzględnieniem jakości i efektywności udzielanych świadczeń.
 
@@ -278,6 +287,8 @@ Art. 25–32. (pominięte)
 
 **Art. 21.** Szczegółowe zasady organizacji procesu udzielania świadczeń zdrowotnych, w tym przekazywania informacji o tym procesie, określa regulamin organizacyjny świadczeniodawcy, zgodnie z przepisami ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897 oraz z 2025 r. poz.
 
+- **129)** .
+
 #### Rozdział 3 Finansowanie podstawowej opieki zdrowotnej
 
 **Art. 22.** Finansowanie podstawowej opieki zdrowotnej następuje na zasadach określonych w ustawie o świadczeniach, ze środków ujętych w planie finansowym Narodowego Funduszu Zdrowia.
@@ -319,4 +330,10 @@ Art. 25–32. (pominięte)
 **Art. 37.** Program polityki zdrowotnej realizowany i finansowany przez ministra właściwego do spraw zdrowia na podstawie art. 48a ust. 1a ustawy zmienianej w art. 29 , przed dniem wejścia w życie niniejszej ustawy, staje się programem polityki zdrowotnej, o którym mowa w art. 48a ust. 17 ustawy zmienianej w art. 29 , w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 38.** Ustawa wchodzi w życie z dniem 1 grudnia 2017 r., z wyjątkiem:
+
+- **1)** art. 29 pkt 7 w zakresie uchylenia ust. 2b w art. 55, który wchodzi w życie z dniem ogłoszenia ;
+- **2)** art. 6 ust. 4–6, które wchodzą w życie z dniem 1 stycznia 2019 r.;
+- **3)** art. 14 ust. 2 i art. 29 pkt 10 i 11, które wchodzą w życie z dniem 1 października 2021 r.;
+- **4)** art. 6 ust. 1 pkt 4 i ust. 2, w zakresie obowiązku ukończenia kursu w dziedzinie medycyny rodzinnej, które wchodzą w życie z dniem 1 stycznia 2027 r.
+
 

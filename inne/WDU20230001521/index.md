@@ -8,10 +8,10 @@ pos: 1521
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11552211 Załącznik nr 1 SZCZEGÓŁOWY ZAKRES UDZIELANYCH PRZEZ PREZESA URZĘDU REJESTRACJI PRODUKTÓW LECZNICZYCH, WYROBÓW MEDYCZNYCH I PRODUKTÓW BIOBÓJCZYCH PORAD NAUKOWYCH, O KTÓRYCH MOWA W ART. 4a UST. 1 USTAWY Z DNIA 18 MARCA 2011 r. O URZĘDZIE REJESTRACJI PRODUKTÓW LECZNICZYCH, WYROBÓW MEDYCZNYCH I PRODUKTÓW BIOBÓJCZYCH, WRAZ Z OKREŚLENIEM WYSOKOŚCI OPŁAT POBIERANYCH ZA ICH UDZIELENIE Lp. Szczegółowy zakres porady naukowej Wysokość opłaty (w złotych)
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001521) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1521/text.pdf) |
 
-11552211 SZCZEGÓŁOWY ZAKRES UDZIELANYCH PRZEZ PREZESA URZĘDU REJESTRACJI PRODUKTÓW LECZNICZYCH, WYROBÓW MEDYCZNYCH I PRODUKTÓW BIOBÓJCZYCH PORAD NAUKOWYCH, O KTÓRYCH MOWA W ART. 4a UST. 1 USTAWY Z DNIA 18 MARCA 2011 r. O URZĘDZIE REJESTRACJI PRODUKTÓW LECZNICZYCH, WYROBÓW MEDYCZNYCH I PRODUKTÓW BIOBÓJCZYCH, WRAZ Z OKREŚLENIEM WYSOKOŚCI OPŁAT POBIERANYCH ZA ICH UDZIELENIE Lp. Szczegółowy zakres porady naukowej Wysokość opłaty (w złotych)
 1. Porady dotyczące produktu leczniczego lub grupy produktów leczniczych:
 1.1. Zagadnienia dotyczące jakości:
 1.1.1. Zagadnienia dotyczące jakości substancji czynnej 6500 produktu leczniczego
@@ -38,7 +37,7 @@ source: "isap-pdf"
 1.2.4. Porada obejmująca łącznie co najmniej dwa zagadnienia 90% sumy opłat wymienione w lp. 1.2.1.–1.2.3. za każdy z zakresów porady naukowej obejmującej jej zagadnienia określone w lp. 1.2.1.–1.2.3.
 1.3. Zagadnienia dotyczące badań klinicznych:
 1.3.1. Zagadnienia dotyczące badań biofarmaceutycznych 6500
-1.3.2. Zagadnienia dotyczące farmakokinetyki z zastosowaniem biomateriałów pochodzenia ludzkiego 4500
+1.3.2. Zagadnienia dotyczące farmakokinetyki z 4500 zastosowaniem biomateriałów pochodzenia ludzkiego
 1.3.3. Zagadnienia dotyczące badań farmakokinetycznych 4500 u ludzi
 1.3.4. Zagadnienia dotyczące badań farmakodynamicznych 4500 u ludzi
 1.3.5. Zagadnienia dotyczące klinicznych badań skuteczności 8500 i bezpieczeństwa
@@ -61,8 +60,8 @@ source: "isap-pdf"
 Zgodnie z art. 4a ust. 2 ustawy, Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych odmawia udzielenia porady naukowej, jeżeli:
 1) dotyczy ona stosowania przepisów prawa powszechnie obowiązującego regulującego kwestie dopuszczania do obrotu produktów leczniczych;
 2) dotyczy ona kwestii uregulowanych w wytycznych wydanych przez Komisję Europejską, Europejską Agencję Leków, Światową Organizację Zdrowia lub Międzynarodową konferencję ds. harmonizacji wymagań technicznych dla rejestracji produktów leczniczych stosowanych u ludzi (ICH);
-3) podmiot odpowiedzialny wystąpił w zakresie objętym wnioskiem o wydanie porady naukowej, o której mowa w art. 57 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229, z późn. zm.), do Europejskiej Agencji Leków lub z wnioskiem o udzielenie porady naukowej do innego właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym albo uzyskał tę poradę;
-4) dotyczy ona postępowania toczącego się przed Prezesem Urzędu, Europejską Agencją Leków lub innym właściwym organem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym;
+3) podmiot odpowiedzialny wystąpił w zakresie objętym wnioskiem o wydanie porady naukowej, o której mowa w art. 57 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229, z późn. zm.), do Europejskiej Agencji Leków lub z wnioskiem o udzielenie porady naukowej do innego właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo uzyskał tę poradę;
+4) dotyczy ona postępowania toczącego się przed Prezesem Urzędu, Europejską Agencją Leków lub innym właściwym organem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
 5) przedstawiciel Rzeczypospolitej Polskiej pełni rolę sprawozdawcy w procesie dopuszczenia do obrotu produktu leczniczego w trwającej procedurze scentralizowanej, o której mowa w przepisach rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków.
 1. Dane wnioskodawcy
 1.1. Imię i nazwisko lub nazwa
@@ -86,8 +85,8 @@ Zgodnie z art. 4a ust. 2 ustawy, Prezes Urzędu Rejestracji Produktów Leczniczy
 6. Informacje w zakresie, o którym mowa w art. 4a ust. 2 ustawy
 6.1. Porada naukowa dotyczy stosowania przepisów prawa powszechnie obowiązującego regulującego kwestie dopuszczania do obrotu produktów leczniczych Tak Nie
 6.2. Porada naukowa dotyczy kwestii uregulowanych w wytycznych wydanych przez Komisję Europejską, Europejską Agencję Leków, Światową Organizację Zdrowia lub Międzynarodową konferencję ds. harmonizacji wymagań technicznych dla rejestracji produktów leczniczych stosowanych u ludzi (ICH) Tak Nie
-6.3. Podmiot odpowiedzialny wystąpił w zakresie objętym wnioskiem o wydanie porady naukowej, o której mowa w art. 57 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków, do Europejskiej Agencji Leków lub z wnioskiem o udzielenie porady naukowej do innego właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym albo uzyskał tę poradę Tak Nie
-6.4. Porada dotyczy postępowania toczącego się przed Prezesem Urzędu, Europejską Agencją Leków lub innym właściwym organem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym Tak Nie
+6.3. Podmiot odpowiedzialny wystąpił w zakresie objętym wnioskiem o wydanie porady naukowej, o której mowa w art. 57 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków, do Europejskiej Agencji Leków lub z wnioskiem o udzielenie porady naukowej do innego właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo uzyskał tę poradę Tak Nie
+6.4. Porada dotyczy postępowania toczącego się przed Prezesem Urzędu, Europejską Agencją Leków lub innym właściwym organem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym Tak Nie
 6.5. Przedstawiciel Rzeczypospolitej Polskiej pełni rolę sprawozdawcy w procesie dopuszczenia do obrotu produktu leczniczego w procedurze scentralizowanej, o której mowa w przepisach rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r.
 ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków Tak Nie ……………………………………………………… ………………………………….. ………………….. ………………..
 

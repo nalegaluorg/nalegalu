@@ -8,10 +8,10 @@ pos: 364
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lutego 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 364 Załącznik do rozporządzenia lutego 2018 r.(poz. 000) WZÓR POTWIERDZENIE OTRZYMANIA EUROPEJSKIEGO NAKAZU DOCHODZENIOWEGO Niniejszy formularz jest wypełniany przez organ państwa wykonującego, który otrzymał określony poniżej europejski nakaz dochodzeniowy.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/364/text.pdf) |
 
-o 2018 r. poz 000 DOCHODZEN OWEGO Niniejszy formularz jest wypełniany przez organ państwa wykonującego, który otrzymał określony poniżej europejski nakaz dochodzeniowy.
 A. OTRZYMANY EUROPEJSKI NAKAZ DOCHODZENIOWY Organ, który wydał nakaz: ..................................................................................................
 …………………………………………………………………………………………….
 …………………………………………………………………………………………….

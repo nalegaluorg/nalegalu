@@ -8,10 +8,10 @@ pos: 1604
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 października 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11660044 Załącznik do rozporządzenia Ministra Infrastruktury z dnia 25 października 2024 r. (Dz. U. poz. ….) WZÓR DOKUMENT ZASTĘPUJĄCY ZGŁOSZENIE DOCUMENT REPLACING THE NOTIFICATION ДОКУМЕНТ ЗАМЕНЯЮЩИЙ УВЕДОМЛЕНИЕ 1A. Numer dokumentu: 1B. Numer referencyjny: Document number: Reference number: Номер документа: Номер ссылки: I. Dane podmiotu zagranicznego wykonującego międzynarodowy przewóz drogowy rzeczy lub przewóz kabotażowy rzeczy Data on the foreign entity performing international road haulage or cabotage operations Данные об иностранной организации, осуществляющей международные автомобильные перевозки грузов или каботажные операции
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1604/text.pdf) |
 
-11660044 WZÓR DOKUMENT ZASTĘPUJĄCY ZGŁOSZENIE DOCUMENT REPLACING THE NOTIFICATION ДОКУМЕНТ ЗАМЕНЯЮЩИЙ УВЕДОМЛЕНИЕ 1A. Numer dokumentu: 1B. Numer referencyjny: Document number: Reference number: Номер документа: Номер ссылки: I. Dane podmiotu zagranicznego wykonującego międzynarodowy przewóz drogowy rzeczy lub przewóz kabotażowy rzeczy Data on the foreign entity performing international road haulage or cabotage operations Данные об иностранной организации, осуществляющей международные автомобильные перевозки грузов или каботажные операции
 1. Imię i nazwisko albo nazwa: 2. NIP / numer innego identyfikatora: Name and surname or entity: TIN / other identifier number: Имя и фамилия или название: ИНН / другой идентификационный номер:
 3. Ulica: 4. Numer budynku/ 5. Miejscowość: Street: lokalu: City: Улица: Building/premises no: Местонахождение: Номер здания/ помещения:
 6. Kod pocztowy: 7. Kraj: Postcode: Country: Почтовый индекс: Страна: II. Dane nadawcy towaru Details of the sender of the goods Данные отправитeля груза
-8. Imię i nazwisko albo nazwa: Name and surname or entity: Имя и фамилия или название:
-9. Ulica: Street: Улица:
+8. Imię i nazwisko albo nazwa: 9. Ulica: Name and surname or entity: Street: Имя и фамилия или название: Улица:
 10. Numer budynku/lokalu: 11. Miejscowość: Building/premises no: City: Номер здания/помещения: Местонахождение:
 12. Kod pocztowy: 13. Kraj: Postcode: Country: Почтовый индекс: Страна: III. Dane odbiorcy towaru Details of the recipient of the goods Данные получателя груза
 14. Imię i nazwisko albo nazwa: 15. Ulica: Name and surname or entity: Street: Имя и фамилия или название: Улица:
@@ -38,14 +36,13 @@ source: "isap-pdf"
 18. Kod pocztowy: 19. Kraj: Postcode: Country: Почтовый индекс: Страна: IV. Daty rozpoczęcia i zakończenia przewozu na terytorium RP Dates of commencement and termination of carriage on the territory of the Republic of Poland Даты начала и окончания перевозки на территории Республики Польша
 20. Data rozpoczęcia przewozu: 21. Data zakończenia przewozu: Start date of carriage: End date of carriage: Дата начала перевозки: Дата завершения перевозки: V. Miejsce rozpoczęcia przewozu na terytorium RP Place of departure on the territory of the Republic of Poland Место отправления на территории Республики Польша
 22. Miejscowość / przejście graniczne / 23. Województwo: numer drogi: Voivodeship: Town / border crossing / road number: Провинция: Город / пограничный пункт пропуска / номер дороги:
-24. Współrzędne geograficzne (długość): Geographic coordinates (longitude): Географические координаты (долгота):
-25. Współrzędne geograficzne (szerokość): Geographic coordinates (latitude): Географические координаты (широта): VI. Miejsce zakończenia przewozu na terytorium RP Place of termination of carriage within the territory of the Republic of Poland Место прекращения перевозки на территории Республики Польша
+24. Współrzędne geograficzne (długość): 25. Współrzędne geograficzne (szerokość): Geographic coordinates (longitude): Geographic coordinates (latitude): Географические координаты Географические координаты (долгота): (широта): VI. Miejsce zakończenia przewozu na terytorium RP Place of termination of carriage within the territory of the Republic of Poland Место прекращения перевозки на территории Республики Польша
 26. Miejscowość / przejście graniczne / 27. Województwo: numer drogi: Voivodeship: Town / border crossing / road number: Провинция: Город / пограничный пункт пропуска / номер дороги:
 28. Współrzędne geograficzne (długość): 29. Współrzędne geograficzne (szerokość): Geographic coordinates (longitude): Geographic coordinates (latitude): Географические координаты (долгота): Географические координаты (широта): VII. Państwo załadunku i rozładunku towaru Country of loading and unloading of goods Страна погрузки и разгрузки товаров
 30. Kraj załadunku: 31. Kraj rozładunku: Country of loading: Country of unloading: Страна погрузки: Страна разгрузки: VIII. Informacja, czy przewóz jest wykonywany z ładunkiem czy bez ładunku Information if the carriage is carried out laden or unladen Информация о том, осуществляется ли перевозка в груженом или негруженом состоянии
 32. Przewóz z ładunkiem: 33. Przewóz bez ładunku: Laden carriage: Unladen carriage: Перевозка с грузом: Перевозка без груза: IX. Środek transportu Mode of transport Транспортное средство
 34. Kraj rejestracji: 35. Numer rejestracyjny pojazdu: Country of registration: Vehicle registration no: Cтранa регистрации: Регистрационный номер автомобиля:
-36. Numer zezwolenia, o którym mowa 37. Podstawa prawna zwolnienia w art. 28 ust. 1 lub w art. 29 ust. 1 z obowiązku posiadania zezwolenia, ustawy z dnia 6 września 2001 r. o którym mowa w art. 28 ust. 1 ustawy o transporcie drogowym, albo zezwolenia EKMT: The number of the permit referred to in Article 28(1) or 29(1) of the Act of 6 September 2001 on road transport or of the ECMT permit: Номер разрешения, указанного в статье 28 п. 1 или ст. 29 п. 1 Закон от 6 сентября 2001 г. об автомобильном транспорте, или разрешения ЕКМТ: z dnia 6 września 2001 r. o transporcie drogowym, albo zezwolenia EKMT: Legal basis for the exemption from the obligation to hold the permit referred to in Article 28(1) of the Act of 6 September 2001 on road transport or an ECMT permit: Правовое основание для освобождения от обязанности иметь разрешение, указанное в статье 28 п. 1 Закон от 6 сентября 2001 г. об автомобильном транспорте, или разрешения ЕКМТ:
+36. Numer zezwolenia, o którym mowa 37. Podstawa prawna zwolnienia w art. 28 ust. 1 lub w art. 29 ust. 1 z obowiązku posiadania zezwolenia, ustawy z dnia 6 września 2001 r. o którym mowa w art. 28 ust. 1 ustawy o transporcie drogowym, albo z dnia 6 września 2001 r. o transporcie zezwolenia EKMT: drogowym, albo zezwolenia EKMT: The number of the permit referred to Legal basis for the exemption from in Article 28(1) or 29(1) of the Act the obligation to hold the permit referred of 6 September 2001 on road transport to in Article 28(1) of the Act of 6 September or of the ECMT permit: 2001 on road transport or an ECMT permit: Номер разрешения, указанного Правовое основание для в статье 28 п. 1 или ст. 29 п. 1 Закон освобождения от обязанности иметь от 6 сентября 2001 г. об разрешение, указанное в статье 28 п. 1 автомобильном транспорте, или Закон от 6 сентября 2001 г. об разрешения ЕКМТ: автомобильном транспорте, или разрешения ЕКМТ:
 38. Okres ważności zezwolenia EKMT: 39. Oznaczenie państwa siedziby Period of validity of the ECMT permit: przewoźnika drogowego: Срок действия разрешения ЕКМТ: State of establishment of the road transport operator: Обозначение страны местонахождения оператора автомобильного транспорта:
 40. Numer dokumentu przewozowego (drogowego): Road transport document number: Номер транспортного (дорожного) документа:
 41. Numer lokalizatora albo numer urządzenia: Locator number or device number: Номер локатора или номер устройства: X. Dodatkowe dane/informacje/oświadczenia Additional data/information/statements Дополнительные данные/информация/заявления
@@ -53,7 +50,7 @@ source: "isap-pdf"
 44. Oświadczam, że posiadam upoważnienie do złożenia/aktualizacji zgłoszenia w imieniu i na rzecz podmiotu zagranicznego wykonującego międzynarodowy przewóz drogowy rzeczy lub przewóz kabotażowy rzeczy.
 I hereby declare that I am authorised to submit/update the declaration on behalf of the foreign entity performing international road haulage or cabotage transport of goods.
 Я заявляю, что уполномочен подавать/обновлять декларацию от имении по поручению иностранной организации, осуществляющей международные автомобильные или каботажные перевозки грузов.
-Dokument zastępujący zgłoszenie należy wypełnić drukowanymi literami.
+Objaśnienia: Dokument zastępujący zgłoszenie należy wypełnić drukowanymi literami.
 W polu 1A należy wpisać numer dokumentu nadany według schematu określonego w § 2 ust. 1 rozporządzenia (przykład: 2024.01.01##PL##WY12345).
 W polu 1B należy wpisać numer referencyjny zgłoszenia otrzymany z rejestru zgłoszeń, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U.
 z 2024 r. poz. 1218), jeżeli został nadany dla tego zgłoszenia będącego przedmiotem uzupełnienia lub aktualizacji.

@@ -8,10 +8,10 @@ pos: 103
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 stycznia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 103 Zmiany do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r., przyjęte w Londynie dnia 25 listopada 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000103) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/103/text.pdf) |
 
-Zmiany do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r., przyjęte w Londynie dnia 25 listopada 2016 r.
 Przekład
 

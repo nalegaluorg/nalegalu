@@ -8,10 +8,10 @@ pos: 680
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 maja 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 668800 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 25 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000680) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/680/text.pdf) |
 
-668800 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 25 kwietnia 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie legitymacji służbowych oraz znaków identyfikacyjnych funkcjonariuszy Straży Granicznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 lipca 2014 r. w sprawie legitymacji służbowych oraz znaków identyfikacyjnych funkcjonariuszy Straży Granicznej (Dz. U. z 2022 r. poz. 446), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 6 lipca 2023 r. zmieniającym rozporządzenie w sprawie legitymacji służbowych oraz znaków identyfikacyjnych funkcjonariuszy Straży Granicznej (Dz. U. poz. 1396).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 6 lipca 2023 r. zmieniającego rozporządzenie w sprawie legitymacji służbowych oraz znaków identyfikacyjnych funkcjonariuszy Straży Granicznej (Dz. U. poz. 1396), które stanowią: „§ 2. Posiadany przez funkcjonariusza Straży Granicznej znak identyfikacyjny funkcjonariusza Straży Granicznej wydany przez Komendanta Centralnego Ośrodka Szkolenia Straży Granicznej przed dniem wejścia w życie niniejszego rozporządzenia zachowuje ważność.
 § 3. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.”.
 Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 21 lipca 2014 r.
-w sprawie legitymacji służbowych oraz znaków identyfikacyjnych funkcjonariuszy Straży Granicznej Na podstawie art. 66 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie legitymacji służbowych oraz znaków identyfikacyjnych funkcjonariuszy Straży Granicznej Na podstawie art. 66 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) rodzaj i wzór legitymacji służbowej funkcjonariusza Straży Granicznej, zwanej dalej „legitymacją”;
 2) rodzaj i wzór znaku identyfikacyjnego funkcjonariusza Straży Granicznej, zwanego dalej „znakiem”;
 3) szczegółowy sposób posługiwania się legitymacją i znakiem przez funkcjonariusza Straży Granicznej, zwanego dalej „funkcjonariuszem”;
@@ -94,28 +94,22 @@ c) upływu okresu ważności legitymacji;
 § 14. Posiadane przez funkcjonariusza w dniu wejścia w życie rozporządzenia legitymacja i znak zachowują ważność, z tym że legitymacja zachowuje ważność do czasu upływu terminu jej ważności.
 § 15. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 czerwca 2002 r. w sprawie legitymacji służbowych oraz znaków identyfikacyjnych funkcjonariuszy Straży Granicznej (Dz. U. poz. 1019, z późn. zm. ).
 § 16. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2014 r.
-WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA STRAŻY GRANICZNEJ awers rewers OPIS LEGITYMACJI Legitymacja ma formę karty identyfikacyjnej o wymiarach 85,60 × 53,98 mm (ID‑1) wykonanej z poliwęglanu, spersonalizowanej metodą grawerunku laserowego, składającej się z następujących elementów:
-1) twardej strony poliwęglanowej, z podłożem z wielowarstwowej struktury laminatu niewykazującym luminescencji w promieniowaniu UV;
-2) układu elektronicznego w technice RFiD umieszczonego w warstwach laminatu;
-3) tła reliefowego, zadruku techniką offsetową w technice druku irysowego w kolorze jasnozielonym i oliwkowym;
+WZÓR WZÓR LEGITYMACJI LEGITYMACJI SŁUŻBOWEJ SŁUŻBOWEJ FUNKCJONARIUSZA FUNKCJONARIUSZA STRAŻY STRAŻY GRANICZNEJ GRANICZNEJ awers awers rewers rewers OPIS LEGITYMACJI OPIS LEGITYMACJI Legitymacja ma formę karty identyfikacyjnej o wymiarach 85,60 × 53,98 mm (ID-1) Legitymacja ma formę karty identyfikacyjnej o wymiarach 85,60 × 53,98 mm (ID‑1) wykonanej z poliwęglanu, spersonalizowanej wykonanej metodą grawerunku z poliwęglanu, laserowego, spersonalizowanej składającej się z następujących metodą grawerunku elementów: laserowego, składającej się
+1) twardej z następujących strony poliwęglanowej, elementów: z podłożem z wielowarstwowej struktury laminatu niewykazującym luminescencji w promieniowaniu 1) twardej strony UV; poliwęglanowej, z podłożem z wielowarstwowej struktury laminatu
+2) układu elektronicznego niewykazującym w technice luminescencji RFiD umieszczonego w promieniowaniu w warstwach UV; laminatu;
+3) tła reliefowego, 2) układu zadruku elektronicznego techniką offsetową w technice w technice RFiD druku umieszczonego irysowego w kolorze w warstwach jasnozielonym laminatu; i oliwkowym;
+4) mikrodruków; 3) tła reliefowego, zadruku techniką offsetową w technice druku irysowego w kolorze
+5) elementu jasnozielonym graficznego wydrukowanego i oliwkowym; farbą optycznie zmienną;
 4) mikrodruków;
-5) elementu graficznego wydrukowanego farbą optycznie zmienną;
 6) tłoczenia powierzchni z liniami z mikrodrukiem;
-7) hologramu transparentnego DOVID w obrębie wizerunku posiadacza legitymacji;
-8) nadruków farbami aktywnymi w promieniowaniu UV;
-9) wizerunku posiadacza legitymacji grawerowanego laserowo oraz jego danych personalnych;
-10) numeru legitymacji oraz numeru ewidencyjnego funkcjonariusza, grawerowanych laserowo;
-11) powtórzonego na rewersie legitymacji wizerunku posiadacza legitymacji grawerowanego laserowo.
-WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA STRAŻY GRANICZNEJ awers rewers OPIS LEGITYMACJI Legitymacja ma formę karty identyfikacyjnej o wymiarach 85,60 × 53,98 mm (ID-1) wykonanej z poliwęglanu, spersonalizowanej metodą grawerunku laserowego, składającej się z następujących elementów:
-1) twardej strony poliwęglanowej, z podłożem z wielowarstwowej struktury laminatu niewykazującym luminescencji w promieniowaniu UV;
-2) układu elektronicznego w technice RFiD umieszczonego w warstwach laminatu;
-3) tła reliefowego, zadruku techniką offsetową w technice druku irysowego w kolorze jasnozielonym i oliwkowym;
-4) mikrodruków;
 5) elementu graficznego wydrukowanego farbą optycznie zmienną;
-6) tłoczenia powierzchni z liniami z mikrodrukiem;
 7) hologramu transparentnego DOVID w obrębie wizerunku posiadacza legitymacji;
+6) tłoczenia powierzchni z liniami z mikrodrukiem;
 8) nadruków farbami aktywnymi w promieniowaniu UV;
-9) wizerunku posiadacza legitymacji grawerowanego laserowo oraz jego danych personalnych;
+7) hologramu transparentnego DOVID w obrębie wizerunku posiadacza legitymacji;
+9) wizerunku 8) nadruków posiadacza farbami legitymacji aktywnymi grawerowanego w promieniowaniu laserowo oraz jego UV; danych personalnych;
+10) numeru 9) legitymacji wizerunku oraz posiadacza numeru ewidencyjnego legitymacji funkcjonariusza, grawerowanego grawerowanych laserowo laserowo; oraz jego danych
+11) powtórzonego personalnych; na rewersie legitymacji wizerunku posiadacza legitymacji grawerowanego laserowo.
 Awers:
 1) w górnej części legitymacji w lewym górnym rogu znajdują się napisy wykonane w technice druku offsetowego: napis „STRAŻ GRANICZNA” wykonany farbą optycznie zmienną w odcieniu zielonym, poniżej napis w kolorze czarnym „POLISH BORDER GUARD”, w prawym górnym rogu wizerunek orła według wzoru ustalonego dla godła Rzeczypospolitej Polskiej, a pod wizerunkiem orła znak graficzny Straży Granicznej oraz napisy w kolorze czarnym:
 a) „NR LEGITYMACJI / ID CARD”,
@@ -133,17 +127,18 @@ Rewers: W kolejności od góry wyśrodkowane napisy w kolorze czarnym wykonane w
 5) „KOMENDANT GŁÓWNY STRAŻY GRANICZNEJ”;
 6) „organ wydający”;
 7) „W przypadku znalezienia legitymacji należy zwrócić ją do najbliższej jednostki organizacyjnej Straży Granicznej lub Policji.”.
-OKŁADKA LEGITYMACJI jednostki organizacyjnej Straży Granicznej lub Policji.”.
-OKŁADKA LEGITYMACJI Okładka legitymacji ma kształt prostokąta o wymiarach zewnętrznych 236 x 80 mm z wszytą w środku dodatkową kieszenią wykonaną (z dwóch stron) z przezroczystego tworzywa sztucznego, przeznaczoną do noszenia legitymacji.
-Okładka legitymacji ma kształt prostokąta o wymiarach zewnętrznych 236 × 80 mm z wszytą w środku dodatkową kieszenią wykonaną (z dwóch stron) z przezroczystego tworzywa sztucznego, przeznaczoną do noszenia legitymacji.
+7) „W przypadku znalezienia legitymacji należy zwrócić ją do najbliższej jednostki organizacyjnej Straży Granicznej lub Policji.”.
+OKŁADKA LEGITYMACJI OKŁADKA LEGITYMACJI Okładka legitymacji ma kształt prostokąta o wymiarach zewnętrznych 236 × 80 mm z wszytą w środku dodatkową kieszenią wykonaną (z dwóch stron) z przezroczystego tworzywa sztucznego, przeznaczoną do noszenia legitymacji.
 Okładka legitymacji jest wykonana z jednolitego kawałka (bez sztukowania) gładkiej skóry w kolorze czarnym.
-Na zewnętrznych stronach okładki legitymacji z jednej strony jest naszyta kieszeń wykonana ze skóry z dwoma otworami do przykręcenia znaku, z drugiej strony jest wszyty metalowy klips w kolorze czarnym umożliwiający zakładanie i bezpieczne noszenie okładki.
-Wewnątrz okładki są naszyte (po przeciwległych stronach) dwie kieszenie jedna jest wykonana ze skóry, druga z przezroczystego tworzywa sztucznego.
+Okładka legitymacji ma kształt prostokąta o wymiarach zewnętrznych 236 x 80 mm z wszytą Na zewnętrznych stronach okładki legitymacji z jednej strony jest naszyta kieszeń wykonana ze skóry z dwoma otworami do przykręcenia w środku znaku, dodatkową z drugiej kieszenią strony jest wszyty wykonaną metalowy (z dwóch klips w kolorze stron) czarnym z przezroczystego umożliwiający zakładanie tworzywa i bezpieczne noszenie okładki.
+sztucznego, przeznaczoną do noszenia legitymacji.
+Wewnątrz okładki są naszyte (po przeciwległych stronach) dwie kieszenie – jedna jest wykonana ze skóry, druga z przezroczystego tworzywa sztucznego.
 Na kieszeni, na której jest przykręcany znak, znajduje się tłoczenie wizerunku orła ustalonego dla godła Rzeczypospolitej Polskiej, umieszczonego na tle słupa granicznego, a pod spodem umieszczony jest tłoczony napis „STRAŻ GRANICZNA”.
+Na grzbiecie okładki legitymacji są wykonane dwa otwory na metalowy łańcuszek kulkowy w kolorze srebrnym.
 WZÓR ZNAKU IDENTYFIKACYJNEGO FUNKCJONARIUSZA STRAŻY GRANICZNEJ SZCZEGÓŁOWY SPOSÓB NOSZENIA PRZEZ FUNKCJONARIUSZA STRAŻY GRANICZNEJ ZNAKU IDENTYFIKACYJNEGO
 1. Funkcjonariusz umundurowany pełniący służbę graniczną lub wykonujący czynności administracyjno‑porządkowe nosi znak w sposób następujący:
-1) użytkujący umundurowanie typu Wojsk Lądowych na prawej górnej kieszeni (na pasku skórzanym podpiętym pod klapkę do guzika tej kieszeni): kurtki munduru wyjściowego, bluzy olimpijki, bluzy polowej, koszuli koloru białego z krótkimi rękawami, koszuli koloru khaki z krótkimi rękawami i naramiennikami, koszuli koloru khaki z długimi rękawami i naramiennikami, koszuli polowej z krótkimi rękawami, kurtki służbowej Straży Granicznej koloru khaki z podpinką i kurtki polowej;
-2) użytkujący umundurowanie typu Marynarki Wojennej na kurtce munduru wyjściowego w odległości 20 mm ponad pierwszym od góry guzikiem, symetrycznie między klapą kurtki a wszyciem prawego rękawa oraz na prawej górnej kieszeni (na pasku skórzanym podpiętym pod klapkę do guzika tej kieszeni): bluzy olimpijki, bluzy polowej, koszuli koloru białego z krótkimi rękawami, koszuli koloru białego z długimi rękawami i na‑ ramiennikami, koszuli koloru granatowego z krótkimi rękawami i naramiennikami, koszuli koloru granatowego z długimi rękawami i naramiennikami, koszuli polowej z krótkimi rękawami i kurtki polowej;
-3) użytkujący umundurowanie typu Sił Powietrznych na prawej górnej kieszeni (na pasku skórzanym podpiętym pod klapkę do guzika tej kieszeni): kurtki munduru wyjściowego, bluzy olimpijki, bluzy polowej, koszuli koloru białego z krótkimi rękawami, koszuli koloru niebieskiego z krótkimi rękawami i naramiennikami, koszuli koloru niebieskiego z długimi rękawami i naramiennikami, koszuli polowej z krótkimi rękawami i kurtki polowej.
+1) użytkujący umundurowanie typu Wojsk Lądowych – na prawej górnej kieszeni (na pasku skórzanym podpiętym pod klapkę do guzika tej kieszeni): kurtki munduru wyjściowego, bluzy olimpijki, bluzy polowej, koszuli koloru białego z krótkimi rękawami, koszuli koloru khaki z krótkimi rękawami i naramiennikami, koszuli koloru khaki z długimi rękawami i naramiennikami, koszuli polowej z krótkimi rękawami, kurtki służbowej Straży Granicznej koloru khaki z podpinką i kurtki polowej;
+2) użytkujący umundurowanie typu Marynarki Wojennej – na kurtce munduru wyjściowego w odległości 20 mm ponad pierwszym od góry guzikiem, symetrycznie między klapą kurtki a wszyciem prawego rękawa oraz na prawej górnej kieszeni (na pasku skórzanym podpiętym pod klapkę do guzika tej kieszeni): bluzy olimpijki, bluzy polowej, koszuli koloru białego z krótkimi rękawami, koszuli koloru białego z długimi rękawami i na‑ ramiennikami, koszuli koloru granatowego z krótkimi rękawami i naramiennikami, koszuli koloru granatowego z długimi rękawami i naramiennikami, koszuli polowej z krótkimi rękawami i kurtki polowej;
+3) użytkujący umundurowanie typu Sił Powietrznych – na prawej górnej kieszeni (na pasku skórzanym podpiętym pod klapkę do guzika tej kieszeni): kurtki munduru wyjściowego, bluzy olimpijki, bluzy polowej, koszuli koloru białego z krótkimi rękawami, koszuli koloru niebieskiego z krótkimi rękawami i naramiennikami, koszuli koloru niebieskiego z długimi rękawami i naramiennikami, koszuli polowej z krótkimi rękawami i kurtki polowej.
 2. Funkcjonariusz nieumundurowany w czasie wykonywania zadań służbowych nosi znak w sposób zabezpieczający go przed utratą.
 

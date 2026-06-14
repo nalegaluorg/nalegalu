@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 5 stycznia 2011 r. o kierujących pojazdami*
 
-Łącznie: **93** orzeczeń
-(pominięto 228 orzeczeń sądów rejonowych)
+Łącznie: **94** orzeczeń
+(pominięto 229 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 
@@ -263,7 +263,7 @@ Orzeczenia powołujące: *Ustawa z dnia 5 stycznia 2011 r. o kierujących pojazd
 - 2024-03-26 | SO | [VI Ka 95/24](https://www.saos.org.pl/judgments/511322) | Wyrok
 - 2023-03-14 | SO | [VI Ka 69/23](https://www.saos.org.pl/judgments/490969) | Wyrok
 
-## art. 103 (22)
+## art. 103 (23)
 
 - 2014-02-26 | SN | [I KZP 29/13](https://www.saos.org.pl/judgments/104543) | Postanowienie
 - 2014-02-20 | SO | [I ACa 841/13](https://www.saos.org.pl/judgments/44528) | Wyrok
@@ -283,6 +283,7 @@ Orzeczenia powołujące: *Ustawa z dnia 5 stycznia 2011 r. o kierujących pojazd
 - 2016-04-28 | SO | [II K 171/16](https://www.saos.org.pl/judgments/228262) | Wyrok
 - 2015-10-14 | SO | [VI Ka 491/15](https://www.saos.org.pl/judgments/187727) | Wyrok
 - 2015-08-03 | SO | [II K 538/15](https://www.saos.org.pl/judgments/183778) | Postanowienie
+- 2026-03-31 | SO | [VI Ka 1458/25](https://www.saos.org.pl/judgments/545122) | Uzasadnienie
 - 2021-09-21 | SO | [II K 374/21](https://www.saos.org.pl/judgments/449144) | Uzasadnienie
 - 2020-11-02 | SO | [II K 16/20](https://www.saos.org.pl/judgments/423476) | Zarządzenie
 - 2019-07-01 | SO | [II K 807/18](https://www.saos.org.pl/judgments/389692) | Uzasadnienie

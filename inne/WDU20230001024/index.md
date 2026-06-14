@@ -8,10 +8,10 @@ pos: 1024
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 maja 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1024 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 24 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1024/text.pdf) |
 
-Poz. 1024 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 24 maja 2023 r.
-w sprawie nadania statutu Głównemu Urzędowi Statystycznemu Na podstawie art. 23 ust. 3 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773) zarządza się, co następuje: § 1. Głównemu Urzędowi Statystycznemu nadaje się statut, stanowiący załącznik do rozporządzenia.
+w sprawie nadania statutu Głównemu Urzędowi Statystycznemu Na podstawie art. 23 ust. 3 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773) zarządza się, co następuje:
+§ 1. Głównemu Urzędowi Statystycznemu nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2. Zarządzenia Prezesa Głównego Urzędu Statystycznego wydane na podstawie § 3 ust. 2 załącznika do rozporządzenia uchylanego w § 3 zachowują moc do dnia wejścia w życie zarządzeń Prezesa Głównego Urzędu Statystycznego wydanych na podstawie § 3 ust. 2 załącznika do rozporządzenia, o którym mowa w § 1, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 24 kwietnia 2018 r. w sprawie nadania statutu Głównemu Urzędowi Statystycznemu (Dz. U. poz. 824).
 § 4. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki Dziennik Ustaw – 2 – Poz. 1024 STATUT GŁÓWNEGO URZĘDU STATYSTYCZNEGO § 1. Główny Urząd Statystyczny, zwany dalej „Urzędem”, jest urzędem administracji rządowej obsługującym Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem”, działającym pod jego bezpośrednim kierownictwem.
+Prezes Rady Ministrów: M. Morawiecki STATUT GŁÓWNEGO URZĘDU STATYSTYCZNEGO
+§ 1. Główny Urząd Statystyczny, zwany dalej „Urzędem”, jest urzędem administracji rządowej obsługującym Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem”, działającym pod jego bezpośrednim kierownictwem.
 § 2. 1. Prezes kieruje Urzędem przy pomocy wiceprezesów, dyrektora generalnego i dyrektorów komórek organizacyjnych wymienionych w § 4.
 2. Prezes może upoważnić osoby, o których mowa w ust. 1, do podejmowania, w jego imieniu, decyzji w określonych sprawach.
 3. Organizację wewnętrzną, szczegółowy zakres zadań i tryb pracy komórek organizacyjnych Urzędu określa regulamin organizacyjny nadawany przez Prezesa na podstawie art. 39 ust. 6 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188). Prezes informuje Prezesa Rady Ministrów o nadaniu Urzędowi regulaminu organizacyjnego oraz o zmianach tego regulaminu.

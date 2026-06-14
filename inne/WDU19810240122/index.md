@@ -8,7 +8,7 @@ pos: 122
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przedsiębiorstwach państwowych
@@ -58,6 +58,9 @@ source: "isap-pdf"
 #### Rozdział 2 Tworzenie przedsiębiorstw państwowych
 
 **Art. 5.** Przedsiębiorstwa państwowe mogą być tworzone jako:
+
+- **1)** przedsiębiorstwa działające na zasadach ogólnych;
+- **2)** przedsiębiorstwa użyteczności publicznej.
 
 **Art. 6.**
 
@@ -178,6 +181,10 @@ source: "isap-pdf"
 
 **Art. 21.** Z chwilą postawienia przedsiębiorstwa państwowego w stan likwidacji:
 
+- **1)** organ założycielski odwołuje dyrektora przedsiębiorstwa i wyznacza likwidatora;
+- **2)** ulegają rozwiązaniu, z mocy prawa, organy samorządu załogi przedsiębiorstwa;
+- **3)** kompetencje rady pracowniczej do zatwierdzania rocznych sprawozdań finansowych przedsiębiorstw państwowych, postawionych w stan likwidacji, wykonuje organ założycielski.
+
 **Art. 22.**
 
 1. Zamiar wraz z założeniami dokonania połączenia, podziału oraz likwidacji przedsiębiorstwa państwowego przedstawia się w formie pisemnej ogólnemu zebraniu pracowników lub radzie pracowniczej przedsiębiorstwa oraz związkom zawodowym działającym w przedsiębiorstwie w celu uzyskania opinii.
@@ -262,6 +269,14 @@ source: "isap-pdf"
 3. Do czasu powołania dyrektora w przedsiębiorstwach nowo organizowanych organ założycielski może wyznaczyć tymczasowego kierownika przedsiębiorstwa na okres nie dłuższy niż 6 miesięcy. Przepis ten nie narusza uprawnienia, o którym mowa w zdaniu pierwszym ust. 2.
 
 **Art. 33a.** Organ uprawniony do powołania dyrektora może wyznaczyć tymczasowego kierownika przedsiębiorstwa również w innych przypadkach niż określone w art. 33 i 41, a w szczególności:
+
+- **1)** odwołania dyrektora;
+- **2)** rezygnacji dyrektora z zajmowanego stanowiska;
+- **3)** wygaśnięcia okresu, na jaki dyrektor był powołany;
+- **4)** zawieszenia przez sąd postępowania upadłościowego;
+- **5)** zakończenia lub przerwania postępowania naprawczego;
+- **6)** rozwiązania ze skutkiem natychmiastowym umowy o zarządzanie przedsiębiorstwem lub z upływem terminu jej wypowiedzenia;
+- **7)** śmierci dyrektora.
 
 **Art. 34.**
 

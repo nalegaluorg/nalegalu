@@ -8,10 +8,10 @@ pos: 332
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 lutego 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 332 VAT-UE ❑ ❑          OBJAŚNIENIA OGÓLNE
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/332/text.pdf) |
 
-VAT-UE ❑ ❑          OBJAŚNIENIA OGÓLNE
 1. SKŁADAJĄCY Informację podsumowującą o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock składają podatnicy podatku od towarów i usług oraz osoby prawne niebędące podatnikami w rozumieniu art. 15 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, zwanej dalej „ustawą”, zarejestrowani jako podatnicy VAT-UE, dokonujący wewnątrzwspólnotowej dostawy towarów, wewnątrzwspólnotowego nabycia towarów lub wewnątrzwspólnotowego świadczenia usług lub dokonujący przemieszczenia towarów w procedurze magazynu typu call-off stock na terytorium państwa członkowskiego inne niż terytorium kraju.
 2. TERMIN SKŁADANIA Informację podsumowującą składa się za pomocą środków komunikacji elektronicznej do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy z tytułu transakcji, o których mowa w art. 100 ust. 1 pkt 1–4 ustawy, lub dokonano przemieszczenia towarów lub zmiany w zakresie procedury, o których mowa w art. 100 ust. 1 pkt 5 ustawy.
 OBJAŚNIENIA SZCZEGÓŁOWE
@@ -33,7 +32,7 @@ OBJAŚNIENIA SZCZEGÓŁOWE
 poz. 166), podany w potwierdzeniu dokonanym przez naczelnika urzędu skarbowego zgodnie z art. 97 ust. 9 ustawy.
 2. W poz. 6 wpisuje się urząd skarbowy właściwy ze względu na adres siedziby podatnika, jeżeli podatnik jest osobą prawną lub jednostką organizacyjną niemającą osobowości prawnej, lub urząd skarbowy właściwy ze względu na miejsce zamieszkania, jeżeli podatnik jest osobą fizyczną;
 w przypadku gdy podatnik nie posiada siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, wpisuje się Drugi Urząd Skarbowy Warszawa-Śródmieście. W przypadku gdy podatnicy nieposiadający siedziby działalności gospodarczej na terytorium kraju posiadają na tym terytorium stałe miejsce prowadzenia działalności gospodarczej, właściwość organów podatkowych ustala się według tego stałego miejsca prowadzenia działalności.
-3. Dopuszczalny kod i nazwa kraju: AT Austria, BE Belgia, BG Bułgaria, DE Niemcy, DK Dania, EL Grecja, ES Hiszpania, FI Finlandia, FR Francja, GB Wielka Brytania, HR Chorwacja, IE Irlandia, IT Włochy, LU Luxemburg, NL Holandia, PT Portugalia, RO Rumunia, SE Szwecja, CY Cypr, CZ Czechy, EE Estonia, LT Litwa, LV Łotwa, MT Malta, SK Słowacja, SI Słowenia, HU Węgry, XI Irlandia Północna.
+3. Dopuszczalny kod i nazwa kraju: AT – Austria, BE – Belgia, BG – Bułgaria, DE – Niemcy, DK – Dania, EL – Grecja, ES – Hiszpania, FI – Finlandia, FR – Francja, GB – Wielka Brytania, HR – Chorwacja, IE – Irlandia, IT – Włochy, LU – Luxemburg, NL – Holandia, PT – Portugalia, RO – Rumunia, SE – Szwecja, CY – Cypr, CZ – Czechy, EE – Estonia, LT – Litwa, LV – Łotwa, MT – Malta, SK – Słowacja, SI – Słowenia, HU – Węgry, XI – Irlandia Północna.
 4. W części C informacji (VAT-UE): − w kolumnie a należy wpisać kod kraju kontrahenta (nabywcy towaru), − w kolumnie b należy wpisać poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta (nabywcy towaru) nadany przez państwo członkowskie właściwe dla kontrahenta, − w kolumnie c należy wpisać łączną wartość dostaw dokonanych w miesiącu, za który składana jest informacja, dla poszczególnych kontrahentów, − w kolumnie d należy zaznaczyć  dla tych pozycji, w stosunku do których ma zastosowanie procedura uproszczona, zgodnie z art. 135–138 ustawy, i podmiot wypełniający informację jest w tej procedurze drugim w kolejności podatnikiem.
 5. W części D informacji (VAT-UE): − w kolumnie a należy wpisać kod kraju kontrahenta (dostawcy towaru), − w kolumnie b należy wpisać poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta (dostawcy towaru) nadany przez państwo członkowskie właściwe dla kontrahenta, − w kolumnie c należy wpisać łączną wartość nabyć dokonanych w miesiącu, za który składana jest informacja, dla poszczególnych kontrahentów, − w kolumnie d należy zaznaczyć  dla tych pozycji, w stosunku do których ma zastosowanie procedura uproszczona, zgodnie z art. 135–138 ustawy, i podmiot wypełniający informację jest w tej procedurze drugim w kolejności podatnikiem.
 6. W części E informacji (VAT-UE): − w kolumnie a należy wpisać kod kraju kontrahenta (usługobiorcy), − w kolumnie b należy wpisać poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta (usługobiorcy) nadany przez państwo członkowskie właściwe dla kontrahenta, − w kolumnie c należy wpisać łączną wartość usług, o których mowa w art. 100 ust. 1 pkt 4 ustawy, wykonywanych w miesiącu, za który składana jest informacja, dla poszczególnych kontrahentów.

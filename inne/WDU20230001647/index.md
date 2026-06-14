@@ -8,10 +8,10 @@ pos: 1647
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11664477 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 24 lipca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001647) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1647/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 24 lipca 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 16 lutego 2017 r. w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów (Dz. U. z 2021 r. poz. 705), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 7 lipca 2022 r. zmieniającym rozporządzenie w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów (Dz. U. poz. 1450).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Zdrowia z dnia 7 lipca 2022 r. zmieniającego rozporządzenie w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów (Dz. U. poz. 1450), które stanowią: „§ 2. Dyplomy potwierdzające uzyskanie tytułu specjalisty przez fizjoterapeutów wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują swoją ważność.
 § 3. Dotychczasowy wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty przez fizjoterapeutów może być stosowany nie dłużej niż do dnia 12 lipca 2022 r.
 § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 16 lutego 2017 r.
-w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów Na podstawie art. 60 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2023 r. poz. 1213 i 1234) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów Na podstawie art. 60 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2023 r. poz. 1213 i 1234) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) kod specjalizacji w dziedzinie fizjoterapii;
 2) wzór karty przebiegu szkolenia specjalizacyjnego, zwanej dalej „KS”;
 3) wysokość wynagrodzenia za wykonanie czynności kontrolnych, o których mowa w art. 37 ust. 12 pkt 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, zwanej dalej „ustawą”;
@@ -72,7 +72,8 @@ w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez fizjoterapeutów
 § 9. 1. Osoby zdające PESFZ są obowiązane przestrzegać poleceń przewodniczącego i członków Zespołu Egzaminacyjnego.
 2. Zespół Egzaminacyjny przeprowadzający dany PESFZ jest odpowiedzialny za przestrzeganie norm porządkowych przez osoby zdające.
 § 10. 1. Egzamin testowy jest sprawdzianem wiadomości teoretycznych z zakresu objętego programem specjalizacji w dziedzinie fizjoterapii.
-2. Po rozpoczęciu egzaminu testowego wchodzenie do sali egzaminacyjnej innych osób niż osoby zdające, przedstawi3. Dyrektor CEM może wyznaczyć dodatkowe osoby do wykonywania czynności administracyjno-technicznych. Osoby te nie wchodzą w skład Zespołu Egzaminacyjnego.
+2. Po rozpoczęciu egzaminu testowego wchodzenie do sali egzaminacyjnej innych osób niż osoby zdające, przedstawiciele CEM oraz przewodniczący i członkowie Zespołu Egzaminacyjnego jest zabronione.
+3. Dyrektor CEM może wyznaczyć dodatkowe osoby do wykonywania czynności administracyjno-technicznych. Osoby te nie wchodzą w skład Zespołu Egzaminacyjnego.
 4. Dokumentem przeznaczonym do udzielania odpowiedzi w trakcie egzaminu testowego jest karta odpowiedzi, oznaczona numerem kodowym osoby zdającej nadanym przez CEM.
 5. Ocenę wystawia się w oparciu o przeliczenie procentowe poprawnych odpowiedzi udzielonych przez osobę zdającą według współczynników przeliczeń, które określa załącznik nr 3 do rozporządzenia.
 § 11. 1. W przypadku stwierdzenia błędów drukarskich uniemożliwiających udzielenie prawidłowej odpowiedzi osoba zdająca ma prawo złożyć zastrzeżenie w trakcie egzaminu testowego. Zastrzeżenie składa się przewodniczącemu lub członkowi Zespołu Egzaminacyjnego, wskazując numer pytania testowego obarczonego błędem i wersję testu.
@@ -126,7 +127,7 @@ Wskazany przewodniczący Zespołu Egzaminacyjnego przekazuje swoje rozstrzygnię
 4. Wydanie dyplomu następuje w terminie 30 dni od otrzymania wniosku, o którym mowa w ust. 1, z dołączonym do niego potwierdzeniem wniesienia opłaty, o której mowa w ust. 3.
 § 18. Szkolenia specjalizacyjne rozpoczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia są kontynuowane na podstawie dotychczasowych przepisów.
 § 19. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-WZÓR r (Dz U z 2023 r poz ) nik nr WZÓR .................................
+Załączniki do rozporządzenia Ministra Zdrowia z dnia 16 lutego 2017 r. (Dz. U. z 2023 r. poz. …) Załącznik nr 1 WZÓR WZÓR .................................
 (pieczątka, nadruk lub naklejka wojewody) KARTA SPECJALIZACJI NR ......./........
 W DZIEDZINIE FIZJOTERAPII I CZĘŚĆ Dane
 1. Imię (imiona) i nazwisko osoby odbywającej szkolenie specjalizacyjne ...........................................................................................................................................................
@@ -153,7 +154,7 @@ W DZIEDZINIE FIZJOTERAPII I CZĘŚĆ Dane
 16. Data skreślenia z rejestru ……………………………………………………………….
 numer decyzji o skreśleniu ……………………………………………………………..
 …………………………………………………………… (pieczątka, nadruk lub naklejka wojewody z podaniem imienia i nazwiska oraz funkcji i podpisem) W IV CZĘŚĆ UMIEJETNOŚCI PRAKTYCZNE Potwierdzenie zrealizowania zajęć praktycznych (liczba i rodzaj procedur fizjoterapeutycznych) objętych programem szkolenia specjalizacyjnego, Lp. Rodzaj procedury praktycznej Liczba wykonanych (zgodnie z programem specjalizacji) procedur ………………………………………………………………………………..
-(pieczątka, nadruk lub naklejka kierownika specjalizacji z podaniem imienia i nazwiska oraz funkcji i podpisem) V CZĘŚĆ Formy i metody samokształcenia, w tym przygotowane opracowanie teoretyczne, praca poglądowa lub praca oryginalna (w przypadku opracowania prac poglądowych, doniesień lub publikacji podać tytuł pracy poglądowej, doniesienia, publikacji oraz nazwę wydawnictwa i datę publikacji) ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… Zaliczenie przez kierownika specjalizacji ………………………………………………………………………………..
+(pieczątka, nadruk lub naklejka kierownika specjalizacji z podaniem imienia i nazwiska oraz funkcji i podpisem) V CZĘŚĆ Formy i metody samokształcenia, w tym przygotowane opracowanie teoretyczne, praca poglądowa lub praca oryginalna (w przypadku opracowania prac poglądowych, doniesień lub publikacji – podać tytuł pracy poglądowej, doniesienia, publikacji oraz nazwę wydawnictwa i datę publikacji) ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… Zaliczenie przez kierownika specjalizacji ………………………………………………………………………………..
 (pieczątka, nadruk lub naklejka kierownika specjalizacji z podaniem imienia i nazwiska oraz funkcji i podpisem) VI CZĘŚĆ Opinia kierownika specjalizacji dotycząca przebiegu szkolenia specjalizacyjnego i uzyskanych przez specjalizującego się umiejętności zawodowych, a także jego stosunku do współpracowników i pacjentów ………………………………………………………………………………………..………… ………………………………………………………………………………………….……….
 …………………………………………………………………………………………………..
 …………………………………………………………………………………………….…….
@@ -166,7 +167,7 @@ numer decyzji o skreśleniu ……………………………………………�
 ZALICZENIE SZKOLENIA SPECJALIZACYJNEGO PRZEZ KIEROWNIKA SPECJALIZACJI Pan/Pani odbył(a) szkolenie specjalizacyjne w dziedzinie fizjoterapii zgodnie z programem specjalizacji oraz zaliczył(a) szkolenie specjalizacyjne w ww. dziedzinie.
 …………………………………………..
 (data zaliczenia) ………………………………………………………………………………..
-(pieczątka, nadruk lub naklejka kierownika specjalizacji z podaniem imienia i nazwiska oraz funkcji i podpisem) OŚWIADCZENIE CZŁONKA ZESPOŁU EGZAMINACYJNEGO ...................................................................
+(pieczątka, nadruk lub naklejka kierownika specjalizacji z podaniem imienia i nazwiska oraz funkcji i podpisem) Załącznik nr 2 WZÓR WZÓR OŚWIADCZENIE CZŁONKA ZESPOŁU EGZAMINACYJNEGO ...................................................................
 ...................................................................
 Oświadczenie Ja, niżej podpisana(-ny), oświadczam, że nie jestem:
 1) małżonkiem,
@@ -178,7 +179,9 @@ b) przysposobienia,
 Oświadczam również, że nie zostałam(-łem) skazana(-ny) prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
 Jestem świadoma(-my) odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 ...............................................................
-WZÓR Odsetek maksymalnej liczby punktów Ocena ≥ 90% 5 ≥ 82% i < 90% 4,5 ≥ 75% i < 82% 4 ≥ 68% i < 75% 3,5 ≥ 60% i < 68% 3 < 60% 2 WSPÓŁCZYNNIKI PRZELICZEŃ PROCENTOWYCH POPRAWNYCH ODPOWIEDZI NA SKALĘ OCEN Z EGZAMINU TESTOWEGO Ocena Przelicznik (5) bardzo dobry od 4,76 do 5,0 (4,5) dobry plus od 4,26 do 4,75 (4) dobry od 3,76 do 4,25 (3,5) dostateczny plus od 3,26 do 3,75 (3) dostateczny do 3,25 (2) niedostateczny W przypadku gdy co najmniej jedna ocena jest niedostateczna PRZELICZNIKI OCEN KOŃCOWYCH WZÓR O p i s:
+
+## Załącznik nr 3 — WSPÓŁCZYNNIKI PRZELICZEŃ PROCENTOWYCH POPRAWNYCH ODPOWIEDZI NA SKALĘ OCEN Z EGZAMINU TESTOWEGO WSPÓŁCZYNNIKI PRZELICZEŃ PROCENTOWYCH POPRAWNYCH ODPOWIEDZI NA SKALĘ OCEN Z EGZAMINU TESTOWEGO Odsetek maksymalnej liczby punktów Ocena ≥ 90% 5 ≥ 82% i < 90% 4,5 ≥ 75% i < 82% 4 ≥ 68% i < 75% 3,5 ≥ 60% i < 68% 3 < 60% 2 Załącznik nr 4 PRZELICZNIKI PRZELICZNIKI OCEN OCEN KOŃCOWYCH KOŃCOWYCH Ocena Przelicznik (5) bardzo dobry od 4,76 do 5,0 (4,5) dobry plus od 4,26 do 4,75 (4) dobry od 3,76 do 4,25 (3,5) dostateczny plus od 3,26 do 3,75 (3) dostateczny do 3,25 (2) niedostateczny W przypadku gdy co najmniej jedna ocena jest niedostateczna Załącznik nr 5 WZÓR WZÓR O p i s:
+
 1. Dyplom zawiera elementy zabezpieczające przed fałszerstwem:
 1) w podłożu:
 a) papier niewykazujący luminescencji w promieniowaniu ultrafioletowym,

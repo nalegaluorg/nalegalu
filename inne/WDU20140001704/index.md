@@ -8,10 +8,10 @@ pos: 1704
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1704 ROZPORZĄDZENIE RaDy mINIstRów z dnia 7 listopada 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001704) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1704/text.pdf) |
 
-ROZPORZĄDZENIE RaDy mINIstRów z dnia 7 listopada 2014 r.
-w sprawie szczegółowych warunków i sposobu prowadzenia czynności związanych z nadzorem nad wydawaniem dokumentów w krajowym przewozie drogowym Na podstawie art. 86 ust. 3 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki i sposób prowadzenia czynności związanych z nadzorem nad wydawaniem zezwoleń na wykonywanie zawodu przewoźnika drogowego przez organ, o którym mowa w art. 7 ust. 2 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, licencji i zezwoleń w krajowym transporcie drogowym oraz zaświadczeń na krajowy niezarobkowy przewóz drogowy, a także dokumenty stosowane przy wykonywaniu czynności nadzorczych i ich wzory.
+w sprawie szczegółowych warunków i sposobu prowadzenia czynności związanych z nadzorem nad wydawaniem dokumentów w krajowym przewozie drogowym Na podstawie art. 86 ust. 3 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki i sposób prowadzenia czynności związanych z nadzorem nad wydawaniem zezwoleń na wykonywanie zawodu przewoźnika drogowego przez organ, o którym mowa w art. 7 ust. 2 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, licencji i zezwoleń w krajowym transporcie drogowym oraz zaświadczeń na krajowy niezarobkowy przewóz drogowy, a także dokumenty stosowane przy wykonywaniu czynności nadzorczych i ich wzory.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) organ nadzoru właściwego miejscowo wojewódzkiego inspektora transportu drogowego, który sprawuje nadzór nad wydawaniem zezwoleń na wykonywanie zawodu przewoźnika drogowego przez organ, o którym mowa w art. 7 ust. 2 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, licencji i zezwoleń w krajowym transporcie drogowym oraz zaświadczeń na krajowy niezarobkowy przewóz drogowy;
-2) jednostka kontrolowana organ samorządu terytorialnego upoważniony na podstawie ustawy z dnia 6 września 2001 r. o transporcie drogowym do wydawania zezwoleń na wykonywanie zawodu przewoźnika drogowego, licencji i zezwoleń w krajowym transporcie drogowym oraz zaświadczeń na krajowy niezarobkowy przewóz drogowy.
+1) organ nadzoru – właściwego miejscowo wojewódzkiego inspektora transportu drogowego, który sprawuje nadzór nad wydawaniem zezwoleń na wykonywanie zawodu przewoźnika drogowego przez organ, o którym mowa w art. 7 ust. 2 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, licencji i zezwoleń w krajowym transporcie drogowym oraz zaświadczeń na krajowy niezarobkowy przewóz drogowy;
+2) jednostka kontrolowana – organ samorządu terytorialnego upoważniony na podstawie ustawy z dnia 6 września 2001 r. o transporcie drogowym do wydawania zezwoleń na wykonywanie zawodu przewoźnika drogowego, licencji i zezwoleń w krajowym transporcie drogowym oraz zaświadczeń na krajowy niezarobkowy przewóz drogowy.
 § 3. Organ nadzoru, w ramach czynności, o których mowa w § 1, przeprowadza postępowanie kontrolne jednostki kontrolowanej, zwane dalej „kontrolą”.
 § 4. Kontrola może być przeprowadzana jako kontrola:
-1) planowa zgodnie z planem kontroli,
-2) doraźna poza planem kontroli lub
-3) sprawdzająca mająca na celu sprawdzenie podjęcia przez jednostkę kontrolowaną działań zmierzających do usunięcia ujawnionych nieprawidłowości oraz wykonania zaleceń pokontrolnych wynikających z uprzednio przeprowadzonej kontroli planowej albo doraźnej.
+1) planowa – zgodnie z planem kontroli,
+2) doraźna – poza planem kontroli lub
+3) sprawdzająca – mająca na celu sprawdzenie podjęcia przez jednostkę kontrolowaną działań zmierzających do usunięcia ujawnionych nieprawidłowości oraz wykonania zaleceń pokontrolnych wynikających z uprzednio przeprowadzonej kontroli planowej albo doraźnej.
 § 5. 1. Kontrola planowa, o której mowa w § 4 pkt 1, jest przeprowadzana przez organ nadzoru na podstawie planu kontroli, sporządzanego na okres roku kalendarzowego; plan kontroli organ nadzoru przesyła Głównemu Inspektorowi Transportu Drogowego w terminie do dnia 30 września każdego roku kalendarzowego poprzedzającego okres objęty planem kontroli.
 2. Główny Inspektor Transportu Drogowego zatwierdza plan kontroli w terminie do dnia 30 listopada roku kalendarzowego poprzedzającego okres objęty planem kontroli. Główny Inspektor Transportu Drogowego może w powyższym terminie odmówić zatwierdzenia planu kontroli i wezwać do jego uzupełnienia lub wprowadzenia w nim zmian.
 3. Organ nadzoru w terminie 14 dni od dnia otrzymania wezwania, o którym mowa w ust. 2, przesyła poprawiony plan kontroli.
@@ -84,7 +84,7 @@ e) przedłużaniem ważności zezwoleń w krajowym transporcie drogowym;
 3. Kierownik jednostki kontrolowanej lub osoba przez niego pisemnie upoważniona może odmówić podpisania protokołu lub sprawozdania.
 4. Kierownik zespołu kontrolnego sporządza dokument, w którym odnotowuje odmowę, w postaci papierowej albo elektronicznej, w zależności od postaci, w jakiej prowadzona jest dokumentacja, oraz przyczynę odmowy podpisania protokołu lub sprawozdania, wskazując przy tym odpowiednio numer protokołu lub sprawozdania, którego dotyczy odmowa.
 5. Kierownik jednostki kontrolowanej lub osoba przez niego pisemnie upoważniona może zgłosić na piśmie zastrzeżenia lub wyjaśnienia dotyczące ustaleń zawartych w protokole lub sprawozdaniu, w terminie 14 dni od dnia otrzymania protokołu lub sprawozdania.
-§ 13. 1. Organ nadzoru odrzuca zastrzeżenia zgłoszone przez osobę nieuprawnioną lub wniesione po terminie, o którym
+§ 13. 1. Organ nadzoru odrzuca zastrzeżenia zgłoszone przez osobę nieuprawnioną lub wniesione po terminie, o którym mowa w § 12 ust. 5, informując o tym fakcie zgłaszającego zastrzeżenia lub jednostkę kontrolowaną.
 2. Organ nadzoru przekazuje na piśmie jednostce kontrolowanej swoje stanowisko do zastrzeżeń lub wyjaśnień zgłoszonych przez kierownika jednostki kontrolowanej lub osobę przez niego pisemnie upoważnioną odpowiednio do protokołu lub sprawozdania, w terminie 14 dni od dnia ich otrzymania.
 § 14. 1. Po zakończeniu kontroli i zajęciu stanowiska w sprawie zgłoszonych zastrzeżeń lub wyjaśnień organ nadzoru sporządza wystąpienie pokontrolne i przekazuje je jednostce kontrolowanej.
 2. Wzór wystąpienia pokontrolnego określa załącznik nr 5 do rozporządzenia.
@@ -95,15 +95,17 @@ e) przedłużaniem ważności zezwoleń w krajowym transporcie drogowym;
 1) w postaci papierowej albo
 2) w postaci elektronicznej opatrzonej przez kierownika jednostki kontrolowanej, organ nadzoru lub osobę sporządzającą dokument bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu, o którym mowa w ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262 oraz z 2014 r. poz. 1662), lub podpisem potwierdzonym profilem zaufanym ePUAP.
 § 17. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: E. Kopacz WZÓR z dnia 7 listopada 2014 r.
-(poz. ...) Załącznik nr 1 WZÓR ................., dnia ..................... r.
+Prezes Rady Ministrów: E. Kopacz Załączniki do rozporządzenia Rady Ministrów z dnia 7 listopada 2014 r.
+(poz. ...) Załącznik nr 1 WZÓR WZÓR ................., dnia ..................... r.
 (miejscowość, data) ..............................................
 (nazwa organu nadzoru) PLAN KONTROLI na rok ......
 organów samorządu terytorialnego woj. ...................
-udzielających zezwoleń na wykonywanie zawodu przewoźnika drogowego, licencji i zezwoleń w krajowym transporcie drogowym oraz zaświadczeń na krajowy niezarobkowy przewóz drogowy Lp. Nazwa i siedziba jednostki Planowany termin Zakres Uwagi kontrolowanej przeprowadzenia przedmiotowy kontroli kontroli 1 2 3 4 od .......... do ..........
+– udzielających zezwoleń na wykonywanie zawodu przewoźnika drogowego, licencji i zezwoleń w krajowym transporcie drogowym oraz zaświadczeń na krajowy niezarobkowy przewóz drogowy Lp. Nazwa i siedziba jednostki Planowany termin Zakres Uwagi kontrolowanej przeprowadzenia przedmiotowy kontroli kontroli 1 2 3 4 od .......... do ..........
 ........................................................
 (podpis organu nadzoru* ) * Czytelny podpis organu z podaniem imienia i nazwiska dla postaci papierowej.
-2 Załącznik nr 2 WZÓR ................., dnia ..................... r.
+
+## Załącznik nr 2 — WZÓR WZÓR ................., dnia ..................... r.
+
 (miejscowość, data) ..............................................
 (nazwa organu nadzoru) UPOWAŻNIENIE NR ............./20.........
 Na podstawie art. 86 ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U.
@@ -112,13 +114,13 @@ z 2013 r. poz. 1414 oraz z 2014 r. poz. 486, 805, 915 i 1310) upoważniam Pana/P
 (rodzaj kontroli) w ................................................................................................................................................
 (nazwa, adres jednostki kontrolowanej) ..........................................................
 (podpis organu nadzoru* ) * Czytelny podpis organu z podaniem imienia i nazwiska dla postaci papierowej.
-WZÓR 3 Załącznik nr 3 WZÓR Strona 1 WZÓR Strona 1 4 5 6 Załącznik nr 4 WZÓR WZÓR Załącznik nr 5 WZÓR ....................., dnia ..................... r.
+WZÓR Załącznik nr 3 WZÓR Strona Strona 1 1 4 5 Załącznik nr 4 WZÓR WZÓR Załącznik nr 5 WZÓR WZÓR ....................., dnia ..................... r.
 (miejscowość, data) ...................................................
 (nazwa organu nadzoru) Nr kontroli: ................
 .....................................................
 (nazwa jednostki kontrolowanej) .....................................................
 (adres) WYSTĄPIENIE POKONTROLNE Na podstawie art. 86 ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U.
-z 2013 r. poz. 1414 oraz z 2014 r. poz. 486, 805, 915 i 1310) w dniach .................... Wojewódzki Inspektor Transportu Drogowego w ................................... w ramach sprawowanego nadzoru przeprowadził (miejscowość) kontrolę planową/doraźną/sprawdzającą * ................................... w związku z protokołem kontroli/sprawozdaniem z kontroli * z dnia ................................... nr ..............................
+z 2013 r. poz. 1414 oraz z 2014 r. poz. 486, 805, 915 i 1310) w dniach .................... Wojewódzki Inspektor Transportu Drogowego w ................................... – w ramach sprawowanego nadzoru przeprowadził (miejscowość) kontrolę planową/doraźną/sprawdzającą * ................................... w związku z protokołem kontroli/sprawozdaniem z kontroli * z dnia ................................... nr ..............................
 Wyniki kontroli zostały przedstawione w protokole kontroli/sprawozdaniu z kontroli * z dnia ...................... nr ..................
 Niniejszym przekazuję ......................................................................................................................
 (nazwa jednostki kontrolowanej) wystąpienie pokontrolne.
@@ -129,5 +131,4 @@ Zgodnie z § 14 ust. 3 rozporządzenia Rady Ministrów z dnia 7 listopada 2014 r
 .........................................................
 (podpis organu nadzoru** ) * Niepotrzebne skreślić.
 ** Czytelny podpis organu z podaniem imienia i nazwiska dla postaci papierowej.
-WZÓR
 

@@ -8,10 +8,10 @@ pos: 2334
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2334 Ministra Infrastruktury z dnia listopada 2021 r.… (poz. …) Załącznik WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLNODOSTĘPNYCH OBIEKTÓW, URZĄDZEŃ I INSTALACJI WCHODZĄCYCH W SKŁAD INFRASTRUKTURY PORTOWEJ PORTU MORSKIEGO W GDAŃSKU
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002334) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2334/text.pdf) |
 
-listopada 2021 r.… (poz. …) Załącznik WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLNODOSTĘPNYCH OBIEKTÓW, URZĄDZEŃ I INSTALACJI WCHODZĄCYCH W SKŁAD INFRASTRUKTURY PORTOWEJ PORTU MORSKIEGO W GDAŃSKU
 1. AKWENY PORTOWE
 1.1. Gdańsk-Nowy Port
 1.1.1. Baseny portowe
@@ -73,8 +72,8 @@ listopada 2021 r.… (poz. …) Załącznik WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLN
 1. Basen Władysława IV 62 000
 2. Basen Górniczy 116 000
 1.1.2 Kanały portowe i obrotnice:
-1. Martwa Wisła od trawersu prawego światła wejściowego do mostu przy Gdańskiej Stoczni 1 080 000 Remontowej, w tym: obrotnica przy basenie Władysława IV 23 000 obrotnica przy basenie Górniczym 25 000 obrotnica przy Gdańskiej Stoczni Remontowej 71 000
-2. Martwa Wisła od obrotnicy przy Polskim Haku do 135 000 mostu Siennickiego, w tym: obrotnica przy Polskim Haku 32 000
+1. Martwa Wisła od trawersu prawego światła wejściowego do mostu przy Gdańskiej Stoczni 1 080 000 Remontowej, w tym: – obrotnica przy basenie Władysława IV 23 000 – obrotnica przy basenie Górniczym 25 000 – obrotnica przy Gdańskiej Stoczni Remontowej 71 000
+2. Martwa Wisła od obrotnicy przy Polskim Haku do 135 000 mostu Siennickiego, w tym: – obrotnica przy Polskim Haku 32 000
 3. Kanał Kaszubski od obrotnicy przy Gdańskiej Stoczni 355 000 Remontowej do obrotnicy przy Polskim Haku
 1.2 Gdańsk-Port Północny
 1.2.1 Baseny portowe:
@@ -82,7 +81,7 @@ listopada 2021 r.… (poz. …) Załącznik WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLN
 2. Basen Paliw nr 2 152 700
 3. Basen Wewnętrzny 98 000
 4. Basen Paliw nr 3 31 800
-1.2.2 Tory podejściowe i obrotnice: Awanport, w tym: 2 000 000 obrotnica z oznakowaniem 331 663 tor podejściowy do pirsu Węglowego 153 000 tor podejściowy do pirsu LPG z oznakowaniem 89 000 tor podejściowy do pirsu Rudowego 494 400 tor podejściowy do terminalu kontenerowego 448 690 z oznakowaniem tor podejściowy do stanowiska T1 Portu Północnego 25 500
+1.2.2 Tory podejściowe i obrotnice: Awanport, w tym: 2 000 000 – obrotnica z oznakowaniem 331 663 – tor podejściowy do pirsu Węglowego 153 000 – tor podejściowy do pirsu LPG z oznakowaniem 89 000 – tor podejściowy do pirsu Rudowego 494 400 – tor podejściowy do terminalu kontenerowego 448 690 z oznakowaniem – tor podejściowy do stanowiska T1 Portu Północnego 25 500
 2. FALOCHRONY Lp. Nazwa Długość [m.b.]
 2.1 Gdańsk-Port Północny
 1. Falochron brzegowy pola refulacyjnego nr 1 906
@@ -100,52 +99,52 @@ listopada 2021 r.… (poz. …) Załącznik WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLN
 a) pirs Węglowy 765
 b) pirs Rudowy 602
 c) pirs LPG 286
-d) pirs Paliwowy stanowisko P 536
-e) pirs Paliwowy stanowisko R 509
-f) pirs Paliwowy stanowisko T 570
+d) pirs Paliwowy – stanowisko P 536
+e) pirs Paliwowy – stanowisko R 509
+f) pirs Paliwowy – stanowisko T 570
 g) pirs Wejściowy północny basenu Paliw nr 1 60
 h) pirs Wejściowy środkowy basenu Paliw nr 1 64
 i) pirs Wejściowy środkowy basenu Paliw nr 2 20
 j) pirs Wejściowy południowy basenu Paliw nr 2 10
 k) pirs Kontenerowy 675
-l) pirs Paliwowy stanowisko T1 230
+l) pirs Paliwowy – stanowisko T1 230
 2. Pomosty:
 a) pomost połączeniowy 199
-b) rampa ro-ro pirs Kontenerowy
+b) rampa ro-ro pirs Kontenerowy –
 3. Przegrody:
-a) przegroda przeciwrozlewowa stała
-b) przegroda pneumatyczna
+a) przegroda przeciwrozlewowa stała –
+b) przegroda pneumatyczna –
 4. Dalby:
-a) dalby i urządzenia odbojowe przy pirsie Paliwowym stanowisko P
-b) dalba cumownicza przy pirsie Paliwowym stanowisko P
-c) dalba odbojowa stanowiska przy pirsie Węglowym
-d) dalba cumownicza stanowiska przy pirsie Węglowym
-e) dalba odbojowa przy pirsie Paliwowym wraz z pomostami dojściowymi stanowisko R
-f) dalba cumownicza przy pirsie Paliwowym wraz z pomostami dojściowymi stanowisko R
-g) dalba osłonowa przy pirsie Paliwowym wraz z pomostami dojściowymi stanowisko R
-h) dalba odbojowa przy pirsie Paliwowym wraz z pomostami dojściowymi stanowisko T
-i) dalba cumownicza przy pirsie Paliwowym wraz z pomostami dojściowymi stanowisko T
-j) dalba osłonowa przy pirsie Paliwowym wraz z pomostami dojściowymi stanowisko T
-k) dalba odbojowa przy pirsie LPG
-l) dalba cumownicza przy pirsie LPG
-m) dalba cumownicza przy pirsie Kontenerowym
+a) dalby i urządzenia odbojowe przy pirsie Paliwowym – – stanowisko P
+b) dalba cumownicza przy pirsie Paliwowym – – stanowisko P
+c) dalba odbojowa stanowiska przy pirsie Węglowym –
+d) dalba cumownicza stanowiska przy pirsie Węglowym –
+e) dalba odbojowa przy pirsie Paliwowym wraz – z pomostami dojściowymi – stanowisko R
+f) dalba cumownicza przy pirsie Paliwowym wraz – z pomostami dojściowymi – stanowisko R
+g) dalba osłonowa przy pirsie Paliwowym wraz – z pomostami dojściowymi – stanowisko R
+h) dalba odbojowa przy pirsie Paliwowym wraz – z pomostami dojściowymi – stanowisko T
+i) dalba cumownicza przy pirsie Paliwowym wraz – z pomostami dojściowymi – stanowisko T
+j) dalba osłonowa przy pirsie Paliwowym wraz – z pomostami dojściowymi – stanowisko T
+k) dalba odbojowa przy pirsie LPG –
+l) dalba cumownicza przy pirsie LPG –
+m) dalba cumownicza przy pirsie Kontenerowym –
 5. Wyspy cumownicze:
-a) wyspa cumownicza przy pirsie Paliwowym stanowisko P
-b) wyspa cumownicza przy pirsie Rudowym
+a) wyspa cumownicza przy pirsie Paliwowym – – stanowisko P
+b) wyspa cumownicza przy pirsie Rudowym –
 6. Estakady: estakada pod rurociągi paliwowe 1340
 3.2 Gdańsk-Nowy Port
 3.2.1 Pomosty:
-a) pomost osobowy przy nabrzeżu Obrońców Westerplatte
-b) pomost samochodowy przy nabrzeżu Obrońców Westerplatte
-c) pomost samochodowy przy nabrzeżu WOC II
-d) pomost dojściowy do terminalu Westerplatte
-e) pomost przy nabrzeżu Bytomskim
+a) pomost osobowy przy nabrzeżu Obrońców – Westerplatte
+b) pomost samochodowy przy nabrzeżu Obrońców – Westerplatte
+c) pomost samochodowy przy nabrzeżu WOC II –
+d) pomost dojściowy do terminalu Westerplatte –
+e) pomost przy nabrzeżu Bytomskim –
 4. NABRZEŻA Lp. Nazwa Długość [m.b.]
 4.1 Gdańsk-Nowy Port
 1. Nabrzeże Obrońców Westerplatte 1 441
 2. Nabrzeże Mew 122
 3. Nabrzeże Obrońców Poczty Polskiej 362
-4. Przyczółek promu Wisłoujście wschodni
+4. Przyczółek promu Wisłoujście – wschodni –
 5. Nabrzeże Wisłoujście 408
 6. Nabrzeże Węglowe 911
 7. Nabrzeże Administracyjne 125
@@ -162,7 +161,7 @@ e) pomost przy nabrzeżu Bytomskim
 18. Nabrzeże Oliwskie 793
 19. Nabrzeże Zakrętu Pięciu Gwizdków 456
 20. Nabrzeże Zbożowe 851
-21. Przyczółek promu Wisłoujście zachodni
+21. Przyczółek promu Wisłoujście – zachodni –
 22. Nabrzeże Wiślane 1 395
 23. Nabrzeże Szczecińskie-Przeładunkowe 455
 24. Nabrzeże Szczecińskie 873
@@ -194,7 +193,7 @@ e) pomost przy nabrzeżu Bytomskim
 2. Pirsie Rudowym 856
 3. Pirsie Węglowym 236
 5.2.2 Tory poddźwigowe ładowarko-zwołowarek 1 651
-6. INFRASTRUKTURA DROGOWA Lp. Nazwa Powierzchnia [m Długość ]
+6. INFRASTRUKTURA DROGOWA Lp. Nazwa Powierzchnia Długość [m ]
 6.1 Gdańsk-Nowy Port
 6.1.1 Drogi kołowe i place manewrowe:
 1. Drogi kołowe i place manewrowe w rejonie wolnego 214 820 obszaru celnego i nabrzeża Oliwskiego
@@ -203,13 +202,13 @@ e) pomost przy nabrzeżu Bytomskim
 4. Drogi kołowe i place manewrowe w rejonie nabrzeża 81 839 Obrońców Westerplatte i nabrzeża Obrońców Poczty Polskiej
 5. Drogi kołowe i place manewrowe w rejonie nabrzeża 90 875 Krakowskiego i nabrzeża Bytomskiego
 6.1.2 Ulice:
-1. Ulica Przemysłowa
-2. Ulica Szkolna
-3. Ulica Promowa
-4. Ulica Kujawska
-5. Ulica Chodackiego
-6. Ulica Handlowa
-7. Ulica Chemików
+1. Ulica Przemysłowa –
+2. Ulica Szkolna –
+3. Ulica Promowa –
+4. Ulica Kujawska –
+5. Ulica Chodackiego –
+6. Ulica Handlowa –
+7. Ulica Chemików –
 6.1.3 Parkingi:
 1. Parking przy ulicy Zamkniętej 2 827
 2. Parkingi przy ulicy Oliwskiej 2 296
@@ -220,42 +219,41 @@ e) pomost przy nabrzeżu Bytomskim
 6.2.1 Drogi kołowe i place manewrowe:
 1. Drogi i place 873 126
 6.2.2 Ulice:
-1. Ulica Kapitana Żeglugi Wielkiej Witolda Poinca z mostem
-2. Ulica Budowniczych Portu Północnego z wiaduktem
-3. Ulica Kontenerowa
+1. Ulica Kapitana Żeglugi Wielkiej Witolda Poinca – z mostem
+2. Ulica Budowniczych Portu Północnego z wiaduktem –
+3. Ulica Kontenerowa –
 6.2.3 Parkingi:
 1. Parking przy ulicy Sucharskiego 4 074
 2. Parking przy ulicy Budowniczych Portu Północnego 639
 3. Parking przy ulicy Kontenerowej 32 529
 4. Parking samochodów osobowych przy GPKW 1 277
 5. Parking buforowy PP 15 876
-7. INFRASTRUKTURA KOLEJOWA Lp. Nazwa Powierzchnia [m Długość ] [m.b.]
+7. INFRASTRUKTURA KOLEJOWA Lp. Nazwa Powierzchnia Długość [m ] [m.b.]
 7.1 Gdańsk-Nowy Port
-7.1.1 Tory i rozjazdy kolejowe 42
+7.1.1 Tory i rozjazdy kolejowe – 42
 7.1.2 Nawierzchnie drogowo-kolejowe na:
 1. Nabrzeżu WOC I 13 200
 2. Nabrzeżu WOC II 3 080
 3. Nabrzeżu Wiślanym 14 140
 4. Nabrzeżu Oliwskim 5 900
 7.2 Gdańsk-Port Północny
-7.2.1 Tory i rozjazdy kolejowe 23
-8. INFRASTRUKTURA ELEKTROENERGETYCZNA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć przesyłowa i rozdzielcza SN 15kV 106 902 z wyposażeniem 2 Sieć przesyłowa i rozdzielcza nn 0,4kV 316 787 z wyposażeniem 3 Słupy i oprawy oświetleniowe 1 4 Maszt oświetleniowy 5 Wieża oświetleniowa 6 Stacja transformatorowa NN/SN 7 Stacja transformatorowa SN/nn 8 Rozdzielnica SN 9 Tory kablowe, estakady, pomosty
-9. INFRASTRUKTURA CIEPŁOWNICZA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć przesyłowa i rozdzielcza z wyposażeniem 8 492 2 Węzeł ciepłowniczy z wyposażeniem 3 Kotłownie gazowe 4 Przyłącza gazowe 2 728 5 Zbiorniki gazowe
-10. INFRASTRUKTURA WODOCIĄGOWA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć przesyłowa i rozdzielcza z wyposażeniem 80 280 2 Ujęcie wody i zbiorniki zasobowe 3 Stacja pomp i uzdatniania wody
-11. INFRASTRUKTURA KANALIZACYJNA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć kanalizacji sanitarnej 32 230 2 Osadnik ścieków sanitarnych 3 Oczyszczalnia ścieków 4 Przepompownia ścieków 5 Kanalizacja deszczowa 91 263 6 Urządzenie do podczyszczania wód opadowych 7 Przepompownia wód deszczowych 8 Pompy drenażowe
-12. INFRASTRUKTURA TELEKOMUNIKACYJNA I INFORMATYCZNA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć teleinformatyczna 228 908 2 Kanalizacja kablowa 41 416 3 Centrala 4 Centrala punkt wynośny 5 Serwer 6 Węzeł systemu informatycznego 7 Zintegrowany system cyfrowy wraz ze sprzętem komputerowym, wspomagający i koordynujący wykorzystywanie infrastruktury portowej oraz wymianę informacji w zakresie logistyki oraz obsługi statków i towarów, w tym towarów przewożonych w kontenerach
-13. INFRASTRUKTURA OCHRONY PRZECIWPOŻAROWEJ Lp. Nazwa Długość Liczba [m.b.] 1 Pompownia przeciwpożarowa z wyposażeniem 2 Lądowa strażnica jednostek portowej straży pożarnej wraz z obiektami towarzyszącymi 3 Uziemienie ochronne 9 370 4 Instalacja odgromowa 1 160 5 Ściany przeciwogniowe 6 Wieże ppoż.
-7 Rurociągi ppoż. 6 005 8 Zbiorniki ppoż.
+7.2.1 Tory i rozjazdy kolejowe – 23
+8. INFRASTRUKTURA ELEKTROENERGETYCZNA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć przesyłowa i rozdzielcza SN 15kV 106 902 z wyposażeniem 2 Sieć przesyłowa i rozdzielcza nn 0,4kV 316 787 z wyposażeniem 3 Słupy i oprawy oświetleniowe – 1 4 Maszt oświetleniowy – 5 Wieża oświetleniowa – 6 Stacja transformatorowa NN/SN – 7 Stacja transformatorowa SN/nn – 8 Rozdzielnica SN – 9 Tory kablowe, estakady, pomosty –
+9. INFRASTRUKTURA CIEPŁOWNICZA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć przesyłowa i rozdzielcza z wyposażeniem 8 492 2 Węzeł ciepłowniczy z wyposażeniem – 3 Kotłownie gazowe – 4 Przyłącza gazowe 2 728 5 Zbiorniki gazowe –
+10. INFRASTRUKTURA WODOCIĄGOWA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć przesyłowa i rozdzielcza z wyposażeniem 80 280 2 Ujęcie wody i zbiorniki zasobowe – 3 Stacja pomp i uzdatniania wody –
+11. INFRASTRUKTURA KANALIZACYJNA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć kanalizacji sanitarnej 32 230 2 Osadnik ścieków sanitarnych – 3 Oczyszczalnia ścieków – 4 Przepompownia ścieków – 5 Kanalizacja deszczowa 91 263 6 Urządzenie do podczyszczania wód opadowych – 7 Przepompownia wód deszczowych – 8 Pompy drenażowe –
+12. INFRASTRUKTURA TELEKOMUNIKACYJNA I INFORMATYCZNA Lp. Nazwa Długość Liczba [m.b.] 1 Sieć teleinformatyczna 228 908 2 Kanalizacja kablowa 41 416 3 Centrala – 4 Centrala – punkt wynośny – 5 Serwer – 6 Węzeł systemu informatycznego – 7 Zintegrowany system cyfrowy wraz ze sprzętem komputerowym, wspomagający i koordynujący wykorzystywanie infrastruktury portowej oraz wymianę – informacji w zakresie logistyki oraz obsługi statków i towarów, w tym towarów przewożonych w kontenerach
+13. INFRASTRUKTURA OCHRONY PRZECIWPOŻAROWEJ Lp. Nazwa Długość Liczba [m.b.] 1 Pompownia przeciwpożarowa z wyposażeniem – 2 Lądowa strażnica jednostek portowej straży pożarnej – wraz z obiektami towarzyszącymi 3 Uziemienie ochronne 9 370 4 Instalacja odgromowa 1 160 5 Ściany przeciwogniowe – 6 Wieże ppoż. – 7 Rurociągi ppoż. 6 005 8 Zbiorniki ppoż. –
 14. INFRASTRUKTURA PRZEŁADUNKU I MAGAZYNOWANIA TOWARÓW Lp. Nazwa Długość Liczba [m.b.] 1 Obiekty, urządzenia i instalacje związane z przeładunkiem:
-1.1 Morskie ramię przeładunkowe LPG
-1.2 Stanowisko załadunku drogowego LPG
-1.3 Kolejowe ramiona przeładunkowe LPG 2 Urządzenia i instalacje służące do transportu, przesyłu towarów lub związane z tymi procesami:
+1.1 Morskie ramię przeładunkowe LPG –
+1.2 Stanowisko załadunku drogowego LPG –
+1.3 Kolejowe ramiona przeładunkowe LPG – 2 Urządzenia i instalacje służące do transportu, przesyłu towarów lub związane z tymi procesami:
 2.1 Rurociągi, instalacje, armatura 5 004
-2.2 Wieże przesypowe Lp. Nazwa Powierzchnia [m Liczba ] 3 Obiekty, urządzenia i instalacje związane z magazynowaniem:
+2.2 Wieże przesypowe – Lp. Nazwa Powierzchnia Liczba [m ] 3 Obiekty, urządzenia i instalacje związane – z magazynowaniem:
 3.1 Place 378 923
-3.2 Zbiorniki, silosy
+3.2 Zbiorniki, silosy –
 3.3 Bunkry, zasobniki 82 691
-15. INFRASTRUKTURA WSPOMAGAJĄCA KORZYSTANIE Z OBIEKTÓW, URZĄDZEŃ I INSTALACJI Lp. Nazwa Długość Liczba [m.b.] 1 Ogrodzenia, bramy, urządzenia kontroli dostępu 38 506 2 Stacje paliw, zbiorniki 3 Wagi samochodowe i kolejowe 4 Myjnie 5 Fundamenty, estakady, pomosty 6 Wiaty i śmietniki WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLNODOSTĘPNYCH OBIEKTÓW, URZĄDZEŃ I INSTALACJI WCHODZĄCYCH W SKŁAD INFRASTRUKTURY PORTOWEJ PORTU MORSKIEGO W GDYNI
+15. INFRASTRUKTURA WSPOMAGAJĄCA KORZYSTANIE Z OBIEKTÓW, URZĄDZEŃ I INSTALACJI Lp. Nazwa Długość Liczba [m.b.] 1 Ogrodzenia, bramy, urządzenia kontroli dostępu 38 506 2 Stacje paliw, zbiorniki – 3 Wagi samochodowe i kolejowe – 4 Myjnie – 5 Fundamenty, estakady, pomosty – 6 Wiaty i śmietniki – Załącznik WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLNODOSTĘPNYCH OBIEKTÓW, URZĄDZEŃ I INSTALACJI WCHODZĄCYCH W SKŁAD INFRASTRUKTURY PORTOWEJ PORTU MORSKIEGO W GDYNI
 1. AKWENY PORTOWE
 1.1. Awanport z obrotnicą
 1.2. Baseny portowe
@@ -268,7 +266,7 @@ e) pomost przy nabrzeżu Bytomskim
 6.1. Drogi kołowe i place manewrowe
 6.2. Ulice
 6.3. Parkingi
-6.4. Rękaw komunikacyjny baza promowa (nabrzeże Helskie II)
+6.4. Rękaw komunikacyjny – baza promowa (nabrzeże Helskie II)
 6.5. Drogi technologiczne
 7. INFRASTRUKTURA KOLEJOWA
 7.1. Tory kolejowe
@@ -283,11 +281,11 @@ e) pomost przy nabrzeżu Bytomskim
 1. AKWENY PORTOWE Lp. Nazwa Powierzchnia [m ]
 1.1 Awanport (z obrotnicą o śr. 500 m) 573 741,00
 1.2 Baseny portowe:
-1. Basen I Prezydenta 198 075,00
-2. Basen II inż. Tadeusza Wendy (z wyłączeniem basenu 172 748,00 stoczniowego)
-3. Basen III Węglowy 333 652,00
-4. Basen IV Marszałka Piłsudskiego 264 754,00
-5. Basen V Ministra Kwiatkowskiego 151 694,00
+1. Basen I – Prezydenta 198 075,00
+2. Basen II – inż. Tadeusza Wendy (z wyłączeniem basenu 172 748,00 stoczniowego)
+3. Basen III – Węglowy 333 652,00
+4. Basen IV – Marszałka Piłsudskiego 264 754,00
+5. Basen V – Ministra Kwiatkowskiego 151 694,00
 1.3 Kanały portowe:
 1. Kanał Portowy (dł. 3 km, od ostrogi pilotowej południowej do nabrzeża Helskiego II) wraz z obrotnicami 802 811,00 o śr. 400 m i o śr. 385 m
 2. Kanał Południowy (dł. 1,4 km, od awanportu do wejścia 134 820,00 południowego)
@@ -308,31 +306,31 @@ h) nabrzeżu Holenderskim 489,50
 i) nabrzeżu Rotterdamskim 292,00
 j) nabrzeżu Norweskim 112,00
 k) nabrzeżu Bułgarskim 192,30
-5. SAMODZIELNE STANOWISKO PRZEŁADUNKOWE PALIW PŁYNNYCH USYTUOWANE PRZY FALOCHRONIE Lp. Nazwa Długość Liczba [m.b.] 1 Pomost przeładunkowy z wyposażeniem 2 Dalba 3 Pomost dojściowy 4 Podwodne i nadwodne rurociągi 2 × Dn 600 mm 4 160,00
-6. INFRASTRUKTURA DROGOWA Lp. Nazwa Powierzchnia [m Długość ] [m.b.]
+5. SAMODZIELNE STANOWISKO PRZEŁADUNKOWE PALIW PŁYNNYCH USYTUOWANE PRZY FALOCHRONIE Lp. Nazwa Długość Liczba [m.b.] 1 Pomost przeładunkowy z wyposażeniem – 2 Dalba – 3 Pomost dojściowy – 4 Podwodne i nadwodne rurociągi 2 × Dn 600 mm 4 160,00
+6. INFRASTRUKTURA DROGOWA Lp. Nazwa Powierzchnia Długość [m ] [m.b.]
 6.1 Drogi kołowe i place manewrowe:
-1. Rejon nabrzeży: Pomorskiego, Śląskiego, Wendy, Szwedzkiego, Duńskiego, Holenderskiego, Belgijskiego, Francuskiego, Portowego 70 423,00
+1. Rejon nabrzeży: Pomorskiego, Śląskiego, Wendy, 70 423,00 Szwedzkiego, Duńskiego, Holenderskiego, Belgijskiego, Francuskiego, Portowego
 2. Rejon nabrzeży: Fińskiego, Polskiego, 68 072,00 Rotterdamskiego, Indyjskiego, Norweskiego
 3. Rejon nabrzeży: Stanów Zjednoczonych, 57 228,00 Czeskiego, Rumuńskiego, Słowackiego, Węgierskiego
-4. Rejon nabrzeża Helskiego I, rejon ulicy Kontenerowej, ulicy Janka Wiśniewskiego, rejon nabrzeży Bułgarskiego i Puckiego 213 516,00
+4. Rejon nabrzeża Helskiego I, rejon ulicy Kontenerowej, ulicy Janka Wiśniewskiego, rejon 213 516,00 nabrzeży Bułgarskiego i Puckiego
 5. Rejon bazy promowej i nabrzeża Helskiego II 25 500,00
 6.2 Ulice:
-1. Ulica Węglowa 1 250,00
-2. Ulica Warsztatowa 350,00
-3. Ulica Rotterdamska 700,00
-4. Ulica Celna 300,00
-5. Ulica Indyjska 1 300,00
-6. Ulica Dokerów 1 200,00
-7. Ulica Rumuńska 950,00
-8. Ulica Francuska 400,00
-9. Ulica Kontenerowa 1 492,00
-10. Ulica Janka Wiśniewskiego wraz z wiaduktami 3 490,00 nr 1 i nr 2 (od pkt 20 granicy portu do ulicy Kontenerowej)
-11. Ulica Wendy wraz z wiaduktami 548,00
-12. Ulica Chrzanowskiego 500,00
-13. Ulica Polska 4 184,00
-14. Ulica Zygmunta Adamskiego 726,00
-15. Ulica Logistyczna 1 550,00
-16. Ulica Magazynowa 346,90
+1. Ulica Węglowa – 1 250,00
+2. Ulica Warsztatowa – 350,00
+3. Ulica Rotterdamska – 700,00
+4. Ulica Celna – 300,00
+5. Ulica Indyjska – 1 300,00
+6. Ulica Dokerów – 1 200,00
+7. Ulica Rumuńska – 950,00
+8. Ulica Francuska – 400,00
+9. Ulica Kontenerowa – 1 492,00
+10. Ulica Janka Wiśniewskiego wraz z wiaduktami – 3 490,00 nr 1 i nr 2 (od pkt 20 granicy portu do ulicy Kontenerowej)
+11. Ulica Wendy wraz z wiaduktami – 548,00
+12. Ulica Chrzanowskiego – 500,00
+13. Ulica Polska – 4 184,00
+14. Ulica Zygmunta Adamskiego – 726,00
+15. Ulica Logistyczna – 1 550,00
+16. Ulica Magazynowa – 346,90
 6.3 Parkingi:
 1. Parkingi przy ulicy Węglowej 697,00
 2. Parkingi przy ulicy Warsztatowej 1 008,00
@@ -347,13 +345,13 @@ k) nabrzeżu Bułgarskim 192,30
 11. Parkingi przy bazie promowej 15 729,00
 12. Parkingi przy ulicy Janka Wiśniewskiego 25 032,00
 13. Parking przy nabrzeżu Czeskim 53 122,00
-6.4 Rękaw komunikacyjny baza promowa 166,20 (nabrzeże Helskie II)
+6.4 Rękaw komunikacyjny – baza promowa – 166,20 (nabrzeże Helskie II)
 6.5 Drogi technologiczne:
-1. Z rampą uchylną na nabrzeże Helskie II 190,00
-2. Z rampą uchylną na nabrzeże Rumuńskie 125,00
+1. Z rampą uchylną na nabrzeże Helskie II – 190,00
+2. Z rampą uchylną na nabrzeże Rumuńskie – 125,00
 7. INFRASTRUKTURA KOLEJOWA Lp. Nazwa Liczba Długość [szt.] [m.b.]
-7.1 Tory kolejowe (od punktów granicznych do kozłów 42 313,61 oporowych na końcu nabrzeży)
-7.2 Rozjazdy kolejowe 192 Lp. Nazwa Powierzchnia [m Długość ] [m.b.]
+7.1 Tory kolejowe (od punktów granicznych do kozłów – 42 313,61 oporowych na końcu nabrzeży)
+7.2 Rozjazdy kolejowe 192 Lp. Nazwa Powierzchnia Długość [m ] [m.b.]
 7.3 Nawierzchnie drogowo-kolejowe na:
 1. Nabrzeżu Śląskim 7 420,00
 2. Nabrzeżu Szwedzkim 25 687,50
@@ -366,45 +364,45 @@ k) nabrzeżu Bułgarskim 192,30
 9. Nabrzeżu Stanów Zjednoczonych 11 537,00
 10. Nabrzeżu Czeskim 1 467,00
 11. Nabrzeżu Rumuńskim 21 864,00
-12. Intermodalnym terminalu kolejowym nabrzeże 5 404,00 Polskie II Str.
-13. Intermodalnym terminalu kolejowym baza 10 321,00 kontenerowa nabrzeże Helskie
+12. Intermodalnym terminalu kolejowym – nabrzeże 5 404,00 Polskie – II Str.
+13. Intermodalnym terminalu kolejowym – baza 10 321,00 kontenerowa – nabrzeże Helskie
 8. INFRASTRUKTURA ELEKTROENERGETYCZNA Lp. Nazwa Długość Liczba [m.b.] [szt.] 1 Sieci przesyłowe i rozdzielcze:
 a) sieć przesyłowa i rozdzielcza z wyposażeniem SN 60 534,00
 b) sieć przesyłowa i rozdzielcza z wyposażeniem NN 215 011,00 2 Urządzenia oświetleniowe:
-a) słup oświetleniowy
-b) maszt oświetleniowy
-c) wieża oświetleniowa 3 Stacje transformatorowe 4 Inne urządzenia i instalacje:
-a) rozdzielnica sieciowa
-b) gniazdo dźwigowe 400 A
-c) instalacja ochrony katodowej rurociągów
+a) słup oświetleniowy –
+b) maszt oświetleniowy –
+c) wieża oświetleniowa – 3 Stacje transformatorowe – 4 Inne urządzenia i instalacje:
+a) rozdzielnica sieciowa –
+b) gniazdo dźwigowe 400 A –
+c) instalacja ochrony katodowej rurociągów –
 d) kanał energetyczny 9 015,50
 9. INFRASTRUKTURA CIEPŁOWNICZA Lp. Nazwa Długość Liczba [m.b.] [szt.] 1 Sieci przesyłowe i rozdzielcze z wyposażeniem: 8 742,80
-a) kotłownie olejowe
-b) kotłownie elektryczne 2 Węzły ciepłownicze z wyposażeniem
+a) kotłownie olejowe –
+b) kotłownie elektryczne – 2 Węzły ciepłownicze z wyposażeniem –
 10. INFRASTRUKTURA WODOCIĄGOWA Lp. Nazwa Długość Liczba [m.b.] [szt.] 1 Sieci przesyłowe, rozdzielcze oraz przyłącza 65 209,75 z wyposażeniem 2 Ujęcia wody i zbiorniki zasobowe:
-a) zbiornik retencyjny dwukomorowy
-b) ujęcie wody studnia wiercona głębinowa wraz z wyposażeniem
-c) ujęcie wody studnie kontrolne piezometryczne 3 Stacje pomp i uzdatniania wody:
-a) budynek stacji uzdatniania wody z kompletną instalacją technologiczną
-b) osadnik wód popłucznych oraz wiata
-c) mostek na rzece Chylonce dojazd do stacji uzdatniania wody
+a) zbiornik retencyjny dwukomorowy –
+b) ujęcie wody – studnia wiercona głębinowa wraz – z wyposażeniem
+c) ujęcie wody – studnie kontrolne piezometryczne – 3 Stacje pomp i uzdatniania wody:
+a) budynek stacji uzdatniania wody z kompletną instalacją – technologiczną
+b) osadnik wód popłucznych oraz wiata –
+c) mostek na rzece Chylonce – dojazd do stacji uzdatniania – wody
 11. INFRASTRUKTURA KANALIZACYJNA Lp. Nazwa Długość Liczba [m.b.] 1 Sieci kanalizacji sanitarnej:
 a) kanał sanitarny wraz ze studzienkami 22 684,61
 b) rurociąg tłoczny ze studzienkami rewizyjnymi 7 565,12 2 Przepompownie ścieków i osadniki:
-a) przepompownie ścieków z wyposażeniem i systemem AKP
-b) osadnik i neutralizator ścieków 3 Sieć kanalizacji deszczowej z wyposażeniem:
+a) przepompownie ścieków z wyposażeniem i systemem – AKP
+b) osadnik i neutralizator ścieków – 3 Sieć kanalizacji deszczowej z wyposażeniem:
 a) kanał deszczowy ze studzienkami rewizyjnymi 75 969,09
-b) separator i urządzenie do podczyszczania wód opadowych
-c) osadnik betonowy dwukomorowy
-d) zbiornik retencyjny trzykomorowy
+b) separator i urządzenie do podczyszczania wód – opadowych
+c) osadnik betonowy dwukomorowy –
+d) zbiornik retencyjny trzykomorowy –
 e) rowy otwarte odwadniające 240,00
-f) przepompownia wód drenażowych
+f) przepompownia wód drenażowych –
 12. INFRASTRUKTURA TELEKOMUNIKACYJNA I INFORMATYCZNA Lp. Nazwa Długość Liczba [m.b.] 1 Sieci teleinformatyczne i urządzenia 210 501,00 2 Kanalizacje kablowe 31 273,00 3 Centrale:
-a) stacja bazowa
-b) centralka 4 Serwery i węzły:
-a) serwer
-b) węzeł 5 Urządzenia radiokomunikacyjne i radiowe trankingowa sieć łączności radiowej urządzenie odbiorczo-nadawcze SMART NET (Motorola) 6 Zintegrowany system cyfrowy wraz ze sprzętem komputerowym, wspomagający i koordynujący wykorzystywanie infrastruktury portowej oraz wymianę informacji w zakresie logistyki oraz obsługi statków i towarów, w tym towarów przewożonych w kontenerach
-13. INFRASTRUKTURA OCHRONY PRZECIWPOŻAROWEJ Lp. Nazwa Długość Liczba [m.b.] [szt.] 1 Strażnica lądowych jednostek portowej straży pożarnej 2 Pompownie przeciwpożarowe z wyposażeniem 3 Wieże z monitorami wodno-pianowymi wraz z pomostami doprowadzającymi 4 Sieć rurociągów zasilających 632,20 5 Sieć rurociągów zasilających instalację zraszaczową 968,80 Załącznik WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLNODOSTĘPNYCH OBIEKTÓW, URZĄDZEŃ I INSTALACJI WCHODZĄCYCH W SKŁAD INFRASTRUKTURY PORTOWEJ PORTÓW MORSKICH W SZCZECINIE I ŚWINOUJŚCIU
+a) stacja bazowa –
+b) centralka – 4 Serwery i węzły:
+a) serwer –
+b) węzeł – 5 Urządzenia radiokomunikacyjne i radiowe – trankingowa sieć łączności radiowej – urządzenie odbiorczo-nadawcze – SMART NET (Motorola) 6 Zintegrowany system cyfrowy wraz ze sprzętem komputerowym, wspomagający i koordynujący wykorzystywanie infrastruktury portowej oraz wymianę – informacji w zakresie logistyki oraz obsługi statków i towarów, w tym towarów przewożonych w kontenerach
+13. INFRASTRUKTURA OCHRONY PRZECIWPOŻAROWEJ Lp. Nazwa Długość Liczba [m.b.] [szt.] 1 Strażnica lądowych jednostek portowej straży pożarnej – 2 Pompownie przeciwpożarowe z wyposażeniem – 3 Wieże z monitorami wodno-pianowymi wraz z pomostami – doprowadzającymi 4 Sieć rurociągów zasilających 632,20 5 Sieć rurociągów zasilających instalację zraszaczową 968,80 Załącznik WYKAZ AKWENÓW PORTOWYCH ORAZ OGÓLNODOSTĘPNYCH OBIEKTÓW, URZĄDZEŃ I INSTALACJI WCHODZĄCYCH W SKŁAD INFRASTRUKTURY PORTOWEJ PORTÓW MORSKICH W SZCZECINIE I ŚWINOUJŚCIU
 1. AKWENY PORTOWE
 1.1. Port morski w Szczecinie
 1.1.1. Kanały portowe
@@ -475,11 +473,11 @@ b) węzeł 5 Urządzenia radiokomunikacyjne i radiowe trankingowa sieć łączno
 5. Basen Wschodni 50 490,00
 6. Basen Zachodni 22 160,00
 1.1.3 Obrotnice:
-1. Obrotnica w Kanale Grodzkim w obrębie nabrzeży: Albańskiego, Bułgarskiego i Węgierskiego średnica 28 352,00 190 m
-2. Obrotnica przy południowej części Wyspy Grodzkiej 11 310,00 średnica 120 m
-3. Obrotnica w basenie Kaszubskim (Górniczym) przed 53 093,00 wejściem do basenu Górnośląskiego średnica 260 m
-4. Obrotnica na rzece Parnica, przed wejściem do Kanału Przemysłowego (Wrocławskiego) średnica 13 273,00 130 m
-5. Obrotnica na połączeniu rzek Parnicy i Regalicy 11 310,00 średnica 120 m
+1. Obrotnica w Kanale Grodzkim w obrębie nabrzeży: Albańskiego, Bułgarskiego i Węgierskiego – średnica 28 352,00 190 m
+2. Obrotnica przy południowej części Wyspy Grodzkiej – 11 310,00 średnica 120 m
+3. Obrotnica w basenie Kaszubskim (Górniczym) przed 53 093,00 wejściem do basenu Górnośląskiego – średnica 260 m
+4. Obrotnica na rzece Parnica, przed wejściem do Kanału Przemysłowego (Wrocławskiego) – średnica 13 273,00 130 m
+5. Obrotnica na połączeniu rzek Parnicy i Regalicy – 11 310,00 średnica 120 m
 6. Obrotnica na Przekopie Mieleńskim u zbiegu z rzeką 70 686,00 Parnicą o średnicy 300 m i głębokości 10,5 m
 1.2 Port morski w Świnoujściu
 1.2.1 Kanały portowe: Kanał Barkowy wzdłuż nabrzeża Portowców 2 550,00
@@ -488,32 +486,32 @@ b) węzeł 5 Urządzenia radiokomunikacyjne i radiowe trankingowa sieć łączno
 2. Basen Bałtycki 20 000,00
 3. Basen Trymerski 12 570,00
 4. Basen portu zewnętrznego, z wyłączeniem 1 794 952,00 wejściowego toru wodnego do basenu portu w tym powierzchnia zewnętrznego w Świnoujściu, łączącego podejściowy tor obrotnicy wymienionej wodny do Świnoujścia z obrotnicą w porcie w lp. 1.2.3 zewnętrznym
-1.2.3 Obrotnice portowe: Obrotnica w porcie zewnętrznym w kształcie elipsy o osiach 630 m oraz 1 000 m i głębokości 14,50 m 494 800,00
+1.2.3 Obrotnice portowe: Obrotnica w porcie zewnętrznym w kształcie elipsy 494 800,00 o osiach 630 m oraz 1 000 m i głębokości 14,50 m
 2. RZEKI Lp. Nazwa Długość [m.b.]
 2.1 Port morski w Szczecinie
-1. Rzeka Parnica odcinek żeglowny od obrotnicy na 2 750,00 Przekopie Mieleńskim do mostu Portowego
-2. Rzeka Parnica odcinek żeglowny od obrotnicy na 900,00 Przekopie Mieleńskim do połączenia z rzeką Regalicą
-3. Rzeka Duńczyca odcinek od Kanału Grodzkiego w kierunku „Estakady” nad Odrą Zachodnią za wyspą 1 000,00 Bielawa
-4. Rzeka Odra Zachodnia odcinek od południowego cypla Wyspy Okrętowej (Ostrów Brdowski) do 2 500,00 północnego cypla Wyspy Okrętowej (Ostrów Brdowski)
-2.2 Port morski w Świnoujściu Cieśnina Świna odcinek od nabrzeża Czołowego do 4 800,00 połączenia z cieśniną Stara Świna
-3. PIRSY, POMOSTY, DALBY I INNE BUDOWLE Lp. Nazwa Powierzchnia [m Długość Liczba ] [m.b.] [szt.]
+1. Rzeka Parnica – odcinek żeglowny od obrotnicy na 2 750,00 Przekopie Mieleńskim do mostu Portowego
+2. Rzeka Parnica – odcinek żeglowny od obrotnicy na 900,00 Przekopie Mieleńskim do połączenia z rzeką Regalicą
+3. Rzeka Duńczyca – odcinek od Kanału Grodzkiego w kierunku „Estakady” nad Odrą Zachodnią za wyspą 1 000,00 Bielawa
+4. Rzeka Odra Zachodnia – odcinek od południowego cypla Wyspy Okrętowej (Ostrów Brdowski) do 2 500,00 północnego cypla Wyspy Okrętowej (Ostrów Brdowski)
+2.2 Port morski w Świnoujściu Cieśnina Świna – odcinek od nabrzeża Czołowego do 4 800,00 połączenia z cieśniną Stara Świna
+3. PIRSY, POMOSTY, DALBY I INNE BUDOWLE Lp. Nazwa Powierzchnia Długość Liczba [m ] [m.b.] [szt.]
 3.1 Port morski w Szczecinie
-1. Pirs Węglowy w basenie 188,00 Kaszubskim
-2. Pomost ro-ro przy nabrzeżu 21,80 Czeskim
-3. Dalby stalowe przy nabrzeżu Katowickim
-4. Pochylnia ro-ro przy nabrzeżu 27,00 Fińskim
-5. Pole odkładu urobku przy nabrzeżu 176 000 m² Fińskim
-6. Pole odkładu urobku Ostrów 524 821 m² Grabowski
+1. Pirs Węglowy w basenie – 188,00 Kaszubskim
+2. Pomost ro-ro przy nabrzeżu – 21,80 Czeskim
+3. Dalby stalowe przy nabrzeżu – – Katowickim
+4. Pochylnia ro-ro przy nabrzeżu – 27,00 Fińskim
+5. Pole odkładu urobku przy nabrzeżu 176 000 m² – Fińskim
+6. Pole odkładu urobku Ostrów 524 821 m² – Grabowski
 3.2 Port morski w Świnoujściu
-1. Pirs nabrzeża Portowców 240,40
-2. Dalba w terminalu portowym Świnoujście
-3. Dalba w porcie zewnętrznym
-4. Pomosty komunikacyjne w porcie 462,00 zewnętrznym
-5. Pomost ujęcia wody technicznej i przeciwpożarowej w porcie zewnętrznym o powierzchni 4240,00 m
-6. Pomost przeładunkowy w porcie zewnętrznym o powierzchni 3720,00 m
-7. Podpory pod estakadę w porcie 714,80 zewnętrznym
-8. Zbiornik retencyjny w porcie zewnętrznym
-9. Kanał odpływowy do zbiornika 53,13 retencyjnego w porcie zewnętrznym
+1. Pirs nabrzeża Portowców – 240,40
+2. Dalba w terminalu portowym – – Świnoujście
+3. Dalba w porcie zewnętrznym – –
+4. Pomosty komunikacyjne w porcie – 462,00 zewnętrznym
+5. Pomost ujęcia wody technicznej i przeciwpożarowej w porcie – – zewnętrznym o powierzchni 4240,00 m
+6. Pomost przeładunkowy w porcie zewnętrznym o powierzchni – – 3720,00 m
+7. Podpory pod estakadę w porcie – 714,80 zewnętrznym
+8. Zbiornik retencyjny w porcie – – zewnętrznym
+9. Kanał odpływowy do zbiornika – 53,13 retencyjnego w porcie zewnętrznym
 4. NABRZEŻA Lp. Nazwa Długość [m.b.]
 4.1 Port morski w Szczecinie
 1. Nabrzeże Katowickie 439,67
@@ -612,25 +610,25 @@ b) węzeł 5 Urządzenia radiokomunikacyjne i radiowe trankingowa sieć łączno
 5. Baza Przeładunkowo-Składowa ŚWI-IV 295,00
 6. Nabrzeże Chemików 210,80
 7. Nabrzeże Chemików-Barkowe 154,60
-6. INFRASTRUKTURA DROGOWA Powierzchnia Lp. Nazwa [m Długość ] [m.b.]
+6. INFRASTRUKTURA DROGOWA Powierzchnia Długość Lp. Nazwa [m ] [m.b.]
 6.1 Port morski w Szczecinie
 6.1.1 Drogi kołowe i place manewrowe:
-1. Droga przy budynku biura zarządu 381,49
+1. Droga przy budynku biura zarządu – 381,49
 2. Droga na nabrzeżu Albańskim 2 848,10
 3. Droga na nabrzeżu Czeskim 1 760,70
-4. Droga na nabrzeżu Rumuńskim 642,00
-5. Droga na nabrzeżu Zbożowym 23,30
-6. Droga na terenie Kanału Przemysłowego 36,00
-7. Droga na terenie Łasztowni 530,00
+4. Droga na nabrzeżu Rumuńskim – 642,00
+5. Droga na nabrzeżu Zbożowym – 23,30
+6. Droga na terenie Kanału Przemysłowego – 36,00
+7. Droga na terenie Łasztowni – 530,00
 8. Droga na terenie oczyszczalni 5 463,00
 9. Droga na terenie Zakładu Usług Żeglugowych 49,00
-10. Droga od bramy przy nabrzeżu Rumuńskim do 1 312,73 nabrzeża Belgijskiego
-11. Droga dojazdowa do elewatora Ewa 402,00
-12. Droga Basenowa wzdłuż nabrzeża Bytomskiego 1 015,00
+10. Droga od bramy przy nabrzeżu Rumuńskim do – 1 312,73 nabrzeża Belgijskiego
+11. Droga dojazdowa do elewatora Ewa – 402,00
+12. Droga Basenowa wzdłuż nabrzeża Bytomskiego – 1 015,00
 13. Droga na nabrzeżu Bytomskim 2 812,30 215,00
 14. Droga na nabrzeżu Chorzowskim 310,00
 15. Droga na nabrzeżu Gliwickim 487,00
-16. Droga na nabrzeżu Parnica 220,00
+16. Droga na nabrzeżu Parnica – 220,00
 17. Droga na nabrzeżu Sosnowieckim 1 585,00
 18. Droga i plac na terenie granicznego punktu 6 345,87 kontroli weterynaryjnej
 19. Droga i plac na terenie Hryniewieckiego 25 829,30
@@ -644,18 +642,18 @@ b) węzeł 5 Urządzenia radiokomunikacyjne i radiowe trankingowa sieć łączno
 27. Droga i plac na nabrzeżu Rosyjskim 9 683,70
 28. Droga i plac w rejonie basenu Kaszubskiego 18 467,00
 29. Droga z placem manewrowym na nabrzeżu Huk 2 045,00
-30. Droga do nabrzeża Warsztatowego 250,0
+30. Droga do nabrzeża Warsztatowego – 250,0
 31. Plac manewrowy przy nabrzeżu Niemieckim 5 713,00
-32. Droga dojazdowa do nabrzeża Niemieckiego 133,50
+32. Droga dojazdowa do nabrzeża Niemieckiego – 133,50
 33. Droga i place na nabrzeżu Fińskim 5 168,00
 34. Droga w rejonie nabrzeża Spółdzielczego 5 506,13
 6.1.2 Ulice:
-1. Ulica inż. Stanisława Hryniewieckiego 1 140,00
-2. Ulica Cłowa 1 324,50
-3. Ulica Węglowa 662,42
-4. Ulica Zatokowa 311,55
-5. Ulica Logistyczna 485,00
-6. Ulica Gdańska 736,10
+1. Ulica inż. Stanisława Hryniewieckiego – 1 140,00
+2. Ulica Cłowa – 1 324,50
+3. Ulica Węglowa – 662,42
+4. Ulica Zatokowa – 311,55
+5. Ulica Logistyczna – 485,00
+6. Ulica Gdańska – 736,10
 6.1.3 Parkingi:
 1. Parking samochodowy przy budynku biura zarządu 4 512,60
 2. Parking przy ulicy Hryniewieckiego 6 877,00
@@ -672,182 +670,182 @@ b) węzeł 5 Urządzenia radiokomunikacyjne i radiowe trankingowa sieć łączno
 4. Droga na nabrzeżu Portowców 2 393,00
 5. Droga i plac na nabrzeżu Górników 24 691,50
 6. Droga i plac na nabrzeżu Hutników 17 327,80
-7. Droga w rejonie przymorskim od bramy 2 689,00 wjazdowej północnej
-8. Droga do latarni Świnoujście 280,00
+7. Droga w rejonie przymorskim od bramy – 2 689,00 wjazdowej północnej
+8. Droga do latarni Świnoujście – 280,00
 9. Droga i plac stanowiska promowego nr 2, 3, 4 i 5 75 733,00
 6.2.2 Ulice:
-1. Ulica Artyleryjska 169,00
-2. Ulica Bunkrowa 498,00
-3. Ulica Duńska 798,00
-4. Ulica Dworcowa 351,00
-5. Ulica Dworcowa przedłużenie 1 800,00
-6. Ulica Kasztanowa 356,16
-7. Ulica Nowoartyleryjska 1 255,37
+1. Ulica Artyleryjska – 169,00
+2. Ulica Bunkrowa – 498,00
+3. Ulica Duńska – 798,00
+4. Ulica Dworcowa – 351,00
+5. Ulica Dworcowa – przedłużenie 1 800,00
+6. Ulica Kasztanowa – 356,16
+7. Ulica Nowoartyleryjska – 1 255,37
 6.2.3 Parkingi:
 1.Miejsca postojowe w terminalu promowym 64 704,70
 2. Miejsca postojowe przy ulicy Nowoartyleryjskiej 15 694,50
-7. INFRASTRUKTURA KOLEJOWA Lp. Nazwa Powierzchnia [m ] Długość [m.b.] Liczba [szt.]
+7. INFRASTRUKTURA KOLEJOWA Lp. Nazwa Powierzchnia Długość Liczba [m ] [m.b.] [szt.]
 7.1 Port morski w Szczecinie
 7.1.1 Tory i rozjazdy kolejowe:
-1. Rejon Drobnicy 17 253,50
-2. Rejon basenu Górniczego 32 148,10
-3. Rejon nabrzeża Huk 705,60
-4. Rejon nabrzeża Rosyjskiego 1 491,70
-5. Rejon nabrzeża Fińskiego 2 340,00
+1. Rejon Drobnicy – 17 253,50
+2. Rejon basenu Górniczego – 32 148,10
+3. Rejon nabrzeża Huk – 705,60
+4. Rejon nabrzeża Rosyjskiego – 1 491,70
+5. Rejon nabrzeża Fińskiego – 2 340,00
 7.1.2 Nawierzchnie drogowo-kolejowe:
-1. Nabrzeże Katowickie 13 190,0
-2. Nabrzeże Chorzowskie 9 735,0
-3. Nabrzeże Chorzowskie-Uskok 752,0
-4. Nabrzeże Gliwickie 5 210,0
-5. Nabrzeże Południowe 950,0
-6. Nabrzeże Bytomskie 9 570,0
-7. Nabrzeże Bytomskie-Uskok 495,0
-8. Nabrzeże Czołowe 1 500,0
-9. Nabrzeże Wałbrzyskie 5 582,0
-10. Nabrzeże Górnośląskie 6 440,0
-11. Nabrzeże Noteckie 2 830,0
-12. Nabrzeże Drawskie 3 700,0
-13. Nabrzeże Gorzowskie 1 030,0
-14. Nabrzeże Regalica 4 200,0
-15. Nabrzeże Parnica 6 600,0
-16. Nabrzeże Czeskie 10 080,0
-17. Nabrzeże Słowackie 13 560,0
-18. Nabrzeże Zbożowe 2 860,0
-19. Nabrzeże Luksemburskie 1 074,0
-20. Nabrzeże Holenderskie 3 236,0
-21. Nabrzeże Belgijskie 5 770,0
-22. Nabrzeże Angielskie 4 125,0
-23. Nabrzeże Polskie 5 200,0
-24. Nabrzeże Węgierskie 15 282,0
-25. Nabrzeże Rumuńskie 6 600,0
-26. Nabrzeże Egipskie 1 000,0
-27. Nabrzeże Greckie 6 272,0
-28. Nabrzeże Albańskie 1 782,0
-29. Nabrzeże Jugosłowiańskie 950,0
-30. Nabrzeże Rosyjskie 3 260,0
-31. Bulwar Śląski 2 320,0
-32. Nabrzeże Warsztatowe 7 070,0
-33. Nabrzeże Huk 3 745,0
-34. Kładka basen Górniczy
-35. Pomost rewizyjny
-36. Schron na nabrzeżu Warsztatowym
-37. Sygnalizacja basen Górniczy
-38. Taca basen Górniczy
+1. Nabrzeże Katowickie 13 190,0 –
+2. Nabrzeże Chorzowskie 9 735,0 –
+3. Nabrzeże Chorzowskie-Uskok 752,0 –
+4. Nabrzeże Gliwickie 5 210,0 –
+5. Nabrzeże Południowe 950,0 –
+6. Nabrzeże Bytomskie 9 570,0 –
+7. Nabrzeże Bytomskie-Uskok 495,0 –
+8. Nabrzeże Czołowe 1 500,0 –
+9. Nabrzeże Wałbrzyskie 5 582,0 –
+10. Nabrzeże Górnośląskie 6 440,0 –
+11. Nabrzeże Noteckie 2 830,0 –
+12. Nabrzeże Drawskie 3 700,0 –
+13. Nabrzeże Gorzowskie 1 030,0 –
+14. Nabrzeże Regalica 4 200,0 –
+15. Nabrzeże Parnica 6 600,0 –
+16. Nabrzeże Czeskie 10 080,0 –
+17. Nabrzeże Słowackie 13 560,0 –
+18. Nabrzeże Zbożowe 2 860,0 –
+19. Nabrzeże Luksemburskie 1 074,0 –
+20. Nabrzeże Holenderskie 3 236,0 –
+21. Nabrzeże Belgijskie 5 770,0 –
+22. Nabrzeże Angielskie 4 125,0 –
+23. Nabrzeże Polskie 5 200,0 –
+24. Nabrzeże Węgierskie 15 282,0 –
+25. Nabrzeże Rumuńskie 6 600,0 –
+26. Nabrzeże Egipskie 1 000,0 –
+27. Nabrzeże Greckie 6 272,0 –
+28. Nabrzeże Albańskie 1 782,0 –
+29. Nabrzeże Jugosłowiańskie 950,0 –
+30. Nabrzeże Rosyjskie 3 260,0 –
+31. Bulwar Śląski 2 320,0 –
+32. Nabrzeże Warsztatowe 7 070,0 –
+33. Nabrzeże Huk 3 745,0 –
+34. Kładka – basen Górniczy – –
+35. Pomost rewizyjny – –
+36. Schron na nabrzeżu – – Warsztatowym
+37. Sygnalizacja – basen Górniczy – –
+38. Taca – basen Górniczy – –
 7.2 Port morski w Świnoujściu
 7.2.1 Tory:
-1. Rejon portu handlowego 17 147,50 Świnoujście
-2. Rejon terminalu promowego 2 734,80
+1. Rejon portu handlowego – 17 147,50 Świnoujście
+2. Rejon terminalu promowego – 2 734,80
 7.2.2 Nawierzchnie drogowo-kolejowe:
-1. Nabrzeże Chemików 4 070,0
-2. Nabrzeże Hutników 7 444,0
-3. Nabrzeże Górników-Barkowe 3 000,0
-4. Nabrzeże Górników 4 420,0
-5. Nabrzeże Władysława IV 7 900,0
-6. Nabrzeże Pilotowe 2 500,0
-7. Kanał
-8. Kładka
-9. Pomost
-10. Przenośnik
-11. Stacja na nabrzeżu chemików
-12. Tunel 18,40
-13. Zapora
+1. Nabrzeże Chemików 4 070,0 –
+2. Nabrzeże Hutników 7 444,0 –
+3. Nabrzeże Górników-Barkowe 3 000,0 –
+4. Nabrzeże Górników 4 420,0 –
+5. Nabrzeże Władysława IV 7 900,0 –
+6. Nabrzeże Pilotowe 2 500,0 –
+7. Kanał – –
+8. Kładka – –
+9. Pomost – –
+10. Przenośnik – –
+11. Stacja na nabrzeżu chemików – –
+12. Tunel – 18,40
+13. Zapora – –
 8. INFRASTRUKTURA ELEKTROENERGETYCZNA Lp. Nazwa Długość Liczba [m.b.]
 8.1 Port morski w Szczecinie
-1. Stacja transformatorowa z wyposażeniem SN/SN
-2. Stacja transformatorowa z wyposażeniem SN/NN
+1. Stacja transformatorowa z wyposażeniem SN/SN –
+2. Stacja transformatorowa z wyposażeniem SN/NN –
 3. Sieć przesyłowa i rozdzielcza wraz z wyposażeniem 35 230,00 SN
 4. Sieć przesyłowa i rozdzielcza wraz z wyposażeniem 91 995,85 NN
-5. Słup oświetleniowy
-6. Wieża oświetleniowa
-7. Stacja paliw
-8. Sieć acetylenu i tlenu
-9. Kanał trolejowy
-10. Studzienki do przeciwwag
-11. Ostrzegawcze światła nawigacyjne
+5. Słup oświetleniowy –
+6. Wieża oświetleniowa –
+7. Stacja paliw –
+8. Sieć acetylenu i tlenu –
+9. Kanał trolejowy –
+10. Studzienki do przeciwwag –
+11. Ostrzegawcze światła nawigacyjne –
 8.2 Port morski w Świnoujściu
-1. Stacja transformatorowa z wyposażeniem WN/SN
-2. Stacja transformatorowa z wyposażeniem SN/SN
+1. Stacja transformatorowa z wyposażeniem WN/SN –
+2. Stacja transformatorowa z wyposażeniem SN/SN –
 3. Sieć przesyłowa i rozdzielcza wraz z wyposażeniem 26 493,00 SN
-4. Sieć przesyłowa i rozdzielcza wraz z wyposażeniem NN 54 262,00
-5. Słup oświetleniowy
-6. Wieża oświetleniowa
-7. Stacja paliw
-8. Gniazda
+4. Sieć przesyłowa i rozdzielcza wraz z wyposażeniem 54 262,00 NN
+5. Słup oświetleniowy –
+6. Wieża oświetleniowa –
+7. Stacja paliw –
+8. Gniazda –
 9. Oświetlenie zewnętrzne 9 454,00
-10. Studzienka
-11. Zbiorniki
-12. Ostrzegawcze światła nawigacyjne
+10. Studzienka –
+11. Zbiorniki –
+12. Ostrzegawcze światła nawigacyjne –
 13. Sieć przesyłowa i rozdzielcza wraz z wyposażeniem 5950,00 NN w porcie zewnętrznym
-14. Słup oświetleniowy w porcie zewnętrznym
-15. Sterownia Zintegrowanego Morskiego Systemu Bezpieczeństwa Nawigacyjnego w porcie zewnętrznym
+14. Słup oświetleniowy w porcie zewnętrznym –
+15. Sterownia Zintegrowanego Morskiego Systemu – Bezpieczeństwa Nawigacyjnego w porcie zewnętrznym
 9. INFRASTRUKTURA CIEPŁOWNICZA Lp. Nazwa Długość Liczba [m.b.]
 9.1 Port morski w Szczecinie
 1. Kanał ciepłowniczy 1 092,00
-2. Komin
-3. Kotłownia na paliwo ciekłe
-4. Kotłownia na paliwo stałe
-5. Węzeł ciepłowniczy z wyposażeniem
+2. Komin –
+3. Kotłownia na paliwo ciekłe –
+4. Kotłownia na paliwo stałe –
+5. Węzeł ciepłowniczy z wyposażeniem –
 6. Sieć gazowa 94,00
 7. Sieć przesyłowa i rozdzielcza z wyposażeniem 3 315,00
 9.2 Port morski w Świnoujściu
 1. Kanał ciepłowniczy 180,00
-2. Komin
-3. Kotłownia na paliwo gazowe
+2. Komin –
+3. Kotłownia na paliwo gazowe –
 4. Sieć gazowa 446,00
 5. Sieć przesyłowa i rozdzielcza z wyposażeniem 8 294,00
-6. Węzeł ciepłowniczy z wyposażeniem
-7. Zbiornik
+6. Węzeł ciepłowniczy z wyposażeniem –
+7. Zbiornik –
 10. INFRASTRUKTURA WODOCIĄGOWA Lp. Nazwa Długość Liczba [m.b.]
 10.1 Port morski w Szczecinie
 1. Sieć przesyłowa i rozdzielcza z wyposażeniem 29 150,00
-2. Stacja pomp
-3. Studnie wiercone
-4. Stacje redukcyjne ciśnienia
-5. Zbiornik zasobowy
+2. Stacja pomp –
+3. Studnie wiercone –
+4. Stacje redukcyjne ciśnienia –
+5. Zbiornik zasobowy –
 10.2 Port morski w Świnoujściu
 1. Sieć przesyłowa i rozdzielcza z wyposażeniem 14 412,00
-2. Ujęcie wody ze zbiornikiem zasobowym
-3. Hydrofornia
-4. Zbiornik wody pitnej
+2. Ujęcie wody ze zbiornikiem zasobowym –
+3. Hydrofornia –
+4. Zbiornik wody pitnej –
 11. INFRASTRUKTURA KANALIZACYJNA Lp. Nazwa Długość Liczba [m.b.] [szt.]
 11.1 Port morski w Szczecinie
-1. Neutralizator ścieków
-2. Oczyszczalnia ścieków
-3. Przepompownia ścieków
+1. Neutralizator ścieków –
+2. Oczyszczalnia ścieków –
+3. Przepompownia ścieków –
 4. Sieć kanalizacji deszczowej 31 258,00
-5. Urządzenie do oczyszczania ścieków deszczowych
+5. Urządzenie do oczyszczania ścieków deszczowych –
 6. Sieć kanalizacji ogólnospławnej 4 092,00
-7. Osadnik ścieków sanitarnych
+7. Osadnik ścieków sanitarnych –
 8. Sieć kanalizacji sanitarnej 8 063,90
-9. Zbiornik
+9. Zbiornik –
 11.2 Port morski w Świnoujściu
-1. Łapacz piasku
-2. Oczyszczalnia ścieków
-3. Przepompownie ścieków
+1. Łapacz piasku –
+2. Oczyszczalnia ścieków –
+3. Przepompownie ścieków –
 4. Przepust 178,00
 5. Sieć kanalizacji deszczowej 12 391,50
-6. Urządzenie do oczyszczania ścieków deszczowych
+6. Urządzenie do oczyszczania ścieków deszczowych –
 7. Sieć kanalizacji sanitarnej 10 332,00
 8. Sieć kanalizacji deszczowej w porcie zewnętrznym 233,50
-9. Urządzenia do oczyszczania ścieków deszczowych w porcie zewnętrznym
+9. Urządzenia do oczyszczania ścieków deszczowych – w porcie zewnętrznym
 12. INFRASTRUKTURA TELEKOMUNIKACYJNA I INFORMATYCZNA Lp. Nazwa Długość Liczba [m.b.] [szt.]
 12.1 Port morski w Szczecinie
-1. Centrala telefoniczna
+1. Centrala telefoniczna –
 2. Sieć teleinformatyczna 3 800 946,00
 3. Kanalizacja kablowa 14 000,00
-4. Serwer i urządzenie sieciowe
-5. Zintegrowany system cyfrowy wraz ze sprzętem komputerowym, wspomagający i koordynujący wykorzystywanie infrastruktury portowej oraz wymianę informacji w zakresie logistyki oraz obsługi statków i towarów, w tym towarów przewożonych w kontenerach
+4. Serwer i urządzenie sieciowe –
+5. Zintegrowany system cyfrowy wraz ze sprzętem komputerowym, wspomagający i koordynujący wykorzystywanie infrastruktury portowej oraz wymianę – informacji w zakresie logistyki oraz obsługi statków i towarów, w tym towarów przewożonych w kontenerach
 12.2 Port morski w Świnoujściu
-1. Centrala telefoniczna
+1. Centrala telefoniczna –
 2. Sieć teleinformatyczna 1 600 000,00
 3. Kanalizacja kablowa 18 800,00
-4. Serwer i urządzenie sieciowe
-5. Zintegrowany system bezpieczeństwa nawigacyjnego w porcie zewnętrznym
-6. Zintegrowany system cyfrowy wraz ze sprzętem komputerowym, wspomagający i koordynujący wykorzystywanie infrastruktury portowej oraz wymianę informacji w zakresie logistyki oraz obsługi statków i towarów, w tym także towarów przewożonych w kontenerach
+4. Serwer i urządzenie sieciowe –
+5. Zintegrowany system bezpieczeństwa nawigacyjnego – w porcie zewnętrznym
+6. Zintegrowany system cyfrowy wraz ze sprzętem komputerowym, wspomagający i koordynujący wykorzystywanie infrastruktury portowej oraz wymianę – informacji w zakresie logistyki oraz obsługi statków i towarów, w tym także towarów przewożonych w kontenerach
 13. INFRASTRUKTURA OCHRONY PRZECIWPOŻAROWEJ Lp. Nazwa Długość Liczba [m.b.] [szt.]
 13.1 Port morski w Szczecinie
-1. Strażnica lądowych jednostek portowej straży pożarnej
+1. Strażnica lądowych jednostek portowej straży pożarnej –
 13.2 Port morski w Świnoujściu
-1. Pompownie przeciwpożarowe z wyposażeniem
+1. Pompownie przeciwpożarowe z wyposażeniem –
 2. Sieci rurociągów zasilających 4 024,00
 

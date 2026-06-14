@@ -8,10 +8,10 @@ pos: 1670
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, w sprawie maksymalnych wartości i funkcjonowania Na podstawie art. 59 ust. 3 ustawy z dnia kogeneracji (Dz. U. z 2019 r. poz. 42 i 412) zarządza § 1. Maksymalna wartość kosztów inwestycyjnych dla jednostki:
+# RZECZYPOSPOLITEJ w sprawie maksymalnych wartości i funkcjonowania Na podstawie art. 59 ust. 3 ustawy z dnia kogeneracji (Dz. U. z 2019 r. poz. 42 i 412) zarządza
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001670) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1670/text.pdf) |
 
+§ 1. Maksymalna wartość kosztów inwestycyjnych dla jednostki:
 1) opalanej paliwami gazowymi, o mocy zainstalowanej
 a) nie większej niż 1 MW – 6 100 000
 b) większej niż 1 MW i nie większej niż
@@ -43,7 +44,8 @@ c) większej niż 150 MW i nie większej
 d) większej niż 250 MW – 9 500 000
 4) innej niż wymienione w pkt 1–3, o mocy
 a) nie większej niż 1 MW – 6 100 000
-b) większej niż 1 MW i nie większej niż Dziennik Ustaw § 2. Maksymalna wartość kosztów operacyjnych dla jednostki:
+b) większej niż 1 MW i nie większej niż
+§ 2. Maksymalna wartość kosztów operacyjnych dla jednostki:
 1) opalanej paliwami gazowymi, o mocy zainstalowanej
 a) nie większej niż 1 MW – 300 000 zł/MW/rok,
 b) większej niż 1 MW i nie większej niż
@@ -62,5 +64,6 @@ c) większej niż 150 MW i nie większej
 d) większej niż 250 MW – 220 000 zł/MW/rok;
 4) innej niż wymienione w pkt 1–3, o mocy
 a) nie większej niż 1 MW – 300 000 zł/MW/rok,
-b) większej niż 1 MW i nie większej niż § 3. Rozporządzenie wchodzi w życie po
+b) większej niż 1 MW i nie większej niż
+§ 3. Rozporządzenie wchodzi w życie po
 

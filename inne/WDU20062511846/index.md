@@ -8,7 +8,7 @@ pos: 1846
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych

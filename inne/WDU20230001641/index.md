@@ -8,10 +8,12 @@ pos: 1641
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+# o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+
+*USTAWA z dnia 13 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,37 +29,113 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273, 1407 i 1429) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195 i 1234) art. 39 po 1a dodaje się 1aa brzmieniu: „1aa. W razie utworzenia ministerstwa Prezes Rady Ministrów może określić, drodze zarządzenia, przeznaczenie składników majątkowych będących posiadaniu Kancelarii Prezesa Rady Ministrów. Wydając zarządzenie, Prezes Rady Ministrów uwzględnia potrzebę zapewnienia składników majątkowych do realizacji zadań przez utworzone ministerstwo.”.
+- **1)** po art. 112a dodaje się art. 112a w brzmieniu: „Art. 112a . 1. W przypadku gdy najbardziej aktualne prognozy Komisji Europejskiej przewidują, że:
+- **1)** wartość relacji wyniku nominalnego sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską do produktu krajowego brutto w roku n-1 lub roku n, o których mowa w art. 112aa ust. 1, jest niższa niż −3%, lub
+- **2)** wartość relacji długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską do produktu krajowego brutto w roku n-1 lub w roku n, o których mowa w art. 112aa ust. 1, jest wyższa niż 60% − Rada Ministrów uchwala projekt ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, w którym uwzględnia w kwocie wydatków, o której mowa w art. 112aa ust. 1, dostosowanie fiskalne, które wynosi co najmniej 0,5 punktu procentowego produktu krajowego brutto.
+
+2. Dostosowanie fiskalne może być niższe niż 0,5 punktu procentowego produktu krajowego brutto, jeżeli wynika to z zaleceń Rady Unii Europejskiej wydanych na podstawie art. 121 ust. 2 lub 4 lub art. 126 ust. 7 Traktatu o funkcjonowaniu Unii Europejskiej.”;
+
+- **2)** w art. 112aa:
+    - **a)** w ust. 1: − wzór WYD otrzymuje brzmienie: „𝑊𝑌𝐷 = 𝑊𝑌𝐷 ∙𝐸 (𝐶𝑃𝐼 )∙𝑊𝑃𝐾𝐵 + 𝐾 +𝐸 (𝛥𝐷𝐷 )”, − w objaśnieniu do symbolu 𝐸 (𝛥𝐷𝐷 ) po wyrazach „przekroczenia przez każde z nich 0,03% wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi” dodaje się wyrazy „ , przy czym rok n nie jest wcześniejszy niż rok 2024”,
+    - **b)** w ust. 3 w części wspólnej po wyrazach „w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi” dodaje się wyrazy „ , oraz o wartość klauzuli obronnej, o której mowa w ust. 4a”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Wielkość korekty kwoty wydatków K , o której mowa w ust. 1:
+
+- **1)** w przypadku gdy prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 1, przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n, o którym mowa w ust. 1, nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB , o którym mowa w ust. 1 – jest obliczana według wzoru: 𝐾 = −𝐷𝐹 ∙𝐸 (𝑃𝐾𝐵 ) w którym poszczególne symbole oznaczają: DF – dostosowanie fiskalne w wielkości, o której mowa w art. 112a ust. 1 albo 2, E (PKB ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 1, przedłożonego Sejmowi produkt krajowy brutto w cenach bieżących w roku n, o którym mowa w ust. 1;
+- **2)** w przypadkach innych niż określone w pkt 1 – wynosi 0.”,
+    - **d)** po ust. 4 dodaje się ust. 4a–4d w brzmieniu: „4a. Wartość klauzuli obronnej jest równa sumie:
+
+- **1)** różnicy pomiędzy planowanymi wydatkami na zakup sprzętu wojskowego w roku n, o którym mowa w ust. 1, a wartością dostaw sprzętu wojskowego planowanych do otrzymania w roku n, o którym mowa w ust. 1;
+- **2)** różnicy pomiędzy wykonanymi wydatkami na zakup sprzętu wojskowego w roku n-2, o którym mowa w ust. 1, a wartością dokonanych dostaw sprzętu wojskowego w roku n-2, o którym mowa w ust. 1;
+- **3)** różnicy pomiędzy wartością planowanych na rok n-2, o którym mowa w ust. 1, dostaw sprzętu wojskowego, a planowanymi na rok n-2, o którym mowa w ust. 1, wydatkami na zakup sprzętu wojskowego, uwzględnionej w klauzuli obronnej zawartej w uzasadnieniu projektu ustawy budżetowej na rok n-2, o którym mowa w ust. 1, przedłożonego Sejmowi.
+
+4b. Minister Obrony Narodowej przekazuje Ministrowi Finansów dane dotyczące wartości:
+
+- **1)** planowanych wydatków na zakup sprzętu wojskowego w roku n, o którym mowa w ust. 1, oraz wykonanych wydatków na zakup sprzętu wojskowego w roku n-2, o którym mowa w ust. 1;
+- **2)** dostaw sprzętu wojskowego planowanych do otrzymania w roku n, o którym mowa w ust. 1, oraz dokonanych dostaw sprzętu wojskowego w roku n-2, o którym mowa w ust. 1.
+
+4c. Wartości planowanych i wykonanych wydatków oraz planowanych i dokonanych dostaw, o których mowa w ust. 4b, ustala się zgodnie z zasadami ustalania danych, o których mowa w art. 3 ust. 2 lit. c rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską, w zakresie wydatków militarnych.
+
+4d. Wartość klauzuli obronnej, o której mowa w ust. 4a, jest obliczana na podstawie danych, o których mowa w ust. 4b, przekazanych Ministrowi Finansów przez Ministra Obrony Narodowej w terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej. Do czasu przyjęcia przez Radę Ministrów projektu ustawy budżetowej, w przypadku zaistnienia zmian mających wpływ na wartość klauzuli obronnej, Minister Obrony Narodowej jest obowiązany przekazać niezwłocznie zmienione dane. Minister Obrony Narodowej przekazuje dane w formacie, o którym mowa w art. 8 ust. 2 rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską.”,
+
+- **e)** uchyla się ust. 5;
+- **3)** w art.112d uchyla się ust. 8;
+- **4)** w art. 140:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W projekcie ustawy budżetowej planuje się rezerwę ogólną nie wyższą niż 0,2% wydatków budżetu.”,
+    - **b)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „W projekcie ustawy budżetowej mogą zostać zaplanowane rezerwy celowe:”, – pkt 1 otrzymuje brzmienie: „1) na wydatki, których określenie wysokości lub szczegółowy podział na pozycje klasyfikacji budżetowej nie jest możliwy do dokonania w okresie opracowywania projektu ustawy budżetowej;”, – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) na wydatki związane z przeciwdziałaniem chorobie zakaźnej wywołanej wirusem SARS-CoV-2 (COVID-19) lub na rzecz pomocy Ukrainie w związku z konfliktem zbrojnym na terytorium tego kraju;”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. W częściach budżetu państwa, których dysponentami są poszczególni wojewodowie, może być tworzona rezerwa w wysokości do 2% planowanych wydatków. Przy ustalaniu wysokości rezerwy nie uwzględnia się dotacji planowanych dla jednostek samorządu terytorialnego.”,
+    - **d)** dodaje się ust. 5 i 6 w brzmieniu: „5. W rezerwie, o której mowa w ust. 4, mogą być planowane wydatki na wynagrodzenia z tytułu odpraw emerytalnych i odpraw w związku z przejściem na rentę z tytułu niezdolności do pracy.
+
+6. Środki na wydatki, o których mowa w ust. 5, planuje się w ramach ogólnej kwoty wynagrodzeń dla części budżetu państwa, których dysponentami są poszczególni wojewodowie, ustalanej w ustawie budżetowej zgodnie z art. 9 ust. 1 pkt 4 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2022 r. poz. 1533 i 2666).”;
+
+- **5)** w art. 142:
+    - **a)** w ust. 1 pkt 6b otrzymuje brzmienie: „6b) informacje o wielkości wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto, wielkości korekty kwoty wydatków, o której mowa w art. 112aa ust. 1, wartości klauzuli obronnej, o której mowa w art. 112aa ust. 4a, różnicach, o których mowa w art. 112aa ust. 4a pkt 1–3, każdym dyskrecjonalnym działaniu przekraczającym 0,03% wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1, aktualizacji wartości działań dyskrecjonalnych, o których mowa w art. 112aa ust. 1, oraz o każdym jednorazowym i tymczasowym działaniu po stronie dochodów przekraczającym 0,03% wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 3;”,
+    - **b)** uchyla się ust. 3;
+
+- **6)** w art. 182:
+    - **a)** w ust. 4: – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) informację o różnicy pomiędzy wykonanymi wydatkami na zakup sprzętu wojskowego a wartością dokonanych dostaw sprzętu wojskowego.”, – uchyla się pkt 7,
+    - **b)** ust. 4a otrzymuje brzmienie: „4a. W roku s, o którym mowa w art. 112d ust. 3, do sprawozdania nie dołącza się informacji, o których mowa w ust. 4 pkt 6 i 6a.”,
+    - **c)** uchyla się ust. 4b.
+
+**Art. 2.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195 i 1234) w art. 39 po ust. 1a dodaje się ust. 1aa w brzmieniu: „1aa. W razie utworzenia ministerstwa Prezes Rady Ministrów może określić, w drodze zarządzenia, przeznaczenie składników majątkowych będących w posiadaniu Kancelarii Prezesa Rady Ministrów. Wydając zarządzenie, Prezes Rady Ministrów uwzględnia potrzebę zapewnienia składników majątkowych do realizacji zadań przez utworzone ministerstwo.”.
 
 **Art. 3.** W ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2023 r. poz. 388) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ) po art. 65 dodaje się art. 65a brzmieniu: „Art. 65a. 1. W budżecie państwa tworzy się rezerwę celową z przeznaczeniem na wpłatę, o której mowa art. 65 4 pkt 3. 2. Wysokość rezerwy, o której mowa 1, jest ustalana corocznie ustawie budżetowej.”.
+- **1)** w art. 9:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Świadczenie pieniężne przyznaje się miesięcznie w wysokości najniższej emerytury ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251 i 1429), zwanej dalej „najniższą emeryturą”.”,
+    - **b)** uchyla się ust. 2 i 3;
 
-**Art. 5.** W ustawie z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2023 r. poz. 406) użyte art. 85a we wprowadzeniu do wyliczenia, art. 85b 1 zdaniu pierwszym i drugim, 2 i 4 oraz art. 87 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
+- **2)** w art. 10 w ust. 4 w pkt 1 skreśla się wyrazy „ , ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504, 1504 i 2461), zwanej dalej „najniższą emeryturą” ”.
 
-**Art. 6.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2023 r. poz. 103, z późn. zm. ) po art. 14a dodaje się art. 14b brzmieniu: „Art. 14b. 1. W budżecie państwa tworzy się rezerwę celową z przeznaczeniem na wpłatę, o której mowa art. 14 5 pkt 3. 2. Wysokość rezerwy, o której mowa 1, jest ustalana corocznie ustawie budżetowej.”. wynosi 0. 3. Dane do projektu ustawy budżetowej na rok 2024, o których mowa art. 112aa 4a pkt 1 ustawy zmienianej art. 1, Minister Obrony Narodowej przekazuje ministrowi właściwemu do spraw budżetu dniu następującym po dniu wejścia życie niniejszej ustawy, a za zgodą ministra właściwego do spraw budżetu – terminie późniejszym.
+**Art. 4.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ) po art. 65 dodaje się art. 65a w brzmieniu: „Art. 65a. 1. W budżecie państwa tworzy się rezerwę celową z przeznaczeniem na wpłatę, o której mowa w art. 65 ust. 4 pkt 3. 2. Wysokość rezerwy, o której mowa w ust. 1, jest ustalana corocznie w ustawie budżetowej.”.
+
+**Art. 5.** W ustawie z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2023 r. poz. 406) użyte w art. 85a we wprowadzeniu do wyliczenia, w art. 85b w ust. 1 w zdaniu pierwszym i drugim, w ust. 2 i 4 oraz w art. 87 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
+
+**Art. 6.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2023 r. poz. 103, z późn. zm. ) po art. 14a dodaje się art. 14b w brzmieniu: „Art. 14b. 1. W budżecie państwa tworzy się rezerwę celową z przeznaczeniem na wpłatę, o której mowa w art. 14 ust. 5 pkt 3. 2. Wysokość rezerwy, o której mowa w ust. 1, jest ustalana corocznie w ustawie budżetowej.”.
+
+**Art. 7.**
+
+1. Przepisy art. 112a , art. 112aa oraz art. 142 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektu ustawy budżetowej na rok 2024.
+
+2. W projektach ustaw budżetowych na lata 2024 i 2025 przyjmuje się, że różnica, o której mowa w art. 112aa ust. 4a pkt 2 i 3 ustawy zmienianej w art. 1, wynosi 0.
+
+3. Dane do projektu ustawy budżetowej na rok 2024, o których mowa w art. 112aa ust. 4a pkt 1 ustawy zmienianej w art. 1, Minister Obrony Narodowej przekazuje ministrowi właściwemu do spraw budżetu w dniu następującym po dniu wejścia w życie niniejszej ustawy, a za zgodą ministra właściwego do spraw budżetu – w terminie późniejszym.
 
 **Art. 8.**
 
-1. Przepis art. 182 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do sprawozdania z wykonania ustawy budżetowej na rok 2024.
+1. Przepis art. 182 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do sprawozdania z wykonania ustawy budżetowej na rok 2024.
 
-2. Do sprawozdania z wykonania ustawy budżetowej na rok 2023 stosuje się przepisy ustawy zmienianej art. 1, brzmieniu dotychczasowym.
+2. Do sprawozdania z wykonania ustawy budżetowej na rok 2023 stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
-3. Do sprawozdania z wykonania ustawy budżetowej na rok 2023 dołącza się informację o realizacji kwoty wydatków, o której mowa art. 1 3 ustawy budżetowej na rok 2023 z dnia 15 grudnia 2022 r. (Dz. U. z 2023 r. poz. 256), powiększonej o:
+3. Do sprawozdania z wykonania ustawy budżetowej na rok 2023 dołącza się informację o realizacji kwoty wydatków, o której mowa w art. 1 ust. 3 ustawy budżetowej na rok 2023 z dnia 15 grudnia 2022 r. (Dz. U. z 2023 r. poz. 256), powiększonej o:
 
 - **1)** zrealizowane:
-    - **a)** wydatki budżetu państwa, o których mowa art. 124 4 ustawy zmienianej art. 1, oraz zrealizowane wydatki inwestycyjne z przeznaczeniem na realizację programów finansowanych z udziałem środków, o których mowa art. 5 1 pkt 2 ustawy zmienianej art. 1,
-    - **b)** wydatki inwestycyjne państwowych funduszy celowych lub funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw – z wyłączeniem wydatków na zakup i objęcie akcji i udziałów oraz wpłat organów i jednostek, o których mowa art. 112aa 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, na rachunek państwowego
+    - **a)** wydatki budżetu państwa, o których mowa w art. 124 ust. 4 ustawy zmienianej w art. 1, oraz zrealizowane wydatki inwestycyjne z przeznaczeniem na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy zmienianej w art. 1,
+    - **b)** wydatki inwestycyjne państwowych funduszy celowych lub funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw – z wyłączeniem wydatków na zakup i objęcie akcji i udziałów oraz wpłat organów i jednostek, o których mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rachunek państwowego funduszu celowego na finansowanie lub dofinansowanie zadań inwestycyjnych;
 
-4. W przypadku, o którym mowa 3 pkt 1, przepisy art. 112aa 2–2b ustawy zmienianej art. 1 stosuje się odpowiednio.
+- **2)** zrealizowaną kwotę wydatków jednostek samorządu terytorialnego oraz ich związków i związków metropolitalnych, o których mowa w art. 236 ust. 4 pkt 1 ustawy zmienianej w art. 1.
 
-**Art. 9.** Do obliczenia kwoty wydatków WYD , o której mowa art. 112aa 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, na rok budżetowy 2024 przyjmuje się:
+4. W przypadku, o którym mowa w ust. 3 pkt 1, przepisy art. 112aa ust. 2–2b ustawy zmienianej w art. 1 stosuje się odpowiednio.
+
+**Art. 9.** Do obliczenia kwoty wydatków WYD , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rok budżetowy 2024 przyjmuje się:
+
+- **1)** kwotę wydatków WYD , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, równą 1 568 249 360 tys. zł;
+- **2)** dostosowanie fiskalne, o którym mowa w art.112a ust. 1 ustawy zmienianej w art. 1, które wynosi 1,2 punktu procentowego produktu krajowego brutto, chyba że z zalecenia Rady Unii Europejskiej wydanego na podstawie art. 121 ust. 2 lub art. 126 ust. 7 Traktatu o funkcjonowaniu Unii Europejskiej wynika mniejsze ograniczenie tempa wzrostu wydatków.
 
 **Art. 10.** (uchylony)
 
 **Art. 11.** (uchylony)
 
-**Art. 12.** W projekcie ustawy budżetowej na rok 2024 oraz projekcie ustawy zmieniającej ustawę budżetową na rok 2024, przypadku zmiany ustawy budżetowej zakresie, o którym mowa art. 110 1 pkt 2a ustawy zmienianej art. 1, prognozowanej wartości ogółem działań dyskrecjonalnych, o których mowa art. 112aa 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, uwzględnia się:
+**Art. 12.** W projekcie ustawy budżetowej na rok 2024 oraz w projekcie ustawy zmieniającej ustawę budżetową na rok 2024, w przypadku zmiany ustawy budżetowej w zakresie, o którym mowa w art. 110 ust. 1 pkt 2a ustawy zmienianej w art. 1, w prognozowanej wartości ogółem działań dyskrecjonalnych, o których mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, uwzględnia się:
 
-**Art. 13.** Zmiana wysokości przyznanego świadczenia pieniężnego wynikająca z art. 9 1 ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, jest dokonywana z urzędu i nie wymaga wydania decyzji.
+- **1)** wprowadzenie w roku 2023 gazowego odpisu na Fundusz Wypłaty Różnicy Ceny, o którym mowa w art. 2 pkt 4 ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu (Dz. U. poz. 2687 oraz z 2023 r. poz. 295, 556 i 1234), oraz odpisu na Fundusz, o którym mowa w art. 2 pkt 10 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku (Dz. U. poz. 2243 i 2687 oraz z 2023 r. poz. 295 i 1113) – w zakresie wartości środków należnych w styczniu 2024 r.,
+- **2)** indeksację od dnia 1 stycznia 2024 r. stawek podatku akcyzowego na alkohol etylowy, piwo, wino, napoje fermentowane oraz wyroby pośrednie, wyroby tytoniowe, susz tytoniowy i wyroby nowatorskie,
+- **3)** obniżenie w roku 2023 stawki podatku od towarów i usług na podstawowe produkty żywnościowe – w zakresie wpływu na dochody podatkowe w styczniu 2024 r.,
+- **4)** odwieszenie od dnia 1 stycznia 2024 r. stosowania minimalnego podatku dochodowego od osób prawnych,
+- **5)** wydłużenie okresu ustalania podstawy wymiaru składek na ubezpieczenia społeczne dla ubezpieczonego ustalającego podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe na zasadach określonych w art. 18c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230 i 1429),
+- **6)** działania wynikające z projektów ustaw przyjętych przez Radę Ministrów od dnia wejścia w życie niniejszej ustawy lub ustaw uchwalonych przez Sejm od tego dnia,
+- **7)** w uzasadnionych przypadkach – działania wynikające z projektów ustaw innych niż wskazane w pkt 6, nad którymi zostały podjęte prace od dnia wejścia w życie niniejszej ustawy, oraz projektów aktów wykonawczych będących przedmiotem uzgodnień – jeżeli wartość każdego z nich w okresie 12 kolejnych miesięcy, począwszy od miesiąca wejścia w życie działania dyskrecjonalnego przekracza 0,03% wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przedłożonego Sejmowi.
+
+**Art. 13.** Zmiana wysokości przyznanego świadczenia pieniężnego wynikająca z art. 9 ust. 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jest dokonywana z urzędu i nie wymaga wydania decyzji.
+
+**Art. 14.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 3 i art. 13, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
 

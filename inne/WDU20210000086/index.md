@@ -8,10 +8,10 @@ pos: 86
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 stycznia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 86 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 8 stycznia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/86/text.pdf) |
 
-Poz. 86 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 8 stycznia 2021 r.
-zmieniające rozporządzenie w sprawie kontroli ruchu drogowego Na podstawie art. 131 ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 listopada 2019 r. w sprawie kontroli ruchu drogowego (Dz. U. poz. 2141) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie kontroli ruchu drogowego Na podstawie art. 131 ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 listopada 2019 r. w sprawie kontroli ruchu drogowego (Dz. U. poz. 2141) wprowadza się następujące zmiany:
 1) w § 17:
 a) w ust. 1 zdanie drugie otrzymuje brzmienie: „W takim przypadku weryfikacja danych o pojeździe następuje na podstawie dokumentu stwierdzającego dopuszczenie pojazdu do ruchu, a weryfikacja danych o obowiązkowym ubezpieczeniu odpowiedzialności cywilnej posiadacza pojazdu może nastąpić na podstawie dokumentów okazanych przez kierującego pojazdem lub po skontaktowaniu się za pośrednictwem środków łączności z organem, który pojazd zarejestrował.”,
 b) uchyla się ust. 2 i 3;

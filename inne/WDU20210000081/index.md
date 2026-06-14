@@ -8,10 +8,10 @@ pos: 81
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 stycznia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 81 OBWIESZCZENIE MINISTRA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU z dnia 26 listopada 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000081) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/81/text.pdf) |
 
-OBWIESZCZENIE MINISTRA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU z dnia 26 listopada 2020 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dziedzictwa Narodowego w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 2 sierpnia 2018 r. w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków (Dz. U. poz. 1609), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 28 sierpnia 2019 r. zmieniającym rozporządzenie w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków (Dz. U. poz. 1721).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 28 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków (Dz. U. poz. 1721), które stanowią: „§ 2. Do spraw o wydanie pozwolenia na prowadzenie badań archeologicznych wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 2 sierpnia 2018 r.
 w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków Na podstawie art. 37 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2020 r.
-poz. 282, 782 i 1378) zarządza się, co następuje: § 1. 1. Rozporządzenie określa tryb wydawania pozwoleń na:
+poz. 282, 782 i 1378) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa tryb wydawania pozwoleń na:
 1) prowadzenie:
 a) prac konserwatorskich przy zabytku wpisanym do rejestru zabytków,
 b) prac konserwatorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa,
@@ -136,10 +136,10 @@ b) do których jednostki pływające, o których mowa w pkt 2, wpłyną po zako�
 1) program prowadzenia badań archeologicznych;
 2) dokument potwierdzający posiadanie przez wnioskodawcę tytułu prawnego do korzystania z nieruchomości, uprawniającego do występowania z tym wnioskiem, a w przypadku gdy z wnioskiem występuje podmiot zamierzający prowadzić te badania, zgodę właściciela lub posiadacza nieruchomości na ich prowadzenie albo oświadczenie, że właściciel lub posiadacz tej zgody nie udzielił;
 3) zgodę dyrektora parku narodowego albo regionalnego dyrektora ochrony środowiska, w przypadku prowadzenia badań archeologicznych odpowiednio na terenie parku narodowego albo rezerwatu przyrody;
-4) mapę topograficzną w skali 1:10 000 lub większej lub prezentację kartograficzną bazy danych obiektów topograficznych (BDOT10k), o której mowa w art. 4 ust. 1a pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 2052), umożliwiające lokalizację nieruchomego zabytku archeologicznego, a w odniesieniu do polskich obszarów morskich, morską mapę nawigacyjną, z zaznaczonym miejscem planowanych badań archeologicznych;
+4) mapę topograficzną w skali 1:10 000 lub większej lub prezentację kartograficzną bazy danych obiektów topograficznych (BDOT10k), o której mowa w art. 4 ust. 1a pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 2052), umożliwiające lokalizację nieruchomego zabytku archeologicznego, a w odniesieniu do polskich obszarów morskich, morską mapę nawigacyjną, z zaznaczonym miejscem planowanych badań archeologicznych;
 5) plan z naniesionymi miejscami dotychczasowych i planowanych badań archeologicznych w nawiązaniu do punktów osnowy geodezyjnej poziomej i wysokościowej w skali:
 a) 1:500, jeżeli badania archeologiczne będą prowadzone na terenie o powierzchni do 10 000 m , albo
-b) 1:1000, jeżeli badania archeologiczne będą prowadzone na terenie o powierzchni większej niż 10 000 m w przypadku badań archeologicznych, które nie będą prowadzone na polskich obszarach morskich;
+b) 1:1000, jeżeli badania archeologiczne będą prowadzone na terenie o powierzchni większej niż 10 000 m – w przypadku badań archeologicznych, które nie będą prowadzone na polskich obszarach morskich;
 6) plan batymetryczny z naniesionymi miejscami dotychczasowych i planowanych badań archeologicznych oraz dostępną dokumentację hydroakustyczną akwenu objętego planem, w przypadku badań archeologicznych, które będą prowadzone na polskich obszarach morskich;
 7) dokument potwierdzający gotowość muzeum lub innej jednostki organizacyjnej do przyjęcia zabytków archeologicznych odkrytych w trakcie prowadzenia badań archeologicznych;
 8) opis sposobu uporządkowania terenu po zakończeniu badań archeologicznych.
@@ -158,7 +158,7 @@ b) do których jednostki pływające, o których mowa w pkt 2, wpłyną po zako�
 1) program poszukiwania zabytków określający zakres i sposób prowadzenia poszukiwań zabytków;
 2) dokument potwierdzający posiadanie przez wnioskodawcę tytułu prawnego do korzystania z nieruchomości, uprawniającego do występowania z tym wnioskiem, a w przypadku gdy z wnioskiem występuje podmiot zamierzający prowadzić te poszukiwania, zgodę właściciela lub posiadacza nieruchomości na ich prowadzenie albo oświadczenie, że właściciel lub posiadacz tej zgody nie udzielił;
 3) zgodę dyrektora parku narodowego albo regionalnego dyrektora ochrony środowiska, w przypadku poszukiwania zabytków odpowiednio na terenie parku narodowego albo rezerwatu przyrody;
-4) mapę topograficzną w skali 1:10 000 lub większej lub prezentację kartograficzną bazy danych obiektów topograficznych (BDOT10k), o której mowa w art. 4 ust. 1a pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, a w odniesieniu do polskich obszarów morskich, morską mapę nawigacyjną z zaznaczonym obszarem planowanych poszukiwań zabytków.
+4) mapę topograficzną w skali 1:10 000 lub większej lub prezentację kartograficzną bazy danych obiektów topograficznych (BDOT10k), o której mowa w art. 4 ust. 1a pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, a w odniesieniu do polskich obszarów morskich, morską mapę nawigacyjną z zaznaczonym obszarem planowanych poszukiwań zabytków.
 § 11. 1. Wniosek o wydanie pozwolenia na wykonywanie robót budowlanych w otoczeniu zabytku zawiera:
 1) imię, nazwisko i adres lub nazwę, siedzibę i adres wnioskodawcy;
 2) wskazanie miejsca planowanych robót budowlanych w otoczeniu zabytku;
@@ -291,7 +291,7 @@ b) do których jednostki pływające, o których mowa w pkt 2, wpłyną po zako�
 12) uporządkowania terenu po zakończeniu badań archeologicznych;
 13) dokonywania odbioru częściowego i końcowego wykonanych badań archeologicznych z udziałem wojewódzkiego konserwatora zabytków;
 14) podjęcia innych działań, które zapobiegną uszkodzeniu lub zniszczeniu zabytku, a w odniesieniu do pozwolenia dotyczącego polskich obszarów morskich, zapewnią bezpieczeństwo żeglugi.
-4. Załącznik do pozwolenia, o którym mowa w ust. 1, stanowi mapa topograficzna w skali 1:10 000 lub większej lub prezentacja kartograficzna bazy danych obiektów topograficznych (BDOT10k), o której mowa w art. 4 ust. 1a pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, a w odniesieniu do polskich obszarów morskich, morska mapa nawigacyjna, z zaznaczonym miejscem prowadzenia badań archeologicznych.
+4. Załącznik do pozwolenia, o którym mowa w ust. 1, stanowi mapa topograficzna w skali 1:10 000 lub większej lub prezentacja kartograficzna bazy danych obiektów topograficznych (BDOT10k), o której mowa w art. 4 ust. 1a pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, a w odniesieniu do polskich obszarów morskich, morska mapa nawigacyjna, z zaznaczonym miejscem prowadzenia badań archeologicznych.
 § 19. 1. Pozwolenie na poszukiwanie zabytków zawiera:
 1) imię, nazwisko i adres lub nazwę, siedzibę i adres wnioskodawcy;
 2) wskazanie miejsca poszukiwania zabytków z określeniem współrzędnych geodezyjnych lub geograficznych z dokładnością do jednej setnej sekundy dla punktów załamań obszaru poszukiwań lub nazwę albo numer obrębu ewidencyjnego z numerami działek ewidencyjnych, a w odniesieniu do polskich obszarów morskich, współrzędnych geocentrycznych geodezyjnych naniesionych na morską mapę nawigacyjną;
@@ -311,7 +311,7 @@ b) do których jednostki pływające, o których mowa w pkt 2, wpłyną po zako�
 1) zawiadomienia wojewódzkiego konserwatora zabytków, a w przypadku poszukiwania zabytków na polskich obszarach morskich, również dyrektora urzędu morskiego, o terminie podjęcia określonych czynności związanych z wydanym pozwoleniem, przynajmniej 3 dni przed rozpoczęciem tych czynności;
 2) niezwłocznego zawiadomienia wojewódzkiego konserwatora zabytków albo dyrektora urzędu morskiego o wszelkich zagrożeniach lub nowych okolicznościach ujawnionych w trakcie prowadzenia wskazanych w pozwoleniu poszukiwań.
 4. Pozwolenie, o którym mowa w ust. 1, może określać warunek polegający na zakazie prowadzenia poszukiwań zabytków w miejscach wyznaczonych przez wojewódzkiego konserwatora zabytków albo dyrektora urzędu morskiego ze względu na ochronę zabytków archeologicznych (strefa zakazu prowadzenia poszukiwań).
-5. Załącznik do pozwolenia, o którym mowa w ust. 1, stanowi mapa topograficzna w skali 1:10 000 lub większej lub prezentacja kartograficzna bazy danych obiektów topograficznych (BDOT10k), o której mowa w art. 4 ust. 1a pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, a w odniesieniu do polskich obszarów morskich, morska mapa nawigacyjna, z zaznaczonym obszarem prowadzenia poszukiwań. W przypadku, o którym mowa w ust. 4, w załączniku do pozwolenia w granicach obszaru prowadzenia poszukiwań wyznacza się strefy zakazu prowadzenia poszukiwań.
+5. Załącznik do pozwolenia, o którym mowa w ust. 1, stanowi mapa topograficzna w skali 1:10 000 lub większej lub prezentacja kartograficzna bazy danych obiektów topograficznych (BDOT10k), o której mowa w art. 4 ust. 1a pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, a w odniesieniu do polskich obszarów morskich, morska mapa nawigacyjna, z zaznaczonym obszarem prowadzenia poszukiwań. W przypadku, o którym mowa w ust. 4, w załączniku do pozwolenia w granicach obszaru prowadzenia poszukiwań wyznacza się strefy zakazu prowadzenia poszukiwań.
 § 20. 1. Pozwolenie na wykonywanie robót budowlanych w otoczeniu zabytku zawiera:
 1) imię, nazwisko i adres lub nazwę, siedzibę i adres wnioskodawcy;
 2) wskazanie miejsca planowanych robót budowlanych w otoczeniu zabytku;
@@ -383,5 +383,5 @@ e) dokumentacji fotograficznej;
 11) graficznego przedstawienia rozplanowania odkrytych zabytków i warstw kulturowych z zaznaczoną siatką i oznaczeniem ich chronologii;
 12) planu warstwicowego zabytku z naniesioną siatką arową nawiązującą do osnowy geodezyjnej i planem wykopów;
 13) bibliografii oraz informacji o miejscu przechowywania dokumentacji wcześniej przeprowadzonych badań, jeżeli badania takie zostały przeprowadzone.
-2. Dokumentacja badań archeologicznych zawiera imię, nazwisko i adres osoby lub nazwę, siedzibę i adres jednostki organizacyjnej, która sporządziła dokumentację, oraz imię, nazwisko i adres lub nazwę, siedzibę i adres właściciela lub posiadacza zabytku, a także o ile jest to możliwe imię i nazwisko autora zabytku.
+2. Dokumentacja badań archeologicznych zawiera imię, nazwisko i adres osoby lub nazwę, siedzibę i adres jednostki organizacyjnej, która sporządziła dokumentację, oraz imię, nazwisko i adres lub nazwę, siedzibę i adres właściciela lub posiadacza zabytku, a także o ile jest to możliwe – imię i nazwisko autora zabytku.
 

@@ -19,6 +19,7 @@ saos_id|date|court|case_number|type|score|saos_url
 90448|2009-06-16|SN|V CZ 25/09|Postanowienie|69|https://www.saos.org.pl/judgments/90448
 85876|2007-05-16|SN|III CSK 75/07|Postanowienie|69|https://www.saos.org.pl/judgments/85876
 81820|2003-01-21|SN|III CZP 84/02|Postanowienie|69|https://www.saos.org.pl/judgments/81820
+545991|2025-04-09|SO|I ACa 2779/23|Wyrok|56|https://www.saos.org.pl/judgments/545991
 517182|2023-09-22|SO|I ACa 1586/21|Wyrok|56|https://www.saos.org.pl/judgments/517182
 509797|2023-06-29|SO|V ACa 455/21|Wyrok|56|https://www.saos.org.pl/judgments/509797
 475223|2022-03-25|SO|V AGa 246/20|Wyrok|56|https://www.saos.org.pl/judgments/475223
@@ -51,6 +52,8 @@ saos_id|date|court|case_number|type|score|saos_url
 13318|2013-02-22|SO|I ACa 857/12|Wyrok|56|https://www.saos.org.pl/judgments/13318
 3843|2012-09-20|SO|I ACa 251/12|Wyrok|56|https://www.saos.org.pl/judgments/3843
 7080|2012-09-13|SO|I ACa 78/12|Wyrok|56|https://www.saos.org.pl/judgments/7080
+546012|2025-04-18|SO|I ACz 2243/24|Postanowienie|47|https://www.saos.org.pl/judgments/546012
+546011|2025-03-19|SO|I ACz 2073/24|Postanowienie|47|https://www.saos.org.pl/judgments/546011
 534713|2025-02-12|SO|III AUz 6/25|Postanowienie|47|https://www.saos.org.pl/judgments/534713
 525234|2024-08-13|SO|V ACz 103/24|Postanowienie|47|https://www.saos.org.pl/judgments/525234
 523071|2023-10-30|SO|I ACz 991/23|Postanowienie|47|https://www.saos.org.pl/judgments/523071
@@ -123,6 +126,7 @@ saos_id|date|court|case_number|type|score|saos_url
 1822|2012-02-27|SO|III APz 7/12|Postanowienie|47|https://www.saos.org.pl/judgments/1822
 2142|2012-02-23|SO|I ACz 315/12|Postanowienie|47|https://www.saos.org.pl/judgments/2142
 424211|2010-08-31|SO|V S 10/10|Postanowienie|47|https://www.saos.org.pl/judgments/424211
+545029|2025-04-29|SO|II Ca 1830/24|Wyrok|40|https://www.saos.org.pl/judgments/545029
 520324|2024-03-28|SO|II Ca 189/23|Wyrok|40|https://www.saos.org.pl/judgments/520324
 491479|2018-03-20|SO|II Ca 2532/17|Wyrok|40|https://www.saos.org.pl/judgments/491479
 428628|2017-05-30|SO|I C 876/16|Wyrok|40|https://www.saos.org.pl/judgments/428628

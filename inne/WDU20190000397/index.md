@@ -8,10 +8,10 @@ pos: 397
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 lutego 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 397 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 lutego 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/397/text.pdf) |
 
-Poz. 397 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 lutego 2019 r.
-zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164, z 2017 r. poz. 1244, 1766 i 2423 oraz z 2018 r.
-poz. 657) w załączniku nr 1 w lp. 60 w kolumnie 4 w części „Organizacja udzielania świadczeń” wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze ków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164, z 2017 r. poz. 1244, 1766 i 2423 oraz z poz. 657) w załączniku nr 1 w lp. 60 w kolumnie 4 w części „Organizacja udzielania świadczeń” wprowadza się następujące zmiany:
 1) ust. 2 otrzymuje brzmienie: „2. Badania ogólne, specjalistyczne i diagnostyczne obejmują:
 1) badania antropometryczne;
 2) badania laboratoryjne:
@@ -44,7 +43,6 @@ c) konsultację neurologiczną.”;
 2) uchyla się ust. 3 i 4;
 3) ust. 6 i 7 otrzymują brzmienie: „6. Wstępne badania lekarskie dzieci i młodzieży do ukończenia 21. roku życia, ubiegających się o wydanie orzeczenia lekarskiego dopuszczającego do uprawniania danego sportu obejmują:
 1) pomiary antropometryczne;
-Dziennik Ustaw – 2 – Poz. 397
 2) ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzroku przy pomocy tablic Snellena;
 3) badanie ortopedyczne;
 4) badanie elektrokardiograficzne 12-odprowadzeniowe z opisem;
@@ -53,7 +51,7 @@ Dziennik Ustaw – 2 – Poz. 397
 7) konsultację neurologiczną – w przypadku osób, które zamierzają uprawiać sporty walki;
 8) oznaczenie stężenia glukozy w surowicy krwi;
 9) badanie spirometryczne – w przypadku osób, które zamierzają uprawiać płetwonurkowanie.
-7. Okresowe badania lekarskie dzieci i młodzieży do 21. roku życia oraz zawodników pomiędzy 21. a 23. rokiem życia przeprowadza się:
+7. Okresowe badania lekarskie dzieci i młodzieży do 21. roku życia oraz zawodników pomiędzy 21. a kiem życia przeprowadza się:
 1) co roku:
 a) pomiary antropometryczne,
 b) ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzroku przy pomocy tablic Snellena,

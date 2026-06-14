@@ -1,0 +1,32 @@
+---
+title: "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2022 r. zmieniające rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów"
+address: WDU20220000411
+eli: DU/2022/411
+publisher: DU
+year: 2022
+pos: 411
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 411 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 15 lutego 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 411 |
+| ISAP | WDU20220000411 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2022-02-15 |
+| Data wydania | 2022-02-17 |
+| Ostatnia zmiana | 2024-04-09 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000411) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/411/text.pdf) |
+
+zmieniające rozporządzenie w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów Na podstawie art. 66b ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów (Dz. U. poz. 1685) w § 2 ust. 5 otrzymuje brzmienie: „5. Komendant Centralnego Biura Śledczego Policji, dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, dyrektor instytutu badawczego, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Wyższej Szkoły Policji w Szczytnie, komendant szkoły policyjnej oraz ich zastępcy składają wniosek, o którym mowa w ust. 1, do Komendanta Głównego Policji.”.
+§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+

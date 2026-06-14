@@ -8,7 +8,7 @@ pos: 461
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie granicy państwowej
@@ -45,7 +45,8 @@ source: "isap-pdf"
 
 1. Granicę państwową, jeżeli tego inaczej nie regulują umowy międzynarodowe zawarte z sąsiednimi państwami, ustala się:
 
-- **1)** na odcinkach lądowych oraz w miejscach, w których granica państwowa przecina wody stojące lub wody płynące, przechodząc na drugi brzeg – według linii prostej, biegnącej od jednego znaku granicznego do drugiego; środkowej koryta;
+- **1)** na odcinkach lądowych oraz w miejscach, w których granica państwowa przecina wody stojące lub wody płynące, przechodząc na drugi brzeg – według linii prostej, biegnącej od jednego znaku granicznego do drugiego;
+- **2)** na rzekach, potokach, strumieniach, kanałach nieżeglownych – według linii środkowej koryta;
 - **3)** na rzekach żeglownych – według linii środkowej głównego toru wodnego lub linii środkowej głównego nurtu.
 
 2. Przez „wody graniczne” rozumie się rzeki, kanały oraz śródlądowe wody stojące, przez które przebiega granica państwowa.
@@ -70,7 +71,9 @@ source: "isap-pdf"
 
 **Art. 9.**
 
-1. Pasem drogi granicznej jest obszar o szerokości 15 metrów, licząc w głąb kraju od linii granicy państwowej lub od brzegu wód granicznych albo brzegu morskiego. tablice z napisem:
+1. Pasem drogi granicznej jest obszar o szerokości 15 metrów, licząc w głąb kraju od linii granicy państwowej lub od brzegu wód granicznych albo brzegu morskiego.
+
+2. W pasie drogi granicznej umieszcza się w dobrze widocznych miejscach tablice z napisem:
 
 - **1)** „Granica państwa” – na granicy państwowej stanowiącej granicę wewnętrzną w rozumieniu przepisów rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 105 z 13.04.2006, str. 1, z późn. zm.), zwanego dalej „kodeksem granicznym Schengen”;
 - **2)** „Granica państwa przekraczanie zabronione” – na granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu przepisów kodeksu granicznego Schengen.
@@ -86,7 +89,11 @@ source: "isap-pdf"
 
 6. Pas drogi granicznej w miejscach, w których jest wprowadzony zakaz przebywania, oznacza się w dobrze widocznych miejscach tablicami z napisem „Pas drogi granicznej – wejście zabronione”.
 
-7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory tablic, o których mowa w ust. 2 i 6, oraz sposób ich utrzymywania przez właściwych miejscowo komendantów oddziałów Straży Granicznej, uwzględniając konieczność należytego oznaczenia przebiegu granicy państwowej oraz pasa drogi granicznej w miejscach, w których jest wprowadzony zakaz przebywania. może wykonywać czynności związane z oznakowaniem i ochroną granicy państwowej oraz budową urządzeń służących tej ochronie. Właściciele lub użytkownicy tych gruntów są obowiązani do umożliwienia wykonywania tych czynności.
+7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory tablic, o których mowa w ust. 2 i 6, oraz sposób ich utrzymywania przez właściwych miejscowo komendantów oddziałów Straży Granicznej, uwzględniając konieczność należytego oznaczenia przebiegu granicy państwowej oraz pasa drogi granicznej w miejscach, w których jest wprowadzony zakaz przebywania.
+
+**Art. 10.**
+
+1. Na gruntach położonych w pasie drogi granicznej Straż Graniczna może wykonywać czynności związane z oznakowaniem i ochroną granicy państwowej oraz budową urządzeń służących tej ochronie. Właściciele lub użytkownicy tych gruntów są obowiązani do umożliwienia wykonywania tych czynności.
 
 2. Ze względów technicznych dopuszcza się budowanie urządzeń służących ochronie granicy państwowej także poza pasem drogi granicznej.
 
@@ -108,7 +115,9 @@ source: "isap-pdf"
 
 **Art. 11.**
 
-1. W pasie drogi granicznej grunty i lasy przylegające do granicy państwowej lub do brzegów rzek granicznych powinny być utrzymywane w stanie zapewniającym widoczność linii granicy państwowej i znaków granicznych. obowiązani do oczyszczania, odpłatnie na warunkach uzgodnionych z właściwymi organami Straży Granicznej, tych gruntów i lasów z drzew i krzewów oraz innych zarośli na szerokość ustaloną w umowach międzynarodowych zawartych przez Rzeczpospolitą Polską.
+1. W pasie drogi granicznej grunty i lasy przylegające do granicy państwowej lub do brzegów rzek granicznych powinny być utrzymywane w stanie zapewniającym widoczność linii granicy państwowej i znaków granicznych.
+
+2. Właściciele i użytkownicy gruntów i lasów, o których mowa w ust. 1, są obowiązani do oczyszczania, odpłatnie na warunkach uzgodnionych z właściwymi organami Straży Granicznej, tych gruntów i lasów z drzew i krzewów oraz innych zarośli na szerokość ustaloną w umowach międzynarodowych zawartych przez Rzeczpospolitą Polską.
 
 3. W razie niewykonywania obowiązków określonych w ust. 1 i 2 właściwy organ Straży Granicznej może zlecić oczyszczenie tych gruntów i lasów innym podmiotom. Przepis art. 10 ust. 1 zdanie drugie stosuje się odpowiednio.
 
@@ -126,7 +135,9 @@ source: "isap-pdf"
 
 **Art. 12a.**
 
-1. W przypadku konieczności zapewnienia bezpieczeństwa lub porządku publicznego w strefie nadgranicznej w związku z zagrożeniem życia lub zdrowia ludzi, lub mienia, wynikającym z przekraczania granicy państwowej wbrew przepisom prawa lub podejmowania prób takiego przekraczania, lub uzasadnionym ryzykiem popełniania innych czynów zabronionych, może być wprowadzony czasowy zakaz przebywania na określonym obszarze w strefie nadgranicznej przyległej do granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu przepisów kodeksu granicznego Schengen. Komendanta Głównego Straży Granicznej, może wprowadzić, w drodze rozporządzenia, na określonym obszarze gmin lub ich części zakaz, o którym mowa w ust. 1, kierując się koniecznością zapewnienia ochrony granicy państwowej i jej nienaruszalności, bezpieczeństwa i porządku publicznego w strefie nadgranicznej, w szczególności na obszarze bezpośrednio przyległym do granicy państwowej, potrzebą zapewnienia bezpieczeństwa funkcjonariuszy i pracowników służb państwowych oraz żołnierzy i pracowników Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących zadania służbowe na granicy państwowej, a także koniecznością wywiązywania się z zobowiązań międzynarodowych Rzeczypospolitej Polskiej.
+1. W przypadku konieczności zapewnienia bezpieczeństwa lub porządku publicznego w strefie nadgranicznej w związku z zagrożeniem życia lub zdrowia ludzi, lub mienia, wynikającym z przekraczania granicy państwowej wbrew przepisom prawa lub podejmowania prób takiego przekraczania, lub uzasadnionym ryzykiem popełniania innych czynów zabronionych, może być wprowadzony czasowy zakaz przebywania na określonym obszarze w strefie nadgranicznej przyległej do granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu przepisów kodeksu granicznego Schengen.
+
+2. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Komendanta Głównego Straży Granicznej, może wprowadzić, w drodze rozporządzenia, na określonym obszarze gmin lub ich części zakaz, o którym mowa w ust. 1, kierując się koniecznością zapewnienia ochrony granicy państwowej i jej nienaruszalności, bezpieczeństwa i porządku publicznego w strefie nadgranicznej, w szczególności na obszarze bezpośrednio przyległym do granicy państwowej, potrzebą zapewnienia bezpieczeństwa funkcjonariuszy i pracowników służb państwowych oraz żołnierzy i pracowników Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących zadania służbowe na granicy państwowej, a także koniecznością wywiązywania się z zobowiązań międzynarodowych Rzeczypospolitej Polskiej.
 
 **Art. 12b.**
 
@@ -138,7 +149,9 @@ source: "isap-pdf"
 - **4)** przebywają na obszarze objętym zakazem w celu załatwienia sprawy w urzędzie administracji publicznej lub w celu sprawowania lub udziału w kulcie religijnym;
 - **5)** są właścicielami lub posiadaczami nieruchomości zlokalizowanych na obszarze objętym zakazem;
 - **6)** są osobami niepełnosprawnymi albo opiekunami osób niepełnosprawnych przebywającymi na obszarze objętym zakazem w związku z korzystaniem z ośrodka dla osób niepełnosprawnych;
-- **7)** przebywają na obszarze objętym zakazem w związku z bezpośrednim przemieszczaniem się w celu zgodnego z przepisami przekroczenia granicy państwowej lub bezpośrednio po jej przekroczeniu zgodnie z przepisami w celu opuszczenia obszaru objętego zakazem, lub w związku z przemieszczaniem się przez ten obszar drogą publiczną – bezpośrednio w celu jego niezwłocznego opuszczenia. Straży Granicznej może zezwolić na przebywanie, na czas określony i na określonych zasadach, na obszarze objętym zakazem, o którym mowa w art. 12a ust. 1, innych osób niż wymienione w ust. 1, w szczególności dziennikarzy w rozumieniu art. 7 ust. 2 pkt 5 ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914).
+- **7)** przebywają na obszarze objętym zakazem w związku z bezpośrednim przemieszczaniem się w celu zgodnego z przepisami przekroczenia granicy państwowej lub bezpośrednio po jej przekroczeniu zgodnie z przepisami w celu opuszczenia obszaru objętego zakazem, lub w związku z przemieszczaniem się przez ten obszar drogą publiczną – bezpośrednio w celu jego niezwłocznego opuszczenia.
+
+2. W uzasadnionych przypadkach właściwy miejscowo komendant placówki Straży Granicznej może zezwolić na przebywanie, na czas określony i na określonych zasadach, na obszarze objętym zakazem, o którym mowa w art. 12a ust. 1, innych osób niż wymienione w ust. 1, w szczególności dziennikarzy w rozumieniu art. 7 ust. 2 pkt 5 ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914).
 
 3. Osoby przebywające na obszarze, na którym wprowadzono zakaz, o którym mowa w art. 12a ust. 1, obowiązane są posiadać przy sobie dowód osobisty lub inny dokument stwierdzający tożsamość.
 
@@ -153,6 +166,13 @@ source: "isap-pdf"
 **Art. 12c.** Obszar, o którym mowa w art. 12a ust. 1, na którym został wprowadzony zakaz przebywania, oznacza się w dobrze widocznych miejscach tablicami z napisem „Obszar objęty zakazem przebywania – wejście zabronione”.
 
 **Art. 12d.** Informację o wprowadzeniu zakazu, o którym mowa w art. 12a ust. 1, ogłasza się w sposób zwyczajowo przyjęty na obszarze objętym tym zakazem oraz zamieszcza się na stronie podmiotowej Biuletynu Informacji Publicznej właściwych miejscowo:
+
+- **1)** urzędu wojewódzkiego;
+- **2)** urzędu marszałkowskiego;
+- **3)** starostwa powiatowego;
+- **4)** urzędu gminy.
+
+**Art. 13.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki uprawiania turystyki, sportu, polowań i połowu ryb w strefie nadgranicznej, uwzględniając w szczególności możliwość wprowadzenia stałych lub czasowych ograniczeń w zakresie korzystania z wód granicznych oraz nałożenia obowiązku powiadomienia organów Straży Granicznej o planowanych czynnościach.
 
 #### Rozdział 3 Przekraczanie granicy państwowej
 
@@ -174,7 +194,9 @@ source: "isap-pdf"
 
 2. (uchylony)
 
-3. W razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary, osoba, o której mowa w ust. 1, jest obowiązana do udostępnienia do przejrzenia przedmioty, bagaże i środki transportu. o której mowa w ust. 1, na zasadach określonych w art. 11aa ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ).
+3. W razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary, osoba, o której mowa w ust. 1, jest obowiązana do udostępnienia do przejrzenia przedmioty, bagaże i środki transportu.
+
+3a. Funkcjonariusze Straży Granicznej dokonają kontroli osobistej osoby, o której mowa w ust. 1, na zasadach określonych w art. 11aa ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ).
 
 4. Kontrola graniczna, o której mowa w ust. 1 i 3, może odbywać się z zastosowaniem urządzeń technicznych oraz psów służbowych.
 
@@ -189,7 +211,9 @@ source: "isap-pdf"
 - **1)** ustalać na czas określony dodatkowe lotnicze przejścia graniczne oraz określić rodzaj ruchu dozwolonego w tych przejściach, czas ich otwarcia, podmioty, które zarządzający lotniskiem powiadamia o lądowaniu lub starcie statku powietrznego, formę oraz termin takiego powiadomienia, a także obowiązki zarządzającego lotniskiem w zakresie zapewnienia dojazdu osób dokonujących kontroli w tych przejściach, uwzględniając przy ustalaniu dodatkowych lotniczych przejść granicznych potrzeby danego regionu;
 - **2)** zarządzić czasowe zawieszenie lub ograniczenie ruchu na określonych przejściach granicznych, uwzględniając konieczność zapewnienia bezpieczeństwa państwa lub bezpieczeństwa publicznego albo ochronę przed zagrożeniem życia lub zdrowia ludzi, a także zapobieganie szerzeniu się epidemii chorób zwierząt.
 
-3a. Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej oraz ministrami właściwymi do spraw gospodarki morskiej, żeglugi śródlądowej i transportu określi, w drodze rozporządzenia, sposób ustalania zasięgu terytorialnego przejść granicznych oraz podmioty właściwe w tych sprawach, a także szczegółowe obowiązki podmiotów uczestniczących w prowadzeniu komunikacji międzynarodowej wobec organów działających w przejściach granicznych, uwzględniając możliwość ograniczenia tych obowiązków w sytuacjach szczególnych. czasowym, nie dłuższym niż 7 dni, zawieszeniu lub ograniczeniu ruchu na określonych przejściach granicznych, w przypadku wprowadzenia drugiego lub wyższego stopnia alarmowego, o którym mowa w art. 15 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2024 r. poz. 92, 1248 i 1684). Decyzji nadaje się rygor natychmiastowej wykonalności.
+3a. Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej oraz ministrami właściwymi do spraw gospodarki morskiej, żeglugi śródlądowej i transportu określi, w drodze rozporządzenia, sposób ustalania zasięgu terytorialnego przejść granicznych oraz podmioty właściwe w tych sprawach, a także szczegółowe obowiązki podmiotów uczestniczących w prowadzeniu komunikacji międzynarodowej wobec organów działających w przejściach granicznych, uwzględniając możliwość ograniczenia tych obowiązków w sytuacjach szczególnych.
+
+3b. Minister właściwy do spraw wewnętrznych może wydać decyzję o czasowym, nie dłuższym niż 7 dni, zawieszeniu lub ograniczeniu ruchu na określonych przejściach granicznych, w przypadku wprowadzenia drugiego lub wyższego stopnia alarmowego, o którym mowa w art. 15 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2024 r. poz. 92, 1248 i 1684). Decyzji nadaje się rygor natychmiastowej wykonalności.
 
 4. Minister właściwy do spraw wewnętrznych ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przejścia graniczne, rodzaj ruchu dozwolonego w tych przejściach oraz czas ich otwarcia.
 
@@ -204,7 +228,7 @@ source: "isap-pdf"
 - **2)** rolnikowi w rozumieniu art. 6 pkt 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90, 1243, 1674 i
 - **1871)** świadczącemu usługi hotelarskie w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych, zwanemu dalej „rolnikiem” – którzy prowadzą działalność gospodarczą w tym zakresie lub świadczą te usługi hotelarskie na obszarze gminy, w której położone jest to przejście graniczne, i którzy spełniają warunki określone w ust. 3 i 4, przysługuje rekompensata z budżetu państwa, zwana dalej „rekompensatą”.
 
-2. W akcie prawa miejscowego wojewoda może określić także inne niż określone w ust. 1 pkt 1 zakresy działalności gospodarczej, których prowadzenie na obszarze gminy, w której położone jest przejście graniczne, o którym mowa w ust. 1, uprawnia października 1998 r. o systemie ubezpieczeń społecznych, niebędącemu jednostką budżetową lub samorządowym zakładem budżetowym, o przyznanie rekompensaty, uwzględniając specyfikę ruchu, który zawieszono na tym przejściu granicznym i jego wpływ na sytuację ekonomiczną płatników składek prowadzących działalność gospodarczą na tym obszarze.
+2. W akcie prawa miejscowego wojewoda może określić także inne niż określone w ust. 1 pkt 1 zakresy działalności gospodarczej, których prowadzenie na obszarze gminy, w której położone jest przejście graniczne, o którym mowa w ust. 1, uprawnia do ubiegania się przez płatnika składek w rozumieniu art. 4 pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, niebędącemu jednostką budżetową lub samorządowym zakładem budżetowym, o przyznanie rekompensaty, uwzględniając specyfikę ruchu, który zawieszono na tym przejściu granicznym i jego wpływ na sytuację ekonomiczną płatników składek prowadzących działalność gospodarczą na tym obszarze.
 
 3. W przypadku płatnika składek rekompensata przysługuje pod warunkiem:
 
@@ -214,7 +238,7 @@ source: "isap-pdf"
 4. Rekompensata przysługuje, jeżeli przychód:
 
 - **1)** z działalności gospodarczej w rozumieniu przepisów podatkowych uzyskany w miesiącu kalendarzowym, w którym obowiązywało czasowe zawieszenie ruchu na przejściu granicznym, o którym mowa w ust. 1, na obszarze gminy, w której położone jest to przejście graniczne, był niższy o co najmniej 25 % w stosunku do przychodu uzyskanego w tej gminie w jednym z dwóch miesięcy poprzedzających ten miesiąc albo w analogicznym miesiącu kalendarzowym ostatniego roku, w którym ruch na tym przejściu granicznym nie był czasowo zawieszony oraz na obszarze gminy, w której położone jest to przejście graniczne, nie obowiązywał zakaz, o którym mowa w art. 12a ust. 1, oraz na obszarze tej gminy nie obowiązywał stan wyjątkowy – w przypadku płatnika składek;
-- **2)** ze świadczenia usług hotelarskich w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych uzyskany w miesiącu kalendarzowym, w którym obowiązywało czasowe zawieszenie ruchu na przejściu granicznym, o którym mowa w ust. 1, na obszarze gminy, w której położone jest to przejście graniczne, był niższy o co najmniej 25 % w stosunku do przychodu ze świadczenia tych usług uzyskanego w tej gminie w jednym z dwóch miesięcy poprzedzających ten miesiąc albo w analogicznym miesiącu kalendarzowym ostatniego roku, w którym ruch na tym przejściu granicznym nie był czasowo zawieszony oraz na obszarze gminy, w której położone jest to przejście graniczne, nie obowiązywał zakaz, o którym wyjątkowy – w przypadku rolnika.
+- **2)** ze świadczenia usług hotelarskich w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych uzyskany w miesiącu kalendarzowym, w którym obowiązywało czasowe zawieszenie ruchu na przejściu granicznym, o którym mowa w ust. 1, na obszarze gminy, w której położone jest to przejście graniczne, był niższy o co najmniej 25 % w stosunku do przychodu ze świadczenia tych usług uzyskanego w tej gminie w jednym z dwóch miesięcy poprzedzających ten miesiąc albo w analogicznym miesiącu kalendarzowym ostatniego roku, w którym ruch na tym przejściu granicznym nie był czasowo zawieszony oraz na obszarze gminy, w której położone jest to przejście graniczne, nie obowiązywał zakaz, o którym mowa w art. 12a ust. 1, oraz na obszarze tej gminy nie obowiązywał stan wyjątkowy – w przypadku rolnika.
 
 5. Rekompensata przysługuje:
 
@@ -225,7 +249,7 @@ source: "isap-pdf"
 
 - **1)** 65 % średniego miesięcznego przychodu płatnika składek lub rolnika, uzyskanego z prowadzonej przez niego działalności, o której mowa w ust. 1 pkt 1, lub ze świadczenia usług hotelarskich, o których mowa w ust. 1 pkt 2, na obszarze gminy, w której położone jest przejście graniczne, na którym czasowo zawieszono ruch, w okresie wybranych 3 z 6 miesięcy kalendarzowych bezpośrednio poprzedzających zawieszenie tego ruchu, albo
 - **2)** odpowiadającej kwocie minimalnego wynagrodzenia, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego w miesiącu kalendarzowym, za który przysługuje rekompensata, za:
-    - **a)** każdego ubezpieczonego zgłoszonego do ubezpieczeń emerytalnego i rentowych i pozostającego w tych ubezpieczeniach w ostatnim dniu miesiąca kalendarzowego, za który przysługuje rekompensata i wykonującego umowę będącą podstawą zgłoszenia do ubezpieczenia na czasowo zawieszono ruch – w przypadku płatnika składek,
+    - **a)** każdego ubezpieczonego zgłoszonego do ubezpieczeń emerytalnego i rentowych i pozostającego w tych ubezpieczeniach w ostatnim dniu miesiąca kalendarzowego, za który przysługuje rekompensata i wykonującego umowę będącą podstawą zgłoszenia do ubezpieczenia na terenie gminy, w której położone jest przejście graniczne, na którym czasowo zawieszono ruch – w przypadku płatnika składek,
     - **b)** rolnika, małżonka tego rolnika oraz jego każdego domownika w rozumieniu art. 6 pkt 2 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, którzy pomagają mu w świadczeniu usług hotelarskich w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych, jeżeli podlegają ubezpieczeniu emerytalno-rentowemu w ostatnim dniu miesiąca kalendarzowego, za który przysługuje rekompensata.
 
 7. Rekompensata może być udzielona maksymalnie trzykrotnie w wysokości, o której mowa w ust. 6 pkt 1, oraz maksymalnie dziewięciokrotnie w wysokości, o której mowa w ust. 6 pkt 2.
@@ -240,7 +264,8 @@ source: "isap-pdf"
 
 - **1)** dane, o których mowa w art. 4 ust. 2 pkt 1, 2 i 5 ustawy z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela (Dz. U. poz. 1955);
 - **2)** informację o miesiącu kalendarzowym, którego wniosek dotyczy;
-- **3)** informacje o ubezpieczonych, o których mowa w ust. 6 pkt 2 lit. a – w przypadku płatnika składek; mowa w ust. 6 pkt 2 lit. b – w przypadku rolnika;
+- **3)** informacje o ubezpieczonych, o których mowa w ust. 6 pkt 2 lit. a – w przypadku płatnika składek;
+- **4)** informacje o rolniku, małżonku tego rolnika oraz jego domownikach, o których mowa w ust. 6 pkt 2 lit. b – w przypadku rolnika;
 - **5)** informacje o uzyskaniu przychodu, o którym mowa w ust. 4 pkt 1 albo 2;
 - **6)** numer rachunku bankowego albo numer rachunku prowadzonego w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać dokonana wypłata rekompensaty;
 - **7)** informacje o średnim miesięcznym przychodzie płatnika składek lub rolnika, uzyskanym z prowadzonej przez niego działalności, o której mowa w ust. 1 pkt 1, lub świadczenia usług hotelarskich, o których mowa w ust. 1 pkt 2, na obszarze gminy, w której położone jest przejście graniczne, na którym czasowo zawieszono ruch, w okresie wybranych 3 z 6 miesięcy kalendarzowych bezpośrednio poprzedzających zawieszenie tego ruchu – w przypadku wniosku o rekompensatę w wysokości, o której mowa w ust. 6 pkt 1.
@@ -253,6 +278,7 @@ source: "isap-pdf"
 - **4)** dokumenty potwierdzające wykonywanie przez ubezpieczonych, o których mowa w ust. 6 pkt 2 lit. a, umowy będącej podstawą zgłoszenia do ubezpieczenia na terenie gminy, w której położone jest przejście graniczne, na którym czasowo zawieszono ruch;
 - **5)** oświadczenie o:
     - **a)** prowadzeniu działalności gospodarczej lub świadczeniu usług, uprawniających do ubiegania się o rekompensatę,
+    - **b)** uzyskaniu spadku przychodów, o którym mowa w ust. 4 pkt 1 albo 2,
     - **c)** spełnieniu warunku, o którym mowa w ust. 5 pkt 1 albo 2,
     - **d)** spełnieniu warunku, o którym mowa w ust. 6, w zakresie podlegania ubezpieczeniu osób, za które przysługuje rekompensata,
     - **e)** wysokości przyznanej pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jaką płatnik lub rolnik otrzymał w okresie wskazanym odpowiednio w art. 37 ust. 1 pkt 1 albo ust. 2 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635),
@@ -265,7 +291,7 @@ source: "isap-pdf"
 
 15. Rekompensata przekazywana jest w terminie 30 dni od dnia wydania decyzji, o której mowa w ust. 14, na rachunek wskazany we wniosku o rekompensatę.
 
-16. W celu weryfikacji danych zawartych we wniosku wojewoda może przeprowadzać kontrole lub zlecać ich przeprowadzenie. Do przeprowadzania kontroli nie stosuje się przepisów art. 54 ust. 1 i art. 55 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871). Jeżeli kwota rekompensaty, o której mowa w ust. 6 pkt 2, przekracza kwotę 20 000 zł, przeprowadzenie kontroli ma charakter obligatoryjny.
+16. W celu weryfikacji danych zawartych we wniosku wojewoda może przeprowadzać kontrole lub zlecać ich przeprowadzenie. Do przeprowadzania kontroli nie stosuje się przepisów art. 54 ust. 1 i art. 55 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871). Jeżeli kwota rekompensaty, o której mowa w ust. 6 pkt 1, przekracza 65 000 zł albo kwota rekompensaty, o której mowa w ust. 6 pkt 2, przekracza kwotę 20 000 zł, przeprowadzenie kontroli ma charakter obligatoryjny.
 
 17. Wojewoda ma prawo wystąpić do Zakładu Ubezpieczeń Społecznych oraz Kasy Rolniczego Ubezpieczenia Społecznego o informacje dotyczące spełnienia przez płatnika składek i rolnika warunku, o którym mowa w ust. 5 pkt 1 i 2, w zakresie podlegania ubezpieczeniu osób, za które przysługuje rekompensata.
 
@@ -279,7 +305,7 @@ source: "isap-pdf"
 
 **Art. 17.**
 
-1. Wojewoda jest zobowiązany do stałego utrzymywania drogowych, kolejowych, morskich i rzecznych przejść granicznych, przejść granicznych przeznaczonych wyłącznie dla małego ruchu granicznego, przejść turystycznych, przejść granicznych na szlakach turystycznych przecinających granicę państwową, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych znajdujących się na obszarze województwa w stanie umożliwiającym przeprowadzenie sprawnej i skutecznej kontroli bezpieczeństwa, radiometrycznej oraz jakości handlowej artykułów rolno-spożywczych.
+1. Wojewoda jest zobowiązany do stałego utrzymywania drogowych, kolejowych, morskich i rzecznych przejść granicznych, przejść granicznych przeznaczonych wyłącznie dla małego ruchu granicznego, przejść turystycznych, przejść granicznych na szlakach turystycznych przecinających granicę państwową, miejsc przekraczania granicy na szlakach turystycznych oraz punktów nocnego postoju na rzekach granicznych znajdujących się na obszarze województwa w stanie umożliwiającym przeprowadzenie sprawnej i skutecznej kontroli bezpieczeństwa, granicznej, celnej, sanitarnej, weterynaryjnej, fitosanitarnej, chemicznej i radiometrycznej oraz jakości handlowej artykułów rolno-spożywczych.
 
 1a. Wojewoda jest zobowiązany do stałego utrzymywania lotniczych przejść granicznych w stanie umożliwiającym przeprowadzanie sprawnej i skutecznej kontroli pirotechnicznej oraz kontroli, o których mowa w ust. 1, z wyjątkiem kontroli bezpieczeństwa wykonywanej przez zarządzającego lotniskiem lub inny uprawniony podmiot, na zasadach określonych w przepisach dotyczących ochrony lotnictwa cywilnego.
 
@@ -296,11 +322,27 @@ source: "isap-pdf"
 
 2b. Wojewoda nie ponosi kosztów utrzymania pomieszczeń, miejsc i powierzchni niezwiązanych z przeprowadzaniem kontroli, o których mowa w ust. 1 i 1a, w lotniczych, kolejowych, morskich i rzecznych przejściach granicznych.
 
-3. Rada Ministrów określi, w drodze rozporządzenia, zakres obowiązków wojewody w sprawach finansowania i utrzymywania w należytym stanie przejść granicznych, o których mowa w ust. 1 i 2, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych i punktów nocnego postoju na rzekach granicznych organy właściwe do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych.
+3. Rada Ministrów określi, w drodze rozporządzenia, zakres obowiązków wojewody w sprawach finansowania i utrzymywania w należytym stanie przejść granicznych, o których mowa w ust. 1 i 2, przejść turystycznych, miejsc przekraczania granicy na szlakach turystycznych i punktów nocnego postoju na rzekach granicznych oraz wyposażenia w sprzęt, w szczególności stosowany w kontroli granicznej, a także organy właściwe do osadzania i utrzymywania znaków granicznych na morskich wodach wewnętrznych.
 
 4. Rozporządzenie powinno określić w szczególności zakres świadczeń i obowiązków rzeczowych w celu utrzymania obiektów i wyposażenia technicznego znajdujących się w przejściu granicznym, nieodpłatnego udostępniania pomieszczeń w tych obiektach oraz urządzeń niezbędnych do przeprowadzania kontroli, a także możliwość finansowania przedsięwzięć związanych z usprawnianiem ruchu granicznego ze środków pochodzących z pomocy finansowej jednostki samorządu terytorialnego w zakresie określonym przez organ stanowiący tej jednostki lub z pomocy zagranicznej, uwzględniając konieczność zapewnienia sprawnej kontroli granicznej.
 
 **Art. 17a.** Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, przywraca tymczasowo, przedłuża lub znosi kontrolę graniczną osób przekraczających granicę państwową stanowiącą granicę wewnętrzną w rozumieniu kodeksu granicznego Schengen, określając:
+
+- **1)** odcinki granicy państwowej, na której kontrola graniczna osób zostaje przywrócona tymczasowo, przedłużona lub zniesiona;
+- **2)** przejścia graniczne, rodzaj ruchu dozwolonego przez te przejścia i czas ich otwarcia oraz zasięg terytorialny przejść granicznych;
+- **3)** okres, na który kontrola graniczna osób zostaje przywrócona tymczasowo lub przedłużona. Rozporządzenie powinno uwzględniać dostosowanie zakresu kontroli do przyczyn uzasadniających jej wprowadzenie oraz możliwość stosowania kontroli na niektórych odcinkach drogowych lub kolejowych przecinających granicę państwową, a także w niektórych portach i przystaniach oraz portach lotniczych i lotniskach. Art. 17aa. 1. W celu przygotowania i utrzymania warunków do tymczasowego przywrócenia kontroli granicznej na drogach, liniach kolejowych, lotniskach, w portach, obiektach portowych lub na przystaniach, na których w przypadku tymczasowego przywrócenia kontroli granicznej możliwe będzie utworzenie drogowych, kolejowych, lotniczych, rzecznych i morskich przejść granicznych w celu realizowania kontroli granicznej, Komendant Główny Straży Granicznej prowadzi wykaz przejść granicznych planowanych do tymczasowego przywrócenia kontroli granicznej.
+
+2. Komendant Główny Straży Granicznej powiadamia zarządcę drogi, zarządzającego infrastrukturą kolejową, lotniskiem, portem, obiektem portowym lub przystanią o ujęciu w wykazie przejść granicznych planowanych do tymczasowego przywrócenia kontroli granicznej zarządzanej przez nich drogi, linii kolejowej, lotniska, portu, obiektu portowego lub przystani.
+
+3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór wykazu przejść granicznych planowanych do tymczasowego przywrócenia kontroli granicznej, uwzględniając potrzebę zamieszczenia w wykazie informacji istotnych dla zarządcy drogi, zarządzającego infrastrukturą kolejową, lotniskiem, portem, obiektem portowym lub przystanią, przy planowaniu rozwiązań organizacyjnych umożliwiających taką kontrolę. Art. 17ab. 1. Zarządca drogi publicznej ujętej w wykazie przejść granicznych do tymczasowego przywrócenia kontroli granicznej zobowiązany jest do:
+
+- **1)** przygotowania projektów zmiany organizacji ruchu oraz przygotowania odpowiedniego oznakowania drogi zapewniającego bezpieczeństwo ruchu drogowego;
+- **2)** uwzględnienia przy budowie lub przebudowie drogi przecinającej granicę państwową warunków umożliwiających prowadzenie kontroli granicznej w przypadku tymczasowego przywrócenia kontroli granicznej;
+- **3)** wprowadzenia na przejściach granicznych, z dniem tymczasowego przywrócenia kontroli granicznej, organizacji ruchu zgodnej z projektami, o których mowa w pkt 1, zatwierdzonymi przez właściwy organ zarządzający ruchem na drodze, na wniosek właściwego komendanta oddziału Straży Granicznej.
+
+2. Skierowanie wniosku, o którym mowa w ust. 1 pkt 3, powinno nastąpić nie później niż z chwilą tymczasowego przywrócenia kontroli granicznej. Art. 17ac. 1. Zarządzający infrastrukturą kolejową, lotniskiem, portem, obiektem portowym lub przystanią oraz przewoźnicy kolejowi, w przypadku tymczasowego przywrócenia kontroli granicznej, udzielają Straży Granicznej pomocy w zakresie organizacji kontroli granicznej niezbędnej do sprawnego jej przeprowadzania oraz są zobowiązani do uzgodnienia z właściwym komendantem placówki Straży Granicznej miejsca przeprowadzania kontroli granicznej osób przekraczających granicę wewnętrzną w rozumieniu kodeksu granicznego Schengen. Straż Graniczna powinna uwzględniać inne zadania własne właściwych zarządców infrastruktury.
+
+2. Do finansowania zadań, o których mowa w ust. 1, stosuje się odpowiednio art. 17 ust. 2a.
 
 **Art. 17b.** (uchylony)
 
@@ -308,9 +350,14 @@ source: "isap-pdf"
 
 **Art. 17d.** Funkcjonariusze straży granicznych państw członkowskich Unii Europejskiej wchodzący w skład europejskich zespołów straży granicznej na granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu przepisów kodeksu granicznego Schengen wykonują zadania w ramach:
 
+- **1)** szybkich interwencji, realizowanych przez zespoły szybkiej interwencji na granicy, zgodnie z przepisami krajowymi odnoszącymi się do funkcjonariuszy Straży Granicznej, w zakresie określonym w rozporządzeniu nr 863/2007;
+- **2)** wspólnych operacji lub projektów pilotażowych zgodnie z przepisami krajowymi odnoszącymi się do funkcjonariuszy Straży Granicznej, w zakresie określonym w rozporządzeniu nr 2007/2004.
+
 **Art. 17e.**
 
-1. Komendant Główny Straży Granicznej w zakresie dotyczącym szybkich interwencji, wspólnych operacji lub projektów pilotażowych wykonuje zadania krajowego punktu kontaktowego właściwego w sprawach komunikacji z Europejską Agencją Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej oraz uzgadnia plany operacyjne. w ust. 1, propozycje wspólnych operacji lub projektów pilotażowych oraz występować o ich zakończenie, a także udzielać zgody na udział obserwatorów z państw trzecich w działaniach Agencji określonych w rozporządzeniu nr 2007/2004.
+1. Komendant Główny Straży Granicznej w zakresie dotyczącym szybkich interwencji, wspólnych operacji lub projektów pilotażowych wykonuje zadania krajowego punktu kontaktowego właściwego w sprawach komunikacji z Europejską Agencją Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej oraz uzgadnia plany operacyjne.
+
+2. Komendant Główny Straży Granicznej może zgłaszać Agencji, o której mowa w ust. 1, propozycje wspólnych operacji lub projektów pilotażowych oraz występować o ich zakończenie, a także udzielać zgody na udział obserwatorów z państw trzecich w działaniach Agencji określonych w rozporządzeniu nr 2007/2004.
 
 **Art. 17f.** Do funkcjonariuszy straży granicznych państw członkowskich Unii Europejskiej wykonujących na terytorium Rzeczypospolitej Polskiej, za zgodą właściwych organów Rzeczypospolitej Polskiej, zadania określone w przepisach prawa Unii Europejskiej, w zakresie transportowania, przewozu oraz przesyłania broni i amunicji, stosuje się przepisy obowiązujące funkcjonariuszy Straży Granicznej.
 
@@ -326,8 +373,9 @@ source: "isap-pdf"
 
 2. Zezwolenia, o którym mowa w ust. 1, nie wymaga przekroczenie granicy państwowej i lot w przestrzeni powietrznej Rzeczypospolitej Polskiej obcych wojskowych statków powietrznych wykonujących zadania wojskowego nadzoru przestrzeni powietrznej w ramach Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego.
 
-3. Zezwolenie, o którym mowa w ust. 1, nie jest wymagane wobec obcego wojskowego statku powietrznego: oficjalną wizytę w Rzeczypospolitej Polskiej;
+3. Zezwolenie, o którym mowa w ust. 1, nie jest wymagane wobec obcego wojskowego statku powietrznego:
 
+- **1)** na którego pokładzie znajduje się przedstawiciel obcego państwa, składający oficjalną wizytę w Rzeczypospolitej Polskiej;
 - **2)** stanowiącego honorową eskortę statku powietrznego, o którym mowa w pkt 1;
 - **3)** wykonującego lot w przestrzeni powietrznej Rzeczypospolitej Polskiej:
     - **a)** związany z prowadzeniem akcji poszukiwawczo-ratowniczej w celu udzielenia pomocy ludziom albo statkowi powietrznemu lub statkowi morskiemu znajdującemu się w niebezpieczeństwie,
@@ -343,6 +391,7 @@ source: "isap-pdf"
 
 1. Obcy wojskowy statek powietrzny, który przekroczył granicę państwową i wykonuje lot w przestrzeni powietrznej Rzeczypospolitej Polskiej bez zezwolenia, o którym mowa w art. 18a ust. 1, lub niezgodnie z warunkami tego zezwolenia, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
 
+- **1)** opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej;
 - **2)** odpowiedniej zmiany kierunku lub wysokości lotu;
 - **3)** lądowania na wskazanym przez ten organ lotnisku;
 - **4)** wykonania innych poleceń mających na celu zaprzestanie naruszania przestrzeni powietrznej Rzeczypospolitej Polskiej.
@@ -359,7 +408,7 @@ source: "isap-pdf"
 
 4. Decyzję o zastosowaniu środków, o których mowa w ust. 2 i 3, podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych z uwzględnieniem nadrzędności ochrony życia osób postronnych, traktując możliwość zniszczenia obcego wojskowego statku powietrznego jako środek ostateczny.
 
-5. W rozkazie, o którym mowa w ust. 4, wskazuje się uzbrojenie właściwe do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód. przechwytujący, decyzję o jego zniszczeniu podejmuje dowódca statku przechwytującego.
+5. W rozkazie, o którym mowa w ust. 4, wskazuje się uzbrojenie właściwe do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód. Art. 18ba. 1. Jeżeli obcy wojskowy statek powietrzny atakuje statek przechwytujący, decyzję o jego zniszczeniu podejmuje dowódca statku przechwytującego.
 
 2. W przypadku utraty łączności z Dyżurnym Dowódcą Obrony Powietrznej, jeżeli obcy wojskowy statek powietrzny wykonuje czynności wchodzące w zakres zdarzeń, o których mowa w art. 18b ust. 3 pkt 2, lub manewruje na pozycję dogodną do ataku przeciwko statkowi przechwytującemu, decyzję o zniszczeniu obcego wojskowego statku powietrznego podejmuje dowódca statku przechwytującego. Art. 18bb. 1. Obcy cywilny statek powietrzny, który przekroczył granicę państwową niezgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub umowami międzynarodowymi, którymi Rzeczpospolita Polska jest związana, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
 
@@ -377,7 +426,8 @@ source: "isap-pdf"
     - **b)** nie wykonuje poleceń państwowego organu zarządzania ruchem lotniczym, cywilnych i wojskowych lotniskowych organów służby ruchu lotniczego lub Dyżurnego Dowódcy Obrony Powietrznej,
     - **c)** niespodziewanie zmienia parametry lotu,
     - **d)** nastąpiła przerwa w łączności radiowej, szczególnie w połączeniu ze zmianą parametrów lotu,
-    - **e)** nastąpiła zmiana kodów transpondera radaru wtórnego lub nadmierne wykorzystywanie sygnału identyfikacji bez uprzedniej zgody państwowego organu zarządzania ruchem lotniczym, z procedurą zmiany w łączności radiowej,
+    - **e)** nastąpiła zmiana kodów transpondera radaru wtórnego lub nadmierne wykorzystywanie sygnału identyfikacji bez uprzedniej zgody państwowego organu zarządzania ruchem lotniczym,
+    - **f)** załoga używa niestandardowej terminologii lub odnotowano inne niezgodne z procedurą zmiany w łączności radiowej,
     - **g)** nastąpił wybór w modzie 3/A kodu 7500 (uprowadzony statek powietrzny), kodu 7600 (utrata łączności), kodu 7700 (sytuacja awaryjna),
     - **h)** nastąpił przekaz radiowy niedotyczący procedur lotniczych,
     - **i)** nastąpiło przerwanie lub zaprzestanie emitowania sygnałów z transpondera radaru wtórnego,
@@ -390,14 +440,17 @@ source: "isap-pdf"
     - **b)** obcy cywilny statek powietrzny zakwalifikowany jako „Podejrzany RENEGADE” nie wykonuje poleceń państwowego organu zarządzania ruchem lotniczym lub Dyżurnego Dowódcy Obrony Powietrznej,
     - **c)** obcy cywilny statek powietrzny odmawia wykonania poleceń lub nie reaguje na polecenia i przekazywane znaki dowódcy statku przechwytującego;
 
-- **3)** „Potwierdzony RENEGADE” – w przypadku gdy spełnia on jednocześnie poniżej wymienione warunki: w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965). Art. 18bc. 1. Obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Podejrzany RENEGADE” może być przechwycony przez statek przechwytujący. Przechwycenie polega na identyfikacji obcego cywilnego statku powietrznego, nawiązaniu z nim łączności radiowej i kontaktu wzrokowego oraz naprowadzeniu go na właściwy kierunek lub wysokość lotu albo wymuszeniu lądowania na wskazanym lotnisku.
+- **3)** „Potwierdzony RENEGADE” – w przypadku gdy spełnia on jednocześnie poniżej wymienione warunki:
     - **a)** przechwycony i rozpoznany obcy cywilny statek powietrzny nie wykonuje poleceń dowódcy statku przechwytującego, państwowego organu zarządzania ruchem lotniczym oraz Dyżurnego Dowódcy Obrony Powietrznej,
     - **b)** posiadane informacje potwierdzają bez żadnych wątpliwości, że obcy cywilny statek powietrzny ma być użyty jako środek ataku o charakterze terrorystycznym.
 
+4. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965). Art. 18bc. 1. Obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Podejrzany RENEGADE” może być przechwycony przez statek przechwytujący. Przechwycenie polega na identyfikacji obcego cywilnego statku powietrznego, nawiązaniu z nim łączności radiowej i kontaktu wzrokowego oraz naprowadzeniu go na właściwy kierunek lub wysokość lotu albo wymuszeniu lądowania na wskazanym lotnisku.
+
 2. Uprawniony do podjęcia decyzji dotyczącej przechwycenia obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Podejrzany RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych. Art. 18bd. 1. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, można podjąć decyzję o oddaniu strzałów ostrzegawczych w kierunku tego statku powietrznego.
 
-2. Uprawniony do podjęcia decyzji o oddaniu strzałów ostrzegawczych w kierunku obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Prawdopodobny RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych. Art. 18be. W przypadku dalszego niezastosowania się przez obcy cywilny statek powietrzny z pasażerami na pokładzie zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, lub po oddaniu strzałów ostrzegawczych statek przechwytujący eskortuje ten statek powietrzny do czasu jego lądowania na lotnisku lub opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej. Art. 18bf. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany do kategorii „Potwierdzony RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, a także po oddaniu strzałów ostrzegawczych Dowódca Operacyjny Rodzajów Sił Zbrojnych może podjąć decyzję o zniszczeniu obcego cywilnego statku powietrznego, jeżeli są spełnione łącznie następujące przesłanki: wykorzystany jako środek ataku o charakterze terrorystycznym;
+2. Uprawniony do podjęcia decyzji o oddaniu strzałów ostrzegawczych w kierunku obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Prawdopodobny RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych. Art. 18be. W przypadku dalszego niezastosowania się przez obcy cywilny statek powietrzny z pasażerami na pokładzie zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, lub po oddaniu strzałów ostrzegawczych statek przechwytujący eskortuje ten statek powietrzny do czasu jego lądowania na lotnisku lub opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej. Art. 18bf. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany do kategorii „Potwierdzony RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, a także po oddaniu strzałów ostrzegawczych Dowódca Operacyjny Rodzajów Sił Zbrojnych może podjąć decyzję o zniszczeniu obcego cywilnego statku powietrznego, jeżeli są spełnione łącznie następujące przesłanki:
 
+- **1)** z okoliczności zdarzenia wynika, że obcy cywilny statek powietrzny zostanie wykorzystany jako środek ataku o charakterze terrorystycznym;
 - **2)** atakowi temu nie można zapobiec za pomocą innych dostępnych środków;
 - **3)** obcy cywilny statek powietrzny nie posiada żadnych osób na pokładzie lub na jego pokładzie znajdują się wyłącznie osoby zamierzające użyć tego statku jako środka ataku o charakterze terrorystycznym. Art. 18bg. 1. Decyzję o zastosowaniu środków, o których mowa w art. 18bc– 18bf, Dowódca Operacyjny Rodzajów Sił Zbrojnych podejmuje w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku o charakterze terrorystycznym, z uwzględnieniem nadrzędności ochrony życia osób postronnych, traktując możliwość zniszczenia obcego cywilnego statku powietrznego jako środek ostateczny.
 
@@ -406,7 +459,8 @@ source: "isap-pdf"
 2. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku innym niż lotnisko międzynarodowe lub na lądowisku, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem lub użytkownik lądowiska przekazuje Policji, powiadamiając o tym zdarzeniu organ Straży Granicznej. Art. 18bi. Dyżurny Dowódca Obrony Powietrznej współdziała z Polską Agencją Żeglugi Powietrznej przez prowadzenie ciągłej bieżącej wymiany informacji w zakresie:
 
 - **1)** zapewnienia bezpieczeństwa lotów statków powietrznych w przestrzeni powietrznej Rzeczypospolitej Polskiej;
-- **2)** wymiany informacji o sytuacji powietrznej oraz planowanych i wykonywanych lotach obcych wojskowych statków powietrznych w przestrzeni powietrznej Rzeczypospolitej Polskiej; przekazywania odpowiedzialności nad lotem statków przechwytujących w przestrzeni powietrznej Rzeczypospolitej Polskiej;
+- **2)** wymiany informacji o sytuacji powietrznej oraz planowanych i wykonywanych lotach obcych wojskowych statków powietrznych w przestrzeni powietrznej Rzeczypospolitej Polskiej;
+- **3)** przestrzegania ustalonych procedur koordynacji i identyfikacji oraz przekazywania odpowiedzialności nad lotem statków przechwytujących w przestrzeni powietrznej Rzeczypospolitej Polskiej;
 - **4)** wykorzystania przestrzeni powietrznej Rzeczypospolitej Polskiej przez dyżurne siły i środki systemu obrony powietrznej w celu: Art. 18bj. 1. Jeżeli umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, nie stanowią inaczej, decyzję o opuszczeniu przestrzeni powietrznej Rzeczypospolitej Polskiej przez polskie statki przechwytujące oraz o przekroczeniu granicy państwowej i locie w przestrzeni powietrznej Rzeczypospolitej Polskiej przez wojskowe statki przechwytujące państwa Organizacji Traktatu Północnoatlantyckiego realizujące zadania w ramach Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego w celu przeciwdziałania wojskowym i cywilnym statkom powietrznym podejmuje Dyżurny Dowódca Obrony Powietrznej.
     - **a)** priorytetowego udostępnienia przestrzeni powietrznej Rzeczypospolitej Polskiej oraz zapewnienia bezpieczeństwa statkom przechwytującym realizującym zadania wojskowego nadzoru przestrzeni powietrznej Rzeczypospolitej Polskiej,
     - **b)** zastosowania naziemnych środków systemu obrony powietrznej wobec statków powietrznych nieprzestrzegających przepisów wykonywania lotów obowiązujących w przestrzeni powietrznej Rzeczypospolitej Polskiej.
@@ -417,7 +471,9 @@ source: "isap-pdf"
 
 4. Dyżurny Dowódca Obrony Powietrznej, stosownie do spełnienia przez obcy cywilny statek powietrzny kryteriów, kwalifikuje obiekt powietrzny do odpowiedniej kategorii RENEGADE.
 
-5. Zakwalifikowanie obcego cywilnego statku powietrznego do odpowiedniej kategorii RENEGADE następuje na podstawie informacji posiadanych przez Dyżurnego Dowódcę Obrony Powietrznej oraz przeprowadzonej przez niego analizy sytuacji. powietrznej od państwowego organu zarządzania ruchem lotniczym oraz o zagrożeniach od właściwych organów Sił Zbrojnych Rzeczypospolitej Polskiej lub innych organów państwowych Rzeczypospolitej Polskiej zapewniających bezpieczeństwo państwa.
+5. Zakwalifikowanie obcego cywilnego statku powietrznego do odpowiedniej kategorii RENEGADE następuje na podstawie informacji posiadanych przez Dyżurnego Dowódcę Obrony Powietrznej oraz przeprowadzonej przez niego analizy sytuacji.
+
+6. Dyżurny Dowódca Obrony Powietrznej otrzymuje informacje o sytuacji powietrznej od państwowego organu zarządzania ruchem lotniczym oraz o zagrożeniach od właściwych organów Sił Zbrojnych Rzeczypospolitej Polskiej lub innych organów państwowych Rzeczypospolitej Polskiej zapewniających bezpieczeństwo państwa.
 
 7. W analizie sytuacji powietrznej Dyżurny Dowódca Obrony Powietrznej uwzględnia również informacje otrzymywane od właściwych organów Organizacji Traktatu Północnoatlantyckiego i innych organów międzynarodowych lub innych państw.
 
@@ -425,7 +481,7 @@ source: "isap-pdf"
 
 9. W przypadku wykrycia obcego wojskowego statku powietrznego naruszającego przestrzeń powietrzną Rzeczypospolitej Polskiej właściwy organ dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego, w uzgodnieniu z Dyżurnym Dowódcą Obrony Powietrznej, może zdecydować o użyciu sił i środków wydzielonych do Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego tylko do działań określonych w art. 18b ust. 2.
 
-10. Decyzję o zastosowaniu środków, o których mowa w art. 18b ust. 3, przez dyżurne siły i środki wydzielone do systemu obrony powietrznej Rzeczypospolitej Polskiej i Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych. Decyzję tę Dyżurny Dowódca Obrony Powietrznej natychmiast przekazuje podległym dyżurnym siłom wydzielonym do systemu obrony powietrznej oraz właściwemu organowi dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego. Art. 18bk. 1. Pociski rakietowe wystrzelone w kierunku terytorium Rzeczypospolitej Polskiej mogą być zniszczone przez wojskowe środki obrony Rzeczypospolitej Polskiej lub sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego, które wykonują zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej.
+10. Decyzję o zastosowaniu środków, o których mowa w art. 18b ust. 3, przez dyżurne siły i środki wydzielone do systemu obrony powietrznej Rzeczypospolitej Polskiej i Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych. Decyzję tę Dyżurny Dowódca Obrony Powietrznej natychmiast przekazuje podległym dyżurnym siłom wydzielonym do systemu obrony powietrznej oraz właściwemu organowi dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego. Art. 18bk. 1. Pociski rakietowe wystrzelone w kierunku terytorium Rzeczypospolitej Polskiej mogą być zniszczone przez wojskowe środki obrony powietrznej, w tym przeciwlotniczej i przeciwrakietowej, wydzielone z Sił Zbrojnych Rzeczypospolitej Polskiej lub sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego, które wykonują zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej.
 
 2. Decyzję o zniszczeniu pocisku rakietowego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku.
 
@@ -435,7 +491,9 @@ source: "isap-pdf"
 
 2. Decyzję o zastosowaniu środków, o których mowa w ust. 1, w sposób adekwatny do zagrożenia oraz w granicach zasad określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych wydaje w formie rozkazu Dowódca Operacyjny Rodzajów Sił Zbrojnych po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia oraz z uwzględnieniem nadrzędności ochrony życia osób postronnych. Uprawnienie to może być delegowane na dowódców podległych Dowódcy Operacyjnemu Rodzajów Sił Zbrojnych.
 
-3. W rozkazie, o którym mowa w ust. 2, wskazuje się uzbrojenie lub inny środek właściwy do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód. przejęcia kontroli nad jego lotem można wykorzystywać środki niebędące na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej. Art. 18bm. Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia niezwłocznie Prezydenta Rzeczypospolitej Polskiej o podjęciu decyzji, o których mowa w art. 18b ust. 4, art. 18bg ust. 1, art. 18bj ust. 10, art. 18bk ust. 2 i 3 i art. 18bl ust. 2, oraz ich skutkach. Art. 18bn. Użycie sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego do wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej następuje w trybie określonym w art. 3a ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2024 r. poz. 1770). Art. 18bo. Za szkody wyrządzone osobie trzeciej w wyniku zastosowania środków, o których mowa w art. 18b ust. 3, art. 18ba, art. 18bd, art. 18bf, art. 18bk i art. 18bl, przez Siły Zbrojne Rzeczypospolitej Polskiej lub siły zbrojne państwa Organizacji Traktatu Północnoatlantyckiego wykonujące zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej odpowiada Skarb Państwa reprezentowany przez Ministra Obrony Narodowej.
+3. W rozkazie, o którym mowa w ust. 2, wskazuje się uzbrojenie lub inny środek właściwy do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód.
+
+4. Do zniszczenia lub unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem można wykorzystywać środki niebędące na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej. Art. 18bm. Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia niezwłocznie Prezydenta Rzeczypospolitej Polskiej o podjęciu decyzji, o których mowa w art. 18b ust. 4, art. 18bg ust. 1, art. 18bj ust. 10, art. 18bk ust. 2 i 3 i art. 18bl ust. 2, oraz ich skutkach. Art. 18bn. Użycie sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego do wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej następuje w trybie określonym w art. 3a ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2024 r. poz. 1770). Art. 18bo. Za szkody wyrządzone osobie trzeciej w wyniku zastosowania środków, o których mowa w art. 18b ust. 3, art. 18ba, art. 18bd, art. 18bf, art. 18bk i art. 18bl, przez Siły Zbrojne Rzeczypospolitej Polskiej lub siły zbrojne państwa Organizacji Traktatu Północnoatlantyckiego wykonujące zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej odpowiada Skarb Państwa reprezentowany przez Ministra Obrony Narodowej.
 
 #### Rozdział 3a Przepisy karne
 
@@ -445,7 +503,9 @@ source: "isap-pdf"
 
 2. W przypadku mniejszej wagi, sprawca podlega grzywnie.
 
-**Art. 18d.** Kto, nie będąc do tego uprawnionym, przebywa na obszarze objętym zakazem, o którym mowa w art. 12a ust. 1, w czasie jego obowiązywania podlega karze aresztu albo grzywny. Przepisy końcowe
+**Art. 18d.** Kto, nie będąc do tego uprawnionym, przebywa na obszarze objętym zakazem, o którym mowa w art. 12a ust. 1, w czasie jego obowiązywania podlega karze aresztu albo grzywny.
+
+#### Rozdział 4 Przepisy końcowe
 
 **Art. 19.**
 

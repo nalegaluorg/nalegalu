@@ -8,7 +8,7 @@ pos: 177
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Szkole Głównej Gospodarstwa Wiejskiego - Akademii Rolniczej w Warszawie nadaje się nazwę „Szkoła Główna Gospodarstwa Wiejskiego w Warszawie”.

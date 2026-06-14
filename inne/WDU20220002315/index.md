@@ -8,10 +8,10 @@ pos: 2315
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2315 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 14 listopada 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002315) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2315/text.pdf) |
 
-Poz. 2315 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 14 listopada 2022 r.
 zmieniające rozporządzenie w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
-z 2022 r. poz. 2157) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm. ) w § 13zs:
+z 2022 r. poz. 2157) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm. ) w § 13zs:
 1) w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje pkt 4 w brzmieniu: „4) która wykaże sprzedaż produktów rolnych z gospodarstwa rolnego, o którym mowa w pkt 2, od dnia 1 stycznia 2021 r. do dnia 30 września 2022 r. w wysokości co najmniej 5000 zł brutto.”;
 2) w ust. 4 i 5 liczbę „15” zastępuje się liczbą „23”;
 3) w ust. 7 w pkt 3 kropkę zastępuję się średnikiem i dodaje pkt 4 w brzmieniu: „4) kopie faktur potwierdzających sprzedaż, o której mowa w ust. 2 pkt 4.”.

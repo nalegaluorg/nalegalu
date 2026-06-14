@@ -8,10 +8,10 @@ pos: 646
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 kwietnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 646 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 28 marca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/646/text.pdf) |
 
-Poz. 646 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 28 marca 2019 r.
-w sprawie gospodarki finansowej Solidarnościowego Funduszu Wsparcia Osób Niepełnosprawnych Na podstawie art. 19 ustawy z dnia 23 października 2018 r. o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych (Dz. U. poz. 2192) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe zasady gospodarki finansowej Solidarnościowego Funduszu Wsparcia Osób Niepełnosprawnych, zwanego dalej „Funduszem”.
+w sprawie gospodarki finansowej Solidarnościowego Funduszu Wsparcia Osób Niepełnosprawnych Na podstawie art. 19 ustawy z dnia 23 października 2018 r. o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych (Dz. U. poz. 2192) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe zasady gospodarki finansowej Solidarnościowego Funduszu Wsparcia Osób Niepełnosprawnych, zwanego dalej „Funduszem”.
 § 2. Obsługę finansowo-księgową Funduszu prowadzi urząd obsługujący ministra właściwego do spraw zabezpieczenia społecznego, zwanego dalej „dysponentem Funduszu”.
 § 3. 1. Projekt planu finansowego i plan finansowy Funduszu opracowuje dysponent Funduszu.
 2. Projekt planu finansowego Funduszu sporządza się w uzgodnieniu z ministrem właściwym do spraw finansów publicznych.

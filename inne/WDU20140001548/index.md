@@ -8,10 +8,10 @@ pos: 1548
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 listopada 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1548 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 6 listopada 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1548/text.pdf) |
 
-Poz. 1548 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 6 listopada 2014 r.
-w sprawie udostępniania stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym zapisu dźwięku albo obrazu i dźwięku z rozprawy w postępowaniu w sprawach o wykroczenia oraz wysokości opłaty za wydanie tego zapisu Na podstawie art. 37b § 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie udostępniania stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym zapisu dźwięku albo obrazu i dźwięku z rozprawy w postępowaniu w sprawach o wykroczenia oraz wysokości opłaty za wydanie tego zapisu Na podstawie art. 37b § 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób i tryb udostępniania stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym zapisu dźwięku albo obrazu i dźwięku z rozprawy w siedzibie sądu, a obwinionemu pozbawionemu wolności – w administracji odpowiedniego zakładu;
 2) przekazywanie stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym z akt sprawy zapisu dźwięku z rozprawy;
 3) wysokość opłat za wydawanie zapisu dźwięku z rozprawy na informatycznym nośniku danych.

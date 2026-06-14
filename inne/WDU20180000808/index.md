@@ -8,10 +8,10 @@ pos: 808
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 kwietnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 808 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 kwietnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/808/text.pdf) |
 
-Poz. 808 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 kwietnia 2018 r.
-w sprawie ochrony placówek zagranicznych przez Służbę Ochrony Państwa Na podstawie art. 4 ust. 9 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie ochrony placówek zagranicznych przez Służbę Ochrony Państwa Na podstawie art. 4 ust. 9 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) zakres wykonywania zadań związanych z zapewnieniem prawidłowej ochrony placówek zagranicznych Rzeczypospolitej Polskiej, zwanych dalej „placówkami zagranicznymi”, przez funkcjonariuszy Służby Ochrony Państwa, zwanych dalej „funkcjonariuszami”;
 2) tryb kierowania funkcjonariuszy do wykonywania tych zadań oraz odwoływania ich z tych zadań.
 § 2. W zakresie zadań, o których mowa w art. 4 ust. 8 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, zwanej dalej „ustawą”, funkcjonariusz skierowany do ochrony placówek zagranicznych:

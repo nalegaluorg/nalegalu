@@ -8,10 +8,10 @@ pos: 1106
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 8 października 2012 RozpoRządzenie MinistRa zdRowia 26 września 2012 sprawie składu komisji, trybu orzekania niezdolności do wykonywania zawodu oraz szczegółowego sposobu trybu postępowania sprawach zawieszania prawa wykonywania zawodu albo ograniczenia wykonywania określonych czynności zawodowych Na podstawie art. 27 10 ustawy 15 lipca zawodach 174, 1039 291, 1707) zarządza się, co następuje: § 1. O wszczęciu postępowania podstawie art. 27 ustawy 15 lipca zawodach położnej, zwanej dalej „ustawą”, sprawie podjęcia uchwały zawieszeniu prawa wykonywania zawodu okres trwania niezdolności do wykonywania zawodu albo uchwały ograniczeniu wykonywania określonych czynności zawodowych okres trwania niezdolności do wykonywania zawodu, okręgowa rada pielęgniarek położnych zawiadamia pielęgniarkę położną, której dotyczy postępowanie.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1106 RozpoRządzenie MinistRa zdRowia z dnia 26 września 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,63 +25,74 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1106/text.pdf) |
 
-§ 2. 1. Komisja lekarska do oceny niezdolności do wykonywania zawodu, powołana podstawie art. 27 ustawy, zwana dalej „komisją”, orzeka składzie trzech lekarzy specjalistów odpowiednich dziedzin medycyny.
-2. Jeżeli podstawą wszczęcia postępowania jest uzasadnione podejrzenie niezdolności do wykonywania zawodu spowodowanej zaburzeniami psychicznymi, chorobą psychiczną, narkomanią alkoholizmem, skład wchodzi co najmniej dwóch lekarzy specjalistów dziedzinie psychiatrii.
-Członkiem nie może być lekarz, który:
-1) został zawieszony prawie wykonywania zawodu;
-2) został ograniczony wykonywaniu określonych czynności medycznych;
-3) został ukarany przez sąd prawomocnym orzeczeniem zastosowaniu środka karnego postaci zakazu zajmowania określonego stanowiska, wykonywania określonego zawodu prowadzenia określonej działalności gospodarczej;
-4) jest małżonkiem krewnym albo powinowatym do drugiego stopnia położnej, której dotyczy postępowanie;
-5) pozostaje wobec położnej, której dotyczy postępowanie, takim stosunku prawnym faktycznym, że może to budzić uzasadnione wątpliwości co do jego bezstronności.
-4. Członkowie wybierają spośród siebie przewodniczącego komisji.
-5. Okręgowa rada pielęgniarek położnych zawiadamia niezwłocznie powołaniu pielęgniarkę położną, której dotyczy postępowanie.
-7. Wyłączenia dokonuje okręgowa rada pielęgniarek położnych.
-8. W przypadku uznania wniosku za zasadny terminie 7 dni od wyłączenia dotychczasowego członka powołuje się jego miejsce nowego członka.
-§ 1. Pielęgniarka położna, której dotyczy postępowanie, może wskazać pielęgniarkę, położną lekarza jako swojego męża zaufania.
-2. Mąż zaufania, nie będąc członkiem komisji, ma prawo uczestniczyć we wszystkich jej czynnościach, wyjątkiem głosowania.
-§ 4. 1. Komisja wydaje orzeczenie zdolności albo niezdolności do wykonywania zawodu podstawie przeprowadzonego badania lekarskiego zgromadzonej toku postępowania dokumentacji medycznej.
-2. Komisja może wystąpić wydanie opinii lekarza specjalisty odpowiedniej dziedziny medycyny.
-Termin wykonywania badania lekarskiego wyznacza przewodniczący komisji.
-4. W razie usprawiedliwionego niestawiennictwa przewodniczący wyznacza ponowny termin wykonania badania lekarskiego.
-5. Usprawiedliwienie niestawiennictwa powodu choroby wymaga przedstawienia zaświadczenia lekarskiego potwierdzającego niemożność stawienia się badanie lekarskie terminie 7 dni od wystawienia zaświadczenia.
-6. W przypadku innych okoliczności niestawiennictwa pielęgniarka położna informuje komisję przyczynach usprawiedliwiających niestawiennictwo, uprawdopodabniając je pisemnie terminie 7 dni od ich zaistnienia.
-7. Jeżeli pielęgniarka położna odmawia wykonania badania lekarskiego nie stawiła się ponowny termin jego wykonania, przewodniczący powiadamia tym niezwłocznie okręgową radę pielęgniarek położnych.
-8. Komisja powinna wydać orzeczenie nie później niż terminie dwóch miesięcy od jej powołania.
-9. W uzasadnionych przypadkach okręgowa rada pielęgniarek położnych może przedłużyć termin wydania orzeczenia.
-§ 5. Jeżeli czynności prowadzone przez komisję wskazują, że dalsze wykonywanie zawodu ściśle określonych czynności zawodowych ze względu stan zdrowia nie jest możliwe, komisja powiadamia tym niezwłocznie okręgową radę pielęgniarek położnych.
-§ 6. 1. Komisja dokonanych czynności sporządza protokół, który zawiera:
-1) oznaczenie daty miejsca posiedzenia komisji;
-2) imiona, nazwiska tytuły zawodowe członków oraz wskazanie dziedzin medycyny, których posiadają oni specjalizację;
-3) imię nazwisko badanej oraz określenie dokumentu stwierdzającego jej tożsamość;
-4) imię nazwisko męża zaufania, jeżeli został wyznaczony;
-5) okoliczności, które spowodowały przeprowadzenie badania lekarskiego, oraz okoliczności, które spowodowały konieczność zasięgnięcia opinii, której mowa § 4 2;
-4. Orzeczenie wraz uzasadnieniem ze zgromadzoną toku postępowania dokumentacją medyczną oraz protokołem prowadzonego postępowania komisja niezwłocznie przekazuje okręgowej radzie pielęgniarek położnych.
-5. Okręgowa rada pielęgniarek położnych doręcza niezwłocznie odpis orzeczenia pielęgniarce położnej, której dotyczy postępowanie, jej mężowi zaufania, jeżeli został wyznaczony.
-§ 7. 1. W uzasadnionych przypadkach okręgowa rada pielęgniarek położnych może zwrócić się do uzupełnienie orzeczenia:
-1) urzędu terminie 14 dni od otrzymania orzeczenia komisji;
-2) wniosek położnej, której dotyczy postępowanie terminie 14 dni od otrzymania tego wniosku.
-2. Wniosek uzupełnienie orzeczenia, którym mowa pkt 2, pielęgniarka położna, której dotyczy postępowanie, może złożyć do okręgowej rady pielęgniarek położnych terminie 14 dni od otrzymania orzeczenia komisji.
-§ 8. Jeżeli orzeczenie nie daje podstaw do zawieszenia prawa wykonywania zawodu albo ograniczenia wykonywania określonych czynności zawodowych, okręgowa rada pielęgniarek położnych podejmuje uchwałę umorzeniu postępowania.
-§ 9. 1. Uchwała zawieszeniu prawa wykonywania zawodu okres trwania niezdolności do wykonywania zawodu albo uchwała ograniczeniu wykonywania określonych czynności zawodowych okres trwania niezdolności do wykonywania zawodu powinny zawierać:
-1) oznaczenie okręgowej rady pielęgniarek położnych;
+w sprawie składu komisji, trybu orzekania o niezdolności do wykonywania zawodu pielęgniarki lub położnej oraz szczegółowego sposobu i trybu postępowania w sprawach zawieszania prawa wykonywania zawodu albo ograniczenia wykonywania określonych czynności zawodowych Na podstawie art. 27 ust. 10 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707) zarządza się, co następuje:
+§ 1. O wszczęciu postępowania na podstawie art. 27 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, zwanej dalej „ustawą”, w sprawie podjęcia uchwały o zawieszeniu prawa wykonywania zawodu pielęgniarki lub położnej na okres trwania niezdolności do wykonywania zawodu albo uchwały o ograniczeniu wykonywania określonych czynności zawodowych na okres trwania niezdolności do wykonywania zawodu, okręgowa rada pielęgniarek i położnych zawiadamia pielęgniarkę lub położną, której dotyczy postępowanie.
+§ 2. 1. Komisja lekarska do oceny niezdolności pielęgniarki lub położnej do wykonywania zawodu, powołana na podstawie art. 27 ust. 1 ustawy, zwana dalej „komisją”, orzeka w składzie trzech lekarzy specjalistów odpowiednich dziedzin medycyny.
+2. Jeżeli podstawą wszczęcia postępowania jest uzasadnione podejrzenie niezdolności pielęgniarki lub położnej do wykonywania zawodu spowodowanej zaburzeniami psychicznymi, chorobą psychiczną, narkomanią lub alkoholizmem, w skład komisji wchodzi co najmniej dwóch lekarzy specjalistów w dziedzinie psychiatrii.
+3. Członkiem komisji nie może być lekarz, który:
+1) został zawieszony w prawie wykonywania zawodu;
+2) został ograniczony w wykonywaniu określonych czynności medycznych;
+3) został ukarany przez sąd prawomocnym orzeczeniem o zastosowaniu środka karnego w postaci zakazu zajmowania określonego stanowiska, wykonywania określonego zawodu lub prowadzenia określonej działalności gospodarczej;
+4) jest małżonkiem lub krewnym albo powinowatym do drugiego stopnia pielęgniarki lub położnej, której dotyczy postępowanie;
+5) pozostaje wobec pielęgniarki lub położnej, której dotyczy postępowanie, w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do jego bezstronności.
+4. Członkowie komisji wybierają spośród siebie przewodniczącego komisji.
+5. Okręgowa rada pielęgniarek i położnych zawiadamia niezwłocznie o powołaniu komisji pielęgniarkę lub położną, której dotyczy postępowanie.
+6. Członek komisji podlega wyłączeniu od udziału w postępowaniu z urzędu lub na wniosek pielęgniarki lub położnej, której dotyczy postępowanie, jeżeli w trakcie tego postępowania zaszła co najmniej jedna z okoliczności, o których mowa w ust. 3.
+7. Wyłączenia dokonuje okręgowa rada pielęgniarek i położnych.
+8. W przypadku uznania wniosku za zasadny w terminie 7 dni od dnia wyłączenia dotychczasowego członka komisji powołuje się na jego miejsce nowego członka.
+§ 3. 1. Pielęgniarka lub położna, której dotyczy postępowanie, może wskazać pielęgniarkę, położną lub lekarza jako swojego męża zaufania.
+2. Mąż zaufania, nie będąc członkiem komisji, ma prawo uczestniczyć we wszystkich jej czynnościach, z wyjątkiem głosowania.
+§ 4. 1. Komisja wydaje orzeczenie o zdolności albo niezdolności do wykonywania zawodu pielęgniarki lub położnej na podstawie przeprowadzonego badania lekarskiego i zgromadzonej w toku postępowania dokumentacji medycznej.
+2. Komisja może wystąpić o wydanie opinii lekarza specjalisty odpowiedniej dziedziny medycyny.
+3. Termin wykonywania badania lekarskiego wyznacza przewodniczący komisji.
+4. W razie usprawiedliwionego niestawiennictwa pielęgniarki lub położnej przewodniczący komisji wyznacza ponowny termin wykonania badania lekarskiego.
+5. Usprawiedliwienie niestawiennictwa pielęgniarki lub położnej z powodu choroby wymaga przedstawienia zaświadczenia lekarskiego potwierdzającego niemożność stawienia się na badanie lekarskie w terminie 7 dni od dnia wystawienia zaświadczenia.
+6. W przypadku innych okoliczności niestawiennictwa pielęgniarki lub położnej pielęgniarka lub położna informuje komisję o przyczynach usprawiedliwiających niestawiennictwo, uprawdopodabniając je pisemnie w terminie 7 dni od dnia ich zaistnienia.
+7. Jeżeli pielęgniarka lub położna odmawia wykonania badania lekarskiego lub nie stawiła się na ponowny termin jego wykonania, przewodniczący komisji powiadamia o tym niezwłocznie okręgową radę pielęgniarek i położnych.
+8. Komisja powinna wydać orzeczenie nie później niż w terminie dwóch miesięcy od dnia jej powołania.
+9. W uzasadnionych przypadkach okręgowa rada pielęgniarek i położnych może przedłużyć termin wydania orzeczenia.
+§ 5. Jeżeli czynności prowadzone przez komisję wskazują, że dalsze wykonywanie zawodu lub ściśle określonych czynności zawodowych ze względu na stan zdrowia pielęgniarki lub położnej nie jest możliwe, komisja powiadamia o tym niezwłocznie okręgową radę pielęgniarek i położnych.
+§ 6. 1. Komisja z dokonanych czynności sporządza protokół, który zawiera:
+1) oznaczenie daty i miejsca posiedzenia komisji;
+2) imiona, nazwiska i tytuły zawodowe członków komisji oraz wskazanie dziedzin medycyny, w których posiadają oni specjalizację;
+3) imię i nazwisko badanej pielęgniarki lub położnej oraz określenie dokumentu stwierdzającego jej tożsamość;
+4) imię i nazwisko męża zaufania, jeżeli został wyznaczony;
+5) okoliczności, które spowodowały przeprowadzenie badania lekarskiego, oraz okoliczności, które spowodowały konieczność zasięgnięcia opinii, o której mowa w § 4 ust. 2;
+6) podpisy członków komisji i męża zaufania albo informację o odmowie podpisania protokołu przez męża zaufania.
+2. Do protokołu dołącza się orzeczenie komisji wraz z uzasadnieniem.
+3. Orzeczenia komisji zapadają większością głosów. Członek komisji, który ma odrębne zdanie, może je złożyć na piśmie wraz z uzasadnieniem, które dołącza się do protokołu.
+4. Orzeczenie wraz z uzasadnieniem i ze zgromadzoną w toku postępowania dokumentacją medyczną oraz z protokołem prowadzonego postępowania komisja niezwłocznie przekazuje okręgowej radzie pielęgniarek i położnych.
+5. Okręgowa rada pielęgniarek i położnych doręcza niezwłocznie odpis orzeczenia komisji pielęgniarce lub położnej, której dotyczy postępowanie, i jej mężowi zaufania, jeżeli został wyznaczony.
+§ 7. 1. W uzasadnionych przypadkach okręgowa rada pielęgniarek i położnych może zwrócić się do komisji o uzupełnienie orzeczenia:
+1) z urzędu – w terminie 14 dni od dnia otrzymania orzeczenia komisji;
+2) n a wniosek pielęgniarki lub położnej, której dotyczy postępowanie – w terminie 14 dni od dnia otrzymania tego wniosku.
+2. Wniosek o uzupełnienie orzeczenia, o którym mowa w ust. 1 pkt 2, pielęgniarka lub położna, której dotyczy postępowanie, może złożyć do okręgowej rady pielęgniarek i położnych w terminie 14 dni od dnia otrzymania orzeczenia komisji.
+§ 8. Jeżeli orzeczenie komisji nie daje podstaw do zawieszenia prawa wykonywania zawodu pielęgniarki lub położnej albo ograniczenia wykonywania określonych czynności zawodowych, okręgowa rada pielęgniarek i położnych podejmuje uchwałę o umorzeniu postępowania.
+§ 9. 1. Uchwała o zawieszeniu prawa wykonywania zawodu pielęgniarki lub położnej na okres trwania niezdolności do wykonywania zawodu albo uchwała o ograniczeniu wykonywania określonych czynności zawodowych na okres trwania niezdolności do wykonywania zawodu powinny zawierać:
+1) oznaczenie okręgowej rady pielęgniarek i położnych;
 2) datę podjęcia;
-3) imię nazwisko oraz adres miejsca zamieszkania położnej;
+3) imię i nazwisko oraz adres miejsca zamieszkania pielęgniarki lub położnej;
 4) podstawę prawną;
-5) rozstrzygnięcie, określeniem okresu zawieszenia albo ograniczenia prawa wykonywania zawodu;
-6) uzasadnienie faktyczne prawne;
+5) rozstrzygnięcie, z określeniem okresu zawieszenia albo ograniczenia prawa wykonywania zawodu;
+6) uzasadnienie faktyczne i prawne;
 7) termin ponownego badania lekarskiego przez komisję;
-8) pouczenie trybie terminie odwołania;
-9) podpisy osób, których mowa art. 9 3 ustawy lipca samorządzie pielęgniarek położnych 174, 1038).
-2. Uchwała okręgowej rady pielęgniarek położnych zawieszeniu prawa wykonywania zawodu położnej okres trwania niezdolności do wykonywania zawodu stanowi podstawę do zwrócenia przez pielęgniarkę położną dokumentu prawa wykonywania zawodu do okręgowej rady pielęgniarek położnych, terminie 14 dni od otrzymania uchwały, adres wskazany uchwale.
-§ 10. Przepisy § 9 stosuje się odpowiednio do uchwały okręgowej rady pielęgniarek położnych zawieszeniu prawa wykonywania zawodu okres trwania niezdolności do wykonywania zawodu do uchwały ograniczeniu wykonywania określonych czynności zawodowych okres trwania niezdolności do wykonywania zawodu, jeżeli uchwały te dotyczą położnej, która odmówiła poddania się badaniom przez komisję, tym że zawieszenie prawa wykonywania zawodu albo ograniczenie wykonywania określonych czynności zawodowych następuje do stawienia się badanie lekarskie.
-§ 11. 1. Okręgowa rada pielęgniarek położnych przesyła niezwłocznie odwołanie wraz aktami sprawy do Naczelnej Rady Pielęgniarek Położnych.
-2) zmienia całości albo części uchwałę okręgowej rady pielęgniarek położnych;
-3) uchyla całości albo części uchwałę okręgowej rady pielęgniarek położnych przekazuje sprawę do ponownego rozpatrzenia;
-4) umarza postępowanie przyczyn określonych § 8.
-4. Do uchwał Naczelnej Rady Pielęgniarek Położnych podjętych wyniku złożenia odwołania przepisy § 9 stosuje się odpowiednio.
-§ 12. 1. Okręgowa rada pielęgniarek położnych podjętej uchwale zawieszeniu prawa wykonywania zawodu pielęgniarki okres trwania niezdolności do wykonywania zawodu albo uchwale ograniczeniu wykonywania określonych czynności zawodowych okres trwania niezdolności do wykonywania zawodu powiadamia podmiot, którym pielęgniarka położna wykonuje zawód.
-2. Jeżeli pielęgniarka położna wykonuje indywidualną praktykę, indywidualną praktykę wyłącznie miejscu wezwania, indywidualną specjalistyczną praktykę, indywidualną specjalistyczną praktykę wyłącznie miejscu wezwania, indywidualną praktykę wyłącznie przedsiębiorstwie podmiotu leczniczego podstawie umowy tym podmiotem, indywidualną specjalistyczną praktykę wyłącznie przedsiębiorstwie podmiotu leczniczego podstawie umowy tym podmiotem grupową praktykę obszarze innej niż okręgowa rada pielęgniarek położnych, która podjęła uchwałę określoną 1, podjętej uchwale należy powiadomić właściwą okręgową radę pielęgniarek położnych.
-Naczelna Rada Pielęgniarek Położnych niezwłocznie powiadamia podmioty określone 2 podjęciu uchwały, której mowa § 11 § 13. Do postępowań sprawie orzekania niezdolności do wykonywania zawodu położnej, podjęcia uchwały zawieszeniu prawa wykonywania zawodu okres trwania niezdolności do wykonywania zawodu albo uchwały ograniczeniu wykonywania określonych czynności zawodowych okres trwania niezdolności do wykonywania zawodu wszczętych a niezakończonych przed dniem wejścia życie stosuje się przepisy dotychczasowe.
-§ 14. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.
+8) pouczenie o trybie i terminie odwołania;
+9) podpisy osób, o których mowa w art. 9 ust. 3 ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 174, poz. 1038).
+2. Uchwała okręgowej rady pielęgniarek i położnych o zawieszeniu prawa wykonywania zawodu pielęgniarki lub położnej na okres trwania niezdolności do wykonywania zawodu stanowi podstawę do zwrócenia przez pielęgniarkę lub położną dokumentu prawa wykonywania zawodu do okręgowej rady pielęgniarek i położnych, w terminie 14 dni od dnia otrzymania uchwały, na adres wskazany w uchwale.
+§ 10. Przepisy § 9 stosuje się odpowiednio do uchwały okręgowej rady pielęgniarek i położnych o zawieszeniu prawa wykonywania zawodu pielęgniarki lub położnej na okres trwania niezdolności do wykonywania zawodu i do uchwały o ograniczeniu wykonywania określonych czynności zawodowych na okres trwania niezdolności do wykonywania zawodu, jeżeli uchwały te dotyczą pielęgniarki lub położnej, która odmówiła poddania się badaniom przez komisję, z tym że zawieszenie prawa wykonywania zawodu albo ograniczenie wykonywania określonych czynności zawodowych następuje do dnia stawienia się na badanie lekarskie.
+§ 11. 1. Okręgowa rada pielęgniarek i położnych przesyła niezwłocznie odwołanie wraz z aktami sprawy do Naczelnej Rady Pielęgniarek i Położnych.
+2. Naczelna Rada Pielęgniarek i Położnych może powołać komisję dla dokonania oceny niezdolności pielęgniarki lub położnej do wykonywania zawodu albo w sprawie niezdolności do wykonywania określonych czynności zawodowych.
+Przepisy § 2–6 stosuje się odpowiednio.
+3. W wyniku przeprowadzonego postępowania odwoławczego Naczelna Rada Pielęgniarek i Położnych:
+1) utrzymuje w mocy uchwałę okręgowej rady pielęgniarek i położnych;
+2) zmienia w całości albo w części uchwałę okręgowej rady pielęgniarek i położnych;
+3) uchyla w całości albo w części uchwałę okręgowej rady pielęgniarek i położnych i przekazuje sprawę do ponownego rozpatrzenia;
+4) umarza postępowanie z przyczyn określonych w § 8.
+4. Do uchwał Naczelnej Rady Pielęgniarek i Położnych podjętych w wyniku złożenia odwołania przepisy § 9 ust. 1 stosuje się odpowiednio.
+§ 12. 1. Okręgowa rada pielęgniarek i położnych o podjętej uchwale o zawieszeniu prawa wykonywania zawodu pielęgniarki lub położnej na okres trwania niezdolności do wykonywania zawodu albo uchwale o ograniczeniu wykonywania określonych czynności zawodowych na okres trwania niezdolności do wykonywania zawodu powiadamia podmiot, w którym pielęgniarka lub położna wykonuje zawód.
+2. Jeżeli pielęgniarka lub położna wykonuje indywidualną praktykę, indywidualną praktykę wyłącznie w miejscu wezwania, indywidualną specjalistyczną praktykę, indywidualną specjalistyczną praktykę wyłącznie w miejscu wezwania, indywidualną praktykę wyłącznie w przedsiębiorstwie podmiotu leczniczego na podstawie umowy z tym podmiotem, indywidualną specjalistyczną praktykę wyłącznie w przedsiębiorstwie podmiotu leczniczego na podstawie umowy z tym podmiotem lub grupową praktykę na obszarze innej niż okręgowa rada pielęgniarek i położnych, która podjęła uchwałę określoną w ust. 1, o podjętej uchwale należy powiadomić właściwą okręgową radę pielęgniarek i położnych.
+3. Naczelna Rada Pielęgniarek i Położnych niezwłocznie powiadamia podmioty określone w ust. 1 i 2 o podjęciu uchwały, o której mowa w § 11 ust. 3.
+§ 13. Do postępowań w sprawie orzekania o niezdolności do wykonywania zawodu pielęgniarki lub położnej, podjęcia uchwały o zawieszeniu prawa wykonywania zawodu pielęgniarki lub położnej na okres trwania niezdolności do wykonywania zawodu albo uchwały o ograniczeniu wykonywania określonych czynności zawodowych na okres trwania niezdolności do wykonywania zawodu wszczętych a niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+§ 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: B.A. Arłukowicz
 

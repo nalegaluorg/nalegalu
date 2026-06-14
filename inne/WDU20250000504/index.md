@@ -8,7 +8,7 @@ pos: 504
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej
@@ -41,7 +41,7 @@ Art. 35–37. (pominięte)
 
 1b. Przez cyberprzestrzeń, o której mowa w ust. 1, rozumie się przestrzeń przetwarzania i wymiany informacji tworzoną przez systemy teleinformatyczne, określone w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717), wraz z powiązaniami pomiędzy nimi oraz relacjami z użytkownikami.
 
-2. We wniosku, o którym mowa w ust. 1, Rada Ministrów określa przyczyny i obszar, na którym ma być wprowadzony stan wojenny, a także odpowiednie do ograniczeń wolności i praw człowieka i obywatela.
+2. We wniosku, o którym mowa w ust. 1, Rada Ministrów określa przyczyny i obszar, na którym ma być wprowadzony stan wojenny, a także odpowiednie do stopnia i charakteru zagrożenia, w zakresie dopuszczonym niniejszą ustawą, rodzaje ograniczeń wolności i praw człowieka i obywatela.
 
 **Art. 3.**
 
@@ -53,7 +53,7 @@ Art. 35–37. (pominięte)
 
 1. Stan wojenny obowiązuje od dnia ogłoszenia rozporządzenia, o którym mowa w art. 3 ust. 1, w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
-2. W przypadku uchylenia rozporządzenia, o którym mowa w art. 3 ust. 1, przez Sejm Rzeczypospolitej Polskiej uchwałę w tej sprawie niezwłocznie ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+2. W przypadku uchylenia rozporządzenia, o którym mowa w art. 3 ust. 1, przez Sejm Rzeczypospolitej Polskiej uchwałę Sejmu w tej sprawie niezwłocznie ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 3. Rozporządzenie Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wojennego oraz inne akty prawne dotyczące tego stanu podaje się do publicznej wiadomości, w drodze obwieszczenia właściwego wojewody, przez rozplakatowanie w miejscach publicznych, a także w sposób zwyczajowo przyjęty na danym obszarze.
 
@@ -63,7 +63,7 @@ Art. 35–37. (pominięte)
 
 **Art. 7.**
 
-1. Wprowadzenie stanu wojennego wywołuje skutki określone w niniejszej ustawie i w innych przepisach dotyczących stanu wojennego w stosunku do organów władzy publicznej, obywateli polskich zamieszkałych lub czasowo przebywających na obszarze, na którym został wprowadzony stan wojenny, osób mających siedzibę lub prowadzących działalność gospodarczą na obszarze objętym stanem wojennym.
+1. Wprowadzenie stanu wojennego wywołuje skutki określone w niniejszej ustawie i w innych przepisach dotyczących stanu wojennego w stosunku do organów władzy publicznej, obywateli polskich zamieszkałych lub czasowo przebywających na obszarze, na którym został wprowadzony stan wojenny, osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej mających siedzibę lub prowadzących działalność gospodarczą na obszarze objętym stanem wojennym.
 
 2. W przypadku gdy niniejsza ustawa, a także inne ustawy albo ratyfikowane umowy międzynarodowe nie stanowią inaczej oraz nie zabrania tego powszechnie uznany zwyczaj międzynarodowy, przepis ust. 1 stosuje się również do cudzoziemców przebywających na obszarze, na którym został wprowadzony stan wojenny, oraz do ich mienia, jak również mienia innych państw.
 
@@ -89,6 +89,11 @@ Art. 35–37. (pominięte)
 - **4)** może mianować, na wniosek Prezesa Rady Ministrów, Naczelnego Dowódcę Sił Zbrojnych;
 - **5)** zatwierdza, na wniosek Naczelnego Dowódcy Sił Zbrojnych, plany operacyjnego użycia Sił Zbrojnych;
 - **6)** uznaje, na wniosek Naczelnego Dowódcy Sił Zbrojnych, określone obszary Rzeczypospolitej Polskiej za strefy bezpośrednich działań wojennych.
+
+**Art. 11.**
+
+1. Rada Ministrów w czasie stanu wojennego w szczególności:
+
 - **1)** zarządza uruchomienie systemu kierowania obroną państwa;
 - **2)** zarządza przejście na wojenne, określone w odrębnych przepisach, zasady działania organów władzy publicznej;
 - **3)** określa, na wniosek Naczelnego Dowódcy Sił Zbrojnych, zasady działania organów władzy publicznej w strefie bezpośrednich działań wojennych;
@@ -99,7 +104,15 @@ Art. 35–37. (pominięte)
 
 **Art. 12.** Minister Obrony Narodowej w czasie stanu wojennego w szczególności:
 
-**Art. 12a.** W celu zabezpieczenia realizacji przewidzianych w art. 26 ust. 1a i 3, art. 41 pkt 6, 9 i 9l, art. 41a ust. 2, art. 44, art. 51, art. 52, art. 52f ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252) Narodowej, w drodze decyzji niepodlegającej ogłoszeniu, wydzieli z Dowództwa Komponentu Wojsk Obrony Cyberprzestrzeni oraz z jednostek podporządkowanych Dowódcy Komponentu Wojsk Obrony Cyberprzestrzeni zespoły specjalistów oraz zasoby materiałowe i sprzętowe, które będą podlegać Ministrowi Obrony Narodowej w przypadku mianowania Naczelnego Dowódcy Sił Zbrojnych i przejęcia przez niego dowodzenia Siłami Zbrojnymi.
+- **1)** dokonuje oceny zagrożeń wojennych i możliwości obronnych oraz formułuje i przedstawia właściwym organom propozycje dotyczące obrony państwa;
+- **2)** koordynuje realizację zadań organów administracji rządowej i jednostek samorządu terytorialnego wynikających z zadań dotyczących obrony państwa;
+- **3)** przedstawia właściwym organom potrzeby w zakresie świadczeń organów państwowych i jednostek samorządu terytorialnego, przedsiębiorców i innych jednostek organizacyjnych oraz osób fizycznych, na rzecz Sił Zbrojnych i obrony państwa;
+- **4)** sprawuje ogólny nadzór nad realizacją zadań obronnych wykonywanych przez organy administracji rządowej i jednostki samorządu terytorialnego;
+- **5)** organizuje mobilizacyjne rozwinięcie, uzupełnianie i wyposażanie Sił Zbrojnych;
+- **6)** współdziała z ministrem właściwym do spraw wewnętrznych w zakresie świadczeń, o których mowa w pkt 3;
+- **7)** koordynuje realizację zadań państwa-gospodarza wynikających z umów międzynarodowych.
+
+**Art. 12a.** W celu zabezpieczenia realizacji przewidzianych w art. 26 ust. 1a i 3, art. 41 pkt 6, 9 i 9l, art. 41a ust. 2, art. 44, art. 51, art. 52, art. 52f ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252) zadań CSIRT MON oraz zadań Ministra Obrony Narodowej, Minister Obrony Narodowej, w drodze decyzji niepodlegającej ogłoszeniu, wydzieli z Dowództwa Komponentu Wojsk Obrony Cyberprzestrzeni oraz z jednostek podporządkowanych Dowódcy Komponentu Wojsk Obrony Cyberprzestrzeni zespoły specjalistów oraz zasoby materiałowe i sprzętowe, które będą podlegać Ministrowi Obrony Narodowej w przypadku mianowania Naczelnego Dowódcy Sił Zbrojnych i przejęcia przez niego dowodzenia Siłami Zbrojnymi.
 
 **Art. 13.**
 
@@ -116,7 +129,7 @@ Art. 35–37. (pominięte)
 - **5)** koordynuje i kontroluje działalność organów władzy publicznej, przedsiębiorców oraz innych jednostek organizacyjnych działających na obszarze województwa;
 - **6)** może nakładać zadania i nakazywać jednostkom samorządu terytorialnego dokonywanie określonych wydatków, na zasadach określonych w odrębnych przepisach.
 
-3. W zakresie działań, o których mowa w ust. 2, wojewodzie są podporządkowane wszystkie jednostki organizacyjne administracji rządowej i samorządowej działające na obszarze województwa oraz inne siły i środki z obroną państwa i województwa, a także związanych z obroną cywilną.
+3. W zakresie działań, o których mowa w ust. 2, wojewodzie są podporządkowane wszystkie jednostki organizacyjne administracji rządowej i samorządowej działające na obszarze województwa oraz inne siły i środki wydzielone do jego dyspozycji i skierowane do wykonywania zadań związanych z obroną państwa i województwa, a także związanych z obroną cywilną.
 
 **Art. 13a.** W czasie stanu wojennego starosta (prezydent miasta na prawach powiatu) kieruje realizacją zadań obrony cywilnej na terenie powiatu.
 
@@ -134,7 +147,9 @@ Art. 35–37. (pominięte)
 
 4. Stan zawieszenia organów gminy, powiatu lub samorządu województwa ustaje z upływem czasu określonego przez Prezesa Rady Ministrów oraz z mocy prawa z dniem zniesienia stanu wojennego.
 
-**Art. 15.** Decyzje wydane przez organy władzy publicznej na podstawie niniejszej ustawy lub przepisów wykonawczych podlegają natychmiastowemu wykonaniu. Przepisy o postępowaniu egzekucyjnym w administracji stosuje się odpowiednio. Naczelny Dowódca Sił Zbrojnych
+**Art. 15.** Decyzje wydane przez organy władzy publicznej na podstawie niniejszej ustawy lub przepisów wykonawczych podlegają natychmiastowemu wykonaniu. Przepisy o postępowaniu egzekucyjnym w administracji stosuje się odpowiednio.
+
+#### Rozdział 3 Naczelny Dowódca Sił Zbrojnych
 
 **Art. 16.**
 
@@ -157,9 +172,13 @@ Art. 35–37. (pominięte)
 
 1. Na obszarze, na którym został wprowadzony stan wojenny, ograniczeniom wolności i praw człowieka i obywatela podlegają wszystkie osoby fizyczne zamieszkałe lub przebywające tam chociażby czasowo, a także ograniczenia te stosuje się odpowiednio wobec osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej mających siedzibę lub prowadzących działalność na obszarze objętym stanem wojennym.
 
-2. Rodzaje ograniczeń wolności i praw człowieka i obywatela określone w rozporządzeniu, o którym mowa w art. 3 ust. 1, powinny odpowiadać charakterowi oraz intensywności zagrożeń stanowiących przyczyny wprowadzenia stanu państwa.
+2. Rodzaje ograniczeń wolności i praw człowieka i obywatela określone w rozporządzeniu, o którym mowa w art. 3 ust. 1, powinny odpowiadać charakterowi oraz intensywności zagrożeń stanowiących przyczyny wprowadzenia stanu wojennego, a także zapewniać skuteczne przywrócenie normalnego funkcjonowania państwa.
 
 **Art. 19.** W czasie stanu wojennego można zawiesić prawo do:
+
+- **1)** strajków pracowniczych i innych form protestu w odniesieniu do określonych kategorii pracowników lub w określonych dziedzinach;
+- **2)** strajków i innych niż strajki form akcji protestacyjnych rolników;
+- **3)** akcji protestacyjnych studentów organizowanych przez studenckie samorządy, stowarzyszenia lub organizacje.
 
 **Art. 20.**
 
@@ -178,7 +197,7 @@ Art. 35–37. (pominięte)
 - **3)** kontrola treści korespondencji telekomunikacyjnej i rozmów telefonicznych lub sygnałów przesyłanych w sieciach telekomunikacyjnych;
 - **4)** emisja sygnałów uniemożliwiających nadawanie lub odbiór przekazów radiowych, telewizyjnych lub dokonywanych poprzez urządzenia i sieci telekomunikacyjne, których treść może zwiększyć zagrożenie bezpieczeństwa lub obronności państwa.
 
-2. Funkcję organów cenzury i kontroli pełnią właściwi wojewodowie, którzy mogą nakazać organom administracji publicznej działającym na obszarze cenzury lub kontroli.
+2. Funkcję organów cenzury i kontroli pełnią właściwi wojewodowie, którzy mogą nakazać organom administracji publicznej działającym na obszarze województwa wykonywanie czynności technicznych niezbędnych do prowadzenia cenzury lub kontroli.
 
 3. Organy cenzury i kontroli są uprawnione do zatrzymywania w całości lub w części publikacji, przesyłek pocztowych i kurierskich oraz korespondencji telekomunikacyjnej, a także do przerywania rozmów telefonicznych i transmisji sygnałów przesyłanych w sieciach telekomunikacyjnych, jeżeli ich zawartość lub treść może zwiększyć zagrożenie bezpieczeństwa lub obronności państwa.
 
@@ -201,7 +220,7 @@ Art. 35–37. (pominięte)
 
 - **1)** organizowania i przeprowadzania wszelkiego rodzaju zgromadzeń;
 - **2)** organizowania i przeprowadzania imprez masowych oraz prowadzonych w ramach działalności kulturalnej imprez artystycznych i rozrywkowych niebędących imprezami masowymi;
-- **3)** zrzeszania się poprzez nakazanie okresowego zaniechania działalności zarejestrowanych stowarzyszeń, partii politycznych, związków zawodowych, obywatelskich oraz innych dobrowolnych zrzeszeń i fundacji, których działalność może utrudnić realizację zadań obronnych.
+- **3)** zrzeszania się poprzez nakazanie okresowego zaniechania działalności zarejestrowanych stowarzyszeń, partii politycznych, związków zawodowych, organizacji społeczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeń i fundacji, których działalność może utrudnić realizację zadań obronnych.
 
 2. Przepis ust. 1 pkt 1 nie dotyczy zgromadzeń organizowanych przez kościoły i inne związki wyznaniowe oraz organizacje religijne działające w obrębie świątyń, budynków kościelnych, w innych pomieszczeniach służących organizowaniu i publicznemu sprawowaniu kultu, a także zgromadzeń organizowanych przez organy państwa lub organy samorządu terytorialnego.
 
@@ -223,7 +242,8 @@ Art. 35–37. (pominięte)
 1. W czasie stanu wojennego mogą być wprowadzone ograniczenia wolności i praw człowieka i obywatela w zakresie:
 
 - **1)** dostępu do towarów konsumpcyjnych, poprzez całkowitą lub częściową reglamentację zaopatrzenia ludności;
-- **1a)** swobody uzgadniania cen przez strony umowy, poprzez zakazanie okresowego podwyższania cen na towary lub usługi określonego rodzaju albo nakazanie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów; prowadzenia działalności gospodarczej określonego rodzaju albo ustanowienie obowiązku uzyskania zezwolenia na rozpoczęcie działalności gospodarczej określonego rodzaju;
+- **1a)** swobody uzgadniania cen przez strony umowy, poprzez zakazanie okresowego podwyższania cen na towary lub usługi określonego rodzaju albo nakazanie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów;
+- **2)** wolności działalności gospodarczej, poprzez nakazanie okresowego zaniechania prowadzenia działalności gospodarczej określonego rodzaju albo ustanowienie obowiązku uzyskania zezwolenia na rozpoczęcie działalności gospodarczej określonego rodzaju;
 - **3)** działalności edukacyjnej, poprzez okresowe zawieszenie zajęć dydaktycznych w szkołach, włącznie ze szkołami wyższymi, z wyjątkiem szkół duchownych i seminariów duchownych;
 - **4)** obrotu krajowymi środkami płatniczymi, obrotu dewizowego oraz działalności kantorowej;
 - **5)** funkcjonowania systemów łączności oraz działalności telekomunikacyjnej i pocztowej, poprzez nakazanie wyłączenia urządzeń łączności lub zawieszenia świadczenia usług, na czas określony, a także poprzez nakazanie niezwłocznego złożenia do depozytu właściwego organu administracji rządowej radiowych i telewizyjnych urządzeń nadawczych i nadawczo-odbiorczych lub ustalenie innego sposobu ich zabezpieczenia przed wykorzystaniem w sposób zagrażający bezpieczeństwu lub obronności państwa;
@@ -235,7 +255,7 @@ Art. 35–37. (pominięte)
 - **1)** Radę Ministrów – w przypadku ograniczeń określonych w ust. 1 pkt 1, 1a, 2 i 7;
 - **2)** właściwego ministra – w przypadku jeżeli ograniczenie określone w ust. 1 pkt 3 dotyczy szkół jemu podległych;
 - **3)** ministra właściwego do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego – w przypadku ograniczenia określonego w ust. 1 pkt 4;
-- **4)** ministra właściwego do spraw łączności i ministra właściwego do spraw informatyzacji, działających w porozumieniu z ministrem właściwym do spraw wewnętrznych, Ministrem Obrony Narodowej i ministrem właściwym do spraw finansów publicznych oraz po zasięgnięciu opinii Prezesa Narodowego Banku w przypadku ograniczeń określonych w ust. 1 pkt 5;
+- **4)** ministra właściwego do spraw łączności i ministra właściwego do spraw informatyzacji, działających w porozumieniu z ministrem właściwym do spraw wewnętrznych, Ministrem Obrony Narodowej i ministrem właściwym do spraw finansów publicznych oraz po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego w odniesieniu do bankowych systemów telekomunikacyjnych – w przypadku ograniczeń określonych w ust. 1 pkt 5;
 - **5)** ministra właściwego do spraw wewnętrznych oraz Ministra Obrony Narodowej w odniesieniu do żołnierzy zawodowych – w przypadku ograniczeń określonych w ust. 1 pkt 6;
 - **6)** właściwego wojewodę – w przypadku stosowania ograniczenia określonego w ust. 1 pkt 3 do szkół, z wyłączeniem szkół wyższych.
 
@@ -253,7 +273,8 @@ Art. 35–37. (pominięte)
 
 2. Określone w ust. 1 ograniczenia wolności i praw człowieka i obywatela ustalone przez Prezydenta Rzeczypospolitej Polskiej w rozporządzeniu, o którym mowa w art. 3 ust. 1, wprowadza się i stosuje w drodze:
 
-- **1)** rozporządzeń Rady Ministrów – w przypadku ograniczeń określonych w ust. 1 pkt 3–5; w przypadku ograniczeń określonych w ust. 1 pkt 1 i 2.
+- **1)** rozporządzeń Rady Ministrów – w przypadku ograniczeń określonych w ust. 1 pkt 3–5;
+- **2)** decyzji organów administracji rządowej, o których mowa w art. 25a ust. 2 – w przypadku ograniczeń określonych w ust. 1 pkt 1 i 2.
 
 3. W rozporządzeniach, o których mowa w ust. 2 pkt 1, określa się szczegółowy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia i stosowania ograniczeń wolności i praw człowieka i obywatela, uwzględniając w możliwym stopniu minimalizację indywidualnych i społecznych uciążliwości wynikających ze stosowania tych ograniczeń.
 
@@ -276,7 +297,7 @@ Art. 35–37. (pominięte)
 
 6. Decyzje organów przedsiębiorcy w sprawach wytwarzania wyrobów lub świadczenia usług o szczególnym znaczeniu dla bezpieczeństwa lub obronności państwa wymagają zgody zarządcy komisarycznego.
 
-7. Zarządca komisaryczny może wydawać polecenia w formie pisemnej organom przedsiębiorcy w sprawach związanych z wytwarzaniem wyrobów lub świadczeniem usług o szczególnym znaczeniu dla bezpieczeństwa lub obronności natychmiastowemu wykonaniu.
+7. Zarządca komisaryczny może wydawać polecenia w formie pisemnej organom przedsiębiorcy w sprawach związanych z wytwarzaniem wyrobów lub świadczeniem usług o szczególnym znaczeniu dla bezpieczeństwa lub obronności państwa. Polecenia wydane przez zarządcę komisarycznego podlegają natychmiastowemu wykonaniu.
 
 8. Od polecenia wydanego przez zarządcę komisarycznego przysługuje odwołanie do organu administracji rządowej, który zarząd ustanowił. Termin wniesienia odwołania wynosi trzy dni. Wniesienie odwołania nie wstrzymuje wykonania polecenia.
 
@@ -297,7 +318,7 @@ Art. 35–37. (pominięte)
 - **1)** ministrów właściwych do spraw transportu, żeglugi śródlądowej i gospodarki morskiej, w porozumieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw wewnętrznych – w przypadku ograniczeń określonych w ust. 1 pkt 1 i 3–5;
 - **2)** Ministra Obrony Narodowej, w porozumieniu z ministrami właściwymi do spraw transportu i gospodarki morskiej – w przypadku ograniczenia określonego w ust. 1 pkt 2.
 
-3. W rozporządzeniach, o których mowa w ust. 2, określa się szczegółowy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia w możliwym stopniu minimalizację indywidualnych i społecznych uciążliwości wynikających ze stosowania tych ograniczeń.
+3. W rozporządzeniach, o których mowa w ust. 2, określa się szczegółowy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia i stosowania ograniczeń wolności i praw człowieka i obywatela, uwzględniając w możliwym stopniu minimalizację indywidualnych i społecznych uciążliwości wynikających ze stosowania tych ograniczeń.
 
 **Art. 27.**
 
@@ -319,7 +340,7 @@ Art. 35–37. (pominięte)
 
 1. W czasie stanu wojennego może być wprowadzony powszechny obowiązek wykonywania pracy przez osoby, które ukończyły 16 lat, a nie przekroczyły 65 lat i są zdolne do wykonywania pracy ze względu na stan zdrowia oraz warunki osobiste i rodzinne.
 
-2. Ograniczenie, o którym mowa w ust. 1, wprowadza Rada Ministrów, w drodze rozporządzenia, określając kategorie osób niepodlegających powszechnemu do pracy w innych miejscowościach, uwzględniając minimalizację uciążliwości wynikających dla tych osób ze stosowania tego ograniczenia.
+2. Ograniczenie, o którym mowa w ust. 1, wprowadza Rada Ministrów, w drodze rozporządzenia, określając kategorie osób niepodlegających powszechnemu obowiązkowi wykonywania pracy oraz tryb i warunki dokonywania przeniesień osób do pracy w innych miejscowościach, uwzględniając minimalizację uciążliwości wynikających dla tych osób ze stosowania tego ograniczenia.
 
 **Art. 30.** W czasie stanu wojennego redaktorzy naczelni dzienników oraz nadawcy programów radiowych i telewizyjnych są obowiązani, na żądanie organów administracji publicznej, do nieodpłatnego, niezwłocznego publikowania lub zamieszczania komunikatów, decyzji i postanowień tych organów związanych z obronnością państwa i bezpieczeństwem obywateli.
 
@@ -339,7 +360,8 @@ Art. 35–37. (pominięte)
 
 1. Kto w czasie stanu wojennego:
 
-- **1)** wbrew zakazowi określonemu w art. 22 ust. 1 pkt 1 organizuje lub przeprowadza zgromadzenie, imprezę masową albo inną imprezę artystyczną lub rozrywkową, niebędącą imprezą masową,
+- **1)** wbrew zakazowi określonemu w art. 22 ust. 1 pkt 1 organizuje lub przeprowadza zgromadzenie,
+- **2)** wbrew zakazowi określonemu w art. 22 ust. 1 pkt 2 organizuje lub przeprowadza imprezę masową albo inną imprezę artystyczną lub rozrywkową, niebędącą imprezą masową,
 - **3)** wbrew obowiązkowi określonemu w art. 23 ust. 1 nie posiada przy sobie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość,
 - **4)** wbrew nakazowi lub zakazowi określonemu w art. 23 ust. 2 pkt 1 przebywa lub nie opuszcza w ustalonym czasie oznaczonego miejsca, obiektu lub obszaru,
 - **5)** wbrew nakazowi określonemu w art. 23 ust. 2 pkt 2 zmienia miejsce pobytu stałego lub czasowego bez wymaganego zezwolenia,
@@ -350,7 +372,7 @@ Art. 35–37. (pominięte)
 - **10)** wbrew zakazowi określonemu w art. 24 ust. 1 pkt 3 organizuje lub przeprowadza zajęcia dydaktyczne w szkołach,
 - **11)** wbrew zakazowi określonemu w art. 24 ust. 1 pkt 4 nie stosuje się do wprowadzonych ograniczeń w obrocie krajowymi środkami płatniczymi, obrocie dewizowym oraz działalności kantorowej,
 - **12)** wbrew obowiązkowi określonemu w art. 24 ust. 1 pkt 5 nie stosuje się do nakazu wyłączenia na czas określony urządzeń łączności lub zawieszenia usług albo nakazu niezwłocznego złożenia do depozytu radiowych i telewizyjnych urządzeń nadawczych i nadawczo-odbiorczych lub innego sposobu ich zabezpieczenia,
-- **13)** wbrew obowiązkowi określonemu w art. 24 ust. 1 pkt 6 nie stosuje się do nakazu niezwłocznego złożenia do depozytu broni palnej, amunicji, materiałów ich noszenia,
+- **13)** wbrew obowiązkowi określonemu w art. 24 ust. 1 pkt 6 nie stosuje się do nakazu niezwłocznego złożenia do depozytu broni palnej, amunicji, materiałów wybuchowych, innych rodzajów broni lub określonych przedmiotów albo zakazu ich noszenia,
 - **14)** wbrew obowiązkowi określonemu w art. 24 ust. 1 pkt 7 nie stosuje się do wprowadzonych ograniczeń w dostępie do informacji publicznej,
 - **15)** wbrew obowiązkowi określonemu w art. 25 ust. 1 pkt 1 uchyla się od wykonania dodatkowego zadania gospodarczego,
 - **16)** wbrew obowiązkowi określonemu w art. 25 ust. 1 pkt 3 nie wykonuje świadczenia polegającego na dostawie na rzecz określonego podmiotu produktów rolno-spożywczych, nie uprawia określonego gatunku roślin lub nie hoduje określonego gatunku zwierząt albo utrudnia lub udaremnia wykonywanie tego obowiązku przez osobę do tego zobowiązaną,
@@ -360,7 +382,9 @@ Art. 35–37. (pominięte)
 - **20)** wbrew obowiązkowi określonemu w art. 26 ust. 1 pkt 3 nie stosuje się do całkowitego albo częściowego zakazu ruchu polskich i obcych jednostek pływających na morskich wodach wewnętrznych, morzu terytorialnym lub na śródlądowych drogach wodnych albo do ograniczenia w tym ruchu,
 - **21)** wbrew obowiązkowi określonemu w art. 26 ust. 1 pkt 4 nie stosuje się do całkowitego albo częściowego zakazu ruchu pojazdów na drodze publicznej, albo do ograniczenia w tym ruchu,
 - **22)** wbrew obowiązkowi określonemu w art. 26 ust. 1 pkt 5 nie wykonuje przewozu na potrzeby obronności i bezpieczeństwa państwa,
-- **23)** wbrew obowiązkowi określonemu w art. 29 ust. 1 uchyla się od wykonywania pracy – podlega karze aresztu albo grzywny. o postępowaniu w sprawach o wykroczenia w postępowaniu przyśpieszonym.
+- **23)** wbrew obowiązkowi określonemu w art. 29 ust. 1 uchyla się od wykonywania pracy – podlega karze aresztu albo grzywny.
+
+2. Rozpoznawanie spraw określonych w ust. 1 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia w postępowaniu przyśpieszonym.
 
 **Art. 34.**
 
@@ -373,6 +397,10 @@ Art. 35–37. (pominięte)
 #### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
 
 **Art. 38.** Tracą moc:
+
+- **1)** dekret z dnia 12 grudnia 1981 r. o stanie wojennym (Dz. U. poz. 154, z 1982 r. poz. 18 oraz z 1989 r. poz. 178);
+- **2)** ustawa z dnia 25 stycznia 1982 r. o szczególnej regulacji prawnej w okresie stanu wojennego (Dz. U. poz. 18 i 272 oraz z 1983 r. poz. 297);
+- **3)** ustawa z dnia 18 grudnia 1982 r. o szczególnej regulacji prawnej w okresie zawieszenia stanu wojennego (Dz. U. poz. 273 oraz z 1983 r. poz. 297).
 
 **Art. 39.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 

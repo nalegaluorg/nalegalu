@@ -8,10 +8,10 @@ pos: 1189
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 sierpnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1189 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 2 sierpnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001189) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1189/text.pdf) |
 
-Poz. 1189 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 2 sierpnia 2024 r.
 w sprawie Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych Na podstawie art. 67x ust. 12 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
-z 2024 r. poz. 581) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2024 r. poz. 581) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) regulamin Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, o którym mowa w art. 67x ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, zwanego dalej „Zespołem”, określający jego szczegółowy tryb pracy oraz organizację;
 2) szczegółowe zadania sekretarza Zespołu;
 3) wysokość wynagrodzenia członków Zespołu.

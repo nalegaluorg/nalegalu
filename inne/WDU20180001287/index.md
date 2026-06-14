@@ -8,10 +8,10 @@ pos: 1287
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lipca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1287 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 7 czerwca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1287/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 7 czerwca 2018 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie obsługi naziemnej w portach lotniczych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 19 listopada 2013 r. w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 1378), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającym rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28);
@@ -34,22 +33,24 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Bu
 1) § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
 2) § 2 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.”.
 Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 19 listopada 2013 r.
-w sprawie obsługi naziemnej w portach lotniczych Na podstawie art. 182 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2018 r. poz. 1183) zarządza się, co następuje:
-1) szczegółowy wykaz rodzajów usług w poszczególnych kategoriach usług obsługi naziemnej, o których mowa w art. 176 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze;
+w sprawie obsługi naziemnej w portach lotniczych Na podstawie art. 182 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) szczegółowy wykaz rodzajów usług w poszczególnych kategoriach usług obsługi naziemnej, o których mowa w art. 176 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
 2) szczegółowe warunki i tryb udzielania zezwoleń na wykonywanie obsługi naziemnej oraz dokumenty i informacje, jakie powinni przedstawić ubiegający się o zezwolenia, oraz warunki, jakie musi spełniać podmiot ubiegający się o zezwolenie;
-3) szczegółowe warunki stosowane przy wprowadzaniu ograniczeń, o których mowa w art. 179 ust. 1 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze;
-4) szczegółowe warunki i sposób organizowania oraz przeprowadzania konkursu, o którym mowa w art. 179 ust. 8 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze, w przypadku wprowadzenia ograniczeń;
+3) szczegółowe warunki stosowane przy wprowadzaniu ograniczeń, o których mowa w art. 179 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+4) szczegółowe warunki i sposób organizowania oraz przeprowadzania konkursu, o którym mowa w art. 179 ust. 8 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, w przypadku wprowadzenia ograniczeń;
 5) szczegółowe warunki udostępniania i korzystania z infrastruktury lotniska oraz ustalania i pobierania opłat za dostęp do urządzeń i powierzchni lotniska oraz opłat za użytkowanie scentralizowanej infrastruktury.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie rozumie się przez to ustawę z dnia 3 lipca 2002 r. Prawo lotnicze;
-2) sieci portów lotniczych rozumie się przez to dwa lub więcej portów lotniczych wpisanych do rejestru lotnisk cywilnych, obsługujących to samo miasto lub konurbację i zarządzanych przez tego samego zarządzającego;
-3) zarządzającym portem lotniczym rozumie się przez to podmiot, którego zadaniem jest administrowanie i zarządzanie infrastrukturą portu lotniczego, a także koordynacja i kontrola działalności różnych podmiotów działających w danym porcie lotniczym lub w danym systemie portowym, wykonywane w zależności od sytuacji oddzielnie lub w powiązaniu z inną działalnością;
-4) agencie obsługi naziemnej rozumie się przez to przedsiębiorcę, o którym mowa w art. 177 ust. 2 ustawy, wykonującego dla przewoźników lotniczych oraz innych użytkowników statków powietrznych jedną lub więcej kategorii usług, o których mowa w art. 176 ustawy;
-5) własnej obsłudze naziemnej rozumie się przez to wykonywanie we własnym zakresie przez przewoźnika lotniczego jednej lub więcej kategorii usług obsługi naziemnej, polegających na obsłudze wyłącznie własnych statków powietrznych, załóg, pasażerów i ładunków bez zawierania z osobą trzecią umowy na wykonywanie takich usług, z tym że przewoźnicy lotniczy nie są wobec siebie osobami trzecimi, jeżeli jeden posiada większość udziałów w innym lub pojedynczy podmiot posiada większość udziałów w każdym z nich;
-6) Prezesie Urzędu rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
-7) urządzeniach i powierzchni lotniska rozumie się przez to wszystkie urządzenia oraz powierzchnie portu lotniczego udostępniane na potrzeby wykonywania obsługi naziemnej, z wyłączeniem scentralizowanej infrastruktury;
-8) kontroli rozumie się przez to skuteczną kontrolę, o której mowa w art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Dz. Urz. UE L 293 z 31.10.2008, str. 3);
-9) komitecie przewoźników lotniczych rozumie się przez to komitet przewoźników lotniczych użytkujących port lotniczy, o którym mowa w przepisach wydanych na podstawie art. 67 ust. 6 ustawy.
+1) ustawie – rozumie się przez to ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
+2) sieci portów lotniczych – rozumie się przez to dwa lub więcej portów lotniczych wpisanych do rejestru lotnisk cywilnych, obsługujących to samo miasto lub konurbację i zarządzanych przez tego samego zarządzającego;
+3) zarządzającym portem lotniczym – rozumie się przez to podmiot, którego zadaniem jest administrowanie i zarządzanie infrastrukturą portu lotniczego, a także koordynacja i kontrola działalności różnych podmiotów działających w danym porcie lotniczym lub w danym systemie portowym, wykonywane w zależności od sytuacji oddzielnie lub w powiązaniu z inną działalnością;
+4) agencie obsługi naziemnej – rozumie się przez to przedsiębiorcę, o którym mowa w art. 177 ust. 2 ustawy, wykonującego dla przewoźników lotniczych oraz innych użytkowników statków powietrznych jedną lub więcej kategorii usług, o których mowa w art. 176 ustawy;
+5) własnej obsłudze naziemnej – rozumie się przez to wykonywanie we własnym zakresie przez przewoźnika lotniczego jednej lub więcej kategorii usług obsługi naziemnej, polegających na obsłudze wyłącznie własnych statków powietrznych, załóg, pasażerów i ładunków bez zawierania z osobą trzecią umowy na wykonywanie takich usług, z tym że przewoźnicy lotniczy nie są wobec siebie osobami trzecimi, jeżeli jeden posiada większość udziałów w innym lub pojedynczy podmiot posiada większość udziałów w każdym z nich;
+6) Prezesie Urzędu – rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
+7) urządzeniach i powierzchni lotniska – rozumie się przez to wszystkie urządzenia oraz powierzchnie portu lotniczego udostępniane na potrzeby wykonywania obsługi naziemnej, z wyłączeniem scentralizowanej infrastruktury;
+8) kontroli – rozumie się przez to skuteczną kontrolę, o której mowa w art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Dz. Urz. UE L 293 z 31.10.2008, str. 3);
+9) komitecie przewoźników lotniczych – rozumie się przez to komitet przewoźników lotniczych użytkujących port lotniczy, o którym mowa w przepisach wydanych na podstawie art. 67 ust. 6 ustawy.
+§ 3. Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej, o którym mowa w art. 173 ust. 1 pkt 2 ustawy, przez agenta obsługi naziemnej, zwany dalej „wnioskiem”, powinien zawierać:
 1) oznaczenie przedsiębiorcy, siedzibę i adres, a w przypadku osoby fizycznej imię i nazwisko, obywatelstwo oraz adres głównego miejsca wykonywania działalności gospodarczej;
 2) numer wpisu we właściwym rejestrze przedsiębiorców, o ile przedsiębiorca podlega obowiązkowi wpisu do tego rejestru;
 3) numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) osoby fizycznej prowadzącej działalność gospodarczą, o ile taki posiada;
@@ -67,8 +68,8 @@ w sprawie obsługi naziemnej w portach lotniczych Na podstawie art. 182 ustawy z
 5) oświadczenie o przestrzeganiu przez przedsiębiorcę wymagań dotyczących ochrony lotnictwa.
 2. W przypadku przedsiębiorców prowadzących działalność gospodarczą w okresie poprzedzającym złożenie wniosku, w celu potwierdzenia sytuacji ekonomicznej pozwalającej na prowadzenie działalności w zakresie obsługi naziemnej do wniosku dołącza się dodatkowo:
 1) zatwierdzone sprawozdanie finansowe za poprzedni rok obrotowy, jeżeli przedsiębiorca jest obowiązany do jego sporządzenia na podstawie przepisów o rachunkowości lub przepisów szczególnych dotyczących sprawozdań finansowych, a także sprawozdanie z badania, jeżeli obowiązek poddania sprawozdania finansowego badaniu wynika z przepisów o rachunkowości lub przepisów szczególnych dotyczących sprawozdań finansowych;
-2) roczną deklarację podatkową o podatku dochodowym za rok obrotowy poprzedzający złożenie wniosku dla przedsiębiorców innych niż wymienieni w pkt 1 i prowadzących działalność w roku obrotowym poprzedzającym złożenie wniosku;
-3) aktualny wypełniony formularz dotyczący informacji finansowych, jaki przedsiębiorca składał do Głównego Urzędu Statystycznego dla przedsiębiorców obowiązanych do składania formularzy na podstawie przepisów o statystyce publicznej.
+2) roczną deklarację podatkową o podatku dochodowym za rok obrotowy poprzedzający złożenie wniosku – dla przedsiębiorców innych niż wymienieni w pkt 1 i prowadzących działalność w roku obrotowym poprzedzającym złożenie wniosku;
+3) aktualny wypełniony formularz dotyczący informacji finansowych, jaki przedsiębiorca składał do Głównego Urzędu Statystycznego – dla przedsiębiorców obowiązanych do składania formularzy na podstawie przepisów o statystyce publicznej.
 3. W przypadku przedsiębiorców rozpoczynających działalność, a także przedsiębiorców, o których mowa w ust. 2, do wniosku dołącza się dodatkowo:
 1) oświadczenia, że wobec przedsiębiorcy nie jest prowadzone postępowanie egzekucyjne, nie znajduje się on w stanie likwidacji oraz że nie zgłoszono wniosku o ogłoszenie jego upadłości;
 2) plan gospodarczy wskazujący, że wnioskodawca posiada zdolność finansową i gospodarczą pozwalającą na prowadzenie działalności w zakresie obsługi naziemnej w wybranych kategoriach usług przez okres co najmniej 3 miesięcy od dnia rozpoczęcia działalności.
@@ -76,6 +77,7 @@ w sprawie obsługi naziemnej w portach lotniczych Na podstawie art. 182 ustawy z
 2. Przedsiębiorca może przedłożyć kopie dokumentów, o których mowa w § 4 ust. 1 pkt 1, ust. 2 oraz w ust. 3 pkt 2.
 3. Dokumenty, o których mowa w § 4, powinny zawierać dane aktualne na dzień złożenia wniosku, przy czym dokumenty, o których mowa w § 4 ust. 1 pkt 3–5 oraz w ust. 3 pkt 1, powinny być ponadto wystawione nie wcześniej niż na 3 miesiące przed ich złożeniem.
 4. Dokumenty, o których mowa w § 4, sporządzone w języku obcym dołącza się wraz z tłumaczeniem na język polski.
+§ 6. W przypadku wprowadzenia ograniczeń, o których mowa w art. 179 ust. 1 pkt 1 ustawy, w portach lotniczych, o których mowa w art. 176b ust. 2 pkt 1 ustawy, co najmniej jeden agent obsługi naziemnej posiadający zezwolenie na wykonywanie obsługi naziemnej nie może bezpośrednio lub pośrednio znajdować się pod kontrolą:
 1) zarządzającego portem lotniczym;
 2) przewoźnika lotniczego, który przewiózł więcej niż 25% pasażerów lub ładunków odnotowanych w tym porcie lotniczym w roku poprzedzającym rok, w którym dokonano wyboru agentów;
 3) podmiotu kontrolującego lub kontrolowanego bezpośrednio lub pośrednio przez zarządzającego portem lotniczym lub przewoźnika lotniczego, o którym mowa w pkt 2.
@@ -93,10 +95,11 @@ c) analizę przepustowości elementu infrastruktury lotniska, którego dotyczy w
 2) maksymalną liczbę zezwoleń w kategoriach usług obsługi naziemnej lub rodzajach usług w poszczególnych kategoriach usług obsługi naziemnej podlegających ograniczeniu;
 3) okres obowiązywania ograniczenia.
 § 12. Informacje o wprowadzeniu ograniczeń, o których mowa w § 11, podlegają publikacji w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego.
+§ 13. W przypadku wprowadzenia ograniczenia liczby udzielanych zezwoleń, o których mowa w art. 179 ust. 1 pkt 1 ustawy, bez przeprowadzania konkursu, zezwolenie na wykonywanie obsługi naziemnej może uzyskać zarządzający portem lotniczym albo inny podmiot przez niego upoważniony, jeżeli:
 1) zarządzający portem lotniczym ma bezpośrednią lub pośrednią kontrolę nad takim podmiotem albo
 2) podmiot ten kontroluje zarządzającego portem lotniczym.
 § 14. Zarządzający portem lotniczym informuje komitet przewoźników lotniczych o zamiarze skorzystania z uprawnienia, o którym mowa w art. 180 ust. 1 ustawy.
-§ 15. 1. Zarządzający portem lotniczym, w terminie 14 dni od dnia zakończenia konsultacji w zakresie wyboru podmiotów z komitetem przewoźników lotniczych, przekazuje Prezesowi Urzędu informacje na temat wyników przeprowadzonych konsultacji.
+§ 15. 1. Zarządzający portem lotniczym, w terminie 14 dni od dnia zakończenia konsultacji – w zakresie wyboru podmiotów – z komitetem przewoźników lotniczych, przekazuje Prezesowi Urzędu informacje na temat wyników przeprowadzonych konsultacji.
 2. W przypadku gdy organizatorem konkursu jest Prezes Urzędu, wyboru podmiotu wykonującego obsługę naziemną odpowiednio w porcie lotniczym, o którym mowa wart. 179 ust. 1, dokonuje się po konsultacji z:
 1) komitetem przewoźników lotniczych;
 2) zarządzającym portem lotniczym, jeżeli:
@@ -140,7 +143,7 @@ i) informacje o kwalifikacjach personelu przedsiębiorcy i specjalistycznym sprz
 § 19. 1. Termin zgłoszenia przystąpienia do konkursu nie może być krótszy niż 30 dni od dnia publikacji zaproszenia do udziału w konkursie w dziennikach urzędowych, o których mowa w § 16 ust. 1.
 2. Zgłoszenie o przystąpieniu do konkursu powinno zawierać:
 1) oznaczenie podmiotu, siedzibę i adres, a w przypadku osoby fizycznej imię i nazwisko oraz adres głównego miejsca wykonywania działalności;
-2) numer wpisu we właściwym rejestrze przedsiębiorców o ile przedsiębiorca podlega takiemu wpisowi;
+2) numer wpisu we właściwym rejestrze przedsiębiorców – o ile przedsiębiorca podlega takiemu wpisowi;
 3) oświadczenie przystępującego do konkursu potwierdzające, że posiada status podmiotu, o którym mowa w art. 177 ust. 2 ustawy;
 4) oświadczenie przystępującego do konkursu potwierdzające, że spełnia on wymogi określone w art. 177 ust. 3 ustawy;
 5) określenie rodzaju i zakresu wykonywania zamierzonych usług;
@@ -191,6 +194,7 @@ i) informacje o kwalifikacjach personelu przedsiębiorcy i specjalistycznym sprz
 § 29. W przypadku uwzględnienia protestu Prezes Urzędu przeprowadza ponownie konkurs.
 § 30. W przypadku niezłożenia lub pozostawienia bez rozpoznania wniosku, o którym mowa w art. 181b ust. 3 ustawy, albo odmowy wydania zezwolenia, o którym mowa w art. 173 ust. 1 pkt 2 ustawy, prawo do złożenia wniosku uzyskuje podmiot, którego zgłoszenie o przystąpieniu do konkursu uzyskało kolejną co do wysokości ocenę w konkursie. Prezes Urzędu jest obowiązany do poinformowania podmiotu o prawie do złożenia wniosku.
 § 31. W przypadku gdy agent obsługi naziemnej przestał wykonywać działalność objętą zezwoleniem przed upływem okresu, na jaki Prezes Urzędu udzielił mu zezwolenia, albo okresu, na który został wybrany jako podmiot wykonujący własną obsługę naziemną, przeprowadzany jest ponowny wybór przedsiębiorcy do wykonywania obsługi naziemnej, w drodze konkursu, o którym mowa w § 16 ust. 1 pkt 2.
+§ 32. Zarządzający portem lotniczym, co najmniej raz w roku, przeprowadza konsultacje z komitetem przewoźników lotniczych, o ile komitet taki został powołany w danym porcie lotniczym, oraz ze wszystkimi agentami obsługi naziemnej w danym porcie lotniczym, dotyczące w szczególności:
 1) warunków użytkowania scentralizowanej infrastruktury i dostępu do urządzeń i powierzchni lotniska;
 2) wysokości opłat za użytkowanie scentralizowanej infrastruktury lub za dostęp do urządzeń i powierzchni lotniska oraz ewentualnych planowanych zmian wysokości tych opłat w trakcie roku;
 3) planów dotyczących inwestycji o dużej skali mogącej wpłynąć na wysokość opłat za użytkowanie scentralizowanej infrastruktury lub za dostęp do urządzeń i powierzchni lotniska, a także wpływu tej inwestycji na wysokość opłat, o których mowa w pkt 2, w trakcie roku.
@@ -209,7 +213,7 @@ i) informacje o kwalifikacjach personelu przedsiębiorcy i specjalistycznym sprz
 § 34. Scentralizowaną infrastrukturę oraz urządzenia i powierzchnię lotniska udostępnia się agentom obsługi naziemnej i przewoźnikom lotniczym oraz innym użytkownikom statków powietrznych, w szczególności w sposób:
 1) zapewniający im wykonywanie działalności,
 2) umożliwiający im efektywną i uczciwą konkurencję,
-3) zapewniający bezpieczne i prawidłowe funkcjonowanie portu lotniczego przy uwzględnieniu uwarunkowań technicznych występujących w porcie lotniczym.
+3) zapewniający bezpieczne i prawidłowe funkcjonowanie portu lotniczego – przy uwzględnieniu uwarunkowań technicznych występujących w porcie lotniczym.
 § 35. Scentralizowana infrastruktura oraz urządzenia i powierzchnia lotniska użytkowane są zgodnie z regulaminem użytkowania portu lotniczego ustalonym przez zarządzającego tym portem lotniczym po konsultacjach z agentami obsługi naziemnej oraz komitetem przewoźników lotniczych oraz umowami zawieranymi z agentami obsługi naziemnej.
 § 36. 1. Jeżeli udostępnianie scentralizowanej infrastruktury lub urządzeń i powierzchni lotniska uzasadnia pobieranie opłat, zarządzający portem lotniczym może pobierać opłaty od agentów obsługi naziemnej lub przewoźników lotniczych oraz innych użytkowników statków powietrznych za użytkowanie scentralizowanej infrastruktury lub za dostęp do urządzeń i powierzchni lotniska.
 2. Pobieranie opłat, o których mowa w ust. 1, jest uzasadnione w szczególności, gdy:
@@ -219,7 +223,7 @@ i) informacje o kwalifikacjach personelu przedsiębiorcy i specjalistycznym sprz
 1) obiektywny, przejrzysty i niedyskryminujący;
 2) zapewniający łatwość naliczania należności z tytułu tych opłat;
 3) umożliwiający sprawdzenie przez agentów obsługi naziemnej lub przewoźników lotniczych oraz innych użytkowników statków powietrznych poprawności naliczonej należności z tytułu tych opłat;
-4) uwzględniający w miarę możliwości ponoszone przez zarządzającego portem lotniczym koszty związane z utrzymaniem, udostępnieniem oraz odtworzeniem scentralizowanej infrastruktury lub urządzeń i powierzchni lotniska.
+4) uwzględniający – w miarę możliwości – ponoszone przez zarządzającego portem lotniczym koszty związane z utrzymaniem, udostępnieniem oraz odtworzeniem scentralizowanej infrastruktury lub urządzeń i powierzchni lotniska.
 4. Zarządzający portem lotniczym przekazuje Prezesowi Urzędu, agentom obsługi naziemnej i przewoźnikom lotniczym oraz innym użytkownikom statków powietrznych oraz ogłasza w miejscu dostępnym dla wszystkich agentów obsługi naziemnej i przewoźników lotniczych oraz innych użytkowników statków powietrznych, w szczególności poprzez publikację na stronie internetowej lotniska, o ile taką posiada, zestawienie wysokości opłat, o których mowa w ust. 1, wraz z zasadami ich naliczania i pobierania. Zarządzający portem lotniczym przekazuje Prezesowi Urzędu, agentom obsługi naziemnej i przewoźnikom lotniczym oraz innym użytkownikom statków powietrznych uzasadnienie pobierania opłat, o którym mowa w ust. 1.
 5. Opłaty, o których mowa w ust. 1, są wnoszone przez agentów obsługi naziemnej i przewoźników lotniczych oraz innych użytkowników statków powietrznych w terminach i trybie ustalonych przez zarządzającego portem lotniczym w ogłoszeniu, o którym mowa w ust. 4.
 6. Przepis ust. 4 stosuje się także w przypadku zmian w wysokości, zasadach naliczania lub pobierania opłat, o których mowa w ust. 1.
@@ -230,20 +234,21 @@ i) informacje o kwalifikacjach personelu przedsiębiorcy i specjalistycznym sprz
 5. W przypadku, o którym mowa w ust. 1, opłaty, o których mowa w § 36 ust. 1, są pobierane również od zarządzającego portem lotniczym w przypadku wykonywania przez niego obsługi naziemnej.
 6. Podmiot, o którym mowa w ust. 1, ustala zasady użytkowania scentralizowanej infrastruktury oraz udostępniania urządzeń i powierzchni lotniska po konsultacjach z agentami obsługi naziemnej, komitetem przewoźników lotniczych oraz zarządzającym portem lotniczym i przekazuje je zarządzającemu portem lotniczym. Zarządzający portem lotniczym wprowadza te zasady do regulaminu użytkowania portu lotniczego nie później niż w terminie 14 dni od dnia ich otrzymania.
 § 38. Wykaz rodzajów usług w poszczególnych kategoriach usług obsługi naziemnej określa załącznik do rozporządzenia.
+§ 39. Zezwolenia udzielone przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
 § 40. Do postępowań administracyjnych prowadzonych na podstawie art. 179 ustawy, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 41. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 WYKAZ USŁUG OBSŁUGI NAZIEMNEJ
-1. Kategoria 1 Obsługa w zakresie administracji naziemnej i nadzoru obejmująca:
+1. Kategoria 1 – Obsługa w zakresie administracji naziemnej i nadzoru obejmująca:
 1.1. reprezentację i kontakty z władzami lokalnymi lub innymi instytucjami, regulowanie płatności w imieniu przewoźnika lotniczego lub innego użytkownika statku powietrznego oraz zapewnienie pomieszczeń biurowych dla jego przedstawicieli;
 1.2. kontrolę załadowania, przyjmowanie wiadomości i telekomunikację;
 1.3. obsługę, przechowywanie i administrację urządzeń ładunkowych;
 1.4. inne czynności nadzoru przed, w czasie i po zakończeniu lotu oraz inne czynności administracyjne na żądanie przewoźnika lotniczego lub innego użytkownika statku powietrznego.
-2. Kategoria 2 Obsługa pasażerów obejmująca: wszelką pomoc świadczoną pasażerom przylatującym, odlatującym, przesiadającym się, w tym sprawdzanie biletów i dokumentów podróży, rejestrowanie bagażu i przemieszczanie go do sortowni.
-3. Kategoria 3 Obsługa bagażu obejmująca: obsługę naziemną bagażu na terenie sortowni, jego sortowanie, przygotowywanie go do odlotu, załadowywanie i wyładowywanie z urządzeń służących do przemieszczania go ze statku powietrznego do sortowni i w drugą stronę, jak również transport bagażu z sortowni na teren odbioru bagażu.
-4. Kategoria 4 Obsługa towarów lub poczty obejmująca:
+2. Kategoria 2 – Obsługa pasażerów obejmująca: wszelką pomoc świadczoną pasażerom przylatującym, odlatującym, przesiadającym się, w tym sprawdzanie biletów i dokumentów podróży, rejestrowanie bagażu i przemieszczanie go do sortowni.
+3. Kategoria 3 – Obsługa bagażu obejmująca: obsługę naziemną bagażu na terenie sortowni, jego sortowanie, przygotowywanie go do odlotu, załadowywanie i wyładowywanie z urządzeń służących do przemieszczania go ze statku powietrznego do sortowni i w drugą stronę, jak również transport bagażu z sortowni na teren odbioru bagażu.
+4. Kategoria 4 – Obsługa towarów lub poczty obejmująca:
 4.1. w zakresie ładunków: fizyczną obsługę wywozu, transferu i przywozu, obsługę w zakresie związanych z tym dokumentów, procedur celnych i stosowania procedury bezpieczeństwa uzgodnionej między stronami lub wynikającej z okoliczności;
 4.2. w zakresie poczty: fizyczną obsługę poczty przylatującej lub odlatującej, obsługę w zakresie związanych z tym dokumentów i stosowanie procedury w zakresie bezpieczeństwa uzgodnionej między stronami lub wynikającej z okoliczności.
-5. Kategoria 5 Obsługa płytowa obejmująca:
+5. Kategoria 5 – Obsługa płytowa obejmująca:
 5.1. prowadzenie statku powietrznego na ziemi po lądowaniu i przed startem*;
 5.2. pomoc w blokowaniu statku powietrznego i dostarczanie odpowiednich urządzeń*;
 5.3. łączność między statkiem powietrznym i podmiotem wykonującym usługi w części lotniczej portu lotniczego*;
@@ -251,41 +256,41 @@ WYKAZ USŁUG OBSŁUGI NAZIEMNEJ
 5.5. dostarczenie i obsługę właściwych urządzeń do uruchamiania silników;
 5.6. holowanie statku powietrznego przed startem i po lądowaniu, jak również zapewnienie urządzeń odpowiednich do tego celu;
 5.7. transport do statku powietrznego, załadowanie na statek powietrzny i wyładowanie ze statku powietrznego żywności i napojów.
-6. Kategoria 6 Obsługa statków powietrznych obejmująca:
+6. Kategoria 6 – Obsługa statków powietrznych obejmująca:
 6.1. czyszczenie statku powietrznego na zewnątrz i wewnątrz, czyszczenie toalet i zaopatrywanie w wodę;
 6.2. chłodzenie i ogrzewanie kabiny, usuwanie śniegu i lodu, odladzanie statku powietrznego;
 6.3. ponowne zaopatrzenie kabiny w odpowiednie wyposażenie, przechowywanie tego wyposażenia.
-7. Kategoria 7 Obsługa w zakresie zaopatrzenia statków powietrznych w materiały napędowe obejmująca:
+7. Kategoria 7 – Obsługa w zakresie zaopatrzenia statków powietrznych w materiały napędowe obejmująca:
 7.1. organizację i wykonywanie czynności tankowania i roztankowywania, w tym przechowywanie paliwa oraz kontrolę jakości i ilości dostaw paliwa;
 7.2. neutralizację resztek materiałów napędowych.
-8. Kategoria 8 Obsługa w zakresie utrzymania statków powietrznych obejmująca:
+8. Kategoria 8 – Obsługa w zakresie utrzymania statków powietrznych obejmująca:
 8.1. rutynowe czynności dokonywane przed lotem;
 8.2. nierutynowe czynności wykonywane na żądanie przewoźnika lotniczego lub innego użytkownika statku powietrznego;
 8.3. obsługę administracyjną oraz dostarczanie części zapasowych i odpowiedniego sprzętu;
 8.4. występowanie o rezerwację lub rezerwowanie odpowiedniego miejsca do parkowania lub hangaru.
-9. Kategoria 9 Obsługa w zakresie operacji lotniczych i czynności administracyjnych związanych z załogą obejmująca:
+9. Kategoria 9 – Obsługa w zakresie operacji lotniczych i czynności administracyjnych związanych z załogą obejmująca:
 9.1. przygotowanie lotu w porcie odlotu lub każdym innym miejscu;
 9.2. pomoc podczas lotu, w tym przekazywanie nowych poleceń, jeżeli jest to potrzebne;
 9.3. czynności po wykonaniu lotu;
 9.4. czynności administracyjne związane z załogą.
-10. Kategoria 10 Transport naziemny obejmujący:
+10. Kategoria 10 – Transport naziemny obejmujący:
 10.1. organizację i realizację przewozu załogi, pasażerów, bagażu, ładunków między różnymi terminalami w tym samym porcie lotniczym, z wyłączeniem jednak przewozu między statkiem powietrznym i innym punktem znajdującym się w granicach tego samego portu lotniczego;
 10.2. każdy specjalny transport wykonywany na żądanie przewoźnika lotniczego lub innego użytkownika statku powietrznego.
-11. Kategoria 11 Obsługa w zakresie zaopatrzenia pokładowego statków powietrznych w żywność i napoje (catering) obejmująca:
+11. Kategoria 11 – Obsługa w zakresie zaopatrzenia pokładowego statków powietrznych w żywność i napoje (catering) obejmująca:
 11.1. utrzymywanie kontaktów z dostawcami i zarządzanie administracyjne;
 11.2. przechowywanie żywności i napojów oraz sprzętu niezbędnego do ich przygotowania;
 11.3. czyszczenie tego sprzętu;
 11.4. przygotowanie i dostawa sprzętu oraz zapasów pokładowych (żywność i napoje).
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej § 3. Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej, o którym mowa w art. 173 ust. 1 pkt 2 ustawy, przez agenta obsługi naziemnej, zwany dalej „wnioskiem”, powinien zawierać:
+#### Rozdział 2 Wniosek o udzielenie zezwolenia na wykonywanie obsługi naziemnej
 
-#### Rozdział 3 Szczegółowe warunki stosowane przy wprowadzaniu ograniczeń liczby zezwoleń dla agentów obsługi naziemnej oraz ograniczeniu liczby przewoźników lotniczych wykonujących własną obsługę naziemną § 6. W przypadku wprowadzenia ograniczeń, o których mowa w art. 179 ust. 1 pkt 1 ustawy, w portach lotniczych, o których mowa w art. 176b ust. 2 pkt 1 ustawy, co najmniej jeden agent obsługi naziemnej posiadający zezwolenie na wykonywanie obsługi naziemnej nie może bezpośrednio lub pośrednio znajdować się pod kontrolą:
+#### Rozdział 3 Szczegółowe warunki stosowane przy wprowadzaniu ograniczeń liczby zezwoleń dla agentów obsługi naziemnej oraz ograniczeniu liczby przewoźników lotniczych wykonujących własną obsługę naziemną
 
-#### Rozdział 4 Szczegółowe warunki i sposób przeprowadzania konkursu w przypadku wprowadzenia ograniczeń § 13. W przypadku wprowadzenia ograniczenia liczby udzielanych zezwoleń, o których mowa w art. 179 ust. 1 pkt 1 ustawy, bez przeprowadzania konkursu, zezwolenie na wykonywanie obsługi naziemnej może uzyskać zarządzający portem lotniczym albo inny podmiot przez niego upoważniony, jeżeli:
+#### Rozdział 4 Szczegółowe warunki i sposób przeprowadzania konkursu w przypadku wprowadzenia ograniczeń
 
-#### Rozdział 5 Szczegółowe warunki udostępniania i korzystania z infrastruktury lotniska oraz ustalania i pobierania opłat za dostęp do urządzeń i powierzchni lotniska oraz opłat za użytkowanie scentralizowanej infrastruktury § 32. Zarządzający portem lotniczym, co najmniej raz w roku, przeprowadza konsultacje z komitetem przewoźników lotniczych, o ile komitet taki został powołany w danym porcie lotniczym, oraz ze wszystkimi agentami obsługi naziemnej w danym porcie lotniczym, dotyczące w szczególności:
+#### Rozdział 5 Szczegółowe warunki udostępniania i korzystania z infrastruktury lotniska oraz ustalania i pobierania opłat za dostęp do urządzeń i powierzchni lotniska oraz opłat za użytkowanie scentralizowanej infrastruktury
 
-#### Rozdział 6 Przepisy przejściowe i końcowe § 39. Zezwolenia udzielone przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
+#### Rozdział 6 Przepisy przejściowe i końcowe
 

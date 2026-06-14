@@ -8,10 +8,10 @@ pos: 430
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 430 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 17 lutego 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000430) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/430/text.pdf) |
 
-Poz. 430 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 17 lutego 2022 r.
-zmieniające rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia Na podstawie art. 113 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. z 2020 r.
+zmieniające rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia Na podstawie art. 113 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. z 2020 r.
 poz. 903) w § 12 w ust. 1:
 1) pkt 1 otrzymuje brzmienie: „1) Komendanta Głównego Policji – w stosunku do policjantów pełniących służbę w Komendzie Głównej Policji oraz w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, komendantów wojewódzkich lub Komendanta Stołecznego Policji, Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie i komendantów szkół policyjnych;”;
 2) po pkt 1b dodaje się pkt 1c w brzmieniu: „1c) Komendanta Centralnego Biura Zwalczania Cyberprzestępczości – w stosunku do podległych policjantów;”.

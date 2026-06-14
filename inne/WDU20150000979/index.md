@@ -8,10 +8,10 @@ pos: 979
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 lipca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 979 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 2 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000979) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/979/text.pdf) |
 
-Poz. 979 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 2 lipca 2015 r.
-w sprawie nagród za znalezienie zabytków lub materiałów archiwalnych Na podstawie art. 11 ust. 2 ustawy z dnia 20 lutego 2015 r. o rzeczach znalezionych (Dz. U. poz. 397) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie nagród za znalezienie zabytków lub materiałów archiwalnych Na podstawie art. 11 ust. 2 ustawy z dnia 20 lutego 2015 r. o rzeczach znalezionych (Dz. U. poz. 397) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) rodzaje i wysokość,
 2) warunki i tryb przyznawania – nagród za znalezienie zabytków i materiałów archiwalnych, które na podstawie art. 187 § 2 albo art. 189 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm. ) stały się własnością Skarbu Państwa, zwanych dalej „nagrodami”.
 § 2. Nagrodami są nagroda pieniężna albo dyplom.

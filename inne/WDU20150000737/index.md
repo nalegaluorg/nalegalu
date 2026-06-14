@@ -8,10 +8,10 @@ pos: 737
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 maja 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 737 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 15 maja 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000737) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/737/text.pdf) |
 
-Poz. 737 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 15 maja 2015 r.
 w sprawie zmiany obszaru wolnego obszaru celnego w Gliwicach Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.
-zarządza się, co następuje: § 1. Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego w Gliwicach, ustanowionego rozporządzeniem Rady Ministrów z dnia 25 stycznia 1993 r. w sprawie ustanowienia wolnego obszaru celnego w Gliwicach (Dz. U. Nr 8, poz. 39, z 2003 r. Nr 172, poz. 1675 oraz z 2005 r. Nr 17, poz. 147).
+zarządza się, co następuje:
+§ 1. Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego w Gliwicach, ustanowionego rozporządzeniem Rady Ministrów z dnia 25 stycznia 1993 r. w sprawie ustanowienia wolnego obszaru celnego w Gliwicach (Dz. U. Nr 8, poz. 39, z 2003 r. Nr 172, poz. 1675 oraz z 2005 r. Nr 17, poz. 147).
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Finansów: wz. J. Cichoń SZCZEGÓŁOWY OPIS GRANIC I OBSZAR WOLNEGO OBSZARU CELNEGO W GLIWICACH Wolny obszar celny jest odgrodzony od pozostałego obszaru trwałym ogrodzeniem. Granica pomiędzy wolnym obszarem a Kanałem Gliwickim biegnie wzdłuż linii brzegu.
 Opis przebiegu granic wolnego obszaru celnego jest przedstawiony na mapie w skali 1:5000. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej wolny obszar celny oraz w Ministerstwie Finansów.

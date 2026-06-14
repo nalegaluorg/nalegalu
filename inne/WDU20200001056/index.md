@@ -8,10 +8,10 @@ pos: 1056
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1056 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 12 czerwca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001056) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1056/text.pdf) |
 
-Poz. 1056 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 12 czerwca 2020 r.
-zmieniające rozporządzenie w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729 i 956) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2013 r. poz. 1213 oraz z 2016 r. poz. 1873) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729 i 956) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2013 r. poz. 1213 oraz z 2016 r. poz. 1873) wprowadza się następujące zmiany:
 1) § 4 otrzymuje brzmienie: „§ 4. Wojewódzki inspektor ochrony roślin i nasiennictwa, o którym mowa w art. 3 ust. 2 pkt 2 ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. poz. 425 i 695), oraz urzędowi inspektorzy, o których mowa w art. 17 ust. 2 tej ustawy, są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
 1) art. 86 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina;
 2) art. 126 ust. 1 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2019 r. poz. 568 oraz z 2020 r. poz. 425 i 875);

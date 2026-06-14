@@ -8,7 +8,7 @@ pos: 848
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
@@ -29,7 +29,24 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** wymagania dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych;
+- **2)** wymagania dotyczące treści, przeglądu i aktualizacji deklaracji dostępności stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ich publikacji;
+- **3)** kompetencje organu właściwego w sprawach monitorowania zapewniania dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz nadzoru nad stosowaniem przepisów ustawy;
+- **4)** zasady monitorowania zapewniania dostępności cyfrowej stron internetowych lub aplikacji mobilnych oraz prowadzenia sprawozdawczości w zakresie dostępności cyfrowej;
+- **5)** postępowanie w sprawie zapewniania dostępności cyfrowej strony internetowej, aplikacji mobilnej lub ich elementów.
+
 **Art. 2.** Ustawę stosuje się do:
+
+- **1)** jednostek sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270 i 1273),
+- **2)** innych, niż określone w pkt 1, państwowych jednostek organizacyjnych nieposiadających osobowości prawnej,
+- **3)** innych, niż określone w pkt 1, osób prawnych, utworzonych w szczególnym celu zaspokajania potrzeb o charakterze powszechnym, niemających charakteru przemysłowego ani handlowego, jeżeli podmioty, o których mowa w tym przepisie oraz w pkt 1 i 2, pojedynczo lub wspólnie, bezpośrednio albo pośrednio przez inny podmiot:
+    - **a)** finansują je w ponad 50% lub
+    - **b)** posiadają ponad połowę udziałów albo akcji, lub
+    - **c)** sprawują nadzór nad organem zarządzającym, lub
+    - **d)** mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego,
+
+- **4)** związków podmiotów, o których mowa w pkt 1–3,
+- **5)** organizacji pozarządowych, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571), prowadzących działalność w sferze zadań publicznych wymienionych w art. 4 ust. 1 pkt 6, 7 lub 10 tej ustawy – posiadających strony internetowe lub aplikacje mobilne, lub zarządzających elementami stron internetowych, lub aplikacji mobilnych zamieszczonymi w środowisku umożliwiającym zapewnienie dostępności cyfrowej treści, zwanych dalej „podmiotami publicznymi”.
 
 **Art. 3.**
 
@@ -55,6 +72,18 @@ source: "isap-pdf"
 - **9)** złożonych schematów i dokumentacji technicznych w formie nietekstowej.
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** aplikacja mobilna – publicznie dostępne oprogramowanie z interfejsem dotykowym zaprojektowane do wykorzystania na przenośnych urządzeniach elektronicznych, z wyłączeniem aplikacji przeznaczonych do użytku na przenośnych komputerach osobistych;
+- **2)** ekstranet – niepubliczną sieć telekomunikacyjną, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w więcej niż jednej strukturze organizacyjnej lub organizacji;
+- **3)** elementy strony internetowej lub aplikacji mobilnej – tekst, grafikę, wykresy, mapy, multimedia, animacje, pliki oraz narzędzia do interaktywnego przesyłania danych;
+- **4)** funkcjonalność – właściwość strony internetowej lub aplikacji mobilnej umożliwiającą użytkownikowi skorzystanie ze wszystkich oferowanych przez nie funkcji;
+- **5)** intranet – niepubliczną sieć telekomunikacyjną, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w jednej strukturze organizacyjnej lub organizacji;
+- **6)** kompatybilność – właściwość strony internetowej lub aplikacji mobilnej umożliwiającą tej stronie lub aplikacji współpracę z możliwie największą liczbą programów, w tym z narzędziami i programami wspomagającymi osoby niepełnosprawne;
+- **7)** multimedia – dźwięk, wideo, prezentowane również w sposób interaktywny, lub połączenie tych form przekazu;
+- **8)** nawigacja – zespół funkcji obejmujących menu oraz linki do elementów strony internetowej lub aplikacji mobilnej, takich jak nagłówki, listy lub tabele, pozwalających użytkownikowi na przemieszczanie się między elementami strony internetowej lub aplikacji mobilnej;
+- **9)** postrzegalność – właściwość strony internetowej lub aplikacji mobilnej umożliwiającą jej odbiór przez użytkownika za pomocą zmysłu słuchu, wzroku lub dotyku;
+- **10)** strona internetowa – zbiór uporządkowanych logicznie, połączonych ze sobą przez nawigację oraz linki, elementów prezentowanych za pomocą przeglądarki internetowej pod jednolitym adresem elektronicznym;
+- **11)** zrozumiałość – właściwość strony internetowej lub aplikacji mobilnej umożliwiającą użytkownikowi tych stron i aplikacji zrozumienie treści i sposobu ich prezentacji.
 
 **Art. 5.**
 
@@ -134,6 +163,14 @@ source: "isap-pdf"
 **Art. 11.** Podmioty publiczne dokonują przeglądu i aktualizacji deklaracji dostępności do dnia 31 marca każdego roku oraz niezwłocznie w każdym przypadku, gdy strona internetowa lub aplikacja mobilna podlega zmianom mogącym mieć wpływ na jej dostępność cyfrową.
 
 **Art. 12.** Minister właściwy do spraw informatyzacji:
+
+- **1)** sprawuje nadzór nad stosowaniem przepisów ustawy;
+- **2)** monitoruje, raz w roku, zapewnienie dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, zgodnie z metodyką monitorowania określoną w decyzji wykonawczej Komisji (UE) 2018/1524 z dnia 11 października 2018 r. ustanawiającej metodykę monitorowania i zasady przekazywania przez państwa członkowskie sprawozdań zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/2102 w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego (Dz. Urz. UE L 256 z 12.10.2018, str. 108, z późn. zm. ), zwanej dalej „decyzją wykonawczą 2018/1524”;
+- **3)** sporządza i przekazuje Komisji Europejskiej sprawozdanie z wyników monitorowania, o którym mowa w pkt 2, zwane dalej „sprawozdaniem”, zgodnie z instrukcjami w zakresie sprawozdawczości, o których mowa w załączniku II do decyzji wykonawczej 2018/1524;
+- **4)** prowadzi działania informacyjne oraz programy edukacyjne na rzecz poszerzania wiedzy i budowania świadomości z zakresu dostępności cyfrowej;
+- **5)** udostępnia informacje i dobre praktyki dotyczące przeprowadzania oceny zapewnienia dostępności cyfrowej, o której mowa w art. 8 ust. 3;
+- **6)** prowadzi stronę internetową zawierającą informacje o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, w tym zalecenia dotyczące tworzenia i utrzymywania dostępnych cyfrowo stron internetowych i aplikacji mobilnych podmiotów publicznych;
+- **7)** udostępnia na stronie podmiotowej Biuletynu Informacji Publicznej warunki techniczne publikacji oraz strukturę dokumentu elektronicznego deklaracji dostępności.
 
 **Art. 13.**
 
@@ -235,6 +272,9 @@ source: "isap-pdf"
 
 **Art. 23.** Minister właściwy do spraw informatyzacji przeprowadza pierwsze monitorowanie, o którym mowa w art. 12 pkt 2:
 
+- **1)** dla stron internetowych – od dnia 1 stycznia 2020 r. do dnia 22 grudnia 2020 r.;
+- **2)** dla aplikacji mobilnych – od dnia 23 czerwca 2021 r. do dnia 22 grudnia 2021 r.
+
 **Art. 24.** Minister właściwy do spraw informatyzacji przekaże Komisji Europejskiej pierwsze sprawozdanie do dnia 23 grudnia 2021 r.
 
 **Art. 25.**
@@ -264,4 +304,9 @@ source: "isap-pdf"
 **Art. 26.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 18 ustawy zmienianej w art. 20 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18 ustawy zmienianej w art. 20 , w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 60 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie tych przepisów.
 
 **Art. 27.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 5–11, art. 12 pkt 2 i 3 oraz art. 13–19, które wchodzą w życie w zakresie:
+
+- **1)** stron internetowych podmiotów publicznych nieopublikowanych przed dniem 23 września 2018 r. – z dniem 23 września 2019 r.;
+- **2)** stron internetowych podmiotów publicznych opublikowanych przed dniem 23 września 2018 r. – z dniem 23 września 2020 r.;
+- **3)** aplikacji mobilnych podmiotów publicznych – z dniem 23 czerwca 2021 r. Załącznik do ustawy z dnia 4 2019 r. (Dz. U. z 2023 r. poz.
+
 

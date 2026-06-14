@@ -8,10 +8,10 @@ pos: 747
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 lipca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 747 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 21 czerwca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/747/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 21 czerwca 2012 r.
-w sprawie szkoleń w ratownictwie wodnym Na podstawie art. 15 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie szkoleń w ratownictwie wodnym Na podstawie art. 15 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) ramowy program szkolenia ratowników wodnych i instruktorów w zakresie ratownictwa wodnego oraz psów ratowniczych wraz z ich przewodnikami;
 2) zakres wiedzy teoretycznej i umiejętności praktycznych niezbędnych do uzyskania uprawnień w zakresie ratownictwa wodnego;
 3) wzory dokumentów potwierdzających posiadanie uprawnień, o których mowa w pkt 2;
@@ -46,7 +46,7 @@ w sprawie szkoleń w ratownictwie wodnym Na podstawie art. 15 ust. 4 ustawy z dn
 3. Egzamin składa się z dwóch części: egzaminu teoretycznego i egzaminu praktycznego.
 4. Każda część egzaminu jest zaliczana oddzielnie.
 5. Miejsca i terminy egzaminu teoretycznego i egzaminu praktycznego ustala kierownik podmiotu uprawnionego do wykonywania ratownictwa wodnego prowadzącego szkolenie.
-§ 5. 1. Egzamin teoretyczny jest przeprowadzany w formie testu ujętego w kartę testową, składającego się z zestawu 30 zadań testowych, zawierających po trzy propozycje odpowiedzi, z których tylko jedna jest prawidłowa. Za każdą prawidłową odpowiedź osoba zdająca uzyskuje 1 punkt, a za odpowiedź nieprawidłową 0 punktów.
+§ 5. 1. Egzamin teoretyczny jest przeprowadzany w formie testu ujętego w kartę testową, składającego się z zestawu 30 zadań testowych, zawierających po trzy propozycje odpowiedzi, z których tylko jedna jest prawidłowa. Za każdą prawidłową odpowiedź osoba zdająca uzyskuje 1 punkt, a za odpowiedź nieprawidłową – 0 punktów.
 2. Zadania testowe przygotowuje komisja egzaminacyjna.
 3. Karty testowe są zabezpieczone w sposób uniemożliwiający zapoznanie się z ich treścią przez osoby nieuprawnione.
 Usunięcie zabezpieczeń i ujawnienie treści kart testowych następuje w sali egzaminacyjnej po rozpoczęciu egzaminu teoretycznego.
@@ -60,8 +60,8 @@ Usunięcie zabezpieczeń i ujawnienie treści kart testowych następuje w sali e
 3) przepłynięciu sposobem ratowniczym (z głową nad powierzchnią wody) dystansu 50 m w czasie poniżej 55 s;
 4) przepłynięciu w czasie nie dłuższym niż 2 min 40 s ratowniczą łodzią wiosłową lub kajakiem za pomocą dwóch wioseł dystansu 75 m w linii prostej do boi (pławy), na dopłynięciu do niej rufą i na powrocie do miejsca startu za pomocą jednego wiosła;
 5) przeprowadzeniu symulowanej akcji ratowniczej, polegającej na przepłynięciu dystansu co najmniej 20 m, wydobyciu manekina położonego na dnie i na holowaniu go w pasie ratowniczym do brzegu na dystansie 20 m;
-6) holowaniu tonącego bez przerwy i na zatrzymaniu na dystansie 150 m, z zastosowaniem trzech sposobów holowania każdy na dystansie 50 m;
-7) wyciągnięciu na brzeg o wysokości co najmniej 30 cm od lustra wody lub na pokład łodzi osoby poszkodowanej i na
+6) holowaniu tonącego bez przerwy i na zatrzymaniu na dystansie 150 m, z zastosowaniem trzech sposobów holowania – każdy na dystansie 50 m;
+7) wyciągnięciu na brzeg o wysokości co najmniej 30 cm od lustra wody lub na pokład łodzi osoby poszkodowanej i na ułożeniu jej w pozycji umożliwiającej udzielanie kwalifikowanej pierwszej pomocy.
 2. Zadania, o których mowa w ust. 1:
 1) pkt 1–3, przeprowadza się na pływalni;
 2) pkt 4, przeprowadza się na wodach otwartych;
@@ -78,14 +78,14 @@ Usunięcie zabezpieczeń i ujawnienie treści kart testowych następuje w sali e
 3. W przypadkach, o których mowa w ust. 1 i 2, można przystąpić do egzaminu nie więcej niż dwa razy.
 4. W razie uzyskania negatywnego wyniku w przypadkach, o których mowa w ust. 3, jest konieczne powtórne odbycie szkolenia.
 § 8. 1. Egzamin kończący szkolenie ratowników wodnych jest przeprowadzany przez komisję egzaminacyjną, w której skład wchodzą dwie osoby spełniające wymagania wymienione w § 3 ust. 1:
-1) przewodniczący kierownik podmiotu uprawnionego do wykonywania ratownictwa wodnego prowadzącego szkolenie lub osoba przez niego wskazana;
-2) członek osoba nieprowadząca zajęć z osobami przystępującymi do egzaminu.
+1) przewodniczący – kierownik podmiotu uprawnionego do wykonywania ratownictwa wodnego prowadzącego szkolenie lub osoba przez niego wskazana;
+2) członek – osoba nieprowadząca zajęć z osobami przystępującymi do egzaminu.
 2. Egzamin kończący szkolenie instruktorów jest przeprowadzany przez komisję egzaminacyjną, w której skład wchodzą dwie osoby spełniające wymagania wymienione w § 3 ust. 2:
-1) przewodniczący kierownik podmiotu uprawnionego do wykonywania ratownictwa wodnego prowadzącego szkolenie lub osoba przez niego wskazana;
-2) członek osoba nieprowadząca zajęć z osobami przystępującymi do egzaminu.
+1) przewodniczący – kierownik podmiotu uprawnionego do wykonywania ratownictwa wodnego prowadzącego szkolenie lub osoba przez niego wskazana;
+2) członek – osoba nieprowadząca zajęć z osobami przystępującymi do egzaminu.
 3. Komisje egzaminacyjne, o których mowa w ust. 1 i 2, powołuje i odwołuje kierownik podmiotu uprawnionego do wykonywania ratownictwa wodnego prowadzącego szkolenie.
 4. W skład komisji egzaminacyjnych, o których mowa w ust. 1 i 2, nie może być powołana osoba, która jest małżonkiem lub krewnym albo powinowatym do drugiego stopnia włącznie osoby składającej egzamin.
-§ 9. 1. Osobie, która odbyła szkolenie, o którym mowa w § 3 ust. 1 i 2, i złożyła egzamin z wynikiem pozytywnym,
+§ 9. 1. Osobie, która odbyła szkolenie, o którym mowa w § 3 ust. 1 i 2, i złożyła egzamin z wynikiem pozytywnym, kierownik podmiotu uprawnionego do wykonywania ratownictwa wodnego prowadzącego szkolenie wydaje zaświadczenie.
 2. Podmiot organizujący szkolenie prowadzi rejestr organizowanych szkoleń i rejestr wydawanych zaświadczeń, o których mowa w ust. 1.
 3. Wzór zaświadczenia o ukończeniu szkolenia ratowników wodnych, o którym mowa w § 3 ust. 1, określa załącznik nr 3 do rozporządzenia.
 4. Wzór zaświadczenia o ukończeniu szkolenia instruktorów, o którym mowa w § 3 ust. 2, określa załącznik nr 4 do rozporządzenia.
@@ -120,19 +120,20 @@ Warunki realizacji szkolenia:
 2) pływalnię o wymiarach minimum 25 m x 10 m x 1,60 m, ze słupkami o wysokości minimum 70 cm do wykonania skoku;
 3) dostęp do zbiornika wodnego z naturalną linią brzegową, umożliwiającą swobodny dostęp do wody;
 4) sprzęt dla każdej grupy szkoleniowej:
-a) rzutkę ratunkową (worek z obciążnikiem zawierający 25 m liny nietonącej o średnicy minimum 6–8 mm) 5 szt.,
-b) koła ratunkowe 3 szt.,
-c) linę ratowniczą (lina nietonąca o średnicy 6–8 mm i długości 15 m) 2 szt.,
-d) linę asekuracyjną (lina nietonąca o długości 80 m) z zasobnikiem 2 szt.,
-e) bojkę ratowniczą typu SP 15 szt.,
-f) pas ratunkowy 3 szt.,
-g) żerdź o długości minimum 4 m 1 szt.,
-h) manekiny do nauki holowania (fantom osoby dorosłej koloru czerwonego w formie torsu, z pomalowaną twarzą na inny kolor, z krótkim odcinkiem ramienia, zawierający zakręcane otwory pozwalające napełnić go wodą) 5 szt.,
-i) ratowniczą łódź wiosłową z linką zaburtową na całej długości burt, wiosłami i z cumą, o długości do 5 m 3 szt.,
-j) deskę ratowniczą 1 szt.,
-k) deskę ortopedyczną 1 szt.
+a) rzutkę ratunkową (worek z obciążnikiem zawierający 25 m liny nietonącej o średnicy minimum 6–8 mm) – 5 szt.,
+b) koła ratunkowe – 3 szt.,
+c) linę ratowniczą (lina nietonąca o średnicy 6–8 mm i długości 15 m) – 2 szt.,
+d) linę asekuracyjną (lina nietonąca o długości 80 m) z zasobnikiem – 2 szt.,
+e) bojkę ratowniczą typu SP – 15 szt.,
+f) pas ratunkowy – 3 szt.,
+g) żerdź o długości minimum 4 m – 1 szt.,
+h) manekiny do nauki holowania (fantom osoby dorosłej koloru czerwonego w formie torsu, z pomalowaną twarzą na inny kolor, z krótkim odcinkiem ramienia, zawierający zakręcane otwory pozwalające napełnić go wodą) – 5 szt.,
+i) ratowniczą łódź wiosłową z linką zaburtową na całej długości burt, wiosłami i z cumą, o długości do 5 m – 3 szt.,
+j) deskę ratowniczą – 1 szt.,
+k) deskę ortopedyczną – 1 szt.
 2. Osoby prowadzące zajęcia teoretyczne oraz zajęcia praktyczne powinny współpracować w celu kształtowania umiejętności objętych programem szkolenia.
-3. Podmiot uprawniony do wykonywania ratownictwa wodnego prowadzący szkolenie opracowuje regulamin organiza4. Podmiot uprawniony do wykonywania ratownictwa wodnego prowadzący szkolenie zapewnia organizację procesu dydaktycznego (zajęcia praktyczne powinny odbywać się w grupach liczących nie więcej niż 15 osób).
+3. Podmiot uprawniony do wykonywania ratownictwa wodnego prowadzący szkolenie opracowuje regulamin organizacyjny szkolenia oraz zasady i tryb naboru osób przewidzianych do szkolenia.
+4. Podmiot uprawniony do wykonywania ratownictwa wodnego prowadzący szkolenie zapewnia organizację procesu dydaktycznego (zajęcia praktyczne powinny odbywać się w grupach liczących nie więcej niż 15 osób).
 5. Realizacja programu szkolenia:
 1) uwzględnia aktualną wiedzę i umiejętności;
 2) jest dokonywana w oparciu o nowoczesne metody dydaktyczne;
@@ -141,11 +142,11 @@ k) deskę ortopedyczną 1 szt.
 1) imienną listę osób prowadzących zajęcia;
 2) imienną listę uczestników szkolenia;
 3) dokumentację zaliczania poszczególnych tematów przez uczestników szkolenia oraz dokumentację egzaminacyjną.
-II. Zakres tematyczny Lp. Zagadnienie Cele szkolenia Liczba godzin szkolenia.
-Metody realizacji wykłady ćwiczenia 1 Organizacja ratownictwa W wyniku realizacji uczestnik szkolenia 4 wodnego podstawy prawne powinien posiadać wiadomości dotyczące: podstaw prawnych funkcjonowania ratownictwa wodnego w Rzeczypospolitej Polskiej, organizacji ratownictwa wodnego w pozostałych systemach ratowniczych funkcjonujących na terenie Rzeczypospolitej Polskiej, prawnych aspektów pracy ratownika wodnego (kodeks karny, kodeks wykroczeń, kodeks cywilny, kodeks pracy).
-2 Organizacja pracy W wyniku realizacji uczestnik szkolenia 7 1 ratowników powinien posiadać wiadomości dotyczące: obowiązków i uprawnień ratowników wodnych, specyfiki ratownictwa wodnego na wyznaczonych obszarach wodnych, specyfiki działania ratownika wodnego na poszczególnych obszarach wodnych (lód, cieki, powódź, miejsca bagniste), hydrologii i meteorologii, dokumentacji działań ratowniczych oraz powinien posiadać umiejętność praktycznego stosowania wiedzy w działaniach ratowniczych.
-3 Sprzęt wykorzystywany W wyniku realizacji uczestnik szkolenia 3 15 w ratownictwie wodnym powinien posiadać wiedzę dotyczącą: sprzętu ratowniczego i pływającego wykorzystywanego w ratownictwie wodnym i jego zastosowania, podstawowych prac bosmańskich, prowadzenia akcji ratunkowych z wykorzystaniem sprzętu do ratownictwa wodnego oraz powinien posiadać umiejętność posługiwania się tym sprzętem w działaniach ratowniczych.
-4 Pływanie i techniki W wyniku realizacji uczestnik szkolenia ratownictwa wodnego powinien posiadać umiejętności: pływania stosowanego w ratownictwie wodnym, samoratownictwa, wykonania skoków ratunkowych i innych sposobów bezpiecznego wejścia do wody, pływania pod wodą i nurkowania, holowania osoby zagrożonej, co najmniej 6 27 trzema sposobami, ewakuacji z wody i na lądzie, opanowania osoby tonącej pasywnej i ułożenia jej w pozycji do holowania, postępowania z osobą tonącą aktywną.
+II. Zakres tematyczny Liczba godzin szkolenia.
+Lp. Zagadnienie Cele szkolenia Metody realizacji wykłady ćwiczenia 1 Organizacja ratownictwa W wyniku realizacji uczestnik szkolenia 4 – wodnego – podstawy prawne powinien posiadać wiadomości dotyczące: – podstaw prawnych funkcjonowania ratownictwa wodnego w Rzeczypospolitej Polskiej, – organizacji ratownictwa wodnego w pozostałych systemach ratowniczych funkcjonujących na terenie Rzeczypospolitej Polskiej, – prawnych aspektów pracy ratownika wodnego (kodeks karny, kodeks wykroczeń, kodeks cywilny, kodeks pracy).
+2 Organizacja pracy W wyniku realizacji uczestnik szkolenia 7 1 ratowników powinien posiadać wiadomości dotyczące: – obowiązków i uprawnień ratowników wodnych, – specyfiki ratownictwa wodnego na wyznaczonych obszarach wodnych, – specyfiki działania ratownika wodnego na poszczególnych obszarach wodnych (lód, cieki, powódź, miejsca bagniste), – hydrologii i meteorologii, – dokumentacji działań ratowniczych oraz powinien posiadać umiejętność praktycznego stosowania wiedzy w działaniach ratowniczych.
+3 Sprzęt wykorzystywany W wyniku realizacji uczestnik szkolenia 3 15 w ratownictwie wodnym powinien posiadać wiedzę dotyczącą: – sprzętu ratowniczego i pływającego wykorzystywanego w ratownictwie wodnym i jego zastosowania, – podstawowych prac bosmańskich, – prowadzenia akcji ratunkowych z wykorzystaniem sprzętu do ratownictwa wodnego oraz powinien posiadać umiejętność posługiwania się tym sprzętem w działaniach ratowniczych.
+4 Pływanie i techniki W wyniku realizacji uczestnik szkolenia 6 27 ratownictwa wodnego powinien posiadać umiejętności: – pływania stosowanego w ratownictwie wodnym, – samoratownictwa, – wykonania skoków ratunkowych i innych sposobów bezpiecznego wejścia do wody, – pływania pod wodą i nurkowania, – holowania osoby zagrożonej, co najmniej trzema sposobami, – ewakuacji z wody i na lądzie, – opanowania osoby tonącej pasywnej i ułożenia jej w pozycji do holowania, – postępowania z osobą tonącą aktywną.
 III. Wskazówki metodyczne: Uczestnik szkolenia powinien umieć poprawnie wykonać każdą czynność, która była przedmiotem szkolenia.
 RAMOWY PROGRAM SZKOLENIA INSTRUKTORÓW I. Założenia organizacyjno-programowe Cel szkolenia: Celem kształcenia jest przygotowanie osób zatrudnionych, pełniących służbę lub będących członkami podmiotów uprawnionych do wykonywania ratownictwa wodnego i do prowadzenia szkoleń ratowników wodnych.
 Cele szczegółowe szkolenia: Absolwent szkolenia powinien umieć:
@@ -158,20 +159,20 @@ Warunki realizacji szkolenia:
 2) pływalnię o wymiarach minimum 25 m x 10 m x 1,60 m, ze słupkami o wysokości minimum 70 cm do wykonania skoku;
 3) dostęp do zbiornika wodnego z naturalną linią brzegową, umożliwiającą swobodny dostęp do wody;
 4) sprzęt dla każdej grupy szkoleniowej:
-a) rzutkę ratunkową (worek z obciążnikiem zawierający 25 m liny nietonącej o średnicy minimum 6–8 mm) 5 szt.,
-b) koła ratunkowe 3 szt.,
-c) linę ratowniczą (lina nietonąca o średnicy 6–8 mm i długości 15 m) 2 szt.,
-d) linę asekuracyjną (lina nietonąca o długości 80 m) z zasobnikiem 2 szt.,
-e) bojkę ratowniczą typu SP 15 szt.,
-f) pas ratunkowy 3 szt.,
-g) żerdź o długości minimum 4 m 1 szt.,
-h) manekiny do nauki holowania (fantom osoby dorosłej koloru czerwonego w formie torsu, z pomalowaną twarzą na inny kolor, z krótkim odcinkiem ramienia, zawierający zakręcane otwory pozwalające napełnić go wodą) 5 szt.,
-i) ratowniczą łódź wiosłową z linką zaburtową na całej długości burt, wiosłami i z cumą, o długości do 5 m 3 szt.,
-j) deskę ratowniczą 1 szt.,
-k) deskę ortopedyczną 1 szt.
+a) rzutkę ratunkową (worek z obciążnikiem zawierający 25 m liny nietonącej o średnicy minimum 6–8 mm) – 5 szt.,
+b) koła ratunkowe – 3 szt.,
+c) linę ratowniczą (lina nietonąca o średnicy 6–8 mm i długości 15 m) – 2 szt.,
+d) linę asekuracyjną (lina nietonąca o długości 80 m) z zasobnikiem – 2 szt.,
+e) bojkę ratowniczą typu SP – 15 szt.,
+f) pas ratunkowy – 3 szt.,
+g) żerdź o długości minimum 4 m – 1 szt.,
+h) manekiny do nauki holowania (fantom osoby dorosłej koloru czerwonego w formie torsu, z pomalowaną twarzą na inny kolor, z krótkim odcinkiem ramienia, zawierający zakręcane otwory pozwalające napełnić go wodą) – 5 szt.,
+i) ratowniczą łódź wiosłową z linką zaburtową na całej długości burt, wiosłami i z cumą, o długości do 5 m – 3 szt.,
+j) deskę ratowniczą – 1 szt.,
+k) deskę ortopedyczną – 1 szt.
 2. Osoby prowadzące zajęcia teoretyczne oraz zajęcia praktyczne powinny współpracować w celu kształtowania umiejętności objętych programem szkolenia.
 3. Podmiot uprawniony do wykonywania ratownictwa wodnego prowadzący szkolenie opracowuje regulamin organizacyjny szkolenia oraz zasady i tryb naboru osób przewidzianych do szkolenia.
-4. Podmiot uprawniony do wykonywania ratownictwa wodnego prowadzący szkolenie zapewnia organizację procesu
+4. Podmiot uprawniony do wykonywania ratownictwa wodnego prowadzący szkolenie zapewnia organizację procesu dydaktycznego (zajęcia praktyczne powinny odbywać się w grupach liczących nie więcej niż 10 osób).
 5. Realizacja programu szkolenia:
 1) uwzględnia aktualną wiedzę i umiejętności;
 2) jest dokonywana w oparciu o nowoczesne metody dydaktyczne;
@@ -181,11 +182,11 @@ k) deskę ortopedyczną 1 szt.
 2) imienną listę uczestników szkolenia;
 3) dokumentację zaliczania poszczególnych tematów przez uczestników szkolenia oraz dokumentację egzaminacyjną.
 II. Zakres tematyczny Liczba godzin szkolenia.
-Lp. Zagadnienie Cele szkolenia Metody realizacji wykłady ćwiczenia 1 Metodyka nauczania W wyniku realizacji uczestnik szkolenia 3 15 powinien posiadać wiedzę dotyczącą: (z tego 10 godzin procesu nauczania i uczenia się, poświęcone niekonwencjonalnych metod prowadzenia na opracowanie zajęć, konspektów metod skutecznego porozumiewania się szkoleń oraz z uczestnikami szkoleń, przeprowadzenie nowoczesnych metod przekazu informacji, szkolenia według metodyki prowadzenia zajęć z zakresu opracowanego ratownictwa wodnego, konspektu) oceniania i egzaminowania oraz umiejętności nauczania ratownictwa wodnego.
-2 Organizacja ratownictwa W wyniku realizacji uczestnik szkolenia 3 wodnego podstawy prawne powinien posiadać wiadomości dotyczące: podstaw prawnych funkcjonowania ratownictwa wodnego w Rzeczypospolitej Polskiej, organizacji ratownictwa wodnego w pozostałych systemach ratowniczych funkcjonujących na terenie Rzeczypospolitej Polskiej oraz powinien posiadać umiejętność praktycznego stosowania wiedzy w działaniach ratowniczych.
-3 Organizacja pracy W wyniku realizacji uczestnik szkolenia 3 ratowników powinien posiadać wiadomości dotyczące: obowiązków i uprawnień ratowników wodnych, specyfiki ratownictwa wodnego na poszczególnych obszarach wodnych, zasad dokumentacji działań ratowniczych.
-4 Sprzęt wykorzystywany W wyniku realizacji uczestnik szkolenia 2 2 w ratownictwie wodnym powinien posiadać wiadomości dotyczące: sprzętu wykorzystywanego w ratownictwie wodnym i jego zastosowania, podstawowych prac bosmańskich, prowadzenia akcji ratunkowych z wykorzystaniem sprzętu do ratownictwa wodnego oraz powinien posiadać umiejętność jego zastosowania w ratownictwie wodnym oraz umiejętność przekazania wiedzy na temat sprzętu wykorzystywanego w ratownictwie wodnym i jego stosowaniu.
-5 Pływanie i techniki W wyniku realizacji uczestnik szkolenia ratownictwa wodnego powinien posiadać umiejętności nauczania: pływania stylowego i sposobów pływania stosowanego w ratownictwie wodnym, samoratownictwa, skoków ratunkowych i innych sposobów bezpiecznego wejścia do wody, nurkowania, 5 5 sposobów holowania osoby zagrożonej, ewakuacji z wody i na lądzie, postępowania z osobą tonącą aktywną, opanowania osoby tonącej pasywnej i ułożenia jej w pozycji do holowania, wykrywania błędów i sposobów ich korygowania.
+Lp. Zagadnienie Cele szkolenia Metody realizacji wykłady ćwiczenia 1 Metodyka nauczania W wyniku realizacji uczestnik szkolenia 3 15 powinien posiadać wiedzę dotyczącą: (z tego 10 godzin – procesu nauczania i uczenia się, poświęcone – niekonwencjonalnych metod prowadzenia na opracowanie zajęć, konspektów – metod skutecznego porozumiewania się szkoleń oraz z uczestnikami szkoleń, przeprowadzenie – nowoczesnych metod przekazu informacji, szkolenia według – metodyki prowadzenia zajęć z zakresu opracowanego ratownictwa wodnego, konspektu) – oceniania i egzaminowania oraz umiejętności nauczania ratownictwa wodnego.
+2 Organizacja ratownictwa W wyniku realizacji uczestnik szkolenia 3 – wodnego – podstawy prawne powinien posiadać wiadomości dotyczące: – podstaw prawnych funkcjonowania ratownictwa wodnego w Rzeczypospolitej Polskiej, – organizacji ratownictwa wodnego w pozostałych systemach ratowniczych funkcjonujących na terenie Rzeczypospolitej Polskiej oraz powinien posiadać umiejętność praktycznego stosowania wiedzy w działaniach ratowniczych.
+3 Organizacja pracy W wyniku realizacji uczestnik szkolenia 3 – ratowników powinien posiadać wiadomości dotyczące: – obowiązków i uprawnień ratowników wodnych, – specyfiki ratownictwa wodnego na poszczególnych obszarach wodnych, – zasad dokumentacji działań ratowniczych.
+4 Sprzęt wykorzystywany W wyniku realizacji uczestnik szkolenia 2 2 w ratownictwie wodnym powinien posiadać wiadomości dotyczące: – sprzętu wykorzystywanego w ratownictwie wodnym i jego zastosowania, – podstawowych prac bosmańskich, – prowadzenia akcji ratunkowych z wykorzystaniem sprzętu do ratownictwa wodnego oraz powinien posiadać umiejętność jego zastosowania w ratownictwie wodnym oraz umiejętność przekazania wiedzy na temat sprzętu wykorzystywanego w ratownictwie wodnym i jego stosowaniu.
+5 Pływanie i techniki W wyniku realizacji uczestnik szkolenia 5 5 ratownictwa wodnego powinien posiadać umiejętności nauczania: – pływania stylowego i sposobów pływania stosowanego w ratownictwie wodnym, – samoratownictwa, – skoków ratunkowych i innych sposobów bezpiecznego wejścia do wody, – nurkowania, – sposobów holowania osoby zagrożonej, – ewakuacji z wody i na lądzie, – postępowania z osobą tonącą aktywną, – opanowania osoby tonącej pasywnej i ułożenia jej w pozycji do holowania, – wykrywania błędów i sposobów ich korygowania.
 III. Wskazówki metodyczne: Uczestnik szkolenia powinien umieć poprawnie wykonać każdą czynność, która była przedmiotem szkolenia.
 
 ## Załącznik nr 3 — WZÓR ........................................................................
@@ -197,8 +198,8 @@ uczestniczyła/uczestniczył w organizowanym przez .............................
 (nazwa i siedziba podmiotu uprawnionego do wykonywania ratownictwa wodnego prowadzącego szkolenie) w dniach: od ................................ do ......................................
 ( szkoleniu ratowników wodnych i złożyła/złożył egzamin z wynikiem pozytywnym na podstawie przepisów rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 czerwca 2012 r. w sprawie szkoleń w ratownictwie wodnym (Dz. U. poz. 747).
 ......................................................................... .....................................................................
-Strona przednia W razie braku numeru PESEL należy wpisać datę urodzenia.
-Zakres tematyczny Lp. Zagadnienia Zakres posiadanej wiedzy i umiejętności praktycznych 1 Organizacja ratownictwa Uczestnik szkolenia powinien posiadać wiadomości wodnego podstawy prawne dotyczące:  podstaw prawnych funkcjonowania ratownictwa wodnego w Rzeczypospolitej Polskiej,  organizacji ratownictwa wodnego w pozostałych systemach ratowniczych funkcjonujących na terenie Rzeczypospolitej Polskiej,  prawnych aspektów pracy ratownika wodnego.
+W razie braku numeru PESEL należy wpisać datę urodzenia.
+Strona przednia Zakres tematyczny Lp. Zagadnienia Zakres posiadanej wiedzy i umiejętności praktycznych 1 Organizacja ratownictwa Uczestnik szkolenia powinien posiadać wiadomości wodnego – podstawy prawne dotyczące:  podstaw prawnych funkcjonowania ratownictwa wodnego w Rzeczypospolitej Polskiej,  organizacji ratownictwa wodnego w pozostałych systemach ratowniczych funkcjonujących na terenie Rzeczypospolitej Polskiej,  prawnych aspektów pracy ratownika wodnego.
 2 Organizacja pracy ratowników Uczestnik szkolenia powinien posiadać wiadomości dotyczące:  obowiązków i uprawnień ratowników wodnych,  specyfiki ratownictwa wodnego na wyznaczonych obszarach wodnych,  specyfiki działania ratownika wodnego na poszczególnych obszarach wodnych,  hydrologii i meteorologii,  dokumentacji działań ratowniczych oraz powinien posiadać umiejętność praktycznego stosowania wiedzy w działaniach ratowniczych.
 3 Sprzęt wykorzystywany Uczestnik szkolenia powinien posiadać wiedzę w ratownictwie wodnym dotyczącą:  sprzętu wykorzystywanego w ratownictwie wodnym i jego zastosowania,  prowadzenia akcji ratunkowych z wykorzystaniem sprzętu do ratownictwa wodnego,  podstawowych prac bosmańskich oraz powinien posiadać umiejętność posługiwania się tym sprzętem w działaniach ratowniczych.
 4 Pływanie i techniki ratownictwa Uczestnik szkolenia powinien posiadać umiejętności: wodnego  pływania stosowanego w ratownictwie wodnym,  samoratownictwa,  wykonania skoków ratunkowych i innych sposobów bezpiecznego wejścia do wody,  pływania pod wodą i nurkowania,  holowania osoby zagrożonej, co najmniej trzema sposobami,  ewakuacji z wody i na lądzie,  opanowania osoby tonącej pasywnej i ułożenia jej w pozycji do holowania,  postępowania z osobą tonącą aktywną.
@@ -210,9 +211,9 @@ uczestniczyła/uczestniczył w organizowanym przez .............................
 w dniach: od ............................... do ........................................
 szkoleniu instruktorów i złożyła/złożył egzamin z wynikiem pozytywnym na podstawie przepisów rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 czerwca 2012 r. w sprawie szkoleń w ratownictwie wodnym (Dz. U. poz. 747).
 ......................................................................... .....................................................................
-( Strona przednia W razie braku numeru PESEL należy wpisać datę urodzenia.
-Zakres tematyczny Lp. Zagadnienia Zakres posiadanej wiedzy i umiejętności praktycznych 1 Metodyka nauczania Uczestnik szkolenia powinien posiadać wiedzę dotyczącą:  procesu nauczania i uczenia się,  niekonwencjonalnych metod prowadzenia zajęć,  metod skutecznego porozumiewania się z uczestnikami szkoleń,  nowoczesnych metod przekazu informacji,  metodyki prowadzenia zajęć z zakresu ratownictwa wodnego,  oceniania i egzaminowania oraz umiejętności nauczania ratownictwa wodnego.
-2 Organizacja ratownictwa Uczestnik szkolenia powinien posiadać wiadomości dotyczące: wodnego podstawy prawne  podstaw prawnych funkcjonowania ratownictwa wodnego w Rzeczypospolitej Polskiej,  organizacji ratownictwa wodnego w pozostałych systemach ratowniczych funkcjonujących na terenie Rzeczypospolitej Polskiej oraz powinien posiadać umiejętność praktycznego stosowania wiedzy w działaniach ratowniczych.
+( W razie braku numeru PESEL należy wpisać datę urodzenia.
+Strona przednia Zakres tematyczny Lp. Zagadnienia Zakres posiadanej wiedzy i umiejętności praktycznych 1 Metodyka nauczania Uczestnik szkolenia powinien posiadać wiedzę dotyczącą:  procesu nauczania i uczenia się,  niekonwencjonalnych metod prowadzenia zajęć,  metod skutecznego porozumiewania się z uczestnikami szkoleń,  nowoczesnych metod przekazu informacji,  metodyki prowadzenia zajęć z zakresu ratownictwa wodnego,  oceniania i egzaminowania oraz umiejętności nauczania ratownictwa wodnego.
+2 Organizacja ratownictwa Uczestnik szkolenia powinien posiadać wiadomości dotyczące: wodnego – podstawy prawne  podstaw prawnych funkcjonowania ratownictwa wodnego w Rzeczypospolitej Polskiej,  organizacji ratownictwa wodnego w pozostałych systemach ratowniczych funkcjonujących na terenie Rzeczypospolitej Polskiej oraz powinien posiadać umiejętność praktycznego stosowania wiedzy w działaniach ratowniczych.
 3 Organizacja pracy ratowników Uczestnik szkolenia powinien posiadać wiadomości dotyczące:  obowiązków i uprawnień ratowników wodnych,  specyfiki ratownictwa wodnego na poszczególnych obszarach wodnych,  zasad dokumentacji działań ratowniczych.
 4 Sprzęt wykorzystywany Uczestnik szkolenia powinien posiadać wiadomości dotyczące: w ratownictwie wodnym  sprzętu wykorzystywanego w ratownictwie wodnym i jego zastosowania,  podstawowych prac bosmańskich,  prowadzenia akcji ratunkowych z wykorzystaniem sprzętu do ratownictwa wodnego oraz powinien posiadać umiejętność jego zastosowania w ratownictwie wodnym oraz umiejętność przekazania wiedzy na temat sprzętu wykorzystywanego w ratownictwie wodnym i jego stosowaniu.
 5 Pływanie i techniki Uczestnik szkolenia powinien posiadać umiejętności nauczania: ratownictwa wodnego  pływania stylowego i sposobów pływania stosowanego w ratownictwie wodnym,  samoratownictwa,  skoków ratunkowych i innych sposobów bezpiecznego wejścia do wody,  nurkowania,  sposobów holowania osoby zagrożonej,  ewakuacji z wody i na lądzie,  postępowania z osobą tonącą aktywną,  opanowania osoby tonącej pasywnej i ułożenia jej w pozycji do holowania,  wykrywania błędów i sposobów ich korygowania.
@@ -233,11 +234,11 @@ c) przeszkoda do przeskoczenia, o wysokości równej wysokości psa w kłębie;
 II. Plan nauczania
 1) psów ratowniczych Etap Zakres szkolenia Pierwszy Poddanie psa socjalizacji środowiskowej oraz szkolenie w zakresie podstaw posłuszeństwa.
 Przed przystąpieniem do drugiego etapu następuje ocena mentalności i przydatności psa do dalszego szkolenia.
-W przypadku oceny negatywnej może ona być powtórzona po upływie od 3 do 4 miesięcy, a w przypadku uzasadnionym stanem zdrowotnym psa powtórzona nie później niż po upływie 12 miesięcy od dnia uzyskania oceny negatywnej.
+W przypadku oceny negatywnej może ona być powtórzona po upływie od 3 do 4 miesięcy, a w przypadku uzasadnionym stanem zdrowotnym psa – powtórzona nie później niż po upływie 12 miesięcy od dnia uzyskania oceny negatywnej.
 Powtórna ocena negatywna jest oceną ostateczną, eliminującą psa z dalszego szkolenia, co skutkuje wycofaniem psa z ratownictwa.
 Drugi Szkolenie w zakresie posłuszeństwa użytkowego i współpracy z przewodnikiem.
 Trzeci Szkolenie z zakresu technik ratownictwa wodnego.
 Czwarty Szkolenie doskonalące z zakresu technik ratownictwa wodnego.
-2) przewodników psów ratowniczych Lp. Zakres szkolenia 1 Podstawy wiedzy z zakresu kynologii o naturze psa.
+2) przewodników psów ratowniczych Lp. Zakres szkolenia 1 Podstawy wiedzy z zakresu kynologii – o naturze psa.
 2 Organizacja i technika akcji ratowniczych prowadzonych przez zespoły: pies ratowniczy z przewodnikiem.
 

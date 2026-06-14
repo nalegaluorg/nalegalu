@@ -8,10 +8,10 @@ pos: 1155
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1155 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 6 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001155) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1155/text.pdf) |
 
-Poz. 1155 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 6 czerwca 2023 r.
-zmieniające rozporządzenie w sprawie szczegółowych zasad działania telekomunikacji lotniczej Na podstawie art. 132 pkt 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie szczegółowych zasad działania telekomunikacji lotniczej (Dz. U. z 2020 r. poz. 1295) w § 3a:
+zmieniające rozporządzenie w sprawie szczegółowych zasad działania telekomunikacji lotniczej Na podstawie art. 132 pkt 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie szczegółowych zasad działania telekomunikacji lotniczej (Dz. U. z 2020 r. poz. 1295) w § 3a:
 1) użyte w ust. 1, 2, 4a i 5, w różnym przypadku, wyrazy „oznaczenie lokalizacji” zastępuje się użytymi w odpowiednim przypadku wyrazami „wskaźnik lokalizacji”;
 2) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do wniosku o nadanie wskaźnika lokalizacji dla stacji AFS dołącza się dokument potwierdzający zainstalowanie stacji AFS z dostępem do sieci telekomunikacyjnej lub radiowej.”;
 3) ust. 3 i 4 otrzymują brzmienie: „3. Prezes Urzędu wykreśla z urzędu wskaźnik lokalizacji, jeżeli stacja AFS albo stacja AFTN nie jest wykorzystywana w żegludze powietrznej.

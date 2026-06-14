@@ -8,10 +8,10 @@ pos: 2360
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2360 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 17 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002360) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2360/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 17 grudnia 2021 r.
 w sprawie psów służbowych w Służbie Więziennej Na podstawie art. 264l ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064 i 1728) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb przydzielania opiekunowi psa służbowego;
 2) tryb wycofywania psa służbowego z użycia;
 3) sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych i psów służbowych wycofanych z użycia;
@@ -37,10 +37,12 @@ w sprawie psów służbowych w Służbie Więziennej Na podstawie art. 264l usta
 8) tryb odebrania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 264c ust. 7 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej, zwanej dalej „organizacją”;
 9) wzory dokumentów stosowanych w tych sprawach.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) szkoła jednostkę organizacyjną Służby Więziennej wyznaczoną przez Dyrektora Generalnego Służby Więziennej do szkolenia psów służbowych;
-2) jednostka organizacyjna jednostkę organizacyjną Służby Więziennej;
-3) kierownik jednostki organizacyjnej kierownika jednostki organizacyjnej Służby Więziennej;
-4) Dyrektor Generalny Dyrektora Generalnego Służby Więziennej;
+1) szkoła – jednostkę organizacyjną Służby Więziennej wyznaczoną przez Dyrektora Generalnego Służby Więziennej do szkolenia psów służbowych;
+2) jednostka organizacyjna – jednostkę organizacyjną Służby Więziennej;
+3) kierownik jednostki organizacyjnej – kierownika jednostki organizacyjnej Służby Więziennej;
+4) Dyrektor Generalny – Dyrektora Generalnego Służby Więziennej;
+5) funkcjonariusz – funkcjonariusza Służby Więziennej.
+§ 3. Psa służbowego przydziela się opiekunowi na jego wniosek, po przeprowadzeniu postępowania przez komisję w sprawie przydzielenia psa służbowego.
 § 4. Kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę, powołuje komisję, o której mowa w § 3.
 § 5. W skład komisji, o której mowa w § 3, wchodzą:
 1) kierownik działu ochrony, który jest przewodniczącym komisji;
@@ -50,9 +52,10 @@ w sprawie psów służbowych w Służbie Więziennej Na podstawie art. 264l usta
 § 7. 1. W przypadku, o którym mowa w art. 264k ust. 4 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej, kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę, powołuje komisję, o której mowa w § 3.
 2. Komisja, o której mowa w § 3, sporządza protokół wyznaczenia czasowego opiekuna psa służbowego, który zatwierdza kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 3. Wzór protokołu wyznaczenia czasowego opiekuna psa służbowego jest określony w załączniku nr 2 do rozporządzenia
+§ 8. 1. Komisję w sprawie wycofania psa służbowego z użycia powołuje kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę, na wniosek lekarza weterynarii lub opiekuna.
 2. W skład komisji, o której mowa w ust. 1, wchodzą:
 1) kierownik działu ochrony, który jest przewodniczącym komisji;
-2) lekarz weterynarii w przypadku gdy przesłanką wycofania psa służbowego z użycia jest jego stan zdrowia;
+2) lekarz weterynarii – w przypadku gdy przesłanką wycofania psa służbowego z użycia jest jego stan zdrowia;
 3) inne osoby wyznaczone przez kierownika jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 3. Z prac komisji, o której mowa w ust. 1, sporządza się protokół wycofania psa służbowego z użycia, który zatwierdza kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 4. Protokół wycofania psa służbowego z użycia może zawierać wniosek o:
@@ -64,14 +67,16 @@ o ochronie zwierząt (Dz. U. z 2020 r. poz. 638 oraz z 2021 r. poz. 1718 i 1728)
 § 9. 1. Kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę, powołuje komisję w sprawie jego powierzenia.
 2. W skład komisji, o której mowa w ust. 1, wchodzą:
 1) kierownik działu ochrony, który jest przewodniczącym komisji;
+2) inne osoby wyznaczone przez kierownika jednostki organizacyjnej.
 3. Z prac komisji, o której mowa w ust. 1, sporządza się protokół powierzenia psa służbowego wycofanego z użycia, który zatwierdza kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 4. Wzór protokołu powierzenia psa służbowego wycofanego z użycia jest określony w załączniku nr 4 do rozporządzenia.
 § 10. W przypadku braku możliwości wyłonienia opiekuna psa służbowego wycofanego z użycia komisja, o której mowa w § 8 ust. 1, występuje z wnioskiem do kierownika jednostki organizacyjnej o pozostawienie psa służbowego w dotychczasowej jednostce organizacyjnej lub o przekazanie go do jednostki organizacyjnej wskazanej przez Dyrektora Generalnego.
+§ 11. 1. Psa służbowego lub psa służbowego wycofanego z użycia poddaje się:
 1) obowiązkowym szczepieniom przeciwko wściekliźnie;
 2) innym szczepieniom ochronnym;
-3) okresowym badaniom stanu zdrowia nie rzadziej niż dwa razy do roku;
+3) okresowym badaniom stanu zdrowia – nie rzadziej niż dwa razy do roku;
 4) kwartalnym odrobaczeniom zwalczającym endopasożyty i ektopasożyty;
-5) zabiegom profilaktycznym według wskazań lekarza weterynarii.
+5) zabiegom profilaktycznym – według wskazań lekarza weterynarii.
 2. Czynności, o których mowa w ust. 1, wykonuje lekarz weterynarii.
 § 12. 1. Psa służbowego utrzymuje się:
 1) na terenie jednostki organizacyjnej, na której stanie się znajduje;
@@ -87,45 +92,50 @@ o ochronie zwierząt (Dz. U. z 2020 r. poz. 638 oraz z 2021 r. poz. 1718 i 1728)
 3) utrzymanie temperatury otoczenia zwierzęcia, wilgotności powietrza, wentylacji, oświetlenia światłem dziennym lub sztucznym, wynikające z potrzeb biologii, wieku, rasy, płci i stanu fizjologicznego.
 4. Pomieszczenia dla psów służbowych i psów służbowych wycofanych z użycia i ich wyposażenie wykonuje się z materiałów nieszkodliwych dla zdrowia oraz umożliwiających skuteczne czyszczenie i dezynfekcję.
 5. Pomieszczenia dla psów służbowych i psów służbowych wycofanych z użycia zabezpiecza się przed wejściem osób nieupoważnionych.
-6. Pomieszczenia w miejscach, o których mowa w ust. 1 pkt 1, ust. 2 pkt 2 i 3, poddaje się dezynfekcji, dezynsekcji
+6. Pomieszczenia w miejscach, o których mowa w ust. 1 pkt 1, ust. 2 pkt 2 i 3, poddaje się dezynfekcji, dezynsekcji i deratyzacji przynajmniej raz na kwartał oraz każdorazowo w razie potrzeby.
 7. Kojec lub wybieg utrzymuje się w czystości z zachowaniem następujących warunków:
 1) kojec sprząta się według potrzeb, jednak nie rzadziej niż dwa razy dziennie;
 2) wybieg sprząta się według potrzeb;
 3) budę w okresie zimowym wyścieła się słomą.
 8. Psa służbowego lub psa służbowego wycofanego z użycia transportuje się w pojeździe zapewniającym mu dostateczną wymianę powietrza, bezpieczeństwo podczas transportu, przyjęcie swobodnej pozycji ciała, w tym swobodne obracanie się. Pojazd utrzymuje się w czystości oraz poddaje się go dezynfekcji i dezynsekcji przynajmniej raz na kwartał oraz każdorazowo w razie potrzeby.
+§ 13. 1. Pies służbowy lub pies służbowy wycofany z użycia jest żywiony wysokogatunkową, pełnowartościową suchą karmą przeznaczoną dla psów, a w miarę potrzeb podaje mu się dodatki do wyżywienia, w szczególności w postaci dedykowanych olei oraz karm mięsnych mających na celu zwiększenie wydolności i odporności organizmu.
 2. Psa służbowego lub psa służbowego wycofanego z użycia żywi się dwa razy dziennie o stałej porze, o ile lekarz weterynarii nie zaleci inaczej.
 3. Jeżeli pora karmienia psa służbowego koliduje z czasem pełnienia służby, opiekun jest zobowiązany nakarmić psa służbowego w innej dogodnej porze dnia.
 § 14. 1. Wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia jest określona w załączniku nr 5 do rozporządzenia.
 2. Maksymalna wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia w przypadku ich podwyższenia wynosi odpowiednio 130% tych norm.
 § 15. Dzienna stawka pieniężna na wyżywienie psa służbowego wynosi:
 1) dla psa służbowego o wadze do 20 kg:
-a) w okresie letnim 9 zł,
-b) w okresie zimowym 13 zł,
-c) któremu podniesiono normę wyżywienia: w okresie letnim 12 zł, w okresie zimowym 17 zł;
+a) w okresie letnim – 9 zł,
+b) w okresie zimowym – 13 zł,
+c) któremu podniesiono normę wyżywienia: – w okresie letnim – 12 zł, – w okresie zimowym – 17 zł;
 2) dla psa służbowego o wadze powyżej 20 kg:
-a) w okresie letnim 13 zł,
-b) w okresie zimowym 16 zł,
-c) któremu podniesiono normę wyżywienia: w okresie letnim 17 zł, w okresie zimowym 21 zł.
+a) w okresie letnim – 13 zł,
+b) w okresie zimowym – 16 zł,
+c) któremu podniesiono normę wyżywienia: – w okresie letnim – 17 zł, – w okresie zimowym – 21 zł.
 § 16. Dzienna stawka pieniężna na wyżywienie psa służbowego wycofanego z użycia wynosi:
 1) dla psa służbowego wycofanego z użycia o wadze do 20 kg:
-a) w okresie letnim 7 zł,
-b) w okresie zimowym 10 zł,
-c) któremu podniesiono normę wyżywienia: w okresie letnim 9 zł,
+a) w okresie letnim – 7 zł,
+b) w okresie zimowym – 10 zł,
+c) któremu podniesiono normę wyżywienia: – w okresie letnim – 9 zł, – w okresie zimowym – 13 zł;
 2) dla psa służbowego wycofanego z użycia o wadze powyżej 20 kg:
-a) w okresie letnim 10 zł,
-b) w okresie zimowym 13 zł,
-c) któremu podniesiono normę wyżywienia: w okresie letnim 13 zł, w okresie zimowym 17 zł.
+a) w okresie letnim – 10 zł,
+b) w okresie zimowym – 13 zł,
+c) któremu podniesiono normę wyżywienia: – w okresie letnim – 13 zł, – w okresie zimowym – 17 zł.
 § 17. Za okres zimowy przyjmuje się okres od dnia 1 listopada do dnia 31 marca.
+§ 18. 1. Ryczałt na pokrycie kosztów wyżywienia psa służbowego przyznaje się na podstawie zatwierdzonego protokołu, o którym mowa w § 6 ust. 1.
 2. Ryczałt na pokrycie kosztów wyżywienia psa służbowego wycofanego z użycia przyznaje się na podstawie zatwierdzonego protokołu, o którym mowa w § 9 ust. 3.
 3. Ryczałt na pokrycie kosztów wyżywienia psa służbowego w przypadku wyznaczenia czasowego opiekuna psa służbowego przyznaje się na podstawie zatwierdzonego protokołu, o którym mowa w § 7 ust. 2.
 § 19. Ryczałt na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia wypłaca opiekunowi lub organizacji kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 § 20. Opiekun lub organizacja zwraca wypłacony ryczałt na pokrycie kosztów wyżywienia psa służbowego i psa służbowego wycofanego z użycia w terminie 7 dni od dnia zaistnienia przesłanki zwrotu wymienionej w art. 264e ust. 6 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej.
+§ 21. 1. Koszty leczenia, w tym koszty lekarstw przeznaczonych dla psa służbowego lub psa służbowego wycofanego z użycia wymagają uzgodnienia z kierownikiem jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 2. Koszty zabiegów profilaktycznych i koszty leczenia, w tym koszty lekarstw przeznaczonych dla psa służbowego albo psa służbowego wycofanego z użycia pokrywa się w terminie określonym w fakturze.
 3. Koszty, o których mowa w ust. 2, zatwierdza kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę.
+§ 22. 1. Dyrektor Generalny wyznacza funkcjonariusza, który jest odpowiedzialny w szczególności za przeprowadzanie kontroli warunków utrzymania psów służbowych oraz psów służbowych wycofanych z użycia – co najmniej raz na rok i każdorazowo w przypadku zmiany stałego miejsca przebywania lub chowu psa służbowego.
 2. Funkcjonariusz, o którym mowa w ust. 1, podczas przeprowadzania kontroli warunków utrzymania psów służbowych oraz psów służbowych wycofanych z użycia, w szczególności:
 1) przeprowadza przegląd ogólnego stanu zdrowia, kondycji i pielęgnacji zwierzęcia;
 2) sprawdza jakość karmy podawanej zwierzęciu;
 3) sprawdza poddawanie zwierzęcia terminowym szczepieniom, okresowym badaniom weterynaryjnym oraz zabiegom profilaktycznym zleconym przez lekarza weterynarii;
+4) sprawdza spełnienie wymogów, o których mowa w § 12 ust. 3–8.
 3. Opiekun przedkłada na żądanie funkcjonariusza Centralnego Zarządu Służby Więziennej lub funkcjonariusza Okręgowego Inspektoratu Służby Więziennej, do którego obowiązków należy nadzór nad realizacją zadań związanych z używaniem psów służbowych oraz utrzymaniem psów służbowych, jak również psów służbowych wycofanych z użycia, potwierdzenie jakości karmy podawanej psu służbowemu lub psu służbowemu wycofanemu z użycia.
 4. Funkcjonariuszem, o którym mowa w ust. 1, może być w szczególności:
 1) funkcjonariusz Centralnego Zarządu Służby Więziennej lub funkcjonariusz Okręgowego Inspektoratu Służby Więziennej, do którego obowiązków należy nadzór nad realizacją zadań związanych z używaniem psów służbowych oraz utrzymaniem psów służbowych, jak również psów służbowych wycofanych z użycia;
@@ -137,13 +147,15 @@ c) któremu podniesiono normę wyżywienia: w okresie letnim 13 zł, w okresie z
 2) opiekun psa służbowego lub opiekun psa służbowego wycofanego z użycia.
 6. Z przeprowadzenia kontroli warunków utrzymania psa służbowego lub psa służbowego wycofanego z użycia funkcjonariusz, o którym mowa w ust. 1, sporządza notatkę służbową.
 7. Notatkę służbową, o której mowa w ust. 6, przesyła się niezwłocznie do Dyrektora Generalnego.
+§ 23. 1. Komisję w sprawie odebrania opiekunowi lub organizacji psa służbowego lub psa służbowego wycofanego z użycia powołuje kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 2. W skład komisji, o której mowa w ust. 1, wchodzą:
 1) kierownik działu ochrony, który jest przewodniczącym komisji;
 2) lekarz weterynarii;
 3) inne osoby wyznaczone przez kierownika jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 3. Z czynności odebrania opiekunowi albo organizacji psa służbowego lub psa służbowego wycofanego z użycia sporządza się protokół, który zatwierdza kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę.
 4. Wzór protokołu odebrania opiekunowi albo organizacji psa służbowego lub psa służbowego wycofanego z użycia jest określony w załączniku nr 6 do rozporządzenia.
-Minister Sprawiedliwości: Z. Ziobro Załącznik nr 1 WZÓR „ZATWIERDZAM” ...................................................
+§ 24. Rozporządzenie wchodzi w życie z dniem 21 grudnia 2021 r.
+Minister Sprawiedliwości: Z. Ziobro WZÓR Załącznik nr 1 WZÓR „ZATWIERDZAM” ...................................................
 .....................................
 PROTOKÓŁ PRZYDZIELENIA PSA SŁUŻBOWEGO W dniu ........................ r. komisja w składzie: Przewodniczący: ............................................................................................................................................
 Członkowie: ............................................................................................................................................
@@ -179,32 +191,31 @@ psa służbowego o nazwie: ................................................, nr 
 3. Przekazany sprzęt i dokumentacja psa służbowego: ............................................................................................
 ...................................................................................................................................................................................
 ...................................................................................................................................................................................
-WZÓR Podpisy komisji: Członkowie: Przewodniczący: …………………………………. ....………………………… ………………………………….
+Podpisy komisji: Członkowie: Przewodniczący: …………………………………. ....………………………… ………………………………….
 ………………………………….
-Podpisy: Czasowy opiekun: ……………………………………………………….
-Opiekun* : ……………………………………………………….
+Podpisy: Czasowy opiekun: Opiekun* : ………………………………………………………. ……………………………………………………….
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Tryb przydzielania opiekunowi psa służbowego § 3. Psa służbowego przydziela się opiekunowi na jego wniosek, po przeprowadzeniu postępowania przez komisję w sprawie przydzielenia psa służbowego.
+#### Rozdział 2 Tryb przydzielania opiekunowi psa służbowego
 
-#### Rozdział 3 Tryb wycofywania psa służbowego z użycia § 8. 1. Komisję w sprawie wycofania psa służbowego z użycia powołuje kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę, na wniosek lekarza weterynarii lub opiekuna.
+#### Rozdział 3 Tryb wycofywania psa służbowego z użycia
 
-#### Rozdział 4 Sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych i psów służbowych wycofanych z użycia § 11. 1. Psa służbowego lub psa służbowego wycofanego z użycia poddaje się:
+#### Rozdział 4 Sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych i psów służbowych wycofanych z użycia
 
-#### Rozdział 5 Sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalna wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia § 13. 1. Pies służbowy lub pies służbowy wycofany z użycia jest żywiony wysokogatunkową, pełnowartościową suchą karmą przeznaczoną dla psów, a w miarę potrzeb podaje mu się dodatki do wyżywienia, w szczególności w postaci dedykowanych olei oraz karm mięsnych mających na celu zwiększenie wydolności i odporności organizmu.
+#### Rozdział 5 Sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalna wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia
 
-#### Rozdział 6 Tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia § 18. 1. Ryczałt na pokrycie kosztów wyżywienia psa służbowego przyznaje się na podstawie zatwierdzonego protokołu, o którym mowa w § 6 ust. 1.
+#### Rozdział 6 Tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia
 
-#### Rozdział 7 Tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia § 21. 1. Koszty leczenia, w tym koszty lekarstw przeznaczonych dla psa służbowego lub psa służbowego wycofanego z użycia wymagają uzgodnienia z kierownikiem jednostki organizacyjnej, na której stanie znajduje się zwierzę.
+#### Rozdział 7 Tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia
 
-#### Rozdział 8 Sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia § 22. 1. Dyrektor Generalny wyznacza funkcjonariusza, który jest odpowiedzialny w szczególności za przeprowadzanie kontroli warunków utrzymania psów służbowych oraz psów służbowych wycofanych z użycia co najmniej raz na rok i każdorazowo w przypadku zmiany stałego miejsca przebywania lub chowu psa służbowego.
+#### Rozdział 8 Sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia
 
-#### Rozdział 9 Tryb odebrania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji § 23. 1. Komisję w sprawie odebrania opiekunowi lub organizacji psa służbowego lub psa służbowego wycofanego z użycia powołuje kierownik jednostki organizacyjnej, na której stanie znajduje się zwierzę.
+#### Rozdział 9 Tryb odebrania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji
 
-#### Rozdział 10 Przepis końcowy § 24. Rozporządzenie wchodzi w życie z dniem 21 grudnia 2021 r.
+#### Rozdział 10 Przepis końcowy
 
-## Załącznik nr 3 — WZÓR „ZATWIERDZAM” PROTOKÓŁ WYCOFANIA PSA SŁUŻBOWEGO Z UŻYCIA W dniu komisja w składzie: Przewodniczący: Członkowie: z dniem: wycofała z użycia psa służbowego o nazwie: nr ewidencyjny: rasy: tatuaż/chip* nr: waga (kg): data urodzenia: będącego na stanie: dotychczas znajdującego się pod opieką:
+## Załącznik nr 3 — WZÓR WZÓR „ZATWIERDZAM” PROTOKÓŁ WYCOFANIA PSA SŁUŻBOWEGO Z UŻYCIA W dniu komisja w składzie: Przewodniczący: Członkowie: z dniem: wycofała z użycia psa służbowego o nazwie: nr ewidencyjny: rasy: tatuaż/chip* nr: waga (kg): data urodzenia: będącego na stanie: dotychczas znajdującego się pod opieką:
 
 1. Przyczyna wycofania psa służbowego z użycia (właściwe podkreślić w pkt 1–6):
 1) trwała utrata sprawności użytkowej;
@@ -213,7 +224,7 @@ Opiekun* : ……………………………………………………….
 4) padnięcie albo konieczność bezzwłocznego uśmiercenia;
 5) upłynięcie 6 miesięcy od dnia utraty albo zaginięcia;
 6) ukończenie 9. roku życia.
-Wnioski komisji: WZÓR Podpisy komisji: Członkowie: Przewodniczący: Załącznik nr 4 WZÓR „ZATWIERDZAM” PROTOKÓŁ POWIERZENIA PSA SŁUŻBOWEGO WYCOFANEGO Z UŻYCIA W dniu komisja w składzie: Przewodniczący: Członkowie: z dniem: powierzyła psa służbowego wycofanego z użycia o nazwie: ..........................................., nr ewidencyjny: ....................., rasy: …........................., tatuaż/chip nr: ......................, waga (kg): .................., opiekunowi lub organizacji ...................................................................................................................................
+Wnioski komisji: Podpisy komisji: Członkowie: Przewodniczący: Załącznik nr 4 WZÓR WZÓR „ZATWIERDZAM” PROTOKÓŁ POWIERZENIA PSA SŁUŻBOWEGO WYCOFANEGO Z UŻYCIA W dniu komisja w składzie: Przewodniczący: Członkowie: z dniem: powierzyła psa służbowego wycofanego z użycia o nazwie: ..........................................., nr ewidencyjny: ....................., rasy: …........................., tatuaż/chip nr: ......................, waga (kg): .................., opiekunowi lub organizacji ...................................................................................................................................
 1. Uzasadnienie: .......................................................................................................................................................
 ...................................................................................................................................................................................
 ...................................................................................................................................................................................
@@ -227,5 +238,5 @@ Wnioski komisji: WZÓR Podpisy komisji: Członkowie: Przewodniczący: Załączni
 ...................................................................................................................................................................................
 ...................................................................................................................................................................................
 ............................................................................
-WZÓR Podpisy komisji: Członkowie: Przewodniczący: Wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia Tabela nr 1. Norma wyżywienia psa służbowego WYSOKOŚĆ NORMY WYŻYWIENIA PSA SŁUŻBOWEGO ORAZ WYSOKOŚĆ NORMY WYŻYWIENIA PSA SŁUŻBOWEGO WYCOFANEGO Z UŻYCIA Tabela nr 2. Norma wyżywienia psa służbowego wycofanego z użycia WZÓR „ZATWIERDZAM” PROTOKÓŁ ODEBRANIA OPIEKUNOWI ALBO ORGANIZACJI PSA SŁUŻBOWEGO LUB PSA SŁUŻBOWEGO WYCOFANEGO Z UŻYCIA W dniu r. komisja w składzie: Przewodniczący: Członkowie: dokonała odebrania psa służbowego lub psa służbowego wycofanego z użycia o nazwie: nr ewidencyjny: rasy: tatuaż/chip nr: waga (kg): ………………… opiekunowi lub organizacji : z miejsca przebywania: Przyczyna odebrania psa służbowego lub psa służbowego wycofanego z użycia oraz inne uwagi: Przekazana dokumentacja: WZÓR Podpisy komisji: złonkowie: Przewodniczący:
+Podpisy komisji: Członkowie: Przewodniczący: Załącznik nr 5 Wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego WYSOKOŚĆ NORMY WYŻYWIENIA PSA wycofanego SŁUŻBOWEGO z użycia ORAZ WYSOKOŚĆ NORMY WYŻYWIENIA PSA SŁUŻBOWEGO WYCOFANEGO Z UŻYCIA Tabela nr 1. Norma wyżywienia psa służbowego Tabela nr 2. Norma wyżywienia psa służbowego wycofanego z użycia Dziennik Ustaw – 16 – Załącznik Poz. nr 6 2360 WZÓR WZÓR „ZATWIERDZAM” PROTOKÓŁ ODEBRANIA OPIEKUNOWI ALBO ORGANIZACJI PSA SŁUŻBOWEGO LUB PSA SŁUŻBOWEGO WYCOFANEGO Z UŻYCIA W dniu r. komisja w składzie: Przewodniczący: Członkowie: dokonała odebrania psa służbowego lub psa służbowego wycofanego z użycia o nazwie: nr ewidencyjny: rasy: tatuaż/chip nr: waga (kg): ………………… opiekunowi lub organizacji : z miejsca przebywania: Przyczyna odebrania psa służbowego lub psa służbowego wycofanego z użycia oraz inne uwagi: Przekazana dokumentacja: Podpisy komisji: złonkowie: Przewodniczący:
 

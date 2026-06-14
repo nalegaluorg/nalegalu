@@ -8,10 +8,10 @@ pos: 1008
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1008 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 3 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1008/text.pdf) |
 
-Poz. 1008 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 3 lipca 2015 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie zwrotu kosztów przejazdu osób wezwanych do stawiennictwa przez organ emerytalny
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2004 r.
 w sprawie zwrotu kosztów przejazdu osób wezwanych do stawiennictwa przez organ emerytalny (Dz. U. Nr 56, poz. 551), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych z dnia 18 kwietnia 2014 r. zmieniającym rozporządzenie w sprawie zwrotu kosztów przejazdu osób wezwanych do stawiennictwa przez organ emerytalny (Dz. U. poz. 626).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 18 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie zwrotu kosztów przejazdu osób wezwanych do stawiennictwa przez organ emerytalny (Dz. U. poz. 626), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Spraw Wewnętrznych: wz. P. Stachańczyk ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 marca 2004 r.
-w sprawie zwrotu kosztów przejazdu osób wezwanych do stawiennictwa przez organ emerytalny Na podstawie art. 34 ust. 5 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2015 r. poz. 900) zarządza się, co następuje: § 1. Przepisy rozporządzenia określają warunki i tryb zwrotu kosztów przejazdu osób zgłaszających wnioski o świadczenia z tytułu zaopatrzenia emerytalnego, uprawnionych do świadczeń albo składających zeznania w związku z prowadzonym postępowaniem w sprawach świadczeń, wezwanych do stawiennictwa przez organ emerytalny, rodzaje środków transportu, rodzaje dokumentów poświadczających uprawnienia do zwrotu kosztów przejazdu, wysokość zwrotu kosztów przejazdu oraz terminy ich wypłaty.
+w sprawie zwrotu kosztów przejazdu osób wezwanych do stawiennictwa przez organ emerytalny Na podstawie art. 34 ust. 5 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2015 r. poz. 900) zarządza się, co następuje:
+§ 1. Przepisy rozporządzenia określają warunki i tryb zwrotu kosztów przejazdu osób zgłaszających wnioski o świadczenia z tytułu zaopatrzenia emerytalnego, uprawnionych do świadczeń albo składających zeznania w związku z prowadzonym postępowaniem w sprawach świadczeń, wezwanych do stawiennictwa przez organ emerytalny, rodzaje środków transportu, rodzaje dokumentów poświadczających uprawnienia do zwrotu kosztów przejazdu, wysokość zwrotu kosztów przejazdu oraz terminy ich wypłaty.
 § 2. Organ emerytalny zwraca koszty przejazdu publicznymi środkami transportu zbiorowego trasą o bezpośrednim połączeniu, a w przypadku braku takiego połączenia – najkrótszą trasą.
 § 3. 1. Zwrot kosztów przejazdu obejmuje:
 1) cenę biletu kolejowego drugiej klasy pociągu osobowego z miejsca zamieszkania osoby wezwanej do siedziby organu emerytalnego i z powrotem, a jeżeli nie ma połączenia kolejowego – cenę biletu w autobusowej komunikacji zwykłej;

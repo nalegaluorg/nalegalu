@@ -8,7 +8,7 @@ pos: 101
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
@@ -30,6 +30,11 @@ source: "isap-pdf"
 **Art. 1.** Uchyla się dekret z dnia 5 października 1972 r. o uposażeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 269 oraz z 1973 r. poz. 276).
 
 **Art. 2.** Ustawa ustala zasady wynagradzania osób zajmujących kierownicze stanowiska państwowe:
+
+- **1)** Prezydenta Rzeczypospolitej Polskiej;
+- **2)** Marszałka Sejmu, Marszałka Senatu, Prezesa Rady Ministrów, wicemarszałka Sejmu, wicemarszałka Senatu, wiceprezesa Rady Ministrów, Prezesa Najwyższej Izby Kontroli, ministra, Prezesa Narodowego Banku Polskiego, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka, Rzecznika Finansowego, Rzecznika Małych i Średnich Przedsiębiorców, Prezesa Urzędu Ochrony Danych Osobowych, Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, Przewodniczącego Krajowej Rady Radiofonii i Telewizji, wiceprezesa Najwyższej Izby Kontroli, Szefa Kancelarii Sejmu, Szefa Kancelarii Senatu, zastępcy Szefa Kancelarii Sejmu, zastępcy Szefa Kancelarii Senatu, Szefa Kancelarii Prezesa Rady Ministrów, Szefa Służby Cywilnej, Głównego Inspektora Pracy, zastępcy Głównego Inspektora Pracy, Szefa Krajowego Biura Wyborczego;
+- **3)** Ministra Stanu, Szefa Kancelarii Prezydenta, zastępcy Szefa Kancelarii Prezydenta;
+- **4)** Prezesa Polskiej Akademii Nauk, Sekretarza Akademii Kopernikańskiej, sekretarza stanu, członka Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15, członka Krajowej Rady Radiofonii i Telewizji, pierwszego zastępcy Prezesa Narodowego Banku Polskiego, podsekretarza stanu (wiceministra), wiceprezesa Narodowego Banku Polskiego, Zastępcy Rzecznika Praw Obywatelskich, Zastępcy Rzecznika Praw Dziecka, Zastępcy Prezesa Urzędu Ochrony Danych Osobowych, Zastępcy Rzecznika Finansowego, zastępcy Rzecznika Małych i Średnich Przedsiębiorców, kierownika urzędu centralnego, wiceprezesa Polskiej Akademii Nauk, wojewody, zastępcy kierownika urzędu centralnego, wicewojewody.
 
 **Art. 2a.**
 
@@ -91,13 +96,13 @@ source: "isap-pdf"
 
 1. Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi Sejmu, Marszałkowi Senatu, Prezesowi Rady Ministrów, małżonkom tych osób oraz członkom rodzin będącym na ich utrzymaniu, przysługuje prawo do świadczeń opieki zdrowotnej w razie nagłego zachorowania lub urazu, wypadku, zatrucia lub konieczności natychmiastowego leczenia szpitalnego.
 
-2. Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów oraz towarzyszącym im członkom rodzin, a także Marszałkowi i Marszałkowi Senatu, prawo do świadczeń opieki leczniczej w zakresie określonym w ust. 1 przysługuje również w trakcie oficjalnych podróży krajowych i zagranicznych oraz oficjalnych wizyt zagranicznych.
+2. Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów oraz towarzyszącym im członkom rodzin, a także Marszałkowi Sejmu i Marszałkowi Senatu, prawo do świadczeń opieki leczniczej w zakresie określonym w ust. 1 przysługuje również w trakcie oficjalnych podróży krajowych i zagranicznych oraz oficjalnych wizyt zagranicznych.
 
 3. Członkom personelu dyplomatycznego i konsularnego akredytowanego w Rzeczypospolitej Polskiej i ich rodzinom, w odniesieniu do państw, z którymi zostały podpisane umowy o świadczenie usług medycznych, przysługuje prawo do świadczeń zdrowotnych w zakresie określonym tymi umowami.
 
 4. Świadczenia, o których mowa w ust. 1–3, przysługują niezależnie od świadczeń określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych i są finansowane z budżetu państwa, z części, którą dysponuje minister właściwy do spraw wewnętrznych, oraz udzielane przez podmioty lecznicze tworzone przez ministra właściwego do spraw wewnętrznych lub Ministra Obrony Narodowej.
 
-5. Prezes Rady Ministrów określi, w drodze rozporządzenia, po zasięgnięciu opinii Prezydenta Rzeczypospolitej Polskiej, Marszałka i Marszałka Senatu, szczegółowy zakres oraz warunki udzielania świadczeń opieki zdrowotnej, o których mowa w ust. 1, uwzględniając rodzaj udzielanych świadczeń oraz dostęp do uzyskania tych świadczeń.
+5. Prezes Rady Ministrów określi, w drodze rozporządzenia, po zasięgnięciu opinii Prezydenta Rzeczypospolitej Polskiej, Marszałka Sejmu i Marszałka Senatu, szczegółowy zakres oraz warunki udzielania świadczeń opieki zdrowotnej, o których mowa w ust. 1, uwzględniając rodzaj udzielanych świadczeń oraz dostęp do uzyskania tych świadczeń.
 
 **Art. 5b.**
 

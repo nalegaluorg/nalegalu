@@ -8,7 +8,7 @@ pos: 450
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o orderach i odznaczeniach
@@ -94,6 +94,9 @@ source: "isap-pdf"
 
 **Art. 9a.** Prezydent, w drodze rozporządzenia, może określić:
 
+- **1)** starszeństwo orderów i odznaczeń, wynikające z tradycji narodowych w wyróżnianiu zasług,
+- **2)** kolejność noszenia odznak orderów i odznaczeń, wynikającą z ich starszeństwa, oraz skróty literowe orderów i odznaczeń – uwzględniając ordery i odznaczenia ustanowione po odzyskaniu niepodległości w 1918 r., których nadawanie zostało zakończone.
+
 #### Rozdział 2 Ordery
 
 **Art. 10.**
@@ -104,7 +107,7 @@ source: "isap-pdf"
 
 **Art. 11.**
 
-1. Ustanowiony w roku 1792, a zatwierdzony Konstytucją Rzeczypospolitej z dnia 23 listopada 1793 r. i przywrócony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 1 sierpnia 1919 r. Order Wojenny Virtuti Militari jest nagrodą za wybitne czyny wojenne połączone z wyjątkową ofiarnością i odwagą.
+1. Ustanowiony w roku 1792, a zatwierdzony Konstytucją Sejmu Rzeczypospolitej z dnia 23 listopada 1793 r. i przywrócony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 1 sierpnia 1919 r. Order Wojenny Virtuti Militari jest nagrodą za wybitne czyny wojenne połączone z wyjątkową ofiarnością i odwagą.
 
 2. Order Wojenny Virtuti Militari dzieli się na pięć klas: klasa I – Krzyż Wielki Orderu Wojennego Virtuti Militari, klasa II – Krzyż Komandorski Orderu Wojennego Virtuti Militari, klasa III – Krzyż Kawalerski Orderu Wojennego Virtuti Militari, klasa IV – Krzyż Złoty Orderu Wojennego Virtuti Militari, klasa V – Krzyż Srebrny Orderu Wojennego Virtuti Militari.
 
@@ -328,6 +331,11 @@ source: "isap-pdf"
 2. Kapituła stoi na straży honoru orderu, dla którego została ustanowiona.
 
 **Art. 21.** Kapituła ma prawo wyrażania opinii we wszystkich sprawach dotyczących orderu, a w szczególności:
+
+- **1)** opiniuje wnioski o nadanie lub pozbawienie orderu, wniesione przez Prezesa Rady Ministrów przed ich przedstawieniem Prezydentowi;
+- **2)** może wystąpić do Prezydenta z inicjatywą nadania orderu lub jego pozbawienia;
+- **3)** zapoznaje się z projektami aktów normatywnych dotyczących orderu;
+- **4)** może występować do organów uprawnionych o podjęcie inicjatywy ustawodawczej w sprawach dotyczących orderu.
 
 **Art. 22.**
 

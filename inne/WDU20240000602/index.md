@@ -8,10 +8,10 @@ pos: 602
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 kwietnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 602 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 10 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/602/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 10 kwietnia 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Budownictwa w sprawie udostępniania infrastruktury kolejowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 7 kwietnia 2017 r. w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 755), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 23 listopada 2018 r. zmieniającym rozporządzenie w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 2280).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 23 listopada 2018 r. zmieniającego rozporządzenie w sprawie udostępniania infrastruktury kolejowej (Dz. U. poz. 2280), które stanowią: „ Niniejsze rozporządzenie w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32, Dz. Urz. UE L 67 z 12.03.2015, str. 32, Dz. Urz. UE L 159 z 16.06.2016, str. 23, Dz. Urz. UE L 352 z 23.12.2016, str. 1 oraz Dz. Urz. UE L 295 z 14.11.2017, str. 69).” „§ 2. 1. Przepisy rozporządzenia stosuje się po raz pierwszy do przydzielania zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów obowiązującego od dnia 15 grudnia 2019 r.
@@ -33,6 +32,7 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 § 3. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
 Minister Infrastruktury: D. Klimczak ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 7 kwietnia 2017 r.
 w sprawie udostępniania infrastruktury kolejowej Na podstawie art. 35 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 1786, 1720 i 2029) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb składania i rozpatrywania wniosków o przydzielenie zdolności przepustowej, o których mowa w art. 29d ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, zwanej dalej „ustawą”, w szczególności informacje jakie powinny znaleźć się we wnioskach o przydzielenie zdolności przepustowej oraz warunki uznania, że odcinek linii kolejowej posiada niewystarczającą zdolność przepustową;
 2) tryb wprowadzania zmian do rozkładu jazdy pociągów;
 3) zakres analizy zdolności przepustowej, o której mowa w art. 30 ust. 6 ustawy;
@@ -47,15 +47,16 @@ w sprawie udostępniania infrastruktury kolejowej Na podstawie art. 35 ustawy z 
 12) zakres przedmiotowy zagadnień, które w szczególności wymagają uregulowania umową ramową, o której mowa w art. 31 ustawy, zwaną dalej „umową ramową”;
 13) sposób opracowania regulaminu sieci i zakres informacji w nim zawieranych.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) cykliczny rozkład jazdy rozkład jazdy grupy pociągów na całości lub części trasy, w ramach którego:
+1) cykliczny rozkład jazdy – rozkład jazdy grupy pociągów na całości lub części trasy, w ramach którego:
 a) co najmniej 4 pociągi w trakcie doby z większości stacji odjeżdżają o godzinach ze stałą końcówką minutową,
 b) odstęp pomiędzy danym pociągiem a poprzednim lub następnym pociągiem kursującym w cyklu jest nie większy niż 4 godziny,
 c) parametry pociągów umożliwiają opracowanie rozkładu jazdy pociągów o zbliżonym czasie przejazdu;
-2) modyfikacja przydzielonej zdolności przepustowej zmianę przydzielonej zdolności przepustowej, w wyniku której aplikant zakłada przynajmniej częściowe jej wykorzystanie, inna niż zmiana terminu kursowania;
-3) pociągokilometr miernik pracy eksploatacyjnej odpowiadający przejazdowi jednego pociągu na odległość jednego kilometra;
-4) trasa jednosieciowa trasę pociągu niewykraczającą poza jedną sieć kolejową;
-5) trasa wielosieciowa trasę pociągu przebiegającą przez więcej niż jedną sieć kolejową, niewykraczającą poza granice Rzeczypospolitej Polskiej;
-6) trasa międzynarodowa trasę pociągu przebiegającą przez więcej niż jedną sieć kolejową i wykraczającą poza granice Rzeczypospolitej Polskiej.
+2) modyfikacja przydzielonej zdolności przepustowej – zmianę przydzielonej zdolności przepustowej, w wyniku której aplikant zakłada przynajmniej częściowe jej wykorzystanie, inna niż zmiana terminu kursowania;
+3) pociągokilometr – miernik pracy eksploatacyjnej odpowiadający przejazdowi jednego pociągu na odległość jednego kilometra;
+4) trasa jednosieciowa – trasę pociągu niewykraczającą poza jedną sieć kolejową;
+5) trasa wielosieciowa – trasę pociągu przebiegającą przez więcej niż jedną sieć kolejową, niewykraczającą poza granice Rzeczypospolitej Polskiej;
+6) trasa międzynarodowa – trasę pociągu przebiegającą przez więcej niż jedną sieć kolejową i wykraczającą poza granice Rzeczypospolitej Polskiej.
+§ 3. 1. Wniosek o przydzielenie zdolności przepustowej może dotyczyć:
 1) przydzielenia nowej zdolności przepustowej albo
 2) modyfikacji przydzielonej zdolności przepustowej.
 2. Aplikant we wniosku o przydzielenie zdolności przepustowej wskazuje powiązane wnioski o przydzielenie zdolności przepustowej, których zrealizowanie jest niezbędne do przydzielenia zdolności przepustowej, o którą wnioskuje.
@@ -96,18 +97,19 @@ b) wskazanie wniosków o przydzielenie zdolności przepustowej dla pociągów, z
 3) zawierają wymagane informacje, o których mowa odpowiednio w § 4 ust. 1–4 i § 5 ust. 1.
 2. Wnioski niespełniające wymogów, o których mowa w ust. 1 pkt 1 i 2, niezwłocznie zwraca się aplikantowi wraz ze wskazaniem przyczyny zwrotu.
 3. W przypadku wniosków niespełniających wymogów, o których mowa w ust. 1 pkt 3, zarządca wzywa aplikanta do uzupełnienia wniosku w terminie określonym w regulaminie sieci, nie krótszym niż 5 dni roboczych.
+§ 7. 1. Zarządca w celu przydzielenia zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów określa zapotrzebowanie na zdolność przepustową niezbędną dla:
 1) utrzymania infrastruktury kolejowej;
 2) wstępnie ustalonych międzynarodowych tras pociągów w korytarzu towarowym w rozumieniu art. 2 ust. 2 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 913/2010 z dnia 22 września 2010 r. w sprawie europejskiej sieci kolejowej ukierunkowanej na konkurencyjny transport towarowy (Dz. Urz. UE L 276 z 20.10.2010, str. 22, z późn. zm.).
 2. Termin składania wniosków o przydzielenie zdolności przepustowej wyznacza się dla tras:
-1) międzynarodowych nie wcześniej niż 12 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów;
-2) wielosieciowych nie wcześniej niż 12 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów, przy czym termin ten nie może być wcześniejszy niż ustalony dla tras międzynarodowych;
-3) jednosieciowych nie wcześniej niż 12 i nie później niż 5 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów, przy czym termin ten nie może być wcześniejszy niż ustalony dla tras wielosieciowych.
+1) międzynarodowych – nie wcześniej niż 12 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów;
+2) wielosieciowych – nie wcześniej niż 12 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów, przy czym termin ten nie może być wcześniejszy niż ustalony dla tras międzynarodowych;
+3) jednosieciowych – nie wcześniej niż 12 i nie później niż 5 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów, przy czym termin ten nie może być wcześniejszy niż ustalony dla tras wielosieciowych.
 3. Na podstawie wniosków o przydzielenie zdolności przepustowej dla tras międzynarodowych, zarządca uzgadnia, nie później niż 11 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów, z zainteresowanymi zarządcami:
 1) trasy, które mają zostać uwzględnione w rocznym rozkładzie jazdy pociągów,
-2) godzinę przejazdu pociągu międzynarodowego na styku sieci kolejowych z uwzględnieniem przewidywanego ruchu pociągów, które mają pierwszeństwo w stosunku do wnioskowanych tras międzynarodowych. Korekty w stosunku do uzgodnień są dokonywane tylko w razie konieczności.
+2) godzinę przejazdu pociągu międzynarodowego na styku sieci kolejowych – z uwzględnieniem przewidywanego ruchu pociągów, które mają pierwszeństwo w stosunku do wnioskowanych tras międzynarodowych. Korekty w stosunku do uzgodnień są dokonywane tylko w razie konieczności.
 4. Na podstawie wniosków o przydzielenie zdolności przepustowej dla tras wielosieciowych zarządca uzgadnia, nie później niż w terminie, o którym mowa w ust. 2 pkt 3, z zainteresowanymi zarządcami:
 1) trasy, które mają zostać uwzględnione w rocznym rozkładzie jazdy pociągów,
-2) godzinę przejazdu pociągu na styku sieci kolejowych z uwzględnieniem przewidywanego ruchu pociągów, które mają pierwszeństwo w stosunku do wnioskowanych tras wielosieciowych.
+2) godzinę przejazdu pociągu na styku sieci kolejowych – z uwzględnieniem przewidywanego ruchu pociągów, które mają pierwszeństwo w stosunku do wnioskowanych tras wielosieciowych.
 5. Wniosek o przydzielenie trasy pociągu na podstawie umowy ramowej aplikant składa w terminie wyznaczonym przez zarządcę dla składania wniosków o przydzielenie tras wielosieciowych.
 6. Na podstawie wniosków, o których mowa w ust. 2 pkt 1 i 2 oraz ust. 5, zarządca opracowuje, nie później niż w terminie, o którym mowa w ust. 2 pkt 3, wstępne trasy pociągów wraz z określeniem zdolności przepustowej zarezerwowanej na możliwe ich przesunięcia wynikające z dalszych prac nad rocznym rozkładem jazdy pociągów.
 7. Na podstawie złożonych wniosków o przydzielenie zdolności przepustowej zarządca opracowuje projekt rocznego rozkładu jazdy pociągów, uwzględniając w następującej kolejności:
@@ -134,9 +136,9 @@ d) informacją o trasach pociągów wstępnie opracowanych dla pozostałych apli
 10. W terminie miesiąca od dnia otrzymania projektu, o którym mowa w ust. 9, aplikant akceptuje projekt albo zgłasza uwagi lub proponuje zmiany do dotyczącej go części projektu w zakresie, w jakim nie spełnia ona wymagań ujętych w złożonych przez niego wnioskach.
 11. Zarządca, jeżeli nie może uwzględnić uwag lub zrealizować zmian, o których mowa w ust. 10:
 1) wskazuje przepełniony odcinek infrastruktury, na którym kolizja tras pociągów uniemożliwiła realizację wniosku zgodnie z określonymi w nim wymaganiami, oraz okres przepełnienia, z wyłączeniem przypadku, gdy trasa pociągu zakłada odstępstwo od wymagań określonych we wniosku w zakresie pory kursowania lub czasów postojów handlowych łącznie:
-a) do 15 minut w przypadku pociągów realizujących przewozy wojewódzkie,
-b) do 30 minut w przypadku pociągów pasażerskich realizujących przewozy inne niż wojewódzkie,
-c) do 180 minut w przypadku pociągów towarowych;
+a) do 15 minut – w przypadku pociągów realizujących przewozy wojewódzkie,
+b) do 30 minut – w przypadku pociągów pasażerskich realizujących przewozy inne niż wojewódzkie,
+c) do 180 minut – w przypadku pociągów towarowych;
 2) powiadamia aplikanta o zakresie uwag i zmian, których nie uwzględnił, nie później niż w terminie 14 dni od upłynięcia terminu, o którym mowa w ust. 10;
 3) w przypadku wskazania przepełnionego odcinka infrastruktury, o którym mowa w pkt 1, w powiadomieniu, o którym mowa w pkt 2, wskazuje aplikantowi trasy równorzędne pod względem pierwszeństwa w przydzielaniu zdolności przepustowej, które powodują odstępstwo od wymagań określonych we wniosku;
 4) w przypadku wskazania tras, o których mowa w pkt 3, przeprowadza z udziałem aplikantów, którzy wnioskowali o te trasy, aukcję nieprzydzielonej zdolności przepustowej, w wyniku której:
@@ -150,6 +152,7 @@ e) przekazuje aplikantom nową propozycję tras pociągów wnioskowanych na prze
 14. Zarządca przed dokonaniem przydziału tras pociągów realizujących przewóz osób dokonuje, w miarę potrzeb zgłoszonych przez aplikantów, koordynacji połączeń z udziałem zainteresowanych aplikantów.
 15. Zarządca, na podstawie uzgodnionego projektu rocznego rozkładu jazdy pociągów, przydziela trasy pociągów, opracowuje roczny rozkład jazdy pociągów i udostępnia go aplikantowi nie później niż w terminie 3 miesięcy przed okresem jego obowiązywania w sposób określony w regulaminie sieci.
 16. W trakcie procesu układania rocznego rozkładu jazdy pociągów zarządca przyjmuje wnioski o przydzielenie zdolności przepustowej, o której mowa w ust. 1 pkt 1, w celu wykonania prac w zakresie utrzymania infrastruktury kolejowej.
+§ 8. 1. Na podstawie wniosku o przydzielenie trasy pociągu dotyczącego przydzielenia nowej zdolności przepustowej w okresie obowiązywania rocznego rozkładu jazdy pociągów, złożonego po upływie terminu na składanie wniosków o przydzielenie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów, zwanego dalej „wnioskiem IRJ”, zarządca opracowuje indywidualny rozkład jazdy pociągu.
 2. Dla wniosku IRJ złożonego do dnia udostępnienia aplikantom rocznego rozkładu jazdy pociągów, zarządca opracowuje indywidualny rozkład jazdy pociągu nie później niż w terminie 5 dni roboczych od dnia udostępnienia aplikantom rocznego rozkładu jazdy pociągów.
 3. Dla wniosku IRJ złożonego po dniu udostępnienia aplikantom rocznego rozkładu jazdy pociągów i przed upływem terminu określonego w regulaminie sieci, po którym zarządca nie przydziela zdolności przepustowej na podstawie wniosków IRJ, zarządca niezwłocznie opracowuje projekt indywidualnego rozkładu jazdy pociągu, nie później jednak niż w terminie 5 dni roboczych od dnia złożenia wniosku IRJ.
 4. Zarządca może określić w regulaminie sieci przypadki, w których projekt indywidualnego rozkładu jazdy pociągu zostanie opracowany w terminie późniejszym niż określony w ust. 2 lub 3.
@@ -167,8 +170,10 @@ e) przekazuje aplikantom nową propozycję tras pociągów wnioskowanych na prze
 2. Trasa katalogowa może być przygotowana, w uzgodnieniu z zainteresowanymi zarządcami, dla potrzeb realizacji wniosków o przydzielenie tras międzynarodowych.
 3. Do wniosków o przydzielenie zdolności przepustowej dotyczących międzynarodowych tras katalogowych stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 913/2010 z dnia 22 września 2010 r. w sprawie europejskiej sieci kolejowej ukierunkowanej na konkurencyjny transport towarowy.
 4. Do trybu rozpatrywania wniosków o przydzielenie zdolności przepustowej dotyczących krajowych tras katalogowych przepisy rozporządzenia, o którym mowa w ust. 3, stosuje się odpowiednio.
+§ 10. 1. Zarządca, jeżeli dopuszcza opracowanie uproszczonego rozkładu jazdy pociągu, o którym mowa w art. 30 ust. 10 ustawy, określa w regulaminie sieci termin składania wniosków, dla których deklaruje jego opracowanie. Zarządca określa termin, o którym mowa w zdaniu pierwszym, jako liczbę dni, godzin albo minut przed planowanym uruchomieniem pociągu.
 2. Dla wniosku o przydzielenie zdolności przepustowej, dla którego zarządca opracowuje uproszczony rozkład jazdy pociągu, zarządca przedstawia aplikantowi propozycję godziny odjazdu pociągu ze stacji początkowej oraz trasę przejazdu.
 3. W terminie określonym przez zarządcę w regulaminie sieci aplikant akceptuje propozycję, o której mowa w ust. 2, albo odmawia jej akceptacji.
+§ 11. 1. Jeżeli zarządca podejmie decyzję o wprowadzeniu zmian rozkładu jazdy pociągów, wprowadza je:
 1) o północy w drugą sobotę czerwca;
 2) w dodatkowych terminach, jeżeli uzna to za uzasadnione.
 2. Zarządca może przewidzieć terminy wprowadzania zmian rozkładu jazdy pociągów, o których mowa w ust. 1 pkt 2, na etapie tworzenia rocznego rozkładu jazdy pociągów lub w okresie jego obowiązywania.
@@ -187,8 +192,8 @@ e) przekazuje aplikantom nową propozycję tras pociągów wnioskowanych na prze
 4) rozpatrzenie wniosków o przydzielenie tras pociągów dotyczących przydzielenia nowych tras pociągów, o ile zarządca rozpatruje takie wnioski w ramach zmiany rozkładu jazdy pociągów.
 6. Zarządca przygotowuje propozycje, o których mowa w ust. 5 pkt 1 i 3, oraz rozpatruje wnioski, o których mowa w ust. 5 pkt 2, biorąc pod uwagę:
 1) pierwszeństwo tras pociągów przydzielonych w ramach rocznego rozkładu jazdy pociągów;
-2) w odniesieniu do tras pociągów przydzielonych w ramach rocznego rozkładu jazdy pociągów przesłanki, o których mowa w § 7 ust. 7;
-3) w odniesieniu do tras pociągów przydzielonych w ramach indywidualnego rozkładu jazdy pociągów przesłanki, o których mowa w § 8 ust. 7.
+2) w odniesieniu do tras pociągów przydzielonych w ramach rocznego rozkładu jazdy pociągów – przesłanki, o których mowa w § 7 ust. 7;
+3) w odniesieniu do tras pociągów przydzielonych w ramach indywidualnego rozkładu jazdy pociągów – przesłanki, o których mowa w § 8 ust. 7.
 7. Zarządca rozpatruje wnioski, o których mowa w ust. 5 pkt 4, biorąc pod uwagę przesłanki, o których mowa w § 8 ust. 7.
 8. Aplikant może zgłosić uwagi lub zaproponować zmiany w stosunku do opracowanego przez zarządcę projektu zmiany rozkładu jazdy pociągów w zakresie, w jakim nie spełnia on oczekiwań ujętych w złożonych przez aplikanta wnioskach.
 9. W przypadku gdy zarządca nie może w pełni uwzględnić uwag lub zrealizować zmian, o których mowa w ust. 8:
@@ -204,6 +209,7 @@ e) przekazuje aplikantom nową propozycję tras pociągów wnioskowanych na prze
 2. Jeżeli zarządca w ramach zmiany rozkładu jazdy pociągów nie rozpatruje wniosków o przydzielenie tras pociągów, wnioski IRJ na okres obowiązywania zmiany rozkładu jazdy pociągów złożone:
 1) przed rozpoczęciem prac nad zmianą rozkładu jazdy pociągów rozpatruje w sposób opisany w § 8;
 2) od dnia rozpoczęcia prac nad zmianą rozkładu jazdy pociągów rozpatruje w sposób opisany w § 8 i § 9, po udostępnieniu aplikantom zmiany rozkładu jazdy pociągów.
+§ 13. Analiza zdolności przepustowej odcinka linii kolejowej o niewystarczającej zdolności przepustowej obejmuje:
 1) wpływ rodzaju realizowanych przewozów i sposobu prowadzenia ruchu pociągów na zdolność przepustową;
 2) określenie przyczyn niewystarczającej zdolności przepustowej odcinka infrastruktury, w szczególności ustalenie czy przyczyną były zmiany w zakresie ruchu pociągów, parametrów infrastruktury, czy sposobu prowadzenia ruchu pociągów;
 3) wskazanie działań tymczasowych i docelowych, w tym zgłoszonych przez zainteresowanych aplikantów, które zapewnią zwiększenie zdolności przepustowej, w szczególności takich, jak:
@@ -219,6 +225,7 @@ f) budowę dodatkowego toru.
 3) określenie ograniczeń w rozwoju infrastruktury kolejowej;
 4) możliwe warianty powiększenia zdolności przepustowej wraz z przewidywanymi kosztami i ich wpływem na wysokość stawek jednostkowych za dostęp do infrastruktury kolejowej;
 5) harmonogram wprowadzania proponowanych rozwiązań.
+§ 15. 1. Warunkiem korzystania przez przewoźnika z infrastruktury kolejowej jest:
 1) przedłożenie zarządcy:
 a) poświadczonej kopii ważnej licencji, o której mowa w art. 43 ustawy,
 b) poświadczonej kopii ważnego certyfikatu bezpieczeństwa, o którym mowa w art. 17e ust. 1 ustawy, lub poświadczonej kopii ważnego świadectwa bezpieczeństwa, o którym mowa w art. 17e ust. 3 ustawy,
@@ -231,8 +238,9 @@ c) oświadczenia przewoźnika, że do realizacji przejazdów będzie wykorzystyw
 6. W terminie 7 dni przed upływem okresu, o którym mowa w ust. 4, zarządca informuje aplikanta i przewoźnika o przewidywanym braku możliwości korzystania z trasy pociągu. W takim przypadku zarządca wyznacza termin, nie krótszy niż 10 dni i nie dłuższy niż 30 dni, na złożenie przez aplikanta oświadczenia wskazującego daty, w których brak wykorzystania trasy pociągu nastąpił z przyczyn innych niż ekonomiczne, niezależnych od aplikanta.
 7. Jeżeli aplikant:
 1) nie złoży oświadczenia, o którym mowa w ust. 6, albo
-2) z oświadczenia wynika, że nie został spełniony warunek, o którym mowa w ust. 5 zarządca, jeżeli został spełniony warunek, o którym mowa w ust. 4, informuje aplikanta i przewoźnika o terminie, od którego przewoźnik nie może korzystać z infrastruktury kolejowej na podstawie przydzielonej trasy pociągu do końca okresu obowiązywania rocznego rozkładu jazdy pociągów.
+2) z oświadczenia wynika, że nie został spełniony warunek, o którym mowa w ust. 5 – zarządca, jeżeli został spełniony warunek, o którym mowa w ust. 4, informuje aplikanta i przewoźnika o terminie, od którego przewoźnik nie może korzystać z infrastruktury kolejowej na podstawie przydzielonej trasy pociągu do końca okresu obowiązywania rocznego rozkładu jazdy pociągów.
 8. W przypadku, o którym mowa w ust. 7, aplikant nie może wyznaczyć innego przewoźnika do wykorzystania trasy pociągu.
+§ 16. 1. Zarządca dokonuje wstępnej klasyfikacji przyczyn opóźnień pociągów zgodnie z następującymi kategoriami:
 1) eksploatacja, planowanie i zarządzanie, za które jest odpowiedzialny zarządca:
 a) rozkład jazdy,
 b) przygotowanie pociągu, jeżeli odpowiada za nie zarządca,
@@ -305,11 +313,12 @@ b) przewoźnicy;
 3) opóźnienie, o którym mowa w pkt 1, przypisuje się do poszczególnych przyczyn opóźnienia proporcjonalnie do wielkości opóźnień, które spowodowały na trasie przejazdu pociągu do punktu postoju, w którym opóźnienie było największe;
 4) na podstawie przypisania, o którym mowa w pkt 3, zarządca ustala wysokość opóźnień pociągów przypadających na poszczególnych zarządców i przewoźników.
 § 17. Wielkość opóźnienia pociągu, dla której uznaje się, że pociąg kursuje planowo, o której mowa w art. 30f ust. 4 pkt 1 ustawy, nie może przekraczać:
-1) 5 minut w odniesieniu do pociągów pasażerskich;
-2) 15 minut w odniesieniu do pozostałych pociągów.
+1) 5 minut – w odniesieniu do pociągów pasażerskich;
+2) 15 minut – w odniesieniu do pozostałych pociągów.
 § 18. Procentowy udział liczby pociągów przewoźnika kolejowego, które nie zostaną opóźnione z jego winy, o którym mowa w art. 30f ust. 4 pkt 2 ustawy, nie może być niższy niż:
-1) 90 % w odniesieniu do pociągów pasażerskich;
-2) 70 % w odniesieniu do pozostałych pociągów.
+1) 90 % – w odniesieniu do pociągów pasażerskich;
+2) 70 % – w odniesieniu do pozostałych pociągów.
+§ 19. Opłata za obsługę wniosku o przydzielenie zdolności przepustowej, o której mowa w art. 33 ust. 2 ustawy, jest ustalana jako iloraz kosztów poniesionych przez zarządcę na obsługę wniosków o przydzielenie zdolności przepustowej i liczby wniosków złożonych w ostatnim zakończonym roku, w wysokości nie mniejszej niż 100 zł.
 § 20. Opłata rezerwacyjna za niewykorzystanie przydzielonej zdolności przepustowej, o której mowa w art. 33 ust. 3 ustawy, jest ustalana w wysokości 100 % opłaty podstawowej za planowany przejazd, nie mniej jednak niż 1000 zł.
 § 21. 1. Stawkę jednostkową opłaty podstawowej, o której mowa w art. 33 ust. 4 ustawy, ustala się jako sumę części stawki zależnej od kosztów bezpośrednich, o których mowa w art. 33 ust. 6 ustawy, oraz części stawki związanej z rodzajem wykonywanych przewozów.
 2. Część stawki zależną od kosztów bezpośrednich ustala się jako sumę części stawki zależnej od masy pociągu i kategorii linii kolejowych oraz części stawki zależnej od trakcji pociągu.
@@ -384,6 +393,7 @@ b) za okres od dnia złożenia rezygnacji do dnia poprzedzającego wdrożenie zm
 § 24. 1. Opłatę manewrową, o której mowa w art. 33 ust. 8 ustawy, ustala się tak, jak opłatę podstawową za przejazd pociągu po linii kolejowej najniższej kategorii. Zarządca może ustalić w regulaminie sieci średnią masę składu pojazdów kolejowych podlegającego manewrom lub średnią odległość przejazdu, przyjmowane do obliczenia opłaty.
 2. Jeżeli zarządca nie zarządza linią kolejową, może stosować opłatę manewrową w wysokości określonej dla linii kolejowej, z którą zarządzana przez niego droga kolejowa jest połączona.
 § 25. Opłat nie nalicza się za przejazd pociągu lub pojazdu pomocniczego zarządcy albo przedsiębiorcy działającego na jego zlecenie, wykonującego przejazd w celu utrzymania infrastruktury kolejowej, nadzoru, przeprowadzenia badań lub usuwania awarii.
+§ 26. W umowie ramowej należy w szczególności określić:
 1) okres, na jaki zawiera się umowę ramową;
 2) zasady i termin składania wniosków o przydzielenie tras pociągów;
 3) parametry zdolności przepustowej przewidzianej do rezerwacji przez zarządcę na rzecz aplikanta w kolejnych rocznych rozkładach jazdy w okresie obowiązywania umowy ramowej;
@@ -391,6 +401,7 @@ b) za okres od dnia złożenia rezygnacji do dnia poprzedzającego wdrożenie zm
 5) zasady wprowadzania zmian lub ograniczeń w odniesieniu do zdolności przepustowej objętej umową umożliwiające lepsze wykorzystanie infrastruktury kolejowej;
 6) skutki niedotrzymania warunków umowy ramowej;
 7) termin uiszczania opłaty za rezerwację zdolności przepustowej, o której mowa w pkt 3.
+§ 27. 1. W regulaminie sieci zawiera się następujące informacje:
 1) dane teleadresowe zarządcy, w tym: adres do korespondencji, numer telefonu i faksu oraz adres poczty elektronicznej;
 2) dotyczące sposobu uzyskania licencji, o której mowa w art. 43 ustawy, oraz certyfikatu bezpieczeństwa, o którym mowa w art. 18b ustawy, lub wskazanie strony internetowej, na której takie informacje są dostępne nieodpłatnie w postaci elektronicznej;
 3) wykaz linii kolejowych udostępnianych aplikantom wraz z ich charakterystyką obejmującą:
@@ -452,31 +463,32 @@ h) informacje na temat zmian opłat, w których sprawie zarządca infrastruktury
 2) rozesłanie informacji do aplikantów o możliwości zgłaszania uwag do projektu regulaminu sieci w terminie wyznaczonym przez zarządcę, nie krótszym niż 14 dni od wysłania wiadomości w przedmiotowej sprawie;
 3) opublikowanie na stronie internetowej zarządcy zestawienia zgłoszonych uwag wraz z informacją o sposobie ich rozpatrzenia oraz uzasadnieniem w przypadku ich odrzucenia;
 4) opublikowanie na stronie internetowej zarządcy regulaminu sieci.
+§ 28. Zarządcy, do czasu pełnego wdrożenia metody obliczania kosztów, o której mowa w art. 9 rozporządzenia wykonawczego Komisji (UE) 2015/909 z dnia 12 czerwca 2015 r. w sprawie zasad obliczania kosztów, które są ponoszone bezpośrednio jako rezultat przejazdu pociągu, w zakresie sposobu ustalania kosztów bezpośrednich, stosują przepisy rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 czerwca 2014 r. w sprawie warunków dostępu i korzystania z infrastruktury kolejowej (Dz. U. poz. 788 oraz z 2015 r. poz. 1723).
 § 29. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia , z wyjątkiem § 16 ust. 6 oraz § 21 ust. 22–24, które wchodzą w życie z dniem 9 grudnia 2018 r.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Przydzielanie zdolności przepustowej § 3. 1. Wniosek o przydzielenie zdolności przepustowej może dotyczyć:
+#### Rozdział 2 Przydzielanie zdolności przepustowej
 
-#### Rozdział 3 Przydzielanie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów § 7. 1. Zarządca w celu przydzielenia zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów określa zapotrzebowanie na zdolność przepustową niezbędną dla:
+#### Rozdział 3 Przydzielanie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów
 
-#### Rozdział 4 Przydzielanie zdolności przepustowej w ramach indywidualnego rozkładu jazdy pociągu § 8. 1. Na podstawie wniosku o przydzielenie trasy pociągu dotyczącego przydzielenia nowej zdolności przepustowej w okresie obowiązywania rocznego rozkładu jazdy pociągów, złożonego po upływie terminu na składanie wniosków o przydzielenie zdolności przepustowej w ramach rocznego rozkładu jazdy pociągów, zwanego dalej „wnioskiem IRJ”, zarządca opracowuje indywidualny rozkład jazdy pociągu.
+#### Rozdział 4 Przydzielanie zdolności przepustowej w ramach indywidualnego rozkładu jazdy pociągu
 
-#### Rozdział 5 Przydzielanie zdolności przepustowej w ramach uproszczonego rozkładu jazdy pociągu § 10. 1. Zarządca, jeżeli dopuszcza opracowanie uproszczonego rozkładu jazdy pociągu, o którym mowa w art. 30 ust. 10 ustawy, określa w regulaminie sieci termin składania wniosków, dla których deklaruje jego opracowanie. Zarządca określa termin, o którym mowa w zdaniu pierwszym, jako liczbę dni, godzin albo minut przed planowanym uruchomieniem pociągu.
+#### Rozdział 5 Przydzielanie zdolności przepustowej w ramach uproszczonego rozkładu jazdy pociągu
 
-#### Rozdział 6 Zmiany rozkładu jazdy pociągów § 11. 1. Jeżeli zarządca podejmie decyzję o wprowadzeniu zmian rozkładu jazdy pociągów, wprowadza je:
+#### Rozdział 6 Zmiany rozkładu jazdy pociągów
 
-#### Rozdział 7 Analiza i plan powiększenia zdolności przepustowej § 13. Analiza zdolności przepustowej odcinka linii kolejowej o niewystarczającej zdolności przepustowej obejmuje:
+#### Rozdział 7 Analiza i plan powiększenia zdolności przepustowej
 
-#### Rozdział 8 Warunki korzystania z infrastruktury kolejowej § 15. 1. Warunkiem korzystania przez przewoźnika z infrastruktury kolejowej jest:
+#### Rozdział 8 Warunki korzystania z infrastruktury kolejowej
 
-#### Rozdział 9 Opóźnienia pociągów § 16. 1. Zarządca dokonuje wstępnej klasyfikacji przyczyn opóźnień pociągów zgodnie z następującymi kategoriami:
+#### Rozdział 9 Opóźnienia pociągów
 
-#### Rozdział 10 Opłaty § 19. Opłata za obsługę wniosku o przydzielenie zdolności przepustowej, o której mowa w art. 33 ust. 2 ustawy, jest ustalana jako iloraz kosztów poniesionych przez zarządcę na obsługę wniosków o przydzielenie zdolności przepustowej i liczby wniosków złożonych w ostatnim zakończonym roku, w wysokości nie mniejszej niż 100 zł.
+#### Rozdział 10 Opłaty
 
-#### Rozdział 11 Zakres umowy ramowej § 26. W umowie ramowej należy w szczególności określić:
+#### Rozdział 11 Zakres umowy ramowej
 
-#### Rozdział 12 Regulamin sieci § 27. 1. W regulaminie sieci zawiera się następujące informacje:
+#### Rozdział 12 Regulamin sieci
 
-#### Rozdział 13 Przepis przejściowy i przepis końcowy § 28. Zarządcy, do czasu pełnego wdrożenia metody obliczania kosztów, o której mowa w art. 9 rozporządzenia wykonawczego Komisji (UE) 2015/909 z dnia 12 czerwca 2015 r. w sprawie zasad obliczania kosztów, które są ponoszone bezpośrednio jako rezultat przejazdu pociągu, w zakresie sposobu ustalania kosztów bezpośrednich, stosują przepisy rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 5 czerwca 2014 r. w sprawie warunków dostępu i korzystania z infrastruktury kolejowej (Dz. U. poz. 788 oraz z 2015 r. poz. 1723).
+#### Rozdział 13 Przepis przejściowy i przepis końcowy
 

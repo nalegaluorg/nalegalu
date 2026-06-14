@@ -8,12 +8,10 @@ pos: 1209
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie informacji niejawnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 sierpnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -28,10 +26,10 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1209/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
+1) ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
 2) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 sierpnia 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U.
+1) art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U.
 poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
@@ -45,7 +43,7 @@ USTAWA z dnia 5 sierpnia 2010 r.
 o ochronie informacji niejawnych
 Art. 74–180. (pominięte)
 1.
-TAK NIE TAK NIE TAK NIE strona 15/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE TAK NIE TAK NIE TAK NIE TAK NIE daty pobytu miejsce (kraj, miejscowość) imię i nazwisko (od do) i adres pobytu powód pobytu strona 16/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE imię i nazwisko kraj pochodzenia daty obywatela innego obywatela innego utrzymywania powód i charakter imię i nazwisko państwa, z którym państwa, z którym kontaktu kontaktu utrzymywano kontakt utrzymywano kontakt (od do) strona 17/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO
+TAK NIE TAK NIE – – TAK NIE strona 15/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE TAK NIE TAK NIE TAK NIE TAK NIE daty pobytu miejsce (kraj, miejscowość) imię i nazwisko (od – do) i adres pobytu powód pobytu strona 16/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE imię i nazwisko kraj pochodzenia daty obywatela innego obywatela innego utrzymywania powód i charakter imię i nazwisko państwa, z którym państwa, z którym kontaktu kontaktu utrzymywano kontakt utrzymywano kontakt (od – do) strona 17/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO
 1.
 strona 25/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO Oświadczam, iż wypełniłam (wypełniłem) ankietę osobiście, zgodnie ze swoją wiedzą, świadoma (świadomy), że ukrywanie lub podawanie niezgodnych z prawdą informacji mających znaczenie dla ochrony informacji niejawnych będzie mogło stanowić podstawę odmowy wydania mi poświadczenia bezpieczeństwa.
 Oświadczam, że zgadzam się na przeprowadzenie wobec mnie postępowania sprawdzającego według przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209).
@@ -90,7 +88,27 @@ strona 26/26
 
 **Art. 2.** W rozumieniu ustawy:
 
-**Art. 3.** Do postępowań sprawdzających, kontrolnych postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego, w zakresie nieuregulowanym w ustawie, mają zastosowanie przepisy art. 6, art. 7, art. 8, art. 12, art. 14–16, art. 24 § 1 pkt 1–6 i § 2–4, art. 26 § 1, art. 28, art. 29, art. 30 § 1–3, art. 35 § 1, art. 39, art. 41–47, art. 50, art. 55, art. 57–60, art. 61 § 3 i 4, art. 63 § 4, art. 64, art. 65, art. 72, art. 75 § 1, art. 77 § 1, art. 97 § 1 pkt 4 i § 2, art. 98, art. 101, art. 103, art. 104, art. 105 § 2, art. 107, art. 109 § 1, art. 112, art. 113 § 1, art. 125 § 1, art. 156–158 oraz art. 217 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+- **1)** jednostką organizacyjną – jest podmiot wymieniony w art. 1 ust. 2;
+- **2)** rękojmią zachowania tajemnicy – jest zdolność osoby do spełnienia ustawowych wymogów dla zapewnienia ochrony informacji niejawnych przed ich nieuprawnionym ujawnieniem, stwierdzona w wyniku przeprowadzenia postępowania sprawdzającego;
+- **3)** dokumentem – jest każda utrwalona informacja niejawna;
+- **4)** materiałem – jest dokument lub przedmiot albo dowolna ich część, chronione jako informacja niejawna, a zwłaszcza urządzenie, wyposażenie lub broń wyprodukowane albo będące w trakcie produkcji, a także składnik użyty do ich wytworzenia;
+- **5)** przetwarzaniem informacji niejawnych – są wszelkie operacje wykonywane w odniesieniu do informacji niejawnych i na tych informacjach, w szczególności ich wytwarzanie, modyfikowanie, kopiowanie, klasyfikowanie, gromadzenie, przechowywanie, przekazywanie lub udostępnianie;
+- **6)** systemem teleinformatycznym – jest system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513);
+- **7)** dokumentem szczególnych wymagań bezpieczeństwa – jest systematyczny opis sposobu zarządzania bezpieczeństwem systemu teleinformatycznego;
+- **8)** dokumentem procedur bezpiecznej eksploatacji systemu teleinformatycznego – jest opis sposobu i trybu postępowania w sprawach związanych z bezpieczeństwem informacji niejawnych przetwarzanych w systemie teleinformatycznym oraz zakres odpowiedzialności użytkowników systemu teleinformatycznego i pracowników mających do niego dostęp;
+- **9)** dokumentacją bezpieczeństwa systemu teleinformatycznego – jest dokument szczególnych wymagań bezpieczeństwa oraz dokument procedur bezpiecznej eksploatacji systemu teleinformatycznego, opracowane zgodnie z zasadami określonymi w ustawie;
+- **10)** akredytacją bezpieczeństwa teleinformatycznego – jest dopuszczenie systemu teleinformatycznego do przetwarzania informacji niejawnych;
+- **11)** certyfikacją – jest proces potwierdzania zdolności urządzenia, narzędzia lub innego środka do ochrony informacji niejawnych;
+- **12)** audytem bezpieczeństwa systemu teleinformatycznego – jest weryfikacja poprawności realizacji wymagań i procedur, określonych w dokumentacji bezpieczeństwa systemu teleinformatycznego;
+- **13)** przedsiębiorcą – jest przedsiębiorca w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ) lub każda inna jednostka organizacyjna, niezależnie od formy własności, którzy w ramach prowadzonej działalności gospodarczej zamierzają realizować lub realizują związane z dostępem do informacji niejawnych umowy lub zadania wynikające z przepisów prawa;
+- **14)** kierownikiem przedsiębiorcy – jest członek jednoosobowego zarządu lub innego jednoosobowego organu zarządzającego, a jeżeli organ jest wieloosobowy – cały organ albo członek lub członkowie tego organu wyznaczeni co najmniej uchwałą zarządu do pełnienia funkcji kierownika przedsiębiorcy, z wyłączeniem pełnomocników ustanowionych przez ten organ lub jednostkę; w przypadku spółki jawnej i spółki cywilnej kierownikiem przedsiębiorcy są wspólnicy prowadzący sprawy spółki, w przypadku spółki partnerskiej – wspólnicy prowadzący sprawy spółki albo zarząd, a w odniesieniu do spółki komandytowej i spółki komandytowo-akcyjnej – komplementariusze prowadzący sprawy spółki; w przypadku osoby fizycznej prowadzącej działalność gospodarczą kierownikiem przedsiębiorcy jest ta osoba; za kierownika przedsiębiorcy uważa się również likwidatora, a także syndyka lub zarządcę ustanowionego w postępowaniu upadłościowym; kierownik przedsiębiorcy jest kierownikiem jednostki organizacyjnej w rozumieniu przepisów ustawy;
+- **15)** ryzykiem – jest kombinacja prawdopodobieństwa wystąpienia zdarzenia niepożądanego i jego konsekwencji;
+- **16)** szacowaniem ryzyka – jest całościowy proces analizy i oceny ryzyka;
+- **17)** zarządzaniem ryzykiem – są skoordynowane działania w zakresie zarządzania bezpieczeństwem informacji, z uwzględnieniem ryzyka;
+- **18)** zatrudnieniem – jest również odpowiednio powołanie, mianowanie lub wyznaczenie;
+- **19)** rozwiązaniem informatycznym – jest urządzenie lub zespół urządzeń, oprogramowanie, narzędzie lub usługa informatyczna umożliwiająca przetwarzanie informacji niejawnych w postaci elektronicznej, eksploatowana lub planowana do wdrożenia wyłącznie w jednostkach organizacyjnych wskazanych w art. 10 ust. 2.
+
+**Art. 3.** Do postępowań sprawdzających, kontrolnych postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego, w zakresie nieuregulowanym w ustawie, mają zastosowanie przepisy art. 6, art. 7, art. 8, art. 12, art. 14–16, art. 24 § 1 pkt 1–6 i § 2–4, art. 26 § 1, art. 28, art. 29, art. 30 § 1–3, art. 35 § 1, art. 39, art. 41–47, art. 50, art. 55, art. 57–60, art. 61 § 3 i 4, art. 63 § 4, art. 64, art. 65, art. 72, art. 75 § 1, art. 77 § 1, art. 97 § 1 pkt 4 i § 2, art. 98, art. 101, art. 103, art. 104, art. 105 § 2, art. 107, art. 109 § 1, art. 112, art. 113 § 1, art. 125 § 1, art. 156–158 oraz art. 217 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
 
 **Art. 4.**
 
@@ -112,7 +130,7 @@ strona 26/26
 - **4)** osłabi gotowość obronną Rzeczypospolitej Polskiej;
 - **5)** doprowadzi lub może doprowadzić do identyfikacji funkcjonariuszy, żołnierzy lub pracowników służb odpowiedzialnych za realizację zadań wywiadu lub kontrwywiadu, którzy wykonują czynności operacyjno-rozpoznawcze, jeżeli zagrozi to bezpieczeństwu wykonywanych czynności lub może doprowadzić do identyfikacji osób udzielających im pomocy w tym zakresie;
 - **6)** zagrozi lub może zagrozić życiu lub zdrowiu funkcjonariuszy, żołnierzy lub pracowników, którzy wykonują czynności operacyjno-rozpoznawcze, lub osób udzielających im pomocy w tym zakresie;
-- **7)** zagrozi lub może zagrozić życiu lub zdrowiu świadków koronnych lub osób dla nich najbliższych, osób, którym udzielono środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21 oraz z 2024 r. poz. 1228), albo świadków, o których mowa w art. 184 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304), lub osób dla nich najbliższych.
+- **7)** zagrozi lub może zagrozić życiu lub zdrowiu świadków koronnych lub osób dla nich najbliższych, osób, którym udzielono środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21 oraz z 2024 r. poz. 1228), albo świadków, o których mowa w art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304), lub osób dla nich najbliższych.
 
 2. Informacjom niejawnym nadaje się klauzulę „tajne”, jeżeli ich nieuprawnione ujawnienie spowoduje poważną szkodę dla Rzeczypospolitej Polskiej przez to, że:
 
@@ -167,12 +185,16 @@ strona 26/26
 - **2)** dane mogące doprowadzić do identyfikacji osób, które udzieliły pomocy w zakresie czynności operacyjno-rozpoznawczych służbom i instytucjom uprawnionym do ich wykonywania na podstawie ustawy;
 - **3)** informacje niejawne uzyskane od organów innych państw lub organizacji międzynarodowych, jeżeli taki był warunek ich udostępnienia.
 
-2. Ochronie nie podlegają dane, o których mowa w ust. 1 pkt 1 i 2, zawarte w dokumentach, zbiorach danych, rejestrach i kartotekach, a także w aktach funkcjonariuszy i żołnierzy organów bezpieczeństwa państwa, przekazanych do Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu na podstawie przepisów:
+2. Ochronie nie podlegają dane, o których mowa w ust. 1 pkt 1 i 2, zawarte w dokumentach, zbiorach danych, rejestrach i kartotekach, a także w aktach funkcjonariuszy i żołnierzy organów bezpieczeństwa państwa, przekazanych do Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu na podstawie przepisów:
 
-- **1)** ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102),
-- **2)** ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940) chyba że nadano im klauzulę tajności w wyniku przeglądu, o którym mowa w art. 19 ustawy z dnia 29 kwietnia 2016 r. o zmianie ustawy o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw (Dz. U. poz. 749), lub przeglądu, o którym mowa w art. 6 ust. 4.
+- **1)** ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102),
+- **2)** ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940) – chyba że nadano im klauzulę tajności w wyniku przeglądu, o którym mowa w art. 19 ustawy z dnia 29 kwietnia 2016 r. o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw (Dz. U. poz. 749), lub przeglądu, o którym mowa w art. 6 ust. 4.
 
 **Art. 8.** Informacje niejawne, którym nadano określoną klauzulę tajności:
+
+- **1)** mogą być udostępnione wyłącznie osobie uprawnionej, zgodnie z przepisami ustawy dotyczącymi dostępu do określonej klauzuli tajności;
+- **2)** muszą być przetwarzane w warunkach uniemożliwiających ich nieuprawnione ujawnienie, zgodnie z przepisami określającymi wymagania dotyczące kancelarii tajnych, bezpieczeństwa systemów teleinformatycznych, obiegu materiałów i środków bezpieczeństwa fizycznego, odpowiednich do nadanej klauzuli tajności;
+- **3)** muszą być chronione, odpowiednio do nadanej klauzuli tajności, z zastosowaniem środków bezpieczeństwa określonych w ustawie i przepisach wykonawczych wydanych na jej podstawie.
 
 **Art. 9.**
 
@@ -244,13 +266,13 @@ strona 26/26
 
 3. Postępowania sprawdzające, kontrolne postępowania sprawdzające oraz postępowania bezpieczeństwa przemysłowego, z wyłączeniem postępowań, o których mowa w art. 23 ust. 5, podlegają kontroli w zakresie prawidłowości ich realizacji. Kontrolę tę prowadzą:
 
-- **1)** Prezes Rady Ministrów w odniesieniu do postępowań zrealizowanych przez ABW albo SKW;
-- **2)** odpowiednio ABW lub SKW w odniesieniu do postępowań zrealizowanych przez pełnomocników ochrony.
+- **1)** Prezes Rady Ministrów – w odniesieniu do postępowań zrealizowanych przez ABW albo SKW;
+- **2)** odpowiednio ABW lub SKW – w odniesieniu do postępowań zrealizowanych przez pełnomocników ochrony.
 
 4. Do czynności, o których mowa w ust. 1 i 3, dokonywanych przez ABW albo SKW albo przez Prezesa Rady Ministrów mają zastosowanie odpowiednio przepisy art. 30–39 ust. 2–4, art. 40 ust. 2–4, art. 41–49 ust. 2–6, art. 50 ust. 1–3, art. 64 ust. 1 i art. 98 ustawy z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623), z tym że przewidziane w tej ustawie uprawnienia i obowiązki:
 
-- **1)** Najwyższej Izby Kontroli wykonują odpowiednio ABW i SKW albo Kancelaria Prezesa Rady Ministrów;
-- **2)** Prezesa, Wiceprezesa i pracownika Najwyższej Izby Kontroli wykonują odpowiednio Szef, zastępca Szefa i upoważniony funkcjonariusz ABW oraz Szef, zastępca Szefa i upoważniony funkcjonariusz lub żołnierz SKW albo Prezes Rady Ministrów lub upoważniony pracownik Kancelarii Prezesa Rady Ministrów.
+- **1)** Najwyższej Izby Kontroli – wykonują odpowiednio ABW i SKW albo Kancelaria Prezesa Rady Ministrów;
+- **2)** Prezesa, Wiceprezesa i pracownika Najwyższej Izby Kontroli – wykonują odpowiednio Szef, zastępca Szefa i upoważniony funkcjonariusz ABW oraz Szef, zastępca Szefa i upoważniony funkcjonariusz lub żołnierz SKW albo Prezes Rady Ministrów lub upoważniony pracownik Kancelarii Prezesa Rady Ministrów.
 
 5. Czynności, o których mowa w ust. 1 pkt 1–5 i 8, dokonywane przez ABW w stosunku do Kancelarii Sejmu, Kancelarii Senatu oraz Kancelarii Prezydenta Rzeczypospolitej Polskiej są wykonywane w uzgodnieniu odpowiednio z Marszałkiem Sejmu, Marszałkiem Senatu oraz Szefem Kancelarii Prezydenta Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
 
@@ -324,6 +346,10 @@ strona 26/26
 
 **Art. 16.** Pracownikiem pionu ochrony w jednostce organizacyjnej może być osoba, która posiada:
 
+- **1)** obywatelstwo polskie, z wyjątkiem pracowników pionu ochrony zatrudnionych u przedsiębiorców;
+- **2)** odpowiednie poświadczenie bezpieczeństwa lub upoważnienie, o którym mowa w art. 21 ust. 4 pkt 1;
+- **3)** zaświadczenie o odbytym przeszkoleniu w zakresie ochrony informacji niejawnych.
+
 **Art. 17.**
 
 1. W przypadku stwierdzenia naruszenia w jednostce organizacyjnej przepisów o ochronie informacji niejawnych pełnomocnik ochrony zawiadamia o tym kierownika jednostki organizacyjnej i podejmuje niezwłocznie działania zmierzające do wyjaśnienia okoliczności tego naruszenia oraz ograniczenia jego negatywnych skutków.
@@ -356,10 +382,10 @@ strona 26/26
 
 2. Szkolenie, o którym mowa w ust. 1:
 
-- **1)** przeprowadzają odpowiednio ABW lub SKW dla pełnomocników ochrony i ich zastępców oraz osób przewidzianych na te stanowiska, przedsiębiorców wykonujących działalność jednoosobowo, a także dla kierowników przedsiębiorców, u których nie zatrudniono pełnomocników ochrony;
-- **2)** przeprowadzają odpowiednio ABW lub SKW, wspólnie z pełnomocnikiem ochrony dla kierownika jednostki organizacyjnej, w której są przetwarzane informacje niejawne o klauzuli „ściśle tajne” lub „tajne”;
-- **3)** organizuje pełnomocnik ochrony dla pozostałych osób zatrudnionych, pełniących służbę lub wykonujących czynności zlecone w jednostce organizacyjnej;
-- **4)** przeprowadza ABW dla posłów i senatorów.
+- **1)** przeprowadzają odpowiednio ABW lub SKW – dla pełnomocników ochrony i ich zastępców oraz osób przewidzianych na te stanowiska, przedsiębiorców wykonujących działalność jednoosobowo, a także dla kierowników przedsiębiorców, u których nie zatrudniono pełnomocników ochrony;
+- **2)** przeprowadzają odpowiednio ABW lub SKW, wspólnie z pełnomocnikiem ochrony – dla kierownika jednostki organizacyjnej, w której są przetwarzane informacje niejawne o klauzuli „ściśle tajne” lub „tajne”;
+- **3)** organizuje pełnomocnik ochrony – dla pozostałych osób zatrudnionych, pełniących służbę lub wykonujących czynności zlecone w jednostce organizacyjnej;
+- **4)** przeprowadza ABW – dla posłów i senatorów.
 
 3. Szkolenie przeprowadza się nie rzadziej niż raz na 5 lat. Można odstąpić od przeprowadzenia szkolenia, jeżeli osoba podejmująca pracę lub rozpoczynająca pełnienie służby albo wykonywanie czynności zleconych przedstawi pełnomocnikowi ochrony aktualne zaświadczenie o odbyciu szkolenia.
 
@@ -406,7 +432,7 @@ strona 26/26
 
 1. W zależności od stanowiska lub wykonywania czynności zleconych, o które ubiega się osoba, zwana dalej „osobą sprawdzaną”, przeprowadza się:
 
-- **1)** zwykłe postępowanie sprawdzające przy stanowiskach i pracach związanych z dostępem do informacji niejawnych o klauzuli „poufne”, z zastrzeżeniem pkt 2 lit. b–d;
+- **1)** zwykłe postępowanie sprawdzające – przy stanowiskach i pracach związanych z dostępem do informacji niejawnych o klauzuli „poufne”, z zastrzeżeniem pkt 2 lit. b–d;
 - **2)** poszerzone postępowanie sprawdzające:
     - **a)** przy stanowiskach i pracach związanych z dostępem do informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”,
     - **b)** wobec pełnomocników ochrony, zastępców pełnomocników ochrony oraz kandydatów na te stanowiska,
@@ -438,7 +464,7 @@ strona 26/26
 5. AW, CBA, Służba Ochrony Państwa, Policja, Służba Więzienna, SWW, Straż Graniczna oraz Żandarmeria Wojskowa przeprowadzają samodzielnie postępowania sprawdzające oraz kontrolne postępowania sprawdzające odpowiednio wobec:
 
 - **1)** własnych funkcjonariuszy, żołnierzy i pracowników oraz osób ubiegających się o przyjęcie do służby lub pracy,
-- **2)** osób wykonujących na ich rzecz czynności zlecone lub ubiegających się o wykonywanie tych czynności z zastrzeżeniem ust. 3 i 4.
+- **2)** osób wykonujących na ich rzecz czynności zlecone lub ubiegających się o wykonywanie tych czynności – z zastrzeżeniem ust. 3 i 4.
 
 6. W zakresie postępowań sprawdzających oraz kontrolnych postępowań sprawdzających przeprowadzanych przez służby i instytucje, o których mowa w ust. 5, przysługują tym służbom i instytucjom uprawnienia ABW oraz SKW.
 
@@ -474,7 +500,7 @@ strona 26/26
 - **1)** złożenia do pełnomocnika ochrony wypełnionej ankiety, lub
 - **2)** złożenia wniosku o przeprowadzenie postępowania sprawdzającego wraz z wypełnioną ankietą.
 
-7. W przypadku niedotrzymania terminu, o którym mowa w ust. 6, organ prowadzący postępowanie informuje, na wniosek osoby sprawdzanej, o przewidywanym terminie zakończenia postępowania oraz jeżeli nie naruszy to zasad ochrony informacji niejawnych o powodach przedłużania się postępowania.
+7. W przypadku niedotrzymania terminu, o którym mowa w ust. 6, organ prowadzący postępowanie informuje, na wniosek osoby sprawdzanej, o przewidywanym terminie zakończenia postępowania oraz – jeżeli nie naruszy to zasad ochrony informacji niejawnych – o powodach przedłużania się postępowania.
 
 8. Przeprowadzenie postępowania sprawdzającego wymaga pisemnej zgody osoby, której ma dotyczyć.
 
@@ -512,9 +538,9 @@ strona 26/26
 - **2)** przeprowadzenie wywiadu w miejscu zamieszkania osoby sprawdzanej;
 - **3)** sprawdzenie stanu i obrotów na rachunku bankowym oraz zadłużenia osoby sprawdzanej, w szczególności wobec Skarbu Państwa.
 
-2. Do czynności, o której mowa w ust. 1 pkt 2, przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego i wydane na jej podstawie przepisy dotyczące wywiadu środowiskowego stosuje się odpowiednio.
+2. Do czynności, o której mowa w ust. 1 pkt 2, przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego i wydane na jej podstawie przepisy dotyczące wywiadu środowiskowego stosuje się odpowiednio.
 
-3. Czynności, o których mowa w ust. 1 pkt 3, są wykonywane zgodnie z art. 105 ust. 1 pkt 2 lit. k ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ). Przepisy art. 82 § 1 i 2, art. 182 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769 i 820) oraz art. 48 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) stosuje się odpowiednio.
+3. Czynności, o których mowa w ust. 1 pkt 3, są wykonywane zgodnie z art. 105 ust. 1 pkt 2 lit. k ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ). Przepisy art. 82 § 1 i 2, art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769 i 820) oraz art. 48 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) stosuje się odpowiednio.
 
 4. Do poszerzonego postępowania sprawdzającego przepisy art. 25 ust. 5–7 stosuje się odpowiednio.
 
@@ -542,6 +568,10 @@ strona 26/26
 
 **Art. 28.** Postępowanie sprawdzające kończy się:
 
+- **1)** wydaniem poświadczenia bezpieczeństwa;
+- **2)** odmową wydania poświadczenia bezpieczeństwa;
+- **3)** umorzeniem.
+
 **Art. 29.**
 
 1. Po zakończeniu postępowania sprawdzającego z wynikiem pozytywnym organ prowadzący postępowanie wydaje poświadczenie bezpieczeństwa i przekazuje osobie sprawdzanej, zawiadamiając o tym wnioskodawcę.
@@ -561,9 +591,9 @@ strona 26/26
 
 3. Poświadczenie bezpieczeństwa wydaje się na okres:
 
-- **1)** 10 lat w przypadku dostępu do informacji niejawnych o klauzuli „poufne”;
-- **2)** 7 lat w przypadku dostępu do informacji niejawnych o klauzuli „tajne”;
-- **3)** 5 lat w przypadku dostępu do informacji niejawnych o klauzuli „ściśle tajne”.
+- **1)** 10 lat – w przypadku dostępu do informacji niejawnych o klauzuli „poufne”;
+- **2)** 7 lat – w przypadku dostępu do informacji niejawnych o klauzuli „tajne”;
+- **3)** 5 lat – w przypadku dostępu do informacji niejawnych o klauzuli „ściśle tajne”.
 
 4. Poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych o wyższej klauzuli tajności uprawnia do dostępu do informacji niejawnych o niższej klauzuli tajności, odpowiednio przez okresy, o których mowa w ust. 3, także w odniesieniu do poświadczeń bezpieczeństwa organizacji międzynarodowych.
 
@@ -701,7 +731,7 @@ strona 26/26
 - **9)** Prezesa Urzędu Ochrony Danych Osobowych;
 - **10)** członka Rady Polityki Pieniężnej;
 - **11)** członka Krajowej Rady Radiofonii i Telewizji;
-- **12)** Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **12)** Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
 - **13)** Szefa Kancelarii: Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu i Prezesa Rady Ministrów;
 - **14)** posła i senatora;
 - **15)** sędziego sądu powszechnego i sądu wojskowego, Sądu Najwyższego, sądów administracyjnych i Naczelnego Sądu Administracyjnego, a także Trybunału Stanu i Trybunału Konstytucyjnego, asesora sądowego, ławnika sądu powszechnego i ławnika sądu wojskowego oraz prokuratora i asesora prokuratury pełniącego czynności prokuratorskie.
@@ -823,6 +853,13 @@ strona 26/26
 
 **Art. 40.** Organ albo podmiot, o którym mowa w art. 39 ust. 1, po przeprowadzeniu postępowania określonego w art. 39 ust. 8 wydaje decyzję, w której:
 
+- **1)** odmawia uchylenia decyzji o odmowie wydania lub o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi brak podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **2)** odmawia uchylenia decyzji o utrzymaniu w mocy decyzji o odmowie wydania lub o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi brak podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **3)** uchyla decyzję o odmowie wydania poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1, i wydaje nową decyzję rozstrzygającą o istocie sprawy;
+- **4)** uchyla decyzję o utrzymaniu w mocy decyzji o odmowie wydania poświadczenia bezpieczeństwa oraz poprzedzającą ją decyzję o odmowie wydania poświadczenia, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1, i przekazuje sprawę do ponownego rozpatrzenia;
+- **5)** uchyla decyzję o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **6)** uchyla decyzję o utrzymaniu w mocy decyzji o cofnięciu poświadczenia bezpieczeństwa oraz poprzedzającą ją decyzję o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1.
+
 **Art. 41.**
 
 1. Od decyzji o odmowie wznowienia postępowania, o którym mowa w art. 23 ust. 2–5, oraz od decyzji o odmowie uchylenia decyzji wydanej w wyniku postępowania, o którym mowa w art. 23 ust. 2–5, osobie sprawdzanej przysługuje odwołanie do Prezesa Rady Ministrów.
@@ -885,6 +922,11 @@ strona 26/26
 
 **Art. 46.** W celu uniemożliwienia osobom nieuprawnionym dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej należy w szczególności:
 
+- **1)** zorganizować strefy ochronne;
+- **2)** wprowadzić system kontroli wejść i wyjść ze stref ochronnych;
+- **3)** określić uprawnienia do przebywania w strefach ochronnych;
+- **4)** stosować wyposażenie i urządzenia służące ochronie informacji niejawnych, którym przyznano certyfikaty.
+
 **Art. 47.**
 
 1. Rada Ministrów określi, w drodze rozporządzenia:
@@ -903,7 +945,7 @@ strona 26/26
 
 2. W rozporządzeniu, o którym mowa w ust. 1, Rada Ministrów uwzględni potrzebę racjonalizacji nakładów ponoszonych przez jednostki organizacyjne w zakresie tworzenia systemu bezpieczeństwa fizycznego informacji niejawnych, zgodnie z zasadami określonymi w ustawie.
 
-3. Ministrowie właściwi do spraw wewnętrznych, informatyzacji, administracji publicznej, spraw zagranicznych, finansów publicznych, budżetu i instytucji finansowych, Minister Obrony Narodowej, Minister Sprawiedliwości, Prezes Narodowego Banku Polskiego, Prezes Najwyższej Izby Kontroli, Pierwszy Prezes Sądu Najwyższego, Prokurator Generalny, Szefowie Kancelarii Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu oraz Prezesa Rady Ministrów, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego, Szef Służby Wywiadu Wojskowego, Szef Centralnego Biura Antykorupcyjnego, Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Służby Ochrony Państwa, a także Prezes Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, określą, w drodze zarządzenia, każdy w zakresie swojego działania, szczególny sposób organizacji i funkcjonowania kancelarii tajnych oraz komórek organizacyjnych, o których mowa w art. 44 ust. 1, sposób i tryb przetwarzania informacji niejawnych oraz dobór i stosowanie środków bezpieczeństwa fizycznego.
+3. Ministrowie właściwi do spraw wewnętrznych, informatyzacji, administracji publicznej, spraw zagranicznych, finansów publicznych, budżetu i instytucji finansowych, Minister Obrony Narodowej, Minister Sprawiedliwości, Prezes Narodowego Banku Polskiego, Prezes Najwyższej Izby Kontroli, Pierwszy Prezes Sądu Najwyższego, Prokurator Generalny, Szefowie Kancelarii Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu oraz Prezesa Rady Ministrów, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego, Szef Służby Wywiadu Wojskowego, Szef Centralnego Biura Antykorupcyjnego, Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Służby Ochrony Państwa, a także Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, określą, w drodze zarządzenia, każdy w zakresie swojego działania, szczególny sposób organizacji i funkcjonowania kancelarii tajnych oraz komórek organizacyjnych, o których mowa w art. 44 ust. 1, sposób i tryb przetwarzania informacji niejawnych oraz dobór i stosowanie środków bezpieczeństwa fizycznego.
 
 4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze zarządzenia, dla archiwów państwowych szczególny sposób i tryb przetwarzania informacji niejawnych wchodzących w skład zasobu archiwalnego tych archiwów, dobór i stosowanie środków bezpieczeństwa fizycznego oraz organizację komórek organizacyjnych odpowiedzialnych za przetwarzanie materiałów niejawnych.
 
@@ -1003,7 +1045,7 @@ strona 26/26
 
 **Art. 51.**
 
-1. Obowiązkowi akredytacji bezpieczeństwa teleinformatycznego, o którym mowa w art. 48 ust. 1, nie podlegają systemy teleinformatyczne, których elementy znajdują się poza strefami ochronnymi oraz służące bezpośrednio do pozyskiwania i przekazywania w sposób niejawny informacji oraz utrwalania dowodów w trakcie realizacji czynności operacyjno-rozpoznawczych lub procesowych przez uprawnione do tego podmioty. Wyłączenie obowiązku akredytacji bezpieczeństwa teleinformatycznego nie obejmuje interfejsów, o których mowa w art. 43 ust. 5 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820), oraz systemów z nimi współpracujących.
+1. Obowiązkowi akredytacji bezpieczeństwa teleinformatycznego, o którym mowa w art. 48 ust. 1, nie podlegają systemy teleinformatyczne, których elementy znajdują się poza strefami ochronnymi oraz służące bezpośrednio do pozyskiwania i przekazywania w sposób niejawny informacji oraz utrwalania dowodów w trakcie realizacji czynności operacyjno-rozpoznawczych lub procesowych przez uprawnione do tego podmioty. Wyłączenie obowiązku akredytacji bezpieczeństwa teleinformatycznego nie obejmuje interfejsów, o których mowa w art. 43 ust. 5 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820), oraz systemów z nimi współpracujących.
 
 2. Obowiązkowi akredytacji bezpieczeństwa teleinformatycznego, o którym mowa w art. 48 ust. 1, oraz obowiązkowi badań i oceny bezpieczeństwa w ramach procesów certyfikacji prowadzonych przez ABW albo SKW nie podlegają systemy teleinformatyczne, urządzenia i narzędzia kryptograficzne wykorzystywane przez ABW, SKW, AW lub SWW do uzyskiwania lub przetwarzania informacji niejawnych podczas wykonywania czynności operacyjno-rozpoznawczych.
 
@@ -1050,9 +1092,9 @@ strona 26/26
 
 - **1)** łączne koszty ponoszone na przeprowadzenie czynności, o których mowa w art. 48 ust. 3–6 oraz art. 50 ust. 1–4;
 - **2)** wysokość kwoty bazowej w postaci kwoty przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłaty nagród z zysku za ubiegły rok, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 60 pkt 5 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej;
-- **3)** wysokości poszczególnych opłat, o których mowa w ust. 1, stanowiące krotność kwoty bazowej odpowiednio do stopnia skomplikowania przeprowadzonych czynności;
+- **3)** wysokości poszczególnych opłat, o których mowa w ust. 1, stanowiące krotność kwoty bazowej – odpowiednio do stopnia skomplikowania przeprowadzonych czynności;
 - **4)** maksymalną wysokość opłat, o których mowa w ust. 1, stanowiącą równowartość nieprzekraczającą stukrotności kwoty bazowej;
-- **5)** minimalną wysokość opłat, o których mowa w ust. 1, stanowiącą równowartość 0,1 kwoty bazowej za godzinę pracy osoby wykonującej określone czynności;
+- **5)** minimalną wysokość opłat, o których mowa w ust. 1, stanowiącą równowartość 0,1 kwoty bazowej – za godzinę pracy osoby wykonującej określone czynności;
 - **6)** potrzebę sprawnego i szybkiego przeprowadzania procesu ustalania i poboru opłat, o których mowa w ust. 1.
 
 #### Rozdział 9 Bezpieczeństwo przemysłowe
@@ -1071,7 +1113,7 @@ strona 26/26
 
 6. Przepisy ust. 1–5 stosuje się także do przedsiębiorców będących podwykonawcami umów, jeżeli ich wykonywanie wiąże się z dostępem do informacji niejawnych.
 
-7. Szefowie Kancelarii Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu lub Prezesa Rady Ministrów albo minister właściwy dla określonego działu administracji rządowej, Prezes Narodowego Banku Polskiego lub kierownik urzędu centralnego, a w przypadku ich braku Szef ABW albo Szef SKW, mogą wyrazić pisemną zgodę na udostępnienie informacji niejawnych o klauzuli „poufne” lub wyższej przedsiębiorcy, wobec którego wszczęto postępowanie bezpieczeństwa przemysłowego lub postępowanie sprawdzające. Potwierdzoną za zgodność kopię zgody przekazuje się odpowiednio do ABW lub SKW.
+7. Szefowie Kancelarii Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu lub Prezesa Rady Ministrów albo minister właściwy dla określonego działu administracji rządowej, Prezes Narodowego Banku Polskiego lub kierownik urzędu centralnego, a w przypadku ich braku – Szef ABW albo Szef SKW, mogą wyrazić pisemną zgodę na udostępnienie informacji niejawnych o klauzuli „poufne” lub wyższej przedsiębiorcy, wobec którego wszczęto postępowanie bezpieczeństwa przemysłowego lub postępowanie sprawdzające. Potwierdzoną za zgodność kopię zgody przekazuje się odpowiednio do ABW lub SKW.
 
 8. W szczególnie uzasadnionych przypadkach podmioty, o których mowa w ust. 7, mogą wyrazić pisemną zgodę na jednorazowe udostępnienie określonych informacji niejawnych przedsiębiorcy nieposiadającemu odpowiedniego świadectwa lub poświadczenia bezpieczeństwa w przypadku przedsiębiorcy, o którym mowa w ust. 3 i wobec którego nie jest prowadzone postępowanie bezpieczeństwa przemysłowego lub nie jest prowadzone postępowanie sprawdzające.
 
@@ -1083,20 +1125,20 @@ strona 26/26
 
 1. W zależności od stopnia zdolności do ochrony informacji niejawnych o klauzuli „poufne” lub wyższej wydaje się świadectwo odpowiednio:
 
-- **1)** pierwszego stopnia potwierdzające pełną zdolność przedsiębiorcy do ochrony tych informacji;
-- **2)** drugiego stopnia potwierdzające zdolność przedsiębiorcy do ochrony tych informacji, z wyłączeniem możliwości ich przetwarzania we własnych systemach teleinformatycznych;
-- **3)** trzeciego stopnia potwierdzające zdolność przedsiębiorcy do ochrony tych informacji, z wyłączeniem możliwości ich przetwarzania w użytkowanych przez niego obiektach.
+- **1)** pierwszego stopnia – potwierdzające pełną zdolność przedsiębiorcy do ochrony tych informacji;
+- **2)** drugiego stopnia – potwierdzające zdolność przedsiębiorcy do ochrony tych informacji, z wyłączeniem możliwości ich przetwarzania we własnych systemach teleinformatycznych;
+- **3)** trzeciego stopnia – potwierdzające zdolność przedsiębiorcy do ochrony tych informacji, z wyłączeniem możliwości ich przetwarzania w użytkowanych przez niego obiektach.
 
 2. Świadectwo potwierdzające zdolność do ochrony informacji niejawnych o klauzuli:
 
 - **1)** „ściśle tajne” potwierdza zdolność do ochrony informacji niejawnych o klauzuli:
-    - **a)** „ściśle tajne” przez okres 5 lat od daty wystawienia,
-    - **b)** „tajne” przez okres 7 lat od daty wystawienia,
-    - **c)** „poufne” przez okres 10 lat od daty wystawienia;
+    - **a)** „ściśle tajne” – przez okres 5 lat od daty wystawienia,
+    - **b)** „tajne” – przez okres 7 lat od daty wystawienia,
+    - **c)** „poufne” – przez okres 10 lat od daty wystawienia;
 
 - **2)** „tajne” potwierdza zdolność do ochrony informacji niejawnych o klauzuli:
-    - **a)** „tajne” przez okres 7 lat od daty wystawienia,
-    - **b)** „poufne” przez okres 10 lat od daty wystawienia;
+    - **a)** „tajne” – przez okres 7 lat od daty wystawienia,
+    - **b)** „poufne” – przez okres 10 lat od daty wystawienia;
 
 - **3)** „poufne” potwierdza zdolność do ochrony informacji niejawnych o tej klauzuli przez okres 10 lat od daty wystawienia.
 
@@ -1173,6 +1215,10 @@ strona 26/26
 
 **Art. 62.** ABW albo SKW umarza postępowanie bezpieczeństwa przemysłowego, w tym postępowania sprawdzające wobec osób wymienionych w art. 57 ust. 3, w przypadku:
 
+- **1)** wycofania przez przedsiębiorcę wniosku o wydanie świadectwa;
+- **2)** wydania orzeczenia o zakazie prowadzenia przez przedsiębiorcę działalności gospodarczej;
+- **3)** przejęcia lub likwidacji przedsiębiorcy.
+
 **Art. 63.**
 
 1. ABW albo SKW zawiesza lub podejmuje postępowanie bezpieczeństwa przemysłowego, w tym postępowania sprawdzające wobec osób wymienionych w art. 57 ust. 3, na wniosek przedsiębiorcy.
@@ -1207,7 +1253,7 @@ strona 26/26
 
 1. ABW albo SKW, w okresie ważności świadectwa, może przeprowadzić z urzędu sprawdzenie przedsiębiorcy w zakresie elementów, o których mowa w art. 57 ust. 2, w celu ustalenia, czy nie utracił on zdolności do ochrony informacji niejawnych przed nieuprawnionym ujawnieniem.
 
-2. W przypadku gdy świadectwo zostało wydane przez ABW, a przedsiębiorca realizuje umowę na rzecz jednostek organizacyjnych, o których mowa w art. 1 ust. 2 pkt 2, SKW gdy w toku realizacji umowy ujawniła fakty wskazujące na możliwość utraty przez przedsiębiorcę zdolności do ochrony informacji niejawnych może wystąpić do ABW o przeprowadzenie kontroli, o której mowa w art. 10 ust. 1 pkt 1, lub sprawdzenia określonego w art. 57 ust. 2.
+2. W przypadku gdy świadectwo zostało wydane przez ABW, a przedsiębiorca realizuje umowę na rzecz jednostek organizacyjnych, o których mowa w art. 1 ust. 2 pkt 2, SKW – gdy w toku realizacji umowy ujawniła fakty wskazujące na możliwość utraty przez przedsiębiorcę zdolności do ochrony informacji niejawnych – może wystąpić do ABW o przeprowadzenie kontroli, o której mowa w art. 10 ust. 1 pkt 1, lub sprawdzenia określonego w art. 57 ust. 2.
 
 3. W kontroli, o której mowa w art. 10 ust. 1 pkt 1, lub sprawdzeniu, o którym mowa w art. 57 ust. 2 pkt 3, mogą uczestniczyć żołnierze lub funkcjonariusze SKW. Przed kontrolą lub sprawdzeniem, o którym mowa w art. 57 ust. 2 pkt 3, upoważnieni żołnierze lub funkcjonariusze SKW mogą zapoznać się z aktami postępowania bezpieczeństwa przemysłowego w zakresie objętym kontrolą lub sprawdzeniem.
 
@@ -1240,7 +1286,7 @@ strona 26/26
 - **3)** nazwę podmiotu, adres jego siedziby, numer w Krajowym Rejestrze Sądowym i numer identyfikacji podatkowej (NIP);
 - **4)** podstawę prawną;
 - **5)** stwierdzenie wydania świadectwa, odmowy wydania lub jego cofnięcia;
-- **6)** w przypadku wydania świadectwa jego stopień, klauzulę tajności oraz termin ważności;
+- **6)** w przypadku wydania świadectwa – jego stopień, klauzulę tajności oraz termin ważności;
 - **7)** imienną pieczęć i podpis upoważnionego funkcjonariusza ABW albo funkcjonariusza lub żołnierza SKW.
 
 2. Decyzja o odmowie wydania oraz decyzja o cofnięciu świadectwa powinny zawierać uzasadnienie faktyczne i prawne oraz pouczenie o dopuszczalności i terminie wniesienia:
@@ -1345,9 +1391,9 @@ strona 26/26
 6. Po zakończeniu postępowania sprawdzającego, kontrolnego postępowania sprawdzającego lub postępowania bezpieczeństwa przemysłowego akta tych postępowań są przechowywane przez co najmniej 20 lat, z uwzględnieniem przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) oraz aktów wykonawczych wydanych na jej podstawie:
 
 - **1)** jako wyodrębniona część w archiwach służb i instytucji, które przeprowadziły te postępowania;
-- **2)** przez pełnomocnika ochrony lub w pionie ochrony w przypadku akt zwykłych postępowań sprawdzających oraz kontrolnych postępowań sprawdzających przeprowadzonych przez tego pełnomocnika.
+- **2)** przez pełnomocnika ochrony lub w pionie ochrony – w przypadku akt zwykłych postępowań sprawdzających oraz kontrolnych postępowań sprawdzających przeprowadzonych przez tego pełnomocnika.
 
-7. W przypadku rozwiązania, zniesienia, likwidacji, przekształcenia lub reorganizacji jednostki organizacyjnej akta, o których mowa w ust. 6, przejmuje następca prawny, a w przypadku jego braku ABW albo SKW.
+7. W przypadku rozwiązania, zniesienia, likwidacji, przekształcenia lub reorganizacji jednostki organizacyjnej akta, o których mowa w ust. 6, przejmuje następca prawny, a w przypadku jego braku – ABW albo SKW.
 
 **Art. 73.**
 
@@ -1395,8 +1441,8 @@ strona 26/26
 
 1. Świadectwa bezpieczeństwa przemysłowego wydane na podstawie przepisów dotychczasowych, ważne w dniu wejścia w życie ustawy, potwierdzające zdolność do ochrony informacji niejawnych:
 
-- **1)** o klauzuli „ściśle tajne” potwierdzają także zdolność do ochrony informacji niejawnych o klauzuli „tajne” i „poufne” w okresie wskazanym w niniejszej ustawie;
-- **2)** o klauzuli „tajne” potwierdzają także zdolność do ochrony informacji niejawnych o klauzuli „poufne” w okresie wskazanym w niniejszej ustawie.
+- **1)** o klauzuli „ściśle tajne” – potwierdzają także zdolność do ochrony informacji niejawnych o klauzuli „tajne” i „poufne” w okresie wskazanym w niniejszej ustawie;
+- **2)** o klauzuli „tajne” – potwierdzają także zdolność do ochrony informacji niejawnych o klauzuli „poufne” w okresie wskazanym w niniejszej ustawie.
 
 2. Okresy ważności świadectw, o których mowa w ust. 1, liczone są od daty wydania świadectwa.
 
@@ -1414,13 +1460,13 @@ strona 26/26
 
 **Art. 190.** Traci moc ustawa z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. z 2005 r. poz. 1631, z późn. zm. ).
 
-**Art. 191.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r. strona 1/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO Szanowna Pani, Szanowny Panie, Rząd Rzeczypospolitej Polskiej, kierując się troską o bezpieczeństwo narodowe i mając na uwadze powinność jego ochrony, przedstawia tę ankietę w przekonaniu, iż zostanie ona wypełniona zgodnie z Pani (Pana) najlepszą wiedzą i wolą. Dziękując za współpracę, podkreślamy, że celem tej ankiety jest wyłącznie ochrona bezpieczeństwa narodowego przed zagrożeniami ze strony obcych służb specjalnych oraz ugrupowań terrorystycznych lub grup przestępczych. Prosimy uważnie przeczytać poniższą instrukcję, a w razie wątpliwości zwrócić się do pełnomocnika ochrony w Pani (Pana) jednostce organizacyjnej albo do Agencji Bezpieczeństwa Wewnętrznego bądź Służby Kontrwywiadu Wojskowego o pomoc w wypełnieniu ankiety. Ankieta bezpieczeństwa osobowego, po wypełnieniu, stanowi tajemnicę prawnie chronioną i podlega ochronie przewidzianej dla informacji niejawnych o klauzuli tajności „poufne” w przypadku poszerzonego postępowania sprawdzającego lub „zastrzeżone” w przypadku zwykłego postępowania sprawdzającego. Jednocześnie informujemy Państwa, że informacje zawarte w niniejszej ankiecie są chronione ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) i mogą być wykorzystane jedynie do celów postępowania sprawdzającego lub kontrolnego postępowania sprawdzającego, prowadzonego na podstawie przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209). Akta zakończonego postępowania sprawdzającego lub kontrolnego postępowania sprawdzającego mogą zostać udostępnione wyłącznie na żądanie sądu lub prokuratora w celu ścigania karnego lub podmiotom uprawnionym do prowadzenia postępowań sprawdzających, a także właściwemu organowi w celu rozpatrzenia odwołania lub dokonania sprawdzenia prawidłowości przeprowadzenia postępowania sprawdzającego oraz sądowi administracyjnemu w związku z rozpatrywaniem skargi. ANKIETA BEZPIECZEŃSTWA OSOBOWEGO Instrukcja 1. Przed wypełnieniem ankiety proszę się z nią dokładnie zapoznać. 2. Proszę wypełniać ankietę osobiście. Cudzoziemcy niewładający językiem polskim składają osobiście wypełnione ankiety w językach ojczystych, dołączając do nich tłumaczenie ich treści, wykonane przez tłumacza przysięgłego. 3. Jeśli ankieta zawiera zbyt mało miejsca na wpisanie danych, proszę je podać na osobnym arkuszu formatu A4, który należy dołączyć do ankiety. 4. W przypadku udzielenia odpowiedzi twierdzącej na pytanie zasadnicze proszę wypełnić wszystkie pozostałe rubryki odnoszące się do tego pytania. 5. W przypadku udzielenia odpowiedzi przeczącej na pytanie zasadnicze proszę nie wypełniać pozostałych rubryk odnoszących się do tego pytania. 6. W razie braku wiedzy umożliwiającej podanie danych proszę wpisać sformułowanie: „nie wiem” i podać przyczynę. 7. Informacje o partnerce (partnerze), o której (którym) mowa w części II B, należy podać tylko i wyłącznie wtedy, gdy związek z partnerką (partnerem) ma charakter faktycznego i trwałego pożycia. 8. Informacje o odsetkach od lokat bankowych i rachunkach bankowych, o których mowa w części VI, należy podać także, gdy dotyczą lokat oraz rachunków w spółdzielczych kasach oszczędnościowo-kredytowych oraz w bankach zagranicznych. 9. Jeżeli dane w kolejnych punktach ankiety są identyczne z danymi podanymi w poprzednich punktach, można w kolejnych punktach wpisywać sformułowanie: „jak w pkt ...”. 10. Jeżeli któryś z członków rodziny zmarł, proszę ograniczać wypełnianie takiego fragmentu ankiety wyłącznie do podania jego imienia, nazwiska, daty i miejsca urodzenia oraz sformułowania: „nie żyje”. 11. Osoby objęte zwykłym postępowaniem sprawdzającym nie wypełniają części V, VI i VII ankiety. 12. Osoby objęte poszerzonym postępowaniem sprawdzającym, z wyjątkiem osób ubiegających się o wydanie poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych oznaczonych klauzulą „ściśle tajne” lub stanowiącą jej odpowiednik klauzulą tajności organizacji międzynarodowej, nie wypełniają części VII ankiety. 13. Pkt 1 w części IV ankiety wypełniają osoby urodzone przed dniem 1 sierpnia 1972 r. 14. Przy kolejnym postępowaniu sprawdzającym część III należy wypełnić wyłącznie z odniesieniem się do okresu, począwszy od daty wypełnienia poprzedniej ankiety do dnia wypełnienia następnej ankiety. Jeżeli dane odnoszące się do wyżej wymienionych punktów nie uległy zmianie, należy przy nich pisać sformułowanie: „bez zmian”. 15. Osoby objęte poszerzonym postępowaniem sprawdzającym mogą włożyć ankietę do koperty i zakleić. strona 2/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO
+**Art. 191.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r. [Słowa kluczowe] ANKIETA BEZPIECZEŃSTWA OSOBOWEGO Szanowna Pani, Szanowny Panie, Rząd Rzeczypospolitej Polskiej, kierując się troską o bezpieczeństwo narodowe i mając na uwadze powinność jego ochrony, przedstawia tę ankietę w przekonaniu, iż zostanie ona wypełniona zgodnie z Pani (Pana) najlepszą wiedzą i wolą. Dziękując za współpracę, podkreślamy, że celem tej ankiety jest wyłącznie ochrona bezpieczeństwa narodowego przed zagrożeniami ze strony obcych służb specjalnych oraz ugrupowań terrorystycznych lub grup przestępczych. Prosimy uważnie przeczytać poniższą instrukcję, a w razie wątpliwości zwrócić się do pełnomocnika ochrony w Pani (Pana) jednostce organizacyjnej albo do Agencji Bezpieczeństwa Wewnętrznego bądź Służby Kontrwywiadu Wojskowego o pomoc w wypełnieniu ankiety. Ankieta bezpieczeństwa osobowego, po wypełnieniu, stanowi tajemnicę prawnie chronioną i podlega ochronie przewidzianej dla informacji niejawnych o klauzuli tajności „poufne” w przypadku poszerzonego postępowania sprawdzającego lub „zastrzeżone” w przypadku zwykłego postępowania sprawdzającego. Jednocześnie informujemy Państwa, że informacje zawarte w niniejszej ankiecie są chronione ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) i mogą być wykorzystane jedynie do celów postępowania sprawdzającego lub kontrolnego postępowania sprawdzającego, prowadzonego na podstawie przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209). Akta zakończonego postępowania sprawdzającego lub kontrolnego postępowania sprawdzającego mogą zostać udostępnione wyłącznie na żądanie sądu lub prokuratora w celu ścigania karnego lub podmiotom uprawnionym do prowadzenia postępowań sprawdzających, a także właściwemu organowi w celu rozpatrzenia odwołania lub dokonania sprawdzenia prawidłowości przeprowadzenia postępowania sprawdzającego oraz sądowi administracyjnemu w związku z rozpatrywaniem skargi. strona 1/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO Instrukcja 1. Przed wypełnieniem ankiety proszę się z nią dokładnie zapoznać. 2. Proszę wypełniać ankietę osobiście. Cudzoziemcy niewładający językiem polskim składają osobiście wypełnione ankiety w językach ojczystych, dołączając do nich tłumaczenie ich treści, wykonane przez tłumacza przysięgłego. 3. Jeśli ankieta zawiera zbyt mało miejsca na wpisanie danych, proszę je podać na osobnym arkuszu formatu A4, który należy dołączyć do ankiety. 4. W przypadku udzielenia odpowiedzi twierdzącej na pytanie zasadnicze proszę wypełnić wszystkie pozostałe rubryki odnoszące się do tego pytania. 5. W przypadku udzielenia odpowiedzi przeczącej na pytanie zasadnicze proszę nie wypełniać pozostałych rubryk odnoszących się do tego pytania. 6. W razie braku wiedzy umożliwiającej podanie danych proszę wpisać sformułowanie: „nie wiem” i podać przyczynę. 7. Informacje o partnerce (partnerze), o której (którym) mowa w części II B, należy podać tylko i wyłącznie wtedy, gdy związek z partnerką (partnerem) ma charakter faktycznego i trwałego pożycia. 8. Informacje o odsetkach od lokat bankowych i rachunkach bankowych, o których mowa w części VI, należy podać także, gdy dotyczą lokat oraz rachunków w spółdzielczych kasach oszczędnościowo-kredytowych oraz w bankach zagranicznych. 9. Jeżeli dane w kolejnych punktach ankiety są identyczne z danymi podanymi w poprzednich punktach, można w kolejnych punktach wpisywać sformułowanie: „jak w pkt ...”. 10. Jeżeli któryś z członków rodziny zmarł, proszę ograniczać wypełnianie takiego fragmentu ankiety wyłącznie do podania jego imienia, nazwiska, daty i miejsca urodzenia oraz sformułowania: „nie żyje”. 11. Osoby objęte zwykłym postępowaniem sprawdzającym nie wypełniają części V, VI i VII ankiety. 12. Osoby objęte poszerzonym postępowaniem sprawdzającym, z wyjątkiem osób ubiegających się o wydanie poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych oznaczonych klauzulą „ściśle tajne” lub stanowiącą jej odpowiednik klauzulą tajności organizacji międzynarodowej, nie wypełniają części VII ankiety. 13. Pkt 1 w części IV ankiety wypełniają osoby urodzone przed dniem 1 sierpnia 1972 r. 14. Przy kolejnym postępowaniu sprawdzającym część III należy wypełnić wyłącznie z odniesieniem się do okresu, począwszy od daty wypełnienia poprzedniej ankiety do dnia wypełnienia następnej ankiety. Jeżeli dane odnoszące się do wyżej wymienionych punktów nie uległy zmianie, należy przy nich pisać sformułowanie: „bez zmian”. 15. Osoby objęte poszerzonym postępowaniem sprawdzającym mogą włożyć ankietę do koperty i zakleić. strona 2/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO
 
-## CZĘŚĆ I: DANE OSOBOWE KOLOROWE ZDJĘCIE TAK NIE TAK NIE TAK NIE strona 3/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE
+## CZĘŚĆ I: DANE OSOBOWE KOLOROWE ZDJĘCIE – – TAK NIE TAK NIE TAK NIE strona 3/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE
 
-## CZĘŚĆ II: DANE OSOBOWE CZŁONKÓW RODZINY TAK NIE strona 4/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE TAK NIE strona 5/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE TAK NIE strona 6/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE strona 7/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE strona 8/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE strona 9/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE strona 10/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE strona 11/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE strona 12/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO
+## CZĘŚĆ II: DANE OSOBOWE CZŁONKÓW RODZINY TAK NIE – – strona 4/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO – – TAK NIE TAK NIE TAK NIE strona 5/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE – – TAK NIE strona 6/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE – – – – strona 7/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE – – TAK NIE strona 8/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO – – TAK NIE TAK NIE – – strona 9/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE – – TAK NIE strona 10/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE – – TAK NIE strona 11/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO – – TAK NIE strona 12/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO
 
-## CZĘŚĆ III: DANE DOTYCZĄCE HISTORII ŻYCIA ZAWODOWEGO I OSOBISTEGO TAK NIE daty zatrudnienia lub prowadzenia działalności nazwa miejsca zatrudnienia (firmy) ostatnio stanowisko zajmowane gospodarczej (od - do) TAK NIE nazwa miejsca zatrudnienia nazwa i nr dokumentu daty dostępu (jednostki i komórki upoważniającego klauzula tajności, do jakiej miała do informacji organizacyjnej), w którym do dostępu do informacji Pani (miał Pan) w przeszłości niejawnych posiadała Pani (posiadał Pan) niejawnych, nazwa organu, lub ma Pani (Pan) obecnie (od do) lub posiada Pani (Pan) dostęp który wydał ten dokument, dostęp do informacji niejawnych data wydania dokumentu strona 13/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO daty nauki (od do) nazwa i adres szkoły uzyskane dokumenty TAK NIE daty członkostwa nazwa i adres organizacji pełniona funkcja (od do) strona 14/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO daty zamieszkania Adres (od do)
+## CZĘŚĆ III: DANE DOTYCZĄCE HISTORII ŻYCIA ZAWODOWEGO I OSOBISTEGO TAK NIE daty zatrudnienia lub prowadzenia działalności nazwa miejsca zatrudnienia (firmy) ostatnio zajmowane stanowisko gospodarczej (od - do) TAK NIE nazwa miejsca zatrudnienia nazwa i nr dokumentu daty dostępu (jednostki i komórki upoważniającego klauzula tajności, do jakiej miała do informacji organizacyjnej), w którym do dostępu do informacji Pani (miał Pan) w przeszłości niejawnych posiadała Pani (posiadał Pan) niejawnych, nazwa organu, lub ma Pani (Pan) obecnie (od – do) lub posiada Pani (Pan) dostęp który wydał ten dokument, dostęp do informacji niejawnych data wydania dokumentu strona 13/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO daty nauki (od – do) nazwa i adres szkoły uzyskane dokumenty TAK NIE daty członkostwa nazwa i adres organizacji pełniona funkcja (od – do) strona 14/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO daty zamieszkania Adres (od – do)
 
 ## CZĘŚĆ IV: DANE DOTYCZĄCE BEZPIECZEŃSTWA
 

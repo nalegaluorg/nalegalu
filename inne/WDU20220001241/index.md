@@ -8,10 +8,10 @@ pos: 1241
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 czerwca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1241 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 25 maja 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001241) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1241/text.pdf) |
 
-OBWIESZCZENIE MINISTRA FINANSÓW z dnia 25 maja 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie służby przygotowawczej w Służbie Celno-Skarbowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1396), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającym rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1437).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1437), które stanowią: „§ 2. Do:
 1) szkoleń wstępnych oraz zasadniczego kursu zawodowego,
-2) egzaminu kończącego zasadniczy kurs zawodowy oraz egzaminu zawodowego rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+2) egzaminu kończącego zasadniczy kurs zawodowy oraz egzaminu zawodowego – rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 13 lipca 2017 r.
 w sprawie służby przygotowawczej w Służbie Celno-Skarbowej Na podstawie art. 155 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
-poz. 813, 835 i 1079) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 813, 835 i 1079) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) program i przebieg służby przygotowawczej w Służbie Celno-Skarbowej;
 2) obowiązki opiekuna;
 3) szczegółowe warunki i tryb przeprowadzania egzaminu:
@@ -116,7 +116,7 @@ b) nabycie wiedzy i umiejętności strzeleckich;
 2. Komisja egzaminacyjna ocenia wypowiedź funkcjonariusza według następujących kryteriów:
 1) płynność wypowiedzi,
 2) poprawność gramatyczna wypowiedzi,
-3) zasób słownictwa fachowego przyznając za każde kryterium od 0 do 10 punktów.
+3) zasób słownictwa fachowego – przyznając za każde kryterium od 0 do 10 punktów.
 3. Warunkiem zdania części ustnej egzaminu potwierdzającego znajomość języka obcego jest uzyskanie przez funkcjonariusza co najmniej 15 punktów.
 § 19. W przypadku nieuzyskania przez funkcjonariusza wymaganej liczby punktów z egzaminu potwierdzającego znajomość języka obcego funkcjonariusz powtarza niezdaną część egzaminu tylko jeden raz, nie wcześniej niż po upływie miesiąca od dnia przeprowadzenia egzaminu.
 § 20. Przy ustalaniu oceny z egzaminu potwierdzającego znajomość języka obcego stosuje się następującą skalę ocen, w zależności od uzyskanej przez funkcjonariusza łącznej liczby punktów z obu części egzaminu:
@@ -146,71 +146,71 @@ RODZAJE DOKUMENTÓW POTWIERDZAJĄCYCH ZNAJOMOŚĆ JĘZYKA OBCEGO Dokumenty potwi
 a) studiów na kierunku filologia w zakresie języków obcych lub lingwistyki stosowanej,
 b) nauczycielskiego kolegium języków obcych,
 c) Krajowej Szkoły Administracji Publicznej;
-2) wydany za granicą dokument potwierdzający uzyskanie stopnia lub tytułu naukowego uznaje się język wykładowy instytucji prowadzącej kształcenie;
-3) dokument potwierdzający ukończenie studiów wyższych lub podyplomowych prowadzonych za granicą lub w Rzeczypospolitej Polskiej we współpracy z uczelnią prowadzącą kształcenie za granicą uznaje się język wykładowy, jeżeli językiem wykładowym był wyłącznie język obcy;
-4) wydany za granicą dokument uznany za równoważny świadectwu dojrzałości uznaje się język wykładowy;
+2) wydany za granicą dokument potwierdzający uzyskanie stopnia lub tytułu naukowego – uznaje się język wykładowy instytucji prowadzącej kształcenie;
+3) dokument potwierdzający ukończenie studiów wyższych lub podyplomowych prowadzonych za granicą lub w Rzeczypospolitej Polskiej we współpracy z uczelnią prowadzącą kształcenie za granicą – uznaje się język wykładowy, jeżeli językiem wykładowym był wyłącznie język obcy;
+4) wydany za granicą dokument uznany za równoważny świadectwu dojrzałości – uznaje się język wykładowy;
 5) dyplom Matury Międzynarodowej (International Baccalaureate Diploma);
 6) dyplom Matury Europejskiej (European Baccalaureate);
 7) zaświadczenie o zdanym egzaminie resortowym:
 a) w Ministerstwie Spraw Zagranicznych,
 b) w ministerstwie obsługującym ministra właściwego do spraw gospodarki, Ministerstwie Współpracy Gospodarczej z Zagranicą, Ministerstwie Handlu Zagranicznego oraz Ministerstwie Handlu Zagranicznego i Gospodarki Morskiej,
-c) w Ministerstwie Obrony Narodowej poziom 3333, poziom 4444 według STANAG 6001;
+c) w Ministerstwie Obrony Narodowej – poziom 3333, poziom 4444 według STANAG 6001;
 8) certyfikat potwierdzający znajomość języka obcego, wydany przez Krajową Szkołę Administracji Publicznej w wyniku lingwistycznego postępowania sprawdzającego;
 9) dokument potwierdzający wpis na listę tłumaczy przysięgłych.
 Język angielski:
-1) First Certificate in English (FCE), Certificate in Advanced English (CAE), Certificate of Proficiency in English (CPE), Business English Certificate (BEC) Vantage co najmniej Pass, Business English Certificate (BEC) Higher, Certificate in English for International Business and Trade (CEIBT) certyfikaty wydawane przez University of Cambridge Local Examinations Syndicate oraz przez University of Cambridge ESOL Examinations;
-2) International English Language Testing System IELTS powyżej 6 pkt zaświadczenia wydawane przez University of Cambridge Local Examinations Syndicate, the British Council i Education Australia;
-3) Certificate in English Language Skills (CELS) poziomy „Vantage” (B2) i „Higher” (C1);
-4) Test of English as a Foreign Language (TOEFL) co najmniej 510 pkt z testu (w systemie komputerowym co najmniej 180 pkt) i co najmniej 3,5 pkt z pracy pisemnej TWE — wydawany przez Educational Testing Service, Princeton, USA;
-5) English for Speakers of Other Languages (ESOL) First Class Pass at Intermediate Level, Higher Intermediate Level, Advanced Level wydawane przez City & Guilds Pitman Qualifications (Pitman Qualifications Institute);
-6) International English for Speakers of Other Languages (IESOL) poziom „Communicator”, poziom „Expert”, poziom „Mastery” wydawane przez City & Guilds (City & Guilds Pitman Qualifications);
-7) City & Guilds Level 1 Certificate in ESOL International (reading, writing and listening) Communicator (B2) 500/1765/2; City & Guilds Level 2 Certificate in ESOL International (reading, writing and listening) Expert (C1) 500/1766/4; City & Guilds Level 3 Certificate in ESOL International (reading, writing and listening) Mastery (C2) 500/1767/6 wydawane przez City & Guilds;
-8) Spoken English Test (SET) for Business Stage B poziom „Communicator”, Stage C poziom „Expert”, Stage C poziom „Mastery” wydawane przez City & Guilds (City & Guilds Pitman Qualifications);
-9) English for Business Communications (EBC) Level 2, Level 3 wydawane przez City & Guilds (City & Guilds Pitman Qualifications);
-10) English for Office Skills (EOS) Level 2 wydawane przez City & Guilds (City & Guilds Pitman Qualifications);
-11) Test of English for International Communication (TOEIC) co najmniej 700 pkt z testu wydawany przez Educational Testing Service, Princeton, USA;
-12) London Chamber of Commerce and Industry (LCCI): English for Business Level 2, English for Business Level 3, English for Business Level 4 certyfikaty wydawane przez London Chamber of Commerce and Industry Examinations Board;
-13) London Chamber of Commerce and Industry (LCCI) Foundation Certificate for Teachers of Business English (FTBE) certyfikat wydawany przez London Chamber of Commerce and Industry Examinations Board;
-14) B2 Certificate in English advantage, B2 Certificate in English for Business Purposes advantage, Certificate in English for Technical Purposes (B2) egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc English B2, telc English B2 Business, telc English B2 Technical, telc English C1 wydawane przez telc GmbH;
-15) London Tests of English, Level 3 (Edexcel Level 1 Certificate in ESOL International); London Tests of English, Level 4 (Edexcel Level 2 Certificate in ESOL International); London Tests of English, Level 5 (Edexcel Level 3 Certificate in ESOL International) wydawane przez Edexcel; administrowane przez Pearson Language Assessments lub Pearson Language Tests.
+1) First Certificate in English (FCE), Certificate in Advanced English (CAE), Certificate of Proficiency in English (CPE), Business English Certificate (BEC) Vantage – co najmniej Pass, Business English Certificate (BEC) Higher, Certificate in English for International Business and Trade (CEIBT) – certyfikaty wydawane przez University of Cambridge Local Examinations Syndicate oraz przez University of Cambridge ESOL Examinations;
+2) International English Language Testing System IELTS – powyżej 6 pkt – zaświadczenia wydawane przez University of Cambridge Local Examinations Syndicate, the British Council i Education Australia;
+3) Certificate in English Language Skills (CELS) – poziomy „Vantage” (B2) i „Higher” (C1);
+4) Test of English as a Foreign Language (TOEFL) – co najmniej 510 pkt z testu (w systemie komputerowym co najmniej 180 pkt) i co najmniej 3,5 pkt z pracy pisemnej TWE — wydawany przez Educational Testing Service, Princeton, USA;
+5) English for Speakers of Other Languages (ESOL) – First Class Pass at Intermediate Level, Higher Intermediate Level, Advanced Level – wydawane przez City & Guilds Pitman Qualifications (Pitman Qualifications Institute);
+6) International English for Speakers of Other Languages (IESOL) – poziom „Communicator”, poziom „Expert”, poziom „Mastery” – wydawane przez City & Guilds (City & Guilds Pitman Qualifications);
+7) City & Guilds Level 1 Certificate in ESOL International (reading, writing and listening) Communicator (B2) 500/1765/2; City & Guilds Level 2 Certificate in ESOL International (reading, writing and listening) Expert (C1) 500/1766/4; City & Guilds Level 3 Certificate in ESOL International (reading, writing and listening) Mastery (C2) 500/1767/6 – wydawane przez City & Guilds;
+8) Spoken English Test (SET) for Business – Stage B poziom „Communicator”, Stage C poziom „Expert”, Stage C poziom „Mastery” – wydawane przez City & Guilds (City & Guilds Pitman Qualifications);
+9) English for Business Communications (EBC) – Level 2, Level 3 – wydawane przez City & Guilds (City & Guilds Pitman Qualifications);
+10) English for Office Skills (EOS) – Level 2 – wydawane przez City & Guilds (City & Guilds Pitman Qualifications);
+11) Test of English for International Communication (TOEIC) – co najmniej 700 pkt z testu – wydawany przez Educational Testing Service, Princeton, USA;
+12) London Chamber of Commerce and Industry (LCCI): English for Business Level 2, English for Business Level 3, English for Business Level 4 – certyfikaty wydawane przez London Chamber of Commerce and Industry Examinations Board;
+13) London Chamber of Commerce and Industry (LCCI) – Foundation Certificate for Teachers of Business English (FTBE) – certyfikat wydawany przez London Chamber of Commerce and Industry Examinations Board;
+14) B2 Certificate in English – advantage, B2 Certificate in English for Business Purposes – advantage, Certificate in English for Technical Purposes (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc English B2, telc English B2 Business, telc English B2 Technical, telc English C1 – wydawane przez telc GmbH;
+15) London Tests of English, Level 3 (Edexcel Level 1 Certificate in ESOL International); London Tests of English, Level 4 (Edexcel Level 2 Certificate in ESOL International); London Tests of English, Level 5 (Edexcel Level 3 Certificate in ESOL International) – wydawane przez Edexcel; administrowane przez Pearson Language Assessments lub Pearson Language Tests.
 Język francuski:
-1) Diplôme d’Étude en Langue Française (DELF) B2, Diplôme Approfondi de Langue Française (DALF) C1, C2 wydawane przez Ministerstwo Edukacji Narodowej Francji (Narodową Komisję ds. Egzaminów DELF i DALF);
+1) Diplôme d’Étude en Langue Française (DELF) B2, Diplôme Approfondi de Langue Française (DALF) C1, C2 – wydawane przez Ministerstwo Edukacji Narodowej Francji (Narodową Komisję ds. Egzaminów DELF i DALF);
 2) Certificat d’accès au DALF wydawany przez Instytut Francuski;
-3) Diplôme de Français des Affairs 1er degré (DFA 1), Diplôme de Français des Affairs 2ème degré (DFA 2) dyplomy wydawane przez Paryską Izbę Handlową i Przemysłową CCIP, egzaminy organizowane przez Instytut Francuski;
-4) Diplôme de Langue Française (DL), Diplôme Supérieur Langue et Culture Françaises (DSLCF), Diplôme Supérieur d’Etudes Françaises Modernes (DS-C1), Diplôme des Hautes Etudes Françaises (DHEF-C2) wydawane przez Alliance Française;
-5) Certificat Supérieur de Français (B2) egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Français B2 wydawany przez telc GmbH;
-6) Test de Connaissance du Français (TCF poziomy 4, 5, 6);
-7) Test de Français International (TFI) wynik od 605 pkt.
+3) Diplôme de Français des Affairs 1er degré (DFA 1), Diplôme de Français des Affairs 2ème degré (DFA 2) – dyplomy wydawane przez Paryską Izbę Handlową i Przemysłową CCIP, egzaminy organizowane przez Instytut Francuski;
+4) Diplôme de Langue Française (DL), Diplôme Supérieur Langue et Culture Françaises (DSLCF), Diplôme Supérieur d’Etudes Françaises Modernes (DS-C1), Diplôme des Hautes Etudes Françaises (DHEF-C2) – wydawane przez Alliance Française;
+5) Certificat Supérieur de Français (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Français B2 – wydawany przez telc GmbH;
+6) Test de Connaissance du Français (TCF – poziomy 4, 5, 6);
+7) Test de Français International (TFI) – wynik od 605 pkt.
 Język niemiecki:
-1) Zertifikat Deutsch für den Beruf (ZDfB) (B2), Goethe-Zertifikat B2, Zentrale Mittelstufenprüfung (ZMP) (C1), Goethe-Zertifikat C1 (Zentrale Mittelstufenprüfung) (ZMP), Zentrale Oberstufenprüfung (ZOP) (C2), Goethe-Zertifikat C2 (Zentrale Oberstufenprüfung) (ZOP), Kleines Deutsches Sprachdiplom (KDS) (C2), Grosses Deutsches Sprachdiplom (GDS) (C2) egzaminy organizowane przez Goethe-Institut;
-2) Prüfung Wirtschaftsdeutsch International (PWD) (C1) egzaminy organizowane przez Goethe-Institut, Deutscher Industrie- und Handelskammertag (DIHK), Carl Duisberg Centren (CDC);
+1) Zertifikat Deutsch für den Beruf (ZDfB) (B2), Goethe-Zertifikat B2, Zentrale Mittelstufenprüfung (ZMP) (C1), Goethe-Zertifikat C1 (Zentrale Mittelstufenprüfung) (ZMP), Zentrale Oberstufenprüfung (ZOP) (C2), Goethe-Zertifikat C2 (Zentrale Oberstufenprüfung) (ZOP), Kleines Deutsches Sprachdiplom (KDS) (C2), Grosses Deutsches Sprachdiplom (GDS) (C2) – egzaminy organizowane przez Goethe-Institut;
+2) Prüfung Wirtschaftsdeutsch International (PWD) (C1) – egzaminy organizowane przez Goethe-Institut, Deutscher Industrie- und Handelskammertag (DIHK), Carl Duisberg Centren (CDC);
 3) Test Deutsch als Fremdsprache (TestDaF);
-4) Österreichisches Sprachdiplom für Deutsch als Fremdsprache (ÖSD) Mittelstufe, Diplom Wirtschaftssprache Deutsch (DWD) egzaminy organizowane przez Instytut Austriacki;
-5) Zertifikat Deutsch Plus (B2), Zertifikat Deutsch für den Beruf (ZDfB) (B2) egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Deutsch B2, telc Deutsch C1 wydawane przez telc GmbH Language Certificates) administrowane przez WBT (Weiterbildungs-Testsysteme GmbH);
-6) Deutsches Sprachdiplom I, Deutsches Sprachdiplom II (DSD) egzaminy organizowane przez Kultusministerkonferenz;
+4) Österreichisches Sprachdiplom für Deutsch als Fremdsprache (ÖSD) – Mittelstufe, Diplom Wirtschaftssprache Deutsch (DWD) – egzaminy organizowane przez Instytut Austriacki;
+5) Zertifikat Deutsch Plus (B2), Zertifikat Deutsch für den Beruf (ZDfB) (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Deutsch B2, telc Deutsch C1 – wydawane przez telc GmbH Language Certificates) administrowane przez WBT (Weiterbildungs-Testsysteme GmbH);
+6) Deutsches Sprachdiplom I, Deutsches Sprachdiplom II (DSD) – egzaminy organizowane przez Kultusministerkonferenz;
 7) Deutsche Sprachprüfung für den Hochschulzugang ausländischer Studienbewerber.
 Język hiszpański:
-1) Diploma Intermedio de Español, Diploma Superior de Español wydawany przez Ministerstwo Edukacji i Nauki Królestwa Hiszpanii;
-2) Certificado de Español para Relaciones Profesionales (B2) egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Español B2 wydawany przez telc GmbH;
-3) Los Diplomas de Español como Lengua Extranjera (DELE) Nivel Intermedio i Nivel Superior wydawane przez Instytut Cervantesa i Uniwersytet Salamanca.
+1) Diploma Intermedio de Español, Diploma Superior de Español – wydawany przez Ministerstwo Edukacji i Nauki Królestwa Hiszpanii;
+2) Certificado de Español para Relaciones Profesionales (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Español B2 – wydawany przez telc GmbH;
+3) Los Diplomas de Español como Lengua Extranjera (DELE) – Nivel Intermedio i Nivel Superior – wydawane przez Instytut Cervantesa i Uniwersytet Salamanca.
 Język włoski:
-1) Certificazione d’Italiano come Lingua Straniera (CILS 2 Due), Certificazione d’Italiano come Lingua Straniera (CILS 3 Tre), Certificazione d’Italiano come Lingua Straniera (CILS 4 Quattro), Certificazione di Conoscenza della Lingua Italiana (CELI 3), Certificazione di Conoscenza della Lingua Italiana (CELI 4), Certificazione di Conoscenza della Lingua Italiana (CELI 5) wydawane przez uniwersytety dla cudzoziemców w Sienie, Perugii i Rzymie;
-2) Certificato Superiore d’Italiano (B2) egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Italiano B2 wydawany przez telc GmbH.
-Język węgierski: European Consortium for the Certificate of Attainment in Modem Languages (ECL) egzamin z języka węgierskiego organizowany przez Węgierski Instytut Kultury.
+1) Certificazione d’Italiano come Lingua Straniera (CILS 2 Due), Certificazione d’Italiano come Lingua Straniera (CILS 3 Tre), Certificazione d’Italiano come Lingua Straniera (CILS 4 Quattro), Certificazione di Conoscenza della Lingua Italiana (CELI 3), Certificazione di Conoscenza della Lingua Italiana (CELI 4), Certificazione di Conoscenza della Lingua Italiana (CELI 5) – wydawane przez uniwersytety dla cudzoziemców w Sienie, Perugii i Rzymie;
+2) Certificato Superiore d’Italiano (B2) – egzaminy TELC (The European Language Certificates) administrowane przez WBT Weiterbildungs-Testsysteme GmbH lub telc GmbH; telc Italiano B2 – wydawany przez telc GmbH.
+Język węgierski: European Consortium for the Certificate of Attainment in Modem Languages (ECL) – egzamin z języka węgierskiego organizowany przez Węgierski Instytut Kultury.
 Język portugalski: Diploma Intermédio de Português Língua Estrangeira (DIPLE) (B2), Diploma Avançado de Português Língua Estrangeira (DAPLE) (C1), Diploma Universitário de Português Língua Estrangeira (DUPLE) (C2).
-Język szwedzki: Test in Swedish for University Studies (TISUS) poziom Pass.
-Język fiński: Suomen kieli, keskitaso 4-5, Ylin taso 5 (B2), Suomen kieli, Ylin taso 6 (C1), Suomen kieli, Ylin taso 7-8 (C2) wydawane przez Fińskie Ministerstwo Edukacji i Uniwersytet w Jyväskylä.
+Język szwedzki: Test in Swedish for University Studies (TISUS) – poziom Pass.
+Język fiński: Suomen kieli, keskitaso 4-5, Ylin taso 5 (B2), Suomen kieli, Ylin taso 6 (C1), Suomen kieli, Ylin taso 7-8 (C2) – wydawane przez Fińskie Ministerstwo Edukacji i Uniwersytet w Jyväskylä.
 Język niderlandzki:
 1) Staatsexamen Nederlands als Tweede Taal, Examen I (NT2-I); (CITO) (B2), Staatsexamen Nederlands als Tweede Taal, Examen II (NT2-II); (CITO) (C1);
 2) Profiel Professionele Taalvaardigheid (PPT); (CNaVT) (B2), Profiel Academische Taalvaardigheid (PAT);
 (CNaVT) (C1);
 3) Certificat Nederlands als Vreemde Tall (CNaVT) (B2).
-Język grecki: Elinomathias Epipedo Eparkias (B2) wydawany przez Uniwersytet w Atenach.
-Język duński: Prøve i Dansk 3 (B2), Studienprøven (C1) wydane przez Danish Language Testing Consortium.
-Język estoński: Eesti keele kesktaseme test (B2), Eesti keele kõrgtaseme test (C1) wydawane przez Riiklik Eksami ja Kvalifikatsioonikeskus.
-Język słoweński: Intermediate Slovene Language Exam (B2), Advanced Slovene Language Exam (C1) wydawane przez Examination Centre of the Centre for Slovene as a Second/Foreign Language, University of Ljubljana.
-Język litewski: Test of Lithuanian as a state language Category III (B2) wydawany przez Department of Lithuanian Studies, Vilnius University.
+Język grecki: Elinomathias Epipedo Eparkias (B2) – wydawany przez Uniwersytet w Atenach.
+Język duński: Prøve i Dansk 3 (B2), Studienprøven (C1) – wydane przez Danish Language Testing Consortium.
+Język estoński: Eesti keele kesktaseme test (B2), Eesti keele kõrgtaseme test (C1) – wydawane przez Riiklik Eksami ja Kvalifikatsioonikeskus.
+Język słoweński: Intermediate Slovene Language Exam (B2), Advanced Slovene Language Exam (C1) – wydawane przez Examination Centre of the Centre for Slovene as a Second/Foreign Language, University of Ljubljana.
+Język litewski: Test of Lithuanian as a state language Category III (B2) – wydawany przez Department of Lithuanian Studies, Vilnius University.
 Język rosyjski:
-1) Рүсский Язык. Деловое Общение (Бизнес и Коммерция) od poziomu Средний Уровень wydawany przez Państwowy Instytut Języka Rosyjskiego im. A. Puszkina;
-2) Европейские Сертификаты по языкам, Сертификат по русскому языку egzamin TELC (The European Language Certificates) administrowany przez WBT (Weiterbildungs-Testsysteme GmbH).
+1) Рүсский Язык. Деловое Общение (Бизнес и Коммерция) – od poziomu Средний Уровень – wydawany przez Państwowy Instytut Języka Rosyjskiego im. A. Puszkina;
+2) Европейские Сертификаты по языкам, Сертификат по русскому языку – egzamin TELC (The European Language Certificates) administrowany przez WBT (Weiterbildungs-Testsysteme GmbH).
 

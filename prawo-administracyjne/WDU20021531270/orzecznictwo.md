@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.*
 
 Łącznie: **797** orzeczeń
-(pominięto 252 orzeczeń sądów rejonowych)
+(pominięto 254 orzeczeń sądów rejonowych)
 
 ## art. 1 (18)
 

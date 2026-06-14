@@ -8,7 +8,7 @@ pos: 1742
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 21 października 2015 r.

@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 11 maja 2001 r. Prawo o miarach.*
 
-Łącznie: **19** orzeczeń
+Łącznie: **20** orzeczeń
 (pominięto 56 orzeczeń sądów rejonowych)
 
 ## art. 4 (2)
@@ -14,9 +14,10 @@ Orzeczenia powołujące: *Ustawa z dnia 11 maja 2001 r. Prawo o miarach.*
 
 - 2013-01-17 | KIO | [KIO 22/13](https://www.saos.org.pl/judgments/121809) | Wyrok
 
-## art. 8 (10)
+## art. 8 (11)
 
 - 2024-04-30 | SO | [II Ca 844/23](https://www.saos.org.pl/judgments/525910) | Wyrok
+- 2021-03-03 | SO | [II W 109/19](https://www.saos.org.pl/judgments/545632) | Wyrok
 - 2018-08-09 | SO | [XV Ca 625/18](https://www.saos.org.pl/judgments/381596) | Wyrok
 - 2018-04-12 | SO | [VIII C 666/17](https://www.saos.org.pl/judgments/342517) | Wyrok
 - 2018-03-16 | SO | [IV W 1810/16](https://www.saos.org.pl/judgments/340501) | Wyrok

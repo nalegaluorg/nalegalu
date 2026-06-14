@@ -8,10 +8,10 @@ pos: 849
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 27 kwietnia ROZPORZĄDZENIE MINISTRA gOSPODARkI MORSkIEj I żEglugI z dnia 5 kwietnia 2017 r.
+# RZECZYPOSPOLITEJ Poz. 849 ROZPORZĄDZENIE MINISTRA gOSPODARkI MORSkIEj I żEglugI z dnia 5 kwietnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,25 +25,26 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000849) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/849/text.pdf) |
 
-w sprawie ramowych programów dodatkowych szkoleń dla pracowników Na podstawie art. 78 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i 1948 oraz z 2017 r. poz. 32, 60 i 785) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie ramowych programów dodatkowych szkoleń dla pracowników Na podstawie art. 78 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i 1948 oraz z 2017 r. poz. 32, 60 i 785) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) ramowe programy dodatkowych szkoleń dla pracowników sektora gospodarki dzynarodowymi, zwanych dalej „szkoleniami”;
 2) szczegółowe warunki wstępne oraz warunki zaliczeń szkoleń;
 3) wzory dokumentów potwierdzających ukończenie szkolenia.
 § 2. 1. Ramowy program szkolenia wraz z warunkami wstępnymi i warunkami
 1) dla osoby przeprowadzającej inspekcje ochrony katodowej, obejmujący załącznik nr 1 do rozporządzenia;
-2) dla osoby sprawującej nadzór nad wykonaniem powłok malarskich Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, (Dz. U. z 2016 r. poz. 869 i 2029 oraz z 2017 r. poz. 142) określa
-3) na świadectwo operatora służby kontroli ruchu statków, obejmujący określa załącznik nr 3 do rozporządzenia;
+2) dla osoby sprawującej nadzór nad wykonaniem powłok malarskich Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, (Dz. U. z 2016 r. poz. 869 i 2029 oraz z 2017 r. poz. 142) – określa
+3) na świadectwo operatora służby kontroli ruchu statków, obejmujący – określa załącznik nr 3 do rozporządzenia;
 4) dla personelu lądowego wykonującego prace związane z przewozem załącznik nr 4 do rozporządzenia;
-5) dydaktycznego dla instruktora określa załącznik nr 5 do rozporządzenia;
+5) dydaktycznego dla instruktora – określa załącznik nr 5 do rozporządzenia;
 6) dydaktycznego dla instruktora szkolącego i egzaminującego na symulatorach
-7) dla egzaminatora określa załącznik nr 7 do rozporządzenia.
+7) dla egzaminatora – określa załącznik nr 7 do rozporządzenia.
 2. Objaśnienia symboli i skrótów stosowanych w ramowych programach załącznik nr 8 do rozporządzenia.
 § 3. Wzory świadectw przeszkoleń potwierdzających odbycie szkoleń, o do rozporządzenia.
 § 4. 1. Świadectwo przeszkolenia dydaktycznego dla instruktorów oraz wie przepisów regulujących wyszkolenie i kwalifikacje zawodowe marynarzy podlega wymianie odpowiednio na świadectwo przeszkolenia dydaktycznego nia operatora służby kontroli ruchu statków.
 2. Dokument „Certyfikat inspektora w zakresie nadzoru powłok malarskich szkoleniowe, które w dniu wydania świadectwa były objęte nadzorem dyrektora świadectwo przeszkolenia osoby sprawującej nadzór nad wykonaniem powłok
 3. Świadectwa wydane na podstawie rozporządzenia Ministra Infrastruktury w sprawie ramowych programów szkoleń dla pracowników sektora gospodarki dokumentów potwierdzających szkolenie (Dz. U. poz. 1378) podlegają wymianie nia, zgodnie ze wzorami określonymi w niniejszym rozporządzeniu.
 4. Wymiany dokumentów, o których mowa w ust. 1–3, dokonuje się dyrektora urzędu morskiego wraz z dokumentem podlegającym wymianie.
-§ 5. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia Minister Gospodarki RAMOWY PROGRAM SZKOLENIA DLA OSOBY PRZEPROWADZAJĄCEJ OCHRONY KATODOWEJ POZIOM Szkolenie: INSPEKCJA OCHRONY
+§ 5. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia Minister Gospodarki Dziennik Ustaw – - 1 3 - – Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi RAMOWY PROGRAM SZKOLENIA DLA OSOBY PRZEPROWADZAJĄCEJ OCHRONY KATODOWEJ – POZIOM Szkolenie: INSPEKCJA OCHRONY
 1.1 Forma zajęć: W C Liczba godzin: 18 27 * Program szkolenia jest oparty na normie PN-EN 15257:2008 katodowej poziom 2. Warunkiem ukończenia szkolenia jest i demonstracja umiejętności (ćwiczenia).
 I. Program szkolenia Lp. Treści programu 1 PODSTAWY ELEKTRYCZNOŚCI
 1. Obwód elektryczny, podstawowe pojęcia, prawo Ohma, prawa Kirchhoffa, elektryczny obwód prosty i rozgałęziony, połączenia szeregowe, równoległe, mieszane.
@@ -99,7 +100,7 @@ I. Program szkolenia Lp. Treści programu 1 PODSTAWY ELEKTRYCZNOŚCI
 2. Omówienie norm z dziedziny ochrony katodowej.
 Razem II. Minimalne wymagania wstępne Wykształcenie średnie oraz udokumentowana praktyka zawodowa zgodnie III. Wiedza Zagadnienia związane z pomiarami napięcia, prądu i rezystancji.
 IV. Umiejętności Wykonywanie podstawowych pomiarów w systemach ochrony katodowej.
-RAMOWY PROGRAM SZKOLENIA DLA OSOBY PRZEPROWADZAJĄCEJ OCHRONY KATODOWEJ POZIOM Szkolenie: INSPEKCJA OCHRONY
+RAMOWY PROGRAM SZKOLENIA DLA OSOBY PRZEPROWADZAJĄCEJ OCHRONY KATODOWEJ – POZIOM Szkolenie: INSPEKCJA OCHRONY
 1.2 Forma zajęć: W C Liczba godzin: 24 18 * Program szkolenia jest oparty na normie PN-EN 15257:2008 katodowej poziom 3. Warunkiem ukończenia szkolenia jest i demonstracja umiejętności (ćwiczenia).
 I. Program szkolenia Lp. Treści programu 1 TEORIA KOROZJI
 1. Demonstracja pracy makroogniw korozyjnych.
@@ -157,7 +158,7 @@ I. Program szkolenia Lp. Treści programu 1 TEORIA KOROZJI
 5) ilość anod galwanicznych.
 Razem II. Minimalne wymagania wstępne Wykształcenie wyższe techniczne, potwierdzone dyplomem ukończenia udokumentowana praktyka zawodowa zgodnie z normą PN-EN 15257:2008.
 III. Wiedza Teoria procesów korozyjnych i ich klasyfikacja. Metody ochrony przed IV. Umiejętności Kierowanie zespołami pomiarowymi. Interpretacja wyników pomiarowych.
-RAMOWY PROGRAM SZKOLENIA DLA OSOBY NAD WYKONANIEM POWŁOK MALARSKICH STATKÓW Z POSTANOWIENIAMI KONWENCJI Szkolenie: NADZÓR NAD WYKONANIEM STATKÓW 2 Forma zajęć: W C Liczba godzin: 18 32 * Program szkolenia jest oparty na standardzie NACE inspektor powłok inspektor powłok malarskich poziom III. Zakres szkolenia wynika SOLAS. Warunkiem ukończenia szkolenia jest zaliczenie w umiejętności (ćwiczenia).
+Dziennik Ustaw – - 5 7 - – RAMOWY PROGRAM SZKOLENIA DLA OSOBY NAD WYKONANIEM POWŁOK MALARSKICH STATKÓW Z POSTANOWIENIAMI KONWENCJI Szkolenie: NADZÓR NAD WYKONANIEM STATKÓW 2 Forma zajęć: W C Liczba godzin: 18 32 * Program szkolenia jest oparty na standardzie NACE inspektor powłok inspektor powłok malarskich poziom III. Zakres szkolenia wynika SOLAS. Warunkiem ukończenia szkolenia jest zaliczenie w umiejętności (ćwiczenia).
 I. Program szkolenia Lp. Treści programu 1 KONWENCJA SOLAS
 1. Historia, cel powstania, zobowiązania wynikające z jej stosowania.
 2. Podstawa prawna szkolenia.
@@ -171,7 +172,7 @@ a) korozja ogólna,
 b) korozja galwaniczna,
 c) korozja wżerowa,
 d) korozja szczelinowa,
-e) erozja korozja,
+e) erozja – korozja,
 f) korozja selektywna,
 g) naprężeniowe pękanie korozyjne,
 h) korozja międzykrystaliczna.
@@ -229,9 +230,9 @@ g) inne.
 1) narzędzia do czyszczenia powierzchni;
 2) urządzenia do czyszczenia płomieniowego i obróbki strumieniowo-ściernej;
 3) rodzaje ścierniw;
-4) odtłuszczanie rozpuszczalniki i emulsje;
+4) odtłuszczanie – rozpuszczalniki i emulsje;
 5) trawienie;
-6) powłoki konwersyjne fosforanowanie i chromianowanie;
+6) powłoki konwersyjne – fosforanowanie i chromianowanie;
 7) przetwarzacze rdzy.
 2. Usuwanie wilgoci:
 1) wentylacja na stanowisku malarskim;
@@ -297,7 +298,7 @@ a) definicja współczynnika R ,
 b) komparatory,
 c) profilometry;
 7) przyrząd z taśmą replikacyjną;
-8) ocena ciekłego wyrobu malarskiego pomiar lepkości, gęstości, zawartości części stałych;
+8) ocena ciekłego wyrobu malarskiego – pomiar lepkości, gęstości, zawartości części stałych;
 9) pomiar grubości powłok mokrych i suchych;
 10) obliczanie zużycia farby;
 11) wyznaczanie przyczepności warstwy farby do podłoża i przyczepności międzywarstwowej;
@@ -343,6 +344,7 @@ c) pomiary przyczepności metodą odrywania (pull-off), zgodnie ze standardem IS
 2) kontrola prawidłowego prowadzenia;
 3) przekazywanie technicznej dokumentacji;
 4) archiwizowanie technicznej dokumentacji.
+Dokument publikowany na stronie internetowej IMO: http://www.imo.org/OurWork/Safety/SafetyTopics/Documents/1198.pdf
 5. Kalkulacja kosztów prac malarskich, ochrona środowiska i bezpieczeństwo. Koszty przygotowania powierzchni, koszty prac malarskich, koszty prac pomocniczych.
 6. Bezpieczne wykonywanie prac malarskich, zagrożenia dla organizmu oraz środowiska.
 Razem II. Minimalne wymagania wstępne Wykształcenie średnie, udokumentowana praktyka zawodowa zgodnie III.Wiedza Zagadnienia praktyczne dotyczące wykonawstwa powłok malarskich.
@@ -428,7 +430,7 @@ RAZEM II. Minimalne wymagania wstępne Szkolenie przeznaczone dla osób ze staż
 2. Zaliczenie różnic programowych między szkoleniem podstawowym statków a szkoleniem skróconym.
 III. Wiedza Zagadnienia wskazane w zakresie podanym w treściach szkolenia.
 IV. Umiejętności Zarządzanie ruchem statków na torach wodnych, w portach i na podejściach nawigującymi w rejonie odpowiedzialności systemu VTS, podejmowanie ruchu statków.
-RAMOWY PROGRAM SZKOLENIA DLA PERSONELU PRACE ZWIĄZANE Z PRZEWOZEM TOWARÓW NIEBEZPIECZNYCH DLA Szkolenie: 4 PERSONELU LĄDOWEGO ZWIĄZANE Z PRZEWOZEM DROGĄ Forma zajęć: W C Liczba godzin: 17 9 * Program szkolenia jest oparty na Kodeksie IMDG. Warunkiem ukończenia (wykłady) i w formie testu (ćwiczenia).
+RAMOWY PROGRAM SZKOLENIA DLA PERSONELU PRACE ZWIĄZANE Z PRZEWOZEM TOWARÓW NIEBEZPIECZNYCH DLA PERSONELU LĄDOWEGO Szkolenie: ZWIĄZANE Z PRZEWOZEM 4 DROGĄ Forma zajęć: W C Liczba godzin: 17 9 * Program szkolenia jest oparty na Kodeksie IMDG. Warunkiem ukończenia (wykłady) i w formie testu (ćwiczenia).
 I. Program szkolenia Lp. Treści programu 1 KLASYFIKACJA TOWARÓW NIEBEZPIECZNYCH I IDENTYFIKACJA WŁAŚCIWEJ NAZWY PRZEWOZOWEJ
 1. Klasy towarów niebezpiecznych.
 2. Zasady klasyfikacji towarów niebezpiecznych, a szczególności:
@@ -509,15 +511,15 @@ SUMA II. Minimalne wymagania wstępne Wykształcenie średnie.
 III. Wiedza Zagadnienia wskazane w zakresie podanym w treściach programu.
 IV. Umiejętności Bezpieczna obsługa na lądzie towarów niebezpiecznych przewożonych RAMOWY PROGRAM SZKOLENIA DYDAKTYCZNEGO Szkolenie: DYDAKTYCZNE 5 Forma zajęć: W C Liczba godzin: 22 44 * Program szkolenia jest oparty na kursie modelowym IMO 6.09.
 zaliczenie pisemne (wykłady) i zaliczenie w formie testu (ćwiczenia).
-I. Program szkolenia Lp. Treści programu 1 WPROWADZENIE IMO I JEJ ROLA W KSZTAŁCENIU KADR MORSKICH 2 CELE I ZADANIA SZKOLENIA DLA WYKŁADOWCÓW
-1. Studium pilotażowe przygotowanie wykładowców do organizowania i prowadzenia szkoleń.
+I. Program szkolenia Lp. Treści programu 1 WPROWADZENIE – IMO I JEJ ROLA W KSZTAŁCENIU KADR MORSKICH 2 CELE I ZADANIA SZKOLENIA DLA WYKŁADOWCÓW
+1. Studium pilotażowe – przygotowanie wykładowców do organizowania i prowadzenia szkoleń.
 2. Wiedza i doświadczenie wykładowców a potrzeby szkolenia.
 3. Struktura szkolenia.
-4. Analiza szkolenia cele kształcenia.
+4. Analiza szkolenia – cele kształcenia.
 3 TWORZENIE SYSTEMU SZKOLENIA I PROJEKTOWANIE SZKOLENIA
 1. System szkolenia.
 2. Podejście systemowe do szkolenia oraz projektowanie szkolenia.
-3. Analiza zadań i czynności zawodowych potrzeby szkoleniowe.
+3. Analiza zadań i czynności zawodowych – potrzeby szkoleniowe.
 4. Opracowanie celów szkolenia.
 5. Określanie potrzeb szkoleniowych.
 6. Program szkolenia.
@@ -554,8 +556,8 @@ I. Program szkolenia Lp. Treści programu 1 WPROWADZENIE IMO I JEJ ROLA W KSZTA�
 1) rodzaje technik zadawania pytań i ich wykorzystanie w zależności od sytuacji;
 2) uwzględnienie technik zadawania pytań w planie zajęć.
 7 PODSUMOWANIE
-1. Planowanie i prowadzenie szkolenia zestaw zadań do wykonania.
-2. Studium pilotażowe ponowna analiza problemów oraz podsumowanie.
+1. Planowanie i prowadzenie szkolenia – zestaw zadań do wykonania.
+2. Studium pilotażowe – ponowna analiza problemów oraz podsumowanie.
 Razem II. Minimalne wymagania wstępne Wykształcenie średnie.
 III. Wiedza Zagadnienia wskazane w zakresie podanym w treściach szkolenia.
 IV. Umiejętności Przekazanie w sposób zrozumiały treści wykładanego przedmiotu uczestnikom RAMOWY PROGRAM SZKOLENIA DYDAKTYCZNEGO DLA I EGZAMINUJĄCEGO NA SYMULATORACH Szkolenie: DYDAKTYCZNE DLA I EGZAMINUJĄCEGO 6 Forma zajęć: W C Liczba godzin: 19 4 * Program szkolenia jest oparty na kursie modelowym IMO 6.10.
@@ -598,7 +600,7 @@ I. Program szkolenia Lp. Treści programu 1 WPROWADZENIE
 6. Symulatory nieobowiązkowe według Konwencji STCW.
 7. Przebieg zajęć na symulatorze, na przykładzie symulatora mostka lub symulatora siłowni okrętowej.
 8. Macierz kompetencji dla różnych parametrów symulacji mostku lub w siłowni okrętowej.
-9. Symulatory mostka lub siłowni okrętowej odniesienia Konwencji STCW, wymaganych kompetencji i wymaganego poziomu symulacji.
+9. Symulatory mostka lub siłowni okrętowej – odniesienia Konwencji STCW, wymaganych kompetencji i wymaganego poziomu symulacji.
 4 INSTRUKTORZY SZKOLĄCY NA SYMULATORACH
 1. Zmiany w podejściu do nauczania: od niepodważalnego autorytetu przez mediatora i przewodnika do psychologa.
 2. Wpływ postawy instruktora na efektywność szkolenia i wyniki osób szkolonych.
@@ -638,7 +640,7 @@ I. Program szkolenia Lp. Treści programu 1 WPROWADZENIE
 1. Wprowadzenie do zajęć: wyjaśnienie ćwiczenia, budowa opartych na zaufaniu i szacunku, zadbanie o komfort osób szkolonych.
 2. Symulacja jako narzędzie umożliwiające podnoszenie kompetencji, a nie tylko ich ocenę.
 3. Cele i oczekiwania wobec symulacji.
-4. Organizacja ćwiczenia wyjaśnienie uczestnikom ich ról i obowiązków.
+4. Organizacja ćwiczenia – wyjaśnienie uczestnikom ich ról i obowiązków.
 5. Definicja i rola zespołu wspierającego.
 6. Rola instruktora w przeprowadzaniu symulacji.
 7. Etapy zajęć na symulatorze:
@@ -657,10 +659,10 @@ I. Program szkolenia Lp. Treści programu 1 WPROWADZENIE
 3. Test działania i kryteria oceny działania symulatora.
 4. Ocena formalna i nieformalna.
 5. Szkolenie i ocena nakierowane na zdobywanie kompetencji.
-6. Wykorzystanie symulatorów do oceny kompetencji zalety.
-7. Określanie kryteriów oceny kompetencji przykłady.
-9 Zaznajomienie się z symulatorem ćwiczenia na stanowisku instruktora.
-10 Opracowanie 2 ćwiczeń na symulator planowanie, projektowanie, wykonanie i ocena ćwiczeń na symulatorze.
+6. Wykorzystanie symulatorów do oceny kompetencji – zalety.
+7. Określanie kryteriów oceny kompetencji – przykłady.
+9 Zaznajomienie się z symulatorem – ćwiczenia na stanowisku instruktora.
+10 Opracowanie 2 ćwiczeń na symulator – planowanie, projektowanie, wykonanie i ocena ćwiczeń na symulatorze.
 11 Przeprowadzenie symulacji przygotowanej przez uczestników RAZEM II. Minimalne wymagania wstępne Wykształcenie średnie.
 III. Wiedza Zagadnienia wskazane w zakresie podanym w treściach szkolenia.
 IV. Umiejętności Przekazanie i egzekwowanie w sposób zrozumiały wiedzy przeprowadzania symulacji.
@@ -689,7 +691,7 @@ I. Program szkolenia Lp. Treści programu 1 PROCES SZKOLENIA, OCENIANIA I EGZAMI
 2. System zarządzania jakością.
 3. Niezależna ocena.
 5 SZKOLENIA I OCENA
-1. Szkolenie i ocena wymagania Konwencji STCW.
+1. Szkolenie i ocena – wymagania Konwencji STCW.
 2. Rola i odpowiedzialność w szkoleniach i ocenianiu.
 3. Szkolenia i ocena na statku.
 6 STANDARDY OPARTE NA KOMPETENCJACH
@@ -708,7 +710,7 @@ I. Program szkolenia Lp. Treści programu 1 PROCES SZKOLENIA, OCENIANIA I EGZAMI
 4. Obliczenia w testach.
 5. Wypełnianie testów.
 9 PRZEPROWADZANIE EGZAMINÓW PISEMNYCH
-1. Egzaminy pisemne wytyczne do przeprowadzenia egzaminu.
+1. Egzaminy pisemne – wytyczne do przeprowadzenia egzaminu.
 2. Dostępność publikacji i pomocy naukowych.
 3. Komunikowanie się w trakcie egzaminu.
 10 OCENIANIE EGZAMINÓW PISEMNYCH
@@ -737,44 +739,45 @@ I. Program szkolenia Lp. Treści programu 1 PROCES SZKOLENIA, OCENIANIA I EGZAMI
 III. Wiedza Zagadnienia wskazane w zakresie podanym w treściach programu.
 IV. Umiejętności Ocena i egzaminowanie osób przystępujących do egzaminów kwalifikacyjnych warunkujących przyznanie dokumentów kwalifikacyjnych.
 OBJAŚNIENIA SYMBOLI I SKRÓTÓW STOSOWANYCH W RAMOWYCH I. SYMBOLE:
-1) Σ suma godzin;
-2) W wykłady;
-3) C ćwiczenia;
-4) L laboratorium;
-5) S symulator.
+1) Σ – suma godzin;
+2) W – wykłady;
+3) C – ćwiczenia;
+4) L – laboratorium;
+5) S – symulator.
 II. SKRÓTY:
-1) ASTM (American Society for Testing and Materials) Amerykańskie
-2) COLREG Konwencja w sprawie międzynarodowych przepisów roku, sporządzona w Londynie dnia 20 października 1972 r. (Dz.
-3) CSC Międzynarodowa konwencja o bezpiecznych kontenerach, (Dz. U. z 1984 r. poz. 118);
-4) EMSA (European Maritime Safety Agency) Europejska Agencja
+1) ASTM (American Society for Testing and Materials) – Amerykańskie
+2) COLREG – Konwencja w sprawie międzynarodowych przepisów roku, sporządzona w Londynie dnia 20 października 1972 r. (Dz.
+3) CSC – Międzynarodowa konwencja o bezpiecznych kontenerach, (Dz. U. z 1984 r. poz. 118);
+4) EMSA (European Maritime Safety Agency) – Europejska Agencja
 5) FROSIO (Faglig Råd for Opplæring og Sertifisering av Inspektører Rada do spraw edukacji i certyfikacji Inspektorów do działań związanych
-6) HPWC (High-pressure water cleaning) wysokociśnieniowe mycie
-7) HPWJ (High-pressure water jetting) wysokociśnieniowe czyszczenie
-8) IALA (International Association of Lighthouse Authorities) wania Nawigacyjnego;
-9) ILO (International Labour Organization) Międzynarodowa Organizacja
-10) IMDG Międzynarodowy kodeks ładunków niebezpiecznych, wencji SOLAS;
-11) IMO (International Maritime Organization) Międzynarodowa
-12) IMSBC Międzynarodowy morski kodeks bezpiecznego przewozu w prawidle 1 rozdziału VI Konwencji SOLAS;
-13) ISO (International Organization for Standardization) Międzynarodowa
-14) LPWC (Low-pressure water cleaning) niskociśnieniowe mycie
-15) MFAG Poradnik pierwszej pomocy medycznej w wypadkach przewożonymi towarami niebezpiecznymi, stanowiący załącznik
-16) MLC Konwencja o pracy na morzu, przyjęta przez Konferencję w Genewie dnia 23 lutego 2006 r. (Dz. U. z 2013 r. poz. 845 oraz
-17) MRCK Morskie Ratownicze Centrum Koordynacyjne;
-18) MSC (Maritime Safety Committee) Komitet Bezpieczeństwa
-19) MSDS (Material Safety Data Sheet) karta charakterystyki substancji;
+6) HPWC (High-pressure water cleaning) – wysokociśnieniowe mycie
+7) HPWJ (High-pressure water jetting) – wysokociśnieniowe czyszczenie
+8) IALA (International Association of Lighthouse Authorities) – wania Nawigacyjnego;
+9) ILO (International Labour Organization) – Międzynarodowa Organizacja
+10) IMDG – Międzynarodowy kodeks ładunków niebezpiecznych, wencji SOLAS;
+11) IMO (International Maritime Organization) – Międzynarodowa
+12) IMSBC – Międzynarodowy morski kodeks bezpiecznego przewozu w prawidle 1 rozdziału VI Konwencji SOLAS;
+13) ISO (International Organization for Standardization) – Międzynarodowa
+14) LPWC (Low-pressure water cleaning) – niskociśnieniowe mycie
+15) MFAG – Poradnik pierwszej pomocy medycznej w wypadkach przewożonymi towarami niebezpiecznymi, stanowiący załącznik
+16) MLC – Konwencja o pracy na morzu, przyjęta przez Konferencję w Genewie dnia 23 lutego 2006 r. (Dz. U. z 2013 r. poz. 845 oraz
+17) MRCK – Morskie Ratownicze Centrum Koordynacyjne;
+18) MSC (Maritime Safety Committee) – Komitet Bezpieczeństwa
+19) MSDS (Material Safety Data Sheet) – karta charakterystyki substancji;
 20) NACE (Nomenclature statistique des Activités économiques dans Klasyfikacja Działalności Gospodarczych w Unii Europejskiej;
-21) Norma PN-EN 15257:2008 Ochrona katodowa Poziomy kompetencji dowej;
-22) SOLAS Międzynarodowa konwencja o bezpieczeństwie życia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 i 2029 oraz z 2017
-23) SSN (SafeSeaNet) system wymiany informacji morskiej;
-24) Standard ASTM D3359 Standard pomiaru przyczepności przy
-25) Standard ASTM D5162 Standard postępowania w przypadku nieciągłości.
-26) Standard ISO 2409 norma PN-EN ISO 2409:2013-06 Farby
-27) Standard ISO 4624 norma PN-EN ISO 4624:2004 Próba odrywania
-28) Standard ISO 8501-3 norma PN-EN ISO 8501-3:2008 Przygotowanie farb i podobnych produktów Wzrokowa ocena czystości powierzchni krawędzi i innych obszarów z wadami powierzchni;
-29) STCW Międzynarodowa konwencja o wymaganiach w zakresie dectw oraz pełnienia wacht, 1978, sporządzona w Londynie dnia z 1999 r. poz. 286 oraz z 2013 r. poz. 1092);
-30) STCW-F Międzynarodowa konwencja o wymaganiach w zakresie pełnienia wacht dla załóg statków rybackich, sporządzona w poz. 1654);
-31) UHPWJ (Ultrahigh-pressure water jetting) ultrawysokociśnienowe
-32) UNECE (United Nations Economic Commission for Europe)
-33) VTS (Vessel Traffic Service) Służba Kontroli Ruchu Statków.
-W W W W M M W W W W M W W W W M W M W M W W W W W W W W W M W W M W W W W M M W W M
+21) Norma PN-EN 15257:2008 – Ochrona katodowa – Poziomy kompetencji dowej;
+22) SOLAS – Międzynarodowa konwencja o bezpieczeństwie życia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 i 2029 oraz z 2017
+23) SSN (SafeSeaNet) – system wymiany informacji morskiej;
+24) Standard ASTM D3359 – Standard pomiaru przyczepności przy
+25) Standard ASTM D5162 – Standard postępowania w przypadku nieciągłości.
+ochronnych na podłożu metalowym;
+26) Standard ISO 2409 – norma PN-EN ISO 2409:2013-06 – Farby
+27) Standard ISO 4624 – norma PN-EN ISO 4624:2004 – Próba odrywania
+28) Standard ISO 8501-3 – norma PN-EN ISO 8501-3:2008 – Przygotowanie farb i podobnych produktów – Wzrokowa ocena czystości powierzchni krawędzi i innych obszarów z wadami powierzchni;
+29) STCW – Międzynarodowa konwencja o wymaganiach w zakresie dectw oraz pełnienia wacht, 1978, sporządzona w Londynie dnia z 1999 r. poz. 286 oraz z 2013 r. poz. 1092);
+30) STCW-F – Międzynarodowa konwencja o wymaganiach w zakresie pełnienia wacht dla załóg statków rybackich, sporządzona w poz. 1654);
+31) UHPWJ (Ultrahigh-pressure water jetting) – ultrawysokociśnienowe
+32) UNECE (United Nations Economic Commission for Europe) –
+33) VTS (Vessel Traffic Service) – Służba Kontroli Ruchu Statków.
+W M W W W W W M M W W W W W W M W M W W W M W W W W W M W W W W M W W W W W W M W W M M W W
 

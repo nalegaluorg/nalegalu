@@ -8,10 +8,10 @@ pos: 1619
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 listopada 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1619 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 29 października 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1619/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 29 października 2024 r.
-zmieniające rozporządzenie w sprawie wzorów zezwolenia na wykonywanie zawodu przewoźnika drogowego i wzorów licencji na wykonywanie transportu drogowego oraz wypisów z tych dokumentów Na podstawie art. 17 ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539 i 1544) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Infrastruktury z dnia 5 grudnia 2019 r. w sprawie wzorów zezwolenia na wykonywanie zawodu przewoźnika drogowego i wzorów licencji na wykonywanie transportu drogowego oraz wypisów z tych dokumentów (Dz. U. poz. 2377 oraz z 2023 r. poz. 2643) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+zmieniające rozporządzenie w sprawie wzorów zezwolenia na wykonywanie zawodu przewoźnika drogowego i wzorów licencji na wykonywanie transportu drogowego oraz wypisów z tych dokumentów Na podstawie art. 17 ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539 i 1544) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 5 grudnia 2019 r. w sprawie wzorów zezwolenia na wykonywanie zawodu przewoźnika drogowego i wzorów licencji na wykonywanie transportu drogowego oraz wypisów z tych dokumentów (Dz. U. poz. 2377 oraz z 2023 r. poz. 2643) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2. Licencje na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką wydane zgodnie ze wzorem określonym w dotychczasowych przepisach zachowują ważność do czasu ich wygaśnięcia lub cofnięcia.
 § 3. Formularze licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką sporządzone według wzoru określonego w dotychczasowych przepisach mogą być nadal stosowane, jednak nie dłużej niż do dnia 31 grudnia 2024 r.
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

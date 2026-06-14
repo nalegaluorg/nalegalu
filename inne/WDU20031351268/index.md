@@ -8,7 +8,7 @@ pos: 1268
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rencie socjalnej
@@ -31,7 +31,15 @@ source: "isap-pdf"
 
 **Art. 2.** Prawo do renty socjalnej przysługuje:
 
+- **1)** osobom posiadającym obywatelstwo polskie zamieszkującym na terytorium Rzeczypospolitej Polskiej;
+- **2)** cudzoziemcom zamieszkującym na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego w związku z okolicznościami, o których mowa w art. 127, art. 137a lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794 oraz z 2026 r. poz. 203), lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy albo ochrony uzupełniającej;
+- **3)** cudzoziemcom posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy;
+- **4)** mającym miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164 i 1794), posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** renta rodzinna – rentę rodzinną oraz uposażenie rodzinne przyznane na podstawie odrębnych przepisów;
+- **2)** organ emerytalno-rentowy – organ wypłacający rentę rodzinną inny niż Zakład Ubezpieczeń Społecznych.
 
 **Art. 4.**
 
@@ -241,6 +249,9 @@ source: "isap-pdf"
 
 **Art. 15.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio:
 
+- **1)** art. 12–14, art. 61, art. 78–81, art. 93 ust. 2, art. 98, art. 100 ust. 1 i 2, art. 101, art. 102 ust. 1, art. 104 ust. 4, art. 107, art. 114, art. 116 ust. 1b i 2, art. 118 ust. 1–5, art. 119 ust. 1, art. 121, art. 122 ust. 1, art. 126, art. 128, art. 129 ust. 1, art. 130 ust. 1, art. 133–135, art. 136a i art. 138–144 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz przepisy wydane na podstawie art. 128a tej ustawy;
+- **2)** art. 80–82, art. 84 ust. 1, 1a, 4, 4a, 6–8e i 11 oraz art. 85 ustawy o systemie ubezpieczeń społecznych.
+
 **Art. 16.** W postępowaniu w sprawach o rentę socjalną oraz dodatek dopełniający stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że niniejsza ustawa stanowi inaczej. Art. 17–25. (pominięte)
 
 **Art. 26.** (pominięty)
@@ -252,4 +263,8 @@ source: "isap-pdf"
 **Art. 29.** (pominięty)
 
 **Art. 30.** Ustawa wchodzi w życie z dniem 1 października 2003 r., z wyjątkiem:
+
+- **1)** art. 13 ust. 1 i 2 oraz art. 26 ust. 4 i 5, które wchodzą w życie z dniem 1 sierpnia 2003 r.;
+- **2)** art. 2 pkt 3, który wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
+
 

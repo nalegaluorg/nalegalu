@@ -8,10 +8,10 @@ pos: 1968
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 grudnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1968 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 17 listopada 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001968) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1968/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 17 listopada 2016 r.
-w sprawie krajowych ocen technicznych Na podstawie art. 9 ust. 9 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. z 2016 r. poz. 1570) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie krajowych ocen technicznych Na podstawie art. 9 ust. 9 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. z 2016 r. poz. 1570) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór wniosku o wydanie krajowej oceny technicznej;
 2) tryb wydawania, zmiany lub przedłużenia terminu ważności krajowej oceny technicznej;
 3) zawartość krajowej oceny technicznej;
@@ -45,7 +45,7 @@ w sprawie krajowych ocen technicznych Na podstawie art. 9 ust. 9 ustawy z dnia 1
 § 4. 1. Wnioskodawca zawiera z jednostką oceny umowę o przeprowadzenie postępowania.
 2. Jeżeli umowa nie stanowi inaczej, w okresie 2 miesięcy od dnia wszczęcia postępowania jednostka oceny przedstawia wnioskodawcy pisemne stanowisko w sprawie wniosku. W stanowisku jednostka oceny określa:
 1) rodzaj, przedmiot, metody i zakres dodatkowych badań, obliczeń i klasyfikacji wraz ze zwięzłym uzasadnieniem konieczności ich wykonania,
-2) wykaz i przedmiot dodatkowych dokumentów i informacji wynikających z odrębnych przepisów niezbędne do dokonania oceny właściwości użytkowych wyrobu budowlanego w odniesieniu do zamierzonego zastosowania.
+2) wykaz i przedmiot dodatkowych dokumentów i informacji wynikających z odrębnych przepisów – niezbędne do dokonania oceny właściwości użytkowych wyrobu budowlanego w odniesieniu do zamierzonego zastosowania.
 3. Uzyskanie dokumentów, informacji, wyników badań, obliczeń i klasyfikacji, o których mowa w ust. 2, należy do wnioskodawcy.
 § 5. 1. Jednostka oceny uznaje w postępowaniu wyniki badań i obliczeń:
 1) laboratoriów akredytowanych zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579);
@@ -84,7 +84,7 @@ w sprawie krajowych ocen technicznych Na podstawie art. 9 ust. 9 ustawy z dnia 1
 12) wykaz dokumentów wykorzystanych w postępowaniu, w tym wykaz sprawozdań z badań i obliczeń;
 13) podpis kierownika jednostki oceny.
 2. W krajowej ocenie technicznej jednostka oceny:
-1) stwierdza pozytywną ocenę właściwości użytkowych wyrobu budowlanego do zamierzonego zastosowania, o którym
+1) stwierdza pozytywną ocenę właściwości użytkowych wyrobu budowlanego do zamierzonego zastosowania, o którym mowa w ust. 1 pkt 6;
 2) wskazuje wymagany krajowy system oceny i weryfikacji stałości właściwości użytkowych zgodnie z załącznikiem nr 1;
 3) zamieszcza pouczenie, że krajowa ocena techniczna nie jest dokumentem upoważniającym do oznakowania wyrobu budowlanego znakiem budowlanym.
 § 10. 1. Wykaz wydanych i wykaz uchylonych krajowych ocen technicznych jednostka oceny prowadzi w postaci elektronicznej.
@@ -109,7 +109,7 @@ w sprawie krajowych ocen technicznych Na podstawie art. 9 ust. 9 ustawy z dnia 1
 4) zakresu zamierzonego zastosowania w budownictwie;
 5) wymagań wynikających z przepisów techniczno-budowlanych dotyczących zamierzonego zastosowania wyrobu budowlanego.
 § 12. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Infrastruktury i Budownictwa: A. Adamczyk WZÓR ZÓ Wniosek o wydanie krajowej oceny technicznej
+Minister Infrastruktury i Budownictwa: A. Adamczyk Załącznik do rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 17 listopada 2016 r. (poz. …) WZÓR WZÓR Wniosek o wydanie krajowej oceny technicznej
 1. Nazwa i adres siedziby jednostki oceny: …………………………………………………………………………………………………… ……………………………………………………………………………………………………… ………………………………………………………………………………………………………
 2. Wnioskodawca : ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… ………………………………………………………………………………………………………
 3. Grupa wyrobów budowlanych : ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… ………………………………………………………………………………………………………
@@ -122,13 +122,12 @@ w sprawie sposobu deklarowania właściwości użytkowych wyrobów budowlanych o
 8. Miejsce produkcji wyrobu budowlanego: ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… Właściwości użytkowe odnoszące się do zasadniczych charakterystyk mających wpływ na spełnienie podstawowych wymagań, wyrażone w poziomach lub klasach lub w sposób opisowy.
 9. Oświadczenia wnioskodawcy.
 Oświadczam, że:
-1) wyrób budowlany określony w pkt 4 i 5: * Zaznaczyć właściwy punkt.
-2) dla wyrobu budowlanego określonego w pkt 4 i 5: * Zaznaczyć właściwy punkt.
+1) wyrób budowlany określony w pkt 4 i 5: ���� – nie jest objęty Polską Normą ���� – nie jest w pełni objęty Polską Normą; w odniesieniu do co najmniej jednej zasadniczej charakterystyki wyrobu budowlanego metoda oceny przewidziana w Polskiej Normie nie jest właściwa ���� – nie jest w pełni objęty Polską Normą; Polska Norma nie przewiduje metody oceny w odniesieniu do co najmniej jednej zasadniczej charakterystyki wyrobu budowlanego ���� – nie jest objęty wydaną dla tego wyrobu europejską oceną techniczną * Zaznaczyć właściwy punkt.
+2) dla wyrobu budowlanego określonego w pkt 4 i 5: ���� – nie złożyłem wniosku o udzielenie krajowej oceny technicznej w innej jednostce oceny ���� – złożyłem wniosek o udzielenie krajowej oceny technicznej w następujących jednostkach oceny: …………………………………………………………………… * Zaznaczyć właściwy punkt.
 .................................................... …………………………………… (miejscowość i data) (podpis i pieczęć wnioskodawcy ) Załączniki:
 1. ……………………………………………………...…………………………………………
 2. …………………………………...……………………………………………………………
 3. …...……………………………………………………………………………………………
 4. ………………………………………………………………………………………………...
 5. …………...…………………………………………………………………………………… Wniosek sporządzony w postaci elektronicznej opatruje się wyłącznie kwalifikowanym podpisem elektronicznym albo podpisem elektronicznym potwierdzonym profilem zaufanym ePUAP.
-� nie jest objęty Polską Normą � nie jest w pełni objęty Polską Normą; w odniesieniu do co najmniej jednej zasadniczej charakterystyki wyrobu budowlanego metoda oceny przewidziana w Polskiej Normie nie jest właściwa � nie jest w pełni objęty Polską Normą; Polska Norma nie przewiduje metody oceny w odniesieniu do co najmniej jednej zasadniczej charakterystyki wyrobu budowlanego � nie jest objęty wydaną dla tego wyrobu europejską oceną techniczną � nie złożyłem wniosku o udzielenie krajowej oceny technicznej w innej jednostce oceny � złożyłem wniosek o udzielenie krajowej oceny technicznej w następujących jednostkach oceny: ……………………………………………………………………
 

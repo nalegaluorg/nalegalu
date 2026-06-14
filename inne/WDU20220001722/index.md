@@ -8,7 +8,7 @@ pos: 1722
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o radiofonii i telewizji
@@ -121,6 +121,48 @@ Art. 57–62. (pominięte)
 
 **Art. 4.** W rozumieniu ustawy:
 
+- **1)** usługą medialną jest usługa w postaci programu albo audiowizualnej usługi medialnej na żądanie, za którą odpowiedzialność redakcyjną ponosi jej dostawca i której podstawowym celem lub podstawowym celem jej dającej się oddzielić części jest dostarczanie przez sieci telekomunikacyjne ogółowi odbiorców audycji w celach informacyjnych, rozrywkowych lub edukacyjnych; usługą medialną jest także przekaz handlowy;
+- **2)** audycją jest ciąg ruchomych obrazów z dźwiękiem lub bez niego (audycja audiowizualna) albo ciąg dźwięków (audycja radiowa), stanowiący odrębną całość w stworzonym przez dostawcę usługi medialnej programie lub katalogu audycji publicznie udostępnianych w ramach audiowizualnej usługi medialnej na żądanie, zwanym dalej „katalogiem”;
+- **3)** odpowiedzialnością redakcyjną jest sprawowanie faktycznej kontroli nad wyborem audycji i sposobem ich zestawienia w programie lub w katalogu; nie uchybia to zasadom odpowiedzialności prawnej za treść audycji lub świadczenie usługi;
+- **4)** dostawcą usługi medialnej jest osoba fizyczna, osoba prawna lub osobowa spółka handlowa ponosząca odpowiedzialność redakcyjną za wybór treści usługi medialnej i decydująca o sposobie zestawienia tej treści, będąca nadawcą lub podmiotem dostarczającym audiowizualną usługę medialną na żądanie;
+- **5)** nadawcą jest osoba fizyczna, osoba prawna lub osobowa spółka handlowa, która tworzy i zestawia program oraz rozpowszechnia go lub przekazuje innym osobom w celu rozpowszechniania;
+- **6)** programem jest uporządkowany zestaw audycji, przekazów handlowych lub innych przekazów, rozpowszechniany w całości, w sposób umożliwiający jednoczesny odbiór przez odbiorców w ustalonym przez nadawcę układzie;
+- **6a)** audiowizualną usługą medialną na żądanie jest usługa medialna świadczona w ramach prowadzonej w tym zakresie działalności gospodarczej, polegająca na publicznym udostępnianiu audycji audiowizualnych na podstawie katalogu ustalonego przez podmiot dostarczający usługę;
+- **7)** rozpowszechnianiem jest emisja programu drogą bezprzewodową lub przewodową do odbioru przez odbiorców;
+- **8)** rozprowadzaniem jest przejmowanie rozpowszechnionego programu w całości i bez zmian oraz równoczesne, wtórne jego rozpowszechnianie;
+- **8a)** publicznym udostępnianiem audiowizualnej usługi medialnej na żądanie jest jej świadczenie w sposób umożliwiający ogółowi użytkowników, w wybranym przez nich momencie i na ich życzenie, odbiór wybranej przez nich audycji z katalogu udostępnionego w ramach takiej usługi;
+- **9)** dostarczaniem usługi medialnej jest rozpowszechnianie programu albo publiczne udostępnianie audiowizualnej usługi medialnej na żądanie;
+- **10)** nadawcą społecznym jest nadawca:
+    - **a)** którego program upowszechnia działalność wychowawczą i edukacyjną, działalność charytatywną, respektuje chrześcijański system wartości, za podstawę przyjmując uniwersalne zasady etyki, oraz zmierza do ugruntowania tożsamości narodowej,
+    - **b)** w którego programie nie są rozpowszechniane audycje ani inne przekazy, o których mowa w art. 18 ust. 5,
+    - **c)** który nie nadaje przekazów handlowych,
+    - **d)** który nie pobiera opłat z tytułu rozpowszechniania, rozprowadzania lub odbierania jego programu;
+
+- **11)** osobą zagraniczną jest osoba zagraniczna w rozumieniu art. 3 pkt 5 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej;
+- **12)** zespołem twórczym jest zespół osób tworzących audycje, do którego zalicza się w szczególności: reżysera, autora scenariusza, scenografa, operatora, odtwórców głównych ról i kompozytora;
+- **13)** programem wyspecjalizowanym jest program, w którym nie mniej niż 70% czasu nadawania programu w ciągu miesiąca, w godzinach 6–23, stanowią audycje i inne przekazy realizujące przyjętą specjalizację programu;
+- **14)** audycją wytworzoną pierwotnie w języku polskim jest audycja spełniająca wymogi audycji europejskiej w rozumieniu niniejszej ustawy i powstała na podstawie scenariusza wytworzonego pierwotnie w języku polskim, której pierwotna rejestracja została dokonana w języku polskim;
+- **15)** audycją dla dzieci jest audycja, która ze względu na czas nadania i treść jest skierowana głównie do dzieci;
+- **16)** przekazem handlowym jest każdy przekaz, w tym obrazy z dźwiękiem lub bez dźwięku albo tylko dźwięki, mający służyć bezpośrednio lub pośrednio promocji towarów, usług lub renomy podmiotu prowadzącego działalność gospodarczą lub zawodową, towarzyszący audycji lub wideo stworzonemu przez użytkownika lub włączony do nich, w zamian za opłatę lub podobne wynagrodzenie, albo w celach autopromocji, w szczególności reklama, sponsorowanie, telesprzedaż i lokowanie produktu;
+- **17)** reklamą jest przekaz handlowy, pochodzący od podmiotu publicznego lub prywatnego, w związku z jego działalnością gospodarczą lub zawodową, zmierzający do promocji sprzedaży lub odpłatnego korzystania z towarów lub usług; reklamą jest także autopromocja;
+- **18)** sponsorowaniem jest każdy wkład w finansowanie usługi medialnej, platformy udostępniania wideo, audycji lub wideo stworzonego przez użytkownika, przez podmiot, który nie dostarcza usług medialnych, platform udostępniania wideo, wideo stworzonych przez użytkownika i nie produkuje audycji, w celu promocji jego nazwy, firmy, renomy, działalności, towaru, usługi, znaku towarowego lub innego oznaczenia indywidualizującego;
+- **19)** telesprzedażą jest przekaz handlowy zawierający bezpośrednią ofertę sprzedaży towarów lub odpłatnego świadczenia usług;
+- **20)** ukrytym przekazem handlowym jest przedstawianie w audycjach towarów, usług, nazwy, firmy, znaku towarowego lub działalności przedsiębiorcy będącego producentem towaru lub świadczącego usługi, jeżeli zamiarem dostawcy usługi medialnej, w szczególności związanym z wynagrodzeniem lub uzyskaniem innej korzyści, jest osiągnięcie skutku reklamowego oraz możliwe jest wprowadzenie publiczności w błąd co do charakteru przekazu;
+- **21)** lokowaniem produktu jest przekaz handlowy polegający na przedstawieniu lub nawiązaniu do towaru, usługi lub ich znaku towarowego w taki sposób, że stanowią one element samej audycji lub wideo stworzonego przez użytkownika w zamian za opłatę lub podobne wynagrodzenie, a także w postaci nieodpłatnego udostępnienia towaru lub usługi;
+- **22)** lokowaniem tematu jest przekaz handlowy polegający na nawiązywaniu do towaru, usługi lub ich znaku towarowego w scenariuszu lub liście dialogowej audycji w zamian za opłatę lub podobne wynagrodzenie;
+- **22a)** platformą udostępniania wideo jest usługa świadczona drogą elektroniczną w ramach prowadzonej w tym zakresie działalności gospodarczej, jeżeli podstawowym celem lub zasadniczą funkcją tej usługi lub jej dającej się oddzielić części jest dostarczanie ogółowi odbiorców w celach informacyjnych, rozrywkowych lub edukacyjnych audycji, wideo stworzonych przez użytkowników lub innych przekazów, za które dostawca usługi nie ponosi odpowiedzialności redakcyjnej, ale o sposobie zestawienia których dostawca ten decyduje, w tym automatycznie lub za pomocą algorytmów, w szczególności przez eksponowanie, flagowanie i sekwencjonowanie;
+- **22b)** wideo stworzonym przez użytkownika jest ciąg ruchomych obrazów z dźwiękiem lub bez niego, stanowiący odrębną całość, który został stworzony przez użytkownika i umieszczony na platformie udostępniania wideo przez niego lub przez innego użytkownika;
+- **22c)** dostawcą platformy udostępniania wideo jest osoba fizyczna, osoba prawna lub osobowa spółka handlowa, która dostarcza platformę udostępniania wideo;
+- **22d)** użytkownikiem platformy udostępniania wideo jest osoba fizyczna, osoba prawna lub jednostka organizacyjna, o której mowa w art. 33 § 1 Kodeksu cywilnego, korzystająca z platformy udostępniania wideo, w szczególności przez posiadanie konta na platformie udostępniania wideo, umieszczanie lub odbieranie na niej audycji, wideo lub innych przekazów stworzonych przez tego użytkownika lub innych użytkowników;
+- **23)** autopromocją jest każdy przekaz pochodzący od dostawcy usługi medialnej mający służyć bezpośrednio lub pośrednio promocji jego audycji, towarów lub usług;
+- **24)** przekazem tekstowym jest zbiór tekstów i nieruchomych obrazów, rozpowszechnianych za pomocą sygnału telewizyjnego lub radiowego równocześnie z programem;
+- **25)** producentem jest osoba fizyczna lub osoba prawna, lub jednostka organizacyjna, o której mowa w art. 33 § 1 Kodeksu cywilnego, która podejmuje inicjatywę, faktycznie organizuje i ponosi odpowiedzialność za kreatywny, organizacyjny i finansowy proces produkcji utworu audiowizualnego;
+- **26)** producentem niezależnym wobec danego nadawcy jest producent niepozostający w stosunku pracy z danym nadawcą, niebędący sam nadawcą i nieposiadający udziałów w organizacji nadawcy oraz w którym nadawca ani żaden podmiot od niego zależny bądź należący do tej samej grupy kapitałowej nie posiada żadnych udziałów, a w zarządach nie zasiadają żadne osoby pozostające w stosunku pracy z danym nadawcą lub będące nadawcami;
+- **27)** przedsiębiorcą jest przedsiębiorca w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570);
+- **28)** udogodnieniem dla osób z niepełnosprawnościami jest element dźwiękowy lub graficzny zawarty w audycji lub rozpowszechniany równocześnie z nią, którego celem jest zapewnienie osobom z niepełnosprawnościami wzroku oraz osobom z niepełnosprawnościami słuchu możliwości zapoznania się z audycją w szczególności w formie napisów dla niesłyszących lub audiodeskrypcji, a także tłumaczenia na język migowy;
+- **29)** systemem teleinformatycznym jest system teleinformatyczny w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344);
+- **30)** siecią telekomunikacyjną jest sieć telekomunikacyjna w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
+
 #### Rozdział 2 Krajowa Rada Radiofonii i Telewizji
 
 **Art. 5.** Tworzy się Krajową Radę Radiofonii i Telewizji, zwaną dalej „Krajową Radą”, jako organ państwowy właściwy w sprawach radiofonii i telewizji.
@@ -157,7 +199,7 @@ Art. 57–62. (pominięte)
 - **2)** sprawozdanie z wykonywania przez dostawców usług medialnych obowiązków, o których mowa w art. 18a i art. 47g,
 - **3)** sprawozdanie z wykonywania przez dostawców usług medialnych obowiązków, o których mowa w art. 15 ust. 3, art. 15a ust. 1, art. 47f ust. 2 ustawy oraz art. 19 ust. 3, 3a, 6a i 6b ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2022 r. poz. 1066),
 - **4)** sprawozdanie dotyczące stosowania przez dostawców platform udostępniania wideo środków przeciwdziałających udostępnianiu treści, o których mowa w art. 47p ust. 1,
-- **5)** sprawozdanie ze stanu edukacji medialnej, w tym oceny działań dostawców usług medialnych i dostawców platform udostępniania wideo w tym zakresie – w terminach określonych w dyrektywie Parlamentu Europejskiego i Rady (UE) 2018/1808 z dnia 14 listopada 2018 r. zmieniającej dyrektywę 2010/13/UE w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) ze względu na zmianę sytuacji na rynku (Dz. Urz. UE L 303 z 28.11.2018, 69).
+- **5)** sprawozdanie ze stanu edukacji medialnej, w tym oceny działań dostawców usług medialnych i dostawców platform udostępniania wideo w tym zakresie – w terminach określonych w dyrektywie Parlamentu Europejskiego i Rady (UE) 2018/1808 z dnia 14 listopada 2018 r. zmieniającej dyrektywę 2010/13/UE w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) ze względu na zmianę sytuacji na rynku (Dz. Urz. UE L 303 z 28.11.2018, s. 69).
 
 **Art. 7.**
 
@@ -443,6 +485,10 @@ Art. 57–62. (pominięte)
 4. (uchylony)
 
 **Art. 16c.** Zakazane są:
+
+- **1)** ukryte przekazy handlowe;
+- **2)** (uchylony)
+- **3)** lokowanie tematów.
 
 **Art. 17.**
 
@@ -1450,6 +1496,9 @@ Art. 57–62. (pominięte)
 
 **Art. 46.** Krajowa Rada określi, w drodze rozporządzenia, szczegółowy sposób i tryb prowadzenia rejestru programów rozpowszechnianych wyłącznie w systemie teleinformatycznym i programów rozprowadzanych, w tym:
 
+- **1)** wzór rejestru,
+- **2)** wzór zgłoszenia o wpis do rejestru – uwzględniając możliwość prowadzenia rejestru oraz zgłaszania do niego wniosków w systemie teleinformatycznym, konieczność zapewnienia przejrzystości i kompletności zapisu informacji znajdujących się w rejestrze oraz sprawność postępowania rejestracyjnego, a także nieobciążanie dostawców usług medialnych utrudnieniami w zakresie wykonywanej działalności.
+
 **Art. 46a.**
 
 1. Jeżeli nadawca programu, o którym mowa w art. 45 ust. 3 pkt 1, jest ustanowiony w innym państwie członkowskim Unii Europejskiej, Krajowa Rada zawiadamia tego nadawcę, organ regulacyjny państwa, w którym jest ustanowiony ten nadawca, i Komisję Europejską o stwierdzonych naruszeniach oraz o zamiarze wykreślenia rozprowadzanego programu z rejestru. Program jest wykreślany z rejestru, jeżeli w ciągu miesiąca od dnia zawiadomienia, w wyniku konsultacji prowadzonych przez Krajową Radę z państwem, w którym jest ustanowiony nadawca, i z Komisją Europejską, nie nastąpi zaniechanie naruszeń.
@@ -1687,6 +1736,13 @@ Art. 57–62. (pominięte)
 2. Krajowa Rada może określić, w drodze rozporządzenia, sposób wyodrębniania i oznaczania przekazów handlowych w audycjach, wideo stworzonych przez użytkowników oraz innych przekazach umieszczanych na platformie udostępniania wideo, przed ich rozpoczęciem oraz po ich zakończeniu, oraz przekazów handlowych umieszczanych na platformie udostępniania wideo, ale nieposiadających związku z audycjami lub wideo stworzonymi przez użytkowników, kierując się ochroną interesu odbiorców i samodzielności dostawców platform udostępniania wideo oraz uwzględniając rozwój technik reklamowych i specyfikę działalności dostawców platform udostępniania wideo.
 
 **Art. 47r.** Dostawca platformy udostępniania wideo w regulaminie świadczenia usług drogą elektroniczną określa w szczególności:
+
+- **1)** informację o cechach oraz szczegółowych warunkach kwalifikowania i oznaczania audycji, wideo stworzonych przez użytkowników i innych przekazów oraz wzorach odpowiednich symboli graficznych, określonych w rozporządzeniu wydanym na podstawie art. 47p ust. 3;
+- **2)** informację o rozporządzeniu, o którym mowa w art. 47q ust. 2, a w razie jego braku zasady umieszczania przekazów handlowych w audycjach, wideo stworzonych przez użytkowników oraz innych przekazach umieszczanych na platformie udostępniania wideo przez użytkowników;
+- **3)** sposób zgłaszania, że treści umieszczone na platformie udostępniania wideo naruszają zakaz określony w art. 47o ust. 1, oraz tryb rozpoznawania zgłoszeń, w tym terminy i sposób udzielania odpowiedzi na zgłoszenia dokonane przez użytkowników;
+- **4)** kryteria dokonywania oceny zgodności audycji, wideo stworzonych przez użytkowników oraz innych przekazów z art. 47o;
+- **5)** informacje dotyczące możliwości składania skarg na rozstrzygnięcia dostawcy platformy udostępniania wideo, o których mowa w art. 47t ust. 1 i 2 oraz art. 47u, oraz informacje dotyczące innych środków ochrony prawnej przysługujących użytkownikom platform udostępniania wideo wobec rozstrzygnięć dostawcy platformy udostępniania wideo;
+- **6)** informacje o zakresie i celu przetwarzania danych osobowych użytkowników platformy udostępniania wideo.
 
 **Art. 47s.**
 

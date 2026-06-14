@@ -8,10 +8,10 @@ pos: 975
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 975 Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 maja2020 r. (poz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000975) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/975/text.pdf) |
 
-## Załącznik nr 1 — I. Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych
-
+…) Załącznik nr 1 I. Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych
 1. Gatunki roślin zbożowych i najniższy obowiązujący stopień kwalifikacji
 2. Odmiany mieszańcowe:
 1) materiał siewny składników rodzicielskich odmian mieszańcowych powinien być uznany w urzędowej ocenie jako spełniający wymagania dla materiału bazowego (B);
@@ -55,17 +54,17 @@ b) kwalifikowany  10 m ;
 a) 99,7%  dla materiału siewnego kategorii elitarny,
 b) 99,5%  dla materiału siewnego kategorii kwalifikowany;
 3) w produkcji materiału siewnego kategorii:
-a) elitarny wyrażona procentowo liczba roślin niebędących danym typem nie powinna przekraczać: 0,1%  dla linii podtrzymującej i przywracającej płodność, 0,2%  dla składnika żeńskiego CMS,
-b) kwalifikowany  liczba roślin niebędących danym typem powinna stanowić nie więcej niż: 0,3%  dla linii przywracającej płodność i dla składnika żeńskiego CMS, 0,5%  jeżeli składnik żeński CMS jest mieszańcem pojedynczym;
+a) elitarny – wyrażona procentowo liczba roślin niebędących danym typem nie powinna przekraczać: – 0,1%  dla linii podtrzymującej i przywracającej płodność, – 0,2%  dla składnika żeńskiego CMS,
+b) kwalifikowany  liczba roślin niebędących danym typem powinna stanowić nie więcej niż: – 0,3%  dla linii przywracającej płodność i dla składnika żeńskiego CMS, – 0,5%  jeżeli składnik żeński CMS jest mieszańcem pojedynczym;
 4) materiał siewny kategorii kwalifikowany może być produkowany w uprawie mieszanej żeńskiego składnika męskosterylnego ze składnikiem męskim przywracającym płodność.
 10. Czystość gatunkowa:
 1) plantacje nasienne roślin zbożowych powinny być praktycznie wolne od gatunków roślin uprawnych innych niż uprawiany, szczególnie gatunków mogących stanowić źródło obcego pyłku lub chorób i szkodników;
 2) występowanie innych gatunków roślin zbożowych na jednostce kwalifikacyjnej, które podlegają ocenie według norm:
-a) procentowych, na których jest produkowany materiał kategorii: elitarny nie więcej niż 0,2 rośliny, kwalifikowany nie więcej niż 1 roślina,
-b) powierzchni, na których jest produkowany materiał kategorii: elitarny nie więcej niż 0,3 rośliny, kwalifikowany nie więcej niż 0,5 rośliny;
+a) procentowych, na których jest produkowany materiał kategorii: – elitarny – nie więcej niż 0,2 rośliny, – kwalifikowany – nie więcej niż 1 roślina,
+b) powierzchni, na których jest produkowany materiał kategorii: – elitarny – nie więcej niż 0,3 rośliny, – kwalifikowany – nie więcej niż 0,5 rośliny;
 3) na plantacji nasiennej prosa, która podlega ocenie według norm powierzchni, występowanie roślin uprawnych innych gatunków szkodliwych, do których zalicza się sorgo miotełkowe, sorgo sudańskie, gorczycę białą, gorczycę czarną, gorczycę sarepską, lniankę oraz rzepak jary i rzepik jary, na jednostce kwalifikacyjnej dla materiału kategorii:
-a) elitarny nie więcej niż 0,1 rośliny,
-b) kwalifikowany nie więcej niż 1 roślina.
+a) elitarny – nie więcej niż 0,1 rośliny,
+b) kwalifikowany – nie więcej niż 1 roślina.
 11. Zachwaszczenie:
 1) plantacje nasienne roślin zbożowych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia;
 2) występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej;
@@ -82,8 +81,8 @@ II. Wymagania dotyczące wytwarzania materiału siewnego roślin pastewnych
 4) czystość odmianowa
 5) czystość gatunkowa:
 a) plantacje nasienne roślin pastewnych powinny być praktycznie wolne od gatunków uprawnych innych niż uprawiany; dotyczy to w szczególności gatunków mogących doprowadzić do zapylenia obcym pyłkiem lub trudnych do usunięcia w procesie czyszczenia,
-b) występowanie innych gatunków roślin pastewnych na jednostce kwalifikacyjnej, które podlegają ocenie według norm: procentowych, na których jest produkowany materiał siewny kategorii elitarny nie więcej niż 0,2 rośliny, a kategorii kwalifikowany nie więcej niż 1 roślina, powierzchni, na których jest produkowany materiał siewny kategorii elitarny nie więcej niż 0,3 rośliny, a kwalifikowany nie więcej niż 0,5 rośliny,
-c) dla gatunków Lolium spp. oraz Festuca spp. x Lolium spp. występowanie roślin innych gatunków z rodzaju Lolium nie może przekraczać dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: elitarny 1 roślina/50 m , kwalifikowany 1 roślina/10 m ;
+b) występowanie innych gatunków roślin pastewnych na jednostce kwalifikacyjnej, które podlegają ocenie według norm: – procentowych, na których jest produkowany materiał siewny kategorii elitarny – nie więcej niż 0,2 rośliny, a kategorii kwalifikowany – nie więcej niż 1 roślina, – powierzchni, na których jest produkowany materiał siewny kategorii elitarny – nie więcej niż 0,3 rośliny, a kwalifikowany – nie więcej niż 0,5 rośliny,
+c) dla gatunków Lolium spp. oraz Festuca spp. x Lolium spp. występowanie roślin innych gatunków z rodzaju Lolium nie może przekraczać dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: – elitarny – 1 roślina/50 m , – kwalifikowany – 1 roślina/10 m ;
 6) zachwaszczenie:
 a) plantacje nasienne roślin pastewnych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia,
 b) występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej zgodnie z metodą określoną w przepisach wykonawczych wydanych na podstawie art. 51 ustawy z dnia 9 listopada 2012 r. o nasiennictwie, zwaną dalej „obowiązującą metodą", może być podstawą do dyskwalifikacji plantacji nasiennej;
@@ -111,21 +110,21 @@ b) w ostatnich trzech latach inne rośliny gatunków z rodziny Brassicaceae w pr
 5. Izolacja przestrzenna
 6. Czystość odmianowa 1 2 Czystość odmianowa:
 1) minimalna czystość odmianowa odmian mieszańcowych rzepaku produkowanych przy zastosowaniu męskiej sterylności wynosi:
-a) dla materiału siewnego kategorii elitarny: komponent mateczny 99,0%, komponent ojcowski 99,9%,
-b) dla materiału siewnego kategorii kwalifikowany: odmian ozimych 90,0%, odmian jarych 85,0%;
+a) dla materiału siewnego kategorii elitarny: – komponent mateczny – 99,0%, – komponent ojcowski – 99,9%,
+b) dla materiału siewnego kategorii kwalifikowany: – odmian ozimych – 90,0%, – odmian jarych – 85,0%;
 2) dla odmian mieszańcowych słonecznika liczba roślin rozpoznawalnych jako niebędące linią wsobną lub innym składnikiem rodzicielskim nie może przekraczać:
-a) w produkcji składników rodzicielskich (Ro, Rm): w składniku męskim, rośliny pylące, jeżeli co najmniej 2% osobników żeńskich ma podatne kwiaty 0,2 rośliny na jednostkę (0,2%), w składniku żeńskim 0,5 rośliny na jednostkę (0,5%),
-b) w produkcji materiału siewnego mieszańców handlowych linie wsobne i pojedyncze mieszańce stanowiące składniki rodzicielskie: w składniku męskim, rośliny pylące, jeżeli co najmniej 5% osobników żeńskich ma podatne kwiaty 0,5 rośliny na jednostkę (0,5%), w składniku żeńskim 1,0 roślina na jednostkę (1,0%),
-c) jeżeli co najmniej 5% roślin składnika matecznego ma znamiona zdolne do zapylenia, to procent roślin w obrębie tego składnika, który pylił lub pyli, nie może przekraczać w każdej ocenie stanu plantacji 0,5 rośliny na jednostkę (0,5%);
+a) w produkcji składników rodzicielskich (Ro, Rm): – w składniku męskim, rośliny pylące, jeżeli co najmniej 2% osobników żeńskich ma podatne kwiaty – 0,2 rośliny na jednostkę (0,2%), – w składniku żeńskim – 0,5 rośliny na jednostkę (0,5%),
+b) w produkcji materiału siewnego mieszańców handlowych linie wsobne i pojedyncze mieszańce stanowiące składniki rodzicielskie: – w składniku męskim, rośliny pylące, jeżeli co najmniej 5% osobników żeńskich ma podatne kwiaty – 0,5 rośliny na jednostkę (0,5%), – w składniku żeńskim – 1,0 roślina na jednostkę (1,0%),
+c) jeżeli co najmniej 5% roślin składnika matecznego ma znamiona zdolne do zapylenia, to procent roślin w obrębie tego składnika, który pylił lub pyli, nie może przekraczać w każdej ocenie stanu plantacji – 0,5 rośliny na jednostkę (0,5%);
 3) występowanie roślin typowo męskich (płaskoni) w konopiach jednopiennych nie może przekraczać dla:
-a) materiału siewnego kategorii elitarny 0,1 rośliny na 30m ,
-b) materiału siewnego kategorii kwalifikowany 15 roślin na 10m .
+a) materiału siewnego kategorii elitarny – 0,1 rośliny na 30m ,
+b) materiału siewnego kategorii kwalifikowany – 15 roślin na 10m .
 Płaskonie występujące w ilości przekraczającej powyższe normy powinny być usuwane z plantacji nasiennej wraz z korzeniami i niszczone przed rozpoczęciem pylenia.
 7. Czystość gatunkowa:
 1) plantacje nasienne roślin oleistych i włóknistych powinny być praktycznie wolne od gatunków innych niż uprawiany, szczególnie gatunków mogących stanowić źródło obcego pyłku lub trudnych do odczyszczenia w procesach technologicznych;
 2) występowanie innych gatunków roślin oleistych lub włóknistych na jednostce kwalifikacyjnej, które podlegają ocenie według norm:
-a) procentowych, na których jest produkowany materiał siewny kategorii: elitarny nie więcej niż 0,2 rośliny, kwalifikowany nie więcej niż 1 roślina,
-b) powierzchni, na których jest produkowany materiał siewny kategorii: elitarny nie więcej niż 0,3 rośliny, kwalifikowany nie więcej niż 0,5 rośliny.
+a) procentowych, na których jest produkowany materiał siewny kategorii: – elitarny – nie więcej niż 0,2 rośliny, – kwalifikowany – nie więcej niż 1 roślina,
+b) powierzchni, na których jest produkowany materiał siewny kategorii: – elitarny – nie więcej niż 0,3 rośliny, – kwalifikowany – nie więcej niż 0,5 rośliny.
 8. Zachwaszczenie:
 1) plantacje nasienne roślin oleistych i włóknistych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia;
 2) występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej.
@@ -165,7 +164,7 @@ z 2019 r. poz. 568 oraz z 2020 r. poz. 425 i 875).
 3) warunki pogodowe.
 6. Ocena polowa:
 1) ocena stanu plantacji:
-a) dla plantacji, na których są wytwarzane sadzeniaki ziemniaka, przeprowadza się dwie oceny stanu plantacji: pierwszą kiedy rośliny osiągną wysokość do 20 cm, drugą w okresie od pełni kwitnienia plantacji do dwóch tygodni po kwitnieniu, jednak nie później niż przed początkiem żółknięcia i zasychania liści lub bezpośrednio przed zabiegiem niszczenia naci,
+a) dla plantacji, na których są wytwarzane sadzeniaki ziemniaka, przeprowadza się dwie oceny stanu plantacji: – pierwszą – kiedy rośliny osiągną wysokość do 20 cm, – drugą – w okresie od pełni kwitnienia plantacji do dwóch tygodni po kwitnieniu, jednak nie później niż przed początkiem żółknięcia i zasychania liści lub bezpośrednio przed zabiegiem niszczenia naci,
 b) trzecia ocena stanu plantacji sadzeniaka ziemniaka jest przeprowadzana w przypadku zakwalifikowania plantacji nasiennej, po przeprowadzeniu oceny weryfikacyjnej metodą uproszczoną określoną w przepisach wydanych na podstawie art. 51 ustawy z dnia 9 listopada 2012 r. o nasiennictwie;
 2) plantacja nasienna ziemniaka jest oddzielona od innych plantacji nasiennych ziemniaka lub upraw ziemniaka pasem technologicznym o szerokości co najmniej dwóch redlin;
 3) czystość gatunkowa i zachwaszczenie:
@@ -192,7 +191,7 @@ Badania na choroby wirusowe sadzeniaków ziemniaka wszystkich kategorii wykonywa
 a) sadzeniaki ziemniaka powinny być wolne od agrofagów kwarantannowych dla Unii,
 b) dopuszczalną wielkość partii stanowi zbiór sadzeniaków ziemniaka netto z jednej plantacji, nie więcej jednak niż 50 ton; wielkość partii może być przekroczona nie więcej niż o 5%,
 c) partia sadzeniaków ziemniaka przygotowana do oceny cech zewnętrznych powinna być jednolita pod względem cech jakościowych,
-d) sadzeniaki ziemniaka w partii powinny: być dojrzałe, czyste i suche, nie wykazywać objawów nadmarznięcia, zaparzenia lub porośnięcia, mieć kształt i zabarwienie miąższu typowe dla odmiany;
+d) sadzeniaki ziemniaka w partii powinny: – być dojrzałe, czyste i suche, – nie wykazywać objawów nadmarznięcia, zaparzenia lub porośnięcia, – mieć kształt i zabarwienie miąższu typowe dla odmiany;
 2) sadzeniaki ziemniaka w partii przygotowanej do oceny cech zewnętrznych, z wyłączeniem odmian regionalnych, powinny być posortowane tak, aby:
 a) nie występowały bulwy, które przechodzą przez kwadratowe oczko sortownika o boku 25 mm,
 b) bulwy, które nie przechodzą przez kwadratowe oczko sortownika o boku 35 mm, zostały podzielone na frakcje o wymiarach stanowiących krotność 5 mm,
@@ -208,9 +207,9 @@ c) w partii mogą znajdować się bulwy kilku frakcji o różnych wymiarach (kal
 6) RNQP lub objawy wywołane przez RNQP, na partiach sadzeniaków:
 7) łączna tolerancja dla pozycji 2–6: 6,0% wagowo dla sadzeniaków ziemniaka kategorii bazowe i 8,0 % wagowo dla sadzeniaków ziemniaka kategorii kwalifikowane.
 11. Liczba rozmnożeń sadzeniaków ziemniaka kategorii:
-1) bazowe wynosi maksymalnie cztery;
-2) przedbazowe i bazowe na plantacji nasiennej ziemniaka wynosi łącznie maksymalnie siedem;
-3) kwalifikowane wynosi maksymalnie dwa.
+1) bazowe – wynosi maksymalnie cztery;
+2) przedbazowe i bazowe – na plantacji nasiennej ziemniaka wynosi łącznie maksymalnie siedem;
+3) kwalifikowane – wynosi maksymalnie dwa.
 12. Sadzeniaki ziemniaka uznaje się jako należące do maksymalnego rozmnożenia, które jest dopuszczone w obrębie danej kategorii, jeżeli na etykiecie sadzeniaków ziemniaka nie została umieszczona informacja o liczbie rozmnożeń.
 13. Sadzeniaki ziemniaka kategorii przedbazowe mogą pochodzić:
 1) ze zidentyfikowanej rośliny, z której pobiera się materiał przeznaczony do rozmnażania (roślina mateczna), lub
@@ -272,7 +271,7 @@ d) bulwy porażone parchem prószystym na ponad 10% powierzchni nie powinny prze
 e) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego,
 f) bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny przekraczać 3,0% wagowych,
 g) zawartość ziemi i substancji obcych nie powinna przekraczać 1,0%wagowego;
-3) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0% przy czym sadzeniaki ziemniaka uznaje się za należące do piątego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy S nie została umieszczona informacja o liczbie rozmnożeń.
+3) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0% – przy czym sadzeniaki ziemniaka uznaje się za należące do piątego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy S nie została umieszczona informacja o liczbie rozmnożeń.
 19. Partia sadzeniaków ziemniaka kategorii bazowe unijnej klasy SE powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
 a) liczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%,
@@ -288,7 +287,7 @@ d) bulwy porażone parchem prószystym na ponad 10% powierzchni nie powinny prze
 e) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego,
 f) bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny przekraczać 3,0% wagowych,
 g) zawartość ziemi i substancji obcych nie powinna przekraczać 1,0% wagowego;
-3) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0% przy czym sadzeniaki ziemniaka uznaje się za należące do szóstego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy SE nie została umieszczona informacja o liczbie rozmnożeń.
+3) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0% – przy czym sadzeniaki ziemniaka uznaje się za należące do szóstego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy SE nie została umieszczona informacja o liczbie rozmnożeń.
 20. Partia sadzeniaków ziemniaka kategorii bazowe unijnej klasy E powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
 a) liczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%,
@@ -304,7 +303,7 @@ d) bulwy porażone parchem prószystym na ponad 10% powierzchni nie powinny prze
 e) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego,
 f) bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny przekraczać 3,0% wagowych,
 g) zawartość ziemi i substancji obcych nie powinna przekraczać 1,0% wagowego;
-3) łączny procent sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0 przy czym sadzeniaki ziemniaka uznaje się za należące do siódmego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy E nie została umieszczona informacja o liczbie rozmnożeń.
+3) łączny procent sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0 – przy czym sadzeniaki ziemniaka uznaje się za należące do siódmego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy E nie została umieszczona informacja o liczbie rozmnożeń.
 21. Partia sadzeniaków ziemniaka kategorii kwalifikowane unijnej klasy A powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
 a) liczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,2%,

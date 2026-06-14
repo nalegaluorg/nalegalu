@@ -8,10 +8,10 @@ pos: 1282
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1282 Umowa o współpracy w zakresie Globalnego Systemu Nawigacji Satelitarnej (GNSS) do celów cywilnych pomiędzy Wspólnotą Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Korei, z drugiej strony, sporządzona w Helsinkach dnia 9 września 2006 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1282/text.pdf) |
 
-Umowa o współpracy w zakresie Globalnego Systemu Nawigacji Satelitarnej (GNSS) do celów cywilnych pomiędzy Wspólnotą Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Korei, z drugiej strony, sporządzona w Helsinkach dnia 9 września 2006 r.
-W imieniu Rzeczypospolitej Polskiej Prezydent rzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 9 września 2006 r. w Helsinkach została sporządzona Umowa o współpracy w zakresie Globalnego Systemu Nawigacji Satelitarnej (GNSS) do celów cywilnych pomiędzy Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony, a Republiką Korei, z drugiej strony, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej Prezydent rzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 9 września 2006 r. w Helsinkach została sporządzona Umowa o współpracy w zakresie Globalnego Systemu Nawigacji Satelitarnej (GNSS) do celów cywilnych pomiędzy Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony, a Republiką Korei, z drugiej strony, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 26 września 2008 r.
 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński l.s.
+Prezes Rady Ministrów: D. Tusk
 

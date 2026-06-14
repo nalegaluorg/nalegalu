@@ -8,10 +8,10 @@ pos: 587
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 maja 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 587 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 26 kwietnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/587/text.pdf) |
 
-Poz. 587 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 26 kwietnia 2013 r.
 w sprawie sposobu wykonywania nadzoru w zakresie czynnej służby wojskowej żołnierzy pełniących służbę w sądach wojskowych Na podstawie art. 18 § 2 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r.
-poz. 952 oraz z 2013 r. poz. 448) zarządza się, co następuje: § 1. Rozporządzenie określa sposób wykonywania nadzoru przez Ministra Obrony Narodowej w zakresie czynnej służby wojskowej żołnierzy pełniących służbę w sądach wojskowych.
+poz. 952 oraz z 2013 r. poz. 448) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób wykonywania nadzoru przez Ministra Obrony Narodowej w zakresie czynnej służby wojskowej żołnierzy pełniących służbę w sądach wojskowych.
 § 2. Nadzór, o którym mowa w § 1, obejmujący zagadnienia związane z:
 1) dysponowaniem etatem żołnierzy pełniących służbę w sądach wojskowych,
 2) działalnością mobilizacyjno-uzupełnieniową i gotowości bojowej żołnierzy pełniących służbę w sądach wojskowych oraz przygotowaniem do wykonywania zadań przez sądy wojskowe w czasie wojny,

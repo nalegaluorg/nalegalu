@@ -8,10 +8,10 @@ pos: 594
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 594 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 25 kwietnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000594) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/594/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 25 kwietnia 2016 r.
-w sprawie wykazu zawodów regulowanych podlegających wzajemnemu ostrzeganiu państw członkowskich Na podstawie art. 57 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje: § 1. Określa się wykaz zawodów regulowanych:
+w sprawie wykazu zawodów regulowanych podlegających wzajemnemu ostrzeganiu państw członkowskich Na podstawie art. 57 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+§ 1. Określa się wykaz zawodów regulowanych:
 1) mających wpływ na bezpieczeństwo pacjentów, o których mowa w art. 29 ust. 2 pkt 1 i art. 56 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, stanowiący załącznik nr 1 do rozporządzenia;
 2) związanych z edukacją osób małoletnich, w tym opieką nad dziećmi i wczesną edukacją, o których mowa w art. 56 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, stanowiący załącznik nr 2 do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

@@ -8,7 +8,7 @@ pos: 1579
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o referendum lokalnym oraz ustawy o referendum ogólnokrajowym

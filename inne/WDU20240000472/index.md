@@ -8,10 +8,10 @@ pos: 472
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 marca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 472 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 22 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000472) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/472/text.pdf) |
 
-Poz. 472 ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 22 marca 2024 r.
 w sprawie dodatkowych informacji przekazywanych Krajowemu Depozytowi Papierów Wartościowych S.A.
-przed zawarciem umowy, której przedmiotem jest rejestracja papierów wartościowych Na podstawie art. 7c ust. 3 ustawy dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 2023 r.
-poz. 646, 825, 1723 i 1941) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres informacji, o których mowa w art. 7c ust. 1 ustawy dnia 29 lipca 2005 r.
+przed zawarciem umowy, której przedmiotem jest rejestracja papierów wartościowych Na podstawie art. 7c ust. 3 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r.
+poz. 646, 825, 1723 i 1941) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres informacji, o których mowa w art. 7c ust. 1 ustawy z dnia 29 lipca 2005 r.
 o obrocie instrumentami finansowymi, zwanych dalej „informacjami”, oraz termin ich przekazywania Krajowemu Depozytowi Papierów Wartościowych S.A.
 § 2. 1. Informacje obejmują:
 1) liczbę zaoferowanych papierów wartościowych;
@@ -38,22 +38,20 @@ o obrocie instrumentami finansowymi, zwanych dalej „informacjami”, oraz term
 5) datę zakończenia subskrypcji papierów wartościowych;
 6) datę przydziału papierów wartościowych;
 7) wskazanie, czy wyemitowane papiery wartościowe są papierami imiennymi czy na okaziciela;
-8) wskazanie rodzaju obligacji zgodnie przepisami rozdziału 2 ustawy dnia 15 stycznia 2015 r. o obligacjach (Dz. U.
-2022 r. poz. 2244 oraz 2023 r. poz. 825 i 1723) – w przypadku emisji obligacji;
+8) wskazanie rodzaju obligacji zgodnie z przepisami rozdziału 2 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U.
+z 2022 r. poz. 2244 oraz z 2023 r. poz. 825 i 1723) – w przypadku emisji obligacji;
 9) wskazanie agenta emisji albo informację o braku agenta emisji;
 10) wskazanie docelowego rynku notowań wyemitowanych papierów wartościowych – w przypadku gdy właściwy organ emitenta podjął uchwałę w sprawie ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym lub o wprowadzenie papierów wartościowych do ASO.
 2. Jeżeli wyemitowane papiery wartościowe były przedmiotem oferty publicznej, informacje obejmują również:
 1) datę rozpoczęcia oferty publicznej;
 2) datę zatwierdzenia prospektu albo informację o braku obowiązku udostępnienia prospektu do publicznej wiadomości ze wskazaniem podstawy prawnej braku tego obowiązku;
-Dziennik Ustaw – 2 – Poz. 472
 3) wskazanie liczby osób:
-a) do których kierowana była oferta publiczna – w przypadku oferty publicznej zwolnionej od obowiązku opublikowania prospektu na podstawie art. 1 ust. 4 lit. b Parlamentu Europejskiego i Rady (UE) 2017/1129 dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 30.06.2017, str. 12, późn. zm. ),
+a) do których kierowana była oferta publiczna – w przypadku oferty publicznej zwolnionej od obowiązku opublikowania prospektu na podstawie art. 1 ust. 4 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12, z późn. zm. ),
 b) które złożyły zapisy na papiery wartościowe objęte ofertą publiczną,
 c) którym zostały przydzielone papiery wartościowe w ramach przeprowadzonej oferty publicznej.
 § 3. Informacje są przekazywane:
-1) najpóźniej w dniu złożenia wniosku o zawarcie umowy, której przedmiotem jest rejestracja wyemitowanych papierów wartościowych w depozycie papierów wartościowych lub innym systemie rejestracji, o którym mowa w art. 49 ust. 1 Parlamentu Europejskiego i Rady (UE) nr 909/2014 dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257
-28.08.2014, str. 1, późn. zm. );
+1) najpóźniej w dniu złożenia wniosku o zawarcie umowy, której przedmiotem jest rejestracja wyemitowanych papierów wartościowych w depozycie papierów wartościowych lub innym systemie rejestracji, o którym mowa w art. 49 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 28.08.2014, str. 1, z późn. zm. );
 2) niezwłocznie, jeżeli nie jest możliwe dotrzymanie terminu, o którym mowa w pkt 1.
-§ 4. Rozporządzenie wchodzi w życie dniem 30 maja 2024 r.
+§ 4. Rozporządzenie wchodzi w życie z dniem 30 maja 2024 r.
 Minister Finansów: A. Domański
 

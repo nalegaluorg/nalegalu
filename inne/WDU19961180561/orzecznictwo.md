@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników*
 
 Łącznie: **167** orzeczeń
-(pominięto 172 orzeczeń sądów rejonowych)
+(pominięto 173 orzeczeń sądów rejonowych)
 
 ## art. 1 (19)
 

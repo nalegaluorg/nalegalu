@@ -8,7 +8,7 @@ pos: 1111
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kinematografii
@@ -35,6 +35,15 @@ Art. 31–33. (pominięte)
 
 **Art. 2.** Ustawy nie stosuje się do:
 
+- **1)** audiowizualnej rejestracji:
+    - **a)** wykonań utworów słownych, słowno-muzycznych, muzycznych i scenicznych,
+    - **b)** zdarzeń z życia politycznego, społecznego, kulturalnego, religijnego, gospodarczego i sportowego,
+    - **c)** sporządzanej na potrzeby nauki, nauczania, techniki, reklamy, promocji, informacji i instruktażu,
+    - **d)** sporządzanej na użytek wewnętrzny kościołów i innych związków wyznaniowych,
+    - **e)** zdarzeń z życia prywatnego;
+
+- **2)** produkcji filmu i rozpowszechniania filmów przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej oraz ministrowi właściwemu do spraw wewnętrznych lub zlecanych do produkcji przez takie jednostki, przeznaczonych do wykonywania zadań związanych z obronnością i bezpieczeństwem państwa lub porządkiem publicznym, a także produkcji filmów i rozpowszechniania filmów przez jednostki organizacyjne więziennictwa podległe Ministrowi Sprawiedliwości lub zlecanych do produkcji przez takie jednostki, przeznaczonych do wykonywania zadań w zakresie instruktażu oraz działalności ochronnej i resocjalizacyjnej.
+
 **Art. 3.**
 
 1. Państwo sprawuje mecenat nad działalnością w dziedzinie kinematografii, jako części kultury narodowej, polegający w szczególności na wspieraniu produkcji i promocji filmu, upowszechnianiu kultury filmowej oraz ochronie dziedzictwa kulturalnego w dziedzinie filmu.
@@ -51,6 +60,17 @@ Art. 31–33. (pominięte)
 - **2)** autor scenariusza lub adaptowanego utworu literackiego lub reżyser, lub wykonawca jednej z głównych ról są obywatelami polskimi, udział środków finansowych koproducenta mającego siedzibę na terytorium Rzeczypospolitej Polskiej w kosztach produkcji filmu stanowi co najmniej 20% przy filmie będącym koprodukcją dwustronną oraz co najmniej 10% przy filmie będącym koprodukcją wielostronną, przy czym środki te, do wysokości 80% kosztów produkcji filmu, muszą być wydatkowane na terytorium Rzeczypospolitej Polskiej, a ponadto główna wersja językowa wykonana jest w języku polskim.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dystrybucja filmu – nabycie prawa do eksploatacji filmu, w tym prawa do wykonywania kopii filmu i przystosowania filmu do eksploatacji w wersji językowej innej niż ta, w której został wytworzony, oraz przekazanie tego prawa innym podmiotom w celu rozpowszechniania filmu;
+- **2)** film niskobudżetowy – film, którego koszt produkcji jest niższy niż dwukrotność maksymalnej kwoty dofinansowania filmu ustalonej na dany rok przez Radę Polskiego Instytutu Sztuki Filmowej;
+- **3)** kino – miejsce i zespół urządzeń technicznych służących do publicznego wyświetlania filmu;
+- **4)** kopia wzorcowa – kopię filmu stanowiącą wzorzec przy produkcji kopii eksploatacyjnych;
+- **5)** koproducent filmu – podmiot, który wspólnie z producentem organizuje, prowadzi i ponosi odpowiedzialność za produkcję filmu lub który współfinansuje produkcję filmu oraz nabywa współudział w autorskich prawach majątkowych;
+- **6)** producent filmu – osobę fizyczną, osobę prawną lub jednostkę organizacyjną, o której mowa w art. 33 § 1 Kodeksu cywilnego, która podejmuje inicjatywę, faktycznie organizuje, prowadzi i ponosi odpowiedzialność za kreatywny, organizacyjny i finansowy proces produkcji filmu;
+- **7)** produkcja filmu – zespół czynności twórczych, organizacyjnych, ekonomicznych, prawnych i technicznych, prowadzących do wytworzenia filmu w postaci kopii wzorcowej;
+- **8)** rozpowszechnianie filmu – publiczne udostępnianie filmu w jakikolwiek sposób, z wyłączeniem nadawania przez nadawców telewizyjnych;
+- **9)** upowszechnianie kultury filmowej – działalność polegającą na organizowaniu przeglądów, festiwali, dni kultury filmowej, sympozjów i innej podobnej działalności kulturalnej i edukacyjnej, a także wydawanie czasopism oraz publikacji naukowych i kulturalnych, poświęconych sztuce filmowej;
+- **10)** usługi filmowe – usługi świadczone w ramach wykonywanej działalności gospodarczej przez przedsiębiorców na rzecz producentów dla celów produkcji filmowej, obejmujące w szczególności czynności dokonywane przy pomocy własnych pracowników, udostępnianie pomieszczeń i hal zdjęciowych, sprzętu filmowego bez obsługi oraz wykonywanie specjalistycznych usług transportowych.
 
 **Art. 6.**
 
@@ -123,6 +143,9 @@ Art. 31–33. (pominięte)
 3. (uchylony)
 
 **Art. 12.** Organami Instytutu są:
+
+- **1)** Dyrektor Instytutu, zwany dalej „Dyrektorem”;
+- **2)** Rada Instytutu, zwana dalej „Radą”.
 
 **Art. 13.**
 

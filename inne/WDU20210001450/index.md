@@ -8,10 +8,10 @@ pos: 1450
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1450 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 27 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1450/text.pdf) |
 
-Poz. 1450 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 27 lipca 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 16 listopada 2010 r. w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. z 2014 r. poz. 874), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 11 sierpnia 2020 r. zmieniającym rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. poz. 1397).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 11 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. poz. 1397), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro Dziennik Ustaw – 2 – Poz. 1450 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 listopada 2010 r.
-w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych Na podstawie art. 17 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064) zarządza się, co następuje: § 1. Uzbrojenie Służby Więziennej obejmuje:
+Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 listopada 2010 r.
+w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych Na podstawie art. 17 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064) zarządza się, co następuje:
+§ 1. Uzbrojenie Służby Więziennej obejmuje:
 1) broń palną: karabiny, karabinki, pistolety maszynowe, pistolety i rewolwery, pistolety sygnałowe, strzelby powtarzalne, granatniki;
 2) amunicję do broni palnej, granaty łzawiące i pociski niepenetracyjne, miotane ręcznie lub z broni palnej;
 3) urządzenia przeznaczone do miotania środków obezwładniających i pocisków niepenetracyjnych;

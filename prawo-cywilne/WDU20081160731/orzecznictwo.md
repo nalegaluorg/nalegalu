@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 30 maja 2008 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw*
 
-Łącznie: **394** orzeczeń
+Łącznie: **395** orzeczeń
 (pominięto 448 orzeczeń sądów rejonowych)
 
 ## art. 1 (39)
@@ -120,7 +120,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 maja 2008 r. o zmianie ustawy - Kodek
 
 - 2020-02-21 | SO | [III Pa 13/19](https://www.saos.org.pl/judgments/408322) | Wyrok
 
-## (ogólnie) (321)
+## (ogólnie) (322)
 
 - 2014-11-06 | SN | [II CSK 101/14](https://www.saos.org.pl/judgments/167235) | Postanowienie
 - 2021-06-23 | SO | [VI ACa 884/20](https://www.saos.org.pl/judgments/452471) | Wyrok
@@ -333,6 +333,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 maja 2008 r. o zmianie ustawy - Kodek
 - 2014-01-31 | SO | [XV Ca 1632/13](https://www.saos.org.pl/judgments/62028) | Wyrok
 - 2013-09-12 | SO | [I Ca 201/13](https://www.saos.org.pl/judgments/141553) | Wyrok
 - 2013-07-03 | SO | [I Ca 164/13](https://www.saos.org.pl/judgments/139961) | Wyrok
+- 2025-10-10 | SO | [II Ca 1528/24](https://www.saos.org.pl/judgments/545025) | Postanowienie
 - 2022-03-29 | SO | [II Ca 1835/21](https://www.saos.org.pl/judgments/465179) | Postanowienie
 - 2021-11-15 | SO | [II Ca 295/21](https://www.saos.org.pl/judgments/471659) | Postanowienie
 - 2021-06-22 | SO | [II Ca 377/20](https://www.saos.org.pl/judgments/483886) | Postanowienie

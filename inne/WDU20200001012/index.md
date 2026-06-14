@@ -8,10 +8,10 @@ pos: 1012
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1012 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 2 czerwca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1012/text.pdf) |
 
-Poz. 1012 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 2 czerwca 2020 r.
-w sprawie wysokości jednostkowej stawki opłaty za wydanie opinii o planie nawożenia azotem dla poszczególnej działki rolnej oraz terminu i sposobu uiszczania tej opłaty Na podstawie art. 105b ust. 5 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284, 695, 782 i 875) zarządza się, co następuje: § 1. Jednostkowa stawka opłaty za wydanie opinii o planie nawożenia azotem, zwana dalej „opłatą”, wynosi 8,95 zł dla każdej działki rolnej.
+w sprawie wysokości jednostkowej stawki opłaty za wydanie opinii o planie nawożenia azotem dla poszczególnej działki rolnej oraz terminu i sposobu uiszczania tej opłaty Na podstawie art. 105b ust. 5 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284, 695, 782 i 875) zarządza się, co następuje:
+§ 1. Jednostkowa stawka opłaty za wydanie opinii o planie nawożenia azotem, zwana dalej „opłatą”, wynosi 8,95 zł dla każdej działki rolnej.
 § 2. Opłatę należy uiścić przed sporządzeniem opinii o planie nawożenia azotem.
 § 3. Opłatę uiszcza się gotówką lub bezgotówkowo na rachunek bankowy wskazany przez okręgową stację chemiczno-rolniczą, do której dostarczono plan nawożenia azotem.
 § 4. Dokument potwierdzający uiszczenie opłaty dostarcza się bezpośrednio do okręgowej stacji chemiczno-rolniczej wraz z planem nawożenia azotem.

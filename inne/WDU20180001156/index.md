@@ -8,7 +8,7 @@ pos: 1156
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach
@@ -185,6 +185,10 @@ b) dodaje się ust. 4 w brzmieniu: „4. Cudzoziemcom otrzymującym pomoc socjal
 
 **Art. 86d.** Funkcjonariusz Straży Granicznej, o którym mowa w art. 86c:
 
+- **1)** wykonuje czynności, o których mowa w art. 29 ust. 1, z wyłączeniem czynności określonych w pkt 3 lit. c i pkt 4, i niezwłocznie przekazuje wniosek w celu rozpatrzenia Szefowi Urzędu;
+- **2)** wydaje zaświadczenie tożsamości ważne przez okres 30 dni od dnia wjazdu na terytorium Rzeczypospolitej Polskiej;
+- **3)** zawiadamia państwowego inspektora sanitarnego właściwego ze względu na miejsce wjazdu cudzoziemca na terytorium Rzeczypospolitej Polskiej o odmowie cudzoziemca, o którym mowa w art. 86c, lub osoby, w imieniu której cudzoziemiec ten występuje, poddania się badaniom lekarskim i zabiegom sanitarnym.
+
 **Art. 86e.** Przesłuchanie cudzoziemca, o którym mowa w art. 86c, w celu wyjaśnienia faktów istotnych dla rozstrzygnięcia sprawy, odbywa się w miejscu jego pobytu.
 
 **Art. 86f.**
@@ -229,5 +233,79 @@ b) dodaje się ust. 4 w brzmieniu: „4. Cudzoziemcom otrzymującym pomoc socjal
 
 **Art. 15.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 75:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Tymczasowy polski dokument podróży dla cudzoziemca można wydać cudzoziemcowi podlegającemu przesiedleniu lub relokacji, o których mowa w ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, który nie posiada ważnego dokumentu podróży.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Wydanie tymczasowego polskiego dokumentu podróży dla cudzoziemca następuje na wniosek cudzoziemca, z tym że wydanie tego dokumentu cudzoziemcowi, o którym mowa w ust. 2, może nastąpić także z urzędu. W przypadku, o którym mowa w ust. 1a, z wnioskiem występuje Szef Urzędu.”,
+    - **c)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) w ust. 1 i 1a – do jednokrotnego wjazdu na terytorium Rzeczypospolitej Polskiej;”;
+
+- **2)** w art. 83 w ust. 2 pkt 2 otrzymuje brzmienie: „2) tymczasowego polskiego dokumentu podróży dla cudzoziemca, jeżeli jest wydawany cudzoziemcowi podlegającemu:
+    - **a)** wydaleniu z terytorium Rzeczypospolitej Polskiej,
+    - **b)** przesiedleniu lub relokacji i nieposiadającemu ważnego dokumentu podróży;”.”;
+
+- **2)** odnośników nr 1 i 2 oraz art. 21 ustawy z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1607), które stanowią: „ Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:
+- **1)** dyrektywy Parlamentu Europejskiego i Rady 2013/32/UE z dnia 26 czerwca 2013 r. w sprawie wspólnych procedur udzielania i cofania ochrony międzynarodowej (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 60);
+- **2)** dyrektywy Parlamentu Europejskiego i Rady 2013/33/UE z dnia 26 czerwca 2013 r. w sprawie ustanowienia norm dotyczących przyjmowania wnioskodawców ubiegających się o ochronę międzynarodową (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 96). Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 31).” „Art. 21. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 27 w zakresie art. 69c–69h, art. 69j, art. 69l i art. 69m, pkt 72 oraz art. 11 pkt 4 i 5, które wchodzą w życie z dniem 1 stycznia 2016 r.”;
+- **3)** art. 354, art. 355 i art. 369 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949), które stanowią: „Art. 354. Przepisy:
+- **1)** art. 39 ust. 1 pkt 6, art. 46 ust. 3 pkt 1, art. 50 ust. 2, art. 54 ust. 1d pkt 8, art. 166 ust. 1 ustawy zmienianej w art. 2,
+- **2)** art. 197 § 2 pkt 2 ustawy zmienianej w art. 3,
+- **3)** art. 4 ust. 3 i 4 ustawy zmienianej w art. 6,
+- **4)** art. 116a ust. 2 ustawy zmienianej w art. 9,
+- **5)** art. 4 ust. 4 pkt 2 i ust. 7 pkt 1, art. 5 ust. 1 i 2 pkt 1 ustawy zmienianej w art. 17,
+- **6)** art. 8 ust. 1 pkt 6 lit. a ustawy zmienianej w art. 19,
+- **7)** art. 130 § 1 i 3 ustawy zmienianej w art. 23,
+- **8)** art. 5 ust. 1 pkt 4 ustawy zmienianej w art. 26,
+- **9)** art. 6 ust. 4 ustawy zmienianej w art. 31,
+- **10)** art. 107a ust. 2 ustawy zmienianej w art. 37,
+- **11)** art. 144 ust. 2 ustawy zmienianej w art. 41,
+- **12)** art. 134a ust. 2 ustawy zmienianej w art. 44,
+- **13)** art. 71 ust. 1 pkt 1 lit. g, ust. 3 pkt 1 oraz ust. 4 pkt 2 ustawy zmienianej w art. 53,
+- **14)** art. 24 ust. 5 pkt 4 ustawy zmienianej w art. 55,
+- **15)** art. 3 pkt 18 oraz art. 15 ust. 1 pkt 1 i 2 ustawy zmienianej w art. 57,
+- **16)** art. 12 ust. 1 pkt 1 ustawy zmienianej w art. 58,
+- **17)** art. 43 ust. 1 pkt 27 ustawy zmienianej w art. 59,
+- **18)** art. 89 ust. 2 i ust. 8 pkt 1, art. 107 ust. 5b pkt 12 ustawy zmienianej w art. 60,
+- **19)** art. 2 ust. 1 pkt 35, art. 12 ust. 2 pkt 2, art. 55 ust. 1 ustawy zmienianej w art. 63,
+- **20)** art. 27 ust. 3 i art. 67 ust. 5 pkt 1 ustawy zmienianej w art. 64,
+- **21)** art. 9 ust. 5 pkt 2 lit. f ustawy zmienianej w art. 65,
+- **22)** art. 130 ust. 6 ustawy zmienianej w art. 66,
+- **23)** art. 2 pkt 13 ustawy zmienianej w art. 76,
+- **24)** art. 7 ust. 1 pkt 20, art. 14 pkt 5 i 6, art. 57 ust. 1 i 2, art. 62 ust. 1, art. 107 ust. 6 pkt 1 i art. 127 ust. 2 ustawy zmienianej w art. 90,
+- **25)** art. 19 ust. 1 pkt 2 lit. c ustawy zmienianej w art. 93,
+- **26)** art. 74 ust. 2 pkt 3 ustawy zmienianej w art. 94,
+- **27)** art. 26 ust. 1 pkt 1 ustawy zmienianej w art. 95,
+- **28)** art. 64 ust. 4 pkt 1 i ust. 6 pkt 1 ustawy zmienianej w art. 98,
+- **29)** art. 237 ust. 1 pkt 2 ustawy zmienianej w art. 104,
+- **30)** art. 84 ust. 2 pkt 2 ustawy zmienianej w art. 106,
+- **31)** art. 2 pkt 6, art. 9 pkt 2, art. 11 ust. 5, art. 14 ust. 2 pkt 2 i ust. 3 ustawy zmienianej w art. 110,
+- **32)** art. 2 pkt 17 ustawy zmienianej w art. 113 – w brzmieniu nadanym niniejszą ustawą stosuje się również do szkół ponadgimnazjalnych i klas dotychczasowych szkół ponadgimnazjalnych w szkołach ponadpodstawowych do czasu zakończenia kształcenia w tych szkołach i klasach.
+
 **Art. 355.** Przepisy:
+
+- **1)** art. 132e ust. 1 pkt 4, art. 166 ust. 1 ustawy zmienianej w art. 2,
+- **2)** art. 191 § 1 pkt 1 i § 5 pkt 1, 3 i 4 oraz art. 197 § 2 pkt 1 ustawy zmienianej w art. 3,
+- **3)** art. 4 ust. 4 ustawy zmienianej w art. 6,
+- **4)** art. 4 ust. 4 pkt 2 i ust. 7 pkt 1, art. 5 ust. 1 i 2 pkt 1 ustawy zmienianej w art. 17,
+- **5)** art. 130 § 1 ustawy zmienianej w art. 23,
+- **6)** art. 6 ust. 4 ustawy zmienianej w art. 31,
+- **7)** art. 144 ust. 2 ustawy zmienianej w art. 41,
+- **8)** art. 71 ust. 1 pkt 1 lit. g, ust. 3 pkt 1 oraz ust. 4 pkt 2 ustawy zmienianej w art. 53,
+- **9)** art. 24 ust. 5 pkt 4 ustawy zmienianej w art. 55,
+- **10)** art. 3 pkt 18 oraz art. 15 ust. 1 pkt 1 ustawy zmienianej w art. 57,
+- **11)** art. 43 ust. 1 pkt 27 ustawy zmienianej w art. 59,
+- **12)** art. 89 ust. 2 i art. 107 ust. 5b pkt 12 ustawy zmienianej w art. 60,
+- **13)** art. 12 ust. 2 pkt 1, ust. 4 pkt 1 i ust. 5 pkt 1 lit. a ustawy zmienianej w art. 63,
+- **14)** art. 130 ust. 6 ustawy zmienianej w art. 66,
+- **15)** art. 2 pkt 13 ustawy zmienianej w art. 76,
+- **16)** art. 2 pkt 2 ustawy zmienianej w art. 79,
+- **17)** art. 42 pkt 8 i 9 ustawy zmienianej w art. 90,
+- **18)** art. 19 ust. 1 pkt 2 lit. c ustawy zmienianej w art. 93,
+- **19)** art. 2 pkt 17 ustawy zmienianej w art. 113 – stosuje się również do dotychczasowych gimnazjów do czasu zakończenia kształcenia.” „Art. 369. Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem:
+- **1)** art. 1, art. 116–219, art. 314, art. 326–336, art. 347, art. 348, art. 358 i art. 359, które wchodzą w życie po upływie 3 dni od dnia ogłoszenia;
+- **2)** art. 4 pkt 9, 12, 14 lit. a, art. 15 pkt 26, pkt 29 lit. a w zakresie art. 22 ust. 1 pkt 3a, pkt 48, 49, pkt 54 w zakresie art. 36a ust. 14 i pkt 114 w zakresie art. 71d, art. 66 pkt 1, art. 80, art. 111 pkt 2, art. 113 pkt 2, art. 115, art. 220– 223, art. 225–313, art. 315–325, art. 349–357 i art. 360–368, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 15 pkt 118 lit. f i h oraz pkt 123 lit. m, które wchodzą w życie z dniem 1 lutego 2017 r.;
+- **4)** art. 15 pkt 31, pkt 32 w zakresie art. 22ac ust. 1, art. 22ae ust. 2, art. 22ak ust. 1 i art. 85b ust. 2 i 5, pkt 33–43, pkt 44 w zakresie art. 22ar i art. 22at ust. 1 pkt 1, pkt 46, 47 i 120, art. 105 i art. 337–346, które wchodzą w życie z dniem 15 lutego 2017 r.;
+- **5)** art. 4 pkt 5, 10 i 11, które wchodzą w życie z dniem 1 marca 2017 r.;
+- **6)** art. 224, który wchodzi w życie z dniem 1 kwietnia 2017 r.;
+- **7)** art. 66 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r.”.
+
 

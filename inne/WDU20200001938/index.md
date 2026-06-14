@@ -8,10 +8,10 @@ pos: 1938
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 listopada 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1938 ROZPORZĄDZENIE MINISTRA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU z dnia 30 października 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1938/text.pdf) |
 
-Poz. 1938 ROZPORZĄDZENIE MINISTRA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU z dnia 30 października 2020 r.
-w sprawie wsparcia finansowego dla twórców i artystów w postaci pomocy socjalnej Na podstawie art. 15m ust. 5 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki uzyskiwania wsparcia finansowego, o którym mowa w art. 15m ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, zwanego dalej „wsparciem finansowym”, w tym:
+w sprawie wsparcia finansowego dla twórców i artystów w postaci pomocy socjalnej Na podstawie art. 15m ust. 5 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki uzyskiwania wsparcia finansowego, o którym mowa w art. 15m ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, zwanego dalej „wsparciem finansowym”, w tym:
 1) maksymalną wysokość tego wsparcia;
 2) dane, które wniosek o przyznanie wsparcia finansowego powinien zawierać;
 3) tryb składania wniosku oraz przekazywania środków na wsparcie finansowe.
@@ -38,7 +38,6 @@ w sprawie wsparcia finansowego dla twórców i artystów w postaci pomocy socjal
 5. Ogłoszenie o naborze wniosków zawiera informację o:
 1) prognozowanym limicie środków przeznaczonych na wsparcie finansowe;
 2) osobach uprawnionych do złożenia wniosków;
-Dziennik Ustaw – 2 – Poz. 1938
 3) podmiocie przyjmującym wnioski;
 4) miejscu i sposobie składania wniosków;
 5) dokumentach dołączanych do wniosków.

@@ -8,7 +8,7 @@ pos: 36
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów
@@ -28,6 +28,8 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/36/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 listopada 2020 r. o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów (Dz. U. poz. 2398) w art. 4 w ust. 1 pkt 6 i 7 otrzymują brzmienie: „6) 2026 r. – 135 474 500 zł;
+
+- **7)** 2027 r. – 161 610 852 zł.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

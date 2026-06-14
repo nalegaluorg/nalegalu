@@ -8,10 +8,10 @@ pos: 1119
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1119 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 23 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001119) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1119/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 23 maja 2023 r.
-zmieniające rozporządzenie w sprawie podstaw programowych kształcenia w zawodach szkolnictwa branżowego oraz dodatkowych umiejętności zawodowych w zakresie wybranych zawodów szkolnictwa branżowego Na podstawie art. 46 ust. 1 pkt 3 i 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2023 zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 16 maja 2019 r. w sprawie podstaw programowych cenia w zawodach szkolnictwa branżowego oraz dodatkowych umiejętności zawodowych w zakresie wybranych szkolnictwa branżowego (Dz. U. poz. 991, z 2020 r. poz. 635, z 2021 r. poz. 1087 i 1562 oraz z 2022 r. poz. 1109) dza się następujące zmiany:
+zmieniające rozporządzenie w sprawie podstaw programowych kształcenia w zawodach szkolnictwa branżowego oraz dodatkowych umiejętności zawodowych w zakresie wybranych zawodów szkolnictwa branżowego Na podstawie art. 46 ust. 1 pkt 3 i 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 16 maja 2019 r. w sprawie podstaw programowych cenia w zawodach szkolnictwa branżowego oraz dodatkowych umiejętności zawodowych w zakresie wybranych szkolnictwa branżowego (Dz. U. poz. 991, z 2020 r. poz. 635, z 2021 r. poz. 1087 i 1562 oraz z 2022 r. poz. 1109) dza się następujące zmiany:
 1) w § 1 w ust. 1:
 a) pkt 4 otrzymuje brzmienie: „4) chemicznej i ochrony środowiska (CHM), które stanowią załącznik nr 4 do rozporządzenia;”,
 b) pkt 21 otrzymuje brzmienie: „21) poligraficzno-księgarskiej (PGF), które stanowią załącznik nr 21 do rozporządzenia;”;
@@ -47,9 +47,7 @@ b) przed podstawą programową kształcenia w zawodzie ASYSTENT KIEROWNIKA PRODU
 EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań zawodowych w zakresie kwalifikacji: AUD.10 Administrowanie dokumentacją w produkcji audiowizualnej jest niezbędne osiągnięcie niżej wymienionych efektów kształcenia: AUD.10. Administrowanie dokumentacją w produkcji audiowizualnej AUD.10.1. Bezpieczeństwo i higiena pracy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) rozróżnia pojęcia związane z bezpieczeń- 1) wymienia przepisy prawa określające wymagania stwem i higieną pracy, ochroną przeciw- w zakresie bezpieczeństwa i higieny pracy, ochrony pożarową, ochroną środowiska i ergono- przeciwpożarowej i ochrony środowiska mią 2) wyjaśnia znaczenie pojęć: bezpieczeństwo pracy, higiena pracy, ochrona pracy, ergonomia
 3) definiuje pojęcia związane z wypadkami przy pracy i chorobami zawodowymi
-2) rozróżnia zadania i uprawnienia instytucji oraz służb działających w zakresie ochrony pracy i ochrony środowiska
-1) wymienia instytucje oraz służby działające w zakresie ochrony pracy i ochrony środowiska
-2) wymienia zadania i uprawnienia instytucji oraz służb sprawujących nadzór nad ochroną pracy i ochroną środowiska
+2) rozróżnia zadania i uprawnienia instytu- 1) wymienia instytucje oraz służby działające w zakresie cji oraz służb działających w zakresie ochrony pracy i ochrony środowiska ochrony pracy i ochrony środowiska 2) wymienia zadania i uprawnienia instytucji oraz służb sprawujących nadzór nad ochroną pracy i ochroną środowiska
 3) opisuje prawa i obowiązki pracownika 1) wymienia prawa i obowiązki pracodawcy w zakresie oraz pracodawcy w zakresie bezpieczeń- bezpieczeństwa i higieny pracy stwa i higieny pracy 2) opisuje prawa i obowiązki pracownika na stanowisku administratora produkcji filmowej i telewizyjnej w zakresie bezpieczeństwa i higieny pracy
 3) wskazuje konsekwencje nieprzestrzegania obowiązków pracownika i pracodawcy w zakresie bezpieczeństwa i higieny pracy
 4) opisuje skutki oddziaływania czynników 1) wymienia czynniki szkodliwe działające na organizm szkodliwych na organizm człowieka człowieka na stanowisku pracy
@@ -115,8 +113,7 @@ g) czas trwania ochrony przewidzianej w prawie autorskim oraz jej zakres
 2) określa składki na ubezpieczenia społeczne i ubezpieczenia zdrowotne w przypadku umów cywilnoprawnych
 3) określa zasady podlegania ubezpieczeniom społecznym i zdrowotnym z tytułu umów cywilnoprawnych
 4) stosuje przepisy prawa dotyczące ubezpieczeń społecznych w odniesieniu do umów cywilnoprawnych
-8) stosuje aplikacje, technologie i narzędzia wspomagające wykonywanie zadań zawodowych
-1) rozróżnia programy komputerowe do tworzenia dokumentacji produkcji audiowizualnej i kosztorysu materiałów audiowizualnych
+8) stosuje aplikacje, technologie i narzędzia 1) rozróżnia programy komputerowe do tworzenia dokuwspomagające wykonywanie zadań za- mentacji produkcji audiowizualnej i kosztorysu matewodowych riałów audiowizualnych
 2) obsługuje arkusze kalkulacyjne (podstawowe funkcje obliczeniowe, formatowanie warunkowe, tabele przestawne, makro)
 3) tworzy narzędzie do rozliczania produkcji filmowej dla producenta i podmiotu finansującego
 4) wymienia programy komputerowe i aplikacje do tworzenia dokumentów związanych z produkcją audiowizualną
@@ -168,7 +165,7 @@ g) czas trwania ochrony przewidzianej w prawie autorskim oraz jej zakres
 8) rozlicza inne świadczenia związane 1) stosuje zasady rozliczania podróży służbowych zgodz produkcją audiowizualną nie z regulaminem produkcji audiowizualnej lub zawartymi umowami
 2) rozlicza rachunki kosztów podróży służbowych krajowych i zagranicznych
 3) oblicza i wypłaca diety zgodnie z regulaminem produkcji audiowizualnej lub zawartymi umowami AUD.10.4. Rozliczanie dofinansowania produkcji audiowizualnej Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) rozróżnia rodzaje finansowania produkcji 1) rozróżnia rodzaje dofinansowania produkcji audiofilmowej i telewizyjnej wizualnej ze środków publicznych, np. dotacje Polskiego Instytutu Sztuki Filmowej (PISF), system wsparcia produkcji audiowizualnej w formie tzw. „zachęt”, finansowanie z regionalnych funduszy filmowych, finansowanie z Programu Kreatywna Europa (komponent Media), finansowanie z funduszu Eurimages, dotacje Filmoteki Narodowej Instytutu Audiowizualnego (FINA)
+1) rozróżnia rodzaje finansowania produkcji 1) rozróżnia rodzaje dofinansowania produkcji audiofilmowej i telewizyjnej wizualnej ze środków publicznych, np. dotacje Polskiego Instytutu Sztuki Filmowej (PISF), system wsparcia produkcji audiowizualnej w formie tzw. „zachęt”, finansowanie z regionalnych funduszy filmowych, finansowanie z Programu Kreatywna Europa (komponent Media), finansowanie z funduszu Eurimages, dotacje Filmoteki Narodowej – Instytutu Audiowizualnego (FINA)
 2) rozróżnia rodzaje dofinansowania produkcji audiowizualnej ze środków prywatnych (np. środki koproducentów, środki inwestorów, minimum gwarantowane, finansowanie społecznościowe (crowdfunding), wkłady rzeczowe)
 3) rozróżnia rodzaje dofinansowań produkcji audiowizualnej ze środków publicznych w państwach europejskich i na głównych rynkach światowych (USA, Kanada, Japonia, Indie)
 2) rozlicza dotacje udzielone przez PISF 1) sporządza raporty częściowe w ramach rozliczenia dotacji PISF
@@ -181,47 +178,24 @@ g) czas trwania ochrony przewidzianej w prawie autorskim oraz jej zakres
 4) rozlicza środki pozyskane z regionalnych 1) rozróżnia sposoby i zasady wspierania produkcji filfunduszy filmowych mowej przez regionalne fundusze filmowe (dotacja lub koprodukcja)
 2) sporządza raporty częściowe w ramach rozliczenia środków z regionalnych funduszy filmowych
 3) sporządza raport końcowy w ramach rozliczenia środków z regionalnych funduszy filmowych AUD.10.5. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-d) z usługami świadczonymi w danym zawodzie
-1) rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań zawodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu ewentualłowane wyraźnie, w standardowej od- nie fragmentu wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone infora także proste wypowiedzi pisemne macje w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiaśrodków językowych w języku obcym jące realizację czynności zawodowych w zakresie: nowożytnym (ze szczególnym uwzględ- a) czynności wykonywanych na stanowisku pracy, nieniem środków leksykalnych) umożli- w tym związanych z zapewnieniem bezpieczeńwiającym realizację czynności zawodo- stwa i higieny pracy wych w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koa) ze stanowiskiem pracy i jego wypo- niecznych do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zab) z głównymi technologiami stosowa- dań zawodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumenc) z dokumentacją związaną z danym tów związanych z wykonywaniem czynności zazawodem wodowych
+d) z usługami świadczonymi w danym e) świadczonych usług, w tym obsługi klienta zawodzie
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu ewentualłowane wyraźnie, w standardowej od- nie fragmentu wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone infora także proste wypowiedzi pisemne macje w języku obcym nowożytnym w zakresie 3) rozpoznaje związki między poszczególnymi częumożliwiającym realizację zadań zawo- ściami tekstu dowych: 4) układa informacje w określonym porządku
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) nazywa przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
+3) samodzielnie tworzy krótkie, proste, 1) nazywa przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas roz- 5) pyta o upodobania i intencje innych osób mowy z innym pracownikiem, 6) proponuje, zachęca klientem, kontrahentem, w tym roz- 7) stosuje zwroty i formy grzecznościowe mowy telefonicznej) w typowych 8) dostosowuje styl wypowiedzi do sytuacji sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje semnego w języku obcym nowożytnym zawarte w materiałach wizualnych (np. wykresach, w typowych sytuacjach związanych symbolach, piktogramach, schematach) oraz audioz wykonywaniem czynności zawodo- wizualnych (np. filmach instruktażowych) wych 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
+6) wykorzystuje strategie służące doskona- 1) korzysta ze słownika dwujęzycznego i jednojęzyczleniu własnych umiejętności językowych nego oraz podnoszące świadomość językową: 2) współdziała z innymi osobami, realizując zadania jęa) wykorzystuje techniki samodzielnej zykowe pracy nad językiem 3) korzysta z tekstów w języku obcym nowożytnym,
+b) współdziała w grupie również za pomocą technologii informacyjno-komuc) korzysta ze źródeł informacji w ję- nikacyjnych zyku obcym nowożytnym 4) identyfikuje słowa klucze, internacjonalizmy
+d) stosuje strategie komunikacyjne 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby i kompensacyjne w przybliżeniu określić znaczenie słowa
 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne AUD.10.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury i etyki zawodo- 1) stosuje zasady etykiety w komunikacji z przełożonym wej i ze współpracownikami w codziennych kontaktach
 2) rozróżnia zasady etyczne i prawne związane z ochroną własności intelektualnej i ochroną danych osobowych
@@ -261,7 +235,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 4) diagnozuje podstawowe bariery w osiąganiu pożądanej efektywności pracy zespołu
 5) proponuje rozwiązania techniczne i orga- 1) stosuje rozwiązania techniczne i organizacyjne wpłynizacyjne wpływające na poprawę wa- wające na poprawę warunków i jakości pracy runków i jakości pracy 2) wskazuje rozwiązania techniczne i organizacyjne wpływające na poprawę warunków i jakości pracy
 3) dokonuje prostych usprawnień stanowiska pracy WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE ADMINISTRATOR PRODUKCJI FILMOWEJ I TELEWIZYJNEJ Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji AUD.10. Administrowanie dokumentacją w produkcji audiowizualnej Pracownia przygotowania produkcji i postprodukcji audiowizualnej wyposażona w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, do urządzenia funkcyjnego, z pakietem programów biurowych oraz oprogramowaniem do planowania i budżetowania produkcji, stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej do internetu, do urządzenia wielofunkcyjnego, z pakietem programów biurowych oraz oprogramowaniem do nia i budżetowania produkcji, urządzenie wielofunkcyjne (drukarka sieciowa, skaner, kserograf).
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji AUD.10. Administrowanie dokumentacją w produkcji audiowizualnej Pracownia przygotowania produkcji i postprodukcji audiowizualnej wyposażona w: – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, do urządzenia funkcyjnego, z pakietem programów biurowych oraz oprogramowaniem do planowania i budżetowania produkcji, – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej do internetu, do urządzenia wielofunkcyjnego, z pakietem programów biurowych oraz oprogramowaniem do nia i budżetowania produkcji, – urządzenie wielofunkcyjne (drukarka sieciowa, skaner, kserograf).
 Miejsce realizacji praktyk zawodowych: biuro produkcyjne, biuro redakcji TV, spółka producencka i inne podmioty wiące potencjalne miejsce zatrudnienia absolwentów szkół prowadzących kształcenie w zawodzie.
 Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 4 tygodnie (140 godzin).
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONEJ W ZAWODZIE AUD.10. Administrowanie dokumentacją w produkcji audiowizualnej Nazwa jednostki efektów kształcenia Liczba godzin AUD.10.1. Bezpieczeństwo i higiena pracy 16 AUD.10.2. Podstawy planowania produkcji filmowej i obsługi prawno-księgowej 144 AUD.10.3. Administrowanie dokumentacją finansową w produkcji audiowizualnej 256 AUD.10.4. Rozliczanie dofinansowania produkcji audiowizualnej 96 AUD.10.5. Język obcy zawodowy 96 Razem 608 AUD.10.6. Kompetencje personalne i społeczne AUD.10.7. Organizacja pracy małych zespołów
@@ -338,7 +312,7 @@ g) czas trwania ochrony przewidzianej w prawie autorskim i jej zakres
 4) sporządza kosztorys realizacji zamówienia
 5) opisuje podstawy prawa podatkowego i prawa ubezpieczeń społecznych
 7) współpracuje z reżyserem i kierowni- 1) posługuje się tzw. językiem filmowym kiem produkcji oraz zespołem realizują- 2) wykonuje zadania reżysera cym obraz na planie 3) komunikuje się z kierownikiem produkcji
-4) komunikuje się ze scenografem, pionem oświetlającym, wykonawcami lalek w przypadku animacji poklatkowej
+4) komunikuje się ze scenografem, pionem oświetlającym, wykonawcami lalek – w przypadku animacji poklatkowej
 8) stosuje aplikacje, technologie i narzędzia 1) stosuje programy komputerowe służące tworzeniu dowspomagające wykonywanie zadań za- kumentacji produkcji i sporządzaniu kosztorysu wodowych 2) wykorzystuje oprogramowanie komputerowe i aplikacje do tworzenia dokumentacji produkcji animacji filmowej
 3) wykorzystuje oprogramowanie komputerowe i aplikacje do archiwizacji dokumentacji produkcji animacji filmowej
 4) wykorzystuje narzędzia do monitorowania procesów produkcji animacji filmowej, w tym realizacji zadań zgodnie z harmonogramem
@@ -377,8 +351,7 @@ g) czas trwania ochrony przewidzianej w prawie autorskim i jej zakres
 11) stosuje formaty wideo (np. AVI, MOV)
 12) animuje lalki i obiekty animacyjne
 13) przygotowuje pliki do postprodukcji AUD.11.4. Stosowanie technik animacji rysunkowej Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) stosuje techniki manualne animacji filmowej
-1) wykonuje rysunki w technice manualnej na papierze dla animacji filmowej
+1) stosuje techniki manualne animacji fil- 1) wykonuje rysunki w technice manualnej na papierze mowej dla animacji filmowej
 2) posługuje się technikami kompozycji ruchu w kadrze na potrzeby animacji rysunkowej
 3) rozróżnia sposoby komponowania obrazu w kadrze w animacji rysunkowej
 4) tworzy kluczowe fazy ruchu w kadrze na potrzeby animacji rysunkowej
@@ -458,58 +431,25 @@ szybki, gwałtowny, powolny, płynny), stosując zasadę timingu w animacji pokl
 3) wykorzystuje techniczne rozwiązania 1) prezentuje prace wykonane z wykorzystaniem technik właściwe dla animacji filmowej cyfrowych
 2) dokumentuje prace wykonane z wykorzystaniem technik cyfrowych
 3) określa zapotrzebowanie na sprzęt, oprogramowanie i materiały do produkcji animacji filmowej AUD.11.9. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-d) z usługami świadczonymi w danym zawodzie
-1) rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań zawodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiaśrodków językowych w języku obcym jące realizację czynności zawodowych w zakresie: nowożytnym (ze szczególnym uwzględ- a) czynności wykonywanych na stanowisku pracy, nieniem środków leksykalnych) umożli- w tym związanych z zapewnieniem bezpieczeńwiającym realizację czynności zawodo- stwa i higieny pracy wych w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koa) ze stanowiskiem pracy i jego wypo- niecznych do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zab) z głównymi technologiami stosowa- dań zawodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumenc) z dokumentacją związaną z danym tów związanych z wykonywaniem czynności zazawodem wodowych
+d) z usługami świadczonymi w danym e) świadczonych usług, w tym obsługi klienta zawodzie
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu ewentualłowane wyraźnie, w standardowej od- nie fragmentu wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone infora także proste wypowiedzi pisemne w ję- macje zyku obcym nowożytnym w zakresie 3) rozpoznaje związki między poszczególnymi częumożliwiającym realizację zadań zawo- ściami tekstu dowych: 4) układa informacje w określonym porządku
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
-1) określa główną myśl wypowiedzi lub tekstu ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) nazywa przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, 1) nazywa przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
+a) reaguje ustnie (np. podczas roz- 5) pyta o upodobania i intencje innych osób mowy z innym pracownikiem, 6) proponuje, zachęca klientem, kontrahentem, w tym roz- 7) stosuje zwroty i formy grzecznościowe mowy telefonicznej) w typowych 8) dostosowuje styl wypowiedzi do sytuacji sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-1) rozpoczyna, prowadzi i kończy rozmowę
-2) uzyskuje i przekazuje informacje i wyjaśnienia
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) pyta o upodobania i intencje innych osób
-6) proponuje, zachęca
-7) stosuje zwroty i formy grzecznościowe
-8) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje semnego w języku obcym nowożytnym zawarte w materiałach wizualnych (np. wykresach, w typowych sytuacjach związanych symbolach, piktogramach, schematach) oraz audiowiz wykonywaniem czynności zawodo- zualnych (np. filmach instruktażowych) wych 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
-6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne AUD.11.10. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące doskona- 1) korzysta ze słownika dwujęzycznego i jednojęzycznego leniu własnych umiejętności językowych 2) współdziała z innymi osobami, realizując zadania jęoraz podnoszące świadomość językową: zykowe
+a) wykorzystuje techniki samodzielnej 3) korzysta z tekstów w języku obcym nowożytnym, pracy nad językiem również za pomocą technologii informacyjno-komub) współdziała w grupie nikacyjnych
+c) korzysta ze źródeł informacji w ję- 4) identyfikuje słowa klucze, internacjonalizmy zyku obcym nowożytnym 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby
+d) stosuje strategie komunikacyjne w przybliżeniu określić znaczenie słowa i kompensacyjne 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne AUD.11.10. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury i etyki zawodo- 1) stosuje zasady etykiety w komunikacji z przełożonym wej i ze współpracownikami w codziennych kontaktach
 2) rozróżnia zasady etyczne związane z ochroną efektów pracy własnej, swoich współpracowników oraz osób trzecich
 2) planuje wykonanie zadania i zarządza 1) ocenia czas i budżet potrzebny do wykonania zadania czasem 2) planuje działania zgodnie z możliwościami ich realizacji
@@ -545,9 +485,9 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 4) diagnozuje podstawowe bariery w osiąganiu pożądanej efektywności pracy zespołu
 5) proponuje rozwiązania techniczne i orga- 1) stosuje rozwiązania techniczne i organizacyjne wpłynizacyjne wpływające na poprawę wa- wające na poprawę warunków i jakości pracy runków i jakości pracy 2) wskazuje rozwiązania techniczne i organizacyjne wpływające na poprawę warunków i jakości pracy
 3) dokonuje prostych usprawnień stanowiska pracy WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE TECHNIK ANIMACJI FILMOWEJ Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji AUD.11. Realizacja produkcji filmowej niką animacji Pracownia animacji 2D i 3D wyposażona w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, do urządzenia funkcyjnego, z pakietem programów do animacji filmowej (np. Photoshop, Blender), programów biurowych, graficzny, urządzenie do prezentacji, stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej do internetu, do urządzenia wielofunkcyjnego, z pakietem programów do animacji filmowej (np. Photoshop, programów biurowych, tablety graficzne, składane stanowiska z pulpitami do animacji rysunkowej oraz materiały kreślarskie (papier, kalki, ołówki twardości, węgiel kreślarski) (jedno stanowisko dla jednego ucznia), urządzenie wielofunkcyjne (drukarka sieciowa, skaner, kserograf).
-Pracownia animacji poklatkowej wyposażona w: żaluzje lub rolety zaciemniające światło zewnętrzne, urządzenie wielofunkcyjne (drukarka sieciowa, skaner, kserograf), stanowisko do animacji poklatkowej dla nauczyciela wyposażone w: stół, komputer podłączony do sieci lokalnej z dostępem do internetu, do urządzenia wielofunkcyjnego, z pakietem gramów do poklatkowej animacji filmowej (np. Dragonframe) i programów biurowych, urządzenie do zestaw fotograficzny: aparat fotograficzny z obiektywem lub kamera internetowa kompatybilne z programem poklatkowej animacji filmowej, statyw do aparatu lub kamery, światło punktowe, konstrukcję animacyjną z wymienną głową i stopami (uwzględniającą zróżnicowane sposoby mocowania podłoża), obiekt animacyjny, stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) wyposażone w: stół, komputer czony do sieci lokalnej z dostępem do internetu, do urządzenia wielofunkcyjnego, z pakietem programów filmowej (np. Dragonframe) i programów biurowych, zestaw fotograficzny: aparat fotograficzny z obiektywem lub kamera internetowa kompatybilne z programem gonframe), statyw do aparatu lub kamery, światło punktowe, konstrukcję animacyjną z wymienną głową i stopami (uwzględniającą zróżnicowane sposoby mocowania lalki obiekt animacyjny.
-Szkoła zapewnia dostęp do studia animacji poklatkowej wyposażonego w: co najmniej dwie stacje robocze do animacji; każda stacja składa się z: aparatu cyfrowego (body) min. 24MP, zasilacza do aparatu cyfrowego (według modelu), stacji komputerowej (spełniającej co najmniej następujące wymagania techniczne: procesor, który umożliwi dajną, wielowątkową pracę (na wielu oknach jednocześnie) na programach dla grafików i programach oraz obsługuje korekcję błędów ECC, płyta główna z 6 portami w standardzie USB3.0, Wi-Fi, Bluetooth, growana karta dźwiękowa, zintegrowany układ graficzny, co najmniej 16GB RAM, dysk systemowy SSD dysk HDD 4TB, karta grafiki z co najmniej 4GB z certyfikatem ISV), klawiatury, myszki bezprzewodowej, wózka stacji komputerowej, monitora do stacji komputerowej, obiektywu podstawowego, obiektywu szerokokątnego, obiektywu długiego, adaptera montażu obiektywu (według modelu), statywu fotograficznego (tripod) z głowicą, oświetlenia, akcesoriów do lamp (statyw oświetleniowy) i modyfikatorów światła, kontrolera USB oraz ze stołu do animacji wraz ze scenografią i obiektami do animacji.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji AUD.11. Realizacja produkcji filmowej niką animacji Pracownia animacji 2D i 3D wyposażona w: – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, do urządzenia funkcyjnego, z pakietem programów do animacji filmowej (np. Photoshop, Blender), programów biurowych, graficzny, urządzenie do prezentacji, – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej do internetu, do urządzenia wielofunkcyjnego, z pakietem programów do animacji filmowej (np. Photoshop, programów biurowych, tablety graficzne, – składane stanowiska z pulpitami do animacji rysunkowej oraz materiały kreślarskie (papier, kalki, ołówki twardości, węgiel kreślarski) (jedno stanowisko dla jednego ucznia), – urządzenie wielofunkcyjne (drukarka sieciowa, skaner, kserograf).
+Pracownia animacji poklatkowej wyposażona w: – żaluzje lub rolety zaciemniające światło zewnętrzne, – urządzenie wielofunkcyjne (drukarka sieciowa, skaner, kserograf), – stanowisko do animacji poklatkowej dla nauczyciela wyposażone w: – – stół, – – komputer podłączony do sieci lokalnej z dostępem do internetu, do urządzenia wielofunkcyjnego, z pakietem gramów do poklatkowej animacji filmowej (np. Dragonframe) i programów biurowych, urządzenie do – – zestaw fotograficzny: aparat fotograficzny z obiektywem lub kamera internetowa kompatybilne z programem poklatkowej animacji filmowej, statyw do aparatu lub kamery, światło punktowe, – – konstrukcję animacyjną z wymienną głową i stopami (uwzględniającą zróżnicowane sposoby mocowania podłoża), – – obiekt animacyjny, – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) wyposażone w: stół, komputer czony do sieci lokalnej z dostępem do internetu, do urządzenia wielofunkcyjnego, z pakietem programów filmowej (np. Dragonframe) i programów biurowych, – zestaw fotograficzny: aparat fotograficzny z obiektywem lub kamera internetowa kompatybilne z programem gonframe), statyw do aparatu lub kamery, światło punktowe, – konstrukcję animacyjną z wymienną głową i stopami (uwzględniającą zróżnicowane sposoby mocowania lalki – obiekt animacyjny.
+Szkoła zapewnia dostęp do studia animacji poklatkowej wyposażonego w: – co najmniej dwie stacje robocze do animacji; każda stacja składa się z: – – aparatu cyfrowego (body) min. 24MP, – – zasilacza do aparatu cyfrowego (według modelu), – – stacji komputerowej (spełniającej co najmniej następujące wymagania techniczne: procesor, który umożliwi dajną, wielowątkową pracę (na wielu oknach jednocześnie) na programach dla grafików i programach oraz obsługuje korekcję błędów ECC, płyta główna z 6 portami w standardzie USB3.0, Wi-Fi, Bluetooth, growana karta dźwiękowa, zintegrowany układ graficzny, co najmniej 16GB RAM, dysk systemowy SSD dysk HDD 4TB, karta grafiki z co najmniej 4GB z certyfikatem ISV), – – klawiatury, – – myszki bezprzewodowej, – – wózka stacji komputerowej, – – monitora do stacji komputerowej, – – obiektywu podstawowego, – – obiektywu szerokokątnego, – – obiektywu długiego, – – adaptera montażu obiektywu (według modelu), – – statywu fotograficznego (tripod) z głowicą, – – oświetlenia, – – akcesoriów do lamp (statyw oświetleniowy) i modyfikatorów światła, – – kontrolera USB oraz ze stołu do animacji wraz ze scenografią i obiektami do animacji.
 Miejsce realizacji praktyk zawodowych: przedsiębiorstwa produkujące filmy i seriale animowane, agencje reklamowe, przedsiębiorstwa postprodukcyjne, redakcje oprawy telewizyjnej i inne podmioty stanowiące potencjalne miejsce nienia absolwentów szkół prowadzących kształcenie w zawodzie.
 Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin).
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONEJ W ZAWODZIE AUD.11. Realizacja produkcji filmowej techniką animacji Nazwa jednostki efektów kształcenia Liczba godzin AUD.11.1. Bezpieczeństwo i higiena pracy 16 AUD.11.2. Podstawy wiedzy o rynku animacji filmowej 128 AUD.11.3. Realizacja animacji filmowej 96 AUD.11.4. Stosowanie technik animacji rysunkowej 160 AUD.11.5. Stosowanie technik animacji 2D 256 AUD.11.6. Stosowanie technik animacji 3D 256 AUD.11.7. Stosowanie technik animacji poklatkowej 256 AUD.11.8. Zarządzanie technikami animacji filmowej 64 AUD.11.9. Język obcy zawodowy 128 Razem 1360 AUD.11.10. Kompetencje personalne i społeczne AUD.11.11. Organizacja pracy małych zespołów
@@ -614,9 +554,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 3) dostosowuje stanowisko pracy do wymagań określonych w przepisach bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska
 4) dobiera wyposażenie i sprzęt w zależności od rodzaju stanowiska pracy zgodnie z przepisami bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska
 5) rozmieszcza materiały, narzędzia i sprzęt zgodnie z wymaganiami ergonomii, przepisami bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej na określonym stanowisku pracy
-6) stosuje środki ochrony indywidualnej i zbiorowej podczas wykonywania zadań zawodowych
-1) wymienia środki ochrony indywidualnej stosowane podczas wykonywania zadań zawodowych
-2) dobiera środki ochrony indywidualnej w zależności od rodzaju wykonywanych zadań na stanowisku pracy
+6) stosuje środki ochrony indywidualnej 1) wymienia środki ochrony indywidualnej stosowane podi zbiorowej podczas wykonywania zadań czas wykonywania zadań zawodowych zawodowych 2) dobiera środki ochrony indywidualnej w zależności od rodzaju wykonywanych zadań na stanowisku pracy
 3) używa środków ochrony indywidualnej na stanowisku pracy zgodnie z ich przeznaczeniem
 4) określa informacje przedstawiane za pomocą znaków bezpieczeństwa i sygnalizowane za pomocą alarmów, które uzupełniają środki ochrony indywidualnej i zbiorowej
 5) stosuje się do znaków zakazu, nakazu, ostrzegawczych, ewakuacyjnych, ochrony przeciwpożarowej oraz sygnałów alarmowych, które uzupełniają środki ochrony indywidualnej i zbiorowej
@@ -645,8 +583,7 @@ omdlenie, zawał, udar
 3) charakteryzuje konstrukcje obiektów bu- 1) rozróżnia układy konstrukcyjne budynków dowlanych i technologie ich wykonania 2) rozróżnia konstrukcyjne i niekonstrukcyjne elementy budynku
 3) rozróżnia etapy wykonania budynku
 4) rozpoznaje technologie wykonania obiektów budowlanych
-4) charakteryzuje materiały budowlane stosowane w aranżacji wnętrz
-1) wymienia właściwości fizyczne, mechaniczne i chemiczne materiałów budowlanych
+4) charakteryzuje materiały budowlane sto- 1) wymienia właściwości fizyczne, mechaniczne i chesowane w aranżacji wnętrz miczne materiałów budowlanych
 2) określa zastosowanie materiałów budowlanych
 3) rozróżnia materiały budowlane do wykonywania prac wykończeniowych we wnętrzu
 5) charakteryzuje rodzaje i elementy instala- 1) rozróżnia rodzaje i elementy instalacji budowlanych cji budowlanych 2) opisuje elementy składowe instalacji budowlanych
@@ -745,60 +682,30 @@ omdlenie, zawał, udar
 13) rozróżnia dekoracyjne elementy malarskie
 14) dobiera materiały i narzędzia do wykonania dekoracji malarskich
 15) wykonuje dekoracje ścienne i sufitowe za pomocą materiałów malarskich BUD.34.6. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-d) z usługami świadczonymi w danym zawodzie
-1) rozpoznaje i stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań zawodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np.
+1) posługuje się podstawowym zasobem 1) rozpoznaje i stosuje środki językowe umożliwiające reaśrodków językowych w języku obcym no- lizację czynności zawodowych w zakresie: wożytnym (ze szczególnym uwzględnie- a) czynności wykonywanych na stanowisku pracy, niem środków leksykalnych) umożliwiają- w tym związanych z zapewnieniem bezpieczeńcym realizację czynności zawodowych stwa i higieny pracy w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koniecza) ze stanowiskiem pracy i jego wypo- nych do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zadań
+b) z głównymi technologiami stosowa- zawodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumentów
+c) z dokumentacją związaną z danym związanych z wykonywaniem czynności zawodozawodem wych
+d) z usługami świadczonymi w danym e) świadczonych usług, w tym obsługi klienta zawodzie
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu ewentualnie łowane wyraźnie, w standardowej odmia- fragmentu wypowiedzi lub tekstu nie języka obcego nowożytnego, a także 2) znajduje w wypowiedzi lub tekście określone informaproste wypowiedzi pisemne w języku ob- cje cym nowożytnym w zakresie umożliwia- 3) rozpoznaje związki między poszczególnymi częściami jącym realizację zadań zawodowych: tekstu
+a) rozumie proste wypowiedzi ustne do- 4) układa informacje w określonym porządku tyczące czynności zawodowych (np.
 rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuacjach w zakresie umożliwiającym realizację za- zawodowych (np. udziela instrukcji, wskazówek, okreśdań zawodowych: la zasady)
 3) wyraża i uzasadnia swoje stanowisko
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
+a) tworzy krótkie, proste, spójne i lo- 4) stosuje zasady konstruowania tekstów o różnym charakgiczne wypowiedzi ustne dotyczące terze czynności zawodowych (np. polece- 5) stosuje formalny lub nieformalny styl wypowiedzi adenie, komunikat, instrukcję) kwatnie do sytuacji
 b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań za- 2) uzyskuje i przekazuje informacje i wyjaśnienia wodowych – reaguje w języku obcym no- 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgawożytnym w sposób zrozumiały, adekwat- dza się lub nie zgadza z opiniami innych osób nie do sytuacji komunikacyjnej, ustnie lub 4) prowadzi proste negocjacje związane z czynnościami w formie prostego tekstu: zawodowymi
+a) reaguje ustnie (np. podczas rozmowy 5) pyta o upodobania i intencje innych osób z innym pracownikiem, klientem, 6) proponuje, zachęca kontrahentem, w tym rozmowy tele- 7) stosuje zwroty i formy grzecznościowe fonicznej) w typowych sytuacjach 8) dostosowuje styl wypowiedzi do sytuacji związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-1) rozpoczyna, prowadzi i kończy rozmowę
-2) uzyskuje i przekazuje informacje i wyjaśnienia
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) pyta o upodobania i intencje innych osób
-6) proponuje, zachęca
-7) stosuje zwroty i formy grzecznościowe
-8) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje zasemnego w języku obcym nowożytnym warte w materiałach wizualnych (np. wykresach, symw typowych sytuacjach związanych z wy- bolach, piktogramach, schematach) oraz audiowizualkonywaniem czynności zawodowych nych (np. filmach instruktażowych)
 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
-6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne BUD.34.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące doskonale- 1) korzysta ze słownika dwujęzycznego i jednojęzycznego niu własnych umiejętności językowych 2) współdziała z innymi osobami, realizując zadania języoraz podnoszące świadomość językową: kowe
+a) wykorzystuje techniki samodzielnej 3) korzysta z tekstów w języku obcym nowożytnym, rówpracy nad językiem nież za pomocą technologii informacyjno-komunikacyjb) współdziała w grupie nych
+c) korzysta ze źródeł informacji w ję- 4) identyfikuje słowa klucze, internacjonalizmy zyku obcym nowożytnym 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby
+d) stosuje strategie komunikacyjne w przybliżeniu określić znaczenie słowa i kompensacyjne 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne BUD.34.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury i etyki zawodo- 1) wymienia uniwersalne zasady etyki wej 2) wyjaśnia, czym jest zasada, norma, reguła moralna i podaje przykłady zasad, norm, reguł moralnych
 3) wyjaśnia, na czym polega zachowanie etyczne w wybranym zawodzie
 4) wskazuje przykłady zachowań etycznych w zawodzie
@@ -836,8 +743,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 3) przejawia gotowość do ciągłego uczenia się i doskonalenia zawodowego
 4) podejmuje działania mające na celu podnoszenie kwalifikacji zawodowych
 5) korzysta z różnych źródeł informacji w celu doskonalenia umiejętności zawodowych
-9) przestrzega tajemnicy związanej z wykonywanym zawodem i miejscem pracy
-1) respektuje zasady dotyczące przestrzegania tajemnicy związanej z wykonywanym zawodem i miejscem pracy
+9) przestrzega tajemnicy związanej z wyko- 1) respektuje zasady dotyczące przestrzegania tajemnicy nywanym zawodem i miejscem pracy związanej z wykonywanym zawodem i miejscem pracy
 2) rozróżnia informacje podlegające tajemnicy zawodowej
 3) przedstawia konsekwencje nieprzestrzegania tajemnicy związanej z wykonywanym zawodem i miejscem pracy
 4) opisuje odpowiedzialność prawną za złamanie tajemnicy zawodowej
@@ -1006,52 +912,26 @@ d) techniki wykonania (np. stolarskie, tapicerowane)
 7) montuje oprawy oświetleniowe
 8) montuje elementy sterowania oświetleniem BUD.35.6. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiające środków językowych w języku obcym no- realizację czynności zawodowych w zakresie: wożytnym (ze szczególnym uwzględnie- a) czynności wykonywanych na stanowisku pracy, niem środków leksykalnych) umożliwiają- w tym związanych z zapewnieniem bezpieczeńcym realizację czynności zawodowych stwa i higieny pracy w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koniecza) ze stanowiskiem pracy i jego wypo- nych do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zadań zawodowych
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
+b) z głównymi technologiami stosowa- d) formularzy, specyfikacji oraz innych dokumentów nymi w danym zawodzie związanych z wykonywaniem czynności zawodoc) z dokumentacją związaną z danym wych zawodem e) świadczonych usług, w tym obsługi klienta
 d) z usługami świadczonymi w danym zawodzie
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np.
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu ewentualnie łowane wyraźnie, w standardowej odmia- fragmentu wypowiedzi lub tekstu nie języka obcego nowożytnego, a także 2) znajduje w wypowiedzi lub tekście określone informaproste wypowiedzi pisemne w języku ob- cje cym nowożytnym w zakresie umożliwia- 3) rozpoznaje związki między poszczególnymi częściami jącym realizację zadań zawodowych: tekstu
+a) rozumie proste wypowiedzi ustne do- 4) układa informacje w określonym porządku tyczące czynności zawodowych (np.
 rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuacjach w zakresie umożliwiającym realizację za- zawodowych (np. udziela instrukcji, wskazówek, okreśdań zawodowych: la zasady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakczynności zawodowych (np. polece- terze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi adeb) tworzy krótkie, proste, spójne i lo- kwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zganowożytnym w sposób zrozumiały, ade- dza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
+a) reaguje ustnie (np. podczas rozmowy 5) pyta o upodobania i intencje innych osób z innym pracownikiem, klientem, 6) proponuje, zachęca kontrahentem, w tym rozmowy tele- 7) stosuje zwroty i formy grzecznościowe fonicznej) w typowych sytuacjach 8) dostosowuje styl wypowiedzi do sytuacji związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) pyta o upodobania i intencje innych osób
-6) proponuje, zachęca
-7) stosuje zwroty i formy grzecznościowe
-8) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje zasemnego w języku obcym nowożytnym warte w materiałach wizualnych (np. wykresach, symw typowych sytuacjach związanych z wy- bolach, piktogramach, schematach) oraz audiowizualkonywaniem czynności zawodowych nych (np. filmach instruktażowych)
 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
-6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne BUD.35.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące doskonale- 1) korzysta ze słownika dwujęzycznego i jednojęzycznego niu własnych umiejętności językowych 2) współdziała z innymi osobami, realizując zadania języoraz podnoszące świadomość językową: kowe
+a) wykorzystuje techniki samodzielnej 3) korzysta z tekstów w języku obcym nowożytnym, rówpracy nad językiem nież za pomocą technologii informacyjno-komunikacyjb) współdziała w grupie nych
+c) korzysta ze źródeł informacji w ję- 4) identyfikuje słowa klucze, internacjonalizmy zyku obcym nowożytnym 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby
+d) stosuje strategie komunikacyjne w przybliżeniu określić znaczenie słowa i kompensacyjne 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne BUD.35.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury i etyki zawodo- 1) wymienia uniwersalne zasady etyki wej 2) wyjaśnia, czym jest zasada, norma, reguła moralna i podaje przykłady zasad, norm, reguł moralnych
 3) wyjaśnia, na czym polega zachowanie etyczne w wybranym zawodzie
 4) wskazuje przykłady zachowań etycznych w zawodzie
@@ -1116,17 +996,15 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 4) kieruje wykonaniem przydzielonych za- 1) ustala kolejność wykonywania zadań dań 2) monitoruje proces wykonywania zadań
 3) mobilizuje współpracowników do wykonywania zadań
 4) wydaje dyspozycje osobom wykonującym poszczególne zadania
-5) wprowadza rozwiązania techniczne i organizacyjne wpływające na poprawę warunków i jakości pracy
-1) dokonuje analizy rozwiązań technicznych i organizacyjnych warunków i jakości pracy
-2) proponuje rozwiązania techniczne i organizacyjne mające na celu poprawę warunków i jakości pracy
+5) wprowadza rozwiązania techniczne i orga- 1) dokonuje analizy rozwiązań technicznych i organizacyjnizacyjne wpływające na poprawę warun- nych warunków i jakości pracy ków i jakości pracy 2) proponuje rozwiązania techniczne i organizacyjne mające na celu poprawę warunków i jakości pracy
 3) dokonuje prostych modernizacji stanowiska pracy WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE TECHNIK ARANŻACJI WNĘTRZ Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w zakresie kwalifikacji BUD.34. Planowanie i wykonywanie poszczególnych etapów wykończenia wnętrz Pracownia budowlana, wyposażona w: stanowiska komputerowe dla nauczyciela z dostępem do internetu, z drukarką, ze skanerem, projektorem multimedialnym oraz pakietem programów biurowych i programów do tworzenia projektów (np. CAD) oraz oprogramowaniem umożliwiającym odtwarzanie plików audiowizualnych, stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) z dostępem do internetu, drukarki, posażone w programy do tworzenia projektów (np. CAD), filmy dydaktyczne ilustrujące etapy realizacji procesu budowlanego, technologie wykonywania robót budowlanych, urządzenia i sprzęt budowlany, różne rozwiązania konstrukcyjne, normy budowlane, czasopisma specjalistyczne, prospekty, katalogi materiałów budowlanych, zestaw przepisów budowlanego, próbki materiałów budowlanych, stanowiska rysunkowe (jedno stanowisko dla jednego ucznia), wyposażone w pomoce dydaktyczne do kształtowania wyobraźni przestrzennej, przykładowe projekty architektury wnętrz, katalogi materiałów wykończeniowych, filmy instruktażowe dotyczące montażu osłon okiennych i automatyki wykorzystywanej w sterowaniu osłon i oświetlenia, przykładowe dokumentacje projektowe, specyfikacje techniczne wykonania i odbioru robót budowlanych, talogi oraz instrukcje montażu osłon okiennych, automatyki wykorzystywanej w sterowaniu osłon okiennych lenia.
-Warsztaty szkolne wyposażone w: stanowiska montażu systemów suchej zabudowy (jedno stanowisko dla trzech uczniów) wyposażone w przyrządy trolno-pomiarowe, przyrządy do trasowania, narzędzia, elektronarzędzia i sprzęt do montażu elementów systemów chej zabudowy, stanowiska wykonywania robót malarskich i tapeciarskich (jedno stanowisko dla trzech uczniów) wyposażone rządy kontrolno-pomiarowe, przyrządy do trasowania, narzędzia i sprzęt do prac malarskich i tapeciarskich, łoża do robót malarskich, stanowiska wykonywania robót posadzkarskich i okładzinowych (jedno stanowisko dla trzech uczniów) wyposażone w przyrządy kontrolno-pomiarowe, przyrządy do trasowania, narzędzia, elektronarzędzia i sprzęt do wykonywania prac posadzkarskich i okładzinowych, instrukcje producentów, katalogi, instrukcje obsługi maszyn i urządzeń, tablice poglądowe, wzorniki, stanowiska do montażu i demontażu osłon okiennych (jedno stanowisko dla czterech uczniów) wyposażone ment konstrukcji ścian z otworem okiennym, okna i drzwi balkonowe, osłony okienne z wyposażeniem, systemy tronicznego sterowania funkcjami wewnętrznych osłon okiennych, przyrządy kontrolno-pomiarowe i narzędzia zbędne do wykonania robót, instrukcje obsługi maszyn i elektronarzędzi, przykładowe osłony okienne takie jak: żaluzje wewnętrzne, karnisze elektryczne, plisy, rolety wewnętrzne, wybrane systemy sterowania osłon wewnętrznych i oświetlenia, przykładowe dokumentacje projektowe, specyfikacje techniczne wykonania i odbioru robót budowlanych, talogi oraz instrukcje montażu osłon okiennych, automatyki wykorzystywanej w sterowaniu osłon okiennych tlenia, urządzenia i systemy elektronicznego sterowania funkcjami osłon okiennych i oświetlenia, przyrządy kontrolno-pomiarowe i narzędzia niezbędne do wykonania robót, instrukcje obsługi maszyn narzędzi.
-Szkoła zapewnia dostęp do: maszyn i urządzeń CNC przeznaczonych do obróbki płytek ceramicznych, agregatów tynkarskich i malarskich, szablonów dekoracyjnych do tynków ozdobnych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w zakresie kwalifikacji BUD.35. Wykonywanie aranżacji wnętrz Pracownia projektowa wyposażona w: stanowisko komputerowe dla nauczyciela z dostępem do internetu i drukarki, ze skanerem oraz z projektorem medialnym, z pakietem programów biurowych, oprogramowaniem do projektowania architektonicznego Up i CAD) oraz do kosztorysowania, stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) z dostępem do internetu, z pakietem gramów biurowych, oprogramowaniem do projektowania architektonicznego (np. Sketch Up i CAD) oraz rysowania, tablicę interaktywną, cyfrowy aparat fotograficzny, stoły do projektowania (jeden stół dla dwóch uczniów), plansze, zdjęcia, filmy dydaktyczne przedstawiające elementy wyposażenia wnętrz oraz makiety i zdjęcia nych i współczesnych wnętrz, plansze przedstawiające etapy pracy projektowej, katalogi: tkanin, mebli, materiałów wykończeniowych, elementów dekoracyjnych, przykładową dokumentację inwentaryzacyjną oraz przykładowe mapy zasadnicze, szkice, modele i makiety architektury wnętrz, elementy architektoniczne, plansze, schematy oraz fotografie wnętrz z różnych epok, zestaw pisów prawa budowlanego.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w zakresie kwalifikacji BUD.34. Planowanie i wykonywanie poszczególnych etapów wykończenia wnętrz Pracownia budowlana, wyposażona w: – stanowiska komputerowe dla nauczyciela z dostępem do internetu, z drukarką, ze skanerem, projektorem multimedialnym oraz pakietem programów biurowych i programów do tworzenia projektów (np. CAD) oraz oprogramowaniem umożliwiającym odtwarzanie plików audiowizualnych, – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) z dostępem do internetu, drukarki, posażone w programy do tworzenia projektów (np. CAD), – filmy dydaktyczne ilustrujące etapy realizacji procesu budowlanego, technologie wykonywania robót budowlanych, urządzenia i sprzęt budowlany, różne rozwiązania konstrukcyjne, – normy budowlane, czasopisma specjalistyczne, prospekty, katalogi materiałów budowlanych, zestaw przepisów budowlanego, próbki materiałów budowlanych, – stanowiska rysunkowe (jedno stanowisko dla jednego ucznia), wyposażone w pomoce dydaktyczne do kształtowania wyobraźni przestrzennej, – przykładowe projekty architektury wnętrz, – katalogi materiałów wykończeniowych, – filmy instruktażowe dotyczące montażu osłon okiennych i automatyki wykorzystywanej w sterowaniu osłon i oświetlenia, – przykładowe dokumentacje projektowe, specyfikacje techniczne wykonania i odbioru robót budowlanych, talogi oraz instrukcje montażu osłon okiennych, automatyki wykorzystywanej w sterowaniu osłon okiennych lenia.
+Warsztaty szkolne wyposażone w: – stanowiska montażu systemów suchej zabudowy (jedno stanowisko dla trzech uczniów) wyposażone w przyrządy trolno-pomiarowe, przyrządy do trasowania, narzędzia, elektronarzędzia i sprzęt do montażu elementów systemów chej zabudowy, – stanowiska wykonywania robót malarskich i tapeciarskich (jedno stanowisko dla trzech uczniów) wyposażone rządy kontrolno-pomiarowe, przyrządy do trasowania, narzędzia i sprzęt do prac malarskich i tapeciarskich, łoża do robót malarskich, – stanowiska wykonywania robót posadzkarskich i okładzinowych (jedno stanowisko dla trzech uczniów) wyposażone w przyrządy kontrolno-pomiarowe, przyrządy do trasowania, narzędzia, elektronarzędzia i sprzęt do wykonywania prac posadzkarskich i okładzinowych, – instrukcje producentów, katalogi, instrukcje obsługi maszyn i urządzeń, tablice poglądowe, wzorniki, – stanowiska do montażu i demontażu osłon okiennych (jedno stanowisko dla czterech uczniów) wyposażone ment konstrukcji ścian z otworem okiennym, okna i drzwi balkonowe, osłony okienne z wyposażeniem, systemy tronicznego sterowania funkcjami wewnętrznych osłon okiennych, przyrządy kontrolno-pomiarowe i narzędzia zbędne do wykonania robót, instrukcje obsługi maszyn i elektronarzędzi, – przykładowe osłony okienne takie jak: żaluzje wewnętrzne, karnisze elektryczne, plisy, rolety wewnętrzne, – wybrane systemy sterowania osłon wewnętrznych i oświetlenia, – przykładowe dokumentacje projektowe, specyfikacje techniczne wykonania i odbioru robót budowlanych, talogi oraz instrukcje montażu osłon okiennych, automatyki wykorzystywanej w sterowaniu osłon okiennych tlenia, – urządzenia i systemy elektronicznego sterowania funkcjami osłon okiennych i oświetlenia, – przyrządy kontrolno-pomiarowe i narzędzia niezbędne do wykonania robót, instrukcje obsługi maszyn narzędzi.
+Szkoła zapewnia dostęp do: – maszyn i urządzeń CNC przeznaczonych do obróbki płytek ceramicznych, – agregatów tynkarskich i malarskich, – szablonów dekoracyjnych do tynków ozdobnych.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w zakresie kwalifikacji BUD.35. Wykonywanie aranżacji wnętrz Pracownia projektowa wyposażona w: – stanowisko komputerowe dla nauczyciela z dostępem do internetu i drukarki, ze skanerem oraz z projektorem medialnym, z pakietem programów biurowych, oprogramowaniem do projektowania architektonicznego Up i CAD) oraz do kosztorysowania, – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) z dostępem do internetu, z pakietem gramów biurowych, oprogramowaniem do projektowania architektonicznego (np. Sketch Up i CAD) oraz rysowania, – tablicę interaktywną, cyfrowy aparat fotograficzny, stoły do projektowania (jeden stół dla dwóch uczniów), – plansze, zdjęcia, filmy dydaktyczne przedstawiające elementy wyposażenia wnętrz oraz makiety i zdjęcia nych i współczesnych wnętrz, plansze przedstawiające etapy pracy projektowej, – katalogi: tkanin, mebli, materiałów wykończeniowych, elementów dekoracyjnych, – przykładową dokumentację inwentaryzacyjną oraz przykładowe mapy zasadnicze, szkice, modele i makiety architektury wnętrz, elementy architektoniczne, plansze, schematy oraz fotografie wnętrz z różnych epok, zestaw pisów prawa budowlanego.
 Miejsce realizacji praktyk zawodowych: przedsiębiorstwa prowadzące prace wykończeniowe, biura projektowe tury wnętrz i inne podmioty stanowiące potencjalne miejsce zatrudnienia absolwentów szkół prowadzących kształcenie zawodzie.
 Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin).
-MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONYCH W ZAWODZIE BUD.34. Planowanie i wykonywanie poszczególnych etapów wykończenia wnętrz Nazwa jednostki efektów kształcenia Liczba godzin BUD.34.1. Bezpieczeństwo i higiena pracy 30 BUD.34.2. Techniczne podstawy aranżacji wnętrz 120 BUD.34.3. Organizowanie i planowanie prac wykończeniowych oraz prac instalacyjnych 180 w budynku BUD.34.4. Wykonywanie wybranych prac wykończeniowych z zakresu montowania su- 150 chej zabudowy i prac murarskich BUD.34.5. Wykonywanie wybranych prac wykończeniowych z zakresu prac tynkarskich, posadzkarskich, okładzinowych, malarskich i tapeciarskich 150 BUD.34.6. Język obcy zawodowy 30 Razem 660 BUD.34.7. Kompetencje personalne i społeczne BUD.34.8. Organizacja pracy małych zespołów BUD.35. Wykonywanie aranżacji wnętrz Nazwa jednostki efektów kształcenia Liczba godzin BUD.35.1. Bezpieczeństwo i higiena pracy 15 BUD.35.2. Techniczne podstawy aranżacji wnętrz 120 BUD.35.3. Planowanie aranżacji wnętrz 210 BUD.35.4. Wykonywanie wizualizacji aranżacji wnętrz oraz sporządzanie kosztorysów 180 BUD.35.5. Aranżowanie dekoracji wnętrz oraz planowanie i dobór urządzeń i sterowania oświetleniem i osłonami okiennymi 180 BUD.35.6. Język obcy zawodowy 60 Razem 645+120 BUD.35.7. Kompetencje personalne i społeczne BUD.35.8. Organizacja pracy małych zespołów
+MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONYCH W ZAWODZIE BUD.34. Planowanie i wykonywanie poszczególnych etapów wykończenia wnętrz Nazwa jednostki efektów kształcenia Liczba godzin BUD.34.1. Bezpieczeństwo i higiena pracy 30 BUD.34.2. Techniczne podstawy aranżacji wnętrz 120 BUD.34.3. Organizowanie i planowanie prac wykończeniowych oraz prac instalacyjnych 180 w budynku BUD.34.4. Wykonywanie wybranych prac wykończeniowych z zakresu montowania su- 150 chej zabudowy i prac murarskich BUD.34.5. Wykonywanie wybranych prac wykończeniowych z zakresu prac tynkarskich, 150 posadzkarskich, okładzinowych, malarskich i tapeciarskich BUD.34.6. Język obcy zawodowy 30 Razem 660 BUD.34.7. Kompetencje personalne i społeczne BUD.34.8. Organizacja pracy małych zespołów BUD.35. Wykonywanie aranżacji wnętrz Nazwa jednostki efektów kształcenia Liczba godzin BUD.35.1. Bezpieczeństwo i higiena pracy 15 BUD.35.2. Techniczne podstawy aranżacji wnętrz 120 BUD.35.3. Planowanie aranżacji wnętrz 210 BUD.35.4. Wykonywanie wizualizacji aranżacji wnętrz oraz sporządzanie kosztorysów 180 BUD.35.5. Aranżowanie dekoracji wnętrz oraz planowanie i dobór urządzeń i sterowania oświetleniem i osłonami okiennymi 180 BUD.35.6. Język obcy zawodowy 60 Razem 645+120 BUD.35.7. Kompetencje personalne i społeczne BUD.35.8. Organizacja pracy małych zespołów
 4) w załączniku nr 4:
 a) tytuł załącznika otrzymuje brzmienie: „PODSTAWY PROGRAMOWE KSZTAŁCENIA W ZAWODACH SZKOLNICTWA BRANŻOWEGO PRZYPORZĄDKOWANYCH DO BRANŻY CHEMICZNEJ I OCHRONY ŚRODOWISKA (CHM)”,
 b) wprowadzenie do załącznika otrzymuje brzmienie: „Załącznik zawiera podstawy programowe kształcenia w zawodach szkolnictwa branżowego przyporządkowanych do branży chemicznej i ochrony środowiska, określonych w klasyfikacji zawodów szkolnictwa branżowego:
@@ -1144,8 +1022,7 @@ c) po podstawie programowej kształcenia w zawodzie OPERATOR MASZYN I URZĄDZEŃ
 3) wykonywania prac związanych ze zbieraniem i przetwarzaniem odpadów, w tym z przygotowaniem do użycia;
 4) wykonywania prac związanych z obsługą maszyn i urządzeń do transportu oraz przetwarzania odpadów.
 EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań zawodowych w zakresie kwalifikacji CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami jest niezbędne osiągnięcie niżej wymienionych efektów kształcenia: CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami CHM.07.1. Bezpieczeństwo i higiena pracy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) rozróżnia pojęcia związane z bezpieczeństwem i higieną pracy, ochroną przeciwpożarową, ochroną środowiska i ergonomią
-1) wymienia przepisy prawa i odpowiednie dokumenty określające wymagania w zakresie bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska
+1) rozróżnia pojęcia związane z bezpieczeń- 1) wymienia przepisy prawa i odpowiednie dokumenty stwem i higieną pracy, ochroną przeciw- określające wymagania w zakresie bezpieczeństwa pożarową, ochroną środowiska i ergono- i higieny pracy, ochrony przeciwpożarowej i ochrony mią środowiska
 2) wyjaśnia znaczenie pojęć: bezpieczeństwo pracy, higiena pracy, ochrona pracy, ergonomia
 3) definiuje pojęcia związane z wypadkami przy pracy i chorobami zawodowymi
 2) rozróżnia zadania i uprawnienia instytu- 1) wymienia instytucje oraz służby działające w zakresie cji oraz służb działających w zakresie ochrony pracy i ochrony środowiska ochrony pracy i ochrony środowiska 2) wymienia zadania i uprawnienia instytucji i służb sprawujących nadzór nad ochroną pracy i ochroną środowiska
@@ -1156,9 +1033,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 3) wyjaśnia sposoby zapobiegania zagrożeniom zdrowia i życia podczas wykonywania zadań zawodowych
 4) omawia zagrożenia związane z bezpośrednim kontaktem z odpadami, w tym zatruciem, zakłuciem, skażeniem, kontaktem ze szkodliwym czynnikiem biologicznym
 5) identyfikuje odpady zwierające substancje chemiczne stwarzające zagrożenie dla zdrowia, życia, mienia lub środowiska
-5) wykonuje zadania zawodowe zgodnie z zasadami bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska
-1) przygotowuje stanowisko pracy zgodnie z zasadami bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska
-2) stosuje środki ochrony indywidualnej oraz wskazuje sytuacje, w jakich się z nich korzysta
+5) wykonuje zadania zawodowe zgodnie 1) przygotowuje stanowisko pracy zgodnie z zasadami z zasadami bezpieczeństwa i higieny bezpieczeństwa i higieny pracy, ochrony przeciwpopracy, ochrony przeciwpożarowej żarowej i ochrony środowiska i ochrony środowiska 2) stosuje środki ochrony indywidualnej oraz wskazuje sytuacje, w jakich się z nich korzysta
 3) stosuje instrukcje bezpieczeństwa i higieny pracy oraz instrukcje postępowania na wypadek sytuacji awaryjnej, w tym sytuacji wykrycia nietypowych odpadów i sytuacji grożącej skażeniem środowiska lub stanowiącej zagrożenie dla zdrowia i życia
 4) stosuje obowiązujące instrukcje obsługi maszyn, urządzeń i sprzętu podczas ich używania
 5) rozróżnia rodzaje pożarów oraz środki gaśnicze ze względu na przypadki ich stosowania
@@ -1259,8 +1134,7 @@ d) rozdrabnia odpady
 3) wykonuje prace w stacji przeładunkowej 1) określa rolę stacji przeładunkowej
 2) wykonuje prace związane z magazynowaniem i ruchem odpadów w stacji przeładunkowej
 3) przestrzega zasad transportu w obrębie stacji przeładunkowej
-4) prowadzi prace związane z przygotowaniem do ponownego użycia
-1) wskazuje rodzaje materiałów i przedmiotów nadających się do przygotowania do ponownego użycia
+4) prowadzi prace związane z przygotowa- 1) wskazuje rodzaje materiałów i przedmiotów nadająniem do ponownego użycia cych się do przygotowania do ponownego użycia
 2) prowadzi procesy sprawdzenia, czyszczenia lub naprawy
 3) prowadzi proces przekazania sprawdzonych, oczyszczonych lub naprawionych materiałów i przedmiotów, które stały się ponownie produktami przeznaczonymi do ponownego użycia CHM.07.6. Wykonywanie prac związanych z mechanicznym, biologicznym i termicznym przetwarzaniem odpadów Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) wykonuje prace w sortowni odpadów 1) definiuje pojęcie sortowni odpadów i zakładu MBP i zakładzie mechaniczno-biologicznego 2) rozróżnia rodzaje instalacji i urządzeń stosowane przetwarzania odpadów (MBP) w sortowni odpadów i zakładzie MBP
@@ -1274,9 +1148,7 @@ d) rozdrabnia odpady
 3) wskazuje rodzaje odpadów nadających się do kompostowania
 4) przygotowuje odpady do procesu kompostowania
 5) przygotowuje kompost i pozostałości do dalszego zagospodarowania
-3) wykonuje prace w zakładzie, w którym prowadzi się proces biologicznego przetwarzania odpadów w warunkach beztlenowych
-1) omawia proces biologicznego przetwarzania odpadów w warunkach beztlenowych i jego cel
-2) rozróżnia rodzaje urządzeń i technologii stosowanych w procesie biologicznego przetwarzania odpadów w warunkach beztlenowych
+3) wykonuje prace w zakładzie, w którym 1) omawia proces biologicznego przetwarzania odpadów prowadzi się proces biologicznego prze- w warunkach beztlenowych i jego cel twarzania odpadów w warunkach beztle- 2) rozróżnia rodzaje urządzeń i technologii stosowanych nowych w procesie biologicznego przetwarzania odpadów w warunkach beztlenowych
 3) wskazuje rodzaje odpadów nadających się do biologicznego przetwarzania odpadów w warunkach beztlenowych
 4) przygotowuje odpady do biologicznego przetwarzania odpadów w warunkach beztlenowych i przygotowuje do dalszego zagospodarowania pozostałości po procesie biologicznego przetwarzania odpadów w warunkach beztlenowych
 4) wykonuje prace na składowisku odpa- 1) omawia proces składowania odpadów i jego cel dów 2) określa rodzaje odpadów dozwolonych i zakazanych do składowania, zgodnie z przepisami prawa dotyczącymi składowania odpadów
@@ -1310,55 +1182,24 @@ d) rozdrabnia odpady
 4) kwalifikuje odpady, które mogą być przyjęte i poddane przetwarzaniu w stacji demontażu pojazdów, w tym przygotowane do ponownego użycia
 5) demontuje pojazdy wycofane z eksploatacji, stosując odpowiednie metody przetwarzania
 6) przygotowuje do dalszego zagospodarowania powstałe w procesie przetwarzania odpady oraz produkty przeznaczone do ponownego użycia CHM.07.8. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-d) z usługami świadczonymi w danym zawodzie
-1) rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań zawodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiaśrodków językowych w języku obcym jące realizację czynności zawodowych w zakresie: nowożytnym (ze szczególnym uwzględ- a) czynności wykonywanych na stanowisku pracy, nieniem środków leksykalnych) umożli- w tym związanych z zapewnieniem bezpieczeńwiającym realizację czynności zawodo- stwa i higieny pracy wych w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koa) ze stanowiskiem pracy i jego wypo- niecznych do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zab) z głównymi technologiami stosowa- dań zawodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumenc) z dokumentacją związaną z danym tów związanych z wykonywaniem czynności zazawodem wodowych
+d) z usługami świadczonymi w danym e) świadczonych usług, w tym obsługi klienta zawodzie
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu, ewentułowane wyraźnie, w standardowej od- alnie fragmentu wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone infora także proste wypowiedzi pisemne w ję- macje zyku obcym nowożytnym w zakresie 3) rozpoznaje związki między poszczególnymi częumożliwiającym realizację zadań zawo- ściami tekstu dowych: 4) układa informacje w określonym porządku
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu, ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
+a) reaguje ustnie (np. podczas roz- 5) stosuje zwroty i formy grzecznościowe mowy z innym pracownikiem, 6) dostosowuje styl wypowiedzi do sytuacji klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-1) rozpoczyna, prowadzi i kończy rozmowę
-2) uzyskuje i przekazuje informacje i wyjaśnienia
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) stosuje zwroty i formy grzecznościowe
-6) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje semnego w języku obcym nowożytnym zawarte w materiałach wizualnych (np. wykresach, w typowych sytuacjach związanych symbolach, piktogramach, schematach) oraz audioz wykonywaniem czynności zawodo- wizualnych (np. filmach instruktażowych) wych 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
+6) wykorzystuje strategie służące doskona- 1) korzysta ze słownika dwujęzycznego i jednojęzyczleniu własnych umiejętności językowych nego oraz podnoszące świadomość językową: 2) współdziała z innymi osobami, realizując zadania jęa) wykorzystuje techniki samodzielnej zykowe pracy nad językiem 3) korzysta z tekstów w języku obcym nowożytnym,
+b) współdziała w grupie również za pomocą technologii informacyjno-komuc) korzysta ze źródeł informacji w ję- nikacyjnych zyku obcym nowożytnym 4) identyfikuje słowa klucze, internacjonalizmy
+d) stosuje strategie komunikacyjne 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby i kompensacyjne w przybliżeniu określić znaczenie słowa
 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne CHM.07.9. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury osobistej 1) stosuje zasady kultury osobistej i ogólnie przyjęte i etyki zawodowej normy zachowania w środowisku pracy
 2) przyjmuje odpowiedzialność za powierzone informacje zawodowe
@@ -1399,8 +1240,8 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 2) przestrzega podziału ról, zadań i odpowiedzialności w zespole
 3) angażuje się w realizację wspólnych działań zespołu
 4) modyfikuje sposób zachowania, uwzględniając stanowisko wypracowane wspólnie z innymi członkami zespołu WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE OPERATOR MASZYN I URZĄDZEŃ W DARCE ODPADAMI Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami Pracownia gospodarowania odpadami wyposażona w: stanowiska mycia rąk (jedno stanowisko dla sześciu uczniów) wyposażone w umywalkę z instalacją zimnej wody, dozownik mydła, środki do dezynfekcji, ręczniki, stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, urządzenia cyjnego, projektora multimedialnego, z pakietem biurowym, dostępem do wersji testowej BDO, stanowiska komputerowe dla uczniów (jedno stanowisko dla dwóch uczniów) podłączone do sieci lokalnej do internetu, z oprogramowaniem do ewidencji odpadów i opracowywania wyników badań, dostępem do wej BDO, pojemniki na odpady, stoły robocze do segregacji odpadów, demontażu odpadów, naprawy i przygotowania do ponownego użycia rach co najmniej 2 m x 4 m, pokryte materiałem wodoodpornym i odpornym na zabrudzenia (jeden stół uczniów), zestaw narzędzi: wkrętaki, kombinerki, klucze płasko-oczkowe, nasadowe i bity, młotki, wkrętarki, miernik salny, piła ręczna do drewna i metalu, przecinak, nóż tapicerski, nożyce do metalu, imadło, łom-wyciągacz, przyrządy do sprzątania: szpadel, łopata, szufla, grabie, w tym do liści i trawy, widły, odkurzacz, ręczny sprzęt kowy (wiadro, mop, gąbki i ścierki), środki czystości, środki dezynfekcyjne, taczka, chwytak do śmieci, stanowisko do badania morfologii odpadów z odciągiem wentylacyjnym (jedno stanowisko dla czterech wyposażone w: zestaw sit, pojemniki na poszczególne frakcje, wagi do odpadów o udźwigu do 10 kg wzorcowe zestawy różnych frakcji odpadów (jeden zestaw dla czterech uczniów), wilgotnościomierz z miaru temperatury do badania odpadów, instrukcje do wykonywania ćwiczeń, instrukcje obsługi maszyn, urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz padów, taśmociąg sortowniczy, sita, separatory do odpadów, wózek widłowy) i narzędzi stosowanych w zakładzie podarowania odpadami, przykładowe instrukcje bezpieczeństwa i higieny pracy (stosowane przy pracy w gospodarce odpadami), filmy instruktażowe z instalacji gospodarki odpadami wirtualne wycieczki, tablice informacyjne ze schematami funkcjonowania przykładowych zakładów gospodarowania odpadami, przykładowe karty charakterystyki substancji lub mieszaniny chemicznej, środki ochrony indywidualnej: rękawice ochronne w kat. II i III dostosowane do rodzaju prac, gogle ochronne, twarzy, fartuchy ochronne.
-Szkoła zapewnia dostęp do: pojazdu do odbioru i transportu odpadów, śmieciarki i pojazdu z urządzeniem hakowym i hydraulicznym samochodowym (HDS), maszyn i urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz odpadów, sortowniczy, sito, separator do odpadów), brodzika dezynfekcyjnego, pompowni odcieków, aparatury kontrolno-pomiarowej (piezometry), wózka jezdniowego podnośnikowego z mechanicznym napędem podnoszenia.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami Pracownia gospodarowania odpadami wyposażona w: – stanowiska mycia rąk (jedno stanowisko dla sześciu uczniów) wyposażone w umywalkę z instalacją zimnej wody, dozownik mydła, środki do dezynfekcji, ręczniki, – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, urządzenia cyjnego, projektora multimedialnego, z pakietem biurowym, dostępem do wersji testowej BDO, – stanowiska komputerowe dla uczniów (jedno stanowisko dla dwóch uczniów) podłączone do sieci lokalnej do internetu, z oprogramowaniem do ewidencji odpadów i opracowywania wyników badań, dostępem do wej BDO, – pojemniki na odpady, – stoły robocze do segregacji odpadów, demontażu odpadów, naprawy i przygotowania do ponownego użycia rach co najmniej 2 m x 4 m, pokryte materiałem wodoodpornym i odpornym na zabrudzenia (jeden stół uczniów), – zestaw narzędzi: wkrętaki, kombinerki, klucze płasko-oczkowe, nasadowe i bity, młotki, wkrętarki, miernik salny, piła ręczna do drewna i metalu, przecinak, nóż tapicerski, nożyce do metalu, imadło, łom-wyciągacz, – przyrządy do sprzątania: szpadel, łopata, szufla, grabie, w tym do liści i trawy, widły, odkurzacz, ręczny sprzęt kowy (wiadro, mop, gąbki i ścierki), środki czystości, środki dezynfekcyjne, taczka, chwytak do śmieci, – stanowisko do badania morfologii odpadów z odciągiem wentylacyjnym (jedno stanowisko dla czterech wyposażone w: zestaw sit, pojemniki na poszczególne frakcje, wagi do odpadów – o udźwigu do 10 kg wzorcowe zestawy różnych frakcji odpadów (jeden zestaw dla czterech uczniów), wilgotnościomierz z miaru temperatury do badania odpadów, instrukcje do wykonywania ćwiczeń, – instrukcje obsługi maszyn, urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz padów, taśmociąg sortowniczy, sita, separatory do odpadów, wózek widłowy) i narzędzi stosowanych w zakładzie podarowania odpadami, – przykładowe instrukcje bezpieczeństwa i higieny pracy (stosowane przy pracy w gospodarce odpadami), – filmy instruktażowe z instalacji gospodarki odpadami – wirtualne wycieczki, – tablice informacyjne ze schematami funkcjonowania przykładowych zakładów gospodarowania odpadami, – przykładowe karty charakterystyki substancji lub mieszaniny chemicznej, – środki ochrony indywidualnej: rękawice ochronne w kat. II i III dostosowane do rodzaju prac, gogle ochronne, twarzy, fartuchy ochronne.
+Szkoła zapewnia dostęp do: – pojazdu do odbioru i transportu odpadów, śmieciarki i pojazdu z urządzeniem hakowym i hydraulicznym samochodowym (HDS), – maszyn i urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz odpadów, sortowniczy, sito, separator do odpadów), – brodzika dezynfekcyjnego, pompowni odcieków, aparatury kontrolno-pomiarowej (piezometry), – wózka jezdniowego podnośnikowego z mechanicznym napędem podnoszenia.
 Uczeń jest przygotowywany do egzaminu w zakresie obsługi wózków jezdniowych podnośnikowych z mechanicznym napędem podnoszenia, z wyłączeniem wózków z wysięgnikiem oraz wózków z osobą obsługującą podnoszoną dunkiem (kat. II WJO).
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONEJ W ZAWODZIE CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami Nazwa jednostki efektów kształcenia Liczba godzin CHM.07.1. Bezpieczeństwo i higiena pracy 30 CHM.07.2. Podstawy gospodarowania odpadami 120 CHM.07.3. Prowadzenie prac związanych z odbiorem i transportem odpadów 140 CHM.07.4. Prowadzenie prac związanych ze zbieraniem i magazynowaniem odpadów 140 CHM.07.5. Przygotowanie do prac związanych z przetwarzaniem odpadów i przygotowaniem do ponownego użycia 100 CHM.07.6. Wykonywanie prac związanych z mechanicznym, biologicznym i termicznym przetwarzaniem odpadów 140 CHM.07.7. Wykonywanie prac związanych z recyklingiem 150 CHM.07.8. Język obcy zawodowy 30 Razem 850 BUD.07.9. Kompetencje personalne i społeczne MOŻLIWOŚCI PODNOSZENIA KWALIFIKACJI W ZAWODZIE Absolwent szkoły prowadzącej kształcenie w zawodzie operator maszyn i urządzeń w gospodarce odpadami po dzeniu CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami może uzyskać zawodowy w zawodzie technik gospodarki odpadami po potwierdzeniu kwalifikacji CHM.09. Organizowanie i wanie prac związanych z gospodarowaniem odpadami oraz uzyskaniu wykształcenia średniego lub średniego branżowego.”,
 d) po podstawie programowej kształcenia w zawodzie OPERATOR URZĄDZEŃ PRZEMYSŁU CHEMICZNEGO dodaje się podstawę programową kształcenia w zawodzie PRACOWNIK POMOCNICZY W GOSPODARCE ODPADAMI w brzmieniu: „PRACOWNIK POMOCNICZY W GOSPODARCE ODPADAMI KWALIFIKACJA WYODRĘBNIONA W ZAWODZIE CHM.08. Wykonywanie prac pomocniczych w gospodarce odpadami CELE KSZTAŁCENIA Absolwent szkoły prowadzącej kształcenie w zawodzie pracownik pomocniczy w gospodarce odpadami powinien przygotowany do wykonywania zadań zawodowych w zakresie kwalifikacji CHM.08. Wykonywanie prac pomocniczych w gospodarce odpadami:
@@ -1495,33 +1336,15 @@ g) zrasza pryzmę kompostową
 3) kieruje naprawione produkty do miejsc ich magazynowania
 3) wykonuje prace porządkowe i utrzymuje 1) myje i dezynfekuje maszyny i narzędzia pracy czystość w miejscach zbierania 2) utrzymuje pojemniki oraz otoczenie wokół pojemników w czystości podczas i po załadunku odpadów
 3) utrzymuje porządek i czystość na stanowiskach pracy, w tym w miejscach magazynowania odpadów, w Punktach Selektywnego Zbierania Odpadów Komunalnych i punktach odbierających odpady objęte systemem kaucyjnym CHM.08.5. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-d) z usługami świadczonymi w danym zawodzie
-1) rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań zawodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiaśrodków językowych w języku obcym jące realizację czynności zawodowych w zakresie: nowożytnym (ze szczególnym uwzględ- a) czynności wykonywanych na stanowisku pracy, nieniem środków leksykalnych) umożli- w tym związanych z zapewnieniem bezpieczeńwiającym realizację czynności zawodo- stwa i higieny pracy wych w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koa) ze stanowiskiem pracy i jego wypo- niecznych do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zab) z głównymi technologiami stosowa- dań zawodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumenc) z dokumentacją związaną z danym tów związanych z wykonywaniem czynności zawodem zawodowych
+d) z usługami świadczonymi w danym e) świadczonych usług, w tym obsługi klienta zawodzie
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu, ewentułowane wyraźnie, w standardowej od- alnie fragmentu wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone infora także proste wypowiedzi pisemne w ję- macje zyku obcym nowożytnym w zakresie 3) rozpoznaje związki między poszczególnymi częumożliwiającym realizację zadań zawo- ściami tekstu dowych: 4) układa informacje w określonym porządku
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
-b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury,
-1) określa główną myśl wypowiedzi lub tekstu, ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku instrukcje obsługi, przewodniki, dokumentację zawodową)
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela prostych i krótkich instrukcji, wskazówek)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji CHM.08.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela prostych i krótkich inzadań zawodowych: strukcji, wskazówek)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru) CHM.08.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury i etyki zawodo- 1) stosuje zasady kultury i etyki podczas wykonywania wej zadań zawodowych
 2) rozróżnia zachowania etyczne i nieetyczne w zakresie wykonywanych zadań zawodowych
 3) przestrzega tajemnicy związanej z wykonywanym zawodem i miejscem pracy
@@ -1530,8 +1353,7 @@ komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument zwi�
 3) akceptuje zmiany zachodzące w środowisku pracy
 3) stosuje zasady komunikacji interperso- 1) identyfikuje sygnały werbalne i niewerbalne nalnej 2) stosuje aktywne metody słuchania
 3) komunikuje się zgodnie z zasadami komunikacji interpersonalnej podczas wykonywania zadań zawodowych
-4) ponosi odpowiedzialność za podejmowane działania
-1) wymienia konsekwencje nieprzestrzegania obowiązków w zakresie bezpieczeństwa i higieny pracy przez pracownika i pracodawcę
+4) ponosi odpowiedzialność za podejmo- 1) wymienia konsekwencje nieprzestrzegania obowiązwane działania ków w zakresie bezpieczeństwa i higieny pracy przez pracownika i pracodawcę
 2) przewiduje skutki podejmowanych działań, w tym skutki prawne
 3) opisuje konsekwencje niewłaściwego wykonywania czynności zawodowych na stanowisku pracy, w tym posługiwania się niebezpiecznymi substancjami i niewłaściwej eksploatacji maszyn i urządzeń na stanowisku pracy
 5) stosuje techniki radzenia sobie ze stre- 1) przewiduje konsekwencje swoich działań dla innych sem członków zespołu
@@ -1547,8 +1369,8 @@ komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument zwi�
 4) realizuje działania w wyznaczonym czasie
 5) dokonuje modyfikacji zaplanowanych działań
 6) dokonuje samooceny własnej pracy podczas wykonywania zadań zawodowych WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE PRACOWNIK POMOCNICZY W GOSPODARCE ODPADAMI Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji CHM.08. Wykonywanie prac pomocniczych w gospodarce odpadami Pracownia gospodarki odpadami wyposażona w: stanowiska mycia rąk (jedno stanowisko dla sześciu uczniów) wyposażone w umywalkę z instalacją zimnej wody, dozownik mydła, środki do dezynfekcji, ręczniki, stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, urządzeniem funkcyjnym, projektorem multimedialnym, z oprogramowaniem biurowym, tablicę interaktywną, pojemniki na odpady, stoły robocze do segregacji odpadów, demontażu odpadów, naprawy i przygotowania do ponownego użycia rach co najmniej 2 m x 4 m, pokryte materiałem wodoodpornym i odpornym na zabrudzenia (jeden stół uczniów), zestaw narzędzi monterskich: wkrętarki, wkrętaki, kombinerki, klucze płasko-oczkowe, nasadowe i bity, młotki, nik uniwersalny, piła ręczna do drewna i metalu, przecinak, nóż tapicerski, nożyce do metalu, imadło, łom-wyciągacz, zestaw narzędzi porządkowych: szpadel, łopata, szufla, grabie, w tym do liści i trawy, chwytak do śmieci, kurzacz, ręczny sprzęt porządkowy, środki do utrzymania czystości (w tym gąbki i ścierki), taczka, wózek środki czystości, środki dezynfekcyjne, wagi do odpadów: o udźwigu do 10 kg i do 100 kg, wzorcowe zestawy różnych frakcji odpadów (jeden zestaw dla czterech uczniów), instrukcje do wykonywania ćwiczeń, instrukcje obsługi maszyn, urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz padów, taśmociąg sortowniczy, separatory do odpadów, wózek widłowy) i narzędzia stosowane w zakładzie darki odpadami, przykładowe instrukcje bezpieczeństwa i higieny pracy (stosowane przy pracy w gospodarce odpadami), filmy instruktażowe z instalacji gospodarki odpadami wirtualne wycieczki, tablice informacyjne ze schematami funkcjonowania przykładowych zakładów gospodarowania odpadami, przykładowe karty charakterystyki substancji lub mieszaniny chemicznej, środki ochrony indywidualnej: rękawice ochronne w kat. II i III dostosowane do rodzaju prac, gogle ochronne, osłony twarzy, fartuchy ochronne.
-Szkoła zapewnia dostęp do: pojazdu do odbioru i transportu odpadów, brodzika dezynfekcyjnego, maszyn i urządzeń (przenośnik taśmowy, prasa do odpadów, taśmociąg sortowniczy).
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji CHM.08. Wykonywanie prac pomocniczych w gospodarce odpadami Pracownia gospodarki odpadami wyposażona w: – stanowiska mycia rąk (jedno stanowisko dla sześciu uczniów) wyposażone w umywalkę z instalacją zimnej wody, dozownik mydła, środki do dezynfekcji, ręczniki, – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, urządzeniem funkcyjnym, projektorem multimedialnym, z oprogramowaniem biurowym, – tablicę interaktywną, – pojemniki na odpady, – stoły robocze do segregacji odpadów, demontażu odpadów, naprawy i przygotowania do ponownego użycia rach co najmniej 2 m x 4 m, pokryte materiałem wodoodpornym i odpornym na zabrudzenia (jeden stół uczniów), – zestaw narzędzi monterskich: wkrętarki, wkrętaki, kombinerki, klucze płasko-oczkowe, nasadowe i bity, młotki, nik uniwersalny, piła ręczna do drewna i metalu, przecinak, nóż tapicerski, nożyce do metalu, imadło, łom-wyciągacz, – zestaw narzędzi porządkowych: szpadel, łopata, szufla, grabie, w tym do liści i trawy, chwytak do śmieci, kurzacz, ręczny sprzęt porządkowy, środki do utrzymania czystości (w tym gąbki i ścierki), taczka, wózek środki czystości, środki dezynfekcyjne, – wagi do odpadów: o udźwigu do 10 kg i do 100 kg, – wzorcowe zestawy różnych frakcji odpadów (jeden zestaw dla czterech uczniów), – instrukcje do wykonywania ćwiczeń, – instrukcje obsługi maszyn, urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz padów, taśmociąg sortowniczy, separatory do odpadów, wózek widłowy) i narzędzia stosowane w zakładzie darki odpadami, – przykładowe instrukcje bezpieczeństwa i higieny pracy (stosowane przy pracy w gospodarce odpadami), – filmy instruktażowe z instalacji gospodarki odpadami – wirtualne wycieczki, – tablice informacyjne ze schematami funkcjonowania przykładowych zakładów gospodarowania odpadami, – przykładowe karty charakterystyki substancji lub mieszaniny chemicznej, – środki ochrony indywidualnej: rękawice ochronne w kat. II i III dostosowane do rodzaju prac, – gogle ochronne, osłony twarzy, fartuchy ochronne.
+Szkoła zapewnia dostęp do: – pojazdu do odbioru i transportu odpadów, – brodzika dezynfekcyjnego, – maszyn i urządzeń (przenośnik taśmowy, prasa do odpadów, taśmociąg sortowniczy).
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONEJ W ZAWODZIE CHM.08. Wykonywanie prac pomocniczych w gospodarce odpadami Nazwa jednostki efektów kształcenia Liczba godzin CHM.08.1. Bezpieczeństwo i higiena pracy 120 CHM.08.2. Wykonywanie prac związanych z odbiorem i transportem odpadów 350 CHM.08.3. Wykonywanie prac związanych z przetwarzaniem odpadów 350 CHM.08.4. Wykonywanie prac związanych ze zbieraniem odpadów i ich przygotowaniem do ponownego użycia 350 CHM.08.5. Język obcy zawodowy 60 Razem 1230 CHM.08.6. Kompetencje personalne i społeczne
 e) po podstawie programowej kształcenia w zawodzie TECHNIK ANALITYK dodaje się podstawę programową kształcenia w zawodzie TECHNIK GOSPODARKI ODPADAMI w brzmieniu: „TECHNIK GOSPODARKI ODPADAMI KWALIFIKACJE WYODRĘBNIONE W ZAWODZIE CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami CHM.09. Organizowanie i nadzorowanie prac związanych z gospodarowaniem odpadami CELE KSZTAŁCENIA Absolwent szkoły prowadzącej kształcenie w zawodzie technik gospodarki odpadami powinien być przygotowany konywania zadań zawodowych:
 1) w zakresie kwalifikacji CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami:
@@ -1569,9 +1391,7 @@ e) monitorowania oddziaływania prowadzonej działalności związanej z gospodar
 3) określa prawa i obowiązki pracownika 1) wymienia prawa i obowiązki pracownika w zakresie oraz pracodawcy w zakresie bezpieczeń- bezpieczeństwa i higieny pracy oraz ochrony przeciwstwa i higieny pracy oraz ochrony prze- pożarowej ciwpożarowej 2) wymienia prawa i obowiązki pracodawcy w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
 3) opisuje konsekwencje nieprzestrzegania obowiązków przez pracownika i pracodawcę w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
 4) wymienia rodzaje świadczeń przysługujących pracownikowi lub jego rodzinie z tytułu jego wypadku przy pracy lub jego choroby zawodowej
-4) identyfikuje zagrożenia dla zdrowia i życia człowieka oraz mienia i środowiska związane z wykonywaniem zadań zawodowych
-1) rozróżnia rodzaje czynników, które powodują zagrożenia na stanowisku pracy (czynniki niebezpieczne, szkodliwe i uciążliwe)
-2) opisuje skutki oddziaływania czynników środowiska pracy na organizm człowieka, w tym wypadki i choroby zawodowe
+4) identyfikuje zagrożenia dla zdrowia i ży- 1) rozróżnia rodzaje czynników, które powodują zagrocia człowieka oraz mienia i środowiska żenia na stanowisku pracy (czynniki niebezpieczne, związane z wykonywaniem zadań zawo- szkodliwe i uciążliwe) dowych 2) opisuje skutki oddziaływania czynników środowiska pracy na organizm człowieka, w tym wypadki i choroby zawodowe
 3) wyjaśnia sposoby zapobiegania zagrożeniom zdrowia i życia podczas wykonywania zadań zawodowych
 4) omawia zagrożenia związane z bezpośrednim kontaktem z odpadami, w tym zatruciem, zakłuciem, skażeniem, kontaktem ze szkodliwym czynnikiem biologicznym
 5) identyfikuje odpady zwierające substancje chemiczne stwarzające zagrożenie dla zdrowia, życia, mienia lub środowiska
@@ -1595,9 +1415,7 @@ omdlenie, zawał, udar
 2) odczytuje z dokumentacji dopuszczone masy i sposoby postępowania z odpadami w zakresie zbierania, przetwarzania i wytwarzania
 3) omawia przykładowe instrukcje obsługi maszyn, urządzeń i narzędzi stosowanych w zakładzie gospodarki odpadami
 4) omawia przykładowe karty charakterystyki substancji chemicznej lub mieszaniny
-2) charakteryzuje zasady gospodarowania odpadami
-1) definiuje pojęcia odpadu i gospodarowania odpadami
-2) omawia właściwości technologiczne odpadów, w tym: właściwości fizyko-chemiczne, biologiczne i energetyczne
+2) charakteryzuje zasady gospodarowania 1) definiuje pojęcia odpadu i gospodarowania odpadami odpadami 2) omawia właściwości technologiczne odpadów, w tym: właściwości fizyko-chemiczne, biologiczne i energetyczne
 3) klasyfikuje odpady według określonych kryteriów, w tym na podstawie przepisów prawa dotyczących odpadów, gospodarki opakowaniami i odpadami opakowaniowymi, zużytego sprzętu elektrycznego i elektronicznego, baterii i akumulatorów, recyklingu pojazdów wycofanych z eksploatacji, katalogu odpadów oraz właściwości technologicznych odpadów
 4) omawia zasady przeprowadzania badań składu morfologicznego odpadów
 5) omawia hierarchię sposobów postępowania z odpadami i zasadę bliskości
@@ -1648,9 +1466,7 @@ b) dobiera odpowiedni rodzaj maszyn, urządzeń i narzędzi do zbierania odpadó
 c) wykonuje prace związane z konserwacją maszyn, urządzeń i narzędzi do zbierania odpadów
 8) zabezpiecza odpady przed wpływem czynników zewnętrznych i ich negatywnym wpływem na środowisko, zgodnie z ich właściwościami
 9) stosuje dokumenty służące do ewidencji odpadów
-2) stosuje zasady magazynowania odpadów przez prowadzącego przetwarzanie odpadów
-1) stosuje wymagania stawiane miejscom i sposobom magazynowania odpadów
-2) wstępnie sortuje odpady i materiały
+2) stosuje zasady magazynowania odpadów 1) stosuje wymagania stawiane miejscom i sposobom przez prowadzącego przetwarzanie odpa- magazynowania odpadów dów 2) wstępnie sortuje odpady i materiały
 3) wykorzystuje wyposażenie techniczne magazynu odpadów
 4) kontroluje czas i warunki magazynowania odpadów
 3) zbiera i magazynuje odpady niebez- 1) omawia właściwości odpadów niebezpiecznych zgodpieczne nie z przepisami prawa Unii Europejskiej dotyczącymi odpadów
@@ -1730,46 +1546,23 @@ d) rozdrabnia odpady
 5) demontuje pojazdy wycofane z eksploatacji, stosując odpowiednie metody przetwarzania
 6) przygotowuje do dalszego zagospodarowania powstałe w procesie przetwarzania odpady oraz produkty przeznaczone do ponownego użycia CHM.07.8. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiaśrodków językowych w języku obcym jące realizację czynności zawodowych w zakresie: nowożytnym (ze szczególnym uwzględ- a) czynności wykonywanych na stanowisku pracy, nieniem środków leksykalnych) umożli- w tym związanych z zapewnieniem bezpieczeńwiającym realizację czynności zawodo- stwa i higieny pracy wych w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koa) ze stanowiskiem pracy i jego wypo- niecznych do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zab) z głównymi technologiami stosowa- dań zawodowych nymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-d) z usługami świadczonymi w danym zawodzie
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+c) z dokumentacją związaną z danym d) formularzy, specyfikacji oraz innych dokumenzawodem tów związanych z wykonywaniem czynności zad) z usługami świadczonymi w danym wodowych zawodzie e) świadczonych usług, w tym obsługi klienta
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu, ewentułowane wyraźnie, w standardowej od- alnie fragmentu wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone infora także proste wypowiedzi pisemne w ję- macje zyku obcym nowożytnym w zakresie 3) rozpoznaje związki między poszczególnymi częumożliwiającym realizację zadań zawo- ściami tekstu dowych: 4) układa informacje w określonym porządku
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu, ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
+a) reaguje ustnie (np. podczas roz- 5) stosuje zwroty i formy grzecznościowe mowy z innym pracownikiem, 6) dostosowuje styl wypowiedzi do sytuacji klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) stosuje zwroty i formy grzecznościowe
-6) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje semnego w języku obcym nowożytnym zawarte w materiałach wizualnych (np. wykresach, w typowych sytuacjach związanych symbolach, piktogramach, schematach) oraz audiowiz wykonywaniem czynności zawodo- zualnych (np. filmach instruktażowych) wych 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
+6) wykorzystuje strategie służące doskona- 1) korzysta ze słownika dwujęzycznego i jednojęzyczleniu własnych umiejętności językowych nego oraz podnoszące świadomość językową: 2) współdziała z innymi osobami, realizując zadania jęa) wykorzystuje techniki samodzielnej zykowe pracy nad językiem 3) korzysta z tekstów w języku obcym nowożytnym,
+b) współdziała w grupie również za pomocą technologii informacyjno-komuc) korzysta ze źródeł informacji w ję- nikacyjnych zyku obcym nowożytnym 4) identyfikuje słowa klucze, internacjonalizmy
+d) stosuje strategie komunikacyjne 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby i kompensacyjne w przybliżeniu określić znaczenie słowa
 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne CHM.07.9. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury osobistej 1) stosuje zasady kultury osobistej i ogólnie przyjęte i etyki zawodowej normy zachowania w środowisku pracy
 2) przyjmuje odpowiedzialność za powierzone informacje zawodowe
@@ -1786,8 +1579,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 2) wykazuje świadomość odpowiedzialności za wykonywaną pracę
 3) ocenia podejmowane działania
 4) przewiduje konsekwencje niewłaściwego wykonywania czynności zawodowych na stanowisku pracy, w tym posługiwania się niebezpiecznymi substancjami, i niewłaściwej eksploatacji maszyn i urządzeń na stanowisku pracy
-4) wykazuje się kreatywnością i otwartością na zmiany
-1) podaje przykłady wpływu zmiany na różne sytuacje życia społecznego i gospodarczego
+4) wykazuje się kreatywnością i otwartością 1) podaje przykłady wpływu zmiany na różne sytuacje na zmiany życia społecznego i gospodarczego
 2) wskazuje przykłady wprowadzenia zmiany i ocenia skutki jej wprowadzenia
 3) proponuje sposoby rozwiązywania problemów związanych z wykonywaniem zadań zawodowych w nieprzewidywalnych warunkach
 5) stosuje techniki radzenia sobie ze stre- 1) rozpoznaje źródła stresu podczas wykonywania zadań sem zawodowych
@@ -1829,13 +1621,11 @@ d) udzielania pierwszej pomocy
 2) opisuje szkodliwe czynniki biologiczne, w tym: bakterie, wirusy, grzyby, pasożyty, czynniki roślinne i czynniki zwierzęce
 3) opisuje szkodliwe czynniki fizyczne, w tym: hałas, promieniowanie widzialne, mikroklimat, pyły
 4) opisuje szkodliwe czynniki chemiczne, w tym: substancje chemiczne i mieszaniny
-5) opisuje czynniki uciążliwe psychofizyczne, w tym: obciążenie fizyczne (statyczne, dynamiczne, monotypia), obciążenie psychofizyczne i stres
+5) opisuje czynniki uciążliwe – psychofizyczne, w tym: obciążenie fizyczne (statyczne, dynamiczne, monotypia), obciążenie psychofizyczne i stres
 3) stosuje zasady użytkowania i kontroli 1) wymienia wymagania wynikające z przepisów bezobiektów budowlanych pod względem pieczeństwa i higieny pracy dotyczące utrzymywania bezpieczeństwa i higieny pracy obiektów budowlanych oraz częstotliwości i rodzajów przeglądów technicznych
 2) wymienia wymagania bezpieczeństwa i higieny pracy, jakie powinny spełniać pomieszczenia pracy w zakresie możliwości ich usytuowania poniżej poziomu terenu, kubatury, wysokości, podłóg, schodów, oświetlenia, temperatury i wentylacji
 3) rozróżnia pojęcia pomieszczeń pracy stałej i pracy czasowej
-4) charakteryzuje wymagania dotyczące maszyn i innych urządzeń technicznych stosowanych w gospodarce odpadami pod kątem bezpieczeństwa i higieny pracy
-1) wyjaśnia pojęcie „maszyna” oraz wymienia akty prawne, w których są zawarte wymagania bezpieczeństwa maszyn i innych urządzeń technicznych stosowanych w gospodarce odpadami
-2) wymienia obowiązki w zakresie BHP, jakie obowiązują pracodawcę w zakresie maszyn i innych urządzeń technicznych stosowanych w gospodarce odpadami
+4) charakteryzuje wymagania dotyczące 1) wyjaśnia pojęcie „maszyna” oraz wymienia akty maszyn i innych urządzeń technicznych prawne, w których są zawarte wymagania bezpieczeństosowanych w gospodarce odpadami stwa maszyn i innych urządzeń technicznych stosopod kątem bezpieczeństwa i higieny wanych w gospodarce odpadami pracy 2) wymienia obowiązki w zakresie BHP, jakie obowiązują pracodawcę w zakresie maszyn i innych urządzeń technicznych stosowanych w gospodarce odpadami
 3) definiuje pojęcia „zasadniczych wymagań dla maszyn” i „minimalnych wymagań dla maszyn”
 4) wymienia rodzaje kontroli maszyn, które należy przeprowadzać w okresie ich użytkowania, aby utrzymać je w stanie zgodności z wymaganiami bezpieczeństwa i higieny pracy
 5) wymienia informacje, jakie powinna zawierać instrukcja obsługi maszyny, w tym w zakresie bezpieczeństwa i higieny pracy
@@ -1920,14 +1710,9 @@ a) klasyfikację odpadów
 b) dobór i oznakowanie pojemników i kontenerów
 c) warunki zbierania odpadów
 5) nadzoruje ograniczenie negatywnego wpływu odpadów, w tym niebezpiecznych, na środowisko przy ich zbieraniu
-4) organizuje magazynowanie odpadów jako:
-a) wytwórca odpadów (magazynowanie wstępne)
-b) prowadzący zbieranie odpadów (magazynowanie tymczasowe)
-c) prowadzący przetwarzanie odpadów
-1) stosuje zasady planowania przestrzeni magazynu odpadów
-2) nadzoruje sposób wykorzystania powierzchni magazynowej
-3) dobiera wyposażenie techniczne magazynu odpadów
-4) nadzoruje prace związane z magazynowaniem odpadów niebezpiecznych, w tym: klasyfikację, oznakowanie oraz miejsca i sposoby magazynowania odpadów niebezpiecznych
+4) organizuje magazynowanie odpadów 1) stosuje zasady planowania przestrzeni magazynu odjako: padów
+a) wytwórca odpadów (magazynowa- 2) nadzoruje sposób wykorzystania powierzchni maganie wstępne) zynowej
+b) prowadzący zbieranie odpadów 3) dobiera wyposażenie techniczne magazynu odpadów (magazynowanie tymczasowe) 4) nadzoruje prace związane z magazynowaniem odpac) prowadzący przetwarzanie odpadów dów niebezpiecznych, w tym: klasyfikację, oznakowanie oraz miejsca i sposoby magazynowania odpadów niebezpiecznych
 5) zapewnia nieprzekroczenie stanu magazynu oraz bieżące przekazywanie odpadów odbiorcom
 6) prowadzi dokumentację dotyczącą magazynowanych odpadów:
 a) wypełnia dokumenty służące ewidencji odpadów
@@ -2006,56 +1791,26 @@ c) sporządza dokumenty dotyczące stanów magazynowych w przedsiębiorstwie
 2) realizuje obowiązki wprowadzającego produkty na rynek, w tym związane z: wymaganymi poziomami zbierania i recyklingu, kampaniami edukacyjnymi, obowiązkami informacyjnymi
 3) prowadzi sprawozdawczość o produktach, opakowaniach i o gospodarowaniu odpadami oraz dokumentację związaną z wprowadzaniem produktów na rynek, w tym ewidencję wewnętrzną dotyczącą poszczególnych produktów i z rozróżnieniem rodzajów opakowań, związaną z opłatą recyklingową dotycząca toreb na zakupy z tworzywa sztucznego
 4) wskazuje różnice między samodzielnym wykonywaniem obowiązków przez wprowadzającego produkty i zleceniem tych obowiązków innym podmiotom, takim jak organizacja odzysku lub podmiot pośredniczący CHM.09.6. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-1) rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-b) z głównymi technologiami stosowanymi w danym zawodzie,
-c) z dokumentacją związaną z danym zawodem
-d) z usługami świadczonymi w danym zawodzie
-c) procesów i procedur związanych z realizacją zadań zawodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiaśrodków językowych w języku obcym jące realizację czynności zawodowych w zakresie: nowożytnym (ze szczególnym uwzględ- a) czynności wykonywanych na stanowisku pracy, nieniem środków leksykalnych) umożli- w tym związanych z zapewnieniem bezpieczeńwiającym realizację czynności zawodo- stwa i higieny pracy wych w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koa) ze stanowiskiem pracy i jego wypo- niecznych do realizacji czynności zawodowych sażeniem
+b) z głównymi technologiami stosowa- c) procesów i procedur związanych z realizacją zanymi w danym zawodzie, dań zawodowych
+c) z dokumentacją związaną z danym d) formularzy, specyfikacji oraz innych dokumenzawodem tów związanych z wykonywaniem czynności zad) z usługami świadczonymi w danym wodowych zawodzie e) świadczonych usług, w tym obsługi klienta
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu, ewentułowane wyraźnie, w standardowej od- alnie fragmentu wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone infora także proste wypowiedzi pisemne w ję- macje zyku obcym nowożytnym w zakresie 3) rozpoznaje związki między poszczególnymi częumożliwiającym realizację zadań zawo- ściami tekstu dowych: 4) układa informacje w określonym porządku
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu, ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
+a) reaguje ustnie (np. podczas roz- 5) stosuje zwroty i formy grzecznościowe mowy z innym pracownikiem, 6) dostosowuje styl wypowiedzi do sytuacji klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-1) rozpoczyna, prowadzi i kończy rozmowę
-2) uzyskuje i przekazuje informacje i wyjaśnienia
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) stosuje zwroty i formy grzecznościowe
-6) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje semnego w języku obcym nowożytnym zawarte w materiałach wizualnych (np. wykresach, w typowych sytuacjach związanych symbolach, piktogramach, schematach) oraz audiowiz wykonywaniem czynności zawodo- zualnych (np. filmach instruktażowych) wych 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
-6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne CHM.09.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące doskona- 1) korzysta ze słownika dwujęzycznego i jednojęzycznego leniu własnych umiejętności językowych 2) współdziała z innymi osobami, realizując zadania jęoraz podnoszące świadomość językową: zykowe
+a) wykorzystuje techniki samodzielnej 3) korzysta z tekstów w języku obcym nowożytnym, pracy nad językiem również za pomocą technologii informacyjno-komub) współdziała w grupie nikacyjnych
+c) korzysta ze źródeł informacji w ję- 4) identyfikuje słowa klucze, internacjonalizmy zyku obcym nowożytnym 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby
+d) stosuje strategie komunikacyjne w przybliżeniu określić znaczenie słowa i kompensacyjne 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne CHM.09.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury osobistej 1) stosuje zasady kultury osobistej i ogólnie przyjęte i etyki zawodowej normy zachowania w środowisku pracy
 2) przyjmuje odpowiedzialność za powierzone informacje zawodowe
 3) respektuje zasady dotyczące przestrzegania tajemnicy związanej z wykonywanym zawodem i miejscem pracy
@@ -2071,8 +1826,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 2) wykazuje świadomość odpowiedzialności za wykonywaną pracę
 3) ocenia podejmowane działania
 4) przewiduje konsekwencje niewłaściwego wykonywania czynności zawodowych na stanowisku pracy, w tym posługiwania się niebezpiecznymi substancjami, i niewłaściwej eksploatacji maszyn i urządzeń na stanowisku pracy
-4) wykazuje się kreatywnością i otwartością na zmiany
-1) podaje przykłady wpływu zmiany na różne sytuacje życia społecznego i gospodarczego
+4) wykazuje się kreatywnością i otwartością 1) podaje przykłady wpływu zmiany na różne sytuacje na zmiany życia społecznego i gospodarczego
 2) wskazuje przykłady wprowadzenia zmiany i ocenia skutki jej wprowadzenia
 3) proponuje sposoby rozwiązywania problemów związanych z wykonywaniem zadań zawodowych w nieprzewidywalnych warunkach
 5) stosuje techniki radzenia sobie ze stre- 1) rozpoznaje źródła stresu podczas wykonywania zadań sem zawodowych
@@ -2086,9 +1840,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 3) wyznacza własne cele rozwoju zawodowego
 4) planuje drogę rozwoju zawodowego
 5) wskazuje możliwości podnoszenia kompetencji zawodowych, osobistych i społecznych
-7) stosuje zasady komunikacji interpersonalnej
-1) identyfikuje sygnały werbalne i niewerbalne
-2) stosuje aktywne metody słuchania
+7) stosuje zasady komunikacji interperso- 1) identyfikuje sygnały werbalne i niewerbalne nalnej 2) stosuje aktywne metody słuchania
 3) prowadzi dyskusje
 4) udziela informacji zwrotnej
 8) stosuje metody i techniki rozwiązywania 1) opisuje sposoby przeciwdziałania problemom w zeproblemów spole realizującym zadania
@@ -2113,12 +1865,12 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 4) diagnozuje podstawowe bariery w osiąganiu pożądanej efektywności pracy zespołu
 5) proponuje rozwiązania techniczne i orga- 1) stosuje rozwiązania techniczne i organizacyjne wpłynizacyjne wpływające na poprawę wa- wające na poprawę warunków i jakości pracy runków i jakości pracy 2) wskazuje rozwiązania techniczne i organizacyjne wpływające na poprawę warunków i jakości pracy
 3) dokonuje prostych usprawnień stanowiska pracy WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE TECHNIK GOSPODARKI ODPADAMI Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami Pracownia gospodarowania odpadami wyposażona w: stanowiska mycia rąk (jedno stanowisko dla sześciu uczniów) wyposażone w umywalkę z instalacją zimnej wody, dozownik mydła, środki do dezynfekcji i ręczniki, stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, urządzenia cyjnego, projektora multimedialnego, z pakietem biurowym, dostępem do wersji testowej BDO, stanowiska komputerowe dla uczniów (jedno stanowisko dla dwóch uczniów) podłączone do sieci lokalnej do internetu, z oprogramowaniem do ewidencji odpadów i opracowywania wyników badań, dostępem do wej BDO, pojemniki na odpady, stoły robocze do segregacji odpadów, demontażu odpadów, naprawy i przygotowania do ponownego użycia rach co najmniej 2 m x 4 m, pokryte materiałem wodoodpornym i odpornym na zabrudzenia (jeden stół uczniów), zestaw narzędzi: wkrętaki, kombinerki, klucze płasko-oczkowe, nasadowe i bity, młotki, wkrętarki, miernik salny, piła ręczna do drewna i metalu, przecinak, nóż tapicerski, nożyce do metalu, imadło, łom-wyciągacz, przyrządy do sprzątania: szpadel, łopata, szufla, grabie, w tym do liści i trawy, widły, odkurzacz, ręczny sprzęt kowy (wiadro, mop, gąbki i ścierki), środki czystości, środki dezynfekcyjne, taczka, chwytak do śmieci, stanowisko do badania morfologii odpadów z odciągiem wentylacyjnym (jedno stanowisko dla czterech wyposażone w: zestaw sit, pojemniki na poszczególne frakcje, wagi do odpadów o udźwigu do 10 kg wzorcowe zestawy różnych frakcji odpadów (jeden zestaw dla czterech uczniów), wilgotnościomierz z miaru temperatury do badania odpadów, instrukcje do wykonywania ćwiczeń, instrukcje obsługi maszyn, urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz padów, taśmociąg sortowniczy, sita, separatory do odpadów, wózek widłowy) i narzędzi stosowanych w zakładzie spodarowania odpadami, przykładowe instrukcje bezpieczeństwa i higieny pracy (stosowane przy pracy w gospodarce odpadami), filmy instruktażowe z instalacji gospodarki odpadami wirtualne wycieczki, tablice informacyjne ze schematami funkcjonowania przykładowych zakładów gospodarowania odpadami, przykładowe karty charakterystyki substancji lub mieszaniny chemicznej, środki ochrony indywidualnej: rękawice ochronne w kat. II i III dostosowane do rodzaju prac, gogle ochronne, twarzy, fartuchy ochronne.
-Szkoła zapewnia dostęp do: pojazdu do odbioru i transportu odpadów, śmieciarki i pojazdu z urządzeniem hakowym i hydraulicznym samochodowym (HDS), maszyn i urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz odpadów, sortowniczy, sito, separator do odpadów), brodzika dezynfekcyjnego, pompowni odcieków, aparatury kontrolno-pomiarowej (piezometry), wózka jezdniowego podnośnikowego z mechanicznym napędem podnoszenia.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami Pracownia gospodarowania odpadami wyposażona w: – stanowiska mycia rąk (jedno stanowisko dla sześciu uczniów) wyposażone w umywalkę z instalacją zimnej wody, dozownik mydła, środki do dezynfekcji i ręczniki, – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, urządzenia cyjnego, projektora multimedialnego, z pakietem biurowym, dostępem do wersji testowej BDO, – stanowiska komputerowe dla uczniów (jedno stanowisko dla dwóch uczniów) podłączone do sieci lokalnej do internetu, z oprogramowaniem do ewidencji odpadów i opracowywania wyników badań, dostępem do wej BDO, – pojemniki na odpady, – stoły robocze do segregacji odpadów, demontażu odpadów, naprawy i przygotowania do ponownego użycia rach co najmniej 2 m x 4 m, pokryte materiałem wodoodpornym i odpornym na zabrudzenia (jeden stół uczniów), – zestaw narzędzi: wkrętaki, kombinerki, klucze płasko-oczkowe, nasadowe i bity, młotki, wkrętarki, miernik salny, piła ręczna do drewna i metalu, przecinak, nóż tapicerski, nożyce do metalu, imadło, łom-wyciągacz, – przyrządy do sprzątania: szpadel, łopata, szufla, grabie, w tym do liści i trawy, widły, odkurzacz, ręczny sprzęt kowy (wiadro, mop, gąbki i ścierki), środki czystości, środki dezynfekcyjne, taczka, chwytak do śmieci, – stanowisko do badania morfologii odpadów z odciągiem wentylacyjnym (jedno stanowisko dla czterech wyposażone w: zestaw sit, pojemniki na poszczególne frakcje, wagi do odpadów – o udźwigu do 10 kg wzorcowe zestawy różnych frakcji odpadów (jeden zestaw dla czterech uczniów), wilgotnościomierz z miaru temperatury do badania odpadów, instrukcje do wykonywania ćwiczeń, – instrukcje obsługi maszyn, urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz padów, taśmociąg sortowniczy, sita, separatory do odpadów, wózek widłowy) i narzędzi stosowanych w zakładzie spodarowania odpadami, – przykładowe instrukcje bezpieczeństwa i higieny pracy (stosowane przy pracy w gospodarce odpadami), – filmy instruktażowe z instalacji gospodarki odpadami – wirtualne wycieczki, – tablice informacyjne ze schematami funkcjonowania przykładowych zakładów gospodarowania odpadami, – przykładowe karty charakterystyki substancji lub mieszaniny chemicznej, – środki ochrony indywidualnej: rękawice ochronne w kat. II i III dostosowane do rodzaju prac, gogle ochronne, twarzy, fartuchy ochronne.
+Szkoła zapewnia dostęp do: – pojazdu do odbioru i transportu odpadów, śmieciarki i pojazdu z urządzeniem hakowym i hydraulicznym samochodowym (HDS), – maszyn i urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz odpadów, sortowniczy, sito, separator do odpadów), – brodzika dezynfekcyjnego, pompowni odcieków, aparatury kontrolno-pomiarowej (piezometry), – wózka jezdniowego podnośnikowego z mechanicznym napędem podnoszenia.
 Uczeń jest przygotowywany do egzaminu w zakresie obsługi wózków jezdniowych podnośnikowych z mechanicznym napędem podnoszenia, z wyłączeniem wózków z wysięgnikiem oraz wózków z osobą obsługującą podnoszoną dunkiem (kat. II WJO).
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji CHM.09. Organizowanie i nadzorowanie prac związanych z gospodarowaniem odpadami Pracownia organizacji gospodarowania odpadami wyposażona w: stanowiska mycia rąk (jedno stanowisko dla sześciu uczniów) wyposażone w umywalkę z instalacją zimnej wody, dozownik mydła, środki do dezynfekcji, ręczniki, stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, urządzenia cyjnego, projektora multimedialnego, z pakietem biurowym, dostępem do wersji testowej BDO, stanowiska komputerowe dla uczniów (jedno stanowisko dla dwóch uczniów) podłączone do sieci lokalnej do internetu, z oprogramowaniem do ewidencji odpadów i opracowywania wyników badań, dostępem do wej BDO, pojemniki na odpady, stoły robocze do segregacji odpadów, demontażu odpadów, naprawy i przygotowania do ponownego użycia rach co najmniej 2 m x 4 m, pokryte materiałem wodoodpornym i odpornym na zabrudzenia (jeden stół uczniów), zestaw narzędzi: wkrętaki, kombinerki, klucze płasko-oczkowe, nasadowe i bity, młotki, wkrętarki, miernik salny, piła ręczna do drewna i metalu, przecinak, nóż tapicerski, nożyce do metalu, imadło, łom-wyciągacz, przyrządy do sprzątania: szpadel, łopata, szufla, grabie, w tym do liści i trawy, widły, odkurzacz, ręczny sprzęt kowy (wiadro, mop, gąbki i ścierki), środki czystości, środki dezynfekcyjne, taczka, chwytak do śmieci, stanowisko do badania morfologii odpadów z odciągiem wentylacyjnym (jedno stanowisko dla czterech wyposażone w: zestaw sit, pojemniki na poszczególne frakcje, wagi do odpadów o udźwigu do 10 kg wzorcowe zestawy różnych frakcji odpadów (jeden zestaw dla czterech uczniów), wilgotnościomierz z miaru temperatury do badania odpadów, instrukcje do wykonywania ćwiczeń, instrukcje obsługi maszyn, urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz padów, taśmociąg sortowniczy, sita, separatory do odpadów, wózek widłowy) i narzędzi stosowanych w zakładzie spodarowania odpadami, przykładowe instrukcje bezpieczeństwa i higieny pracy (stosowane przy pracy w gospodarce odpadami), filmy instruktażowe z instalacji gospodarki odpadami wirtualne wycieczki, tablice informacyjne ze schematami funkcjonowania przykładowych zakładów gospodarowania odpadami, przykładowe karty charakterystyki substancji lub mieszaniny chemicznej, środki ochrony indywidualnej: rękawice ochronne w kat. II i III dostosowane do rodzaju prac, gogle ochronne, twarzy, fartuchy ochronne.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji CHM.09. Organizowanie i nadzorowanie prac związanych z gospodarowaniem odpadami Pracownia organizacji gospodarowania odpadami wyposażona w: – stanowiska mycia rąk (jedno stanowisko dla sześciu uczniów) wyposażone w umywalkę z instalacją zimnej wody, dozownik mydła, środki do dezynfekcji, ręczniki, – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, urządzenia cyjnego, projektora multimedialnego, z pakietem biurowym, dostępem do wersji testowej BDO, – stanowiska komputerowe dla uczniów (jedno stanowisko dla dwóch uczniów) podłączone do sieci lokalnej do internetu, z oprogramowaniem do ewidencji odpadów i opracowywania wyników badań, dostępem do wej BDO, – pojemniki na odpady, – stoły robocze do segregacji odpadów, demontażu odpadów, naprawy i przygotowania do ponownego użycia rach co najmniej 2 m x 4 m, pokryte materiałem wodoodpornym i odpornym na zabrudzenia (jeden stół uczniów), – zestaw narzędzi: wkrętaki, kombinerki, klucze płasko-oczkowe, nasadowe i bity, młotki, wkrętarki, miernik salny, piła ręczna do drewna i metalu, przecinak, nóż tapicerski, nożyce do metalu, imadło, łom-wyciągacz, – przyrządy do sprzątania: szpadel, łopata, szufla, grabie, w tym do liści i trawy, widły, odkurzacz, ręczny sprzęt kowy (wiadro, mop, gąbki i ścierki), środki czystości, środki dezynfekcyjne, taczka, chwytak do śmieci, – stanowisko do badania morfologii odpadów z odciągiem wentylacyjnym (jedno stanowisko dla czterech wyposażone w: zestaw sit, pojemniki na poszczególne frakcje, wagi do odpadów – o udźwigu do 10 kg wzorcowe zestawy różnych frakcji odpadów (jeden zestaw dla czterech uczniów), wilgotnościomierz z miaru temperatury do badania odpadów, instrukcje do wykonywania ćwiczeń, – instrukcje obsługi maszyn, urządzeń (przenośnik taśmowy, prasa do odpadów, rozrywarka worków, rozdrabniacz padów, taśmociąg sortowniczy, sita, separatory do odpadów, wózek widłowy) i narzędzi stosowanych w zakładzie spodarowania odpadami, – przykładowe instrukcje bezpieczeństwa i higieny pracy (stosowane przy pracy w gospodarce odpadami), – filmy instruktażowe z instalacji gospodarki odpadami – wirtualne wycieczki, – tablice informacyjne ze schematami funkcjonowania przykładowych zakładów gospodarowania odpadami, – przykładowe karty charakterystyki substancji lub mieszaniny chemicznej, – środki ochrony indywidualnej: rękawice ochronne w kat. II i III dostosowane do rodzaju prac, gogle ochronne, twarzy, fartuchy ochronne.
 Miejsce realizacji praktyk zawodowych: zakłady i instytucje zajmujące się gospodarką odpadami i inne podmioty wiące potencjalne miejsce zatrudnienia absolwentów szkół prowadzących kształcenie w zawodzie.
-Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin), a w przypadku branżowej szkoły II stopnia 4 tygodnie (140 godzin).
+Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin), a w przypadku branżowej szkoły II stopnia – 4 tygodnie (140 godzin).
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONEJ W ZAWODZIE CHM.07. Prowadzenie działań operacyjnych związanych z gospodarowaniem odpadami Nazwa jednostki efektów kształcenia Liczba godzin CHM.07.1. Bezpieczeństwo i higiena pracy 30 CHM.07.2. Podstawy gospodarowania odpadami 120 CHM.07.3. Prowadzenie prac związanych z odbiorem i transportem odpadów 140 CHM.07.4. Prowadzenie prac związanych ze zbieraniem i magazynowaniem odpadów 140 CHM.07.5. Przygotowanie do prac związanych z przetwarzaniem odpadów i przygotowaniem do ponownego użycia 100 CHM.07.6. Wykonywanie prac związanych z mechanicznym, biologicznym i termicznym przetwarzaniem odpadów 140 CHM.07.7. Wykonywanie prac związanych z recyklingiem 150 CHM.07.8. Język obcy zawodowy 30 Razem 850 CHM.07.9. Kompetencje personalne i społeczne CHM.09. Organizowanie i nadzorowanie prac związanych z gospodarowaniem odpadami Nazwa jednostki efektów kształcenia Liczba godzin CHM.09.1. Bezpieczeństwo i higiena pracy 15 CHM.09.2. Podstawy gospodarowania odpadami 120 CHM.09.3. Planowanie prac związanych z gospodarowaniem odpadami 120 CHM.09.4. Organizowanie i nadzorowanie prac związanych z gospodarowaniem odpadami 215 CHM.09.5. Ewidencja odpadów i sprawozdawczość środowiskowa oraz pozostała dokumentacja związana z gospodarowaniem odpadami 90 CHM.09.6. Język obcy zawodowy 30 Razem 470+120 CHM.09.7. Kompetencje personalne i społeczne CHM.09.8. Organizacja pracy małych zespołów
 5) w załączniku nr 5:
 a) wprowadzenie do załącznika otrzymuje brzmienie: „Załącznik zawiera podstawy programowe kształcenia w zawodach szkolnictwa branżowego przyporządkowanych do branży drzewno-meblarskiej, określonych w klasyfikacji zawodów szkolnictwa branżowego:
@@ -2151,14 +1903,9 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 5) identyfikuje zagrożenia dla zdrowia i życia 1) określa zagrożenia na stanowisku pracy w przemyśle człowieka oraz mienia i środowiska zwią- nym zane z wykonywaniem zadań zawodowych 2) określa źródła zagrożeń na stanowisku pracy
 3) określa sposoby przeciwdziałania zagrożeniom istniejącym na stanowisku pracy
 4) przeciwdziała zagrożeniom istniejącym na stanowisku
-6) przestrzega przepisów prawa dotyczących bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska występujących w zawodzie
-1) wymienia przepisy prawa dotyczące bezpieczeństwa gieny pracy oraz ochrony środowiska w produkcji drzewnej
-2) określa zasady zachowania się w przypadku pożaru
-3) rozróżnia środki gaśnicze ze względu na zakres ich stosowania
+6) przestrzega przepisów prawa dotyczących 1) wymienia przepisy prawa dotyczące bezpieczeństwa bezpieczeństwa i higieny pracy, ochrony gieny pracy oraz ochrony środowiska w produkcji drzewnej przeciwpożarowej i ochrony środowiska 2) określa zasady zachowania się w przypadku pożaru występujących w zawodzie 3) rozróżnia środki gaśnicze ze względu na zakres ich stosowania
 4) obsługuje maszyny i urządzenia na stanowiskach pracy zgodnie z przepisami dotyczącymi bezpieczeństwa i pracy, ochrony przeciwpożarowej i ochrony środowiska
-7) organizuje stanowisko pracy zgodnie z wymaganiami ergonomii, przepisami bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska
-1) określa zasady organizacji stanowiska pracy
-2) organizuje stanowisko pracy zgodnie z wymaganiami nomii oraz przepisami dotyczącymi bezpieczeństwa pracy, ochrony przeciwpożarowej i ochrony środowiska
+7) organizuje stanowisko pracy zgodnie z wy- 1) określa zasady organizacji stanowiska pracy maganiami ergonomii, przepisami bezpie- 2) organizuje stanowisko pracy zgodnie z wymaganiami czeństwa i higieny pracy, ochrony przeciw- nomii oraz przepisami dotyczącymi bezpieczeństwa pożarowej i ochrony środowiska pracy, ochrony przeciwpożarowej i ochrony środowiska
 3) utrzymuje ład i porządek na stanowisku pracy
 8) charakteryzuje środki ochrony indywidual- 1) określa środki ochrony indywidualnej i zbiorowej stosowane nej i zbiorowej stosowane podczas wyko- podczas wykonywania zadań zawodowych nywania zadań zawodowych 2) używa środków ochrony indywidualnej i zbiorowej z przeznaczeniem
 3) określa informacje, jakie zawierają znaki bezpieczeństwa i higieny pracy, ewakuacji i ochrony przeciwpożarowej
@@ -2226,9 +1973,7 @@ d) wymiary
 6) monitoruje pracę systemów, urządzeń i maszyn do produkcji wyrobów drzewnych
 7) koryguje parametry pracy, urządzeń, maszyn i narzędzi podstawie danych zbieranych przez systemy połączone szynami i urządzeniami
 8) wykonuje elementy wyrobu z drewna lub materiałów nopochodnych na urządzeniach i maszynach sterowanych cyfrowo zgodnie z dokumentacją techniczną wyrobu
-6) posługuje się narzędziami kontrolno-pomiarowymi w procesach obsługi urządzeń i maszyn sterowanych cyfrowo do produkcji drzewnej
-1) rozróżnia narzędzia i przyrządy kontrolno-pomiarowe gowe i cyfrowe (np. suwmiarka, miara zwijana, grubościomierz, wilgotnościomierz, połyskościomierz)
-2) określa zastosowanie narzędzi i przyrządów kontrolno-pomiarowych
+6) posługuje się narzędziami kontrolno-po- 1) rozróżnia narzędzia i przyrządy kontrolno-pomiarowe miarowymi w procesach obsługi urządzeń gowe i cyfrowe (np. suwmiarka, miara zwijana, grubościoi maszyn sterowanych cyfrowo do produk- mierz, wilgotnościomierz, połyskościomierz) cji drzewnej 2) określa zastosowanie narzędzi i przyrządów kontrolno-pomiarowych
 3) dobiera przyrządy i metody kontrolno-pomiarowe do wykonywanych pomiarów w procesie obsługi urządzeń
 4) stosuje narzędzia i przyrządy kontrolno-pomiarowe z przeznaczeniem
 5) sprawdza działanie przyrządów pomiarowych i ich przechowywanie
@@ -2279,9 +2024,7 @@ widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
 5) dokonuje próbnego uruchomienia urządzeń 1) sprawdza poprawność wykonanych czynności konserwacyji maszyn sterowanych cyfrowo do produk- nych i naprawczych cji drzewnej 2) sprawdza poprawność działania i zabezpieczenia maszyny
 3) zgłasza gotowość maszyny do bezpiecznego włączenia w proces produkcyjny
 4) ustawia parametry w zakresie regulacji maszyn i urządzeń przeprowadzonej konserwacji i naprawie DRM.09.5. Obsługiwanie i konserwacja konwencjonalnych maszyn i urządzeń do produkcji drzewnej Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) charakteryzuje budowę konwencjonalnych maszyn i urządzeń do produkcji drzewnej
-1) określa budowę i zasady działania maszyn i urządzeń
-2) rozpoznaje części i mechanizmy maszyn i urządzeń
+1) charakteryzuje budowę konwencjonalnych 1) określa budowę i zasady działania maszyn i urządzeń maszyn i urządzeń do produkcji drzewnej 2) rozpoznaje części i mechanizmy maszyn i urządzeń
 3) opisuje osie i wały
 4) wyjaśnia budowę i zastosowanie łożysk ślizgowych nych
 5) wyjaśnia budowę i zasadę działania sprzęgieł i hamulców
@@ -2332,58 +2075,30 @@ widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
 7) stosuje sposoby zapobiegania korozji
 8) dobiera metody ochrony części przed korozją
 9) wskazuje przykłady zastosowania powłok ochronnych i ochrony elektrochemicznej DRM.09.6. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
+1) posługuje się podstawowym zasobem środ- 1) rozpoznaje oraz stosuje środki językowe umożliwiające ków językowych w języku obcym nowo- lizację czynności zawodowych w zakresie: żytnym (ze szczególnym uwzględnieniem a) czynności wykonywanych na stanowisku pracy, środków leksykalnych) umożliwiającym związanych z zapewnieniem bezpieczeństwa i higieny realizację czynności zawodowych w zakre- pracy sie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koniecznych
+a) ze stanowiskiem pracy i jego wyposa- do realizacji czynności zawodowych żeniem c) procesów i procedur związanych z realizacją zadań
+b) z głównymi technologiami stosowa- wodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumentów
+c) z dokumentacją związaną z danym za- związanych z wykonywaniem czynności zawodowych wodem e) świadczonych usług, w tym obsługi klienta
 d) z usługami świadczonymi w danym zawodzie
-1) rozpoznaje oraz stosuje środki językowe umożliwiające lizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań wodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+2) rozumie proste wypowiedzi ustne artykuło- 1) określa główną myśl wypowiedzi lub tekstu, ewentualnie wane wyraźnie, w standardowej odmianie fragmentu wypowiedzi lub tekstu języka obcego nowożytnego, a także proste 2) znajduje w wypowiedzi lub tekście określone informacje wypowiedzi pisemne w języku obcym no- 3) rozpoznaje związki między poszczególnymi częściami wożytnym w zakresie umożliwiającym rea- 4) układa informacje w określonym porządku lizację zadań zawodowych:
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np.
 rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu, ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-1) opisuje przedmioty, działania i zjawiska związane z ciami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach wodowych (np. udziela instrukcji, wskazówek, określa sady)
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, spójne 1) opisuje przedmioty, działania i zjawiska związane z i logiczne wypowiedzi ustne i pisemne ciami zawodowymi w języku obcym nowożytnym w zakresie 2) przedstawia sposób postępowania w różnych sytuacjach umożliwiającym realizację zadań zawodo- wodowych (np. udziela instrukcji, wskazówek, określa wych: sady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakterze czynności zawodowych (np. polece- 5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie, komunikat, instrukcję) nie do sytuacji
+b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sytu- 1) rozpoczyna, prowadzi i kończy rozmowę acjach związanych z realizacją zadań za- 2) uzyskuje i przekazuje informacje i wyjaśnienia wodowych – reaguje w języku obcym no- 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza wożytnym w sposób zrozumiały, adekwat- lub nie zgadza z opiniami innych osób nie do sytuacji komunikacyjnej, ustnie lub 4) prowadzi proste negocjacje związane z czynnościami w formie prostego tekstu: dowymi
+a) reaguje ustnie (np. podczas rozmowy 5) stosuje zwroty i formy grzecznościowe z innym pracownikiem, klientem, 6) dostosowuje styl wypowiedzi do sytuacji kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-1) rozpoczyna, prowadzi i kończy rozmowę
-2) uzyskuje i przekazuje informacje i wyjaśnienia
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza lub nie zgadza z opiniami innych osób
-4) prowadzi proste negocjacje związane z czynnościami dowymi
-5) stosuje zwroty i formy grzecznościowe
-6) dostosowuje styl wypowiedzi do sytuacji
-5) zmienia formę przekazu ustnego lub pisemnego w języku obcym nowożytnym w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-1) przekazuje w języku obcym nowożytnym informacje w materiałach wizualnych (np. wykresach, symbolach, gramach, schematach) oraz audiowizualnych (np. filmach struktażowych)
+5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje semnego w języku obcym nowożytnym w materiałach wizualnych (np. wykresach, symbolach, w typowych sytuacjach związanych z wy- gramach, schematach) oraz audiowizualnych (np. filmach konywaniem czynności zawodowych struktażowych)
 2) przekazuje w języku polskim informacje sformułowane zyku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje mułowane w języku polskim lub tym języku obcym żytnym
 4) przedstawia publicznie w języku obcym nowożytnym śniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem obcym nowożytnym
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby bliżeniu określić znaczenie słowa
-6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje znane słowa innymi, wykorzystuje opis, środki niewerbalne DRM.09.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące doskonale- 1) korzysta ze słownika dwujęzycznego i jednojęzycznego niu własnych umiejętności językowych 2) współdziała z innymi osobami, realizując zadania językowe oraz podnoszące świadomość językową: 3) korzysta z tekstów w języku obcym nowożytnym, również
+a) wykorzystuje techniki samodzielnej za pomocą technologii informacyjno-komunikacyjnych pracy nad językiem obcym nowożyt- 4) identyfikuje słowa klucze, internacjonalizmy nym 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby
+b) współdziała w grupie bliżeniu określić znaczenie słowa
+c) korzysta ze źródeł informacji w ję- 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje zyku obcym nowożytnym znane słowa innymi, wykorzystuje opis, środki niewerbalne
+d) stosuje strategie komunikacyjne i kompensacyjne DRM.09.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury osobistej i etyki 1) stosuje zasady kultury osobistej i ogólnie przyjęte normy zawodowej chowania w środowisku pracy
 2) przyjmuje odpowiedzialność za powierzone informacje wodowe
 3) respektuje zasady dotyczące przestrzegania tajemnicy zanej z zawodem i miejscem pracy
@@ -2428,9 +2143,9 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 3) angażuje się w realizację wspólnych działań zespołu
 4) przestrzega zasad ustalonych w zespole
 5) modyfikuje sposób zachowania, uwzględniając stanowisko wypracowane wspólnie z innymi członkami zespołu WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE OPERATOR MASZYN I URZĄDZEŃ PRZEMYSŁU DRZEWNEGO Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji DRM.09. Obsługa i monitorowanie i maszyn sterowanych cyfrowo do produkcji drzewnej Pracownia materiałoznawstwa i technologii mechanicznych wyposażona w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu z drukarką, lub urządzeniem wielofunkcyjnym oraz z projektorem multimedialnym lub tablicą interaktywną, lub monitorem aktywnym, zestawy próbek różnych gatunków drewna, materiałów drzewnych, tworzyw drzewnych, materiałów drewnopochodnych, klejów i substancji dodatkowych, materiałów do zabezpieczania i uszlachetniania powierzchni, modele połączeń elementów z drewna i materiałów drewnopochodnych, wyrobów z drewna i materiałów pochodnych, opakowań, konstrukcji i podzespołów, detale, okucia i łączniki, katalogi wyrobów z drewna i materiałów drewnopochodnych, schematy maszyn i urządzeń do przetwarzania drewna i materiałów drewnopochodnych, schematy procesów technologicznych, dokumentacje technologiczne, normy dotyczące przetwarzania drewna i materiałów drewnopochodnych oraz wykonywania wyrobów z drewna teriałów drewnopochodnych, modele, przekroje, atrapy maszyn i urządzeń, elementy układów hydraulicznych i pneumatycznych, próbki materiałów konstrukcyjnych i eksploatacyjnych, elementy maszyn i urządzeń, katalogi maszyn i narzędzi, schematy części maszyn i urządzeń narzędzi, parametry kątowe narzędzi, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczno-ruchowe maszyn i urządzeń, strukcje technologiczne i stanowiskowe.
-Warsztaty szkolne wyposażone w: stanowiska do wykonania wyrobów z drewna i materiałów drewnopochodnych (jedno stanowisko dla dwóch elementy i modele wyrobów z drewna i materiałów drewnopochodnych, specjalistyczny sprzęt kontrolno-pomiarowy stosowany w produkcji drzewnej (suwmiarka, miara zwijana, mierz, wilgotnościomierz, połyskościomierz), obrabiarki konwencjonalne, wiertarki stołowe, szlifierkę, ostrzałkę, przyrządy traserskie, przyrządy pomiarowe, dzia do obróbki ręcznej i maszynowej skrawaniem, elementy i modele wyrobów drewnianych lub drewnopochodnych, narzędzia, maszyny i urządzenia do ręcznej szynowej obróbki drewna i tworzyw drzewnych, obróbki hydrotermicznej i plastycznej, prac wykończeniowych tażowych, przyrządy i uchwyty obróbkowe, schematy części maszyn i urządzeń, rysunki ostrzy narzędzi, parametry kątowe narzędzi, oprzyrządowanie obróbkowe, narzędzia i urządzenia montażowe, katalogi i materiały informacyjne przedsiębiorstw produkujących narzędzia, obrabiarki i urządzenia, schematy procesów technologicznych, środki ochrony indywidualnej, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczno-ruchowe maszyn i urządzeń, strukcje technologiczne i stanowiskowe, instalację sprężonego powietrza, instalację odciągu pyłu drzewnego.
-Szkoła zapewnia dostęp do maszyn sterowanych cyfrowo przemysłu drzewnego: centrum obróbcze (CNC), wiertarki wielowrzecionowe sterowane cyfrowo, piła panelowa.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji DRM.09. Obsługa i monitorowanie i maszyn sterowanych cyfrowo do produkcji drzewnej Pracownia materiałoznawstwa i technologii mechanicznych wyposażona w: – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu z drukarką, lub urządzeniem wielofunkcyjnym oraz z projektorem multimedialnym lub tablicą interaktywną, lub monitorem aktywnym, – zestawy próbek różnych gatunków drewna, materiałów drzewnych, tworzyw drzewnych, materiałów drewnopochodnych, klejów i substancji dodatkowych, materiałów do zabezpieczania i uszlachetniania powierzchni, – modele połączeń elementów z drewna i materiałów drewnopochodnych, wyrobów z drewna i materiałów pochodnych, opakowań, konstrukcji i podzespołów, detale, okucia i łączniki, – katalogi wyrobów z drewna i materiałów drewnopochodnych, – schematy maszyn i urządzeń do przetwarzania drewna i materiałów drewnopochodnych, – schematy procesów technologicznych, dokumentacje technologiczne, – normy dotyczące przetwarzania drewna i materiałów drewnopochodnych oraz wykonywania wyrobów z drewna teriałów drewnopochodnych, – modele, przekroje, atrapy maszyn i urządzeń, elementy układów hydraulicznych i pneumatycznych, – próbki materiałów konstrukcyjnych i eksploatacyjnych, elementy maszyn i urządzeń, – katalogi maszyn i narzędzi, – schematy części maszyn i urządzeń narzędzi, parametry kątowe narzędzi, – instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczno-ruchowe maszyn i urządzeń, strukcje technologiczne i stanowiskowe.
+Warsztaty szkolne wyposażone w: – stanowiska do wykonania wyrobów z drewna i materiałów drewnopochodnych (jedno stanowisko dla dwóch – elementy i modele wyrobów z drewna i materiałów drewnopochodnych, – specjalistyczny sprzęt kontrolno-pomiarowy stosowany w produkcji drzewnej (suwmiarka, miara zwijana, mierz, wilgotnościomierz, połyskościomierz), – obrabiarki konwencjonalne, wiertarki stołowe, szlifierkę, ostrzałkę, przyrządy traserskie, przyrządy pomiarowe, dzia do obróbki ręcznej i maszynowej skrawaniem, – elementy i modele wyrobów drewnianych lub drewnopochodnych, narzędzia, maszyny i urządzenia do ręcznej szynowej obróbki drewna i tworzyw drzewnych, obróbki hydrotermicznej i plastycznej, prac wykończeniowych tażowych, – przyrządy i uchwyty obróbkowe, – schematy części maszyn i urządzeń, rysunki ostrzy narzędzi, parametry kątowe narzędzi, – oprzyrządowanie obróbkowe, narzędzia i urządzenia montażowe, – katalogi i materiały informacyjne przedsiębiorstw produkujących narzędzia, – obrabiarki i urządzenia, schematy procesów technologicznych, – środki ochrony indywidualnej, – instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczno-ruchowe maszyn i urządzeń, strukcje technologiczne i stanowiskowe, – instalację sprężonego powietrza, – instalację odciągu pyłu drzewnego.
+Szkoła zapewnia dostęp do maszyn sterowanych cyfrowo przemysłu drzewnego: – centrum obróbcze (CNC), – wiertarki wielowrzecionowe sterowane cyfrowo, – piła panelowa.
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONEJ W ZAWODZIE DRM.09. Obsługa i monitorowanie urządzeń i maszyn sterowanych cyfrowo do produkcji drzewnej Nazwa jednostki efektów kształcenia Liczba godzin DRM.09.1. Bezpieczeństwo i higiena pracy 30 DRM.09.2. Podstawy przetwórstwa drewna i materiałów drewnopochodnych 120 DRM.09.3. Obsługiwanie maszyn i urządzeń sterowanych cyfrowo do produkcji drzewnej 240 DRM.09.4. Konserwacja maszyn i urządzeń sterowanych cyfrowo do produkcji drzewnej 210 DRM.09.5. Obsługiwanie i konserwacja konwencjonalnych maszyn i urządzeń do produkcji drzewnej 90 DRM.09.6. Język obcy zawodowy 30 Razem 720 DRM.09.7. Kompetencje personalne i społeczne MOŻLIWOŚCI PODNOSZENIA KWALIFIKACJI W ZAWODZIE Absolwent szkoły prowadzącej kształcenie w zawodzie operator maszyn i urządzeń przemysłu drzewnego po potwierdzeniu kwalifikacji DRM.09. Obsługa i monitorowanie urządzeń i maszyn sterowanych cyfrowo do produkcji drzewnej kać dyplom zawodowy w zawodzie technik przemysłu drzewnego po potwierdzeniu kwalifikacji DRM.10. Planowanie ganizacja procesów zautomatyzowanych w przemyśle drzewnym oraz uzyskaniu wykształcenia średniego lub branżowego.”,
 c) uchyla się podstawę programową kształcenia w zawodzie MECHANIK-OPERATOR MASZYN DO CJI DRZEWNEJ,
 d) po podstawie programowej kształcenia w zawodzie TECHNIK PAPIERNICTWA dodaje się podstawę mową kształcenia w zawodzie TECHNIK PRZEMYSŁU DRZEWNEGO w brzmieniu: „ TECHNIK PRZEMYSŁU DRZEWNEGO KWALIFIKACJE WYODRĘBNIONE W ZAWODZIE DRM.09. Obsługa i monitorowanie urządzeń i maszyn sterowanych cyfrowo do produkcji drzewnej DRM.10. Planowanie i organizacja procesów zautomatyzowanych w przemyśle drzewnym CELE KSZTAŁCENIA Absolwent szkoły prowadzącej kształcenie w zawodzie technik przemysłu drzewnego powinien być przygotowany konywania zadań zawodowych:
@@ -2542,9 +2257,7 @@ d) wymiary
 4) podejmuje działania eliminujące wady obróbki materiałów drzewnych i drewnopochodnych
 5) wprowadza zmiany w parametrach wpływające na poprawę jakości wytwarzanych produktów
 6) prowadzi bieżącą ewidencję oceny jakości
-8) charakteryzuje wymagania dotyczące transportu wewnętrznego i składowania materiałów, produktów i wyrobów drzewnych
-1) rozróżnia środki transportu i przechowywania materiałów, produktów i wyrobów drzewnych
-2) opisuje budowę i zasady działania wybranych maszyn dzeń stosowanych do transportu wewnętrznego (np.
+8) charakteryzuje wymagania dotyczące 1) rozróżnia środki transportu i przechowywania materiałów, transportu wewnętrznego i składowania produktów i wyrobów drzewnych materiałów, produktów i wyrobów drzew- 2) opisuje budowę i zasady działania wybranych maszyn nych dzeń stosowanych do transportu wewnętrznego (np.
 widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
 3) organizuje stanowisko składowania i magazynowania riałów
 4) dobiera środki transportu wewnętrznego adekwatnie finiowanych potrzeb
@@ -2612,8 +2325,7 @@ widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
 3) rozróżnia uszkodzenia nagłe zespołów maszyn i urządzeń mających postać złamania, rozerwania, deformacji kształtu, zatarcia, przepalenia, zwarcia, przerwy i inne
 4) określa przyczyny uszkodzeń maszyn i urządzeń
 5) podaje przyczyny powstawania uszkodzeń konstrukcyjnych, technologicznych, eksploatacyjnych i starzeniowych i urządzeń
-7) stosuje narzędzia, przyrządy i materiały do prac konserwacyjnych
-1) rozróżnia narzędzia, przyrządy i materiały do prac konserwacyjnych
+7) stosuje narzędzia, przyrządy i materiały do 1) rozróżnia narzędzia, przyrządy i materiały do prac konserwaprac konserwacyjnych cyjnych
 2) analizuje chronogram produkcji i plan konserwacji
 3) dobiera materiały, narzędzia, przyrządy i urządzenia konserwacyjnych
 4) przygotowuje narzędzia, przyrządy materiały niezbędne wykonania prac konserwacyjnych
@@ -2634,54 +2346,30 @@ widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
 7) stosuje sposoby zapobiegania korozji
 8) dobiera metody ochrony części przed korozją
 9) wskazuje przykłady zastosowania powłok ochronnych i ochrony elektrochemicznej DRM.09.6. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-1) rozpoznaje oraz stosuje środki językowe umożliwiające lizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań wodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-c) z dokumentacją związaną z danym zawodem
+1) posługuje się podstawowym zasobem środ- 1) rozpoznaje oraz stosuje środki językowe umożliwiające ków językowych w języku obcym nowo- lizację czynności zawodowych w zakresie: żytnym (ze szczególnym uwzględnieniem a) czynności wykonywanych na stanowisku pracy, środków leksykalnych) umożliwiającym związanych z zapewnieniem bezpieczeństwa i higieny realizację czynności zawodowych w zakre- pracy sie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koniecznych
+a) ze stanowiskiem pracy i jego wyposa- do realizacji czynności zawodowych żeniem c) procesów i procedur związanych z realizacją zadań
+b) z głównymi technologiami stosowa- wodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
+c) z dokumentacją związaną z danym za- e) świadczonych usług, w tym obsługi klienta wodem
 d) z usługami świadczonymi w danym zawodzie
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+2) rozumie proste wypowiedzi ustne artykuło- 1) określa główną myśl wypowiedzi lub tekstu, ewentualnie wane wyraźnie, w standardowej odmianie fragmentu wypowiedzi lub tekstu języka obcego nowożytnego, a także proste 2) znajduje w wypowiedzi lub tekście określone informacje wypowiedzi pisemne w języku obcym no- 3) rozpoznaje związki między poszczególnymi częściami wożytnym w zakresie umożliwiającym rea- 4) układa informacje w określonym porządku lizację zadań zawodowych:
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np.
 rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu, ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z ściami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach wodowych (np. udziela instrukcji, wskazówek, określa sady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytu- 1) rozpoczyna, prowadzi i kończy rozmowę acjach związanych z realizacją zadań za- 2) uzyskuje i przekazuje informacje i wyjaśnienia wodowych reaguje w języku obcym no- 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza wożytnym w sposób zrozumiały, lub nie zgadza z opiniami innych osób adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, spójne 1) opisuje przedmioty, działania i zjawiska związane z i logiczne wypowiedzi ustne i pisemne ściami zawodowymi w języku obcym nowożytnym w zakresie 2) przedstawia sposób postępowania w różnych sytuacjach umożliwiającym realizację zadań zawodo- wodowych (np. udziela instrukcji, wskazówek, określa wych: sady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakterze czynności zawodowych (np. polece- 5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie, komunikat, instrukcję) nie do sytuacji
+b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sytu- 1) rozpoczyna, prowadzi i kończy rozmowę acjach związanych z realizacją zadań za- 2) uzyskuje i przekazuje informacje i wyjaśnienia wodowych – reaguje w języku obcym no- 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza wożytnym w sposób zrozumiały, lub nie zgadza z opiniami innych osób adekwatnie do sytuacji komunikacyjnej, 4) prowadzi proste negocjacje związane z czynnościami ustnie lub w formie prostego tekstu: dowymi
+a) reaguje ustnie (np. podczas rozmowy 5) stosuje zwroty i formy grzecznościowe z innym pracownikiem, klientem, 6) dostosowuje styl wypowiedzi do sytuacji kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-4) prowadzi proste negocjacje związane z czynnościami dowymi
-5) stosuje zwroty i formy grzecznościowe
-6) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje semnego w języku obcym nowożytnym w materiałach wizualnych (np. wykresach, symbolach, w typowych sytuacjach związanych z wy- gramach, schematach) oraz audiowizualnych (np. filmach konywaniem czynności zawodowych struktażowych)
 2) przekazuje w języku polskim informacje sformułowane zyku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje mułowane w języku polskim lub tym języku obcym żytnym
 4) przedstawia publicznie w języku obcym nowożytnym śniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem obcym nowożytnym
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby bliżeniu określić znaczenie słowa
-6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje znane słowa innymi, wykorzystuje opis, środki niewerbalne DRM.09.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące doskonale- 1) korzysta ze słownika dwujęzycznego i jednojęzycznego niu własnych umiejętności językowych 2) współdziała z innymi osobami, realizując zadania językowe oraz podnoszące świadomość językową: 3) korzysta z tekstów w języku obcym nowożytnym, również
+a) wykorzystuje techniki samodzielnej za pomocą technologii informacyjno-komunikacyjnych pracy nad językiem obcym nowożyt- 4) identyfikuje słowa klucze, internacjonalizmy nym 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby
+b) współdziała w grupie bliżeniu określić znaczenie słowa
+c) korzysta ze źródeł informacji w ję- 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje zyku obcym nowożytnym znane słowa innymi, wykorzystuje opis, środki niewerbalne
+d) stosuje strategie komunikacyjne i kompensacyjne DRM.09.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury osobistej i etyki 1) stosuje zasady kultury osobistej i ogólnie przyjęte normy zawodowej chowania w środowisku pracy
 2) przyjmuje odpowiedzialność za powierzone informacje wodowe
 3) respektuje zasady dotyczące przestrzegania tajemnicy zanej z zawodem i miejscem pracy
@@ -2733,9 +2421,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 6) określa sposoby przeciwdziałania zagrożeniom istniejącym stanowiskach pracy
 2) stosuje środki techniczne ochrony indywi- 1) rozróżnia środki ochrony indywidualnej i zbiorowej dualnej i zbiorowej podczas wykonywania wykonywania zadań zawodowych na stanowisku pracy zadań zawodowych 2) dobiera środki ochrony indywidualnej i zbiorowej do wykonywanych prac na stanowisku pracy
 3) identyfikuje funkcje odzieży ochronnej
-3) organizuje stanowisko pracy zgodnie z wymaganiami ergonomii oraz przepisami dotyczącymi bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska
-1) stosuje zasady organizacji pracy w procesie produkcji bów stolarskich
-2) określa wpływ wprowadzanych zmian na poszczególnych pach procesu produkcyjnego na poziom bezpieczeństwa gieny pracy
+3) organizuje stanowisko pracy zgodnie z wy- 1) stosuje zasady organizacji pracy w procesie produkcji maganiami ergonomii oraz przepisami do- bów stolarskich tyczącymi bezpieczeństwa i higieny pracy, 2) określa wpływ wprowadzanych zmian na poszczególnych ochrony przeciwpożarowej i ochrony środo- pach procesu produkcyjnego na poziom bezpieczeństwa wiska gieny pracy
 3) wskazuje działania prewencyjne zapobiegające powstawaniu pożaru lub innego zagrożenia w przedsiębiorstwie
 4) organizuje wybrane stanowisko pracy zgodnie z wymaganiami ergonomii oraz przepisami dotyczącymi bezpieczeństwa gieny pracy, ochrony przeciwpożarowej i ochrony środowiska
 5) określa kryteria ergonomicznej struktury przestrzennej wisk pracy
@@ -2755,9 +2441,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 6) prezentuje udzielanie pierwszej pomocy w urazowych nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
 7) prezentuje udzielanie pierwszej pomocy w nieurazowych nach nagłego zagrożenia zdrowotnego, np. omdlenie, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji DRM.10.2. Podstawy automatyki przemysłu drzewnego Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się rysunkami technicznymi schematycznymi, złożeniowymi i montażowymi
-1) rozpoznaje rodzaje rysunku technicznego układów automatyki przemysłu drzewnego
-2) odczytuje informacje techniczne zawarte na rysunku nym schematycznym układu automatyki przemysłu drzewnego
+1) posługuje się rysunkami technicznymi sche- 1) rozpoznaje rodzaje rysunku technicznego matycznymi, złożeniowymi i montażowymi 2) odczytuje informacje techniczne zawarte na rysunku układów automatyki przemysłu drzewnego nym schematycznym układu automatyki przemysłu drzewnego
 3) odczytuje informacje techniczne zawarte na rysunku wym układu automatyki przemysłu drzewnego
 4) odczytuje informacje techniczne zawarte na rysunku wym układu automatyki przemysłu drzewnego
 2) charakteryzuje układy sterowania stoso- 1) rozróżnia części urządzeń i układów automatyki przemysłu wane w układach automatyki przemysłu drzewnego drzewnego 2) opisuje funkcje części układów automatyki przemysłu drzewnego
@@ -2823,52 +2507,31 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 3) ustala warunki pracy na stanowiskach zgodnie z zasadami ergonomii
 4) kontroluje pracę wykonywaną podczas przebiegu procesów produkcyjnych
 5) koryguje pracę wykonywaną podczas przebiegu procesów dukcyjnych DRM.10.5. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
+1) posługuje się podstawowym zasobem środ- 1) rozpoznaje oraz stosuje środki językowe umożliwiające ków językowych w języku obcym nowożyt- zację czynności zawodowych w zakresie: nym (ze szczególnym uwzględnieniem a) czynności wykonywanych na stanowisku pracy, środków leksykalnych) umożliwiającym re- związanych z zapewnieniem bezpieczeństwa i higieny alizację czynności zawodowych w zakresie pracy tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koniecznych
+a) ze stanowiskiem pracy i jego wyposa- realizacji czynności zawodowych żeniem c) procesów i procedur związanych z realizacją zadań
+b) z głównymi technologiami stosowa- dowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumentów
+c) z dokumentacją związaną z danym za- zanych z wykonywaniem czynności zawodowych wodem e) świadczonych usług, w tym obsługi klienta
 d) z usługami świadczonymi w danym zawodzie
-1) rozpoznaje oraz stosuje środki językowe umożliwiające zację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań dowych
-d) formularzy, specyfikacji oraz innych dokumentów zanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+2) rozumie proste wypowiedzi ustne artykuło- 1) określa główną myśl wypowiedzi lub tekstu, ewentualnie wane wyraźnie, w standardowej odmianie mentu wypowiedzi lub tekstu języka obcego nowożytnego, a także proste 2) znajduje w wypowiedzi lub tekście określone informacje wypowiedzi pisemne w języku obcym no- 3) rozpoznaje związki między poszczególnymi częściami wożytnym w zakresie umożliwiającym rea- 4) układa informacje w określonym porządku lizację zadań zawodowych:
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np.
 rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np.
 napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu, ewentualnie mentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi
-2) przedstawia sposób postępowania w różnych sytuacjach dowych (np. udziela instrukcji, wskazówek, określa zasady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytua- 1) rozpoczyna, prowadzi i kończy rozmowę cjach związanych z realizacją zadań zawo- 2) uzyskuje i przekazuje informacje i wyjaśnienia dowych reaguje w języku obcym nowo- 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza żytnym w sposób zrozumiały, adekwatnie lub nie zgadza z opiniami innych osób do sytuacji komunikacyjnej, ustnie lub 4) prowadzi proste negocjacje związane z czynnościami w formie prostego tekstu: wymi
+3) samodzielnie tworzy krótkie, proste, spójne 1) opisuje przedmioty, działania i zjawiska związane z czynnoi logiczne wypowiedzi ustne i pisemne ściami zawodowymi w języku obcym nowożytnym w zakresie 2) przedstawia sposób postępowania w różnych sytuacjach umożliwiającym realizację zadań zawodo- dowych (np. udziela instrukcji, wskazówek, określa zasady) wych: 3) wyraża i uzasadnia swoje stanowisko
+a) tworzy krótkie, proste, spójne i lo- 4) stosuje zasady konstruowania tekstów o różnym charakterze giczne wypowiedzi ustne dotyczące 5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie czynności zawodowych (np. polecenie, do sytuacji komunikat, instrukcję)
+b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sytua- 1) rozpoczyna, prowadzi i kończy rozmowę cjach związanych z realizacją zadań zawo- 2) uzyskuje i przekazuje informacje i wyjaśnienia dowych – reaguje w języku obcym nowo- 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza żytnym w sposób zrozumiały, adekwatnie lub nie zgadza z opiniami innych osób do sytuacji komunikacyjnej, ustnie lub 4) prowadzi proste negocjacje związane z czynnościami w formie prostego tekstu: wymi
 a) reaguje ustnie (np. podczas rozmowy 5) stosuje zwroty i formy grzecznościowe z innym pracownikiem, klientem, 6) dostosowuje styl wypowiedzi do sytuacji kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 5) zmienia formę przekazu ustnego lub pisem- 1) przekazuje w języku obcym nowożytnym informacje nego w języku obcym nowożytnym w typo- w materiałach wizualnych (np. wykresach, symbolach, wych sytuacjach związanych z wykonywa- gramach, schematach) oraz audiowizualnych (np. filmach niem czynności zawodowych struktażowych)
 2) przekazuje w języku polskim informacje sformułowane zyku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje łowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym niej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem obcym nowożytnym
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w żeniu określić znaczenie słowa
-6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje słowa innymi, wykorzystuje opis, środki niewerbalne DRM.10.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące doskonale- 1) korzysta ze słownika dwujęzycznego i jednojęzycznego niu własnych umiejętności językowych oraz 2) współdziała z innymi osobami, realizując zadania językowe podnoszące świadomość językową: 3) korzysta z tekstów w języku obcym nowożytnym, również
+a) wykorzystuje techniki samodzielnej pracy pomocą technologii informacyjno-komunikacyjnych nad językiem obcym nowożytnym 4) identyfikuje słowa klucze, internacjonalizmy
+b) współdziała w grupie 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w
+c) korzysta ze źródeł informacji w języku żeniu określić znaczenie słowa obcym nowożytnym 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje
+d) stosuje strategie komunikacyjne i kom- słowa innymi, wykorzystuje opis, środki niewerbalne pensacyjne DRM.10.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury osobistej i etyki 1) stosuje zasady kultury osobistej i ogólnie przyjęte normy zawodowej chowania w środowisku pracy
 2) przyjmuje odpowiedzialność za powierzone informacje dowe
 3) respektuje zasady dotyczące przestrzegania tajemnicy nej z zawodem i miejscem pracy
@@ -2951,13 +2614,13 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 3) określa członków projektu i ich role w pracach projektowych
 4) opisuje fazy projektu
 6) wprowadza rozwiązania techniczne i orga- 1) dokonuje analizy rozwiązań technicznych i organizacyjnych nizacyjne wpływające na poprawę warun- warunków i jakości pracy ków i jakości pracy 2) proponuje rozwiązania techniczne i organizacyjne mające celu poprawę warunków i jakości pracy WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE TECHNIK PRZEMYSŁU DRZEWNEGO Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji DRM.09. Obsługa i monitorowanie i maszyn sterowanych cyfrowo do produkcji drzewnej Pracownia materiałoznawstwa i technologii mechanicznych wyposażona w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu z drukarką, lub urządzeniem wielofunkcyjnym oraz z projektorem multimedialnym lub tablicą interaktywną, lub monitorem aktywnym, zestawy próbek różnych gatunków drewna, materiałów drzewnych, tworzyw drzewnych, materiałów drewnopochodnych, klejów i substancji dodatkowych, materiałów do zabezpieczania i uszlachetniania powierzchni, modele połączeń elementów z drewna i materiałów drewnopochodnych, wyrobów z drewna i materiałów pochodnych, opakowań, konstrukcji i podzespołów, detale, okucia i łączniki, katalogi wyrobów z drewna i materiałów drewnopochodnych, schematy maszyn i urządzeń do przetwarzania drewna i materiałów drewnopochodnych, schematy procesów technologicznych, dokumentacje technologiczne, normy dotyczące przetwarzania drewna i materiałów drewnopochodnych oraz wykonywania wyrobów z drewna teriałów drewnopochodnych, modele, przekroje, atrapy maszyn i urządzeń, elementy układów hydraulicznych i pneumatycznych, próbki materiałów konstrukcyjnych i eksploatacyjnych, elementy maszyn i urządzeń, katalogi maszyn i narzędzi, schematy części maszyn i urządzeń narzędzi, parametry kątowe narzędzi, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczno-ruchowe maszyn i urządzeń, strukcje technologiczne i stanowiskowe.
-Warsztaty szkolne wyposażone w: stanowiska do wykonania wyrobów z drewna i materiałów drewnopochodnych (jedno stanowisko dla dwóch elementy i modele wyrobów z drewna i materiałów drewnopochodnych, specjalistyczny sprzęt kontrolno-pomiarowy stosowany w produkcji drzewnej (suwmiarka, miara zwijana, mierz, wilgotnościomierz, połyskościomierz), obrabiarki konwencjonalne, wiertarki stołowe, szlifierkę, ostrzałkę, przyrządy traserskie, przyrządy pomiarowe, dzia do obróbki ręcznej i maszynowej skrawaniem, elementy i modele wyrobów drewnianych lub drewnopochodnych, narzędzia, maszyny i urządzenia do ręcznej szynowej obróbki drewna i tworzyw drzewnych, obróbki hydrotermicznej i plastycznej, prac wykończeniowych tażowych, przyrządy i uchwyty obróbkowe, schematy części maszyn i urządzeń, rysunki ostrzy narzędzi, parametry kątowe narzędzi, oprzyrządowanie obróbkowe, narzędzia i urządzenia montażowe, katalogi i materiały informacyjne przedsiębiorstw produkujących narzędzia, obrabiarki i urządzenia, schematy procesów technologicznych, środki ochrony indywidualnej, instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczno-ruchowe maszyn i urządzeń, strukcje technologiczne i stanowiskowe, instalację sprężonego powietrza, instalację odciągu pyłu drzewnego.
-Szkoła zapewnia dostęp do maszyn sterowanych cyfrowo przemysłu drzewnego: centrum obróbcze (CNC), wiertarki wielowrzecionowe sterowane cyfrowo, piła panelowa.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji DRM.10. Planowanie i organizacja zautomatyzowanych w przemyśle drzewnym Pracownia elementów i urządzeń automatyki przemysłu drzewnego wyposażona w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, z urządzeniem funkcyjnym, projektorem multimedialnym lub tablicą interaktywną, lub monitorem interaktywnym oraz waniem umożliwiającym symulację i rejestrację pracy układów elektrycznych, stanowiska (jedno stanowisko dla dwóch uczniów) umożliwiające naukę zasady działania, eksploatacji i czujników, sygnalizatorów, regulatorów, urządzeń energoelektronicznych (przemienników częstotliwości, silników prądu stałego i łączników półprzewodnikowych), zabezpieczenia nadprądowe i różnicowoprądowe, nia pneumatyczne przetworniki, pozycjonery, siłowniki, elektrozawory, zawory regulacyjne, sprężarkę, stację olejową, materiały instruktażowe z zakresu diagnozowania, obsługi i naprawy układów i elementów automatyki przemysłu drzewnego, stanowiska (jedno stanowisko dla dwóch uczniów) sterowania układów elektrycznych, pneumatycznych, elektropneumatycznych, stosowanych w układach automatyki przemysłu drzewnego (w tym sterowanie za pomocą sterowników PLC), stanowiska z zakresu elektrotechniki (jedno stanowisko dla dwóch uczniów) wyposażone w zasilacze stabilizowane napięcia stałego, zadajniki stanów logicznych, zestawy elementów elektrycznych, przewody i kable elektryczne, kaźniki i styczniki, łączniki i przełączniki, wskaźniki, sygnalizatory, silniki elektryczne małej mocy, stanowiska komputerowe dla uczniów (jedno stanowisko dla dwóch uczniów) z oprogramowaniem umożliwiającym symulację i rejestrację pracy układów elektrycznych.
-Pracownia projektowania automatyzacji maszyn, urządzeń i wyrobów z drewna i drewnopochodnych wyposażona stanowisko komputerowe dla nauczyciela z dostępem do internetu z pakietem programów biurowych i oprogramowania CAD (Computer Aided Design) z drukarką, skanerem lub urządzeniem wielofunkcyjnym oraz z projektorem medialnym lub tablicą interaktywną, lub monitorem interaktywnym, stanowisko komputerowe dla ucznia z dostępem do internetu z pakietem programów biurowych i oprogramowania CAD (Computer Aided Design), stanowiska z instalacjami zawierającymi sterowniki PLC (jedno stanowisko dla dwóch uczniów) umożliwiające nostykę instalacji wyposażonych w sterowniki PLC.
-Szkoła zapewnia dostęp do cyfrowych maszyn przemysłu drzewnego: centrum obróbcze (CNC), dostęp do systemów zautomatyzowanych maszyn i urządzeń (detekcja jakości, predykcja awarii, zarządzanie energii, śledzenie wskaźników produkcyjnych, sterowanie zdalne, automatyczne zarządzanie produkcją).
-Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin), a w przypadku branżowej szkoły II stopnia 4 tygodnie (140 godzin).
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji DRM.09. Obsługa i monitorowanie i maszyn sterowanych cyfrowo do produkcji drzewnej Pracownia materiałoznawstwa i technologii mechanicznych wyposażona w: – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu z drukarką, lub urządzeniem wielofunkcyjnym oraz z projektorem multimedialnym lub tablicą interaktywną, lub monitorem aktywnym, – zestawy próbek różnych gatunków drewna, materiałów drzewnych, tworzyw drzewnych, materiałów drewnopochodnych, klejów i substancji dodatkowych, materiałów do zabezpieczania i uszlachetniania powierzchni, – modele połączeń elementów z drewna i materiałów drewnopochodnych, wyrobów z drewna i materiałów pochodnych, opakowań, konstrukcji i podzespołów, detale, okucia i łączniki, – katalogi wyrobów z drewna i materiałów drewnopochodnych, – schematy maszyn i urządzeń do przetwarzania drewna i materiałów drewnopochodnych, – schematy procesów technologicznych, dokumentacje technologiczne, – normy dotyczące przetwarzania drewna i materiałów drewnopochodnych oraz wykonywania wyrobów z drewna teriałów drewnopochodnych, – modele, przekroje, atrapy maszyn i urządzeń, elementy układów hydraulicznych i pneumatycznych, – próbki materiałów konstrukcyjnych i eksploatacyjnych, elementy maszyn i urządzeń, – katalogi maszyn i narzędzi, – schematy części maszyn i urządzeń narzędzi, parametry kątowe narzędzi, – instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczno-ruchowe maszyn i urządzeń, strukcje technologiczne i stanowiskowe.
+Warsztaty szkolne wyposażone w: – stanowiska do wykonania wyrobów z drewna i materiałów drewnopochodnych (jedno stanowisko dla dwóch – elementy i modele wyrobów z drewna i materiałów drewnopochodnych, – specjalistyczny sprzęt kontrolno-pomiarowy stosowany w produkcji drzewnej (suwmiarka, miara zwijana, mierz, wilgotnościomierz, połyskościomierz), – obrabiarki konwencjonalne, wiertarki stołowe, szlifierkę, ostrzałkę, przyrządy traserskie, przyrządy pomiarowe, dzia do obróbki ręcznej i maszynowej skrawaniem, – elementy i modele wyrobów drewnianych lub drewnopochodnych, narzędzia, maszyny i urządzenia do ręcznej szynowej obróbki drewna i tworzyw drzewnych, obróbki hydrotermicznej i plastycznej, prac wykończeniowych tażowych, – przyrządy i uchwyty obróbkowe, – schematy części maszyn i urządzeń, rysunki ostrzy narzędzi, parametry kątowe narzędzi, – oprzyrządowanie obróbkowe, narzędzia i urządzenia montażowe, – katalogi i materiały informacyjne przedsiębiorstw produkujących narzędzia, – obrabiarki i urządzenia, schematy procesów technologicznych, – środki ochrony indywidualnej, – instrukcje obsługi maszyn i urządzeń, poradniki zawodowe, dokumentacje techniczno-ruchowe maszyn i urządzeń, strukcje technologiczne i stanowiskowe, – instalację sprężonego powietrza, – instalację odciągu pyłu drzewnego.
+Szkoła zapewnia dostęp do maszyn sterowanych cyfrowo przemysłu drzewnego: – centrum obróbcze (CNC), – wiertarki wielowrzecionowe sterowane cyfrowo, – piła panelowa.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji DRM.10. Planowanie i organizacja zautomatyzowanych w przemyśle drzewnym Pracownia elementów i urządzeń automatyki przemysłu drzewnego wyposażona w: – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, z urządzeniem funkcyjnym, projektorem multimedialnym lub tablicą interaktywną, lub monitorem interaktywnym oraz waniem umożliwiającym symulację i rejestrację pracy układów elektrycznych, – stanowiska (jedno stanowisko dla dwóch uczniów) umożliwiające naukę zasady działania, eksploatacji i czujników, sygnalizatorów, regulatorów, urządzeń energoelektronicznych (przemienników częstotliwości, silników prądu stałego i łączników półprzewodnikowych), zabezpieczenia nadprądowe i różnicowoprądowe, nia pneumatyczne – przetworniki, pozycjonery, – siłowniki, elektrozawory, zawory regulacyjne, sprężarkę, stację olejową, materiały instruktażowe z zakresu diagnozowania, obsługi i naprawy układów i elementów automatyki przemysłu drzewnego, – stanowiska (jedno stanowisko dla dwóch uczniów) sterowania układów elektrycznych, pneumatycznych, elektropneumatycznych, stosowanych w układach automatyki przemysłu drzewnego (w tym sterowanie za pomocą sterowników PLC), – stanowiska z zakresu elektrotechniki (jedno stanowisko dla dwóch uczniów) wyposażone w zasilacze stabilizowane napięcia stałego, zadajniki stanów logicznych, zestawy elementów elektrycznych, przewody i kable elektryczne, kaźniki i styczniki, łączniki i przełączniki, – wskaźniki, sygnalizatory, silniki elektryczne małej mocy, – stanowiska komputerowe dla uczniów (jedno stanowisko dla dwóch uczniów) z oprogramowaniem umożliwiającym symulację i rejestrację pracy układów elektrycznych.
+Pracownia projektowania automatyzacji maszyn, urządzeń i wyrobów z drewna i drewnopochodnych wyposażona – stanowisko komputerowe dla nauczyciela z dostępem do internetu z pakietem programów biurowych i oprogramowania CAD (Computer Aided Design) z drukarką, skanerem lub urządzeniem wielofunkcyjnym oraz z projektorem medialnym lub tablicą interaktywną, lub monitorem interaktywnym, – stanowisko komputerowe dla ucznia z dostępem do internetu z pakietem programów biurowych i oprogramowania CAD (Computer Aided Design), – stanowiska z instalacjami zawierającymi sterowniki PLC (jedno stanowisko dla dwóch uczniów) umożliwiające nostykę instalacji wyposażonych w sterowniki PLC.
+Szkoła zapewnia dostęp do cyfrowych maszyn przemysłu drzewnego: – centrum obróbcze (CNC), – dostęp do systemów zautomatyzowanych maszyn i urządzeń (detekcja jakości, predykcja awarii, zarządzanie energii, śledzenie wskaźników produkcyjnych, sterowanie zdalne, automatyczne zarządzanie produkcją).
+Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin), a w przypadku branżowej szkoły II stopnia – 4 tygodnie (140 godzin).
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONYCH W ZAWODZIE DRM.09. Obsługa i monitorowanie urządzeń i maszyn sterowanych cyfrowo do produkcji drzewnej Nazwa jednostki efektów kształcenia Liczba godzin DRM.09.1. Bezpieczeństwo i higiena pracy 30 DRM.09.2. Podstawy przetwórstwa drewna i materiałów drewnopochodnych 120 DRM.09.3. Obsługiwanie maszyn i urządzeń sterowanych cyfrowo do produkcji drzewnej 240 DRM.09.4. Konserwacja maszyn i urządzeń sterowanych cyfrowo do produkcji drzewnej 210 DRM.09.5. Obsługiwanie i konserwacja konwencjonalnych maszyn i urządzeń do produkcji drzewnej 90 DRM.09.6. Język obcy zawodowy 30 Razem 720 DRM.09.7. Kompetencje personalne i społeczne DRM.10. Planowanie i organizacja procesów zautomatyzowanych w przemyśle drzewnym Nazwa jednostki efektów kształcenia Liczba godzin DRM.10.1. Bezpieczeństwo i higiena pracy 30 DRM.10.2. Podstawy automatyki przemysłu drzewnego 150 DRM.10.3. Planowanie przebiegu zautomatyzowanych procesów produkcyjnych przemysłu drzewnego 210 DRM.10.4. Organizowanie i monitorowanie zautomatyzowanych procesów produkcyjnych w przemyśle drzewnym 120 DRM.10.5. Język obcy zawodowy 30 Razem 540 DRM.10.6. Kompetencje personalne i społeczne DRM.10.7. Organizacja pracy małych zespołów
 6) w załączniku nr 11:
 a) wprowadzenie do załącznika otrzymuje brzmienie: „Załącznik zawiera podstawy programowe kształcenia w zawodach szkolnictwa branżowego przyporządkowanych do branży handlowej, określonych w klasyfikacji zawodów szkolnictwa branżowego:
@@ -2987,9 +2650,7 @@ c) przed podstawą programową kształcenia w zawodzie DRUKARZ FLEKSOGRAFICZNY d
 4) organizowania działań marketingowych;
 5) stosowania technik informatycznych i mediów społecznościowych.
 EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań zawodowych w zakresie kwalifikacji: PGF.09. Organizacja i zarządzanie przedsiębiorstwem rynku książki oraz relacjami z klientami jest niezbędne osiągnięcie niżej wymienionych efektów kształcenia: PGF.09. Organizacja i zarządzanie przedsiębiorstwem rynku książki oraz relacjami z klientami PGF.09.1. Bezpieczeństwo i higiena pracy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) rozróżnia pojęcia związane z bezpieczeństwem i higieną pracy, ochroną przeciwpożarową, ochroną środowiska i ergonomią
-1) posługuje się terminologią dotyczącą bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej oraz ochrony środowiska
-2) wymienia przepisy prawa dotyczące bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej oraz ochrony środowiska
+1) rozróżnia pojęcia związane z bezpieczeń- 1) posługuje się terminologią dotyczącą bezpieczeństwa stwem i higieną pracy, ochroną przeciw- i higieny pracy, ochrony przeciwpożarowej oraz pożarową, ochroną środowiska i ergono- ochrony środowiska mią 2) wymienia przepisy prawa dotyczące bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej oraz ochrony środowiska
 3) określa warunki organizacji pracy zapewniające wymagany poziom ochrony zdrowia i życia przed zagrożeniami występującymi w środowisku pracy
 2) rozróżnia zadania i uprawnienia instytu- 1) wymienia instytucje oraz służby działające w zakresie cji oraz służb działających w zakresie ochrony pracy i ochrony środowiska ochrony pracy i ochrony środowiska 2) wymienia zadania i uprawnienia instytucji i służb sprawujących nadzór nad ochroną pracy i ochroną środowiska
 3) opisuje prawa i obowiązki pracownika 1) wymienia prawa i obowiązki pracodawcy w zakresie oraz pracodawcy w zakresie bezpieczeń- bezpieczeństwa i higieny pracy stwa i higieny pracy 2) wymienia prawa i obowiązki pracownika w zakresie bezpieczeństwa i higieny pracy
@@ -3199,64 +2860,30 @@ sposoby korzystania z wizerunku i banku zdjęć, licencjonowanie
 2) wymienia formy reklamy charakterystyczne dla danego medium
 3) wymienia rodzaje podmiotów gospodarczych zajmujących się reklamą: agencja reklamowa, agencja interaktywna, agencja mediowa i dom produkcyjny
 4) wskazuje funkcje reklamy w kreowaniu popytu na towary i usługi
-8) posługuje się technikami cyfrowymi na rynku książki
-1) korzysta z baz danych, w szczególności bazy Biblioteki Narodowej, Biblioteki Analiz, Ogólnopolskiej Bazy Księgarń, Polskich Bibliotek Cyfrowych, katalogów hurtowni polskich (np. FK Olesiejuk, Platon, OSDW Azymut) i zagranicznych (np. Libri.de, Ingram, Gardners)
+8) posługuje się technikami cyfrowymi na 1) korzysta z baz danych, w szczególności bazy Bibliorynku książki teki Narodowej, Biblioteki Analiz, Ogólnopolskiej Bazy Księgarń, Polskich Bibliotek Cyfrowych, katalogów hurtowni polskich (np. FK Olesiejuk, Platon, OSDW Azymut) i zagranicznych (np. Libri.de, Ingram, Gardners)
 2) korzysta z programów magazynowo- sprzedażowych
 3) posługuje się mediami społecznościowymi
 4) przeprowadza od strony technicznej spotkanie autorskie z wykorzystaniem streamingu na platformach typu YouTube, Facebook, Instagram, TikTok (podłączenie mikrofonu zewnętrznego, wykorzystanie kamer ze smartfona, ustawienie oświetlenia zewnętrznego)
 5) wykonuje podstawowe czynności w zakresie obróbki grafiki statycznej (przygotowanie grafiki do mediów społecznościowych) oraz video (łączenie klipów, zmiana głośności dźwięku, dodawanie napisów, zmiana parametrów video, takich jak różna liczba klatek na sekundę czy kompresja dla poszczególnych mediów społecznościowych)
-6) przedstawia profile autorskie w mediach społecznościowych i przedstawia klientowi sylwetkę autora na tej podstawie, ze szczególnym uwzględnieniem autorów twórców społecznościowych korzystających z serwisów typu Wattpad PGF.09.6. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-d) z usługami świadczonymi w danym zawodzie
-1) rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań zawodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem czynności zawodowych
-e) świadczonych usług, w tym obsługi klienta
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+6) przedstawia profile autorskie w mediach społecznościowych i przedstawia klientowi sylwetkę autora na tej podstawie, ze szczególnym uwzględnieniem autorów – twórców społecznościowych korzystających z serwisów typu Wattpad PGF.09.6. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiaśrodków językowych w języku obcym jące realizację czynności zawodowych w zakresie: nowożytnym (ze szczególnym uwzględ- a) czynności wykonywanych na stanowisku pracy, nieniem środków leksykalnych) umożli- w tym związanych z zapewnieniem bezpieczeńwiającym realizację czynności zawodo- stwa i higieny pracy wych w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koa) ze stanowiskiem pracy i jego wypo- niecznych do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zab) z głównymi technologiami stosowa- dań zawodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumenc) z dokumentacją związaną z danym tów związanych z wykonywaniem czynności zazawodem wodowych
+d) z usługami świadczonymi w danym e) świadczonych usług, w tym obsługi klienta zawodzie
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu ewentualłowane wyraźnie, w standardowej od- nie fragmentu wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone infora także proste wypowiedzi pisemne w ję- macje zyku obcym nowożytnym w zakresie 3) rozpoznaje związki między poszczególnymi częumożliwiającym realizację zadań zawo- ściami tekstu dowych: 4) układa informacje w określonym porządku
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu ewentualnie fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym w zakresie umożliwiającym realizację 2) przedstawia sposób postępowania w różnych sytuazadań zawodowych: cjach zawodowych (np. udziela instrukcji, wskazóa) tworzy krótkie, proste, spójne i lo- wek, określa zasady) giczne wypowiedzi ustne dotyczące 3) wyraża i uzasadnia swoje stanowisko czynności zawodowych (np. polece- 4) stosuje zasady konstruowania tekstów o różnym chanie, komunikat, instrukcję) rakterze
+b) tworzy krótkie, proste, spójne i lo- 5) stosuje formalny lub nieformalny styl wypowiedzi giczne wypowiedzi pisemne doty- adekwatnie do sytuacji czące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zganowożytnym w sposób zrozumiały, ade- dza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
+a) reaguje ustnie (np. podczas roz- 5) pyta o upodobania i intencje innych osób mowy z innym pracownikiem, 6) proponuje, zachęca klientem, kontrahentem, w tym roz- 7) stosuje zwroty i formy grzecznościowe mowy telefonicznej) w typowych 8) dostosowuje styl wypowiedzi do sytuacji sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-1) rozpoczyna, prowadzi i kończy rozmowę
-2) uzyskuje i przekazuje informacje i wyjaśnienia
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) pyta o upodobania i intencje innych osób
-6) proponuje, zachęca
-7) stosuje zwroty i formy grzecznościowe
-8) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje semnego w języku obcym nowożytnym zawarte w materiałach wizualnych (np. wykresach, w typowych sytuacjach związanych symbolach, piktogramach, schematach) oraz audiowiz wykonywaniem czynności zawodo- zualnych (np. filmach instruktażowych) wych 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) korzysta ze słownika dwujęzycznego i jednojęzycznego
-2) współdziała z innymi osobami, realizując zadania językowe
-3) korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-4) identyfikuje słowa klucze, internacjonalizmy
-5) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
-6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne PGF.09.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące doskona- 1) korzysta ze słownika dwujęzycznego i jednojęzycznego leniu własnych umiejętności językowych 2) współdziała z innymi osobami, realizując zadania jęoraz podnoszące świadomość językową: zykowe
+a) wykorzystuje techniki samodzielnej 3) korzysta z tekstów w języku obcym nowożytnym, pracy nad językiem również za pomocą technologii informacyjno-komub) współdziała w grupie nikacyjnych
+c) korzysta ze źródeł informacji w ję- 4) identyfikuje słowa klucze, internacjonalizmy zyku obcym nowożytnym 5) wykorzystuje kontekst (tam, gdzie to możliwe), aby
+d) stosuje strategie komunikacyjne w przybliżeniu określić znaczenie słowa i kompensacyjne 6) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne PGF.09.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury i etyki zawodo- 1) stosuje zasady etykiety w komunikacji internetowej wej oraz w codziennych kontaktach
 2) rozróżnia zasady etyczne związane z ochroną efektów pracy własnej, swoich współpracowników oraz osób trzecich
 2) przestrzega reguł i procedur obowiązują- 1) dobiera ubiór stosownie do okoliczności cych w środowisku pracy 2) przestrzega zasad punktualności
@@ -3284,9 +2911,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 4) przedstawia konsekwencje nieprzestrzegania tajemnicy związanej z wykonywanym zawodem i miejscem pracy
 9) negocjuje warunki porozumień 1) rozróżnia style prowadzenia negocjacji
 2) dobiera techniki negocjacji do rodzaju transakcji PGF.09.8. Organizacja pracy małych zespołów Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) organizuje pracę zespołu w celu wykonania przydzielonych zadań
-1) planuje działania zespołu
-2) określa czas realizacji zadania
+1) organizuje pracę zespołu w celu wykona- 1) planuje działania zespołu nia przydzielonych zadań 2) określa czas realizacji zadania
 3) weryfikuje postępy pracy zespołu
 4) komunikuje się ze współpracownikami
 2) dobiera osoby do wykonania przydzielo- 1) rozpoznaje, jakie role w grupie pełnią poszczególni nych zadań członkowie zespołu
@@ -3301,8 +2926,8 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 4) diagnozuje podstawowe bariery w osiąganiu pożądanej efektywności pracy zespołu
 5) proponuje rozwiązania techniczne i orga- 1) stosuje rozwiązania techniczne i organizacyjne wpłynizacyjne wpływające na poprawę wa- wające na poprawę warunków i jakości pracy runków i jakości pracy 2) wskazuje rozwiązania techniczne i organizacyjne wpływające na poprawę warunków i jakości pracy
 3) dokonuje prostych usprawnień stanowiska pracy WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE ANIMATOR RYNKU KSIĄŻKI Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji PGF.09. Organizacja i zarządzanie biorstwem rynku książki oraz relacjami z klientami Pracownia rynku książki wyposażona w: stanowisko komputerowe dla nauczyciela z dostępem do internetu, z drukarką, skanerem lub urządzeniem cyjnym oraz projektorem multimedialnym, tablicą interaktywną lub monitorem interaktywnym, pakietem biurowych i oprogramowaniem do obsługi sprzedaży i gospodarki magazynowej oraz oprogramowaniem stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) z dostępem do internetu, z pakietem gramów biurowych i oprogramowaniem do obsługi sprzedaży i gospodarki magazynowej oraz oprogramowaniem ficznym, stanowiska prowadzenia sprzedaży (jedno stanowisko dla dwóch uczniów), urządzenia do rejestrowania sprzedaży, materiały do pakowania towarów, wyposażenie do przechowywania i eksponowania asortymentu rynku książki (regały, stoły, standy), pozycje wydawnicze księgarni ogólnoasortymentowej i specjalistycznej, publikacje i media branżowe rynku książki, czytniki e-booków, sprzęt fotograficzny, sprzęt wystawienniczy, materiały biurowe, rysunkowe i malarskie, mikrofon zewnętrzny.
-Szkoła zapewnia dostęp do: bazy Biblioteki Narodowej, Biblioteki Analiz, Ogólnopolskiej Bazy Księgarń, Polskich Bibliotek Cyfrowych, katalogów hurtowni polskich (np. FK Olesiejuk, Platon, OSDW Azymut).
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji PGF.09. Organizacja i zarządzanie biorstwem rynku książki oraz relacjami z klientami Pracownia rynku książki wyposażona w: – stanowisko komputerowe dla nauczyciela z dostępem do internetu, z drukarką, skanerem lub urządzeniem cyjnym oraz projektorem multimedialnym, tablicą interaktywną lub monitorem interaktywnym, pakietem biurowych i oprogramowaniem do obsługi sprzedaży i gospodarki magazynowej oraz oprogramowaniem – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) z dostępem do internetu, z pakietem gramów biurowych i oprogramowaniem do obsługi sprzedaży i gospodarki magazynowej oraz oprogramowaniem ficznym, – stanowiska prowadzenia sprzedaży (jedno stanowisko dla dwóch uczniów), urządzenia do rejestrowania sprzedaży, – materiały do pakowania towarów, – wyposażenie do przechowywania i eksponowania asortymentu rynku książki (regały, stoły, standy), – pozycje wydawnicze księgarni ogólnoasortymentowej i specjalistycznej, – publikacje i media branżowe rynku książki, – czytniki e-booków, – sprzęt fotograficzny, – sprzęt wystawienniczy, – materiały biurowe, rysunkowe i malarskie, – mikrofon zewnętrzny.
+Szkoła zapewnia dostęp do: – bazy Biblioteki Narodowej, – Biblioteki Analiz, – Ogólnopolskiej Bazy Księgarń, – Polskich Bibliotek Cyfrowych, – katalogów hurtowni polskich (np. FK Olesiejuk, Platon, OSDW Azymut).
 Miejsce realizacji praktyk zawodowych: wydawnictwa, księgarnie (stacjonarne, antykwariaty, internetowe), firmy bucyjne i inne podmioty stanowiące potencjalne miejsce zatrudnienia absolwentów szkół prowadzących kształcenie wodzie.
 Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin).
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONYCH W ZAWODZIE PGF.09. Organizacja i zarządzanie przedsiębiorstwem rynku książki oraz relacjami z klientami Nazwa jednostki efektów kształcenia Liczba godzin PGF.09.1. Bezpieczeństwo i higiena pracy 30 PGF.09.2. Podstawy wiedzy o książce 120 PGF.09.3. Zakładanie i prowadzenie przedsiębiorstwa rynku książki 180 PGF.09.4. Realizacja procesu sprzedaży publikacji 120 PGF.09.5. Organizacja i zarządzanie procesami marketingowymi z wykorzystaniem nowoczesnych technik informatycznych i mediów społecznościo- 210 wych oraz budowanie relacji z klientami PGF.09.6. Język obcy zawodowy 90 Razem 750 PGF.09.7. Kompetencje personalne i społeczne PGF.09.8. Organizacja pracy małych zespołów
@@ -3320,9 +2945,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 4) określa działania zapobiegające wyrządzeniu szkód w środowisku
 5) opisuje wymagania dotyczące ergonomii pracy
 6) rozróżnia środki gaśnicze ze względu na zakres ich stosowania
-2) charakteryzuje zadania i uprawnienia instytucji oraz służb działających w zakresie ochrony pracy i ochrony środowiska
-1) wymienia instytucje oraz służby działające w zakresie ochrony pracy i ochrony środowiska
-2) wymienia zadania i uprawnienia instytucji oraz służb działających w zakresie ochrony pracy i ochrony środowiska
+2) charakteryzuje zadania i uprawnienia 1) wymienia instytucje oraz służby działające w zakresie instytucji oraz służb działających w za- ochrony pracy i ochrony środowiska kresie ochrony pracy i ochrony środo- 2) wymienia zadania i uprawnienia instytucji oraz służb wiska działających w zakresie ochrony pracy i ochrony środowiska
 3) opisuje prawa i obowiązki pracownika 1) wymienia prawa i obowiązki pracodawcy w zakresie bezoraz pracodawcy w zakresie bezpie- pieczeństwa i higieny pracy czeństwa i higieny pracy 2) wymienia prawa i obowiązki pracownika w zakresie bezpieczeństwa i higieny pracy
 3) omawia konsekwencje nieprzestrzegania obowiązków pracownika i pracodawcy w zakresie bezpieczeństwa i higieny pracy
 4) określa zagrożenia dla zdrowia i życia 1) wymienia czynniki szkodliwe w środowisku pracy człowieka występujące w środowisku 2) opisuje źródła i rodzaje zagrożeń występujących w śropracy oraz sposoby zapobiegania im dowisku pracy
@@ -3357,8 +2980,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 2) rozpoznaje na podstawie charakterystyki towaroznawczej wybrane grupy towarowe żywnościowe i nieżywnościowe
 3) kwalifikuje towar do odpowiedniej grupy asortymentowej
 4) klasyfikuje towary i usługi zgodnie ze strukturą Polskiej Klasyfikacji Wyrobów i Usług, przyporządkowując je do sekcji, działu, grupy i klasy
-4) posługuje się pojęciami z zakresu mikroekonomii i makroekonomii
-1) wyjaśnia pojęcia ekonomiczne: popyt, podaż, równowaga rynkowa, cykl koniunkturalny, wymiana międzynarodowa, przewaga komparatywna
+4) posługuje się pojęciami z zakresu mi- 1) wyjaśnia pojęcia ekonomiczne: popyt, podaż, równowaga kroekonomii i makroekonomii rynkowa, cykl koniunkturalny, wymiana międzynarodowa, przewaga komparatywna
 2) opisuje cechy gospodarki rynkowej
 3) określa wpływ prawa popytu i podaży na funkcjonowanie przedsiębiorstwa handlowego
 4) wyjaśnia zależności ekonomiczne wynikające z prawa Engla
@@ -3427,9 +3049,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 2) wymienia zasady prowadzenia rozmowy sprzedażowej
 3) charakteryzuje etapy rozmowy sprzedażowej
 4) dobiera sposób prowadzenia rozmowy sprzedażowej do typu klienta
-5) realizuje zamówienie klienta w różnych formach sprzedaży
-1) sprawdza dostępność towarów
-2) prowadzi korespondencję z klientem dotyczącą realizacji zamówienia
+5) realizuje zamówienie klienta w różnych 1) sprawdza dostępność towarów formach sprzedaży 2) prowadzi korespondencję z klientem dotyczącą realizacji zamówienia
 3) udziela wyjaśnień na zapytanie klienta dotyczące realizacji zamówienia
 4) sporządza dokumenty sprzedaży, takie jak: faktura, rachunek, faktura korygująca oraz dokument magazynowy wydania zewnętrznego (WZ)
 5) ustala kwotę należności za sprzedane towary
@@ -3449,58 +3069,28 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 5) wypełnia dokumenty związane z reklamacją towarów
 6) określa sposoby postępowania reklamacyjnego w zależności od rodzaju zgłaszanej reklamacji
 8) wykorzystuje urządzenia techniczne 1) stosuje arkusz kalkulacyjny do wykonywania obliczeń i oprogramowanie komputerowe wspo- 2) obsługuje urządzenia sklepowe i magazynowe, takie jak: magające sprzedaż towarów w handlu waga, metkownica, krajalnica, urządzenia chłodnicze HAN.01.5. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-1) rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań zawodowych
-d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem zadań zawodowych
-e) świadczonych usług, w tym obsługi klienta
+1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiające środków językowych w języku obcym realizację czynności zawodowych w zakresie: nowożytnym (ze szczególnym a) czynności wykonywanych na stanowisku pracy, uwzględnieniem środków leksykal- w tym związanych z zapewnieniem bezpieczeństwa nych) umożliwiającym realizację czyn- i higieny pracy ności zawodowych w zakresie tematów b) narzędzi, maszyn, urządzeń i materiałów konieczzwiązanych: nych do realizacji czynności zawodowych
+a) ze stanowiskiem pracy i jego wy- c) procesów i procedur związanych z realizacją zadań posażeniem zawodowych
+b) z głównymi technologiami stoso- d) formularzy, specyfikacji oraz innych dokumentów wanymi w danym zawodzie związanych z wykonywaniem zadań zawodowych
+c) z dokumentacją związaną z danym e) świadczonych usług, w tym obsługi klienta zawodem
 d) z usługami świadczonymi w danym zawodzie
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+2) rozumie proste wypowiedzi ustne arty- 1) określa główną myśl wypowiedzi lub tekstu lub fragkułowane wyraźnie, w standardowej mentu wypowiedzi lub tekstu odmianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone informacje a także proste wypowiedzi pisemne 3) rozpoznaje związki między poszczególnymi częściami w języku obcym nowożytnym w zakre- tekstu sie umożliwiającym realizację zadań 4) układa informacje w określonym porządku zawodowych:
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu lub fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np.
-polecenie, komunikat, instrukcję)
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi sprzedawcy
-2) przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela odpowiedzi klientowi, wyjaśnia zasady)
-3) wyraża i uzasadnia swoje stanowisko,
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych reaguje w języku obcym nowożytnym w sposób
-1) rozpoczyna, prowadzi i kończy rozmowę
-2) uzyskuje i przekazuje informacje i wyjaśnienia
-3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne z czynnościami zawodowymi sprzedawcy i pisemne w języku obcym nowożyt- 2) przedstawia sposób postępowania w różnych sytuacjach nym w zakresie umożliwiającym reali- zawodowych (np. udziela odpowiedzi klientowi, wyjazację zadań zawodowych: śnia zasady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko, giczne wypowiedzi ustne doty- 4) stosuje zasady konstruowania tekstów o różnym charakczące czynności zawodowych (np. terze polecenie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi adeb) tworzy krótkie, proste, spójne i lo- kwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych 1) rozpoczyna, prowadzi i kończy rozmowę sytuacjach związanych z realizacją za- 2) uzyskuje i przekazuje informacje i wyjaśnienia dań zawodowych – reaguje w języku 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza obcym nowożytnym w sposób się lub nie zgadza z opiniami innych osób zrozumiały, adekwatnie do sytuacji ko- 4) prowadzi proste negocjacje związane z czynnościami zamunikacyjnej, ustnie lub w formie pro- wodowymi stego tekstu: 5) pyta o upodobania i intencje innych osób
+a) reaguje ustnie (np. podczas roz- 6) proponuje, zachęca klienta mowy z innym pracownikiem, 7) stosuje zwroty i formy grzecznościowe klientem, kontrahentem, w tym 8) dostosowuje styl wypowiedzi do sytuacji rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) pyta o upodobania i intencje innych osób
-6) proponuje, zachęca klienta
-7) stosuje zwroty i formy grzecznościowe
-8) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje zasemnego w języku obcym nowożyt- warte w materiałach wizualnych (np. w wykresach, symnym, w typowych sytuacjach związa- bolach, piktogramach, schematach) oraz audiowizualnych z wykonywaniem czynności za- nych (np. w filmach instruktażowych) wodowych 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał (np. prezentację)
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem obcym nowożytnym
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) posługuje się słownikiem dwujęzycznym i jednojęzycznym
-2) pracuje z tekstem w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych
-3) identyfikuje słowa klucze, internacjonalizmy
-4) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
-5) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne HAN.01.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+6) wykorzystuje strategie służące dosko- 1) posługuje się słownikiem dwujęzycznym i jednojęzycznaleniu własnych umiejętności języko- nym wych oraz podnoszące świadomość ję- 2) pracuje z tekstem w języku obcym nowożytnym, również zykową: za pomocą technologii informacyjno-komunikacyjnych
+a) wykorzystuje techniki samodziel- 3) identyfikuje słowa klucze, internacjonalizmy nej pracy nad językiem obcym no- 4) wykorzystuje kontekst (tam, gdzie to możliwe), aby wożytnym w przybliżeniu określić znaczenie słowa
+b) współdziała w grupie 5) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje
+c) korzysta ze źródeł informacji w ję- nieznane słowa innymi, wykorzystuje opis, środki niezyku obcym nowożytnym werbalne
+d) stosuje strategie komunikacyjne i kompensacyjne HAN.01.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury i etyki pod- 1) wymienia reguły i procedury obowiązujące w środowiczas realizacji zadań zawodowych sku pracy
 2) identyfikuje zasady etyczne i prawne związane z ochroną własności intelektualnej i ochroną danych osobowych
 3) wymienia uniwersalne zasady kultury i etyki
@@ -3546,10 +3136,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 2) wymienia warunki dobrej współpracy w zespole
 3) rozpoznaje kluczowe role zespołowe
 4) rozpoznaje zachowania destrukcyjne hamujące współpracę w zespole Do wykonywania zadań zawodowych w zakresie kwalifikacji PGF.10. Prowadzenie działalności informacyjno-bibliograficznej jest niezbędne osiągnięcie niżej wymienionych zakładanych efektów kształcenia: PGF.10. Prowadzenie działalności informacyjno-bibliograficznej PGF.10.1. Bezpieczeństwo i higiena pracy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) przestrzega zasad bezpieczeństwa i higieny pracy oraz stosuje przepisy prawa dotyczące ochrony przeciwpożarowej i ochrony środowiska
-1) rozpoznaje zagrożenia w środowisku pracy
-2) stosuje instrukcje i regulaminy dotyczące bezpiecznego konywania zadań zawodowych w księgarni
-3) identyfikuje środki łatwopalne i stanowiące zagrożenie rowe w środowisku pracy
+1) przestrzega zasad bezpieczeństwa i hi- 1) rozpoznaje zagrożenia w środowisku pracy gieny pracy oraz stosuje przepisy prawa 2) stosuje instrukcje i regulaminy dotyczące bezpiecznego dotyczące ochrony przeciwpożarowej konywania zadań zawodowych w księgarni i ochrony środowiska 3) identyfikuje środki łatwopalne i stanowiące zagrożenie rowe w środowisku pracy
 4) stosuje procedury przeciwdziałania zagrożeniu pożarowemu w środowisku pracy
 5) stosuje przepisy prawa dotyczące ochrony przeciwpożarowej
 6) rozpoznaje przyczyny zagrożenia środowiska związane konywanymi zadaniami zawodowymi
@@ -3636,7 +3223,7 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 1) rozróżnia style i kierunki artystyczne ilustracji książkowych
 2) określa rodzaj tekstu graficznego i techniki ilustracyjne
 3) rozpoznaje zastosowane w publikacji techniki ilustracyjne
-11) rozróżnia rodzaje technik drukarskich 1) rozpoznaje podstawowe techniki druku: płaskie, wklęsłe, wydawnictw pukłe, farboprzenikalne sitodruki
+11) rozróżnia rodzaje technik drukarskich 1) rozpoznaje podstawowe techniki druku: płaskie, wklęsłe, wydawnictw pukłe, farboprzenikalne – sitodruki
 2) charakteryzuje walory artystyczne publikacji
 3) identyfikuje techniki druku artystycznego
 4) określa zastosowanie druku cyfrowego
@@ -3682,13 +3269,9 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 4) wskazuje odbiorców indywidualnych i zbiorowych projektowanego spisu bibliograficznego
 5) dobiera informacje do przedmowy bibliografii
 6) gromadzi informacje do wstępu
-6) projektuje układy bibliograficzne wydawnictw:
-a) dobiera układy bibliograficzne do zakresu księgozbioru
+6) projektuje układy bibliograficzne wy- 1) charakteryzuje funkcję układów rzeczowych dawnictw: 2) ocenia poprawność układu wydawnictw
+a) dobiera układy bibliograficzne do 3) kwalifikuje piśmiennictwo w obrębie układów rzeczowych zakresu księgozbioru 4) szereguje piśmiennictwo w układzie alfabetycznym
 b) porządkuje książki i opisy bibliograficzne według zasad ustalonych dla określonych układów bibliograficznych
-1) charakteryzuje funkcję układów rzeczowych
-2) ocenia poprawność układu wydawnictw
-3) kwalifikuje piśmiennictwo w obrębie układów rzeczowych
-4) szereguje piśmiennictwo w układzie alfabetycznym
 7) projektuje układy asortymentu dla księ- 1) klasyfikuje piśmiennictwo według określonego kryterium garń ogólnoasortymentowych, specjali- 2) wskazuje nazwy działów zaprojektowanego układu stycznych i antykwariatów 3) dobiera rodzaj układu asortymentu dla księgarń ogólnoasortymentowych, specjalistycznych i antykwariatów
 8) redaguje indeksy 1) rozpoznaje rodzaje indeksów
 2) konstruuje hasło indeksowe zgodnie z zasadami budowy
@@ -3724,15 +3307,14 @@ b) porządkuje książki i opisy bibliograficzne według zasad ustalonych dla ok
 3) stosuje zasady współpracy z agencją reklamową
 4) wskazuje źródła pozyskiwania informacji o agencjach reklamowych
 5) redaguje tekst zapytania ofertowego kierowanego do agencji reklamowej
-4) wykonuje działania popularyzujące czytelnictwo:
-a) przygotowuje prezentacje laureatów konkursów literackich i plebiscytów czytelniczych
-b) stosuje nowoczesne formy popularyzacji czytelnictwa, takie jak: konkursy, animacje literackie i zajęcia artystyczne
-c) planuje spotkanie autorskie
-1) dobiera informacje o konkursach i nagrodach literackich
-2) opracowuje informacje o osiągnięciach współczesnych rzy
-3) dobiera informacje do prezentacji osiągnięć pisarzy
-4) projektuje działania promujące książkę i czytelnictwo, takie jak: konkursy literackie i plebiscyty czytelnicze w środowisku lokalnym, animacje literackie i czytelnicze oraz zajęcia artystyczne dla wybranych grup odbiorców
+4) wykonuje działania popularyzujące czy1) dobiera informacje o konkursach i nagrodach literackich telnictwo:
+2) opracowuje informacje o osiągnięciach współczesnych
+a) przygotowuje prezentacje laureatów rzy konkursów literackich i plebiscytów
+3) dobiera informacje do prezentacji osiągnięć pisarzy czytelniczych
+4) projektuje działania promujące książkę i czytelnictwo, takie
+b) stosuje nowoczesne formy popularyjak: konkursy literackie i plebiscyty czytelnicze w środowizacji czytelnictwa, takie jak: konsku lokalnym, animacje literackie i czytelnicze oraz zajęcia kursy, animacje literackie i zajęcia artystyczne dla wybranych grup odbiorców artystyczne
 5) planuje etapy przygotowywania spotkania autorskiego
+c) planuje spotkanie autorskie
 6) dobiera autorów do celu i grona odbiorców projektowanego spotkania autorskiego
 7) opracowuje informacje o spotkaniu autorskim
 5) organizuje działalność wystawienniczą 1) opracowuje kryteria oceny miejsca ekspozycji w przestrzeni na targach i wystawach targowej
@@ -3746,56 +3328,29 @@ c) planuje spotkanie autorskie
 3) przygotowuje teksty reklamowe do zamieszczenia w mediach
 7) dobiera formy reklamy stoiska targo- 1) projektuje reklamy w różnych formach na tragi książki wego do zaleceń organizatora targów 2) analizuje skuteczność form reklamy zastosowanych na książki gach książki
 3) dobiera tradycyjne lub nowatorskie formy reklamy do charakteru akcji marketingowej na targach książki PGF.10.6. Język obcy zawodowy Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych:
-a) ze stanowiskiem pracy i jego wyposażeniem
-b) z głównymi technologiami stosowanymi w danym zawodzie
-c) z dokumentacją związaną z danym zawodem
-1) rozpoznaje oraz stosuje środki językowe umożliwiające zację czynności zawodowych w zakresie:
-a) czynności wykonywanych na stanowisku pracy, w związanych z zapewnieniem bezpieczeństwa i higieny pracy
-b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych
-c) procesów i procedur związanych z realizacją zadań wodowych
-d) formularzy, specyfikacji oraz innych dokumentów zanych z wykonywaniem zadań zawodowych
-e) świadczonych usług, w tym obsługi klienta
+1) posługuje się podstawowym zasobem 1) rozpoznaje oraz stosuje środki językowe umożliwiające środków językowych w języku obcym zację czynności zawodowych w zakresie: nowożytnym (ze szczególnym uwzględ- a) czynności wykonywanych na stanowisku pracy, w nieniem środków leksykalnych) umożli- związanych z zapewnieniem bezpieczeństwa i higieny wiającym realizację czynności zawodo- pracy wych w zakresie tematów związanych: b) narzędzi, maszyn, urządzeń i materiałów koniecznych
+a) ze stanowiskiem pracy i jego wypo- do realizacji czynności zawodowych sażeniem c) procesów i procedur związanych z realizacją zadań
+b) z głównymi technologiami stosowa- wodowych nymi w danym zawodzie d) formularzy, specyfikacji oraz innych dokumentów
+c) z dokumentacją związaną z danym zanych z wykonywaniem zadań zawodowych zawodem e) świadczonych usług, w tym obsługi klienta
 d) z usługami świadczonymi w danym zawodzie
-2) rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
+2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu lub fragmentu łowane wyraźnie, w standardowej od- wypowiedzi lub tekstu mianie języka obcego nowożytnego, 2) znajduje w wypowiedzi lub tekście określone informacje a także proste wypowiedzi pisemne w ję- 3) rozpoznaje związki między poszczególnymi częściami tekstu zyku obcym nowożytnym w zakresie 4) układa informacje w określonym porządku umożliwiającym realizację zadań zawodowych:
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
-1) określa główną myśl wypowiedzi lub tekstu lub fragmentu wypowiedzi lub tekstu
-2) znajduje w wypowiedzi lub tekście określone informacje
-3) rozpoznaje związki między poszczególnymi częściami tekstu
-4) układa informacje w określonym porządku
-3) samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych:
-a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję)
+3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane z czynnospójne i logiczne wypowiedzi ustne i pi- ściami zawodowymi sprzedawcy semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuacjach w zakresie umożliwiającym realizację wodowych (np. udziela odpowiedzi klientowi, wyjaśnia zadań zawodowych: sady)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakterze czynności zawodowych (np. polece- 5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie, komunikat, instrukcję) nie do sytuacji
 b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem według wzoru)
-1) opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi sprzedawcy
-2) przedstawia sposób postępowania w różnych sytuacjach wodowych (np. udziela odpowiedzi klientowi, wyjaśnia sady)
-3) wyraża i uzasadnia swoje stanowisko
-4) stosuje zasady konstruowania tekstów o różnym charakterze
-5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji
-4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza nowożytnym w sposób zrozumiały, lub nie zgadza z opiniami innych osób adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu:
-a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza nowożytnym w sposób zrozumiały, lub nie zgadza z opiniami innych osób adekwatnie do sytuacji komunikacyjnej, 4) prowadzi proste negocjacje związane z czynnościami zawoustnie lub w formie prostego tekstu: dowymi
+a) reaguje ustnie (np. podczas roz- 5) pyta o upodobania i intencje innych osób mowy z innym pracownikiem, 6) proponuje, zachęca klienta klientem, kontrahentem, w tym roz- 7) stosuje zwroty i formy grzecznościowe mowy telefonicznej) w typowych 8) dostosowuje styl wypowiedzi do sytuacji sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-4) prowadzi proste negocjacje związane z czynnościami zawodowymi
-5) pyta o upodobania i intencje innych osób
-6) proponuje, zachęca klienta
-7) stosuje zwroty i formy grzecznościowe
-8) dostosowuje styl wypowiedzi do sytuacji
 5) zmienia formę przekazu ustnego lub pi- 1) przekazuje w języku obcym nowożytnym informacje zawarte semnego w języku obcym nowożytnym, w materiałach wizualnych (np. w wykresach, symbolach, w typowych sytuacjach związanych piktogramach, schematach) oraz audiowizualnych (np. w z wykonywaniem czynności zawodo- mach instruktażowych) wych 2) przekazuje w języku polskim informacje sformułowane zyku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał (np. prezentację)
-6) wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową:
-a) wykorzystuje techniki samodzielnej pracy nad językiem obcym nowożytnym
-b) współdziała w grupie
-c) korzysta ze źródeł informacji w języku obcym nowożytnym
-d) stosuje strategie komunikacyjne i kompensacyjne
-1) posługuje się słownikiem dwujęzycznym i jednojęzycznym
-2) pracuje z tekstem w języku obcym nowożytnym, również pomocą technologii informacyjno-komunikacyjnych
-3) identyfikuje słowa klucze, internacjonalizmy
-4) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa
-5) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne PGF.10.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
-1) przestrzega zasad kultury i etyki podczas realizacji zadań zawodowych
-1) wymienia reguły i procedury obowiązujące w środowisku pracy
+6) wykorzystuje strategie służące doskona- 1) posługuje się słownikiem dwujęzycznym i jednojęzycznym leniu własnych umiejętności językowych 2) pracuje z tekstem w języku obcym nowożytnym, również oraz podnoszące świadomość językową: pomocą technologii informacyjno-komunikacyjnych
+a) wykorzystuje techniki samodzielnej 3) identyfikuje słowa klucze, internacjonalizmy pracy nad językiem obcym nowo- 4) wykorzystuje kontekst (tam, gdzie to możliwe), aby w przyżytnym bliżeniu określić znaczenie słowa
+b) współdziała w grupie 5) upraszcza (jeżeli to konieczne) wypowiedź, zastępuje niec) korzysta ze źródeł informacji w ję- znane słowa innymi, wykorzystuje opis, środki niewerbalne zyku obcym nowożytnym
+d) stosuje strategie komunikacyjne i kompensacyjne PGF.10.7. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+1) przestrzega zasad kultury i etyki podczas 1) wymienia reguły i procedury obowiązujące w środowisku realizacji zadań zawodowych pracy
 2) identyfikuje zasady etyczne i prawne związane z ochroną własności intelektualnej i ochroną danych osobowych
 3) wymienia uniwersalne zasady kultury i etyki
 4) rozpoznaje przypadki naruszania zasad etyki
@@ -3849,11 +3404,11 @@ d) stosuje strategie komunikacyjne i kompensacyjne
 3) ocenia jakość wykonania przydzielonych zadań
 4) określa zasady kontroli jakości wykonanych zadań według przyjętych kryteriów
 3) wprowadza rozwiązania techniczne i or- 1) określa rozwiązania techniczne i organizacyjne poprawiające ganizacyjne wpływające na poprawę wa- warunki i jakość pracy runków i jakość pracy 2) planuje zmiany w organizacji poprawiające warunki i jakość pracy WARUNKI REALIZACJI KSZTAŁCENIA W ZAWODZIE TECHNIK KSIĘGARSTWA Szkoła prowadząca kształcenie w zawodzie zapewnia pomieszczenia dydaktyczne z wyposażeniem odpowiadającym nologii i technice stosowanej w zawodzie, aby zapewnić osiągnięcie wszystkich efektów kształcenia określonych stawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz umożliwić przygotowanie absolwenta konywania zadań zawodowych.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji HAN.01. Prowadzenie sprzedaży Pracownia organizowania i prowadzenia sprzedaży wyposażona w: stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, z drukarką, lub urządzeniem wielofunkcyjnym oraz projektorem multimedialnym, tablicą interaktywną lub monitorem nym, pakietem programów biurowych i oprogramowaniem do obsługi sprzedaży i gospodarki magazynowej, stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej do internetu, z pakietem programów biurowych i oprogramowaniem do obsługi sprzedaży i gospodarki magazynowej, stanowiska prowadzenia sprzedaży (jedno stanowisko dla dwóch uczniów), urządzenia do rejestrowania sprzedaży, urządzenia do przechowywania, eksponowania, transportu i znakowania rów, atrapy towarów, materiały do pakowania towarów, przyrządy do kontroli jakości i warunków przechowywania towarów oraz do określania masy i wielkości towarów, druki dokumentów dotyczących organizacji i prowadzenia sprzedaży oraz instrukcje obsługi urządzeń.
-Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji PGF.10. Prowadzenie działalności cyjno-bibliograficznej Pracownia księgarska wyposażona w: stanowisko komputerowe dla nauczyciela z dostępem do internetu, z drukarką, skanerem lub urządzeniem cyjnym oraz z projektorem multimedialnym lub tablicą interaktywną lub monitorem interaktywnym, stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) z dostępem do internetu, z podłączeniem do drukarki sieciowej lub biurowego urządzenia wielofunkcyjnego z pakietem programów biurowych oraz stycznych programów komputerowych do obsługi księgarni, wyposażenie do przechowywania i eksponowania asortymentu księgarskiego, pozycje wydawnicze księgarni ogólnoasortymentowej i specjalistycznej, tablice Uniwersalnej Klasyfikacji Dziesiętnej, bibliografie ogólne i specjalne, katalogi wydawnicze, encyklopedie, słowniki, normy bibliograficzne.
-Pracownia organizacji reklamy wyposażona w: stanowisko komputerowe dla nauczyciela z dostępem do internetu, z drukarką, skanerem lub urządzeniem cyjnym oraz z projektorem multimedialnym lub tablicą interaktywną lub monitorem interaktywnym, stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej do internetu i drukarki lub biurowego urządzenia wielofunkcyjnego, z pakietem programów biurowych i waniem do obróbki grafiki rastrowej oraz tworzenia i edycji grafiki wektorowej, skanery, drukarki lub urządzenia wielofunkcyjne (jedno urządzenie na cztery stanowiska komputerowe), sprzęt fotograficzny, sprzęt wystawienniczy, materiały biurowe, rysunkowe i malarskie.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji HAN.01. Prowadzenie sprzedaży Pracownia organizowania i prowadzenia sprzedaży wyposażona w: – stanowisko komputerowe dla nauczyciela podłączone do sieci lokalnej z dostępem do internetu, z drukarką, lub urządzeniem wielofunkcyjnym oraz projektorem multimedialnym, tablicą interaktywną lub monitorem nym, pakietem programów biurowych i oprogramowaniem do obsługi sprzedaży i gospodarki magazynowej, – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej do internetu, z pakietem programów biurowych i oprogramowaniem do obsługi sprzedaży i gospodarki magazynowej, – stanowiska prowadzenia sprzedaży (jedno stanowisko dla dwóch uczniów), – urządzenia do rejestrowania sprzedaży, urządzenia do przechowywania, eksponowania, transportu i znakowania rów, atrapy towarów, materiały do pakowania towarów, przyrządy do kontroli jakości i warunków przechowywania towarów oraz do określania masy i wielkości towarów, – druki dokumentów dotyczących organizacji i prowadzenia sprzedaży oraz instrukcje obsługi urządzeń.
+Wyposażenie szkoły niezbędne do realizacji kształcenia w kwalifikacji PGF.10. Prowadzenie działalności cyjno-bibliograficznej Pracownia księgarska wyposażona w: – stanowisko komputerowe dla nauczyciela z dostępem do internetu, z drukarką, skanerem lub urządzeniem cyjnym oraz z projektorem multimedialnym lub tablicą interaktywną lub monitorem interaktywnym, – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) z dostępem do internetu, z podłączeniem do drukarki sieciowej lub biurowego urządzenia wielofunkcyjnego z pakietem programów biurowych oraz stycznych programów komputerowych do obsługi księgarni, – wyposażenie do przechowywania i eksponowania asortymentu księgarskiego, – pozycje wydawnicze księgarni ogólnoasortymentowej i specjalistycznej, – tablice Uniwersalnej Klasyfikacji Dziesiętnej, – bibliografie ogólne i specjalne, katalogi wydawnicze, encyklopedie, słowniki, normy bibliograficzne.
+Pracownia organizacji reklamy wyposażona w: – stanowisko komputerowe dla nauczyciela z dostępem do internetu, z drukarką, skanerem lub urządzeniem cyjnym oraz z projektorem multimedialnym lub tablicą interaktywną lub monitorem interaktywnym, – stanowiska komputerowe dla uczniów (jedno stanowisko dla jednego ucznia) podłączone do sieci lokalnej do internetu i drukarki lub biurowego urządzenia wielofunkcyjnego, z pakietem programów biurowych i waniem do obróbki grafiki rastrowej oraz tworzenia i edycji grafiki wektorowej, – skanery, drukarki lub urządzenia wielofunkcyjne (jedno urządzenie na cztery stanowiska komputerowe), – sprzęt fotograficzny, – sprzęt wystawienniczy, – materiały biurowe, rysunkowe i malarskie.
 Miejsce realizacji praktyk zawodowych: księgarnie, inne podmioty gospodarcze prowadzące sprzedaż asortymentu garskiego i inne podmioty stanowiące potencjalne miejsce zatrudnienia absolwentów szkół prowadzących kształcenie w zawodzie.
-Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin), a w przypadku branżowej szkoły II stopnia 4 tygodnie (140 godzin).
+Liczba tygodni przeznaczonych na realizację praktyk zawodowych: 8 tygodni (280 godzin), a w przypadku branżowej szkoły II stopnia – 4 tygodnie (140 godzin).
 MINIMALNA LICZBA GODZIN KSZTAŁCENIA ZAWODOWEGO DLA KWALIFIKACJI WYODRĘBNIONYCH W ZAWODZIE HAN.01. Prowadzenie sprzedaży Nazwa jednostki efektów kształcenia Liczba godzin HAN.01.1. Bezpieczeństwo i higiena pracy 30 HAN.01.2. Podstawy handlu 60 HAN.01.3. Organizowanie sprzedaży 270 HAN.01.4. Sprzedaż towarów 390 HAN.01.5. Język obcy zawodowy 60 Razem 810 HAN.01.6. Kompetencje personalne i społeczne PGF.10. Prowadzenie działalności informacyjno-bibliograficznej Nazwa jednostki efektów kształcenia Liczba godzin PGF.10.1. Bezpieczeństwo i higiena pracy 30 PGF.10.2. Podstawy handlu 60 PGF.10.3. Pozyskiwanie informacji o asortymencie księgarskim i rynku wydawnictw 150 PGF.10.4. Opracowywanie bibliografii i katalogów 135 PGF.10.5. Organizowanie działań marketingowych w księgarni 120 PGF.10.6. Język obcy zawodowy 60 Razem 495+60 PGF.10.7. Kompetencje personalne i społeczne PGF.10.8. Organizacja pracy małych zespołów MOŻLIWOŚCI PODNOSZENIA KWALIFIKACJI W ZAWODZIE Absolwent szkoły prowadzącej kształcenie w zawodzie technik księgarstwa po potwierdzeniu kwalifikacji HAN.01.
 dzenie sprzedaży może uzyskać dyplom zawodowy w zawodzie technik handlowiec po potwierdzeniu kwalifikacji Prowadzenie działań handlowych.”.
 § 2. Kształcenie w zawodzie technik gospodarki odpadami w branżowej szkole II stopnia, w oparciu o podstawę gramową kształcenia w zawodzie technik gospodarki odpadami, określoną w załączniku nr 4 do rozporządzenia, mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, prowadzi się począwszy od roku szkolnego 2026/2027.

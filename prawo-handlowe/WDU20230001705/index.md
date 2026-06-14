@@ -8,7 +8,7 @@ pos: 1705
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw
@@ -28,6 +28,230 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1705/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, 1488, 2280 i 2436 oraz z 2023 r. poz. 739 i 825) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 § 2 otrzymuje brzmienie: „§ 2. Do spółki kapitałowej w organizacji w sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy dotyczące danej formy prawnej spółki po jej wpisie do rejestru.”;
+- **2)** w art. 146 w § 2 pkt 7 otrzymuje brzmienie: „7) połączenia, podziału i przekształcenia spółki;”;
+- **3)** w art. 270 pkt 2 otrzymuje brzmienie: „2) uchwała wspólników o rozwiązaniu spółki albo o przeniesieniu siedziby spółki za granicę, stwierdzona protokołem sporządzonym przez notariusza, chyba że przeniesienie siedziby ma nastąpić do innego państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, a prawo tego państwa to dopuszcza;”;
+- **4)** w art. 455 § 1 otrzymuje brzmienie: „§ 1. Kapitał zakładowy obniża się, w drodze zmiany statutu, przez zmniejszenie wartości nominalnej akcji, połączenie akcji lub umorzenie części akcji oraz w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie.”;
+- **5)** w art. 459 pkt 2 otrzymuje brzmienie: „2) uchwała walnego zgromadzenia o rozwiązaniu spółki albo o przeniesieniu siedziby spółki za granicę, chyba że przeniesienie siedziby ma nastąpić do innego państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, a prawo tego państwa to dopuszcza;”;
+- **6)** w art. 491 § 1–2 otrzymują brzmienie: „§ 1. Spółki kapitałowe mogą się łączyć ze sobą oraz ze spółkami osobowymi; spółka osobowa, z wyłączeniem spółki komandytowo-akcyjnej, nie może jednakże być spółką przejmującą albo spółką nowo zawiązaną.
+
+§ 1. Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą się łączyć ze spółką zagraniczną, o której mowa w art. 119 pkt 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127, z późn. zm. ), utworzoną zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym (połączenie transgraniczne).
+
+§ 2. Spółki osobowe mogą się łączyć ze sobą tylko przez zawiązanie spółki kapitałowej albo spółki komandytowo-akcyjnej albo przejęcie przez spółkę komandytowo-akcyjną.”;
+
+- **7)** w art. 492 w § 1 pkt 2 otrzymuje brzmienie: „2) przez zawiązanie spółki kapitałowej albo spółki komandytowo-akcyjnej, na którą przechodzi majątek wszystkich łączących się spółek za udziały albo akcje nowej spółki (łączenie się przez zawiązanie nowej spółki).”;
+- **8)** w art. 495 § 2 otrzymuje brzmienie: „§ 2. Za prowadzenie oddzielnego zarządu członkowie organów albo wspólnicy prowadzący sprawy spółki przejmującej lub spółki nowo zawiązanej odpowiadają solidarnie.”;
+- **9)** w art. 499 w § 1 pkt 1 i 2 otrzymują brzmienie: „1) formę prawną, firmę i siedzibę każdej z łączących się spółek, sposób łączenia, a w przypadku połączenia przez zawiązanie nowej spółki – również formę prawną, firmę i siedzibę tej spółki;
+- **2)** stosunek wymiany udziałów lub akcji spółki przejmowanej bądź spółek łączących się przez zawiązanie nowej spółki na udziały lub akcje spółki przejmującej bądź spółki nowo zawiązanej i wysokość ewentualnych dopłat pieniężnych, chyba że nie dochodzi do takiej wymiany;”;
+- **10)** w art. 503:
+    - **a)** w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Biegły sporządza na piśmie szczegółową opinię w terminie określonym przez sąd, nie dłuższym jednak niż dwa miesiące od dnia jego wyznaczenia, i składa ją sądowi rejestrowemu oraz zarządom łączących się spółek wraz z planem połączenia. Opinia ta zawiera co najmniej:”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.”;
+
+- **11)** po art. 515 dodaje się art. 515 w brzmieniu: „Art. 515 . § 1. Połączenie może być przeprowadzone bez przyznania udziałów albo akcji spółki przejmującej w przypadku, gdy jeden wspólnik posiada bezpośrednio lub pośrednio wszystkie udziały lub akcje w łączących się spółkach albo wspólnicy łączących się spółek posiadają udziały lub akcje w tej samej proporcji we wszystkich łączących się spółkach.
+
+§ 2. W przypadku gdy jeden wspólnik posiada pośrednio wszystkie udziały albo akcje w spółce przejmowanej, a połączenie następuje bez przyznania udziałów albo akcji w spółce przejmującej, wierzyciel nieuczestniczącej w połączeniu spółki posiadającej bezpośrednio wszystkie udziały albo akcje spółki przejmowanej może żądać od tej spółki zabezpieczenia swoich roszczeń w terminie miesiąca od dnia ogłoszenia planu połączenia, jeżeli uprawdopodobni, że ich zaspokojenie jest zagrożone przez połączenie.
+
+§ 3. W razie sporu sąd właściwy według siedziby nieuczestniczącej w połączeniu spółki, o której mowa w § 2, rozstrzyga o udzieleniu zabezpieczenia na wniosek wierzyciela, złożony w terminie dwóch miesięcy od dnia ogłoszenia planu połączenia.”;
+
+- **12)** w art. 516 po § 6 dodaje się § 6 w brzmieniu: „§ 6 . Do łączenia się przez przejęcie przez spółkę, w której jeden wspólnik posiada bezpośrednio lub pośrednio wszystkie udziały lub akcje w spółce przejmującej i w spółce albo spółkach przejmowanych bez przyznania udziałów lub akcji spółki przejmującej, nie stosuje się przepisów art. 494 § 4, art. 499 § 1 pkt 2–4, art. 502 i art. 503. Wobec spółki przejmowanej nie stosuje się przepisów art. 501 i art. 506. Ogłoszenie albo udostępnienie planu połączenia, o którym mowa w art. 500 § 2 i 2 , oraz udostępnienie dokumentów, o których mowa w art. 505 § 1, musi nastąpić co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia spółki przejmującej, na którym ma być powzięta uchwała o połączeniu.”;
+- **13)** w art. 516 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Do dnia otrzymania zaświadczenia o zgodności połączenia transgranicznego z prawem krajowym połączenie transgraniczne podlega w odniesieniu do każdej z łączących się spółek prawu państwa jej siedziby, a po tym dniu podlega prawu państwa siedziby spółki przejmującej albo spółki nowo zawiązanej.”;
+- **14)** w art. 516 pkt 2 otrzymuje brzmienie: „2) spółka, której celem jest zbiorowe inwestowanie kapitału pozyskanego w drodze emisji publicznej, działająca na zasadzie dywersyfikacji ryzyka oraz której jednostki uczestnictwa są na żądanie ich posiadaczy odkupywane lub umarzane bezpośrednio lub pośrednio z aktywów tej spółki; działania podjęte przez taką spółkę w celu zapewnienia, aby giełdowa wartość jednostek uczestnictwa nie różniła się w znaczny sposób od wartości netto aktywów, uważa się za równoznaczne z takim odkupieniem lub umorzeniem jednostek.”;
+- **15)** w art. 516 :
+    - **a)** dotychczasową treść oznacza się jako § 1,
+    - **b)** pkt 1–3 otrzymują brzmienie: „1) formę prawną, firmę i siedzibę statutową łączących się spółek, oznaczenie rejestru oraz numer w rejestrze każdej z łączących się spółek, sposób łączenia, a w przypadku połączenia przez zawiązanie nowej spółki – również formę prawną, firmę i siedzibę statutową proponowane dla tej spółki;
+
+- **2)** stosunek wymiany udziałów lub akcji spółki przejmowanej bądź spółek łączących się przez zawiązanie nowej spółki na udziały lub akcje spółki przejmującej bądź spółki nowo zawiązanej i wysokość ewentualnych dopłat pieniężnych, chyba że nie dochodzi do takiej wymiany;
+- **3)** stosunek wymiany innych papierów wartościowych spółki przejmowanej bądź spółek łączących się przez zawiązanie nowej spółki na papiery wartościowe spółki przejmującej bądź spółki nowo zawiązanej i wysokość ewentualnych dopłat pieniężnych, chyba że nie dochodzi do takiej wymiany;”,
+    - **c)** pkt 8 otrzymuje brzmienie: „8) szczególne korzyści przyznane członkom organów łączących się spółek;”,
+    - **d)** po pkt 8 dodaje się pkt 8 w brzmieniu: „8 ) zabezpieczenia roszczeń proponowane wierzycielom;”,
+    - **e)** pkt 9 otrzymuje brzmienie: „9) warunki wykonywania praw wierzycieli, pracowników i wspólników każdej z łączących się spółek oraz adres strony internetowej, na której można bezpłatnie uzyskać informacje na temat tych warunków;”,
+    - **f)** po pkt 9 dodaje się pkt 9 w brzmieniu: „9 ) cenę odkupu, o której mowa w art. 516 § 2 ;”,
+    - **g)** pkt 15 otrzymuje brzmienie: „15) projekt umowy albo statutu, albo aktu założycielskiego spółki, zgodnie z prawem właściwym dla spółki przejmującej bądź spółki nowo zawiązanej.”,
+    - **h)** dodaje się § 2 w brzmieniu: „§ 2. Wspólnicy, wierzyciele i przedstawiciele pracowników łączącej się spółki, a w braku takich przedstawicieli – pracownicy, mogą złożyć spółce uwagi dotyczące planu połączenia transgranicznego co najmniej na pięć dni roboczych przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym.”;
+
+- **16)** w art. 516 :
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Spółka składa do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, następujące dokumenty:
+
+- **1)** plan połączenia transgranicznego,
+- **2)** zawiadomienie wspólników, wierzycieli i przedstawicieli pracowników łączącej się spółki, a w braku takich przedstawicieli – pracowników, o możliwości złożenia spółce uwag dotyczących planu połączenia transgranicznego – w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym.”,
+    - **b)** uchyla się § 2,
+    - **c)** dodaje się § 3–6 w brzmieniu: „§ 3. Spółka nie jest obowiązana do złożenia do sądu rejestrowego dokumentów, o których mowa w § 1, jeżeli nie później niż na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, oraz opinię biegłego, o której mowa w art. 516 § 2 , na swojej stronie internetowej.
+
+§ 4. W przypadku, o którym mowa w § 3, spółka składa do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, następujące informacje:
+
+- **1)** w odniesieniu do każdej z łączących się spółek – formę prawną, firmę i siedzibę statutową oraz formę prawną, firmę i siedzibę statutową proponowane dla spółki powstałej w wyniku połączenia transgranicznego,
+- **2)** oznaczenie rejestru, do którego zostały złożone dokumenty łączących się spółek, oraz numer w rejestrze każdej z łączących się spółek,
+- **3)** warunki wykonywania praw wierzycieli, pracowników i wspólników każdej z łączących się spółek,
+- **4)** adres strony internetowej, na której bezpłatnie udostępniane są dokumenty, o których mowa w § 1, oraz opinia biegłego, o której mowa w art. 516 § 2 – w celu wpisania do rejestru wzmianki o złożeniu tych informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym.
+
+§ 5. Sąd rejestrowy wpisuje do rejestru wzmiankę o złożeniu dokumentów, o których mowa w § 1, albo wzmiankę o złożeniu informacji, o których mowa w § 4.
+
+§ 6. W przypadku gdy w odniesieniu do spółki przejmującej połączenie transgraniczne może być dokonane bez powzięcia uchwały, o której mowa w art. 506, dokumenty albo informacje, o których mowa w § 1 i 4, składa się do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia pozostałych łączących się spółek albo spółki, na którym ma być powzięta uchwała o połączeniu transgranicznym, w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów albo informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed tą datą.”;
+
+- **17)** w art. 516 : Spółka może zdecydować o sporządzeniu dwóch oddzielnych sprawozdań, odpowiednio dla wspólników oraz dla pracowników.”,
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Zarząd spółki sporządza sprawozdanie dla wspólników i pracowników wyjaśniające podstawy prawne i uzasadniające ekonomiczne aspekty połączenia transgranicznego, w tym wyjaśniające skutki tego połączenia dla pracowników oraz dla przyszłej działalności spółki.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Sprawozdanie zawiera część przeznaczoną dla wspólników oraz część przeznaczoną dla pracowników.
+    - **c)** § 2 otrzymuje brzmienie: „§ 2. Sprawozdanie w części przeznaczonej dla wspólników określa w szczególności:
+
+- **1)** cenę odkupu, o której mowa w art. 516 § 2 , oraz metodę albo metody użyte do określenia tej ceny;
+- **2)** stosunek wymiany udziałów lub akcji oraz metodę albo metody użyte do jego określania, chyba że nie dochodzi do takiej wymiany;
+- **3)** skutki połączenia transgranicznego dla wspólników;
+- **4)** uprawnienia i środki prawne przysługujące wspólnikom zgodnie z art. 516 .”,
+    - **d)** po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Sprawozdanie w części przeznaczonej dla pracowników określa w szczególności:
+
+- **1)** skutki połączenia transgranicznego dla stosunków pracy, a także środki stosowane w celu ochrony tych stosunków, jeżeli są wymagane;
+- **2)** istotne zmiany w obowiązujących warunkach zatrudnienia oraz w odniesieniu do miejsca prowadzenia działalności przez spółkę;
+- **3)** w jakim zakresie informacje wymienione w pkt 1 i 2 odnoszą się do spółek zależnych.”,
+    - **e)** § 3 otrzymuje brzmienie: „§ 3. Zarząd spółki dołącza do sprawozdania opinię przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, na temat informacji, o których mowa w § 1 i 2 , oraz informuje o niej wspólników, jeżeli otrzyma ją w odpowiednim czasie.”,
+    - **f)** dodaje się § 4 i 5 w brzmieniu: „§ 4. Sprawozdanie w części przeznaczonej dla wspólników nie jest wymagane w przypadku spółki jednoosobowej ani w przypadku, gdy wszyscy wspólnicy spółki wyrazili zgodę na odstąpienie od wymogu sporządzenia tego sprawozdania.
+
+§ 5. Sprawozdanie w części przeznaczonej dla pracowników nie jest wymagane w przypadku, gdy łącząca się spółka i jej spółki zależne nie zatrudniają pracowników innych niż pracownicy wchodzący w skład zarządu łączącej się spółki.”;
+
+- **18)** w art. 516 :
+    - **a)** po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Opinia biegłego zawiera co najmniej:
+
+- **1)** ocenę, czy cena odkupu, o której mowa w art. 516 § 2 , i stosunek wymiany udziałów lub akcji są ustalone należycie; przy dokonywaniu oceny biegły uwzględnia cenę rynkową udziałów lub akcji łączących się spółek przed ujawnieniem lub udostępnieniem planu połączenia transgranicznego lub wartość spółek, z wyłączeniem efektu proponowanego połączenia, określonego zgodnie z ogólnie przyjętymi metodami wyceny;
+- **2)** wskazanie metody albo metod użytych dla określenia proponowanej w planie połączenia transgranicznego ceny odkupu, o której mowa w art. 516 § 2 ;
+- **3)** wskazanie metody albo metod użytych dla określenia proponowanego w planie połączenia transgranicznego stosunku wymiany udziałów lub akcji;
+- **4)** stwierdzenie, czy metoda albo metody użyte dla określenia proponowanej w planie połączenia transgranicznego ceny odkupu, o której mowa w art. 516 § 2 , są adekwatne do oceny tej ceny, oraz stosunku wymiany udziałów lub akcji, wskazanie wartości określonej przy zastosowaniu każdej z tych metod oraz opinię na temat względnego znaczenia przypisywanego tym metodom przy określaniu wybranych wartości, a także, w przypadku zastosowania różnych metod w łączących się spółkach, stwierdzenie, czy zastosowanie różnych metod było uzasadnione;
+- **5)** wskazanie szczególnych trudności związanych z wyceną.”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. Badanie planu połączenia transgranicznego przez biegłego ani sporządzenie opinii przez biegłego nie są wymagane w przypadku spółki jednoosobowej ani w przypadku, gdy wszyscy wspólnicy łączących się spółek wyrazili zgodę na odstąpienie od wymogu badania planu połączenia transgranicznego przez biegłego i sporządzenia przez niego opinii.”;
+
+- **19)** po art. 516 dodaje się art. 516 w brzmieniu: „Art. 516 . § 1. Zarząd spółki zawiadamia wspólników o zamiarze połączenia z inną spółką dwukrotnie, w sposób przewidziany dla zwoływania zgromadzeń wspólników albo walnych zgromadzeń. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia.
+
+§ 2. Zawiadomienia, o których mowa w § 1, zawierają co najmniej miejsce oraz termin, w których wspólnicy mogą się zapoznać z dokumentami, o których mowa w art. 516 § 1.”;
+
+- **20)** w art. 516 w § 1:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) sprawozdanie, o którym mowa w art. 516 ;”,
+    - **b)** w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) uwagi, o których mowa w art. 516 § 2;
+
+- **6)** opinię, o której mowa w art. 516 § 3.”,
+    - **c)** § 2 otrzymuje brzmienie: „§ 2. Wspólnicy i przedstawiciele pracowników, a w braku takich przedstawicieli – pracownicy, mogą żądać udostępnienia im bezpłatnie w lokalu spółki odpisów dokumentów, o których mowa w § 1. Wspólnikom i przedstawicielom pracowników, a w braku takich przedstawicieli – pracownikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w postaci elektronicznej.”,
+    - **d)** dodaje się § 3 i 4 w brzmieniu: „§ 3. Przepisów § 1 i § 2 zdanie pierwsze nie stosuje się, gdy spółka nie później niż w terminach, o których mowa w § 4, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom oraz przedstawicielom pracowników, a w braku takich przedstawicieli – pracownikom, na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.
+
+§ 4. Spółka udostępnia dokumenty, o których mowa w § 1 pkt 2 i 4, co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, a sprawozdanie, o którym mowa w art. 516 , wraz z planem połączenia, o ile go sporządzono, co najmniej na sześć tygodni przed tym dniem. Jeżeli w odniesieniu do spółki przejmującej połączenie transgraniczne może być przeprowadzone bez powzięcia uchwały, o której mowa w art. 506, dokumenty te udostępnia się odpowiednio przed datą zgromadzenia wspólników albo walnego zgromadzenia pozostałych łączących się spółek albo spółki.”;
+
+- **21)** w art. 516 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „§ 2. Uchwała o połączeniu transgranicznym nie podlega zaskarżeniu ze względu na zastrzeżenia dotyczące wyłącznie tego, że:
+- **1)** stosunek wymiany udziałów lub akcji, o którym mowa w art. 516 § 1 pkt 2, nie został ustalony należycie lub
+- **2)** cena odkupu, o której mowa w art. 516 § 2 , nie została ustalona należycie, lub
+- **3)** informacje podane w odniesieniu do stosunku wymiany udziałów lub akcji, o którym mowa w art. 516 § 1 pkt 2, lub ceny odkupu, o której mowa w art. 516 § 2 , nie spełniają wymogów prawnych.
+
+§ 3. Przepis § 2 nie ogranicza prawa do dochodzenia odszkodowania na zasadach ogólnych.”;
+
+- **22)** w art. 516 :
+    - **a)** § 2 i 3 otrzymują brzmienie: „§ 2. Wierzyciel spółki krajowej może w terminie miesiąca od dnia ujawnienia lub udostępnienia planu połączenia transgranicznego żądać zabezpieczenia swoich roszczeń, które nie stały się wymagalne w chwili ujawnienia lub udostępnienia tego planu, jeżeli uprawdopodobni, że ich zaspokojenie jest zagrożone przez połączenie.
+
+§ 3. W razie sporu sąd właściwy według siedziby łączącej się spółki rozstrzyga o udzieleniu zabezpieczenia roszczeń wierzyciela, o których mowa w § 2, na wniosek wierzyciela, złożony w terminie trzech miesięcy od dnia ujawnienia lub udostępnienia planu połączenia transgranicznego.”,
+
+- **b)** dodaje się § 5 w brzmieniu: „§ 5. Wykonanie zabezpieczenia jest uzależnione od skuteczności połączenia transgranicznego.”;
+- **23)** w art. 516 :
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Jeżeli spółką przejmującą albo spółką nowo zawiązaną jest spółka zagraniczna, wspólnik:
+
+- **1)** który głosował przeciwko uchwale o połączeniu transgranicznym i zażądał zaprotokołowania sprzeciwu najpóźniej na zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o połączeniu transgranicznym; wymóg głosowania nie dotyczy akcjonariusza akcji niemej,
+- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o połączeniu transgranicznym – może żądać odkupu jego udziałów albo akcji; w odniesieniu do wspólnika, który skorzystał z prawa odkupu, przepisu art. 494 § 4 nie stosuje się.
+
+§ 2. Wspólnik składa spółce żądanie odkupu w terminie dziesięciu dni od dnia podjęcia uchwały o połączeniu transgranicznym. Żądanie odkupu może być przesłane na adres do doręczeń elektronicznych.”,
+
+- **b)** po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Cena odkupu odpowiada wartości godziwej udziałów albo akcji w łączącej się spółce.”,
+- **c)** § 5 i 6 otrzymują brzmienie: „§ 5. Spółka dokonuje odkupu udziałów albo akcji na rachunek własny lub rachunek wspólników pozostających w spółce nie później niż w terminie dwóch miesięcy od dnia połączenia transgranicznego. Skuteczność odkupu zależy od zapłaty ceny odkupu wspólnikom żądającym odkupu lub złożenia kwoty równej tej cenie do depozytu sądowego.
+
+§ 6. Spółka może nabyć na rachunek własny udziały albo akcje, których łączna wartość nominalna, wraz z udziałami albo akcjami nabytymi dotychczas przez nią, przez spółki lub spółdzielnie od niej zależne lub przez osoby działające na jej rachunek, nie przekracza 25% kapitału zakładowego albo łączna liczba akcji nie przekracza 25% ogólnej liczby akcji w prostej spółce akcyjnej.”,
+
+- **d)** uchyla się § 7,
+- **e)** dodaje się § 8–13 w brzmieniu: „§ 8. Wspólnik, który złożył żądanie odkupu i nie zgadza się na cenę odkupu, może wnieść powództwo o dodatkowe wynagrodzenie pieniężne w terminie dwóch tygodni od dnia podjęcia uchwały o połączeniu transgranicznym. Wniesienie powództwa nie wstrzymuje odkupu ani rejestracji połączenia transgranicznego.
+
+§ 9. Prawomocne orzeczenie o przyznaniu wspólnikowi dodatkowego wynagrodzenia pieniężnego ma moc obowiązującą w stosunku do spółki oraz wszystkich wspólników, którzy złożyli żądanie odkupu zgodnie z § 2.
+
+§ 10. Sprawy związane z ochroną wspólników, o których mowa w § 1–6, 8 i 9, w związku z połączeniem transgranicznym podlegają prawu i wyłącznej jurysdykcji sądu właściwego według siedziby łączącej się spółki.
+
+§ 11. Wspólnik, który nie ma prawa odkupu jego udziałów albo akcji albo nie skorzystał z tego prawa i nie zgadza się na stosunek wymiany udziałów lub akcji określony w planie połączenia transgranicznego, może wnieść do sądu właściwego według siedziby łączącej się spółki powództwo o dopłatę w gotówce w terminie dwóch tygodni od dnia podjęcia uchwały o połączeniu transgranicznym. Wniesienie powództwa nie wstrzymuje rejestracji połączenia transgranicznego.
+
+§ 12. Prawomocne orzeczenie o przyznaniu dopłaty w gotówce ma moc obowiązującą w stosunku do spółki przejmującej albo spółki nowo zawiązanej oraz wspólników łączącej się spółki, którzy nie mają prawa odkupu swoich udziałów albo akcji albo nie skorzystali z tego prawa.
+
+§ 13. Spółka przejmująca albo spółka nowo zawiązana może przyznać wspólnikom dodatkowe udziały albo akcje zamiast dopłaty w gotówce.”;
+
+- **24)** w art. 516 :
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Zarząd spółki składa do sądu rejestrowego wniosek o wydanie zaświadczenia o zgodności z prawem polskim połączenia transgranicznego w zakresie procedury podlegającej temu prawu wraz z wnioskiem do właściwego organu podatkowego o wydanie opinii zgodnie z ustawą z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ). Sąd rejestrowy niezwłocznie przesyła wniosek do właściwego organu podatkowego. Przepisu art. 507 § 1 nie stosuje się.”,
+    - **b)** w § 2: – pkt 1 i 2 otrzymują brzmienie: „1) plan połączenia transgranicznego, chyba że został złożony do sądu rejestrowego zgodnie z art. 516 § 1;
+
+- **2)** sprawozdanie, o którym mowa w art. 516 , w części przeznaczonej dla wspólników albo odpis zgody wszystkich wspólników spółki na odstąpienie od wymogu sporządzenia tego sprawozdania;”, – po pkt 2 dodaje się pkt 2 i 2 w brzmieniu: „2 ) sprawozdanie, o którym mowa w art. 516 , w części przeznaczonej dla pracowników albo informację o niezatrudnianiu w łączących się spółkach lub ich spółkach zależnych pracowników innych niż pracownicy wchodzący w skład zarządu; 2 ) uwagi, o których mowa w art. 516 § 2;”, – pkt 3 i 4 otrzymują brzmienie: „3) opinię przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, jeżeli zarząd otrzymał ją w odpowiednim czasie;
+- **4)** opinię biegłego albo odpis zgody wszystkich wspólników łączących się spółek na odstąpienie od wymogu badania planu połączenia transgranicznego przez biegłego i sporządzenia przez niego opinii, chyba że opinia została złożona zgodnie z art. 503;”, – w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11–14 w brzmieniu: „11) oświadczenie zarządu dotyczące celu połączenia transgranicznego, jeżeli nie jest wymagane sporządzenie sprawozdania, o którym mowa w art. 516 ;
+- **12)** oświadczenie zarządu dotyczące miejsca rzeczywistego zarządzania lub działalności gospodarczej spółki po dniu połączenia;
+- **13)** oświadczenie zarządu o tym, czy rozpoczęło się postępowanie dotyczące uczestnictwa pracowników, jeżeli wymagają tego odrębne przepisy;
+- **14)** zaświadczenie Zakładu Ubezpieczeń Społecznych o liczbie ubezpieczonych i o niezaleganiu w opłacaniu składek, na ostatni dzień miesiąca poprzedzającego miesiąc złożenia wniosku o wydanie zaświadczenia.”,
+    - **c)** uchyla się § 3,
+    - **d)** dodaje się § 5–10 w brzmieniu: „§ 5. Sąd rejestrowy bada w szczególności, czy plan połączenia transgranicznego zawiera informacje o procedurach dotyczących uczestnictwa pracowników, na podstawie których dokonuje się odpowiednich uzgodnień, oraz o możliwych wariantach takich uzgodnień.
+
+§ 6. Sąd rejestrowy wydaje spółce zaświadczenie o zgodności z prawem polskim połączenia transgranicznego w zakresie procedury podlegającej temu prawu w terminie trzech miesięcy od dnia złożenia wniosku, o którym mowa w § 1, i wpisuje do rejestru wzmiankę o połączeniu transgranicznym, chyba że stwierdzi, że połączenie transgraniczne służy nadużyciu, naruszeniu lub obejściu prawa.
+
+§ 7. Jeżeli sąd rejestrowy ma poważne wątpliwości wskazujące na to, że połączenie transgraniczne służy nadużyciu, naruszeniu lub obejściu prawa, może zwrócić się o opinię do właściwych organów w celu zbadania określonego zakresu działalności spółki lub zasięgnąć opinii biegłego.
+
+§ 8. Jeżeli połączenie transgraniczne prowadziłoby do posiadania miejsca rzeczywistego zarządzania lub działalności gospodarczej spółki przejmującej albo spółki nowo zawiązanej w państwie członkowskim Unii Europejskiej lub państwie-stronie umowy o Europejskim Obszarze Gospodarczym, w którym spółka ma być zarejestrowana po dniu połączenia, domniemywa się, że brak jest okoliczności wskazujących na nadużycie, naruszenie lub obejście prawa.
+
+§ 9. W przypadku stwierdzenia, że połączenie transgraniczne nie spełnia wszystkich warunków w zakresie procedury połączenia transgranicznego podlegającej prawu polskiemu, sąd rejestrowy może wezwać spółkę do uzupełnienia tej procedury i wyznaczyć w tym celu odpowiedni termin.
+
+§ 10. Jeżeli wydanie zaświadczenia o zgodności z prawem polskim połączenia transgranicznego w zakresie procedury podlegającej temu prawu wymaga uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin przewidziany w § 6 można przedłużyć o trzy miesiące.”;
+
+- **25)** w art. 516 :
+    - **a)** w § 2 uchyla się pkt 1,
+    - **b)** dodaje się § 5 w brzmieniu: „§ 5. Sąd rejestrowy przyjmuje zaświadczenie o zgodności z prawem połączenia transgranicznego wydane przez właściwy organ jako ostateczne potwierdzenie należytego dopełnienia procedur i formalności w zakresie procedury podlegającej prawu właściwemu dla łączącej się spółki.”;
+
+- **26)** w art. 516 :
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Jeżeli spółka przejmująca posiada w spółce albo spółkach przejmowanych wszystkie udziały, akcje i inne papiery wartościowe, zapewniające prawo do głosowania na zgromadzeniu wspólników albo walnym zgromadzeniu spółki albo spółek przejmowanych, albo w przypadku gdy połączenie transgraniczne przez przejęcie jest przeprowadzane przez spółkę, w której jeden wspólnik posiada bezpośrednio lub pośrednio wszystkie udziały lub akcje w spółce przejmującej i w spółce albo spółkach przejmowanych, a spółka przejmująca nie przyznaje żadnych udziałów albo akcji na podstawie połączenia, nie stosuje się przepisów art. 494 § 4, art. 516 § 1 pkt 2, 3, 5–7 i 9 oraz art. 516 .
+
+§ 2. Wobec spółki przejmowanej nie stosuje się przepisów art. 506 oraz art. 516 .”,
+
+- **b)** dodaje się § 4 w brzmieniu: „§ 4. Jeżeli przepisy państw członkowskich Unii Europejskiej lub państw-stron umowy o Europejskim Obszarze Gospodarczym wszystkich łączących się spółek przewidują zwolnienie z obowiązku podjęcia uchwały, o której mowa w art. 506, plan połączenia transgranicznego lub informacje i dokumenty, o których mowa w art. 516 § 1 i 4, sprawozdanie, o którym mowa w art. 516 , i opinię biegłego, o której mowa w art. 516 § 2 , ujawnia lub udostępnia się co najmniej na miesiąc przed podjęciem przez spółkę decyzji w sprawie połączenia.”;
+- **27)** w art. 518 w § 1 pkt 1 otrzymuje brzmienie: „1) formę prawną, firmę i siedzibę każdej z łączących się spółek, sposób łączenia, a w przypadku połączenia przez zawiązanie nowej spółki – również formę prawną, firmę i siedzibę tej spółki;”;
+- **28)** w art. 520 § 1 otrzymuje brzmienie: „§ 1. Gdy spółką przejmującą albo spółką nowo zawiązaną jest spółka akcyjna albo spółka komandytowo-akcyjna, plan połączenia należy poddać badaniu przez biegłego w zakresie poprawności i rzetelności.”;
+- **29)** w art. 521 § 1 otrzymuje brzmienie: „§ 1. Łącząca się spółka zawiadamia wspólników, którzy nie prowadzą spraw spółki, dwukrotnie, w sposób przewidziany dla zawiadamiania wspólników, o zamiarze połączenia z inną spółką. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed planowanym dniem podjęcia uchwały o połączeniu, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia. Zgłoszenie wniosku, o którym mowa w art. 520 § 2, wymaga dodatkowego zawiadomienia, wskazującego nowy termin planowanego podjęcia uchwały.”;
+- **30)** w tytule IV po tytule działu II dodaje się oznaczenie i tytuł rozdziału w brzmieniu: „Rozdział 1 Przepisy ogólne”;
+- **31)** w art. 528:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek kapitałowych lub spółek komandytowo-akcyjnych. Nie jest dopuszczalny podział spółki akcyjnej i spółki komandytowo-akcyjnej, jeżeli kapitał zakładowy nie został pokryty w całości.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek mających formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, utworzonych zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mających siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, pod warunkiem że co najmniej dwie ze spółek uczestniczących w podziale podlegają prawu różnych państw członkowskich Unii Europejskiej lub państw-stron umowy o Europejskim Obszarze Gospodarczym (podział transgraniczny).”,
+    - **c)** § 2 otrzymuje brzmienie: „§ 2. Spółka osobowa inna niż spółka komandytowo-akcyjna nie podlega podziałowi.”,
+    - **d)** dodaje się § 4 w brzmieniu: „§ 4. Ilekroć w przepisach niniejszego działu jest mowa o zarządzie spółki, należy przez to rozumieć odpowiednio wspólników prowadzących sprawy spółki komandytowo-akcyjnej uczestniczącej w podziale.”;
+
+- **32)** w art. 529 § 1 i 2 otrzymują brzmienie: „§ 1. Podział może być dokonany:
+- **1)** przez przeniesienie całego majątku spółki dzielonej na inne spółki za udziały albo akcje spółki przejmującej, które obejmują wspólnicy spółki dzielonej (podział przez przejęcie);
+- **2)** przez zawiązanie nowych spółek, na które przechodzi cały majątek spółki dzielonej za udziały lub akcje nowych spółek, które obejmują wspólnicy spółki dzielonej (podział przez zawiązanie nowych spółek);
+- **3)** przez przeniesienie całego majątku spółki dzielonej na istniejącą i na nowo zawiązaną spółkę albo spółki za udziały lub akcje spółki albo spółek przejmujących i nowo zawiązanych, które obejmują wspólnicy spółki dzielonej (podział przez przejęcie i zawiązanie nowej spółki);
+- **4)** przez przeniesienie części majątku spółki dzielonej na istniejącą lub nowo zawiązaną spółkę albo spółki za udziały lub akcje spółki albo spółek przejmujących, nowo zawiązanych lub spółki dzielonej, które obejmują wspólnicy spółki dzielonej (podział przez wydzielenie);
+- **5)** przez przeniesienie części majątku spółki dzielonej na istniejącą lub nowo zawiązaną spółkę albo spółki za udziały lub akcje spółki albo spółek przejmujących lub nowo zawiązanych, które obejmuje spółka dzielona (podział przez wyodrębnienie).
+
+§ 2. Do podziału przez wydzielenie oraz podziału przez wyodrębnienie stosuje się przepisy o podziale spółek dotyczące odpowiednio spółki przejmującej lub spółki nowo zawiązanej. W przypadku podziału przez wyodrębnienie nie stosuje się przepisów art. 534 § 1 pkt 2, 3–5 i 8, art. 536 § 1, art. 537, art. 538 i art. 541 § 5.”;
+
+- **33)** w art. 530 § 2 otrzymuje brzmienie: „§ 2. Przepis § 1 nie dotyczy podziału przez wydzielenie oraz podziału przez wyodrębnienie. Wydzielenie albo wyodrębnienie nowej spółki następuje w dniu jej wpisu do rejestru. W przypadku przeniesienia części majątku spółki dzielonej na spółkę istniejącą wydzielenie albo wyodrębnienie następuje w dniu wpisu do rejestru podwyższenia kapitału zakładowego spółki przejmującej lub emisji przez spółkę przejmującą nowych akcji bez wartości nominalnej (dzień wydzielenia albo dzień wyodrębnienia).”;
+- **34)** w art. 531 § 1–2 otrzymują brzmienie: „§ 1. Spółki przejmujące lub spółki nowo zawiązane powstałe w związku z podziałem wstępują z dniem podziału albo z dniem wydzielenia albo z dniem wyodrębnienia w prawa i obowiązki spółki dzielonej, określone w planie podziału.
+
+§ 2. Na spółkę przejmującą lub spółkę nowo zawiązaną powstałą w związku z podziałem przechodzą z dniem podziału albo z dniem wydzielenia albo z dniem wyodrębnienia w szczególności zezwolenia, koncesje oraz ulgi, pozostające w związku z przydzielonymi jej w planie podziału składnikami majątku spółki dzielonej, a które zostały przyznane spółce dzielonej, chyba że ustawa lub decyzja o udzieleniu zezwolenia, koncesji lub ulgi stanowi inaczej.
+
+§ 2. Spółka, która w toku postępowania o prawo objęte przeniesionym majątkiem nabyła w wyniku podziału przez wydzielenie albo podziału przez wyodrębnienie część majątku spółki dzielonej, wstępuje do postępowania o to prawo w miejsce spółki dzielonej bez potrzeby uzyskania zgody strony przeciwnej.”;
+
+- **35)** art. 532 otrzymuje brzmienie: „Art. 532. § 1. Do podziału spółki stosuje się przepis art. 441 § 3 oraz odpowiednio przepisy dotyczące powstania właściwej formy prawnej spółki przejmującej albo spółki nowo zawiązanej, z wyłączeniem przepisów o wkładach niepieniężnych, jeżeli przepisy niniejszego działu nie stanowią inaczej.
+
+§ 2. Do podziału przez wydzielenie oraz podziału przez wyodrębnienie, następującego przez obniżenie kapitału zakładowego, nie stosuje się przepisów art. 264 § 1 i art. 265 § 2 pkt 2 i 3 – w razie podziału spółki z ograniczoną odpowiedzialnością, albo przepisów art. 456 i art. 458 § 2 pkt 3 i 4 – w razie podziału spółki akcyjnej albo spółki komandytowo-akcyjnej.
+
+§ 3. Z powodu braków, o których mowa w art. 21 § 1, podział nie może być uchylony w przypadku, gdy od dnia podziału albo wydzielenia albo wyodrębnienia upłynęło sześć miesięcy.”;
+
+- **36)** po art. 532 dodaje się oznaczenie i tytuł rozdziału w brzmieniu: „Rozdział 2 Podział spółek kapitałowych”;
+- **37)** w art. 534 w § 1:
+    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) formę prawną, firmę i siedzibę każdej ze spółek uczestniczących w podziale;
+
+- **2)** stosunek wymiany udziałów albo akcji spółki dzielonej na udziały lub akcje spółek przejmujących bądź spółek nowo zawiązanych i wysokość ewentualnych dopłat pieniężnych, chyba że nie dochodzi do takiej wymiany;”,
+    - **b)** po pkt 2 dodaje się pkt 2 w brzmieniu: „2 ) w przypadku podziału przez wyodrębnienie informację o liczbie i wartości udziałów lub akcji w spółce albo spółkach przejmujących lub nowo zawiązanych obejmowanych przez spółkę dzieloną;”,
+    - **c)** pkt 8 otrzymuje brzmienie: „8) podział między wspólników spółki dzielonej udziałów lub akcji spółek przejmujących lub spółek nowo zawiązanych lub w przypadku podziału przez wydzielenie – spółki dzielonej oraz zasady tego podziału.”;
+
+- **38)** w art. 538:
+    - **a)** w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Biegły sporządza na piśmie szczegółową opinię w terminie określonym przez sąd, nie dłuższym jednak niż dwa miesiące od dnia jego wyznaczenia, i składa ją sądowi rejestrowemu oraz zarządom spółek uczestniczących w podziale wraz z planem podziału. Opinia zawiera co najmniej:”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.”;
+
+- **39)** w art. 538 § 3 otrzymuje brzmienie: „§ 3. Jeżeli zgodnie z § 1 lub 2 lub w przypadku podziału przez wyodrębnienie plan podziału nie jest poddany badaniu przez biegłego, do składników majątku przypadających w planie podziału spółce przejmującej albo spółce nowo zawiązanej, będącej spółką akcyjną, stosuje się odpowiednio przepisy art. 311–312 . Jeżeli sporządzane jest sprawozdanie, o którym mowa w art. 536 § 1, należy do niego dołączyć informację o sporządzeniu w trybie art. 312 opinii biegłych rewidentów oraz wskazać sąd rejestrowy, w którym opinia biegłych rewidentów została złożona.”;
+- **40)** w art. 539 § 1 otrzymuje brzmienie: „§ 1. Zarządy spółek uczestniczących w podziale zawiadamiają wspólników o zamiarze podziału spółki dzielonej i przeniesienia jej majątku na spółki przejmujące lub spółki nowo zawiązane dwukrotnie, w sposób przewidziany dla zwoływania zgromadzeń wspólników albo walnych zgromadzeń. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia.”;
+- **41)** w art. 542 § 4 otrzymuje brzmienie: „§ 4. Wpisu do rejestru podziału spółki przez wydzielenie albo podziału spółki przez wyodrębnienie dokonuje się niezwłocznie po zarejestrowaniu obniżenia kapitału zakładowego spółki dzielonej, chyba że wydzielenie albo wyodrębnienie następuje z kapitałów własnych spółki innych niż kapitał zakładowy.”;
+- **42)** w art. 544 § 1 otrzymuje brzmienie: „§ 1. Po dniu podziału albo dniu wydzielenia albo dniu wyodrębnienia spółki powództwo o uchylenie albo stwierdzenie nieważności uchwały, o której mowa w art. 541, może być wytoczone jedynie przeciwko spółce przejmującej albo spółce nowo zawiązanej.”;
+- **43)** po art. 550 dodaje się rozdziały 3 i 4 w brzmieniu: „Rozdział 3 Transgraniczny podział spółek kapitałowych i spółki komandytowo-akcyjnej
 
 ##### Oddział 1 Transgraniczny podział spółek kapitałowych
 
@@ -300,6 +524,28 @@ source: "isap-pdf"
 
 **Art. 550²⁸.** Wspólnicy prowadzący sprawy spółki komandytowo-akcyjnej uczestniczącej w podziale odpowiadają wobec wspólników tej spółki solidarnie za szkody wyrządzone działaniem lub zaniechaniem, sprzecznym z prawem lub postanowieniami statutu spółki, chyba że nie ponoszą winy.”;
 
+- **44)** w art. 551 po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą być przekształcone w spółkę zagraniczną mającą formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, podlegającą prawu państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, z jednoczesnym przeniesieniem co najmniej siedziby statutowej do tego państwa (przekształcenie transgraniczne).”;
+- **45)** w art. 556 pkt 1 otrzymuje brzmienie: „1) sporządzenia planu przekształcenia spółki wraz z załącznikami, a w przypadku przekształcenia w spółkę akcyjną – wraz z opinią biegłego rewidenta;”;
+- **46)** w art. 559 § 4 otrzymuje brzmienie: „§ 4. Biegły rewident sporządza na piśmie szczegółową opinię, w terminie określonym przez sąd, nie dłuższym jednak niż dwa miesiące od dnia jego wyznaczenia, i składa ją sądowi rejestrowemu oraz spółce przekształcanej wraz z planem przekształcenia. W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.”;
+- **47)** w art. 561:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Wspólnicy mają prawo przeglądać w lokalu spółki dokumenty, o których mowa w art. 558 i art. 559 § 4, oraz żądać wydania im bezpłatnie odpisów tych dokumentów. Wspólnikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w postaci elektronicznej.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Przepisu § 1 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na dwa tygodnie przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w art. 558 i art. 559 § 4, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.”;
+
+- **48)** w art. 563 w § 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) formę prawną spółki, w jaką spółka zostaje przekształcona;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) zgodę na plan przekształcenia, a także na proponowane brzmienie umowy albo statutu spółki przekształconej.”;
+
+- **49)** w art. 576 :
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Wspólnik:
+
+- **1)** który głosował przeciwko uchwale o przekształceniu spółki kapitałowej w spółkę osobową i zażądał zaprotokołowania sprzeciwu; wymóg głosowania nie dotyczy akcjonariusza akcji niemej,
+- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o przekształceniu – może żądać odkupu jego udziałów albo akcji w spółce przekształcanej.”,
+    - **b)** § 3 i 4 otrzymują brzmienie: „§ 3. Akcjonariusz dołącza do żądania odkupu świadectwo rejestrowe albo imienne świadectwo depozytowe wystawione zgodnie z ustawą z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Termin ważności świadectwa nie może upływać przed dniem dokonania odkupu.
+
+§ 4. Cena odkupu odpowiada wartości godziwej udziałów albo akcji w spółce przekształcanej.”;
+
+- **50)** po art. 580 dodaje się rozdział 4 w brzmieniu: „Rozdział 4 Transgraniczne przekształcenie spółek kapitałowych i spółki komandytowo-akcyjnej
+
 ##### Oddział 1 Transgraniczne przekształcenie spółek kapitałowych
 
 **Art. 580¹.** Do transgranicznego przekształcenia spółek kapitałowych stosuje się odpowiednio przepisy rozdziału 4, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
@@ -538,11 +784,79 @@ source: "isap-pdf"
 
 **Art. 580¹⁹.** Do podjęcia uchwały o przekształceniu transgranicznym wymagana jest zgoda wszystkich komplementariuszy oraz uchwała akcjonariuszy, za którą wypowiedzą się osoby reprezentujące co najmniej trzy czwarte kapitału zakładowego, chyba że statut przewiduje surowsze warunki dla wymaganej większości, z tym że większość ta nie może przekraczać 90% głosów.”;
 
+- **51)** w art. 584 pkt 1 otrzymuje brzmienie: „1) formę prawną spółki, w jaką zostaje przekształcony przedsiębiorca;”.
+
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 22:
+    - **a)** w ust. 1e w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „wartości, w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów:”,
+    - **b)** w ust. 1f w pkt 1 i 1a średniki zastępuje się przecinkami, w pkt 2 skreśla się kropkę i dodaje się część wspólną w brzmieniu: „– w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów.”,
+    - **c)** po ust. 1gb dodaje się ust. 1gc w brzmieniu: „1gc. W przypadku odpłatnego zbycia udziałów (akcji) spółki przejmującej, gdy połączenie nastąpiło bez przyznawania udziałów (akcji) spółki przejmującej, koszty uzyskania przychodów, o których mowa w ust. 1f albo art. 23 ust. 1 pkt 38, z tytułu nabycia lub objęcia udziałów (akcji) spółki przejmującej powiększa się o przypadające na zbywane udziały (akcje) koszty nabycia lub objęcia udziałów (akcji) spółki przejmowanej ustalone zgodnie z ust. 1f albo art. 23 ust. 1 pkt 38.”;
+
+- **2)** w art. 23 w ust. 1 w pkt 38 po wyrazach „ust. 3e” dodaje się wyrazy „ , w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów;”;
+- **3)** w art. 24:
+    - **a)** w ust. 5 pkt 7 i 7a otrzymują brzmienie: „7) w przypadku podziału spółek, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie także majątek pozostający w spółce, nie stanowi zorganizowanej części przedsiębiorstwa – ustalona na dzień poprzedzający dzień podziału nadwyżka wartości emisyjnej udziałów (akcji) przydzielonych w spółce przejmującej lub nowo zawiązanej nad kosztami nabycia lub objęcia udziałów (akcji) w spółce dzielonej, obliczonymi zgodnie z art. 22 ust. 1f albo art. 23 ust. 1 pkt 38; jeżeli podział spółki następuje przez wydzielenie, kosztem uzyskania przychodów jest wartość lub kwota wydatków poniesionych przez wspólnika na objęcie lub nabycie udziałów (akcji) w spółce dzielonej, ustalona w takiej proporcji, w jakiej pozostaje u tego wspólnika wartość wydzielanej części majątku spółki dzielonej do wartości majątku spółki dzielonej bezpośrednio przed podziałem;
+
+- **7a)** w przypadku połączenia spółek lub spółek niebędących osobami prawnymi albo podziału spółek w innych przypadkach niż określone w pkt 7 – ustalona na dzień poprzedzający dzień połączenia lub podziału nadwyżka wartości emisyjnej udziałów (akcji) spółki przejmującej lub nowo zawiązanej, przydzielonych wspólnikowi spółki przejmowanej lub dzielonej, nad wydatkami na nabycie lub objęcie odpowiednio udziałów (akcji) w spółce przejmowanej lub dzielonej obliczonymi zgodnie z art. 22 ust. 1f albo art. 23 ust. 1 pkt 38 albo udziałów w spółce niebędącej osobą prawną; jeżeli podział spółki następuje przez wydzielenie majątku spółki stanowiącego zorganizowaną część przedsiębiorstwa, kosztem uzyskania przychodów są wydatki poniesione przez wspólnika na objęcie lub nabycie udziałów (akcji) w spółce dzielonej, ustalone w takiej proporcji, w jakiej pozostaje u tego wspólnika wartość wydzielonej z majątku spółki zorganizowanej części przedsiębiorstwa do wartości majątku spółki dzielonej bezpośrednio przed podziałem;”,
+    - **b)** w ust. 5d w zdaniu pierwszym po wyrazach „1gb,” dodaje się wyrazy „1gc,”;
+
+- **4)** w art. 30b w ust. 2 w pkt 1 wyrazy „art. 22 ust. 1f lub ust. 1g,” zastępuje się wyrazami „art. 22 ust. 1f, 1g lub 1gc”.
 
 **Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 7b w ust. 1 w pkt 1:
+    - **a)** w lit. g skreśla się wyrazy „przez osoby posiadające prawo do uczestnictwa w zysku podmiotu przejmowanego, łączonego lub dzielonego”,
+    - **b)** w lit. h po wyrazach „spółki dzielonej” dodaje się wyrazy „ , z wyjątkiem podziału przez wyodrębnienie,”;
+
+- **2)** w art. 9b w ust. 7 w zdaniu pierwszym po wyrazach „przez wydzielenie” dodaje się wyrazy „albo podziale przez wyodrębnienie”;
+- **3)** w art. 12:
+    - **a)** w ust. 1: – w pkt 8b wyrazy „udziałowcowi (akcjonariuszowi)” zastępuje się wyrazem „wspólnikowi”, – pkt 9 otrzymuje brzmienie: „9) w spółce podlegającej podziałowi, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie albo podziale przez wyodrębnienie majątek przejmowany na skutek podziału lub majątek pozostający w spółce, nie stanowią zorganizowanej części przedsiębiorstwa – wartość rynkowa składników majątkowych przeniesionych na spółki przejmujące lub spółki nowo zawiązane ustalona na dzień poprzedzający dzień podziału lub dzień wydzielenia albo dzień wyodrębnienia, przy czym przepisy art. 14 ust. 2 i 3 stosuje się odpowiednio;”,
+    - **b)** w ust. 4 pkt 3h otrzymuje brzmienie: „3h) w spółce podlegającej podziałowi, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie albo podziale przez wyodrębnienie majątek przejmowany na skutek podziału oraz majątek pozostający w spółce, stanowią zorganizowaną część przedsiębiorstwa – wartości rynkowej składników majątku przeniesionych na spółki przejmujące lub spółki nowo zawiązane ustalonej na dzień poprzedzający dzień podziału lub dzień wydzielenia albo dzień wyodrębnienia;”;
+
+- **4)** w art. 15: 1lb. W przypadku zbycia lub umorzenia udziałów (akcji) objętych przez spółkę dzieloną w drodze podziału przez wyodrębnienie na dzień zbycia lub umorzenia tych udziałów (akcji) koszt uzyskania przychodów ustala się w wysokości:
+    - **a)** w ust. 1j w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „wartości, w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów:”,
+    - **b)** w ust. 1k w pkt 1–1b średniki zastępuje się przecinkami, w pkt 2 skreśla się kropkę i dodaje się część wspólną w brzmieniu: „– w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów.”,
+    - **c)** po ust. 1l dodaje się ust. 1la i 1lb w brzmieniu: „1la. W przypadku odpłatnego zbycia udziałów (akcji) spółki przejmującej, gdy połączenie nastąpiło bez przyznawania udziałów (akcji) spółki przejmującej, koszty uzyskania przychodów, o których mowa w ust. 1k albo art. 16 ust. 1 pkt 8, z tytułu nabycia lub objęcia udziałów (akcji) spółki przejmującej powiększa się o przypadające na zbywane udziały (akcje) koszty nabycia lub objęcia udziałów (akcji) spółki przejmowanej ustalone zgodnie z ust. 1k albo art. 16 ust. 1 pkt 8.
+
+- **1)** określonej zgodnie z art. 12 ust. 1 pkt 9 – jeżeli majątek przejmowany na skutek podziału przez wyodrębnienie lub majątek pozostający w spółce nie stanowił zorganizowanej części przedsiębiorstwa albo
+- **2)** przyjętej dla celów podatkowych wartości wyodrębnionych w planie podziału i przeniesionych do spółki przejmującej składników przedsiębiorstwa lub jego zorganizowanej części, wynikającej z ewidencji, o której mowa w art. 9 ust. 1, określonej na dzień objęcia tych udziałów (akcji) – w przypadku gdy w związku z podziałem przez wyodrębnienie spółka nie ustalała przychodu do opodatkowania.”,
+    - **d)** w ust. 1ma w zdaniu pierwszym wyrazy „udziałowca (akcjonariusza)” zastępuje się wyrazem „wspólnika”,
+    - **e)** w ust. 1ya w pkt 2: – po wyrazach „jej likwidacji” dodaje się wyrazy „lub transgranicznego przekształcenia podmiotów, lub”, – kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) przejął składniki majątku w wyniku transgranicznego połączenia lub podziału podmiotów.”;
+
+- **5)** w art. 16 w ust. 1 w pkt 8 po wyrazach „ust. 7e” dodaje się wyrazy „ , w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów;”;
+- **6)** w art. 16g:
+    - **a)** w ust. 9a: – wyrazy „może stosować” zastępuje się wyrazami „stosuje odpowiednio”, – dodaje się zdanie drugie w brzmieniu: „Zasadę tę stosuje się odpowiednio do podmiotu powstałego w wyniku transgranicznego przekształcenia.”,
+    - **b)** w ust. 18 po wyrazach „w wyniku wydzielenia” dodaje się wyrazy „albo wyodrębnienia”,
+    - **c)** w ust. 19 po wyrazach „przez wydzielenie” dodaje się wyrazy „albo podziale przez wyodrębnienie”;
+
+- **7)** w art. 16h:
+    - **a)** w ust. 3da: – w zdaniu drugim skreśla się wyrazy „– w przypadku tych składników majątku, które spółka przejmująca przyjęła dla celów podatkowych w wartości wynikającej z ksiąg podatkowych podmiotu przejmowanego lub dzielonego”, – dodaje się zdanie trzecie w brzmieniu: „Zasadę tę stosuje się odpowiednio do podmiotu powstałego w wyniku transgranicznego przekształcenia.”,
+    - **b)** w ust. 5 w zdaniu pierwszym po wyrazach „przez wydzielenie” dodaje się wyrazy „albo podziale przez wyodrębnienie”;
+
+- **8)** w art. 28k w ust. 1 w pkt 6 w lit. a po wyrazach „przez wydzielenie” dodaje się wyrazy „albo wyodrębnienie”;
+- **9)** w art. 28l w ust. 1 w pkt 4 w lit. d po wyrazach „przez wydzielenie” dodaje się wyrazy „albo podziału przez wyodrębnienie”.
+
 **Art. 4.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2023 r. poz. 685 i 825) wprowadza się następujące zmiany:
+
+- **1)** w art. 4a uchyla się pkt 4;
+- **2)** po art. 4b dodaje się art. 4c i art. 4d w brzmieniu: „Art. 4c. Za pośrednictwem systemu integracji rejestrów Centralna Informacja bezpłatnie:
+- **1)** udostępnia – w przypadku przekształcenia, podziału lub połączenia transgranicznego – odpowiednio plan przekształcenia, podziału lub połączenia transgranicznego, zawiadomienie o możliwości złożenia przez wspólników, wierzycieli, przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, uwag dotyczących tego planu oraz opinię biegłego albo
+- **2)** udostępnia złożone na podstawie art. 516 § 4, art. 550 § 3 i art. 580 § 3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm. ) informacje o:
+    - **a)** formie prawnej, firmie i siedzibie statutowej spółki przekształcanej, dzielonej, łączącej się oraz formie prawnej, firmie i siedzibie statutowej, proponowanej dla spółki powstałej wskutek przekształcenia transgranicznego, dla spółki albo spółek nowo zawiązanych wskutek podziału transgranicznego, dla spółki przejmującej albo spółki nowo zawiązanej wskutek połączenia transgranicznego,
+    - **b)** rejestrze, do którego zostały złożone dokumenty odpowiednio spółki przekształcanej, dzielonej, każdej z łączących się spółek, a także ich numery w rejestrze,
+    - **c)** warunkach wykonywania praw wierzycieli, pracowników i wspólników,
+    - **d)** adresie strony internetowej, na której można bezpłatnie uzyskać dokumenty, o których mowa w pkt 1;
+
+- **3)** udostępnia – w przypadku przekształcenia, podziału lub połączenia transgranicznego – zaświadczenie o zgodności z prawem polskim odpowiednio przekształcenia, podziału lub połączenia transgranicznego w zakresie procedury podlegającej temu prawu;
+- **4)** udostępnia – w przypadku przekształcenia, podziału lub połączenia transgranicznego – następujące dane:
+    - **a)** informację, że rejestracja spółki jest wynikiem odpowiednio przekształcenia, podziału lub połączenia transgranicznego,
+    - **b)** datę wpisu do Rejestru spółki odpowiednio przekształconej, powstałej w wyniku połączenia lub podziału transgranicznego,
+    - **c)** informację, że wykreślenie spółki z Rejestru jest wynikiem odpowiednio przekształcenia, połączenia lub podziału transgranicznego; nie dotyczy to podziału przez wydzielenie albo podziału przez wyodrębnienie,
+    - **d)** datę wykreślenia spółki przekształcanej, dzielonej oraz łączących się spółek z Rejestru; nie dotyczy to podziału przez wydzielenie albo podziału przez wyodrębnienie,
+    - **e)** numer spółki w rejestrze, firmę i formę prawną odpowiednio spółki przekształcanej, przekształconej, łączącej się, powstałej w wyniku połączenia, dzielonej i spółek powstałych w wyniku podziału transgranicznego;
+
+- **5)** przekazuje do właściwych rejestrów zaświadczenie o zgodności z prawem polskim odpowiednio przekształcenia, podziału lub połączenia transgranicznego w zakresie procedury podlegającej temu prawu;
+- **6)** przekazuje do właściwych rejestrów spółek informacje o przekształceniu, połączeniu transgranicznym, a w przypadku podziału transgranicznego informacje o zarejestrowaniu spółek nowo zawiązanych oraz o tym, że podział transgraniczny stał się skuteczny.
 
 **Art. 4d.**
 
@@ -583,11 +897,105 @@ source: "isap-pdf"
 
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 13 w § 2 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) organ właściwy w sprawach opinii, o której mowa w art. 119zzl § 1.”;
+- **2)** w art. 14b w § 2a w pkt 2 lit. a otrzymuje brzmienie: „a) zawarte w dziale IIIA w rozdziale 1 i dziale IIIC,”;
+- **3)** w art. 93:
+    - **a)** w § 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Osoba prawna lub spółka komandytowo-akcyjna zawiązane (powstałe) w wyniku łączenia się:”, – w części wspólnej wyraz „wstępuje” zastępuje się wyrazem „wstępują”,
+    - **b)** w § 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przepis § 1 stosuje się odpowiednio do osoby prawnej i spółki komandytowo-akcyjnej łączących się przez przejęcie:”;
+
+- **4)** art. 93c otrzymuje brzmienie: „Art. 93c. § 1. Osoby prawne lub spółki komandytowo-akcyjne przejmujące albo osoby prawne lub spółki komandytowo-akcyjne powstałe w wyniku podziału wstępują, z dniem podziału albo z dniem wydzielenia albo z dniem wyodrębnienia, we wszelkie przewidziane w przepisach prawa podatkowego prawa i obowiązki osoby prawnej lub spółki komandytowo-akcyjnej dzielonej pozostające w związku z przydzielonymi im w planie podziału składnikami majątku.
+
+§ 2. Przepis § 1 stosuje się, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie albo podziale przez wyodrębnienie – także majątek osoby prawnej lub spółki komandytowo-akcyjnej dzielonej, stanowi zorganizowaną część przedsiębiorstwa.”;
+
+- **5)** art. 117 otrzymuje brzmienie: „Art. 117. § 1. Osoby prawne lub spółki komandytowo-akcyjne przejmujące albo osoby prawne lub spółki komandytowo-akcyjne powstałe w wyniku podziału (podmioty nowo zawiązane) odpowiadają solidarnie całym swoim majątkiem za zaległości podatkowe osoby prawnej lub spółki komandytowo-akcyjnej dzielonej, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie albo podziale przez wyodrębnienie – także majątek osoby prawnej lub spółki komandytowo-akcyjnej dzielonej, nie stanowi zorganizowanej części przedsiębiorstwa.
+
+§ 2. Zakres odpowiedzialności osób prawnych lub spółek komandytowo-akcyjnych przejmujących albo osób prawnych lub spółek komandytowo-akcyjnych nowo zawiązanych jest ograniczony do wartości aktywów netto nabytych, wynikających z planu podziału.
+
+§ 3. Zakres odpowiedzialności osób prawnych lub spółek komandytowo-akcyjnych przejmujących albo osób prawnych lub spółek komandytowo-akcyjnych nowo zawiązanych przy podziale przez wydzielenie albo podziale przez wyodrębnienie jest ograniczony do zaległości z tytułu zobowiązań podatkowych powstałych do dnia wydzielenia albo dnia wyodrębnienia.
+
+§ 4. Przepis art. 115 § 4 stosuje się odpowiednio do orzekania o odpowiedzialności podatkowej za zaległości podatkowe osoby prawnej lub spółki komandytowo-akcyjnej wykreślonej z właściwego rejestru na skutek jej podziału.”;
+
+- **6)** po dziale IIIB dodaje się dział IIIC w brzmieniu: „Dział IIIC Przeciwdziałanie nadużyciom w zakresie operacji transgranicznych Art. 119zzl. § 1. Szef Krajowej Administracji Skarbowej na wniosek, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm. ), zwany dalej w niniejszym dziale „wnioskiem”, wydaje opinię w zakresie transgranicznego przekształcenia, połączenia albo podziału spółki, zwaną dalej w niniejszym dziale „opinią”.
+
+§ 2. Przedmiotem opinii jest:
+
+- **1)** ocena, czy nie istnieje uzasadnione przypuszczenie, że transgraniczne przekształcenie, połączenie albo podział spółki może:
+    - **a)** stanowić czynność lub element czynności określonej w art. 119a § 1 lub
+    - **b)** być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
+    - **c)** stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
+
+- **2)** potwierdzenie, że są zaspokojone lub zabezpieczone zobowiązania pieniężne spółki wobec organów podatkowych lub niepodatkowe należności budżetowe o charakterze publicznoprawnym w rozumieniu art. 60 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do których wymiaru lub poboru są właściwe organy Krajowej Administracji Skarbowej.
+
+§ 3. Wniosek zawiera dane istotne dla określenia podatkowych skutków czynności transgranicznego przekształcenia, połączenia albo podziału spółki oraz zastosowania do tej czynności przepisu art. 119a § 1 i art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, w tym:
+
+- **1)** dane identyfikujące wnioskodawcę;
+- **2)** wskazanie podmiotów dokonujących czynności;
+- **3)** wyczerpujący opis czynności wraz ze wskazaniem występujących między podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
+- **4)** NSP w rozumieniu art. 86a § 1 pkt 5 odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu jego nadania;
+- **5)** wskazanie celów, których realizacji czynność ma służyć;
+- **6)** wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności;
+- **7)** określenie skutków podatkowych, w tym korzyści podatkowych, będących rezultatem czynności objętych wnioskiem;
+- **8)** wskazanie innych niż w pkt 7 korzyści podatkowych, niepodlegających ocenie określonej w art. 119za pkt 2, których osiągnięcie jest uzależnione choćby pośrednio od dokonania czynności;
+- **9)** wskazanie innych czynności planowanych, rozpoczętych lub dokonanych, od których choćby pośrednio jest uzależnione osiągnięcie korzyści podatkowych, o których mowa w pkt 7 i 8.
+
+§ 4. Do wniosku dołącza się zaświadczenie, o którym mowa w art. 306e § 1, wraz z informacjami, o których mowa w art. 306e § 4.
+
+§ 5. Do wniosku dołącza się oświadczenie członków zarządu spółki dotyczące położenia posiadanych przez spółkę nieruchomości na terytorium Rzeczypospolitej Polskiej. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia i zawiera klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+§ 6. Do wniosku dołącza się oryginał, kopię albo wydruk dowodu wniesienia opłaty, o której mowa w art. 119zzo § 1, a jeśli opłata ta została uiszczona po złożeniu wniosku – oryginał, kopię albo wydruk dowodu wniesienia opłaty należy przesłać do organu właściwego w sprawach opinii niezwłocznie po jej wniesieniu.
+
+§ 7. Minister właściwy do spraw finansów publicznych może udostępnić wzór wniosku, mając na względzie konieczność zapewnienia sprawnej obsługi tych wniosków. Art. 119zzm. § 1. Szef Krajowej Administracji Skarbowej wydaje opinię bez zbędnej zwłoki, nie później niż w terminie miesiąca od dnia otrzymania wniosku.
+
+§ 2. Do terminu, o którym mowa w § 1, nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
+
+§ 3. W przypadkach uzasadnionych złożonością sprawy, wymagających uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin, o którym mowa w § 1, może być przedłużony, nie więcej jednak niż o 3 miesiące. O przedłużeniu terminu Szef Krajowej Administracji Skarbowej niezwłocznie informuje sąd rejestrowy. Art. 119zzn. § 1. Szef Krajowej Administracji Skarbowej może w toku postępowania, w zakresie, o którym mowa w art. 119zzl § 2, zasięgnąć opinii ministra właściwego do spraw finansów publicznych, Generalnego Inspektora Informacji Finansowej, Dyrektora Krajowej Informacji Skarbowej, naczelnika urzędu skarbowego właściwego dla podatnika, naczelnika urzędu celno-skarbowego, a w przypadku podatków i opłat, do których ustalania lub określania są uprawnieni wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa – również tych organów.
+
+§ 2. Do zasięgnięcia opinii przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio. Art. 119zzo. § 1. Wniosek podlega opłacie w wysokości odpowiadającej 50% wysokości minimalnego wynagrodzenia za pracę obowiązującego w dniu złożenia wniosku, ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667). Opłatę uiszcza się w terminie 7 dni od dnia złożenia wniosku, na rachunek organu właściwego w sprawach opinii.
+
+§ 2. Opłata uiszczona w kwocie wyższej niż należna podlega zwrotowi w kwocie nadwyżki, nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii.
+
+§ 3. Opłata stanowi dochód budżetu państwa. Art. 119zzp. § 1. Szef Krajowej Administracji Skarbowej odmawia wydania opinii, jeżeli okoliczności sprawy wskazują na istnienie uzasadnionego przypuszczenia, że:
+
+- **1)** transgraniczne przekształcenie, połączenie albo podział spółki może:
+    - **a)** stanowić czynność lub element czynności określonej w art. 119a § 1 lub
+    - **b)** być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
+    - **c)** stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
+
+- **2)** nie zostaną zaspokojone lub nie zostały zabezpieczone zobowiązania pieniężne i niepodatkowe należności budżetowe, o których mowa w art. 119zzl § 2 pkt 2.
+
+§ 2. Odmowa wydania opinii zawiera wskazanie okoliczności, o których mowa w § 1. Art. 119zzq. Opinię albo odmowę jej wydania przesyła się do sądu rejestrowego, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, a odpis tego pisma przesyła się do wiadomości wnioskodawcy. Postanowienie kończące sprawę przesyła się do wnioskodawcy, a gdy stało się ono ostateczne, przesyła się je do sądu rejestrowego, a jego odpis – do wiadomości wnioskodawcy. Odpisy pism w sprawie kierowanych do wnioskodawcy lub organów, o których mowa w art. 119zzn § 1, a także pism kierowanych do Szefa Krajowej Administracji Skarbowej przesyła się do wiadomości sądu rejestrowego. Art. 119zzr. § 1. Wydanie opinii nie stanowi przeszkody do prowadzenia wobec spółki czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
+
+§ 2. Opinia nie stanowi zaświadczenia w rozumieniu ustawy. Art. 119zzs. W zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14d § 2, art. 14i § 2, art. 119x § 2, 4 i 5, art. 119y § 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 132, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 208, art. 210 § 1, 4 i 5, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16, 23, a także przepisy art. 45, art. 46, art. 47a, art. 49, art. 49b i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.”;
+
+- **7)** w art. 293 w § 2 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) aktach sprawy o wydanie opinii, o której mowa w art. 119zzl § 1.”.
+
 **Art. 6.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2023 r. poz. 1068) w art. 20a:
+
+- **1)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Sądom rejestrowym, w celu udzielenia odpowiedzi na zapytanie, o którym mowa w art. 4d ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, udziela się informacji o osobie, w zakresie skazań za przestępstwa, o których mowa w art. 18 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, oraz orzeczonych środków karnych, o których mowa w art. 39 pkt 2 i 2aa ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, za pośrednictwem systemu teleinformatycznego, po otrzymaniu żądania z tego systemu.”;
+- **2)** ust. 2 otrzymuje brzmienie: „2. Żądanie, o którym mowa w ust. 1 pkt 1 oraz ust. 1a, zawiera imię (imiona) i nazwisko osoby oraz numer PESEL, a w przypadku jego nieposiadania – datę urodzenia.”.
 
 **Art. 7.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 w § 2 po pkt 4a dodaje się pkt 4b w brzmieniu: „4b) opinie, o których mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, i odmowy wydania tych opinii;”;
+- **2)** w art. 57a zdanie pierwsze otrzymuje brzmienie: „Skarga na pisemną interpretację przepisów prawa podatkowego wydaną w indywidualnej sprawie, opinię zabezpieczającą, opinię, o której mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, i odmowę wydania tych opinii może być oparta wyłącznie na zarzucie naruszenia przepisów postępowania, dopuszczeniu się błędu wykładni lub niewłaściwej oceny co do zastosowania przepisu prawa materialnego.”;
+- **3)** w art. 146 w § 1 zdanie pierwsze otrzymuje brzmienie: „Sąd, uwzględniając skargę na akt lub czynność, o których mowa w art. 3 § 2 pkt 4–4b, uchyla ten akt, interpretację, opinię zabezpieczającą, opinię, o której mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, lub odmowę wydania tych opinii albo stwierdza bezskuteczność czynności.”.
+
 **Art. 8.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2023 r. poz. 753 i 825) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 dodaje się ust. 7 w brzmieniu: „7. Komisja prowadzi wykaz osób objętych zakazem pełnienia funkcji członka zarządu lub funkcji kierowniczych na podstawie decyzji Komisji, obejmujący:
+- **1)** imię (imiona);
+- **2)** nazwisko;
+- **3)** numer PESEL, a w przypadku jego nieposiadania – datę urodzenia;
+- **4)** datę wydania decyzji;
+- **5)** sygnaturę sprawy;
+- **6)** okres obowiązywania zakazu;
+- **7)** podstawę prawną wydania decyzji.”;
+- **2)** w art. 4a ust. 1 otrzymuje brzmienie: „1. Dla realizacji celu, o którym mowa w art. 2, oraz wykonywania obowiązku, o którym mowa w art. 4 ust. 7, Komisja przetwarza dane osobowe, w tym dane, o których mowa w art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), w zakresie danych dotyczących zdrowia.”;
+- **3)** po art. 17cc dodaje się art. 17cd w brzmieniu: „Art. 17cd. 1. Komisja niezwłocznie przekazuje Ministrowi Sprawiedliwości, za pośrednictwem środków komunikacji elektronicznej, wykaz, o którym mowa w art. 4 ust. 7, oraz każdorazowo informację o zmianie w tym wykazie.
+
+2. Przekazywanie wykazu, o którym mowa w art. 4 ust. 7, nie stanowi naruszenia obowiązku zachowania tajemnicy zawodowej.
+
+3. Jeżeli warunki techniczne i organizacyjne Komisji Nadzoru Finansowego to umożliwiają, dane, o których mowa w ust. 1, są udostępniane za pośrednictwem interfejsu programistycznego aplikacji (API).”.
 
 **Art. 9.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2023 r. poz. 1689) art. 99 otrzymuje brzmienie: „Art. 99. W przypadku niewykonania decyzji, o której mowa w art. 21 ust. 1 lub 4, Prezes Urzędu może, w drodze decyzji, dokonać podziału przedsiębiorcy. Do podziału spółki stosuje się odpowiednio przepisy tytułu IV działu II ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm. ). Prezesowi Urzędu przysługują kompetencje organów spółek uczestniczących w podziale. Prezes Urzędu może ponadto wystąpić do sądu o stwierdzenie nieważności umowy lub podjęcie innych środków prawnych zmierzających do przywrócenia stanu poprzedniego.”.
 
@@ -640,4 +1048,8 @@ source: "isap-pdf"
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
 
 **Art. 16.** Ustawa wchodzi w życie z dniem 15 września 2023 r., z wyjątkiem:
+
+- **1)** art. 11, który wchodzi w życie z dniem 1 stycznia 2024 r.;
+- **2)** art. 13, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
 

@@ -8,10 +8,10 @@ pos: 1555
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 sierpnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1555 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 sierpnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001555) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1555/text.pdf) |
 
-Poz. 1555 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 sierpnia 2018 r.
-w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego Na podstawie art. 96 § 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, 1039, 1387, 1467 i 1481) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 4 września 2017 r. zmieniającym rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 1694) w § 2 w ust. 1 wyrazy „12 miesięcy” zastępuje się wyrazami „24 miesięcy”.
+w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego Na podstawie art. 96 § 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, 1039, 1387, 1467 i 1481) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 4 września 2017 r. zmieniającym rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 1694) w § 2 w ust. 1 wyrazy „12 miesięcy” zastępuje się wyrazami „24 miesięcy”.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Prezes Rady Ministrów: M. Morawiecki
 

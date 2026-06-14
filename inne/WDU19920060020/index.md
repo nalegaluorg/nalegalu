@@ -8,7 +8,7 @@ pos: 20
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych
@@ -26,6 +26,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920060020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/20/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541 oraz z 1991 r. Nr 34, poz. 151) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 w ust. 2 wyrazy "do dnia 31 grudnia 1991 r." zastępuje się wyrazami "do dnia 31 grudnia 1992 r.";
+- **2)** w art. 14 wyrazy "złożony do dnia 31 grudnia 1991 r." zastępuje się wyrazami "złożony do dnia 31 grudnia 1992 r.".
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1992 r.
 

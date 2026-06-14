@@ -8,7 +8,7 @@ pos: 719
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-04-15 |
 | Data wydania | 2005-05-13 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050830719) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/719/text.pdf) |
 
 Art. 65–72. (pominięte)
@@ -51,6 +51,63 @@ Art. 65–72. (pominięte)
 - **6)** rzetelności i poprawności kontroli wewnętrznej.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** instytucja kredytowa: 284, 288, 321 i 1086), zwanej dalej „ustawą – Prawo bankowe”,
+    - **a)** bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz.
+    - **b)** bank zagraniczny w rozumieniu art. 4 ust. 1 pkt 2 ustawy – Prawo bankowe,
+    - **c)** instytucję kredytową w rozumieniu art. 4 ust. 1 pkt 17 ustawy – Prawo bankowe;
+    - **d)** (uchylona)
+
+- **2)** zakład ubezpieczeń:
+    - **a)** krajowy zakład ubezpieczeń w rozumieniu art. 3 ust. 1 pkt 18 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895 i 1180),
+    - **b)** zagraniczny zakład ubezpieczeń w rozumieniu art. 3 ust. 1 pkt 55 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
+
+- **2a)** zakład reasekuracji:
+    - **a)** krajowy zakład reasekuracji w rozumieniu art. 3 ust. 1 pkt 19 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej,
+    - **b)** zagraniczny zakład reasekuracji w rozumieniu art. 3 ust. 1 pkt 56 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej,
+    - **c)** spółka celowa w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
+
+- **3)** firma inwestycyjna: o obrocie instrumentami finansowymi (Dz. U. z 2020 r. poz. 89, 284, 288 i
+    - **a)** dom maklerski w rozumieniu art. 95 ustawy z dnia 29 lipca 2005 r.
+
+- **568)** , posiadający zezwolenie Komisji Nadzoru Finansowego, o którym mowa w art. 69 ust. 1 tej ustawy,
+    - **b)** zagraniczną osobę prawną, o której mowa w art. 115 ust. 1 ustawy, o której mowa w lit. a,
+    - **c)** zagraniczną firmę inwestycyjną w rozumieniu art. 3 pkt 32 ustawy, o której mowa w lit. a, z wyłączeniem zagranicznych instytucji kredytowych, o których mowa w art. 3 pkt 31 tej ustawy,
+    - **d)** (uchylona)
+    - **e)** (uchylona)
+    - **f)** podmioty mające siedzibę na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, które prowadzą działalność inwestycyjną lub działalność maklerską w tym państwie i które podlegają regułom ostrożnościowym co najmniej tak restrykcyjnym, jak podmioty prowadzące taką działalność w państwie członkowskim Unii Europejskiej,
+    - **g)** towarzystwo funduszy inwestycyjnych oraz zarządzającego ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2020 r. poz. 95 i 695), zwanej dalej „ustawą o funduszach inwestycyjnych”, którzy uzyskali zezwolenie na wykonywanie działalności odpowiednio przez towarzystwo albo przez zarządzającego ASI na podstawie tej ustawy,
+    - **h)** spółkę zarządzającą, o której mowa w art. 2 pkt 10 ustawy o funduszach inwestycyjnych, lub inny podmiot z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, który, w przypadku gdyby jego siedziba znajdowała się w państwie członkowskim Unii Europejskiej, byłby obowiązany uzyskać zezwolenie właściwego organu na prowadzenie wykonywanej działalności zgodnie z przepisami dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm.),
+    - **i)** zarządzającego z UE, o którym mowa w art. 2 pkt 10c ustawy o funduszach inwestycyjnych, lub inny podmiot z siedzibą w państwie niebędącym państwem członkowskim, który, w przypadku gdyby jego siedziba znajdowała się w państwie członkowskim, byłby obowiązany uzyskać zezwolenie na prowadzenie wykonywanej działalności zgodnie z przepisami dyrektywy Parlamentu Europejskiego i Rady 2011/61/UE z dnia 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 (Dz. Urz. UE L 174 z 01.07.2011, str. 1, z późn. zm.);
+
+- **4)** podmiot regulowany – instytucję kredytową, zakład ubezpieczeń, zakład reasekuracji lub firmę inwestycyjną;
+- **5)** dominujący podmiot nieregulowany – podmiot dominujący, niebędący podmiotem regulowanym, który wraz z podmiotami zależnymi, z których co najmniej jeden jest podmiotem regulowanym mającym siedzibę w państwie członkowskim Unii Europejskiej, tworzy konglomerat finansowy;
+- **6)** regulacje sektorowe – przepisy określające warunki wykonywania działalności przez podmioty regulowane;
+- **7)** grupa – grupę podmiotów składającą się z podmiotu dominującego, podmiotów od niego zależnych i podmiotów powiązanych z nimi poprzez znaczący udział kapitałowy, a także grupę podmiotów powiązanych ze sobą umową o zarządzanie, o której mowa w art. 7 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, z późn. zm. ), lub inną umową o podobnym charakterze, jak również w ten sposób, że dany podmiot ma wpływ na kierowanie polityką finansową i operacyjną innego podmiotu;
+- **8)** sektor bankowy – sektor, który tworzą instytucje kredytowe, instytucje finansowe w rozumieniu art. 4 ust. 1 pkt 7 ustawy – Prawo bankowe lub przedsiębiorstwa pomocniczych usług bankowych w rozumieniu art. 4 ust. 1 pkt 12 tej ustawy;
+- **9)** sektor ubezpieczeniowy – sektor, który tworzą zakłady ubezpieczeń, zakłady reasekuracji lub dominujący podmiot ubezpieczeniowy w rozumieniu art. 3 ust. 1 pkt 5 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
+- **10)** sektor usług inwestycyjnych – sektor, który tworzą firmy inwestycyjne, o których mowa w pkt 3 lit. a–f;
+- **11)** sektor finansowy – sektor, który tworzy co najmniej jeden podmiot z sektora bankowego, sektora ubezpieczeniowego lub sektora usług inwestycyjnych, zwanych dalej „sektorami”, lub co najmniej jeden z podmiotów, o których mowa w pkt 3 lit. g–i;
+- **12)** podmiot dominujący – podmiot, który sprawuje nad innym podmiotem kontrolę w rozumieniu art. 3 ust. 1 pkt 37 lit. a–d ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, 1495, 1571, 1655 i 1680 oraz z 2020 r. poz. 568), lub podmiot, który w ocenie krajowego organu nadzoru sprawuje w inny sposób kontrolę nad innym podmiotem;
+- **13)** podmiot zależny – podmiot, wobec którego inny podmiot jest podmiotem dominującym;
+- **14)** znaczący udział kapitałowy – udział oznaczający posiadanie przez podmiot bezpośrednio lub pośrednio co najmniej 20% kapitału innego podmiotu lub prawa do wykonywania co najmniej 20% głosów w organie stanowiącym, a także innych praw do kapitału podmiotu ustanawiających z nim trwałe związki umożliwiające uzyskiwanie korzyści przez podmiot dysponujący tymi prawami;
+- **15)** bliskie powiązania – powiązania przez:
+    - **a)** znaczący udział kapitałowy w innym podmiocie lub
+    - **b)** pozostawanie z innym podmiotem w stosunku dominacji lub zależności, lub
+    - **c)** posiadanie jako akcjonariusz, wspólnik lub udziałowiec innego podmiotu uprawnienia do wykonywania większości praw głosu na podstawie umowy o zarządzanie, o której mowa w art. 7 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, lub innej umowy o podobnym charakterze zawartej z innymi akcjonariuszami, wspólnikami lub udziałowcami tego podmiotu;
+
+- **16)** państwa członkowskie – państwa członkowskie Unii Europejskiej oraz państwa Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **17)** krajowy organ nadzoru – Komisja Nadzoru Finansowego;
+- **18)** zagraniczne organy nadzoru – organy nadzoru z innych niż Rzeczpospolita Polska państw członkowskich, uprawnione do sprawowania nadzoru nad podmiotami regulowanymi;
+- **19)** koordynator – krajowy organ nadzoru sprawujący nadzór uzupełniający;
+- **20)** koordynator zagraniczny – zagraniczny organ nadzoru sprawujący nadzór uzupełniający;
+- **21)** zainteresowane organy nadzoru:
+    - **a)** krajowy organ nadzoru lub zagraniczne organy nadzoru, sprawujące nadzór skonsolidowany lub dodatkowy nad podmiotami wchodzącymi w skład konglomeratu finansowego, w rozumieniu regulacji sektorowych,
+    - **b)** koordynatora lub koordynatora zagranicznego,
+    - **c)** inne organy nadzoru wskazane przez organy, o których mowa w lit. a i b;
+
+- **22)** transakcja wewnątrzgrupowa – transakcję, na podstawie której należący do konglomeratu finansowego podmiot regulowany lub podmiot, wobec którego podmiot wchodzący w skład konglomeratu finansowego pełni funkcję organu zarządzającego, bezpośrednio lub pośrednio zobowiązuje się wobec innego podmiotu z tej samej grupy lub innego podmiotu blisko powiązanego z podmiotem z tej grupy do określonego zachowania lub do spełnienia określonego świadczenia;
+- **23)** znacząca koncentracja ryzyka – możliwość poniesienia przez podmiot regulowany wchodzący w skład konglomeratu finansowego straty, która jest wystarczająco istotna, by zagrozić wypłacalności lub sytuacji finansowej podmiotów regulowanych w tym konglomeracie finansowym; <24) rozporządzenie 2023/2859 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ).>
 
 #### Rozdział 2 Identyfikowanie konglomeratów finansowych
 
@@ -108,6 +165,10 @@ Art. 65–72. (pominięte)
 
 **Art. 6a.** Koordynator może, jeżeli jest to szczególnie przydatne dla celów nadzoru uzupełniającego, po zasięgnięciu opinii zainteresowanych organów nadzoru, zastąpić lub uzupełnić kryterium, o którym mowa w art. 6 ust. 1, kryterium opartym na:
 
+- **1)** strukturze przychodów lub
+- **2)** działalności pozabilansowej, lub
+- **3)** sumie zarządzanych aktywów.
+
 **Art. 7.**
 
 1. Wielkości, o których mowa w art. 6, oblicza się na podstawie zbadanych skonsolidowanych sprawozdań finansowych.
@@ -133,6 +194,10 @@ Art. 65–72. (pominięte)
 2. O decyzji, o której mowa w ust. 1, koordynator informuje zainteresowane organy nadzoru sprawujące nadzór nad podmiotami wchodzącymi w skład grupy, której dotyczy ta decyzja.
 
 **Art. 9a.** Koordynator, po zasięgnięciu opinii zainteresowanych organów nadzoru, może, w drodze decyzji skierowanej do podmiotu stojącego na czele grupy:
+
+- **1)** w przypadkach określonych w art. 26 pkt 1–3 nie uwzględnić podmiotu wchodzącego w skład grupy przy obliczaniu wskaźników, o których mowa w art. 6, chyba że podmiot przeniósł siedzibę z państwa członkowskiego do państwa niebędącego państwem członkowskim, a istnieją podstawy do stwierdzenia, że podmiot przeniósł siedzibę, aby nie być objętym nadzorem uzupełniającym;
+- **2)** uwzględniać osiąganie progów procentowych określonych w art. 6 ust. 1 i 2 przez określony czas, nie dłuższy niż 3 kolejne lata obrotowe, w przypadku gdy istnieją podstawy do stwierdzenia, że osiągnięcie tych progów może mieć charakter przejściowy, albo nie uwzględniać osiągania takich progów, jeżeli w strukturze grupy zachodzą znaczące zmiany;
+- **3)** wyłączyć jeden znaczący udział kapitałowy lub większą liczbę znaczących udziałów kapitałowych w najmniej istotnym sektorze, jeżeli udziały te mają decydujące znaczenie dla zidentyfikowania konglomeratu finansowego i łącznie nie są istotne ze względu na cele nadzoru uzupełniającego.
 
 **Art. 10.**
 
@@ -191,6 +256,10 @@ Art. 65–72. (pominięte)
 
 **Art. 19.** Nadzór uzupełniający jest realizowany przez podmioty regulowane podlegające nadzorowi sprawowanemu przez krajowy organ nadzoru:
 
+- **1)** będące podmiotem dominującym w konglomeracie finansowym;
+- **2)** których podmiotem dominującym jest dominujący podmiot nieregulowany mający siedzibę na terytorium państwa członkowskiego;
+- **3)** powiązane z innym podmiotem sektora finansowego umową o zarządzanie, o której mowa w art. 7 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, lub inną umową o podobnym charakterze.
+
 **Art. 20.** Podmioty wchodzące w skład konglomeratu finansowego są obowiązane udzielać koordynatorowi informacji niezbędnych dla wykonywania nadzoru uzupełniającego nad tym konglomeratem finansowym.
 
 ##### Oddział 2 Adekwatność kapitałowa
@@ -204,6 +273,9 @@ Art. 65–72. (pominięte)
 2. Koordynator może zobowiązać podmioty regulowane wchodzące w skład konglomeratu finansowego do utrzymywania funduszy własnych na poziomie zapewniającym pokrycie niedoboru funduszy własnych konglomeratu finansowego pozycjami, które mogą zostać uznane za składniki funduszy własnych na podstawie regulacji sektorowych.
 
 **Art. 23.** Minister właściwy do spraw instytucji finansowych, mając na celu uniemożliwienie wielokrotnego uwzględniania pozycji zaliczanych do funduszy własnych i niewłaściwego wewnątrzgrupowego tworzenia funduszy własnych oraz umożliwienie efektywnego sprawowania nadzoru uzupełniającego w zakresie adekwatności kapitałowej przy zastosowaniu instrumentów sprawozdawczości finansowej, po zasięgnięciu opinii krajowego organu nadzoru, określi, w drodze rozporządzenia, w odniesieniu do konglomeratów finansowych:
+
+- **1)** metody obliczania funduszy własnych i wymogów z tytułu adekwatności kapitałowej oraz metody przeprowadzania rachunku adekwatności kapitałowej konglomeratu finansowego, które mogą być wskazane przez koordynatora do obliczania rachunku adekwatności kapitałowej;
+- **2)** szczegółowe metody i sposoby sporządzania sprawozdań w zakresie adekwatności kapitałowej.
 
 **Art. 24.**
 
@@ -222,6 +294,10 @@ Art. 65–72. (pominięte)
 
 **Art. 26.** W decyzji, o której mowa w art. 25, koordynator może wyłączyć z rachunku adekwatności kapitałowej konglomeratu finansowego podmiot wchodzący w jego skład, jeżeli:
 
+- **1)** podmiot ma siedzibę w państwie niebędącym państwem członkowskim, a istnieją prawne przeszkody w przekazywaniu informacji niezbędnych dla efektywnego sprawowania nadzoru, z zachowaniem właściwych regulacji sektorowych dotyczących obowiązku odmowy udzielenia zezwoleń przez zagraniczne organy nadzoru, lub
+- **2)** podmiot ma nieistotne znaczenie z punktu widzenia celów nadzoru uzupełniającego, lub
+- **3)** objęcie podmiotu nadzorem uzupełniającym ze względu na jego cele byłoby niewłaściwe lub mylące.
+
 **Art. 27.**
 
 1. Przepisu art. 26 pkt 2 nie stosuje się, jeżeli miałyby zostać wyłączone co najmniej dwa podmioty, które łącznie mają istotne znaczenie z punktu widzenia celów nadzoru uzupełniającego.
@@ -231,6 +307,9 @@ Art. 65–72. (pominięte)
 3. Podmiot wiodący ma obowiązek udzielić krajowemu organowi nadzoru lub zagranicznym organom nadzoru informacji o podmiotach regulowanych wyłączonych przez koordynatora na podstawie art. 26 pkt 2 i 3, które mogą ułatwić sprawowanie przez nie nadzoru nad tymi podmiotami regulowanymi.
 
 **Art. 28.** Podmiot wiodący mający siedzibę na terytorium Rzeczypospolitej Polskiej:
+
+- **1)** w terminie 30 dni od dnia przekazania przez podmiot wiodący koordynatorowi wyników rachunku adekwatności kapitałowej, określonego zgodnie z przepisami wydanymi na podstawie art. 23, opracowuje i przekazuje koordynatorowi strategię postępowania konglomeratu finansowego w zakresie adekwatności kapitałowej;
+- **2)** powiadamia koordynatora o zmianach strategii postępowania konglomeratu finansowego w zakresie adekwatności kapitałowej w terminie 30 dni od dnia ich dokonania.
 
 ##### Oddział 3 Znaczące transakcje wewnątrzgrupowe
 
@@ -323,11 +402,29 @@ Art. 65–72. (pominięte)
 
 1. Wchodzące w skład konglomeratu finansowego podmioty regulowane podlegające nadzorowi sprawowanemu przez krajowy organ nadzoru są obowiązane wdrożyć odpowiednie systemy zarządzania ryzykiem oraz systemy kontroli wewnętrznej.
 
-2. Podmiot wiodący przekazuje koordynatorowi na piśmie, w terminie 90 dni od dnia kończącego rok obrotowy, szczegółowe informacje o strukturze prawnej, strukturze zarządzania i strukturze organizacyjnej podmiotów regulowanych wchodzących w skład konglomeratu finansowego, w tym o podmiotach zależnych niebędących podmiotami regulowanymi oraz istotnych oddziałach instytucji kredytowych, o których mowa w art. 141f ust. 12, 13 i 17 ustawy – Prawo bankowe, istotnych oddziałach domów maklerskich, o których mowa w art. 98a ust. 12a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz istotnych oddziałach zakładów ubezpieczeń i istotnych oddziałach zakładów reasekuracji, o których mowa w art. 354 rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, 1).
+2. Podmiot wiodący przekazuje koordynatorowi na piśmie, w terminie 90 dni od dnia kończącego rok obrotowy, szczegółowe informacje o strukturze prawnej, strukturze zarządzania i strukturze organizacyjnej podmiotów regulowanych wchodzących w skład konglomeratu finansowego, w tym o podmiotach zależnych niebędących podmiotami regulowanymi oraz istotnych oddziałach instytucji kredytowych, o których mowa w art. 141f ust. 12, 13 i 17 ustawy – Prawo bankowe, istotnych oddziałach domów maklerskich, o których mowa w art. 98a ust. 12a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz istotnych oddziałach zakładów ubezpieczeń i istotnych oddziałach zakładów reasekuracji, o których mowa w art. 354 rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, s. 1).
 
-3. Podmiot wiodący, w terminie 90 dni od dnia kończącego rok obrotowy, udostępnia na swojej stronie internetowej opis struktury prawnej, struktury zarządzania i struktury organizacyjnej podmiotów regulowanych wchodzących w skład konglomeratu finansowego w pełnej formie lub przez zamieszczenie odnośników do informacji równoważnych.
+3. Podmiot wiodący, w terminie 90 dni od dnia kończącego rok obrotowy, udostępnia na swojej stronie internetowej opis struktury prawnej, struktury zarządzania i struktury organizacyjnej podmiotów regulowanych wchodzących w skład konglomeratu finansowego w pełnej formie lub przez zamieszczenie odnośników do informacji równoważnych. <4. Podmiot wiodący równocześnie z udostępnieniem na swojej stronie internetowej informacji, o których mowa w ust. 3, przekazuje te informacje koordynatorowi w formacie umożliwiającym ekstrakcję danych rozumianym jako format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka, albo w formacie nadającym się do odczytu maszynowego rozumianym jako format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 30b ust. 4 dyrektywy 2002/87/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 2002 r. w sprawie dodatkowego nadzoru nad instytucjami kredytowymi, zakładami ubezpieczeń oraz przedsiębiorstwami inwestycyjnymi konglomeratu finansowego i zmieniającej dyrektywy Rady 73/239/EWG, 79/267/EWG, 92/49/EWG, 92/96/EWG, 93/6/EWG i 93/22/EWG oraz dyrektywy 98/78/WE i 2000/12/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 35 z 11.02.2003, str. 1, z późn. zm. ).
+
+5. Informacje, o których mowa w ust. 3, są opatrywane następującymi metadanymi w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859:
+
+- **1)** nazwą (firmą) podmiotu regulowanego, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego podmiotu regulowanego, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości podmiotu regulowanego, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 30b ust. 4 dyrektywy 2002/87/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 2002 r. w sprawie dodatkowego nadzoru nad instytucjami kredytowymi, zakładami ubezpieczeń oraz przedsiębiorstwami inwestycyjnymi konglomeratu finansowego i zmieniającej dyrektywy Rady 73/239/EWG, 79/267/EWG, 92/49/EWG, 92/96/EWG, 93/6/EWG i 93/22/EWG oraz dyrektywy 98/78/WE i 2000/12/WE Parlamentu Europejskiego i Rady.
+
+6. Na potrzeby przekazania metadanej, o której mowa w ust. 5 pkt 2, podmiot regulowany występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+7. Koordynator udostępnia informacje, o których mowa w ust. 3, w europejskim pojedynczym punkcie dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859.>
 
 **Art. 43.** Wdrożenie systemów zarządzania ryzykiem, o których mowa w art. 42, polega na:
+
+- **1)** dokonywaniu okresowej weryfikacji przyjętych zasad postępowania odnoszących się do wszelkich rodzajów podejmowanego ryzyka, w tym w szczególności w zakresie procedur, o których mowa w pkt 2;
+- **2)** wprowadzeniu zasad postępowania w zakresie adekwatności kapitałowej, uwzględniających oddziaływanie strategii prowadzonej działalności na profil ryzyka i wymogi kapitałowe na poziomie konglomeratu finansowego ustalone zgodnie z ustawą;
+- **3)** wprowadzeniu procedur zapewniających efektywność zarządzania ryzykiem w podmiocie regulowanym, obejmujących w szczególności podejmowanie niezbędnych działań w podmiotach regulowanych, i umożliwiających mierzenie, analizę i kontrolę ryzyka na poziomie konglomeratu finansowego;
+- **4)** wprowadzeniu i systematycznej aktualizacji zasad postępowania w zakresie tworzenia i rozwoju, w razie potrzeby, odpowiednich planów i ustaleń naprawczych i restrukturyzacyjnych.
 
 **Art. 44.**
 
@@ -365,6 +462,13 @@ Art. 65–72. (pominięte)
 **Art. 53.** W szczególnych przypadkach, jeżeli na podstawie art. 47–52 nie można ustalić koordynatora, krajowy organ nadzoru, w porozumieniu z innymi zainteresowanymi organami nadzoru, w drodze decyzji, uwzględniając w szczególności specyfikę struktury organizacyjnej konglomeratu finansowego oraz konieczność zapewnienia efektywności sprawowania nadzoru nad podmiotami regulowanymi wchodzącymi w skład grupy, uznaje się za koordynatora.
 
 **Art. 54.** Do zadań koordynatora należy:
+
+- **1)** gromadzenie i udostępnianie zagranicznym organom nadzoru informacji istotnych dla wykonywania przez nie zadań ustawowych z zakresu nadzoru nad podmiotami działającymi w poszczególnych sektorach;
+- **2)** sporządzanie analizy oraz ocena sytuacji finansowej konglomeratu finansowego;
+- **3)** ocena zgodności działalności z zasadami dotyczącymi adekwatności kapitałowej i koncentracji ryzyka oraz transakcji wewnątrzgrupowych;
+- **4)** ocena struktury, organizacji i systemów kontroli wewnętrznej konglomeratu finansowego;
+- **5)** planowanie i koordynowanie bieżących działań nadzorczych we współpracy z zainteresowanymi organami nadzoru;
+- **6)** wykonywanie innych zadań, podejmowanie działań i decyzji wynikających z ustawy.
 
 **Art. 55.**
 

@@ -8,7 +8,7 @@ pos: 1826
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o finansowaniu działań zmierzających do zwiększenia zdolności produkcji amunicji

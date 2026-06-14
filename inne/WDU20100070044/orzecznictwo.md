@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym*
 
-Łącznie: **63** orzeczeń
-(pominięto 155 orzeczeń sądów rejonowych)
+Łącznie: **67** orzeczeń
+(pominięto 158 orzeczeń sądów rejonowych)
 
 ## art. 1 (22)
 
@@ -172,10 +172,13 @@ Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2009 r. o dochodzeniu roszcze
 
 - 2022-12-19 | SO | [I C 862/12](https://www.saos.org.pl/judgments/499525) | Wyrok
 
-## art. 21 (9)
+## art. 21 (12)
 
 - 2015-11-20 | SN | [III CZP 17/15](https://www.saos.org.pl/judgments/243818) | Uchwała ★
 - 2012-08-23 | SN | [II CSK 740/11](https://www.saos.org.pl/judgments/98842) | Wyrok ★
+- 2024-10-23 | SO | [I ACa 1365/23](https://www.saos.org.pl/judgments/545399) | Wyrok
+- 2024-10-18 | SO | [I ACa 1067/23](https://www.saos.org.pl/judgments/545656) | Wyrok
+- 2024-09-04 | SO | [I ACa 954/23](https://www.saos.org.pl/judgments/545672) | Wyrok
 - 2024-01-12 | SO | [I ACa 1112/23](https://www.saos.org.pl/judgments/519028) | Wyrok
 - 2019-10-17 | SO | [I ACa 281/19](https://www.saos.org.pl/judgments/407207) | Wyrok
 - 2017-12-12 | SO | [I ACa 632/17](https://www.saos.org.pl/judgments/326159) | Wyrok
@@ -216,8 +219,9 @@ Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2009 r. o dochodzeniu roszcze
 
 - 2011-07-13 | SN | [III CZP 28/11](https://www.saos.org.pl/judgments/95452) | Uchwała ★
 
-## (ogólnie) (6)
+## (ogólnie) (7)
 
+- 2024-12-09 | SO | [I ACa 1909/23](https://www.saos.org.pl/judgments/546788) | Wyrok
 - 2023-11-14 | SO | [I ACa 2751/22](https://www.saos.org.pl/judgments/539263) | Wyrok
 - 2018-05-23 | SO | [I ACa 20/18](https://www.saos.org.pl/judgments/348460) | Wyrok
 - 2013-10-30 | SO | [I ACa 471/13](https://www.saos.org.pl/judgments/40062) | Wyrok

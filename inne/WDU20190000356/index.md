@@ -8,10 +8,10 @@ pos: 356
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 lutego 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 356 Załącznik do rozporządzenia z dnia 12 lutego 2019 r. (poz. .) PROGRAM ZWALCZANIA WŚCIEKLIZNY (RABIES)
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/356/text.pdf) |
 
-PROGRAM ZWALCZANIA WŚCIEKLIZNY (RABIES)
 1. Identyfikacja programu zwalczania wścieklizny (Rabies) Państwo członkowskie: Rzeczypospolita Polska Choroba: Wścieklizna (Rabies) Wniosek o współfinansowanie na lata: 2019–2021
 2. Dane historyczne dotyczące sytuacji epizootycznej w zakresie wścieklizny W okresie międzywojennym oraz w pierwszych latach po II wojnie światowej głównym nosicielem wścieklizny na terytorium Rzeczypospolitej Polskiej były psy.
 Wprowadzenie w 1949 r. obowiązkowego szczepienia psów przeciwko wściekliźnie pozwoliło na znaczne ograniczenie występowania tej choroby. Liczba zachorowań na wściekliznę wśród zwierząt obniżyła się z ponad 3600 w 1946 r. do 73 w 1956 r.
-Problem wścieklizny pojawił się ponownie, kiedy zaczęto rejestrować coraz więcej przypadków tej choroby w środowisku zwierząt wolno żyjących. W latach 1946–1956 wśród zwierząt dzikich zgłaszano rocznie od 1 do 6 przypadków wścieklizny. W 1957 r. nie zanotowano żadnego przypadku wścieklizny u zwierząt dzikich, natomiast w latach następnych zauważalny był wzrost zachorowań na tę chorobę wśród zwierząt dzikich w szczególności u lisów. Pod koniec lat siedemdziesiątych liczba zachorowań na wściekliznę u zwierząt dzikich przekraczała liczbę zachorowań u zwierząt domowych.
+Problem wścieklizny pojawił się ponownie, kiedy zaczęto rejestrować coraz więcej przypadków tej choroby w środowisku zwierząt wolno żyjących. W latach 1946–1956 wśród zwierząt dzikich zgłaszano rocznie od 1 do 6 przypadków wścieklizny. W 1957 r. nie zanotowano żadnego przypadku wścieklizny u zwierząt dzikich, natomiast w latach następnych zauważalny był wzrost zachorowań na tę chorobę wśród zwierząt dzikich – w szczególności u lisów. Pod koniec lat siedemdziesiątych liczba zachorowań na wściekliznę u zwierząt dzikich przekraczała liczbę zachorowań u zwierząt domowych.
 W 1990 r. w Rzeczypospolitej Polskiej stwierdzono 2045 przypadków wścieklizny, w tym 1668 przypadków wśród zwierząt dzikich (1374 przypadki u lisów). Najwięcej przypadków tej choroby zanotowano w ówczesnych województwach: poznańskim (157), opolskim (139), koszalińskim (133), szczecińskim (130), bydgoskim (123) oraz słupskim (103). Pojedyncze przypadki wścieklizny odnotowano w lubelskim, łomżyńskim, łódzkim oraz przemyskim, natomiast nie odnotowano ich w bialskopodlaskim.
 W 1991 r. stwierdzono 2287 przypadków wścieklizny, w tym 1864 u zwierząt dzikich, z czego 1513 przypadków u lisów. Wścieklizny nie odnotowano w ówczesnym województwie lubelskim, a pojedyncze przypadki wystąpiły w przemyskim, łódzkim, łomżyńskim oraz krośnieńskim.
 W 1992 r. stwierdzono 3084 przypadki wścieklizny, w tym u zwierząt dzikich 2549, z czego 2079 u lisów.
@@ -44,7 +43,7 @@ W 1998 r. stwierdzono 1329 przypadków wścieklizny u zwierząt, w tym 1120 u zw
 W 1999 r. stwierdzono 1148 przypadków wścieklizny u zwierząt, w tym 721 u lisów.
 W 2000 r. stwierdzono 2224 przypadki wścieklizny u zwierząt, w tym 1583 u lisów, a w 2001 r. stwierdzono 2964 przypadki wścieklizny u zwierząt, w tym 2224 u lisów.
 W trakcie przeprowadzanych akcji szczepień zaobserwowano „przemieszczanie się” wścieklizny do wschodniej części terytorium Rzeczypospolitej Polskiej, czyli na obszary nieobjęte do tej pory szczepieniami przeciwko wściekliźnie, oraz występowanie pojedynczych przypadków wścieklizny na terenach przygranicznych z Republiką Czeską.
-W 2002 r. liczba przypadków wścieklizny u zwierząt na terytorium Rzeczypospolitej Polskiej wyniosła 1119, z czego 1038 przypadków zanotowano u zwierząt dzikich, w tym 884 u lisów. W 2002 r. największą liczbę przypadków wścieklizny zanotowano w województwie wielkopolskim 339.
+W 2002 r. liczba przypadków wścieklizny u zwierząt na terytorium Rzeczypospolitej Polskiej wyniosła 1119, z czego 1038 przypadków zanotowano u zwierząt dzikich, w tym 884 u lisów. W 2002 r. największą liczbę przypadków wścieklizny zanotowano w województwie wielkopolskim – 339.
 W 2003 r. stwierdzono 388 przypadków wścieklizny u zwierząt, w tym 314 u zwierząt dzikich, z czego 233 u lisów.
 W 2004 r. stwierdzono 136 przypadków wścieklizny u zwierząt, w tym 114 u zwierząt dzikich, z czego 86 u lisów.
 W 2005 r. stwierdzono 138 przypadków wścieklizny u zwierząt, w tym 102 u zwierząt dzikich, z czego 84 u lisów.
@@ -88,7 +87,7 @@ Odpowiedzialność terenowych organów Inspekcji Weterynaryjnej za realizację p
 o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 kwietnia 2012 r.
 w sprawie krajowych laboratoriów referencyjnych (Dz. U. z 2014 r. poz. 256, z późn.
-zm.) wyznaczono jako krajowe laboratorium referencyjne dla wścieklizny Laboratorium Zakładu Wirusologii Państwowego Instytutu Weterynaryjnego Państwowego Instytutu Badawczego w Puławach.
+zm.) wyznaczono jako krajowe laboratorium referencyjne dla wścieklizny Laboratorium Zakładu Wirusologii Państwowego Instytutu Weterynaryjnego – Państwowego Instytutu Badawczego w Puławach.
 Zgodnie z art. 56 ust. 5 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, szczepienia ochronne lisów wolno żyjących przeprowadzają wojewódzcy lekarze weterynarii.
 Diagnostyka wścieklizny przy wystąpieniu podejrzenia tej choroby jest przeprowadzana przez laboratoria, o których mowa w art. 25 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, z wykorzystaniem następujących badań:
 1) immunofluorescencji odcisków mózgowych z koniugatem przeciwko antygenowi wirusa wścieklizny;
@@ -96,9 +95,9 @@ Diagnostyka wścieklizny przy wystąpieniu podejrzenia tej choroby jest przeprow
 3) genotypizacji izolatów wirusa wścieklizny.
 Badania immunofluorescencji odcisków mózgowych przy wystąpieniu podejrzenia wścieklizny wykonuje się w zakładach higieny weterynaryjnej. Izolację wirusa wścieklizny przeprowadza się w zakładach higieny weterynaryjnej lub krajowym laboratorium referencyjnym dla wścieklizny. Badania genotypizacji są wykonywane w krajowym laboratorium referencyjnym dla wścieklizny.
 Badania monitoringowe w celu sprawdzenia skuteczności szczepienia przeciwko wściekliźnie lisów wolno żyjących są przeprowadzane przez laboratoria, o których mowa w art. 25 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej. Monitoring wykonuje się przy zastosowaniu:
-1) immunofluorescencji odcisków mózgowych badanie w kierunku wścieklizny;
-2) szlifów kostnych żuchwy badanie na obecność markera (TC tetracyklin);
-3) testu ELISA określenie miana przeciwciał wirusa wścieklizny w surowicy;
+1) immunofluorescencji odcisków mózgowych – badanie w kierunku wścieklizny;
+2) szlifów kostnych żuchwy – badanie na obecność markera (TC – tetracyklin);
+3) testu ELISA – określenie miana przeciwciał wirusa wścieklizny w surowicy;
 4) różnicowania szczepów wirusa wścieklizny w celu rozróżnienia terenowych szczepów wirusa od szczepów szczepionkowych;
 5) zbierania i analizowania danych epidemiologicznych na temat zdiagnozowanych przypadków wścieklizny na obszarze objętym szczepieniem przeciwko wściekliźnie.
 Badania immunofluorescencji odcisków mózgowych, szlifów kostnych żuchwy oraz ELISA wykonywane w ramach monitoringu są przeprowadzane w zakładach higieny weterynaryjnej, natomiast badania różnicowania szczepów wirusa wścieklizny są przeprowadzane w krajowym laboratorium referencyjnym dla wścieklizny.

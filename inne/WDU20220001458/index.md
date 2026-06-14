@@ -8,10 +8,10 @@ pos: 1458
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11445588 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 8 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1458/text.pdf) |
 
-11445588 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 8 lipca 2022 r.
-w sprawie kontroli operacyjnej prowadzonej przez Policję Na podstawie art. 19 ust. 21 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655 i 1115) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie kontroli operacyjnej prowadzonej przez Policję Na podstawie art. 19 ust. 21 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655 i 1115) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób sporządzania dokumentacji w związku z zarządzeniem kontroli operacyjnej, zwanej dalej „kontrolą”;
 2) sposób dokumentowania kontroli;
 3) sposób przechowywania i przekazywania wniosków i zarządzeń dotyczących kontroli;
@@ -35,11 +35,11 @@ w sprawie kontroli operacyjnej prowadzonej przez Policję Na podstawie art. 19 u
 o Policji;
 6) wzory druków i rejestrów stosowanych w ramach kontroli.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) adnotacjach należy przez to rozumieć dokument elektroniczny, stanowiący odrębną całość znaczeniową zbiór danych uporządkowanych w określonej strukturze wewnętrznej i zapisany na informatycznym nośniku danych, o którym mowa w art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087), zwanym dalej „nośnikiem”, powiązany z zapisem i zawierający informacje dotyczące przebiegu kontroli, informacje o rozpoczęciu, przebiegu i zakończeniu wypowiedzi osób, wobec których jest prowadzona kontrola, umożliwiające automatyczne znalezienie wskazanego fragmentu zapisu;
-2) metadanych należy przez to rozumieć skrót informacji logicznie powiązanych z zapisem plików w bazach danych, opisujących ten plik, ułatwiający wyszukiwanie, kontrolowanie, zrozumienie i długotrwałe przechowywanie oraz zarządzanie;
-3) nośniku pierwotnym należy przez to rozumieć nośnik, na którym utrwalono zapis obrazu lub dźwięku podczas stosowania kontroli, a jeżeli taki zapis utrwalono za pomocą systemu teleinformatycznego, to należy przez to rozumieć ten system;
-4) nośniku wtórnym należy przez to rozumieć nośnik, na który skopiowano zapis z nośnika pierwotnego;
-5) nośniku kopii należy przez to rozumieć nośnik, na który skopiowano zapis z nośnika wtórnego.
+1) adnotacjach – należy przez to rozumieć dokument elektroniczny, stanowiący odrębną całość znaczeniową zbiór danych uporządkowanych w określonej strukturze wewnętrznej i zapisany na informatycznym nośniku danych, o którym mowa w art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087), zwanym dalej „nośnikiem”, powiązany z zapisem i zawierający informacje dotyczące przebiegu kontroli, informacje o rozpoczęciu, przebiegu i zakończeniu wypowiedzi osób, wobec których jest prowadzona kontrola, umożliwiające automatyczne znalezienie wskazanego fragmentu zapisu;
+2) metadanych – należy przez to rozumieć skrót informacji logicznie powiązanych z zapisem plików w bazach danych, opisujących ten plik, ułatwiający wyszukiwanie, kontrolowanie, zrozumienie i długotrwałe przechowywanie oraz zarządzanie;
+3) nośniku pierwotnym – należy przez to rozumieć nośnik, na którym utrwalono zapis obrazu lub dźwięku podczas stosowania kontroli, a jeżeli taki zapis utrwalono za pomocą systemu teleinformatycznego, to należy przez to rozumieć ten system;
+4) nośniku wtórnym – należy przez to rozumieć nośnik, na który skopiowano zapis z nośnika pierwotnego;
+5) nośniku kopii – należy przez to rozumieć nośnik, na który skopiowano zapis z nośnika wtórnego.
 § 3. 1. Kontrolę dokumentuje się przez gromadzenie przez policjantów:
 1) w odrębnych zbiorach tworzonych dla poszczególnych podmiotów lub przedmiotów, wobec których jest stosowana kontrola, materiałów zgromadzonych podczas jej stosowania, w szczególności:
 a) nośników, na których zostały utrwalone treści rozmów prowadzonych przy użyciu środków technicznych, w tym za pomocą sieci telekomunikacyjnych, lub innych przekazów informacji albo treści korespondencji lub zawartości przesyłek,
@@ -63,9 +63,10 @@ c) dokumentów sporządzonych na podstawie informacji utrwalonych na nośnikach;
 8) notatkę urzędową z przeprowadzonej kontroli, sporządzoną przez policjanta prowadzącego sprawę, w ramach której zarządzono kontrolę.
 4. W dwóch egzemplarzach sporządza się:
 1) zażalenie właściwego organu Policji na postanowienie sądu okręgowego w przedmiocie kontroli;
-2) zażalenie Prokuratora Generalnego lub prokuratora okręgowego na postanowienie sądu okręgowego w przedmiocie nieudzielenia zgody na kontynuowanie kontroli zarządzonej przez właściwy organ Policji w przypadkach niecierpią3) zarządzenie właściwego organu Policji o protokolarnym i komisyjnym zniszczeniu materiałów uzyskanych podczas stosowania kontroli, przy czym zarządzenie może być sporządzane w jednym egzemplarzu w przypadku przekazywania go w drodze teletransmisji z zastosowaniem odpowiednich urządzeń i narzędzi kryptograficznych;
+2) zażalenie Prokuratora Generalnego lub prokuratora okręgowego na postanowienie sądu okręgowego w przedmiocie nieudzielenia zgody na kontynuowanie kontroli zarządzonej przez właściwy organ Policji w przypadkach niecierpiących zwłoki;
+3) zarządzenie właściwego organu Policji o protokolarnym i komisyjnym zniszczeniu materiałów uzyskanych podczas stosowania kontroli, przy czym zarządzenie może być sporządzane w jednym egzemplarzu w przypadku przekazywania go w drodze teletransmisji z zastosowaniem odpowiednich urządzeń i narzędzi kryptograficznych;
 4) protokół komisyjnego zniszczenia materiałów uzyskanych podczas stosowania kontroli, przy czym protokół może być sporządzany w jednym egzemplarzu w przypadku przekazywania go w drodze teletransmisji z zastosowaniem odpowiednich urządzeń i narzędzi kryptograficznych.
-5. W odniesieniu do spraw realizowanych przez Biuro Spraw Wewnętrznych Policji dokumentacja kontroli, o której mowa w ust. 3 pkt 1–7, jest przekazywana w formie kopii do wiadomości Inspektora Nadzoru Wewnętrznego w terminie 7 dni od dnia otrzymania postanowienia, o którym mowa w ust. 3 pkt 3 i 7, a w przypadku braku zgody, o której mowa w ust. 3 pkt 2 i 5 od dnia otrzymania pisemnej informacji o braku tej zgody.
+5. W odniesieniu do spraw realizowanych przez Biuro Spraw Wewnętrznych Policji dokumentacja kontroli, o której mowa w ust. 3 pkt 1–7, jest przekazywana w formie kopii do wiadomości Inspektora Nadzoru Wewnętrznego w terminie 7 dni od dnia otrzymania postanowienia, o którym mowa w ust. 3 pkt 3 i 7, a w przypadku braku zgody, o której mowa w ust. 3 pkt 2 i 5 – od dnia otrzymania pisemnej informacji o braku tej zgody.
 6. Sąd okręgowy przechowuje pierwsze egzemplarze wydanych postanowień, pisemnych zgód prokuratora, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, a także zażaleń organów Policji.
 7. Prokurator Generalny lub prokurator okręgowy przechowuje drugie egzemplarze postanowień sądu, pisemnych zgód, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli oraz pierwsze egzemplarze notatek urzędowych.
 8. Organ Policji zarządzający kontrolę lub wnioskujący o zarządzenie kontroli przechowuje trzecie egzemplarze postanowień sądu, pisemnych zgód prokuratora, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, drugie egzemplarze notatek urzędowych i zażaleń na postanowienia sądu oraz pierwsze egzemplarze zarządzeń w sprawie protokolarnego i komisyjnego zniszczenia materiałów uzyskanych podczas stosowania kontroli i protokołów komisyjnego zniszczenia materiałów uzyskanych podczas stosowania kontroli.
@@ -86,6 +87,7 @@ c) dokumentów sporządzonych na podstawie informacji utrwalonych na nośnikach;
 7) inne dane mające związek z wpisem do rejestru.
 3. Wzór rejestru organu Policji wniosków i zarządzeń dotyczących kontroli prowadzonej przez Policję oraz wzór rejestru centralnego Komendanta Głównego Policji wniosków i zarządzeń dotyczących kontroli prowadzonej przez organy Policji w zakresie przewidzianym dla prowadzonych przez nie rejestrów jest określony w załączniku nr 8, który zawiera:
 1) podstawę prawną zarządzenia kontroli;
+2) podstawę prawną przedłużenia kontroli;
 3) numer wniosku lub zarządzenia kontroli;
 4) nazwę organu;
 5) numer sprawy i jej kryptonim;
@@ -110,6 +112,7 @@ c) dokumentów sporządzonych na podstawie informacji utrwalonych na nośnikach;
 § 7. 1. Jeżeli utrwalenie zapisu obrazu, dźwięku lub komunikatu następuje za pomocą systemu teleinformatycznego, to dla zapisu tworzy się metadane.
 2. Zapis utrwala się w sposób umożliwiający jego automatyczne wyodrębnienie oraz wyodrębnienie poszczególnych metadanych.
 3. Do zapisu utrwalonego za pomocą systemu teleinformatycznego można sporządzić adnotacje.
+4. System teleinformatyczny przyporządkowuje metadane adnotacjom sporządzonym dla danego zapisu.
 § 8. 1. Dla każdego nośnika kopii sporządza się metrykę dokumentu elektronicznego zgodnie z wymogami przepisów o ochronie informacji niejawnych.
 2. Metrykę opatruje się numerem ewidencyjnym nadanym zgodnie z kolejnością wykonywania zapisów i ich kopii w danej sprawie.
 3. Numer metryki, numer ewidencyjny lub sygnaturę akt umieszcza się na powierzchni przeznaczonej do opisywania nośnika, o ile nośnik ją posiada.
@@ -126,32 +129,33 @@ c) dokumentów sporządzonych na podstawie informacji utrwalonych na nośnikach;
 § 12. 1. Przechowywanie i przekazywanie wniosków, zarządzeń i materiałów uzyskanych podczas stosowania kontroli, a także przetwarzanie i niszczenie tych materiałów odbywa się w sposób zapewniający zachowanie w tajemnicy informacji zawartych w dokumentach i materiałach oraz uniemożliwiający dostęp do nich osób nieuprawnionych.
 2. Do przekazywanych materiałów uzyskanych podczas stosowania kontroli zawierających dowody pozwalające na wszczęcie postępowania karnego lub mające znaczenie dla toczącego się postępowania karnego dołącza się poświadczone za zgodność z oryginałem kopie postanowienia sądu okręgowego w przedmiocie wyrażenia zgody lub przedłużenia kontroli lub postanowienia sądu okręgowego w przedmiocie wyrażenia zgody na kontynowanie kontroli zarządzonej w przypadkach niecierpiących zwłoki.
 § 13. Rozporządzenie wchodzi w życie z dniem 12 lipca 2022 r.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik WZÓR Załącznik nr 1 WZÓR Załącznik nr 2 WZÓR WZÓR Załącznik nr 3 WZÓR PROKURATOR GENERALNY / PROKURATOR OKRĘGOWY w ………………………...…………….
-NOTATKA URZĘDOWA Z PRZEPROWADZONEJ KONTROLI OPERACYJNEJ Na podstawie art. 19 ust. 14 i 17a ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.) w związku z: zarządzeniem do wniosku nr ………………………. Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w ………………………..……. z dnia ……………….………. wydanym w trybie art. 19 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji , postanowieniem Sądu Okręgowego w …………….. sygn. …………….. z dnia ………...…...
+Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik Załącznik nr 1 WZÓR WZÓR Załącznik nr 2 WZÓR WZÓR Załącznik nr 3 WZÓR WZÓR PROKURATOR GENERALNY / PROKURATOR OKRĘGOWY w ………………………...…………….
+NOTATKA URZĘDOWA Z PRZEPROWADZONEJ KONTROLI OPERACYJNEJ Na podstawie art. 19 ust. 14 i 17a ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.) w związku z: – zarządzeniem do wniosku nr ………………………. Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w ………………………..……. z dnia ……………….………. wydanym w trybie art. 19 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji , – postanowieniem Sądu Okręgowego w …………….. sygn. …………….. z dnia ………...…...
 wydanym w trybie art. 19 ust. 1 / art. 19 ust. 3 / art. 19 ust. 8 / art. 19 ust. 9 ustawy z dnia 6 kwietnia 1990 r. o Policji na wniosek nr …………………….. Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w …………..………………… z dnia ………………………..……….……..
 informuję o wynikach kontroli operacyjnej po jej zakończeniu oraz o wydaniu i wykonaniu zarządzenia dotyczącego zniszczenia materiałów z kontroli operacyjnej , prowadzonej w sprawie ………………………………………………………………………………………………………..……… związanej z przestępstwem wymienionym w art. 19 ust. 1 pkt …… ustawy z dnia 6 kwietnia 1990 r.
 o Policji i określonym w art. …………………………………….., stosowanej wobec …………………….........................................................................................................................................
 …………………………………………………………………………………………………………..…..., polegającej na ......................................................... o kryptonimie obiektu „……………………………...”
 1. Kontrolę operacyjną rozpoczęto …………...……………………….…..……………………………….
 2. Kontrolę operacyjną zakończono ....................................... …………….………………….……………
-3. W wyniku kontroli operacyjnej: uzyskano dowody pozwalające na wszczęcie postępowania karnego lub mające znaczenie dla toczącego się postępowania karnego , nie uzyskano dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego .
+3. W wyniku kontroli operacyjnej: – uzyskano dowody pozwalające na wszczęcie postępowania karnego lub mające znaczenie dla toczącego się postępowania karnego , – nie uzyskano dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego .
 4. Komisja powołana na podstawie zarządzenia o zniszczeniu materiałów nr ………....…… Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w ………………………… z dnia ………………….. zgodnie z protokołem …………………………. komisyjnego zniszczenia materiałów uzyskanych podczas stosowania kontroli operacyjnej nr ………………, w dniu ………………., dokonała protokolarnego i komisyjnego zniszczenia uzyskanych podczas stosowania tej kontroli operacyjnej materiałów.
-WZÓR
 5. Dodatkowe informacje o wynikach kontroli operacyjnej: ………………….…………………………...
 …………………………………………………………………………………..…………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..…………………………
 6. Informacja dotycząca ustalenia właściciela numeru MSISDN (w przypadku gdy we wniosku o zarządzenie kontroli nie wskazano użytkownika numeru MSISDN) …………………………………… ………………………………………………………….…………………….……………………………… …………………………………………………………………………………..…………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… ……………………………………………………………………………………..………………………… …………………………………………………………………………………….…….…………………… ………………..…………………………………….
-WZÓR ZARZĄDZENIE NR ………..
+WZÓR WZÓR ZARZĄDZENIE NR ………..
 Na podstawie art. 19 ust. 3 / art. 19 ust. 15f pkt 1 / art. 19 ust. 17 ustawy z dnia 6 kwietnia 1990 r.
 o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.) zarządzam komisyjne i protokolarne ZNISZCZENIE uzyskanych podczas stosowania kontroli operacyjnej materiałów, prowadzonej w związku z wnioskiem / zarządzeniem nr ...................... Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w ................................. z dnia ………….. przez..............................................................................., w sprawie ......................................................., polegającej na ……………..……………………………….
 kryptonim obiektu „..........................................”, stosowanej od ............................. do …………………...., wobec . ..............................................................................................................................................., w związku z przestępstwem wymienionym w art. 19 ust. 1 pkt ...................... ustawy z dnia 6 kwietnia 1990 r. o Policji i określonym w art. ..............................................................................., z uwagi na fakt, że:  Sąd Okręgowy w …………………………….., ................................................................................
 nie udzielił zgody na kontynuowanie kontroli zarządzonej przez Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w ………………… w przypadkach niecierpiących zwłoki ,  uzyskane podczas stosowania kontroli operacyjnej materiały zawierają informacje, o których mowa w art. 178 Kodeksu postępowania karnego ,  uzyskane podczas stosowania kontroli operacyjnej materiały nie zawierają dowodów pozwalających na wszczęcie postępowania karnego lub dowodów mających znaczenie dla toczącego się postępowania karnego .
 KOMENDANT GŁÓWNY POLICJI / KOMENDANT CENTRALNEGO BIURA ŚLEDCZEGO POLICJI / KOMENDANT BIURA SPRAW WEWNĘTRZNYCH POLICJI / KOMENDANT CENTRALNEGO BIURA ZWALCZANIA CYBERPRZESTĘPCZOŚCI / KOMENDANT STOŁECZNY POLICJI / KOMENDANT WOJEWÓDZKI POLICJI w………………………….……………………..….
 .......................................................................................
-WZÓR Załącznik nr 5 WZÓR PROTOKÓŁ KOMISYJNEGO ZNISZCZENIA MATERIAŁÓW UZYSKANYCH PODCZAS STOSOWANIA KONTROLI OPERACYJNEJ Na podstawie zarządzenia nr …………… Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w ………………………………..………. z dnia …………………...…………..…… komisja w składzie:
+
+## Załącznik nr 5 — WZÓR WZÓR PROTOKÓŁ KOMISYJNEGO ZNISZCZENIA MATERIAŁÓW UZYSKANYCH PODCZAS STOSOWANIA KONTROLI OPERACYJNEJ Na podstawie zarządzenia nr …………… Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w ………………………………..………. z dnia …………………...…………..…… komisja w składzie:
+
 1) ..…………………………………………………………………….………………………………...
 2) …………………………………………………………………………..……………………………
 3) ………………………...…………………………………………………….………………………..
 dokonała w dniu ………………………….. zniszczenia materiałów / skasowania informacji zgromadzonych podczas stosowania kontroli operacyjnej, prowadzonej w związku z wnioskiem / zarządzeniem nr ………………..… Komendanta Głównego Policji / Komendanta Centralnego Biura Śledczego Policji / Komendanta Biura Spraw Wewnętrznych Policji / Komendanta Centralnego Biura Zwalczania Cyberprzestępczości / Komendanta Stołecznego Policji / Komendanta Wojewódzkiego Policji w …………………………… z dnia ………………………………. .
 Wykaz zniszczonych materiałów: ………………………………………….…..………………………...……………………………………… ………………………………………….…..…………………………………………...…………………… ………………………………………….…..…………………………...…………………………………… ………………………………………….…..……………………………...………………………………… ………………………………………….…..………………………………...……………………………… ………………………………………….…..…………………………………...…………………………… ………………………………………….…..……………………………………...………………………… ………………………………………….…..………………………………………...……………………… Podpisy członków komisji:
-1) …………………………….. 2) ……………………………. 3) ……………………...……… Kierownik komórki organizacyjnej Policji ……………………………………………...………… WZÓR O O W O H OK O O O W O O ÓG O H OK O O O W O O
+1) …………………………….. 2) ……………………………. 3) ……………………...……… Kierownik komórki organizacyjnej Policji ……………………………………………...………… O O O OK H O O W O W O O O O O OK H O W O O ÓG
 

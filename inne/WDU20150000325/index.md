@@ -8,10 +8,10 @@ pos: 325
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 marca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 325 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 2 marca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/325/text.pdf) |
 
-Poz. 325 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 2 marca 2015 r.
-w sprawie wysokości i sposobu pokrywania kosztów związanych z przeprowadzeniem inspekcji przez inspektorów do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego Na podstawie art. 76d ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa wysokość i sposób pokrywania kosztów przeprowadzania inspekcji w celu wydania zaświadczenia stanowiącego certyfikat potwierdzający zgodność warunków obrotu z wymaganiami Dobrej Praktyki Dystrybucyjnej u przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej.
+w sprawie wysokości i sposobu pokrywania kosztów związanych z przeprowadzeniem inspekcji przez inspektorów do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego Na podstawie art. 76d ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wysokość i sposób pokrywania kosztów przeprowadzania inspekcji w celu wydania zaświadczenia stanowiącego certyfikat potwierdzający zgodność warunków obrotu z wymaganiami Dobrej Praktyki Dystrybucyjnej u przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej.
 § 2. 1. Koszty, o których mowa w § 1, oblicza się według stawki godzinowej, pomnożonej przez liczbę godzin przeznaczonych na wykonanie czynności, oraz dolicza się koszty podróży służbowej określone w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502 i 1662).
 2. Czas przeznaczony na wykonanie czynności oznacza czas przeznaczony na bezpośrednie wykonanie czynności inspektora do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego.
 3. Za przestoje w czasie wykonywania czynności inspektora do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego, z przyczyn leżących po stronie przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej, pobiera się opłatę według obowiązującej stawki godzinowej.

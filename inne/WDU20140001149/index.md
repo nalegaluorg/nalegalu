@@ -8,10 +8,10 @@ pos: 1149
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1149 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 27 sierpnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1149/text.pdf) |
 
-Poz. 1149 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 27 sierpnia 2014 r.
-zmieniające rozporządzenie w sprawie szczegółowego zakresu danych gromadzonych w bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych Na podstawie art. 115 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 sierpnia 2012 r. w sprawie szczegółowego zakresu danych gromadzonych w bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych (Dz. U. poz. 957) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowego zakresu danych gromadzonych w bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych Na podstawie art. 115 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 sierpnia 2012 r. w sprawie szczegółowego zakresu danych gromadzonych w bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych (Dz. U. poz. 957) wprowadza się następujące zmiany:
 1) w § 7 pkt 7 otrzymuje brzmienie: „7) liczbie uczniów, słuchaczy i wychowanków, którzy nie są obywatelami polskimi, z wyszczególnieniem liczby uczniów, słuchaczy i wychowanków:
 a) posiadających obywatelstwo państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia o Wolnym Handlu (EFTA) – Strony Umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej albo będących członkami rodzin takich osób, posiadającymi prawo pobytu lub prawo stałego pobytu,
 b) którym udzielono zezwolenia na pobyt stały na terytorium Rzeczypospolitej Polskiej,

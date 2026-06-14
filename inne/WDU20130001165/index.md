@@ -8,7 +8,7 @@ pos: 1165
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o postępowaniu w sprawach nieletnich oraz niektórych innych ustaw
@@ -28,6 +28,26 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1165/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2010 r. Nr 33, poz. 178, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w § 2 w pkt 2 lit. b otrzymuje brzmienie: „b) wykroczenie określone w art. 51, art. 69, art. 74, art. 76, art. 85, art. 87, art. 119, art. 122, art. 124, art. 133 lub art. 143 Kodeksu wykroczeń.”;
+- **2)** uchyla się art. 13;
+- **3)** art. 15 otrzymuje brzmienie: „Art. 15. § 1. Postępowania w sprawach nieletnich prowadzi sąd rodzinny, chyba że przepis szczególny stanowi inaczej.
+
+§ 2. Postępowania, o których mowa w § 1, są niejawne, chyba że przepis szczególny stanowi inaczej.”;
+
+- **4)** w art. 16 § 1 otrzymuje brzmienie: „§ 1. Jeżeli w sprawie o czyn karalny, o którym mowa w art. 1 § 2 pkt 2 lit. a, wszczęto postępowanie przeciwko nieletniemu wespół z dorosłym, prokurator wyłącza sprawę nieletniego i przekazuje ją sądowi rodzinnemu.”;
+- **5)** w art. 18 w § 2 w pkt 1:
+    - **a)** lit. a otrzymuje brzmienie: „a) postępowanie przygotowawcze prowadzi sąd rodzinny, z tym że przepisy art. 16 oraz art. 32k stosuje się odpowiednio,”,
+    - **b)** lit. d otrzymuje brzmienie: „d) przepisy art. 23–25a, art. 27, art. 32, art. 32f–32h i art. 32n § 1 stosuje się odpowiednio,”;
+
+- **6)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. Nieletniemu przysługują:
+- **1)** prawo do obrony, w tym prawo do korzystania z pomocy obrońcy,
+- **2)** prawo do odmowy składania wyjaśnień lub odpowiedzi na poszczególne pytania – o czym należy go pouczyć przed przystąpieniem do przesłuchania lub wysłuchania.”;
+- **7)** art. 20 i art. 21 otrzymują brzmienie: „Art. 20. § 1. W sprawach nieletnich stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego właściwe dla spraw opiekuńczych, a w zakresie zbierania, utrwalania i przeprowadzania dowodów przez Policję oraz powoływania i działania obrońcy stosuje się odpowiednio przepisy Kodeksu postępowania karnego, ze zmianami przewidzianymi w ustawie.
+
+§ 2. Czynności dowodowe z udziałem osób małoletnich innych niż nieletni przeprowadza się przy odpowiednim zastosowaniu przepisów Kodeksu postępowania karnego.
+
+§ 3. Do rzeczy zatrzymanych w toku postępowania stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 21.**
 
@@ -200,6 +220,9 @@ source: "isap-pdf"
 
 **Art. 32r.** W postanowieniu kończącym postępowanie w sprawie nieletniego sąd rodzinny stwierdza, czy nieletni wykazuje przejawy demoralizacji lub popełnił czyn karalny, oraz orzeka o zastosowaniu środków określonych w art. 6, art. 7 § 1 lub art. 12.”,
 
+- **b)** uchyla się rozdziały 3–5,
+- **c)** rozdział 7 otrzymuje brzmienie: „Rozdział 7 Postępowanie odwoławcze
+
 **Art. 58.** Środki odwoławcze od orzeczeń wydanych w sprawach nieletnich rozpoznaje sąd okręgowy w składzie 3 sędziów.
 
 **Art. 59.**
@@ -300,6 +323,9 @@ source: "isap-pdf"
 - **24)** w art. 95g § 1 otrzymuje brzmienie: „§ 1. Okresy pracy wykonywanej przez nieletniego w czasie odbywania środka poprawczego, z wyjątkiem prac, o których mowa w art. 95f § 2, uważa się za okresy równorzędne z okresami zatrudnienia w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.”.
 
 **Art. 2.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427 i 662) w art. 16 § 1 otrzymuje brzmienie: „§ 1. Sąd okręgowy dzieli się na wydziały:
+
+- **1)** cywilny – do spraw z zakresu prawa cywilnego, prawa rodzinnego i opiekuńczego, spraw dotyczących leczenia osób uzależnionych od alkoholu oraz od środków odurzających i psychotropowych, spraw należących do sądu opiekuńczego na podstawie odrębnych ustaw oraz spraw dotyczących demoralizacji i czynów karalnych nieletnich;
+- **2)** karny – do spraw z zakresu prawa karnego oraz spraw zgodności z prawdą oświadczeń lustracyjnych.”.
 
 **Art. 3.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628) w art. 40 ust. 2 otrzymuje brzmienie: „2. O użyciu środków przymusu bezpośredniego wobec nieletniego umieszczonego w policyjnej izbie dziecka kierownik izby powiadamia sąd rodzinny sprawujący nadzór nad wykonywaniem czynności, o których mowa w art. 32e–32h ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2010 r. Nr 33, poz. 178, z późn. zm. ), a w przypadku, o którym mowa w art. 32h tej ustawy, powiadamia również sąd rodzinny, na obszarze właściwości którego znajduje się policyjna izba dziecka.”.
 

@@ -8,10 +8,10 @@ pos: 1649
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1649 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 18 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1649/text.pdf) |
 
-Poz. 1649 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 18 sierpnia 2017 r.
-zmieniające rozporządzenie w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą Na podstawie art. 22 ust. 1 pkt 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą (Dz. U. z 2014 r. poz. 454) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą Na podstawie art. 22 ust. 1 pkt 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą (Dz. U. z 2014 r. poz. 454) wprowadza się następujące zmiany:
 1) uchyla się § 4;
 2) w § 10:
 a) ust. 2 i 3 otrzymują brzmienie: „2. Zajęcia edukacyjne w kształceniu na odległość są prowadzone w formie konsultacji.

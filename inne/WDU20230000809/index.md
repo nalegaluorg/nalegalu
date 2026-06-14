@@ -8,10 +8,10 @@ pos: 809
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 880099 (Oznaczenie organu sporządzającego zawiadomienie) ..……….......……………… ( ) ZAWIADOMIENIE Na podstawie art. 61 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775, z późn. zm.) w związku z art. 13k ust. ……… ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2023 r. poz. 645, z późn.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000809) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/809/text.pdf) |
 
-880099 (Oznaczenie organu sporządzającego zawiadomienie) ..……….......……………… ( ) ZAWIADOMIENIE Na podstawie art. 61 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775, z późn. zm.) w związku z art. 13k ust. ……… ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2023 r. poz. 645, z późn.
 zm.) zawiadamia się o wszczęciu postępowania w sprawie nałożenia kary pieniężnej za naruszenie obowiązku uiszczenia opłaty elektronicznej.
 W dniu ……… o godz. ……… miało miejsce naruszenie obowiązku uiszczenia opłaty elektronicznej z udziałem pojazdu o numerze rejestracyjnym: ………………………, marka: ………………………, model (nazwa handlowa): ………………………, które zostało stwierdzone przez Główny Inspektorat Transportu Drogowego.
 Imię i nazwisko/nazwa : ……………………………………………………………………… jest zarejestrowany(-na) jako właściciel/posiadacz wyżej wymienionego pojazdu.
@@ -51,13 +50,13 @@ Formularz odpowiedzi, stanowiący załącznik do zawiadomienia, należy wypełni
 1.2. Nazwa i adres właściwego organu odwoławczego oraz sposób i termin wniesienia odwołania od decyzji: Od decyzji w sprawie nałożenia kary pieniężnej za naruszenie obowiązku uiszczenia opłaty elektronicznej stronie przysługuje wniosek o ponowne rozpatrzenie sprawy do Głównego Inspektora Transportu Drogowego, adres siedziby: ……………………………………………, w terminie 14 dni od dnia doręczenia tej decyzji.
 Jeżeli strona nie chce korzystać z wniosku o ponowne rozpatrzenie sprawy, może wnieść skargę do Wojewódzkiego Sądu Administracyjnego w Warszawie za pośrednictwem Głównego Inspektora Transportu Drogowego w terminie 30 dni od dnia doręczenia decyzji.
 Wysokość wpisu od skargi wynosi ……………………………………………………… Opłatę sądową uiszcza się gotówką do kasy Wojewódzkiego Sądu Administracyjnego w Warszawie, adres ……………..…………………………………………………………….., lub na rachunek bankowy tego sądu. Strona może ubiegać się o zwolnienie od obowiązku uiszczenia kosztów sądowych albo przyznanie prawa pomocy.
-Ponadto na podstawie art. 127a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, zwanej dalej „KPA”, w trakcie biegu terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia wniosku o ponowne rozpatrzenie sprawy. Z dniem doręczenia Głównemu Inspektorowi Transportu Drogowego oświadczenia o zrzeczeniu się prawa do złożenia powyższego wniosku decyzja staje się ostateczna i prawomocna. W tej sytuacji strona traci prawo zaskarżenia decyzji do Wojewódzkiego Sądu Administracyjnego w Warszawie.
+Ponadto na podstawie art. 127a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, zwanej dalej „KPA”, w trakcie biegu terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia wniosku o ponowne rozpatrzenie sprawy. Z dniem doręczenia Głównemu Inspektorowi Transportu Drogowego oświadczenia o zrzeczeniu się prawa do złożenia powyższego wniosku decyzja staje się ostateczna i prawomocna. W tej sytuacji strona traci prawo zaskarżenia decyzji do Wojewódzkiego Sądu Administracyjnego w Warszawie.
 POZOSTAŁE INFORMACJE Zgodnie z art. 10 § 1 KPA strona ma zapewniony w każdym stadium postępowania czynny udział, a przed wydaniem decyzji możliwość wypowiedzenia się co do zebranych dowodów i materiałów oraz możliwość zgłoszenia żądań osobiście w siedzibie organu lub przesyłając je na jego adres.
 Zgodnie z art. 32 KPA strona może działać przez pełnomocnika, chyba że charakter czynności wymaga jej osobistego działania. Stosownie zaś do treści art. 33 § 1 KPA pełnomocnikiem strony może być osoba fizyczna posiadająca zdolność do czynności prawnych.
 Zgodnie z art. 41 KPA w toku postępowania strony oraz ich przedstawiciele i pełnomocnicy mają obowiązek zawiadomić organ administracji publicznej o każdej zmianie swojego adresu.
 W razie zaniedbania tego obowiązku doręczenie pisma pod dotychczasowym adresem jest prawnie skuteczne.
 KLAUZULA DOTYCZĄCA OCHRONY DANYCH OSOBOWYCH Zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) ma Pan/Pani prawo zażądania dostępu do swoich danych osobowych, ich sprostowania lub usunięcia, ograniczenia ich przetwarzania lub wniesienia sprzeciwu wobec przetwarzania, a także prawo do przenoszenia danych.
-Przysługuje Panu/Pani prawo wniesienia skargi do organu nadzorczego Prezesa Urzędu Ochrony Danych Osobowych.
+Przysługuje Panu/Pani prawo wniesienia skargi do organu nadzorczego – Prezesa Urzędu Ochrony Danych Osobowych.
 Prezes Urzędu Ochrony Danych Osobowych Adres siedziby: …………………………………………………………………...…………… Adres e-mail: …………………………………………………………………………………..
 ……………………………… Załącznik FORMULARZ ODPOWIEDZI Formularz należy wypełnić czytelnie drukowanymi literami.
 1. Dane właściciela/posiadacza pojazdu: Imię i nazwisko/nazwa : …………………………………………………………………..

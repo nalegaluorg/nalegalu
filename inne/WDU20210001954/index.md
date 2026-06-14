@@ -8,10 +8,10 @@ pos: 1954
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 października 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1954 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 września 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001954) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1954/text.pdf) |
 
-Poz. 1954 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 września 2021 r.
-w sprawie trybu i sposobu dokonywania doręczeń elektronicznych w postępowaniach upadłościowych Na podstawie art. 220 ust. 7 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080, 1177 i 1598) zarządza się, co następuje: § 1. Rozporządzenie określa tryb i sposób dokonywania doręczeń elektronicznych w postępowaniach upadłościowych.
+w sprawie trybu i sposobu dokonywania doręczeń elektronicznych w postępowaniach upadłościowych Na podstawie art. 220 ust. 7 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080, 1177 i 1598) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb i sposób dokonywania doręczeń elektronicznych w postępowaniach upadłościowych.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
 1) koncie – rozumie się przez to zbiór danych pozwalających na identyfikację właściciela konta, wraz z przyporządkowanymi zasobami systemu teleinformatycznego obsługującego postępowanie sądowe;
 2) właścicielu konta – rozumie się przez to podmiot, dla którego założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe;

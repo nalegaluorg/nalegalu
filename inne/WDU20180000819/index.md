@@ -8,10 +8,10 @@ pos: 819
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 kwietnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 819 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 26 kwietnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/819/text.pdf) |
 
-Poz. 819 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 26 kwietnia 2018 r.
-zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony uposażenia zasadniczego Na podstawie art. 101 ust. 2, art. 102 i art. 104 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o poz. 2067, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 wych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia sługi lat, od której jest uzależniony wzrost uposażenia zasadniczego (Dz. U. z 2015 r. poz. 1236, z 2017 r. poz. 135 i 253 oraz z 2018 r. poz. 309 i 486) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony uposażenia zasadniczego Na podstawie art. 101 ust. 2, art. 102 i art. 104 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o poz. 2067, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 wych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia sługi lat, od której jest uzależniony wzrost uposażenia zasadniczego (Dz. U. z 2015 r. poz. 1236, z 2017 r. poz. 135 i 253 oraz z 2018 r. poz. 309 i 486) wprowadza się następujące zmiany:
 1) w § 10 ust. 1 otrzymuje brzmienie: „1. Policjantowi pełniącemu służbę na stanowisku etatowym w Komendzie Stołecznej nostce organizacyjnej Policji, której terytorialny zasięg działania jest objęty terytorialnym Komendanta Stołecznego Policji, przysługuje dodatek stołeczny w wysokości 31,50% kwoty
-2) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego § 2. Rozporządzenie wchodzi w życie z dniem 1 maja 2018 r.
-Minister Spraw Wewnętrznych i Administracji: Dziennik Ustaw – 2 – TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW ORAZ ODPOWIADAJĄCYCH IM STAWEK UPOSAŻENIA ZASADNICZEGO WYRAŻONYCH MNOŻNIKÓW KWOTY BAZOWEJ Mnożnik kwoty bazowej Lp. Grupa zaszeregowania A B C D 1 16 4,95 - - 2 15 4,35 - - 3 14a 3,15 3,10 3,05 4 14 3,10 3,05 3,00 5 13a 3,00 2,95 2,90 2,85 6 13 2,95 2,90 2,85 2,80 7 12 2,80 2,75 2,70 2,65 8 11 2,60 2,55 2,50 2,45 9 10 2,40 2,35 2,30 2,25 10 9 2,20 2,15 2,10 2,05 11 8 2,00 1,95 1,90 1,85 12 7 - - - 1,80 13 6 - - - 1,75 14 5 - - - 1,61 15 4 - - - 1,51 16 3 - - - 1,47 17 2 - - - 1,43 18 1 - - - 0,80
+2) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 maja 2018 r.
+Minister Spraw Wewnętrznych i Administracji: TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW ORAZ ODPOWIADAJĄCYCH IM STAWEK UPOSAŻENIA ZASADNICZEGO WYRAŻONYCH MNOŻNIKÓW KWOTY BAZOWEJ Mnożnik kwoty bazowej Lp. Grupa zaszeregowania A B C D 1 16 4,95 - - 2 15 4,35 - - 3 14a 3,15 3,10 3,05 4 14 3,10 3,05 3,00 5 13a 3,00 2,95 2,90 2,85 6 13 2,95 2,90 2,85 2,80 7 12 2,80 2,75 2,70 2,65 8 11 2,60 2,55 2,50 2,45 9 10 2,40 2,35 2,30 2,25 10 9 2,20 2,15 2,10 2,05 11 8 2,00 1,95 1,90 1,85 12 7 - - - 1,80 13 6 - - - 1,75 14 5 - - - 1,61 15 4 - - - 1,51 16 3 - - - 1,47 17 2 - - - 1,43 18 1 - - - 0,80
 

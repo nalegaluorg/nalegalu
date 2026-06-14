@@ -8,7 +8,7 @@ pos: 650
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o finansowaniu Uniwersytetu Papieskiego Jana Pawła II w Krakowie z budżetu państwa

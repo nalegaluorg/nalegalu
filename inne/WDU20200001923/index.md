@@ -8,10 +8,10 @@ pos: 1923
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 listopada 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1923 OBWIESZCZENIE MINISTRA INFRASTRuKTuRY z dnia 7 października 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001923) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1923/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRuKTuRY z dnia 7 października 2020 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2020 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja 2014 r. w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych (Dz. U. poz. 720), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 3 września 2019 r. zmieniającym rozporządzenie w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych (Dz. U. poz. 1765).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Infrastruktury z dnia 3 września 2019 r. zmieniającego rozporządzenie w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych (Dz. U. poz. 1765), które stanowią: „§ 2. Do postępowań o wydanie świadectwa dopuszczenia do eksploatacji typu, dotyczących pojazdów kolejowych, o których mowa w § 11 pkt 3 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
@@ -33,6 +32,7 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 § 4. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, który wcho dzi w życie po upływie 9 miesięcy od dnia ogłoszenia.”.
 Minister Infrastruktury: A. Adamczyk RozpoRządzenIe MINISTRA INFRASTRuKTuRY I ROZWOju z dnia 13 maja 2014 r.
 w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych Na podstawie art. 22f ust. 14 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2020 r. poz. 1043, 1378 i 1778) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb wydawania, odmowy wydania i cofania świadectw dopuszczenia do eksploatacji typu;
 2) wykaz rodzajów budowli, urządzeń oraz pojazdów kolejowych, dla których wymagane jest uzyskanie świadectwa dopuszczenia do eksploatacji typu;
 3) zakres badań technicznych koniecznych do wydania świadectwa dopuszczenia do eksploatacji typu oraz stwierdzenia zgodności z typem;
@@ -44,6 +44,7 @@ a) świadectwa dopuszczenia do eksploatacji typu,
 b) certyfikatu zgodności typu,
 c) certyfikatu zgodności z typem,
 d) deklaracji zgodności z typem.
+§ 2. 1. Świadectwo dopuszczenia do eksploatacji typu wydaje się na podstawie wniosku zawierającego:
 1) nazwę i adres podmiotu, który składa wniosek;
 2) określenie rodzaju i typu budowli, urządzenia albo pojazdu kolejowego, dla którego ma być wydane świadectwo dopuszczenia do eksploatacji typu;
 3) datę i miejsce sporządzenia wniosku;
@@ -51,8 +52,8 @@ d) deklaracji zgodności z typem.
 2. Do wniosku, z zastrzeżeniem § 3, należy załączyć:
 1) certyfikat zgodności typu, którego wzór określa załącznik nr 1 do rozporządzenia;
 2) opinię techniczną jednostki organizacyjnej, o której mowa w art. 22g ust. 9 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, zwanej dalej „ustawą”;
-3) porozumienie w sprawie wykonania prób eksploatacyjnych, którego wzór określa załącznik nr 2 do rozporządzenia, wraz z ich programem dotyczy typów, dla których wymagane jest przeprowadzenie prób eksploatacyjnych;
-4) pozytywną opinię eksploatacyjną wydaną przez podmiot, który eksploatował budowlę, urządzenie lub pojazd kolejowy podczas prób eksploatacyjnych dotyczy typów po przeprowadzonych próbach eksploatacyjnych, dla których wymagane jest ich przeprowadzenie.
+3) porozumienie w sprawie wykonania prób eksploatacyjnych, którego wzór określa załącznik nr 2 do rozporządzenia, wraz z ich programem – dotyczy typów, dla których wymagane jest przeprowadzenie prób eksploatacyjnych;
+4) pozytywną opinię eksploatacyjną wydaną przez podmiot, który eksploatował budowlę, urządzenie lub pojazd kolejowy podczas prób eksploatacyjnych – dotyczy typów po przeprowadzonych próbach eksploatacyjnych, dla których wymagane jest ich przeprowadzenie.
 3. W przypadkach, o których mowa w § 19 ust. 13, do wniosku o wydanie nowego świadectwa dopuszczenia do eksplo atacji typu nie jest wymagane ponowne załączanie właściwych dokumentów, o których mowa w ust. 2 pkt 1, 2 i 4.
 4. Wniosek o wydanie świadectwa dopuszczenia do eksploatacji typu wraz z załącznikami wnoszony jest do Prezesa Urzędu Transportu Kolejowego, zwanego dalej „Prezesem UTK”, w postaci papierowej albo elektronicznej.
 5. Wniosek o wydanie świadectwa dopuszczenia do eksploatacji typu wraz z załącznikami w postaci elektronicznej wnoszony jest na elektroniczną skrzynkę podawczą, o której mowa w art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568, 695 i 1517), albo na informatycznym nośniku danych.
@@ -71,6 +72,7 @@ b) eksploatacji przed dniem 14 listopada 1997 r.
 § 5. Jeżeli zachodzą okoliczności, o których mowa w art. 22f ust. 9 ustawy, Prezes UTK przed wydaniem decyzji o cofnięciu świadectwa dopuszczenia do eksploatacji typu pisemnie wzywa podmiot, dla którego wydał świadectwo, do:
 1) usunięcia uchybień w wyznaczonym terminie, nie krótszym niż 14 dni od dnia otrzymania wezwania;
 2) poinformowania podmiotów, które władają kolejnymi egzemplarzami zgodnymi z dopuszczonym typem, o stwierdzonych zagrożeniach.
+§ 6. W przypadku, o którym mowa w art. 25d ust. 1 pkt 3 ustawy, świadectwo dopuszczenia do eksploatacji typu jest wydawane na każdy typ:
 1) następujących budowli wchodzących w skład podsystemu strukturalnego infrastruktura:
 a) rozjazdu kolejowego,
 b) skrzyżowania torów kolejowych,
@@ -91,13 +93,13 @@ b) urządzeń sterowania rozrządem, w tym hamulca torowego,
 c) urządzeń blokady liniowej,
 d) systemu zabezpieczenia ruchu na przejazdach kolejowych,
 e) urządzeń do wykrywania stanów awaryjnych pojazdów kolejowych podczas biegu pociągu oraz nieprawidłowości załadunku wagonów,
-f) urządzeń kontroli niezajętości torów i rozjazdów: obwodów torowych, liczników osi,
+f) urządzeń kontroli niezajętości torów i rozjazdów: – obwodów torowych, – liczników osi,
 g) urządzeń do przestawiania lub kontrolowania ruchomych elementów rozjazdu kolejowego,
 h) sygnalizatora kolejowego,
 i) urządzeń łączności przewodowej i bezprzewodowej, w tym zapowiadawczej, strażnicowej i stacyjnoruchowej, z wyjątkiem urządzeń cyfrowego systemu łączności radiowej (GSMR),
 j) urządzeń łączności bezprzewodowej, w tym pociągowej, manewrowej, drogowej i utrzymania, z wyjątkiem urządzeń cyfrowego systemu łączności radiowej (GSMR),
 k) rejestratora rozmów związanych z prowadzeniem ruchu kolejowego,
-l) urządzeń oddziaływania tor pojazd,
+l) urządzeń oddziaływania tor – pojazd,
 m) urządzeń kontroli prowadzenia pociągu,
 n) systemu telewizji użytkowej przeznaczonej do prowadzenia ruchu kolejowego,
 o) systemu zdalnego sterowania ruchem kolejowym.
@@ -123,12 +125,13 @@ b) urządzeń sterowania rozrządem, w tym hamulca torowego,
 c) urządzeń blokady liniowej,
 d) systemu zabezpieczenia ruchu na przejazdach kolejowych,
 e) urządzeń do wykrywania stanów awaryjnych pojazdów kolejowych podczas biegu pociągu oraz nieprawidłowości załadunku wagonów,
-f) urządzeń kontroli niezajętości torów i rozjazdów: obwodów torowych, liczników osi,
+f) urządzeń kontroli niezajętości torów i rozjazdów: – obwodów torowych, – liczników osi,
 g) urządzeń do przestawiania lub kontrolowania ruchomych elementów rozjazdu kolejowego,
 h) sygnalizatora kolejowego,
 i) urządzeń łączności przewodowej i bezprzewodowej, w tym zapowiadawczej, strażnicowej i stacyjnoruchowej, z wyjątkiem urządzeń cyfrowego systemu łączności radiowej (GSMR),
-j) urządzeń łączności bezprzewodowej, w tym pociągowej, manewrowej, drogowej i utrzymania, z wyjątkiem urząk) rejestratora rozmów związanych z prowadzeniem ruchu kolejowego,
-l) urządzeń oddziaływania tor pojazd, z wyjątkiem balis europejskiego systemu sterowania pociągiem (ETCS),
+j) urządzeń łączności bezprzewodowej, w tym pociągowej, manewrowej, drogowej i utrzymania, z wyjątkiem urządzeń cyfrowego systemu łączności radiowej (GSMR),
+k) rejestratora rozmów związanych z prowadzeniem ruchu kolejowego,
+l) urządzeń oddziaływania tor – pojazd, z wyjątkiem balis europejskiego systemu sterowania pociągiem (ETCS),
 m) urządzeń kontroli prowadzenia pociągu, z wyjątkiem urządzeń europejskiego systemu sterowania pociągiem (ETCS),
 n) systemu telewizji użytkowej przeznaczonej do prowadzenia ruchu kolejowego,
 o) systemu zdalnego sterowania ruchem kolejowym.
@@ -145,12 +148,12 @@ g) skrzyżowania torów kolejowych;
 a) stacyjnych urządzeń sterowania ruchem kolejowym,
 b) urządzeń blokady liniowej,
 c) systemu zabezpieczenia ruchu na przejazdach kolejowych,
-d) urządzeń kontroli niezajętości torów i rozjazdów: obwodów torowych, liczników osi,
+d) urządzeń kontroli niezajętości torów i rozjazdów: – obwodów torowych, – liczników osi,
 e) urządzeń do przestawiania lub kontrolowania ruchomych elementów rozjazdu kolejowego,
 f) sygnalizatora kolejowego,
 g) urządzeń łączności przewodowej i bezprzewodowej, przeznaczonej na potrzeby prowadzenia ruchu kolejowego,
 h) rejestratora rozmów związanych z prowadzeniem ruchu kolejowego,
-i) urządzeń oddziaływania tor pojazd,
+i) urządzeń oddziaływania tor – pojazd,
 j) systemu automatycznego prowadzenia pociągu,
 k) systemu telewizji użytkowej przeznaczonej do prowadzenia ruchu kolejowego,
 l) systemu zdalnego sterowania ruchem kolejowym,
@@ -178,7 +181,7 @@ h) skrzyżowania torów kolejowych;
 a) urządzeń sterowania ruchem kolejowym,
 b) urządzeń blokady liniowej,
 c) systemu zabezpieczenia ruchu na przejazdach kolejowych,
-d) urządzeń kontroli niezajętości torów i rozjazdów: obwodów torowych, liczników osi,
+d) urządzeń kontroli niezajętości torów i rozjazdów: – obwodów torowych, – liczników osi,
 e) urządzeń do przestawiania lub kontrolowania ruchomych elementów rozjazdu kolejowego,
 f) sygnalizatora kolejowego,
 g) urządzeń łączności przewodowej i bezprzewodowej, w tym zapowiadawczej, strażnicowej, stacyjnoruchowej, pociągowej, manewrowej, drogowej i utrzymania,
@@ -201,16 +204,17 @@ d) podrozjazdnicy,
 e) mostownicy,
 f) podpory blokowej,
 g) rozjazdu kolejowego,
+h) skrzyżowania torów kolejowych;
 2) następujących urządzeń przeznaczonych do prowadzenia ruchu kolejowego:
 a) urządzeń sterowania ruchem kolejowym,
 b) urządzeń blokady liniowej,
 c) systemu zabezpieczenia ruchu na przejazdach kolejowych,
-d) urządzeń kontroli niezajętości torów i rozjazdów: obwodów torowych, liczników osi,
+d) urządzeń kontroli niezajętości torów i rozjazdów: – obwodów torowych, – liczników osi,
 e) urządzeń do przestawiania lub kontrolowania ruchomych elementów rozjazdu kolejowego,
 f) sygnalizatora kolejowego,
 g) urządzeń łączności przewodowej i bezprzewodowej, w tym zapowiadawczej, strażnicowej, stacyjnoruchowej, manewrowej i utrzymania,
 h) rejestratora rozmów związanych z prowadzeniem ruchu kolejowego,
-i) urządzeń oddziaływania tor pojazd,
+i) urządzeń oddziaływania tor – pojazd,
 j) systemu automatycznego prowadzenia pociągu,
 k) systemu telewizji użytkowej przeznaczonej do prowadzenia ruchu kolejowego,
 l) systemu zdalnego sterowania ruchem kolejowym,
@@ -237,12 +241,12 @@ h) skrzyżowania torów kolejowych;
 a) stacyjnych urządzeń sterowania ruchem kolejowym,
 b) urządzeń blokady liniowej,
 c) systemu zabezpieczenia ruchu na przejazdach kolejowych,
-d) urządzeń kontroli niezajętości torów i rozjazdów: obwodów torowych, liczników osi,
+d) urządzeń kontroli niezajętości torów i rozjazdów: – obwodów torowych, – liczników osi,
 e) urządzeń do przestawiania lub kontrolowania ruchomych elementów rozjazdu kolejowego,
 f) sygnalizatora kolejowego,
 g) urządzeń łączności przewodowej i bezprzewodowej, w tym zapowiadawczej, strażnicowej, stacyjnoruchowej, pociągowej, manewrowej, drogowej i utrzymania,
 h) rejestratora rozmów związanych z prowadzeniem ruchu kolejowego,
-i) urządzeń oddziaływania tor pojazd,
+i) urządzeń oddziaływania tor – pojazd,
 j) systemu automatycznego prowadzenia pociągu,
 k) systemu telewizji użytkowej przeznaczonej do prowadzenia ruchu kolejowego,
 l) systemu zdalnego sterowania ruchem kolejowym,
@@ -260,7 +264,8 @@ d) pojazdu specjalnego.
 1) pojazdu trakcyjnego,
 2) wagonu pasażerskiego,
 3) wagonu towarowego,
-4) pojazdu specjalnego przeznaczonego wyłącznie do użytku lokalnego, pojazdu historycznego lub pojazdu turystycznego eksploatowanego na sieci kolejowej, niezależnie od drogi kolejowej, po której się porusza.
+4) pojazdu specjalnego – przeznaczonego wyłącznie do użytku lokalnego, pojazdu historycznego lub pojazdu turystycznego eksploatowanego na sieci kolejowej, niezależnie od drogi kolejowej, po której się porusza.
+§ 12. Zakres badań technicznych dla typów budowli obejmuje:
 1) badanie zgodności z wymaganiami określonymi we właściwych, dla danego typu budowli, specyfikacjach technicznych i dokumentach normalizacyjnych;
 2) badanie zgodności z warunkami technicznymi, określonymi w przepisach o warunkach technicznych, jakim powinny odpowiadać budowle kolejowe i ich usytuowanie;
 3) analizę wyników prób eksploatacyjnych.
@@ -269,10 +274,10 @@ d) pojazdu specjalnego.
 2) analizę wyników prób eksploatacyjnych;
 3) badanie interfejsów z przewidzianymi do zabudowy urządzeniami powiązanymi, dla których wymagane jest uzyskanie świadectwa dopuszczenia do eksploatacji typu.
 2. Zakres badań technicznych dla określonych typów urządzeń obejmuje dodatkowo:
-1) dla stacyjnych urządzeń sterowania ruchem kolejowym, urządzeń blokady liniowej, urządzeń kontroli niezajętości torów i rozjazdów, systemu zabezpieczenia ruchu na przejazdach kolejowych, sygnalizatora kolejowego, urządzeń oddziaływania tor pojazd, systemu automatycznego prowadzenia pociągu, systemu telewizji użytkowej przeznaczonej do prowadzenia ruchu kolejowego, systemu zdalnego sterowania ruchem kolejowym, systemu urządzeń sterowania rozrządem, w tym hamulca torowego:
+1) dla stacyjnych urządzeń sterowania ruchem kolejowym, urządzeń blokady liniowej, urządzeń kontroli niezajętości torów i rozjazdów, systemu zabezpieczenia ruchu na przejazdach kolejowych, sygnalizatora kolejowego, urządzeń oddziaływania tor – pojazd, systemu automatycznego prowadzenia pociągu, systemu telewizji użytkowej przeznaczonej do prowadzenia ruchu kolejowego, systemu zdalnego sterowania ruchem kolejowym, systemu urządzeń sterowania rozrządem, w tym hamulca torowego:
 a) badanie funkcjonalne w warunkach normalnych,
 b) badanie funkcjonalne w warunkach oddziaływania uszkodzeń wraz z oceną zdolności pozostawania w stanie bezpiecznym, przy zmiennych wartościach parametrów napięcia, prądu i częstotliwości,
-c) badanie funkcjonalne w warunkach oddziaływania czynników zewnętrznych: badania klimatyczne, badania na oddziaływania mechaniczne, badania na oddziaływania elektryczne, w tym kompatybilności elektromagnetycznej, ocenę zabezpieczenia przed nieautoryzowanym dostępem, badanie wytrzymałościowe;
+c) badanie funkcjonalne w warunkach oddziaływania czynników zewnętrznych: – badania klimatyczne, – badania na oddziaływania mechaniczne, – badania na oddziaływania elektryczne, w tym kompatybilności elektromagnetycznej, – ocenę zabezpieczenia przed nieautoryzowanym dostępem, – badanie wytrzymałościowe;
 2) dla urządzeń łączności przewodowej i bezprzewodowej oraz rejestratora rozmów związanych z prowadzeniem ruchu kolejowego badanie zgodności z warunkami technicznymi, w tym badanie:
 a) funkcjonalne i niezawodnościowe,
 b) kompatybilności elektromagnetycznej,
@@ -290,6 +295,7 @@ b) sprawdzenie rezystancji izolacji,
 c) sprawdzenie wytrzymałości elektrycznej izolacji,
 d) sprawdzenie temperatury nagrzewania,
 e) sprawdzenie odporności powłoki izolacyjnej na temperaturę,
+f) sprawdzenie odporności na korozję – wpływ mgły solnej;
 5) dla wyłącznika szybkiego:
 a) oględziny i sprawdzenie zgodności z dokumentacją techniczną,
 b) pomiary rezystancji izolacji,
@@ -304,8 +310,8 @@ j) sprawdzenie charakterystyki zwarciowej,
 k) wyznaczenie wartości prądów krytycznych,
 l) wyznaczenie czasu wyłączania prądów krytycznych;
 6) dla sieci jezdnej:
-a) badania statyczne z konstrukcjami wsporczymi polegające na sprawdzeniu zgodności parametrów z wymagania mi technicznymi, w tym: zawieszenia przewodów jezdnych, ich wysokości, pochylenia oraz odsuwu od osi toru, parametrów geometrycznych sieci jezdnej, naciągu przewodów jezdnych i lin nośnych w różnych warunkach atmosferycznych, z uwzględnieniem zmian temperatury i oblodzenia,
-b) badania dynamiczne, w tym: uniesienia przewodów jezdnych w punkcie podwieszenia przy najwyższej dopuszczalnej prędkości jazdy na linii kolejowej, sprawdzenie współpracy odbieraka prądu z siecią jezdną, w szczególności czasu trwania przerw stykowych i zmienności wartości siły stykowej oraz w warunkach oszronienia i oblodzenia przewodu jezdnego, pomiar odsuwu przewodów jezdnych w czasie jazdy pojazdów kolejowych, sprawdzenie wartości prędkości krytycznej, badanie przemieszczeń i przyspieszeń ślizgacza pod wpływem ruchu pojazdu trakcyjnego;
+a) badania statyczne z konstrukcjami wsporczymi polegające na sprawdzeniu zgodności parametrów z wymagania mi technicznymi, w tym: – zawieszenia przewodów jezdnych, ich wysokości, pochylenia oraz odsuwu od osi toru, – parametrów geometrycznych sieci jezdnej, – naciągu przewodów jezdnych i lin nośnych w różnych warunkach atmosferycznych, z uwzględnieniem zmian temperatury i oblodzenia,
+b) badania dynamiczne, w tym: – uniesienia przewodów jezdnych w punkcie podwieszenia przy najwyższej dopuszczalnej prędkości jazdy na linii kolejowej, – sprawdzenie współpracy odbieraka prądu z siecią jezdną, w szczególności czasu trwania przerw stykowych i zmienności wartości siły stykowej oraz w warunkach oszronienia i oblodzenia przewodu jezdnego, – pomiar odsuwu przewodów jezdnych w czasie jazdy pojazdów kolejowych, – sprawdzenie wartości prędkości krytycznej, – badanie przemieszczeń i przyspieszeń ślizgacza pod wpływem ruchu pojazdu trakcyjnego;
 7) dla trzeciej szyny w metrze sprawdzenie zgodności jej parametrów z wymaganiami technicznymi, dotyczącymi w szczególności:
 a) parametrów geometrycznych trzeciej szyny,
 b) współpracy odbieraka prądu z trzecią szyną,
@@ -348,6 +354,7 @@ e) wpływu na urządzenia sterowania ruchem kolejowym;
 1) sprawdzenie charakterystyk trakcyjnych pojazdu trakcyjnego w zakresie wyznaczenia:
 a) linii przyczepności na obwodzie kół napędnych,
 b) linii siły pociągowej w funkcji prędkości,
+c) czasu zadziałania urządzeń przeciwpoślizgowych i eliminowania poślizgu;
 2) sprawdzenie odbieraka prądu i jego współpracy z siecią jezdną, w szczególności:
 a) czasu trwania przerw stykowych i zmienności wartości siły stykowej,
 b) w warunkach oszronienia i oblodzenia przewodu jezdnego;
@@ -381,6 +388,7 @@ d) ergonomii pomieszczeń dla pasażerów,
 e) komfortu klimatycznego pomieszczeń dla pasażerów,
 f) oświetlenia zewnętrznej i wewnętrznej części wejścia do pojazdu,
 g) oświetlenia pomieszczeń dla pasażerów,
+h) odporności szyb okiennych na uderzenie;
 15) sprawdzenie w pojeździe trakcyjnym zamocowania stopni, wysokości instalacji poręczy i uchwytów, osłon części wirujących, tablic informacyjnych, zabezpieczeń przed urazami mechanicznymi i szerokości przejść;
 16) sprawdzenie urządzeń zewnętrznych pojazdu trakcyjnego, w tym:
 a) połączeń międzywagonowych, mostków przejściowych i osłon przejść międzyczłonowych,
@@ -442,7 +450,8 @@ b) poziomu drgań mechanicznych pod względem oddziaływania na organizm ludzki,
 c) poziomu hałasu słyszalnego,
 d) mikroklimatu kabiny maszynisty oraz zmian ciśnienia wewnętrznego;
 10) sprawdzenie w pojeździe specjalnym zamocowania stopni, wysokości instalacji poręczy i uchwytów, osłon części wirujących, tablic informacyjnych, zabezpieczeń przed urazami mechanicznymi i szerokości przejść;
-11) ocenę skuteczności zabezpieczenia w pojeździe specjalnym elementów roboczych mających wpływ na bezpieczeń§ 15. Zakres badań technicznych dla typu pojazdu kolejowego, w zależności od jego przeznaczenia, powinien ponadto obejmować wymagania określone w Regulaminie międzynarodowego przewozu kolejami towarów niebezpiecznych (RID), stanowiącym załącznik C do Konwencji o międzynarodowym przewozie kolejami (COTIF) (Dz. U. z 2013 r. poz. 840).
+11) ocenę skuteczności zabezpieczenia w pojeździe specjalnym elementów roboczych mających wpływ na bezpieczeństwo ruchu w czasie jazdy transportowej.
+§ 15. Zakres badań technicznych dla typu pojazdu kolejowego, w zależności od jego przeznaczenia, powinien ponadto obejmować wymagania określone w Regulaminie międzynarodowego przewozu kolejami towarów niebezpiecznych (RID), stanowiącym załącznik C do Konwencji o międzynarodowym przewozie kolejami (COTIF) (Dz. U. z 2013 r. poz. 840).
 § 16. W przypadkach uzasadnionych względami bezpieczeństwa eksploatacji kolei, oprócz badań technicznych, o których mowa w niniejszym rozdziale, Prezes UTK może zażądać przeprowadzenia dodatkowych badań.
 § 17. Na wniosek podmiotu ubiegającego się o wydanie świadectwa dopuszczenia do eksploatacji typu zakres badań technicznych, o których mowa w niniejszym rozdziale, może być ograniczony przez Prezesa UTK, w przypadku gdy typ spełnia następujące warunki:
 1) posiada certyfikaty uprawnionych jednostek badawczych krajowych lub mających siedzibę na terytorium państw członkowskich Unii Europejskiej,
@@ -450,6 +459,7 @@ d) mikroklimatu kabiny maszynisty oraz zmian ciśnienia wewnętrznego;
 3) posiada pozytywne opinie użytkowników z dotychczasowej eksploatacji, lub
 4) typ pojazdu kolejowego jest przeznaczony do modernizacji.
 § 18. Jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, określa zakres badań technicznych niezbędnych do stwierdzenia zgodności z typem, biorąc pod uwagę dokumentację techniczną, w tym dla urządzeń sterowania ruchem kolejowym dowód bezpieczeństwa i jego weryfikację, oraz dokumenty potwierdzające dotychczasowy przebieg eksploatacji dostarczone przez podmiot, który ubiega się o uzyskanie certyfikatu zgodności z typem.
+§ 19. 1. Próby eksploatacyjne przeprowadzane są zgodnie z programem prób eksploatacyjnych opracowanym przez jednostkę organizacyjną, o której mowa w art. 22g ust. 9 ustawy, uzgodnionym z podmiotem, na terenie którego prowadzone będą próby.
 2. Próby eksploatacyjne przeprowadzane są na eksploatowanej linii kolejowej, bocznicy kolejowej, torze doświadczalnym lub infrastrukturze metra, w warunkach identycznych albo zbliżonych do warunków normalnej pracy podczas eksploatacji.
 3. Warunkiem rozpoczęcia prób eksploatacyjnych jest zawarcie porozumienia w sprawie wykonania prób eksploatacyjnych, którego wzór określa załącznik nr 2 do rozporządzenia.
 4. W programie prób eksploatacyjnych należy określić minimalną liczbę egzemplarzy oraz podstawowe parametry wymagane do prawidłowego przeprowadzenia prób eksploatacyjnych oraz okres i harmonogram odbywania prób eksploatacyjnych. Próby eksploatacyjne powinny zostać zakończone przed upływem terminu ważności świadectwa dopuszczenia do eksploatacji typu wydanego na czas określony.
@@ -465,8 +475,9 @@ d) mikroklimatu kabiny maszynisty oraz zmian ciśnienia wewnętrznego;
 9. Podczas trwania prób eksploatacyjnych jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, może dokonywać sprawdzeń niezapowiedzianych. Okoliczności uzasadniające przeprowadzenie tych sprawdzeń określa się w programie prób eksploatacyjnych.
 10. Podczas sprawdzeń, o których mowa w ust. 7 i 9, jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, może przeprowadzać badania lub testy. Okoliczności uzasadniające przeprowadzenie tych badań i testów określa się w programie prób eksploatacyjnych.
 11. W uzasadnionych przypadkach jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, może przeprowadzić dodatkowe sprawdzenia obejmujące w szczególności badania lub testy, nieokreślone w programie prób eksploatacyjnych.
-12. Po każdym sprawdzeniu, o którym mowa w ust. 6, 8 i 11, jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, sporządza sprawozdanie, a w przypadku przeprowadzania badań lub testów protokoły z przeprowadzonych badań lub testów.
+12. Po każdym sprawdzeniu, o którym mowa w ust. 6, 8 i 11, jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, sporządza sprawozdanie, a w przypadku przeprowadzania badań lub testów – protokoły z przeprowadzonych badań lub testów.
 13. Jeżeli próby eksploatacyjne nie mogą być wykonane w terminie przewidzianym w programie prób eksploatacyjnych z przyczyn niezależnych od podmiotu ubiegającego się o wydanie świadectwa dopuszczenia do eksploatacji typu lub ze względu na konieczność przeprowadzenia dodatkowych badań lub ekspertyz, podmiot ten występuje z wnioskiem o wydanie nowego świadectwa na czas określony, przewidziany na wykonanie tych prób.
+§ 20. 1. Przed złożeniem wniosku o wydanie świadectwa dopuszczenia do eksploatacji typu podmiot ubiegający się o jego wydanie składa wniosek o przeprowadzenie badań technicznych i wydanie certyfikatu zgodności typu do wybranej przez siebie jednostki organizacyjnej, o której mowa w art. 22g ust. 9 ustawy.
 2. Wniosek, o którym mowa w ust. 1, powinien zawierać:
 1) nazwę i adres podmiotu, który składa wniosek;
 2) pisemną deklarację, że ten sam wniosek nie został złożony w żadnej innej jednostce organizacyjnej, o której mowa w art. 22g ust. 9 ustawy;
@@ -478,10 +489,11 @@ d) mikroklimatu kabiny maszynisty oraz zmian ciśnienia wewnętrznego;
 1) ogólny opis urządzenia lub budowli;
 2) projekt koncepcyjny i rysunki produkcyjne oraz schematy elementów, podzespołów, obwodów;
 3) opisy i wyjaśnienia niezbędne do zrozumienia wspomnianych rysunków i schematów oraz zasad funkcjonowania (w tym warunków technicznych eksploatacji) i zasad utrzymania urządzenia lub budowli;
-4) warunki integracji urządzenia lub budowli w ich środowisku systemowym (podzespół, zespół, podsystem) oraz nie5) wykaz zastosowanych specyfikacji technicznych i dokumentów normalizacyjnych oraz opisy rozwiązań przyjętych w celu spełnienia zawartych w nich wymagań. W przypadku częściowego zastosowania specyfikacji technicznych i dokumentów normalizacyjnych, w dokumentacji technicznej określa się, które części zostały zastosowane;
+4) warunki integracji urządzenia lub budowli w ich środowisku systemowym (podzespół, zespół, podsystem) oraz niezbędne warunki dotyczące interfejsów;
+5) wykaz zastosowanych specyfikacji technicznych i dokumentów normalizacyjnych oraz opisy rozwiązań przyjętych w celu spełnienia zawartych w nich wymagań. W przypadku częściowego zastosowania specyfikacji technicznych i dokumentów normalizacyjnych, w dokumentacji technicznej określa się, które części zostały zastosowane;
 6) wyniki wykonanych obliczeń projektowych, przeprowadzonych badań oraz sprawozdania z testów;
 7) dowody potwierdzające adekwatność przyjętego rozwiązania technicznego, obejmujące, w stosownych przypadkach: wyniki testów przeprowadzonych przez odpowiednie laboratorium producenta lub przez inne laboratorium badawcze, któremu zlecono przeprowadzenie badań, dowód bezpieczeństwa i jego weryfikację;
-8) informacje o procedurze gromadzenia danych umożliwiające ich odczytanie i ocenę w przypadku typów urządzeń sterowania ruchem kolejowym oraz typów pojazdów kolejowych.
+8) informacje o procedurze gromadzenia danych umożliwiające ich odczytanie i ocenę – w przypadku typów urządzeń sterowania ruchem kolejowym oraz typów pojazdów kolejowych.
 4. Na podstawie wniosku jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, przeprowadza badania techniczne, o których mowa w rozdziale 4.
 5. Na podstawie dokumentacji, o której mowa w ust. 2 pkt 4, a także po przeprowadzeniu badań technicznych, o których mowa w rozdziale 4, z wyłączeniem badań, które należy przeprowadzić podczas prób eksploatacyjnych, jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, sporządza opinię techniczną obejmującą ocenę zgodności z wymaganiami określonymi we właściwych dla danego typu specyfikacjach technicznych i dokumentach normalizacyjnych.
 6. Jeżeli dany typ spełnia wymagania określone we właściwych dla danego typu specyfikacjach technicznych i dokumentach normalizacyjnych, jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, wydaje podmiotowi, o którym mowa w ust. 1:
@@ -496,12 +508,13 @@ c) wszelkie istotne informacje zawierające charakterystykę techniczną wyrobu.
 10. Po przeprowadzeniu prób eksploatacyjnych podmiot, który eksploatował budowlę, urządzenie lub pojazd kolejowy podczas ich trwania, sporządza opinię eksploatacyjną obejmującą ocenę podstawowych parametrów danego typu, cech eksploatacyjnych zaobserwowanych podczas prób eksploatacyjnych oraz ocenę przydatności stosowania danego typu.
 11. Po przeprowadzeniu prób eksploatacyjnych jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, sporządza opinię techniczną obejmującą całość procesu dopuszczania do eksploatacji, w tym raporty z badań technicznych, opinię eksploatacyjną wydaną przez podmiot, który eksploatował budowlę, urządzenie lub pojazd kolejowy podczas prób eksploatacyjnych i ocenę przeprowadzonych prób eksploatacyjnych.
 12. Na podstawie opinii technicznej, o której mowa w ust. 11, jednostka organizacyjna, o której mowa w art. 22g ust. 9 ustawy, sporządza certyfikat zgodności typu, którego wzór określa załącznik nr 1 do rozporządzenia, niezbędny do uzyskania świadectwa dopuszczenia do eksploatacji na czas nieokreślony. Przepisy ust. 7 stosuje się odpowiednio.
-§ 21. 1. Dla dopuszczonych do eksploatacji urządzeń i budowli, w których dokonano zmian mających wpływ na bezpieczeństwo systemu kolei, w szczególności polegających na zastosowaniu nowego typu podzespołów lub wprowadzeniu zmian w oprogramowaniu, wymagane jest uzyskanie nowego certyfikatu zgodności typu i świadectwa dopuszczenia do eksploatacji typu dla pierwszego egzemplarza, jeżeli konieczność uzyskania tych dokumentów została stwierdzona w ramach procesu oceny ryzyka przeprowadzonego zgodnie z przepisami Komisji Europejskiej dotyczącymi wspólnej metody
+§ 21. 1. Dla dopuszczonych do eksploatacji urządzeń i budowli, w których dokonano zmian mających wpływ na bezpieczeństwo systemu kolei, w szczególności polegających na zastosowaniu nowego typu podzespołów lub wprowadzeniu zmian w oprogramowaniu, wymagane jest uzyskanie nowego certyfikatu zgodności typu i świadectwa dopuszczenia do eksploatacji typu dla pierwszego egzemplarza, jeżeli konieczność uzyskania tych dokumentów została stwierdzona w ramach procesu oceny ryzyka przeprowadzonego zgodnie z przepisami Komisji Europejskiej dotyczącymi wspólnej metody oceny bezpieczeństwa w zakresie wyceny i oceny ryzyka, z zastrzeżeniem ust. 2.
 2. Przepisu ust. 1 nie stosuje się do urządzeń i budowli eksploatowanych:
 1) na bocznicach kolejowych;
 2) na infrastrukturze kolejowej obejmującej linie kolejowe o szerokości torów mniejszej niż 1435 mm;
 3) w metrze;
 4) na sieciach kolejowych, o których mowa w art. 3 ust. 8 ustawy.
+§ 22. 1. W przypadkach, o których mowa w art. 22f ust. 8 pkt 1 ustawy, producent albo jego upoważniony przedstawiciel wystawia deklaracje zgodności z typem dla kolejnych egzemplarzy zgodnych z typem, dla którego Prezes UTK wydał świadectwo dopuszczenia do eksploatacji typu, po przeprowadzeniu procedury oceny zgodności z typem.
 2. Jeżeli świadectwo dopuszczenia do eksploatacji typu zostało wydane na czas określony, deklaracja zgodności z typem wydawana dla kolejnych egzemplarzy zgodnych z dopuszczonym typem wydawana jest na okres nie dłuższy niż okres ważności tego świadectwa.
 3. Producent albo jego upoważniony przedstawiciel przeprowadza procedurę oceny zgodności z typem zgodnie z wybranym przez siebie modułem, określonym w załączniku nr 2 do decyzji Parlamentu Europejskiego i Rady nr 768/2008/WE z dnia 9 lipca 2008 r. w sprawie wspólnych ram dotyczących wprowadzania produktów do obrotu, uchylającej decyzję Rady 93/465/EWG (Dz. Urz. UE L 218 z 13.08.2008, str. 82), zwanej dalej „decyzją nr 768/2008/WE”, z tym że ilekroć w tych przepisach jest mowa o „jednostce notyfikowanej” albo „certyfikacie badania typu WE”, rozumie się przez to odpowiednio „jednostkę organizacyjną, o której mowa w art. 22g ust. 9 ustawy” albo „certyfikat zgodności typu”.
 4. Przy przeprowadzaniu procedury oceny zgodności z typem przez producenta albo jego upoważnionego przedstawiciela nie stosuje się modułów A, A1, A2, B, D1, E1, F1, G, H i H1, określonych w załączniku nr 2 do decyzji nr 768/2008/WE.
@@ -509,26 +522,27 @@ c) wszelkie istotne informacje zawierające charakterystykę techniczną wyrobu.
 § 23. 1. W przypadkach, o których mowa w art. 22f ust. 8 pkt 2 ustawy, procedura oceny zgodności z typem obejmuje przeprowadzenie przez jednostkę organizacyjną, o której mowa w art. 22g ust. 9 ustawy, badań technicznych niezbędnych do stwierdzenia zgodności z typem. Modułów określonych w załączniku nr 2 do decyzji nr 768/2008/WE nie stosuje się.
 2. Jeżeli badania techniczne niezbędne do stwierdzenia zgodności z typem zakończyły się wynikiem pozytywnym, jednostka organizacyjna, która je przeprowadziła, wydaje certyfikat zgodności z typem, którego wzór określa załącznik nr 4 do rozporządzenia.
 3. Na podstawie certyfikatu zgodności z typem podmiot zamawiający, wykonawca modernizacji, importer, inwestor, dysponent, zarządca, użytkownik bocznicy albo przewoźnik kolejowy wystawia deklarację zgodności z typem, zgodnie ze wzorem określonym w załączniku nr 5 do rozporządzenia.
+§ 24. Dla projektów obejmujących budowę, modernizację, odnowienie lub remont, rozpoczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia, nie jest wymagane:
 1) załączanie certyfikatu zgodności typu do wniosku o wydanie świadectwa dopuszczenia do eksploatacji typu;
 2) uzyskanie świadectwa dopuszczenia do eksploatacji typu dla rodzajów urządzeń i budowli wymienionych w rozdziale 3 i nieujętych dotychczas w wykazie określonym w rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 7 sierpnia 2012 r. w sprawie wykazu typów budowli przeznaczonych do prowadzenia ruchu kolejowego, typów urządzeń przeznaczonych do prowadzenia ruchu kolejowego oraz typów pojazdów kolejowych, na które są wydawane świadectwa dopuszczenia do eksploatacji typu (Dz. U. poz. 911).
 § 25. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-WZÓR Infrastruktury i Rozwoju z dnia 13 maja 2014 r.
+Załączniki do rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja 2014 r.
 
-#### Rozdział 1 przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 przepisy ogólne
 
-#### Rozdział 2 Tryb wydawania, odmowy wydania i cofania świadectw dopuszczenia do eksploatacji typu § 2. 1. Świadectwo dopuszczenia do eksploatacji typu wydaje się na podstawie wniosku zawierającego:
+#### Rozdział 2 Tryb wydawania, odmowy wydania i cofania świadectw dopuszczenia do eksploatacji typu
 
-#### Rozdział 3 Wykaz rodzajów budowli, urządzeń oraz pojazdów kolejowych, dla których wymagane jest uzyskanie świadectwa dopuszczenia do eksploatacji typu § 6. W przypadku, o którym mowa w art. 25d ust. 1 pkt 3 ustawy, świadectwo dopuszczenia do eksploatacji typu jest wydawane na każdy typ:
+#### Rozdział 3 Wykaz rodzajów budowli, urządzeń oraz pojazdów kolejowych, dla których wymagane jest uzyskanie świadectwa dopuszczenia do eksploatacji typu
 
-#### Rozdział 4 zakres badań technicznych koniecznych do wydania świadectwa dopuszczenia do eksploatacji typu oraz stwierdzenia zgodności z typem § 12. Zakres badań technicznych dla typów budowli obejmuje:
+#### Rozdział 4 zakres badań technicznych koniecznych do wydania świadectwa dopuszczenia do eksploatacji typu oraz stwierdzenia zgodności z typem
 
-#### Rozdział 5 Warunki przeprowadzania prób eksploatacyjnych § 19. 1. Próby eksploatacyjne przeprowadzane są zgodnie z programem prób eksploatacyjnych opracowanym przez jednostkę organizacyjną, o której mowa w art. 22g ust. 9 ustawy, uzgodnionym z podmiotem, na terenie którego prowadzone będą próby.
+#### Rozdział 5 Warunki przeprowadzania prób eksploatacyjnych
 
-#### Rozdział 6 Szczegółowe warunki i tryb wydawania certyfikatów zgodności typu § 20. 1. Przed złożeniem wniosku o wydanie świadectwa dopuszczenia do eksploatacji typu podmiot ubiegający się o jego wydanie składa wniosek o przeprowadzenie badań technicznych i wydanie certyfikatu zgodności typu do wybranej przez siebie jednostki organizacyjnej, o której mowa w art. 22g ust. 9 ustawy.
+#### Rozdział 6 Szczegółowe warunki i tryb wydawania certyfikatów zgodności typu
 
-#### Rozdział 7 Szczegółowe warunki i tryb wydawania certyfikatów zgodności z typem i deklaracji zgodności z typem oraz procedura oceny zgodności z typem § 22. 1. W przypadkach, o których mowa w art. 22f ust. 8 pkt 1 ustawy, producent albo jego upoważniony przedstawiciel wystawia deklaracje zgodności z typem dla kolejnych egzemplarzy zgodnych z typem, dla którego Prezes UTK wydał świadectwo dopuszczenia do eksploatacji typu, po przeprowadzeniu procedury oceny zgodności z typem.
+#### Rozdział 7 Szczegółowe warunki i tryb wydawania certyfikatów zgodności z typem i deklaracji zgodności z typem oraz procedura oceny zgodności z typem
 
-#### Rozdział 8 przepisy przejściowe i końcowe § 24. Dla projektów obejmujących budowę, modernizację, odnowienie lub remont, rozpoczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia, nie jest wymagane:
+#### Rozdział 8 przepisy przejściowe i końcowe
 
-## Załącznik nr 1 — WZÓR CERTYFIKAT ZGODNOŚCI TYPU POROZUMIENIE W SPRAWIE WYKONANIA PRÓB EKSPLOATACYJNYCH WZÓR POROZUMIENIE W SPRAWIE WYKONANIA PRÓB EKSPLOATACYJNYCH Załącznik nr 3 WZÓR ŚWIADECTWO dopuszczenia do eksploatacji typu Rodzaj i typ budowli/urządzenia/pojazdu kolejowego*: Producent lub jego upoważniony przedstawiciel: Charakterystyka budowli/urządzenia/pojazdu kolejowego*: Badania techniczne budowli/ urządzenia/ pojazdu kolejowego*: Warunki techniczne eksploatacji: Świadectwo jest ważne: Świadectwo wydano na wniosek: Podstawa prawna: WZÓR Załącznik nr 4 WZÓR CERTYFIKAT ZGODNOŚCI Z TYPEM NR: WZÓR Załącznik nr 5 WZÓR DEKLARACJA ZGODNOŚCI Z TYPEM NR: WZÓR
+## Załącznik nr 1 — WZÓR WZÓR CERTYFIKAT ZGODNOŚCI TYPU WZÓR POROZUMIENIE POROZUMIENIE W SPRAWIE W SPRAWIE WYKONANIA WYKONANIA PRÓB PRÓB EKSPLOATACYJNYCH EKSPLOATACYJNYCH Załącznik nr 3 WZÓR WZÓR ŚWIADECTWO dopuszczenia do eksploatacji typu Rodzaj i typ budowli/urządzenia/pojazdu kolejowego*: Producent lub jego upoważniony przedstawiciel: Charakterystyka budowli/urządzenia/pojazdu kolejowego*: Badania techniczne budowli/ urządzenia/ pojazdu kolejowego*: Warunki techniczne eksploatacji: Świadectwo jest ważne: Świadectwo wydano na wniosek: Podstawa prawna: Załącznik nr 4 WZÓR WZÓR NR: CERTYFIKAT ZGODNOŚCI Z TYPEM Załącznik nr 5 WZÓR WZÓR NR: DEKLARACJA ZGODNOŚCI Z TYPEM
 

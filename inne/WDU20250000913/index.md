@@ -8,7 +8,7 @@ pos: 913
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
@@ -31,7 +31,24 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa dotyczy osób, których niepełnosprawność została potwierdzona orzeczeniem:
 
+- **1)** o zakwalifikowaniu przez organy orzekające do jednego z trzech stopni niepełnosprawności określonych w art. 3 lub
+- **2)** o całkowitej lub częściowej niezdolności do pracy na podstawie odrębnych przepisów, lub
+- **3)** o niepełnosprawności, wydanym przed ukończeniem 16 roku życia – zwanych dalej „osobami niepełnosprawnymi”.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** najniższym wynagrodzeniu – oznacza to minimalne wynagrodzenie za pracę obowiązujące w grudniu roku poprzedniego, ustalane na podstawie odrębnych przepisów;
+- **2)** osobie niepełnosprawnej bezrobotnej lub niepełnosprawnej poszukującej pracy – oznacza to osobę niepełnosprawną bezrobotną lub niepełnosprawną poszukującą pracy w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);
+- **3)** organizacjach pozarządowych – oznacza to organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940);
+- **4)** przeciętnym wynagrodzeniu – oznacza to przeciętne miesięczne wynagrodzenie w gospodarce narodowej w poprzednim kwartale od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718 i 769);
+- **4a)** kosztach płacy – oznacza to wynagrodzenie brutto oraz finansowane przez pracodawcę obowiązkowe składki na ubezpieczenia emerytalne, rentowe i wypadkowe naliczone od tego wynagrodzenia i obowiązkowe składki na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Solidarnościowy;
+- **5)** uczestnictwie w życiu społecznym – oznacza to możliwość pełnienia ról społecznych oraz pokonywania barier, w szczególności psychologicznych, architektonicznych, urbanistycznych, transportowych i w komunikowaniu się;
+- **6)** wskaźniku zatrudnienia osób niepełnosprawnych – oznacza to przeciętny miesięczny udział procentowy osób niepełnosprawnych w zatrudnieniu ogółem, w przeliczeniu na pełny wymiar czasu pracy;
+- **7)** warunkach pracy chronionej – oznacza to warunki, o których mowa w art. 28 albo art. 29, i uzyskanie statusu zakładu pracy chronionej albo zakładu aktywności zawodowej;
+- **8)** przystosowanym stanowisku pracy osoby niepełnosprawnej – oznacza to stanowisko pracy, które jest oprzyrządowane i dostosowane odpowiednio do potrzeb wynikających z rodzaju i stopnia niepełnosprawności;
+- **9)** staroście – oznacza to także prezydenta miasta na prawach powiatu;
+- **10)** niepełnosprawności – oznacza to trwałą lub okresową niezdolność do wypełniania ról społecznych z powodu stałego lub długotrwałego naruszenia sprawności organizmu, w szczególności powodującą niezdolność do pracy;
+- **11)** psie asystującym – oznacza to odpowiednio wyszkolonego i specjalnie oznaczonego psa, w szczególności psa przewodnika osoby niewidomej lub niedowidzącej oraz psa asystenta osoby niepełnosprawnej ruchowo, który ułatwia osobie niepełnosprawnej aktywne uczestnictwo w życiu społecznym.
 
 **Art. 2¹.** Dla celów określonych w ustawie świadczenia określone w art. 67 § 3 i 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807) wlicza się do wynagrodzenia brutto, o którym mowa w art. 2 pkt 4a.
 
@@ -128,6 +145,11 @@ source: "isap-pdf"
 3. Członkowi składu ustalającego poziom potrzeby wsparcia przysługuje ochrona prawna przewidziana dla funkcjonariuszy publicznych.
 
 **Art. 5.** [Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych o:] <Orzeczenie wydane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych albo przez osobę wykonującą samodzielny zawód medyczny, o której mowa w art. 4 pkt 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, o:>
+
+- **1)** całkowitej niezdolności do pracy, ustalone na podstawie art. 12 ust. 2, i niezdolności do samodzielnej egzystencji, ustalone na podstawie art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych traktowane jest na równi z orzeczeniem o znacznym stopniu niepełnosprawności;
+- **1a)** niezdolności do samodzielnej egzystencji, ustalone na podstawie art. 13 ust. 5 ustawy wymienionej w pkt 1, jest traktowane na równi z orzeczeniem o znacznym stopniu niepełnosprawności;
+- **2)** całkowitej niezdolności do pracy, ustalone na podstawie art. 12 ust. 2 ustawy wymienionej w pkt 1, jest traktowane na równi z orzeczeniem o umiarkowanym stopniu niepełnosprawności;
+- **3)** częściowej niezdolności do pracy, ustalone na podstawie art. 12 ust. 3, oraz celowości przekwalifikowania, o którym mowa w art. 119 ust. 2 i 3 ustawy wymienionej w pkt 1, jest traktowane na równi z orzeczeniem o lekkim stopniu niepełnosprawności.
 
 **Art. 5a.**
 
@@ -676,6 +698,10 @@ source: "isap-pdf"
 - **4)** kształtowanie w społeczeństwie właściwych postaw i zachowań sprzyjających integracji z osobami niepełnosprawnymi.
 
 **Art. 10.** Do podstawowych form aktywności wspomagającej proces rehabilitacji zawodowej i społecznej osób niepełnosprawnych zalicza się uczestnictwo tych osób w:
+
+- **1)** warsztatach terapii zajęciowej, zwanych dalej „warsztatami”;
+- **2)** turnusach rehabilitacyjnych, zwanych dalej „turnusami”;
+- **3)** zajęciach klubowych.
 
 **Art. 10a.**
 
@@ -2132,6 +2158,17 @@ source: "isap-pdf"
 
 **Art. 46.** Przychodami Funduszu są:
 
+- **1)** wpłaty pracodawców, o których mowa w art. 21 ust. 1, art. 23 oraz art. 31 ust. 3 pkt 1;
+- **2)** dotacje z budżetu państwa oraz inne dotacje i subwencje;
+- **3)** spadki, zapisy i darowizny;
+- **4)** dobrowolne wpłaty pracodawców;
+- **5)** dochody z oprocentowania pożyczek oraz wolnych środków przekazanych w zarządzanie zgodnie z przepisami o finansach publicznych;
+- **6)** dochody z działalności gospodarczej;
+- **7)** wpłaty, o których mowa w art. 12a ust. 2, art. 26 ust. 7, art. 26e ust. 6, art. 26g ust. 3, spłaty pożyczek udzielonych z Funduszu na rozpoczęcie działalności gospodarczej albo rolniczej, wraz z oprocentowaniem, oraz zwroty środków pobranych przez pracodawców z Funduszu na szkolenie osoby niepełnosprawnej, która z przyczyn dotyczących pracodawcy nie będzie zatrudniona zgodnie z kierunkiem szkolenia lub będzie zatrudniona przez okres krótszy niż 24 miesiące, wraz z odsetkami, a także zwroty środków pobranych przez pracodawców z Funduszu na pokrycie 60 % wynagrodzenia osoby niepełnosprawnej przed opodatkowaniem podatkiem dochodowym oraz 60 % jej obowiązkowych składek na ubezpieczenia społeczne od tego wynagrodzenia, która z przyczyn dotyczących pracodawcy będzie zatrudniona przez okres krótszy niż 12 miesięcy, wraz z odsetkami;
+- **8)** dywidendy;
+- **8a)** odsetki od środków, o których mowa w art. 48 ust. 1;
+- **9)** inne wpłaty.
+
 **Art. 46a.**
 
 1. Fundusz otrzymuje dotacje celowe z budżetu państwa:
@@ -2285,6 +2322,11 @@ source: "isap-pdf"
 6. Od decyzji Prezesa Funduszu, o której mowa w ust. 5, przysługuje odwołanie do ministra właściwego do spraw zabezpieczenia społecznego.
 
 **Art. 49c.** Fundusz jest uprawniony do nieodpłatnego korzystania z danych zgromadzonych:
+
+- **1)** w Centralnym Rejestrze Podmiotów – Krajowej Ewidencji Podatników;
+- **2)** w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) prowadzonym przez Prezesa Głównego Urzędu Statystycznego;
+- **3)** przez Zakład Ubezpieczeń Społecznych;
+- **4)** w Centralnej Bazie RCIPESEL.
 
 **Art. 49d.**
 

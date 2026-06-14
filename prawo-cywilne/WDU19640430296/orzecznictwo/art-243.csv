@@ -110,6 +110,7 @@ saos_id|date|court|case_number|type|score|saos_url
 163539|2005-09-23|SN|III CNP 5/05|Postanowienie|69|https://www.saos.org.pl/judgments/163539
 83669|2005-08-11|SN|III CNP 4/05|Postanowienie|69|https://www.saos.org.pl/judgments/83669
 543850|2026-02-13|SO|I ACa 1317/24|Wyrok|56|https://www.saos.org.pl/judgments/543850
+545140|2026-01-15|SO|I AGa 184/23|Wyrok|56|https://www.saos.org.pl/judgments/545140
 541885|2025-12-15|SO|I ACa 156/23|Wyrok|56|https://www.saos.org.pl/judgments/541885
 543543|2025-09-16|SO|I ACa 890/24|Wyrok|56|https://www.saos.org.pl/judgments/543543
 543368|2025-09-16|SO|I ACa 1628/22|Wyrok|56|https://www.saos.org.pl/judgments/543368
@@ -306,6 +307,7 @@ saos_id|date|court|case_number|type|score|saos_url
 175|2012-09-11|SO|III AUa 291/12|Wyrok|56|https://www.saos.org.pl/judgments/175
 167|2012-09-11|SO|III AUa 1706/11|Wyrok|56|https://www.saos.org.pl/judgments/167
 2356|2012-08-23|SO|III AUa 340/12|Wyrok|56|https://www.saos.org.pl/judgments/2356
+546011|2025-03-19|SO|I ACz 2073/24|Postanowienie|47|https://www.saos.org.pl/judgments/546011
 520653|2024-06-28|SO|III APz 3/24|Postanowienie|47|https://www.saos.org.pl/judgments/520653
 409074|2019-12-06|SO|III APz 10/19|Postanowienie|47|https://www.saos.org.pl/judgments/409074
 491733|2019-06-13|SO|V AGz 310/19|Postanowienie|47|https://www.saos.org.pl/judgments/491733
@@ -450,6 +452,7 @@ saos_id|date|court|case_number|type|score|saos_url
 2260|2012-02-27|SO|I ACz 264/12|Postanowienie|47|https://www.saos.org.pl/judgments/2260
 2209|2012-02-13|SO|I ACz 270/12|Postanowienie|47|https://www.saos.org.pl/judgments/2209
 2197|2012-01-30|SO|I ACz 173/12|Postanowienie|47|https://www.saos.org.pl/judgments/2197
+547106|2024-01-25|SO|V ACa 2338/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/547106
 231147|2016-05-31|SO|I ACz 676/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/231147
 523923|2024-09-13|SO|II Ca 249/23|Wyrok|40|https://www.saos.org.pl/judgments/523923
 502073|2023-07-28|SO|II Ca 566/22|Wyrok|40|https://www.saos.org.pl/judgments/502073

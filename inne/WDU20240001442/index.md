@@ -8,10 +8,10 @@ pos: 1442
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11444422 Załączniki do rozporządzenia Ministra Edukacji z dnia 25 września 2024 r. (Dz. U. poz. …) Załącznik nr 1 MINIMALNE WYMAGANIA DLA SPRZĘTU KOMPUTEROWEGO I. Sprzęt komputerowy dla ucznia I.1. Komputer stacjonarny (zestaw) Komputer stacjonarny (zestaw) powinien składać się z:
 
 | Pole | Wartość |
 |---|---|
@@ -25,28 +25,27 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001442) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1442/text.pdf) |
 
-I. Sprzęt komputerowy dla ucznia I.1. Komputer stacjonarny (zestaw) Komputer stacjonarny (zestaw) powinien składać się z:
 1) jednostki centralnej;
 2) monitora ekranowego;
 3) klawiatury w układzie QWERTY;
 4) myszy komputerowej lub zewnętrznego gładzika;
-5) Wi-Fi co najmniej wersja 6;
-6) Bluetooth co najmniej wersja 5;
+5) Wi-Fi – co najmniej wersja 6;
+6) Bluetooth – co najmniej wersja 5;
 7) mikrofonu;
 8) kamery.
 Jednostka centralna powinna spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) CrossMark co najmniej 1200 punktów lub
-b) Procyon Office Productivity co najmniej 5400 punktów;
-2) pamięć RAM co najmniej 16 GB;
-3) pamięć masowa (dysk SSD) co najmniej 512 GB;
-4) złącza komunikacyjne co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
+a) CrossMark – co najmniej 1200 punktów lub
+b) Procyon Office Productivity – co najmniej 5400 punktów;
+2) pamięć RAM – co najmniej 16 GB;
+3) pamięć masowa (dysk SSD) – co najmniej 512 GB;
+4) złącza komunikacyjne – co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
 5) port LAN (RJ45);
 6) zasilacz sieciowy przystosowany do polskiego systemu energetycznego.
 Monitor ekranowy powinien spełniać następujące wymagania techniczne:
 1) kolorowy wyświetlacz;
-2) przekątna co najmniej 21 cali (ok. 53,34 cm);
-3) rozdzielczość co najmniej 1920 × 1080 (1080 p);
+2) przekątna – co najmniej 21 cali (ok. 53,34 cm);
+3) rozdzielczość – co najmniej 1920 × 1080 (1080 p);
 4) kąt widzenia 178 stopni/178 stopni;
 5) jasność co najmniej 250 cd/m ;
 6) matryca matowa (powłoka matująca) lub błyszcząca;
@@ -87,19 +86,19 @@ I.2. Komputer stacjonarny typu all-in-one (zestaw) Komputer stacjonarny typu all
 1) komputera stacjonarnego typu all-in-one (AIO), w którym podzespoły komputerowe, takie jak: płyta główna, procesor i układ graficzny, zostały zamieszczone w jednej obudowie z ekranem w taki sposób, który uniemożliwia odłączenie komputera od monitora, oraz posiadają wspólny system zasilania z ekranem;
 2) klawiatury w układzie QWERTY;
 3) myszy komputerowej lub zewnętrznego gładzika;
-4) Wi-Fi co najmniej wersja 6;
-5) Bluetooth co najmniej wersja 5;
+4) Wi-Fi – co najmniej wersja 6;
+5) Bluetooth – co najmniej wersja 5;
 6) mikrofonu;
 7) wbudowanych głośników stereo;
 8) kamery;
 9) stopy komputerowej wyposażonej w regulację wysokości, pochyłu lub obrotu (PIVOT).
 Komputer stacjonarny AIO (zestaw) powinien spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) CrossMark co najmniej 1200 punktów,
-b) Procryon Office Productivity co najmniej 5400 punktów;
-2) pamięć RAM co najmniej 16 GB;
-3) pamięć masowa (dysk SSD) co najmniej 512 GB;
-4) złącza komunikacyjne co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
+a) CrossMark – co najmniej 1200 punktów,
+b) Procryon Office Productivity – co najmniej 5400 punktów;
+2) pamięć RAM – co najmniej 16 GB;
+3) pamięć masowa (dysk SSD) – co najmniej 512 GB;
+4) złącza komunikacyjne – co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
 5) zasilacz sieciowy przystosowany do polskiego systemu energetycznego;
 6) ekran komputera AIO:
 a) przekątna co najmniej 23,8 cala (ok. 60,45 cm),
@@ -143,21 +142,21 @@ I.3. Laptop Laptop (opcjonalnie zestaw) powinien składać się z:
 2) opcjonalnie myszy komputerowej lub zewnętrznego gładzika.
 Laptop powinien spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) CrossMark co najmniej 1200 punktów lub
-b) Procyon Office Productivity co najmniej 5400 punktów;
-2) pamięć RAM lub zunifikowana co najmniej 16 GB;
-3) pamięć masowa (dysk SSD) co najmniej 256 GB;
-4) złącza komunikacyjne co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
+a) CrossMark – co najmniej 1200 punktów lub
+b) Procyon Office Productivity – co najmniej 5400 punktów;
+2) pamięć RAM lub zunifikowana – co najmniej 16 GB;
+3) pamięć masowa (dysk SSD) – co najmniej 256 GB;
+4) złącza komunikacyjne – co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
 5) klawiatura w układzie QWERTY;
 6) zasilacz sieciowy przystosowany do polskiego systemu energetycznego;
 7) bateria;
 8) czas pracy laptopa przy zasilaniu bateryjnym i średnim obciążeniu powinien wynosić co najmniej 6 godzin;
-9) Wi-Fi co najmniej wersja 6;
-10) Bluetooth co najmniej wersja 5;
+9) Wi-Fi – co najmniej wersja 6;
+10) Bluetooth – co najmniej wersja 5;
 11) ekran:
 a) kolorowy wyświetlacz,
-b) przekątna co najmniej 13 cali,
-c) rozdzielczość co najmniej 1920 × 1080 (1080 p),
+b) przekątna – co najmniej 13 cali,
+c) rozdzielczość – co najmniej 1920 × 1080 (1080 p),
 d) jasność co najmniej 250 cd/m ,
 e) matryca matowa (powłoka matująca) lub błyszcząca;
 12) wbudowany mikrofon;
@@ -197,22 +196,22 @@ Laptop (opcjonalnie zestaw) powinien posiadać:
 Laptop (opcjonalnie zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (opcjonalnie zestawu) wszelkie koszty związane z dostarczeniem laptopa (opcjonalnie zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.4. Laptop przeglądarkowy Laptop przeglądarkowy powinien spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) WebXPRT co najmniej 85 punktów lub
-b) CrXPRT 2 co najmniej 75 punktów;
-2) pamięć RAM lub zunifikowana co najmniej 8 GB;
-3) pamięć masowa (dysk SSD) co najmniej 64 GB;
-4) przestrzeń wirtualna co najmniej 128 GB, dostępna przez cały okres użytkowania i w cenie urządzenia;
-5) złącza komunikacyjne co najmniej 3 (w tym złącze umożliwiające podłączenie wideo i złącze USB-C);
+a) WebXPRT – co najmniej 85 punktów lub
+b) CrXPRT 2 – co najmniej 75 punktów;
+2) pamięć RAM lub zunifikowana – co najmniej 8 GB;
+3) pamięć masowa (dysk SSD) – co najmniej 64 GB;
+4) przestrzeń wirtualna – co najmniej 128 GB, dostępna przez cały okres użytkowania i w cenie urządzenia;
+5) złącza komunikacyjne – co najmniej 3 (w tym złącze umożliwiające podłączenie wideo i złącze USB-C);
 6) klawiatura w układzie QWERTY;
 7) zasilacz sieciowy przystosowany do polskiego systemu energetycznego;
 8) bateria;
 9) czas pracy laptopa przeglądarkowego przy zasilaniu bateryjnym i średnim obciążeniu powinien wynosić co najmniej 6 godzin;
-10) Wi-Fi co najmniej wersja 6;
-11) Bluetooth co najmniej wersja 5;
+10) Wi-Fi – co najmniej wersja 6;
+11) Bluetooth – co najmniej wersja 5;
 12) ekran:
 a) kolorowy wyświetlacz,
-b) przekątna co najmniej 13 cali,
-c) rozdzielczość co najmniej 1920 × 1080 (1080 p),
+b) przekątna – co najmniej 13 cali,
+c) rozdzielczość – co najmniej 1920 × 1080 (1080 p),
 d) jasność co najmniej 250 cd/m ;
 13) wbudowany mikrofon;
 14) wbudowana kamera;
@@ -251,19 +250,19 @@ Laptop przeglądarkowy powinien posiadać:
 Laptop przeglądarkowy powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 I.5. Tablet Tablet powinien spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) CrossMark co najmniej 700 punktów lub
-b) Geekbench co najmniej 2500 (multi-core score) punktów;
-2) pamięć masowa (dysk SSD) co najmniej 64GB;
+a) CrossMark – co najmniej 700 punktów lub
+b) Geekbench – co najmniej 2500 (multi-core score) punktów;
+2) pamięć masowa (dysk SSD) – co najmniej 64GB;
 3) uniwersalny port komunikacyjny;
 4) zasilacz sieciowy przystosowany do polskiego systemu energetycznego;
 5) bateria;
 6) czas pracy tabletu przy zasilaniu bateryjnym i średnim obciążeniu powinien wynosić co najmniej 10 godzin;
-7) Wi-Fi co najmniej wersja 6;
-8) Bluetooth co najmniej wersja 5;
+7) Wi-Fi – co najmniej wersja 6;
+8) Bluetooth – co najmniej wersja 5;
 9) ekran:
 a) kolorowy wyświetlacz,
-b) przekątna co najmniej 8 cali,
-c) rozdzielczość co najmniej 1920 × 1080 (1080 p),
+b) przekątna – co najmniej 8 cali,
+c) rozdzielczość – co najmniej 1920 × 1080 (1080 p),
 10) wbudowany mikrofon;
 11) wbudowana kamera;
 12) wbudowane głośniki stereo;
@@ -303,22 +302,22 @@ II. Sprzęt komputerowy dla nauczyciela II.1. Komputer stacjonarny (zestaw) Komp
 2) monitora ekranowego;
 3) klawiatury w układzie QWERTY;
 4) myszy komputerowej lub zewnętrznego gładzika;
-5) Wi-Fi co najmniej wersja 6;
+5) Wi-Fi – co najmniej wersja 6;
 6) mikrofonu;
 7) kamery.
 Jednostka centralna powinna spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) CrossMark co najmniej 1400 punktów lub
-b) Procyon Office Productivity co najmniej 5700 punktów;
-2) pamięć RAM co najmniej 16 GB;
-3) pamięć masowa (dysk SSD) co najmniej 1 TB;
-4) złącza komunikacyjne co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
+a) CrossMark – co najmniej 1400 punktów lub
+b) Procyon Office Productivity – co najmniej 5700 punktów;
+2) pamięć RAM – co najmniej 16 GB;
+3) pamięć masowa (dysk SSD) – co najmniej 1 TB;
+4) złącza komunikacyjne – co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
 5) port LAN (RJ45);
 6) zasilacz sieciowy przystosowany do polskiego systemu energetycznego.
 Monitor ekranowy powinien spełniać następujące wymagania techniczne:
 1) kolorowy wyświetlacz;
-2) przekątna co najmniej 21 cali (ok. 53,34 cm);
-3) rozdzielczość co najmniej 1920 × 1080 (1080 p);
+2) przekątna – co najmniej 21 cali (ok. 53,34 cm);
+3) rozdzielczość – co najmniej 1920 × 1080 (1080 p);
 4) kąt widzenia 178 stopni/178 stopni;
 5) jasność co najmniej 250 cd/m ;
 6) matryca matowa (powłoka matująca) lub błyszcząca;
@@ -359,19 +358,19 @@ II.2. Komputer stacjonarny typu all-in-one (zestaw) Komputer stacjonarny typu al
 1) komputera typu all-in-one (AIO), w którym podzespoły komputerowe, takie jak: płyta główna, procesor i układ graficzny, zostały zamieszczone w jednej obudowie z ekranem w taki sposób, który uniemożliwia odłączenie komputera od monitora, oraz posiadają wspólny system zasilania z ekranem;
 2) klawiatury w układzie QWERTY;
 3) myszy komputerowej lub zewnętrznego gładzika;
-4) Wi-Fi co najmniej wersja 6;
-5) Bluetooth co najmniej wersja 5;
+4) Wi-Fi – co najmniej wersja 6;
+5) Bluetooth – co najmniej wersja 5;
 6) mikrofonu;
 7) wbudowanych głośników stereo;
 8) kamery;
 9) stopy komputerowej wyposażonej w regulację wysokości, pochyłu lub obrotu (PIVOT).
 Komputer stacjonarny AIO (zestaw) powinien spełniać następując wymagania techniczne:
 1) wydajność w teście:
-a) CrossMark co najmniej 1400 punktów,
-b) Procryon Office Productivity co najmniej 5700 punktów;
-2) pamięć RAM co najmniej 16 GB;
-3) pamięć masowa (dysk SSD) co najmniej 512 GB;
-4) złącza komunikacyjne co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
+a) CrossMark – co najmniej 1400 punktów,
+b) Procryon Office Productivity – co najmniej 5700 punktów;
+2) pamięć RAM – co najmniej 16 GB;
+3) pamięć masowa (dysk SSD) – co najmniej 512 GB;
+4) złącza komunikacyjne – co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
 5) zasilacz sieciowy przystosowany do polskiego systemu energetycznego;
 6) ekran komputera AIO:
 a) przekątna co najmniej 23,8 cala (ok. 60,45 cm),
@@ -415,21 +414,21 @@ II.3. Laptop Laptop (opcjonalnie zestaw) powinien składać się z:
 2) opcjonalnie myszy komputerowej lub zewnętrznego gładzika.
 Laptop powinien spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) CrossMark co najmniej 1400 punktów lub
-b) Procyon Office Productivity co najmniej 5700 punktów;
-2) pamięć RAM lub zunifikowana co najmniej 16 GB;
-3) pamięć masowa (dysk SSD) co najmniej 512 GB;
-4) złącza komunikacyjne co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
+a) CrossMark – co najmniej 1400 punktów lub
+b) Procyon Office Productivity – co najmniej 5700 punktów;
+2) pamięć RAM lub zunifikowana – co najmniej 16 GB;
+3) pamięć masowa (dysk SSD) – co najmniej 512 GB;
+4) złącza komunikacyjne – co najmniej 3 (w tym 1 złącze umożliwiające podłączenie wideo oraz 1 port USB);
 5) klawiatura w układzie QWERTY;
 6) zasilacz sieciowy przystosowany do polskiego systemu energetycznego;
 7) bateria;
 8) czas pracy laptopa przy zasilaniu bateryjnym i średnim obciążeniu powinien wynosić co najmniej 6 godzin;
-9) Wi-Fi co najmniej wersja 6;
-10) Bluetooth co najmniej wersja 5;
+9) Wi-Fi – co najmniej wersja 6;
+10) Bluetooth – co najmniej wersja 5;
 11) ekran:
 a) kolorowy wyświetlacz,
-b) przekątna co najmniej 13 cali,
-c) rozdzielczość co najmniej 1920 × 1080 (1080 p),
+b) przekątna – co najmniej 13 cali,
+c) rozdzielczość – co najmniej 1920 × 1080 (1080 p),
 d) jasność co najmniej 250 cd/m ,
 e) matryca matowa (powłoka matująca) lub błyszcząca;
 12) wbudowany mikrofon;
@@ -469,22 +468,22 @@ Laptop (opcjonalnie zestaw) powinien posiadać:
 Laptop (opcjonalnie zestaw) powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa (opcjonalnie zestawu) wszelkie koszty związane z dostarczeniem laptopa (opcjonalnie zestawu) do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.4. Laptop przeglądarkowy Laptop przeglądarkowy powinien spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) WebXPRT co najmniej 150 punktów lub
-b) CrXPRT 2 co najmniej 110 punktów;
-2) pamięć RAM lub zunifikowana co najmniej 8 GB;
-3) pamięć masowa (dysk SSD) co najmniej 64 GB;
-4) przestrzeń wirtualna co najmniej 256 GB, dostępna przez cały okres użytkowania i w cenie urządzenia;
-5) złącza komunikacyjne co najmniej 3 (w tym złącze umożliwiające podłączenie wideo);
+a) WebXPRT – co najmniej 150 punktów lub
+b) CrXPRT 2 – co najmniej 110 punktów;
+2) pamięć RAM lub zunifikowana – co najmniej 8 GB;
+3) pamięć masowa (dysk SSD) – co najmniej 64 GB;
+4) przestrzeń wirtualna – co najmniej 256 GB, dostępna przez cały okres użytkowania i w cenie urządzenia;
+5) złącza komunikacyjne – co najmniej 3 (w tym złącze umożliwiające podłączenie wideo);
 6) klawiatura w układzie QWERTY;
 7) zasilacz sieciowy przystosowany do polskiego systemu energetycznego;
 8) bateria;
 9) czas pracy laptopa przeglądarkowego przy zasilaniu bateryjnym i średnim obciążeniu powinien wynosić co najmniej 6 godzin;
-10) Wi-Fi co najmniej wersja 6;
-11) Bluetooth co najmniej wersja 5;
+10) Wi-Fi – co najmniej wersja 6;
+11) Bluetooth – co najmniej wersja 5;
 12) ekran:
 a) kolorowy wyświetlacz,
-b) przekątna co najmniej 13 cali (ok. 33,02 cm),
-c) rozdzielczość co najmniej 1920 × 1080 (1080 p);
+b) przekątna – co najmniej 13 cali (ok. 33,02 cm),
+c) rozdzielczość – co najmniej 1920 × 1080 (1080 p);
 13) wbudowany mikrofon;
 14) wbudowana kamera;
 15) wbudowane głośniki stereo;
@@ -512,6 +511,7 @@ W przypadku potrzeby realizacji usług w zakresie AAC (komunikacji wspomagające
 4) językowe text-to-speech;
 5) z możliwością zainstalowania dodatkowego czytnika ekranu lub oprogramowania powiększającego w zależności od potrzeb użytkownika.
 Oprogramowanie powinno być zaktualizowane do wersji wspieranej przez twórców i być kompatybilne z technologiami asystującymi.
+Dotyczy oprogramowania laptopów przeglądarkowych w szkołach ponadpodstawowych.
 Producent laptopa przeglądarkowego powinien posiadać:
 1) certyfikat ISO 9001 systemu zarządzania jakością;
 2) certyfikat ISO 14001 zarządzania środowiskiem.
@@ -522,19 +522,19 @@ Laptop przeglądarkowy powinien posiadać:
 Laptop przeglądarkowy powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania laptopa przeglądarkowego wszelkie koszty związane z dostarczeniem laptopa przeglądarkowego do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
 II.5. Tablet Tablet powinien spełniać następujące wymagania techniczne:
 1) wydajność w teście:
-a) CrossMark co najmniej 700 punktów lub
-b) Geekbench co najmniej 2500 (multi-core score) punktów;
-2) pamięć masowa (dysk SSD) co najmniej 64 GB;
+a) CrossMark – co najmniej 700 punktów lub
+b) Geekbench – co najmniej 2500 (multi-core score) punktów;
+2) pamięć masowa (dysk SSD) – co najmniej 64 GB;
 3) uniwersalny port komunikacyjny;
 4) zasilacz sieciowy przystosowany do polskiego systemu energetycznego;
 5) bateria;
 6) czas pracy tabletu przy zasilaniu bateryjnym i średnim obciążeniu powinien wynosić co najmniej 10 godzin;
-7) Wi-Fi co najmniej wersja 6;
-8) Bluetooth co najmniej wersja 5;
+7) Wi-Fi – co najmniej wersja 6;
+8) Bluetooth – co najmniej wersja 5;
 9) ekran:
 a) kolorowy wyświetlacz,
-b) przekątna co najmniej 10 cali (ok. 25,4 cm),
-c) rozdzielczość co najmniej 1920 × 1080 (1080 p);
+b) przekątna – co najmniej 10 cali (ok. 25,4 cm),
+c) rozdzielczość – co najmniej 1920 × 1080 (1080 p);
 10) wbudowany mikrofon;
 11) wbudowana kamera;
 12) wbudowane głośniki stereo;
@@ -569,6 +569,9 @@ Tablet powinien posiadać deklarację zgodności UE i oznakowanie CE.
 Tablet powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta.
 Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej.
 W przypadku naprawy realizowanej poza miejscem użytkowania tabletu wszelkie koszty związane z dostarczeniem tabletu do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach.
+
+## Załącznik nr 2 — MINIMALNE WYMAGANIA DLA TECHNOLOGII INFORMACYJNO-KOMUNIKACYJNYCH
+
 1. Szkoły podstawowe prowadzące kształcenie w formie dziennej powinny posiadać:
 1) szerokopasmowy dostęp do Internetu o symetrycznej przepustowości co najmniej 100 Mb/s wraz z co najmniej jednym punktem dostępowym;
 2) sprzęt komputerowy, w tym komputery stacjonarne, komputery stacjonarne typu all-in-one, laptopy, laptopy przeglądarkowe lub tablety, dla uczniów i nauczycieli, z dostępem do Internetu (jeden sprzęt komputerowy na 6 uczniów);

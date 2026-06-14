@@ -8,10 +8,10 @@ pos: 1232
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1232 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 20 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001232) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1232/text.pdf) |
 
-Poz. 1232 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 20 czerwca 2023 r.
 w sprawie wyjazdów za granicę żołnierzy zawodowych w celach niezwiązanych z zawodową służbą wojskową Na podstawie art. 340 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
-poz. 347 i 641) zarządza się, co następuje: § 1. Rozporządzenie określa tryb informowania przez żołnierza zawodowego o zamiarze wyjazdu i pobytu za granicą oraz postępowania w sprawach wydawania zakazu wyjazdu za granicę, formę zawiadomienia i dane, jakie żołnierz zawodowy jest obowiązany w nim zawrzeć.
+poz. 347 i 641) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb informowania przez żołnierza zawodowego o zamiarze wyjazdu i pobytu za granicą oraz postępowania w sprawach wydawania zakazu wyjazdu za granicę, formę zawiadomienia i dane, jakie żołnierz zawodowy jest obowiązany w nim zawrzeć.
 § 2. 1. Zawiadomienie o zamiarze wyjazdu i pobytu za granicą w celach niezwiązanych z zawodową służbą wojskową, zwane dalej „zawiadomieniem”, żołnierz zawodowy składa dowódcy jednostki wojskowej w formie pisemnej za pośrednictwem kancelarii jednostki wojskowej albo w formie elektronicznej za pośrednictwem elektronicznego obiegu dokumentów zorganizowanego w jednostce organizacyjnej albo komórce organizacyjnej.
 2. Zawiadomienie zawiera:
 1) stopień, imię i nazwisko żołnierza zawodowego;

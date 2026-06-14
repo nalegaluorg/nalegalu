@@ -1,6 +1,6 @@
-# Orzecznictwo — Wyrok Trybunału Konstytucyjnego z dnia 24 czerwca 2008 r. sygn. akt P 8/07
+# Orzecznictwo — WDU20081190772
 
-Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 24 czerwca 2008 r. sygn. akt P 8/07*
+Orzeczenia powołujące: *WDU20081190772*
 
 Łącznie: **1** orzeczeń
 

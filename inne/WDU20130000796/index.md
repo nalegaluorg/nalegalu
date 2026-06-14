@@ -8,7 +8,7 @@ pos: 796
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 13 czerwca 2013 r.

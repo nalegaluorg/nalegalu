@@ -8,7 +8,7 @@ pos: 1381
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
@@ -29,6 +29,26 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** art. 3 otrzymuje brzmienie: „Art. 3. Strony i uczestnicy postępowania obowiązani są dokonywać czynności procesowych zgodnie z dobrymi obyczajami, dawać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek oraz przedstawiać dowody.”;
+- **2)** art. 5 otrzymuje brzmienie: „Art. 5. W razie uzasadnionej potrzeby sąd może udzielić stronom i uczestnikom postępowania występującym w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa niezbędnych pouczeń co do czynności procesowych.”;
+- **3)** w art. 6 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Strony i uczestnicy postępowania obowiązani są przytaczać wszystkie okoliczności faktyczne i dowody bez zwłoki, aby postępowanie mogło być przeprowadzone sprawnie i szybko.”;
+- **4)** art. 8 otrzymuje brzmienie: „Art. 8. Organizacje pozarządowe, których zadanie statutowe nie polega na prowadzeniu działalności gospodarczej, mogą dla ochrony praw obywateli, w wypadkach przewidzianych w ustawie, wszcząć postępowanie oraz wziąć udział w toczącym się postępowaniu.”;
+- **5)** w art. 17 pkt 4 otrzymuje brzmienie: „4) o prawa majątkowe, w których wartość przedmiotu sporu przewyższa siedemdziesiąt pięć tysięcy złotych, oprócz spraw o alimenty, o naruszenie posiadania, o ustanowienie rozdzielności majątkowej między małżonkami, o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym oraz spraw rozpoznawanych w elektronicznym postępowaniu upominawczym,”;
+- **6)** art. 34 otrzymuje brzmienie: „Art. 34. Powództwo o zawarcie umowy, ustalenie jej treści, o zmianę umowy oraz o ustalenie istnienia umowy, o jej wykonanie, rozwiązanie lub unieważnienie, a także o odszkodowanie z powodu niewykonania lub nienależytego wykonania umowy można wytoczyć przed sąd miejsca jej wykonania. W razie wątpliwości miejsce wykonania umowy powinno być stwierdzone dokumentem.”;
+- **7)** art. 54 otrzymuje brzmienie: „Art. 54. Przepisy niniejszego działu stosuje się odpowiednio do wyłączenia referendarza sądowego, ławnika, jak również innych organów sądowych oraz prokuratora. Wniosek o wyłączenie referendarza sądowego oraz ławnika sąd rozstrzyga zgodnie z przepisami poprzedzającymi, a wniosek o wyłączenie pozostałych osób przekazuje odpowiedniemu organowi nadrzędnemu.”;
+- **8)** w części pierwszej w księdze pierwszej tytuł III otrzymuje brzmienie: „Tytuł III. Organizacje pozarządowe „Art. 61. § 1. Organizacje pozarządowe w zakresie swoich zadań statutowych mogą, za zgodą osoby fizycznej wyrażoną na piśmie, wytaczać powództwa na jej rzecz w sprawach o:
+- **1)** alimenty;
+- **2)** ochronę środowiska;
+- **3)** ochronę konsumentów;
+- **4)** ochronę praw własności przemysłowej;
+- **5)** ochronę równości oraz niedyskryminacji przez bezpodstawne bezpośrednie lub pośrednie zróżnicowanie praw i obowiązków obywateli.
+
+§ 2. W sprawach wymienionych w § 1 organizacje pozarządowe w zakresie swoich zadań statutowych mogą, za zgodą osoby fizycznej wyrażoną na piśmie, przystąpić do niej w toczącym się postępowaniu.
+
+§ 3. Za zgodą przedsiębiorcy będącego osobą fizyczną, wyrażoną na piśmie, organizacja pozarządowa, której jest on członkiem, może na jego rzecz wytoczyć powództwo lub przystąpić do niego w toczącym się postępowaniu w sporze z innym przedsiębiorcą o roszczenia wynikające z prowadzonej działalności gospodarczej.
+
+§ 4. Do pozwu lub pisma obejmującego przystąpienie organizacja pozarządowa dołącza wyrażoną na piśmie zgodę osoby fizycznej.
+
 **Art. 62.**
 
 § 1. Do organizacji pozarządowych wytaczających powództwa na rzecz osób fizycznych stosuje się odpowiednio przepisy o prokuratorze wytaczającym powództwo na rzecz oznaczonej osoby, z wyjątkiem art. 58 zdanie drugie.
@@ -37,7 +57,202 @@ source: "isap-pdf"
 
 **Art. 63.** Organizacje pozarządowe wymienione w artykułach poprzedzających, które nie uczestniczą w sprawie, mogą przedstawiać sądowi istotny dla sprawy pogląd wyrażony w uchwale lub w oświadczeniu ich należycie umocowanych organów.”;
 
+- **9)** art. 63 otrzymuje brzmienie: „Art. 63 . W sprawach o ochronę konsumentów powiatowy (miejski) rzecznik konsumentów może wytaczać powództwa na rzecz obywateli, a także wstępować, za zgodą powoda, do postępowania w tych sprawach w każdym jego stadium.”;
+- **10)** w art. 64 uchyla się § 2;
+- **11)** w art. 65 § 1 otrzymuje brzmienie: „§ 1. Zdolność do czynności procesowych (zdolność procesową) mają osoby fizyczne posiadające pełną zdolność do czynności prawnych, osoby prawne oraz jednostki organizacyjne, o których mowa w art. 64 § 1 .”;
+- **12)** w art. 67 § 1 otrzymuje brzmienie: „§ 1. Osoby prawne oraz jednostki organizacyjne, o których mowa w art. 64 § 1 , dokonują czynności procesowych przez swoje organy albo przez osoby uprawnione do działania w ich imieniu.”;
+- **13)** w art. 89 § 1 otrzymuje brzmienie: „§ 1. Pełnomocnik jest obowiązany przy pierwszej czynności procesowej dołączyć do akt sprawy pełnomocnictwo z podpisem mocodawcy lub wierzytelny odpis pełnomocnictwa wraz z odpisem dla strony przeciwnej. Adwokat, radca prawny, rzecznik patentowy, a także radca Prokuratorii Generalnej Skarbu Państwa mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Sąd może w razie wątpliwości zażądać urzędowego poświadczenia podpisu strony. Zdania pierwszego nie stosuje się w przypadku dokonania czynności procesowej w elektronicznym postępowaniu upominawczym, jednak pełnomocnik powinien powołać się na pełnomocnictwo, wskazując jego datę, zakres oraz okoliczności wymienione w art. 87.”;
+- **14)** w art. 125:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Jeżeli przepis szczególny tak stanowi, pisma procesowe wnosi się na urzędowych formularzach.”,
+    - **b)** dodaje się § 2 w brzmieniu: „§ 2 Jeżeli przepis szczególny tak stanowi, pisma procesowe wnosi się za pomocą systemu teleinformatycznego obsługującego postępowanie sądowe (drogą elektroniczną). Jeżeli przepis szczególny przewiduje, że pisma wnosi się wyłącznie drogą elektroniczną, pisma niewniesione tą drogą nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma do sądu.”,
+    - **c)** § 3 otrzymuje brzmienie: „§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory i sposób udostępniania stronom urzędowych formularzy, o których mowa w § 2, odpowiadających wymaganiom przewidzianym dla pism procesowych, szczególnym wymaganiom postępowania, w którym mają być stosowane, oraz zawierających niezbędne pouczenia dla stron, co do sposobu ich wypełniania, wnoszenia i skutków niedostosowania pisma do tych wymagań, uwzględniając, że urzędowe formularze powinny być udostępniane w siedzibach sądów oraz bezpłatnie w sieci Internet w formie pozwalającej na dogodną edycję treści formularza.”,
+    - **d)** dodaje się § 3 w brzmieniu: „§ 3 . Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, sposób wnoszenia pism procesowych drogą elektroniczną, mając na względzie skuteczność wnoszenia pism, szczególne wymagania postępowań obsługiwanych przez system teleinformatyczny oraz ochronę praw osób wnoszących pisma.”,
+    - **e)** uchyla się § 4;
+
+- **15)** art. 127 otrzymuje brzmienie: „Art. 127. W pismach procesowych mających na celu przygotowanie rozprawy (pisma przygotowawcze) należy podać zwięźle stan sprawy, wypowiedzieć się co do twierdzeń strony przeciwnej i dowodów przez nią powołanych, wreszcie wskazać dowody, które mają być przedstawione na rozprawie, lub je załączyć. W pismach przygotowawczych strony mogą wskazywać podstawy prawne swoich żądań lub wniosków.”;
+- **16)** w art. 130 uchyla się § 3;
+- **17)** w art. 139 po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Pismo złożone w placówce pocztowej operatora publicznego lub innego operatora pocztowego może zostać odebrane także przez osobę upoważnioną na podstawie pełnomocnictwa pocztowego do odbioru przesyłek pocztowych, o którym mowa w przepisach określających warunki wykonywania powszechnych usług pocztowych, wydanych na podstawie ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm. ).”;
+- **18)** w art. 153:
+    - **a)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Sąd na wniosek strony zarządza odbycie posiedzenia lub jego części przy drzwiach zamkniętych, gdy mogą być ujawnione okoliczności stanowiące tajemnicę jej przedsiębiorstwa.”,
+    - **b)** § 2 otrzymuje brzmienie: „§ 2. Sąd może ponadto zarządzić odbycie posiedzenia lub jego części przy drzwiach zamkniętych na wniosek strony, jeżeli podane przez nią przyczyny uzna za uzasadnione lub jeżeli roztrząsane być mają szczegóły życia rodzinnego. Postępowanie dotyczące tego wniosku odbywa się przy drzwiach zamkniętych. Postanowienie w tym przedmiocie sąd ogłasza publicznie.”;
+
+- **19)** w art. 158 § 2 otrzymuje brzmienie: „§ 2. Jeżeli przebiegu posiedzenia nie utrwala się za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk, protokół sporządzony pisemnie powinien, oprócz danych i okoliczności określonych w § 1, zawierać wnioski oraz twierdzenia stron, udzielone pouczenia, a także wyniki postępowania dowodowego oraz inne okoliczności istotne dla przebiegu posiedzenia; zamiast podania wniosków i twierdzeń można w protokole powołać się na pisma przygotowawcze.”;
+- **20)** w art. 174:
+    - **a)** w § 1 pkt 4 otrzymuje brzmienie: „4) jeżeli postępowanie dotyczy masy upadłości i ogłoszono upadłość z możliwością zawarcia układu, a strona pozbawiona została prawa zarządu masą upadłości, albo ogłoszono upadłość obejmującą likwidację majątku strony;”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. W wypadku, o którym mowa w § 1 pkt 4, sąd wezwie syndyka albo zarządcę masy upadłości do wzięcia udziału w sprawie, a jeżeli syndyk albo zarządca może odmówić wstąpienia do postępowania, sąd wyznaczy mu odpowiedni termin do złożenia oświadczenia. Niezłożenie w terminie oświadczenia co do wstąpienia do postępowania uważa się za odmowę wstąpienia.”;
+
+- **21)** w art. 180 w § 1 pkt 5 otrzymuje brzmienie: „5) w razie ogłoszenia upadłości strony – z chwilą zgłoszenia się lub wskazania syndyka albo zarządcy masy upadłości, a jeżeli syndyk albo zarządca może odmówić wstąpienia do postępowania – z chwilą złożenia przez niego oświadczenia; w przypadku odmowy wstąpienia do postępowania przez syndyka albo zarządcę masy upadłości, postępowanie podejmuje się z udziałem upadłego.”;
+- **22)** uchyla się art. 182 ;
+- **23)** w art. 183 § 3 otrzymuje brzmienie: „§ 3. Organizacje pozarządowe w zakresie swoich zadań statutowych oraz uczelnie mogą prowadzić listy stałych mediatorów oraz tworzyć ośrodki mediacyjne. Wpis na listę wymaga wyrażonej na piśmie zgody mediatora. Informację o listach stałych mediatorów oraz o ośrodkach mediacyjnych przekazuje się prezesowi sądu okręgowego.”;
+- **24)** w art. 183 po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Przez podpisanie ugody strony wyrażają zgodę na wystąpienie do sądu z wnioskiem o jej zatwierdzenie, o czym mediator informuje strony.”;
+- **25)** w art. 183 § 1 otrzymuje brzmienie: „§ 1. Ugoda zawarta przed mediatorem, po jej zatwierdzeniu przez sąd, ma moc prawną ugody zawartej przed sądem. Ugoda zawarta przed mediatorem, którą zatwierdzono przez nadanie jej klauzuli wykonalności, jest tytułem wykonawczym.”;
+- **26)** uchyla się art. 187 ;
+- **27)** art. 207 otrzymuje brzmienie: „Art. 207. § 1. Pozwany może przed pierwszym posiedzeniem wyznaczonym na rozprawę wnieść odpowiedź na pozew.
+
+§ 2. Przewodniczący może zarządzić wniesienie odpowiedzi na pozew w wyznaczonym terminie, nie krótszym niż dwa tygodnie.
+
+§ 3. Przewodniczący może także przed pierwszym posiedzeniem wyznaczonym na rozprawę zobowiązać strony do złożenia dalszych pism przygotowawczych, oznaczając porządek składania pism, termin, w którym należy je złożyć, i okoliczności, które mają być wyjaśnione. W toku sprawy złożenie pism przygotowawczych następuje tylko wtedy, gdy sąd tak postanowi, chyba że pismo obejmuje wyłącznie wniosek o przeprowadzenie dowodu. Sąd może wydać postanowienie na posiedzeniu niejawnym.
+
+§ 4. W wypadkach, o których mowa w § 3, przewodniczący lub sąd mogą wysłuchać strony na posiedzeniu niejawnym.
+
+§ 5. Zarządzając doręczenie pozwu, odpowiedzi na pozew lub złożenie dalszych pism przygotowawczych, przewodniczący albo sąd, jeżeli postanowił o złożeniu pism przygotowawczych w toku sprawy, pouczają strony o treści § 6.
+
+§ 6. Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich w pozwie, odpowiedzi na pozew lub dalszym piśmie przygotowawczym bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.
+
+§ 7. Odpowiedź na pozew złożona z naruszeniem § 2 podlega zwrotowi; zwrotowi podlega także pismo przygotowawcze złożone z naruszeniem § 3.”;
+
+- **28)** w art. 210 po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Sąd poucza stronę występującą w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa o treści art. 162, 207, 217, 229 i 230.”;
+- **29)** art. 212 otrzymuje brzmienie: „Art. 212. § 1. Sąd na rozprawie przez zadawanie pytań stronom dąży do tego, aby strony przytoczyły lub uzupełniły twierdzenia lub dowody na ich poparcie oraz udzieliły wyjaśnień koniecznych dla zgodnego z prawdą ustalenia podstawy faktycznej dochodzonych przez nie praw lub roszczeń. W ten sam sposób sąd dąży do wyjaśnienia istotnych okoliczności sprawy, które są sporne.
+
+§ 2. W razie uzasadnionej potrzeby przewodniczący może udzielić stronom niezbędnych pouczeń, a stosownie do okoliczności zwraca uwagę na celowość ustanowienia pełnomocnika procesowego.”;
+
+- **30)** art. 217 otrzymuje brzmienie: „Art. 217. § 1. Strona może aż do zamknięcia rozprawy przytaczać okoliczności faktyczne i dowody na uzasadnienie swoich wniosków lub dla odparcia wniosków i twierdzeń strony przeciwnej.
+
+§ 2. Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich we właściwym czasie bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.
+
+§ 3. Sąd pomija twierdzenia i dowody, jeżeli są powoływane jedynie dla zwłoki lub okoliczności sporne zostały już dostatecznie wyjaśnione.”;
+
+- **31)** w art. 244 § 2 otrzymuje brzmienie: „§ 2. Przepis § 1 stosuje się odpowiednio do dokumentów urzędowych sporządzonych przez organizacje zawodowe, samorządowe, spółdzielcze i inne organizacje pozarządowe w zakresie zleconych im przez ustawę spraw z dziedziny administracji publicznej.”;
+- **32)** w art. 269 § 1 otrzymuje brzmienie: „§ 1. Świadek składa przyrzeczenie, powtarzając za sędzią lub odczytując na głos tekst przyrzeczenia, przy czym wszyscy – z wyjątkiem sędziów – stoją.”;
+- **33)** art. 301 otrzymuje brzmienie: „Art. 301. Jeżeli powództwo jest wytoczone przez prokuratora lub organizację pozarządową na rzecz oznaczonej osoby, przesłuchuje się w charakterze strony powodowej tę osobę, chociażby nie przystąpiła ona do sprawy.”;
+- **34)** w art. 327 § 1 otrzymuje brzmienie: „§ 1. Stronie działającej bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa, obecnej przy ogłoszeniu wyroku, przewodniczący udzieli wskazówek co do sposobu i terminów wniesienia środka zaskarżenia. Jeżeli zastępstwo stron przez adwokatów lub radców prawnych jest obowiązkowe, należy pouczyć stronę o treści przepisów o obowiązkowym zastępstwie oraz o skutkach niezastosowania się do tych przepisów.”;
+- **35)** art. 343 otrzymuje brzmienie: „Art. 343. Wyroki zaoczne doręcza się z urzędu obu stronom z pouczeniem o przysługujących im środkach zaskarżenia. Pozwanego poucza się także o treści art. 344 § 2 zdanie drugie.”;
+- **36)** w art. 344 § 1 i 2 otrzymują brzmienie: „§ 1. Pozwany, przeciwko któremu zapadł wyrok zaoczny, może złożyć sprzeciw w ciągu dwóch tygodni od doręczenia mu wyroku.
+
+§ 2. W piśmie zawierającym sprzeciw pozwany powinien przytoczyć zarzuty, które pod rygorem ich utraty należy zgłosić przed wdaniem się w spór co do istoty sprawy, oraz okoliczności faktyczne i dowody. Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich w sprzeciwie bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.”;
+
+- **37)** w art. 357 § 2 otrzymuje brzmienie: „§ 2. Postanowienia wydane na posiedzeniu niejawnym sąd doręcza z urzędu obu stronom, chyba że przepis szczególny stanowi inaczej. Gdy stronie przysługuje środek zaskarżenia, postanowienie należy doręczyć z uzasadnieniem; doręczając postanowienie, należy pouczyć stronę występującą w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa o dopuszczalności, terminie i sposobie wniesienia środka zaskarżenia.”;
+- **38)** w art. 369 dodaje się § 3 w brzmieniu: „§ 3. Termin, o którym mowa w § 1 i 2, uważa się za zachowany także wtedy, gdy przed jego upływem strona wniosła apelację do sądu drugiej instancji. W takim wypadku sąd ten niezwłocznie przesyła apelację do sądu, który wydał zaskarżony wyrok.”;
+- **39)** w art. 394 : 398 § 3, art. 398 , art. 398 , art. 398 § 1 zdanie pierwsze, art. 398 , art. 398 i art. 398 .”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Zażalenie do Sądu Najwyższego przysługuje na postanowienie sądu drugiej instancji odrzucające skargę kasacyjną oraz na postanowienie sądu drugiej lub pierwszej instancji odrzucające skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Zażalenie do Sądu Najwyższego przysługuje także w razie uchylenia przez sąd drugiej instancji wyroku sądu pierwszej instancji i przekazania sprawy do ponownego rozpoznania.”,
+    - **c)** § 3 otrzymuje brzmienie: „§ 3. Do postępowania przed Sądem Najwyższym toczącego się na skutek zażalenia stosuje się odpowiednio art. 394 § 2 i 3, art. 395, art. 397 § 1, art.
+
+- **40)** w art. 394 § 1 otrzymuje brzmienie: „§ 1. Na postanowienia sądu drugiej instancji, których przedmiotem są oddalenie wniosku o wyłączenie sędziego, zwrot kosztów procesu, skazanie świadka, biegłego, strony, jej pełnomocnika oraz osoby trzeciej na grzywnę, zarządzenie przymusowego sprowadzenia i aresztowania świadka, odmowa zwolnienia świadka i biegłego od grzywny i świadka od przymusowego sprowadzenia, przysługuje zażalenie do innego składu tego sądu, z wyjątkiem postanowień wydanych w wyniku rozpoznania zażalenia na postanowienie sądu pierwszej instancji.”;
+- **41)** w art. 398 § 1 otrzymuje brzmienie: „§ 1. Skarga kasacyjna jest niedopuszczalna w sprawach o prawa majątkowe, w których wartość przedmiotu zaskarżenia jest niższa niż pięćdziesiąt tysięcy złotych, a w sprawach z zakresu prawa pracy i ubezpieczeń społecznych – niższa niż dziesięć tysięcy złotych. Jednakże w sprawach z zakresu ubezpieczeń społecznych skarga kasacyjna przysługuje niezależnie od wartości przedmiotu zaskarżenia w sprawach o przyznanie i o wstrzymanie emerytury lub renty oraz o objęcie obowiązkiem ubezpieczenia społecznego. Niezależnie od wartości przedmiotu zaskarżenia skarga kasacyjna przysługuje także w sprawach o odszkodowanie z tytułu wyrządzenia szkody przez wydanie prawomocnego orzeczenia niezgodnego z prawem.”;
+- **42)** w art. 398 § 1 i 2 otrzymują brzmienie: „§ 1. Na orzeczenia referendarza sądowego co do istoty sprawy oraz na orzeczenia kończące postępowanie, jak również na orzeczenia, o których mowa w art. 394 § 1 pkt 1, 2, 4 i 5–9, przysługuje skarga, chyba że przepis szczególny stanowi inaczej. Skargę rozpoznaje sąd, w którym wydano zaskarżone orzeczenie.
+
+§ 2. W razie wniesienia skargi orzeczenie referendarza sądowego traci moc.”;
+
+- **43)** art. 462 otrzymuje brzmienie: „Art. 462. W sprawach z zakresu prawa pracy i ubezpieczeń społecznych organizacje pozarządowe w zakresie swoich zadań statutowych, za zgodą pracownika lub ubezpieczonego wyrażoną na piśmie, mogą wytaczać powództwa na rzecz pracownika lub wnosić odwołania od decyzji organów rentowych, a także, za zgodą pracownika lub ubezpieczonego wyrażoną na piśmie, przystępować do nich w toczącym się postępowaniu.”;
+- **44)** uchyla się art. 474;
+- **45)** w części pierwszej w księdze pierwszej w tytule VII w dziale IVa tytuł otrzymuje brzmienie: „IVa. Postępowanie w sprawach z zakresu ochrony konkurencji”;
+- **46)** w części pierwszej w księdze pierwszej w tytule VII w dziale IVa uchyla się rozdział 1;
+- **47)** w części pierwszej w księdze pierwszej w tytule VII w dziale IVa uchyla się oznaczenie „Rozdział 2” i tytuł tego rozdziału „Postępowanie w sprawach z zakresu ochrony konkurencji”;
+- **48)** po art. 479 dodaje się art. 479 w brzmieniu : „Art. 479 § 1. Jeżeli przepisy odrębne przyznają określonym podmiotom, które nie uczestniczą w sprawie, uprawnienie do przedstawiania sądowi istotnego dla sprawy poglądu, do podmiotów tych stosuje się odpowiednio art. 63. Jednak na wniosek podmiotu uprawnionego sąd może zezwolić, aby pogląd został przedstawiony także ustnie na rozprawie.
+
+§ 2. Na wniosek podmiotu uprawnionego sąd udostępnia akta sprawy w zakresie niezbędnym do przedstawienia poglądu.”;
+
+- **49)** w części pierwszej w księdze pierwszej w tytule VII w dziale IVa oznaczenie „Rozdział 3” zastępuje się oznaczeniem „Dział IVb”.
+- **50)** uchyla się art. 479 ;
+- **51)** w art. 479 § 1 otrzymuje brzmienie: „§ 1. Powództwo w sprawach rozpoznawanych według przepisów niniejszego rozdziału może wytoczyć każdy, kto według oferty pozwanego mógłby zawrzeć z nim umowę zawierającą postanowienie, którego uznania za niedozwolone żąda się pozwem. Powództwo może wytoczyć także organizacja pozarządowa, do której zadań statutowych należy ochrona interesów konsumentów, powiatowy (miejski) rzecznik konsumentów oraz Prezes Urzędu Ochrony Konkurencji i Konsumentów.”;
+- **52)** w części pierwszej w księdze pierwszej w tytule VII oznaczenie „Rozdział 4” zastępuje się oznaczeniem „Dział IVc”, oznaczenie „Rozdział 5” zastępuje się oznaczeniem „Dział IVd” i oznaczenie „Rozdział 6” zastępuje się oznaczeniem „Dział IVe”;
+- **53)** w art. 491 § 3 otrzymuje brzmienie: „§ 3. Nakaz zapłaty doręcza się stronom; pozwanemu wraz z pozwem, załącznikami i pouczeniem o treści art. 493 § 1 zdanie trzecie.”;
+- **54)** w art. 493 § 1 otrzymuje brzmienie: „§ 1. Pismo zawierające zarzuty wnosi się do sądu, który wydał nakaz zapłaty. W piśmie pozwany powinien wskazać, czy zaskarża nakaz w całości, czy w części, przedstawić zarzuty, które pod rygorem ich utraty należy zgłosić przed wdaniem się w spór co do istoty sprawy oraz okoliczności faktyczne i dowody. Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich w zarzutach bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.”;
+- **55)** w art. 495 uchyla się § 3;
+- **56)** w art. 502 § 2 otrzymuje brzmienie: „§ 2. Pozwanemu doręcza się nakaz zapłaty wraz z pozwem i pouczeniem o sposobie wniesienia sprzeciwu, o treści art. 503 § 1 zdanie trzecie oraz o skutkach niezaskarżenia nakazu.”;
+- **57)** w art. 503 § 1 otrzymuje brzmienie: „§ 1. Pismo zawierające sprzeciw wnosi się do sądu, który wydał nakaz zapłaty, a w przypadku nakazu wydanego przez referendarza sądowego – do sądu, przed którym wytoczono powództwo. W piśmie pozwany powinien wskazać, czy zaskarża nakaz w całości, czy w części, przedstawić zarzuty, które pod rygorem ich utraty należy zgłosić przed wdaniem się w spór co do istoty sprawy, oraz okoliczności faktyczne i dowody. Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich w sprzeciwie bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.”;
+- **58)** uchyla się art. 505 ;
+- **59)** w art. 505 uchyla się § 2;
+- **60)** w art. 505 uchyla się § 2 i 3;
+- **61)** w art. 546 § 3 otrzymuje brzmienie: „§ 3. Organizacje pozarządowe, do których zadań statutowych należy ochrona praw osób niepełnosprawnych, udzielanie pomocy takim osobom lub ochrona praw człowieka, mogą wstąpić do postępowania w każdym jego stadium.”;
+- **62)** w art. 548 § 4 otrzymuje brzmienie: „§ 4. Sąd może zwrócić się do organizacji pozarządowej wymienionej w art. 546 § 3 o wskazanie osoby, która mogłaby być ustanowiona doradcą tymczasowym.”;
+- **63)** w art. 600 § 1 otrzymuje brzmienie: „§ 1. Kuratora dla osoby niepełnosprawnej sąd opiekuńczy ustanawia na wniosek tej osoby, a za zgodą osoby niepełnosprawnej – także na wniosek organizacji pozarządowej, wymienionej w art. 546 § 3.”;
+- **64)** art. 738 otrzymuje brzmienie: „Art. 738. Sąd rozpoznaje wniosek o udzielenie zabezpieczenia w jego granicach, biorąc za podstawę orzeczenia materiał zebrany w sprawie.”;
+- **65)** w art. 743 dodaje się § 3 w brzmieniu: „§ 3. Jeżeli wykonanie postanowienia o zabezpieczeniu zostało uzależnione od złożenia przez uprawnionego kaucji na zabezpieczenie roszczeń obowiązanego, powstałych w wyniku wykonania postanowienia o zabezpieczeniu, sąd nadaje mu klauzulę wykonalności albo przewodniczący zaopatruje je we wzmiankę o wykonalności, po złożeniu kaucji.”;
+- **66)** w art. 743 § 4 otrzymuje brzmienie: „§ 4. W razie sprzeciwu, o którym mowa w § 2, uprawniony może w terminie dwóch tygodni od dnia zawiadomienia, pod rygorem upadku zabezpieczenia w zakresie wykonania na mieniu wchodzącym w skład majątku wspólnego, wystąpić do sądu o nadanie temu postanowieniu klauzuli wykonalności przeciwko małżonkowi obowiązanego. Przepisy art. 787 stosuje się odpowiednio. Upadek, o którym mowa w zdaniu pierwszym, następuje również w razie oddalenia wniosku o nadanie klauzuli wykonalności. Przepis art. 754 § 3 stosuje się odpowiednio.”;
+- **67)** w art. 746:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Jeżeli uprawniony nie wniósł pisma wszczynającego postępowanie w wyznaczonym terminie albo cofnął pozew lub wniosek, jak również gdy pozew lub wniosek zwrócono albo odrzucono albo powództwo bądź wniosek oddalono lub postępowanie umorzono, a także w przypadkach wskazanych w art. 744 § 2, obowiązanemu przysługuje przeciwko uprawnionemu roszczenie o naprawienie szkody wyrządzonej wykonaniem zabezpieczenia. Roszczenie wygasa, jeżeli nie będzie dochodzone w ciągu roku od dnia jego powstania.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . W przypadku wniesienia skargi kasacyjnej termin, o którym mowa w § 1, rozpoczyna bieg w dniu prawomocnego zakończenia postępowania wywołanego jej wniesieniem.”,
+    - **c)** § 3 otrzymuje brzmienie: „§ 3. Jeżeli w terminie miesiąca od rozpoczęcia biegu terminu, o którym mowa w § 1 lub 1 , obowiązany nie wytoczył powództwa, sąd zwraca uprawnionemu, na jego wniosek, kaucję złożoną na zabezpieczenie roszczenia.”;
+
+- **68)** w art. 752 :
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Zarząd przymusowy ustanowiony nad przedsiębiorstwem lub gospodarstwem rolnym obowiązanego lub nad zakładem wchodzącym w skład przedsiębiorstwa lub jego częścią albo nad częścią gospodarstwa rolnego wykonuje się według przepisów o zarządzie w toku egzekucji z nieruchomości.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Zarządcę ustanawia sąd wydający postanowienie o udzieleniu zabezpieczenia. Postanowienie o ustanowieniu zarządcy jest jednocześnie podstawą do wprowadzenia go w zarząd bez potrzeby nadania mu klauzuli wykonalności. Zarządcą nie może być obowiązany.”;
+
+- **69)** w art. 753 :
+    - **a)** w § 1 uchyla się pkt 6 i 7,
+    - **b)** dodaje się § 3 w brzmieniu: „§ 3. W sprawach wymienionych w § 1 pkt 1 i 2 dla udzielenia zabezpieczenia nie jest wymagane uprawdopodobnienie interesu prawnego.”;
+
+- **70)** w art. 755:
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Jeżeli przedmiotem zabezpieczenia nie jest roszczenie pieniężne, sąd udziela zabezpieczenia w taki sposób, jaki stosownie do okoliczności uzna za odpowiedni, nie wyłączając sposobów przewidzianych dla zabezpieczenia roszczeń pieniężnych. W szczególności sąd może:
+
+- **1)** unormować prawa i obowiązki stron lub uczestników postępowania na czas trwania postępowania;
+- **2)** ustanowić zakaz zbywania przedmiotów lub praw objętych postępowaniem;
+- **3)** zawiesić postępowanie egzekucyjne lub inne postępowanie zmierzające do wykonania orzeczenia;
+- **4)** uregulować sposób roztoczenia pieczy nad małoletnimi dziećmi i kontaktów z dzieckiem;
+- **5)** nakazać wpisanie stosownego ostrzeżenia w księdze wieczystej lub we właściwym rejestrze. „§ 2. W sprawach o ochronę dóbr osobistych zabezpieczenie polegające na zakazie publikacji może być udzielone tylko wtedy, gdy nie sprzeciwia się temu ważny interes publiczny. Udzielając zabezpieczenia, sąd określa czas trwania zakazu, który nie może być dłuższy niż rok. Jeżeli postępowanie w sprawie jest w toku, uprawniony może przed upływem okresu, na który orzeczono zakaz publikacji, żądać dalszego zabezpieczenia; przepisy zdania pierwszego i drugiego stosuje się. Jeżeli uprawniony zażądał dalszego zabezpieczenia, zakaz publikacji pozostaje w mocy do czasu prawomocnego rozstrzygnięcia wniosku.”,
+    - **b)** po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Przepisu art. 731 nie stosuje się, jeżeli zabezpieczenie jest konieczne dla odwrócenia grożącej szkody lub innych niekorzystnych dla uprawnionego skutków.”,
+    - **c)** § 3 otrzymuje brzmienie: „§ 3. Sąd doręcza obowiązanemu postanowienie wydane na posiedzeniu niejawnym, w którym nakazuje mu wykonanie lub zaniechanie czynności albo nieprzeszkadzanie czynnościom uprawnionego. Nie dotyczy to postanowień nakazujących wydanie rzeczy będących we władaniu obowiązanego.”;
+
+- **71)** po art. 756 dodaje się art. 756 i 756 w brzmieniu: „Art. 756 . W sprawach dotyczących pieczy nad małoletnimi dziećmi i kontaktów z dzieckiem sąd orzeka w przedmiocie zabezpieczenia po przeprowadzeniu rozprawy, chyba że chodzi o wypadek niecierpiący zwłoki.
+
 **Art. 756².** Uwzględniając wniosek o zabezpieczenie przez uregulowanie stosunków na czas trwania postępowania albo przez uregulowanie sposobów kontaktów z dzieckiem, sąd, na wniosek uprawnionego, może w postanowieniu o udzieleniu zabezpieczenia zagrozić obowiązanemu nakazaniem zapłaty określonej sumy pieniężnej na rzecz uprawnionego na wypadek naruszenia obowiązków określonych w tym postanowieniu. Przepisy art. 1050 i 1051 , a jeżeli zabezpieczenie polega na uregulowaniu sposobu kontaktów z dzieckiem – art. 582 § 3, stosuje się odpowiednio.”;
+
+- **72)** w art. 762:
+    - **a)** § 1–3 otrzymują brzmienie: „§ 1. Za nieuzasadnioną odmowę udzielenia organowi egzekucyjnemu wyjaśnień lub informacji przewidzianych w art. 761 albo za udzielanie informacji lub wyjaśnień świadomie fałszywych osoba odpowiedzialna może być na wniosek wierzyciela lub z urzędu ukarana przez organ egzekucyjny grzywną do dwóch tysięcy złotych. Grzywną taką może być również ukarany dłużnik, który zaniedba obowiązku powiadomienia o zmianie miejsca swojego pobytu.
+
+§ 2. Jeżeli żądanie udzielenia wyjaśnień lub informacji skierowane było do osoby prawnej lub innej organizacji, ukaraniu grzywną podlega jej pracownik odpowiedzialny za udzielenie wyjaśnień lub informacji, a gdyby ustalenie takiego pracownika było utrudnione, ukaraniu podlega jej kierownik. Przed wydaniem postanowienia organ egzekucyjny wysłucha kierownika.
+
+§ 3. Wypis postanowienia o ukaraniu grzywną organ egzekucyjny doręcza osobie ukaranej, stronom oraz prokuratorowi.”,
+
+- **b)** uchyla się § 4,
+- **c)** § 5 otrzymuje brzmienie: „§ 5. Ukaranie przez organ egzekucyjny grzywną nie zwalnia osób ukaranych od odpowiedzialności karnej za niedopełnienie lub przekroczenie obowiązków służbowych.”;
+- **73)** art. 764 otrzymuje brzmienie: „Art. 764. Komornik może upomnieć, a po bezskutecznym upomnieniu wydalić osobę, która zachowuje się niewłaściwie lub przeszkadza jego czynnościom. W przypadku niezastosowania się do wezwania do wydalenia z miejsca czynności komornik może ukarać taką osobę grzywną w wysokości do tysiąca złotych.”;
+- **74)** w art. 767 § 4 otrzymuje brzmienie: „§ 4. Skargę wnosi się do sądu w terminie tygodniowym od dnia czynności, gdy strona lub osoba, której prawo zostało przez czynność komornika naruszone bądź zagrożone, była przy czynności obecna lub była o jej terminie zawiadomiona, w innych wypadkach – od dnia zawiadomienia o dokonaniu czynności strony lub osoby, której prawo zostało przez czynności komornika naruszone bądź zagrożone, a w braku zawiadomienia – od dnia dowiedzenia się przez skarżącego o dokonanej czynno ści. Skargę na zaniechanie przez komornika czynności wnosi się w terminie tygodniowym od dnia, w którym czynność powinna być dokonana. Odpis skargi sąd przesyła komornikowi, który w terminie trzech dni na piśmie sporządza uzasadnienie dokonania zaskarżonej czynności lub przyczyn jej zaniechania oraz przekazuje je wraz z aktami sprawy do sądu, do którego skargę wniesiono, chyba że skargę w całości uwzględnia, o czym zawiadamia sąd i skarżącego oraz zainteresowanych, których uwzględnienie skargi dotyczy.”;
+- **75)** art. 767 otrzymuje brzmienie: „Art. 767 . Sąd odrzuca skargę wniesioną po upływie przepisanego terminu, nieopłaconą lub z innych przyczyn niedopuszczalną, jak również skargę, której braków nie uzupełniono w terminie, chyba że uzna, iż zachodzą podstawy do podjęcia czynności na podstawie art. 759 § 2. Na postanowienie sądu o odrzuceniu skargi służy zażalenie.”;
+- **76)** po art. 767 dodaje się art. 767 w brzmieniu: „Art. 767 . Na postanowienie referendarza sądowego przysługuje skarga. Wniesienie skargi nie powoduje utraty mocy przez zaskarżone postanowienie. Sąd orzeka jako sąd drugiej instancji, stosując odpowiednio przepisy o zażaleniu. Rozpoznając skargę, sąd wydaje postanowienie, w którym zaskarżone postanowienie referendarza utrzymuje w mocy albo je zmienia.”;
+- **77)** po art. 768 dodaje się art. 768 w brzmieniu: „Art. 768 . Prawomocne postanowienie komornika o ukaraniu grzywną podlega wykonaniu w drodze egzekucji sądowej bez zaopatrywania go w klauzulę wykonalności.”;
+- **78)** w art. 773:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. W przypadku zbiegu egzekucji administracyjnej i sądowej co do tej samej rzeczy lub prawa majątkowego, administracyjny organ egzekucyjny i komornik wstrzymują czynności egzekucyjne na wniosek wierzyciela, dłużnika lub z urzędu i przekazują akta egzekucji administracyjnej i egzekucji sądowej sądowi rejonowemu, w którego okręgu wszczęto egzekucję, w celu rozstrzygnięcia, który organ egzekucyjny – sądowy czy administracyjny – ma dalej prowadzić w trybie właściwym dla danego organu łącznie egzekucje z tej rzeczy lub prawa majątkowego, do którego nastąpił zbieg egzekucji. Sąd wydaje postanowienie w terminie 14 dni, biorąc pod uwagę stan każdego z postępowań egzekucyjnych, a jeżeli są one w równym stopniu zaawansowane, wysokość egzekwowanych należności i kolejność ich zaspokojenia, z zastrzeżeniem § 2 i 2 . Równocześnie sąd postanawia, jakie już dokonane czynności egzekucyjne pozostają w mocy.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Postanowienie, o którym mowa w § 1, może wydać także referendarz sądowy.”,
+    - **c)** po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Jeżeli sąd lub referendarz sądowy postanowi, że obie egzekucje ma prowadzić łącznie administracyjny organ egzekucyjny, komornik przed przekazaniem akt administracyjnemu organowi egzekucyjnemu rozliczy koszty egzekucji, zwróci wierzycielowi pozostałości niewykorzystanej zaliczki i odnotuje na tytule wykonawczym wysokość dotychczasowych kosztów egzekucyjnych oraz w jakim zakresie roszczenie wierzyciela zostało zaspokojone.”,
+    - **d)** § 4 otrzymuje brzmienie: „§ 4. Skarga na postanowienie referendarza sądowego przysługuje stronom i administracyjnemu organowi egzekucyjnemu. Na postanowienie sądu stronom oraz administracyjnemu organowi egzekucyjnemu przysługuje zażalenie.”;
+
+- **79)** po art. 773 dodaje się art. 773 w brzmieniu: „Art. 773 . § 1. Jeżeli na podstawie jednego tytułu wykonawczego komornik prowadzi egzekucje z dwóch lub więcej rzeczy lub praw, a zbieg egzekucji dotyczy tylko niektórych z nich i na podstawie art. 773 § 1 do łącznego prowadzenia egzekucji został wyznaczony organ administracyjny, dla sprawy przekazanej temu organowi wydaje się z urzędu dalszy tytuł wykonawczy, oznaczając w nim, że stanowi on podstawę do dalszego prowadzenia egzekucji przez administracyjny organ egzekucyjny. Przepis art. 793 stosuje się odpowiednio. Jeżeli postanowienie, o którym mowa w art. 773 § 1, wydał referendarz sądowy, może on również wydać dalszy tytuł wykonawczy.
+
+§ 2. Jeżeli egzekucja, o której mowa w § 1, jest prowadzona na podstawie tytułu wykonawczego wystawionego na podstawie tytułu egzekucyjnego niepochodzącego od sądu, który orzeka o zbiegu egzekucji, dalszy tytuł wykonawczy jest wystawiany po przedłożeniu tytułu egzekucyjnego przez wierzyciela.”;
+
+- **80)** art. 776 otrzymuje brzmienie: „Art. 776. Podstawą egzekucji jest tytuł wykonawczy. Tytułem wykonawczym jest tytuł egzekucyjny zaopatrzony w klauzulę wykonalności, chyba że ustawa stanowi inaczej.”;
+- **81)** w art. 777:
+    - **a)** w § 1: – uchyla się pkt 2 i 2 , – pkt 4-6 otrzymują brzmienie: „4) akt notarialny, w którym dłużnik poddał się egzekucji i który obejmuje obowiązek zapłaty sumy pieniężnej lub wydania rzeczy oznaczonych co do gatunku, ilościowo w akcie określonych, albo też wydania rzeczy indywidualnie oznaczonej, gdy w akcie wskazano termin wykonania obowiązku lub zdarzenie, od którego uzależnione jest wykonanie,
+
+- **5)** akt notarialny, w którym dłużnik poddał się egzekucji i który obejmuje obowiązek zapłaty sumy pieniężnej do wysokości w akcie wprost określonej albo oznaczonej za pomocą klauzuli waloryzacyjnej, gdy w akcie wskazano zdarzenie, od którego uzależnione jest wykonanie obowiązku, jak również termin, do którego wierzyciel może wystąpić o nadanie temu aktowi klauzuli wykonalności,
+- **6)** akt notarialny określony w pkt 4 lub 5, w którym niebędąca dłużnikiem osobistym osoba, której rzecz, wierzytelność lub prawo obciążone jest hipoteką lub zastawem, poddała się egzekucji z obciążonego przedmiotu w celu zaspokojenia wierzytelności pieniężnej przysługującej zabezpieczonemu wierzycielowi.”,
+    - **b)** § 2 otrzymuje brzmienie: „§ 2. Oświadczenie dłużnika o poddaniu się egzekucji może być złożone także w odrębnym akcie notarialnym.”,
+    - **c)** uchyla się § 3;
+
+- **82)** w art. 782 § 2 otrzymuje brzmienie: „§ 2. Nakazowi zapłaty wydanemu w elektronicznym postępowaniu upominawczym nadaje się klauzulę wykonalności z urzędu niezwłocznie po jego uprawomocnieniu się.”;
+- **83)** w art. 783 § 1 i 2 otrzymują brzmienie: „§ 1. Klauzula wykonalności powinna zawierać stwierdzenie, że tytuł uprawnia do egzekucji, a w razie potrzeby oznaczać jej zakres. Jeżeli przepis szczególny nie stanowi inaczej, tytułowi egzekucyjnemu opiewającemu na świadczenie pieniężne w walucie obcej sąd nada klauzulę wykonalności ze zobowiązaniem komornika do przeliczenia zasądzonej kwoty na walutę polską według średniego kursu waluty obcej ogłoszonego przez Narodowy Bank Polski na dzień sporządzenia planu podziału, a jeżeli planu nie sporządza się – na dzień wypłaty kwoty wierzycielowi.
+
+§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, brzmienie klauzuli wykonalności, mając na względzie treść § 1 oraz sprawne prowadzenie egzekucji i zapewnienie możliwości obrony praw jej uczestników.”;
+
+- **84)** uchyla się art. 786 ;
+- **85)** w art. 791:
+    - **a)** § 1–3 otrzymują brzmienie: „§ 1. Tytuł wykonawczy zobowiązujący do wydania nieruchomości, statku lub do opróżnienia pomieszczenia upoważnia do prowadzenia egzekucji także przeciwko każdemu, kto uzyskał władanie nad tym przedmiotem po wszczęciu postępowania, w którym wydano tytuł egzekucyjny.
+
+§ 2. Tytuł wykonawczy zobowiązujący do wydania nieruchomości, statku lub do opróżnienia pomieszczenia upoważnia do prowadzenia egzekucji nie tylko przeciw dłużnikowi, lecz także przeciwko jego domownikom, krewnym i innym osobom reprezentującym jego prawa.
+
+§ 3. Przepisy § 1 i 2 nie wyłączają praw określonych przepisami o ochronie lokatorów oraz praw, które są skuteczne wobec wierzyciela. Jeżeli dłużnik twierdzi, że przysługuje mu prawo skuteczne wobec wierzyciela, komornik wstrzyma się względem niego z czynnościami egzekucyjnymi, pouczając, że w terminie tygodnia może wytoczyć powództwo o pozbawienie w stosunku do niego tytułu wykonawczego wykonalności.”,
+
+- **b)** uchyla się § 4,
+- **c)** dodaje się § 5 w brzmieniu: „§ 5. Po upływie miesiąca od daty wstrzymania czynności komornik podejmie dalsze czynności egzekucyjne w stosunku do dłużnika, chyba że postępowanie egzekucyjne zostało zawieszone postanowieniem sądu o udzieleniu zabezpieczenia.”;
+- **86)** art. 801 otrzymuje brzmienie: „Art. 801. Jeżeli wierzyciel lub sąd zarządzający z urzędu przeprowadzenie egzekucji albo uprawniony organ żądający przeprowadzenia egzekucji nie wskaże majątku pozwalającego na zaspokojenie świadczenia, komornik może wezwać dłużnika do złożenia wyjaśnień.”;
+- **87)** art. 807 otrzymuje brzmienie: „Art. 807. § 1. Zabezpieczenie w wypadkach w części niniejszej przewidzianych powinno być złożone w gotówce do rąk komornika lub wpłacone na wskazany przez niego rachunek bankowy albo złożone w książeczkach oszczędnościowych lub w papierach wartościowych. Art. 752 § 2 stosuje się odpowiednio. O wydaniu zabezpieczenia sąd rozstrzyga po wysłuchaniu osób zainteresowanych. Na postanowienie sądu przysługuje zażalenie.
+
+§ 2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, sposób składania zabezpieczenia w papierach wartościowych, biorąc pod uwagę bezpieczeństwo papierów wartościowych i sprawność postępowania egzekucyjnego.”;
+
+- **88)** w art. 808 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Odsetki od sum złożonych na rachunek depozytowy sądu tytułem nabycia przedmiotu egzekucji wchodzą w skład sumy uzyskanej w egzekucji. Odsetki należne za okres od dnia sporządzenia planu podziału sumy uzyskanej w egzekucji do dnia wykonania planu zwraca się osobie uprawnionej.”;
+- **89)** w art. 812 § 1 otrzymuje brzmienie: „§ 1. Wierzyciel i dłużnik mogą być obecni przy czynnościach egzekucyjnych. Na żądanie stron albo według uznania komornika mogą być obecni także świadkowie, chyba że zachodzi obawa, że wskutek straty czasu na przywołanie świadków egzekucja będzie udaremniona. Świadków przywołuje się w liczbie nie większej niż po dwóch z każdej strony.”;
+- **90)** w art. 816 dodaje się § 3 w brzmieniu: „§ 3. Ukończenie postępowania egzekucyjnego w inny sposób niż przez umorzenie komornik stwierdza postanowieniem, rozstrzygając o kosztach.”;
+- **91)** po art. 821 dodaje się art. 821 w brzmieniu: „Art. 821 . Jeżeli egzekucja została skierowana do wynagrodzenia za pracę lub innych praw majątkowych, z którymi związane jest prawo dłużnika do świadczeń okresowych, sąd na wniosek dłużnika może określić kwotę, jaką dłużnik może pobierać w okresie zawieszenia postępowania w celu zaspokajania bieżących potrzeb. Na postanowienie sądu określające kwotę, którą dłużnik może pobierać w celu zaspokajania bieżących potrzeb, wierzycielowi służy zażalenie.”;
+- **92)** art. 863 otrzymuje brzmienie: „Art. 863. Minister Sprawiedliwości może, w drodze rozporządzenia, zarządzić utrzymywanie osobnych pomieszczeń do przechowywania i dozorowania zajętych ruchomości, mając na względzie sprawne prowadzenie egzekucji oraz właściwe zabezpieczenie zajętych ruchomości.”;
+- **93)** art. 864 otrzymuje brzmienie: „Art. 864 . Komornik może sprzedać z wolnej ręki ruchomości niewymienione w art. 864 § 2, jeżeli dłużnik wyraził na to zgodę i określił minimalną cenę zbycia. Sprzedaż nie może nastąpić wcześniej niż po dwóch tygodniach od dnia oszacowania, jeżeli żaden z wierzycieli prowadzących egzekucję nie sprzeciwił się jej w terminie tygodnia od daty zawiadomienia go przez komornika o zamiarze jej przeprowadzenia.”;
+- **94)** po art. 867 dodaje się art. 867 i 867 w brzmieniu: „Art. 867 . § 1. Przystępujący do przetargu obowiązany jest złożyć rękojmię w wysokości jednej dziesiątej sumy oszacowania.
+
+§ 2. Rękojmię złożoną przez licytanta, któremu udzielono przybicia, zatrzymuje się; pozostałym licytantom rękojmię zwraca się niezwłocznie.
+
+§ 3. Jeżeli nabywca nie wykonał w terminie warunków licytacji co do zapłaty ceny, traci rękojmię, a skutki przybicia wygasają. Z utraconej rękojmi pokrywa się koszty egzekucji związanej ze sprzedażą, a reszta wchodzi w skład sumy uzyskanej w egzekucji albo jeżeli egzekucja została umorzona jest przelewana na dochód Skarbu Państwa.
 
 **Art. 867².**
 
@@ -117,6 +332,17 @@ source: "isap-pdf"
 - **131)** w art. 1214 § 2 otrzymuje brzmienie: „§ 2. Sąd stwierdza wykonalność wyroku sądu polubownego lub ugody przed nim zawartej, nadających się do wykonania w drodze egzekucji, nadając im klauzulę wykonalności. Na postanowienie sądu przysługuje zażalenie. Wyrok sądu polubownego lub ugoda przed nim zawarta, których wykonalność została stwierdzona, są tytułami wykonawczymi.”.
 
 **Art. 2.** W ustawie z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych (Dz. U. Nr 33, poz. 175, z późn. zm. ) art. 2 otrzymuje brzmienie: „Art. 2. 1. Sprawami gospodarczymi są sprawy ze stosunków cywilnych między przedsiębiorcami w zakresie prowadzonej przez nich działalności gospodarczej. 2. Ponadto sprawami gospodarczymi są sprawy:
+
+- **1)** określone w ust. 1, choćby którakolwiek ze stron zaprzestała prowadzenia działalności gospodarczej;
+- **2)** ze stosunku spółki oraz dotyczące roszczeń, o których mowa w art. 291–300 i art. 479–490 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm. );
+- **3)** przeciwko przedsiębiorcom o zaniechanie naruszania środowiska i przywrócenie do stanu poprzedniego lub o naprawienie szkody z tym związanej oraz o zakazanie albo ograniczenie działalności zagrażającej środowisku;
+- **4)** między organami przedsiębiorstwa państwowego;
+- **5)** między przedsiębiorstwem państwowym lub jego organami a jego organem założycielskim lub organem sprawującym nadzór;
+- **6)** z zakresu prawa upadłościowego i naprawczego;
+- **7)** o nadanie klauzuli wykonalności tytułowi egzekucyjnemu, którym jest orzeczenie sądu gospodarczego prawomocne lub podlegające natychmiastowemu wykonaniu albo ugoda zawarta przed tym sądem, jak również innemu tytułowi egzekucyjnemu, obejmującemu roszczenia, które, gdyby były rozpoznawane przez sąd, należałyby do właściwości sądów gospodarczych;
+- **8)** o pozbawienie wykonalności tytułu wykonawczego opartego na prawomocnym lub podlegającym natychmiastowemu wykonaniu orzeczeniu sądu gospodarczego albo ugodzie zawartej przed tym sądem, jak również innego tytułu wykonawczego obejmującego roszczenie, które, gdyby było rozpoznawane przez sąd, należałoby do właściwości sądów gospodarczych;
+- **9)** o ustalenie, że orzeczenie sądu lub rozstrzygnięcie innego organu państwa obcego wydane w sprawie gospodarczej podlega albo nie podlega uznaniu;
+- **10)** inne, przekazane przez odrębne przepisy.”.
 
 **Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm. ) w art. 30 ust. 3 otrzymuje brzmienie: „3. Postępowanie w sprawie odwołania od decyzji Prezesa URE toczy się według przepisów Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu regulacji energetyki.”.
 

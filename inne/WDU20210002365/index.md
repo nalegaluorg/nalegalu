@@ -8,10 +8,10 @@ pos: 2365
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2365 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 17 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002365) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2365/text.pdf) |
 
-Poz. 2365 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 17 grudnia 2021 r.
-w sprawie szczegółowych warunków zaliczania masy odpadów opakowaniowych do poddanych recyklingowi Na podstawie art. 21 ust. 9 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2020 r. poz. 1114 oraz z 2021 r. poz. 2151) zarządza się, co następuje: § 1. Warunki zaliczania masy odpadów opakowaniowych do poddanych recyklingowi są określone w art. 6c ust. 1 i art. 6d decyzji Komisji 2005/270/WE z dnia 22 marca 2005 r. ustanawiającej formaty w odniesieniu do systemu baz danych zgodnie z dyrektywą 94/62/WE Parlamentu Europejskiego i Rady w sprawie opakowań i odpadów opakowaniowych (Dz. Urz. UE L 86 z 05.04.2005, str. 6, z późn. zm. ).
+w sprawie szczegółowych warunków zaliczania masy odpadów opakowaniowych do poddanych recyklingowi Na podstawie art. 21 ust. 9 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2020 r. poz. 1114 oraz z 2021 r. poz. 2151) zarządza się, co następuje:
+§ 1. Warunki zaliczania masy odpadów opakowaniowych do poddanych recyklingowi są określone w art. 6c ust. 1 i art. 6d decyzji Komisji 2005/270/WE z dnia 22 marca 2005 r. ustanawiającej formaty w odniesieniu do systemu baz danych zgodnie z dyrektywą 94/62/WE Parlamentu Europejskiego i Rady w sprawie opakowań i odpadów opakowaniowych (Dz. Urz. UE L 86 z 05.04.2005, str. 6, z późn. zm. ).
 § 2. 1. Odpady opakowaniowe powstałe z opakowań wielomateriałowych lub innych opakowań składających się z więcej niż jednego materiału zalicza się do masy odpadów opakowaniowych poddanych recyklingowi w odniesieniu do masy każdego materiału zawartego w tych opakowaniach.
 2. Warunkiem zaliczenia odpadów opakowaniowych powstałych z opakowań wielomateriałowych lub innych opakowań składających się z więcej niż jednego materiału do masy odpadów opakowaniowych poddanych recyklingowi według materiału dominującego w danym odpadzie jest to, że masa każdego z pozostałych materiałów zawartych w tym opakowaniu nie przekracza 5% całkowitej masy tego opakowania.
 § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 28 marca 2003 r. o transporcie kolejowym*
 
 Łącznie: **98** orzeczeń
-(pominięto 246 orzeczeń sądów rejonowych)
+(pominięto 247 orzeczeń sądów rejonowych)
 
 ## art. 3 (1)
 

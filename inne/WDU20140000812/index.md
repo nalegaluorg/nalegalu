@@ -8,10 +8,10 @@ pos: 812
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 czerwca 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 812 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 25 kwietnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/812/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 25 kwietnia 2014 r.
-w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi Na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613 i 587) zarządza się, co następuje:
+w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi Na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613 i 587) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe wymagania dotyczące prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi, zwanych dalej „zakładami górniczymi otworowymi”, w zakresie:
 1) bezpieczeństwa i higieny pracy, w tym oceniania i dokumentowania ryzyka zawodowego oraz stosowania niezbędnych rozwiązań zmniejszających to ryzyko;
 2) bezpieczeństwa pożarowego;
 3) gospodarki złożami kopalin w procesie ich wydobywania;
@@ -38,12 +38,13 @@ w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu zakładów gó
 1) podziemnych wyrobiskach górniczych;
 2) celu urabiania kopaliny.
 § 4. Ilekroć w rozporządzeniu jest mowa o pracach szczególnie niebezpiecznych, należy przez to rozumieć prace:
-1) określone w przepisach wydanych na podstawie art. 237 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. );
+1) określone w przepisach wydanych na podstawie art. 237 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. );
 2) związane z:
 a) montażem, przemieszczaniem i demontażem wiertnic, wież wiertniczych lub masztów wiertniczych i innych urządzeń wielkogabarytowych,
 b) badaniem szczelności i sprawności całego przeciwerupcyjnego zabezpieczenia otworu wiertniczego,
 c) przeprowadzaniem prób szczelności i wytrzymałości rurociągów, w przypadku gdy używa się do tych prób gazu palnego;
 3) uznane jako szczególnie niebezpieczne przez kierownika ruchu zakładu górniczego otworowego.
+§ 5. Przedsiębiorca sporządza, uzupełnia i aktualizuje dokumentację dotyczącą prowadzenia ruchu zakładu górniczego otworowego oraz, w sposób ciągły, przeprowadza analizy i badania niezbędne dla bezpiecznego prowadzenia tego ruchu, w tym dla oceny i dokumentowania ryzyka zawodowego oraz stosowania niezbędnych rozwiązań zmniejszających to ryzyko.
 § 6. Przedsiębiorca nie rzadziej niż raz na 12 miesięcy dokonuje przeglądu działań podjętych w celu zapewnienia bezpieczeństwa i ochrony zdrowia pracowników.
 § 7. Przedsiębiorca projektuje, buduje, wyposaża, oddaje do użytku, obsługuje i utrzymuje miejsca pracy, w sposób zapewniający bezpieczeństwo pracowników.
 § 8. 1. Przed rozpoczęciem prac, odrębnie dla każdego zakładu górniczego otworowego, przedsiębiorca sporządza dokument bezpieczeństwa i ochrony zdrowia pracowników, zwany dalej „dokumentem bezpieczeństwa”.
@@ -63,7 +64,7 @@ b) z zaznaczeniem środków, które zostały podjęte po wystąpieniu niebezpiec
 3) dokonuje właściwego oraz zgodnego z przeznaczeniem doboru maszyn, urządzeń, materiałów, wyrobów z tworzyw sztucznych oraz środków strzałowych i sprzętu strzałowego w taki sposób, aby nie stwarzały one zagrożenia dla bezpieczeństwa i zdrowia osób oraz środowiska;
 4) powołuje zespoły opiniodawcze do spraw ruchu zakładu górniczego otworowego.
 2. Wykonując ustalenia, o których mowa w ust. 1 pkt 2, określa się w szczególności sposób:
-1) koordynacji prac wykonywanych przez poszczególne działy ruchu zakładu górniczego otworowego i służby specjalistyczne oraz przez pracowników zatrudnionych w podmiotach, o których mowa w art. 121 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze;
+1) koordynacji prac wykonywanych przez poszczególne działy ruchu zakładu górniczego otworowego i służby specjalistyczne oraz przez pracowników zatrudnionych w podmiotach, o których mowa w art. 121 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
 2) wykonywania nadzoru nad pracami, o których mowa w pkt 1;
 3) użytkowania maszyn i urządzeń w zakładzie górniczym otworowym.
 3. Kierownik ruchu zakładu górniczego otworowego:
@@ -80,6 +81,7 @@ b) z zaznaczeniem środków, które zostały podjęte po wystąpieniu niebezpiec
 3. Osoba, której doręczono zakres czynności, o którym mowa w ust. 1, potwierdza podpisem jego odbiór.
 § 12. Kierownik ruchu zakładu górniczego otworowego wyznacza osoby kierownictwa lub dozoru ruchu tego zakładu odpowiedzialne za:
 1) ustalanie składów zespołów pracowników pod względem ich liczebności i kwalifikacji;
+2) wyznaczenie kierujących zespołami pracowników.
 § 13. Osoby kierownictwa i dozoru ruchu zakładu górniczego otworowego oraz kierujący zespołami pracowników organizują i prowadzą prace osób zatrudnionych w ruchu tego zakładu, w sposób zapewniający bezpieczeństwo pracowników, ruchu tego zakładu, racjonalną gospodarkę złożem i ochronę środowiska.
 § 14. 1. Rozkład pracy oraz dyżurów osób kierownictwa i dozoru ruchu zakładu górniczego otworowego ustala się w sposób zapewniający bezpieczne prowadzenie prac w okresie całej doby, w szczególności możliwość podejmowania decyzji w przypadku powstania zagrożenia.
 2. Osoba dozoru ruchu zakładu górniczego otworowego obejmująca zmianę zapoznaje się z przebiegiem pracy zmiany poprzedniej w zakresie niezbędnym do prawidłowego i bezpiecznego kontynuowania prac.
@@ -123,7 +125,7 @@ z 2009 r. Nr 178, poz. 1380, z późn. zm. ).
 § 25. 1. Prace szczególnie niebezpieczne:
 1) wykonują pracownicy pod bezpośrednim nadzorem osoby dozoru ruchu zakładu górniczego otworowego;
 2) poprzedza się:
-a) sprawdzeniem stanu bezpieczeństwa miejsca pracy i urządzeń przez osobę dozoru ruchu zakładu górniczego
+a) sprawdzeniem stanu bezpieczeństwa miejsca pracy i urządzeń przez osobę dozoru ruchu zakładu górniczego otworowego,
 b) instruktażem pracowników o sposobie prawidłowego i bezpiecznego wykonywania pracy oraz o mogących wystąpić zagrożeniach i sposobach ograniczenia związanego z nimi ryzyka,
 c) doborem odpowiednich środków ochrony.
 2. Podczas wykonywania prac szczególnie niebezpiecznych niedopuszczalne jest w miejscach ich wykonywania przebywanie osób niebiorących udziału w tych pracach oraz wykonywanie innych prac w pobliżu tego miejsca.
@@ -144,7 +146,8 @@ c) doborem odpowiednich środków ochrony.
 2. Strefy zagrożenia toksycznego oznakowuje się znakami bezpieczeństwa i zabezpiecza, na czas występowania zagrożenia, przed dostępem osób nieupoważnionych.
 3. W zakładzie górniczym otworowym, wydzielonym jego oddziale lub jednostce terenowej znajduje się, zatwierdzona przez kierownika ruchu tego zakładu, instrukcja postępowania na wypadek zagrożenia toksycznego.
 § 32. 1. Osoby kierownictwa i dozoru ruchu zakładu górniczego otworowego oraz wyznaczeni pracownicy są szkoleni w udzielaniu pierwszej pomocy oraz w stosowaniu sprzętu reanimacyjnego.
-2. W zakładzie górniczym otworowym, wydzielonym jego oddziale lub jednostce terenowej, oprócz pracowników wymienionych w ust. 1, na każdej zmianie roboczej jest zatrudniony co najmniej jeden pracownik przeszkolony w udzielaniu § 33. 1. Prace spawalnicze wykonuje się zgodnie z instrukcją zatwierdzoną przez kierownika ruchu zakładu górniczego otworowego.
+2. W zakładzie górniczym otworowym, wydzielonym jego oddziale lub jednostce terenowej, oprócz pracowników wymienionych w ust. 1, na każdej zmianie roboczej jest zatrudniony co najmniej jeden pracownik przeszkolony w udzielaniu pierwszej pomocy oraz w stosowaniu sprzętu reanimacyjnego.
+§ 33. 1. Prace spawalnicze wykonuje się zgodnie z instrukcją zatwierdzoną przez kierownika ruchu zakładu górniczego otworowego.
 2. Jeżeli prace spawalnicze będą wykonywane w miejscach, w których istnieje zagrożenie pożarem, wybuchem gazów, par lub mgieł, w instrukcji, o której mowa w ust. 1, uwzględnia się szczególne wymagania wynikające z tego zagrożenia.
 § 34. 1. Przy wykonywaniu prac spawalniczych przy zbiornikach odłącza się je od instalacji za pomocą zasuw i zaślepek stalowych. Po odłączeniu wyparowuje się je lub wypełnia gazem obojętnym, przewietrza, oczyszcza i osusza.
 2. Prace spawalnicze w zbiornikach mogą być wykonywane, jeżeli zawartość tlenu w zbiorniku nie jest niższa niż 19% objętości, a zawartość substancji toksycznych i palnych nie stwarza zagrożenia.
@@ -157,9 +160,9 @@ c) doborem odpowiednich środków ochrony.
 5) czynności wykonywane przez poszkodowanego w chwili wypadku;
 6) dane dotyczące poszkodowanego:
 a) nazwisko i imię,
-b) d atę i miejsce urodzenia,
+b) datę i miejsce urodzenia,
 c) nazwę i adres pracodawcy,
-d) m iejsce zatrudnienia,
+d) miejsce zatrudnienia,
 e) stanowisko,
 f) staż pracy w górnictwie;
 7) miejsce pobytu poszkodowanego po wypadku;
@@ -175,7 +178,7 @@ f) staż pracy w górnictwie;
 6) imię, nazwisko i stanowisko osoby kierującej akcją likwidacji zagrożenia;
 7) informację o działaniach podjętych w celu likwidacji zagrożenia.
 4. W przypadku braku informacji, o których mowa w ust. 2 i 3, informacje te podaje się niezwłocznie po ich uzyskaniu.
-5. Kierownik ruchu zakładu górniczego otworowego zawiadamia właściwy organ nadzoru górniczego o każdym wypadku zaistniałym w tym zakładzie górniczym, innym niż wymieniony w ust. 1, pisemnie przy użyciu dostępnych środków
+5. Kierownik ruchu zakładu górniczego otworowego zawiadamia właściwy organ nadzoru górniczego o każdym wypadku zaistniałym w tym zakładzie górniczym, innym niż wymieniony w ust. 1, pisemnie przy użyciu dostępnych środków porozumiewania się na odległość.
 6. W zawiadomieniu, o którym mowa w ust. 5, podaje się:
 1) nazwę zakładu górniczego otworowego;
 2) nazwę i adres pracodawcy poszkodowanego;
@@ -190,6 +193,7 @@ f) staż pracy w górnictwie;
 3) należyte ogrzewanie obiektów, pomieszczeń i urządzeń tego zakładu;
 4) usuwanie nagromadzeń śniegu i lodu oraz nawisów lodowych i śnieżnych na obiektach, urządzeniach i drogach, likwidację gołoledzi na drogach i przejściach, usuwanie wód pochodzących z topniejącego śniegu lub gwałtownej odwilży;
 5) dostosowanie maszyn, urządzeń i rozwiązań technologicznych do pracy w warunkach zimowych.
+§ 38. 1. Przy wykonywaniu otworu wiertniczego prowadzi się dokumentację robót wiertniczych.
 2. W skład dokumentacji robót wiertniczych wchodzą:
 1) dokumentacje:
 a) dotyczące wykonywania otworu wiertniczego,
@@ -231,7 +235,7 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 2. Jeżeli istnieje uzasadnione przypuszczenie, że teren zajęty pod wiertnię jest uzbrojony, a lokalizacja tego uzbrojenia nie jest znana, przed rozpoczęciem robót wiertniczych uzbrojenie lokalizuje się za pomocą odpowiedniej aparatury lub wykonanego w tym celu wykopu. Z wykonanych czynności sporządza się protokół.
 § 44. 1. Otwór wiertniczy lokalizuje się co najmniej w odległości:
 1) 50 m od obiektów z ogniem otwartym, przy robotach wiertniczych w celu poszukiwania, rozpoznawania złóż ropy naftowej i gazu ziemnego lub wydobywania ropy naftowej i gazu ziemnego ze złóż, a także w rejonach o przewidywanym występowaniu w górotworze nagromadzeń gazów palnych;
-2) wynoszącej 1,5 wysokości wieży wiertniczej lub masztu od linii kolejowych, kanałów i zbiorników wodnych, rzek, dróg publicznych, zabudowań, z tym że odległość od napowietrznych linii wysokiego napięcia wynosi 1,5 wysokości
+2) wynoszącej 1,5 wysokości wieży wiertniczej lub masztu od linii kolejowych, kanałów i zbiorników wodnych, rzek, dróg publicznych, zabudowań, z tym że odległość od napowietrznych linii wysokiego napięcia wynosi 1,5 wysokości wieży lub masztu, lecz nie mniej niż 30 m.
 2. W przypadku robót wiertniczych wykonywanych dla badań sejsmicznych odległości od poszczególnych obiektów ustala kierownik ruchu zakładu wykonującego roboty geologiczne metodą otworową, zwany dalej „kierownikiem ruchu zakładu”.
 3. Odległości, o których mowa w ust. 1, mogą być zmniejszone przez kierownika ruchu zakładu, w przypadkach uzasadnionych warunkami techniczno-ruchowymi.
 4. Kierownik ruchu zakładu zawiadamia właściwy organ nadzoru górniczego o zmniejszeniu odległości przed rozpoczęciem robót przygotowawczych lub montażowych.
@@ -252,7 +256,8 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 8) zakres badań geologicznych w otworze wiertniczym poszukiwawczym, w tym obserwacji i opróbowania złoża, próbnych pompowań oraz badań i pomiarów specjalnych;
 9) zaliczenie otworu do odpowiedniej klasy zagrożenia erupcyjnego lub siarkowodorowego;
 10) zabezpieczenie przeciwerupcyjne wylotu otworu wiertniczego i przewodu wiertniczego w poszczególnych fazach prac.
-§ 50. Prace związane z rozpoznaniem geologicznym, w szczególności dowiercanie, opróbowanie, rdzeniowanie, cementowanie rur, oraz prace geofizyczne, badania hydrogeologiczne wykonuje się pod bezpośrednim nadzorem osób dozoru § 51. 1. Podczas robót wiertniczych wykonuje się bieżące pomiary parametrów płuczki. Zakres i częstotliwość pomiarów określa kierownik ruchu zakładu albo upoważniona przez niego osoba dozoru ruchu zakładu.
+§ 50. Prace związane z rozpoznaniem geologicznym, w szczególności dowiercanie, opróbowanie, rdzeniowanie, cementowanie rur, oraz prace geofizyczne, badania hydrogeologiczne wykonuje się pod bezpośrednim nadzorem osób dozoru ruchu zakładu oraz służby geologicznej tego zakładu.
+§ 51. 1. Podczas robót wiertniczych wykonuje się bieżące pomiary parametrów płuczki. Zakres i częstotliwość pomiarów określa kierownik ruchu zakładu albo upoważniona przez niego osoba dozoru ruchu zakładu.
 2. System obiegu płuczkowego uwzględnia w szczególności możliwość przygotowania odpowiedniego rodzaju płuczki, jej obróbkę, oczyszczanie i odgazowanie, stosownie do wymagań prowadzonych robót wiertniczych.
 3. Przy robotach wiertniczych w celu poszukiwania, rozpoznawania złóż ropy naftowej i gazu ziemnego lub wydobywania ropy naftowej i gazu ziemnego obieg płuczkowy wyposaża się w przyrządy kontrolno-pomiarowe, sygnalizujące przypływ płynu złożowego lub zanik płuczki wiertniczej, oraz w sygnalizację świetlną i akustyczną, zainstalowaną na stanowisku wiertacza. Instalację tłoczną pomp płuczkowych podłącza się do węzła zatłaczania otworu wiertniczego.
 § 52. Wysokość ciśnienia hydrostatycznego słupa płuczki w otworze wiertniczym wykonywanym dla udostępnienia złóż ropy naftowej i gazu ziemnego, stanowiącego zabezpieczenie przeciwerupcyjne, przy równoczesnej ochronie złoża, określa kierownik ruchu zakładu.
@@ -271,7 +276,7 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 § 59. 1. Nawiercone w otworze wiertniczym poziomy wód izoluje się przez zarurowanie i uszczelnia w taki sposób, aby nie wystąpiło przemieszczanie się tych wód poza rurami oraz ich zanieczyszczenie.
 2. Projekty uszczelniania kolumn rur okładzinowych w strefie występowania wód oraz kolumn eksploatacyjnych akceptuje służba geologiczna zakładu.
 3. Z przeprowadzonego badania skutecznego uszczelniania horyzontów wodonośnych sporządza się protokół, który dołącza się do dokumentacji dotyczącej wykonywania otworu wiertniczego, o której mowa w § 39 ust. 1.
-§ 60. 1. Rurowanie i uszczelnianie rur okładzinowych w otworach wiertniczych wykonuje się na podstawie projektu
+§ 60. 1. Rurowanie i uszczelnianie rur okładzinowych w otworach wiertniczych wykonuje się na podstawie projektu zatwierdzonego przez kierownika ruchu zakładu.
 2. Podczas wykonywania wiercenia w celu poszukiwania, rozpoznawania złóż ropy naftowej i gazu ziemnego lub wydobywania ropy naftowej i gazu ziemnego projekt, o którym mowa w ust. 1, sporządza się na podstawie instrukcji rurowania i cementowania rur, zatwierdzonej przez kierownika ruchu zakładu.
 3. Podczas wykonywania wiercenia w celach innych niż te, o których mowa w ust. 2, sposób uzbrojenia kolumny rur okładzinowych oraz zasady rurowania i uszczelniania rur w otworze wiertniczym ustala kierownik ruchu zakładu.
 § 61. 1. Do rurowania otworów wiertniczych podczas wykonywania wierceń w celu poszukiwania, rozpoznawania złóż ropy naftowej i gazu ziemnego lub wydobywania ropy naftowej i gazu ziemnego stosuje się rury okładzinowe posiadające atest wytwórcy oraz oznakowanie fabryczne, umożliwiające w szczególności ustalenie:
@@ -288,8 +293,8 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 2. Zaczyn cementowy użyty do uszczelniania kolumn rur okładzinowych posiada świadectwo badań laboratoryjnych, odpowiednio do warunków otworowych, określające wartości parametrów zaczynu i kamienia cementowego.
 § 63. Zaczyn cementowy w zarurowanej przestrzeni pierścieniowej podczas wykonywania wiercenia w celu poszukiwania, rozpoznawania złóż ropy naftowej i gazu ziemnego wytłacza się za kolumną:
 1) wstępną i prowadnikową do wylotu otworu wiertniczego;
-2) pośrednią na wysokość pozwalającą skutecznie odizolować orurowane horyzonty wód, ropy naftowej i gazu ziemnego;
-3) eksploatacyjną na wysokość zapewniającą uszczelnienie wszystkich poziomów roponośnych i gazonośnych orurowanych daną kolumną rur okładzinowych.
+2) pośrednią – na wysokość pozwalającą skutecznie odizolować orurowane horyzonty wód, ropy naftowej i gazu ziemnego;
+3) eksploatacyjną – na wysokość zapewniającą uszczelnienie wszystkich poziomów roponośnych i gazonośnych orurowanych daną kolumną rur okładzinowych.
 § 64. 1. Poziom roponośny i gazonośny lub wodonośny, w szczególności taki, w którym jest przewidywane występowanie siarkowodoru, może być dowiercany przy takiej konstrukcji otworu wiertniczego i uzbrojeniu jego wylotu, które umożliwią opanowanie przewidywanego ciśnienia i korozyjnego działania płynu złożowego.
 2. Przed dowierceniem pierwszego poziomu, z którego może nastąpić przypływ płynu złożowego, zapuszcza się i cementuje kolumnę wstępną lub prowadnikową.
 3. Zapuszczanie i cementowanie kolumn rur okładzinowych w otworach wiertniczych, z przewierconym poziomem, z którego może nastąpić przypływ płynu złożowego, wykonuje się przy wyposażeniu wylotu otworu wiertniczego w głowicę przeciwerupcyjną dostosowaną do średnicy zapuszczanych rur okładzinowych.
@@ -309,7 +314,7 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 2. Kolumny rur okładzinowych wychodzące do wylotu otworu wiertniczego ujmuje się w więźbie rurowej i sprawdza szczelność tego ujęcia.
 3. Wylot otworu wiertniczego oraz przestrzeń wewnętrzną przewodu wiertniczego podczas wykonywania wiercenia, a także wykonywania innych prac, w trakcie których może nastąpić wypływ płynu złożowego, wyposaża się w odpowiednie zabezpieczenie przeciwerupcyjne.
 § 74. 1. Ciśnienie robocze poszczególnych elementów przeciwerupcyjnego wyposażenia wylotu otworu przewidzianego na dany interwał otworu wiertniczego jest większe od maksymalnego spodziewanego ciśnienia głowicowego w tym interwale.
-2. Wielkość największego ciśnienia głowicowego dla danego poziomu zbiornikowego ustala się według wzoru: Pmax = A·H·q [MPa], gdzie poszczególne symbole oznaczają: Pmax największe spodziewane ciśnienie głowicowe poziomu zbiornikowego [MPa], q gradient ciśnienia złożowego rozpatrywanego poziomu [MPa/m], A współczynnik korekcyjny określony w poniższej tabeli: Głębokość zalegania H [m] Współczynnik korekcyjny A do 2500 1,0 powyżej 2500 do 3000 0,85–0,75 powyżej 3000 0,75–0,5
+2. Wielkość największego ciśnienia głowicowego dla danego poziomu zbiornikowego ustala się według wzoru: Pmax = A·H·q [MPa], gdzie poszczególne symbole oznaczają: Pmax – największe spodziewane ciśnienie głowicowe poziomu zbiornikowego [MPa], H – głębokość zalegania złoża (poziomu zbiornikowego) [m], q – gradient ciśnienia złożowego rozpatrywanego poziomu [MPa/m], A – współczynnik korekcyjny określony w poniższej tabeli: Głębokość zalegania H [m] Współczynnik korekcyjny A do 2500 1,0 powyżej 2500 do 3000 0,85–0,75 powyżej 3000 0,75–0,5
 3. Przepisu ust. 1 nie stosuje się do układu sterowniczego.
 4. Szczegółowy dobór współczynnika korekcyjnego A, o którym mowa w ust. 2, w granicach ustalonych zakresów określa instrukcja, o której mowa w § 71.
 § 75. 1. Wylot otworu wiertniczego wyposaża się w głowicę przeciwerupcyjną z co najmniej czterema zamknięciami, z których jedno jest zamknięciem uniwersalnym, w przypadku prowadzenia prac wiertniczych w warunkach zaliczonych do:
@@ -326,7 +331,9 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 § 79. 1. Dla każdego otworu wiertniczego:
 1) w którym przewiduje się udostępnienie poziomu zawierającego płyn złożowy z siarkowodorem, określa się kategorię zagrożenia siarkowodorowego i promień strefy przewidywanego skażenia siarkowodorem w wyniku otwartej erupcji płynu złożowego;
 2) zawierającego płyn złożowy z siarkowodorem ustala się minimalne odległości otworu wiertniczego od istniejących obiektów, zgodnie z § 80, oraz określa się czas trwania zagrożenia, obejmujący czas dowiercania w otworze wiertniczym poziomu występowania siarkowodoru, lub terminy rozpoczęcia i zakończenia określonych robót wiertniczych.
-2. Podczas ustalania kategorii zagrożenia siarkowodorowego w przypadku wiercenia kierunkowego uwzględnia się § 80. W rejonach o znanej wydajności i koncentracji siarkowodoru promień strefy skażenia oraz odległości otworu wiertniczego od obiektów określa się na podstawie poniższych kryteriów: Kategoria Promień strefy przewidywanego zagrożenia skażenia H Minimalna odległość [m] otworu wiertniczego od: budynków zamieszkanych przez: S [m] pojedynczego domu mieszkalnego nie więcej niż więcej niż 30 osób 30 osób (łącznie) 1 2 3 4 5 I powyżej 3500 100 500 1500 II od 3500 do 1000 100 500 500 III poniżej 1000 do 500 100 100 100 IV poniżej 500 do 150 100 100 100 § 81. 1. Przy zaliczaniu do określonej klasy zagrożenia erupcyjnego i określonej kategorii zagrożenia siarkowodorowego uwzględnia się:
+2. Podczas ustalania kategorii zagrożenia siarkowodorowego w przypadku wiercenia kierunkowego uwzględnia się długość otworu wiertniczego udostępniającego złoże.
+§ 80. W rejonach o znanej wydajności i koncentracji siarkowodoru promień strefy skażenia oraz odległości otworu wiertniczego od obiektów określa się na podstawie poniższych kryteriów: Minimalna odległość [m] otworu wiertniczego od: Kategoria Promień strefy przewidywanego budynków zamieszkanych przez: zagrożenia skażenia H S [m] pojedynczego domu mieszkalnego nie więcej niż więcej niż 30 osób 30 osób (łącznie) 1 2 3 4 5 I powyżej 3500 100 500 1500 II od 3500 do 1000 100 500 500 III poniżej 1000 do 500 100 100 100 IV poniżej 500 do 150 100 100 100
+§ 81. 1. Przy zaliczaniu do określonej klasy zagrożenia erupcyjnego i określonej kategorii zagrożenia siarkowodorowego uwzględnia się:
 1) przewidywany przekrój stratygraficzno-litologiczny;
 2) głębokość zalegania poziomów perspektywicznych;
 3) gradienty ciśnień złożowych i szczelinowania skał;
@@ -367,8 +374,8 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 1) słup płynu, o ciężarze właściwym przewyższającym gradient ciśnienia złożowego;
 2) zamknięcia głowicy przeciwerupcyjnej stosowane odpowiednio, jak podczas wykonywania wiercenia.
 2. W przypadkach nieobniżających bezpieczeństwa dopuszcza się stosowanie do robót wiertniczych prowadzonych w:
-1) I lub w II kategorii zagrożenia siarkowodorowego głowicy przeciwerupcyjnej z co najmniej trzema zamknięciami, z których jedno jest uniwersalne;
-2) III i IV kategorii zagrożenia siarkowodorowego lub innych rodzajach zagrożeń głowicy przeciwerupcyjnej z co najmniej dwoma zamknięciami.
+1) I lub w II kategorii zagrożenia siarkowodorowego – głowicy przeciwerupcyjnej z co najmniej trzema zamknięciami, z których jedno jest uniwersalne;
+2) III i IV kategorii zagrożenia siarkowodorowego lub innych rodzajach zagrożeń – głowicy przeciwerupcyjnej z co najmniej dwoma zamknięciami.
 3. Kierownik ruchu zakładu określa rodzaj głowicy przeciwerupcyjnej podczas opróbowania skał zbiornikowych na przypływ płynu złożowego, stosując technologię pozwalającą na zastosowanie niezrównoważonego ciśnienia dennego hydrostatycznego słupa płuczki w stosunku do ciśnienia złożowego.
 § 91. Opróbowanie poziomów zbiornikowych zawierających płyn złożowy z siarkowodorem prowadzi się po wyposażeniu wiertni w urządzenia do odgazowania płynu złożowego i spalania gazu ziemnego.
 § 92. 1. Elementy wyposażenia wylotu otworu wiertniczego podczas wiercenia oraz opróbowań, odporne na działanie siarkowodoru, określa instrukcja, o której mowa w § 71.
@@ -385,7 +392,8 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 6. W przypadku odwiertów przeznaczonych do eksploatacji siarki rodzimej przepisu ust. 5 pkt 2 nie stosuje się.
 § 96. 1. Odwierty wyłączone z eksploatacji i przeznaczone do likwidacji mają zamknięte wyloty oraz odłączone urządzenia i instalacje.
 2. Przy likwidacji otworów wiertniczych wykonywanych dla badań sejsmicznych sporządza się protokół całości likwidacji wyrobisk postrzałowych na danym profilu sejsmicznym.
-§ 97. 1. Likwidację otworu wiertniczego lub odwiertu wykonuje się w sposób zapewniający szczelną izolację poziomów wodnych, ropnych i gazowych, zgodnie z projektem robót geologicznych, zatwierdzonym odpowiednio przez kierow2. Projekt, o którym mowa w ust. 1, określa:
+§ 97. 1. Likwidację otworu wiertniczego lub odwiertu wykonuje się w sposób zapewniający szczelną izolację poziomów wodnych, ropnych i gazowych, zgodnie z projektem robót geologicznych, zatwierdzonym odpowiednio przez kierownika ruchu zakładu lub kierownika ruchu zakładu górniczego otworowego.
+2. Projekt, o którym mowa w ust. 1, określa:
 1) sposób zabezpieczenia wylotu zlikwidowanego otworu wiertniczego lub odwiertu;
 2) sposób trwałego oznakowania zlikwidowanego otworu wiertniczego lub odwiertu;
 3) strefę ochronną wokół zlikwidowanego otworu wiertniczego lub odwiertu.
@@ -405,6 +413,8 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 § 102. 1. Materiały użyte do likwidacji otworu wiertniczego lub odwiertu oraz sposób ich likwidacji dostosowuje się do istniejących warunków geologicznych, złożowych i technicznych.
 2. Sprzęt i narzędzia pozostawione w otworze wiertniczym lub odwiercie wyszczególnia się w protokole likwidacji otworu wiertniczego lub odwiertu.
 § 103. Przedsiębiorca prowadzący lub zlecający roboty wiertnicze w celu rozpoznania lub eksploatacji złóż węglowodorów, po zakończeniu robót wiertniczych i likwidacji otworów wiertniczych lub odwiertów, zapewnia wykonanie ich geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz zgłasza je do właściwego ośrodka dokumentacji geodezyjnej i kartograficznej oraz do właściwych organów samorządu terytorialnego.
+§ 104. 1. Zezwolenie na oddanie do ruchu maszyn i urządzeń wydaje kierownik ruchu zakładu górniczego otworowego na podstawie protokołu odbioru technicznego.
+2. Tryb dokonywania odbioru technicznego ustala kierownik ruchu zakładu górniczego otworowego.
 § 105. 1. W okresie użytkowania obiektu budowlanego zakładu górniczego otworowego zapewnia się:
 1) utrzymywanie stanu technicznego obiektu na poziomie zapewniającym bezpieczeństwo ludzi i mienia;
 2) utrzymanie wymaganego stanu estetycznego obiektu;
@@ -436,9 +446,9 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 20) innych obiektów budowlanych związanych z prowadzeniem ruchu, zlokalizowanych w granicach zakładu górniczego otworowego.
 § 106. 1. Zezwolenie na oddanie do ruchu maszyn i urządzeń znajdujących się na wiertni wydaje kierownik ruchu zakładu na podstawie protokołu odbioru technicznego, z zastrzeżeniem § 48.
 2. Tryb dokonywania odbioru technicznego ustala kierownik ruchu zakładu.
-§ 107. 1. Osoby kierownictwa i dozoru ruchu zakładu górniczego otworowego przeprowadzają okresowe kontrole stanu
+§ 107. 1. Osoby kierownictwa i dozoru ruchu zakładu górniczego otworowego przeprowadzają okresowe kontrole stanu technicznego oraz sposobu korzystania z maszyn i urządzeń, a także instalacji technicznych tego zakładu.
 2. Kierownik ruchu zakładu górniczego otworowego, uwzględniając dokumentację techniczną, zatwierdza instrukcje ustalające tryb przeprowadzania kontroli, o których mowa w ust. 1, ich zakres i częstotliwość oraz sposób dokumentowania.
-3. Kierownik ruchu zakładu górniczego otworowego określa częstotliwość, zakres i sposób przeprowadzania systematycznych przeglądów, konserwacji, a w razie potrzeby badań maszyn i urządzeń.
+3. Kierownik ruchu zakładu górniczego otworowego określa częstotliwość, zakres i sposób przeprowadzania systematycznych przeglądów, konserwacji, a w razie potrzeby – badań maszyn i urządzeń.
 § 108. 1. Maszyny i urządzenia eksploatuje się, konserwuje i naprawia w sposób określony w dokumentacji techniczno-ruchowej maszyn, w tym w instrukcjach eksploatacyjnych oraz instrukcjach określonych w przepisach dotyczących zasadniczych wymagań dla wyrobów podlegających ocenie zgodności.
 2. Montaż i demontaż maszyn, urządzeń i instalacji technicznych przeprowadza się w sposób określony w dokumentacji techniczno-ruchowej.
 3. Dokumentacja techniczno-ruchowa jest przechowywana w jednostce terenowej albo w obiekcie, w którym jest użytkowana maszyna lub urządzenie.
@@ -454,7 +464,7 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 2. Stanowiska pracy, na których znajdują się wyłączniki awaryjne umożliwiające wstrzymanie ruchu w przypadku stwierdzenia stanu zagrożenia, określa kierownik ruchu zakładu górniczego otworowego.
 3. Jeżeli dokument bezpieczeństwa tego wymaga, zapewnia się system zdalnego sterowania na wypadek sytuacji alarmowych.
 4. System, o którym mowa w ust. 3, dysponuje zdolnymi do pracy stanowiskami kontrolnymi, usytuowanymi w odpowiednich miejscach, które mogą być użyte w przypadku sytuacji alarmowej, a o ile to konieczne, system ten powinien dysponować również stanowiskami kontrolnymi w bezpiecznych miejscach zbiórek i obszarach ewakuacji.
-5. W system, o którym mowa w ust. 3, są wyposażone przynajmniej urządzenia klimatyzacji, systemy alarmowego wyłączania urządzeń w przypadku eksplozji, urządzenia zapobiegające wydostawaniu się łatwopalnych cieczy i gazów,
+5. W system, o którym mowa w ust. 3, są wyposażone przynajmniej urządzenia klimatyzacji, systemy alarmowego wyłączania urządzeń w przypadku eksplozji, urządzenia zapobiegające wydostawaniu się łatwopalnych cieczy i gazów, jak również urządzenia stanowiące ochronę przeciwpożarową i kontrolujące parametry wydobywania.
 6. Jeżeli dokument bezpieczeństwa tego wymaga, zapewnia się system:
 1) akustyczno-optyczny, przekazujący sygnał alarmowy do każdego obsadzonego miejsca pracy;
 2) akustyczny, wydający sygnał słyszalny we wszystkich częściach instalacji, w których mogą przebywać pracownicy.
@@ -475,7 +485,8 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 2. Urządzenie, o którym mowa w ust. 1, sprawdza się przed rozpoczęciem robót wiertniczych, a w okresie dowiercania i opróbowania kontroluje nie rzadziej niż raz w miesiącu. Sposób sprawdzania i kontrolowania tego urządzenia ustala kierownik ruchu zakładu.
 3. Pomosty masztu wiertniczego lub wieży wiertniczej na stanowisku pracy pomocnika wieżowego osłania się od wiatru. Dopuszcza się niestosowanie osłon w warunkach letnich i w przypadkach krótkotrwałych robót wiertniczych.
 4. Stałe stalowe pomosty manipulacyjne lub montażowe wykonuje się z elementów konstrukcyjnych, zabezpieczających przed poślizgiem, oraz wyposaża się w poręcze, poprzeczki i krawężniki, chyba że rozwiązania fabryczne przewidują inne sposoby zabezpieczenia.
-§ 119. Obudowana wieża wiertnicza lub obudowany maszt wiertniczy posiada co najmniej dwa wyjścia z drzwiami łatwo otwieranymi na zewnątrz lub, gdy jest to niemożliwe, z drzwiami rozsuwanymi. Jedno z wyjść znajduje się przy sta§ 120. Dźwignia hamulca mechanicznego wyciągu wiertniczego, przy pełnym zahamowaniu, znajduje się w odległości 0,8–0,9 m od górnej płaszczyzny poziomu roboczego urządzenia (podłogi), jeżeli instrukcja producenta nie przewiduje innych odległości.
+§ 119. Obudowana wieża wiertnicza lub obudowany maszt wiertniczy posiada co najmniej dwa wyjścia z drzwiami łatwo otwieranymi na zewnątrz lub, gdy jest to niemożliwe, z drzwiami rozsuwanymi. Jedno z wyjść znajduje się przy stanowisku wiertacza.
+§ 120. Dźwignia hamulca mechanicznego wyciągu wiertniczego, przy pełnym zahamowaniu, znajduje się w odległości 0,8–0,9 m od górnej płaszczyzny poziomu roboczego urządzenia (podłogi), jeżeli instrukcja producenta nie przewiduje innych odległości.
 § 121. Wyciąg wiertniczy wiertnic o udźwigu większym od 800 kN na haku wyposaża się w hamulec wspomagający.
 § 122. 1. Podczas pracy bębenkiem pomocniczym wyciągu wiertniczego, przy ręcznym nawijaniu, jest niedopuszczalne stosowanie lin stalowych.
 2. Bębenek pomocniczy wyciągu wiertniczego może być użyty do podnoszenia, opuszczania i przemieszczania w wieży narzędzi i sprzętu wiertniczego, o ciężarze nieprzekraczającym wielkości określonych w dokumentacji techniczno-ruchowej, w tym w instrukcjach eksploatacyjnych oraz instrukcjach określonych w przepisach dotyczących zasadniczych wymagań dla wyrobów podlegających ocenie zgodności.
@@ -487,7 +498,7 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 § 125. Klucze wiertnicze mocuje się w sposób określony w instrukcji zatwierdzonej przez kierownika ruchu zakładu.
 § 126. Kontrolę stanu technicznego klinów do rur płuczkowych, kluczy wiertniczych, wkładów do stołów obrotowych i graniatek, elewatorów oraz haków wiertniczych prowadzi się na początku każdej zmiany i przed każdą czynnością zapuszczania lub wyciągania przewodu wiertniczego.
 § 127. Odcinanie przewodu wiertniczego przy jego rozkręcaniu za pomocą stołu wiertniczego jest niedopuszczalne.
-§ 128. Wciągarki posiadają hamulec lub blokadę, a wciągarki z napędem ręcznym dodatkowo mechanizm zapadkowy uniemożliwiający wsteczny ruch bębna.
+§ 128. Wciągarki posiadają hamulec lub blokadę, a wciągarki z napędem ręcznym – dodatkowo mechanizm zapadkowy uniemożliwiający wsteczny ruch bębna.
 § 129. 1. Podczas instalowania urządzeń wydobywczych:
 1) wyważa się indywidualne i grupowe układy pompowe o napędzie mechanicznym;
 2) prowadzi się, w sposób odpowiednio zabezpieczony, cięgła pompowe do napędów grupowych w rejonie dróg i przejść;
@@ -495,7 +506,8 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 2. W przypadku prowadzenia cięgieł pompowych do napędów grupowych nad przejściami zabudowuje się pod cięgłami pomosty zabezpieczające.
 § 130. 1. Prace wykonywane w zbiornikach, w których były magazynowane substancje szkodliwe dla zdrowia i życia ludzkiego oraz substancje mogące spowodować zagrożenie pożarowe i zagrożenie wybuchem, prowadzi się po odłączeniu zbiornika od instalacji technologicznych i po całkowitym opróżnieniu z tych substancji, w sposób określony w instrukcji zatwierdzonej przez kierownika ruchu zakładu górniczego otworowego.
 2. Pracownikom zapewnia się środki ochrony indywidualnej odpowiednie do rodzaju i poziomu zagrożenia. Wymagania dotyczące podjęcia i prowadzenia prac w zbiornikach określają ogólne przepisy bezpieczeństwa i higieny pracy.
-§ 131. Wejście do pomieszczeń obudów czół zbiorników magazynujących substancje szkodliwe dla zdrowia i życia ludzkiego oraz substancje mogące spowodować zagrożenie pożarowe i zagrożenie wybuchem jest dopuszczalne tylko pod warunkiem dokładnego przewietrzenia tych pomieszczeń. Informację o tym zamieszcza się na tablicy przy wejściu do obu§ 132. Pracowników zatrudnionych przy pracach wykonywanych w zbiornikach oraz w pomieszczeniu obudowy czół zbiorników magazynujących substancje szkodliwe dla zdrowia i życia ludzkiego oraz substancje mogące spowodować zagrożenie pożarowe i zagrożenie wybuchem ubezpieczają inni pracownicy znajdujący się na zewnątrz, posiadający możliwość natychmiastowej ewakuacji pracowników z zagrożonej strefy.
+§ 131. Wejście do pomieszczeń obudów czół zbiorników magazynujących substancje szkodliwe dla zdrowia i życia ludzkiego oraz substancje mogące spowodować zagrożenie pożarowe i zagrożenie wybuchem jest dopuszczalne tylko pod warunkiem dokładnego przewietrzenia tych pomieszczeń. Informację o tym zamieszcza się na tablicy przy wejściu do obudów czół zbiorników.
+§ 132. Pracowników zatrudnionych przy pracach wykonywanych w zbiornikach oraz w pomieszczeniu obudowy czół zbiorników magazynujących substancje szkodliwe dla zdrowia i życia ludzkiego oraz substancje mogące spowodować zagrożenie pożarowe i zagrożenie wybuchem ubezpieczają inni pracownicy znajdujący się na zewnątrz, posiadający możliwość natychmiastowej ewakuacji pracowników z zagrożonej strefy.
 § 133. Nogi czwórnogów i trójnogów przy podstawie i na koronie zabezpiecza się przed możliwością ich przemieszczania.
 § 134. Instalowanie, eksploatacja oraz kontrola maszyn i urządzeń elektrycznych oraz instalacji elektrycznych odpowiada wymaganiom określonym w dokumentacji techniczno-ruchowej, w tym instrukcjach eksploatacyjnych oraz instrukcjach określonych w przepisach dotyczących zasadniczych wymagań dla wyrobów podlegających ocenie zgodności.
 § 135. 1. Pomieszczenia w ruchu zakładu górniczego otworowego, w których są zainstalowane maszyny, urządzenia oraz instalacje energetyczne, oraz sposoby zabezpieczenia wejść do tych pomieszczeń, a także wykaz osób upoważnionych do przebywania w tych pomieszczeniach, określa kierownik ruchu zakładu górniczego otworowego.
@@ -515,7 +527,7 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 2. Rury okładzinowe otworów wiertniczych i odwiertów wykorzystuje się jako uziomy naturalne urządzeń elektroenergetycznych i instalacji odgromowych.
 3. Wyniki pomiarów rezystancji uziemienia potwierdza się protokołem.
 4. Pomiary, o których mowa w ust. 3, nie dotyczą wiertnic wykonujących otwory wiertnicze do celów badań geofizycznych.
-§ 141. 1. W przestrzeniach zagrożonych wybuchem gazów, par lub mgieł stosuje się tylko elektryczne urządzenia budowy przeciwwybuchowej zaliczone do grupy II urządzeń i systemów ochronnych zgodnie z rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych
+§ 141. 1. W przestrzeniach zagrożonych wybuchem gazów, par lub mgieł stosuje się tylko elektryczne urządzenia budowy przeciwwybuchowej zaliczone do grupy II urządzeń i systemów ochronnych zgodnie z rozporządzeniem Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. Nr 263, poz. 2203).
 2. Zasady właściwego nadzoru nad eksploatacją, konserwacją oraz naprawą urządzeń, o których mowa w ust. 1, ustala kierownik ruchu zakładu górniczego otworowego, uwzględniając wymagania określone w dokumentacji techniczno-ruchowej, w tym w instrukcjach eksploatacyjnych oraz instrukcjach określonych w przepisach dotyczących zasadniczych wymagań dla wyrobów podlegających ocenie zgodności.
 § 142. Wyposażenie sieci elektroenergetycznej umożliwia wyłączenie urządzeń elektroenergetycznych, zainstalowanych w przestrzeniach zagrożonych wybuchem, za pomocą łatwo dostępnych wyłączników umieszczonych poza tymi przestrzeniami.
 § 143. Niedopuszczalne jest budowanie elektroenergetycznych linii napowietrznych w przestrzeniach zagrożonych wybuchem.
@@ -530,11 +542,13 @@ b) eksploatacyjne urządzeń energomechanicznych i sprzętu wiertniczego;
 § 147. W przypadku awarii i samoczynnego wyłączenia urządzenia elektroenergetycznego ponowne jego włączenie może nastąpić dopiero po usunięciu przyczyny wyłączenia oraz po uzyskaniu zgody osoby dozoru ruchu zakładu górniczego otworowego.
 § 148. 1. Wieże wiertnicze, maszty, wiaty maszynowe wiertnic oraz drogi ewakuacyjne wyposaża się w oświetlenie awaryjne.
 2. Rodzaj oświetlenia awaryjnego ustala kierownik ruchu zakładu odpowiednio do występujących zagrożeń.
+§ 149. 1. Przy wykonywaniu robót wiertniczych i prowadzeniu eksploatacji otworami wiertniczymi wymagane jest posiadanie:
 1) odpowiednich urządzeń przeciwpożarowych;
 2) odpowiedniego sprzętu do kontroli atmosfery wybuchowej mogącej wystąpić w rejonie otworów wiertniczych, maszyn i urządzeń.
 2. Wymagania przeciwpożarowe dla obiektów i urządzeń zakładu górniczego otworowego lub zakładu określają instrukcje technologiczne, techniczno-eksploatacyjne lub remontowe.
 3. Kierownik ruchu zakładu górniczego otworowego lub kierownik ruchu zakładu organizuje służbę przeciwpożarową do:
 1) sprawowania nadzoru prewencyjnego, w szczególności w zakresie:
+a) ustalania podstawowych kierunków i metod profilaktyki przeciwpożarowej,
 b) kontroli stanu zabezpieczenia przeciwpożarowego obiektów i urządzeń, zgodnie z harmonogramem kontroli,
 c) opracowania analizy stanu zabezpieczenia przeciwpożarowego zakładu górniczego otworowego;
 2) wykonywania zadań operacyjno-technicznych, w szczególności:
@@ -570,7 +584,7 @@ d) rurociągami naftowymi oraz gazowymi.
 2. Pomieszczenia zagrożone wybuchem przewietrza się i zabezpiecza w sposób uniemożliwiający przedostanie się mieszaniny wybuchowej do pomieszczeń sąsiednich.
 3. Powietrze doprowadzane do pomieszczeń nie może być pobierane ze stref zagrożonych wybuchem.
 4. W strefach zagrożonych wybuchem jest niedopuszczalne gromadzenie materiałów, które mogą sprzyjać powstawaniu lub rozprzestrzenianiu się pożarów.
-5. Miejsca pracy wyposaża się w odpowiednie gaśnice, a jeśli to konieczne w urządzenia wykrywające ogień i systemy alarmowe.
+5. Miejsca pracy wyposaża się w odpowiednie gaśnice, a jeśli to konieczne – w urządzenia wykrywające ogień i systemy alarmowe.
 6. Nieautomatyczny sprzęt przeciwpożarowy jest łatwo dostępny i prosty w użyciu oraz, w miarę potrzeby, chroniony przed zniszczeniem.
 § 156. Podgrzewanie zbiorników, cystern i przewodów rurowych odbywa się z użyciem wody, pary wodnej lub w inny bezpieczny sposób, ustalony przez kierownika ruchu zakładu górniczego otworowego.
 § 157. W przestrzeniach zagrożonych wybuchem stosuje się pasy przenoszące napęd, wykonane z materiałów niepalnych i antyelektrostatycznych.
@@ -580,14 +594,15 @@ W pomieszczeniach tych wykonuje się także otwory wentylacyjne z żaluzjami na 
 3. Kierownik ruchu zakładu górniczego otworowego, w przypadkach uzasadnionych warunkami techniczno-ruchowymi, może zezwolić na odstąpienie od wymogów, o których mowa w ust. 2, i nakazać wykonywanie okresowych pomiarów stężenia gazów, zawiadamiając o tym właściwy organ nadzoru górniczego.
 § 159. Pomieszczenia obudowy czół zbiorników zawierających gaz przewietrza się w sposób ciągły.
 § 160. Rurociągi, zbiorniki, w których są przechowywane płyny łatwopalne i wybuchowe, uziemia się i łączy ze sobą przewodem metalowym. Dysze nalewaków i otwory wypływowe tych pojemników się uziemia.
-§ 161. 1. Odległość obiektów i urządzeń związanych z wydobywaniem ropy naftowej i gazu ziemnego oraz z podziemnym bezzbiornikowym magazynowaniem węglowodorów płynnych na lądzie, w szczególności odwiertów, gazoliniarni, urządzeń i instalacji do osuszania i odsiarczania gazu ziemnego, tłoczni ropy naftowej i gazu ziemnego, nie może być mniejsza niż 50 m od dróg publicznych, linii kolejowych, budynków administracyjnych i mieszkalnych oraz od innych obiektów z otwartym ogniem niezwiązanych z ruchem zakładu górniczego otworowego.
-2. Odległość stacji gazowych od obiektów i miejsc z otwartym ogniem, o których mowa w ust. 1, nie może być mniejsza
+§ 161. 1. Odległość obiektów i urządzeń związanych z wydobywaniem ropy naftowej i gazu ziemnego oraz z podziemnym bezzbiornikowym magazynowaniem węglowodorów płynnych na lądzie, w szczególności odwiertów, gazoliniarni, urządzeń i instalacji do osuszania i odsiarczania gazu ziemnego, tłoczni ropy naftowej i gazu ziemnego, nie może być mniejsza niż 50 m – od dróg publicznych, linii kolejowych, budynków administracyjnych i mieszkalnych oraz od innych obiektów z otwartym ogniem niezwiązanych z ruchem zakładu górniczego otworowego.
+2. Odległość stacji gazowych od obiektów i miejsc z otwartym ogniem, o których mowa w ust. 1, nie może być mniejsza niż 20 m.
 3. Kierownik ruchu zakładu górniczego otworowego może wyrazić zgodę na zmniejszenie odległości, o których mowa w ust. 1 i 2, po uzgodnieniu z właściwym organem nadzoru górniczego.
 § 162. Przy pracach wykonywanych w miejscach, w których występuje mieszanina wybuchowa, jest niedopuszczalne używanie narzędzi, sprzętu i innych przedmiotów oraz obuwia i odzieży, mogących powodować iskrzenie.
 § 163. 1. Materiały pędne, oleje i smary magazynuje się poza obszarem zabudowy urządzenia wiertniczego, w miejscach należycie przewietrzanych, i zabezpiecza przed zapaleniem.
 2. Przepisu ust. 1 nie stosuje się do zbiorników roboczych i technologicznych.
 § 164. Rury wydmuchowe silników spalinowych wyprowadza się na zewnątrz zabudowy i wyposaża w urządzenia przeciwdziałające przenoszeniu się iskier.
-§ 166. 1. W zakładzie górniczym otworowym prowadzi się obserwacje i pomiary wpływu robót górniczych na powierzchnię oraz zmian stosunków wodnych i tła gazowego w powietrzu glebowym w zakresie dostosowanym do możliwego oddziaływania zakładu górniczego otworowego na środowisko.
+§ 165. Kierownik ruchu zakładu górniczego otworowego podejmuje działania mające na celu zmniejszenie negatywnego wpływu działalności zakładu górniczego otworowego na środowisko.
+§ 166. 1. W zakładzie górniczym otworowym prowadzi się obserwacje i pomiary wpływu robót górniczych na powierzchnię oraz zmian stosunków wodnych i tła gazowego w powietrzu glebowym – w zakresie dostosowanym do możliwego oddziaływania zakładu górniczego otworowego na środowisko.
 2. Zakres obserwacji i pomiarów oraz ich częstotliwość umożliwia:
 1) określenie zasięgu i wielkości wpływu eksploatacji;
 2) ocenę stanu zagrożenia obiektów budowlanych i urządzeń oraz ich otoczenia.
@@ -600,7 +615,8 @@ W pomieszczeniach tych wykonuje się także otwory wentylacyjne z żaluzjami na 
 2. Po zakończeniu robót wiertniczych doły urobkowe i doły na ciecze złożowe podlegają likwidacji w sposób określony przez kierownika ruchu zakładu.
 § 169. Miejsca przechowywania substancji szkodliwych zabezpiecza się w sposób zapobiegający niekorzystnemu oddziaływaniu tych substancji na środowisko.
 § 170. Zbiorniki oraz osadniki przemysłowe zabezpiecza się przed przedostawaniem się na zewnątrz zmagazynowanych w nich substancji oraz odpowiednio oznakowuje.
-§ 171. Ochronę powietrza atmosferycznego prowadzi się przy zastosowaniu urządzeń odpylających, neutralizujących § 172. 1. Wtłaczanie do górotworu wód złożowych, wód leczniczych i wód termalnych oraz wykorzystanych solanek prowadzi się zgodnie z projektem wtłaczania zatwierdzonym przez kierownika ruchu zakładu górniczego otworowego, uwzględniającym warunki wtłaczania określone w koncesji.
+§ 171. Ochronę powietrza atmosferycznego prowadzi się przy zastosowaniu urządzeń odpylających, neutralizujących i zabezpieczających.
+§ 172. 1. Wtłaczanie do górotworu wód złożowych, wód leczniczych i wód termalnych oraz wykorzystanych solanek prowadzi się zgodnie z projektem wtłaczania zatwierdzonym przez kierownika ruchu zakładu górniczego otworowego, uwzględniającym warunki wtłaczania określone w koncesji.
 2. Projekt wtłaczania sporządza się oddzielnie dla każdego otworu wiertniczego, do którego są wtłaczane wody złożowe, wody lecznicze i wody termalne oraz wykorzystane solanki.
 § 173. Wycieki bituminów lub innych substancji stanowiących zagrożenie dla środowiska niezwłocznie likwiduje się, a skażony teren doprowadza do stanu użyteczności zgodnie z przepisami ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2014 r. poz. 210).
 § 174. 1. W zakładzie górniczym otworowym znajduje się zestaw materiałów, narzędzi i urządzeń, dostosowany do prowadzonej działalności, umożliwiających szybką likwidację awarii rurociągów i innych urządzeń technologicznych oraz środków do niezwłocznej neutralizacji i likwidacji wycieków lub rozlewisk.
@@ -620,18 +636,20 @@ W pomieszczeniach tych wykonuje się także otwory wentylacyjne z żaluzjami na 
 6) sposób zabezpieczenia przeciwerozyjnego rekultywowanych powierzchni;
 7) elementy zagospodarowania powierzchni, takie jak: budynki, budowle i obiekty małej architektury;
 8) maszyny i urządzenia stosowane do rekultywacji;
-9) technologię i środki techniczne służące zapobieganiu powstawania pożarów na terenach rekultywowanych w przypadku wykorzystywania do rekultywacji odpadów zawierających części palne;
+9) technologię i środki techniczne służące zapobieganiu powstawania pożarów na terenach rekultywowanych – w przypadku wykorzystywania do rekultywacji odpadów zawierających części palne;
 10) harmonogram realizacji robót rekultywacyjnych.
 § 177. Wypełnianie wyrobisk górniczych i innych terenów w granicach zakładu górniczego otworowego, wykonywane w ramach rekultywacji, prowadzi się z wykorzystaniem odpadów określonych w przepisach działu II rozdziału 10 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm. ).
 § 178. Ciecze poreakcyjne po wykonaniu w otworze wiertniczym lub otworze wiertniczym eksploatacyjnym zabiegu specjalnego z użyciem substancji niebezpiecznych odprowadza się w sposób niepowodujący szkodliwego oddziaływania na środowisko.
+§ 179. Badania geofizyczne w otworach wiertniczych lub odwiertach wykonuje się zgodnie z instrukcją badań geofizycznych, opracowaną przez wykonawcę tych badań i zaakceptowaną przez kierownika ruchu zakładu górniczego otworowego, w zakresie przewidzianym w projekcie robót geologicznych lub wiercenia.
 § 180. Przygotowanie otworu wiertniczego lub odwiertu do badań geofizycznych umożliwia swobodne przemieszczanie przyrządów pomiarowych i specjalnych na całej długości otworu wiertniczego lub odwiertu, w czasie niezbędnym do wykonania pomiarów i innych badań geofizycznych.
 § 181. 1. Podczas wykonywania badań geofizycznych jest niedopuszczalne prowadzenie innych prac, które mogłyby wpłynąć negatywnie na wynik badań lub spowodować zagrożenia dla pracowników i sprzętu geofizycznego.
 2. Opróbowania w otworach wiertniczych lub w odwiertach z użyciem próbników złoża lub skał wykonuje się na podstawie instrukcji badań próbnikowych, opracowanej przez wykonawcę badań i zaakceptowanej przez kierownika ruchu zakładu górniczego otworowego.
 § 182. W przypadku zagrożenia erupcyjnego przed przystąpieniem do wykonywania w otworze wiertniczym lub odwiercie badań geofizycznych lub innych prac, wylot tego otworu lub odwiertu należy wyposażyć w zabezpieczenie umożliwiające bezpieczne wykonanie tych badań i prac.
+§ 183. Wydobywanie ropy naftowej lub gazu ziemnego ze złoża poprzedza się badaniami warunków geologiczno-złożowych oraz parametrów złoża i płynu złożowego.
 § 184. Ilości wydobywanych z odwiertu ropy naftowej, gazu ziemnego i wody lub zatłaczanych do niego płynów oraz rodzaj i wyniki wykonywanych pomiarów i obserwacji dokumentuje się w sposób ustalony przez kierownika ruchu zakładu górniczego otworowego.
 § 185. Niedopuszczalne jest nieregulowane samoczynne wydobywanie ropy naftowej, gazu ziemnego lub kondensatu przekraczające określony dopuszczalny pobór oraz niekontrolowane zatłaczanie płynów do złóż tych kopalin, z wyjątkiem przypadku, o którym mowa w § 209.
 § 186. 1. Gaz ziemny wydobywany z otworów wiertniczych podczas opróbowania oraz podczas eksploatacji złóż ropy naftowej się wykorzystuje.
-2. Jeżeli nie ma warunków wykorzystania gazu ziemnego, dopuszcza się jego spalanie z zachowaniem wymagań określonych w przepisach działu II tytułu II ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2013 r.
+2. Jeżeli nie ma warunków wykorzystania gazu ziemnego, dopuszcza się jego spalanie z zachowaniem wymagań określonych w przepisach działu II tytułu II ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r.
 poz. 1232, z późn. zm. ).
 § 187. Jeżeli w wydobywanym gazie ziemnym występują ciekłe węglowodory, pobiera się próbki mieszaniny węglowodorów i wykonuje badania fizykochemiczne w celu dokonania klasyfikacji złoża.
 § 188. 1. Służba mierniczo-geologiczna zakładu górniczego otworowego podlega bezpośrednio kierownikowi ruchu tego zakładu.
@@ -659,6 +677,8 @@ poz. 1232, z późn. zm. ).
 § 189. 1. Dokumentację mierniczo-geologiczną przechowuje się w zakładzie górniczym otworowym, w sposób zapewniający jej właściwe zabezpieczenie przed uszkodzeniem i dostępem osób nieupoważnionych.
 2. Za zgodą kierownika ruchu zakładu górniczego otworowego dokumentacja mierniczo-geologiczna może być przechowywana poza zakładem górniczym otworowym w sposób, o którym mowa w ust. 1, oraz pod warunkiem poinformowania o tym właściwego organu nadzoru górniczego.
 3. Dokumentację mierniczo-geologiczną sporządzoną z zastosowaniem technik informatycznych zabezpiecza się dodatkowo poprzez wykonanie trwałych kopii zapasowych.
+§ 190. Sposób dowiercania otworów wiertniczych zapewnia szczelną izolację poziomów nad i pod złożem oraz odizolowanie złoża od innych warstw przepuszczalnych, a także zapobiega uszkodzeniu strefy przyotworowej.
+§ 191. 1. Głowica eksploatacyjna lub inne zabezpieczenie wylotu odwiertu zapewniają skuteczne odcięcie wypływu płynu, umożliwiają wykonywanie czynności związanych z eksploatacją odwiertów, a ich elementy składowe są szczelne i wytrzymują największe przewidywane ciśnienie głowicowe.
 2. Głowicę eksploatacyjną wyposaża się w zasuwy albo zawory odcinające robocze i awaryjne, za pomocą których przerywa się proces wydobywczy z kolumny rur wydobywczych oraz kolumny rur okładzinowych.
 3. Systemy sterowania głowic eksploatacyjnych zapewniają odcięcie wypływu płynu z odwiertu w przypadku ich awarii.
 4. Materiały i tworzywa, z których są wykonane zabezpieczenia odwiertu, są odporne na korozję wynikającą z działania substancji wchodzących w skład wydobywanego płynu.
@@ -681,7 +701,8 @@ c) manometrów do pomiaru ciśnienia w przestrzeni międzyrurowej kolumny rur ok
 6. Zasuwa suwakowa jest przystosowana do wymiany, pod ciśnieniem, uszczelnień dławika trzpienia.
 § 194. 1. Wymagania dotyczące wyposażenia wgłębnego i napowierzchniowego odwiertów, którymi wydobywa się płyn złożowy, określa kierownik ruchu zakładu górniczego otworowego.
 2. W odwiertach, w których występuje pierwsza lub druga kategoria zagrożenia siarkowodorowego, instaluje się pakery wydobywcze.
-3. W przypadkach innych niż te, o których mowa w ust. 2, o stosowaniu pakerów wydobywczych decyduje kierownik ruchu zakładu górniczego otworowego, biorąc pod uwagę rodzaj zagrożenia, warunki terenowe oraz odległości odwiertu § 195. W przypadku dowiercenia się do złoża węglowodorów otworem wiertniczym innym niż służącym do eksploatacji, rozpoczęcie wydobywania może nastąpić tylko wtedy, gdy otwór wiertniczy spełnia wymagania odwiertu, po akceptacji stanu technicznego odwiertu przez kierownika ruchu zakładu górniczego otworowego.
+3. W przypadkach innych niż te, o których mowa w ust. 2, o stosowaniu pakerów wydobywczych decyduje kierownik ruchu zakładu górniczego otworowego, biorąc pod uwagę rodzaj zagrożenia, warunki terenowe oraz odległości odwiertu od zabudowy mieszkalnej.
+§ 195. W przypadku dowiercenia się do złoża węglowodorów otworem wiertniczym innym niż służącym do eksploatacji, rozpoczęcie wydobywania może nastąpić tylko wtedy, gdy otwór wiertniczy spełnia wymagania odwiertu, po akceptacji stanu technicznego odwiertu przez kierownika ruchu zakładu górniczego otworowego.
 § 196. 1. W zależności od wielkości wydobycia, lokalizacji odwiertu, składu chemicznego wydobywanego płynu złożowego oraz klasyfikacji zagrożenia erupcyjnego, kierownik ruchu zakładu górniczego otworowego decyduje o zastosowaniu wgłębnych lub powierzchniowych zaworów bezpieczeństwa.
 2. W I i II kategorii zagrożenia siarkowodorowego odwierty wyposaża się we wgłębny zawór bezpieczeństwa.
 § 197. Stosowanie gazu ziemnego do podgrzewania rurociągów prowadzonych od odwiertów jest dopuszczalne pod warunkiem, że ujęcie płynu złożowego z odwiertu jest szczelne, a urządzenie grzewcze znajduje się w odległości co najmniej 10 m od odwiertu.
@@ -707,6 +728,7 @@ c) manometrów do pomiaru ciśnienia w przestrzeni międzyrurowej kolumny rur ok
 § 200. 1. Podczas opróbowania złoża ropy naftowej i gazu ziemnego przeprowadza się pomiary parametrów złożowych i wykonuje analizy płynu złożowego w sposób określony przez kierownika ruchu zakładu górniczego otworowego.
 2. Pomiary i analizy, o których mowa w ust. 1, obejmują w szczególności:
 1) ciśnienie statyczne denne i głowicowe;
+2) temperaturę statyczną na dnie otworu wiertniczego;
 3) wykładniki:
 a) gazowy,
 b) wodny;
@@ -721,7 +743,7 @@ b) wodny;
 2. Jeżeli nie ma możliwości odróżnienia pierwotnej wody złożowej od wody z innego poziomu, bada się występowanie pozarurowych przepływów wody w strefie bezpośrednio nadzłożowej.
 § 204. 1. Na podstawie dokumentacji, o której mowa w § 38 ust. 2 pkt 1 lit. a i pkt 2, oraz wartości parametrów testów lub próbnej eksploatacji złóż węglowodorów płynnych sporządza się program stałej eksploatacji zawierający część:
 1) stałą programu eksploatacji, określającą w szczególności charakterystykę złoża i opis eksploatacji złoża,
-2) zmienną programu eksploatacji, określającą parametry pracy poszczególnych odwiertów, którymi odbywa się eksploatacja złoża zatwierdzony przez kierownika ruchu zakładu górniczego otworowego.
+2) zmienną programu eksploatacji, określającą parametry pracy poszczególnych odwiertów, którymi odbywa się eksploatacja złoża – zatwierdzony przez kierownika ruchu zakładu górniczego otworowego.
 2. Częstotliwość pomiarów w odwiertach ustala kierownik ruchu zakładu górniczego otworowego na podstawie opinii geologa górniczego.
 3. Dla każdego odwiertu: gazowego, gazowo-kondensatowego lub samoczynnego ropnego, corocznie na podstawie dokonanych pomiarów, ustala się dopuszczalny pobór gazu ziemnego lub kondensatu oraz odpowiednio warunki eksploatacji ropy naftowej, uwzględniające maksymalne czerpanie i racjonalną gospodarkę eksploatacyjną złoża.
 4. Ustaloną wielkość dopuszczalnego poboru gazu ziemnego lub kondensatu z danego poziomu dobiera się tak, aby podczas eksploatacji złoża gazu ziemnego, kondensatu lub ropy naftowej nie następowało zjawisko piaszczenia, tworzenia się języków i stożków wodnych, a także przedwczesne zużywanie się elementów uzbrojenia odwiertów.
@@ -768,12 +790,13 @@ b) wodny;
 4. Teren wewnątrz obwałowania posiada wyprofilowane spadki w kierunku przepustów w celu odprowadzenia wody z opadów atmosferycznych.
 5. W obrębie obwałowania nie prowadzi się kanałów rurowych.
 § 219. 1. Wymagana pojemność obwałowania zbiorników ropy naftowej wynosi dla:
-1) jednego zbiornika 100% jego pojemności;
-2) dwóch zbiorników 75% ich łącznej pojemności;
-3) trzech i więcej zbiorników 50% ich łącznej pojemności.
+1) jednego zbiornika – 100% jego pojemności;
+2) dwóch zbiorników – 75% ich łącznej pojemności;
+3) trzech i więcej zbiorników – 50% ich łącznej pojemności.
 2. Obwałowanie zbiorników zawierających gazolinę nie może być mniejsze niż 150% pojemności zbiorników zawierających węglowodory ciekłe.
 § 220. 1. Do zbiorników naziemnych dwupłaszczowych o osi głównej poziomej oraz do zbiorników naziemnych z podwójnym dnem i ze ścianami osłonowymi o osi głównej pionowej, zawierających węglowodory ciekłe, przepisów § 218 i § 219 nie stosuje się.
 2. Zasady stosowania zbiorników naziemnych dwupłaszczowych o osi głównej poziomej oraz zbiorników naziemnych z podwójnym dnem i ze ścianami osłonowymi o osi głównej pionowej określa kierownik ruchu zakładu górniczego otworowego, ustalając:
+1) monitoring przestrzeni międzypłaszczowych lub międzydennych oraz między płaszczem a ścianką osłonową;
 2) zakres, częstotliwość i sposób kontroli szczelności zbiorników, sprawności systemu monitoringu przestrzeni międzypłaszczowych, międzydennych oraz między płaszczem a ścianką osłonową;
 3) środki organizacyjno-techniczne oraz zasady postępowania w przypadku uszkodzenia zbiorników lub awarii systemu monitoringu szczelności.
 3. Kierownik ruchu zakładu górniczego otworowego wyznacza osoby kierownictwa i dozoru ruchu zakładu górniczego otworowego odpowiedzialne za kontrolę stosowanych zabezpieczeń.
@@ -785,7 +808,7 @@ b) wodny;
 2. Kierownik ruchu zakładu górniczego otworowego decyduje o wyposażeniu zbiorników roboczych zamkniętych zawierających węglowodory ciekłe w zawór ciśnieniowo-depresyjny oraz przerywacz płomienia.
 § 224. Zbiornik zawierający węglowodory ciekłe, przed oddaniem go do ruchu, poddaje się próbie szczelności.
 § 225. Zbiornik magazynowy zawierający węglowodory ciekłe wyposaża się w:
-1) dwa szczelnie zamknięte włazy, z których jeden umieszcza się w dolnej ścianie zbiornika, a drugi na przeciwległej stronie w pokrywie zbiornika;
+1) dwa szczelnie zamknięte włazy, z których jeden umieszcza się w dolnej ścianie zbiornika, a drugi – na przeciwległej stronie w pokrywie zbiornika;
 2) urządzenia do pomiaru poziomu cieczy i ciśnień oraz do poboru próbek, których konstrukcja nie może powodować nieszczelności zbiornika i iskrzenia.
 § 226. Zamknięcia w przewodach odpływowych zbiorników zabezpiecza się przed otwarciem przez osoby nieupoważnione.
 § 227. 1. Konstrukcja pomostu nalewakowego, znajdującego się na terenie zakładu górniczego otworowego, zapewnia obsłudze możliwość swobodnego i bezpiecznego dostępu do cystern podstawionych pod nalewaki.
@@ -819,16 +842,17 @@ b) wodny;
 2. Przed przeprowadzeniem wstępnej próby szczelności rurociągu wykonuje się badania nieniszczące jego spoin, zgodnie z dokumentacją projektową, przed jego opuszczeniem do wykopu.
 3. Wstępną próbę szczelności rurociągu wykonuje się sprężonym powietrzem o ciśnieniu 0,6 MPa.
 4. Próbę wytrzymałości i główną próbę szczelności przeprowadza się po ułożeniu rurociągu w wykopie, sprawdzeniu stanu izolacji i po zasypaniu rurociągu, z wyjątkiem miejsc połączeń rur oraz miejsc łączenia armatury. Próby te wykonuje się za pomocą powietrza, gazu obojętnego, gazu ziemnego lub wody, przy tym samym napełnieniu rurociągu.
-§ 239. 1. Wielkość ciśnienia podczas próby wytrzymałości rurociągów z rur stalowych i tworzyw sztucznych określa instrukcja zatwierdzona przez kierownika ruchu zakładu górniczego otworowego, z uwzględnieniem wymagań określonych w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2013 r.
+§ 239. 1. Wielkość ciśnienia podczas próby wytrzymałości rurociągów z rur stalowych i tworzyw sztucznych określa instrukcja zatwierdzona przez kierownika ruchu zakładu górniczego otworowego, z uwzględnieniem wymagań określonych w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r.
 poz. 1409 oraz z 2014 r. poz. 40).
-2. Wielkość ciśnienia podczas próby wytrzymałości rurociągu nie może wywoływać w ściankach rur naprężenia obwo§ 240. 1. Trasy rurociągów podczas wykonywania prób szczelności i wytrzymałości wyraźnie oznakowuje się za pomocą znaków ostrzegawczych.
+2. Wielkość ciśnienia podczas próby wytrzymałości rurociągu nie może wywoływać w ściankach rur naprężenia obwodowego większego niż 0,6 Re.
+§ 240. 1. Trasy rurociągów podczas wykonywania prób szczelności i wytrzymałości wyraźnie oznakowuje się za pomocą znaków ostrzegawczych.
 2. W miejscach skrzyżowań rurociągów z drogami i torami kolejowymi ustawia się tablice ostrzegawcze.
 3. Podczas wykonywania próby szczelności i wytrzymałości wokół pompowni i rurociągów wyznacza się 30-metrową strefę bezpieczeństwa.
 § 241. 1. Gazociąg badany powietrzem przekazuje się do eksploatacji po wyparciu powietrza gazem inertnym. Dopuszcza się wytłaczanie powietrza gazem palnym, pod warunkiem zastosowania odpowiedniego oddzielenia powietrza od gazu palnego. Zawartość powietrza w gazie nie może być większa niż 2% objętości.
 2. Ruch kołowy wzdłuż badanego odcinka rurociągu podczas utrzymywania w nim ciśnienia jest niedopuszczalny.
 3. Wykonywanie prób szczelności i wytrzymałości rurociągów podczas silnej mgły, wichury, śnieżycy, marznącej mżawki oraz wyładowań atmosferycznych jest niedopuszczalne.
 4. Z przeprowadzonej próby szczelności i wytrzymałości rurociągów sporządza się protokół.
-§ 242. Studzienki rewizyjne, kanały i inne podziemne urządzenia znajdujące się w odległości do 15 m od rurociągu kontroluje się w zakresie występowania w nich gazu, nie rzadziej niż dwa razy w roku, a w pierwszym roku eksploatacji raz w miesiącu. Inne kontrole lub przeglądy mogą być wykonywane na podstawie ustaleń kierownika ruchu zakładu górniczego otworowego.
+§ 242. Studzienki rewizyjne, kanały i inne podziemne urządzenia znajdujące się w odległości do 15 m od rurociągu kontroluje się w zakresie występowania w nich gazu, nie rzadziej niż dwa razy w roku, a w pierwszym roku eksploatacji – raz w miesiącu. Inne kontrole lub przeglądy mogą być wykonywane na podstawie ustaleń kierownika ruchu zakładu górniczego otworowego.
 § 243. Mapy tras rurociągów, sporządzone na podkładzie map sytuacyjno-wysokościowych, z zaznaczeniem wymiarów rurociągów i rodzaju przepływającego płynu oraz rodzaju i wymiaru zamknięć i odgałęzień, znajdują się w zakładzie górniczym otworowym lub w wydzielonej jego części.
 § 244. Do budowy rurociągów technologicznych dla gazu zawierającego siarkowodór lub dwutlenek węgla mogą być stosowane wyłącznie materiały odporne na korozję wywołaną tymi gazami lub rozwiązania zapobiegające korozji wywołanej tymi gazami.
 § 245. Rurociągi technologiczne, w celu ograniczenia ilości gazu toksycznego, w przypadku awarii rurociągu, dzieli się na odcinki o długości zależnej od zawartości siarkowodoru w gazie, średnicy i ciśnienia roboczego rurociągu oraz od topografii terenu. Poszczególne odcinki rurociągu mają urządzenia odcinające do pomiaru ciśnienia oraz umożliwiające wydmuchanie zawartości rurociągu do komina spalania.
@@ -840,7 +864,7 @@ poz. 1409 oraz z 2014 r. poz. 40).
 § 250. 1. Wybraną strukturę geologiczną, w celu zlokalizowania podziemnego magazynu węglowodorów płynnych, poddaje się badaniom zmierzającym do ustalenia jej właściwości petrograficznych, kolektorskich i hydrogeologicznych.
 2. Jeżeli podziemny magazyn węglowodorów płynnych ma być wytworzony w strukturze zawodnionej, badania, o których mowa w ust. 1, uzupełnia się o badania szczelności skał nadkładu.
 3. Badania, o których mowa w ust. 1, oraz badania szczelności skał nadkładu wykonuje się w przypadku występowania w magazynie ciśnienia większego od pierwotnego ciśnienia złożowego lub hydrostatycznego.
-4. Kawerny magazynowe tworzy się tylko w skałach, których przydatność do celów magazynowania węglowodorów
+4. Kawerny magazynowe tworzy się tylko w skałach, których przydatność do celów magazynowania węglowodorów płynnych została wcześniej rozpoznana.
 5. W przypadku bezzbiornikowego składowania odpadów w górotworze badania, o których mowa w ust. 1, oraz badania szczelności skał nadkładu uzupełnia się o badanie wpływu składowanego odpadu na górotwór.
 § 251. 1. Stan techniczny odwiertów udostępniających podziemny magazyn węglowodorów oraz odwiertów kontrolnych zapewnia izolację tego magazynu od innych warstw przepuszczalnych, a także szczelność zarurowanej przestrzeni pierścieniowej.
 2. Przed przystąpieniem do zatłaczania węglowodorów do podziemnego magazynu węglowodorów wykonuje się pomiary pierwotnego tła gazowego w powietrzu glebowym na obszarze tego magazynu.
@@ -861,8 +885,10 @@ poz. 1409 oraz z 2014 r. poz. 40).
 2. Zakres badań w celu monitoringu nieszczelności magazynu ustala kierownik ruchu zakładu górniczego otworowego.
 § 258. 1. Dla podziemnego magazynu węglowodorów wykonuje się otwory wiertnicze służące badaniu jego szczelności w celu kontroli zjawisk zachodzących w złożu stanowiącym magazyn, jeżeli zjawiska te nie mogą być kontrolowane za pomocą otworów wiertniczych służących do napełniania magazynu i odbierania z niego substancji.
 2. Zakres badań w celu monitoringu szczelności magazynu ustala kierownik ruchu zakładu górniczego otworowego.
+3. Przepisu ust. 1 nie stosuje się do magazynów w kawernach solnych.
 § 259. Geometrię komory magazynowej utworzonej w złożu soli kamiennej oraz stan techniczny wgłębnego wyposażenia komory okresowo kontroluje się w sposób i z częstotliwością ustaloną przez kierownika ruchu zakładu górniczego otworowego.
 § 260. Przepisy § 249–259 stosuje się odpowiednio do podziemnego składowania odpadów w górotworze.
+§ 261. 1. Eksploatację złoża siarki prowadzi się w sposób określony w projekcie eksploatacji zatwierdzonym przez kierownika ruchu zakładu górniczego otworowego.
 2. Projekt, o którym mowa w ust. 1, zawiera w szczególności:
 1) zasady prowadzenia wydobycia siarki odwiertami;
 2) sposoby oddziaływania na warunki hydronaporowe horyzontu wód złożowych;
@@ -876,7 +902,7 @@ poz. 1409 oraz z 2014 r. poz. 40).
 § 265. 1. Rurociągi przeznaczone do transportu gorących:
 1) siarki,
 2) cieczy technologicznej,
-3) wód złożowych skutecznie izoluje się przed możliwością poparzenia ludzi.
+3) wód złożowych – skutecznie izoluje się przed możliwością poparzenia ludzi.
 2. Rurociągi eksploatowane w ruchu zakładu górniczego otworowego w miejscach krzyżowania się z drogami kopalnianymi zabezpiecza się przed uszkodzeniem.
 § 266. Rurociągi służące do transportu substancji technologicznych numeruje się i oznakowuje w miejscach zainstalowania głównej armatury odcinającej w sposób pozwalający na ich identyfikację.
 § 267. 1. Próby szczelności oraz próby ciśnieniowe instalacji i urządzeń technologicznych przeprowadza się w obecności osób wyznaczonych przez kierownika ruchu zakładu górniczego otworowego.
@@ -884,7 +910,8 @@ poz. 1409 oraz z 2014 r. poz. 40).
 Z przeprowadzonych prób sporządza się protokół.
 § 268. Przegląd instalacji gazowych, instalacji sprężonego powietrza, zaworów redukcyjnych i szybko zamykających oraz innych urządzeń wykonuje się zgodnie z ustaleniami kierownika ruchu zakładu górniczego otworowego.
 § 269. Prace wewnątrz kotłów wykonuje się tylko po ich odłączeniu i zabezpieczeniu zaślepkami wszystkich połączeń kotła z instalacjami lub urządzeniami.
-§ 270. Konstrukcję i sposób uzbrojenia otworów wiertniczych dostosowuje się do stwierdzonej wierceniami głębokości § 271. Kompensację naprężeń kolumn rur eksploatacyjnych, powodowanych czynnikami termicznymi i procesem osiadania nadkładu, zapewnia się, stosując odpowiednią konstrukcję więźby rurowej lub teleskopową konstrukcję tych kolumn.
+§ 270. Konstrukcję i sposób uzbrojenia otworów wiertniczych dostosowuje się do stwierdzonej wierceniami głębokości zalegania spągu i budowy serii chemicznej złoża.
+§ 271. Kompensację naprężeń kolumn rur eksploatacyjnych, powodowanych czynnikami termicznymi i procesem osiadania nadkładu, zapewnia się, stosując odpowiednią konstrukcję więźby rurowej lub teleskopową konstrukcję tych kolumn.
 § 272. Przed każdym włączeniem odwiertu do eksploatacji sprawdza się drożność kolumny zasilającej i wydobywczej.
 § 273. Włączenie odwiertu do eksploatacji wymaga decyzji kierownika ruchu zakładu górniczego otworowego.
 § 274. 1. Sposób wykonania zabiegów intensyfikacji przypływu poprzez udrożnienie kolumn rur lub przestrzeni międzyrurowej i strefy przyodwiertowej ustala kierownik ruchu zakładu górniczego otworowego.
@@ -906,6 +933,7 @@ Z przeprowadzonych prób sporządza się protokół.
 § 281. 1. Zakres i system oddziaływania na warunki hydronaporowe dla rejonów eksploatacyjnych określa służba geologiczna zakładu górniczego otworowego, w uzgodnieniu z właściwymi działami ruchu zakładu górniczego otworowego.
 2. W uzgodnieniach, o których mowa w ust. 1, w szczególności uwzględnia się:
 1) natężenie prowadzenia eksploatacji i związanego z nią poziomu zasilania złoża wodą technologiczną w danym rejonie;
+2) warunki hydrogeologiczne złoża w danym rejonie;
 3) zapewnienie ciśnienia wód złożowych wymaganego potrzebami eksploatacji;
 4) przeciwdziałanie niezamierzonym wypływom wód złożowych na powierzchnię oraz przedostawaniu się ich do chronionych horyzontów wodonośnych;
 5) ukierunkowanie przepływu wód, poprzez oddziaływanie hydrauliczne systemem barier represyjnych i depresyjnych, w celu podgrzewania złoża oraz odbioru wód dla celów eksploatacyjnych w układzie zamkniętego obiegu wód.
@@ -921,12 +949,13 @@ Z przeprowadzonych prób sporządza się protokół.
 2. Likwidację awarii związanej z procesem eksploatacji złoża lub erupcji wykonuje się zgodnie z planem likwidacji awarii albo erupcji, zatwierdzonym przez kierownika ruchu zakładu górniczego otworowego.
 § 285. 1. Osoby zatrudnione przy zabezpieczaniu miejsca awarii związanej z procesem eksploatacji złoża albo erupcji, w szczególności przy prowadzeniu prac likwidacyjnych tych zjawisk, posiadają wymagane kwalifikacje i stosują niezbędny sprzęt ochrony indywidualnej oraz odzież ochronną.
 2. Prace mające na celu likwidację awarii związanej z procesem eksploatacji złoża i erupcji wykonuje się pod bezpośrednim nadzorem osoby dozoru ruchu zakładu górniczego otworowego, wyznaczonej przez kierownika ruchu zakładu górniczego otworowego.
-§ 286. 1. W układach otworów wiertniczych odbioru lub zatłaczania wód prowadzi się bilansowe pomiary ilości wód, a w układzie zatłaczania także ciśnienia tłoczenia tych wód.
+§ 286. 1. W układach otworów wiertniczych odbioru lub zatłaczania wód prowadzi się bilansowe pomiary ilości wód, a w układzie zatłaczania – także ciśnienia tłoczenia tych wód.
 2. Przepisu ust. 1 nie stosuje się do uszczelniania rur okładzinowych, do likwidacji erupcji oraz awarii i komplikacji wiertniczych.
 § 287. 1. W otworach wiertniczych i punktach obserwacyjnych prowadzi się obserwacje, pomiary i badania, ustalające ciśnienie wód. Przypadki, w których jest konieczne badanie składu chemicznego tych wód i ich temperatury, określa kierownik ruchu zakładu górniczego otworowego.
 2. Obserwacje i pomiary prowadzi się także w wyznaczonych punktach udostępniania i użytkowania wód czwartorzędowych i trzeciorzędowych, leżących w obrębie przewidywanej strefy zasięgu wpływów eksploatacji.
 3. Pierwsze pomiary i badania w otworach wiertniczych obserwacyjnych i punktach, o których mowa w ust. 2, wykonuje się przed rozpoczęciem eksploatacji złoża w celu ustalenia stanu wyjściowego.
-§ 288. 1. Wszystkie otwory wiertnicze obserwacyjne, studnie i źródła naturalne objęte obserwacjami, pomiarami i bada2. Sposób, zakres i częstotliwość przeprowadzania obserwacji, pomiarów i badań oraz sposób ich ewidencjonowania określa kierownik ruchu zakładu górniczego otworowego.
+§ 288. 1. Wszystkie otwory wiertnicze obserwacyjne, studnie i źródła naturalne objęte obserwacjami, pomiarami i badaniami nawiązuje się do osnowy geodezyjnej i nanosi na mapy sytuacyjno-wysokościowe.
+2. Sposób, zakres i częstotliwość przeprowadzania obserwacji, pomiarów i badań oraz sposób ich ewidencjonowania określa kierownik ruchu zakładu górniczego otworowego.
 § 289. Urządzenia ciśnieniowe, służące do oczyszczania siarki, mogą być dopuszczone do użytkowania po spełnieniu wymagań określonych w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm. ) i w ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym.
 § 290. Przy pracach związanych z oczyszczaniem siarki, jej rozlewaniem i zestalaniem na składowiskach zachowuje się szczególne środki ostrożności, w celu uniknięcia poparzenia płynną siarką.
 § 291. 1. Siarkę w stanie płynnym składuje się w przystosowanych do tego celu zbiornikach wyposażonych w przyrządy do pomiaru jej temperatury i poziomu.
@@ -934,6 +963,7 @@ Z przeprowadzonych prób sporządza się protokół.
 § 292. W przypadku stosowania przenośnika taśmowego lub ciągu przenośników taśmowych, o długości przekraczającej 150 m, w miejscach przechodzenia osób zabudowuje się przejścia przez jego trasę.
 § 293. 1. Sterownie eksploatacyjne wyposaża się w aparaturę do utylizacji siarkowodoru.
 2. Kierownik ruchu zakładu górniczego otworowego określa zasady nadzoru nad sprawnością aparatury, o której mowa w ust. 1, oraz nad monitoringiem utylizacji siarkowodoru.
+§ 294. Projekt techniczny wydobywania soli określa w szczególności:
 1) grubość filarów brzeżnych międzykomorowych, wzajemne odległości między poszczególnymi odwiertami oraz miąższość warstw skalnych stanowiących półkę ochronną ponad komorami;
 2) wielkość przewidywanych osiadań powierzchni pola otworowego;
 3) sposób odprowadzania i gromadzenia solanki o pełnym nasyceniu, wypływającej z komór na skutek przestrzennego zaciskania komór oraz z innych przyczyn w całym procesie eksploatacji;
@@ -975,7 +1005,8 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 4) wszelkie inne zjawiska występujące w komorze i w odwiercie zauważone w procesie eksploatacji.
 2. W przypadku złóż wysadowych dokumentacja, o której mowa w § 297 pkt 1, może być ujednolicona i obowiązywać dla większej liczby otworów wiertniczych przeznaczonych do eksploatacji.
 3. Dane, o których mowa w ust. 1 pkt 1, 2 i 4, odnotowuje się w książce odwiertu z częstotliwością dobową i bilansuje się je miesięcznie.
-4. Dane dotyczące głębokości zalegania stropu i spągu komory oraz kształtu komory eksploatacyjnej przedstawia się § 300. Przed przystąpieniem do pierwszego zapuszczania kolumn rur eksploatacyjnych przeprowadza się kontrolę średnicy i głębokości otworu wiertniczego przeznaczonego do eksploatacji oraz zakłada pomocniczy punkt odniesienia, podczas wszelkich manipulacji rurami w tym otworze wiertniczym.
+4. Dane dotyczące głębokości zalegania stropu i spągu komory oraz kształtu komory eksploatacyjnej przedstawia się w sposób ustalony przez kierownika ruchu zakładu górniczego otworowego.
+§ 300. Przed przystąpieniem do pierwszego zapuszczania kolumn rur eksploatacyjnych przeprowadza się kontrolę średnicy i głębokości otworu wiertniczego przeznaczonego do eksploatacji oraz zakłada pomocniczy punkt odniesienia, podczas wszelkich manipulacji rurami w tym otworze wiertniczym.
 § 301. Kolumny rur eksploatacyjnych wolno wiszących w otworze wiertniczym przeznaczonym do eksploatacji umocowuje się w więźbie rurowej, w sposób uniemożliwiający ich niekontrolowane przesunięcia względem siebie i wpadnięcie do otworu wiertniczego oraz w sposób ułatwiający manipulacje tymi kolumnami.
 § 302. Wszelkich zmian w otworach wiertniczych przeznaczonych do eksploatacji lub w odwiertach dokonuje się pod nadzorem osoby dozoru ruchu zakładu górniczego otworowego, odpowiedniej specjalności, i dokumentuje się je.
 § 303. Przed rozpoczęciem wydobywania sprawdza się prawidłowość funkcjonowania urządzeń kontrolno-pomiarowych i zabezpieczających.
@@ -994,7 +1025,8 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 § 311. 1. Przy wydobywaniu soli odwiertami, o przewidywanej głębokości komór ponad 1000 m, urządzenia dozujące i kontrolne oleju ekranującego strop powstającej komory są stale czynne, a ich pracę w sposób ciągły rejestruje się w stacji kontrolno-pomiarowej.
 2. Podczas wydobywania soli, gdy pomiary geodezyjne pola eksploatacyjnego wykazują osiadanie, kierownik ruchu zakładu górniczego otworowego wyznacza drogi dojścia do poszczególnych rejonów pola eksploatacyjnego, jak również drogi transportowe oraz dopuszczalne obciążenie i szybkość przejazdów.
 § 312. Podczas zasypywania zapadlisk powstałych na polu eksploatacyjnym lub podczas przemieszczania się mas podsadzkowych, przy podsadzaniu komór poeksploatacyjnych:
-1) wyznacza się bezpieczne kierunki dowozu mas podsadzkowych oraz drogi, po których mogą poruszać się ciężkie ma2) wyznacza się na drodze dojazdowej miejsca, do których wolno dojeżdżać ciężkimi maszynami;
+1) wyznacza się bezpieczne kierunki dowozu mas podsadzkowych oraz drogi, po których mogą poruszać się ciężkie maszyny, na podstawie rozeznania w zakresie miąższości i szczelności półki ochronnej nad komorami;
+2) wyznacza się na drodze dojazdowej miejsca, do których wolno dojeżdżać ciężkimi maszynami;
 3) wyznacza się osoby dozoru ruchu zakładu górniczego otworowego, prowadzące obserwacje zachowania stateczności krawędzi zapadliska;
 4) w przypadku prowadzenia prac w porze nocnej, miejsca pracy oświetla się, a prace prowadzi na podstawie zezwolenia kierownika ruchu zakładu górniczego otworowego pod nadzorem osoby wyższego dozoru ruchu zakładu górniczego;
 5) w przypadku wystąpienia strefy obrywów krawędzi zapadliska, skąd są spychane masy wypełniające, natychmiast zmienia się miejsca składowania spychanych mas.
@@ -1014,12 +1046,13 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 § 320. 1. Jeżeli strop komory eksploatacyjnej dochodzi do półki ochronnej, a eksploatacja jest prowadzona bez olejowej ochrony stropu, odwiert wyłącza się z eksploatacji.
 2. Niezlikwidowane komory poeksploatacyjne, wyłączone z ruchu, których strop znalazł się w rejonie półki ochronnej, okresowo sprawdza się, mierząc w nich położenie i kształt stropu komory.
 3. Częstotliwość pomiaru stropu komory ustala kierownik ruchu zakładu górniczego otworowego.
-§ 321. Przed rozpoczęciem ługowania soli na obszarze pola eksploatacyjnego oraz wokół pola, w granicach przewidywanych wpływów eksploatacji, wyznacza się piezometry dla umożliwienia obserwacji kształtowania się warunków hydrogeologicznych oraz zmian składu chemicznego wód podziemnych z horyzontów, z których woda jest pobierana do celów § 322. 1. Pierwsze pomiary i analizy wód wykonuje się przed rozpoczęciem eksploatacji, a następnie z częstotliwością i w zakresie ustalonym przez kierownika ruchu zakładu górniczego otworowego.
+§ 321. Przed rozpoczęciem ługowania soli na obszarze pola eksploatacyjnego oraz wokół pola, w granicach przewidywanych wpływów eksploatacji, wyznacza się piezometry dla umożliwienia obserwacji kształtowania się warunków hydrogeologicznych oraz zmian składu chemicznego wód podziemnych z horyzontów, z których woda jest pobierana do celów komunalnych, jak również z horyzontów przepuszczalnych w nadkładzie złoża soli.
+§ 322. 1. Pierwsze pomiary i analizy wód wykonuje się przed rozpoczęciem eksploatacji, a następnie z częstotliwością i w zakresie ustalonym przez kierownika ruchu zakładu górniczego otworowego.
 2. Sposób prowadzenia i ewidencjonowania wyników pomiarów i obserwacji określa kierownik ruchu zakładu górniczego otworowego.
 § 323. 1. Komory eksploatacyjne, które osiągnęły projektowane wymiary i z których wydobyto założoną ilość soli, wyłącza się z ruchu, a odwierty zabezpiecza przed włączeniem do obiegu eksploatacyjnego.
-2. Głowice odwiertów udostępniających komory wyłączone z ruchu zabezpiecza się, przed możliwością nadmiernego wzrostu ciśnienia solanki wypełniającej układ komora odwiert, przez zamontowanie urządzeń pomiarowych ciśnienia solanki oraz urządzeń odprowadzających jej nadmiar.
+2. Głowice odwiertów udostępniających komory wyłączone z ruchu zabezpiecza się, przed możliwością nadmiernego wzrostu ciśnienia solanki wypełniającej układ komora – odwiert, przez zamontowanie urządzeń pomiarowych ciśnienia solanki oraz urządzeń odprowadzających jej nadmiar.
 3. Urządzenia, o których mowa w ust. 2, podłącza się do stacji aparatury kontrolno-pomiarowej lub pozostawia pod ciągłą obserwacją osób obsługi i dozoru ruchu zakładu górniczego otworowego.
-4. Ciśnienie na głowicy odwiertu wyłączonego z ruchu nie może przekroczyć ciśnienia granicznego, określonego przez kierownika ruchu zakładu górniczego otworowego, ze względu na ochronę układu odwiert komora.
+4. Ciśnienie na głowicy odwiertu wyłączonego z ruchu nie może przekroczyć ciśnienia granicznego, określonego przez kierownika ruchu zakładu górniczego otworowego, ze względu na ochronę układu odwiert – komora.
 § 324. 1. Podziemne komory eksploatacyjne wypełnione solanką mogą być pozostawione w stanie, jaki osiągnęły po zakończeniu eksploatacji, jeżeli filary i ochronna półka stropowa mają wymiary gwarantujące bezpieczeństwo powierzchni.
 2. W przypadkach innych niż określone w ust. 1 komory poeksploatacyjne zabezpiecza się albo likwiduje w sposób ustalony przez kierownika ruchu zakładu górniczego otworowego.
 3. Komory poeksploatacyjne zabezpiecza się przez podsadzanie, z zastosowaniem materiałów, które nie wpływają w sposób szkodliwy na środowisko.
@@ -1033,17 +1066,18 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 § 327. Do czasu zaniku samowypływów solanki z komór poeksploatacyjnych likwidowanego zakładu górniczego otworowego:
 1) utrzymuje się sprawną instalację odbierającą solankę z odwiertów i odprowadzającą tę solankę z pola eksploatacyjnego;
 2) prowadzi się pomiary ilości odprowadzonej solanki i jej dokumentowanie z częstotliwością ustaloną przez kierownika ruchu zakładu górniczego otworowego;
-3) okresowo wykonuje się pomiary sytuacyjno-wysokościowe powierzchni pola eksploatacyjnego i sąsiadujących z nim
+3) okresowo wykonuje się pomiary sytuacyjno-wysokościowe powierzchni pola eksploatacyjnego i sąsiadujących z nim terenów;
 4) prowadzi się obserwacje hydrogeologiczne na obszarze pola eksploatacyjnego i sąsiadujących z nim terenów;
 5) likwiduje się osiadania o charakterze nieciągłym, występujące na obszarze pola eksploatacyjnego, oraz wypełnia większe osiadania o charakterze ciągłym.
 § 328. Wyrobiska zakładu górniczego otworowego wydobywającego sól odwiertami uznaje się za zlikwidowane, gdy zanikną samowypływy solanki wywołane zaciskaniem komór poeksploatacyjnych oraz nastąpi ustabilizowanie powierzchni pola eksploatacyjnego.
+§ 329. Przepisy § 294–297 stosuje się odpowiednio do prac przygotowawczych związanych z wydobywaniem wód leczniczych, wód termalnych i solanek, zwanych dalej w niniejszym rozdziale „wodami”.
 § 330. Podczas wiercenia otworów wiertniczych wykonuje się badania określające:
 1) głębokość warstw nasyconych wodą oraz pakietów izolujących w całym profilu otworu wiertniczego;
 2) skład chemiczny oraz ciśnienie hydrostatyczne i wydajność wód;
 3) ilość i skład chemiczny gazów towarzyszących wodzie, jak również występujących samoistnie.
 § 331. Przy dowiercaniu do złoża wód stosuje się płuczkę wiertniczą o właściwościach niepowodujących uszkodzenia strefy przyodwiertowej i skażenia wód.
-§ 332. 1. Opróbowanie poziomu skał zbiornikowych, po zakończeniu robót wiertniczych, prowadzi się na podstawie projektu badań opróbowania otworu wiertniczego lub odwiertu, zatwierdzonego odpowiednio przez kierownika ruchu zakładu lub kierownika ruchu zakładu górniczego otworowego.
-2. Prace związane z opróbowaniem, próbnym pompowaniem i eksploatacją, w szczególności związane z uzbrojeniem powierzchniowym i wgłębnym odwiertu, montażem urządzeń i instalacji, wytłaczaniem płynów oraz sporządzaniem wymaganej dokumentacji tych prac, prowadzi się zgodnie z wymaganiami określonymi w projekcie robót geologicznych, a w przypadku występowania gazu w odwiercie zgodnie z wymaganiami obowiązującymi przy opróbowywaniu odwiertów wykonywanych w celu poszukiwań ropy naftowej i gazu ziemnego.
+§ 332. 1. Opróbowanie poziomu skał zbiornikowych, po zakończeniu robót wiertniczych, prowadzi się na podstawie projektu badań – opróbowania otworu wiertniczego lub odwiertu, zatwierdzonego odpowiednio przez kierownika ruchu zakładu lub kierownika ruchu zakładu górniczego otworowego.
+2. Prace związane z opróbowaniem, próbnym pompowaniem i eksploatacją, w szczególności związane z uzbrojeniem powierzchniowym i wgłębnym odwiertu, montażem urządzeń i instalacji, wytłaczaniem płynów oraz sporządzaniem wymaganej dokumentacji tych prac, prowadzi się zgodnie z wymaganiami określonymi w projekcie robót geologicznych, a w przypadku występowania gazu w odwiercie – zgodnie z wymaganiami obowiązującymi przy opróbowywaniu odwiertów wykonywanych w celu poszukiwań ropy naftowej i gazu ziemnego.
 § 333. Aparatura kontrolno-pomiarowa oraz pozostała instalacja w całym ciągu technologicznym wydobywania wód, a także towarzyszącego gazu ziemnego, jest odporna na korodujące działanie związków rozpuszczalnych w wodach oraz przystosowana do pracy w przestrzeniach zagrożonych wybuchem.
 § 334. Po dowierceniu otworu wiertniczego do projektowanej głębokości i po udostępnieniu złoża wód prowadzi się badania i pomiary w celu określenia zdolności wydobywczych tego otworu.
 § 335. 1. Pompowanie próbne w celu ustalenia parametrów eksploatacyjnych otworu wiertniczego przeprowadza się na podstawie projektu technicznego badań, zatwierdzonego przez kierownika ruchu zakładu lub kierownika ruchu zakładu górniczego otworowego.
@@ -1054,7 +1088,7 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 4) ciśnienia nasycenia wód gazem;
 5) właściwości fizykochemicznych wód;
 6) wielkości wydobycia wód i gazu w zależności od różnic ciśnienia złożowego statycznego i dynamicznego oraz wartości ciśnienia głowicowego;
-7) wielkości wydobycia gazów w zależności od głębokości zapuszczenia pompy przy eksploatacji przez pompowanie.
+7) wielkości wydobycia gazów w zależności od głębokości zapuszczenia pompy – przy eksploatacji przez pompowanie.
 3. W przypadku wydobywania wód za pomocą pompy wgłębnej stosuje się rozwiązania umożliwiające wykonywanie pomiarów głębokości lustra wody w odwiercie.
 4. W przypadku próbnego pompowania wód bez gazu uzyskuje się dane eksploatacyjne wymagane przy badaniu otworów wiertniczych hydrogeologicznych.
 5. W okresie próbnego pompowania prowadzi się dokładną ewidencję wyników pomiarów wydajności wody i gazu, wielkości poszczególnych ciśnień oraz głębokości lustra wód w odwiercie.
@@ -1064,7 +1098,7 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 2. Dopuszcza się zatłaczanie do złoża wody uzyskanej w okresie próbnego pompowania, pod warunkiem:
 1) stwierdzenia szczelności zarurowania odwiertu służącego do wtłaczania;
 2) wtłaczania do odwiertu tak zlokalizowanego, aby nie wpływało to na wynik badanych odwiertów.
-3. Gaz ziemny wydobywany wraz z wodą oddziela się w odpowiedniej instalacji i zagospodarowuje lub spala zgodnie z wymaganiami określonymi w dziale II tytułu II ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+3. Gaz ziemny wydobywany wraz z wodą oddziela się w odpowiedniej instalacji i zagospodarowuje lub spala zgodnie z wymaganiami określonymi w dziale II tytułu II ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 § 337. 1. Wielkość wydobycia wody ustala się według najniższego wykładnika gazowego, przy którym otrzymuje się równomierny odbiór wody.
 2. W wodnonaporowych warunkach wydobycia wody wielkość wydobycia ustala się w taki sposób, aby wydobycie było przeprowadzone przy stałym dynamicznym poziomie wody.
 § 338. Wydobywanie solanek prowadzi się zgodnie z ustaleniami kierownika ruchu zakładu górniczego otworowego, wynikającymi z próbnego pompowania.
@@ -1078,7 +1112,8 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 2. W przypadku nietypowej zmiany jakiegokolwiek parametru przeprowadza się niezwłocznie pełne pomiary parametrów złożowych oraz eksploatacyjnych i ustala przyczyny powstałych zmian.
 3. Jeżeli przyczyny zmiany parametrów złożowych wynikają z naturalnego spadku ciśnienia złożowego, ustala się nowe optymalne warunki eksploatacji.
 4. Zmiany głębokości zapuszczania pomp wgłębnych w odwiertach mogą nastąpić wyłącznie po przeprowadzeniu pomiarów parametrów złożowych, które uzasadnią dokonanie tych zmian.
-§ 342. Prace związane z koniecznością demontażu głowicy eksploatacyjnej solankowego odwiertu, w szczególności przy obróbce odwiertu, wymianie rur eksploatacyjnych i rekonstrukcji w przypadku występowania gazu, wykonuje się przy § 343. W ruchu zakładu górniczego otworowego stosuje się uzbrojenie eksploatacyjne umożliwiające okresowy pomiar parametrów eksploatacyjnych każdego odwiertu.
+§ 342. Prace związane z koniecznością demontażu głowicy eksploatacyjnej solankowego odwiertu, w szczególności przy obróbce odwiertu, wymianie rur eksploatacyjnych i rekonstrukcji w przypadku występowania gazu, wykonuje się przy zabezpieczeniu głowicą przeciwerupcyjną.
+§ 343. W ruchu zakładu górniczego otworowego stosuje się uzbrojenie eksploatacyjne umożliwiające okresowy pomiar parametrów eksploatacyjnych każdego odwiertu.
 § 344. 1. Dopuszcza się krótkotrwałe syfonowanie płynów w celu oczyszczenia dna odwiertu.
 2. Czas syfonowania płynu z odwiertu lub pompowania oczyszczającego określa kierownik ruchu zakładu górniczego otworowego.
 3. Płyny podczas syfonowania lub pompowania oczyszczającego mogą być odprowadzane tylko do odpowiednich oddzielaczy.
@@ -1101,8 +1136,9 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 3) wykonywanie napraw uzbrojenia eksploatacyjnego.
 2. Ujęcie wód leczniczych lub termalnych za pomocą odwiertów zapewnia:
 1) spełnienie wymagań, o których mowa w ust. 1;
+2) możliwość wykonywania prac związanych z manewrowaniem rurami wydobywczymi;
 3) możliwość niezawodnego zawieszenia rur wydobywczych;
-4) szczelność układu: odwiert głowica eksploatacyjna.
+4) szczelność układu: odwiert – głowica eksploatacyjna.
 § 354. Materiały do budowy ujęcia wód leczniczych lub termalnych dostosowuje się do charakterystyki fizykochemicznej tych wód, towarzyszącego im gazu, warunków eksploatacji tych wód oraz oddziaływania temperatury i tlenu.
 § 355. 1. Ujęcie płytkie źródeł wód leczniczych wyposaża się w urządzenia eksploatacyjne oraz przelew awaryjny zabezpieczający przed możliwością spiętrzenia wody w ujęciu.
 2. Przelew, o którym mowa w ust. 1, nagazowanych wód leczniczych wyposaża się w zabezpieczenie syfonowe.
@@ -1117,12 +1153,13 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 4. Urządzenia eksploatacyjne dostosowuje się do warunków ustalonych w dokumentacjach hydrogeologicznych.
 § 360. W przypadku stwierdzenia pogorszenia stanu technicznego ujęcia, wpływającego negatywnie na złoże i kopalinę, przeprowadza się jego rekonstrukcję lub modernizację, a jeżeli jest to technicznie niemożliwe, ujęcie to się likwiduje.
 § 361. Rekonstrukcję, modernizację i likwidację ujęcia prowadzi się na podstawie projektu technicznego, zatwierdzonego przez kierownika ruchu zakładu górniczego otworowego. Z przeprowadzonych prac likwidacyjnych sporządza się protokół.
-§ 362. Wymagania techniczne, dotyczące projektowania, budowy i eksploatacji rurociągów służących do transportu wód leczniczych lub termalnych oraz gazów, określają przepisy wydane na podstawie art. 7 ust. 2 pkt 2 oraz ust. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane.
+§ 362. Wymagania techniczne, dotyczące projektowania, budowy i eksploatacji rurociągów służących do transportu wód leczniczych lub termalnych oraz gazów, określają przepisy wydane na podstawie art. 7 ust. 2 pkt 2 oraz ust. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 § 363. 1. Rurociągi, przepompownie, zbiorniki wyrównawcze i przelewowe nie mogą powodować zmian fizykochemicznych i bakteriologicznych wód leczniczych lub termalnych oraz towarzyszących im gazów.
 2. Wykorzystywanie urządzeń, o których mowa w ust. 1, do celów niezgodnych z ich przeznaczeniem jest niedopuszczalne.
 § 364. 1. Trasy rurociągów prowadzi się w taki sposób, aby droga od ujęcia do punktu odbioru była jak najkrótsza i zapewniała bezpieczeństwo obsługi.
 2. Przy wyborze trasy rurociągu, w miarę możliwości, dąży się do uzyskania przepływu grawitacyjnego.
-3. Rurociągi do transportu wód leczniczych lub termalnych nagazowanych prowadzi się, w miarę możliwości, ze wznio4. W przypadku prowadzenia, po wzniosie lub pionowo, rurociągów z wodą leczniczą lub termalną nagazowaną, na trasie tego rurociągu w najwyższych jego punktach instaluje się urządzenia odgazowujące.
+3. Rurociągi do transportu wód leczniczych lub termalnych nagazowanych prowadzi się, w miarę możliwości, ze wzniosem, a równolegle nad nim prowadzi się rurociąg odprowadzający nadmiar gazu.
+4. W przypadku prowadzenia, po wzniosie lub pionowo, rurociągów z wodą leczniczą lub termalną nagazowaną, na trasie tego rurociągu w najwyższych jego punktach instaluje się urządzenia odgazowujące.
 5. Rurociągi do transportu wód leczniczych lub termalnych nagazowanych projektuje się w taki sposób, aby woda płynęła pełnym przekrojem rurociągu.
 § 365. Dopuszcza się możliwość stosowania sposobów transportu wód leczniczych lub termalnych, innych niż rurociągami, jeżeli nie wpłynie to na skład fizyczno-chemiczny i bakteriologiczny transportowanej wody.
 § 366. 1. Zbiorniki wód leczniczych lub gazu zabezpiecza się przed dostępem osób nieupoważnionych.
@@ -1131,6 +1168,7 @@ f) dokumenty, na podstawie których są podejmowane decyzje dotyczące tymczasow
 4. W przypadku magazynowania wód leczniczych nagazowanych, w konstrukcji zbiorników uwzględnia się stałe utrzymywanie poduszek gazowych o wysokości od 0,7 do 1,0 m.
 5. Zbiorniki zaopatruje się w urządzenia do pomiaru poziomu płynu, ciśnienia i poboru próbek.
 6. Zbiorniki na wodę leczniczą zawierającą gaz palny uziemia się i zabezpiecza przed wyładowaniami atmosferycznymi.
+§ 367. 1. Użyte w niniejszym rozdziale określenia oznaczają:
 1) morska jednostka:
 a) statki przystosowane do prowadzenia prac geofizycznych,
 b) stacjonarne platformy wiertnicze lub wydobywcze, posadowione na dnie morskim na stałe,
@@ -1139,18 +1177,19 @@ d) półzanurzalne, pływające platformy wiertnicze lub wydobywcze, zakotwiczon
 e) statki lub barki wiertnicze lub wydobywcze,
 f) funkcjonalne kombinacje wynikające z połączenia konstrukcji, o których mowa w lit. a–e,
 g) bezobsługowe platformy wydobywcze;
-2) członek załogi pracownika zatrudnionego na morskiej jednostce.
+2) członek załogi – pracownika zatrudnionego na morskiej jednostce.
 2. W sprawach nieuregulowanych w przepisach niniejszego rozdziału, związanych z wykonywaniem robót geologicznych i górniczych, w celu poszukiwania, rozpoznawania i wydobywania ropy naftowej lub gazu ziemnego, w obszarach morskich Rzeczypospolitej Polskiej, stosuje się odpowiednio przepisy dotyczące robót wiertniczych w celu poszukiwania, rozpoznawania i wydobywania ropy naftowej lub gazu ziemnego ze złóż lądowych.
 § 368. 1. Załogę przed rozpoczęciem pracy na morskiej jednostce szkoli się w zakresie:
 1) działań podejmowanych w przypadku zagrożenia lub wystąpienia objawów erupcji płynu złożowego, z uwzględnieniem zagrożenia toksycznego siarkowodorem, zgodnie z instrukcją zatwierdzoną przez kierownika ruchu zakładu górniczego otworowego lub kierownika ruchu zakładu;
 2) zapobiegania wybuchom oraz ich zwalczania;
 3) zapobiegania i zwalczania pożarów, zgodnie z instrukcją zatwierdzoną przez kierownika ruchu zakładu górniczego otworowego lub kierownika ruchu zakładu;
 4) awaryjnego opuszczania morskiej jednostki, zgodnie z przepisami bezpieczeństwa morskiego;
+5) udzielania pierwszej pomocy medycznej.
 2. Ćwiczenia z awaryjnego opuszczania morskiej jednostki prowadzi się zgodnie z przepisami bezpieczeństwa morskiego.
 3. Przeprowadzenie ćwiczeń, o których mowa w ust. 2, i ich zakres każdorazowo się dokumentuje.
 4. Członek załogi powracający do pracy na tę samą morską jednostkę, po każdorazowej nieobecności dłuższej niż:
-1) 3 miesiące odbywa przeszkolenie w zakresie określonym w ust. 1 pkt 1–4;
-2) 1 miesiąc odbywa przeszkolenie w zakresie określonym w ust. 1 pkt 3 i 4.
+1) 3 miesiące – odbywa przeszkolenie w zakresie określonym w ust. 1 pkt 1–4;
+2) 1 miesiąc – odbywa przeszkolenie w zakresie określonym w ust. 1 pkt 3 i 4.
 5. Sprzęt ratowniczy, po użyciu podczas szkoleń, przywraca się do stanu gotowości.
 6. Szkolenia, o których mowa w ust. 1 pkt 1–3 i 5, przeprowadza się z częstotliwością określoną przez kierownika ruchu zakładu z uwzględnieniem warunków panujących na morskiej jednostce.
 § 369. 1. Kierownikiem morskiej jednostki jest wyznaczona przez przedsiębiorcę osoba posiadająca stwierdzone kwalifikacje kierownika ruchu zakładu górniczego otworowego lub kierownika ruchu zakładu.
@@ -1172,6 +1211,7 @@ b) ustaleń technicznej komisji awaryjnej,
 c) przekazania otworu wiertniczego do eksploatacji.
 § 375. Podczas wydobywania kopaliny sporządza się i na bieżąco prowadzi dokumentację dotyczącą realizacji wydobycia, w szczególności:
 1) dobowy raport wydobycia płynu złożowego;
+2) książkę odwiertów z ewidencją wszelkich prac prowadzonych w odwiertach;
 3) raporty magazynowe wydobywanego płynu złożowego oraz środków niezbędnych do prowadzenia eksploatacji;
 4) analizy płynu złożowego;
 5) protokoły:
@@ -1225,7 +1265,8 @@ o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm. ) oraz przep
 7. Drogi ewakuacyjne utrzymuje się w stanie zapewniającym opuszczenie morskiej jednostki przez załogę bez utrudnień.
 8. Sprzęt ewakuacyjny i ratunkowy musi być gotowy do natychmiastowego użycia.
 9. Jeżeli dokument bezpieczeństwa tego wymaga, jedno z bezpiecznych miejsc zbiórek wyposaża się w urządzenia umożliwiające zdalne sterowanie systemami alarmowania oraz systemami łączności z lądem i służbami ratunkowymi.
-10. Listę z nazwiskami członków załogi, którym przydzielono specjalne zadania w przypadku zaistnienia sytuacji awa§ 387. 1. Morską jednostkę wyposaża się w akustyczny oraz optyczny system alarmowy, służący do emitowania sygnałów ostrzegawczych o zagrożeniu, którego sygnały są słyszalne w każdym miejscu, a sygnały optyczne umieszcza się w taki sposób, aby były widoczne z miejsc pracy członków załogi.
+10. Listę z nazwiskami członków załogi, którym przydzielono specjalne zadania w przypadku zaistnienia sytuacji awaryjnej, wywiesza się w miejscach zbiórek lub innych miejscach ogólnie dostępnych dla członków załogi.
+§ 387. 1. Morską jednostkę wyposaża się w akustyczny oraz optyczny system alarmowy, służący do emitowania sygnałów ostrzegawczych o zagrożeniu, którego sygnały są słyszalne w każdym miejscu, a sygnały optyczne umieszcza się w taki sposób, aby były widoczne z miejsc pracy członków załogi.
 2. Morską jednostkę wyposaża się w system łączności zdolny do utrzymania łączności z lądem i służbami ratunkowymi oraz w system alarmowo-rozgłoszeniowy, przystosowany do pracy w przestrzeniach zagrożonych wybuchem.
 3. Urządzenia systemów, o których mowa w ust. 1 i 2, mają co najmniej dwa niezależne źródła zasilania, przełączające się automatycznie.
 4. Urządzenia alarmowe mogą być aktywowane z pomieszczeń dyspozytorskich i kierownika morskiej jednostki.
@@ -1247,6 +1288,7 @@ o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm. ) oraz przep
 3. Pierwszy alarm ćwiczebny przeprowadza się niezwłocznie po rozpoczęciu prac przez morską jednostkę.
 § 391. Na morskiej jednostce, na każdej zmianie roboczej, są obecne osoby posiadające kwalifikacje w zakresie wymogów bezpieczeństwa morskiego.
 § 392. 1. Osoby przebywające na morskiej jednostce wyposaża się w środki ochrony indywidualnej, stosowne do rodzaju wykonywanej czynności, i szkoli w zakresie ich używania.
+2. Na morskiej jednostce znajduje się odpowiedni zapas odzieży roboczej i środków ochrony indywidualnej.
 § 393. 1. Na morskiej jednostce organizuje się jeden lub kilka punktów medycznych, odpowiednio wyposażony i obsługiwany przez lekarza, stosownie do wielkości morskiej jednostki i rodzaju wykonywanej pracy.
 2. Na morskiej jednostce wydziela się i odpowiednio wyposaża pomieszczenie dla chorych lub rannych, a także zapewnia się na każdej zmianie roboczej dostateczną liczbę osób przeszkolonych w zakresie udzielania pierwszej pomocy lub, w miarę potrzeby, zapewnia się wyspecjalizowanych członków załogi zdolnych do prowadzenia leczenia pod kierownictwem lekarza, którego obecność nie jest konieczna.
 § 394. 1. Kierownik morskiej jednostki niezwłocznie organizuje pomoc dla osób, które podczas pracy lub pobytu na morskiej jednostce uległy wypadkowi lub zachorowały.
@@ -1289,6 +1331,7 @@ o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm. ) oraz przep
 1) horyzontalności całej konstrukcji;
 2) prędkości wiatru i jego kierunku;
 3) ciśnienia barometrycznego;
+4) temperatury powietrza i wody.
 2. Morską jednostkę pływającą wyposaża się w urządzenia pomiaru umożliwiające odczyt danych, o których mowa w ust. 1, oraz w urządzenia pozwalające na odczyt:
 1) przechyłów bocznych i wzdłużnych;
 2) ruchu obrotowego;
@@ -1335,13 +1378,13 @@ o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm. ) oraz przep
 § 420. 1. W przypadku wystąpienia na morskiej jednostce zagrożenia pożarem, wybuchem lub zagrożenia toksycznego albo w sytuacjach awaryjnych kierownik morskiej jednostki podejmuje działania zabezpieczające zgodnie z opracowaną instrukcją.
 2. Kierownik morskiej jednostki podejmuje natychmiast wszelkie możliwe działania w celu likwidacji oraz ograniczenia skutków pożaru, wybuchu lub zanieczyszczenia środowiska morskiego.
 3. O zdarzeniach, o których mowa w ust. 2, kierownik morskiej jednostki niezwłocznie zawiadamia przedsiębiorcę oraz właściwy organ nadzoru górniczego i właściwy organ administracji morskiej.
-§ 421. 1. Otwór wiertniczy wyposaża się w głowicę przeciwerupcyjną z odpowiednią liczbą zamknięć, a odwiert w odpowiednią liczbę zamknięć pozwalających na jego niezwłoczne skuteczne zamknięcie. W przewodzie wiertniczym instaluje się odpowiednie urządzenia zabezpieczające przed wypływem płynu złożowego.
+§ 421. 1. Otwór wiertniczy wyposaża się w głowicę przeciwerupcyjną z odpowiednią liczbą zamknięć, a odwiert – w odpowiednią liczbę zamknięć pozwalających na jego niezwłoczne skuteczne zamknięcie. W przewodzie wiertniczym instaluje się odpowiednie urządzenia zabezpieczające przed wypływem płynu złożowego.
 2. Urządzenia, o których mowa w ust. 1, cechują się wytrzymałością na ciśnienie robocze nie mniejsze od maksymalnego przewidzianego ciśnienia złożowego.
 § 422. 1. Na morskiej jednostce zapewnia się możliwość sterowania urządzeniami przeciwerupcyjnymi co najmniej z dwóch niezależnych miejsc.
 2. Instalacje sterujące urządzeniami przeciwerupcyjnymi sytuuje się na morskiej jednostce w takich miejscach, aby nie spowodować ich uszkodzenia. Instalacje te mają źródła zasilania w energię, niezależne od ogólnych systemów zasilania morskiej jednostki.
 § 423. 1. W skład instalacji przeciwerupcyjnej na morskiej jednostce wchodzi system węzłów dławienia i zatłaczania, dający możliwość kontrolowanego zatłaczania otworu wiertniczego i odpuszczania płynu złożowego po zamknięciu głowicy przeciwerupcyjnej.
 2. System, o którym mowa w ust. 1, zapewnia możliwość zatłaczania otworu wiertniczego za pomocą pomp płuczkowych lub agregatów cementacyjnych.
-3. Rurociągi odpływowe mają możliwość odprowadzenia płynu złożowego do odpowiednich zbiorników, a gazu ziemnego do urządzeń do spalania lub do bezpiecznego odprowadzenia poza morską jednostkę.
+3. Rurociągi odpływowe mają możliwość odprowadzenia płynu złożowego do odpowiednich zbiorników, a gazu ziemnego – do urządzeń do spalania lub do bezpiecznego odprowadzenia poza morską jednostkę.
 4. Instalacje wchodzące w skład uzbrojenia otworu wiertniczego umożliwiają kontrolę ciśnienia w przestrzeniach, z którymi są połączone.
 § 424. Morską jednostkę wiertniczą wyposaża się w:
 1) aparaturę pozwalającą na sygnalizację i rejestrację objawów niezamierzonego przypływu płynu złożowego;
@@ -1353,7 +1396,8 @@ o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm. ) oraz przep
 § 427. 1. Odwierty wyposaża się w pakery produkcyjne, zamykające przestrzeń między kolumną eksploatacyjną a rurami wydobywczymi.
 2. Sposób ochrony odwiertów ustala kierownik ruchu zakładu górniczego otworowego, zawiadamiając o tym właściwy organ nadzoru górniczego.
 § 428. 1. Instalacje i urządzenia usytuowane na dnie morskim chroni się przed uszkodzeniem przez morskie jednostki.
-2. Miejsce usytuowania instalacji i urządzeń, o których mowa w ust. 1, podaje się do wiadomości administracji morskiej § 429. 1. Dźwigi, windy, wyciągi wiertnicze i inne urządzenia służące do transportu pionowego wyposaża się w wyłączniki krańcowe, a także w urządzenia zabezpieczające przed upadkiem ciężaru w razie awarii lub wyłączenia urządzenia.
+2. Miejsce usytuowania instalacji i urządzeń, o których mowa w ust. 1, podaje się do wiadomości administracji morskiej oraz Biura Hydrografii Marynarki Wojennej Rzeczypospolitej Polskiej.
+§ 429. 1. Dźwigi, windy, wyciągi wiertnicze i inne urządzenia służące do transportu pionowego wyposaża się w wyłączniki krańcowe, a także w urządzenia zabezpieczające przed upadkiem ciężaru w razie awarii lub wyłączenia urządzenia.
 2. Na wszystkich urządzeniach służących do transportu lub przenoszenia ciężarów umieszcza się oznakowania określające dopuszczalne obciążenie robocze.
 3. Jeżeli za pomocą urządzenia dźwigowego mają być transportowani ludzie na morską jednostkę lub z niej, kierownik morskiej jednostki opracowuje instrukcję określającą szczegółowe warunki bezpieczeństwa, obowiązujące przy wykonywaniu tych czynności.
 § 430. Liny, haki, łańcuchy i sprzęt mocujący użytkowany na morskiej jednostce systematycznie sprawdza się i utrzymuje w stanie zapewniającym bezpieczeństwo przy ich eksploatacji.
@@ -1372,7 +1416,8 @@ o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm. ) oraz przep
 2. Niedopuszczalne jest wykonywanie prac, o których mowa w ust. 1, w niekorzystnych warunkach meteorologicznych.
 § 437. 1. Przed przystąpieniem do prac geofizycznych kierownik morskiej jednostki protokolarnie przekazuje otwór wiertniczy kierownikowi podmiotu wykonującego prace geofizyczne na czas trwania tych prac. Kierownik podmiotu wykonującego prace geofizyczne protokolarnie przekazuje otwór wiertniczy po zakończeniu prac.
 2. Za bezpieczne i prawidłowe wykonywanie prac geofizycznych po przekazaniu otworu wiertniczego odpowiada kierownik podmiotu wykonującego prace geofizyczne.
-3. Prace geofizyczne w otworach wiertniczych na morzu prowadzi się na podstawie instrukcji opracowanej dla wykony4. Miejsce i sposób składowania środków strzałowych w okresie wykonywania prac geofizycznych na morskiej jednostce określa kierownik ruchu zakładu górniczego otworowego lub kierownik ruchu zakładu, w uzgodnieniu z podmiotem wykonującym te prace.
+3. Prace geofizyczne w otworach wiertniczych na morzu prowadzi się na podstawie instrukcji opracowanej dla wykonywania tych prac, zaakceptowanej przez kierownika ruchu zakładu.
+4. Miejsce i sposób składowania środków strzałowych w okresie wykonywania prac geofizycznych na morskiej jednostce określa kierownik ruchu zakładu górniczego otworowego lub kierownik ruchu zakładu, w uzgodnieniu z podmiotem wykonującym te prace.
 § 438. Dla sprawnego przeprowadzenia prac geofizycznych instalacja elektryczna morskiej jednostki zapewnia:
 1) bezpieczne podłączenie aparatury pomiarowej do źródła zasilania;
 2) wykonanie w otworze wiertniczym robót strzałowych, zgodnie z wymaganiami instrukcji opracowanych w tym zakresie.
@@ -1390,10 +1435,11 @@ o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm. ) oraz przep
 § 446. Badania i pomiary oraz zabiegi intensyfikacyjne w odwiertach prowadzi się na podstawie projektów zatwierdzonych przez kierownika ruchu zakładu górniczego otworowego.
 § 447. 1. Przed przystąpieniem do eksploatacji złoża ropy naftowej lub gazu ziemnego na obszarze morskim Rzeczypospolitej Polskiej kierownik ruchu zakładu górniczego otworowego:
 1) zarządza wykonanie badań niezbędnych do opracowania metody eksploatacji złoża zapewniającej w określonych warunkach techniczno-ekonomicznych maksymalny stopień sczerpania zasobów;
-2) zatwierdza ustalone optymalne wielkości wydobycia ropy naftowej lub gazu ziemnego z odwiertu, tak aby w tym odwiercie nie zachodziły zjawiska destrukcji skały zbiornikowej lub zakłócenia równowagi hydrodynamicznej na granicy faz: ropa naftowa woda lub gaz ziemny woda.
+2) zatwierdza ustalone optymalne wielkości wydobycia ropy naftowej lub gazu ziemnego z odwiertu, tak aby w tym odwiercie nie zachodziły zjawiska destrukcji skały zbiornikowej lub zakłócenia równowagi hydrodynamicznej na granicy faz: ropa naftowa – woda lub gaz ziemny – woda.
 2. Eksploatację odwiertów prowadzi się zgodnie z programem zatwierdzonym przez kierownika ruchu zakładu górniczego otworowego.
 3. Częstotliwość i zakres pomiarów w odwiertach ustala kierownik ruchu zakładu górniczego otworowego.
-§ 448. 1. Przed dopuszczeniem do ruchu odwiertów zatłaczających wodę do złoża w ramach przyjętego systemu eksploatacji, w celu podtrzymania ciśnienia złożowego, wykonuje się próbę wytrzymałości i szczelności eksploatacyjnej ko2. W przypadku wtłaczania gazu do złoża celem podtrzymania ciśnienia złożowego próby szczelności i wytrzymałości, o których mowa w ust. 1, wykonuje się z użyciem gazów z wyłączeniem powietrza.
+§ 448. 1. Przed dopuszczeniem do ruchu odwiertów zatłaczających wodę do złoża w ramach przyjętego systemu eksploatacji, w celu podtrzymania ciśnienia złożowego, wykonuje się próbę wytrzymałości i szczelności eksploatacyjnej kolumny rur okładzinowych przy ciśnieniu o wartości 1,3 spodziewanego maksymalnego ciśnienia zatłaczania.
+2. W przypadku wtłaczania gazu do złoża celem podtrzymania ciśnienia złożowego próby szczelności i wytrzymałości, o których mowa w ust. 1, wykonuje się z użyciem gazów z wyłączeniem powietrza.
 3. W przypadku stosowania metod termicznych jako zabiegów intensyfikacyjnych konstrukcja odwiertów uwzględnia występowanie naprężeń termicznych.
 § 449. 1. Sprzęt i urządzenia, wchodzące w skład wyposażenia wgłębnego i napowierzchniowego odwiertu, którym wydobywa się ropę naftową lub gaz ziemny, zawierające siarkowodór są odporne na działanie korozji wywołanej siarkowodorem.
 2. Używając metody odsiarczania wydobywanych węglowodorów, przy których jest wydzielany wolny siarkowodór, stosuje się neutralizację siarkowodoru lub spala go w odpowiednich palnikach.
@@ -1414,7 +1460,8 @@ o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368, z późn. zm. ) oraz przep
 § 457. Do transportu kopalin płynnych w obrębie morskiej jednostki wydobywczej stosuje się rurociągi technologiczne, które są:
 1) wytrzymałe na obciążenia mechaniczne i odporne na zmiany naprężeń lub własności mechanicznych, wywoływane czynnikami chemicznymi lub termicznymi;
 2) zabezpieczone przed wewnętrzną i zewnętrzną korozją;
-3) wyposażone w zawory zwrotne na obydwu końcach oraz w urządzenia umożliwiające obserwację i rejestrację wiel4) wyposażone w automatyczne systemy zabezpieczające, powodujące zamknięcie przepływu lub zmianę kierunku przepływu w przypadkach nadmiernego wzrostu lub spadku ciśnienia;
+3) wyposażone w zawory zwrotne na obydwu końcach oraz w urządzenia umożliwiające obserwację i rejestrację wielkości i kierunku przepływu cieczy (przepływomierze);
+4) wyposażone w automatyczne systemy zabezpieczające, powodujące zamknięcie przepływu lub zmianę kierunku przepływu w przypadkach nadmiernego wzrostu lub spadku ciśnienia;
 5) wyposażone w systemy umożliwiające separację płynów palnych i zanieczyszczeń mających destrukcyjny wpływ na zasuwy i inne urządzenia.
 § 458. 1. Trasy ułożenia rurociągów zaznacza się i odpowiednio oznakowuje na mapach morskich.
 2. Trasy ułożenia rurociągów odpowiadają informacjom złożonym przez przedsiębiorcę do Biura Hydrograficznego Marynarki Wojennej Rzeczypospolitej Polskiej.
@@ -1439,6 +1486,7 @@ e) zawartości baru, chromu, ołowiu, miedzi, rtęci i kadmu;
 § 462. 1. Badania, o których mowa w § 461 ust. 1 pkt 1, wykonuje się przed rozpoczęciem prac poszukiwawczych i rozpoznawczych oraz po ich zakończeniu w celu zapewnienia oceny oddziaływania morskiej jednostki albo ich zespołów na środowisko morskie w różnych fazach i stadiach tych prac.
 2. W przypadku wydobywania ropy naftowej i gazu ziemnego badania, o których mowa w § 461 ust. 1, wykonuje się przed rozpoczęciem wydobycia, podczas wydobywania w odstępach nie dłuższych niż 12 miesięcy i bezpośrednio po jego zakończeniu.
 § 463. 1. Kierownik ruchu zakładu górniczego otworowego sporządza plan zwalczania rozlewów olejowych i likwidacji zagrożeń dla środowisk.
+2. Plan, o którym mowa w ust. 1, jest zatwierdzany przez dyrektora właściwego urzędu morskiego.
 3. Plan, o którym mowa w ust. 1, zawiera w szczególności:
 1) listę instytucji i jednostek organizacyjnych krajowych oraz zagranicznych, w tym ubezpieczycieli, w których zakresie kompetencji mieszczą się sprawy ujęte w planie zwalczania rozlewów olejowych i likwidacji zagrożeń dla środowiska, wraz z danymi kontaktowymi;
 2) instrukcję alarmowania, powiadamiania i ostrzegania, wraz z formularzami międzynarodowymi powiadamiania i ostrzegania;
@@ -1455,6 +1503,7 @@ e) zawartości baru, chromu, ołowiu, miedzi, rtęci i kadmu;
 § 464. 1. Stosowane płuczki i płyny wiertnicze spełniają wymagania określone w przepisach ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2012 r. poz. 1244).
 2. Użycie płuczki na bazie oleju może być dopuszczone przez kierownika ruchu zakładu w szczególnych warunkach geologicznych lub ze względów bezpieczeństwa.
 3. Frakcje drobnoziarniste zwiercin oddzielone od płuczki na wirówkach oraz wszelkie inne substancje i materiały szkodliwe dla środowiska morskiego, wytwarzane lub używane w otworowym górnictwie morskim, przekazuje się na ląd do zagospodarowania.
+§ 465. Dokumenty związane z prowadzeniem ruchu zakładu górniczego otworowego, sporządzone na podstawie rozporządzenia Ministra Gospodarki z dnia 28 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (Dz. U. Nr 109, poz. 961, z 2004 r. Nr 24, poz. 213 oraz z 2007 r. Nr 106, poz. 726), zachowują ważność do czasu sporządzenia nowych dokumentów, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 466. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Gospodarki: wz. J. Pietrewicz DOKUMENT BEZPIECZEŃSTWA
 1. Dokument bezpieczeństwa stanowi zbiór wewnętrznych regulacji oraz dokumentów, umożliwiających ocenę i dokumentowanie ryzyka zawodowego oraz stosowania niezbędnych środków profilaktycznych zmniejszających to ryzyko w zakładzie górniczym otworowym.
@@ -1490,31 +1539,31 @@ a) sposobu ewakuacji oraz przewidywanego czasu trwania ewakuacji i zapewnienia �
 b) organizacji ratownictwa i pierwszej pomocy medycznej,
 c) zapewnienia łączności, systemów ostrzegawczych i alarmowych.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowe wymagania dotyczące prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi, zwanych dalej „zakładami górniczymi otworowymi”, w zakresie:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe § 5. Przedsiębiorca sporządza, uzupełnia i aktualizuje dokumentację dotyczącą prowadzenia ruchu zakładu górniczego otworowego oraz, w sposób ciągły, przeprowadza analizy i badania niezbędne dla bezpiecznego prowadzenia tego ruchu, w tym dla oceny i dokumentowania ryzyka zawodowego oraz stosowania niezbędnych rozwiązań zmniejszających to ryzyko.
+#### Rozdział 2 Bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe
 
-#### Rozdział 3 Wykonywanie otworów wiertniczych § 38. 1. Przy wykonywaniu otworu wiertniczego prowadzi się dokumentację robót wiertniczych.
+#### Rozdział 3 Wykonywanie otworów wiertniczych
 
-#### Rozdział 4 Maszyny i urządzenia zakładu górniczego otworowego § 104. 1. Zezwolenie na oddanie do ruchu maszyn i urządzeń wydaje kierownik ruchu zakładu górniczego otworowego na podstawie protokołu odbioru technicznego.
+#### Rozdział 4 Maszyny i urządzenia zakładu górniczego otworowego
 
-#### Rozdział 5 Zagrożenie pożarowe i zagrożenie wybuchem § 149. 1. Przy wykonywaniu robót wiertniczych i prowadzeniu eksploatacji otworami wiertniczymi wymagane jest posiadanie:
+#### Rozdział 5 Zagrożenie pożarowe i zagrożenie wybuchem
 
-#### Rozdział 6 Ochrona środowiska § 165. Kierownik ruchu zakładu górniczego otworowego podejmuje działania mające na celu zmniejszenie negatywnego wpływu działalności zakładu górniczego otworowego na środowisko.
+#### Rozdział 6 Ochrona środowiska
 
-#### Rozdział 7 Badania geofizyczne w otworach wiertniczych lub odwiertach § 179. Badania geofizyczne w otworach wiertniczych lub odwiertach wykonuje się zgodnie z instrukcją badań geofizycznych, opracowaną przez wykonawcę tych badań i zaakceptowaną przez kierownika ruchu zakładu górniczego otworowego, w zakresie przewidzianym w projekcie robót geologicznych lub wiercenia.
+#### Rozdział 7 Badania geofizyczne w otworach wiertniczych lub odwiertach
 
-#### Rozdział 8 Gospodarka złożami kopalin w procesie ich wydobywania, geologia i miernictwo górnicze § 183. Wydobywanie ropy naftowej lub gazu ziemnego ze złoża poprzedza się badaniami warunków geologiczno-złożowych oraz parametrów złoża i płynu złożowego.
+#### Rozdział 8 Gospodarka złożami kopalin w procesie ich wydobywania, geologia i miernictwo górnicze
 
-#### Rozdział 9 Bezpieczeństwo wydobywania i podziemnego bezzbiornikowego magazynowania węglowodorów lub podziemnego składowania odpadów w górotworze § 190. Sposób dowiercania otworów wiertniczych zapewnia szczelną izolację poziomów nad i pod złożem oraz odizo§ 191. 1. Głowica eksploatacyjna lub inne zabezpieczenie wylotu odwiertu zapewniają skuteczne odcięcie wypływu płynu, umożliwiają wykonywanie czynności związanych z eksploatacją odwiertów, a ich elementy składowe są szczelne i wytrzymują największe przewidywane ciśnienie głowicowe.
+#### Rozdział 9 Bezpieczeństwo wydobywania i podziemnego bezzbiornikowego magazynowania węglowodorów lub podziemnego składowania odpadów w górotworze
 
-#### Rozdział 10 Bezpieczeństwo i gospodarka złożem w procesie wydobywania siarki § 261. 1. Eksploatację złoża siarki prowadzi się w sposób określony w projekcie eksploatacji zatwierdzonym przez kierownika ruchu zakładu górniczego otworowego.
+#### Rozdział 10 Bezpieczeństwo i gospodarka złożem w procesie wydobywania siarki
 
-#### Rozdział 11 Bezpieczeństwo i gospodarka złożem w procesie wydobywania soli § 294. Projekt techniczny wydobywania soli określa w szczególności:
+#### Rozdział 11 Bezpieczeństwo i gospodarka złożem w procesie wydobywania soli
 
-#### Rozdział 12 Bezpieczeństwo i gospodarka złożem w procesie wydobywania wód leczniczych, wód termalnych i solanek § 329. Przepisy § 294–297 stosuje się odpowiednio do prac przygotowawczych związanych z wydobywaniem wód leczniczych, wód termalnych i solanek, zwanych dalej w niniejszym rozdziale „wodami”.
+#### Rozdział 12 Bezpieczeństwo i gospodarka złożem w procesie wydobywania wód leczniczych, wód termalnych i solanek
 
-#### Rozdział 13 Bezpieczeństwo i gospodarka złożem w procesie wydobywania kopalin w granicach obszarów morskich Rzeczypospolitej Polskiej § 367. 1. Użyte w niniejszym rozdziale określenia oznaczają:
+#### Rozdział 13 Bezpieczeństwo i gospodarka złożem w procesie wydobywania kopalin w granicach obszarów morskich Rzeczypospolitej Polskiej
 
-#### Rozdział 14 Przepisy przejściowe i końcowe § 465. Dokumenty związane z prowadzeniem ruchu zakładu górniczego otworowego, sporządzone na podstawie rozporządzenia Ministra Gospodarki z dnia 28 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy, prowadzenia ruchu oraz specjalistycznego zabezpieczenia przeciwpożarowego w zakładach górniczych wydobywających kopaliny otworami wiertniczymi (Dz. U. Nr 109, poz. 961, z 2004 r. Nr 24, poz. 213 oraz z 2007 r. Nr 106, poz. 726), zachowują ważność do czasu sporządzenia nowych dokumentów, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+#### Rozdział 14 Przepisy przejściowe i końcowe
 

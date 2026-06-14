@@ -8,7 +8,7 @@ pos: 849
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 82/7/A/2012 WYROK z dnia 18 lipca 2012 r.

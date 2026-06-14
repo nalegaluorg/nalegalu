@@ -8,10 +8,10 @@ pos: 493
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 449933 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 13 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/493/text.pdf) |
 
-449933 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 13 marca 2023 r.
-w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności w ramach schematów na rzecz klimatu i środowiska w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Na podstawie art. 70 ust. 1 i ust. 2 pkt 5 i 6 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności w ramach schematów na rzecz klimatu i środowiska w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Na podstawie art. 70 ust. 1 i ust. 2 pkt 5 i 6 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe warunki i szczegółowy tryb przyznawania i wypłaty płatności w ramach schematów na rzecz klimatu i środowiska, o których mowa w art. 16 ust. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/2115”, obejmujące płatności do:
 a) obszarów z roślinami miododajnymi,
 b) rolnictwa węglowego i zarządzania składnikami odżywczymi,
 c) integrowanej produkcji roślin,
 d) biologicznej ochrony upraw,
-e) retencjonowania wody na trwałych użytkach zielonych zwane dalej „płatnościami w ramach ekoschematów”;
+e) retencjonowania wody na trwałych użytkach zielonych – zwane dalej „płatnościami w ramach ekoschematów”;
 2) szczegółowe wymagania, jakie powinny spełniać wnioski o przyznanie płatności w ramach ekoschematów, zwane dalej „wnioskami o przyznanie płatności”;
 3) szczegółowe warunki i szczegółowy tryb przyznawania płatności w ramach ekoschematów następcy prawnemu rolnika lub przejmującemu gospodarstwo;
 4) wysokość kar i sposób ich obliczania, z wyjątkiem kar administracyjnych;
@@ -55,15 +55,15 @@ b) w wariancie z wapnowaniem;
 7) Uproszczone systemy uprawy;
 8) Wymieszanie słomy z glebą.
 2. Za realizację praktyk, o których mowa w ust. 1, przyznaje się następującą liczbę punktów:
-1) 5 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 1;
-2) 5 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 2;
-3) 1 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 3, w wariancie podstawowym;
-4) 3 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 3, w wariancie z wapnowaniem;
-5) 3 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 4;
-6) 2 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 5;
-7) 3 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 6;
-8) 4 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 7;
-9) 2 pkt za hektar w przypadku praktyki, o której mowa w ust. 1 pkt 8.
+1) 5 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 1;
+2) 5 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 2;
+3) 1 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 3, w wariancie podstawowym;
+4) 3 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 3, w wariancie z wapnowaniem;
+5) 3 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 4;
+6) 2 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 5;
+7) 3 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 6;
+8) 4 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 7;
+9) 2 pkt za hektar – w przypadku praktyki, o której mowa w ust. 1 pkt 8.
 3. Minimalna liczba punktów uprawniająca do przyznania płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi stanowi iloczyn 25% powierzchni użytków rolnych w gospodarstwie oraz 5 pkt przyznawanych za hektar.
 § 5. 1. W przypadku praktyki, o której mowa w § 4 ust. 1 pkt 1, punkty są przyznawane:
 1) do powierzchni trwałych użytków zielonych położonych poza obszarem Natura 2000; punkty są przyznawane również, jeżeli w dniu, w którym został złożony wniosek o przyznanie płatności, użytki te były położone poza obszarem Natura 2000, a w trakcie realizacji tej praktyki zostały włączone do obszaru Natura 2000;
@@ -84,7 +84,7 @@ b) oleiste,
 c) pastewne,
 d) bobowate drobnonasienne,
 e) bobowate grubonasienne,
-f) miododajne z wyłączeniem mieszanki złożonej wyłącznie z gatunków zbóż.
+f) miododajne – z wyłączeniem mieszanki złożonej wyłącznie z gatunków zbóż.
 3. W przypadku, o którym mowa w ust. 1 pkt 2, rolnik jest obowiązany do złożenia za pomocą systemu teleinformatycznego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa, albo kierownikowi biura powiatowego Agencji, na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, oświadczenia o dacie zbioru uprawy w plonie głównym w terminie 7 dni od dnia zbioru tej uprawy.
 § 7. 1. W przypadku praktyki, o której mowa w § 4 ust. 1 pkt 3, w wariancie podstawowym punkty są przyznawane do powierzchni gruntów ornych i trwałych użytków zielonych, z wyłączeniem powierzchni gruntów:
 1) do których rolnik ubiega się o przyznanie:
@@ -94,7 +94,7 @@ c) pierwszej płatności rolno-środowiskowo-klimatycznej w ramach interwencji, 
 2) objętych zobowiązaniem rolno-środowiskowo-klimatycznym, o którym mowa w art. 70 ust. 1 rozporządzenia 2021/2115, zwanym dalej „zobowiązaniem rolno-środowiskowo-klimatycznym”, w ramach wariantu, o którym mowa w pkt 1 lit. c.
 2. Punkty, o których mowa w ust. 1, są przyznawane, jeżeli rolnik posiada plan nawozowy opracowany do powierzchni gruntów, o których mowa w ust. 1, w terminie:
 1) 25 dni od dnia, w którym upływa termin składania wniosków o przyznanie płatności, albo
-2) do dnia 30 września roku, w którym został złożony wniosek o przyznanie płatności w przypadku upraw ozimych wysiewanych w roku złożenia tego wniosku.
+2) do dnia 30 września roku, w którym został złożony wniosek o przyznanie płatności – w przypadku upraw ozimych wysiewanych w roku złożenia tego wniosku.
 3. W przypadku praktyki, o której mowa w § 4 ust. 1 pkt 3, w wariancie z wapnowaniem punkty są przyznawane do powierzchni działki rolnej raz na 4 lata, jeżeli rolnik:
 1) spełnia warunki, o których mowa w ust. 1 i 2;
 2) posiada imienny dokument potwierdzający zakup nawozu wapniowego albo inny imienny dokument potwierdzający jego nabycie, w którym wskazano jego ilość;
@@ -120,7 +120,7 @@ c) pierwszej płatności rolno-środowiskowo-klimatycznej w ramach interwencji, 
 2) w którym został złożony wniosek o przyznanie płatności, jeżeli praktyka, o której mowa w § 4 ust. 1 pkt 5, była zrealizowana w roku, w którym został złożony wniosek o przyznanie płatności, przed dniem złożenia tego wniosku lub przed dniem 15 marca roku, w którym został złożony wniosek o przyznanie płatności.
 5. W przypadku gdy rolnik na potrzeby realizacji praktyki, o której mowa w § 4 ust. 1 pkt 5, nabył obornik, jest obowiązany posiadać imienny dokument potwierdzający zakup obornika albo inny imienny dokument potwierdzający jego nabycie.
 § 10. 1. W przypadku praktyki, o której mowa w § 4 ust. 1 pkt 6, punkty są przyznawane do powierzchni gruntów ornych i trwałych użytków zielonych.
-2. Punkty, o których mowa w ust. 1, są przyznawane, jeżeli rolnik stosuje nawóz naturalny płynny, o którym mowa w art. 16 pkt 30b lit. a ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r.
+2. Punkty, o których mowa w ust. 1, są przyznawane, jeżeli rolnik stosuje nawóz naturalny płynny, o którym mowa w art. 16 pkt 30b lit. a ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r.
 poz. 295 i 412), zwany dalej „nawozem naturalnym płynnym”.
 3. Rolnik na potwierdzenie realizacji praktyki, o której mowa w § 4 ust. 1 pkt 6, przesyła z wykorzystaniem aplikacji udostępnionej przez Agencję zdjęcia geotagowane, o których mowa w art. 66 ust. 3 ustawy, na podstawie których będzie możliwe potwierdzenie zrealizowania tej praktyki.
 4. Zdjęcia, o których mowa w ust. 3, rolnik przesyła niezwłocznie, nie później niż w terminie 14 dni od dnia:
@@ -128,7 +128,8 @@ poz. 295 i 412), zwany dalej „nawozem naturalnym płynnym”.
 2) w którym został złożony wniosek o przyznanie płatności, jeżeli praktyka, o której mowa w § 4 ust. 1 pkt 6, była zrealizowana w roku, w którym został złożony wniosek o przyznanie płatności, przed dniem złożenia tego wniosku lub przed dniem 15 marca roku, w którym został złożony wniosek o przyznanie płatności.
 5. W przypadku gdy rolnik na potrzeby realizacji praktyki, o której mowa w § 4 ust. 1 pkt 6, nabył nawóz naturalny płynny, jest obowiązany posiadać imienny dokument potwierdzający zakup nawozu naturalnego płynnego albo inny imienny dokument potwierdzający jego nabycie.
 § 11. 1. W przypadku praktyki, o której mowa w § 4 ust. 1 pkt 7, punkty są przyznawane do powierzchni gruntów ornych, z wyjątkiem gruntów ornych, na których jest prowadzona uprawa zerowa lub na których są uprawiane trawy lub inne zielne rośliny pastewne.
-2. Punkty, o których mowa w ust. 1, są przyznawane, jeżeli rolnik na gruntach ornych, o których mowa w ust. 1, w roku, w którym został złożony wniosek o przyznanie płatności, prowadzi uprawę roślin w formie uprawy konserwującej bezorko§ 12. 1. W przypadku praktyki, o której mowa w § 4 ust. 1 pkt 8, punkty są przyznawane do powierzchni gruntów ornych.
+2. Punkty, o których mowa w ust. 1, są przyznawane, jeżeli rolnik na gruntach ornych, o których mowa w ust. 1, w roku, w którym został złożony wniosek o przyznanie płatności, prowadzi uprawę roślin w formie uprawy konserwującej bezorkowej, w tym uprawy pasowej.
+§ 12. 1. W przypadku praktyki, o której mowa w § 4 ust. 1 pkt 8, punkty są przyznawane do powierzchni gruntów ornych.
 2. Punkty, o których mowa w ust. 1, są przyznawane, jeżeli rolnik rozdrobni całą słomę po zbiorze plonu głównego i wymiesza ją z glebą lub ją przyorze, przy czym za słomę uznaje się pozostałe po oddzieleniu ziarna lub nasion suche źdźbła, łodygi, liście, plewy, łuszczyny i strączyny dojrzałych roślin uprawnych zbożowych, w tym kukurydzy, oleistych i bobowatych.
 § 13. Płatności do integrowanej produkcji roślin:
 1) są przyznawane, jeżeli rolnik prowadzi uprawy roślin zgodnie z metodykami integrowanej produkcji roślin opracowanymi przez Państwową Inspekcję Ochrony Roślin i Nasiennictwa i udostępnianymi na jej stronie internetowej;
@@ -144,7 +145,7 @@ c) zadrzewionej w systemie rolno-leśnym, jeżeli w ramach tego systemu są upra
 § 15. 1. Płatności do retencjonowania wody na trwałych użytkach zielonych są przyznawane do powierzchni trwałych użytków zielonych:
 1) zalanej lub podtopionej, przy czym zalanie lub podtopienie występuje, gdy stan wysycenia profilu glebowego wodą utrzymuje się na poziomie przynajmniej 80% co najmniej przez 12 następujących po sobie dni w okresie od dnia 1 maja do dnia 30 września roku, w którym został złożony wniosek o przyznanie płatności;
 2) na której:
-a) jest realizowane: zobowiązanie, o którym mowa w art. 28 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. ) lub art. 7 ust. 2 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm. ), zwane dalej „zobowiązaniem rolno-środowiskowo-klimatycznym PROW”, w ramach pakietów wymienionych w § 4 ust. 1 pkt 4 albo 5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 415, z późn. zm. ), zwanego dalej „rozporządzeniem RŚK PROW”, z wyłączeniem wariantów, o których mowa w § 4 ust. 1 pkt 4 lit. c albo pkt 5 lit. c rozporządzenia RŚK PROW, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności odpowiednio w ramach pakietów wymienionych w § 4 ust. 1 pkt 4 albo 5 rozporządzenia RŚK PROW, z wyłączeniem wariantów, o których mowa w § 4 ust. 1 pkt 4 lit. c albo pkt 5 lit. c rozporządzenia RŚK PROW, lub zobowiązanie rolno-środowiskowo-klimatyczne w ramach interwencji, o których mowa w art. 42 ust. 1 pkt 1 albo 2 ustawy, z wyłączeniem wariantu Murawy, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności w ramach tych interwencji, z wyłączeniem wariantu Murawy, lub zobowiązanie rolno-środowiskowo-klimatyczne w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 3 ustawy, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności w ramach tej interwencji, lub zobowiązanie, o którym mowa w art. 29 ust. 2 rozporządzenia nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005, zwane dalej „zobowiązaniem ekologicznym PROW”, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności w ramach tego zobowiązania, lub inne zobowiązanie w dziedzinie zarządzania, o którym mowa w art. 70 ust. 1 rozporządzenia 2021/2115, na trwałych użytkach zielonych, na których jest prowadzona produkcja ekologiczna w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412), zwane dalej „zobowiązaniem ekologicznym”, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności w ramach tego zobowiązania ekologicznego, lub
+a) jest realizowane: – zobowiązanie, o którym mowa w art. 28 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. ) lub art. 7 ust. 2 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm. ), zwane dalej „zobowiązaniem rolno-środowiskowo-klimatycznym PROW”, w ramach pakietów wymienionych w § 4 ust. 1 pkt 4 albo 5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 415, z późn. zm. ), zwanego dalej „rozporządzeniem RŚK PROW”, z wyłączeniem wariantów, o których mowa w § 4 ust. 1 pkt 4 lit. c albo pkt 5 lit. c rozporządzenia RŚK PROW, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności odpowiednio w ramach pakietów wymienionych w § 4 ust. 1 pkt 4 albo 5 rozporządzenia RŚK PROW, z wyłączeniem wariantów, o których mowa w § 4 ust. 1 pkt 4 lit. c albo pkt 5 lit. c rozporządzenia RŚK PROW, lub – zobowiązanie rolno-środowiskowo-klimatyczne w ramach interwencji, o których mowa w art. 42 ust. 1 pkt 1 albo 2 ustawy, z wyłączeniem wariantu Murawy, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności w ramach tych interwencji, z wyłączeniem wariantu Murawy, lub – zobowiązanie rolno-środowiskowo-klimatyczne w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 3 ustawy, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności w ramach tej interwencji, lub – zobowiązanie, o którym mowa w art. 29 ust. 2 rozporządzenia nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005, zwane dalej „zobowiązaniem ekologicznym PROW”, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności w ramach tego zobowiązania, lub – inne zobowiązanie w dziedzinie zarządzania, o którym mowa w art. 70 ust. 1 rozporządzenia 2021/2115, na trwałych użytkach zielonych, na których jest prowadzona produkcja ekologiczna w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412), zwane dalej „zobowiązaniem ekologicznym”, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem spełniającym warunki przyznania płatności w ramach tego zobowiązania ekologicznego, lub
 b) jest realizowana praktyka, o której mowa w § 4 ust. 1 pkt 1, i powierzchnia tych trwałych użytków zielonych jest objęta obszarem zatwierdzonym do płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach tej praktyki.
 2. Warunek, o którym mowa w ust. 1 pkt 2 lit. a:
 1) tiret drugie, uznaje się za spełniony, jeżeli powierzchnia trwałych użytków zielonych zalana lub podtopiona jest położona na działkach rolnych, do których rolnik ubiega się o przyznanie pierwszej płatności w ramach interwencji, o których mowa w art. 42 ust. 1 pkt 1 albo 2 ustawy, z wyłączeniem wariantu Murawy, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych;
@@ -176,17 +177,19 @@ a) obszarów z roślinami miododajnymi lub
 b) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyk, o których mowa w § 4 ust. 1 pkt 2, 5, 6 lub 7;
 10) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 2, i płatności do:
 a) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 5, lub
-b) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 6 jeżeli nawozy naturalne płynne lub obornik mają być zastosowane bezpośrednio przed wysiewem międzyplonu;
+b) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 6 – jeżeli nawozy naturalne płynne lub obornik mają być zastosowane bezpośrednio przed wysiewem międzyplonu;
 11) integrowanej produkcji roślin i płatności do:
 a) obszarów z roślinami miododajnymi lub
 b) biologicznej ochrony upraw, lub
 c) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 3;
 12) biologicznej ochrony upraw i płatności do:
-a) obszarów z roślinami miododajnymi lub § 17. 1. Do tej samej powierzchni, w tym samym roku, mogą być przyznane płatności w ramach ekoschematów i płatność za realizację zobowiązania ekologicznego PROW lub za realizację zobowiązania ekologicznego, z wyłączeniem powierzchni, do których rolnik ubiega się o przyznanie płatności do:
+a) obszarów z roślinami miododajnymi lub
+b) integrowanej produkcji roślin.
+§ 17. 1. Do tej samej powierzchni, w tym samym roku, mogą być przyznane płatności w ramach ekoschematów i płatność za realizację zobowiązania ekologicznego PROW lub za realizację zobowiązania ekologicznego, z wyłączeniem powierzchni, do których rolnik ubiega się o przyznanie płatności do:
 1) obszarów z roślinami miododajnymi lub
 2) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach:
 a) praktyk, o których mowa w § 4 ust. 1 pkt 1 lub 7,
-b) praktyki, o której mowa w § 4 ust. 1 pkt 2, w przypadku gdy na tej powierzchni jest realizowane zobowiązanie ekologiczne PROW lub zobowiązanie ekologiczne: na warunkach określonych w § 9 ust. 2a, 14 lub 14a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Rolnictwo ekologiczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 1784, z późn. zm. ) lub w ramach którego rośliny są wykorzystane w danym roku jako nawóz zielony w ramach pakietów określonych w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności ekologicznych, lub
+b) praktyki, o której mowa w § 4 ust. 1 pkt 2, w przypadku gdy na tej powierzchni jest realizowane zobowiązanie ekologiczne PROW lub zobowiązanie ekologiczne: – na warunkach określonych w § 9 ust. 2a, 14 lub 14a rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Rolnictwo ekologiczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 1784, z późn. zm. ) lub – w ramach którego rośliny są wykorzystane w danym roku jako nawóz zielony w ramach pakietów określonych w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności ekologicznych, lub
 3) integrowanej produkcji roślin, lub
 4) biologicznej ochrony upraw.
 2. W przypadku gdy rolnik w tym samym roku ubiega się o przyznanie płatności w ramach ekoschematów do tej samej powierzchni, do której ubiega się o przyznanie pierwszej płatności, o której mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności ekologicznych, płatności w ramach ekoschematów przyznaje się do tej samej powierzchni, z wyłączeniem powierzchni, o których mowa w ust. 1 pkt 1–4.
@@ -199,32 +202,32 @@ b) rolno-środowiskowo-klimatyczne lub
 1) obszarów z roślinami miododajnymi, jeżeli na tej powierzchni rolnik realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 1 rozporządzenia RŚK PROW;
 2) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 2, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 6 rozporządzenia RŚK PROW, albo
-b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy, lub interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy, w ramach wariantu Ogródki bioróżnorodności, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
+b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy, lub interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy, w ramach wariantu Ogródki bioróżnorodności, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
 3) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 3, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach wariantu, o którym mowa w § 4 ust. 1 pkt 2 lit. a rozporządzenia RŚK PROW, lub pakietu, o którym mowa w § 4 ust. 1 pkt 6 tego rozporządzenia, albo
-b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy, lub interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy, w ramach wariantu Ogródki bioróżnorodności, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
+b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy, lub interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy, w ramach wariantu Ogródki bioróżnorodności, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
 4) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 4, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach wariantu, o którym mowa w § 4 ust. 1 pkt 2 lit. a rozporządzenia RŚK PROW, lub pakietu, o którym mowa w § 4 ust. 1 pkt 6 tego rozporządzenia, albo
-b) w ramach interwencji, o których mowa w art. 42 ust. 1 pkt 5 lub 7 ustawy: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
+b) w ramach interwencji, o których mowa w art. 42 ust. 1 pkt 5 lub 7 ustawy: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
 5) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 5, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach wariantu, o którym mowa w § 4 ust. 1 pkt 2 lit. a rozporządzenia RŚK PROW, lub pakietu, o którym mowa w § 4 ust. 1 pkt 6 tego rozporządzenia, albo
-b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy, lub interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy, w ramach wariantu Ogródki bioróżnorodności, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
+b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy, lub interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy, w ramach wariantu Ogródki bioróżnorodności, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
 6) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 6, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach pakietów, o których mowa w § 4 ust. 1 pkt 1 lub 4–6 rozporządzenia RŚK PROW, lub wariantu, o którym mowa w § 4 ust. 1 pkt 2 lit. a tego rozporządzenia, albo
-b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 1–3 i 5 ustawy, lub interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy, w ramach wariantu Ogródki bioróżnorodności, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
+b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 1–3 i 5 ustawy, lub interwencji, o której mowa w art. 42 ust. 1 pkt 7 ustawy, w ramach wariantu Ogródki bioróżnorodności, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 1 ustawy dotyczących płatności rolno-środowiskowo-klimatycznych: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
 7) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 7, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach pakietów, o których mowa w § 4 ust. 1 pkt 1 lub 6 rozporządzenia RŚK PROW, albo
-b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
+b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
 8) rolnictwa węglowego i zarządzania składnikami odżywczymi w ramach praktyki, o której mowa w § 4 ust. 1 pkt 8, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 6 rozporządzenia RŚK PROW, albo
-b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
+b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
 9) integrowanej produkcji roślin, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach wariantu, o którym mowa w § 4 ust. 1 pkt 2 lit. a rozporządzenia RŚK PROW, lub pakietu, o którym mowa w § 4 ust. 1 pkt 6 tego rozporządzenia, albo
-b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
+b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni;
 10) biologicznej ochrony upraw, jeżeli rolnik:
 a) na tej powierzchni realizuje zobowiązanie rolno-środowiskowo-klimatyczne PROW w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 1 rozporządzenia RŚK PROW, lub wariantu, o którym mowa w § 4 ust. 1 pkt 2 lit. a tego rozporządzenia, lub pakietu, o którym mowa w § 4 ust. 1 pkt 6 tego rozporządzenia, albo
-b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni.
-§ 19. Wniosek o przyznanie płatności, poza elementami podania określonymi w przepisach ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185), z wyłączeniem adresu, a także poza informacjami określonymi przepisami, o których mowa w art. 1 pkt 1 ustawy, i w art. 58 ustawy zawiera również informacje, oświadczenia i zobowiązania, jakie są zawarte we wniosku o przyznanie płatności bezpośrednich, o których mowa w art. 20 pkt 1 lit. a–d ustawy.
+b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: – ubiega się o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do tej powierzchni albo – realizuje zobowiązanie rolno-środowiskowo-klimatyczne na tej powierzchni.
+§ 19. Wniosek o przyznanie płatności, poza elementami podania określonymi w przepisach ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185), z wyłączeniem adresu, a także poza informacjami określonymi przepisami, o których mowa w art. 1 pkt 1 ustawy, i w art. 58 ustawy zawiera również informacje, oświadczenia i zobowiązania, jakie są zawarte we wniosku o przyznanie płatności bezpośrednich, o których mowa w art. 20 pkt 1 lit. a–d ustawy.
 § 20. Rolnik informuje kierownika biura powiatowego Agencji o zmianach w zakresie informacji zawartych we wniosku o przyznanie płatności, jakie zaszły od dania złożenia tego wniosku, nie później niż do dnia wydania decyzji w sprawie o przyznanie płatności w ramach ekoschematów.
 § 21. Oczywiste błędy, które mogą być bezpośrednio zidentyfikowane w wyniku sprawdzenia informacji zawartych we wniosku o przyznanie płatności, mogą zostać poprawione przez rolnika po złożeniu tego wniosku, jednak nie później niż do dnia wydania decyzji w sprawie o przyznanie płatności w ramach ekoschematów.
 § 22. 1. W przypadku śmierci rolnika, która nastąpiła w okresie od dnia, w którym został złożony wniosek o przyznanie płatności, do dnia doręczenia decyzji w sprawie o przyznanie płatności w ramach ekoschematów, płatności te przysługują jego spadkobiercy, jeżeli:
@@ -237,12 +240,12 @@ b) w ramach interwencji, o której mowa w art. 42 ust. 1 pkt 5 ustawy: ubiega si
 2) wypis albo odpis aktu poświadczenia dziedziczenia sporządzony przez notariusza, albo
 3) w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku:
 a) zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo
-b) kopię wniosku o stwierdzenie nabycia spadku: potwierdzoną za zgodność z oryginałem przez sąd albo poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U.
+b) kopię wniosku o stwierdzenie nabycia spadku: – potwierdzoną za zgodność z oryginałem przez sąd albo – poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U.
 z 2022 r. poz. 896, 1933 i 2042) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo kopią tego potwierdzenia.
 5. W przypadku, o którym mowa w ust. 4 pkt 3, spadkobierca składa odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku w terminie 30 dni od dnia uprawomocnienia się tego postanowienia.
 6. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że do nabycia spadku jest uprawnionych więcej niż jeden spadkobierca, spadkobierca wstępujący do postępowania w sprawie o przyznanie płatności w ramach ekoschematów:
 1) dołącza do wniosku, o którym mowa w ust. 2, albo
-2) składa wraz odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce rolnika i przyznanie mu płatności w ramach ekoschematów.
+2) składa wraz odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku – oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce rolnika i przyznanie mu płatności w ramach ekoschematów.
 7. Zgoda, o której mowa w ust. 6, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 2, został złożony przez spadkobiercę będącego przedstawicielem ustawowym tego małoletniego.
 8. W przypadku, o którym mowa w ust. 4 pkt 3, decyzję w sprawie o przyznanie płatności w ramach ekoschematów spadkobiercy wydaje się po złożeniu przez niego odpisu prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku.
 9. Termin, o którym mowa w ust. 2, nie podlega przywróceniu.
@@ -263,19 +266,19 @@ z 2022 r. poz. 896, 1933 i 2042) lub w placówce podmiotu zajmującego się dor�
 2) wypisem albo odpisem aktu poświadczenia dziedziczenia sporządzonym przez notariusza, albo
 3) w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku:
 a) zaświadczeniem sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo
-b) kopią wniosku o stwierdzenie nabycia spadku: potwierdzoną za zgodność z oryginałem przez sąd albo poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo kopią tego potwierdzenia jednak nie później niż przed upływem 7 miesięcy od dnia doręczenia rolnikowi decyzji w sprawie o przyznanie płatności w ramach ekoschematów.
+b) kopią wniosku o stwierdzenie nabycia spadku: – potwierdzoną za zgodność z oryginałem przez sąd albo – poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo kopią tego potwierdzenia – jednak nie później niż przed upływem 7 miesięcy od dnia doręczenia rolnikowi decyzji w sprawie o przyznanie płatności w ramach ekoschematów.
 6. W przypadku, o którym mowa w ust. 5 pkt 3, spadkobierca składa odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku w terminie 30 dni od dnia uprawomocnienia się tego postanowienia.
 7. Jeżeli płatności w ramach ekoschematów nie zostały przekazane na rachunek bankowy rolnika, o którym mowa w ust. 2, lub rachunek tego rolnika prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej, jego następca prawny, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 2, składa wniosek o wypłatę płatności w ramach ekoschematów do kierownika biura powiatowego Agencji, do którego został złożony wniosek o przyznanie płatności, w terminie 7 miesięcy od dnia doręczenia temu rolnikowi tej decyzji.
 8. Do wniosku o wypłatę płatności w ramach ekoschematów następca prawny rolnika dołącza dokument potwierdzający zaistnienie następstwa prawnego albo kopię tego dokumentu poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
 9. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że do nabycia spadku jest uprawnionych więcej niż jeden spadkobierca rolnika, spadkobierca występujący z wnioskiem o wypłatę płatności w ramach ekoschematów:
 1) dołącza do tego wniosku albo
-2) składa wraz z odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wypłatę temu spadkobiercy płatności w ramach ekoschematów.
+2) składa wraz z odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku – oświadczenia pozostałych spadkobierców o wyrażeniu zgody na wypłatę temu spadkobiercy płatności w ramach ekoschematów.
 10. Zgoda, o której mowa w ust. 9, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek o wypłatę płatności w ramach ekoschematów został złożony przez spadkobiercę będącego przedstawicielem ustawowym tego małoletniego.
 11. W przypadku złożenia wniosku o wypłatę płatności w ramach ekoschematów, kierownik biura powiatowego Agencji wydaje decyzję w sprawie wypłaty płatności w ramach ekoschematów.
 12. W przypadku niezłożenia wniosku o wypłatę płatności w ramach ekoschematów albo w przypadku wydania decyzji o odmowie wypłaty płatności w ramach ekoschematów, decyzje, o których mowa w ust. 1 i 2, wygasają z mocy prawa.
 § 25. 1. Wniosek o wypłatę płatności w ramach ekoschematów zawiera:
 1) imię i nazwisko oraz numer identyfikacyjny spadkodawcy lub rozwiązanego albo przekształconego rolnika;
-2) imię i nazwisko spadkobiercy, zapisobiercy windykacyjnego albo następcy prawnego rolnika, numer identyfikacyjny, a w przypadku gdy numer taki nie został nadany numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (numer REGON), jeżeli został nadany, a w przypadku osoby fizycznej również numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL), albo kod kraju, numer i nazwę dokumentu stwierdzającego tożsamość oraz nazwę organu, który wydał dokument, jeżeli osoba fizyczna nie ma numeru PESEL, oraz miejsce zamieszkania i adres, adres do korespondencji, numer rachunku bankowego lub numer rachunku w spółdzielczej kasie oszczędnościowo-kredytowej;
+2) imię i nazwisko spadkobiercy, zapisobiercy windykacyjnego albo następcy prawnego rolnika, numer identyfikacyjny, a w przypadku gdy numer taki nie został nadany – numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (numer REGON), jeżeli został nadany, a w przypadku osoby fizycznej – również numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL), albo kod kraju, numer i nazwę dokumentu stwierdzającego tożsamość oraz nazwę organu, który wydał dokument, jeżeli osoba fizyczna nie ma numeru PESEL, oraz miejsce zamieszkania i adres, adres do korespondencji, numer rachunku bankowego lub numer rachunku w spółdzielczej kasie oszczędnościowo-kredytowej;
 3) informację o załącznikach dołączanych do tego wniosku;
 4) oświadczenia wnioskodawcy związane z wypłatą płatności w ramach ekoschematów.
 2. Wniosek o wypłatę płatności w ramach ekoschematów składa się na formularzu udostępnionym na stronie internetowej Agencji.
@@ -296,14 +299,14 @@ b) kopią wniosku o stwierdzenie nabycia spadku: potwierdzoną za zgodność z o
 § 29. 1. Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika wymogów dla poszczególnych płatności, o których mowa w § 1 pkt 1 lit. a–d, określonych w załączniku nr 2 do rozporządzenia, wysokość kary w części dotyczącej danej płatności w ramach ekoschematów lub płatności w ramach danej praktyki lub danego wariantu stanowi iloczyn:
 1) iloczynu:
 a) współczynnika dotkliwości danego uchybienia i
-b) współczynnika trwałości danego uchybienia które są określone w załączniku nr 6 do rozporządzenia, oraz
+b) współczynnika trwałości danego uchybienia – które są określone w załączniku nr 6 do rozporządzenia, oraz
 2) kwoty stanowiącej iloczyn:
 a) wysokości danej płatności w ramach ekoschematów lub płatności w ramach danej praktyki lub danego wariantu, jaka przysługiwałaby, gdyby rolnik przestrzegał tych wymogów, oraz
 b) procentowego stosunku powierzchni obszaru, na którym stwierdzono to uchybienie, do powierzchni obszaru, na którym powinny być przestrzegane te wymogi w ramach danej płatności w ramach ekoschematów lub płatności w ramach danej praktyki lub danego wariantu.
 2. Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika odpowiednich minimalnych wymogów dotyczących stosowania nawozów i środków ochrony roślin, o których mowa w art. 31 ust. 5 lit. b rozporządzenia 2021/2115, wskazanych w załączniku nr 1 do rozporządzenia, wysokość kary w części dotyczącej danej płatności w ramach ekoschematów lub płatności w ramach danej praktyki lub danego wariantu, w ramach których powinien być przestrzegany dany wymóg zgodnie z załącznikiem nr 1 do rozporządzenia, stanowi iloczyn:
 1) iloczynu:
 a) współczynnika dotkliwości danego uchybienia i
-b) współczynnika trwałości danego uchybienia które są określone w załączniku nr 1 do rozporządzenia, oraz
+b) współczynnika trwałości danego uchybienia – które są określone w załączniku nr 1 do rozporządzenia, oraz
 2) kwoty stanowiącej iloczyn:
 a) wysokości danej płatności w ramach ekoschematów lub płatności w ramach danej praktyki lub danego wariantu, jaka przysługiwałaby, gdyby rolnik przestrzegał tych wymogów, oraz
 b) procentowego stosunku powierzchni obszaru, na którym stwierdzono to uchybienie, do powierzchni obszaru, na którym powinny być przestrzegane te wymogi w ramach danej płatności w ramach ekoschematów lub płatności w ramach danej praktyki lub danego wariantu.
@@ -324,40 +327,40 @@ b) współczynnika korygującego, o którym mowa w art. 17 ust. 1 rozporządzeni
 1) złoży kierownikowi biura powiatowego Agencji oświadczenie o wykonaniu praktyki, o której mowa odpowiednio w § 4 ust. 1 pkt 5 lub 6, w terminie określonym odpowiednio w § 9 ust. 4 lub § 10 ust. 4, oraz
 2) prowadzi rejestr zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, zawierający co najmniej: nr działki ewidencyjnej, wielkość powierzchni, datę wykonania zabiegu i rodzaj wykonanego zabiegu.
 § 34. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk M W …… W M M W M W W W W M W W M W W W W W W M W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W Załącznik nr 2 WYMOGI DLA POSZCZEGÓLNYCH PŁATNOŚCI, O KTÓRYCH MOWA W § 1 PKT 1 LIT. A-D ROZPORZĄDZENIA I. Wymogi dla płatności do obszarów z roślinami miododajnymi nie prowadzi się produkcji rolnej, z wyjątkiem prowadzenia pasiek, w tym:
+Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk W …… W W W W W W W W W W W W M M W W W W W M W W W M W M W M W W M W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W Załącznik nr 2 WYMOGI DLA POSZCZEGÓLNYCH PŁATNOŚCI, O KTÓRYCH MOWA W § WYMOGI DLA POSZCZEGÓLNYCH PŁATNOŚCI, O KTÓRYCH 1 PKT MOWA 1 LIT. W § 1 A-D PKT 1 ROZPORZĄDZENIA LIT. A–D ROZPORZĄDZENIA I. Wymogi dla płatności do obszarów z roślinami miododajnymi – nie prowadzi się produkcji rolnej, z wyjątkiem prowadzenia pasiek, w tym:
 1) nie prowadzi się wypasu i koszenia,
-2) nie stosuje się nawozów i środków ochrony roślin w terminie do dnia 31 sierpnia.
+2) nie stosuje się nawozów i środków ochrony roślin – w terminie do dnia 31 sierpnia.
 II. Wymogi dla płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi w zakresie:
-1) praktyki Ekstensywne użytkowanie trwałych użytków zielonych z obsadą zwierząt:
-a) liczba zwierząt w przeliczeniu na DJP w gospodarstwie wynosi: co najmniej 0,3 DJP na hektar trwałych użytków zielonych i maksymalnie 2 DJP na hektar trwałych użytków zielonych będących w posiadaniu rolnika,
+1) praktyki – Ekstensywne użytkowanie trwałych użytków zielonych z obsadą zwierząt:
+a) liczba zwierząt w przeliczeniu na DJP w gospodarstwie wynosi: – co najmniej 0,3 DJP na hektar trwałych użytków zielonych i – maksymalnie 2 DJP na hektar trwałych użytków zielonych – będących w posiadaniu rolnika,
 b) nie zaoruje się trwałych użytków zielonych w okresie realizacji praktyki;
-2) praktyki Międzyplony ozime lub wsiewki śródplonowe:
+2) praktyki – Międzyplony ozime lub wsiewki śródplonowe:
 a) dokonanie siewu międzyplonów ozimych w terminie od dnia 1 lipca do dnia 1 października i utrzymanie ich co najmniej do dnia 15 lutego roku następującego po roku, w którym został złożony wniosek o przyznanie płatności, przy czym po dniu 15 listopada dopuszcza się ich mulczowanie albo
 b) utrzymanie wsiewki co najmniej do wysiewu kolejnej uprawy w plonie głównym lub przez co najmniej 8 tygodni od dnia zbioru uprawy w plonie głównym w roku, w którym został złożony wniosek o przyznanie płatności,
-c) nie stosuje się środków ochrony roślin: na międzyplonach ozimych od ich wysiewu co najmniej do dnia 15 lutego roku następującego po roku, w którym został złożony wniosek o przyznanie płatności, w przypadku wsiewek śródplonowych przez okres ich utrzymania określony w lit. b;
-3) praktyki Opracowanie i przestrzeganie planu nawożenia:
-a) wykonanie chemicznej analizy gleby w zakresie zasobności w składniki pokarmowe P, K i Mg oraz pH przy czym wyniki badania chemicznej analizy gleby zachowują ważność przez okres 4 lat od dnia ich wykonania, WYMOGI DLA POSZCZEGÓLNYCH PŁATNOŚCI, O KTÓRYCH MOWA W § 1 PKT 1 LIT. A–D ROZPORZĄDZENIA
-b) opracowanie planu nawozowego określającego dawki składników pokarmowych N, P, K i Mg oraz potrzeby wapnowania na piśmie lub przy użyciu narzędzia INTERNAW lub innego narzędzia służącego opracowaniu planu nawozowego,
-c) przestrzeganie planu nawozowego określającego dawki składników pokarmowych (N, P, K i Mg oraz potrzeby wapnowania) przy czym dopuszczalne jest stosowanie dawek nawozów niższych niż określone w planie nawozowym,
-d) prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, zawierającego co najmniej: nr działki ewidencyjnej, wielkość powierzchni, datę wykonania zabiegu, rodzaj uprawy, rodzaj wykonanego zabiegu, nazwę nawozu i zastosowaną ilości nawozu w odniesieniu do wszystkich gruntów, o których mowa w § 7 ust. 1, będących w posiadaniu rolnika;
-4) wariantu z wapnowaniem w ramach praktyki Opracowanie i przestrzeganie planu nawożenia prowadzenie rejestru zabiegów agrotechnicznych, o którym mowa w pkt 3 lit. d, zawierającego również informacje o zastosowaniu nawozu wapniowego;
-5) praktyki Zróżnicowana struktura upraw w strukturze zasiewów na gruntach będących w posiadaniu rolnika, udział:
+c) nie stosuje się środków ochrony roślin: – na międzyplonach ozimych – od ich wysiewu co najmniej do dnia 15 lutego roku następującego po roku, w którym został złożony wniosek o przyznanie płatności, – w przypadku wsiewek śródplonowych – przez okres ich utrzymania określony w lit. b;
+3) praktyki – Opracowanie i przestrzeganie planu nawożenia:
+a) wykonanie chemicznej analizy gleby w zakresie zasobności w składniki pokarmowe P, K i Mg oraz pH – przy czym wyniki badania chemicznej analizy gleby zachowują ważność przez okres 4 lat od dnia ich wykonania,
+b) opracowanie planu nawozowego określającego dawki składników pokarmowych N, P, K i Mg oraz potrzeby wapnowania – na piśmie lub przy użyciu narzędzia INTERNAW lub innego narzędzia służącego opracowaniu planu nawozowego,
+c) przestrzeganie planu nawozowego określającego dawki składników pokarmowych (N, P, K i Mg oraz potrzeby wapnowania) – przy czym dopuszczalne jest stosowanie dawek nawozów niższych niż określone w planie nawozowym,
+d) prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, zawierającego co najmniej: nr działki ewidencyjnej, wielkość powierzchni, datę wykonania zabiegu, rodzaj uprawy, rodzaj wykonanego zabiegu, nazwę nawozu i zastosowaną ilości nawozu – w odniesieniu do wszystkich gruntów, o których mowa w § 7 ust. 1, będących w posiadaniu rolnika;
+4) wariantu z wapnowaniem w ramach praktyki – Opracowanie i przestrzeganie planu nawożenia – prowadzenie rejestru zabiegów agrotechnicznych, o którym mowa w pkt 3 lit. d, zawierającego również informacje o zastosowaniu nawozu wapniowego;
+5) praktyki – Zróżnicowana struktura upraw – w strukturze zasiewów na gruntach będących w posiadaniu rolnika, udział:
 a) uprawy, która zajmuje największą powierzchnię gruntów ornych w gospodarstwie, nie przekracza 65%,
-b) najmniejszej uprawy nie może być mniejszy niż 10% powierzchni wszystkich gruntów ornych w gospodarstwie w przypadku uprawiania trzech upraw,
-c) pozostałych upraw łącznie, innych niż dwie największe uprawy, nie może być mniejszy niż 10% powierzchni wszystkich gruntów ornych w gospodarstwie w przypadku uprawiania więcej niż trzech upraw, 18
+b) najmniejszej uprawy nie może być mniejszy niż 10% powierzchni wszystkich gruntów ornych w gospodarstwie – w przypadku uprawiania trzech upraw,
+c) pozostałych upraw łącznie, innych niż dwie największe uprawy, nie może być mniejszy niż 10% powierzchni wszystkich gruntów ornych w gospodarstwie – w przypadku uprawiania więcej niż trzech upraw,
 d) upraw mających pozytywny wpływ na bilans glebowej materii organicznej wymienionych w wykazie nr 1 załącznika nr 5 do rozporządzenia stanowi co najmniej 20% powierzchni gruntów ornych w gospodarstwie, przy czym w przypadku mieszanek bobowatych ze zbożami, zboża nie są dominujące w tej mieszance,
-e) zbóż wymienionych w wykazie nr 2 załącznika nr 5 do rozporządzenia nie przekracza 65% powierzchni gruntów ornych w gospodarstwie, 19
+e) zbóż wymienionych w wykazie nr 2 załącznika nr 5 do rozporządzenia nie przekracza 65% powierzchni gruntów ornych w gospodarstwie, Dziennik Ustaw – – 19 34 – – Poz. 493
 f) upraw mających ujemny wpływ na bilans glebowej materii organicznej wymienionych w wykazie nr 3 załącznika nr 5 do rozporządzenia nie przekracza 30% powierzchni gruntów ornych w gospodarstwie;
-6) praktyki Wymieszanie obornika na gruntach ornych w terminie 12 godzin od jego aplikacji wymieszanie obornika z glebą maksymalnie w terminie 12 godzin od jego aplikacji na gruncie ornym;
-7) praktyki Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo na gruntach ornych i trwałych użytkach zielonych;
-8) praktyki Uproszczone systemy uprawy:
-a) prowadzenie uprawy konserwującej bezorkowej, w tym uprawy pasowej (strip-till), poprzez: wykonywanie zabiegów uprawowych z odstąpieniem od uprawy płużnej w zespole uprawek pożniwnych i przedsiewnych w roku, w którym został złożony wniosek o przyznanie płatności, pozostawianie na polu po zbiorze uprawy w plonie głównym całości resztek pożniwnych w formie mulczu,
+6) praktyki – Wymieszanie obornika na gruntach ornych w terminie 12 godzin od jego aplikacji – wymieszanie obornika z glebą maksymalnie w terminie 12 godzin od jego aplikacji na gruncie ornym;
+7) praktyki – Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo – stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo na gruntach ornych i trwałych użytkach zielonych;
+8) praktyki – Uproszczone systemy uprawy:
+a) prowadzenie uprawy konserwującej bezorkowej, w tym uprawy pasowej (strip-till), poprzez: – wykonywanie zabiegów uprawowych z odstąpieniem od uprawy płużnej w zespole uprawek pożniwnych i przedsiewnych w roku, w którym został złożony wniosek o przyznanie płatności, – pozostawianie na polu po zbiorze uprawy w plonie głównym całości resztek pożniwnych w formie mulczu,
 b) prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, zawierającego co najmniej: nr działki ewidencyjnej, wielkość powierzchni, datę wykonania zabiegu, rodzaj uprawy i rodzaj wykonanego zabiegu;
-9) praktyki Wymieszanie słomy z glebą prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, zawierającego co najmniej: nr działki ewidencyjnej, wielkość powierzchni, datę wykonania zabiegu, rodzaj uprawy i rodzaj wykonanego zabiegu.
-III. Wymóg dla płatności do integrowanej produkcji roślin zachowanie w danym roku kalendarzowym wszystkich posiadanych w gospodarstwie trwałych użytków zielonych.
-IV. Wymóg dla płatności do biologicznej ochrony upraw prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, zawierającego co najmniej: nr działki ewidencyjnej, wielkość powierzchni, datę wykonania zabiegu, rodzaj uprawy, rodzaj wykonanego zabiegu, nazwę środka ochrony roślin i zastosowaną ilość środka ochrony roślin.
+9) praktyki – Wymieszanie słomy z glebą – prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, zawierającego co najmniej: nr działki ewidencyjnej, wielkość powierzchni, datę wykonania zabiegu, rodzaj uprawy i rodzaj wykonanego zabiegu.
+III. Wymóg dla płatności do integrowanej produkcji roślin – zachowanie w danym roku kalendarzowym wszystkich posiadanych w gospodarstwie trwałych użytków zielonych.
+IV. Wymóg dla płatności do biologicznej ochrony upraw – prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, zawierającego co najmniej: nr działki ewidencyjnej, wielkość powierzchni, datę wykonania zabiegu, rodzaj uprawy, rodzaj wykonanego zabiegu, nazwę środka ochrony roślin i zastosowaną ilość środka ochrony roślin.
 
-## Załącznik nr 3 — WYKAZY ROŚLIN MIODODAJNYCH, DO UPRAWY KTÓRYCH MOŻE ZOSTAĆ PRZYZNANA PŁATNOŚĆ DO OBSZARÓW Z ROŚLINAMI MIODODAJNYMI Wykaz nr 1
+## Załącznik nr 3 — WYKAZY ROŚLIN MIODODAJNYCH, DO UPRAWY KTÓRYCH MOŻE ZOSTAĆ WYKAZY ROŚLIN MIODODAJNYCH, DO UPRAWY KTÓRYCH MOŻE ZOSTAĆ PRZYZNANA PŁATNOŚĆ PRZYZNANA PŁATNOŚĆ DO OBSZARÓW DO OBSZARÓW Z ROŚLINAMI Z MIODODAJNYMI ROŚLINAMI MIODODAJNYMI Wykaz nr 1
 
 1) bodziszki (Geranium spp.);
 2) chabry (Centaurea spp.);
@@ -366,7 +369,6 @@ IV. Wymóg dla płatności do biologicznej ochrony upraw prowadzenie rejestru za
 5) czyściec prosty (Stachys recta L.);
 6) dzielżan jesienny (Helenium autumnale L.);
 7) kłosowce (Agastache spp.);
-20
 8) kocimiętki (Nepeta spp.);
 9) kolendra siewna ( Coriandrum sativum L.);
 10) kosmos pierzastolistny (Cosmos bipinnatus Cav.);
@@ -388,7 +390,7 @@ IV. Wymóg dla płatności do biologicznej ochrony upraw prowadzenie rejestru za
 26) stulisz sztywny (Sisymbrium strictissimum L.);
 27) szałwie (Salvia spp.) z wyłączeniem szałwi błyszczącej (S. splendens Sello);
 28) szanta zwyczajna (Marrubium vulgare L.);
-WYKAZY ROŚLIN MIODODAJNYCH, DO UPRAWY KTÓRYCH MOŻE ZOSTAĆ PRZYZNANA PŁATNOŚĆ DO OBSZARÓW Z ROŚLINAMI MIODODAJNYMI 21
+Dziennik Ustaw – – 21 36 – – Poz. 493
 29) ślaz zygmarek (Malva alcea L.);
 30) ślazówka turyngska (Lavatera thuringiaca L.);
 31) świerzbnica polna (Knautia arvensis (L.) Coult.);
@@ -412,7 +414,9 @@ Wykaz nr 2
 10) sparceta piaskowa (Onobrychis arenaria (Kit.) DC.);
 11) sparceta siewna (Onobrychis viciifolia Scop.);
 12) wyka kosmata (Vicia villosa Roth.).
-22 WSPÓŁCZYNNIKI PRZELICZENIOWE SZTUK ZWIERZĄT NA DJP Lp. GATUNEK ALBO GRUPA WSPÓŁCZYNNIK TECHNOLOGICZNA ZWIERZĄT PRZELICZENIOWY SZTUK ZWIERZĄT NA DJP Konie ras dużych 1 Ogiery, klacze, wałachy 1,2 2 Źrebaki powyżej 2 lat 1 3 Źrebaki powyżej 1 roku do 2 lat 0,8 4 Źrebaki powyżej 6 miesięcy do 1 roku 0,5 5 Źrebięta do 6 miesięcy 0,3 Konie ras małych 6 Ogiery, klacze, wałachy 0,6 7 Źrebaki powyżej 2 lat 0,5 8 Źrebaki powyżej 1 roku do 2 lat 0,35 9 Źrebaki powyżej 6 miesięcy do 1 roku 0,2 10 Źrebięta do 6 miesięcy 0,12 Bydło 11 Buhaje 1,4 12 Krowy 1 13 Jałówki cielne 1 14 Jałówki powyżej 1 roku 0,8 15 Jałówki powyżej 6 miesięcy do 1 roku 0,3 16 Opasy powyżej 1 roku 0,9 17 Opasy powyżej 6 miesięcy do 1 roku 0,36 18 Cielęta do 6 miesięcy 0,15 Bawoły domowe 19 Bawół domowy powyżej 2 lat 0,7 20 Bawół domowy od 1 roku do 2 lat 0,4 21 Bawół domowy od 6 miesiąca do 1 roku 0,3 WSPÓŁCZYNNIKI PRZELICZENIOWE SZTUK ZWIERZĄT NA DJP 23 22 Bawół domowy do 6 miesiąca 0,13 Kozy 23 Kozy matki 0,15 24 Koźlęta do 3,5 miesięcy 0,05 25 Koźlęta powyżej 3,5 miesięcy do 1,5 roku 0,08 26 Pozostałe kozy 0,1 Owce 27 Owce powyżej 1,5 roku 0,1 28 Tryki powyżej 1,5 roku 0,12 29 Jagnięta do 3,5 miesięcy 0,05 30 Tryczki 0,08 31 Maciorki 0,1 Drób 32 Gęsi 0,008 Muły 33 Muł powyżej 2 lat 0,6 34 Muł od 1 roku do 2 lat 0,3 35 Muł do 1 roku 0,1 Osły 36 Osioł powyżej 2 lat 0,5 37 Osioł od 1 roku do 2 lat 0,25 38 Osioł do 1 roku 0,07 Alpaki 39 Samice powyżej 1 roku 0,11 40 Samce powyżej 1 roku 0,12 41 Młode od 6 miesiąca do 1 roku 0,05 42 Cielęta/cria do 6 miesięcy 0,03 Lamy 43 Samice powyżej 1 roku 0,20 44 Samce powyżej 1 roku 0,19 45 Młode od 6 miesiąca do 1 roku 0,12 46 Cielęta/cria do 6 miesięcy 0,05 24 Jelenie szlachetne 47 Byki 0,42 48 Łanie 0,24 49 Pozostałe 0,1 Daniele 50 Byki 0,22 51 Łanie 0,13 52 Pozostałe 0,06 WYKAZY UPRAW MAJĄCYCH POZYTYWNY I UJEMNY WPŁYW NA BILANS GLEBOWEJ MATERII ORGANICZNEJ ORAZ ZBÓŻ Wykaz nr 1. Uprawy mające pozytywny wpływ na bilans glebowej materii organicznej Lp. Uprawa Nazwa rośliny uprawnej deklarowanej przez rolnika we wniosku o przyznanie płatności
+
+## Załącznik nr 4 — WSPÓŁCZYNNIKI PRZELICZENIOWE SZTUK ZWIERZĄT NA DJP WSPÓŁCZYNNIKI PRZELICZENIOWE SZTUK ZWIERZĄT NA DJP Lp. GATUNEK ALBO GRUPA WSPÓŁCZYNNIK TECHNOLOGICZNA ZWIERZĄT PRZELICZENIOWY SZTUK ZWIERZĄT NA DJP Konie ras dużych 1 Ogiery, klacze, wałachy 1,2 2 Źrebaki powyżej 2 lat 1 3 Źrebaki powyżej 1 roku do 2 lat 0,8 4 Źrebaki powyżej 6 miesięcy do 1 roku 0,5 5 Źrebięta do 6 miesięcy 0,3 Konie ras małych 6 Ogiery, klacze, wałachy 0,6 7 Źrebaki powyżej 2 lat 0,5 8 Źrebaki powyżej 1 roku do 2 lat 0,35 9 Źrebaki powyżej 6 miesięcy do 1 roku 0,2 10 Źrebięta do 6 miesięcy 0,12 Bydło 11 Buhaje 1,4 12 Krowy 1 13 Jałówki cielne 1 14 Jałówki powyżej 1 roku 0,8 15 Jałówki powyżej 6 miesięcy do 1 roku 0,3 16 Opasy powyżej 1 roku 0,9 17 Opasy powyżej 6 miesięcy do 1 roku 0,36 18 Cielęta do 6 miesięcy 0,15 Bawoły domowe 19 Bawół domowy powyżej 2 lat 0,7 20 Bawół domowy od 1 roku do 2 lat 0,4 21 Bawół domowy od 6 miesiąca do 1 roku 0,3 Dziennik Ustaw – – 23 38 – – Poz. 493 22 Bawół domowy do 6 miesiąca 0,13 Kozy 23 Kozy matki 0,15 24 Koźlęta do 3,5 miesięcy 0,05 25 Koźlęta powyżej 3,5 miesięcy do 1,5 roku 0,08 26 Pozostałe kozy 0,1 Owce 27 Owce powyżej 1,5 roku 0,1 28 Tryki powyżej 1,5 roku 0,12 29 Jagnięta do 3,5 miesięcy 0,05 30 Tryczki 0,08 31 Maciorki 0,1 Drób 32 Gęsi 0,008 Muły 33 Muł powyżej 2 lat 0,6 34 Muł od 1 roku do 2 lat 0,3 35 Muł do 1 roku 0,1 Osły 36 Osioł powyżej 2 lat 0,5 37 Osioł od 1 roku do 2 lat 0,25 38 Osioł do 1 roku 0,07 Alpaki 39 Samice powyżej 1 roku 0,11 40 Samce powyżej 1 roku 0,12 41 Młode od 6 miesiąca do 1 roku 0,05 42 Cielęta/cria do 6 miesięcy 0,03 Lamy 43 Samice powyżej 1 roku 0,20 44 Samce powyżej 1 roku 0,19 45 Młode od 6 miesiąca do 1 roku 0,12 46 Cielęta/cria do 6 miesięcy 0,05 Dziennik Ustaw – – 24 39 – – Poz. 493 Jelenie szlachetne 47 Byki 0,42 48 Łanie 0,24 49 Pozostałe 0,1 Daniele 50 Byki 0,22 51 Łanie 0,13 52 Pozostałe 0,06 Załącznik nr 5 WYKAZY UPRAW MAJĄCYCH POZYTYWNY I UJEMNY WPŁYW NA BILANS WYKAZY UPRAW MAJĄCYCH POZYTYWNY I UJEMNY WPŁYW NA BILANS GLEBOWEJ MATERII GLEBOWEJ MATERII ORGANICZNEJ ORGANICZNEJ ORAZ ZBÓŻ ORAZ ZBÓŻ Wykaz nr 1. Uprawy mające pozytywny wpływ na bilans glebowej materii organicznej Lp. Uprawa Nazwa rośliny uprawnej deklarowanej przez rolnika we wniosku o przyznanie płatności
+
 1. CIECIERZYCA POSPOLITA ciecierzyca pospolita
 2. FASOLA fasola wielokwiatowa
 3. FASOLA fasola zwykła karłowa
@@ -420,7 +424,7 @@ Wykaz nr 2
 5. GROCH groch siewny jadalny
 6. GROCH groch siewny pastewny (peluszka)
 7. GROCH groch siewny jadalny z rośliną podporową
-8. GROCH groch siewny pastewny (peluszka) z rośliną podporową 25
+8. GROCH groch siewny pastewny (peluszka) z rośliną podporową
 9. GROCH groch zwyczajny łuskowy
 10. GROCH groch zwyczajny cukrowy
 11. GROSZEK lędźwian
@@ -444,14 +448,14 @@ Wykaz nr 2
 29. KONICZYNA koniczyna białoróżowa (szwedzka)
 30. KONICZYNA koniczyna biała
 31. KONICZYNA koniczyna czerwona
-32. NOSTRZYK nostrzyk biały WYKAZY UPRAW MAJĄCYCH POZYTYWNY I UJEMNY WPŁYW NA BILANS GLEBOWEJ MATERII ORGANICZNEJ ORAZ ZBÓŻ
+32. NOSTRZYK nostrzyk biały Dziennik Ustaw – – 26 41 – – Poz. 493
 33. NOSTRZYK nostrzyk żółty
 34. MIESZANKA mieszanka bobowatych drobnonasiennych BOBOWATYCH DROBNONASIENNYCH
 35. TRAWA LUB INNE mieszanka jednoroczna traw PASTEWNE ROŚLINY ZIELNE
 36. TRAWA LUB INNE mieszanka jednoroczna traw z bobowatymi PASTEWNE ROŚLINY drobnonasiennymi ZIELNE
 37. TRAWA LUB INNE trawy w siewie czystym z przeznaczeniem na PASTEWNE ROŚLINY nasiona ZIELNE
 38. TRAWA LUB INNE mieszanka wieloletnia traw z bobowatymi PASTEWNE ROŚLINY drobnonasiennymi ZIELNE
-39. TRAWA LUB INNE 26 PASTEWNE ROŚLINY mieszanka wieloletnia traw ZIELNE
+39. TRAWA LUB INNE mieszanka wieloletnia traw PASTEWNE ROŚLINY ZIELNE
 40. RUKIEW rukiew wodna
 41. ŚLAZÓWKA ślazówka ogrodowa
 42. ŚLAZÓWKA ślazówka turyngska
@@ -479,7 +483,7 @@ Wykaz nr 2
 64. KOMONICA komonica błotna
 65. KOMONICA komonica zwyczajna
 66. LUCERNA lucerna chmielowa (nerkowata)
-67. LUCERNA lucerna mieszańcowa
+67. LUCERNA lucerna mieszańcowa Dziennik Ustaw – – 27 42 – – Poz. 493
 68. LUCERNA lucerna sierpowata
 69. LUCERNA lucerna siewna
 70. POZIOMKA poziomka
@@ -512,7 +516,7 @@ Wykaz nr 2
 19. ŻYTO JARE żyto jare
 20. ŻYTO OZIME żyto krzyca
 21. ŻYTO OZIME żyto ozime
-22. MIESZANKA ZBOŻOWA mieszanka zbożowa gatunków jarych 28 Wykaz nr 3. Uprawy mające ujemny wpływ na bilans glebowej materii organicznej Lp. Uprawa Nazwa rośliny uprawnej deklarowanej przez rolnika we wniosku o przyznanie płatności
+22. MIESZANKA ZBOŻOWA mieszanka zbożowa gatunków jarych Dziennik Ustaw – – 43 28 – – Poz. 493 Wykaz nr 3. Uprawy mające ujemny wpływ na bilans glebowej materii organicznej Lp. Uprawa Nazwa rośliny uprawnej deklarowanej przez rolnika we wniosku o przyznanie płatności
 1. BURAK burak cukrowy
 2. BURAK burak ćwikłowy
 3. BURAK burak liściowy (boćwina)
@@ -524,7 +528,7 @@ Wykaz nr 2
 9. SELER seler korzeniowy
 10. ZIEMNIAK ziemniak
 11. TOPINAMBUR topinambur
-12. KAPUSTA RZEPAK brukiew JARY
+12. KAPUSTA RZEPAK – brukiew JARY
 13. DYNIA FIGOLISTNA dynia figolistna
 14. DYNIA OLBRZYMIA dynia olbrzymia
 15. DYNIA PIŻMOWA dynia piżmowa
@@ -550,5 +554,5 @@ Wykaz nr 2
 35. OBERŻYNA bakłażan (oberżyna)
 36. OGÓREK ogórek
 37. POMIDOR SKÓRZASTY pomidor skórzasty
-38. POMIDOR pomidor W W W W W W W W W M W M M W W W m m m % % % % m m m % % % % % % % % % % % % % % % % % % % % % % % % % % M m % % % % M % % M % % % % % % % % m M % % M % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % W m m % % % % m m m % % m % % % % W m m % % % % % %
+38. POMIDOR pomidor % % % W M W W M W W W m m % % % W m M W W m W m m % W W % W % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % m M M M % % % % % % % % m % % % % % % % % M % % % % % % M % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % m m m m % % % m W % % % % % % % % % % m m m W
 

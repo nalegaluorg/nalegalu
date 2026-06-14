@@ -8,7 +8,7 @@ pos: 587
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo atomowe oraz niektórych innych ustaw
@@ -28,6 +28,49 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/587/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2012 r. poz. 264 i 908) wprowadza się następujące zmiany:
+
+- **1)** w art. 3:
+    - **a)** uchyla się pkt 10,
+    - **b)** pkt 22 otrzymuje brzmienie: „22) odpady promieniotwórcze – materiały stałe, ciekłe lub gazowe, zawierające substancje promieniotwórcze lub skażone tymi substancjami, których wykorzystanie nie jest przewidywane ani rozważane, zakwalifikowane do kategorii odpadów wymienionych w art. 47, w tym wypalone paliwo jądrowe przeznaczone do składowania; niniejsza definicja nie ma zastosowania do rozdziału 8a;”,
+    - **c)** pkt 24 i 25 otrzymują brzmienie: „24) postępowanie z odpadami promieniotwórczymi – działania związane z przetwarzaniem, przemieszczaniem, przechowywaniem lub składowaniem odpadów promieniotwórczych, włącznie z odprowadzaniem odpadów promieniotwórczych do środowiska, z wyłączeniem transportu odpadów promieniotwórczych poza terenem jednostki organizacyjnej;
+
+- **25)** postępowanie z wypalonym paliwem jądrowym – działania związane z przerobem, przemieszczaniem lub przechowywaniem wypalonego paliwa jądrowego, z wyłączeniem transportu wypalonego paliwa jądrowego poza terenem jednostki organizacyjnej;”,
+    - **d)** pkt 36 otrzymuje brzmienie: „36) przechowywanie odpadów promieniotwórczych lub wypalonego paliwa jądrowego – magazynowanie odpadów promieniotwórczych lub wypalonego paliwa jądrowego z zamiarem ponownego ich wydobycia;”,
+    - **e)** pkt 39 otrzymuje brzmienie: „39) przetwarzanie odpadów promieniotwórczych – proces lub działanie zmierzające do minimalizacji objętości odpadów, segregację odpadów według kategorii lub podkategorii oraz przygotowanie ich do transportu lub składowania;”,
+    - **f)** pkt 44 otrzymuje brzmienie: „44) składowanie odpadów promieniotwórczych – złożenie odpadów promieniotwórczych w składowisku odpadów promieniotwórczych bez zamiaru ponownego ich wydobycia;”,
+    - **g)** pkt 54 otrzymuje brzmienie: „54) zamknięcie składowiska odpadów promieniotwórczych – zaprzestanie dostarczania odpadów promieniotwórczych do składowiska, na podstawie decyzji właściwego organu, oraz wykonanie prac koniecznych do zapewnienia bezpieczeństwa składowiska;”;
+
+- **2)** w art. 4:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) wytwarzaniu, przetwarzaniu, przechowywaniu, transporcie, stosowaniu materiałów jądrowych lub źródeł promieniotwórczych i obrocie tymi materiałami lub źródłami,”, – po pkt 1 dodaje się pkt 1a–1c w brzmieniu: „1a) przechowywaniu, transporcie, przetwarzaniu lub składowaniu odpadów promieniotwórczych, 1b) przechowywaniu, transporcie lub przerobie wypalonego paliwa jądrowego i obrocie tym paliwem, 1c) wzbogacaniu izotopowym,”, – pkt 3 otrzymuje brzmienie: „3) budowie, eksploatacji i zamknięciu składowisk odpadów promieniotwórczych,”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Działalność polegająca na obrocie odpadami promieniotwórczymi jest zabroniona.”;
+
+- **3)** w art. 47:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Odpady promieniotwórcze kwalifikuje się ze względu na stężenie promieniotwórcze zawartych w tych odpadach izotopów promieniotwórczych do następujących kategorii odpadów:
+
+- **1)** niskoaktywnych;
+- **2)** średnioaktywnych;
+- **3)** wysokoaktywnych.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Kategorie odpadów promieniotwórczych mogą być podzielone na podkategorie ze względu na okres połowicznego rozpadu i stężenie promieniotwórcze zawartych w tych odpadach izotopów promieniotwórczych.
+
+1b. Ciekłe odpady promieniotwórcze kwalifikuje się dodatkowo ze względu na aktywność izotopów promieniotwórczych zawartych w tych odpadach.
+
+1c. Wypalone paliwo jądrowe przeznaczone do składowania kwalifikuje się do kategorii odpadów promieniotwórczych wysokoaktywnych.”;
+
+- **4)** w art. 48:
+    - **a)** w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) niedokonania przez kierownika jednostki organizacyjnej kwalifikacji odpadów promieniotwórczych.”,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Kwalifikacja odpadów promieniotwórczych dokonywana przez Prezesa Agencji następuje w drodze decyzji.
+
+4. Koszty kwalifikacji odpadów promieniotwórczych, dokonanej przez Prezesa Agencji, w szczególności koszty badań i pomiarów koniecznych do dokonania kwalifikacji odpadów promieniotwórczych, ponosi:
+
+- **1)** kierownik jednostki organizacyjnej, który dokonał nieprawidłowej kwalifikacji odpadów promieniotwórczych, w przypadkach, o których mowa w ust. 2 pkt 1 lub 2;
+- **2)** kierownik jednostki organizacyjnej, który nie dokonał kwalifikacji odpadów promieniotwórczych.”;
+- **5)** po art. 48 dodaje się art. 48a–48c w brzmieniu: „Art. 48a. 1. Jednostka organizacyjna, w której powstają odpady promieniotwórcze lub wypalone paliwo jądrowe, odpowiada za zapewnienie możliwości postępowania z odpadami promieniotwórczymi oraz z wypalonym paliwem jądrowym, w tym za zapewnienie finansowania tego postępowania, od momentu ich powstania aż po ich oddanie do składowania, łącznie z finansowaniem składowania.
+
+2. Kierownik jednostki organizacyjnej prowadzącej postępowanie z odpadami promieniotwórczymi lub z wypalonym paliwem jądrowym odpowiada za bezpieczeństwo w postępowaniu z odpadami promieniotwórczymi lub z wypalonym paliwem jądrowym, w szczególności za zapewnienie ochrony radiologicznej, a tam, gdzie ma to zastosowanie, także ochrony fizycznej i zabezpieczeń materiałów jądrowych.
+
+3. Odpowiedzialność, o której mowa w ust. 1 i 2, nie może zostać przeniesiona na inny podmiot.
+
+4. Odpowiedzialność, o której mowa w ust. 1, obejmuje odpowiedzialność jednostki organizacyjnej, w której powstało wypalone paliwo jądrowe, za odpady promieniotwórcze pochodzące z przerobu tego paliwa, chyba że odpowiedzialność za te odpady przejęła na podstawie pisemnego oświadczenia jednostka organizacyjna, która dokonała przerobu wypalonego paliwa jądrowego.
 
 **Art. 48b.**
 
@@ -86,6 +129,63 @@ source: "isap-pdf"
 - **7)** po art. 49 dodaje się art. 49a i art. 49b w brzmieniu: „Art. 49a. Kierownik jednostki organizacyjnej, o której mowa w art. 49 ust. 1, przeprowadza, nie rzadziej niż raz w roku, kontrolę zgodności stanu odpadów promieniotwórczych z informacjami zamieszczonymi w karcie ewidencyjnej.
 
 **Art. 49b.** Odpady promieniotwórcze zawierające materiał jądrowy oraz wypalone paliwo jądrowe podlegają ochronie fizycznej zgodnie z przepisami dotyczącymi ochrony fizycznej materiałów jądrowych.”;
+
+- **8)** art. 50 otrzymuje brzmienie: „Art. 50. 1. Odpady promieniotwórcze i wypalone paliwo jądrowe przechowuje się w sposób zapewniający ochronę ludzi i środowiska pod względem ochrony radiologicznej w warunkach normalnych i w sytuacjach zdarzeń radiacyjnych, w szczególności zabezpieczając je przed rozlaniem, rozproszeniem lub uwolnieniem.
+
+2. Odpady promieniotwórcze przechowuje się w sposób umożliwiający ich segregację według kategorii i podkategorii.
+
+3. Wejście do magazynu odpadów promieniotwórczych oznacza się tablicą informacyjną.
+
+4. Opakowania przeznaczone do przechowywania odpadów promieniotwórczych dostosowuje się do stanu skupienia i właściwości fizykochemicznych odpadów promieniotwórczych z uwzględnieniem ich planowanego okresu przechowywania i dalszego postępowania z tymi odpadami.
+
+5. Materiał, z którego jest wykonane opakowanie przeznaczone do przechowywania odpadów promieniotwórczych, nie może wchodzić w reakcje chemiczne z odpadami promieniotwórczymi.”;
+
+- **9)** po art. 50 dodaje się art. 50a w brzmieniu: „Art. 50a. 1. Wypalone paliwo jądrowe, po okresie schładzania w basenie przy reaktorze, przechowuje się w przechowalniku mokrym (w środowisku wodnym) lub przechowalniku suchym (w środowisku gazu obojętnego), w warunkach zapewniających nieprzekroczenie na powierzchni wypalonego elementu paliwowego temperatury dopuszczalnej dla danego rodzaju paliwa jądrowego oraz zapobiegających wystąpieniu samopodtrzymującej się reakcji rozszczepienia (zachowanie podkrytyczności).
+
+2. W obliczeniach wykazujących zachowanie podkrytyczności jest dozwolone uwzględnienie wypalenia przechowywanego wypalonego paliwa jądrowego.
+
+3. Zachowanie podkrytyczności zapewnia się w szczególności przez:
+
+- **1)** utrzymanie właściwej odległości między poszczególnymi wypalonymi elementami paliwowymi;
+- **2)** stosowanie pochłaniaczy neutronów.
+
+4. Kierownik jednostki organizacyjnej wykonującej działalność związaną z narażeniem, polegającą na eksploatacji przechowalnika wypalonego paliwa jądrowego, przeprowadza kontrolę tego przechowalnika.
+
+5. Wejście do przechowalnika wypalonego paliwa jądrowego oznacza się tablicą informacyjną.”;
+
+- **10)** uchyla się art. 51;
+- **11)** art. 52 otrzymuje brzmienie: „Art. 52. 1. Odpady promieniotwórcze ciekłe lub gazowe, powstałe w wyniku działalności, o której mowa w art. 4 ust. 1, mogą być odprowadzane do środowiska, o ile ich stężenie promieniotwórcze w środowisku może być pominięte z punktu widzenia ochrony radiologicznej. Sposób odprowadzania odpadów, aktywność odprowadzanych odpadów i ich dopuszczalne stężenie promieniotwórcze w momencie odprowadzania do środowiska określa się w zezwoleniu.
+
+2. Odpady promieniotwórcze przeznaczone do składowania składuje się w składowiskach odpadów promieniotwórczych.
+
+3. Odpady promieniotwórcze składuje się wyłącznie w stanie stałym, w opakowaniach zapewniających bezpieczeństwo ludzi i środowiska pod względem ochrony radiologicznej, przy zapewnieniu odprowadzania ciepła i niedopuszczeniu do powstania masy krytycznej oraz przy stałym prowadzeniu kontroli tych czynników w okresie składowania, a także po zamknięciu składowiska.
+
+4. Wejście do składowiska odpadów promieniotwórczych oznacza się tablicą informacyjną.”;
+
+- **12)** w art. 53:
+    - **a)** uchyla się ust. 1a,
+    - **b)** dodaje się ust. 3–5 w brzmieniu: „3. Składowisko powierzchniowe odpadów promieniotwórczych może być uznane za Krajowe Składowisko Odpadów Promieniotwórczych, jeżeli co najmniej przez 11 miesięcy w roku umożliwia:
+
+- **1)** składowanie:
+    - **a)** odpadów promieniotwórczych krótkożyciowych niskoaktywnych i średnioaktywnych,
+    - **b)** zużytych zamkniętych źródeł promieniotwórczych krótkożyciowych niskoaktywnych i średnioaktywnych;
+
+- **2)** przechowywanie:
+    - **a)** odpadów promieniotwórczych długożyciowych niskoaktywnych i średnioaktywnych,
+    - **b)** zużytych zamkniętych źródeł promieniotwórczych długożyciowych niskoaktywnych i średnioaktywnych.
+
+4. Składowisko głębokie odpadów promieniotwórczych może być uznane za Krajowe Składowisko Odpadów Promieniotwórczych, jeżeli co najmniej przez 11 miesięcy w roku umożliwia składowanie wszystkich kategorii odpadów promieniotwórczych.
+
+5. W przypadku gdy składowisko odpadów promieniotwórczych przestanie spełniać którykolwiek z wymogów, o których mowa w ust. 3 lub 4, Prezes Agencji cofa, w drodze decyzji, uznanie tego składowiska za Krajowe Składowisko Odpadów Promieniotwórczych.”;
+
+- **13)** po art. 53 dodaje się art. 53a–53d w brzmieniu: „Art. 53a. 1. Składowiska odpadów promieniotwórczych lokalizuje się, buduje, eksploatuje i zamyka w sposób uniemożliwiający otrzymanie przez osoby z ogółu ludności w ciągu roku dawki skutecznej (efektywnej) ze wszystkich dróg narażenia przekraczającej wartość 0,1 mSv.
+
+2. Składowiska odpadów promieniotwórczych lokalizuje się na obszarach, na których środowisko przyrodnicze podlega łagodnie przebiegającej ewolucji, a warunki nią kształtowane mogą być wiarygodnie prognozowane przez:
+
+- **1)** 500 lat – w przypadku składowiska powierzchniowego;
+- **2)** 10 000 lat – w przypadku składowiska głębokiego.
+
+3. Składowisko głębokie lokalizuje się w formacjach geologicznych posiadających miąższość i rozciągłość niezbędne dla obiektów składowiska i filarów ochronnych.
 
 **Art. 53b.**
 
@@ -207,6 +307,11 @@ source: "isap-pdf"
 
 **Art. 55e.** Projekt składowiska odpadów promieniotwórczych w szczególności:
 
+- **1)** uwzględnia konieczność zapewnienia ochrony radiologicznej, ochrony fizycznej oraz konieczność zachowania podkrytyczności podczas eksploatacji i zamknięcia składowiska oraz po jego zamknięciu;
+- **2)** uwzględnia sekwencję kolejnych barier ochronnych zapewniających spełnienie wymagań, o których mowa w pkt 1, nawet w przypadku uszkodzenia jednej z barier;
+- **3)** zawiera rozwiązania, które umożliwiają pewną, stabilną, łatwą i bezpieczną w zarządzaniu eksploatację i zamknięcie składowiska odpadów promieniotwórczych;
+- **4)** uwzględnia charakterystykę wybranej lokalizacji.
+
 **Art. 55f.**
 
 1. Składowisko odpadów promieniotwórczych eksploatuje się oraz zamyka w sposób zapewniający ochronę radiologiczną pracowników i ludności, zgodnie z zezwoleniem wydanym przez Prezesa Agencji oraz z wdrożonym w jednostce organizacyjnej zintegrowanym systemem zarządzania.
@@ -232,6 +337,12 @@ source: "isap-pdf"
 7. Rada Ministrów określi, w drodze rozporządzenia, zakres oceny okresowej bezpieczeństwa oraz zakres raportu z tej oceny dla składowiska odpadów promieniotwórczych, biorąc pod uwagę konieczność zapewnienia kompleksowej i wiarygodnej informacji o stanie bezpieczeństwa składowisk odpadów promieniotwórczych.
 
 **Art. 55h.** Konstrukcja składowiska odpadów promieniotwórczych umożliwia:
+
+- **1)** ciągłą kontrolę spełnienia założeń projektowych dotyczących bezpieczeństwa składowiska;
+- **2)** zamknięcie składowiska przed terminem przewidzianym w projekcie – w przypadku zaistnienia takiej konieczności;
+- **3)** wykonanie prac związanych z zamknięciem składowiska;
+- **4)** zachowanie naturalnych charakterystyk wybranej lokalizacji mających zapewnić długoterminowe bezpieczeństwo składowiska po jego zamknięciu;
+- **5)** rozbudowę składowiska.
 
 **Art. 55i.**
 
@@ -271,6 +382,10 @@ source: "isap-pdf"
 
 **Art. 55l.** Prezes Agencji wydaje decyzję w sprawie zezwolenia na:
 
+- **1)** budowę składowiska odpadów promieniotwórczych – w terminie 24 miesięcy,
+- **2)** eksploatację składowiska odpadów promieniotwórczych – w terminie 12 miesięcy,
+- **3)** zamknięcie składowiska odpadów promieniotwórczych – w terminie 18 miesięcy – od dnia złożenia wniosku wraz z wymaganymi dokumentami.
+
 **Art. 55m.** Do postępowania o wydanie zezwolenia na budowę, eksploatację i zamknięcie składowiska odpadów promieniotwórczych nie stosuje się przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 55n.**
@@ -306,6 +421,10 @@ source: "isap-pdf"
 
 **Art. 55p.** W zezwoleniu określa się warunki wykonywania działalności objętej tym zezwoleniem, w szczególności w zakresie:
 
+- **1)** wskazania odpadów promieniotwórczych, które zostały wyłączone z możliwości składowania w danym składowisku;
+- **2)** szczegółowych wymagań w zakresie przygotowania odpadów promieniotwórczych do składowania w danym składowisku;
+- **3)** planowania i procedur awaryjnych.
+
 **Art. 55q.**
 
 1. Prezes Agencji może dokonać zmiany warunków wykonywania działalności objętej zezwoleniem w przypadku stwierdzenia, że jest to niezbędne dla zapewnienia ochrony radiologicznej, ochrony fizycznej lub zabezpieczeń materiałów jądrowych.
@@ -322,6 +441,22 @@ source: "isap-pdf"
 2. Przed wydaniem decyzji, o której mowa w ust. 1 pkt 1, organ właściwy do jej wydania zasięga opinii Prezesa Agencji, przesyłając mu projekt decyzji oraz wniosek o wydanie decyzji wraz z załączonymi dokumentami.
 
 **Art. 55s.** Wydanie zezwolenia na budowę składowiska odpadów promieniotwórczych jest warunkiem uzyskania pozwolenia na budowę tego składowiska, wydawanego na zasadach określonych w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.”;
+
+- **17)** w art. 57 w ust. 1 pkt 1 otrzymuje brzmienie: „1) od dnia przyjęcia pierwszego odpadu do składowiska do dnia podjęcia decyzji o zamknięciu składowiska – w wysokości 400% dochodów z tytułu podatku od nieruchomości znajdujących się na terenie gminy, uzyskanych w roku poprzednim, jednak nie większa niż 10 500 tys. zł;”;
+- **18)** po art. 57 dodaje się art. 57a–57g w brzmieniu: „Art. 57a. Rada Ministrów określi, w drodze rozporządzenia:
+- **1)** szczegółowe przesłanki kwalifikowania odpadów promieniotwórczych do kategorii i podkategorii,
+- **2)** wzór karty ewidencyjnej i sposób jej wypełniania,
+- **3)** okresy przechowywania kart ewidencyjnych, ich kopii oraz kopii wspólnej ewidencji,
+- **4)** szczegółowe warunki przechowywania odpadów promieniotwórczych lub wypalonego paliwa jądrowego,
+- **5)** szczegółowe wymagania dla obiektów, pomieszczeń i opakowań przeznaczonych do przechowywania poszczególnych kategorii odpadów promieniotwórczych,
+- **6)** zakres przeprowadzania kontroli przechowalników wypalonego paliwa jądrowego,
+- **7)** szczegółowe wymagania dla poszczególnych rodzajów składowisk w zakresie ich eksploatacji i budowy,
+- **8)** szczegółowe wymagania w zakresie przygotowania odpadów promieniotwórczych do składowania,
+- **9)** sposób i zakres przeprowadzania kontroli zgodności stanu odpadów promieniotwórczych z informacjami zamieszczonymi w karcie ewidencyjnej,
+- **10)** wzory tablic informacyjnych do oznaczania wejść do:
+    - **a)** przechowalnika wypalonego paliwa jądrowego,
+    - **b)** magazynu odpadów promieniotwórczych,
+    - **c)** składowiska odpadów promieniotwórczych – kierując się koniecznością zapewnienia spełnienia wymagań bezpieczeństwa w działaniach w postępowaniu z odpadami promieniotwórczymi lub z wypalonym paliwem jądrowym oraz ochrony interesów przyszłych pokoleń.
 
 **Art. 57b.**
 
@@ -427,7 +562,27 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235 i 1238) wprowadza się następujące zmiany:
 
+- **1)** w art. 21 w ust. 2 w pkt 36 lit. a otrzymuje brzmienie: „a) wnioskach o wydanie zezwoleń i o wydanych zezwoleniach na wykonywanie działalności, o której mowa w art. 4 ust. 1 pkt 2 i 3 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe,”;
+- **2)** w art. 25 w ust. 1 pkt 9 otrzymuje brzmienie: „9) przez Prezesa Państwowej Agencji Atomistyki, z zakresu ustawy z dnia 29 listopada 2000 r. – Prawo atomowe:
+    - **a)** informacje o stanie bezpieczeństwa jądrowego i ochrony radiologicznej obiektu jądrowego, jego wpływie na zdrowie ludzi i na środowisko oraz o wielkości i składzie izotopowym uwolnień substancji promieniotwórczych z obiektu jądrowego do środowiska, a także o nieplanowanych zdarzeniach w obiekcie jądrowym, powodujących powstanie zagrożenia,
+    - **b)** roczne oceny stanu bezpieczeństwa nadzorowanych obiektów jądrowych,
+    - **c)** informacje o stanie ochrony radiologicznej składowisk odpadów promieniotwórczych, ich wpływie na zdrowie ludzi i środowisko,
+    - **d)** informacje o wielkości i składzie izotopowym uwolnień substancji promieniotwórczych ze składowisk odpadów promieniotwórczych do środowiska,
+    - **e)** informacje o zdarzeniach w składowiskach odpadów promieniotwórczych powodujących powstanie zagrożenia – z wyłączeniem informacji dotyczących ochrony fizycznej i zabezpieczeń materiałów jądrowych, a także informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji;”.
+
 **Art. 3.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21 i 1238) wprowadza się następujące zmiany:
+
+- **1)** w art. 13 dodaje się ust. 5 w brzmieniu: „5. Umowę, o której mowa w ust. 1, w odniesieniu do ustanowienia użytkowania górniczego dla podziemnego składowania odpadów promieniotwórczych zawiera się na czas nieokreślony.”;
+- **2)** w art. 23 w ust. 1 pkt 1 otrzymuje brzmienie: „1) poszukiwanie lub rozpoznawanie rud pierwiastków promieniotwórczych oraz wydobywanie tych rud ze złóż wymaga opinii Prezesa Państwowej Agencji Atomistyki;”;
+- **3)** w art. 27:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) aktualne i przewidywane warunki geologiczne, hydrogeologiczne i geologiczno-inżynierskie; w przypadku działalności polegającej na składowaniu odpadów promieniotwórczych warunki te odnoszą się do lokalizacji, budowy, eksploatacji, zamknięcia oraz do okresu po zamknięciu składowiska odpadów promieniotwórczych;”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Do wniosku o udzielenie koncesji na podziemne składowanie odpadów promieniotwórczych dołącza się zezwolenie Prezesa Państwowej Agencji Atomistyki na budowę składowiska odpadów promieniotwórczych.”;
+
+- **4)** w art. 125 w ust. 1:
+    - **a)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) podziemne składowisko odpadów promieniotwórczych;”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) podziemne składowisko odpadów innych niż niebezpieczne, obojętne i promieniotwórcze.”;
+
+- **5)** w art. 135 w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) promieniotwórczych – jak dla odpadów niebezpiecznych.”.
 
 **Art. 4.** Do postępowań w sprawie wydania zezwolenia na wykonywanie działalności, o której mowa w art. 4 ust. 1 pkt 1 i 3 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

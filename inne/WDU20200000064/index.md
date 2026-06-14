@@ -8,10 +8,10 @@ pos: 64
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 stycznia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 64 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 7 stycznia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,45 +25,50 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/64/text.pdf) |
 
-64 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 7 stycznia 2020 r.
-w sprawie przeprowadzania i dokumentowania niektórych czynności przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 23 ust. 10 ustawy z dnia 24 maja 2002 r. Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
+w sprawie przeprowadzania i dokumentowania niektórych czynności przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 23 ust. 10 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki przeprowadzania i dokumentowania przez funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „funkcjonariuszem”, czynności:
 1) wydawania osobom poleceń określonego zachowania się,
 2) legitymowania osób w celu ustalenia ich tożsamości,
-3) zatrzymywania osób w trybie i w przypadkach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30),
-4) przeszukiwania osób i pomieszczeń w trybie i w przypadkach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego,
-5) obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom których mowa w art. 23 ust. 1 pkt 1–4 i 6 ustawy z dnia 24 maja 2002 r. Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”.
-§ 2. 1. Funkcjonariusz, przystępując do przeprowadzenia czynności, których mowa w § 1 pkt 1–3, podaje:
+3) zatrzymywania osób w trybie i w przypadkach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30),
+4) przeszukiwania osób i pomieszczeń w trybie i w przypadkach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego,
+5) obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom – o których mowa w art. 23 ust. 1 pkt 1–4 i 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”.
+§ 2. 1. Funkcjonariusz, przystępując do przeprowadzenia czynności, o których mowa w § 1 pkt 1–3, podaje:
 1) swój stopień oraz imię i nazwisko, w sposób umożliwiający odnotowanie tych danych;
 2) przyczynę podjęcia czynności służbowych, a na żądanie osoby, wobec której czynność jest prowadzona, podstawę prawną podjęcia czynności.
-2. Funkcjonariusz nieumundurowany, przystępując do przeprowadzania czynności, których mowa w § 1 pkt 1–3, oraz funkcjonariusz przystępujący do przeprowadzania czynności, której mowa w § 1 pkt 4:
+2. Funkcjonariusz nieumundurowany, przystępując do przeprowadzania czynności, o których mowa w § 1 pkt 1–3, oraz funkcjonariusz przystępujący do przeprowadzania czynności, o której mowa w § 1 pkt 4:
 1) wykonuje obowiązki wymienione w ust. 1;
 2) okazuje legitymację służbową, przy czym na żądanie osoby, wobec której przeprowadza czynności, umożliwia odnotowanie danych w niej zawartych.
-1) pkt 1 i 2 funkcjonariusz informuje osobę, wobec której podjęto czynność, prawie złożenia zażalenia na sposób przeprowadzenia czynności do prokuratora właściwego ze względu na miejsce przeprowadzenia tej czynności, stosownie do art. 23 ust. 7 ustawy;
-2) pkt 3 i 4 funkcjonariusz informuje osobę, wobec której podjęto czynność, prawie złożenia zażalenia do właściwego sądu, stosownie do przepisów ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
-§ 3. W przypadku ujawnienia w toku wykonywania czynności, których mowa w § 1, przedmiotów, które stwarzają niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia, funkcjonariusz niezwłocznie podejmuje, w granicach dostępnych środków, czynności ochronne, w szczególności:
+3. Po zakończeniu czynności, o których mowa w § 1:
+1) pkt 1 i 2 – funkcjonariusz informuje osobę, wobec której podjęto czynność, o prawie złożenia zażalenia na sposób przeprowadzenia czynności do prokuratora właściwego ze względu na miejsce przeprowadzenia tej czynności, stosownie do art. 23 ust. 7 ustawy;
+2) pkt 3 i 4 – funkcjonariusz informuje osobę, wobec której podjęto czynność, o prawie złożenia zażalenia do właściwego sądu, stosownie do przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+§ 3. W przypadku ujawnienia w toku wykonywania czynności, o których mowa w § 1, przedmiotów, które stwarzają niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia, funkcjonariusz niezwłocznie podejmuje, w granicach dostępnych środków, czynności ochronne, w szczególności:
 1) zabezpiecza zagrożone miejsce przed dostępem osób postronnych;
-2) zawiadamia konieczności podjęcia działań mających na celu usunięcie tego niebezpieczeństwa dyżurnego oficera operacyjnego Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, albo dyżurnego właściwej miejscowo jednostki organizacyjnej Policji.
-§ 4. W przypadku przeprowadzania czynności określonych w § 1 pkt 3 i 4 wobec osoby, która korzysta z immunitetu parlamentarnego, sędziowskiego lub prokuratorskiego, funkcjonariusz niezwłocznie powiadamia drogą służbową Szefa ABW podjęciu działań wobec tej osoby.
-§ 5. W uzasadnionych przypadkach funkcjonariusz może przybrać do udziału w czynnościach, których mowa w § 1 pkt 3–5, osobę posiadającą wiedzę specjalistyczną, w celu zabezpieczenia prawidłowego przebiegu toku postępowania.
-1) realizacji ustawowych zadań ABW funkcjonariusz zamieszcza w notatce służbowej sporządzanej w przypadku, którym mowa w § 10 ust. 1, albo w protokole sporządzanym w przypadkach, których mowa w § 12 ust. 1 i § 20, wzmiankę o:
+2) zawiadamia o konieczności podjęcia działań mających na celu usunięcie tego niebezpieczeństwa dyżurnego oficera operacyjnego Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, albo dyżurnego właściwej miejscowo jednostki organizacyjnej Policji.
+§ 4. W przypadku przeprowadzania czynności określonych w § 1 pkt 3 i 4 wobec osoby, która korzysta z immunitetu parlamentarnego, sędziowskiego lub prokuratorskiego, funkcjonariusz niezwłocznie powiadamia drogą służbową Szefa ABW o podjęciu działań wobec tej osoby.
+§ 5. W uzasadnionych przypadkach funkcjonariusz może przybrać do udziału w czynnościach, o których mowa w § 1 pkt 3–5, osobę posiadającą wiedzę specjalistyczną, w celu zabezpieczenia prawidłowego przebiegu toku postępowania.
+§ 6. O wydaniu osobie polecenia określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w art. 23 ust. 1 pkt 2–5a ustawy lub wykonywania innych czynności służbowych podejmowanych w zakresie i w celu:
+1) realizacji ustawowych zadań ABW – funkcjonariusz zamieszcza w notatce służbowej sporządzanej w przypadku, o którym mowa w § 10 ust. 1, albo w protokole sporządzanym w przypadkach, o których mowa w § 12 ust. 1 i § 20, wzmiankę o:
 a) czasie i miejscu przeprowadzenia czynności,
 b) celu przeprowadzonej czynności i jej opis,
-c) pouczeniu osoby przysługującym jej prawie, którym mowa w art. 23 ust. 7 pkt 1 ustawy;
-2) uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób i mienia, gdy jest to niezbędne do sprawnego i zgodnego z prawem wykonywania czynności wymienionych w pkt 1 albo uniknięcia zatarcia śladów przestępstwa funkcjonariusz sporządza notatkę służbową, która zawiera w szczególności:
+c) pouczeniu osoby o przysługującym jej prawie, o którym mowa w art. 23 ust. 7 pkt 1 ustawy;
+2) uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób i mienia, gdy jest to niezbędne do sprawnego i zgodnego z prawem wykonywania czynności wymienionych w pkt 1 albo uniknięcia zatarcia śladów przestępstwa – funkcjonariusz sporządza notatkę służbową, która zawiera w szczególności:
 a) imię, nazwisko i stanowisko służbowe funkcjonariusza,
 b) czas i miejsce przeprowadzenia czynności,
 c) cel i opis przeprowadzonej czynności,
-d) wzmiankę pouczeniu osoby przysługującym jej prawie, którym mowa w art. 23 ust. 7 pkt 1 ustawy,
+d) wzmiankę o pouczeniu osoby o przysługującym jej prawie, o którym mowa w art. 23 ust. 7 pkt 1 ustawy,
 e) podpis funkcjonariusza.
+§ 7. 1. Funkcjonariusz ustala tożsamość osoby legitymowanej na podstawie:
 1) dowodu osobistego;
 2) dokumentu paszportowego;
 3) zagranicznego dokumentu tożsamości;
-4) dokumentu elektronicznego, którym mowa w art. 19e ust. 2 pkt 1 ustawy z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730, 848, 1590 i 2294), który na żądanie funkcjonariusza został okazany lub przekazany celem potwierdzenia integralności, pochodzenia i ważności tego dokumentu elektronicznego;
+4) dokumentu elektronicznego, o którym mowa w art. 19e ust. 2 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730, 848, 1590 i 2294), który na żądanie funkcjonariusza został okazany lub przekazany celem potwierdzenia integralności, pochodzenia i ważności tego dokumentu elektronicznego;
+5) dokumentu publicznego innego niż wymienione w pkt 1 i 2, w rozumieniu ustawy z dnia 22 listopada 2018 r.
+o dokumentach publicznych (Dz. U. z 2019 r. poz. 53, 1091 i 1716), oznaczonego numerem i serią, który zawiera:
 a) nazwę organu wydającego oraz
 b) fotografię osoby, której dokument wydano.
-2. W przypadku gdy nie jest możliwe ustalenie tożsamości osoby legitymowanej na podstawie dokumentów, których mowa w ust. 1, tożsamość tej osoby ustala się na podstawie oświadczenia innej osoby:
+2. W przypadku gdy nie jest możliwe ustalenie tożsamości osoby legitymowanej na podstawie dokumentów, o których mowa w ust. 1, tożsamość tej osoby ustala się na podstawie oświadczenia innej osoby:
 1) która jest funkcjonariuszowi znana osobiście;
-2) której tożsamość została ustalona w sposób, którym mowa w ust. 1.
+2) której tożsamość została ustalona w sposób, o którym mowa w ust. 1.
 § 8. W przypadku legitymowania osoby znajdującej się w pojeździe funkcjonariusz, ze względów bezpieczeństwa, może żądać opuszczenia pojazdu przez tę osobę oraz inne osoby znajdujące się w pojeździe.
 § 9. Funkcjonariusz może odstąpić od legitymowania osoby, która jest mu znana osobiście.
 § 10. 1. Z przeprowadzonej czynności legitymowania osoby funkcjonariusz sporządza notatkę służbową, która zawiera w szczególności:
@@ -72,28 +77,30 @@ b) fotografię osoby, której dokument wydano.
 3) imię, nazwisko, datę urodzenia i miejsce zamieszkania osoby legitymowanej;
 4) cechy dokumentu, na podstawie którego stwierdzono tożsamość osoby legitymowanej;
 5) przyczynę legitymowania;
-6) wzmiankę pouczeniu osoby legitymowanej przysługującym jej prawie, którym mowa w art. 23 ust. 7 pkt 1 ustawy;
+6) wzmiankę o pouczeniu osoby legitymowanej o przysługującym jej prawie, o którym mowa w art. 23 ust. 7 pkt 1 ustawy;
 7) podpis funkcjonariusza.
-2. W przypadku gdy informacja przeprowadzonej czynności legitymowania osoby została zamieszczona w protokole sporządzonym w przypadkach, których mowa w § 12 ust. 1 i § 20, przepisu ust. 1 nie stosuje się.
+2. W przypadku gdy informacja o przeprowadzonej czynności legitymowania osoby została zamieszczona w protokole sporządzonym w przypadkach, o których mowa w § 12 ust. 1 i § 20, przepisu ust. 1 nie stosuje się.
+§ 11. 1. Funkcjonariusz przy zatrzymywaniu osoby, o którym mowa w § 1 pkt 3:
 1) po wykonaniu czynności określonych w § 2 ust. 1 albo 2 sprawdza, w sposób określony w art. 23 ust. 6 ustawy, czy osoba zatrzymywana posiada przy sobie broń lub inne niebezpieczne przedmioty mogące służyć do popełnienia przestępstwa lub wykroczenia albo przedmioty mogące stanowić dowody w postępowaniu lub podlegające przepadkowi, a także urządzenia telekomunikacyjne i teleinformatyczne;
-2) odbiera broń i przedmioty, których mowa w pkt 1;
+2) odbiera broń i przedmioty, o których mowa w pkt 1;
 3) legitymuje osobę zatrzymywaną;
-4) informuje osobę zatrzymywaną zatrzymaniu;
-5) uprzedza osobę zatrzymaną obowiązku podporządkowania się wydawanym poleceniom, a także możliwości użycia środków przymusu bezpośredniego lub broni palnej w przypadku niepodporządkowania się wydanym poleceniom lub próby ucieczki;
+4) informuje osobę zatrzymywaną o zatrzymaniu;
+5) uprzedza osobę zatrzymaną o obowiązku podporządkowania się wydawanym poleceniom, a także o możliwości użycia środków przymusu bezpośredniego lub broni palnej w przypadku niepodporządkowania się wydanym poleceniom lub próby ucieczki;
 6) doprowadza osobę zatrzymaną do jednostki organizacyjnej ABW, prokuratury lub jednostki organizacyjnej Policji.
 2. W przypadku zatrzymywania osoby, co do której z posiadanych informacji lub okoliczności faktycznych wynika, że może posiadać broń lub inne niebezpieczne przedmioty mogące służyć do popełnienia przestępstwa lub wykroczenia, funkcjonariusz, w uzasadnionych przypadkach, przystępując do zatrzymania, poprzedza je okrzykiem „ABW!” lub „Agencja Bezpieczeństwa Wewnętrznego!”, a następnie:
 1) sprawdza, w sposób określony w art. 23 ust. 6 ustawy, czy osoba zatrzymywana posiada przy sobie broń lub inne niebezpieczne przedmioty mogące służyć do popełnienia przestępstwa lub wykroczenia albo przedmioty mogące stanowić dowody w postępowaniu lub podlegające przepadkowi, a także urządzenia telekomunikacyjne i teleinformatyczne;
-2) odbiera broń i przedmioty, których mowa w pkt 1;
-3) po wykonaniu czynności określonych w § 2 ust. 1 albo 2 legitymuje osobę zatrzymywaną;
-5) uprzedza osobę zatrzymaną obowiązku podporządkowania się wydawanym poleceniom, a także możliwości użycia środków przymusu bezpośredniego lub broni palnej w przypadku niepodporządkowania się wydanym poleceniom lub próby ucieczki;
+2) odbiera broń i przedmioty, o których mowa w pkt 1;
+3) po wykonaniu czynności określonych w § 2 ust. 1 albo 2 – legitymuje osobę zatrzymywaną;
+4) informuje osobę zatrzymywaną o zatrzymaniu;
+5) uprzedza osobę zatrzymaną o obowiązku podporządkowania się wydawanym poleceniom, a także o możliwości użycia środków przymusu bezpośredniego lub broni palnej w przypadku niepodporządkowania się wydanym poleceniom lub próby ucieczki;
 6) doprowadza osobę zatrzymaną do jednostki organizacyjnej ABW, prokuratury lub jednostki organizacyjnej Policji.
 § 12. 1. Funkcjonariusz niezwłocznie po zatrzymaniu osoby:
-1) informuje osobę zatrzymaną jej prawach, w szczególności przez przekazanie jej pouczenia na piśmie uprawnieniach zatrzymanego w postępowaniu karnym, zgodnego ze wzorem określonym na podstawie art. 244 § 5 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego;
+1) informuje osobę zatrzymaną o jej prawach, w szczególności przez przekazanie jej pouczenia na piśmie o uprawnieniach zatrzymanego w postępowaniu karnym, zgodnego ze wzorem określonym na podstawie art. 244 § 5 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego;
 2) wysłuchuje osobę zatrzymaną na okoliczność zatrzymania;
-3) sporządza protokół zatrzymania osoby zgodnie z przepisami ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego;
+3) sporządza protokół zatrzymania osoby zgodnie z przepisami ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego;
 4) wręcza osobie zatrzymanej, za potwierdzeniem, kopię protokołu zatrzymania;
-5) na żądanie osoby zatrzymanej podejmuje czynności mające na celu realizację przysługujących jej praw, których mowa w pkt 1;
-6) powiadamia właściwego prokuratora zatrzymaniu osoby.
+5) na żądanie osoby zatrzymanej podejmuje czynności mające na celu realizację przysługujących jej praw, o których mowa w pkt 1;
+6) powiadamia właściwego prokuratora o zatrzymaniu osoby.
 2. Protokół zatrzymania osoby podpisuje własnoręcznie:
 1) funkcjonariusz sporządzający protokół;
 2) osoba, wobec której dokonano czynności objętych protokołem;
@@ -102,24 +109,27 @@ b) fotografię osoby, której dokument wydano.
 4. W przypadku gdy zachowanie osoby zatrzymanej wskazuje na to, że:
 1) jest ona pod wpływem alkoholu lub innego podobnie działającego środka,
 2) jest ona pod wpływem środka odurzającego, substancji psychotropowej lub innego podobnie działającego środka,
-3) z powodów innych niż wymienione w pkt 1 i 2 ma ona zakłóconą świadomość funkcjonariusz wykonuje czynności określone w ust. 1 pkt 1 i 4 po ustaniu przyczyn zakłócających świadomość osoby zatrzymanej.
+3) z powodów innych niż wymienione w pkt 1 i 2 ma ona zakłóconą świadomość – funkcjonariusz wykonuje czynności określone w ust. 1 pkt 1 i 4 po ustaniu przyczyn zakłócających świadomość osoby zatrzymanej.
 § 13. W przypadku wniesienia przez osobę zatrzymaną zażalenia na zatrzymanie, funkcjonariusz niezwłocznie przekazuje właściwemu sądowi kopię protokołu zatrzymania osoby wraz z materiałami uzasadniającymi zatrzymanie.
 § 14. Osobę zatrzymaną umieszcza się w pomieszczeniu jednostki organizacyjnej ABW lub jednostki organizacyjnej Policji przeznaczonym dla osób zatrzymanych, które jest zabezpieczone w sposób zapewniający bezpieczeństwo tym osobom oraz realizację celu zatrzymania.
-§ 15. Poza przypadkami określonymi w art. 248 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, funkcjonariusz zwalnia osobę zatrzymaną także, gdy otrzymał zaświadczenie lekarskie istnieniu przeciwwskazań medycznych do zatrzymania.
+§ 15. Poza przypadkami określonymi w art. 248 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, funkcjonariusz zwalnia osobę zatrzymaną także, gdy otrzymał zaświadczenie lekarskie o istnieniu przeciwwskazań medycznych do zatrzymania.
 § 16. Zatrzymanie i zwolnienie osoby ewidencjonuje się w przeznaczonej do tego dokumentacji prowadzonej w jednostce organizacyjnej ABW lub w jednostce organizacyjnej Policji, do której osobę zatrzymaną doprowadzono.
+§ 17. Funkcjonariusz, przystępując do przeszukania, o którym mowa w § 1 pkt 4:
 1) po wykonaniu czynności określonych w § 2 ust. 1 albo 2 okazuje osobie, u której ma nastąpić przeszukanie, postanowienie sądu albo prokuratora, nakaz kierownika jednostki organizacyjnej ABW lub legitymację służbową, a na żądanie tej osoby umożliwia odnotowanie danych w nich zawartych;
+2) informuje osobę, u której ma nastąpić przeszukanie, o celu tej czynności;
 3) wzywa osobę, u której ma nastąpić przeszukanie, do dobrowolnego wydania:
 a) broni, innych niebezpiecznych przedmiotów oraz przedmiotów, których posiadanie jest zabronione,
 b) poszukiwanych przedmiotów bądź wskazania miejsca, w którym ukrywa się poszukiwana osoba;
-4) informuje osobę, u której ma nastąpić przeszukanie, przysługujących jej prawach, których mowa w ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego;
+4) informuje osobę, u której ma nastąpić przeszukanie, o przysługujących jej prawach, o których mowa w ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego;
 5) legitymuje osoby znajdujące się w pomieszczeniu;
-6) informuje osobę, u której ma nastąpić przeszukanie, że otrzyma, na swoje żądanie, postanowienie sądu lub prokuratora w przedmiocie zatwierdzenia przeszukania w przypadku gdy przeszukanie ma nastąpić na podstawie nakazu kierownika właściwej jednostki organizacyjnej ABW lub legitymacji służbowej funkcjonariusza.
-§ 18. 1. Przeszukanie osoby polega na przeszukaniu odzieży i podręcznych przedmiotów tej osoby, w celu znalezienia rzeczy mogących stanowić dowód w sprawie przestępstwo, którego ściganie należy do ustawowych zadań ABW, lub podlegających zajęciu w postępowaniu karnym, w którym bierze udział ABW.
+6) informuje osobę, u której ma nastąpić przeszukanie, że otrzyma, na swoje żądanie, postanowienie sądu lub prokuratora w przedmiocie zatwierdzenia przeszukania – w przypadku gdy przeszukanie ma nastąpić na podstawie nakazu kierownika właściwej jednostki organizacyjnej ABW lub legitymacji służbowej funkcjonariusza.
+§ 18. 1. Przeszukanie osoby polega na przeszukaniu odzieży i podręcznych przedmiotów tej osoby, w celu znalezienia rzeczy mogących stanowić dowód w sprawie o przestępstwo, którego ściganie należy do ustawowych zadań ABW, lub podlegających zajęciu w postępowaniu karnym, w którym bierze udział ABW.
 2. Funkcjonariusz dokonuje przeszukania osoby w miejscu niedostępnym w czasie wykonywania czynności dla osób postronnych.
 3. Funkcjonariusz dokonuje przeszukania osoby tej samej płci. Jeżeli dokonanie przeszukania przez funkcjonariusza tej samej płci co osoba poddawana przeszukaniu nie jest możliwe, a czynność musi być przeprowadzona niezwłocznie, przeszukania może dokonać funkcjonariusz płci odmiennej, z uwzględnieniem przepisu art. 23 ust. 6 ustawy.
 § 19. 1. W przypadku braku możliwości swobodnego wejścia do pomieszczenia, w którym ma nastąpić przeszukanie, funkcjonariusz może wykonać tę czynność, pokonując przeszkodę uniemożliwiającą wejście, nawet gdyby mogło to spowodować uszkodzenie mienia, jednak bez wyrządzania nadmiernej szkody. Usunięcie tej przeszkody nie może zagrażać bezpieczeństwu uczestników przeszukania i osób postronnych.
-2. W razie potrzeby funkcjonariusz informuje służby ratownicze środkach technicznych i chemicznych użytych podczas wykonywania czynności, której mowa w ust. 1.
-§ 20. Z dokonanej czynności przeszukania funkcjonariusz sporządza protokół zgodnie z art. 229 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, z uwzględnieniem informacji użyciu lub wykorzystaniu środków przymusu bezpośredniego.
+2. W razie potrzeby funkcjonariusz informuje służby ratownicze o środkach technicznych i chemicznych użytych podczas wykonywania czynności, o której mowa w ust. 1.
+§ 20. Z dokonanej czynności przeszukania funkcjonariusz sporządza protokół zgodnie z art. 229 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z uwzględnieniem informacji o użyciu lub wykorzystaniu środków przymusu bezpośredniego.
+§ 21. 1. Funkcjonariusz podczas wykonywania czynności operacyjno-rozpoznawczych realizuje uprawnienie do obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom, o którym mowa w art. 23 ust. 1 pkt 6 ustawy, gdy jest to niezbędne do wykonywania zadań określonych w art. 5 ust. 1 ustawy.
 2. Czynność obserwowania i rejestrowania przez funkcjonariusza obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom zarządza Szef ABW lub upoważniony przez niego funkcjonariusz, określając cel, czas i miejsce wykonania czynności.
 3. Czynność obserwowania i rejestrowania obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom przeprowadza się przy użyciu środków technicznych zapewniających niejawne działanie funkcjonariusza.
 § 22. Z przeprowadzonej czynności obserwowania i rejestrowania obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom funkcjonariusz sporządza komunikat, który zawiera w szczególności:
@@ -128,17 +138,19 @@ b) poszukiwanych przedmiotów bądź wskazania miejsca, w którym ukrywa się po
 3) cel i opis przeprowadzonej czynności;
 4) rodzaj użytych środków technicznych;
 5) podpis funkcjonariusza nadzorującego realizację czynności.
-Przepis końcowy § 23. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+§ 23. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowe warunki przeprowadzania i dokumentowania przez funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „funkcjonariuszem”, czynności:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Wydawanie osobom poleceń określonego zachowania się § 6. O wydaniu osobie polecenia określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w art. 23 ust. 1 pkt 2–5a ustawy lub wykonywania innych czynności służbowych podejmowanych w zakresie i w celu:
+#### Rozdział 2 Wydawanie osobom poleceń określonego zachowania się
 
-#### Rozdział 3 Legitymowanie osób § 7. 1. Funkcjonariusz ustala tożsamość osoby legitymowanej na podstawie:
+#### Rozdział 3 Legitymowanie osób
 
-#### Rozdział 4 Zatrzymywanie osób § 11. 1. Funkcjonariusz przy zatrzymywaniu osoby, którym mowa w § 1 pkt 3:
+#### Rozdział 4 Zatrzymywanie osób
 
-#### Rozdział 5 Przeszukanie osób i pomieszczeń § 17. Funkcjonariusz, przystępując do przeszukania, którym mowa w § 1 pkt 4:
+#### Rozdział 5 Przeszukanie osób i pomieszczeń
 
-#### Rozdział 6 Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom § 21. 1. Funkcjonariusz podczas wykonywania czynności operacyjno-rozpoznawczych realizuje uprawnienie do obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom, którym mowa w art. 23 ust. 1 pkt 6 ustawy, gdy jest to niezbędne do wykonywania zadań określonych w art. 5 ust. 1 ustawy.
+#### Rozdział 6 Obserwowanie i rejestrowanie obrazu zdarzeń oraz dźwięku towarzyszącego tym zdarzeniom
+
+#### Rozdział 7 Przepis końcowy
 

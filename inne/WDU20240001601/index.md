@@ -8,10 +8,10 @@ pos: 1601
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 października 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1601 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 października 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001601) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1601/text.pdf) |
 
-Poz. 1601 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 października 2024 r.
-w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Na podstawie art. 34a ust. 4 pkt 2 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291) zarządza się, co następuje: § 1. 1. Rozporządzenie określa szczegółowe warunki oraz tryb udzielania pomocy de minimis w formie gwarancji spłaty kredytów udzielanej przez Bank Gospodarstwa Krajowego, zwanej dalej „pomocą de minimis”, w ramach rządowego programu poręczeniowo-gwarancyjnego, o którym mowa w art. 34a ust. 1 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, w zakresie Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027.
+w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Na podstawie art. 34a ust. 4 pkt 2 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa szczegółowe warunki oraz tryb udzielania pomocy de minimis w formie gwarancji spłaty kredytów udzielanej przez Bank Gospodarstwa Krajowego, zwanej dalej „pomocą de minimis”, w ramach rządowego programu poręczeniowo-gwarancyjnego, o którym mowa w art. 34a ust. 1 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, w zakresie Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027.
 2. Do pomocy de minimis nie stosuje się przepisów rozporządzenia Ministra Finansów z dnia 26 kwietnia 2024 r.
 w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytu lub innego zobowiązania (Dz. U. poz. 664).
 § 2. Ilekroć w rozporządzeniu jest mowa o przedsiębiorcy, należy przez to rozumieć:
@@ -37,7 +37,7 @@ w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formi
 § 4. Pomoc de minimis może zostać udzielona po spełnieniu warunku, o którym mowa w art. 4 ust. 6 lit. a rozporządzenia Komisji.
 § 5. 1. Pomoc de minimis może zostać udzielona pod warunkiem, że łącznie z inną pomocą de minimis oraz pomocą de minimis w rolnictwie lub rybołówstwie, przyznaną z różnych źródeł i w różnych formach, nie przekroczy limitu określonego w art. 3 ust. 2 rozporządzenia Komisji dla jednego przedsiębiorcy w rozumieniu art. 2 ust. 2 rozporządzenia Komisji.
 2. Ekwiwalent dotacji brutto oblicza się w sposób określony w art. 4 ust. 6 lit. b rozporządzenia Komisji.
-Dziennik Ustaw – 2 – Poz. 1601 § 6. Pomoc de minimis można łączyć z inną pomocą zgodnie z art. 5 rozporządzenia Komisji.
+§ 6. Pomoc de minimis można łączyć z inną pomocą zgodnie z art. 5 rozporządzenia Komisji.
 § 7. 1. Gwarancja obejmuje nie więcej niż 80 % pozostającej do spłaty kwoty kredytu.
 2. Gwarancja może obejmować kredyty wchodzące w skład portfela kredytów, stanowiącego zbiór pojedynczych kredytów, dla którego łączną kwotę limitu gwarancji udzielanych na określony czas określa umowa zawarta pomiędzy Bankiem Gospodarstwa Krajowego a bankiem udzielającym kredytu.
 § 8. 1. Gwarancja jest udzielana na wniosek przedsiębiorcy składany do banku udzielającego kredytu.

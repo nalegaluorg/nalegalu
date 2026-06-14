@@ -8,7 +8,7 @@ pos: 1149
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia
@@ -41,7 +41,7 @@ source: "isap-pdf"
 - **2)** ustawa z dnia 20 maja 1971 r. - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia (Dz.U. Nr 12, poz. 117, z 1985 r. Nr 23, poz. 100, z 1991 r. Nr 73, poz. 321 i z 1997 r. Nr 98, poz. 602);
 - **3)** ustawa z dnia 20 maja 1971 r. o ustroju kolegiów do spraw wykroczeń (Dz.U. Nr 12, poz. 118, z 1972 r. Nr 49, poz. 312, z 1974 r. Nr 24, poz. 142, z 1975 r. Nr 16, poz. 91, z 1982 r. Nr 45, poz. 291, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 43, poz. 251, z 1991 r. Nr 32, poz. 131, z 1994 r. Nr 27, poz. 96 i z 1998 r. Nr 113, poz. 717).
 
-§ 3. Pozostają jednak w mocy przepisy ustaw w zakresie, w jakim uprawniają one określone organy do ścigania wykroczeń i występowania w tych sprawach w datu karnego. Organy te uprawnione są także do prowadzenia czynności wyjaśniających, o których mowa w Kodeksie postępowania w sprawach o wykroczenia.
+§ 3. Pozostają jednak w mocy przepisy ustaw w zakresie, w jakim uprawniają one określone organy do ścigania wykroczeń i występowania w tych sprawach w charakterze oskarżyciela publicznego oraz nakładania grzywien w drodze mandatu karnego. Organy te uprawnione są także do prowadzenia czynności wyjaśniających, o których mowa w Kodeksie postępowania w sprawach o wykroczenia.
 
 **Art. 3.**
 
@@ -61,7 +61,7 @@ source: "isap-pdf"
 
 **Art. 5.**
 
-§ 1. W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. z 1971 r. Nr 12, poz. 114, z 1981 r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60, Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz. 504, z 1991 r. Nr 75, poz. 332 i Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29 i Nr 60, poz. 310, z 1997 r. Nr 54, poz. 349, Nr 60, poz. 369, Nr 85, poz. 539, Nr 98, poz. 602, Nr poz. 884 i Nr 141, poz. 942, z 1998 r. Nr 113, poz. 717, z 1999 r. Nr 83, poz. 931 i Nr 101, poz. 1178, z 2000 r. Nr 22, poz. 271, Nr 73, poz. 852, Nr 74, poz. 855 i Nr 117, poz. 1228 oraz z 2001 r. Nr 100, poz. 1081) art. 10 otrzymuje brzmienie: „Art. 10. §1. Jeżeli czyn będący wykroczeniem wyczerpuje zarazem znamiona przestępstwa, orzeka się za przestępstwo i za wykroczenie, z tym że jeżeli orzeczono za przestępstwo i za wykroczenie karę lub środek karny tego samego rodzaju, wykonuje się surowszą karę lub środek karny. W razie uprzedniego wykonania łagodniejszej kary lub środka karnego zalicza się je na poczet surowszych.
+§ 1. W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. z 1971 r. Nr 12, poz. 114, z 1981 r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60, Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz. 504, z 1991 r. Nr 75, poz. 332 i Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29 i Nr 60, poz. 310, z 1997 r. Nr 54, poz. 349, Nr 60, poz. 369, Nr 85, poz. 539, Nr 98, poz. 602, Nr 104, poz. 661, Nr 106, poz. 677, Nr 111, poz. 724, Nr 123, poz. 779, Nr 133, poz. 884 i Nr 141, poz. 942, z 1998 r. Nr 113, poz. 717, z 1999 r. Nr 83, poz. 931 i Nr 101, poz. 1178, z 2000 r. Nr 22, poz. 271, Nr 73, poz. 852, Nr 74, poz. 855 i Nr 117, poz. 1228 oraz z 2001 r. Nr 100, poz. 1081) art. 10 otrzymuje brzmienie: „Art. 10. §1. Jeżeli czyn będący wykroczeniem wyczerpuje zarazem znamiona przestępstwa, orzeka się za przestępstwo i za wykroczenie, z tym że jeżeli orzeczono za przestępstwo i za wykroczenie karę lub środek karny tego samego rodzaju, wykonuje się surowszą karę lub środek karny. W razie uprzedniego wykonania łagodniejszej kary lub środka karnego zalicza się je na poczet surowszych.
 
 § 2. Przy zaliczaniu kar przyjmuje się jeden dzień aresztu za równoważny jednemu dniowi pozbawienia wolności, dwóm dniom ograniczenia wolności oraz grzywnie w kwocie od 20 do 150 złotych.
 
@@ -81,7 +81,8 @@ source: "isap-pdf"
     - **b)** w ust. 4 skreśla się wyrazy „ , a w sprawach o wykroczenia w ruchu drogowym - z zakazem prowadzenia pojazdów mechanicznych i innych pojazdów”;
 
 - **2)** skreśla się art. 136 i 137;
-- **3)** w art. 138 w ust. 3 skreśla się zdanie drugie; „4. Wniosek, o którym mowa w ust. 3, dotyczący komendantów wojewódzkich Policji i ich zastępców lub policjantów pełniących służbę w Komendzie Głównej Policji kieruje się do Komendanta Głównego Policji.”.
+- **3)** w art. 138 w ust. 3 skreśla się zdanie drugie;
+- **4)** w art. 138 dodaje się ust. 4 w brzmieniu: „4. Wniosek, o którym mowa w ust. 3, dotyczący komendantów wojewódzkich Policji i ich zastępców lub policjantów pełniących służbę w Komendzie Głównej Policji kieruje się do Komendanta Głównego Policji.”.
 
 § 4. W ustawie z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa (Dz.U. z 1999 r. Nr 51, poz. 526, Nr 53, poz. 548 i Nr 110, poz. 1255, z 2000 r. Nr 73, poz. 852 oraz z 2001 r. Nr 81, poz. 877) wprowadza się następujące zmiany:
 
@@ -108,7 +109,8 @@ source: "isap-pdf"
 - **1)** w art. 18 w § 1 wyrazy „przez właściwy organ do spraw wykroczeń” zastępuje się wyrazami „do właściwego sądu”;
 - **2)** w art. 101 w § 2 wyraz „sądowym” zastępuje się wyrazem „karnym”;
 - **3)** art. 400 otrzymuje brzmienie: „Art. 400. Jeżeli po rozpoczęciu przewodu sądowego ujawni się, że czyn oskarżonego stanowi wykroczenie, sąd, nie przekazując sprawy właściwemu sądowi, rozpoznaje ją w tym samym składzie, stosując w dalszym jej toku, przepisy Kodeksu postępowania w sprawach o wykroczenia.”;
-- **4)** skreśla się rozdział 54; „Art. 646. W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przepisów o postępowaniu uproszczonym, prywatnoskargowym i nakazowym. Poza tym stosuje się przepisy działów poprzednich, chyba że przepisy działu niniejszego stanowią inaczej.”;
+- **4)** skreśla się rozdział 54;
+- **5)** art. 646 otrzymuje brzmienie: „Art. 646. W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przepisów o postępowaniu uproszczonym, prywatnoskargowym i nakazowym. Poza tym stosuje się przepisy działów poprzednich, chyba że przepisy działu niniejszego stanowią inaczej.”;
 - **6)** skreśla się rozdział 75.
 
 § 8. W ustawie z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks postępowania karnego (Dz.U. Nr 89, poz. 556 i Nr 160, poz. 1083 oraz z 2000 r. Nr 62, poz. 717) skreśla się art. 13.
@@ -130,6 +132,7 @@ source: "isap-pdf"
     - **a)** skreśla się ust. 2,
     - **b)** w ust. 4 skreśla się wyrazy „ , a w sprawach o wykroczenia przeciwko bezpieczeństwu i porządkowi w komunikacji - z zakazem prowadzenia pojazdów”;
 
+- **3)** skreśla się art. 120 i 121;
 - **4)** w art. 122 w ust. 3 skreśla się zdanie drugie.
 
 #### Rozdział 3 Przepisy przejściowe i końcowe

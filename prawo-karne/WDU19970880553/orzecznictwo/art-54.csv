@@ -16,6 +16,7 @@ saos_id|date|court|case_number|type|score|saos_url
 97644|2012-03-28|SN|I KZP 2/12|Postanowienie|69|https://www.saos.org.pl/judgments/97644
 86733|2007-10-18|SN|III KK 236/07|Postanowienie|69|https://www.saos.org.pl/judgments/86733
 84373|2006-06-07|SN|III KK 395/05|Postanowienie|69|https://www.saos.org.pl/judgments/84373
+545380|2026-01-23|SO|II AKa 86/25|Wyrok|56|https://www.saos.org.pl/judgments/545380
 542183|2025-04-30|SO|II AKa 93/25|Wyrok|56|https://www.saos.org.pl/judgments/542183
 534178|2025-02-19|SO|II AKa 478/24|Wyrok|56|https://www.saos.org.pl/judgments/534178
 528634|2025-02-17|SO|II AKa 215/24|Wyrok|56|https://www.saos.org.pl/judgments/528634
@@ -762,6 +763,7 @@ saos_id|date|court|case_number|type|score|saos_url
 3639|2012-12-18|SO|IV Ka 668/12|Wyrok|40|https://www.saos.org.pl/judgments/3639
 349757|2010-11-08|SO|II K 51/09|Wyrok|40|https://www.saos.org.pl/judgments/349757
 36527|2014-02-26|SO|V Kz 58/14|Postanowienie|31|https://www.saos.org.pl/judgments/36527
+545236|2026-04-21|SO|VI Ka 242/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/545236
 542760|2026-02-23|SO|VI Ka 644/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/542760
 543725|2026-02-09|SO|VI Ka 1343/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/543725
 540191|2025-12-19|SO|VI Ka 1110/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/540191

@@ -8,7 +8,7 @@ pos: 788
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 15 czerwca 2011 r.

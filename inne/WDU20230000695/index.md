@@ -8,10 +8,10 @@ pos: 695
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 669955 UMOWA między Rzecząpospolitą Polską a Republiką Indii o wzajemnej pomocy prawnej w sprawach karnych, podpisana w Nowym Delhi dnia 25 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000695) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/695/text.pdf) |
 
-669955 UMOWA między Rzecząpospolitą Polską a Republiką Indii o wzajemnej pomocy prawnej w sprawach karnych, podpisana w Nowym Delhi dnia 25 kwietnia 2022 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 25 kwietnia 2022 roku w Nowym Delhi została podpisana Umowa między Rzecząpospolitą Polską a Republiką Indii o wzajemnej pomocy prawnej w sprawach karnych, w następującym brzmieniu: Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 25 kwietnia 2022 roku w Nowym Delhi została podpisana Umowa między Rzecząpospolitą Polską a Republiką Indii o wzajemnej pomocy prawnej w sprawach karnych, w następującym brzmieniu: Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie, dnia 21 grudnia 2022 roku.
 Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.
+Prezes Rady Ministrów: M. Morawiecki
 

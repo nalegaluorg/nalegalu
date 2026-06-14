@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 9 kwietnia 2010 r. o Służbie Więziennej*
 
 Łącznie: **134** orzeczeń
-(pominięto 191 orzeczeń sądów rejonowych)
+(pominięto 193 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 

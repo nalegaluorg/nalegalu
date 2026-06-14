@@ -8,10 +8,10 @@ pos: 400
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 400 UmowA między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Chorwacji o współpracy w zwalczaniu przestępczości, podpisana w Dubrowniku dnia 9 lipca 2010 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/400/text.pdf) |
 
-UmowA między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Chorwacji o współpracy w zwalczaniu przestępczości, podpisana w Dubrowniku dnia 9 lipca 2010 r.
-W imieniu Rzeczypospolitej Polskiej PRezyDent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 9 lipca 2010 r. w Dubrowniku została podpisana Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Chorwacji o współpracy w zwalczaniu przestępczości, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PRezyDent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 9 lipca 2010 r. w Dubrowniku została podpisana Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Chorwacji o współpracy w zwalczaniu przestępczości, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 5 grudnia 2014 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.
+Prezes Rady Ministrów: E. Kopacz
 

@@ -8,7 +8,7 @@ pos: 1285
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o konsumenckiej pożyczce lombardowej
@@ -33,6 +33,13 @@ Art. 51–56. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady udzielania konsumenckiej pożyczki lombardowej, w tym:
+    - **a)** zawierania umowy konsumenckiej pożyczki lombardowej oraz umowy sprzedaży przedmiotu zabezpieczenia lombardowego,
+    - **b)** prawa i obowiązki konsumenta oraz przedsiębiorcy wykonującego działalność lombardową związane z udzielaniem konsumenckiej pożyczki lombardowej;
+
+- **2)** zasady wykonywania działalności lombardowej;
+- **3)** skutki uchybienia obowiązkom przez przedsiębiorców wykonujących działalność lombardową.
+
 **Art. 2.**
 
 1. (uchylony)
@@ -40,6 +47,27 @@ Art. 51–56. (pominięte)
 2. Przepisów ustawy nie stosuje się do banków, oddziałów banków zagranicznych oraz spółdzielczych kas oszczędnościowo-kredytowych.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** całkowita kwota do spłaty – sumę kwoty konsumenckiej pożyczki lombardowej i całkowitego kosztu konsumenckiej pożyczki lombardowej;
+- **2)** całkowity koszt konsumenckiej pożyczki lombardowej – wszelkie koszty, które konsument jest obowiązany ponieść w związku z umową konsumenckiej pożyczki lombardowej, obejmujące:
+    - **a)** odsetki,
+    - **b)** pozaodsetkowe koszty umowy konsumenckiej pożyczki lombardowej, w szczególności: – opłaty, prowizje, podatki i marże, – koszty usług dodatkowych, w szczególności koszty przechowania przedmiotu zabezpieczenia lombardowego lub ubezpieczeń;
+
+- **3)** konsument – konsumenta w rozumieniu art. 22 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933 oraz z 2024 r. poz. 653);
+- **4)** kwota konsumenckiej pożyczki lombardowej – maksymalną kwotę wszystkich środków pieniężnych, nieobejmujących kwot przeznaczanych na pokrycie kosztów udzielanej konsumenckiej pożyczki lombardowej, które przedsiębiorca udzielający tej pożyczki oddaje do dyspozycji konsumentowi na podstawie umowy konsumenckiej pożyczki lombardowej;
+- **5)** nadwyżka – różnicę pomiędzy kwotą uzyskaną ze sprzedaży przedmiotu zabezpieczenia lombardowego a niezapłaconą przez konsumenta przed wymaganym terminem:
+    - **a)** całkowitą kwotą do spłaty albo
+    - **b)** częścią całkowitej kwoty do spłaty − w przypadku częściowej spłaty całkowitej kwoty do spłaty;
+
+- **6)** okres spłaty – okres od dnia wypłaty konsumentowi kwoty konsumenckiej pożyczki lombardowej do dnia określonego w umowie konsumenckiej pożyczki lombardowej albo ustalonego zgodnie z art. 16 ust. 2 terminu zapłaty przez konsumenta całkowitej kwoty do spłaty;
+- **7)** trwały nośnik – trwały nośnik w rozumieniu art. 2 pkt 4 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2023 r. poz. 2759);
+- **8)** umowa konsumenckiej pożyczki lombardowej – umowę, na podstawie której przedsiębiorca zobowiązuje się oddać do dyspozycji konsumenta środki pieniężne, a konsument zobowiązuje się do zapłaty całkowitej kwoty do spłaty w oznaczonym terminie oraz do ustanowienia zabezpieczenia lombardowego;
+- **9)** umowa konsumenckiej pożyczki lombardowej zawierana na odległość – umowę konsumenckiej pożyczki lombardowej zawieraną bez jednoczesnej fizycznej obecności obu stron, z wyłącznym wykorzystaniem jednego lub większej liczby środków porozumiewania się na odległość do chwili zawarcia umowy konsumenckiej pożyczki lombardowej włącznie;
+- **10)** zabezpieczenie lombardowe – zabezpieczenie wykonania umowy konsumenckiej pożyczki lombardowej polegające na ograniczeniu prawa do dysponowania przedmiotem zabezpieczenia lombardowego przez konsumenta, w szczególności przez:
+    - **a)** przeniesienie przez konsumenta własności przedmiotu zabezpieczenia lombardowego na przedsiębiorcę zawierającego tę umowę,
+    - **b)** zobowiązanie konsumenta do przeniesienia własności przedmiotu zabezpieczenia lombardowego na przedsiębiorcę zawierającego tę umowę – w przypadku braku zapłaty całkowitej kwoty do spłaty w terminie,
+    - **c)** upoważnienie przedsiębiorcy zawierającego tę umowę do sprzedaży przedmiotu zabezpieczenia lombardowego – w przypadku braku zapłaty całkowitej kwoty do spłaty w terminie,
+    - **d)** ustanowienie zastawu na rzecz przedsiębiorcy zawierającego tę umowę.
 
 **Art. 4.** Zawieranie umów konsumenckiej pożyczki lombardowej lub sprzedaż przedmiotu zabezpieczenia lombardowego mogą być dokonywane wyłącznie przez przedsiębiorców wykonujących działalność lombardową.
 

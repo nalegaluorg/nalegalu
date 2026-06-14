@@ -8,7 +8,7 @@ pos: 693
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych Uznając szczególne zasługi dla Polski tych jej obywateli, którzy w latach 1956– 1989 z narażeniem własnego życia, wolności, majątku lub praw pracowniczych angażowali się w działalność antykomunistyczną zmierzającą do odzyskania suwerenności i niepodległości Ojczyzny lub byli z tych powodów represjonowani, uchwala się, co następuje:
@@ -29,6 +29,12 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zasady nabywania statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych;
+- **2)** zasady wydawania legitymacji i nadawania odznaki honorowej działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych;
+- **3)** zasady przyznawania świadczenia pieniężnego, pomocy pieniężnej i świadczenia wyrównawczego działaczom opozycji antykomunistycznej lub osobom represjonowanym z powodów politycznych;
+- **4)** inne niż wymienione w pkt 2 i 3 uprawnienia działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych;
+- **5)** zadania, organizację i zasady działania wojewódzkich rad konsultacyjnych do spraw działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych.
+
 **Art. 2.**
 
 1. Działaczem opozycji antykomunistycznej jest osoba, która w okresie od dnia 1 stycznia 1956 r. do dnia 4 czerwca 1989 r., łącznie przez co najmniej 12 miesięcy prowadziła, w ramach struktur zorganizowanych lub we współpracy z nimi, zagrożoną odpowiedzialnością karną, działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce.
@@ -36,6 +42,21 @@ source: "isap-pdf"
 2. Do okresu 12 miesięcy, o którym mowa w ust. 1, nie wlicza się okresów działalności w ramach niezależnego ruchu związkowego lub niezależnego ruchu studenckiego, prowadzonej w okresie od dnia 31 sierpnia 1980 r. do dnia 12 grudnia 1981 r.
 
 **Art. 3.** Osobą represjonowaną z powodów politycznych jest osoba, która w okresie od dnia 1 stycznia 1956 r. do dnia 31 lipca 1990 r.:
+
+- **1)** przebywała w: 178 oraz z 2011 r. poz. 342) za działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce;
+    - **a)** więzieniu lub innym miejscu odosobnienia na terytorium Polski na mocy wyroku wydanego w latach 1956–1989 albo bez wyroku jednorazowo przez okres dłuższy niż 48 godzin lub wielokrotnie przez łączny okres dłuższy niż 30 dni, za działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce,
+    - **b)** ośrodku odosobnienia na podstawie art. 42 dekretu z dnia 12 grudnia 1981 r. o stanie wojennym (Dz. U. poz. 154, z 1982 r. poz. 18, z 1989 r. poz.
+
+- **2)** przez okres powyżej 30 dni pełniła zasadniczą służbę wojskową lub czynną służbę wojskową w ramach ćwiczeń wojskowych, do której odbycia została powołana z przyczyn politycznych za działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce;
+- **3)** brała udział w wystąpieniu wolnościowym na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce i w związku z tym:
+    - **a)** na skutek działania, w tym niejawnego, wojska, milicji lub organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), zwanych dalej „organami bezpieczeństwa państwa”, poniosła śmierć, doznała uszkodzenia ciała lub rozstroju zdrowia na okres dłuższy niż 7 dni,
+    - **b)** była inwigilowana przez organy bezpieczeństwa państwa i podjęto wobec niej bezprawne działanie polegające na popełnieniu na jej szkodę przestępstwa lub wykroczenia,
+    - **c)** była pozbawiona możliwości wykonywania swojego zawodu,
+    - **d)** została z nią rozwiązana umowa o pracę,
+    - **e)** została relegowana z uczelni wyższej lub innej szkoły,
+    - **f)** była objęta zakazem publikacji przez Główny Urząd Kontroli Prasy, Publikacji i Widowisk, wojewódzki lub miejski urząd kontroli prasy, publikacji i widowisk albo Główny Urząd Kontroli Publikacji i Widowisk lub okręgowy urząd kontroli publikacji i widowisk przez okres dłuższy niż jeden rok;
+
+- **4)** była poszukiwana listem gończym, oskarżona lub skazana za popełnienie przestępstwa, lub wielokrotnie skazywana za popełnienie wykroczenia, lub orzeczono wobec niej postanowieniem sądu dla nieletnich albo postanowieniem sądu rodzinnego zastosowanie środka poprawczego lub środka wychowawczego, za działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce.
 
 **Art. 4.**
 

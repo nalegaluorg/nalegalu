@@ -8,10 +8,10 @@ pos: 1399
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1399 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001399) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1399/text.pdf) |
 
-Poz. 1399 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 września 2024 r.
-zmieniające rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług Na podstawie art. 146ej ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów z dnia 9 grudnia 2023 r. w sprawie obniżonych stawek podatku od towarów i usług (Dz. U. poz. 2670 oraz z 2024 r. poz. 387 i 1381) po § 10a dodaje się § 10b w brzmieniu: „§ 10b. 1. Do dnia 31 marca 2025 r. obniżoną do wysokości 0 % stawkę podatku stosuje się do dostawy towarów, o której mowa w art. 7 ust. 2 pkt 2 ustawy, której przedmiotem są materiały budowlane, na rzecz:
+zmieniające rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług Na podstawie art. 146ej ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Finansów z dnia 9 grudnia 2023 r. w sprawie obniżonych stawek podatku od towarów i usług (Dz. U. poz. 2670 oraz z 2024 r. poz. 387 i 1381) po § 10a dodaje się § 10b w brzmieniu: „§ 10b. 1. Do dnia 31 marca 2025 r. obniżoną do wysokości 0 % stawkę podatku stosuje się do dostawy towarów, o której mowa w art. 7 ust. 2 pkt 2 ustawy, której przedmiotem są materiały budowlane, na rzecz:
 1) osób fizycznych,
 2) podmiotów prowadzących działalność edukacyjną, kulturalną, w zakresie ochrony zdrowia, opieki nad dziećmi, młodzieżą oraz osobami w podeszłym wieku, zbiorowego zakwaterowania uczniów i studentów, jak również jednostek organizacyjnych pomocy społecznej oraz innych podmiotów prowadzących działalność w obszarze pomocy społecznej – posiadających prawo do dysponowania nieruchomością na cele budowlane w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834 i 1222), w której w wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r. powstała szkoda i która jest położona na terenie gminy określonej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654).
 2. Obniżoną stawkę podatku, o której mowa w ust. 1, stosuje się pod warunkiem:

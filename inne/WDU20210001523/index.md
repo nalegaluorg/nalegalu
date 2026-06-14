@@ -8,10 +8,10 @@ pos: 1523
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1523 Zmiana ZałącZnika do Umowy między państwami członkowskimi Unii Europejskiej, zebranymi w Radzie, w sprawie ochrony informacji niejawnych wymienianych w interesie Unii Europejskiej, sporządzonej w Brukseli dnia 25 maja 2011 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2021-08-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001523) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1523/text.pdf) |
-
-Zmiana ZałącZnika do Umowy między państwami członkowskimi Unii Europejskiej, zebranymi w Radzie, w sprawie ochrony informacji niejawnych wymienianych w interesie Unii Europejskiej, sporządzonej w Brukseli dnia 25 maja 2011 r.
 

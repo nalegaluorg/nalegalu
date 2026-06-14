@@ -8,10 +8,10 @@ pos: 2291
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22229911 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 9 listopada 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2291/text.pdf) |
 
-22229911 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 9 listopada 2022 r.
-w sprawie kontroli korzystania z dostępu do danych zgromadzonych w Rejestrze Dokumentów Paszportowych Na podstawie art. 92 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 583) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie kontroli korzystania z dostępu do danych zgromadzonych w Rejestrze Dokumentów Paszportowych Na podstawie art. 92 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb przeprowadzania kontroli, o której mowa w art. 91 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych, zwanej dalej „ustawą”;
 2) wzór upoważnienia do przeprowadzania kontroli;
 3) wzór protokołu kontroli.
@@ -37,26 +37,26 @@ w sprawie kontroli korzystania z dostępu do danych zgromadzonych w Rejestrze Do
 3. Roczny plan kontroli określa:
 1) zakres przedmiotowy kontroli;
 2) nazwę podmiotu kontrolowanego;
-3) przewidywany termin wszczęcia zakończenia kontroli.
+3) przewidywany termin wszczęcia i zakończenia kontroli.
 § 4. 1. Minister wyznacza zespół kontrolny, w którego skład wchodzą co najmniej dwie osoby, o których mowa w art. 91 ust. 3 ustawy, zwane dalej „kontrolującymi”, wskazując spośród nich kierownika zespołu kontrolnego.
 2. Kontrolujący składają ministrowi oświadczenie na piśmie o braku albo istnieniu okoliczności uzasadniających wyłączenie od udziału w kontroli.
 3. Wzór upoważnienia do przeprowadzania kontroli określa załącznik nr 1 do rozporządzenia.
-§ 5. 1. Kontrolujący dokumentują przebieg wyniki czynności kontrolnych, zakładając prowadząc w tym celu akta kontroli, które obejmują:
-1) wykaz ich zawartości, z wymienieniem nazw dokumentów wskazaniem odpowiednich stron;
+§ 5. 1. Kontrolujący dokumentują przebieg i wyniki czynności kontrolnych, zakładając i prowadząc w tym celu akta kontroli, które obejmują:
+1) wykaz ich zawartości, z wymienieniem nazw dokumentów i wskazaniem odpowiednich stron;
 2) uwierzytelnione kopie dokumentów potwierdzających uprawnienie do przetwarzania danych przekazanych w celu weryfikacji;
 3) sporządzone na piśmie stanowisko ministra, o którym mowa w § 7 ust. 4;
 4) inne dokumenty związane z przedmiotem kontroli.
 2. Akta kontroli służą wyłącznie do użytku służbowego.
 3. Akta kontroli mogą być prowadzone w postaci elektronicznej.
 § 6. 1. Kontrolujący sporządzają protokół z przeprowadzonej kontroli, który zawiera opis stanu faktycznego stwierdzonego w toku kontroli, w tym ujawnione nieprawidłowości, z uwzględnieniem przyczyn ich powstania, zakresu, skutków oraz osób za nie odpowiedzialnych.
-2. Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach, po jednym dla kierownika podmiotu kontrolowanego ministra.
+2. Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach, po jednym dla kierownika podmiotu kontrolowanego i ministra.
 3. Wzór protokołu kontroli określa załącznik nr 2 do rozporządzenia.
 4. W przypadku prowadzenia akt kontroli w postaci elektronicznej przepisu ust. 2 nie stosuje się.
-§ 7. 1. Po zakończeniu czynności kontrolnych protokół kontroli podpisują kontrolujący przekazują protokół kierownikowi podmiotu kontrolowanego, a w przypadku nieobecności kierownika osobie pełniącej jego obowiązki, wyznaczając jednocześnie termin 10 dni roboczych od dnia otrzymania protokołu kontroli do złożenia podpisu zwrotu podpisanego protokołu kontroli kontrolującym albo wniesienia do niego umotywowanych zastrzeżeń.
+§ 7. 1. Po zakończeniu czynności kontrolnych protokół kontroli podpisują kontrolujący i przekazują protokół kierownikowi podmiotu kontrolowanego, a w przypadku nieobecności kierownika – osobie pełniącej jego obowiązki, wyznaczając jednocześnie termin 10 dni roboczych od dnia otrzymania protokołu kontroli do złożenia podpisu i zwrotu podpisanego protokołu kontroli kontrolującym albo wniesienia do niego umotywowanych zastrzeżeń.
 2. W przypadku wniesienia zastrzeżeń na piśmie do protokołu kontroli kontrolujący dokonują ich analizy i, w miarę potrzeby, podejmują dodatkowe czynności kontrolne.
 3. W przypadku stwierdzenia zasadności zastrzeżeń kontrolujący zmieniają lub uzupełniają odpowiednią część protokołu kontroli.
 4. W przypadku nieuwzględnienia zastrzeżeń w całości albo w części kierownik zespołu kontrolnego uzupełnia protokół kontroli o stanowisko ministra, w którym są wskazane przyczyny nieuwzględnienia zastrzeżeń.
-5. Zmieniony lub uzupełniony w wyniku czynności, o których mowa w ust. 3, protokół kontroli bądź protokół kontroli wraz ze stanowiskiem, o którym mowa w ust. 4, kontrolujący niezwłocznie przekazują kierownikowi podmiotu kontrolowanego albo osobie pełniącej jego obowiązki w celu jego podpisania zwrotu podpisanego protokołu kontroli kontrolującym, w terminie, o którym mowa w ust. 1.
+5. Zmieniony lub uzupełniony w wyniku czynności, o których mowa w ust. 3, protokół kontroli bądź protokół kontroli wraz ze stanowiskiem, o którym mowa w ust. 4, kontrolujący niezwłocznie przekazują kierownikowi podmiotu kontrolowanego albo osobie pełniącej jego obowiązki w celu jego podpisania i zwrotu podpisanego protokołu kontroli kontrolującym, w terminie, o którym mowa w ust. 1.
 6. Kierownik podmiotu kontrolowanego albo osoba pełniąca jego obowiązki może odmówić podpisania protokołu kontroli, składając ministrowi wyjaśnienie odmowy na piśmie, w terminie 10 dni roboczych od dnia otrzymania protokołu kontroli. O odmowie podpisania protokołu kontroli kontrolujący czynią wzmiankę w protokole.
 7. Odmowa podpisania protokołu kontroli przez kierownika podmiotu kontrolowanego albo osobę pełniącą jego obowiązki nie stanowi przeszkody do wystąpienia do ministra z wnioskiem, o którym mowa w § 8.
 8. W przypadku prowadzenia akt kontroli w postaci elektronicznej protokół kontroli podpisuje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.

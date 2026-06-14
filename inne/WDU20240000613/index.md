@@ -8,10 +8,10 @@ pos: 613
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 kwietnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 613 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 11 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/613/text.pdf) |
 
-Poz. 613 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 11 kwietnia 2024 r.
-w sprawie sposobu przesyłania, utrwalonego w postaci elektronicznej, pełnomocnictwa ogólnego, pełnomocnictwa szczególnego oraz pełnomocnictwa do doręczeń Na podstawie art. 138j § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) zarządza się, co następuje: § 1. 1. Pełnomocnictwo ogólne, utrwalone w postaci elektronicznej, jest przesyłane za pośrednictwem:
+w sprawie sposobu przesyłania, utrwalonego w postaci elektronicznej, pełnomocnictwa ogólnego, pełnomocnictwa szczególnego oraz pełnomocnictwa do doręczeń Na podstawie art. 138j § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) zarządza się, co następuje:
+§ 1. 1. Pełnomocnictwo ogólne, utrwalone w postaci elektronicznej, jest przesyłane za pośrednictwem:
 1) portalu podatkowego – przez mocodawcę, pełnomocnika będącego adwokatem, radcą prawnym, doradcą podatkowym oraz osobę sprawującą opiekę nad osobą, która nie może się podpisać;
 2) dedykowanego systemu teleinformatycznego Szefa Krajowej Administracji Skarbowej – przez organy podatkowe.
 2. Pełnomocnictwo szczególne oraz pełnomocnictwo do doręczeń, utrwalone w postaci elektronicznej, są przesyłane do organu podatkowego właściwego w sprawie, której to pełnomocnictwo dotyczy:

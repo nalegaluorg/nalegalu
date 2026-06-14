@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi*
 
 Łącznie: **105** orzeczeń
-(pominięto 255 orzeczeń sądów rejonowych)
+(pominięto 259 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

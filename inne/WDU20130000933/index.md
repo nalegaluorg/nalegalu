@@ -8,10 +8,10 @@ pos: 933
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 16 sierpnia 2013 OBWIESZCZENIE PREZESA RADY MINISTRÓW 6 maja 2013 sprawie ogłoszenia jednolitego tekstu rozporządzenia sprawie rejestru prowadzonego przez Główną Sprawach Naruszenie Dyscypliny Finansów Publicznych I. Na podstawie art. 16 ust. 3 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2011 Nr 197, poz. 1172 Nr 232, poz. 1378) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 5 lipca 2005 sprawie rejestru prowadzonego przez Główną Sprawach Naruszenie Dyscypliny Finansów Publicznych (Dz. U. Nr 136, poz. 1144), uwzględnieniem zmian wprowadzonych rozporządzeniem 3 lutego 2012 zmieniającym rozporządzenie sprawie rejestru prowadzonego przez Główną Sprawach Naruszenie Dyscypliny Finansów Publicznych (Dz. U. poz. 155).
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 933 OBWIESZCZENIE PREZESA RADY MINISTRÓW dnia 6 maja 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,38 +25,52 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000933) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/933/text.pdf) |
 
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje $ 2 rozporządzenia 3 lutego 2012 zmieniającego rozporządzenie sprawie rejestru prowadzonego przez Główną Sprawach Naruszenie Dyscypliny Finansów Publicznych (Dz. U. poz. 155), który stanowi: „A 2. Rozporządzenie wchodzi życie dniem 11 lutego 2012 r.”.
-Prezes Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW 5 lipca 2005 sprawie rejestru prowadzonego przez Główną Sprawach Naruszenie Dyscypliny Finansów Publicznych Na podstawie art. 191 ust. 2 17 grudnia 2004 odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. 2013 poz. 168 oraz 2012 poz. 1529) zarządza się, co następuje: $ 1. Rozporządzenie określa:
-1) wzór formularza zgłoszenia osoby podlegającej wpisowi rejestru prowadzonego przez Główną Sprawach Naruszenie Dyscypliny Finansów Publicznych, zwaną dalej „Główną Komisją Orzekającą”;
-2) sposób tryb zasięgania informacji rejestru prowadzonego przez Główną Orzekającą;
-3) wzór pisemnego zapytania informacje rejestru prowadzonego przez Główną oraz wzór odpowiedzi to zapytanie.
-$ 2. Ilekroć rozporządzeniu jest mowa o: |) ustawie — należy przez to rozumieć ustawę 17 grudnia 2004 odpowiedzialności za naruszenie dyscypliny finansów publicznych;
-2) przewodniczącym komisji orzekającej — należy przez to rozumieć przewodniczącego komisji orzekającej sprawach naruszenie dyscypliny finansów publicznych, której mowa art. 42 ust. I ustawy;
-3) Przewodniczącym Głównej Komisji Orzekającej — należy przez to rozumieć Przewodniczącego Głównej Komisji Orzekającej Sprawach Naruszenie Dyscypliny Finansów Publicznych, której mowa art. 42 ust. 2 ustawy;
-4) rejestrze — należy przez to rozumieć rejestr prowadzony przez Główną Orzekającą, którym mowa art. 188 $ 3. 1. Wzór formularza zgłoszenia osoby podlegającej wpisowi rejestru stanowi załącznik nr 1 rozporządzenia.
-Zgłoszenie osoby podlegającej wpisowi rejestru przekazuje przewodniczący komisji orzekającej wraz prawomocnym orzeczeniem, którym mowa art. 188 ustawy.
-2. W przypadku wystąpienia niedających się usunąć rozbieżności między treścią orzeczenia a zgłoszeniem osoby podlegającej wpisowi rejestru Przewodniczący Głównej Komisji Orzekającej zwraca je celu usunięcia rozbieżności ponownego przekazania zgłoszenia.
-3. Orzeczenie odpowiedzialności za naruszenie dyscypliny finansów publicznych oraz formularz zgłoszenia osoby podlegającej wpisowi rejestru Przewodniczący Głównej Komisji Orzekającej przechowuje czasu usunięcia wpisu rejestru.
-$ 4. 1. Informacje zawarte rejestrze udostępnia się wyłącznie osobom podmiotom, wymienionym art. 191 ust. I ustawy, podstawie pisemnego zapytania.
-2. Wzór pisemnego zapytania informacje rejestru oraz odpowiedzi to zapytanie stanowi załącznik nr 2 rozporządzenia.
-Przewodniczący Głównej Komisji Orzekającej zwraca się składającego zapytanie jego uzupełnienie. Termin udzielenia odpowiedzi biegnie takim przypadku od uzupełnienia zapytania.
-$ 6. 1. Odpowiedź zapytanie podpisuje Przewodniczący Głównej Komisji Orzekającej lub osoba przez niego upoważniona.
-2. Przewodniczący Głównej Komisji Orzekającej przechowuje zapytania skierowane rejestru oraz kopie udzielonych nie odpowiedzi, przez okres 3 lat, licząc od końca roku, którym udzielono odpowiedzi, a następnie niszczy je zgodnie przepisami 14 lipca 1983 narodowym zasobie archiwalnym archiwach (Dz. U. 2011 Nr 123, poz. 698 1 Nr 171, poz. 1016).
-$ 7. 1. Odpowiedź zapytanie przesyłana jest pocztą jako przesyłka polecona albo odbierana osobiście przez składającego zapytanie lub osobę przez niego upoważnioną odbioru, podstawie dokumentu stwierdzającego tożsamość tych osób.
-2. Odpowiedź nieodebraną terminie, którym mowa $ 5 ust. 1, przesyła się pocztą.
-$ 8. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia”.
-DW brzmieniu ustalonym przez $ I pkt I rozporządzenia 3 lutego 2012 zmieniającego rozporządzenie spraPrzewodniczący Głównej Komisji Orzekającej Sprawach Naruszenie Dyscypliny Finansów Publicznych ul. Świętokrzyska 12 00-916 Warszawa
-1. Nazwisko osoby podlegającej WICAWKOSGCIUNNNNNNA
-2. Imię:
-3. Imiona rodziców: OJCIEC: Lua ueaa aaa aaa aaa aaa aaa aaa naka aaa aa nia ka kai aa nika niania ian iiA CU CHOTO
-4. Data miejsce urodzenia: dzień ........ miesiąc ......aa.a aeaa aaae aaa aeaa aaaa aaaiiiaaa TOK ..........22211221.
-miejsce urodzenia: ......-..eeeeeeae aaa aaa aaa aaa aaa aaa aaa a area aaa a narnii a
-5. Rodzaj numer dokumentu WO ZYECOO J YZZWOSSNNNW KE
-6. Numer PESEL:
-7. Adres zamieszkania: MIEJSCOWOŚĆ: ... uuu eee eee aaa aa aaa aaa aaa aaa aaa aaa raza aaa iA powiat/dzielnica: .........eueea aaa aaa aaa aaa aaa aaa aaa aaa aaa rania ca nr kodu pocztowego: .........uueae ea aaa aaa aaa aaa aaa aaa aaa anawa aaa aan ia LION nr domu ......... M. ........
-8. Nazwa komisji orzekającej, IGO ENACEGKOYZSZJUCJNW KONAR
-9. Sygnatura akt orzeczenia: data wydania orzeczenia: .......ee.e a.aa. aeaa eaaa. aaae aaa ewrazeenie ea wicca
-10. Określenie orzeczonej kary lub informacja odstąpieniu od | CT ENO OOAE wymierzenia kary: data rozpoczęcia wykonywania kary*: .........aaea aaea aaaa aaa naae aa waan aaian aa data zatarcia ukarania: ......... eee ea a aaa aaa aaa aaa aaa aaa aaa aaa raza ii iaca Przewodniczący Głównej Komisji Orzekającej Sprawach Naruszenie Dyscypliny Finansów Publicznych ul. Świętokrzyska 12 00-916 Warszawa Odpowiedź zapytanie proszę przekazać mi pocztą.* Odpowiedź zapytanie odbiorę osobiście.* Do osobistego odbioru odpowiedzi zapytanie upoważniam**: Imię nazwisko osoby upoważnionej: Rodzaj numer dokumentu stwierdzającego tożsamość:
-2. Zapytanie udzielenie informacji, czy rejestrze prowadzonym przez Główną figuruje nazwisko: numer PESEL:
-3. Informuję, że osoba wymieniona pkt 2 zapytania: B. figuruje rejestrze.* Orzeczenie wydała: DZCUIEKI OE Data rozpoczęcia wykonywania kary**: .........-eeeeee ee-n eaeaeae aan ase eawaneeeć Określenie orzeczonej kary lub informacja odstąpieniu od wymierzemia katy | auueeez eee eee aaa aaa aaa aaa aaaa aaa aaa a aaa aaa taaa zaa za zza a zaraz zet arta rt ttr rez rei ieć
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie rejestru prowadzonego przez Główną Komisję Orzekającą w Sprawach o Naruszenie Dyscypliny Finansów Publicznych
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 5 lipca 2005 r. w sprawie rejestru prowadzonego przez Główną Komisję Orzekającą w Sprawach o Naruszenie Dyscypliny Finansów Publicznych (Dz. U. Nr 136, poz. 1144), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 3 lutego 2012 r. zmieniającym rozporządzenie w sprawie rejestru prowadzonego przez Główną Komisję Orzekającą w Sprawach o Naruszenie Dyscypliny Finansów Publicznych (Dz. U. poz. 155).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 3 lutego 2012 r. zmieniającego rozporządzenie w sprawie rejestru prowadzonego przez Główną Komisję Orzekającą w Sprawach o Naruszenie Dyscypliny Finansów Publicznych (Dz. U. poz. 155), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 11 lutego 2012 r.”.
+Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW z dnia 5 lipca 2005 r.
+w sprawie rejestru prowadzonego przez Główną Komisję Orzekającą w Sprawach o Naruszenie Dyscypliny Finansów Publicznych Na podstawie art. 191 ust. 2 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2013 r. poz. 168 oraz z 2012 r. poz. 1529) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) wzór formularza zgłoszenia osoby podlegającej wpisowi do rejestru prowadzonego przez Główną Komisję Orzekającą w Sprawach o Naruszenie Dyscypliny Finansów Publicznych, zwaną dalej „Główną Komisją Orzekającą”;
+2) sposób i tryb zasięgania informacji z rejestru prowadzonego przez Główną Komisję Orzekającą;
+3) wzór pisemnego zapytania o informacje z rejestru prowadzonego przez Główną Komisję Orzekającą oraz wzór odpowiedzi na to zapytanie.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) ustawie – należy przez to rozumieć ustawę z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych;
+2) przewodniczącym komisji orzekającej – należy przez to rozumieć przewodniczącego komisji orzekającej w sprawach o naruszenie dyscypliny finansów publicznych, o której mowa w art. 42 ust. 1 ustawy;
+3) Przewodniczącym Głównej Komisji Orzekającej – należy przez to rozumieć Przewodniczącego Głównej Komisji Orzekającej w Sprawach o Naruszenie Dyscypliny Finansów Publicznych, o której mowa w art. 42 ust. 2 ustawy;
+4) rejestrze – należy przez to rozumieć rejestr prowadzony przez Główną Komisję Orzekającą, o którym mowa w art. 188 ustawy.
+§ 3. 1. Wzór formularza zgłoszenia osoby podlegającej wpisowi do rejestru stanowi załącznik nr 1 do rozporządzenia.
+Zgłoszenie osoby podlegającej wpisowi do rejestru przekazuje przewodniczący komisji orzekającej wraz z prawomocnym orzeczeniem, o którym mowa w art. 188 ustawy.
+2. W przypadku wystąpienia niedających się usunąć rozbieżności między treścią orzeczenia a zgłoszeniem osoby podlegającej wpisowi do rejestru Przewodniczący Głównej Komisji Orzekającej zwraca je w celu usunięcia rozbieżności i ponownego przekazania zgłoszenia.
+3. Orzeczenie o odpowiedzialności za naruszenie dyscypliny finansów publicznych oraz formularz zgłoszenia osoby podlegającej wpisowi do rejestru Przewodniczący Głównej Komisji Orzekającej przechowuje do czasu usunięcia wpisu z rejestru.
+§ 4. 1. Informacje zawarte w rejestrze udostępnia się wyłącznie osobom i podmiotom, wymienionym w art. 191 ust. 1 ustawy, na podstawie pisemnego zapytania.
+2. Wzór pisemnego zapytania o informacje z rejestru oraz odpowiedzi na to zapytanie stanowi załącznik nr 2 do rozporządzenia.
+3. Zapytanie składa się w dwóch egzemplarzach.
+4. Zapytanie przesyła się pocztą jako przesyłkę poleconą albo przekazuje Przewodniczącemu Głównej Komisji Orzekającej przez składającego zapytanie lub osobę przez niego upoważnioną.
+§ 5. 1. Odpowiedzi na zapytanie kierowane do rejestru udziela się nie później niż w terminie 21 dni od dnia, w którym zapytanie wpłynęło do Przewodniczącego Głównej Komisji Orzekającej, z zastrzeżeniem § 7 ust. 2.
+2. W przypadku stwierdzenia, że zawarte w zapytaniu dane osoby, której ono dotyczy, są niepełne lub zawierają błąd, Przewodniczący Głównej Komisji Orzekającej zwraca się do składającego zapytanie o jego uzupełnienie. Termin udzielenia odpowiedzi biegnie w takim przypadku od dnia uzupełnienia zapytania.
+§ 6. 1. Odpowiedź na zapytanie podpisuje Przewodniczący Głównej Komisji Orzekającej lub osoba przez niego upoważniona.
+2. Przewodniczący Głównej Komisji Orzekającej przechowuje zapytania skierowane do rejestru oraz kopie udzielonych na nie odpowiedzi, przez okres 3 lat, licząc od końca roku, w którym udzielono odpowiedzi, a następnie niszczy je zgodnie z przepisami ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016).
+§ 7. 1. Odpowiedź na zapytanie przesyłana jest pocztą jako przesyłka polecona albo odbierana osobiście przez składającego zapytanie lub osobę przez niego upoważnioną do odbioru, na podstawie dokumentu stwierdzającego tożsamość tych osób.
+2. Odpowiedź nieodebraną w terminie, o którym mowa w § 5 ust. 1, przesyła się pocztą.
+§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+WZÓR WZÓR Przewodniczący Głównej Komisji Orzekającej w Sprawach o Naruszenie Dyscypliny Finansów Publicznych ul. Świętokrzyska 12 00-916 Warszawa
+1. Nazwisko osoby podlegającej wpisowi do rejestru: ……………………………………………………………………………………
+2. Imię: ……………………………………………………………………………………
+3. Imiona rodziców: ojciec: …………………………………………………………………………… matka: ……………………………………………..……………………………..
+4. Data i miejsce urodzenia: dzień …..… miesiąc ………………………………………. rok …..…………..
+miejsce urodzenia: ..……………………………………………………..………
+5. Rodzaj i numer dokumentu stwierdzającego tożsamość: ……………………………………………………………………………….…..
+6. Numer PESEL: …………………………………………………………………………………....
+7. Adres zamieszkania: miejscowość: …………………………………….……………………………… powiat/dzielnica: ……………………………………….………………………..
+nr kodu pocztowego: …………………………………….……………………… ul. ………………………………………...…....……. nr domu ….….. m. ..……
+8. Nazwa komisji orzekającej, która wydała orzeczenie: …………………………………………………………………………………...
+9. Sygnatura akt orzeczenia: sygn.: …………………………………………………………………………….
+data wydania orzeczenia: ………………………………………………………..
+10. Określenie orzeczonej kary lub informacja o odstąpieniu od kara: ……………………………………………………………………………..
+wymierzenia kary: data rozpoczęcia wykonywania kary*: ………………………………………….
+data zatarcia ukarania: …………………………………………………………...
+…………………………….. ….……………………………………………….
+W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
+WZÓR Przewodniczący Głównej Komisji Orzekającej w Sprawach o Naruszenie Dyscypliny Finansów Publicznych ul. Świętokrzyska 12 00-916 Warszawa :
 

@@ -8,10 +8,10 @@ pos: 822
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 822 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 21 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000822) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/822/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 21 marca 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. poz. 719), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 stycznia 2019 r. zmieniającym rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. poz. 67);
@@ -39,6 +38,7 @@ poz. 67), które stanowią: „§ 2. Właściciel, zarządca lub użytkownik obi
 Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 7 czerwca 2010 r.
 w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r.
 poz. 2057) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa sposoby i warunki ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, zwanych dalej „obiektami”.
 2. W przypadkach szczególnie uzasadnionych uwarunkowaniami lokalnymi, wskazanymi w ekspertyzie technicznej rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych, dopuszcza się, w uzgodnieniu z właściwym miejscowo komendantem wojewódzkim Państwowej Straży Pożarnej, stosowanie rozwiązań zamiennych w stosunku do wymienionych w § 19, § 23, § 24 i § 25 ust. 1, 2, 5 i 6 oraz w § 27 ust. 1 i 2, § 28 ust. 1, § 29 ust. 1 i § 38 ust. 1, zapewniających niepogorszenie warunków ochrony przeciwpożarowej obiektu.
 § 2. 1. Ilekroć w rozporządzeniu jest mowa o:
 1) materiałach niebezpiecznych pożarowo ‒ należy przez to rozumieć:
@@ -67,12 +67,13 @@ h) materiały inne niż wymienione w lit. a‒g, jeśli sposób ich składowania
 4) grup wysokości ‒ należy rozumieć przez to określenia zawarte w § 8,
 5) kategorii zagrożenia ludzi ‒ należy rozumieć przez to określenia zawarte w § 209 ust. 2,
 6) kondygnacji ‒ należy rozumieć przez to określenia zawarte w § 3 pkt 16‒18,
-7) stref pożarowych ‒ należy rozumieć przez to określenie zawarte w § 226 ust. 1 i 2 przepisów techniczno-budowlanych;
+7) stref pożarowych ‒ należy rozumieć przez to określenie zawarte w § 226 ust. 1 i 2 – przepisów techniczno-budowlanych;
 8) paliwie płynnym klasy III ‒ należy rozumieć przez to określenie zawarte w § 2 pkt 3 rozporządzenia Ministra Gospodarki z dnia 21 listopada 2005 r. w sprawie warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie (Dz. U. z 2014 r. poz. 1853 oraz z 2017 r. poz. 282).
 § 3. 1. Urządzenia przeciwpożarowe w obiekcie powinny być wykonane zgodnie z projektem uzgodnionym przez rzeczoznawcę do spraw zabezpieczeń przeciwpożarowych, a warunkiem dopuszczenia do ich użytkowania jest przeprowadzenie odpowiednich dla danego urządzenia prób i badań, potwierdzających prawidłowość ich działania.
 2. Urządzenia przeciwpożarowe oraz gaśnice przenośne i przewoźne, zwane dalej „gaśnicami”, powinny być poddawane przeglądom technicznym i czynnościom konserwacyjnym, zgodnie z zasadami i w sposób określony w Polskich Normach dotyczących urządzeń przeciwpożarowych i gaśnic, w dokumentacji techniczno-ruchowej oraz w instrukcjach obsługi, opracowanych przez ich producentów.
 3. Przeglądy techniczne i czynności konserwacyjne powinny być przeprowadzane w okresach ustalonych przez producenta, nie rzadziej jednak niż raz w roku.
 4. Węże stanowiące wyposażenie hydrantów wewnętrznych powinny być raz na 5 lat poddawane próbie ciśnieniowej na maksymalne ciśnienie robocze, zgodnie z Polską Normą dotyczącą konserwacji hydrantów wewnętrznych.
+§ 4. 1. W obiektach oraz na terenach przyległych do nich jest zabronione wykonywanie następujących czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji:
 1) używanie otwartego ognia, palenie tytoniu i stosowanie innych czynników mogących zainicjować zapłon materiałów występujących:
 a) w strefie zagrożenia wybuchem, z wyjątkiem urządzeń przeznaczonych do tego celu, spełniających wymagania określone w przepisach rozporządzenia Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. poz. 2203) ,
 b) w miejscach występowania materiałów niebezpiecznych pożarowo;
@@ -163,6 +164,7 @@ l) dróg pożarowych i innych dróg dojazdowych, z zaznaczeniem wjazdów na tere
 2) kubatura brutto budynku inwentarskiego nie przekracza 1500 m ;
 3) powierzchnia strefy pożarowej obiektu innego niż budynek nie przekracza 1000 m .
 9. Instrukcja bezpieczeństwa pożarowego powinna się znajdować w miejscach dostępnych dla ekip ratowniczych.
+§ 7. 1. Przy używaniu lub przechowywaniu materiałów niebezpiecznych pożarowo należy:
 1) wykonywać wszystkie czynności związane z wytwarzaniem, przetwarzaniem, obróbką, transportem lub składowaniem materiałów niebezpiecznych zgodnie z warunkami ochrony przeciwpożarowej określonymi w instrukcji bezpieczeństwa pożarowego, o której mowa w § 6, lub zgodnie z warunkami określonymi przez producenta;
 2) utrzymywać na stanowisku pracy ilość materiału niebezpiecznego pożarowo nie większą niż dobowe zapotrzebowanie lub dobowa produkcja, jeżeli przepisy szczególne nie stanowią inaczej;
 3) przechowywać zapas materiałów niebezpiecznych pożarowo przekraczający wielkość określoną w pkt 2 w oddzielnym magazynie przystosowanym do takiego celu;
@@ -211,6 +213,7 @@ dopuszcza się układanie butli w stosy o wysokości do 1,5 m.
 2) 3 m ‒ od pozostałych budynków, od studzienek i innych zagłębień terenu oraz od granicy działki.
 3. Butle można składować w kontenerach przy ścianie budynku o klasie odporności ogniowej co najmniej REI 120, w odległości co najmniej 2 m w poziomie i co najmniej 9 m w pionie od znajdujących się w niej otworów okiennych i drzwiowych.
 4. Magazyny i rozlewnie gazu płynnego oraz bazy i stacje paliw płynnych muszą być wyposażone w urządzenia i instalacje spełniające wymagania określone w przepisach rozporządzenia Ministra Gospodarki z dnia 21 listopada 2005 r. w sprawie warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie.
+§ 15. 1. Z każdego miejsca w obiekcie, przeznaczonego do przebywania ludzi, zapewnia się odpowiednie warunki ewakuacji, umożliwiające szybkie i bezpieczne opuszczanie strefy zagrożonej lub objętej pożarem, dostosowane do liczby i stanu sprawności osób przebywających w obiekcie oraz jego funkcji, konstrukcji i wymiarów, a także zastosowanie technicznych środków zabezpieczenia przeciwpożarowego, polegających na:
 1) zapewnieniu dostatecznej liczby, wysokości i szerokości wyjść ewakuacyjnych;
 2) zachowaniu dopuszczalnej długości, wysokości i szerokości przejść oraz dojść ewakuacyjnych;
 3) zapewnieniu bezpiecznej pożarowo obudowy i wydzieleń dróg ewakuacyjnych oraz pomieszczeń;
@@ -238,6 +241,7 @@ b) okładziny ściennej z materiału łatwo zapalnego na drodze ewakuacyjnej, je
 3. Właściciel, zarządca lub użytkownik obiektu budowlanego lub jego części powiadamia właściwego miejscowo komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej o terminie przeprowadzenia czynności, o których mowa w ust. 1, nie później niż na 7 dni przed ich przeprowadzeniem.
 4. Ze sprawdzeń, o których mowa w ust. 1, osoby wymienione w ust. 2 sporządzają protokół zawierający ocenę organizacji ewakuacji ludzi oraz spełnienia wymagań ochrony przeciwpożarowej.
 5. Właściciel, zarządca lub użytkownik obiektu budowlanego lub jego części składa protokół, o którym mowa w ust. 4, do właściwej komendy powiatowej (miejskiej) Państwowej Straży Pożarnej w terminie 7 dni od dnia przeprowadzenia praktycznego sprawdzenia organizacji ewakuacji ludzi w miejsce bezpieczne oraz spełnienia wymagań ochrony przeciwpożarowej.
+§ 18. 1. W budynkach stosuje się następujące rodzaje punktów poboru wody do celów przeciwpożarowych:
 1) hydranty wewnętrzne z wężem półsztywnym o nominalnej średnicy węża 25 mm i 33 mm, zwane dalej odpowiednio „hydrantem 25” i „hydrantem 33”;
 2) hydrant wewnętrzny z wężem płasko składanym o nominalnej średnicy węża 52 mm, zwany dalej „hydrantem 52”;
 3) zawór hydrantowy, zwany dalej „zaworem 52”, bez wyposażenia w wąż pożarniczy.
@@ -248,7 +252,7 @@ b) okładziny ściennej z materiału łatwo zapalnego na drodze ewakuacyjnej, je
 1) na każdej kondygnacji budynku wysokiego i wysokościowego, z wyjątkiem kondygnacji obejmującej wyłącznie strefę pożarową zakwalifikowaną do kategorii zagrożenia ludzi ZL IV;
 2) na każdej kondygnacji budynku innego niż tymczasowy, niskiego i średniowysokiego:
 a) w strefie pożarowej o powierzchni przekraczającej 200 m , zakwalifikowanej do kategorii zagrożenia ludzi ZL I, ZL II lub ZL V,
-b) w strefie pożarowej zakwalifikowanej do kategorii zagrożenia ludzi ZL III: o powierzchni przekraczającej 200 m w budynku średniowysokim, przy czym jeżeli jest to strefa pożarowa obejmująca tylko pierwszą kondygnację nadziemną, a nad nią znajdują się wyłącznie strefy pożarowe ZL IV, jedynie wtedy, gdy powierzchnia tej strefy pożarowej przekracza 1000 m , o powierzchni przekraczającej 1000 m w budynku niskim.
+b) w strefie pożarowej zakwalifikowanej do kategorii zagrożenia ludzi ZL III: – o powierzchni przekraczającej 200 m w budynku średniowysokim, przy czym jeżeli jest to strefa pożarowa obejmująca tylko pierwszą kondygnację nadziemną, a nad nią znajdują się wyłącznie strefy pożarowe ZL IV, jedynie wtedy, gdy powierzchnia tej strefy pożarowej przekracza 1000 m , – o powierzchni przekraczającej 1000 m w budynku niskim.
 2. Hydranty 33 muszą być stosowane w garażu:
 1) jednokondygnacyjnym zamkniętym o więcej niż 10 stanowiskach postojowych;
 2) wielokondygnacyjnym.
@@ -319,6 +323,7 @@ c) ust. 3 pkt 1 ‒ do 6 m w przypadku zapewnienia zasilania tych zbiorników w 
 8. Dopuszcza się przyłączanie do przewodów zasilających instalacji wodociągowej przeciwpożarowej przyborów sanitarnych, pod warunkiem że w przypadku ich uszkodzenia nie spowoduje to niekontrolowanego wypływu wody z instalacji.
 9. Możliwość poboru wody do celów przeciwpożarowych o wymaganych parametrach ciśnienia i wydajności w budynku musi być zapewniona niezależnie od stanu pracy innych systemów bądź urządzeń.
 § 26. Szczegółowe wymagania dla pompowni przeciwpożarowych określają przepisy rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 lipca 2009 r. w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych (Dz. U. poz. 1030).
+§ 27. 1. Stosowanie stałych urządzeń gaśniczych związanych na stałe z obiektem, zawierających zapas środka gaśniczego i uruchamianych samoczynnie we wczesnej fazie rozwoju pożaru, jest wymagane w:
 1) archiwach wyznaczonych przez Naczelnego Dyrektora Archiwów Państwowych;
 2) muzeach oraz zabytkach budowlanych, wyznaczonych przez Generalnego Konserwatora Zabytków w uzgodnieniu z Komendantem Głównym Państwowej Straży Pożarnej;
 3) ośrodkach elektronicznego przetwarzania danych o znaczeniu krajowym.
@@ -398,6 +403,7 @@ d) przy wyjściach z pomieszczeń na zewnątrz;
 2. Przy rozmieszczaniu gaśnic muszą być spełnione następujące warunki:
 1) odległość z każdego miejsca w obiekcie, w którym może przebywać człowiek, do najbliższej gaśnicy nie powinna być większa niż 30 m;
 2) do gaśnic powinien być zapewniony dostęp o szerokości co najmniej 1 m.
+§ 34. 1. W obiektach lub ich częściach, w których odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, usuwa się zanieczyszczenia z przewodów dymowych i spalinowych w okresach ich użytkowania:
 1) od palenisk zakładów zbiorowego żywienia i usług gastronomicznych ‒ co najmniej raz w miesiącu, jeżeli przepisy miejscowe nie stanowią inaczej;
 2) od palenisk opalanych paliwem stałym niewymienionych w pkt 1 ‒ co najmniej raz na 3 miesiące;
 3) od palenisk opalanych paliwem płynnym i gazowym niewymienionych w pkt 1 ‒ co najmniej raz na 6 miesięcy.
@@ -418,6 +424,7 @@ c) 2/3 temperatury samozapłonu, wyrażonej w stopniach Celsjusza (ºC), mieszan
 6. Systemów centralnego ogrzewania wodnego i parowego nie stosuje się w obiektach, w których występują materiały wytwarzające w reakcji z wodą lub parą wodną palne gazy, jeżeli reakcje takie nie są przewidziane w procesie technologicznym.
 7. Powierzchnie przewodów i urządzeń grzewczych oraz ich izolacje w obrębie pomieszczeń, w których mogą wydzielać się palne pyły i włókna, muszą być gładkie, łatwe do oczyszczenia i nierozprzestrzeniające ognia.
 8. Instalacje i urządzenia techniczne oraz technologiczne, w których podczas eksploatacji mogą wytwarzać się ładunki elektryczności statycznej o potencjale wystarczającym do zapalenia występujących materiałów palnych, wyposaża się w odpowiednie środki ochrony, zgodnie z Polskimi Normami dotyczącymi ochrony przed elektrycznością statyczną.
+§ 36. 1. Przed rozpoczęciem prac niebezpiecznych pod względem pożarowym, mogących powodować bezpośrednie niebezpieczeństwo powstania pożaru lub wybuchu, właściciel, zarządca lub użytkownik obiektu:
 1) ocenia zagrożenie pożarowe w miejscu, w którym prace będą wykonywane;
 2) ustala rodzaj przedsięwzięć mających na celu niedopuszczenie do powstania i rozprzestrzeniania się pożaru lub wybuchu;
 3) wskazuje osoby odpowiedzialne za odpowiednie przygotowanie miejsca pracy, za przebieg oraz zabezpieczenie miejsca po zakończeniu pracy;
@@ -438,6 +445,7 @@ c) 2/3 temperatury samozapłonu, wyrażonej w stopniach Celsjusza (ºC), mieszan
 7. Pomieszczenie, w którym może wytworzyć się mieszanina wybuchowa, powstała z wydzielającej się takiej ilości palnych gazów, par, mgieł lub pyłów, której wybuch mógłby spowodować przyrost ciśnienia w tym pomieszczeniu przekraczający 5 kPa, określa się jako pomieszczenie zagrożone wybuchem.
 8. Wytyczne w zakresie określania przyrostu ciśnienia w pomieszczeniu, jaki mógłby zostać spowodowany przez wybuch, określa załącznik do rozporządzenia.
 9. W pomieszczeniu należy wyznaczyć strefę zagrożenia wybuchem, jeżeli może w nim występować mieszanina wybuchowa o objętości co najmniej 0,01 m w zwartej przestrzeni.
+§ 38. 1. Lasy położone przy obiektach mogących stanowić zagrożenie pożarowe dla lasu oddziela się od tych obiektów pasami przeciwpożarowymi, utrzymywanymi w stanie zapewniającym ich użyteczność przez cały rok.
 2. Rodzaje oraz sposoby wykonywania pasów przeciwpożarowych przez podmioty określone jako właściwe do ich wykonania i utrzymywania w: ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2022 r. poz. 672, 1726 i 2311 oraz z 2023 r. poz. 412 i 803), ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 602) oraz ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej określają:
 1) rozporządzenie Ministra Środowiska z dnia 22 marca 2006 r. w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. z 2022 r. poz. 1065);
 2) rozporządzenie Ministra Infrastruktury z dnia 7 sierpnia 2008 r. w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych (Dz. U. z 2020 r. poz. 1247).
@@ -462,7 +470,7 @@ c) 2/3 temperatury samozapłonu, wyrażonej w stopniach Celsjusza (ºC), mieszan
 4) sieć wodociągowa przeciwpożarowa z hydrantami zewnętrznymi o wydajności nie mniejszej niż 5 dm /s;
 5) studnia z pompą oraz z:
 a) hydrantem zewnętrznym lub
-b) innym punktem poboru wody z nasadą tłoczną typu 75 lub 110 o wydajności nie mniejszej niż 10 dm /s.
+b) innym punktem poboru wody z nasadą tłoczną typu 75 lub 110 – o wydajności nie mniejszej niż 10 dm /s.
 5. Zbiornikiem sztucznym jest pojemnik albo grupa pojemników połączonych przewodami o średnicy co najmniej 300 mm w sposób umożliwiający dostęp do wymaganego zapasu wody z każdego stanowiska czerpania wody, w które jest wyposażony zbiornik.
 6. Źródła wody do celów przeciwpożarowych, o których mowa w ust. 4 pkt 1‒3 i 5, powinny być wyposażone w stanowiska czerpania wody z utwardzoną nawierzchnią o nośności nie mniejszej niż wymagana dla dojazdów pożarowych.
 7. Stanowiska czerpania wody przy źródłach wody do celów przeciwpożarowych, o których mowa w ust. 4 pkt 1‒3, powinny umożliwiać pobieranie wody z głębokości nie większej niż 4 m, mierząc od lustra wody do poziomu stanowiska czerpania wody, z wykorzystaniem autopomp lub motopomp pożarniczych.
@@ -496,6 +504,7 @@ b) 5 km ‒ w lasach II kategorii zagrożenia pożarowego;
 1) rozniecanie ognia poza miejscami wyznaczonymi do tego celu przez właściciela lub zarządcę lasu;
 2) palenie tytoniu, z wyjątkiem miejsc na drogach utwardzonych i miejsc wyznaczonych do pobytu ludzi.
 2. Przepis ust. 1 pkt 1 nie dotyczy czynności związanych z gospodarką leśną oraz wykonywaniem robót budowlanych i eksploatacji kopalni w porozumieniu z właścicielem lub zarządcą lasu.
+§ 41. 1. Podczas zbioru, transportu i składowania płodów rolnych należy:
 1) stosować wskazania podane w instrukcjach obsługi przy eksploatacji maszyn rolniczych i innych z napędem;
 2) stosować silniki elektryczne o odpowiednim do warunków pracy stopniu ochrony; minimalna odległość układu napędowego od stert, stogów i budynków o konstrukcji palnej powinna wynosić 5 m;
 3) ustawiać silniki spalinowe na podłożu niepalnym, w odległości co najmniej 10 m od stert, stogów lub budynków o konstrukcji palnej;
@@ -518,6 +527,7 @@ b) niepalnych i o pokryciu co najmniej trudno zapalnym ‒ 20 m;
 3. Wokół stert, stogów i brogów należy wykonać i utrzymać powierzchnię o szerokości co najmniej 2 m w odległości 3 m od ich obrysu pozbawioną materiałów palnych.
 4. Produkty roślinne należy składować w sposób uniemożliwiający ich samozapalenie. W przypadku konieczności składowania produktów niedosuszonych należy okresowo sprawdzać ich temperaturę.
 § 43. Wypalanie słomy i pozostałości roślinnych na polach jest zabronione.
+§ 44. W stosunku do obiektów wzniesionych przed dniem wejścia w życie rozporządzenia:
 1) wymagań określonych w § 27 ust. 1 i 2 nie stosuje się do obiektów wzniesionych przed dniem 17 stycznia 1993 r.;
 2) wymagania określone w § 18 ust. 2 oraz w § 19 ust. 1 w przypadku budynków wyposażonych w hydranty 52 obowiązują przy przebudowie i rozbudowie instalacji wodociągowej przeciwpożarowej, a także przy nadbudowie, rozbudowie, przebudowie i zmianie sposobu użytkowania obiektu;
 3) wymagań określonych w § 19 ust. 2 nie stosuje się, jeżeli zostały one wyposażone w hydranty 52 zgodnie z przepisami rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 kwietnia 2006 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. poz. 563);
@@ -533,9 +543,9 @@ WYTYCZNE W ZAKRESIE OKREŚLANIA PRZYROSTU CIŚNIENIA W POMIESZCZENIU, JAKI MÓG�
 1. Przy dokonywaniu oceny zagrożenia wybuchem pomieszczeń należy brać pod uwagę najbardziej niekorzystną z punktu widzenia ewentualnych skutków wybuchu sytuację mogącą wytworzyć się w procesie ich eksploatacji, uwzględniając najbardziej niebezpieczny, występujący tam rodzaj substancji oraz największą jej ilość, jaka mogłaby brać udział w reakcji wybuchu.
 2. Przyrost ciśnienia w pomieszczeniu ΔP (w Pa), spowodowany przez wybuch z udziałem jednorodnych palnych gazów lub par o cząsteczkach zbudowanych z atomów węgla, wodoru, tlenu, azotu i chlorowców jest określany za pomocą równania: gdzie: m ‒ maksymalna masa substancji palnych, tworzących mieszaninę wybuchową, jaka może wydzielić się w rozpatrywanym pomieszczeniu (kg);
 ΔP ‒ maksymalny przyrost ciśnienia przy wybuchu stechiometrycznej mieszaniny gazowo- lub parowo-powietrznej w zamkniętej komorze (Pa);
-W ‒ współczynnik przebiegu reakcji wybuchu, uwzględniający niehermetyczność pomieszczenia, nieadiabatyczność reakcji wybuchu, a także fakt udziału w reakcji niecałej ilości palnych gazów i par, jaka wydzieliłaby się w pomieszczeniu równy 0,17 dla palnych gazów i 0,1 dla palnych par;
+W ‒ współczynnik przebiegu reakcji wybuchu, uwzględniający niehermetyczność pomieszczenia, nieadiabatyczność reakcji wybuchu, a także fakt udziału w reakcji niecałej ilości palnych gazów i par, jaka wydzieliłaby się w pomieszczeniu – równy 0,17 dla palnych gazów i 0,1 dla palnych par;
 V ‒ objętość przestrzeni powietrznej pomieszczenia, stanowiąca różnicę między objętością pomieszczenia i objętością znajdujących się w nim instalacji, sprzętu, zamkniętych opakowań itp. (m );
-C ‒ objętościowe stężenie stechiometryczne palnych gazów lub par: β stechiometryczny współczynnik tlenu w reakcji wybuchu: n , n , n , n ‒ odpowiednio ilości atomów węgla, wodoru, chlorowców i tlenu w cząsteczce gazu lub pary;
+C ‒ objętościowe stężenie stechiometryczne palnych gazów lub par: β – stechiometryczny współczynnik tlenu w reakcji wybuchu: n , n , n , n ‒ odpowiednio ilości atomów węgla, wodoru, chlorowców i tlenu w cząsteczce gazu lub pary;
 ρ ‒ gęstość palnych gazów lub par w temperaturze pomieszczenia w normalnych warunkach pracy (kg · m ).
 3. Przyrost ciśnienia w pomieszczeniu ΔP (w Pa), spowodowany przez wybuch z udziałem substancji palnych niewymienionych w pkt 2, jest określany za pomocą równania: gdzie: q ‒ ciepło spalania (J · kg );
 P ‒ ciśnienie atmosferyczne normalne, równe 101 325 Pa;
@@ -550,30 +560,30 @@ pozostałe ‒ jak we wzorze [1].
 K ‒ współczynnik parowania określony w tabeli;
 P ‒ prężność pary nasyconej w temperaturze pomieszczenia t w ºC (Pa): A, B, C ‒ współczynniki równania Antoine’a dla danej cieczy;
 M ‒ masa cząsteczkowa cieczy (kg · kmol ).
-Tabela Wartości współczynnika parowania K Prędkość przepływu powietrza nad powierzchnią parowania (m · s Temperatura pomieszczenia w ºC ) 10 15 20 30 35 0 1,0 1,0 1,0 1,0 1,0 0,1 3,0 2,6 2,4 1,8 1,6 0,2 4,6 3,8 3,5 2,4 2,3 0,5 6,6 5,7 5,4 3,6 3,2 1,0 10,0 8,7 7,7 5,6 4,6
+Tabela Wartości współczynnika parowania K Prędkość przepływu powietrza Temperatura pomieszczenia w ºC nad powierzchnią parowania (m · s ) 10 15 20 30 35 0 1,0 1,0 1,0 1,0 1,0 0,1 3,0 2,6 2,4 1,8 1,6 0,2 4,6 3,8 3,5 2,4 2,3 0,5 6,6 5,7 5,4 3,6 3,2 1,0 10,0 8,7 7,7 5,6 4,6
 5. W przypadku występowania w pomieszczeniu uruchamianej samoczynnie wentylacji awaryjnej, przy określaniu m dla palnych gazów lub par dopuszcza się uwzględnianie jej działania, jeżeli odciągi powietrza znajdują się w pobliżu miejsca przewidywanego wydzielania się gazów lub par. Przyjmowaną do obliczenia ΔP maksymalną masę substancji palnych można wtedy zmniejszyć „k” razy, przy czym: gdzie: n ‒ ilość wymian powietrza w pomieszczeniu przy działaniu wentylacji awaryjnej (s );
 ‒ przewidywany czas wydzielania gazów lub par (s).
 6. Obliczenie przewidywanego przyrostu ciśnienia w pomieszczeniu nie jest wymagane w przypadku, gdy bez jego dokonania inwestor, jednostka projektowania lub użytkownik decydujący o procesie technologicznym uznaje pomieszczenie za zagrożone wybuchem.
 
-#### Rozdział 1 Przepisy ogólne § 1. 1. Rozporządzenie określa sposoby i warunki ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, zwanych dalej „obiektami”.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Czynności zabronione i obowiązki w zakresie ochrony przeciwpożarowej § 4. 1. W obiektach oraz na terenach przyległych do nich jest zabronione wykonywanie następujących czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji:
+#### Rozdział 2 Czynności zabronione i obowiązki w zakresie ochrony przeciwpożarowej
 
-#### Rozdział 3 Materiały niebezpieczne pożarowo § 7. 1. Przy używaniu lub przechowywaniu materiałów niebezpiecznych pożarowo należy:
+#### Rozdział 3 Materiały niebezpieczne pożarowo
 
-#### Rozdział 4 Ewakuacja § 15. 1. Z każdego miejsca w obiekcie, przeznaczonego do przebywania ludzi, zapewnia się odpowiednie warunki ewakuacji, umożliwiające szybkie i bezpieczne opuszczanie strefy zagrożonej lub objętej pożarem, dostosowane do liczby i stanu sprawności osób przebywających w obiekcie oraz jego funkcji, konstrukcji i wymiarów, a także zastosowanie technicznych środków zabezpieczenia przeciwpożarowego, polegających na:
+#### Rozdział 4 Ewakuacja
 
-#### Rozdział 5 Instalacja wodociągowa przeciwpożarowa § 18. 1. W budynkach stosuje się następujące rodzaje punktów poboru wody do celów przeciwpożarowych:
+#### Rozdział 5 Instalacja wodociągowa przeciwpożarowa
 
-#### Rozdział 6 Stosowanie stałych urządzeń gaśniczych, systemów sygnalizacji pożarowej, dźwiękowych systemów ostrzegawczych i gaśnic § 27. 1. Stosowanie stałych urządzeń gaśniczych związanych na stałe z obiektem, zawierających zapas środka gaśniczego i uruchamianych samoczynnie we wczesnej fazie rozwoju pożaru, jest wymagane w:
+#### Rozdział 6 Stosowanie stałych urządzeń gaśniczych, systemów sygnalizacji pożarowej, dźwiękowych systemów ostrzegawczych i gaśnic
 
-#### Rozdział 7 Instalacje i urządzenia techniczne § 34. 1. W obiektach lub ich częściach, w których odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, usuwa się zanieczyszczenia z przewodów dymowych i spalinowych w okresach ich użytkowania:
+#### Rozdział 7 Instalacje i urządzenia techniczne
 
-#### Rozdział 8 Prace niebezpieczne pod względem pożarowym oraz ocena zagrożenia wybuchem § 36. 1. Przed rozpoczęciem prac niebezpiecznych pod względem pożarowym, mogących powodować bezpośrednie niebezpieczeństwo powstania pożaru lub wybuchu, właściciel, zarządca lub użytkownik obiektu:
+#### Rozdział 8 Prace niebezpieczne pod względem pożarowym oraz ocena zagrożenia wybuchem
 
-#### Rozdział 9 Zabezpieczenie przeciwpożarowe lasów § 38. 1. Lasy położone przy obiektach mogących stanowić zagrożenie pożarowe dla lasu oddziela się od tych obiektów pasami przeciwpożarowymi, utrzymywanymi w stanie zapewniającym ich użyteczność przez cały rok.
+#### Rozdział 9 Zabezpieczenie przeciwpożarowe lasów
 
-#### Rozdział 10 Zabezpieczenie przeciwpożarowe zbioru, transportu i składowania palnych płodów rolnych § 41. 1. Podczas zbioru, transportu i składowania płodów rolnych należy:
+#### Rozdział 10 Zabezpieczenie przeciwpożarowe zbioru, transportu i składowania palnych płodów rolnych
 
-#### Rozdział 11 Przepisy przejściowe i końcowe § 44. W stosunku do obiektów wzniesionych przed dniem wejścia w życie rozporządzenia:
+#### Rozdział 11 Przepisy przejściowe i końcowe
 

@@ -8,10 +8,10 @@ pos: 1694
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 listopada 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1694 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 14 listopada 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1694/text.pdf) |
 
-Poz. 1694 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 14 listopada 2024 r.
-w sprawie wysokości opłaty związanej z wydaniem paszportu dla przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym Na podstawie art. 24g ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2023 r. poz. 1075) zarządza się, co następuje: § 1. Określa się wysokość opłaty za wydanie paszportu, o którym mowa w art. 21 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającego rozporządzenie (WE) nr 998/2003 (Dz. Urz. UE L 178 z 28.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 576/2013”, na 190 zł, z czego wysokość części opłaty przeznaczonej na:
+w sprawie wysokości opłaty związanej z wydaniem paszportu dla przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym Na podstawie art. 24g ust. 3 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2023 r. poz. 1075) zarządza się, co następuje:
+§ 1. Określa się wysokość opłaty za wydanie paszportu, o którym mowa w art. 21 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającego rozporządzenie (WE) nr 998/2003 (Dz. Urz. UE L 178 z 28.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 576/2013”, na 190 zł, z czego wysokość części opłaty przeznaczonej na:
 1) wynagrodzenie lekarza weterynarii za wydanie paszportu wynosi 133 zł;
 2) pokrycie kosztów:
 a) ponoszonych przez Krajową Izbę Lekarsko-Weterynaryjną związanych z drukiem paszportu i jego przekazywaniem okręgowym izbom lekarsko-weterynaryjnym,

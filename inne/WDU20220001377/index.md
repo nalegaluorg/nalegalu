@@ -8,10 +8,10 @@ pos: 1377
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 czerwca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1377 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 czerwca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001377) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1377/text.pdf) |
 
-Poz. 1377 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 czerwca 2022 r.
-w sprawie wynagrodzenia płatnika i inkasenta z tytułu terminowego wpłacania podatków na rzecz budżetu państwa Na podstawie art. 28 § 3 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ) zarządza się, co następuje: § 1. Wynagrodzenie z tytułu terminowego wpłacania podatków na rzecz budżetu państwa w przypadku:
+w sprawie wynagrodzenia płatnika i inkasenta z tytułu terminowego wpłacania podatków na rzecz budżetu państwa Na podstawie art. 28 § 3 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ) zarządza się, co następuje:
+§ 1. Wynagrodzenie z tytułu terminowego wpłacania podatków na rzecz budżetu państwa w przypadku:
 1) płatnika wynosi 0,3% kwoty tych podatków pobranych przez płatnika;
 2) inkasenta wynosi 0,1% kwoty tych podatków pobranych przez inkasenta.
 § 2. Wynagrodzenie, o którym mowa w § 1, jest potrącane z kwoty podatków pobranych przez płatnika i inkasenta.

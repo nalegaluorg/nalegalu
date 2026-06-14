@@ -8,10 +8,10 @@ pos: 2009
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 listopada 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2009 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2009/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 października 2021 r.
-w sprawie pobierania próbek środków ochrony roślin do badań laboratoryjnych Na podstawie art. 21 ust. 6 ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. z 2021 r. poz. 147) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie pobierania próbek środków ochrony roślin do badań laboratoryjnych Na podstawie art. 21 ust. 6 ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. z 2021 r. poz. 147) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób pobierania próbek środków ochrony roślin do badań laboratoryjnych ich składu lub właściwości fizycznych, lub właściwości chemicznych, zwanych dalej „badaniami”;
 2) wzór protokołu pobrania próbek środków ochrony roślin do badań;
 3) sposób zabezpieczenia próbek środków ochrony roślin, zwanych dalej „próbkami”, pobranych do badań;
@@ -35,13 +35,13 @@ w sprawie pobierania próbek środków ochrony roślin do badań laboratoryjnych
 1) całych opakowań środka ochrony roślin, w których znajduje się ten środek, albo
 2) odpowiedniej ilości środka ochrony roślin z opakowań, w których znajduje się ten środek.
 2. W przypadku środków ochrony roślin w opakowaniach:
-1) nie większych niż 500 ml albo 500 g próbki stanowią oryginalnie zamknięte opakowania jednostkowe środka ochrony roślin, przy czym w przypadku środka ochrony roślin w postaci:
-a) płynnej pobiera się taką liczbę opakowań, aby uzyskać łączną wielkość próbki wynoszącą co najmniej 500 ml,
-b) stałej pobiera się taką liczbę opakowań, aby uzyskać łączną wielkość próbki wynoszącą co najmniej 500 g;
-2) większych niż 500 ml albo 500 g i nie większych niż 5 l lub 5 kg próbkę stanowi oryginalnie zamknięte opakowanie;
+1) nie większych niż 500 ml albo 500 g – próbki stanowią oryginalnie zamknięte opakowania jednostkowe środka ochrony roślin, przy czym w przypadku środka ochrony roślin w postaci:
+a) płynnej – pobiera się taką liczbę opakowań, aby uzyskać łączną wielkość próbki wynoszącą co najmniej 500 ml,
+b) stałej – pobiera się taką liczbę opakowań, aby uzyskać łączną wielkość próbki wynoszącą co najmniej 500 g;
+2) większych niż 500 ml albo 500 g i nie większych niż 5 l lub 5 kg – próbkę stanowi oryginalnie zamknięte opakowanie;
 3) większych niż 5 l albo 5 kg z opakowania pobiera się próbkę o:
-a) objętości 500 ml środka ochrony roślin w przypadku środka ochrony roślin w postaci płynnej albo
-b) masie 500 g środka ochrony roślin w przypadku środka ochrony roślin w postaci stałej.
+a) objętości 500 ml środka ochrony roślin – w przypadku środka ochrony roślin w postaci płynnej albo
+b) masie 500 g środka ochrony roślin – w przypadku środka ochrony roślin w postaci stałej.
 3. Jeżeli nie jest możliwe pobranie próbki o wielkości określonej w ust. 2, pobiera się próbkę o wielkości mniejszej, o ile nie będzie to miało wpływu na wynik badania, a wielkość próbki została uzgodniona z laboratorium przeprowadzającym badanie.
 4. W przypadku środków ochrony roślin w postaci gazowej, w tym aerozoli, próbkę stanowi oryginalnie zamknięte opakowanie, w którym znajduje się ten środek.
 5. W przypadkach określonych w art. 35 ust. 2 zdanie pierwsze lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ) kolejną próbkę do badań pobiera się zgodnie z ust. 2 albo 4.
@@ -68,12 +68,11 @@ b) była przechowywana w sposób, który nie zabezpieczał jej przed wpływem cz
 § 5. Wojewódzki inspektor ochrony roślin i nasiennictwa właściwy ze względu na miejsce pobrania próbki, o której mowa w § 2 ust. 2 i 5:
 1) zapewnia dostarczenie próbki do laboratorium przeprowadzającego badanie:
 a) niezwłocznie,
-b) bezpośrednio albo za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r.
-Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) przesyłką rejestrowaną nadaną w sposób umożliwiający uzyskanie przez nadawcę dokumentu potwierdzającego odbiór tej przesyłki,
+b) bezpośrednio albo za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) przesyłką rejestrowaną nadaną w sposób umożliwiający uzyskanie przez nadawcę dokumentu potwierdzającego odbiór tej przesyłki,
 c) z zachowaniem warunków uniemożliwiających zmianę jakości i właściwości pobranej próbki oraz zamianę tej próbki,
 d) w sposób zabezpieczający ją przed wpływem czynników zewnętrznych mogących mieć wpływ na wyniki badań;
 2) przekazuje wraz z dostarczaną próbką kopię protokołu pobrania próbek środków ochrony roślin do badań do laboratorium przeprowadzającego badanie.
-§ 6. 1. Laboratorium przeprowadzające badania próbki potwierdza przyjęcie próbki do badań albo stwierdza nieprzydatność próbki do badań przez dokonanie odpowiedniej adnotacji na kopii protokołu pobrania próbek środków ochrony roślin do badań.
+§ 6. 1. Laboratorium przeprowadzające badania próbki potwierdza przyjęcie próbki do badań albo stwierdza nieprzydatność próbki do badań – przez dokonanie odpowiedniej adnotacji na kopii protokołu pobrania próbek środków ochrony roślin do badań.
 2. Adnotacja, o której mowa w ust. 1, zawiera datę przyjęcia próbki do badań oraz ocenę przydatności próbki do badań i ocenę stanu opakowania próbki, dokonane na podstawie:
 1) informacji zawartych w kopii protokołu pobrania próbek środków ochrony roślin do badań;
 2) oględzin próbki dostarczonej do badań.
@@ -85,13 +84,17 @@ c) o wielkości mniejszej niż określona w § 2 ust. 2 bez uzgodnienia z tym la
 2) opakowanie, w którym została ona dostarczona do tego laboratorium:
 a) zostało naruszone w sposób umożliwiający zamianę tej próbki lub
 b) nie zostało zaplombowane albo plomba została zdjęta albo naruszona lub nie zostało oznakowane w sposób określony w § 4 ust. 2.
-4. W przypadku próbki przekazanej do badań za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe dowód odebrania próbki przez laboratorium stanowi dokument potwierdzający odbiór przesyłki rejestrowanej dostarczony nadawcy przez operatora pocztowego.
+4. W przypadku próbki przekazanej do badań za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe dowód odebrania próbki przez laboratorium stanowi dokument potwierdzający odbiór przesyłki rejestrowanej dostarczony nadawcy przez operatora pocztowego.
 5. W przypadku stwierdzenia nieprzydatności próbki do badań laboratorium przeprowadzające badanie informuje o tym niezwłocznie wojewódzkiego inspektora ochrony roślin i nasiennictwa właściwego ze względu na miejsce pobrania próbki i wskazuje przyczyny nieprzydatności tej próbki do badań.
 6. Pozostałą po przeprowadzeniu badań część próbki umożliwiającą powtórzenie tych badań przechowuje się w laboratorium przeprowadzającym badanie przez 12 miesięcy od dnia zakończenia badań, zgodnie z warunkami wskazanymi na etykiecie środka ochrony roślin.
 7. Z próbkami laboratoryjnymi, w przypadku których upłynął okres, o którym mowa w ust. 6, albo w odniesieniu do których stwierdzono nieprzydatność do badań, oraz z pozostałościami próbek po przeprowadzeniu badań laboratorium postępuje zgodnie z przepisami o odpadach, po uprzednim poinformowaniu o tym fakcie wojewódzkiego inspektora ochrony roślin i nasiennictwa, który przekazał daną próbkę do laboratorium, z wyjątkiem przypadku, gdy próbka albo jej pozostałość stanowią lub mają stanowić dowód rzeczowy w postępowaniu karnym albo w postępowaniu w sprawach o wykroczenia.
 W takim przypadku o przeznaczeniu i okresie przechowywania decyduje organ, który prowadzi postępowanie.
 § 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. R. Bartosik WZÓR Załącznik do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2021 r. (poz. ...) WZÓR Wojewódzki Inspektor Ochrony Roślin i Nasiennictwa w ..........................
+Minister Rolnictwa i Rozwoju Wsi: wz. R. Bartosik Załącznik do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2021 r. (poz. ...) WZÓR WZÓR WYPEŁNIA LABORATORIUM: Data przyjęcia próbki do badań: …………..................
+Data uznania nieprzydatności próbki do badań: ……………………………………..…………..
+Numer identyfikacyjny próbki: ……...……………….
+……….……………………..………………….
+(nazwa, siedziba i adres laboratorium) Wojewódzki Inspektor Ochrony Roślin i Nasiennictwa w ..........................
 ...............................................................
 (pieczęć wojewódzkiego inspektoratu ochrony roślin i nasiennictwa) …………………………………………… (znak sprawy) PROTOKÓŁ POBRANIA PRÓBEK ŚRODKÓW OCHRONY ROŚLIN nr………………………… do badań laboratoryjnych składu lub właściwości fizycznych, lub właściwości chemicznych
 1. Próbka nr: ...................................
@@ -99,22 +102,17 @@ Minister Rolnictwa i Rozwoju Wsi: wz. R. Bartosik WZÓR Załącznik do rozporzą
 2. Data oraz miejsce lub adres pobrania próbki: (data) …………………..….
 (ulica) …………………..…. (nr domu) …………………..…. (miejscowość)…………………..….
 (kod pocztowy) ……… (gmina) …………………..…. (województwo) …………………..….
-WYPEŁNIA LABORATORIUM: Data przyjęcia próbki do badań: …………..................
-Data uznania nieprzydatności próbki do badań: ……………………………………..…………..
-Numer identyfikacyjny próbki: ……...……………….
-……….……………………..………………….
-(nazwa, siedziba i adres laboratorium)
 3. Rodzaj badania: kontrola urzędowa: podstawowa  interwencyjna  inny (podać jaki)  …………….………………………………………………………………….………………….....
 przyczyny badania ………………………………………………………………………………….
-4. Dane identyfikujące podmiotu kontrolowanego (imię, nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba, z tym że w przypadku gdy podmiotem kontrolowanym jest osoba fizyczna, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania) oraz osoby przez niego upoważnionej jeżeli osoba taka została upoważniona (imię, nazwisko, stanowisko służbowe lub pełniona funkcja): ……………….………………………………...……………………………….………...…………..
+4. Dane identyfikujące podmiotu kontrolowanego (imię, nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba, z tym że w przypadku gdy podmiotem kontrolowanym jest osoba fizyczna, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania) oraz osoby przez niego upoważnionej – jeżeli osoba taka została upoważniona (imię, nazwisko, stanowisko służbowe lub pełniona funkcja): ……………….………………………………...……………………………….………...…………..
 …………………………………………………………………...…………...………………………
 5. Nazwa środka ochrony roślin oraz numer zezwolenia na wprowadzenie środka ochrony roślin do obrotu albo pozwolenia na handel równoległy: ……………….………………………………...……………………………….………...…………..
 …………………………………………………………………...…………...………………………
-6. Imię, nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba posiadacza zezwolenia na wprowadzenie środka ochrony roślin do obrotu albo pozwolenia na handel równoległy, z tym że w przypadku gdy posiadacz zezwolenia albo pozwolenia jest osobą fizyczną, zamiast adresu i miejsca zamieszkania posiadacza adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ……………….………………………………...……………………………….………...…………..
+6. Imię, nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba posiadacza zezwolenia na wprowadzenie środka ochrony roślin do obrotu albo pozwolenia na handel równoległy, z tym że w przypadku gdy posiadacz zezwolenia albo pozwolenia jest osobą fizyczną, zamiast adresu i miejsca zamieszkania posiadacza – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ……………….………………………………...……………………………….………...…………..
 …………………………………………………………………...…………...………………………
-7. Imię, nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba podmiotu odpowiedzialnego za końcowe pakowanie środka ochrony roślin, z tym że w przypadku gdy podmiot ten jest osobą fizyczną, zamiast adresu i miejsca zamieszkania adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ……………….………………………………...……………………………….………...…………..
+7. Imię, nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba podmiotu odpowiedzialnego za końcowe pakowanie środka ochrony roślin, z tym że w przypadku gdy podmiot ten jest osobą fizyczną, zamiast adresu i miejsca zamieszkania – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ……………….………………………………...……………………………….………...…………..
 …………………………………………………………………...…………...………………………
-8. Imię, nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba podmiotu odpowiedzialnego za końcowe etykietowanie środka ochrony roślin, z tym że w przypadku gdy podmiot ten jest osobą fizyczną, zamiast adresu i miejsca zamieszkania adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ……………….………………………………...……………………………….………...…………..
+8. Imię, nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba podmiotu odpowiedzialnego za końcowe etykietowanie środka ochrony roślin, z tym że w przypadku gdy podmiot ten jest osobą fizyczną, zamiast adresu i miejsca zamieszkania – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ……………….………………………………...……………………………….………...…………..
 …………………………………………………………………...…………...………………………
 9. Data produkcji i termin ważności środka ochrony roślin: ……………….………………………………...……………………………….………...…………..
 10. Numer partii środka ochrony roślin i wielkość partii w miejscu pobrania próbki: ……………….………………………………...……………………………….………...…………..
@@ -133,8 +131,8 @@ przyczyny badania ……………………………………………………�
 ……………….………………………………...……………………………….………...…………..
 17. Uwagi: ……………….………………………………...……………………………….………...…………..
 ……………….………………………………...……………………………….………...…………..
-Imię, nazwisko i data podpisania protokołu oraz pieczęć osoby pobierającej lub osób pobierających próbkę: ……………………………………… (wypełnić czytelnie) Imię i nazwisko podmiotu kontrolowanego albo osoby przez niego upoważnionej i data podpisania protokołu: ………………………………… podpis i pieczątka: ……………………………………… (wypełnić czytelnie) podpis: ………………………………..
-18. Adnotacja laboratorium przeprowadzającego badania zgodnie z § 6 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2021 r. w sprawie pobierania próbek środków ochrony roślin do badań laboratoryjnych (Dz. U. poz. 2009) o potwierdzeniu przyjęcia próbki środka ochrony roślin do badań albo o stwierdzeniu nieprzydatności próbki środka ochrony roślin do badań (wypełnia na kopii protokołu laboratorium przeprowadzające badania próbki) : ……………….………………………………...……………………………….………...…………..
+Imię, nazwisko i data podpisania protokołu Imię i nazwisko podmiotu oraz pieczęć osoby pobierającej lub osób kontrolowanego albo osoby przez niego pobierających próbkę: upoważnionej i data podpisania protokołu: ……………………………………… ………………………………… (wypełnić czytelnie) (wypełnić czytelnie) podpis i pieczątka: podpis: ……………………………………… ………………………………..
+18. Adnotacja laboratorium przeprowadzającego badania zgodnie z § 6 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2021 r. w sprawie pobierania próbek środków ochrony roślin do badań laboratoryjnych (Dz. U. poz. 2009) o potwierdzeniu przyjęcia próbki środka ochrony roślin do badań albo o stwierdzeniu nieprzydatności próbki środka ochrony roślin do badań (wypełnia – na kopii protokołu – laboratorium przeprowadzające badania próbki) : ……………….………………………………...……………………………….………...…………..
 ……………….………………………………...……………………………….………...…………..
 Imię i nazwisko osoby sporządzającej adnotację: .............................................
 (wypełnić czytelnie) podpis: .............................................

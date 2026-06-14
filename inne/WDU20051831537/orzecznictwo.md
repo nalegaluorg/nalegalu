@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym*
 
 Łącznie: **5** orzeczeń
-(pominięto 15 orzeczeń sądów rejonowych)
+(pominięto 21 orzeczeń sądów rejonowych)
 
 ## art. 6 (1)
 

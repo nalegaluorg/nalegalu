@@ -8,7 +8,7 @@ pos: 1692
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
@@ -37,7 +37,29 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** Fundusz – Narodowy Fundusz Zdrowia;
+- **2)** personel – osoby udzielające świadczeń opieki zdrowotnej na rzecz podmiotu wykonującego działalność leczniczą na podstawie stosunku pracy lub innego niż stosunek pracy stosunku prawnego: poz. 1234);
+    - **a)** osoby wykonujące zawód medyczny w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991 i 1675) – w zakresie, w jakim uczestniczą w udzielaniu świadczeń opieki zdrowotnej,
+    - **b)** osoby inne niż wymienione w lit. a, które uzyskały fachowe kwalifikacje do udzielania świadczeń opieki zdrowotnej – w zakresie, w jakim uczestniczą w udzielaniu świadczeń opieki zdrowotnej,
+    - **c)** farmaceutów – w zakresie, w jakim uczestniczą w udzielaniu świadczeń opieki farmaceutycznej, o których mowa w art. 4 ust. 2 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 1873 oraz z 2023 r.
+
+- **3)** podmiot wykonujący działalność leczniczą – podmiot wykonujący działalność leczniczą w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **4)** rodzaj działalności leczniczej – rodzaj działalności leczniczej, o którym mowa w art. 8 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **5)** świadczenia opieki zdrowotnej – świadczenia opieki zdrowotnej w rozumieniu art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ), zwanej dalej „ustawą o świadczeniach”;
+- **6)** zakład leczniczy – zakład leczniczy w rozumieniu art. 2 ust. 1 pkt 14 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **7)** zakres świadczeń:
+    - **a)** jeden z zakresów świadczeń opieki zdrowotnej wymienionych w art. 15 ust. 2 ustawy o świadczeniach lub
+    - **b)** świadczenie opieki zdrowotnej lub grupę tych świadczeń należące do jednego z zakresów wymienionych w art. 15 ust. 2 ustawy o świadczeniach, które mogą być dodatkowo określone przez wskazanie profilu lub rodzaju komórki organizacyjnej, w których są udzielane, lub
+    - **c)** świadczenie opieki zdrowotnej lub grupę tych świadczeń, dla których w umowie o udzielanie świadczeń opieki zdrowotnej określa się kwotę finansowania;
+
+- **8)** zdarzenie niepożądane – zdarzenie zaistniałe w trakcie udzielania lub w efekcie udzielenia bądź zaniechania udzielenia świadczenia opieki zdrowotnej, powodujące lub mogące spowodować negatywny skutek dla zdrowia lub życia pacjenta, w szczególności zgon, uszczerbek na zdrowiu lub rozstrój zdrowia, chorobę, zagrożenie życia, konieczność hospitalizacji albo jej przedłużenia, a także uszkodzenie ciała lub rozstrój zdrowia płodu; nie stanowi zdarzenia niepożądanego zdarzenie, którego skutek jest przewidywanym skutkiem prawidłowo udzielonego świadczenia opieki zdrowotnej.
+
 **Art. 3.** Na system jakości w opiece zdrowotnej i bezpieczeństwa pacjenta składają się:
+
+- **1)** autoryzacja;
+- **2)** wewnętrzny system zarządzania jakością i bezpieczeństwem, zwany dalej „wewnętrznym systemem”;
+- **3)** akredytacja;
+- **4)** rejestry medyczne w rozumieniu art. 2 pkt 12 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650 i 1234).
 
 **Art. 4.**
 
@@ -74,6 +96,9 @@ source: "isap-pdf"
 **Art. 6.** Autoryzacja jest warunkiem realizacji przez podmiot wykonujący działalność leczniczą w rodzaju świadczenia szpitalne umowy o udzielanie świadczeń opieki zdrowotnej w ramach profili systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, o którym mowa w art. 95l ustawy o świadczeniach.
 
 **Art. 7.** Autoryzację może uzyskać podmiot wykonujący działalność leczniczą w rodzaju świadczenia szpitalne, który spełnia następujące warunki:
+
+- **1)** prowadzi wewnętrzny system;
+- **2)** realizuje świadczenia opieki zdrowotnej, z zachowaniem warunków ich realizacji dotyczących miejsca udzielania świadczeń opieki zdrowotnej, personelu i wyposażenia w sprzęt i aparaturę medyczną, określonych w przepisach wydanych na podstawie art. 31d i art. 31da ust. 1 ustawy o świadczeniach.
 
 **Art. 8.**
 
@@ -218,6 +243,10 @@ source: "isap-pdf"
 
 **Art. 16.** Prezes Funduszu publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Funduszu listę podmiotów wykonujących działalność leczniczą wraz z zakresami świadczeń:
 
+- **1)** posiadających autoryzację;
+- **2)** którym odmówiono wydania autoryzacji w okresie 12 miesięcy poprzedzających publikację;
+- **3)** którym cofnięto autoryzację w okresie 12 miesięcy poprzedzających publikację.
+
 **Art. 17.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór wniosku o autoryzację, mając na uwadze zapewnienie sprawności postępowania w sprawie wydania autoryzacji.
 
 #### Rozdział 3 Wewnętrzny system
@@ -297,6 +326,10 @@ source: "isap-pdf"
 6. Standardy akredytacyjne stosuje się do wniosków o udzielenie akredytacji złożonych po upływie 12 miesięcy od dnia zamieszczenia tych standardów w dzienniku urzędowym ministra właściwego do spraw zdrowia.
 
 **Art. 23.** Minister właściwy do spraw zdrowia publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra listę podmiotów wykonujących działalność leczniczą:
+
+- **1)** posiadających akredytację;
+- **2)** którym odmówiono udzielenia akredytacji w okresie 12 miesięcy poprzedzających publikację;
+- **3)** którym cofnięto akredytację w okresie 12 miesięcy poprzedzających publikację.
 
 **Art. 24.**
 
@@ -590,6 +623,10 @@ source: "isap-pdf"
 
 **Art. 41.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy sposób przeprowadzenia procedury oceniającej, w tym zakres planu przeglądu akredytacyjnego, uwzględniając konieczność zapewnienia kompleksowości i przejrzystości oceny spełniania warunków udzielenia akredytacji;
+- **2)** wzór certyfikatu akredytacyjnego, uwzględniając konieczność zapewnienia jednolitości wydawania tych certyfikatów;
+- **3)** sposób obliczenia wysokości opłat za przeprowadzenie procedury oceniającej, uwzględniając nakład pracy wiążący się z wielkością podmiotu oraz zakresem i liczbą udzielanych przez niego świadczeń.
+
 **Art. 42.**
 
 1. Nabór kandydatów do pełnienia funkcji wizytatora odbywa się w drodze otwartego i konkurencyjnego postępowania kwalifikacyjnego.
@@ -764,11 +801,69 @@ source: "isap-pdf"
 
 **Art. 54.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 95m w ust. 3 w pkt 2 w lit. c w tiret drugim kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) posiada autoryzację, o której mowa w ustawie z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692), w zakresie profili systemu zabezpieczenia kwalifikujących danego świadczeniodawcę do danego poziomu systemu zabezpieczenia.”;
+- **2)** w art. 97 w ust. 3:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) monitorowanie oraz ocena jakości i dostępności, a także analiza kosztów świadczeń opieki zdrowotnej w zakresie niezbędnym dla prawidłowego zawierania umów o udzielanie świadczeń opieki zdrowotnej;”,
+    - **b)** w pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu: „23) monitorowanie wskaźników jakości opieki zdrowotnej, o których mowa w art. 4 ust. 1 ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta.”;
+
+- **3)** w art. 102 w ust. 5 po pkt 36 dodaje się pkt 36a w brzmieniu: „36a) wydawanie, odmowa wydania lub cofnięcie autoryzacji, o której mowa w art. 6 ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta;”.
+
 **Art. 55.** W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151 i 1688) art. 15 otrzymuje brzmienie: „Art. 15. W sprawach nieuregulowanych w ustawie do zakładów lecznictwa uzdrowiskowego mają zastosowanie przepisy ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991 i 1675), ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545 i 1675), ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2022 r. poz. 2524 oraz z 2023 r. poz. 605 i 1675) oraz ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692).”.
 
 **Art. 56.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545 i 1675) w art. 26 w ust. 3 pkt 8 otrzymuje brzmienie: „8) osobom wykonującym zawód medyczny, w związku z prowadzeniem przeglądu akredytacyjnego podmiotu udzielającego świadczeń zdrowotnych na podstawie przepisów ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692) albo procedury uzyskiwania innych certyfikatów jakości, w zakresie niezbędnym do ich przeprowadzenia;”.
 
 **Art. 57.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650 i 1234) wprowadza się następujące zmiany:
+
+- **1)** po art. 8c dodaje się art. 8d w brzmieniu: „Art. 8d. 1. Usługodawcy oraz dostawcy usług informatycznych dla usługodawców, zwani dalej „dostawcami usług informatycznych”, są obowiązani zapewniać, aby ich systemy teleinformatyczne identyfikowały się wzajemnie oraz porozumiewały się między sobą w sposób bezpieczny, zgodnie z wymogami dotyczącymi wspólnych i bezpiecznych otwartych standardów komunikacji.
+
+2. Wymogi dotyczące wspólnych i bezpiecznych otwartych standardów komunikacji określa minister właściwy do spraw zdrowia w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia, mając na uwadze zapewnienie adekwatnego poziomu bezpieczeństwa komunikacji i poufności oraz integralności przekazywanych danych.
+
+3. Podmioty, o których mowa w ust. 1, mają obowiązek stosowania wymogów, o których mowa w ust. 2, w terminie 9 miesięcy od dnia ich zamieszczenia w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia.
+
+4. Wymogi dotyczące wspólnych i bezpiecznych otwartych standardów komunikacji przed ich zamieszczeniem w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia podlegają konsultacjom z usługodawcami oraz dostawcami usług informatycznych.
+
+5. Konsultacje, o których mowa w ust. 4, prowadzi jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia, przez zamieszczenie na swojej stronie internetowej projektu wymogów dotyczących wspólnych i bezpiecznych otwartych standardów komunikacji, ze wskazaniem sposobu i terminu zgłaszania uwag.
+
+6. Termin, o którym mowa w ust. 3, może ulec wydłużeniu przez ministra właściwego do spraw zdrowia w drodze obwieszczenia publikowanego w dzienniku urzędowym ministra właściwego do spraw zdrowia.
+
+7. Zmiany wymogów dotyczących wspólnych i bezpiecznych otwartych standardów komunikacji wprowadza się na zasadach określonych w ust. 2–6, przy czym usługodawcy oraz dostawcy usług informatycznych mają obowiązek stosować zmienione wymogi w terminie wyznaczonym przez ministra właściwego do spraw zdrowia, nie krótszym niż 1 miesiąc od dnia ich zamieszczenia w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia.”;
+
+- **2)** w art. 19:
+    - **a)** w ust. 1 w pkt 4 dodaje się przecinek i dodaje się pkt 5 w brzmieniu: „5) monitorowania jakości świadczeń opieki zdrowotnej udzielanych w podmiotach wykonujących działalność leczniczą”,
+    - **b)** ust. 1b otrzymuje brzmienie: „1b. Utworzenie rejestru medycznego, o którym mowa w ust. 1, może nastąpić na wniosek podmiotu wykonującego działalność leczniczą w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, Narodowego Funduszu Zdrowia, innych jednostek podległych lub nadzorowanych przez ministra właściwego do spraw zdrowia albo medycznych towarzystw naukowych.”,
+    - **c)** uchyla się ust. 3 i 4,
+    - **d)** ust. 4b otrzymuje brzmienie: „4b. Udzielając dotacji celowej, o której mowa w ust. 4a pkt 2, minister właściwy do spraw zdrowia kieruje się kryteriami przejrzystości, racjonalności i efektywności funkcjonowania rejestru medycznego.”,
+    - **e)** po ust. 7 dodaje się ust. 7a–7d w brzmieniu: „7a. Podmiot prowadzący rejestr medyczny określony w przepisach wydanych na podstawie art. 20 ust. 1 publikuje na swojej stronie internetowej do końca pierwszego kwartału roku dane:
+
+- **1)** o rozpoznaniu zgodnie z aktualnie obowiązującą Międzynarodową Klasyfikacją Chorób i Problemów Zdrowotnych,
+- **2)** dotyczące przeprowadzonych badań diagnostycznych, w szczególności dane dotyczące rozpoznań histopatologicznych,
+- **3)** dotyczące pacjenta: wykształcenie, wiek, płeć oraz przyczynę zgonu,
+- **4)** na temat powikłań i wyników odległych, związanych z pogorszeniem jakości życia, bezpośrednio zagrażających życiu lub mogących prowadzić do zgonu pacjenta – w formie uniemożliwiającej ich powiązanie z konkretną osobą fizyczną.
+
+7b. Podmiot prowadzący rejestr medyczny określony w przepisach wydanych na podstawie art. 20 ust. 1 jest obowiązany w terminie do dnia 30 listopada roku następnego przedstawić i udostępnić raport analityczny zawierający dane w formie uniemożliwiającej ich powiązanie z konkretną osobą fizyczną na swojej stronie podmiotowej oraz usługodawcom określonym w przepisach wydanych na podstawie art. 20 ust. 1.
+
+7c. Raport analityczny, o którym mowa w ust. 7b, zawiera:
+
+- **1)** analizę zapotrzebowania na świadczenia opieki zdrowotnej;
+- **2)** analizę stanu zdrowia usługobiorców;
+- **3)** analizę bezpieczeństwa, skuteczności, jakości i efektywności kosztowej badań diagnostycznych lub procedur medycznych;
+- **4)** analizę kompletności i jakości danych, które są przetwarzane w rejestrze medycznym, w podziale na usługodawców przekazujących dane do rejestru medycznego;
+- **5)** ocenę efektów wynikających z wdrożenia rejestru medycznego, w tym wskazanie korzyści i zagrożeń związanych z prowadzeniem tego rejestru;
+- **6)** ocenę funkcjonalności i spójności prowadzonego rejestru medycznego z innymi rejestrami publicznymi.
+
+7d. Minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, szczegółowy zakres danych publikowanych w raporcie analitycznym, o którym mowa w ust. 7b, mając na uwadze zapewnienie przejrzystości i jednolitości opracowywanych raportów analitycznych oraz porównywalności zawartych w nich danych.”,
+
+- **f)** ust. 8 otrzymuje brzmienie: „8. Usługodawcy, administrator danych przetwarzanych w SIM, administratorzy danych przetwarzanych w dziedzinowych systemach teleinformatycznych, Narodowy Fundusz Zdrowia oraz podmioty prowadzące rejestry publiczne lub rejestry medyczne są obowiązani do nieodpłatnego przekazywania danych do rejestrów medycznych, o których mowa w ust. 1. Przepis ust. 15 stosuje się odpowiednio.”,
+- **g)** w ust. 11 pkt 1 otrzymuje brzmienie: „1) dane, o których mowa w art. 4 ust. 3 pkt 1 lit. a, c, g, h, i, r, t oraz pkt 2;”,
+- **h)** w ust. 12 w pkt 3 w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) oceny bezpieczeństwa, skuteczności, jakości i efektywności kosztowej badań diagnostycznych lub procedur medycznych u usługodawców.”;
+- **3)** w art. 20 w ust. 1:
+    - **a)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) administratora systemu odpowiedzialnego za techniczno-organizacyjną obsługę rejestru,”,
+    - **b)** pkt 3a otrzymuje brzmienie: „3a) usługodawców, podmioty prowadzące rejestry publiczne lub rejestry medyczne, administratora danych przetwarzanych w SIM lub administratorów danych przetwarzanych w dziedzinowych systemach teleinformatycznych, z których dane mogą być przekazywane do rejestru, oraz sposoby i terminy ich przekazywania,”,
+    - **c)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) zakres przedmiotowy rejestru, opisany jako:
+    - **a)** zakres świadczeń, o którym mowa w art. 15 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, oraz
+    - **b)** rozpoznania zgodnie z aktualnie obowiązującą Międzynarodową Klasyfikacją Chorób i Problemów Zdrowotnych lub
+    - **c)** procedury według obowiązującej Międzynarodowej Klasyfikacji Procedur Medycznych lub produkty z katalogu płatnika,”,
+    - **d)** część wspólna otrzymuje brzmienie: „– mając na uwadze zapewnienie proporcjonalności zakresu i rodzaju danych przetwarzanych w rejestrze z celami utworzenia rejestru.”.
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 
@@ -821,4 +916,9 @@ source: "isap-pdf"
 **Art. 66.** Traci moc ustawa z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia (Dz. U. z 2016 r. poz. 2135).
 
 **Art. 67.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 26 ust. 1–3 i 5, art. 28–41, art. 44–53, art. 55, art. 56 i art. 66, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **2)** art. 22 ust. 6, który wchodzi w życie z dniem 1 stycznia 2025 r.;
+- **3)** art. 26 ust. 4 i 6 oraz art. 27, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia.
+
 

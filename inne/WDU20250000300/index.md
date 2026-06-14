@@ -8,12 +8,10 @@ pos: 300
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -76,23 +74,23 @@ Art. 93–95. (pominięte)
 
 4. Jeżeli głosowanie w referendum przeprowadza się w ciągu dwóch dni, głosowanie odbywa się każdego z tych dni bez przerwy od godziny 6 do 20 , a przerwa następuje od godziny 20 pierwszego dnia do godziny 6 drugiego dnia.
 
-5. Do trybu przeprowadzenia głosowania stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721, 1572 i 1907).
+5. Do trybu przeprowadzenia głosowania stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721, 1572 i 1907).
 
 **Art. 6.**
 
 1. Głosowanie w referendum przeprowadza się:
 
-- **1)** w stałych obwodach głosowania, utworzonych na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy;
+- **1)** w stałych obwodach głosowania, utworzonych na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
 - **2)** w obwodach głosowania utworzonych w szpitalach i w zakładach pomocy społecznej;
 - **3)** w obwodach głosowania utworzonych w zakładach karnych i aresztach śledczych oraz w oddziałach zewnętrznych tych zakładów i aresztów;
 - **4)** w obwodach głosowania utworzonych dla obywateli polskich przebywających za granicą;
 - **5)** w obwodach głosowania utworzonych dla obywateli polskich przebywających na polskich statkach morskich.
 
-2. Do obwodów głosowania w szpitalach i zakładach pomocy społecznej oraz do obwodów w zakładach karnych i aresztach śledczych, a także do obwodów w oddziałach zewnętrznych tych zakładów i aresztów stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+2. Do obwodów głosowania w szpitalach i zakładach pomocy społecznej oraz do obwodów w zakładach karnych i aresztach śledczych, a także do obwodów w oddziałach zewnętrznych tych zakładów i aresztów stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
-3. Do obwodów głosowania dla obywateli polskich przebywających za granicą oraz do obwodów głosowania dla wyborców przebywających na polskich statkach morskich stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+3. Do obwodów głosowania dla obywateli polskich przebywających za granicą oraz do obwodów głosowania dla wyborców przebywających na polskich statkach morskich stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
-4. W uzasadnionych przypadkach mogą być dokonane zmiany obwodów głosowania, w trybie określonym przepisami ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+4. W uzasadnionych przypadkach mogą być dokonane zmiany obwodów głosowania, w trybie określonym przepisami ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 5. Informację o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji do spraw referendum, o których mowa w ust. 1 i 2 oraz w art. 7 ust. 2, podaje do wiadomości publicznej, przez rozplakatowanie, wójt lub burmistrz (prezydent miasta) najpóźniej w 40 dniu przed dniem referendum.
 
@@ -114,7 +112,7 @@ Art. 93–95. (pominięte)
 
 **Art. 9.**
 
-1. Spis osób uprawnionych do udziału w referendum jest sporządzany i aktualizowany przez gminę jako zadanie zlecone, z zastrzeżeniem ust. 2. Spis jest sporządzany na podstawie Centralnego Rejestru Wyborców, prowadzonego na zasadach określonych w przepisach ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+1. Spis osób uprawnionych do udziału w referendum jest sporządzany i aktualizowany przez gminę jako zadanie zlecone, z zastrzeżeniem ust. 2. Spis jest sporządzany na podstawie Centralnego Rejestru Wyborców, prowadzonego na zasadach określonych w przepisach ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 2. Spis osób uprawnionych do udziału w referendum przebywających na polskich statkach morskich oraz za granicą sporządzają odpowiednio kapitan statku i właściwy terytorialnie konsul.
 
@@ -126,18 +124,18 @@ Art. 93–95. (pominięte)
 
 6. (uchylony)
 
-7. Do spisów osób uprawnionych do udziału w referendum stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+7. Do spisów osób uprawnionych do udziału w referendum stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 8. Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia:
 
 - **1)** wzór spisu osób uprawnionych do udziału w referendum,
 - **2)** sposób i tryb sporządzania spisu osób uprawnionych do udziału w referendum oraz jego aktualizacji,
-- **3)** wzór wykazu osób uprawnionych do udziału w referendum, przebywających w zakładach leczniczych, domach pomocy społecznej, zakładach karnych i aresztach śledczych oraz oddziałach zewnętrznych takich zakładów i aresztów, a także domach studenckich i zespołach domów studenckich, w których utworzono obwody głosowania uwzględniając konieczność zapewnienia ochrony danych osobowych.
+- **3)** wzór wykazu osób uprawnionych do udziału w referendum, przebywających w zakładach leczniczych, domach pomocy społecznej, zakładach karnych i aresztach śledczych oraz oddziałach zewnętrznych takich zakładów i aresztów, a także domach studenckich i zespołach domów studenckich, w których utworzono obwody głosowania – uwzględniając konieczność zapewnienia ochrony danych osobowych.
 
 8a. Minister właściwy do spraw administracji publicznej, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku o zmianę miejsca głosowania,
-- **2)** wzór i sposób wydawania zaświadczenia o prawie do głosowania osobom uprawnionym do udziału w referendum uwzględniając konieczność zapewnienia ochrony danych osobowych i zabezpieczenia zaświadczenia przed sfałszowaniem.
+- **2)** wzór i sposób wydawania zaświadczenia o prawie do głosowania osobom uprawnionym do udziału w referendum – uwzględniając konieczność zapewnienia ochrony danych osobowych i zabezpieczenia zaświadczenia przed sfałszowaniem.
 
 9. Minister właściwy do spraw gospodarki morskiej, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, sposób sporządzania i aktualizacji spisu osób uprawnionych do udziału w referendum przebywających na polskich statkach morskich znajdujących się w podróży w dniu referendum, a także sposób powiadamiania burmistrza dzielnicy Śródmieście miasta stołecznego Warszawy o objętych spisem osobach stale zamieszkałych w kraju i sposób wydawania zaświadczeń o prawie do głosowania.
 
@@ -146,6 +144,10 @@ Art. 93–95. (pominięte)
 #### Rozdział 2 Organy do spraw referendum
 
 **Art. 10.** Referendum przeprowadzają:
+
+- **1)** Państwowa Komisja Wyborcza, powołana na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
+- **2)** komisarze wyborczy, powołani na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
+- **3)** obwodowe komisje do spraw referendum, zwane dalej „komisjami obwodowymi”.
 
 **Art. 11.**
 
@@ -159,11 +161,17 @@ Art. 93–95. (pominięte)
 - **4)** rozwiązanie komisji obwodowych po wykonaniu przez nie ustawowych zadań;
 - **5)** ustalenie regulaminu komisji obwodowych oraz wzoru ich pieczęci, a także wzoru urzędowych formularzy oraz druków;
 - **6)** sporządzenie protokołu o wyniku referendum oraz sprawozdania z przebiegu referendum;
-- **7)** podanie do wiadomości publicznej oraz ogłoszenie w Dzienniku Rzeczypospolitej Polskiej wyniku referendum.
+- **7)** podanie do wiadomości publicznej oraz ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej wyniku referendum.
 
 3. Państwowa Komisja Wyborcza może określić, w drodze uchwały, warunki oraz sposób wykorzystania techniki elektronicznej przy ustalaniu wyników głosowania i wyniku referendum przez komisarzy wyborczych i komisje obwodowe oraz tryb przekazywania danych z protokołów za pośrednictwem sieci elektronicznego przekazywania danych.
 
 **Art. 12.** Do zadań komisarza wyborczego na obszarze należącym do jego właściwości terytorialnej należy w szczególności:
+
+- **1)** zapewnienie, we współdziałaniu z właściwymi organami samorządu terytorialnego, prawidłowego przygotowania i przeprowadzenia referendum;
+- **2)** sprawowanie nadzoru nad przestrzeganiem przepisów niniejszej ustawy przez komisje obwodowe;
+- **3)** rozpatrywanie skarg na działalność komisji obwodowych;
+- **4)** dostarczanie komisjom obwodowym kart do głosowania w trybie określonym przez Państwową Komisję Wyborczą;
+- **5)** ustalenie wyników głosowania i przekazanie ich do Państwowej Komisji Wyborczej.
 
 **Art. 13.**
 
@@ -171,18 +179,18 @@ Art. 93–95. (pominięte)
 
 2. W skład komisji obwodowej powołuje się:
 
-- **1)** od 4 do 8 osób, a jeżeli termin głosowania w referendum został wyznaczony na dwa kolejne dni od 6 do 10 osób, spośród kandydatów zgłoszonych przez podmioty uprawnione, o których mowa w art. 48, albo upoważnione przez nie osoby;
+- **1)** od 4 do 8 osób, a jeżeli termin głosowania w referendum został wyznaczony na dwa kolejne dni – od 6 do 10 osób, spośród kandydatów zgłoszonych przez podmioty uprawnione, o których mowa w art. 48, albo upoważnione przez nie osoby;
 - **2)** jedną osobę wskazaną przez wójta lub burmistrza (prezydenta miasta) w przypadku:
-    - **a)** stałych obwodów głosowania spośród pracowników samorządowych gminy lub gminnych jednostek organizacyjnych,
-    - **b)** obwodów w szpitalach i zakładach pomocy społecznej spośród pracowników tych szpitali lub zakładów,
-    - **c)** obwodów w zakładach karnych i aresztach śledczych spośród pracowników tych zakładów lub aresztów,
-    - **d)** obwodów w domach studenckich spośród pracowników tych domów studenckich.
+    - **a)** stałych obwodów głosowania – spośród pracowników samorządowych gminy lub gminnych jednostek organizacyjnych,
+    - **b)** obwodów w szpitalach i zakładach pomocy społecznej – spośród pracowników tych szpitali lub zakładów,
+    - **c)** obwodów w zakładach karnych i aresztach śledczych – spośród pracowników tych zakładów lub aresztów,
+    - **d)** obwodów w domach studenckich – spośród pracowników tych domów studenckich.
 
 3. Podmiot określony w ust. 2 pkt 1 może zgłosić do każdej komisji obwodowej tylko po jednym kandydacie, o którym mowa w ust. 1. Zgłoszenia dokonuje się najpóźniej w 30 dniu przed dniem referendum, dołączając zaświadczenie, o którym mowa w art. 48 ust. 3.
 
-4. W przypadku zgłoszenia więcej niż 8 kandydatów lub gdy termin głosowania w referendum został wyznaczony na dwa kolejne dni więcej niż 10, skład osobowy komisji obwodowej ustala się w drodze publicznego losowania przeprowadzonego przez wójta lub burmistrza (prezydenta miasta).
+4. W przypadku zgłoszenia więcej niż 8 kandydatów lub – gdy termin głosowania w referendum został wyznaczony na dwa kolejne dni – więcej niż 10, skład osobowy komisji obwodowej ustala się w drodze publicznego losowania przeprowadzonego przez wójta lub burmistrza (prezydenta miasta).
 
-5. Jeżeli liczba kandydatów zgłoszonych w trybie, o którym mowa w ust. 3, jest mniejsza niż 4 lub gdy termin głosowania w referendum został wyznaczony na dwa kolejne dni mniejsza niż 6, uzupełnienia składu komisji obwodowej do jej minimalnego składu, o którym mowa w ust. 2 pkt 1, dokonuje wójt lub burmistrz (prezydent miasta) spośród osób stale zamieszkałych na obszarze tej gminy.
+5. Jeżeli liczba kandydatów zgłoszonych w trybie, o którym mowa w ust. 3, jest mniejsza niż 4 lub – gdy termin głosowania w referendum został wyznaczony na dwa kolejne dni – mniejsza niż 6, uzupełnienia składu komisji obwodowej do jej minimalnego składu, o którym mowa w ust. 2 pkt 1, dokonuje wójt lub burmistrz (prezydent miasta) spośród osób stale zamieszkałych na obszarze tej gminy.
 
 6. Wskazanie do składu komisji obwodowej, o którym mowa w ust. 2 pkt 2 i ust. 5, następuje po uzyskaniu zgody osoby, której ma dotyczyć.
 
@@ -200,17 +208,22 @@ Art. 93–95. (pominięte)
 
 **Art. 15.** Do zadań komisji obwodowej należy w szczególności:
 
+- **1)** przeprowadzenie głosowania w obwodzie;
+- **2)** czuwanie nad przestrzeganiem przepisów niniejszej ustawy w miejscu i w czasie głosowania;
+- **3)** ustalenie wyników głosowania w obwodzie i podanie ich do wiadomości publicznej;
+- **4)** przekazanie protokołu głosowania w obwodzie właściwemu komisarzowi wyborczemu.
+
 **Art. 16.**
 
-1. Do uprawnień członków komisji obwodowych stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy dotyczące obwodowych komisji wyborczych.
+1. Do uprawnień członków komisji obwodowych stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy dotyczące obwodowych komisji wyborczych.
 
 2. Minister właściwy do spraw administracji publicznej, po porozumieniu z Państwową Komisją Wyborczą, określi, w drodze rozporządzenia, wysokość oraz szczegółowe zasady, na podstawie których przysługują członkom komisji obwodowych diety, zryczałtowane diety oraz zwrot kosztów podróży i noclegów, a także tryb udzielania im dni wolnych od pracy.
 
-**Art. 17.** Do działalności komisji obwodowych oraz do zmian w składzie komisji stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+**Art. 17.** Do działalności komisji obwodowych oraz do zmian w składzie komisji stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 **Art. 18.**
 
-1. Organizacyjno-techniczne warunki wykonywania zadań związanych z przeprowadzeniem referendum przez Państwową Komisję Wyborczą i komisarzy wyborczych zapewnia Krajowe Biuro Wyborcze, działające na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+1. Organizacyjno-techniczne warunki wykonywania zadań związanych z przeprowadzeniem referendum przez Państwową Komisję Wyborczą i komisarzy wyborczych zapewnia Krajowe Biuro Wyborcze, działające na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 2. Obsługę i techniczno-materialne warunki pracy komisji obwodowej zapewnia wójt lub burmistrz (prezydent miasta) jako zadanie zlecone gminie.
 
@@ -218,7 +231,7 @@ Art. 93–95. (pominięte)
 
 **Art. 19.**
 
-1. Podmioty uprawnione, o których mowa w art. 48, albo upoważnione przez nie osoby, mogą wyznaczyć po jednym mężu zaufania i jego zastępcy do każdej komisji obwodowej w celu obserwacji przebiegu głosowania i ustalenia wyników głosowania w obwodzie. Przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy dotyczące mężów zaufania stosuje się odpowiednio. Do zastępcy męża zaufania stosuje się odpowiednio przepisy dotyczące męża zaufania.
+1. Podmioty uprawnione, o których mowa w art. 48, albo upoważnione przez nie osoby, mogą wyznaczyć po jednym mężu zaufania i jego zastępcy do każdej komisji obwodowej w celu obserwacji przebiegu głosowania i ustalenia wyników głosowania w obwodzie. Przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy dotyczące mężów zaufania stosuje się odpowiednio. Do zastępcy męża zaufania stosuje się odpowiednio przepisy dotyczące męża zaufania.
 
 2. Przy czynnościach komisji może być obecny mąż zaufania albo jego zastępca.
 
@@ -290,7 +303,7 @@ Art. 93–95. (pominięte)
 - **4)** kart ważnych (osób, które wzięły udział w głosowaniu);
 - **5)** głosów nieważnych, o których mowa w art. 21 ust. 2 lub 3;
 - **6)** głosów ważnych;
-- **7)** głosów ważnych osobno: pozytywnych „Tak” oraz negatywnych „Nie” oddanych w odpowiedzi na postawione pytanie lub za wyborem określonego wariantu rozwiązania.
+- **7)** głosów ważnych – osobno: pozytywnych „Tak” oraz negatywnych „Nie” oddanych w odpowiedzi na postawione pytanie lub za wyborem określonego wariantu rozwiązania.
 
 3. Przepis art. 24 ust. 2 stosuje się odpowiednio.
 
@@ -331,7 +344,7 @@ Art. 93–95. (pominięte)
 - **1)** ustala wyniki głosowania i wynik referendum;
 - **2)** sporządza protokół o wyniku referendum; przepisy art. 24 ust. 2 i art. 25 ust. 2 i 4 oraz 6 i 7 stosuje się odpowiednio;
 - **3)** przekazuje protokół o wyniku referendum wraz ze sprawozdaniem z przebiegu referendum Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi Sejmu, Marszałkowi Senatu, Prezesowi Rady Ministrów oraz Sądowi Najwyższemu;
-- **4)** podaje niezwłocznie wynik referendum do wiadomości publicznej oraz ogłasza, w formie obwieszczenia, w Dzienniku Rzeczypospolitej Polskiej.
+- **4)** podaje niezwłocznie wynik referendum do wiadomości publicznej oraz ogłasza, w formie obwieszczenia, w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 **Art. 30.** Wzory protokołów, o których mowa w art. 25 ust. 1, art. 28 ust. 2 oraz art. 29 ust. 3 pkt 2, określa, w drodze uchwały, Państwowa Komisja Wyborcza.
 
@@ -347,7 +360,7 @@ Art. 93–95. (pominięte)
 - **2)** ustala protokolarnie:
     - **a)** liczbę niewykorzystanych kart do głosowania,
     - **b)** liczbę osób uprawnionych do głosowania, czyli liczbę osób ujętych w spisie osób uprawnionych do udziału w referendum,
-    - **c)** liczbę kart wydanych na podstawie podpisów osób w spisie osób uprawnionych do udziału w referendum.
+    - **c)** liczbę kart wydanych – na podstawie podpisów osób w spisie osób uprawnionych do udziału w referendum.
 
 3. Po wykonaniu czynności, o których mowa w ust. 2, komisja obwodowa umieszcza w opieczętowanych pakietach odrębnie karty niewykorzystane i spis osób uprawnionych do udziału w referendum, które wraz z urną pozostają w lokalu komisji.
 
@@ -381,9 +394,9 @@ Art. 93–95. (pominięte)
 
 **Art. 34.**
 
-1. Protest wnosi się do Sądu Najwyższego na piśmie w terminie 7 dni od dnia ogłoszenia wyniku referendum przez Państwową Komisję Wyborczą w Dzienniku Rzeczypospolitej Polskiej.
+1. Protest wnosi się do Sądu Najwyższego na piśmie w terminie 7 dni od dnia ogłoszenia wyniku referendum przez Państwową Komisję Wyborczą w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
-2. Do warunków i trybu wnoszenia protestu oraz sposobu jego rozpatrywania i trybu podejmowania uchwały w tej sprawie przez Sąd Najwyższy stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+2. Do warunków i trybu wnoszenia protestu oraz sposobu jego rozpatrywania i trybu podejmowania uchwały w tej sprawie przez Sąd Najwyższy stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 **Art. 35.**
 
@@ -393,19 +406,19 @@ Art. 93–95. (pominięte)
 
 3. Uchwałę o ważności referendum przedstawia się niezwłocznie Prezydentowi Rzeczypospolitej, Marszałkowi Sejmu, Marszałkowi Senatu i Prezesowi Rady Ministrów, a także Państwowej Komisji Wyborczej.
 
-4. Uchwałę o ważności referendum ogłasza się w Dzienniku Rzeczypospolitej Polskiej.
+4. Uchwałę o ważności referendum ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 **Art. 36.**
 
-1. W razie podjęcia przez Sąd Najwyższy uchwały o unieważnieniu głosowania w obwodzie lub w obwodach, jeżeli unieważnienie głosowania nie wpływa na wynik referendum, Państwowa Komisja Wyborcza, w drodze uchwały, koryguje wyniki głosowania. Przy ustalaniu wyniku referendum nie uwzględnia się liczby osób uprawnionych do głosowania oraz wyników głosowania w tym obwodzie lub w obwodach. Skorygowany wynik Państwowa Komisja Wyborcza podaje niezwłocznie do wiadomości publicznej oraz ogłasza, w formie obwieszczenia, w Dzienniku Rzeczypospolitej Polskiej.
+1. W razie podjęcia przez Sąd Najwyższy uchwały o unieważnieniu głosowania w obwodzie lub w obwodach, jeżeli unieważnienie głosowania nie wpływa na wynik referendum, Państwowa Komisja Wyborcza, w drodze uchwały, koryguje wyniki głosowania. Przy ustalaniu wyniku referendum nie uwzględnia się liczby osób uprawnionych do głosowania oraz wyników głosowania w tym obwodzie lub w obwodach. Skorygowany wynik Państwowa Komisja Wyborcza podaje niezwłocznie do wiadomości publicznej oraz ogłasza, w formie obwieszczenia, w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 2. Jeżeli unieważnienie głosowania w obwodzie lub w obwodach wpływa na wynik referendum, Sąd Najwyższy w uchwale postanawia o przeprowadzeniu ponownego głosowania w tym obwodzie lub w obwodach albo wskazuje czynność, od której należy ponowić postępowanie.
 
-3. Na podstawie uchwały Sądu Najwyższego, o której mowa w ust. 2, Państwowa Komisja Wyborcza, w drodze uchwały, niezwłocznie zarządza przeprowadzenie ponownego głosowania w obwodzie lub w obwodach na dzień wolny od pracy przypadający w terminie 20 dni od dnia ogłoszenia uchwały Sądu Najwyższego albo zarządza podjęcie wskazanych czynności, od których należy ponowić postępowanie. Uchwałę Państwowej Komisji Wyborczej podaje się do wiadomości publicznej i ogłasza w Dzienniku Rzeczypospolitej Polskiej.
+3. Na podstawie uchwały Sądu Najwyższego, o której mowa w ust. 2, Państwowa Komisja Wyborcza, w drodze uchwały, niezwłocznie zarządza przeprowadzenie ponownego głosowania w obwodzie lub w obwodach na dzień wolny od pracy przypadający w terminie 20 dni od dnia ogłoszenia uchwały Sądu Najwyższego albo zarządza podjęcie wskazanych czynności, od których należy ponowić postępowanie. Uchwałę Państwowej Komisji Wyborczej podaje się do wiadomości publicznej i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 4. Ponowne głosowanie w obwodzie lub w obwodach przeprowadza się na podstawie tych samych spisów osób uprawnionych do udziału w referendum i przez te same komisje obwodowe, chyba że podstawą unieważnienia głosowania były zarzuty odnoszące się do komisji lub do nieprawidłowości w spisie. W takim przypadku powołuje się nowe komisje lub sporządza się nowe spisy.
 
-5. Po ustaleniu wyników ponownego głosowania w obwodzie lub w obwodach komisarz wyborczy koryguje wyniki głosowania na obszarze swojej właściwości, a Państwowa Komisja Wyborcza, w drodze uchwały, ustala skorygowane wyniki głosowania i wynik referendum. Uchwałę Państwowej Komisji Wyborczej podaje się do wiadomości publicznej i ogłasza w Dzienniku Rzeczypospolitej Polskiej.
+5. Po ustaleniu wyników ponownego głosowania w obwodzie lub w obwodach komisarz wyborczy koryguje wyniki głosowania na obszarze swojej właściwości, a Państwowa Komisja Wyborcza, w drodze uchwały, ustala skorygowane wyniki głosowania i wynik referendum. Uchwałę Państwowej Komisji Wyborczej podaje się do wiadomości publicznej i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 6. O wynikach referendum, o których mowa w ust. 1 i 5, zawiadamia się Prezydenta Rzeczypospolitej, Marszałka Sejmu, Marszałka Senatu, Prezesa Rady Ministrów oraz Sąd Najwyższy.
 
@@ -487,7 +500,7 @@ Art. 93–95. (pominięte)
 
 1. Wydatki ponoszone przez podmioty biorące udział w kampanii referendalnej pokrywane są z ich źródeł własnych i zgodnie z przepisami określającymi ich działalność finansową.
 
-2. Do finansowania kampanii referendalnej nie mają zastosowania przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+2. Do finansowania kampanii referendalnej nie mają zastosowania przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 **Art. 48.**
 
@@ -508,10 +521,10 @@ Art. 93–95. (pominięte)
 
 2. Podmioty, o których mowa w ust. 1, najpóźniej w 40 dniu przed dniem referendum, zawiadamiają Państwową Komisję Wyborczą o zamiarze skorzystania z uprawnienia określonego w ust. 1, załączając do zawiadomienia:
 
-- **1)** w przypadku partii politycznej prawomocne postanowienie Sądu Okręgowego w Warszawie o wpisaniu partii do ewidencji partii politycznych;
-- **2)** w przypadku klubu poselskiego, klubu senatorskiego oraz klubu parlamentarnego, o których mowa w ust. 1 pkt 2 dokument wskazujący podmiot uprawniony do reprezentowania klubu oraz informację odpowiednio Marszałka Sejmu lub Marszałka Senatu o utworzeniu klubu;
-- **3)** w przypadku stowarzyszenia lub innej organizacji społecznej oraz fundacji uwierzytelniony statut i zaświadczenie albo oświadczenie o wpisie do rejestru w Krajowym Rejestrze Sądowym stowarzyszenia, organizacji lub fundacji albo regulaminu działalności stowarzyszenia zwykłego, poświadczonego przez właściwy organ nadzorujący;
-- **4)** w przypadku pełnomocnika, o którym mowa w ust. 1 pkt 5 oświadczenie, o którym mowa w art. 63 ust. 3.
+- **1)** w przypadku partii politycznej – prawomocne postanowienie Sądu Okręgowego w Warszawie o wpisaniu partii do ewidencji partii politycznych;
+- **2)** w przypadku klubu poselskiego, klubu senatorskiego oraz klubu parlamentarnego, o których mowa w ust. 1 pkt 2 – dokument wskazujący podmiot uprawniony do reprezentowania klubu oraz informację odpowiednio Marszałka Sejmu lub Marszałka Senatu o utworzeniu klubu;
+- **3)** w przypadku stowarzyszenia lub innej organizacji społecznej oraz fundacji – uwierzytelniony statut i zaświadczenie albo oświadczenie o wpisie do rejestru w Krajowym Rejestrze Sądowym stowarzyszenia, organizacji lub fundacji albo regulaminu działalności stowarzyszenia zwykłego, poświadczonego przez właściwy organ nadzorujący;
+- **4)** w przypadku pełnomocnika, o którym mowa w ust. 1 pkt 5 – oświadczenie, o którym mowa w art. 63 ust. 3.
 
 2a. Oświadczenie, o którym mowa w ust. 2 pkt 3, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -539,8 +552,8 @@ Art. 93–95. (pominięte)
 
 2. Łączny czas rozpowszechniania audycji referendalnych wynosi:
 
-- **1)** w ogólnokrajowych programach 15 godzin w Telewizji Polskiej, w tym do 3 godzin w TV Polonia, i 30 godzin w Polskim Radiu, w tym do 5 godzin w programie przeznaczonym dla zagranicy;
-- **2)** w każdym regionalnym programie 10 godzin w Telewizji Polskiej i 15 godzin w Polskim Radiu.
+- **1)** w ogólnokrajowych programach – 15 godzin w Telewizji Polskiej, w tym do 3 godzin w TV Polonia, i 30 godzin w Polskim Radiu, w tym do 5 godzin w programie przeznaczonym dla zagranicy;
+- **2)** w każdym regionalnym programie – 10 godzin w Telewizji Polskiej i 15 godzin w Polskim Radiu.
 
 3. Podmiot uprawniony ma prawo do rozpowszechniania audycji referendalnych w programach ogólnokrajowych oraz regionalnych.
 
@@ -552,8 +565,8 @@ Art. 93–95. (pominięte)
 
 2. Łączny czas rozpowszechniania audycji referendalnych wynosi:
 
-- **1)** w ogólnokrajowych programach 25 godzin w Telewizji Polskiej, w tym do 5 godzin w TV Polonia, i 45 godzin w Polskim Radiu, w tym do 8 godzin w programie przeznaczonym dla zagranicy;
-- **2)** w każdym regionalnym programie 15 godzin w Telewizji Polskiej i 20 godzin w Polskim Radiu.
+- **1)** w ogólnokrajowych programach – 25 godzin w Telewizji Polskiej, w tym do 5 godzin w TV Polonia, i 45 godzin w Polskim Radiu, w tym do 8 godzin w programie przeznaczonym dla zagranicy;
+- **2)** w każdym regionalnym programie – 15 godzin w Telewizji Polskiej i 20 godzin w Polskim Radiu.
 
 3. Przepisy art. 50 ust. 3 i 4 stosuje się odpowiednio.
 
@@ -563,8 +576,8 @@ Art. 93–95. (pominięte)
 
 2. Podziału czasu przeznaczonego na rozpowszechnianie audycji referendalnych:
 
-- **1)** w programach ogólnokrajowych dokonują odpowiednio zarządy Telewizji Polskiej i Polskiego Radia;
-- **2)** w programach regionalnych dokonują właściwi dyrektorzy oddziałów Telewizji Polskiej i prezesi zarządów spółek Polskiego Radia.
+- **1)** w programach ogólnokrajowych – dokonują odpowiednio zarządy Telewizji Polskiej i Polskiego Radia;
+- **2)** w programach regionalnych – dokonują właściwi dyrektorzy oddziałów Telewizji Polskiej i prezesi zarządów spółek Polskiego Radia.
 
 3. Na ustalenia dotyczące podziału czasu antenowego, o których mowa w ust. 2, podmiotowi uprawnionemu przysługuje skarga do Państwowej Komisji Wyborczej. Skargę wnosi się w terminie 2 dni od dnia doręczenia informacji o dokonaniu ustalenia. Państwowa Komisja Wyborcza rozpatruje sprawę niezwłocznie i wydaje postanowienie. Od postanowienia Państwowej Komisji Wyborczej nie przysługuje środek prawny.
 
@@ -636,6 +649,9 @@ Art. 93–95. (pominięte)
 
 **Art. 60.** W sprawach o szczególnym znaczeniu dla państwa referendum ma prawo zarządzić:
 
+- **1)** Sejm, uchwałą podjętą bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów, lub
+- **2)** Prezydent Rzeczypospolitej, za zgodą Senatu wyrażoną bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby senatorów.
+
 **Art. 61.**
 
 1. Sejm może postanowić o poddaniu pod referendum określonej sprawy z własnej inicjatywy, a także na wniosek Senatu, Rady Ministrów lub obywateli. W przypadku gdy Sejm, w drodze uchwały, nie uwzględni wniosku o przeprowadzenie referendum, Marszałek Sejmu informuje o tym wnioskodawcę.
@@ -689,7 +705,7 @@ Art. 93–95. (pominięte)
 
 2. Jeżeli głosowanie w referendum przeprowadza się w ciągu dwóch dni, uchwała Sejmu lub postanowienie Prezydenta Rzeczypospolitej, o których mowa w ust. 1, określają również terminy przeprowadzenia głosowania.
 
-3. Uchwałę Sejmu lub postanowienie Prezydenta Rzeczypospolitej, o których mowa w ust. 1, ogłasza się w Dzienniku Rzeczypospolitej Polskiej.
+3. Uchwałę Sejmu lub postanowienie Prezydenta Rzeczypospolitej, o których mowa w ust. 1, ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 4. Referendum przeprowadza się najpóźniej w 90 dniu od dnia ogłoszenia uchwały lub postanowienia, o których mowa w ust. 1.
 
@@ -702,7 +718,7 @@ Art. 93–95. (pominięte)
 - **1)** w odpowiedzi na postawione pytanie oddano większość ważnych głosów pozytywnych albo negatywnych;
 - **2)** na jeden z zaproponowanych wariantów rozwiązań w sprawie poddanej pod referendum oddano najwięcej ważnych głosów.
 
-**Art. 67.** Właściwe organy państwowe podejmują niezwłocznie czynności w celu realizacji wiążącego wyniku referendum zgodnie z jego rozstrzygnięciem przez wydanie aktów normatywnych bądź podjęcie innych decyzji, nie później jednak niż w terminie 60 dni od dnia ogłoszenia uchwały Sądu Najwyższego o ważności referendum w Dzienniku Rzeczypospolitej Polskiej.
+**Art. 67.** Właściwe organy państwowe podejmują niezwłocznie czynności w celu realizacji wiążącego wyniku referendum zgodnie z jego rozstrzygnięciem przez wydanie aktów normatywnych bądź podjęcie innych decyzji, nie później jednak niż w terminie 60 dni od dnia ogłoszenia uchwały Sądu Najwyższego o ważności referendum w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 #### Rozdział 9 Referendum w sprawie wyrażenia zgody na ratyfikację umowy międzynarodowej
 
@@ -766,13 +782,18 @@ Art. 93–95. (pominięte)
 
 1. Przyjęcie w referendum zmiany Konstytucji następuje wówczas, gdy opowiedziała się za nią większość głosujących.
 
-2. Marszałek Sejmu przedstawia Prezydentowi Rzeczypospolitej do podpisu ustawę o zmianie Konstytucji niezwłocznie po ogłoszeniu w Dzienniku Rzeczypospolitej Polskiej uchwały Sądu Najwyższego o ważności referendum.
+2. Marszałek Sejmu przedstawia Prezydentowi Rzeczypospolitej do podpisu ustawę o zmianie Konstytucji niezwłocznie po ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej uchwały Sądu Najwyższego o ważności referendum.
 
-3. Prezydent Rzeczypospolitej podpisuje przyjętą w referendum ustawę o zmianie Konstytucji w ciągu 21 dni od dnia przedstawienia przez Marszałka Sejmu tej ustawy do podpisu i zarządza jej niezwłoczne ogłoszenie w Dzienniku Rzeczypospolitej Polskiej.
+3. Prezydent Rzeczypospolitej podpisuje przyjętą w referendum ustawę o zmianie Konstytucji w ciągu 21 dni od dnia przedstawienia przez Marszałka Sejmu tej ustawy do podpisu i zarządza jej niezwłoczne ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 #### Rozdział 11 Przepisy karne
 
 **Art. 80.** Kto prowadzi kampanię referendalną:
+
+- **1)** w lokalu komisji obwodowej lub na terenie budynku, w którym ten lokal się znajduje,
+- **2)** na terenie zakładów pracy w sposób i w formach zakłócających ich normalne funkcjonowanie,
+- **3)** na terenie urzędów administracji rządowej lub administracji samorządu terytorialnego oraz sądów,
+- **4)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych – podlega karze grzywny.
 
 **Art. 81.**
 
@@ -780,30 +801,30 @@ Art. 93–95. (pominięte)
 
 - **1)** umieszcza plakaty i hasła dotyczące referendum na ścianach budynków, ogrodzeniach, latarniach, urządzeniach energetycznych, telekomunikacyjnych i innych bez zgody właściciela lub zarządcy,
 - **2)** przy ustawianiu własnych urządzeń ogłoszeniowych w celu prowadzenia kampanii referendalnej narusza obowiązujące przepisy porządkowe,
-- **3)** umieszcza plakaty i hasła dotyczące referendum w taki sposób, że nie można ich usunąć bez powodowania szkód podlega karze grzywny.
+- **3)** umieszcza plakaty i hasła dotyczące referendum w taki sposób, że nie można ich usunąć bez powodowania szkód – podlega karze grzywny.
 
 2. Tej samej karze podlega:
 
 - **1)** osoba zobowiązana do usunięcia plakatów, haseł dotyczących referendum lub urządzeń ogłoszeniowych ustawionych w celu prowadzenia kampanii referendalnej, która w terminie 30 dni od dnia referendum nie usunie tych plakatów, haseł lub urządzeń;
 - **2)** osoba będąca redaktorem w rozumieniu prawa prasowego, która dopuszcza do niewykonania obowiązku umieszczenia w informacjach, komunikatach, apelach i hasłach dotyczących referendum, ogłaszanych w prasie drukowanej lub w telewizji bądź radiu na koszt podmiotów biorących udział w kampanii referendalnej, wskazania, przez kogo są opłacane i od kogo pochodzą.
 
-**Art. 82.** Kto w związku z referendum nie umieszcza w materiałach dotyczących referendum oznaczenia, od kogo pochodzą podlega karze grzywny.
+**Art. 82.** Kto w związku z referendum nie umieszcza w materiałach dotyczących referendum oznaczenia, od kogo pochodzą – podlega karze grzywny.
 
 **Art. 83.**
 
-1. Kto zbiera podpisy osób popierających zgłoszenie wniosku do Sejmu w sprawie referendum z inicjatywy obywateli, stosując groźbę, podstęp lub jakąkolwiek inną formę nacisków zmierzających do uzyskania podpisów podlega grzywnie od 1000 do 10 000 złotych.
+1. Kto zbiera podpisy osób popierających zgłoszenie wniosku do Sejmu w sprawie referendum z inicjatywy obywateli, stosując groźbę, podstęp lub jakąkolwiek inną formę nacisków zmierzających do uzyskania podpisów – podlega grzywnie od 1000 do 10 000 złotych.
 
 2. Tej samej karze podlega, kto zbiera podpisy osób popierających wniosek, o którym mowa w ust. 1, na terenie jednostek wojskowych lub innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.
 
-3. Kto udziela wynagrodzenia pieniężnego w zamian za zbieranie lub złożenie podpisu pod wnioskiem, o którym mowa w ust. 1 podlega grzywnie od 10 000 do 50 000 złotych.
+3. Kto udziela wynagrodzenia pieniężnego w zamian za zbieranie lub złożenie podpisu pod wnioskiem, o którym mowa w ust. 1 – podlega grzywnie od 10 000 do 50 000 złotych.
 
-**Art. 84.** Kto w okresie od zakończenia kampanii referendalnej aż do zakończenia głosowania zwołuje zgromadzenia, organizuje pochody lub manifestacje, wygłasza przemówienia, rozdaje ulotki lub w jakikolwiek inny sposób prowadzi kampanię referendalną podlega karze grzywny.
+**Art. 84.** Kto w okresie od zakończenia kampanii referendalnej aż do zakończenia głosowania zwołuje zgromadzenia, organizuje pochody lub manifestacje, wygłasza przemówienia, rozdaje ulotki lub w jakikolwiek inny sposób prowadzi kampanię referendalną – podlega karze grzywny.
 
-**Art. 85.** Kto w okresie od zakończenia kampanii referendalnej aż do zakończenia głosowania podaje do wiadomości publicznej wyniki badań (sondaży) opinii publicznej dotyczących przewidywanych zachowań głosujących w referendum i przewidywanych wyników referendum lub wyniki sondaży przeprowadzanych w dniu głosowania podlega grzywnie od 500 000 do 1 000 000 złotych.
+**Art. 85.** Kto w okresie od zakończenia kampanii referendalnej aż do zakończenia głosowania podaje do wiadomości publicznej wyniki badań (sondaży) opinii publicznej dotyczących przewidywanych zachowań głosujących w referendum i przewidywanych wyników referendum lub wyniki sondaży przeprowadzanych w dniu głosowania – podlega grzywnie od 500 000 do 1 000 000 złotych.
 
-**Art. 86.** Kto w ramach prowadzonej kampanii referendalnej organizuje gry losowe lub konkursy, w których wygranymi są nagrody pieniężne lub przedmioty o wartości wyższej niż wartość przedmiotów zwyczajowo używanych w celach reklamowych lub promocyjnych podlega grzywnie od 5000 do 50 000 złotych.
+**Art. 86.** Kto w ramach prowadzonej kampanii referendalnej organizuje gry losowe lub konkursy, w których wygranymi są nagrody pieniężne lub przedmioty o wartości wyższej niż wartość przedmiotów zwyczajowo używanych w celach reklamowych lub promocyjnych – podlega grzywnie od 5000 do 50 000 złotych.
 
-**Art. 87.** Kto podaje lub dostarcza w ramach prowadzonej kampanii referendalnej napoje alkoholowe podlega grzywnie od 5000 do 50 000 złotych.
+**Art. 87.** Kto podaje lub dostarcza w ramach prowadzonej kampanii referendalnej napoje alkoholowe – podlega grzywnie od 5000 do 50 000 złotych.
 
 **Art. 88.** Do postępowania w sprawach, o których mowa w art. 80–82 i art. 84, stosuje się przepisy o postępowaniu w sprawach o wykroczenia.
 
@@ -817,8 +838,8 @@ Art. 93–95. (pominięte)
 
 - **1)** głosowanie przeprowadza się w obwodach głosowania utworzonych dla właściwych wyborów i na podstawie spisów wyborców sporządzonych dla tych wyborów;
 - **1a)** zaświadczenia o prawie do głosowania wydaje się zgodnie z przepisami dotyczącymi właściwych wyborów; zaświadczenie upoważnia do wzięcia udziału we wskazanym w nim głosowaniu w wyborach oraz w odbywającym się w tym samym terminie głosowaniu w referendum;
-- **1b)** informacje o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje się w terminach określonych w ustawie z dnia 5 stycznia 2011 r. Kodeks wyborczy;
-- **1c)** głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. Kodeks wyborczy;
+- **1b)** informacje o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje się w terminach określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
+- **1c)** głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
 - **1d)** zgłoszenie zamiaru głosowania korespondencyjnego we właściwych wyborach dotyczy również głosowania korespondencyjnego w referendum;
 - **1e)** wniosek o sporządzenie aktu pełnomocnictwa do głosowania we właściwych wyborach dotyczy również referendum, a akt pełnomocnictwa do głosowania sporządzony w związku ze wskazanymi w nim wyborami dotyczy również głosowania w referendum;
 - **2)** zadania komisarzy wyborczych i komisji obwodowych wykonują odpowiednio okręgowe i obwodowe komisje wyborcze powołane do przeprowadzenia właściwych wyborów;
@@ -827,8 +848,8 @@ Art. 93–95. (pominięte)
 1a. W przypadku przeprowadzenia referendum w tym samym dniu, w którym odbywają się wybory do Parlamentu Europejskiego, przepisy ust. 1 stosuje się odpowiednio, z tym, że:
 
 - **1)** głosowanie w referendum przeprowadza się w tych samych dniach, w których odbywa się głosowanie w wyborach do Parlamentu Europejskiego;
-- **1a)** informacje o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje się w terminach określonych w ustawie z dnia 5 stycznia 2011 r. Kodeks wyborczy;
-- **1b)** głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. Kodeks wyborczy;
+- **1a)** informacje o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje się w terminach określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
+- **1b)** głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
 - **1c)** zgłoszenie zamiaru głosowania korespondencyjnego w wyborach do Parlamentu Europejskiego dotyczy również głosowania korespondencyjnego w referendum;
 - **1d)** wniosek o sporządzenie aktu pełnomocnictwa do głosowania w wyborach do Parlamentu Europejskiego dotyczy również referendum, a akt pełnomocnictwa do głosowania sporządzony w związku z wyborami do Parlamentu Europejskiego dotyczy również głosowania w referendum;
 - **2)** w referendum mogą wziąć udział wyłącznie osoby ujęte w części A spisu wyborców;
@@ -850,15 +871,23 @@ Art. 93–95. (pominięte)
 
 **Art. 92.**
 
-1. W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+1. W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
-2. W przypadku przeprowadzenia referendum w tym samym dniu co wybory Prezydenta Rzeczypospolitej, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+2. W przypadku przeprowadzenia referendum w tym samym dniu co wybory Prezydenta Rzeczypospolitej, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
-3. W przypadku przeprowadzenia referendum w tym samym dniu co wybory do Parlamentu Europejskiego, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+3. W przypadku przeprowadzenia referendum w tym samym dniu co wybory do Parlamentu Europejskiego, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 96.** W przypadku pierwszego referendum ogólnokrajowego odbywającego się po dniu wejścia w życie niniejszej ustawy skróceniu ulegają terminy:
+
+- **1)** na utworzenie obwodów głosowania, o których mowa w art. 6 ust. 2, a także na dokonanie zmian obwodów głosowania lub siedzib obwodowych komisji do spraw referendum – do 40 dnia przed dniem referendum;
+- **2)** o którym mowa w art. 6 ust. 5 – do 35 dnia przed dniem referendum;
+- **3)** o którym mowa w art. 7 ust. 2 – do 40 dnia przed dniem referendum;
+- **4)** o którym mowa w art. 13 ust. 1 – do 16 dnia przed dniem referendum;
+- **5)** o którym mowa w art. 13 ust. 3 – do 25 dnia przed dniem referendum;
+- **6)** o którym mowa w art. 48 ust. 6 – do 2 dni;
+- **7)** o którym mowa w art. 48 ust. 7 – do 3 dni.
 
 **Art. 97.** Traci moc ustawa z dnia 29 czerwca 1995 r. o referendum (Dz. U. poz. 487, z 2000 r. poz. 488 oraz z 2002 r. poz. 984).
 

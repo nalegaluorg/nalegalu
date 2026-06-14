@@ -8,10 +8,10 @@ pos: 1254
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 czerwca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1254 UmowA między Rządem Rzeczypospolitej Polskiej a Radą Ministrów Bośni i Hercegowiny o ochronie informacji niejawnych, podpisana w Sarajewie dnia 7 czerwca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1254/text.pdf) |
 
-UmowA między Rządem Rzeczypospolitej Polskiej a Radą Ministrów Bośni i Hercegowiny o ochronie informacji niejawnych, podpisana w Sarajewie dnia 7 czerwca 2016 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPoSPolitej PolSkiej podaje do powszechnej wiadomości: Dnia 7 czerwca 2016 r. w Sarajewie została podpisana Umowa między Rządem Rzeczypospolitej Polskiej a Radą Ministrów Bośni i Hercegowiny o ochronie informacji niejawnych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPoSPolitej PolSkiej podaje do powszechnej wiadomości: Dnia 7 czerwca 2016 r. w Sarajewie została podpisana Umowa między Rządem Rzeczypospolitej Polskiej a Radą Ministrów Bośni i Hercegowiny o ochronie informacji niejawnych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 21 listopada 2016 r.
 Prezydent Rzeczypospolitej Polskiej: A. Duda l.S.
+Prezes Rady Ministrów: B. Szydło
 

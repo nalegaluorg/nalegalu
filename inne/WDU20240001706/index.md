@@ -8,10 +8,10 @@ pos: 1706
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 listopada 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11770066 OBWIESZCZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 12 listopada 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001706) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1706/text.pdf) |
 
-OBWIESZCZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 12 listopada 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie zwrotu kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 11 marca 2011 r. w sprawie zwrotu kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej (Dz. U. z 2022 r. poz. 1276), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 11 października 2023 r. zmieniającym rozporządzenie w sprawie zwrotu kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej (Dz. U. poz. 2215);
@@ -37,7 +36,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polity
 2. Do umów, o których mowa w § 6 ust. 1 rozporządzenia zmienianego w § 1, które zostały zawarte od dnia 1 lipca 2024 r. do dnia poprzedzającego dzień wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 11 marca 2011 r.
-w sprawie zwrotu kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej Na podstawie art. 26e ust. 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165 i 1494) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie zwrotu kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej Na podstawie art. 26e ust. 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165 i 1494) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb postępowania w sprawach dotyczących zwrotu kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej;
 2) wzór wniosku i elementy umowy oraz dokumentację niezbędną do zwrotu, o którym mowa w pkt 1;
 3) sposób i terminy rozpatrywania wniosków o zwrot kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej;
@@ -51,8 +51,8 @@ w sprawie zwrotu kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej 
 a) podatku od towarów i usług,
 b) podatku akcyzowego, związanych z przedmiotami opodatkowania określonymi w pkt 1.
 § 3. 1. Wniosek składa się do:
-1) Funduszu w przypadku wniosków składanych przez starostę;
-2) starosty właściwego ze względu na miejsce zarejestrowania osoby niepełnosprawnej jako bezrobotna albo poszukująca pracy niepozostająca w zatrudnieniu w pozostałych przypadkach.
+1) Funduszu – w przypadku wniosków składanych przez starostę;
+2) starosty właściwego ze względu na miejsce zarejestrowania osoby niepełnosprawnej jako bezrobotna albo poszukująca pracy niepozostająca w zatrudnieniu – w pozostałych przypadkach.
 2. Wzór wniosku określa załącznik do rozporządzenia.
 § 4. 1. Starosta sprawdza wniosek pod względem rachunkowym oraz formalnym.
 2. W przypadku stwierdzenia nieprawidłowości we wniosku starosta:
@@ -82,8 +82,8 @@ b) udokumentowania realizacji umowy na wezwanie starosty,
 c) umożliwienia wykonania przez starostę czynności, o których mowa w pkt 1 lit. b,
 d) informowania starosty o wszelkich zmianach dotyczących realizacji umowy w terminie 7 dni od dnia wystąpienia tych zmian,
 e) rozliczenia otrzymanej refundacji w terminie określonym w umowie,
-f) zwrotu: otrzymanej refundacji oraz odsetek od refundacji naliczonych od dnia jej otrzymania w wysokości określonej jak dla zaległości podatkowych, w terminie 3 miesięcy od dnia otrzymania wezwania starosty do zapłaty lub ujawnienia naruszenia co najmniej jednego z warunków umowy,
-g) zabezpieczenia zwrotu kwoty refundacji w formie poręczenia, weksla z poręczeniem wekslowym (awal), gwarancji bankowej, zastawu na prawach lub rzeczach, blokady rachunku bankowego lub aktu notarialnego o poddaniu się egzekucji przez dłużnika.
+f) zwrotu: – otrzymanej refundacji oraz – odsetek od refundacji naliczonych od dnia jej otrzymania w wysokości określonej jak dla zaległości podatkowych, w terminie 3 miesięcy od dnia otrzymania wezwania starosty do zapłaty lub ujawnienia naruszenia co najmniej jednego z warunków umowy,
+g) zabezpieczenia zwrotu kwoty refundacji – w formie poręczenia, weksla z poręczeniem wekslowym (awal), gwarancji bankowej, zastawu na prawach lub rzeczach, blokady rachunku bankowego lub aktu notarialnego o poddaniu się egzekucji przez dłużnika.
 3. Odsetek, o których mowa w ust. 2 pkt 2 lit. f tiret drugie, nie nalicza się w przypadku, gdy refundacja została wypłacona pracodawcy w wysokości wyższej od należnej z przyczyn niezależnych od pracodawcy.
 4. Umowę zawiera się w formie pisemnej. Zmiana umowy wymaga formy pisemnej.
 5. Przepisy ust. 1–4 stosuje się odpowiednio do umów zawieranych przez starostę i Prezesa Zarządu Funduszu.
@@ -112,4 +112,5 @@ zm. ).
 3. Refundacja stanowiąca pomoc de minimis w sektorze rybołówstwa i akwakultury, spełniającą warunki określone w rozporządzeniu Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury, może być przyznawana do dnia 30 czerwca 2030 r.
 § 13. (uchylony).
 § 14. Rozporządzenie wchodzi w życie z dniem ogłoszenia , z mocą od dnia 1 stycznia 2011 r.
+WZÓR Wn-W 1 2 Wn-W 1
 

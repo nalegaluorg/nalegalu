@@ -8,10 +8,10 @@ pos: 2090
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 października 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2090 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 8 października 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2090/text.pdf) |
 
-Poz. 2090 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 8 października 2019 r.
-w sprawie zakresu wykroczeń, za które uprawnieni pracownicy Państwowego Gospodarstwa Leśnego Lasy Państwowe oraz strażnicy Państwowej Straży Łowieckiej są upoważnieni do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123, 1556 i 1694) zarządza się, co następuje: § 1. 1. Strażnicy leśni są upoważnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w art. 63a § 1 i 1a, art. 74 § 1, art. 77, art. 78, art. 81, art. 82 § 1 pkt 1, 2, 9 i 11, § 2 pkt 6 i 10 oraz § 3–6, art. 82a § 1 i 2, art. 85 § 1 i 2, art. 92 § 1 i 2, art. 98, art. 119 § 1 i 2, art. 124 § 1 i 2, art. 148 § 1, art. 149, art. 151 § 1 i 2, art. 152 § 1, art. 153 § 1, art. 154 § 1, art. 155 § 1, art. 156 § 1, art. 157 § 1, art. 159, art. 161, art. 162 § 1 i 2 oraz art. 163–166 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2019 r. poz. 821 i 1238).
+w sprawie zakresu wykroczeń, za które uprawnieni pracownicy Państwowego Gospodarstwa Leśnego Lasy Państwowe oraz strażnicy Państwowej Straży Łowieckiej są upoważnieni do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123, 1556 i 1694) zarządza się, co następuje:
+§ 1. 1. Strażnicy leśni są upoważnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w art. 63a § 1 i 1a, art. 74 § 1, art. 77, art. 78, art. 81, art. 82 § 1 pkt 1, 2, 9 i 11, § 2 pkt 6 i 10 oraz § 3–6, art. 82a § 1 i 2, art. 85 § 1 i 2, art. 92 § 1 i 2, art. 98, art. 119 § 1 i 2, art. 124 § 1 i 2, art. 148 § 1, art. 149, art. 151 § 1 i 2, art. 152 § 1, art. 153 § 1, art. 154 § 1, art. 155 § 1, art. 156 § 1, art. 157 § 1, art. 159, art. 161, art. 162 § 1 i 2 oraz art. 163–166 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2019 r. poz. 821 i 1238).
 2. Pracownicy Służby Leśnej, którym przysługują uprawnienia strażnika leśnego, są upoważnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w art. 81, art. 82 § 1 pkt 1, 2, 9 i 11, § 2 pkt 6 i 10 oraz § 3–6, art. 82a § 1 i 2, art. 148 § 1, art. 149, art. 151 § 1 i 2, art. 152 § 1, art. 153 § 1, art. 154 § 1, art. 155 § 1, art. 156 § 1, art. 157 § 1, art. 159, art. 161, art. 162 § 1 i 2 oraz art. 163–166 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń.
 3. Strażnicy leśni oraz pracownicy Służby Leśnej, którym przysługują uprawnienia strażnika leśnego, są upoważnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
 1) art. 127 pkt 1 lit. b–e oraz pkt 2, art. 131 pkt 12–14 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
@@ -40,7 +40,7 @@ poz. 125, 730 i 897).
 1) dyrektor regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe, zwanego dalej „Lasami Państwowymi” – strażnikom leśnym wchodzącym w skład grupy interwencyjnej w regionalnej dyrekcji Lasów Państwowych oraz nadleśniczym Lasów Państwowych;
 2) nadleśniczy Lasów Państwowych – zastępcy nadleśniczego, inżynierowi nadzoru, leśniczemu i podleśniczemu oraz strażnikom leśnym zatrudnionym w nadleśnictwie Lasów Państwowych;
 3) wojewoda – podległym strażnikom Państwowej Straży Łowieckiej.
-Dziennik Ustaw – 2 – Poz. 2090 § 4. Upoważnienie zawiera:
+§ 4. Upoważnienie zawiera:
 1) oznaczenie organu wydającego upoważnienie wraz z odciskiem pieczęci okrągłej z wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej;
 2) datę wydania i termin ważności upoważnienia;
 3) powołanie podstawy prawnej;

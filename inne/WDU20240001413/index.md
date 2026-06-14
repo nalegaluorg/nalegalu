@@ -8,10 +8,10 @@ pos: 1413
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1413 ROZPORZĄDZENIE MINISTRA NAUKI z dnia 24 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001413) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1413/text.pdf) |
 
-Poz. 1413 ROZPORZĄDZENIE MINISTRA NAUKI z dnia 24 września 2024 r.
-w sprawie wysokości wynagrodzenia prezesów oddziałów oraz przewodniczących i wiceprzewodniczących rad kuratorów Polskiej Akademii Nauk Na podstawie art. 32 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796) zarządza się, co następuje: § 1. Wysokość wynagrodzenia:
+w sprawie wysokości wynagrodzenia prezesów oddziałów oraz przewodniczących i wiceprzewodniczących rad kuratorów Polskiej Akademii Nauk Na podstawie art. 32 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796) zarządza się, co następuje:
+§ 1. Wysokość wynagrodzenia:
 1) prezesa oddziału Polskiej Akademii Nauk wynosi 6000 zł;
 2) przewodniczącego rady kuratorów Polskiej Akademii Nauk wynosi 5000 zł;
 3) wiceprzewodniczącego rady kuratorów Polskiej Akademii Nauk wynosi 4500 zł.

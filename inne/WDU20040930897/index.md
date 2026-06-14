@@ -8,7 +8,7 @@ pos: 897
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o organizacji rynku mleka i przetworów mlecznych
@@ -32,6 +32,10 @@ Art. 56–63. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania i właściwość jednostek organizacyjnych oraz organów w zakresie organizacji rynku mleka i przetworów mlecznych określonej przepisami Unii Europejskiej wymienionymi w załączniku.
+- **2)** (uchylony)
+- **3)** (uchylony)
 
 **Art. 1a.**
 
@@ -252,6 +256,9 @@ Art. 56–63. (pominięte)
 
 **Art. 48f.** Dyrektor oddziału regionalnego Agencji:
 
+- **1)** współpracuje z właściwymi organami państw członkowskich Unii Europejskiej w zakresie uznawania i kontroli międzynarodowych organizacji producentów i międzynarodowych zrzeszeń organizacji producentów, zgodnie z przepisami rozporządzenia, o którym mowa w pkt 10 załącznika;
+- **2)** jest organem właściwym do ustanowienia i udzielenia pomocy administracyjnej w przypadku współpracy transnarodowej.
+
 **Art. 48g.**
 
 1. Dyrektor oddziału regionalnego Agencji jest organem właściwym w sprawach przyjmowania powiadomień określonych w art. 149 ust. 2 lit. f rozporządzenia, o którym mowa w pkt 11 załącznika, oraz powiadomień określonych w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika – w zakresie i na zasadach określonych w tych rozporządzeniach.
@@ -326,6 +333,10 @@ Art. 56–63. (pominięte)
 
 **Art. 54n.** (uchylony) Art. 54na. (uchylony) Art. 54nb. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
 
+- **1)** wyrażonej w kilogramach 0,1% ilości mleka lub przetworów mlecznych wytwarzanych rocznie przez uznaną organizację producentów lub uznane zrzeszenie organizacji producentów oraz
+- **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. z 2015 r. poz.
+- **1160)** dla miesiąca poprzedzającego miesiąc, w którym upływa termin przekazania powiadomienia, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy. Art. 54nc. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa, które utrudniają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika, podlegają karze pieniężnej w wysokości od 1000 zł do 2000 zł. Art. 54nd. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa, które uniemożliwiają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika, podlegają karze pieniężnej w wysokości od 2000 zł do 5000 zł. Art. 54ne. Kto nie przekazuje informacji określonych w art. 2a, podlega karze pieniężnej w wysokości od 2000 zł do 5000 zł.
+
 **Art. 54o.**
 
 1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę uznanej organizacji producentów albo siedzibę uznanego zrzeszenia organizacji producentów, albo siedzibę uznanej organizacji międzybranżowej wydaje decyzję w sprawie wymierzenia kar pieniężnych, o których mowa w art. 54nb–54nd.
@@ -363,4 +374,24 @@ Art. 56–63. (pominięte)
 **Art. 64.** Traci moc ustawa z dnia 6 września 2001 r. o regulacji rynku mleka i przetworów mlecznych (Dz. U. poz. 1446 i 1797, z 2002 r. poz. 937 oraz z 2003 r. poz. 1853).
 
 **Art. 65.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem:
+
+- **1)** art. 43 i art. 56, które wchodzą w życie z dniem ogłoszenia ;
+- **2)** art. 33, art. 34 ust. 1 pkt 1 lit. b oraz pkt 2 lit. b, art. 36 ust. 1 pkt 2 i ust. 2–6, art. 37, art. 38, art. 40 oraz art. 41, które wchodzą w życie z dniem 1 kwietnia 2005 r. Załącznik do ustawy z dnia 20 kwietnia 2004 r. (Dz. U. z 2023 r. poz. 000) PRZEPISY UNII EUROPEJSKIEJ W ZAKRESIE ORGANIZACJI RYNKU MLEKA I PRZETWORÓW MLECZNYCH
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** rozporządzenie Komisji (UE) nr 1272/2009 z dnia 11 grudnia 2009 r. ustanawiające wspólne szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do zakupu i sprzedaży produktów rolnych w ramach interwencji publicznej (Dz. Urz. UE L 349 z 29.12.2009, str. 1);
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** rozporządzenie Komisji (WE) nr 826/2008 z dnia 20 sierpnia 2008 r. ustanawiające wspólne zasady dotyczące przyznawania dopłat do prywatnego przechowywania niektórych produktów rolnych (Dz. Urz. UE L 223 z 21.08.2008, str. 3, z późn. zm.);
+- **9)** rozporządzenie wykonawcze Komisji (UE) nr 511/2012 z dnia 15 czerwca 2012 r. w sprawie powiadomień dotyczących organizacji producentów i organizacji międzybranżowych oraz negocjacji umownych i stosunków umownych określonych w rozporządzeniu Rady (WE) nr 1234/2007 w odniesieniu do sektora mleka i przetworów mlecznych (Dz. Urz. UE L 156 z 16.06.2012, str. 39);
+- **10)** rozporządzenie delegowane Komisji (UE) nr 880/2012 z dnia 28 czerwca 2012 r. uzupełniające rozporządzenie Rady (WE) nr 1234/2007 w odniesieniu do współpracy międzynarodowej i negocjacji umownych organizacji producentów w sektorze mleka i przetworów mlecznych (Dz. Urz. UE L 263 z 28.09.2012, str. 8);
+- **11)** rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiające wspólną organizację rynków produktów rolnych oraz uchylające rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.);
+- **12)** rozporządzenie Rady (UE) nr 1370/2013 z dnia 16 grudnia 2013 r. określające środki dotyczące ustalania niektórych dopłat i refundacji związanych ze wspólną organizacją rynków produktów rolnych (Dz. Urz. UE L 346 z 20.12.2013, str. 12);
+- **13)** (uchylony)
+- **14)** rozporządzenie wykonawcze Komisji (UE) 2017/1185 z dnia 20 kwietnia 2017 r. ustanawiające zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) nr 1307/2013 i (UE) nr 1308/2013 w odniesieniu do przekazywanych Komisji powiadomień o informacjach i dokumentach oraz zmieniające i uchylające niektóre rozporządzenia Komisji (Dz. Urz. UE L 171 z 04.07.2017, str. 113);
+- **15)** rozporządzenie delegowane Komisji (UE) 2016/1238 z dnia 18 maja 2016 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do interwencji publicznej i dopłat do prywatnego przechowywania (Dz. Urz. UE L 206 z 30.07.2016, str. 15);
+- **16)** rozporządzenie wykonawcze Komisji (UE) 2016/1240 z dnia 18 maja 2016 r. ustalające zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do interwencji publicznej i dopłat do prywatnego przechowywania (Dz. Urz. UE L 206 z 30.07.2016, str. 71).
+
 

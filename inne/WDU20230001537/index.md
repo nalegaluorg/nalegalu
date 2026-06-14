@@ -8,7 +8,7 @@ pos: 1537
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu Narodowego Dnia Polskich Dzieci Wojny W hołdzie Polskim Dzieciom Wojny, które mimo traumy, jakiej doświadczyły za przyczyną hekatomby II wojny światowej, zbrodniczych działań okupantów niemieckich i sowieckich, potrafiły dźwigać ze zgliszcz naszą wspólną Ojczyznę oraz w dowód respektu i wdzięczności za ich wysiłek, stanowi się co następuje:

@@ -8,10 +8,10 @@ pos: 2295
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2295 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2295/text.pdf) |
 
-Poz. 2295 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 października 2023 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 2140) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 listopada 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1965, z późn. zm. ) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 2140) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 listopada 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1965, z późn. zm. ) wprowadza się następujące zmiany:
 1) w § 34:
 a) w ust. 2 liczbę „14” zastępuje się liczbą „7”,
 b) uchyla się ust. 3,
@@ -35,7 +35,7 @@ c) w ust. 4 zdanie pierwsze otrzymuje brzmienie: „W przypadku gdy wnioskodawca
 3) w § 43i w ust. 6 w pkt 2 uchyla się lit. d;
 4) w § 43j w ust. 1 uchyla się pkt 4;
 5) w § 43l w pkt 1 po wyrazach „ust. 2 i 3” dodaje się wyrazy „ , z tym że wniosek o dofinansowanie składany przez podmiot, o którym mowa w § 43h ust. 1 pkt 2, jest składany wyłącznie w formie pisemnej, w postaci papierowej, osobiście przez wnioskodawcę albo osobę upoważnioną przez wnioskodawcę”.
-Dziennik Ustaw – 2 – Poz. 2295 § 2. Do przyznawania pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze”, w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+§ 2. Do przyznawania pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze”, w sprawach objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
 

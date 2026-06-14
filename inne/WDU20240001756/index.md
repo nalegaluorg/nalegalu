@@ -8,7 +8,7 @@ pos: 1756
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
@@ -29,6 +29,9 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572 i 1717) wprowadza się następujące zmiany:
 
+- **1)** w art. 243 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przy obliczaniu relacji, o których mowa w ust. 1, do dochodów bieżących budżetu pomniejszonych o wydatki bieżące dodaje się wykonane dochody ze sprzedaży majątku wynikające ze sprawozdań, o których mowa w ust. 2 pkt 4.”;
+- **2)** po dziale VI dodaje się dział VIa w brzmieniu: „Dział VIa Przepisy epizodyczne
+
 **Art. 296a.**
 
 1. Do ustalenia na lata 2026–2029 relacji, o której mowa w art. 242 ust. 1 i 2, dochody bieżące jednostki samorządu terytorialnego mogą być powiększone także o przychody, o których mowa w art. 217 ust. 2 pkt 6.
@@ -48,6 +51,9 @@ source: "isap-pdf"
 **Art. 2.** W ustawie z dnia 14 października 2021 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw (Dz. U. poz. 1927 i 2427) w art. 9 w ust. 2 wyrazy „W latach 2022–2025” zastępuje się wyrazami „W latach 2022 i 2023”.
 
 **Art. 3.** W ustawie z dnia 15 września 2022 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw (Dz. U. poz. 1964) w art. 7:
+
+- **1)** w ust. 1 wyrazy „w latach 2023–2025” zastępuje się wyrazami „w roku 2023”;
+- **2)** w ust. 2 wyrazy „W latach 2023–2025” zastępuje się wyrazami „W roku 2023”.
 
 **Art. 4.**
 

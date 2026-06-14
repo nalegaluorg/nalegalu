@@ -8,10 +8,10 @@ pos: 1859
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 października 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1859 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 17 września 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1859/text.pdf) |
 
-Poz. 1859 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 17 września 2019 r.
-w sprawie trybu pracy Kolegium Doradców i wysokości wynagrodzenia jego członków Na podstawie art. 16 ust. 7 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534) zarządza się, co następuje: § 1. 1. Pracami Kolegium Doradców, zwanego dalej „Kolegium”, kieruje przewodniczący.
+w sprawie trybu pracy Kolegium Doradców i wysokości wynagrodzenia jego członków Na podstawie art. 16 ust. 7 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534) zarządza się, co następuje:
+§ 1. 1. Pracami Kolegium Doradców, zwanego dalej „Kolegium”, kieruje przewodniczący.
 2. Kolegium na pierwszym posiedzeniu wybiera przewodniczącego spośród swoich członków.
 § 2. 1. Kolegium działa na posiedzeniach.
 2. Posiedzenia Kolegium odbywają się stosownie do potrzeb, nie rzadziej jednak niż raz na 6 miesięcy.
@@ -40,7 +40,6 @@ w sprawie trybu pracy Kolegium Doradców i wysokości wynagrodzenia jego członk
 8. Posiedzenie Kolegium może odbywać się przy wykorzystaniu środków komunikacji elektronicznej, jeżeli zapewniają one komunikację w czasie rzeczywistym umożliwiającą wszystkim uczestnikom posiedzenia, przebywającym w miejscu innym niż miejsce posiedzenia, wypowiadanie się w toku obrad i głosowanie. Przyjmuje się, że posiedzenie Kolegium odbywa się w miejscu, w którym przebywa przewodniczący albo członek Kolegium, o którym mowa w ust. 6.
 9. W przypadku, o którym mowa w ust. 8, głosowanie odbywa się drogą elektroniczną za pośrednictwem systemu teleinformatycznego. W celu zapewnienia zachowania tajności głosowanie jest weryfikowane przy użyciu indywidualnego kodu dostępu ważnego w czasie jednego posiedzenia.
 10. Na zaproszenie przewodniczącego w posiedzeniu Kolegium mogą uczestniczyć, z głosem doradczym, osoby niebędące członkami Kolegium, których obecność jest uzasadniona ze względu na przedmiot posiedzenia.
-Dziennik Ustaw – 2 – Poz. 1859
 11. W uzasadnionym przypadku, związanym w szczególności z koniecznością pilnego zajęcia stanowiska, przewodniczący może zdecydować o rozpatrzeniu sprawy i podjęciu uchwały w drodze korespondencyjnego uzgodnienia stanowisk (tryb obiegowy).
 § 3. 1. Kolegium podejmuje uchwały bezwzględną większością głosów, w głosowaniu jawnym, w obecności co najmniej połowy liczby członków.
 2. Projekty uchwał przygotowują członkowie Kolegium wskazani przez przewodniczącego.

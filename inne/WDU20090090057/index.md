@@ -8,7 +8,7 @@ pos: 57
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 3/1/A/2009 WYROK z dnia 15 stycznia 2009 r.

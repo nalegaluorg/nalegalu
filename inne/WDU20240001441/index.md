@@ -8,10 +8,10 @@ pos: 1441
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1441 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,31 +25,33 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1441/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 września 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 5 lipca 2012 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U. poz. 808), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 20 kwietnia 2017 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U. poz. 917).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności (Dz. U.
 poz. 917), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Sprawiedliwości: A. Bodnar ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 lipca 2012 r.
 w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności Na podstawie art. 22 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa szczegółowe wymagania, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności.
 2. Szczegółowe wymagania są określone, odpowiednio, dla poszczególnych pomieszczeń i urządzeń:
-1) szpitala w załączniku nr 1 do rozporządzenia;
-2) ambulatorium z izbą chorych w załączniku nr 2 do rozporządzenia;
-3) pracowni badań endoskopowych w załączniku nr 3 do rozporządzenia;
-4) w których udziela się świadczeń zdrowotnych z zakresu rehabilitacji leczniczej w załączniku nr 4 do rozporządzenia.
+1) szpitala – w załączniku nr 1 do rozporządzenia;
+2) ambulatorium z izbą chorych – w załączniku nr 2 do rozporządzenia;
+3) pracowni badań endoskopowych – w załączniku nr 3 do rozporządzenia;
+4) w których udziela się świadczeń zdrowotnych z zakresu rehabilitacji leczniczej – w załączniku nr 4 do rozporządzenia.
 3. Do gabinetu dentystycznego stosuje się wyłącznie wymagania określone w § 5, § 16, § 18 oraz § 29.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) brudownik –- pomieszczenie służące do opróżniania, dezynfekowania, przechowywania kaczek i basenów lub niszczenia tego rodzaju pojemników jednorazowego użytku oraz składowania brudnej bielizny, wyposażone w umywalkę, płuczkę-dezynfektor lub urządzenie do dekontaminacji oraz utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów w przypadku stosowania basenów jednorazowych, oraz w wentylację mechaniczną wyciągową;
-2) gabinet diagnostyczno-zabiegowy pomieszczenie służące do wykonywania zabiegów diagnostycznych lub terapeutycznych o charakterze zabiegowym;
-3) izolatka pomieszczenie przeznaczone do odosobnienia pacjenta lub grupy pacjentów chorych na chorobę zakaźną albo osoby lub grupy osób podejrzanych o chorobę zakaźną, w celu uniemożliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby;
-4) pomieszczenie higieniczno-sanitarne pomieszczenie wyposażone co najmniej w miskę ustępową, umywalkę, dozownik z mydłem w płynie, pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki;
-5) pomieszczenie porządkowe pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymywania czystości, środków czystości oraz preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym;
-6) zakład karny zakład karny lub areszt śledczy.
+1) brudownik –- pomieszczenie służące do opróżniania, dezynfekowania, przechowywania kaczek i basenów lub niszczenia tego rodzaju pojemników jednorazowego użytku oraz składowania brudnej bielizny, wyposażone w umywalkę, płuczkę-dezynfektor lub urządzenie do dekontaminacji oraz utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów – w przypadku stosowania basenów jednorazowych, oraz w wentylację mechaniczną wyciągową;
+2) gabinet diagnostyczno-zabiegowy – pomieszczenie służące do wykonywania zabiegów diagnostycznych lub terapeutycznych o charakterze zabiegowym;
+3) izolatka – pomieszczenie przeznaczone do odosobnienia pacjenta lub grupy pacjentów chorych na chorobę zakaźną albo osoby lub grupy osób podejrzanych o chorobę zakaźną, w celu uniemożliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby;
+4) pomieszczenie higieniczno-sanitarne – pomieszczenie wyposażone co najmniej w miskę ustępową, umywalkę, dozownik z mydłem w płynie, pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki;
+5) pomieszczenie porządkowe – pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymywania czystości, środków czystości oraz preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym;
+6) zakład karny – zakład karny lub areszt śledczy.
+§ 3. 1. Szpital lub ambulatorium z izbą chorych mogą być zlokalizowane w samodzielnym budynku lub w zespole budynków o innym przeznaczeniu, będących w strukturze zakładu karnego, z możliwym maksymalnym zachowaniem odrębności od innych użytkowników budynku.
 2. Dopuszcza się lokalizowanie pomieszczeń gospodarczych, technicznych, zaopatrzenia medycznego oraz socjalnych poniżej poziomu terenu otaczającego budynek.
 § 4. Zespoły pomieszczeń stanowiących oddziały łóżkowe szpitala, z wyjątkiem pomieszczeń administracyjnych i socjalnych, nie mogą być przechodnie.
 § 5. Kształt i powierzchnia poszczególnych pomieszczeń szpitala lub ambulatorium z izbą chorych umożliwia prawidłowe rozmieszczenie, zainstalowanie i użytkowanie urządzeń, aparatury i sprzętu, stanowiących ich niezbędne funkcjonalne wyposażenie.
 § 6. 1. W szpitalu nie mogą być stosowane zsypy.
 2. W uzasadnionych przypadkach, w szczególności wynikających z warunków technicznych, państwowy wojewódzki inspektor sanitarny może wyrazić zgodę na zastosowanie w szpitalu zsypów brudnej bielizny.
+§ 7. Łóżka w pokojach łóżkowych szpitala są dostępne przynajmniej z dwóch stron, w tym jednej dłuższej.
 § 8. Odstępy między łóżkami umożliwiają swobodny dostęp do pacjentów.
 § 9. Szerokość pokoju łóżkowego umożliwia wyprowadzenie każdego łóżka.
 § 10. 1. Izolatka w szpitalu lub ambulatorium z izbą chorych składa się z:
@@ -57,8 +59,8 @@ w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i ur
 2) pomieszczenia higieniczno-sanitarnego, dostępnego z pomieszczenia pobytu pacjenta, wyposażonego w:
 a) umywalkę z baterią uruchamianą bez kontaktu z dłonią i dodatkowo w dozownik ze środkiem dezynfekcyjnym uruchamiany bez kontaktu z dłonią, a także pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki,
 b) natrysk, z wyłączeniem izolatki w oddziale anestezjologii i intensywnej terapii,
-c) płuczkę-dezynfektor basenów w przypadku stosowania basenów wielorazowego użytku,
-d) urządzenie do dekontaminacji oraz do utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów w przypadku stosowania basenów i kaczek jednorazowych oraz wkładów jednorazowych wraz z zawartością;
+c) płuczkę-dezynfektor basenów – w przypadku stosowania basenów wielorazowego użytku,
+d) urządzenie do dekontaminacji oraz do utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów – w przypadku stosowania basenów i kaczek jednorazowych oraz wkładów jednorazowych wraz z zawartością;
 3) śluzy umywalkowo-fartuchowej pomiędzy pomieszczeniem pobytu pacjenta a ogólną drogą komunikacyjną.
 2. Przepisu ust. 1 pkt 2 lit. d nie stosuje się w przypadku przeprowadzania dekontaminacji w urządzeniu zlokalizowanym w innym miejscu, pod warunkiem transportu w szczelnych pojemnikach.
 3. Izolatka powinna być wyposażona w wentylację wymuszoną działającą na zasadzie podciśnienia (ciśnienie w izolatce niższe niż na korytarzu i w śluzie).
@@ -70,8 +72,8 @@ d) urządzenie do dekontaminacji oraz do utylizacji wkładów jednorazowych wraz
 5) zamykany pojemnik na brudną bieliznę;
 6) miejsce na ubrania z zachowaniem rozdziału ubrań czystych i brudnych.
 § 12. Śluza szatniowa składa się z:
-1) szatni brudnej przeznaczonej do rozebrania się z ubrania prywatnego lub szpitalnego, wyposażonej w szafkę ubraniową z wydzieloną częścią na obuwie;
-2) szatni czystej (ubieralni) przeznaczonej do ubierania się w czyste ubranie oraz obuwie służące do poruszania się w strefie, do której będzie wchodził personel, wyposażonej w:
+1) szatni brudnej – przeznaczonej do rozebrania się z ubrania prywatnego lub szpitalnego, wyposażonej w szafkę ubraniową z wydzieloną częścią na obuwie;
+2) szatni czystej (ubieralni) – przeznaczonej do ubierania się w czyste ubranie oraz obuwie służące do poruszania się w strefie, do której będzie wchodził personel, wyposażonej w:
 a) obuwie nadające się do mycia i dezynfekcji,
 b) regał na obuwie,
 c) regał na czyste ubrania;
@@ -90,13 +92,16 @@ c) regał na czyste ubrania;
 § 16. 1. Meble w pomieszczeniach podmiotu wykonującego działalność leczniczą umożliwiają ich stałe, bieżące mycie oraz dezynfekcję bez pogorszenia lub utraty funkcji użytkowych.
 2. Przepisu ust. 1 nie stosuje się do mebli w pomieszczeniach administracyjnych i socjalnych, poradni i gabinetów podmiotów wykonujących świadczenia z zakresu opieki psychiatrycznej i leczenia uzależnień.
 § 17. W zakładzie karnym, w którego strukturze funkcjonuje szpital lub ambulatorium z izbą chorych, zapewnia się co najmniej jedno pomieszczenie porządkowe umożliwiające dodatkowo mycie i dezynfekcję środków transportu.
+§ 18. 1. W pomieszczeniach szpitala lub ambulatorium z izbą chorych podłogi, a także połączenia ścian z podłogami wykonuje się z materiałów umożliwiających ich mycie i dezynfekcję.
 2. Przepisu ust. 1 nie stosuje się do pomieszczeń administracyjnych i socjalnych, poradni i gabinetów podmiotów wykonujących świadczenia z zakresu opieki psychiatrycznej i leczenia uzależnień oraz sal kinezyterapii.
 § 19. Pomieszczenia i urządzenia wymagające utrzymania aseptyki i wyposażenie tych pomieszczeń powinny umożliwiać ich mycie i dezynfekcję.
 § 20. W przypadku konieczności zastosowania sufitów podwieszonych w pomieszczeniach o podwyższonych wymaganiach higienicznych, w szczególności w salach operacyjnych i porodowych, pokojach łóżkowych, w oddziale anestezjologii i intensywnej terapii, salach pooperacyjnych, sufity te są wykonane w sposób zapewniający szczelność powierzchni oraz umożliwiający ich mycie i dezynfekcję.
 § 21. Szerokość drzwi w pomieszczeniach, przez które odbywa się ruch pacjentów na łóżkach, umożliwia ten ruch.
+§ 22. W pokojach łóżkowych zapewnia się bezpośredni dostęp światła dziennego.
 § 23. W przypadku nadmiernego naświetlenia pokoi łóżkowych instaluje się w nich odpowiednie urządzenia przeciwsłoneczne.
 § 24. 1. W salach operacyjnych i pomieszczeniach diagnostyki obrazowej stosuje się wyłącznie oświetlenie elektryczne.
 2. W przypadku gdy nie stanowi to utrudnienia przy wykonywaniu zabiegów operacyjnych i diagnostycznych, dopuszcza się zastosowanie w pomieszczeniach, o których mowa w ust. 1, oświetlenia dziennego.
+§ 25. 1. Pomieszczenia, w których są wykonywane badania lub zabiegi, z wyjątkiem pomieszczeń, w których odbywa się badanie za pomocą rezonansu magnetycznego, wyposażone są w umywalki z baterią z ciepłą i zimną wodą, dozownik z mydłem w płynie, dozownik ze środkiem dezynfekcyjnym oraz pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki albo urządzenie do suszenia rąk.
 2. Pomieszczenia, w których wykonywane są badania lub zabiegi przy użyciu narzędzi i sprzętu wielokrotnego użycia, niezależnie od umywalek, wyposażone są w zlew z baterią.
 3. Przepisów ust. 1 i 2 nie stosuje się, gdy stanowiska mycia rąk personelu oraz narzędzi i sprzętu wielokrotnego użytku są zorganizowane w oddzielnym pomieszczeniu, do którego narzędzia i sprzęt są przenoszone w szczelnych pojemnikach, oraz w przypadku gdy mycie i sterylizacja są przeprowadzane w innym podmiocie.
 § 26. W blokach operacyjnych i izolatkach należy stosować wentylację nawiewno-wywiewną lub klimatyzację zapewniającą parametry jakości powietrza dostosowane do funkcji tych pomieszczeń.
@@ -106,6 +111,7 @@ c) regał na czyste ubrania;
 § 29. Szpital posiada rezerwowe źródło zaopatrzenia w wodę, zapewniające co najmniej jej 12-godzinny zapas.
 § 30. 1. Szpital posiada rezerwowe źródło zaopatrzenia w energię elektryczną, którym jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30 % potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania.
 2. Przepisu ust. 1 nie stosuje się w sytuacji, gdy zakład karny, na terenie którego funkcjonuje szpital, ma agregat prądotwórczy lub inne rezerwowe źródło zaopatrzenia w energię elektryczną, o ile ich wydolność zapewni szpitalowi co najmniej 30 % potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania.
+§ 31. Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia .
 SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINNY ODPOWIADAĆ POMIESZCZENIA I URZĄDZENIA SZPITALA I. Punkt przyjęć i konsultacji
 1. Punkt przyjęć i konsultacji posiada bezpośrednie zadaszone wejście z dojazdem umożliwiającym podjazd co najmniej dla jednego pojazdu przeznaczonego do transportu sanitarnego.
 2. W skład punktu przyjęć i konsultacji wchodzą:
@@ -132,15 +138,15 @@ III. Oddział anestezjologii i intensywnej terapii
 3. W oddziale zapewnia się magazyn sprzętu i aparatury.
 4. Liczba łóżek w oddziale anestezjologii i intensywnej terapii stanowi co najmniej 2 % ogólnej liczby łóżek w szpitalu.
 5. Oddział wyposaża się w następującą aparaturę i sprzęt medyczny:
-1) aparat do pomiaru ciśnienia tętniczego krwi metodą inwazyjną 1 na 2 stanowiska intensywnej terapii;
-2) elektryczne urządzenie do ssania co najmniej 1 na 3 stanowiska intensywnej terapii, ale nie mniej niż 2 w oddziale;
-3) stymulator zewnętrzny co najmniej 1 na oddział;
-4) urządzenie do pomiaru rzutu serca co najmniej 1 na 4 stanowiska intensywnej terapii;
-5) bronchofiberoskop co najmniej 1 na oddział;
-6) aparat do monitorowania ciśnienia wewnątrzczaszkowego 1 na oddział liczący co najmniej 6 stanowisk intensywnej terapii;
-7) przyłóżkowy aparat rentgenowski co najmniej 1 na oddział;
-8) defibrylator z możliwością wykonania kardiowersji co najmniej 2 na oddział;
-9) aparat ultrasonograficzny co najmniej jeden na oddział.
+1) aparat do pomiaru ciśnienia tętniczego krwi metodą inwazyjną – 1 na 2 stanowiska intensywnej terapii;
+2) elektryczne urządzenie do ssania – co najmniej 1 na 3 stanowiska intensywnej terapii, ale nie mniej niż 2 w oddziale;
+3) stymulator zewnętrzny – co najmniej 1 na oddział;
+4) urządzenie do pomiaru rzutu serca – co najmniej 1 na 4 stanowiska intensywnej terapii;
+5) bronchofiberoskop – co najmniej 1 na oddział;
+6) aparat do monitorowania ciśnienia wewnątrzczaszkowego – 1 na oddział liczący co najmniej 6 stanowisk intensywnej terapii;
+7) przyłóżkowy aparat rentgenowski – co najmniej 1 na oddział;
+8) defibrylator z możliwością wykonania kardiowersji – co najmniej 2 na oddział;
+9) aparat ultrasonograficzny – co najmniej jeden na oddział.
 6. Stanowisko intensywnej terapii wyposaża się w:
 1) łóżko do intensywnej terapii;
 2) respirator z możliwością regulacji stężenia tlenu w zakresie 21–100 %;
@@ -151,7 +157,7 @@ III. Oddział anestezjologii i intensywnej terapii
 7) pulsoksymetr;
 8) kapnograf;
 9) aparat do automatycznego pomiaru ciśnienia krwi metodą nieinwazyjną;
-10) respirator transportowy co najmniej 1 na 5 stanowisk;
+10) respirator transportowy – co najmniej 1 na 5 stanowisk;
 11) materac do ogrzewania pacjentów;
 12) fonendoskop.
 7. Stanowisko znieczulenia wyposaża się w:
@@ -160,7 +166,7 @@ III. Oddział anestezjologii i intensywnej terapii
 3) źródło tlenu, podtlenku azotu, powietrza i próżni;
 4) urządzenie do ssania;
 5) zestaw do intubacji dotchawicznej z rurkami intubacyjnymi i dwoma laryngoskopami;
-6) defibrylator z możliwością wykonania kardiowersji co najmniej 1 na zespół połączonych ze sobą stanowisk znieczulenia lub wyodrębnioną salę operacyjną;
+6) defibrylator z możliwością wykonania kardiowersji – co najmniej 1 na zespół połączonych ze sobą stanowisk znieczulenia lub wyodrębnioną salę operacyjną;
 7) wyciąg gazów anestetycznych;
 8) zasilanie elektryczne z systemem awaryjnym;
 9) znormalizowany stolik (wózek) anestezjologiczny;
@@ -173,11 +179,11 @@ III. Oddział anestezjologii i intensywnej terapii
 16) monitor stężenia tlenu w układzie anestetycznym z alarmem wartości granicznych;
 17) kardiomonitor;
 18) kapnograf;
-19) monitor zwiotczenia mięśniowego 1 na stanowisko znieczulenia;
-20) monitor gazów anestetycznych 1 na każde stanowisko znieczulenia;
-21) sprzęt do inwazyjnego pomiaru ciśnienia krwi co najmniej 1 na 4 stanowiska znieczulenia;
+19) monitor zwiotczenia mięśniowego – 1 na stanowisko znieczulenia;
+20) monitor gazów anestetycznych – 1 na każde stanowisko znieczulenia;
+21) sprzęt do inwazyjnego pomiaru ciśnienia krwi – co najmniej 1 na 4 stanowiska znieczulenia;
 22) urządzenie do ogrzewania płynów infuzyjnych;
-23) urządzenie do ogrzewania pacjenta co najmniej 1 na 3 stanowiska;
+23) urządzenie do ogrzewania pacjenta – co najmniej 1 na 3 stanowiska;
 24) sprzęt do szybkich oraz regulowanych przetoczeń płynów, w tym co najmniej 3 pompy infuzyjne.
 8. Aparaturę anestezjologiczną stanowiska znieczulenia ogólnego z zastosowaniem sztucznej wentylacji płuc wyposaża się ponadto w:
 1) alarm nadmiernego ciśnienia w układzie oddechowym;
@@ -187,16 +193,16 @@ III. Oddział anestezjologii i intensywnej terapii
 9. Salę pooperacyjną wyposaża się w:
 1) wózek reanimacyjny i zestaw do konikotomii;
 2) defibrylator z możliwością wykonania kardiowersji;
-3) respirator z możliwością regulacji stężenia tlenu w zakresie 21–100 % co najmniej 1 na salę pooperacyjną;
+3) respirator z możliwością regulacji stężenia tlenu w zakresie 21–100 % – co najmniej 1 na salę pooperacyjną;
 4) 1 stanowisko nadzoru pooperacyjnego;
-5) elektryczne urządzenie do ssania co najmniej 1 na 3 stanowiska nadzoru pooperacyjnego.
+5) elektryczne urządzenie do ssania – co najmniej 1 na 3 stanowiska nadzoru pooperacyjnego.
 10. Stanowisko nadzoru pooperacyjnego w sali wybudzeń zapewnia pracownikom możliwość obserwacji bezpośredniej lub przy użyciu kamer wyposażonych w funkcje autostartu, w szczególności możliwość obserwacji twarzy. Stanowisko wyposaża się w:
 1) źródło tlenu, powietrza i próżni;
 2) aparat do pomiaru ciśnienia krwi;
 3) monitor EKG;
 4) pulsoksymetr;
 5) termometr;
-6) respirator z możliwością regulacji stężenia tlenu w zakresie 21–100 % co najmniej 1 na salę pooperacyjną.
+6) respirator z możliwością regulacji stężenia tlenu w zakresie 21–100 % – co najmniej 1 na salę pooperacyjną.
 11. Szpital wykonujący zabiegi operacyjne i nieposiadający w swej strukturze oddziału anestezjologii i intensywnej terapii organizuje salę pooperacyjną na zasadach określonych w ust. 9.
 IV. Oddział położniczo-ginekologiczny z oddziałem noworodkowym
 1. Pokoje łóżkowe urządza się co najmniej w jednym z systemów:
@@ -300,7 +306,7 @@ SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINNY ODPOWIADAĆ POMIESZCZENIA I URZĄDZENIA A
 1. W ambulatorium z izbą chorych wyodrębnia się pomieszczenia:
 1) ambulatorium przeznaczone do udzielania świadczeń zdrowotnych z zakresu ambulatoryjnych świadczeń zdrowotnych;
 2) izby chorych, w tym izby chorych dostosowane dla osób niepełnosprawnych poruszających się na wózkach inwalidzkich, posiadające wyznaczone miejsce lub pomieszczenie służące do utrzymania higieny osobistej, wyposażone co najmniej w miskę ustępową, umywalkę z ciepłą i zimną wodą.
-2. W ambulatorium z izbą chorych działającym przy zakładzie karnym o pojemności powyżej 230 miejsc wydziela się co najmniej dwie izby chorych, z tym że w zakładzie karnym, w którym przebywają osoby różnej płci co najmniej po jednej izbie chorych dla osób tej samej płci.
+2. W ambulatorium z izbą chorych działającym przy zakładzie karnym o pojemności powyżej 230 miejsc wydziela się co najmniej dwie izby chorych, z tym że w zakładzie karnym, w którym przebywają osoby różnej płci – co najmniej po jednej izbie chorych dla osób tej samej płci.
 3. W podmiocie leczniczym dla osób pozbawionych wolności, w którego strukturze funkcjonuje szpital, dopuszcza się możliwość niewyodrębniania izby chorych.
 4. Dopuszcza się funkcjonowanie wspólnego gabinetu pełniącego funkcję zabiegową i niezabiegową pod warunkiem zachowania rozdziału czasowego i spełnienia co najmniej wymagań określonych w § 25 rozporządzenia.
 5. Z gabinetu służącego do badań ginekologicznych oraz gabinetu, w którym są udzielane świadczenia zdrowotne w dziedzinie urologii lub o charakterze inwazyjnym w zakresie dolnego odcinka przewodu pokarmowego, istnieje dostęp do pomieszczenia higieniczno-sanitarnego.
@@ -332,19 +338,19 @@ SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINNY ODPOWIADAĆ URZĄDZENIA I POMIESZCZENIA, 
 1. Diatermie krótkofalowe i mikrofalowe instaluje się w oddzielnych pomieszczeniach lub boksach, z zachowaniem podstawowych wymagań i zaleceń zgodnych z aktualnym wykazem Polskich Norm.
 2. Pomieszczenia przeznaczone do rehabilitacji leczniczej lokalizuje się w sposób zapewniający dostęp osobom niepełnosprawnym, w tym poruszającym się na wózkach inwalidzkich.
 
-#### Rozdział 1 Przepisy ogólne § 1. 1. Rozporządzenie określa szczegółowe wymagania, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia podmiotu leczniczego dla osób pozbawionych wolności.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Wymagania ogólnoprzestrzenne § 3. 1. Szpital lub ambulatorium z izbą chorych mogą być zlokalizowane w samodzielnym budynku lub w zespole budynków o innym przeznaczeniu, będących w strukturze zakładu karnego, z możliwym maksymalnym zachowaniem odrębności od innych użytkowników budynku.
+#### Rozdział 2 Wymagania ogólnoprzestrzenne
 
-#### Rozdział 3 Wymagania dla niektórych pomieszczeń i urządzeń § 7. Łóżka w pokojach łóżkowych szpitala są dostępne przynajmniej z dwóch stron, w tym jednej dłuższej.
+#### Rozdział 3 Wymagania dla niektórych pomieszczeń i urządzeń
 
-#### Rozdział 4 Wymagania ogólnobudowlane § 18. 1. W pomieszczeniach szpitala lub ambulatorium z izbą chorych podłogi, a także połączenia ścian z podłogami wykonuje się z materiałów umożliwiających ich mycie i dezynfekcję.
+#### Rozdział 4 Wymagania ogólnobudowlane
 
-#### Rozdział 5 Oświetlenie § 22. W pokojach łóżkowych zapewnia się bezpośredni dostęp światła dziennego.
+#### Rozdział 5 Oświetlenie
 
-#### Rozdział 6 Wymagania dotyczące instalacji § 25. 1. Pomieszczenia, w których są wykonywane badania lub zabiegi, z wyjątkiem pomieszczeń, w których odbywa się badanie za pomocą rezonansu magnetycznego, wyposażone są w umywalki z baterią z ciepłą i zimną wodą, dozownik z mydłem w płynie, dozownik ze środkiem dezynfekcyjnym oraz pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki albo urządzenie do suszenia rąk.
+#### Rozdział 6 Wymagania dotyczące instalacji
 
-#### Rozdział 7 Przepis końcowy § 31. Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia .
+#### Rozdział 7 Przepis końcowy
 
 ##### Oddział przeciwgruźliczy składa się z:
 

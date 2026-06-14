@@ -8,10 +8,10 @@ pos: 359
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 5 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 359 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 27 lutego 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,44 +25,44 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000359) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/359/text.pdf) |
 
-359 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI 27 lutego 2020 r.
-zmieniające rozporządzenie sprawie szczegółowych warunków trybu przyznawania pomocy finansowej ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 1 1 2 ustawy 20 lutego 2015 r. wspieraniu rozwoju obszarów wiejskich udziałem środków Europejskiego Funduszu Rolnego na rzecz Obszarów Wiejskich ramach Programu Rozwo ju Obszarów Wiejskich na lata 2014–2020 2020 r. 217 300) zarządza się, co następuje:
-1. W rozporządzeniu 18 2015 r. sprawie szczegółowych warunków trybu przyznawania pomocy finansowej ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Pro gramem Obszarów Wiejskich na lata 2014–2020 415, późn. zm. ) wprowadza się następujące zmiany:
-1) 2 1 1 otrzymuje brzmienie: „1) został mu nadany numer identyfikacyjny trybie przepisów krajowym systemie ewidencji producentów, ewi dencji gospodarstw rolnych ewidencji wniosków przyznanie płatności, który może być wykorzystywany do ubiegania się przyznanie tej płatności, zwany dalej „numerem identyfikacyjnym”;”;
-2) 18 3 otrzymuje brzmienie: „3. Wysokość kwoty przeznaczonej na refundację kosztów transakcyjnych poniesionych tytułu, którym 1 1, przyznanej za sporządzenie dokumentacji przyrodniczej dla siedliska, które jest położone na działce rolnej, dla której obszaru całości ustanowiono plan ochrony albo plan zadań ochronnych, ustala się zgodnie 2, jednakże wysokości pomniejszonej 10%.”;
-3) 19 1a otrzymuje brzmienie: „1a. W przypadku, którym art. 20 ustawy 20 lutego 2015 r. wspieraniu rozwoju obszarów wiejskich udziałem środków Europejskiego Funduszu Rolnego na rzecz Obszarów Wiejskich ramach Programu Obszarów Wiejskich na lata 2014–2020, we wniosku przyznanie płatności rolno-środowiskowo -klimatycznej rolnik zarządca składa oświadczenie, że ma tytuł prawny do gruntu będącego własnością Skarbu Państwa, państwowej osoby prawnej, jednostki samorządu terytorialnego samorządowej osoby prawnej, do które go ubiega się przyznanie tej płatności.”;
-4) 21:
-a) po 5 dodaje się 5a brzmieniu: „5a. W przypadku gdy ekspert przyrodniczy oświadczeniu, którym 1, doradca rolnośrodowiskowy oświadczeniu, którym 3, wskazał, że grunty zadeklarowane przez
-2) kopii pisemnego potwierdzenia, którym 12 5a, jeżeli wymogi realizowanego wariantu są sprzeczne ustanowionymi dla danego obszaru Natura 2000 działaniami fakultatywnymi określonymi planie ochrony planie zadań ochronnych przypadku wariantów pakietu wymienionego 1 innych niż wariant 4.7.,
-3) informacji, której 2, przypadku gdy wyniku poprawionego, zgodnie ustaleniami Agencji, oświadczenia, którym 1 3:
-a) do rolnika zarządcy mają zastosowanie wymogi, których 3 1 lit. b 2,
-b) wymogi, których 3 1 lit. b 2, uległy zmianie terminie 7 dni od doręczenia wezwania.”,
-b) 7 otrzymuje brzmienie: „7. Czynność, której 1, 2, 4b, 4c, 4d, 5 5a, dokonaną do wydania decyzji sprawie przyznanie płatności rolno-środowiskowo-klimatycznej za dany rok, uważa się za dokonaną terminie.”;
-5) 22 3 otrzymuje brzmienie: „3. Jeżeli rolnik równocześnie nie ubiega się przyznanie jednolitej płatności obszarowej rozumieniu przepi sów płatnościach ramach systemów wsparcia bezpośredniego, to na materiale graficznym, którym art. 72 3 rozporządzenia nr 1306/2013, zaznacza również:
-1) obiekty, których 1 2 rozporządzenia 12 2015 r. sprawie szczegółowych wymagań, jakie powinny spełniać wnioski sprawach dotyczących płatności ramach systemów wsparcia bezpośredniego 352, 2016 r. 348, 2017 r. 523 1717, 2018 r. 535 2020 r. 329), znajdujące się na użytkach rolnych będących jego posiadaniu;
-2) granice działek rolnych, do których nie ubiega się przyznanie płatności rolno-środowiskowo-klimatycznej.”;
-6) 33:
-a) po 10 dodaje się 10a brzmieniu: „10a. W przypadku, którym 21 5a, rolnik zarządca:
-1) uzupełnia poprawia plan działalności rolnośrodowiskowej, szczególności zakresie informacji, których 1 7 2 2, 3 3, 3a załącznika nr 3 do rozporządzenia,
-2) jest obowiązany do posiadania uzupełnionej poprawionej dokumentacji przyrodniczej, szczególności zakresie wymogów, których 3 2 przypadku wariantów pakietu wymienionego 1 innych niż wariant 4.7.,
-3) składa do kierownika biura powiatowego Agencji oświadczenie uzupełnieniu poprawieniu planu dzia łalności rolnośrodowiskowej, a przypadku wariantów pakietu wymienionego 1 innych niż wariant 4.7. również posiadaniu uzupełnionej poprawionej dokumentacji przyrodniczej najpóźniej terminie składania wniosków przyznanie kolejnej płatności rolno-środowiskowo-klimatycznej.”,
-b) 11 otrzymuje brzmienie: „11. W przypadku niedokonania terminie czynności:
-1) której 21 2 5a 3, płatność rolno-środowiskowo-klimatyczna za realizację wa riantu, ramach którego mają zastosowanie wymogi, których 3 1 lit. b 2, kowo kwotę stanowiącą iloczyn 7% kwoty, którą rolnik zarządca otrzymałby, gdyby to uchybienie nie wystąpiło, liczby lat, których wcześniej stwierdzono podobne niezgodności.”;
-7) 34a 2 lit. b otrzymuje brzmienie: „b) lp. 1, 14–16 25 iloczyn współczynnika dotkliwości trwałości danego uchybienia wynosi 1%;”;
-8) załączniku nr 1 do rozporządzenia części I. Wymogi dotyczące stosowania nawozów 1 otrzymuje brzmienie:
-1. Niestosowanie danym roku dawki nawozów naturalnych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu czystym składniku na 1 ha użytków rolnych art. 105 1 ustawy 20 lipca 2017 r.
-1. Stwierdzono zastosowanie danym roku dawki nawozów naturalnych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu czystym składniku na Prawo wodne 2020 r. 310).
-1 ha użytków rolnych.
-Obszar gruntów ornych objęty zobowiązaniem ramach pakietu 1.
-pierwszym roku jego realizacji.
-Obszar objęty 80% 1,25 100% zobowiązaniem ramach wariantu 2.1.
-pakietu 4.
-5.
-9) załączniku nr 8 do rozporządzenia części I. Pakiet 1. Rolnictwo zrównoważone dodaje się lp. 25 brzmieniu: 25 Siewu roślin międzyplonowych dokonano 10% 1,25 13% terminie po dniu 1 października, lecz do 15 października
-2. Do przyznawania, wypłaty zwrotu pomocy finansowej ramach działania „Działanie rolno-środowiskowo-klima tyczne” objętego Programem Obszarów Wiejskich na lata 2014–2020, sprawach objętych postępowaniami:
-1) wszczętymi niezakończonymi ostateczną decyzją przed dniem wejścia życie niniejszego rozporządzenia,
-2) zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, przypadku gdy zostały wzno wione od wejścia życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego 1 brzmieniu dotychczasowym.
-3. Do przyznawania płatności rolno-środowiskowo-klimatycznej za realizację zobowiązania rolno-środowiskowo -klimatycznego, którym art. 28 3 rozporządzenia Parlamentu Europejskiego Rady (UE) nr 1305/2013 17 grudnia 2013 r. sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Obszarów Wiejskich (EFRROW) uchylającego rozporządzenie Rady (WE) nr 1698/2005 Urz. UE L 347 20.12.2013, str. 487, późn. zm. ), podjętego przed dniem wejścia życie niniejszego rozporządzenia zakresie wariantów pakietu, którym 1 rozporządzenia zmienianego 1, kolejnych latach realizacji tego zobowiązania do zwrotu tej płatności stosuje się przepisy 21 33 rozporządzenia zmienianego 1 brzmieniu dotychczasowym.
-4. Rozporządzenie wchodzi życie dniem 15 2020 r.
-Minister Wsi: J. Ardanowski
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 i ust. 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwo ju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 217 i 300) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Pro gramem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 415, z późn. zm. ) wprowadza się następujące zmiany:
+1) w § 2 w ust. 1 pkt 1 otrzymuje brzmienie: „1) został mu nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewi dencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który może być wykorzystywany do ubiegania się o przyznanie tej płatności, zwany dalej „numerem identyfikacyjnym”;”;
+2) w § 18 ust. 3 otrzymuje brzmienie: „3. Wysokość kwoty przeznaczonej na refundację kosztów transakcyjnych poniesionych z tytułu, o którym mowa w ust. 1 pkt 1, przyznanej za sporządzenie dokumentacji przyrodniczej dla siedliska, które jest położone na działce rolnej, dla której obszaru w całości ustanowiono plan ochrony albo plan zadań ochronnych, ustala się zgodnie z ust. 2, jednakże w wysokości pomniejszonej o 10%.”;
+3) w § 19 ust. 1a otrzymuje brzmienie: „1a. W przypadku, o którym mowa w art. 20 ust. 4 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, we wniosku o przyznanie płatności rolno-środowiskowo -klimatycznej rolnik lub zarządca składa oświadczenie, że ma tytuł prawny do gruntu będącego własnością Skarbu Państwa, państwowej osoby prawnej, jednostki samorządu terytorialnego lub samorządowej osoby prawnej, do które go ubiega się o przyznanie tej płatności.”;
+4) w § 21:
+a) po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku gdy ekspert przyrodniczy w oświadczeniu, o którym mowa w ust. 4 pkt 1, lub doradca rolnośrodowiskowy w oświadczeniu, o którym mowa w ust. 4 pkt 3, wskazał, że grunty zadeklarowane przez rolnika lub zarządcę w ramach danego zobowiązania nie są położone na obszarze, dla którego został ustanowiony plan ochrony lub plan zadań ochronnych, a Agencja ustali, że grunty te są położone na obszarze, dla którego zo stał ustanowiony plan ochrony lub plan zadań ochronnych, kierownik biura powiatowego Agencji wzywa na piśmie rolnika lub zarządcę do złożenia:
+1) poprawionego, zgodnie z ustaleniami Agencji, oświadczenia, o którym mowa w ust. 4 pkt 1 lub 3,
+2) kopii pisemnego potwierdzenia, o którym mowa w § 12 ust. 5a, jeżeli wymogi realizowanego wariantu są sprzeczne z ustanowionymi dla danego obszaru Natura 2000 działaniami fakultatywnymi określonymi w planie ochrony lub w planie zadań ochronnych – w przypadku wariantów pakietu wymienionego w § 4 ust. 1 pkt 4 innych niż wariant 4.7.,
+3) informacji, o której mowa w ust. 2, w przypadku gdy w wyniku poprawionego, zgodnie z ustaleniami Agencji, oświadczenia, o którym mowa w ust. 4 pkt 1 lub 3:
+a) do rolnika lub zarządcy mają zastosowanie wymogi, o których mowa w § 4 ust. 3 pkt 1 lit. b lub pkt 2, lub
+b) wymogi, o których mowa w § 4 ust. 3 pkt 1 lit. b lub pkt 2, uległy zmianie – w terminie 7 dni od dnia doręczenia wezwania.”,
+b) ust. 7 otrzymuje brzmienie: „7. Czynność, o której mowa w ust. 1, 2, 4b, 4c, 4d, 5 lub 5a, dokonaną do dnia wydania decyzji w sprawie o przyznanie płatności rolno-środowiskowo-klimatycznej za dany rok, uważa się za dokonaną w terminie.”;
+5) w § 22 ust. 3 otrzymuje brzmienie: „3. Jeżeli rolnik równocześnie nie ubiega się o przyznanie jednolitej płatności obszarowej w rozumieniu przepi sów o płatnościach w ramach systemów wsparcia bezpośredniego, to na materiale graficznym, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, zaznacza również:
+1) obiekty, o których mowa w § 4 ust. 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2015 r. w sprawie szczegółowych wymagań, jakie powinny spełniać wnioski w sprawach dotyczących płatności w ramach systemów wsparcia bezpośredniego (Dz. U. poz. 352, z 2016 r. poz. 348, z 2017 r. poz. 523 i 1717, z 2018 r. poz. 535 oraz z 2020 r. poz. 329), znajdujące się na użytkach rolnych będących w jego posiadaniu;
+2) granice działek rolnych, do których nie ubiega się o przyznanie płatności rolno-środowiskowo-klimatycznej.”;
+6) w § 33:
+a) po ust. 10 dodaje się ust. 10a w brzmieniu: „10a. W przypadku, o którym mowa w § 21 ust. 5a, rolnik lub zarządca:
+1) uzupełnia lub poprawia plan działalności rolnośrodowiskowej, w szczególności w zakresie informacji, o których mowa w ust. 1 pkt 7 lub ust. 2 pkt 2, lub ust. 3 pkt 3, 3a lub 4 załącznika nr 3 do rozporządzenia,
+2) jest obowiązany do posiadania uzupełnionej lub poprawionej dokumentacji przyrodniczej, w szczególności w zakresie wymogów, o których mowa w § 4 ust. 3 pkt 2 – w przypadku wariantów pakietu wymienionego w § 4 ust. 1 pkt 4 innych niż wariant 4.7.,
+3) składa do kierownika biura powiatowego Agencji oświadczenie o uzupełnieniu lub poprawieniu planu dzia łalności rolnośrodowiskowej, a w przypadku wariantów pakietu wymienionego w § 4 ust. 1 pkt 4 innych niż wariant 4.7. – również o posiadaniu uzupełnionej lub poprawionej dokumentacji przyrodniczej – najpóźniej w terminie składania wniosków o przyznanie kolejnej płatności rolno-środowiskowo-klimatycznej.”,
+b) ust. 11 otrzymuje brzmienie: „11. W przypadku niedokonania w terminie czynności:
+1) o której mowa w § 21 ust. 2 lub ust. 5a pkt 3, płatność rolno-środowiskowo-klimatyczna za realizację wa riantu, w ramach którego mają zastosowanie wymogi, o których mowa w § 4 ust. 3 pkt 1 lit. b lub pkt 2, przysługuje rolnikowi lub zarządcy w wysokości zmniejszonej o 50%;
+2) o których mowa w ust. 10, płatność rolno-środowiskowo-klimatyczna za rok, w którym stwierdzono uchy bienie, o którym mowa w ust. 10, podlega zwrotowi w części stanowiącej 30% wysokości tej płatności;
+3) o których mowa w ust. 10a, płatność rolno-środowiskowo-klimatyczna za rok, w którym stwierdzono wy stąpienie okoliczności, o której mowa w § 21 ust. 5a, za realizację wariantu, którego ta okoliczność dotyczy, podlega zwrotowi w części stanowiącej 30% wysokości tej płatności.”,
+c) ust. 14 otrzymuje brzmienie: „14. Jeżeli w odniesieniu do uchybienia, o którym mowa w ust. 1–3, 5, 8, 9d, ust. 11 pkt 1 i ust. 13, wystąpi powtarzalność, o której mowa w art. 35 ust. 3 akapit piąty rozporządzenia nr 640/2014, płatność rolno-środowi skowo-klimatyczna w części dotyczącej danego pakietu lub jego wariantu, których dotyczy to uchybienie, jest zmniejszana, a w przypadku uchybienia, o którym mowa w ust. 4 pkt 1 i ust. 11 pkt 3 – podlega zwrotowi, dodat kowo o kwotę stanowiącą iloczyn 7% kwoty, którą rolnik lub zarządca otrzymałby, gdyby to uchybienie nie wystąpiło, oraz liczby lat, w których wcześniej stwierdzono podobne niezgodności.”;
+7) w § 34a w pkt 2 lit. b otrzymuje brzmienie: „b) w lp. 1, 14–16 i 25 – iloczyn współczynnika dotkliwości i trwałości danego uchybienia wynosi 1%;”;
+8) w załączniku nr 1 do rozporządzenia w części I. Wymogi dotyczące stosowania nawozów ust. 1 otrzymuje brzmienie:
+1. Niestosowanie w danym 1. Stwierdzono Obszar gruntów 80% 1,25 – – 100% roku dawki nawozów zastosowanie w danym ornych objęty naturalnych roku dawki nawozów zobowiązaniem wykorzystywanych rolniczo naturalnych w ramach zawierającej więcej niż wykorzystywanych pakietu 1.
+170 kg azotu w czystym rolniczo zawierającej w pierwszym składniku na 1 ha użytków więcej niż 170 kg azotu roku jego rolnych – art. 105 ust. 1 w czystym składniku na realizacji.
+ustawy z dnia 20 lipca 2017 r. 1 ha użytków rolnych. Obszar objęty – Prawo wodne (Dz. U. zobowiązaniem z 2020 r. poz. 310). w ramach wariantu 2.1.
+oraz pakietu 4.
+i 5.
+9) w załączniku nr 8 do rozporządzenia w części I. Pakiet 1. Rolnictwo zrównoważone dodaje się lp. 25 w brzmieniu: 25 Siewu roślin międzyplonowych dokonano 10% 1,25 – – 13% w terminie po dniu 1 października, lecz do dnia 15 października
+§ 2. Do przyznawania, wypłaty i zwrotu pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klima tyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami:
+1) wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
+2) zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wzno wione od dnia wejścia w życie niniejszego rozporządzenia – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+§ 3. Do przyznawania płatności rolno-środowiskowo-klimatycznej za realizację zobowiązania rolno-środowiskowo -klimatycznego, o którym mowa w art. 28 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. ), podjętego przed dniem wejścia w życie niniejszego rozporządzenia w zakresie wariantów pakietu, o którym mowa w § 4 ust. 1 pkt 4 rozporządzenia zmienianego w § 1, w kolejnych latach realizacji tego zobowiązania oraz do zwrotu tej płatności stosuje się przepisy § 21 i § 33 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+§ 4. Rozporządzenie wchodzi w życie z dniem 15 marca 2020 r.
+Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
 

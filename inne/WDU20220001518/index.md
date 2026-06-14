@@ -8,10 +8,10 @@ pos: 1518
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11551188 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 24 czerwca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001518) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1518/text.pdf) |
 
-11551188 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 24 czerwca 2022 r.
-w sprawie przepisów techniczno-budowlanych dotyczących dróg publicznych Na podstawie art. 7 ust. 2 pkt 2 i ust. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88) zarządza się co następuje:
+w sprawie przepisów techniczno-budowlanych dotyczących dróg publicznych Na podstawie art. 7 ust. 2 pkt 2 i ust. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88) zarządza się co następuje:
+§ 1. Rozporządzenie określa następujące przepisy techniczno-budowlane:
 1) warunki techniczne, jakim powinny odpowiadać drogi publiczne i ich usytuowanie;
 2) warunki techniczne użytkowania dróg publicznych.
 § 2. 1. Przepisy rozporządzenia stosuje się do projektowania, budowy, przebudowy lub użytkowania dróg publicznych oraz projektowania, budowy lub przebudowy urządzeń obcych sytuowanych w pasach drogowych tych dróg.
@@ -44,29 +44,30 @@ z 2021 r. poz. 869 i 2490), stosownie do wskazań ekspertyzy technicznej rzeczoz
 1) we wzorcach i standardach rekomendowanych przez ministra właściwego do spraw transportu na podstawie przepisów o drogach publicznych;
 2) w Polskich Normach.
 § 4. Użyte w rozporządzeniu określenia oznaczają:
-1) cykl życia drogi kolejne fazy istnienia drogi, w szczególności projektowanie, wykonywanie robót budowlanych, użytkowanie, wyłączenie z użytkowania i rozbiórkę wraz z zagospodarowaniem materiałów z rozbiórki;
+1) cykl życia drogi – kolejne fazy istnienia drogi, w szczególności projektowanie, wykonywanie robót budowlanych, użytkowanie, wyłączenie z użytkowania i rozbiórkę wraz z zagospodarowaniem materiałów z rozbiórki;
 2) długość tunelu ‒ długość najdłuższego pasa ruchu mierzoną wzdłuż osi na całkowicie zabudowanej części tunelu;
 3) droga zamiejska ‒ drogę niebędącą ulicą;
 4) jezdnia główna ‒ jezdnię przeznaczoną do prowadzenia ruchu zgodnie z podstawową funkcją drogi wynikającą z jej kategorii; na drodze o dwóch jezdniach przeznaczonych do ruchu w przeciwnych kierunkach wyznacza się dwie jezdnie główne oddzielnie dla każdego kierunku ruchu;
 5) jezdnia dodatkowa ‒ jezdnię niebędącą jezdnią główną ani jezdnią zbierająco-rozprowadzającą;
 6) jezdnia zbierająco-rozprowadzająca ‒ jezdnię w obszarze węzła lub poza obszarem węzła na drodze klasy A lub S, której celem jest ograniczenie liczby wyjazdów z jezdni głównej, wjazdów na jezdnię główną oraz eliminacja z jezdni głównej przeplatania się potoków ruchu;
-7) klasa drogi zestaw warunków i parametrów technicznych, jakim powinna odpowiadać droga, wynikających z jej cech funkcjonalnych;
+7) klasa drogi – zestaw warunków i parametrów technicznych, jakim powinna odpowiadać droga, wynikających z jej cech funkcjonalnych;
 8) konstrukcja oporowa ‒ budowlę, w której wysokość widocznej części wynosi nie mniej niż 1,5 m, przeznaczoną do zapewnienia stateczności uskoku naziomu gruntu rodzimego lub nasypowego;
-9) miarodajne natężenie ruchu natężenie ruchu drogowego w ustalonej godzinie, które występuje na danej części drogi w ustalonym roku prognozy;
+9) miarodajne natężenie ruchu – natężenie ruchu drogowego w ustalonej godzinie, które występuje na danej części drogi w ustalonym roku prognozy;
 10) most ‒ budowlę przeznaczoną do przeprowadzenia drogi nad przeszkodą, w której co najmniej jedno przęsło znajduje się nad wodami powierzchniowymi;
 11) nawierzchnia ‒ warstwę lub zespół warstw, których celem jest rozłożenie obciążeń od kół pojazdów lub ruchu pieszych oddziałujących na podłoże gruntowe lub konstrukcję drogowego obiektu inżynierskiego oraz zapewnienie bezpieczeństwa i komfortu ruchu, przy czym:
 a) nawierzchnia gruntowa ‒ nawierzchnię z gruntu rodzimego lub nasypowego, ulepszonego mechanicznie lub chemicznie, w której dopuszcza się wykonanie wierzchniej warstwy z kruszywa naturalnego, sztucznego lub pochodzącego z recyklingu,
 b) nawierzchnia twarda ‒ nawierzchnię niebędącą nawierzchnią gruntową;
-12) obszar skrzyżowania wspólną część łączących się dróg wraz z wlotami i wylotami;
-13) obszar węzła ‒ obszar obejmujący odcinki łączących się dróg wraz z łącznicami lub jezdniami zbierająco-rozprowa14) pasy przejazdu kół pojazdów powierzchnie pasa ruchu lub zatoki przystankowej, po których najczęściej przejeżdżają koła pojazdów innych niż tramwaje, rowery, hulajnogi elektryczne i urządzenia transportu osobistego;
-15) pojazd miarodajny pojazd o określonych parametrach, które wyznaczają przestrzeń niezbędną do jego ruchu i postoju, wykorzystywany do projektowania drogi;
+12) obszar skrzyżowania – wspólną część łączących się dróg wraz z wlotami i wylotami;
+13) obszar węzła ‒ obszar obejmujący odcinki łączących się dróg wraz z łącznicami lub jezdniami zbierająco-rozprowadzającymi; do obszaru węzła wlicza się obszary skrzyżowań stanowiących elementy tego węzła;
+14) pasy przejazdu kół pojazdów – powierzchnie pasa ruchu lub zatoki przystankowej, po których najczęściej przejeżdżają koła pojazdów innych niż tramwaje, rowery, hulajnogi elektryczne i urządzenia transportu osobistego;
+15) pojazd miarodajny – pojazd o określonych parametrach, które wyznaczają przestrzeń niezbędną do jego ruchu i postoju, wykorzystywany do projektowania drogi;
 16) prędkość do projektowania ‒ parametr wyznaczający standard drogi, z uwzględnieniem jej funkcji, któremu przyporządkowane są graniczne parametry części drogi oraz zakres jej wyposażenia, w tym: prędkość do projektowania odcinków dróg, prędkość do projektowania dróg dla rowerów, prędkość do projektowania dróg dla pieszych i rowerów, prędkość do projektowania w obszarze skrzyżowania i prędkość do projektowania części drogi w obszarze węzła;
 17) przepust ‒ budowlę przeznaczoną do przeprowadzenia przeszkody przez drogową budowlę ziemną;
-18) przewidywany okres użytkowania drogowego obiektu inżynierskiego okres użytkowania, w którym przy zakładanym poziomie utrzymania jest zapewniona trwałość elementów konstrukcji oraz nie są przekroczone stany nośności i użytkowalności drogowego obiektu inżynierskiego;
+18) przewidywany okres użytkowania drogowego obiektu inżynierskiego – okres użytkowania, w którym przy zakładanym poziomie utrzymania jest zapewniona trwałość elementów konstrukcji oraz nie są przekroczone stany nośności i użytkowalności drogowego obiektu inżynierskiego;
 19) rozpiętość teoretyczna przęsła ‒ odległość pomiędzy osiami podparć przęsła mierzoną wzdłuż osi mostu lub wiaduktu;
-20) SDRR średni dobowy ruch roczny; średni dobowy ruch pojazdów w roku, wyrażony liczbą pojazdów przejeżdżających przez dany przekrój drogi w ciągu 24 kolejnych godzin, średnio w ciągu jednego roku;
+20) SDRR – średni dobowy ruch roczny; średni dobowy ruch pojazdów w roku, wyrażony liczbą pojazdów przejeżdżających przez dany przekrój drogi w ciągu 24 kolejnych godzin, średnio w ciągu jednego roku;
 21) strefa bez przeszkód ‒ obszar przylegający do jezdni, którego ukształtowanie i zagospodarowanie ograniczają negatywne skutki wypadków i kolizji drogowych związanych z niekontrolowanym zjechaniem pojazdu z jezdni;
-22) trudne warunki warunki wynikające z istniejącego ukształtowania lub zagospodarowania terenu, ze stopnia złożoności warunków gruntowo-wodnych lub z konieczności ograniczenia oddziaływania drogi na środowisko, które przy zachowaniu podstawowych warunków, o których mowa w dziale II, uniemożliwiają zastosowanie rozwiązania standardowego lub powodują, że koszty zastosowania rozwiązania standardowego w cyklu życia drogi byłyby rażąco wysokie względem rozwiązania alternatywnego;
+22) trudne warunki – warunki wynikające z istniejącego ukształtowania lub zagospodarowania terenu, ze stopnia złożoności warunków gruntowo-wodnych lub z konieczności ograniczenia oddziaływania drogi na środowisko, które przy zachowaniu podstawowych warunków, o których mowa w dziale II, uniemożliwiają zastosowanie rozwiązania standardowego lub powodują, że koszty zastosowania rozwiązania standardowego w cyklu życia drogi byłyby rażąco wysokie względem rozwiązania alternatywnego;
 23) tunel ‒ budowlę przeznaczoną do przeprowadzenia drogi przez przeszkodę lub pod przeszkodą;
 24) ulica ‒ drogę klasy GP, G, Z, L lub D, otoczoną terenami zabudowy lub terenami przeznaczonymi pod zabudowę, pełniącą oprócz funkcji komunikacyjnej także inne funkcje, w szczególności związane z jej otoczeniem;
 25) urządzenia alternatywne ‒ przejście sugerowane, chodnik poprzeczny i pas neutralny, które ułatwiają pieszym przekraczanie jezdni, drogi dla rowerów lub torowiska tramwajowego, ale nie są przejściami dla pieszych;
@@ -76,14 +77,17 @@ b) nawierzchnia twarda ‒ nawierzchnię niebędącą nawierzchnią gruntową;
 2) z poboczy lub usytuowanych w ich miejscu innych części drogi, jeżeli spełniają one co najmniej jedną z funkcji poboczy określoną w przepisach o ruchu drogowym;
 3) z urządzeń do odwodnienia;
 4) ze znaków drogowych, sygnalizatorów drogowych lub urządzeń bezpieczeństwa ruchu drogowego, jeżeli konieczność ich umieszczenia na drodze wynika z przepisów o ruchu drogowym.
+§ 6. Drogę sytuuje się w pasie drogowym tak, aby uwzględnić potrzebę ochrony drogi i jej użytkowników oraz terenów przyległych do pasa drogowego przed wzajemnym niekorzystnym oddziaływaniem.
 § 7. Droga powinna zapewniać odpowiednie poziomy bezpieczeństwa i sprawności ruchu użytkownikom, dla których jest przeznaczona.
 § 8. 1. Decyzje o rozwiązaniach w zakresie projektowania, budowy, przebudowy lub użytkowania drogi podejmuje się w szczególności na podstawie danych o ruchu drogowym.
-2. Jeżeli jest to uzasadnione, w szczególności zakresem robót budowlanych, przy podejmowaniu decyzji o rozwiązaniach § 9. 1. Droga powinna spełniać w cyklu życia drogi co najmniej podstawowe warunki dotyczące nośności i stateczności konstrukcji, bezpieczeństwa pożarowego, bezpieczeństwa użytkowania, dostępności, ochrony zdrowia ludzi i środowiska, w tym ochrony przed hałasem, oszczędności energii oraz zrównoważonego wykorzystania zasobów naturalnych.
+2. Jeżeli jest to uzasadnione, w szczególności zakresem robót budowlanych, przy podejmowaniu decyzji o rozwiązaniach w zakresie projektowania, budowy lub przebudowy drogi uwzględnia się analizę kosztów i korzyści w cyklu życia drogi.
+§ 9. 1. Droga powinna spełniać w cyklu życia drogi co najmniej podstawowe warunki dotyczące nośności i stateczności konstrukcji, bezpieczeństwa pożarowego, bezpieczeństwa użytkowania, dostępności, ochrony zdrowia ludzi i środowiska, w tym ochrony przed hałasem, oszczędności energii oraz zrównoważonego wykorzystania zasobów naturalnych.
 2. Warunek dostępności dla osób ze szczególnymi potrzebami spełnia droga użyteczna dla wszystkich w możliwie największym stopniu, bez potrzeby adaptacji lub specjalistycznego projektowania, na zasadach równości z innymi osobami, zgodnie z zasadami projektowania uniwersalnego.
 3. Warunek ochrony środowiska, w tym ochrony przed hałasem, spełnia się przez ograniczenie oddziaływania drogi na środowisko zgodnie z przepisami o ochronie środowiska.
 4. Warunek zrównoważonego wykorzystania zasobów naturalnych spełnia się w szczególności przez wykorzystanie materiałów lub wyrobów budowlanych pochodzących z lokalnych źródeł lub z recyklingu w rozumieniu przepisów o odpadach.
 5. W przypadku drogowych obiektów inżynierskich przy spełnieniu podstawowych warunków bierze się pod uwagę w szczególności warunki wynikające z możliwości wystąpienia awarii lub katastrofy budowlanej, w tym związanych z powodzią, pochodem lodu, silnym wiatrem, ruchem zakładu górniczego oraz uderzeniem pojazdu lub statku w drogowy obiekt inżynierski.
 § 10. Na drodze umożliwia się umieszczanie znaków drogowych, sygnalizatorów drogowych lub urządzeń bezpieczeństwa ruchu drogowego, zgodnie z projektem organizacji ruchu opracowanym na podstawie przepisów o ruchu drogowym.
+§ 11. Drogi dzielą się na klasy, które są oznaczone symbolem literowym lub opisowo:
 1) A ‒ autostrada;
 2) S ‒ ekspresowa;
 3) GP ‒ główna ruchu przyspieszonego;
@@ -94,39 +98,41 @@ b) nawierzchnia twarda ‒ nawierzchnię niebędącą nawierzchnią gruntową;
 § 12. 1. Droga klasy A lub S jest drogą zamiejską.
 2. Droga klasy GP, G, Z, L lub D jest drogą zamiejską lub ulicą.
 3. Droga, w zależności od kategorii w rozumieniu przepisów o drogach publicznych, powinna mieć klasę:
-1) kategorii krajowej standardowo klasę A, S lub GP, w trudnych warunkach dopuszcza się G;
-2) kategorii wojewódzkiej standardowo klasę G, dopuszcza się GP, w trudnych warunkach Z;
-3) kategorii powiatowej standardowo klasę Z, dopuszcza się G lub GP, w trudnych warunkach L;
-4) kategorii gminnej standardowo klasę D lub L, dopuszcza się Z, G lub GP.
+1) kategorii krajowej – standardowo klasę A, S lub GP, w trudnych warunkach dopuszcza się – G;
+2) kategorii wojewódzkiej – standardowo klasę G, dopuszcza się – GP, w trudnych warunkach – Z;
+3) kategorii powiatowej – standardowo klasę Z, dopuszcza się – G lub GP, w trudnych warunkach – L;
+4) kategorii gminnej – standardowo klasę D lub L, dopuszcza się – Z, G lub GP.
 § 13. 1. Drogę zamiejską projektuje się w taki sposób, że prędkość do projektowania przyjmuje się w zależności od klasy drogi:
-1) dla klasy A standardowo 140 km/h, w trudnych warunkach dopuszcza się 130 lub 120 km/h;
-3) dla klasy GP standardowo 110 km/h, w trudnych warunkach dopuszcza się 100, 90 lub 80 km/h;
-4) dla klasy G standardowo 100 km/h, w trudnych warunkach dopuszcza się 90, 80, 70 lub 60 km/h;
-5) dla klasy Z standardowo 80 km/h, w trudnych warunkach dopuszcza się 70, 60, 50 lub 40 km/h;
-6) dla klasy L standardowo 60 km/h, w trudnych warunkach dopuszcza się 50 lub 40 km/h;
-7) dla klasy D 40 km/h lub 30 km/h.
+1) dla klasy A – standardowo 140 km/h, w trudnych warunkach dopuszcza się 130 lub 120 km/h;
+2) dla klasy S – standardowo 130 km/h, w trudnych warunkach dopuszcza się 120, 110, 100 lub 90 km/h;
+3) dla klasy GP – standardowo 110 km/h, w trudnych warunkach dopuszcza się 100, 90 lub 80 km/h;
+4) dla klasy G – standardowo 100 km/h, w trudnych warunkach dopuszcza się 90, 80, 70 lub 60 km/h;
+5) dla klasy Z – standardowo 80 km/h, w trudnych warunkach dopuszcza się 70, 60, 50 lub 40 km/h;
+6) dla klasy L – standardowo 60 km/h, w trudnych warunkach dopuszcza się 50 lub 40 km/h;
+7) dla klasy D – 40 km/h lub 30 km/h.
 2. Ulicę projektuje się w taki sposób, że prędkość do projektowania przyjmuje się w zależności od klasy drogi:
-1) dla klasy GP standardowo 70 km/h, dopuszcza się 60 lub 80 km/h;
-2) dla klasy G standardowo 60 km/h, dopuszcza się 50 lub 70 km/h;
-3) dla klasy Z standardowo 50 km/h, dopuszcza się 30 lub 40 km/h;
-4) dla klasy L standardowo 40 km/h, dopuszcza się 30 lub 50 km/h;
-5) dla klasy D 30 km/h.
+1) dla klasy GP – standardowo 70 km/h, dopuszcza się 60 lub 80 km/h;
+2) dla klasy G – standardowo 60 km/h, dopuszcza się 50 lub 70 km/h;
+3) dla klasy Z – standardowo 50 km/h, dopuszcza się 30 lub 40 km/h;
+4) dla klasy L – standardowo 40 km/h, dopuszcza się 30 lub 50 km/h;
+5) dla klasy D – 30 km/h.
 § 14. 1. Zarządca drogi po zasięgnięciu opinii organu zarządzającego ruchem określa pojazd miarodajny lub pojazdy miarodajne, spośród określonych w załączniku nr 1 do rozporządzenia, którym umożliwia się przejazd po drodze.
 2. Zarządca drogi o znaczeniu obronnym określa pojazd lub pojazdy miarodajne, którym umożliwia się przejazd po drodze, w uzgodnieniu z terenowym organem administracji wojskowej.
-1) klasy A lub S 2/2, 2/3 lub 2/4;
-2) klasy GP standardowo 2/2, dopuszcza się 2/3, dwukierunkowy 1/2 lub dwukierunkowy 1/2 + 1;
-3) klasy G standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 + 1, 2/2 lub 2/3;
-4) klasy Z standardowo dwukierunkowy 1/2, dopuszcza się 2/2;
-5) klasy L standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 1;
-6) klasy D standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 1 lub dwukierunkowy 1/1.
+§ 15. 1. Droga zamiejska, w zależności od klasy, powinna mieć liczbę jezdni głównych (n) i liczbę pasów ruchu na jezdni głównej (m) wyrażoną przekrojem o symbolu n/m:
+1) klasy A lub S – 2/2, 2/3 lub 2/4;
+2) klasy GP – standardowo 2/2, dopuszcza się 2/3, dwukierunkowy 1/2 lub dwukierunkowy 1/2 + 1;
+3) klasy G – standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 + 1, 2/2 lub 2/3;
+4) klasy Z – standardowo dwukierunkowy 1/2, dopuszcza się 2/2;
+5) klasy L – standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 – 1;
+6) klasy D – standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 – 1 lub dwukierunkowy 1/1.
 2. Droga zamiejska o przekroju dwukierunkowym 1/2 powinna mieć odcinki z możliwością wyprzedzania, które zapewniają niezbędne warunki widoczności, lub dodatkowe pasy ruchu do wyprzedzania. W trudnych warunkach dopuszcza się odcinki bez możliwości wyprzedzania. Przekrój drogi zamiejskiej z zespołem naprzemiennych dodatkowych pasów ruchu do wyprzedzania określa się jako dwukierunkowy 1/2 + 1.
-3. Przekrój drogi ze środkowym pasem przeznaczonym do dwukierunkowego ruchu pojazdów, z wyjątkiem rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego, oraz pasami usytuowanymi po obu stronach pasa środkowego, które są przeznaczone do jednokierunkowego ruchu pieszych, rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego, a także do ruchu pozostałych pojazdów w trakcie wymijania, na której prędkość dopuszczalna wynosi nie więcej niż 50 km/h, określa się jako dwukierunkowy 1/2 1.
+3. Przekrój drogi ze środkowym pasem przeznaczonym do dwukierunkowego ruchu pojazdów, z wyjątkiem rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego, oraz pasami usytuowanymi po obu stronach pasa środkowego, które są przeznaczone do jednokierunkowego ruchu pieszych, rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego, a także do ruchu pozostałych pojazdów w trakcie wymijania, na której prędkość dopuszczalna wynosi nie więcej niż 50 km/h, określa się jako dwukierunkowy 1/2 – 1.
 4. Ulica, w zależności od klasy, powinna mieć liczbę jezdni głównych (n) i liczbę pasów ruchu na jezdni głównej (m), wyrażoną przekrojem o symbolu n/m:
-1) klasy GP standardowo 2/2, dopuszcza się 2/3, 2/4, dwukierunkowy 1/2 + 0 lub dwukierunkowy 1/2;
-2) klasy G standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 + 0, 2/2, 2/3, 2/4, jednokierunkowy 1/1,
-3) klasy Z standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 + 0, 2/1, 2/2, 2/3, jednokierunkowy 1/1, jednokierunkowy 1/2 lub jednokierunkowy 1/3;
-4) klasy L standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 + 0, 2/1, 2/2, jednokierunkowy 1/1 lub jednokierunkowy 1/2;
-5) klasy D standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/1, 2/1, jednokierunkowy 1/1 lub jednokierunkowy 1/2.
+1) klasy GP – standardowo 2/2, dopuszcza się 2/3, 2/4, dwukierunkowy 1/2 + 0 lub dwukierunkowy 1/2;
+2) klasy G – standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 + 0, 2/2, 2/3, 2/4, jednokierunkowy 1/1, jednokierunkowy 1/2, jednokierunkowy 1/3 lub jednokierunkowy 1/4;
+3) klasy Z – standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 + 0, 2/1, 2/2, 2/3, jednokierunkowy 1/1, jednokierunkowy 1/2 lub jednokierunkowy 1/3;
+4) klasy L – standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/2 + 0, 2/1, 2/2, jednokierunkowy 1/1 lub jednokierunkowy 1/2;
+5) klasy D – standardowo dwukierunkowy 1/2, dopuszcza się dwukierunkowy 1/1, 2/1, jednokierunkowy 1/1 lub jednokierunkowy 1/2.
 5. Przekrój ulicy ze środkowym pasem wielofunkcyjnym, który jest przeznaczony do ruchu pojazdów wyjeżdżających z ulicy lub wjeżdżających na ulicę, określa się jako dwukierunkowy 1/2 + 0.
 6. Na drodze o przekroju dwukierunkowym 1/1 projektuje się odcinki o przekroju dwukierunkowym 1/2 umożliwiające wyminięcie się pojazdów.
 7. Na drodze klasy A, S, GP, G lub Z dopuszcza się zaprojektowanie jezdni dodatkowej, spełniającej warunki określone dla jezdni drogi klasy D, L lub Z.
@@ -135,13 +141,13 @@ b) nawierzchnia twarda ‒ nawierzchnię niebędącą nawierzchnią gruntową;
 2. Pas dzielący na drodze, na której prędkość dopuszczalna wynosi więcej niż 50 km/h, powinien mieć strefę bez przeszkód. Jeżeli nie można zaprojektować strefy bez przeszkód, projektuje się barierę ochronną.
 3. W miejscu przejścia dla pieszych lub przejazdu dla rowerów szerokość pasa dzielącego powinna być nie mniejsza niż długość strefy oczekiwania dla pieszych lub rowerów.
 § 17. 1. Szerokość pasa ruchu na jezdni z co najmniej dwoma pasami ruchu, w zależności od klasy drogi, wynosi:
-1) standardowo 3,75 m, w trudnych warunkach dopuszcza się 3,50 m w przypadku klasy A;
-2) standardowo 3,50 m, dopuszcza się 3,75 m, w trudnych warunkach 3,25 m w przypadku klasy S;
-3) standardowo 3,50 m, w trudnych warunkach dopuszcza się 3,25 m w przypadku klasy GP;
-4) standardowo 3,50 m, w trudnych warunkach dopuszcza się 3,25 lub 3,00 m w przypadku klasy G;
-5) standardowo 3,00 m, dopuszcza się 3,25 lub 3,50 m, w trudnych warunkach 2,75 m w przypadku klasy Z;
-6) standardowo 2,75 m, dopuszcza się 3,00, 3,25 lub 3,50 m, w trudnych warunkach 2,50 m w przypadku klasy L;
-7) standardowo 2,50 m, dopuszcza się 2,75, 3,00, 3,25 lub 3,50 m, w trudnych warunkach 2,25 m w przypadku klasy D.
+1) standardowo 3,75 m, w trudnych warunkach dopuszcza się 3,50 m – w przypadku klasy A;
+2) standardowo 3,50 m, dopuszcza się 3,75 m, w trudnych warunkach 3,25 m – w przypadku klasy S;
+3) standardowo 3,50 m, w trudnych warunkach dopuszcza się 3,25 m – w przypadku klasy GP;
+4) standardowo 3,50 m, w trudnych warunkach dopuszcza się 3,25 lub 3,00 m – w przypadku klasy G;
+5) standardowo 3,00 m, dopuszcza się 3,25 lub 3,50 m, w trudnych warunkach 2,75 m – w przypadku klasy Z;
+6) standardowo 2,75 m, dopuszcza się 3,00, 3,25 lub 3,50 m, w trudnych warunkach 2,50 m – w przypadku klasy L;
+7) standardowo 2,50 m, dopuszcza się 2,75, 3,00, 3,25 lub 3,50 m, w trudnych warunkach 2,25 m – w przypadku klasy D.
 2. Na jednokierunkowej jezdni z co najmniej dwoma pasami ruchu dopuszcza się przyjęcie szerokości drugiego i kolejnych pasów ruchu, licząc od prawej strony, takich samych jak szerokość pasa ruchu w trudnych warunkach.
 3. Szerokość pasa ruchu na jezdni z jednym pasem ruchu powinna być mniejsza niż suma szerokości dwóch pasów ruchu, ale nie mniejsza niż 3,50 m.
 4. Na drodze, w miejscu zastosowania rozwiązania w celu uspokojenia ruchu, dopuszcza się zmniejszenie szerokości pasa ruchu do nie mniej niż 2,25 m.
@@ -173,21 +179,22 @@ b) nawierzchnia twarda ‒ nawierzchnię niebędącą nawierzchnią gruntową;
 4. Na ulicy projektuje się pobocza albo pobocze i opaskę wewnętrzną w taki sposób, jak na drodze zamiejskiej. Jeżeli jezdnia ulicy jest ograniczona wyniesionym krawężnikiem, a ruch pieszych odbywa się po drodze dla pieszych lub drodze dla pieszych i rowerów albo na ulicy obowiązuje zakaz ruchu pieszych, dopuszcza się inne rozwiązania w zakresie poboczy lub opasek wewnętrznych.
 5. Na drogowym obiekcie inżynierskim lub w nim nie projektuje się części pobocza o nawierzchni gruntowej.
 6. Szerokość części pobocza o nawierzchni twardej, w postaci pasa awaryjnego, w zależności od klasy drogi, wynosi:
-1) standardowo 3,00 m, w trudnych warunkach dopuszcza się nie mniej niż 2,50 m w przypadku klasy A;
+1) standardowo 3,00 m, w trudnych warunkach dopuszcza się nie mniej niż 2,50 m – w przypadku klasy A;
+2) standardowo 2,50 m, dopuszcza się nie więcej niż 3,00 m – w przypadku klasy S.
 7. Szerokość części pobocza o nawierzchni twardej, w postaci opaski zewnętrznej, w zależności od klasy drogi, wynosi:
-1) standardowo 0,75 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m w przypadku drogi klasy GP o jednej jezdni głównej;
-2) standardowo 0,75 m, dopuszcza się 1,50 m w przypadku drogi klasy GP o dwóch jezdniach głównych;
-3) 0,50 m w przypadku klasy G lub Z.
+1) standardowo 0,75 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m – w przypadku drogi klasy GP o jednej jezdni głównej;
+2) standardowo 0,75 m, dopuszcza się 1,50 m – w przypadku drogi klasy GP o dwóch jezdniach głównych;
+3) 0,50 m – w przypadku klasy G lub Z.
 8. Szerokość opaski wewnętrznej, w zależności od klasy drogi, wynosi:
-1) standardowo 0,75 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m w przypadku klasy A, S lub GP;
-2) 0,50 m w przypadku klasy G lub Z.
+1) standardowo 0,75 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m – w przypadku klasy A, S lub GP;
+2) 0,50 m – w przypadku klasy G lub Z.
 9. Dopuszcza się zwiększenie do 1,50 m szerokości części pobocza o nawierzchni twardej, w postaci opaski zewnętrznej, lub szerokości opaski wewnętrznej w miejscu istotnym ze względu na bezpieczeństwo ruchu.
 10. Szerokość pobocza lub części pobocza o nawierzchni gruntowej powinna być nie mniejsza niż:
-1) standardowo 1,25 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,75 m w przypadku części pobocza przyległego do pasa awaryjnego;
-2) standardowo 0,75 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m w przypadku części pobocza przyległego do opaski zewnętrznej;
-3) standardowo 1,25 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m w przypadku pobocza przy jezdni drogi klasy G, jeżeli nie zaprojektowano części pobocza o nawierzchni twardej;
-4) standardowo 1,00 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m w przypadku pobocza przy jezdni drogi klasy Z, jeżeli nie zaprojektowano części pobocza o nawierzchni twardej;
-5) standardowo 0,75 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m w przypadku pobocza przy jezdni drogi klasy L lub D, jeżeli nie zaprojektowano części pobocza o nawierzchni twardej.
+1) standardowo 1,25 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,75 m – w przypadku części pobocza przyległego do pasa awaryjnego;
+2) standardowo 0,75 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m – w przypadku części pobocza przyległego do opaski zewnętrznej;
+3) standardowo 1,25 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m – w przypadku pobocza przy jezdni drogi klasy G, jeżeli nie zaprojektowano części pobocza o nawierzchni twardej;
+4) standardowo 1,00 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m – w przypadku pobocza przy jezdni drogi klasy Z, jeżeli nie zaprojektowano części pobocza o nawierzchni twardej;
+5) standardowo 0,75 m, a w trudnych warunkach dopuszcza się nie mniej niż 0,50 m – w przypadku pobocza przy jezdni drogi klasy L lub D, jeżeli nie zaprojektowano części pobocza o nawierzchni twardej.
 § 24. 1. Konstrukcja nawierzchni części pobocza o nawierzchni twardej oraz opaski wewnętrznej powinna być taka sama jak konstrukcja nawierzchni jezdni, do której przylegają.
 2. Pochylenie podłużne części pobocza o nawierzchni twardej, opaski wewnętrznej i pobocza lub części pobocza o nawierzchni gruntowej powinno być takie samo jak pochylenie podłużne jezdni, do której przylegają.
 3. Pochylenie poprzeczne części pobocza o nawierzchni twardej lub opaski wewnętrznej powinno być takie samo jak pochylenie poprzeczne jezdni, do której przylegają. Pochylenie poprzeczne pobocza lub części pobocza o nawierzchni gruntowej powinno zapewniać skuteczne odwodnienie.
@@ -196,6 +203,7 @@ b) nawierzchnia twarda ‒ nawierzchnię niebędącą nawierzchnią gruntową;
 2. Szerokość strefy bez przeszkód projektuje się w taki sposób, aby uwzględnić prędkość dopuszczalną na drodze, SDRR i zagospodarowanie otoczenia drogi.
 3. W strefie bez przeszkód nie projektuje się drogi dla pieszych, drogi dla rowerów lub drogi dla pieszych i rowerów, a także innych części drogi, obiektów i urządzeń, które mogłyby stwarzać zagrożenie dla użytkowników drogi.
 4. W strefie bez przeszkód dopuszcza się sytuowanie konstrukcji wsporczych spełniających warunki w zakresie biernego bezpieczeństwa.
+§ 27. 1. Do ruchu pieszych projektuje się drogę dla pieszych, drogę dla pieszych i rowerów lub pobocze.
 2. Drogę dla pieszych oraz drogę dla pieszych i rowerów projektuje się także do ruchu osób poruszających się przy użyciu urządzenia wspomagającego ruch.
 3. Droga dla pieszych składa się co najmniej z chodnika przeznaczonego wyłącznie do ruchu pieszych i osób poruszających się przy użyciu urządzenia wspomagającego ruch.
 4. Jeżeli droga dla pieszych jest przeznaczona do pełnienia innych funkcji niż te dopuszczone na chodniku, a w szczególności prowadzenia działalności społeczno-gospodarczej, sytuowania urządzeń drogi lub obiektów małej architektury, zatrzymania lub postoju pojazdów, projektuje się:
@@ -235,6 +243,7 @@ b) nawierzchnia twarda ‒ nawierzchnię niebędącą nawierzchnią gruntową;
 2. Pas prowadzący projektuje się na chodniku lub drodze dla pieszych i rowerów, których szerokość wynosi więcej niż 4,00 m.
 3. Pasa ostrzegawczego nie projektuje się w skrajni jezdni, skrajni drogi dla rowerów i tramwajowej skrajni budowli.
 4. Faktura i kolorystyka elementów systemu fakturowych oznaczeń nawierzchni, nawierzchni chodnika lub drogi dla pieszych i rowerów oraz ich otoczenia powinny ze sobą kontrastować.
+§ 39. 1. Do ruchu rowerów i hulajnóg elektrycznych projektuje się drogę dla rowerów, drogę dla pieszych i rowerów lub jezdnię.
 2. Drogę dla rowerów oraz drogę dla pieszych i rowerów projektuje się także do ruchu urządzeń transportu osobistego i osób poruszających się przy użyciu urządzenia wspomagającego ruch.
 § 40. 1. Części drogi przeznaczone do ruchu rowerów projektuje się z zachowaniem ciągłości tras dla rowerów w ramach projektowanego odcinka drogi i poza nim.
 2. Podstawową częścią drogi przeznaczoną do ruchu rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego jest droga dla rowerów.
@@ -250,14 +259,14 @@ b) nawierzchnia twarda ‒ nawierzchnię niebędącą nawierzchnią gruntową;
 3. W trudnych warunkach dopuszcza się przyjęcie prędkości do projektowania wynoszącej 12 km/h.
 § 42. 1. Szerokość drogi dla rowerów projektuje się w taki sposób, aby uwzględnić miarodajne natężenie ruchu rowerów, hulajnóg elektrycznych, urządzeń transportu osobistego i osób poruszających się przy użyciu urządzenia wspomagającego ruch.
 2. Szerokość jednokierunkowej drogi dla rowerów powinna być nie mniejsza niż 1,50 m. Dopuszcza się szerokość nie mniejszą niż:
-1) 1,20 m jeżeli różnica wysokości pomiędzy nawierzchnią drogi dla rowerów a jej wyniesionym otoczeniem jest nie większa niż 0,05 m, w trudnych warunkach albo na moście lub wiadukcie;
-2) 1,00 m na odcinku nie dłuższym niż 20 m jeżeli ograniczenie ruchu do jednego kierunku wynika z konieczności zapewnienia segregacji kierunków ruchu.
+1) 1,20 m – jeżeli różnica wysokości pomiędzy nawierzchnią drogi dla rowerów a jej wyniesionym otoczeniem jest nie większa niż 0,05 m, w trudnych warunkach albo na moście lub wiadukcie;
+2) 1,00 m na odcinku nie dłuższym niż 20 m – jeżeli ograniczenie ruchu do jednego kierunku wynika z konieczności zapewnienia segregacji kierunków ruchu.
 3. Szerokość dwukierunkowej drogi dla rowerów powinna być nie mniejsza niż 2,50 m. Dopuszcza się szerokość nie mniejszą niż 2,00 m, jeżeli różnica wysokości pomiędzy nawierzchnią drogi dla rowerów a jej wyniesionym otoczeniem jest nie większa niż 0,05 m, w trudnych warunkach albo na moście lub wiadukcie.
 4. Szerokość drogi dla pieszych i rowerów powinna być nie mniejsza niż 3,00 m. Dopuszcza się szerokość nie mniejszą niż 2,50 m w trudnych warunkach albo na moście lub wiadukcie.
 5. Szerokość pasa lub kontrapasa ruchu dla rowerów powinna być mniejsza niż 2,25 m, ale nie mniejsza niż 1,50 m.
 Dopuszcza się szerokość nie mniejszą niż:
-1) 1,25 m jeżeli pas lub kontrapas ruchu dla rowerów nie są ograniczone krawężnikiem, wysokość krawężnika wynosi nie więcej niż 0,05 m albo na moście lub wiadukcie;
-2) 1,00 m w trudnych warunkach na odcinku nie dłuższym niż 20 m, jeżeli wzdłuż tego pasa nie jest możliwy postój pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego.
+1) 1,25 m – jeżeli pas lub kontrapas ruchu dla rowerów nie są ograniczone krawężnikiem, wysokość krawężnika wynosi nie więcej niż 0,05 m albo na moście lub wiadukcie;
+2) 1,00 m – w trudnych warunkach na odcinku nie dłuższym niż 20 m, jeżeli wzdłuż tego pasa nie jest możliwy postój pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego.
 6. Szerokość drogi dla rowerów lub drogi dla pieszych i rowerów na odcinkach łuku w planie zwiększa się, jeżeli taka potrzeba wynika z warunków jazdy po łuku, wielkości promienia łuku i prędkości do projektowania drogi dla rowerów lub drogi dla pieszych i rowerów.
 7. Promień krzywizny wewnętrznej w planie drogi dla rowerów lub drogi dla pieszych i rowerów projektuje się w taki sposób, aby uwzględnić prędkość do projektowania drogi dla rowerów lub drogi dla pieszych i rowerów.
 § 43. 1. Pochylenie poprzeczne drogi dla rowerów lub drogi dla pieszych i rowerów powinno zapewniać skuteczne odwodnienie oraz powinno być nie mniejsze niż 1% i nie większe niż 3%.
@@ -266,11 +275,12 @@ Dopuszcza się szerokość nie mniejszą niż:
 2. Jeżeli ruch rowerów i hulajnóg elektrycznych odbywa się po pasie lub kontrapasie ruchu dla rowerów, stanowiska postojowe przeznaczone dla pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, które są usytuowane po stronie tego pasa lub kontrapasa, projektuje się jako równoległe do jezdni, w odległości od krawędzi pasa lub kontrapasa ruchu dla rowerów wynoszącej standardowo nie mniej niż 0,50 m. W trudnych warunkach dopuszcza się odległość wynoszącą nie mniej niż 0,25 m.
 § 45. 1. Do przekraczania drogi przez rowery, hulajnogi elektryczne, urządzenia transportu osobistego lub osoby poruszające się przy użyciu urządzenia wspomagającego ruch projektuje się przejazd dla rowerów, tunel lub wiadukt dla rowerów albo pieszych i rowerów.
 2. Szerokość przejazdu dla rowerów powinna być nie mniejsza niż szerokość drogi dla rowerów przed przejazdem i nie mniejsza niż:
-1) 1,80 m w przypadku przejazdu jednokierunkowego;
-2) 3,00 m w przypadku przejazdu dwukierunkowego.
+1) 1,80 m – w przypadku przejazdu jednokierunkowego;
+2) 3,00 m – w przypadku przejazdu dwukierunkowego.
 3. Przed przejazdem dla rowerów projektuje się strefę oczekiwania mającą szerokość równą szerokości przejazdu i długość nie mniejszą niż 2,50 m. W trudnych warunkach dopuszcza się zmniejszenie długości do 2,00 m.
 4. Przejazd dla rowerów projektuje się w taki sposób, aby na powierzchni przejazdu i strefy oczekiwania nie występowały uskoki. W trudnych warunkach dopuszcza się występowanie uskoków nie większych niż 0,01 m.
 § 46. Droga dla rowerów lub droga dla pieszych i rowerów w tunelu lub w innych miejscach istotnych ze względu na bezpieczeństwo ruchu oraz przejazd dla rowerów powinny być oświetlone.
+§ 47. 1. Do ruchu i obsługi pojazdów transportu zbiorowego projektuje się:
 1) drogę klasy GP, G, Z, L lub D;
 2) jezdnię dodatkową na drodze klasy A lub S.
 2. W trudnych warunkach do ruchu i obsługi pojazdów transportu zbiorowego dopuszcza się zaprojektowanie jezdni zbierająco-rozprowadzającej na drodze klasy A lub S lub jezdni głównej na drodze klasy S.
@@ -285,15 +295,17 @@ Dopuszcza się szerokość nie mniejszą niż:
 § 51. 1. W miejscu przystanku transportu zbiorowego projektuje się peron. Dopuszcza się rozwiązanie, w którym funkcję peronu pełni droga dla pieszych, jeżeli jej szerokość umożliwia jednoczesną obsługę użytkowników przystanku i pieszych.
 2. Długość peronu dostosowuje się do długości i natężenia ruchu pojazdów transportu zbiorowego, a szerokość peronu dostosowuje się do prognozowanej liczby i rodzaju użytkowników przystanku w godzinach szczytu oraz sposobu dojścia do peronu.
 3. Peron projektuje się w taki sposób, aby spełnić warunki określone dla drogi dla pieszych oraz umożliwić użytkownikom przystanku bezpieczne i komfortowe wsiadanie do pojazdu transportu zbiorowego i wysiadanie z niego.
+§ 52. 1. W celu umożliwienia postoju pojazdów na drodze klasy GP, G, Z, L lub D projektuje się zatokę postojową lub parking, których rozmiary i wyposażenie powinny wynikać z przyjętej liczby i przeznaczenia stanowisk postojowych lub jezdni manewrowych. Do zatoki lub parkingu projektuje się dojście.
 2. Stanowisko przy jezdni przeznaczone do postoju samochodów ciężarowych, ciągników samochodowych, autobusów lub trolejbusów projektuje się równolegle do niej.
 3. Rozmiar stanowiska postojowego określa się w zależności od rozmiarów i możliwości manewrowych pojazdów, dla których jest przeznaczone, oraz jego usytuowania w stosunku do krawędzi jezdni.
 4. Pochylenie podłużne i poprzeczne stanowiska postojowego projektuje się w taki sposób, aby zapewnić skuteczne odwodnienie, stateczny postój pojazdu oraz komfort korzystania ze stanowiska.
 5. Nawierzchnie stanowiska i dojścia do stanowiska przeznaczonego do postoju pojazdu zaopatrzonego w kartę parkingową, o którym mowa w przepisach o drogach publicznych, projektuje się jako twarde.
 § 53. 1. Na drodze klasy A lub S projektuje się miejsce obsługi podróżnych dostępne wyłącznie dla użytkowników tej drogi, obsługi, zaopatrzenia i służb ratowniczych.
-2. Miejsce obsługi podróżnych projektuje się w taki sposób, aby uwzględnić potrzeby użytkowników dróg, w szczególności związane z zaspokojeniem potrzeb fizjologicznych, odpoczynkiem, postojem, obsługą i zaopatrzeniem pojazdów
-3. Odległość pomiędzy sąsiednimi miejscami obsługi podróżnych na drodze klasy A lub S, dostępnymi dla ruchu w jednym kierunku, powinna być nie większa niż 40 km, a pomiędzy miejscami obsługi podróżnych umożliwiającymi zaopatrzenie w paliwa powinna być nie większa niż 60 km. W trudnych warunkach dopuszcza się inne odległości.
+2. Miejsce obsługi podróżnych projektuje się w taki sposób, aby uwzględnić potrzeby użytkowników dróg, w szczególności związane z zaspokojeniem potrzeb fizjologicznych, odpoczynkiem, postojem, obsługą i zaopatrzeniem pojazdów w paliwa, w tym paliwa alternatywne.
+3. Odległość pomiędzy sąsiednimi miejscami obsługi podróżnych na drodze klasy A lub S, dostępnymi dla ruchu w jednym kierunku, powinna być nie większa niż 40 km, a pomiędzy miejscami obsługi podróżnych umożliwiającymi zaopatrzenie w paliwa – powinna być nie większa niż 60 km. W trudnych warunkach dopuszcza się inne odległości.
 4. Miejsca obsługi podróżnych usytuowane naprzeciw siebie po obu stronach drogi klasy A lub S łączy się wiaduktem lub tunelem dla pieszych, jeżeli ze względu na różnice w usługach oferowanych w ramach tych miejsc istnieje ryzyko przekraczania jezdni przez pieszych.
 5. W trudnych warunkach zamiast miejsca obsługi podróżnych dopuszcza się zaprojektowanie jezdni zbierająco-rozprowadzającej ze zwykłymi zjazdami do istniejących obiektów, w których jest prowadzona działalność usługowa związana z zaspokojeniem potrzeb użytkowników dróg. Obiekty te powinny spełniać warunki określone dla miejsc obsługi podróżnych.
+§ 54. 1. Połączenie jezdni z nieruchomością gruntową usytuowaną poza pasem drogowym projektuje się jako jedno- lub dwukierunkowy zjazd.
 2. W trudnych warunkach dopuszcza się oddzielne zaprojektowanie części zjazdu przeznaczonej wyłącznie do ruchu pieszych lub osób poruszających się przy użyciu urządzenia wspomagającego ruch (dojście) i części zjazdu przeznaczonej do ruchu pojazdów.
 3. Połączenie jezdni z inną częścią drogi usytuowaną w jej pasie drogowym projektuje się jako jednokierunkowy wyjazd lub wjazd. Dopuszcza się usytuowanie wyjazdu i wjazdu obok siebie, pod warunkiem rozdzielenia wyspą kanalizującą ruch.
 4. Zjazd, wyjazd lub wjazd projektuje się jako:
@@ -310,27 +322,28 @@ Dopuszcza się szerokość nie mniejszą niż:
 2) o dwóch jezdniach głównych, dopuszcza się wyłącznie obsługę ruchu z jezdni, przy której jest usytuowany.
 § 56. 1. Wyjazd lub wjazd zwykły na drodze klasy A lub S oraz na drodze innej klasy, na której prędkość do projektowania wynosi nie mniej niż 100 km/h, projektuje się w taki sposób jak wyjazd lub wjazd w obszarze węzła.
 2. Parametry geometryczne zjazdu, wyjazdu lub wjazdu powinny umożliwiać przejazd pojazdu miarodajnego oraz uwzględniać uwarunkowania wynikające z ruchu pieszych, osób poruszających się przy użyciu urządzenia wspomagającego ruch, rowerów, hulajnóg elektrycznych lub urządzeń transportu osobistego. Parametry geometryczne dwukierunkowego zjazdu powinny dodatkowo umożliwiać przejazd pojazdu miarodajnego z zachowaniem bezpiecznej odległości między wymijającymi się pojazdami.
+§ 57. 1. Drogę klasy A lub S łączy się z drogą klasy A, S, GP lub G, a drogę klasy S ‒ także z drogą klasy Z. Połączenie projektuje się w formie węzła.
 2. Skrzyżowanie lub węzeł projektuje się w miejscu przecięcia projektowanej drogi z drogą istniejącą, z wyjątkiem trudnych warunków, lub z drogą projektowaną.
 3. Punkty przecięcia osi dróg na sąsiadujących ze sobą skrzyżowaniach lub węzłach projektuje się w odległościach zapewniających odpowiednie warunki ruchu, które wynikają z natężenia ruchu i przyjętej prędkości do projektowania, oraz możliwość umieszczenia znaków drogowych lub sygnalizatorów drogowych zgodnie z przepisami o ruchu drogowym.
 4. Skrzyżowania nie projektuje się na łącznicy lub jezdni zbierająco-rozprowadzającej, z wyjątkiem jezdni zbierająco-rozprowadzającej w trudnych warunkach.
 § 58. 1. Na drogach projektuje się skrzyżowania:
-1) zwykłe niezawierające na żadnym wlocie wyspy dzielącej kierunki ruchu lub środkowego pasa dzielącego;
-2) skanalizowane zawierające na co najmniej jednym wlocie wyspę dzielącą kierunki ruchu lub środkowy pas dzielący, w tym skrzyżowanie o rozsuniętych wlotach i wylotach z wyspą centralną; nie tworzy skrzyżowania skanalizowanego powierzchnia wyłączona z ruchu znakami poziomymi lub wyspa usytuowana wyłącznie w obszarze klina naprowadzającego przed dodatkowym pasem do skrętu w lewo na wlocie skrzyżowania;
-3) ronda skrzyżowania o ruchu okrężnym, w rozumieniu przepisów o ruchu drogowym, zawierające wyspę środkową, w tym:
-a) mini z przejezdną wyspą środkową,
-b) jednopasowe z jednopasową jezdnią wokół wyspy środkowej i jednopasowymi wlotami i wylotami,
-c) turbinowe z więcej niż jednym pasem ruchu i możliwością wyboru kierunku jazdy na co najmniej jednym wlocie oraz kontynuacją tych pasów na odcinku jezdni wokół wyspy.
+1) zwykłe – niezawierające na żadnym wlocie wyspy dzielącej kierunki ruchu lub środkowego pasa dzielącego;
+2) skanalizowane – zawierające na co najmniej jednym wlocie wyspę dzielącą kierunki ruchu lub środkowy pas dzielący, w tym skrzyżowanie o rozsuniętych wlotach i wylotach z wyspą centralną; nie tworzy skrzyżowania skanalizowanego powierzchnia wyłączona z ruchu znakami poziomymi lub wyspa usytuowana wyłącznie w obszarze klina naprowadzającego przed dodatkowym pasem do skrętu w lewo na wlocie skrzyżowania;
+3) ronda – skrzyżowania o ruchu okrężnym, w rozumieniu przepisów o ruchu drogowym, zawierające wyspę środkową, w tym:
+a) mini – z przejezdną wyspą środkową,
+b) jednopasowe – z jednopasową jezdnią wokół wyspy środkowej i jednopasowymi wlotami i wylotami,
+c) turbinowe – z więcej niż jednym pasem ruchu i możliwością wyboru kierunku jazdy na co najmniej jednym wlocie oraz kontynuacją tych pasów na odcinku jezdni wokół wyspy.
 2. Typ skrzyżowania, jego układ funkcjonalny, przestrzenny i rozwiązanie techniczne powinny zapewniać bezpieczeństwo i sprawność ruchu, które wynikają z przyjętej prędkości do projektowania w obszarze skrzyżowania. Rozwiązanie techniczne skrzyżowania dróg, z których co najmniej jedna jest klasy GP, G lub Z, potwierdza się obliczeniami przepustowości i miar warunków ruchu.
 3. Skrzyżowanie projektuje się w sposób umożliwiający przejazd pojazdu miarodajnego bez utrudnień dla ruchu innych pojazdów.
 4. Dopuszcza się przejazd pojazdu spełniającego warunki techniczne określone w przepisach o pojazdach z utrudnieniami dla ruchu innych pojazdów:
 1) większego niż miarodajny i poruszającego się po drodze sporadycznie;
-2) transportu zbiorowego w trudnych warunkach.
+2) transportu zbiorowego – w trudnych warunkach.
 § 59. 1. Ukształtowanie wysokościowe nawierzchni jezdni w obszarze skrzyżowania zwykłego lub skanalizowanego z pierwszeństwem przejazdu dostosowuje się do pochylenia podłużnego i poprzecznego drogi z pierwszeństwem przejazdu lub torowiska tramwajowego, a w obszarze skrzyżowania zwykłego lub skanalizowanego bez pierwszeństwa przejazdu lub ronda pochylenia podłużne i poprzeczne dróg dostosowuje się wzajemnie. Ukształtowanie wysokościowe nawierzchni jezdni w obszarze skrzyżowania powinno zapewniać skuteczne odwodnienie.
 2. W miejscu przejścia dla pieszych lub przejazdu dla rowerów szerokość wyspy kanalizującej ruch na skrzyżowaniu powinna być nie mniejsza niż długość strefy oczekiwania dla pieszych lub rowerów.
 § 60. 1. Na drogach projektuje się węzły:
 1) typu WA ‒ w którym nie następuje przecinanie się torów jazdy w jednym poziomie, a relacje skrętu są realizowane wyłącznie jako manewry wyłączania, włączania i przeplatania się potoków ruchu;
-2) typu WB w którym warunki określone dla węzła typu WA są spełnione na jezdniach głównych jednej drogi, natomiast na pozostałych drogach następuje przecinanie się torów jazdy realizowane na skrzyżowaniach;
-3) typu WC w którym wyłącznie jezdnie dróg prowadzące relacje na wprost przecinają się w różnych poziomach, natomiast relacje skrętu odbywają się na skrzyżowaniach występujących na obu drogach.
+2) typu WB – w którym warunki określone dla węzła typu WA są spełnione na jezdniach głównych jednej drogi, natomiast na pozostałych drogach następuje przecinanie się torów jazdy realizowane na skrzyżowaniach;
+3) typu WC – w którym wyłącznie jezdnie dróg prowadzące relacje na wprost przecinają się w różnych poziomach, natomiast relacje skrętu odbywają się na skrzyżowaniach występujących na obu drogach.
 2. Dopuszcza się projektowanie węzła zespolonego składającego się z co najmniej dwóch węzłów położonych blisko siebie, mających wspólne elementy i uzupełniających się funkcjonalnie w zakresie połączeń.
 3. Na połączeniu drogi klasy A lub S:
 1) z drogą klasy A lub S ‒ projektuje się węzeł typu WA albo węzeł zespolony, na którym relacje skrętu są realizowane wyłącznie jako manewry wyłączania, włączania i przeplatania się potoków ruchu;
@@ -341,7 +354,7 @@ c) turbinowe z więcej niż jednym pasem ruchu i możliwością wyboru kierunku 
 Dopuszcza się usytuowanie wyjazdu lub wjazdu po lewej stronie jezdni, z wyjątkiem drogi klasy A lub S, przy jednoczesnym ograniczeniu prędkości dopuszczalnej do wartości zapewniającej odpowiedni poziom bezpieczeństwa ruchu.
 2. Drogę klasy A lub S projektuje się w taki sposób, aby przeplatanie się potoków ruchu odbywało się poza jezdnią główną. Dopuszcza się przeplatanie na jezdni głównej drogi klasy S, na której prędkość dopuszczalna wynosi nie więcej niż 80 km/h.
 § 62. 1. Jezdnię główną, jezdnię łącznicy lub jezdnię zbierająco-rozprowadzającą w obszarze węzła projektuje się z przyjęciem dla nich prędkości do projektowania zgodnie z ich funkcją.
-2. Pochylenie podłużne jezdni łącznicy węzła typu WA powinno być nie większe niż 6%, a jezdni łącznicy węzła typu WB lub WC nie większe niż 7%.
+2. Pochylenie podłużne jezdni łącznicy węzła typu WA powinno być nie większe niż 6%, a jezdni łącznicy węzła typu WB lub WC – nie większe niż 7%.
 3. W przekroju poprzecznym łącznica lub jezdnia zbierająco-rozprowadzająca składa się z jezdni, pobocza i opaski wewnętrznej. Łączna szerokość jezdni, części pobocza o nawierzchni twardej i opaski wewnętrznej powinna być nie mniejsza niż 6,00 m.
 § 63. 1. Wyjazd z jezdni głównej w obszarze węzła typu WA lub WB projektuje się jako równoległy pas wyłączania, dwa położone obok siebie równoległe pasy wyłączania, oddzielenie pasa ruchu od jezdni głównej lub połączenie tych rozwiązań.
 2. Na drogach wszystkich klas, oprócz klasy A, dopuszcza się projektowanie kierunkowego pasa wyłączania przy jednoczesnym ograniczeniu prędkości dopuszczalnej do wartości, która zapewnia odpowiedni poziom bezpieczeństwa ruchu.
@@ -349,10 +362,12 @@ Dopuszcza się usytuowanie wyjazdu lub wjazdu po lewej stronie jezdni, z wyjątk
 4. Pas wyłączania projektuje się w taki sposób, aby miał długość zapewniającą redukcję prędkości przy opóźnieniu nie większym niż 1,5 m/s na drodze klasy A lub S i nie większym niż 2,0 m/s na drodze innej klasy.
 § 64. 1. Wjazd na jezdnię główną węzła typu WA lub WB, na której nie występuje przecinanie torów jazdy na jednym poziomie, projektuje się jako równoległy pas włączania, dwa położone obok siebie równoległe pasy włączania, dodanie pasa ruchu przy jezdni głównej lub połączenie tych rozwiązań.
 2. Wjazd na jezdnię łącznicy lub jezdnię zbierająco-rozprowadzającą projektuje się jako równoległy pas włączania, dodanie pasa ruchu przy jezdni łącznicy lub jezdni zbierająco-rozprowadzającej lub połączenie tych rozwiązań.
-3. Pas włączania projektuje się w taki sposób, aby jego długość zapewniała wyrównanie prędkości pojazdów włączających się i pojazdów na prawym pasie jezdni głównej, jezdni łącznicy lub jezdni zbierająco-rozprowadzającej, z uwzględnie4. Dopuszcza się projektowanie dwóch kolejno po sobie następujących równoległych pasów włączania, przy zachowaniu odległości między zakończeniem pierwszego pasa włączania i początkiem drugiego pasa włączania na jezdnię główną, która powinna wynosić nie mniej niż 150 m, a na jezdnię łącznicy lub jezdnię zbierająco-rozprowadzającą ‒ nie mniej niż 75 m.
+3. Pas włączania projektuje się w taki sposób, aby jego długość zapewniała wyrównanie prędkości pojazdów włączających się i pojazdów na prawym pasie jezdni głównej, jezdni łącznicy lub jezdni zbierająco-rozprowadzającej, z uwzględnieniem zdolności pojazdów do przyspieszenia i pochylenia podłużnego tego pasa.
+4. Dopuszcza się projektowanie dwóch kolejno po sobie następujących równoległych pasów włączania, przy zachowaniu odległości między zakończeniem pierwszego pasa włączania i początkiem drugiego pasa włączania na jezdnię główną, która powinna wynosić nie mniej niż 150 m, a na jezdnię łącznicy lub jezdnię zbierająco-rozprowadzającą ‒ nie mniej niż 75 m.
 § 65. 1. Odległość pomiędzy zakończeniem pasa włączania na jezdnię główną a początkiem pasa wyłączania z jezdni głównej powinna wynosić nie mniej niż wynika to z przepisów o znakach i sygnałach drogowych oraz urządzeniach bezpieczeństwa ruchu drogowego lub z minimalnej długości odcinka przeplatania na jezdni głównej.
 2. Odcinek przeplatania jako element węzła projektuje się na jezdni jednokierunkowej z co najmniej dwoma pasami ruchu. Długość odcinka przeplatania powinna być dostosowana do natężenia przeplatających się potoków ruchu i prędkości dopuszczalnej.
 § 66. Skrzyżowanie drogi z linią lub bocznicą kolejową projektuje się zgodnie z przepisami o skrzyżowaniach linii kolejowych oraz bocznic kolejowych z drogami.
+§ 67. 1. W zależności od przyjętego systemu poboru opłat na drodze projektuje się miejsce poboru opłat lub miejsce do montażu urządzeń, które służą do poboru lub kontroli prawidłowości uiszczenia opłaty.
 2. Miejsce poboru opłat projektuje się jako plac poboru opłat, który jest usytuowany na jezdni głównej, lub jako stację poboru opłat, która jest usytuowana na jezdni łącznicy lub jezdni zbierająco-rozprowadzającej.
 § 68. Na drodze klasy A lub S projektuje się obwód utrzymania drogi. Dopuszcza się zaprojektowanie obwodu utrzymania na drodze innej klasy.
 § 69. Na drodze dopuszcza się projektowanie pasa technologicznego do celów utrzymania drogi oraz sytuowania urządzeń drogi lub urządzeń obcych.
@@ -362,12 +377,14 @@ Dopuszcza się usytuowanie wyjazdu lub wjazdu po lewej stronie jezdni, z wyjątk
 § 72. 1. W pasie drogowym projektuje się roślinność w taki sposób, aby wykorzystać w szczególności jej zdolność do pełnienia funkcji izolacyjnej, w tym akustycznej i termicznej, oraz zdolność do retencjonowania wód. Dopuszcza się nieprojektowanie roślinności w trudnych warunkach.
 2. Roślinność w pasie drogowym projektuje się w taki sposób, aby zapewnić funkcjonalność drogi, bezpieczeństwo ruchu i właściwe warunki do jej wegetacji oraz uwzględnić wpływ jej rozrostu w ciągu całego cyklu wegetacyjnego na drogę.
 Gatunki roślin powinny być dostosowane do miejscowych warunków klimatycznych i cech podłoża gruntowego.
+§ 73. 1. Konstrukcję budowli ziemnej projektuje się w taki sposób, aby:
 1) przenosiła przewidywane obciążenia co najmniej w okresie użytkowania, przyjętym w dokumentacji projektowej;
-2) osiadania eksploatacyjne nie przekraczały 0,10 m, z wyjątkiem miejsca styku z drogowym obiektem inżynierskim,
+2) osiadania eksploatacyjne nie przekraczały 0,10 m, z wyjątkiem miejsca styku z drogowym obiektem inżynierskim, które projektuje się w sposób zapobiegający powstaniu uskoku.
 2. Sprawdzenie ogólnej stateczności skarp obejmuje sprawdzenie warunków wszystkich stanów granicznych, które dotyczą budowli ziemnej i jej podłoża.
 3. Konstrukcję budowli ziemnej pełniącej funkcję budowli przeciwpowodziowej lub związanej z taką budowlą projektuje się w taki sposób, aby zostały spełnione warunki techniczne określone w przepisach o budowlach hydrotechnicznych.
 4. Na terenach podlegających wpływom eksploatacji górniczej projektuje się zabezpieczenia konstrukcji budowli ziemnej odpowiednie do kategorii terenu górniczego.
 § 74. Wykopy i nasypy projektuje się w taki sposób, aby dążyć do bilansowania mas ziemnych z uwzględnieniem co najmniej warunków gruntowo-wodnych.
+§ 75. 1. Konstrukcję nawierzchni części drogi projektuje się w taki sposób, aby przenosiła przewidywane obciążenia co najmniej w okresie użytkowania, przyjętym w dokumentacji projektowej.
 2. Na terenach podlegających wpływom eksploatacji górniczej projektuje się zabezpieczenia konstrukcji nawierzchni części drogi odpowiednie do kategorii terenu górniczego.
 § 76. 1. Nawierzchnię, po której mogą poruszać się pojazdy inne niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, projektuje się w taki sposób, aby przyjęty dopuszczalny nacisk pojedynczej osi pojazdu wynosił co najmniej 115 kN.
 2. W prognozowanej strukturze rodzajowej ruchu rzeczywistego do celów projektowania nawierzchni, po której mogą poruszać się pojazdy inne niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, uwzględnia się pojazdy o dopuszczalnej masie całkowitej większej niż 3,5 t.
@@ -376,12 +393,13 @@ Gatunki roślin powinny być dostosowane do miejscowych warunków klimatycznych 
 5. Aby zaprojektować nawierzchnię, po której mogą poruszać się pojazdy inne niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, dopuszcza się przyjęcie widm obciążeń osi pojazdów o dopuszczalnej masie całkowitej większej niż 3,5 t.
 6. Decyzję o wyborze rodzaju konstrukcji nawierzchni oraz materiałów lub wyrobów budowlanych do jej wykonania podejmuje się na podstawie analizy kosztów i korzyści w cyklu życia drogi, w okresie obejmującym wykonanie robót budowlanych, użytkowanie oraz powtórne użycie materiałów nawierzchni z uwzględnieniem wartości rezydualnej. Jeżeli nie ma możliwości przeprowadzenia analizy lub nie jest uzasadnione jej przeprowadzenie, dopuszcza się podjęcie decyzji na podstawie innych kryteriów.
 § 77. Stan techniczny nawierzchni przed oddaniem do użytkowania i w okresie użytkowania powinien zapewniać bezpieczeństwo i komfort ruchu przez spełnienie co najmniej warunków w zakresie: równości podłużnej, równości poprzecznej i właściwości przeciwpoślizgowych.
+§ 78. 1. Nad drogą zachowuje się przestrzeń wolną od przeszkód, przeznaczoną do prowadzenia ruchu, której kontur zwany jest dalej „skrajnią drogi”.
 2. Na skrajnię drogi składają się skrajnie następujących części drogi:
-1) jezdni, części pobocza o nawierzchni twardej, opaski wewnętrznej, zatoki postojowej lub przystankowej zwaną dalej „skrajnią jezdni”;
-2) chodnika w ramach drogi dla pieszych zwaną dalej „skrajnią chodnika”;
-3) drogi dla rowerów zwaną dalej „skrajnią drogi dla rowerów”;
-4) drogi dla pieszych i rowerów zwaną dalej „skrajnią drogi dla pieszych i rowerów”;
-5) toru tramwajowego zwaną dalej „tramwajową skrajnią budowli”;
+1) jezdni, części pobocza o nawierzchni twardej, opaski wewnętrznej, zatoki postojowej lub przystankowej – zwaną dalej „skrajnią jezdni”;
+2) chodnika w ramach drogi dla pieszych – zwaną dalej „skrajnią chodnika”;
+3) drogi dla rowerów – zwaną dalej „skrajnią drogi dla rowerów”;
+4) drogi dla pieszych i rowerów – zwaną dalej „skrajnią drogi dla pieszych i rowerów”;
+5) toru tramwajowego – zwaną dalej „tramwajową skrajnią budowli”;
 6) strefy bez przeszkód ‒ zwaną dalej „skrajnią strefy bez przeszkód”;
 7) pasa technologicznego ‒ zwaną dalej „skrajnią pasa technologicznego”;
 8) chodnika dla obsługi na lub w drogowym obiekcie inżynierskim ‒ zwaną dalej „skrajnią chodnika dla obsługi”.
@@ -398,58 +416,60 @@ Gatunki roślin powinny być dostosowane do miejscowych warunków klimatycznych 
 6. Szerokość skrajni pasa technologicznego jest równa szerokości tego pasa.
 7. Szerokość skrajni chodnika dla obsługi jest równa szerokości tego chodnika.
 § 80. 1. Wysokość skrajni powinna być nie mniejsza niż:
-1) 5,00 m w przypadku skrajni jezdni drogi klasy A lub S;
-2) 4,50 m w przypadku skrajni jezdni drogi klasy GP, G, Z, L lub D;
-3) 2,50 m w przypadku skrajni chodnika, drogi dla rowerów lub drogi dla pieszych i rowerów;
-4) 5,00 m w przypadku tramwajowej skrajni budowli, z uwzględnieniem powiększenia wynikającego z warunków jazdy tramwaju po łuku pionowym;
-5) wysokość skrajni jezdni na co najmniej 1/3 szerokości strefy bez przeszkód, jednak nie mniej niż szerokość części pobocza o nawierzchni twardej, oraz wysokość wyznaczona liniowo na pozostałej szerokości tej strefy do wysokości 2,50 m na jej końcu w przypadku skrajni strefy bez przeszkód;
-6) 4,00 m w przypadku skrajni pasa technologicznego;
-7) 1,90 m w przypadku skrajni chodnika dla obsługi.
+1) 5,00 m – w przypadku skrajni jezdni drogi klasy A lub S;
+2) 4,50 m – w przypadku skrajni jezdni drogi klasy GP, G, Z, L lub D;
+3) 2,50 m – w przypadku skrajni chodnika, drogi dla rowerów lub drogi dla pieszych i rowerów;
+4) 5,00 m – w przypadku tramwajowej skrajni budowli, z uwzględnieniem powiększenia wynikającego z warunków jazdy tramwaju po łuku pionowym;
+5) wysokość skrajni jezdni na co najmniej 1/3 szerokości strefy bez przeszkód, jednak nie mniej niż szerokość części pobocza o nawierzchni twardej, oraz wysokość wyznaczona liniowo na pozostałej szerokości tej strefy do wysokości 2,50 m na jej końcu – w przypadku skrajni strefy bez przeszkód;
+6) 4,00 m – w przypadku skrajni pasa technologicznego;
+7) 1,90 m – w przypadku skrajni chodnika dla obsługi.
 2. Dopuszcza się zmniejszenie wysokości skrajni w trudnych warunkach albo wtedy, gdy obiekt nad drogą lub droga pod obiektem nie są budowane lub przebudowywane:
-1) do 4,20 m za zgodą zarządcy drogi i organu zarządzającego ruchem, a poniżej 4,20 m dodatkowo za zgodą właściwego miejscowo komendanta wojewódzkiego Państwowej Straży Pożarnej w przypadku skrajni jezdni;
-2) za zgodą zarządcy drogi i organu zarządzającego ruchem w przypadku skrajni chodnika, drogi dla rowerów lub drogi dla pieszych i rowerów;
-3) za zgodą zarządcy torowiska i operatora taboru w przypadku tramwajowej skrajni budowli;
-4) za zgodą zarządcy drogi w przypadku skrajni pasa technologicznego lub chodnika dla obsługi.
-1) na każdym pasie ruchu jezdni głównej, jezdni dodatkowej, jezdni łącznicy, jezdni zbierająco-rozprowadzającej, jezdni manewrowej oraz na torowisku tramwajowym co najmniej taką odległość widoczności, która umożliwia bezpieczne zatrzymanie się pojazdu przed przeszkodą na jezdni lub torowisku;
-2) na skrzyżowaniu wolne od przeszkód pole widoczności przy:
+1) do 4,20 m za zgodą zarządcy drogi i organu zarządzającego ruchem, a poniżej 4,20 m dodatkowo za zgodą właściwego miejscowo komendanta wojewódzkiego Państwowej Straży Pożarnej – w przypadku skrajni jezdni;
+2) za zgodą zarządcy drogi i organu zarządzającego ruchem – w przypadku skrajni chodnika, drogi dla rowerów lub drogi dla pieszych i rowerów;
+3) za zgodą zarządcy torowiska i operatora taboru – w przypadku tramwajowej skrajni budowli;
+4) za zgodą zarządcy drogi – w przypadku skrajni pasa technologicznego lub chodnika dla obsługi.
+§ 81. 1. Kierującemu pojazdem innym niż rower, hulajnoga elektryczna i urządzenie transportu osobistego zapewnia się:
+1) na każdym pasie ruchu jezdni głównej, jezdni dodatkowej, jezdni łącznicy, jezdni zbierająco-rozprowadzającej, jezdni manewrowej oraz na torowisku tramwajowym – co najmniej taką odległość widoczności, która umożliwia bezpieczne zatrzymanie się pojazdu przed przeszkodą na jezdni lub torowisku;
+2) na skrzyżowaniu – wolne od przeszkód pole widoczności przy:
 a) zbliżaniu się do skrzyżowania z obowiązkiem ustąpienia pierwszeństwa dzięki zapewnieniu co najmniej takiej odległości widoczności, która umożliwia bezpieczne zatrzymanie pojazdu przed krawędzią jezdni drogi z pierwszeństwem przejazdu,
 b) ruszaniu z miejsca zatrzymania na wlocie drogi z obowiązkiem ustąpienia pierwszeństwa;
-3) w węźle na wjeździe z pasem włączania na jezdnię główną, na jezdnię zbierająco-rozprowadzającą oraz na jezdnię łącznicy wolne od przeszkód pole widoczności:
+3) w węźle na wjeździe z pasem włączania na jezdnię główną, na jezdnię zbierająco-rozprowadzającą oraz na jezdnię łącznicy – wolne od przeszkód pole widoczności:
 a) przy zbliżaniu się do pasa włączania,
 b) na całej długości pasa włączania;
-4) w węźle na wyjeździe z jezdni głównej, jezdni zbierająco-rozprowadzającej i jezdni łącznicy zapewnione wczesne dostrzeżenie nosa wyspy rozdzielającej kierunki jazdy;
-5) na wjeździe z pasem włączania oraz na dodatkowym pasie na skrzyżowaniu wolne od przeszkód pole widoczności na całej długości pasa włączania;
+4) w węźle na wyjeździe z jezdni głównej, jezdni zbierająco-rozprowadzającej i jezdni łącznicy – zapewnione wczesne dostrzeżenie nosa wyspy rozdzielającej kierunki jazdy;
+5) na wjeździe z pasem włączania oraz na dodatkowym pasie na skrzyżowaniu – wolne od przeszkód pole widoczności na całej długości pasa włączania;
 6) na zjeździe, wyjeździe lub wjeździe bez pasa włączania:
-a) na drodze klasy GP, G lub Z co najmniej odległość widoczności, która umożliwia bezpieczne zatrzymanie pojazdu poruszającego się po jezdni drogi z pierwszeństwem przejazdu przed zjazdem, wyjazdem lub wjazdem,
+a) na drodze klasy GP, G lub Z – co najmniej odległość widoczności, która umożliwia bezpieczne zatrzymanie pojazdu poruszającego się po jezdni drogi z pierwszeństwem przejazdu przed zjazdem, wyjazdem lub wjazdem,
 b) wolne od przeszkód pole widoczności przy ruszaniu z miejsca zatrzymania;
-7) przy zbliżaniu się do przystanku transportu zbiorowego co najmniej odległość widoczności, która umożliwia bezpieczne zatrzymanie pojazdu przed odcinkiem pasa ruchu oznakowanym linią przystankową lub przed zatoką przystankową;
-8) przy zbliżaniu się do przejścia dla pieszych lub przejazdu dla rowerów widoczność przejścia lub przejazdu i strefy oczekiwania pieszych lub rowerów co najmniej z odległości, która umożliwia bezpieczne zatrzymanie pojazdu przed przejściem lub przejazdem;
-9) przy zbliżaniu się do torowiska tramwajowego lub przejazdu kolejowo-drogowego co najmniej odległość widoczności, która umożliwia bezpieczne zatrzymanie pojazdu przed torowiskiem lub przejazdem;
-10) przed zwężeniem jezdni widoczność celu obserwacji, który leży na krawędzi skosu zamykającego pas ruchu;
-11) na odcinku drogi o przekroju dwukierunkowym 1/2 z możliwością wyprzedzania widoczność do wyprzedzania, która zapewnia co najmniej widoczność pojazdu na pasie ruchu przeznaczonym dla przeciwnego kierunku ruchu.
+7) przy zbliżaniu się do przystanku transportu zbiorowego – co najmniej odległość widoczności, która umożliwia bezpieczne zatrzymanie pojazdu przed odcinkiem pasa ruchu oznakowanym linią przystankową lub przed zatoką przystankową;
+8) przy zbliżaniu się do przejścia dla pieszych lub przejazdu dla rowerów – widoczność przejścia lub przejazdu i strefy oczekiwania pieszych lub rowerów co najmniej z odległości, która umożliwia bezpieczne zatrzymanie pojazdu przed przejściem lub przejazdem;
+9) przy zbliżaniu się do torowiska tramwajowego lub przejazdu kolejowo-drogowego – co najmniej odległość widoczności, która umożliwia bezpieczne zatrzymanie pojazdu przed torowiskiem lub przejazdem;
+10) przed zwężeniem jezdni – widoczność celu obserwacji, który leży na krawędzi skosu zamykającego pas ruchu;
+11) na odcinku drogi o przekroju dwukierunkowym 1/2 z możliwością wyprzedzania – widoczność do wyprzedzania, która zapewnia co najmniej widoczność pojazdu na pasie ruchu przeznaczonym dla przeciwnego kierunku ruchu.
 2. Na zakończeniu przeciwległych dodatkowych pasów ruchu do wyprzedzania projektuje się powierzchnię wyłączoną z ruchu, oznaczoną za pomocą znaków poziomych, o długości nie mniejszej niż dwukrotność odległości widoczności na zatrzymanie się przed przeszkodą.
 3. Kierującemu rowerem, hulajnogą elektryczną i urządzeniem transportu osobistego zapewnia się:
-1) odległość widoczności umożliwiającą bezpieczne zatrzymanie się roweru, hulajnogi elektrycznej i urządzenia transportu osobistego przed przeszkodą jeżeli porusza się po jezdni, drodze dla rowerów lub drodze dla pieszych i rowerów;
+1) odległość widoczności umożliwiającą bezpieczne zatrzymanie się roweru, hulajnogi elektrycznej i urządzenia transportu osobistego przed przeszkodą – jeżeli porusza się po jezdni, drodze dla rowerów lub drodze dla pieszych i rowerów;
 2) widoczność:
 a) pojazdów na przejeździe dla rowerów lub na przejeździe kolejowo-drogowym,
 b) pieszych i osób poruszających się przy użyciu urządzenia wspomagającego ruch na przejściu dla pieszych oraz w miejscu krzyżowania się drogi dla rowerów z drogą dla pieszych lub drogą dla pieszych i rowerów,
-c) rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego w miejscu krzyżowania się dróg dla rowerów lub dróg dla pieszych i rowerów jeżeli porusza się po drodze dla rowerów lub drodze dla pieszych i rowerów.
+c) rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego w miejscu krzyżowania się dróg dla rowerów lub dróg dla pieszych i rowerów – jeżeli porusza się po drodze dla rowerów lub drodze dla pieszych i rowerów.
 4. Pieszemu oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch zapewnia się wolne od przeszkód pole widoczności pojazdów podczas zbliżania się do urządzeń alternatywnych.
 § 82. 1. Odległość widoczności, która umożliwia bezpieczne zatrzymanie pojazdu przed przeszkodą na jezdni lub torowisku tramwajowym, oraz wolne od przeszkód pole widoczności projektuje się w zależności od prędkości do projektowania albo prędkości dopuszczalnej, jeżeli jest niższa niż prędkość do projektowania, a także w zależności od położenia i wysokości punktu obserwacyjnego oraz położenia i wysokości celu obserwacji.
 2. Punkt obserwacyjny usytuowany jest w osi pasa ruchu, toru tramwajowego, drogi dla rowerów, drogi dla pieszych i rowerów lub dojścia do przejścia dla pieszych, na wysokości:
-1) 1,10 m lub 2,50 m z pozycji kierującego pojazdem innym niż tramwaj, rower, hulajnoga elektryczna i urządzenie transportu osobistego, w zależności od tego, który z podanych przypadków jest bardziej niekorzystny;
-2) 2,00 m z pozycji kierującego tramwajem;
-3) 1,40 m z pozycji kierującego rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego;
-4) 1,10 m albo 0,60 m z pozycji pieszego i osoby poruszającej się przy użyciu urządzenia wspomagającego ruch, odpowiednio na przejściu dla pieszych albo na przejściu dla pieszych szczególnie uczęszczanym przez dzieci.
+1) 1,10 m lub 2,50 m – z pozycji kierującego pojazdem innym niż tramwaj, rower, hulajnoga elektryczna i urządzenie transportu osobistego, w zależności od tego, który z podanych przypadków jest bardziej niekorzystny;
+2) 2,00 m – z pozycji kierującego tramwajem;
+3) 1,40 m – z pozycji kierującego rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego;
+4) 1,10 m albo 0,60 m – z pozycji pieszego i osoby poruszającej się przy użyciu urządzenia wspomagającego ruch, odpowiednio na przejściu dla pieszych albo na przejściu dla pieszych szczególnie uczęszczanym przez dzieci.
 3. Cel obserwacji usytuowany jest w osi pasa ruchu, toru tramwajowego, drogi dla rowerów, drogi dla pieszych i rowerów lub dojścia do przejścia dla pieszych, na wysokości:
 1) w przypadku odległości na zatrzymanie:
-a) 0,00 m na torze tramwajowym, drodze dla rowerów lub drodze dla pieszych i rowerów,
-b) 0,25 m na jezdni, na której prędkość do projektowania albo prędkość dopuszczalna, jeżeli jest niższa niż prędkość do projektowania, wynoszą mniej niż 70 km/h,
-c) 0,50 m na jezdni, na której prędkość do projektowania albo prędkość dopuszczalna, jeżeli jest niższa niż prędkość do projektowania, wynoszą nie mniej niż 70 km/h;
+a) 0,00 m – na torze tramwajowym, drodze dla rowerów lub drodze dla pieszych i rowerów,
+b) 0,25 m – na jezdni, na której prędkość do projektowania albo prędkość dopuszczalna, jeżeli jest niższa niż prędkość do projektowania, wynoszą mniej niż 70 km/h,
+c) 0,50 m – na jezdni, na której prędkość do projektowania albo prędkość dopuszczalna, jeżeli jest niższa niż prędkość do projektowania, wynoszą nie mniej niż 70 km/h;
 2) w przypadku wolnych od przeszkód pól widoczności:
-a) 1,10 m jeżeli celem obserwacji jest pojazd,
-b) 1,10 m albo 0,60 m jeżeli celem obserwacji są pieszy lub osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, odpowiednio na przejściu dla pieszych albo na przejściu dla pieszych szczególnie uczęszczanym przez dzieci.
+a) 1,10 m – jeżeli celem obserwacji jest pojazd,
+b) 1,10 m albo 0,60 m – jeżeli celem obserwacji są pieszy lub osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, odpowiednio na przejściu dla pieszych albo na przejściu dla pieszych szczególnie uczęszczanym przez dzieci.
 4. Przeszkodami w polu widoczności nie są pojedyncze drzewa, konstrukcje wsporcze urządzeń drogi, podpórki lub poręcze dla kierujących rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli zostało to potwierdzone analizą widoczności, którą dołącza się do dokumentacji projektowej, ani poruszające się pojazdy, piesi, osoby poruszające się przy użyciu urządzenia wspomagającego ruch i inne osoby znajdujące się na drodze.
+§ 83. 1. Wody opadowe lub roztopowe z pasa drogowego albo dopływające do pasa drogowego po powierzchni terenu zagospodarowuje się za pomocą urządzeń do odwodnienia powierzchniowego. Nie zmienia się kierunku lub natężenia odpływu wód opadowych lub roztopowych z pasa drogowego ze szkodą dla gruntów sąsiednich ani nie odprowadza się tych wód na grunty sąsiednie, z wyjątkiem przypadków określonych w przepisach prawa wodnego.
 2. Wody opadowe lub roztopowe z pasa drogowego oczyszcza się, jeżeli taki obowiązek wynika z przepisów prawa wodnego.
 3. Nie odprowadza się wody z powierzchni jezdni oraz z otwartych urządzeń do odwodnienia powierzchniowego na most lub wiadukt albo do tunelu.
 4. Urządzenia do odwodnienia powierzchniowego projektuje się w rozmiarach, które uwzględniają natężenie deszczu miarodajnego, a urządzenia do retencjonowania wody przed jej odprowadzeniem projektuje się w taki sposób, aby miały pojemność umożliwiającą przyjęcie wody gromadzonej w czasie deszczu miarodajnego lub deszczu o innym natężeniu, jeżeli będzie on bardziej niekorzystny z uwagi na napełnienie tego urządzenia.
@@ -477,28 +497,31 @@ b) 1,10 m albo 0,60 m jeżeli celem obserwacji są pieszy lub osoba poruszająca
 1) od krawędzi pasa ruchu, jeżeli na krawędzi pasa ruchu znajduje się krawężnik o wysokości wynoszącej co najmniej 0,12 m;
 2) od krawędzi pasa ruchu lub krawędzi dodatkowego pasa ruchu do wyprzedzania, jeżeli dotyczy dwustronnej bariery dzielącej, która jest usytuowana na pasie separującym, przy czym odległość pomiędzy najbardziej wystającymi poziomymi częściami dwustronnej bariery dzielącej i jednostronnej bariery skrajnej, w części jednopasowej, powinna być nie mniejsza niż 5,50 m.
 § 90. 1. Barierę ochronną projektuje się w taki sposób, aby:
-1) ograniczała możliwość niekontrolowanego zjechania pojazdu z jezdni lub pobocza przed przeszkodą i za nią przez zapewnienie odpowiedniego poziomu powstrzymywania;
-2 ) maksymalne dopuszczalne odkształcenie bariery, określone znormalizowaną szerokością pracującą oraz znormalizowanym wychyleniem pojazdu, było nie większe niż dostępna przestrzeń bez przeszkód oraz nie ingerowało w skrajnię;
-3) poziom intensywności zderzenia, określony współczynnikiem ASI, był nie większy niż A, a w trudnych warunkach lub w przypadku stosowania barier o podwyższonych poziomach powstrzymywania nie większy niż B.
+1) ograniczała możliwość niekontrolowanego zjechania pojazdu z jezdni lub pobocza przed przeszkodą i za nią – przez zapewnienie odpowiedniego poziomu powstrzymywania;
+2) maksymalne dopuszczalne odkształcenie bariery, określone znormalizowaną szerokością pracującą oraz znormalizowanym wychyleniem pojazdu, było nie większe niż dostępna przestrzeń bez przeszkód oraz nie ingerowało w skrajnię;
+3) poziom intensywności zderzenia, określony współczynnikiem ASI, był nie większy niż A, a w trudnych warunkach lub w przypadku stosowania barier o podwyższonych poziomach powstrzymywania – nie większy niż B.
 2. Dopuszcza się ingerencję maksymalnego dopuszczalnego odkształcenia bariery w skrajnię:
 1) chodnika, drogi dla rowerów lub drogi dla pieszych i rowerów na moście lub wiadukcie, jeżeli prędkość dopuszczalna na drodze wynosi nie więcej niż 90 km/h, a po odkształceniu bariery zachowana będzie wolna przestrzeń o szerokości nie mniejszej niż 1,00 m dla pieszych, osób poruszających się przy użyciu urządzenia wspomagającego ruch, rowerów, hulajnóg elektrycznych lub urządzeń transportu osobistego;
 2) chodnika dla obsługi na drogowym obiekcie inżynierskim lub w nim.
-§ 91. Drogę klasy A lub S grodzi się obustronnie na całej długości, w sposób uniemożliwiający przedostanie się ludzi lub zwierząt, z wyjątkiem dojścia do przystanku transportu zbiorowego przy jezdni głównej drogi klasy S. Dopuszcza się ogrodzenie drogi klasy GP, G, Z, L lub D ze względu na potrzebę zapewnienia odpowiedniego poziomu bezpieczeństwa § 92. Na drodze stosuje urządzenia zabezpieczające pieszych, osoby poruszające się przy użyciu urządzenia wspomagającego ruch, kierujących rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli istnieje wysokie prawdopodobieństwo ich upadku z wysokości, wtargnięcia pod pojazd, najechania na nich pojazdem lub porażenia ich prądem elektrycznym, które mogą skutkować utratą życia lub trwałym uszkodzeniem ciała.
+§ 91. Drogę klasy A lub S grodzi się obustronnie na całej długości, w sposób uniemożliwiający przedostanie się ludzi lub zwierząt, z wyjątkiem dojścia do przystanku transportu zbiorowego przy jezdni głównej drogi klasy S. Dopuszcza się ogrodzenie drogi klasy GP, G, Z, L lub D ze względu na potrzebę zapewnienia odpowiedniego poziomu bezpieczeństwa ruchu.
+§ 92. Na drodze stosuje urządzenia zabezpieczające pieszych, osoby poruszające się przy użyciu urządzenia wspomagającego ruch, kierujących rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli istnieje wysokie prawdopodobieństwo ich upadku z wysokości, wtargnięcia pod pojazd, najechania na nich pojazdem lub porażenia ich prądem elektrycznym, które mogą skutkować utratą życia lub trwałym uszkodzeniem ciała.
 § 93. Na nieoświetlonym odcinku drogi, na którym istnieje wysokie prawdopodobieństwo olśnienia kierowców, projektuje się osłony przeciwolśnieniowe, które zapobiegają olśnieniu na wysokości co najmniej 1,10 m nad powierzchnią jezdni.
 § 94. Na odcinku drogi, na którym prędkość do projektowania wynosi nie mniej niż 70 km/h, narażonym na powtarzające się działanie silnych wiatrów bocznych projektuje się osłony przeciwwietrzne.
 § 95. Kanały technologiczne projektuje się poza jezdnią, częścią pobocza o nawierzchni twardej i opaską wewnętrzną, na głębokości uniemożliwiającej naruszenie części i urządzeń drogi, drogowych budowli ziemnych oraz drogowych obiektów inżynierskich lub zmniejszenie ich stateczności.
 § 96. Na drodze, na której przewiduje się wdrożenie aplikacji lub usług inteligentnych systemów transportowych, projektuje się miejsce do montażu lub projektuje się urządzenia tych systemów.
+§ 97. 1. Urządzenie obce sytuuje się w pasie drogowym zgodnie z przepisami o drogach publicznych i w taki sposób, aby uwzględnić potrzebę ochrony drogi i zapewnienia bezpieczeństwa ruchu.
 2. Podziemne urządzenie obce sytuuje się poza jezdnią, częścią pobocza o nawierzchni twardej i opaską wewnętrzną, na głębokości, która uniemożliwia naruszenie części i urządzeń drogi, drogowych budowli ziemnych oraz drogowych obiektów inżynierskich lub zmniejszenie ich stateczności.
 3. Dopuszcza się usytuowanie podziemnego urządzenia obcego pod jezdnią, częścią pobocza o nawierzchni twardej lub opaską wewnętrzną, na ulicy w trudnych warunkach lub przy przejściu poprzecznym, pod warunkiem usytuowania zwieńczeń studni poza pasem przejazdu kół pojazdów.
 4. Naziemne lub nadziemne urządzenie obce oraz jego konstrukcję wsporczą sytuuje się w miejscu, w którym nie spowoduje ono ograniczeń w projektowaniu oraz użytkowaniu części i urządzeń drogi, drogowych budowli ziemnych oraz drogowych obiektów inżynierskich.
-1) drogowe przeznaczone do przeprowadzenia drogi;
-2) tramwajowe przeznaczone do przeprowadzenia wyłącznie drogi szynowej dla tramwajów;
-3) dla pieszych, dla rowerów lub dla pieszych i rowerów przeznaczone do przeprowadzenia wyłącznie drogi dla pieszych, drogi dla rowerów lub drogi dla pieszych i rowerów.
+§ 98. 1. Mosty, wiadukty i tunele dzieli się na:
+1) drogowe – przeznaczone do przeprowadzenia drogi;
+2) tramwajowe – przeznaczone do przeprowadzenia wyłącznie drogi szynowej dla tramwajów;
+3) dla pieszych, dla rowerów lub dla pieszych i rowerów – przeznaczone do przeprowadzenia wyłącznie drogi dla pieszych, drogi dla rowerów lub drogi dla pieszych i rowerów.
 2. Po moście lub wiadukcie albo w tunelu dopuszcza się przeprowadzenie urządzeń drogi lub urządzeń obcych.
 3. Przepusty dzieli się na:
-1) hydrauliczne o zamkniętym przekroju poprzecznym, przeznaczone do przeprowadzenia wód powierzchniowych;
-2) techniczne o zamkniętym przekroju poprzecznym, przeznaczone do przeprowadzenia urządzeń drogi lub urządzeń obcych;
-3) dla zwierząt przeznaczone do przeprowadzenia szlaku wędrówek małych zwierząt dziko żyjących.
+1) hydrauliczne – o zamkniętym przekroju poprzecznym, przeznaczone do przeprowadzenia wód powierzchniowych;
+2) techniczne – o zamkniętym przekroju poprzecznym, przeznaczone do przeprowadzenia urządzeń drogi lub urządzeń obcych;
+3) dla zwierząt – przeznaczone do przeprowadzenia szlaku wędrówek małych zwierząt dziko żyjących.
 4. Wiadukt przeznaczony do przeprowadzenia nad drogą szlaku wędrówek średnich lub dużych zwierząt dziko żyjących określa się jako przejście górne dla zwierząt.
 5. Przeszkodę w postaci szlaku wędrówek średnich lub dużych zwierząt dziko żyjących pod mostem lub wiaduktem określa się jako przejście dolne dla zwierząt.
 § 99. 1. Jeżeli w drogowym obiekcie inżynierskim projektuje się pomieszczenia pełniące funkcje budynków, to powinny one spełniać warunki techniczne określone w przepisach o budynkach.
@@ -521,8 +544,9 @@ b) 1,10 m albo 0,60 m jeżeli celem obserwacji są pieszy lub osoba poruszająca
 3. Wyniki analizy dynamicznej potwierdza się za pomocą wykonanych badań odbiorczych mostu lub wiaduktu.
 § 102. 1. Jeżeli pierwsza częstość drgań własnych konstrukcji mostu lub wiaduktu wynosi mniej niż 3 Hz, a elementami konstrukcji nośnej przęsła mostu lub wiaduktu są cięgna zewnętrzne, to wykonuje się analizę aerodynamiczną konstrukcji.
 2. W analizie aerodynamicznej wykazuje się w szczególności, że stosunek pierwszej częstości drgań skrętnych do pierwszej częstości drgań giętnych jest większy niż 1,5 oraz że nie występuje zjawisko flatteru dywergencyjnego przy prędkości wiatru nie większej niż 60 m/s.
-3. Jeżeli rozpiętość teoretyczna przęsła mostu lub wiaduktu jest większa niż 200 m, w analizie aerodynamicznej uwzględnia się dodatkowo identyfikację środowiska wiatrowego w rejonie obiektu oraz badania modelowe w tunelu aero§ 103. 1. Przy projektowaniu mostu lub wiaduktu o rozpiętości teoretycznej przęsła większej niż 100 m zapewnia się poziom nadzoru DSL 3 zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji.
-2. Betonowa płyta pomostu w moście lub wiadukcie powinna mieć grubość nie mniejszą niż 0,21 m, a płyta pomostu w moście lub wiadukcie dla pieszych, rowerów albo pieszych i rowerów nie mniejszą niż 0,18 m.
+3. Jeżeli rozpiętość teoretyczna przęsła mostu lub wiaduktu jest większa niż 200 m, w analizie aerodynamicznej uwzględnia się dodatkowo identyfikację środowiska wiatrowego w rejonie obiektu oraz badania modelowe w tunelu aerodynamicznym.
+§ 103. 1. Przy projektowaniu mostu lub wiaduktu o rozpiętości teoretycznej przęsła większej niż 100 m zapewnia się poziom nadzoru DSL 3 zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji.
+2. Betonowa płyta pomostu w moście lub wiadukcie powinna mieć grubość nie mniejszą niż 0,21 m, a płyta pomostu w moście lub wiadukcie dla pieszych, rowerów albo pieszych i rowerów – nie mniejszą niż 0,18 m.
 § 104. Tunel o długości większej niż 500 m usytuowany w transeuropejskiej sieci drogowej powinien spełniać warunki określone w załącznikach I i III do dyrektywy 2004/54/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r.
 w sprawie minimalnych wymagań bezpieczeństwa dla tuneli w transeuropejskiej sieci drogowej.
 § 105. 1. Drogowy obiekt inżynierski projektuje się w taki sposób, aby w przewidywanym okresie użytkowania była zapewniona trwałość elementów jego konstrukcji.
@@ -530,8 +554,8 @@ w sprawie minimalnych wymagań bezpieczeństwa dla tuneli w transeuropejskiej si
 § 106. 1. Minimalny przewidywany okres użytkowania drogowego obiektu inżynierskiego określa się z uwzględnieniem przewidywanych okresów użytkowania poszczególnych elementów konstrukcji oraz urządzeń tego obiektu, które to okresy powinny być nie krótsze niż:
 1) w przypadku głównych elementów konstrukcji:
 a) 150 lat ‒ w przypadku fundamentu i podpory mostu, które są wykonywane w wodzie i na terenie zalewowym, oraz konstrukcji tunelu,
-b) 100 lat w przypadku fundamentu i podpory mostu lub wiaduktu, które są wykonywane na lądzie, oraz głównego dźwigara mostu lub wiaduktu o rozpiętości teoretycznej przęsła większej niż 40 m,
-c) 50 lat w przypadku głównego dźwigara mostu lub wiaduktu o rozpiętości teoretycznej przęsła nie większej niż 40 m, pomostu mostu, pomostu wiaduktu, przepustu oraz konstrukcji oporowej;
+b) 100 lat – w przypadku fundamentu i podpory mostu lub wiaduktu, które są wykonywane na lądzie, oraz głównego dźwigara mostu lub wiaduktu o rozpiętości teoretycznej przęsła większej niż 40 m,
+c) 50 lat – w przypadku głównego dźwigara mostu lub wiaduktu o rozpiętości teoretycznej przęsła nie większej niż 40 m, pomostu mostu, pomostu wiaduktu, przepustu oraz konstrukcji oporowej;
 2) 25 lat ‒ w przypadku pozostałych elementów konstrukcji mostu lub wiaduktu, w tym cięgna zewnętrznego, belki podporęczowej oraz kapy chodnikowej;
 3) w przypadku urządzeń drogowego obiektu inżynierskiego:
 a) 50 lat ‒ w przypadku hydroizolacji tunelu oraz hydroizolacji konstrukcji oporowej,
@@ -540,7 +564,7 @@ c) 20 lat ‒ w przypadku nawierzchni jezdni, drogi dla pieszych, drogi dla rowe
 d) 20 lat ‒ w przypadku hydroizolacji pomostu mostu lub wiaduktu, urządzenia dylatacyjnego, elementu odwodnienia oraz urządzenia do odwodnienia oraz zabezpieczenia antykorozyjnego stalowego elementu konstrukcji obiektu,
 e) 15 lat ‒ w przypadku ekranu przeciwhałasowego,
 f) 10 lat ‒ w przypadku przekrycia dylatacyjnego.
-2. W drogowym obiekcie inżynierskim umożliwia się wymianę wszystkich elementów, których minimalny przewidywany okres użytkowania jest mniejszy niż minimalny przewidywany okres użytkowania pomostu, a jeżeli pomost jest niewydzielony minimalny przewidywany okres użytkowania głównego elementu konstrukcji.
+2. W drogowym obiekcie inżynierskim umożliwia się wymianę wszystkich elementów, których minimalny przewidywany okres użytkowania jest mniejszy niż minimalny przewidywany okres użytkowania pomostu, a jeżeli pomost jest niewydzielony – minimalny przewidywany okres użytkowania głównego elementu konstrukcji.
 3. Minimalne przewidywane okresy użytkowania dotyczą nowo budowanych drogowych obiektów inżynierskich.
 W odniesieniu do istniejącego drogowego obiektu inżynierskiego okres użytkowania określa się z uwzględnieniem dotychczasowego okresu użytkowania i stanu technicznego tego obiektu, a warunki dotyczą wyłącznie tych elementów konstrukcji, które podlegają budowie lub przebudowie.
 § 107. Zwiększenie trwałości mostu lub wiaduktu uzyskuje się w szczególności przez:
@@ -548,17 +572,17 @@ W odniesieniu do istniejącego drogowego obiektu inżynierskiego okres użytkowa
 2) kształtowanie elementów mostu lub wiaduktu w taki sposób, aby w rzucie poziomym kąt pomiędzy osią podłużną konstrukcji przęsła a osią podparcia przęsła na podporach był prosty lub zbliżony do prostego;
 3) sytuowanie mostu lub wiaduktu w planie na odcinku prostoliniowym;
 4) przyjmowanie rozpiętości przęsła w zależności od szerokości przeszkody:
-a) nie większej niż 25 m rozpiętość teoretyczna przęsła jest o najwyżej 50% większa niż szerokość przeszkody,
-b) większej niż 25 m most lub wiadukt powinny być wieloprzęsłowe, w których rozpiętość teoretyczna przęsła jest nie większa niż 40 m;
+a) nie większej niż 25 m – rozpiętość teoretyczna przęsła jest o najwyżej 50% większa niż szerokość przeszkody,
+b) większej niż 25 m – most lub wiadukt powinny być wieloprzęsłowe, w których rozpiętość teoretyczna przęsła jest nie większa niż 40 m;
 5) projektowanie mostu lub wiaduktu o konstrukcji zintegrowanej, w szczególności przy rozpiętości teoretycznej przęsła nie większej niż 30 m;
 6) projektowanie mostu lub wiaduktu w sposób zapewniający dostęp do wszystkich elementów konstrukcji, w tym przede wszystkim obszarów połączeń oraz łożysk i urządzeń dylatacyjnych, w celu oceny ich stanu technicznego;
 7) niestosowanie pomostów ortotropowych w moście lub wiadukcie o rozpiętości teoretycznej przęsła nie większej niż 40 m lub przy pochyleniu niwelety większym niż 3%.
 § 108. 1. Most, wiadukt lub konstrukcję oporową projektuje się w szczególności na obciążenie ruchome:
 1) według modelu LM1, w zależności od klasy obciążenia pojazdami samochodowymi:
-a) klasy I w przypadku mostu, wiaduktu lub konstrukcji oporowej usytuowanych w ciągu drogi klasy A, S, GP lub G,
-b) co najmniej klasy II w przypadku mostu, wiaduktu lub konstrukcji oporowej usytuowanych w ciągu drogi klasy Z, L lub D;
+a) klasy I – w przypadku mostu, wiaduktu lub konstrukcji oporowej usytuowanych w ciągu drogi klasy A, S, GP lub G,
+b) co najmniej klasy II – w przypadku mostu, wiaduktu lub konstrukcji oporowej usytuowanych w ciągu drogi klasy Z, L lub D;
 2) według modelu LM2, z założeniem, że wartość współczynnika dostosowawczego wynosi β = 1,00.
-2. Wartości współczynników dostosowawczych, które dotyczą modelu LM1 i danej klasy obciążenia pojazdami samochodowymi, przyjmuje się zgodnie z tabelą: Wartości współczynników dostosowawczych Klasa obciążenia pojazdami samochodowymi α α α i > 2 α α α i ≥ 3 Klasa I 1,00 1,00 1,33 2,40 1,20 1,20 Klasa II 1,00 1,00 1,00 1,00 1,00 1,00
+2. Wartości współczynników dostosowawczych, które dotyczą modelu LM1 i danej klasy obciążenia pojazdami samochodowymi, przyjmuje się zgodnie z tabelą: Wartości współczynników dostosowawczych Klasa obciążenia pojazdami samochodowymi α α α α α α i > 2 i ≥ 3 Klasa I 1,00 1,00 1,33 2,40 1,20 1,20 Klasa II 1,00 1,00 1,00 1,00 1,00 1,00
 3. Most, wiadukt lub konstrukcję oporową, które są usytuowane w ciągu drogi krajowej lub w ciągu drogi o znaczeniu obronnym niebędącej drogą krajową, projektuje się na obciążenie pojazdami specjalnymi zgodnie z załącznikiem nr 2 do rozporządzenia.
 4. Przejście górne dla zwierząt projektuje się na obciążenie ruchome, tak jak na obciążenie pojazdami samochodowymi klasy II, z założeniem, że wartości współczynników dostosowawczych wynoszą α = 0,50.
 5. Tunel lub przepust projektuje się na obciążenie pojazdami samochodowymi lub specjalnymi, które znajdują się nad tunelem lub przepustem lub w ich pobliżu, jeżeli to obciążenie stanowi nie mniej niż 5% ich obciążenia stałego.
@@ -567,6 +591,8 @@ b) co najmniej klasy II w przypadku mostu, wiaduktu lub konstrukcji oporowej usy
 § 109. 1. Most lub wiadukt o rozpiętości teoretycznej przęsła nie mniejszej niż 30 m, z wyjątkiem mostu lub wiaduktu dla pieszych, rowerów albo pieszych i rowerów, przejścia górnego dla zwierząt, mostu lub wiaduktu o konstrukcji gruntowo-powłokowej, o przęśle murowanym lub o przęśle żelbetowym niesprężonym, podlega badaniom odbiorczym pod obciążeniem statycznym, które wywołuje wartości sił wewnętrznych w elementach konstrukcji obiektu od 50 do 60% normowego obciążenia charakterystycznego.
 2. Most lub wiadukt o rozpiętości teoretycznej przęsła nie mniejszej niż 30 m, z wyjątkiem przejścia górnego dla zwierząt, mostu lub wiaduktu o konstrukcji gruntowo-powłokowej, o przęśle murowanym lub o przęśle żelbetowym niesprężonym, podlega badaniom odbiorczym pod obciążeniem dynamicznym.
 3. Na wniosek zarządcy drogi każdy most lub wiadukt, w szczególności o nietypowej konstrukcji, podlega badaniom odbiorczym zarówno pod obciążeniem statycznym, które może wywoływać wartości sił wewnętrznych w elementach konstrukcji mostu lub wiaduktu większe niż 60% normowego obciążenia charakterystycznego, jak i obciążeniem dynamicznym.
+§ 110. Droga powinna spełniać warunki dotyczące bezpieczeństwa pożarowego i przygotowania do prowadzenia działań ratowniczych określone w załączniku nr 3 do rozporządzenia.
+§ 111. Zarządca drogi stosuje system zarządzania, który ma na celu zaplanowanie działań związanych z jej utrzymaniem, w tym remontów, pozwalających osiągnąć i utrzymać odpowiedni stan techniczny drogi, a w rezultacie jej funkcjonalność, odpowiedni poziom bezpieczeństwa ruchu oraz zgodność z przepisami prawa, według założonej strategii w cyklu życia drogi, przy jak najmniejszym koszcie całkowitym i przy akceptowalnym poziomie ryzyka.
 § 112. Zarządca drogi dąży do wprowadzenia proaktywnej strategii w procesie użytkowania drogi, spełniając następujące warunki:
 1) w szacowaniu kosztu całkowitego uwzględnia co najmniej aspekty techniczne, społeczne i środowiskowe wykonywanych działań;
 2) ustala akceptowalny poziom ryzyka w zależności od klasy drogi.
@@ -584,21 +610,22 @@ b) co najmniej klasy II w przypadku mostu, wiaduktu lub konstrukcji oporowej usy
 1) pomiary i analizy ruchu drogowego, określając w szczególności SDRR i miarodajne natężenie ruchu do celów projektowych;
 2) ocenę stanu technicznego, przydatności do użytkowania oraz estetyki drogi, wykonując inspekcje bieżące, podstawowe, rozszerzone lub szczegółowe albo ekspertyzy.
 2. Inspekcję podstawową wykonuje się co najmniej raz w roku, a inspekcję rozszerzoną co najmniej raz na pięć lat, tak aby realizować zakres kontroli okresowej, o której mowa w przepisach prawa budowlanego.
+§ 115. 1. Do budowy lub przebudowy drogi publicznej, jeżeli przed dniem wejścia w życie niniejszego rozporządzenia:
 1) został złożony wniosek o wydanie decyzji o pozwoleniu na budowę lub decyzji o zezwoleniu na realizację inwestycji drogowej, a także odrębny wniosek o zatwierdzenie projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego,
 2) zostało dokonane zgłoszenie budowy lub wykonywania innych robót budowlanych,
 3) zostało wszczęte postępowanie o udzielenie zamówienia publicznego na opracowanie projektu lub na opracowanie projektu i wykonanie robót budowlanych ‒ stosuje się przepisy techniczno-budowlane obowiązujące przed dniem wejścia w życie niniejszego rozporządzenia.
 2. Przez projekt, o którym mowa w ust. 1 pkt 3, rozumie się:
-1) projekt budowlany jeżeli do budowy lub przebudowy drogi publicznej jest wymagane opracowanie projektu budowlanego;
-2) projekt budowlany, projekt zagospodarowania działki lub terenu albo odpowiednie szkice lub rysunki jeżeli do budowy lub przebudowy drogi publicznej nie jest wymagane opracowanie projektu budowlanego.
+1) projekt budowlany – jeżeli do budowy lub przebudowy drogi publicznej jest wymagane opracowanie projektu budowlanego;
+2) projekt budowlany, projekt zagospodarowania działki lub terenu albo odpowiednie szkice lub rysunki – jeżeli do budowy lub przebudowy drogi publicznej nie jest wymagane opracowanie projektu budowlanego.
 § 116. 1. Jeżeli przed dniem wejścia w życie niniejszego rozporządzenia:
 1) został złożony wniosek o wydanie decyzji o pozwoleniu na budowę, a także odrębny wniosek o zatwierdzenie projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego,
 2) zostało dokonane zgłoszenie budowy lub wykonywania innych robót budowlanych,
 3) zostało wszczęte postępowanie o udzielenie zamówienia publicznego na opracowanie projektu lub na opracowanie projektu i wykonanie robót budowlanych albo zlecono wykonanie tych czynności w inny sposób, pod warunkiem że nie jest wymagane wszczęcie postępowania o udzielenie zamówienia publicznego ‒ do budowy lub przebudowy drogowego obiektu inżynierskiego w ramach drogi wewnętrznej nie stosuje się przepisów niniejszego rozporządzenia.
 2. Przez projekt, o którym mowa w ust. 1 pkt 3, rozumie się:
-1) projekt budowlany jeżeli do budowy lub przebudowy drogowego obiektu inżynierskiego w ramach drogi wewnętrznej jest wymagane opracowanie projektu budowlanego;
-2) projekt budowlany, projekt zagospodarowania działki lub terenu albo odpowiednie szkice lub rysunki jeżeli do budowy lub przebudowy drogowego obiektu inżynierskiego w ramach drogi wewnętrznej nie jest wymagane opracowanie projektu budowlanego.
+1) projekt budowlany – jeżeli do budowy lub przebudowy drogowego obiektu inżynierskiego w ramach drogi wewnętrznej jest wymagane opracowanie projektu budowlanego;
+2) projekt budowlany, projekt zagospodarowania działki lub terenu albo odpowiednie szkice lub rysunki – jeżeli do budowy lub przebudowy drogowego obiektu inżynierskiego w ramach drogi wewnętrznej nie jest wymagane opracowanie projektu budowlanego.
 § 117. Rozporządzenie wchodzi w życie z dniem 21 września 2022 r.
-Minister Infrastruktury: A. Adamczyk M …… M M W M W OBCIĄŻENIE POJAZDAMI SPECJALNYMI
+Minister Infrastruktury: A. Adamczyk …… M W M M W M OBCIĄŻENIE POJAZDAMI SPECJALNYMI
 1. Obciążenie pojazdami specjalnymi, wynikające z umowy standaryzacyjnej NATO ‒ STANAG 2021, jest obciążeniem o wartościach charakterystycznych, zawierającym nadwyżkę dynamiczną, dla którego przyjmuje się wartość współczynnika częściowego γ = 1,35 oraz schematy pojazdów specjalnych określone w ust. 6.
 2. Mosty i wiadukty z co najmniej dwoma pasami ruchu na jezdni projektuje się na cztery klasy MLC. W zależności od klasy obciążenia pojazdami samochodowymi obiekty obciąża się pojazdami kołowymi i gąsienicowymi, które są usytuowane w jednej kolumnie i w dwóch kolumnach zgodnie z poniższą tabelą: Klasa MLC Klasa obciążenia pojazdami pojazdy kołowe pojazdy gąsienicowe samochodowymi jedna kolumna dwie kolumny jedna kolumna dwie kolumny Klasa I 150 100 120 80 Klasa II 120 80 100 60
 3. Most lub wiadukt o konstrukcji przystosowanej do wielokrotnego montażu i demontażu obciąża się pojazdami kołowymi i gąsienicowymi klasy co najmniej MLC 60, które są usytuowane w jednej kolumnie, i klasy co najmniej MLC 40, które są usytuowane w dwóch kolumnach. Dla tego rodzaju obiektów w modelu LM2 przyjmuje się wartość współczynnika dostosowawczego β = 0,50 oraz przewidywany okres użytkowania w danym miejscu nie dłuższy niż 5 lat.
@@ -606,10 +633,10 @@ Minister Infrastruktury: A. Adamczyk M …… M M W M W OBCIĄŻENIE POJAZDAMI S
 5. Ustawienie pojazdów specjalnych.
 5.1. W przekroju podłużnym obiektu pojazdy specjalne ustawia się w kolumnie, w której odległość mierzona w poziomie pomiędzy osiami kół sąsiednich pojazdów kołowych wynosi 30,90 m, a odległość pomiędzy krawędziami styku z podłożem gąsienic sąsiednich pojazdów gąsienicowych wynosi 30,50 m.
 5.2. Przy ustawianiu kolumny pojazdów w przekroju poprzecznym obiektu:
-1) z jezdnią z krawężnikami odległość mierzona w poziomie pomiędzy krawędzią krawężnika jest nie mniejsza niż:
-a) 0,65 m do osi kół pojazdu kołowego,
-b) 0,35 m do krawędzi gąsienicy pojazdu gąsienicowego;
-2) z jezdnią bez krawężników lub z krawężnikiem cofniętym w stosunku do krawędzi bariery ochronnej odległość mierzona w poziomie pomiędzy krawędzią prowadnicy bariery lub balustrady a krawędzią gąsienicy lub osią kół pojazdu jest większa o 0,50 m niż podana w pkt 1.
+1) z jezdnią z krawężnikami – odległość mierzona w poziomie pomiędzy krawędzią krawężnika jest nie mniejsza niż:
+a) 0,65 m – do osi kół pojazdu kołowego,
+b) 0,35 m – do krawędzi gąsienicy pojazdu gąsienicowego;
+2) z jezdnią bez krawężników lub z krawężnikiem cofniętym w stosunku do krawędzi bariery ochronnej – odległość mierzona w poziomie pomiędzy krawędzią prowadnicy bariery lub balustrady a krawędzią gąsienicy lub osią kół pojazdu jest większa o 0,50 m niż podana w pkt 1.
 5.3. Przy ustawianiu dwóch kolumn pojazdów w przekroju poprzecznym obiektu odległość mierzona w poziomie pomiędzy osiami kół sąsiednich pojazdów jest nie mniejsza niż 1,10 m, a pomiędzy krawędziami gąsienic jest nie mniejsza niż 0,50 m.
 5.4. Jeżeli szerokość jezdni obiektu uniemożliwia zachowanie odległości, o których mowa w ust. 5.2 i 5.3, kolumnę ustawia się w osi pasa ruchu, przy czym w odniesieniu do:
 1) pojazdów gąsienicowych ‒ tak, aby zewnętrzna krawędź gąsienicy pokryła się z krawędzią pasa ruchu;
@@ -639,10 +666,10 @@ Reakcja drogowych urządzeń przeciwhałasowych na ogień
 10. Drogowe urządzenia przeciwhałasowe:
 1) powinny spełniać wymagania co najmniej klasy 2 odporności na pożar zarośli, zgodnie z Polską Normą dotyczącą wymagań pozaakustycznych w zakresie ogólnego bezpieczeństwa;
 2) zgodnie z Polską Normą dotyczącą klasyfikacji ogniowej wyrobów budowlanych wykonuje się z materiałów lub wyrobów budowlanych:
-a) co najmniej klasy B-s1 reakcji na ogień w przypadku ekranów stosowanych w tunelu,
-b) co najmniej klasy B-s1, d0 reakcji na ogień w przypadku ekranów, które całkowicie przekrywają jezdnię,
-c) co najmniej klasy D reakcji na ogień w przypadku ekranów, które częściowo przekrywają jezdnię lub są usytuowane w odległości mniejszej niż 8,00 m od budynków,
-d) co najmniej klasy E reakcji na ogień w przypadku ekranów stosowanych na moście lub wiadukcie w warunkach innych niż opisane w lit. b i c.
+a) co najmniej klasy B-s1 reakcji na ogień – w przypadku ekranów stosowanych w tunelu,
+b) co najmniej klasy B-s1, d0 reakcji na ogień – w przypadku ekranów, które całkowicie przekrywają jezdnię,
+c) co najmniej klasy D reakcji na ogień – w przypadku ekranów, które częściowo przekrywają jezdnię lub są usytuowane w odległości mniejszej niż 8,00 m od budynków,
+d) co najmniej klasy E reakcji na ogień – w przypadku ekranów stosowanych na moście lub wiadukcie w warunkach innych niż opisane w lit. b i c.
 Woda do celów ratowniczych
 11. W pasie drogowym drogi klasy A lub S zapewnia się zaopatrzenie w wodę do celów ratowniczych przy wykorzystaniu:
 1) źródeł wody do celów przeciwpożarowych, o których mowa w przepisach o przeciwpożarowym zaopatrzeniu w wodę oraz drogach pożarowych;
@@ -660,7 +687,8 @@ c) 10 m od rowów, studzienek oraz urządzeń melioracyjnych;
 14. Wodę i materiały niebezpieczne z nawierzchni stanowiska postojowego dla pojazdów przewożących towary niebezpieczne odprowadza się do odrębnego, szczelnego systemu odwodnienia, które jest zaopatrzone w urządzenia do przejmowania i neutralizacji wycieków materiałów niebezpiecznych.
 15. Do stanowisk postojowych dla pojazdów przewożących towary niebezpieczne doprowadza się dojazd co najmniej o parametrach określonych dla zjazdu, wyjazdu lub wjazdu awaryjnego.
 16. Wyposażenie w zakresie przeciwpożarowym stanowisk postojowych dla pojazdów przewożących towary niebezpieczne, oraz ich zaopatrzenie wodne do celów ratowniczych projektuje się w taki sposób, aby spełniały warunki określone w przepisach o parkingach, na które są usuwane pojazdy przewożące towary niebezpieczne.
-17. W pasie drogowym nie projektuje się parkingu, na który są usuwane pojazdy przewożące towary niebezpieczne, System stacjonarnych urządzeń łączności
+17. W pasie drogowym nie projektuje się parkingu, na który są usuwane pojazdy przewożące towary niebezpieczne, w rozumieniu przepisów o przewozie towarów niebezpiecznych.
+System stacjonarnych urządzeń łączności
 18. Na drodze klasy A projektuje się system stacjonarnych urządzeń łączności alarmowej, który umożliwia osobom znajdującym się w pasie drogowym wezwanie pomocy w ciągu całej doby. Łączność alarmowa powinna być układem nadawczo-odbiorczym z ciągłą kontrolą niezawodności i identyfikacji miejsca nadania sygnału.
 19. Stacjonarne urządzenia łączności alarmowej powinny być:
 1) umieszczone po obu stronach jezdni głównej, w odstępach nie większych niż 2 km, na platformach o wymiarach nie mniejszych niż 1,50 m na 1,00 m, oddzielonych od jezdni drogową barierą ochronną, do których prowadzi dojście od strony jezdni, które ma szerokość nie mniejszą niż 1,00 m i jest dostępne dla osób ze szczególnymi potrzebami;
@@ -684,7 +712,7 @@ II. SZCZEGÓLNE WARUNKI DOTYCZĄCE DROGOWYCH OBIEKTÓW INŻYNIERSKICH Podstawowe
 26. Klasy reakcji na ogień oraz klasy odporności ogniowej określa się zgodnie z Polskimi Normami, które dotyczą zasad ustalania klas reakcji na ogień materiałów lub wyrobów budowlanych oraz klas odporności ogniowej.
 27. Zapewnia się dojścia dla straży pożarnej do kanału lub pomostu w drogowym obiekcie inżynierskim, w którym umieszcza się przewody z cieczami lub gazami palnymi, a usytuowanie tych dojść oraz ich parametry techniczne uzgadnia się z właściwym komendantem wojewódzkim Państwowej Straży Pożarnej.
 28. Teren wokół drogowego obiektu inżynierskiego w granicach pasa drogowego powinien być:
-1) uporządkowany, a po obu stronach mostu lub wiaduktu oraz przy głowicach tuneli lub przepustów oczyszczony z przedmiotów i materiałów o klasie reakcji na ogień niższej niż D-s1;
+1) uporządkowany, a po obu stronach mostu lub wiaduktu oraz przy głowicach tuneli lub przepustów – oczyszczony z przedmiotów i materiałów o klasie reakcji na ogień niższej niż D-s1;
 2) dostępny z drogi, a wzdłuż drewnianego mostu lub wiaduktu, na dostępnym terenie, powinny być wykonane utwardzone pasy o szerokości nie mniejszej niż 4,50 m dla pojazdów straży pożarnej.
 Klasa reakcji na ogień oraz odporność ogniowa konstrukcji i elementów drogowego obiektu inżynierskiego
 29. Konstrukcję nośną drogowego obiektu inżynierskiego oraz ściany i stropy, które stanowią elementy oddzielenia przeciwpożarowego, wykonuje się z materiałów lub wyrobów budowlanych co najmniej klasy A2, d0 reakcji na ogień, z zastrzeżeniem ust. 30–34. Tego wymagania nie stosuje się do materiałów lub wyrobów budowlanych, które są wbudowane w konstrukcję nośną drogowego obiektu inżynierskiego w sposób zabezpieczający przed ich zapaleniem się, oraz do osłon zewnętrznych cięgien w mostach lub wiaduktach.
@@ -694,11 +722,11 @@ Klasa reakcji na ogień oraz odporność ogniowa konstrukcji i elementów drogow
 33. Dopuszcza się wykonanie mostu lub wiaduktu dla pieszych lub rowerów albo pieszych i rowerów z materiałów lub wyrobów budowlanych co najmniej klasy D reakcji na ogień.
 34. Elementy tymczasowego mostu lub wiaduktu przewidziane na okres dłuższy niż 3 lata wykonuje się z materiałów lub wyrobów budowlanych co najmniej klasy D reakcji na ogień.
 35. Konstrukcja nośna tunelu powinna posiadać odporność ogniową przez określony czas, który w przypadku pożaru wystarczy na samodzielne opuszczenie miejsca niebezpiecznego przez użytkowników tunelu oraz umożliwi działania służb ratowniczych, bez zagrożenia, że się zawali.
-36. Konstrukcja nośna tunelu służącego do przeprowadzenia drogi przeznaczonej do ruchu pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego powinna posiadać nośność ogniową nie niższą niż 120 min, określoną w odniesieniu do krzywej tunelowej temperatura czas, której wartości określa tabela.
+36. Konstrukcja nośna tunelu służącego do przeprowadzenia drogi przeznaczonej do ruchu pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego powinna posiadać nośność ogniową nie niższą niż 120 min, określoną w odniesieniu do krzywej tunelowej temperatura – czas, której wartości określa tabela.
 Czas Temperatura 0 min 20°C 3 min 890°C 5 min 1140°C 10 min 1200°C 30 min 1300°C 60 min 1350°C 90 min 1300°C 120 min 1200°C 180 min 1200°C
-37. Konstrukcja nośna tunelu, który nie służy do przeprowadzenia drogi przeznaczonej do ruchu pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, powinna posiadać klasę nośności ogniowej nie niższą niż R120, określoną w odniesieniu do krzywej standardowej temperatura czas.
-38. Jeżeli jakakolwiek część konstrukcji tunelu jest elementem konstrukcyjnym innego obiektu budowlanego, to klasa odporności ogniowej w zakresie nośności ogniowej tej części i części powiązanych z nią statycznie powinna być nie niższa
-39. Ściana lub strop rozdzielający nawy tunelu, który służy do przeprowadzenia drogi przeznaczonej do ruchu pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, powinny poza wymaganą nośnością ogniową posiadać odporność ogniową w zakresie szczelności ogniowej i izolacyjności ogniowej, określone w odniesieniu do krzywej tunelowej temperatura czas.
+37. Konstrukcja nośna tunelu, który nie służy do przeprowadzenia drogi przeznaczonej do ruchu pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, powinna posiadać klasę nośności ogniowej nie niższą niż R120, określoną w odniesieniu do krzywej standardowej temperatura – czas.
+38. Jeżeli jakakolwiek część konstrukcji tunelu jest elementem konstrukcyjnym innego obiektu budowlanego, to klasa odporności ogniowej w zakresie nośności ogniowej tej części i części powiązanych z nią statycznie powinna być nie niższa od klasy odporności ogniowej w zakresie nośności ogniowej konstrukcji głównej tego obiektu budowlanego.
+39. Ściana lub strop rozdzielający nawy tunelu, który służy do przeprowadzenia drogi przeznaczonej do ruchu pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, powinny poza wymaganą nośnością ogniową posiadać odporność ogniową w zakresie szczelności ogniowej i izolacyjności ogniowej, określone w odniesieniu do krzywej tunelowej temperatura – czas.
 40. Tunel z betonowych elementów konstrukcyjnych, służący do przeprowadzenia drogi przeznaczonej do ruchu pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego, powinien być zaprojektowany i wykonany w taki sposób, aby w warunkach pożarowych, określonych w ust. 36, nie występowało ryzyko utraty nośności ogniowej konstrukcji związane z eksplozyjnym odpryskiwaniem betonu.
 41. Strefy pożarowe w tunelu służącym do przeprowadzenia drogi przeznaczonej do ruchu pojazdów innych niż rowery, hulajnogi elektryczne i urządzenia transportu osobistego powinny stanowić w szczególności:
 1) nawa tunelu;
@@ -718,16 +746,16 @@ Klasa reakcji na ogień oraz odporność ogniowa urządzeń i instalacji
 44. Przewody i kable w tunelach powinny spełniać kryteria co najmniej B2 -s1, d0 w zakresie reakcji kabli elektrycznych na ogień.
 45. Poziom odporności ogniowej urządzeń i instalacji, które służą zapewnieniu bezpieczeństwa w tunelu, powinien uwzględniać możliwości technologiczne i zapewniać utrzymanie przez określony czas niezbędnych funkcji bezpieczeństwa w przypadku pożaru.
 46. Przewody i kable elektryczne wraz z ich zamocowaniami, które są stosowane w systemach zasilania i sterowania, powinny zapewniać ciągłość dostawy energii elektrycznej lub przekazu sygnału przez czas nie krótszy niż:
-1) 30 min w przypadku obwodów urządzeń sterujących zasilaniem, znaków drogowych, monitoringu wizyjnego oraz nagłośnienia tunelu;
-2) 90 min w przypadku obwodów urządzeń służących ochronie przeciwpożarowej.
+1) 30 min – w przypadku obwodów urządzeń sterujących zasilaniem, znaków drogowych, monitoringu wizyjnego oraz nagłośnienia tunelu;
+2) 90 min – w przypadku obwodów urządzeń służących ochronie przeciwpożarowej.
 47. Tunel, który posiada zasilane energią elektryczną urządzenia bezpieczeństwa niezbędne do ewakuacji, powinien posiadać również awaryjne zasilanie w energię, które jest zdolne zapewnić działanie tych urządzeń co najmniej do chwili opuszczenia tunelu przez jego użytkowników.
 48. Tunel wyposaża się w przeciwpożarowy wyłącznik prądu, który umożliwia odcięcie dopływu energii elektrycznej do wszystkich obwodów odrębnie w każdej nawie tunelu, z wyjątkiem obwodów zasilających instalacje i urządzenia, których funkcjonowanie jest niezbędne w czasie pożaru i w czasie prowadzenia działań ratowniczo-gaśniczych. Przyciski uruchamiające przeciwpożarowy wyłącznik prądu sytuuje się w miejscach wskazanych w planie działań ratowniczych lub planie postępowania awaryjnego, opracowanym przy udziale służb ratowniczych.
 49. Kable elektroenergetyczne oraz kable oświetlenia awaryjnego powinny być umieszczone w dolnej części tunelu i odporne na działanie wysokiej temperatury.
 50. Elektryczne obwody kontrolne i pomiarowe projektuje się w taki sposób, aby uszkodzenie miejscowe któregoś z nich nie miało wpływu na obwody nieuszkodzone.
 Oświetlenie awaryjne i drogowe
 51. Tunel, który wymaga zastosowania oświetlenia sztucznego, wyposaża się w awaryjne oświetlenie:
-1) zapasowe zapewniające użytkownikom tunelu minimalną widoczność niezbędną do opuszczenia tunelu w pojazdach w przypadku awarii zasilania podstawowego;
-2) ewakuacyjne takie jak lampy oblicowania ścian tunelu, umieszczone na wysokości nie większej niż 1,50 m, które w sytuacji zagrożenia prowadzą do wyjść awaryjnych pieszych lub osoby poruszające się przy użyciu urządzenia wspomagającego ruch.
+1) zapasowe – zapewniające użytkownikom tunelu minimalną widoczność niezbędną do opuszczenia tunelu w pojazdach w przypadku awarii zasilania podstawowego;
+2) ewakuacyjne – takie jak lampy oblicowania ścian tunelu, umieszczone na wysokości nie większej niż 1,50 m, które w sytuacji zagrożenia prowadzą do wyjść awaryjnych pieszych lub osoby poruszające się przy użyciu urządzenia wspomagającego ruch.
 52. Awaryjne oświetlenie ewakuacyjne powinno działać przez co najmniej 120 min oraz umożliwić odnalezienie drogi ewakuacyjnej i właściwego kierunku poruszania się, a także łatwe zlokalizowanie oraz użycie sprzętu przeciwpożarowego i pierwszej pomocy medycznej.
 53. W każdej nawie tunelu, przy wyjściach awaryjnych, instaluje się oświetlenie, które powinno oświetlać drogi ewakuacyjne. Oświetlenie to powinno włączać się automatycznie w razie pożaru, z możliwością włączenia ręcznego. Nad drzwiami wyjść awaryjnych, od strony nawy tunelu, powinny być umieszczone lampy oświetlające podłogę na całej szerokości drzwi.
 54. Wnętrze schronów powinno być wyposażone w oświetlenie awaryjne. Oświetlenie to powinno być włączane automatycznie po otwarciu drzwi do schronu i mieć natężenie co najmniej 15 lx.
@@ -741,9 +769,10 @@ Urządzenia przeciwpożarowe, systemy bezpieczeństwa i punkty alarmowe
 61. Tunel o długości większej niż 500 m wyposaża się w hydranty zewnętrzne nadziemne o średnicy nominalnej DN80, usytuowane w pobliżu wjazdów do tunelu i w tunelu, w odległościach nieprzekraczających 250 m. W tunelu hydranty zewnętrzne umieszcza się we wnękach jego ściany bocznej w sposób umożliwiający podłączenie węży pożarniczych.
 62. Tunel o długości większej niż 1000 m wyposaża się w urządzenia zapewniające łączność radiową służbom ratowniczym. Urządzenia te stosuje się również w tunelach o długości mniejszej niż 1000 m, jeżeli ich uwarunkowania techniczne lub lokalizacyjne uniemożliwiają łączność służbom ratowniczym.
 63. Tunel o długości większej niż 3000 m powinien posiadać centrum kontroli systemów bezpieczeństwa i urządzeń zainstalowanych w tunelu, system monitorowania wideo i system automatycznie wykrywający zdarzenia drogowe. Dopuszcza się prowadzenie nadzoru nad kilkoma tunelami w jednym centrum kontroli.
-64. W tunelu o długości większej niż 3000 m instaluje się w odstępach nie większych niż 1000 m sygnalizację świetlną, Jako uzupełnienie sygnalizacji świetlnej, zapór, znaków lub tablic tekstowych o zmiennej treści mogą być stosowane głośniki umożliwiające przekazywanie komunikatów dźwiękowych.
+64. W tunelu o długości większej niż 3000 m instaluje się w odstępach nie większych niż 1000 m sygnalizację świetlną, zapory i znaki lub tablice tekstowe o zmiennej treści, które służą do zatrzymywania pojazdów w sytuacjach awaryjnych.
+Jako uzupełnienie sygnalizacji świetlnej, zapór, znaków lub tablic tekstowych o zmiennej treści mogą być stosowane głośniki umożliwiające przekazywanie komunikatów dźwiękowych.
 65. Tunel oraz zastosowane w nim urządzenia bezpieczeństwa, w tym urządzenia przeciwpożarowe, oznacza się znakami zgodnymi z Polskimi Normami dotyczącymi znaków bezpieczeństwa.
-66. W tunelu o długości większej niż 500 m projektuje się punkty alarmowe usytuowane we wnękach ściany bocznej tunelu, przy czym dopuszcza się ich zaprojektowanie w postaci skrzynek na ścianie bocznej tunelu. Punkty alarmowe sytuuje się w pobliżu wjazdów i w głębi tunelu w odstępach, które nie przekraczają 150 m, w tym na wysokości zatoki awaryjnej jeżeli występuje. Punkty alarmowe wyposaża się co najmniej w telefon alarmowy i dwie gaśnice proszkowe z proszkiem ABC, o masie środka gaśniczego nie mniejszej niż 6 kg każda. Punkty alarmowe usytuowane w zamkniętych drzwiami wnękach ściany bocznej tunelu powinny zawierać informację, że nie zapewniają ochrony w przypadku pożaru.
+66. W tunelu o długości większej niż 500 m projektuje się punkty alarmowe usytuowane we wnękach ściany bocznej tunelu, przy czym dopuszcza się ich zaprojektowanie w postaci skrzynek na ścianie bocznej tunelu. Punkty alarmowe sytuuje się w pobliżu wjazdów i w głębi tunelu w odstępach, które nie przekraczają 150 m, w tym na wysokości zatoki awaryjnej – jeżeli występuje. Punkty alarmowe wyposaża się co najmniej w telefon alarmowy i dwie gaśnice proszkowe z proszkiem ABC, o masie środka gaśniczego nie mniejszej niż 6 kg każda. Punkty alarmowe usytuowane w zamkniętych drzwiami wnękach ściany bocznej tunelu powinny zawierać informację, że nie zapewniają ochrony w przypadku pożaru.
 Drogi ewakuacyjne
 67. W tunelu o długości większej niż 150 m i bez pobocza o nawierzchni twardej projektuje się drogę ewakuacyjną o szerokości wynoszącej co najmniej 0,90 m, którą oddziela się krawężnikiem od pasa ruchu. Dopuszcza się nieoddzielenie drogi ewakuacyjnej od pasa ruchu w tunelu odbudowywanym, rozbudowywanym i przebudowywanym.
 Wyjścia awaryjne
@@ -761,33 +790,34 @@ Przejścia poprzeczne
 74. W tunelach dwunawowych o długości większej niż 500 m oraz w odrębnych tunelach, jeżeli nawy lub tunele usytuowane są na tym samym lub zbliżonym poziomie, projektuje się przejścia poprzeczne między nawami tunelu lub pomiędzy tunelami. Przejścia poprzeczne powinny być:
 1) rozmieszczone w odstępach zapewniających odpowiednie warunki ewakuacji dla użytkowników tunelu, ale nie większych niż 500 m;
 2) zamykane drzwiami przeciwpożarowymi o klasie odporności ogniowej EI 120;
-3) odpowiednie do wykorzystania ich przez służby ratownicze, przy czym ich szerokość powinna być nie mniejsza niż Kanalizacja
+3) odpowiednie do wykorzystania ich przez służby ratownicze, przy czym ich szerokość powinna być nie mniejsza niż 1,4 m, a wysokość – nie mniejsza niż 2,20 m.
+Kanalizacja
 75. Kanalizacja w tunelu powinna umożliwiać przejęcie cieczy łatwopalnych i trujących z uszkodzonych zbiorników, które służą do przewozu towarów niebezpiecznych, i odprowadzenie ich do specjalnych zbiorników umieszczonych poza tunelem. Kanalizację projektuje się w sposób ograniczający możliwość rozprzestrzeniania się pożaru.
 Mosty i wiadukty
 76. Pod mostem lub wiaduktem oraz w ich konstrukcji zabrania się umieszczania rozdzielni, stacji energetycznej, transformatora oraz pompowni cieczy lub gazów palnych.
 77. Pod mostem lub wiaduktem zabrania się sytuowania obiektu zagrożonego wybuchem oraz obiektu, którego gęstość obciążenia ogniowego jest większa niż 500 MJ/m . Obiekt taki wykonuje się z materiałów lub wyrobów budowlanych co najmniej klasy A2 reakcji na ogień i sytuuje się w odległości nie mniejszej niż 6,00 m od rzutu poziomego mostu lub wiaduktu.
 78. Dopuszcza się wykorzystanie przestrzeni pod mostem lub wiaduktem do postoju samochodów osobowych, pod warunkiem że spód ustroju nośnego znajduje się od poziomu terenu, na wysokości:
-1) nie mniejszej niż 4,50 m dla konstrukcji stalowych;
-2) nie mniejszej niż 3,00 m dla konstrukcji betonowych.
+1) nie mniejszej niż 4,50 m – dla konstrukcji stalowych;
+2) nie mniejszej niż 3,00 m – dla konstrukcji betonowych.
 79. Dopuszcza się inne wykorzystanie przestrzeni pod mostem lub wiaduktem za zgodą zarządcy drogi oraz właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej, jeżeli zapewnione będzie bezpieczeństwo konstrukcji obiektu, potwierdzone analizą inżynierską w zakresie bezpieczeństwa pożarowego, oraz zapewnione będą odpowiednie warunki ewakuacji i drogi dojazdowe dla służb ratowniczych.
 80. Nie dopuszcza się umieszczania kabli elektroenergetycznych z przewodami gazowymi i cieczami palnymi we wspólnych kanałach lub w tych samych przedziałach, między dźwigarami lub podłużnicami mostu lub wiaduktu.
 81. Zawory odcinające dopływ gazu lub cieczy palnych oraz urządzenia do wyłączenia napięcia w kablach elektroenergetycznych instaluje się poza mostem lub wiaduktem, w odległości nie mniejszej niż 25 m od przyczółków.
 82. W moście lub wiadukcie o długości większej niż 100 m kanały, w których umieszcza się trasy kablowe, wyposaża się w półstałe lub stałe urządzenia gaśnicze.
 83. Tymczasowy most lub tymczasowy wiadukt przewidziany na okres nie dłuższy niż 3 lata, wykonany w całości lub częściowo z materiałów palnych, wyposaża się w następujący sprzęt i następujące środki gaśnicze:
-1) skrzynie z suchym piaskiem, o pojemności nie mniejszej niż 0,50 m po obu stronach mostu lub wiaduktu w pobliżu przyczółków;
-2) jeden zbiornik z wodą o pojemności 200 l oraz jedną skrzynię z suchym piaskiem, o pojemności nie mniejszej niż 0,25 m na moście lub wiadukcie, którego długość jest większa niż 50 m, ale nie większa niż 100 m;
-3) zbiorniki z wodą i skrzynie z piaskiem, o pojemnościach jak w pkt 2, rozmieszczone w odstępie nie większym niż 100 m na moście lub wiadukcie o długości większej niż 100 m.
+1) skrzynie z suchym piaskiem, o pojemności nie mniejszej niż 0,50 m – po obu stronach mostu lub wiaduktu w pobliżu przyczółków;
+2) jeden zbiornik z wodą o pojemności 200 l oraz jedną skrzynię z suchym piaskiem, o pojemności nie mniejszej niż 0,25 m – na moście lub wiadukcie, którego długość jest większa niż 50 m, ale nie większa niż 100 m;
+3) zbiorniki z wodą i skrzynie z piaskiem, o pojemnościach jak w pkt 2, rozmieszczone w odstępie nie większym niż 100 m – na moście lub wiadukcie o długości większej niż 100 m.
 W okresach jesienno-zimowych woda w zbiornikach powinna zawierać substancje obniżające temperaturę krzepnięcia.
 84. Pod przęsłami tymczasowego mostu lub tymczasowego wiaduktu:
 1) zabrania się sytuowania budynków i składowisk materiałów;
-2) projektuje się oddymnice z blach o grubości nie mniejszej niż 2 mm lub z innych materiałów niepalnych jeżeli most lub wiadukt są usytuowane nad torami linii kolejowej z trakcją parową lub spalinową.
+2) projektuje się oddymnice z blach o grubości nie mniejszej niż 2 mm lub z innych materiałów niepalnych – jeżeli most lub wiadukt są usytuowane nad torami linii kolejowej z trakcją parową lub spalinową.
 III. SZCZEGÓLNE WARUNKI DOTYCZĄCE WENTYLACJI TUNELI
 85. Tunel wyposaża się w wentylację służącą do odprowadzania spalin emitowanych z pojazdów oraz usuwania dymu i ciepła w przypadku pożaru.
 86. Wentylacja tunelu w normalnych warunkach użytkowania powinna zapewniać:
-1) odpowiednią wymianę powietrza aby nie zostały przekroczone stężenia zanieczyszczeń zagrażające przebywającym w tunelu użytkownikom;
-2) bezpieczeństwo i komfort jazdy przez usuwanie emitowanych przez pojazdy zanieczyszczeń powietrza ograniczających jego przejrzystość oraz przez regulowanie ruchu i wymiany powietrza.
+1) odpowiednią wymianę powietrza – aby nie zostały przekroczone stężenia zanieczyszczeń zagrażające przebywającym w tunelu użytkownikom;
+2) bezpieczeństwo i komfort jazdy – przez usuwanie emitowanych przez pojazdy zanieczyszczeń powietrza ograniczających jego przejrzystość oraz przez regulowanie ruchu i wymiany powietrza.
 87. Wydajność wentylacji tunelu ustala się na podstawie wartości progowych stężeń tlenku węgla (CO) i ditlenku azotu (NO ) w powietrzu w tunelu oraz przejrzystości powietrza wyrażonej współczynnikiem absorpcji K, które zostały określone w tabeli.
-Stężenie Stężenie Rodzaj ruchu pojazdów w tunelu tlenku węgla (CO) ditlenku azotu (NO ) Przejrzystość powietrza Współczynnik absorpcji K Płynny z prędkością 50–100 km/h 70 ppm 1,0 ppm 0,005 m Codziennie utrudniony zatorami, zatrzymany 70 ppm 1,0 ppm 0,007 m na wszystkich pasach ruchu Wyjątkowo ograniczony zatorem, zatrzymany 100 ppm 1,5 ppm 0,009 m na wszystkich pasach ruchu Długotrwałe prace w tunelu 30 ppm 0,3 ppm 0,003 m
+Stężenie Przejrzystość Rodzaj ruchu pojazdów w tunelu Stężenie ditlenku azotu powietrza tlenku węgla (CO) (NO ) Współczynnik absorpcji K Płynny z prędkością 50–100 km/h 70 ppm 1,0 ppm 0,005 m Codziennie utrudniony zatorami, zatrzymany 70 ppm 1,0 ppm 0,007 m na wszystkich pasach ruchu Wyjątkowo ograniczony zatorem, zatrzymany 100 ppm 1,5 ppm 0,009 m na wszystkich pasach ruchu Długotrwałe prace w tunelu 30 ppm 0,3 ppm 0,003 m
 88. Tunel z wentylacją mechaniczną wyposaża się w urządzenia monitorujące jakość powietrza w tunelu i urządzenia służące do zamykania go dla ruchu, jeżeli:
 1) stężenie tlenku węgla (CO) przekroczy wartość 200 ppm;
 2) stężenie ditlenku azotu (NO ) przekroczy wartość 4 ppm;
@@ -798,28 +828,28 @@ Stężenie Stężenie Rodzaj ruchu pojazdów w tunelu tlenku węgla (CO) ditlenk
 92. Wentylacja tunelu służąca do usuwania dymu i ciepła powinna:
 1) usuwać dym z intensywnością gwarantującą, że w czasie potrzebnym do ewakuacji ludzi z miejsc wystąpienia pożaru do miejsc bezpiecznych nie wystąpią zadymienie lub temperatura, które uniemożliwiają bezpieczną ewakuację;
 2) uwzględniać bezpieczeństwo ekip ratowniczych;
-3) kontrolować rozprzestrzenianie się dymu i ciepła w przypadku wentylacji mechanicznej.
+3) kontrolować rozprzestrzenianie się dymu i ciepła – w przypadku wentylacji mechanicznej.
 93. Wydajność wentylacji tunelu, która służy do usuwania dymu i ciepła, ustala się przy uwzględnieniu mocy pożaru projektowego nie mniejszej niż określona w tabeli.
 Całkowita moc pożaru Procent całkowitej mocy Rodzaj pojazdów dopuszczonych do ruchu w tunelu projektowego pożaru przekazywany do gazów pożarowych Wyłącznie pojazdy o masie całkowitej nie większej niż 3,5 t 5 MW 73% Pojazdy o masie całkowitej nie większej niż 15,0 t oraz 30 MW 64% autobusy niezależnie od masy całkowitej Pojazdy o masie całkowitej nie większej niż 23,0 t 50 MW 64% Pojazdy o masie całkowitej powyżej 23,0 t oraz pojazdy 100–200 MW przewożące towary niebezpieczne 64% Pojazdy z cysternami przewożącymi paliwa płynne lub gazowe 100–300 MW 64%
 94. Wentylację tuneli projektuje się w szczególności jako:
 1) naturalną;
 2) mechaniczną:
-a) wzdłużną z wzdłużnym przepływem powietrza na całej długości tunelu,
-b) poprzeczną z poprzecznym ruchem powietrza na całej długości tunelu,
-c) półpoprzeczną z poprzeczno-wzdłużnym lub wzdłużno-poprzecznym przepływem powietrza w tunelu.
+a) wzdłużną – z wzdłużnym przepływem powietrza na całej długości tunelu,
+b) poprzeczną – z poprzecznym ruchem powietrza na całej długości tunelu,
+c) półpoprzeczną – z poprzeczno-wzdłużnym lub wzdłużno-poprzecznym przepływem powietrza w tunelu.
 95. Wentylację naturalną, działającą dzięki różnicy ciśnień między głowicami tunelu oraz w wyniku ruchu pojazdów, stosuje się w tunelu prowadzącym jezdnię:
-1) dwukierunkową o długości nieprzekraczającej 500 m;
-2) jednokierunkową o długości nieprzekraczającej 700 m.
+1) dwukierunkową – o długości nieprzekraczającej 500 m;
+2) jednokierunkową – o długości nieprzekraczającej 700 m.
 96. Dopuszcza się zastosowanie wentylacji naturalnej w tunelu o długości większej niż 250 m, pod warunkiem potwierdzenia skuteczności jej działania w analizie ryzyka, o której mowa w ust. 98 pkt 1.
 97. Zakres stosowania systemów wentylacji mechanicznej, działającej dzięki wymuszaniu przepływu powietrza wzdłuż lub w poprzek osi tunelu, z zastrzeżeniem ust. 98, określa tabela.
 Długość tunelu System wentylacji mechanicznej o oddzielnych konstrukcjach prowadzącego jezdnię dwukierunkową dla różnych kierunków ruchu wzdłużnej nie większa niż 1000 m nie większa niż 3000 m półpoprzecznej większa niż 250 m, ale nie większa większa niż 250 m, ale nie większa niż 1000 m niż 1000 m poprzecznej większa niż 1000 m większa niż 1000 m
 98. Wentylację mechaniczną wzdłużną lub półpoprzeczną można zastosować w tunelu o długości większej niż określono w ust. 97, prowadzącym jezdnie dwukierunkowe, lub w tunelu z dużym natężeniem ruchu jednokierunkowego, jeżeli spełniony jest co najmniej jeden z poniższych warunków:
 1) takie rozwiązanie jednoznacznie dopuszcza sporządzona analiza ryzyka, która obejmuje w szczególności analizę numeryczną skuteczności działania tego rodzaju wentylacji przy uwzględnieniu co najmniej następujących uwarunkowań tunelu: nachylenia, warunków topograficznych i klimatycznych, rodzaju ruchu pojazdów, przewozu towarów niebezpiecznych, scenariuszy pożarowych oraz strategii ewakuacji;
-2) przewidziano podjęcie szczególnych środków, takich jak: stosowne zarządzanie ruchem, krótsze odległości do wyjść
+2) przewidziano podjęcie szczególnych środków, takich jak: stosowne zarządzanie ruchem, krótsze odległości do wyjść awaryjnych lub punkty odprowadzające dym w odpowiednich odstępach wynikających z analizy ryzyka.
 99. Wentylacja mechaniczna wzdłużna powinna zapewniać możliwość wytworzenia takiej prędkości przepływu powietrza w tunelu, przy której nie następuje cofanie się dymu w kierunku przeciwnym do kierunku założonego, przy czym wartość tej prędkości w przypadku pożaru powinna być nie niższa niż 1,5 m/s, o ile z obliczeń prędkości krytycznej nie wynika wartość wyższa.
 100. Wentylacja mechaniczna poprzeczna, z poprzecznym ruchem powietrza na całej długości tunelu, działająca w wyniku różnicy ciśnień w kanałach umieszczanych wzdłuż tunelu, wymaga umieszczenia otworów:
-1) do doprowadzenia powietrza w dolnej części tunelu, na wysokości kół pojazdów;
-2) do odprowadzenia powietrza w części stropowej; dopuszcza się rezygnację z kanałów odprowadzających i usuwanie zużytego powietrza przez głowice tuneli lub pośrednie szyby wywiewne.
+1) do doprowadzenia powietrza – w dolnej części tunelu, na wysokości kół pojazdów;
+2) do odprowadzenia powietrza – w części stropowej; dopuszcza się rezygnację z kanałów odprowadzających i usuwanie zużytego powietrza przez głowice tuneli lub pośrednie szyby wywiewne.
 101. Wentylacja mechaniczna poprzeczna i wentylacja mechaniczna półpoprzeczna zastosowane w tunelu prowadzącym jezdnię dwukierunkową i posiadającym centrum kontroli powinny posiadać:
 1) klapy przeciwpożarowe w systemie wentylacji usuwania dymu i ciepła, które mogą być obsługiwane oddzielnie lub grupowo;
 2) możliwość monitorowania wzdłużnej prędkości przepływu powietrza i sterowania nią przez odpowiednią regulację przepustnic i wentylatorów systemu wentylacji.
@@ -829,49 +859,49 @@ Długość tunelu System wentylacji mechanicznej o oddzielnych konstrukcjach pro
 105. Wentylatory wywiewne we wszystkich systemach wentylacyjnych powinny być chłodzone lub przystosowane do pracy w podwyższonej temperaturze.
 106. W tunelu z wentylacją mechaniczną poprzeczną kanały świeżego i zużytego powietrza oddziela się przegrodami z materiałów lub wyrobów budowlanych co najmniej klasy A2, d0 reakcji na ogień, o klasie odporności ogniowej ze względu na szczelność ogniową (E) i dymoszczelność (S) co najmniej ES 120, zgodnie z Polską Normą dotyczącą klasyfikacji ogniowej wyrobów budowlanych.
 
-### DZIAŁ I Przepisy ogólne § 1. Rozporządzenie określa następujące przepisy techniczno-budowlane:
+### DZIAŁ I Przepisy ogólne
 
-### DZIAŁ II Podstawowe warunki § 6. Drogę sytuuje się w pasie drogowym tak, aby uwzględnić potrzebę ochrony drogi i jej użytkowników oraz terenów przyległych do pasa drogowego przed wzajemnym niekorzystnym oddziaływaniem.
+### DZIAŁ II Podstawowe warunki
 
 ### DZIAŁ III Warunki techniczne, jakim powinny odpowiadać drogi publiczne i ich usytuowanie
 
-#### Rozdział 1 Klasyfikacja dróg, prędkość do projektowania oraz pojazdy miarodajne § 11. Drogi dzielą się na klasy, które są oznaczone symbolem literowym lub opisowo:
+#### Rozdział 1 Klasyfikacja dróg, prędkość do projektowania oraz pojazdy miarodajne
 
 #### Rozdział 2 Części drogi
 
-##### Oddział 1 Jezdnie i pobocza na odcinkach poza obszarami skrzyżowań lub węzłów § 15. 1. Droga zamiejska, w zależności od klasy, powinna mieć liczbę jezdni głównych (n) i liczbę pasów ruchu na jezdni głównej (m) wyrażoną przekrojem o symbolu n/m:
+##### Oddział 1 Jezdnie i pobocza na odcinkach poza obszarami skrzyżowań lub węzłów
 
-##### Oddział 2 Części drogi przeznaczone do ruchu pieszych lub osób poruszających się przy użyciu urządzenia wspomagającego ruch § 27. 1. Do ruchu pieszych projektuje się drogę dla pieszych, drogę dla pieszych i rowerów lub pobocze.
+##### Oddział 2 Części drogi przeznaczone do ruchu pieszych lub osób poruszających się przy użyciu urządzenia wspomagającego ruch
 
-##### Oddział 3 Części drogi przeznaczone do ruchu rowerów, hulajnóg elektrycznych, urządzeń transportu osobistego lub osób poruszających się przy użyciu urządzenia wspomagającego ruch § 39. 1. Do ruchu rowerów i hulajnóg elektrycznych projektuje się drogę dla rowerów, drogę dla pieszych i rowerów lub jezdnię.
+##### Oddział 3 Części drogi przeznaczone do ruchu rowerów, hulajnóg elektrycznych, urządzeń transportu osobistego lub osób poruszających się przy użyciu urządzenia wspomagającego ruch
 
-##### Oddział 4 Części drogi przeznaczone do ruchu i obsługi pojazdów transportu zbiorowego § 47. 1. Do ruchu i obsługi pojazdów transportu zbiorowego projektuje się:
+##### Oddział 4 Części drogi przeznaczone do ruchu i obsługi pojazdów transportu zbiorowego
 
-##### Oddział 5 Stanowiska postojowe i miejsca obsługi podróżnych § 52. 1. W celu umożliwienia postoju pojazdów na drodze klasy GP, G, Z, L lub D projektuje się zatokę postojową lub parking, których rozmiary i wyposażenie powinny wynikać z przyjętej liczby i przeznaczenia stanowisk postojowych lub jezdni manewrowych. Do zatoki lub parkingu projektuje się dojście.
+##### Oddział 5 Stanowiska postojowe i miejsca obsługi podróżnych
 
-##### Oddział 6 Zjazdy, wyjazdy i wjazdy § 54. 1. Połączenie jezdni z nieruchomością gruntową usytuowaną poza pasem drogowym projektuje się jako jedno- lub dwukierunkowy zjazd.
+##### Oddział 6 Zjazdy, wyjazdy i wjazdy
 
-##### Oddział 7 Skrzyżowania i węzły § 57. 1. Drogę klasy A lub S łączy się z drogą klasy A, S, GP lub G, a drogę klasy S ‒ także z drogą klasy Z. Połączenie projektuje się w formie węzła.
+##### Oddział 7 Skrzyżowania i węzły
 
-##### Oddział 8 Pozostałe części drogi § 67. 1. W zależności od przyjętego systemu poboru opłat na drodze projektuje się miejsce poboru opłat lub miejsce do montażu urządzeń, które służą do poboru lub kontroli prawidłowości uiszczenia opłaty.
+##### Oddział 8 Pozostałe części drogi
 
-#### Rozdział 3 Budowle ziemne § 73. 1. Konstrukcję budowli ziemnej projektuje się w taki sposób, aby:
+#### Rozdział 3 Budowle ziemne
 
-#### Rozdział 4 Nawierzchnie § 75. 1. Konstrukcję nawierzchni części drogi projektuje się w taki sposób, aby przenosiła przewidywane obciążenia co najmniej w okresie użytkowania, przyjętym w dokumentacji projektowej.
+#### Rozdział 4 Nawierzchnie
 
-#### Rozdział 5 Skrajnia § 78. 1. Nad drogą zachowuje się przestrzeń wolną od przeszkód, przeznaczoną do prowadzenia ruchu, której kontur zwany jest dalej „skrajnią drogi”.
+#### Rozdział 5 Skrajnia
 
-#### Rozdział 6 Widoczność § 81. 1. Kierującemu pojazdem innym niż rower, hulajnoga elektryczna i urządzenie transportu osobistego zapewnia się:
+#### Rozdział 6 Widoczność
 
-#### Rozdział 7 Urządzenia drogi § 83. 1. Wody opadowe lub roztopowe z pasa drogowego albo dopływające do pasa drogowego po powierzchni terenu zagospodarowuje się za pomocą urządzeń do odwodnienia powierzchniowego. Nie zmienia się kierunku lub natężenia odpływu wód opadowych lub roztopowych z pasa drogowego ze szkodą dla gruntów sąsiednich ani nie odprowadza się tych wód na grunty sąsiednie, z wyjątkiem przypadków określonych w przepisach prawa wodnego.
+#### Rozdział 7 Urządzenia drogi
 
-#### Rozdział 8 Urządzenia obce § 97. 1. Urządzenie obce sytuuje się w pasie drogowym zgodnie z przepisami o drogach publicznych i w taki sposób, aby uwzględnić potrzebę ochrony drogi i zapewnienia bezpieczeństwa ruchu.
+#### Rozdział 8 Urządzenia obce
 
-#### Rozdział 9 Drogowe obiekty inżynierskie § 98. 1. Mosty, wiadukty i tunele dzieli się na:
+#### Rozdział 9 Drogowe obiekty inżynierskie
 
-#### Rozdział 10 Bezpieczeństwo pożarowe i przygotowanie do prowadzenia działań ratowniczych § 110. Droga powinna spełniać warunki dotyczące bezpieczeństwa pożarowego i przygotowania do prowadzenia działań ratowniczych określone w załączniku nr 3 do rozporządzenia.
+#### Rozdział 10 Bezpieczeństwo pożarowe i przygotowanie do prowadzenia działań ratowniczych
 
-### DZIAŁ IV Warunki techniczne użytkowania dróg publicznych § 111. Zarządca drogi stosuje system zarządzania, który ma na celu zaplanowanie działań związanych z jej utrzymaniem, w tym remontów, pozwalających osiągnąć i utrzymać odpowiedni stan techniczny drogi, a w rezultacie jej funkcjonalność, odpowiedni poziom bezpieczeństwa ruchu oraz zgodność z przepisami prawa, według założonej strategii w cyklu życia drogi, przy jak najmniejszym koszcie całkowitym i przy akceptowalnym poziomie ryzyka.
+### DZIAŁ IV Warunki techniczne użytkowania dróg publicznych
 
-### DZIAŁ V Przepisy przejściowe i końcowe § 115. 1. Do budowy lub przebudowy drogi publicznej, jeżeli przed dniem wejścia w życie niniejszego rozporządzenia:
+### DZIAŁ V Przepisy przejściowe i końcowe
 

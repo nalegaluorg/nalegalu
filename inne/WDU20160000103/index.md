@@ -8,10 +8,10 @@ pos: 103
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 stycznia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 103 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 15 stycznia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000103) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/103/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 15 stycznia 2016 r.
-w sprawie szczegółowej tematyki, formy oraz czasu trwania kursu doskonalącego umiejętności kwalifikowanych pracowników ochrony fizycznej Na podstawie art. 38b ust. 4 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2014 r. poz. 1099, z 2015 r. poz. 1505 oraz z 2016 r. poz. 65) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółową tematykę, formę oraz czas trwania kursu doskonalącego umiejętności teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia.
+w sprawie szczegółowej tematyki, formy oraz czasu trwania kursu doskonalącego umiejętności kwalifikowanych pracowników ochrony fizycznej Na podstawie art. 38b ust. 4 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2014 r. poz. 1099, z 2015 r. poz. 1505 oraz z 2016 r. poz. 65) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółową tematykę, formę oraz czas trwania kursu doskonalącego umiejętności teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia.
 § 2. Kurs doskonalący, o którym mowa w § 1, prowadzi się w formie wykładów lub zajęć praktycznych, o których mowa w załączniku do rozporządzenia.
 § 3. 1. Kurs doskonalący, o którym mowa w § 1, trwa 40 godzin.
 2. Szczegółową tematykę kursu doskonalącego, o którym mowa w § 1, oraz czas trwania i formę realizacji określa załącznik do rozporządzenia.
@@ -52,7 +52,7 @@ IV. Samoobrona i techniki interwencyjne w zakresie:
 2) technik wyprowadzania uderzeń i kopnięć oraz sposobów ich blokowania;
 3) padów i przewrotów w walce wręcz;
 4) sprowadzania do parteru z wykorzystaniem: podcięć, chwytów za głowę lub nogi;
-5) chwytów transportowych dźwigni na stawy kończyn górnych;
+5) chwytów transportowych – dźwigni na stawy kończyn górnych;
 6) uwalniania się z chwytów, obchwytów i duszeń;
 7) miejsc wrażliwych na ciele człowieka i sposobów obezwładniania;
 8) technik zakładania kajdanek i obszukiwania osób;

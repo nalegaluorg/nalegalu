@@ -8,10 +8,10 @@ pos: 1368
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lipca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1368 ROZPORZĄDZENIE MINISTRA ROZWOJU, PRACY I TECHNOLOGII z dnia 21 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,26 +25,26 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1368/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU, PRACY I TECHNOLOGII z dnia 21 lipca 2021 r.
-w sprawie ewidencji miejscowości, ulic i adresów Na podstawie art. 47b ust. 5 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
-poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie ewidencji miejscowości, ulic i adresów Na podstawie art. 47b ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
+poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy zakres informacji gromadzonych w bazach danych ewidencji miejscowości, ulic i adresów, zwanej dalej „ewidencją”;
 2) organizację i tryb tworzenia, aktualizacji i udostępniania baz danych ewidencji;
 3) wzór wniosku o ustalenie numeru porządkowego.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) ustawa ustawę z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne;
-2) rejestr TERYT krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2021 r. poz. 955);
-3) identyfikator TERC identyfikator jednostek podziału terytorialnego ustalony na podstawie systemu identyfikatorów i nazw jednostek podziału terytorialnego, o którym mowa w art. 47 ust. 2 pkt 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej;
-4) identyfikator SIMC identyfikator miejscowości ustalony na podstawie systemu identyfikatorów i nazw miejscowości, o którym mowa w art. 47 ust. 2 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej;
-5) identyfikator ULIC identyfikator nazwy ulicy ustalony na podstawie systemu identyfikacji adresowej ulic, nieruchomości, budynków i mieszkań, o którym mowa w art. 47 ust. 2 pkt 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej;
-6) ulica ulice i inne ciągi komunikacyjne, w szczególności aleje, bulwary, szosy i drogi, którym nadano nazwę;
-7) plac place i inne obszary na terenie miejscowości, w szczególności skwery, ronda, parki, rynki, osiedla, ogrody, wyspy i wybrzeża, którym nadano nazwę;
-8) obiekt budynki, o których mowa w art. 47a ust. 4 pkt 5 lit. a ustawy, oraz inne obiekty, o których mowa w art. 47a ust. 4a ustawy, którym nadaje się numery porządkowe;
-9) numer porządkowy unikalny numer nadany obiektowi, związany z ulicą lub placem znajdującymi się w danej miejscowości, a jeżeli w miejscowości nie nadaje się nazw ulicom i placom, numer określony unikalnie w obszarze danej miejscowości;
-10) adres jednoznaczny opis obiektu, realizowany przez wskazanie miejscowości, kodu pocztowego oraz ulicy lub placu i numeru porządkowego przy tej ulicy lub tym placu, a jeżeli w miejscowości nie nadaje się nazw ulicom lub placom, numeru porządkowego w miejscowości;
-11) punkt adresowy adres wraz z jego lokalizacją przestrzenną wyrażoną przez współrzędne płaskie prostokątne x, y;
-12) PRNG państwowy rejestr nazw geograficznych, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1 pkt 8 ustawy;
-13) PRG państwowy rejestr granic i powierzchni jednostek podziałów terytorialnych kraju, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1a ustawy.
+1) ustawa – ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+2) rejestr TERYT – krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2021 r. poz. 955);
+3) identyfikator TERC – identyfikator jednostek podziału terytorialnego ustalony na podstawie systemu identyfikatorów i nazw jednostek podziału terytorialnego, o którym mowa w art. 47 ust. 2 pkt 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej;
+4) identyfikator SIMC – identyfikator miejscowości ustalony na podstawie systemu identyfikatorów i nazw miejscowości, o którym mowa w art. 47 ust. 2 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej;
+5) identyfikator ULIC – identyfikator nazwy ulicy ustalony na podstawie systemu identyfikacji adresowej ulic, nieruchomości, budynków i mieszkań, o którym mowa w art. 47 ust. 2 pkt 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej;
+6) ulica – ulice i inne ciągi komunikacyjne, w szczególności aleje, bulwary, szosy i drogi, którym nadano nazwę;
+7) plac – place i inne obszary na terenie miejscowości, w szczególności skwery, ronda, parki, rynki, osiedla, ogrody, wyspy i wybrzeża, którym nadano nazwę;
+8) obiekt – budynki, o których mowa w art. 47a ust. 4 pkt 5 lit. a ustawy, oraz inne obiekty, o których mowa w art. 47a ust. 4a ustawy, którym nadaje się numery porządkowe;
+9) numer porządkowy – unikalny numer nadany obiektowi, związany z ulicą lub placem znajdującymi się w danej miejscowości, a jeżeli w miejscowości nie nadaje się nazw ulicom i placom, numer określony unikalnie w obszarze danej miejscowości;
+10) adres – jednoznaczny opis obiektu, realizowany przez wskazanie miejscowości, kodu pocztowego oraz ulicy lub placu i numeru porządkowego przy tej ulicy lub tym placu, a jeżeli w miejscowości nie nadaje się nazw ulicom lub placom, numeru porządkowego w miejscowości;
+11) punkt adresowy – adres wraz z jego lokalizacją przestrzenną wyrażoną przez współrzędne płaskie prostokątne x, y;
+12) PRNG – państwowy rejestr nazw geograficznych, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1 pkt 8 ustawy;
+13) PRG – państwowy rejestr granic i powierzchni jednostek podziałów terytorialnych kraju, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1a ustawy.
 § 3. 1. Ewidencja zawiera informacje o:
 1) miejscowościach;
 2) ulicach i placach;
@@ -70,6 +70,7 @@ poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje: § 1. Rozporz�
 1) numer porządkowy;
 2) datę nadania numeru porządkowego;
 3) kod pocztowy;
+4) współrzędne płaskie prostokątne x, y.
 4. W miejscowościach o charakterze miasta numery porządkowe są obligatoryjnie przypisane do ulic lub placów.
 5. W przypadku miejscowości, w której ulicom i placom nie nadaje się nazw, ewidencja zawiera zbiory punktów adresowych, o których mowa w ust. 3, dla całej miejscowości.
 § 5. Specyfikację pojęciowego modelu danych ewidencji określa załącznik nr 1 do rozporządzenia.
@@ -91,7 +92,8 @@ poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje: § 1. Rozporz�
 5) jeżeli plac powstaje z rozszerzenia lub skrzyżowania ulic, dla obiektów przylegających do placu ustala się kolejne numery porządkowe jednej z ulic przechodzących przez plac.
 12. Przy nadawaniu numerów porządkowych pozostawia się wolne numery pod prognozowaną zabudowę, uwzględniając ład przestrzenny w całej miejscowości lub ład w obrębie danej ulicy lub danego placu.
 13. Wzór wniosku o ustalenie numeru porządkowego, o którym mowa w art. 47a ust. 6 ustawy, określa załącznik nr 2 do rozporządzenia.
-14. Wzór wniosku w postaci elektronicznej umieszcza się, przechowuje oraz udostępnia w centralnym repozytorium wzorów dokumentów elektronicznych, o którym mowa w art. 19b ustawy z dnia 17 lutego 2005 r. o informatyzacji działal§ 7. 1. Obiektom przestrzennym ewidencji oznaczającym ulice i place oraz punkty adresowe jest nadawany identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się:
+14. Wzór wniosku w postaci elektronicznej umieszcza się, przechowuje oraz udostępnia w centralnym repozytorium wzorów dokumentów elektronicznych, o którym mowa w art. 19b ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005).
+§ 7. 1. Obiektom przestrzennym ewidencji oznaczającym ulice i place oraz punkty adresowe jest nadawany identyfikator infrastruktury informacji przestrzennej, zwany dalej „identyfikatorem IdIIP”, na który składają się:
 1) przestrzeń nazw, utworzona z identyfikatora zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, według ewidencji zbiorów oraz usług danych przestrzennych infrastruktury informacji przestrzennej, o której mowa w przepisach wydanych na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2021 r. poz. 214), uzupełniona po kropce skrótem „EMUiA”;
 2) identyfikator lokalny wyróżniający w sposób jednoznaczny dany obiekt bazy danych od innych obiektów zapisanych w tej bazie;
 3) identyfikator wersji obiektu.
@@ -113,19 +115,20 @@ o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. z 2019 
 § 11. 1. Informacje zawarte w ewidencji udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej.
 2. Specyfikację usług, o których mowa w ust. 1, dotyczących udostępniania danych ewidencji, określa załącznik nr 3 do rozporządzenia.
 § 12. 1. Numery porządkowe o strukturze niespełniającej wymogów określonych w § 6 ust. 1–3, nadane przed wejściem w życie niniejszego rozporządzenia, mogą być stosowane w ewidencji miejscowości, ulic i adresów, jeżeli zapewniają unikalność związanych z nimi adresów i ich czytelną identyfikację w terenie w powiązaniu z adresami sąsiednimi.
-2. W przypadku gdy w dniu wejścia w życie niniejszego rozporządzenia istnieją numery porządkowe niespełniające wymogów określonych w § 6 ust. 1–3, które nie zapewniają unikalności związanych z nimi adresów i czytelnej identyfikacji w terenie w powiązaniu z adresami sąsiednimi lub numery porządkowe powtórzone, organ prowadzący ewidencję miejsco3. W przypadku gdy w dniu wejścia w życie niniejszego rozporządzenia istnieją numery porządkowe niespełniające wymogów określonych w § 6 ust. 4, organ prowadzący ewidencję miejscowości, ulic i adresów dokonuje przenumerowania z urzędu albo wnosi do rady gminy o wszczęcie procedury zmiany rodzaju miejscowości zgodnie z art. 8 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych.
+2. W przypadku gdy w dniu wejścia w życie niniejszego rozporządzenia istnieją numery porządkowe niespełniające wymogów określonych w § 6 ust. 1–3, które nie zapewniają unikalności związanych z nimi adresów i czytelnej identyfikacji w terenie w powiązaniu z adresami sąsiednimi lub numery porządkowe powtórzone, organ prowadzący ewidencję miejscowości, ulic i adresów dokonuje odpowiedniego przenumerowania z urzędu.
+3. W przypadku gdy w dniu wejścia w życie niniejszego rozporządzenia istnieją numery porządkowe niespełniające wymogów określonych w § 6 ust. 4, organ prowadzący ewidencję miejscowości, ulic i adresów dokonuje przenumerowania z urzędu albo wnosi do rady gminy o wszczęcie procedury zmiany rodzaju miejscowości zgodnie z art. 8 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych.
 § 13. Ewidencja miejscowości, ulic i adresów prowadzona na podstawie dotychczasowych przepisów staje się ewidencją miejscowości, ulic i adresów w rozumieniu niniejszego rozporządzenia.
 § 14. Organ prowadzący ewidencję miejscowości, ulic i adresów w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia dostosuje ewidencję miejscowości, ulic i adresów prowadzoną na podstawie dotychczasowych przepisów do przepisów niniejszego rozporządzenia.
 § 15. Rozporządzenie wchodzi w życie z dniem 31 lipca 2021 r.
-Minister Rozwoju, Pracy i Technologii: J. Gowin SPECYFIKACJA POJĘCIOWEGO MODELU DANYCH EWIDENCJI MIEJSCOWOŚCI, ULIC I ADRESÓW Załączniki do rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 21 lipca 2021 r. (Dz. U. poz. …) Załącznik nr 1 SPECYFIKACJA POJĘCIOWEGO MODELU DANYCH EWIDENCJI MIEJSCOWOŚCI, ULIC I ADRESÓW
+Minister Rozwoju, Pracy i Technologii: J. Gowin Załączniki do rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 21 lipca 2021 r. (Dz. U. poz. …) Załącznik nr 1 SPECYFIKACJA POJĘCIOWEGO MODELU DANYCH EWIDENCJI MIEJSCOWOŚCI, SPECYFIKACJA POJĘCIOWEGO MODELU ULIC DANYCH I ADRESÓW EWIDENCJI MIEJSCOWOŚCI, ULIC I ADRESÓW
 1. Model pojęciowy danych ewidencji miejscowości, ulic i adresów przedstawia diagram nr 1.
 2. Ograniczenia nałożone na atrybuty.
 Klasa: AD_UlicaPlac Nazwa: Geometria - multilinia Język naturalny: Geometria obiektu o rodzaju 'ulica', 'aleja', 'bulwar', 'rondo', 'szosa', 'droga', ‘innyLiniowy’ musi być linią lub multilinią.
 OCL: inv: self.rodzaj = 'ulica' or self.rodzaj = 'aleja' or self.rodzaj = 'bulwar' or self.rodzaj = 'rondo' or self.rodzaj = 'szosa' or self.rodzaj = 'droga' or self.rodzaj = 'innyLiniowy' implies inv: self.geometria.oclIsTypeOf(GM_MultiCurve) Nazwa: Geometria - powierzchnia Język naturalny: Geometria obiektu o rodzaju 'plac', 'skwer', 'park', 'rynek', 'osiedle', 'ogrod', 'wyspa', 'wybrzeze', ‘innyPowierzchniowy’ musi być powierzchnią.
 OCL: inv: self.rodzaj = 'plac' self.rodzaj = 'skwer' or self.rodzaj = 'park' or self.rodzaj = 'rynek' or self.rodzaj ='osiedle' or self.rodzaj = 'ogrod' or self.rodzaj = 'wyspa' or self.rodzaj = 'wybrzeze' or self.rodzaj = 'innyPowierzchniowy' implies inv: self.geometria.oclIsTypeOf(GM_Surface) Nazwa: liczbaZnakowNumerPorzadkowy Język naturalny: Atrybut „numer porządkowy” nie może zawierać więcej niż 10 znaków.
-OCL: inv: AD_PunktAdresowy.length(numerPorzadkowy)<=10 Załącznik nr 2 WZÓR ……………………………… (data) Wnioskodawca: Adresat: …………………………………. …………………………… (imię i nazwisko/nazwa wnioskodawcy) (nazwa organu) …………………………............. …………………………….
+OCL: inv: AD_PunktAdresowy.length(numerPorzadkowy)<=10 Załącznik nr 2 WZÓR WZÓR ……………………………… (data) Wnioskodawca: Adresat: …………………………………. …………………………… (imię i nazwisko/nazwa wnioskodawcy) (nazwa organu) …………………………............. …………………………….
 …………………………………. …………………………….
 (adres) (adres) ………………………………….
 (nr telefonu/adres e-mail) WNIOSEK O USTALENIE NUMERU PORZĄDKOWEGO Wnoszę o ustalenie numeru porządkowego budynkowi/budynkom zlokalizowanemu/-nym w miejscowości ……………….………………………………………………………………..
-na działce ewidencyjnej …………… w obrębie ………………………….…………………… ………………………… (podpis wnioskodawcy) WZÓR SPECYFIKACJA USŁUG PRZEGLĄDANIA I POBIERANIA DOTYCZĄCYCH UDOSTĘPNIANIA DANYCH EWIDENCJI MIEJSCOWOŚCI, ULIC I ADRESÓW SPECYFIKACJA USŁUG PRZEGLĄDANIA I POBIERANIA DOTYCZĄCYCH UDOSTĘPNIANIA DANYCH EWIDENCJI MIEJSCOWOŚCI, ULIC I ADRESÓW
+na działce ewidencyjnej …………… w obrębie ………………………….…………………… ………………………… (podpis wnioskodawcy) SPECYFIKACJA SPECYFIKACJA USŁUG PRZEGLĄDANIA USŁUG PRZEGLĄDANIA I POBIERANIA I DOTYCZĄCYCH POBIERANIA DOTYCZĄCYCH UDOSTĘPNIANIA DANYCH UDOSTĘPNIANIA EWIDENCJI DANYCH MIEJSCOWOŚCI, EWIDENCJI MIEJSCOWOŚCI, ULIC I ADRESÓW ULIC I ADRESÓW
 

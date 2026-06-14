@@ -8,7 +8,7 @@ pos: 1121
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
@@ -297,6 +297,12 @@ Art. 40–42. (pominięte)
 
 **Art. 22b.** Marszałek województwa, o którym mowa w art. 15 ust. 3, w prowadzonych postępowaniach o wypłatę świadczeń, o których mowa w art. 12a, art. 14 i art. 15a, a także przy dochodzeniu zwrotu wypłaconych świadczeń, ma prawo do:
 
+- **1)** uzyskiwania pisemnych informacji i dokumentów dotyczących składania deklaracji i opłacania należnych podatków, na wniosek składany do urzędu skarbowego,
+- **2)** uzyskiwania pisemnych informacji i dokumentów dotyczących ustaleń dokonanych w ramach przeprowadzonych u pracodawcy kontroli, na wniosek składany do Państwowej Inspekcji Pracy,
+- **3)** uzyskiwania danych zgromadzonych przez Zakład Ubezpieczeń Społecznych na kontach płatników składek i kontach ubezpieczonych, na wniosek zawierający dane identyfikacyjne płatnika składek lub ubezpieczonego, określone w art. 50 ust. 7 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
+- **4)** wglądu do akt sądowych w postępowaniach w przedmiocie ogłoszenia upadłości pracodawcy, postępowaniach upadłościowych i postępowaniach restrukturyzacyjnych na wniosek składany do sądu upadłościowego lub restrukturyzacyjnego,
+- **5)** wglądu do akt egzekucyjnych dotyczących prowadzonych przeciwko pracodawcy postępowań egzekucyjnych na wniosek składany do organów egzekucyjnych – w zakresie niezbędnym do prowadzonych postępowań.
+
 #### Rozdział 5 Zakres oraz tryb zwrotu środków do Funduszu Gwarantowanych Świadczeń Pracowniczych
 
 **Art. 23.**
@@ -571,6 +577,9 @@ Art. 40–42. (pominięte)
 **Art. 49.** (pominięty)
 
 **Art. 50.** Traci moc:
+
+- **1)** ustawa z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2002 r. poz. 85, z późn. zm. );
+- **2)** ustawa z dnia 28 czerwca 1995 r. o zaspokajaniu ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych niektórych świadczeń przysługujących emerytom i rencistom (Dz. U. poz. 436 oraz z 1996 r. poz. 267).
 
 **Art. 51.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia .
 

@@ -8,7 +8,7 @@ pos: 1022
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu programu wieloletniego „Wymiana śmigłowców Samodzielnego Publicznego Zakładu Opieki Zdrowotnej – Lotnicze Pogotowie Ratunkowe w latach 2005-2010”
@@ -31,9 +31,9 @@ source: "isap-pdf"
 
 1. Ustanawia się wieloletni program „Wymiana śmigłowców Samodzielnego Publicznego Zakładu Opieki Zdrowotnej – Lotnicze Pogotowie Ratunkowe w latach 2005-2010”, zwany dalej „programem”.
 
-2. Celem programu jest wyposażenie Samodzielnego Publicznego Zakładu Opieki Zdrowotnej – Lotnicze Pogotowie Ratunkowe z siedzibą w Warszawie w 23 śmigłowce spełniające wymogi określone w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. 130, 1112, z późn. zm. ) oraz symulator lotów do szkolenia pilotów.
+2. Celem programu jest wyposażenie Samodzielnego Publicznego Zakładu Opieki Zdrowotnej – Lotnicze Pogotowie Ratunkowe z siedzibą w Warszawie w 23 śmigłowce spełniające wymogi określone w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. Nr 130, poz. 1112, z późn. zm. ) oraz symulator lotów do szkolenia pilotów.
 
-3. Program jest programem wieloletnim w rozumieniu art. 80 ust. 2 ust. 3 pkt 7 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. 15, 148, z późn. zm. ).
+3. Program jest programem wieloletnim w rozumieniu art. 80 ust. 2 i ust. 3 pkt 7 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. Nr 15, poz. 148, z późn. zm. ).
 
 **Art. 2.**
 
@@ -47,7 +47,7 @@ source: "isap-pdf"
 
 2. Rozpoczęcie realizacji programu nastąpi w 2005 r., natomiast zakończy się do dnia 31 grudnia 2010 r.
 
-3. Harmonogram realizacji programu stanowić będzie załącznik do umowy zawartej przez zamawiającego z wykonawcą wyłonionym w drodze postępowania o udzielenie zamówienia publicznego, zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. 19, 177, z późn. zm. ).
+3. Harmonogram realizacji programu stanowić będzie załącznik do umowy zawartej przez zamawiającego z wykonawcą wyłonionym w drodze postępowania o udzielenie zamówienia publicznego, zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. Nr 19, poz. 177, z późn. zm. ).
 
 4. Minister może upoważnić Dyrektora Samodzielnego Publicznego Zakładu Opieki Zdrowotnej – Lotnicze Pogotowie Ratunkowe z siedzibą w Warszawie do wykonywania zadań związanych z programem w ramach ustalonych rocznych limitów finansowych.
 

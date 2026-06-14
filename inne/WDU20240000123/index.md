@@ -8,7 +8,7 @@ pos: 123
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024
@@ -294,6 +294,9 @@ source: "isap-pdf"
 
 **Art. 31.** W roku 2024 Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54), dokonuje wpłat, o których mowa w:
 
+- **1)** art. 401c ust. 11a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
+- **2)** art. 5 ust. 1 pkt 1 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983) – w formie równych rat kwartalnych, z zastrzeżeniem że pierwsza rata będzie płatna do dnia 25 kwietnia 2024 r., a pozostałe raty będą płatne zgodnie z obowiązującym harmonogramem.
+
 **Art. 31a.**
 
 1. W roku 2024 jednostki samorządu terytorialnego w celu wsparcia realizacji zadań otrzymują dodatkowe dochody w łącznej wysokości 10 000 000 000 zł, z czego:
@@ -333,9 +336,24 @@ source: "isap-pdf"
 
 **Art. 32.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2023 r. poz. 343) w art. 69h:
 
+- **1)** w ust. 1 wyrazy „w latach 2019–2023” zastępuje się wyrazami „w latach 2019– 2024”;
+- **2)** w ust. 11 wyrazy „W latach 2021–2023” zastępuje się wyrazami „W latach 2021–2024”.
+
 **Art. 33.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2023 r. poz. 2692) po art. 29p dodaje się art. 29q w brzmieniu: „Art. 29q. W 2024 r. kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana.”.
 
 **Art. 34.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005) po art. 70u dodaje się art. 70v i art. 70w w brzmieniu: „Art. 70v. 1. W roku 2024 korekty dochodów za rok 2022 z tytułu udziału we wpływach z podatku dochodowego od osób prawnych, o której mowa w art. 9c, nie dokonuje się w odniesieniu do jednostek samorządu terytorialnego, które spełniają łącznie następujące warunki:
+
+- **1)** średnioroczny wzrost dochodów z tytułu udziału we wpływach z podatku dochodowego od osób prawnych w latach 2020–2024 jest wyższy niż 20%;
+- **2)** planowane na rok 2024 dochody z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych są wyższe o co najmniej 100% od dochodów z tych tytułów w roku 2020;
+- **3)** wskaźnik dochodów podatkowych gminy, powiatu lub województwa, wyliczony na rok 2024, jest wyższy od 110% średniego wskaźnika dochodów podatkowych wyliczonego odpowiednio dla wszystkich gmin, powiatów lub województw na rok 2024.
+
+2. Do obliczenia wskaźników dochodów podatkowych, o których mowa w ust. 1 pkt 3, stosuje się odpowiednio przepisy:
+
+- **1)** art. 20 ust. 2–5 – w przypadku gmin,
+- **2)** art. 22 ust. 2–5 – w przypadku powiatów,
+- **3)** art. 24 ust. 2–5 – w przypadku województw – z tym że do obliczenia przyjmuje się planowane na rok 2024 dochody z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych bez korekty, o której mowa w art. 9c.
+
+3. Do ustalenia na rok 2024 części wyrównawczej subwencji ogólnej dla gmin, powiatów i województw oraz części regionalnej subwencji ogólnej dla województw, a także wpłat do budżetu państwa, o których mowa w art. 29, art. 30 i art. 70a, przyjmuje się dochody jednostek samorządu terytorialnego planowane na rok 2024, z tytułu udziału we wpływach z podatku dochodowego od osób prawnych, z uwzględnieniem korekty ustalonej w sposób określony w ust. 1.
 
 **Art. 70w.**
 
@@ -362,9 +380,35 @@ source: "isap-pdf"
 
 **Art. 37.** W ustawie z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. z 2023 r. poz. 904 i 1586) w art. 27 w ust. 1:
 
+- **1)** we wprowadzeniu do wyliczenia wyrazy „1373,35 mln zł” zastępuje się wyrazami „1407,25 mln zł”;
+- **2)** pkt 6 otrzymuje brzmienie: „6) 2024 r. – 161,00 mln zł;”.
+
 **Art. 38.** W ustawie z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm. ) w art. 137 w ust. 1 pkt 6 otrzymuje brzmienie: „6) w 2024 r. – 358 mln zł;”.
 
 **Art. 39.** W ustawie z dnia 11 września 2019 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 2170 oraz z 2022 r. poz. 2666) w art. 17:
+
+- **1)** w ust. 1:
+    - **a)** we wprowadzeniu do wyliczenia wyrazy „1 249,345 mln zł” zastępuje się wyrazami „1 315,384 mln zł”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) 2024 r. – 199,117 mln zł, w tym na realizację zadań:
+    - **a)** państwowej służby hydrologiczno-meteorologicznej i państwowej służby do spraw bezpieczeństwa budowli piętrzących – 172,430 mln zł,
+    - **b)** państwowej służby geologicznej, o których mowa w przepisach ustawy zmienianej w art. 1 – 26,687 mln zł;”;
+
+- **2)** w ust. 2 po wyrazach „w ust. 1” dodaje się wyrazy „pkt 1–5 i 7–10”;
+- **3)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. W roku 2024 minister właściwy do spraw gospodarki wodnej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 pkt 6 lit. a, na realizację zadań służby hydrologiczno-meteorologicznej i państwowej służby do spraw bezpieczeństwa budowli piętrzących oraz wdraża mechanizm korygujący, o którym mowa w ust. 4.
+
+2b. W roku 2024 minister właściwy do spraw środowiska monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 pkt 6 lit. b, na realizację zadań państwowej służby geologicznej, oraz wdraża mechanizm korygujący, o którym mowa w ust. 5.”;
+
+- **4)** w ust. 3 we wprowadzeniu do wyliczenia po wyrazach „w ust. 1” dodaje się wyrazy „pkt 1–5 i 7–10”;
+- **5)** dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na rok budżetowy 2024 maksymalnego limitu wydatków określonego w ust. 1 pkt 6 lit. a na realizację zadań państwowej służby hydrologiczno-meteorologicznej i państwowej służby do spraw bezpieczeństwa budowli piętrzących oraz w przypadku gdy część planowanych wydatków, o których mowa w ust. 1 pkt 6 lit. a, na realizację tych zadań, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
+- **1)** po pierwszym kwartale – co najmniej o 20%,
+- **2)** po dwóch kwartałach – co najmniej o 15%,
+- **3)** po trzech kwartałach – co najmniej o 10% – minister właściwy do spraw gospodarki wodnej stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji tych zadań.
+
+5. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na rok budżetowy 2024 maksymalnego limitu wydatków określonego w ust. 1 pkt 6 lit. b na realizację zadań państwowej służby geologicznej oraz w przypadku gdy część planowanych wydatków, o których mowa w ust. 1 pkt 6 lit. b, na realizację tych zadań, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
+
+- **1)** po pierwszym kwartale – co najmniej o 20%,
+- **2)** po dwóch kwartałach – co najmniej o 15%,
+- **3)** po trzech kwartałach – co najmniej o 10% – minister właściwy do spraw środowiska stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji tych zadań.”.
 
 **Art. 40.** W ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2023 r. poz. 759 i 2760) w art. 15 wyrazy „do dnia 31 grudnia 2023 r.” zastępuje się wyrazami „do dnia 31 grudnia 2024 r.”.
 

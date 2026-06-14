@@ -8,10 +8,10 @@ pos: 1211
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 czerwca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1211 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 15 czerwca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1211/text.pdf) |
 
-Poz. 1211 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 15 czerwca 2018 r.
-w sprawie udzielania przez Agencję Bezpieczeństwa Wewnętrznego lub Agencję Wywiadu pomocy przy wykonywaniu czynności egzekucyjnych w postępowaniu egzekucyjnym w administracji Na podstawie art. 46 § 3 pkt 3 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie udzielania przez Agencję Bezpieczeństwa Wewnętrznego lub Agencję Wywiadu pomocy przy wykonywaniu czynności egzekucyjnych w postępowaniu egzekucyjnym w administracji Na podstawie art. 46 § 3 pkt 3 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób udzielania pomocy przez Agencję Bezpieczeństwa Wewnętrznego, zwaną dalej „ABW”, lub Agencję Wywiadu, zwaną dalej „AW”, organowi egzekucyjnemu lub egzekutorowi przy wykonywaniu czynności egzekucyjnych;
 2) przypadki, w których jest wymagana pomoc organu ABW lub AW przy wykonywaniu czynności egzekucyjnych;
 3) sposób postępowania i tryb występowania przez organ egzekucyjny lub egzekutora do ABW lub AW o udzielenie pomocy przy wykonywaniu czynności egzekucyjnych;
@@ -36,7 +36,7 @@ w sprawie udzielania przez Agencję Bezpieczeństwa Wewnętrznego lub Agencję W
 § 2. ABW lub AW udziela organowi egzekucyjnemu pomocy przy wykonywaniu czynności egzekucyjnych, w przypadku gdy w toku wykonywania tych czynności, niezależnie od miejsca ich przeprowadzania, organ egzekucyjny natrafi na opór funkcjonariusza, który uniemożliwia lub utrudnia przeprowadzenie egzekucji, albo jeżeli istnieje uzasadnione podejrzenie, że organ egzekucyjny na taki opór natrafi.
 § 3. 1. Kierownik jednostki organizacyjnej ABW lub AW właściwej ze względu na miejsce prowadzenia egzekucji, zwany dalej „kierownikiem jednostki”, udziela pomocy przy wykonywaniu czynności egzekucyjnych organowi egzekucyjnemu lub egzekutorowi po otrzymaniu, co najmniej na 7 dni przed terminem czynności egzekucyjnych, pisemnego wezwania do udzielenia pomocy oraz sporządzonego przez organ egzekucyjny odpisu tytułu wykonawczego, na podstawie którego jest przeprowadzana egzekucja.
 2. W pilnych przypadkach, zwłaszcza gdy zwłoka groziłaby udaremnieniem egzekucji, udzielenie pomocy może nastąpić także na ustne wezwanie organu egzekucyjnego lub egzekutora. W takim przypadku kierownik jednostki, nie wstrzymując udzielenia pomocy, żąda okazania tytułu wykonawczego, na podstawie którego jest prowadzona egzekucja, a także nadesłania, w terminie do 7 dni po zakończeniu czynności egzekucyjnych, potwierdzenia wezwania, o którym mowa w ust. 1, na piśmie wraz ze sporządzonym przez organ egzekucyjny odpisem tytułu wykonawczego.
-Dziennik Ustaw – 2 – Poz. 1211 § 4. 1. Pomoc przy wykonywaniu czynności egzekucyjnych polega na umożliwieniu przeprowadzenia tych czynności, w szczególności przez zapewnienie:
+§ 4. 1. Pomoc przy wykonywaniu czynności egzekucyjnych polega na umożliwieniu przeprowadzenia tych czynności, w szczególności przez zapewnienie:
 1) dostępu do miejsca, w którym mają być one wykonywane;
 2) porządku w miejscu przeprowadzania czynności egzekucyjnych;
 3) osobistego bezpieczeństwa organowi egzekucyjnemu lub egzekutorowi oraz uczestnikom postępowania egzekucyjnego;

@@ -8,10 +8,10 @@ pos: 415
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 kwietnia 2012 r.
+# DZIENNIK USTAW l RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 kwietnia 2012 v r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,42 +25,49 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000415) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/415/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA dnia 5 kwietnia 2012 r.
-sprawie lekarzy odbywających szkolenie specjalizacyjne Na podstawie art. 16p 6 ustawy dnia 5 grudnia 1996 r. o zawodach lekarza lekarza dentysty (Dz. U. 2011 r.
-277, 1634 291, 1707 oraz 2012 r. 95) zarządza się, co następuje: Rozporządzenie określa:
-1) sposób tryb przekazywania lekarzy odbywających szkolenie specjalizacyjne, zwanego dalej „rejestrem”, danych określonych art. 16p ustawy dnia 5 grudnia 1996 r. o zawodach lekarza lekarza dentysty, zwanej dalej „ustawą”;
-2) szczegółowy sposób prowadzenia rejestru;
-3) sposób udostępniania danych wpisanych rejestru.
-2. Wojewoda, Minister Obrony Narodowej oraz minister właściwy spraw wewnętrznych wyznacza osobę przekazywania danych współpracy Centrum Medycznego Kształcenia Podyplomowego, zwanym dalej „Centrum”, sprawach związanych uzupełnianiem modyfikacją danych wpisanych przekazuje upoważnienie tej osoby dyrektorowi Centrum.
-2. Przekazywanie danych polega na umieszczaniu danych elektronicznej bazie danych rejestrowych, uzupełnianiu modyfikacji danych rejestrowych oraz wykreślaniu danych za pomocą systemu ewidencyjno-informatycznego.
-3. Dane są przekazywane drogą elektroniczną danych zaszyfrowanych gwarantujących ich bezpieczeństwo poufność.
+Poz. 415 o ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 kwietnia g 2012 r.
+w sprawie rejestru lekarzy odbywających szkolenie specjalizacyjne Na podstawie art. 16p ust. 6 ustawy z dnia 5 grudnia . 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r.
+Nr 277, poz. 1634 i Nr 291, poz. 1707 oraz z 2012 r. poz. 95) zarządza się, co następuje: l
+§ 1. Rozporządzenie określa: c
+1) s posób i tryb przekazywania do rejestru lekarzy odbywających szkolenie specjalizacyjne, zwanego dalej „rejestrem”, danych określonych w art. 16p ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, zwanej dalej „ustawą”;
+2) szczegółowy sposób prowadzenia r rejestru;
+3) sposób udostępniania danych wpisanych do rejestru.
+.
+§ 2. 1. Wojewoda, Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych wyznacza osobę do przekazywania danych w do rejestru i współpracy z Centrum Medycznego Kształcenia Podyplomowego, zwanym dalej „Centrum”, w sprawach związanych z uzupełnianiem i modyfikacją danych wpisanych do rejestru i przekazuje upoważnienie tej osoby dyrektorowi Centrum.
+2. Przekazywanie danych do rejestru polega na umieszczaniu danych w elektronicznej bazie danych rejestrowych, uzupełnianiu i modyfikacji danych rejestrowych oraz wykreślaniu danych z rejestru za pomocą systemu ewidencyjno-informatycznego.
+3. Dane są przekazywane do rejestru drogą elektroniczną w postaci danych zaszyfrowanych gwarantujących ich bezpieczeństwo i poufność.
 4. Centrum:
-1) dostarcza upoważnionym osobom przekazującym dane system ewidencyjno-informatyczny służący umieszczania aktualizacji danych rejestrze oraz program szyfrujący;
+1) d ostarcza upoważnionym osobom przekazującym dane do rejestru system ewidencyjno-informatyczny służący do umieszczania i aktualizacji danych w rejestrze oraz program szyfrujący;
 2) ustala sposób szyfrowania danych.
-5. Dane są przekazywane według stanu na ostatni dzień każdego kwartału kalendarzowego terminie 7 dni roboczych od zakończenia danego kwartału.
-2. Struktura elektronicznej bazy danych rejestrowych składa się rekordów pól. Każdy rekord odpowiada jednemu lekarzowi odbywającemu szkolenie specjalizacyjne.
-3. Rekordy pola elektronicznej bazy danych rejestrowych stanowią zbiór danych objętych wpisem rejestru.
-4. Wpis polega na umieszczeniu za pomocą systemu ewidencyjno-informatycznego danych elektronicznej bazie danych rejestrowych.
-5. Wpis zmian rejestrze polega na uzupełnieniu, modyfikacji lub wykreśleniu danych rejestrowych za pomocą systemu ewidencyjno-informatycznego elektronicznej bazie danych rejestrowych.
-6. Centrum zapewnia warunki techniczne umożliwiające prowadzenie rejestru, kontroluje przekazywane dane pod względem ich jakości kompletności, konsoliduje dane oraz sprawuje nadzór nad gromadzeniem danych rejestrze bezpieczeństwem elektronicznej bazy danych rejestrowych.
-7. Rejestr jest zabezpieczony sposób uniemożliwiający dostęp danych przez osoby nieupoważnione.
-4. Centrum udostępnia dane wpisane użytkownikom wymienionym art. 16p 3 ustawy.
-2. Dane wpisane rejestru, obejmujące dane osobowe, udostępnia się drogą elektroniczną wykorzystaniem systemu szyfrowania danych osobie upoważnionej przez użytkownika rejestru, na wniosek użytkownika rejestru.
-3. Dane wpisane rejestru, niebędące danymi osobowymi, udostępnia się drogą elektroniczną wykorzystaniem bezpiecznego połączenia internetowego systemem logowania hasła osobom upoważnionym przez użytkownika rejestru, na wniosek użytkownika rejestru.
-4. Użytkownik przekazuje dyrektorowi Centrum listę osób upoważnionych dostępu danych wymienionych 3, którym Centrum dostarcza login hasło dostępu.
-5. Lista osób upoważnionych przez użytkownika zawiera imię, nazwisko stanowisko służbowe osoby upoważnionej.
-5. Podmiotom niewymienionym art. 16p 3 ustawy, niebędącym podmiotami, o których mowa art. 15 1 ustawy dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 64, 565, późn. zm. ), dane wpisane udostępnia się na wniosek złożony formie pisemnej papierowej lub elektronicznej, który zawiera:
-1) imię, nazwisko adres miejsca zamieszkania albo nazwę adres siedziby podmiotu ubiegającego się o udostępnienie danych wpisanych rejestru;
-2) uzasadnienie interesu prawnego uzyskania danych wpisanych rejestru;
-3) określenie zakresu danych wskazanie okresu, którego mają dotyczyć udostępniane dane;
-4) wskazanie sposobu udostępnienia danych oraz podanie odpowiednio adresu korespondencji albo adresu poczty elektronicznej;
-5) własnoręczny podpis, przypadku złożenia wniosku papierowej;
-6) bezpieczny podpis elektroniczny weryfikowany za pomocą ważnego kwalifikowanego certyfikatu lub podpis potwierdzony profilem zaufanym ePUAP, przypadku złożenia wniosku elektronicznej.
-2. W przypadku stwierdzenia braków we wniosku, dyrektor Centrum lub osoba przez niego upoważniona wzywa wnioskodawcę uzupełnienia wniosku terminie 7 dni od dnia doręczenia wezwania, pouczeniem że nieuzupełnienie braków spowoduje pozostawienie wniosku bez rozpoznania.
-madzonych rejestrze publicznym (Dz. U. 205, 1692).
+5. Dane są przekazywane do rejestru według stanu na ostatni dzień każdego kwartału kalendarzowego w terminie 7 dni roboczych od zakończenia danego kwartału.
+§ 3. 1. Rejestr jest prowadzony w postaci elektronicznej bazy danych rejestrowych według układu danych określonego w art. 16p ust. 2 ustawy.
+2. Struktura elektronicznej bazy danych rejestrowych składa się z rekordów i pól. Każdy rekord odpowiada jednemu lekarzowi odbywającemu szkolenie specjalizacyjne.
+3. Rekordy i pola elektronicznej bazy danych rejestrowych stanowią zbiór danych objętych wpisem do rejestru.
+v
+4. Wpis do rejestru polega na umieszczeniu za pomocą systemu ewidencyjno-informatycznego danych w elektronicznej bazie danych rejestrowych.
+5. Wpis zmian w rejestrze polega na uzupełnieniu, modyfikacji lub o wykreśleniu danych rejestrowych za pomocą systemu ewidencyjno-informatycznego w elektronicznej bazie danych rejestrowych.
+6. Centrum zapewnia warunki techniczne umożliwiające prowadzenie rejestru, kontroluje przekazywane dane pod względem ich jakości i kompletności, konsoliduje dane oraz sprawuje nadzór nad gromadzeniem danych w rejestrze i bezpieczeństwem elektronicznej bazy danych rejestrowych. g
+7. Rejestr jest zabezpieczony w sposób uniemożliwiający dostęp do danych przez osoby nieupoważnione.
+§ 4. 1. Centrum udostępnia dane wpisane do rejestru użytkownikom rejestru wymienionym w art. 16p ust. 3 ustawy.
+.
+2. Dane wpisane do rejestru, obejmujące dane osobowe, udostępnia się drogą elektroniczną z wykorzystaniem systemu szyfrowania danych osobie upoważnionej przez użytkownika rejestru, na wniosek użytkownika rejestru.
+l
+3. Dane wpisane do rejestru, niebędące danymi osobowymi, udostępnia się drogą elektroniczną z wykorzystaniem bezpiecznego połączenia internetowego z systemem c logowania i hasła osobom upoważnionym przez użytkownika rejestru, na wniosek użytkownika rejestru.
+4. Użytkownik rejestru przekazuje dyrektorowi Centrum listę osób upoważnionych do dostępu do danych wymienionych w ust. 3, którym Centrum dostarcza r login i hasło dostępu.
+5. Lista osób upoważnionych przez użytkownika rejestru zawiera imię, nazwisko i stanowisko służbowe osoby upoważnionej. .
+§ 5. 1. Podmiotom niewymienionym w art. 16p ust. 3 ustawy, niebędącym podmiotami, o których mowa w art. 15 ust. 1 ustawy z dnia 17 w lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm. ), dane wpisane do rejestru udostępnia się na wniosek złożony w formie pisemnej w postaci papierowej lub elektronicznej, który zawiera:
+1) imię, nazwisko i adres miejsca zamieszkania albo nazwę i adres siedziby podmiotu ubiegającego się o udostępnienie danych wpisanych do rejestru;
+2) uzasadnienie interesu prawnego do uzyskania danych wpisanych do rejestru;
+3) określenie zakresu danych i wskazanie okresu, którego mają dotyczyć udostępniane dane;
+4) w skazanie sposobu udostępnienia danych oraz podanie odpowiednio adresu do korespondencji albo adresu poczty elektronicznej;
+5) własnoręczny podpis, w przypadku złożenia wniosku w postaci papierowej;
+6) bezpieczny podpis elektroniczny weryfikowany za pomocą ważnego kwalifikowanego certyfikatu lub podpis potwierdzony profilem zaufanym ePUAP, w przypadku złożenia wniosku w postaci elektronicznej.
+2. W przypadku stwierdzenia braków we wniosku, dyrektor Centrum lub osoba przez niego upoważniona wzywa wnioskodawcę do uzupełnienia wniosku w terminie 7 dni od dnia doręczenia wezwania, z pouczeniem że nieuzupełnienie braków spowoduje pozostawienie wniosku bez rozpoznania.
+§ 6. 1. Podmiotom niewymienionym w art. 16p ust. 3 ustawy dane wpisane do rejestru udostępnia się w postaci papierowej lub elektronicznej, wskazanej we wniosku, o którym mowa w § 5 ust. 1, albo we wniosku, o którym mowa w § 2 rozporządzenia Rady Ministrów z dnia 27 września 2005 r. w sprawie sposobu, zakresu i trybu udostępniania danych zgromadzonych w rejestrze publicznym (Dz. U. Nr 205, poz. 1692).
 2. Przekazanie danych następuje:
-1) przypadku papierowej przez odbiór osobisty albo przesłanie przesyłką poleconą za potwierdzeniem odbioru;
-2) przypadku elektronicznej przez przesłanie na adres poczty elektronicznej przy zastosowaniu fizycznych lub logicznych zabezpieczeń chroniących przed nieuprawnionym dostępem.
-7. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Szulc
+1) w przypadku postaci papierowej – przez odbiór osobisty albo przesłanie przesyłką v poleconą za potwierdzeniem odbioru;
+2) w przypadku postaci elektronicznej – przez przesłanie na adres poczty elektronicznej przy zastosowaniu fizycznych lub logicznych zabezpieczeń chroniących przed nieuprawnionym dostępem.
+§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. o Minister Zdrowia: wz. J. Szulc g .
+l c r .
+w
 

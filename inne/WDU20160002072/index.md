@@ -8,7 +8,7 @@ pos: 2072
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym
@@ -41,9 +41,17 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 4.** Odrębna ustawa określa:
 
+- **1)** sposób nawiązania, zakres i zasady ustania stosunku służbowego sędziego Trybunału;
+- **2)** prawa i obowiązki sędziego Trybunału;
+- **3)** sprawy immunitetu i nietykalności osobistej oraz zasady odpowiedzialności dyscyplinarnej sędziego Trybunału;
+- **4)** prawa i obowiązki sędziego Trybunału w stanie spoczynku.
+
 #### Rozdział 2 Organy Trybunału
 
 **Art. 5.** Organami Trybunału są:
+
+- **1)** Zgromadzenie Ogólne Sędziów Trybunału, zwane dalej „Zgromadzeniem Ogólnym”;
+- **2)** Prezes Trybunału.
 
 **Art. 6.**
 
@@ -376,7 +384,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 5. Trybunał rozstrzyga spory kompetencyjne pomiędzy centralnymi konstytucyjnymi organami państwa.
 
-6. Trybunał rozstrzyga o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej. W razie uznania przejściowej niemożności sprawowania urzędu przez Prezydenta Rzeczypospolitej Polskiej Trybunał powierza Marszałkowi tymczasowe wykonywanie obowiązków Prezydenta Rzeczypospolitej Polskiej.
+6. Trybunał rozstrzyga o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej. W razie uznania przejściowej niemożności sprawowania urzędu przez Prezydenta Rzeczypospolitej Polskiej Trybunał powierza Marszałkowi Sejmu tymczasowe wykonywanie obowiązków Prezydenta Rzeczypospolitej Polskiej.
 
 **Art. 34.** Ilekroć w przepisach ustawy jest mowa o „ustawie”, rozumie się przez to także akty normatywne, o których mowa w art. 234 Konstytucji, oraz inne akty normatywne, wydane na podstawie przepisów obowiązujących przed wejściem w życie Konstytucji, które miały moc prawną równą mocy prawnej ustawy.
 
@@ -410,7 +418,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 - **1)** w pełnym składzie w sprawach:
     - **a)** sporów kompetencyjnych pomiędzy centralnymi konstytucyjnymi organami państwa,
-    - **b)** o stwierdzenie przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenie Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej,
+    - **b)** o stwierdzenie przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenie Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej,
     - **c)** zgodności z Konstytucją celów lub działalności partii politycznych,
     - **d)** zgodności ustawy z Konstytucją przed jej podpisaniem lub umowy międzynarodowej z Konstytucją przed jej ratyfikacją,
     - **e)** o szczególnej zawiłości, z inicjatywy Prezesa Trybunału, a także gdy z wnioskiem o uznanie sprawy za szczególnie zawiłą do Trybunału zwróci się skład orzekający wyznaczony do rozpoznania danej sprawy, albo w sprawach, w których szczególna zawiłość wiąże się z nakładami finansowymi nieprzewidzianymi w ustawie budżetowej, a w szczególności gdy skład orzekający zamierza odstąpić od poglądu prawnego wyrażonego w orzeczeniu wydanym w pełnym składzie;
@@ -472,6 +480,19 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 42.** Uczestnikami postępowania przed Trybunałem są:
 
+- **1)** podmiot, który złożył wniosek, zwany dalej „wnioskodawcą”;
+- **2)** podmiot, który złożył skargę konstytucyjną, zwany dalej „skarżącym”;
+- **3)** organ, który wydał akt normatywny objęty wnioskiem, pytaniem prawnym albo skargą konstytucyjną, albo Prokuratoria Generalna Skarbu Państwa, jeżeli Rada Ministrów wyznaczyła Prokuratorię Generalną Skarbu Państwa do reprezentowania Rady Ministrów lub ministrów w postępowaniu przed Trybunałem;
+- **4)** sąd, który przedstawił Trybunałowi pytanie prawne, jeżeli zgłosił udział w postępowaniu wszczętym na skutek tego pytania prawnego i wyznaczył spośród sędziów tego sądu umocowanego przedstawiciela;
+- **5)** organ statutowy partii – w sprawach zgodności z Konstytucją celów lub działalności partii politycznych;
+- **6)** centralny konstytucyjny organ państwa, którego dotyczy spór kompetencyjny;
+- **7)** Prokurator Generalny;
+- **8)** Sejm, Prezydent Rzeczypospolitej Polskiej i minister właściwy do spraw zagranicznych – w sprawach zgodności z Konstytucją umów międzynarodowych ratyfikowanych w trybie art. 89 ust. 1 oraz art. 90 ust. 2 i 3 Konstytucji;
+- **9)** Prezydent Rzeczypospolitej Polskiej i minister właściwy do spraw zagranicznych – w sprawach zgodności z Konstytucją innych ratyfikowanych umów międzynarodowych;
+- **10)** Rzecznik Praw Obywatelskich, jeżeli zgłosił udział w postępowaniu;
+- **11)** Rzecznik Praw Dziecka, jeżeli zgłosił udział w postępowaniu wszczętym na wniosek Rzecznika Praw Obywatelskich lub postępowaniu w sprawie skargi konstytucyjnej, dotyczących praw dziecka;
+- **12)** podmioty wymienione w art. 45 ust. 1 – w sprawie o stwierdzenie przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenie Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej.
+
 **Art. 43.**
 
 1. Uczestnik postępowania działa przed Trybunałem osobiście, przez umocowanego przedstawiciela lub pełnomocnika.
@@ -480,11 +501,11 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 3. W sprawach, w których Trybunał orzeka w pełnym składzie, uczestniczy Prokurator Generalny lub jego zastępca, a w sprawach, w których Trybunał orzeka w innych składach, przedstawicielem Prokuratora Generalnego może być prokurator Prokuratury Krajowej lub prokurator innej jednostki organizacyjnej prokuratury, delegowany do wykonywania czynności w Prokuraturze Krajowej i wyznaczony przez Prokuratora Generalnego lub jego zastępcę do udziału w tych sprawach.
 
-4. Przedstawicielem Sejmu, Marszałka i grupy posłów mogą być tylko posłowie. Grupa posłów oraz Marszałek Sejmu, w przypadku gdy jest wnioskodawcą, oprócz przedstawicieli mogą ustanowić nie więcej niż 2 pełnomocników niebędących posłami.
+4. Przedstawicielem Sejmu, Marszałka Sejmu i grupy posłów mogą być tylko posłowie. Grupa posłów oraz Marszałek Sejmu, w przypadku gdy jest wnioskodawcą, oprócz przedstawicieli mogą ustanowić nie więcej niż 2 pełnomocników niebędących posłami.
 
 5. Przedstawicielem Senatu, Marszałka Senatu i grupy senatorów mogą być tylko senatorowie. Grupa senatorów oraz Marszałek Senatu, w przypadku gdy jest wnioskodawcą, oprócz przedstawicieli mogą ustanowić nie więcej niż 2 pełnomocników niebędących senatorami.
 
-6. Przedstawicielom podmiotów, o których mowa w ust. 4 i 5, może towarzyszyć w czasie rozprawy nie więcej niż dwóch pracowników odpowiednio Kancelarii i Kancelarii Senatu.
+6. Przedstawicielom podmiotów, o których mowa w ust. 4 i 5, może towarzyszyć w czasie rozprawy nie więcej niż dwóch pracowników odpowiednio Kancelarii Sejmu i Kancelarii Senatu.
 
 **Art. 44.**
 
@@ -506,7 +527,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 3. Przedstawicielem, o którym mowa w ust. 2, w odniesieniu do:
 
-- **1)** Marszałka może być upoważniony przez niego Wicemarszałek Sejmu;
+- **1)** Marszałka Sejmu może być upoważniony przez niego Wicemarszałek Sejmu;
 - **2)** Marszałka Senatu może być upoważniony przez niego Wicemarszałek Senatu;
 - **3)** Pierwszego Prezesa Sądu Najwyższego może być upoważniony przez niego Prezes Sądu Najwyższego;
 - **4)** Prokuratora Generalnego może być upoważniony przez niego zastępca Prokuratora Generalnego;
@@ -557,7 +578,11 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 50.** Wniosek o rozstrzygnięcie sporu kompetencyjnego zawiera:
 
-**Art. 51.** Wniosek w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej zawiera wskazanie okoliczności, które przejściowo uniemożliwiają Prezydentowi Rzeczypospolitej Polskiej sprawowanie urzędu oraz uniemożliwiają zawiadomienie o tym Marszałka Sejmu.
+- **1)** przepis Konstytucji lub ustawy określający sporną kompetencję;
+- **2)** kwestionowane działania lub zaniechania;
+- **3)** uzasadnienie.
+
+**Art. 51.** Wniosek w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej zawiera wskazanie okoliczności, które przejściowo uniemożliwiają Prezydentowi Rzeczypospolitej Polskiej sprawowanie urzędu oraz uniemożliwiają zawiadomienie o tym Marszałka Sejmu.
 
 **Art. 52.**
 
@@ -644,7 +669,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 - **2)** jeżeli wydanie orzeczenia jest niedopuszczalne;
 - **3)** jeżeli wydanie orzeczenia jest zbędne;
 - **4)** jeżeli akt normatywny w zakwestionowanym zakresie utracił moc obowiązującą przed wydaniem orzeczenia przez Trybunał;
-- **5)** w przypadku zakończenia kadencji i Senatu, w niezakończonych sprawach wszczętych na podstawie wniosku grupy posłów albo grupy senatorów, o którym mowa w art. 191 ust. 1 pkt 1 Konstytucji.
+- **5)** w przypadku zakończenia kadencji Sejmu i Senatu, w niezakończonych sprawach wszczętych na podstawie wniosku grupy posłów albo grupy senatorów, o którym mowa w art. 191 ust. 1 pkt 1 Konstytucji.
 
 2. Jeżeli okoliczności, o których mowa w ust. 1 pkt 1–5, ujawnią się na rozprawie, Trybunał wydaje postanowienie o umorzeniu postępowania.
 
@@ -746,6 +771,11 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 72.** Przewodniczący składu orzekającego wydaje zarządzenia mające na celu właściwe przygotowanie rozprawy. Przewodniczący składu orzekającego może w szczególności:
 
+- **1)** zarządzić doręczenie uczestnikom postępowania odpowiednich pism, wniesionych w toku postępowania;
+- **2)** wezwać uczestników postępowania do przedstawienia, w formie pisemnej, w ustalonym terminie, stanowiska w sprawie;
+- **3)** zarządzić przedstawienie przez uczestników postępowania dokumentów i innych materiałów, potrzebnych do wyjaśnienia sprawy;
+- **4)** wezwać do udziału w postępowaniu inne organy lub organizacje, których udział uzna za celowy dla należytego wyjaśnienia sprawy.
+
 **Art. 73.**
 
 1. Akta sprawy rozpoznawanej przed Trybunałem są jawne. Nie dotyczy to zawartych w aktach sprawy dokumentów niejawnych oraz akt spraw, które są rozpoznawane z wyłączeniem jawności.
@@ -824,17 +854,20 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 85.** Trybunał rozstrzyga spory kompetencyjne, w przypadku gdy:
 
+- **1)** co najmniej dwa centralne konstytucyjne organy państwa uznają się za właściwe do rozstrzygnięcia tej samej sprawy lub wydały w niej rozstrzygnięcia;
+- **2)** co najmniej dwa centralne konstytucyjne organy państwa uznają się za niewłaściwe do rozstrzygnięcia określonej sprawy.
+
 **Art. 86.**
 
 1. Wszczęcie postępowania przed Trybunałem powoduje zawieszenie postępowań przed organami, które prowadzą spór kompetencyjny.
 
 2. Trybunał, po zapoznaniu się ze stanowiskiem uczestników postępowania, może wydać postanowienie o tymczasowym uregulowaniu kwestii spornych, a w szczególności o zawieszeniu czynności egzekucyjnych, jeżeli jest to konieczne dla zapobieżenia poważnym szkodom lub podyktowane szczególnie ważnym interesem społecznym.
 
-##### Oddział 4 Postępowanie w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej
+##### Oddział 4 Postępowanie w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej
 
 **Art. 87.**
 
-1. Trybunał rozpoznaje wniosek Marszałka w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej niezwłocznie, nie później jednak niż w ciągu 24 godzin od jego złożenia.
+1. Trybunał rozpoznaje wniosek Marszałka Sejmu w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej niezwłocznie, nie później jednak niż w ciągu 24 godzin od jego złożenia.
 
 2. Trybunał rozpoznaje wniosek, o którym mowa w ust. 1, na rozprawie, z wyłączeniem jawności.
 
@@ -852,14 +885,14 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 2. Postanowienie traci moc, jeżeli:
 
-- **1)** przed upływem określonego w nim terminu Prezydent Rzeczypospolitej Polskiej zawiadomi Marszałka oraz Trybunał o możliwości sprawowania urzędu;
+- **1)** przed upływem określonego w nim terminu Prezydent Rzeczypospolitej Polskiej zawiadomi Marszałka Sejmu oraz Trybunał o możliwości sprawowania urzędu;
 - **2)** zaistnieje okoliczność, o której mowa w art. 131 ust. 2 pkt 1, 2, 4 lub 5 Konstytucji.
 
 **Art. 90.**
 
-1. W przypadku gdy po upływie terminu, na jaki Trybunał powierzył Marszałkowi tymczasowe wykonywanie obowiązków Prezydenta Rzeczypospolitej Polskiej, okoliczności, które przejściowo uniemożliwiają Prezydentowi Rzeczypospolitej Polskiej sprawowanie urzędu, nie ustały, Marszałek może powtórnie, jednokrotnie, wystąpić do Trybunału z wnioskiem w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej.
+1. W przypadku gdy po upływie terminu, na jaki Trybunał powierzył Marszałkowi Sejmu tymczasowe wykonywanie obowiązków Prezydenta Rzeczypospolitej Polskiej, okoliczności, które przejściowo uniemożliwiają Prezydentowi Rzeczypospolitej Polskiej sprawowanie urzędu, nie ustały, Marszałek Sejmu może powtórnie, jednokrotnie, wystąpić do Trybunału z wnioskiem w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej.
 
-2. Do rozpatrzenia powtórnie złożonego przez Marszałka wniosku, o którym mowa w ust 1, stosuje się przepisy art. 87–89.
+2. Do rozpatrzenia powtórnie złożonego przez Marszałka Sejmu wniosku, o którym mowa w ust 1, stosuje się przepisy art. 87–89.
 
 #### Rozdział 9 Rozprawy i posiedzenia
 
@@ -887,7 +920,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 2. Rozprawa nie może odbyć się wcześniej niż po upływie 30 dni od dnia doręczenia uczestnikom postępowania zawiadomienia o jej terminie.
 
-3. Termin, o którym mowa w ust. 2, nie dotyczy kontroli ustawy budżetowej albo ustawy o prowizorium budżetowym przed jej podpisaniem oraz rozpatrzenia wniosku w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej, do których Trybunał przystępuje niezwłocznie.
+3. Termin, o którym mowa w ust. 2, nie dotyczy kontroli ustawy budżetowej albo ustawy o prowizorium budżetowym przed jej podpisaniem oraz rozpatrzenia wniosku w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej, do których Trybunał przystępuje niezwłocznie.
 
 4. Prezes Trybunału może zarządzić skrócenie terminu, o którym mowa w ust. 2, o połowę, chyba że odpowiednio skarżący, sąd przedstawiający pytanie prawne albo wnioskodawca wyrażą pisemny sprzeciw w terminie 7 dni od dnia doręczenia zarządzenia Prezesa Trybunału.
 
@@ -971,7 +1004,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 2. Trybunał wydaje postanowienia w sprawach:
 
 - **1)** rozstrzygania sporów kompetencyjnych pomiędzy centralnymi konstytucyjnymi organami państwa;
-- **2)** rozstrzygania o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej;
+- **2)** rozstrzygania o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej;
 - **3)** innych, w których ustawa tak stanowi lub niewymagających wydania wyroku.
 
 **Art. 104.**

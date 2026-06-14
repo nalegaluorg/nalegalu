@@ -8,7 +8,7 @@ pos: 390
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pracowniczych ogrodach działkowych

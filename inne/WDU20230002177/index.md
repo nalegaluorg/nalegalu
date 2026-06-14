@@ -8,10 +8,10 @@ pos: 2177
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22117777 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 25 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2177/text.pdf) |
 
-22117777 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 25 września 2023 r.
 w sprawie Medalu Wojska Polskiego Na podstawie art. 679 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
-poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy tryb postępowania w sprawach o nadanie Medalu Wojska Polskiego, zwanego dalej „Medalem WP”, w tym organy uprawnione do występowania z wnioskiem o jego nadanie;
 2) wzór wniosku o nadanie Medalu WP oraz wzór legitymacji potwierdzającej jego nadanie;
 3) sposób wręczenia i noszenia Medalu WP;
@@ -45,6 +45,7 @@ poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporzą
 § 4. Kierownik komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw kadr:
 1) przedstawia Ministrowi Obrony Narodowej wniosek o nadanie Medalu WP do wstępnej akceptacji;
 2) po wstępnej akceptacji wniosku przez Ministra Obrony Narodowej zwraca się do kierownika właściwej komórki organizacyjnej Ministerstwa Spraw Zagranicznych do spraw protokołu dyplomatycznego o opinię oraz uzyskanie zgody odpowiednich władz obcego państwa na przyjęcie Medalu WP przez osobę przewidzianą do uhonorowania Medalem WP;
+3) informuje pisemnie wnioskodawcę o braku wstępnej akceptacji wniosku przez Ministra Obrony Narodowej.
 § 5. 1. Wniosek o nadanie Medalu WP jest rozpatrywany przez Ministra Obrony Narodowej w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia przez wnioskodawcę, chyba że dotrzymanie tego terminu nie jest możliwe z uwagi na konieczność oczekiwania na zgodę odpowiednich władz obcego państwa, o której mowa w § 4 pkt 2.
 2. O negatywnym rozpatrzeniu wniosku wnioskodawcę informuje się pisemnie.
 3. Nadanie Medalu WP następuje w drodze decyzji Ministra Obrony Narodowej.
@@ -58,10 +59,10 @@ poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporzą
 2. Medal nosi się na wstążce rypsowej szerokości 38 mm mającej pośrodku biało-czerwony pasek szerokości 10 mm, po którego bokach paski w kolorze stalowym szerokości 6 mm, prążki złote szerokości 2 mm oraz po brzegach paski w kolorze khaki szerokości 6 mm.
 3. Wzór graficzny odznaki Medalu WP wraz ze wstążką i baretką są określone w załączniku nr 3 do rozporządzenia.
 § 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. M. Wiśniewski WZÓR z dnia 25 września 2023 r. (Dz. U. poz. ....) Załącznik nr 1 WZÓR
+Minister Obrony Narodowej: z up. M. Wiśniewski Dziennik Ustaw Załączniki do rozporządzenia – 3 – Ministra Obrony Narodowej Poz. 2177 z dnia 25 września 2023 r. (Dz. U. poz. ....) Załącznik nr 1 WZÓR WZÓR
 1) pierwsza strona ……………………………………….
 WNIOSEK O NADANIE MEDALU WOJSKA POLSKIEGO BRĄZOWY ……………………………………….
 2) druga strona mp.
 .................................... .................................
-WZÓR LEGITYMACJI MEDALU WOJSKA POLSKIEGO strona zewnętrzna strona wewnętrzna LEGITYMACJA WZÓR LEGITYMACJI MEDALU WOJSKA POLSKIEGO WZÓR GRAFICZNY ODZNAKI MEDALU WOJSKA POLSKIEGO WRAZ ZE WSTĄŻKĄ I BARETKĄ Stopień I Złoty Medal Wojska Polskiego Stopień II Srebrny Medal Wojska Polskiego strona licowa medalu strona odwrotna medalu strona licowa medalu strona odwrotna medalu WZÓR GRAFICZNY ODZNAKI MEDALU WOJSKA POLSKIEGO WRAZ ZE WSTĄŻKĄ I BARETKĄ Stopień III Brązowy Medal Wojska Polskiego Baretki strona licowa medalu strona odwrotna medalu Stopień I Złoty Medal Wojska Polskiego Stopień II Stopień III Srebrny Medal Wojska Polskiego Brązowy Medal Wojska Polskiego
+Dziennik Ustaw – 4 – Załącznik nr Poz. 2 2177 WZÓR LEGITYMACJI MEDALU WOJSKA POLSKIEGO WZÓR LEGITYMACJI MEDALU WOJSKA POLSKIEGO strona zewnętrzna strona wewnętrzna LEGITYMACJA Załącznik nr 3 WZÓR GRAFICZNY ODZNAKI MEDALU WOJSKA POLSKIEGO WZÓR GRAFICZNY ODZNAKI WRAZ MEDALU ZE WSTĄŻKĄ WOJSKA POLSKIEGO I BARETKĄ WRAZ ZE WSTĄŻKĄ I BARETKĄ Stopień I – Złoty Medal Wojska Polskiego strona licowa medalu strona odwrotna medalu Stopień II – Srebrny Medal Wojska Polskiego strona licowa medalu strona odwrotna medalu Stopień III – Brązowy Medal Wojska Polskiego strona licowa medalu strona odwrotna medalu Baretki Stopień I Złoty Medal Wojska Polskiego Stopień II Stopień III Srebrny Medal Wojska Polskiego Brązowy Medal Wojska Polskiego
 

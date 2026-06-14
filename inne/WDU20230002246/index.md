@@ -8,10 +8,10 @@ pos: 2246
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22224466 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 13 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2246/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 13 października 2023 r.
 w sprawie trybu zawierania umów o odroczeniu, rozłożeniu na raty lub umorzeniu spłaty odszkodowań za szkody w mieniu wojskowym Na podstawie art. 506 ust. 7 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
-poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporządzenie określa tryb zawierania umów w sprawie odraczania, rozkładania na raty lub umarzania spłaty odszkodowań oraz wzory tych umów.
+poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb zawierania umów w sprawie odraczania, rozkładania na raty lub umarzania spłaty odszkodowań oraz wzory tych umów.
 § 2. 1. Wniosek, o którym mowa w art. 506 ust. 1 ustawy z dnia 11 marca 2023 r. o obronie Ojczyzny, zwanej dalej „ustawą”, żołnierz składa do:
 1) właściwego dowódcy jednostki organizacyjnej zaopatrującej w mienie posiadającego uprawnienia dysponenta środków budżetowych, będącego organem wojskowym właściwym do zawarcia umowy, jeżeli żołnierz pełni służbę w tej jednostce;
 2) właściwego dowódcy jednostki organizacyjnej zaopatrującej w mienie posiadającego uprawnienia dysponenta środków budżetowych, będącego organem wojskowym właściwym do zawarcia umowy, za pośrednictwem dowódcy jednostki organizacyjnej, w której żołnierz pełni służbę.
@@ -35,13 +35,14 @@ poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporzą
 3. W przypadku, o którym mowa w ust. 1 pkt 2, dowódca jednostki organizacyjnej, w której żołnierz pełni służbę, opiniuje wniosek i przesyła go do właściwego dowódcy jednostki organizacyjnej zaopatrującej w mienie posiadającego uprawnienia dysponenta środków budżetowych.
 § 3. 1. Właściwy dowódca jednostki organizacyjnej zaopatrującej w mienie posiadający uprawnienia dysponenta środków budżetowych dokonuje, w formie pisemnej, weryfikacji sytuacji materialnej i rodzinnej żołnierza oraz oceny wystąpienia uzasadnionego interesu poszkodowanej jednostki organizacyjnej.
 2. W przypadku możliwości umorzenia w całości lub w części, odroczenia lub rozłożenia na raty spłaty odszkodowania właściwy dowódca jednostki organizacyjnej zaopatrującej w mienie posiadający uprawnienia dysponenta środków budżetowych podpisuje z żołnierzem umowę.
-§ 4. 1. W przypadku gdy właściwy do odroczenia, rozłożenia na raty lub umorzenia spłaty odszkodowania jest organ określony w art. 506 ust. 4 lub ust. 5 ustawy, właściwy dowódca jednostki organizacyjnej zaopatrującej w mienie posiada jący uprawnienia dysponenta środków budżetowych przekazuje niezwłocznie wniosek wraz ze swoim stanowiskiem i opinią dowódcy jednostki organizacyjnej, w której żołnierz pełni służbę, drogą służbową do właściwego organu.
-2. W przypadku gdy sprawcą szkody jest dowódca jednostki organizacyjnej lub jego zastępca, składa on wniosek o umorzenie w całości lub w części, odroczenie lub rozłożenie na raty spłaty odszkodowania do bezpośredniego przełożo3. Bezpośredni przełożony:
-1) jeżeli jest dowódcą jednostki organizacyjnej zaopatrującej w mienie posiadającym uprawnienia dysponenta środków budżetowych podejmuje czynności, o których mowa w § 3 ust. 1 i 2, albo,
-2) jeżeli nie jest dowódcą jednostki organizacyjnej zaopatrującej w mienie posiadającym uprawnienia dysponenta środków budżetowych uprawnionym do zawarcia umowy przekazuje wniosek wraz ze swoją opinią do właściwego organu, o którym mowa w art. 506 ust. 3–5 ustawy.
+§ 4. 1. W przypadku gdy właściwy do odroczenia, rozłożenia na raty lub umorzenia spłaty odszkodowania jest organ określony w art. 506 ust. 4 lub ust. 5 ustawy, właściwy dowódca jednostki organizacyjnej zaopatrującej w mienie posiadający uprawnienia dysponenta środków budżetowych przekazuje niezwłocznie wniosek wraz ze swoim stanowiskiem i opinią dowódcy jednostki organizacyjnej, w której żołnierz pełni służbę, drogą służbową do właściwego organu.
+2. W przypadku gdy sprawcą szkody jest dowódca jednostki organizacyjnej lub jego zastępca, składa on wniosek o umorzenie w całości lub w części, odroczenie lub rozłożenie na raty spłaty odszkodowania do bezpośredniego przełożonego dowódcy jednostki organizacyjnej.
+3. Bezpośredni przełożony:
+1) jeżeli jest dowódcą jednostki organizacyjnej zaopatrującej w mienie posiadającym uprawnienia dysponenta środków budżetowych – podejmuje czynności, o których mowa w § 3 ust. 1 i 2, albo,
+2) jeżeli nie jest dowódcą jednostki organizacyjnej zaopatrującej w mienie posiadającym uprawnienia dysponenta środków budżetowych uprawnionym do zawarcia umowy – przekazuje wniosek wraz ze swoją opinią do właściwego organu, o którym mowa w art. 506 ust. 3–5 ustawy.
 4. Właściwy organ, o którym mowa w art. 506 ust. 3–5 ustawy, w przypadku:
-1) uwzględnienia wniosku przekazuje podpisane przez organ egzemplarze umowy w celu ich podpisania przez żołnierza;
-2) nieuwzględnienia wniosku informuje o tym żołnierza oraz wskazuje, w przypadku takiej możliwości, inną ulgę w spłacie odszkodowania.
+1) uwzględnienia wniosku – przekazuje podpisane przez organ egzemplarze umowy w celu ich podpisania przez żołnierza;
+2) nieuwzględnienia wniosku – informuje o tym żołnierza oraz wskazuje, w przypadku takiej możliwości, inną ulgę w spłacie odszkodowania.
 § 5. 1. Wzór umowy o rozłożeniu na raty spłaty odszkodowania jest określony w załączniku nr 1 do rozporządzenia.
 2. Wzór umowy o odroczeniu terminu zapłaty odszkodowania jest określony w załączniku nr 2 do rozporządzenia.
 3. Wzór umowy o umorzeniu odszkodowania jest określony w załączniku nr 3 do rozporządzenia.
@@ -65,7 +66,7 @@ z dnia .................................... **.
 1) ........................... rat po .......................... zł (słownie: .................................................................................................)**;
 2) jedna rata (ostatnia) w kwocie ......................... zł (słownie: .......................................................................................)**.
 3. Raty miesięczne płatne będą przez Dłużnika do dnia .................................................................... każdego miesiąca w kasie .............................................................. lub na rachunek bankowy** ...........................................................................
-......................................................................., a w przypadku zmian organizacyjnych organu, który przejmie wierzytelność będącą przedmiotem niniejszej umowy.
+......................................................................., a w przypadku zmian organizacyjnych – organu, który przejmie wierzytelność będącą przedmiotem niniejszej umowy.
 § 3. Dłużnik oświadcza, że uznaje w pełni roszczenie Wierzyciela, przyjmuje warunki niniejszej umowy i zobowiązuje się do ścisłego i terminowego zrealizowania świadczeń określonych w § 2 niniejszej umowy.
 § 4. Zaspokojenie przez Dłużnika roszczenia Wierzyciela w sposób określony i w terminie określonym w § 2 niniejszej umowy powoduje wygaśnięcie zobowiązania.
 § 5. W przypadku niedotrzymania przez Dłużnika warunków umowy, w szczególności zwłoki w zapłacie, ustalenia umowy tracą moc i wierzytelność staje się natychmiast wymagalna oraz:
@@ -89,7 +90,7 @@ w sprawie sygn. akt ................................... z dnia .................
 .............................................................................) do dnia .......................................................**.
 § 3. Dłużnik oświadcza, że uznaje w pełni roszczenie Wierzyciela, przyjmuje warunki niniejszej umowy i zobowiązuje się do ścisłego i terminowego zrealizowania świadczenia określonego w § 2 przez wpłatę kwoty ........................................ zł (słownie: ..............................................................................................................................) w kasie ........................................
 ................................................................. lub na rachunek bankowy** .....................................................................................
-..........................................................., a w przypadku zmian organizacyjnych organu, który przejmie wierzytelność będącą przedmiotem niniejszej umowy, w terminie do dnia .......................................... .
+..........................................................., a w przypadku zmian organizacyjnych – organu, który przejmie wierzytelność będącą przedmiotem niniejszej umowy, w terminie do dnia .......................................... .
 § 4. Zaspokojenie przez Dłużnika roszczenia Wierzyciela w sposób określony i w terminie określonym w § 2 i 3 niniejszej umowy powoduje wygaśnięcie zobowiązania.
 § 5. W przypadku niedotrzymania przez Dłużnika warunków umowy, w szczególności zwłoki w zapłacie, ustalenia umowy tracą moc i wierzytelność staje się natychmiast wymagalna oraz:
 1) będzie dochodzona na drodze sądowej**;

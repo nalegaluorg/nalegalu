@@ -8,10 +8,10 @@ pos: 2075
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 października 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22007755 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 26 września 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2075/text.pdf) |
 
-22007755 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 26 września 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie izb wytrzeźwień i placówek wskazanych lub utworzonych przez jednostkę samorządu terytorialnego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 8 grudnia 2014 r. w sprawie izb wytrzeźwień i placówek wskazanych lub utworzonych przez jednostkę samorządu terytorialnego (Dz. U. poz. 1850), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 21 października 2019 r. zmieniającym rozporządzenie w sprawie izb wytrzeźwień i placówek wskazanych lub utworzonych przez jednostkę samorządu terytorialnego (Dz. U. poz. 2119).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 21 października 2019 r. zmieniającego rozporządzenie w sprawie izb wytrzeźwień i placówek wskazanych lub utworzonych przez jednostkę samorządu terytorialnego (Dz. U. poz. 2119), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 grudnia 2014 r.
-w sprawie izb wytrzeźwień i placówek wskazanych lub utworzonych przez jednostkę samorządu terytorialnego Na podstawie art. 42 ust. 5 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24, 218 i 1700) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie izb wytrzeźwień i placówek wskazanych lub utworzonych przez jednostkę samorządu terytorialnego Na podstawie art. 42 ust. 5 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24, 218 i 1700) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) czynności związane z prowadzeniem depozytu w izbach wytrzeźwień oraz w placówkach, którym jednostka samorządu terytorialnego zleciła wykonywanie zadań izby wytrzeźwień, lub w placówkach utworzonych przez tę jednostkę, zwanych dalej „placówkami”, w tym sposób ewidencjonowania, przyjmowania, przechowywania i wydawania deponowanych środków i przedmiotów;
 2) organizację izb wytrzeźwień i placówek oraz warunki, jakim powinny odpowiadać ich pomieszczenia i urządzenia;
 3) skład oraz kwalifikacje personelu izb wytrzeźwień i placówek;
@@ -104,59 +104,59 @@ e) nazwę i numer dokumentu tożsamości;
 § 12. 1. Badanie na zawartość alkoholu w organizmie osoby doprowadzonej przeprowadza się w sposób nieinwazyjny, za pomocą urządzenia elektronicznego dokonującego pomiaru stężenia alkoholu w wydychanym powietrzu.
 2. Wynik badania na zawartość alkoholu w organizmie osoby doprowadzonej dokumentuje się wydrukiem z urządzenia, o którym mowa w ust. 1. Wydruk załącza się do karty ewidencyjnej.
 § 13. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-WYKAZ PRODUKTÓW LECZNICZYCH ORAZ WYROBÓW MEDYCZNYCH STOSOWANYCH W IZBIE WYTRZEŹWIEŃ I PLACÓWCE grudnia 2014 r. (Dz. U. z 2022 r.
-poz. …..) Załącznik nr 1 WYKAZ PRODUKTÓW LECZNICZYCH ORAZ WYROBÓW MEDYCZNYCH STOSOWANYCH W IZBIE WYTRZEŹWIEŃ I PLACÓWCE
+Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 grudnia 2014 r. (Dz. U. z 2022 r.
+poz. …..) Załącznik nr 1 WYKAZ WYKAZ PRODUKTÓW PRODUKTÓW LECZNICZYCH LECZNICZYCH ORAZ ORAZ WYROBÓW WYROBÓW MEDYCZNYCH MEDYCZNYCH STOSOWANYCH STOSOWANYCH W W IZBIE IZBIE WYTRZEŹWIEŃ WYTRZEŹWIEŃ I I PLACÓWCE PLACÓWCE
 1. Wykaz nazw substancji czynnych zawartych w produktach leczniczych lub powszechnie stosowanych nazw produktów leczniczych oraz wymagania w zakresie mocy i postaci farmaceutycznej:
-1) Adrenalinum 1 mg/ml roztwór do wstrzykiwań;
-2) Antazolini mesilas 50 mg/ml roztwór do wstrzykiwań;
-3) Aqua pro iniectione rozpuszczalnik do sporządzania leków parenteralnych;
-4) Atropini sulfas 1 mg/ml roztwór do wstrzykiwań;
-5) Budesonidum 0,2 mg/dawkę lub 0,4 mg/dawkę aerozol inhalacyjny, roztwór lub Budesonidum 0,25 mg/ml lub 0,50 mg/ml zawiesina do nebulizacji;
-6) Calcii chloridum 100 mg/ml roztwór do wstrzykiwań lub Calcii glubionas 9 mg Ca /ml roztwór do wstrzykiwań;
-7) Captoprilum 25 mg tabletki;
-8) Clonazepamum 1 mg/ml roztwór do wstrzykiwań;
-9) Crotamitonum 100 mg/g maść;
-10) Delphini consolidae tinctura płyn na skórę;
-11) Diazepamum 5 mg/ml roztwór do wstrzykiwań;
-12) Diazepamum 5 mg tabletki;
-13) Dihydroxyaluminii natrii carbonas 1,02 g/15 ml zawiesina doustna;
-14) Drotaverini hydrochloridum 40 mg lub 80 mg tabletki;
-15) Ethacridini lactas 100 mg tabletki do sporządzania roztworu;
-16) Furosemidum 10 mg/ml roztwór do wstrzykiwań;
-17) Glucagoni hydrochloridum 1 mg proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań;
-18) Glucosum 20% roztwór do wstrzykiwań;
-19) Glyceroli trinitras 0,4 mg/dawkę aerozol podjęzykowy;
-20) Haloperidolum 5 mg/ml roztwór do wstrzykiwań;
-21) Hydrocortisonum proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań lub infuzji lub odpowiedniki terapeutyczne;
-22) Ibuprofenum 200 mg lub 400 mg tabletki lub kapsułki;
-23) Iodi solutio spirituosa 3% roztwór na skórę;
-24) Lidocaini hydrochloridum 2% roztwór do wstrzykiwań;
-25) Loperamidi hydrochloridum 2 mg tabletki lub kapsułki;
-26) Magnesii sulfas 200 mg/ml roztwór do wstrzykiwań;
-27) Metamizolum natricum 500 mg/ml roztwór do wstrzykiwań;
-28) Naloxoni hydrochloridum 0,4 mg/ml roztwór do wstrzykiwań;
-29) Natrii chloridum 0,9% izotoniczny roztwór do wstrzykiwań lub rozpuszczalnik do sporządzania leków parenteralnych;
-30) Natrii hydrogenocarbonas 84 mg/ml roztwór do wstrzykiwań;
-31) Neomycinum 11,72 mg/g aerozol na skórę;
-32) Oxygenium, tlen gaz medyczny;
-33) Papaverini hydrochloridum 20 mg/ml roztwór do wstrzykiwań;
-34) Salbutamolum 0,1 mg/dawkę aerozol inhalacyjny, zawiesina lub Salbutamolum 1 mg/ml lub 2 mg/ml roztwór do nebulizacji lub płyn do inhalacji z nebulizatora;
-35) Salbutamolum 0,5 mg/ml roztwór do wstrzykiwań;
-36) Theophyllinum 20 mg/ml roztwór do wstrzykiwań i infuzji lub Theophyllinum 1,2 mg/ml roztwór do infuzji;
-37) Theophyllinum 100 mg lub 200 mg, lub 250 mg, lub 300 mg tabletki lub kapsułki;
-38) Tramadoli hydrochloridum 50 mg/ml roztwór do wstrzykiwań;
+1) Adrenalinum 1 mg/ml – roztwór do wstrzykiwań;
+2) Antazolini mesilas 50 mg/ml – roztwór do wstrzykiwań;
+3) Aqua pro iniectione – rozpuszczalnik do sporządzania leków parenteralnych;
+4) Atropini sulfas 1 mg/ml – roztwór do wstrzykiwań;
+5) Budesonidum 0,2 mg/dawkę lub 0,4 mg/dawkę – aerozol inhalacyjny, roztwór lub Budesonidum 0,25 mg/ml lub 0,50 mg/ml – zawiesina do nebulizacji;
+6) Calcii chloridum 100 mg/ml – roztwór do wstrzykiwań lub Calcii glubionas 9 mg Ca /ml – roztwór do wstrzykiwań;
+7) Captoprilum 25 mg – tabletki;
+8) Clonazepamum 1 mg/ml – roztwór do wstrzykiwań;
+9) Crotamitonum 100 mg/g – maść;
+10) Delphini consolidae tinctura – płyn na skórę;
+11) Diazepamum 5 mg/ml – roztwór do wstrzykiwań;
+12) Diazepamum 5 mg – tabletki;
+13) Dihydroxyaluminii natrii carbonas 1,02 g/15 ml – zawiesina doustna;
+14) Drotaverini hydrochloridum 40 mg lub 80 mg – tabletki;
+15) Ethacridini lactas 100 mg – tabletki do sporządzania roztworu;
+16) Furosemidum 10 mg/ml – roztwór do wstrzykiwań;
+17) Glucagoni hydrochloridum 1 mg – proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań;
+18) Glucosum 20% – roztwór do wstrzykiwań;
+19) Glyceroli trinitras 0,4 mg/dawkę – aerozol podjęzykowy;
+20) Haloperidolum 5 mg/ml – roztwór do wstrzykiwań;
+21) Hydrocortisonum – proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań lub infuzji lub odpowiedniki terapeutyczne;
+22) Ibuprofenum 200 mg lub 400 mg – tabletki lub kapsułki;
+23) Iodi solutio spirituosa 3% – roztwór na skórę;
+24) Lidocaini hydrochloridum 2% – roztwór do wstrzykiwań;
+25) Loperamidi hydrochloridum 2 mg – tabletki lub kapsułki;
+26) Magnesii sulfas 200 mg/ml – roztwór do wstrzykiwań;
+27) Metamizolum natricum 500 mg/ml – roztwór do wstrzykiwań;
+28) Naloxoni hydrochloridum 0,4 mg/ml – roztwór do wstrzykiwań;
+29) Natrii chloridum 0,9% – izotoniczny roztwór do wstrzykiwań lub rozpuszczalnik do sporządzania leków parenteralnych;
+30) Natrii hydrogenocarbonas 84 mg/ml – roztwór do wstrzykiwań;
+31) Neomycinum 11,72 mg/g – aerozol na skórę;
+32) Oxygenium, tlen – gaz medyczny;
+33) Papaverini hydrochloridum 20 mg/ml – roztwór do wstrzykiwań;
+34) Salbutamolum 0,1 mg/dawkę – aerozol inhalacyjny, zawiesina lub Salbutamolum 1 mg/ml lub 2 mg/ml – roztwór do nebulizacji lub płyn do inhalacji z nebulizatora;
+35) Salbutamolum 0,5 mg/ml – roztwór do wstrzykiwań;
+36) Theophyllinum 20 mg/ml – roztwór do wstrzykiwań i infuzji lub Theophyllinum 1,2 mg/ml – roztwór do infuzji;
+37) Theophyllinum 100 mg lub 200 mg, lub 250 mg, lub 300 mg – tabletki lub kapsułki;
+38) Tramadoli hydrochloridum 50 mg/ml – roztwór do wstrzykiwań;
 39) roztwory do infuzji:
 a) roztwór Ringera (produkt złożony) lub płyn fizjologiczny wieloelektrolitowy izotoniczny (produkt złożony),
-b) Glucosum 5% roztwór do infuzji,
-c) Glucosum 10% roztwór do infuzji,
-d) Natrii chloridum 0,9% roztwór do infuzji.
+b) Glucosum 5% – roztwór do infuzji,
+c) Glucosum 10% – roztwór do infuzji,
+d) Natrii chloridum 0,9% – roztwór do infuzji.
 2. Wykaz wyrobów medycznych:
 1) aparat do mierzenia ciśnienia;
 2) cewniki do odsysania z jamy ustnej i drzewa oskrzelowego (jednorazowe, sterylne, w różnych rozmiarach);
 3) defibrylator z zapisem EKG lub defibrylator i aparat EKG z 12 odprowadzeniami;
 4) deska ortopedyczna z możliwością stabilizacji głowy;
 5) glukometr oraz paski testowe;
-6) inhalator pneumatyczny do stosowania w nebulizacji wyłącznie w przypadku podawania leków w postaci płynu do nebulizacji;
+6) inhalator pneumatyczny do stosowania w nebulizacji – wyłącznie w przypadku podawania leków w postaci płynu do nebulizacji;
 7) kleszczyki Magilla dla dorosłych;
 8) komplet strzykawek i igieł, cewniki do wlewów dożylnych;
 9) laryngoskop i rurki intubacyjne (różnych rozmiarów);
@@ -180,7 +180,7 @@ e) benzodiazepin;
 22) worek samorozprężalny z rezerwuarem tlenowym;
 23) wózek inwalidzki ręczny.
 
-## Załącznik nr 2 — WZÓR KARTA EWIDENCYJNA NR … Nazwa oraz adres izby wytrzeźwień lub placówki ……………………………………….…….
+## Załącznik nr 2 — WZÓR WZÓR KARTA EWIDENCYJNA NR … Nazwa oraz adres izby wytrzeźwień lub placówki ……………………………………….…….
 
 Numer łóżka/sali .……………………..………………………………………………………...
 Numer karty depozytowej ………………….…………………………………………………...
@@ -201,7 +201,6 @@ I. Opinia lekarza/felczera
 1. Brak zgody na badanie na zawartość alkoholu w organizmie. Stwierdzam występowanie/niewystępowanie u osoby doprowadzonej symptomów wskazujących na stan nietrzeźwości, o których mowa w art. 40 ust. 3 ustawy z dnia 26 października 1982 r.
 o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24, 218 i 1700).
 W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
-WZÓR
 2. W wyniku badania stwierdzam, że doprowadzony(-na):
 1) jest w stanie nietrzeźwości i uzasadniającym zatrzymania w izbie lub placówce;
 2) wymaga skierowania do podmiotu leczniczego;
@@ -210,7 +209,7 @@ WZÓR
 II. Decyzja w sprawie przyjęcia/odmowy przyjęcia
 1. Odmawia się przyjęcia do …...……………………………………………………………...
 z uwagi na:
-1) brak podstawy przyjęcia wynik badania na zawartość alkoholu w organizmie nie wskazuje na stan nietrzeźwości osoby doprowadzonej;
+1) brak podstawy przyjęcia – wynik badania na zawartość alkoholu w organizmie nie wskazuje na stan nietrzeźwości osoby doprowadzonej;
 2) brak u osoby doprowadzonej symptomów wskazujących na stan nietrzeźwości uzasadniających umieszczenie w izbie wytrzeźwień lub placówce;
 3) skierowanie osoby doprowadzonej do podmiotu leczniczego;
 4) brak wolnych miejsc w izbie wytrzeźwień lub placówce;
@@ -224,7 +223,7 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi.
 III. Zastosowane zabiegi i środki przymusu bezpośredniego :
 1) zabiegi higieniczno-sanitarne .………………………………………………………………………………………….
 …………………………………………………………………………………………..
-2) środki przymusu bezpośredniego określone formy (przytrzymanie, unieruchomienie, przymusowe podanie produktu leczniczego, izolacja, inne zgodne z art. 42 ust. 7 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi), przyczyny zastosowania, opis reakcji podczas stosowania i po zaprzestaniu stosowania środka przymusu bezpośredniego, godzina zastosowania i godzina zakończenia …………………………………………………………………… …………………………………………………………………………………………….
+2) środki przymusu bezpośredniego – określone formy (przytrzymanie, unieruchomienie, przymusowe podanie produktu leczniczego, izolacja, inne – zgodne z art. 42 ust. 7 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi), przyczyny zastosowania, opis reakcji podczas stosowania i po zaprzestaniu stosowania środka przymusu bezpośredniego, godzina zastosowania i godzina zakończenia …………………………………………………………………… …………………………………………………………………………………………….
 …………………………………………………………………………………………….
 ………………………………………………………………………………………….… …………………………………………………………………………………………….
 …………………………………………………………………………………………….

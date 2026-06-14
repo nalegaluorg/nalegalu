@@ -8,7 +8,7 @@ pos: 1402
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie baz danych
@@ -48,6 +48,12 @@ source: "isap-pdf"
 **Art. 4.** Ochrona przyznana bazom danych nie obejmuje programów komputerowych użytych do sporządzenia baz danych lub korzystania z nich.
 
 **Art. 5.** Z ochrony korzystają bazy danych, których:
+
+- **1)** (utracił moc)
+- **2)** producent jest obywatelem państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub ma miejsce stałego pobytu na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
+- **3)** producent jest osobą prawną założoną zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, posiadającą siedzibę i zakład główny wykonywania działalności na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym; jeżeli producent posiada tylko siedzibę na terytorium Wspólnoty Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, jego działalność musi być istotnie i trwale związana z gospodarką państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
+- **4)** ochrona wynika z umów międzynarodowych, na zasadach i w zakresie w nich określonych;
+- **5)** producent jest podmiotem niewymienionym w pkt 1–4 i jest przedsiębiorcą w rozumieniu ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z późn. zm. ) .
 
 **Art. 6.**
 

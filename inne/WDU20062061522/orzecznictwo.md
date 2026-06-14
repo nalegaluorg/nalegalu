@@ -1,6 +1,6 @@
-# Orzecznictwo — Wyrok Trybunału Konstytucyjnego z dnia 8 listopada 2006 r. sygn. akt K 30/06
+# Orzecznictwo — WDU20062061522
 
-Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 8 listopada 2006 r. sygn. akt K 30/06*
+Orzeczenia powołujące: *WDU20062061522*
 
 Łącznie: **1** orzeczeń
 

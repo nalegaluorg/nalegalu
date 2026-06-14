@@ -8,10 +8,10 @@ pos: 1287
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 czerwca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1287 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 24 maja 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,20 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-24 |
 | Data wydania | 2022-06-21 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1287/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 24 maja 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie wymagań Dobrej Praktyki Dystrybucyjnej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 13 marca 2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U.
 z 2017 r. poz. 509), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 14 kwietnia 2021 r.
 zmieniającym rozporządzenie w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. poz. 714).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 14 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. poz. 714), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.
 Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 13 marca 2015 r.
-w sprawie wymagań Dobrej Praktyki Dystrybucyjnej Na podstawie art. 79 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830, 974 i 1095) zarządza się, co następuje: § 1. Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie takimi produktami leczniczymi, określa załącznik do rozporządzenia.
+w sprawie wymagań Dobrej Praktyki Dystrybucyjnej Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830, 974 i 1095) zarządza się, co następuje:
+§ 1. Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie takimi produktami leczniczymi, określa załącznik do rozporządzenia.
 § 2. Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 18 miesięcy od dnia wejścia w życie rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-WYMAGANIA DOBREJ PRAKTYKI DYSTRYBUCYJNEJ DOTYCZĄCE PRZEDSIĘBIORCÓW PROWADZĄCYCH OBRÓT HURTOWY PRODUKTAMI LECZNICZYMI, Z WYŁĄCZENIEM PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, ORAZ POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI ROZDZIAŁ 1 ZARZĄDZANIE JAKOŚCIĄ
+WYMAGANIA DOBREJ PRAKTYKI DYSTRYBUCYJNEJ DOTYCZĄCE PRZEDSIĘBIORCÓW PROWADZĄCYCH OBRÓT HURTOWY PRODUKTAMI LECZNICZYMI, Z WYŁĄCZENIEM PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, ORAZ POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI ROZDZIAŁ 1 – ZARZĄDZANIE JAKOŚCIĄ
 1.1 Warunki ogólne Przedsiębiorcy prowadzący obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, zwani dalej „przedsiębiorcami”, stosują system jakości określający obowiązki, procesy i zasady zarządzania ryzykiem związane z ich działalnością. Działania podejmowane w zakresie dystrybucji są jasno zdefiniowane i podlegają systematycznemu przeglądowi. Należy udokumentować, a w uzasadnionych przypadkach zwalidować, kluczowe dla jakości produktów leczniczych etapy procesów dystrybucji i ich istotne zmiany. Za system jakości odpowiedzialne są osoby kierujące przedsiębiorstwem.
 1.2 System jakości
 1) system jakości obejmuje strukturę organizacyjną, procedury, procesy i zasoby, a także działania niezbędne do zapewnienia, że dostarczony produkt leczniczy utrzymuje jakość oraz pochodzi z legalnego źródła dostaw i pozostaje w legalnym łańcuchu dostaw podczas przechowywania i transportu;
@@ -75,12 +75,12 @@ b) w przypadku nieobecności pisemnie wyznacza inną osobę posiadającą kwalif
 4) kopia pisemnego wyznaczenia, o którym mowa w pkt 3 lit. b, jest przekazywana niezwłocznie do Głównego Inspektora Farmaceutycznego; jeżeli wyznaczenie to następuje na okres przekraczający 14 dni, niezwłocznie przekazuje się do Głównego Inspektora Farmaceutycznego następujące informacje:
 a) imię i nazwisko Osoby Odpowiedzialnej,
 b) imię i nazwisko osoby, o której mowa w pkt 3 lit. b,
-c) kopie dokumentów poświadczających spełnianie przez osobę, o której mowa w pkt 3 lit. b, wymagań określonych w art. 84 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830, 974 i 1095),
+c) kopie dokumentów poświadczających spełnianie przez osobę, o której mowa w pkt 3 lit. b, wymagań określonych w art. 84 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830, 974 i 1095),
 d) informację o okresie, na jaki następuje wyznaczenie osoby, o której mowa w pkt 3 lit. b,
 e) oświadczenie osoby, o której mowa w pkt 3 lit. b, o wyrażeniu zgody na wykonywanie zadań Osoby Odpowiedzialnej;
 4a) Osoba Odpowiedzialna ponosi odpowiedzialność za czynności podejmowane przez osoby, o których mowa w pkt 3;
 5) opis stanowiska pracy Osoby Odpowiedzialnej sporządza się na piśmie, nadaje on uprawnienia decyzyjne Osobie Odpowiedzialnej niezbędne do wykonywania jej obowiązków, dodatkowo przedsiębiorca przekazuje Osobie Odpowiedzialnej uprawnienia i dostęp do wszelkich zasobów niezbędnych do wypełniania jej obowiązków;
-6) Osoba Odpowiedzialna wykonuje swoje zadania w taki sposób, aby zapewnić przedsiębiorcy możliwość wykazania, iż przestrzega on zasad wynikających z ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne i z GDP oraz że zapewniona jest prawidłowa dystrybucja produktów leczniczych;
+6) Osoba Odpowiedzialna wykonuje swoje zadania w taki sposób, aby zapewnić przedsiębiorcy możliwość wykazania, iż przestrzega on zasad wynikających z ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne i z GDP oraz że zapewniona jest prawidłowa dystrybucja produktów leczniczych;
 7) obowiązki Osoby Odpowiedzialnej obejmują:
 a) zapewnienie, że system jakości został wprowadzony i jest stosowany,
 b) realizację zadań z zakresu działalności objętej zezwoleniem,
@@ -115,9 +115,9 @@ l) zatwierdzanie zwrotów do zapasów przeznaczonych do sprzedaży lub zbycia;
 3) pomieszczenie magazynowe jest wyposażone w odpowiednie oświetlenie, tak aby wszystkie czynności mogły być wykonywane dokładnie i bezpiecznie;
 4) pomieszczenie magazynowe jest dostosowane do zakresu zezwolenia i określonego w nim asortymentu produktów leczniczych;
 5) przechowywanie produktów leczniczych odbywa się wyłącznie w pomieszczeniach objętych zezwoleniem na obrót hurtowy produktami leczniczymi, a w przypadku posiadaczy zezwolenia na wytwarzanie lub import produktów leczniczych w pomieszczeniach objętych takim zezwoleniem;
-6) produkty lecznicze oddziela się od innego asortymentu określonego w art. 72 ust. 5 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, przechowując je w oddzielonych, jednoznacznie oznakowanych obszarach lub urządzeniach, do których dostęp ma wyłącznie upoważniony personel, lub oddziela się przy pomocy zwalidowanego skomputeryzowanego systemu zapewniającego równoważne bezpieczeństwo;
+6) produkty lecznicze oddziela się od innego asortymentu określonego w art. 72 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, przechowując je w oddzielonych, jednoznacznie oznakowanych obszarach lub urządzeniach, do których dostęp ma wyłącznie upoważniony personel, lub oddziela się przy pomocy zwalidowanego skomputeryzowanego systemu zapewniającego równoważne bezpieczeństwo;
 7) produkty lecznicze, w przypadku których rozpatrywana jest decyzja o utylizacji, oraz produkty wycofane z zapasów przeznaczonych do sprzedaży lub zbycia oddziela się fizycznie lub przy pomocy zwalidowanego skomputeryzowanego systemu zapewniającego równoważne bezpieczeństwo, przy czym produkty lecznicze otrzymane z państwa trzeciego, ale nieprzeznaczone na rynek Unii Europejskiej, są fizycznie oddzielone;
-8) produkty lecznicze: sfałszowane, przeterminowane, wycofane, wstrzymane oraz produkty wymienione w art. 72 ust. 5 pkt 1a ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne oddziela się odpowiednio od produktów leczniczych przeznaczonych do dystrybucji i przechowuje w wyznaczonych, wyraźnie oznakowanych, dostępnych wyłącznie dla upoważnionego personelu obszarach lub urządzeniach, które zapewniają odpowiedni poziom bezpieczeństwa;
+8) produkty lecznicze: sfałszowane, przeterminowane, wycofane, wstrzymane oraz produkty wymienione w art. 72 ust. 5 pkt 1a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne oddziela się odpowiednio od produktów leczniczych przeznaczonych do dystrybucji i przechowuje w wyznaczonych, wyraźnie oznakowanych, dostępnych wyłącznie dla upoważnionego personelu obszarach lub urządzeniach, które zapewniają odpowiedni poziom bezpieczeństwa;
 9) produkty lecznicze wymagające szczególnych warunków przechowywania są odpowiednio zabezpieczane i przechowywane w odpowiednio oddzielonych obszarach lub urządzeniach zapewniających bezpieczeństwo życia, zdrowia, mienia oraz środowiska;
 10) miejsca do przyjmowania i wydawania produktów leczniczych (komora przyjęć i oddzielna komora ekspedycyjna) chronią produkty lecznicze przed panującymi warunkami atmosferycznymi;
 11) komora przyjęć i komora ekspedycyjna posiada odrębny, bezpośredni dostęp do miejsc wyładunku i załadunku towarów;
@@ -216,8 +216,8 @@ d) ceny niższe lub wyższe od zwyczajowo stosowanych.
 5.4 Przyjmowanie produktów leczniczych
 1) w procesie przyjmowania produktów leczniczych sprawdza się zgodność przychodzącej dostawy z zamówieniem oraz czy produkty lecznicze pochodzą od zatwierdzonych dostawców i czy nie zostały one w widoczny sposób uszkodzone podczas transportu;
 2) pierwszeństwo daje się produktom leczniczym wymagającym specjalnych warunków przechowywania lub zachowania specjalnych środków bezpieczeństwa, które po sprawdzeniu niezwłocznie kieruje się do właściwych pomieszczeń magazynowych;
-3) serie produktów leczniczych przeznaczone do państw Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, mogą być kierowane do zapasów przeznaczonych do sprzedaży lub zbycia dopiero po sprawdzeniu, zgodnie z pisemnymi procedurami, że produkty te są dopuszczone do obrotu na terenie kraju sprzedaży lub ich zbycia;
-4) w przypadku serii pochodzących z innego państwa członkowskiego, odpowiednio przeszkolony personel, przed skierowaniem ich do zapasów przeznaczonych do sprzedaży lub zbycia, sprawdzi zabezpieczenia, o których mowa w art. 51 ust. 1 dyrektywy 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. WE L 311 z 28.11.2001, str. 67, z późn. zm. Polskie wydanie specjalne, rozdz. 13, t. 27, str. 69), lub inny dowód wprowadzenia produktów leczniczych do obrotu w danym państwie, sporządzony na podstawie równoważnego systemu.
+3) serie produktów leczniczych przeznaczone do państw Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, mogą być kierowane do zapasów przeznaczonych do sprzedaży lub zbycia dopiero po sprawdzeniu, zgodnie z pisemnymi procedurami, że produkty te są dopuszczone do obrotu na terenie kraju sprzedaży lub ich zbycia;
+4) w przypadku serii pochodzących z innego państwa członkowskiego, odpowiednio przeszkolony personel, przed skierowaniem ich do zapasów przeznaczonych do sprzedaży lub zbycia, sprawdzi zabezpieczenia, o których mowa w art. 51 ust. 1 dyrektywy 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. WE L 311 z 28.11.2001, str. 67, z późn. zm. – Polskie wydanie specjalne, rozdz. 13, t. 27, str. 69), lub inny dowód wprowadzenia produktów leczniczych do obrotu w danym państwie, sporządzony na podstawie równoważnego systemu.
 5.5 Przechowywanie
 1) produkty lecznicze są przechowywane oddzielnie od innego asortymentu i odpowiednio oddzielone od innych produktów leczniczych, które mogłyby zmienić ich właściwości;
 2) produkty lecznicze oraz wyroby medyczne chroni się od szkodliwego wpływu światła, temperatury, wilgoci i innych czynników zewnętrznych;
@@ -271,10 +271,10 @@ g) czas przechowywania, jeżeli do niego doszło;
 6.5 Wycofanie lub wstrzymanie produktów leczniczych
 1) regularnie (przynajmniej raz w roku) ocenia się skuteczność procedur dotyczących wycofania lub wstrzymania produktów leczniczych;
 2) rozpoczęcie czynności związanych z wycofaniem lub wstrzymaniem produktu leczniczego jest możliwe bezzwłocznie i w każdym momencie;
-3) przedsiębiorca postępuje zgodnie z przepisami wydanymi na podstawie art. 121 ust. 5 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne;
+3) przedsiębiorca postępuje zgodnie z przepisami wydanymi na podstawie art. 121 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
 4) czynności związane z wycofaniem lub wstrzymaniem produktu leczniczego są ewidencjonowane w momencie ich podjęcia, a dokumentację udostępnia się właściwym organom;
 5) osoby odpowiedzialne za wycofanie lub wstrzymanie produktu leczniczego mają łatwy i bezpośredni dostęp do dokumentacji dotyczącej dystrybucji, zawierającej pełne informacje o dostawcach i odbiorcach, którym bezpośrednio dostarczono ten produkt (wraz z adresami, numerami telefonu lub faksu w godzinach pracy i poza nimi, numerami serii, datami ważności, oraz informacje o dostarczonych ilościach), w tym informacje dotyczące wywiezionych produktów i próbek produktów leczniczych;
-6) przebieg procesu wycofania lub wstrzymania produktu leczniczego jest dokumentowany zgodnie z przepisami ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.
+6) przebieg procesu wycofania lub wstrzymania produktu leczniczego jest dokumentowany zgodnie z przepisami ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 7.1 Warunki ogólne Czynności objęte GDP mogą być zlecane podmiotom zewnętrznym w formie pisemnej umowy. Umowa określa procedury kontroli dotyczące zleconych czynności. Jeżeli zlecenie dotyczy czynności z zakresu obrotu hurtowego, zleceniobiorca jest obowiązany posiadać zezwolenie na prowadzenie hurtowni farmaceutycznej.
 7.2 Zleceniodawca
 1) zleceniodawca pozostaje odpowiedzialny przed organami kontroli za zlecane działania;
@@ -324,7 +324,7 @@ g) czas przechowywania, jeżeli do niego doszło;
 5) etykiety na kontenerach umożliwiają identyfikację ich zawartości i ustalenie pochodzenia produktów leczniczych.
 9.4 Produkty lecznicze wymagające specjalnych warunków
 1) w odniesieniu do produktów leczniczych wymagających specjalnych warunków, określonych odrębnymi przepisami, przedsiębiorca utrzymuje łańcuch dostaw, zgodnie z wymogami zawartymi w odrębnych przepisach, i wprowadza dodatkowe systemy kontrolne oraz procedury postępowania na wypadek kradzieży;
-2) produkty lecznicze zawierające materiały wysoce aktywne i radioaktywne są transportowane w kontenerach i pojazdach tylko do tego przeznaczonych i zabezpieczonych, a stosowane środki bezpieczeństwa mają być zgodne w szczególności z przepisami ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2021 r.
+2) produkty lecznicze zawierające materiały wysoce aktywne i radioaktywne są transportowane w kontenerach i pojazdach tylko do tego przeznaczonych i zabezpieczonych, a stosowane środki bezpieczeństwa mają być zgodne w szczególności z przepisami ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r.
 poz. 1941 oraz z 2022 r. poz. 974);
 3) w przypadku produktów leczniczych wrażliwych na temperaturę używa się specjalnego sprzętu (np. opakowań termicznych, kontenerów i pojazdów o regulowanej temperaturze), aby zapewnić utrzymanie właściwych warunków transportu między wytwórcą, przedsiębiorcą i odbiorcą;
 4) w pojazdach o regulowanej temperaturze przeprowadza się mapowanie temperatury w reprezentatywnych warunkach, biorąc pod uwagę wahania sezonowe, a sprzęt do monitorowania temperatury używany podczas transportu poddaje się regularnie konserwacji i kalibracji;
@@ -338,8 +338,7 @@ poz. 1941 oraz z 2022 r. poz. 974);
 1) system jakości pośrednika jest udokumentowany, monitoruje się jego skuteczność, a podejmowane działania z nim związane są zdefiniowane i udokumentowane w księdze jakości w postaci papierowej lub elektronicznej;
 2) system jakości pośrednika określa obowiązki, procesy i zarządzanie ryzykiem w zakresie działalności pośrednika;
 3) system jakości pośrednika obejmuje co najmniej procedury postępowania w przypadku wstrzymania bądź wycofania produktu leczniczego, procedury postępowania w przypadku podejrzenia sfałszowania produktu leczniczego, procedury kwalifikacji uprawnień podmiotów prowadzących obrót produktami leczniczymi.
-10.2 Personel pośrednika Personel zajmujący się pośrednictwem jest przeszkolony w zakresie przepisów ustawy z dnia 6 września 2001 r.
-Prawo farmaceutyczne oraz GDP.
+10.2 Personel pośrednika Personel zajmujący się pośrednictwem jest przeszkolony w zakresie przepisów ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne oraz GDP.
 10.3 Dokumentacja
 1) pośrednik wprowadzi i udokumentuje przestrzeganie co najmniej procedur:
 a) rozpatrywania reklamacji,
@@ -347,13 +346,13 @@ b) zgłaszania podejrzeń sfałszowania produktów leczniczych właściwym organ
 c) współpracy w zakresie wstrzymania bądź wycofania produktów leczniczych,
 d) mających na celu upewnienie się, że produkty lecznicze będące przedmiotem pośrednictwa są objęte pozwoleniem na dopuszczenie do obrotu,
 e) kwalifikacji uprawnień podmiotów prowadzących obrót produktami leczniczymi;
-2) pośrednik prowadzi, w postaci papierowej lub elektronicznej, ewidencję transakcji kupna lub sprzedaży, o której mowa w art. 73e pkt 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.
+2) pośrednik prowadzi, w postaci papierowej lub elektronicznej, ewidencję transakcji kupna lub sprzedaży, o której mowa w art. 73e pkt 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 11.1 Dzielenie opakowań Dopuszcza się dzielenie opakowań zewnętrznych produktów leczniczych stanowiących szczepionkę przeciw COVID-19 oraz produktów leczniczych stanowiących rezerwy strategiczne, których użycie jest niezbędne do podania tej szczepionki.
 Proces dzielenia nie może naruszać opakowania bezpośredniego, nie może przyczynić się do zmiany gwarantowanej przez producenta jakości produktu leczniczego i może być przeprowadzony pod warunkiem, że każde opakowanie bezpośrednie posiada co najmniej nazwę produktu leczniczego, jego moc (jeżeli dotyczy), datę ważności i numer serii.
 11.2 Dokumentacja
 1) tworzy się i zatwierdza instrukcję dzielenia opakowań produktów leczniczych stanowiących szczepionkę przeciw COVID-19, która zawiera następujące informacje:
 a) nazwę produktu leczniczego,
-b) postać farmaceutyczną oraz moc produktu leczniczego jeżeli została określona,
+b) postać farmaceutyczną oraz moc produktu leczniczego – jeżeli została określona,
 c) sposób prowadzenia czynności dzielenia opakowań,
 d) opis opakowań zewnętrznych przeznaczonych do dostawy,
 e) opis postępowania z materiałami opakowaniowymi oraz opakowaniami jednostkowymi produktów leczniczych pobranych, zużytych, zniszczonych lub zwróconych do magazynu,
@@ -376,9 +375,9 @@ i) imion i nazwisk wykonawców procesu dzielenia;
 1) przed rozpoczęciem dzielenia opakowań należy zapewnić obszar pracy czysty i wolny od wszelkich produktów, materiałów i dokumentów niepotrzebnych do przeprowadzenia procesu dzielenia; wszystkie produkty i materiały opakowaniowe, które mają być używane, są sprawdzone co do ilości, tożsamości i zgodności z instrukcją dzielenia;
 2) wykonywanie czynności dzielenia opakowania powinno zapewniać identyfikowalność produktu leczniczego poddanego dzieleniu; opakowania przeznaczone do dostawy muszą być czyste i oznaczone w sposób zapewniający identyfikację produktu leczniczego; etykieta, którą jest oznakowane opakowanie przeznaczone do dostawy, zawiera:
 a) nazwę produktu leczniczego,
-b) postać farmaceutyczną oraz moc produktu leczniczego jeżeli została określona,
+b) postać farmaceutyczną oraz moc produktu leczniczego – jeżeli została określona,
 c) numer serii produktu leczniczego,
-d) termin przydatności produktu leczniczego jeżeli w wyniku dzielenia opakowania lub zmiany warunków przechowywania uległ on zmianie,
+d) termin przydatności produktu leczniczego – jeżeli w wyniku dzielenia opakowania lub zmiany warunków przechowywania uległ on zmianie,
 e) warunki przechowywania produktu leczniczego,
 f) liczbę opakowań bezpośrednich produktu leczniczego w opakowaniu przeznaczonym do dostawy,
 g) datę i godzinę zmiany warunków przechowywania,
@@ -393,28 +392,28 @@ i) imię i nazwisko wykonawcy procesu dzielenia;
 5) nazwę odbiorcy i jego adres, adres dostawy;
 6) warunki transportu i przechowywania produktu leczniczego;
 7) liczbę opakowań bezpośrednich produktu leczniczego przeznaczonych do dostawy;
-8) numer plomby jeżeli dotyczy;
+8) numer plomby – jeżeli dotyczy;
 9) datę i godzinę załadunku;
 10) numer rejestracyjny pojazdu;
 11) imię i nazwisko kierowcy.
 
-#### ROZDZIAŁ 2 PERSONEL
+#### ROZDZIAŁ 2 – PERSONEL
 
-#### ROZDZIAŁ 3 POMIESZCZENIA I SPRZĘT
+#### ROZDZIAŁ 3 – POMIESZCZENIA I SPRZĘT
 
-#### ROZDZIAŁ 4 DOKUMENTACJA
+#### ROZDZIAŁ 4 – DOKUMENTACJA
 
-#### ROZDZIAŁ 5 CZYNNOŚCI
+#### ROZDZIAŁ 5 – CZYNNOŚCI
 
-#### ROZDZIAŁ 6 REKLAMACJE, ZWROTY, PODEJRZENIA SFAŁSZOWANIA PRODUKTÓW LECZNICZYCH, WSTRZYMANIE I WYCOFANIE PRODUKTÓW LECZNICZYCH
+#### ROZDZIAŁ 6 – REKLAMACJE, ZWROTY, PODEJRZENIA SFAŁSZOWANIA PRODUKTÓW LECZNICZYCH, WSTRZYMANIE I WYCOFANIE PRODUKTÓW LECZNICZYCH
 
-#### ROZDZIAŁ 7 DZIAŁANIA ZLECANE PODMIOTOM ZEWNĘTRZNYM
+#### ROZDZIAŁ 7 – DZIAŁANIA ZLECANE PODMIOTOM ZEWNĘTRZNYM
 
-#### ROZDZIAŁ 8 KONTROLE WEWNĘTRZNE
+#### ROZDZIAŁ 8 – KONTROLE WEWNĘTRZNE
 
-#### ROZDZIAŁ 9 TRANSPORT
+#### ROZDZIAŁ 9 – TRANSPORT
 
-#### ROZDZIAŁ 10 SZCZEGÓLNE WARUNKI DOTYCZĄCE POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI
+#### ROZDZIAŁ 10 – SZCZEGÓLNE WARUNKI DOTYCZĄCE POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI
 
-#### ROZDZIAŁ 11 SZCZEGÓLNE WARUNKI PRZYJMOWANIA, PRZECHOWYWANIA, TRANSPORTU ORAZ DOKUMENTOWANIA CZYNNOŚCI DOTYCZĄCYCH SZCZEPIONEK PRZECIW COVID-19 Postanowienia niniejszego rozdziału mają zastosowanie do szczepionek przeciw COVID-19 objętych Narodowym Programem Szczepień przeciw COVID-19, przyjętym na podstawie uchwały nr 187/2020 Rady Ministrów z dnia 15 grudnia 2020 r. w sprawie przyjęcia Narodowego Programu Szczepień przeciw COVID-19, dystrybuowanych zgodnie z przepisami wydanymi na podstawie art. 18a ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64, 655 i 974). Do spraw objętych postanowieniami niniejszego rozdziału nie mają zastosowania postanowienia pkt 9.2.11.
+#### ROZDZIAŁ 11 – SZCZEGÓLNE WARUNKI PRZYJMOWANIA, PRZECHOWYWANIA, TRANSPORTU ORAZ DOKUMENTOWANIA CZYNNOŚCI DOTYCZĄCYCH SZCZEPIONEK PRZECIW COVID-19 Postanowienia niniejszego rozdziału mają zastosowanie do szczepionek przeciw COVID-19 objętych Narodowym Programem Szczepień przeciw COVID-19, przyjętym na podstawie uchwały nr 187/2020 Rady Ministrów z dnia 15 grudnia 2020 r. w sprawie przyjęcia Narodowego Programu Szczepień przeciw COVID-19, dystrybuowanych zgodnie z przepisami wydanymi na podstawie art. 18a ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64, 655 i 974). Do spraw objętych postanowieniami niniejszego rozdziału nie mają zastosowania postanowienia pkt 9.2.11.
 

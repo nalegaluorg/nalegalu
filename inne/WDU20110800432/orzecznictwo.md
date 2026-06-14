@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 4 lutego 2011 r. Prawo prywatne międzynarodowe*
 
-Łącznie: **221** orzeczeń
+Łącznie: **222** orzeczeń
 (pominięto 183 orzeczeń sądów rejonowych)
 
 ## art. 1 (13)
@@ -541,8 +541,9 @@ Orzeczenia powołujące: *Ustawa z dnia 4 lutego 2011 r. Prawo prywatne międzyn
 
 - 2023-04-26 | SO | [I ACa 425/22](https://www.saos.org.pl/judgments/516423) | Wyrok
 
-## (ogólnie) (45)
+## (ogólnie) (46)
 
+- 2025-12-08 | SO | [I ACa 230/23](https://www.saos.org.pl/judgments/544996) | Wyrok
 - 2024-06-03 | SO | [I AGa 53/24](https://www.saos.org.pl/judgments/525291) | Wyrok
 - 2023-01-27 | SO | [I AGa 431/21](https://www.saos.org.pl/judgments/495097) | Wyrok
 - 2021-09-24 | SO | [V AGa 408/20](https://www.saos.org.pl/judgments/454311) | Wyrok

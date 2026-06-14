@@ -8,10 +8,10 @@ pos: 1809
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 października 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1809 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 września 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001809) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1809/text.pdf) |
 
-Poz. 1809 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 września 2021 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182, 904 i 1603) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U.
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182, 904 i 1603) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U.
 poz. 1839, z 2018 r. poz. 1015, z 2019 r. poz. 1698 oraz z 2020 r. poz. 1274) wprowadza się następujące zmiany:
 1) w § 3 w ust. 2 wyrazy „31 grudnia 2021 r.” zastępuje się wyrazami „30 czerwca 2023 r.”;
 2) w § 4 w ust. 2 i w § 5 w zdaniu pierwszym wyrazy „31 grudnia 2022 r.” zastępuje się wyrazami „30 czerwca 2024 r.”;

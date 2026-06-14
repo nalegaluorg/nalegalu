@@ -8,10 +8,10 @@ pos: 2041
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 listopada 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2041 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 18 listopada 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2041/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 18 listopada 2020 r.
-w sprawie wpłat pokrycie kosztów nadzoru emerytalnego Na podstawie art. 14 ust. 3 ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym (Dz. U. z 2019 r.
-poz. 207) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) terminy uiszczania, wysokość i sposób obliczania wpłat powszechnych towarzystw emerytalnych, zwanych dalej „PTE”, pokrycie kosztów nadzoru nad działalnością w zakresie funduszy emerytalnych, pracowniczych progra mów emerytalnych oraz pracowniczych planów kapitałowych, zwanych dalej „kosztami nadzoru”;
+w sprawie wpłat na pokrycie kosztów nadzoru emerytalnego Na podstawie art. 14 ust. 3 ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym (Dz. U. z 2019 r.
+poz. 207) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) terminy uiszczania, wysokość i sposób obliczania wpłat powszechnych towarzystw emerytalnych, zwanych dalej „PTE”, na pokrycie kosztów nadzoru nad działalnością w zakresie funduszy emerytalnych, pracowniczych progra mów emerytalnych oraz pracowniczych planów kapitałowych, zwanych dalej „kosztami nadzoru”;
 2) sposób pokrywania z wpłat, o których mowa w pkt 1, kosztów nadzoru.
-§ 2. 1. Wysokość należnej wpłaty wnoszonej przez PTE pokrycie kosztów nadzoru za dany rok kalendarzowy, zwa nej dalej „należną wpłatą”, oblicza się według wzoru: Kk = Fk × S gdzie: Kk oznacza należną wpłatę, Fk oznacza ustaloną przez PTE średnią roczną wartość aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, obliczoną zgodnie z art. 14 ust. 1 pkt 2 ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym, zwanej dalej „ustawą”, S oznacza stawkę stosowaną do obliczenia należnej wpłaty za dany rok kalendarzowy, obliczaną zgodnie z ust. 2 i 4.
-2. Stawkę (S ) oblicza się według wzoru: K S = × 100% F gdzie: K oznacza koszty nadzoru do pokrycia w roku kalendarzowym, za który należna jest wpłata, obliczane zgodnie z ust. 3, F oznacza sumę kwot średnich rocznych wartości aktywów wszystkich otwartych funduszy emerytalnych zarządza nych przez PTE w roku kalendarzowym, za który należna jest wpłata, obliczoną zgodnie z art. 14 ust. 1 ustawy.
-3. Koszty nadzoru do pokrycia w roku kalendarzowym, za który jest należna wpłata (K ) oblicza się według wzoru: K = PK − (PK − WK ) gdzie: PK oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2020 r. poz. 180, 284, 568 i 695), zwanej dalej „ustawą o nadzorze”, ujęte w pla nie finansowym Urzędu Komisji Nadzoru Finansowego rok kalendarzowy, za który jest należna wpłata, w części przypadającej koszty nadzoru, WK oznacza wykonane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finan sowym Urzędu Komisji Nadzoru Finansowego rok kalendarzowy, za który jest należna wpłata, w części przypa
+§ 2. 1. Wysokość należnej wpłaty wnoszonej przez PTE na pokrycie kosztów nadzoru za dany rok kalendarzowy, zwa nej dalej „należną wpłatą”, oblicza się według wzoru: Kk = Fk × S gdzie: Kk – oznacza należną wpłatę, Fk – oznacza ustaloną przez PTE średnią roczną wartość aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, obliczoną zgodnie z art. 14 ust. 1 pkt 2 ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym, zwanej dalej „ustawą”, S – oznacza stawkę stosowaną do obliczenia należnej wpłaty za dany rok kalendarzowy, obliczaną zgodnie z ust. 2 i 4.
+2. Stawkę (S ) oblicza się według wzoru: K S = × 100% F gdzie: K – oznacza koszty nadzoru do pokrycia w roku kalendarzowym, za który należna jest wpłata, obliczane zgodnie z ust. 3, F – oznacza sumę kwot średnich rocznych wartości aktywów wszystkich otwartych funduszy emerytalnych zarządza nych przez PTE w roku kalendarzowym, za który należna jest wpłata, obliczoną zgodnie z art. 14 ust. 1 ustawy.
+3. Koszty nadzoru do pokrycia w roku kalendarzowym, za który jest należna wpłata (K ) oblicza się według wzoru: K = PK − (PK − WK ) gdzie: PK – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2020 r. poz. 180, 284, 568 i 695), zwanej dalej „ustawą o nadzorze”, ujęte w pla nie finansowym Urzędu Komisji Nadzoru Finansowego na rok kalendarzowy, za który jest należna wpłata, w części przypadającej na koszty nadzoru, WK – oznacza wykonane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finan sowym Urzędu Komisji Nadzoru Finansowego na rok kalendarzowy, za który jest należna wpłata, w części przypa dającej na koszty nadzoru.
 4. Jeżeli wysokość stawki, obliczona zgodnie z ust. 2, przekracza 0,016%, odpowiednio do ustalenia należnej wpłaty przyjmuje się wysokość 0,016%.
 § 3. Do dnia 15 lutego następnego roku kalendarzowego Przewodniczący Komisji Nadzoru Finansowego podaje do publicznej wiadomości, w drodze komunikatu ogłaszanego w Dzienniku Urzędowym Komisji Nadzoru Finansowego, wy sokość:
 1) stawki (S ) stosowanej do wyliczenia kwoty należnej wpłaty, obliczonej zgodnie z § 2 ust. 2 i 4;
 2) kosztów nadzoru do pokrycia w danym roku kalendarzowym.
 § 4. Należna wpłata wnoszona jest w dwóch częściach.
-§ 5. 1. Pierwszą część należnej wpłaty PTE oblicza według wzoru: KkI = Fk × S gdzie: KkI oznacza pierwszą część należnej wpłaty, Fk oznacza ustaloną przez PTE kwotę średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczoną podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego, S oznacza stawkę stosowaną do wyliczenia pierwszej części należnej wpłaty obliczaną zgodnie z ust. 2 i 3.
-2. Stawkę (S ) oblicza się według wzoru: S PK = F × 100% gdzie: PK oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finan sowym Urzędu Komisji Nadzoru Finansowego rok kalendarzowy, za który jest należna wpłata, w części przypa dającej koszty nadzoru, F oznacza sumę kwot średnich wartości aktywów wszystkich otwartych funduszy emerytalnych zarządzanych przez PTE za pierwsze dziesięć miesięcy danego roku, obliczoną podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego.
+§ 5. 1. Pierwszą część należnej wpłaty PTE oblicza według wzoru: KkI = Fk × S gdzie: KkI – oznacza pierwszą część należnej wpłaty, Fk – oznacza ustaloną przez PTE kwotę średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczoną na podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego, S – oznacza stawkę stosowaną do wyliczenia pierwszej części należnej wpłaty obliczaną zgodnie z ust. 2 i 3.
+2. Stawkę (S ) oblicza się według wzoru: PK S = × 100% F gdzie: PK – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finan sowym Urzędu Komisji Nadzoru Finansowego na rok kalendarzowy, za który jest należna wpłata, w części przypa dającej na koszty nadzoru, F – oznacza sumę kwot średnich wartości aktywów wszystkich otwartych funduszy emerytalnych zarządzanych przez PTE za pierwsze dziesięć miesięcy danego roku, obliczoną na podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego.
 3. Jeżeli wysokość stawki, obliczona zgodnie z ust. 2, przekracza 0,016%, odpowiednio do ustalenia należnej wpłaty przyjmuje się wysokość 0,016%.
 § 6. Do dnia 15 listopada danego roku kalendarzowego Przewodniczący Komisji Nadzoru Finansowego podaje do pub licznej wiadomości, w drodze komunikatu ogłaszanego w Dzienniku Urzędowym Komisji Nadzoru Finansowego, wyso kość:
 1) stawki (S ) stosowanej do wyliczenia pierwszej części należnej wpłaty, obliczonej zgodnie z § 5 ust. 2 i 3;
@@ -48,58 +48,60 @@ poz. 207) zarządza się, co następuje: § 1. Rozporządzenie określa:
 § 8. 1. PTE uiszcza do dnia:
 1) 15 grudnia danego roku kalendarzowego pierwszą części należnej wpłaty;
 2) 15 marca następnego roku kalendarzowego drugą część należnej wpłaty.
+2. Należną wpłatę uiszcza się na rachunek bankowy Urzędu Komisji Nadzoru Finansowego.
 § 9. 1. W terminie nie dłuższym niż 7 dni od dnia upływu terminu uiszczenia należnej wpłaty, o której mowa w § 8 ust. 1 pkt 1, PTE przekazuje Urzędowi Komisji Nadzoru Finansowego deklarację o wysokości pierwszej części należnej wpłaty zawierającą:
 1) nazwę i numer identyfikacji podatkowej (NIP) PTE;
-2) wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczoną podstawie wartości akty wów otwartego funduszu emerytalnego ustalanej ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego;
+2) wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczoną na podstawie wartości akty wów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego;
 3) wysokość pierwszej części należnej wpłaty;
-4) kwotę pierwszej części należnej wpłaty uiszczonej rachunek bankowy Urzędu Komisji Nadzoru Finansowego;
+4) kwotę pierwszej części należnej wpłaty uiszczonej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego;
 5) datę uiszczenia należnej wpłaty, o której mowa w pkt 4.
 2. Wzór deklaracji, o której mowa w ust. 1, określa załącznik nr 1 do rozporządzenia.
 § 10. 1. W terminie nie dłuższym niż 10 dni od dnia upływu terminu uiszczenia wpłaty, o której mowa w § 8 ust. 1 pkt 2, PTE przekazuje Urzędowi Komisji Nadzoru Finansowego deklarację o wysokości drugiej części należnej wpłaty zawierającą:
 1) nazwę i numer identyfikacji podatkowej (NIP) PTE;
 2) wysokość ustalonej przez PTE średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, obliczonej zgodnie z art. 14 ust. 1 pkt 2 ustawy, za dany rok kalendarzowy;
-3) wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczoną podstawie wartości akty wów otwartego funduszu emerytalnego ustalanej ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego;
+3) wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczoną na podstawie wartości akty wów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego;
 4) wysokość należnej wpłaty, w tym:
 a) wysokość pierwszej części należnej wpłaty,
 b) wysokość drugiej części należnej wpłaty;
-5) kwotę drugiej części należnej wpłaty uiszczonej rachunek bankowy Urzędu Komisji Nadzoru Finansowego;
+5) kwotę drugiej części należnej wpłaty uiszczonej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego;
 6) datę uiszczenia należnej wpłaty, o której mowa w pkt 5.
 2. Wzór deklaracji, o której mowa w ust. 1, określa załącznik nr 2 do rozporządzenia.
 § 11. Deklaracje, o których mowa w § 9 i § 10, są składane w postaci dokumentu elektronicznego przez system teleinformatyczny udostępniony nieodpłatnie za pośrednictwem strony internetowej Urzędu Komisji Nadzoru Finansowego.
 § 12. 1. Przepisy rozporządzenia stosuje się do kosztów nadzoru ponoszonych począwszy od roku 2019.
 2. Jeżeli wysokość stawki za rok 2019, obliczona zgodnie z § 2 ust. 2, przekracza 0,010%, odpowiednio do ustalenia należnej wpłaty przyjmuje się wysokość 0,010%.
-3. Należną wpłatę za rok 2019 pomniejsza się o wysokość zaliczek uiszczonych poczet kosztów nadzoru za rok 2019, o których mowa w § 3 ust. 1 rozporządzenia Prezesa Rady Ministrów z dnia 30 maja 2011 r. w sprawie wpłat pokrycie kosztów nadzoru nad działalnością w zakresie funduszy emerytalnych i pracowniczych programów emerytalnych (Dz. U.
+3. Należną wpłatę za rok 2019 pomniejsza się o wysokość zaliczek uiszczonych na poczet kosztów nadzoru za rok 2019, o których mowa w § 3 ust. 1 rozporządzenia Prezesa Rady Ministrów z dnia 30 maja 2011 r. w sprawie wpłat na pokrycie kosztów nadzoru nad działalnością w zakresie funduszy emerytalnych i pracowniczych programów emerytalnych (Dz. U.
 poz. 655), zwanych dalej „zaliczkami za rok 2019”.
-4. W przypadku gdy zaliczka za rok 2019 przekracza wysokość należnej wpłaty za rok 2019, nadpłatę zalicza się poczet należnej wpłaty za rok 2020.
+4. W przypadku gdy zaliczka za rok 2019 przekracza wysokość należnej wpłaty za rok 2019, nadpłatę zalicza się na poczet należnej wpłaty za rok 2020.
 § 13. 1. W terminie do dnia 20 listopada 2020 r. Przewodniczący Komisji Nadzoru Finansowego podaje do publicznej wiadomości, w drodze komunikatu ogłaszanego w Dzienniku Urzędowym Komisji Nadzoru Finansowego, wysokość:
 1) stawki (S ) stosowanej do wyliczenia kwoty należnej wpłaty za 2019 r. obliczonej zgodnie z § 2 ust. 2 i § 12 ust. 2;
+2) stawki (S ) stosowanej do wyliczenia pierwszej części należnej wpłaty za 2020 r. obliczonej zgodnie z § 5 ust. 2 i 3;
 3) planowanych kosztów nadzoru w roku 2019;
 4) wykonanych kosztów nadzoru za rok 2019;
 5) planowanych kosztów nadzoru w roku 2020.
-2. W terminie do dnia 15 grudnia 2020 r. PTE uiszcza rachunek bankowy Urzędu Komisji Nadzoru Finansowego łącznie:
+2. W terminie do dnia 15 grudnia 2020 r. PTE uiszcza na rachunek bankowy Urzędu Komisji Nadzoru Finansowego łącznie:
 1) należną wpłatę za rok 2019 pomniejszoną o kwotę zaliczek za rok 2019 oraz
 2) pierwszą część należnej wpłaty za rok 2020.
 § 14. 1. W terminie nie dłuższym niż 14 dni od dnia upływu terminu uiszczenia wpłaty, o której mowa w § 13 ust. 2, PTE przekazuje Urzędowi Komisji Nadzoru Finansowego deklarację o wysokości wpłaty, o której mowa w § 12 ust. 3, i pierwszej części należnej wpłaty za rok 2020 zawierającą:
 1) nazwę i numer identyfikacji podatkowej (NIP) PTE;
 2) wysokość ustalonej przez PTE średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, obliczonej zgodnie z art. 14 ust. 1 pkt 2 ustawy, za rok 2019;
-3) wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy roku 2020, obliczoną podstawie wartości aktywów otwartego fun duszu emerytalnego ustalanej ostatni dzień roboczy każdego z dziesięciu miesięcy roku 2020;
+3) wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy roku 2020, obliczoną na podstawie wartości aktywów otwartego fun duszu emerytalnego ustalanej na ostatni dzień roboczy każdego z dziesięciu miesięcy roku 2020;
 4) wysokość należnej wpłaty za rok 2019;
 5) wysokość zaliczek za rok 2019;
 6) kwotę, o której mowa w § 12 ust. 3;
 7) wysokość pierwszej części należnej wpłaty za rok 2020;
-8) kwoty należnych wpłat uiszczonych rachunek bankowy Urzędu Komisji Nadzoru Finansowego, o których mowa w pkt 6 i 7;
+8) kwoty należnych wpłat uiszczonych na rachunek bankowy Urzędu Komisji Nadzoru Finansowego, o których mowa w pkt 6 i 7;
 9) datę uiszczenia należnych wpłat, o których mowa w pkt 6 i 7.
 2. Wzór deklaracji, o której mowa w ust. 1, określa załącznik nr 3 do rozporządzenia.
 3. Deklaracja, o której mowa w ust. 1, składana jest w postaci dokumentu elektronicznego przez system teleinforma tyczny udostępniony nieodpłatnie za pośrednictwem strony internetowej Urzędu Komisji Nadzoru Finansowego.
 § 15. Do kosztów nadzoru ponoszonych za rok 2019 nie stosuje się przepisów § 3–7, § 8 ust. 1 oraz § 9 i § 10.
 § 16. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki do rozporządzenia PrezesaRadyMinistrów z dnia (poz. …) Załącznik nr 1 WZÓR WZÓR DEKLARACJA POWSZECHNEGO TOWARZYSTWA EMERYTALNEGO O WYSOKOŚCI PIERWSZEJ CZĘŚCI WPŁATY NA POKRYCIE KOSZTÓW NADZORU EMERYTALNEGO ZA ROK …….
+Prezes Rady Ministrów: M. Morawiecki Załączniki do rozporządzenia PrezesaRadyMinistrów z dnia (poz. …) Załącznik nr 1 WZÓR WZÓR DEKLARACJA POWSZECHNEGO TOWARZYSTWA EMERYTALNEGO O WYSOKOŚCI PIERWSZEJ CZĘŚCI WPŁATY NA POKRYCIE KOSZTÓW NADZORU EMERYTALNEGO ZA ROK …….
 Nazwa powszechnego towarzystwa emerytalnego: …………………………………..
 NIP: …………………………………..
-Dane, w tym kwoty Wyszczególnienie zaokrąglone do pełnych złotych 1 Wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczona podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego 2 Wysokość pierwszej części należnej wpłaty 3 Kwota pierwszej części należnej wpłaty uiszczona rachunek bankowy Urzędu Komisji Nadzoru Finansowego 4 Data wpłaty, o której mowa w poz. 3 Załącznik nr 2 WZÓR WZÓR DEKLARACJA POWSZECHNEGO TOWARZYSTWA EMERYTALNEGO O WYSOKOŚCI DRUGIEJ CZĘŚCI WPŁATY NA POKRYCIE KOSZTÓW NADZORU EMERYTALNEGO ZA ROK …….
+Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych 1 Wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczona na podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego 2 Wysokość pierwszej części należnej wpłaty 3 Kwota pierwszej części należnej wpłaty uiszczona na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 4 Data wpłaty, o której mowa w poz. 3 Załącznik nr 2 WZÓR WZÓR DEKLARACJA POWSZECHNEGO TOWARZYSTWA EMERYTALNEGO O WYSOKOŚCI DRUGIEJ CZĘŚCI WPŁATY NA POKRYCIE KOSZTÓW NADZORU EMERYTALNEGO ZA ROK …….
 Nazwa powszechnego towarzystwa emerytalnego: …………………………………..
 NIP: …………………………………..
-Dane, w tym kwoty Wyszczególnienie zaokrąglone do pełnych złotych 1 Wysokość ustalonej przez PTE średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, obliczonej zgodnie z art. 14 ust. 1 pkt 2 ustawy, za dany rok kalendarzowy 2 Wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczona podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego 3 Wysokość należnej wpłaty (suma poz. 4 i 5) 4 Wysokość pierwszej części należnej wpłaty 5 Wysokość drugiej części należnej wpłaty 6 Kwota drugiej części należnej wpłaty uiszczona rachunek bankowy Urzędu Komisji Nadzoru Finansowego 7 Data wpłaty, o której mowa w poz. 6 Załącznik nr 3 WZÓR WZÓR DEKLARACJA POWSZECHNEGO TOWARZYSTWA EMERYTALNEGO O WYSOKOŚCI NALEŻNEJ WPŁATY NA POKRYCIE KOSZTÓW NADZORU EMERYTALNEGO ZA ROK 2019 POMNIEJSZONEJ O KWOTĘ ZALICZEK ZA ROK 2019 ORAZ O WYSOKOŚCI PIERWSZEJ CZĘŚCI WPŁATY NA POKRYCIE KOSZTÓW NADZORU EMERYTALNEGO ZA ROK 2020 Nazwa powszechnego towarzystwa emerytalnego: …………………………………..
+Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych 1 Wysokość ustalonej przez PTE średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, obliczonej zgodnie z art. 14 ust. 1 pkt 2 ustawy, za dany rok kalendarzowy 2 Wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy danego roku kalendarzowego, obliczona na podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego z dziesięciu miesięcy danego roku kalendarzowego 3 Wysokość należnej wpłaty (suma poz. 4 i 5) 4 Wysokość pierwszej części należnej wpłaty 5 Wysokość drugiej części należnej wpłaty 6 Kwota drugiej części należnej wpłaty uiszczona na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 7 Data wpłaty, o której mowa w poz. 6 Załącznik nr 3 WZÓR WZÓR DEKLARACJA POWSZECHNEGO TOWARZYSTWA EMERYTALNEGO O WYSOKOŚCI NALEŻNEJ WPŁATY NA POKRYCIE KOSZTÓW NADZORU EMERYTALNEGO ZA ROK 2019 POMNIEJSZONEJ O KWOTĘ ZALICZEK ZA ROK 2019 ORAZ O WYSOKOŚCI PIERWSZEJ CZĘŚCI WPŁATY NA POKRYCIE KOSZTÓW NADZORU EMERYTALNEGO ZA ROK 2020 Nazwa powszechnego towarzystwa emerytalnego: …………………………………..
 NIP: …………………………………..
-Dane, w tym kwoty Wyszczególnienie zaokrąglone do pełnych złotych 1 Wysokość ustalonej przez PTE średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, obliczonej zgodnie z art. 14 ust. 1 pkt 2 ustawy, za rok 2019 2 Wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy roku 2020, obliczona podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej ostatni dzień roboczy każdego z dziesięciu miesięcy roku 2020 3 Wysokość należnej wpłaty za rok 2019 4 Wysokość zaliczek za rok 2019 5 Różnica między wysokością należnej wpłaty za rok 2019 i zaliczek za rok 2019 (kwota, o której mowa w § 12 ust. 3 rozporządzenia) 6 Wysokość pierwszej części należnej wpłaty za rok 2020 7 Kwoty należnych wpłat uiszczonych rachunek bankowy Urzędu Komisji Nadzoru Finansowego (suma poz. 5 i 6) 8 Data wpłaty, o której mowa w poz. 7
+Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych 1 Wysokość ustalonej przez PTE średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, obliczonej zgodnie z art. 14 ust. 1 pkt 2 ustawy, za rok 2019 2 Wysokość ustalonej przez PTE kwoty średniej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane PTE, za pierwsze dziesięć miesięcy roku 2020, obliczona na podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego z dziesięciu miesięcy roku 2020 3 Wysokość należnej wpłaty za rok 2019 4 Wysokość zaliczek za rok 2019 5 Różnica między wysokością należnej wpłaty za rok 2019 i zaliczek za rok 2019 (kwota, o której mowa w § 12 ust. 3 rozporządzenia) 6 Wysokość pierwszej części należnej wpłaty za rok 2020 7 Kwoty należnych wpłat uiszczonych na rachunek bankowy Urzędu Komisji Nadzoru Finansowego (suma poz. 5 i 6) 8 Data wpłaty, o której mowa w poz. 7
 

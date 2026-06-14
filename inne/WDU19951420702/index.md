@@ -8,7 +8,7 @@ pos: 702
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zasadach ewidencji i identyfikacji podatników i płatników
@@ -30,6 +30,14 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady ewidencji:
+    - **a)** podatników,
+    - **b)** płatników podatków,
+    - **c)** płatników składek na ubezpieczenia społeczne oraz ubezpieczenia zdrowotne, zwanych dalej „płatnikami składek ubezpieczeniowych”;
+
+- **2)** zasady i tryb nadawania numeru identyfikacji podatkowej, zwanego dalej „NIP”;
+- **3)** zasady posługiwania się identyfikatorem podatkowym.
 
 **Art. 2.**
 
@@ -63,6 +71,14 @@ source: "isap-pdf"
 **Art. 3a.** W przypadku gdy z odrębnych przepisów wynika obowiązek podawania NIP, obowiązek ten dotyczy wyłącznie podmiotów, które są obowiązane posiadać NIP na podstawie przepisów niniejszej ustawy.
 
 **Art. 4.** W sprawach określonych w art. 5 ust. 1, art. 8b, art. 8c, art. 9 ust. 1 i art. 12 ust. 1c właściwymi naczelnikami urzędów skarbowych są:
+
+- **1)** dla podatników podatku od towarów i usług – naczelnik urzędu skarbowego właściwy w sprawach podatku od towarów i usług;
+- **2)** (uchylony)
+- **3)** dla pozostałych podatników:
+    - **a)** będących podatnikami podatku dochodowego – naczelnik urzędu skarbowego właściwy w sprawach tego podatku,
+    - **b)** niebędących podatnikami podatku dochodowego – naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę podatnika, a jeżeli podatnik nie ma miejsca zamieszkania lub siedziby w Polsce – naczelnik Drugiego Urzędu Skarbowego Warszawa Śródmieście;
+
+- **4)** dla płatników podatków oraz płatników składek ubezpieczeniowych, niebędących jednocześnie podatnikami, o których mowa w pkt 1–3 – naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę płatnika; w pozostałych przypadkach właściwym naczelnikiem urzędu skarbowego jest naczelnik Drugiego Urzędu Skarbowego Warszawa Śródmieście.
 
 #### Rozdział 2 Postępowanie w sprawie nadania numeru identyfikacji podatkowej
 
@@ -381,6 +397,14 @@ source: "isap-pdf"
 6. Dane z CRP KEP, o których mowa w art. 14 ust. 2 pkt 1 i 2, są udostępniane ministrowi właściwemu do spraw gospodarki prowadzącemu Centralną Ewidencję i Informację o Działalności Gospodarczej.
 
 **Art. 15a.** Przepisy niniejszego rozdziału, dotyczące podatników, stosuje się odpowiednio do płatników podatków oraz płatników składek ubezpieczeniowych. Art. 15aa. 1. W związku z przetwarzaniem danych osobowych w celu nadania NIP wykonanie obowiązku, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), następuje przez udostępnienie informacji, o których mowa w art. 13 ust. 1 i 2, tego rozporządzenia w miejscu publicznie dostępnym w siedzibie organu lub w Biuletynie Informacji Publicznej na stronie podmiotowej tego organu lub urzędu obsługującego ten organ oraz na jego stronie internetowej. W takim przypadku, pozyskując dane osobowe, organ przekazuje osobie, której dane dotyczą, informacje o sposobie wykonania tego obowiązku. 2. Organy, o których mowa w art. 14a, mogą upoważniać do przetwarzania danych osobowych osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych Krajowej Administracji Skarbowej, w zakresie niezbędnym do realizacji zadań powierzonych tym osobom. Upoważnienie jest wydawane w formie pisemnej w drodze imiennego upoważnienia, upoważnienia stanowiskowego lub aktu wewnętrznego, chyba że przepis szczególny stanowi inaczej. Organy te prowadzą rejestr osób upoważnionych do przetwarzania danych osobowych. 3. Dane osobowe przetwarzane przez organy, o których mowa w art. 14a, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+
+- **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
+- **3)** testowaniu i doskonaleniu stosowanych środków technicznych i organizacyjnych;
+- **4)** zapewnieniu bezpiecznej komunikacji w sieciach teleinformatycznych, w szczególności przez pozyskiwanie i przekazywanie danych osobowych podmiotom zewnętrznym z wykorzystaniem technik kryptograficznych;
+- **5)** zapewnieniu ochrony przed nieuprawnionym dostępem do CRP KEP;
+- **6)** zapewnieniu integralności danych w CRP KEP;
+- **7)** określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
 
 **Art. 15b.** W zakresie nieuregulowanym w art. 15 stosuje się przepisy art. 294 § 2–5 oraz działu VIII Ordynacji podatkowej.
 

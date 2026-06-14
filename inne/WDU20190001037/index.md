@@ -8,10 +8,10 @@ pos: 1037
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 czerwca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1037 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 4 czerwca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1037/text.pdf) |
 
-Poz. 1037 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 4 czerwca 2019 r.
 w sprawie ustanowienia Pełnomocnika Rządu do spraw przeciwdziałania wykluczeniu komunikacyjnemu Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392, z 2015 r.
-poz. 1064, z 2018 r. poz. 1669 oraz z 2019 r. poz. 271 i 730) zarządza się, co następuje: § 1. 1. Ustanawia się Pełnomocnika Rządu do spraw przeciwdziałania wykluczeniu komunikacyjnemu, zwanego dalej „Pełnomocnikiem”.
+poz. 1064, z 2018 r. poz. 1669 oraz z 2019 r. poz. 271 i 730) zarządza się, co następuje:
+§ 1. 1. Ustanawia się Pełnomocnika Rządu do spraw przeciwdziałania wykluczeniu komunikacyjnemu, zwanego dalej „Pełnomocnikiem”.
 2. Pełnomocnikiem jest sekretarz stanu w ministerstwie obsługującym ministra właściwego do spraw transportu.
 § 2. Do zadań Pełnomocnika należy:
 1) monitorowanie i analizowanie sposobu realizacji zadań określonych w ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2018 r. poz. 2016 i 2435 oraz z 2019 r. poz. 730);
@@ -40,7 +40,7 @@ poz. 1064, z 2018 r. poz. 1669 oraz z 2019 r. poz. 271 i 730) zarządza się, co
 § 3. 1. Organy administracji rządowej oraz jednostki im podległe lub przez nie nadzorowane są obowiązane do współdziałania i udzielania pomocy Pełnomocnikowi, w szczególności przez udostępnianie Pełnomocnikowi informacji i dokumentów niezbędnych do realizacji jego zadań.
 2. Pełnomocnik może, w porozumieniu z ministrem właściwym do spraw transportu, występować do właściwych organów administracji rządowej, wskazując problemy należące do obszaru jego właściwości, o podjęcie działań w zakresie pozostającym we właściwości tych organów.
 3. Pełnomocnik, w celu właściwej realizacji powierzonych mu zadań, może podejmować współpracę z organami jednostek samorządu terytorialnego, państwowymi osobami prawnymi, osobami prawnymi z udziałem Skarbu Państwa oraz organizacjami pozarządowymi.
-Dziennik Ustaw – 2 – Poz. 1037 § 4. Pełnomocnik może wnosić, za zgodą Prezesa Rady Ministrów, w porozumieniu z ministrem właściwym do spraw transportu, opracowane przez siebie projekty dokumentów rządowych, wynikające z zakresu jego działania, do rozpatrzenia przez Radę Ministrów.
+§ 4. Pełnomocnik może wnosić, za zgodą Prezesa Rady Ministrów, w porozumieniu z ministrem właściwym do spraw transportu, opracowane przez siebie projekty dokumentów rządowych, wynikające z zakresu jego działania, do rozpatrzenia przez Radę Ministrów.
 § 5. Pełnomocnik, w porozumieniu z ministrem właściwym do spraw transportu, przedstawia Radzie Ministrów analizy, oceny i wnioski związane z zakresem jego działania.
 § 6. Pełnomocnik informuje Prezesa Rady Ministrów oraz ministra właściwego do spraw transportu o zagrożeniach w realizacji powierzonych mu zadań.
 § 7. Pełnomocnik, w zakresie powierzonych mu zadań, może zlecać przeprowadzanie badań i ekspertyz oraz występować do ministra właściwego do spraw transportu o powołanie zespołów eksperckich i doradczych.

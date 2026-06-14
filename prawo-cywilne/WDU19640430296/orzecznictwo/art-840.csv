@@ -81,7 +81,9 @@ saos_id|date|court|case_number|type|score|saos_url
 82349|2003-11-27|SN|III CZP 78/03|Postanowienie|69|https://www.saos.org.pl/judgments/82349
 543148|2026-03-10|SO|I ACa 752/25|Wyrok|56|https://www.saos.org.pl/judgments/543148
 543146|2026-02-10|SO|I ACa 342/24|Wyrok|56|https://www.saos.org.pl/judgments/543146
+545401|2026-01-23|SO|I ACa 1851/25|Wyrok|56|https://www.saos.org.pl/judgments/545401
 543142|2025-12-18|SO|I ACa 1990/23|Wyrok|56|https://www.saos.org.pl/judgments/543142
+546732|2025-11-28|SO|I ACa 1737/23|Wyrok|56|https://www.saos.org.pl/judgments/546732
 542926|2025-11-25|SO|I AGa 305/22|Wyrok|56|https://www.saos.org.pl/judgments/542926
 542844|2025-11-12|SO|I AGa 369/24|Wyrok|56|https://www.saos.org.pl/judgments/542844
 538667|2025-10-17|SO|I ACa 1258/23|Wyrok|56|https://www.saos.org.pl/judgments/538667
@@ -1188,6 +1190,7 @@ saos_id|date|court|case_number|type|score|saos_url
 478660|2022-08-30|SO|II1 C 2/22|Wyrok|40|https://www.saos.org.pl/judgments/478660
 478664|2022-08-23|SO|II1 C 8/22|Wyrok|40|https://www.saos.org.pl/judgments/478664
 498191|2022-07-08|SO|I C 448/21|Wyrok|40|https://www.saos.org.pl/judgments/498191
+545199|2022-07-07|SO|I C 76/22|Wyrok|40|https://www.saos.org.pl/judgments/545199
 479518|2022-06-24|SO|II C 502/20|Wyrok|40|https://www.saos.org.pl/judgments/479518
 498433|2022-05-16|SO|I C 506/22|Wyrok|40|https://www.saos.org.pl/judgments/498433
 463166|2022-03-04|SO|II Ca 1911/21|Wyrok|40|https://www.saos.org.pl/judgments/463166
@@ -1684,6 +1687,7 @@ saos_id|date|court|case_number|type|score|saos_url
 140562|2013-02-28|SO|I C 1886/12|Wyrok|40|https://www.saos.org.pl/judgments/140562
 137625|2013-01-30|SO|I Ca 12/13|Wyrok|40|https://www.saos.org.pl/judgments/137625
 136959|2013-01-30|SO|I C 1224/12|Wyrok|40|https://www.saos.org.pl/judgments/136959
+545312|2025-11-14|SO|I C 658/25|Postanowienie|31|https://www.saos.org.pl/judgments/545312
 535852|2025-09-08|SO|II Co 54/25|Postanowienie|31|https://www.saos.org.pl/judgments/535852
 533128|2025-06-30|SO|II C 1440/24|Postanowienie|31|https://www.saos.org.pl/judgments/533128
 518486|2024-12-12|SO|IV Po 19/24|Postanowienie|31|https://www.saos.org.pl/judgments/518486

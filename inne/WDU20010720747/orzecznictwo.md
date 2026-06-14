@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.*
 
-Łącznie: **242** orzeczeń
-(pominięto 486 orzeczeń sądów rejonowych)
+Łącznie: **243** orzeczeń
+(pominięto 488 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 
@@ -298,14 +298,16 @@ Orzeczenia powołujące: *Ustawa z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzen
 - 2019-05-14 | SO | [XII C 291/17](https://www.saos.org.pl/judgments/381104) | Wyrok
 - 2014-04-25 | SO | [II Ca 2620/13](https://www.saos.org.pl/judgments/50162) | Wyrok
 
-## art. 20 (3)
+## art. 20 (4)
 
 - 2006-11-17 | SN | [V CSK 257/06](https://www.saos.org.pl/judgments/164646) | Wyrok ★
+- 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok
 - 2016-10-26 | SO | [I ACa 641/16](https://www.saos.org.pl/judgments/262364) | Wyrok
 - 2016-04-06 | SO | [III Ca 1921/15](https://www.saos.org.pl/judgments/222693) | Uzasadnienie
 
-## art. 21 (4)
+## art. 21 (5)
 
+- 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok
 - 2016-07-14 | SO | [VI ACa 738/15](https://www.saos.org.pl/judgments/240147) | Wyrok
 - 2015-06-24 | SO | [VI ACa 1124/14](https://www.saos.org.pl/judgments/197781) | Wyrok
 - 2012-09-25 | SO | [I ACa 484/12](https://www.saos.org.pl/judgments/1009) | Wyrok

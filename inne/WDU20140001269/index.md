@@ -8,10 +8,10 @@ pos: 1269
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1269 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 sierpnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001269) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1269/text.pdf) |
 
-Poz. 1269 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 sierpnia 2014 r.
-w sprawie zniesienia Pełnomocnika Rządu do Spraw Programu dla Odry–2006 Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje: § 1. Znosi się Pełnomocnika Rządu do Spraw Programu dla Odry–2006, zwanego dalej „Pełnomocnikiem”.
+w sprawie zniesienia Pełnomocnika Rządu do Spraw Programu dla Odry–2006 Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:
+§ 1. Znosi się Pełnomocnika Rządu do Spraw Programu dla Odry–2006, zwanego dalej „Pełnomocnikiem”.
 § 2. 1. Zadania Pełnomocnika wszczęte i niezakończone do dnia wejścia w życie rozporządzenia będą koordynowane przez Prezesa Krajowego Zarządu Gospodarki Wodnej, nie dłużej jednak niż do dnia 31 grudnia 2015 r.
 2. W toku wykonywania zadań wynikających z Programu dla Odry–2006, Prezes Krajowego Zarządu Gospodarki Wodnej współdziała z właściwymi ministrami, kierownikami urzędów centralnych, wojewodami i innymi organami administracji rządowej oraz z organami samorządu terytorialnego i organizacjami pozarządowymi.
 3. Organy administracji rządowej są obowiązane do współdziałania z Prezesem Zarządu Gospodarki Wodnej w realizacji zadań wynikających z Programu dla Odry–2006.

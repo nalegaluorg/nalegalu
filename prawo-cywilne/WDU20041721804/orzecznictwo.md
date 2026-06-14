@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 2 lipca 2004 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw*
 
 Łącznie: **112** orzeczeń
-(pominięto 23 orzeczeń sądów rejonowych)
+(pominięto 24 orzeczeń sądów rejonowych)
 
 ## art. 1 (35)
 

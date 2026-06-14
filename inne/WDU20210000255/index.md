@@ -8,7 +8,7 @@ pos: 255
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rezerwach strategicznych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-17 |
 | Data wydania | 2021-02-08 |
-| Ostatnia zmiana | 2026-03-18 |
+| Ostatnia zmiana | 2026-06-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/255/text.pdf) |
 
 Art. 51–66. (pominięte)
@@ -35,9 +35,25 @@ Art. 51–66. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** infrastruktura krytyczna – infrastrukturę, o której mowa w art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222 i 1473);
+- **2)** klęska żywiołowa – zdarzenia, o których mowa w art. 3 ust. 1 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897);
+- **3)** specjalistyczny asortyment techniczny rezerw strategicznych – stanowiące część rezerw strategicznych materiały, maszyny, urządzenia i konstrukcje umożliwiające sprawne odtwarzanie uszkodzonych lub zniszczonych elementów infrastruktury, których wykorzystanie może ograniczyć skutki zaistniałej katastrofy naturalnej lub awarii technicznej;
+- **4)** specjalistyczny asortyment medyczny rezerw strategicznych – stanowiące część rezerw strategicznych maszyny, urządzenia i inne przedmioty wykorzystywane do celów związanych z ochroną zdrowia;
+- **5)** sytuacja kryzysowa – sytuację, o której mowa w art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
+- **6)** wymiana rezerw strategicznych – cykliczne zastępowanie określonej ilości danego asortymentu rezerw strategicznych o upływającym terminie ważności, przydatności do spożycia lub używania tym samym asortymentem i w tej samej ilości, posiadającym wymagane cechy lub właściwości;
+- **7)** zamiana rezerw strategicznych – zastępowanie asortymentu rezerw strategicznych innym asortymentem w ramach jednej grupy rodzajowej, równoważnym pod względem ilości, jakości i zastosowania lub właściwości;
+- **8)** ustawa o finansach publicznych – ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. );
+- **9)** ustawa – Kodeks cywilny – ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237);
+- **10)** ustawa – Prawo restrukturyzacyjne – ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428);
+- **11)** ustawa – Prawo upadłościowe – ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2024 r. poz. 794 i 1222);
+- **12)** ustawa o zapasach ropy naftowej, produktów naftowych i gazu ziemnego – ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281);
+- **13)** ustawa o zarządzaniu kryzysowym – ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym.
+
 **Art. 3.** Rezerwy strategiczne tworzy się na wypadek zagrożenia bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego oraz wystąpienia klęski żywiołowej lub sytuacji kryzysowej, w celach wsparcia wykonywania zadań w zakresie bezpieczeństwa i obronności państwa, ochrony ludności i obrony cywilnej, odtworzenia infrastruktury krytycznej, złagodzenia zakłóceń w ciągłości dostaw służących funkcjonowaniu gospodarki i zaspokojeniu podstawowych potrzeb obywateli, ratowania ich życia i zdrowia, realizacji interesów narodowych Rzeczypospolitej Polskiej w dziedzinie bezpieczeństwa narodowego, wypełnienia jej zobowiązań międzynarodowych, a także udzielania pomocy i wsparcia podmiotom prawa międzynarodowego publicznego.
 
 **Art. 4.** Rezerwy strategiczne mogą stanowić surowce, materiały, urządzenia, maszyny, konstrukcje, elementy infrastruktury krytycznej, moc produkcyjna, moc usługowa, zwierzęta gospodarskie, produkty naftowe, produkty rolne i rolno-spożywcze, środki spożywcze i ich składniki, wyroby medyczne, produkty lecznicze, produkty lecznicze weterynaryjne oraz substancje czynne w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz.
+
+- **686)** , materiały wybuchowe, broń, amunicja oraz ich istotne części, ładunki miotające oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), produkty biobójcze, a także inne produkty – niezbędne do realizacji celów, o których mowa w art. 3.
 
 **Art. 5.** Rezerwy strategiczne stanowią wyodrębniony majątek Skarbu Państwa, z zastrzeżeniem art. 6.
 
@@ -425,6 +441,9 @@ Art. 51–66. (pominięte)
 
 **Art. 27c.** Minister właściwy do spraw wewnętrznych przedstawia sejmowej Komisji Administracji i Spraw Wewnętrznych oraz senackiej Komisji Gospodarki Narodowej i Innowacyjności informację o likwidacjach asortymentu rezerw strategicznych dokonanych na podstawie art. 27a:
 
+- **1)** za pierwsze półrocze danego roku – w terminie do dnia 31 sierpnia tego roku;
+- **2)** za drugie półrocze danego roku – w terminie do dnia 28 lutego roku następnego.
+
 **Art. 28.** Agencja opracowuje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw wewnętrznych szczegółową procedurę sprzedaży oraz nieodpłatnego przekazania zlikwidowanych rezerw strategicznych.
 
 #### Rozdział 5a Rezerwy strategiczne do zabezpieczenia realizacji zadań związanych z Planem zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców
@@ -655,6 +674,10 @@ Art. 51–66. (pominięte)
 
 **Art. 37.** Z przeprowadzonego naboru sporządza się protokół, który zawiera w szczególności:
 
+- **1)** wskazanie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 3 najlepszych kandydatów;
+- **2)** informację o zastosowanych metodach i technikach naboru;
+- **3)** uzasadnienie dokonanego wyboru.
+
 **Art. 38.**
 
 1. Informację o wyniku naboru zamieszcza się niezwłocznie w miejscu powszechnie dostępnym w siedzibie Agencji oraz w Biuletynie Informacji Publicznej Agencji.
@@ -872,6 +895,16 @@ Art. 51–66. (pominięte)
 
 **Art. 67.** Z dniem wejścia w życie niniejszej ustawy:
 
+- **1)** Agencja Rezerw Materiałowych, utworzona na podstawie przepisów ustawy uchylanej w art. 80, zwana dalej „Agencją Rezerw Materiałowych”, staje się Agencją w rozumieniu niniejszej ustawy;
+- **2)** zadania Agencji Rezerw Materiałowych przejmuje Agencja;
+- **3)** mienie Agencji Rezerw Materiałowych staje się mieniem Agencji;
+- **4)** wierzytelności i zobowiązania Agencji Rezerw Materiałowych stają się wierzytelnościami i zobowiązaniami Agencji;
+- **5)** Agencja wstępuje w prawa i obowiązki Agencji Rezerw Materiałowych oraz staje się odpowiednio stroną lub uczestnikiem:
+    - **a)** umów i porozumień zawartych przez Agencję Rezerw Materiałowych z przedsiębiorcami oraz innymi podmiotami, przed dniem wejścia w życie niniejszej ustawy,
+    - **b)** postępowań administracyjnych, postępowań sądowych oraz postępowań egzekucyjnych, których stroną była Agencja Rezerw Materiałowych;
+
+- **6)** na Agencję przechodzą prawa i obowiązki wynikające z decyzji, postanowień i innych aktów administracyjnych.
+
 **Art. 68.**
 
 1. Postępowania prowadzone przez Prezesa Agencji Rezerw Materiałowych wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy są prowadzone przez Prezesa Agencji.
@@ -926,7 +959,14 @@ Art. 51–66. (pominięte)
 
 **Art. 79.** W terminie 4 miesięcy od dnia wejścia w życie niniejszej ustawy:
 
+- **1)** pracownicy Agencji, o których mowa w art. 40 ust. 1, są obowiązani dostosować się do zakazów określonych w art. 4 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2019 r. poz. 2399) oraz złożyć Prezesowi Agencji pierwsze oświadczenie o stanie majątkowym, zgodnie z przepisami tej ustawy;
+- **2)** pracownicy Agencji, o których mowa w art. 40 ust. 2, są obowiązani złożyć Prezesowi Agencji pierwsze oświadczenie o stanie majątkowym zgodnie z ustawą z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
+
 **Art. 80.** Traci moc ustawa z dnia 29 października 2010 r. o rezerwach strategicznych (Dz. U. z 2020 r. poz. 2051).
 
 **Art. 81.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 66 pkt 2 i 3, który wchodzi w życie z dniem 15 maja 2021 r.;
+- **2)** art. 53 pkt 1, 3, 4 i 6 oraz art. 66 pkt 1, które wchodzą w życie z dniem 1 lipca 2023 r.
+
 

@@ -8,7 +8,7 @@ pos: 1698
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 129/10/A/2007 WYROK z dnia 28 listopada 2007 r.

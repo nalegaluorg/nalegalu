@@ -8,10 +8,10 @@ pos: 167
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lutego 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 167 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 2 lutego 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000167) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/167/text.pdf) |
 
-Poz. 167 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 2 lutego 2016 r.
-w sprawie minimalnego zakresu danych zamieszczanych w ankiecie dotyczącej potrzeb ubezpieczającego lub ubezpieczonego Na podstawie art. 21 ust. 8 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844) zarządza się, co następuje: § 1. Rozporządzenie określa minimalny zakres danych zamieszczanych w ankiecie dotyczącej potrzeb, wiedzy i doświadczenia w dziedzinie ubezpieczeń na życie oraz sytuacji finansowej ubezpieczającego lub ubezpieczonego w związku z zawarciem lub przystąpieniem do umowy ubezpieczenia w zakresie ubezpieczeń, o których mowa w art. 21 ust. 1 i 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej.
+w sprawie minimalnego zakresu danych zamieszczanych w ankiecie dotyczącej potrzeb ubezpieczającego lub ubezpieczonego Na podstawie art. 21 ust. 8 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844) zarządza się, co następuje:
+§ 1. Rozporządzenie określa minimalny zakres danych zamieszczanych w ankiecie dotyczącej potrzeb, wiedzy i doświadczenia w dziedzinie ubezpieczeń na życie oraz sytuacji finansowej ubezpieczającego lub ubezpieczonego w związku z zawarciem lub przystąpieniem do umowy ubezpieczenia w zakresie ubezpieczeń, o których mowa w art. 21 ust. 1 i 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej.
 § 2. 1. Minimalny zakres danych zamieszczanych w ankiecie, o której mowa w § 1, obejmuje informacje dotyczące:
 1) celu zawarcia lub przystąpienia do umowy;
 2) poziomu ryzyka inwestycyjnego, jaki ubezpieczający lub ubezpieczony jest w stanie zaakceptować w ramach realizacji wskazanego celu;

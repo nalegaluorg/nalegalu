@@ -8,10 +8,10 @@ pos: 532
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 553322 ROZPORZĄDZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 26 lutego 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/532/text.pdf) |
 
-553322 ROZPORZĄDZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 26 lutego 2023 r.
-w sprawie dofinansowania kosztów szkolenia języka polskiego, polskiego języka migowego, systemu językowo-migowego, sposobu komunikowania się osób głuchoniewidomych oraz tłumacza-przewodnika Na podstawie art. 18 ust. 4 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2023 r. poz. 20) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie dofinansowania kosztów szkolenia języka polskiego, polskiego języka migowego, systemu językowo-migowego, sposobu komunikowania się osób głuchoniewidomych oraz tłumacza-przewodnika Na podstawie art. 18 ust. 4 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2023 r. poz. 20) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb składania i rozpatrywania wniosków o dofinansowanie kosztów szkolenia języka polskiego, polskiego języka migowego (PJM), systemu językowo-migowego (SJM), sposobu komunikowania się osób głuchoniewidomych (SKOGN) lub tłumacza-przewodnika, zwanych dalej „wnioskiem”;
 2) wysokość oraz sposób przyznawania i przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, zwanego dalej „Funduszem”, na dofinansowanie kosztów szkolenia języka polskiego, PJM, SJM, SKOGN lub tłumacza-przewodnika, zwane dalej „dofinansowaniem”;
 3) zakres oraz formę dodatkowych informacji i dokumentów składanych wraz z wnioskiem;
@@ -34,7 +34,7 @@ w sprawie dofinansowania kosztów szkolenia języka polskiego, polskiego języka
 § 2. 1. Osoba:
 1) doświadczająca trwale lub okresowo trudności w komunikowaniu się, zwana dalej „osobą uprawnioną”, albo
 2) będąca członkiem rodziny osoby uprawnionej, w tym współmałżonkiem, dzieckiem własnym i przysposobionym, dzieckiem obcym przyjętym na wychowanie, pasierbem, rodzicem, rodzicem współmałżonka, rodzeństwem, ojczymem, macochą, zięciem i synową, zwanym dalej „członkiem rodziny”, albo
-3) mająca stały lub bezpośredni kontakt z osobą uprawnioną zwana dalej „wnioskodawcą”, składa wniosek do oddziału Funduszu właściwego ze względu na miejsce swojego zamieszkania.
+3) mająca stały lub bezpośredni kontakt z osobą uprawnioną – zwana dalej „wnioskodawcą”, składa wniosek do oddziału Funduszu właściwego ze względu na miejsce swojego zamieszkania.
 2. Wzór wniosku osoby uprawnionej o dofinansowanie kosztów szkolenia języka polskiego, polskiego języka migowego (PJM), systemu językowo-migowego (SJM), sposobu komunikowania się osób głuchoniewidomych (SKOGN) lub tłumacza-przewodnika jest określony w załączniku nr 1 do rozporządzenia.
 3. Wzór wniosku członka rodziny osoby uprawnionej o dofinansowanie kosztów szkolenia polskiego języka migowego (PJM), systemu językowo-migowego (SJM), sposobu komunikowania się osób głuchoniewidomych (SKOGN) lub tłumacza-przewodnika jest określony w załączniku nr 2 do rozporządzenia.
 4. Wzór wniosku osoby mającej stały lub bezpośredni kontakt z osobą uprawnioną o dofinansowanie kosztów szkolenia polskiego języka migowego (PJM), systemu językowo-migowego (SJM), sposobu komunikowania się osób głuchoniewidomych (SKOGN) lub tłumacza-przewodnika jest określony w załączniku nr 3 do rozporządzenia.
@@ -58,14 +58,14 @@ w sprawie dofinansowania kosztów szkolenia języka polskiego, polskiego języka
 6) zobowiązanie wnioskodawcy do:
 a) pokrycia udziału własnego w kosztach wnioskowanego szkolenia,
 b) uczestniczenia w zajęciach przewidzianych w programie organizatora szkolenia,
-c) przekazania przed dniem rozpoczęcia szkolenia oświadczenia organizatora szkolenia zawierającego: adres organizatora szkolenia, numer identyfikacji podatkowej oraz numer rachunku bankowego organizatora szkolenia, potwierdzenie zgłoszenia udziału wnioskodawcy w szkoleniu z języka polskiego, PJM, SJM, SKOGN lub koszt szkolenia, zobowiązanie do umożliwienia zweryfikowania przez Fundusz wykorzystania dofinansowania, również w miejscu wykonania usług w ramach przedmiotowej umowy,
+c) przekazania przed dniem rozpoczęcia szkolenia oświadczenia organizatora szkolenia zawierającego: – adres organizatora szkolenia, – numer identyfikacji podatkowej oraz numer rachunku bankowego organizatora szkolenia, – potwierdzenie zgłoszenia udziału wnioskodawcy w szkoleniu z języka polskiego, PJM, SJM, SKOGN lub tłumacza-przewodnika, – koszt szkolenia, – zobowiązanie do umożliwienia zweryfikowania przez Fundusz wykorzystania dofinansowania, również w miejscu wykonania usług w ramach przedmiotowej umowy,
 d) rozliczenia dofinansowania, zgodnie z § 7 ust. 1 i 2,
 e) niezwłocznego zawiadomienia Funduszu o wszelkich zmianach mających wpływ na realizację umowy, w ciągu 7 dni od daty zaistnienia zdarzenia,
 f) zwrotu dofinansowania przekazanego przez Fundusz wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, naliczonymi od dnia wykonania przez Fundusz płatności środków, wraz z terminem płatności, w przypadku naruszenia warunków umowy;
 7) szczegółowe warunki zmiany i rozwiązania umowy.
 § 6. 1. Dofinansowanie wynosi:
-1) dla osoby uprawnionej nie więcej niż 95% kosztów szkolenia;
-2) dla członka rodziny osoby uprawnionej oraz osoby mającej z nią stały lub bezpośredni kontakt nie więcej niż 90% kosztów szkolenia.
+1) dla osoby uprawnionej – nie więcej niż 95% kosztów szkolenia;
+2) dla członka rodziny osoby uprawnionej oraz osoby mającej z nią stały lub bezpośredni kontakt – nie więcej niż 90% kosztów szkolenia.
 2. Kwota przekazanego dofinansowania nie może być wyższa od faktycznego kosztu uczestnictwa wnioskodawcy w szkoleniu.
 § 7. 1. Rozliczenie dofinansowania następuje na podstawie:
 1) faktury lub rachunku wystawionych na wnioskodawcę;

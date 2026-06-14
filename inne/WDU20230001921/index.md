@@ -8,10 +8,10 @@ pos: 1921
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1921 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 14 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001921) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1921/text.pdf) |
 
-Poz. 1921 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 14 września 2023 r.
 w sprawie zmiany nazwy Państwowej Uczelni Zawodowej im. Ignacego Mościckiego w Ciechanowie Na podstawie art. 35 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
-poz. 742, 1088, 1234, 1672 i 1872) zarządza się, co następuje: § 1. Z dniem 1 października 2023 r. Państwowej Uczelni Zawodowej im. Ignacego Mościckiego w Ciechanowie nadaje się nazwę „Państwowa Akademia Nauk Stosowanych im. Ignacego Mościckiego w Ciechanowie”.
+poz. 742, 1088, 1234, 1672 i 1872) zarządza się, co następuje:
+§ 1. Z dniem 1 października 2023 r. Państwowej Uczelni Zawodowej im. Ignacego Mościckiego w Ciechanowie nadaje się nazwę „Państwowa Akademia Nauk Stosowanych im. Ignacego Mościckiego w Ciechanowie”.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Edukacji i Nauki: P. Czarnek
 

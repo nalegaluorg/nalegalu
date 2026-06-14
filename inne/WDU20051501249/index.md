@@ -8,7 +8,7 @@ pos: 1249
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ubezpieczeniach upraw rolnych i zwierząt gospodarskich
@@ -38,6 +38,9 @@ source: "isap-pdf"
 2. Dopłaty do składek z tytułu zawarcia umów ubezpieczenia, o których mowa w ust. 1 pkt 1 i 2, zwane dalej „dopłatami”, oraz dotacja, o której mowa w ust. 1 pkt 3, są realizowane ze środków budżetu państwa ustalonych w ustawie budżetowej, z części, której dysponentem jest minister właściwy do spraw rolnictwa.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** gospodarstwo rolne – obszar gruntów sklasyfikowanych w ewidencji gruntów i budynków jako użytki rolne lub jako grunty zadrzewione i zakrzewione na użytkach rolnych, o łącznej powierzchni przekraczającej 1 ha lub 1 ha przeliczeniowy, z wyjątkiem gruntów zajętych na prowadzenie działalności gospodarczej innej niż działalność rolnicza, a także obszar takich gruntów, niezależnie od powierzchni, jeżeli jest prowadzona na nim produkcja rolna stanowiąca dział specjalny produkcji rolnej w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych;
+- **2)** producent rolny – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, w której posiadaniu lub współposiadaniu jest gospodarstwo rolne, prowadzącą działalność rolniczą określoną w art. 4 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ).
 
 **Art. 3.**
 

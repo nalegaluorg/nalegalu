@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników.*
 
-Łącznie: **1913** orzeczeń
-(pominięto 1702 orzeczeń sądów rejonowych)
+Łącznie: **1914** orzeczeń
+(pominięto 1705 orzeczeń sądów rejonowych)
 
 ## art. 1 (43)
 
@@ -81,8 +81,9 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społ
 - 2023-07-11 | SO | [VIII U 2422/20](https://www.saos.org.pl/judgments/492146) | Uzasadnienie
 - 2022-01-17 | SO | [VIII U 1421/21](https://www.saos.org.pl/judgments/458912) | Zarządzenie
 
-## art. 3 (150)
+## art. 3 (151)
 
+- 2025-12-17 | SO | [III AUa 752/25](https://www.saos.org.pl/judgments/545045) | Wyrok
 - 2025-06-17 | SO | [III AUa 875/23](https://www.saos.org.pl/judgments/529277) | Wyrok
 - 2024-08-28 | SO | [III AUa 18/24](https://www.saos.org.pl/judgments/504824) | Wyrok
 - 2024-08-14 | SO | [III AUa 907/23](https://www.saos.org.pl/judgments/505202) | Wyrok
@@ -543,8 +544,9 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społ
 - 2016-12-01 | SO | [VIII U 3059/15](https://www.saos.org.pl/judgments/256732) | Zarządzenie
 - 2016-11-10 | SO | [VIII U 2036/16](https://www.saos.org.pl/judgments/254792) | Zarządzenie
 
-## art. 6 (645)
+## art. 6 (646)
 
+- 2025-12-17 | SO | [III AUa 752/25](https://www.saos.org.pl/judgments/545045) | Wyrok
 - 2025-03-05 | SO | [III AUa 162/24](https://www.saos.org.pl/judgments/531772) | Wyrok
 - 2025-02-26 | SO | [III AUa 941/23](https://www.saos.org.pl/judgments/540488) | Wyrok
 - 2024-11-19 | SO | [III AUa 873/23](https://www.saos.org.pl/judgments/518117) | Wyrok
@@ -1191,10 +1193,11 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społ
 - 2015-12-17 | SO | [VIII U 4248/14](https://www.saos.org.pl/judgments/192295) | Zarządzenie
 - 2015-06-10 | SO | [VII Pa 91/15](https://www.saos.org.pl/judgments/170046) | Uzasadnienie
 
-## art. 7 (287)
+## art. 7 (288)
 
 - 1993-02-23 | TK | [K 10/92](https://www.saos.org.pl/judgments/205551) | Wyrok ★
 - 2014-11-13 | SN | [I UK 117/14](https://www.saos.org.pl/judgments/167323) | Wyrok ★
+- 2025-12-17 | SO | [III AUa 752/25](https://www.saos.org.pl/judgments/545045) | Wyrok
 - 2025-06-17 | SO | [III AUa 875/23](https://www.saos.org.pl/judgments/529277) | Wyrok
 - 2024-08-28 | SO | [III AUa 18/24](https://www.saos.org.pl/judgments/504824) | Wyrok
 - 2024-08-14 | SO | [III AUa 907/23](https://www.saos.org.pl/judgments/505202) | Wyrok
@@ -1633,10 +1636,11 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społ
 - 2017-01-19 | SO | [VIII Ua 93/16](https://www.saos.org.pl/judgments/280350) | Uzasadnienie
 - 2016-12-19 | SO | [VIII Ua 38/16](https://www.saos.org.pl/judgments/263515) | Uzasadnienie
 
-## art. 16 (289)
+## art. 16 (290)
 
 - 2014-11-13 | SN | [I UK 117/14](https://www.saos.org.pl/judgments/167323) | Wyrok ★
 - 2000-01-20 | SN | [II UKN 334/99](https://www.saos.org.pl/judgments/79492) | Wyrok ★
+- 2025-12-17 | SO | [III AUa 752/25](https://www.saos.org.pl/judgments/545045) | Wyrok
 - 2025-06-17 | SO | [III AUa 875/23](https://www.saos.org.pl/judgments/529277) | Wyrok
 - 2024-08-29 | SO | [III AUa 328/23](https://www.saos.org.pl/judgments/530698) | Wyrok
 - 2024-08-28 | SO | [III AUa 18/24](https://www.saos.org.pl/judgments/504824) | Wyrok
@@ -1986,10 +1990,11 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społ
 - 2019-06-07 | SO | [VIII U 281/19](https://www.saos.org.pl/judgments/385878) | Zarządzenie
 - 2017-09-18 | SO | [VIII U 810/17](https://www.saos.org.pl/judgments/308925) | Zarządzenie
 
-## art. 19 (256)
+## art. 19 (257)
 
 - 2005-09-29 | SN | [I UK 16/05](https://www.saos.org.pl/judgments/83744) | Wyrok ★
 - 2004-12-15 | SN | [I UK 109/04](https://www.saos.org.pl/judgments/83071) | Wyrok ★
+- 2025-12-17 | SO | [III AUa 752/25](https://www.saos.org.pl/judgments/545045) | Wyrok
 - 2025-02-19 | SO | [III AUa 215/24](https://www.saos.org.pl/judgments/531370) | Wyrok
 - 2025-02-19 | SO | [III AUa 608/24](https://www.saos.org.pl/judgments/530811) | Wyrok
 - 2024-08-29 | SO | [III AUa 328/23](https://www.saos.org.pl/judgments/530698) | Wyrok
@@ -2245,9 +2250,10 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społ
 - 2016-03-14 | SO | [VIII U 4682/14](https://www.saos.org.pl/judgments/212417) | Uzasadnienie
 - 2016-01-22 | SO | [VIII U 1006/15](https://www.saos.org.pl/judgments/198900) | Zarządzenie
 
-## art. 20 (251)
+## art. 20 (252)
 
 - 2014-04-25 | SN | [II BU 6/13](https://www.saos.org.pl/judgments/104987) | Postanowienie
+- 2025-12-17 | SO | [III AUa 752/25](https://www.saos.org.pl/judgments/545045) | Wyrok
 - 2025-02-19 | SO | [III AUa 608/24](https://www.saos.org.pl/judgments/530811) | Wyrok
 - 2025-01-29 | SO | [III AUa 619/24](https://www.saos.org.pl/judgments/530812) | Wyrok
 - 2025-01-28 | SO | [III AUa 896/23](https://www.saos.org.pl/judgments/539093) | Wyrok
@@ -2499,9 +2505,10 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społ
 - 2016-10-28 | SO | [VIII U 1876/15](https://www.saos.org.pl/judgments/252805) | Zarządzenie
 - 2016-03-14 | SO | [VIII U 4682/14](https://www.saos.org.pl/judgments/212417) | Uzasadnienie
 
-## art. 21 (216)
+## art. 21 (217)
 
 - 1997-05-20 | SN | [II UKN 121/97](https://www.saos.org.pl/judgments/77683) | Wyrok ★
+- 2025-12-17 | SO | [III AUa 752/25](https://www.saos.org.pl/judgments/545045) | Wyrok
 - 2024-11-06 | SO | [III AUa 754/23](https://www.saos.org.pl/judgments/517070) | Wyrok
 - 2023-04-26 | SO | [III AUa 611/22](https://www.saos.org.pl/judgments/490939) | Wyrok
 - 2023-02-16 | SO | [III AUa 436/22](https://www.saos.org.pl/judgments/486671) | Wyrok
@@ -3382,8 +3389,9 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społ
 - 2017-04-20 | SO | [VIII U 209/17](https://www.saos.org.pl/judgments/281939) | Zarządzenie
 - 2016-11-10 | SO | [VIII U 2036/16](https://www.saos.org.pl/judgments/254792) | Zarządzenie
 
-## art. 37 (70)
+## art. 37 (71)
 
+- 2025-12-17 | SO | [III AUa 752/25](https://www.saos.org.pl/judgments/545045) | Wyrok
 - 2024-03-21 | SO | [III AUa 743/22](https://www.saos.org.pl/judgments/505151) | Wyrok
 - 2023-08-17 | SO | [III AUa 768/22](https://www.saos.org.pl/judgments/505159) | Wyrok
 - 2022-06-22 | SO | [III AUa 364/21](https://www.saos.org.pl/judgments/478751) | Wyrok

@@ -8,10 +8,10 @@ pos: 1118
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lipca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1118 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 6 lipca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1118/text.pdf) |
 
-Poz. 1118 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ dnia 6 lipca 2016 r.
-w sprawie sposobu prowadzenia ewidencji mienia Mienia Wojskowego Na podstawie 52 ust. 4 ustawy dnia 10 lipca 2015 r. o Mienia Wojskowego (Dz. U. 2016 r. poz. 614) zarządza się, co następuje: § 1. Rozporządzenie określa sposób prowadzenia ewidencji mienia Mienia Wojskowego, zwanej dalej „Agencją”, w tym rodzaje:
+w sprawie sposobu prowadzenia ewidencji mienia Agencji Mienia Wojskowego Na podstawie art. 52 ust. 4 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób prowadzenia ewidencji mienia Agencji Mienia Wojskowego, zwanej dalej „Agencją”, w tym rodzaje:
 1) działów ewidencyjnych;
 2) dokumentów stanowiących podstawę zapisów ewidencyjnych;
 3) danych ujmowanych w ewidencji poszczególnych działów.
@@ -35,23 +35,23 @@ w sprawie sposobu prowadzenia ewidencji mienia Mienia Wojskowego Na podstawie 52
 2) oddziały regionalne Agencji, zwane dalej „oddziałami”, w zakresie ich działania.
 § 3. 1. Podstawą ujęcia mienia w ewidencji jest:
 1) protokół zdawczo-odbiorczy;
-2) inny dokument potwierdzający nabycie mienia, w przypadku gdy protokół zdawczo-odbiorczy, o którym mowa w pkt 1, nie jest wymagany przepisami ustawy dnia 10 lipca 2015 r. o Mienia Wojskowego, zwanej dalej „ustawą”.
-2. Podstawą wyłączenia mienia ewidencji jest dokument potwierdzający zbycie, protokół zdawczo-odbiorczy sporządzony na podstawie właściwego tytułu prawnego lub inny dokument stwierdzający utratę lub zniszczenie mienia.
-§ 4. 1. Ewidencję mienia prowadzi jako księgę ewidencyjną, w sposób zapewniający bieżącą kontrolę obrotów i stanu posiadania.
-2. Księga ewidencyjna może być prowadzona wykorzystaniem systemu teleinformatycznego albo w postaci papierowej.
-§ 5. 1. Księgę ewidencyjną mienia prowadzi w podziale na:
+2) inny dokument potwierdzający nabycie mienia, w przypadku gdy protokół zdawczo-odbiorczy, o którym mowa w pkt 1, nie jest wymagany przepisami ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, zwanej dalej „ustawą”.
+2. Podstawą wyłączenia mienia z ewidencji jest dokument potwierdzający zbycie, protokół zdawczo-odbiorczy sporządzony na podstawie właściwego tytułu prawnego lub inny dokument stwierdzający utratę lub zniszczenie mienia.
+§ 4. 1. Ewidencję mienia prowadzi się jako księgę ewidencyjną, w sposób zapewniający bieżącą kontrolę obrotów i stanu posiadania.
+2. Księga ewidencyjna może być prowadzona z wykorzystaniem systemu teleinformatycznego albo w postaci papierowej.
+§ 5. 1. Księgę ewidencyjną mienia prowadzi się w podziale na:
 1) dział I – „Nieruchomości”;
-2) dział II – „Rzeczy ruchome” – podziałem na:
+2) dział II – „Rzeczy ruchome” – z podziałem na:
 a) rzeczy ruchome koncesjonowane, w tym odpady,
 b) rzeczy ruchome niekoncesjonowane, w tym odpady;
 3) dział III – „Inne mienie”.
-2. W księdze ewidencyjnej ujmuje mienie w układzie asortymentowym, ilościowym, wartościowym, lokalizacyjnym i prawnym.
-§ 6. W dziale I – „Nieruchomości” wyodrębnia nieruchomości:
-1) przekazane zgodnie 44 ustawy;
-2) użyczone zgodnie 50 ustawy;
+2. W księdze ewidencyjnej ujmuje się mienie w układzie asortymentowym, ilościowym, wartościowym, lokalizacyjnym i prawnym.
+§ 6. W dziale I – „Nieruchomości” wyodrębnia się nieruchomości:
+1) przekazane Agencji zgodnie z art. 44 ustawy;
+2) użyczone Agencji zgodnie z art. 50 ustawy;
 3) nabyte przez Agencję na podstawie innych tytułów prawnych.
 § 7. 1. W dziale I – „Nieruchomości” ujmuje się:
-1) oznaczenie nieruchomości, na podstawie danych księgi wieczystej albo ze zbioru dokumentów oraz ewidencji gruntów i budynków;
+1) oznaczenie nieruchomości, na podstawie danych z księgi wieczystej albo ze zbioru dokumentów oraz z ewidencji gruntów i budynków;
 2) lokalizację nieruchomości;
 3) określenie rodzaju nieruchomości;
 4) dane techniczne nieruchomości;
@@ -59,12 +59,12 @@ b) rzeczy ruchome niekoncesjonowane, w tym odpady;
 6) stan prawny nieruchomości;
 7) wartość ewidencyjną nieruchomości;
 8) informację o konieczności przeprowadzenia prac rekultywacyjnych na nieruchomości.
-2. Jako wartość ewidencyjną nieruchomości przyjmuje wartość wskazaną w protokole zdawczo-odbiorczym lub w innym dokumencie potwierdzającym jej nabycie.
-§ 8. W dziale II – „Rzeczy ruchome” wyodrębnia ruchomości:
-1) przekazane zgodnie 44 ustawy;
-2) użyczone zgodnie 50 ustawy;
+2. Jako wartość ewidencyjną nieruchomości przyjmuje się wartość wskazaną w protokole zdawczo-odbiorczym lub w innym dokumencie potwierdzającym jej nabycie.
+§ 8. W dziale II – „Rzeczy ruchome” wyodrębnia się ruchomości:
+1) przekazane Agencji zgodnie z art. 44 ustawy;
+2) użyczone Agencji zgodnie z art. 50 ustawy;
 3) nabyte przez Agencję na podstawie innych tytułów prawnych.
-§ 9. 1. W dziale II – „Rzeczy ruchome” ujmuje dane zawarte w protokole zdawczo-odbiorczym ruchomości, a w przypadku jego braku w innym dokumencie potwierdzającym nabycie mienia, oraz w dokumentach wydania ruchomości:
+§ 9. 1. W dziale II – „Rzeczy ruchome” ujmuje się dane zawarte w protokole zdawczo-odbiorczym ruchomości, a w przypadku jego braku w innym dokumencie potwierdzającym nabycie mienia, oraz w dokumentach wydania ruchomości:
 1) nazwę asortymentu, rodzaj, markę;
 2) ilość, cenę, wartość ewidencyjną;
 3) jednostkę miary;
@@ -72,13 +72,13 @@ b) rzeczy ruchome niekoncesjonowane, w tym odpady;
 5) podmiot przekazujący;
 6) odbiorcę;
 7) miejsce magazynowania.
-2. Dla rzeczy ruchomych koncesjonowanych w dziale II – „Rzeczy ruchome” ujmuje ponadto informacje wymagane w odrębnych przepisach prawa oraz prowadzi księgę ewidencyjną zawartych transakcji.
-3. Jako wartość ewidencyjną rzeczy ruchomej przyjmuje wartość wskazaną w protokole zdawczo-odbiorczym lub w innym dokumencie potwierdzającym jego nabycie.
+2. Dla rzeczy ruchomych koncesjonowanych w dziale II – „Rzeczy ruchome” ujmuje się ponadto informacje wymagane w odrębnych przepisach prawa oraz prowadzi się księgę ewidencyjną zawartych transakcji.
+3. Jako wartość ewidencyjną rzeczy ruchomej przyjmuje się wartość wskazaną w protokole zdawczo-odbiorczym lub w innym dokumencie potwierdzającym jego nabycie.
 § 10. 1. W dziale III – „Inne mienie” ujmuje się:
 1) prawa majątkowe na dobrach niematerialnych;
 2) papiery wartościowe.
-2. W ewidencji uwzględnia charakter objętych nią praw stosownie do zapisów protokołu zdawczo-odbiorczego lub innego dokumentu stanowiącego podstawę nabycia.
-3. Jako wartość ewidencyjną mienia ujętego w dziale, o którym mowa w ust. 1, przyjmuje wartość wskazaną w protokole zdawczo-odbiorczym lub w innym dokumencie stanowiącym podstawę nabycia.
+2. W ewidencji uwzględnia się charakter objętych nią praw stosownie do zapisów protokołu zdawczo-odbiorczego lub innego dokumentu stanowiącego podstawę nabycia.
+3. Jako wartość ewidencyjną mienia ujętego w dziale, o którym mowa w ust. 1, przyjmuje się wartość wskazaną w protokole zdawczo-odbiorczym lub w innym dokumencie stanowiącym podstawę nabycia.
 § 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Obrony Narodowej: A. Macierewicz
 

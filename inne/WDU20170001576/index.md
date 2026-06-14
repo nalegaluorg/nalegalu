@@ -8,10 +8,10 @@ pos: 1576
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1576 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 16 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001576) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1576/text.pdf) |
 
-Poz. 1576 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 16 sierpnia 2017 r.
-w sprawie organizacji i trybu pracy wojewódzkich rad kombatanckich Na podstawie art. 7 ust. 6 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2016 r. poz. 1255 oraz z 2017 r. poz. 456 i 1386) zarządza się, co następuje: § 1. W skład wojewódzkiej rady kombatanckiej, zwanej dalej „radą”, wchodzą:
+w sprawie organizacji i trybu pracy wojewódzkich rad kombatanckich Na podstawie art. 7 ust. 6 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2016 r. poz. 1255 oraz z 2017 r. poz. 456 i 1386) zarządza się, co następuje:
+§ 1. W skład wojewódzkiej rady kombatanckiej, zwanej dalej „radą”, wchodzą:
 1) przewodniczący;
 2) wiceprzewodniczący;
 3) członkowie.
@@ -44,7 +44,7 @@ w sprawie organizacji i trybu pracy wojewódzkich rad kombatanckich Na podstawie
 § 4. Członkowie rady mogą z własnej inicjatywy przygotować materiały i projekty dokumentów mających na celu integrację środowisk kombatanckich i koordynację ich działań, które zostaną przedstawione na posiedzeniu rady.
 § 5. 1. Przewodniczący rady zwołuje posiedzenia rady przynajmniej dwa razy w roku, nie częściej jednak niż raz na kwartał.
 2. Rada może obradować, jeżeli jest obecna co najmniej połowa jej ustalonego składu.
-Dziennik Ustaw – 2 – Poz. 1576 § 6. 1. Zawiadomienie o posiedzeniu rady wraz z porządkiem obrad rady oraz projektami uchwał lub innymi materiałami doręcza się członkom rady:
+§ 6. 1. Zawiadomienie o posiedzeniu rady wraz z porządkiem obrad rady oraz projektami uchwał lub innymi materiałami doręcza się członkom rady:
 1) za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U.
 z 2017 r. poz. 1481) na wskazany przez członka rady adres albo
 2) w formie dokumentu elektronicznego z wykorzystaniem środków komunikacji elektronicznej na wskazany przez członka rady adres elektroniczny – nie później niż 14 dni przed planowanym terminem posiedzenia rady.

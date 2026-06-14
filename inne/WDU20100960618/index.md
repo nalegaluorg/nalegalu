@@ -8,7 +8,7 @@ pos: 618
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o instytutach badawczych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-30 |
 | Data wydania | 2010-06-04 |
-| Ostatnia zmiana | 2026-02-27 |
+| Ostatnia zmiana | 2026-06-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100960618) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/618/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -385,9 +385,17 @@ source: "isap-pdf"
 
 **Art. 22.** Do zadań państwowego instytutu badawczego należy wykonywanie:
 
+- **1)** zadań określonych w art. 2;
+- **2)** zadań szczególnie ważnych dla planowania i realizacji polityki państwa, których wykonanie jest niezbędne dla zapewnienia obronności i bezpieczeństwa publicznego, działania wymiaru sprawiedliwości, ochrony dziedzictwa narodowego, rozwoju edukacji i kultury, kultury fizycznej i sportu oraz poprawy jakości życia obywateli, dotyczących:
+    - **a)** opracowywania i opiniowania standardów w zakresie rynku pracy, ochrony pracy i zabezpieczenia społecznego, ochrony zdrowia, ochrony środowiska, gospodarki żywnościowej, gospodarki przestrzennej, gospodarki bogactwami i zasobami naturalnymi, rozwoju społeczeństwa informacyjnego, bezpieczeństwa technicznego, energetycznego i bezpieczeństwa transportu oraz standardów produktów, procesów i usług, a także warunków przestrzegania tych standardów,
+    - **b)** monitoringu zjawisk i wydarzeń mogących stwarzać zagrożenie publiczne, w tym epidemii oraz katastrof naturalnych lub technicznych, noszących znamiona klęski żywiołowej, i zapobiegania ich skutkom.
+
 #### Rozdział 5 Organy instytutu
 
 **Art. 23.** Organami instytutu są:
+
+- **1)** dyrektor;
+- **2)** rada naukowa.
 
 **Art. 24.**
 
@@ -991,6 +999,15 @@ source: "isap-pdf"
 **Art. 63.** Zasady wynagradzania pracowników instytutu określa się w zakładowym układzie zbiorowym pracy lub w zakładowym regulaminie wynagradzania.
 
 **Art. 64.** W przypadku oddelegowanych do pełnienia służby w instytutach żołnierzy zawodowych i funkcjonariuszy służb podległych ministrowi właściwemu do spraw wewnętrznych:
+
+- **1)** zasady wynagradzania,
+- **2)** zasady zaliczania okresów pracy i innych okresów uprawniających do dodatku za wysługę lat i do nagrody jubileuszowej,
+- **3)** zasady określania czasu pracy,
+- **4)** uprawnienia związane z pracą w warunkach uciążliwych lub szkodliwych,
+- **5)** uprawnienia emerytalne,
+- **6)** uprawnienia do odprawy,
+- **7)** wynagrodzenie za okres niezdolności do pracy z powodu choroby lub innej usprawiedliwionej nieobecności w pracy,
+- **8)** uprawnienia urlopowe – określają przepisy właściwe dla tych służb.
 
 **Art. 65.** W sprawach dotyczących stosunku pracy pracowników instytutu, nieuregulowanych w ustawie, stosuje się przepisy Kodeksu pracy.
 

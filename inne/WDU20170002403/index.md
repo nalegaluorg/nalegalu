@@ -8,10 +8,10 @@ pos: 2403
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2403 Załącznik do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi P (B – BSE) NA LATA 2018–2020
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2403/text.pdf) |
 
-1. Identyfikacja programu zwalczania gąbczastej encefalopatii bydła (Bovine spongiform encephalopathy BSE) Państwo członkowskie: Rzeczpospolita Polska Choroba: gąbczasta encefalopatia bydła (BSE) Lata realizacji: 2018–2020
-2. Opis programu zwalczania gąbczastej encefalopatii bydła (Bovine spongiform encephalopathy BSE) na lata 2018–2020 Celem realizacji programu zwalczania gąbczastej encefalopatii bydła (Bovine spongiform encephalopathy BSE) na lata 2018–2020, zwanego dalej „Programem”, jest wykrycie każdego przypadku gąbczastej encefalopatii bydła, zwanej dalej „BSE”, w populacji bydła w Rzeczypospolitej Polskiej. Prowadzenie badań jest nieodzownym elementem systemu kontroli przenośnych gąbczastych encefalopatii przeżuwaczy (TSE).
+1. Identyfikacja programu zwalczania gąbczastej encefalopatii bydła (Bovine spongiform encephalopathy – BSE) Państwo członkowskie: Rzeczpospolita Polska Choroba: gąbczasta encefalopatia bydła (BSE) Lata realizacji: 2018–2020
+2. Opis programu zwalczania gąbczastej encefalopatii bydła (Bovine spongiform encephalopathy – BSE) na lata 2018–2020 Celem realizacji programu zwalczania gąbczastej encefalopatii bydła (Bovine spongiform encephalopathy – BSE) na lata 2018–2020, zwanego dalej „Programem”, jest wykrycie każdego przypadku gąbczastej encefalopatii bydła, zwanej dalej „BSE”, w populacji bydła w Rzeczypospolitej Polskiej. Prowadzenie badań jest nieodzownym elementem systemu kontroli przenośnych gąbczastych encefalopatii przeżuwaczy (TSE).
 Kontrola BSE na terytorium Rzeczypospolitej Polskiej polega na prowadzeniu aktywnego nadzoru, przez który rozumie się badanie bydła zaliczanego do grup ryzyka (np. zwierzęta padłe, poddane ubojowi z konieczności, wykazujące nietypowe objawy w trakcie badania przedubojowego, w tym zwierzęta, które doznały urazów w trakcie transportu lub w rzeźni, lub zostały zabite w ramach zwalczania choroby zakaźnej zwierząt, zwierzęta ze stad, w których stwierdzono stosowanie przetworzonego białka zwierzęcego w żywieniu); próbki są pobierane od zwierząt mających powyżej 48 miesięcy życia.
 Prowadzony jest również bierny nadzór, przez który rozumie się badanie bydła w każdym wieku w przypadku, gdy zachowanie zwierzęcia nasuwa podejrzenie wystąpienia BSE.
 Zwalczanie BSE polega, m. in. na zidentyfikowaniu pozostałych zwierząt w gospodarstwie, w którym przebywało zwierzę, u którego stwierdzono BSE, potomstwa tych zwierząt urodzonego w okresie dwóch lat przed wystąpieniem objawów klinicznych lub stwierdzeniem BSE u krowy oraz zidentyfikowaniu zwierząt należących do kohorty.
@@ -35,23 +35,22 @@ WE L 147 z 31.05.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specja
 W rozporządzeniu nr 999/2001 zobowiązano również każde państwo członkowskie Unii Europejskiej do przeprowadzania rocznych programów monitorowania TSE na podstawie aktywnego i biernego nadzoru, zgodnie z załącznikiem III do rozporządzenia nr 999/2001.
 Dnia 4 lutego 2013 r. weszła w życie decyzja wykonawcza Komisji 2013/76/UE zmieniająca decyzję 2009/719/WE upoważniająca niektóre państwa członkowskie do zmiany swoich rocznych programów monitorowania BSE (Dz. Urz.
 UE L 35 z 06.02.2013, str. 6), zwana dalej „decyzją wykonawczą Komisji 2013/76/UE”. Daje ona państwom członkowskim możliwość zmiany dotychczasowych rocznych programów monitorowania.
-W latach 2001–2016 wykryto 75 przypadków BSE na 6 574 761 wykonanych badań, ostatni zaś przypadek BSE w Polsce stwierdzono w 2013 r. Od tego czasu w Rzeczypospolitej Polskiej nie wystąpił żaden przypadek BSE. Dzięki zadowalającej sytuacji epizootycznej odnośnie do BSE w Rzeczypospolitej Polskiej i skutecznemu systemowi monitorowania choroby począwszy od 2018 r. zwierzęta poddawane ubojowi jako zdrowe nie będą badane w kierunku BSE. Obowiązkiem badania w kierunku BSE objęte pozostaną nadal zwierzęta należące do grupy ryzyka oraz zwierzęta będące w każdym wieku w przypadku, gdy ich zachowanie nasuwa podejrzenie wystąpienia BSE.
-3. Opis sytuacji epidemiologicznej związanej z BSE Regularne monitorowanie BSE, zgodnie z wymaganiami obowiązującymi w Unii Europejskiej, rozpoczęło się w listopadzie 2001 r. W pierwszych dwóch miesiącach monitorowania zbadano 30 309 sztuk bydła, w 2002 r. 286 592, w 2003 r.
-455 413, w 2004 r. 481 116, w 2005 r. 515 976, w 2006 r. 594 121, w 2007 r.
-603 810, w 2008 r. 611 566, w 2009 r. 638 072, w 2010 r. 637 240, w 2011 r.
-475 906, w 2012 r. 326 280, w 2013 r. 318 849, w 2014 r. 207 503, w 2015 r.
-222 821, a w 2016 r. 169 187.
+W latach 2001–2016 wykryto 75 przypadków BSE na 6 574 761 wykonanych badań, ostatni zaś przypadek BSE w Polsce stwierdzono w 2013 r. Od tego czasu w Rzeczypospolitej Polskiej nie wystąpił żaden przypadek BSE. Dzięki zadowalającej sytuacji epizootycznej odnośnie do BSE w Rzeczypospolitej Polskiej i skutecznemu systemowi monitorowania choroby – począwszy od 2018 r. zwierzęta poddawane ubojowi jako zdrowe nie będą badane w kierunku BSE. Obowiązkiem badania w kierunku BSE objęte pozostaną nadal zwierzęta należące do grupy ryzyka oraz zwierzęta będące w każdym wieku w przypadku, gdy ich zachowanie nasuwa podejrzenie wystąpienia BSE.
+3. Opis sytuacji epidemiologicznej związanej z BSE Regularne monitorowanie BSE, zgodnie z wymaganiami obowiązującymi w Unii Europejskiej, rozpoczęło się w listopadzie 2001 r. W pierwszych dwóch miesiącach monitorowania zbadano 30 309 sztuk bydła, w 2002 r. – 286 592, w 2003 r.
+– 455 413, w 2004 r. – 481 116, w 2005 r. – 515 976, w 2006 r. – 594 121, w 2007 r.
+– 603 810, w 2008 r. – 611 566, w 2009 r. – 638 072, w 2010 r. – 637 240, w 2011 r.
+– 475 906, w 2012 r. – 326 280, w 2013 r. – 318 849, w 2014 r. – 207 503, w 2015 r.
+– 222 821, a w 2016 r. – 169 187.
 Spadek liczby badań w 2011 r. był związany z podwyższeniem wieku bydła badanego w kierunku BSE do 72 miesięcy życia, w związku z zakwalifikowaniem Rzeczypospolitej Polskiej do grupy państw członkowskich upoważnionych do zmiany systemu monitorowania BSE, zgodnie z decyzją wykonawczą Komisji 2011/358/UE z dnia 17 czerwca 2011 r. zmieniającą decyzję 2009/719/WE upoważniającą niektóre państwa członkowskie do zmiany swoich rocznych programów monitorowania BSE (Dz. Urz. UE L 161 z 21.06.2011, str. 29).
 Spadek liczby badań w 2014 r. był związany z podwyższeniem wieku bydła badanego w kierunku BSE do 96 miesięcy życia, w związku z zakwalifikowaniem Rzeczypospolitej Polskiej do grupy państw członkowskich upoważnionych do zmiany systemu monitorowania BSE, zgodnie z decyzją wykonawczą Komisji 2013/76/UE.
 Spadek liczby badań w 2016 r. był związany z podwyższeniem wieku bydła badanego w kierunku BSE do 108 miesięcy życia, w związku z zakwalifikowaniem Rzeczypospolitej Polskiej do grupy państw członkowskich upoważnionych do zmiany systemu monitorowania BSE, zgodnie z decyzją wykonawczą Komisji 2013/76/UE.
 Dane dotyczące bydła objętego monitorowaniem są przedstawione w tabeli 1.1.
-Pierwszy przypadek BSE wykryto w Rzeczypospolitej Polskiej w 2002 r. W tym też roku wykryto 4 przypadki BSE. W 2003 r. wykryto 5 przypadków, a w 2004 r.
-11 przypadków. W 2005 r. wykryto 20 przypadków BSE, co stanowi największą liczbę przypadków BSE wykrytych rocznie w Rzeczypospolitej Polskiej. Od 2006 r. ta liczba wyraźnie spadała, aż do 2011 r. W 2006 r. stwierdzono 10 przypadków BSE, w 2007 r. 9 przypadków, w 2008 r. 5 przypadków, w 2009 r. 4 przypadki, w 2010 r. 2 przypadki, w 2011 r. 1 przypadek, w 2012 r. 3 przypadki, natomiast w 2013 r. 1 przypadek. W 2014 r., 2015 r. i 2016 r. nie stwierdzono żadnego przypadku BSE.
+Pierwszy przypadek BSE wykryto w Rzeczypospolitej Polskiej w 2002 r. W tym też roku wykryto 4 przypadki BSE. W 2003 r. wykryto 5 przypadków, a w 2004 r. – 11 przypadków. W 2005 r. wykryto 20 przypadków BSE, co stanowi największą liczbę przypadków BSE wykrytych rocznie w Rzeczypospolitej Polskiej. Od 2006 r. ta liczba wyraźnie spadała, aż do 2011 r. W 2006 r. stwierdzono 10 przypadków BSE, w 2007 r. – 9 przypadków, w 2008 r. – 5 przypadków, w 2009 r. – 4 przypadki, w 2010 r. – 2 przypadki, w 2011 r. – 1 przypadek, w 2012 r. – 3 przypadki, natomiast w 2013 r. – 1 przypadek. W 2014 r., 2015 r. i 2016 r. nie stwierdzono żadnego przypadku BSE.
 Zestawienie występowania przypadków BSE z podziałem na lata oraz województwa przedstawia tabela 1.2.
 Największą liczbę przypadków BSE wykryto w ramach aktywnego nadzoru w odniesieniu do grupy zdrowego bydła kierowanego do uboju. W ramach biernego nadzoru wykryto zaledwie 3 przypadki BSE.
 Poszczególne grupy bydła, w których stwierdzono przypadki BSE, przedstawia tabela 1.3.
 2002 4 3 0 1 0 0 2003 5 4 0 1 0 0 2004 11 8 2 0 1 0 2005 20 16 0 1 2 1 2006 10 7 0 0 3 0 2007 9 6 1 0 2 0 2008 5 3 2 0 0 0 2009 4 3 0 0 1 0 2010 2 2 0 0 0 0 2011 1 1 0 0 0 0 2012 3 3 0 0 0 0 2013 1 1 0 0 0 0 2014 0 0 0 0 0 0 2015 0 0 0 0 0 0 Suma 75 57 5 3 9 1 Wszystkie sztuki bydła, u których wykryto BSE, były urodzone w Rzeczypospolitej Polskiej. Dochodzenia epizootyczne prowadzone w celu wyjaśnienia dróg zakażeń wskazywały, iż tylko w nielicznych przypadkach potwierdzono, że najbardziej prawdopodobną drogą zakażenia BSE było spożycie paszy zawierającej białko pochodzące od ssaków lub preparatów mlekozastępczych zawierających tłuszcz zwierzęcy.
-Od stwierdzenia pierwszego przypadku BSE w 2002 r. liczba przypadków BSE zmieniała się, przy czym przez pewien okres (lata 2002–2005) rosła.
+Od stwierdzenia pierwszego przypadku BSE w 2002 r. liczba przypadków BSE zmieniała się, przy czym przez pewien okres (lata 2002–2005) – rosła.
 Wprowadzenie w poprzednich latach programu zwalczania BSE, zgodnego z wytycznymi Unii Europejskiej, pozwoliło na wykrycie zwierząt zakażonych.
 Wzrost liczby przypadków BSE przedstawia się następująco:
 1) od 2002 r. do 2003 r. wynosił 25%;
@@ -65,14 +64,16 @@ Od 2006 r. obserwuje się corocznie spadek liczby diagnozowanych przypadków BSE
 5) w 2010 r. spadek wynosił 50%;
 6) w 2011 r. spadek wynosił 50%.
 W 2012 r. nastąpił ponowny wzrost liczby diagnozowanych przypadków BSE w stosunku do roku poprzedniego. Wykryto bowiem 3 przypadki BSE.
-W 2013 r. ponownie liczba diagnozowanych przypadków BSE wykryto 1 przypadek BSE. W latach 2014-2016 nie wykryto przypadku BSE.
-Liczba przypadków BSE w latach 2002-2016 przedstawiona na wykresie 1.
-l Liczba przypadków BSE w latach 2002-20161 l l l l l • l • pod wiek u którego stwierdzono BSE, przypadków BSE zaobserwowano u urodzonego od 1995 r. do 2000 r. odsetek tych dotyczy urodzonego w 1996 r. i 1999 r.
-Zestawienie liczby przypadków BSE w odniesieniu do roku urodzenia przedstawia tabela 1.4 oraz wykres 2.
-Liczba Rok urodzenia przypadków BSE 1990 1 1991 0 1992 3 1993 1 1994 5 1995 9 1996 10 1997 8 1998 6 1999 11 2000 9 2001 4 2002 0 2003 5 2004 1 2005 2 SUMA: 75 Liczba przypadków BSE w odniesieniu do roku urodzenia bydła 2 4 3 5 7 7 9 12 9 10 4 3 12 6 13 3 14 2 15 1 16 1 17 75 Liczba przypadków BSE w odniesieniu do wieku bydła "' a.
-4. przewidziane w Programie
-4.1. centralna odpowiedzialna za nadzór nad Programu i jego w województwach, na obszarze których realizowany Program Za Programu odpowiedzialne organy Inspekcji Weterynaryjnej szczebla powiatowego i wojewódzkiego.
-Zgodnie z art. 57 ust. 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia oraz zwalczaniu chorób organ szczebla centralnego Główny Lekarz Weterynarii nadzoruje realizację Programu. Ponadto, zgodnie z przepisami obowiązującymi w Unii Europejskiej, w przypadku programu współfinansowanego ze środków Unii Europejskiej, Główny Lekarz Weterynarii informuje Komisję Europejską o postępach w jego realizacji.
+W 2013 r. ponownie liczba diagnozowanych przypadków BSE spadła, wykryto 1 przypadek BSE. W latach 2014–2016 nie wykryto żadnego przypadku BSE.
+Liczba przypadków BSE w latach 2002–2016 została przedstawiona na wykresie 1.
+Liczba przypadków BSE w latach 2002‒2016 Biorąc pod uwagę wiek bydła, u którego stwierdzono BSE, można zauważyć, że najwyższą liczbę przypadków zakażeń BSE zaobserwowano u bydła urodzonego od 1995 r. do 2000 r. Najwyższy odsetek tych zakażeń dotyczy bydła urodzonego w 1996 r. i 1999 r.
+Zestawienie liczby przypadków BSE w odniesieniu do roku urodzenia zakażonego bydła przedstawia tabela 1.4 oraz wykres 2.
+Liczba Rok urodzenia przypadków BSE 1990 1 1991 0 1992 3 1993 1 1994 5 1995 9 1996 10 1997 8 1998 6 1999 11 2000 9 2001 4 2002 0 2003 5 2004 1 2005 2 SUMA: 75 Liczba przypadków BSE w odniesieniu do roku urodzenia bydła Najwięcej przypadków BSE stwierdzono u bydła mającego od 5 do 9 lat życia.
+Zestawienie liczby przypadków BSE w odniesieniu do wieku bydła przedstawia tabela 1.5 oraz wykres 3.
+Wiek Liczba przypadków (w latach) BSE 2 1 3 1 4 3 5 7 6 8 7 9 8 12 9 13 10 4 11 3 12 6 13 3 14 2 15 1 16 1 17 1 SUMA 75 Liczba przypadków BSE w odniesieniu do wieku bydła
+4. Środki przewidziane w Programie
+4.1. Władza centralna odpowiedzialna za nadzór nad realizacją Programu i jego koordynację w województwach, na obszarze których będzie realizowany Program Za realizację Programu będą odpowiedzialne organy Inspekcji Weterynaryjnej szczebla powiatowego i wojewódzkiego.
+Zgodnie z art. 57 ust. 8 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, organ szczebla centralnego – Główny Lekarz Weterynarii nadzoruje realizację Programu. Ponadto, zgodnie z przepisami obowiązującymi w Unii Europejskiej, w przypadku programu współfinansowanego ze środków Unii Europejskiej, Główny Lekarz Weterynarii informuje Komisję Europejską o postępach w jego realizacji.
 4.2. Opis i określenie obszarów geograficznych i administracyjnych, na których będzie realizowany Program Program będzie realizowany na terytorium Rzeczypospolitej Polskiej.
 Na terytorium tym funkcjonuje 16 organów Inspekcji Weterynaryjnej szczebla wojewódzkiego (wojewódzcy lekarze weterynarii) oraz 305 organów Inspekcji Weterynaryjnej szczebla powiatowego (powiatowi lekarze weterynarii). Wojewódzki lekarz weterynarii kieruje działaniem Inspekcji Weterynaryjnej na obszarze województwa.
 Podział Rzeczypospolitej Polskiej na województwa ilustruje rysunek 1.
@@ -103,15 +104,15 @@ Zgłoszenia dokonuje się pisemnie na formularzu udostępnionym przez ARiMR lub 
 Właściciele zwierząt z gatunku bydło są obowiązani do zgłaszania wszystkich zdarzeń dotyczących tych zwierząt. Zgłoszenia przedmiotowych zdarzeń posiadacz zwierząt dokonuje przez wypełnienie druków udostępnianych przez ARiMR lub drogą elektroniczną przy użyciu specjalnej aplikacji. Posiadacz bydła ma obowiązek zgłosić w ARiMR każde zdarzenie dotyczące zwierzęcia, takie jak przemieszczenie (np.
 kupno, sprzedaż, wywóz), urodzenie, ubój lub padnięcie, w terminie 7 dni od dnia wystąpienia zdarzenia. W przypadku przemieszczeń bydła w wyniku sprzedaży, obowiązek zgłoszenia wystąpienia zdarzenia spoczywa na obu stronach transakcji.
 W Polsce zwierzęta z gatunku bydło znakuje się indywidualnie przez umieszczenie na obu małżowinach usznych zwierzęcia kolczyków z indywidualnym numerem identyfikacyjnym. Numer identyfikacyjny składa się z 14 znaków:
-1) symbolu kraju w przypadku Polski są to litery PL;
+1) symbolu kraju – w przypadku Polski są to litery PL;
 2) 12 cyfr, z których:
-a) dwie pierwsze to cyfry oznaczające numer serii kolczyka,
-b) dziewięć następnych to cyfry oznaczające numer zwierzęcia,
-c) ostatni znak to cyfra kontrolna.
+a) dwie pierwsze – to cyfry oznaczające numer serii kolczyka,
+b) dziewięć następnych – to cyfry oznaczające numer zwierzęcia,
+c) ostatni znak – to cyfra kontrolna.
 Obowiązek identyfikacji zwierząt spoczywa na posiadaczu tych zwierząt.
 Posiadacz bydła jest obowiązany do założenia tym zwierzętom kolczyków oraz do zgłoszenia do ARiMR faktu oznakowania zwierzęcia w każdym przypadku przed opuszczeniem przez to zwierzę siedziby stada, w której się urodziło, nie później jednak niż w terminie 7 dni od dnia urodzenia tego zwierzęcia.
 Ponadto, każda sztuka bydła musi posiadać paszport, który jest niezbędny w trakcie transportu zwierzęcia. Instytucją właściwą w sprawach związanych z paszportem bydła jest ARiMR. W paszporcie są zawarte dane dotyczące indywidualnego numeru identyfikacyjnego oraz siedziby stada zwierzęcia, jego płci i rasy, numeru identyfikacyjnego matki zwierzęcia, daty i miejsca urodzenia zwierzęcia.
-W księdze rejestracji bydła prowadzonej w siedzibie stada, w której jest utrzymywane bydło, są umieszczane informacje dotyczące siedziby stada oraz nie później niż 7 dni od dnia wystąpienia zdarzenia dane dotyczące zwierząt przebywających w siedzibie stada, w tym dane dotyczące siedzib stad, z których i do których zwierzęta zostały przemieszczone.
+W księdze rejestracji bydła prowadzonej w siedzibie stada, w której jest utrzymywane bydło, są umieszczane informacje dotyczące siedziby stada oraz – nie później niż 7 dni od dnia wystąpienia zdarzenia – dane dotyczące zwierząt przebywających w siedzibie stada, w tym dane dotyczące siedzib stad, z których i do których zwierzęta zostały przemieszczone.
 4.5. Regulacje prawne dotyczące obowiązku powiadamiania o BSE W Rzeczypospolitej Polskiej obowiązek powiadamiania o BSE wynika bezpośrednio z następujących przepisów:
 1) rozporządzenia nr 999/2001;
 2) ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
@@ -127,7 +128,7 @@ Nie przewiduje się kar za zgłoszenie, w wyniku którego nie zostanie potwierdz
 2) ustawa z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 Ponadto w celu usprawnienia działań Inspekcji Weterynaryjnej została wydana Instrukcja Głównego Lekarza Weterynarii nr GIWpr02010-1/2014 z dnia 31 stycznia 2014 r. w sprawie postępowania przy zgłaszaniu i zwalczaniu gąbczastej encefalopatii bydła (BSE). Instrukcja ta jest aktem prawa wewnętrznego i dlatego też jej przepisy nie mogą rozstrzygać o prawach i obowiązkach podmiotów nadzorowanych.
 W przypadku uzyskania dodatniego wyniku badania laboratoryjnego w kierunku BSE, przeprowadza się co najmniej następujące czynności:
-1) niszczy się wszystkie części tuszy zakażonego zwierzęcia oraz wszystkie części tuszy zwierząt sąsiadujących z zakażoną tuszą na linii ubojowej (co najmniej jedna przed i dwie po) w przypadku bydła poddanego ubojowi;
+1) niszczy się wszystkie części tuszy zakażonego zwierzęcia oraz wszystkie części tuszy zwierząt sąsiadujących z zakażoną tuszą na linii ubojowej (co najmniej jedna przed i dwie po) – w przypadku bydła poddanego ubojowi;
 2) przeprowadza się szczegółowe dochodzenie epizootyczne.
 Dochodzenie epizootyczne ma na celu:
 1) ustalenie źródła zakażenia BSE;
@@ -137,12 +138,12 @@ Dochodzenie epizootyczne ma na celu:
 5) ustalenie możliwej drogi przeniesienia BSE;
 6) ustalenie innych zwierząt zarówno przebywających w gospodarstwie, w którym stwierdzono BSE, jak i przebywających w innych gospodarstwach, które mogły mieć kontakt z tym samym źródłem zakażenia BSE, co zwierzę zakażone BSE;
 7) ustalenie, czy przemieszczenie potencjalnie zakażonej paszy lub innych czynników mogło być przyczyną zakażenia w gospodarstwie.
-Wszystkie zwierzęta, które zostały w trakcie dochodzenia epizootycznego uznane za potencjalnie zakażone BSE, zabija się, a następnie niszczy ich zwłoki, zaś produkty uznane za potencjalnie skażone BSE niszczy.
+Wszystkie zwierzęta, które zostały w trakcie dochodzenia epizootycznego uznane za potencjalnie zakażone BSE, zabija się, a następnie niszczy ich zwłoki, zaś produkty uznane za potencjalnie skażone BSE – niszczy.
 4.7.1.2. Tabela podsumowująca Szacunkowa liczba zwierząt, które należy zabić, zgodnie z ust. 2.1 w rozdziale B 3 załącznika VII do rozporządzenia nr 999/2001
 5. Koszty
-5.1. Szczegółowa analiza kosztów Programu Finansowanie Programu odbywa się ze środków budżetowych określonych w części 83 rezerwa celowa przeznaczona na zwalczanie chorób zakaźnych zwierząt (w tym finansowanie programów zwalczania tych chorób), badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt, produktach pochodzenia zwierzęcego i paszach, finansowanie zadań zleconych przez Komisję Europejską oraz na dofinansowanie kosztów realizacji zadań Inspekcji Weterynaryjnej, oraz w części 85 budżety wojewodów, dział 010 rolnictwo i łowiectwo, rozdział 01022 zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego.
-Zakłada się, że w 2018, 2019 i 2020 r. finansowanie Programu będzie odbywało się ze środków budżetowych określonych w części 83 rezerwy celowe oraz w części 85 budżety wojewodów.
-Szacunkowe koszty realizacji Programu wyrażone w złotych zostały przeliczone na euro według prognozowanego kursu euro zawartego w wytycznych Ministra Finansów dotyczących stosowania jednolitych wskaźników makroekonomicznych będących podstawą oszacowania skutków finansowych projektowanych ustaw aktualizacja październik 2017 r.
+5.1. Szczegółowa analiza kosztów Programu Finansowanie Programu odbywa się ze środków budżetowych określonych w części 83 – rezerwa celowa przeznaczona na zwalczanie chorób zakaźnych zwierząt (w tym finansowanie programów zwalczania tych chorób), badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt, produktach pochodzenia zwierzęcego i paszach, finansowanie zadań zleconych przez Komisję Europejską oraz na dofinansowanie kosztów realizacji zadań Inspekcji Weterynaryjnej, oraz w części 85 – budżety wojewodów, dział 010 – rolnictwo i łowiectwo, rozdział 01022 – zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego.
+Zakłada się, że w 2018, 2019 i 2020 r. finansowanie Programu będzie odbywało się ze środków budżetowych określonych w części 83 – rezerwy celowe oraz w części 85 – budżety wojewodów.
+Szacunkowe koszty realizacji Programu wyrażone w złotych zostały przeliczone na euro według prognozowanego kursu euro zawartego w wytycznych Ministra Finansów dotyczących stosowania jednolitych wskaźników makroekonomicznych będących podstawą oszacowania skutków finansowych projektowanych ustaw – aktualizacja październik 2017 r.
 Szacunkowe ogólne koszty realizacji Programu w 2018 r. wyniosą 1 193 703,45 zł. Z ogólnej sumy szacowanych kosztów Programu strona polska wystąpi z wnioskiem o współfinansowanie ze środków Unii Europejskiej, w odniesieniu do 75% kosztów kwalifikowalnych, tj. 895 277,58 zł.
 Szacunkowe ogólne koszty realizacji Programu w 2019 r. wyniosą 1 193 703,45 zł. Z ogólnej sumy szacowanych kosztów Programu strona polska wystąpi z wnioskiem o współfinansowanie ze środków Unii Europejskiej, w odniesieniu do 75% kosztów kwalifikowalnych, tj. 895 277,58 zł.
 Szacunkowe ogólne koszty realizacji Programu w 2020 r. wyniosą 1 193 703,45 zł. Z ogólnej sumy szacowanych kosztów Programu strona polska wystąpi z wnioskiem o współfinansowanie ze środków Unii Europejskiej, w odniesieniu do 75% kosztów kwalifikowalnych, tj. 895 277,58 zł.

@@ -8,12 +8,10 @@ pos: 1047
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 1947, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
-
-*ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW dnia 25 maja sprawie dokumentów mających znaczenie dla kontroli celno-skarbowej zakresie przestrzegania przepisów prawa celnego, innych przepisów związanych przywozem wywozem towarów przepisów zakresu refundacji wywozowych, a także osób obowiązanych przechowywania tych dokumentów Na podstawie art. 89 ust. 1 2 ustawy dnia 16 listopada Krajowej Administracji Skarbowej (Dz.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1047 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 25 maja 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,67 +25,83 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1047/text.pdf) |
 
-1) rodzaje dokumentów mających znaczenie dla kontroli celno-skarbowej, której mowa art. 54 ust. 1 2 ust. 2 2–5 11 ustawy dnia 16 listopada Krajowej Administracji Skarbowej;
-2) osoby obowiązane przechowywania dokumentów, których mowa 1.
-§ 2. Dokumentami mającymi znaczenie dla kontroli celno-skarbowej, której mowa art. 54 ust. 1 2 ust. 2 2–5 11 ustawy dnia 16 listopada Krajowej Administracji Skarbowej, są:
-1) wydawane potwierdzane przez organy Krajowej Administracji Skarbowej, takie jak:
+w sprawie dokumentów mających znaczenie dla kontroli celno-skarbowej w zakresie przestrzegania przepisów prawa celnego, innych przepisów związanych z przywozem i wywozem towarów oraz przepisów z zakresu refundacji wywozowych, a także osób obowiązanych do przechowywania tych dokumentów Na podstawie art. 89 ust. 1 pkt 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U.
+poz. 1947, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) rodzaje dokumentów mających znaczenie dla kontroli celno-skarbowej, o której mowa w art. 54 ust. 1 pkt 2 i ust. 2 pkt 2–5 i 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
+2) osoby obowiązane do przechowywania dokumentów, o których mowa w pkt 1.
+§ 2. Dokumentami mającymi znaczenie dla kontroli celno-skarbowej, o której mowa w art. 54 ust. 1 pkt 2 i ust. 2 pkt 2–5 i 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, są:
+1) dokumenty wydawane lub potwierdzane przez organy Krajowej Administracji Skarbowej, takie jak:
 a) pozwolenia,
 b) zezwolenia,
 c) świadectwa,
 d) zawiadomienia,
 e) powiadomienia,
 f) zaświadczenia,
-g) pokwitowania, tym dowód uiszczenia kwoty wynikającej długu celnego, potwierdzenie złożenia zabezpieczenia dokonania innych wpłat na rzecz organów Krajowej Administracji Skarbowej,
+g) pokwitowania, w tym dowód uiszczenia kwoty wynikającej z długu celnego, potwierdzenie złożenia zabezpieczenia oraz dokonania innych wpłat na rzecz organów Krajowej Administracji Skarbowej,
 h) protokoły,
-i) potwierdzające dokonanie zgłoszenia celnego, zgłoszenia powrotnego wywozu powiadomienia powrotnym wywozie,
+i) dokumenty potwierdzające dokonanie zgłoszenia celnego, zgłoszenia do powrotnego wywozu oraz powiadomienia o powrotnym wywozie,
 j) certyfikaty;
-2) inne niż określone 1 lit. a b decyzje postanowienia wydawane przez organy Krajowej Administracji Skarbowej;
-3) orzeczenia wydawane sprawach przestępstwa skarbowe wykroczenia skarbowe;
-8) stanowiące powiadomienie przybyciu środka transportu przedstawienie towaru organom celnym;
-9) zapisy na elektronicznych nośnikach informacji zawierające komunikaty dokumentów, których mowa 7 8;
-10) regulaminy, których obowiązek sporządzenia wynika przepisów prawa celnego;
-11) ewidencje rejestry, których obowiązek prowadzenia wynika przepisów prawa celnego, tym:
-a) ewidencja prowadzona na podstawie art. 148 ust. 4 rozporządzenia Parlamentu Europejskiego Rady (UE) nr 952/2013 dnia 9 października 2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269
-10.10.2013, str. 1, późn. zm. ), zwanego dalej „UKC”,
-b) ewidencje, inne niż te, których mowa art. 214 ust. 1 UKC, prowadzone związku korzystaniem procedury celnej uregulowaniem sytuacji towaru, jeżeli taki obowiązek został określony przez organ Krajowej Administracji Skarbowej,
-c) ewidencje rejestry prowadzone przez osoby zarządzające magazynami żywnościowymi,
-d) ewidencja prowadzona związku korzystaniem uproszczenia, którym mowa art. 182 UKC,
+2) inne niż określone w pkt 1 lit. a i b decyzje oraz postanowienia wydawane przez organy Krajowej Administracji Skarbowej;
+3) orzeczenia wydawane w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe;
+4) złożone wnioski oraz wydane decyzje związane z przywozem towarów objętych kontyngentem taryfowym;
+5) dokumenty potwierdzające status celny towarów;
+6) faktury, kontrakty, umowy, świadectwa pochodzenia i inne dokumenty służące w szczególności do ustalania wartości celnej, warunków dostawy, klasyfikacji taryfowej, kraju pochodzenia towaru oraz potwierdzające spełnienie warunków wymaganych do korzystania z preferencji celnych;
+7) przywozowe i wywozowe deklaracje skrócone lub inne dokumenty wykorzystane w charakterze deklaracji skróconej oraz deklaracje do czasowego składowania;
+8) dokumenty stanowiące powiadomienie o przybyciu środka transportu i przedstawienie towaru organom celnym;
+9) zapisy na elektronicznych nośnikach informacji zawierające komunikaty dokumentów, o których mowa w pkt 7 i 8;
+10) regulaminy, których obowiązek sporządzenia wynika z przepisów prawa celnego;
+11) ewidencje i rejestry, których obowiązek prowadzenia wynika z przepisów prawa celnego, w tym:
+a) ewidencja prowadzona na podstawie art. 148 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), zwanego dalej „UKC”,
+b) ewidencje, inne niż te, o których mowa w art. 214 ust. 1 UKC, prowadzone w związku z korzystaniem z procedury celnej lub uregulowaniem sytuacji towaru, jeżeli taki obowiązek został określony przez organ Krajowej Administracji Skarbowej,
+c) ewidencje i rejestry prowadzone przez osoby zarządzające magazynami żywnościowymi,
+d) ewidencja prowadzona w związku z korzystaniem z uproszczenia, o którym mowa w art. 182 UKC,
 e) ewidencje prowadzone na podstawie art. 214 ust. 1 UKC;
-12) zapisy na elektronicznych nośnikach informacji ewidencji rejestrów, których mowa 11, jeżeli ewidencje rejestry są prowadzone zastosowaniem technik elektronicznego przetwarzania danych;
-13) zapisy na elektronicznych nośnikach informacji zawierające komunikaty dostarczeniu towaru uwagach rozładunkowych, przesyłanych wykorzystaniem systemu teleinformatycznego ramach procedury tranzytu;
-14) złożone wnioski wydane decyzje związane ochroną praw własności intelektualnej;
-15) potwierdzające spełnienie wymogów dotyczących posiadania, obrotu rozpowszechniania towarów, od spełnienia których ratyfikowane umowy międzynarodowe przepisy odrębne uzależniają przywóz wywóz tych towarów;
-16) potwierdzające spełnienie warunków wymaganych korzystania ze zwolnień należności celnych przywozowych wyłączeń zakazów ograniczeń obrocie;
-17) zgłoszenia celne, zgłoszenia powrotnego wywozu powiadomienia powrotnym wywozie, tym także zgłoszenia celne uzupełniające wymagane objęcia towaru procedurą celną uregulowania sytuacji towaru;
-18) zapisy na elektronicznych nośnikach informacji, jeżeli zgłoszenie celne, zgłoszenie powrotnego wywozu powiadomienie powrotnym wywozie zostało dokonane wykorzystaniem systemu teleinformatycznego;
-19) potwierdzające objęcie towarów procedurą celną uregulowanie sytuacji towarów;
-20) handlowe administracyjne przedkładane organom Krajowej Administracji Skarbowej jako zgłoszenie uproszczone;
+12) zapisy na elektronicznych nośnikach informacji z ewidencji i rejestrów, o których mowa w pkt 11, jeżeli ewidencje i rejestry są prowadzone z zastosowaniem technik elektronicznego przetwarzania danych;
+13) zapisy na elektronicznych nośnikach informacji zawierające komunikaty o dostarczeniu towaru oraz uwagach rozładunkowych, przesyłanych z wykorzystaniem systemu teleinformatycznego w ramach procedury tranzytu;
+14) złożone wnioski oraz wydane decyzje związane z ochroną praw własności intelektualnej;
+15) dokumenty potwierdzające spełnienie wymogów dotyczących posiadania, obrotu lub rozpowszechniania towarów, od spełnienia których ratyfikowane umowy międzynarodowe lub przepisy odrębne uzależniają przywóz lub wywóz tych towarów;
+16) dokumenty potwierdzające spełnienie warunków wymaganych do korzystania ze zwolnień z należności celnych przywozowych oraz z wyłączeń z zakazów i ograniczeń w obrocie;
+17) zgłoszenia celne, zgłoszenia do powrotnego wywozu oraz powiadomienia o powrotnym wywozie, w tym także zgłoszenia celne uzupełniające oraz dokumenty wymagane do objęcia towaru procedurą celną lub uregulowania sytuacji towaru;
+18) zapisy na elektronicznych nośnikach informacji, jeżeli zgłoszenie celne, zgłoszenie do powrotnego wywozu lub powiadomienie o powrotnym wywozie zostało dokonane z wykorzystaniem systemu teleinformatycznego;
+19) dokumenty potwierdzające objęcie towarów procedurą celną lub uregulowanie sytuacji towarów;
+20) dokumenty handlowe lub administracyjne przedkładane organom Krajowej Administracji Skarbowej jako zgłoszenie uproszczone;
 21) pozwolenia na wykonywanie prac budowlanych na terenie wolnego obszaru celnego;
-22) upoważnienia działania jako przedstawiciel celny;
-23) zaświadczenia wpisaniu na listę agentów celnych;
-24) określające status prawny osoby wprowadzającej towar wyprowadzającej towar podlegający kontroli rachunkowości (Dz. 61, 245 791);
-29) dotyczące towarów objętych Wspólną Polityką Rolną;
-30) dotyczące badań laboratoryjnych;
-31) ewidencje rejestry, których obowiązek prowadzenia wynika przepisów odrębnych;
-32) dotyczące czynności audytowych;
-33) dotyczące urzędowego sprawdzenia zakresie określonym przepisami prawa celnego;
-34) pozwolenia przywozu wywozu licencje przywozowe wywozowe;
-35) potwierdzające dokonanie przywozu towaru na terytorium państwa trzeciego;
-36) potwierdzające jakość towaru;
-37) ubezpieczeniowe dotyczące towarów przywożonych na obszar Unii Europejskiej towarów wywożonych tego obszaru;
-38) zawierające wyniki audytów wewnętrznych.
-§ 3. Osobami obowiązanymi przechowywania dokumentów, których mowa § 2, są osoby bezpośrednio pośrednio uczestniczące wypełnianiu formalności celnych podlegające kontrolom celno-skarbowym, tym zależności od rodzaju dokumentu podlegającego przechowywaniu:
-1) zgłaszający osoba uprawniona korzystania procedury celnej uregulowania sytuacji towarów przypadku dokumentów związanych dokonanym zgłoszeniem celnym, zgłoszeniem powrotnego wywozu powiadomieniem powrotnym wywozie korzystaniem procedury celnej dokumentów, które nie były przedstawiane organom Krajowej Administracji Skarbowej wraz ze zgłoszeniem elektronicznym powiadomieniem elektronicznym;
-2) przedstawiciel celny, którym mowa przepisach prawa celnego przypadku dokumentów potwierdzających uprawnienie działania jako przedstawiciel celny przypadku dokumentów związanych dokonanym zgłoszeniem celnym, jeżeli wynika to zakresu umocowania działania jako przedstawiciel celny;
-3) osoba składająca przywozową wywozową deklarację skróconą przyjmująca odpowiedzialność za przywóz towarów na obszar celny Unii Europejskiej wywóz tego obszaru albo osoba składająca deklarację czasowego składowania przypadku dokumentów związanych przywozem wywozem towarów deklaracji skróconych;
-4) prowadzący skład celny, magazyn czasowego składowania magazyn żywnościowy przypadku dokumentów związanych prowadzeniem składów celnych, magazynów czasowego składowania magazynów żywnościowych;
-5) zarządzający wolnym obszarem celnym prowadzący działalność wolnym obszarze celnym przypadku dokumentów związanych zarządzaniem wolnym obszarem celnym prowadzoną działalnością wolnym obszarze celnym;
-6) przewoźnik spedytor przypadku dokumentów związanych dokonanym przewozem spedycją;
-7) dłużnik przypadku dokumentów związanych powstaniem długu celnego pokryciem kwoty wynikającej długu celnego;
-8) osoba pośrednio bezpośrednio uczestnicząca operacjach dokonywanych ramach wymiany towarowej przypadku dokumentów związanych ze stosowaniem przepisów prawa celnego innych przepisów związanych ganych korzystania refundacji eksportowych;
-13) kierownik jednostki, rozumieniu art. 3 ust. 1 6 ustawy dnia 29 września 1994 rachunkowości przypadku wszelkich dokumentów wytwarzanych otrzymywanych przez jednostkę, mogących mieć znaczenie dla kontroli celno-skarbowej;
-14) przedsiębiorca posiadający pozwolenie AEO jego przedstawiciel celny, którym mowa przepisach prawa celnego, posiadacz pozwolenia, którego wydanie uzależnione jest od spełnienia kryterium określonego art. 39 UKC przypadku dokumentów, których mowa § 2 32;
-15) podmiot prowadzący działalność gospodarczą podlegającą kontroli, którym mowa art. 74 ustawy dnia 16 listopada Krajowej Administracji Skarbowej przypadku dokumentów dotyczących urzędowego sprawdzenia, których mowa § 2 33, zakresie, jakim dotyczą przepisów prawa celnego.
-§ 4. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju Finansów: wz. W. Janczyk
+22) upoważnienia do działania jako przedstawiciel celny;
+23) zaświadczenia o wpisaniu na listę agentów celnych;
+24) dokumenty określające status prawny osoby wprowadzającej towar lub wyprowadzającej towar podlegający kontroli wykonywanej przez Krajową Administrację Skarbową;
+25) dokumenty bankowe oraz inne dokumenty potwierdzające rozliczenie należności i zobowiązań z kontrahentami;
+26) dokumenty gwarancyjne zabezpieczające kwotę długu celnego i innych opłat ponoszonych w odniesieniu do przywożonych, przewożonych i wywożonych towarów;
+27) dokumenty dotyczące transportu i spedycji, w szczególności umowa przewozu, dokumenty przewozowe, faktury lub inne dokumenty potwierdzające dokonanie zapłaty za przewóz;
+28) księgi podatkowe, o których mowa w ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r.
+poz. 201, 648, 768 i 935), oraz dokumenty stanowiące podstawę dokonanych w nich zapisów, a także dokumentacja, dowody księgowe oraz sprawozdania finansowe, o których mowa w ustawie z dnia 29 września 1994 r.
+o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61, 245 i 791);
+29) dokumenty dotyczące towarów objętych Wspólną Polityką Rolną;
+30) dokumenty dotyczące badań laboratoryjnych;
+31) ewidencje i rejestry, których obowiązek prowadzenia wynika z przepisów odrębnych;
+32) dokumenty dotyczące czynności audytowych;
+33) dokumenty dotyczące urzędowego sprawdzenia w zakresie określonym przepisami prawa celnego;
+34) pozwolenia przywozu lub wywozu i licencje przywozowe lub wywozowe;
+35) dokumenty potwierdzające dokonanie przywozu towaru na terytorium państwa trzeciego;
+36) dokumenty potwierdzające jakość towaru;
+37) dokumenty ubezpieczeniowe dotyczące towarów przywożonych na obszar Unii Europejskiej oraz towarów wywożonych z tego obszaru;
+38) dokumenty zawierające wyniki audytów wewnętrznych.
+§ 3. Osobami obowiązanymi do przechowywania dokumentów, o których mowa w § 2, są osoby bezpośrednio lub pośrednio uczestniczące w wypełnianiu formalności celnych lub podlegające kontrolom celno-skarbowym, w tym – w zależności od rodzaju dokumentu podlegającego przechowywaniu:
+1) zgłaszający i osoba uprawniona do korzystania z procedury celnej lub uregulowania sytuacji towarów – w przypadku dokumentów związanych z dokonanym zgłoszeniem celnym, zgłoszeniem do powrotnego wywozu lub powiadomieniem o powrotnym wywozie oraz z korzystaniem z procedury celnej i dokumentów, które nie były przedstawiane organom Krajowej Administracji Skarbowej wraz ze zgłoszeniem elektronicznym lub powiadomieniem elektronicznym;
+2) przedstawiciel celny, o którym mowa w przepisach prawa celnego – w przypadku dokumentów potwierdzających uprawnienie do działania jako przedstawiciel celny oraz w przypadku dokumentów związanych z dokonanym zgłoszeniem celnym, jeżeli wynika to z zakresu umocowania do działania jako przedstawiciel celny;
+3) osoba składająca przywozową lub wywozową deklarację skróconą lub przyjmująca odpowiedzialność za przywóz towarów na obszar celny Unii Europejskiej lub wywóz z tego obszaru albo osoba składająca deklarację do czasowego składowania – w przypadku dokumentów związanych z przywozem i wywozem towarów oraz deklaracji skróconych;
+4) prowadzący skład celny, magazyn czasowego składowania lub magazyn żywnościowy – w przypadku dokumentów związanych z prowadzeniem składów celnych, magazynów czasowego składowania lub magazynów żywnościowych;
+5) zarządzający wolnym obszarem celnym lub prowadzący działalność w wolnym obszarze celnym – w przypadku dokumentów związanych z zarządzaniem wolnym obszarem celnym lub prowadzoną działalnością w wolnym obszarze celnym;
+6) przewoźnik i spedytor – w przypadku dokumentów związanych z dokonanym przewozem lub spedycją;
+7) dłużnik – w przypadku dokumentów związanych z powstaniem długu celnego i pokryciem kwoty wynikającej z długu celnego;
+8) osoba pośrednio lub bezpośrednio uczestnicząca w operacjach dokonywanych w ramach wymiany towarowej – w przypadku dokumentów związanych ze stosowaniem przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów;
+9) prowadzący skład podatkowy – w przypadku dokumentów związanych z przywozem i wywozem towarów będących wyrobami akcyzowymi (w zakresie ich importu lub eksportu w rozumieniu prawa podatkowego);
+10) korzystający ze specjalnych refundacji wywozowych przyznawanych w związku ze składowaniem celnym lub przetwarzaniem przed wywozem – w przypadku dokumentów związanych ze składowaniem celnym lub przetwarzaniem towarów;
+11) producent towarów wywożonych z refundacją wywozową – w przypadku dokumentów związanych ze stosowaniem zgłoszonej i zarejestrowanej w agencji płatniczej receptury oraz dokumentów dotyczących deklarowanego zużycia surowców wykorzystywanych przy produkcji towarów wywożonych z wnioskiem o refundację wywozową;
+12) podmiot dokonujący wywozu produktów rolnych do państw trzecich i otrzymujący subwencje z Europejskiego Funduszu Rolniczego Gwarancji – w przypadku dokumentów związanych z potwierdzeniem spełnienia warunków wymaganych do korzystania z refundacji eksportowych;
+13) kierownik jednostki, w rozumieniu art. 3 ust. 1 pkt 6 ustawy z dnia 29 września 1994 r. o rachunkowości – w przypadku wszelkich dokumentów wytwarzanych lub otrzymywanych przez jednostkę, mogących mieć znaczenie dla kontroli celno-skarbowej;
+14) przedsiębiorca posiadający pozwolenie AEO lub jego przedstawiciel celny, o którym mowa w przepisach prawa celnego, oraz posiadacz pozwolenia, którego wydanie uzależnione jest od spełnienia kryterium określonego w art. 39 UKC – w przypadku dokumentów, o których mowa w § 2 pkt 32;
+15) podmiot prowadzący działalność gospodarczą podlegającą kontroli, o którym mowa w art. 74 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej – w przypadku dokumentów dotyczących urzędowego sprawdzenia, o których mowa w § 2 pkt 33, w zakresie, w jakim dotyczą przepisów prawa celnego.
+§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Rozwoju i Finansów: wz. W. Janczyk
 

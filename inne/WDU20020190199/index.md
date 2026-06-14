@@ -8,7 +8,7 @@ pos: 199
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 47/01 Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący Jerzy Ciemniewski Marian Grzybowski – sprawozdawca Wiesław Johann Krzysztof Kolasiński Biruta Lewaszkiewicz-Petrykowska Marek Mazurkiewicz Andrzej Mączyński Janusz Niemcewicz Jadwiga Skórzewska-Łosiak Jerzy Stępień Mirosław Wyrzykowski Marian Zdyb Bohdan Zdziennicki Protokolant - Grażyna Szałygo po rozpoznaniu na rozprawie 27 lutego 2002 r. sprawy z wniosku grupy posłów na Sejm Rzeczypospolitej Polskiej z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego o stwierdzenie, że:

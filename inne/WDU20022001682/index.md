@@ -8,7 +8,7 @@ pos: 1682
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o podatku leśnym

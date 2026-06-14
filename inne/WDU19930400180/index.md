@@ -8,7 +8,7 @@ pos: 180
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych

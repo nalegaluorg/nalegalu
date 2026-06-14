@@ -8,7 +8,7 @@ pos: 1427
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ewidencji ludności
@@ -30,6 +30,19 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady i sposób prowadzenia ewidencji ludności w Rzeczypospolitej Polskiej;
+- **2)** zakres i zasady rejestracji danych gromadzonych w Powszechnym Elektronicznym Systemie Ewidencji Ludności i w rejestrach mieszkańców;
+- **3)** zasady i tryb nadawania numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **4)** zasady wykonywania obowiązku meldunkowego przez obywateli polskich i cudzoziemców;
+- **5)** zasady udostępniania danych z Powszechnego Elektronicznego Systemu Ewidencji Ludności oraz rejestrów, o których mowa w pkt 2;
+- **6)** zasady i tryb zastrzegania i cofania zastrzeżenia numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **7)** zasady i sposób prowadzenia rejestru zastrzeżeń numerów Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **8)** zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **9)** zasady i tryb nadawania numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności beneficjentom ochrony czasowej;
+- **10)** zasady i tryb zarządzania statusem beneficjenta ochrony czasowej;
+- **11)** zasady i sposób prowadzenia rejestru beneficjentów ochrony czasowej;
+- **12)** zasady i tryb udostępniania danych z rejestru beneficjentów ochrony czasowej.
 
 **Art. 2.** Ewidencja ludności polega na rejestracji określonych w ustawie podstawowych danych identyfikujących tożsamość oraz status administracyjnoprawny osób fizycznych.
 
@@ -103,6 +116,40 @@ source: "isap-pdf"
 
 **Art. 8.** W rejestrze PESEL i rejestrach mieszkańców gromadzone są następujące dane:
 
+- **1)** nazwisko i imię (imiona);
+- **2)** nazwisko rodowe;
+- **3)** imiona i nazwiska rodowe rodziców;
+- **3a)** numery PESEL rodziców, jeżeli zostały im nadane;
+- **4)** data urodzenia;
+- **5)** miejsce urodzenia;
+- **6)** kraj urodzenia;
+- **7)** stan cywilny;
+- **8)** oznaczenie aktu urodzenia i urzędu stanu cywilnego, w którym został on sporządzony;
+- **9)** płeć;
+- **10)** numer PESEL;
+- **11)** obywatelstwo albo status bezpaństwowca;
+- **12)** imię i nazwisko rodowe oraz numer PESEL małżonka, jeżeli został mu nadany;
+- **13)** data zawarcia związku małżeńskiego, oznaczenie aktu małżeństwa i urzędu stanu cywilnego, w którym został on sporządzony, data rozwiązania związku małżeńskiego, sygnatura akt i oznaczenie sądu, który rozwiązał małżeństwo, sygnatura akt i oznaczenie sądu, który ustalił nieistnienie małżeństwa, sygnatura akt i oznaczenie sądu, który unieważnił małżeństwo, data zgonu małżonka albo data znalezienia jego zwłok, oznaczenie jego aktu zgonu i urzędu stanu cywilnego, w którym ten akt został sporządzony;
+- **14)** adres i data zameldowania na pobyt stały;
+- **15)** kraj miejsca zamieszkania;
+- **16)** kraj poprzedniego miejsca zamieszkania;
+- **17)** data wymeldowania z miejsca pobytu stałego;
+- **18)** adres i data zameldowania na pobyt czasowy oraz data upływu deklarowanego terminu pobytu;
+- **19)** data wymeldowania z miejsca pobytu czasowego;
+- **20)** data wyjazdu poza granice Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy i wskazanie kraju wyjazdu;
+- **20a)** przewidywany okres pobytu poza granicami Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy;
+- **21)** data powrotu z wyjazdu poza granice Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy;
+- **22)** seria, numer i data ważności ostatniego wydanego dowodu osobistego obywatela polskiego oraz oznaczenie organu wydającego dokument;
+- **23)** seria, numer i data ważności ostatniego wydanego paszportu obywatela polskiego; [24) seria, numer i data ważności ważnego dokumentu podróży cudzoziemca lub innego ważnego dokumentu potwierdzającego tożsamość i obywatelstwo, a w przypadku osoby, o której mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz. 203), oznaczenie dokumentu, na podstawie którego dokonano ustalenia tożsamości osoby;] <24) seria, numer i data ważności ważnego dokumentu podróży cudzoziemca lub innego ważnego dokumentu potwierdzającego tożsamość i obywatelstwo albo innego ważnego dokumentu potwierdzającego tożsamość – w przypadku, o którym mowa w art. 10 ust. 8, a w przypadku osoby, o której mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz.
+- **203)** , oznaczenie dokumentu, na podstawie którego dokonano ustalenia tożsamości osoby;
+- **24a)** status cudzoziemca oznaczony jako: <e) CUKR – w przypadku osoby, która zmieniła status UKR w trybie określonym w art. 42 ust. 13, art. 42c lub art. 42d ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa;> 24b) przyczyna nadania lub utraty statusu, o którym mowa w pkt 24a lit. d;
+    - **a)** UE – w przypadku cudzoziemca będącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej,
+    - **b)** CUE – w przypadku cudzoziemca będącego członkiem rodziny cudzoziemca, o którym mowa w lit. a, niebędącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, [c) NUE – w przypadku cudzoziemca niewymienionego w lit. a i b,] <c) NUE – w przypadku cudzoziemca niewymienionego w lit. a, b, d oraz e,
+    - **d)** UKR – w przypadku beneficjenta ochrony czasowej, któremu nadano numer PESEL na podstawie art. 110a ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619, 621 i 1794 oraz z 2026 r. poz. 203);
+
+- **25)** (uchylony)
+- **26)** data zgonu albo data znalezienia zwłok, numer aktu zgonu i oznaczenie urzędu stanu cywilnego, w którym ten akt został sporządzony.
+
 **Art. 9.**
 
 1. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1, gromadzi się dane wymienione w art. 8 pkt 1–3, 4–23 i 26, a dane, o których mowa w art. 8 pkt 3a – o ile są dostępne.
@@ -171,6 +218,11 @@ source: "isap-pdf"
 **Art. 12a.** Danych i zapisów zgromadzonych w rejestrze PESEL i rejestrach mieszkańców nie usuwa się, z zastrzeżeniem art. 10 ust. 6 i 6a.
 
 **Art. 13.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, uwzględniając potrzebę zapewnienia ochrony danych osobowych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, różnice w zapisach imion i nazwisk cudzoziemców w różnych alfabetach, a także konieczność zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26), określi, w drodze rozporządzenia:
+
+- **1)** tryb rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców, z uwzględnieniem przypadków szczególnych;
+- **2)** tryb przekazywania danych pomiędzy rejestrami mieszkańców a rejestrem PESEL;
+- **3)** tryb postępowania wyjaśniającego i usuwania niezgodności danych, o których mowa w art. 11, w przypadku ich stwierdzenia;
+- **4)** sposób zapisu i gromadzenia w rejestrach danych o imionach i nazwiskach cudzoziemców.
 
 **Art. 14.** Minister właściwy do spraw informatyzacji, uwzględniając potrzebę zapewnienia ochrony danych osobowych, określi, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy rejestrem PESEL a rejestrami centralnymi, o których mowa w art. 10 ust. 2.
 
@@ -262,6 +314,11 @@ source: "isap-pdf"
 2. Osoba, której zmieniono numer PESEL, nie może posługiwać się poprzednio nadanym numerem PESEL, od chwili powiadomienia o zmianie.
 
 **Art. 23.** Minister właściwy do spraw informatyzacji, uwzględniając potrzebę zapewnienia ochrony danych osobowych oraz ograniczony zakres danych cudzoziemców gromadzonych w rejestrze PESEL, określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku o nadanie numeru PESEL;
+- **2)** formę i tryb powiadomienia o nadaniu lub zmianie numeru PESEL, w tym wzór powiadomienia;
+- **3)** tryb postępowania z danymi osób, którym sporządzono nowy akt urodzenia;
+- **4)** sposób obliczania liczby kontrolnej, o której mowa w art. 15 ust. 2.
 
 #### Rozdział 3a Rejestr zastrzeżeń numerów PESEL, zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów PESEL oraz zasady i tryb zastrzegania i cofania zastrzeżenia numeru PESEL
 
@@ -478,7 +535,15 @@ source: "isap-pdf"
 
 **Art. 23o.** W sprawach o udostępnianie danych za pomocą urządzeń teletransmisji danych w drodze weryfikacji, o których mowa w art. 23m, minister właściwy do spraw informatyzacji:
 
+- **1)** udostępnia dane w drodze weryfikacji, po spełnieniu warunków, o których mowa w art. 48 ust. 1 pkt 1 i 2, w odniesieniu do rejestru zastrzeżeń numerów PESEL – w drodze czynności materialno-technicznej;
+- **2)** odmawia udostępniania danych w drodze weryfikacji, jeżeli nie zostały spełnione warunki, o których mowa w art. 48 ust. 1 pkt 1 i 2, albo cofa zgodę na ich udostępnianie, jeżeli warunki te przestały być spełniane, w odniesieniu do rejestru zastrzeżeń numerów PESEL – w drodze decyzji administracyjnej.
+
 **Art. 23p.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku, o którym mowa w art. 23e ust. 2 pkt 2,
+- **2)** wzór wniosku, o którym mowa w art. 23f ust. 1 pkt 1,
+- **3)** wzór wniosku, o którym mowa w art. 23m ust. 2,
+- **4)** sposób wypełnienia wniosku, o którym mowa w pkt 1 i 2 – uwzględniając potrzebę zapewnienia ochrony danych osobowych.
 
 #### Rozdział 4 Obowiązek meldunkowy obywateli polskich
 
@@ -1165,13 +1230,22 @@ source: "isap-pdf"
 
 **Art. 52.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:
 
+- **1)** wzór wniosku o udostępnienie danych z rejestru mieszkańców oraz rejestru PESEL, o którym mowa w art. 47 ust. 1,
+- **2)** wzór uproszczonego wniosku o udostępnianie danych z rejestru mieszkańców oraz rejestru PESEL, o którym mowa w art. 48 ust. 1,
+- **3)** wzór wniosku o udostępnianie danych z rejestru PESEL, o którym mowa w art. 49 ust. 1,
+- **4)** tryb uzyskiwania zgody, o której mowa w art. 46 ust. 2 pkt 3 – uwzględniając konieczność wykazania przez podmioty, o których mowa w art. 46 ust. 2 pkt 1, interesu prawnego w uzyskaniu danych jednostkowych w rozumieniu art. 47 ust. 4, lub interesu faktycznego w uzyskaniu danych w drodze weryfikacji w przypadkach, o których mowa w art. 49 ust. 2–2aa, oraz warunki, o których mowa w art. 48 ust. 1.
+
 **Art. 53.** Udostępnienie danych z rejestru mieszkańców oraz rejestru PESEL następuje:
+
+- **1)** dla podmiotów, o których mowa w art. 46 ust. 1, art. 46 ust. 2 pkt 4, oraz ministra właściwego do spraw wewnętrznych – nieodpłatnie; [2) dla podmiotów, o których mowa w art. 46 ust. 2 pkt 1–3 – odpłatnie.] <2) dla podmiotów, o których mowa w art. 46 ust. 2 pkt 1–3 i art. 49a ust. 1 – odpłatnie.>
 
 **Art. 54.** Osoby i jednostki organizacyjne, o których mowa w art. 46 ust. 2 pkt 1, są zwolnione z opłat w przypadku udostępnienia z rejestru mieszkańców oraz rejestru PESEL danych niezbędnych do sporządzenia aktu poświadczenia dziedziczenia.
 
 **Art. 55.** Opłaty pobrane za udostępnienie danych stanowią dochód budżetu państwa.
 
 **Art. 56.** Rada Ministrów określi, w drodze rozporządzenia: [1) wysokość, sposób i terminy uiszczania opłaty za udostępnienie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL, a także za udostępnianie danych za pomocą urządzeń teletransmisji, w drodze weryfikacji, o której mowa w art. 49 ust. 1, oraz sposób dokumentowania uiszczenia opłaty,] <1) wysokość, sposób i terminy uiszczania opłaty za udostępnianie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL, za udostępnianie danych za pomocą urządzeń teletransmisji danych, w drodze weryfikacji, o której mowa w art. 49 ust. 1, a także za udostępnianie serii, numeru i daty ważności ważnego dowodu osobistego, o którym mowa w art. 49a ust. 1, oraz sposób dokumentowania uiszczenia opłaty,>
+
+- **2)** sposób obliczania wysokości oraz sposób i terminy uiszczania opłaty za udostępnianie danych podmiotom, o których mowa w art. 46 ust. 2 pkt 2, a także sposób dokumentowania uiszczenia opłaty – uwzględniając, że wysokość opłaty powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych. <– mając na uwadze sposób udostępniania danych, a także uwzględniając, że wysokość opłaty powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych, a sposób i terminy uiszczania opłat nie powinny stwarzać nadmiernych obciążeń dla podmiotów występujących o udostępnianie danych.>
 
 **Art. 57.**
 
@@ -1190,6 +1264,10 @@ source: "isap-pdf"
 5. Podmiot kontrolowany w zakresie spełnienia warunków, o których mowa w art. 46 ust. 2 pkt 1 lub art. 48 ust. 1, jest obowiązany udostępnić dokumenty i urządzenia, o których mowa w ust. 4, oraz zapewnić warunki i środki niezbędne do przeprowadzenia kontroli, w tym swobodny dostęp do pomieszczeń.
 
 **Art. 58.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** sposób i tryb przeprowadzania kontroli korzystania z dostępu do danych za pomocą teletransmisji danych, w drodze weryfikacji,
+- **2)** wzór upoważnienia do przeprowadzania kontroli,
+- **3)** wzór protokołu kontroli – biorąc pod uwagę wymagania, o których mowa w art. 46 ust. 2 pkt 1 i art. 48 ust. 1.
 
 #### Rozdział 7 Przepisy karne
 
@@ -1226,6 +1304,9 @@ source: "isap-pdf"
 #### Rozdział 9 Przepisy przejściowe i końcowe
 
 **Art. 69.** Postępowania administracyjne wszczęte na podstawie ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. poz. 993, z późn. zm. ) i niezakończone przed dniem wejścia w życie niniejszej ustawy, w sprawach indywidualnych o:
+
+- **1)** zameldowanie, uchylenie czynności materialno-technicznej zameldowania oraz wymeldowanie, udostępnienie danych ze zbioru PESEL i gminnych zbiorów meldunkowych – prowadzi się na podstawie niniejszej ustawy;
+- **2)** udostępnienie danych z wojewódzkich zbiorów meldunkowych – umarza się.
 
 **Art. 70.**
 

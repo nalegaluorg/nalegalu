@@ -8,7 +8,7 @@ pos: 708
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Centralnym Biurze Antykorupcyjnym
@@ -87,6 +87,13 @@ Art. 141–210. (pominięte)
 
 **Art. 3a.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
 
+- **1)** w sprawach dotyczących przyjęcia do służby albo pracy w CBA;
+- **2)** w sprawach wynikających ze stosunku służbowego funkcjonariuszy CBA;
+- **3)** w sprawach wynikających ze stosunku pracy pracowników CBA;
+- **4)** w sprawach wynikających ze stosunku służbowego byłych funkcjonariuszy CBA;
+- **5)** w sprawach wynikających ze stosunku pracy byłych pracowników CBA;
+- **6)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby wpłynąć negatywnie na sposób realizacji zadań CBA.
+
 **Art. 4.**
 
 1. Działalność CBA jest finansowana z budżetu państwa.
@@ -136,6 +143,10 @@ Art. 141–210. (pominięte)
 4. Szef CBA lub zastępca Szefa CBA nie może być członkiem partii politycznej ani uczestniczyć w działalności tej partii lub na jej rzecz.
 
 **Art. 8.** Odwołanie Szefa CBA z zajmowanego stanowiska następuje w przypadku:
+
+- **1)** rezygnacji z zajmowanego stanowiska;
+- **2)** niespełniania któregokolwiek z warunków określonych w art. 7;
+- **3)** niewykonywania obowiązków z powodu choroby trwającej nieprzerwanie ponad 3 miesiące.
 
 **Art. 9.** W przypadku zwolnienia stanowiska Szefa CBA lub czasowej niemożności sprawowania przez niego funkcji, Prezes Rady Ministrów może powierzyć pełnienie obowiązków Szefa, na czas nie dłuższy niż 3 miesiące, jego zastępcy lub innej osobie, która spełnia warunki określone w art. 7.
 
@@ -784,7 +795,7 @@ Art. 141–210. (pominięte)
 
 2. Kontrolowany lub osoba przez niego upoważniona, z zachowaniem przepisów o ochronie informacji niejawnych, zapewnia kontrolującemu warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, w szczególności przez niezwłoczne przedstawianie do kontroli żądanych dokumentów i materiałów oraz udzielanie ustnych i pisemnych wyjaśnień przez pracowników jednostki.
 
-3. Kontrola lub poszczególne jej czynności przeprowadzane w obiektach pozostających w zarządzie Kancelarii i Kancelarii Senatu mogą być przeprowadzane w uzgodnieniu odpowiednio z Marszałkiem Rzeczypospolitej Polskiej lub Marszałkiem Senatu Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
+3. Kontrola lub poszczególne jej czynności przeprowadzane w obiektach pozostających w zarządzie Kancelarii Sejmu i Kancelarii Senatu mogą być przeprowadzane w uzgodnieniu odpowiednio z Marszałkiem Sejmu Rzeczypospolitej Polskiej lub Marszałkiem Senatu Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
 
 **Art. 37.**
 
@@ -933,6 +944,14 @@ Art. 141–210. (pominięte)
 #### Rozdział 5 Służba funkcjonariuszy Centralnego Biura Antykorupcyjnego
 
 **Art. 48.** Służbę w CBA może pełnić osoba:
+
+- **1)** posiadająca wyłącznie obywatelstwo polskie;
+- **2)** korzystająca z pełni praw publicznych;
+- **3)** wykazująca nieskazitelną postawę moralną, obywatelską i patriotyczną;
+- **4)** która nie była skazana za popełnione umyślnie przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **5)** dająca rękojmię zachowania tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych;
+- **6)** posiadająca co najmniej wykształcenie średnie lub średnie branżowe i wymagane kwalifikacje zawodowe oraz zdolność fizyczną i psychiczną do pełnienia służby;
+- **7)** która nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
 **Art. 49.**
 
@@ -1191,6 +1210,9 @@ Art. 141–210. (pominięte)
 
 **Art. 65.** Stosunek służbowy funkcjonariusza wygasa w przypadku:
 
+- **1)** śmierci funkcjonariusza lub stwierdzenia zaginięcia, o którym mowa w art. 98 ust. 4;
+- **2)** nieobecności funkcjonariusza w służbie przez okres powyżej 3 miesięcy z powodu tymczasowego aresztowania, chyba że wcześniej nastąpiło zwolnienie funkcjonariusza ze służby.
+
 **Art. 66.**
 
 1. W przypadku uchylenia prawomocnego wyroku skazującego lub prawomocnego orzeczenia o warunkowym umorzeniu postępowania karnego i wydania orzeczenia o umorzeniu postępowania karnego albo w przypadku uchylenia kary dyscyplinarnej wyznaczenia na niższe stanowisko służbowe lub kary wydalenia ze służby, ulegają uchyleniu skutki, jakie wynikły dla funkcjonariusza w związku z wyznaczeniem na niższe stanowisko służbowe. O uchyleniu innych skutków decyduje Szef CBA.
@@ -1318,6 +1340,10 @@ Art. 141–210. (pominięte)
 
 **Art. 83.** Prezes Rady Ministrów określi, w drodze rozporządzenia, przebieg służby funkcjonariuszy. Rozporządzenie powinno określać:
 
+- **1)** szczegółowe warunki i tryb załatwiania spraw, w tym spraw osobowych funkcjonariuszy, nawiązania, rozwiązania lub wygaśnięcia stosunku służbowego, mianowania, przenoszenia, odwoływania i zwalniania ze stanowisk służbowych;
+- **2)** sposób usprawiedliwiania nieobecności w służbie;
+- **3)** rodzaje informacji, których ze względu na przebieg służby funkcjonariusza jest on obowiązany udzielić.
+
 **Art. 84.**
 
 1. Funkcjonariuszowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 28 dni roboczych.
@@ -1369,6 +1395,11 @@ Art. 141–210. (pominięte)
 2. Rozporządzenie powinno uwzględniać prawo funkcjonariusza do odpoczynku oraz zapewnienie ciągłości i skuteczności realizacji zadań.
 
 **Art. 88.** Funkcjonariuszowi, który osiąga znaczące wyniki w służbie, Szef CBA może udzielić następujących wyróżnień:
+
+- **1)** krótkoterminowego urlopu wypoczynkowego w wymiarze do 7 dni roboczych;
+- **2)** nagrody pieniężnej lub rzeczowej;
+- **3)** mianowania na wyższe stanowisko służbowe;
+- **4)** przedstawienia do orderu lub odznaczenia.
 
 **Art. 89.**
 
@@ -1928,6 +1959,9 @@ Art. 141–210. (pominięte)
 - **10)** ujawnianie informacji pozostającej w związku z wykonywaniem czynności służbowych.
 
 **Art. 108.** Przewinienie dyscyplinarne jest zawinione wtedy, gdy funkcjonariusz:
+
+- **1)** ma zamiar jego popełnienia, to jest chce je popełnić albo przewidując możliwość jego popełnienia, na to się godzi;
+- **2)** nie mając zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
 
 **Art. 109.**
 

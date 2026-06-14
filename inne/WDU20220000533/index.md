@@ -8,10 +8,10 @@ pos: 533
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 7 marca 2022 OBWIESZCZENIE MINISTRA CYFRYZACJI 4 lutego 2022 sprawie ogłoszenia jednolitego tekstu rozporządzenia Administracji i Cyfryzacji sprawie szczegółowych wymagań dotyczących gospodarowania numeracją publicznych sieciach telekomunikacyjnych
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 533 OBWIESZCZENIE MINISTRA CYFRYZACJI z dnia 4 lutego 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,78 +25,82 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000533) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/533/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Administracji i Cyfryzacji 19 marca 2014 sprawie szczegółowych wymagań dotyczących gospodarowania numeracją publicznych sieciach telekomunikacyjnych (Dz. U. 2019 poz. 1428), uwzględnieniem zmian wprowadzonych rozporządzeniem Cyfryzacji 2 października 2020 zmieniającym rozporządzenie sprawie szczegółowych wymagań dotyczących gospodarowania numeracją publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Cyfryzacji 2 października 2020 zmieniającego rozporządzenie sprawie szczegółowych wymagań dotyczących gospodarowania numeracją publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 30 dni od ogłoszenia.”.
-Minister Cyfryzacji: wz. J. Cieszyński ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI 19 marca 2014 sprawie szczegółowych wymagań dotyczących gospodarowania numeracją publicznych sieciach telekomunikacyjnych Na podstawie art. 126 ust. 12 pkt 2 ustawy 16 lipca 2004 Prawo telekomunikacyjne (Dz. U. 2021 poz. 576 oraz 2022 poz. 501) zarządza się, co następuje: § 1. Określa szczegółowe wymagania dotyczące gospodarowania numeracją publicznych sieciach telekomunikacyjnych, stanowiące załącznik rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia .
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Administracji i Cyfryzacji w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. z 2019 r. poz. 1428), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Cyfryzacji z dnia 2 października 2020 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Cyfryzacji z dnia 2 października 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 1808), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
+Minister Cyfryzacji: wz. J. Cieszyński ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI z dnia 19 marca 2014 r.
+w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych Na podstawie art. 126 ust. 12 pkt 2 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501) zarządza się, co następuje:
+§ 1. Określa się szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telekomunikacyjnych, stanowiące załącznik do rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE GOSPODAROWANIA NUMERACJĄ W PUBLICZNYCH SIECIACH TELEKOMUNIKACYJNYCH
-1. Szczegółowe wymagania dotyczące gospodarowania numeracją publicznych sieciach telekomunikacyjnych stosuje numeracji:
-1) abonenckiej stacjonarnej publicznej telekomunikacyjnej, której świadczone są publicznie dostępne usługi telefoniczne;
-abonenckiej ruchomej publicznej telekomunikacyjnej, której świadczone są publicznie dostępne usługi telefoniczne, tym wyróżników sieci;
-2a) dla komunikacji maszyna-maszyna, tym wyróżników ruchomej publicznej telekomunikacyjnej;
-3) skróconej, obejmującej numery abonenckich specjalnych, zwane dalej numerami „AUS”, i zharmonizowane europejskie numery skrócone (Harmonised European Short Codes), zwane dalej numerami „HESC”;
-4) dostępu radiowych przywoławczych, zwanej dalej „SP”;
-5) dostępu dostawcy usług, świadczącego usługi przez numer dostępu lub drodze preselekcji, zwanej dalej „NDS”;
-6) dostępu teleinformatycznych, zwanej dalej „NDSI”;
-7) dostępu inteligentnych, zwanej dalej „NDIN”;
-8) rutingowej, służącej realizacji uprawnień abonentów przeniesienia przydzielonego numeru, zwanej dalej „NR NP”;
-9) dostępu resortowych telekomunikacyjnych jednostek organizacyjnych podmiotów wymienionych art. 4 pkt 1, 2, 4 i 8 ustawy 16 lipca 2004 Prawo telekomunikacyjne zakresie wyróżników AB;
-10) dostępu transmisji danych komutacją pakietów zakresie numeracji (Data Network Identification Code, zwanej dalej „DNIC”, oraz Private Data Network Identification Code, zwanej dalej „PNIC”), służącej identyfikacji publicznych oraz prywatnych transmisji danych;
-11) dla punktów sygnalizacyjnych będących węzłami sygnalizacyjnej, wysyłają, odbierają lub transferują informacje sygnalizacyjne (International Signalling Point Code, zwanej dalej „ISPC”, oraz National Signalling Point Code, zwanej dalej „NSPC”);
+1. Szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telekomunikacyjnych stosuje się do numeracji:
+1) abonenckiej w stacjonarnej publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne;
+2) abonenckiej w ruchomej publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne, w tym do wyróżników sieci;
+2a) dla komunikacji maszyna-maszyna, w tym do wyróżników sieci w ruchomej publicznej sieci telekomunikacyjnej;
+3) skróconej, obejmującej numery abonenckich usług specjalnych, zwane dalej numerami „AUS”, i zharmonizowane europejskie numery skrócone (Harmonised European Short Codes), zwane dalej numerami „HESC”;
+4) dostępu do radiowych sieci przywoławczych, zwanej dalej „SP”;
+5) dostępu dostawcy usług, świadczącego usługi przez numer dostępu lub w drodze preselekcji, zwanej dalej „NDS”;
+6) dostępu do sieci teleinformatycznych, zwanej dalej „NDSI”;
+7) dostępu do usług sieci inteligentnych, zwanej dalej „NDIN”;
+8) rutingowej, służącej realizacji uprawnień abonentów do przeniesienia przydzielonego numeru, zwanej dalej „NR NP”;
+9) dostępu do resortowych sieci telekomunikacyjnych jednostek organizacyjnych podmiotów wymienionych w art. 4 pkt 1, 2, 4 i 8 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne w zakresie wyróżników AB;
+10) dostępu do sieci transmisji danych z komutacją pakietów w zakresie numeracji (Data Network Identification Code, zwanej dalej „DNIC”, oraz Private Data Network Identification Code, zwanej dalej „PNIC”), służącej do identyfikacji publicznych oraz prywatnych sieci transmisji danych;
+11) dla punktów sygnalizacyjnych będących węzłami sieci sygnalizacyjnej, które wysyłają, odbierają lub transferują informacje sygnalizacyjne (International Signalling Point Code, zwanej dalej „ISPC”, oraz National Signalling Point Code, zwanej dalej „NSPC”);
 12) dla zamkniętej grupy użytkowników (Closed User Group), zwanej dalej „CUG”;
-13) dla identyfikacji ruchomych (Mobile Network Code), zwanej dalej „MNC”;
-14) dla identyfikacji ATM.
-2. Wymagania, jakim gospodarowanie numeracją abonencką stacjonarnej publicznej telekomunikacyjnej, której świadczone są publicznie dostępne usługi telefoniczne:
-1) minimalny blok numerów, zwanych dalej „NN”, składać NN o tych samych cyfrach SPQM, gdzie symbole literowe SPQM oznaczają początkowe cyfry przydzielonego bloku numerów, przy czym symbolowi literowemu „M” odpowiada NN;
-zakres numeracji stanowić wielokrotność NN.
-3. Wymagania, jakim gospodarowanie numeracją abonencką ruchomej publicznej telekomunikacyjnej, której świadczone są publicznie dostępne usługi telefoniczne:
-1) przydziela wskaźnik (wyróżnik) od 2 5 cyfr, wraz pełnym zakresem numeracji objętej tym wskaźnikiem;
-stosuje jednolitą 9-cyfrową numerację krajową abonentów o formacie ABSPQMCDU, gdzie symbole literowe oznaczają kolejne cyfry numerze krajowym zakończenia sieci;
-3) minimalny blok numerów składać 10 000 NN o tych samych cyfrach ABSPQ;
-4) zakres numeracji stanowić wielokrotność 10 000 NN;
+13) dla identyfikacji sieci ruchomych (Mobile Network Code), zwanej dalej „MNC”;
+14) dla identyfikacji sieci ATM.
+2. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją abonencką w stacjonarnej publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne:
+1) minimalny przydzielony blok numerów, zwanych dalej „NN”, powinien składać się z 1000 NN o tych samych cyfrach SPQM, gdzie symbole literowe SPQM oznaczają początkowe cyfry przydzielonego bloku numerów, przy czym symbolowi literowemu „M” odpowiada 1000 NN;
+2) przydzielony zakres numeracji powinien stanowić wielokrotność 1000 NN.
+3. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją abonencką w ruchomej publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne:
+1) przydziela się wskaźnik (wyróżnik) sieci od 2 do 5 cyfr, wraz z pełnym zakresem numeracji objętej tym wskaźnikiem;
+2) stosuje się jednolitą 9-cyfrową numerację krajową abonentów o formacie ABSPQMCDU, gdzie symbole literowe oznaczają kolejne cyfry w numerze krajowym zakończenia sieci;
+3) minimalny przydzielony blok numerów powinien składać się z 10 000 NN o tych samych cyfrach ABSPQ;
+4) przydzielony zakres numeracji powinien stanowić wielokrotność 10 000 NN;
 5) (uchylony).
-1) przydziela wskaźnik (wyróżnik) od 3 6 cyfr, wraz pełnym zakresem numeracji objętej tym wskaźnikiem;
-stosuje jednolitą 9-cyfrową numerację krajową o formacie ABSPQMCDU, gdzie symbole literowe oznaczają kolejne cyfry numerze krajowym zakończenia identyfikującym urządzenie;
-3) minimalny blok numerów składać NN o tych samych cyfrach ABSPQM;
-4) zakres numeracji stanowić wielokrotność NN.
-4. Wymagania, jakim gospodarowanie numeracją skróconą:
-1) numery strefowe AUS przydziela podmiotowi dostarczającemu stacjonarną publiczną sieć telekomunikacyjną, której świadczone są publicznie dostępne usługi telefoniczne;
-numery HESC o formacie 116CDU przydziela przedsiębiorcy telekomunikacyjnemu celu świadczenia zharmonizowanych o walorze społecznym, na zasadach określonych decyzji Komisji 15 lutego 2007 sprawie rezerwacji krajowego zakresu numeracyjnego zaczynającego na „116” na potrzeby zharmonizowanych o walorze społecznym, zgodnie wykazem zawartym załączniku tej decyzji;
-3) numery HESC o formacie 118CDU przydziela przedsiębiorcy telekomunikacyjnemu celu świadczenia usługi informacji o numerach;
-4) numeracja skrócona może być przydzielana i udostępniana jedynie celu świadczenia całodobowo.
-5. Numery SP przydziela podmiotowi dostarczającemu radiową sieć przywoławczą.
-6. Wymagania, jakim gospodarowanie numeracją NDS:
-1) dostawcy usług, będącemu jednocześnie operatorem, który świadczy usługi na obszarze całego kraju publicznych sieciach telekomunikacyjnych, których świadczone są publicznie dostępne usługi telefoniczne, przydziela 4-cyfrowy lub 5-cyfrowy numer NDS;
-dostawcy usług, który wykorzystuje infrastrukturę telekomunikacyjną operatorów celu świadczenia na obszarze całego kraju publicznych sieciach telekomunikacyjnych, których świadczone są publicznie dostępne usługi telefoniczne, przydziela 5-cyfrowy numer NDS.
-7. Wymagania, jakim gospodarowanie numeracją NDSI:
-1) podmiotowi świadczącemu usługi zapewnienia dostępu teleinformatycznych, tym Internetu, realizowane za pomocą łączy komutowanych, dla użytkowników publicznych telekomunikacyjnych, których świadczone są publicznie dostępne usługi telefoniczne, przydziela nie więcej niż dwa numery NDSI, zastrzeżeniem pkt 2;
-podmiotowi, o którym mowa pkt 1, mogą być przydzielone dodatkowe numery NDSI, szczególności celu:
-a) świadczenia telekomunikacyjnych wymagających oddzielnych wiązek łączy,
-b) świadczenia telekomunikacyjnych zaliczanych i rozliczanych odmiennie od innych usług.
-8. Wymagania, jakim gospodarowanie numeracją NDIN:
-1) numerację NDIN przydziela przedsiębiorcy telekomunikacyjnemu, który świadczy usługi na terenie całego kraju;
-minimalny blok numerów NDIN składać numerów o tych samych cyfrach ABSPQM;
+3a. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją dla komunikacji maszyna-maszyna w ruchomej publicznej sieci telekomunikacyjnej:
+1) przydziela się wskaźnik (wyróżnik) sieci od 3 do 6 cyfr, wraz z pełnym zakresem numeracji objętej tym wskaźnikiem;
+2) stosuje się jednolitą 9-cyfrową numerację krajową o formacie ABSPQMCDU, gdzie symbole literowe oznaczają kolejne cyfry w numerze krajowym zakończenia sieci identyfikującym urządzenie;
+3) minimalny przydzielony blok numerów powinien składać się z 1000 NN o tych samych cyfrach ABSPQM;
+4) przydzielony zakres numeracji powinien stanowić wielokrotność 1000 NN.
+4. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją skróconą:
+1) numery strefowe AUS przydziela się podmiotowi dostarczającemu stacjonarną publiczną sieć telekomunikacyjną, w której świadczone są publicznie dostępne usługi telefoniczne;
+2) numery HESC o formacie 116CDU przydziela się przedsiębiorcy telekomunikacyjnemu w celu świadczenia zharmonizowanych usług o walorze społecznym, na zasadach określonych w decyzji Komisji z dnia 15 lutego 2007 r. w sprawie rezerwacji krajowego zakresu numeracyjnego zaczynającego się na „116” na potrzeby zharmonizowanych usług o walorze społecznym, zgodnie z wykazem zawartym w załączniku do tej decyzji;
+3) numery HESC o formacie 118CDU przydziela się przedsiębiorcy telekomunikacyjnemu w celu świadczenia usługi informacji o numerach;
+4) numeracja skrócona może być przydzielana i udostępniana jedynie w celu świadczenia usług całodobowo.
+5. Numery SP przydziela się podmiotowi dostarczającemu radiową sieć przywoławczą.
+6. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją NDS:
+1) dostawcy usług, będącemu jednocześnie operatorem, który świadczy usługi na obszarze całego kraju w publicznych sieciach telekomunikacyjnych, w których świadczone są publicznie dostępne usługi telefoniczne, przydziela się 4-cyfrowy lub 5-cyfrowy numer NDS;
+2) dostawcy usług, który wykorzystuje infrastrukturę telekomunikacyjną operatorów w celu świadczenia usług na obszarze całego kraju w publicznych sieciach telekomunikacyjnych, w których świadczone są publicznie dostępne usługi telefoniczne, przydziela się 5-cyfrowy numer NDS.
+7. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją NDSI:
+1) podmiotowi świadczącemu usługi zapewnienia dostępu do sieci teleinformatycznych, w tym do Internetu, realizowane za pomocą łączy komutowanych, dla użytkowników publicznych sieci telekomunikacyjnych, w których świadczone są publicznie dostępne usługi telefoniczne, przydziela się nie więcej niż dwa numery NDSI, z zastrzeżeniem pkt 2;
+2) podmiotowi, o którym mowa w pkt 1, mogą być przydzielone dodatkowe numery NDSI, w szczególności w celu:
+a) świadczenia usług telekomunikacyjnych wymagających oddzielnych wiązek łączy,
+b) świadczenia usług telekomunikacyjnych zaliczanych i rozliczanych odmiennie od innych usług.
+8. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją NDIN:
+1) numerację NDIN przydziela się przedsiębiorcy telekomunikacyjnemu, który świadczy usługi na terenie całego kraju;
+2) minimalny przydzielony blok numerów NDIN powinien składać się z 1000 numerów o tych samych cyfrach ABSPQM;
 3) przydzielone numery NDIN powinny stanowić wielokrotność minimalnego bloku numerów.
-9. Wymagania, jakim gospodarowanie numeracją NR NP:
-1) numer NR NP przydziela podmiotowi świadczącemu publicznie dostępne usługi telefoniczne;
-obsługi numerów geograficznych przydziela jeden numer NR NP identyfikujący centralę telefoniczną lub inny węzeł telekomunikacyjnej obsługujący grupę logicznie połączonych central właściwych dla lokalizacji, której abonent przeniesionym numerem został przyłączony publicznej telekomunikacyjnej;
-3) obsługi numerów niegeograficznych przydziela jeden numer NR NP identyfikujący sieć telekomunikacyjną.
-10. Wyróżniki AB resortowych telekomunikacyjnych jednostek organizacyjnych podmiotów wymienionych art. 4 pkt 1, 2, 4 i 8 ustawy 16 lipca 2004 Prawo telekomunikacyjne przydziela Prezes Urzędu Komunikacji Elektronicznej na wniosek tych podmiotów zakresu numeracji wskazanej planie numeracji krajowej (PNK).
-danych:
-1) podmiotowi dostarczającemu sieć transmisji danych komutacją pakietów przydziela 4-cyfrowy kod identyfikacji publicznej teleinformatycznej DNIC, gdzie pierwsze 3 cyfry stanowią kod kraju (260 dla Rzeczypospolitej Polskiej), natomiast ostatnia cyfra określa kod konkretnej danym kraju;
-dla transmisji danych komutacją pakietów niebędących publicznymi sieciami telekomunikacyjnymi dołączonych publicznych przydzielany jest kod identyfikacji teleinformatycznej PNIC, składający sekwencji od 2 6 cyfr.
-12. Wymagania, jakim gospodarowanie numeracją dla punktów sygnalizacyjnych będących węzłami sygnalizacyjnej, wysyłają, odbierają lub transferują informacje sygnalizacyjne ISPC oraz NSPC:
-1) przydziela międzynarodowy kod punktu sygnalizacyjnego ISPC zachowaniem reguły przydziału jednego kodu identyfikacji jednego punktu sygnalizacyjnego. Format ISPC stanowi 14-bitowy kod binarny. Reprezentację dziesiętną tego kodu stanowią trzy liczby, pierwsza 1-cyfrowa zakresu od 0 7, druga 3-cyfrowa zakresu od 000 255 oraz trzecia 1-cyfrowa zakresu od 0 7. Pierwsze dwie liczby identyfikują kod sygnalizacyjnej na określonym obszarze, natomiast ostatnia liczba określa konkretny punkt sygnalizacyjny dołączony tej sieci;
-przydziela krajowy kod punktu sygnalizacyjnego NSPC identyfikacji elementów krajowej sygnalizacyjnej.
-Format NSPC stanowi 14-bitowy kod binarny. Reprezentację dziesiętną kodu stanowią dwie liczby. Pierwsza 3-cyfrowa liczba określona jest przez 7 najbardziej znaczących bitów kodu i identyfikuje konkretną krajową sieć sygnalizacyjną, natomiast druga 3-cyfrowa liczba określona przez pozostałe 7 bitów identyfikuje konkretny punkt sygnalizacyjny dołączony tej sieci.
-13. Wymagania, jakim gospodarowanie numeracją dla zamkniętej grupy użytkowników (CUG):
-1) polu informacyjnym sygnalizacji, części dotyczącej kodów dla zamkniętej grupy użytkowników (CUG) pierwsze dwa oktety określają rodzaj i kod kraju, stąd uwzględniając kod Rzeczypospolitej Polskiej CC = 48, ustala reprezentację dziesiętną dwóch pierwszych oktetów jako 0480;
-przydziela liczbę bitów 3 i 4 oktecie pola parametrów dla CUG zależną od ilości numerów CUG wniosku o ich przydział.
-14. Wymagania, jakim gospodarowanie numeracją dla identyfikacji ruchomej (MNC):
-1) podmiotowi dostarczającemu ruchomą publiczną sieć telekomunikacyjną przydziela 2 lub 3-cyfrowy kod ruchomej (MNC), który poprzedzony jest 3-cyfrowym Mobile Country Code, zwany dalej „MCC” (dla Rzeczypospolitej Polskiej MCC = 260). Oba kody MCC + MNC stanowią element numeru International Mobile Subscriber Identity IMSI będącego indywidualnym identyfikatorem każdego abonenta ruchomych;
-4-cyfrowe kody MNC przydziela dla ruchomych typu trankingowego zgodnie ze standardem telekomunikacyjnym TETRA.
-15. Wymagania, jakim gospodarowanie kodami ATM:
-1) przydziela 4-cyfrowy kod ATM umieszczany czterech pierwszych półoktetach części Higher Order Domain Specific Part (HO–DSP) pola adresowego typu Network Service Access Point (NSAP) identyfikującego elementy dołączone ATM, przy czym identyfikator formatu AFI (Authority and Format Identifier) ma wartość równą 45;
-dwie pierwsze cyfry numeru międzynarodowego E.164 umieszczonego polu Initial Domain Identifier (IDI) powinny kodowi kraju.
-16. Cofnięcie przydziału numeracji dotyczy minimalnych bloków numerów przydzielanych zgodnie wymaganiami dla odpowiedniego rodzaju numeracji lub ich wielokrotności.
+9. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją NR NP:
+1) numer NR NP przydziela się podmiotowi świadczącemu publicznie dostępne usługi telefoniczne;
+2) do obsługi numerów geograficznych przydziela się jeden numer NR NP identyfikujący centralę telefoniczną lub inny węzeł sieci telekomunikacyjnej obsługujący grupę logicznie połączonych central właściwych dla lokalizacji, w której abonent z przeniesionym numerem został przyłączony do publicznej sieci telekomunikacyjnej;
+3) do obsługi numerów niegeograficznych przydziela się jeden numer NR NP identyfikujący sieć telekomunikacyjną.
+10. Wyróżniki AB resortowych sieci telekomunikacyjnych jednostek organizacyjnych podmiotów wymienionych w art. 4 pkt 1, 2, 4 i 8 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne przydziela Prezes Urzędu Komunikacji Elektronicznej na wniosek tych podmiotów z zakresu numeracji wskazanej w planie numeracji krajowej (PNK).
+11. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją dostępu do sieci transmisji danych z komutacją pakietów w zakresie numeracji DNIC oraz PNIC, służącej do identyfikacji publicznych oraz prywatnych sieci transmisji danych:
+1) podmiotowi dostarczającemu sieć transmisji danych z komutacją pakietów przydziela się 4-cyfrowy kod identyfikacji publicznej sieci teleinformatycznej DNIC, gdzie pierwsze 3 cyfry stanowią kod kraju (260 – dla Rzeczypospolitej Polskiej), natomiast ostatnia cyfra określa kod konkretnej sieci w danym kraju;
+2) dla sieci transmisji danych z komutacją pakietów niebędących publicznymi sieciami telekomunikacyjnymi dołączonych do sieci publicznych przydzielany jest kod identyfikacji sieci teleinformatycznej PNIC, składający się z sekwencji od 2 do 6 cyfr.
+12. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją dla punktów sygnalizacyjnych będących węzłami sieci sygnalizacyjnej, które wysyłają, odbierają lub transferują informacje sygnalizacyjne ISPC oraz NSPC:
+1) przydziela się międzynarodowy kod punktu sygnalizacyjnego ISPC z zachowaniem reguły przydziału jednego kodu do identyfikacji jednego punktu sygnalizacyjnego. Format ISPC stanowi 14-bitowy kod binarny. Reprezentację dziesiętną tego kodu stanowią trzy liczby, pierwsza 1-cyfrowa z zakresu od 0 do 7, druga 3-cyfrowa z zakresu od 000 do 255 oraz trzecia 1-cyfrowa z zakresu od 0 do 7. Pierwsze dwie liczby identyfikują kod sieci sygnalizacyjnej na określonym obszarze, natomiast ostatnia liczba określa konkretny punkt sygnalizacyjny dołączony do tej sieci;
+2) przydziela się krajowy kod punktu sygnalizacyjnego NSPC do identyfikacji elementów krajowej sieci sygnalizacyjnej.
+Format NSPC stanowi 14-bitowy kod binarny. Reprezentację dziesiętną kodu stanowią dwie liczby. Pierwsza 3-cyfrowa liczba określona jest przez 7 najbardziej znaczących bitów kodu i identyfikuje konkretną krajową sieć sygnalizacyjną, natomiast druga 3-cyfrowa liczba określona przez pozostałe 7 bitów identyfikuje konkretny punkt sygnalizacyjny dołączony do tej sieci.
+13. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją dla zamkniętej grupy użytkowników (CUG):
+1) w polu informacyjnym sygnalizacji, w części dotyczącej kodów dla zamkniętej grupy użytkowników (CUG) pierwsze dwa oktety określają rodzaj sieci i kod kraju, stąd uwzględniając kod Rzeczypospolitej Polskiej CC = 48, ustala się reprezentację dziesiętną dwóch pierwszych oktetów jako 0480;
+2) przydziela się liczbę bitów w 3 i 4 oktecie pola parametrów dla CUG zależną od ilości numerów CUG z wniosku o ich przydział.
+14. Wymagania, jakim powinno odpowiadać gospodarowanie numeracją dla identyfikacji sieci ruchomej (MNC):
+1) podmiotowi dostarczającemu ruchomą publiczną sieć telekomunikacyjną przydziela się 2 lub 3-cyfrowy kod sieci ruchomej (MNC), który poprzedzony jest 3-cyfrowym Mobile Country Code, zwany dalej „MCC” (dla Rzeczypospolitej Polskiej MCC = 260). Oba kody MCC + MNC stanowią element numeru International Mobile Subscriber Identity – IMSI będącego indywidualnym identyfikatorem każdego abonenta sieci ruchomych;
+2) 4-cyfrowe kody MNC przydziela się dla sieci ruchomych typu trankingowego zgodnie ze standardem telekomunikacyjnym TETRA.
+15. Wymagania, jakim powinno odpowiadać gospodarowanie kodami sieci ATM:
+1) przydziela się 4-cyfrowy kod sieci ATM umieszczany w czterech pierwszych półoktetach części Higher Order Domain Specific Part (HO–DSP) pola adresowego typu Network Service Access Point (NSAP) identyfikującego elementy dołączone do sieci ATM, przy czym identyfikator formatu AFI (Authority and Format Identifier) ma wartość równą 45;
+2) dwie pierwsze cyfry numeru międzynarodowego E.164 umieszczonego w polu Initial Domain Identifier (IDI) powinny odpowiadać kodowi kraju.
+16. Cofnięcie przydziału numeracji dotyczy minimalnych bloków numerów przydzielanych zgodnie z wymaganiami dla odpowiedniego rodzaju numeracji lub ich wielokrotności.
 

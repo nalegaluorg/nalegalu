@@ -8,12 +8,10 @@ pos: 1185
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -39,6 +37,10 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 
 **Art. 1.** Ustawa określa zasady wykonywania na terytorium Rzeczypospolitej Polskiej zobowiązań wynikających z Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647 oraz z 2017 r. poz. 158), zwanych dalej „Umową FATCA”, w tym:
 
+- **1)** obowiązki raportujących polskich instytucji finansowych w zakresie identyfikowania amerykańskich rachunków raportowanych i przekazywania informacji o amerykańskich rachunkach raportowanych;
+- **2)** tryb weryfikacji wypełniania przez raportujące polskie instytucje finansowe obowiązków w zakresie identyfikowania rachunków;
+- **3)** obowiązki organu właściwego w zakresie wymiany informacji o amerykańskich rachunkach raportowanych.
+
 **Art. 2.**
 
 1. Szef Krajowej Administracji Skarbowej jest organem właściwym w sprawach dotyczących informacji w dziedzinie opodatkowania, o których mowa w Umowie FATCA i w tym zakresie przysługują mu uprawnienia organu podatkowego.
@@ -47,7 +49,7 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 
 3. (uchylony)
 
-**Art. 3.** Do załatwiania spraw, o których mowa w ustawie, przez funkcjonariuszy Służby Celno-Skarbowej lub pracowników jednostek organizacyjnych Krajowej Administracji Skarbowej lub organy upoważnione, stosuje się odpowiednio przepisy art. 143 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
+**Art. 3.** Do załatwiania spraw, o których mowa w ustawie, przez funkcjonariuszy Służby Celno-Skarbowej lub pracowników jednostek organizacyjnych Krajowej Administracji Skarbowej lub organy upoważnione, stosuje się odpowiednio przepisy art. 143 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
 
 #### Rozdział 2 Obowiązki raportujących polskich instytucji finansowych
 
@@ -75,11 +77,11 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** (uchylony)
-- **2)** format i tryb przekazywania informacji, o których mowa w ust. 1 pkt 2, w formie dokumentu elektronicznego mając na uwadze usprawnienie wypełniania, przekazywania i przetwarzania informacji, o których mowa w ust. 1 pkt 2, oraz uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych w nich zawartych, ich ochrony przed nieuprawnionym dostępem oraz wymogi dotyczące ich przekazywania przewidziane w Umowie FATCA, a także ustalenia wynikające z dwustronnego porozumienia lub dokonane w ramach procedury wzajemnego porozumiewania się, w zakresie określonym w art. 3 ust. 6 Umowy FATCA.
+- **2)** format i tryb przekazywania informacji, o których mowa w ust. 1 pkt 2, w formie dokumentu elektronicznego – mając na uwadze usprawnienie wypełniania, przekazywania i przetwarzania informacji, o których mowa w ust. 1 pkt 2, oraz uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych w nich zawartych, ich ochrony przed nieuprawnionym dostępem oraz wymogi dotyczące ich przekazywania przewidziane w Umowie FATCA, a także ustalenia wynikające z dwustronnego porozumienia lub dokonane w ramach procedury wzajemnego porozumiewania się, w zakresie określonym w art. 3 ust. 6 Umowy FATCA.
 
 9. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, szczegółowe warunki stosowania procedur sprawdzających określonych w załączniku I do Umowy FATCA, stosowanych na potrzeby identyfikacji opisanych w nim kategorii rachunków, oraz przypadki, w których możliwy jest wybór określonych sposobów postępowania stosownie do postanowień tego załącznika, mając na uwadze warunki i możliwości przewidziane w tym zakresie w Umowie FATCA, a także specyfikę działalności raportujących polskich instytucji finansowych.
 
-10. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, procedury i sposoby postępowania w sprawach określonych w art. 3 ust. 6 Umowy FATCA, będące wynikiem ustaleń dwustronnego porozumienia lub dokonanych w ramach procedury wzajemnego porozumiewania się kierując się potrzebą usprawnienia wykonywania postanowień Umowy FATCA.
+10. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, procedury i sposoby postępowania w sprawach określonych w art. 3 ust. 6 Umowy FATCA, będące wynikiem ustaleń dwustronnego porozumienia lub dokonanych w ramach procedury wzajemnego porozumiewania się – kierując się potrzebą usprawnienia wykonywania postanowień Umowy FATCA.
 
 **Art. 5.** Raportujące polskie instytucje finansowe mogą korzystać z usług innych podmiotów w zakresie wykonywania obowiązków, o których mowa w art. 4 ust. 1–3 i 5, z wyłączeniem przekazywania Szefowi Krajowej Administracji Skarbowej lub organowi upoważnionemu informacji, o których mowa w art. 4 ust. 1 pkt 2. Odpowiedzialność za wykonanie obowiązków ponosi raportująca polska instytucja finansowa.
 
@@ -89,7 +91,7 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 
 2. Uprawnienie do skorygowania informacji, o którym mowa w ust. 1:
 
-- **1)** ulega zawieszeniu na czas trwania kontroli amerykańskich rachunków raportowanych w zakresie objętym tą kontrolą;
+- **1)** ulega zawieszeniu na czas trwania kontroli amerykańskich rachunków raportowanych – w zakresie objętym tą kontrolą;
 - **2)** przysługuje nadal po zakończeniu kontroli amerykańskich rachunków raportowanych.
 
 3. Skorygowanie informacji w przypadku, o którym mowa w ust. 2 pkt 1, nie wywołuje skutków prawnych.
@@ -134,13 +136,13 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 - **6)** końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo o ich braku;
 - **7)** wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
 - **8)** informację o możliwych skutkach określonych w art. 5 ust. 2 lit. b Umowy FATCA;
-- **9)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty.
+- **9)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty.
 
 12. Termin, o którym mowa w ust. 11 pkt 7, nie może być krótszy niż 1 miesiąc i dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
 
 13. Kontrolowany jest obowiązany poinformować kontrolującego o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia, bez zbędnej zwłoki, jednak nie później niż w terminie 14 dni od dnia upływu terminu wyznaczonego na ich usunięcie.
 
-14. W zakresie nieuregulowanym w ust. 1–13 do kontroli amerykańskich rachunków raportowanych stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9–11, 14, 16, 22 i 23 oraz przepisy działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+14. W zakresie nieuregulowanym w ust. 1–13 do kontroli amerykańskich rachunków raportowanych stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9–11, 14, 16, 22 i 23 oraz przepisy działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 9.**
 
@@ -173,7 +175,7 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 - **1)** informacjach, o których mowa w art. 4 ust. 1 pkt 2,
 - **2)** informacjach, o których mowa w art. 2 ust. 2 lit. b Umowy FATCA,
 - **3)** aktach dokumentujących czynności określone w art. 7,
-- **4)** aktach kontroli amerykańskich rachunków raportowanych są objęte tajemnicą skarbową.
+- **4)** aktach kontroli amerykańskich rachunków raportowanych – są objęte tajemnicą skarbową.
 
 3. Dane osobowe przetwarzane w celu wykonywania zadań wynikających z ustawy i Umowy FATCA podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
@@ -189,17 +191,17 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 
 **Art. 13.**
 
-1. Dane zawarte w informacjach, o których mowa w art. 11 ust. 2 pkt 1, są udostępniane wyłącznie organom wymienionym w art. 297 § 1 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa na zasadach określonych w tym przepisie.
+1. Dane zawarte w informacjach, o których mowa w art. 11 ust. 2 pkt 1, są udostępniane wyłącznie organom wymienionym w art. 297 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa na zasadach określonych w tym przepisie.
 
-1a. Dane zawarte w informacjach, o których mowa w art. 11 ust. 2 pkt 2, są udostępniane organom wymienionym w art. 297 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa oraz innym niż wymienione w tym przepisie organom podatkowym, gdy toczące się przed tym organem postępowanie lub czynności wykonywane przez ten organ są związane z prawidłowym określaniem podstaw opodatkowania i wysokości zobowiązania podatkowego lub wymiarem innych należności, których dochodzenie, zgodnie z przepisami o postępowaniu egzekucyjnym w administracji, jest możliwe na wniosek obcego państwa. Udostępnienie informacji dla celów innych niż określone w zdaniu pierwszym wymaga uzyskania zgody właściwej władzy Stanów Zjednoczonych.
+1a. Dane zawarte w informacjach, o których mowa w art. 11 ust. 2 pkt 2, są udostępniane organom wymienionym w art. 297 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz innym niż wymienione w tym przepisie organom podatkowym, gdy toczące się przed tym organem postępowanie lub czynności wykonywane przez ten organ są związane z prawidłowym określaniem podstaw opodatkowania i wysokości zobowiązania podatkowego lub wymiarem innych należności, których dochodzenie, zgodnie z przepisami o postępowaniu egzekucyjnym w administracji, jest możliwe na wniosek obcego państwa. Udostępnienie informacji dla celów innych niż określone w zdaniu pierwszym wymaga uzyskania zgody właściwej władzy Stanów Zjednoczonych.
 
-2. Dane, o których mowa w art. 11 ust. 2 pkt 3 i 4, są udostępniane wyłącznie organom wymienionym w art. 297 § 1 pkt 1 i pkt 2a–7 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa na zasadach określonych w tych przepisach.
+2. Dane, o których mowa w art. 11 ust. 2 pkt 3 i 4, są udostępniane wyłącznie organom wymienionym w art. 297 § 1 pkt 1 i pkt 2a–7 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa na zasadach określonych w tych przepisach.
 
 3. W przypadkach, o których mowa w ust. 1–2, akta spraw oznacza się klauzulą: „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone”.
 
 4. Przekazanie żądań Szefa Krajowej Administracji Skarbowej lub organu upoważnionego, o których mowa w art. 7 ust. 1 i art. 8 ust. 5, następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone”.
 
-**Art. 14.** W zakresie nieuregulowanym w niniejszym rozdziale stosuje się odpowiednio przepisy art. 294, art. 296, art. 297a oraz art. 299b ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+**Art. 14.** W zakresie nieuregulowanym w niniejszym rozdziale stosuje się odpowiednio przepisy art. 294, art. 296, art. 297a oraz art. 299b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
 
@@ -224,13 +226,13 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 
 1. Na potrzeby identyfikacji rachunków finansowych, otwartych między dniem 1 lipca 2014 r. a dniem wejścia w życie ustawy, jako amerykańskich rachunków raportowanych, raportujące polskie instytucje finansowe:
 
-- **1)** w przypadku rachunków finansowych osób fizycznych występują do posiadacza rachunku z żądaniem przedstawienia oświadczenia, o którym mowa w ust. B części III załącznika I do Umowy FATCA, oraz potwierdzają jego zasadność, zgodnie z zasadami i procedurami określonymi w części III załącznika I do Umowy FATCA;
-- **2)** w przypadku rachunków finansowych osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej stosują zasady i procedury określone w części V załącznika I do Umowy FATCA, w tym występują z żądaniem przedstawienia wymaganych oświadczeń.
+- **1)** w przypadku rachunków finansowych osób fizycznych – występują do posiadacza rachunku z żądaniem przedstawienia oświadczenia, o którym mowa w ust. B części III załącznika I do Umowy FATCA, oraz potwierdzają jego zasadność, zgodnie z zasadami i procedurami określonymi w części III załącznika I do Umowy FATCA;
+- **2)** w przypadku rachunków finansowych osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej – stosują zasady i procedury określone w części V załącznika I do Umowy FATCA, w tym występują z żądaniem przedstawienia wymaganych oświadczeń.
 
 2. W ramach procedury, o której mowa w ust. 1, raportujące polskie instytucje finansowe stosują wyłączenia od weryfikacji, identyfikacji oraz raportowania rachunków finansowych określone:
 
-- **1)** w ust. A części III załącznika I do Umowy FATCA w przypadku rachunków finansowych osób fizycznych,
-- **2)** w ust. A części V załącznika I do Umowy FATCA w przypadku rachunków finansowych osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej przy czym wskazane w ust. A części III oraz w ust. A części V załącznika I do Umowy FATCA salda ustala się na dzień wejścia w życie ustawy.
+- **1)** w ust. A części III załącznika I do Umowy FATCA – w przypadku rachunków finansowych osób fizycznych,
+- **2)** w ust. A części V załącznika I do Umowy FATCA – w przypadku rachunków finansowych osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej – przy czym wskazane w ust. A części III oraz w ust. A części V załącznika I do Umowy FATCA salda ustala się na dzień wejścia w życie ustawy.
 
 3. Raportujące polskie instytucje finansowe są obowiązane do przeprowadzenia, określonej w ust. 1, procedury identyfikacji rachunków finansowych jako amerykańskich rachunków raportowanych, w terminie 12 miesięcy od dnia wejścia w życie ustawy, z tym że żądanie przedstawienia wymaganych oświadczeń powinno zostać skierowane do posiadacza rachunku nie później niż w terminie 120 dni od tego dnia.
 
@@ -254,14 +256,14 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 
 1. Kto nie dokonuje blokady rachunku finansowego, o której mowa w art. 19 ust. 6, podlega karze grzywny do 180 stawek dziennych.
 
-2. Orzekanie w sprawie, o której mowa w ust. 1, następuje na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, 850 i 879).
+2. Orzekanie w sprawie, o której mowa w ust. 1, następuje na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, 850 i 879).
 
 **Art. 21.**
 
 1. Jeżeli rachunek finansowy objęty procedurą określoną w art. 19 został zamknięty przed upływem 12 miesięcy od dnia wejścia w życie ustawy, a raportująca polska instytucja finansowa nie otrzymała oświadczeń, o których mowa w art. 19 ust. 1, w celu identyfikacji tego rachunku jako amerykańskiego rachunku raportowanego:
 
-- **1)** w przypadku rachunków finansowych osób fizycznych stosuje zasady i procedury określone w części II załącznika I do Umowy FATCA;
-- **2)** w przypadku rachunków finansowych osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej stosuje zasady i procedury określone w części IV załącznika I do Umowy FATCA.
+- **1)** w przypadku rachunków finansowych osób fizycznych – stosuje zasady i procedury określone w części II załącznika I do Umowy FATCA;
+- **2)** w przypadku rachunków finansowych osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej – stosuje zasady i procedury określone w części IV załącznika I do Umowy FATCA.
 
 2. Raportujące polskie instytucje finansowe są obowiązane do zakończenia, określonej w ust. 1, procedury identyfikacji rachunków finansowych jako amerykańskich rachunków raportowanych w terminie 15 miesięcy od dnia wejścia w życie ustawy.
 
@@ -281,11 +283,11 @@ o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów 
 
 2. Dane zawarte w informacjach przekazywanych Szefowi Krajowej Administracji Skarbowej lub organom upoważnionym, w trybie i zakresie przewidzianym w art. 22, są objęte tajemnicą skarbową.
 
-3. Dane, o których mowa w ust. 2, są udostępniane wyłącznie organom wymienionym w art. 297 § 1 pkt 1 i pkt 2a–7 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa na zasadach określonych w tych przepisach.
+3. Dane, o których mowa w ust. 2, są udostępniane wyłącznie organom wymienionym w art. 297 § 1 pkt 1 i pkt 2a–7 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa na zasadach określonych w tych przepisach.
 
 4. W przypadku, o którym mowa w ust. 3, akta spraw oznacza się klauzulą: „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone”.
 
-5. W zakresie nieuregulowanym stosuje się odpowiednio przepisy art. 294, art. 296, art. 297a oraz art. 299b ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+5. W zakresie nieuregulowanym stosuje się odpowiednio przepisy art. 294, art. 296, art. 297a oraz art. 299b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 24.** Raportujące polskie instytucje finansowe mogą korzystać z usług innych podmiotów w zakresie wykonywania obowiązków, o których mowa w art. 18, art. 19 ust. 1–4 oraz art. 21. Odpowiedzialność za wykonanie obowiązków ponosi raportująca polska instytucja finansowa.
 

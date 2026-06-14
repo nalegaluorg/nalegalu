@@ -8,10 +8,10 @@ pos: 105
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 stycznia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Pozycja 105 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 20 stycznia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000105) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/105/text.pdf) |
 
-Pozycja 105 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 20 stycznia 2012 r.
 w sprawie warunków i trybu przyznawania zapomóg weteranom-żołnierzom lub weteranom poszkodowanym-żołnierzom oraz sposobu tworzenia funduszu na zapomogi Na podstawie art. 31 ust. 3 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
-Nr 205, poz. 1203) zarządza się, co następuje: § 1. Rozporządzenie określa:
+Nr 205, poz. 1203) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki i tryb przyznawania zapomóg weteranom-żołnierzom i weteranom poszkodowanym-żołnierzom;
 2) dokumenty stanowiące podstawę przyznania zapomogi;
 3) sposób przekazywania przyznanych zapomóg;

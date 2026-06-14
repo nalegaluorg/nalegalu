@@ -8,12 +8,10 @@ pos: 1185
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -58,65 +56,65 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** alokacja wybór biorcy przeszczepu z krajowej listy osób oczekujących na przeszczepienie;
-- **2)** autoryzacja pobrania uzyskanie zgodnego z prawem przyzwolenia na pobranie komórek, tkanek i narządów od dawcy;
-- **3)** bank tkanek i komórek jednostkę organizacyjną prowadzącą działalność w zakresie gromadzenia, przetwarzania, sterylizacji, przechowywania, dystrybucji, dopuszczania do obiegu, przywozu, wywozu tkanek i komórek lub działalności przywozowej; jednostka tego rodzaju może również pobierać lub testować tkanki i komórki po spełnieniu wymagań przewidzianych w ustawie;
-- **4)** bank tkanek i komórek prowadzący działalność przywozową bank tkanek i komórek, który jest jednocześnie stroną umowy z dostawcą z państwa trzeciego, o której mowa w art. 31a, zawartej w celu sprowadzenia tkanek lub komórek pochodzących z państwa trzeciego i przeznaczonych do przeszczepienia lub zastosowania u ludzi;
-- **5)** biorca przeszczepu osobę, której przeszczepiono komórki, tkanki lub narządy, albo osobę, u której zastosowano tkanki lub komórki;
-- **6)** data ważności tkanek lub komórek dzień, do którego tkanki lub komórki można przeszczepić lub zastosować u ludzi;
-- **7)** dawca żywego dawcę, zwłoki ludzkie albo innego rodzaju żywe lub zmarłe źródło, od których pobiera się komórki, tkanki lub narządy;
-- **8)** donacja oddanie komórek, tkanek lub narządów przeznaczonych do przeszczepienia lub zastosowania u ludzi;
-- **9)** dopuszczenie do obiegu przekazanie tkanek lub komórek innemu podmiotowi w celu dalszego przetwarzania, przechowywania lub sterylizacji;
-- **10)** dostawca z państwa trzeciego bank tkanek i komórek lub inny podmiot mający siedzibę w państwie trzecim, z którego bank tkanek i komórek prowadzący działalność przywozową sprowadza na terytorium Rzeczypospolitej Polskiej tkanki lub komórki;
-- **11)** dystrybucja transport i dostarczenie tkanek, komórek lub narządów przeznaczonych do przeszczepienia lub zastosowania u ludzi;
-- **12)** działalność przywozowa prowadzenie przez bank tkanek i komórek działalności polegającej na sprowadzaniu na terytorium Rzeczypospolitej Polskiej tkanek lub komórek przeznaczonych do przeszczepiania lub zastosowania u ludzi od dostawcy z państwa trzeciego na podstawie pozwolenia, o którym mowa w art. 26 ust. 2;
-- **13)** etykieta ostateczna etykietę umieszczaną przez bank tkanek i komórek na pojemniku mającym bezpośredni kontakt z tkankami lub komórkami dystrybuowanymi lub dopuszczonymi do obiegu, zawierającą co najmniej oznakowanie sekwencji identyfikacyjnej donacji;
-- **14)** europejski kod banku tkanek i komórek niepowtarzalny identyfikator dla akredytowanych, mianowanych, autoryzowanych albo licencjonowanych banków tkanek i komórek w państwach członkowskich Unii Europejskiej, składający się z kodu ISO danego państwa i numeru banku tkanek i komórek określonego w europejskim kompendium banków tkanek i komórek;
-- **15)** europejskie kompendium banków tkanek i komórek rejestr wszystkich banków tkanek i komórek, które zostały akredytowane, mianowane, autoryzowane albo licencjonowane przez właściwy organ państwa członkowskiego Unii Europejskiej, zawierający informacje o tych bankach tkanek i komórek;
-- **16)** europejskie kompendium przetworzonych tkanek i komórek rejestr wszystkich rodzajów tkanek i komórek dopuszczonych do obiegu w państwach członkowskich Unii Europejskiej oraz odpowiednich kodów tkanek i komórek w ramach systemów kodowania (EUTC, ISBT 128 i Eurocode);
-- **17)** gromadzenie przyjmowanie tkanek i komórek w celu ich przetwarzania, sterylizacji, przechowywania, dystrybucji lub dopuszczania do obiegu;
-- **18)** istotne zdarzenie niepożądane nieprzewidziane zdarzenie związane z pobieraniem, gromadzeniem, przetwarzaniem, testowaniem, przechowywaniem, dystrybucją, dopuszczeniem do obiegu, przywozem, wywozem, działalnością przywozową, przeszczepianiem komórek, tkanek lub narządów lub zastosowaniem u ludzi komórek lub tkanek, mogące prowadzić do przeniesienia się choroby zakaźnej, mogące powodować pogorszenie stanu zdrowia, potrzebę leczenia w szpitalu albo wydłużenie takiego leczenia, uszkodzenie ciała, niepełnosprawność, niezdolność do pracy, zagrożenie dla życia albo śmierć;
-- **19)** istotna reakcja niepożądana nieprzewidzianą reakcję organizmu dawcy lub biorcy związaną z pobieraniem, gromadzeniem, przetwarzaniem, testowaniem, przechowywaniem, dystrybucją, dopuszczeniem do obiegu, przywozem, wywozem, działalnością przywozową, przeszczepianiem komórek, tkanek lub narządów lub zastosowaniem u ludzi komórek lub tkanek, prowadzącą do przeniesienia się choroby zakaźnej, powodującą pogorszenie stanu zdrowia, potrzebę leczenia w szpitalu albo wydłużenie takiego leczenia, uszkodzenie ciała, niepełnosprawność, niezdolność do pracy, zagrożenie dla życia albo śmierć;
-- **20)** jednolity kod europejski niepowtarzalny identyfikator stosowany w odniesieniu do tkanek i komórek dystrybuowanych w państwach członkowskich Unii Europejskiej, składający się z sekwencji identyfikacyjnej donacji i sekwencji identyfikacyjnej tkanek i komórek; na potrzeby dystrybucji tkanek lub komórek w państwach członkowskich Unii Europejskiej dopuszcza się stosowanie skrótu „SEC”;
-- **21)** jednorazowy przywóz jednorazowe sprowadzenie określonych tkanek lub komórek na terytorium Rzeczypospolitej Polskiej, przeznaczonych do przeszczepienia lub zastosowania u zamierzonego biorcy, dokonywane przez bank tkanek i komórek od dostawcy z państwa trzeciego;
-- **22)** kod tkanek i komórek identyfikator dla określonego rodzaju tkanek lub komórek składający się z identyfikatora systemu kodowania tkanek i komórek wskazującego system kodowania zastosowany przez bank tkanek i komórek (»E« dla EUTC, »A« dla ISBT 128, »B« dla Eurocode) oraz z numeru tkanek i komórek przewidzianego dla danego rodzaju tkanek lub komórek w danym systemie kodowania;
-- **23)** komórka pojedynczą komórkę lub grupę komórek niepowiązanych ze sobą substancją międzykomórkową;
-- **24)** konserwowanie zastosowanie odczynników chemicznych, dokonywanie zmian w warunkach środowiskowych lub inne środki zastosowane podczas przetwarzania w celu zapobieżenia lub opóźnienia biologicznej lub fizycznej degradacji komórek, tkanek lub narządów;
-- **25)** koordynacja pobrania i przeszczepiania lub pobrania i zastosowania u ludzi uzgodnienia dotyczące organizacji, nadzoru i dokumentacji procesów identyfikacji i kwalifikacji dawcy, autoryzacji pobrania, pobrania, przechowywania, alokacji i dystrybucji oraz przeszczepiania komórek, tkanek lub narządów lub zastosowania u ludzi komórek lub tkanek, w tym sposobu przekazania i transportu oraz przyjęcia komórek, tkanek lub narządów w podmiocie leczniczym w rozumieniu art. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm. ) lub banku tkanek i komórek oraz ich dostarczenia do biorcy;
-- **26)** koordynator pobierania i przeszczepiania lub pobierania i zastosowania u ludzi uprawnioną i przeszkoloną osobę organizującą koordynację pobrania i przeszczepiania lub koordynację pobrania i zastosowania u ludzi;
-- **27)** kryteria akceptacji przyjęte limity ilościowe i jakościowe, ich zakresy lub inne ustalone wskaźniki kontrolowanych parametrów, na podstawie których podejmowana jest decyzja o uznaniu efektu danej czynności za akceptowalny;
-- **28)** krytyczny moment etap procesu mający potencjalny wpływ na jakość i bezpieczeństwo komórek, tkanek lub narządów;
-- **29)** nagły przypadek każdą nieprzewidzianą sytuację, w której nie istnieje rozwiązanie inne niż pilny przywóz tkanek lub komórek z państwa trzeciego na terytorium Rzeczypospolitej Polskiej w celu natychmiastowego przeszczepienia lub zastosowania u znanego biorcy, którego zdrowie w przypadku niedokonania takiego przywozu byłoby poważnie zagrożone;
-- **30)** narząd wyodrębnioną i istotną część organizmu ludzkiego, zbudowaną z różnych tkanek, zdolną do utrzymywania swojej struktury, ukrwienia i możliwości pełnienia autonomicznych funkcji fizjologicznych; przez narząd rozumie się również część narządu, jeżeli może być ona wykorzystana w organizmie ludzkim w tym samym celu co cały narząd;
-- **31)** niepowtarzalny numer donacji niepowtarzalny numer określonej donacji tkanek i komórek przypisany zgodnie z systemem przydzielania takich numerów wprowadzonym w danym państwie członkowskim Unii Europejskiej;
-- **32)** numer podziału numer, który odróżnia i w sposób niepowtarzalny identyfikuje tkanki i komórki posiadające ten sam niepowtarzalny numer donacji i ten sam kod tkanek i komórek, pochodzące z tego samego banku tkanek i komórek;
-- **33)** państwa trzecie inne państwa niż państwa członkowskie Unii Europejskiej;
-- **34)** pobieranie czynności, w wyniku których komórki, tkanki lub narządy są pozyskiwane w celach diagnostycznych, leczniczych, naukowych lub dydaktycznych;
-- **35)** przechowywanie utrzymywanie komórek, tkanek lub narządów we właściwych i odpowiednio kontrolowanych warunkach do chwili ich przeszczepienia lub zastosowania u ludzi;
-- **36)** przeszczepienie proces mający na celu przywrócenie niektórych funkcji ciała ludzkiego przez przeniesienie komórki, tkanki lub narządu od dawcy do ciała biorcy;
-- **37)** przetwarzanie wszelkie czynności związane z przygotowaniem, konserwowaniem i pakowaniem tkanek lub komórek przeznaczonych do przeszczepienia lub zastosowania u ludzi;
-- **38)** przywóz przywóz na terytorium Rzeczypospolitej Polskiej:
+- **1)** alokacja – wybór biorcy przeszczepu z krajowej listy osób oczekujących na przeszczepienie;
+- **2)** autoryzacja pobrania – uzyskanie zgodnego z prawem przyzwolenia na pobranie komórek, tkanek i narządów od dawcy;
+- **3)** bank tkanek i komórek – jednostkę organizacyjną prowadzącą działalność w zakresie gromadzenia, przetwarzania, sterylizacji, przechowywania, dystrybucji, dopuszczania do obiegu, przywozu, wywozu tkanek i komórek lub działalności przywozowej; jednostka tego rodzaju może również pobierać lub testować tkanki i komórki po spełnieniu wymagań przewidzianych w ustawie;
+- **4)** bank tkanek i komórek prowadzący działalność przywozową – bank tkanek i komórek, który jest jednocześnie stroną umowy z dostawcą z państwa trzeciego, o której mowa w art. 31a, zawartej w celu sprowadzenia tkanek lub komórek pochodzących z państwa trzeciego i przeznaczonych do przeszczepienia lub zastosowania u ludzi;
+- **5)** biorca przeszczepu – osobę, której przeszczepiono komórki, tkanki lub narządy, albo osobę, u której zastosowano tkanki lub komórki;
+- **6)** data ważności tkanek lub komórek – dzień, do którego tkanki lub komórki można przeszczepić lub zastosować u ludzi;
+- **7)** dawca – żywego dawcę, zwłoki ludzkie albo innego rodzaju żywe lub zmarłe źródło, od których pobiera się komórki, tkanki lub narządy;
+- **8)** donacja – oddanie komórek, tkanek lub narządów przeznaczonych do przeszczepienia lub zastosowania u ludzi;
+- **9)** dopuszczenie do obiegu – przekazanie tkanek lub komórek innemu podmiotowi w celu dalszego przetwarzania, przechowywania lub sterylizacji;
+- **10)** dostawca z państwa trzeciego – bank tkanek i komórek lub inny podmiot mający siedzibę w państwie trzecim, z którego bank tkanek i komórek prowadzący działalność przywozową sprowadza na terytorium Rzeczypospolitej Polskiej tkanki lub komórki;
+- **11)** dystrybucja – transport i dostarczenie tkanek, komórek lub narządów przeznaczonych do przeszczepienia lub zastosowania u ludzi;
+- **12)** działalność przywozowa – prowadzenie przez bank tkanek i komórek działalności polegającej na sprowadzaniu na terytorium Rzeczypospolitej Polskiej tkanek lub komórek przeznaczonych do przeszczepiania lub zastosowania u ludzi od dostawcy z państwa trzeciego na podstawie pozwolenia, o którym mowa w art. 26 ust. 2;
+- **13)** etykieta ostateczna – etykietę umieszczaną przez bank tkanek i komórek na pojemniku mającym bezpośredni kontakt z tkankami lub komórkami dystrybuowanymi lub dopuszczonymi do obiegu, zawierającą co najmniej oznakowanie sekwencji identyfikacyjnej donacji;
+- **14)** europejski kod banku tkanek i komórek – niepowtarzalny identyfikator dla akredytowanych, mianowanych, autoryzowanych albo licencjonowanych banków tkanek i komórek w państwach członkowskich Unii Europejskiej, składający się z kodu ISO danego państwa i numeru banku tkanek i komórek określonego w europejskim kompendium banków tkanek i komórek;
+- **15)** europejskie kompendium banków tkanek i komórek – rejestr wszystkich banków tkanek i komórek, które zostały akredytowane, mianowane, autoryzowane albo licencjonowane przez właściwy organ państwa członkowskiego Unii Europejskiej, zawierający informacje o tych bankach tkanek i komórek;
+- **16)** europejskie kompendium przetworzonych tkanek i komórek – rejestr wszystkich rodzajów tkanek i komórek dopuszczonych do obiegu w państwach członkowskich Unii Europejskiej oraz odpowiednich kodów tkanek i komórek w ramach systemów kodowania (EUTC, ISBT 128 i Eurocode);
+- **17)** gromadzenie – przyjmowanie tkanek i komórek w celu ich przetwarzania, sterylizacji, przechowywania, dystrybucji lub dopuszczania do obiegu;
+- **18)** istotne zdarzenie niepożądane – nieprzewidziane zdarzenie związane z pobieraniem, gromadzeniem, przetwarzaniem, testowaniem, przechowywaniem, dystrybucją, dopuszczeniem do obiegu, przywozem, wywozem, działalnością przywozową, przeszczepianiem komórek, tkanek lub narządów lub zastosowaniem u ludzi komórek lub tkanek, mogące prowadzić do przeniesienia się choroby zakaźnej, mogące powodować pogorszenie stanu zdrowia, potrzebę leczenia w szpitalu albo wydłużenie takiego leczenia, uszkodzenie ciała, niepełnosprawność, niezdolność do pracy, zagrożenie dla życia albo śmierć;
+- **19)** istotna reakcja niepożądana – nieprzewidzianą reakcję organizmu dawcy lub biorcy związaną z pobieraniem, gromadzeniem, przetwarzaniem, testowaniem, przechowywaniem, dystrybucją, dopuszczeniem do obiegu, przywozem, wywozem, działalnością przywozową, przeszczepianiem komórek, tkanek lub narządów lub zastosowaniem u ludzi komórek lub tkanek, prowadzącą do przeniesienia się choroby zakaźnej, powodującą pogorszenie stanu zdrowia, potrzebę leczenia w szpitalu albo wydłużenie takiego leczenia, uszkodzenie ciała, niepełnosprawność, niezdolność do pracy, zagrożenie dla życia albo śmierć;
+- **20)** jednolity kod europejski – niepowtarzalny identyfikator stosowany w odniesieniu do tkanek i komórek dystrybuowanych w państwach członkowskich Unii Europejskiej, składający się z sekwencji identyfikacyjnej donacji i sekwencji identyfikacyjnej tkanek i komórek; na potrzeby dystrybucji tkanek lub komórek w państwach członkowskich Unii Europejskiej dopuszcza się stosowanie skrótu „SEC”;
+- **21)** jednorazowy przywóz – jednorazowe sprowadzenie określonych tkanek lub komórek na terytorium Rzeczypospolitej Polskiej, przeznaczonych do przeszczepienia lub zastosowania u zamierzonego biorcy, dokonywane przez bank tkanek i komórek od dostawcy z państwa trzeciego;
+- **22)** kod tkanek i komórek – identyfikator dla określonego rodzaju tkanek lub komórek składający się z identyfikatora systemu kodowania tkanek i komórek wskazującego system kodowania zastosowany przez bank tkanek i komórek (»E« dla EUTC, »A« dla ISBT 128, »B« dla Eurocode) oraz z numeru tkanek i komórek przewidzianego dla danego rodzaju tkanek lub komórek w danym systemie kodowania;
+- **23)** komórka – pojedynczą komórkę lub grupę komórek niepowiązanych ze sobą substancją międzykomórkową;
+- **24)** konserwowanie – zastosowanie odczynników chemicznych, dokonywanie zmian w warunkach środowiskowych lub inne środki zastosowane podczas przetwarzania w celu zapobieżenia lub opóźnienia biologicznej lub fizycznej degradacji komórek, tkanek lub narządów;
+- **25)** koordynacja pobrania i przeszczepiania lub pobrania i zastosowania u ludzi – uzgodnienia dotyczące organizacji, nadzoru i dokumentacji procesów identyfikacji i kwalifikacji dawcy, autoryzacji pobrania, pobrania, przechowywania, alokacji i dystrybucji oraz przeszczepiania komórek, tkanek lub narządów lub zastosowania u ludzi komórek lub tkanek, w tym sposobu przekazania i transportu oraz przyjęcia komórek, tkanek lub narządów w podmiocie leczniczym w rozumieniu art. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, z późn. zm. ) lub banku tkanek i komórek oraz ich dostarczenia do biorcy;
+- **26)** koordynator pobierania i przeszczepiania lub pobierania i zastosowania u ludzi – uprawnioną i przeszkoloną osobę organizującą koordynację pobrania i przeszczepiania lub koordynację pobrania i zastosowania u ludzi;
+- **27)** kryteria akceptacji – przyjęte limity ilościowe i jakościowe, ich zakresy lub inne ustalone wskaźniki kontrolowanych parametrów, na podstawie których podejmowana jest decyzja o uznaniu efektu danej czynności za akceptowalny;
+- **28)** krytyczny moment – etap procesu mający potencjalny wpływ na jakość i bezpieczeństwo komórek, tkanek lub narządów;
+- **29)** nagły przypadek – każdą nieprzewidzianą sytuację, w której nie istnieje rozwiązanie inne niż pilny przywóz tkanek lub komórek z państwa trzeciego na terytorium Rzeczypospolitej Polskiej w celu natychmiastowego przeszczepienia lub zastosowania u znanego biorcy, którego zdrowie w przypadku niedokonania takiego przywozu byłoby poważnie zagrożone;
+- **30)** narząd – wyodrębnioną i istotną część organizmu ludzkiego, zbudowaną z różnych tkanek, zdolną do utrzymywania swojej struktury, ukrwienia i możliwości pełnienia autonomicznych funkcji fizjologicznych; przez narząd rozumie się również część narządu, jeżeli może być ona wykorzystana w organizmie ludzkim w tym samym celu co cały narząd;
+- **31)** niepowtarzalny numer donacji – niepowtarzalny numer określonej donacji tkanek i komórek przypisany zgodnie z systemem przydzielania takich numerów wprowadzonym w danym państwie członkowskim Unii Europejskiej;
+- **32)** numer podziału – numer, który odróżnia i w sposób niepowtarzalny identyfikuje tkanki i komórki posiadające ten sam niepowtarzalny numer donacji i ten sam kod tkanek i komórek, pochodzące z tego samego banku tkanek i komórek;
+- **33)** państwa trzecie – inne państwa niż państwa członkowskie Unii Europejskiej;
+- **34)** pobieranie – czynności, w wyniku których komórki, tkanki lub narządy są pozyskiwane w celach diagnostycznych, leczniczych, naukowych lub dydaktycznych;
+- **35)** przechowywanie – utrzymywanie komórek, tkanek lub narządów we właściwych i odpowiednio kontrolowanych warunkach do chwili ich przeszczepienia lub zastosowania u ludzi;
+- **36)** przeszczepienie – proces mający na celu przywrócenie niektórych funkcji ciała ludzkiego przez przeniesienie komórki, tkanki lub narządu od dawcy do ciała biorcy;
+- **37)** przetwarzanie – wszelkie czynności związane z przygotowaniem, konserwowaniem i pakowaniem tkanek lub komórek przeznaczonych do przeszczepienia lub zastosowania u ludzi;
+- **38)** przywóz – przywóz na terytorium Rzeczypospolitej Polskiej:
     - **a)** narządów przeznaczonych do przeszczepienia albo
     - **b)** tkanek lub komórek pochodzących z państw członkowskich Unii Europejskiej przeznaczonych do przeszczepienia lub zastosowania u ludzi, albo
     - **c)** tkanek lub komórek dokonywany w ramach nagłego przypadku;
 
-- **39)** sekwencja identyfikacyjna donacji pierwszą część jednolitego kodu europejskiego składającą się z europejskiego kodu banku tkanek i komórek i niepowtarzalnego numeru donacji;
-- **40)** sekwencja identyfikacyjna tkanek i komórek drugą część jednolitego kodu europejskiego składającą się z kodu tkanek i komórek, numeru podziału i daty ważności tkanek lub komórek;
-- **41)** standardowe procedury operacyjne pisemne instrukcje opisujące przebieg określonych procesów z uwzględnieniem wykorzystywanych materiałów i metod oraz oczekiwanych wyników tych procesów;
-- **42)** sterylizacja zastosowanie odczynników chemicznych, czynników biologicznych i czynników fizycznych, mające na celu unieszkodliwienie biologicznych czynników chorobotwórczych w komórkach i tkankach;
-- **43)** system kodowania EUTC system kodowania tkanek i komórek opracowany przez Komisję Europejską i składający się z rejestru wszystkich rodzajów tkanek i komórek dopuszczonych do obiegu w państwach członkowskich Unii Europejskiej oraz ich odpowiednich kodów tkanek i komórek;
-- **44)** system zapewnienia jakości strukturę organizacyjną, procedury, procesy i zasoby wpływające w sposób bezpośredni lub pośredni na osiągnięcie i utrzymanie wysokiej jakości komórek, tkanek lub narządów;
-- **45)** testowanie czynności polegające na przeprowadzeniu badań mających na celu określenie przydatności komórek, tkanek lub narządów do przeszczepienia lub komórek lub tkanek do zastosowania u ludzi;
-- **46)** tkanka każdy element składowy organizmu ludzkiego utworzony przez komórki;
-- **47)** walidacja procesu udokumentowane działanie mające na celu wykazanie, że proces prowadzony w ustalonym zakresie parametrów przebiega skutecznie i w sposób powtarzalny oraz spełnia ustalone kryteria akceptacji;
-- **48)** zagraniczny podmiot pobierający podmiot, w którym dokonano pobrania tkanek lub komórek od dawcy, mający swoją siedzibę poza terytorium Rzeczypospolitej Polskiej;
-- **49)** zamierzony biorca znanego potencjalnego biorcę, na rzecz którego dokonano przywozu tkanek lub komórek, w tym przywozu z państwa trzeciego;
-- **50)** zastosowanie u ludzi zastosowanie tkanek lub komórek na ciele lub w organizmie biorcy oraz zastosowanie pozaustrojowe tkanek lub komórek;
-- **51)** zastosowanie allogeniczne zastosowanie tkanek lub komórek pobranych od jednej osoby u innej osoby;
-- **52)** zastosowanie autologiczne zastosowanie tkanek lub komórek u tej samej osoby;
-- **53)** żywy dawca osobę, od której pobierane są komórki, tkanki lub narządy.
+- **39)** sekwencja identyfikacyjna donacji – pierwszą część jednolitego kodu europejskiego składającą się z europejskiego kodu banku tkanek i komórek i niepowtarzalnego numeru donacji;
+- **40)** sekwencja identyfikacyjna tkanek i komórek – drugą część jednolitego kodu europejskiego składającą się z kodu tkanek i komórek, numeru podziału i daty ważności tkanek lub komórek;
+- **41)** standardowe procedury operacyjne – pisemne instrukcje opisujące przebieg określonych procesów z uwzględnieniem wykorzystywanych materiałów i metod oraz oczekiwanych wyników tych procesów;
+- **42)** sterylizacja – zastosowanie odczynników chemicznych, czynników biologicznych i czynników fizycznych, mające na celu unieszkodliwienie biologicznych czynników chorobotwórczych w komórkach i tkankach;
+- **43)** system kodowania EUTC – system kodowania tkanek i komórek opracowany przez Komisję Europejską i składający się z rejestru wszystkich rodzajów tkanek i komórek dopuszczonych do obiegu w państwach członkowskich Unii Europejskiej oraz ich odpowiednich kodów tkanek i komórek;
+- **44)** system zapewnienia jakości – strukturę organizacyjną, procedury, procesy i zasoby wpływające w sposób bezpośredni lub pośredni na osiągnięcie i utrzymanie wysokiej jakości komórek, tkanek lub narządów;
+- **45)** testowanie – czynności polegające na przeprowadzeniu badań mających na celu określenie przydatności komórek, tkanek lub narządów do przeszczepienia lub komórek lub tkanek do zastosowania u ludzi;
+- **46)** tkanka – każdy element składowy organizmu ludzkiego utworzony przez komórki;
+- **47)** walidacja procesu – udokumentowane działanie mające na celu wykazanie, że proces prowadzony w ustalonym zakresie parametrów przebiega skutecznie i w sposób powtarzalny oraz spełnia ustalone kryteria akceptacji;
+- **48)** zagraniczny podmiot pobierający – podmiot, w którym dokonano pobrania tkanek lub komórek od dawcy, mający swoją siedzibę poza terytorium Rzeczypospolitej Polskiej;
+- **49)** zamierzony biorca – znanego potencjalnego biorcę, na rzecz którego dokonano przywozu tkanek lub komórek, w tym przywozu z państwa trzeciego;
+- **50)** zastosowanie u ludzi – zastosowanie tkanek lub komórek na ciele lub w organizmie biorcy oraz zastosowanie pozaustrojowe tkanek lub komórek;
+- **51)** zastosowanie allogeniczne – zastosowanie tkanek lub komórek pobranych od jednej osoby u innej osoby;
+- **52)** zastosowanie autologiczne – zastosowanie tkanek lub komórek u tej samej osoby;
+- **53)** żywy dawca – osobę, od której pobierane są komórki, tkanki lub narządy.
 
-2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej rozumie się przez to również państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej rozumie się przez to również państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 3.**
 
@@ -186,8 +184,8 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 12. Zwrotu podmiotowi leczniczemu kosztów określonych w:
 
-- **1)** ust. 3 pkt 1–5 dokonuje Narodowy Fundusz Zdrowia,
-- **2)** ust. 4, 7 i 8 dokonuje Narodowy Fundusz Zdrowia albo minister właściwy do spraw zdrowia w ramach umowy o udzielanie świadczeń opieki zdrowotnej zawartej na podstawie przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+- **1)** ust. 3 pkt 1–5 – dokonuje Narodowy Fundusz Zdrowia,
+- **2)** ust. 4, 7 i 8 – dokonuje Narodowy Fundusz Zdrowia albo minister właściwy do spraw zdrowia – w ramach umowy o udzielanie świadczeń opieki zdrowotnej zawartej na podstawie przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 13. Koszty, o których mowa w ust. 3 pkt 10, są kosztami działalności banku tkanek i komórek.
 
@@ -242,7 +240,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 4. W przypadku, o którym mowa w art. 5 ust. 2, w centralnym rejestrze sprzeciwów zamieszcza się również dane określone w ust. 3 pkt 1–3 dotyczące przedstawiciela ustawowego.
 
-5. Dane, o których mowa w ust. 3 i 4, przechowuje się przez okres 5 lat, licząc od dnia śmierci osoby, której sprzeciw dotyczy, a po jego upływie niszczy się w sposób uniemożliwiający identyfikację tej osoby.
+5. Dane, o których mowa w ust. 3 i 4, przechowuje się przez okres 5 lat, licząc od dnia śmierci osoby, której sprzeciw dotyczy, a po jego upływie – niszczy się w sposób uniemożliwiający identyfikację tej osoby.
 
 6. Informacji o tym, czy sprzeciw danej osoby jest umieszczony w centralnym rejestrze sprzeciwów udziela się niezwłocznie po otrzymaniu pytania od lekarza zamierzającego dokonać pobrania lub osoby przez niego upoważnionej.
 
@@ -254,7 +252,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 **Art. 8.**
 
-1. Jeżeli zachodzi uzasadnione podejrzenie, że zgon nastąpił w wyniku czynu zabronionego stanowiącego przestępstwo, pobrania komórek, tkanek i narządów można dokonać po uzyskaniu od właściwego prokuratora informacji, że nie wyraża sprzeciwu wobec zamiaru pobrania komórek, tkanek i narządów, a gdy postępowanie jest prowadzone przeciwko nieletniemu stanowiska sądu rodzinnego.
+1. Jeżeli zachodzi uzasadnione podejrzenie, że zgon nastąpił w wyniku czynu zabronionego stanowiącego przestępstwo, pobrania komórek, tkanek i narządów można dokonać po uzyskaniu od właściwego prokuratora informacji, że nie wyraża sprzeciwu wobec zamiaru pobrania komórek, tkanek i narządów, a gdy postępowanie jest prowadzone przeciwko nieletniemu – stanowiska sądu rodzinnego.
 
 2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, sposób i tryb uzyskania informacji lub stanowiska, o których mowa w ust. 1, uwzględniając w szczególności potrzeby postępowania dowodowego oraz sposób postępowania w przypadkach niecierpiących zwłoki.
 
@@ -284,6 +282,9 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 **Art. 10.** Przed pobraniem komórek, tkanek lub narządów od osoby zmarłej lekarz lub osoba przez niego upoważniona:
 
+- **1)** zasięgają informacji, czy nie został zgłoszony sprzeciw w formie określonej w art. 6 ust. 1 pkt 1;
+- **2)** ustalają istnienie sprzeciwu wyrażonego w formach, o których mowa w art. 6 ust. 1 pkt 2 i 3, na podstawie dostępnych informacji lub dokumentów.
+
 **Art. 11.** Lekarz pobierający ze zwłok ludzkich komórki, tkanki lub narządy jest obowiązany zapewnić nadanie zwłokom należytego wyglądu.
 
 #### Rozdział 3 Pobieranie komórek, tkanek lub narządów od żywych dawców
@@ -306,7 +307,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 3. Pobranie szpiku lub komórek krwiotwórczych krwi obwodowej od małoletniego, który nie posiada pełnej zdolności do czynności prawnych, może być dokonane za zgodą przedstawiciela ustawowego po uzyskaniu zgody sądu opiekuńczego, właściwego ze względu na miejsce zamieszkania kandydata na dawcę. W przypadku gdy dawcą szpiku jest małoletni powyżej lat trzynastu, wymagana jest także jego zgoda.
 
-4. Sąd orzeka na wniosek przedstawicieli ustawowych kandydata na dawcę, po wysłuchaniu małoletniego i zasięgnięciu opinii biegłego psychologa, a w przypadku małoletniego powyżej lat szesnastu również na jego wniosek. Do wniosku należy dołączyć orzeczenie lekarskie stwierdzające, że pobranie szpiku nie spowoduje dającego się przewidzieć upośledzenia organizmu dawcy.
+4. Sąd orzeka na wniosek przedstawicieli ustawowych kandydata na dawcę, po wysłuchaniu małoletniego i zasięgnięciu opinii biegłego psychologa, a w przypadku małoletniego powyżej lat szesnastu – również na jego wniosek. Do wniosku należy dołączyć orzeczenie lekarskie stwierdzające, że pobranie szpiku nie spowoduje dającego się przewidzieć upośledzenia organizmu dawcy.
 
 5. Rozpoznanie wniosku, o którym mowa w ust. 4, następuje w terminie 7 dni.
 
@@ -433,7 +434,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 - **6)** warunki transportu próbek do badań potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej,
 - **7)** sposób i warunki organizowania opieki nad dawcami szpiku lub komórek krwiotwórczych krwi obwodowej,
 - **8)** tryb przekazywania danych, o których mowa w ust. 8, do rejestru szpiku i krwi pępowinowej,
-- **9)** standardowe procedury operacyjne obowiązujące w ośrodku dawców szpiku uwzględniając w szczególności prawidłową realizację zadań, o których mowa w ust. 2, oraz zapewnienie bezpieczeństwa dawców i biorców.
+- **9)** standardowe procedury operacyjne obowiązujące w ośrodku dawców szpiku – uwzględniając w szczególności prawidłową realizację zadań, o których mowa w ust. 2, oraz zapewnienie bezpieczeństwa dawców i biorców.
 
 **Art. 16b.**
 
@@ -479,9 +480,9 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
     - **b)** poziomu przeciwciał,
     - **c)** konsultacji specjalistycznych i instrumentalnych badań.
 
-8. Zadania, o których mowa w ust. 2, ust. 7 pkt 1–3 i pkt 4 lit. c, finansuje Narodowy Fundusz Zdrowia w ramach umowy o udzielanie świadczeń opieki zdrowotnej, a zadania, o których mowa w ust. 7 pkt 4 lit. a i b Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant” na podstawie umowy.
+8. Zadania, o których mowa w ust. 2, ust. 7 pkt 1–3 i pkt 4 lit. c, finansuje Narodowy Fundusz Zdrowia w ramach umowy o udzielanie świadczeń opieki zdrowotnej, a zadania, o których mowa w ust. 7 pkt 4 lit. a i b – Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant” na podstawie umowy.
 
-9. Merytoryczny nadzór nad działalnością ośrodków kwalifikujących potencjalnych biorców narządów sprawuje krajowy konsultant w dziedzinie transplantologii klinicznej, a ośrodków kwalifikujących potencjalnych biorców szpiku lub komórek krwiotwórczych krwi obwodowej i krwi pępowinowej krajowy konsultant w dziedzinie hematologii.
+9. Merytoryczny nadzór nad działalnością ośrodków kwalifikujących potencjalnych biorców narządów sprawuje krajowy konsultant w dziedzinie transplantologii klinicznej, a ośrodków kwalifikujących potencjalnych biorców szpiku lub komórek krwiotwórczych krwi obwodowej i krwi pępowinowej – krajowy konsultant w dziedzinie hematologii.
 
 10. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób działania ośrodków kwalifikujących oraz sposób kwalifikacji potencjalnego biorcy, z uwzględnieniem bezpieczeństwa zdrowotnego potencjalnych biorców i prawidłowości wykonania zadań, o których mowa w ust. 2.
 
@@ -516,7 +517,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 - **1)** sposób i tryb tworzenia i prowadzenia listy,
 - **2)** kryteria medyczne i sposób dokonywania wyboru potencjalnego biorcy,
-- **3)** sposób informowania potencjalnych biorców o kolejności wpisu na listę uwzględniając aktualny stan wiedzy medycznej i zachowanie równego dostępu do zabiegu przeszczepienia oraz możliwość prowadzenia listy w postaci elektronicznej.
+- **3)** sposób informowania potencjalnych biorców o kolejności wpisu na listę – uwzględniając aktualny stan wiedzy medycznej i zachowanie równego dostępu do zabiegu przeszczepienia oraz możliwość prowadzenia listy w postaci elektronicznej.
 
 **Art. 18.**
 
@@ -680,7 +681,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
     - **d)** nazwę (firmę) posiadacza pozwolenia,
     - **e)** rodzaje tkanek lub komórek, w odniesieniu do których wydano pozwolenie,
     - **f)** rodzaje czynności, na których wykonywanie wydano pozwolenie,
-    - **g)** informację o tym, czy pozwolenie jest ważne, cofnięte albo czy dobrowolnie zaprzestano prowadzenia działalności, na wykonywanie której zostało wydane pozwolenie na wykonywanie czynności, o których mowa w art. 25 i na tej podstawie przydziela bankowi tkanek i komórek europejski kod banku tkanek i komórek na potrzeby jednolitego kodu europejskiego.
+    - **g)** informację o tym, czy pozwolenie jest ważne, cofnięte albo czy dobrowolnie zaprzestano prowadzenia działalności, na wykonywanie której zostało wydane pozwolenie na wykonywanie czynności, o których mowa w art. 25 – i na tej podstawie przydziela bankowi tkanek i komórek europejski kod banku tkanek i komórek na potrzeby jednolitego kodu europejskiego.
 
 9. Jeżeli bank tkanek i komórek stosuje więcej niż jeden system przydzielania niepowtarzalnych numerów donacji, przydziela mu się oddzielne numery banków tkanek i komórek odpowiadające liczbie stosowanych systemów przydzielania.
 
@@ -845,6 +846,10 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 **Art. 32.** Bank tkanek i komórek jest obowiązany:
 
+- **1)** znakować, pakować tkanki i komórki oraz dokumentować te czynności;
+- **2)** zapewniać najwyższą jakość tkanek i komórek podczas dystrybucji;
+- **3)** zapewnić, aby wszystkie czynności związane z przechowywaniem tkanek i komórek były przeprowadzane w warunkach kontrolowanych właściwych dla każdej czynności.
+
 **Art. 32a.**
 
 1. Bank tkanek i komórek zawiera umowę o przechowywanie komórek lub tkanek z osobą, która te komórki lub tkanki oddała do przechowania.
@@ -863,7 +868,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 1. Bank tkanek i komórek:
 
 - **1)** jest obowiązany prowadzić, gromadzić i przechowywać dokumentację dotyczącą podejmowanych czynności dotyczących tkanek i komórek,
-- **2)** prowadzący działalność przywozową tkanek lub komórek z państwa trzeciego, w tym dokonujący jednorazowego przywozu, jest obowiązany prowadzić, gromadzić i przechowywać dokumentację podejmowanych czynności, obejmującą rodzaje i ilości przywożonych tkanek lub komórek oraz ich pochodzenie i przeznaczenie przez okres 30 lat od dnia wydania tkanek lub komórek w celu przeszczepienia lub zastosowania u ludzi, w sposób umożliwiający identyfikację dawców i biorców tkanek lub komórek.
+- **2)** prowadzący działalność przywozową tkanek lub komórek z państwa trzeciego, w tym dokonujący jednorazowego przywozu, jest obowiązany prowadzić, gromadzić i przechowywać dokumentację podejmowanych czynności, obejmującą rodzaje i ilości przywożonych tkanek lub komórek oraz ich pochodzenie i przeznaczenie – przez okres 30 lat od dnia wydania tkanek lub komórek w celu przeszczepienia lub zastosowania u ludzi, w sposób umożliwiający identyfikację dawców i biorców tkanek lub komórek.
 
 2. Bank tkanek i komórek jest obowiązany przekazywać do Krajowego Centrum Bankowania Tkanek i Komórek roczny raport dotyczący podejmowanych czynności, obejmujący rodzaje i ilości gromadzonych, przetwarzanych, przechowywanych i wydawanych tkanek lub komórek oraz ich pochodzenie i przeznaczenie.
 
@@ -883,11 +888,11 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
     - **i)** dostępność dawcy (dawca zakwalifikowany do pobrania albo niezakwalifikowany do pobrania), jeżeli dotyczy;
 
 - **2)** dane identyfikacyjne dotyczące pobrania, obejmujące:
-    - **a)** dane identyfikacyjne zagranicznego podmiotu pobierającego lub banku tkanek i komórek, obejmujące: nazwę (firmę), formę organizacyjno-prawną, adres siedziby, numer telefonu, adres poczty elektronicznej,
+    - **a)** dane identyfikacyjne zagranicznego podmiotu pobierającego lub banku tkanek i komórek, obejmujące: – nazwę (firmę), – formę organizacyjno-prawną, – adres siedziby, – numer telefonu, – adres poczty elektronicznej,
     - **b)** niepowtarzalny numer donacji,
     - **c)** datę i godzinę rozpoczęcia oraz zakończenia pobrania,
     - **d)** miejsce pobrania,
-    - **e)** dane dotyczące rodzaju pobrania, obejmujące: ilość pobranych tkanek lub komórek, rodzaj pobranych tkanek lub komórek, rodzaj pobrania (w celu zastosowania autologicznego lub allogenicznego), pochodzenie pobranych tkanek lub komórek (pobranie od żywego dawcy lub ze zwłok);
+    - **e)** dane dotyczące rodzaju pobrania, obejmujące: – ilość pobranych tkanek lub komórek, – rodzaj pobranych tkanek lub komórek, – rodzaj pobrania (w celu zastosowania autologicznego lub allogenicznego), – pochodzenie pobranych tkanek lub komórek (pobranie od żywego dawcy lub ze zwłok);
 
 - **3)** dane identyfikacyjne tkanek lub komórek, obejmujące:
     - **a)** dane identyfikacyjne banku tkanek i komórek,
@@ -901,7 +906,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 - **4)** jednolity kod europejski, jeżeli dotyczy;
 - **5)** dane identyfikacyjne dotyczące zastosowania u ludzi tkanek lub komórek, obejmujące:
     - **a)** datę dystrybucji lub dopuszczenia do obiegu albo datę utylizacji,
-    - **b)** dane identyfikacyjne lekarza stosującego tkanki lub komórki, obejmujące: tytuł zawodowy, stopień naukowy lub stopień naukowy wraz z tytułem naukowym, imię (imiona) i nazwisko, numer prawa wykonywania zawodu, posiadane specjalizacje.
+    - **b)** dane identyfikacyjne lekarza stosującego tkanki lub komórki, obejmujące: – tytuł zawodowy, stopień naukowy lub stopień naukowy wraz z tytułem naukowym, – imię (imiona) i nazwisko, – numer prawa wykonywania zawodu, – posiadane specjalizacje.
 
 **Art. 35.**
 
@@ -971,7 +976,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 - **1)** banków tkanek i komórek,
 - **2)** podmiotów, o których mowa w art. 16a ust. 1, art. 26 ust. 4 pkt 7, art. 36 ust. 1 i art. 37 ust. 1, w zakresie działalności objętej pozwoleniami wydanymi na podstawie przepisów ustawy,
-- **3)** ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 uwzględniając w szczególności sposób dokonywania poszczególnych czynności kontrolnych, ich zakres oraz dokumentację przebiegu kontroli, mając na uwadze potrzebę zapewnienia sprawnego przeprowadzenia kontroli.
+- **3)** ośrodków kwalifikujących, w zakresie spełnienia wymagań określonych ustawą i przepisami wydanymi na podstawie art. 16c ust. 10 – uwzględniając w szczególności sposób dokonywania poszczególnych czynności kontrolnych, ich zakres oraz dokumentację przebiegu kontroli, mając na uwadze potrzebę zapewnienia sprawnego przeprowadzenia kontroli.
 
 **Art. 35a.**
 
@@ -980,7 +985,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 2. W przypadkach:
 
 - **1)** związanych z koniecznością zabezpieczenia prawidłowego funkcjonowania podmiotów, o których mowa w art. 16a ust. 1, art. 16c ust. 1, art. 25, art. 31 ust. 1, art. 31a ust. 1, art. 36 ust. 1a i art. 37 ust. 1,
-- **2)** niecierpiących zwłoki, innych niż określone w pkt 1 minister właściwy do spraw zdrowia może zlecić przeprowadzenie kontroli za pośrednictwem systemu teleinformatycznego lub systemu łączności.
+- **2)** niecierpiących zwłoki, innych niż określone w pkt 1 – minister właściwy do spraw zdrowia może zlecić przeprowadzenie kontroli za pośrednictwem systemu teleinformatycznego lub systemu łączności.
 
 #### Rozdział 7 Postępowanie z komórkami, tkankami oraz narządami
 
@@ -988,11 +993,11 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 1. Postępowanie dotyczące komórek, tkanek i narządów polegające na:
 
-- **1)** pobieraniu komórek, tkanek i narządów od żywych dawców może być prowadzone wyłącznie w podmiotach leczniczych;
-- **2)** pobieraniu narządów w celu przeszczepienia ze zwłok ludzkich może być prowadzone wyłącznie w podmiotach leczniczych;
-- **3)** pobieraniu komórek i tkanek ze zwłok ludzkich może być prowadzone w podmiotach leczniczych, zakładach medycyny sądowej, zakładach anatomii patologicznej uczelni medycznych i uczelni prowadzących działalność naukową i kształcenie w zakresie nauk medycznych, instytutach badawczych, o których mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, i zakładach pogrzebowych posiadających salę sekcyjną;
-- **4)** przechowywaniu narządów może być prowadzone wyłącznie w podmiotach leczniczych wykonujących przeszczepienia;
-- **5)** przeszczepianiu lub zastosowaniu u ludzi może być prowadzone wyłącznie w podmiotach leczniczych.
+- **1)** pobieraniu komórek, tkanek i narządów od żywych dawców – może być prowadzone wyłącznie w podmiotach leczniczych;
+- **2)** pobieraniu narządów w celu przeszczepienia ze zwłok ludzkich – może być prowadzone wyłącznie w podmiotach leczniczych;
+- **3)** pobieraniu komórek i tkanek ze zwłok ludzkich – może być prowadzone w podmiotach leczniczych, zakładach medycyny sądowej, zakładach anatomii patologicznej uczelni medycznych i uczelni prowadzących działalność naukową i kształcenie w zakresie nauk medycznych, instytutach badawczych, o których mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, i zakładach pogrzebowych posiadających salę sekcyjną;
+- **4)** przechowywaniu narządów – może być prowadzone wyłącznie w podmiotach leczniczych wykonujących przeszczepienia;
+- **5)** przeszczepianiu lub zastosowaniu u ludzi – może być prowadzone wyłącznie w podmiotach leczniczych.
 
 1a. Czynności, o których mowa w ust. 1 pkt 1, 4 i 5, mogą wykonywać podmioty posiadające pozwolenie ministra właściwego do spraw zdrowia.
 
@@ -1012,7 +1017,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 - **2)** kwalifikacje zawodowe koordynatorów pobierania i przeszczepiania komórek, tkanek i narządów,
 - **3)** warunki, jakim powinny odpowiadać podmioty wymienione w ust. 1, w których podejmowane będzie postępowanie polegające na pobieraniu, przechowywaniu, przeszczepianiu komórek, tkanek lub narządów lub zastosowaniu u ludzi komórek lub tkanek,
 - **4)** szczegółowe zasady współdziałania podmiotów, o których mowa w ust. 1, w zakresie pobierania, przechowywania komórek, tkanek i narządów w celu ich wykorzystania do przeszczepienia lub zastosowania u ludzi,
-- **5)** wymagania, jakim powinna odpowiadać dokumentacja medyczna dotycząca pobierania komórek, tkanek i narządów, ich przechowywania i przeszczepiania lub zastosowania u ludzi uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców i dawców komórek, tkanek lub narządów.
+- **5)** wymagania, jakim powinna odpowiadać dokumentacja medyczna dotycząca pobierania komórek, tkanek i narządów, ich przechowywania i przeszczepiania lub zastosowania u ludzi – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców i dawców komórek, tkanek lub narządów.
 
 **Art. 36a.**
 
@@ -1065,8 +1070,8 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 9. Dane o wywozach i przywozach wymienionych w:
 
-- **1)** ust. 1 i 4 gromadzi i przechowuje Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”;
-- **2)** ust. 2–3a gromadzi i przechowuje Krajowe Centrum Bankowania Tkanek i Komórek.
+- **1)** ust. 1 i 4 – gromadzi i przechowuje Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”;
+- **2)** ust. 2–3a – gromadzi i przechowuje Krajowe Centrum Bankowania Tkanek i Komórek.
 
 10. Dane, o których mowa w ust. 9, udostępnia się ministrowi właściwemu do spraw zdrowia i Krajowej Radzie Transplantacyjnej.
 
@@ -1126,7 +1131,16 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 **Art. 37d.** Bank tkanek i komórek, podmiot leczniczy, o którym mowa w art. 36 ust. 1 pkt 1, 2 i 5, oraz medyczne laboratorium diagnostyczne, o którym mowa w art. 37 ust. 1, są obowiązane:
 
+- **1)** prowadzić walidację wszystkich procesów,
+- **2)** określać krytyczne momenty wszystkich procesów, które powinny być kontrolowane w oparciu o wyznaczone kryteria akceptacji,
+- **3)** prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że to środowisko, sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie – w celu zapewnienia jakości i bezpieczeństwa wymaganego dla danego typu komórki, tkanki lub narządu oraz uzyskania oczekiwanych wyników.
+
 **Art. 37e.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek lub tkanek oraz sposób oznaczania komórek lub tkanek – w postaci zastosowania jednolitego kodu europejskiego,
+- **2)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek lub tkanek oraz sposób oznaczania komórek lub tkanek – bez zastosowania jednolitego kodu europejskiego – w przypadkach, o których mowa w art. 37b ust. 2 pkt 2,
+- **3)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy narządów oraz sposób oznaczania narządów za pomocą tego oznakowania,
+- **4)** wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3 – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców oraz możliwość prawidłowego przeanalizowania i prześledzenia drogi tkanek i komórek od dawcy do biorcy i odwrotnie.
 
 #### Rozdział 8 Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, Krajowe Centrum Bankowania Tkanek i Komórek i Krajowa Rada Transplantacyjna
 
@@ -1210,9 +1224,9 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 2. Szkolenia, o których mowa w ust. 1, prowadzi się w formie szkolenia:
 
-- **1)** wstępnego dla osób nowo zatrudnionych;
-- **2)** ustawicznego, nie rzadziej niż co 2 lata dla wszystkich pracowników;
-- **3)** uaktualniającego w przypadku zmian procedur lub rozwoju wiedzy naukowej w zakresie pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów.
+- **1)** wstępnego – dla osób nowo zatrudnionych;
+- **2)** ustawicznego, nie rzadziej niż co 2 lata – dla wszystkich pracowników;
+- **3)** uaktualniającego – w przypadku zmian procedur lub rozwoju wiedzy naukowej w zakresie pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów.
 
 3. Szkolenia, o których mowa w ust. 1, prowadzi się zgodnie z programem szkoleń opracowanym przez podmioty, o których mowa w ust. 1, na podstawie ramowego programu szkoleń określonego przepisami wydanymi na podstawie ust. 8.
 
@@ -1267,7 +1281,7 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 - **7)** opiniowanie wniosków o przeprowadzenie przeszczepienia komórek, tkanek i narządów pobranych od zwierząt;
 - **8)** opiniowanie:
     - **a)** spełnienia wymogów przepisów ustawy przez ubiegające się o pozwolenia: banki tkanek i komórek, podmioty, o których mowa w art. 36 ust. 1 pkt 1, 4 i 5, oraz medyczne laboratoria diagnostyczne i podmioty takie pozwolenia dotychczas posiadające,
-    - **b)** przestrzegania ustalonych procedur postępowania w zakresie pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów oraz spełniania warunków wymaganych w ustalonym systemie zapewnienia jakości na podstawie zgłoszonych przez podmioty dokonujące pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów istotnych niepożądanych reakcji i istotnych zdarzeń niepożądanych,
+    - **b)** przestrzegania ustalonych procedur postępowania w zakresie pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów oraz spełniania warunków wymaganych w ustalonym systemie zapewnienia jakości – na podstawie zgłoszonych przez podmioty dokonujące pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów istotnych niepożądanych reakcji i istotnych zdarzeń niepożądanych,
     - **c)** jakości świadczeń zdrowotnych udzielanych w zakresie pobierania, przechowywania, przeszczepiania i dystrybucji komórek, tkanek i narządów;
 
 - **9)** opracowywanie dla ministra właściwego do spraw zdrowia rocznych raportów dotyczących wyników przeszczepiania komórek, tkanek i narządów, na podstawie materiałów udostępnionych przez Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, Krajowe Centrum Bankowania Tkanek i Komórek oraz inne instytucje związane z procedurą pobierania i przeszczepiania komórek, tkanek i narządów.
@@ -1369,4 +1383,8 @@ o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 **Art. 58.** Traci moc ustawa z dnia 26 października 1995 r. o pobieraniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 682, z 1997 r. poz. 554 i 661 oraz z 2000 r. poz. 1268).
 
 **Art. 59.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r., z tym że przepisy:
+
+- **1)** art. 22–35 ust. 1, 2 i 11 oraz art. 36 i 37,
+- **2)** art. 38 ust. 3 pkt 11, art. 39 ust. 6, art. 41 ust. 6 pkt 6 i pkt 8 lit. a, art. 42 ust. 2 pkt 3 i 5, art. 45 i 48 – stosuje się od dnia 31 grudnia 2006 r.
+
 

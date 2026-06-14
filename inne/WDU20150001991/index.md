@@ -8,7 +8,7 @@ pos: 1991
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw
@@ -28,6 +28,238 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001991) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1991/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 4 w brzmieniu: „4. Przepisów ustawy nie stosuje się do podmiotów leczniczych funkcjonujących w formie jednostki wojskowej w rozumieniu art. 2 ust. 1 pkt 1a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm. ).”;
+- **2)** w art. 2: poz. 581, z późn. zm. ), apteką ogólnodostępną lub punktem aptecznym, o działalności leczniczej, oraz osobę uprawnioną do świadczenia usług farmaceutycznych, która udziela świadczeń opieki zdrowotnej lub świadczy usługi farmaceutyczne w ramach stosunku pracy lub umowy cywilnoprawnej;
+    - **a)** pkt 3 otrzymuje brzmienie: „3) certyfikat do uwierzytelniania danych – poświadczenie elektroniczne, wydawane na wniosek usługodawcy przez system, o którym mowa w art. 7 ust. 1, służące do potwierdzania pochodzenia i integralności danych przekazywanych lub udostępnianych przez usługodawcę;”,
+    - **b)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) certyfikat do uwierzytelniania systemu – poświadczenie elektroniczne, wydawane na wniosek usługodawcy przez system, o którym mowa w art. 7 ust. 1, służące do uwierzytelniania systemu usługodawcy w Systemie Informacji Medycznej, zwanym dalej „SIM”, oraz wzajemnego uwierzytelniania systemów teleinformatycznych usługodawców;”,
+    - **c)** w pkt 6 lit. a i b otrzymują brzmienie: „a) dokument elektroniczny umożliwiający usługobiorcy uzyskanie świadczenia opieki zdrowotnej określonego rodzaju, w przypadku usługodawcy będącego świadczeniodawcą, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r.
+    - **b)** dokumentację medyczną indywidualną, z wyłączeniem skierowań, w rozumieniu przepisów wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm. ), wytworzoną w postaci elektronicznej;”,
+    - **d)** pkt 11 i 12 otrzymują brzmienie: „11) pracownik medyczny – osobę wykonującą zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r.
+
+- **12)** rejestr medyczny – tworzony zgodnie z prawem rejestr, ewidencję, listę, spis albo inny uporządkowany zbiór danych osobowych, jednostkowych danych medycznych lub danych niebędących danymi osobowymi, służący do realizacji zadań publicznych, prowadzony przez podmiot funkcjonujący w systemie ochrony zdrowia;”, o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, której dane są przetwarzane w systemie informacji.”;
+    - **e)** w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „18) zdarzenie medyczne przetwarzane w systemie informacji – czynność w ramach świadczenia zdrowotnego lub świadczenia zdrowotnego rzeczowego, o których mowa w ustawie z dnia 27 sierpnia 2004 r.
+
+- **3)** w art. 4 w ust. 3 w pkt 1: o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991);”;
+    - **a)** uchyla się lit. e,
+    - **b)** lit. i otrzymuje brzmienie: „i) w przypadku osób, które nie mają nadanego numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość,”,
+    - **c)** lit. m otrzymuje brzmienie: „m) numer i rodzaj dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej finansowanych ze środków publicznych,”,
+    - **d)** lit. r otrzymuje brzmienie: „r) datę zgonu,”,
+    - **e)** w lit. s średnik zastępuje się przecinkiem i dodaje się lit. t–x w brzmieniu: „t) przyczynę zgonu,
+    - **u)** informację o prawie do świadczeń opieki zdrowotnej finansowanych ze środków publicznych,
+    - **v)** numer identyfikacyjny płatnika,
+    - **w)** numer telefonu kontaktowego,
+    - **x)** informację o sprzeciwie zawartym w centralnym rejestrze sprzeciwów na pobranie komórek, tkanek i narządów ze zwłok ludzkich, o którym mowa w art. 7 ust. 1 ustawy z dnia 1 lipca 2005 r.
+
+- **4)** w art. 5:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) SIM;”, – w pkt 2: – – uchyla się lit. d, – – lit. g otrzymuje brzmienie: „g) Systemu Monitorowania Kosztów Leczenia,”, – – w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „j) Systemu Obsługi List Refundacyjnych;”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Systemy teleinformatyczne obsługujące system informacji w zakresie danych dotyczących obiektów przestrzennych wykorzystują za pośrednictwem usług dostępnych w geoportalu infrastruktury informacji przestrzennej, o którym mowa w art. 13 ust. 1 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, referencyjne bazy danych, o których mowa w art. 4 ust. 1a pkt 4–6, 8, 9 i 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, a także dostarczają do geoportalu infrastruktury informacji przestrzennej dane adresowe usługodawców.”,
+    - **c)** dodaje się ust. 5 w brzmieniu: „5. Minister właściwy do spraw zdrowia może powierzyć, w drodze porozumienia, właściwemu ministrowi wykonywanie zadań związanych z utrzymaniem, obsługą techniczną oraz zachowaniem ciągłości funkcjonowania systemów teleinformatycznych.”;
+
+- **5)** w art. 7:
+    - **a)** w ust. 1 pkt 7 otrzymuje brzmienie: „7) dostęp wojewodów do danych zbiorczych niezbędnych do realizacji zadań określonych w art. 10 i art. 95a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;”,
+    - **b)** dodaje się ust. 4 i 5 w brzmieniu: „4. Za pośrednictwem systemów teleinformatycznych, dla których administratorem systemu jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia, Narodowy Fundusz Zdrowia lub Zakład Ubezpieczeń Społecznych, dane są udostępniane uprawnionym użytkownikom identyfikowanym w co najmniej jednym z tych systemów oraz prezentowane w systemie, w którym ci użytkownicy są identyfikowani.
+
+5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, warunki techniczne umożliwiające udostępnianie danych w sposób określony w ust. 4, mając na względzie konieczność zapewnienia bezpieczeństwa i integralności danych.”;
+
+- **6)** po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. Minimalne wymagania dla systemów, o których mowa w art. 6 ust. 1, art. 7 ust. 1, art. 10 ust. 1, art. 17 ust. 1, art. 22 ust. 1 i art. 26 ust. 1, związane z bezpieczeństwem przetwarzania i udostępniania danych w postaci elektronicznej uwzględniają, w przypadku danych dotyczących:
+- **1)** usługobiorców będących:
+    - **a)** funkcjonariuszami Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego oraz funkcjonariuszami albo żołnierzami Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego, zwanych dalej „służbami specjalnymi”,
+    - **b)** członkami rodzin, w rozumieniu art. 5 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, funkcjonariuszy i żołnierzy służb specjalnych,
+
+- **2)** podmiotów leczniczych, o których mowa w art. 4 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – ochronę tych danych w zakresie wykonywania obowiązków, o których mowa w art. 35 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2015 r. poz. 1929), art. 24 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm. ) i art. 39 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm. ), oraz możliwość uzyskania przez służby specjalne informacji o osobach przetwarzających w SIM dane dotyczące tych usługobiorców i podmiotów.”;
+- **7)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Administrator danych, o którym mowa w art. 10 ust. 8, art. 23 ust. 6, art. 24 ust. 6, art. 26 ust. 6, art. 28 ust. 2, art. 29 ust. 5 i 6, art. 30 ust. 3 oraz art. 30a ust. 4, w celu zapewnienia eksploatacji systemów teleinformatycznych, o których mowa w art. 10 ust. 1 i 2, art. 23 ust. 1 i 2, art. 24 ust. 1 i 2, art. 26 ust. 1 i 2, art. 28 ust. 1, art. 29 ust. 1 i 2, art. 30 ust. 1 i 2 oraz art. 30a ust. 1 i 2, może upoważnić administratora systemu, o którym mowa w art. 10 ust. 7, art. 23 ust. 5, art. 24 ust. 7, art. 26 ust. 8, art. 28 ust. 2a, art. 29 ust. 7, art. 30 ust. 4 oraz art. 30a ust. 3, do powierzania przetwarzania danych przetwarzanych w tych systemach podmiotom wyspecjalizowanym w zapewnianiu obsługi technicznej systemów teleinformatycznych.
+
+2. Podmioty wyspecjalizowane w zapewnianiu obsługi technicznej systemów teleinformatycznych, o których mowa w ust. 1, są obowiązane do stworzenia warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych, w szczególności zabezpieczenia danych przed nieuprawnionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą. Dane przetwarzane w systemach, o których mowa w ust. 1, podlegają ochronie na poziomie wysokim, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.
+
+3. Administrator danych, o którym mowa w ust. 1, może kontrolować podmioty wyspecjalizowane w zapewnianiu obsługi technicznej systemów teleinformatycznych, o których mowa w ust. 1, w zakresie realizacji wymagań, o których mowa w ust. 2, oraz sposobu realizacji celów powierzenia danych przetwarzanych w systemach, o których mowa w ust. 1.
+
+4. Podmioty wyspecjalizowane w zapewnianiu obsługi technicznej systemów teleinformatycznych, o których mowa w ust. 1, nie mogą powierzać innym podmiotom przetwarzania danych przetwarzanych w systemach, o których mowa w ust. 1.
+
+5. W przypadku zaprzestania przetwarzania danych przetwarzanych w systemach, o których mowa w ust. 1, przez podmioty wyspecjalizowane w zapewnianiu obsługi technicznej systemów teleinformatycznych, o których mowa w ust. 1, w szczególności w związku z ich likwidacją, są one obowiązane do przekazania tych danych administratorowi danych, o którym mowa w ust. 1. Administrator danych może upoważnić administratora systemu SIM, o którym mowa w ust. 1, do przyjęcia tych danych.
+
+6. Podmioty wyspecjalizowane w zapewnianiu obsługi technicznej systemów teleinformatycznych, o których mowa w ust. 1, są obowiązane do zachowania w tajemnicy informacji związanych ze świadczeniobiorcami uzyskanych w związku z powierzeniem przetwarzania danych przetwarzanych w systemach, o których mowa w ust. 1. Podmioty te są związane tajemnicą także po śmierci świadczeniobiorcy.”;
+
+- **8)** w art. 10:
+    - **a)** w ust. 2 pkt 5 otrzymuje brzmienie: „5) dane dotyczące udzielonych świadczeń opieki zdrowotnej finansowanych lub współfinansowanych ze środków publicznych oraz kwoty środków publicznych wydatkowanych na sfinansowanie tych świadczeń, o których mowa w art. 192 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Dane, o których mowa w ust. 2 pkt 4, są pozyskiwane do SIM z systemów teleinformatycznych usługodawców.”,
+    - **c)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Dane, o których mowa w ust. 2 pkt 5, są pozyskiwane do SIM z systemów teleinformatycznych płatników, o których mowa w art. 2 pkt 9 lit. a.”;
+
+- **9)** w art. 11:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Usługodawcy prowadzą elektroniczną dokumentację medyczną, o której mowa w art. 2 pkt 6 lit. b. Elektroniczna dokumentacja medyczna, o której mowa w przepisach wydanych na podstawie art. 13, jest prowadzona przez usługodawców w formatach zamieszczonych w portalu edukacyjno-informacyjnym, o którym mowa w art. 36 ust. 1, oraz w Biuletynie Informacji Publicznej ministra właściwego do spraw zdrowia.
+
+2. Dane, w tym dane osobowe i jednostkowe dane medyczne, zawarte w elektronicznej dokumentacji medycznej usługobiorcy, zgromadzone w systemie teleinformatycznym usługodawcy, są udostępniane za pośrednictwem SIM. Udostępnianie danych następuje za zgodą usługobiorcy.”,
+
+- **b)** dodaje się ust. 4–8 w brzmieniu: „4. Dane, o których mowa w ust. 3, obejmują:
+- **1)** dane usługodawcy:
+    - **a)** identyfikator,
+    - **b)** pełną nazwę;
+
+- **2)** dane usługobiorcy:
+    - **a)** identyfikator,
+    - **b)** identyfikator w systemie usługodawcy, jeżeli jest inny niż wskazany w lit. a,
+    - **c)** imię i nazwisko,
+    - **d)** datę urodzenia,
+    - **e)** płeć;
+
+- **3)** dane pracownika medycznego, który uczestniczył w zdarzeniu medycznym przetwarzanym w systemie informacji lub wytworzył elektroniczną dokumentację medyczną, lub zamieścił dane w SIM:
+    - **a)** identyfikator,
+    - **b)** imię i nazwisko,
+    - **c)** zawód lub specjalizację;
+
+- **4)** dane zdarzenia medycznego przetwarzanego w systemie informacji:
+    - **a)** identyfikator nadawany w systemie usługodawcy,
+    - **b)** identyfikator skierowania, na podstawie którego nastąpiło dane zdarzenie, jeżeli dotyczy,
+    - **c)** typ, spośród typów zamieszczonych w portalu edukacyjno-informacyjnym, o którym mowa w art. 36 ust. 1, oraz w Biuletynie Informacji Publicznej ministra właściwego do spraw zdrowia,
+    - **d)** datę rozpoczęcia i zakończenia,
+    - **e)** rozpoznania,
+    - **f)** wykonane procedury medyczne, jeżeli dotyczy,
+    - **g)** numer identyfikacyjny płatnika, o którym mowa w art. 2 pkt 9 lit. a, który finansuje lub współfinansuje udzielenie świadczenia opieki zdrowotnej finansowanego ze środków publicznych,
+    - **h)** numer wpisu do księgi głównej przyjęć i wypisów, jeżeli dotyczy,
+    - **i)** kod trybu przyjęcia i wypisu osoby, której udzielono świadczenia zdrowotnego, w przypadku pobytu w oddziale szpitalnym, jeżeli dotyczy;
+
+- **5)** dane miejsca wystąpienia zdarzenia medycznego przetwarzanego w systemie informacji: o działalności leczniczej, jeżeli dotyczy, o działalności leczniczej;
+    - **a)** identyfikator miejsca udzielenia świadczenia,
+    - **b)** nazwę,
+    - **c)** adres,
+    - **d)** kod specjalności komórki organizacyjnej, w której wystąpiło zdarzenie medyczne przetwarzane w systemie informacji, stanowiący część VIII systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r.
+    - **e)** kod dziedziny medycyny lub pielęgniarstwa, którego dotyczy zdarzenie medyczne przetwarzane w systemie informacji lub wytworzona elektroniczna dokumentacja medyczna, stanowiący część X systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r.
+
+- **6)** dane elektronicznej dokumentacji medycznej, o której mowa w art. 2 pkt 6 lit. b, wytworzonej w związku ze zdarzeniem medycznym przetwarzanym w systemie informacji:
+    - **a)** identyfikator usługodawcy nadawany przez system,
+    - **b)** rodzaj,
+    - **c)** datę wytworzenia,
+    - **d)** format,
+    - **e)** rozmiar,
+    - **f)** powiązane z nią procedury medyczne,
+    - **g)** tryb udostępniania,
+    - **h)** identyfikator usługodawcy odpowiedzialnego za jej przetwarzanie i udostępnianie;
+
+- **7)** elektroniczną dokumentację medyczną, o której mowa w art. 14 ust. 4;
+- **8)** dane dotyczące realizacji recepty, potwierdzenia albo realizacji zlecenia w postaci elektronicznej, informacji o zmianie statusu skierowania w postaci elektronicznej lub decyzji dotyczącej deklaracji wyboru, o której mowa w art. 56 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **9)** wniosek o udostępnienie elektronicznej dokumentacji medycznej, jeżeli dotyczy;
+- **10)** dane potwierdzające udostępnienie elektronicznej dokumentacji medycznej, jeżeli dotyczy;
+- **11)** dane, o których mowa w art. 14 ust. 2 pkt 3 lit. a;
+- **12)** dane dotyczące zmiany dokumentacji medycznej, o której mowa w art. 2 pkt 6 lit. b, jeżeli dotyczy:
+    - **a)** imię i nazwisko pracownika medycznego, który dokonał zmiany,
+    - **b)** identyfikator pracownika medycznego, który dokonał zmiany,
+    - **c)** przyczynę zmiany;
+
+- **13)** inne dane niebędące danymi osobowymi, określone w przepisach wydanych na podstawie art. 13.
+
+5. Usługodawca zamieszcza w SIM:
+
+- **1)** w czasie rzeczywistym, dane, o których mowa w ust. 4 pkt 7 i 8;
+- **2)** niezwłocznie, nie później niż w terminie 1 dnia od zakończenia zdarzenia medycznego przetwarzanego w systemie informacji, dane, o których mowa w ust. 4 pkt 1–6 i 9–13.
+
+6. W przypadku gdy jest to uzasadnione potrzebą realizacji zadań określonych w art. 35 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, usługodawca, będący podmiotem leczniczym utworzonym przez Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu, może nie zamieszczać w SIM danych, o których mowa w ust. 3, dotyczących usługobiorcy będącego funkcjonariuszem Agencji Bezpieczeństwa Wewnętrznego albo Agencji Wywiadu.
+
+7. Jeżeli ustawa zastrzega dla wytwarzania dokumentacji medycznej formę pisemną lub równoważną, uznaje się, że elektroniczna dokumentacja medyczna spełnia wymagania formy pisemnej lub równoważnej także wtedy, gdy forma została zastrzeżona pod rygorem nieważności.
+
+8. Udostępnienie danych, o których mowa w ust. 2, bez pośrednictwa SIM, następuje na zasadach określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.”;
+
+- **10)** w art. 12 ust. 3–5 otrzymują brzmienie: „3. Usługobiorca, jego przedstawiciel ustawowy lub osoba przez niego upoważniona ma dostęp do danych, w tym danych osobowych i jednostkowych danych medycznych, w zakresie niezbędnym do realizacji uprawnień określonych w ust. 1 pkt 3 i 7.
+
+4. Płatnikom, o których mowa w art. 2 pkt 9 lit. a, przysługuje dostęp do danych, w tym danych osobowych i jednostkowych danych medycznych usługobiorców oraz danych dotyczących usługodawców, przetwarzanych w SIM, w zakresie niezbędnym do realizacji zadań, o których mowa w ust. 1 pkt 1–6 i 8, oraz prawo do pobrania z modułu statystyczno-rozliczeniowego danych niezbędnych do rozliczania udzielonych świadczeń opieki zdrowotnej.
+
+5. Wojewodzie przysługuje dostęp do zbiorczych danych przetwarzanych w SIM, w zakresie niezbędnym do realizacji zadań określonych w art. 10 i art. 95a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w ramach posiadanych uprawnień.”;
+
+- **11)** w art. 14: o Państwowym Ratownictwie Medycznym albo w przypadku jego śmierci;”, – dodaje się pkt 4 i 5 w brzmieniu: „4) informacje, o których mowa w art. 56 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+    - **a)** w ust. 2: – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „3) dane umieszczone przez usługobiorcę, jego przedstawiciela ustawowego lub osobę przez niego upoważnioną dotyczące:
+    - **a)** stanu zdrowia usługobiorcy, jeżeli ma to znaczenie dla udzielania świadczeń opieki zdrowotnej w stanach nagłego zagrożenia zdrowotnego w rozumieniu art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym,
+    - **b)** osób, które należy poinformować o stanie zdrowia usługobiorcy w stanach nagłego zagrożenia zdrowotnego w rozumieniu art. 3 pkt 8 ustawy z dnia 8 września 2006 r.
+
+- **5)** dane umieszczone przez usługodawcę, dotyczące wymiany informacji między usługodawcą a usługobiorcą, prowadzonej przy wsparciu systemu teleinformatycznego, o którym mowa w art. 7 ust. 1, inicjowanej przez usługobiorcę.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Dane, o których mowa w ust. 2 pkt 3 lit. a, mogą być umieszczone w module podstawowym także przez pracownika medycznego.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Moduł zleceń zawiera skierowania, recepty i zlecenia, mające postać elektroniczną, umożliwiające usługobiorcy uzyskanie świadczenia opieki zdrowotnej określonego rodzaju, a także dane, o których mowa w art. 11 ust. 4.”;
+
+- **12)** w art. 15:
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) dane, o których mowa w art. 4 ust. 3 pkt 1 lit. a–d, g–r oraz u–x.”,
+    - **b)** ust. 3–5 otrzymują brzmienie: „3. Dane do Centralnego Wykazu Usługobiorców, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. m–p oraz u, przekazują płatnicy, o których mowa w art. 2 pkt 9 lit. a.
+
+4. Dane do Centralnego Wykazu Usługobiorców, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. j–l oraz w, przekazują usługobiorcy.
+
+5. Minister właściwy do spraw wewnętrznych, jako organ prowadzący rejestr PESEL, o którym mowa w przepisach o ewidencji ludności:
+
+- **1)** przekazuje do Centralnego Wykazu Usługobiorców dane, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. a–d, g, h oraz r;
+- **2)** zapewnia stały dostęp do danych, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. a–d, g, h oraz r.”;
+- **13)** w art. 16:
+    - **a)** w ust. 2: – pkt 4 otrzymuje brzmienie: „4) numerów identyfikacyjnych nadanych usługodawcom przez płatnika, o którym mowa w art. 2 pkt 9 lit. a, jeżeli dotyczy;” – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–10 w brzmieniu: „6) numeru telefonu;
+
+- **7)** dat uzyskania, zawieszenia, zmiany, cofnięcia lub wygaśnięcia zezwolenia oraz dat wpisu do Krajowego Rejestru Zezwoleń na Prowadzenie Aptek Ogólnodostępnych, Punktów Aptecznych oraz Rejestru Udzielonych Zgód na Prowadzenie Aptek Szpitalnych i Zakładowych albo rejestru podmiotów wykonujących działalność leczniczą lub wykreślenia z tych rejestrów, a w przypadku usługodawcy, o którym mowa w art. 17c ust. 3 pkt 3, dat rozpoczęcia obowiązywania, rozwiązania lub wygaśnięcia umowy o udzielanie świadczeń opieki zdrowotnej, jeżeli dotyczy;
+- **8)** numeru zezwolenia na prowadzenie apteki, jeżeli dotyczy;
+- **9)** nazwy i identyfikatora organu wydającego zezwolenie na prowadzenie apteki, jeżeli dotyczy;
+- **10)** godzin pracy.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Do identyfikatora usługodawcy przyporządkowane są dane z rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej.”,
+    - **c)** uchyla się ust. 4,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Usługodawca wykorzystuje certyfikat do uwierzytelniania danych w celu potwierdzenia pochodzenia i integralności danych w odniesieniu do:
+
+- **1)** procesu realizacji recepty;
+- **2)** procesu realizacji zlecenia na zaopatrzenie w postaci elektronicznej;
+- **3)** procesu realizacji zlecenia na naprawę w postaci elektronicznej;
+- **4)** potwierdzenia udostępnienia dokumentacji medycznej, o której mowa w art. 2 pkt 6 lit. b, usługobiorcy;
+- **5)** przekazania danych o zdarzeniu medycznym przetwarzanym w systemie informacji lub elektronicznej dokumentacji medycznej, udostępnianej za pośrednictwem SIM.”,
+    - **e)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Usługodawca wykorzystuje certyfikat do uwierzytelniania systemu w celu uwierzytelnienia systemu teleinformatycznego usługodawcy:
+
+- **1)** w SIM;
+- **2)** w procesie wymiany elektronicznej dokumentacji medycznej między systemami teleinformatycznymi usługodawców.”;
+- **14)** w art. 17:
+    - **a)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „W ramach Centralnego Wykazu Pracowników Medycznych, do nadanego pracownikowi medycznemu identyfikatora, są przyporządkowane dane dotyczące:”, – uchyla się pkt 3, – pkt 4 otrzymuje brzmienie: „4) prawa wykonywania zawodu, jeżeli dotyczy;”, – uchyla się pkt 5, – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7–9 w brzmieniu: „7) daty zgonu, jeżeli dotyczy;
+
+- **8)** zatrudnienia u usługodawcy;
+- **9)** zawodu i specjalizacji, jeżeli dotyczy.”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Usługodawca przekazuje do Centralnego Wykazu Pracowników Medycznych dane umożliwiające identyfikację pracownika medycznego, o których mowa w ust. 2 pkt 1, 2, 4, 6, 8 i 9.
+
+2b. W przypadku zmiany danych, o których mowa w ust. 2, dane te usługodawca przekazuje niezwłocznie, nie później jednak niż w terminie 3 dni od zmiany.”, o informatyzacji działalności podmiotów realizujących zadania publiczne do podpisywania:
+
+- **c)** ust. 3 otrzymuje brzmienie: „3. Pracownik medyczny używa bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym lub podpisu potwierdzonego profilem zaufanym ePUAP w rozumieniu ustawy z dnia 17 lutego 2005 r.
+- **1)** elektronicznej dokumentacji medycznej;
+- **2)** wniosku o dostęp do danych umożliwiających pobranie z SIM elektronicznej dokumentacji medycznej lub danych z tych dokumentów, w zakresie niezbędnym do wykonywania badań diagnostycznych, zapewnienia ciągłości leczenia oraz zaopatrzenia usługobiorców w produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne;
+- **3)** wniosku o dostęp do danych przetwarzanych w SIM umożliwiających wymianę między usługodawcami danych zawartych w elektronicznej dokumentacji medycznej.”,
+    - **d)** dodaje się ust. 5 i 6 w brzmieniu: „5. Data zgonu pracownika medycznego jest przekazywana do Centralnego Wykazu Pracowników Medycznych za pośrednictwem Centralnego Wykazu Usługobiorców.
+
+6. Minister właściwy do spraw zdrowia przekazuje datę zgonu pracownika medycznego do podmiotów prowadzących rejestry pracowników medycznych.”;
+
+- **15)** po art. 17 dodaje się art. 17a–17c w brzmieniu: „Art. 17a. 1. Tworzy się rejestr medyczny – Centralny Wykaz Produktów Leczniczych.
+
+2. Centralny Wykaz Produktów Leczniczych zawiera dane:
+
+- **1)** o których mowa w art. 37 ust. 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2015 r. poz. 345, 1830 i 1991);
+- **2)** przetwarzane w Rejestrze Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 28 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, obejmujące:
+    - **a)** numer pozwolenia na dopuszczenie do obrotu produktu leczniczego oraz datę jego wydania i termin ważności,
+    - **b)** nazwę produktu leczniczego oraz określenie postaci i dawki,
+    - **c)** nazwę powszechnie stosowaną produktu leczniczego, jeżeli dotyczy,
+    - **d)** nazwę i adres podmiotu odpowiedzialnego,
+    - **e)** nazwę i adres wytwórcy oraz miejsca wytwarzania, gdzie następuje zwolnienie serii,
+    - **f)** pełne określenie składu jakościowego produktu leczniczego,
+    - **g)** kategorię dostępności produktu leczniczego,
+    - **h)** okres ważności produktu leczniczego,
+    - **i)** kod zgodny z systemem EAN UCC przyznany dla produktów leczniczych stosowanych u ludzi,
+    - **j)** informacje na temat warunków przechowywania i transportu produktu leczniczego,
+    - **k)** charakterystykę produktu leczniczego,
+    - **l)** wskazania i przeciwwskazania stosowania,
+    - **m)** imię i nazwisko oraz adres osoby odpowiedzialnej za ciągły nadzór nad monitorowaniem bezpieczeństwa stosowania produktu leczniczego;
+
+- **3)** zawarte w decyzjach wydawanych na podstawie art. 121–122a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne:
+    - **a)** nazwę produktu leczniczego oraz określenie postaci i dawki,
+    - **b)** nazwę powszechnie stosowaną produktu leczniczego, jeżeli taka występuje,
+    - **c)** nazwę i adres podmiotu odpowiedzialnego,
+    - **d)** wielkość opakowania,
+    - **e)** numer serii,
+    - **f)** datę wydania decyzji,
+    - **g)** oznaczenie organu,
+    - **h)** rodzaj rozstrzygnięcia,
+    - **i)** przyczyny wydania decyzji;
+
+- **4)** o których mowa w art. 4d ust. 3 i 4 i art. 4e ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
+
+3. Dane do Centralnego Wykazu Produktów Leczniczych, o których mowa w ust. 2:
+
+- **1)** pkt 1 i 4 – przekazuje minister właściwy do spraw zdrowia;
+- **2)** pkt 2 – przekazuje Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych;
+- **3)** pkt 3 – przekazuje Główny Inspektor Farmaceutyczny.
+
+4. Organem prowadzącym Centralny Wykaz Produktów Leczniczych jest minister właściwy do spraw zdrowia.
 
 **Art. 17b.** Administratorem systemu rejestrów medycznych, o których mowa w art. 15 ust. 1, art. 16 ust. 1, art. 17 ust. 1, art. 17a ust. 1, jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.
 
@@ -185,7 +417,110 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2014 r. poz. 1429 i 1491) wprowadza się następujące zmiany:
 
+- **1)** w art. 2a po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Usługi farmaceutyczne, o których mowa w ust. 1 pkt 6 i 7, mogą być udzielane przez farmaceutę za pośrednictwem systemów teleinformatycznych lub systemów łączności.”;
+- **2)** w art. 8:
+    - **a)** w ust. 2: – w pkt 2 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „g) informacje dotyczące dopełnienia obowiązku podnoszenia kwalifikacji zawodowych wynikającego z art. 107zf ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;”, – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) numer PESEL;
+
+- **5)** datę zgonu.”,
+    - **b)** po ust. 4b dodaje się ust. 4c w brzmieniu: „4c. Dane zawarte w rejestrze farmaceutów mogą zostać udostępnione podmiotom biorącym udział w procesie kształcenia podyplomowego farmaceuty:
+
+- **1)** uczelniom wyższym,
+- **2)** Centrum Medycznego Kształcenia Podyplomowego,
+- **3)** Centrum Egzaminów Medycznych,
+- **4)** podstawowym jednostkom organizacyjnym uczelni wyższych prowadzących studia na kierunku farmacja, które uzyskały akredytację określoną w art. 107a ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
+- **5)** wojewodom,
+- **6)** konsultantom krajowym w ochronie zdrowia – w związku z wykonywanymi przez nich zadaniami.”.
+
 **Art. 4.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464, 1633 i 1893) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 dodaje się ust. 4 w brzmieniu: „4. Lekarz, lekarz dentysta może wykonywać czynności, o których mowa w ust. 1 i 2, także za pośrednictwem systemów teleinformatycznych lub systemów łączności.”;
+- **2)** w art. 3:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Ilekroć w przepisach ustawy jest mowa o recepcie, należy przez to rozumieć receptę w postaci elektronicznej albo w postaci papierowej.”,
+    - **b)** dodaje się ust. 4–8 w brzmieniu: „4. Ilekroć w ustawie jest mowa o elektronicznej karcie szkolenia specjalizacyjnego, zwanej dalej „EKS”, rozumie się przez to elektroniczne odwzorowanie karty szkolenia specjalizacyjnego, której wzór określają przepisy wydane na podstawie art. 16x ust. 1 pkt 10 i ust. 2–4, stanowiące potwierdzenie realizacji programu specjalizacji i jego ukończenia.
+
+5. Konto w Systemie Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 30 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2016 r. poz. 1535, 1579 i 2020), zwanym dalej „SMK”, zakłada w celu dokonywania czynności w tym systemie:
+
+- **1)** lekarz albo lekarz dentysta;
+- **2)** kierownik specjalizacji.
+
+6. Warunkiem dokonywania przez osoby określone w ust. 5 czynności za pomocą SMK jest uwierzytelnienie osoby, która konto założyła, i weryfikacja uprawnień tej osoby.
+
+7. Uwierzytelnienia, o którym mowa w ust. 6, dokonuje się na podstawie wniosku o nadanie uprawnień, przez:
+
+- **1)** podpisanie kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114 oraz z 2016 r. poz. 352 i 1579) lub
+- **2)** potwierdzenie przez właściwą okręgową izbę lekarską lub Naczelną Izbę Lekarską tożsamości osoby, która konto założyła.
+
+8. Weryfikacji uprawnień, o których mowa w ust. 6, dokonuje w stosunku do:
+
+- **1)** lekarza albo lekarza dentysty, o którym mowa w ust. 5 pkt 1, właściwa miejscowo okręgowa izba lekarska, a jeżeli nie jest możliwe ustalenie właściwej okręgowej izby lekarskiej – Naczelna Izba Lekarska;
+- **2)** kierownika specjalizacji – właściwa jednostka uprawniona do prowadzenia szkolenia specjalizacyjnego.”;
+- **3)** po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. Dane zamieszczane w SMK, na podstawie niniejszej ustawy, mogą zostać udostępnione:
+- **1)** lekarzowi – w zakresie śledzenia przebiegu własnego kształcenia;
+- **2)** uczelniom – w zakresie zadań określonych niniejszą ustawą oraz monitorowania karier zawodowych swoich absolwentów na podstawie ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. );
+- **3)** konsultantom krajowym i konsultantom wojewódzkim – w zakresie, w jakim biorą udział w kształceniu lekarzy, w szczególności w zakresie zadań określonych niniejszą ustawą oraz ustawą z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2015 r. poz. 126);
+- **4)** Centrum Egzaminów Medycznych – w zakresie zadań określonych niniejszą ustawą, w szczególności organizowania i przeprowadzania egzaminów państwowych oraz innych egzaminów z zakresu kształcenia lekarzy;
+- **5)** Centrum Medycznemu Kształcenia Podyplomowego – w zakresie zadań określonych niniejszą ustawą, w szczególności udzielania akredytacji jednostkom organizacyjnym, koordynacji organizacji kursów szkoleniowych oraz kontroli i monitorowania realizacji szkolenia specjalizacyjnego;
+- **6)** wojewodom – w zakresie zadań określonych niniejszą ustawą, w szczególności w zakresie procesu szkolenia specjalizacyjnego lekarzy;
+- **7)** Ministrowi Obrony Narodowej – w zakresie zadań określonych niniejszą ustawą oraz ustawą z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2014 r. poz. 1414, z późn. zm. ), w szczególności w zakresie procesu szkolenia specjalizacyjnego lekarzy będących żołnierzami w czynnej służbie wojskowej, a także pełniących służbę lub zatrudnionych w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej;
+- **8)** ministrowi właściwemu do spraw wewnętrznych – w zakresie zadań określonych niniejszą ustawą, w szczególności w zakresie procesu szkolenia specjalizacyjnego lekarzy pełniących służbę lub zatrudnionych w podmiotach leczniczych, utworzonych przez ministra właściwego do spraw wewnętrznych;
+- **9)** podmiotom, o których mowa w art. 19 ust. 1, w zakresie zadań określonych niniejszą ustawą;
+- **10)** okręgowym radom lekarskim oraz Naczelnej Radzie Lekarskiej – w zakresie zadań określonych niniejszą ustawą oraz ustawą z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2015 r. poz. 651 i 1066).”;
+- **4)** po art. 7a dodaje się art. 7b w brzmieniu: „Art. 7b. SMK zawiera informacje o przyznanych prawach wykonywania zawodu, o których mowa w art. 5–5c, art. 5f i art. 7.”;
+- **5)** art. 14a otrzymuje brzmienie: „Art. 14a. 1. Lekarski Egzamin Końcowy (LEK) i Lekarsko-Dentystyczny Egzamin Końcowy (LDEK) organizuje i przeprowadza Centrum Egzaminów Medycznych, zwane dalej „CEM”. CEM jest państwową jednostką budżetową podległą ministrowi właściwemu do spraw zdrowia.
+
+2. LEK i LDEK odbywają się dwa razy do roku, równocześnie, zgodnie z regulaminem porządkowym LEK i LDEK, o którym mowa w art. 14f ust. 2, w miejscach i terminach ustalonych przez dyrektora CEM.
+
+3. Do LEK może przystąpić lekarz.
+
+4. Do LDEK może przystąpić lekarz dentysta.
+
+5. Osoba zamierzająca przystąpić do LEK albo LDEK składa do dyrektora CEM, za pomocą SMK, zgłoszenie do LEK albo LDEK, do dnia:
+
+- **1)** 15 lipca roku kalendarzowego, w którym jest przeprowadzany dany egzamin – w przypadku egzaminów wyznaczonych w okresie od dnia 1 września do dnia 30 września;
+- **2)** 30 listopada roku kalendarzowego poprzedzającego rok, w którym jest przeprowadzany dany egzamin – w przypadku egzaminów wyznaczonych w okresie od dnia 1 lutego do dnia 28 lutego.
+
+6. Do terminów, o których mowa w ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996 i 1579). W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej dokonanie zgłoszenia w okresie tygodnia przed upływem terminów, o których mowa w ust. 5, termin ten przedłuża się o czas trwania awarii. Przedłużenie następuje z urzędu przez operatora systemu.
+
+7. Zgłoszenie do LEK albo LDEK, o którym mowa w ust. 5, zawiera następujące dane:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** datę urodzenia;
+- **3)** miejsce urodzenia;
+- **4)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania;
+- **5)** obywatelstwo (obywatelstwa);
+- **6)** adres do korespondencji i adres poczty elektronicznej oraz numer telefonu, jeżeli posiada;
+- **7)** numer prawa wykonywania zawodu lekarza albo prawa wykonywania zawodu lekarza dentysty, jeżeli posiada;
+- **8)** numer i datę wydania dyplomu lekarza albo lekarza dentysty albo zaświadczenia o ukończeniu studiów na kierunku lekarskim albo lekarsko-dentystycznym, jeżeli w dniu złożenia zgłoszenia legitymuje się takim dokumentem;
+- **9)** nazwę uczelni i podstawowej jednostki organizacyjnej, w której zgłaszający się ukończył studia lekarskie lub lekarsko-dentystyczne, oraz datę ich ukończenia, a w przypadku lekarza albo lekarza dentysty, który ukończył studia lekarskie lub lekarsko-dentystyczne w państwie innym niż państwo członkowskie Unii Europejskiej – nazwę polskiej uczelni, która przeprowadziła nostryfikację dyplomu lekarza albo lekarza dentysty;
+- **10)** wskazanie okręgowej rady lekarskiej, która w przypadku lekarza albo lekarza dentysty, który ukończył uczelnię w państwie członkowskim Unii Europejskiej, przyznała zgłaszającemu się prawo wykonywania zawodu lekarza albo prawo wykonywania zawodu lekarza dentysty;
+- **11)** wskazanie preferowanego miejsca składania LEK albo LDEK, spośród wskazanych przez CEM;
+- **12)** wskazanie języka, w którym zgłaszający się zamierza składać LEK albo LDEK.
+
+8. W przypadku złożenia zgłoszenia do LEK albo LDEK, o którym mowa w ust. 5, po raz drugi i kolejny oraz za LEK albo LDEK składany w języku obcym, o którym mowa w art. 5 ust. 4, zgłaszający się wnosi opłatę egzaminacyjną w wysokości nie wyższej niż 10% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku. Opłatę egzaminacyjną pobiera dyrektor CEM i stanowi ona dochód budżetu państwa. Opłata jest wnoszona na rachunek bankowy wskazany przez CEM, podany za pomocą SMK w trakcie składania zgłoszenia, o którym mowa w ust. 5. Opłatę uiszcza się niezwłocznie po dokonaniu zgłoszenia, nie później niż w terminie 5 dni od dnia upływu terminu składania zgłoszeń, o którym mowa w ust. 5.
+
+9. W przypadku niewniesienia opłaty, o której mowa w ust. 8, albo wniesienia jej w wysokości niższej niż należna, dyrektor CEM wzywa zgłaszającego się do uzupełnienia braków formalnych za pomocą SMK lub środków komunikacji elektronicznej, wykorzystując adres poczty elektronicznej wskazany przez zgłaszającego się w zgłoszeniu, o którym mowa w ust. 7 pkt 6. Przepisu art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się. W przypadku nieuzupełnienia braków formalnych w terminie 7 dni od dnia skierowania wezwania dotknięte nimi zgłoszenie do LEK albo LDEK traktuje się jako niezłożone. O konsekwencji tej dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
+
+10. Dyrektor CEM zawiadamia zgłaszającego się o miejscu i terminie przeprowadzenia LEK albo LDEK oraz nadanym numerze kodowym. Zawiadomienie jest przekazywane za pomocą SMK lub środków komunikacji elektronicznej na adres poczty elektronicznej wskazany przez zgłaszającego się w zgłoszeniu, o którym mowa w ust. 7 pkt 6, nie później niż 14 dni przed terminem przeprowadzenia danego LEK albo LDEK.”;
+
+- **6)** w art. 14b:
+    - **a)** ust. 8 otrzymuje brzmienie: „8. Członkowie Zespołu Egzaminacyjnego przed rozpoczęciem LEK albo LDEK składają dyrektorowi CEM pisemne oświadczenie, pod rygorem odpowiedzialności karnej, że nie pozostają z żadnym ze zgłaszających się do LEK albo LDEK przed tym Zespołem Egzaminacyjnym w stosunku, o którym mowa w ust. 6, oraz nie zostali skazani prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.”,
+    - **b)** dodaje się ust. 10 i 11 w brzmieniu: „10. Członkom Zespołów Egzaminacyjnych, o których mowa w ust. 5, oraz komisji, o której mowa w art. 14e ust. 2, przysługuje:
+
+- **1)** wynagrodzenie za udział w pracach tego Zespołu albo komisji, w wysokości nie wyższej niż 500 złotych dla Przewodniczącego i nie wyższej niż 300 złotych dla członka;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ) przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
+- **3)** zwolnienie od pracy w dniu wykonywania czynności Zespołu Egzaminacyjnego, o którym mowa w ust. 5, albo komisji, o której mowa w art. 14e ust. 2, bez zachowania prawa do wynagrodzenia w przypadku organizowania LEK albo LDEK w dniu roboczym.
+
+11. Szczegółowy tryb wypłaty wynagrodzenia, o którym mowa w ust. 10 pkt 1, oraz zwrotu kosztów, o których mowa w ust. 10 pkt 2, określa, w drodze zarządzenia, dyrektor CEM.”;
+
+- **7)** art. 14c–14e otrzymują brzmienie: „Art. 14c. 1. LEK i LDEK są składane w formie pisemnych testów, odrębnych dla zawodu lekarza i zawodu lekarza dentysty, opracowanych na każdy termin egzaminu przez ekspertów w zakresie zagadnień objętych LEK i LDEK.
+
+2. Pytania testowe LEK i LDEK obejmują problematykę z zakresu dziedzin medycyny, określonych w przepisach wydanych na podstawie art. 14f ust. 1, ze szczególnym uwzględnieniem procedur diagnostycznych i leczniczych.
+
+3. Testy i pytania testowe LEK i LDEK są opracowywane, przetwarzane, dystrybuowane i przechowywane w sposób uniemożliwiający dostęp do nich osobom innym niż uczestniczące w ich opracowywaniu, przetwarzaniu, dystrybuowaniu i przechowywaniu, przeprowadzającym LEK lub LDEK lub sprawującym nadzór nad ich przeprowadzeniem.
+
+4. Testy i pytania testowe LEK i LDEK mogą być udostępnione wyłącznie osobie przystępującej do tego egzaminu, na jej wniosek, po ich wykorzystaniu w LEK lub LDEK. Dyrektor CEM udostępnia testy i pytania testowe w drodze ich okazania w siedzibie CEM. Zakazane jest wynoszenie poza siedzibę CEM udostępnianych testów i pytań testowych oraz ich reprodukowanie, kopiowanie jakąkolwiek techniką lub przepisywanie. W przypadku naruszenia tego zakazu udostępnianie zostaje przerwane. Przebieg udostępniania może być monitorowany za pomocą urządzeń rejestrujących obraz i dźwięk.
+
+5. Udostępnieniu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2016 r. poz. 1764) podlegają wyłącznie pytania testowe wraz z poprawnymi odpowiedziami wykorzystane na potrzeby LEK albo LDEK, po upływie 5 lat od dnia przeprowadzenia tego egzaminu.
 
 **Art. 14d.**
 
@@ -649,6 +984,32 @@ source: "isap-pdf"
 
 **Art. 5.** W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2014 r. poz. 1384, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** po art. 2 dodaje się art. 2a w brzmieniu: „Art. 2a. 1. Konto w Systemie Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 30 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm. ), zwanym dalej „SMK”, zakłada w celu dokonywania czynności w tym systemie:
+- **1)** diagnosta laboratoryjny;
+- **2)** kierownik specjalizacji.
+
+2. Warunkiem dokonywania przez osoby określone w ust. 1 czynności za pomocą SMK jest uwierzytelnienie tożsamości osoby, która konto założyła i weryfikacja uprawnień tej osoby.
+
+3. Uwierzytelnienia, o którym mowa w ust. 2, dokonuje się przez:
+
+- **1)** złożenie bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262, z 2014 r. poz. 1662 oraz z 2015 r. poz. 1893) lub podpisu potwierdzonego profilem zaufanym ePUAP w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114) lub
+- **2)** potwierdzenie przez Krajową Izbę Diagnostów Laboratoryjnych tożsamości osoby, która konto założyła.
+
+4. Weryfikacji uprawnień, o których mowa w ust. 2, dokonuje w stosunku do:
+
+- **1)** diagnosty laboratoryjnego, o którym mowa w ust. 1 pkt 1, Krajowa Izba Diagnostów Laboratoryjnych;
+- **2)** kierownika specjalizacji – właściwa akredytowana podstawowa jednostka organizacyjna uczelni, która prowadzi studia na kierunku analityka medyczna.”;
+- **2)** w art. 8 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) datę zgonu.”;
+- **3)** art. 30a–30d otrzymują brzmienie: „Art. 30a. 1. Diagnosta laboratoryjny uzyskuje tytuł specjalisty, o którym mowa w art. 30, po odbyciu szkolenia specjalizacyjnego, ustalonego programem specjalizacji i zdaniu Państwowego Egzaminu Specjalizacyjnego Diagnostów Laboratoryjnych, zwanego dalej „PESDL”.
+
+2. Opłatę za szkolenie specjalizacyjne i PESDL ponosi diagnosta laboratoryjny odbywający specjalizację.
+
+3. Wysokość opłaty za szkolenie specjalizacyjne ustala kierownik jednostki szkolącej, o której mowa w art. 30b ust. 1. Wysokość opłaty nie może być wyższa niż planowane koszty związane z przeprowadzeniem szkolenia specjalizacyjnego. Opłata stanowi dochód jednostki szkolącej.
+
+4. Minister właściwy do spraw zdrowia może, w ramach środków budżetu państwa, których jest dysponentem, dofinansować koszty związane ze szkoleniem specjalizacyjnym diagnostów laboratoryjnych.
+
+5. Minister właściwy do spraw zdrowia może, w drodze rozporządzenia, uznać dziedziny diagnostyki laboratoryjnej za priorytetowe, kierując się potrzebami w zakresie realizacji świadczeń zdrowotnych.
+
 **Art. 30b.**
 
 1. Szkolenie specjalizacyjne w ramach kształcenia podyplomowego jest prowadzone przez podstawowe jednostki organizacyjne uczelni, które prowadzą studia na kierunku analityka medyczna, po uzyskaniu akredytacji, zwane dalej „jednostkami szkolącymi”, udzielonej przez dyrektora Centrum Medycznego Kształcenia Podyplomowego, zwanego dalej „dyrektorem CMKP”.
@@ -776,6 +1137,49 @@ source: "isap-pdf"
 - **3)** zwolnienie od pracy w dniach wykonywania czynności kontrolnych bez zachowania prawa do wynagrodzenia.
 
 **Art. 30d.** Monitorowanie systemu szkolenia specjalizacyjnego polega w szczególności na analizie danych o liczbie osób odbywających szkolenie specjalizacyjne oraz obrazujących jego przebieg, znajdujących się w SMK.”;
+
+- **4)** w rozdziale 4 po art. 30d dodaje się art. 30e–30zf w brzmieniu: „Art. 30e. 1. Program szkolenia specjalizacyjnego zawiera:
+- **1)** założenia organizacyjno-programowe, określające:
+    - **a)** cele szkolenia,
+    - **b)** uzyskane kompetencje zawodowe,
+    - **c)** sposób organizacji szkolenia specjalizacyjnego;
+
+- **2)** okres szkolenia specjalizacyjnego, w tym liczbę godzin stażu podstawowego;
+- **3)** szczegółowy zakres wymaganej wiedzy teoretycznej i wykaz umiejętności praktycznych będących przedmiotem szkolenia specjalizacyjnego;
+- **4)** moduły szkolenia specjalizacyjnego oraz formy i metody kształcenia stosowane w ramach modułów, w tym:
+    - **a)** kursy obejmujące szczegółowy zakres wiedzy teoretycznej i umiejętności praktycznych będących przedmiotem kursu, zwane dalej „kursami”, oraz ich wymiar godzinowy, w tym kurs w zakresie prawa medycznego,
+    - **b)** staże kierunkowe obejmujące określony zakres wymaganych umiejętności praktycznych będących przedmiotem stażu kierunkowego oraz miejsce, liczbę godzin i sposób zaliczenia poszczególnych staży kierunkowych;
+
+- **5)** formy i metody samokształcenia, w tym przygotowanie opracowań teoretycznych, pracy poglądowej lub pracy oryginalnej, której temat odpowiada programowi danego szkolenia specjalizacyjnego;
+- **6)** metody oceny wiedzy teoretycznej i nabytych umiejętności praktycznych, w tym:
+    - **a)** kolokwium z zakresu wiedzy teoretycznej objętej programem danego modułu,
+    - **b)** sprawdzian z zakresu określonego programem kursu,
+    - **c)** kolokwium z zakresu wiedzy teoretycznej i sprawdzian umiejętności praktycznych objętych programem stażu kierunkowego,
+    - **d)** ocenę złożonych opracowań teoretycznych, pracy poglądowej lub pracy oryginalnej.
+
+2. Program, o którym mowa w ust. 1, określa ponadto standardy kształcenia w danym szkoleniu specjalizacyjnym, uwzględniając dane dotyczące:
+
+- **1)** liczby i kwalifikacji kadry dydaktycznej;
+- **2)** bazy dydaktycznej do realizacji programu kursów i staży kierunkowych;
+- **3)** sposobu realizacji programu szkolenia specjalizacyjnego, w tym oceny wiedzy i umiejętności praktycznych;
+- **4)** wewnętrznego systemu oceny jakości kształcenia.
+
+3. Program szkolenia specjalizacyjnego oraz program szkolenia specjalizacyjnego uzupełniającego opracowuje zespół ekspertów powołany przez dyrektora CMKP.
+
+4. W skład zespołu ekspertów, o którym mowa w ust. 3, wchodzą:
+
+- **1)** konsultant krajowy w danej dziedzinie albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie nie ma powołanego konsultanta krajowego;
+- **2)** przedstawiciel stowarzyszenia będącego zgodnie z postanowieniami jego statutu towarzystwem naukowym o zasięgu krajowym, zrzeszającego specjalistów w danej dziedzinie diagnostyki laboratoryjnej, który posiada tytuł specjalisty w danej dziedzinie albo dziedzinie pokrewnej;
+- **3)** przedstawiciel Krajowej Rady Diagnostów Laboratoryjnych, który posiada tytuł specjalisty w danej dziedzinie albo dziedzinie pokrewnej;
+- **4)** dwie osoby posiadające tytuł specjalisty w danej dziedzinie lub legitymujące się dorobkiem naukowym i zawodowym w tej dziedzinie zgłoszone przez konsultanta krajowego w danej dziedzinie albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie nie ma powołanego konsultanta krajowego.
+
+5. Opracowany przez zespół ekspertów, o którym mowa w ust. 3, i zredagowany przez CMKP program szkolenia specjalizacyjnego zatwierdza minister właściwy do spraw zdrowia.
+
+6. CMKP publikuje programy szkolenia specjalizacyjnego zatwierdzone przez ministra właściwego do spraw zdrowia na swojej stronie internetowej oraz za pomocą SMK.
+
+7. Program specjalizacji aktualizuje, zgodnie z postępem wiedzy, zespół ekspertów, o którym mowa w ust. 3. Program specjalizacji redaguje CMKP i zatwierdza minister właściwy do spraw zdrowia.
+
+8. Diagnosta laboratoryjny, posiadający odpowiednią specjalizację I stopnia uzyskaną na podstawie dotychczasowych przepisów, odbywa szkolenie specjalizacyjne według programu uzupełniającego, który jest dostosowany do zakresu wiedzy teoretycznej i umiejętności objętych programem specjalizacji I stopnia i zawiera elementy, o których mowa w ust. 1 i 2.
 
 **Art. 30f.**
 
@@ -1144,6 +1548,10 @@ source: "isap-pdf"
 
 **Art. 30u.** Do zadań Zespołu Egzaminacyjnego przeprowadzającego dany PESDL należy:
 
+- **1)** przeprowadzenie PESDL zgodnie z regulaminem porządkowym, o którym mowa w art. 30v ust. 8;
+- **2)** przekazanie do CEM kart odpowiedzi, niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminu ustnego i praktycznego oraz dokumentacji związanej z przeprowadzonym PESDL, niezwłocznie po zakończonym PESDL, nie później jednak niż w terminie 14 dni od dnia zakończenia PESDL.
+
 **Art. 30v.**
 
 1. Zakres PESDL jest zgodny z programem danego szkolenia specjalizacyjnego.
@@ -1329,6 +1737,80 @@ source: "isap-pdf"
 - **5)** wysokość opłat za ciągłe szkolenie – mając na celu zapewnienie właściwej jakości ciągłego szkolenia oraz rzetelnego sposobu ich dokumentowania.”.
 
 **Art. 6.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** po art. 4c dodaje się art. 4d i art. 4e w brzmieniu: „Art. 4d. 1. Minister właściwy do spraw zdrowia prowadzi rejestr zapotrzebowań realizowanych w ramach importu docelowego oraz rejestr wniosków o refundację w ramach importu docelowego.
+
+2. Rejestry, o których mowa w ust. 1, są prowadzone w systemie teleinformatycznym.
+
+3. W rejestrze zapotrzebowań realizowanych w ramach importu docelowego są przetwarzane:
+
+- **1)** data wpływu zapotrzebowania;
+- **2)** dane dotyczące podmiotu wykonującego działalność leczniczą składającego zapotrzebowanie: o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm. ), jeżeli dotyczy;
+    - **a)** nazwa (firma) łącznie z nazwą jednostki organizacyjnej lub nazwą komórki organizacyjnej, jeżeli dotyczy,
+    - **b)** numer wpisu do rejestru podmiotów wykonujących działalność leczniczą,
+    - **c)** identyfikator jednostki organizacyjnej lub identyfikator komórki organizacyjnej, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r.
+
+- **3)** dane dotyczące lekarza wystawiającego zapotrzebowanie:
+    - **a)** imię i nazwisko,
+    - **b)** numer prawa wykonywania zawodu;
+
+- **4)** w przypadku podmiotu leczniczego wykonującego działalność leczniczą w rodzaju świadczenia szpitalne – dane kierownika lub osoby przez niego upoważnionej do reprezentacji:
+    - **a)** imię i nazwisko,
+    - **b)** stanowisko;
+
+- **5)** dane dotyczące pacjenta, dla którego wystawiono zapotrzebowanie albo wskazanie komórki organizacyjnej podmiotu wykonującego działalność leczniczą w rodzaju świadczenia szpitalne, wnioskującego o sprowadzenie produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego na potrzeby doraźne:
+    - **a)** imię i nazwisko pacjenta,
+    - **b)** numer PESEL pacjenta,
+    - **c)** nazwa komórki organizacyjnej podmiotu wykonującego działalność leczniczą w rodzaju świadczenia szpitalne na podstawie danych zawartych w rejestrze podmiotów wykonujących działalność leczniczą;
+
+- **6)** dane dotyczące produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego:
+    - **a)** nazwa handlowa,
+    - **b)** nazwa międzynarodowa w przypadku produktu leczniczego,
+    - **c)** postać,
+    - **d)** dawka,
+    - **e)** ilość,
+    - **f)** sposób dawkowania,
+    - **g)** czas trwania kuracji,
+    - **h)** uzasadnienie zapotrzebowania,
+    - **i)** podmiot odpowiedzialny;
+
+- **7)** dane konsultanta z danej dziedziny medycyny potwierdzającego zapotrzebowanie:
+    - **a)** imię i nazwisko,
+    - **b)** numer prawa wykonywania zawodu,
+    - **c)** kwalifikacje zawodowe, w tym posiadane tytuły zawodowy i naukowy;
+
+- **8)** informacja o sposobie rozstrzygnięcia zapotrzebowania wraz z datą jego wydania;
+- **9)** imię i nazwisko osoby dokonującej rozstrzygnięcia;
+- **10)** unikalny numer rozstrzygnięcia.
+
+4. W rejestrze wniosków o refundację w ramach importu docelowego są przetwarzane:
+
+- **1)** data wpływu wniosku;
+- **2)** unikalny numer rozstrzygnięcia zapotrzebowania na sprowadzenie z zagranicy produktu leczniczego i środka spożywczego specjalnego przeznaczenia żywieniowego;
+- **3)** informacja o sposobie rozstrzygnięcia zapotrzebowania wraz z datą wydania rozstrzygnięcia;
+- **4)** informacja o sposobie rozstrzygnięcia wniosku wraz z datą decyzji;
+- **5)** dane dotyczące produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego:
+    - **a)** nazwa handlowa,
+    - **b)** nazwa międzynarodowa w przypadku produktu leczniczego,
+    - **c)** postać,
+    - **d)** dawka,
+    - **e)** ilość,
+    - **f)** podmiot odpowiedzialny;
+
+- **6)** imię, nazwisko, numer PESEL świadczeniobiorcy;
+- **7)** adres oraz dane kontaktowe świadczeniobiorcy;
+- **8)** rozpoznanie choroby;
+- **9)** dane konsultanta z danej dziedziny medycyny potwierdzającego zasadność objęcia refundacją:
+    - **a)** imię i nazwisko,
+    - **b)** numer prawa wykonywania zawodu,
+    - **c)** kwalifikacje zawodowe, w tym posiadane tytuły zawodowy i naukowy;
+
+- **10)** data i numer decyzji administracyjnej w zakresie refundacji;
+- **11)** informacja o rozstrzygnięciu.
+
+5. Administratorem danych zawartych w rejestrach, o których mowa w ust. 1, jest minister właściwy do spraw zdrowia.
+
+6. Podmiotem odpowiedzialnym za funkcjonowanie systemu teleinformatycznego, o którym mowa w ust. 2, jest jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych w ochronie zdrowia.
 
 **Art. 4e.**
 
@@ -1615,6 +2097,44 @@ source: "isap-pdf"
 5. Informacja, o której mowa w ust. 1, nie zastępuje recepty.
 
 **Art. 96c.** Apteka może informować pacjenta o możliwości realizacji recept lub zleceń w postaci elektronicznej.”;
+
+- **13)** w art. 100:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) oznaczenie podmiotu, jego siedzibę i adres, a w przypadku podmiotu będącego osobą fizyczną – imię, nazwisko oraz adres prowadzenia działalności gospodarczej;”, – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 w brzmieniu: „7) dane apteki, takie jak numer telefonu, numer faksu, adres e-mail, adres strony www, jeśli apteka takie posiada;
+
+- **8)** dni i godziny pracy apteki.”,
+    - **b)** w ust. 2 pkt 5 otrzymuje brzmienie: „5) imię i nazwisko farmaceuty odpowiedzialnego za prowadzenie apteki, jego identyfikator jako pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, oraz dokumenty potwierdzające spełnienie wymagań określonych w art. 88 ust. 2;”,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Dokumenty, o których mowa w ust. 2, składa się w postaci elektronicznej albo papierowej.”,
+    - **d)** ust. 3 otrzymuje brzmienie: „3. Wniosek, o którym mowa w ust. 1, ubiegający się o zezwolenie składa do wojewódzkiego inspektora farmaceutycznego w postaci elektronicznej.”;
+
+- **14)** w art. 102 pkt 1 otrzymuje brzmienie: „1) nazwę i siedzibę podmiotu, na rzecz którego zostało wydane zezwolenie, a w przypadku podmiotu będącego osobą fizyczną – imię, nazwisko i adres, pod którym jest wykonywana działalność gospodarcza;”;
+- **15)** w art. 107:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Rejestr zezwoleń na prowadzenie aptek ogólnodostępnych, punktów aptecznych zawiera:
+
+- **1)** dane określone w art. 100 ust. 1 pkt 1, 7 i 8;
+- **2)** numer REGON;
+- **3)** unikalny identyfikator apteki lub punktu;
+- **4)** imię i nazwisko kierownika apteki albo kierownika punktu oraz jego identyfikator jako pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **5)** dane określone w art. 102 pkt 2–6;
+- **6)** datę podjęcia działalności przez aptekę lub punkt;
+- **7)** datę cofnięcia albo wygaszenia zezwolenia.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Podmiot prowadzący aptekę ogólnodostępną lub punkt apteczny jest obowiązany do przekazywania do właściwego miejscowo wojewódzkiego inspektora farmaceutycznego informacji o zmianie danych określonych w ust. 2 pkt 1, 3–5, niezwłocznie po wystąpieniu zmiany.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Rejestr udzielonych zgód na prowadzenie aptek szpitalnych, zakładowych i działów farmacji szpitalnej zawiera:
+
+- **1)** nazwę (firmę), adres podmiotu leczniczego, na rzecz którego została udzielona zgoda, a w przypadku osoby fizycznej – imię, nazwisko i adres;
+- **2)** numer REGON;
+- **3)** adres apteki lub działu;
+- **4)** dane apteki lub działu – numer telefonu, numer faksu, adres e-mail, adres strony internetowej, jeżeli takie posiada;
+- **5)** dni i godziny pracy apteki lub działu;
+- **6)** zakres działalności apteki lub działu;
+- **7)** imię i nazwisko kierownika apteki lub działu oraz jego identyfikator jako pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **8)** unikalny identyfikator apteki lub działu;
+- **9)** datę podjęcia działalności przez aptekę lub dział;
+- **10)** datę cofnięcia albo wygaszenia zgody.”,
+    - **d)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Podmiot prowadzący aptekę szpitalną, zakładową i dział farmacji szpitalnej jest obowiązany do przekazywania do właściwego miejscowo wojewódzkiego inspektora farmaceutycznego informacji o zmianie danych objętych rejestrem, o którym mowa w ust. 3, niezwłocznie po wystąpieniu zmiany.”,
+    - **e)** ust. 4 otrzymuje brzmienie: „4. Zmiana danych określonych w ust. 2 i 3 wymaga wprowadzenia zmian w rejestrach, o których mowa w ust. 1.”,
+    - **f)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Dane zawarte w rejestrach, o których mowa w ust. 1, określone w ust. 2 i 3, są dostępne publicznie.”;
+
+- **16)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „Rozdział 7a Kształcenie podyplomowe farmaceutów
 
 **Art. 107a.**
 
@@ -2171,6 +2691,10 @@ source: "isap-pdf"
 
 **Art. 107u.** Do zadań Zespołu Egzaminacyjnego przeprowadzającego dany PESF należy:
 
+- **1)** przeprowadzenie PESF zgodnie z regulaminem porządkowym, o którym mowa w art. 107w ust. 8;
+- **2)** przekazanie do CEM kart odpowiedzi, niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminów ustnego i praktycznego oraz dokumentacji związanej z przeprowadzonym PESF, niezwłocznie po zakończonym PESF, nie później jednak niż w terminie 14 dni od dnia zakończenia PESF.
+
 **Art. 107w.**
 
 1. Zakres PESF jest zgodny z programem danego szkolenia specjalizacyjnego.
@@ -2354,9 +2878,213 @@ source: "isap-pdf"
 
 **Art. 7.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 5:
+    - **a)** po pkt 32a dodaje się pkt 32b w brzmieniu: „32b) skierowanie – skierowanie w postaci elektronicznej, a w postaci papierowej w przypadku:
+    - **a)** braku dostępu do systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm. ),
+    - **b)** osoby o nieustalonej tożsamości,
+    - **c)** skierowania do zakładu opiekuńczo-leczniczego i zakładu pielęgnacyjno-opiekuńczego,
+    - **d)** skierowania na badania i konsultacje psychologiczne,
+    - **e)** skierowania z zakresu prawa pracy,
+    - **f)** skierowania na rehabilitację leczniczą,
+    - **g)** skierowania, o którym mowa w art. 42b ust. 3;”,
+    - **b)** pkt 37 otrzymuje brzmienie: „37) świadczenie zdrowotne rzeczowe – związane z procesem leczenia leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne;”,
+    - **c)** w pkt 41 lit. d otrzymuje brzmienie: „d) podmiot realizujący czynności z zakresu zaopatrzenia w wyroby medyczne;”,
+    - **d)** pkt 42 otrzymuje brzmienie: „42) procedura medyczna – postępowanie diagnostyczne, lecznicze, pielęgnacyjne, profilaktyczne, rehabilitacyjne lub orzecznicze przy uwzględnieniu wskazań do jego przeprowadzenia, realizowane w warunkach określonej infrastruktury zdrowotnej przy zastosowaniu produktów leczniczych i wyrobów medycznych;”;
+
+- **2)** w art. 20:
+    - **a)** w ust. 2 pkt 5 otrzymuje brzmienie: „5) przechowuje oryginał skierowania w postaci papierowej przekazany przez świadczeniobiorcę, w przypadku świadczeń opieki zdrowotnej udzielanych na podstawie skierowania.”,
+    - **b)** ust. 2a otrzymuje brzmienie: „2a. W przypadku świadczeń opieki zdrowotnej udzielanych na podstawie skierowania, świadczeniobiorca jest obowiązany:
+
+- **1)** dostarczyć świadczeniodawcy oryginał skierowania w postaci papierowej, nie później niż w terminie 14 dni roboczych od dnia dokonania wpisu na listę oczekujących, pod rygorem skreślenia z listy oczekujących, albo
+- **2)** udostępnić świadczeniodawcy, przed dokonaniem wpisu na listę oczekujących, kod dostępu do skierowania w postaci elektronicznej oraz nr PESEL, a w przypadku osoby, która nie ma nadanego numeru PESEL – numer paszportu lub innego dokumentu potwierdzającego tożsamość.”, z 2014 r. poz. 101, z późn. zm. ).”,
+    - **c)** po ust. 2a dodaje się ust. 2aa w brzmieniu: „2aa. Do terminu dostarczenia świadczeniodawcy oryginału skierowania w postaci papierowej stosuje się przepisy art. 165 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U.
+    - **d)** ust. 2b otrzymuje brzmienie: „2b. W przypadku skreślenia świadczeniobiorcy z listy oczekujących w wyniku rezygnacji z udzielenia świadczenia, niezgłoszenia się na ustalony termin udzielenia świadczenia albo zakończenia przez świadczeniodawcę wykonywania umowy o udzielenie świadczeń opieki zdrowotnej świadczeniodawca:
+
+- **1)** zwraca świadczeniobiorcy oryginał skierowania, w przypadku skierowania w postaci papierowej, albo
+- **2)** umożliwia ponowne użycie skierowania w postaci elektronicznej przez odpowiednią zmianę jego statusu w systemie teleinformatycznym, o który mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w przypadku skierowania w postaci elektronicznej.”,
+    - **e)** ust. 10c otrzymuje brzmienie: „10c. Świadczeniodawca, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej, jest obowiązany wydać świadczeniobiorcy zaświadczenie o wpisaniu na listę oczekujących wraz z podaniem daty zgłoszenia się świadczeniobiorcy. Za wydanie zaświadczenia świadczeniobiorca nie ponosi opłaty.”;
+
+- **3)** art. 35 otrzymuje brzmienie: „Art. 35. Świadczeniobiorcy przyjętemu do szpitala lub innego przedsiębiorstwa podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz przy wykonywaniu zabiegów leczniczych i pielęgnacyjnych, diagnostycznych i rehabilitacyjnych przez podmioty uprawnione do udzielania świadczeń, a także przy udzielaniu przez te podmioty pomocy w stanach nagłych, zapewnia się bezpłatnie leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, jeżeli są one konieczne do wykonania świadczenia.”;
+- **4)** art. 40 otrzymuje brzmienie: „Art. 40. Zaopatrzenie w wyroby medyczne przysługuje świadczeniobiorcom na podstawie zlecenia albo recepty wystawionych przez osobę uprawnioną, o której mowa w art. 2 pkt 14 ustawy o refundacji, na zasadach określonych w tej ustawie.”;
+- **5)** w art. 42b w ust. 11 pkt 2 otrzymuje brzmienie: „2) innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na podstawie zlecenia wystawionego przez osobę uprawnioną, o której mowa w art. 2 pkt 14 ustawy o refundacji, na zasadach określonych w tej ustawie.”;
+- **6)** w art. 43 ust. 3 otrzymuje brzmienie: „3. Osoba realizująca receptę odnotowuje numer i rodzaj dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1:
+- **1)** na rewersie recepty, w przypadku recepty w postaci papierowej;
+- **2)** w dokumencie elektronicznym powiązanym z receptą w postaci elektronicznej.”;
+- **7)** w art. 44:
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Osobom, o którym mowa w ust. 1, 1a i 1c, receptę może wystawić osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji.
+
+3. Osoby, o których mowa w ust. 1, 1a i 1c, są obowiązane do okazania wystawiającemu receptę dokumentu potwierdzającego przysługujące uprawnienie.”,
+
+- **b)** ust. 5 otrzymuje brzmienie: „5. Osoba realizująca receptę jest obowiązana do odnotowania numeru i rodzaju dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1, 1a i 1c:
+- **1)** na rewersie recepty, w przypadku recepty w postaci papierowej;
+- **2)** w dokumencie elektronicznym powiązanym z receptą w postaci elektronicznej.”;
+- **8)** w art. 45 ust. 5a otrzymuje brzmienie: „5a. Osoba realizująca receptę odnotowuje numer i rodzaj dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1:
+- **1)** na rewersie recepty, w przypadku recepty w postaci papierowej;
+- **2)** w dokumencie elektronicznym powiązanym z receptą w postaci elektronicznej.”;
+- **9)** w art. 46 ust. 6 otrzymuje brzmienie: „6. Osoba realizująca receptę odnotowuje numer i rodzaj dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1:
+- **1)** na rewersie recepty, w przypadku recepty w postaci papierowej;
+- **2)** w dokumencie elektronicznym powiązanym z receptą w postaci elektronicznej.”;
+- **10)** art. 47:
+    - **a)** ust. 1–2a otrzymują brzmienie: „1. Inwalidom wojennym i wojskowym, cywilnym niewidomym ofiarom działań wojennych oraz osobom represjonowanym przysługuje prawo do bezpłatnych wyrobów medycznych na zlecenie osoby uprawnionej, o której mowa w art. 2 pkt 14 ustawy o refundacji, do wysokości limitu finansowania ze środków publicznych określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji.
+
+2. Uprawnionemu żołnierzowi lub pracownikowi, w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa, przysługuje prawo do bezpłatnych wyrobów medycznych na zlecenie osoby uprawnionej, o której mowa w art. 2 pkt 14 ustawy o refundacji, do wysokości limitu finansowania ze środków publicznych określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji.
+
+2a. Weteranowi poszkodowanemu w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa, przysługuje prawo do bezpłatnych wyrobów medycznych na zlecenie osoby uprawnionej, o której mowa w art. 2 pkt 14 ustawy o refundacji, do wysokości limitu finansowania ze środków publicznych określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji.”,
+
+- **b)** po ust. 2d dodaje się ust. 2e i 2f w brzmieniu: „2e. Osoby, o których mowa w ust. 1–2a są obowiązane do okazania wystawiającemu zlecenie dokumentu potwierdzającego przysługujące uprawnienie.
+
+2f. Wystawiający zlecenie jest obowiązany wpisać na zleceniu rodzaj, numer, datę wydania i termin ważności dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1–2a.”;
+
+- **11)** tytuł Rozdziału 5 otrzymuje brzmienie: „Dokumenty służące do potwierdzenia i weryfikacji prawa do świadczeń opieki zdrowotnej”;
+- **12)** w art. 53 ust. 1a otrzymuje brzmienie: „1a. W przypadku wydania poświadczenia, o którym mowa w ust. 1, prawo osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji może zostać potwierdzone w sposób określony w art. 50 ust. 1 lub ust. 3.”;
+- **13)** w art. 56:
+    - **a)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Dokonanie przez świadczeniobiorcę wyboru, o którym mowa w ust. 1, może nastąpić za pomocą systemu, o którym mowa w art. 10 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.”,
+    - **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku, o którym mowa w ust. 1b, deklaracje wyboru świadczeniodawca przechowuje w module podstawowym, o którym mowa w art. 14 ust. 1 pkt 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.”;
+
+- **14)** po art. 59a dodaje się art. 59b w brzmieniu: „Art. 59b. 1. W przypadku skierowania w postaci elektronicznej, świadczeniobiorca otrzymuje informację o wystawionym skierowaniu zawierającą następujące dane:
+- **1)** klucz dostępu do skierowania;
+- **2)** kod dostępu do skierowania;
+- **3)** identyfikator zbioru wersji skierowania;
+- **4)** datę wystawienia skierowania;
+- **5)** imię i nazwisko świadczeniobiorcy;
+- **6)** imię i nazwisko osoby wystawiającej skierowanie;
+- **7)** numer prawa wykonywania zawodu osoby wystawiającej skierowanie;
+- **8)** numer telefonu kontaktowego do osoby wystawiającej skierowanie;
+- **9)** nazwę dokumentu, jeżeli jest inna niż „skierowanie”;
+- **10)** typ skierowania zgodny z klasyfikacją skierowań stosowaną w Systemie Informacji Medycznej, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **11)** informację „przypadek pilny”, jeżeli dotyczy;
+- **12)** oznaczenie rodzaju podmiotu, do którego kieruje się świadczeniobiorcę, jeżeli dotyczy;
+- **13)** wskazane przez osobę wystawiającą skierowanie miejsce jego realizacji, jeżeli dotyczy.
+
+2. Informację, o której mowa w ust. 1, świadczeniobiorca otrzymuje:
+
+- **1)** na adres poczty elektronicznej wskazany w systemie informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **2)** na wskazany w systemie informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, numer telefonu, w formie wiadomości tekstowej zawierającej kod dostępu, o którym mowa w ust. 1 pkt 2, oraz informację o wymagalności numeru dokumentu potwierdzającego tożsamość przy realizacji skierowania;
+- **3)** w przypadku braku wskazania w systemie informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia danych, o których mowa w pkt 1 i 2, oraz na każde żądanie świadczeniobiorcy, w formie wydruku, a w przypadku udzielania świadczenia zdrowotnego w miejscu wezwania i braku możliwości przekazania informacji w formie wydruku, w innej uzgodnionej formie.
+
+3. Informację, o której mowa w ust. 2 pkt 3, wydaje osoba wystawiająca skierowanie.
+
+4. Informacja o wystawionym skierowaniu nie może zawierać żadnych innych treści, w szczególności o charakterze reklamy.
+
+5. Informacja o wystawionym skierowaniu nie zastępuje skierowania.”;
+
+- **15)** w art. 64 w ust. 1 pkt 3 otrzymuje brzmienie: „3) zasadności wyboru leków, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosowanych w leczeniu, rehabilitacji i badaniach diagnostycznych;”;
+- **16)** w art. 87 ust. 10d otrzymuje brzmienie: „10d. Zakres danych dotyczących wszystkich osób posiadających prawo do zasiłku, o których mowa w art. 67 ust. 6, i wszystkich osób, które złożyły wniosek o emeryturę lub rentę, o których mowa w art. 67 ust. 7, obejmuje dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, tytuł uprawnienia oraz datę odpowiednio powstania i ustania prawa do zasiłku albo datę zgłoszenia wniosku o emeryturę lub rentę, a w przypadku osób, o których mowa w art. 67 ust. 6 – także okres, na który przyznano prawo do zasiłku, określony w decyzji Zakładu Ubezpieczeń Społecznych.”;
+- **17)** w art. 102 w ust. 5:
+    - **a)** po pkt 24a dodaje się pkt 24b w brzmieniu: „24b) rozpatrywanie odwołań od decyzji administracyjnych, o których mowa w art. 53 ust. 2a ustawy o refundacji;”,
+    - **b)** uchyla się pkt 30,
+    - **c)** w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „34) prowadzenie i utrzymywanie elektronicznego systemu monitorowania programów lekowych, o którym mowa w art. 188c.”;
+
+- **18)** w art. 107 w ust. 5:
+    - **a)** pkt 13 otrzymuje brzmienie: „13) przeprowadzanie kontroli świadczeniodawców, aptek i osób uprawnionych, o których mowa w ustawie o refundacji, z wyłączeniem lekarza ubezpieczenia zdrowotnego, felczera ubezpieczenia zdrowotnego, pielęgniarki ubezpieczenia zdrowotnego i położnej ubezpieczenia zdrowotnego, o których mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej;”,
+    - **b)** uchyla się pkt 21 i 22,
+    - **c)** w pkt 23 kropkę zastępuje się średnikiem i dodaje się pkt 24 w brzmieniu: „24) wydawanie decyzji administracyjnych, o których mowa w art. 52a ust. 2a ustawy o refundacji.”;
+
+- **19)** w art. 108 w ust. 1 pkt 2 otrzymuje brzmienie: „2) aptece, mającej siedzibę na terenie województwa, koszty leków, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych wydawanych osobie, o której mowa w pkt 1”;
+- **20)** art. 159 w ust. 1 pkt 3 otrzymuje brzmienie: „3) do umów, o których mowa w art. 41 ust. 1 ustawy o refundacji.”;
+- **21)** w art. 188:
+    - **a)** w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) prowadzenia i utrzymywania elektronicznego systemu monitorowania programów lekowych, o którym mowa w art. 188c.”,
+    - **b)** po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. Fundusz jest uprawniony do uzyskiwania i przetwarzania danych osobowych związanych z wystawieniem recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne oraz ich realizacją w aptece.”;
+
+- **22)** w art. 188a:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „W celu realizacji zadań określonych w ustawie Fundusz jest uprawniony do przetwarzania następujących danych osobowych osób wystawiających recepty na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, osób udzielających świadczeń na podstawie umów o udzielanie świadczeń opieki zdrowotnej oraz ubiegających się o zawarcie takich umów:”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) informacji o prawomocnych orzeczeniach sądów o skazaniu za przestępstwo określone w art. 54 ust. 2, 3 lub 5 ustawy o refundacji lub art. 228–230, art. 286 lub art. 296a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ).”;
+
+- **23)** po art. 188b dodaje się art. 188c w brzmieniu: „Art. 188c. 1. Prezes Funduszu jest obowiązany do prowadzenia i utrzymywania elektronicznego systemu monitorowania programów lekowych, o których mowa w ustawie o refundacji.
+
+2. Elektroniczny system monitorowania programów lekowych umożliwia przetwarzanie danych w zakresie:
+
+- **1)** spełniania przez świadczeniobiorców kryteriów włączenia do programu lekowego;
+- **2)** kwalifikacji świadczeniobiorców do programu lekowego;
+- **3)** zastosowanej terapii, w tym sposobu podawania i dawkowania leku albo środka spożywczego specjalnego przeznaczenia żywieniowego;
+- **4)** monitorowania przebiegu terapii i oceny jej skuteczności;
+- **5)** terminu i przyczyny wyłączenia z programu lekowego;
+- **6)** oceny skuteczności programu lekowego.
+
+3. Warunkiem rozliczenia kosztów leku stosowanego w ramach programu lekowego oraz kosztów związanych z nim świadczeń opieki zdrowotnej jest prawidłowe i terminowe przekazanie danych, o których mowa w ust. 2.
+
+4. W przypadku utworzenia nowego programu lekowego:
+
+- **1)** Prezes Funduszu dostosowuje system, o którym mowa w ust. 1, do nowego programu lekowego w terminie 4 miesięcy od dnia ogłoszenia pierwszego obwieszczenia, o którym mowa w art. 37 ust. 1 ustawy o refundacji, zawierającego ten program;
+- **2)** warunek, o którym mowa w ust. 3, obowiązuje od pierwszego dnia 6 miesiąca następującego po dniu ogłoszenia pierwszego obwieszczenia, o którym mowa w art. 37 ust. 1 ustawy o refundacji, zawierającego ten program.
+
+5. W przypadku zmiany programu lekowego, Prezes Funduszu dostosowuje system, o który mowa w ust. 1, do tej zmiany w terminie 4 miesięcy od dnia ogłoszenia obwieszczenia, o którym mowa w art. 37 ust. 1 ustawy o refundacji, zawierającego tę zmianę.
+
+6. Fundusz jest uprawniony do uzyskiwania i przetwarzania danych w zakresie realizacji programów lekowych, o których mowa w ustawie o refundacji.”;
+
+- **24)** w art. 191 w ust. 2 pkt 3 otrzymuje brzmienie: „3) monitorowania stanu zdrowia i zapotrzebowania świadczeniobiorców innych niż ubezpieczeni na świadczenia opieki zdrowotnej, leki i wyroby medyczne.”;
+- **25)** w art. 192 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, sposób, tryb i terminy występowania do Funduszu oraz udostępniania przez Fundusz informacji, o których mowa w ust. 1, mając na uwadze zakres informacji, o jaką występuje świadczeniobiorca, konieczność zapewnienia właściwej identyfikacji i uwierzytelniania świadczeniobiorcy i osoby działającej w cudzym imieniu oraz ochrony danych osobowych przed nieuprawnionym dostępem lub ujawnieniem.”.
+
 **Art. 8.** W ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793 i 1893) wprowadza się następujące zmiany:
 
+- **1)** w art. 7 po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant” udostępnia dane zawarte w centralnym rejestrze sprzeciwów systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm. ).”;
+- **2)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Administratorem danych przetwarzanych w rejestrach, o których mowa w art. 7, art. 15, art. 16 i art. 18, oraz liście, o której mowa w art. 17, jest Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”.
+
+2. Rejestry oraz lista, o których mowa w ust. 1, są prowadzone z wykorzystaniem systemów teleinformatycznych.
+
+3. Administrator danych, o którym mowa w ust. 1, w celu zapewnienia eksploatacji systemów teleinformatycznych, o których mowa w ust. 2, może powierzać przetwarzanie danych podmiotom wyspecjalizowanym w zapewnianiu obsługi technicznej systemów teleinformatycznych.
+
+4. Podmioty, o których mowa w ust. 3, są obowiązane do stworzenia warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych, w szczególności zabezpieczenia danych przed nieuprawnionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą. Dane przetwarzane w rejestrach oraz liście, o której mowa w ust. 1, podlegają ochronie na poziomie wysokim, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182 i 1662 oraz z 2015 r. poz. 1309).
+
+5. Administrator danych, o którym mowa w ust. 1, może kontrolować podmioty, o których mowa w ust. 3, w zakresie realizacji wymagań, o których mowa w ust. 4, oraz sposobu realizacji celów powierzenia danych przetwarzanych w rejestrach, o których mowa w ust. 1.
+
+6. Podmioty, o których mowa w ust. 3, nie mogą powierzać innym podmiotom przetwarzania danych gromadzonych w rejestrach oraz liście, o których mowa w ust. 1.
+
+7. W przypadku zaprzestania przetwarzania danych gromadzonych w rejestrach, o których mowa w art. 7, art. 15, art. 16 i art. 18, oraz liście, o której mowa w art. 17, przez podmioty, o których mowa w ust. 3, w szczególności w związku z ich likwidacją, podmioty te są obowiązane do przekazania danych gromadzonych w tych rejestrach oraz liście administratorowi danych, o którym mowa w ust. 1.
+
+8. Podmioty, o których mowa w ust. 3, są obowiązane do zachowania w tajemnicy informacji związanych z pacjentem uzyskanych w związku z powierzeniem przetwarzania danych, o którym mowa w ust. 3. Podmioty te są związane tajemnicą także po śmierci pacjenta.”.
+
 **Art. 9.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. 2013 r. poz. 757, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Zawód ratownika medycznego może wykonywać osoba, która:
+- **1)** posiada pełną zdolność do czynności prawnych;
+- **2)** posiada stan zdrowia pozwalający na wykonywanie tego zawodu;
+- **3)** wykazuje znajomość języka polskiego w stopniu wystarczającym do wykonywania tego zawodu i złożyła oświadczenie o następującej treści: „Oświadczam, że władam językiem polskim w mowie i piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego”, z zastrzeżeniem ust. 2;
+- **4)** spełnia następujące wymagania: z 2016 r. poz. 65).
+    - **a)** rozpoczęła przed dniem 30 września 2012 r. studia wyższe na kierunku (specjalności) ratownictwo medyczne i uzyskała tytuł zawodowy licencjata lub magistra na tym kierunku (specjalności), lub
+    - **b)** rozpoczęła po dniu 30 września 2012 r. studia wyższe na kierunku studiów związanym z kształceniem w zakresie ratownictwa medycznego, obejmujące co najmniej 2455 godzin kształcenia i co najmniej 80 punktów ECTS, o których mowa w art. 2 ust. 1 pkt 18d ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ), zwanych dalej „punktami ECTS”, w zakresie ratownictwa medycznego i uzyskała tytuł zawodowy licencjata, lub
+    - **c)** rozpoczęła po dniu 30 września 2016 r. studia wyższe na kierunku studiów związanym z kształceniem w zakresie ratownictwa medycznego, obejmujące co najmniej 2455 godzin kształcenia i co najmniej 80 punktów ECTS w zakresie ratownictwa medycznego i uzyskała tytuł zawodowy licencjata oraz odbyła sześciomiesięczną praktykę w podmiotach określonych w art. 10a ust. 9, zwaną dalej „praktyką”, oraz złożyła z wynikiem pozytywnym Państwowy Egzamin z Ratownictwa Medycznego, zwany dalej „PERM”, lub
+    - **d)** rozpoczęła przed dniem 1 marca 2013 r. naukę w publicznej szkole policealnej lub niepublicznej szkole policealnej o uprawnieniach szkoły publicznej i uzyskała dyplom potwierdzający uzyskanie tytułu zawodowego ratownik medyczny albo dyplom potwierdzający kwalifikacje zawodowe w zawodzie ratownik medyczny, lub
+    - **e)** posiada dyplom wydany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem uzyskiwanym w Rzeczypospolitej Polskiej, potwierdzającym tytuł zawodowy ratownika medycznego i uzyskała prawo pobytu na terytorium Rzeczypospolitej Polskiej zgodnie z odrębnymi przepisami, lub
+    - **f)** posiada kwalifikacje do wykonywania zawodu ratownika medycznego nabyte w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, uznane w Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U.
+
+2. Wymóg złożenia oświadczenia, o którym mowa w ust. 1 pkt 3, nie dotyczy osoby, która ukończyła studia wyższe na kierunku (specjalności) ratownictwo medyczne lub studia w zakresie ratownictwa medycznego, prowadzone w języku polskim lub publiczną szkołę policealną lub niepubliczną szkołę policealną o uprawnieniach szkoły publicznej, kształcącą w języku polskim.”;
+
+- **2)** po art. 10 dodaje się art. 10a–10h w brzmieniu: „Art. 10a. 1. Do praktyki przystępuje osoba, która rozpoczęła po dniu 30 września 2016 r. studia wyższe na kierunku studiów związanym z kształceniem w zakresie ratownictwa medycznego, o których mowa w art. 10 ust. 1 pkt 4 lit. c, i złożyła ostatni wymagany planem studiów egzamin.
+
+2. Praktyka rozpoczyna się nie później niż z dniem 1 października, i kończy się po 6 miesiącach, pod warunkiem zrealizowania pełnego programu praktyki w wymiarze 960 godzin dydaktycznych, przy czym godzina dydaktyczna realizacji zajęć w ramach praktyki trwa 45 minut.
+
+3. Okres praktyki ulega przedłużeniu o czas nieobecności osoby odbywającej praktykę w okresie pobierania świadczeń określonych w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159, z późn. zm. ) na wniosek osoby odbywającej praktykę.
+
+4. Okres praktyki może być skrócony na uzasadniony wniosek osoby odbywającej praktykę, o okres nie dłuższy niż 1/2 okresu praktyki.
+
+5. Wniosek, o którym mowa w ust. 3 i 4, osoba odbywająca praktykę, składa do opiekuna, o którym mowa w ust. 6. Opiekun przekazuje rozstrzygnięcie do kierownika, o którym mowa w ust. 10.
+
+6. Osoba odbywająca praktykę wykonuje zadania zawodowe wynikające z ramowego programu praktyki pod bezpośrednim nadzorem opiekuna.
+
+7. Opiekunem może być lekarz sytemu lub pielęgniarka systemu lub ratownik medyczny, wykonujący zawód w podmiocie określonym w ust. 9, posiadający co najmniej 5-letni staż pracy w zawodzie.
+
+8. Osoba odbywająca praktykę prowadzi dziennik praktyki, który zawiera:
+
+- **1)** oznaczenie kierownika, o którym mowa w ust. 10;
+- **2)** imię i nazwisko osoby odbywającej praktykę;
+- **3)** numer PESEL, a w przypadku braku numeru PESEL cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania;
+- **4)** datę rozpoczęcia praktyki;
+- **5)** imię i nazwisko opiekuna;
+- **6)** wykaz czynności praktycznych wykonywanych przez osobę odbywającą praktykę;
+- **7)** wykaz zaliczonych umiejętności określonych w programie praktyki;
+- **8)** rozstrzygnięcie w sprawie skrócenia praktyki oraz informację o jego przekazaniu do kierownika, o którym mowa w ust. 10, jeżeli dotyczy;
+- **9)** datę ukończenia praktyki.
+
+9. Praktyka odbywa się w podmiotach leczniczych, o których mowa w art. 89 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm. ), będących dysponentami jednostek systemu Państwowe Ratownictwo Medyczne.
+
+10. Osoby, o których mowa w ust. 1, odbywają praktykę na podstawie skierowania przez kierownika jednostki organizacyjnej uczelni prowadzącej działalność dydaktyczną w dziedzinie nauk medycznych, na której są prowadzone studia wyższe na kierunku studiów związanym z kształceniem w zakresie ratownictwa medycznego, o którym mowa w art. 10 ust. 1 pkt 4 lit. c, w ramach ustalonego przez niego harmonogramu i czasu jego odbywania w wymiarze maksymalnym 40 godzin tygodniowo, zgodnie z ramowym programem praktyki.
+
+11. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** ramowy program praktyki,
+- **2)** sposób odbywania, skrócenia, dokumentowania i zaliczania praktyki,
+- **3)** wzór dziennika praktyki – uwzględniając zakres wiedzy niezbędnej do wykonywania zawodu oraz formę i sposób prowadzenia dziennika.
 
 **Art. 10b.**
 
@@ -2509,6 +3237,17 @@ source: "isap-pdf"
 
 **Art. 10g.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** zakres problematyki uwzględnianej przy opracowywaniu pytań testowych PERM, uwzględniając zakres wiedzy i umiejętności, które powinien posiadać ratownik medyczny,
+- **2)** tryb powoływania członków Komisji Egzaminacyjnej, o której mowa w art. 10c ust. 2, oraz wysokość wynagrodzenia dla przewodniczącego i członków Zespołów Egzaminacyjnych,
+- **3)** wzór oświadczenia, o którym mowa w art. 10c ust. 9,
+- **4)** sposób i szczegółowy tryb przeprowadzania PERM, w tym okres, w którym powinny być wyznaczone ich terminy – uwzględniając konieczność sprawnego i efektywnego przeprowadzenia PERM, zachowania bezstronności pracy Komisji Egzaminacyjnej i Zespołów Egzaminacyjnych, nakład pracy przewodniczącego i członków Komisji Egzaminacyjnej;
+- **5)** wysokość opłaty, o której mowa w art. 10b ust. 10, oraz sposób jej uiszczania, uwzględniając koszty przeprowadzenia PERM oraz wydania dokumentu potwierdzającego złożenie PERM,
+- **6)** szczegółowy tryb unieważniania PERM,
+- **7)** szczegółowy sposób ustalania wyników PERM – uwzględniając konieczność sprawnego i efektywnego przeprowadzenia PERM;
+- **8)** wzór świadectwa złożenia PERM,
+- **9)** tryb wydawania przez dyrektora CEM duplikatu albo odpisu świadectwa złożenia PERM oraz sposób uiszczania opłaty, o której mowa w art. 10f ust. 6,
+- **10)** tryb dokonywania przez dyrektora CEM korekty świadectwa złożenia PERM oraz sposób uiszczania opłaty, o której mowa w art. 10f ust. 6 – uwzględniając konieczność prawidłowego i sprawnego wydania dokumentu potwierdzającego złożenie PERM.
+
 **Art. 10h.**
 
 1. Jeżeli ratownik medyczny spełniający warunki, o których mowa w art. 10, nie wykonuje zawodu w zakresie udzielenia świadczeń opieki zdrowotnej przez okres dłuższy niż 5 lat łącznie w okresie ostatnich 6 lat, a zamierza podjąć wykonywanie zawodu ratownika medycznego przez udzielanie tych świadczeń, jest obowiązany do odbycia przeszkolenia.
@@ -2649,27 +3388,624 @@ source: "isap-pdf"
 
 **Art. 12e.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** formy samokształcenia, o którym mowa w art. 12 ust. 2 pkt 2,
+- **2)** sposób i tryb odbywania doskonalenia zawodowego przez ratowników medycznych,
+- **3)** zakres doskonalenia zawodowego ratowników medycznych,
+- **4)** wzór wniosku o wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego oraz zaświadczenia o wpisie na tę listę,
+- **5)** sposób potwierdzania, dokumentowania i zatwierdzania poszczególnych form doskonalenia zawodowego,
+- **6)** wzór karty doskonalenia zawodowego – uwzględniając zapewnienie jednolitości odbywania doskonalenia zawodowego, szybkości i jednolitości postępowania oraz przejrzystości wniosku, dokumentowania oraz zatwierdzania form doskonalenia zawodowego i karty doskonalenia zawodowego.
+
 **Art. 12f.** Koszty doskonalenia zawodowego ponosi ratownik medyczny lub podmiot, u którego ratownik medyczny wykonuje zawód, lub jednostka prowadząca szkolenie.
 
 **Art. 12g.** Podmiot, u którego ratownik medyczny wykonuje zawód, jest obowiązany ułatwić ratownikowi medycznemu aktualizowanie wiedzy i umiejętności przez uczestnictwo w różnych rodzajach i formach doskonalenia zawodowego.
 
 **Art. 12h.** Ratownik medyczny przedstawia podmiotowi, u którego wykonuje zawód, dokumenty poświadczające realizację obowiązku określonego w art. 12 ust. 1.”;
 
+- **5)** w art. 17:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Wojewoda prowadzi w postaci elektronicznej rejestr jednostek współpracujących z systemem, zwany dalej „rejestrem”.”,
+    - **b)** dodaje się ust. 7 w brzmieniu: „7. Administratorem rejestru, o którym mowa w ust. 1, jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.”;
+
+- **6)** w art. 21 w ust. 4 pkt 3 otrzymuje brzmienie: „3) informację o centrum urazowym oraz centrum urazowym dla dzieci wraz z informacją o zakresie świadczeń opieki zdrowotnej, niezbędnych do realizacji jego zadań, jeżeli centrum urazowe lub centrum urazowe dla dzieci znajduje się na obszarze danego województwa.”;
+- **7)** w art. 23:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Wojewoda prowadzi ewidencję jednostek systemu, o których mowa w art. 32 ust. 1, na obszarze województwa. Ewidencja jest prowadzona w systemie teleinformatycznym.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Ewidencja, o której mowa w ust. 1, zawiera:
+
+- **1)** kolejny numer wpisu do ewidencji;
+- **2)** daty: wpisu i wykreślenia z ewidencji;
+- **3)** numer REGON przedsiębiorstwa podmiotu leczniczego, w strukturze którego działa jednostka systemu, o której mowa w art. 32 ust. 1;
+- **4)** adres siedziby podmiotu leczniczego;
+- **5)** adres szpitalnego oddziału ratunkowego lub adres miejsca stacjonowania zespołów ratownictwa medycznego, w tym lotniczych zespołów ratownictwa medycznego, na terenie województwa;
+- **6)** identyfikator terytorialny miejscowości lub dzielnicy lokalizacji jednostki systemu;
+- **7)** całodobowy numer telefonu dysponenta jednostki;
+- **8)** adres poczty elektronicznej podmiotu leczniczego, jeżeli posiada;
+- **9)** datę rozpoczęcia, zmiany i zakończenia realizacji umów, o których mowa w art. 23 ust. 2 i 3;
+- **10)** czas pozostawania w gotowości poszczególnych zespołów ratownictwa medycznego na terenie województwa (okres w roku i liczba godzin na dobę).”,
+    - **c)** dodaje się ust. 5 w brzmieniu: „5. Administratorem systemu, o którym mowa w ust. 1 zdanie drugie, jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.”;
+
+- **8)** po art. 23 dodaje się art. 23a i art. 23b w brzmieniu: „Art. 23a. 1. Wojewoda prowadzi ewidencję centrów urazowych, centrów urazowych dla dzieci i jednostek organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego. Ewidencja jest prowadzona w systemie teleinformatycznym.
+
+2. Ewidencja, o której mowa w ust. 1, zawiera następujące dane:
+
+- **1)** numer kolejny wpisu do ewidencji;
+- **2)** daty wpisu i wykreślenia z ewidencji;
+- **3)** nazwę podmiotu leczniczego;
+- **4)** numer REGON przedsiębiorstwa podmiotu leczniczego, w strukturze którego działa centrum urazowe lub jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
+- **5)** adres siedziby podmiotu leczniczego;
+- **6)** adres centrum urazowego, centrum urazowego dla dzieci lub jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego na terenie województwa;
+- **7)** całodobowy numer telefonu podmiotu leczniczego;
+- **8)** całodobowy adres poczty elektronicznej podmiotu leczniczego;
+- **9)** identyfikator terytorialny miejscowości lub dzielnicy lokalizacji oddziałów szpitalnych wchodzących w skład centrum urazowego;
+- **10)** identyfikator terytorialny miejscowości lub dzielnicy lokalizacji jednostek organizacyjnych szpitala wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
+- **11)** nazwę własną oddziału szpitalnego;
+- **12)** specjalność zgodnie z VIII częścią kodu resortowego;
+- **13)** datę rozpoczęcia, zmiany i zakończenia realizacji umów o udzielanie świadczeń opieki zdrowotnej zawartych zgodnie z art. 47.
+
+3. Dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia, w terminie 30 dni od dnia zawarcia umowy na udzielanie świadczeń opieki zdrowotnej przez jednostki, o których mowa w ust. 1, przekazuje wojewodzie dane, o których mowa w ust. 2 pkt 12.
+
+4. Administratorem systemu teleinformatycznego ewidencji, o której mowa w ust. 1, jest jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych w ochronie zdrowia.
+
 **Art. 23b.** Wojewoda przekazuje do systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia dane, o których mowa w art. 17, art. 23 i art. 23a.”;
+
+- **9)** w art. 24a ust. 4 otrzymuje brzmienie: „4. SWD PRM przekazuje dane do systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.”;
+- **10)** w art. 26:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Dyspozytor medyczny ma prawo i obowiązek, doskonalenia zawodowego w różnych rodzajach i formach kształcenia, w szczególności:
+
+- **1)** kursu doskonalącego;
+- **2)** samokształcenia.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Do doskonalenia zawodowego dyspozytorów medycznych przepisy art. 12–12h stosuje się odpowiednio.”,
+    - **c)** dodaje się ust. 5 w brzmieniu: „5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** formy samokształcenia, o którym mowa w ust. 3 pkt 2,
+- **2)** sposób i tryb odbywania doskonalenia zawodowego przez dyspozytorów medycznych,
+- **3)** zakres doskonalenia zawodowego dyspozytorów medycznych,
+- **4)** wzór wniosku o wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego,
+- **5)** sposób potwierdzania dokumentowania i zatwierdzania poszczególnych form doskonalenia zawodowego dyspozytorów medycznych,
+- **6)** wzór karty doskonalenia zawodowego dyspozytorów medycznych – uwzględniając zapewnienie jednolitości odbywania doskonalenia zawodowego, szybkości i jednolitości postępowania oraz przejrzystości wniosku, dokumentowania i zatwierdzania form doskonalenia zawodowego i karty doskonalenia zawodowego.”;
+- **11)** w art. 31 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) podmiotów prowadzących kursy doskonalące ratowników medycznych i kursy doskonalące dyspozytorów medycznych pod względem spełnienia wymagań określonych w przepisach wydanych odpowiednio na podstawie art. 12e i art. 26 ust. 5.”.
 
 **Art. 10.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** art. 24 otrzymuje brzmienie: „Art. 24. 1. W celu realizacji prawa, o którym mowa w art. 23 ust. 1, podmiot udzielający świadczeń zdrowotnych jest obowiązany prowadzić, przechowywać i udostępniać dokumentację medyczną w sposób określony w niniejszym rozdziale oraz w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm. ), a także zapewnić ochronę danych zawartych w tej dokumentacji.
+
+2. Osoby wykonujące zawód medyczny oraz inne osoby, wykonujące czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, a także czynności związane z utrzymaniem systemu teleinformatycznego, w którym przetwarzana jest dokumentacja medyczna, i zapewnieniem bezpieczeństwa tego systemu, na podstawie upoważnienia administratora danych, są uprawnione do przetwarzania danych zawartych w dokumentacji medycznej, o której mowa w art. 25, w celu ochrony zdrowia, udzielania oraz zarządzania udzielaniem świadczeń zdrowotnych, utrzymania systemu teleinformatycznego, w którym przetwarzana jest dokumentacja medyczna i zapewnieniem bezpieczeństwa tego systemu.
+
+3. Osoby upoważnione przez administratora danych, o których mowa w ust. 2, są obowiązane do zachowania w tajemnicy informacji związanych z pacjentem uzyskanych w związku z wykonywaniem zadań. Osoby te są związane tajemnicą także po śmierci pacjenta.
+
+4. Podmiot udzielający świadczeń zdrowotnych może zawrzeć umowę, o której mowa w art. 31 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182 i 1662 oraz z 2015 r. poz. 1309), pod warunkiem zapewnienia ochrony danych osobowych oraz prawa do kontroli przez podmiot udzielający świadczeń zdrowotnych zgodności przetwarzania danych osobowych z tą umową przez podmiot przyjmujący te dane.
+
+5. Realizacja umowy, o której mowa w ust. 4, nie może powodować zakłócenia udzielania świadczeń zdrowotnych, w szczególności w zakresie zapewnienia, bez zbędnej zwłoki, dostępu do danych zawartych w dokumentacji medycznej.
+
+6. Podmiot, któremu powierzono przetwarzanie danych osobowych zgodnie z ust. 4, jest obowiązany do zachowania w tajemnicy informacji związanych z pacjentem uzyskanych w związku z realizacją umowy, o której mowa w ust. 4. Podmiot ten jest związany tajemnicą także po śmierci pacjenta.
+
+7. W przypadku zaprzestania przetwarzania danych osobowych zawartych w dokumentacji medycznej przez podmiot, któremu powierzono takie przetwarzanie, w szczególności w związku z jego likwidacją, jest on zobowiązany do przekazania danych osobowych zawartych w dokumentacji medycznej podmiotowi, o którym mowa w ust. 1, który powierzył przetwarzanie danych osobowych.”;
+
+- **2)** w art. 26 dodaje się ust. 5 w brzmieniu: „5. Elektroniczna dokumentacja medyczna, o której mowa w art. 2 pkt 6 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, jest udostępniana na zasadach określonych w przepisach tej ustawy.”;
+- **3)** w art. 27:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) poprzez sporządzenie jej wyciągów, odpisów, kopii lub wydruków;”,
+    - **b)** w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) za pośrednictwem środków komunikacji elektronicznej;
+
+- **5)** na informatycznym nośniku danych.”;
+- **4)** w art. 28:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Za udostępnienie dokumentacji medycznej w sposób określony w art. 27 pkt 2 i 5 podmiot udzielający świadczeń zdrowotnych może pobierać opłatę.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Opłatę za udostępnienie dokumentacji medycznej w sposób określony w art. 27 pkt 2 i 5 ustala podmiot udzielający świadczeń zdrowotnych.”,
+    - **c)** w ust. 4 pkt 3 otrzymuje brzmienie: „3) udostępnienie dokumentacji medycznej na elektronicznym nośniku danych – nie może przekraczać 0,0004 przeciętnego wynagrodzenia, o którym mowa w pkt 1.”;
+
+- **5)** art. 30a otrzymuje brzmienie: „Art. 30a. 1. Dokumentacja medyczna po zaprzestaniu udzielania świadczeń zdrowotnych przez podmiot udzielający świadczeń zdrowotnych jest przechowywana i udostępniana:
+- **1)** w przypadku elektronicznej dokumentacji medycznej, o której mowa w przepisach wydanych na podstawie art. 13 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia – przez jednostkę podległą ministrowi właściwemu do spraw zdrowia, właściwą w zakresie systemów informacyjnych ochrony zdrowia systemu, w Systemie Informacji Medycznej, o którym mowa w art. 10 tej ustawy;
+- **2)** w przypadku dokumentacji medycznej innej niż w pkt 1 – przez podmiot wskazany w sposób określony w przepisach wydanych na podstawie art. 30.
+
+2. W stosunku do jednostki, o której mowa w ust. 1 pkt 1, stosuje się przepisy art. 13, art. 14, art. 23–29 i przepisy wydane na podstawie art. 30.
+
+3. W stosunku do podmiotu, o którym mowa w ust. 1 pkt 2, stosuje się przepisy art. 26–29 i przepisy wydane na podstawie art. 30.”.
+
 **Art. 11.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2013 r. poz. 947, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 27:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Lekarz lub felczer, który podejrzewa lub rozpoznaje zakażenie, chorobę zakaźną lub zgon z powodu zakażenia lub choroby zakaźnej, określone na podstawie ust. 9 pkt 1, jest obowiązany do zgłoszenia tego faktu właściwemu państwowemu inspektorowi sanitarnemu określonemu na podstawie ust. 9 pkt 2. Zgłoszenia dokonuje się niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili powzięcia podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej.
+
+2. Kierownicy podmiotów wykonujących działalność leczniczą zapewniają warunki organizacyjne i techniczne niezbędne do realizacji obowiązku, o którym mowa w ust. 1, oraz sprawują nadzór nad jego wykonywaniem.”,
+
+- **b)** w ust. 4 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) obywatelstwo;”,
+- **c)** ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+- **1)** zakażenia i choroby zakaźne, w przypadku których podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z ich powodu dokonywane są zgłoszenia, o którym mowa w ust. 1,
+- **2)** sposób dokonywania zgłoszeń podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej, o których mowa w ust. 1, oraz właściwych państwowych inspektorów sanitarnych, którym są przekazywane te zgłoszenia,
+- **3)** wzory formularzy zgłoszeń podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej – uwzględniając konieczność ochrony danych osobowych, stworzenia rozwiązań umożliwiających prowadzenie skutecznego nadzoru epidemiologicznego oraz stopień zagrożenia zakażeniem lub chorobą zakaźną.”;
+- **2)** w art. 29:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Diagnosta laboratoryjny lub inna osoba uprawniona do samodzielnego wykonywania czynności diagnostyki laboratoryjnej, w przypadku uzyskania dodatniego wyniku badania w kierunku biologicznego czynnika chorobotwórczego zgodnie z przepisami wydanymi na podstawie ust. 7 pkt 1, są obowiązani do zgłoszenia tego faktu właściwemu państwowemu inspektorowi sanitarnemu określonemu zgodnie z przepisami wydanymi na podstawie ust. 7 pkt 2. Zgłoszenia dokonuje się niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili uzyskania wyniku.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Kierownicy laboratoriów diagnostycznych zapewniają warunki organizacyjne i techniczne dla realizacji obowiązku, o którym mowa w ust. 1, oraz sprawują nadzór nad jego wykonywaniem.”,
+    - **c)** w ust. 3 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) obywatelstwo;”,
+    - **d)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** biologiczne czynniki chorobotwórcze podlegające obowiązkowi zgłoszenia, o którym mowa w ust. 1, oraz przesłanki dokonywania zgłoszeń,
+- **2)** sposób dokonywania zgłoszeń dodatnich wyników badania w kierunku biologicznych czynników chorobotwórczych oraz właściwych państwowych inspektorów sanitarnych, którym są przekazywane te zgłoszenia,
+- **3)** wzory formularzy zgłoszeń dodatnich wyników badania w kierunku biologicznych czynników chorobotwórczych – uwzględniając stopień zagrożenia czynnikami chorobotwórczymi, konieczność ochrony danych osobowych oraz stworzenia rozwiązań umożliwiających prowadzenie skutecznego nadzoru epidemiologicznego.”.
 
 **Art. 12.** W ustawie z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2015 r. poz. 651 i 1066) wprowadza się następujące zmiany:
 
+- **1)** w art. 39 dodaje się ust. 6 i 7 w brzmieniu: „6. Naczelna Rada Lekarska jest obowiązana na żądanie ministra właściwego do spraw zdrowia przekazywać nieodpłatnie dane zawarte w Centralnym Rejestrze Lekarzy Rzeczypospolitej Polskiej.
+
+7. Dane zawarte w Centralnym Rejestrze Lekarzy Rzeczypospolitej Polskiej mogą zostać udostępnione podmiotom biorącym udział w procesie kształcenia przeddyplomowego i podyplomowego lekarza i lekarza dentysty:
+
+- **1)** uczelniom,
+- **2)** Centrum Medycznego Kształcenia Podyplomowego,
+- **3)** Centrum Egzaminów Medycznych,
+- **4)** jednostkom akredytowanym w rozumieniu art. 19f ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty,
+- **5)** wojewodom,
+- **6)** Ministrowi Obrony Narodowej,
+- **7)** ministrowi właściwemu do spraw wewnętrznych,
+- **8)** konsultantom krajowym w ochronie zdrowia – w związku z wykonywanymi przez nich zadaniami.”;
+- **2)** w art. 49 w ust. 5 po pkt 44 dodaje się pkt 44a w brzmieniu: „44a) datę zgonu – w przypadku śmierci lekarza;”.
+
 **Art. 13.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2015 r. poz. 345 i 1830) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 14 otrzymuje brzmienie: „14) osoba uprawniona – osobę posiadającą prawo wykonywania zawodu medycznego, która na podstawie przepisów dotyczących wykonywania danego zawodu medycznego, jest uprawniona do wystawiania recept zgodnie z ustawą oraz ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne oraz zleceń na zaopatrzenie w wyroby medyczne, o których mowa w art. 38;”;
+- **2)** w art. 18 ust. 3 otrzymuje brzmienie: „3. Komisja na podstawie dokumentu stanowiącego wynik negocjacji, sporządzonego w postaci elektronicznej, podpisanego przez strony negocjacji, podejmuje uchwałę w drodze głosowania elektronicznego za pomocą Systemu Obsługi List Refundacyjnych, o którym mowa w art. 30a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm. ), zwanego dalej „SOLR”, i przekazuje ją niezwłocznie ministrowi właściwemu do spraw zdrowia.”;
+- **3)** w art. 19:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rozpatrując wnioski, o których mowa w art. 24 ust. 1, Komisja prowadzi negocjacje w składzie pięcioosobowym, zwanym dalej „zespołem negocjacyjnym”, z tym że w każdym składzie powinien znaleźć się przedstawiciel Prezesa Funduszu.”;
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Wynikiem negocjacji jest dokument sporządzony w postaci elektronicznej w trakcie negocjacji podpisany przez przewodniczącego zespołu negocjacyjnego oraz wnioskodawcę za pomocą podpisu potwierdzonego profilem zaufanym ePUAP lub kwalifikowanym podpisem elektronicznym, przekazywany następnie Komisji w celu podjęcia uchwały.”;
+
+- **4)** w art. 24:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Wnioskodawca składa odrębny wniosek dla każdej dawki, wielkości opakowania, kategorii dostępności refundacyjnej, o której mowa w art. 6 ust. 1, lub poziomu odpłatności leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Wnioski wraz z załącznikami oraz inne wnioski, pisma ministra właściwego do spraw zdrowia oraz pisma strony składane w postępowaniu w zakresie wydania decyzji administracyjnej w sprawie refundacji leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego składa się w postaci elektronicznej za pomocą SOLR.”,
+    - **c)** po ust. 6 dodaje się ust. 6a–6d w brzmieniu: „6a. Wnioski, o których mowa w ust. 1, oraz dokumenty, o których mowa w ust. 2, opatruje się podpisem potwierdzonym profilem zaufanym ePUAP lub kwalifikowanym podpisem elektronicznym.
+
+6b. Z wnioskodawcami, o których mowa w ust. 1, minister właściwy do spraw zdrowia komunikuje się za pomocą SOLR.
+
+6c. W przypadku braku dostępu do SOLR na skutek awarii systemu lub działania siły wyższej, termin na dokonanie czynności dotyczących postępowania w sprawie refundacji leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego uznaje się za zachowany pod warunkiem dokonania w wyznaczonym terminie czynności w postaci papierowej. Dokumentacja złożona w postaci papierowej, po uzyskaniu dostępu do SOLR, jest wprowadzana przez ministra właściwego do spraw zdrowia do systemu w terminie trzech dni roboczych od dnia przywrócenia funkcjonalności systemu.
+
+6d. W uzasadnionych przypadkach, gdy wystąpi brak dostępu do SOLR na skutek awarii systemu lub działania siły wyższej, jest możliwe dokonanie czynności w zakresie wydania decyzji administracyjnej w sprawie refundacji leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego bez pośrednictwa SOLR. Przepis ust. 6c w zakresie wprowadzania do systemu dokumentacji stosuje się odpowiednio.”,
+
+- **d)** w ust. 7 uchyla się pkt 1;
+- **5)** w art. 25:
+    - **a)** w pkt 5 lit. a i b otrzymują brzmienie: „a) nazwę, jego postać, rodzaj, drogę podania albo sposób zastosowania oraz rodzaj opakowania,
+    - **b)** numer pozwolenia oraz kopię decyzji o dopuszczeniu do obrotu leku albo kopię powiadomienia o wprowadzeniu do obrotu środka spożywczego specjalnego przeznaczenia żywieniowego albo kopię powiadomienia lub zgłoszenia wyrobu medycznego,”,
+    - **b)** pkt 9–11 otrzymują brzmienie: „9) dzienny koszt terapii dla leku, odrębnie dla każdego wskazania określonego w pkt 6 lit. a;
+
+- **10)** średni koszt standardowej terapii dla leku, odrębnie dla każdego wskazania określonego w pkt 6 lit. a;
+- **11)** czas trwania standardowej terapii dla leku oraz środka spożywczego specjalnego przeznaczenia żywieniowego, odrębnie dla każdego wskazania określonego w pkt 6 lit. a;”,
+    - **c)** pkt 13 otrzymuje brzmienie: „13) informacje dotyczące upływu okresu wyłączności danych oraz wyłączności rynkowej, jeżeli dotyczy;”,
+    - **d)** w pkt 14 uchyla się lit. b;
+
+- **6)** w art. 26:
+    - **a)** w pkt 1: – po lit. b dodaje się lit. ba w brzmieniu: „ba) numer decyzji, której urzędowa cena zbytu ma ulec zmianie,”, – w lit. d tiret pierwsze i tiret drugie otrzymują brzmienie: „– nazwę, jego postać, rodzaj, drogę podania albo sposób zastosowania oraz rodzaj opakowania, – numer pozwolenia oraz kopię decyzji o dopuszczeniu do obrotu leku albo kopię powiadomienia o wprowadzeniu do obrotu środka spożywczego specjalnego przeznaczenia żywieniowego albo kopię powiadomienia lub zgłoszenia wyrobu medycznego,”, – lit. j–l otrzymują brzmienie: „j) dzienny koszt terapii dla leku, odrębnie dla każdego wskazania objętego refundacją,
+    - **k)** średni koszt standardowej terapii dla leku, odrębnie dla każdego wskazania objętego refundacją,
+    - **l)** czas trwania standardowej terapii dla leku oraz środka spożywczego specjalnego przeznaczenia żywieniowego, odrębnie dla każdego wskazania objętego refundacją,”,
+    - **b)** w pkt 2: – po lit. b dodaje się lit. ba w brzmieniu: „ba) numer decyzji, której urzędowa cena zbytu ma ulec zmianie,”, – w lit. d tiret pierwsze i tiret drugie otrzymują brzmienie: „– nazwę, jego postać, rodzaj, drogę podania albo sposób zastosowania oraz rodzaj opakowania, – numer pozwolenia oraz kopię decyzji o dopuszczeniu do obrotu leku albo kopię powiadomienia o wprowadzeniu do obrotu środka spożywczego specjalnego przeznaczenia żywieniowego albo kopię powiadomienia lub zgłoszenia wyrobu medycznego,”, – lit. k–m otrzymują brzmienie: „k) dzienny koszt terapii dla leku, odrębnie dla każdego wskazania objętego refundacją,
+    - **l)** średni koszt standardowej terapii dla leku, odrębnie dla każdego wskazania objętego refundacją,
+    - **m)** czas trwania standardowej terapii dla leku oraz środka spożywczego specjalnego przeznaczenia żywieniowego, odrębnie dla każdego wskazania objętego refundacją,”;
+
+- **7)** w art. 27:
+    - **a)** w pkt 4: – lit. a i b otrzymują brzmienie: „a) nazwę, jego postać, rodzaj, drogę podania albo sposób zastosowania oraz rodzaj opakowania,
+    - **b)** numer pozwolenia oraz kopię decyzji o dopuszczeniu do obrotu leku albo kopię powiadomienia o wprowadzeniu do obrotu środka spożywczego specjalnego przeznaczenia żywieniowego, albo kopię powiadomienia lub zgłoszenia wyrobu medycznego,”, – po lit. b dodaje się lit. ba w brzmieniu: „ba) numer decyzji, której urzędowa cena zbytu ma ulec zmianie,”,
+    - **b)** uchyla się pkt 5–7;
+
+- **8)** po art. 32 dodaje się art. 32a w brzmieniu: „Art. 32a. 1. Wnioskodawca składa do ministra właściwego do spraw zdrowia wniosek o założenie konta w SOLR umożliwiającego za pomocą tego systemu:
+- **1)** składanie wniosków w postaci elektronicznej;
+- **2)** komunikowanie się z ministrem właściwym do spraw zdrowia.
+
+2. Wniosek o założenie konta w SOLR zawiera oznaczenie (firmę) wnioskodawcy, adres siedziby albo miejsca wykonywania działalności gospodarczej, a także imię i nazwisko, telefon, telefaks, adres poczty elektronicznej i adres korespondencyjny osoby upoważnionej do jego reprezentowania w sprawie tego wniosku.
+
+3. Do wniosku o założenie konta w SOLR dołącza się:
+
+- **1)** aktualny odpis z rejestru, do którego wnioskujący o założenie konta jest wpisany, lub równoważny mu dokument wystawiony poza granicami Rzeczypospolitej Polskiej, wydany nie wcześniej niż 3 miesiące przed dniem złożenia wniosku; w przypadku wnioskodawców zagranicznych należy dodatkowo dołączyć tłumaczenie odpowiedniego dokumentu na język polski sporządzone i poświadczone przez tłumacza przysięgłego albo sprawdzone i poświadczone przez tłumacza przysięgłego, wykonującego zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2015 r. poz. 487 i 1505), lub przez tłumacza przysięgłego mającego siedzibę na terytorium państwa członkowskiego;
+- **2)** upoważnienie do reprezentowania wnioskodawcy, jeżeli dotyczy;
+- **3)** dowód uiszczenia opłaty za założenie konta.
+
+4. Wniosek o założenie konta w SOLR wraz z załącznikami składa się w postaci papierowej i elektronicznej.
+
+5. Opłatę za złożenie wniosku w wysokości 500 zł wnosi się na rachunek bankowy urzędu obsługującego ministra właściwego do spraw zdrowia.
+
+6. Opłata za złożenie wniosku stanowi dochód budżetu państwa.
+
+7. Po rozpatrzeniu wniosku o założenie konta w SOLR, minister właściwy do spraw zdrowia zakłada wnioskodawcy konto (login i hasło), które służy do administrowania udostępnioną wnioskodawcy częścią SOLR. Login i hasło przesyła się w terminie 21 dni od dnia otrzymania wniosku na wskazany we wniosku adres poczty elektronicznej.
+
+8. Wniosek o założenie konta w SOLR złożony w postaci elektronicznej opatruje się podpisem potwierdzonym profilem zaufanym ePUAP lub kwalifikowanym podpisem elektronicznym.”;
+
+- **9)** w art. 35:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wniosek, o którym mowa w art. 24 ust. 1 pkt 1, dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, który nie ma odpowiednika refundowanego w danym wskazaniu, wraz z analizami, o których mowa w art. 25 pkt 14 lit. c, a także wniosek, o którym mowa w art. 24 ust. 1 pkt 2, dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, który nie ma odpowiednika refundowanego w danym wskazaniu, jeżeli w uzasadnieniu wniosku są podane argumenty związane z efektem zdrowotnym, dodatkowym efektem zdrowotnym lub kosztami ich uzyskania wraz z analizami, o których mowa w art. 26 pkt 2 lit. h oraz i, minister właściwy do spraw zdrowia niezwłocznie przekazuje Prezesowi Agencji za pomocą SOLR, w celu przygotowania:”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadku stwierdzenia, że wniosek nie spełnia wymagań określonych w przepisach wydanych na podstawie art. 24 ust. 7 pkt 2, Prezes Agencji wzywa wnioskodawcę do uzupełnienia analiz za pomocą SOLR, wyznaczając mu 21 dni na uzupełnienie dokumentacji. Bieg terminów, o których mowa w art. 31 ust. 4 i 5, ulega zawieszeniu.”,
+    - **c)** ust. 8 i 9 otrzymują brzmienie: „8. Prezes Agencji przekazuje ministrowi właściwemu do spraw zdrowia rekomendację za pomocą SOLR, w terminie nie dłuższym niż 60 dni od dnia otrzymania dokumentów określonych w ust. 1.
+
+9. Minister właściwy do spraw zdrowia przekazuje Komisji, za pomocą SOLR, wniosek, o którym mowa w ust. 1, wraz z analizą weryfikacyjną Agencji, stanowiskiem Rady Przejrzystości, rekomendacją Prezesa Agencji oraz innymi dokumentami, na podstawie których przygotowana została rekomendacja, celem przeprowadzenia negocjacji warunków objęcia refundacją.”;
+
+- **10)** art. 36 otrzymuje brzmienie: „Art. 36. Wniosek, o którym mowa w art. 24 ust. 1 pkt 1, dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, który ma swój odpowiednik refundowany w danym wskazaniu, oraz wnioski, o których mowa w art. 24 ust. 1 pkt 2–5, minister właściwy do spraw zdrowia przekazuje Komisji za pomocą SOLR, celem przeprowadzenia negocjacji.”;
+- **11)** w art. 37 dodaje się ust. 8 w brzmieniu: „8. Minister właściwy do spraw zdrowia przekazuje do systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dane objęte obwieszczeniem, o którym mowa w ust. 1, w terminie nie krótszym niż 10 dni przed dniem wejścia w życie obwieszczenia.”;
+- **12)** w art. 38:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Świadczeniobiorcom przysługuje, na zasadach określonych w ustawie, zaopatrzenie w wyroby medyczne, na zlecenie osoby uprawnionej, oraz ich naprawa. Kontynuacja zaopatrzenia w wyroby medyczne określone w przepisach wydanych na podstawie ust. 4 może odbywać się także na zlecenie pielęgniarki i położnej, o których mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.”,
+    - **b)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Zlecenia na zaopatrzenie i zlecenia naprawy są wystawiane w postaci elektronicznej albo papierowej.
+
+4b. Zlecenia w postaci papierowej wystawia się w przypadku:
+
+- **1)** braku dostępu do systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **2)** zlecenia dla osoby o nieustalonej tożsamości;
+- **3)** zlecenia, o którym mowa w art. 42b ust. 11 pkt 2 ustawy o świadczeniach.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Zlecenie na zaopatrzenie zawiera:
+
+- **1)** dane świadczeniobiorcy:
+    - **a)** imię albo imiona i nazwisko albo oznaczenie „NN” w przypadku osób o nieustalonej tożsamości,
+    - **b)** adres (nazwa miejscowości, ulica, numer domu, kod pocztowy, numer lokalu, jeżeli nadano): – miejsca zamieszkania albo – miejsca pełnienia służby wojskowej, jeżeli dotyczy, albo – urzędu gminy lub gminnego ośrodka pomocy społecznej – w przypadku świadczeniobiorcy, wobec którego wydano decyzję, o której mowa w art. 54 ust. 1 ustawy o świadczeniach, albo świadczeniodawcy, który udzielił świadczenia opieki zdrowotnej, albo – „NMZ” w przypadku osób o nieustalonym miejscu zamieszkania,
+    - **c)** identyfikator usługobiorcy w rozumieniu art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
+    - **d)** datę urodzenia pacjenta albo wiek pacjenta, w przypadku gdy numer PESEL nie został nadany albo jest nieustalony,
+    - **e)** kod uprawnienia dodatkowego, jeżeli dotyczy,
+    - **f)** rodzaj, numer, datę wydania, termin ważności dokumentu potwierdzającego uprawnienie dodatkowe, jeżeli dotyczy,
+    - **g)** adres poczty elektronicznej – w przypadku zlecenia w postaci elektronicznej, jeżeli posiada,
+    - **h)** numer telefonu – w przypadku zlecenia w postaci elektronicznej, jeżeli posiada,
+    - **i)** adres korespondencyjny – w przypadku zlecenia w postaci elektronicznej, jeżeli posiada;
+
+- **2)** dane dotyczące podmiotu, w ramach którego wystawiono zlecenie: o systemie informacji w ochronie zdrowia, jeżeli nadano;
+    - **a)** w przypadku podmiotu wykonującego działalność leczniczą – nazwę albo firmę, łącznie z nazwą jednostki organizacyjnej, i nazwę komórki organizacyjnej, jeżeli dotyczy,
+    - **b)** adres miejsca udzielania świadczenia opieki zdrowotnej, a w przypadku osób wykonujących działalność leczniczą wyłącznie w miejscu wezwania – adres miejsca przyjmowania wezwań i miejsca przechowywania dokumentacji medycznej,
+    - **c)** numer telefonu dostępny w miejscu udzielania świadczenia opieki zdrowotnej, a w przypadku osób wykonujących działalność leczniczą wyłącznie w miejscu wezwania – numer telefonu kontaktowego do osoby wystawiającej zlecenie,
+    - **d)** identyfikator miejsca udzielania świadczenia opieki zdrowotnej w rozumieniu art. 17c ust. 4 ustawy z dnia 28 kwietnia 2011 r.
+
+- **3)** dane dotyczące osoby wystawiającej zlecenie, które w przypadku zlecenia w postaci papierowej są nanoszone w sposób czytelny za pomocą nadruku, pieczątki lub naklejki przymocowanej do zlecenia w sposób uniemożliwiający jej usunięcie bez zniszczenia druku zlecenia:
+    - **a)** imię albo imiona i nazwisko osoby wystawiającej zlecenie,
+    - **b)** kwalifikacje zawodowe osoby wystawiającej zlecenie, w tym posiadany tytuł zawodowy i specjalizacja,
+    - **c)** identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
+    - **d)** numer telefonu do bezpośredniego kontaktu z osobą wystawiającą zlecenie,
+    - **e)** podpis, w przypadku zlecenia: – w postaci elektronicznej składany za pomocą bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym albo podpisu potwierdzonego profilem zaufanym ePUAP, albo – w postaci papierowej – podpis własnoręczny;
+
+- **4)** dane dotyczące wyrobu medycznego:
+    - **a)** określenie,
+    - **b)** liczbę porządkową, zgodnie z przepisami wydanymi na podstawie ust. 4,
+    - **c)** liczbę sztuk,
+    - **d)** uzasadnienie zalecenia na zaopatrzenie danym wyrobem,
+    - **e)** dodatkowe informacje istotne przy doborze: – stronę zaopatrzenia, jeżeli dotyczy, – dane dotyczące soczewek okularowych korekcyjnych, jeżeli dotyczy,
+    - **f)** miesiąc, którego dotyczy zaopatrzenie comiesięczne, jeżeli dotyczy;
+
+- **5)** datę wystawienia zlecenia;
+- **6)** dodatkowe wskazania osoby wystawiającej zlecenie;
+- **7)** numer identyfikujący zlecenie nadawany przez system teleinformatyczny usługodawcy lub system, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, a w przypadku zlecenia w postaci papierowej numer ewidencyjny zlecenia nadawany przez oddział wojewódzki Funduszu;
+- **8)** kod oddziału wojewódzkiego Funduszu, a w przypadku zleceń wydawanych na podstawie przepisów o koordynacji – kod kraju instytucji właściwej;
+- **9)** numer umowy o udzielanie świadczeń opieki zdrowotnej zawartej z oddziałem wojewódzkim Funduszu, jeżeli dotyczy;
+- **10)** sposób powiadomienia świadczeniobiorcy o potwierdzonym zleceniu na podstawie art. 38a ust. 7 – w przypadku zlecenia w postaci elektronicznej.”,
+    - **d)** po ust. 5 dodaje się ust. 5a–5e w brzmieniu: „5a. Potwierdzenie uprawnienia do zaopatrzenia w wyroby medyczne zawiera:
+
+- **1)** numer identyfikujący potwierdzenie uprawnienia do zaopatrzenia w wyroby medyczne nadawany przez system teleinformatyczny Funduszu – w przypadku zlecenia w postaci elektronicznej;
+- **2)** numer identyfikujący zlecenie, o którym mowa w ust. 5 pkt 7;
+- **3)** dane dotyczące wyrobu medycznego:
+    - **a)** określenie,
+    - **b)** liczbę porządkową nadaną zgodnie z przepisami wydanymi na podstawie ust. 4,
+    - **c)** liczbę sztuk,
+    - **d)** stronę zaopatrzenia, jeżeli dotyczy;
+
+- **4)** nazwę i kod oddziału wojewódzkiego Funduszu;
+- **5)** limit finansowania ze środków publicznych ustalony zgodnie z przepisami wydanymi na podstawie ust. 4;
+- **6)** poziom refundacji określony w procentach;
+- **7)** uzasadnienie odmowy potwierdzenia prawa do refundacji, jeżeli dotyczy;
+- **8)** datę potwierdzenia albo odmowy potwierdzenia zlecenia;
+- **9)** podpis: o podpisie elektronicznym albo za pomocą bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy wydawanego przez Fundusz ważnego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym, albo podpisu potwierdzonego profilem zaufanym ePUAP – w przypadku zlecenia w postaci elektronicznej, albo
+    - **a)** składany za pomocą bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r.
+    - **b)** podpis własnoręczny i pieczątka oddziału wojewódzkiego Funduszu – w przypadku zlecenia w postaci papierowej.
+
+5b. Realizacja zlecenia zawiera:
+
+- **1)** numer identyfikujący realizację zlecenia nadawany przez system teleinformatyczny usługodawcy lub system, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia – w przypadku zlecenia w postaci elektronicznej;
+- **2)** numer identyfikujący zlecenie, o którym mowa w ust. 5 pkt 7;
+- **3)** nazwę albo firmę realizatora, łącznie z nazwą i adresem miejsca realizacji zaopatrzenia;
+- **4)** identyfikator usługodawcy, o którym mowa w art. 17c ust. 3 pkt 3 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **5)** numer umowy o udzielanie świadczeń opieki zdrowotnej podmiotu realizującego czynności z zakresu zaopatrzenia w wyroby medyczne zawartej z oddziałem wojewódzkim Funduszu;
+- **6)** dane dotyczące wyrobu medycznego:
+    - **a)** liczbę porządkową, zgodnie z przepisami wydanymi na podstawie ust. 4,
+    - **b)** liczbę sztuk,
+    - **c)** wytwórcę, model, nazwę handlową,
+    - **d)** cenę detaliczną,
+    - **e)** kwotę refundacji,
+    - **f)** wysokość dopłaty świadczeniobiorcy,
+    - **g)** miesiąc, którego dotyczy zaopatrzenie przysługujące comiesięcznie, jeżeli dotyczy;
+
+- **7)** datę przyjęcia do realizacji;
+- **8)** datę realizacji (wydania);
+- **9)** imię i nazwisko osoby realizującej zlecenie;
+- **10)** imię i nazwisko osoby odbierającej;
+- **11)** numer PESEL, a w przypadku jego braku nazwę i numer dokumentu potwierdzającego tożsamość osoby odbierającej;
+- **12)** własnoręczny podpis osoby odbierającej.
+
+5c. W przypadku zlecenia na zaopatrzenie w postaci elektronicznej dane określone w ust. 5b pkt 4–12 są nanoszone na wydruku potwierdzającym odbiór wyrobu medycznego.
+
+5d. Karta potwierdzenia uprawnienia w postaci papierowej na zaopatrzenie w wyroby medyczne przysługujące comiesięcznie zawiera:
+
+- **1)** dane dotyczące świadczeniobiorcy:
+    - **a)** imię albo imiona i nazwisko albo oznaczenie „NN” w przypadku osób o nieustalonej tożsamości,
+    - **b)** adres (nazwa miejscowości, ulica, numer domu, kod pocztowy, numer lokalu, jeżeli nadano): – miejsca zamieszkania albo – miejsca pełnienia służby wojskowej, jeżeli dotyczy, albo – urzędu gminy lub gminnego ośrodka pomocy społecznej – w przypadku świadczeniobiorcy, wobec którego wydano decyzję, o której mowa w art. 54 ust. 1 ustawy o świadczeniach, albo świadczeniodawcy, który udzielił świadczenia opieki zdrowotnej, albo – „NMZ” w przypadku osób o nieustalonym miejscu zamieszkania,
+    - **c)** identyfikator usługobiorcy w rozumieniu art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
+    - **d)** datę urodzenia pacjenta albo wiek pacjenta, w przypadku gdy numer PESEL nie został nadany albo jest nieustalony;
+
+- **2)** dane dotyczące wyrobu medycznego:
+    - **a)** określenie,
+    - **b)** liczbę porządkową, zgodnie z przepisami wydanymi na podstawie ust. 4,
+    - **c)** liczbę sztuk,
+    - **d)** limit finansowania ze środków publicznych ustalony zgodnie z przepisami wydanymi na podstawie ust. 4,
+    - **e)** poziom refundacji określony w procentach;
+
+- **3)** okres ważności karty: od (miesiąc, rok) – do (miesiąc, rok);
+- **4)** nazwę i kod oddziału wojewódzkiego Funduszu;
+- **5)** numer ewidencyjny karty potwierdzenia uprawnienia na zaopatrzenie w wyroby medyczne przysługujące comiesięcznie nadawany przez oddział wojewódzki Funduszu;
+- **6)** pieczątkę i podpis pracownika oddziału wojewódzkiego Funduszu.
+
+5e. Potwierdzenie wystawionych zleceń w postaci papierowej na zaopatrzenie przysługujące comiesięcznie zawiera:
+
+- **1)** datę wystawienia zlecenia;
+- **2)** określenie wyrobu medycznego;
+- **3)** liczbę sztuk wyrobu medycznego;
+- **4)** miesiąc, którego dotyczy zaopatrzenie przysługujące comiesięcznie, jeżeli dotyczy;
+- **5)** datę realizacji (wydania) zlecenia;
+- **6)** pieczątkę i podpis własnoręczny osoby wystawiającej zlecenie;
+- **7)** pieczątkę i podpis własnoręczny osoby realizującej zlecenie.”,
+    - **e)** ust. 6 otrzymuje brzmienie: „6. Zlecenie naprawy zawiera:
+
+- **1)** dane dotyczące świadczeniobiorcy:
+    - **a)** imię albo imiona i nazwisko albo oznaczenie „NN” w przypadku osób o nieustalonej tożsamości,
+    - **b)** adres (nazwa miejscowości, ulica, numer domu, kod pocztowy, numer lokalu, jeżeli nadano): – miejsca zamieszkania albo – miejsca pełnienia służby wojskowej, jeżeli dotyczy, albo – urzędu gminy lub gminnego ośrodka pomocy społecznej – w przypadku świadczeniobiorcy, wobec którego wydano decyzję, o której mowa w art. 54 ust. 1 ustawy o świadczeniach, albo świadczeniodawcy, który udzielił świadczenia opieki zdrowotnej, albo – „NMZ” w przypadku osób o nieustalonym miejscu zamieszkania,
+    - **c)** identyfikator usługobiorcy, o którym mowa w art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
+    - **d)** datę urodzenia pacjenta albo wiek pacjenta, w przypadku gdy numeru PESEL nie został nadany albo jest nieustalony,
+    - **e)** adres poczty elektronicznej, jeżeli posiada – w przypadku zlecenia w postaci elektronicznej,
+    - **f)** numer telefonu – w przypadku zlecenia w postaci elektronicznej;
+
+- **2)** dane dotyczące wyrobu medycznego:
+    - **a)** określenie (wytwórca, model, nazwa handlowa),
+    - **b)** liczbę porządkową,
+    - **c)** liczbę sztuk,
+    - **d)** uzasadnienie naprawy;
+
+- **3)** numer identyfikujący zlecenie naprawy nadawany przez system teleinformatyczny Funduszu, a w przypadku zlecenia naprawy w postaci papierowej – numer ewidencyjny zlecenia nadawany przez oddział wojewódzki Funduszu;
+- **4)** potwierdzenie uprawnienia do naprawy wyrobu medycznego:
+    - **a)** nazwę i kod oddziału wojewódzkiego Funduszu,
+    - **b)** limit ceny naprawy,
+    - **c)** datę potwierdzenia zlecenia;
+
+- **5)** odmowę potwierdzenia uprawnienia do naprawy wyrobu medycznego, jeżeli dotyczy:
+    - **a)** przyczynę odmowy potwierdzenia,
+    - **b)** datę odmowy potwierdzenia;
+
+- **6)** informację o przedłużeniu okresu użytkowania wyrobu medycznego;
+- **7)** podpis, w przypadku zlecenia:
+    - **a)** w postaci elektronicznej – składany za pomocą bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym albo za pomocą bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy wydawanego przez Fundusz ważnego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym, albo podpisu potwierdzonego profilem zaufanym ePUAP, albo
+    - **b)** w postaci papierowej – podpis własnoręczny i pieczątka oddziału wojewódzkiego Funduszu.”,
+    - **f)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Realizacja zlecenia naprawy zawiera:
+
+- **1)** numer identyfikujący realizację zlecenia naprawy nadawany przez system teleinformatyczny usługodawcy lub system, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia – w przypadku zlecenia w postaci elektronicznej;
+- **2)** numer identyfikujący zlecenie naprawy, o którym mowa w ust. 6 pkt 3;
+- **3)** nazwę albo firmę realizatora, łącznie z nazwą i adresem miejsca realizacji zlecenia naprawy;
+- **4)** identyfikator usługodawcy, o którym mowa w art. 17c ust. 3 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **5)** numer umowy o udzielanie świadczeń opieki zdrowotnej podmiotu realizującego czynności z zakresu zaopatrzenia w wyroby medyczne zawartej z oddziałem wojewódzkim Funduszu;
+- **6)** dane dotyczące wyrobu medycznego:
+    - **a)** określenie,
+    - **b)** wytwórcę, model, nazwę handlową,
+    - **c)** opis przeprowadzonej naprawy wraz ze specyfikacją,
+    - **d)** okres gwarancji,
+    - **e)** cenę naprawy;
+
+- **7)** datę przyjęcia do realizacji;
+- **8)** datę realizacji (wydania);
+- **9)** imię i nazwisko osoby realizującej zlecenie naprawy;
+- **10)** imię i nazwisko osoby odbierającej;
+- **11)** numer PESEL, a w przypadku jego braku nazwę i numer dokumentu potwierdzającego tożsamość osoby odbierającej;
+- **12)** własnoręczny podpis osoby odbierającej.
+
+6b. W przypadku zlecenia w postaci elektronicznej dane określone w ust. 6a pkt 1, 2 i 6–12, są nanoszone na wydruku potwierdzającym odbiór wyrobu medycznego.”,
+
+- **g)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+- **1)** sposób i tryb realizacji zleceń w postaci elektronicznej i papierowej,
+- **2)** szczegółowy zakres danych zawartych w zleceniu w postaci elektronicznej i wzór zlecenia w postaci papierowej,
+- **3)** sposób przechowywania zleceń w postaci elektronicznej i papierowej,
+- **4)** sposób realizacji zleceń w postaci elektronicznej i w postaci papierowej, w tym autoryzacji zlecenia w postaci elektronicznej,
+- **5)** minimalne wymagania techniczne dla systemów teleinformatycznych, których spełnienie jest konieczne dla wystawiania i realizacji zleceń w postaci elektronicznej – uwzględniając konieczność zapewnienia prawidłowego wystawiania zleceń oraz prawidłowej ich realizacji, a także mając na uwadze konieczność zapewnienia bezpieczeństwa i integralności danych.”;
+- **13)** po art. 38 dodaje się art. 38a i art. 38b w brzmieniu: „Art. 38a. 1. W przypadku wystawienia zlecenia w postaci elektronicznej świadczeniobiorca otrzymuje informację o wystawionym zleceniu zawierającą następujące dane:
+- **1)** klucz dostępu;
+- **2)** kod dostępu;
+- **3)** identyfikator zlecenia;
+- **4)** rodzaj zlecenia;
+- **5)** datę wystawienia zlecenia;
+- **6)** miesiąc, na który wystawiono zlecenie, jeżeli dotyczy;
+- **7)** imię i nazwisko świadczeniobiorcy;
+- **8)** imię i nazwisko osoby wystawiającej zlecenie;
+- **9)** numer prawa wykonywania zawodu osoby wystawiającej zlecenie, w tym posiadany tytuł zawodowy i specjalizację;
+- **10)** numer telefonu do bezpośredniego kontaktu z osobą wystawiającą zlecenie;
+- **11)** liczbę porządkową wyrobu medycznego;
+- **12)** liczbę sztuk wyrobu medycznego;
+- **13)** określenie wyrobu medycznego.
+
+2. Informację, o której mowa w ust. 1, świadczeniobiorca otrzymuje:
+
+- **1)** na wskazany w systemie informacji w ochronie zdrowia adres poczty elektronicznej;
+- **2)** na wskazany w systemie informacji w ochronie zdrowia numer telefonu, w formie wiadomości tekstowej zawierającej kod dostępu, o którym mowa w ust. 1 pkt 2, oraz informację o wymagalności numeru dokumentu potwierdzającego tożsamość przy realizacji zlecenia;
+- **3)** w przypadku braku wskazania w systemie informacji w ochronie zdrowia danych, o których mowa w pkt 1 i 2, oraz na każde żądanie świadczeniobiorcy, w formie wydruku, a w przypadku udzielania świadczenia zdrowotnego w miejscu wezwania i braku możliwości przekazania informacji w formie wydruku – w innej uzgodnionej formie zawierającej kod dostępu i nazwę wyrobu medycznego.
+
+3. Informację przekazywaną w sposób, o którym mowa w ust. 2 pkt 3, przekazuje osoba wystawiająca zlecenie.
+
+4. Informacja, o której mowa w ust. 1, nie może zawierać żadnych innych treści, w szczególności o charakterze reklamowym.
+
+5. Informacja, o której mowa w ust. 1, nie zastępuje zlecenia.
+
+6. W przypadku wystawienia zlecenia na zaopatrzenie w postaci elektronicznej osoba wystawiająca przekazuje to zlecenie w systemie teleinformatycznym do Funduszu w celu potwierdzenia uprawnień świadczeniobiorcy.
+
+7. Fundusz, po weryfikacji uprawnień świadczeniobiorcy, przekazuje świadczeniobiorcy powiadomienie o potwierdzonym zleceniu zgodnie z wybranym przez świadczeniobiorcę sposobem:
+
+- **1)** na wskazany w systemie informacji w ochronie zdrowia adres poczty elektronicznej;
+- **2)** na wskazany w systemie informacji w ochronie zdrowia numer telefonu;
+- **3)** na wskazany w zleceniu numer telefonu;
+- **4)** na wskazany w zleceniu adres poczty elektronicznej;
+- **5)** na wskazany w zleceniu adres korespondencyjny;
+- **6)** osobiście we właściwym oddziale wojewódzkim Funduszu.
 
 **Art. 38b.** Zlecenie naprawy wystawiane jest w postaci elektronicznej, za pośrednictwem systemu informacji w ochronie zdrowia, w przypadku wystawienia zlecenia na zaopatrzenie w postaci elektronicznej.”;
 
+- **14)** w art. 41 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W celu obsługi umów na realizację recept, Fundusz jest uprawniony do przetwarzania danych osobowych osób, o których mowa w ust. 4 pkt 3.”;
+- **15)** w art. 44 ust. 2 otrzymuje brzmienie: „2. Osoba wydająca leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne objęte refundacją ma obowiązek, na żądanie świadczeniobiorcy, wydać lek, o którym mowa w ust. 1, którego cena detaliczna jest niższa niż cena leku przepisanego na recepcie. Nie dotyczy to sytuacji, w której osoba uprawniona umieściła odpowiedni wpis w recepcie – w przypadku recepty w postaci elektronicznej, lub adnotację na druku recepty – w przypadku recepty w postaci papierowej, wskazując na niemożność dokonania zamiany przepisanego leku.”;
+- **16)** w art. 47 w ust. 7 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) dostępu do recept, danych, dokumentacji i informacji w postaci elektronicznej oraz wglądu w nie za pośrednictwem systemu informacji w ochronie zdrowia.”;
+- **17)** w art. 48:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Realizacja świadczeń, o których mowa w art. 15 ust. 2 pkt 14, 17 i 18 ustawy o świadczeniach, przysługuje świadczeniobiorcy na podstawie recepty wystawionej przez osobę uprawnioną, o której mowa w art. 2 pkt 14. Realizacja świadczeń, o których mowa w art. 15 ust. 2 pkt 9 ustawy o świadczeniach, przysługuje świadczeniobiorcy na podstawie zlecenia wystawionego przez osobę uprawnioną, o której mowa w art. 2 pkt 14.”,
+    - **b)** uchyla się ust. 2,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Recepty w postaci papierowej na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne opatrzone są unikalnymi numerami identyfikującymi recepty, nadawanymi przez dyrektora oddziału wojewódzkiego Funduszu.”,
+    - **d)** uchyla się ust. 3 i 4,
+    - **e)** ust. 5 otrzymuje brzmienie: „5. W przypadku prawomocnego skazania za przestępstwo określone w art. 54 ust. 2, 3 lub 5 ustawy lub art. 228–230, art. 286 lub art. 296a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, osoba uprawniona traci prawo wystawiania recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne refundowane na okres:
+
+- **1)** jednego roku – w przypadku pierwszego skazania;
+- **2)** trzech lat – w przypadku kolejnego skazania.”, o zawodach pielęgniarki i położnej, oraz podmiot wykonujący działalność leczniczą, w ramach którego wystawiono receptę na co najmniej jeden refundowany lek, środek spożywczy specjalnego przeznaczenia żywieniowego oraz wyrób medyczny lub zlecenie na wyrób medyczny, są obowiązani poddać się kontroli przeprowadzanej lub zlecanej przez Fundusz w zakresie dokumentacji medycznej dotyczącej zasadności i prawidłowości wystawiania recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne i zleceń na wyroby medyczne. Do kontroli stosuje się odpowiednio przepisy art. 64 ust. 1–10 ustawy o świadczeniach.”, o zawodach pielęgniarki i położnej, jest obowiązana do zwrotu Funduszowi kwoty stanowiącej równowartość kwoty refundacji wraz z odsetkami ustawowymi liczonymi od dnia dokonania refundacji, o której mowa w art. 46 ust. 1, w przypadku:
+    - **f)** uchyla się ust. 6,
+    - **g)** ust. 7 otrzymuje brzmienie: „7. Osoba uprawniona, z wyłączeniem lekarza ubezpieczenia zdrowotnego, felczera ubezpieczenia zdrowotnego, w rozumieniu ustawy o świadczeniach, pielęgniarki ubezpieczenia zdrowotnego i położnej ubezpieczenia zdrowotnego, w rozumieniu ustawy o świadczeniach, o których mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r.
+    - **h)** po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „7a. Osoba uprawniona z wyłączeniem lekarza ubezpieczenia zdrowotnego, felczera ubezpieczenia zdrowotnego, w rozumieniu ustawy o świadczeniach, pielęgniarki ubezpieczenia zdrowotnego i położnej ubezpieczenia zdrowotnego, w rozumieniu ustawy o świadczeniach, o których mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r.
+
+- **1)** wypisania recepty w okresie pozbawienia prawa wystawiania recept, o którym mowa w ust. 5;
+- **2)** wypisania recepty nieuzasadnionej udokumentowanymi względami medycznymi;
+- **3)** wypisania recepty niezgodnej z uprawnieniami świadczeniobiorcy;
+- **4)** wypisania recepty niezgodnej ze wskazaniami zawartymi w obwieszczeniach, o których mowa w art. 37 ust. 1 lub 4.
+
+7b. Osoba uprawniona, z wyłączeniem lekarza ubezpieczenia zdrowotnego, felczera ubezpieczenia zdrowotnego, w rozumieniu ustawy o świadczeniach, pielęgniarki ubezpieczenia zdrowotnego i położnej ubezpieczenia zdrowotnego, w rozumieniu ustawy o świadczeniach, o których mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, jest obowiązana do zwrotu Funduszowi kwoty stanowiącej równowartość limitu finansowania wyrobu medycznego wraz z odsetkami ustawowymi liczonymi od dnia dokonania finansowania, o którym mowa w przepisach wydanych na podstawie art. 38 ust. 4, w przypadku:
+
+- **1)** wypisania zlecenia w okresie pozbawienia prawa wystawiania recept, o którym mowa w ust. 5;
+- **2)** wypisania zlecenia nieuzasadnionego udokumentowanymi względami medycznymi;
+- **3)** wypisania zlecenia niezgodnego z kryteriami przyznawania zawartymi w przepisach, o których mowa w art. 38 ust. 4.”,
+    - **i)** uchyla się ust. 10 i 11;
+
+- **18)** po art. 52 dodaje się art. 52a w brzmieniu: „Art. 52a. 1. Karze pieniężnej podlega osoba uprawniona, z wyłączeniem lekarza ubezpieczenia zdrowotnego, felczera ubezpieczenia zdrowotnego, w rozumieniu ustawy o świadczeniach, pielęgniarki ubezpieczenia zdrowotnego i położnej ubezpieczenia zdrowotnego, w rozumieniu ustawy o świadczeniach, o których mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, która wystawiła receptę na refundowany lek, środek spożywczy specjalnego przeznaczenia żywieniowego albo wyrób medyczny, albo podmiot wykonujący działalność leczniczą, w ramach którego wystawiono receptę na refundowany lek, środek spożywczy specjalnego przeznaczenia żywieniowego albo wyrób medyczny albo zlecenie na wyrób medyczny, w przypadku:
+- **1)** uniemożliwienia czynności kontrolnych;
+- **2)** niewykonania w terminie zaleceń pokontrolnych.
+
+2. Karę pieniężną w przypadku, o którym mowa w ust. 1:
+
+- **1)** pkt 1, wymierza się w kwocie stanowiącej równowartość,
+- **2)** pkt 2, wymierza się w kwocie do równowartości – kwoty refundacji za okres objęty kontrolą.
+
+3. Okres objęty kontrolą, o której mowa w ust. 2, nie może być dłuższy niż 5 lat, licząc od zakończenia roku kalendarzowego, w którym nastąpiła refundacja.”;
+
+- **19)** w art. 53:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Karę pieniężną, o której mowa w art. 52a, nakłada w drodze decyzji administracyjnej dyrektor oddziału wojewódzkiego Funduszu. Od decyzji przysługuje odwołanie do Prezesa Funduszu.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Przy ustalaniu wysokości kar pieniężnych, o których mowa w ust. 1, 2 oraz art. 52a, należy uwzględnić w szczególności okres, stopień oraz okoliczności naruszenia przepisów ustawy, a także uprzednie naruszenia przepisów ustawy.
+
+4. Kary pieniężne stanowią przychód Funduszu. Prezes Funduszu jest wierzycielem w rozumieniu ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm. ). Zażalenia na postanowienia Prezesa Funduszu rozpatruje minister właściwy do spraw zdrowia.”,
+
+- **c)** dodaje się ust. 7 w brzmieniu: „7. Kara pieniężna, o której mowa w ust. 1, 2 i 2a, ulega przedawnieniu z upływem 5 lat, licząc od dnia, w którym decyzja ustalająca karę stała się ostateczna.”.
+
 **Art. 14.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 3:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Działalność lecznicza polega na udzielaniu świadczeń zdrowotnych. Świadczenia te mogą być udzielane za pośrednictwem systemów teleinformatycznych lub systemów łączności.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Czynności, o których mowa w ust. 2, mogą być wykonywane za pośrednictwem systemów teleinformatycznych lub systemów łączności.”;
+
+- **2)** w art. 22 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Wymagań określonych w rozporządzeniu wydanym na podstawie ust. 3 nie stosuje się do pomieszczeń i urządzeń podmiotów wykonujących działalność leczniczą udzielających wyłącznie ambulatoryjnych świadczeń zdrowotnych za pośrednictwem systemów teleinformatycznych lub systemów łączności.
+
+3b. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwy do spraw informatyzacji, może określić, w drodze rozporządzenia, szczegółowe wymagania, jakim powinny odpowiadać pomieszczenia i urządzenia oraz systemy teleinformatyczne lub systemy łączności podmiotu wykonującego działalność leczniczą udzielającego wyłącznie ambulatoryjnych świadczeń zdrowotnych za pośrednictwem systemów teleinformatycznych lub systemów łączności, kierując się potrzebą zapewnienia bezpieczeństwa zdrowotnego pacjentów, a także rodzajem wykonywanej działalności i zakresem udzielanych świadczeń zdrowotnych.”;
+
+- **3)** w art. 24:
+    - **a)** w ust. 1 pkt 5 otrzymuje brzmienie: „5) miejsce udzielania świadczeń zdrowotnych – w przypadku udzielania świadczeń zdrowotnych za pośrednictwem systemów teleinformatycznych lub systemów łączności, miejscem udzielania świadczeń jest miejsce przebywania osób wykonujących zawód medyczny udzielających tych świadczeń;”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku podmiotów wykonujących działalność leczniczą udzielających wyłącznie ambulatoryjnych świadczeń zdrowotnych za pośrednictwem systemów teleinformatycznych lub systemów łączności aktualne informacje, o których mowa w ust. 1 pkt 4, 9, 11 i 12, podaje się do wiadomości pacjentów przez ich umieszczenie na stronie internetowej podmiotu wykonującego działalność leczniczą i w Biuletynie Informacji Publicznej, w przypadku podmiotu obowiązanego do jego prowadzenia.”;
+
+- **4)** w art. 106:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Rejestr jest jawny.”,
+    - **b)** po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. Jednostka, o której mowa w ust. 2, może udostępniać dane objęte rejestrem, w tym za pośrednictwem strony internetowej.
+
+2b. Jednostka, o której mowa w ust. 2:
+
+- **1)** zapewnia dostęp do danych objętych rejestrem podmiotowi publicznemu albo podmiotowi niebędącemu podmiotem publicznym, realizującemu zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny ich realizacji;
+- **2)** może przekazać dane objęte rejestrem do ponownego ich wykorzystywania w innym celu niż realizacja zadania publicznego.
+
+2c. W przypadku, o którym mowa w ust. 2b:
+
+- **1)** pkt 1 – stosuje się odpowiednio art. 15 ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114) oraz przepisy wydane na podstawie art. 15 ust. 3 tej ustawy;
+- **2)** pkt 2 – stosuje się odpowiednio art. 15 ust. 4 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”,
+    - **c)** dodaje się ust. 6 w brzmieniu: „6. Organ prowadzący rejestr udostępnia Narodowemu Funduszowi Zdrowia dane objęte wpisem do rejestru.”;
+
+- **5)** w art. 107 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organ prowadzący rejestr dokonuje zmiany wpisu w zakresie danych dotyczących podmiotu wykonującego działalność leczniczą wynikających z dostosowania treści wpisu do zmian niezależnych od tego podmiotu z urzędu.”.
+
 **Art. 15.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 2 pkt 7 otrzymuje brzmienie: „7) pełnienie służby na stanowiskach służbowych w Ministerstwie Obrony Narodowej oraz w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej, na których wykonuje się czynności związane z ochroną zdrowia i opieką zdrowotną;”;
+- **2)** w art. 11 ust. 1 otrzymuje brzmienie: „1. Pielęgniarka i położna wykonują zawód, z należytą starannością, zgodnie z zasadami etyki zawodowej, poszanowaniem praw pacjenta, dbałością o jego bezpieczeństwo, wykorzystując wskazania aktualnej wiedzy medycznej oraz pośrednictwo systemów teleinformatycznych lub systemów łączności.”;
+- **3)** w art. 15a:
+    - **a)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Pielęgniarka i położna, o których mowa w ust. 1 i 2, wystawiają recepty na leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne na zasadach określonych w art. 95b, art. 96a i art. 96b ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ).”,
+    - **b)** w ust. 8: – uchyla się pkt 3–6, – część wspólna otrzymuje brzmienie: „– biorąc pod uwagę niezbędne kwalifikacje oraz wymagany zakres umiejętności i obowiązków pielęgniarki i położnej.”;
+
+- **4)** w art. 16 pkt 3 otrzymuje brzmienie: „3) zgłosić Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działanie niepożądane produktu leczniczego zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne.”;
+- **5)** w art. 44 w ust. 1 w pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 w brzmieniu: „27) datę zgonu.”;
+- **6)** w art. 45 dodaje się ust. 5 w brzmieniu: „5. Naczelna Rada Pielęgniarek i Położnych jest obowiązana na żądanie ministra właściwego do spraw zdrowia przekazywać nieodpłatnie informacje zawarte w Centralnym Rejestrze Pielęgniarek i Położnych.”;
+- **7)** w art. 61 ust. 5 otrzymuje brzmienie: „5. Pielęgniarka i położna pełniące zawodową służbę wojskową odbywają kształcenie podyplomowe na swój wniosek, na podstawie wydanego przez Ministra Obrony Narodowej skierowania do organizatora kształcenia lub bez skierowania – na podstawie umowy zawartej z organizatorem kształcenia.”;
+- **8)** w art. 67:
+    - **a)** w ust. 4 pkt 3 otrzymuje brzmienie: „3) zostały dopuszczone do specjalizacji po przeprowadzeniu postępowania kwalifikacyjnego za pośrednictwem Systemu Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 30 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zwanego dalej „SMK”.”,
+    - **b)** po ust. 4 dodaje się ust. 4a–4e w brzmieniu: „4a. Postępowanie kwalifikacyjne, o którym mowa w ust. 4 pkt 3, przeprowadza się za pośrednictwem SMK.
+
+4b. Konto w SMK zakłada w celu dokonywania czynności w tym systemie:
+
+- **1)** pielęgniarka albo położna;
+- **2)** kierownik specjalizacji.
+
+4c. Warunkiem dokonywania przez osoby określone w ust. 4b czynności za pomocą SMK jest potwierdzenie tożsamości osoby, która konto założyła, i weryfikacja uprawnień tej osoby.
+
+4d. Potwierdzenia, o którym mowa w ust. 4c, dokonuje się na podstawie wniosku o nadanie uprawnień:
+
+- **1)** podpisanego kwalifikowanym podpisem elektronicznym lub podpisem potwierdzonym profilem zaufanym ePUAP lub
+- **2)** potwierdzonego przez właściwego organizatora kształcenia pielęgniarek i położnych w zakresie tożsamości osoby, która konto założyła, lub
+- **3)** potwierdzonego przez właściwą okręgową izbę pielęgniarek i położnych lub Naczelną Izbę Pielęgniarek i Położnych w zakresie tożsamości osoby, która konto założyła.
+
+4e. Weryfikacji uprawnień, o których mowa w ust. 4c, dokonuje w stosunku do:
+
+- **1)** pielęgniarki albo położnej, o których mowa w ust. 4b pkt 1 – właściwa miejscowo okręgowa izba pielęgniarek i położnych, a jeżeli nie jest możliwe ustalenie właściwej okręgowej izby pielęgniarek i położnych – Naczelna Izba Pielęgniarek i Położnych;
+- **2)** kierownika specjalizacji – właściwy organizator kształcenia pielęgniarek i położnych.”,
+    - **c)** dodaje się ust. 8–13 w brzmieniu: „8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany przez Centrum podany za pomocą SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłata powinna być uiszczona niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez Centrum.
+
+9. W przypadku niewniesienia opłaty, o której mowa w ust. 7, albo wniesienia jej w wysokości niższej niż należna, dyrektor Centrum wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej pod adresem poczty elektronicznej wskazanym przez wnioskodawcę we wniosku. Przepisu art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+
+10. W przypadku nieuzupełnienia braków formalnych, o których mowa w ust. 9, w terminie 7 dni od skierowania wezwania dotknięty nim wniosek traktuje się jako niezłożony. O konsekwencji tej dyrektor Centrum informuje w wezwaniu do uzupełnienia braków formalnych.
+
+11. Pielęgniarka, położna składa wniosek o dopuszczenie do egzaminu państwowego za pomocą SMK.
+
+12. Centrum przekazuje wyniki egzaminu państwowego do SMK.
+
+13. W celu aktualizacji Centralnego Rejestru Pielęgniarek i Położnych, dyrektor Centrum udostępnia za pomocą SMK wyniki egzaminu państwowego Naczelnej Izbie Pielęgniarek i Położnych.”;
+
+- **9)** w art. 71:
+    - **a)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) zostały dopuszczone do kursu kwalifikacyjnego po przeprowadzeniu postępowania kwalifikacyjnego za pośrednictwem SMK.”,
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Do kursu kwalifikacyjnego przepisy art. 67 ust. 4b–4e stosuje się odpowiednio.”;
+
+- **10)** w art. 72:
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) zostały dopuszczone do kursu specjalistycznego po przeprowadzeniu postępowania kwalifikacyjnego za pośrednictwem SMK.”,
+    - **b)** w ust. 3 zdanie drugie otrzymuje brzmienie: „Przepisy art. 67 ust. 4b–4e i art. 71 ust. 3 i 4 stosuje się odpowiednio.”;
+
+- **11)** w art. 73:
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) zostały zakwalifikowane do odbycia kursu dokształcającego przez organizatora kształcenia za pośrednictwem SMK.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Do kursu dokształcającego przepisy art. 67 ust. 4b–4e stosuje się odpowiednio.”;
+
+- **12)** w art. 76:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Podmiot inny niż wymieniony w art. 75 ust. 1 pkt 1, zamierzający wykonywać działalność w zakresie kształcenia podyplomowego, składa za pośrednictwem SMK wniosek o wpis do rejestru, zawierający następujące dane:”, – pkt 1 i 2 otrzymują brzmienie: „1) oznaczenie wnioskodawcy, adres jego miejsca zamieszkania lub siedziby oraz numer identyfikacji podatkowej (NIP);
+
+- **2)** formę organizacyjno-prawną wnioskodawcy;”, – pkt 4 i 5 otrzymują brzmienie: „4) określenie rodzaju, dziedziny i systemu kształcenia;
+- **5)** miejsce prowadzenia kształcenia, w odniesieniu do zajęć teoretycznych i praktycznych.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Warunkiem dokonywania określonych ustawą czynności za pomocą SMK jest założenie konta w sposób umożliwiający potwierdzenie danych podmiotu zamierzającego wykonywać działalność w zakresie kształcenia podyplomowego, o którym mowa w ust. 1, do dokonywania tych czynności.
+
+1b. Potwierdzenia, o którym mowa w ust. 1a, dokonuje się na podstawie wniosku o nadanie uprawnień:
+
+- **1)** podpisanego kwalifikowanym podpisem elektronicznym lub podpisem potwierdzonym profilem zaufanym ePUAP lub
+- **2)** potwierdzonego przez właściwą okręgową izbę pielęgniarek i położnych lub Naczelną Izbę Pielęgniarek i Położnych w zakresie danych podmiotu zamierzającego wykonywać działalność w zakresie kształcenia podyplomowego, o którym mowa w ust. 1.
+
+1c. Weryfikacji podmiotu, o którym mowa w ust. 1a, dokonuje właściwa miejscowo okręgowa izba pielęgniarek i położnych, a jeżeli nie jest możliwe ustalenie właściwej okręgowej izby pielęgniarek i położnych – Naczelna Izba Pielęgniarek i Położnych.”;
+
+- **13)** w art. 77 ust. 5 i 6 otrzymują brzmienie: „5. Dane, o których mowa w ust. 3 i 4, organ prowadzący rejestr przekazuje za pośrednictwem SMK, do Centrum w terminie 14 dni od dnia dokonania wpisu do rejestru.
+
+6. Organ prowadzący rejestr informuje Centrum za pośrednictwem SMK o wykreśleniu z rejestru organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 2, podając datę wykreślenia, oraz przesyła prawomocną uchwałę w tej sprawie w terminie 14 dni od dnia dokonania wykreślenia.”;
+
+- **14)** w art. 78 ust. 5 otrzymuje brzmienie: „5. Programy kształcenia są zamieszczane na stronach internetowych Centrum oraz w SMK.”;
+- **15)** w art. 79 ust. 1 otrzymuje brzmienie: „1. W przypadku aktualizacji programu kształcenia Centrum udostępnia na stronach internetowych oraz w SMK zaktualizowany program kształcenia oraz informuje o tym wpisanych do ewidencji organizatorów kształcenia prowadzących kształcenie na podstawie dotychczasowego programu.”;
+- **16)** w art. 80:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Organizator kształcenia, o którym mowa w art. 75 ust. 1 pkt 2, informuje za pośrednictwem SMK organ prowadzący rejestr o planowanych terminach rozpoczęcia i zakończenia kształcenia podyplomowego 2 razy w ciągu roku w okresie kolejnych 6 miesięcy – do dnia 30 czerwca i do dnia 31 grudnia.
+
+2. Organizator kształcenia za pośrednictwem SMK:
+
+- **1)** informuje Centrum o planowanych terminach rozpoczęcia i zakończenia kształcenia podyplomowego 2 razy w ciągu roku w okresie kolejnych 6 miesięcy – do dnia 30 czerwca i do dnia 31 grudnia;
+- **2)** przekazuje do Centrum harmonogram kształcenia podyplomowego, o którym mowa w art. 66 ust. 1 pkt 1–3, na co najmniej 7 dni przed rozpoczęciem tego kształcenia.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Organizator kształcenia, o którym mowa w art. 75 ust. 1 pkt 1, przekazuje do Centrum za pośrednictwem SMK dane, o których mowa w art. 76 ust. 1, w terminie 14 dni przed dniem rozpoczęcia działalności w zakresie kształcenia podyplomowego; zmiany tych danych zgłasza w terminie 14 dni od dnia ich powstania.”,
+    - **c)** dodaje się ust. 7–9 w brzmieniu: „7. Warunkiem dokonywania określonych ustawą czynności za pomocą SMK jest założenie konta w sposób umożliwiający potwierdzenie danych podmiotu zamierzającego wykonywać działalność w zakresie kształcenia podyplomowego, o którym mowa w ust. 1, do dokonywania tych czynności.
+
+8. Potwierdzenia, o którym mowa w ust. 7, dokonuje się na podstawie wniosku o nadanie uprawnień:
+
+- **1)** podpisanego kwalifikowanym podpisem elektronicznym lub podpisem potwierdzonym profilem zaufanym ePUAP lub
+- **2)** potwierdzonego przez właściwą okręgową izbę pielęgniarek i położnych lub Naczelną Izbę Pielęgniarek i Położnych w zakresie danych podmiotu zamierzającego wykonywać działalność w zakresie kształcenia podyplomowego, o którym mowa w ust. 1.
+
+9. Weryfikacji podmiotu, o którym mowa w ust. 7, dokonuje właściwa miejscowo okręgowa izba pielęgniarek i położnych, a jeżeli nie jest możliwe ustalenie właściwej okręgowej izby pielęgniarek i położnych – Naczelna Izba Pielęgniarek i Położnych.”;
+
+- **17)** w art. 82:
+    - **a)** w ust. 12 pkt 2 otrzymuje brzmienie: „2) wykreśla za pośrednictwem SMK organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 2, z rejestru – w przypadku stwierdzenia okoliczności, o których mowa w art. 76 ust. 8 pkt 1, 4 lub 5.”,
+    - **b)** uchyla się ust. 13.
 
 **Art. 16.**
 
@@ -2708,6 +4044,9 @@ source: "isap-pdf"
 6. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 4, zastosowany zostanie mechanizm korygujący polegający na ograniczeniu wydatków osobowych ponoszonych przez wojewodów na realizację zadań polegających na wydawaniu kart doskonalenia zawodowego ratowników medycznych, o których mowa w art. 12d ustawy, o której mowa w art. 9, w brzmieniu nadanym niniejszą ustawą, o kwotę przekroczenia.
 
 **Art. 17.** Do dnia 31 grudnia 2017 r. usługodawcy mogą:
+
+- **1)** zamieszczać w Systemie Informacji Medycznej, o którym mowa w ustawie, o której mowa w art. 1, zwanym dalej „SIM”, dane umożliwiające pobranie danych zawartych w elektronicznej dokumentacji medycznej przez innego usługodawcę lub pobranie dokumentów elektronicznych niezbędnych do prowadzenia diagnostyki, zapewnienia ciągłości leczenia oraz zaopatrzenia usługobiorców w produkty lecznicze i wyroby medyczne;
+- **2)** przekazywać do SIM dane, o których mowa w art. 11 ust. 2–4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 18.** Do dnia 31 grudnia 2017 r. wnioski, załączniki i dokumenty, o których mowa w art. 24 ust. 6 ustawy, o której mowa w art. 13, w brzmieniu nadanym niniejszą ustawą, mogą być składane w dotychczasowy sposób albo za pomocą Systemu Obsługi List Refundacyjnych.
 
@@ -3071,4 +4410,14 @@ source: "isap-pdf"
 **Art. 51.** (uchylony)
 
 **Art. 52.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 6 pkt 8, który wchodzi w życie z dniem 1 stycznia 2016 r.;
+- **2)** art. 6 pkt 7 lit. b i c oraz pkt 13 lit. c i d, które wchodzą w życie z dniem 1 kwietnia 2016 r.;
+- **3)** art. 3 pkt 2, art. 5, art. 6 pkt 16 i art. 29–44, które wchodzą w życie z dniem 1 maja 2016 r.;
+- **4)** art. 1 pkt 15 w zakresie art. 17a ust. 2 pkt 4 i art. 6 pkt 1, które wchodzą w życie z dniem 1 lipca 2016 r.;
+- **5)** art. 1 pkt 28, art. 6 pkt 3 i art. 13 pkt 2–10, które wchodzą w życie z dniem 1 stycznia 2017 r.;
+- **5a)** art. 4 pkt 2 lit. b i pkt 3–32, art. 9 pkt 1–4, 10 i 11, art. 15 pkt 8–17 i art. 19–28, które wchodzą w życie z dniem 1 maja 2017 r.;
+- **6)** art. 7 pkt 23 w zakresie art. 188c ust. 3, ust. 4 pkt 2 i ust. 6, które wchodzą w życie z dniem 1 lipca 2017 r.;
+- **7)** art. 9 pkt 7 i 8, które wchodzą w życie z dniem 1 sierpnia 2017 r.
+
 

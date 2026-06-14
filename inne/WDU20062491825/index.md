@@ -8,7 +8,7 @@ pos: 1825
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku rolnym oraz ustawy o podatku leśnym
@@ -29,7 +29,13 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969, Nr 191, poz. 1412 i Nr 245, poz. 1775) w art. 6a wprowadza się następujące zmiany:
 
+- **1)** w ust. 12 pkt 1 otrzymuje brzmienie: „1) ich format elektroniczny oraz układ informacji i powiązań między nimi zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne;”;
+- **2)** ust. 14 otrzymuje brzmienie: „14. Poświadczenie przez organ podatkowy złożenia informacji o gruntach lub deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
+
 **Art. 2.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. Nr 200, poz. 1682, z późn. zm. ) w art. 6 wprowadza się następujące zmiany:
+
+- **1)** w ust. 10 pkt 1 otrzymuje brzmienie: „1) ich format elektroniczny oraz układ informacji i powiązań między nimi zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne;”;
+- **2)** ust. 12 otrzymuje brzmienie: „12. Poświadczenie przez organ podatkowy złożenia informacji o lasach lub deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
 
 **Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
 

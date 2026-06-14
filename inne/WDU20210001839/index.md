@@ -8,10 +8,10 @@ pos: 1839
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 października 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1839 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 września 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1839/text.pdf) |
 
-Poz. 1839 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 września 2021 r.
-w sprawie sposobu wnoszenia pism procesowych i składania dokumentów w postępowaniu upadłościowym za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe oraz w biurze podawczym sądu rejonowego Na podstawie art. 216ac ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080, 1177 i 1598) zarządza się, co następuje: § 1. Ilekroć w rozporządzeniu jest mowa o:
+w sprawie sposobu wnoszenia pism procesowych i składania dokumentów w postępowaniu upadłościowym za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe oraz w biurze podawczym sądu rejonowego Na podstawie art. 216ac ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080, 1177 i 1598) zarządza się, co następuje:
+§ 1. Ilekroć w rozporządzeniu jest mowa o:
 1) właścicielu konta – rozumie się przez to podmiot, dla którego założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe, zwanym dalej „systemem teleinformatycznym”;
 2) koncie – rozumie się przez to zbiór danych identyfikujących tożsamość właściciela konta, wraz z przyporządkowanymi zasobami systemu teleinformatycznego;
 3) użytkowniku uprawnionym – rozumie się przez to osobę fizyczną, która ma uprawnienie na koncie własnym lub koncie innego właściciela konta do wnoszenia pism za pośrednictwem systemu teleinformatycznego;
@@ -38,7 +38,7 @@ w sprawie sposobu wnoszenia pism procesowych i składania dokumentów w postępo
 3) uiszczenie opłaty sądowej za pomocą udostępnianego przez system teleinformatyczny mechanizmu gwarantującego nieodwracalne zainicjowanie procedury opłacenia pisma i identyfikację wnoszącego opłatę albo dołączenie do wniosku dowodu uiszczenia opłaty w innej formie, o ile pismo podlega opłacie, a przepis szczególny nie stanowi inaczej;
 4) wysłanie pisma do adresata.
 2. Niezwłocznie po wniesieniu pisma na koncie, z którego wysłano pismo, jest umieszczane elektroniczne potwierdzenie wniesienia pisma zawierające zestaw danych jednoznacznie wskazujący wysłane pismo, właściciela konta, z którego pismo zostało wysłane, uprawnionego użytkownika, który je wysłał, oraz datę jego wniesienia.
-Dziennik Ustaw – 2 – Poz. 1839 § 3. 1. Złożenie pisma przez osobę wskazaną w art. 216aa ust. 1 prawa upadłościowego uprawnioną do wnoszenia pism w biurze podawczym każdego sądu rejonowego wymaga:
+§ 3. 1. Złożenie pisma przez osobę wskazaną w art. 216aa ust. 1 prawa upadłościowego uprawnioną do wnoszenia pism w biurze podawczym każdego sądu rejonowego wymaga:
 1) okazania przez nią pracownikowi biura podawczego dowodu osobistego albo innego dokumentu tożsamości;
 2) wskazania, czy czynność będzie polegała na złożeniu oświadczenia czy złożeniu wniosku;
 3) wskazania rodzaju składanego wniosku, w przypadku gdy czynność polega na złożeniu wniosku;

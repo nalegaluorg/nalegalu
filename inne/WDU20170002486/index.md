@@ -8,7 +8,7 @@ pos: 2486
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dystrybucji ubezpieczeń
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-15 |
 | Data wydania | 2017-12-29 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2486/text.pdf) |
 
 Art. 91–100. (pominięte)
@@ -130,7 +130,7 @@ i) wypowiadanie umów reasekuracji;
 - **15)** pośrednik ubezpieczeniowy – agenta ubezpieczeniowego, agenta oferującego ubezpieczenia uzupełniające, brokera ubezpieczeniowego oraz brokera reasekuracyjnego, którzy wykonują dystrybucję ubezpieczeń albo dystrybucję reasekuracji za wynagrodzeniem;
 - **16)** przyjmujące państwo członkowskie Unii Europejskiej – inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, na którego terytorium pośrednik ubezpieczeniowy wpisany do rejestru pośredników ubezpieczeniowych wykonuje działalność przez oddział lub w inny sposób niż przez oddział, w ramach swobody świadczenia usług;
 - **17)** rejestr agentów ‒ rejestr agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające;
-- **18)** rejestr brokerów ‒ rejestr brokerów ubezpieczeniowych i brokerów reasekuracyjnych;
+- **18)** rejestr brokerów ‒ rejestr brokerów ubezpieczeniowych i brokerów reasekuracyjnych; <18a) rozporządzenie 2023/2859 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
 - **19)** trwały nośnik – trwały nośnik w rozumieniu art. 2 pkt 4 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz.
 - **1172)** ;
 - **20)** właściwy organ państwa członkowskiego Unii Europejskiej – organ właściwy w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej do sprawowania nadzoru nad dystrybucją ubezpieczeń lub organ prowadzący w tym państwie odpowiedni rejestr pośredników;
@@ -175,6 +175,14 @@ i) wypowiadanie umów reasekuracji;
 4. Dystrybucja reasekuracji polega również na organizowaniu i nadzorowaniu czynności brokerskich w zakresie reasekuracji u brokera reasekuracyjnego.
 
 **Art. 6.** Za dystrybucję ubezpieczeń ani za dystrybucję reasekuracji nie uznaje się:
+
+- **1)** okazjonalnego dostarczania klientowi informacji w związku z prowadzoną przez przedsiębiorcę działalnością gospodarczą inną niż działalność w zakresie dystrybucji ubezpieczeń lub dystrybucji reasekuracji, w przypadku gdy:
+    - **a)** przedsiębiorca nie podejmuje dodatkowych działań mających pomóc w zawarciu lub wykonywaniu umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej lub
+    - **b)** celem tej działalności nie jest pomoc w zawarciu lub wykonywaniu umowy reasekuracji;
+
+- **2)** obsługi roszczeń kierowanych do zakładu ubezpieczeń lub zakładu reasekuracji, wyceny szkód i sporządzania ekspertyz związanych z tymi szkodami;
+- **3)** przekazywania agentom ubezpieczeniowym, brokerom ubezpieczeniowym, brokerom reasekuracyjnym, zakładom ubezpieczeń lub zakładom reasekuracji danych i informacji na temat potencjalnych klientów, jeżeli przedsiębiorca nie podejmuje dodatkowych działań mających pomóc w zawarciu umowy ubezpieczenia, umowy gwarancji ubezpieczeniowej lub umowy reasekuracji;
+- **4)** przekazywania potencjalnym klientom informacji na temat produktów ubezpieczeniowych lub reasekuracyjnych, agenta ubezpieczeniowego, brokera ubezpieczeniowego, brokera reasekuracyjnego, zakładu ubezpieczeń lub zakładu reasekuracji, jeżeli przedsiębiorca nie podejmuje dodatkowych działań mających pomóc w zawarciu umowy ubezpieczenia, umowy gwarancji ubezpieczeniowej lub umowy reasekuracji.
 
 **Art. 7.**
 
@@ -383,6 +391,8 @@ i) wypowiadanie umów reasekuracji;
 #### Rozdział 2 Agent ubezpieczeniowy, agent oferujący ubezpieczenia uzupełniające, osoby wykonujące czynności agencyjne, osoby wykonujące czynności dystrybucyjne zakładu ubezpieczeń oraz osoby wykonujące czynności dystrybucyjne zakładu reasekuracji
 
 **Art. 17.** Agentem ubezpieczeniowym ani agentem oferującym ubezpieczenia uzupełniające nie może być przedsiębiorca prawomocnie pozbawiony prawa prowadzenia działalności gospodarczej zgodnie z art. 373 lub art. 374 ustawy z dnia 28 lutego 2003 r. ‒ Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i
+
+- **1172)** .
 
 **Art. 18.** Działalność agencyjna powinna być wykonywana z zachowaniem staranności określonej w art. 355 § 2 ustawy z dnia 23 kwietnia 1964 r. ‒ Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508) oraz dobrych obyczajów.
 
@@ -723,6 +733,9 @@ i) wypowiadanie umów reasekuracji;
 2. Zarządca sukcesyjny wstępujący w miejsce zmarłego brokera ubezpieczeniowego lub brokera reasekuracyjnego może nie spełniać wymagań, o których mowa w art. 34 ust. 4 pkt 1 lit. c–f, pod warunkiem że czynności brokerskie będzie wykonywał przy pomocy osób fizycznych, o których mowa w art. 29 ust. 1.
 
 **Art. 35.** Zezwolenie zawiera:
+
+- **1)** imię lub imiona i nazwisko oraz adres miejsca zamieszkania osoby fizycznej oraz firmę, pod którą osoba fizyczna wykonuje działalność gospodarczą, a w przypadku osoby prawnej ‒ firmę przedsiębiorcy, siedzibę i adres;
+- **2)** określenie zakresu działalności.
 
 **Art. 36.**
 
@@ -1210,6 +1223,9 @@ i) wypowiadanie umów reasekuracji;
 
 **Art. 60.** Organ nadzoru dokonuje wykreślenia brokera ubezpieczeniowego lub brokera reasekuracyjnego z rejestru brokerów w przypadku:
 
+- **1)** cofnięcia zezwolenia;
+- **2)** wygaśnięcia zezwolenia.
+
 **Art. 61.**
 
 1. W przypadku zmiany danych, objętych wpisem do rejestru brokerów, broker ubezpieczeniowy i broker reasekuracyjny niezwłocznie, jednak nie później niż w terminie 7 dni od dnia zaistnienia zmiany, składają do organu nadzoru wniosek o dokonanie zmiany treści wpisu wraz z niezbędnymi dokumentami.
@@ -1540,6 +1556,15 @@ i) wypowiadanie umów reasekuracji;
 
 **Art. 85.** Organ nadzoru, wydając decyzję w przedmiocie nałożenia na zakład ubezpieczeń, zakład reasekuracji lub na pośrednika ubezpieczeniowego środka, o którym mowa w art. 83 lub art. 84 ust. 1 lub 2, przy wyborze rodzaju i wysokości środka bierze pod uwagę istotne okoliczności, w tym:
 
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień odpowiedzialności dystrybutora ubezpieczeń lub dystrybutora reasekuracji;
+- **3)** sytuację finansową dystrybutora ubezpieczeń lub dystrybutora reasekuracji;
+- **4)** wielkość uzyskanych korzyści lub wysokość unikniętych strat ‒ w przypadku gdy możliwe jest ich ustalenie;
+- **5)** wysokość strat poniesionych przez klientów i inne osoby w związku z naruszeniem ‒ w przypadku gdy możliwe jest ich ustalenie;
+- **6)** gotowość dystrybutora ubezpieczeń lub dystrybutora reasekuracji do współpracy z organem nadzoru;
+- **7)** środki zastosowane przez dystrybutora ubezpieczeń lub dystrybutora reasekuracji w celu zapobieżenia ponownemu naruszeniu przepisów prawa;
+- **8)** wcześniejsze naruszenia dokonane przez danego dystrybutora ubezpieczeń lub dystrybutora reasekuracji.
+
 **Art. 86.** (uchylony)
 
 **Art. 87.**
@@ -1556,7 +1581,14 @@ i) wypowiadanie umów reasekuracji;
 
 4. W przypadku gdy jest to niezbędne ze względu na stabilność rynku finansowego lub toczące się postępowanie lub gdy organ nadzoru, na podstawie indywidualnej oceny przeprowadzonej w odniesieniu do podania do publicznej wiadomości informacji, o której mowa w ust. 1, uzna podanie takiej informacji za nieproporcjonalne, organ nadzoru może odroczyć podanie do publicznej wiadomości takiej informacji, zaniechać podania jej do publicznej wiadomości lub podać do publicznej wiadomości taką informację z pominięciem danych pozwalających na identyfikację podmiotu, na który zostały nałożone środki, o których mowa w ust. 1.
 
-5. Informacja podana do publicznej wiadomości zgodnie z ust. 1 podlega aktualizacji.
+5. Informacja podana do publicznej wiadomości zgodnie z ust. 1 podlega aktualizacji. <5a. Organ nadzoru udostępnia informację, o której mowa w ust. 1, w europejskim pojedynczym punkcie dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859, w formacie umożliwiającym ekstrakcję danych rozumianym jako format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka.
+
+5b. Informacja, o której mowa w ust. 1, jest opatrywana następującymi metadanymi w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859:
+
+- **1)** imieniem i nazwiskiem lub nazwą (firmą) ukaranego podmiotu;
+- **2)** identyfikatorem podmiotu prawnego ukaranego podmiotu, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany organowi nadzoru;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 6. Organ nadzoru informuje EIOPA o podaniu do publicznej wiadomości informacji, o której mowa w ust. 1, o odroczeniu lub zaniechaniu podania jej do publicznej wiadomości lub o podaniu jej do publicznej wiadomości z pominięciem danych, o których mowa w ust. 4, oraz o aktualizacji takiej informacji dokonanej zgodnie z ust. 5.
 
@@ -1670,6 +1702,19 @@ i) wypowiadanie umów reasekuracji;
 **Art. 111.** Traci moc ustawa z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. z 2016 r. poz. 2077 oraz z 2017 r. poz. 60 i 2486).
 
 **Art. 112.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
+
+- **1)** art. 94 pkt 1–5 i 7–10, art. 95, art. 102 oraz art. 109, które wchodzą w życie z dniem następującym po dniu ogłoszenia ;
+- **2)** art. 96 pkt 1 lit. b, który wchodzi w życie z dniem 1 stycznia 2018 r.;
+- **3)** art. 92, art. 101 i art. 110, które wchodzą w życie z dniem 3 stycznia 2018 r. Załącznik do ustawy z dnia 15 grudnia 2017 r. (Dz. U. z 2026 r. poz. 12) Dział I Ubezpieczenia na życie, o których mowa w dziale I załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej
+- **1)** umowy ubezpieczenia, w tym znajomość warunków, świadczeń gwarantowanych i ryzyk dodatkowych;
+- **2)** organizacja systemu emerytalnego i świadczeń gwarantowanych;
+- **3)** podstawowe przepisy regulujące dystrybucję ubezpieczeń, a także z zakresu prawa ochrony konsumentów, ochrony danych osobowych, zapobiegania praniu pieniędzy, prawa podatkowego oraz zabezpieczenia społecznego i prawa pracy;
+- **4)** rynek ubezpieczeń i inne rynki finansowe;
+- **5)** obsługa skarg i reklamacji;
+- **6)** ocena potrzeb klienta;
+- **7)** zarządzanie konfliktami interesów;
+- **8)** standardy etyki zawodowej;
+- **9)** podstawowe zagadnienia finansowe.
 
 ### Dział II Pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe, o których mowa w dziale II załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej
 

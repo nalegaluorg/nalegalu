@@ -8,7 +8,7 @@ pos: 210
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo spółdzielcze
@@ -73,7 +73,13 @@ source: "isap-pdf"
 - **1)** w grupy producentów rolnych w rozumieniu ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145),
 - **2)** we wstępnie uznane grupy producentów owoców i warzyw oraz uznane organizacje producentów owoców i warzyw w rozumieniu ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2023 r. poz. 1318) – mogą założyć spółdzielnię, której liczba założycieli nie może być mniejsza od pięciu.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony)
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
 
 **Art. 7.** Spółdzielnia podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego.
 
@@ -249,7 +255,9 @@ source: "isap-pdf"
 
 § 1. Roszczenia o wypłatę udziałów, udziału w nadwyżce bilansowej oraz z tytułu zwrotu wkładów albo ich równowartości pieniężnej ulegają przedawnieniu z upływem trzech lat.
 
-§ 2. (uchylony) § 3. Przepis § 1 nie ma zastosowania do roszczeń o zwrot nieruchomości.
+§ 2. (uchylony)
+
+§ 3. Przepis § 1 nie ma zastosowania do roszczeń o zwrot nieruchomości.
 
 **Art. 30.** Zarząd spółdzielni prowadzi rejestr członków zawierający ich imiona i nazwiska oraz miejsce zamieszkania (w odniesieniu do członków będących osobami prawnymi – ich nazwę i siedzibę), wysokość zadeklarowanych i wniesionych udziałów, wysokość wniesionych wkładów, ich rodzaj, jeżeli są to wkłady niepieniężne, zmiany tych danych, datę przyjęcia w poczet członków, datę wypowiedzenia członkostwa i jego ustania, a także inne dane przewidziane w statucie. Członek spółdzielni, jego małżonek i wierzyciel członka lub spółdzielni ma prawo przeglądać rejestr.
 
@@ -425,7 +433,9 @@ source: "isap-pdf"
 
 § 2. Do rady mogą być wybierani wyłącznie członkowie spółdzielni. Jeżeli członkiem spółdzielni jest osoba prawna, do rady może być wybrana osoba niebędąca członkiem spółdzielni, wskazana przez osobę prawną.
 
-§ 3. (uchylony) § 4. Kadencję rady określa statut, z zastrzeżeniem art. 8 ust. 4 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych.
+§ 3. (uchylony)
+
+§ 4. Kadencję rady określa statut, z zastrzeżeniem art. 8 ust. 4 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych.
 
 § 5. Przed upływem kadencji członek rady może być odwołany większością 2/3 głosów przez organ, który go wybrał.
 
@@ -677,7 +687,9 @@ source: "isap-pdf"
 
 § 2. Zarząd obowiązany jest na żądanie członka spółdzielni udostępnić mu do wglądu protokół lustracji oraz wnioski polustracyjne i informacje o ich realizacji.
 
-§ 3. (uchylony) § 4. Wnioski z przeprowadzonej lustracji powinny być przedstawione przez radę nadzorczą najbliższemu walnemu zgromadzeniu.
+§ 3. (uchylony)
+
+§ 4. Wnioski z przeprowadzonej lustracji powinny być przedstawione przez radę nadzorczą najbliższemu walnemu zgromadzeniu.
 
 **Art. 93a.**
 
@@ -719,6 +731,10 @@ source: "isap-pdf"
 **Art. 96.** Spółdzielnia może w każdym czasie połączyć się z inną spółdzielnią na podstawie uchwał walnych zgromadzeń łączących się spółdzielni, powziętych większością 2/3 głosów.
 
 **Art. 97.** Uchwały o połączeniu powinny zawierać:
+
+- **1)** oznaczenie spółdzielni przejmującej;
+- **2)** przyjęcie statutu stanowiącego podstawę dalszej jej działalności; statut nie może uszczuplać nabytych praw majątkowych członków;
+- **3)** datę połączenia.
 
 **Art. 98.**
 
@@ -865,6 +881,12 @@ source: "isap-pdf"
 § 2. Osoba prawna wyznaczona na likwidatora składa oświadczenia w imieniu spółdzielni z zachowaniem przepisów normujących składanie oświadczeń tej osoby.
 
 **Art. 122.** Likwidator powinien niezwłocznie po wyznaczeniu go:
+
+- **1)** zgłosić do Krajowego Rejestru Sądowego wniosek o wpisanie otwarcia likwidacji spółdzielni, jeżeli nie zostało to jeszcze dokonane, i zawiadomić o tym związek rewizyjny, w którym spółdzielnia jest zrzeszona, oraz Krajową Radę Spółdzielczą;
+- **2)** powiadomić banki finansujące spółdzielnię oraz organy finansowe o otwarciu likwidacji spółdzielni;
+- **3)** ogłosić w Monitorze Spółdzielczym zawiadomienie o otwarciu likwidacji spółdzielni i wezwać wierzycieli do zgłoszenia wierzytelności w terminie trzech miesięcy od dnia tego ogłoszenia;
+- **4)** przystąpić do sporządzenia sprawozdania finansowego na dzień otwarcia likwidacji oraz listy zobowiązań spółdzielni;
+- **5)** sporządzić plan finansowy likwidacji i plan zaspokojenia zobowiązań.
 
 **Art. 123.** W czasie likwidacji nie stosuje się przepisu art. 90 § 1, w zakresie kolejności pokrywania strat bilansowych.
 
@@ -1192,6 +1214,9 @@ source: "isap-pdf"
 
 **Art. 187.** Spółdzielnia może rozwiązać z członkiem spółdzielczą umowę o pracę w czasie trwania członkostwa, z zachowaniem przewidzianego w Kodeksie pracy okresu wypowiedzenia, w razie:
 
+- **1)** zmniejszenia na podstawie uchwały rady spółdzielni stanu zatrudnienia podyktowanego gospodarczą koniecznością;
+- **2)** przyznania członkowi prawa do emerytury.
+
 **Art. 188.**
 
 § 1. W razie naruszenia przez spółdzielnię przepisów art. 184, art. 187 i art. 191, członkowi spółdzielni służy roszczenie o orzeczenie bezskuteczności wypowiedzenia spółdzielczej umowy o pracę lub jej warunków, a jeżeli spółdzielcza umowa o pracę uległa już rozwiązaniu – roszczenie o przywrócenie do pracy na poprzednich warunkach.
@@ -1497,6 +1522,12 @@ source: "isap-pdf"
 **Art. 267b.** Kto, będąc członkiem zarządu spółdzielni albo likwidatorem, nie zgłasza wniosku o upadłość spółdzielni pomimo powstania warunków uzasadniających upadłość spółdzielni, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 267c.** Kto, będąc członkiem organu spółdzielni albo likwidatorem wbrew przepisom ustawy:
+
+- **1)** nie poddaje spółdzielni lustracji,
+- **2)** nie udziela lub udziela niezgodnych ze stanem faktycznym wyjaśnień lustratorowi, nie dopuszcza go do pełnienia obowiązków lub nie przedkłada stosownych dokumentów,
+- **3)** nie udostępnia członkom spółdzielni protokołu lustracji,
+- **4)** nie zwołuje walnego zgromadzenia, zebrania przedstawicieli albo zebrań grup członkowskich poprzedzających zebranie przedstawicieli,
+- **5)** nie przygotowuje w terminie dokumentów dotyczących dokonania podziału w spółdzielni, o którym mowa w art. 108b, podlega grzywnie albo karze ograniczenia wolności.
 
 **Art. 267d.**
 

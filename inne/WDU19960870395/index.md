@@ -8,7 +8,7 @@ pos: 395
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich
@@ -29,6 +29,10 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zasady, wysokość oraz tryb przyznawania świadczenia pieniężnego, zwanego dalej „świadczeniem”, osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich;
+- **2)** zasady wydawania legitymacji osoby deportowanej do pracy przymusowej lub osadzonej w obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich, zwanej dalej „legitymacją”;
+- **3)** inne niż wymienione w pkt 1 i 2 uprawnienia osób deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich.
+
 **Art. 1a.**
 
 1. Świadczenie przysługuje osobom, które w okresie podlegania represjom określonym w ustawie były obywatelami polskimi i są nimi obecnie.
@@ -44,6 +48,11 @@ source: "isap-pdf"
 - **2)** o uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnionym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu – przysługuje świadczenie albo jeden z dodatków – wyższy lub wybrany przez uprawnionego.
 
 **Art. 2.** Represją w rozumieniu ustawy jest:
+
+- **1)** osadzenie w obozach pracy przymusowej w okresie wojny w latach 1939– 1945 z przyczyn politycznych, narodowościowych, rasowych i religijnych;
+- **2)** deportacja (wywiezienie) do pracy przymusowej na okres co najmniej 6 miesięcy w granicach terytorium państwa polskiego sprzed dnia 1 września 1939 r. lub z tego terytorium na terytorium:
+    - **a)** III Rzeszy i terenów przez nią okupowanych w okresie wojny w latach 1939–1945,
+    - **b)** Związku Socjalistycznych Republik Radzieckich i terenów przez niego okupowanych w okresie od dnia 17 września 1939 r. do dnia 5 lutego 1946 r. oraz po tym okresie do końca 1948 r. z terytorium państwa polskiego w jego obecnych granicach.
 
 **Art. 3.**
 

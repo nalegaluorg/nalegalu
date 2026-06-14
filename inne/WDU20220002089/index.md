@@ -8,7 +8,7 @@ pos: 2089
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych

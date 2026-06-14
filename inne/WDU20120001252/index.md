@@ -8,10 +8,10 @@ pos: 1252
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 listopada 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1252 Porozumienie między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec o utworzeniu Polsko-Niemieckiego Centrum Współpracy Służb Granicznych, Policyjnych i Celnych, zawarte dnia 17 lutego 2011 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2012-11-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1252/text.pdf) |
-
-Porozumienie między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec o utworzeniu Polsko-Niemieckiego Centrum Współpracy Służb Granicznych, Policyjnych i Celnych, zawarte dnia 17 lutego 2011 r.
 

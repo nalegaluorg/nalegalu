@@ -8,7 +8,7 @@ pos: 69
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Rzeczniku Praw Dziecka
@@ -73,7 +73,7 @@ source: "isap-pdf"
 
 2. Szczegółowy tryb zgłaszania kandydatów na Rzecznika określa uchwała Sejmu.
 
-3. Uchwałę o powołaniu Rzecznika Marszałek przesyła niezwłocznie Marszałkowi Senatu.
+3. Uchwałę Sejmu o powołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu.
 
 4. Senat podejmuje uchwałę w sprawie wyrażenia zgody na powołanie Rzecznika w ciągu miesiąca od dnia otrzymania uchwały Sejmu, o której mowa w ust. 3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody.
 
@@ -95,7 +95,7 @@ source: "isap-pdf"
 
 1. Rzecznik jest w swojej działalności niezależny od innych organów państwowych i odpowiada jedynie przed Sejmem na zasadach określonych w ustawie.
 
-2. Rzecznik nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności, z zastrzeżeniem ust. 2a.
+2. Rzecznik nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności, z zastrzeżeniem ust. 2a.
 
 2a. Rzecznik może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w ust. 2b, w trybie określonym w tym przepisie.
 
@@ -135,9 +135,9 @@ source: "isap-pdf"
 
 1. Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia o pozostawieniu wniosku bez biegu.
+2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek kieruje go do organu właściwego na podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku.
+3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku.
 
 4. Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
 
@@ -169,11 +169,11 @@ source: "isap-pdf"
 
 5. Sejm wyraża zgodę na zatrzymanie lub aresztowanie Rzecznika w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Rzecznika.
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+6. Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
 **Art. 7e.**
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7c ust. 9 i art. 7d ust. 5.
+1. Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7c ust. 9 i art. 7d ust. 5.
 
 2. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
@@ -192,7 +192,7 @@ source: "isap-pdf"
 
 2. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika na wniosek Marszałka Sejmu, Marszałka Senatu, grupy co najmniej 35 posłów lub co najmniej 15 senatorów.
 
-3. Uchwałę o odwołaniu Rzecznika Marszałek przesyła niezwłocznie Marszałkowi Senatu.
+3. Uchwałę Sejmu o odwołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu.
 
 4. Senat podejmuje uchwałę w sprawie wyrażenia zgody na odwołanie Rzecznika w ciągu miesiąca od dnia otrzymania uchwały Sejmu, o której mowa w ust. 3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody.
 
@@ -237,6 +237,10 @@ source: "isap-pdf"
 5. W przypadku gdy Rzecznik stwierdził w działalności organu, organizacji lub instytucji, o których mowa w ust. 1, naruszenie praw lub dobra dziecka, może żądać wszczęcia postępowania dyscyplinarnego lub zastosowania sankcji służbowych.
 
 **Art. 10b.** Organ, organizacja lub instytucja, do których zwróci się Rzecznik, są obowiązane z nim współdziałać i udzielać mu pomocy, a w szczególności:
+
+- **1)** zapewnić dostęp do akt i dokumentów badanej sprawy;
+- **2)** udzielać Rzecznikowi żądanych przez niego informacji i wyjaśnień;
+- **3)** udzielać wyjaśnień dotyczących podstawy faktycznej i prawnej swoich rozstrzygnięć.
 
 **Art. 10c.**
 

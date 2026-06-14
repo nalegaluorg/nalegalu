@@ -8,7 +8,7 @@ pos: 256
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Wyższej Szkole Morskiej w Szczecinie nazwy Akademia Morska w Szczecinie

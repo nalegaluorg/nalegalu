@@ -8,10 +8,10 @@ pos: 1381
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1381 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1381/text.pdf) |
 
-Poz. 1381 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 września 2024 r.
-zmieniające rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług Na podstawie art. 146ej ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów z dnia 9 grudnia 2023 r. w sprawie obniżonych stawek podatku od towarów i usług (Dz. U. poz. 2670 oraz z 2024 r. poz. 387) po § 10 dodaje się § 10a w brzmieniu: „§ 10a. 1. Do dnia 31 grudnia 2024 r. obniżoną do wysokości 0 % stawkę podatku stosuje się do:
+zmieniające rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług Na podstawie art. 146ej ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Finansów z dnia 9 grudnia 2023 r. w sprawie obniżonych stawek podatku od towarów i usług (Dz. U. poz. 2670 oraz z 2024 r. poz. 387) po § 10 dodaje się § 10a w brzmieniu: „§ 10a. 1. Do dnia 31 grudnia 2024 r. obniżoną do wysokości 0 % stawkę podatku stosuje się do:
 1) dostawy towarów, o której mowa w art. 7 ust. 2 pkt 2 ustawy,
 2) świadczenia usług, o którym mowa w art. 8 ust. 2 ustawy – na cele związane z pomocą poszkodowanym wskutek intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r.
 2. Obniżoną stawkę podatku, o której mowa w ust. 1, stosuje się wyłącznie do dostaw towarów lub świadczenia usług dokonywanych na rzecz:

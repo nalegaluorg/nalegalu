@@ -8,10 +8,10 @@ pos: 2284
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2284 OBWIESZCZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 7 listopada 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2284/text.pdf) |
 
-OBWIESZCZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 7 listopada 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej w sprawie warsztatów terapii zajęciowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 25 marca 2004 r. w sprawie warsztatów terapii zajęciowej (Dz. U. poz. 587), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 20 października 2020 r. zmieniającym rozporządzenie w sprawie warsztatów terapii zajęciowej (Dz. U. poz. 1877).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 20 października 2020 r. zmieniającego rozporządzenie w sprawie warsztatów terapii zajęciowej (Dz. U. poz. 1877), które stanowią: „§ 2. 1. W okresie obowiązywania stanu epidemii ogłoszonego z powodu COVID-19 ustalenie krótszego niż 35 godzin tygodniowo wymiaru zajęć w warsztacie terapii zajęciowej, o którym mowa w § 8 ust. 2 rozporządzenia zmienianego w § 1, nie zmniejsza wysokości dofinansowania działalności tego warsztatu, począwszy od dnia 25 maja 2020 r.
@@ -36,7 +35,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki, Pr
 4. Zmiana kosztów działalności warsztatu terapii zajęciowej, o których mowa w § 19 ust. 1 pkt 1 i 1a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, wpływająca na zmianę podziału środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych na działalność tego warsztatu w 2020 r., wymaga sporządzenia przez strony aneksu do umowy, o której mowa w § 5 ust. 1 rozporządzenia zmienianego w § 1.
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Rodziny i Polityki Społecznej: M. Maląg ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ z dnia 25 marca 2004 r.
-w sprawie warsztatów terapii zajęciowej Na podstawie art. 10b ust. 7 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie warsztatów terapii zajęciowej Na podstawie art. 10b ust. 7 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe zasady tworzenia, działania i dofinansowywania warsztatu terapii zajęciowej, zwanego dalej „warsztatem”, w tym:
 a) wzory, tryb składania oraz sposób rozpatrywania wniosków o dofinansowanie kosztów utworzenia, działalności i kosztów wynikających ze zwiększonej liczby uczestników warsztatu,
 b) sposób dofinansowania kosztów utworzenia, działalności i kosztów wynikających ze zwiększonej liczby uczestników warsztatu,
@@ -52,7 +52,7 @@ d) szczegółowe zasady obniżania dofinansowania w zależności od wskaźnika u
 1) nazwę oraz określenie siedziby jednostki zamierzającej utworzyć warsztat;
 2) adres i dokument potwierdzający tytuł prawny do obiektu lub lokalu przeznaczonego na warsztat na okres nie krótszy niż 10 lat;
 3) promesę zwolnienia z opłat za użytkowanie obiektu lub lokalu przeznaczonego na warsztat przez okres nie krótszy niż 10 lat, w przypadku gdy ten obiekt lub lokal stanowi własność jednostki samorządu terytorialnego;
-4) aktualny wypis z rejestru sądowego lub inny dokument potwierdzający osobowość prawną jednostki, a w przypadku nieposiadania osobowości prawnej dokument potwierdzający istnienie takiej jednostki;
+4) aktualny wypis z rejestru sądowego lub inny dokument potwierdzający osobowość prawną jednostki, a w przypadku nieposiadania osobowości prawnej – dokument potwierdzający istnienie takiej jednostki;
 5) statut jednostki zamierzającej utworzyć warsztat;
 6) zgłoszenie co najmniej 20 kandydatów na uczestników warsztatu, z określeniem stopni i rodzajów ich niepełnosprawności łącznie z wynikającym z orzeczenia o stopniu niepełnosprawności wskazaniem do rehabilitacji w formie terapii zajęciowej oraz z podaniem wieku kandydatów;
 7) plan działalności warsztatu określający metody pracy z uczestnikami warsztatu w zakresie rehabilitacji społecznej i zawodowej;
@@ -91,7 +91,7 @@ b) przewidywany procentowy udział środków Funduszu w finansowaniu tych koszt�
 3) liczbę uczestników warsztatu;
 4) liczbę pracowników, liczbę etatów, wykaz stanowisk oraz wymagane kwalifikacje pracowników warsztatu;
 5) termin rozpoczęcia działalności warsztatu;
-6) wysokość środków finansowych niezbędnych do utworzenia (uruchomienia) warsztatu i jego rocznej działalności z podziałem na rodzaje kosztów oraz źródła ich finansowania;
+6) wysokość środków finansowych niezbędnych do utworzenia (uruchomienia) warsztatu i jego rocznej działalności – z podziałem na rodzaje kosztów oraz źródła ich finansowania;
 7) sposób finansowania oraz sposób i termin rozliczania kosztów utworzenia i działalności warsztatu;
 8) szczegółowe warunki rozwiązania umowy.
 3. Umowa powinna zawierać ponadto zobowiązanie jednostki do:
@@ -99,12 +99,13 @@ b) przewidywany procentowy udział środków Funduszu w finansowaniu tych koszt�
 2) wyodrębnienia w księgach rachunkowych jednostki działalności warsztatu;
 3) pokrycia ze środków własnych kwoty, o jaką przekroczono określoną w umowie kwotę środków przeznaczonych na utworzenie warsztatu;
 4) zwrotu do Funduszu, za pośrednictwem powiatu:
-a) kwoty stanowiącej równowartość wyposażenia warsztatu w środki trwałe, zakupionego ze środków Funduszu, pomniejszonej o kwotę amortyzacji w przypadku likwidacji warsztatu lub rozwiązania umowy z przyczyn leżących po stronie jednostki,
-b) całości środków otrzymanych na adaptację dotychczas zajmowanych przez warsztat pomieszczeń wraz z odsetkami ustawowymi naliczonymi od dnia dokonania płatności tych środków, w przypadku: nieuzasadnionej ważnymi przyczynami zmiany lokalizacji warsztatu, dokonanej bez uzgodnienia z centrum pomocy w okresie 10 lat od podpisania umowy, lub rozwiązania tej umowy z przyczyn leżących po stronie jednostki prowadzącej;
+a) kwoty stanowiącej równowartość wyposażenia warsztatu w środki trwałe, zakupionego ze środków Funduszu, pomniejszonej o kwotę amortyzacji – w przypadku likwidacji warsztatu lub rozwiązania umowy z przyczyn leżących po stronie jednostki,
+b) całości środków otrzymanych na adaptację dotychczas zajmowanych przez warsztat pomieszczeń wraz z odsetkami ustawowymi naliczonymi od dnia dokonania płatności tych środków, w przypadku: – nieuzasadnionej ważnymi przyczynami zmiany lokalizacji warsztatu, dokonanej bez uzgodnienia z centrum pomocy w okresie 10 lat od podpisania umowy, lub – rozwiązania tej umowy z przyczyn leżących po stronie jednostki prowadzącej;
 5) zachowania formy pisemnej dla dokonywania zmian w umowie.
 4. Plan finansowy warsztatu na rok następny jednostka prowadząca warsztat składa do centrum pomocy nie później niż do dnia 15 października roku poprzedzającego.
 5. Strony umowy w terminie 14 dni od dnia przyjęcia przez radę powiatu uchwały, o której mowa w art. 35a ust. 3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanej dalej „ustawą”, określają w formie aneksu do umowy wysokość środków na działalność warsztatu w danym roku, z uwzględnieniem:
 1) podziału na poszczególne rodzaje kosztów, zaliczonych do kosztów działalności warsztatu finansowanych ze środków Funduszu;
+2) procentowego udziału środków Funduszu w ogólnej kwocie środków na działalność warsztatu.
 § 6. 1. Jednostka prowadząca warsztat może wystąpić do centrum pomocy właściwego ze względu na siedzibę warsztatu z wnioskiem o dofinansowanie ze środków Funduszu kosztów wynikających ze zwiększenia liczby uczestników warsztatu nie wcześniej niż po upływie dwóch lat od dnia akceptacji przez powiat kosztów utworzenia warsztatu; wzór wniosku stanowi załącznik nr 2 do rozporządzenia.
 2. Do wniosku dołącza się:
 1) informacje o:
@@ -129,10 +130,11 @@ c) warunkach lokalowych, rzeczowych, organizacyjnych i kadrowych umożliwiający
 Regulamin organizacyjny warsztatu określa w szczególności:
 1) prawa i obowiązki uczestnika warsztatu;
 2) sposób ustalania wysokości środków finansowych otrzymywanych przez uczestnika warsztatu w ramach treningu ekonomicznego i gospodarowania nimi;
+3) organizację pracy i zajęć;
 4) sposób dowozu uczestników do warsztatu;
 5) obowiązki kierownika warsztatu w zakresie:
 a) zapewnienia odpowiednich warunków pracy i organizowanych zajęć,
-b) planowania: rozkładu zajęć w warsztacie, przerw wakacyjnych uczestników warsztatu, urlopów pracowników.
+b) planowania: – rozkładu zajęć w warsztacie, – przerw wakacyjnych uczestników warsztatu, – urlopów pracowników.
 § 10. 1. Działalność warsztatu jest działalnością o charakterze niezarobkowym.
 2. Dochód ze sprzedaży produktów i usług wykonanych przez uczestników warsztatu w ramach realizowanego programu terapii przeznacza się, w porozumieniu z uczestnikami warsztatu, na pokrycie wydatków związanych z integracją społeczną uczestników.
 3. W przypadku gdy wysokość dochodu przekracza w skali miesiąca kwotę odpowiadającą iloczynowi liczby uczestników warsztatu i 30% minimalnego wynagrodzenia za pracę obowiązującego w grudniu roku poprzedniego, o przeznaczeniu kwoty przekroczenia tego dochodu decydują strony umowy.
@@ -140,7 +142,7 @@ b) planowania: rozkładu zajęć w warsztacie, przerw wakacyjnych uczestników w
 1) zawierającej informacje dotyczące:
 a) podstawy do zakwalifikowania osoby niepełnosprawnej do uczestnictwa w warsztacie,
 b) miejsca zamieszkania, stanu rodzinnego uczestnika, jego warunków mieszkaniowych i bytowych,
-c) współpracy z rodzinami lub opiekunami uczestnika warsztatu, w tym: daty i czasu trwania kontaktów, formy kontaktów, oceny współpracy,
+c) współpracy z rodzinami lub opiekunami uczestnika warsztatu, w tym: – daty i czasu trwania kontaktów, – formy kontaktów, – oceny współpracy,
 d) przyczyn zaprzestania uczestnictwa w warsztacie,
 e) działalności rehabilitacyjnej warsztatu, w tym w zakresie realizacji indywidualnych programów;
 2) innej, wynikającej z przepisów odrębnych.
@@ -171,17 +173,17 @@ e) działalności rehabilitacyjnej warsztatu, w tym w zakresie realizacji indywi
 2. Pierwszą transzę środków Funduszu na cele związane z dofinansowaniem kosztów utworzenia warsztatu w wysokości określonej w umowie powiat przekazuje w terminie 14 dni od dnia podpisania umowy.
 § 16. Ze środków Funduszu nie mogą być dofinansowane koszty związane z przygotowaniem projektu.
 § 17. Kwota dofinansowania ze środków Funduszu kosztów uczestnictwa w warsztacie osób niepełnosprawnych przebywających w jednostkach organizacyjnych obowiązanych do zapewnienia terapii zajęciowej na podstawie odrębnych przepisów wynosi odpowiednio:
-1) przy wskaźniku udziału 79% do 70% tych osób w ogólnej liczbie uczestników warsztatu 30% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce;
-2) przy wskaźniku udziału 69% do 60% tych osób w ogólnej liczbie uczestników warsztatu 45% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce;
-3) przy wskaźniku udziału 59% do 50% tych osób w ogólnej liczbie uczestników warsztatu 60% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce;
-4) przy wskaźniku udziału 49% do 40% tych osób w ogólnej liczbie uczestników warsztatu 75% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce;
-5) przy wskaźniku udziału 39% do 31% tych osób w ogólnej liczbie uczestników warsztatu 90% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce.
+1) przy wskaźniku udziału 79% do 70% tych osób w ogólnej liczbie uczestników warsztatu – 30% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce;
+2) przy wskaźniku udziału 69% do 60% tych osób w ogólnej liczbie uczestników warsztatu – 45% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce;
+3) przy wskaźniku udziału 59% do 50% tych osób w ogólnej liczbie uczestników warsztatu – 60% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce;
+4) przy wskaźniku udziału 49% do 40% tych osób w ogólnej liczbie uczestników warsztatu – 75% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce;
+5) przy wskaźniku udziału 39% do 31% tych osób w ogólnej liczbie uczestników warsztatu – 90% dofinansowania kosztów uczestnictwa osoby nieprzebywającej w takiej placówce.
 § 18. 1. Jednostka przedkłada rozliczenie kosztów utworzenia warsztatu w terminie określonym w umowie.
 2. Powiat dokonuje oceny przedłożonego rozliczenia kosztów utworzenia warsztatu w terminie 30 dni od dnia złożenia dokumentacji.
 3. Przyjmuje się, że terminem utworzenia warsztatu jest dzień akceptacji przez powiat rozliczenia kosztów utworzenia warsztatu.
 4. Dofinansowanie ze środków Funduszu kosztów działalności warsztatu przysługuje od dnia rozpoczęcia zajęć przez uczestników warsztatu.
 § 19. 1. Do kosztów działalności warsztatu, które mogą być dofinansowywane ze środków Funduszu, zalicza się koszty:
-1) wynagrodzenia pracowników warsztatu, należnych od pracodawcy składek na ubezpieczenia społeczne pracowników, a także składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy oraz odpisów na zakładowy fundusz świadczeń socjalnych w przypadku ich ponoszenia;
+1) wynagrodzenia pracowników warsztatu, należnych od pracodawcy składek na ubezpieczenia społeczne pracowników, a także składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Solidarnościowy oraz odpisów na zakładowy fundusz świadczeń socjalnych – w przypadku ich ponoszenia;
 1a) wpłat podstawowych oraz wpłat dodatkowych do pracowniczych planów kapitałowych w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2020 r. poz. 1342), finansowanych przez warsztat;
 2) niezbędnych materiałów, energii, usług materialnych i usług niematerialnych związanych z funkcjonowaniem warsztatu;
 3) dowozu uczestników lub eksploatacji samochodu, związanej z realizacją programu rehabilitacyjnego i niezbędną obsługą działalności warsztatu;
@@ -203,7 +205,7 @@ a) liczbie uczestników warsztatu oraz stopniu i rodzaju ich niepełnosprawnośc
 b) ogólnej frekwencji uczestników w zajęciach warsztatu w poszczególnych miesiącach roku sprawozdawczego,
 c) formach i metodach realizowanej przez warsztat działalności rehabilitacyjnej,
 d) liczbie uczestników, którzy opuścili warsztat, wraz z podaniem przyczyn ich odejścia,
-e) liczbie uczestników, którzy poczynili postępy w zakresie: zaradności osobistej i samodzielności, rehabilitacji społecznej, rehabilitacji zawodowej wraz z opisem tych postępów;
+e) liczbie uczestników, którzy poczynili postępy w zakresie: – zaradności osobistej i samodzielności, – rehabilitacji społecznej, – rehabilitacji zawodowej wraz z opisem tych postępów;
 3) informację o decyzjach podjętych przez radę programową w stosunku do uczestników warsztatu, wobec których rada programowa dokonała oceny realizacji indywidualnego programu rehabilitacji.
 3. Sprawozdanie stanowi podstawę do dokonywania przez powiat corocznej oceny działalności warsztatu.
 § 22. 1. Kontrolę warsztatu przeprowadza się po okazaniu przez kontrolującego pisemnego, imiennego upoważnienia, wydanego przez kierownika centrum pomocy, oraz legitymacji służbowej lub dowodu osobistego.
@@ -226,20 +228,20 @@ c) współpracy z rodzicami lub opiekunami uczestników;
 4. Centrum pomocy przekazuje jednostce prowadzącej warsztat w terminie 30 dni od dnia przeprowadzenia kontroli pisemną informację o wynikach kontroli. W przypadku stwierdzenia nieprawidłowości w zakresie objętym kontrolą do informacji dołącza się wnioski i zalecenia pokontrolne.
 5. Jednostka prowadząca warsztat w terminie 30 dni od dnia otrzymania informacji o wynikach kontroli powiadamia na piśmie centrum pomocy o sposobie wykonania zaleceń pokontrolnych lub przyczynach ich niewykonania.
 § 23. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR W N I O S E K o dofinansowanie ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów utworzenia i działalności warsztatu terapii zajęciowej Wniosek złożono w .....................................................
+WZÓR WZÓR W N I O S E K o dofinansowanie ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów utworzenia i działalności warsztatu terapii zajęciowej Wniosek złożono w .....................................................
 w ..................................................................................
 w dniu ..........................................................................
 Numer sprawy ............................................................. /pieczęć powiatowego centrum pomocy rodzinie/ Wniosek kompletny przyjęto w ...................................
 w ..................................................................................
 w dniu ..........................................................................
 /miejscowość/ I. INFORMACJA O WNIOSKODAWCY Nazwa i adres: Pełna nazwa Kod pocztowy Miejscowość Ulica Numer Powiat Województwo Numer telefonu Numer faksu e-mail Organ założycielski Źródła finansowania działalności Informacja o realizacji obowiązku wpłat na rzecz PFRON: Zobowiązanie do wpłat na rzecz PFRON tak nie Data ostatniej wpłaty Kwota zaległości Podstawa zwolnienia z wpłat Fundacja, stowarzyszenie lub inny podmiot zamierzający utworzyć warsztat terapii zajęciowej.
-WZÓR Informacja o korzystaniu ze środków PFRON: Wnioskodawca korzysta bądź korzystał ze środków PFRON w okresie tak nie ostatnich 3 lat II. PROPONOWANA LOKALIZACJA I STRUKTURA WARSZTATU TERAPII ZAJĘCIOWEJ Adres warsztatu: Kod pocztowy Miejscowość Ulica Numer Powiat Województwo Numer telefonu Numer faksu e-mail Liczba pomieszczeń Powierzchnia użytkowa Tytuł prawny wnioskodawcy do dysponowania pomieszczeniami na potrzeby warsztatu terapii zajęciowej (własność, umowa najmu itp.) Proponowana liczba uczestników Proponowana liczba etatów pracowników Rodzaj planowanych pracowni terapii zajęciowej:
+Informacja o korzystaniu ze środków PFRON: Wnioskodawca korzysta bądź korzystał ze środków PFRON w okresie tak nie ostatnich 3 lat II. PROPONOWANA LOKALIZACJA I STRUKTURA WARSZTATU TERAPII ZAJĘCIOWEJ Adres warsztatu: Kod pocztowy Miejscowość Ulica Numer Powiat Województwo Numer telefonu Numer faksu e-mail Liczba pomieszczeń Powierzchnia użytkowa Tytuł prawny wnioskodawcy do dysponowania pomieszczeniami na potrzeby warsztatu terapii zajęciowej (własność, umowa najmu itp.) Proponowana liczba uczestników Proponowana liczba etatów pracowników Rodzaj planowanych pracowni terapii zajęciowej:
 1. 6.
 2. 7.
 3. 8.
 4. 9.
 5. 10.
-III. KOSZTY UTWORZENIA I DZIAŁALNOŚCI WARSZTATU TERAPII ZAJĘCIOWEJ Wnioskodawca prowadzi dochodową działalność gospodarczą tak nie Całkowity koszt adaptacji pomieszczeń Całkowity koszt wyposażenia pomieszczeń Całkowity koszt zakupu samochodu na potrzeby Całkowity koszt działalności na okres ...... m-cy w ....... roku Całkowity koszt przedsięwzięcia Deklarowany udział własny wnioskodawcy Kwota wnioskowana na: Adaptację pomieszczeń Wyposażenie w tym: zakup samochodu na działalność na okres ....... m-cy w .............. roku Łączna wnioskowana kwota przeznaczona na zorganizowanie warsztatu (zł) (słownie: ..................................................................................................................................................) W załączeniu projekt utworzenia warsztatu Podpisy osób uprawnionych do reprezentowania wnioskodawcy: Numer sprawy: Część B Część B wypełnia powiatowe centrum pomocy rodzinie Ocena projektu utworzenia warsztatu oraz propozycja wysokości finansowania w części lub w całości, ze środków PFRON, kosztów utworzenia i działalności warsztatu terapii zajęciowej ....................................................................................................................................................
+III. KOSZTY UTWORZENIA I DZIAŁALNOŚCI WARSZTATU TERAPII ZAJĘCIOWEJ Wnioskodawca prowadzi dochodową działalność gospodarczą tak nie Całkowity koszt adaptacji pomieszczeń Całkowity koszt wyposażenia pomieszczeń Całkowity koszt zakupu samochodu na potrzeby Całkowity koszt działalności na okres ...... m-cy w ....... roku Całkowity koszt przedsięwzięcia Deklarowany udział własny wnioskodawcy Kwota wnioskowana na: Adaptację pomieszczeń Wyposażenie w tym: zakup samochodu na działalność na okres ....... m-cy w .............. roku Łączna wnioskowana kwota przeznaczona na zorganizowanie warsztatu (zł) (słownie: ..................................................................................................................................................) W załączeniu projekt utworzenia warsztatu Podpisy osób uprawnionych do reprezentowania wnioskodawcy: Numer sprawy: Część B Część B – wypełnia powiatowe centrum pomocy rodzinie Ocena projektu utworzenia warsztatu oraz propozycja wysokości finansowania w części lub w całości, ze środków PFRON, kosztów utworzenia i działalności warsztatu terapii zajęciowej ....................................................................................................................................................
 ....................................................................................................................................................
 ....................................................................................................................................................
 ....................................................................................................................................................
@@ -258,7 +260,7 @@ Kwota na działalność warsztatu na okres .......... m-cy w ........ roku:.....
 /data i podpis/ Numer sprawy: Część C Część C - wypełnia kierownik powiatowego centrum W dniu ........................... przyjęto / nie przyjęto do finansowania w części lub w całości koszty zorganizowania i działalności warsztatu terapii zajęciowej w ...............................
 przy ............................................................................................................................................
 w łącznej kwocie: ..........................................zł, w tym na: adaptację pomieszczeń: ............................................ zł wyposażenie: ........................................zł (w tym na samochód: ....................................... zł) działalność na okres .........m-cy w ......... roku: ....................................................................zł .............................................
-/podpis/ WZÓR W N I O S E K o dofinansowanie ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów wynikających ze zwiększenia liczby uczestników warsztatu terapii zajęciowej Część A - wypełnia wnioskodawca I. INFORMACJA O WNIOSKODAWCY Nazwa i adres: Pełna nazwa: Kod pocztowy Miejscowość Ulica Numer Powiat Województwo Numer telefonu Numer faksu e-mail Organ założycielski Źródła finansowania działalności Informacja o realizacji obowiązku wpłat na rzecz PFRON: Zobowiązanie do wpłat na rzecz PFRON tak nie Data ostatniej wpłaty Kwota zaległości Podstawa zwolnienia z wpłat WZÓR Informacja o korzystaniu ze środków PFRON: Wnioskodawca korzysta bądź korzystała ze środków PFRON w okresie ostatnich 3 lat tak nie II. LOKALIZACJA I STRUKTURA WARSZTATU TERAPII ZAJĘCIOWEJ Adres warsztatu: Kod pocztowy Miejscowość Ulica Numer Powiat Województwo Numer telefonu Numer faksu Liczba pomieszczeń Powierzchnia użytkowa Liczba uczestników warsztatu Data rozpoczęcia działalności przez warsztat Tytuł prawny wnioskodawcy do dysponowania pomieszczeniami na potrzeby warsztatu terapii zajęciowej: (własność, umowa najmu itp.) III. KOSZTY WYNIKAJĄCE ZE ZWIĘKSZENIA LICZBY UCZESTNIKÓW WARSZTATU TERAPII ZAJĘCIOWEJ Proponowana liczba nowych uczestników Kwota wnioskowana na dofinansowanie kosztów wynikających ze zwiększenia liczby uczestników ......................................................................................................zł, w tym:
+/podpis/ WZÓR WZÓR W N I O S E K o dofinansowanie ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów wynikających ze zwiększenia liczby uczestników warsztatu terapii zajęciowej Część A - wypełnia wnioskodawca I. INFORMACJA O WNIOSKODAWCY Nazwa i adres: Pełna nazwa: Kod pocztowy Miejscowość Ulica Numer Powiat Województwo Numer telefonu Numer faksu e-mail Organ założycielski Źródła finansowania działalności Informacja o realizacji obowiązku wpłat na rzecz PFRON: Zobowiązanie do wpłat na rzecz PFRON tak nie Data ostatniej wpłaty Kwota zaległości Podstawa zwolnienia z wpłat Informacja o korzystaniu ze środków PFRON: Wnioskodawca korzysta bądź korzystała ze środków PFRON w okresie tak nie ostatnich 3 lat II. LOKALIZACJA I STRUKTURA WARSZTATU TERAPII ZAJĘCIOWEJ Adres warsztatu: Kod pocztowy Miejscowość Ulica Numer Powiat Województwo Numer telefonu Numer faksu Liczba pomieszczeń Powierzchnia użytkowa Liczba uczestników warsztatu Data rozpoczęcia działalności przez warsztat Tytuł prawny wnioskodawcy do dysponowania pomieszczeniami na potrzeby warsztatu terapii zajęciowej: (własność, umowa najmu itp.) III. KOSZTY WYNIKAJĄCE ZE ZWIĘKSZENIA LICZBY UCZESTNIKÓW WARSZTATU TERAPII ZAJĘCIOWEJ Proponowana liczba nowych uczestników Kwota wnioskowana na dofinansowanie kosztów wynikających ze zwiększenia liczby uczestników ......................................................................................................zł, w tym:
 1) kosztu adaptacji pomieszczeń ...................................................................zł,
 2) kosztu dodatkowego wyposażenia pomieszczeń ......................................zł,
 3) kosztu działalności warsztatu na okres od dnia ............. do dnia ................ roku 200....................................................zł W załączeniu informacje, o których mowa w § 6 ust. 2 rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 25 marca 2004 r. w sprawie warsztatów terapii zajęciowej (Dz. U. z 2021 r. poz. 2284).
@@ -279,5 +281,5 @@ przy ...........................................................................
 w łącznej kwocie: ...............................................................................................zł, w tym na: adaptację pomieszczeń: .......................................................................................zł dodatkowe wyposażenie pomieszczeń ................................................................zł działalność warsztatu na okres ......... m-cy w ........ roku: ..................................zł ..............................................
 /podpis/
 
-## Część A wypełnia wnioskodawca /pieczęć wnioskodawcy/ ..................................... dnia .................
+## Część A – wypełnia wnioskodawca /pieczęć wnioskodawcy/ ..................................... dnia .................
 

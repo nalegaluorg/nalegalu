@@ -8,10 +8,10 @@ pos: 2150
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2150 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 9 listopada 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002150) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2150/text.pdf) |
 
-Poz. 2150 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 9 listopada 2017 r.
-zmieniające rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2016 r. poz. 1604, 1948, 1961 i 2007 oraz z 2017 r. poz. 624) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2014 r. w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. z 2015 r. poz. 29 oraz z 2016 r. poz. 2019) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2016 r. poz. 1604, 1948, 1961 i 2007 oraz z 2017 r. poz. 624) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2014 r. w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. z 2015 r. poz. 29 oraz z 2016 r. poz. 2019) wprowadza się następujące zmiany:
 1) § 6 otrzymuje brzmienie: „§ 6. W oznakowaniu fermentowanych napojów winiarskich, o których mowa w art. 3 pkt 1 lit. c–e, i, m oraz o ustawy winiarskiej, określenie „owocowe” lub „owocowy” może być zastąpione nazwą użytego owocu, jeżeli taki napój otrzymano z nastawu jednorodnego albo nastawu mieszanego zawierającego co najmniej 75% objętościowych nastawu z danego owocu, moszczu owocowego, soku owocowego lub zagęszczonego soku owocowego.”;
 2) w § 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „W oznakowaniu fermentowanych napojów winiarskich, o których mowa w art. 3 pkt 1 lit. d–h oraz m–r ustawy winiarskiej, nazwy wymienione w § 5 uzupełnia się o jedno z następujących określeń:”.
 § 2. Fermentowane napoje winiarskie, o których mowa w art. 3 pkt 1 lit. q oraz r ustawy z dnia 12 maja 2011 r.

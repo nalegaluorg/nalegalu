@@ -8,12 +8,10 @@ pos: 2009
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -44,15 +42,40 @@ Art. 110–122. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** udzielania wzajemnej pomocy przez Rzeczpospolitą Polską i państwa członkowskie oraz państwa trzecie przy dochodzeniu podatków, należności celnych i innych należności pieniężnych;
+- **2)** wykorzystywania informacji otrzymywanych w ramach udzielania wzajemnej pomocy także do celów innych niż dochodzenie podatków, należności celnych i innych należności pieniężnych.
+
 **Art. 2.** Ustawę stosuje się do następujących należności pieniężnych:
 
+- **1)** podatków i należności celnych pobieranych przez Rzeczpospolitą Polską, państwo członkowskie lub w ich imieniu, przez ich jednostki podziału terytorialnego lub administracyjnego, w tym organy lokalne, lub w imieniu tych jednostek lub organów, a także w imieniu Unii Europejskiej;
+- **2)** refundacji, interwencji i innych środków stanowiących część całkowitego lub częściowego systemu finansowania Europejskiego Funduszu Rolniczego Gwarancji (EFRG) oraz Europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich (EFRROW), w tym kwot należnych w związku z tymi działaniami;
+- **3)** opłat i innych należności pieniężnych przewidzianych w ramach wspólnej organizacji rynku Unii Europejskiej dla sektora cukru;
+- **4)** kar, grzywien, opłat i dopłat administracyjnych związanych z należnościami pieniężnymi, o których mowa w pkt 1–3, nałożonych przez organy właściwe do pobierania podatków i należności celnych lub właściwe do prowadzenia postępowań administracyjnych dotyczących podatków i należności celnych lub potwierdzonych przez organy administracyjne lub sądowe na wniosek organów właściwych w sprawie podatków i należności celnych;
+- **5)** opłat za zaświadczenia i podobne do zaświadczeń dokumenty wydane w postępowaniach administracyjnych w sprawie należności pieniężnych, o których mowa w pkt 1;
+- **6)** odsetek i kosztów związanych z należnościami pieniężnymi, o których mowa w pkt 1–5, w związku z którymi możliwe jest zwrócenie się o wzajemną pomoc;
+- **7)** przekazanych do egzekucji administracyjnej na podstawie ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska.
+
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dokument zabezpieczenia – dokument wystawiony przez państwo członkowskie, dołączony do wniosku o podjęcie środków zabezpieczających należności pieniężne, o których mowa w art. 2 pkt 1–6, i stanowiący podstawę do zabezpieczenia w tym państwie członkowskim;
+- **2)** dzień roboczy – dzień od poniedziałku do piątku, z wyjątkiem dnia ustawowo wolnego od pracy;
+- **3)** jednolity formularz służący do powiadomienia – dokument wystawiony przez organ egzekucyjny, wierzyciela albo państwo członkowskie, dołączony do wniosku o powiadomienie;
+- **4)** jednolity tytuł wykonawczy – dokument wystawiony przez organ egzekucyjny albo państwo członkowskie, dołączony do wniosku o odzyskanie należności pieniężnych, o których mowa w art. 2 pkt 1–6;
+- **5)** państwo członkowskie – państwo będące członkiem Unii Europejskiej inne niż Rzeczpospolita Polska;
+- **6)** państwo trzecie – państwo niebędące członkiem Unii Europejskiej;
+- **7)** pierwotny tytuł wykonawczy – odpowiednio:
+    - **a)** tytuł wykonawczy stanowiący podstawę do dochodzenia należności pieniężnych na terytorium Rzeczypospolitej Polskiej,
+    - **b)** dokument wystawiony przez państwo członkowskie, stanowiący podstawę do dochodzenia należności pieniężnych, o których mowa w art. 2, w tym państwie,
+    - **c)** dokument wystawiony przez państwo trzecie, stanowiący podstawę do dochodzenia należności pieniężnych, o których mowa w art. 2 pkt 7, w tym państwie;
+
+- **8)** podmiot – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną nieposiadającą osobowości prawnej, której dotyczy wzajemna pomoc;
+- **9)** wniosek o udzielenie pomocy – wniosek o udzielenie informacji, wniosek o powiadomienie, wniosek o odzyskanie należności pieniężnych oraz wniosek o podjęcie środków zabezpieczających należności pieniężne.
 
 **Art. 4.**
 
 1. Dochodzenie oraz zabezpieczenie należności pieniężnych państw członkowskich lub państw trzecich odbywa się w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ), zwanej dalej „ustawą o postępowaniu egzekucyjnym w administracji”.
 
-2. Jeżeli przepisy ustawy nie stanowią inaczej, w sprawach dotyczących wzajemnej pomocy stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+2. Jeżeli przepisy ustawy nie stanowią inaczej, w sprawach dotyczących wzajemnej pomocy stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 ## TYTUŁ II Organizacja i ogólne zasady udzielania wzajemnej pomocy
 
@@ -65,6 +88,10 @@ Art. 110–122. (pominięte)
 2. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, tryb współpracy między centralnym biurem łącznikowym a naczelnikami urzędów skarbowych, organami egzekucyjnymi lub wierzycielami oraz między wierzycielami a organami egzekucyjnymi, kierując się potrzebą zapewnienia sprawnego i skutecznego korzystania z pomocy państwa członkowskiego lub państwa trzeciego oraz udzielania pomocy państwu członkowskiemu lub państwu trzeciemu.
 
 **Art. 6.** Do zadań ministra właściwego do spraw finansów publicznych w zakresie wzajemnej pomocy należy:
+
+- **1)** sprawowanie nadzoru nad realizacją zadań związanych z wzajemną pomocą;
+- **2)** zawieranie z państwami członkowskimi i państwami trzecimi porozumień w zakresie wzajemnej pomocy;
+- **3)** organizowanie i koordynowanie kontaktów z organizacjami międzynarodowymi, państwami członkowskimi, państwami trzecimi oraz Komisją Europejską, w tym informowanie Komisji Europejskiej o wyznaczeniu centralnego biura łącznikowego oraz biura łącznikowego.
 
 **Art. 7.**
 
@@ -102,6 +129,14 @@ Art. 110–122. (pominięte)
 
 **Art. 11a.** Dane osobowe przetwarzane w celu wykonywania zadań wynikających z ustawy podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
+- **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności;
+- **3)** testowaniu i doskonaleniu stosowanych środków technicznych i organizacyjnych;
+- **4)** zapewnieniu bezpiecznej komunikacji w sieciach teleinformatycznych, w szczególności poprzez pozyskiwanie danych osobowych i przekazywanie ich podmiotom zewnętrznym z wykorzystaniem technik kryptograficznych;
+- **5)** zapewnieniu ochrony przed nieuprawnionym dostępem do systemów informatycznych organów;
+- **6)** zapewnieniu integralności danych w systemach informatycznych organów;
+- **7)** określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
+
 ### DZIAŁ II Ogólne zasady udzielania wzajemnej pomocy
 
 **Art. 12.** Wzajemna pomoc jest realizowana na podstawie wniosku o udzielenie pomocy, z zastrzeżeniem art. 64.
@@ -126,8 +161,8 @@ Art. 110–122. (pominięte)
 
 1. Wnioski o udzielenie pomocy, dokumenty, informacje oraz inne wnioski przesyła się:
 
-- **1)** do państw członkowskich przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, a jeżeli ze względów technicznych nie jest to możliwe drogą pocztową;
-- **2)** do państw trzecich drogą pocztową.
+- **1)** do państw członkowskich – przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, a jeżeli ze względów technicznych nie jest to możliwe – drogą pocztową;
+- **2)** do państw trzecich – drogą pocztową.
 
 2. Dołączone do wniosku o udzielenie pomocy dokumenty przekazywane przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej mają postać elektronicznej kopii dokumentu.
 
@@ -143,6 +178,11 @@ Art. 110–122. (pominięte)
 
 **Art. 22.** Centralne biuro łącznikowe uzupełnia wniosek o udzielenie pomocy kierowany do państwa członkowskiego lub państwa trzeciego o:
 
+- **1)** nazwę oraz adres siedziby lub inne informacje dotyczące centralnego biura łącznikowego;
+- **2)** wysokość należności pieniężnych przeliczoną na walutę:
+    - **a)** państwa członkowskiego, według kursu ostatnio ogłoszonego w Dzienniku Urzędowym Unii Europejskiej przed dniem wysłania wniosku albo
+    - **b)** państwa trzeciego, według średniego kursu złotego, w stosunku do waluty państwa, do którego kierowany jest wniosek, z ostatniego dnia roboczego poprzedzającego dzień wysłania wniosku, ogłoszonego przez Narodowy Bank Polski.
+
 **Art. 23.**
 
 1. Wnioski o udzielenie pomocy kierowane do państw trzecich, zaktualizowany tytuł wykonawczy, zagraniczny tytuł wykonawczy i zarządzenie zabezpieczenia są sporządzane według ustalonych wzorów.
@@ -151,7 +191,7 @@ Art. 110–122. (pominięte)
 
 - **1)** wzory wniosków o udzielenie pomocy kierowanych do państw trzecich,
 - **2)** wzory zaktualizowanego tytułu wykonawczego i zagranicznego tytułu wykonawczego,
-- **3)** wzór zarządzenia zabezpieczenia uwzględniając potrzebę zapewnienia możliwości elektronicznego przetwarzania danych zawartych w tych dokumentach.
+- **3)** wzór zarządzenia zabezpieczenia – uwzględniając potrzebę zapewnienia możliwości elektronicznego przetwarzania danych zawartych w tych dokumentach.
 
 ### DZIAŁ III Ujawnianie informacji i dokumentów
 
@@ -355,6 +395,11 @@ Art. 110–122. (pominięte)
 
 **Art. 48.** Organ egzekucyjny wydaje postanowienie:
 
+- **1)** o niedopuszczalności zarzutów;
+- **2)** w sprawie:
+    - **a)** uznania zarzutów w całości albo w części,
+    - **b)** odmowy uznania zarzutów.
+
 **Art. 49.**
 
 1. Na postanowienie o niedopuszczalności zarzutów oraz na postanowienie w sprawie zarzutów podmiotowi służy zażalenie.
@@ -362,6 +407,11 @@ Art. 110–122. (pominięte)
 2. Zażalenie do organu odwoławczego wnosi się za pośrednictwem organu egzekucyjnego w terminie 7 dni od dnia doręczenia lub ogłoszenia postanowienia.
 
 **Art. 50.** Organ egzekucyjny niezwłocznie po ostatecznym zakończeniu postępowania w sprawie zarzutów w sprawie jednolitego tytułu wykonawczego:
+
+- **1)** wycofuje wniosek o odzyskanie należności pieniężnych, wskazując przyczynę wycofania wniosku;
+- **2)** zmienia wniosek o odzyskanie należności pieniężnych, wskazując przyczynę zmiany, oraz sporządza zmieniony jednolity tytuł wykonawczy;
+- **3)** występuje z wnioskiem o dalsze odzyskiwanie należności pieniężnych, chyba że wystąpił z takim wnioskiem na podstawie art. 47 ust. 2;
+- **4)** informuje państwo członkowskie o zakończeniu postępowania w sprawie zarzutów w sprawie jednolitego tytułu wykonawczego, w przypadku gdy wystąpił z wnioskiem o dalsze odzyskiwanie należności pieniężnych na podstawie art. 47 ust. 2.
 
 #### Rozdział 3 Zmiana i wycofanie wniosku o odzyskanie należności pieniężnych
 
@@ -440,7 +490,17 @@ Art. 110–122. (pominięte)
 
 **Art. 64.** W przypadku przewidywanego zwrotu:
 
+- **1)** podatku,
+- **2)** nadpłaty podatku – z wyłączeniem podatku od towarów i usług,
+- **3)** należności celnych – podmiotowi mającemu siedzibę lub miejsce zamieszkania w państwie członkowskim organ podatkowy właściwy w sprawie zwrotu może przekazać przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej informację o przewidywanym zwrocie do właściwego państwa członkowskiego. Przekazywanie informacji może odbywać się z wykorzystaniem wniosków o udzielenie pomocy.
+
 **Art. 65.** Informacja, o której mowa w art. 64, powinna zawierać następujące dane:
+
+- **1)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby, datę urodzenia, identyfikator podatkowy podmiotu, którego dotyczy informacja;
+- **2)** wysokość i rodzaj podatku będącego przedmiotem zwrotu;
+- **3)** wysokość nadpłaty podatku i jego rodzaj;
+- **4)** wysokość i rodzaj należności celnych będących przedmiotem zwrotu;
+- **5)** termin zwrotu podatku, nadpłaty podatku lub należności celnych.
 
 #### Rozdział 2 Informacje na wniosek
 
@@ -470,7 +530,7 @@ Art. 110–122. (pominięte)
 
 1. Na wniosek o powiadomienie pochodzący od państwa członkowskiego naczelnik urzędu skarbowego doręcza podmiotowi dokumenty odnoszące się do należności pieniężnych, wraz z jednolitym formularzem służącym do powiadomienia.
 
-2. Za doręczenie dokumentów, o których mowa w ust. 1, otrzymanych przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej uznaje się doręczenie tych dokumentów w postaci elektronicznej, jeżeli takie doręczenie umożliwia zapoznanie się z ich treścią, a gdy nie jest to możliwe w postaci papierowej. Doręczenie w postaci papierowej polega na doręczeniu wydruku dokumentów. Na wydruku umieszcza się potwierdzenie zgodności danych zawartych w wydruku z treścią dokumentów, o których mowa w ust. 1, ze wskazaniem daty dokonania wydruku, imienia, nazwiska, stanowiska służbowego i podpisem osoby dokonującej potwierdzenia.
+2. Za doręczenie dokumentów, o których mowa w ust. 1, otrzymanych przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej uznaje się doręczenie tych dokumentów w postaci elektronicznej, jeżeli takie doręczenie umożliwia zapoznanie się z ich treścią, a gdy nie jest to możliwe – w postaci papierowej. Doręczenie w postaci papierowej polega na doręczeniu wydruku dokumentów. Na wydruku umieszcza się potwierdzenie zgodności danych zawartych w wydruku z treścią dokumentów, o których mowa w ust. 1, ze wskazaniem daty dokonania wydruku, imienia, nazwiska, stanowiska służbowego i podpisem osoby dokonującej potwierdzenia.
 
 **Art. 70.** Naczelnik urzędu skarbowego niezwłocznie informuje państwo członkowskie o wszelkich czynnościach podjętych w ramach realizacji wniosku o powiadomienie, w szczególności o dacie doręczenia.
 
@@ -478,7 +538,7 @@ Art. 110–122. (pominięte)
 
 1. Podmiotowi przysługuje sprzeciw w sprawie doręczenia.
 
-2. Podstawą sprzeciwu jest dokonanie doręczenia niezgodnie z przepisami działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. Podstawą sprzeciwu jest dokonanie doręczenia niezgodnie z przepisami działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 72.**
 
@@ -510,11 +570,11 @@ Art. 110–122. (pominięte)
 
 **Art. 75.**
 
-1. Od należności pieniężnych państw członkowskich, o których mowa w art. 2 pkt 1–3, nalicza się odsetki w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ).
+1. Od należności pieniężnych państw członkowskich, o których mowa w art. 2 pkt 1–3, nalicza się odsetki w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ).
 
 2. Odsetki nalicza się od dnia otrzymania przez centralne biuro łącznikowe wniosku o odzyskanie należności pieniężnych.
 
-**Art. 76.** Organ egzekucyjny przekazuje wyegzekwowane należności pieniężne wraz z odsetkami oraz opłatą prolongacyjną naliczoną w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa bezpośrednio na rachunek wskazany we wniosku o odzyskanie należności pieniężnych.
+**Art. 76.** Organ egzekucyjny przekazuje wyegzekwowane należności pieniężne wraz z odsetkami oraz opłatą prolongacyjną naliczoną w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa bezpośrednio na rachunek wskazany we wniosku o odzyskanie należności pieniężnych.
 
 **Art. 77.** Wniosek o odzyskanie należności pieniężnych uznaje się za zrealizowany, jeżeli należności pieniężne zostały wyegzekwowane w złotych w wysokości, która po przeliczeniu według kursu wymiany wskazanego w tym wniosku, jest równa wysokości należności pieniężnych określonych w walucie państwa członkowskiego w jednolitym tytule wykonawczym, niezależnie od odsetek i opłaty prolongacyjnej, o której mowa w art. 76.
 
@@ -544,8 +604,8 @@ Art. 110–122. (pominięte)
 
 3. W przypadku, o którym mowa w ust. 2, jeżeli wyegzekwowane należności pieniężne:
 
-- **1)** nie zostały przekazane państwu członkowskiemu organ egzekucyjny informuje państwo członkowskie o wysokości zwróconych należności pieniężnych;
-- **2)** zostały przekazane do państwa członkowskiego organ egzekucyjny występuje do państwa członkowskiego o przekazanie na rachunek organu egzekucyjnego należności pieniężnych wypłaconych podmiotowi.
+- **1)** nie zostały przekazane państwu członkowskiemu – organ egzekucyjny informuje państwo członkowskie o wysokości zwróconych należności pieniężnych;
+- **2)** zostały przekazane do państwa członkowskiego – organ egzekucyjny występuje do państwa członkowskiego o przekazanie na rachunek organu egzekucyjnego należności pieniężnych wypłaconych podmiotowi.
 
 **Art. 81.**
 
@@ -555,12 +615,12 @@ Art. 110–122. (pominięte)
 
 3. W przypadku, o którym mowa w ust. 2, jeżeli wyegzekwowane należności pieniężne:
 
-- **1)** nie zostały przekazane państwu członkowskiemu organ egzekucyjny informuje to państwo o wysokości zwróconych należności pieniężnych;
-- **2)** zostały przekazane do państwa członkowskiego organ egzekucyjny występuje do tego państwa o przekazanie na rachunek organu egzekucyjnego należności pieniężnych wypłaconych podmiotowi.
+- **1)** nie zostały przekazane państwu członkowskiemu – organ egzekucyjny informuje to państwo o wysokości zwróconych należności pieniężnych;
+- **2)** zostały przekazane do państwa członkowskiego – organ egzekucyjny występuje do tego państwa o przekazanie na rachunek organu egzekucyjnego należności pieniężnych wypłaconych podmiotowi.
 
 **Art. 82.**
 
-1. W przypadkach określonych w art. 80 i art. 81 zwracane należności pieniężne, o których mowa w art. 2 pkt 1–3, traktowane są jako nadpłata w rozumieniu ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, do których odpowiednie zastosowanie mają przepisy art. 73 § 1 pkt 1, art. 76, art. 76a § 1 i § 2 pkt 1, art. 77b, art. 78 § 1, 2 i 4 oraz art. 80 tej ustawy.
+1. W przypadkach określonych w art. 80 i art. 81 zwracane należności pieniężne, o których mowa w art. 2 pkt 1–3, traktowane są jako nadpłata w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, do których odpowiednie zastosowanie mają przepisy art. 73 § 1 pkt 1, art. 76, art. 76a § 1 i § 2 pkt 1, art. 77b, art. 78 § 1, 2 i 4 oraz art. 80 tej ustawy.
 
 2. Należności pieniężne określone w ust. 1 podlegają zwrotowi w terminie 30 dni od dnia otrzymania wniosku państwa członkowskiego o zmianę albo wycofanie wniosku o odzyskanie należności pieniężnych wraz z oprocentowaniem naliczonym od dnia wpływu należności pieniężnych do organu egzekucyjnego.
 
@@ -642,6 +702,12 @@ Art. 110–122. (pominięte)
 3. Zaktualizowany tytuł wykonawczy powinien zawierać imię i nazwisko oraz określenie stanowiska służbowego pracownika obsługującego organ egzekucyjny.
 
 **Art. 96.** Organ egzekucyjny niezwłocznie przekazuje do państwa członkowskiego lub państwa trzeciego istotne informacje dotyczące sprawy, w której wystąpiono z wnioskiem o odzyskanie należności pieniężnych, w szczególności o:
+
+- **1)** zmianie wysokości należności pieniężnych;
+- **2)** wszczęciu postępowania w sprawie:
+    - **a)** istnienia lub wysokości należności pieniężnych,
+    - **b)** wszczęcia i prowadzenia egzekucji administracyjnej należności pieniężnych,
+    - **c)** doręczenia przez wierzyciela lub organ egzekucyjny orzeczenia lub innego dokumentu dotyczącego dochodzonych należności pieniężnych.
 
 **Art. 97.**
 

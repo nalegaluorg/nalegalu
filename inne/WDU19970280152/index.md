@@ -8,7 +8,7 @@ pos: 152
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zawodach lekarza i lekarza dentysty
@@ -118,6 +118,17 @@ Art. 59–62. (pominięte)
 
 **Art. 4a.** Dane zamieszczane w SMK, na podstawie niniejszej ustawy, mogą zostać udostępnione:
 
+- **1)** lekarzowi – w zakresie śledzenia przebiegu własnego kształcenia;
+- **2)** uczelniom – w zakresie zadań określonych niniejszą ustawą oraz monitoringu karier zawodowych absolwentów, o którym mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **3)** konsultantom krajowym i konsultantom wojewódzkim – w zakresie, w jakim biorą udział w kształceniu lekarzy, w szczególności w zakresie zadań określonych niniejszą ustawą oraz ustawą z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254);
+- **4)** Centrum Egzaminów Medycznych, zwanemu dalej „CEM” – w zakresie zadań określonych niniejszą ustawą, w szczególności organizowania i przeprowadzania egzaminów państwowych oraz innych egzaminów z zakresu kształcenia lekarzy;
+- **5)** Centrum Medycznego Kształcenia Podyplomowego, zwanemu dalej „CMKP” – w zakresie zadań określonych niniejszą ustawą, w szczególności udzielania akredytacji jednostkom organizacyjnym, koordynacji organizacji kursów szkoleniowych oraz kontroli i monitorowania realizacji szkolenia specjalizacyjnego;
+- **6)** wojewodom – w zakresie zadań określonych niniejszą ustawą, w szczególności w zakresie procesu szkolenia specjalizacyjnego lekarzy;
+- **7)** Ministrowi Obrony Narodowej – w zakresie zadań określonych niniejszą ustawą oraz ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080), w szczególności w zakresie procesu szkolenia specjalizacyjnego lekarzy będących żołnierzami w czynnej służbie wojskowej, a także lekarzy zatrudnionych w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej albo komórce lub jednostce organizacyjnej mu podległej;
+- **8)** ministrowi właściwemu do spraw wewnętrznych – w zakresie zadań określonych niniejszą ustawą, w szczególności w zakresie procesu szkolenia specjalizacyjnego lekarzy pełniących służbę lub zatrudnionych w podmiotach leczniczych, utworzonych przez ministra właściwego do spraw wewnętrznych;
+- **9)** podmiotom, o których mowa w art. 19 ust. 1, w zakresie zadań określonych niniejszą ustawą;
+- **10)** okręgowym radom lekarskim, Wojskowej Radzie Lekarskiej oraz Naczelnej Radzie Lekarskiej – w zakresie zadań określonych niniejszą ustawą oraz ustawą z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342 oraz z 2023 r. poz. 1234).
+
 #### Rozdział 2 Prawo wykonywania zawodu lekarza
 
 **Art. 5.**
@@ -173,6 +184,27 @@ Art. 59–62. (pominięte)
 14. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ramowy program zajęć praktycznych oraz sposób ich odbywania, dokumentowania i zaliczania, w tym zakres danych, które powinny być zawarte w dzienniku praktyk, uwzględniając konieczność zapewnienia wiedzy i umiejętności niezbędnych do samodzielnego wykonywania zawodu lekarza.
 
 **Art. 5a.** Osobie, która spełnia warunki określone w art. 5 ust. 1 pkt 1 i 3–5 oraz ust. 2, okręgowa rada lekarska przyznaje prawo wykonywania zawodu lekarza, jeżeli:
+
+- **1)** posiada dokument potwierdzający formalne kwalifikacje lekarza, świadczący o rozpoczęciu kształcenia przed dniem:
+    - **a)** 20 grudnia 1976 r. w Królestwie Belgii, Królestwie Danii, Republice Francuskiej, Królestwie Niderlandów, Republice Irlandii, Wielkim Księstwie Luksemburga, Republice Federalnej Niemiec lub Republice Włoskiej,
+    - **b)** 1 stycznia 1981 r. w Republice Greckiej,
+    - **c)** 1 stycznia 1986 r. w Królestwie Hiszpanii lub Republice Portugalii,
+    - **d)** 3 października 1990 r. w byłej Niemieckiej Republice Demokratycznej, pod warunkiem że dokument uprawnia do wykonywania zawodu lekarza na terytorium Republiki Federalnej Niemiec na tych samych warunkach jak dokument potwierdzający tego rodzaju kwalifikacje przyznany przez odpowiednie władze Republiki Federalnej Niemiec,
+    - **e)** 1 stycznia 1994 r. w Republice Austrii, Republice Finlandii, Królestwie Szwecji, Republice Islandii lub Królestwie Norwegii,
+    - **f)** 1 maja 1995 r. w Księstwie Liechtensteinu,
+    - **g)** 1 czerwca 2002 r. w Konfederacji Szwajcarskiej,
+    - **h)** 1 maja 2004 r. w Republice Czeskiej, Republice Słowackiej, Republice Słowenii, Republice Litewskiej, Republice Łotewskiej, Republice Estońskiej, Republice Węgierskiej, Republice Malty lub Republice Cypryjskiej,
+    - **i)** 1 stycznia 2007 r. w Republice Bułgarii lub Rumunii,
+    - **j)** 1 lipca 2013 r. w Republice Chorwacji – oraz zaświadczenie wydane przez właściwe organy państwa członkowskiego Unii Europejskiej potwierdzające, że faktycznie i zgodnie z prawem wykonywała zawód lekarza przez co najmniej trzy kolejne lata w okresie pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia, albo
+
+- **2)** posiada dokument potwierdzający formalne kwalifikacje lekarza, świadczący o rozpoczęciu kształcenia przed dniem:
+    - **a)** 20 sierpnia 1991 r. w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Estońskiej,
+    - **b)** 21 sierpnia 1991 r. w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Łotewskiej,
+    - **c)** 11 marca 1990 r. w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Litewskiej,
+    - **d)** 25 czerwca 1991 r. w byłej Jugosławii w przypadku Republiki Słowenii, da) 8 października 1991 r. w byłej Jugosławii w przypadku Republiki Chorwacji,
+    - **e)** 1 stycznia 1993 r. w byłej Czechosłowacji w przypadku Republiki Czeskiej lub Republiki Słowackiej – oraz zaświadczenie wydane przez właściwe organy odpowiednio: Republiki Estońskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Słowenii, Republiki Chorwacji, Republiki Czeskiej lub Republiki Słowackiej potwierdzające, że dokument ten ma na terytorium tych państw taką samą moc, jak dokumenty wymienione w odniesieniu do tych państw w wykazie, o którym mowa w art. 6b, oraz że faktycznie i zgodnie z prawem wykonywała zawód lekarza przez co najmniej trzy kolejne lata w okresie pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia, albo
+
+- **3)** posiada dokument potwierdzający formalne kwalifikacje lekarza wydany przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, inny niż dokumenty wymienione w wykazie, o którym mowa w art. 6b, oraz zaświadczenie wydane przez właściwe organy państwa członkowskiego Unii Europejskiej potwierdzające, że posiadany przez nią dokument potwierdzający formalne kwalifikacje został uzyskany w wyniku ukończenia kształcenia spełniającego minimalne wymogi określone w przepisach Unii Europejskiej i jest w tym państwie uznawany za odpowiadający dokumentom potwierdzającym kwalifikacje wymienionym w wykazie, o którym mowa w art. 6b.
 
 **Art. 5b.**
 
@@ -644,6 +676,9 @@ Art. 59–62. (pominięte)
 
 **Art. 7a.** Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
 
+- **1)** zakres znajomości języka polskiego w mowie i piśmie, niezbędnej do wykonywania zawodu lekarza, lekarza dentysty, mając na względzie w szczególności zakres uprawnień zawodowych określonych w art. 2;
+- **2)** sposób i tryb przeprowadzenia egzaminu, o którym mowa w art. 7 ust. 3, wysokość opłaty za ten egzamin oraz wzór zaświadczenia potwierdzającego pozytywne złożenie egzaminu, mając na względzie zapewnienie prawidłowego przebiegu egzaminu oraz koszt organizacji egzaminu.
+
 **Art. 7b.** SMK zawiera informacje o przyznanych prawach wykonywania zawodu, o których mowa w art. 5–5c, art. 5f i art. 7.
 
 **Art. 7c.**
@@ -769,6 +804,13 @@ Art. 59–62. (pominięte)
 
 **Art. 9a.** W przypadkach, w których lekarz lub lekarz dentysta tymczasowo i okazjonalnie wykonuje zawód na terytorium Rzeczypospolitej Polskiej na zasadach, o których mowa w art. 9 ust. 2 i 3–12, Naczelna Rada Lekarska może wymagać od lekarza lub lekarza dentysty przekazania pacjentom wszystkich lub niektórych spośród następujących informacji:
 
+- **1)** w przypadku gdy lekarz, lekarz dentysta jest wpisany do rejestru przedsiębiorców lub podobnego rejestru publicznego – wskazania tego rejestru, numeru, pod jakim występuje w rejestrze, lub innych zawartych w tym rejestrze danych pozwalających na identyfikację lekarza, lekarza dentysty;
+- **2)** nazwy i adresu właściwego organu udzielającego zezwolenia na wykonywanie zawodu w państwie członkowskim siedziby;
+- **3)** wskazania stowarzyszenia zawodowego lub podobnej instytucji, w której lekarz, lekarz dentysta jest zarejestrowany;
+- **4)** tytułu zawodowego;
+- **5)** w przypadku gdy lekarz, lekarz dentysta prowadzi działalność podlegającą opodatkowaniu podatkiem VAT – numeru identyfikacji podatkowej VAT;
+- **6)** szczegółów dotyczących polisy ubezpieczeniowej lub innych środków indywidualnego lub zbiorowego zabezpieczenia w odniesieniu do odpowiedzialności zawodowej.
+
 **Art. 9b.**
 
 1. Lekarz udzielający stale świadczeń zdrowotnych członkom kadry narodowej biorącym udział w igrzyskach olimpijskich, paralimpijskich, igrzyskach głuchych, mistrzostwach świata lub Europy, zwanych dalej „wydarzeniem sportowym”, organizowanych na terytorium Rzeczypospolitej Polskiej, może w czasie trwania tego wydarzenia sportowego wykonywać zawód lekarza bez konieczności uzyskania prawa wykonywania zawodu, jeżeli złoży w Okręgowej Izbie Lekarskiej w Warszawie:
@@ -830,6 +872,10 @@ Art. 59–62. (pominięte)
 **Art. 13.** Postępowanie w sprawach, o których mowa w art. 11 i 12, jest poufne.
 
 **Art. 14.** Prawo wykonywania zawodu lekarz traci z mocy prawa w przypadku:
+
+- **1)** utraty obywatelstwa polskiego lub innego państwa członkowskiego Unii Europejskiej, jeżeli nie nabył równocześnie obywatelstwa innego państwa członkowskiego Unii Europejskiej;
+- **2)** ubezwłasnowolnienia całkowitego lub częściowego;
+- **3)** upływu czasu, na jaki zostało przyznane.
 
 #### Rozdział 2a Lekarski Egzamin Końcowy i Lekarsko-Dentystyczny Egzamin Końcowy
 
@@ -1354,6 +1400,13 @@ Art. 59–62. (pominięte)
 2. Dane dotyczące powodów i okresów absencji w pracy, orzeczeń o stanie zdrowia i niepełnosprawności oraz trybu rozwiązania umowy o pracę nie mogą być przetwarzane w celu innym niż finansowanie stażu podyplomowego, przedłużanie stażu podyplomowego i nadzór nad odbywaniem stażu podyplomowego, a dostęp do tych danych mogą mieć wyłącznie osoby posiadające pisemne upoważnienie do ich przetwarzania wydane przez marszałka województwa, Ministra Obrony Narodowej, wojewodę, podmiot prowadzący staż, właściwą okręgową radę lekarską albo Wojskową Radę Lekarską. Osoby posiadające pisemne upoważnienie są obowiązane do zachowania poufności tych danych.
 
 **Art. 15l.** Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
+
+- **1)** program stażu podyplomowego lekarza i program stażu podyplomowego lekarza dentysty oraz sposób ich realizacji i czas odbywania, uwzględniający część stałą i część personalizowaną stażu,
+- **2)** wzór oświadczenia, o którym mowa w art. 15c ust. 6,
+- **3)** sposób organizacji stażu podyplomowego, w tym dyżurów medycznych, oraz warunki jego odbywania i zaliczania,
+- **4)** szczegółowe zadania opiekuna i koordynatora,
+- **5)** szczegółowy zakres kosztów i wysokość środków finansowych, o których mowa w art. 15i ust. 3,
+- **6)** wzór umowy, o której mowa w art. 15a ust. 1 – uwzględniając konieczność uzyskania właściwych kwalifikacji zawodowych przez lekarzy stażystów, prawidłowej organizacji, przeprowadzania i finansowania oraz prowadzenia nadzoru nad stażem podyplomowym.
 
 **Art. 15m.**
 
@@ -3243,6 +3296,11 @@ Art. 59–62. (pominięte)
 
 **Art. 19j.** Monitorowanie ustawicznego rozwoju zawodowego polega w szczególności na:
 
+- **1)** rejestrowaniu danych określonych w art. 16p ust. 2 oraz informacji o liczbie jednostek uprawnionych do prowadzenia szkolenia specjalizacyjnego i liczby miejsc szkoleniowych;
+- **2)** przetwarzaniu danych dotyczących liczby jednostek szkolących i miejsc szkoleniowych;
+- **3)** badaniu poprawności funkcjonowania poszczególnych procedur szkoleniowych oraz realizacji określonych programów szkoleniowych na każdym ich etapie;
+- **4)** badaniu poprawności realizowania zadań przez osoby bezpośrednio nadzorujące lekarzy odbywających szkolenie albo bezpośrednio kierujące ich szkoleniem.
+
 **Art. 19k.** Monitorowanie organizacji i funkcjonowania ustawicznego rozwoju zawodowego jest prowadzone przy użyciu rejestrowanych danych oraz ankiet wypełnianych przez uczestników szkolenia.
 
 **Art. 19l.** Wypełnienie ankiet, o których mowa w art. 19k, przez uczestników szkolenia jest obowiązkowe.
@@ -3370,6 +3428,13 @@ Art. 59–62. (pominięte)
 11. Z wnioskiem o wyrażenie zezwolenia sądowego na udział w eksperymencie medycznym lub w sprawach, o których mowa w ust. 3–6, może wystąpić przedstawiciel ustawowy uczestnika albo podmiot zamierzający przeprowadzić eksperyment medyczny.
 
 **Art. 25a.** Przeprowadzenie eksperymentu leczniczego bez wymaganej zgody jest dopuszczalne po łącznym spełnieniu następujących warunków:
+
+- **1)** uczestnik jest niezdolny do udzielenia zgody na udział w tym eksperymencie;
+- **2)** zachodzi przypadek niecierpiący zwłoki i ze względu na konieczność natychmiastowego działania uzyskanie zgody na udział w eksperymencie leczniczym od przedstawiciela ustawowego uczestnika albo zezwolenia sądowego nie jest możliwe w wystarczająco krótkim czasie;
+- **3)** eksperyment o porównywalnej skuteczności nie może być przeprowadzony na osobach nieznajdujących się w sytuacji niecierpiącej zwłoki;
+- **4)** uczestnik uprzednio nie wyraził sprzeciwu wobec udziału w takim eksperymencie;
+- **5)** uczestnik eksperymentu leczniczego prowadzonego w sytuacji niecierpiącej zwłoki i – jeżeli dotyczy – jego przedstawiciel ustawowy otrzyma wszelkie istotne informacje dotyczące uczestnictwa w tym eksperymencie w najszybszym możliwym czasie;
+- **6)** wystąpiono o zgodę na udział w eksperymencie leczniczym albo o wydanie przez sąd, o którym mowa w art. 25 ust. 7, zezwolenia na przeprowadzenie eksperymentu leczniczego.
 
 **Art. 26.**
 
@@ -3712,6 +3777,9 @@ Art. 59–62. (pominięte)
 
 **Art. 44.** Lekarzowi, który:
 
+- **1)** wykonuje czynności w ramach świadczeń pomocy doraźnej lub w przypadku, o którym mowa w art. 30,
+- **2)** wykonuje zawód w podmiocie wykonującym działalność leczniczą, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej finansowanych ze środków publicznych, w związku z udzielaniem świadczeń zdrowotnych w tym podmiocie – przysługuje ochrona prawna należna funkcjonariuszowi publicznemu.
+
 **Art. 45.**
 
 1. Lekarz może ordynować leki, środki spożywcze specjalnego przeznaczenia żywieniowego, które są dopuszczone do obrotu w Rzeczypospolitej Polskiej na zasadach określonych w odrębnych przepisach, oraz wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”.
@@ -3896,5 +3964,12 @@ Art. 59–62. (pominięte)
 
 **Art. 68.** Tracą moc:
 
+- **1)** rozporządzenie Prezydenta Rzeczypospolitej z dnia 10 czerwca 1927 r. o wykonywaniu praktyki dentystycznej (Dz. U. z 1934 r. poz. 32 i 976, z 1938 r. poz. 628, z 1947 r. poz. 104 oraz z 1989 r. poz. 158);
+- **2)** ustawa z dnia 28 października 1950 r. o zawodzie lekarza (Dz. U. poz. 458 i 489, z 1956 r. poz. 61, z 1989 r. poz. 158 oraz z 1993 r. poz. 78).
+
 **Art. 69.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z tym że przepis art. 15:
+
+- **1)** ust. 3 wchodzi w życie z dniem 1 października 1999 r.;
+- **2)** ust. 4 wchodzi w życie z dniem 1 października 1997 r.
+
 

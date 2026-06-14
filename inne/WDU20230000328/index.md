@@ -8,10 +8,10 @@ pos: 328
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 332288 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 lutego 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/328/text.pdf) |
 
-332288 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 lutego 2023 r.
-w sprawie badań policjantów na zawartość w organizmie alkoholu lub obecność podobnie działającego środka Na podstawie art. 61c ust. 17 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240 i 289) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie badań policjantów na zawartość w organizmie alkoholu lub obecność podobnie działającego środka Na podstawie art. 61c ust. 17 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240 i 289) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki i metody przeprowadzania badań na zawartość w organizmie alkoholu lub badania na obecność w organizmie innego podobnie działającego środka;
 2) sposób dokumentowania badań na zawartość w organizmie alkoholu lub badania na obecność w organizmie innego podobnie działającego środka, w tym wzory protokołów z przeprowadzonych badań;
 3) wykaz środków działających podobnie do alkoholu.
 § 2. 1. Badanie wydychanego powietrza przeprowadza się w sposób nieinwazyjny przy użyciu urządzenia elektronicznego dokonującego pomiaru stężenia alkoholu w wydychanym powietrzu metodą:
 1) spektrometrii w podczerwieni lub
-2) utleniania elektrochemicznego zwanego dalej „analizatorem wydechu”.
+2) utleniania elektrochemicznego – zwanego dalej „analizatorem wydechu”.
 2. Badania analizatorem wydechu nie przeprowadza się przed upływem 15 minut od chwili zakończenia spożywania alkoholu, palenia wyrobów tytoniowych, w tym palenia nowatorskich wyrobów tytoniowych, palenia papierosów elektronicznych lub używania wyrobów tytoniowych bezdymnych przez osobę badaną.
 3. Badanie wydychanego powietrza przeprowadza się przed badaniem krwi, jeżeli stan policjanta na to pozwala.
 § 3. 1. Pomiaru analizatorem wydechu dokonuje się z użyciem ustnika. Ustnik podlega wymianie każdorazowo przed przeprowadzeniem pomiaru. Opakowanie ustnika otwiera się w obecności badanego policjanta.
@@ -65,9 +65,11 @@ Jeżeli wynik trzeciego pomiaru wynosi 0,00 mg/dm stężenia alkoholu w wydychan
 1) zawartość alkoholu;
 2) co najmniej następujące środki działające podobnie do alkoholu:
 a) morfinę (LOQ –10 ng/ml),
-b) amfetaminę i jej analogi, w tym metylenodioksymetamfetaminę (MDMA), (LOQ 25 ng/ml),
-c) kokainę (LOQ 10 ng/ml) i jej metabolit benzoiloekgoninę (LOQ 50 ng/ml),
-d) delta-9-tetrahydrokannabinol (LOQ 1 ng/ml), § 8. 1. Badanie śliny polega na nieinwazyjnym pobraniu próbki śliny przy użyciu jednorazowego próbnika i umieszczeniu jej w urządzeniu do oznaczania metodą immunologiczną na zawartość środka działającego podobnie do alkoholu, zgodnie z instrukcją obsługi tego urządzenia.
+b) amfetaminę i jej analogi, w tym metylenodioksymetamfetaminę (MDMA), (LOQ – 25 ng/ml),
+c) kokainę (LOQ – 10 ng/ml) i jej metabolit – benzoiloekgoninę (LOQ – 50 ng/ml),
+d) delta-9-tetrahydrokannabinol (LOQ – 1 ng/ml),
+e) benzodiazepiny.
+§ 8. 1. Badanie śliny polega na nieinwazyjnym pobraniu próbki śliny przy użyciu jednorazowego próbnika i umieszczeniu jej w urządzeniu do oznaczania metodą immunologiczną na zawartość środka działającego podobnie do alkoholu, zgodnie z instrukcją obsługi tego urządzenia.
 2. Do próbki, o której mowa w ust. 1, nie wolno dodawać jakichkolwiek substancji, poza znajdującymi się w zestawie urządzenia do oznaczania metodą immunologiczną środków działających podobnie do alkoholu.
 3. Badanie śliny przeprowadza się w miarę możliwości przed innymi badaniami na zawartość w organizmie środka działającego podobnie do alkoholu.
 § 9. 1. Badanie moczu polega na analizie moczu poddanego badaniu metodami:
@@ -78,10 +80,10 @@ d) delta-9-tetrahydrokannabinol (LOQ 1 ng/ml), § 8. 1. Badanie śliny polega na
 1) do pobrania moczu używa się pojemnika jednorazowego użytku, uniemożliwiającego zamianę, rozcieńczenie lub dodanie do niego innych substancji po jego zamknięciu;
 2) do pojemnika, do którego pobiera się mocz, nie dodaje się jakichkolwiek substancji.
 3. W pobranym moczu oznacza się co najmniej następujące środki działające podobnie do alkoholu:
-1) morfinę (LOQ 200 ng/ml) i 6-acetylomorfinę (LOQ 20 ng/ml);
-2) amfetaminę i jej analogi, w tym metylenodioksymetamfetaminę (MDMA), (LOQ 250 ng/ml);
-3) kokainę (LOQ 50 ng/ml) i jej metabolit benzoiloekgoninę (LOQ 100 ng/ml);
-4) 11-nor-9-karboksy-delta-9-tetrahydrokannabinol (LOQ 15 ng/ml);
+1) morfinę (LOQ – 200 ng/ml) i 6-acetylomorfinę (LOQ – 20 ng/ml);
+2) amfetaminę i jej analogi, w tym metylenodioksymetamfetaminę (MDMA), (LOQ – 250 ng/ml);
+3) kokainę (LOQ – 50 ng/ml) i jej metabolit – benzoiloekgoninę (LOQ – 100 ng/ml);
+4) 11-nor-9-karboksy-delta-9-tetrahydrokannabinol (LOQ – 15 ng/ml);
 5) benzodiazepiny.
 § 10. Naczynia zawierające krew lub mocz do badania oznacza się w sposób zapewniający ustalenie tożsamości badanego policjanta, od którego zostały pobrane krew lub mocz, a także zabezpiecza w sposób uniemożliwiający zmianę ich zawartości przed dokonaniem badania oraz zniszczenie w czasie przechowywania lub transportu. Czynności te wykonuje się w obecności badanego policjanta, jeżeli jest to możliwe.
 § 11. 1. Do czasu rozpoczęcia badań laboratoryjnych pobrane krew oraz mocz przechowuje się w temperaturze od 2°C do 6°C.
@@ -89,7 +91,7 @@ d) delta-9-tetrahydrokannabinol (LOQ 1 ng/ml), § 8. 1. Badanie śliny polega na
 § 12. 1. Badanie potu polega na nieinwazyjnym pobraniu próbki potu, z części ciała zakrytej odzieżą, przy użyciu jednorazowego próbnika i umieszczeniu jej w urządzeniu do oznaczania metodą immunologiczną na zawartość środka działającego podobnie do alkoholu, zgodnie z instrukcją obsługi tego urządzenia.
 2. Do próbki, o której mowa w ust. 1, nie wolno dodawać jakichkolwiek substancji, poza znajdującymi się w zestawie urządzenia do oznaczania metodą immunologiczną środków działających podobnie do alkoholu.
 § 13. 1. Z badania wydychanego powietrza, śliny oraz potu sporządza się protokół, który zawiera dane, o których mowa w art. 61c ust. 14 pkt 1–5, 7 i 8 oraz ust. 15 ustawy z dnia 6 kwietnia 1990 r. o Policji, oraz:
-1) informacje o ilości, rodzaju, dacie i godzinie spożycia napojów alkoholowych przez policjanta w ciągu ostatnich 24 godzin lub informację o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu na podstawie oświadczenia badanego policjanta, jeżeli złożenie tego oświadczenia jest możliwe;
+1) informacje o ilości, rodzaju, dacie i godzinie spożycia napojów alkoholowych przez policjanta w ciągu ostatnich 24 godzin lub informację o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu – na podstawie oświadczenia badanego policjanta, jeżeli złożenie tego oświadczenia jest możliwe;
 2) informacje o przeprowadzonym badaniu z wyszczególnieniem rodzaju przeprowadzonego badania;
 3) w przypadku badania wydychanego powietrza:
 a) nazwę, model i numer fabryczny, datę ważności dokumentu potwierdzającego kalibrację lub wzorcowanie analizatora wydechu, którym przeprowadzono badanie,
@@ -119,12 +121,12 @@ e) informację o żądaniu przez badanego policjanta przeprowadzenia badania krw
 § 14. 1. Z badań laboratoryjnych krwi lub moczu sporządza się protokół, który zawiera dane, o których mowa w art. 61c ust. 14 pkt 1–8 i 10 oraz ust. 15 ustawy z dnia 6 kwietnia 1990 r. o Policji, oraz:
 1) informacje, o których mowa w § 13 ust. 1 pkt 1 i 6–9;
 2) datę, godzinę i minutę oraz miejsce pobrania próbek materiału biologicznego do badań;
-3) rodzaj środka odkażającego użytego do dezynfekcji skóry w przypadku badań krwi;
+3) rodzaj środka odkażającego użytego do dezynfekcji skóry – w przypadku badań krwi;
 4) rodzaj przeprowadzonego badania.
 2. Policjanta, jeżeli jest to możliwe, informuje się o możliwości odmowy złożenia oświadczenia o chorobach, na jakie choruje, oraz oświadczenia, o którym mowa w § 13 ust. 1 pkt 1.
 3. Wzór protokołu, o którym mowa w ust. 1, jest określony w załączniku nr 2 do rozporządzenia.
 § 15. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-WZÓR WZÓR PROTOKÓŁ z badania wydychanego powietrza / śliny / potu* na zawartość w organizmie policjanta alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński WZÓR WZÓR PROTOKÓŁ z badania wydychanego powietrza / śliny / potu* na zawartość w organizmie policjanta alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
 Działając na podstawie art. 61c ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240 i 289)
 1.
 2.
@@ -132,20 +134,20 @@ Działając na podstawie art. 61c ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Poli
 4. Dane osobowe badanego policjanta:
 5. Informacje o chorobach, na jakie choruje policjant:
 6. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez policjanta w ciągu ostatnich 24 godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu:
-7. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia: Część A BADANIE WYDYCHANEGO POWIETRZA
+7. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia: Część A – BADANIE WYDYCHANEGO POWIETRZA
 8. Badanie na zawartość w organizmie policjanta alkoholu przeprowadzono analizatorem wydechu:
 9. Tabela pomiarów zawartości alkoholu w wydychanym powietrzu:
-10. Płeć**: mężczyzna kobieta
+10. Płeć**: [Przycią mężczyzna kobieta
 11. Wzrost: masa ciała:
-12. Badany policjant** żąda nie żąda badania analizatorem wydechu dokonującym pomiaru metodą spektrometrii w podczerwieni żąda nie żąda badania krwi Część B BADANIE ŚLINY
+12. Badany policjant** żąda nie żąda badania analizatorem wydechu dokonującym pomiaru metodą spektrometrii w podczerwieni żąda nie żąda badania krwi Część B – BADANIE ŚLINY
 13. Data, godzina i minuta oraz miejsce przeprowadzenia badania:
 14. Nazwa handlowa zastosowanego testu:
 15. Data ważności testu:
 16. Data ważności dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia, którym przeprowadzono badanie:
 17. Według instrukcji wynik testu należy odczytać w czasie od do
 18. Wynik testu odczytano po upływie minut
-19. Wynik badania próbek śliny**: negatywny (ujemny) pozytywny (dodatni) wskazujący obecność substancji psychoaktywnej z grupy:
-20. Badany policjant** żąda nie żąda badania krwi żąda nie żąda badania moczu [Przycią Część C BADANIE POTU
+19. Wynik badania próbek śliny**: negatywny (ujemny) pozytywny (dodatni) – wskazujący obecność substancji psychoaktywnej z grupy:
+20. Badany policjant** żąda nie żąda badania krwi żąda nie żąda badania moczu Część C – BADANIE POTU
 21. Data, godzina i minuta oraz miejsce przeprowadzenia badania:
 22. Część ciała, z której pobrano próbkę potu:
 23. Nazwa handlowa zastosowanego testu:
@@ -153,23 +155,23 @@ Działając na podstawie art. 61c ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Poli
 25. Data ważności dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia, którym przeprowadzono badanie:
 26. Według instrukcji wynik testu należy odczytać w czasie od do
 27. Wynik testu odczytano po upływie: minut
-28. Wynik badania próbek potu**: negatywny (ujemny) pozytywny (dodatni) wskazujący obecność substancji psychoaktywnej z grupy:
+28. Wynik badania próbek potu**: negatywny (ujemny) pozytywny (dodatni) – wskazujący obecność substancji psychoaktywnej z grupy:
 29. Badany policjant** żąda nie żąda badania krwi żąda nie żąda badania moczu
 30. Uwagi i zastrzeżenia do przeprowadzonego badania osoby przeprowadzającej badanie oraz policjanta poddanego badaniu:
 31. Badany policjant został poinformowany o możliwości odmowy złożenia oświadczenia, o którym mowa w pkt 5 i 6.
-32. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania umożliwia ich wykonanie, oraz kopia ważnego dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia użytego do przeprowadzenia badania): WZÓR PROTOKÓŁ z badania laboratoryjnego moczu / krwi* na zawartość w organizmie policjanta alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
-Działając na podstawie art. 61c ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240 i 289) Część A POBRANIE MATERIAŁU BIOLOGICZNEGO DO BADAŃ
+32. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania umożliwia ich wykonanie, oraz kopia ważnego dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia użytego do przeprowadzenia badania): WZÓR WZÓR PROTOKÓŁ z badania laboratoryjnego moczu / krwi* na zawartość w organizmie policjanta alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
+Działając na podstawie art. 61c ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240 i 289) Część A – POBRANIE MATERIAŁU BIOLOGICZNEGO DO BADAŃ
 1.
 2.
 3. Dane osobowe badanego policjanta:
-4. Płeć**: mężczyzna kobieta
+4. Płeć**: [Przycią mężczyzna kobieta
 5. Wzrost: masa ciała:
 6. Informacje o chorobach, na jakie choruje policjant:
 7. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez policjanta w ciągu ostatnich 24 godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu:
 8. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia:
 9. Data, godzina i minuta oraz miejsce pobrania próbek materiału biologicznego do badań:
-10. W przypadku badań krwi rodzaj środka odkażającego użytego do dezynfekcji skóry:
-11. W przypadku odstąpienia od pobrania krwi informacja o przyczynie odstąpienia: [Przycią WZÓR
+10. W przypadku badań krwi – rodzaj środka odkażającego użytego do dezynfekcji skóry:
+11. W przypadku odstąpienia od pobrania krwi – informacja o przyczynie odstąpienia:
 12. Uwagi i zastrzeżenia do przeprowadzonego pobrania próbek materiału biologicznego do badań osoby pobierającej próbkę materiału biologicznego oraz policjanta, od którego pobrano próbkę materiału biologicznego:
 13. Badany został poinformowany o możliwości odmowy złożenia oświadczenia, o którym mowa w pkt 6 i 7.
 1. Wykonano badanie krwi / moczu* metodą:
@@ -178,5 +180,5 @@ Działając na podstawie art. 61c ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Poli
 4. Uwagi i zastrzeżenia do przeprowadzonego badania osoby przeprowadzającej badanie:
 5. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania umożliwia ich wykonanie):
 
-## Część B BADANIE MATERIAŁU BIOLOGICZNEGO I WYNIK PRZEPROWADZONEGO BADANIA (wypełnia podmiot przeprowadzający badanie)
+## Część B – BADANIE MATERIAŁU BIOLOGICZNEGO I WYNIK PRZEPROWADZONEGO BADANIA (wypełnia podmiot przeprowadzający badanie)
 

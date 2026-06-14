@@ -8,10 +8,10 @@ pos: 532
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 marca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 532 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 8 marca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/532/text.pdf) |
 
-Poz. 532 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 8 marca 2017 r.
-w sprawie wykazu osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5000 zł Na podstawie art. 36 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260 oraz z 2017 r. poz. 60 i 191) zarządza się, co następuje: § 1. Rozporządzenie określa sposób ustalania umorzonych kwot oraz termin ogłaszania wykazu osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5000 zł, zwanego dalej „wykazem”, a także organy obowiązane do przekazywania dyrektorowi izby administracji skarbowej danych umożliwiających sporządzenie tego wykazu i termin ich przekazywania.
+w sprawie wykazu osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5000 zł Na podstawie art. 36 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260 oraz z 2017 r. poz. 60 i 191) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób ustalania umorzonych kwot oraz termin ogłaszania wykazu osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5000 zł, zwanego dalej „wykazem”, a także organy obowiązane do przekazywania dyrektorowi izby administracji skarbowej danych umożliwiających sporządzenie tego wykazu i termin ich przekazywania.
 § 2. Podaniu do publicznej wiadomości podlega umorzona przez ten sam organ podatkowy na podstawie art. 67a § 1 pkt 3, art. 67b, art. 67c § 2 oraz art. 67d ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r.
 poz. 201) kwota zaległości podatkowych, odsetek za zwłokę lub opłat prolongacyjnych danej osobie prawnej, fizycznej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, jeżeli co najmniej jedna z tych kwot lub ich suma przekroczą narastająco w ciągu roku kalendarzowego kwotę 5000 zł. Wykaz sporządza się na podstawie danych przekazywanych przez naczelników urzędów skarbowych, a także własnych decyzji dyrektorów izb administracji skarbowej.
 § 3. Naczelnicy urzędów skarbowych przekazują kwartalne dane o umorzeniach właściwemu dyrektorowi izby administracji skarbowej w terminie 30 dni od ostatniego dnia kwartału.

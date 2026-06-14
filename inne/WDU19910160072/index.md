@@ -8,7 +8,7 @@ pos: 72
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przejęciu majątku byłej Polskiej Zjednoczonej Partii Robotniczej
@@ -45,7 +45,7 @@ source: "isap-pdf"
 
 2. Osoby, o których mowa w ust. 1, są zwolnione od kosztów sądowych.
 
-3. Nie zakończone prawomocnymi orzeczeniami postępowania przed sądami i postępowania administracyjne dotyczące majątku byłej Polskiej Zjednoczonej organizacyjnych, będą rozpatrywane z uwzględnieniem przepisów niniejszej ustawy.
+3. Nie zakończone prawomocnymi orzeczeniami postępowania przed sądami i postępowania administracyjne dotyczące majątku byłej Polskiej Zjednoczonej Partii Robotniczej lub podległych jej wyodrębnionych jednostek organizacyjnych, będą rozpatrywane z uwzględnieniem przepisów niniejszej ustawy.
 
 **Art. 5.** Skarb Państwa przejmuje odpowiedzialność za zobowiązania obciążające nieruchomości lub ruchomości objęte art. 1 ust. 1 ustawy do wysokości ich wartości.
 

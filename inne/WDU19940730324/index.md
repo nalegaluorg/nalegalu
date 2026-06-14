@@ -8,12 +8,12 @@ pos: 324
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej.
+# o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej
 
-*USTAWA dnia 13 maja 1994 o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej*
+*USTAWA z dnia 13 maja 1994 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -45,7 +45,7 @@ source: "isap-pdf"
 
 3. Kościół jest samodzielny i niezależny od jakiejkolwiek pozakrajowej władzy duchownej i świeckiej.
 
-4. Wypełniając swoje funkcje Kościół może współdziałać innymi kościołami w kraju i za granicą, należeć do krajowych organizacji międzykościelnych, a także międzynarodowych organizacji wyznaniowych i międzywyznaniowych.
+4. Wypełniając swoje funkcje Kościół może współdziałać z innymi kościołami w kraju i za granicą, należeć do krajowych organizacji międzykościelnych, a także międzynarodowych organizacji wyznaniowych i międzywyznaniowych.
 
 5. Kościół może otaczać opieką duszpasterską współwyznawców spośród osób innych narodowości zamieszkałych bądź przebywających czasowo na terytorium Rzeczypospolitej Polskiej.
 
@@ -61,7 +61,7 @@ source: "isap-pdf"
 
 1. Tworzenie przez Kościół nowych parafii oraz znoszenie i przekształcanie już istniejących następuje w trybie przewidzianym w przepisach kościelnych.
 
-2. Nowo utworzone parafie nabywają osobowość prawną chwilą powiadomienia przez Konsystorz wojewody właściwego ze względu na siedzibę parafii.
+2. Nowo utworzone parafie nabywają osobowość prawną z chwilą powiadomienia przez Konsystorz wojewody właściwego ze względu na siedzibę parafii.
 
 3. Powiadomienie powinno zawierać: nazwę parafii, jej siedzibę, zasięg terytorialny oraz określenie osób sprawujących funkcję organu.
 
@@ -74,7 +74,7 @@ source: "isap-pdf"
 1. Organami osób prawnych, o których mowa w art. 3 ust. 1 są:
 
 - **1)** dla Kościoła jako całości – Prezes Konsystorza lub Biskup;
-- **2)** dla parafii Prezes lub Wiceprezes Kolegium Kościelnego działający łącznie proboszczem lub administratorem parafii.
+- **2)** dla parafii Prezes lub Wiceprezes Kolegium Kościelnego działający łącznie z proboszczem lub administratorem parafii.
 
 2. O powołaniu i odwołaniu osoby sprawującej funkcję organu Kościoła Konsystorz powiadamia Ministra–Szefa Urzędu Rady Ministrów , w odniesieniu zaś do innych kościelnych osób prawnych – właściwego wojewodę.
 
@@ -112,11 +112,11 @@ source: "isap-pdf"
 
 1. Osoby przebywające w placówkach opiekuńczo-wychowawczych oraz w podmiotach leczniczych w rozumieniu przepisów o działalności leczniczej mają prawo do praktyk religijnych i opieki duszpasterskiej.
 
-2. Osoby tymczasowo aresztowane wyznania ewangelicko-reformowanego mogą wykonywać praktyki religijne i wysłuchiwać nabożeństw transmitowanych przez środki masowego przekazu oraz za zgodą organu, do którego dyspozycji
+2. Osoby tymczasowo aresztowane wyznania ewangelicko-reformowanego mogą wykonywać praktyki religijne i wysłuchiwać nabożeństw transmitowanych przez środki masowego przekazu oraz za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej opieki duszpasterskiej.
 
-3. Osobom skazanym wyznania ewangelicko-reformowanego zapewnia się możliwość wykonywania praktyk religijnych, korzystania opieki duszpasterskiej oraz uczestniczenia w nabożeństwach odprawianych w niedziele i święta ewangelickie w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które na terenie zakładu nie mogą uczestniczyć w odprawianych nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazu.
+3. Osobom skazanym wyznania ewangelicko-reformowanego zapewnia się możliwość wykonywania praktyk religijnych, korzystania z opieki duszpasterskiej oraz uczestniczenia w nabożeństwach odprawianych w niedziele i święta ewangelickie w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które na terenie zakładu nie mogą uczestniczyć w odprawianych nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazu.
 
-4. Żołnierzom pełniącym czynną służbę wojskową przysługuje prawo uczestniczenia w nabożeństwach i czynnościach religijnych poza terenem jednostek wojskowych, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się kościół lub kaplica i jeżeli nie koliduje to ważnymi obowiązkami służbowymi.
+4. Żołnierzom pełniącym czynną służbę wojskową przysługuje prawo uczestniczenia w nabożeństwach i czynnościach religijnych poza terenem jednostek wojskowych, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się kościół lub kaplica i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
 
 5. Dzieciom i młodzieży, korzystającym ze zorganizowanych form wypoczynku wakacyjnego, zapewnia się prawo uczestniczenia w nabożeństwach i wykonywania innych praktyk religijnych.
 
@@ -126,7 +126,7 @@ source: "isap-pdf"
 
 2. Ordynowani duchowni są przenoszeni do rezerwy i nie odbywają ćwiczeń wojskowych w czasie pokoju. W razie ogłoszenia mobilizacji oraz w czasie wojny mogą być oni powołani jedynie do pełnienia funkcji kapelanów lub do służby sanitarnej.
 
-**Art. 14.** Osobom należącym do Kościoła przysługuje prawo zwolnienia od nauki lub pracy w Wielki Piątek oraz Święto Wniebowstąpienia na warunkach określonych w ustawie dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania (Dz. U. 2005 Nr 231, 1965, późn. zm. ).
+**Art. 14.** Osobom należącym do Kościoła przysługuje prawo zwolnienia od nauki lub pracy w Wielki Piątek oraz Święto Wniebowstąpienia na warunkach określonych w ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2005 r. Nr 231, poz. 1965, z późn. zm. ).
 
 **Art. 15.** Instytucje państwowe, samorządowe i kościelne współdziałają w dokumentacji, ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury polskiej.
 
@@ -144,11 +144,11 @@ source: "isap-pdf"
 
 **Art. 19.**
 
-1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, a w szczególności art. 17 ust. 1 pkt 4a i 4b ustawy dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. U. 2014 851, późn. zm. ).
+1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, a w szczególności art. 17 ust. 1 pkt 4a i 4b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm. ).
 
-2. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz w – okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
+2. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz w – okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
 
-3. Kościelne osoby prawne są zwolnione od podatku od nieruchomości lub ich części stanowiących własność tych osób albo używanych przez nie, na podstawie innego tytułu prawnego, na cele niemieszkalne, wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
+3. Kościelne osoby prawne są zwolnione od podatku od nieruchomości lub ich części stanowiących własność tych osób albo używanych przez nie, na podstawie innego tytułu prawnego, na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
 
 4. Zwolnienie od podatku od nieruchomości obejmuje nieruchomości lub ich części, przeznaczone na cele mieszkalne duchownych i członków diakonatów, jeżeli:
 
@@ -158,11 +158,11 @@ source: "isap-pdf"
 5. Nabywanie i zbywanie rzeczy i praw majątkowych przez kościelne osoby prawne w drodze czynności prawnych oraz spadkobrania, zapisu i zasiedzenia jest zwolnione od opłaty skarbowej, jeżeli ich przedmiotem są:
 
 - **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
-- **2)** sprowadzone zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
+- **2)** sprowadzone z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
 
-6. Nabywanie rzeczy i praw majątkowych, o których mowa w ust. 5, jest zwolnione od opłat sądowych, wyłączeniem opłat kancelaryjnych.
+6. Nabywanie rzeczy i praw majątkowych, o których mowa w ust. 5, jest zwolnione od opłat sądowych, z wyłączeniem opłat kancelaryjnych.
 
-**Art. 20.** Zwalnia się należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla kościelnych osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 dnia 16 listopada 2009 ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 10.12.2009, str. 23).
+**Art. 20.** Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla kościelnych osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
 
 **Art. 21.**
 
@@ -176,14 +176,14 @@ source: "isap-pdf"
 
 **Art. 23.**
 
-1. Nieruchomości lub ich części, pozostające w dniu wejścia w życie niniejszej ustawy we władaniu kościelnych osób prawnych, stają się mocy prawa ich własnością, jeżeli:
+1. Nieruchomości lub ich części, pozostające w dniu wejścia w życie niniejszej ustawy we władaniu kościelnych osób prawnych, stają się z mocy prawa ich własnością, jeżeli:
 
-- **1)** podlegały przepisom dekretu dnia 24 kwietnia 1952 o zniesieniu fundacji (Dz. U. Nr 25, 172 oraz 1957 Nr 1, 3), a zostały poręczone, pozostawione, wydzierżawione, wynajęte lub przekazane kościelnym osobom prawnym;
-- **2)** znajdują się na nich cmentarze lub obiekty sakralne oraz obiekty funkcjonalnie związane obiektami sakralnymi; dotyczy to również obiektów położonych na obszarze miasta stołecznego Warszawy.
+- **1)** podlegały przepisom dekretu z dnia 24 kwietnia 1952 r. o zniesieniu fundacji (Dz. U. Nr 25, poz. 172 oraz z 1957 r. Nr 1, poz. 3), a zostały poręczone, pozostawione, wydzierżawione, wynajęte lub przekazane kościelnym osobom prawnym;
+- **2)** znajdują się na nich cmentarze lub obiekty sakralne oraz obiekty funkcjonalnie związane z obiektami sakralnymi; dotyczy to również obiektów położonych na obszarze miasta stołecznego Warszawy.
 
 2. Stwierdzenie przejścia własności nieruchomości lub ich części, o których mowa w ust. 1, następuje w drodze decyzji wojewody.
 
-3. Nabycie własności nieruchomości lub ich części na podstawie ust. 1 jest wolne od podatków i opłat tym związanych, a wpisy do ksiąg wieczystych i ich zakładanie są wolne od opłat.
+3. Nabycie własności nieruchomości lub ich części na podstawie ust. 1 jest wolne od podatków i opłat z tym związanych, a wpisy do ksiąg wieczystych i ich zakładanie są wolne od opłat.
 
 4. Postępowanie sądowe lub administracyjne dotyczące nieruchomości lub ich części, o których mowa w ust. 1, ulega zawieszeniu do czasu wydania decyzji, o których mowa w ust. 2.
 
@@ -191,11 +191,11 @@ source: "isap-pdf"
 
 1. Na wniosek kościelnej osoby prawnej wszczyna się postępowanie w przedmiocie przywrócenia własności przejętych na rzecz państwa nieruchomości lub ich części:
 
-- **1)** rolnych i leśnych przejętych w toku wykonania ustawy dnia 20 marca 1950 o przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu Kościelnego (Dz. U. Nr 9, 87 i Nr 10, 111 oraz 1969 Nr 13, 95), jeżeli nie wydzielono nich należnych, w myśl tej ustawy, gospodarstw rolnych proboszczów;
+- **1)** rolnych i leśnych przejętych w toku wykonania ustawy z dnia 20 marca 1950 r. o przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu Kościelnego (Dz. U. Nr 9, poz. 87 i Nr 10, poz. 111 oraz z 1969 r. Nr 13, poz. 95), jeżeli nie wydzielono z nich należnych, w myśl tej ustawy, gospodarstw rolnych proboszczów;
 - **2)** wywłaszczonych, jeżeli odszkodowanie nie zostało wypłacone lub podjęte;
-- **3)** przejętych na podstawie dekretu dnia 26 października 1945 o własności i użytkowaniu gruntów na obszarze miasta stołecznego Warszawy (Dz. U. Nr 50, 279), zastrzeżeniem ust. 3.
+- **3)** przejętych na podstawie dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze miasta stołecznego Warszawy (Dz. U. Nr 50, poz. 279), z zastrzeżeniem ust. 3.
 
-2. Jeżeli własność nieruchomości nie może zostać przywrócona, właściwej kościelnej osobie prawnej przyznaje się nieruchomość zamienną, a jeżeli przyznanie nieruchomości zamiennej nie jest możliwe – odszkodowanie według przepisów określonych w ustawie dnia 29 kwietnia 1985 o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. 1991 Nr 30, 127, późn. zm. ) .
+2. Jeżeli własność nieruchomości nie może zostać przywrócona, właściwej kościelnej osobie prawnej przyznaje się nieruchomość zamienną, a jeżeli przyznanie nieruchomości zamiennej nie jest możliwe – odszkodowanie według przepisów określonych w ustawie z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. Nr 30, poz. 127, z późn. zm. ) .
 
 3. W odniesieniu do gruntów objętych dekretem określonym w ust. 1 pkt 3 przedmiotem postępowania jest ustanowienie użytkowania wieczystego.
 
@@ -205,7 +205,7 @@ source: "isap-pdf"
 
 6. Decyzje, o których mowa w ust. 1–3, nie mogą naruszać praw nabytych przez osoby trzecie, a w szczególności przez inne kościoły i związki wyznaniowe oraz rolników indywidualnych.
 
-**Art. 25.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy dnia 10 maja 1990 – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, 191, późn. zm. ), podlega postępowaniu, o którym mowa w art. 23 i 24.
+**Art. 25.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 23 i 24.
 
 **Art. 26.**
 
@@ -215,11 +215,11 @@ source: "isap-pdf"
 
 3. Przepisy art. 23 ust. 2, 3 i 4 stosuje się odpowiednio.
 
-**Art. 26a.** Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 24 i 26, w stosunku do których nie zostały zakończone postępowania administracyjne, na wniosek jednej ze stron w dotychczasowym postępowaniu stają się mocy prawa przedmiotem postępowania regulacyjnego, określonego w dziale IIIa ustawy dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania (Dz. U. Nr 29, 155, późn. zm. ).
+**Art. 26a.** Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 24 i 26, w stosunku do których nie zostały zakończone postępowania administracyjne, na wniosek jednej ze stron w dotychczasowym postępowaniu stają się z mocy prawa przedmiotem postępowania regulacyjnego, określonego w dziale IIIa ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. Nr 29, poz. 155, z późn. zm. ).
 
 **Art. 26b.**
 
-1. Na wniosek Kościoła lub jego osób prawnych, wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające własności nieruchomości albo organy gmin w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
+1. Na wniosek Kościoła lub jego osób prawnych, wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
 
 - **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowo-wychowawczym;
 - **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego parafii działających na Ziemiach Zachodnich i Północnych, o powierzchni do 15 ha użytków rolnych łącznie dla jednej parafii.
@@ -228,9 +228,9 @@ source: "isap-pdf"
 
 **Art. 27.** Wykaz jednostek organizacyjnych będących osobami prawnymi w dniu wejścia w życie ustawy stanowi załącznik do ustawy.
 
-**Art. 27a.** Wnioski, o których mowa w art. 26b, mogą być składane w terminie do dnia 31 grudnia 1998
+**Art. 27a.** Wnioski, o których mowa w art. 26b, mogą być składane w terminie do dnia 31 grudnia 1998 r.
 
-**Art. 28.** Traci moc dekret dnia 5 września 1947 o uregulowaniu położenia prawnego Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej, Kościoła Mariawickiego i Kościoła Starokatolickiego (Dz. U. Nr 59,
+**Art. 28.** Traci moc dekret z dnia 5 września 1947 r. o uregulowaniu położenia prawnego Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej, Kościoła Mariawickiego i Kościoła Starokatolickiego (Dz. U. Nr 59, poz. 316), w części dotyczącej Kościoła Ewangelicko-Reformowanego.
 
 **Art. 29.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik WYKAZ PARAFII KOŚCIOŁA EWANGELICKO-REFORMOWANEGO W POLSCE Parafia Bełchatów Parafia Katowice Parafia Kleszczów Parafia Łódź Parafia Pstrążna Parafia Strzelin Parafia Warszawa Parafia Zelów Parafia Żychlin Parafia Żyrardów
 

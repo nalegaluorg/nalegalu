@@ -8,7 +8,7 @@ pos: 1429
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego

@@ -8,7 +8,7 @@ pos: 1529
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Państwowej Inspekcji Pracy

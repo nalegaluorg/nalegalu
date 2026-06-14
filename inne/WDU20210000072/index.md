@@ -8,7 +8,7 @@ pos: 72
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
@@ -28,6 +28,129 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000072) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/72/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, 1747, 2320 i 2419) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1: zm. ),
+    - **a)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) Centralny Rejestr Podmiotów Akcyzowych – rejestr podmiotów, o których mowa w art. 16 ust. 1 i 1a;”,
+    - **b)** pkt 18b otrzymuje brzmienie: „18b) e-DD – elektroniczny dokument, na podstawie którego:
+    - **a)** przemieszcza się na terytorium kraju poza procedurą zawieszenia poboru akcyzy wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie lub wyroby akcyzowe wymienione w załączniku nr 2 do ustawy, opodatkowane zerową stawką akcyzy ze względu na ich przeznaczenie,
+    - **b)** monitoruje się na terytorium kraju sprzedaż wyrobów węglowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie finalnemu nabywcy węglowemu przez pośredniczący podmiot węglowy, który w poprzednim roku kalendarzowym sprzedał powyżej 30 mln kg wyrobów węglowych;”,
+    - **c)** w pkt 22 lit. b otrzymuje brzmienie: „b) niemający miejsca zamieszkania, siedziby lub miejsca prowadzenia działalności gospodarczej na terytorium kraju, który odbiera nabyte wyroby energetyczne objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie, określone w: – art. 32 ust. 1 pkt 1 i 2, bezpośrednio do zbiornika na stałe zamontowanego na statku powietrznym lub jednostce pływającej, – art. 32 ust. 1 pkt 3;”,
+    - **d)** pkt 22a otrzymuje brzmienie: „22a) zużywający podmiot gospodarczy – podmiot mający miejsce zamieszkania lub siedzibę na terytorium kraju lub przedsiębiorcę zagranicznego posiadającego oddział z siedzibą na terytorium kraju, utworzony na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1252 i 2255), którzy dokonali zgłoszenia rejestracyjnego zgodnie z art. 16 i zużywają na terytorium kraju w ramach prowadzonej działalności gospodarczej wyroby akcyzowe wymienione w załączniku nr 2 do ustawy, opodatkowane zerową stawką akcyzy ze względu na ich przeznaczenie, do celów uprawniających do zastosowania tej stawki akcyzy;”,
+    - **e)** w pkt 23a część wspólna otrzymuje brzmienie: „– który dokonał zgłoszenia rejestracyjnego zgodnie z art. 16;”,
+    - **f)** w pkt 23d część wspólna otrzymuje brzmienie: „– który dokonał zgłoszenia rejestracyjnego zgodnie z art. 16;”,
+    - **g)** pkt 26 otrzymuje brzmienie: „26) System – krajowy system teleinformatyczny służący do obsługi:
+    - **a)** przemieszczania wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy, w szczególności do przesyłania e-AD, raportu odbioru i raportu wywozu, unieważnienia e-AD, zmiany miejsca przeznaczenia oraz zawiadomienia o zmianie miejsca przeznaczenia, o których mowa w rozporządzeniu Komisji (WE) nr 684/2009 z dnia 24 lipca 2009 r. w sprawie wykonania dyrektywy Rady 2008/118/WE w odniesieniu do skomputeryzowanych procedur przemieszczania wyrobów akcyzowych w procedurze zawieszenia poboru akcyzy (Dz. Urz. UE L 197 z 29.07.2009, str. 24, z późn.
+    - **b)** przemieszczania wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie lub wymienionych w załączniku nr 2 do ustawy, opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie, w szczególności do przesyłania e-DD, raportu odbioru i raportu wywozu, unieważnienia e-DD, zmiany miejsca przeznaczenia oraz zawiadomienia o zmianie miejsca przeznaczenia,
+    - **c)** monitorowania sprzedaży wyrobów węglowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie, w szczególności do przesyłania e-DD;”,
+    - **h)** w pkt 29 po wyrazach „z zastosowaniem procedury zawieszenia poboru akcyzy” dodaje się wyrazy „albo poza tą procedurą”,
+    - **i)** w pkt 30 po wyrazach „z zastosowaniem procedury zawieszenia poboru akcyzy” dodaje się wyrazy „albo poza tą procedurą”,
+    - **j)** w pkt 31: – po lit. b dodaje się lit. ba w brzmieniu: „ba) podmiot prowadzący skład podatkowy, do którego jest przemieszczany z użyciem Systemu alkohol etylowy stanowiący odpad, o którym mowa w art. 32 ust. 4 pkt 5,”, – lit. c otrzymuje brzmienie: „c) zarejestrowanego odbiorcę, z wyłączeniem zarejestrowanego odbiorcy posiadającego zezwolenie na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca, który wysyła z użyciem Systemu poza procedurą zawieszenia poboru akcyzy wyroby akcyzowe, które nabył wewnątrzwspólnotowo z zastosowaniem procedury zawieszenia poboru akcyzy, do: – podmiotu zużywającego lub – zużywającego podmiotu gospodarczego, lub – miejsca, w którym prowadzi działalność jako podmiot pośredniczący w zakresie wyrobów energetycznych, o których mowa w art. 32 ust. 1 pkt 2,”, – dodaje się lit. d–f w brzmieniu: „d) pośredniczący podmiot węglowy, który w poprzednim roku kalendarzowym sprzedał powyżej 30 mln kg wyrobów węglowych i który sprzedaje finalnemu nabywcy węglowemu wyroby węglowe, o których mowa w art. 31a ust. 1, jeżeli sprzedaż jest monitorowana z użyciem Systemu, przy czym za podmiot wysyłający uznaje się pośredniczący podmiot węglowy również w przypadku, gdy wyroby takie są do niego zwracane przez finalnego nabywcę węglowego,
+    - **e)** zużywający podmiot gospodarczy, który zwraca z użyciem Systemu importowane przez siebie wyroby akcyzowe, jeżeli ich wyprowadzenie następuje przez urząd celno-skarbowy znajdujący się na terytorium kraju,
+    - **f)** podmiot pośredniczący, podmiot zużywający lub zużywający podmiot gospodarczy, który dokonał importu odpowiednio wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie lub opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie;”,
+    - **k)** w pkt 32: – lit. b otrzymuje brzmienie: „b) podmiot prowadzący skład podatkowy, podmiot pośredniczący, podmiot zużywający, podmiot upoważniony do odbioru wyrobów akcyzowych, o których mowa w art. 32 ust. 1 pkt 3, dostarczanych do zbiornika, z którego są zasilane zbiorcze instalacje licznikowe, oraz zużywający podmiot gospodarczy, do których są wysyłane poza procedurą zawieszenia poboru akcyzy wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie lub wyroby akcyzowe wymienione w załączniku nr 2 do ustawy, opodatkowane zerową stawką akcyzy ze względu na ich przeznaczenie,”, – dodaje się lit. c–e w brzmieniu: „c) finalnego nabywcę węglowego, który wyroby węglowe zwolnione od akcyzy ze względu na ich przeznaczenie nabywa od pośredniczącego podmiotu węglowego, który w poprzednim roku kalendarzowym sprzedał powyżej 30 mln kg wyrobów węglowych,
+    - **d)** podmiot prowadzący miejsce niszczenia wyrobów akcyzowych spełniające warunki niszczenia wyrobów na podstawie przepisów odrębnych, do którego są wysyłane poza procedurą zawieszenia poboru akcyzy wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie, w przypadku, o którym mowa w art. 32 ust. 4 pkt 1a,
+    - **e)** podmiot pośredniczący, podmiot zużywający lub zużywający podmiot gospodarczy, który dokonał importu odpowiednio wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie lub opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie;”,
+    - **l)** w pkt 37 kropkę zastępuje się średnikiem i dodaje się pkt 38 i 39 w brzmieniu: „38) umowa ramowa – umowę o gotowości zlecania usług i ich wykonania, określającą harmonogram dostaw, która nie zawiera postanowień dotyczących okresu, na jaki została zawarta;
+
+- **39)** zbiorcza instalacja licznikowa – instalację licznikową, do której podłączone są urządzenia grzewcze więcej niż jednego podmiotu zużywającego wyroby akcyzowe zwolnione od akcyzy ze względu na ich przeznaczenie, o których mowa w art. 32 ust. 1 pkt 3.”;
+- **2)** w art. 9a uchyla się ust. 5;
+- **3)** w art. 9c uchyla się ust. 5;
+- **4)** w art. 13:
+    - **a)** w ust. 6 pkt 2 otrzymuje brzmienie: „2) odmowy rejestracji w Centralnym Rejestrze Podmiotów Akcyzowych podmiotu reprezentującego, lub”,
+    - **b)** w ust. 6a pkt 2 otrzymuje brzmienie: „2) odmowy rejestracji w Centralnym Rejestrze Podmiotów Akcyzowych podmiotu reprezentującego, lub”;
+
+- **5)** w art. 14:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Właściwość miejscową naczelnika urzędu skarbowego, naczelnika urzędu celno-skarbowego i dyrektora izby administracji skarbowej ustala się ze względu na odpowiednio miejsce wykonania czynności lub wystąpienia stanu faktycznego, podlegających opodatkowaniu akcyzą, albo miejsce wykonywania czynności z wykorzystaniem wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie lub wyrobów akcyzowych wymienionych w załączniku nr 2 do ustawy, opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie.”,
+    - **b)** po ust. 3a dodaje się ust. 3aa w brzmieniu: „3aa. Organem podatkowym właściwym w sprawach Centralnego Rejestru Podmiotów Akcyzowych jest dyrektor izby administracji skarbowej.”,
+    - **c)** uchyla się ust. 3c,
+    - **d)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli czynności podlegające opodatkowaniu akcyzą, czynności z wykorzystaniem wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie lub czynności z wykorzystaniem wyrobów akcyzowych wymienionych w załączniku nr 2 do ustawy, opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie, są wykonywane lub stany faktyczne podlegające opodatkowaniu akcyzą występują na obszarze właściwości miejscowej dwóch lub większej liczby organów podatkowych, właściwość miejscową ustala się dla:”,
+    - **e)** dodaje się ust. 14 w brzmieniu: „14. Minister właściwy do spraw finansów publicznych wyznaczy, w drodze rozporządzenia, dyrektora izby administracji skarbowej właściwego w sprawach Centralnego Rejestru Podmiotów Akcyzowych, uwzględniając potrzebę zapewnienia sprawnego procesu rejestracji, kompletności i aktualności publikowanych list, o których mowa w art. 16 ust. 3c, oraz kompletności i aktualności Centralnego Rejestru Podmiotów Akcyzowych.”;
+
+- **6)** w art. 16:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zgłoszenia rejestracyjnego jest obowiązany dokonać:
+
+- **1)** podmiot prowadzący działalność gospodarczą zamierzający: w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego – przed dniem dokonania pierwszego nabycia wewnątrzwspólnotowego tego alkoholu;
+    - **a)** wykonywać czynności podlegające opodatkowaniu akcyzą – przed dniem wykonania pierwszej takiej czynności,
+    - **b)** wykonywać czynności z wykorzystaniem wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie – przed dniem wykonania pierwszej czynności z wykorzystaniem tych wyrobów,
+    - **c)** wykonywać czynności z wykorzystaniem wyrobów akcyzowych wymienionych w załączniku nr 2 do ustawy opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie – przed dniem wykonania pierwszej czynności z wykorzystaniem tych wyrobów,
+    - **d)** dokonywać nabycia wewnątrzwspólnotowego alkoholu etylowego całkowicie skażonego środkiem skażającym dopuszczonym we wszystkich państwach członkowskich Unii Europejskiej lub dodatkowymi środkami skażającymi dopuszczonymi przez państwo członkowskie Unii Europejskiej, w którym skażenie następuje, na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r.
+
+- **2)** podmiot zużywający nieprowadzący działalności gospodarczej, niebędący osobą fizyczną, zamierzający zużywać wyroby akcyzowe, o których mowa w art. 32 ust. 1 pkt 1–3 – przed dniem pierwszego nabycia tych wyrobów;
+- **3)** podmiot, który w ramach prowadzonej działalności gospodarczej prowadzi miejsce niszczenia wyrobów akcyzowych spełniające warunki niszczenia wyrobów na podstawie przepisów odrębnych, do którego są wysyłane poza procedurą zawieszenia poboru akcyzy wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie, w przypadku, o którym mowa w art. 32 ust. 4 pkt 1a – przed dniem wykonania pierwszej czynności w ramach niszczenia wyrobów akcyzowych;
+- **4)** podmiot, który zamierza prowadzić działalność gospodarczą jako:
+    - **a)** pośredniczący podmiot węglowy,
+    - **b)** pośredniczący podmiot gazowy – przed dniem rozpoczęcia tej działalności;
+
+- **5)** podmiot, który został wyznaczony jako podmiot reprezentujący, o którym mowa w:
+    - **a)** art. 13 ust. 5 – przed dniem dokonania pierwszego nabycia wewnątrzwspólnotowego przez odpowiednio nabywcę końcowego lub finalnego nabywcę gazowego,
+    - **b)** art. 13 ust. 5a – przed dniem rozpoczęcia działalności jako podmiot reprezentujący.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zgłoszenia rejestracyjnego może dokonać osoba fizyczna nieprowadząca działalności gospodarczej, zużywająca wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie, określone w art. 32 ust. 1 pkt 3.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. W przypadku podmiotu prowadzącego działalność gospodarczą zgłoszenie rejestracyjne zawiera dane dotyczące tego podmiotu oraz prowadzonej przez niego działalności, obejmujące w szczególności:
+
+- **1)** imię i nazwisko lub nazwę podmiotu;
+- **2)** adres zamieszkania lub siedziby;
+- **3)** adres miejsca prowadzenia działalności;
+- **4)** numer identyfikacji podatkowej (NIP) albo inny numer identyfikacyjny używany w państwie jego zamieszkania lub siedziby;
+- **5)** określenie rodzaju wyrobów akcyzowych lub określenie samochodów osobowych będących przedmiotem prowadzonej działalności gospodarczej, lub określenie rodzaju wyrobów akcyzowych wykorzystywanych przy jej prowadzeniu;
+- **6)** wskazanie właściwego dla tego podmiotu naczelnika urzędu skarbowego w zakresie akcyzy;
+- **7)** w przypadku podmiotu zagranicznego posiadającego oddział z siedzibą na terytorium kraju – również dane jego oddziału na terytorium kraju, w tym nazwę oddziału z siedzibą na terytorium kraju, w ramach którego podmiot zagraniczny prowadzi działalność gospodarczą na terytorium kraju, oraz adres jego siedziby;
+- **8)** w przypadku podmiotu zagranicznego reprezentowanego przez podmiot reprezentujący, o którym mowa w art. 13 ust. 5 lub 5a – również dane podmiotu zagranicznego, o których mowa w pkt 1 i 2.”,
+    - **d)** po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. W przypadku podmiotu nieprowadzącego działalności gospodarczej zgłoszenie rejestracyjne zawiera dane dotyczące tego podmiotu, obejmujące w szczególności:
+
+- **1)** imię i nazwisko lub nazwę podmiotu;
+- **2)** adres zamieszkania, siedziby lub miejsca pobytu;
+- **3)** numer identyfikacji podatkowej (NIP) albo inny numer identyfikacyjny używany w państwie zamieszkania lub siedziby, albo numer PESEL, a jeżeli numer PESEL nie został nadany – nazwę i numer dokumentu stwierdzającego tożsamość osoby fizycznej;
+- **4)** określenie rodzaju zużywanych przez ten podmiot wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie;
+- **5)** wskazanie właściwego dla tego podmiotu naczelnika urzędu skarbowego w zakresie akcyzy.
+
+2b. Zgłoszenie rejestracyjne jest dokonywane do właściwego dyrektora izby administracji skarbowej przez Platformę Usług Elektronicznych Skarbowo-Celnych, zwaną dalej „PUESC”.
+
+2c. Zgłoszenie rejestracyjne podpisuje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo zaawansowanym podpisem elektronicznym weryfikowanym za pomocą certyfikatu celnego albo zapewnia się w inny sposób możliwość potwierdzenia pochodzenia oraz integralności danych w postaci elektronicznej, jeżeli w przepisach wydanych na podstawie art. 3b § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa minister właściwy do spraw finansów publicznych umożliwił podpisywanie dokumentów w taki sposób.”,
+
+- **e)** uchyla się ust. 3–3b,
+- **f)** po ust. 3b dodaje się ust. 3ba w brzmieniu: „3ba. W przypadkach, o których mowa w ust. 1 i 1a, rejestracja w Centralnym Rejestrze Podmiotów Akcyzowych następuje po dokonaniu zgłoszenia rejestracyjnego spełniającego warunki, o których mowa w ust. 2–2c oraz przepisach wydanych na podstawie art. 20.”,
+- **g)** ust. 3c otrzymuje brzmienie: „3c. Właściwy dyrektor izby administracji skarbowej publikuje, bez zbędnej zwłoki, na PUESC aktualne listy zarejestrowanych w Centralnym Rejestrze Podmiotów Akcyzowych pośredniczących podmiotów węglowych oraz pośredniczących podmiotów gazowych obejmujące następujące dane: imię i nazwisko lub nazwę, adres miejsca wykonywania działalności gospodarczej lub adres siedziby oraz numer identyfikacji podatkowej (NIP).”,
+- **h)** w ust. 4 zdanie pierwsze otrzymuje brzmienie: „Jeżeli dane zawarte w zgłoszeniu rejestracyjnym ulegną zmianie, podmiot, który dokonał zgłoszenia, jest obowiązany zgłosić zmianę właściwemu dyrektorowi izby administracji skarbowej w terminie 7 dni od dnia, w którym nastąpiła zmiana, przy czym w takim przypadku przepisy ust. 2b i 2c stosuje się odpowiednio.”,
+- **i)** uchyla się ust. 4a–4c,
+- **j)** uchyla się ust. 7,
+- **k)** ust. 7a otrzymuje brzmienie: „7a. Obowiązek dokonania zgłoszenia rejestracyjnego nie ma zastosowania do:
+- **1)** podmiotów produkujących energię elektryczną z generatorów o łącznej mocy nieprzekraczającej 1 MW, która jest zużywana przez te podmioty, pod warunkiem że od wyrobów energetycznych wykorzystywanych do produkcji tej energii elektrycznej została zapłacona akcyza w należnej wysokości;
+- **2)** podmiotów zużywających, o których mowa w art. 2 ust. 1 pkt 22 lit. a, które nabyte wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie, określone w art. 32 ust. 1 pkt 1 i 2, odbierają wyłącznie odpowiednio na płycie lotniska bezpośrednio do zbiornika na stałe zamontowanego na statku powietrznym albo ze zbiornika zamontowanego na stałe w porcie bezpośrednio do zbiornika na stałe zamontowanego na jednostce pływającej;
+- **3)** podmiotów zużywających, o których mowa w art. 2 ust. 1 pkt 22 lit. b;
+- **4)** podmiotów zużywających wyroby akcyzowe, o których mowa w art. 32 ust. 1 pkt 3, ze zbiornika zasilającego zbiorcze instalacje licznikowe.”;
+- **7)** w art. 17:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Podmiotem reprezentującym, o którym mowa w art. 13 ust. 5, może być wyłącznie podmiot zarejestrowany w Centralnym Rejestrze Podmiotów Akcyzowych, który posiada siedzibę na terytorium kraju i spełnia warunki, o których mowa w art. 48 ust. 1 pkt 2–4.
+
+2. Właściwy dyrektor izby administracji skarbowej odmawia, bez zbędnej zwłoki, rejestracji w Centralnym Rejestrze Podmiotów Akcyzowych, jeżeli podmiot nie spełnia warunków, o których mowa w art. 48 ust. 1 pkt 2–4.”,
+
+- **b)** ust. 4 otrzymuje brzmienie: „4. Właściwy naczelnik urzędu skarbowego z urzędu wydaje decyzję o wykreśleniu podmiotu reprezentującego z Centralnego Rejestru Podmiotów Akcyzowych w przypadku naruszenia któregokolwiek z warunków określonych w art. 48 ust. 1 pkt 2–4. Decyzja ta jest natychmiast wykonalna. Przepis art. 52 ust. 3 stosuje się odpowiednio.”,
+- **c)** dodaje się ust. 5 w brzmieniu: „5. Informację o wydaniu decyzji, o której mowa w ust. 4, właściwy naczelnik urzędu skarbowego niezwłocznie przekazuje właściwemu dyrektorowi izby administracji skarbowej, w celu wykreślenia podmiotu reprezentującego z Centralnego Rejestru Podmiotów Akcyzowych.”;
+- **8)** art. 18 i art. 19 otrzymują brzmienie: „Art. 18. 1. Centralny Rejestr Podmiotów Akcyzowych zawiera dane, o których mowa w art. 16 ust. 2 i 2a.
+
+2. Na wniosek:
+
+- **1)** podmiotu zarejestrowanego w Centralnym Rejestrze Podmiotów Akcyzowych,
+- **2)** innego podmiotu mającego interes prawny w uzyskaniu informacji o zarejestrowaniu danego podmiotu w Centralnym Rejestrze Podmiotów Akcyzowych – właściwy dyrektor izby administracji skarbowej wydaje zaświadczenie stwierdzające, czy dany podmiot jest podmiotem zarejestrowanym w Centralnym Rejestrze Podmiotów Akcyzowych.
+
+3. Zaświadczenie, o którym mowa w ust. 2, zawiera dane dotyczące podmiotu zarejestrowanego w Centralnym Rejestrze Podmiotów Akcyzowych i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę tego podmiotu, adres zamieszkania, miejsca pobytu lub siedziby, numer identyfikacji podatkowej (NIP) albo inny numer identyfikacyjny używany w państwie zamieszkania lub siedziby, adres miejsca wykonywania działalności gospodarczej oraz określenie rodzaju wyrobów akcyzowych lub samochodów osobowych będących przedmiotem prowadzonej działalności gospodarczej lub wykorzystywanych przy jej prowadzeniu. W przypadku podmiotu zużywającego nieprowadzącego działalności gospodarczej zaświadczenie zamiast danych dotyczących prowadzonej działalności gospodarczej zawiera określenie rodzaju wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które podmiot zużywa.
+
+4. Właściwy naczelnik urzędu skarbowego prowadzi rejestr podmiotów, o których mowa w art. 16b ust. 1. Rejestr zawiera dane, o których mowa w art. 16b ust. 2.
+
+5. Na wniosek:
+
+- **1)** podmiotu zarejestrowanego w rejestrze podmiotów, o którym mowa w ust. 4,
+- **2)** innego niż określony w pkt 1 podmiotu mającego interes prawny w uzyskaniu informacji o zarejestrowaniu danego podmiotu w rejestrze podmiotów, o którym mowa w ust. 4 – właściwy naczelnik urzędu skarbowego wydaje zaświadczenie stwierdzające, że zużywający podmiot olejowy lub pośredniczący podmiot olejowy jest podmiotem zarejestrowanym w rejestrze podmiotów, o którym mowa w ust. 4.
+
+6. Zaświadczenie, o którym mowa w ust. 5, zawiera dane dotyczące podmiotu zarejestrowanego w rejestrze podmiotów, o którym mowa w ust. 4, w szczególności imię i nazwisko lub nazwę tego podmiotu, adres jego zamieszkania, miejsca pobytu lub siedziby, numer identyfikacji podatkowej (NIP) albo inny numer identyfikacyjny używany w państwie zamieszkania, a w przypadku zużywającego podmiotu olejowego również miejsca, w tym adres i dane geolokalizacyjne, gdzie znajdują się urządzenia grzewcze, z wyłączeniem urządzeń grzewczych niestacjonarnych, oraz numer identyfikacyjny miejsca (adresu), gdzie znajduje się urządzenie grzewcze stacjonarne, a w przypadku urządzeń grzewczych niestacjonarnych – numer identyfikacyjny urządzenia.
+
+7. Szef Krajowej Administracji Skarbowej prowadzi, w formie elektronicznej, ewidencję, która zawiera:
+
+- **1)** dane identyfikacyjne podmiotów prowadzących składy podatkowe, zarejestrowanych odbiorców, zarejestrowanych wysyłających oraz podmiotów pośredniczących, adresy ich siedzib lub zamieszkania oraz adresy ich poczty elektronicznej;
+- **2)** określenie rodzaju działalności prowadzonej przez podmioty, o których mowa w pkt 1, oraz określenie rodzaju wyrobów akcyzowych objętych tą działalnością;
+- **3)** adresy, pod którymi zlokalizowane są składy podatkowe, miejsca odbioru wyrobów akcyzowych przez zarejestrowanych odbiorców oraz miejsca, w których jest wykonywana działalność podmiotów pośredniczących, oraz adresy ich poczty elektronicznej;
+- **4)** numery akcyzowe składów podatkowych, podmiotów prowadzących składy podatkowe, zarejestrowanych odbiorców, zarejestrowanych wysyłających, a także numery podmiotów pośredniczących.
+
+8. Dane z ewidencji, o których mowa w ust. 7 pkt 4, są potwierdzane na wniosek podmiotów, o których mowa w ust. 7 pkt 1, albo udostępniane na wniosek innego podmiotu mającego interes prawny w uzyskaniu danych z ewidencji, albo udostępniane właściwym organom państw członkowskich Unii Europejskiej oraz są wykorzystywane przez System.
 
 **Art. 19.**
 
@@ -188,13 +311,98 @@ source: "isap-pdf"
 
 **Art. 46g.** Jeżeli projekt e-DD zawiera prawidłowe i kompletne dane, w Systemie jest mu automatycznie nadawany numer referencyjny, a następnie e-DD jest automatycznie przesyłany do podmiotu wysyłającego, o którym mowa w art. 2 ust. 1 pkt 31 lit. b–c, e lub f, oraz do podmiotu odbierającego, o którym mowa w art. 2 ust. 1 pkt 32 lit. b–d, będącego użytkownikiem Systemu.”;
 
+- **27)** po art. 46g dodaje się art. 46ga w brzmieniu: „Art. 46ga. Podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b–f, może dokonać zmiany środka transportu podczas przemieszczania wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy.”;
+- **28)** w art. 46h w ust. 1 wyrazy „o którym mowa w art. 2 ust. 1 pkt 32 lit. b” zastępuje się wyrazami „o którym mowa w art. 2 ust. 1 pkt 32 lit. b lub d”;
+- **29)** w art. 46i:
+    - **a)** w ust. 1 wyrazy „o którym mowa w art. 2 ust. 1 pkt 32 lit. b” zastępuje się wyrazami „o którym mowa w art. 2 ust. 1 pkt 32 lit. b, d lub e”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku gdy podmiot zużywający lub podmiot upoważniony do odbioru wyrobów akcyzowych, o którym mowa w art. 2 ust. 1 pkt 32 lit. b, nie jest użytkownikiem Systemu, informacja, o której mowa w ust. 1, jest wysyłana do podmiotu wysyłającego, o którym mowa w art. 2 ust. 1 pkt 31 lit. b lub c. Podmiot wysyłający jest obowiązany do przesłania do Systemu powiadomienia o przybyciu wyrobów akcyzowych niezwłocznie po ich przybyciu. Do momentu przeprowadzenia kontroli nie dokonuje się rozładunku tych wyrobów.”,
+    - **c)** w ust. 2 we wprowadzeniu do wyliczenia wyrazy „o którym mowa w art. 2 ust. 1 pkt 32 lit. b” zastępuje się wyrazami „o którym mowa w art. 2 ust. 1 pkt 32 lit. b, d lub e”;
+
+- **30)** w art. 46j:
+    - **a)** uchyla się ust. 1,
+    - **b)** w ust. 2 we wprowadzeniu do wyliczenia wyrazy „o którym mowa w art. 2 ust. 1 pkt 31 lit. b i c” zastępuje się wyrazami „o którym mowa w art. 2 ust. 1 pkt 31 lit. b–d”,
+    - **c)** w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) na innym niż wskazany w pkt 1 papierowym dokumencie zawierającym dane, które są wymagane dla raportu odbioru.”,
+    - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku, o którym mowa w art. 46d ust. 2, podmiot wysyłający, o którym mowa odpowiednio w art. 2 ust. 1 pkt 31 lit. b lub c, sporządza w Systemie jeden projekt raportu odbioru na podstawie potwierdzeń odbioru wyrobów akcyzowych, o których mowa w ust. 3, w terminie 5 dni roboczych, licząc od dnia dokonania ostatniego potwierdzenia odbioru.”,
+    - **e)** ust. 6 otrzymuje brzmienie: „6. W przypadkach, o których mowa w ust. 5 albo 5a, jeżeli System jest niedostępny, podmiot wysyłający, o którym mowa odpowiednio w art. 2 ust. 1 pkt 31 lit. b lub c, sporządza, w terminie określonym w ust. 5 albo 5a, jeden dokument zastępujący raport odbioru potwierdzający, że przemieszczenie zostało zakończone.”;
+
+- **31)** uchyla się art. 46l;
+- **32)** w art. 46m:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Jeżeli projekt raportu odbioru albo projekt raportu wywozu sporządzony przez organ celny, o którym mowa w art. 221 ust. 2 lub art. 332 ust. 3 i 4 rozporządzenia 2015/2447, zawiera kompletne i prawidłowe dane, raport odbioru albo raport wywozu jest automatycznie przesyłany z Systemu do podmiotu odbierającego, o którym mowa w art. 2 ust. 1 pkt 32 lit. b, d lub e, będącego użytkownikiem Systemu oraz do podmiotu wysyłającego, o którym mowa w art. 2 ust. 1 pkt 31 lit. b–c, e lub f, albo do właściwego organu celnego.
+
+2. W przypadku gdy projekt raportu odbioru albo projekt raportu wywozu sporządzony przez organ celny, o którym mowa w art. 221 ust. 2 lub art. 332 ust. 3 i 4 rozporządzenia 2015/2447, zawiera niekompletne lub nieprawidłowe dane, informacja o błędach jest automatycznie wysyłana z Systemu do podmiotu odbierającego, o którym mowa w art. 2 ust. 1 pkt 32 lit. b, d lub e, będącego użytkownikiem Systemu oraz do podmiotu wysyłającego, o którym mowa w art. 2 ust. 1 pkt 31 lit. b–c, e lub f, w przypadkach gdy podmiot ten będzie sporządzać raport odbioru, albo do właściwego organu celnego.”,
+
+- **b)** dodaje się ust. 3 w brzmieniu: „3. W przypadku, o którym mowa w art. 46a pkt 2 lit. e, w Systemie jest tworzony raport wywozu na podstawie informacji uzyskanej z elektronicznego systemu obsługi eksportu, potwierdzającej wyprowadzenie wyrobów akcyzowych poza terytorium Unii Europejskiej. Raport wywozu po sprawdzeniu pod względem kompletności i prawidłowości danych w nim zawartych jest automatycznie przesyłany z Systemu do podmiotu wysyłającego, o którym mowa w art. 2 ust. 1 pkt 31 lit. e.”;
+- **33)** uchyla się art. 46n;
+- **34)** po art. 46n dodaje się art. 46na w brzmieniu: „Art. 46na. 1. W przypadku przemieszczania objętych zwolnieniem od akcyzy wyrobów energetycznych, o których mowa w art. 32 ust. 1 pkt 1, z wyjątkiem olejów smarowych do silników lotniczych oraz preparatów smarowych do silników lotniczych, jeżeli wyroby te są:
+- **1)** wydawane ze zbiornika na stałe zamontowanego na płycie lotniska bezpośrednio podmiotowi zużywającemu do zbiornika na stałe zamontowanego na statku powietrznym,
+- **2)** przemieszczane na terenie lotniska cysterną do podmiotu zużywającego, o którym mowa w art. 2 ust. 1 pkt 22 lit. a lub b, i wydawane temu podmiotowi bezpośrednio do zbiornika na stałe zamontowanego na statku powietrznym – podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b, sporządza projekt e-DD na podstawie potwierdzenia odbioru, o którym mowa w art. 46j ust. 3, i przesyła go do Systemu niezwłocznie, nie później jednak niż w terminie 5 dni, licząc od dnia potwierdzenia odbioru.
+
+2. W przypadku przemieszczania objętych zwolnieniem od akcyzy wyrobów energetycznych, o których mowa w art. 32 ust. 1 pkt 2, jeżeli wyroby te są wydawane ze zbiornika na stałe zamontowanego w porcie bezpośrednio podmiotowi zużywającemu do zbiornika na stałe zamontowanego na statku, podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b, sporządza projekt e-DD na podstawie potwierdzenia odbioru, o którym mowa w art. 46j ust. 3, i przesyła go do Systemu niezwłocznie, nie później jednak niż w terminie 5 dni, licząc od dnia potwierdzenia odbioru.
+
+3. W przypadku sprzedaży objętych zwolnieniem od akcyzy wyrobów węglowych, o których mowa w art. 31a ust. 1, podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. d, sporządza projekt e-DD na podstawie faktury dokumentującej tę sprzedaż i przesyła go do Systemu niezwłocznie, nie później jednak niż do 16. dnia miesiąca następującego po miesiącu, w którym sprzedał objęte zwolnieniem od akcyzy wyroby węglowe finalnemu nabywcy węglowemu.
+
+4. W przypadku sprzedaży objętych zwolnieniem od akcyzy wyrobów węglowych, o których mowa w art. 31a ust. 1, i ich dostarczania realizowanego w sposób ciągły transportem taśmowym, na podstawie zawartej umowy, podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. d, przesyła do Systemu projekt e-DD co najmniej raz w miesiącu, na podstawie faktury dokumentującej tę sprzedaż.
+
+5. W przypadku przemieszczania objętych zwolnieniem od akcyzy wyrobów energetycznych przy użyciu rurociągu:
+
+- **1)** bezpośrednio po dopuszczeniu do obrotu z zastosowaniem zgłoszenia uproszczonego w rozumieniu przepisów prawa celnego z miejsca importu bezpośrednio do składu podatkowego na terytorium kraju, podmiotu pośredniczącego lub podmiotu zużywającego,
+- **2)** ze składu podatkowego na terytorium kraju do podmiotu pośredniczącego lub podmiotu zużywającego,
+- **3)** od podmiotu pośredniczącego do podmiotu zużywającego – podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b, przesyła do Systemu projekt e-DD niezwłocznie po zakończeniu tłoczenia.
+
+6. W przypadku gdy wyroby węglowe, o których mowa w art. 31a ust. 1, przed ich sprzedażą finalnemu nabywcy węglowemu były przedmiotem dostaw pomiędzy pośredniczącymi podmiotami węglowymi, pośredniczący podmiot węglowy, który dokonał sprzedaży tych wyrobów finalnemu nabywcy węglowemu, przesyła do Systemu projekt e-DD do 16. dnia miesiąca następującego po miesiącu, w którym nabył te wyroby węglowe od innego pośredniczącego podmiotu węglowego.
+
+7. W przypadku zwrotu wyrobów akcyzowych, które zostały przemieszczone lub sprzedane w sposób określony w ust. 1–3 lub 6, podmiot wysyłający, do którego zostały te wyroby zwrócone, przesyła projekt e-DD do Systemu niezwłocznie po otrzymaniu tych wyrobów, nie później jednak niż w terminie 5 dni, licząc od dnia ich otrzymania.
+
+8. W przypadkach, o których mowa w ust. 1–7, nie sporządza się w Systemie raportu odbioru, a odpowiednio przemieszczenie albo monitorowanie sprzedaży wyrobów węglowych z użyciem Systemu uznaje się za zakończone z chwilą uzyskania z Systemu przez podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b lub d, e-DD z nadanym numerem referencyjnym, sprawdzonego pod względem kompletności i prawidłowości danych zawartych w tym dokumencie. Przepisu art. 46g nie stosuje się.”;
+
+- **35)** w art. 46o:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W przypadkach, o których mowa w art. 46na ust. 1, 2 i 5, w momencie zarejestrowania w Systemie e-DD następuje automatyczne odnotowanie:
+
+- **1)** zwolnienia z obciążenia zabezpieczenia generalnego podmiotu wysyłającego, o którym mowa w art. 2 ust. 1 pkt 31 lit. b, albo zwolnienia wyrobów akcyzowych z objęcia ich zabezpieczeniem ryczałtowym tego podmiotu;
+- **2)** obciążenia zabezpieczenia generalnego podmiotu prowadzącego skład podatkowy lub podmiotu pośredniczącego kwotą akcyzy albo kwotą akcyzy i opłaty paliwowej, wynikającymi z ilości i rodzaju odebranych wyrobów akcyzowych, albo objęcia tych wyrobów zabezpieczeniem ryczałtowym podmiotu prowadzącego skład podatkowy lub podmiotu pośredniczącego, albo objęcia tych wyrobów zwolnieniem z obowiązku złożenia zabezpieczenia akcyzowego udzielonym podmiotowi prowadzącemu skład podatkowy – w przypadku odbioru tych wyrobów przez podmiot prowadzący skład podatkowy lub podmiot pośredniczący.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku zwrotu, o którym mowa w art. 46na ust. 7, do podmiotu prowadzącego skład podatkowy lub podmiotu pośredniczącego w momencie zarejestrowania w Systemie e-DD następuje automatyczne odnotowanie:
+
+- **1)** zwolnienia z obciążenia zabezpieczenia generalnego podmiotu pośredniczącego, o którym mowa w art. 2 ust. 1 pkt 31 lit. b, albo zwolnienia wyrobów akcyzowych z objęcia ich zabezpieczeniem ryczałtowym tego podmiotu;
+- **2)** obciążenia zabezpieczenia generalnego podmiotu prowadzącego skład podatkowy lub podmiotu pośredniczącego, do którego zostały zwrócone wyroby, kwotą akcyzy albo kwotą akcyzy i opłaty paliwowej, wynikającymi z ilości i rodzaju zwróconych wyrobów akcyzowych, albo objęcia tych wyrobów zabezpieczeniem ryczałtowym podmiotu prowadzącego skład podatkowy lub podmiotu pośredniczącego, albo objęcia tych wyrobów zwolnieniem z obowiązku złożenia zabezpieczenia akcyzowego udzielonym podmiotowi prowadzącemu skład podatkowy.”;
+- **36)** w art. 46p w ust. 1:
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) otrzymania przez podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. e, raportu wywozu albo dokumentu zastępującego raport wywozu po upływie terminu na zakończenie przemieszczenia, o którym mowa w art. 46b ust. 3”,
+    - **b)** uchyla się pkt 2;
+
+- **37)** w art. 46q:
+    - **a)** w ust. 2: – pkt 6 otrzymuje brzmienie: „6) podmioty zużywające, które obowiązane są do dokonania zgłoszenia rejestracyjnego na podstawie art. 16 ust. 1, jeżeli wymagane jest sporządzenie w Systemie raportu odbioru przez te podmioty;”, – po pkt 6 dodaje się pkt 6a i 6b w brzmieniu: „6a) pośredniczące podmioty węglowe, które w poprzednim roku kalendarzowym sprzedały powyżej 30 mln kg wyrobów węglowych;
+
+- **6b)** podmioty zużywające wyroby akcyzowe, o których mowa w art. 32 ust. 1 pkt 3, zwolnione od akcyzy ze względu na ich przeznaczenie, będące osobami fizycznymi nieprowadzącymi działalności gospodarczej, które dokonały zgłoszenia rejestracyjnego na podstawie art. 16 ust. 1a, i w przypadku których wymagane jest dokonywanie przez nie czynności w Systemie;”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Dokument przesyłany do Systemu podlega sprawdzeniu pod względem kompletności i prawidłowości przesłanych danych, w szczególności w zakresie zgodności z danymi z Centralnego Rejestru Podmiotów Akcyzowych lub z ewidencji, o której mowa w art. 18 ust. 7.”;
+
+- **38)** w art. 46t:
+    - **a)** w ust. 2 w pkt 2 po wyrazach „z zastosowaniem procedury zawieszenia poboru akcyzy” dodaje się wyrazy „lub poza tą procedurą”,
+    - **b)** uchyla się ust. 6;
+
+- **39)** w art. 46w w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) warunki dokonywania zmiany środka transportu wyrobów akcyzowych przemieszczanych poza procedurą zawieszenia poboru akcyzy z użyciem Systemu w innych przypadkach niż określone w art. 46na ust. 1–7.”;
+- **40)** w art. 89:
+    - **a)** w ust. 2aa wyrazy „o których mowa w ust. 2 pkt 2, 3, 5 i 6a” zastępuje się wyrazami „o których mowa w ust. 2 pkt 2, 3 i 5–6a”,
+    - **b)** uchyla się ust. 2ab;
+
+- **41)** w art. 100 ust. 6 otrzymuje brzmienie: „6. Do opodatkowania akcyzą samochodów osobowych stosuje się odpowiednio art. 10 ust. 12 i 13, art. 14 ust. 1–3aa, 4, 4g, 6, 8, 10 i 11, art. 16 ust. 1 pkt 1 lit. a, ust. 2, 2b, 2c, 3ba i 4, art. 18 ust. 1–3, art. 19 ust. 1–3, ust. 6 pkt 1, ust. 7 pkt 1 lit. a i ust. 8–11, art. 21 ust. 5 i art. 27–29a oraz przepisy wydane na podstawie art. 20.”;
+- **42)** w art. 116 w ust. 1b wyrazy „który nie złożył zgłoszenia rejestracyjnego” zastępuje się wyrazami „który nie dokonał zgłoszenia rejestracyjnego”.
+
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122, 2123 i 2320) w art. 272 pkt 6 otrzymuje brzmienie: „6) weryfikację danych i dokumentów przedstawionych przez podmioty dokonujące zgłoszenia rejestracyjnego zgodnie z art. 16 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, 1747, 2320 i 2419 oraz z 2021 r. poz. 72) oraz zgłoszenia rejestracyjnego uproszczonego zgodnie z art. 16b tej ustawy.”.
 
 **Art. 3.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2020 r. poz. 1546, 1565, 2023 i 2369) w załączniku do ustawy:
 
+- **1)** w części I uchyla się ust. 15;
+- **2)** w części II w kolumnie 2 ust. 20 otrzymuje brzmienie: „20. Zaświadczenie stwierdzające, że podmiot został zarejestrowany w Centralnym Rejestrze Podmiotów Akcyzowych.”.
+
 **Art. 4.** W ustawie z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy – Prawo celne (Dz. U. poz. 1697 i 2511 oraz z 2019 r. poz. 1520 i 2496) wprowadza się następujące zmiany:
 
+- **1)** w art. 3a w ust. 1 wyrazy „do dnia 31 stycznia 2021 r.” zastępuje się wyrazami „do dnia 31 stycznia 2022 r.”;
+- **2)** w art. 10 wyrazy „przed dniem 1 lutego 2021 r.” zastępuje się wyrazami „przed dniem 1 lutego 2022 r.”.
+
 **Art. 5.** W ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320) w art. 113:
+
+- **1)** uchyla się pkt 1 i 2;
+- **2)** w pkt 3 wyrazy „w art. 18 w ust. 3” zastępuje się wyrazami „w art. 18 w ust. 7”;
+- **3)** uchyla się pkt 5.
 
 **Art. 6.** Do zgłoszeń rejestracyjnych, o których mowa w art. 16 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, złożonych przed dniem wejścia w życie niniejszej ustawy, w przypadku których przed tym dniem nie zostało wydane potwierdzenie przyjęcia zgłoszenia rejestracyjnego, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
@@ -237,4 +445,8 @@ source: "isap-pdf"
 2. Od dnia 1 lutego 2021 r. do dnia 31 stycznia 2022 r. do przemieszczeń, o których mowa w ust. 1, mogą być stosowane przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
 **Art. 14.** Ustawa wchodzi w życie z dniem 1 lutego 2021 r., z wyjątkiem:
+
+- **1)** art. 4, który wchodzi w życie z dniem 31 stycznia 2021 r.;
+- **2)** art. 5, który wchodzi w życie z dniem 1 lipca 2021 r.
+
 

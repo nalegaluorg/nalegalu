@@ -8,10 +8,10 @@ pos: 982
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 maja 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 982 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 19 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000982) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/982/text.pdf) |
 
-Poz. 982 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 19 maja 2023 r.
-w sprawie jednostek odpowiedzialnych za genetyczne zasoby roślin Na podstawie art. 29 ust. 7 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) zarządza się, co następuje: § 1. Jednostkami odpowiedzialnymi za genetyczne zasoby roślin są:
+w sprawie jednostek odpowiedzialnych za genetyczne zasoby roślin Na podstawie art. 29 ust. 7 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) zarządza się, co następuje:
+§ 1. Jednostkami odpowiedzialnymi za genetyczne zasoby roślin są:
 1) Instytut Hodowli i Aklimatyzacji Roślin – Państwowy Instytut Badawczy w zakresie odmian:
 a) regionalnych roślin rolniczych,
 b) regionalnych roślin warzywnych oraz amatorskich roślin warzywnych – w przypadku gdy z wnioskiem, o którym mowa w art. 29 ust. 1 lub 2 ustawy z dnia 9 listopada 2012 r. o nasiennictwie, występuje Instytut Ogrodnictwa – Państwowy Instytut Badawczy;

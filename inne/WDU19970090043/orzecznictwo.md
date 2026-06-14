@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1996 r. o gospodarce komunalnej.*
 
-Łącznie: **100** orzeczeń
+Łącznie: **101** orzeczeń
 (pominięto 151 orzeczeń sądów rejonowych)
 
 ## art. 1 (22)
@@ -30,7 +30,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1996 r. o gospodarce komunaln
 - 2016-03-24 | SO | [III Ca 1861/15](https://www.saos.org.pl/judgments/222642) | Uzasadnienie
 - 2015-06-17 | SO | [III Ca 288/15](https://www.saos.org.pl/judgments/176389) | Uzasadnienie
 
-## art. 2 (21)
+## art. 2 (22)
 
 - 1998-03-31 | TK | [K 24/97](https://www.saos.org.pl/judgments/205800) | Wyrok ★
 - 2010-10-19 | SN | [II PK 91/10](https://www.saos.org.pl/judgments/93168) | Wyrok ★
@@ -38,6 +38,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1996 r. o gospodarce komunaln
 - 1998-11-04 | SN | [III RN 76/98](https://www.saos.org.pl/judgments/78663) | Wyrok ★
 - 1998-07-08 | SN | [III RN 48/98](https://www.saos.org.pl/judgments/78440) | Wyrok ★
 - 2003-10-23 | SN | [IV KK 265/02](https://www.saos.org.pl/judgments/82278) | Postanowienie
+- 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok
 - 2022-02-02 | SO | [III AUa 938/20](https://www.saos.org.pl/judgments/460661) | Wyrok
 - 2020-09-29 | SO | [I ACa 350/20](https://www.saos.org.pl/judgments/429304) | Wyrok
 - 2019-03-26 | SO | [I AGa 215/18](https://www.saos.org.pl/judgments/376669) | Wyrok
@@ -54,8 +55,9 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1996 r. o gospodarce komunaln
 - 2016-03-24 | SO | [III Ca 1861/15](https://www.saos.org.pl/judgments/222642) | Uzasadnienie
 - 2015-06-17 | SO | [III Ca 288/15](https://www.saos.org.pl/judgments/176389) | Uzasadnienie
 
-## art. 3 (4)
+## art. 3 (5)
 
+- 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok
 - 2025-02-07 | SO | [V AGa 381/23](https://www.saos.org.pl/judgments/525236) | Wyrok
 - 2020-03-13 | SO | [I AGa 527/18](https://www.saos.org.pl/judgments/415461) | Wyrok
 - 2014-12-04 | SO | [I ACa 1497/14](https://www.saos.org.pl/judgments/271422) | Wyrok
@@ -102,12 +104,13 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1996 r. o gospodarce komunaln
 - 2001-03-15 | SN | [III ZP 1/01](https://www.saos.org.pl/judgments/80425) | Uchwała ★
 - 2010-08-26 | SN | [I KZP 9/10](https://www.saos.org.pl/judgments/92802) | Postanowienie
 
-## art. 9 (12)
+## art. 9 (13)
 
 - 2001-10-08 | TK | [K 11/01](https://www.saos.org.pl/judgments/206107) | Wyrok ★
 - 2007-10-26 | SN | [III CZP 84/07](https://www.saos.org.pl/judgments/86752) | Uchwała ★
 - 2010-10-19 | SN | [II PK 91/10](https://www.saos.org.pl/judgments/93168) | Wyrok ★
 - 2009-01-08 | SN | [I PK 166/08](https://www.saos.org.pl/judgments/89406) | Wyrok ★
+- 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok
 - 2024-02-29 | SO | [I ACa 720/22](https://www.saos.org.pl/judgments/494508) | Wyrok
 - 2020-03-13 | SO | [I AGa 527/18](https://www.saos.org.pl/judgments/415461) | Wyrok
 - 2015-05-21 | SO | [I ACa 77/15](https://www.saos.org.pl/judgments/155564) | Wyrok

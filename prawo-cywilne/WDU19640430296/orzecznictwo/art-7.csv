@@ -43,6 +43,9 @@ saos_id|date|court|case_number|type|score|saos_url
 88704|2008-09-17|SN|I PZ 20/08|Postanowienie|69|https://www.saos.org.pl/judgments/88704
 88663|2008-09-05|SN|III CSK 178/08|Postanowienie|69|https://www.saos.org.pl/judgments/88663
 163171|2005-04-13|SN|V CK 729/04|Postanowienie|69|https://www.saos.org.pl/judgments/163171
+545125|2026-03-27|SO|VII AGa 881/24|Wyrok|56|https://www.saos.org.pl/judgments/545125
+546504|2026-03-10|SO|I ACa 917/24|Wyrok|56|https://www.saos.org.pl/judgments/546504
+546265|2026-03-03|SO|I ACa 920/24|Wyrok|56|https://www.saos.org.pl/judgments/546265
 541817|2025-12-29|SO|I ACa 292/23|Wyrok|56|https://www.saos.org.pl/judgments/541817
 541306|2025-12-19|SO|I ACa 1766/22|Wyrok|56|https://www.saos.org.pl/judgments/541306
 541673|2025-12-11|SO|I ACa 176/23|Wyrok|56|https://www.saos.org.pl/judgments/541673
@@ -56,6 +59,7 @@ saos_id|date|court|case_number|type|score|saos_url
 542556|2025-08-27|SO|I ACa 3630/23|Wyrok|56|https://www.saos.org.pl/judgments/542556
 537068|2025-08-21|SO|I ACa 2120/22|Wyrok|56|https://www.saos.org.pl/judgments/537068
 537066|2025-08-13|SO|I ACa 2095/22|Wyrok|56|https://www.saos.org.pl/judgments/537066
+545762|2025-07-21|SO|II AKa 462/24|Wyrok|56|https://www.saos.org.pl/judgments/545762
 538256|2025-07-07|SO|I ACa 434/23|Wyrok|56|https://www.saos.org.pl/judgments/538256
 532221|2025-07-07|SO|I ACa 265/25|Wyrok|56|https://www.saos.org.pl/judgments/532221
 540999|2025-05-22|SO|I ACa 3251/24|Wyrok|56|https://www.saos.org.pl/judgments/540999
@@ -64,6 +68,7 @@ saos_id|date|court|case_number|type|score|saos_url
 527247|2025-04-24|SO|V ACa 926/24|Wyrok|56|https://www.saos.org.pl/judgments/527247
 533055|2025-03-26|SO|V ACa 721/23|Wyrok|56|https://www.saos.org.pl/judgments/533055
 539013|2025-03-24|SO|I ACa 1046/23|Wyrok|56|https://www.saos.org.pl/judgments/539013
+545978|2025-03-12|SO|I ACa 1466/24|Wyrok|56|https://www.saos.org.pl/judgments/545978
 527800|2025-03-10|SO|I ACa 1225/23|Wyrok|56|https://www.saos.org.pl/judgments/527800
 528888|2025-03-04|SO|I ACa 1408/22|Wyrok|56|https://www.saos.org.pl/judgments/528888
 541073|2025-02-03|SO|V ACa 870/22|Wyrok|56|https://www.saos.org.pl/judgments/541073

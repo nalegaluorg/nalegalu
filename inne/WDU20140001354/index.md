@@ -8,7 +8,7 @@ pos: 1354
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 93/8/A/2014 WYROK z dnia 23 września 2014 r.

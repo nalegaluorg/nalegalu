@@ -8,10 +8,10 @@ pos: 38
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 stycznia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Pozycja 38 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 stycznia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000038) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/38/text.pdf) |
 
-Pozycja ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 stycznia 2012 r.
-w sprawie zbierania informacji na temat używania przez oskarżonego środków odurzających, substancji psychotropowych lub środków zastępczych Na podstawie art. 70a ust. 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie zbierania informacji na temat używania przez oskarżonego środków odurzających, substancji psychotropowych lub środków zastępczych Na podstawie art. 70a ust. 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe warunki i tryb zbierania informacji na temat używania przez oskarżonego środków odurzających, substancji psychotropowych lub środków zastępczych, zwanego dalej „zbieraniem informacji”;
 2) warunki, jakie muszą spełniać osoby uprawnione do zbierania informacji, zwane dalej „specjalistami”;
 3) wysokość ryczałtu przysługującego za zebranie informacji.
@@ -39,7 +39,7 @@ w sprawie zbierania informacji na temat używania przez oskarżonego środków o
 § 3. 1. Ewidencję specjalistów prowadzi Krajowe Biuro do Spraw Przeciwdziałania Narkomanii, zwane dalej „Biurem”.
 2. W ewidencji odnotowuje się:
 1) imię i nazwisko specjalisty;
-2) adres, na który należy kierować zarządzenia o zebraniu informacji, wraz z numerem telefonu oraz adresem poczty elektronicznej, oraz numerem telefaksu jeżeli specjalista taki numer posiada;
+2) adres, na który należy kierować zarządzenia o zebraniu informacji, wraz z numerem telefonu oraz adresem poczty elektronicznej, oraz numerem telefaksu – jeżeli specjalista taki numer posiada;
 3) wykaz sądów rejonowych, w których okręgu specjalista zobowiązuje się do zbierania informacji.
 3. Osoba, która występuje o wpis do ewidencji, przesyła do Biura listem poleconym następujące dokumenty:
 1) poświadczoną notarialnie kopię certyfikatu specjalisty terapii uzależnień uzyskanego zgodnie z przepisami ustawy o przeciwdziałaniu narkomanii;
@@ -65,7 +65,8 @@ w sprawie zbierania informacji na temat używania przez oskarżonego środków o
 § 9. Zbieranie informacji przeprowadza się w godzinach od 6 do 22 , w miejscu wskazanym przez organ zarządzający.
 § 10. Przed przystąpieniem do zbierania informacji specjalista informuje oskarżonego o celu tej czynności, a na jego żądanie okazuje kopię zarządzenia o zebraniu informacji oraz kopię certyfikatu specjalisty terapii uzależnień.
 § 11. 1. Po zebraniu informacji i wypełnieniu kwestionariusza, którego wzór jest określony w załączniku nr 2 do rozporządzenia, specjalista przekazuje niezwłocznie kwestionariusz organowi zarządzającemu w sposób wskazany w zarządzeniu.
-2. Organ zarządzający może zwrócić się o uzupełnienie informacji o osobie oskarżonego oraz określić sposób i termin § 12. 1. Za zebranie informacji specjaliście przysługuje ryczałt w wysokości 6% kwoty bazowej ustalonej dla sądowych kuratorów zawodowych.
+2. Organ zarządzający może zwrócić się o uzupełnienie informacji o osobie oskarżonego oraz określić sposób i termin uzupełnienia.
+§ 12. 1. Za zebranie informacji specjaliście przysługuje ryczałt w wysokości 6% kwoty bazowej ustalonej dla sądowych kuratorów zawodowych.
 2. Ryczałt przyznaje i wypłaca organ zarządzający, w terminie 30 dni od przekazania informacji przez specjalistę.
 § 13. 1. W przypadku gdy organ zarządzający zawiadomi Biuro o niewykonaniu albo nieterminowym lub nierzetelnym wykonaniu przez specjalistę zarządzenia, Dyrektor Biura informuje go o treści zawiadomienia.
 2. Jeżeli ponownie skierowano zawiadomienie, o którym mowa w ust. 1, dotyczące specjalisty, Dyrektor Biura może wykreślić specjalistę z ewidencji. Od decyzji specjaliście przysługuje odwołanie do ministra właściwego do spraw zdrowia.
@@ -91,7 +92,9 @@ Załączniki:
 2. ……………………………………………………………………………………………..
 ……………………………………………………………………………………………...
 ……………………………………….. ………………………………………..
-Kwestionariusz zebrania informacji przez SPECJALISTĘ TERAPII UZALEŻNIEŃ I . ZAPIS WYWIADU ZE SPECJALISTĄ TERAPII UZALEŻNIEŃ(STU).
+
+## Załącznik nr 2 — Wzór Wzór Kwestionariusz zebrania informacji przez SPECJALISTĘ TERAPII UZALEŻNIEŃ I . ZAPIS WYWIADU ZE SPECJALISTĄ TERAPII UZALEŻNIEŃ(STU).
+
 Przed przystąpieniem do rozmowy należy poinformować badanego o celu wywiadu, a także o przekazaniu uzyskanych informacji do akt prowadzonego postępowania i do wiadomości instytucji mającej prowadzić terapię.
 Warunkiem przystąpienia do wywiadu jest zgłoszenie przez badanego chęci uczestniczenia w wywiadzie.
 Dane zawarte w formularzu zapisane według oświadczenia badanego.
@@ -100,7 +103,7 @@ tak nie Badany wyraża chęć podjęcia leczenia, rehabilitacji lub udziału w p
 tak nie I. Dane osoby przeprowadzającej zebranie informacji.
 imię, nazwisko .………………………………………………………………………………….
 miejsce pracy, adres, telefon w pracy ………………………………………………………………………………...… stanowisko, tytuł …………………………………………………………………………………..
-Wzór II. Dane o zebraniu informacji.
+II. Dane o zebraniu informacji.
 miejsce przeprowadzenia badania ……………………………………………………………………………… data badania ……………………………………………………………………………… sygnatura akt ws. badania ……………………………………………………………………………… instytucja/osoba kierująca na badanie ……………………………………………………………………………….
 artykuł ……………………………………………………………………………….
 III. Podstawowe informacje interwencyjne.
@@ -134,8 +137,8 @@ Notatka Czy był pan/pani tak nie leczony/a psychiatrycznie ?
 Jeśli tak, to o jakim stopniu lekkim umiarkowanym znacznym Czy jest pan/pani tak nie Czy chorujepan/pani przewlekle ? tak nie ubezpieczony/a ? Czy przyjmuje pan/pani tak nie lekina choroby przewlekłe ?
 Jeśli tak, proszę podać jakie (w przypadku kobiety) tak nie Czy jest pani w ciąży ?
 6. Historia używania środków odurzających, substancji psychotropowych lub środków zastępczych.
-Krótki opis stanu badanego –obserwacja STU: czy są widoczne zewnętrzne objawy używania środków odurzających, substancji psychotropowych lub środków zastępczych (wyniszczenie, wychudzenie, czy jest pod wpływem środka lubsubstancji,zachowanie, sposób mówienia, specyficzny język, ślady nakłućiinne podobne szczegóły) Czy kiedykolwiek używał/a pan/pani tak nie środków odurzających, substancji psychotropowych lub środków zastępczych(nawet jednokrotne użycie) ?
-Czy kiedykolwiek używał/a tak nie pan/pani środków odurzających, substancji psychotropowych lub środków zastępczychdożylnie ?
+Krótki opis stanu badanego –obserwacja STU: czy są widoczne zewnętrzne objawy używania środków odurzających, substancji psychotropowych lub środków zastępczych (wyniszczenie, wychudzenie, czy jest pod wpływem środka lubsubstancji,zachowanie, sposób mówienia, specyficzny język, ślady nakłućiinne podobne szczegóły) Czy kiedykolwiek używał/a pan/pani tak nie Czy kiedykolwiek używał/a tak nie środków odurzających, substancji psychotropowych pan/pani środków odurzających, substancji lub środków zastępczych(nawet jednokrotne psychotropowych lub środków zastępczychdożylnie ?
+użycie) ?
 W jakim wieku miał/a pan/pani pierwszy kontakt Czy kiedykolwiek korzystał/a tak nie ze środkami odurzającymi, substancjami pan/pani ze wspólnego sprzętu iniekcyjnego?
 psychotropowymi lub środkami zastępczymi ?
 Czy używał/a pan/pani wspólnego tak nie sprzętu iniekcyjnego w ciągu ostatnich 3 miesięcy ?
@@ -155,7 +158,6 @@ II.WNIOSKI.
 8. Zarys ewentualnego planu leczenia.
 9. Zalecane procedury.
 Szczegóły/dodatkowe informacje/kontakty/adresy Konsultacja w poradni Konsultacja psychiatryczna Detoksykacja Stały kontakt z terapeutą/ kontrola abstynencji Medyczne wsparcie terapii Terapia indywidualna Terapia grupowa
+Oddział dzienny Ośrodek stacjonarny Grupy AN Grupy zapobiegania nawrotom Leczenie substytucyjne Zapewnienie noclegu Badania w kierunku HIV/HCV Konsultacja internistyczna Udział w programie edukacyjno-profilaktycznym Inne (wymienić)
 10. Wydano skierowanie do ……………………………………………...……………………… ……………………………………………………………………………………………………… (nazwa, adres placówki, godzina, data, imię i nazwisko, telefon osoby do kontaktu) Data, podpis i pieczęć specjalisty
-
-##### Oddział dzienny Ośrodek stacjonarny Grupy AN Grupy zapobiegania nawrotom Leczenie substytucyjne Zapewnienie noclegu Badania w kierunku HIV/HCV Konsultacja internistyczna Udział w programie edukacyjno-profilaktycznym Inne (wymienić)
 

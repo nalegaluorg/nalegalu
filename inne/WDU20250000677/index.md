@@ -125,7 +125,15 @@ Art. 21–23. (pominięte)
 
 **Art. 9b.** Zgłoszenia uwag dokonuje się z wykorzystaniem usługi elektronicznej udostępnionej przez ministra właściwego do spraw informatyzacji na podstawie porozumienia, o którym mowa art. 19c ust. 1 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717), po uwierzytelnieniu osoby zgłaszającej uwagi sposób określony art. 20a ust. 1 tej ustawy. konsultacji społecznych, zgłoszone uwagi udostępnia się trybie określonym regulaminie Sejmu, z tym że dane obejmujące:
 
+- **1)** imię (imiona) oraz nazwisko osoby zgłaszającej uwagi,
+- **2)** imię (imiona) oraz nazwisko albo nazwę i siedzibę – przypadku zgłoszenia uwag na rzecz innego podmiotu – udostępnia się do zakończenia kadencji Sejmu, której odbywają się prace nad projektem ustawy.
+
+2. Nie udostępnia się uwag, które zawierają treści niezgodne z prawem, szczególności treści naruszające dobra osobiste, tajemnice prawnie chronione lub przepisy karne.
+
 **Art. 9d.** Kancelaria Sejmu, celu przeprowadzenia konsultacji społecznych oraz do celów statystycznych, przetwarza dane obejmujące:
+
+- **1)** imię (imiona), nazwisko oraz numer PESEL osoby zgłaszającej uwagi;
+- **2)** imię (imiona) i nazwisko albo nazwę i siedzibę podmiotu, na rzecz którego są zgłaszane uwagi.
 
 #### Rozdział 3 Rejestr podmiotów wykonujących zawodową działalność lobbingową oraz zasady wykonywania zawodowej działalności lobbingowej
 

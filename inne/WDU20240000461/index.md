@@ -8,10 +8,10 @@ pos: 461
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 marca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 446611 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 25 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/461/text.pdf) |
 
-446611 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 25 marca 2024 r.
-w sprawie opiniowania służbowego żołnierzy Na podstawie art. 127 ust. 18 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie opiniowania służbowego żołnierzy Na podstawie art. 127 ust. 18 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób i tryb opiniowania żołnierzy w czasie pełnienia czynnej służby wojskowej, z wyłączeniem służby pełnionej w razie mobilizacji i w czasie wojny;
 2) terminy opiniowania służbowego;
 3) sposób i tryb wnoszenia odwołania od opinii służbowej;
@@ -36,8 +36,8 @@ w sprawie opiniowania służbowego żołnierzy Na podstawie art. 127 ust. 18 ust
 § 3. 1. Opiniowanie służbowe żołnierzy zawodowych przeprowadza się w okresie od dnia 15 sierpnia do dnia 15 października.
 2. Opiniowaniem służbowym obejmuje się żołnierzy zawodowych, którzy od dnia sporządzenia ostatniej opinii służbowej lub powołania do pełnienia zawodowej służby wojskowej do dnia 15 sierpnia danego roku przez okres co najmniej 6 miesięcy pełnili zawodową służbę wojskową i nie zaprzestali jej pełnienia w przypadkach, o których mowa w:
 1) art. 228 ust. 1 pkt 11,
-2) art. 284 ust. 1 lub art. 286 w przypadku nieobecności przekraczającej okres 6 miesięcy ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”.
-3. Opiniowaniem służbowym obejmuje się również żołnierzy zawodowych skierowanych do pełnienia służby poza granicami państwa za okres pełnienia tej służby. Opinię tę uwzględnia się przy opiniowaniu służbowym, o którym mowa w art. 127 ust. 2 pkt 1 ustawy.
+2) art. 284 ust. 1 lub art. 286 – w przypadku nieobecności przekraczającej okres 6 miesięcy – ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”.
+3. Opiniowaniem służbowym obejmuje się również żołnierzy zawodowych skierowanych do pełnienia służby poza granicami państwa – za okres pełnienia tej służby. Opinię tę uwzględnia się przy opiniowaniu służbowym, o którym mowa w art. 127 ust. 2 pkt 1 ustawy.
 4. Opinię służbową żołnierza zawodowego wyznaczonego na stanowisko służbowe poza granicami państwa albo w międzynarodowej strukturze wojskowej dyslokowanej na terytorium Rzeczypospolitej Polskiej sporządza się na arkuszu i w terminie obowiązujących w tej strukturze.
 5. Opinię służbową sporządza osobiście bezpośredni przełożony żołnierza zawodowego.
 6. Jeżeli od sporządzenia ostatniej opinii służbowej żołnierz podlegał kilku przełożonym, właściwy do sporządzenia opinii służbowej jest ten przełożony, któremu żołnierz podlega w dniu rozpoczęcia opiniowania.
@@ -46,10 +46,10 @@ w sprawie opiniowania służbowego żołnierzy Na podstawie art. 127 ust. 18 ust
 1) wywiązywanie się opiniowanego z obowiązków służbowych na stanowisku służbowym lub z zadań służbowych w przypadku opiniowanego pełniącego służbę w dyspozycji, w tym w oddelegowaniu, według następujących kryteriów:
 a) wyszkolenie bojowe,
 b) jakość i terminowość wykonywania obowiązków służbowych lub zadań służbowych,
-c) dyspozycyjność, z uwzględnieniem danych mających charakter informacyjny dotyczących liczby dni nieobecności: nieusprawiedliwionych, z tytułu tymczasowego aresztowania, z tytułu zastosowania dyscyplinarnych środków zapobiegawczych, z tytułu przebywania na zwolnieniach lekarskich, z wyjątkiem przebywania na zwolnieniach lekarskich, za które żołnierz zachowuje prawo do 100 % uposażenia,
+c) dyspozycyjność, z uwzględnieniem danych mających charakter informacyjny dotyczących liczby dni nieobecności: – nieusprawiedliwionych, – z tytułu tymczasowego aresztowania, – z tytułu zastosowania dyscyplinarnych środków zapobiegawczych, – z tytułu przebywania na zwolnieniach lekarskich, z wyjątkiem przebywania na zwolnieniach lekarskich, za które żołnierz zachowuje prawo do 100 % uposażenia,
 d) samodzielność i inicjatywa,
 e) sprawność fizyczna;
-2) kompetencje i predyspozycje opiniowanego według następujących kryteriów:
+2) kompetencje i predyspozycje opiniowanego – według następujących kryteriów:
 a) odpowiedzialność,
 b) trafność i szybkość podejmowania decyzji,
 c) odporność na stres i trudy służby,
@@ -63,27 +63,28 @@ i) kultura osobista i dbałość o wygląd zewnętrzny;
 2. W przypadku żołnierzy zawodowych w ocenie sprawności fizycznej, o której mowa w ust. 1 pkt 1 lit. e, bierze się również pod uwagę ocenę ze sprawdzianu sprawności fizycznej, pod warunkiem że nie zachodzą przesłanki określone w art. 332 ust. 5 i 6 ustawy.
 3. W ramach opiniowania służbowego żołnierzy zawodowych opiniujący uwzględnia także kryteria dodatkowe, obejmujące zaangażowanie żołnierza zawodowego w realizację czasowego pełnienia dodatkowych obowiązków służbowych lub nieetatowych funkcji, szkoleń poligonowych i ćwiczeń wojskowych oraz inicjatyw społecznych promujących postawę patriotyczną i proobronną.
 § 5. 1. Ocenę według kryteriów wywiązywania się opiniowanego z obowiązków służbowych lub z zadań służbowych, o których mowa w § 4 ust. 1 pkt 1, wyraża się punktowo:
-1) opiniowany przewyższa wymagania 12 punktów;
-2) opiniowany spełnia wymagania 10 punktów;
-3) opiniowany spełnia wymagania w ograniczonym zakresie 5 punktów;
-4) opiniowany nie spełnia wymagań 0 punktów.
-2. Ocena wywiązywania się opiniowanego z obowiązków służbowych lub z zadań służbowych stanowi sumę punktów § 6. 1. Ocenę według poszczególnych kryteriów kompetencji i predyspozycji opiniowanego, o których mowa w § 4 ust. 1 pkt 2, wyraża się punktowo:
-1) opiniowany przewyższa wymagania 4 punkty;
-2) opiniowany spełnia wymagania 3 punkty;
-3) opiniowany spełnia wymagania w ograniczonym zakresie 2 punkty;
-4) opiniowany nie spełnia wymagań 0 punktów.
+1) opiniowany przewyższa wymagania – 12 punktów;
+2) opiniowany spełnia wymagania – 10 punktów;
+3) opiniowany spełnia wymagania w ograniczonym zakresie – 5 punktów;
+4) opiniowany nie spełnia wymagań – 0 punktów.
+2. Ocena wywiązywania się opiniowanego z obowiązków służbowych lub z zadań służbowych stanowi sumę punktów uzyskanych przez niego według poszczególnych kryteriów.
+§ 6. 1. Ocenę według poszczególnych kryteriów kompetencji i predyspozycji opiniowanego, o których mowa w § 4 ust. 1 pkt 2, wyraża się punktowo:
+1) opiniowany przewyższa wymagania – 4 punkty;
+2) opiniowany spełnia wymagania – 3 punkty;
+3) opiniowany spełnia wymagania w ograniczonym zakresie – 2 punkty;
+4) opiniowany nie spełnia wymagań – 0 punktów.
 2. Ocenę według kryteriów, o których mowa w § 4 ust. 3, wyraża się opisowo oraz punktowo w skali od 0 do 4 punktów.
 3. Ocena kompetencji i predyspozycji opiniowanego stanowi sumę punktów uzyskanych przez niego według poszczególnych kryteriów kompetencji i predyspozycji, o których mowa w § 4 ust. 1 pkt 2, oraz punktów uzyskanych według kryteriów dodatkowych, o których mowa w § 4 ust. 3.
 § 7. 1. Ogólną ocenę opiniowanego wystawia się na podstawie sumy punktów, o których mowa w § 5 ust. 2 i § 6 ust. 3, według następującej skali:
-1) wzorowa (6) jeżeli uzyskał powyżej 92 punktów;
-2) bardzo dobra (5) jeżeli uzyskał od 77 do 92 punktów;
-3) dobra (4) jeżeli uzyskał od 60 do 76 punktów;
-4) dostateczna (3) jeżeli uzyskał od 38 do 59 punktów;
-5) niedostateczna (2) jeżeli uzyskał poniżej 38 punktów.
-2. W przypadku pozyskania i potwierdzenia przez opiniującego faktów świadczących o postawie i zachowaniu poza godzinami służby opiniowanego nielicujących z godnością i postawą żołnierza ocena ogólna tego opiniowanego stosownie do charakteru zachowania zostaje odpowiednio obniżona i wymaga pisemnego uzasadnienia.
-3. Opiniujący może w formie opisowej uzasadnić wystawioną ogólną ocenę zawartą w opinii służbowej w odniesieniu do ocen od dostatecznej (3) do wzorowej (6).
+1) wzorowa (6) – jeżeli uzyskał powyżej 92 punktów;
+2) bardzo dobra (5) – jeżeli uzyskał od 77 do 92 punktów;
+3) dobra (4) – jeżeli uzyskał od 60 do 76 punktów;
+4) dostateczna (3) – jeżeli uzyskał od 38 do 59 punktów;
+5) niedostateczna (2) – jeżeli uzyskał poniżej 38 punktów.
+2. W przypadku pozyskania i potwierdzenia przez opiniującego faktów świadczących o postawie i zachowaniu poza godzinami służby opiniowanego nielicujących z godnością i postawą żołnierza ocena ogólna tego opiniowanego – stosownie do charakteru zachowania – zostaje odpowiednio obniżona i wymaga pisemnego uzasadnienia.
+3. Opiniujący może w formie opisowej uzasadnić wystawioną ogólną ocenę zawartą w opinii służbowej – w odniesieniu do ocen od dostatecznej (3) do wzorowej (6).
 4. W przypadku wystawienia oceny niedostatecznej (2) forma opisowa jest obowiązkowa.
-§ 8. 1. Opinię służbową żołnierza zasadniczej służby wojskowej sporządza się w przypadku jego zwolnienia z tej służby, a także w przypadku złożenia przez niego wniosku o powołanie do zawodowej służby wojskowej oraz w czasie jej pełnienia na wniosek:
+§ 8. 1. Opinię służbową żołnierza zasadniczej służby wojskowej sporządza się w przypadku jego zwolnienia z tej służby, a także w przypadku złożenia przez niego wniosku o powołanie do zawodowej służby wojskowej oraz w czasie jej pełnienia – na wniosek:
 1) dowódcy jednostki wojskowej, w której żołnierz będzie pełnił czynną służbę wojskową;
 2) szefa wojskowego centrum rekrutacji;
 3) żołnierza.
@@ -98,21 +99,21 @@ i) kultura osobista i dbałość o wygląd zewnętrzny;
 3. W przypadku, o którym mowa w ust. 2, przełożony przy sporządzaniu opinii służbowej może zasięgnąć opinii bezpośredniego przełożonego opiniowanego żołnierza.
 § 12. 1. Po przeprowadzeniu opiniowania służbowego żołnierzy opiniujący podpisuje oryginał opinii służbowej i wpisuje datę jej sporządzenia.
 2. Przełożony zapoznaje żołnierza z opinią służbową podczas rozmowy oraz doręcza za pokwitowaniem potwierdzoną kopię opinii służbowej żołnierza, którego ona dotyczy, w terminie 14 dni od dnia jej sporządzenia, z wyłączeniem żołnierzy pełniących służbę w pasywnej rezerwie, których zapoznaje w ostatnim dniu odbywania ćwiczeń. Podczas rozmowy przełożony poucza opiniowanego o przysługującym mu prawie wniesienia odwołania od opinii. Fakt ten potwierdza w arkuszu opinii służbowej.
-3. W przypadku odmowy przyjęcia opinii służbowej przez opiniowanego, o którym mowa w ust. 2, uznaje się na równi z doręczeniem tej opinii zapoznanie opiniowanego z treścią opinii przez jej odczytanie. Przełożony poucza opiniowanego o przysługującym mu prawie do wniesienia odwołania od opinii i dokonuje adnotacji dotyczącej tego faktu w arkuszu opinii służbowej.
+3. W przypadku odmowy przyjęcia opinii służbowej przez opiniowanego, o którym mowa w ust. 2, uznaje się – na równi z doręczeniem tej opinii – zapoznanie opiniowanego z treścią opinii przez jej odczytanie. Przełożony poucza opiniowanego o przysługującym mu prawie do wniesienia odwołania od opinii i dokonuje adnotacji dotyczącej tego faktu w arkuszu opinii służbowej.
 4. W przypadku braku możliwości zapoznania opiniowanego żołnierza z opinią służbową w sposób określony w ust. 2 przełożony zapoznaje żołnierza z tą opinią w inny możliwy sposób, w szczególności:
 1) przesyła mu tę opinię za zwrotnym potwierdzeniem odbioru na jego adres zamieszkania;
-2) doręcza mu tę opinię do rąk własnych osobiście lub przez osobę upoważnioną przez dowódcę jednostki wojskowej.
+2) doręcza mu tę opinię do rąk własnych – osobiście lub przez osobę upoważnioną przez dowódcę jednostki wojskowej.
 5. W przypadku doręczenia opinii w sposób, o którym mowa w ust. 4, opiniujący potwierdza ten fakt stosowną notatką służbową.
 6. Przełożony, który sporządził opinię służbową o żołnierzu skierowanym lub wyznaczonym do pełnienia służby poza granicami państwa, może zapoznać z nią opiniowanego za pomocą środków komunikacji elektronicznej.
 7. W przypadku, o którym mowa w ust. 6, opiniowany potwierdza otrzymanie opinii służbowej oraz przedstawia swoje ewentualne uwagi dotyczące treści opinii służbowej również za pomocą środków komunikacji elektronicznej.
 § 13. 1. Odwołanie od opinii służbowej opiniowany wnosi na piśmie za pośrednictwem opiniującego do wyższego przełożonego w terminie 14 dni od dnia jej doręczenia. Odwołanie wniesione po terminie nie podlega rozpatrzeniu.
-2. Opiniujący w terminie 7 dni od dnia otrzymania odwołania przesyła opinię służbową wraz z odwołaniem i swoim stanowiskiem w sprawie do wyższego przełożonego.
+2. Opiniujący w terminie 7 dni od dnia otrzymania odwołania przesyła opinię służbową – wraz z odwołaniem i swoim stanowiskiem w sprawie – do wyższego przełożonego.
 3. Wyższy przełożony w przypadku:
-1) utrzymania w mocy opinii służbowej dokonuje w arkuszu adnotacji o sposobie rozpatrzenia odwołania, a następnie potwierdza ją własnoręcznym podpisem oraz opatruje datą;
-2) zmiany lub uzupełnienia opinii służbowej dokonuje w arkuszu zmian lub uzupełnień pismem odręcznym w kolorze czerwonym, co potwierdza własnoręcznym podpisem oraz opatruje datą, a następnie dokonuje adnotacji o sposobie rozpatrzenia odwołania;
-3) uchylenia i wydania nowej opinii służbowej przekreśla pierwszą stronę arkusza kolorem czerwonym oraz dokonuje adnotacji o sposobie rozpatrzenia odwołania, co potwierdza własnoręcznym podpisem oraz opatruje datą, a następnie wydaje nową opinię służbową;
+1) utrzymania w mocy opinii służbowej – dokonuje w arkuszu adnotacji o sposobie rozpatrzenia odwołania, a następnie potwierdza ją własnoręcznym podpisem oraz opatruje datą;
+2) zmiany lub uzupełnienia opinii służbowej – dokonuje w arkuszu zmian lub uzupełnień pismem odręcznym w kolorze czerwonym, co potwierdza własnoręcznym podpisem oraz opatruje datą, a następnie dokonuje adnotacji o sposobie rozpatrzenia odwołania;
+3) uchylenia i wydania nowej opinii służbowej – przekreśla pierwszą stronę arkusza kolorem czerwonym oraz dokonuje adnotacji o sposobie rozpatrzenia odwołania, co potwierdza własnoręcznym podpisem oraz opatruje datą, a następnie wydaje nową opinię służbową;
 4) uchylenia opinii służbowej, jeżeli brak było podstaw prawnych do jej sporządzenia, przekreśla pierwszą stronę arkusza kolorem czerwonym oraz dokonuje adnotacji o sposobie rozpatrzenia odwołania, co potwierdza własnoręcznym podpisem oraz opatruje datą.
-4. Wyższy przełożony w terminie 30 dni od dnia otrzymania odwołania informuje opiniowanego oraz opiniującego o sposobie rozpatrzenia odwołania i doręcza opiniowanemu za pokwitowaniem potwierdzoną za zgodność z oryginałem kopię ostatecznej opinii służbowej.
+4. Wyższy przełożony w terminie 30 dni od dnia otrzymania odwołania informuje opiniowanego oraz opiniującego o sposobie rozpatrzenia odwołania i doręcza opiniowanemu – za pokwitowaniem – potwierdzoną za zgodność z oryginałem kopię ostatecznej opinii służbowej.
 5. W przypadku wydania nowej opinii służbowej na podstawie ust. 3 pkt 3 przepisy § 3 ust. 2 i 3 oraz § 4–7 i § 12 stosuje się odpowiednio.
 6. W przypadku żołnierzy wyznaczonych na stanowiska w Służbie Wywiadu Wojskowego lub w Służbie Kontrwywiadu Wojskowego, dla których na potrzeby sporządzenia opinii służbowej bezpośrednim przełożonym jest Szef Służby Wywiadu Wojskowego lub Szef Służby Kontrwywiadu Wojskowego, opiniowany może złożyć wniosek o ponowne rozpoznanie sprawy.
 Przepisy ust. 3 stosuje się odpowiednio.
@@ -125,11 +126,11 @@ Przepisy ust. 3 stosuje się odpowiednio.
 1) opiniującego;
 2) wyższego przełożonego, jeżeli rozpatrzył odwołanie od weryfikowanej opinii służbowej w trybie § 13.
 7. Podczas weryfikowania ostatecznej opinii służbowej przepisy § 13 ust. 3 stosuje się odpowiednio.
-8. Dowódca jednostki wojskowej informuje opiniowanego oraz opiniującego o sposobie zweryfikowania opinii służbowej i doręcza opiniowanemu za pokwitowaniem potwierdzoną za zgodność z oryginałem kopię zweryfikowanej opinii służbowej.
+8. Dowódca jednostki wojskowej informuje opiniowanego oraz opiniującego o sposobie zweryfikowania opinii służbowej i doręcza opiniowanemu – za pokwitowaniem – potwierdzoną za zgodność z oryginałem kopię zweryfikowanej opinii służbowej.
 9. W przypadku wydania nowej opinii służbowej przepisy § 3 ust. 2 i 3 oraz § 4–7 i § 12 stosuje się odpowiednio.
 § 15. Dowódca jednostki wojskowej w ostatecznej albo zweryfikowanej opinii służbowej wyznacza kierunek rozwoju zawodowego opiniowanego żołnierza i określa jego potrzeby szkoleniowe.
 § 16. Do odwołań, o których mowa w art. 127 ust. 14 ustawy, przepisy § 13 stosuje się odpowiednio.
 § 17. Arkusze ostatecznych opinii służbowych włącza się do teczki akt personalnych opiniowanego.
 § 18. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Obrony Narodowej: z up. P. Bejda WZÓR OPINIA SŁUŻBOWA WZÓR ŻOŁNIERZA OPINIA SŁUŻBOWA ŻOŁNIERZA WZÓR ODWOŁANIE OD OPINII SŁUŻBOWEJ ŻOŁNIERZA
+Minister Obrony Narodowej: z up. P. Bejda WZÓR OPINIA SŁUŻBOWA WZÓR WZÓR ŻOŁNIERZA OPINIA SŁUŻBOWA ŻOŁNIERZA ODWOŁANIE OD OPINII SŁUŻBOWEJ ŻOŁNIERZA
 

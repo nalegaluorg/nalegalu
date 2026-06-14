@@ -8,7 +8,7 @@ pos: 718
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
@@ -23,7 +23,7 @@ source: "isap-pdf"
 | Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 2000-07-20 |
-| Ostatnia zmiana | 2026-05-15 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000620718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/718/text.pdf) |
 
 **Art. 1.**
@@ -87,13 +87,13 @@ source: "isap-pdf"
 - **1)** stanu wojny i zawarcia pokoju;
 - **2)** referendum ogólnokrajowego, w tym referendum zatwierdzającego zmianę Konstytucji;
 - **2a)** skrócenia kadencji Sejmu;
-- **3)** wyborów do i Senatu;
+- **3)** wyborów do Sejmu i Senatu;
 - **4)** wyborów Prezydenta Rzeczypospolitej Polskiej;
 - **5)** powszechnej lub częściowej mobilizacji i użycia Sił Zbrojnych do obrony Rzeczypospolitej Polskiej;
 - **6)** stanu wojennego;
 - **7)** stanu wyjątkowego;
 - **8)** stanu klęski żywiołowej;
-- **9)** ważności wyboru Prezydenta Rzeczypospolitej Polskiej, wyborów do i Senatu, wyborów do Parlamentu Europejskiego oraz ważności referendum ogólnokrajowego, w tym referendum zatwierdzającego zmianę Konstytucji.
+- **9)** ważności wyboru Prezydenta Rzeczypospolitej Polskiej, wyborów do Sejmu i Senatu, wyborów do Parlamentu Europejskiego oraz ważności referendum ogólnokrajowego, w tym referendum zatwierdzającego zmianę Konstytucji.
 
 3. W Dzienniku Ustaw ogłasza się ponadto inne akty prawne, jeżeli odrębne ustawy tak stanowią.
 
@@ -113,7 +113,7 @@ source: "isap-pdf"
     - **b)** uznania trwałej niezdolności Prezydenta Rzeczypospolitej Polskiej do sprawowania urzędu ze względu na stan zdrowia,
     - **c)** postawienia Prezydenta Rzeczypospolitej Polskiej w stan oskarżenia przed Trybunałem Stanu;
 
-- **2)** uchwały dotyczące:
+- **2)** uchwały Sejmu dotyczące:
     - **a)** regulaminu Sejmu,
     - **b)** (uchylona)
     - **c)** uchwalenia wotum zaufania Radzie Ministrów oraz absolutorium dla Rady Ministrów,
@@ -127,7 +127,7 @@ source: "isap-pdf"
     - **b)** wyboru, powoływania, odwoływania, a także wyrażenia zgody na powoływanie lub odwoływanie przez Sejm na określone w Konstytucji lub ustawach stanowiska państwowe;
 
 - **4)** akty urzędowe Prezydenta Rzeczypospolitej Polskiej dotyczące:
-    - **a)** zwoływania pierwszego posiedzenia nowo wybranych i Senatu,
+    - **a)** zwoływania pierwszego posiedzenia nowo wybranych Sejmu i Senatu,
     - **b)** (uchylona)
     - **c)** zrzeczenia się urzędu Prezydenta Rzeczypospolitej Polskiej,
     - **d)** desygnowania i powoływania Prezesa Rady Ministrów oraz Rady Ministrów,
@@ -141,10 +141,10 @@ source: "isap-pdf"
     - **l)** nadawania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej;
     - **m)** (uchylona)
 
-- **5)** postanowienia Trybunału Konstytucyjnego o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzeniu Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej;
+- **5)** postanowienia Trybunału Konstytucyjnego o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzeniu Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej;
 - **6)** postanowienia Trybunału Konstytucyjnego w sprawach sporów kompetencyjnych pomiędzy centralnymi konstytucyjnymi organami państwa.
 
-3. W Monitorze Polskim ogłasza się uchwały i Senatu oraz Zgromadzenia Narodowego inne niż wymienione w ust. 2, wyroki Trybunału Stanu, a także postanowienia Marszałka Sejmu, jeżeli ich ogłoszenie w Monitorze Polskim jest przewidziane w tych uchwałach lub postanowieniach albo jeżeli odrębne ustawy tak stanowią.
+3. W Monitorze Polskim ogłasza się uchwały Sejmu i Senatu oraz Zgromadzenia Narodowego inne niż wymienione w ust. 2, wyroki Trybunału Stanu, a także postanowienia Marszałka Sejmu, jeżeli ich ogłoszenie w Monitorze Polskim jest przewidziane w tych uchwałach lub postanowieniach albo jeżeli odrębne ustawy tak stanowią.
 
 4. W Monitorze Polskim ogłasza się również inne akty prawne, a także ogłoszenia, obwieszczenia i komunikaty organów, instytucji i osób, jeżeli odrębne ustawy tak stanowią.
 
@@ -180,6 +180,22 @@ source: "isap-pdf"
 
 **Art. 13.** W wojewódzkim dzienniku urzędowym ogłasza się:
 
+- **1)** akty prawa miejscowego stanowione przez wojewodę i organy administracji niezespolonej;
+- **2)** akty prawa miejscowego stanowione przez sejmik województwa, organ powiatu oraz organ gminy, w tym statuty województwa, powiatu i gminy;
+- **3)** statuty związków międzygminnych, statuty związków powiatów oraz statuty związków powiatowo-gminnych;
+- **3a)** statuty związków metropolitalnych;
+- **4)** akty Prezesa Rady Ministrów uchylające akty prawa miejscowego stanowionego przez wojewodę i organy administracji niezespolonej;
+- **5)** wyroki sądu administracyjnego uwzględniające skargi na akty prawa miejscowego stanowionego przez: wojewodę i organy administracji niezespolonej, organ samorządu województwa, organ powiatu i organ gminy;
+- **6)** porozumienia w sprawie wykonywania zadań publicznych zawarte:
+    - **a)** między jednostkami samorządu terytorialnego,
+    - **b)** między jednostkami samorządu terytorialnego i organami administracji rządowej;
+
+- **7)** uchwały budżetowe gminy, powiatu i województwa oraz sprawozdanie z wykonania budżetu gminy, powiatu i województwa;
+- **8)** obwieszczenia o wygaśnięciu mandatu wójta (burmistrza, prezydenta miasta) oraz o rozwiązaniu sejmiku województwa, rady powiatu lub rady gminy;
+- **8a)** rozstrzygnięcia nadzorcze dotyczące aktów prawa miejscowego stanowionych przez jednostki samorządu terytorialnego;
+- **9)** statut urzędu wojewódzkiego;
+- **10)** inne akty prawne, informacje, komunikaty, obwieszczenia i ogłoszenia, jeżeli tak stanowią przepisy szczególne.
+
 **Art. 14.**
 
 1. Przepisy porządkowe ogłasza się w drodze obwieszczeń, a także w sposób zwyczajowo przyjęty na danym terenie lub w środkach masowego przekazu.
@@ -206,13 +222,13 @@ source: "isap-pdf"
 
 **Art. 16.**
 
-1. Marszałek ogłasza tekst jednolity ustawy nie rzadziej niż raz na 12 miesięcy, jeżeli była ona nowelizowana. Ustawa może określić termin ogłoszenia tekstu jednolitego.
+1. Marszałek Sejmu ogłasza tekst jednolity ustawy nie rzadziej niż raz na 12 miesięcy, jeżeli była ona nowelizowana. Ustawa może określić termin ogłoszenia tekstu jednolitego.
 
-2. Rządowe Centrum Legislacji oraz organy administracji rządowej współdziałają z Marszałkiem przy opracowywaniu tekstów jednolitych ustaw.
+2. Rządowe Centrum Legislacji oraz organy administracji rządowej współdziałają z Marszałkiem Sejmu przy opracowywaniu tekstów jednolitych ustaw.
 
 3. Teksty jednolite aktów normatywnych innych niż ustawa ogłasza organ właściwy do wydania aktu normatywnego, a w przypadku:
 
-- **1)** regulaminów i Senatu – odpowiednio Marszałek i Marszałek Senatu;
+- **1)** regulaminów Sejmu i Senatu – odpowiednio Marszałek Sejmu i Marszałek Senatu;
 - **2)** aktów normatywnych Rady Ministrów – Prezes Rady Ministrów;
 - **3)** aktów normatywnych Krajowej Rady Radiofonii i Telewizji – Przewodniczący Krajowej Rady Radiofonii i Telewizji. Tekst jednolity aktu normatywnego innego niż ustawa ogłasza się nie rzadziej niż raz na 12 miesięcy, jeżeli był on nowelizowany. Akt normatywny może określić termin ogłoszenia tekstu jednolitego.
 
@@ -260,7 +276,7 @@ source: "isap-pdf"
 
 3. Organ wydający Dziennik Ustaw i Monitor Polski przechowuje po jednym egzemplarzu każdego z tych dzienników również w formie ich wydruków, poświadczonych za zgodność z oryginałem przez ten organ.
 
-4. Organ wydający Dziennik Ustaw i Monitor Polski przekazuje po jednym egzemplarzu każdego z tych dzienników w formie wydruków, o których mowa w ust. 3, Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi oraz Bibliotece Narodowej w celu ich przechowywania.
+4. Organ wydający Dziennik Ustaw i Monitor Polski przekazuje po jednym egzemplarzu każdego z tych dzienników w formie wydruków, o których mowa w ust. 3, Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi Sejmu oraz Bibliotece Narodowej w celu ich przechowywania.
 
 5. Dzienniki w formie wydruków, o których mowa w ust. 3, oraz oryginały aktów, o których mowa w ust. 2, przechowuje się wieczyście.
 
@@ -375,9 +391,43 @@ source: "isap-pdf"
 
 **Art. 28c.** Prezes Rady Ministrów określi, w drodze rozporządzenia, wymagania techniczne:
 
+- **1)** dokumentów elektronicznych zawierających akty normatywne i inne akty prawne kierowane do ogłoszenia w dziennikach urzędowych,
+- **2)** dzienników urzędowych wydawanych w postaci elektronicznej,
+- **3)** środków komunikacji elektronicznej i informatycznych nośników danych używanych do udostępniania dzienników urzędowych oraz zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawartych w nich aktów normatywnych i innych aktów prawnych – uwzględniając odpowiednio konieczność zachowania jednolitości dokumentów elektronicznych kierowanych do ogłoszenia i możliwości ich przetwarzania na potrzeby wydawania dziennika urzędowego, a także konieczność zapewnienia powszechnej dostępności dzienników urzędowych oraz zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawartych w nich aktów normatywnych i innych aktów prawnych.
+
 **Art. 29.** Przepisy art. 8, art. 12, art. 16 ust. 3, art. 17 ust. 4, art. 22 ust. 1 i 2, art. 24 oraz art. 27, w zakresie odnoszącym się do ministrów kierujących działami administracji rządowej, stosuje się do przewodniczących określonych w ustawach komitetów, będących członkami Rady Ministrów.
 
 **Art. 29a.** Dziennik Urzędowy Unii Europejskiej wydawany przez Urząd Oficjalnych Publikacji Komisji Europejskiej, zawiera:
+
+- **1)** w serii L (legislacja):
+    - **a)** rozporządzenia,
+    - **b)** dyrektywy,
+    - **c)** decyzje,
+    - **d)** zalecenia,
+    - **e)** opinie;
+
+- **2)** w serii C (komunikaty albo informacje i zawiadomienia), w szczególności:
+    - **a)** streszczenia wyroków Trybunału Sprawiedliwości Unii Europejskiej,
+    - **b)** protokoły z posiedzeń Parlamentu Europejskiego,
+    - **c)** raporty Trybunału Obrachunkowego,
+    - **d)** pisemne zapytania poselskie oraz odpowiedzi na nie udzielane przez Radę lub Komisję,
+    - **e)** stanowiska Komitetu Ekonomiczno-Społecznego i Komitetu Regionów,
+    - **f)** ogłoszenia o naborze do pracy w instytucjach Unii Europejskiej,
+    - **g)** wezwania do okazania zainteresowania programami i projektami Unii Europejskiej,
+    - **h)** umowy publiczne dotyczące pomocy żywnościowej,
+    - **i)** spis treści Dziennika UE serii C E;
+
+- **3)** w serii S (suplement), w szczególności:
+    - **a)** umowy publiczne dotyczące pracy, dostaw i usług ze wszystkich państw członkowskich Unii Europejskiej,
+    - **b)** umowy użyteczności publicznej,
+    - **c)** umowy publiczne dotyczące instytucji Unii Europejskiej,
+    - **d)** umowy Europejskiego Funduszu Rozwoju (kraje ACP),
+    - **e)** umowy Phare, Tacis z państwami środkowej i wschodniej Europy,
+    - **f)** projekty finansowane przez Europejski Bank Inwestycyjny, Europejski Bank Centralny i Europejski Bank Odbudowy i Rozwoju,
+    - **g)** umowy dotyczące Europejskiego Obszaru Gospodarczego (Norwegia, Islandia i Liechtenstein),
+    - **h)** umowy zawarte zgodnie z porozumieniem dotyczącym zamówień publicznych (GPA) w ramach GATT/Światowej Organizacji Handlu (WTO) ze Szwajcarią,
+    - **i)** zawiadomienia dotyczące europejskiej ekonomicznej grupy interesów (EEIGs),
+    - **j)** umowy publiczne dotyczące usług lotniczych.
 
 **Art. 29b.**
 

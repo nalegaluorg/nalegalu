@@ -39,6 +39,8 @@ saos_id|date|court|case_number|type|score|saos_url
 84089|2006-02-06|SN|III PZ 2/06|Postanowienie|69|https://www.saos.org.pl/judgments/84089
 83861|2005-11-16|SN|III SW 120/05|Postanowienie|69|https://www.saos.org.pl/judgments/83861
 80888|2001-10-03|SN|V KKN 249/01|Postanowienie|69|https://www.saos.org.pl/judgments/80888
+545018|2025-09-22|SO|II AKa 154/24|Wyrok|56|https://www.saos.org.pl/judgments/545018
+545278|2025-06-12|SO|II AKa 55/25|Wyrok|56|https://www.saos.org.pl/judgments/545278
 537373|2025-05-27|SO|II AKa 124/25|Wyrok|56|https://www.saos.org.pl/judgments/537373
 531101|2025-05-27|SO|II AKa 256/24|Wyrok|56|https://www.saos.org.pl/judgments/531101
 525440|2025-03-26|SO|II AKa 124/22|Wyrok|56|https://www.saos.org.pl/judgments/525440
@@ -963,6 +965,7 @@ saos_id|date|court|case_number|type|score|saos_url
 540931|2025-04-25|SO|II K 91/23|Wyrok|40|https://www.saos.org.pl/judgments/540931
 527189|2025-04-09|SO|II K 1378/23|Wyrok|40|https://www.saos.org.pl/judgments/527189
 540080|2025-03-19|SO|II K 152/23|Wyrok|40|https://www.saos.org.pl/judgments/540080
+545041|2025-03-18|SO|II K 21/24|Wyrok|40|https://www.saos.org.pl/judgments/545041
 511235|2024-10-09|SO|VI Ka 651/24|Wyrok|40|https://www.saos.org.pl/judgments/511235
 524320|2024-08-22|SO|II K 66/24|Wyrok|40|https://www.saos.org.pl/judgments/524320
 512147|2024-08-02|SO|VII U 491/20|Wyrok|40|https://www.saos.org.pl/judgments/512147
@@ -1272,6 +1275,7 @@ saos_id|date|court|case_number|type|score|saos_url
 487419|2023-02-23|SO|VI Ka 1001/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/487419
 483269|2023-02-15|SO|VIII U 4673/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/483269
 483252|2023-02-13|SO|VIII U 2738/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/483252
+547016|2023-01-26|SO|III K 47/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/547016
 526142|2022-10-25|SO|IV Ka 1071/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/526142
 475664|2022-10-10|SO|VIII Pa 170/21|Zarządzenie|27|https://www.saos.org.pl/judgments/475664
 474472|2022-06-17|SO|III K 23/22|Zarządzenie|27|https://www.saos.org.pl/judgments/474472

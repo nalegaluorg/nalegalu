@@ -8,7 +8,7 @@ pos: 141
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o mniejszościach narodowych i etnicznych oraz o języku regionalnym
@@ -72,6 +72,10 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** mniejszościach – rozumie się przez to mniejszości narodowe i etniczne, o których mowa w art. 2;
+- **2)** języku mniejszości – rozumie się przez to własny język mniejszości narodowej lub etnicznej, o których mowa w art. 2;
+- **3)** integracji społecznej – rozumie się przez to działania na rzecz poprawy ważnych aspektów życia społecznego osób należących do mniejszości, w szczególności warunków bytowych oraz dostępu do systemu oświaty, rynku pracy, systemu zabezpieczenia społecznego, a także opieki zdrowotnej.
+
 **Art. 4.**
 
 1. Każda osoba należąca do mniejszości ma prawo do swobodnej decyzji o traktowaniu jej jako osoby należącej bądź też nienależącej do mniejszości, a wybór taki lub korzystanie ze związanych z tym wyborem praw nie pociąga za sobą jakichkolwiek niekorzystnych skutków.
@@ -109,6 +113,11 @@ source: "isap-pdf"
 3. Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych określi, w drodze rozporządzenia, sposób transliteracji, o której mowa w ust. 2, uwzględniając zasady pisowni języka mniejszości.
 
 **Art. 8.** Osoby należące do mniejszości mają w szczególności prawo do:
+
+- **1)** swobodnego posługiwania się językiem mniejszości w życiu prywatnym i publicznie;
+- **2)** rozpowszechniania i wymiany informacji w języku mniejszości;
+- **3)** zamieszczania w języku mniejszości informacji o charakterze prywatnym;
+- **4)** nauki języka mniejszości lub w języku mniejszości.
 
 **Art. 9.**
 

@@ -8,7 +8,7 @@ pos: 2404
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o podatku akcyzowym
@@ -28,6 +28,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2404/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 12 grudnia 2017 r. o zmianie ustawy o podatku akcyzowym (Dz. U. z 2018 r. poz. 137) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 wyrazy „Do dnia 31 grudnia 2018 r.” zastępuje się wyrazami „Do dnia 30 czerwca 2020 r.”;
+- **2)** w art. 3 w ust. 1 wyrazy „po dniu 31 grudnia 2018 r.” zastępuje się wyrazami „po dniu 30 czerwca 2020 r.”.
 
 **Art. 2.**
 

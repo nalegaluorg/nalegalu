@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 16 września 1982 r. o pracownikach urzędów państwowych.*
 
 Łącznie: **141** orzeczeń
-(pominięto 112 orzeczeń sądów rejonowych)
+(pominięto 114 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 

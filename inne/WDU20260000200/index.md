@@ -8,12 +8,10 @@ pos: 200
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o kuratorach sądowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -94,7 +92,7 @@ Art. 92–97. (pominięte)
 - **3)** jest zdolny ze względu na stan zdrowia do pełnienia obowiązków kuratora zawodowego;
 - **4)** posiada tytuł zawodowy:
     - **a)** magistra uzyskany po ukończeniu studiów na kierunku psychologia lub prawo lub na kierunku związanym z kształceniem w zakresie psychologii, pedagogiki, socjologii lub prawa lub
-    - **b)** magistra, magistra inżyniera albo równorzędny uzyskany po ukończeniu studiów na innym kierunku i ukończył studia podyplomowe w zakresie psychologii, pedagogiki, socjologii lub prawa;
+    - **b)** magistra, magistra inżyniera albo równorzędny – uzyskany po ukończeniu studiów na innym kierunku i ukończył studia podyplomowe w zakresie psychologii, pedagogiki, socjologii lub prawa;
 
 - **5)** odbył aplikację kuratorską;
 - **6)** zdał egzamin kuratorski.
@@ -133,6 +131,10 @@ Art. 92–97. (pominięte)
 
 **Art. 7.** Ustala się następujące stopnie służbowe dla kuratorów zawodowych:
 
+- **1)** kurator zawodowy;
+- **2)** starszy kurator zawodowy;
+- **3)** kurator specjalista.
+
 **Art. 8.**
 
 1. Stopnie służbowe nadaje prezes sądu okręgowego:
@@ -150,6 +152,12 @@ Art. 92–97. (pominięte)
 2. Minister Sprawiedliwości nadaje tytuł honorowy dyplomowanego kuratora specjalisty na wniosek prezesa sądu okręgowego lub kuratora okręgowego albo z urzędu, po zasięgnięciu opinii prezesa sądu okręgowego.
 
 **Art. 9.** Wykonując swoje obowiązki służbowe, kurator zawodowy ma prawo do:
+
+- **1)** odwiedzania w godzinach od 7.00 do 22.00 osób objętych postępowaniem w miejscu ich zamieszkania lub pobytu, a także w zakładach zamkniętych;
+- **2)** żądania okazania przez osobę objętą postępowaniem dokumentu pozwalającego na stwierdzenie jej tożsamości;
+- **3)** żądania niezbędnych wyjaśnień i informacji od podopiecznych objętych dozorem, nadzorem lub inną formą kontroli zleconej przez sąd;
+- **4)** przeglądania akt sądowych i sporządzania z nich odpisów w związku z wykonywaniem czynności służbowych oraz dostępu do dokumentacji dotyczącej podopiecznego i innych osób objętych postępowaniem;
+- **5)** żądania od Policji oraz innych organów lub instytucji państwowych, organów samorządu terytorialnego, stowarzyszeń i organizacji społecznych w zakresie ich działania, a także od osób fizycznych pomocy w wykonywaniu czynności służbowych.
 
 **Art. 9a.**
 
@@ -181,7 +189,7 @@ Art. 92–97. (pominięte)
 - **13)** dane adresowe i kontaktowe;
 - **14)** informacje o przestrzeganiu porządku prawnego, zarzutach i okolicznościach naruszeń prawa, prowadzonych postępowaniach sądowych i administracyjnych, skazaniach, ukaraniach i rozstrzygnięciach w postępowaniu sądowym lub administracyjnym.
 
-3. Administrator danych osób, których dotyczy postępowanie, w tym Policja, Straż Graniczna, inne organy lub instytucje państwowe, organy samorządu terytorialnego, stowarzyszenia i inne organizacje społeczne, organy sądowych postępowań wykonawczych, instytucje pomocy społecznej i pieczy zastępczej, podmioty lecznicze w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156), jednostki organizacyjne, o których mowa w art. 2 pkt 1–8 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), oraz publiczne i niepubliczne uczelnie w rozumieniu ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) są obowiązane udostępnić kuratorowi zawodowemu, kierownikowi zespołu kuratorskiej służby sądowej, kuratorowi okręgowemu, w zakresie niezbędnym do wykonywania ich ustawowych zadań, dane osobowe, o których mowa w ust. 1 i 2.
+3. Administrator danych osób, których dotyczy postępowanie, w tym Policja, Straż Graniczna, inne organy lub instytucje państwowe, organy samorządu terytorialnego, stowarzyszenia i inne organizacje społeczne, organy sądowych postępowań wykonawczych, instytucje pomocy społecznej i pieczy zastępczej, podmioty lecznicze w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156), jednostki organizacyjne, o których mowa w art. 2 pkt 1–8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), oraz publiczne i niepubliczne uczelnie w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) są obowiązane udostępnić kuratorowi zawodowemu, kierownikowi zespołu kuratorskiej służby sądowej, kuratorowi okręgowemu, w zakresie niezbędnym do wykonywania ich ustawowych zadań, dane osobowe, o których mowa w ust. 1 i 2.
 
 4. Administrator danych udostępnia dane kuratorowi zawodowemu, kierownikowi zespołu kuratorskiej służby sądowej i kuratorowi okręgowemu nieodpłatnie.
 
@@ -194,6 +202,12 @@ Art. 92–97. (pominięte)
 2. Pracodawca, w ramach posiadanych środków finansowych, zapewnia kuratorowi zawodowemu warunki i środki finansowe do realizacji obowiązku, o którym mowa w ust. 1.
 
 **Art. 11.** Zawodowy kurator sądowy obowiązany jest do:
+
+- **1)** występowania w uzasadnionych wypadkach z wnioskiem o zmianę lub uchylenie orzeczonego środka;
+- **2)** przeprowadzania na zlecenie sądu lub sędziego wywiadów środowiskowych;
+- **3)** współpracy z właściwym samorządem i organizacjami społecznymi, które statutowo zajmują się opieką, wychowaniem, resocjalizacją, leczeniem i świadczeniem pomocy społecznej w środowisku otwartym;
+- **4)** organizacji i kontroli pracy podległych kuratorów społecznych oraz innych osób, uprawnionych do wykonywania dozorów lub nadzorów;
+- **5)** sygnalizowania sądowi przyczyn przewlekłości postępowania wykonawczego lub innych uchybień w działalności pozasądowych podmiotów wykonujących orzeczone środki.
 
 **Art. 12.** Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób wykonywania uprawnień i obowiązków kuratorów sądowych, uwzględniając potrzebę szybkiego wykonywania orzeczeń sądu oraz zagwarantowania praw i interesów podopiecznych.
 
@@ -223,7 +237,7 @@ Art. 92–97. (pominięte)
 
 5a. W wypadkach wymagających używania pojazdu prywatnego do celów służbowych, w szczególności w razie trudności w przemieszczaniu się z wykorzystaniem środków komunikacji publicznej, niezależnie od dodatku, o którym mowa w ust. 5, kuratorowi zawodowemu przyznaje się ryczałt na pokrycie zwiększonych kosztów dojazdów służbowych do wysokości 25 % kwoty bazowej, o której mowa w ust. 1. Ryczałt przyznaje prezes sądu okręgowego w ramach środków finansowych dostępnych w planie finansowym sądu okręgowego, na wniosek kuratora zawodowego zatwierdzony przez kierownika zespołu kuratorskiej służby sądowej. Przyznanie ryczałtu wymaga zawarcia umowy o używanie pojazdu prywatnego do celów służbowych. Ryczałt jest płatny do 20. dnia następnego miesiąca za miesiąc poprzedzający.
 
-5b. Kierownikowi ośrodka kuratorskiego przysługuje miesięczny ryczałt w wysokości 110 %, a kuratorowi zawodowemu prowadzącemu zajęcia w ośrodku kuratorskim 80 % kwoty bazowej, o której mowa w ust. 1, płatny do 20. dnia każdego miesiąca. Ryczałt ten przyznaje prezes sądu rejonowego na wniosek kierownika ośrodka kuratorskiego.
+5b. Kierownikowi ośrodka kuratorskiego przysługuje miesięczny ryczałt w wysokości 110 %, a kuratorowi zawodowemu prowadzącemu zajęcia w ośrodku kuratorskim – 80 % kwoty bazowej, o której mowa w ust. 1, płatny do 20. dnia każdego miesiąca. Ryczałt ten przyznaje prezes sądu rejonowego na wniosek kierownika ośrodka kuratorskiego.
 
 6. Kuratorowi zawodowemu przysługuje dodatek za wieloletnią pracę, wynoszący począwszy od szóstego roku pracy 5 % miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1 % za każdy dalszy rok pracy, aż do osiągnięcia 20 % miesięcznego wynagrodzenia zasadniczego.
 
@@ -239,8 +253,8 @@ Art. 92–97. (pominięte)
 
 1. Kuratorowi zawodowemu przysługuje corocznie dodatkowy urlop wypoczynkowy w wymiarze:
 
-- **1)** 6 dni roboczych po 10 latach pracy;
-- **2)** 12 dni roboczych po 15 latach pracy.
+- **1)** 6 dni roboczych – po 10 latach pracy;
+- **2)** 12 dni roboczych – po 15 latach pracy.
 
 2. Do okresu pracy, od którego zależy wymiar urlopu wypoczynkowego, wlicza się wszystkie okresy zatrudnienia, z tytułu którego przysługiwał zwiększony wymiar urlopu.
 
@@ -260,7 +274,7 @@ Art. 92–97. (pominięte)
 
 1. Kuratorowi zawodowemu pokrzywdzonemu przestępstwem w związku z wykonywaniem czynności służbowych przysługuje od pracodawcy, na wniosek tego kuratora, zwrot kosztów zastępstwa procesowego w postępowaniu karnym, w którym uczestniczył w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
 
-2. Zwrot kosztów zastępstwa procesowego, o którym mowa w ust. 1, obejmuje wydatki w wysokości faktycznie poniesionych kosztów, niewyższej niż stawka minimalna wynagrodzenia jednego obrońcy określona w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. z 2024 r. poz. 1564 oraz z 2025 r. poz. 1172).
+2. Zwrot kosztów zastępstwa procesowego, o którym mowa w ust. 1, obejmuje wydatki w wysokości faktycznie poniesionych kosztów, niewyższej niż stawka minimalna wynagrodzenia jednego obrońcy określona w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2024 r. poz. 1564 oraz z 2025 r. poz. 1172).
 
 3. Zwrot kosztów zastępstwa procesowego, o którym mowa w ust. 1, nie przysługuje kuratorowi zawodowemu, który uczestniczył w postępowaniu karnym w charakterze oskarżyciela posiłkowego i na rzecz którego sąd zasądził wydatki związane z ustanowieniem pełnomocnika.
 
@@ -268,7 +282,7 @@ Art. 92–97. (pominięte)
 
 1. Kuratorowi zawodowemu, przeciwko któremu zostało wytoczone powództwo cywilne w związku z wykonywaniem czynności służbowych, przysługuje od pracodawcy, na jego wniosek, zwrot kosztów zastępstwa procesowego.
 
-2. Zwrot kosztów zastępstwa procesowego, o którym mowa w ust. 1, obejmuje wydatki w wysokości faktycznie poniesionych kosztów, niewyższej niż stawka minimalna wynagrodzenia jednego pełnomocnika określona w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze.
+2. Zwrot kosztów zastępstwa procesowego, o którym mowa w ust. 1, obejmuje wydatki w wysokości faktycznie poniesionych kosztów, niewyższej niż stawka minimalna wynagrodzenia jednego pełnomocnika określona w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze.
 
 3. Kurator zawodowy zwraca pracodawcy otrzymane od niego środki pieniężne w terminie 30 dni od dnia uzyskania od powoda zasądzonych przez sąd kosztów procesu.
 
@@ -282,12 +296,12 @@ Art. 92–97. (pominięte)
 
 1. Kuratorowi zawodowemu przysługuje gratyfikacja jubileuszowa w wysokości:
 
-- **1)** po 20 latach pracy 75 %,
-- **2)** po 25 latach pracy 100 %,
-- **3)** po 30 latach pracy 150 %,
-- **4)** po 35 latach pracy %,
-- **5)** po 40 latach pracy 300 %,
-- **6)** po 45 latach pracy 400 % wynagrodzenia miesięcznego.
+- **1)** po 20 latach pracy – 75 %,
+- **2)** po 25 latach pracy – 100 %,
+- **3)** po 30 latach pracy – 150 %,
+- **4)** po 35 latach pracy – 200 %,
+- **5)** po 40 latach pracy – 300 %,
+- **6)** po 45 latach pracy – 400 % wynagrodzenia miesięcznego.
 
 2. Do okresu pracy uprawniającego do gratyfikacji wlicza się wszystkie poprzednio zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
 
@@ -297,9 +311,9 @@ Art. 92–97. (pominięte)
 
 1. Kuratorowi, którego stosunek pracy ustał w związku z przejściem na rentę z tytułu niezdolności do pracy albo na emeryturę, przysługuje jednorazowa odprawa w wysokości:
 
-- **1)** dwumiesięcznego wynagrodzenia po 10 latach pracy;
-- **2)** trzymiesięcznego wynagrodzenia po 15 latach pracy;
-- **3)** sześciomiesięcznego wynagrodzenia po 20 latach pracy.
+- **1)** dwumiesięcznego wynagrodzenia – po 10 latach pracy;
+- **2)** trzymiesięcznego wynagrodzenia – po 15 latach pracy;
+- **3)** sześciomiesięcznego wynagrodzenia – po 20 latach pracy.
 
 2. Wynagrodzenie, o którym mowa w ust. 1, ustala się w wysokości przysługującego ekwiwalentu pieniężnego za urlop wypoczynkowy.
 
@@ -319,7 +333,7 @@ Art. 92–97. (pominięte)
 
 1. Kurator zawodowy zostaje z mocy prawa zawieszony w pełnieniu obowiązków służbowych w razie tymczasowego aresztowania.
 
-2. Wynagrodzenie kuratora zawodowego w okresie jego tymczasowego aresztowania ulega ograniczeniu do połowy. Jeżeli w stosunku do kuratora zawodowego zapadł wyrok uniewinniający lub postępowanie karne zostało umorzone na podstawie art. 17 § 1 pkt 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872), zwanej dalej „Kodeksem postępowania karnego”, kuratorowi przysługuje wyrównanie wynagrodzenia za okres tymczasowego aresztowania.
+2. Wynagrodzenie kuratora zawodowego w okresie jego tymczasowego aresztowania ulega ograniczeniu do połowy. Jeżeli w stosunku do kuratora zawodowego zapadł wyrok uniewinniający lub postępowanie karne zostało umorzone na podstawie art. 17 § 1 pkt 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872), zwanej dalej „Kodeksem postępowania karnego”, kuratorowi przysługuje wyrównanie wynagrodzenia za okres tymczasowego aresztowania.
 
 **Art. 24.**
 
@@ -339,6 +353,13 @@ Art. 92–97. (pominięte)
 
 **Art. 26.** Stosunek pracy z kuratorem zawodowym wygasa:
 
+- **1)** z dniem utraty przez niego obywatelstwa polskiego;
+- **2)** w wypadkach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), zwanej dalej „Kodeksem pracy”;
+- **3)** w razie prawomocnego:
+    - **a)** ukarania karą dyscyplinarną, o której mowa w art. 52 ust. 3 pkt 5,
+    - **b)** orzeczenia przez sąd środka karnego w postaci pozbawienia praw publicznych lub zakazu wykonywania zawodu kuratora zawodowego,
+    - **c)** skazania za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
+
 **Art. 27.**
 
 1. Rozwiązanie stosunku pracy z kuratorem zawodowym może nastąpić, w drodze wypowiedzenia, w razie:
@@ -356,7 +377,7 @@ Art. 92–97. (pominięte)
 
 2. Jeżeli w okresie, o którym mowa w ust. 1, kurator zawodowy, z którym został rozwiązany stosunek pracy, pobiera zasiłek wychowawczy, chorobowy albo macierzyński, wysokość świadczenia pieniężnego ulega obniżeniu o kwotę pobieranego zasiłku.
 
-3. Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów składkowych w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia. Od świadczenia pieniężnego właściwy sąd odprowadza składkę na ubezpieczenia społeczne na zasadach przewidzianych dla wynagrodzenia wypłacanego w czasie trwania stosunku pracy.
+3. Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów składkowych w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych – na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia. Od świadczenia pieniężnego właściwy sąd odprowadza składkę na ubezpieczenia społeczne na zasadach przewidzianych dla wynagrodzenia wypłacanego w czasie trwania stosunku pracy.
 
 **Art. 29.**
 
@@ -416,7 +437,7 @@ Art. 92–97. (pominięte)
 
 1. (uchylony)
 
-2. Rozwiązanie stosunku pracy z kuratorem bez wypowiedzenia może nastąpić w razie jego nieprzerwanej nieobecności w pracy z powodu choroby trwającej dłużej niż rok, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
+2. Rozwiązanie stosunku pracy z kuratorem bez wypowiedzenia może nastąpić w razie jego nieprzerwanej nieobecności w pracy z powodu choroby trwającej dłużej niż rok, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn – po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
 
 **Art. 33.**
 
@@ -512,7 +533,7 @@ Art. 92–97. (pominięte)
 
 **Art. 36.**
 
-1. Kuratora okręgowego powołuje Minister Sprawiedliwości spośród kuratorów zawodowych zatrudnionych w danym okręgu sądowym albo mając na względzie dobro kuratorskiej służby sądowej spośród kuratorów zawodowych zatrudnionych poza tym okręgiem.
+1. Kuratora okręgowego powołuje Minister Sprawiedliwości spośród kuratorów zawodowych zatrudnionych w danym okręgu sądowym albo mając na względzie dobro kuratorskiej służby sądowej – spośród kuratorów zawodowych zatrudnionych poza tym okręgiem.
 
 2. Okręgowe zgromadzenie kuratorów oraz prezes sądu okręgowego mogą przedstawić Ministrowi Sprawiedliwości, niezależnie od siebie, niewięcej niż po 3 kandydatów na stanowisko kuratora okręgowego spośród kuratorów zawodowych zatrudnionych w danym okręgu sądowym, spełniających warunki, o których mowa w ust. 4, w terminie 14 dni od dnia zwolnienia tego stanowiska.
 
@@ -521,7 +542,7 @@ Art. 92–97. (pominięte)
 4. Kuratorem okręgowym może być ten, kto:
 
 - **1)** posiada co najmniej 7-letni staż pracy kuratorskiej;
-- **2)** posiada stopień kuratora specjalisty, a wyjątkowo stopień starszego kuratora zawodowego;
+- **2)** posiada stopień kuratora specjalisty, a wyjątkowo – stopień starszego kuratora zawodowego;
 - **3)** wyróżnia się umiejętnościami w zakresie zarządzania i kierowania.
 
 5. Minister Sprawiedliwości odwołuje kuratora okręgowego, jeżeli ten zrzekł się stanowiska albo nie wypełnia obowiązków nałożonych przez ustawę.
@@ -566,7 +587,7 @@ Art. 92–97. (pominięte)
 
 **Art. 37a.**
 
-1. Minister Sprawiedliwości, mając na uwadze stan osobowy kadry kuratorskiej w okręgu, może powołać zastępcę kuratora okręgowego, a jeżeli uzna to za konieczne dwóch zastępców kuratora okręgowego.
+1. Minister Sprawiedliwości, mając na uwadze stan osobowy kadry kuratorskiej w okręgu, może powołać zastępcę kuratora okręgowego, a jeżeli uzna to za konieczne – dwóch zastępców kuratora okręgowego.
 
 2. Do zastępcy kuratora okręgowego stosuje się odpowiednio przepisy art. 36 ust. 1 i 3–10 oraz art. 37 ust. 1, 1a, ust. 2 pkt 1–13 i 14–16 oraz ust. 3.
 
@@ -619,7 +640,7 @@ Art. 92–97. (pominięte)
 
 1. Kierownika zespołu kuratorskiej służby sądowej, w wypadku jego nieobecności, zastępuje wyznaczony przez niego kurator zawodowy, o czym kierownik zespołu kuratorskiej służby sądowej informuje prezesa sądu rejonowego oraz kuratora okręgowego.
 
-2. Kuratorowi zawodowemu, o którym mowa w ust. 1, w czasie zastępowania kierownika zespołu kuratorskiej służby sądowej przysługują uprawnienia, o których mowa w art. 169b § 2, 5–7 i 11 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911 i 1423).
+2. Kuratorowi zawodowemu, o którym mowa w ust. 1, w czasie zastępowania kierownika zespołu kuratorskiej służby sądowej przysługują uprawnienia, o których mowa w art. 169b § 2, 5–7 i 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911 i 1423).
 
 **Art. 41.**
 
@@ -706,7 +727,7 @@ Art. 92–97. (pominięte)
 
 2. Przewodniczącym okręgowego zgromadzenia kuratorów jest kurator okręgowy, a w razie jego nieobecności zastępca kuratora okręgowego.
 
-3. W okręgach sądowych, w których powołano dwóch zastępców kuratora okręgowego, pod nieobecność kuratora okręgowego okręgowemu zgromadzeniu kuratorów przewodniczy pierwszy zastępca kuratora okręgowego, a w razie jego nieobecności drugi zastępca kuratora okręgowego.
+3. W okręgach sądowych, w których powołano dwóch zastępców kuratora okręgowego, pod nieobecność kuratora okręgowego okręgowemu zgromadzeniu kuratorów przewodniczy pierwszy zastępca kuratora okręgowego, a w razie jego nieobecności – drugi zastępca kuratora okręgowego.
 
 4. W wypadku nieobecności kuratora okręgowego, przy jednoczesnym niepowołaniu albo nieobecności zastępcy kuratora okręgowego, okręgowemu zgromadzeniu kuratorów przewodniczy kurator zawodowy najstarszy służbą spośród obecnych.
 
@@ -745,7 +766,7 @@ Art. 92–97. (pominięte)
 - **5)** wyrażanie opinii w sprawach osobowych kuratorów zawodowych przedstawionych przez kuratora okręgowego i Ministra Sprawiedliwości;
 - **6)** występowanie do Ministra Sprawiedliwości o podjęcie niezbędnych działań dotyczących funkcjonowania kuratorskiej służby sądowej.
 
-2. Możliwości kandydowania na stanowisko, o którym mowa w ust. 1 pkt 1, są pozbawieni członkowie okręgowego zgromadzenia kuratorów, przeciwko którym toczy się postępowanie dyscyplinarne do czasu zakończenia tego postępowania, i kuratorzy, o których mowa w art. 31 ust. 1, art. 31a ust. 1, art. 37b ust. 1 i art. 38 ust. 2 w okresie delegowania.
+2. Możliwości kandydowania na stanowisko, o którym mowa w ust. 1 pkt 1, są pozbawieni członkowie okręgowego zgromadzenia kuratorów, przeciwko którym toczy się postępowanie dyscyplinarne – do czasu zakończenia tego postępowania, i kuratorzy, o których mowa w art. 31 ust. 1, art. 31a ust. 1, art. 37b ust. 1 i art. 38 ust. 2 – w okresie delegowania.
 
 #### Rozdział 5 Odpowiedzialność dyscyplinarna kuratorów zawodowych
 
@@ -791,7 +812,7 @@ Art. 92–97. (pominięte)
 
 1. Kuratorowi zawodowemu wymierza się karę dyscyplinarną współmierną do popełnionego przewinienia dyscyplinarnego oraz stopnia zawinienia.
 
-2. Przy wymierzaniu kary dyscyplinarnej uwzględnia się okoliczności popełnienia przewinienia dyscyplinarnego, jego skutki, w tym następstwa negatywne dla służby, rodzaj i stopień naruszenia ciążących na obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem przewinienia dyscyplinarnego i po jego popełnieniu, dotychczasowy przebieg i okres zatrudnienia, oceny pracy, a także istotne w sprawie okoliczności zarówno łagodzące, jak i obciążające.
+2. Przy wymierzaniu kary dyscyplinarnej uwzględnia się okoliczności popełnienia przewinienia dyscyplinarnego, jego skutki, w tym następstwa negatywne dla służby, rodzaj i stopień naruszenia ciążących na obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem przewinienia dyscyplinarnego i po jego popełnieniu, dotychczasowy przebieg i okres zatrudnienia, oceny pracy, a także istotne w sprawie okoliczności – zarówno łagodzące, jak i obciążające.
 
 3. Na zaostrzenie wymiaru kary dyscyplinarnej mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
 
@@ -810,6 +831,10 @@ Art. 92–97. (pominięte)
 5. Okoliczności, o których mowa w ust. 1–4, uwzględnia się wyłącznie w stosunku do kuratora zawodowego, którego one dotyczą.
 
 **Art. 52d.** Postępowanie dyscyplinarne obejmuje postępowanie:
+
+- **1)** wyjaśniające;
+- **2)** przed sądami dyscyplinarnymi obu instancji;
+- **3)** wykonawcze.
 
 **Art. 52e.**
 
@@ -862,8 +887,8 @@ Art. 92–97. (pominięte)
 
 1. W sprawach dyscyplinarnych kuratorów zawodowych orzekają:
 
-- **1)** w pierwszej instancji sąd dyscyplinarny w sądzie okręgowym, zwany dalej „sądem dyscyplinarnym pierwszej instancji”, w składzie 3-osobowym;
-- **2)** w drugiej instancji sąd okręgowy w składzie 3 sędziów.
+- **1)** w pierwszej instancji – sąd dyscyplinarny w sądzie okręgowym, zwany dalej „sądem dyscyplinarnym pierwszej instancji”, w składzie 3-osobowym;
+- **2)** w drugiej instancji – sąd okręgowy w składzie 3 sędziów.
 
 2. (uchylony)
 
@@ -913,6 +938,12 @@ Art. 92–97. (pominięte)
 4. Ilekroć w przepisach niniejszej ustawy jest mowa o rzeczniku dyscyplinarnym, należy przez to rozumieć również zastępcę rzecznika dyscyplinarnego.
 
 **Art. 59.** Do zadań rzecznika dyscyplinarnego należy:
+
+- **1)** prowadzenie postępowania wyjaśniającego;
+- **2)** składanie wniosków o ukaranie, jeżeli wyniki postępowania wyjaśniającego to uzasadniają;
+- **3)** udział w rozprawach w charakterze strony;
+- **4)** wnoszenie odwołań od orzeczeń sądu dyscyplinarnego pierwszej instancji;
+- **5)** udział w postępowaniu odwoławczym.
 
 **Art. 59a.**
 
@@ -985,7 +1016,7 @@ Art. 92–97. (pominięte)
 
 3. Po ogłoszeniu orzeczenia przewodniczący składu orzekającego podaje ustnie zasadnicze motywy rozstrzygnięcia.
 
-4. Orzeczenie wraz z uzasadnieniem doręcza się stronom, prezesowi sądu okręgowego, a w wypadku, o którym mowa w art. 64 ust. 3 także prezesowi sądu rejonowego, niepóźniej niż w terminie 7 dni od dnia jego ogłoszenia.
+4. Orzeczenie wraz z uzasadnieniem doręcza się stronom, prezesowi sądu okręgowego, a w wypadku, o którym mowa w art. 64 ust. 3 – także prezesowi sądu rejonowego, niepóźniej niż w terminie 7 dni od dnia jego ogłoszenia.
 
 **Art. 63.**
 
@@ -997,7 +1028,7 @@ Art. 92–97. (pominięte)
 
 4. Sąd okręgowy rozpoznaje sprawę dyscyplinarną na rozprawie na podstawie dowodów znajdujących się w aktach sprawy, chyba że uzna, iż niezbędne dla prawidłowego rozpoznania sprawy jest bezpośrednie przeprowadzenie dowodów z wyjaśnień obwinionego, zeznań świadków, opinii biegłych lub innych istotnych dowodów.
 
-5. Orzeczenie wraz z uzasadnieniem wydane przez sąd okręgowy doręcza się stronom, prezesowi sądu okręgowego, a w wypadku, o którym mowa w art. 64 ust. 3 także prezesowi sądu rejonowego.
+5. Orzeczenie wraz z uzasadnieniem wydane przez sąd okręgowy doręcza się stronom, prezesowi sądu okręgowego, a w wypadku, o którym mowa w art. 64 ust. 3 – także prezesowi sądu rejonowego.
 
 6. W postępowaniu przed sądem okręgowym stosuje się odpowiednio przepisy o postępowaniu przed sądem dyscyplinarnym pierwszej instancji.
 
@@ -1013,7 +1044,7 @@ Art. 92–97. (pominięte)
 
 **Art. 65.** (uchylony)
 
-**Art. 66.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego i ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
+**Art. 66.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego i ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
 
 **Art. 67.** Odpis prawomocnego orzeczenia skazującego na karę dyscyplinarną dołącza się do akt osobowych kuratora zawodowego.
 
@@ -1025,8 +1056,8 @@ Art. 92–97. (pominięte)
 
 1. Prezes sądu okręgowego zarządza, z urzędu, usunięcie z akt osobowych kuratora:
 
-- **1)** odpisu orzeczenia sądu dyscyplinarnego o ukaraniu karą upomnienia po roku od jego uprawomocnienia;
-- **2)** odpisu orzeczenia sądu dyscyplinarnego o ukaraniu karą przewidzianą w art. 52 ust. 3 pkt 2–4 po upływie 2 lat, a karą przewidzianą w art. 52 ust. 3 pkt 5 po upływie 10 lat od jego uprawomocnienia.
+- **1)** odpisu orzeczenia sądu dyscyplinarnego o ukaraniu karą upomnienia – po roku od jego uprawomocnienia;
+- **2)** odpisu orzeczenia sądu dyscyplinarnego o ukaraniu karą przewidzianą w art. 52 ust. 3 pkt 2–4 – po upływie 2 lat, a karą przewidzianą w art. 52 ust. 3 pkt 5 – po upływie 10 lat od jego uprawomocnienia.
 
 2. W szczególnie uzasadnionym wypadku prezes sądu okręgowego, na wniosek ukaranego, może zarządzić usunięcie z jego akt osobowych orzeczenia o ukaraniu jedną z kar, o których mowa w art. 52 ust. 3 pkt 2–4, po upływie połowy terminu określonego w ust. 1 pkt 2.
 
@@ -1057,9 +1088,9 @@ Art. 92–97. (pominięte)
 
 8. Konkurs, o którym mowa w ust. 2, składa się z trzech etapów:
 
-- **1)** pierwszego obejmującego wstępną weryfikację zgłoszeń kandydatów pod kątem spełnienia wymogów formalnych przystąpienia do konkursu;
-- **2)** drugiego pisemnego, polegającego na rozwiązaniu testu, składającego się z 30 pytań jednokrotnego wyboru oraz udzieleniu odpowiedzi na jedno z dwóch pytań opisowych;
-- **3)** trzeciego rozmowy kwalifikacyjnej.
+- **1)** pierwszego – obejmującego wstępną weryfikację zgłoszeń kandydatów pod kątem spełnienia wymogów formalnych przystąpienia do konkursu;
+- **2)** drugiego – pisemnego, polegającego na rozwiązaniu testu, składającego się z 30 pytań jednokrotnego wyboru oraz udzieleniu odpowiedzi na jedno z dwóch pytań opisowych;
+- **3)** trzeciego – rozmowy kwalifikacyjnej.
 
 9. Jeżeli żaden z kandydatów nie został dopuszczony do trzeciego etapu konkursu, prezes sądu okręgowego zarządza przeprowadzenie kolejnego konkursu na aplikację kuratorską.
 
@@ -1073,7 +1104,7 @@ Art. 92–97. (pominięte)
 
 - **1)** imiona i nazwiska kandydatów, którzy przystąpili do konkursu;
 - **2)** wyniki uzyskane przez poszczególnych kandydatów;
-- **3)** wskazanie kandydata albo listy kandydatów zakwalifikowanych do zatrudnienia, a jeżeli komisja sporządziła rezerwową listę kandydatów także wskazanie tej listy.
+- **3)** wskazanie kandydata albo listy kandydatów zakwalifikowanych do zatrudnienia, a jeżeli komisja sporządziła rezerwową listę kandydatów – także wskazanie tej listy.
 
 14. Informację o wynikach konkursu, o którym mowa w ust. 2, w tym imiona i nazwiska kandydatów, prezes sądu okręgowego umieszcza w miejscu powszechnie dostępnym w siedzibie sądu oraz w Biuletynie Informacji Publicznej na stronie podmiotowej sądu.
 
@@ -1115,7 +1146,7 @@ Art. 92–97. (pominięte)
 
 7. Aplikant kuratorski odbywa szkolenie praktyczne w zespole wykonującym orzeczenia w sprawach karnych oraz w zespole wykonującym orzeczenia w sprawach rodzinnych i nieletnich, po 6 miesięcy w każdym z tych zespołów. Jeżeli w zespole są wykonywane orzeczenia w sprawach karnych oraz w sprawach rodzinnych i nieletnich, aplikant odbywa szkolenie praktyczne po 6 miesięcy w zakresie wykonywania orzeczeń przez kuratorów dla dorosłych oraz w zakresie wykonywania orzeczeń przez kuratorów rodzinnych.
 
-8. Aplikantowi wyznacza się dwóch patronów jednego spośród kuratorów dla dorosłych, a drugiego spośród kuratorów rodzinnych. Każdy z patronów pełni swoją funkcję przez 6 miesięcy, odpowiednio w czasie, kiedy aplikant odbywa szkolenie praktyczne w zakresie dotyczącym wykonywania orzeczeń w sprawach karnych albo w zakresie wykonywania orzeczeń w sprawach rodzinnych i nieletnich.
+8. Aplikantowi wyznacza się dwóch patronów – jednego spośród kuratorów dla dorosłych, a drugiego spośród kuratorów rodzinnych. Każdy z patronów pełni swoją funkcję przez 6 miesięcy, odpowiednio w czasie, kiedy aplikant odbywa szkolenie praktyczne w zakresie dotyczącym wykonywania orzeczeń w sprawach karnych albo w zakresie wykonywania orzeczeń w sprawach rodzinnych i nieletnich.
 
 9. Jeżeli aplikant kuratorski odbywa szkolenie praktyczne w zespole wykonującym orzeczenia w sprawach karnych oraz w zespole wykonującym orzeczenia w sprawach rodzinnych i nieletnich, każdy z kierowników tych zespołów kuratorskiej służby sądowej wyznacza jednego patrona. Jeżeli w zespole są wykonywane orzeczenia w sprawach karnych oraz w sprawach rodzinnych i nieletnich, patronów aplikanta wyznacza kierownik tego zespołu kuratorskiej służby sądowej.
 
@@ -1156,7 +1187,7 @@ Art. 92–97. (pominięte)
 
 1b. Prezes sądu okręgowego informuje Rektora-Komendanta uczelni o odbyciu przez aplikanta aplikacji kuratorskiej w terminie 7 dni od dnia jej ukończenia.
 
-2. Egzamin pisemny odbywa się w obecności i pod nadzorem co najmniej 2 członków komisji egzaminacyjnej, a egzamin ustny przed komisją egzaminacyjną.
+2. Egzamin pisemny odbywa się w obecności i pod nadzorem co najmniej 2 członków komisji egzaminacyjnej, a egzamin ustny – przed komisją egzaminacyjną.
 
 3. Stosuje się następującą skalę ocen:
 
@@ -1184,6 +1215,18 @@ Art. 92–97. (pominięte)
 **Art. 82.** Członkom komisji konkursowej na aplikację kuratorską oraz członkom komisji egzaminacyjnej egzaminu kuratorskiego wynagrodzenie nie przysługuje.
 
 **Art. 83.** Aplikant kuratorski jest obowiązany do:
+
+- **1)** uczestnictwa w szkoleniu:
+    - **a)** teoretycznym, ze szczególnym uwzględnieniem metodyki pracy kuratora sądowego, organizacji wymiaru sprawiedliwości, przepisów prawnych dotyczących działalności kuratorów sądowych oraz innych wiadomości potrzebnych do wykonywania zawodu kuratora sądowego,
+    - **b)** praktycznym, ze szczególnym uwzględnieniem udziału w rozprawach sądowych i w wysłuchiwaniu nieletnich przez sędziego oraz pobytu w placówkach, o których mowa w art. 3 ust. 1;
+
+- **2)** dokonywania oceny przebiegu spraw znajdujących się w postępowaniu rozpoznawczym i wykonawczym w ramach pracy zespołu;
+- **3)** zapoznania się z rejonem pracy kuratora – patrona oraz zadaniami wynikającymi z jego zakresu czynności;
+- **4)** przyswojenia zasad prowadzenia dokumentacji kuratorskiej;
+- **5)** nawiązywania kontaktów z instytucjami zajmującymi się wychowaniem, profilaktyką i resocjalizacją;
+- **6)** zapoznawania się z organizacją i formami pracy ośrodka kuratorskiego;
+- **7)** udziału w posiedzeniach zespołu i naradach organizowanych dla kuratorów sądowych;
+- **8)** wykonywania innych czynności zleconych przez przełożonych.
 
 #### Rozdział 7 Kuratorzy społeczni
 
@@ -1221,7 +1264,7 @@ Art. 92–97. (pominięte)
 
 2. Kuratorowi społecznemu pokrzywdzonemu przestępstwem w związku z wykonywaniem czynności służbowych przysługuje od sądu rejonowego, w którym pełni on swoją funkcję, na jego wniosek, zwrot kosztów zastępstwa procesowego w postępowaniu karnym, w którym uczestniczył w charakterze pokrzywdzonego lub oskarżyciela posiłkowego. Przepisy art. 17b ust. 2 i 3 stosuje się odpowiednio.
 
-3. Kuratorowi społecznemu, przeciwko któremu zostało wytoczone powództwo cywilne w związku z wykonywaniem czynności służbowych przysługuje od sądu rejonowego, w którym pełni on swoją funkcję, na jego wniosek, zwrot kosztów zastępstwa procesowego w wysokości faktycznie poniesionych kosztów, niewyższej niż stawka minimalna wynagrodzenia jednego pełnomocnika określona w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze. Przepisy art. 17c ust. 2 i 3 stosuje się odpowiednio.
+3. Kuratorowi społecznemu, przeciwko któremu zostało wytoczone powództwo cywilne w związku z wykonywaniem czynności służbowych przysługuje od sądu rejonowego, w którym pełni on swoją funkcję, na jego wniosek, zwrot kosztów zastępstwa procesowego w wysokości faktycznie poniesionych kosztów, niewyższej niż stawka minimalna wynagrodzenia jednego pełnomocnika określona w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze. Przepisy art. 17c ust. 2 i 3 stosuje się odpowiednio.
 
 **Art. 88.**
 
@@ -1258,11 +1301,11 @@ Art. 92–97. (pominięte)
 - **1)** przeprowadzenie wywiadu środowiskowego określonego w art. 214 § 1 Kodeksu postępowania karnego;
 - **2)** przeprowadzenie wywiadu środowiskowego w sprawach o unieważnienie małżeństwa, ustalenie istnienia lub nieistnienia małżeństwa, rozwód, separację;
 - **3)** obecność przy kontaktach rodziców z dziećmi, ustalonych przez sąd opiekuńczy;
-- **4)** czynności zlecone przez sąd na podstawie art. 598 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ).
+- **4)** czynności zlecone przez sąd na podstawie art. 598 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ).
 
 1a. Kuratorowi społecznemu przysługuje miesięczny ryczałt za prowadzenie zajęć w ośrodku kuratorskim w wysokości 80 % kwoty bazowej, o której mowa w art. 14 ust. 1, przyznawany przez prezesa sądu rejonowego, na wniosek kierownika ośrodka kuratorskiego, płatny do 20. dnia każdego miesiąca.
 
-2. Ryczałt, o którym mowa w ust. 1 pkt 1 i 2, wynosi 8 %, a w wypadkach określonych w ust. 1 pkt 3 i 4 10 % kwoty bazowej, o której mowa w art. 14 ust. 1.
+2. Ryczałt, o którym mowa w ust. 1 pkt 1 i 2, wynosi 8 %, a w wypadkach określonych w ust. 1 pkt 3 i 4 – 10 % kwoty bazowej, o której mowa w art. 14 ust. 1.
 
 3. Ryczałt, o którym mowa w ust. 1 i 2, przysługuje również kuratorowi zawodowemu.
 
@@ -1319,4 +1362,8 @@ Art. 92–97. (pominięte)
 **Art. 106a.** Do dnia 31 grudnia 2002 r. obsługę biurową zespołu mogą pełnić wyznaczeni przez prezesa sądu rejonowego pracownicy zatrudnieni w wydziałach tego sądu. W takim przypadku nie tworzy się sekretariatu zespołu.
 
 **Art. 107.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z wyjątkiem:
+
+- **1)** art. 14 ust. 7, który wchodzi w życie z dniem 1 października 2002 r.;
+- **2)** art. 14 ust. 1–3 i 5 oraz art. 38, które wchodzą w życie z dniem 1 stycznia 2003 r.
+
 

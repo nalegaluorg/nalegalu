@@ -8,7 +8,7 @@ pos: 1080
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 124/7/A/2008 WYROK z dnia 19 września 2008 r.

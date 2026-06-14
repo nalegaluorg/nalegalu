@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym.*
 
 Łącznie: **167** orzeczeń
-(pominięto 182 orzeczeń sądów rejonowych)
+(pominięto 184 orzeczeń sądów rejonowych)
 
 ## art. 1 (4)
 

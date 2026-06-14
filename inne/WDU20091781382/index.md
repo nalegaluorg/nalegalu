@@ -8,7 +8,7 @@ pos: 1382
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 15 października 2009 r.

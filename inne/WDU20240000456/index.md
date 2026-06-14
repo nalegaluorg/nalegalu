@@ -8,10 +8,10 @@ pos: 456
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 marca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 445566 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 19 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/456/text.pdf) |
 
-445566 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 19 marca 2024 r.
 w sprawie kursów uprawniających do pracy na stanowisku dyspozytora medycznego i wojewódzkiego koordynatora ratownictwa medycznego oraz kursu doskonalącego dla dyspozytora medycznego Na podstawie art. 27b ust. 24 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U.
-z 2023 r. poz. 1541, 1560 i 1972) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2023 r. poz. 1541, 1560 i 1972) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) ramowy program kursu:
-a) uprawniającego do pracy na stanowisku: dyspozytora medycznego, wojewódzkiego koordynatora ratownictwa medycznego,
+a) uprawniającego do pracy na stanowisku: – dyspozytora medycznego, – wojewódzkiego koordynatora ratownictwa medycznego,
 b) doskonalącego dla dyspozytora medycznego, odbywanego w ramach rozwoju zawodowego dyspozytora medycznego;
 2) kwalifikacje kadry dydaktycznej;
 3) szczegółowy sposób przeprowadzania egzaminów kończących kursy, o których mowa w pkt 1;
@@ -51,12 +51,12 @@ b) doskonalącego dla dyspozytora medycznego, odbywanego w ramach rozwoju zawodo
 2. Do egzaminu z części praktycznej może przystąpić osoba, która zaliczyła egzamin z części teoretycznej.
 3. Wykonanie zadań, o których mowa w ust. 1, jest oceniane odrębnie przez każdego członka komisji według skali ocen: 5 (bardzo dobry), 4,5 (dobry plus), 4 (dobry), 3,5 (dostateczny plus), 3 (dostateczny), 2 (niedostateczny).
 4. Oceną końcową egzaminu z części praktycznej jest ocena wynikająca ze średniej arytmetycznej ocen wystawionych przez poszczególnych członków komisji zgodnie z następującym przelicznikiem:
-1) od 4,76 do 5,0 5 (bardzo dobry);
-2) od 4,26 do 4,75 4,5 (dobry plus);
-3) od 3,76 do 4,25 4 (dobry);
-4) od 3,26 do 3,75 3,5 (dostateczny plus);
-5) od 2,26 do 3,25 3 (dostateczny);
-6) od 2,0 do 2,25 2 (niedostateczny).
+1) od 4,76 do 5,0 – 5 (bardzo dobry);
+2) od 4,26 do 4,75 – 4,5 (dobry plus);
+3) od 3,76 do 4,25 – 4 (dobry);
+4) od 3,26 do 3,75 – 3,5 (dostateczny plus);
+5) od 2,26 do 3,25 – 3 (dostateczny);
+6) od 2,0 do 2,25 – 2 (niedostateczny).
 5. Egzamin z części praktycznej jest zaliczony, jeżeli osoba zdająca otrzyma ocenę co najmniej 3 (dostateczną).
 § 10. 1. Zajęcia na kursach, o których mowa w § 1 pkt 1, z wyjątkiem zajęć, o których mowa w ust. 2–4, prowadzi lekarz systemu w rozumieniu art. 3 pkt 3 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, pielęgniarka systemu w rozumieniu art. 3 pkt 6 tej ustawy lub ratownik medyczny, o którym mowa w ustawie z dnia 1 grudnia 2022 r.
 o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. z 2023 r. poz. 2187), posiadający odpowiednio:
@@ -74,7 +74,7 @@ Minister Zdrowia: wz. W. Konieczny RAMOWY PROGRAM KURSU UPRAWNIAJĄCEGO DO PRACY
 poz. 1541, z późn. zm.), zwanej dalej „ustawą o PRM”.
 2. Rodzaj kształcenia: Kursy zamknięte dla ratowników medycznych lub pielęgniarek systemu realizowane hybrydowo, w tym zajęcia teoretyczne oraz zajęcia praktyczne mogą być realizowane w siedzibie Krajowego Centrum Monitorowania Ratownictwa Medycznego.
 3. Czas trwania kursu: 34 godziny dydaktyczne.
-II. Plan nauczania: Liczba godzin Liczba godzin Liczba godzin Lp. Temat/zagadnienie dydaktycznych dydaktycznych dydaktycznych na zajęciach na zajęciach ogółem teoretycznych praktycznych 1 System ochrony zdrowia oraz organizacja systemu 3 3 Państwowe Ratownictwo Medyczne, zwanego dalej „systemem PRM” 2 Odpowiedzialność karna i cywilna dyspozytora 1 1 medycznego 3 Zasady i procedury przyjmowania oraz obsługi 1 4 5 zgłoszeń alarmowych, a także zasady dysponowania zespołami ratownictwa medycznego, zwanymi dalej „zrm”, w tym lotniczymi zespołu ratownictwa medycznego, zwanymi dalej „lzrm”, oraz zasady współpracy dyspozytora medycznego z tymi zespołami w systemie PRM 4 Zagadnienia z zakresu medycyny ratunkowej 1 5 6 niezbędne do realizacji zadań dyspozytora medycznego; zasady udzielania pierwszej pomocy oraz przekazywania niezbędnych informacji osobom udzielającym pierwszej pomocy do czasu przybycia zrm 5 Zasady komunikacji i zbierania wywiadu 1 2 3 medycznego 6 Prowadzenie komunikacji radiowo-telefonicznej 2 2 7 System Wspomagania Dowodzenia Państwowego 1 3 4 Ratownictwa Medycznego, zwany dalej „SWD PRM” 8 Postępowanie w przypadku zdarzenia z dużą liczbą poszkodowanych 1 3 4 9 Zadania wojewódzkiego koordynatora ratownictwa 1 1 medycznego i zasady współpracy z nim 10 Zasady postępowania w przypadku przyjęcia lub 1 1 odmowy przyjęcia pacjenta w podmiocie leczniczym Razem godziny dydaktyczne 11 19 30 Egzamin z części teoretycznej i z części praktycznej 1 3 4 Ogółem czas trwania kursu 34 III. Wykaz umiejętności wynikowych: W wyniku realizacji planu nauczania dyspozytor medyczny posiada wiadomości dotyczące:
+II. Plan nauczania: Liczba godzin Liczba godzin Liczba godzin Lp. Temat/zagadnienie dydaktycznych dydaktycznych dydaktycznych na zajęciach na zajęciach ogółem teoretycznych praktycznych 1 System ochrony zdrowia oraz organizacja systemu 3 3 Państwowe Ratownictwo Medyczne, zwanego dalej „systemem PRM” 2 Odpowiedzialność karna i cywilna dyspozytora 1 1 medycznego 3 Zasady i procedury przyjmowania oraz obsługi 1 4 5 zgłoszeń alarmowych, a także zasady dysponowania zespołami ratownictwa medycznego, zwanymi dalej „zrm”, w tym lotniczymi zespołu ratownictwa medycznego, zwanymi dalej „lzrm”, oraz zasady współpracy dyspozytora medycznego z tymi zespołami w systemie PRM 4 Zagadnienia z zakresu medycyny ratunkowej 1 5 6 niezbędne do realizacji zadań dyspozytora medycznego; zasady udzielania pierwszej pomocy oraz przekazywania niezbędnych informacji osobom udzielającym pierwszej pomocy do czasu przybycia zrm 5 Zasady komunikacji i zbierania wywiadu 1 2 3 medycznego 6 Prowadzenie komunikacji radiowo-telefonicznej 2 2 7 System Wspomagania Dowodzenia Państwowego 1 3 4 Ratownictwa Medycznego, zwany dalej „SWD PRM” 8 Postępowanie w przypadku zdarzenia z dużą liczbą 1 3 4 poszkodowanych 9 Zadania wojewódzkiego koordynatora ratownictwa 1 1 medycznego i zasady współpracy z nim 10 Zasady postępowania w przypadku przyjęcia lub 1 1 odmowy przyjęcia pacjenta w podmiocie leczniczym Razem godziny dydaktyczne 11 19 30 Egzamin z części teoretycznej i z części praktycznej 1 3 4 Ogółem czas trwania kursu 34 III. Wykaz umiejętności wynikowych: W wyniku realizacji planu nauczania dyspozytor medyczny posiada wiadomości dotyczące:
 1) podstaw prawnych działania oraz organizacji systemu PRM na terytorium Rzeczypospolitej Polskiej oraz w innych państwach;
 2) podstaw prawnych i zasad pracy dyspozytora medycznego oraz ochrony prawnej dyspozytorów medycznych;
 3) jednostek systemu PRM;
@@ -119,7 +119,7 @@ II. Plan nauczania: Liczba godzin Liczba godzin Liczba godzin Lp. Temat/zagadnie
 42) sposobów przyjęcia wezwania i prowadzenia wywiadu medycznego z dzieckiem przez zadawanie prostych i zrozumiałych pytań adekwatnych do wieku dziecka;
 43) przyczyn i rodzajów zaburzeń mowy, orientacji i pamięci, przyczyn i trudności w nawiązaniu rozmowy z pacjentami m.in. pod wpływem alkoholu, środków psychoaktywnych, pacjentami w wieku podeszłym, pacjentami z zaburzeniami psychicznymi lub niedorozwojem umysłowym wraz z zasadami skutecznego reagowania na wezwania od tych osób oraz zasad prowadzenia z nimi rozmowy;
 44) zadań dyspozytorów medycznych, o których mowa w art. 27 ust. 1 ustawy o PRM;
-45) zakresu odpowiedzialności karnej i cywilnej dyspozytora medycznego, o których mowa w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17) i ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, z późn. zm.);
+45) zakresu odpowiedzialności karnej i cywilnej dyspozytora medycznego, o których mowa w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) i ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, z późn. zm.);
 46) zasad współpracy ze szpitalnym oddziałem ratunkowym w zdarzeniach z dużą liczbą poszkodowanych;
 47) przygotowania szpitalnego oddziału ratunkowego do przyjęcia ofiar zdarzeń z dużą liczbą poszkodowanych;
 48) zasad komunikacji w przypadku zdarzeń z dużą liczbą poszkodowanych;
@@ -195,11 +195,11 @@ II. Plan nauczania: Liczba godzin Liczba godzin Liczba godzin Lp. Temat/zagadnie
 16) zasad współpracy z zrm, lzrm, Centrum Operacyjnym Lotniczego Pogotowia Ratunkowego oraz innymi dyspozytorniami medycznymi, jednostkami systemu PRM i jednostkami współpracującymi z systemem PRM, o których mowa w art. 15 ust. 1 ustawy o PRM, podczas obsługi zdarzeń;
 17) znajomości Modułu Koordynatora SWD PRM oraz Modułu Mapowego SWD PRM wraz z lokalizacją zdarzenia i zrm oraz wykorzystania filtrów i warstw Modułu Mapowego SWD PRM;
 18) zasad oraz kryteriów dysponowania zrm, lzrm oraz jednostek współpracujących z systemem PRM, o których mowa w art. 15 ust. 1 ustawy o PRM, zgodnie z przepisami wydanymi na podstawie art. 27 ust. 5 ustawy o PRM;
-19) zasad prowadzenia korespondencji radiowej, z uwzględnieniem zapisów z wojewódzkiego planu działania systemu PRM oraz Regulaminu Łączności Radiowej właściwego dla miejsca wykonywania pracy wojewódzkiego koordynatora ratownictwa medycznego w danym województwie, w tym procedury łączności radiowej i organizacji łączności radiowej
+19) zasad prowadzenia korespondencji radiowej, z uwzględnieniem zapisów z wojewódzkiego planu działania systemu PRM oraz Regulaminu Łączności Radiowej właściwego dla miejsca wykonywania pracy wojewódzkiego koordynatora ratownictwa medycznego w danym województwie, w tym procedury łączności radiowej i organizacji łączności radiowej w danym województwie;
 20) zasad koordynacji działań ratowniczych na miejscu zdarzenia;
 21) ogólnych zasad działania centrum zarządzania kryzysowego;
 22) zadań wojewódzkiego koordynatora ratownictwa medycznego, o których mowa w art. 29 ust. 5 ustawy o PRM;
-23) podstaw odpowiedzialności karnej i cywilnej wojewódzkiego koordynatora ratownictwa medycznego, o których mowa w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17) i ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, z późn. zm.);
+23) podstaw odpowiedzialności karnej i cywilnej wojewódzkiego koordynatora ratownictwa medycznego, o których mowa w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) i ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, z późn. zm.);
 24) planowania zabezpieczenia medycznego oraz organizacji pomocy medycznej w przypadku zdarzeń z dużą liczbą osób poszkodowanych i katastrof;
 25) zasad współpracy ze szpitalnym oddziałem ratunkowym w przypadku zdarzenia z dużą liczbą poszkodowanych;
 26) zasad komunikacji oraz prowadzenia dokumentacji medycznej w przypadku zdarzeń z dużą liczbą poszkodowanych;
@@ -235,7 +235,7 @@ RAMOWY PROGRAM KURSU DOSKONALĄCEGO DLA DYSPOZYTORA MEDYCZNEGO, ODBYWANEGO W RAM
 1. Cel kształcenia: Celem kształcenia jest aktualizacja i doskonalenie posiadanych umiejętności umożliwiających realizację przez dyspozytora medycznego zadań, o których mowa w art. 27 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2023 r. poz. 1541, z późn. zm.), zwanej dalej „ustawą o PRM”.
 2. Rodzaj kształcenia: Kursy zamknięte dla ratowników medycznych lub pielęgniarek systemu realizowane hybrydowo, w tym zajęcia teoretyczne oraz zajęcia praktyczne mogą być realizowane w siedzibie Krajowego Centrum Monitorowania Ratownictwa Medycznego.
 3. Czas trwania kursu: 34 godziny dydaktyczne.
-II. Plan nauczania: Liczba godzin Liczba godzin Liczba godzin Lp. Temat/zagadnienie dydaktycznych dydaktycznych dydaktycznych zajęć zajęć ogółem teoretycznych praktycznych 1 System ochrony zdrowia oraz organizacja systemu 3 3 Państwowe Ratownictwo Medyczne, zwanego dalej „systemem PRM” 2 Odpowiedzialność karna i cywilna dyspozytora 1 1 medycznego 3 Zasady i procedury przyjmowania oraz obsługi 1 4 5 zgłoszeń alarmowych, a także zasady dysponowania zespołami ratownictwa medycznego, zwanymi dalej „zrm”, w tym lotniczymi zespołami ratownictwa medycznego, zwanymi dalej „lzrm”, oraz zasady współpracy dyspozytora medycznego z tymi zespołami w systemie PRM 4 Zagadnienia z zakresu medycyny ratunkowej 1 5 6 niezbędne do realizacji zadań dyspozytora medycznego; zasady udzielania pierwszej pomocy oraz przekazywania niezbędnych informacji osobom udzielającym pierwszej pomocy do czasu przybycia zrm 5 Zasady komunikacji i zbierania wywiadu 1 3 4 medycznego 6 Prowadzenie komunikacji radiowo-telefonicznej 2 2 7 System Wspomagania Dowodzenia Państwowego 1 1 2 Ratownictwa Medycznego, zwanego dalej „SWD PRM” 8 Postępowanie w przypadku zdarzenia z dużą liczbą poszkodowanych 2 3 5 9 Zadania wojewódzkiego koordynatora ratownictwa 1 1 medycznego i zasady współpracy z nim 10 Zasady postępowania w przypadku przyjęcia lub 1 1 odmowy przyjęcia pacjenta w podmiocie leczniczym Razem godziny dydaktyczne 12 18 30 Egzamin z części teoretycznej i z części praktycznej 1 3 4 Ogółem czas trwania kursu 34 III. Wykaz umiejętności wynikowych: W wyniku realizacji planu nauczania dyspozytor medyczny posiada wiadomości dotyczące:
+II. Plan nauczania: Liczba godzin Liczba godzin Liczba godzin Lp. Temat/zagadnienie dydaktycznych dydaktycznych dydaktycznych zajęć zajęć ogółem teoretycznych praktycznych 1 System ochrony zdrowia oraz organizacja systemu 3 3 Państwowe Ratownictwo Medyczne, zwanego dalej „systemem PRM” 2 Odpowiedzialność karna i cywilna dyspozytora 1 1 medycznego 3 Zasady i procedury przyjmowania oraz obsługi 1 4 5 zgłoszeń alarmowych, a także zasady dysponowania zespołami ratownictwa medycznego, zwanymi dalej „zrm”, w tym lotniczymi zespołami ratownictwa medycznego, zwanymi dalej „lzrm”, oraz zasady współpracy dyspozytora medycznego z tymi zespołami w systemie PRM 4 Zagadnienia z zakresu medycyny ratunkowej 1 5 6 niezbędne do realizacji zadań dyspozytora medycznego; zasady udzielania pierwszej pomocy oraz przekazywania niezbędnych informacji osobom udzielającym pierwszej pomocy do czasu przybycia zrm 5 Zasady komunikacji i zbierania wywiadu 1 3 4 medycznego 6 Prowadzenie komunikacji radiowo-telefonicznej 2 2 7 System Wspomagania Dowodzenia Państwowego 1 1 2 Ratownictwa Medycznego, zwanego dalej „SWD PRM” 8 Postępowanie w przypadku zdarzenia z dużą liczbą 2 3 5 poszkodowanych 9 Zadania wojewódzkiego koordynatora ratownictwa 1 1 medycznego i zasady współpracy z nim 10 Zasady postępowania w przypadku przyjęcia lub 1 1 odmowy przyjęcia pacjenta w podmiocie leczniczym Razem godziny dydaktyczne 12 18 30 Egzamin z części teoretycznej i z części praktycznej 1 3 4 Ogółem czas trwania kursu 34 III. Wykaz umiejętności wynikowych: W wyniku realizacji planu nauczania dyspozytor medyczny posiada wiadomości dotyczące:
 1) podstaw prawnych działania oraz organizacji systemu PRM na terytorium Rzeczypospolitej Polskiej oraz w innych państwach;
 2) podstaw prawnych i zasad pracy dyspozytora medycznego oraz ochrony prawnej dyspozytorów medycznych;
 3) jednostek systemu PRM;
@@ -254,6 +254,7 @@ II. Plan nauczania: Liczba godzin Liczba godzin Liczba godzin Lp. Temat/zagadnie
 16) zasad postępowania w przypadku zdarzeń z dużą liczbą poszkodowanych lub katastrof (definicje zdarzenia z dużą liczbą poszkodowanych i katastrofy; przykłady zdarzeń i katastrof);
 17) planowania zabezpieczenia medycznego oraz organizacji pomocy medycznej na wypadek zdarzeń z dużą liczbą poszkodowanych;
 18) zasad segregacji medycznej poszkodowanych (triage);
+19) zasad dekontaminacji w zdarzeniach z dużą liczbą poszkodowanych;
 20) organizacji, zasad działania i współpracy służb ratowniczych z systemem PRM;
 21) zasad współpracy z zrm, lzrm, Centrum Operacyjnym Lotniczego Pogotowia Ratunkowego oraz innymi dyspozytorniami medycznymi, jednostkami systemu PRM i jednostkami współpracującymi z systemem PRM, o których mowa w art. 15 ust. 1 ustawy o PRM, podczas obsługi zdarzeń;
 22) zasad przekazywania niezbędnych instrukcji dotyczących sposobu udzielania pierwszej pomocy osobie w stanie nagłego zagrożenia zdrowotnego przed przybyciem zrm;
@@ -279,7 +280,7 @@ II. Plan nauczania: Liczba godzin Liczba godzin Liczba godzin Lp. Temat/zagadnie
 42) sposobu przyjęcia wezwania i prowadzenia wywiadu medycznego z dzieckiem przez zadawanie prostych i zrozumiałych pytań adekwatnych do wieku dziecka;
 43) przyczyn i rodzajów zaburzeń mowy, orientacji i pamięci, przyczyn i trudności w nawiązaniu rozmowy z pacjentami m.in. pod wpływem alkoholu, środków psychoaktywnych, pacjentami w wieku podeszłym, pacjentami z zaburzeniami psychicznymi, z niedorozwojem umysłowym wraz z zasadami skutecznego reagowania na wezwania od tych osób oraz zasad prowadzenia z nimi rozmowy;
 44) zadań dyspozytorów medycznych, o których mowa w art. 27 ust. 1 ustawy o PRM;
-45) zakresu odpowiedzialności karnej i cywilnej dyspozytora medycznego, o których mowa w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17) i ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, z późn. zm.);
+45) zakresu odpowiedzialności karnej i cywilnej dyspozytora medycznego, o których mowa w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) i ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, z późn. zm.);
 46) zasad współpracy ze szpitalnym oddziałem ratunkowym w zdarzeniach z dużą liczbą poszkodowanych;
 47) przygotowania szpitalnego oddziału ratunkowego do przyjęcia ofiar zdarzeń z dużą liczbą poszkodowanych;
 48) zasad komunikacji w przypadku zdarzeń z dużą liczbą poszkodowanych;
@@ -330,17 +331,17 @@ f) osobami w kryzysie suicydalnym;
 25) informacje o prawach pacjenta, o których mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, oraz zasady dotyczące przetwarzania danych osobowych, o których mowa w ustawie z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781) i rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.);
 26) zasady wykorzystywania aplikacji udostępnianych przez urząd obsługujący ministra właściwego do spraw zdrowia na potrzeby realizacji zadań przez dyspozytora medycznego.
 V. Wskazówki metodyczne: Zajęcia teoretyczne mogą być realizowane w formie e-learningu lub formie elektronicznej za pośrednictwem sieci internetowej z ograniczonym dostępem: 1 godzina dydaktyczna = 45 minut.
-WZÓR 30 Załącznik nr 4 WZÓR KRAJOWE CENTRUM MONITOROWANIA RATOWNICTWA MEDYCZNEGO Nr .............. / .............. r.
+WZÓR Załącznik nr 4 WZÓR KRAJOWE CENTRUM MONITOROWANIA RATOWNICTWA MEDYCZNEGO Nr .............. / .............. r.
 .........................................
 ZAŚWIADCZENIE o ukończeniu kursu uprawniającego do pracy na stanowisku dyspozytora medycznego Zaświadcza się, że: Pan(i) ...............................................................
 odbył(a) w dniach: od ................................... do .............................................
 kurs uprawniający do pracy na stanowisku dyspozytora medycznego w Krajowym Centrum Monitorowania Ratownictwa Medycznego i zdał(a) egzamin przed Komisją Egzaminacyjną z wynikiem pozytywnym.
-…………………………………………………………………………………..………… WZÓR Załącznik nr 5 WZÓR KRAJOWE CENTRUM MONITOROWANIA RATOWNICTWA MEDYCZNEGO Nr .............. / .............. r.
+…………………………………………………………………………………..………… Dziennik Ustaw – – 31 19 – – Poz. 456 Załącznik nr 5 WZÓR WZÓR KRAJOWE CENTRUM MONITOROWANIA RATOWNICTWA MEDYCZNEGO Nr .............. / .............. r.
 .........................................
 ZAŚWIADCZENIE o ukończeniu kursu uprawniającego do pracy na stanowisku wojewódzkiego koordynatora ratownictwa medycznego Zaświadcza się, że: Pan(i) ...............................................................
 odbył(a) w dniach: od ............................. do ..........................................
 kurs uprawniający do pracy na stanowisku wojewódzkiego koordynatora ratownictwa medycznego w Krajowym Centrum Monitorowania Ratownictwa Medycznego i zdał(a) egzamin przed Komisją Egzaminacyjną z wynikiem pozytywnym.
-………………………………………………………………………………………… WZÓR Załącznik nr 6 WZÓR KRAJOWE CENTRUM MONITOROWANIA RATOWNICTWA MEDYCZNEGO Nr .............. / .............. r.
+………………………………………………………………………………………… Załącznik nr 6 WZÓR WZÓR KRAJOWE CENTRUM MONITOROWANIA RATOWNICTWA MEDYCZNEGO Nr .............. / .............. r.
 .........................................
 ZAŚWIADCZENIE o ukończeniu kursu doskonalącego dla dyspozytora medycznego, odbywanego w ramach rozwoju zawodowego dyspozytora medycznego Zaświadcza się, że: Pan(i) ...............................................................
 odbył(a) w dniach: od ................................ do ..............................................

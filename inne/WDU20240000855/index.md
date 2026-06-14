@@ -8,10 +8,10 @@ pos: 855
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 11 czerwca 2024 OBWIESZCZENIE PREZESA RADY MINISTRÓW 6 czerwca 2024 ogłoszenia jednolitego tekstu rozporządzenia lotniczych przejść granicznych rodzaju ruchu dozwolonego przez te przejścia
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 855 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 6 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,47 +25,50 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/855/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia 18 czerwca 2001 lotniczych przejść granicznych rodzaju ruchu dozwolonego przez te przejścia 2023 518), uwzględnieniem zmian wprowadzonych rozporządzeniem 23 kwietnia 2024 zmieniającym rozporządzenie lotniczych przejść granicznych rodzaju ruchu dozwolonego przez te przejścia 668).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia 23 kwietnia 2024 zmieniającego rozporządzenie lotniczych przejść granicznych rodzaju ruchu dozwolonego przez te przejścia 668), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Prezes Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW 18 czerwca 2001 lotniczych przejść granicznych rodzaju ruchu dozwolonego przez te przejścia Na podstawie art. 16 ust. 2 ustawy 12 października 1990 o ochronie granicy państwowej 2024
-388) zarządza się, co następuje: § 1. Ustala się następujące morskie stałe lotnicze przejścia graniczne rodzaj ruchu dozwolonego przez te przejścia:
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. z 2023 r. poz. 518), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 23 kwietnia 2024 r. zmieniającym rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. poz. 668).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 23 kwietnia 2024 r. zmieniającego rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. poz. 668), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW z dnia 18 czerwca 2001 r.
+w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2024 r.
+poz. 388) zarządza się, co następuje:
+§ 1. Ustala się następujące morskie i stałe lotnicze przejścia graniczne oraz rodzaj ruchu dozwolonego przez te przejścia:
 1) morskie przejścia graniczne:
-a) Darłowo ruch osobowy towarowy,
-b) Dziwnów ruch osobowy morskimi statkami sportowymi towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
-c) Elbląg ruch osobowy towarowy,
-d) Frombork ruch osobowy towarowy,
-e) Gdańsk–Górki Zachodnie ruch osobowy morskimi statkami sportowymi towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
-f) Gdańsk–Port ruch osobowy towarowy,
+a) Darłowo – ruch osobowy i towarowy,
+b) Dziwnów – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
+c) Elbląg – ruch osobowy i towarowy,
+d) Frombork – ruch osobowy i towarowy,
+e) Gdańsk–Górki Zachodnie – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
+f) Gdańsk–Port – ruch osobowy i towarowy,
 g) (uchylona),
-h) Gdynia ruch osobowy towarowy,
-i) Hel ruch osobowy towarowy,
-j) Jastarnia ruch osobowy morskimi statkami sportowymi towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
-k) Kołobrzeg ruch osobowy towarowy,
-l) Łeba ruch osobowy towarowy, ł) Mrzeżyno ruch towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
-m) Nowe Warpno ruch osobowy,
-n) Szczecin ruch osobowy towarowy,
-o) Świnoujście ruch osobowy towarowy,
-p) Trzebież ruch osobowy,
-r) Ustka ruch osobowy towarowy,
-s) Władysławowo ruch osobowy towarowy,
+h) Gdynia – ruch osobowy i towarowy,
+i) Hel – ruch osobowy i towarowy,
+j) Jastarnia – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
+k) Kołobrzeg – ruch osobowy i towarowy,
+l) Łeba – ruch osobowy i towarowy, ł) Mrzeżyno – ruch towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
+m) Nowe Warpno – ruch osobowy,
+n) Szczecin – ruch osobowy i towarowy,
+o) Świnoujście – ruch osobowy i towarowy,
+p) Trzebież – ruch osobowy,
+r) Ustka – ruch osobowy i towarowy,
+s) Władysławowo – ruch osobowy i towarowy,
 t) (uchylona),
-u) Nowy Świat ruch osobowy towarowy;
+u) Nowy Świat – ruch osobowy i towarowy;
 2) stałe lotnicze przejścia graniczne:
-a) Gdańsk–Rębiechowo ruch osobowy towarowy,
-b) Katowice–Pyrzowice ruch osobowy towarowy,
-c) Kraków–Balice ruch osobowy towarowy,
-d) Poznań–Ławica ruch osobowy towarowy,
-e) Rzeszów–Jasionka ruch osobowy towarowy,
-f) Szczecin–Goleniów ruch osobowy towarowy,
-g) Warszawa–Okęcie ruch osobowy towarowy,
-h) Wrocław–Strachowice ruch osobowy towarowy,
-i) Bydgoszcz ruch osobowy towarowy,
+a) Gdańsk–Rębiechowo – ruch osobowy i towarowy,
+b) Katowice–Pyrzowice – ruch osobowy i towarowy,
+c) Kraków–Balice – ruch osobowy i towarowy,
+d) Poznań–Ławica – ruch osobowy i towarowy,
+e) Rzeszów–Jasionka – ruch osobowy i towarowy,
+f) Szczecin–Goleniów – ruch osobowy i towarowy,
+g) Warszawa–Okęcie – ruch osobowy i towarowy,
+h) Wrocław–Strachowice – ruch osobowy i towarowy,
+i) Bydgoszcz – ruch osobowy i towarowy,
 j) (uchylona),
-k) Łódź–Lublinek ruch osobowy towarowy,
+k) Łódź–Lublinek – ruch osobowy i towarowy,
 l) (uchylona),
-m) Warszawa/Modlin ruch osobowy towarowy,
-n) Świdnik k/Lublina ruch osobowy towarowy,
-o) Radom–Sadków ruch osobowy towarowy.
-§ 2. Traci moc rozporządzenie 22 listopada 1994 lotniczych przejść granicznych 659, 1995 548 1996 579).
-§ 3. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia .
+m) Warszawa/Modlin – ruch osobowy i towarowy,
+n) Świdnik k/Lublina – ruch osobowy i towarowy,
+o) Radom–Sadków – ruch osobowy i towarowy.
+§ 2. Traci moc rozporządzenie Rady Ministrów z dnia 22 listopada 1994 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych (Dz. U. poz. 659, z 1995 r. poz. 548 oraz z 1996 r. poz. 579).
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

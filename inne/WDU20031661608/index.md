@@ -8,7 +8,7 @@ pos: 1608
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zatrudnianiu pracowników tymczasowych
@@ -33,6 +33,13 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** pracodawca użytkownik – pracodawcę lub podmiot niebędący pracodawcą w rozumieniu Kodeksu pracy wyznaczający pracownikowi skierowanemu przez agencję pracy tymczasowej zadania i kontrolujący ich wykonanie;
+- **2)** pracownik tymczasowy – pracownika zatrudnionego przez agencję pracy tymczasowej wyłącznie w celu wykonywania pracy tymczasowej na rzecz i pod kierownictwem pracodawcy użytkownika;
+- **3)** praca tymczasowa – wykonywanie na rzecz danego pracodawcy użytkownika, przez okres nie dłuższy niż wskazany w ustawie, zadań:
+    - **a)** o charakterze sezonowym, okresowym, doraźnym lub
+    - **b)** których terminowe wykonanie przez pracowników zatrudnionych przez pracodawcę użytkownika nie byłoby możliwe, lub
+    - **c)** których wykonanie należy do obowiązków nieobecnego pracownika zatrudnionego przez pracodawcę użytkownika.
+
 **Art. 3.** (uchylony)
 
 **Art. 4.** Pracodawca nie może być pracodawcą użytkownikiem w stosunku do pracowników pozostających z nim w stosunku pracy.
@@ -50,6 +57,11 @@ source: "isap-pdf"
 2. Agencja pracy tymczasowej może, na podstawie umowy prawa cywilnego, kierować osoby niebędące pracownikami takiej agencji do wykonywania pracy tymczasowej.
 
 **Art. 8.** Pracownikowi tymczasowemu nie może być powierzone wykonywanie na rzecz pracodawcy użytkownika pracy:
+
+- **1)** szczególnie niebezpiecznej w rozumieniu przepisów wydanych na podstawie art. 237 Kodeksu pracy;
+- **2)** na stanowisku pracy, na którym jest zatrudniony pracownik pracodawcy użytkownika, w okresie uczestniczenia tego pracownika w strajku;
+- **3)** tego samego rodzaju co praca wykonywana przez pracownika pracodawcy użytkownika, z którym został rozwiązany stosunek pracy z przyczyn niedotyczących pracowników w okresie ostatnich 3 miesięcy poprzedzających przewidywany termin rozpoczęcia wykonywania pracy tymczasowej przez pracownika tymczasowego, jeżeli taka praca miałaby być wykonywana w jakiejkolwiek jednostce organizacyjnej pracodawcy użytkownika położonej w gminie, na terenie której znajduje się lub znajdowała się jednostka organizacyjna, w której był zatrudniony zwolniony pracownik;
+- **4)** wymagającej uzbrojenia pracownika ochrony w broń palną bojową lub przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej, których posiadanie wymaga uzyskania pozwolenia, o którym mowa w ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2024 r. poz. 485).
 
 **Art. 9.**
 
@@ -92,6 +104,10 @@ source: "isap-pdf"
 **Art. 11b.** Osoba, której ma być powierzone wykonywanie pracy tymczasowej na podstawie umowy o pracę albo umowy prawa cywilnego, przedkłada agencji pracy tymczasowej świadectwa pracy lub inne dokumenty potwierdzające okresy wykonywania pracy tymczasowej na rzecz danego pracodawcy użytkownika na podstawie umowy o pracę oraz składa pisemne oświadczenie lub przedkłada zaświadczenia potwierdzające okresy wykonywania pracy tymczasowej na rzecz danego pracodawcy użytkownika na podstawie umowy prawa cywilnego, o których mowa w art. 25a ust. 2, z okresu 36 miesięcy poprzedzających przewidywany termin rozpoczęcia wykonywania pracy tymczasowej u danego pracodawcy użytkownika.
 
 **Art. 11c.** W celu umożliwienia agencji pracy tymczasowej spełnienia obowiązku, o którym mowa w art. 29 § 3‒3 Kodeksu pracy, pracodawca użytkownik informuje agencję pracy tymczasowej na piśmie o:
+
+- **1)** przysługujących pracownikowi przerwach w pracy;
+- **2)** w przypadku pracy zmianowej – zasadach dotyczących przechodzenia ze zmiany na zmianę;
+- **3)** innych niż uzgodnione w umowie o pracę składnikach wynagrodzenia oraz świadczeniach pieniężnych lub rzeczowych.
 
 **Art. 12.** Ustalenie między agencją pracy tymczasowej a pracodawcą użytkownikiem warunku niezatrudnienia pracownika tymczasowego przez pracodawcę użytkownika po zakończeniu wykonywania pracy tymczasowej jest nieważne.
 
@@ -288,6 +304,13 @@ source: "isap-pdf"
 - **6)** nie wypełnia innych obowiązków, uzgodnionych z agencją pracy tymczasowej, związanych z wykonywaniem pracy tymczasowej przez pracownika tymczasowego.
 
 **Art. 27a.** Kto, będąc agencją pracy tymczasowej lub działając w jej imieniu, kieruje pracownika tymczasowego do wykonywania pracy:
+
+- **1)** szczególnie niebezpiecznej w rozumieniu przepisów wydanych na podstawie art. 237 Kodeksu pracy,
+- **2)** na stanowisku pracy, na którym jest zatrudniony pracownik pracodawcy użytkownika w okresie uczestniczenia tego pracownika w strajku,
+- **3)** tego samego rodzaju co praca wykonywana przez pracownika pracodawcy użytkownika, z którym został rozwiązany stosunek pracy z przyczyn niedotyczących pracowników w okresie ostatnich 3 miesięcy poprzedzających przewidywany termin rozpoczęcia wykonywania pracy tymczasowej przez pracownika tymczasowego, jeżeli taka praca miałaby być wykonywana w jakiejkolwiek jednostce organizacyjnej pracodawcy użytkownika położonej w gminie, na terenie której znajduje się lub znajdowała się jednostka organizacyjna, w której był zatrudniony zwolniony pracownik,
+- **4)** wymagającej uzbrojenia pracownika ochrony w broń palną bojową lub przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej, których posiadanie wymaga uzyskania pozwolenia, o którym mowa w ustawie z dnia 21 maja 1999 r. o broni i amunicji,
+- **5)** tymczasowej na rzecz jednego pracodawcy użytkownika przez okres przekraczający łącznie 18 miesięcy w okresie obejmującym 36 kolejnych miesięcy,
+- **6)** tymczasowej na rzecz jednego pracodawcy użytkownika przez okres przekraczający 36 miesięcy, jeżeli pracownik tymczasowy wykonuje w sposób ciągły pracę tymczasową obejmującą zadania, których wykonanie należy do obowiązków nieobecnego pracownika zatrudnionego przez danego pracodawcę użytkownika – podlega karze grzywny od 1000 do 30 000 zł.
 
 **Art. 27b.**
 

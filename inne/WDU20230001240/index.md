@@ -8,10 +8,10 @@ pos: 1240
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1240 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 19 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1240/text.pdf) |
 
-ROZPORZĄDZENIE RADY MINISTRÓW z dnia 19 czerwca 2023 r.
-w sprawie wykazu prac wzbronionych młodocianym i warunków ich zatrudniania przy niektórych z tych prac Na podstawie art. 204 § 1 i 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641) zarządza się, co następuje: § 1. Ustala się wykaz prac wzbronionych młodocianym, który jest określony w załączniku nr 1 do rozporządzenia.
+w sprawie wykazu prac wzbronionych młodocianym i warunków ich zatrudniania przy niektórych z tych prac Na podstawie art. 204 § 1 i 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641) zarządza się, co następuje:
+§ 1. Ustala się wykaz prac wzbronionych młodocianym, który jest określony w załączniku nr 1 do rozporządzenia.
 § 2. Zezwala się na zatrudnianie młodocianych w wieku powyżej 16 lat przy niektórych rodzajach prac wzbronionych młodocianym, które są określone w załączniku nr 2 do rozporządzenia, jeżeli jest to niezbędne do odbycia przygotowania zawodowego.
 § 3. Zatrudnienie młodocianych przy pracach, o których mowa w § 2, nie może mieć charakteru pracy stałej, lecz ma ograniczać się do zaznajamiania młodocianych z czynnościami niezbędnymi do odbycia przygotowania zawodowego.
 § 4. 1. Pracodawca zatrudniający pracowników młodocianych przy pracach, o których mowa w § 2, podejmuje działania niezbędne do zapewnienia im bezpieczeństwa i szczególnej ochrony zdrowia podczas pracy, biorąc pod uwagę zwiększone ryzyko wynikające z braku ich doświadczenia, świadomości istniejących lub potencjalnych zagrożeń oraz niepełnej dojrzałości fizycznej i psychicznej, w tym:
@@ -34,7 +34,7 @@ w sprawie wykazu prac wzbronionych młodocianym i warunków ich zatrudniania prz
 2) informuje młodocianych, w sposób dla nich zrozumiały, o możliwych zagrożeniach i o wszelkich podjętych działaniach dotyczących ochrony ich zdrowia;
 3) organizuje przerwy w pracy młodocianych dla ich odpoczynku w pomieszczeniach odizolowanych od czynników niebezpiecznych, szkodliwych dla zdrowia lub uciążliwych;
 4) dostarcza młodocianemu nieodpłatnie środki ochrony indywidualnej zabezpieczające przed działaniem niebezpiecznych i szkodliwych dla zdrowia czynników występujących w środowisku pracy oraz informuje młodocianych o sposobach posługiwania się tymi środkami;
-5) dostarcza młodocianemu nieodpłatnie odzież i obuwie robocze, zgodnie z przepisami art. 237 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+5) dostarcza młodocianemu nieodpłatnie odzież i obuwie robocze, zgodnie z przepisami art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 2. Dopuszczenie młodocianych do prac, o których mowa w § 2, następuje na podstawie oceny ryzyka związanego z wykonywaną pracą, dokonanej przez pracodawcę przed rozpoczęciem pracy przez młodocianych lub przy zmianie organizacji pracy. Podczas oceny ryzyka uwzględnia się w szczególności:
 1) ocenę wyposażenia oraz organizacji stanowisk i miejsc pracy młodocianych;
 2) organizację procesów pracy oraz ich powiązanie;
@@ -53,12 +53,12 @@ Prezes Rady Ministrów: M. Morawiecki WYKAZ PRAC WZBRONIONYCH MŁODOCIANYM I. PR
 1. Prace związane z nadmiernym wysiłkiem fizycznym:
 1) Prace polegające wyłącznie na podnoszeniu, przenoszeniu i przewożeniu ciężarów oraz prace wymagające powtarzania dużej liczby jednorodnych ruchów.
 2) Prace, przy których najwyższe wartości obciążenia pracą fizyczną, mierzone wydatkiem energetycznym netto na wykonywanie pracy, przekraczają:
-a) dla młodocianych kobiet w odniesieniu do 6-godzinnego dobowego czasu pracy 2300 kJ, a w odniesieniu do wysiłków krótkotrwałych 10,5 kJ na minutę,
-b) dla młodocianych mężczyzn w odniesieniu do 6-godzinnego dobowego czasu pracy 3030 kJ, a w odniesieniu do wysiłków krótkotrwałych 12,6 kJ na minutę.
+a) dla młodocianych kobiet – w odniesieniu do 6-godzinnego dobowego czasu pracy – 2300 kJ, a w odniesieniu do wysiłków krótkotrwałych 10,5 kJ na minutę,
+b) dla młodocianych mężczyzn – w odniesieniu do 6-godzinnego dobowego czasu pracy – 3030 kJ, a w odniesieniu do wysiłków krótkotrwałych 12,6 kJ na minutę.
 3) Prace załadunkowe i wyładunkowe, przy przewożeniu ciężarów środkami transportu, przy przetaczaniu beczek, bali, kloców itp.
 4) Pozostałe prace ujęte w przepisach dotyczących ręcznych prac transportowych, wydanych na podstawie art. 237 § 1 Kodeksu pracy, przekraczające wartość obciążenia młodocianych:
 a) dla młodocianych kobiet 60% dopuszczalnej wartości obciążenia dla kobiet,
-b) dla młodocianych mężczyzn 40% dopuszczalnej wartości obciążenia dla mężczyzn z wyłączeniem wartości określonych w pkt 2.
+b) dla młodocianych mężczyzn 40% dopuszczalnej wartości obciążenia dla mężczyzn – z wyłączeniem wartości określonych w pkt 2.
 2. Prace wymagające stale wymuszonej i niewygodnej pozycji ciała:
 1) Prace wykonywane w pozycji pochylonej lub w przysiadzie.
 2) Prace wykonywane w pozycji leżącej, na boku lub na wznak, w tym w szczególności przy naprawach pojazdów mechanicznych.
@@ -131,8 +131,8 @@ c) prace w kesonach.
 14) Prace w warunkach obniżonego ciśnienia, w tym w szczególności w komorach niskich ciśnień lub w innych urządzeniach hipobarycznych nawodnych lub naziemnych.
 3. Prace w narażeniu na szkodliwe działanie czynników biologicznych:
 1) Prace w narażeniu na czynniki biologiczne zakwalifikowane do następującej grupy zagrożenia, zgodnie z przepisami dotyczącymi szkodliwych czynników biologicznych dla zdrowia w środowisku pracy oraz ochrony zdrowia pracowników zawodowo narażonych na te czynniki, wydanych na podstawie art. 222 § 3 Kodeksu pracy:
-a) oznaczone dodatkowo jako A (możliwe efekty alergiczne) lub T (produkcja toksyn) lub D (wykaz pracowników narażonych na działanie tego czynnika biologicznego ma być przechowywany przez okres 10 lat po zakończeniu ostatniego zanotowanego przypadku narażenia), jeżeli prawidłowo przeprowadzona ocena narażenia na szkodliwe czynniki biologiczne wykazała ich obecność na stanowisku pracy grupa 2 zagrożenia,
-b) jeżeli prawidłowo przeprowadzona ocena narażenia na szkodliwe czynniki biologiczne wykazała ich obecność na stanowisku pracy grupa 3 lub 4 zagrożenia.
+a) oznaczone dodatkowo jako A (możliwe efekty alergiczne) lub T (produkcja toksyn) lub D (wykaz pracowników narażonych na działanie tego czynnika biologicznego ma być przechowywany przez okres 10 lat po zakończeniu ostatniego zanotowanego przypadku narażenia), jeżeli prawidłowo przeprowadzona ocena narażenia na szkodliwe czynniki biologiczne wykazała ich obecność na stanowisku pracy – grupa 2 zagrożenia,
+b) jeżeli prawidłowo przeprowadzona ocena narażenia na szkodliwe czynniki biologiczne wykazała ich obecność na stanowisku pracy – grupa 3 lub 4 zagrożenia.
 2) Prace, przy których źródłem zakażenia lub zarażenia może być chory człowiek lub materiał zakaźny pochodzenia ludzkiego, w tym krew, tkanki, mocz, kał, w szczególności wszelkie prace w szpitalach zakaźnych lub oddziałach zakaźnych.
 3) Prace, przy których występują zagrożenia czynnikami biologicznymi przenoszonymi na człowieka przez kontakt ze zwierzętami lub produktami pochodzenia zwierzęcego, w szczególności:
 a) drobnoustrojami wywołującymi choroby odzwierzęce (zoonozy),
@@ -197,7 +197,7 @@ a) wynoszenia, mycia i dezynfekcji naczyń z wydalinami, wydzielinami i innymi m
 b) prac dezynfekcyjnych, dezynsekcyjnych, deratyzacyjnych z zastosowaniem toksycznych środków chemicznych,
 c) pobierania i przenoszenia materiałów do badań laboratoryjnych, takich jak: kał, mocz, krew, plwocina,
 d) wykonywania toalety pośmiertnej i prac w prosektoriach.
-2) Prace przy ręcznym i maszynowym krojeniu skór w wymiarze do 3 godzin na dobę.
+2) Prace przy ręcznym i maszynowym krojeniu skór – w wymiarze do 3 godzin na dobę.
 3) Prace młynarskie przy obsłudze maszyn czyszczących i mielących, wykonywane przez młodocianych.
 4) Prace w narażeniu na czynniki stwarzające ryzyko uczulenia, pod warunkiem uzyskania specjalistycznej opinii lekarskiej o braku przeciwwskazań zdrowotnych do kontaktu z tymi czynnikami i profilaktycznym stosowaniu odpowiednich środków ochrony skóry i układu oddechowego.
 III. PRACE STWARZAJĄCE ZAGROŻENIA WYPADKOWE
@@ -210,7 +210,7 @@ III. PRACE STWARZAJĄCE ZAGROŻENIA WYPADKOWE
 7) Prace w zagłębieniach do 1,5 m obudowanych zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 237 § 2 Kodeksu pracy, dotyczących bezpieczeństwa i higieny pracy podczas wykonywania robót budowlanych.
 8) Niektóre rodzaje prac pod ziemią w podziemnych zakładach górniczych oraz w odkrywkowych i otworowych zakładach górniczych przewidziane w programach nauczania zawodów, wykonywane przez młodocianych, pod warunkiem spełnienia łącznie następujących wymagań:
 a) czas pracy młodocianych w odkrywkowych i otworowych zakładach górniczych nie może przekraczać 4 godzin na dobę,
-b) czas pracy młodocianych pod ziemią nie może przekraczać 14 dni w miesiącu, przy czym ich czas pracy nie może przekraczać 4 godzin w ciągu zmiany roboczej, a młodocianych w wieku powyżej 17 lat 6 godzin na dobę, włączając do czasu pracy zjazd i dojście do stanowiska pracy,
+b) czas pracy młodocianych pod ziemią nie może przekraczać 14 dni w miesiącu, przy czym ich czas pracy nie może przekraczać 4 godzin w ciągu zmiany roboczej, a młodocianych w wieku powyżej 17 lat – 6 godzin na dobę, włączając do czasu pracy zjazd i dojście do stanowiska pracy,
 c) w czasie szkolenia zawodowego młodociani mogą być zatrudniani w polach szkoleniowych, tj. w oddziałach ruchowych zakładu górniczego specjalnie przeznaczonych do szkolenia, lub na stanowiskach szkoleniowych w warsztatach energomechanicznych i w oddziałach ruchowych zakładu górniczego, zatwierdzonych do celów szkoleniowych w planie ruchu zakładu górniczego przez właściwy organ nadzoru górniczego,
 d) zatrudnianie młodocianych na stanowiskach szkoleniowych w warsztatach energomechanicznych i w oddziałach ruchowych zakładu górniczego odbywa się przy pełnej obsadzie pracowników dorosłych z odpowiednimi kwalifikacjami zawodowymi,
 e) praca młodocianych pod ziemią nie może odbywać się w chodnikach wymagających pozycji leżącej lub pochylonej, w miejscach mokrych, przy rabunku, w polach pożarowych oraz w warunkach niebezpiecznych, gdzie wymagana jest duża ostrożność i doświadczenie,
@@ -226,5 +226,5 @@ f) związane z bezpośrednią obsługą kombajnów, sieczkarni, młockarni, kos,
 g) wykonywane w warsztatach szkolnych lub na stanowiskach szkoleniowych w zakładach pracy przystosowanych do prowadzenia praktycznej nauki zawodu przy pozyskiwaniu, zrywce i transporcie drewna.
 10) Prace przy nieodpowiednim oświetleniu:
 a) w pomieszczeniach zaciemnionych (ciemniach fotograficznych), w wymiarze do 2 godzin na dobę,
-b) w zakresie potrzebnym do przygotowania zawodowego: w konserwatoriach filmów, w ciemniach filmowych, przy montażu filmów, w charakterze pomocy przy obsłudze aparatów projekcyjnych 35 mm wyposażonych w lampy łukowe, pod warunkiem nieprzekraczania przy tych pracach 4 godzin na dobę, a w kabinie kinooperatora czasu pracy w ciągu 2 seansów.
+b) w zakresie potrzebnym do przygotowania zawodowego: – w konserwatoriach filmów, – w ciemniach filmowych, – przy montażu filmów, – w charakterze pomocy przy obsłudze aparatów projekcyjnych 35 mm wyposażonych w lampy łukowe, pod warunkiem nieprzekraczania przy tych pracach 4 godzin na dobę, a w kabinie kinooperatora – czasu pracy w ciągu 2 seansów.
 

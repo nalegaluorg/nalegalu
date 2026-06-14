@@ -1,0 +1,178 @@
+---
+title: Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o ochronie zwierząt
+address: WDU20090790668
+eli: DU/2009/668
+publisher: DU
+year: 2009
+pos: 668
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy o ochronie zwierząt
+
+*USTAWA z dnia 24 kwietnia 2009 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2009 nr 79 poz. 668 |
+| ISAP | WDU20090790668 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2009-04-24 |
+| Data wydania | 2009-05-29 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090790668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/668/text.pdf) |
+
+**Art. 1.** stawie: W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** odnośnik nr 1 otrzymuje brzmienie: „ Przepisy niniejszej ustawy:
+- **1)** wdrażają postanowienia:
+    - **a)** dyrektywy Rady 93/119/WE z dnia 22 grudnia 1993 r. w sprawie ochrony zwierząt podczas uboju lub zabijania (Dz. Urz. WE L 340 z 31.12.1993, str. 21, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 15, str. 421, z późn. zm.),
+    - **b)** dyrektywy Rady 98/58/WE z dnia 20 lipca 1998 r. dotyczącej ochrony zwierząt hodowlanych (Dz. Urz. WE L 221 z
+
+08. 08.1998, str. 23, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 23, str. 316, z późn. zm.),
+
+- **c)** dyrektywy Rady 99/74/WE z dnia 19 lipca 1999 r. ustanawiającej minimalne normy ochrony kur niosek (Dz. Urz. WE L 203 z
+
+03. 08.1999, str. 53, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 26, str. 225, z późn. zm.), Urz. UE L 182 z 12.07.2007, str. 19),
+
+- **d)** dyrektywy Rady 2007/43/WE z dnia 28 czerwca 2007 r. w sprawie ustanowienia minimalnych zasad dotyczących ochrony kurcząt utrzymywanych z przeznaczeniem na produkcję mięsa (Dz.
+- **e)** dyrektywy Rady 2008/119/WE z dnia 18 grudnia 2008 r. ustanawiającej minimalne normy ochrony cieląt (Dz. Urz. UE L 10 z
+
+15. 01.2009, str. 7),
+
+- **f)** dyrektywy Rady 2008/120/WE z dnia 18 grudnia 2008 r. ustanawiającej minimalne normy ochrony świń (Dz. Urz. UE L 47 z
+
+18. 02.2009, str. 5);
+
+- **2)** wykonują postanowienia rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z
+
+05. 01.2005, str. 1).”;
+
+- **2)** w art. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Ustawa reguluje postępowanie ze zwierzętami kręgowymi, w tym:”;
+- **3)** w art. 4 w pkt 23 kropkę zastępuje się średnikiem i dodaje się pkt 24 w brzmieniu: „24) „kurczętach brojlerach” – rozumie się przez to ptaki z gatunku Gallus gallus utrzymywane w celu pozyskania mięsa.”;
+- **4)** w art. 12:
+    - **a)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wymagania i sposób postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej obowiązujących w tym zakresie, mając na względzie zapewnienie tym zwierzętom właściwych warunków bytowania i opieki oraz wpływ tych warunków na zdrowie i dobrostan zwierząt.”,
+    - **b)** dodaje się ust. 8 w brzmieniu: „8. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, minimalne warunki utrzymywania gatunków zwierząt gospodarskich innych niż wymienione w ust. 7, mając na względzie zapewnienie tym zwierzętom właściwych warunków bytowania.”;
+
+- **5)** po art. 12 dodaje się art. 12a–12j w brzmieniu: „Art. 12a. 1. Posiadacz kurnika, w którym są utrzymywane kurczęta brojlery, zwany dalej „posiadaczem kurnika”, sprawuje samodzielnie opiekę nad kurczętami brojlerami lub zapewnia sprawowanie tej opieki przez osoby, które:
+- **1)** odbyły szkolenie w zakresie przepisów dotyczących ochrony kurcząt brojlerów lub
+- **2)** sprawowały opiekę nad kurczętami brojlerami nieprzerwanie od dnia 30 czerwca 2009 r. do dnia 30 czerwca 2010 r., lub
+- **3)** ukończyły szkolenie w zakresie warunków utrzymywania zwierząt gospodarskich, które zostało przeprowadzone w okresie od dnia 1 maja 2004 r. do dnia 30 czerwca 2010 r., i mają zaświadczenie potwierdzające ukończenie takiego szkolenia, lub
+- **4)** są absolwentami zawodowych szkół prowadzących kształcenie w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ), związanych z chowem lub hodowlą zwierząt, lub
+- **5)** są absolwentami szkół wyższych na kierunku weterynaria, zootechnika lub rolnictwo – zwane dalej „opiekunami”.
+
+2. Posiadacz kurnika może powierzyć opiekę nad kurczętami brojlerami również osobie prawnej albo jednostce organizacyjnej nieposiadającej osobowości prawnej, jeżeli podmioty te zapewnią, że opiekę nad kurczętami brojlerami będą sprawować osoby spełniające warunki określone w ust. 1.
+
+**Art. 12b.**
+
+1. Szkolenie, o którym mowa w art. 12a ust. 1 pkt 1, jest przeprowadzane przez podmiot, który został upoważniony do prowadzenia takiego szkolenia, w drodze decyzji, przez wojewódzkiego lekarza weterynarii właściwego ze względu na siedzibę tego podmiotu, a w przypadku osób fizycznych – właściwego ze względu na miejsce zamieszkania lub miejsce wykonywania działalności gospodarczej.
+
+2. Wojewódzki lekarz weterynarii, na wniosek podmiotu, o którym mowa w ust. 1, wydaje upoważnienie do prowadzenia szkolenia, jeżeli podmiot spełnia warunki kadrowe, organizacyjne i techniczne określone w przepisach wydanych na podstawie ust. 6 pkt 1 oraz przedstawi:
+
+- **1)** szczegółowy program szkolenia zawierający następujące zagadnienia:
+    - **a)** wymagania i sposób postępowania przy utrzymywaniu kurcząt brojlerów,
+    - **b)** fizjologię zwierząt, ich potrzeby w zakresie karmienia, pojenia oraz zachowanie zwierząt i pojęcie stresu,
+    - **c)** praktyczne aspekty obchodzenia się z kurczętami brojlerami podczas ich wyłapywania, załadunku i transportu,
+    - **d)** zasady opieki nad kurczętami brojlerami oraz procedury uśmiercania lub uboju w nagłych przypadkach,
+    - **e)** profilaktyczne środki bezpieczeństwa biologicznego;
+
+- **2)** plan realizacji (harmonogram) szkolenia;
+- **3)** listę osób, które będą prowadziły szkolenie.
+
+3. Podmioty upoważnione do prowadzenia szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, wydają zaświadczenia o jego ukończeniu osobom, które uczestniczyły we wszystkich zajęciach objętych programem szkolenia, co zostało potwierdzone na liście obecności.
+
+4. Wojewódzki lekarz weterynarii przeprowadza kontrole podmiotu upoważnionego do prowadzenia szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, w zakresie spełniania wymagań kadrowych, organizacyjnych i technicznych umożliwiających przeprowadzenie tego szkolenia i prowadzenia tego szkolenia zgodnie z jego szczegółowym programem.
+
+5. Wojewódzki lekarz weterynarii może cofnąć, w drodze decyzji, upoważnienie, o którym mowa w ust. 2, jeżeli w wyniku przeprowadzonej kontroli stwierdzi, że podmiot nie spełnia warunków kadrowych, organizacyjnych i technicznych umożliwiających prowadzenie szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, lub prowadzi to szkolenie niezgodnie z jego szczegółowym programem.
+
+6. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** warunki kadrowe, organizacyjne i techniczne, jakie powinien spełniać podmiot upoważniony do prowadzenia szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, mając na względzie zapewnienie właściwego poziomu prowadzenia tego szkolenia;
+- **2)** wzór zaświadczenia, o którym mowa w ust. 3, mając na względzie ujednolicenie dokumentów potwierdzających odbycie szkolenia, o którym mowa w art. 12a ust. 1 pkt 1.
+
+**Art. 12c.** Posiadacz kurnika lub opiekunowie przekazują osobom wykonującym czynności związane z utrzymywaniem kurcząt brojlerów informacje i instrukcje dotyczące ich utrzymywania, wyłapywania, załadunku i uśmiercania.
+
+**Art. 12d.** Posiadacz kurnika lub opiekunowie mogą zwiększyć obsadę kurcząt brojlerów w kurniku, w którym są utrzymywane te kurczęta, jeżeli:
+
+- **1)** są spełnione wymagania dotyczące zwiększenia obsady kurcząt brojlerów w kurniku, określone w przepisach wydanych na podstawie art. 12 ust. 7;
+- **2)** powiadomią o takim zamiarze powiatowego lekarza weterynarii właściwego ze względu na lokalizację kurnika, w którym są utrzymywane kurczęta brojlery, co najmniej 15 dni przed umieszczeniem stada w tym kurniku, podając planowany poziom obsady.
+
+**Art. 12e.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, sposób ustalania poziomu obsady kurcząt brojlerów w kurniku, w którym są utrzymywane te kurczęta, mając na względzie ujednolicenie sposobu obliczania łącznej masy żywych kurcząt brojlerów w przeliczeniu na 1 m dostępnej im powierzchni użytkowej.
+
+**Art. 12f.**
+
+1. Posiadacz kurnika lub opiekunowie prowadzą dla każdego kurnika, w którym są utrzymywane kurczęta brojlery, dokumentację zawierającą:
+
+- **1)** informacje o:
+    - **a)** liczbie wprowadzonych kurcząt brojlerów,
+    - **b)** powierzchni użytkowej,
+    - **c)** liczbie padłych kurcząt brojlerów stwierdzonej podczas każdej kontroli i przyczynach ich śmierci,
+    - **d)** liczbie kurcząt brojlerów uśmierconych i przyczynach ich uśmiercenia,
+    - **e)** liczbie kurcząt brojlerów pozostałych w stadzie po sprzedaży lub po uśmierceniu;
+
+- **2)** nazwę mieszańca kurcząt brojlerów, jeżeli jest znana.
+
+2. Dokumentacja, o której mowa w ust. 1, jest przechowywana przez 3 lata od dnia umieszczenia kurcząt brojlerów w kurniku, w którym są one utrzymywane, i udostępniana powiatowemu lekarzowi weterynarii.
+
+3. Posiadacz kurnika lub opiekunowie zaopatrują wysyłane do ubojni kurczęta brojlery, pochodzące z kurnika o zwiększonej obsadzie, w informację zawierającą:
+
+- **1)** nazwę mieszańca kurcząt brojlerów, jeżeli jest znana;
+- **2)** wskaźnik śmiertelności dziennej, który oblicza się dzieląc liczbę kurcząt brojlerów padłych w kurniku tego samego dnia, w tym uśmierconych z powodu choroby lub z innych przyczyn, przez liczbę kurcząt brojlerów znajdujących się w kurniku w tym dniu, i mnożąc otrzymaną wartość przez 100;
+- **3)** skumulowany wskaźnik śmiertelności dziennej, będący sumą wskaźników śmiertelności dziennej.
+
+**Art. 12g.**
+
+1. Podmiot prowadzący ubojnię gromadzi, pod nadzorem urzędowego lekarza weterynarii w rozumieniu przepisów o kontroli weterynaryjnej w handlu, dane dotyczące gospodarstwa, z którego pochodzą kurczęta brojlery, kurnika, w którym są utrzymywane kurczęta brojlery, i liczby kurcząt brojlerów padłych podczas transportu do ubojni oraz dane i informacje, o których mowa w art. 12f ust. 3 pkt 2 i 3.
+
+2. Urzędowy lekarz weterynarii po przeprowadzeniu kontroli, o której mowa w art. 5 rozporządzenia (WE) nr 854/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące organizacji urzędowych kontroli w odniesieniu do produktów pochodzenia zwierzęcego przeznaczonych do spożycia przez ludzi (Dz. Urz. UE L 139 z
+
+30. 04.2004, str. 206, z późn. zm.; Dz. Urz. Polskie wydanie specjalne, rozdz. 3, t. 45, str. 75), i na podstawie wyników badania poubojowego, określa poziom dobrostanu kurcząt brojlerów, w tym częstotliwość występowania przypadków kontaktowego zapalenia skóry, zarobaczenia i chorób ogólnoustrojowych w kurniku, w którym są utrzymywane kurczęta brojlery, lub w gospodarstwie, z którego pochodziły kurczęta brojlery poddane ubojowi.
+
+3. W przypadku gdy wyniki badania poubojowego lub dane i informacje, o których mowa w art. 12f ust. 3 pkt 2 i 3, wskazują na niski poziom dobrostanu, urzędowy lekarz weterynarii przekazuje informacje zawierające wyniki badania poubojowego posiadaczowi kurnika lub opiekunom oraz powiatowemu lekarzowi weterynarii, właściwemu ze względu na lokalizację kurnika, w którym są utrzymywane kurczęta brojlery.
+
+4. Posiadacz kurnika lub opiekunowie podejmują, pod nadzorem powiatowego lekarza weterynarii właściwego ze względu na lokalizację kurnika, działania mające na celu poprawę dobrostanu kurcząt brojlerów.
+
+**Art. 12h.**
+
+1. Powiatowy lekarz weterynarii przeprowadza kontrole gospodarstw, w których są utrzymywane kurczęta brojlery, w sposób określony w rozporządzeniu (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt (Dz. Urz. UE L 165 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200).
+
+2. Powiatowy lekarz weterynarii, za pośrednictwem wojewódzkiego lekarza weterynarii, przekazuje Głównemu Lekarzowi Weterynarii informacje o:
+
+- **1)** wynikach kontroli, o których mowa w ust. 1;
+- **2)** wynikach badań poubojowych, o których mowa w art. 12g ust. 2, i podjętych działaniach mających na celu poprawę dobrostanu kurcząt brojlerów.
+
+**Art. 12i.**
+
+1. Główny Lekarz Weterynarii przekazuje Komisji Europejskiej:
+
+- **1)** sprawozdanie z monitorowania wybranych stad kurcząt brojlerów poddanych ubojowi w okresie 12 miesięcy;
+- **2)** coroczne sprawozdanie z kontroli przeprowadzonych w gospodarstwach, w których są utrzymywane kurczęta brojlery, wraz z wykazem podjętych działań mających na celu poprawę dobrostanu tych kurcząt.
+
+2. Sprawozdanie, o którym mowa w ust. 1 pkt 2, jest przekazywane do dnia 30 czerwca następnego roku.
+
+**Art. 12j.** Przepisów art. 12a–12i nie stosuje się do:
+
+- **1)** gospodarstw, w których liczba utrzymywanych kurcząt brojlerów jest mniejsza niż 500 sztuk;
+- **2)** gospodarstw utrzymujących wyłącznie stada hodowlane;
+- **3)** stad hodowlanych w gospodarstwach utrzymujących zarówno stada hodowlane, jak i stada produkcyjne;
+- **4)** zakładów wylęgu drobiu;
+- **5)** kurcząt utrzymywanych w systemie ekstensywnego chowu ściółkowego z dostępem do wolnego wybiegu, o których mowa w rozporządzeniu Komisji (WE) nr 543/2008 z dnia 16 czerwca 2008 r. wprowadzającym szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1243/2007 w sprawie niektórych norm handlowych w odniesieniu do mięsa drobiowego (Dz. Urz. UE L 157 z 17.06.2008, str. 46, z późn. zm.) w załączniku V, w lit. b–e;
+- **6)** kurcząt utrzymywanych zgodnie z metodami produkcji ekologicznej w sposób określony w rozporządzeniu Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1) oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia.”;
+- **6)** po art. 37c dodaje się art. 37d w brzmieniu: „Art. 37d. 1. Kto:
+- **1)** będąc posiadaczem kurnika nie zapewnia sprawowania opieki nad kurczętami brojlerami przez osoby spełniające warunki, o których mowa w art. 12a ust. 1,
+- **2)** zwiększa obsadę kurcząt brojlerów wbrew wymaganiom określonym w art. 12d,
+- **3)** nie prowadzi dokumentacji, o której mowa w art. 12f ust. 1, lub prowadzi ją niezgodnie z tym przepisem,
+- **4)** nie przechowuje lub nie udostępnia dokumentacji, o której mowa w art. 12f ust. 1, zgodnie z przepisem art. 12f ust. 2,
+- **5)** nie zaopatruje wysyłanych do ubojni kurcząt brojlerów pochodzących z kurnika o zwiększonej obsadzie w informacje, o których mowa w art. 12f ust. 3 – podlega karze grzywny.
+
+2. Orzekanie w sprawach, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.”.
+
+**Art. 2.** Przepisy wykonawcze wydane na podstawie art. 12 ust. 7 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12 ust. 7 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej niż do dnia 30 czerwca 2010 r.
+
+**Art. 3.** Ustawa wchodzi w życie z dniem 30 czerwca 2010 r., z wyjątkiem art. 1 pkt 2 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.*
 
-Łącznie: **2355** orzeczeń w **83** artykułach
-(pominięto 2997 orzeczeń sądów rejonowych)
+Łącznie: **2359** orzeczeń w **83** artykułach
+(pominięto 3012 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -32,7 +32,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 14 | 5 | 0 | 0 | 5 | 0 | 0 | [art-14.csv](orzecznictwo/art-14.csv) |
 | art. 15 | 43 | 0 | 1 | 42 | 0 | 0 | [art-15.csv](orzecznictwo/art-15.csv) |
 | art. 16 | 43 | 0 | 1 | 42 | 0 | 0 | [art-16.csv](orzecznictwo/art-16.csv) |
-| art. 17 | 290 | 7 | 11 | 272 | 7 | 1 | [art-17.csv](orzecznictwo/art-17.csv) |
+| art. 17 | 292 | 7 | 11 | 274 | 7 | 1 | [art-17.csv](orzecznictwo/art-17.csv) |
 | art. 18 | 242 | 1 | 11 | 230 | 1 | 0 | [art-18.csv](orzecznictwo/art-18.csv) |
 | art. 18 § 1 | 2 | 0 | 0 | 2 | 0 | 0 | [art-18-par-1.csv](orzecznictwo/art-18-par-1.csv) |
 | art. 18 § 2 | 6 | 0 | 0 | 6 | 0 | 0 | [art-18-par-2.csv](orzecznictwo/art-18-par-2.csv) |
@@ -45,7 +45,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 30 | 17 | 0 | 5 | 12 | 0 | 0 | [art-30.csv](orzecznictwo/art-30.csv) |
 | art. 30 § 4 | 1 | 0 | 0 | 1 | 0 | 0 | [art-30-par-4.csv](orzecznictwo/art-30-par-4.csv) |
 | art. 31 | 15 | 0 | 1 | 14 | 0 | 0 | [art-31.csv](orzecznictwo/art-31.csv) |
-| art. 32 | 50 | 1 | 1 | 48 | 1 | 0 | [art-32.csv](orzecznictwo/art-32.csv) |
+| art. 32 | 51 | 1 | 1 | 49 | 1 | 0 | [art-32.csv](orzecznictwo/art-32.csv) |
 | art. 33 | 5 | 0 | 0 | 5 | 0 | 0 | [art-33.csv](orzecznictwo/art-33.csv) |
 | art. 34 | 5 | 0 | 0 | 5 | 0 | 0 | [art-34.csv](orzecznictwo/art-34.csv) |
 | art. 35 | 6 | 0 | 0 | 6 | 0 | 0 | [art-35.csv](orzecznictwo/art-35.csv) |
@@ -80,9 +80,9 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 63 | 7 | 1 | 1 | 5 | 0 | 1 | [art-63.csv](orzecznictwo/art-63.csv) |
 | art. 64 | 57 | 1 | 1 | 55 | 1 | 0 | [art-64.csv](orzecznictwo/art-64.csv) |
 | art. 65 | 1 | 0 | 0 | 1 | 0 | 0 | [art-65.csv](orzecznictwo/art-65.csv) |
-| art. 66 | 154 | 1 | 2 | 151 | 1 | 0 | [art-66.csv](orzecznictwo/art-66.csv) |
+| art. 66 | 155 | 1 | 2 | 152 | 1 | 0 | [art-66.csv](orzecznictwo/art-66.csv) |
 | art. 67 | 34 | 0 | 2 | 32 | 0 | 0 | [art-67.csv](orzecznictwo/art-67.csv) |
-| art. 68 | 56 | 0 | 5 | 51 | 1 | 0 | [art-68.csv](orzecznictwo/art-68.csv) |
+| art. 68 | 57 | 0 | 5 | 52 | 1 | 0 | [art-68.csv](orzecznictwo/art-68.csv) |
 | art. 69 | 2 | 0 | 0 | 2 | 0 | 0 | [art-69.csv](orzecznictwo/art-69.csv) |
 | art. 70 | 1 | 1 | 0 | 0 | 1 | 0 | [art-70.csv](orzecznictwo/art-70.csv) |
 | art. 81 | 1 | 1 | 0 | 0 | 1 | 0 | [art-81.csv](orzecznictwo/art-81.csv) |
@@ -94,7 +94,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | § 1 | 2 | 2 | 0 | 0 | 2 | 0 | [par-1.csv](orzecznictwo/par-1.csv) |
 | § 4 | 2 | 2 | 0 | 0 | 2 | 0 | [par-4.csv](orzecznictwo/par-4.csv) |
 | § 9 | 1 | 0 | 1 | 0 | 0 | 0 | [par-9.csv](orzecznictwo/par-9.csv) |
-| (ogólnie) | 147 | 0 | 37 | 110 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
+| (ogólnie) | 148 | 0 | 37 | 111 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
 
 ## Najważniejsze orzeczenia
 

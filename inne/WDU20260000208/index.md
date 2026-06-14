@@ -8,7 +8,7 @@ pos: 208
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie informacji w ochronie zdrowia
@@ -45,6 +45,42 @@ Art. 41–52. (pominięte)
 4. Przepisów ustawy nie stosuje się do podmiotów leczniczych funkcjonujących w formie jednostki wojskowej w rozumieniu art. 2 ust. 1 pkt 1a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** administrator danych – administratora, o którym mowa w art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+- **2)** administrator systemu – podmiot odpowiedzialny za techniczno-organizacyjną obsługę systemu teleinformatycznego;
+- **2a)** apteka – aptekę ogólnodostępną i punkt apteczny w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416, 1537 i 1795);
+- **3)** certyfikat do uwierzytelniania danych – poświadczenie elektroniczne, wydawane na wniosek usługodawcy przez system, o którym mowa w art. 7 ust. 1, służące do potwierdzania pochodzenia i integralności danych przekazywanych lub udostępnianych przez usługodawcę;
+- **3a)** certyfikat do uwierzytelniania systemu – poświadczenie elektroniczne, wydawane przez system, o którym mowa w art. 7 ust. 1, służące do:
+    - **a)** uwierzytelniania systemu usługodawcy w Systemie Informacji Medycznej, zwanym dalej „SIM”, oraz w dziedzinowych systemach teleinformatycznych,
+    - **b)** wzajemnego uwierzytelniania systemów teleinformatycznych usługodawców lub innych podmiotów przetwarzających jednostkowe dane medyczne;
+
+- **4)** dane – litery, wyrazy, cyfry, teksty, liczby, znaki, symbole, obrazy, kombinacje liter, cyfr, liczb, symboli i znaków, zebrane w zbiory o określonej strukturze, dostępne według określonych kryteriów, w tym dane osobowe;
+- **5)** dziedzinowy system teleinformatyczny – system teleinformatyczny wspomagający określony obszar funkcjonowania systemu ochrony zdrowia;
+- **6)** elektroniczna dokumentacja medyczna − dokumenty wytworzone w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych:
+    - **a)** recepty,
+    - **b)** określone w przepisach wydanych na podstawie art. 13a,
+    - **c)** skierowania określone w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26),
+    - **d)** zlecenia na zaopatrzenie i zlecenia naprawy, o których mowa w art. 38 ust. 4a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907 i 1192),
+    - **e)** Karty Szczepień, o których mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26),
+    - **f)** wyniki badania histopatologicznego;
+
+- **7)** jednostkowe dane medyczne – dane osoby fizycznej o udzielonych, udzielanych i planowanych świadczeniach opieki zdrowotnej oraz dotyczące jej stanu zdrowia, w tym profilaktyki zdrowotnej i realizacji programów zdrowotnych;
+- **8)** dokument elektroniczny – dokument elektroniczny, o którym mowa w art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703);
+- **9)** płatnik – następujące podmioty:
+    - **a)** podmiot finansujący lub współfinansujący udzielenie świadczenia opieki zdrowotnej,
+    - **b)** usługobiorcę finansującego lub współfinansującego udzielenie świadczenia opieki zdrowotnej;
+
+- **10)** pobieranie danych – pobieranie danych, o którym mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 27 lipca 2001 r. o ochronie baz danych (Dz. U. z 2024 r. poz.
+- **1769)** ;
+- **11)** pracownik medyczny – osobę wykonującą zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, osobę uprawnioną do świadczenia usług farmaceutycznych, która udziela świadczeń opieki zdrowotnej lub świadczy usługi farmaceutyczne w ramach stosunku pracy lub umowy cywilnoprawnej, oraz osoby, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. z 2025 r. poz. 1730);
+- **12)** rejestr medyczny – tworzony zgodnie z prawem rejestr, ewidencję, listę, spis albo inny uporządkowany zbiór danych osobowych, jednostkowych danych medycznych lub danych niebędących danymi osobowymi, służący do realizacji zadań publicznych, prowadzony przez podmiot funkcjonujący w systemie ochrony zdrowia;
+- **13)** system teleinformatyczny – system teleinformatyczny w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **14)** świadczenie opieki zdrowotnej – świadczenie opieki zdrowotnej, o którym mowa w art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **15)** usługodawca – świadczeniodawcę, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, oraz aptekę;
+- **16)** usługobiorca – osobę fizyczną korzystającą lub uprawnioną do korzystania ze świadczeń opieki zdrowotnej, w tym świadczeniobiorcę w rozumieniu art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz osobę, o której mowa w art. 2 ust. 2 i art. 13 tej ustawy;
+- **17)** wyrób medyczny – wyrób medyczny, wyposażenie wyrobu medycznego, system lub zestaw zabiegowy, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), albo wyrób medyczny do diagnostyki in vitro lub wyposażenie wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. );
+- **18)** zdarzenie medyczne przetwarzane w systemie informacji – świadczenie zdrowotne, o którym mowa w art. 5 pkt 40 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **19)** Internetowe Konto Pacjenta – moduł systemu, o którym mowa w art. 7 ust. 1, w którym są przetwarzane dane dotyczące usługobiorcy zawarte w SIM oraz Systemie Rejestru Usług Medycznych Narodowego Funduszu Zdrowia.
 
 **Art. 3.**
 
@@ -308,6 +344,12 @@ Art. 41–52. (pominięte)
 2. Do rejestrów medycznych i systemów teleinformatycznych używanych do prowadzenia rejestrów medycznych stosuje się odpowiednio przepisy art. 14 ust. 1 i art. 15–16 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne i przepisy wydane na ich podstawie oraz przepisy wydane na podstawie art. 18 tej ustawy.
 
 **Art. 8a.** Minimalne wymagania dla systemów, o których mowa w art. 6 ust. 1, art. 7 ust. 1, art. 10 ust. 1, art. 17 ust. 1, art. 22 ust. 1 i art. 26 ust. 1, oraz systemów teleinformatycznych usługodawców i podmiotów prowadzących rejestry medyczne, związane z bezpieczeństwem przetwarzania i udostępniania danych w postaci elektronicznej uwzględniają, w przypadku danych dotyczących:
+
+- **1)** usługobiorców będących:
+    - **a)** funkcjonariuszami Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego oraz funkcjonariuszami albo żołnierzami Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego, zwanych dalej „służbami specjalnymi”,
+    - **b)** członkami rodzin, w rozumieniu art. 5 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, funkcjonariuszy i żołnierzy służb specjalnych,
+
+- **2)** podmiotów leczniczych, o których mowa w art. 4 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – ochronę tych danych w zakresie wykonywania obowiązków, o których mowa w art. 35 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26), art. 24 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718) i art. 39 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2024 r. poz. 1405 oraz z 2025 r. poz. 179 i 1366), oraz możliwość uzyskania przez służby specjalne informacji o osobach przetwarzających w SIM dane dotyczące tych usługobiorców i podmiotów.
 
 **Art. 8b.**
 
@@ -1331,6 +1373,10 @@ Art. 41–52. (pominięte)
 
 **Art. 38.** Ministrowi właściwemu do spraw zdrowia, w stosunku do podmiotów prowadzących bazy danych w zakresie ochrony zdrowia, przysługuje prawo:
 
+- **1)** kontroli realizacji sektorowych projektów informatycznych i systemów teleinformatycznych działających w ramach systemu informacji w celu zapewnienia spójnego ich działania oraz prawidłowości i kompletności przekazywanych do systemu danych na zasadach określonych w przepisach art. 25 i art. 28 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **2)** kontroli pod względem legalności, celowości i rzetelności prowadzenia baz danych w zakresie ochrony zdrowia oraz przekazywania danych w nich zawartych do systemu informacji;
+- **3)** wydawania zaleceń pokontrolnych mających na celu usunięcie stwierdzonych nieprawidłowości.
+
 **Art. 39.**
 
 1. Minister właściwy do spraw zdrowia może zlecić przeprowadzenie jednorazowej kontroli, o której mowa w art. 38 pkt 2, instytutom badawczym, innym jednostkom organizacyjnym podległym lub nadzorowanym przez ministra właściwego do spraw zdrowia, a także specjalistom z poszczególnych dziedzin medycyny, farmacji oraz dziedzin mających zastosowanie w ochronie zdrowia, za ich zgodą.
@@ -1412,6 +1458,9 @@ Art. 41–52. (pominięte)
 **Art. 54.** Sprawozdanie, o którym mowa w art. 40 ust. 4, składa się po raz pierwszy za rok 2012.
 
 **Art. 55.** W okresie od dnia 1 stycznia 2012 r. do dnia 30 czerwca 2015 r.:
+
+- **1)** baza danych, o której mowa w art. 3 ust. 1 pkt 2, prowadzona przez Centrum Medycznego Kształcenia Podyplomowego obejmuje także dane, o których mowa w przepisach wydanych na podstawie art. 10 ust. 5 pkt 1 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm. );
+- **2)** w systemie, o którym mowa w art. 30, przetwarzane są także dane, o których mowa w przepisach wydanych na podstawie art. 10 ust. 5 pkt 1 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.
 
 **Art. 56.**
 

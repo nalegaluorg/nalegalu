@@ -8,7 +8,7 @@ pos: 1546
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywateli polskich, którzy od czasu odzyskania niepodległości przez Państwo Polskie w 1918 r. przyczyniali się do budowania i wzmacniania suwerenności, niepodległości, kulturowej tożsamości i materialnej pomyślności Rzeczypospolitej, na pamiątkę stulecia odrodzenia Państwa Polskiego, uchwala niniejszą ustawę.
@@ -59,6 +59,11 @@ source: "isap-pdf"
 **Art. 5.** Osoba odznaczona otrzymuje nieodpłatnie odznakę nadanego jej Medalu wraz z legitymacją potwierdzającą nadanie Medalu.
 
 **Art. 6.** Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia:
+
+- **1)** tryb postępowania w sprawach o nadanie Medalu, w tym terminy przedkładania wniosków oraz wręczania odznak nadanego Medalu,
+- **2)** tryb postępowania w przypadku zgubienia lub zniszczenia odznaki Medalu lub legitymacji potwierdzającej nadanie Medalu,
+- **3)** wzory wniosku o nadanie Medalu oraz wykazu przedstawianych wniosków, zawierającego zestawienie zbiorcze osób proponowanych do odznaczenia, legitymacji potwierdzającej nadanie Medalu oraz jej wtórnika,
+- **4)** sposób i okoliczności noszenia Medalu – biorąc pod uwagę konieczność ustalenia faktycznych okoliczności przemawiających za nadaniem Medalu oraz sprawność tego postępowania, a także konieczność zachowania kolejności wynikającej ze starszeństwa przyznanych orderów i odznaczeń oraz uwzględniając święta i rocznice państwowe.
 
 **Art. 7.** W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2020 r. poz. 138).
 

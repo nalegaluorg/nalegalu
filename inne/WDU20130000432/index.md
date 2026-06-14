@@ -8,7 +8,7 @@ pos: 432
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 27/3/A/2013 WYROK z dnia 13 marca 2013 r.

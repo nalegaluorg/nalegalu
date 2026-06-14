@@ -8,10 +8,10 @@ pos: 2430
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2430 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 24 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002430) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2430/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 24 października 2023 r.
-w sprawie ostrzeżeń, prognoz, komunikatów, biuletynów i roczników państwowej służby hydrologiczno-meteorologicznej i państwowej służby geologicznej Na podstawie art. 387 ust. 3 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie ostrzeżeń, prognoz, komunikatów, biuletynów i roczników państwowej służby hydrologiczno-meteorologicznej i państwowej służby geologicznej Na podstawie art. 387 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) podmioty, którym państwowa służba hydrologiczno-meteorologiczna i państwowa służba geologiczna są obowiązane przekazywać ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki, z wyjątkiem zakładów odprowadzających ścieki o zwiększonym zasoleniu;
 2) sposób i częstotliwość opracowywania oraz przekazywania ostrzeżeń, prognoz, komunikatów, biuletynów lub roczników;
 3) sposób opracowywania oraz przekazywania ostrzeżeń przed suszą hydrologiczną i prognoz hydrologicznych dotyczących suszy hydrologicznej zakładom odprowadzającym ścieki o zwiększonym zasoleniu;
@@ -84,15 +84,15 @@ w sprawie ostrzeżeń, prognoz, komunikatów, biuletynów i roczników państwow
 49) dyrektorom urzędów morskich;
 50) dyrektorom urzędów żeglugi śródlądowej;
 51) Dyrektorowi Generalnemu Państwowego Gospodarstwa Leśnego Lasy Państwowe;
-52) Dyrektorowi Głównego Instytutu Górnictwa Państwowego Instytutu Badawczego;
+52) Dyrektorowi Głównego Instytutu Górnictwa – Państwowego Instytutu Badawczego;
 53) Dyrektorowi Lotniczego Pogotowia Ratunkowego;
 54) Prezesowi Państwowego Gospodarstwa Wodnego Wody Polskie;
 55) Prezesowi Zarządu PKP Polskich Linii Kolejowych Spółka Akcyjna;
 56) dyrektorom regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
 2. Ostrzeżenia przed niebezpiecznymi zjawiskami zachodzącymi w atmosferze i hydrosferze oraz ostrzeżenia przed niebezpiecznymi zjawiskami zachodzącymi w strefach zasilania lub poboru wód podziemnych przekazuje się także:
 1) Prezesowi Zarządu Polskiej Agencji Prasowej Spółka Akcyjna;
-2) Prezesowi Zarządu Polskiego Radia Spółka Akcyjna;
-3) Prezesowi Zarządu Telewizji Polskiej Spółka Akcyjna.
+2) Prezesowi Zarządu Polskiego Radia – Spółka Akcyjna;
+3) Prezesowi Zarządu Telewizji Polskiej – Spółka Akcyjna.
 § 3. 1. Ostrzeżenia przed niebezpiecznymi zjawiskami zachodzącymi w atmosferze i hydrosferze oraz prognozy meteorologiczne i hydrologiczne są opracowywane zgodnie ze standardami globalnego systemu przetwarzania danych i prognozowania Światowej Organizacji Meteorologicznej, przy wykorzystaniu wyników numerycznych modeli prognoz pogody.
 2. Komunikaty, biuletyny i roczniki meteorologiczne i hydrologiczne są opracowywane na podstawie źródłowych lub przetworzonych danych pomiarowo-obserwacyjnych pozyskiwanych z sieci pomiarowo-obserwacyjnej państwowej służby hydrologiczno-meteorologicznej.
 3. Ostrzeżenia przed niebezpiecznymi zjawiskami zachodzącymi w strefach zasilania lub poboru wód podziemnych oraz hydrogeologiczne: prognozy, komunikaty, biuletyny i roczniki są opracowywane na podstawie analizy statystycznej zebranych i przetworzonych danych pomiarowych pozyskiwanych z sieci obserwacyjno-badawczej wód podziemnych państwowej służby geologicznej, z uwzględnieniem wieloletnich obserwacji wahań zwierciadła wód podziemnych.
@@ -101,23 +101,23 @@ w sprawie ostrzeżeń, prognoz, komunikatów, biuletynów i roczników państwow
 2. Ostrzeżenia przed niebezpiecznymi zjawiskami zachodzącymi w hydrosferze są opracowywane dla obszaru jednej lub kilku zlewni i przekazywane każdorazowo w przypadku prognozowania albo wystąpienia stanu zagrożenia albo alarmu hydrologicznego.
 3. Ostrzeżenia przed niebezpiecznymi zjawiskami zachodzącymi w strefach zasilania lub poboru wód podziemnych są opracowywane i przekazywane każdorazowo w przypadku prognozowania albo wystąpienia stanu zagrożenia albo alarmu hydrogeologicznego.
 § 6. 1. Prognozy meteorologiczne są opracowywane dla kraju i poszczególnych województw i przekazywane codziennie:
-1) na najbliższe 48 godzin (prognoza krótkoterminowa) do godziny 7.30 i do godziny 14.00 z ważnością odpowiednio od godziny 7.30 i 19.30;
-2) na kolejne 120 godzin (prognoza średnioterminowa) do godziny 15.00 z ważnością od godziny 19.30 trzeciej doby, jako kontynuacja prognozy krótkoterminowej.
-2. Prognozy hydrologiczne dotyczące suszy hydrologicznej, o ile państwowa służba hydrologiczno-meteorologiczna posiada informacje niezbędne do opracowania takich prognoz, są opracowywane i przekazywane zakładom odprowadzającym ścieki o zwiększonym zasoleniu, o których mowa w art. 16 pkt 73a ustawy z dnia 20 lipca 2017 r. Prawo wodne, w dni robocze.
+1) na najbliższe 48 godzin (prognoza krótkoterminowa) – do godziny 7.30 i do godziny 14.00 z ważnością odpowiednio od godziny 7.30 i 19.30;
+2) na kolejne 120 godzin (prognoza średnioterminowa) – do godziny 15.00 z ważnością od godziny 19.30 trzeciej doby, jako kontynuacja prognozy krótkoterminowej.
+2. Prognozy hydrologiczne dotyczące suszy hydrologicznej, o ile państwowa służba hydrologiczno-meteorologiczna posiada informacje niezbędne do opracowania takich prognoz, są opracowywane i przekazywane zakładom odprowadzającym ścieki o zwiększonym zasoleniu, o których mowa w art. 16 pkt 73a ustawy z dnia 20 lipca 2017 r. – Prawo wodne, w dni robocze.
 3. Prognozy hydrologiczne dla podstawowych profili wodowskazowych osłony hydrologicznej są opracowywane i przekazywane w normalnym stanie hydrologicznym i w przypadku suszy hydrologicznej w dni robocze do godziny 11.00.
-4. Prognozy hydrologiczne dla podstawowych i dodatkowych profili wodowskazowych osłony hydrologicznej są opracowywane i przekazywane w stanie zagrożenia lub alarmu hydrologicznego do godziny 12.00, a w przypadku gdy jest to uzasadnione zmianą sytuacji hydrologicznej i meteorologicznej niezwłocznie od wystąpienia tej zmiany.
+4. Prognozy hydrologiczne dla podstawowych i dodatkowych profili wodowskazowych osłony hydrologicznej są opracowywane i przekazywane w stanie zagrożenia lub alarmu hydrologicznego do godziny 12.00, a w przypadku gdy jest to uzasadnione zmianą sytuacji hydrologicznej i meteorologicznej – niezwłocznie od wystąpienia tej zmiany.
 5. Wykaz podstawowych i dodatkowych profili wodowskazowych osłony hydrologicznej określa załącznik nr 2 do rozporządzenia.
 6. Prognozy hydrologiczne nie są przekazywane dla rzek, na których występują zjawiska lodowe.
 7. Prognozy hydrogeologiczne są opracowywane i przekazywane w normalnym stanie hydrogeologicznym raz na kwartał hydrologiczny (okres trzymiesięczny w roku hydrologicznym, liczony od pierwszego dnia roku hydrologicznego rozumianego jako okres od dnia 1 listopada poprzedniego roku do dnia 31 października danego roku) w terminie miesiąca następującego po zakończeniu ostatniego miesiąca kwartału, w którym wykonano pomiary służące za podstawę opracowania prognozy.
 8. Prognozy hydrogeologiczne są opracowywane i przekazywane w stanie zagrożenia hydrogeologicznego raz na miesiąc w terminie miesiąca następującego po zakończeniu miesiąca, w którym wykonano pomiary służące za podstawę opracowania prognozy.
-9. Prognozy hydrogeologiczne są opracowywane i przekazywane w stanie alarmu hydrogeologicznego raz na tydzień w terminie tygodnia następującego po zakończeniu tygodnia, w którym wykonano pomiary służące za podstawę opracowania prognozy, a na wniosek ministra właściwego do spraw gospodarki wodnej raz na dzień.
+9. Prognozy hydrogeologiczne są opracowywane i przekazywane w stanie alarmu hydrogeologicznego raz na tydzień w terminie tygodnia następującego po zakończeniu tygodnia, w którym wykonano pomiary służące za podstawę opracowania prognozy, a na wniosek ministra właściwego do spraw gospodarki wodnej – raz na dzień.
 § 7. 1. Komunikaty meteorologiczne są opracowywane dla obszaru powiatu lub powiatów i przekazywane w przypadku prognozowania wystąpienia lub wystąpienia niebezpiecznych zjawisk w atmosferze:
-1) nie rzadziej niż co 12 godzin w zależności od rozwoju sytuacji meteorologicznej;
-2) raz na dobę w uzasadnionych przypadkach wynikających z małej dynamiki zjawisk meteorologicznych.
+1) nie rzadziej niż co 12 godzin – w zależności od rozwoju sytuacji meteorologicznej;
+2) raz na dobę – w uzasadnionych przypadkach wynikających z małej dynamiki zjawisk meteorologicznych.
 2. Komunikaty hydrologiczne dla obszaru kraju, dorzecza lub zlewni są opracowywane i przekazywane:
-1) codziennie do godziny 10.00 w normalnym stanie hydrologicznym i w przypadku suszy hydrologicznej;
-2) co 6 godzin, nie później niż 2 godziny po ich opracowaniu w stanie zagrożenia hydrologicznego;
-3) co 3 godziny, nie później niż godzinę po ich opracowaniu w stanie alarmu hydrologicznego.
+1) codziennie do godziny 10.00 – w normalnym stanie hydrologicznym i w przypadku suszy hydrologicznej;
+2) co 6 godzin, nie później niż 2 godziny po ich opracowaniu – w stanie zagrożenia hydrologicznego;
+3) co 3 godziny, nie później niż godzinę po ich opracowaniu – w stanie alarmu hydrologicznego.
 3. Komunikaty hydrologiczne o zaleganiu pokrywy śnieżnej i zawartości wody w pokrywie śnieżnej są przekazywane w dniach wykonywania pomiarów zawartości wody w pokrywie śnieżnej, w przypadku zalegania pokrywy śnieżnej o grubości co najmniej 5 cm.
 4. Komunikaty hydrogeologiczne w zakresie zmian wielkości zasobów, stanu oraz zagrożeń wód podziemnych są opracowywane i przekazywane w normalnym stanie hydrogeologicznym raz na kwartał hydrologiczny w terminie miesiąca następującego po zakończeniu ostatniego miesiąca kwartału, w którym wykonano pomiary służące za podstawę opracowania komunikatu.
 5. Komunikaty hydrogeologiczne w zakresie zmian wielkości zasobów, stanu oraz zagrożeń wód podziemnych są opracowywane i przekazywane w stanie zagrożenia hydrogeologicznego raz na miesiąc w terminie miesiąca następującego po zakończeniu miesiąca, w którym wykonano pomiary służące za podstawę opracowania komunikatu.
@@ -135,14 +135,14 @@ w sprawie ostrzeżeń, prognoz, komunikatów, biuletynów i roczników państwow
 2) przeznaczonego do tego serwera lub aplikacji internetowej nadzorowanych odpowiednio przez państwową służbę hydrologiczno-meteorologiczną albo państwową służbę geologiczną;
 3) usługi sieciowej;
 4) poczty elektronicznej na adres wskazany przez podmiot, o którym mowa w § 2.
-2. Ostrzeżenia przed suszą hydrologiczną oraz prognozy hydrologiczne dotyczące suszy hydrologicznej są przekazywane zakładom odprowadzającym ścieki o zwiększonym zasoleniu, o których mowa w art. 16 pkt 73a ustawy z dnia 20 lipca 2017 r. Prawo wodne, za pomocą następujących środków przekazu:
-1) określonych w ust. 1 pkt 1–3 w przypadku gdy dany zakład odprowadzający ścieki o zwiększonym zasoleniu wystąpi o ustalenie takiego środka przekazu na podstawie ust. 5 i zgodnie z tym przepisem zostanie ustalony taki środek przekazu albo
-2) poczty elektronicznej na adres wskazany przez dany zakład odprowadzający ścieki o zwiększonym zasoleniu w innym przypadku niż określony w pkt 1.
+2. Ostrzeżenia przed suszą hydrologiczną oraz prognozy hydrologiczne dotyczące suszy hydrologicznej są przekazywane zakładom odprowadzającym ścieki o zwiększonym zasoleniu, o których mowa w art. 16 pkt 73a ustawy z dnia 20 lipca 2017 r. – Prawo wodne, za pomocą następujących środków przekazu:
+1) określonych w ust. 1 pkt 1–3 – w przypadku gdy dany zakład odprowadzający ścieki o zwiększonym zasoleniu wystąpi o ustalenie takiego środka przekazu na podstawie ust. 5 i zgodnie z tym przepisem zostanie ustalony taki środek przekazu albo
+2) poczty elektronicznej na adres wskazany przez dany zakład odprowadzający ścieki o zwiększonym zasoleniu – w innym przypadku niż określony w pkt 1.
 3. Na wniosek podmiotu, o którym mowa w § 2 ust. 1, złożony odpowiednio do państwowej służby hydrologiczno-meteorologicznej albo państwowej służby geologicznej, ostrzeżenia, prognozy, komunikaty, biuletyny i roczniki są przekazywane wyłącznie w sposób, o którym mowa w ust. 1 pkt 1.
 4. W przypadku awarii środków przekazu ostrzeżenia, prognozy, komunikaty, biuletyny i roczniki są przekazywane innym dostępnym środkiem komunikowania się na odległość.
-5. Środki przekazu ostrzeżeń, prognoz, komunikatów, biuletynów i roczników ustala odpowiednio państwowa służba hydrologiczno-meteorologiczna albo państwowa służba geologiczna w uzgodnieniu z podmiotem, o którym mowa w § 2, oraz z zakładem odprowadzającym ścieki o zwiększonym zasoleniu, o którym mowa w art. 16 pkt 73a ustawy z dnia 20 lipca 2017 r. Prawo wodne. W tym samym trybie odbywa się zmiana sposobu otrzymywania ostrzeżeń, prognoz, komunikatów, biuletynów i roczników.
+5. Środki przekazu ostrzeżeń, prognoz, komunikatów, biuletynów i roczników ustala odpowiednio państwowa służba hydrologiczno-meteorologiczna albo państwowa służba geologiczna w uzgodnieniu z podmiotem, o którym mowa w § 2, oraz z zakładem odprowadzającym ścieki o zwiększonym zasoleniu, o którym mowa w art. 16 pkt 73a ustawy z dnia 20 lipca 2017 r. – Prawo wodne. W tym samym trybie odbywa się zmiana sposobu otrzymywania ostrzeżeń, prognoz, komunikatów, biuletynów i roczników.
 6. W przypadku przekazywania ostrzeżeń, o których mowa w § 5, w sposób, o którym mowa w ust. 1 pkt 2–4 i ust. 2 pkt 2, ostrzeżenie uznaje się za przekazane, jeżeli w zależności od środka przekazu uzyskano:
-1) potwierdzenie przekazania wiadomości na serwer podmiotu, o którym mowa w § 2, albo zakładu odprowadzającego ścieki o zwiększonym zasoleniu, o którym mowa w art. 16 pkt 73a ustawy z dnia 20 lipca 2017 r. Prawo wodne, dla środka przekazu określonego w ust. 1 pkt 2;
+1) potwierdzenie przekazania wiadomości na serwer podmiotu, o którym mowa w § 2, albo zakładu odprowadzającego ścieki o zwiększonym zasoleniu, o którym mowa w art. 16 pkt 73a ustawy z dnia 20 lipca 2017 r. – Prawo wodne, dla środka przekazu określonego w ust. 1 pkt 2;
 2) komunikat z systemu o poprawności transmisji danych za pośrednictwem usługi sieciowej, o ile jest to możliwe ze względów technicznych;
 3) potwierdzenie przekazania wiadomości pocztą elektroniczną od pierwszego serwera pocztowego poza strukturą państwowej służby hydrologiczno-meteorologicznej albo państwowej służby geologicznej.
 7. W przypadku braku potwierdzenia przekazania ostrzeżenia zgodnie z ust. 6 ostrzeżenie uznaje się za przekazane, jeżeli uzyskano potwierdzenie przekazania ostrzeżenia innymi środkami przekazu.

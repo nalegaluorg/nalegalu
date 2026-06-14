@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 4 września 2008 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw*
 
-Łącznie: **7** orzeczeń
+Łącznie: **8** orzeczeń
 (pominięto 6 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
@@ -45,8 +45,9 @@ Orzeczenia powołujące: *Ustawa z dnia 4 września 2008 r. o zmianie ustawy o o
 
 - 2014-10-21 | SN | [III SK 48/13](https://www.saos.org.pl/judgments/167131) | Wyrok ★
 
-## (ogólnie) (4)
+## (ogólnie) (5)
 
+- 2026-05-08 | SO | [VII AGa 454/25](https://www.saos.org.pl/judgments/546575) | Wyrok
 - 2020-09-30 | SO | [V ACa 220/19](https://www.saos.org.pl/judgments/431759) | Wyrok
 - 2018-04-09 | SO | [I ACa 1447/17](https://www.saos.org.pl/judgments/342216) | Wyrok
 - 2012-12-05 | SO | [I ACa 582/12](https://www.saos.org.pl/judgments/7370) | Wyrok

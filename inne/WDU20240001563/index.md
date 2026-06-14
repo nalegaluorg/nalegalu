@@ -8,10 +8,10 @@ pos: 1563
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 października 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1563 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 21 października 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1563/text.pdf) |
 
-Poz. 1563 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 21 października 2024 r.
-w sprawie szczegółowego zakresu działania Ministra do spraw Społeczeństwa Obywatelskiego Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050 i 1473) zarządza się, co następuje: § 1. Minister do spraw Społeczeństwa Obywatelskiego, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+w sprawie szczegółowego zakresu działania Ministra do spraw Społeczeństwa Obywatelskiego Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050 i 1473) zarządza się, co następuje:
+§ 1. Minister do spraw Społeczeństwa Obywatelskiego, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 § 2. Do zakresu działania ministra należy:
 1) przeprowadzanie analiz i ocena skuteczności rozwiązań prawnych w zakresie społeczeństwa obywatelskiego;
 2) opracowywanie kierunków działań na rzecz zrównoważonego rozwoju społeczeństwa obywatelskiego;

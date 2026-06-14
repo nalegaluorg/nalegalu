@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów*
 
-Łącznie: **791** orzeczeń
-(pominięto 1204 orzeczeń sądów rejonowych)
+Łącznie: **792** orzeczeń
+(pominięto 1206 orzeczeń sądów rejonowych)
 
 ## art. 1 (26)
 
@@ -644,7 +644,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 lutego 2007 r. o ochronie konkurencji
 - 2016-10-27 | SO | [VI ACa 995/15](https://www.saos.org.pl/judgments/269323) | Wyrok
 - 2014-06-26 | KIO | [KIO 1028/14](https://www.saos.org.pl/judgments/161317) | Wyrok
 
-## art. 23 (35)
+## art. 23 (36)
 
 - 2005-10-05 | TK | [SK 39/05](https://www.saos.org.pl/judgments/107266) | Wyrok ★
 - 2006-07-13 | SN | [III SZP 3/06](https://www.saos.org.pl/judgments/84453) | Uchwała ★
@@ -653,6 +653,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 lutego 2007 r. o ochronie konkurencji
 - 2006-06-20 | SN | [III SK 7/06](https://www.saos.org.pl/judgments/84404) | Wyrok ★
 - 2025-04-28 | SO | [I ACa 3375/23](https://www.saos.org.pl/judgments/531187) | Wyrok
 - 2025-03-27 | SO | [I ACa 4026/24](https://www.saos.org.pl/judgments/539015) | Wyrok
+- 2025-03-26 | SO | [I ACa 2621/23](https://www.saos.org.pl/judgments/545988) | Wyrok
 - 2024-07-01 | SO | [I ACa 2999/23](https://www.saos.org.pl/judgments/529106) | Wyrok
 - 2024-03-15 | SO | [V ACa 1817/23](https://www.saos.org.pl/judgments/542647) | Wyrok
 - 2024-01-23 | SO | [I ACa 1236/23](https://www.saos.org.pl/judgments/493468) | Wyrok

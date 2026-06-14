@@ -8,7 +8,7 @@ pos: 1379
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o funkcjonowaniu górnictwa węgla kamiennego
@@ -31,7 +31,35 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa zasady funkcjonowania górnictwa węgla kamiennego, w tym:
 
+- **1)** zasady restrukturyzacji finansowej przedsiębiorstw górniczych;
+- **1a)** zasady udzielania wsparcia publicznego na redukcję zdolności produkcyjnych;
+- **2)** zasady likwidacji kopalń;
+- **2a)** zasady restrukturyzacji zatrudnienia w kopalniach;
+- **3)** zasady wypłacania ekwiwalentu pieniężnego z tytułu prawa do bezpłatnego węgla, zwanego dalej „ekwiwalentem pieniężnym”, rent wyrównawczych, a także wypłaty zaległych wynagrodzeń;
+- **4)** warunki uzyskania dofinansowania na inwestycje początkowe;
+- **5)** zasady sprawowania nadzoru właścicielskiego;
+- **6)** szczególne uprawnienia gmin górniczych;
+- **6a)** zasady nieodpłatnego przekazywania nieruchomości i ruchomości przedsiębiorstw górniczych;
+- **7)** działania wspierające czyste technologie węglowe oraz monitoring funkcjonowania górnictwa;
+- **8)** źródła finansowania zadań określonych w ustawie.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** przedsiębiorstwo górnicze:
+    - **a)** spółkę węglową – jednoosobową spółkę Skarbu Państwa, która prowadzi wydobycie węgla kamiennego na podstawie koncesji lub która prowadzi likwidację zakładu górniczego oraz działania polikwidacyjne,
+    - **b)** spółkę, w której Skarb Państwa lub spółki węglowe posiadają akcje albo udziały, prowadzącą wydobycie węgla kamiennego na podstawie koncesji lub która prowadzi likwidację zakładu górniczego lub jego oznaczonej części, lub prowadzi działania polikwidacyjne, lub zabezpiecza kopalnie przed zagrożeniem wodnym, gazowym oraz pożarowym po zakończeniu likwidacji kopalni,
+    - **c)** spółkę zależną lub współzależną w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ) od spółki w której Skarb Państwa posiada akcje lub udziały, prowadzącą wydobycie węgla kamiennego na podstawie koncesji,
+    - **d)** jednoosobową spółkę Skarbu Państwa, wykonującą zadania w zakresie naprawiania szkód wywołanych ruchem zakładu górniczego po zakończeniu jego likwidacji, w tym szkód powstałych w wyniku reaktywacji starych zrobów;
+
+- **2)** kopalnia – wyodrębnioną jednostkę organizacyjną przedsiębiorstwa górniczego prowadzącą zakład górniczy;
+- **3)** zakład górniczy – służący wydobywaniu węgla kamiennego zakład górniczy w rozumieniu art. 6 ust. 1 pkt 18 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69);
+- **4)** gmina górnicza – gminę, na której terenie jest: działalność gospodarcza objęta koncesją na wydobywanie węgla kamiennego i na rzecz której przedsiębiorstwo górnicze jest obowiązane lub było obowiązane po tym dniu uiszczać opłatę eksploatacyjną, o której mowa w przepisach prawa geologicznego i górniczego,
+    - **a)** wykonywana albo była wykonywana po dniu 14 stycznia 1999 r.
+    - **b)** zlokalizowany albo był zlokalizowany po dniu 14 stycznia 1999 r. zakład górniczy albo część tego zakładu;
+
+- **5)** oznaczona część zakładu górniczego – wydzielony z całości element składowy lub zespół elementów zakładu górniczego, określony przez przedsiębiorcę w związku z planowaną ich likwidacją;
+- **6)** system wsparcia – mechanizm wsparcia publicznego dla sektora górnictwa węgla kamiennego, określony w rządowych dokumentach strategicznych, przyjęty w celu restrukturyzacji lub stopniowego wygaszania działalności wydobywczej węgla kamiennego, obejmujący w szczególności dopłaty do redukcji zdolności produkcyjnych lub pokrycie kosztów wynikających z zakończenia wydobycia węgla kamiennego i likwidacji jednostek produkcyjnych, które nie są związane z bieżącą produkcją oraz kosztów redukcji zatrudnienia w tym sektorze dla objętych nim przedsiębiorstw górniczych;
+- **7)** jednostka produkcyjna – podziemne miejsce wydobycia węgla kamiennego i powiązaną z nim infrastrukturę zdolne do produkowania węgla surowego niezależnie od innych części przedsiębiorstwa górniczego.
 
 **Art. 3.** Minister właściwy do spraw gospodarki surowcami energetycznymi ogłosi, w formie obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz gmin górniczych.
 
@@ -485,6 +513,11 @@ source: "isap-pdf"
 
 **Art. 11i.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki i tryb przyznawania dotacji budżetowej oraz sposób przekazywania skarbowych papierów wartościowych na podwyższenie kapitału zakładowego przedsiębiorstwa górniczego przez Skarb Państwa, przeznaczonych na finansowanie jednorazowych odpraw pieniężnych,
+- **2)** sposób wykorzystania przyznanej dotacji budżetowej oraz środków uzyskanych ze sprzedaży przekazanych skarbowych papierów wartościowych,
+- **3)** tryb rozliczania przyznanej dotacji budżetowej oraz środków uzyskanych ze sprzedaży przekazanych skarbowych papierów wartościowych,
+- **4)** szczegółowe warunki powodujące cofnięcie lub czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej oraz sposób zwrotu, w całości lub w części, równowartości środków uzyskanych ze sprzedaży skarbowych papierów wartościowych – biorąc pod uwagę zapewnienie sprawności wypłacania jednorazowych odpraw pieniężnych, na finansowanie których będzie przyznana dotacja lub będą przekazywane skarbowe papiery wartościowe na podwyższenie kapitału zakładowego przedsiębiorstwa górniczego przez Skarb Państwa, a także racjonalne wydatkowanie środków publicznych.
+
 **Art. 11j.**
 
 1. Pracownicy przedsiębiorstwa górniczego objętego systemem wsparcia mogą uczestniczyć w procesie przeniesienia do innych przedsiębiorstw górniczych, w tym również do innych przedsiębiorstw górniczych objętych systemem wsparcia.
@@ -583,6 +616,11 @@ source: "isap-pdf"
 
 **Art. 15.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki i tryb przyznawania dotacji budżetowej oraz sposób przekazywania skarbowych papierów wartościowych na podwyższenie kapitału zakładowego przedsiębiorstwa górniczego przez Skarb Państwa, przeznaczonych na finansowanie rent wyrównawczych,
+- **2)** sposób wykorzystania przyznanej dotacji budżetowej oraz środków uzyskanych ze sprzedaży przekazanych skarbowych papierów wartościowych,
+- **3)** tryb rozliczania przyznanej dotacji budżetowej oraz środków uzyskanych ze sprzedaży przekazanych skarbowych papierów wartościowych,
+- **4)** szczegółowe warunki powodujące cofnięcie lub czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej oraz sposób zwrotu, w całości lub w części, równowartości środków uzyskanych ze sprzedaży skarbowych papierów wartościowych – biorąc pod uwagę rodzaj uprawnienia, na finansowanie którego będzie przyznana dotacja budżetowa lub będą przekazywane skarbowe papiery wartościowe na podwyższenie kapitału zakładowego przedsiębiorstwa górniczego przez Skarb Państwa, a także racjonalne wydatkowanie środków publicznych.
+
 **Art. 16.** W przypadku ogłoszenia upadłości przedsiębiorstwa górniczego albo podjęcia decyzji o jego likwidacji, obowiązek wypłaty rent wyrównawczych przejmuje przedsiębiorstwo górnicze, o którym mowa w art. 8 ust. 1.
 
 **Art. 17.**
@@ -606,6 +644,10 @@ source: "isap-pdf"
 4. Środki dotacji budżetowej na dofinansowanie projektu inwestycyjnego przekazuje się do dnia 31 grudnia 2010 r.
 
 **Art. 19.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki i tryb przyznawania oraz wykorzystania dotacji budżetowej przeznaczonej na dofinansowanie do inwestycji początkowych,
+- **2)** tryb rozliczania przyznanej dotacji budżetowej,
+- **3)** szczegółowe warunki powodujące cofnięcie lub czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej – biorąc pod uwagę celowość i efektywność przedsięwzięć inwestycyjnych.
 
 #### Rozdział 6 Zasady sprawowania nadzoru właścicielskiego
 

@@ -8,7 +8,7 @@ pos: 173
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa
@@ -53,7 +53,23 @@ Art. 11–15. (pominięte)
 
 **Art. 5.** Funkcjonariusz publiczny ponosi odpowiedzialność majątkową w razie łącznego zaistnienia następujących przesłanek:
 
+- **1)** na mocy prawomocnego orzeczenia sądu lub na mocy ugody zostało wypłacone przez podmiot odpowiedzialny odszkodowanie za szkodę wyrządzoną przy wykonywaniu władzy publicznej z rażącym naruszeniem prawa;
+- **2)** rażące naruszenie prawa, o którym mowa w pkt 1, zostało spowodowane zawinionym działaniem lub zaniechaniem funkcjonariusza publicznego;
+- **3)** rażące naruszenie prawa, o którym mowa w pkt 1, zostało stwierdzone zgodnie z art. 6.
+
 **Art. 6.** Przez stwierdzenie rażącego naruszenia prawa należy rozumieć:
+
+- **1)** wydanie ostatecznej decyzji stwierdzającej nieważność decyzji lub postanowienia na podstawie art. 156 § 1 pkt 2 lub art. 156 § 1 pkt 2 w związku z art. 126 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego;
+- **2)** wydanie ostatecznej decyzji stwierdzającej nieważność decyzji lub postanowienia na podstawie art. 247 § 1 pkt 2 albo pkt 3 lub art. 247 § 1 pkt 2 albo pkt 3, w związku z art. 219 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. );
+- **3)** stwierdzenie braku podstawy prawnej lub rażącego naruszenia prawa na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769);
+- **4)** wydanie prawomocnego wyroku na podstawie art. 145 § 1 pkt 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi w związku z art. 156 § 1 pkt 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego;
+- **5)** wydanie prawomocnego wyroku na podstawie art. 145 § 1 pkt 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi w związku z art. 247 § 1 pkt 2 albo 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
+- **6)** stwierdzenie rażącego naruszenia prawa na podstawie art. 37 § 6 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego;
+- **7)** stwierdzenie rażącego naruszenia prawa na podstawie art. 141 § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
+- **8)** prawomocne stwierdzenie rażącego naruszenia prawa na podstawie art. 149 lub art. 154 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi;
+- **9)** prawomocne stwierdzenie rażącego naruszenia prawa na podstawie art. 477 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172 i 1302);
+- **10)** prawomocne stwierdzenie braku podstawy prawnej lub rażącego naruszenia prawa na podstawie art. 479 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+- **11)** ostateczne stwierdzenie braku podstawy prawnej lub rażącego naruszenia prawa na podstawie art. 81 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616 oraz z 2025 r. poz. 794).
 
 #### Rozdział 3 Postępowanie
 

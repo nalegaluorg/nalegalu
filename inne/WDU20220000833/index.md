@@ -8,10 +8,10 @@ pos: 833
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 kwietnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 833 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 31 marca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000833) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/833/text.pdf) |
 
-Poz. 833 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 31 marca 2022 r.
 zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez Ministra Obrony Narodowej Na podstawie art. 30 ust. 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
-z 2020 r. poz. 849 oraz z 2022 r. poz. 64) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 6 sierpnia 2021 r. w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez Ministra Obrony Narodowej (Dz. U. poz. 1825) wprowadza się następujące zmiany:
+z 2020 r. poz. 849 oraz z 2022 r. poz. 64) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 6 sierpnia 2021 r. w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez Ministra Obrony Narodowej (Dz. U. poz. 1825) wprowadza się następujące zmiany:
 1) w § 2 w ust. 3 po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) karta segregacji medycznej;”;
 2) w § 16 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) kartę segregacji medycznej;”;
 3) w § 41 w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) kartę segregacji medycznej.”;
@@ -39,7 +39,7 @@ z 2020 r. poz. 849 oraz z 2022 r. poz. 64) zarządza się, co następuje: § 1. 
 a) informacje uzyskane w trakcie wywiadu medycznego,
 b) określenie poziomu świadomości,
 c) określenie poziomu bólu w skali od 0 do 10,
-d) wartości parametrów krytycznych obejmujące: – zapis badania EKG, – tętno (HR), – puls (PR), – częstość oddechów (RR), – ciśnienie krwi skurczowe, rozkurczowe i średnie (nieinwazyjny pomiar ciśnienia tętniczego krwi – NIBP), Dziennik Ustaw – 2 – Poz. 833 – wysycenie hemoglobiny tlenem (saturacja, SpO ), – temperaturę (TEMP) – o ile zostały oznaczone,
+d) wartości parametrów krytycznych obejmujące: – zapis badania EKG, – tętno (HR), – puls (PR), – częstość oddechów (RR), – ciśnienie krwi skurczowe, rozkurczowe i średnie (nieinwazyjny pomiar ciśnienia tętniczego krwi – NIBP), – wysycenie hemoglobiny tlenem (saturacja, SpO ), – temperaturę (TEMP) – o ile zostały oznaczone,
 e) wybór metody tlenoterapii, jeżeli była stosowana,
 f) ocenę stanu psychicznego;
 4) panel Triage ESI 4.0, zawierający punkty decyzyjne zgodnie z algorytmem Emergency Severity Index (ESI) w wersji 4.0 oraz wynik segregacji medycznej – priorytet;

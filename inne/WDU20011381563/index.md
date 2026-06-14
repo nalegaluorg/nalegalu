@@ -8,7 +8,7 @@ pos: 1563
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 3/00 Trybunał Konstytucyjny w składzie: Lech Garlicki – przewodniczący Wiesław Johann – sprawozdawca Andrzej Mączyński Janusz Niemcewicz Jadwiga Skórzewska-Łosiak Grażyna Szałygo – protokolant po rozpoznaniu 3 września i 19 listopada 2001 r. na rozprawie, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawców, Sejmu Rzeczypospolitej Polskiej, Ministra Zdrowia i Prokuratora Generalnego, sprawy z wniosków:

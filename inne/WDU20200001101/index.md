@@ -8,10 +8,10 @@ pos: 1101
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1101 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 czerwca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1101/text.pdf) |
 
-Poz. 1101 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 czerwca 2020 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 2 i ust. 4 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 217, 300 i 695) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1549, z 2017 r. poz. 107 i 2115 oraz z 2018 r. poz. 2368) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 2 i ust. 4 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 217, 300 i 695) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1549, z 2017 r. poz. 107 i 2115 oraz z 2018 r. poz. 2368) wprowadza się następujące zmiany:
 1) w § 3 po ust. 11 dodaje się ust. 11a w brzmieniu: „11a. W przypadku kosztów poniesionych przez partnera KSOW do kosztów kwalifikowalnych, oprócz kosztów wymienionych w ust. 11, nie zalicza się następujących kosztów:
 1) utworzenia albo modernizacji strony, aplikacji lub innych narzędzi internetowych, w tym nabycia autorskich praw majątkowych, praw pokrewnych lub licencji;
 2) nabycia rzeczy, którymi partner KSOW może rozporządzać lub z nich korzystać po zrealizowaniu operacji.”;
@@ -35,7 +35,6 @@ zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyzna
 4) w § 13 w ust. 2:
 a) uchyla się pkt 4,
 b) w pkt 5 skreśla się wyrazy „ , lub z postępowania przeprowadzonego w konkurencyjnym trybie wyboru wykonawcy”;
-Dziennik Ustaw – 2 – Poz. 1101
 5) użyte w § 14 w ust. 3 oraz w § 24 w ust. 2 wyrazy „21 dni” zastępuje się wyrazami „14 dni”;
 6) w § 15 w ust. 3 wyrazy „60 dni” zastępuje się wyrazami „40 dni”;
 7) w § 22 w ust. 2 w pkt 1 w lit. b uchyla się tiret drugie;

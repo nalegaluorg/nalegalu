@@ -8,10 +8,10 @@ pos: 1457
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1457 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 19 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,30 +25,30 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1457/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 19 lipca 2021 r.
 w sprawie utrwalania obrazu lub dźwięku dla celów kontroli celno-skarbowej Na podstawie art. 76 ust. 6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r.
-poz. 422, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 422, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) rodzaje urządzeń i środków technicznych służących do utrwalania obrazu lub dźwięku przesłuchania na odległość kontrolowanego lub świadka dla celów kontroli celno-skarbowej;
 2) sposób przechowywania, odtwarzania i kopiowania zapisów;
 3) sposób i tryb udostępniania kontrolowanemu, reprezentantowi kontrolowanego i pełnomocnikowi zapisu obrazu lub dźwięku;
 4) sposób i tryb przekazywania kontrolowanemu, reprezentantowi kontrolowanego i pełnomocnikowi kopii zapisu obrazu lub dźwięku;
 5) wysokość opłaty za sporządzenie i przekazanie kopii zapisu obrazu lub dźwięku.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) biegłym należy przez to rozumieć osobę fizyczną posiadającą teoretyczne i praktyczne umiejętności lub wiedzę o charakterze specjalnym oraz dysponującą warunkami organizacyjno-technicznymi niezbędnymi do sporządzenia kopii zapisu albo odzyskania zapisu w przypadku uszkodzenia zapisanego nośnika lub samego zapisu;
-2) dokumencie elektronicznym należy przez to rozumieć dokument elektroniczny, o którym mowa w art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r.
+1) biegłym – należy przez to rozumieć osobę fizyczną posiadającą teoretyczne i praktyczne umiejętności lub wiedzę o charakterze specjalnym oraz dysponującą warunkami organizacyjno-technicznymi niezbędnymi do sporządzenia kopii zapisu albo odzyskania zapisu w przypadku uszkodzenia zapisanego nośnika lub samego zapisu;
+2) dokumencie elektronicznym – należy przez to rozumieć dokument elektroniczny, o którym mowa w art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r.
 poz. 670, 952 i 1005);
-3) informatycznym nośniku danych należy przez to rozumieć nośnik danych, o którym mowa w art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
-4) kopii bezpieczeństwa należy przez to rozumieć dane, które mają służyć do odtworzenia oryginalnych danych w przypadku ich utraty lub uszkodzenia;
-5) laboratorium należy przez to rozumieć wyspecjalizowaną jednostkę organizacyjną Krajowej Administracji Skarbowej lub inną jednostkę organizacyjną, która dysponuje personelem o odpowiednich umiejętnościach lub wiedzy o charakterze specjalnym i doświadczeniu oraz warunkami organizacyjno-technicznymi niezbędnymi do sporządzenia kopii zapisu albo odzyskania zapisu w przypadku uszkodzenia zapisanego nośnika lub samego zapisu;
-6) nośniku pierwotnym należy przez to rozumieć informatyczny nośnik danych, na którym utrwalono przesłuchanie kontrolowanego lub świadka za pomocą urządzenia rejestrującego obraz lub dźwięk; jako nośnik pierwotny może być wykorzystany nośnik jednokrotnego albo wielokrotnego zapisu;
-7) nośniku wtórnym należy przez to rozumieć informatyczny nośnik danych jednokrotnego zapisu, na który skopiowano zapis przesłuchania kontrolowanego lub świadka z nośnika pierwotnego;
-8) nośniku kopii należy przez to rozumieć informatyczny nośnik danych, na który skopiowano zapis przesłuchania kontrolowanego lub świadka z nośnika pierwotnego albo wtórnego, inny niż nośnik, o którym mowa w pkt 7;
-9) nośniku kopii bezpieczeństwa należy przez to rozumieć informatyczny nośnik danych, na który skopiowano zapis przesłuchania kontrolowanego lub świadka z nośnika pierwotnego albo wtórnego, stanowiący kopię bezpieczeństwa;
-10) zapisanym nośniku należy przez to rozumieć nośnik pierwotny, nośnik wtórny, nośnik kopii lub nośnik kopii bezpieczeństwa;
-11) podmiocie uprawnionym należy przez to rozumieć kontrolowanego, reprezentanta kontrolowanego lub pełnomocnika;
-12) zaawansowanym podpisie elektronicznym należy przez to rozumieć podpis, o którym mowa w art. 3 pkt 11 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73);
-13) zapisie należy przez to rozumieć utrwalenie obrazu lub dźwięku przesłuchania na odległość kontrolowanego lub świadka dla celów kontroli celno-skarbowej;
-14) zapisie cyfrowym należy przez to rozumieć zapis, dla którego za pomocą funkcji skrótu można wygenerować skrót.
+3) informatycznym nośniku danych – należy przez to rozumieć nośnik danych, o którym mowa w art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+4) kopii bezpieczeństwa – należy przez to rozumieć dane, które mają służyć do odtworzenia oryginalnych danych w przypadku ich utraty lub uszkodzenia;
+5) laboratorium – należy przez to rozumieć wyspecjalizowaną jednostkę organizacyjną Krajowej Administracji Skarbowej lub inną jednostkę organizacyjną, która dysponuje personelem o odpowiednich umiejętnościach lub wiedzy o charakterze specjalnym i doświadczeniu oraz warunkami organizacyjno-technicznymi niezbędnymi do sporządzenia kopii zapisu albo odzyskania zapisu w przypadku uszkodzenia zapisanego nośnika lub samego zapisu;
+6) nośniku pierwotnym – należy przez to rozumieć informatyczny nośnik danych, na którym utrwalono przesłuchanie kontrolowanego lub świadka za pomocą urządzenia rejestrującego obraz lub dźwięk; jako nośnik pierwotny może być wykorzystany nośnik jednokrotnego albo wielokrotnego zapisu;
+7) nośniku wtórnym – należy przez to rozumieć informatyczny nośnik danych jednokrotnego zapisu, na który skopiowano zapis przesłuchania kontrolowanego lub świadka z nośnika pierwotnego;
+8) nośniku kopii – należy przez to rozumieć informatyczny nośnik danych, na który skopiowano zapis przesłuchania kontrolowanego lub świadka z nośnika pierwotnego albo wtórnego, inny niż nośnik, o którym mowa w pkt 7;
+9) nośniku kopii bezpieczeństwa – należy przez to rozumieć informatyczny nośnik danych, na który skopiowano zapis przesłuchania kontrolowanego lub świadka z nośnika pierwotnego albo wtórnego, stanowiący kopię bezpieczeństwa;
+10) zapisanym nośniku – należy przez to rozumieć nośnik pierwotny, nośnik wtórny, nośnik kopii lub nośnik kopii bezpieczeństwa;
+11) podmiocie uprawnionym – należy przez to rozumieć kontrolowanego, reprezentanta kontrolowanego lub pełnomocnika;
+12) zaawansowanym podpisie elektronicznym – należy przez to rozumieć podpis, o którym mowa w art. 3 pkt 11 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73);
+13) zapisie – należy przez to rozumieć utrwalenie obrazu lub dźwięku przesłuchania na odległość kontrolowanego lub świadka dla celów kontroli celno-skarbowej;
+14) zapisie cyfrowym – należy przez to rozumieć zapis, dla którego za pomocą funkcji skrótu można wygenerować skrót.
 § 3. 1. Do zapisu używa się urządzeń i środków technicznych utrwalających zapis na informatycznych nośnikach danych.
 2. Zapis utrwalany jest na nośnikach umożliwiających przechowywanie danych przez okres niezbędny do prawidłowego przeprowadzenia kontroli celno-skarbowej, a także związanych z kontrolą celno-skarbową postępowań: postępowania podatkowego, postępowania w sprawach celnych, postępowania w sprawach o przestępstwo lub wykroczenie, postępowania w sprawach o przestępstwo skarbowe lub wykroczenie skarbowe, jeżeli przepisy ustaw dopuszczają wykorzystanie zapisu w tych postępowaniach.
 § 4. 1. Dla każdego zapisanego nośnika sporządza się metrykę identyfikacyjną, zwaną dalej „metryką”.
@@ -112,7 +112,7 @@ Podczas odtwarzania można użyć urządzenia korygującego lub wzmacniającego 
 § 18. 1. Za sporządzenie i przekazanie podmiotom uprawnionym kopii zapisu pobiera się opłatę w wysokości 6 zł za każdy informatyczny nośnik danych, na który skopiowano zapis.
 2. Za sporządzenie i przekazanie podmiotom uprawnionym kopii zapisu sporządzonej przez biegłego lub laboratorium pobiera się opłatę w wysokości 100 zł powiększoną o 15 zł za każdy informatyczny nośnik danych, na który skopiowano zapis.
 § 19. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński WZÓR z dnia 19 lipca 2021 r. (poz. …) WZÓR METRYKA IDENTYFIKACYJNA ZAPISANEGO NOŚNIKA
+Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński Załącznik do rozporządzenia i Polityki Regionalnej z dnia 19 lipca 2021 r. (poz. …) WZÓR WZÓR METRYKA IDENTYFIKACYJNA ZAPISANEGO NOŚNIKA
 1. OZNACZENIE METRYKI Imię, nazwisko oraz stanowisko lub stopień odpowiednio pracownika albo funkcjonariusza Służby Celno-Skarbowej sporządzającego metrykę: .......................................................................................................................................................
 .......................................................................................................................................................
 Data sporządzenia metryki: .............................. 20...... r.
@@ -138,7 +138,7 @@ Liczba i format dokumentów elektronicznych: ...................................
 Ewentualne dodatkowe informacje, w tym okoliczności mające wpływ na utrwalenie czynności lub jakość zapisu: .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
-6. DANE DOTYCZĄCE KOPIOWANIA A. Wypełnić w metryce nośnika, z którego dokonano kopiowania: Data skopiowania zapisu Cel kopiowania Numer metryki nośnika, na który Imię, nazwisko i stanowisko osoby, która wykonała skopiowano zapis kopiowanie zapisu B. Wypełnić w metryce nośnika, na który dokonano kopiowania: Imię, nazwisko oraz stanowisko lub stopień odpowiednio pracownika albo funkcjonariusza Służby Celno-Skarbowej, który wykonał kopiowanie zapisu: .......................................................................................................................................................
+6. DANE DOTYCZĄCE KOPIOWANIA A. Wypełnić w metryce nośnika, z którego dokonano kopiowania: Imię, nazwisko Numer metryki Data skopiowania i stanowisko osoby, Cel kopiowania nośnika, na który zapisu która wykonała skopiowano zapis kopiowanie zapisu B. Wypełnić w metryce nośnika, na który dokonano kopiowania: Imię, nazwisko oraz stanowisko lub stopień odpowiednio pracownika albo funkcjonariusza Służby Celno-Skarbowej, który wykonał kopiowanie zapisu: .......................................................................................................................................................
 .......................................................................................................................................................
 Miejsce i czas skopiowania zapisu: .............................................................................................
 Nośnik, z którego skopiowano zapis: ☐ pierwotny ☐ wtórny ☐ kopia ☐ kopia bezpieczeństwa Numer metryki nośnika, z którego skopiowano zapis: .......................................................................................................................................................

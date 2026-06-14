@@ -8,10 +8,10 @@ pos: 1001
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 maja 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11000011 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 5 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1001/text.pdf) |
 
-11000011 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 5 kwietnia 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną niektórych czynności operacyjno-rozpoznawczych oraz sposobu postępowania z materiałami uzyskanymi podczas stosowania tych czynności
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 lutego 2006 r. w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną niektórych czynności operacyjno-rozpoznawczych oraz sposobu postępowania z materiałami uzyskanymi podczas stosowania tych czynności (Dz. U. z 2016 r. poz. 1286), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 23 października 2017 r. zmieniającym rozporządzenie w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną niektórych czynności operacyjno-rozpoznawczych oraz sposobu postępowania z materiałami uzyskanymi podczas stosowania tych czynności (Dz. U. poz. 2073);
@@ -36,7 +35,8 @@ poz. 1195).
 2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 2018 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną niektórych czynności operacyjno-rozpoznawczych oraz sposobu postępowania z materiałami uzyskanymi podczas stosowania tych czynności (Dz. U.
 poz. 1195), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 lutego 2006 r.
-w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną niektórych czynności operacyjno-rozpoznawczych oraz sposobu postępowania z materiałami uzyskanymi podczas stosowania tych czynności Na podstawie art. 9f ust. 7 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486, 1728, 1898, 2191 i 2333 oraz z 2022 r. poz. 655) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną niektórych czynności operacyjno-rozpoznawczych oraz sposobu postępowania z materiałami uzyskanymi podczas stosowania tych czynności Na podstawie art. 9f ust. 7 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486, 1728, 1898, 2191 i 2333 oraz z 2022 r. poz. 655) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób przeprowadzania i dokumentowania czynności polegających na złożeniu propozycji albo na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, przyjęcia lub wręczenia korzyści majątkowej, a także obietnicy udzielenia lub przyjęcia tej korzyści, zwane dalej „czynnościami”;
 2) sposób przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas przeprowadzania czynności;
 3) wzory stosowanych druków i rejestrów.
@@ -84,5 +84,5 @@ w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną niekt
 § 9. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 kwietnia 2002 r. w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną czynności operacyjno-rozpoznawczych niejawnego nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęcia lub wręczenia korzyści majątkowej (Dz. U.
 poz. 420).
 § 10. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR WNIOSKU KOMENDANTA GŁÓWNEGO STRAŻY GRANICZNEJ, KOMENDANTA BIURA SPRAW WEWNĘTRZNYCH STRAŻY GRANICZNEJ LUB KOMENDANTA ODDZIAŁU STRAŻY GRANICZNEJ DO PROKURATORA OKRĘGOWEGO, ZGODY PROKURATORA OKRĘGOWEGO ORAZ ZARZĄDZENIA KOMENDANTA GŁÓWNEGO STRAŻY GRANICZNEJ, KOMENDANTA BIURA SPRAW WEWNĘTRZNYCH STRAŻY GRANICZNEJ LUB KOMENDANTA ODDZIAŁU STRAŻY GRANICZNEJ WZÓR ZARZĄDZENIA O ZANIECHANIU CZYNNOŚCI WZÓR PROTOKOŁU ZNISZCZENIA MATERIAŁÓW W W W ……………… … ………………………… ……………………………… R E J E S T R C Z NNY O Ś C …………………………… … …………………………… ……………………………… … ………………………………………… … … … ………………………………………………… …… R E J E S T R D KO U M E N T CA J ………………………… ………………………………………………
+WZÓR WNIOSKU KOMENDANTA GŁÓWNEGO STRAŻY GRANICZNEJ, KOMENDANTA BIURA SPRAW WEWNĘTRZNYCH STRAŻY GRANICZNEJ LUB KOMENDANTA ODDZIAŁU STRAŻY GRANICZNEJ DO PROKURATORA OKRĘGOWEGO, ZGODY PROKURATORA OKRĘGOWEGO ORAZ ZARZĄDZENIA KOMENDANTA GŁÓWNEGO STRAŻY GRANICZNEJ, KOMENDANTA BIURA SPRAW WEWNĘTRZNYCH STRAŻY GRANICZNEJ LUB KOMENDANTA ODDZIAŁU STRAŻY GRANICZNEJ WZÓR ZARZĄDZENIA O ZANIECHANIU CZYNNOŚCI WZÓR PROTOKOŁU ZNISZCZENIA MATERIAŁÓW ……………………………… …………………………… W …………………………… C Ś O … NNY Z C R W T S E J E R ………………………… W … ……………… ……………………………… ………………………………………… … … … ………………………… J CA T N ……………………………………………… E M U KO D R T S E J …… E ………………………………………………… R …
 

@@ -8,10 +8,10 @@ pos: 1304
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lipca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1304 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 2 lipca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1304/text.pdf) |
 
-Poz. 1304 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 2 lipca 2018 r.
-w sprawie nagrody jubileuszowej funkcjonariuszy Straży Marszałkowskiej Na podstawie art. 78 ust. 2 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. poz. 729) zarządza się, co następuje: § 1. Rozporządzenie określa okresy wliczane do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej przez funkcjonariuszy Straży Marszałkowskiej, zwanych dalej „funkcjonariuszami”, sposób jej obliczania i wypłacania, podstawę obliczania nagrody jubileuszowej oraz datę nabycia prawa do tej nagrody.
+w sprawie nagrody jubileuszowej funkcjonariuszy Straży Marszałkowskiej Na podstawie art. 78 ust. 2 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. poz. 729) zarządza się, co następuje:
+§ 1. Rozporządzenie określa okresy wliczane do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej przez funkcjonariuszy Straży Marszałkowskiej, zwanych dalej „funkcjonariuszami”, sposób jej obliczania i wypłacania, podstawę obliczania nagrody jubileuszowej oraz datę nabycia prawa do tej nagrody.
 § 2. Do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej przez funkcjonariuszy, wlicza się okresy służby lub pracy oraz inne okresy uwzględniane przy ustalaniu wysokości uposażenia funkcjonariusza według stanowiska służbowego, a także inne okresy, jeżeli na podstawie odrębnych przepisów podlegają zaliczeniu do okresu służby lub pracy, od którego zależą uprawnienia pracownicze.
 § 3. Podstawę obliczania nagrody jubileuszowej stanowi uposażenie przysługujące funkcjonariuszowi w dniu wypłaty nagrody, a jeżeli jest to dla niego korzystniejsze – uposażenie należne w dniu nabycia prawa do nagrody.
 § 4. Funkcjonariusz nabywa prawo do nagrody jubileuszowej w określonej wysokości w dniu upływu wymaganego okresu służby.

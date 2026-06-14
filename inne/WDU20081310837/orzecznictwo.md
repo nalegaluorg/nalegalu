@@ -1,6 +1,6 @@
-# Orzecznictwo — Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2008 r. sygn. akt K 33/06
+# Orzecznictwo — WDU20081310837
 
-Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2008 r. sygn. akt K 33/06*
+Orzeczenia powołujące: *WDU20081310837*
 
 Łącznie: **1** orzeczeń
 

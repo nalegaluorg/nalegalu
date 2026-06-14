@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-508917|2024-01-04|SO|IV Pz 14/23|Postanowienie|https://www.saos.org.pl/judgments/508917
-508919|2021-03-08|SO|IV Pz 3/21|Postanowienie|https://www.saos.org.pl/judgments/508919
+saos_id|date|court|case_number|type|score|saos_url
+546010|2025-12-29|SO|I ACz 1854/25|Postanowienie|47|https://www.saos.org.pl/judgments/546010

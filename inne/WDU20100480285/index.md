@@ -8,7 +8,7 @@ pos: 285
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 22/3/A/2010 WYROK z dnia 16 marca 2010 r.

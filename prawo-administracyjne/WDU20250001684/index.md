@@ -8,7 +8,7 @@ pos: 1684
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o samorządzie powiatowym
@@ -58,7 +58,9 @@ source: "isap-pdf"
 
 3. Ustalenie granic powiatu następuje poprzez wskazanie gmin wchodzących w skład powiatu, a zmiana jego granic dokonywana jest w sposób zapewniający powiatowi terytorium możliwie jednorodne ze względu na układ osadniczy i przestrzenny, uwzględniający więzi społeczne, gospodarcze i kulturowe oraz zapewniający zdolność wykonywania zadań publicznych.
 
-4. Przez łączenie powiatów należy również rozumieć połączenie miasta na prawach powiatu z powiatem mającym siedzibę władz w tym mieście. Z dniem połączenia wygasają prawa powiatu posiadane dotychczas przez miasto. więcej gmin z terytorium powiatu z jednoczesnym:
+4. Przez łączenie powiatów należy również rozumieć połączenie miasta na prawach powiatu z powiatem mającym siedzibę władz w tym mieście. Z dniem połączenia wygasają prawa powiatu posiadane dotychczas przez miasto.
+
+5. Przez dzielenie powiatów należy również rozumieć wyłączenie jednej lub więcej gmin z terytorium powiatu z jednoczesnym:
 
 - **1)** włączeniem tej gminy lub gmin do innego powiatu;
 - **2)** utworzeniem powiatu z tych gmin albo z tych gmin i miasta na prawach powiatu; z dniem utworzenia powiatu wygasają prawa powiatu posiadane dotychczas przez miasto;
@@ -78,7 +80,8 @@ source: "isap-pdf"
 
 1. Wydanie rozporządzenia, o którym mowa w art. 3 ust. 1, na wniosek odpowiednio rady powiatu, rady miasta na prawach powiatu lub rady gminy wymaga:
 
-- **1)** wniosku rady powiatu, rady miasta na prawach powiatu lub rady gminy poprzedzonego przeprowadzeniem przez tę radę konsultacji z mieszkańcami, wraz z uzasadnieniem oraz niezbędnymi dokumentami, mapami i informacjami potwierdzającymi zasadność wniosku; wnioskiem, poprzedzonych przeprowadzeniem przez te rady konsultacji z mieszkańcami, a w przypadku zmiany granic powiatu naruszającej granice województw – opinii sejmików województw;
+- **1)** wniosku rady powiatu, rady miasta na prawach powiatu lub rady gminy poprzedzonego przeprowadzeniem przez tę radę konsultacji z mieszkańcami, wraz z uzasadnieniem oraz niezbędnymi dokumentami, mapami i informacjami potwierdzającymi zasadność wniosku;
+- **2)** opinii odpowiednio rad powiatów lub rady miasta na prawach powiatu objętych wnioskiem, poprzedzonych przeprowadzeniem przez te rady konsultacji z mieszkańcami, a w przypadku zmiany granic powiatu naruszającej granice województw – opinii sejmików województw;
 - **3)** opinii rad gmin, których dotyczy wniosek;
 - **4)** opinii wojewody właściwego dla powiatu lub miasta na prawach powiatu objętego wnioskiem.
 
@@ -88,7 +91,7 @@ source: "isap-pdf"
 
 4. Rada Ministrów określi, w drodze rozporządzenia, tryb postępowania przy składaniu wniosków, o których mowa w ust. 1, oraz dokumenty, które należy dołączyć do wniosku.
 
-**Art. 3c.** W przypadku uzyskania zgody na połączenie miasta na prawach powiatu z powiatem mającym siedzibę władz w tym mieście lub utworzenie powiatu, w którego skład wejdzie dotychczasowe miasto na prawach powiatu, wyrażonej we wniosku lub opinii rady powiatu lub rady miasta na prawach powiatu oraz w wyniku przeprowadzonych przez te rady konsultacji z mieszkańcami, Rada Ministrów obowiązana jest dokonać tego połączenia lub utworzenia powiatu, w drodze rozporządzenia, o którym mowa w art. 3 ust. 1. Art. 3ca. 1. W przypadku łączenia powiatów lub tworzenia nowego powiatu Prezes Rady Ministrów, na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza pełnomocnika do spraw połączenia powiatów lub utworzenia nowego powiatu spośród pracowników podległych wojewodzie albo pracowników starostwa powiatu, którego obszar wchodzi w skład łączonego lub nowo tworzonego powiatu. 2. Do czasu połączenia powiatów oraz utworzenia nowego powiatu zadaniem pełnomocnika, o którym mowa w ust. 1, jest przygotowanie organizacyjne i prawne powiatu do wykonywania zadań publicznych, w tym przygotowanie projektu uchwały budżetowej powiatu w trybie i na zasadach określonych w przepisach o finansach publicznych. o którym mowa w ust. 1, przejmuje wykonywanie zadań i kompetencji jego organów do czasu wyboru nowych organów powiatu, a w przypadku, o którym mowa w art. 390a § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365) – do dnia pierwszej sesji rady powiatu zwołanej w trybie art. 15 ust. 10. Art. 3cb. 1. Powiat powstały w wyniku połączenia powiatów wstępuje we wszystkie prawa i obowiązki połączonych powiatów, w tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych. 2. Organy powiatu powstałego w wyniku połączenia powiatów stają się organami właściwymi lub stronami wszczętych i niezakończonych postępowań administracyjnych i sądowych. 3. Ujawnienie w księgach wieczystych lub w rejestrach przejścia na powiat, o którym mowa w ust. 1, praw ujawnionych w tych księgach lub rejestrach następuje na wniosek powiatu. 4. W przypadku gdy rozporządzenie w sprawie połączenia powiatów zostało wydane na wniosek poparty przez wszystkie zainteresowane rady powiatów, powiaty te zawierają porozumienie, o którym mowa w art. 47 ust. 1 pkt 2. 5. Akty prawa miejscowego ustanowione przez organy powiatów albo miast na prawach powiatu przed połączeniem powiatów stają się aktami prawa miejscowego powiatu powstałego w wyniku połączenia powiatów, obowiązującymi na obszarze działania organów, które je ustanowiły, do dnia wejścia w życie nowych aktów prawa miejscowego ustanowionych przez organ powiatu powstałego w wyniku połączenia powiatów, jednak nie dłużej niż przez okres 3 lat od dnia połączenia.
+**Art. 3c.** W przypadku uzyskania zgody na połączenie miasta na prawach powiatu z powiatem mającym siedzibę władz w tym mieście lub utworzenie powiatu, w którego skład wejdzie dotychczasowe miasto na prawach powiatu, wyrażonej we wniosku lub opinii rady powiatu lub rady miasta na prawach powiatu oraz w wyniku przeprowadzonych przez te rady konsultacji z mieszkańcami, Rada Ministrów obowiązana jest dokonać tego połączenia lub utworzenia powiatu, w drodze rozporządzenia, o którym mowa w art. 3 ust. 1. Art. 3ca. 1. W przypadku łączenia powiatów lub tworzenia nowego powiatu Prezes Rady Ministrów, na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza pełnomocnika do spraw połączenia powiatów lub utworzenia nowego powiatu spośród pracowników podległych wojewodzie albo pracowników starostwa powiatu, którego obszar wchodzi w skład łączonego lub nowo tworzonego powiatu. 2. Do czasu połączenia powiatów oraz utworzenia nowego powiatu zadaniem pełnomocnika, o którym mowa w ust. 1, jest przygotowanie organizacyjne i prawne powiatu do wykonywania zadań publicznych, w tym przygotowanie projektu uchwały budżetowej powiatu w trybie i na zasadach określonych w przepisach o finansach publicznych. 3. Z dniem połączenia powiatów lub utworzenia nowego powiatu pełnomocnik, o którym mowa w ust. 1, przejmuje wykonywanie zadań i kompetencji jego organów do czasu wyboru nowych organów powiatu, a w przypadku, o którym mowa w art. 390a § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365) – do dnia pierwszej sesji rady powiatu zwołanej w trybie art. 15 ust. 10. Art. 3cb. 1. Powiat powstały w wyniku połączenia powiatów wstępuje we wszystkie prawa i obowiązki połączonych powiatów, w tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych. 2. Organy powiatu powstałego w wyniku połączenia powiatów stają się organami właściwymi lub stronami wszczętych i niezakończonych postępowań administracyjnych i sądowych. 3. Ujawnienie w księgach wieczystych lub w rejestrach przejścia na powiat, o którym mowa w ust. 1, praw ujawnionych w tych księgach lub rejestrach następuje na wniosek powiatu. 4. W przypadku gdy rozporządzenie w sprawie połączenia powiatów zostało wydane na wniosek poparty przez wszystkie zainteresowane rady powiatów, powiaty te zawierają porozumienie, o którym mowa w art. 47 ust. 1 pkt 2. 5. Akty prawa miejscowego ustanowione przez organy powiatów albo miast na prawach powiatu przed połączeniem powiatów stają się aktami prawa miejscowego powiatu powstałego w wyniku połączenia powiatów, obowiązującymi na obszarze działania organów, które je ustanowiły, do dnia wejścia w życie nowych aktów prawa miejscowego ustanowionych przez organ powiatu powstałego w wyniku połączenia powiatów, jednak nie dłużej niż przez okres 3 lat od dnia połączenia.
 
 **Art. 3d.**
 
@@ -98,7 +101,9 @@ source: "isap-pdf"
 
 3. Szczególną formą konsultacji społecznych jest budżet obywatelski.
 
-4. W ramach budżetu obywatelskiego mieszkańcy w bezpośrednim głosowaniu decydują corocznie o części wydatków budżetu powiatu. Zadania wybrane w ramach budżetu obywatelskiego zostają uwzględnione w uchwale budżetowej powiatu. Rada powiatu w toku prac nad projektem uchwały budżetowej nie może usuwać lub zmieniać w stopniu istotnym zadań wybranych w ramach budżetu obywatelskiego. na pule obejmujące całość powiatu i jego części w postaci gmin lub grup gmin.
+4. W ramach budżetu obywatelskiego mieszkańcy w bezpośrednim głosowaniu decydują corocznie o części wydatków budżetu powiatu. Zadania wybrane w ramach budżetu obywatelskiego zostają uwzględnione w uchwale budżetowej powiatu. Rada powiatu w toku prac nad projektem uchwały budżetowej nie może usuwać lub zmieniać w stopniu istotnym zadań wybranych w ramach budżetu obywatelskiego.
+
+5. Środki wydatkowane w ramach budżetu obywatelskiego mogą być dzielone na pule obejmujące całość powiatu i jego części w postaci gmin lub grup gmin.
 
 6. Rada powiatu określa w drodze uchwały wymagania, jakie powinien spełniać projekt budżetu obywatelskiego, w szczególności:
 
@@ -122,7 +127,9 @@ source: "isap-pdf"
 
 4. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
 
-5. Młodzieżowa rada powiatu ma charakter konsultacyjny, doradczy i inicjatywny. wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut powiatu lub odrębna uchwała rady powiatu.
+5. Młodzieżowa rada powiatu ma charakter konsultacyjny, doradczy i inicjatywny.
+
+6. Młodzieżowa rada powiatu może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut powiatu lub odrębna uchwała rady powiatu.
 
 7. W sprawach dotyczących powiatu młodzieżowa rada powiatu może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Starosta powiatu lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały.
 
@@ -138,6 +145,8 @@ source: "isap-pdf"
 10. Rada powiatu, tworząc młodzieżową radę powiatu, nadaje jej statut określający w szczególności zasady działania młodzieżowej rady powiatu, tryb i kryteria wyboru jej członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowej rady powiatu. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu.
 
 11. Członkowi młodzieżowej rady powiatu biorącemu udział w posiedzeniach młodzieżowej rady powiatu lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę powiatu, a w przypadku niepełnoletniego członka młodzieżowej rady powiatu – także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowej rady powiatu lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę powiatu, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowej rady powiatu na zorganizowane wydarzenia, na których reprezentują oni młodzieżową radę powiatu, reguluje statut młodzieżowej rady powiatu.
+
+12. Młodzieżowa rada powiatu może posiadać opiekuna.
 
 13. Statut młodzieżowej rady powiatu może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania.
 
@@ -166,7 +175,9 @@ source: "isap-pdf"
 
 8. W sprawach dotyczących powiatu powiatowa rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Starosta lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały.
 
-9. Powiatowa rada seniorów składa się z przedstawicieli osób starszych oraz przedstawicieli podmiotów działających na rzecz osób starszych, w szczególności przedstawicieli organizacji pozarządowych oraz podmiotów prowadzących uniwersytety trzeciego wieku. powiatowej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on powiatową radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, w tym koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu powiatowej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on powiatową radę seniorów, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem.
+9. Powiatowa rada seniorów składa się z przedstawicieli osób starszych oraz przedstawicieli podmiotów działających na rzecz osób starszych, w szczególności przedstawicieli organizacji pozarządowych oraz podmiotów prowadzących uniwersytety trzeciego wieku.
+
+10. Członkowi powiatowej rady seniorów biorącemu udział w posiedzeniach powiatowej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on powiatową radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, w tym koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu powiatowej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on powiatową radę seniorów, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem.
 
 11. Rada powiatu, tworząc powiatową radę seniorów, nadaje jej statut określający w szczególności:
 
@@ -192,6 +203,7 @@ source: "isap-pdf"
 - **3)** pomocy społecznej;
 - **3a)** wspierania rodziny i systemu pieczy zastępczej;
 - **4)** polityki prorodzinnej;
+- **5)** wspierania osób niepełnosprawnych;
 - **5a)** polityki senioralnej;
 - **6)** transportu zbiorowego i dróg publicznych;
 - **7)** kultury oraz ochrony zabytków i opieki nad zabytkami;
@@ -222,6 +234,8 @@ source: "isap-pdf"
 
 5. Powiat na uzasadniony wniosek zainteresowanej gminy przekazuje jej zadania z zakresu swojej właściwości na warunkach ustalonych w porozumieniu.
 
+6. Zadania powiatu nie mogą naruszać zakresu działania gmin.
+
 **Art. 4a.** Ustawy mogą nakładać na powiat obowiązek wykonywania zadań z zakresu organizacji przygotowań i przeprowadzenia wyborów powszechnych oraz referendów.
 
 **Art. 4b.**
@@ -242,7 +256,9 @@ source: "isap-pdf"
 
 1. Powiat może zawierać z organami administracji rządowej porozumienia w sprawie wykonywania zadań publicznych z zakresu administracji rządowej.
 
-2. Powiat może zawierać porozumienia w sprawie powierzenia prowadzenia zadań publicznych z jednostkami lokalnego samorządu terytorialnego, a także z województwem, na którego obszarze znajduje się terytorium powiatu. w wojewódzkim dzienniku urzędowym.
+2. Powiat może zawierać porozumienia w sprawie powierzenia prowadzenia zadań publicznych z jednostkami lokalnego samorządu terytorialnego, a także z województwem, na którego obszarze znajduje się terytorium powiatu.
+
+3. Porozumienia, o których mowa w ust. 1 i 2, podlegają ogłoszeniu w wojewódzkim dzienniku urzędowym.
 
 4. Do porozumień stosuje się odpowiednio przepisy ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436).
 
@@ -254,6 +270,10 @@ source: "isap-pdf"
 
 **Art. 6a.** Powiat może zapewnić wspólną obsługę, w szczególności administracyjną, finansową i organizacyjną:
 
+- **1)** jednostkom organizacyjnym powiatu zaliczanym do sektora finansów publicznych,
+- **2)** powiatowym instytucjom kultury, 2a) spółkom, o których mowa w art. 9 ust. 1 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2021 r. poz. 679),
+- **3)** innym zaliczanym do sektora finansów publicznych powiatowym osobom prawnym utworzonym na podstawie odrębnych ustaw w celu wykonywania zadań publicznych, z wyłączeniem przedsiębiorstw, instytutów badawczych i banków – zwanym dalej „jednostkami obsługiwanymi”.
+
 **Art. 6b.**
 
 1. Wspólną obsługę mogą prowadzić starostwo powiatowe, inna jednostka organizacyjna powiatu, jednostka organizacyjna związku powiatów, jednostka organizacyjna związku powiatowo-gminnego albo spółka, o której mowa w art. 9 ust. 1 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej, w tym spółka prawa handlowego powołana w celu prowadzenia wspólnej obsługi, zwane dalej „jednostkami obsługującymi”.
@@ -264,7 +284,7 @@ source: "isap-pdf"
 - **2)** jednostki obsługiwane;
 - **3)** zakres obowiązków powierzonych jednostkom obsługującym w ramach wspólnej obsługi.
 
-3. Jednostki obsługiwane, o których mowa w art. 6a pkt 2 i 3, mogą, na podstawie porozumień zawartych przez te jednostki z jednostką obsługującą, powiatu. Zakres wspólnej obsługi określa zawarte porozumienie.
+3. Jednostki obsługiwane, o których mowa w art. 6a pkt 2 i 3, mogą, na podstawie porozumień zawartych przez te jednostki z jednostką obsługującą, przystąpić do wspólnej obsługi, po uprzednim zgłoszeniu tego zamiaru zarządowi powiatu. Zakres wspólnej obsługi określa zawarte porozumienie.
 
 4. Jednostka obsługująca ma prawo żądania od jednostki obsługiwanej informacji oraz wglądu w dokumentację w zakresie niezbędnym do wykonywania zadań w ramach wspólnej obsługi tej jednostki.
 
@@ -288,7 +308,9 @@ source: "isap-pdf"
 
 **Art. 7a.**
 
-1. Powiaty, związki i stowarzyszenia powiatów mogą sobie wzajemnie bądź innym jednostkom samorządu terytorialnego udzielać pomocy, w tym pomocy finansowej. pomocy finansowej, społecznościom lokalnym i regionalnym innych państw. Podstawą udzielania tej pomocy jest uchwała organu stanowiącego powiatu, związku powiatów lub właściwego organu statutowego stowarzyszenia powiatów.
+1. Powiaty, związki i stowarzyszenia powiatów mogą sobie wzajemnie bądź innym jednostkom samorządu terytorialnego udzielać pomocy, w tym pomocy finansowej.
+
+2. Powiaty, związki i stowarzyszenia powiatów mogą udzielać pomocy, w tym pomocy finansowej, społecznościom lokalnym i regionalnym innych państw. Podstawą udzielania tej pomocy jest uchwała organu stanowiącego powiatu, związku powiatów lub właściwego organu statutowego stowarzyszenia powiatów.
 
 #### Rozdział 3 Władze powiatu
 
@@ -323,11 +345,43 @@ source: "isap-pdf"
 
 **Art. 10.**
 
-1. Odwołanie rady powiatu przed upływem kadencji następuje w drodze referendum powiatowego. ustawa.
+1. Odwołanie rady powiatu przed upływem kadencji następuje w drodze referendum powiatowego.
+
+2. Zasady i tryb przeprowadzania referendum powiatowego określa odrębna ustawa.
 
 **Art. 11.** (uchylony)
 
 **Art. 12.** Do wyłącznej właściwości rady powiatu należy:
+
+- **1)** stanowienie aktów prawa miejscowego, w tym statutu powiatu;
+- **2)** wybór i odwołanie zarządu oraz ustalanie wynagrodzenia jego przewodniczącego;
+- **3)** powoływanie i odwoływanie, na wniosek starosty, skarbnika powiatu, będącego głównym księgowym budżetu powiatu;
+- **4)** stanowienie o kierunkach działania zarządu powiatu oraz rozpatrywanie sprawozdań z działalności zarządu, w tym z działalności finansowej;
+- **5)** uchwalanie budżetu powiatu;
+- **6)** rozpatrywanie sprawozdania z wykonania budżetu oraz podejmowanie uchwały w sprawie udzielenia lub nieudzielenia absolutorium dla zarządu z tego tytułu;
+- **6a)** rozpatrywanie raportu o stanie powiatu oraz podejmowanie uchwały w sprawie udzielenia lub nieudzielenia wotum zaufania dla zarządu z tego tytułu;
+- **7)** podejmowanie uchwał w sprawach wysokości podatków i opłat w granicach określonych ustawami;
+- **8)** podejmowanie uchwał w sprawach majątkowych powiatu dotyczących: uchwała rady powiatu jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą rady powiatu,
+    - **a)** zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, o ile ustawy szczególne nie stanowią inaczej;
+    - **b)** emitowania obligacji oraz określania zasad ich zbywania, nabywania i wykupu,
+    - **c)** zaciągania długoterminowych zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. ),
+    - **d)** ustalania maksymalnej wysokości pożyczek i kredytów krótkoterminowych zaciąganych przez zarząd oraz maksymalnej wysokości pożyczek i poręczeń udzielanych przez zarząd w roku budżetowym,
+    - **e)** zobowiązań w zakresie podejmowania inwestycji i remontów o wartości przekraczającej granicę ustaloną corocznie przez radę,
+    - **f)** tworzenia i przystępowania do związków, stowarzyszeń, fundacji i spółdzielni oraz ich rozwiązywania lub występowania z nich,
+    - **g)** tworzenia i przystępowania do spółek, ich rozwiązywania i występowania z nich oraz określania zasad wnoszenia wkładów oraz obejmowania, nabywania i zbywania udziałów i akcji,
+    - **h)** współdziałania z innymi powiatami i z gminami, jeżeli związane jest to z koniecznością wydzielenia majątku,
+    - **i)** tworzenia, przekształcania i likwidacji jednostek organizacyjnych oraz wyposażania ich w majątek,
+    - **j)** wyrażenia zgody na zawarcie umowy, o której mowa w art. 50a ust. 1;
+
+- **8a)** podejmowanie uchwał w sprawie przyjęcia zadań z zakresu administracji rządowej oraz w sprawie powierzenia prowadzenia zadań publicznych, o których mowa w art. 5;
+- **9)** określanie wysokości sumy, do której zarząd może samodzielnie zaciągać zobowiązania;
+- **9a)** podejmowanie uchwał w sprawach współpracy ze społecznościami lokalnymi innych państw oraz przystępowania do międzynarodowych zrzeszeń społeczności lokalnych;
+- **9b)** uchwalanie powiatowego programu zapobiegania przestępczości oraz ochrony bezpieczeństwa obywateli i porządku publicznego;
+- **9c)** uchwalanie powiatowego programu przeciwdziałania bezrobociu oraz aktywizacji lokalnego rynku pracy; 9ca) przyjmowanie programów rozwoju w trybie określonym w przepisach o zasadach prowadzenia polityki rozwoju;
+- **9d)** dokonywanie oceny stanu bezpieczeństwa przeciwpożarowego i zabezpieczenia przeciwpowodziowego powiatu;
+- **10)** podejmowanie uchwał w sprawach herbu powiatu i flagi powiatu;
+- **10a)** podejmowanie uchwał w sprawie zasad udzielania stypendiów dla uczniów i studentów;
+- **11)** podejmowanie uchwał w innych sprawach zastrzeżonych ustawami do kompetencji rady powiatu.
 
 **Art. 13.**
 
@@ -353,7 +407,9 @@ source: "isap-pdf"
 
 5. W przypadku rezygnacji przewodniczącego lub wiceprzewodniczącego rada podejmuje uchwałę w sprawie przyjęcia tej rezygnacji zwykłą większością głosów, nie później niż w ciągu jednego miesiąca od dnia złożenia rezygnacji.
 
-6. Niepodjęcie uchwały, o której mowa w ust. 5, w ciągu 1 miesiąca od dnia złożenia rezygnacji przez przewodniczącego lub wiceprzewodniczącego jest równoznaczne z przyjęciem rezygnacji przez radę z upływem ostatniego dnia miesiąca, w którym powinna być podjęta uchwała. i wiceprzewodniczących oraz niewybrania w ich miejsce osób do pełnienia tych funkcji w terminie 30 dni od dnia przyjęcia rezygnacji albo od dnia odwołania, sesję rady powiatu w celu wyboru przewodniczącego, zwołuje wojewoda. Sesja zwoływana jest na dzień przypadający w ciągu 7 dni po upływie terminu, o którym mowa w zdaniu pierwszym.
+6. Niepodjęcie uchwały, o której mowa w ust. 5, w ciągu 1 miesiąca od dnia złożenia rezygnacji przez przewodniczącego lub wiceprzewodniczącego jest równoznaczne z przyjęciem rezygnacji przez radę z upływem ostatniego dnia miesiąca, w którym powinna być podjęta uchwała.
+
+7. W przypadku odwołania lub przyjęcia rezygnacji przewodniczącego i wiceprzewodniczących oraz niewybrania w ich miejsce osób do pełnienia tych funkcji w terminie 30 dni od dnia przyjęcia rezygnacji albo od dnia odwołania, sesję rady powiatu w celu wyboru przewodniczącego, zwołuje wojewoda. Sesja zwoływana jest na dzień przypadający w ciągu 7 dni po upływie terminu, o którym mowa w zdaniu pierwszym.
 
 8. Sesję rady powiatu, o której mowa w ust. 7, do czasu wyboru przewodniczącego prowadzi najstarszy wiekiem radny obecny na sesji, który wyraził zgodę na prowadzenie sesji.
 
@@ -375,7 +431,9 @@ source: "isap-pdf"
 
 6. Pierwszą sesję nowo wybranej rady powiatu, do czasu wyboru przewodniczącego rady, prowadzi najstarszy wiekiem radny obecny na sesji.
 
-7. Na wniosek zarządu lub co najmniej 1/4 ustawowego składu rady powiatu przewodniczący obowiązany jest zwołać sesję na dzień przypadający w ciągu 7 dni od dnia złożenia wniosku. Wniosek o zwołanie sesji powinien spełniać wymogi określone w ust. 1. w ust. 7 stosuje się przepis ust. 2, z tym że dodatkowo wymagana jest zgoda wnioskodawcy.
+7. Na wniosek zarządu lub co najmniej 1/4 ustawowego składu rady powiatu przewodniczący obowiązany jest zwołać sesję na dzień przypadający w ciągu 7 dni od dnia złożenia wniosku. Wniosek o zwołanie sesji powinien spełniać wymogi określone w ust. 1.
+
+8. Do zmiany porządku obrad sesji zwołanej w trybie określonym w ust. 7 stosuje się przepis ust. 2, z tym że dodatkowo wymagana jest zgoda wnioskodawcy.
 
 9. Na wniosek starosty przewodniczący rady powiatu jest obowiązany wprowadzić do porządku obrad najbliższej sesji rady powiatu projekt uchwały, jeżeli wnioskodawcą jest zarząd powiatu, a projekt wpłynął do rady powiatu co najmniej 7 dni przed dniem rozpoczęcia sesji rady.
 
@@ -395,7 +453,9 @@ source: "isap-pdf"
 
 **Art. 16a.**
 
-1. Rada powiatu rozpatruje: skargi na działania zarządu powiatu i powiatowych jednostek organizacyjnych; wnioski oraz petycje składane przez obywateli; w tym celu powołuje komisję skarg, wniosków i petycji. przedstawiciele wszystkich klubów, z wyjątkiem radnych pełniących funkcje, o których mowa w art. 14 ust. 1, oraz będących członkami zarządu.
+1. Rada powiatu rozpatruje: skargi na działania zarządu powiatu i powiatowych jednostek organizacyjnych; wnioski oraz petycje składane przez obywateli; w tym celu powołuje komisję skarg, wniosków i petycji.
+
+2. W skład komisji skarg, wniosków i petycji wchodzą radni, w tym przedstawiciele wszystkich klubów, z wyjątkiem radnych pełniących funkcje, o których mowa w art. 14 ust. 1, oraz będących członkami zarządu.
 
 3. Zasady i tryb działania komisji skarg, wniosków i petycji określa statut powiatu.
 
@@ -425,7 +485,11 @@ source: "isap-pdf"
 
 2. (uchylony)
 
-3. Radny nieobecny na pierwszej sesji rady powiatu oraz radny, który uzyskał mandat w czasie trwania kadencji, składa ślubowanie na pierwszej sesji, na której jest obecny. samorządowej powiatu. Radny utrzymuje stałą więź z mieszkańcami oraz ich organizacjami, a w szczególności przyjmuje zgłaszane przez mieszkańców powiatu postulaty i przedstawia je organom powiatu do rozpatrzenia, nie jest jednak związany instrukcjami wyborców.
+3. Radny nieobecny na pierwszej sesji rady powiatu oraz radny, który uzyskał mandat w czasie trwania kadencji, składa ślubowanie na pierwszej sesji, na której jest obecny.
+
+**Art. 21.**
+
+1. Radny obowiązany jest kierować się dobrem wspólnoty samorządowej powiatu. Radny utrzymuje stałą więź z mieszkańcami oraz ich organizacjami, a w szczególności przyjmuje zgłaszane przez mieszkańców powiatu postulaty i przedstawia je organom powiatu do rozpatrzenia, nie jest jednak związany instrukcjami wyborców.
 
 2. Radny obowiązany jest brać udział w pracach organów powiatu oraz powiatowych jednostek organizacyjnych, do których został wybrany lub desygnowany.
 
@@ -441,7 +505,9 @@ source: "isap-pdf"
 
 5. Wysokość diet przysługujących radnemu nie może przekroczyć w ciągu miesiąca łącznie 2,4-krotności kwoty bazowej określonej w ustawie budżetowej dla osób zajmujących kierownicze stanowiska państwowe na podstawie przepisów ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2024 r. poz. 1356).
 
-5a. Rada Ministrów określa, w drodze rozporządzenia, maksymalną wysokość diet przysługujących radnemu w ciągu miesiąca, uwzględniając liczbę mieszkańców powiatów. rozporządzenia, sposób ustalania należności z tytułu zwrotu kosztów podróży służbowych radnych, uwzględniając celowość zwrotu rzeczywiście poniesionych wydatków związanych z wykonywaniem mandatu oraz ułatwienie dokonywania rozliczeń.
+5a. Rada Ministrów określa, w drodze rozporządzenia, maksymalną wysokość diet przysługujących radnemu w ciągu miesiąca, uwzględniając liczbę mieszkańców powiatów.
+
+5b. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, sposób ustalania należności z tytułu zwrotu kosztów podróży służbowych radnych, uwzględniając celowość zwrotu rzeczywiście poniesionych wydatków związanych z wykonywaniem mandatu oraz ułatwienie dokonywania rozliczeń.
 
 6. (uchylony)
 
@@ -467,7 +533,11 @@ source: "isap-pdf"
 
 1. Pracodawca obowiązany jest zwolnić radnego od pracy zawodowej w celu umożliwienia radnemu brania udziału w pracach organów powiatu.
 
-2. Rozwiązanie z radnym stosunku pracy wymaga uprzedniej zgody rady powiatu, której radny jest członkiem. Rada powiatu odmówi zgody na rozwiązanie stosunku pracy z radnym, jeżeli podstawą rozwiązania tego stosunku są zdarzenia związane z wykonywaniem przez radnego mandatu. powiatowym powiatu, w którym radny uzyskał mandat.
+2. Rozwiązanie z radnym stosunku pracy wymaga uprzedniej zgody rady powiatu, której radny jest członkiem. Rada powiatu odmówi zgody na rozwiązanie stosunku pracy z radnym, jeżeli podstawą rozwiązania tego stosunku są zdarzenia związane z wykonywaniem przez radnego mandatu.
+
+**Art. 23.**
+
+1. Z radnym nie może być nawiązany stosunek pracy w starostwie powiatowym powiatu, w którym radny uzyskał mandat.
 
 2. Radny nie może pełnić funkcji kierownika powiatowej jednostki organizacyjnej oraz jego zastępcy.
 
@@ -489,7 +559,13 @@ source: "isap-pdf"
 
 5. Niezłożenie przez radnego wniosku, o którym mowa w ust. 1, jest równoznaczne ze zrzeczeniem się mandatu.
 
-**Art. 25.** Po wygaśnięciu mandatu radnego, o którym mowa w art. 24, odpowiednio starostwo powiatowe lub powiatowa jednostka organizacyjna przywraca radnego do pracy na tym samym lub równorzędnym stanowisku pracy, z wynagrodzeniem odpowiadającym wynagrodzeniu, jakie radny otrzymywałby, gdyby nie korzystał z urlopu bezpłatnego. Radny zgłasza gotowość przystąpienia do pracy w terminie 7 dni od dnia wygaśnięcia mandatu. darowizn mogących podważyć zaufanie wyborców do wykonywania mandatu zgodnie z art. 20 ust. 1. 2. Radni nie mogą powoływać się na swój mandat w związku z podjętymi dodatkowymi zajęciami bądź działalnością gospodarczą prowadzoną na własny rachunek lub wspólnie z innymi osobami.
+**Art. 25.** Po wygaśnięciu mandatu radnego, o którym mowa w art. 24, odpowiednio starostwo powiatowe lub powiatowa jednostka organizacyjna przywraca radnego do pracy na tym samym lub równorzędnym stanowisku pracy, z wynagrodzeniem odpowiadającym wynagrodzeniu, jakie radny otrzymywałby, gdyby nie korzystał z urlopu bezpłatnego. Radny zgłasza gotowość przystąpienia do pracy w terminie 7 dni od dnia wygaśnięcia mandatu.
+
+**Art. 25a.**
+
+1. Radni nie mogą podejmować dodatkowych zajęć ani otrzymywać darowizn mogących podważyć zaufanie wyborców do wykonywania mandatu zgodnie z art. 20 ust. 1.
+
+2. Radni nie mogą powoływać się na swój mandat w związku z podjętymi dodatkowymi zajęciami bądź działalnością gospodarczą prowadzoną na własny rachunek lub wspólnie z innymi osobami.
 
 **Art. 25b.**
 
@@ -501,7 +577,7 @@ source: "isap-pdf"
 
 4. Jeżeli wybór lub powołanie, o których mowa w ust. 3, nastąpiły przed rozpoczęciem wykonywania mandatu radnego albo dniem wyboru członka zarządu powiatu lub przed zatrudnieniem na stanowisku sekretarza powiatu, powołaniem skarbnika powiatu, kierownika jednostki organizacyjnej powiatu oraz osoby zarządzającej i członka organu zarządzającego powiatową osobą prawną, osoby, o których mowa w ust. 3, są obowiązane zrzec się stanowiska lub funkcji w terminie 3 miesięcy od dnia złożenia ślubowania przez radnego albo od dnia wyboru, zatrudnienia na podstawie umowy o pracę lub powołania na stanowisko. W razie niezrzeczenia się stanowiska lub funkcji osoba, o której mowa w ust. 3, traci je z mocy prawa po upływie terminu, o którym mowa w zdaniu pierwszym.
 
-5. Radni nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji w spółkach handlowych z udziałem powiatowych osób prawnych lub ten pakiet powinny być zbyte przez radnego przed pierwszą sesją rady powiatu, a w razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i 2 lat po jego wygaśnięciu w wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru).
+5. Radni nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji w spółkach handlowych z udziałem powiatowych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Udziały lub akcje przekraczające ten pakiet powinny być zbyte przez radnego przed pierwszą sesją rady powiatu, a w razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i 2 lat po jego wygaśnięciu w wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru).
 
 **Art. 25c.**
 
@@ -518,7 +594,7 @@ source: "isap-pdf"
 
 - **1)** radny – przewodniczącemu rady powiatu;
 - **2)** starosta, przewodniczący rady powiatu – wojewodzie;
-- **3)** wicestarosta, członek zarządu powiatu, sekretarz powiatu, skarbnik powiatu, kierownik jednostki organizacyjnej powiatu, osoba zarządzająca i członek administracyjne w imieniu starosty – staroście.
+- **3)** wicestarosta, członek zarządu powiatu, sekretarz powiatu, skarbnik powiatu, kierownik jednostki organizacyjnej powiatu, osoba zarządzająca i członek organu zarządzającego powiatową osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu starosty – staroście.
 
 4. Radny składa pierwsze oświadczenie majątkowe w terminie 30 dni od dnia złożenia ślubowania. Do pierwszego oświadczenia majątkowego radny jest obowiązany dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem mienia powiatu, w którym uzyskał mandat, jeżeli taką działalność prowadził przed dniem wyboru. Kolejne oświadczenia majątkowe są składane przez radnego co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz na 2 miesiące przed upływem kadencji.
 
@@ -528,7 +604,7 @@ source: "isap-pdf"
 
 6. Analizy danych zawartych w oświadczeniu majątkowym dokonują osoby, którym złożono oświadczenie majątkowe. Osoby, którym złożono oświadczenie majątkowe, przekazują jeden egzemplarz urzędowi skarbowemu właściwemu ze względu na miejsce zamieszkania osoby składającej oświadczenie majątkowe. Oświadczenie majątkowe przechowuje się przez 6 lat.
 
-7. Analizy danych zawartych w oświadczeniu majątkowym dokonuje również naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania osoby urzędu skarbowego uwzględnia również zeznanie o wysokości osiągniętego dochodu w roku podatkowym (PIT) małżonka osoby składającej oświadczenie.
+7. Analizy danych zawartych w oświadczeniu majątkowym dokonuje również naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania osoby składającej oświadczenie majątkowe. Analizując oświadczenie majątkowe, naczelnik urzędu skarbowego uwzględnia również zeznanie o wysokości osiągniętego dochodu w roku podatkowym (PIT) małżonka osoby składającej oświadczenie.
 
 8. Podmiot dokonujący analizy, o której mowa w ust. 6 i 7, jest uprawniony do porównania treści analizowanego oświadczenia majątkowego oraz załączonej kopii zeznania o wysokości osiągniętego dochodu w roku podatkowym (PIT) z treścią uprzednio złożonych oświadczeń majątkowych oraz z dołączonymi do nich kopiami zeznań o wysokości osiągniętego dochodu w roku podatkowym (PIT).
 
@@ -548,7 +624,9 @@ source: "isap-pdf"
 
 **Art. 25d.**
 
-1. Informacje zawarte w oświadczeniu majątkowym są jawne, z wyłączeniem informacji o adresie zamieszkania składającego oświadczenie oraz o miejscu położenia nieruchomości. oświadczeń majątkowych, które im złożono.
+1. Informacje zawarte w oświadczeniu majątkowym są jawne, z wyłączeniem informacji o adresie zamieszkania składającego oświadczenie oraz o miejscu położenia nieruchomości.
+
+2. Wojewoda i przewodniczący rady powiatu przekazują staroście kopie oświadczeń majątkowych, które im złożono.
 
 3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
 
@@ -571,7 +649,7 @@ source: "isap-pdf"
 
 **Art. 25h.**
 
-1. Członek zarządu powiatu, skarbnik powiatu, sekretarz powiatu, kierownik jednostki organizacyjnej powiatu, osoba zarządzająca i członek organu stracyjne w imieniu starosty w trakcie pełnienia funkcji lub trwania zatrudnienia oraz przez okres 3 lat po zakończeniu pełnienia funkcji lub ustaniu zatrudnienia nie mogą przyjąć jakiegokolwiek świadczenia o charakterze majątkowym, nieodpłatnie lub odpłatnie w wysokości niższej od jego rzeczywistej wartości od podmiotu lub podmiotu od niego zależnego, jeżeli biorąc udział w wydaniu rozstrzygnięcia w sprawach indywidualnych jego dotyczących mieli bezpośredni wpływ na jego treść.
+1. Członek zarządu powiatu, skarbnik powiatu, sekretarz powiatu, kierownik jednostki organizacyjnej powiatu, osoba zarządzająca i członek organu zarządzającego powiatową osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu starosty w trakcie pełnienia funkcji lub trwania zatrudnienia oraz przez okres 3 lat po zakończeniu pełnienia funkcji lub ustaniu zatrudnienia nie mogą przyjąć jakiegokolwiek świadczenia o charakterze majątkowym, nieodpłatnie lub odpłatnie w wysokości niższej od jego rzeczywistej wartości od podmiotu lub podmiotu od niego zależnego, jeżeli biorąc udział w wydaniu rozstrzygnięcia w sprawach indywidualnych jego dotyczących mieli bezpośredni wpływ na jego treść.
 
 2. Podmiotem zależnym w rozumieniu ust. 1 jest podmiot, w którym:
 
@@ -595,7 +673,9 @@ source: "isap-pdf"
 
 **Art. 27.**
 
-1. Rada powiatu wybiera zarząd w liczbie od 3 do 5 osób, w tym starostę i wicestarostę, w ciągu 3 miesięcy od dnia ogłoszenia wyników wyborów przez właściwy organ wyborczy, z uwzględnieniem ust. 2 i 3. Liczbę członków zarządu określa w statucie rada powiatu. składu rady, w głosowaniu tajnym.
+1. Rada powiatu wybiera zarząd w liczbie od 3 do 5 osób, w tym starostę i wicestarostę, w ciągu 3 miesięcy od dnia ogłoszenia wyników wyborów przez właściwy organ wyborczy, z uwzględnieniem ust. 2 i 3. Liczbę członków zarządu określa w statucie rada powiatu.
+
+2. Rada powiatu wybiera starostę bezwzględną większością głosów ustawowego składu rady, w głosowaniu tajnym.
 
 3. Rada powiatu wybiera wicestarostę oraz pozostałych członków zarządu na wniosek starosty zwykłą większością głosów w obecności co najmniej połowy ustawowego składu rady, w głosowaniu tajnym.
 
@@ -617,7 +697,7 @@ source: "isap-pdf"
 
 6. Organy powiatu ulegają rozwiązaniu z mocy prawa również w przypadkach określonych w art. 390 § 1 pkt 3 oraz § 5 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
-7. W przypadku zmian w podziale terytorialnym państwa, których skutki określa art. 390 § 5 i 8 ustawy, o której mowa w ust. 6, stosuje się odpowiednio przepisy ust. 2–5 z uwzględnieniem zasady, że osobę, która w tym okresie pełni funkcję w podziale terytorialnym państwa.
+7. W przypadku zmian w podziale terytorialnym państwa, których skutki określa art. 390 § 5 i 8 ustawy, o której mowa w ust. 6, stosuje się odpowiednio przepisy ust. 2–5 z uwzględnieniem zasady, że osobę, która w tym okresie pełni funkcję organów powiatu, wyznacza się dla każdego z powiatów powstałych w wyniku zmian w podziale terytorialnym państwa.
 
 **Art. 30.**
 
@@ -644,7 +724,9 @@ source: "isap-pdf"
 7. Mieszkaniec, który chciałby zabrać głos w trybie określonym w ust. 6, składa do przewodniczącego rady pisemne zgłoszenie, poparte podpisami:
 
 - **1)** w powiecie do 100 000 mieszkańców – co najmniej 150 osób;
-- **2)** w powiecie powyżej 100 000 mieszkańców – co najmniej 300 osób. zwołana została sesja, podczas której ma być przedstawiany raport o stanie powiatu. Mieszkańcy są dopuszczani do głosu według kolejności otrzymania przez przewodniczącego rady zgłoszenia. Liczba mieszkańców mogących zabrać głos w debacie wynosi 15, chyba że rada postanowi o zwiększeniu tej liczby.
+- **2)** w powiecie powyżej 100 000 mieszkańców – co najmniej 300 osób.
+
+8. Zgłoszenie składa się najpóźniej w dniu poprzedzającym dzień, na który zwołana została sesja, podczas której ma być przedstawiany raport o stanie powiatu. Mieszkańcy są dopuszczani do głosu według kolejności otrzymania przez przewodniczącego rady zgłoszenia. Liczba mieszkańców mogących zabrać głos w debacie wynosi 15, chyba że rada postanowi o zwiększeniu tej liczby.
 
 9. Po zakończeniu debaty nad raportem o stanie powiatu rada powiatu przeprowadza głosowanie nad udzieleniem zarządowi powiatu wotum zaufania. Uchwałę o udzieleniu zarządowi powiatu wotum zaufania rada powiatu podejmuje bezwzględną większością głosów ustawowego składu rady powiatu. Niepodjęcie uchwały o udzieleniu zarządowi powiatu wotum zaufania jest równoznaczne z podjęciem uchwały o nieudzieleniu zarządowi powiatu wotum zaufania.
 
@@ -662,7 +744,11 @@ source: "isap-pdf"
 
 4. Odwołanie starosty albo złożenie przez niego rezygnacji jest, odpowiednio, równoznaczne z odwołaniem całego zarządu powiatu albo złożeniem rezygnacji przez cały zarząd powiatu.
 
-5. Rada powiatu może na uzasadniony wniosek starosty odwołać poszczególnych członków zarządu zwykłą większością głosów w obecności co najmniej połowy ustawowego składu rady, w głosowaniu tajnym. następuje zwykłą większością głosów.
+5. Rada powiatu może na uzasadniony wniosek starosty odwołać poszczególnych członków zarządu zwykłą większością głosów w obecności co najmniej połowy ustawowego składu rady, w głosowaniu tajnym.
+
+**Art. 31a.**
+
+1. W przypadku złożenia rezygnacji przez starostę jej przyjęcie następuje zwykłą większością głosów.
 
 2. W przypadku rezygnacji starosty rada powiatu na najbliższej sesji podejmuje uchwałę o przyjęciu rezygnacji całego zarządu.
 
@@ -692,6 +778,7 @@ source: "isap-pdf"
 
 2. Do zadań zarządu powiatu należy w szczególności:
 
+- **1)** przygotowywanie projektów uchwał rady;
 - **2)** wykonywanie uchwał rady;
 - **2a)** opracowywanie programów rozwoju w trybie określonym w przepisach o zasadach prowadzenia polityki rozwoju;
 - **3)** gospodarowanie mieniem powiatu;
@@ -719,6 +806,10 @@ source: "isap-pdf"
 
 **Art. 33b.** Powiatową administrację zespoloną stanowią:
 
+- **1)** starostwo powiatowe;
+- **2)** powiatowy urząd pracy, będący jednostką organizacyjną powiatu;
+- **3)** jednostki organizacyjne stanowiące aparat pomocniczy kierowników powiatowych służb, inspekcji i straży.
+
 **Art. 34.**
 
 1. Starosta organizuje pracę zarządu powiatu i starostwa powiatowego, kieruje bieżącymi sprawami powiatu oraz reprezentuje powiat na zewnątrz.
@@ -745,7 +836,11 @@ source: "isap-pdf"
 - **2)** zatwierdza programy ich działania;
 - **3)** uzgadnia wspólne działanie tych jednostek na obszarze powiatu;
 - **4)** w sytuacjach szczególnych kieruje wspólnymi działaniami tych jednostek;
-- **5)** zleca w uzasadnionych przypadkach przeprowadzenie kontroli. powiatu określają regulaminy organizacyjne uchwalone przez zarząd powiatu, chyba że przepisy odrębne stanowią inaczej.
+- **5)** zleca w uzasadnionych przypadkach przeprowadzenie kontroli.
+
+**Art. 36.**
+
+1. Organizację i zasady funkcjonowania jednostek organizacyjnych powiatu określają regulaminy organizacyjne uchwalone przez zarząd powiatu, chyba że przepisy odrębne stanowią inaczej.
 
 2. Status prawny pracowników starostwa powiatowego i jednostek organizacyjnych powiatu określa odrębna ustawa.
 
@@ -773,7 +868,8 @@ source: "isap-pdf"
 
 - **1)** ocena zagrożeń porządku publicznego i bezpieczeństwa obywateli na terenie powiatu;
 - **2)** opiniowanie pracy Policji i innych powiatowych służb, inspekcji i straży, a także jednostek organizacyjnych wykonujących na terenie powiatu zadania z zakresu porządku publicznego i bezpieczeństwa obywateli;
-- **3)** przygotowywanie projektu powiatowego programu zapobiegania przestępczości oraz porządku publicznego i bezpieczeństwa obywateli; powiatowych służb, inspekcji i straży oraz jednostek organizacyjnych wykonujących na terenie powiatu zadania z zakresu porządku publicznego i bezpieczeństwa obywateli;
+- **3)** przygotowywanie projektu powiatowego programu zapobiegania przestępczości oraz porządku publicznego i bezpieczeństwa obywateli;
+- **4)** opiniowanie projektów innych programów współdziałania Policji i innych powiatowych służb, inspekcji i straży oraz jednostek organizacyjnych wykonujących na terenie powiatu zadania z zakresu porządku publicznego i bezpieczeństwa obywateli;
 - **5)** opiniowanie projektu budżetu powiatu – w zakresie, o którym mowa w pkt 1;
 - **6)** opiniowanie projektów aktów prawa miejscowego i innych dokumentów w sprawach związanych z wykonywaniem zadań, o których mowa w pkt 1, 2 i 4;
 - **7)** opiniowanie, zleconych przez starostę, innych niż wymienione w pkt 2 i pkt 4– 6 zagadnień dotyczących porządku publicznego i bezpieczeństwa obywateli.
@@ -795,7 +891,7 @@ source: "isap-pdf"
 
 6. W pracach komisji uczestniczy także prokurator wskazany przez właściwego prokuratora okręgowego.
 
-7. Starosta może powołać do udziału w pracach komisji funkcjonariuszy i pracowników innych niż Policja powiatowych służb, inspekcji i straży oraz z zakresu porządku publicznego i bezpieczeństwa obywateli na terenie powiatu.
+7. Starosta może powołać do udziału w pracach komisji funkcjonariuszy i pracowników innych niż Policja powiatowych służb, inspekcji i straży oraz pracowników innych organów administracji publicznej wykonujących zadania z zakresu porządku publicznego i bezpieczeństwa obywateli na terenie powiatu.
 
 8. Funkcjonariusze i pracownicy, o których mowa w ust. 7, uczestniczą w pracach komisji z głosem doradczym.
 
@@ -819,7 +915,9 @@ source: "isap-pdf"
 
 2. Obsługę administracyjno-biurową komisji zapewnia starostwo.
 
-**Art. 39.** (uchylony) Akty prawa miejscowego stanowione przez powiat
+**Art. 39.** (uchylony)
+
+#### Rozdział 4 Akty prawa miejscowego stanowione przez powiat
 
 **Art. 40.**
 
@@ -854,6 +952,7 @@ source: "isap-pdf"
 
 2. Grupa mieszkańców, o której mowa w ust. 1, musi liczyć:
 
+- **1)** w powiecie do 100 000 mieszkańców – co najmniej 300 osób;
 - **2)** w powiecie powyżej 100 000 mieszkańców – co najmniej 500 osób.
 
 3. Projekt uchwały zgłoszony w ramach obywatelskiej inicjatywy uchwałodawczej staje się przedmiotem obrad rady powiatu na najbliższej sesji po złożeniu projektu, jednak nie później niż po upływie 3 miesięcy od dnia złożenia projektu.
@@ -888,8 +987,9 @@ source: "isap-pdf"
 
 **Art. 47.**
 
-1. Nabycie mienia przez powiat następuje: jakiejkolwiek gminy;
+1. Nabycie mienia przez powiat następuje:
 
+- **1)** na podstawie odrębnej ustawy, z zastrzeżeniem, że nie stanowi ono mienia jakiejkolwiek gminy;
 - **2)** przez przekazanie w związku z utworzeniem lub zmianą granic powiatu w trybie art. 3; przekazanie mienia następuje w drodze porozumienia zainteresowanych powiatów, a w razie braku porozumienia – decyzją Prezesa Rady Ministrów, podjętą na wniosek ministra właściwego do spraw administracji publicznej;
 - **3)** w wyniku przejęcia od Skarbu Państwa na podstawie porozumienia, z wyłączeniem mienia przeznaczonego na zaspokojenie roszczeń reprywatyzacyjnych oraz realizację programu powszechnego uwłaszczenia;
 - **4)** przez inne czynności prawne;
@@ -914,7 +1014,9 @@ source: "isap-pdf"
 
 **Art. 50.**
 
-1. Zarząd i ochrona mienia powiatu powinny być wykonywane ze szczególną starannością. nieruchomości i w obiektach budowlanych stanowiących mienie powiatu i na terenie wokół takich nieruchomości i obiektów budowlanych. Przepisy art. 4b ust. 2–6 stosuje się odpowiednio.
+1. Zarząd i ochrona mienia powiatu powinny być wykonywane ze szczególną starannością.
+
+2. Ochrona mienia obejmuje w szczególności monitoring na terenie nieruchomości i w obiektach budowlanych stanowiących mienie powiatu i na terenie wokół takich nieruchomości i obiektów budowlanych. Przepisy art. 4b ust. 2–6 stosuje się odpowiednio.
 
 **Art. 50a.**
 
@@ -934,7 +1036,8 @@ source: "isap-pdf"
 
 6. Wysokość stawki opłaty, o której mowa w ust. 5 pkt 3, ustala się:
 
-- **1)** w oparciu o dane o przewidywanej liczbie metrów kwadratowych pasa drogowego zajętych przez urządzenia infrastruktury technicznej niezwiązane z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, umieszczane w pasie drogowym w związku z realizacją inwestycji; inwestycji w okresie 5 lat od jej zakończenia;
+- **1)** w oparciu o dane o przewidywanej liczbie metrów kwadratowych pasa drogowego zajętych przez urządzenia infrastruktury technicznej niezwiązane z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, umieszczane w pasie drogowym w związku z realizacją inwestycji;
+- **2)** w oparciu o dane o przewidywanych przychodach inwestora z realizowanej inwestycji w okresie 5 lat od jej zakończenia;
 - **3)** na poziomie umożliwiającym odzyskanie przez inwestora różnicy między przewidywaną wartością bieżącą netto inwestycji w terminie, o którym mowa w pkt 2, uwzględniającą obowiązek ponoszenia opłat za zajęcie pasa drogowego obliczonych według wysokości stawek opłat określonych w uchwale, o której mowa w art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych, a przewidywaną wartością bieżącą netto inwestycji w tym terminie, uwzględniającą rozsądny zysk z inwestycji.
 
 7. Umowa jest zawierana pod rygorem nieważności w formie aktu notarialnego.
@@ -971,6 +1074,8 @@ source: "isap-pdf"
 
 **Art. 57.** (uchylony)
 
+**Art. 58.** (uchylony)
+
 **Art. 59.** (uchylony)
 
 **Art. 60.**
@@ -988,6 +1093,11 @@ source: "isap-pdf"
 
 **Art. 61.** Gospodarka środkami finansowymi znajdującymi się w dyspozycji powiatu jest jawna. Wymóg jawności jest spełniany w szczególności przez:
 
+- **1)** jawność debaty budżetowej;
+- **2)** opublikowanie uchwały budżetowej oraz sprawozdań z wykonania budżetu powiatu;
+- **3)** przedstawienie pełnego wykazu kwot dotacji celowych udzielanych z budżetu powiatu;
+- **4)** ujawnienie sprawozdania zarządu z działań, o których mowa w art. 60 ust. 2 pkt 1 i 2.
+
 **Art. 62.** (uchylony)
 
 **Art. 63.** Dyspozycja środkami pieniężnymi powiatu jest oddzielona od jej kasowego wykonania.
@@ -996,7 +1106,9 @@ source: "isap-pdf"
 
 1. Kontrolę gospodarki finansowej powiatu sprawuje regionalna izba obrachunkowa.
 
-2. (uchylony) Związki powiatów i związki powiatowo-gminne oraz stowarzyszenia i porozumienia powiatów
+2. (uchylony)
+
+#### Rozdział 7 Związki powiatów i związki powiatowo-gminne oraz stowarzyszenia i porozumienia powiatów
 
 **Art. 65.**
 
@@ -1031,7 +1143,8 @@ source: "isap-pdf"
 - **3)** zadania związku;
 - **4)** organy związku, ich strukturę, zakres i tryb działania;
 - **5)** zasady korzystania z obiektów i urządzeń związku;
-- **6)** zasady udziału w kosztach wspólnej działalności, zyskach i pokrywania strat związku; majątkowych;
+- **6)** zasady udziału w kosztach wspólnej działalności, zyskach i pokrywania strat związku;
+- **7)** zasady przystępowania i występowania członków oraz zasady rozliczeń majątkowych;
 - **8)** zasady i tryb likwidacji związku;
 - **9)** (uchylony)
 - **10)** inne zasady określające współdziałanie.
@@ -1068,7 +1181,9 @@ source: "isap-pdf"
 
 - **1)** rejestracji związku powiatów;
 - **2)** zmiany statutu związku powiatów;
-- **3)** wykreślenia związku powiatów z rejestru związków powiatów. z prawem uchwał stanowiących podstawę do dokonania zgłoszenia.
+- **3)** wykreślenia związku powiatów z rejestru związków powiatów.
+
+4. Zgłoszenie, o którym mowa w ust. 2, zawiera oświadczenie o zgodności z prawem uchwał stanowiących podstawę do dokonania zgłoszenia.
 
 5. Zgłoszenie, o którym mowa w ust. 2, opatruje się kwalifikowanym podpisem elektronicznym.
 
@@ -1095,7 +1210,9 @@ source: "isap-pdf"
 
 **Art. 70.**
 
-1. Uchwały zgromadzenia podejmowane są bezwzględną większością głosów statutowej liczby członków zgromadzenia. w stosunku do uchwały zgromadzenia w ciągu 7 dni od dnia jej podjęcia.
+1. Uchwały zgromadzenia podejmowane są bezwzględną większością głosów statutowej liczby członków zgromadzenia.
+
+2. Członek zgromadzenia może wnieść pisemny sprzeciw wraz z uzasadnieniem w stosunku do uchwały zgromadzenia w ciągu 7 dni od dnia jej podjęcia.
 
 3. Wniesienie sprzeciwu wstrzymuje wykonanie uchwały i wymaga ponownego rozpatrzenia sprawy.
 
@@ -1132,7 +1249,8 @@ source: "isap-pdf"
 
 - **1)** tryb postępowania w sprawach:
     - **a)** rejestracji związku powiatowo-gminnego,
-    - **b)** rejestracji zmiany statutu związku powiatowo-gminnego, powiatowo-gminnych,
+    - **b)** rejestracji zmiany statutu związku powiatowo-gminnego,
+    - **c)** wykreślenia związku powiatowo-gminnego z rejestru związków powiatowo-gminnych,
 
 - **2)** wzór zgłoszenia w sprawie rejestracji związku powiatowo-gminnego,
 - **3)** wzór zgłoszenia w sprawie zmiany statutu związku powiatowo-gminnego,
@@ -1152,7 +1270,11 @@ source: "isap-pdf"
 
 4. Organy związku powiatowo-gminnego stają się organami właściwymi lub stronami wszczętych i niezakończonych postępowań administracyjnych i sądowych.
 
-5. Ujawnienie w księgach wieczystych lub w rejestrach przejścia na związek, o którym mowa w ust. 1, praw ujawnionych w tych księgach lub w rejestrach następuje na wniosek związku. jednemu z nich prowadzenia zadań publicznych.
+5. Ujawnienie w księgach wieczystych lub w rejestrach przejścia na związek, o którym mowa w ust. 1, praw ujawnionych w tych księgach lub w rejestrach następuje na wniosek związku.
+
+**Art. 73.**
+
+1. Powiaty mogą zawierać porozumienia w sprawie powierzenia jednemu z nich prowadzenia zadań publicznych.
 
 2. W zakresie nieuregulowanym treścią porozumienia do porozumień, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotyczące związków powiatów.
 
@@ -1184,7 +1306,9 @@ source: "isap-pdf"
 
 **Art. 77b.**
 
-1. Jeżeli prawo uzależnia ważność rozstrzygnięcia organu powiatu od jego zatwierdzenia, uzgodnienia lub zaopiniowania przez inny organ, zajęcie stanowiska przez ten organ powinno nastąpić nie później niż w ciągu 14 dni od dnia doręczenia tego rozstrzygnięcia lub jego projektu, z zastrzeżeniem ust. 2. uzgodnienie lub zaopiniowanie wymagane jest od organu stanowiącego jednostki samorządu terytorialnego.
+1. Jeżeli prawo uzależnia ważność rozstrzygnięcia organu powiatu od jego zatwierdzenia, uzgodnienia lub zaopiniowania przez inny organ, zajęcie stanowiska przez ten organ powinno nastąpić nie później niż w ciągu 14 dni od dnia doręczenia tego rozstrzygnięcia lub jego projektu, z zastrzeżeniem ust. 2.
+
+2. Termin, o którym mowa w ust. 1, wynosi 30 dni, jeżeli zatwierdzenie, uzgodnienie lub zaopiniowanie wymagane jest od organu stanowiącego jednostki samorządu terytorialnego.
 
 3. Jeżeli organ, o którym mowa w ust. 1 i 2, nie zajmie stanowiska w sprawie, rozstrzygnięcie uważa się za przyjęte w brzmieniu przedłożonym przez powiat, z upływem terminu określonego w ust. 1 lub 2.
 
@@ -1214,7 +1338,11 @@ source: "isap-pdf"
 
 1. Stwierdzenie przez organ nadzoru nieważności uchwały organu powiatu wstrzymuje jej wykonanie z mocy prawa w zakresie objętym stwierdzeniem nieważności, z dniem doręczenia rozstrzygnięcia nadzorczego.
 
-2. Przepisu ust. 1 nie stosuje się do uchwały o zaskarżeniu rozstrzygnięcia nadzorczego do sądu administracyjnego. rozstrzygnięcie nadzorcze, sąd administracyjny wyznacza rozprawę nie później niż w ciągu 30 dni od dnia wpłynięcia skargi do sądu.
+2. Przepisu ust. 1 nie stosuje się do uchwały o zaskarżeniu rozstrzygnięcia nadzorczego do sądu administracyjnego.
+
+**Art. 80a.**
+
+1. W przypadku złożenia przez organ powiatu skargi na rozstrzygnięcie nadzorcze, sąd administracyjny wyznacza rozprawę nie później niż w ciągu 30 dni od dnia wpłynięcia skargi do sądu.
 
 2. W przypadku złożenia skargi na rozstrzygnięcie, o którym mowa w art. 83 ust. 2 oraz art. 84 ust. 1, sąd administracyjny rozpatruje tę skargę w terminie 30 dni. Skargę kasacyjną Naczelny Sąd Administracyjny rozpatruje w terminie 30 dni.
 
@@ -1234,7 +1362,11 @@ source: "isap-pdf"
 
 1. W razie powtarzającego się naruszenia przez radę powiatu Konstytucji lub ustaw, Sejm, na wniosek Prezesa Rady Ministrów, może w drodze uchwały rozwiązać radę powiatu. Rozwiązanie rady równoznaczne jest z rozwiązaniem wszystkich organów powiatu. Prezes Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej wyznacza wówczas osobę, która do czasu wyborów nowych organów powiatu pełni funkcję tych organów.
 
-2. Jeżeli powtarzającego się naruszenia Konstytucji lub ustaw dopuszcza się zarząd powiatu, wojewoda wzywa radę powiatu do zastosowania niezbędnych środków, a jeżeli wezwanie to nie odnosi skutku – za pośrednictwem ministra właściwego do spraw administracji publicznej – występuje z wnioskiem do Prezesa Rady Ministrów o rozwiązanie zarządu powiatu. W razie rozwiązania zarządu, do czasu wyboru nowego zarządu, funkcję zarządu pełni osoba wyznaczona przez Prezesa Rady Ministrów. się braku skuteczności w wykonywaniu zadań publicznych przez organy powiatu, Prezes Rady Ministrów, na wniosek ministra właściwego do spraw administracji publicznej, może zawiesić organy powiatu i ustanowić zarząd komisaryczny na okres do 2 lat, nie dłużej jednak niż do wyboru zarządu przez radę kolejnej kadencji.
+2. Jeżeli powtarzającego się naruszenia Konstytucji lub ustaw dopuszcza się zarząd powiatu, wojewoda wzywa radę powiatu do zastosowania niezbędnych środków, a jeżeli wezwanie to nie odnosi skutku – za pośrednictwem ministra właściwego do spraw administracji publicznej – występuje z wnioskiem do Prezesa Rady Ministrów o rozwiązanie zarządu powiatu. W razie rozwiązania zarządu, do czasu wyboru nowego zarządu, funkcję zarządu pełni osoba wyznaczona przez Prezesa Rady Ministrów.
+
+**Art. 84.**
+
+1. W razie nierokującego nadziei na szybką poprawę i przedłużającego się braku skuteczności w wykonywaniu zadań publicznych przez organy powiatu, Prezes Rady Ministrów, na wniosek ministra właściwego do spraw administracji publicznej, może zawiesić organy powiatu i ustanowić zarząd komisaryczny na okres do 2 lat, nie dłużej jednak niż do wyboru zarządu przez radę kolejnej kadencji.
 
 2. Ustanowienie zarządu komisarycznego może nastąpić po uprzednim przedstawieniu zarzutów organom powiatu i wezwaniu ich do niezwłocznego przedłożenia programu poprawy sytuacji.
 
@@ -1258,7 +1390,7 @@ source: "isap-pdf"
 
 **Art. 85a.**
 
-1. Jeżeli właściwy organ powiatu, wbrew obowiązkowi wynikającemu z przepisów art. 383 § 2 i 6 ustawy, o której mowa w art. 29 ust. 6, oraz art. 5 ust. 2, 3 i 5 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności odpowiednio wygaśnięcia mandatu radnego, odwołania ze stanowiska albo rozwiązania umowy o pracę z członkiem zarządu powiatu, sekretarzem powiatu, skarbnikiem powiatu, kierownikiem jednostki organizacyjnej powiatu i osobą zarządzającą lub członkiem organu zarządzającego powiatową osobą prawną, nie podejmuje uchwały, nie odwołuje ze stanowiska albo nie rozwiązuje umowy o pracę, wojewoda wzywa organ powiatu do podjęcia odpowiedniego aktu w terminie 30 dni.
+1. Jeżeli właściwy organ powiatu, wbrew obowiązkowi wynikającemu z przepisów art. 383 § 2 i 6 ustawy, o której mowa w art. 29 ust. 6, oraz art. 5 ust. 2, 3 i 5 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, w zakresie dotyczącym odpowiednio wygaśnięcia mandatu radnego, odwołania ze stanowiska albo rozwiązania umowy o pracę z członkiem zarządu powiatu, sekretarzem powiatu, skarbnikiem powiatu, kierownikiem jednostki organizacyjnej powiatu i osobą zarządzającą lub członkiem organu zarządzającego powiatową osobą prawną, nie podejmuje uchwały, nie odwołuje ze stanowiska albo nie rozwiązuje umowy o pracę, wojewoda wzywa organ powiatu do podjęcia odpowiedniego aktu w terminie 30 dni.
 
 1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2024 r. poz. 1135).
 
@@ -1282,7 +1414,9 @@ source: "isap-pdf"
 
 1. Przepisy art. 87 stosuje się odpowiednio, gdy organ powiatu nie wykonuje czynności nakazanych prawem albo przez podejmowane czynności prawne lub faktyczne narusza prawa osób trzecich.
 
-2. W przypadkach, o których mowa w ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego, na koszt i ryzyko powiatu. w sprawach z zakresu administracji publicznej, wydawanych przez organy powiatów oraz związki powiatów. Kontrolę instancyjną w tym zakresie oraz nadzór pozainstancyjny, a także kontrolę sprawowaną przez sąd określają odrębne przepisy.
+2. W przypadkach, o których mowa w ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego, na koszt i ryzyko powiatu.
+
+**Art. 89.** Przepisów tego rozdziału nie stosuje się do decyzji indywidualnych w sprawach z zakresu administracji publicznej, wydawanych przez organy powiatów oraz związki powiatów. Kontrolę instancyjną w tym zakresie oraz nadzór pozainstancyjny, a także kontrolę sprawowaną przez sąd określają odrębne przepisy.
 
 **Art. 90.** Przepisy tego rozdziału mają zastosowanie również do związków i porozumień, o których mowa w ustawie.
 
@@ -1301,7 +1435,9 @@ source: "isap-pdf"
 
 2. Miasto na prawach powiatu jest gminą wykonującą zadania powiatu na zasadach określonych w tej ustawie.
 
-3. Ustrój i działanie organów miasta na prawach powiatu, w tym nazwę, skład, liczebność oraz ich powoływanie i odwoływanie, a także zasady sprawowania nadzoru określa ustawa o samorządzie gminnym. Przepis końcowy
+3. Ustrój i działanie organów miasta na prawach powiatu, w tym nazwę, skład, liczebność oraz ich powoływanie i odwoływanie, a także zasady sprawowania nadzoru określa ustawa o samorządzie gminnym.
+
+#### Rozdział 10 Przepis końcowy
 
 **Art. 93.** Ustawa wchodzi w życie w terminie i na zasadach określonych w odrębnej ustawie , z wyjątkiem przepisu art. 3, który wchodzi w życie z dniem ogłoszenia ustawy.
 

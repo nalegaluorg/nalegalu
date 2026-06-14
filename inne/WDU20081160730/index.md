@@ -8,7 +8,7 @@ pos: 730
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o niektórych formach wspierania działalności innowacyjnej
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-05-30 |
 | Data wydania | 2008-07-02 |
-| Ostatnia zmiana | 2026-04-27 |
+| Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081160730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/730/text.pdf) |
 
 Art. 22–28. (pominięte)
@@ -32,6 +32,10 @@ Art. 22–28. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady wspierania działalności innowacyjnej poprzez:
+
+- **1)** udzielanie kredytu technologicznego przez banki kredytujące i premii technologicznej przez Bank Gospodarstwa Krajowego;
+- **2)** nadawanie przedsiębiorcy statusu centrum badawczo-rozwojowego;
+- **3)** pomoc udzielaną w ramach programów w obszarze innowacyjności gospodarki, ustanawianych przez ministra właściwego do spraw gospodarki.
 
 **Art. 2.**
 
@@ -321,9 +325,31 @@ Art. 22–28. (pominięte)
 
 **Art. 21a.** Minister właściwy do spraw gospodarki ustanawia programy w obszarze innowacyjności gospodarki realizujące politykę innowacyjną państwa, dotyczące w szczególności:
 
+- **1)** innowacyjnych produktów, usług i rynków;
+- **2)** kompetencji proinnowacyjnych społeczeństwa;
+- **3)** kompetencji kadr w tworzeniu i zarządzaniu innowacjami;
+- **4)** umiejętności przedsiębiorców w zakresie ochrony własności intelektualnej;
+- **5)** internacjonalizacji działalności innowacyjnej;
+- **6)** powiązań między nauką a gospodarką.
+
 **Art. 21b.** Minister właściwy do spraw gospodarki udziela pomocy finansowej, w ramach programów ustanowionych zgodnie z art. 21a, z przeznaczeniem na:
 
+- **1)** pomoc dla przedsiębiorców na projekty badawczo-rozwojowe;
+- **2)** wspieranie innowacji procesowych i organizacyjnych prowadzonych przez przedsiębiorców;
+- **3)** wspieranie innowacyjności;
+- **4)** wspieranie klastrów innowacyjnych;
+- **5)** usługi doradcze;
+- **6)** wspieranie udziału przedsiębiorców w targach i misjach gospodarczych;
+- **7)** pomoc szkoleniową dla przedsiębiorców;
+- **8)** pomoc dla małych przedsiębiorców rozpoczynających działalność.
+
 **Art. 21c.** Pomoc finansowa, o której mowa w art. 21b, jest udzielana:
+
+- **1)** osobom fizycznym rozpoczynającym działalność w obszarze innowacyjności gospodarki;
+- **2)** przedsiębiorcom;
+- **3)** podmiotom statutowo działającym na rzecz innowacyjności gospodarki;
+- **4)** klastrom innowacyjnym;
+- **5)** partnerom społecznym i gospodarczym w rozumieniu art. 5 pkt 7 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057 oraz z 2022 r. poz. 1079 i 1846).
 
 **Art. 21d.**
 
@@ -342,6 +368,10 @@ Art. 22–28. (pominięte)
 3. Minister właściwy do spraw gospodarki może odmówić udzielenia pomocy finansowej podmiotom, o których mowa w art. 21c, jeżeli prowadziłoby to do obejścia zasad udzielania pomocy, w szczególności dotyczących warunków podmiotowych, przeznaczenia, intensywności lub kwoty tej pomocy.
 
 **Art. 21e.** Pomoc finansowa, o której mowa w art. 21b, jest udzielana w formie:
+
+- **1)** bezzwrotnego wsparcia finansowego;
+- **2)** pożyczek;
+- **3)** finansowania kosztów usług świadczonych przez usługodawców bezpłatnie lub za odpłatnością niższą od ceny rynkowej.
 
 **Art. 21f.**
 
@@ -430,6 +460,15 @@ Art. 22–28. (pominięte)
 8. Umorzenie części kredytu technologicznego dla celów podatku dochodowego jest traktowane jako zwrot przedsiębiorcy wydatków na nabycie lub wytworzenie we własnym zakresie środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w ust. 7 pkt 5.
 
 **Art. 34.** Umorzenie następuje pod warunkiem, że kredytobiorca przedłoży następujące dokumenty:
+
+- **1)** faktury dokumentujące wydatki, o których mowa w art. 33 ust. 7;
+- **2)** faktury dokumentujące sprzedaż towarów lub usług powstałych w wyniku inwestycji technologicznej finansowanej kredytem technologicznym odpowiednio za okres od zakończenia tej inwestycji do dnia umorzenia lub okres od dnia ostatniego umorzenia do dnia kolejnego umorzenia;
+- **3)** opinię sporządzoną przez jednostkę naukową, centrum badawczo-rozwojowe lub stowarzyszenie naukowo-techniczne o zasięgu ogólnopolskim, których zakres działania jest związany z inwestycją technologiczną finansowaną kredytem technologicznym, potwierdzającą zastosowanie nowej technologii, na którą został udzielony kredyt technologiczny;
+- **4)** informację o pomocy publicznej udzielonej na realizację inwestycji technologicznej finansowanej kredytem technologicznym odpowiednio za okres do dnia pierwszego umorzenia lub okres od dnia ostatniego umorzenia do dnia kolejnego umorzenia;
+- **5)** zobowiązanie, że działalność gospodarcza związana z inwestycją technologiczną finansowaną kredytem technologicznym będzie prowadzona przez co najmniej 5 lat od dnia jej zakończenia, pod rygorem zwrotu umorzonej kwoty kredytu technologicznego;
+- **6)** zaświadczenie wydane przez naczelnika właściwego urzędu skarbowego o niezaleganiu z zapłatą podatków odpowiednio za okres od zakończenia tej inwestycji do dnia umorzenia lub okres od dnia ostatniego umorzenia do dnia kolejnego umorzenia;
+- **7)** zaświadczenie właściwego wójta (burmistrza, prezydenta miasta) o niezaleganiu z zapłatą podatków i opłat lokalnych;
+- **8)** zaświadczenie właściwego miejscowo oddziału Zakładu Ubezpieczeń Społecznych o niezaleganiu z zapłatą składek na ubezpieczenia społeczne i zdrowotne odpowiednio za okres od zakończenia tej inwestycji do dnia umorzenia lub okres od dnia ostatniego umorzenia do dnia kolejnego umorzenia.
 
 **Art. 35.**
 

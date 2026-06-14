@@ -8,10 +8,12 @@ pos: 139
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# zmianie ustawy systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawy – Prawo ochrony środowiska
+# o zmianie ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawy – Prawo ochrony środowiska
+
+*USTAWA z dnia 12 grudnia 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,112 +27,197 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/139/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 lipca 2009 r. systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. Nr 130, poz. 1070, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. Nr 130, poz. 1070, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 3:
+    - **a)** w ust. 2 pkt 5 otrzymuje brzmienie: „5) prowadzenie wykazu jednostek uprawnionych do weryfikacji raportów;”,
+    - **b)** ust. 4–6 otrzymują brzmienie: „4. Krajowy ośrodek może także, na podstawie informacji zawartych w Krajowej bazie, sporządzać zestawienia informacji i raporty, inne niż wskazane w ust. 3, na potrzeby organów administracji publicznej oraz organizacji samorządu gospodarczego i organizacji pracodawców.
+
+5. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, listę zestawień informacji i raportów, o których mowa w ust. 4, sporządzanych na potrzeby organów administracji publicznej oraz terminy ich przekazywania, kierując się potrzebą zapewnienia organom administracji publicznej pełnego i terminowego dostępu do informacji na temat wielkości emisji.
+
+6. Zestawienia informacji i raporty, o których mowa w ust. 3, oraz zestawienia informacji i raporty wpisane na listę, o której mowa w ust. 5, są sporządzane na potrzeby organów administracji publicznej nieodpłatnie.”;
+
+- **2)** w art. 18:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Czynności, o których mowa w ust. 1, prowadzi się zgodnie z postanowieniami Protokołu z Kioto oraz decyzjami Konferencji Stron Konwencji Klimatycznej stanowiącej spotkanie Stron Protokołu z Kioto.”,
+    - **b)** uchyla się ust. 6 i 7;
+
+- **3)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. Wpływy pochodzące ze sprzedaży jednostek Kioto są przekazywane na rachunek bankowy Narodowego Funduszu lub na wyodrębnione subkonto tego rachunku, jeżeli wynika to z zawartej umowy sprzedaży jednostek Kioto.”;
+- **4)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Tworzy się Krajowy system zielonych inwestycji, w ramach którego środki pochodzące ze sprzedaży jednostek przyznanej emisji, gromadzone na rachunku, o którym mowa w art. 23 ust. 1, są przeznaczane na:
+- **1)** dofinansowanie realizacji na terytorium Rzeczypospolitej Polskiej:
+    - **a)** programów lub projektów związanych z ochroną środowiska, w szczególności z ograniczeniem lub unikaniem krajowej emisji gazów cieplarnianych, pochłanianiem lub sekwestracją dwutlenku węgla (CO ),
+    - **b)** działań adaptacyjnych do zmian klimatu,
+    - **c)** innych działań związanych z ochroną powietrza;
+
+- **2)** refinansowanie:
+    - **a)** Narodowemu Funduszowi kosztów związanych z przeznaczaniem środków tego funduszu niebędących wpływami pochodzącymi ze sprzedaży jednostek Kioto,
+    - **b)** wojewódzkiemu funduszowi ochrony środowiska i gospodarki wodnej, zwanemu dalej „wojewódzkim funduszem”, kosztów związanych z przeznaczaniem środków tego funduszu – na dofinansowanie programów lub projektów z zakresu ochrony środowiska, w tym kosztów związanych z przekazaniem środków na dochody budżetu państwa w celu dofinansowania zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację tych programów lub projektów.”;
+
+- **5)** w art. 23 ust. 1 i 2 otrzymują brzmienie: „1. Wpływy pochodzące ze sprzedaży jednostek przyznanej emisji są przekazywane na wyodrębniony rachunek bankowy Narodowego Funduszu, zwany dalej „Rachunkiem klimatycznym”, jeżeli wynika to z zawartej umowy sprzedaży jednostek przyznanej emisji.
+
+2. Niewykorzystane w terminie określonym umową sprzedaży jednostek przyznanej emisji środki, o których mowa w art. 22 ust. 1, są, jeżeli wynika to z zawartej umowy, zwracane na wskazany w tej umowie rachunek bankowy.”;
+
+- **6)** w art. 24:
+    - **a)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) regulaminu naboru wniosków o udzielenie dofinansowania ze środków zgromadzonych na Rachunku klimatycznym oraz jego zmian;”, – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) list kosztów, o których mowa w art. 31a ust. 1 i art. 31b ust. 2.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Rada Konsultacyjna przy opiniowaniu list kosztów, o których mowa w art. 31a ust. 1 i art. 31b ust. 2, bierze pod uwagę obszary, o których mowa w art. 22 ust. 2, oraz rodzaje programów lub projektów, określone w przepisach wydanych na podstawie art. 22 ust. 3.”,
+    - **c)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W pracach Rady Konsultacyjnej bierze udział, w charakterze obserwatora, bez prawa głosu, przedstawiciel Krajowego operatora systemu zielonych inwestycji.”;
+
+- **7)** w art. 25:
+    - **a)** w ust. 2: – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) przedkładanie ministrowi właściwemu do spraw środowiska list kosztów wstępnie zakwalifikowanych do refinansowania ze środków zgromadzonych na Rachunku klimatycznym wraz ze wskazaniem programów lub projektów, których dotyczą te koszty;”, – uchyla się pkt 7, – po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) monitorowanie:
+    - **a)** osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych w ramach Krajowego systemu zielonych inwestycji,
+    - **b)** wydatkowania przez beneficjentów środków uzyskanych z Rachunku klimatycznego oraz postępów w realizacji programów lub projektów dofinansowanych ze środków zgromadzonych na Rachunku klimatycznym;”, – pkt 8 otrzymuje brzmienie: „8) prowadzenie wykazu programów lub projektów dofinansowanych:
+    - **a)** ze środków zgromadzonych na Rachunku klimatycznym,
+    - **b)** z innych środków Narodowego Funduszu lub środków wojewódzkiego funduszu, w odniesieniu do których koszty związane z ich przeznaczaniem refinansowano ze środków zgromadzonych na Rachunku klimatycznym;”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Monitorowaniem, o którym mowa w ust. 2 pkt 7a lit. a, obejmuje się okres do 5 lat kalendarzowych następujących po roku, w którym zakończono realizację programu lub projektu.”;
+
+- **8)** w art. 28:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W zakresie, w jakim dofinansowanie programów lub projektów stanowi pomoc spełniającą przesłanki określone w art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej albo pomoc de minimis, do tego dofinansowania mają zastosowanie szczegółowe warunki udzielania pomocy.”,
+    - **b)** uchyla się ust. 3;
+
+- **9)** w art. 29:
+    - **a)** w ust. 4 po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „3a) określenie limitu środków przeznaczonego na dofinansowanie;
+
+- **3b)** wskazanie możliwości przeznaczenia niewykorzystanej kwoty limitu na dofinansowanie programów lub projektów rezerwowych;”,
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Krajowy operator może zmieniać regulamin naboru wniosków, jeżeli zmiany nie spowodują pogorszenia warunków naboru lub jeżeli konieczność ich wprowadzenia wynika ze zmian przepisów prawa powszechnie obowiązującego.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Regulamin naboru wniosków oraz jego zmiany wymagają zatwierdzenia przez ministra właściwego do spraw środowiska.”;
+
+- **10)** w art. 30 dodaje się ust. 8 w brzmieniu: „8. Umowa, o której mowa w ust. 7, określa szczegółowy zakres i częstotliwość składania przez beneficjenta raportów zawierających dane i informacje dotyczące osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych, wydatkowania środków uzyskanych z Rachunku klimatycznego oraz postępów w realizacji programu lub projektu.”;
+- **11)** po art. 30 dodaje się art. 30a i art. 30b w brzmieniu: „Art. 30a. 1. W przypadku gdy suma wnioskowanego dofinansowania programów lub projektów wstępnie wybranych do dofinansowania ze środków zgromadzonych na Rachunku klimatycznym przekracza limit środków zgromadzonych na Rachunku klimatycznym przeznaczony na dofinansowanie, określony w regulaminie naboru wniosków, programy lub projekty wstępnie wybrane dzieli się na podstawowe i rezerwowe.
+
+2. Podziału programów lub projektów na podstawowe i rezerwowe dokonuje Krajowy operator, z uwzględnieniem kryterium efektywności.
+
+3. Do programów i projektów podstawowych stosuje się art. 30 ust. 3–8.
 
 **Art. 30b.**
 
-1. W przypadku gdy limit środków zgromadzonych na Rachunku klimatycznym przeznaczony na dofinansowanie, określony regulaminie naboru wniosków, nie został całości wykorzystany na dofinansowanie programów lub projektów podstawowych, Krajowy operator może przeznaczyć niewykorzystaną kwotę limitu na dofinansowanie programów lub projektów rezerwowych, jeżeli regulamin naboru wniosków tak stanowi.
+1. W przypadku gdy limit środków zgromadzonych na Rachunku klimatycznym przeznaczony na dofinansowanie, określony w regulaminie naboru wniosków, nie został w całości wykorzystany na dofinansowanie programów lub projektów podstawowych, Krajowy operator może przeznaczyć niewykorzystaną kwotę limitu na dofinansowanie programów lub projektów rezerwowych, jeżeli regulamin naboru wniosków tak stanowi.
 
 2. Programy i projekty rezerwowe, na dofinansowanie których Krajowy operator przeznaczył niewykorzystaną kwotę limitu, są programami i projektami wstępnie zakwalifikowanymi do dofinansowania ze środków zgromadzonych na Rachunku klimatycznym.
 
-3. Do programów i projektów, których mowa ust. 2, stosuje się 30 ust. 3–8.”;
+3. Do programów i projektów, o których mowa w ust. 2, stosuje się art. 30 ust. 3–8.”;
 
-- **12)** po 31 dodaje się 31a–31c brzmieniu: „Art. 31a. 1. W celu uzyskania refinansowania ze środków zgromadzonych na Rachunku klimatycznym kosztów, których mowa 22 ust. 1 pkt 2 lit. a, tym kosztów związanych z przeznaczaniem środków na dofinansowanie programów lub projektów rezerwowych, których mowa 30a ust. 1, Narodowy Fundusz sporządza i przedkłada do zaakceptowania ministrowi właściwemu do spraw środowiska listę kosztów wstępnie zakwalifikowanych do refinansowania wraz ze wskazaniem programów lub projektów, których te koszty dotyczą.
+- **12)** po art. 31 dodaje się art. 31a–31c w brzmieniu: „Art. 31a. 1. W celu uzyskania refinansowania ze środków zgromadzonych na Rachunku klimatycznym kosztów, o których mowa w art. 22 ust. 1 pkt 2 lit. a, w tym kosztów związanych z przeznaczaniem środków na dofinansowanie programów lub projektów rezerwowych, o których mowa w art. 30a ust. 1, Narodowy Fundusz sporządza i przedkłada do zaakceptowania ministrowi właściwemu do spraw środowiska listę kosztów wstępnie zakwalifikowanych do refinansowania wraz ze wskazaniem programów lub projektów, których te koszty dotyczą.
 
-2. Lista kosztów, której mowa ust. 1, obejmuje koszty Narodowego Funduszu związane z przeznaczaniem środków niebędących wpływami pochodzącymi ze sprzedaży jednostek Kioto, zgodnie z ustawą z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, na:
+2. Lista kosztów, o której mowa w ust. 1, obejmuje koszty Narodowego Funduszu związane z przeznaczaniem środków niebędących wpływami pochodzącymi ze sprzedaży jednostek Kioto, zgodnie z ustawą z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, na:
 
-- **1)** dotacje, tym dopłaty do oprocentowania kredytów bankowych, częściowe spłaty kapitału kredytów bankowych, dopłaty do oprocentowania lub ceny wykupu obligacji, celu dofinansowania programów lub projektów których mowa 22 ust. 1 pkt 2 lit. a, przez przeniesienie kwoty środków zgromadzonych na Rachunku klimatycznym odpowiadającej wysokości tych kosztów na rachunek bankowy Narodowego Funduszu niebędący Rachunkiem klimatycznym.
+- **1)** dotacje, w tym dopłaty do oprocentowania kredytów bankowych, częściowe spłaty kapitału kredytów bankowych, dopłaty do oprocentowania lub ceny wykupu obligacji, w celu dofinansowania programów lub projektów realizowanych w obszarach, o których mowa w art. 22 ust. 2;
+- **2)** dofinansowanie zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację programów lub projektów w obszarach, o których mowa w art. 22 ust. 2.
+
+3. Minister właściwy do spraw środowiska, biorąc pod uwagę opinię Rady Konsultacyjnej, akceptuje poszczególne koszty z listy kosztów, o której mowa w ust. 1.
+
+4. Po uzyskaniu akceptacji, o której mowa w ust. 3, Narodowy Fundusz dokonuje refinansowania kosztów, o których mowa w art. 22 ust. 1 pkt 2 lit. a, przez przeniesienie kwoty środków zgromadzonych na Rachunku klimatycznym odpowiadającej wysokości tych kosztów na rachunek bankowy Narodowego Funduszu niebędący Rachunkiem klimatycznym.
 
 **Art. 31b.**
 
-1. W celu uzyskania refinansowania ze środków zgromadzonych na Rachunku klimatycznym kosztów, których mowa 22 ust. 1 pkt 2 lit. b, wojewódzki fundusz sporządza i przedkłada do uzgodnienia Narodowemu Funduszowi projekt listy kosztów wstępnie zakwalifikowanych do refinansowania wraz ze wskazaniem programów lub projektów, których te koszty dotyczą.
+1. W celu uzyskania refinansowania ze środków zgromadzonych na Rachunku klimatycznym kosztów, o których mowa w art. 22 ust. 1 pkt 2 lit. b, wojewódzki fundusz sporządza i przedkłada do uzgodnienia Narodowemu Funduszowi projekt listy kosztów wstępnie zakwalifikowanych do refinansowania wraz ze wskazaniem programów lub projektów, których te koszty dotyczą.
 
 2. Narodowy Fundusz przedkłada do zaakceptowania ministrowi właściwemu do spraw środowiska uzgodnioną listę kosztów wstępnie zakwalifikowanych do refinansowania wraz ze wskazaniem programów lub projektów, których te koszty dotyczą.
 
-3. Lista kosztów, której mowa ust. 2, obejmuje koszty wojewódzkiego funduszu związane z przeznaczaniem środków, zgodnie z ustawą z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, na:
+3. Lista kosztów, o której mowa w ust. 2, obejmuje koszty wojewódzkiego funduszu związane z przeznaczaniem środków, zgodnie z ustawą z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, na:
 
-- **1)** dotacje, tym dopłaty do oprocentowania kredytów bankowych, częściowe spłaty kapitału kredytów bankowych, dopłaty do oprocentowania lub ceny wykupu obligacji, celu dofinansowania programów lub projektów realizowanych obszarach, których mowa 22 ust. 2;
-- **2)** dofinansowanie zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację programów lub projektów obszarach, których mowa 22 ust. 2.
+- **1)** dotacje, w tym dopłaty do oprocentowania kredytów bankowych, częściowe spłaty kapitału kredytów bankowych, dopłaty do oprocentowania lub ceny wykupu obligacji, w celu dofinansowania programów lub projektów realizowanych w obszarach, o których mowa w art. 22 ust. 2;
+- **2)** dofinansowanie zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację programów lub projektów w obszarach, o których mowa w art. 22 ust. 2.
 
-4. Minister właściwy do spraw środowiska, biorąc pod uwagę opinię Rady Konsultacyjnej, akceptuje poszczególne koszty z listy kosztów, której mowa ust. 2.
+4. Minister właściwy do spraw środowiska, biorąc pod uwagę opinię Rady Konsultacyjnej, akceptuje poszczególne koszty z listy kosztów, o której mowa w ust. 2.
 
-5. Po uzyskaniu akceptacji, której mowa ust. 4, Narodowy Fundusz zawiera z wojewódzkim funduszem umowę refinansowanie kosztów.
+5. Po uzyskaniu akceptacji, o której mowa w ust. 4, Narodowy Fundusz zawiera z wojewódzkim funduszem umowę o refinansowanie kosztów.
 
-6. W umowie, której mowa ust. 5, określa się szczególności:
+6. W umowie, o której mowa w ust. 5, określa się w szczególności:
 
 - **1)** listę kosztów podlegających refinansowaniu wraz ze wskazaniem programów lub projektów, których te koszty dotyczą;
 - **2)** szczegółowy zakres i częstotliwość składania przez wojewódzki fundusz raportów zawierających dane i informacje dotyczące osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych.
 
-7. Narodowy Fundusz dokonuje refinansowania kosztów, których mowa 22 ust. 1 pkt 2 lit. b, na podstawie umowy, której mowa ust. 5, przez przekazanie z Rachunku klimatycznego kwoty środków odpowiadającej wysokości kosztów podlegających refinansowaniu na wskazany tej umowie rachunek bankowy wojewódzkiego funduszu.
+7. Narodowy Fundusz dokonuje refinansowania kosztów, o których mowa w art. 22 ust. 1 pkt 2 lit. b, na podstawie umowy, o której mowa w ust. 5, przez przekazanie z Rachunku klimatycznego kwoty środków odpowiadającej wysokości kosztów podlegających refinansowaniu na wskazany w tej umowie rachunek bankowy wojewódzkiego funduszu.
 
 **Art. 31c.**
 
-1. Narodowy Fundusz może udzielać dofinansowania z innych środków niż zgromadzone na Rachunku klimatycznym celu uzupełnienia wkładu własnego beneficjenta.
+1. Narodowy Fundusz może udzielać dofinansowania z innych środków niż zgromadzone na Rachunku klimatycznym w celu uzupełnienia wkładu własnego beneficjenta.
 
-2. Koszty poniesione przez Narodowy Fundusz celu uzupełnienia wkładu własnego beneficjenta nie podlegają refinansowaniu ze środków zgromadzonych na Rachunku klimatycznym.”;
+2. Koszty poniesione przez Narodowy Fundusz w celu uzupełnienia wkładu własnego beneficjenta nie podlegają refinansowaniu ze środków zgromadzonych na Rachunku klimatycznym.”;
 
-- **13)** uchyla się 32–34;
-- **14)** 35:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Na podstawie wyników monitorowania, którym mowa 25 ust. 2 pkt 7a, oraz danych Narodowego Funduszu dotyczących przeznaczania środków zgromadzonych na Rachunku klimatycznym Krajowy operator przygotowuje i przedkłada ministrowi właściwemu do spraw środowiska, terminie do:
+- **13)** uchyla się art. 32–34;
+- **14)** w art. 35:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Na podstawie wyników monitorowania, o którym mowa w art. 25 ust. 2 pkt 7a, oraz danych Narodowego Funduszu dotyczących przeznaczania środków zgromadzonych na Rachunku klimatycznym Krajowy operator przygotowuje i przedkłada ministrowi właściwemu do spraw środowiska, w terminie do:
 
-- **1)** dnia 30 czerwca każdego roku, sprawozdanie za poprzedni rok kalendarzowy dotyczące realizowanych programów lub projektów dofinansowanych ze środków zgromadzonych na Rachunku klimatycznym, przeznaczania tych środków, tym na refinansowanie kosztów, oraz osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych ramach Krajowego systemu zielonych inwestycji;
-- **2)** końca miesiąca następującego po zakończeniu każdego kwartału, zbiorcze sprawozdania za okres od początku nostkę lub jednostkę uprawnioną, rozumieniu przepisów systemie handlu uprawnieniami do emisji gazów cieplarnianych, zakresie zgodności ze stanem faktycznym informacji dotyczących osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych ramach Krajowego systemu zielonych inwestycji.”;
-- **15)** uchyla się 36;
-- **16)** 37 ust. 3 otrzymuje brzmienie: „3. Procedura międzynarodowa realizacji projektu wspólnych wdrożeń, zwana dalej „ścieżką drugą”, obejmuje tryb postępowania dotyczący zatwierdzania tego projektu oraz sposób jego monitorowania, oceny i weryfikacji określony decyzjach Konferencji Stron Konwencji Klimatycznej stanowiącej spotkanie Stron Protokołu z Kioto i Komitetu Nadzorującego.”;
-- **17)** 38: Nr 122, poz. 695), wymaga uzyskania wyłącznie listu zatwierdzającego.”,
-    - **a)** ust. 1a otrzymuje brzmienie: „1a. Realizacja projektu wspólnych wdrożeń, wyniku której nastąpi uniknięcie lub redukcja emisji gazów cieplarnianych do powietrza z instalacji objętej systemem handlu uprawnieniami do emisji gazów cieplarnianych, za którą realizujący projekt zamierza uzyskać jednostki redukcji emisji z rezerwy, której mowa 13 ust. 2 pkt 1 ustawy z dnia 28 kwietnia 2011 r. systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U.
-    - **b)** ust. 5 i 6 otrzymują brzmienie: „5. Minister właściwy do spraw środowiska przed wydaniem listu zatwierdzającego informuje Komisję Europejską zamiarze jego wydania, a także przekazuje raport, którym mowa 40 ust. 5 pkt 2.
+- **1)** dnia 30 czerwca każdego roku, sprawozdanie za poprzedni rok kalendarzowy dotyczące realizowanych programów lub projektów dofinansowanych ze środków zgromadzonych na Rachunku klimatycznym, przeznaczania tych środków, w tym na refinansowanie kosztów, oraz osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych w ramach Krajowego systemu zielonych inwestycji;
+- **2)** końca miesiąca następującego po zakończeniu każdego kwartału, zbiorcze sprawozdania za okres od początku roku do końca ostatniego kwartału objętego sprawozdaniem dotyczące postępów w realizacji programów lub projektów dofinansowanych ze środków zgromadzonych na Rachunku klimatycznym oraz przeznaczania tych środków, w tym na refinansowanie kosztów.
 
-6. Kopię listu popierającego lub listu zatwierdzającego albo kopie decyzji odmawiających ich wydania minister właściwy do spraw środowiska przekazuje Krajowemu ośrodkowi terminie 14 dni od dnia ich wydania.”;
+2. Sprawozdania, o których mowa w ust. 1, Krajowy operator przekazuje Krajowemu ośrodkowi.”,
 
-- **18)** 39:
-    - **a)** ust. 1 pkt 2 otrzymuje brzmienie: „2) należy do rodzajów przedsięwzięć, które mogą być realizowane jako projekty wspólnych wdrożeń na terytorium Rzeczypospolitej Polskiej, określonych przepisach wydanych na podstawie ust. 3;”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, szczegółowe warunki, jakie powinny spełniać projekty wspólnych wdrożeń oraz projekty mechanizmu czystego rozwoju, dotyczące obiektów hydroenergetycznych mocy powyżej 20 MW trakcie ich realizacji, a także kryteria ich oceny oraz formularz sprawozdania potwierdzającego spełnienie tych wymogów, kierując się potrzebą zapewnienia odpowiedniej jakości osiąganych przez te projekty efektów środowiskowych oraz harmonizacji ich oceny.”;
+- **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Sprawozdanie, o którym mowa w ust. 1 pkt 1, podlega weryfikacji przez akredytowaną niezależną jednostkę lub jednostkę uprawnioną, w rozumieniu przepisów o systemie handlu uprawnieniami do emisji gazów cieplarnianych, w zakresie zgodności ze stanem faktycznym informacji dotyczących osiągniętych efektów związanych z uniknięciem lub redukcją emisji gazów cieplarnianych w ramach Krajowego systemu zielonych inwestycji.”;
+- **15)** uchyla się art. 36;
+- **16)** w art. 37 ust. 3 otrzymuje brzmienie: „3. Procedura międzynarodowa realizacji projektu wspólnych wdrożeń, zwana dalej „ścieżką drugą”, obejmuje tryb postępowania dotyczący zatwierdzania tego projektu oraz sposób jego monitorowania, oceny i weryfikacji określony w decyzjach Konferencji Stron Konwencji Klimatycznej stanowiącej spotkanie Stron Protokołu z Kioto i Komitetu Nadzorującego.”;
+- **17)** w art. 38: Nr 122, poz. 695), wymaga uzyskania wyłącznie listu zatwierdzającego.”,
+    - **a)** ust. 1a otrzymuje brzmienie: „1a. Realizacja projektu wspólnych wdrożeń, w wyniku której nastąpi uniknięcie lub redukcja emisji gazów cieplarnianych do powietrza z instalacji objętej systemem handlu uprawnieniami do emisji gazów cieplarnianych, za którą realizujący projekt zamierza uzyskać jednostki redukcji emisji z rezerwy, o której mowa w art. 13 ust. 2 pkt 1 ustawy z dnia 28 kwietnia 2011 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U.
+    - **b)** ust. 5 i 6 otrzymują brzmienie: „5. Minister właściwy do spraw środowiska przed wydaniem listu zatwierdzającego informuje Komisję Europejską o zamiarze jego wydania, a także przekazuje raport, o którym mowa w art. 40 ust. 5 pkt 2.
 
-- **19)** 40:
-    - **a)** ust. 7: – pkt 2 lit. a otrzymuje brzmienie: „a) akredytowaną niezależną jednostkę lub jednostkę uprawnioną, której mowa ust. 9, jeżeli wybrana została ścieżka pierwsza, albo”, – pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 brzmieniu: „5) oświadczenie i raport, których mowa ust. 5 pkt 1 i 2, przypadku projektu, którym mowa 38 ust. 1a.”,
-    - **b)** dodaje się ust. 9–11 brzmieniu: „9. Jednostkę uprawnioną do weryfikacji raportów dotyczących osiągniętych efektów związanych z redukcją emisji gazów cieplarnianych ramach projektów wspólnych wdrożeń oraz sporządzania raportu, którym mowa poz. 595, z późn. zm. ), oraz spełnia przynajmniej jeden z następujących warunków:
+6. Kopię listu popierającego lub listu zatwierdzającego albo kopie decyzji odmawiających ich wydania minister właściwy do spraw środowiska przekazuje Krajowemu ośrodkowi w terminie 14 dni od dnia ich wydania.”;
 
-- **1)** posiada co najmniej czteroletnie doświadczenie zawodowe związane z wykonywaniem czynności przynajmniej jednym z następujących zakresów:
+- **18)** w art. 39:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) należy do rodzajów przedsięwzięć, które mogą być realizowane jako projekty wspólnych wdrożeń na terytorium Rzeczypospolitej Polskiej, określonych w przepisach wydanych na podstawie ust. 3;”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, szczegółowe warunki, jakie powinny spełniać projekty wspólnych wdrożeń oraz projekty mechanizmu czystego rozwoju, dotyczące obiektów hydroenergetycznych o mocy powyżej 20 MW w trakcie ich realizacji, a także kryteria ich oceny oraz formularz sprawozdania potwierdzającego spełnienie tych wymogów, kierując się potrzebą zapewnienia odpowiedniej jakości osiąganych przez te projekty efektów środowiskowych oraz harmonizacji ich oceny.”;
+
+- **19)** w art. 40: o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm. ), w trybie przepisów tej ustawy.
+    - **a)** w ust. 7: – w pkt 2 lit. a otrzymuje brzmienie: „a) akredytowaną niezależną jednostkę lub jednostkę uprawnioną, o której mowa w ust. 9, jeżeli wybrana została ścieżka pierwsza, albo”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) oświadczenie i raport, o których mowa w ust. 5 pkt 1 i 2, w przypadku projektu, o którym mowa w art. 38 ust. 1a.”,
+    - **b)** dodaje się ust. 9–11 w brzmieniu: „9. Jednostkę uprawnioną do weryfikacji raportów dotyczących osiągniętych efektów związanych z redukcją emisji gazów cieplarnianych w ramach projektów wspólnych wdrożeń oraz sporządzania raportu, o którym mowa w ust. 7 pkt 2, akredytuje Centrum Akredytacji, o którym mowa w art. 25 ustawy z dnia 30 sierpnia 2002 r.
+
+10. Jednostka uprawniona, o której mowa w ust. 9, zapewnia przeprowadzenie weryfikacji i sporządzenie raportu, o którym mowa w ust. 7 pkt 2, przez osobę, która posiada wykształcenie wyższe na poziomie studiów drugiego stopnia w obszarach wiedzy: nauk przyrodniczych, nauk technicznych oraz nauk społecznych w dziedzinie nauk ekonomicznych, określonych w przepisach wydanych na podstawie art. 3 ust. 1 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595, z późn. zm. ), oraz spełnia przynajmniej jeden z następujących warunków:
+
+- **1)** posiada co najmniej czteroletnie doświadczenie zawodowe związane z wykonywaniem czynności w przynajmniej jednym z następujących zakresów:
     - **a)** nadzór lub kontrola procesów i urządzeń technologicznych z uwzględnieniem wymogów ochrony środowiska,
     - **b)** wdrażanie systemów ekozarządzania oraz weryfikacja danych i raportów dotyczących środowiska,
-    - **c)** zarządzanie lub bilansowanie emisji, tym monitorowanie, raportowanie i weryfikacja redukcji emisji gazów cieplarnianych,
-    - **d)** ocena dokumentacji projektowej, tym wyznaczanie poziomów bazowych i wartości wskaźników emisji oraz określanie redukcji emisji gazów cieplarnianych;
+    - **c)** zarządzanie lub bilansowanie emisji, w tym monitorowanie, raportowanie i weryfikacja redukcji emisji gazów cieplarnianych,
+    - **d)** ocena dokumentacji projektowej, w tym wyznaczanie poziomów bazowych i wartości wskaźników emisji oraz określanie redukcji emisji gazów cieplarnianych;
 
 - **2)** posiada co najmniej dwuletnie doświadczenie zawodowe związane ze stosowaniem:
     - **a)** procedury raportowania oraz kryteriów wyznaczania poziomów bazowych i wartości wskaźników emisji lub sektorowych poziomów bazowych określonych przepisami prawa z zakresu zarządzania emisjami gazów cieplarnianych lub
     - **b)** metodyki dotyczącej szacowania, monitorowania i raportowania redukcji emisji gazów cieplarnianych, lub
-    - **c)** metodyki monitorowania, tym techniki związane z pomiarem emisji i kalibracją przyrządów pomiarowych oraz określaniem redukcji emisji gazów cieplarnianych, lub
+    - **c)** metodyki monitorowania, w tym techniki związane z pomiarem emisji i kalibracją przyrządów pomiarowych oraz określaniem redukcji emisji gazów cieplarnianych, lub
     - **d)** metodyki badania i zarządzania danymi oraz systemów zapewniania i kontroli jakości.
 
-11. Krajowy ośrodek prowadzi wykaz jednostek uprawnionych, których mowa ust. 9, i zamieszcza go na swojej stronie internetowej.”;
+11. Krajowy ośrodek prowadzi wykaz jednostek uprawnionych, o których mowa w ust. 9, i zamieszcza go na swojej stronie internetowej.”;
 
-- **20)** 42 uchyla się ust. 4;
-- **21)** 45:
-    - **a)** ust. 4 otrzymuje brzmienie: „4. Okres sprawozdawczy nie może być dłuższy niż rok, z wyłączeniem projektu wspólnych wdrożeń, którym mowa 38 ust. 1a.”,
-    - **b)** ust. 5 pkt 1 otrzymuje brzmienie: „1) akredytowaną niezależną jednostkę lub jednostkę uprawnioną, której mowa 40 ust. 9, jeżeli wybrana została ścieżka pierwsza, albo”,
-    - **c)** ust. 7 i 8 otrzymują brzmienie: „7. Raport z weryfikacji, którym mowa ust. 6, określa liczbę jednostek redukcji emisji uzyskanych wyniku realizacji projektu wspólnych wdrożeń danym okresie sprawozdawczym, z podziałem na lata kalendarzowe, tym liczbę jednostek redukcji emisji wynikających z obniżenia emisji gazów cieplarnianych z instalacji objętych systemem handlu uprawnieniami do emisji tych gazów.
+- **20)** w art. 42 uchyla się ust. 4;
+- **21)** w art. 45:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Okres sprawozdawczy nie może być dłuższy niż rok, z wyłączeniem projektu wspólnych wdrożeń, o którym mowa w art. 38 ust. 1a.”,
+    - **b)** w ust. 5 pkt 1 otrzymuje brzmienie: „1) akredytowaną niezależną jednostkę lub jednostkę uprawnioną, o której mowa w art. 40 ust. 9, jeżeli wybrana została ścieżka pierwsza, albo”,
+    - **c)** ust. 7 i 8 otrzymują brzmienie: „7. Raport z weryfikacji, o którym mowa w ust. 6, określa liczbę jednostek redukcji emisji uzyskanych w wyniku realizacji projektu wspólnych wdrożeń w danym okresie sprawozdawczym, z podziałem na lata kalendarzowe, w tym liczbę jednostek redukcji emisji wynikających z obniżenia emisji gazów cieplarnianych z instalacji objętych systemem handlu uprawnieniami do emisji tych gazów.
 
-8. Raport z weryfikacji, którym mowa ust. 6, jest przedkładany przez realizującego projekt wspólnych wdrożeń Krajowemu ośrodkowi terminie 6 miesięcy od dnia zakończenia okresu sprawozdawczego, którym mowa ust. 3, za który został sporządzony ten raport, jednak nie później niż dniu złożenia wniosku, którym mowa 50 ust. 2.”;
+8. Raport z weryfikacji, o którym mowa w ust. 6, jest przedkładany przez realizującego projekt wspólnych wdrożeń Krajowemu ośrodkowi w terminie 6 miesięcy od dnia zakończenia okresu sprawozdawczego, o którym mowa w ust. 3, za który został sporządzony ten raport, jednak nie później niż w dniu złożenia wniosku, o którym mowa w art. 50 ust. 2.”;
 
-- **22)** 49 ust. 3 otrzymuje brzmienie: „3. W przypadku projektów wspólnych wdrożeń realizowanych ramach ścieżki drugiej akredytowana nierejestrze państwa uprawnionego lub Krajowym rejestrze odbywa się na wniosek realizującego projekt wspólnych wdrożeń.”,
-    - **b)** ust. 4 pkt 4 otrzymuje brzmienie: „4) wskazanie rachunku lub rachunków, na które mają zostać przekazane jednostki redukcji emisji.”,
-    - **c)** ust. 8 otrzymuje brzmienie: „8. Łączna liczba jednostek redukcji emisji, jaka może zostać przekazana nabywcy, nie może być większa od sumy jednostek redukcji emisji określonej raportach z weryfikacji, której mowa 45 ust. 5, lub liście zatwierdzającym projekt. W przypadku różnicy wybiera się wartość niższą.”,
-    - **d)** ust. 10 otrzymuje brzmienie: „10. Krajowy ośrodek przekazuje niezwłocznie, jednak nie później niż terminie 14 dni od dnia otrzymania kopii ostatecznej decyzji, jednostki redukcji emisji liczbie określonej decyzji na wskazany rachunek lub rachunki krajowym rejestrze nabywcy.”;
+- **22)** w art. 49 ust. 3 otrzymuje brzmienie: „3. W przypadku projektów wspólnych wdrożeń realizowanych w ramach ścieżki drugiej akredytowana niezależna jednostka lub jednostka uprawniona, o której mowa w art. 40 ust. 9, zamieszcza na swojej stronie internetowej raport z oceny dokumentacji projektowej, o którym mowa w art. 40 ust. 7 pkt 2, oraz raport z weryfikacji, o którym mowa w art. 45 ust. 6.”;
+- **23)** w art. 50:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Przekazanie nabywcy jednostek redukcji emisji na wskazany rachunek lub rachunki prowadzone w rejestrze państwa uprawnionego lub w Krajowym rejestrze odbywa się na wniosek realizującego projekt wspólnych wdrożeń.”,
+    - **b)** w ust. 4 pkt 4 otrzymuje brzmienie: „4) wskazanie rachunku lub rachunków, na które mają zostać przekazane jednostki redukcji emisji.”,
+    - **c)** ust. 8 otrzymuje brzmienie: „8. Łączna liczba jednostek redukcji emisji, jaka może zostać przekazana nabywcy, nie może być większa od sumy jednostek redukcji emisji określonej w raportach z weryfikacji, o której mowa w art. 45 ust. 5, lub w liście zatwierdzającym projekt. W przypadku różnicy wybiera się wartość niższą.”,
+    - **d)** ust. 10 otrzymuje brzmienie: „10. Krajowy ośrodek przekazuje niezwłocznie, jednak nie później niż w terminie 14 dni od dnia otrzymania kopii ostatecznej decyzji, jednostki redukcji emisji w liczbie określonej w decyzji na wskazany rachunek lub rachunki w krajowym rejestrze nabywcy.”;
 
-- **24)** 52 ust. 3 otrzymuje brzmienie: „3. Kopię decyzji udzielającej zgody lub decyzji odmawiającej jej udzielenia minister właściwy do spraw środowiska przekazuje Krajowemu ośrodkowi terminie 14 dni od dnia ich wydania.”.
+- **24)** w art. 52 ust. 3 otrzymuje brzmienie: „3. Kopię decyzji udzielającej zgody lub decyzji odmawiającej jej udzielenia minister właściwy do spraw środowiska przekazuje Krajowemu ośrodkowi w terminie 14 dni od dnia ich wydania.”.
 
 **Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Refinansowanie ze środków zgromadzonych na Rachunku klimatycznym, którym mowa 23 ust. 1 ustawy zmienianej 1, obejmuje koszty, których mowa 22 ust. 1 pkt 2 ustawy zmienianej 1, poniesione przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz przez wojewódzkie fundusze ochrony środowiska i gospodarki wodnej po dniu 24 listopada 2009 r.
+- **1)** w art. 400b dodaje się ust. 4 i 5 w brzmieniu: „4. Krajowy operator systemu zielonych inwestycji może powierzać wojewódzkim funduszom, na podstawie porozumień, wykonywanie czynności składających się na realizację zadań, o których mowa w art. 25 ust. 2 pkt 7a i 9 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, ponosząc odpowiedzialność za ich czynności jak za swoje własne.
+
+5. Porozumienia, o których mowa w ust. 4, określają w szczególności zakres czynności wykonywanych przez wojewódzkie fundusze oraz sposób pokrywania przez Krajowego operatora systemu zielonych inwestycji kosztów ponoszonych przez wojewódzkie fundusze na wykonywanie tych czynności.”;
+
+- **2)** w art. 401d:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przychodami Narodowego Funduszu są także wpływy pochodzące ze sprzedaży jednostek Kioto, o których mowa w art. 19a ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.”,
+    - **b)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Wpływy pochodzące ze sprzedaży jednostek przyznanej emisji gromadzone na Rachunku klimatycznym, o którym mowa w art. 23 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, pomniejszone o koszty ich obsługi, przeznacza się na:”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) refinansowanie:
+    - **a)** Narodowemu Funduszowi kosztów związanych z przeznaczaniem innych środków niż wymienione w ust. 1,
+    - **b)** wojewódzkiemu funduszowi kosztów związanych z przeznaczaniem środków – na dofinansowanie programów lub projektów w obszarach, o których mowa w art. 22 ust. 2 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, w tym kosztów związanych z przekazaniem środków na dochody budżetu państwa w celu dofinansowania zadań realizowanych przez państwowe jednostki budżetowe, obejmujących realizację tych programów lub projektów;”;
+
+- **3)** w art. 410e:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Środki Narodowego Funduszu niebędące przychodami, o których mowa w art. 401 ust. 7, oraz niebędące wpływami pochodzącymi ze sprzedaży jednostek przyznanej emisji gromadzonymi na Rachunku klimatycznym, o którym mowa w art. 23 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, można także przeznaczać, za zgodą ministra właściwego do spraw środowiska, na:”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Środki Narodowego Funduszu niebędące przychodami, o których mowa w art. 401 ust. 7, oraz niebędące wpływami pochodzącymi ze sprzedaży jednostek przyznanej emisji gromadzonymi na Rachunku klimatycznym, o którym mowa w art. 23 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, przeznaczone na zadania, o których mowa w ust. 1, realizowane przez państwową jednostkę budżetową, są przekazywane tej jednostce zgodnie z art. 410c ust. 2.”.
+
+**Art. 3.** Refinansowanie ze środków zgromadzonych na Rachunku klimatycznym, o którym mowa w art. 23 ust. 1 ustawy zmienianej w art. 1, obejmuje koszty, o których mowa w art. 22 ust. 1 pkt 2 ustawy zmienianej w art. 1, poniesione przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz przez wojewódzkie fundusze ochrony środowiska i gospodarki wodnej po dniu 24 listopada 2009 r.
 
 **Art. 4.**
 
-1. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej terminie 21 dni od dnia wejścia życie ustawy dokona zmian regulaminach naboru wniosków udzielenie dofinansowania ze środków zgromadzonych na Rachunku klimatycznym, którym mowa 23 ust. 1 ustawy zmienianej 1, dotyczących naborów, których ocena programów i projektów nie zakończyła się przed dniem wejścia życie ustawy, celu dostosowania tych regulaminów do przepisów ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+1. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej w terminie 21 dni od dnia wejścia w życie ustawy dokona zmian w regulaminach naboru wniosków o udzielenie dofinansowania ze środków zgromadzonych na Rachunku klimatycznym, o którym mowa w art. 23 ust. 1 ustawy zmienianej w art. 1, dotyczących naborów, w których ocena programów i projektów nie zakończyła się przed dniem wejścia w życie ustawy, w celu dostosowania tych regulaminów do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Zmienione regulaminy naboru wniosków, których mowa ust. 1, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej podaje do publicznej wiadomości na swoich stronach internetowych.
+2. Zmienione regulaminy naboru wniosków, o których mowa w ust. 1, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej podaje do publicznej wiadomości na swoich stronach internetowych.
 
-**Art. 5.** Jednostki uprawnione do weryfikacji raportów, którym udzielono akredytacji do dnia wejścia życie ustawy, stają się jednostkami uprawnionymi, których mowa 40 ust. 9 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+**Art. 5.** Jednostki uprawnione do weryfikacji raportów, którym udzielono akredytacji do dnia wejścia w życie ustawy, stają się jednostkami uprawnionymi, o których mowa w art. 40 ust. 9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

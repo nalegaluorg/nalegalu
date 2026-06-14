@@ -8,10 +8,10 @@ pos: 1349
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 lipca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1349 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 13 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,70 +25,70 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1349/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 13 lipca 2021 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów sprawie postępowania zakresie mandatu karnego, mandatów karnych teleinformatycznego, grzywien nakładanych drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego
-1. Na podstawie 16 ust. 3 ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 26 stycznia 2016 r. sprawie postępowania zakresie mandatu karnego, mandatów karnych teleinformatycznego, grzywien nakładanych drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. z 2019 r.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 26 stycznia 2016 r. w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. z 2019 r.
 poz. 1754), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 14 kwietnia 2020 r.
-zmieniającym rozporządzenie sprawie postępowania zakresie mandatu karnego, mandatów karnych teleinformatycznego, grzywien nakładanych drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. poz. 752).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje 2 rozporządzenia Rady Ministrów z dnia 14 kwietnia 2020 r. zmieniającego rozporządzenie sprawie postępowania zakresie mandatu karnego, mandatów karnych teleinformatycznego, grzywien nakładanych drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U.
-poz. 752), który stanowi: „§ 2. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.”.
+zmieniającym rozporządzenie w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. poz. 752).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 14 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U.
+poz. 752), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 stycznia 2016 r.
-sprawie postępowania zakresie mandatu karnego, mandatów karnych teleinformatycznego, grzywien nakładanych drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego Na podstawie 14 ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach wykroczenia (Dz. U. z 2021 r. poz. 457 1005) zarządza się, co następuje:
-1. Rozporządzenie określa:
-1) sposób zaopatrywania, dystrybucji rozliczania mandatu karnego oraz przydziału rozliczania serii numerów mandatów karnych teleinformatycznego;
+w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego Na podstawie art. 100 § 14 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457 i 1005) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) sposób zaopatrywania, dystrybucji i rozliczania formularzy mandatu karnego oraz przydziału i rozliczania serii i numerów mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego;
 2) podmioty, które nabywają formularze mandatu karnego odpłatnie;
-3) tryb szczegółowy zakres współpracy, 9 ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach wykroczenia, zwanej dalej „ustawą”;
-4) tryb terminy przekazania oraz szczegółowy zakres informacji, których 10 11 ustawy.
-2. Ilekroć rozporządzeniu jest o:
-1) bloczku rozumie się przez to formularze mandatu karnego ułożone sposób określony przepisach wykonawczych wydanych na podstawie 96 3 ustawy;
-2) organie uprawnionym rozumie się przez to organ uprawniony do nakładania grzywien drodze mandatu karnego.
-3. 1. Minister właściwy do spraw finansów publicznych albo organ wyznaczony zgodnie z 4a ustawy zaopatruje dyrektora izby administracji skarbowej oraz Głównego Inspektora Transportu Drogowego, zwanych dalej „organami dystrybuującymi rozliczającymi”, formularze mandatu karnego, zwane dalej „formularzami”, oraz przydziela serie numery mandatów karnych teleinformatycznego, po uzyskaniu informacji dotyczącej przewidywanej do wykorzystania we wskazanym okresie liczby lub liczby mandatów karnych teleinformatycznego.
-2. ust. 1, organ dystrybuujący rozliczający przekazuje na wniosek ministra właściwego do spraw finansów publicznych albo organu wyznaczonego zgodnie z 4a ustawy terminie wyznaczonym we wniosku, nie krótszym niż 30 dni od dnia jego otrzymania.
-4. 1. Organ dystrybuujący rozliczający wydaje formularze na podstawie zapotrzebowania złożonego przez organ uprawniony systemie teleinformatycznym, którego funkcjonalność jest udostępniona na stronie internetowej ministra właściwego do spraw finansów publicznych. W przypadku wydawanych przez Głównego Inspektora Transportu Drogowego zapotrzebowanie może być złożone również postaci papierowej.
-2. Organ dystrybuujący rozliczający informuje organ uprawniony zrealizowaniu zapotrzebowania sporządza specyfikację formularzy, które zostaną wydane. Specyfikacja zawiera liczbę wydanych bloczków, numerację początkową końcową bloczku, czytelne podpisy osoby wydającej pobierającej formularze oraz miejscowość, datę sporządzenia specyfikacji datę wydania formularzy.
-3. Specyfikacja wydanych stanowi odpowiednio dowód rozchodu lub przychodu tych formularzy.
-4. Niewypełnione formularze, do czasu ich wypełnienia bądź zniszczenia, są drukami ścisłego zarachowania podlegają wpisowi do księgi druków ścisłego zarachowania.
-6. Formularze są nabywane odpłatnie przez straż gminną (miejską).
-7. 1. Organ uprawniony na wniosek:
+3) tryb i szczegółowy zakres współpracy, o której mowa w art. 100 § 9 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, zwanej dalej „ustawą”;
+4) tryb i terminy przekazania oraz szczegółowy zakres informacji, o których mowa w art. 100 § 10 i 11 ustawy.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) bloczku – rozumie się przez to formularze mandatu karnego ułożone w sposób określony w przepisach wykonawczych wydanych na podstawie art. 96 § 3 ustawy;
+2) organie uprawnionym – rozumie się przez to organ uprawniony do nakładania grzywien w drodze mandatu karnego.
+§ 3. 1. Minister właściwy do spraw finansów publicznych albo organ wyznaczony zgodnie z art. 100 § 4a ustawy zaopatruje dyrektora izby administracji skarbowej oraz Głównego Inspektora Transportu Drogowego, zwanych dalej „organami dystrybuującymi i rozliczającymi”, w formularze mandatu karnego, zwane dalej „formularzami”, oraz przydziela serie i numery mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, po uzyskaniu informacji dotyczącej przewidywanej do wykorzystania we wskazanym okresie liczby formularzy lub liczby mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego.
+2. Informację, o której mowa w ust. 1, organ dystrybuujący i rozliczający przekazuje na wniosek ministra właściwego do spraw finansów publicznych albo organu wyznaczonego zgodnie z art. 100 § 4a ustawy w terminie wyznaczonym we wniosku, nie krótszym niż 30 dni od dnia jego otrzymania.
+§ 4. 1. Organ dystrybuujący i rozliczający wydaje formularze na podstawie zapotrzebowania złożonego przez organ uprawniony w systemie teleinformatycznym, którego funkcjonalność jest udostępniona na stronie internetowej ministra właściwego do spraw finansów publicznych. W przypadku formularzy wydawanych przez Głównego Inspektora Transportu Drogowego zapotrzebowanie może być złożone również w postaci papierowej.
+2. Organ dystrybuujący i rozliczający informuje organ uprawniony o zrealizowaniu zapotrzebowania i sporządza specyfikację formularzy, które zostaną wydane. Specyfikacja zawiera liczbę wydanych bloczków, numerację początkową i końcową formularzy w bloczku, czytelne podpisy osoby wydającej i pobierającej formularze oraz miejscowość, datę sporządzenia specyfikacji i datę wydania formularzy.
+3. Specyfikacja wydanych formularzy stanowi odpowiednio dowód rozchodu formularzy lub przychodu tych formularzy.
+4. Niewypełnione formularze, do czasu ich wypełnienia bądź zniszczenia, są drukami ścisłego zarachowania i podlegają wpisowi do księgi druków ścisłego zarachowania.
+§ 5. Do przydziału serii i numerów mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego przepisy § 4 ust. 1–3 stosuje się odpowiednio.
+§ 6. Formularze są nabywane odpłatnie przez straż gminną (miejską).
+§ 7. 1. Organ uprawniony na wniosek:
 1) dyrektora izby administracji skarbowej:
-a) udziela informacji dotyczących numerów serii wykorzystanych formularzy, sposobu ich wykorzystania, przyczyny ich zniszczenia bądź utraty oraz dotyczących wykorzystanych serii numerów mandatów karnych generowanych teleinformatycznego,
-b) przekazuje dokumenty niezbędne do weryfikacji informacji, 10 ustawy,
-2) organu uprawnionego do poboru należności wynikających z grzywien nałożonych drodze mandatu karnego, zwanego dalej „organem uprawnionym do poboru”:
+a) udziela informacji dotyczących numerów i serii wykorzystanych formularzy, sposobu ich wykorzystania, przyczyny ich zniszczenia bądź utraty oraz dotyczących wykorzystanych serii i numerów mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego,
+b) przekazuje dokumenty niezbędne do weryfikacji informacji, o której mowa w art. 100 § 10 ustawy,
+2) organu uprawnionego do poboru należności wynikających z grzywien nałożonych w drodze mandatu karnego, zwanego dalej „organem uprawnionym do poboru”:
 a) udziela informacji dotyczących wysokości grzywny, danych ukaranego, podpisu ukaranego na formularzu oraz podpisu funkcjonariusza (pracownika) organu uprawnionego,
-b) przekazuje odcinek formularza oraz odcinek formularza mandatu karnego wygenerowanego teleinformatycznego, przeznaczony dla organu, którego funkcjonariusz nałożył mandat, lub inne dokumenty niezbędne do wykonywania zadań przez organ uprawniony do poboru terminie wyznaczonym we wniosku, nie dłuższym niż 30 dni od jego otrzymania.
-2. Wniosek, którym ust. 1, podpisany kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, jest przekazywany przez elektroniczną skrzynkę podawczą dyrektora izby administracji skarbowej organu uprawnionego bądź organu uprawnionego do poboru organu uprawnionego.
-3. Do odpowiedzi na wniosek dokumentów, których ust. 1, przepis ust. 2 stosuje się odpowiednio.
-4. Odcinek formularza oraz odcinek formularza mandatu karnego wygenerowanego teleinformatycznego przeznaczony dla organu, którego funkcjonariusz nałożył mandat, lub inne dokumenty, których ust. 1, mają postać elektronicznej kopii dokumentu.
-5. W przypadku braku możliwości przekazania drogą elektroniczną wniosku, którym ust. 1, lub odpowiedzi na ten wniosek dokumentów, których ust. 1 pkt 1 lit. b pkt 2 lit. b, przekazuje się je postaci papierowej.
-8. 1. Informacja, 10 ustawy, zakresie formularzy, jest przekazywana nie rzadziej niż raz miesiącu, systemie teleinformatycznym, którego funkcjonalność jest udostępniona na stronie internetowej ministra właściwego do spraw finansów publicznych.
-2. Informacja, 10 ustawy, zakresie zawiera liczbę, serie numery:
+b) przekazuje odcinek formularza oraz odcinek formularza mandatu karnego wygenerowanego przy wykorzystaniu systemu teleinformatycznego, przeznaczony dla organu, którego funkcjonariusz nałożył mandat, lub inne dokumenty niezbędne do wykonywania zadań przez organ uprawniony do poboru – w terminie wyznaczonym we wniosku, nie dłuższym niż 30 dni od jego otrzymania.
+2. Wniosek, o którym mowa w ust. 1, podpisany kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, jest przekazywany przez elektroniczną skrzynkę podawczą dyrektora izby administracji skarbowej i organu uprawnionego bądź organu uprawnionego do poboru i organu uprawnionego.
+3. Do odpowiedzi na wniosek i dokumentów, o których mowa w ust. 1, przepis ust. 2 stosuje się odpowiednio.
+4. Odcinek formularza oraz odcinek formularza mandatu karnego wygenerowanego przy wykorzystaniu systemu teleinformatycznego przeznaczony dla organu, którego funkcjonariusz nałożył mandat, lub inne dokumenty, o których mowa w ust. 1, mają postać elektronicznej kopii dokumentu.
+5. W przypadku braku możliwości przekazania drogą elektroniczną wniosku, o którym mowa w ust. 1, lub odpowiedzi na ten wniosek i dokumentów, o których mowa w ust. 1 pkt 1 lit. b i pkt 2 lit. b, przekazuje się je w postaci papierowej.
+§ 8. 1. Informacja, o której mowa w art. 100 § 10 ustawy, w zakresie formularzy, jest przekazywana nie rzadziej niż raz w miesiącu, w systemie teleinformatycznym, którego funkcjonalność jest udostępniona na stronie internetowej ministra właściwego do spraw finansów publicznych.
+2. Informacja, o której mowa w art. 100 § 10 ustawy, w zakresie formularzy zawiera liczbę, serie i numery:
 1) wykorzystanych formularzy;
 2) (uchylony).
-3. 10 ustawy, zakresie formularzy, składa się po ostatniego formularza bloczku.
-4. Do informacji, 10 ustawy, zakresie serii numerów mandatów karnych teleinformatycznego przepisy ust. 1 2 stosuje się odpowiednio.
-9. Jednocześnie z informacją, 10 ustawy, organ, który sporządził informację, przesyła podlegające rozliczeniu odcinki formularzy, ujęte bloczek, lub odcinki wygenerowane teleinformatycznego, przeznaczone dla dyrektora izby administracji skarbowej. W przypadku odłączenia od bloczka odcinków organ, który sporządził informację, zestawia te formularze według serii numerów przekazuje wraz z bloczkiem, od którego zostały odłączone.
-10. 1. Dyrektor izby administracji skarbowej weryfikuje informację, 10 ustawy, z odcinkami formularzy, których 9, oraz systemie teleinformatycznym, którego funkcjonalność jest udostępniona na stronie internetowej ministra właściwego do spraw finansów publicznych, a następnie:
+3. Informację, o której mowa w art. 100 § 10 ustawy, w zakresie formularzy, składa się po wykorzystaniu ostatniego formularza w bloczku.
+4. Do informacji, o której mowa w art. 100 § 10 ustawy, w zakresie serii i numerów mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego przepisy ust. 1 i 2 stosuje się odpowiednio.
+§ 9. Jednocześnie z informacją, o której mowa w art. 100 § 10 ustawy, organ, który sporządził informację, przesyła podlegające rozliczeniu odcinki formularzy, ujęte w bloczek, lub odcinki formularzy wygenerowane przy wykorzystaniu systemu teleinformatycznego, przeznaczone dla dyrektora izby administracji skarbowej. W przypadku odłączenia od bloczka odcinków formularzy organ, który sporządził informację, zestawia te formularze według serii i numerów i przekazuje wraz z bloczkiem, od którego zostały odłączone.
+§ 10. 1. Dyrektor izby administracji skarbowej weryfikuje informację, o której mowa w art. 100 § 10 ustawy, z odcinkami formularzy, o których mowa w § 9, oraz w systemie teleinformatycznym, którego funkcjonalność jest udostępniona na stronie internetowej ministra właściwego do spraw finansów publicznych, a następnie:
 1) zatwierdza informację albo
 2) koryguje informację lub jej część, jeżeli przekazane dane umożliwiają dokonanie korekty, po czym zatwierdza skorygowaną informację, albo
 3) odrzuca informację lub jej część, określając przyczyny odrzucenia.
-2. W przypadku, którym ust. 1 pkt 2, dyrektor izby administracji skarbowej zawiadamia organ, który sporządził informację, dokonanej korekcie.
-3. W przypadku, którym ust. 1 pkt 3, organ, który sporządził informację, koryguje ją lub jej część terminie wyznaczonym przez dyrektora izby administracji skarbowej nie dłuższym niż 14 dni od dnia odrzucenia, uwzględnieniu przyczyn odrzucenia.
-4. Zatwierdzając informację, 10 ustawy, dyrektor izby administracji skarbowej dokonuje rozliczenia oraz serii numerów mandatów karnych teleinformatycznego.
-11. Rozliczenie lub serii numerów mandatów karnych teleinformatycznego przez Głównego Inspektora Transportu Drogowego może następować postaci elektronicznej lub papierowej.
-12. 1. 11 ustawy, przekazuje się nie później niż terminie 7 dni od dnia uprawomocnienia się mandatu, a przypadku mandatu karnego zaocznego nie później niż terminie 7 dni od dnia jego wystawienia.
-2. Informacja, 11 ustawy, zawiera:
-1) serię numer mandatu karnego;
-2) określenie mandatu karnego zgodnie z 98 1 ustawy;
+2. W przypadku, o którym mowa w ust. 1 pkt 2, dyrektor izby administracji skarbowej zawiadamia organ, który sporządził informację, o dokonanej korekcie.
+3. W przypadku, o którym mowa w ust. 1 pkt 3, organ, który sporządził informację, koryguje ją lub jej część w terminie wyznaczonym przez dyrektora izby administracji skarbowej nie dłuższym niż 14 dni od dnia odrzucenia, przy uwzględnieniu przyczyn odrzucenia.
+4. Zatwierdzając informację, o której mowa w art. 100 § 10 ustawy, dyrektor izby administracji skarbowej dokonuje rozliczenia formularzy oraz serii i numerów mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego.
+§ 11. Rozliczenie formularzy lub serii i numerów mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego przez Głównego Inspektora Transportu Drogowego może następować w postaci elektronicznej lub papierowej.
+§ 12. 1. Informację, o której mowa w art. 100 § 11 ustawy, przekazuje się nie później niż w terminie 7 dni od dnia uprawomocnienia się mandatu, a w przypadku mandatu karnego zaocznego – nie później niż w terminie 7 dni od dnia jego wystawienia.
+2. Informacja, o której mowa w art. 100 § 11 ustawy, zawiera:
+1) serię i numer mandatu karnego;
+2) określenie mandatu karnego zgodnie z art. 98 § 1 ustawy;
 3) datę uprawomocnienia się mandatu karnego wydanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją nałożył, oraz mandatu karnego kredytowanego;
-4) imię, nazwisko, imię ojca adres miejsca zamieszkania ukaranego oraz numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli taki numer został wpisany na formularzu nałożeniu grzywny, albo przypadku braku możliwości stwierdzenia numeru PESEL datę urodzenia ukaranego;
+4) imię, nazwisko, imię ojca i adres miejsca zamieszkania ukaranego oraz numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli taki numer został wpisany na formularzu przy nałożeniu grzywny, albo w przypadku braku możliwości stwierdzenia numeru PESEL – datę urodzenia ukaranego;
 5) informację, czy ukarany jest podmiotem krajowym czy zagranicznym;
-6) nazwę numer dokumentu, na podstawie którego ustalono tożsamość ukaranego, jeżeli tożsamość ukaranego została ustalona na podstawie dokumentu;
+6) nazwę i numer dokumentu, na podstawie którego ustalono tożsamość ukaranego, jeżeli tożsamość ukaranego została ustalona na podstawie dokumentu;
 7) kwotę grzywny;
-8) będącą posiadaniu organu, który sporządził informację, informację uiszczeniu bądź nieuiszczeniu grzywny;
+8) będącą w posiadaniu organu, który sporządził informację, informację o uiszczeniu bądź nieuiszczeniu grzywny;
 9) informacje dotyczące organu uprawnionego, którego funkcjonariusz (pracownik) nałożył mandat;
 10) datę wystawienia mandatu.
-13. Po otrzymaniu informacji, 11 ustawy, organ uprawniony do poboru niezwłocznie informuje organ, który sporządził informację nieuiszczeniu, terminie, którym 98 5 ustawy, grzywny nałożonej mandatem karnym zaocznym.
-14. 1. Rozliczenia z funkcjonariuszem (pracownikiem) nakładającym grzywny drodze mandatu karnego z wykorzystanych dokonanych wpłat przeprowadza organ uprawniony.
-2. Do mandatów karnych teleinformatycznego przepis ust. 1 stosuje się odpowiednio.
-15. Rozporządzenie wchodzi życie z dniem ogłoszenia .
+§ 13. Po otrzymaniu informacji, o której mowa w art. 100 § 11 ustawy, organ uprawniony do poboru niezwłocznie informuje organ, który sporządził informację o nieuiszczeniu, w terminie, o którym mowa w art. 98 § 5 ustawy, grzywny nałożonej mandatem karnym zaocznym.
+§ 14. 1. Rozliczenia z funkcjonariuszem (pracownikiem) nakładającym grzywny w drodze mandatu karnego z wykorzystanych formularzy i dokonanych wpłat przeprowadza organ uprawniony.
+2. Do mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego przepis ust. 1 stosuje się odpowiednio.
+§ 15. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 

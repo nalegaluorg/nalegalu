@@ -8,7 +8,7 @@ pos: 684
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych regulacjach w zakresie transportu i gospodarki morskiej w związku z konfliktem zbrojnym na terytorium Ukrainy
@@ -28,6 +28,10 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000684) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/684/text.pdf) |
 
 **Art. 1.** Ustawa określa szczególne regulacje dotyczące:
+
+- **1)** przewozów drogowych i kolejowych wykonywanych w związku z konfliktem zbrojnym na terytorium Ukrainy;
+- **2)** dokumentów stosowanych w transporcie i ruchu drogowym w związku z konfliktem zbrojnym na terytorium Ukrainy;
+- **3)** odnawiania przez właściwe organy Rzeczypospolitej Polskiej dyplomów kwalifikacyjnych marynarzy wydanych przez właściwe organy administracji Ukrainy w związku z konfliktem zbrojnym na terytorium Ukrainy.
 
 **Art. 2.**
 
@@ -261,6 +265,8 @@ source: "isap-pdf"
 - **4)** w ramach ruchu bezwizowego – przypada w okresie od dnia 1 września 2022 r., a pobyt ten rozpoczął się przed tym dniem, jego pobyt na tym terytorium uznaje się za legalny do dnia 24 sierpnia 2023 r.
 
 **Art. 18.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, 682 i
+
+- **683)** w art. 42 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W dokumencie podróży kierowcy, o którym mowa w ust. 4, naklejkę wizową potwierdzającą przedłużenie wizy krajowej umieszcza wojewoda właściwy ze względu na miejsce pobytu tego kierowcy.”.
 
 **Art. 19.** Przewoźnicy kolejowi i zarządcy infrastruktury kolejowej dostosują swoje przepisy wewnętrzne do wymagań określonych w art. 3 i art. 4 niezwłocznie po ogłoszeniu niniejszej ustawy.
 

@@ -8,7 +8,7 @@ pos: 222
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rybołówstwie morskim
@@ -100,6 +100,12 @@ Art. 132–135. (pominięte)
 
 **Art. 5.** Zabrania się:
 
+- **1)** niszczenia tarlisk, ikry oraz narybku;
+- **2)** używania przy prowadzeniu połowów organizmów morskich materiałów wybuchowych, środków odurzających, trujących lub zanieczyszczających środowisko morskie;
+- **3)** wydawania lub wystawiania narzędzi połowowych w taki sposób lub w takim miejscu, aby:
+    - **a)** powodowały uszkodzenia innych narzędzi połowowych lub
+    - **b)** utrudniały prowadzenie połowów organizmów morskich.
+
 **Art. 6.**
 
 1. Zabrania się naruszania narzędzi połowowych stanowiących własność osoby trzeciej, chyba że jest to konieczne ze względu na działanie siły wyższej, bezpieczeństwo żeglugi oraz na potrzeby ratownictwa lub nadzoru nad wykonywaniem rybołówstwa morskiego.
@@ -147,9 +153,39 @@ Art. 132–135. (pominięte)
 
 **Art. 10.** Minister właściwy do spraw rybołówstwa, w zakresie nieobjętym przepisami Unii Europejskiej dotyczącymi wspólnej polityki rybołówstwa, zwanej dalej „WPR”, określi, w drodze rozporządzenia, w odniesieniu do wykonywania rybołówstwa komercyjnego na obszarach, o których mowa w art. 9 ust. 1 pkt 1 i 2:
 
+- **1)** wymiary i okresy ochronne organizmów morskich lub
+- **2)** obszary wyłączone z wykonywania tego rybołówstwa na stałe lub na czas określony, lub
+- **3)** szczegółowe warunki wykonywania tego rybołówstwa, w tym:
+    - **a)** rodzaj, liczbę i konstrukcję narzędzi połowowych, które mogą być używane,
+    - **b)** rodzaj i liczbę narzędzi połowowych, które mogą być wystawiane jednocześnie na obszarach, o których mowa w art. 9 ust. 1 pkt 1 lub 2,
+    - **c)** sposób prowadzenia połowów,
+    - **d)** sposób postępowania w przypadku połowu oznakowanych ryb pochodzących z zarybiania obszarów morskich Rzeczypospolitej Polskiej,
+    - **e)** wielkość dopuszczalnego przyłowu oraz gatunki organizmów morskich, których przyłów podlega obowiązkowi zgłoszenia do Głównego Inspektora Rybołówstwa Morskiego,
+    - **f)** szczegółowy sposób oznakowania narzędzi połowowych,
+    - **g)** miejsca i czas dokonywania wyładunku określonych gatunków organizmów morskich – mając na względzie efektywne wykorzystywanie narzędzi połowowych oraz ochronę żywych zasobów morza.
+
 **Art. 11.** (uchylony)
 
 **Art. 12.** Zabrania się:
+
+- **1)** prowadzenia połowów w ramach wykonywania rybołówstwa komercyjnego gatunku organizmów morskich:
+    - **a)** którego ogólna kwota połowowa została wyczerpana,
+    - **b)** dla którego został wprowadzony zakaz połowów,
+    - **c)** którego wspólna kwota połowowa została wyczerpana;
+
+- **2)** wykonywania rybołówstwa komercyjnego:
+    - **a)** narzędziami połowowymi, które nie są wpisane w specjalnym zezwoleniu połowowym lub których używanie jest w danym okresie lub na określonym obszarze zabronione,
+    - **b)** organizmów morskich: – które nie przekroczyły ustanowionych dla nich wymiarów ochronnych, – które znajdują się w ustanowionych dla nich okresach ochronnych, – gatunku, dla którego został wprowadzony zakaz połowów ukierunkowanych lub zakaz połowów w danym okresie lub na danym obszarze,
+    - **c)** na obszarach wyłączonych z wykonywania rybołówstwa komercyjnego,
+    - **d)** na obszarach, o których mowa w art. 9 ust. 1 pkt 2, statkiem rybackim o długości całkowitej przekraczającej 12 m,
+    - **e)** na obszarach, o których mowa w art. 9 ust. 1 pkt 1, statkiem rybackim o długości całkowitej mniejszej niż 5 m lub mocy silnika głównego mniejszej niż 15 kW,
+    - **f)** bez zgody ministra właściwego do spraw rybołówstwa, o której mowa w art. 69 ust. 8;
+
+- **3)** podczas prowadzenia połowów w ramach wykonywania rybołówstwa komercyjnego:
+    - **a)** wyładowywania na ląd, wprowadzania do obrotu, magazynowania, transportu lub przeładunku w morzu organizmów morskich złowionych z naruszeniem przepisów o rybołówstwie morskim,
+    - **b)** wydawania lub wystawiania nieoznakowanych narzędzi połowowych;
+
+- **4)** przyłowu gatunku organizmów morskich, którego wyodrębniona na podstawie art. 44 ust. 3 kwota połowowa została wyczerpana.
 
 #### Rozdział 2 Rejestr statków rybackich i oznaka rybacka
 
@@ -234,6 +270,14 @@ Art. 132–135. (pominięte)
 
 **Art. 15.** Minister właściwy do spraw rybołówstwa odmawia dokonania wpisu statku do rejestru, jeżeli:
 
+- **1)** wpis spowodowałby przekroczenie indywidualnej zdolności połowowej, którą dysponuje właściciel tego statku lub
+- **2)** właściciel tego statku złożył wniosek o jego wpis do rejestru w ramach zdolności połowowej, o której mowa w art. 22 ust. 2 pkt 3, z wyłączeniem przypadku, gdy wpis dotyczy statku, który miałby zostać wpisany do segmentu floty, o którym mowa w art. 9 ust. 1 pkt 3, lub
+- **3)** (uchylony)
+- **4)** właściciel tego statku złożył wniosek o jego wpis do rejestru, a statek ten został uprzednio wycofany z wykonywania rybołówstwa komercyjnego z zastosowaniem pomocy publicznej z tytułu trwałego zaprzestania działalności połowowej, zwanej dalej „pomocą publiczną”, lub
+- **5)** właściciel tego statku złożył wniosek o jego wpis do rejestru w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 1, a długość całkowita tego statku jest mniejsza niż 5 m lub moc silnika głównego tego statku wynosi mniej niż 15 kW, lub
+- **6)** właściciel statku złożył wniosek o jego wpis do rejestru w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 2, a długość całkowita tego statku przekracza 12 m, lub
+- **7)** statek ten znajduje się we wspólnotowym wykazie statków prowadzących połowy nielegalne, nieraportowane i nieuregulowane, o którym mowa w art. 27 ust. 1 rozporządzenia nr 1005/2008.
+
 **Art. 16.**
 
 1. Zmiany wpisu w rejestrze dokonuje się:
@@ -269,6 +313,17 @@ Art. 132–135. (pominięte)
 
 **Art. 18.** Minister właściwy do spraw rybołówstwa odmawia dokonania zmiany wpisu w rejestrze, gdy:
 
+- **1)** zmiana wpisu dotyczy: 9 ust. 1 pkt 3, – statek został uprzednio wycofany z wykonywania rybołówstwa komercyjnego z zastosowaniem pomocy publicznej, – statek ma być wprowadzony do wykonywania rybołówstwa komercyjnego w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 1, a długość całkowita tego statku jest mniejsza niż 5 m lub moc silnika głównego tego statku wynosi mniej niż 15 kW, – statek ma być wprowadzony do wykonywania rybołówstwa komercyjnego w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 2, a długość całkowita tego statku przekracza 12 m, 9 ust. 1: – pkt 1, jeżeli długość całkowita tego statku jest mniejsza niż 5 m lub moc silnika głównego tego statku wynosi mniej niż 15 kW lub – pkt 2, jeżeli długość całkowita tego statku przekracza 12 m;
+    - **a)** zwiększenia zdolności połowowej statku rybackiego – jeżeli na dzień złożenia wniosku właściciel statku rybackiego nie dysponuje odpowiednią indywidualną zdolnością połowową,
+    - **b)** ponownego wprowadzenia statku rybackiego do wykonywania rybołówstwa komercyjnego, jeżeli: – właściciel statku nie dysponuje odpowiednią indywidualną zdolnością połowową, – statek ma być wprowadzony do wykonywania rybołówstwa komercyjnego w ramach indywidualnej zdolności połowowej, o której mowa w art. 22 ust. 2 pkt 3, z wyłączeniem przypadku gdy zmiana wpisu dotyczy statku rybackiego wprowadzanego do wykonywania rybołówstwa komercyjnego w segmencie floty, o którym mowa w art.
+    - **c)** wycofania statku rybackiego z wykonywania rybołówstwa komercyjnego z zastosowaniem pomocy publicznej – jeżeli właściciel tego statku zwiększył zdolność połowową statku z wykorzystaniem dodatkowej zdolności połowowej w okresie 5 lat od dnia wydania decyzji w sprawie dokonania zmiany w rejestrze w zakresie zwiększenia zdolności połowowej statku w ramach przyznanej dodatkowej zdolności połowowej,
+    - **d)** narzędzi połowowych ciągnionych – w przypadku statku rybackiego o długości całkowitej do 12 m, na który przyznano dodatkową zdolność połowową, w terminie 5 lat od dnia dokonania wpisu w rejestrze związanego z wydaniem decyzji o przyznaniu tej zdolności połowowej,
+    - **e)** wprowadzenia statku rybackiego do segmentu floty, o którym mowa w art.
+
+- **2)** przedmiotem zmiany wpisu dotyczącego modernizacji statku rybackiego nie będzie, w przypadku statku rybackiego o długości całkowitej mniejszej niż 5 m lub mocy silnika głównego mniejszej niż 15 kW, doprowadzenie do posiadania przez ten statek długości całkowitej wynoszącej co najmniej 5 m oraz mocy silnika głównego wynoszącej co najmniej 15 kW;
+- **3)** przedmiotem zmiany wpisu będzie, w przypadku statku rybackiego znajdującego się w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 2, zwiększenie długości całkowitej tego statku powyżej 12 m.
+- **4)** (uchylony)
+
 **Art. 19.**
 
 1. Minister właściwy do spraw rybołówstwa uznaje, w drodze decyzji, statek rybacki za wycofany z wykonywania rybołówstwa komercyjnego:
@@ -296,6 +351,11 @@ Art. 132–135. (pominięte)
 5. Główny Inspektor Rybołówstwa Morskiego niezwłocznie wydaje z urzędu zaświadczenie o nadaniu oznaki rybackiej.
 
 **Art. 21.** Główny Inspektor Rybołówstwa Morskiego wykreśla oznakę rybacką ze spisu oznak rybackich:
+
+- **1)** na wniosek właściciela statku rybackiego albo
+- **2)** z urzędu, w przypadku gdy:
+    - **a)** statek rybacki, któremu została nadana oznaka rybacka, został wycofany z wykonywania rybołówstwa komercyjnego z zastosowaniem pomocy publicznej albo
+    - **b)** po upływie 12 miesięcy od dnia nadania oznaki rybackiej nie został złożony wniosek o dokonanie wpisu statku do rejestru albo o dokonanie zmiany wpisu statku rybackiego w rejestrze.
 
 #### Rozdział 3 Zdolność połowowa
 
@@ -399,6 +459,10 @@ Art. 132–135. (pominięte)
 
 **Art. 28.** Minister właściwy do spraw rybołówstwa odmawia, w drodze decyzji, przyznania dodatkowej zdolności połowowej, jeżeli:
 
+- **1)** nie są spełnione warunki, o których mowa w art. 23 ust. 2;
+- **2)** w okresie ostatnich 10 lat poprzedzających dzień złożenia wniosku o przyznanie dodatkowej zdolności połowowej, właściciel statku rybackiego dokonał zmniejszenia zdolności połowowej tego statku;
+- **3)** wnioskodawca nie spełnił kryteriów, o których mowa w przepisach wykonawczych wydanych na podstawie art. 25 ust. 5.
+
 **Art. 29.**
 
 1. W terminie 5 lat od dnia dokonania zmiany wpisu w rejestrze związanej z wydaniem decyzji o przyznaniu dodatkowej zdolności połowowej właściciel statku rybackiego, na który przyznano dodatkową zdolność połowową, nie może:
@@ -432,7 +496,16 @@ Art. 132–135. (pominięte)
 
 **Art. 31.** Właściciel statku rybackiego może rozdysponować indywidualną zdolność połowową:
 
+- **1)** statku rybackiego wycofanego z wykonywania rybołówstwa komercyjnego bez zastosowania pomocy publicznej, z wyłączeniem wycofania, o którym mowa w art. 19 ust. 1 pkt 2 lit. a, albo
+- **2)** pozostałą po zmniejszeniu zdolności połowowej jego statku – w terminie 5 lat od dnia, kiedy decyzja w sprawie dokonania odpowiedniej zmiany wpisu w rejestrze, potwierdzającej to zdarzenie, stała się ostateczna.
+
 **Art. 32.** Minister właściwy do spraw rybołówstwa cofa, w drodze decyzji, prawo do dysponowania całością albo częścią indywidualnej zdolności połowowej:
+
+- **1)** z urzędu, w przypadku gdy zdolność ta nie została wykorzystana na dokonanie wpisu lub zmiany wpisu statku rybackiego w rejestrze przez właściciela statku:
+    - **a)** gdy upłynęło 5 lat od dnia, w którym ostateczna stała się decyzja w sprawie dokonania zmiany wpisu w rejestrze potwierdzająca: – wycofanie statku rybackiego z wykonywania rybołówstwa komercyjnego bez zastosowania pomocy publicznej albo – zmniejszenie zdolności połowowej statku rybackiego,
+    - **b)** gdy przekazana indywidualna zdolność połowowa, o której mowa w art. 30 ust. 1, nie została wykorzystana w terminie, o którym mowa w pkt 1 lit. a, liczonym od dnia, gdy decyzja w sprawie wyrażenia zgody na przekazanie indywidualnej zdolności połowowej stała się ostateczna;
+
+- **2)** na wniosek właściciela statku rybackiego.
 
 #### Rozdział 4 Licencja połowowa
 
@@ -461,6 +534,11 @@ Art. 132–135. (pominięte)
 4. W czasie wykonywania rybołówstwa komercyjnego dokument licencji albo jej duplikat lub ich kopia poświadczona przez Głównego Inspektora Rybołówstwa Morskiego za zgodność z oryginałem znajdują się na statku rybackim, na który zostały wydane.
 
 **Art. 35.** Minister właściwy do spraw rybołówstwa odmawia, w drodze decyzji, wydania licencji w przypadku:
+
+- **1)** gdy statek, którego dotyczy wniosek, nie jest wpisany do rejestru;
+- **2)** gdy uprzednio w odniesieniu do statku rybackiego, którego dotyczy wniosek, cofnięto licencję na podstawie art. 129 ust. 2 rozporządzenia nr 404/2011;
+- **3)** gdy została wydana decyzja o uznaniu danego statku rybackiego za wycofany z wykonywania rybołówstwa komercyjnego oraz statek ten nie został ponownie wprowadzony do wykonywania rybołówstwa komercyjnego;
+- **4)** odmowy dokonania zmiany wpisu w rejestrze na podstawie art. 18.
 
 **Art. 35a.**
 
@@ -599,7 +677,17 @@ Art. 132–135. (pominięte)
 
 **Art. 45.** Przed dokonaniem podziału ogólnych kwot połowowych, o którym mowa w art. 44 ust. 1, kwoty te pomniejsza się o:
 
+- **1)** wielkość ustalaną przez Komisję Europejską w sposób określony w art. 105 rozporządzenia nr 1224/2009;
+- **2)** kwotę połowową przeznaczoną na połowy organizmów morskich w celach prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia, w zakresie rybołówstwa morskiego – jeżeli kwota ta ma przekraczać 2 % ogólnej kwoty połowowej badanego gatunku organizmu morskiego.
+
 **Art. 46.** Podziału:
+
+- **1)** ogólnych kwot połowowych, o których mowa w: – (uchylone)
+    - **a)** art. 44 ust. 1, dokonuje się na: – indywidualne kwoty połowowe – z podziałem na poszczególne statki rybackie lub – wspólne kwoty połowowe – bez podziału na poszczególne statki rybackie, – (uchylone)
+    - **b)** art. 44 ust. 2, dokonuje się na: – indywidualne kwoty połowowe – z podziałem na poszczególne statki rybackie lub – wspólne kwoty połowowe – bez podziału na poszczególne statki rybackie;
+
+- **2)** dni połowowych, o których mowa w art. 44 ust. 1, dokonuje się na poszczególne statki rybackie;
+- **3)** dodatkowych kwot połowowych dokonuje się na indywidualne kwoty połowowe – z podziałem na poszczególne statki rybackie.
 
 **Art. 47.**
 
@@ -961,6 +1049,14 @@ Art. 132–135. (pominięte)
 
 **Art. 75.** Główny Inspektor Rybołówstwa Morskiego jest właściwy w sprawach wyrażania zgody na:
 
+- **1)** wejście do portu wyznaczonego do prowadzenia operacji wyładunku lub przeładunku produktów rybołówstwa i świadczenia usług portowych statku rybackiego:
+    - **a)** o obcej przynależności innej niż przynależność do państwa członkowskiego Unii Europejskiej oraz
+    - **b)** znajdującego się we wspólnotowym wykazie statków prowadzących połowy nielegalne, nieraportowane i nieuregulowane, o którym mowa w art. 27 ust. 1 rozporządzenia nr 1005/2008, zwanego dalej „statkiem NNN”;
+
+- **2)** zaopatrywanie w prowiant i w paliwo oraz świadczenia innych usług na rzecz statku rybackiego o obcej przynależności innej niż przynależność do państwa członkowskiego Unii Europejskiej oraz statku NNN;
+- **3)** wymianę załogi statku rybackiego o obcej przynależności innej niż przynależność do państwa członkowskiego Unii Europejskiej oraz statku NNN;
+- **4)** wejście do portu statku NNN w przypadku, o którym mowa w art. 37 pkt 11 rozporządzenia nr 1005/2008.
+
 **Art. 76.**
 
 1. Minister właściwy do spraw rybołówstwa wyznacza, w drodze rozporządzenia, porty do prowadzenia operacji wyładunku lub przeładunku produktów rybołówstwa i świadczenia usług portowych, o których mowa w art. 5 ust. 1 rozporządzenia nr 1005/2008, mając na względzie zapewnienie sprawnej kontroli produktów rybołówstwa oraz prawidłowe wykonanie przepisów Unii Europejskiej dotyczących kontroli produktów rybołówstwa.
@@ -1154,6 +1250,13 @@ Art. 132–135. (pominięte)
 
 **Art. 93.** Rejestr pozwoleń na wykonywanie rybołówstwa rekreacyjnego jest prowadzony w formie elektronicznej i zawiera:
 
+- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu, któremu wydano pozwolenie na wykonywanie rybołówstwa rekreacyjnego;
+- **2)** okres, na jaki zostało wydane pozwolenie na wykonywanie rybołówstwa rekreacyjnego;
+- **3)** rodzaj i liczbę narzędzi wykorzystywanych do wykonywania rybołówstwa rekreacyjnego;
+- **4)** wskazanie gatunków organizmów morskich podanych we wniosku o wydanie pozwolenia na wykonywanie rybołówstwa rekreacyjnego oraz określonych w pozwoleniu, a także wskazanie obszarów ich połowów;
+- **5)** serię i numer dokumentu tożsamości lub numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) podmiotów, którym wydano pozwolenie na wykonywanie rybołówstwa rekreacyjnego;
+- **6)** nazwę statku, a dla statku rybackiego oznakę rybacką oraz nazwę, jeżeli została nadana.
+
 **Art. 94.**
 
 1. Raport z połowów rekreacyjnych, o którym mowa w art. 91 ust. 3 oraz w art. 96a ust. 2, zawiera:
@@ -1185,6 +1288,10 @@ Art. 132–135. (pominięte)
     - **c)** 1/20 wysokości wynagrodzenia – w przypadku 12-miesięcznego okresu połowów.
 
 **Art. 96.** Zabrania się:
+
+- **1)** używania do wykonywania rybołówstwa rekreacyjnego narzędzi połowowych wykorzystywanych do wykonywania rybołówstwa komercyjnego;
+- **2)** połowu organizmów morskich na obszarach wyłączonych z wykonywania rybołówstwa komercyjnego;
+- **3)** wprowadzania do obrotu organizmów morskich pochodzących z wykonywania rybołówstwa rekreacyjnego, z wyłączeniem przypadku ich nieodpłatnego przekazania placówkom opiekuńczo-wychowawczym lub organizacjom pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
 **Art. 96a.**
 
@@ -1294,6 +1401,9 @@ Art. 132–135. (pominięte)
 ### DZIAŁ IV Organy administracji rybołówstwa morskiego
 
 **Art. 100.** Organami administracji rybołówstwa morskiego są:
+
+- **1)** minister właściwy do spraw rybołówstwa;
+- **2)** Główny Inspektor Rybołówstwa Morskiego – jako centralny organ administracji rządowej.
 
 **Art. 101.**
 
@@ -1495,6 +1605,11 @@ Art. 132–135. (pominięte)
 
 **Art. 119.** Kto wykonuje rybołówstwo komercyjne statkiem rybackim:
 
+- **1)** o polskiej przynależności, będąc armatorem, którego siedziba lub oddział lub miejsce zamieszkania nie znajduje się na terytorium Rzeczypospolitej Polskiej, podlega karze pieniężnej w wysokości 1000 zł;
+- **2)** o obcej przynależności na terytorium Rzeczypospolitej Polskiej podlega, w przypadku statku o długości całkowitej:
+    - **a)** nie większej niż 10 m – karze pieniężnej w wysokości 5000 zł,
+    - **b)** większej niż 10 m – karze pieniężnej w wysokości 10 000 zł.
+
 **Art. 120.** Kto wyładowuje na ląd, wprowadza do obrotu, magazynuje, transportuje lub przeładowuje organizmy morskie złowione z naruszeniem przepisów o rybołówstwie morskim, podlega karze pieniężnej w wysokości od 1000 zł do wysokości nieprzekraczającej dwudziestokrotności wynagrodzenia.
 
 **Art. 121.** Kto wykonuje rybołówstwo komercyjne statkiem rybackim, który nie jest wpisany do rejestru, podlega karze pieniężnej w wysokości 5000 zł.
@@ -1512,7 +1627,29 @@ Art. 132–135. (pominięte)
 
 **Art. 124.** Kto:
 
+- **1)** prowadzi połowy przy użyciu narzędzi połowowych przeznaczonych do połowów komercyjnych bez:
+    - **a)** wydanej na statek rybacki, przy użyciu którego prowadzi połowy, licencji, podlega karze pieniężnej w wysokości 5000 zł,
+    - **b)** wydanego na statek rybacki, przy użyciu którego prowadzi połowy, specjalnego zezwolenia połowowego, podlega karze pieniężnej w wysokości 3000 zł;
+
+- **2)** wykonuje rybołówstwo komercyjne:
+    - **a)** bez posiadania na statku rybackim dokumentu licencji wydanej na ten statek rybacki albo jej duplikatu, podlega karze pieniężnej w wysokości 1000 zł,
+    - **b)** w przypadku gdy licencja lub specjalne zezwolenie połowowe wydane na statek rybacki, przy użyciu którego prowadzi połowy, zostały zawieszone, podlega karze pieniężnej w wysokości 4000 zł,
+    - **c)** na podstawie podrobionej lub przerobionej licencji albo specjalnego zezwolenia połowowego, podlega karze pieniężnej w wysokości 5000 zł;
+
+- **3)** wykonując rybołówstwo komercyjne:
+    - **a)** nie realizuje obowiązku, o którym mowa w art. 15 ust. 1 rozporządzenia nr 1380/2013, podlega karze pieniężnej w wysokości nie mniejszej niż 2000 zł i nieprzekraczającej dziesięciokrotności wynagrodzenia,
+    - **b)** dokonuje przeładunku organizmów morskich na morzu wbrew zakazowi określonemu w art. 20 rozporządzenia nr 1224/2009, podlega karze pieniężnej w wysokości 4000 zł,
+    - **c)** wydaje lub wystawia narzędzia połowowe w taki sposób lub w takim miejscu, że powodują uszkodzenia innych narzędzi połowowych albo utrudniają połów, podlega karze pieniężnej w wysokości 4000 zł.
+
 **Art. 125.** Kto wykonuje rybołówstwo komercyjne z naruszeniem przepisów WPR, przepisów ustawy lub aktów wykonawczych wydanych na jej podstawie, podlega w przypadku:
+
+- **1)** armatora statku rybackiego o długości całkowitej:
+    - **a)** równej albo większej niż 10 m – karze pieniężnej w wysokości nie mniejszej niż 500 zł i nieprzekraczającej pięćdziesięciokrotności wynagrodzenia,
+    - **b)** mniejszej niż 10 m – karze pieniężnej w wysokości nie mniejszej niż 500 zł i nieprzekraczającej dziesięciokrotności wynagrodzenia;
+
+- **2)** kapitana statku rybackiego o długości całkowitej:
+    - **a)** równej albo większej niż 10 m – karze pieniężnej w wysokości nie mniejszej niż 500 zł i nieprzekraczającej dwudziestokrotności wynagrodzenia,
+    - **b)** mniejszej niż 10 m – karze pieniężnej w wysokości nie mniejszej niż 500 zł i nieprzekraczającej dziesięciokrotności wynagrodzenia.
 
 **Art. 126.**
 
@@ -1576,6 +1713,9 @@ Art. 132–135. (pominięte)
 #### Rozdział 2 Przepisy przejściowe i końcowe
 
 **Art. 136.** Statki rybackie przy użyciu których, przed dniem wejścia w życie ustawy, wykonywane było rybołówstwo morskie:
+
+- **1)** o długości całkowitej poniżej 5 m lub mocy silnika głównego mniejszej niż 15 kW na obszarach, o których mowa w art. 9 ust. 1 pkt 1, mogą być używane do wykonywania rybołówstwa komercyjnego na tych obszarach;
+- **2)** o długości całkowitej poniżej 5 m lub mocy silnika głównego mniejszej niż 15 kW albo o długości całkowitej powyżej 12 m na obszarach, o których mowa w art. 9 ust. 1 pkt 2, mogą być używane do wykonywania rybołówstwa komercyjnego na tych obszarach.
 
 **Art. 137.**
 

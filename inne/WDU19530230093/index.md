@@ -8,7 +8,7 @@ pos: 93
 act_type: Dekret
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # DEKRET z dnia 23 kwietnia 1953 r.
@@ -47,19 +47,28 @@ o świadczeniach w celu zwalczania klęsk żywiołowych
 
 **Art. 4.** Świadczenia osobiste i rzeczowe dla celów zorganizowanej akcji społecznej polegają na:
 
+- **1)** udzieleniu pierwszej pomocy osobom, które uległy nieszczęśliwym wypadkom,
+- **2)** udostępnieniu pomieszczenia poszkodowanym na czas niezbędny dla udzielenia pierwszej pomocy i schronienia,
+- **3)** przyjęciu na przechowanie i pilnowaniu mienia poszkodowanych,
+- **4)** zabezpieczeniu zagrożonego inwentarza żywego (dostarczenie paszy i pomieszczenia),
+- **5)** pełnieniu warty w celu zapobieżenia rozszerzaniu się klęski,
+- **6)** wykonywaniu określonych robót,
+- **7)** dostarczeniu narzędzi potrzebnych przy prowadzeniu akcji,
+- **8)** dostarczeniu środków przewozowych wraz z niezbędnym inwentarzem pociągowym.
+
 **Art. 5.**
 
 1. Do wykonania obowiązku świadczeń osobistych i rzeczowych powołuje odpowiednio wójt, burmistrz (prezydent miasta), starosta albo wojewoda.
 
-2. Rada Ministrów w drodze rozporządzenia określi tryb powoływania wykonania obowiązku świadczeń osobistych i rzeczowych, zasady wykonywania świadczeń oraz kategorie osób zwolnione od tych świadczeń.
+2. Rada Ministrów w drodze rozporządzenia określi tryb powoływania do wykonania obowiązku świadczeń osobistych i rzeczowych, zasady wykonywania świadczeń oraz kategorie osób zwolnione od tych świadczeń.
 
 **Art. 6.**
 
-1. Kto w czasie zorganizowanej akcji społecznej i w związku z udziałem w tej akcji bez własnej winy doznał uszkodzenia zdrowia powodującego utratę zdolności pracy zarobkowej, ma prawo odszkodowania. Jeżeli wskutek takiego uszkodzenia nastąpiła śmierć, prawo odszkodowania przysługuje osobom, utrzymania których zmarły był zobowiązany, oraz osobom, które zmarły rzeczywiście utrzymywał.
+1. Kto w czasie zorganizowanej akcji społecznej i w związku z udziałem w tej akcji bez własnej winy doznał uszkodzenia zdrowia powodującego utratę zdolności do pracy zarobkowej, ma prawo do odszkodowania. Jeżeli wskutek takiego uszkodzenia nastąpiła śmierć, prawo do odszkodowania przysługuje osobom, do utrzymania których zmarły był zobowiązany, oraz osobom, które zmarły rzeczywiście utrzymywał.
 
-2. Poszkodowanemu przysługuje prawo odszkodowania za zniszczenie, uszkodzenie, zużycie lub utratę mienia w czasie i w związku z udziałem w akcji, o ile nastąpiły one bez jego winy.
+2. Poszkodowanemu przysługuje prawo do odszkodowania za zniszczenie, uszkodzenie, zużycie lub utratę mienia w czasie i w związku z udziałem w akcji, o ile nastąpiły one bez jego winy.
 
-3. Kto w związku z wykonywaniem świadczeń opuścił pracę zawodową w swoim zakładzie pracy, ma prawo pełnego wynagrodzenia z tego zakładu pracy za cały czas wykonywania świadczeń.
+3. Kto w związku z wykonywaniem świadczeń opuścił pracę zawodową w swoim zakładzie pracy, ma prawo do pełnego wynagrodzenia z tego zakładu pracy za cały czas wykonywania świadczeń.
 
 4. Rada Ministrów w drodze rozporządzenia określi zasady oraz tryb ustalenia i wypłaty odszkodowania, o którym mowa w ust. 1 i 2.
 
@@ -67,17 +76,17 @@ o świadczeniach w celu zwalczania klęsk żywiołowych
 
 **Art. 7.**
 
-1. Kto nie wykonuje ciążącego na nim obowiązku świadczeń przewidzianych w niniejszym dekrecie - podlega karze poprawczej 1 miesiąca lub grzywny 1500 zł.
+1. Kto nie wykonuje ciążącego na nim obowiązku świadczeń przewidzianych w niniejszym dekrecie - podlega karze poprawczej do 1 miesiąca lub grzywny do 1500 zł.
 
 2. Orzekanie następuje w trybie postępowania karno-administracyjnego.
 
-**Art. 8.** Kto złośliwie uchyla się od wykonania obowiązku świadczeń przewidzianych w niniejszym dekrecie - podlega karze aresztu 3 miesięcy.
+**Art. 8.** Kto złośliwie uchyla się od wykonania obowiązku świadczeń przewidzianych w niniejszym dekrecie - podlega karze aresztu do 3 miesięcy.
 
-**Art. 9.** Sposób przeprowadzania zorganizowanej akcji społecznej w stosunku obiektów wojskowych jak również zakres i warunki wykonywania świadczeń wynikających z art. 4 i 5 przez organy wojskowe oraz żołnierzy w czynnej służbie wojskowej określi Minister Obrony Narodowej w porozumieniu z Ministrem Gospodarki Komunalnej i za zgodą Prezesa Rady Ministrów.
+**Art. 9.** Sposób przeprowadzania zorganizowanej akcji społecznej w stosunku do obiektów wojskowych jak również zakres i warunki wykonywania świadczeń wynikających z art. 4 i 5 przez organy wojskowe oraz żołnierzy w czynnej służbie wojskowej określi Minister Obrony Narodowej w porozumieniu z Ministrem Gospodarki Komunalnej i za zgodą Prezesa Rady Ministrów.
 
 **Art. 10.**
 
-1. Przepisy dekretu nie mają zastosowania ochrony przeciwpożarowej.
+1. Przepisy dekretu nie mają zastosowania do ochrony przeciwpożarowej.
 
 2. W razie powodzi, zakłócenia komunikacji drogowej lub innych zdarzeń, dla zwalczania których przewidziane są środki w przepisach szczególnych, przepisy dekretu mają zastosowanie, jeżeli zdarzenia te odpowiadają określeniu zawartemu w art. 1, a środki przewidziane w przepisach szczególnych byłyby nie wystarczające.
 

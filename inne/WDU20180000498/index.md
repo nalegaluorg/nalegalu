@@ -8,10 +8,10 @@ pos: 498
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 marca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 498 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 marca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/498/text.pdf) |
 
-Poz. 498 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 marca 2018 r.
 w sprawie patronów koordynatorów oraz patronów praktyk Na podstawie art. 49 ust. 2 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U.
-z 2017 r. poz. 146 i 1139) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy tryb wyznaczania patronów koordynatorów oraz patronów praktyk dla aplikantów odbywających aplikację sędziowską i aplikację prokuratorską, zwane dalej „aplikacją”, a także zakres obowiązków patronów koordynatorów oraz patronów praktyk oraz sposób sprawowania patronatu.
+z 2017 r. poz. 146 i 1139) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy tryb wyznaczania patronów koordynatorów oraz patronów praktyk dla aplikantów odbywających aplikację sędziowską i aplikację prokuratorską, zwane dalej „aplikacją”, a także zakres obowiązków patronów koordynatorów oraz patronów praktyk oraz sposób sprawowania patronatu.
 § 2. 1. Nie później niż na 14 dni przed rozpoczęciem aplikacji Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury, zwanej dalej „Krajową Szkołą”, wyznacza aplikantowi aplikacji sędziowskiej i aplikacji prokuratorskiej, zwanemu dalej „aplikantem”, patrona koordynatora.
 2. Patron koordynator może jednocześnie sprawować patronat nad nie więcej niż 10 aplikantami.
 § 3. 1. Dyrektor Krajowej Szkoły przekazuje patronowi koordynatorowi listę aplikantów, nad którymi powierzono mu sprawowanie patronatu, wraz z programem aplikacji.
@@ -39,7 +39,7 @@ z 2017 r. poz. 146 i 1139) zarządza się, co następuje: § 1. Rozporządzenie 
 § 6. 1. Przed rozpoczęciem praktyki patron praktyki omawia z aplikantem jej planowany przebieg.
 2. W trakcie praktyki patron praktyki udziela aplikantowi wskazówek niezbędnych do wykonania zleconych czynności, a następnie omawia z aplikantem wykonane przez niego czynności.
 § 7. Patron koordynator omawia z patronami praktyk i aplikantami budzące wątpliwości zagadnienia dotyczące przebiegu praktyki.
-Dziennik Ustaw – 2 – Poz. 498 § 8. 1. Sposób realizacji zaleceń dotyczących przebiegu praktyki podlega kontroli patrona koordynatora, który może w szczególności zapoznać się z treścią powierzonych aplikantowi zadań oraz sposobem ich wykonywania.
+§ 8. 1. Sposób realizacji zaleceń dotyczących przebiegu praktyki podlega kontroli patrona koordynatora, który może w szczególności zapoznać się z treścią powierzonych aplikantowi zadań oraz sposobem ich wykonywania.
 2. W razie stwierdzenia nieprawidłowości w zakresie przebiegu praktyki patron koordynator informuje o tym niezwłocznie Dyrektora Krajowej Szkoły, który podejmuje stosowne działania w celu usunięcia nieprawidłowości, w tym może wyznaczyć aplikantowi innego patrona praktyki.
 § 9. W dniu zakończenia praktyki patron praktyki sporządza pisemną opinię wraz z oceną przebiegu praktyki i przekazuje ją patronowi koordynatorowi. Patron koordynator niezwłocznie przekazuje opinię wraz z oceną Dyrektorowi Krajowej Szkoły i aplikantowi. W przypadku praktyk w jednostkach innych niż sąd lub prokuratura patron koordynator przekazuje Dyrektorowi Krajowej Szkoły uzyskaną z tych jednostek informację o przebiegu praktyki wraz z wystawioną na jej podstawie oceną.
 § 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

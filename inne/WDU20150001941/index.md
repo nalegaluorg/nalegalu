@@ -8,10 +8,10 @@ pos: 1941
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Ministra Środowiskaz dnia 28 października 2015 r. w sprawie dokumentacji mierniczo-geologicznej
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1941 SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE WYKONYWANIA PRAC GEODEZYJNYCH I GEOLOGICZNYCH W CELU SPORZĄDZENIA, AKTUALIZACJI I UZUPEŁNIANIA DOKUMENTACJI MIERNICZO-GEOLOGICZNEJ Część I. Wykonywanie prac geodezyjnych — wymagania ogólne
 
 | Pole | Wartość |
 |---|---|
@@ -25,454 +25,270 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1941/text.pdf) |
 
-Treść rozporządzenia
+1.1. Do wykonywania pomiarów geodezyjnych używa się sprawdzonych i zrektyfikowanych narzędzi pomiarowych. Do wykonywania pomiarów odległości używa się narzędzi pomiarowych posiadających aktualne świadectwo komparacji.
+1.2. Wyniki pomiarów geodezyjnych zapisuje się w dokumentach pomiarowych w sposób trwały, zamieszczając dla każdego pomiaru:
+1) oznaczenie:
+a) punktów osnowy geodezyjnej,
+b) szczegółów terenowych;
+2) informacje określające:
+a) miejsce wykonania pomiaru,
+b) datę pomiaru,
+c) imiona i nazwiska osób biorących udział w pomiarze,
+d) zastosowane narzędzia pomiarowe;
+3) szkic polowy.
+1.3. Szkic polowy, o którym mowa w pkt 1.2 ppkt 3, sporządza się:
+1) zgodnie z zasadami sporządzania szkiców, o których mowa w przepisach prawa geodezyjnego i kartograficznego;
+2) stosując znaki umowne.
+1.4. Zmiany treści zapisu w dokumentach pomiarowych oraz dokumentach obliczeniowych dokonuje się wyłącznie przez przekreślenie pierwotnej treści zapisu, w sposób umożliwiający jej odczytanie, i wpisanie nad przekreśloną treścią nowego zapisu. Zmianę treści potwierdza podpisem osoba dokonująca zmiany.
+1.5. Zgodność wykonania pomiarów geodezyjnych i obliczeń z wiedzą techniczną oraz wymaganiami określonymi w rozporządzeniu Ministra Środowiska z dnia 28 października 2015 r. w sprawie dokumentacji mierniczo-geologicznej (Dz. U. poz. 1941) potwierdza osoba, o której mowa w art. 116 ust. 3 pkt 1 ustawy z dnia 9 czerwca 2011 r. — Prawo geologiczne i górnicze (Dz. U. z 2015 r. poz. 196, z późn. zm.), zwanej dalej „ustawą”.
+2.1. Pomiary geodezyjne wykonuje się w nawiązaniu do osnów geodezyjnych opracowanych w państwowym systemie odniesień przestrzennych, o którym mowa w przepisach prawa geodezyjnego i kartograficznego.
+2.2. Pomiary geodezyjne mające na celu uzupełnienie poziomej osnowy geodezyjnej i wysokościowej osnowy geodezyjnej oraz pomiary szczegółów terenowych i szczegółów podziemnego uzbrojenia terenu, stanowiących treść map sytuacyjno-wysokościowych powierzchni, wykonuje się zgodnie ze standardami technicznymi zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych, określonymi w przepisach prawa geodezyjnego i kartograficznego.
+2.3. Pomiary realizacyjne i kontrolne wykonuje się zgodnie z wymaganiami określonymi w przepisach prawa geodezyjnego i kartograficznego oraz Polskich Normach Miernictwo górnicze, a także w indywidualnych projektach prac geodezyjnych. Jeżeli nie określono tych wymagań, pomiary te wykonuje się zgodnie z wiedzą techniczną oraz metodami zapewniającymi dokładność wymaganą dla uzyskania założonego celu.
+2.4. Pomiary środka otworów wiertniczych oraz szybów wykonuje się dwukrotnie w sposób niezależny.
+Położenie poziome środka wszystkich otworów wiertniczych oraz szybów wyznacza się z dokładnością nie mniejszą niż 0,15 m, a położenie wysokościowe — z dokładnością nie mniejszą niż 0,05 m względem punktów nawiązania.
+3.1. Osnowy geodezyjne w podziemnej części zakładu górniczego albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy, zwane dalej w niniejszej części „osnowami geodezyjnymi”, stanowią podstawę do sporządzenia, aktualizacji i uzupełniania dokumentacji mierniczo-geologicznej. Są one wykorzystywane w szczególności do:
+1) odwzorowania wyrobisk górniczych na mapach górniczych;
+2) prawidłowego i bezpiecznego realizowania projektów robót górniczych;
+3) rozwiązywania problemów przebitkowych;
+4) prawidłowej i bezpiecznej eksploatacji urządzeń wyciągowych i transportowych.
+3.2. Osnowę geodezyjną stanowią zbiory punktów geodezyjnych, zwanych dalej „punktami”, których współrzędne są określone w układzie współrzędnych jednolitym dla całego zakładu górniczego albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy.
+3.3. Osnowa geodezyjna obejmuje:
+1) osnowę poziomą;
+2) osnowę wysokościową.
+3.4. Poziomą i wysokościową osnowę geodezyjną stanowią:
+1) osnowa podstawowa;
+2) osnowa szczegółowa;
+3) osnowa pomiarowa.
+3.5. Strukturę osnowy geodezyjnej, lokalizację punktów i sposób ich stabilizacji oraz szczegółowy sposób wykonywania pomiarów geodezyjnych ustala mierniczy górniczy.
+3.6. Podstawową osnowę geodezyjną zakłada się w celu orientacji wyrobisk górniczych oraz nawiązania punktów osnowy szczegółowej i pomiarowej. Podstawową osnowę geodezyjną nawiązuje się do punktów podstawowej i szczegółowej osnowy geodezyjnej na powierzchni. W przypadkach uzasadnionych warunkami górniczymi jest dozwolone nawiązanie podstawowej osnowy geodezyjnej danego poziomu do punktów podstawowej osnowy geodezyjnej innego poziomu.
+3.7. Szczegółową osnowę geodezyjną zakłada się w korytarzowych wyrobiskach udostępniających o długim okresie utrzymywania. Osnowę tę nawiązuje się do punktów podstawowej lub szczegółowej osnowy geodezyjnej.
+3.8. Pomiarową osnowę geodezyjną zakłada się w wyrobiskach przygotowawczych i eksploatacyjnych o krótkim okresie utrzymywania. Osnowę tę nawiązuje się do punktów podstawowej lub szczegółowej osnowy geodezyjnej.
+3.9. Dokładność osnowy geodezyjnej charakteryzują wielkości błędów średnich położenia punktu, wysokości punktu oraz azymutu boku.
+3.10. Stabilizację punktów:
+1) podstawowej osnowy geodezyjnej — wykonuje się w sposób trwały w górotworze lub w obudowie wyrobisk górniczych, w miejscach przewidywanych nawiązań do punktów szczegółowej osnowy geodezyjnej;
+2) szczegółowej osnowy geodezyjnej — wykonuje się w sposób trwały, jeżeli jest to technicznie możliwe;
+3) pomiarowej osnowy geodezyjnej — można wykonywać w sposób nietrwały, stosując metodę punktów chwilowych (straconych).
+3.11. Numerację punktów osnowy geodezyjnej ujednolica się i oznacza się w sposób umożliwiający ich jednoznaczną identyfikację.
+3.12. W przypadku zniszczenia lub stwierdzenia nieprzydatności punktów do nawiązania określonej części osnowy geodezyjnej, wykonuje się powtórny pomiar. Dozwolone jest nawiązanie nowej osnowy geodezyjnej metodą wliczenia pomiędzy punktami osnowy, których stałość została sprawdzona pomiarem kontrolnym.
+3.13. Na potrzeby sporządzania dokumentacji mierniczo-geologicznej związanej z budową obiektów i urządzeń w wyrobiskach górniczych można zakładać lokalne osnowy realizacyjne dostosowane do geometrii obiektów oraz do specyfiki robót budowlano-montażowych.
+3.14. Pozioma podstawowa osnowa geodezyjna.
+3.14.1. Poziomą podstawową osnowę geodezyjną stanowią niezależne grupy punktów zlokalizowane w pobliżu wyrobisk górniczych udostępniających dany poziom oraz zbiory punktów tworzących ciągi poligonowe pomiędzy tymi wyrobiskami.
+3.14.2. Pomiar poziomej podstawowej osnowy geodezyjnej wykonuje się na podstawie, sporządzonego przez mierniczego górniczego, projektu zawierającego wstępną analizę dokładności oraz uzasadnienie wyboru metody pomiaru.
+3.14.3. Poziomą podstawową osnowę geodezyjną charakteryzują: błąd średni położenia punktów M ≤ 0,15 m oraz błąd średni azymutu boków M ≤ 45 .
+3.14.4. Nawiązanie pomiarów geodezyjnych do poziomej podstawowej osnowy geodezyjnej (orientacja pozioma) wykonuje się do punktów osnowy geodezyjnej na powierzchni metodą orientacji wliczeniowej lub giroskopowej.
+3.14.5. Za przydatne do nawiązania osnowy geodezyjnej na innym poziomie uznaje się te punkty poziomej podstawowej osnowy geodezyjnej, dla których różnice wartości kątów, uzyskanych z pomiaru pierwotnego i kontrolnego, oraz różnice długości, uzyskanych z pomiaru pierwotnego i kontrolnego, spełniają warunki:
+1) dla pomiarów kątowych — D ≤ 50 ;
+2) dla pomiarów długości — D ≤ 2,5 • √l [mm], gdzie l oznacza długość boku nawiązania, wyrażoną w metrach.
+3.14.6. Orientację poziomą wykonuje się dwukrotnie w sposób niezależny.
+3.14.7. Pomiary kątów, giroazymutów i długości na powierzchni oraz na orientowanym poziomie wykonuje się dwukrotnie w sposób niezależny, stosując podczas pomiaru kątów podwójne centrowanie instrumentu.
+3.14.8. Długości boków podstawowej osnowy geodezyjnej są większe niż 100 m.
+3.14.9. Różnice wartości kątów, azymutów i długości, uzyskanych z dwukrotnego pomiaru, spełniają warunki:
+1) dla pomiarów kątowych — d ≤ 50 ;
+2) dla pomiarów azymutów — d ≤ 120 ;
+3) dla pomiarów długości — d ≤ 1,5 • √ l [mm], gdzie l oznacza długość boku, wyrażoną w metrach.
+3.14.10. Długość ciągu poligonowego poziomej podstawowej osnowy geodezyjnej nie może być większa niż:
+1) 8 000 m — dla ciągu wliczeniowego z giroazymutem pomierzonym w środku;
+2) 3 000 m — dla ciągu jednostronnie nawiązanego (wiszącego) z giroazymutem pomierzonym na ostatnim boku.
+3.14.11. Obliczenie współrzędnych punktów poziomej podstawowej osnowy geodezyjnej wykonuje się w formularzach obliczeniowych z wyrównaniem spostrzeżeń metodą ścisłą oraz z oceną dokładności położenia punktów i azymutów boków po wyrównaniu.
+3.14.12. Wyniki pomiarów poziomej podstawowej osnowy geodezyjnej zestawia mierniczy górniczy w operacie zawierającym:
+1) projekt osnowy geodezyjnej;
+2) sprawozdanie z pomiarów;
+3) szkic lokalizacji trwale zastabilizowanych punktów wraz z jej opisem;
+4) dokumenty pomiarowe;
+5) dokumenty obliczeniowe;
+6) wykaz współrzędnych punktów i azymutów boków osnowy geodezyjnej, wraz z błędami średnimi ich wyznaczenia;
+7) mapę poziomej podstawowej osnowy geodezyjnej.
+3.14.13. W przypadku powstania dodatkowych możliwości nawiązania poziomej podstawowej osnowy geodezyjnej wykonuje się pomiar uzupełniający oraz ponownie wyrównuje się tę osnowę.
+3.14.14. W przypadku ponownego wyrównania poziomej podstawowej osnowy geodezyjnej nawiązaną do niej poziomą szczegółową osnowę geodezyjną przelicza się, jeżeli różnice współrzędnych punktów i azymutów boków nawiązania przekraczają wartości podwójnego błędu średniego ich wyznaczenia.
+3.15. Pozioma szczegółowa osnowa geodezyjna.
+3.15.1. Poziomą szczegółową osnowę geodezyjną charakteryzują: błąd średni położenia punktów M ≤ 0,30 m oraz błąd średni azymutu boków M ≤ 100 .
+3.15.2. Za przydatne do nawiązania poziomej szczegółowej osnowy geodezyjnej uznaje się te punkty podstawowej lub szczegółowej osnowy geodezyjnej, dla których różnice wartości kątów oraz długości, uzyskanych z pomiaru pierwotnego i kontrolnego lub z danych obliczonych ze współrzędnych (metoda wliczeniowa), spełniają warunki:
+1) dla pomiarów kątowych — D ≤ 75 ;
+2) dla pomiarów długości — D ≤ 2,5 • √l [mm], gdzie l oznacza długość boku, wyrażoną w metrach.
+3.15.3. Pomiary elementów poziomej szczegółowej osnowy geodezyjnej wykonuje się dwukrotnie w sposób niezależny, stosując podczas pomiaru kątów podwójne centrowanie instrumentu.
+3.15.4. Poziomą szczegółową osnowę geodezyjną wykonuje się metodą poligonizacji. Założenie nowej szczegółowej osnowy geodezyjnej w celu realizacji zadań przebitkowych poprzedza się sporządzeniem projektu osnowy geodezyjnej oraz wstępną analizą dokładności.
+3.15.5. Lokalizację punktów poziomej szczegółowej osnowy geodezyjnej projektuje się tak, aby wzajemne odległości między nimi były w miarę możliwości większe niż 40 m.
+3.15.6. Różnice wartości kątów, azymutów i długości, uzyskanych z dwukrotnego pomiaru, spełniają warunki:
+1) dla pomiarów kątowych — d ≤ 75 ;
+2) dla pomiarów azymutów — d ≤ 120 ;
+3) dla pomiarów długości — d ≤ 2,0 • √ l [mm], gdzie l oznacza długość boku, wyrażoną w metrach.
+3.15.7. Długości ciągów jednostronnie nawiązanych (wiszących) nie mogą być większe niż 2 500 m.
+3.15.8. Obliczenie współrzędnych punktów poziomej szczegółowej osnowy geodezyjnej wykonuje się w formularzach obliczeniowych z wyrównaniem spostrzeżeń i oceną dokładności po wyrównaniu, uwzględniając błędność elementów nawiązania punktów podstawowej lub szczegółowej osnowy geodezyjnej.
+3.15.9. Jeżeli pozioma szczegółowa osnowa geodezyjna została rozbudowana o dodatkowe ciągi, wpływające w sposób istotny na jej dokładność, powtórnie wyrównuje się tę osnowę w całości w nawiązaniu do punktów podstawowej lub szczegółowej osnowy geodezyjnej.
+3.15.10. W przypadku ponownego wyrównania poziomej szczegółowej osnowy geodezyjnej o przeliczeniu nawiązanych do niej ciągów poziomej pomiarowej osnowy geodezyjnej decyduje mierniczy górniczy.
+3.16. Pozioma pomiarowa osnowa geodezyjna.
+3.16.1. Poziomą pomiarową osnowę geodezyjną charakteryzują: błąd średni położenia punktów M ≤ 0,50 m oraz błąd średni azymutu boków M ≤ 500 .
+3.16.2. Za przydatne do nawiązania poziomej pomiarowej osnowy geodezyjnej uznaje się te punkty, dla których różnice wartości kątów oraz długości, uzyskanych z pomiaru pierwotnego i kontrolnego lub z danych obliczonych ze współrzędnych, spełniają warunki:
+1) dla pomiarów kątowych — D ≤ 400 ;
+2) dla pomiarów długości — D ≤ 0,04 m.
+3.16.3. Pomiary kątów wierzchołkowych lub kątów kierunkowych w poziomej pomiarowej osnowie geodezyjnej mogą być wykonywane jeden raz. Kąt na stanowisku mierzy się instrumentem o dokładności odczytu nie mniejszej niż 100 .
+3.16.4. Pomiar odległości boków w poziomej pomiarowej osnowie geodezyjnej wykonuje się dwukrotnie. Różnica wartości, uzyskanych z dwukrotnego pomiaru długości boku, spełnia warunek: d ≤ 0,02 m.
+3.16.5. Długość ciągu poligonowego poziomej pomiarowej osnowy geodezyjnej nie może być większa niż:
+1) 500 m — dla ciągu jednostronnie nawiązanego (wiszącego) mierzonego jednokrotnie;
+2) 1 000 m — dla ciągu jednostronnie nawiązanego (wiszącego) mierzonego dwukrotnie;
+3) 1 500 m — dla ciągu dwustronnie nawiązanego.
+3.16.6. W przypadku zakładania ciągów poligonowych dłuższych niż określone w pkt 3.16.5 mierniczy górniczy opracowuje projekt pomiaru, zapewniający uzyskanie dokładności położenia punktów w ciągu określonej w pkt 3.16.1.
+3.16.7. Wyrównanie ciągów poziomej pomiarowej osnowy geodezyjnej wykonuje się metodą przybliżoną. Pomiar uznaje się za poprawny, jeżeli: odchyłka liniowa ciągu nie przekracza wartości 20 • √L [mm], gdzie L oznacza długość ciągu, wyrażoną w metrach, a odchyłka kątowa ciągu nie przekracza wartości 200 • √n, gdzie n oznacza liczbę kątów w ciągu.
+3.17. Podstawowa wysokościowa osnowa geodezyjna.
+3.17.1. Podstawową wysokościową osnowę geodezyjną stanowią punkty wysokościowe w podziemnych wyrobiskach górniczych, których rzędną wysokościową wyznaczono w geodezyjnym układzie odniesienia obowiązującym na powierzchni.
+3.17.2. Do nawiązania pomiarów orientacji wysokościowej wykorzystuje się znaki wysokościowe podstawowej lub szczegółowej osnowy geodezyjnej na powierzchni terenu lub znaki wysokościowe podstawowej podziemnej osnowy geodezyjnej, których rzędne wysokości zostały określone w wyniku wcześniej wykonanych pomiarów. Stałość tych znaków sprawdza się pomiarem kontrolnym.
+3.17.3. Orientację wysokościową wykonuje się dwukrotnie w sposób niezależny.
+3.17.4. Na każdym orientowanym poziomie zakłada się po dwa znaki wysokościowe, zastabilizowane w górotworze lub w obudowie wyrobisk górniczych w pobliżu szybu, oraz co najmniej jeden znak kontrolny w odległości około 50 m od tych znaków.
+3.17.5. Orientację wysokościową przez podziemne wyrobiska górnicze pochyłe wykonuje się metodą niwelacji geometrycznej albo niwelacji trygonometrycznej.
+3.17.6. Do pomierzonej różnicy wysokości wprowadza się niezbędne poprawki wynikające z zastosowanej metody, stałe instrumentalne oraz poprawki eliminujące wpływ czynników zewnętrznych.
+3.17.7. Wyniki orientacji wysokościowej zestawia mierniczy górniczy w operacie zawierającym:
+1) sprawozdanie techniczne;
+2) opis lokalizacji znaków wysokościowych;
+3) dokumenty pomiarowe;
+4) dokumenty obliczeniowe;
+5) wykaz wysokości znaków z oceną ich błędności;
+6) mapę usytuowania znaków wysokościowych.
+3.17.8. Orientację wysokościową wykonuje się z dokładnością zapewniającą wyznaczenie wysokości punktu na orientowanym poziomie względem punktu nawiązania z błędem średnim: M ≤ 5 + 0,02 • H [mm], gdzie H oznacza głębokość orientowanego poziomu, wyrażoną w metrach.
+3.17.9. Różnica wysokości, uzyskanych z dwóch niezależnych pomiarów przeniesienia wysokości, spełnia warunek: d ≤ 30 + 0,12 • H [mm], gdzie H oznacza głębokość orientowanego poziomu, wyrażoną w metrach.
+3.17.10. Podstawową wysokościową osnowę geodezyjną charakteryzuje błąd średni wyznaczenia wysokości punktów i reperów, wynoszący M ≤ 0,06 m.
+3.18. Szczegółowa wysokościowa osnowa geodezyjna oraz pomiarowa wysokościowa osnowa geodezyjna.
+3.18.1. Szczegółowa wysokościowa osnowa geodezyjna oraz pomiarowa wysokościowa osnowa geodezyjna stanowią podstawę dla określenia położenia podziemnych wyrobisk górniczych i elementów geologicznych w płaszczyźnie pionowej oraz do realizacji projektów prowadzenia robót górniczych.
+3.18.2. Szczegółową wysokościową osnowę geodezyjną zakłada się w podstawowych wyrobiskach chodnikowych.
+3.18.3. Pomiarową wysokościową osnowę geodezyjną zakłada się w drugorzędnych wyrobiskach chodnikowych oraz w wyrobiskach eksploatacyjnych.
+3.18.4. Wysokości punktów szczegółowej wysokościowej osnowy geodezyjnej oraz pomiarowej wysokościowej osnowy geodezyjnej wyznacza się metodą niwelacji geometrycznej albo niwelacji trygonometrycznej.
+3.18.5. Znaki szczegółowej wysokościowej osnowy geodezyjnej stabilizuje się w sposób trwały. Stanowią je repery oraz punkty poziomej podstawowej i szczegółowej osnowy geodezyjnej.
+3.18.6. Pomiarową wysokościową osnowę geodezyjną stanowią punkty poziomej pomiarowej osnowy geodezyjnej oraz inne znaki wysokościowe.
+3.18.7. Szczegółową wysokościową osnowę geodezyjną oraz pomiarową wysokościową osnowę geodezyjną charakteryzują błędy średnie wyznaczenia wysokości punktów i reperów, wynoszące:
+1) M ≤ 0,10 m — dla szczegółowej osnowy geodezyjnej;
+2) M ≤ 0,20 m — dla pomiarowej osnowy geodezyjnej.
+3.19. Niwelacja.
+3.19.1. Mierniczy górniczy sporządza i uzupełnia wykaz wysokości znaków niwelacyjnych podstawowej wysokościowej osnowy geodezyjnej oraz szczegółowej wysokościowej osnowy geodezyjnej na poszczególnych poziomach, zawierający:
+1) numer znaku;
+2) numer ewidencyjny dziennika pomiarowego;
+3) wysokość znaku;
+4) mapę poziomu z lokalizacją znaków.
+3.19.2. Pomiary wysokościowej osnowy geodezyjnej metodą niwelacji geometrycznej stosuje się w wyrobiskach górniczych poziomych i o małym nachyleniu.
+3.19.3. Ciągi niwelacyjne nawiązuje się do co najmniej dwóch znaków wysokościowych, po uprzednim sprawdzeniu ich stałości. Odchyłka różnic wysokości między tymi znakami, wynikających z pomiaru i obliczeń, spełnia warunek:
+1) D ≤ 15 • √ L [mm] — dla podstawowej wysokościowej osnowy geodezyjnej,
+2) D ≤ 30 • √ L [mm] — dla szczegółowej wysokościowej osnowy geodezyjnej — gdzie L oznacza odległość pomiędzy punktami nawiązania, wyrażoną w kilometrach.
+3.19.4. Niwelację geometryczną ciągu wykonuje się dwukrotnie. Odchyłka różnic wysokości z obydwu pomiarów pomiędzy znakami szczegółowej osnowy geodezyjnej spełnia warunek: d ≤ 30 • √ L [mm], gdzie L oznacza odległość między znakami, wyrażoną w kilometrach.
+3.19.5. Metodę niwelacji trygonometrycznej można stosować w szczegółowych osnowach geodezyjnych zakładanych w wyrobiskach górniczych pochyłych oraz w trakcie realizacji pomiarowej wysokościowej osnowy geodezyjnej.
+3.19.6. Niwelację trygonometryczną nawiązuje się do co najmniej dwóch znaków wysokościowych, po uprzednim sprawdzeniu ich stałości. Odchyłka różnic wysokości pomierzonych i obliczonych, spełnia warunki:
+1) D ≤ 100 • √ L [mm] — dla szczegółowej osnowy geodezyjnej,
+2) D ≤ 200 • √ L [mm] — dla pomiarowej osnowy geodezyjnej — gdzie L oznacza odległość punktów nawiązania, wyrażoną w kilometrach.
+3.19.7. Niwelację trygonometryczną szczegółowej osnowy geodezyjnej wykonuje się dwukrotnie w sposób niezależny. Odchyłka różnic wysokości z obydwu pomiarów spełnia warunek: d ≤ 100 • √ L [mm], gdzie L oznacza długość ciągu niwelacyjnego, wyrażoną w kilometrach.
+4.1. Geodezyjne pomiary realizacyjne wykonuje się w celu:
+1) prowadzenia wyrobisk górniczych;
+2) budowy obiektów i urządzeń w wyrobiskach górniczych;
+3) obsługi wierceń;
+4) obsługi drążenia szybów lub szybików;
+5) montażu i ustawiania wież szybowych;
+6) ustawiania maszyny wyciągowej;
+7) montażu prowadników naczyń wyciągowych.
+4.2. Geodezyjne pomiary realizacyjne wykonywane w celu prowadzenia wyrobisk górniczych.
+4.2.1. Geodezyjne pomiary realizacyjne w celu prowadzenia wyrobisk górniczych wykonuje się w sposób umożliwiający prowadzenie tych wyrobisk zgodnie z planem ruchu zakładu górniczego albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy.
+4.2.2. Podstawę dla geodezyjnych pomiarów realizacyjnych stanowi pozioma osnowa geodezyjna oraz wysokościowa osnowa geodezyjna.
+4.2.3. Czynności miernicze obejmują geodezyjne pomiary realizacyjne wykonywane dla realizacji robót przebitkowych oraz zadawanie i kontrolowanie kierunków prowadzenia wyrobisk górniczych.
+4.2.4. W przypadku geodezyjnych pomiarów realizacyjnych wykonywanych dla realizacji celów przebitkowych mierniczy górniczy:
+1) uzgadnia dokładność zbicia wyrobisk górniczych z kierownikiem ruchu zakładu górniczego albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy;
+2) przeprowadza, przed przystąpieniem do pomiarów, wstępną analizę dokładności w oparciu o projekt techniczny i warunki techniczne, w celu ustalenia metod pomiarowych zapewniających wymaganą dokładność zbicia wyrobisk górniczych;
+3) opracowuje mierniczy projekt zbicia wyrobisk górniczych.
+4.2.5. Po zakończeniu robót przebitkowych, łączy się pomiarami osnowę geodezyjną, ustala rzeczywistą dokładność zbicia oraz wyrównuje poziomą osnowę geodezyjną i wysokościową osnowę geodezyjną.
+4.2.6. Zadawanie kierunków prowadzenia wyrobisk górniczych wykonuje się w celu ich realizacji zgodnie z projektem technicznym, o którym mowa w pkt 4.2.4 ppkt 2.
+4.2.7. Utrwalenie znaków lub urządzeń wyznaczających kierunek wyrobiska górniczego wykonuje się w sposób zapewniający możliwość bieżącej kontroli stałości tego kierunku.
+4.3. W przypadku sporządzania dokumentacji mierniczo-geologicznej związanej z budową obiektów i urządzeń w wyrobiskach górniczych, mierniczy górniczy dostosowuje dokładność geodezyjnych pomiarów realizacyjnych indywidualnie do tolerancji określonych w projekcie technicznym obiektu oraz normie technicznej dotyczącej tego obiektu lub uzgadnia ją z wykonawcą obiektu.
+4.4. Geodezyjne pomiary realizacyjne wykonywane w celu obsługi wierceń mają na celu wyznaczenie w wyrobisku górniczym miejsca rozpoczęcia wiercenia otworu wiertniczego oraz nadanie kierunku pionowego i poziomego osi otworu, zgodnie z projektem technicznym wiercenia.
+4.4.1. Jeżeli projektowane wiercenie ma na celu połączenie istniejących wyrobisk górniczych, obsługa takiego wiercenia wymaga uprzedniego rozwiązania zadania przebitkowego.
+4.5. Geodezyjna obsługa drążenia szybów lub szybików ma na celu zapewnienie poprawnej realizacji projektu technicznego drążenia tych obiektów.
+4.5.1. Główne osie szybu stabilizuje się na powierzchni w sposób trwały, wieloznakowo.
+4.5.2. Główne osie szybu przenosi się w głąb szybu, wykonując trwałą stabilizację znaków osiowych na klamrach zamocowanych trwale w obudowie szybu.
+4.5.3. Wymagania dokładnościowe dla geodezyjnej obsługi drążenia szybu lub szybiku ustala się na podstawie wymagań określonych w projekcie technicznym drążenia tych obiektów.
+4.6. Geodezyjne pomiary realizacyjne wykonywane w celu montażu i ustawiania wież szybowych, ustawiania maszyny wyciągowej oraz montażu prowadników naczyń wyciągowych wykonuje się zgodnie z wymaganiami określonymi w projekcie technicznym wykonania tych czynności.
+5.1. Geodezyjne pomiary inwentaryzacyjne wykonuje się w celu:
+1) odwzorowania wyrobisk górniczych na mapach górniczych;
+2) kontroli geometrii obudowy szybu, elementów jego zbrojenia, prostolinijności torów prowadzenia naczyń wyciągowych, usytuowania maszyn wyciągowych, wież szybowych oraz kół linowych;
+3) obserwacji ruchów górotworu oraz ich skutków;
+4) kontroli postępu robót górniczych oraz ich zgodności z planem ruchu zakładu górniczego albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy;
+5) prowadzenia zadań przebitkowych.
+5.2. Geodezyjne pomiary inwentaryzacyjne wykonuje się w nawiązaniu do osnów geodezyjnych.
+5.3. Mierniczy górniczy ustala dokładność geodezyjnych pomiarów inwentaryzacyjnych w zależności od celu pomiaru, skali map górniczych i innych dokumentów kartograficznych tworzonych na podstawie pomiaru oraz do zmienności przestrzennej elementów będących przedmiotem pomiaru.
+5.4. Geodezyjne pomiary inwentaryzacyjne wykonuje się metodą zdjęcia szczegółów, w sposób zapewniający określenie położenia punktów sytuacyjnych względem punktów osnowy geodezyjnej z dokładnością nie mniejszą niż M • 10 [m], gdzie M oznacza mianownik skali mapy podstawowej.
+5.5. Geodezyjne pomiary inwentaryzacyjne środka szybików wykonuje się dwukrotnie w sposób niezależny. Położenie poziome środka wszystkich szybików wyznacza się z dokładnością nie mniejszą niż 0,30 m, a położenie wysokościowe — z dokładnością nie mniejszą niż 0,10 m.
+5.6. Geodezyjne pomiary inwentaryzacyjne wykonywane w celu obserwacji ruchów górotworu oraz ich skutków obejmują:
+1) pomiary konwergencji wyrobisk górniczych;
+2) pomiary przemieszczeń w wyrobiskach górniczych;
+3) pomiary kontrolne geometrii obudowy szybów, elementów ich zbrojenia, prostoliniowości torów prowadzenia naczyń wyciągowych oraz odstępów ruchowych;
+4) pomiary deformacji powierzchni ziemi w sieciach i liniach obserwacyjnych oraz w punktach rozproszonych;
+5) pomiary deformacji budynków i budowli;
+6) pomiary wychyleń obiektów budowlanych.
+5.7. Zakres, dokładność oraz częstotliwość pomiarów deformacji określa projekt techniczny sporządzony przez mierniczego górniczego i zatwierdzony przez kierownika ruchu zakładu górniczego albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy.
+6.1. Pomiary geodezyjne wykonuje się w celu:
+1) odwzorowania wyrobisk górniczych na mapach górniczych;
+2) kontroli postępu robot górniczych oraz ich zgodności z planem ruchu zakładu górniczego albo zakładu wykonującego roboty geologiczne;
+3) kontroli usytuowania obiektów oraz urządzeń zakładu górniczego albo zakładu wykonującego roboty geologiczne;
+4) wyznaczania granic filarów ochronnych i pasów ochronnych oraz kontrolowania prowadzenia eksploatacji stosownie do wyznaczonych w terenie granic obszaru górniczego;
+5) obserwacji ruchów górotworu oraz ich skutków;
+6) sporządzania dokumentacji dla prowadzenia rekultywacji gruntów.
+6.2. Do wykonywania pomiarów geodezyjnych w wyrobiskach podziemnych odkrywkowych zakładów górniczych stosuje się odpowiednio wymagania określone w częściach III—V.
+6.3. Podstawę dla wykonywania pomiarów geodezyjnych na terenie odkrywkowych zakładów górniczych, zakładów górniczych wydobywających kopaliny otworami wiertniczymi oraz zakładów wykonujących roboty geologiczne stanowi pomiarowa osnowa geodezyjna nawiązana do podstawowej lub szczegółowej osnowy geodezyjnej.
+6.4. W zależności od wymagań technologii pomiaru, w dostosowaniu do ukształtowania, wielkości oraz rozmieszczenia wyrobisk górniczych, zakłada się poziome, wysokościowe oraz przestrzenne osnowy geodezyjne.
+6.5. Założenie oraz pomiar podstawowej i szczegółowej osnowy geodezyjnej poprzedza się projektem, obejmującym wstępną analizę dokładności wraz z określeniem błędu średniego położenia punktów tej osnowy.
+6.6. Nawiązanie pomiarowej osnowy geodezyjnej poprzedza się kontrolą stałości punktów nawiązania, przez pomiar elementów kontrolnych, z uwzględnieniem ich dokładności.
+6.7. Za podstawowe kryterium wyboru technologii pomiaru osnowy geodezyjnej przyjmuje się:
+1) błąd średni położenia punktów dla poziomych i przestrzennych osnów geodezyjnych;
+2) błąd średni określenia wysokości punktów dla wysokościowych osnów geodezyjnych.
+6.8. W wyrobiskach eksploatacyjnych oraz na obszarze zwałowisk nadkładu dokładność pomiarowej osnowy geodezyjnej charakteryzuje się błędem średnim położenia punktów o wartości mniejszej niż 0,20 m.
+6.9. Zakres, dokładność oraz częstotliwość pomiarów deformacji określa projekt sporządzony przez osobę, o której mowa w art. 116 ust. 3 pkt 1 ustawy, zatwierdzony przez kierownika ruchu zakładu górniczego.
+6.10. Obliczanie objętości zwałowisk nadkładu oraz składowisk urobku przeprowadza się w sposób dostosowany do wymaganej dokładności, przyjętej metody pomiaru oraz kształtu i stopnia zróżnicowania mierzonej przestrzeni.
+6.10.1. Błąd względny pomiaru objętości zwałowisk nadkładu oraz składowisk urobku nie może przekraczać dla objętości:
+1) do 20 tys. m — 4% objętości;
+2) ponad 20 do 50 tys. m — 3% objętości;
+3) ponad 50 do 200 tys. m — 2% objętości;
+4) ponad 200 tys. m — 1% objętości.
+6.10.2. Przepisy pkt 6.10.1 stosuje się odpowiednio do oceny dokładności pomiarów zwałowisk nadkładu oraz składowisk urobku zlokalizowanych na powierzchni podziemnych zakładów górniczych.
+6.11. W zakładach górniczych wydobywających kopaliny otworami wiertniczymi wykonuje się pomiary położenia otworów oraz pomiary kształtu pustek lub komór powstających w złożu w wyniku eksploatacji.
+6.11.1. Współrzędne przestrzenne wlotów otworów wiertniczych wyznacza się z dokładnością 0,15 m.
+6.11.2. Położenie komór eksploatacyjnych złóż soli wydobywanej metodą otworów wiertniczych określa się z uwzględnieniem wyników pomiaru krzywizny głębokich otworów ługowniczych.
+6.11.3. Kształt oraz objętość komór w złożach kopalin stałych wydobywanych metodą otworów wiertniczych mierzy się sondą ultradźwiękową albo echosondą. Objętość komory obliczoną na podstawie pomiaru porównuje się z objętością wydobytej kopaliny lub z objętością użytego materiału podsadzkowego. Dopuszczalna różnica pomiaru objętości dwoma niezależnymi metodami nie może przekraczać 5% jej wartości.
+6.11.4. Pomiary kształtu komory wykonuje się od rozpoczęcia budowy komory, z częstotliwością uzgodnioną przez mierniczego górniczego z kierownikiem ruchu zakładu górniczego.
+7.1. Pomiary inwentaryzacyjne elementów i zjawisk geologicznych, hydrogeologicznych, hydrograficznych oraz geologiczno-inżynierskich wykonuje się w celu:
+1) rozpoznania geologicznego i dokumentowania złoża;
+2) rejestracji elementów i zjawisk geologicznych oraz hydrogeologicznych w złożu i górotworze;
+3) odwzorowania w dokumentacji mierniczo-geologicznej budowy, formy i sposobu zalegania złoża;
+4) charakterystyki cech ilościowych, jakościowych oraz zjawisk zachodzących w złożu i górotworze;
+5) geometryzacji tektoniki górotworu;
+6) rejestrowania oraz prognozowania zagrożeń ze strony górotworu;
+7) projektowania optymalnego sposobu zagospodarowania złoża;
+8) określania parametrów geomechanicznych złoża oraz skał otaczających;
+9) badania zmienności parametrów hydrograficznych i hydrogeologicznych na powierzchni objętej działalnością;
+10) rejestracji ilości i charakterystyki składowanych odpadów lub strumienia dwutlenku węgla (skład, ciśnienie, temperatura);
+11) odwzorowania zmian jakości wód podziemnych w poziomach wodonośnych położonych powyżej podziemnego składowiska odpadów lub podziemnego składowiska dwutlenku węgla;
+12) oceny migracji:
+a) substancji niebezpiecznych z podziemnego składowiska odpadów,
+b) dwutlenku węgla w obrębie i poza podziemnym składowiskiem dwutlenku węgla.
+7.2. Pomiary, o których mowa w pkt 7.1, wykonuje się w wyrobiskach górniczych, w nadkładzie i w złożu, w badawczych otworach wiertniczych oraz na powierzchni.
+7.3. Pomiary, o których mowa w pkt 7.1, wykonuje się w nawiązaniu do punktów osnowy geodezyjnej.
+7.4. Szczegółowy zakres, częstotliwość, sposób i dokładność pomiarów, o których mowa w pkt 7.1, ustala kierownik ruchu zakładu górniczego, zakładu wykonującego roboty geologiczne albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy w uzgodnieniu z osobą, o której mowa w art. 116 ust. 3 pkt 2 ustawy, w dostosowaniu do zmienności elementów i zjawisk geologicznych, hydrogeologicznych, hydrograficznych oraz geologiczno-inżynierskich, a także skali sporządzanych dokumentów kartograficznych.
+7.5. Wyniki pomiarów, o których mowa w pkt 7.1, zapisuje się w dokumentach pomiarowych w sposób trwały, zamieszczając:
+1) informacje określające:
+a) miejsce wykonania pomiaru,
+b) datę pomiaru,
+c) imiona i nazwiska osób wykonujących pomiar,
+d) zastosowaną metodę pomiaru;
+2) szkic.
+7.6. Zmiany treści zapisu w dokumentach pomiarowych oraz dokumentach obliczeniowych dokonuje się wyłącznie przez przekreślenie pierwotnej treści zapisu, w sposób umożliwiający jej odczytanie, i wpisanie nad przekreśloną treścią nowego zapisu. Zmianę treści potwierdza podpisem osoba dokonująca zmiany.
+7.7. Zgodność wykonania pomiarów, o których mowa w pkt 7.1, z wiedzą techniczną oraz wymaganiami określonymi w rozporządzeniu Ministra Środowiska z dnia 28 października 2015 r. w sprawie dokumentacji mierniczo-geologicznej potwierdza osoba, o której mowa w art. 116 ust. 3 pkt 2 ustawy.
+7.8. Zgodność wykonania obliczeń z wiedzą techniczną potwierdza osoba, o której mowa w art. 116 ust. 3 pkt 2 ustawy.
+WZÓR Realizując obowiązek określony w art. 131 ustawy z dnia 9 czerwca 2011 r. — Prawo geologiczne i górnicze (Dz. U. z 2015 r. poz. 196, z późn. zm.), przekazuje się dokumentację mierniczo-geologiczną zlikwidowanego zakładu górniczego.
+Do protokołu przekazania załączono:
+1) spisy zdawczo-odbiorcze dokumentów wchodzących w skład dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego (liczba spisów — ……..);
+2) formularz zawierający podstawowe informacje dotyczące zlikwidowanego zakładu górniczego, sporządzony w dniu ………………………….. .
+WZÓR WZÓR
 
-## Załącznik nr 1 — – Szczegółowe wymagania dotyczące wykonywania prac geodezyjnych i geologicznych w celu sporządzenia, aktualizacji i uzupełniania dokumentacji mierniczo-geologicznej (wzór)
+## Część II. Wykonywanie prac geodezyjnych na powierzchni zakładów górniczych, zakładów wykonujących roboty geologiczne, o których mowa w art. 86 ustawy, oraz zakładów prowadzących działalność określoną w art. 2 ust. 1 ustawy
 
-## Załącznik nr 2 — – Protokół przekazania Prezesowi Wyższego Urzędu Górniczego dokumentacji miemiczo-geologicznej zlikwidowanego zakładu górniczego (wzór)
+## Część III. Osnowy geodezyjne w podziemnej części zakładów górniczych oraz zakładów prowadzących działalność określoną w art. 2 ust. 1 ustawy
 
-## Załącznik nr 3 — – Spis zdawczo-odbiorczy dokumentów wchodzących w skład dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego przekazywanych Prezesowi Wyższego Urzędu Górniczego (wzór)
+## Część IV. Wykonywanie geodezyjnych pomiarów realizacyjnych w podziemnych zakładach górniczych
 
-## Załącznik nr 4 — – Fomularz zawierający podstawowe informacje dotyczące zlikwidowanego zakładu górniczego (wzór)
+## Część V. Wykonywanie geodezyjnych pomiarów inwentaryzacyjnych w podziemnych zakładach górniczych oraz zakładach prowadzących działalność określoną w art. 2 ust. 1 ustawy
 
-Treść rozporządzenia
-Na podstawie art. 116 ust. 7 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2015 r. poz. 196, 1272 i 1505) zarządza się, co następuje:
-§ 1.
-Rozporządzenie określa:
-1)
-rodzaje dokumentów wchodzących w skład dokumentacji mierniczo-geologicznej;
-2)
-szczegółowe wymagania dotyczące sporządzania, aktualizacji i uzupełniania dokumentacji mierniczo-geologicznej;
-3)
-szczegółowe wymagania dotyczące wykonywania prac geodezyjnych i geologicznych w celu sporządzenia, aktualizacji i uzupełniania dokumentacji mierniczo-geologicznej;
-4)
-sposób i tryb postępowania z dokumentacją mierniczo-geologiczną po likwidacji zakładu górniczego, w zakresie jej przekazywania i archiwizowania, w tym wzory dokumentów związanych z jej przekazywaniem.
-§ 2.
-1.
-W skład dokumentacji mierniczo-geologicznej wchodzą następujące dokumenty pomiarowe:
-1)
-dzienniki pomiarowe oraz formularze pomiarowe;
-2)
-szkice, w tym szkice sztygarskie;
-3)
-w przypadku stosowania technik informatycznych – zapisane na informatycznych nośnikach danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114), zwanych dalej „informatycznymi nośnikami danych”, dokumenty elektroniczne w rozumieniu art. 3 pkt 2 tej ustawy, zwane dalej „dokumentami elektronicznymi”, zawierające wyniki pomiarów.
-2.
-W skład dokumentacji mierniczo-geologicznej wchodzą następujące dokumenty obliczeniowe:
-1)
-formularze obliczeniowe;
-2)
-w przypadku stosowania technik informatycznych – zapisane na informatycznych nośnikach danych dokumenty elektroniczne zawierające wyniki obliczeń.
-3.
-W skład dokumentacji mierniczo-geologicznej wchodzą następujące dokumenty kartograficzne:
-1)
-w zakładach wykonujących roboty geologiczne, o których mowa w art. 86 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, zwanej dalej „ustawą”:
-a)
-w zakresie map podstawowych oraz map przeglądowych – mapy geologiczne:
-– przekroje geologiczne,
-– profile otworów wiertniczych,
-b)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności;
-2)
-w podziemnych zakładach górniczych:
-a)
-karta tytułowa map górniczych,
-b)
-w zakresie map podstawowych oraz map przeglądowych:
-– mapy wyrobisk górniczych,
-– mapy geologiczne: – – przekroje geologiczne, – – profile otworów wiertniczych,
-c)
-w zakresie map specjalnych:
-– mapy terenu przemysłowego zakładu górniczego,
-– mapy geologiczne: – – mapy zasobów złoża, – – mapy strat złoża,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego;
-3)
-w odkrywkowych zakładach górniczych:
-a)
-karta tytułowa map górniczych,
-b)
-w zakresie map podstawowych oraz map przeglądowych:
-– mapy wyrobisk górniczych,
-– przekroje zboczy kopalń odkrywkowych,
-– profile zwałowisk nadkładu,
-– profile składowisk urobku,
-– mapy geologiczne: – – przekroje geologiczne, – – profile otworów wiertniczych,
-c)
-w zakresie map specjalnych – mapy terenu przemysłowego zakładu górniczego,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego;
-4)
-w zakładach górniczych wydobywających kopaliny otworami wiertniczymi:
-a)
-karta tytułowa map górniczych,
-b)
-w zakresie map podstawowych oraz map przeglądowych:
-– mapy otworów wiertniczych – w przypadku zakładów górniczych wydobywających kopaliny inne niż wody lecznicze,
-– mapy ujęć eksploatacyjnych – w przypadku zakładów górniczych wydobywających wody lecznicze,
-– profile ujęć eksploatacyjnych – w przypadku zakładów górniczych wydobywających wody lecznicze,
-– mapy geologiczne: – – przekroje geologiczne, – – profile otworów wiertniczych,
-c)
-w zakresie map specjalnych:
-– mapy terenu przemysłowego zakładu górniczego,
-– mapy ewidencji gruntów w granicach zakładu górniczego,
-– mapy zasobów złoża – w przypadku zakładów górniczych wydobywających kopaliny stałe, z wyjątkiem siarki,
-– mapy wydobycia kopaliny – w przypadku zakładów górniczych wydobywających siarkę,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego;
-5)
-w zakładach górniczych prowadzących działalność w zakresie podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów:
-a)
-karta tytułowa map górniczych,
-b)
-w zakresie map podstawowych oraz map przeglądowych:
-– mapy wyrobisk górniczych – w przypadku zakładów górniczych prowadzących metodą podziemną działalność w zakresie podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów,
-– mapy otworów wiertniczych – w przypadku zakładów górniczych prowadzących metodą otworową działalność w zakresie podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów,
-– mapy geologiczne: – – przekroje geologiczne, – – profile otworów wiertniczych,
-c)
-w zakresie map specjalnych – mapy geologiczne:
-– mapy strukturalno-tektoniczne,
-– mapy hydrogeologiczne,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego;
-6)
-w zakładach górniczych prowadzących działalność w zakresie podziemnego składowania dwutlenku węgla:
-a)
-karta tytułowa map górniczych,
-b)
-w zakresie map podstawowych oraz map przeglądowych:
-– mapy otworów wiertniczych,
-– mapy geologiczne: – – przekroje geologiczne, – – profile otworów wiertniczych, – – mapy geologiczne odkryte podziemnego składowiska dwutlenku węgla,
-c)
-w zakresie map specjalnych:
-– mapy terenu przemysłowego zakładu górniczego,
-– mapy ewidencji gruntów w granicach zakładu górniczego,
-– mapy geologiczne kompleksu podziemnego składowania dwutlenku węgla: – – mapy strukturalno-tektoniczne, – – mapy zasięgu chmury zatłaczanego dwutlenku węgla, – – mapy hydrogeologiczne,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego;
-7)
-w zakładach prowadzących działalność określoną w art. 2 ust. 1 ustawy, z wyjątkiem działalności określonej w art. 2 ust. 1 pkt 2 ustawy, prowadzonej wyłącznie w wyrobiskach poziomych lub o nachyleniu do 45°, oraz działalności określonej w art. 2 ust. 1 pkt 4 ustawy, prowadzonej metodą tarczową zamkniętą:
-a)
-karta tytułowa map górniczych,
-b)
-w zakresie map podstawowych lub map przeglądowych:
-– mapy wyrobisk górniczych,
-– mapy geologiczne: – – przekroje geologiczne, – – profile otworów wiertniczych,
-c)
-w zakresie map specjalnych – mapy geologiczne:
-– mapy strukturalno-tektoniczne,
-– mapy hydrogeologiczne,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności;
-8)
-w zakładach prowadzących działalność określoną w art. 2 ust. 1 pkt 2 ustawy wyłącznie w wyrobiskach poziomych lub o nachyleniu do 45°:
-a)
-w zakresie map podstawowych lub map przeglądowych – mapy wyrobisk górniczych,
-b)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności;
-9)
-w zakładach prowadzących działalność określoną w art. 2 ust. 1 pkt 4 ustawy metodą tarczową zamkniętą:
-a)
-karta tytułowa map górniczych,
-b)
-w zakresie map podstawowych lub map przeglądowych – mapy geologiczne:
-– przekroje geologiczne,
-– profile otworów wiertniczych,
-c)
-w zakresie map specjalnych – mapy geologiczne:
-– mapy strukturalno-tektoniczne,
-– mapy hydrogeologiczne,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności.
-§ 3.
-Na karcie tytułowej map górniczych przedstawia się:
-1)
-granice obszaru górniczego i terenu górniczego, a w przypadku zakładów prowadzących działalność określoną w art. 2 ust. 1 ustawy – granice terenu prowadzonej działalności, na tle mapy sytuacyjno-wysokościowej powierzchni;
-2)
-wykaz i pokrycie terenu górniczego, a w przypadku zakładów prowadzących działalność określoną w art. 2 ust. 1 ustawy – wykaz i pokrycie terenu prowadzonej działalności, sekcjami:
-a)
-map podstawowych oraz map przeglądowych,
-b)
-map sytuacyjno-wysokościowych powierzchni;
-3)
-daty aktualizacji poszczególnych dokumentów kartograficznych;
-4)
-linie podstawowych przekrojów geologicznych;
-5)
-informacje o ważniejszych wydarzeniach w historii zakładu górniczego albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy, w szczególności zmianach firmy przedsiębiorcy albo podmiotu prowadzącego zakład, nazwy zakładu górniczego albo zakładu oraz łączeniu zakładów górniczych albo zakładów;
-6)
-wykaz stosowanych na dokumentach kartograficznych nienormowanych znaków umownych.
-§ 4.
-1.
-Dokumentację mierniczo-geologiczną sporządza się od dnia rozpoczęcia działalności określonej w:
-1)
-koncesji, o której mowa w art. 21 ust. 1 ustawy, udzielonej przez ministra właściwego do spraw środowiska albo marszałka województwa;
-2)
-projekcie robót geologicznych – w przypadku robót geologicznych, o których mowa w art. 86 ustawy, zwanych dalej „robotami geologicznymi”;
-3)
-planie ruchu zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy.
-2.
-W przypadku kontynuacji działalności określonej w:
-1)
-kolejnej koncesji, o której mowa w art. 21 ust. 1 ustawy, udzielonej przez ministra właściwego do spraw środowiska albo marszałka województwa,
-2)
-kolejnym projekcie robót geologicznych – w przypadku robót geologicznych,
-3)
-kolejnym planie ruchu zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy
-nie sporządza się nowej dokumentacji mierniczo-geologicznej, a dotychczas sporządzona dokumentacja mierniczo-geologiczna podlega aktualizacji i uzupełnianiu.
-3.
-Dokumenty wchodzące w skład dokumentacji mierniczo-geologicznej sporządza się z zachowaniem:
-1)
-przepisów prawa geodezyjnego i kartograficznego;
-2)
-wymagań określonych w Polskich Normach – Mapy górnicze.
-4.
-Dokumenty wchodzące w skład dokumentacji mierniczo-geologicznej mogą być sporządzane w lokalnych układach geodezyjnych, jeżeli przedsiębiorca albo podmiot prowadzący działalność niewymagającą koncesji dysponuje możliwością transformacji geodezyjnej tego układu do geodezyjnego układu odniesienia, będącego elementem państwowego systemu odniesień przestrzennych, o którym mowa w przepisach prawa geodezyjnego i kartograficznego.
-5.
-Dokumenty kartograficzne mogą być, za zgodą kierownika ruchu zakładu górniczego, zakładu wykonującego roboty geologiczne albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy, sporządzane przez przedstawienie ich treści na wspólnych podkładach mapowych, z zachowaniem dokładności i czytelności tych dokumentów, jeżeli nie wpłynie to na pogorszenie stanu bezpieczeństwa ruchu zakładu górniczego albo zakładu.
-§ 5.
-1.
-Dokumenty pomiarowe oraz dokumenty obliczeniowe mogą być sporządzane w postaci dokumentu elektronicznego, jeżeli:
-1)
-zostaną zabezpieczone przed zniszczeniem;
-2)
-istnieje możliwość weryfikacji zakresu zmian danych w treści plików archiwalnych i roboczych.
-2.
-Dokumenty kartograficzne mogą być sporządzane w postaci dokumentu elektronicznego, jeżeli:
-1)
-zostaną zabezpieczone przed zniszczeniem;
-2)
-istnieje możliwość weryfikacji zakresu zmian danych w treści plików archiwalnych i roboczych;
-3)
-istnieje możliwość wydrukowania dokumentów elektronicznych w zakładzie górniczym, zakładzie wykonującym roboty geologiczne albo zakładzie prowadzącym działalność określoną w art. 2 ust. 1 ustawy, a w przypadku braku takiej możliwości – w zakładzie górniczym albo zakładzie jest przechowywany wydrukowany komplet dokumentów kartograficznych obejmujący ostatnią aktualizację.
-§ 6.
-1.
-Dokumenty kartograficzne sporządza się w następujących skalach:
-1)
-mapy podstawowe – od 1:500 do 1:2000;
-2)
-mapy przeglądowe – od 1:500 do 1:50 000;
-3)
-mapy specjalne – od 1:50 do 1:25 000;
-4)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego oraz mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności – od 1:500 do 1:25 000;
-5)
-profile otworów wiertniczych oraz przekroje zboczy kopalń odkrywkowych – od 1:50 do 1:2000;
-6)
-przekroje geologiczne – od 1:100 do 1:50 000.
-2.
-Skale poszczególnych dokumentów kartograficznych, o których mowa w ust. 1, ustala pisemnie, w uzgodnieniu z osobą, o której mowa w art. 116 ust. 3 ustawy, kierownik ruchu zakładu górniczego, zakładu wykonującego roboty geologiczne albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy, kierując się potrzebą zapewnienia dokładności i czytelności tych dokumentów, wymaganych dla realizacji zadań lub obowiązków przedsiębiorcy albo podmiotu prowadzącego działalność niewymagającą koncesji.
-§ 7.
-1.
-Przedsiębiorca albo podmiot prowadzący działalność niewymagającą koncesji umieszcza informację o sporządzeniu dokumentu, w tym w postaci dokumentu elektronicznego, wchodzącego w skład dokumentacji mierniczo-geologicznej w ewidencji dokumentacji mierniczo-geologicznej.
-2.
-W ewidencji, o której mowa w ust. 1, określa się sygnaturę dokumentu, datę jego sporządzenia oraz miejsce jego przechowywania.
-3.
-Wydruk dokumentu elektronicznego zawiera informacje zgodne z oznaczeniem w ewidencji, o której mowa w ust. 1.
-§ 8.
-1.
-Dokumenty kartograficzne aktualizuje się:
-1)
-w zakładach górniczych oraz zakładach prowadzących działalność określoną w art. 2 ust. 1 ustawy, z wyjątkiem działalności określonej w art. 2 ust. 1 pkt 2 ustawy, prowadzonej wyłącznie w wyrobiskach poziomych lub o nachyleniu do 45°:
-a)
-przekroje geologiczne – co najmniej raz na rok,
-b)
-profile otworów wiertniczych – w terminie do 6 miesięcy od dnia zakończenia wiercenia;
-2)
-w podziemnych zakładach górniczych:
-a)
-mapy wyrobisk górniczych:
-– w zakładach górniczych wydobywających węgiel kamienny albo rudy metali – co najmniej raz na 3 miesiące,
-– w zakładach górniczych wydobywających kopaliny inne niż węgiel kamienny albo rudy metali – co najmniej raz na 6 miesięcy,
-b)
-mapy specjalne – co najmniej raz na 3 lata,
-c)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego – co najmniej raz na 3 lata;
-3)
-w odkrywkowych zakładach górniczych:
-a)
-mapy wyrobisk górniczych:
-– w zakładach górniczych wydobywających węgiel brunatny albo rudy siarki – co najmniej raz na 6 miesięcy,
-– w zakładach górniczych wydobywających kopaliny inne niż węgiel brunatny albo rudy siarki – co najmniej raz na rok, według stanu wyrobisk górniczych na dzień 31 grudnia poprzedniego roku,
-b)
-przekroje zboczy kopalń odkrywkowych, profile zwałowisk nadkładu oraz profile składowisk urobku – co najmniej raz na rok,
-c)
-mapy specjalne – co najmniej raz na 3 lata,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego – co najmniej raz na 3 lata;
-4)
-w zakładach górniczych wydobywających kopaliny otworami wiertniczymi:
-a)
-mapy otworów wiertniczych – w przypadku zakładów górniczych wydobywających kopaliny inne niż wody lecznicze – co najmniej raz na rok,
-b)
-mapy ujęć eksploatacyjnych – w przypadku zakładów górniczych wydobywających wody lecznicze – co najmniej raz na rok,
-c)
-profile ujęć eksploatacyjnych – w przypadku zakładów górniczych wydobywających wody lecznicze – co najmniej raz na rok,
-d)
-mapy specjalne:
-– mapy terenu przemysłowego zakładu górniczego oraz mapy ewidencji gruntów w granicach zakładu górniczego – co najmniej raz na 3 lata,
-– mapy zasobów złoża – w przypadku zakładów górniczych wydobywających kopaliny stałe, z wyjątkiem siarki – co najmniej raz na 6 miesięcy,
-– mapy wydobycia kopaliny – w przypadku zakładów górniczych wydobywających siarkę – co najmniej raz na 6 miesięcy,
-e)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego:
-– w przypadku zakładów górniczych wydobywających siarkę – co najmniej raz na 3 lata,
-– w przypadku zakładów górniczych niewymienionych w tiret pierwsze – co najmniej raz na 12 lat;
-5)
-w zakładach górniczych prowadzących działalność w zakresie podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów:
-a)
-mapy wyrobisk górniczych – w przypadku zakładów górniczych prowadzących metodą podziemną działalność w zakresie podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów – co najmniej raz na 3 miesiące, w przypadku wykonywania wyrobisk górniczych,
-b)
-mapy otworów wiertniczych – w przypadku zakładów górniczych prowadzących metodą otworową działalność w zakresie podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów – co najmniej raz na rok,
-c)
-mapy specjalne – co najmniej raz na rok,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego – co najmniej raz na 12 lat;
-6)
-w zakładach górniczych prowadzących działalność w zakresie podziemnego składowania dwutlenku węgla:
-a)
-mapy otworów wiertniczych – co najmniej raz na rok,
-b)
-mapy geologiczne odkryte podziemnego składowiska dwutlenku węgla – w terminie do 6 miesięcy od dnia zakończenia wiercenia,
-c)
-mapy specjalne:
-– mapy terenu przemysłowego zakładu górniczego oraz mapy ewidencji gruntów w granicach zakładu górniczego – co najmniej raz na 3 lata,
-– mapy geologiczne kompleksu podziemnego składowania dwutlenku węgla – co najmniej raz na rok,
-d)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego – co najmniej raz na 12 lat;
-7)
-w zakładach prowadzących działalność określoną w art. 2 ust. 1 ustawy, z wyjątkiem działalności określonej w art. 2 ust. 1 pkt 2 ustawy, prowadzonej wyłącznie w wyrobiskach poziomych lub o nachyleniu do 45°, oraz działalności określonej w art. 2 ust. 1 pkt 4 ustawy, prowadzonej metodą tarczową zamkniętą:
-a)
-mapy wyrobisk górniczych – co najmniej raz na 3 miesiące, w przypadku wykonywania wyrobisk górniczych,
-b)
-mapy specjalne – co najmniej raz na rok,
-c)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności – co najmniej raz na 12 lat;
-8)
-w zakładach prowadzących działalność określoną w art. 2 ust. 1 pkt 2 ustawy wyłącznie w wyrobiskach poziomych lub o nachyleniu do 45°:
-a)
-mapy wyrobisk górniczych – co najmniej raz na 3 miesiące, w przypadku wykonywania wyrobisk górniczych,
-b)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności – co najmniej raz na 12 lat;
-9)
-w zakładach prowadzących działalność określoną w art. 2 ust. 1 pkt 4 ustawy metodą tarczową zamkniętą:
-a)
-mapy specjalne – co najmniej raz na rok,
-b)
-mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności – co najmniej raz na miesiąc, obejmując aktualizacją postęp drążenia tuneli tą metodą.
-2.
-Dokumenty kartograficzne uzupełnia się w okresie miesiąca po upływie terminów aktualizacji określonych w ust. 1.
-3.
-Bieżącej aktualizacji i uzupełnianiu podlegają:
-1)
-dokumenty kartograficzne w zakładach wykonujących roboty geologiczne;
-2)
-karta tytułowa map górniczych;
-3)
-dokumentacja mierniczo-geologiczna niewymieniona w pkt 1 i 2 oraz ust. 1.
-§ 9.
-Mapy sytuacyjno-wysokościowe powierzchni w granicach terenu górniczego oraz mapy sytuacyjno-wysokościowe powierzchni w granicach terenu prowadzonej działalności są:
-1)
-sporządzane przez osoby, o których mowa w art. 116 ust. 3 pkt 1 ustawy, przy użyciu danych, informacji lub materiałów uzyskanych z państwowego zasobu geodezyjnego i kartograficznego;
-2)
-aktualizowane i uzupełniane przez osoby, o których mowa w art. 116 ust. 3 pkt 1 ustawy, o treści niezbędne do bezpiecznego prowadzenia ruchu zakładu górniczego, zakładu wykonującego roboty geologiczne albo zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy, zapewnienia bezpieczeństwa powszechnego oraz ochrony środowiska.
-§ 10.
-Szczegółowe wymagania dotyczące wykonywania prac geodezyjnych i geologicznych w celu sporządzenia, aktualizacji i uzupełniania dokumentacji mierniczo-geologicznej określa załącznik nr 1 do rozporządzenia.
-§ 11.
-Niezwłocznie po zakończeniu likwidacji zakładu górniczego przedsiębiorca:
-1)
-dokonuje uporządkowania dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego;
-2)
-powiadamia Prezesa Wyższego Urzędu Górniczego oraz właściwy miejscowo organ nadzoru górniczego o zamiarze przekazania dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego;
-3)
-ustala z Prezesem Wyższego Urzędu Górniczego termin przejęcia dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego.
-§ 12.
-1.
-Czynności związane z badaniem prawidłowości uporządkowania oraz kompletności dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego są wykonywane przez mierniczego górniczego lub geologa górniczego, pod nadzorem właściwego miejscowo organu nadzoru górniczego.
-2.
-Uporządkowanie dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego polega na:
-1)
-pogrupowaniu dokumentów według rodzaju;
-2)
-ułożeniu dokumentów w pudłach umożliwiających ich bezpieczny transport;
-3)
-sporządzeniu spisów zdawczo-odbiorczych dokumentów wchodzących w skład dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego, zwanych dalej „spisami zdawczo-odbiorczymi”.
-3.
-Pudła, o których mowa w ust. 2 pkt 2, opisuje się przez umieszczenie na nich:
-1)
-nazwy zakładu górniczego;
-2)
-sygnatury według numeru spisu zdawczo-odbiorczego i numerów pozycji dokumentów w tym spisie;
-3)
-liczby przekazywanych dokumentów.
-§ 13.
-1.
-Prezes Wyższego Urzędu Górniczego przejmuje dokumentację mierniczo-geologiczną zlikwidowanego zakładu górniczego na podstawie protokołu przekazania dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego, zwanego dalej „protokołem przekazania”.
-2.
-Wzór protokołu przekazania określa załącznik nr 2 do rozporządzenia i jest on udostępniany na stronie internetowej Wyższego Urzędu Górniczego.
-3.
-Protokół przekazania, w trzech egzemplarzach, jest podpisywany przez:
-1)
-przedsiębiorcę;
-2)
-właściwy miejscowo organ nadzoru górniczego;
-3)
-Prezesa Wyższego Urzędu Górniczego.
-4.
-Jeden egzemplarz protokołu przekazania otrzymuje Prezes Wyższego Urzędu Górniczego, drugi – przedsiębiorca, a trzeci – właściwy miejscowo organ nadzoru górniczego.
-§ 14.
-1.
-Do protokołu przekazania załącza się spisy zdawczo-odbiorcze oraz formularz zawierający podstawowe informacje dotyczące zlikwidowanego zakładu górniczego.
-2.
-Wzór spisu zdawczo-odbiorczego określa załącznik nr 3 do rozporządzenia i jest on udostępniany na stronie internetowej Wyższego Urzędu Górniczego.
-3.
-Wzór formularza zawierającego podstawowe informacje dotyczące zlikwidowanego zakładu górniczego określa załącznik nr 4 do rozporządzenia i jest on udostępniany na stronie internetowej Wyższego Urzędu Górniczego.
-4.
-Spisy zdawczo-odbiorcze sporządza się w dwóch egzemplarzach, z których jeden otrzymuje Prezes Wyższego Urzędu Górniczego, a drugi – przedsiębiorca. W przypadku sporządzenia spisu zdawczo-odbiorczego na informatycznym nośniku danych, jego zapis przekazuje się Prezesowi Wyższego Urzędu Górniczego w formie wydruku oraz pliku danych w formacie wskazanym przez Prezesa Wyższego Urzędu Górniczego.
-§ 15.
-Prezes Wyższego Urzędu Górniczego przechowuje dokumenty wchodzące w skład dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego:
-1)
-w sposób zabezpieczający je przed uszkodzeniem mechanicznym w następujących warunkach klimatycznych:
-a)
-temperatura:
-– poziom: 14–20°C,
-– wahania w ciągu 24 godzin: ± 2°C,
-b)
-wilgotność względna:
-– poziom: 45–60%,
-– wahania w ciągu 24 godzin: ± 5%;
-2)
-w sposób chroniący je przed szkodliwym oddziaływaniem światła;
-3)
-w sposób zapewniający możliwość ich wieczystego przechowywania;
-4)
-prowadząc ich ewidencję;
-5)
-w sposób umożliwiający wyszukanie i udostępnienie każdego dokumentu oraz każdej informacji zamieszczonej w dokumencie na zasadach określonych w przepisach o udostępnianiu informacji o środowisku i jego ochronie;
-6)
-zabezpieczając pomieszczenia, w których są one przechowywane, przed dostępem osób nieuprawnionych.
-§ 16.
-Ewidencję, o której mowa w § 15 pkt 4, stanowią:
-1)
-spisy zdawczo-odbiorcze;
-2)
-baza danych zawierająca spis przechowywanych dokumentów.
-§ 17.
-Do robót geologicznych, o których mowa w art. 86 ustawy, przepisy rozporządzenia stosuje się od dnia 1 lipca 2016 r.
-§ 18.
-Rozporządzenie wchodzi w życie z dniem 24 listopada 2015 r.
+## Część VI. Wykonywanie prac geodezyjnych w odkrywkowych zakładach górniczych, zakładach górniczych wydobywających kopaliny otworami wiertniczymi oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86 ustawy
 
-## Załącznik nr 1 — – Szczegółowe wymagania dotyczące wykonywania prac geodezyjnych i geologicznych w celu sporządzenia, aktualizacji i uzupełniania dokumentacji mierniczo-geologicznej (wzór)
-
-patrz oryginał
-
-## Załącznik nr 2 — – Protokół przekazania Prezesowi Wyższego Urzędu Górniczego dokumentacji miemiczo-geologicznej zlikwidowanego zakładu górniczego (wzór)
-
-patrz oryginał
-
-## Załącznik nr 3 — – Spis zdawczo-odbiorczy dokumentów wchodzących w skład dokumentacji mierniczo-geologicznej zlikwidowanego zakładu górniczego przekazywanych Prezesowi Wyższego Urzędu Górniczego (wzór)
-
-patrz oryginał
-
-## Załącznik nr 4 — – Fomularz zawierający podstawowe informacje dotyczące zlikwidowanego zakładu górniczego (wzór)
-
-patrz oryginał
+## Część VII. Wykonywanie prac geologicznych na potrzeby zakładów górniczych, zakładów wykonujących roboty geologiczne, o których mowa w art. 86 ustawy, oraz zakładów prowadzących działalność określoną w art. 2 ust. 1 ustawy
 

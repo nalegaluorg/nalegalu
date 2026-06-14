@@ -8,10 +8,10 @@ pos: 1466
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1466 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 4 sierpnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1466/text.pdf) |
 
-Poz. 1466 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 4 sierpnia 2021 r.
-w sprawie form współpracy straży gminnej z Policją oraz sposobu informowania wojewody o tej współpracy Na podstawie art. 9 ust. 7 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2019 r. poz. 1795 oraz z 2020 r. poz. 2112) zarządza się, co następuje: § 1. 1. Komendanci straży gminnej i komendanci jednostek organizacyjnych Policji realizują współpracę, o której mowa w art. 9 ust. 5 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych, w szczególności przez:
+w sprawie form współpracy straży gminnej z Policją oraz sposobu informowania wojewody o tej współpracy Na podstawie art. 9 ust. 7 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2019 r. poz. 1795 oraz z 2020 r. poz. 2112) zarządza się, co następuje:
+§ 1. 1. Komendanci straży gminnej i komendanci jednostek organizacyjnych Policji realizują współpracę, o której mowa w art. 9 ust. 5 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych, w szczególności przez:
 1) organizowanie okresowych spotkań w celu dokonania ocen zagrożenia bezpieczeństwa ludzi i mienia, spokoju i porządku publicznego, a także wytyczania wspólnych zadań;
 2) wzajemne, bieżące konsultacje w zakresie wykonywanych zadań;
 3) organizowanie odpraw w razie konieczności podjęcia wspólnych zadań;

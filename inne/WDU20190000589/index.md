@@ -8,10 +8,10 @@ pos: 589
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 marca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 589 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 marca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/589/text.pdf) |
 
-Poz. 589 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 marca 2019 r.
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie rachunkowości oraz planów kont dla budżetu państwa, budżetów jednostek samorządu terytorialnego, jednostek budżetowych, samorządowych zakładów budżetowych, państwowych funduszy celowych oraz państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej Na podstawie art. 40 ust. 4 pkt 1 lit. a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r.
-poz. 2077, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów z dnia 27 grudnia 2018 r. zmieniającym rozporządzenie w sprawie rachunkowości oraz planów kont dla budżetu państwa, budżetów jednostek samorządu terytorialnego, jednostek budżetowych, samorządowych zakładów budżetowych, państwowych funduszy celowych oraz państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej (Dz. U. poz. 2471) § 2 otrzymuje brzmienie: „§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do sprawozdań finansowych sporządzonych za rok 2018, z wyjątkiem bilansu budżetu państwa, który sporządzony będzie po raz pierwszy za rok 2021.”.
+poz. 2077, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Finansów z dnia 27 grudnia 2018 r. zmieniającym rozporządzenie w sprawie rachunkowości oraz planów kont dla budżetu państwa, budżetów jednostek samorządu terytorialnego, jednostek budżetowych, samorządowych zakładów budżetowych, państwowych funduszy celowych oraz państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej (Dz. U. poz. 2471) § 2 otrzymuje brzmienie: „§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do sprawozdań finansowych sporządzonych za rok 2018, z wyjątkiem bilansu budżetu państwa, który sporządzony będzie po raz pierwszy za rok 2021.”.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Finansów: wz. T. Robaczyński
 

@@ -8,10 +8,10 @@ pos: 1304
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 lipca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1304 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 2 lipca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1304/text.pdf) |
 
-Poz. 1304 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 2 lipca 2019 r.
-w sprawie wyznaczenia koordynatora delegowanego w dziale sprawy wewnętrzne oraz zakresu zadań przekazanych koordynatorowi delegowanemu do realizacji Na podstawie art. 12 ust. 3 ustawy z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej (Dz. U. poz. 860) zarządza się, co następuje: § 1. 1. Wyznacza się właściwego miejscowo wojewodę jako koordynatora delegowanego w dziale sprawy wewnętrzne do realizacji niektórych zadań organu centralnego w zakresie obejmującym wydawane dokumenty urzędowe, o których mowa w art. 2 pkt 1, 2, 4–6, 11–15, 32–34 i 40 ustawy z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej, oraz przyjmowane dokumenty urzędowe, o których mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1191 z dnia 6 lipca 2016 r. w sprawie promowania swobodnego przepływu obywateli poprzez uproszczenie wymogów dotyczących przedkładania określonych dokumentów urzędowych w Unii Europejskiej i zmieniającego rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 200 z 26.07.2016, str. 1), zwanego dalej „rozporządzeniem 2016/1191”.
+w sprawie wyznaczenia koordynatora delegowanego w dziale sprawy wewnętrzne oraz zakresu zadań przekazanych koordynatorowi delegowanemu do realizacji Na podstawie art. 12 ust. 3 ustawy z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej (Dz. U. poz. 860) zarządza się, co następuje:
+§ 1. 1. Wyznacza się właściwego miejscowo wojewodę jako koordynatora delegowanego w dziale sprawy wewnętrzne do realizacji niektórych zadań organu centralnego w zakresie obejmującym wydawane dokumenty urzędowe, o których mowa w art. 2 pkt 1, 2, 4–6, 11–15, 32–34 i 40 ustawy z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej, oraz przyjmowane dokumenty urzędowe, o których mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1191 z dnia 6 lipca 2016 r. w sprawie promowania swobodnego przepływu obywateli poprzez uproszczenie wymogów dotyczących przedkładania określonych dokumentów urzędowych w Unii Europejskiej i zmieniającego rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 200 z 26.07.2016, str. 1), zwanego dalej „rozporządzeniem 2016/1191”.
 2. Wojewoda pełni funkcję koordynatora delegowanego wobec nadzorowanych organów gmin oraz kierowników urzędów stanu cywilnego.
 § 2. Pełniąc funkcję koordynatora delegowanego, wojewoda wykonuje następujące zadania:
 1) zapewnia przyjmowanie i przekazywanie właściwym organom gmin i kierownikom urzędów stanu cywilnego wniosków o udzielenie informacji, o których mowa w art. 14 ust. 1 lit. b rozporządzenia 2016/1191;

@@ -8,7 +8,7 @@ pos: 1
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o narodowym spisie powszechnym ludności i mieszkań w 2002 r.
@@ -47,10 +47,26 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** mieszkaniu - oznacza to wydzielony trwałymi ścianami, w obrębie budynku, zespół izb lub jedną izbę, łącznie z pomieszczeniami pomocniczymi, niezależnie od tego, czy są zamieszkane na podstawie jednego lub więcej niż jednego tytułu prawnego,
+- **2)** budynku - oznacza to budynek, w którym znajduje się chociażby jedno mieszkanie,
+- **3)** obiekcie zbiorowego zakwaterowania - oznacza to obiekt, gdzie przebywa większa liczba osób, np. internat, dom akademicki lub studencki, hotel pracowniczy, dom dziecka, zakład wychowawczy, dom rencisty, dom pomocy społecznej, dom zakonny, klasztor, szpital, sanatorium, schronisko turystyczne, hotel, motel, pensjonat, noclegownia,
+- **4)** zamieszkanym pomieszczeniu nie będącym mieszkaniem - oznacza to pomieszczenie nie przystosowane do celów mieszkalnych i zamieszkane tymczasowo (np. strych, pralnia, suszarnia), obiekt ruchomy (np. barakowóz, przyczepa kempingowa, barka) lub inne pomieszczenie, które w czasie spisu jest jedynym miejscem zamieszkania osoby spisywanej,
+- **5)** gospodarstwie domowym - oznacza to zespół osób mieszkających i utrzymujących się wspólnie lub jedną osobę utrzymującą się samodzielnie,
+- **6)** głowie gospodarstwa domowego - oznacza to osobę, która dostarcza najwięcej środków na utrzymanie gospodarstwa domowego,
+- **7)** pracy głównej - oznacza to pracę, która zwykle zajmuje najwięcej czasu albo jest pracą jedyną; jeżeli prace zajmują taką samą ilość czasu, pracą główną jest ta, z której osiągany jest wyższy dochód.
+- **8)** pracy dodatkowej - oznacza to pracę, która zajmuje zwykle najwięcej czasu spośród innych prac poza pracą główną; jeżeli prace zajmują taką samą ilość czasu, pracą dodatkową jest ta, z której osiągany jest wyższy dochód,
+- **9)** dochodach z własności - oznacza to dochody uzyskiwane przez właścicieli aktywów finansowych lub aktywów rzeczowych nie produkowanych (głównie gruntu i zasobów złóż naturalnych),
+- **10)** dochodach z najmu - oznacza to dochody z najmu mieszkania lub budynku,
+- **11)** niezarobkowym źródle utrzymania - oznacza to emeryturę, rentę, zasiłek, dodatek szkoleniowy, alimenty, stypendium, świadczenie przedemerytalne,
+- **12)** źródle utrzymania - oznacza to dochody z pracy, dochody z własności i najmu oraz dochody z niezarobkowych źródeł utrzymania,
+- **13)** wyposażeniu mieszkania w urządzenia techniczno-sanitarne - oznacza to wyposażenie mieszkania w wodociąg, ustęp spłukiwany, ciepłą wodę, łazienkę, gaz,
+- **14)** obiektach i terenach zamkniętych - oznacza to obiekty i tereny pozostające w zarządzie Ministra Obrony Narodowej, Szefa Agencji Bezpieczeństwa Wewnętrznego i Szefa Agencji Wywiadu oraz ministrów właściwych do spraw: wewnętrznych, administracji publicznej, sprawiedliwości i zagranicznych oraz podległych im jednostek organizacyjnych.
+
 **Art. 4.**
 
-1. W ramach spisu będą zebrane następujące informacje o osobach stale zamieszkałych i czasowo przebywających w mieszkaniach, budynkach, obiektach i pomieszczeniach, określonych w art. 2 ust. 1 pkt 2: czy przebywa czasowo, czy jest obecna w czasie spisu, czas trwania i przyczyna przebywania lub nieobecności oraz dla przebywających czasowo za granicą lub przybyłych z zagranicy - kraj aktualnego lub poprzedniego pobytu,
+1. W ramach spisu będą zebrane następujące informacje o osobach stale zamieszkałych i czasowo przebywających w mieszkaniach, budynkach, obiektach i pomieszczeniach, określonych w art. 2 ust. 1 pkt 2:
 
+- **1)** nazwisko i imię osoby spisywanej, czy w miejscu spisywania mieszka stale czy przebywa czasowo, czy jest obecna w czasie spisu, czas trwania i przyczyna przebywania lub nieobecności oraz dla przebywających czasowo za granicą lub przybyłych z zagranicy - kraj aktualnego lub poprzedniego pobytu,
 - **2)** data urodzenia, płeć, stopień pokrewieństwa, powinowactwa lub innego związku z głową gospodarstwa domowego,
 - **3)** stan cywilny, miesiąc i rok zawarcia małżeństwa i czy osoba spisywana pozostaje faktycznie w związku małżeńskim,
 - **4)** poziom posiadanego wykształcenia, czy osoba spisywana kontynuuje naukę i w jakiej formie,
@@ -71,13 +87,15 @@ source: "isap-pdf"
 
 3. W ramach spisu będą zebrane następujące informacje o mieszkaniach i budynkach, w których znajdują się mieszkania, obiektach zbiorowego zakwaterowania i innych zamieszkanych pomieszczeniach nie będących mieszkaniami, odpowiednio:
 
-- **a)** czy jest zamieszkane, czy nie zamieszkane,
-- **b)** czy jest jedynym lub głównym miejscem zamieszkania, czy drugim przeznaczonym do czasowego lub sezonowego przebywania,
-- **c)** czyją jest własnością,
-- **d)** powierzchnia użytkowa, w tym wykorzystywana wyłącznie do prowadzenia działalności gospodarczej,
-- **e)** liczba pokoi, w tym wykorzystywanych wyłącznie do prowadzenia działalności gospodarczej,
-- **f)** liczba i charakterystyka pomieszczeń kuchennych,
-- **g)** wyposażenie w urządzenia techniczno-sanitarne, sposób ogrzewania i rodzaj energii stosowanej do ogrzewania,
+- **1)** o mieszkaniach:
+    - **a)** czy jest zamieszkane, czy nie zamieszkane,
+    - **b)** czy jest jedynym lub głównym miejscem zamieszkania, czy drugim przeznaczonym do czasowego lub sezonowego przebywania,
+    - **c)** czyją jest własnością,
+    - **d)** powierzchnia użytkowa, w tym wykorzystywana wyłącznie do prowadzenia działalności gospodarczej,
+    - **e)** liczba pokoi, w tym wykorzystywanych wyłącznie do prowadzenia działalności gospodarczej,
+    - **f)** liczba i charakterystyka pomieszczeń kuchennych,
+    - **g)** wyposażenie w urządzenia techniczno-sanitarne, sposób ogrzewania i rodzaj energii stosowanej do ogrzewania,
+
 - **2)** o budynkach:
     - **a)** rodzaj budynku oraz liczba mieszkań w budynkach mieszkalnych,
     - **b)** określenie rodzaju własności (współwłasności),
@@ -102,7 +120,9 @@ source: "isap-pdf"
 1. W ramach spisu zostaną przeprowadzone dodatkowe badania:
 
 - **1)** migracji długookresowych trwających co najmniej 12 miesięcy w latach 1989-2002,
-- **2)** dzietności kobiet - na wylosowanej metodą reprezentacyjną próbie kobiet w wieku 16 i więcej lat. i kraju stałego zamieszkania, miejscu, kraju i okresie poprzedniego zamieszkania, przyczynie zmiany poprzedniego miejsca zamieszkania i źródle utrzymania w poprzednim miejscu zamieszkania.
+- **2)** dzietności kobiet - na wylosowanej metodą reprezentacyjną próbie kobiet w wieku 16 i więcej lat.
+
+2. W badaniu, o którym mowa w ust. 1 pkt 1 zostaną zebrane informacje o miejscu i kraju stałego zamieszkania, miejscu, kraju i okresie poprzedniego zamieszkania, przyczynie zmiany poprzedniego miejsca zamieszkania i źródle utrzymania w poprzednim miejscu zamieszkania.
 
 3. Formularz spisowy zawierający pytania w zakresie tematycznym określonym w ust. 2, oznaczony symbolem M, stanowi załącznik nr 2 do ustawy.
 
@@ -128,7 +148,9 @@ source: "isap-pdf"
 
 6. Informacji o budynkach stanowiących własność osób fizycznych udzielają właściciele, użytkownicy lub administratorzy tych budynków.
 
-7. Informacji o nie zamieszkanych mieszkaniach udzielają zarządzający (administrujący) budynkami, w których te mieszkania się znajdują. Wszystkie zbierane i gromadzone w spisie dane osobowe i dane indywidualne są poufne i podlegają szczególnej ochronie tajemnicą statystyczną na zasadach określonych w art. 10 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz.U. Nr 88, poz. 439, z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769 oraz z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668); dane te mogą być opracowywane wyłącznie z zastosowaniem zasad podanych w art. 35 powołanej ustawy.
+7. Informacji o nie zamieszkanych mieszkaniach udzielają zarządzający (administrujący) budynkami, w których te mieszkania się znajdują.
+
+**Art. 9.** Wszystkie zbierane i gromadzone w spisie dane osobowe i dane indywidualne są poufne i podlegają szczególnej ochronie tajemnicą statystyczną na zasadach określonych w art. 10 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz.U. Nr 88, poz. 439, z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769 oraz z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668); dane te mogą być opracowywane wyłącznie z zastosowaniem zasad podanych w art. 35 powołanej ustawy.
 
 **Art. 10.** Osoby wykonujące prace związane z przygotowaniem, przeprowadzeniem i opracowaniem wyników spisu są obowiązane do bezwzględnego przestrzegania tajemnicy statystycznej, określonej w art. 10 ustawy o statystyce publicznej, i mogą być dopuszczone do wykonywania tych prac po przeszkoleniu i pouczeniu o istocie tajemnicy statystycznej oraz po złożeniu pisemnego przyrzeczenia o treści określonej w art. 12 ustawy o statystyce publicznej.
 
@@ -171,7 +193,7 @@ source: "isap-pdf"
 
 3. Nadzór merytoryczny nad realizacją zadań, o których mowa w ust. 1 pkt 2, sprawuje dyrektor urzędu statystycznego w województwie, na którego terenie znajduje się gmina.
 
-4. Środki na wykonanie zadań, o których mowa w ust. 1 pkt 2, będą przekazywane gminom przez Prezesa Głównego Urzędu Statystycznego za pośrednictwem dyrektorów urzędów statystycznych sukcesywnie, w terminach umożliwiających 30 października 2002 r.
+4. Środki na wykonanie zadań, o których mowa w ust. 1 pkt 2, będą przekazywane gminom przez Prezesa Głównego Urzędu Statystycznego za pośrednictwem dyrektorów urzędów statystycznych sukcesywnie, w terminach umożliwiających realizację kolejnych etapów prac; ostateczne rozliczenie nastąpi w terminie do 30 października 2002 r.
 
 **Art. 14.**
 
@@ -199,7 +221,7 @@ source: "isap-pdf"
 
 4. Osobom, o których mowa w ust. 3, zastępcom komisarzy spisowych i innym pracownikom służb statystyki publicznej wykonującym prace związane ze spisem mogą być przyznawane dodatki spisowe i nagrody, a komisarzom spisowym nagrody.
 
-5. Rada Ministrów określi, w drodze rozporządzenia, kryteria obliczania wynagrodzenia za wykonywanie czynności związanych ze spisem dla osób, o których gród, o których mowa w ust. 4.
+5. Rada Ministrów określi, w drodze rozporządzenia, kryteria obliczania wynagrodzenia za wykonywanie czynności związanych ze spisem dla osób, o których mowa w ust. 2, oraz wysokość i zasady przyznawania dodatków spisowych i nagród, o których mowa w ust. 4.
 
 **Art. 16.**
 
@@ -222,6 +244,8 @@ source: "isap-pdf"
 - **1)** osoby stale zamieszkałe i czasowo przebywające w mieszkaniach, budynkach, obiektach i pomieszczeniach, o których mowa w pkt 2,
 - **2)** mieszkania i budynki, w których znajdują się mieszkania oraz zamieszkane obiekty zbiorowego zakwaterowania i inne zamieszkane pomieszczenia nie będące mieszkaniami,
 - **3)** osoby nie mające miejsca zamieszkania na obszarze następujących gmin: Warszawa - Wilanów, Daleszyce, Pyskowice, Sejny, Stryków, Ustka, Działdowo i Działdowo miasto.
+
+**Art. 19.**
 
 1. W dniach od 17 czerwca 2002 r. do 25 czerwca 2002 r. w wylosowanych obwodach spisowych zostanie przeprowadzony spis kontrolny.
 

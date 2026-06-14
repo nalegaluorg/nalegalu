@@ -8,7 +8,7 @@ pos: 2405
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 4/A/2018 WYROK z dnia 14 grudnia 2017 r.

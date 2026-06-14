@@ -8,10 +8,10 @@ pos: 1576
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11557766 WZÓR UWAGA! PRZED WYPEŁNIENIEM NALEŻY DOKŁADNIE ZAPOZNAĆ SIĘ Z POUCZENIAMI Wniosek o: Data wpływu (wypełnia sąd)
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001576) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1576/text.pdf) |
 
-11557766 WZÓR UWAGA! PRZED WYPEŁNIENIEM NALEŻY DOKŁADNIE ZAPOZNAĆ SIĘ Z POUCZENIAMI Wniosek o: Data wpływu (wypełnia sąd)
 1) zobowiązanie osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia;
 2) wydanie osobie stosującej przemoc domową zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia;
 3) wydanie osobie stosującej przemoc domową zakazu zbliżania się do osoby doznającej przemocy domowej;
@@ -47,7 +46,7 @@ Pod dodaną do wniosku treścią należy złożyć podpis.
 Przedstawiciel ustawowy wnioskodawcy Pełnomocnik wnioskodawcy (należy zaznaczyć właściwe okienko, gdy wniosek składa przedstawiciel ustawowy lub pełnomocnik wnioskodawcy)
 3.1. Imię i nazwisko:
 3.2. Adres do doręczeń w przypadku wyznaczenia przedstawiciela ustawowego, jeżeli jest inny niż wskazany w rubryce 2.2 lub 2.4 (można dodatkowo podać numer telefonu lub adres poczty elektronicznej):
-4. Uczestnik (dane osoby, której dotyczy wniosek osoby, która stosuje przemoc domową)
+4. Uczestnik (dane osoby, której dotyczy wniosek – osoby, która stosuje przemoc domową)
 4.1. Imię i nazwisko:
 4.2. Miejsce zamieszkania i adres (można dodatkowo podać numer telefonu lub adres poczty elektronicznej):
 4.3. Numer PESEL lub data urodzenia, jeżeli są znane:
@@ -86,10 +85,10 @@ pozostali wnioskodawcy skreślają rubrykę 5.3) Wnoszę o udzielenie zabezpiecz
 2) zakazu zbliżania się do osoby doznającej przemocy domowej;
 3) zakazu kontaktowania się z osobą doznającą przemocy domowej;
 4) zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie;
-na obszarze/na odległość (należy wskazać obszar lub odległość, które uczestnik będzie obowiązany zachować, jeżeli wniosek dotyczy innego obszaru lub innej odległości niż określone w nakazie i zakazie lub zakazach): ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… wydanego/wydanych przez (należy wskazać organ, który wydał nakaz i zakaz lub zakazy, a niepotrzebny punkt z dwóch wskazanych poniżej skreślić):
+na obszarze/na odległość (należy wskazać obszar lub odległość, które uczestnik będzie obowiązany zachować, jeżeli wniosek dotyczy innego obszaru lub innej odległości niż określone w nakazie i zakazie lub zakazach): ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… wydanego/wydanych przez (należy wskazać organ, który wydał nakaz i zakaz lub zakazy, a niepotrzebny punkt z dwóch wskazanych poniżej – skreślić):
 1) Policję, dnia ………………………………………………………………………………...
 2) Żandarmerię Wojskową, dnia …………………….…………..…………………………….
-na czas (należy wskazać okres zabezpieczenia, a niepotrzebny punkt z dwóch wskazanych poniżej skreślić):
+na czas (należy wskazać okres zabezpieczenia, a niepotrzebny punkt z dwóch wskazanych poniżej – skreślić):
 1) do dnia ……………………………………………………………………………………...
 2) trwania postępowania.
 5.4. Uzasadnienie wniosku o udzielenie zabezpieczenia przez przedłużenie obowiązywania nakazu i zakazu lub zakazów (wypełnić tylko w przypadku zgłaszania wniosku opisanego w rubryce 5.3) Wyjaśnienie, dlaczego wydane przez Policję lub Żandarmerię Wojskową nakaz i zakaz lub zakazy nadal powinny obowiązywać: ………………………………………………………………………………………………...
@@ -101,7 +100,7 @@ pozostali wnioskodawcy skreślają rubrykę 5.5) Wnoszę o udzielenie zabezpiecz
 3) wydanie uczestnikowi zakazu zbliżania się do osoby doznającej przemocy domowej (należy wskazać obszar lub odległość, które uczestnik jest obowiązany zachować): ……………………………………………………………………............................................
 4) wydanie uczestnikowi zakazu kontaktowania się z osobą doznającą przemocy domowej;
 5) wydanie uczestnikowi zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie;
-na czas (należy wskazać okres zabezpieczenia, a niepotrzebny punkt z dwóch wskazanych poniżej skreślić):
+na czas (należy wskazać okres zabezpieczenia, a niepotrzebny punkt z dwóch wskazanych poniżej – skreślić):
 1) do dnia ……………………………………………………………………………………...
 2) trwania postępowania.
 5.6. Uzasadnienie wniosku o udzielenie zabezpieczenia (tę rubrykę formularza wypełniają jedynie wnioskodawcy, którzy zgłaszają wniosek z rubryki 5.5;
@@ -113,7 +112,7 @@ pozostali wnioskodawcy skreślają rubrykę 5.6) Fakty uzasadniające udzielenie
 8. Imię i nazwisko (czytelne) osoby lub osób 9. Miejscowość i data składających wniosek oraz podpis P O U C Z E N I E
 1. Urzędowe formularze są dostępne w budynkach sądów rejonowych i okręgowych, w Internecie pod adresami www.ms.gov.pl i www.funduszsprawiedliwosci.gov.pl oraz na stronach internetowych sądów rejonowych, sądów okręgowych i sądów apelacyjnych.
 2. Wniosek nie musi być złożony na urzędowym formularzu (art. 560 § 1 Kodeksu postępowania cywilnego).
-3. Wniosek należy złożyć w sądzie rejonowym właściwym ze względu na miejsce zamieszkania wnioskodawcy, a w braku miejsca zamieszkania w sądzie miejsca jego pobytu (art. 508 § 1 Kodeksu postępowania cywilnego).
+3. Wniosek należy złożyć w sądzie rejonowym właściwym ze względu na miejsce zamieszkania wnioskodawcy, a w braku miejsca zamieszkania – w sądzie miejsca jego pobytu (art. 508 § 1 Kodeksu postępowania cywilnego).
 4. Wnioskodawca jest zwolniony od uiszczenia kosztów sądowych.
 5. Zgodnie z art. 165 § 2 w zw. z art. 13 § 2 Kodeksu postępowania cywilnego oddanie pisma procesowego w polskiej placówce operatora świadczącego pocztowe usługi powszechne na terytorium Rzeczypospolitej Polskiej albo w zagranicznej placówce pocztowej operatora świadczącego pocztowe usługi powszechne na terytorium innego państwa członkowskiego Unii Europejskiej jest równoznaczne z wniesieniem tego pisma do sądu (datą wniesienia jest data oddania).
 6. Niezachowanie warunków formalnych pisma, które uniemożliwia nadanie mu dalszego biegu, powoduje wezwanie do uzupełnienia braków w terminie tygodniowym. Jeżeli braki nie zostaną w tym terminie uzupełnione, pismo podlega zwrotowi. Taki skutek nie następuje jedynie w wypadku, gdy do wniosku lub innych pism nie dołączono odpisów. Wówczas odpisy sporządza i doręcza sąd (art. 560 § 2 Kodeksu postępowania cywilnego).

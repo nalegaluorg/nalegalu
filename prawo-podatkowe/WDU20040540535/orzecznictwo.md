@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług*
 
-Łącznie: **1336** orzeczeń
-(pominięto 1288 orzeczeń sądów rejonowych)
+Łącznie: **1338** orzeczeń
+(pominięto 1289 orzeczeń sądów rejonowych)
 
 ## art. 1 (6)
 
@@ -14,7 +14,7 @@ Orzeczenia powołujące: *Ustawa z dnia 11 marca 2004 r. o podatku od towarów i
 - 2012-11-23 | KIO | [KIO 2468/12](https://www.saos.org.pl/judgments/200684) | Wyrok
 - 2019-01-31 | SO | [V Ka 1500/18](https://www.saos.org.pl/judgments/381836) | Uzasadnienie
 
-## art. 2 (34)
+## art. 2 (35)
 
 - 2010-11-04 | TK | [P 44/07](https://www.saos.org.pl/judgments/109723) | Wyrok ★
 - 2009-07-16 | TK | [K 36/08](https://www.saos.org.pl/judgments/108984) | Wyrok ★
@@ -25,6 +25,7 @@ Orzeczenia powołujące: *Ustawa z dnia 11 marca 2004 r. o podatku od towarów i
 - 2012-02-15 | TK | [Ts 37/11](https://www.saos.org.pl/judgments/160589) | Postanowienie ★
 - 2015-02-18 | SN | [I CSK 64/14](https://www.saos.org.pl/judgments/168325) | Wyrok ★
 - 2007-06-06 | SN | [III SK 5/07](https://www.saos.org.pl/judgments/86047) | Wyrok ★
+- 2026-03-16 | SO | [I ACa 336/26](https://www.saos.org.pl/judgments/545919) | Wyrok
 - 2023-03-09 | SO | [II AKa 272/22](https://www.saos.org.pl/judgments/500828) | Wyrok
 - 2019-07-26 | SO | [I AGa 39/19](https://www.saos.org.pl/judgments/393522) | Wyrok
 - 2017-06-13 | SO | [I ACa 496/16](https://www.saos.org.pl/judgments/320918) | Wyrok
@@ -1326,12 +1327,13 @@ Orzeczenia powołujące: *Ustawa z dnia 11 marca 2004 r. o podatku od towarów i
 - 2017-11-17 | SO | [I ACa 1335/16](https://www.saos.org.pl/judgments/320026) | Wyrok
 - 2016-03-02 | SO | [XIII Ga 728/15](https://www.saos.org.pl/judgments/207641) | Uzasadnienie
 
-## art. 87 (23)
+## art. 87 (24)
 
 - 2009-03-10 | TK | [P 80/08](https://www.saos.org.pl/judgments/109058) | Wyrok ★
 - 2008-10-13 | TK | [K 16/07](https://www.saos.org.pl/judgments/108524) | Wyrok ★
 - 2007-12-11 | TK | [U 6/06](https://www.saos.org.pl/judgments/108507) | Wyrok ★
 - 2010-04-13 | TK | [P 35/09](https://www.saos.org.pl/judgments/109720) | Postanowienie ★
+- 2025-09-22 | SO | [II AKa 154/24](https://www.saos.org.pl/judgments/545018) | Wyrok
 - 2023-03-09 | SO | [II AKa 272/22](https://www.saos.org.pl/judgments/500828) | Wyrok
 - 2021-06-24 | SO | [V ACa 48/21](https://www.saos.org.pl/judgments/447641) | Wyrok
 - 2021-02-18 | SO | [I AGa 25/19](https://www.saos.org.pl/judgments/433092) | Wyrok
@@ -1975,6 +1977,10 @@ Orzeczenia powołujące: *Ustawa z dnia 11 marca 2004 r. o podatku od towarów i
 - 2012-11-23 | KIO | [KIO 2468/12](https://www.saos.org.pl/judgments/200684) | Wyrok
 - 2014-08-19 | SO | [IV Ka 614/14](https://www.saos.org.pl/judgments/62244) | Wyrok
 - 2020-10-30 | SO | [I C 259/19](https://www.saos.org.pl/judgments/431416) | Zarządzenie
+
+## art. 121 (1)
+
+- 2026-03-16 | SO | [I ACa 336/26](https://www.saos.org.pl/judgments/545919) | Wyrok
 
 ## art. 122 (2)
 

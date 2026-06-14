@@ -8,10 +8,10 @@ pos: 1231
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 lipca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1231 OBWIESZCZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 21 czerwca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001231) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1231/text.pdf) |
 
-OBWIESZCZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 21 czerwca 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 21 lutego 1996 r. w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji (Dz. U.
-poz. 100), z uwzględnieniem zmian wprowadzonych: Poz. 1231
+poz. 100), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Finansów z dnia 9 kwietnia 1996 r. zmieniającym rozporządzenie w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji (Dz. U. poz. 193);
 2) rozporządzeniem Ministra Finansów z dnia 12 stycznia 2007 r. zmieniającym rozporządzenie w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji (Dz. U. poz. 60);
 3) rozporządzeniem Ministra Finansów z dnia 31 sierpnia 2007 r. zmieniającym rozporządzenie w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji (Dz. U. poz. 1165);
@@ -43,7 +42,8 @@ w najbliższym przypadającym terminie płatności po wejściu w życie rozporz�
 5) § 2 i § 3 rozporządzenia Ministra Finansów z dnia 17 lutego 2020 r. zmieniającego rozporządzenie w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji (Dz. U. poz. 267), które stanowią: „§ 2. Przepisy rozporządzenia mają zastosowanie po raz pierwszy do deklaracji sporządzanych za miesiąc styczeń 2020 r.
 § 3. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.
 Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 lutego 1996 r.
-w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji Na podstawie art. 2 ust. 7 ustawy z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. z 2020 r. poz. 16) zarządza się, co następuje: § 1. 1. Spółki, o których mowa w art. 1 ustawy z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa, zwane dalej „spółkami”, dokonują wpłat z zysku po opodatkowaniu podatkiem dochodowym, zwanych dalej „wpłatami z zysku”, na rzecz budżetu państwa w formie zaliczek miesięcznych lub kwartalnych.
+w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji Na podstawie art. 2 ust. 7 ustawy z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. z 2020 r. poz. 16) zarządza się, co następuje:
+§ 1. 1. Spółki, o których mowa w art. 1 ustawy z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa, zwane dalej „spółkami”, dokonują wpłat z zysku po opodatkowaniu podatkiem dochodowym, zwanych dalej „wpłatami z zysku”, na rzecz budżetu państwa w formie zaliczek miesięcznych lub kwartalnych.
 2. O wyborze okresu, o którym mowa w art. 2 ust. 2 ustawy z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa, zwanej dalej „ustawą”, oraz o jego zmianie spółki zawiadamiają właściwy miejscowo urząd skarbowy w formie pisemnego oświadczenia w terminie 30 dni po rozpoczęciu roku obrotowego.
 3. Spółki nowo powstałe składają oświadczenie, o którym mowa w ust. 2, w terminie 30 dni od dnia rejestracji.
 4. Spółki, które nie złożą oświadczenia w terminie określonym w ust. 2 i ust. 3, dokonują wpłat zaliczek w okresach miesięcznych.
@@ -61,4 +61,5 @@ w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składan
 § 8. (pominięty).
 § 9. (pominięty).
 § 10. Rozporządzenie wchodzi w życie po upływie 5 dni od dnia ogłoszenia i ma zastosowanie od dnia 1 stycznia 1996 r.
+WZS-1M DEKLARACJA O WYSOKOŚCI ZYSKU (STRATY) OSIĄGNIĘTEGO PRZEZ JEDNOOSOBOWĄ SPÓŁKĘ SKARBU PAŃSTWA I O WPŁATACH Z ZYSKU ZA A. MIEJSCE I CEL SKŁADANIA DEKLARACJI   B. DANE PODATNIKA B.1. DANE IDENTYFIKACYJNE B.2. ADRES SIEDZIBY C. PODSTAWA NALICZENIA WYSOKOŚCI WPŁAT Z ZYSKU D. USTALENIE WYSOKOŚCI WPŁAT Z ZYSKU D.1. KWOTA NALEŻNEJ ZALICZKI WZS-1M 1 D.2. ULGI I ZWOLNIENIA NA PODSTAWIE ART. 5 UST. 2 USTAWY D.3. ZANIECHANIE POBORU WPŁAT Z ZYSKU D.4. OBLICZENIE NALEŻNYCH WPŁAT Z ZYSKU D.5. OBLICZENIE NALEŻNEJ ZALICZKI D.6. OBLICZENIE ZALICZKI PRZYPADAJĄCEJ DO ZAPŁATY E. OSOBY ODPOWIEDZIALNE F. ADNOTACJE URZĘDU SKARBOWEGO WZS-1M 2 WZS-1K DEKLARACJA O WYSOKOŚCI ZYSKU (STRATY) OSIĄGNIĘTEGO PRZEZ JEDNOOSOBOWĄ SPÓŁKĘ SKARBU PAŃSTWA I O WPŁATACH Z ZYSKU A. MIEJSCE I CEL SKŁADANIA DEKLARACJI   B. DANE PODATNIKA B.1. DANE IDENTYFIKACYJNE B.2. ADRES SIEDZIBY C. PODSTAWA NALICZENIA WYSOKOŚCI WPŁAT Z ZYSKU D. USTALENIE WYSOKOŚCI WPŁAT Z ZYSKU D.1. KWOTA NALEŻNEJ ZALICZKI WZS-1K 1 D.2. ULGI I ZWOLNIENIA NA PODSTAWIE ART. 5 UST. 2 USTAWY D.3. ZANIECHANIE POBORU WPŁAT Z ZYSKU D.4. OBLICZENIE NALEŻNYCH WPŁAT Z ZYSKU D.5. OBLICZENIE NALEŻNEJ ZALICZKI D.6. OBLICZENIE ZALICZKI PRZYPADAJĄCEJ DO ZAPŁATY E. OSOBY ODPOWIEDZIALNE F. ADNOTACJE URZĘDU SKARBOWEGO WZS-1K 2 WZS-1R DEKLARACJA O WYSOKOŚCI ZYSKU (STRATY) OSIĄGNIĘTEGO PRZEZ JEDNOOSOBOWĄ SPÓŁKĘ SKARBU PAŃSTWA I O WPŁATACH Z ZYSKU A. MIEJSCE I CEL SKŁADANIA DEKLARACJI   B. DANE PODATNIKA B.1. DANE IDENTYFIKACYJNE B.2. ADRES SIEDZIBY C. PODSTAWA NALICZENIA WYSOKOŚCI WPŁAT Z ZYSKU D. USTALENIE WYSOKOŚCI WPŁAT Z ZYSKU D.1. KWOTA NALEŻNEJ WPŁATY WZS-1R 1 D.2. ULGI I ZWOLNIENIA NA PODSTAWIE ART. 5 UST. 2 USTAWY D.3. ZANIECHANIE POBORU WPŁAT Z ZYSKU D.4. OBLICZENIE NALEŻNYCH WPŁAT Z ZYSKU D.5. OBLICZENIE NALEŻNEJ WPŁATY D.6. OBLICZENIE KWOTY WPŁAT, PRZYPADAJĄCEJ DO ZAPŁATY E. OSOBY ODPOWIEDZIALNE F. ADNOTACJE URZĘDU SKARBOWEGO WZS-1R 2
 

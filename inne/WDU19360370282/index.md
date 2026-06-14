@@ -8,7 +8,7 @@ pos: 282
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo wekslowe
@@ -35,6 +35,15 @@ source: "isap-pdf"
 ### DZIAŁ I Wystawienie i forma wekslu
 
 **Art. 1.** Weksel trasowany zawiera:
+
+- **1)** nazwę „weksel” w samym tekście dokumentu, w języku, w jakim go wystawiono;
+- **2)** polecenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej;
+- **3)** nazwisko osoby, która ma zapłacić (trasata);
+- **4)** oznaczenie terminu płatności;
+- **5)** oznaczenie miejsca płatności;
+- **6)** nazwisko osoby, na której rzecz lub na której zlecenie zapłata ma być dokonana;
+- **7)** oznaczenie daty i miejsca wystawienia wekslu;
+- **8)** podpis wystawcy wekslu.
 
 **Art. 2.** Nie będzie uważany za weksel trasowany dokument, któremu brak jednej z cech, wskazanych w artykule poprzedzającym, wyjąwszy przypadki, określone w ustępach następujących. Weksel bez oznaczenia terminu płatności uważa się za płatny za okazaniem. W braku osobnego oznaczenia, miejsce, wymienione obok nazwiska trasata, uważa się za miejsce płatności, a także za miejsce zamieszkania trasata. Weksel, w którym nie oznaczono miejsca wystawienia, uważa się za wystawiony w miejscu, podanem obok nazwiska wystawcy.
 
@@ -65,6 +74,10 @@ source: "isap-pdf"
 **Art. 13.** Indos powinien być napisany na wekslu lub na złączonej z nim karcie dodatkowej (przedłużku) i podpisany przez indosanta. Indos może nie wymieniać indosatarjusza lub może ograniczać się tylko do podpisu indosanta (indos in blanco). W tym przypadku indos jest ważny tylko, jeżeli został napisany na odwrotnej stronie wekslu lub na przedłużku.
 
 **Art. 14.** Indos przenosi wszystkie prawa z wekslu. Jeżeli indos jest in blanco, posiadacz wekslu może:
+
+- **1)** wypełnić indos nazwiskiem własnem lub innej osoby;
+- **2)** indosować weksel dalej in blanco lub na inną osobę;
+- **3)** przenieść weksel na inną osobę bez wypełnienia indosu in blanco i bez indosowania.
 
 **Art. 15.** Indosant odpowiada w braku przeciwnego zastrzeżenia za przyjęcie i za zapłatę wekslu. Indosant może zabronić dalszego indosowania; w tym przypadku nie odpowiada wobec następnych indosatarjuszy.
 
@@ -134,9 +147,15 @@ source: "isap-pdf"
 
 **Art. 43.** Posiadacz wekslu może wykonywać zwrotne poszukiwanie przeciw indosantom, wystawcy, tudzież innym dłużnikom wekslowym: po terminie płatności, jeżeli zapłata nie nastąpiła; już przed terminem płatności:
 
+- **1)** jeżeli odmówiono przyjęcia w całości lub w części;
+- **2)** jeżeli otwarto postępowanie restrukturyzacyjne albo jeżeli ogłoszono upadłość trasata bez względu, czy weksel przyjął, czy nie, albo jeżeli trasat zaprzestał płacenia długów, choćby to zaprzestanie nie zostało stwierdzone orzeczeniem sądowym, lub też jeżeli przeprowadzono bezskutecznie egzekucję z jego majątku;
+- **3)** jeżeli otwarto postępowanie restrukturyzacyjne albo jeżeli ogłoszono upadłość wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia. W przypadku zwrotnego poszukiwania przed terminem płatności, przewidzianego w ust. 1 pkt. 2 i 3 artykułu niniejszego, sąd może udzielić zobowiązanemu zwrotnie odroczenia, które nie może w żadnym razie przekraczać terminu płatności wekslu.
+
 **Art. 44.** Odmowa przyjęcia lub zapłaty powinna być stwierdzona aktem publicznym (protest spowodu nieprzyjęcia lub niezapłacenia). Protest spowodu nieprzyjęcia powinien być dokonany w terminach, w których ma nastąpić przedstawienie wekslu do przyjęcia. Jeżeli w przypadku art. 24 ust. 1 weksel został po raz pierwszy przedstawiony w ostatnim dniu terminu, protest może być dokonany jeszcze dnia następnego. Protest spowodu niezapłacenia wekslu, płatnego w oznaczonym dniu albo w pewien czas po dacie lub po okazaniu, powinien być dokonany w jednym z dwóch dni powszednich, następujących po dniu płatności. Jeżeli weksel jest płatny za okazaniem, protest powinien być dokonany z zachowaniem warunków dokonania protestu spowodu nieprzyjęcia, przewidzianych w ustępie poprzedzającym. Protest spowodu nieprzyjęcia zwalnia od przedstawienia do zapłaty i od protestu spowodu niezapłacenia. W przypadku, gdy trasat bez względu, czy weksel przyjął, czy nie, zaprzestał płacenia długów lub gdy przeprowadzono bezskutecznie egzekucję z jego majątku, posiadacz może wykonywać zwrotne poszukiwanie tylko po przedstawieniu wekslu trasatowi do zapłaty i po dokonaniu protestu. W przypadku otwarcia postępowania restrukturyzacyjnego albo ogłoszenia upadłości trasata, bez względu, czy weksel przyjął, czy nie, zarówno jak w przypadku otwarcia postępowania restrukturyzacyjnego albo ogłoszenia upadłości wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia, posiadacz wekslu może wykonywać zwrotne poszukiwanie już na podstawie orzeczenia, którem otwarto postępowanie restrukturyzacyjne albo którem ogłoszono upadłość.
 
 **Art. 45.** Posiadacz wekslu powinien o nieprzyjęciu lub o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu, a w przypadku zastrzeżenia „bez kosztów” – po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienia, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na wekslu, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie wekslu. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i
+
+- **2320)** w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z wekslu, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo, tylko do sumy, na jaką weksel jest wystawiony.
 
 **Art. 46.** Wystawca, indosant albo poręczyciel przez zastrzeżenie „bez kosztów”, „bez protestu” lub przez inne równoznaczne, napisane na wekslu i podpisane, mogą zwolnić posiadacza wekslu od protestu spowodu nieprzyjęcia lub niezapłacenia, jako warunku zwrotnego poszukiwania. Zastrzeżenie takie nie zwalnia posiadacza ani od przedstawienia wekslu w przepisanym terminie, ani od obowiązku zawiadomienia. Dowód niezachowania terminu przedstawienia ciąży na tym, kto się na tę okoliczność powołuje wobec posiadacza. Zastrzeżenie, pochodzące od wystawcy, skuteczne jest wobec wszystkich dłużników wekslowych; jeżeli pochodzi od indosanta lub od poręczyciela, ma skutek tylko wobec niego. Gdyby mimo zastrzeżenia, pochodzącego od wystawcy, posiadacz dokonał protestu, sam ponosi koszty. Jeżeli zastrzeżenie pochodzi od indosanta lub od poręczyciela, koszty dokonanego protestu obciążają wszystkich dłużników wekslowych.
 
@@ -144,7 +163,17 @@ source: "isap-pdf"
 
 **Art. 48.** Posiadacz wekslu może żądać od zobowiązanego zwrotnie:
 
+- **1)** nieprzyjętej lub niezapłaconej sumy wekslowej wraz z odsetkami, jeżeli je zastrzeżono;
+- **2)** odsetek od wysokości sześć od sta, a przy wekslach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia płatności;
+- **3)** kosztów protestu, dokonanych zawiadomień, tudzież innych kosztów;
+- **4)** prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy wekslowej i nie może przekroczyć tej stopy. W przypadku zwrotnego poszukiwania przed płatnością będzie potrącone dyskonto od sumy wekslowej. Dyskonto oblicza się według stopy dyskontowej Banku Polskiego w dniu zwrotnego poszukiwania w miejscu zamieszkania posiadacza.
+
 **Art. 49.** Kto weksel wykupił, może żądać od swoich poprzedników:
+
+- **1)** całkowitej sumy zapłaconej;
+- **2)** odsetek w wysokości sześć od sta, a przy wekslach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia wekslu;
+- **3)** własnych kosztów;
+- **4)** prowizji komisowej od sumy wekslowej, obliczonej według art. 48 ust. 1 pkt. 4.
 
 **Art. 50.** Każdy dłużnik wekslowy, przeciw któremu wykonywa się lub wykonać można zwrotne poszukiwanie, może żądać, aby mu za zapłatą sumy regresowej wydano weksel, protest, tudzież rachunek pokwitowany. Indosant, który weksel wykupił, może przekreślić indos własny oraz indosy następnych indosantów.
 
@@ -183,6 +212,11 @@ source: "isap-pdf"
 **Art. 65.** Zapłata, dokonana na jeden z egzemplarzy, zwalnia nawet wtedy, gdyby nie było na wekslu zastrzeżenia, że taka zapłata pozbawia ważności inne egzemplarze. Wszelako trasat odpowiada z każdego przyjętego przez siebie egzemplarza, którego mu nie zwrócono. Indosant, który przeniósł egzemplarze na różne osoby, jako też następni indosanci odpowiadają ze wszystkich podpisanych przez siebie egzemplarzy, których im nie zwrócono.
 
 **Art. 66.** Kto przesyła jeden egzemplarz do przyjęcia, powinien oznaczyć na innych egzemplarzach nazwisko osoby, u której ów egzemplarz się znajduje. Osoba ta jest obowiązana wydać go prawnemu posiadaczowi innego egzemplarza. Jeżeli wydania odmówi, posiadacz może wykonać zwrotne poszukiwanie tylko po stwierdzeniu przez protest:
+
+- **1)** że egzemplarz, przesłany do przyjęcia, mimo żądania nie został mu wydany;
+- **2)** że na inny egzemplarz nie można było uzyskać przyjęcia lub zapłaty.
+
+2. Odpisy
 
 **Art. 67.** Każdy posiadacz wekslu ma prawo sporządzenia z niego odpisów. Odpis powinien dokładnie odtwarzać oryginał z indosami i wszelkiemi wzmiankami, znajdującemi się na nim; należy na nim zaznaczyć, gdzie odpis się kończy. Na odpisie można umieszczać indosy i poręczenia wekslowe w ten sam sposób i z temi samemi skutkami, jak na oryginale.
 
@@ -236,6 +270,12 @@ source: "isap-pdf"
 
 **Art. 86.** Protest zawiera:
 
+- **1)** nazwisko osoby, która żąda protestu, oraz osoby, przeciw której protest ma być dokonany;
+- **2)** stwierdzenie, że osoba, przeciw której protest ma być dokonany, nie uczyniła zadość wezwaniu, skierowanemu do niej, a nadto oświadczenie, złożone przez tę osobę, albo stwierdzenie, że jej nie zastano albo że nie można było odnaleźć lokalu jej przedsiębiorstwa lub mieszkania;
+- **3)** oznaczenie miejsca i dnia, w których wezwania dokonano lub bezskutecznie starano się go dokonać;
+- **4)** oznaczenie, ile egzemplarzy wekslu przedstawiono i jakie;
+- **5)** podpis organu, sporządzającego protest, pieczęć urzędową i numer protestu. Jeżeli trasat zażąda, aby mu weksel nazajutrz przedstawiono ponownie do przyjęcia, należy o tem zaznaczyć w proteście.
+
 **Art. 87.** Przedstawienia wekslu, wezwania do wydania egzemplarza lub oryginału, tudzież wszystkich innych czynności zachowawczych należy – w braku odmiennego wskazania w wekslu – dokonać w lokalu przedsiębiorstwa, a gdyby nie można było znaleźć takiego lokalu – w mieszkaniu osoby, do której wezwanie ma być skierowane. W innem miejscu, np. „na giełdzie”, można tych czynności dokonać jedynie za zgodą stron interesowanych. Organ, sporządzający protest, obowiązany jest dokonać poszukiwania lokalu przedsiębiorstwa albo mieszkania osoby, do której wezwanie ma być skierowane, i odpowiada za szkodę, spowodowaną brakiem należytej staranności. Jednakże zaniedbanie lub niedokładność poszukiwań nigdy nie mogą stanowić przyczyny nieważności protestu.
 
 **Art. 88.** Protest należy napisać na odwrotnej stronie wekslu albo na osobnej karcie, połączonej z wekslem. Jeżeli na odwrotnej stronie niema żadnych oświadczeń, należy pisanie protestu zacząć od brzegu, w przeciwnym zaś razie bezpośrednio po ostatniem oświadczeniu. Jeżeli protest ma być napisany w całości lub w części na osobnej karcie dodatkowej, należy tę kartę połączyć z wekslem w ten sposób, aby nie było wolnych miejsc na odwrotnej stronie wekslu; połączenie wekslu z kartą dodatkową powinno być przypieczętowane pieczęcią urzędową lub przepisane treścią aktu protestowego.
@@ -270,9 +310,19 @@ source: "isap-pdf"
 
 **Art. 101.** Weksel własny zawiera:
 
+- **1)** nazwę „weksel” w samym tekście dokumentu, w języku, w jakim go wystawiono;
+- **2)** przyrzeczenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej;
+- **3)** oznaczenie terminu płatności;
+- **4)** oznaczenie miejsca płatności;
+- **5)** nazwisko osoby, na której rzecz lub na której zlecenie zapłata ma być dokonana;
+- **6)** oznaczenie daty i miejsca wystawienia wekslu;
+- **7)** podpis wystawcy wekslu.
+
 **Art. 102.** Nie będzie uważany za weksel własny dokument, któremu brak jednej z cech, wskazanych w artykule poprzedzającym, wyjąwszy przypadki, określone w ustępach następujących. Weksel własny bez oznaczenia terminu płatności uważa się za płatny za okazaniem. W braku osobnego oznaczenia, miejsce wystawienia wekslu uważa się za miejsce płatności, a także za miejsce zamieszkania wystawcy. Weksel własny, w którym nie oznaczono miejsca wystawienia, uważa się za wystawiony w miejscu, podanem obok nazwiska wystawcy.
 
 **Art. 103.** Do wekslu własnego stosuje się przepisy o wekslu trasowanym, o ile z istotą wekslu własnego nie zostają w sprzeczności i dotyczą: indosu (art. 11–20); płatności (art. 33–37); zapłaty (art. 38–42); zwrotnego poszukiwania spowodu niezapłacenia (art. 43–50, 52–54); zapłaty przez wyręczenie (art. 55, 59–63); odpisów (art. 67 i 68); zmian (art. 69); przedawnienia (art. 70 i 71); dni świątecznych, obliczania terminów i zakazu dni ulgowych (art. 72, 73 i 74); sposobu uwierzytelniania podpisów osób niepiśmiennych lub niemogących pisać (art.
+
+- **75)** ; roszczenia z tytułu niesłusznego zbogacenia (art. 76); kolizji ustaw (art. 77–80 i 82–84); weksli zaginionych (art. 96–100). Również stosuje się do wekslu własnego przepisy o wekslu płatnym u trzeciego lub w innej miejscowości, niż miejsce zamieszkania trasata (art. 4 i 27), o zastrzeżeniu odsetek (art. 5), o różnicach w oznaczeniu sumy wekslowej (art. 6), o skutkach podpisu, złożonego w warunkach, przewidzianych w art. 7, o skutkach podpisu osoby, działającej bez pełnomocnictwa albo przekraczającej jego granice (art. 8), o wekslu in blanco (art. 10) oraz o protestach (art. 85–94) z tą różnicą, że protest ma być dokonany przeciw wystawcy. Do wekslu własnego stosuje się również przepisy o poręczeniu wekslowem (art. 30–32); w przypadku, przewidzianym w ustępie ostatnim art. 31, jeżeli poręczyciel nie wskazał, za kogo poręcza, uważa się, że poręczenie dał za wystawcę.
 
 **Art. 104.** Odpowiedzialność wystawcy wekslu własnego jest taka sama, jak akceptanta wekslu trasowanego. Weksle własne, płatne w pewien czas po okazaniu, powinny być w terminach, oznaczonych w art. 23, przedstawione celem zaznaczenia wizy przez wystawcę. Termin po okazaniu biegnie od daty wizy, podpisanej przez wystawcę na wekslu. Jeżeli wystawca wzbrania się umieścić wizę lub zaopatrzyć ją datą, odmowę należy stwierdzić protestem (art. 25); od daty protestu biegnie termin, w jaki po okazaniu weksel był płatny.
 

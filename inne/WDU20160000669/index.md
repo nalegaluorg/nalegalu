@@ -8,7 +8,7 @@ pos: 669
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
@@ -33,7 +33,23 @@ Art. 15–18. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady funkcjonowania ogólnopolskiego systemu zgłaszania:
+    - **a)** podejrzanych transakcji lub prób dokonania takich transakcji dotyczących substancji wymienionych w załącznikach I i II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 98/2013 z dnia 15 stycznia 2013 r. w sprawie wprowadzania do obrotu i używania prekursorów materiałów wybuchowych (Dz. Urz. UE L 39 z 09.02.2013, str. 1), zwanego dalej „rozporządzeniem (UE) nr 98/2013”, lub w aktach delegowanych wydanych na podstawie art. 12 tego rozporządzenia oraz mieszanin lub substancji zawierających te substancje,
+    - **b)** zniknięć i kradzieży znacznych ilości substancji, o których mowa w lit. a, oraz mieszanin lub substancji zawierających te substancje;
+
+- **2)** sankcje za naruszenie przepisów rozporządzenia (UE) nr 98/2013.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** substancjach – rozumie się przez to substancje, o których mowa w art. 3 pkt 1 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 1907/2006”;
+- **2)** mieszaninach – rozumie się przez to mieszaniny lub roztwory, o których mowa w art. 3 pkt 2 rozporządzenia (WE) nr 1907/2006;
+- **3)** udostępnianiu – rozumie się przez to czynność, o której mowa w art. 3 pkt 4 rozporządzenia (UE) nr 98/2013;
+- **4)** wprowadzaniu – rozumie się przez to czynność, o której mowa w art. 3 pkt 5 rozporządzenia (UE) nr 98/2013;
+- **5)** używaniu – rozumie się przez to czynność, o której mowa w art. 3 pkt 6 rozporządzenia (UE) nr 98/2013;
+- **6)** przeciętnym użytkowniku – rozumie się przez to osobę fizyczną, o której mowa w art. 3 pkt 7 rozporządzenia (UE) nr 98/2013;
+- **7)** podejrzanej transakcji – rozumie się przez to transakcję, o której mowa w art. 3 pkt 8 rozporządzenia (UE) nr 98/2013;
+- **8)** podmiocie gospodarczym – rozumie się przez to osobę fizyczną lub prawną lub podmiot publiczny albo grupę takich osób lub organów, o których mowa w art. 3 pkt 9 rozporządzenia (UE) nr 98/2013;
+- **9)** prekursorze materiałów wybuchowych podlegającym ograniczeniom – rozumie się przez to substancję, o której mowa w art. 3 pkt 10 rozporządzenia (UE) nr 98/2013.
 
 **Art. 3.** Zgłoszenia podejrzanej transakcji lub próby dokonania takiej transakcji, zniknięć lub kradzieży znacznych ilości substancji wymienionych w załącznikach I i II do rozporządzenia (UE) nr 98/2013 lub w aktach delegowanych wydanych na podstawie art. 12 tego rozporządzenia oraz mieszanin lub substancji zawierających te substancje dokonuje się niezwłocznie.
 
@@ -74,6 +90,16 @@ Art. 15–18. (pominięte)
 
 **Art. 7.** W przypadku zgłoszenia podejrzanej transakcji lub próby dokonania podejrzanej transakcji przez przeciętnego użytkownika lub podmiot gospodarczy, w systemie zgłaszania gromadzi się także informacje niezbędne do ich zidentyfikowania, w tym niezbędne do ustalenia tożsamości przeciętnego użytkownika, osoby fizycznej, o której mowa w art. 3 pkt 9 rozporządzenia (UE) nr 98/2013, lub osoby działającej w imieniu podmiotu gospodarczego, zwanych dalej „klientem”, o ile są one znane zgłaszającemu:
 
+- **1)** imię i nazwisko klienta;
+- **2)** adres zamieszkania klienta;
+- **3)** rodzaj i numer dokumentu tożsamości, którym posługuje się klient;
+- **4)** rysopis klienta, jego cechy charakterystyczne;
+- **5)** miejsce nadania lub odbioru przesyłki wskazanej przez klienta;
+- **6)** markę, kolor oraz numery rejestracyjne pojazdu, którym poruszał się klient;
+- **7)** nazwę podmiotu gospodarczego, w imieniu którego działa klient;
+- **8)** siedzibę podmiotu gospodarczego lub adres wykonywania działalności gospodarczej;
+- **9)** przyczynę, dla której zgłaszający uznał transakcję lub jej próbę za podejrzaną.
+
 **Art. 8.**
 
 1. Dane lub informacje zgromadzone w systemie zgłaszania udostępnia się na pisemny wniosek zawierający uzasadnienie następującym podmiotom:
@@ -100,6 +126,9 @@ Art. 15–18. (pominięte)
 **Art. 9.** Do danych osobowych zgromadzonych w systemie zgłaszania stosuje się przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125).
 
 **Art. 10.** Komendant Główny Policji przekazuje ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw gospodarki, raz w roku, w terminie do dnia 1 marca za okres poprzedniego roku kalendarzowego raport zawierający:
+
+- **1)** informacje dotyczące zgłoszeń podejrzanych transakcji, prób dokonania takich transakcji, zniknięć i kradzieży znacznych ilości substancji wymienionych w załącznikach I i II do rozporządzenia (UE) nr 98/2013 lub w aktach delegowanych wydanych na podstawie art. 12 tego rozporządzenia oraz mieszanin lub substancji zawierających te substancje uzyskane na podstawie prowadzonej przez krajowy punkt kontaktowy ewidencji takich zgłoszeń;
+- **2)** informacje i wnioski dotyczące funkcjonowania krajowego punktu kontaktowego i systemu zgłaszania.
 
 #### Rozdział 3 Przepisy karne
 

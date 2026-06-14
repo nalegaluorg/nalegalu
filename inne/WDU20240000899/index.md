@@ -8,7 +8,7 @@ pos: 899
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa

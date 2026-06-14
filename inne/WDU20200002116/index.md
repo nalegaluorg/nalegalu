@@ -8,10 +8,10 @@ pos: 2116
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 listopada 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2116 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 27 listopada 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2116/text.pdf) |
 
-Poz. 2116 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 27 listopada 2020 r.
-w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Michała Cieślaka Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje: § 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Michała Cieślaka Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:
+§ 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 § 2. Do zakresu działania ministra należy w szczególności:
 1) koordynacja i prowadzenie działań sprzyjających dialogowi i współpracy Prezesa Rady Ministrów z jednostkami samorządu terytorialnego;
 2) analiza potrzeb w zakresie tworzenia warunków do działania i rozwoju samorządu terytorialnego, proponowanie rozwiązań w tym zakresie oraz zapewnienie wsparcia doradczego i konsultacyjnego w tym zakresie;

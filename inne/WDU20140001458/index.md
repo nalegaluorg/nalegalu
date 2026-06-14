@@ -8,7 +8,7 @@ pos: 1458
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 102/9/A/2014 WYROK z dnia 16 października 2014 r.

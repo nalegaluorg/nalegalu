@@ -8,10 +8,10 @@ pos: 2071
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2071 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 28 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002071) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2071/text.pdf) |
 
-Poz. 2071 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 28 września 2023 r.
-w sprawie określenia grup nauczycieli, wychowawców i innych pracowników pedagogicznych uprawnionych do otrzymania wsparcia sfinansowanego ze środków publicznych Na podstawie art. 2 ust. 2 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie określenia grup nauczycieli, wychowawców i innych pracowników pedagogicznych uprawnionych do otrzymania wsparcia sfinansowanego ze środków publicznych Na podstawie art. 2 ust. 2 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) grupy nauczycieli, wychowawców i innych pracowników pedagogicznych pozostających w stosunku pracy na dzień 30 września 2023 r. w publicznych i niepublicznych szkołach podstawowych oraz w publicznych szkołach artystycznych, a także w niepublicznych szkołach artystycznych posiadających uprawnienia publicznej szkoły artystycznej, realizujących kształcenie w klasach odpowiadających klasom IV–VIII szkół podstawowych, uprawnionych do otrzymania wsparcia sfinansowanego ze środków publicznych, zwanego dalej „wsparciem”;
 2) kolejność otrzymania wsparcia przez grupy, o których mowa w pkt 1.
 § 2. 1. Określa się następujące grupy nauczycieli, wychowawców i innych pracowników pedagogicznych ze szkół, o których mowa w § 1 pkt 1, którzy są uprawnieni do otrzymania wsparcia polegającego na otrzymaniu jednorazowych świadczeń w formie bonów na zakup laptopów lub laptopów przeglądarkowych:
@@ -37,7 +37,7 @@ w sprawie określenia grup nauczycieli, wychowawców i innych pracowników pedag
 2. Określa się następującą kolejność wsparcia dla grup, o których mowa w ust. 1:
 1) pkt 1 ‒ na dzień 10 października 2023 r.,
 2) pkt 2 ‒ na dzień 11 października 2023 r.,
-3) pkt 3 ‒ na dzień 12 października 2023 r., Dziennik Ustaw – 2 – Poz. 2071
+3) pkt 3 ‒ na dzień 12 października 2023 r.,
 4) pkt 4 ‒ na dzień 13 października 2023 r.
 ‒ od którego liczony jest termin 30 dni na złożenie wniosku w celu otrzymania wsparcia w rozumieniu art. 15 ust. 1 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

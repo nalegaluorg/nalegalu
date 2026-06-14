@@ -8,7 +8,7 @@ pos: 2073
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o statusie sędziów Trybunału Konstytucyjnego
@@ -30,6 +30,11 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** sposób nawiązania, zakres i zasady ustania stosunku służbowego sędziego Trybunału Konstytucyjnego, zwanego dalej „Trybunałem”;
+- **2)** prawa i obowiązki sędziego Trybunału;
+- **3)** sprawy immunitetu i nietykalności osobistej oraz zasady odpowiedzialności dyscyplinarnej sędziego Trybunału;
+- **4)** prawa i obowiązki sędziego Trybunału w stanie spoczynku.
 
 **Art. 2.**
 
@@ -145,7 +150,7 @@ source: "isap-pdf"
 - **1)** w przypadku, o którym mowa w ust. 1 pkt 1 – Prezes Trybunału w drodze postanowienia;
 - **2)** w przypadkach, o których mowa w ust. 1 pkt 2–4 – Zgromadzenie Ogólne w drodze uchwały.
 
-3. Prezes Trybunału przekazuje niezwłocznie Marszałkowi postanowienie lub uchwałę stwierdzające wygaśnięcie mandatu sędziego Trybunału.
+3. Prezes Trybunału przekazuje niezwłocznie Marszałkowi Sejmu postanowienie lub uchwałę stwierdzające wygaśnięcie mandatu sędziego Trybunału.
 
 **Art. 18a.** W razie śmierci sędziego Trybunału stosuje się odpowiednio przepisy dotyczące świadczeń, o których mowa w art. 101 i art. 102 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm. ), oraz przepisy wydane na podstawie art. 103 tej ustawy.
 
@@ -202,6 +207,9 @@ source: "isap-pdf"
 
 **Art. 26.** Zawiadomienie o popełnieniu przez sędziego Trybunału przewinienia, o którym mowa w art. 24 ust. 1, do Prezesa Trybunału może złożyć:
 
+- **1)** sędzia Trybunału;
+- **2)** Prezydent Rzeczypospolitej Polskiej na wniosek Prokuratora Generalnego, po zasięgnięciu opinii Pierwszego Prezesa Sądu Najwyższego.
+
 **Art. 27.**
 
 1. Prezes Trybunału w drodze losowania wyznacza sędziego Trybunału – rzecznika dyscyplinarnego, zwanego dalej „rzecznikiem dyscyplinarnym”.
@@ -219,6 +227,11 @@ source: "isap-pdf"
 **Art. 28.** Od orzeczenia dyscyplinarnego wydanego w drugiej instancji kasacja nie przysługuje.
 
 **Art. 29.** Karami dyscyplinarnymi są:
+
+- **1)** upomnienie;
+- **2)** nagana;
+- **3)** obniżenie wynagrodzenia sędziego Trybunału w wysokości od 10% do 20% na okres do 2 lat;
+- **4)** złożenie sędziego Trybunału z urzędu.
 
 **Art. 30.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych oraz ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm. ).
 

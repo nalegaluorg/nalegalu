@@ -8,10 +8,10 @@ pos: 2460
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2460 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 27 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002460) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2460/text.pdf) |
 
-Poz. 2460 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 27 grudnia 2017 r.
-w sprawie określenia formatu i trybu przekazywania informacji o amerykańskich rachunkach raportowanych Na podstawie art. 4 ust. 8 ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. U. z 2017 r. poz. 1858) zarządza się, co następuje: § 1. Rozporządzenie określa format i tryb przekazywania informacji o amerykańskich rachunkach raportowanych, o których mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, zwanych dalej „informacjami”.
+w sprawie określenia formatu i trybu przekazywania informacji o amerykańskich rachunkach raportowanych Na podstawie art. 4 ust. 8 ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. U. z 2017 r. poz. 1858) zarządza się, co następuje:
+§ 1. Rozporządzenie określa format i tryb przekazywania informacji o amerykańskich rachunkach raportowanych, o których mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, zwanych dalej „informacjami”.
 § 2. Informacje są przesyłane za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych.
 § 3. Struktura logiczna urzędowego poświadczenia odbioru informacji jest udostępniona w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 § 4. Informacje są opatrzone kwalifikowanym podpisem elektronicznym.

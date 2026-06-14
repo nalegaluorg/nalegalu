@@ -8,7 +8,7 @@ pos: 2198
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 80/A/2016 WYROK z dnia 18 października 2016 r.

@@ -8,7 +8,7 @@ pos: 315
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 21 listopada 1995 r., sygn. K 12/95 i z mocy art. 7 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U.

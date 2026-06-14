@@ -8,10 +8,10 @@ pos: 727
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 kwietnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 727 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 14 kwietnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,24 +25,24 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/727/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 14 kwietnia 2021 r.
-zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 3 w ust. 2 po pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „6) świadczeń ambulatoryjnych realizowanych w znieczuleniu określa załącznik nr 7 do rozporządzenia.”;
+zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm. ) wprowadza się następujące zmiany:
+1) w § 3 w ust. 2 po pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „6) świadczeń ambulatoryjnych realizowanych w znieczuleniu – określa załącznik nr 7 do rozporządzenia.”;
 2) w załączniku nr 2:
 a) przed pierwszą tabelą wprowadza się oznaczenie: „I. BADANIA LABORATORYJNE”,
-b) w części I po lp. 53 dodaje się lp. 53a–53c w brzmieniu: 53a C81 Płytki krwi ocena ekspresji GPIb/IX/V Medyczne laboratorium diagnostyczne wpisane 53b C82 Płytki krwi ocena ekspresji do ewidencji Krajowej Rady Diagnostów GPIIb/IIIa Laboratoryjnych.
-53c C83 Płytki krwi czas okluzji
-c) po lp. 68 dodaje się lp. 68a w brzmieniu: Medyczne laboratorium diagnostyczne wpisane 68a G14 Trombina test generacji do ewidencji Krajowej Rady Diagnostów Laboratoryjnych.
+b) w części I po lp. 53 dodaje się lp. 53a–53c w brzmieniu: 53a C81 Płytki krwi – ocena ekspresji GPIb/IX/V Medyczne laboratorium diagnostyczne wpisane 53b C82 Płytki krwi – ocena ekspresji do ewidencji Krajowej Rady Diagnostów GPIIb/IIIa Laboratoryjnych.
+53c C83 Płytki krwi – czas okluzji
+c) po lp. 68 dodaje się lp. 68a w brzmieniu: Medyczne laboratorium diagnostyczne wpisane 68a G14 Trombina – test generacji do ewidencji Krajowej Rady Diagnostów Laboratoryjnych.
 d) po lp. 69 dodaje się lp. 69a w brzmieniu: Ocena rozpuszczalności skrzepu Medyczne laboratorium diagnostyczne wpisane 69a G16 w 5-molowym roztworze do ewidencji Krajowej Rady Diagnostów mocznika Laboratoryjnych.
-e) po lp. 106 dodaje się lp. 106a–106c w brzmieniu: 106a G91 ADAMTS13 stężenie Medyczne laboratorium diagnostyczne wpisane 106b G92 ADAMTS13 aktywność do ewidencji Krajowej Rady Diagnostów Laboratoryjnych.
-106c G93 ADAMTS13 inhibitor
+e) po lp. 106 dodaje się lp. 106a–106c w brzmieniu: 106a G91 ADAMTS13 – stężenie Medyczne laboratorium diagnostyczne wpisane 106b G92 ADAMTS13 – aktywność do ewidencji Krajowej Rady Diagnostów Laboratoryjnych.
+106c G93 ADAMTS13 – inhibitor
 f) po lp. 142 dodaje się lp. 142a w brzmieniu: Medyczne laboratorium diagnostyczne wpisane 142a I64 Antykoagulant toczniowy do ewidencji Krajowej Rady Diagnostów Laboratoryjnych.
 3) w załączniku nr 3 w części „U. Inne procedury” po lp. 483 dodaje się lp. 484 i 485 w brzmieniu: 484 41.311 Biopsja aspiracyjna szpiku Poradnia hematologiczna lub poradnia onkologii kostnego i hematologii dziecięcej lub poradnia onkologiczna.
 Pozostałe wymagania: gabinet diagnostyczno485 41.312 Trepanobiopsja szpiku kostnego -zabiegowy w lokalizacji.
 4) w załączniku nr 5 po lp. 27 dodaje się lp. 28–31 w brzmieniu określonym w załączniku nr 1 do niniejszego rozporządzenia;
 5) dodaje się załącznik nr 7 w brzmieniu określonym w załączniku nr 2 do niniejszego rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski 28 brak Skazy Wymagania Właściwe dla realizacji świadczenia porada specjalistyczna hematologia kodu krwotoczne formalne lub porada specjalistyczna onkologia i hematologia dziecięca.
+Minister Zdrowia: A. Niedzielski 28 brak Skazy Wymagania Właściwe dla realizacji świadczenia porada specjalistyczna – hematologia kodu krwotoczne – formalne lub porada specjalistyczna – onkologia i hematologia dziecięca.
 diagnostyka podstawowa Warunki Do świadczenia kwalifikują się osoby niezależnie od wieku z podejrzeniem kwalifikacji lub rozpoznaniem następujących chorób: do świadczenia 1) D66 Dziedziczny niedobór czynnika VIII;
 2) D67 Dziedziczny niedobór czynnika IX;
 3) D68.0 Choroba von Willebranda;
@@ -69,8 +69,8 @@ d) ocenę wyników przeprowadzonych badań i postawienie rozpoznania,
 e) podjęcie decyzji dotyczącej dalszego postępowania, w tym ustalenie leczenia hemostatycznego u chorych wymagających leczenia,
 f) ustalenie optymalnego dawkowania leków hemostatycznych u chorych wymagających leczenia;
 2) panel badań do oceny hemostazy.
-Zapewnienie 1. Panel badań do oceny hemostazy obejmuje następujące badania: realizacji badań 1) płytki krwi liczba;
-2) płytki krwi czas okluzji;
+Zapewnienie 1. Panel badań do oceny hemostazy obejmuje następujące badania: realizacji badań 1) płytki krwi – liczba;
+2) płytki krwi – czas okluzji;
 3) czas protrombinowy (PT) albo wskaźnik protrombinowy;
 4) czas częściowej tromboplastyny po aktywacji (APTT);
 5) fibrynogen (FIBR);
@@ -80,38 +80,38 @@ Zapewnienie 1. Panel badań do oceny hemostazy obejmuje następujące badania: r
 2) oznaczenie grupy krwi układu ABO i Rh;
 3) ocena rozpuszczalności skrzepu w 5-molowym roztworze mocznika;
 4) czas reptylazowy (RT);
-5) czynnik krzepnięcia II (FII) aktywność;
-6) czynnik krzepnięcia V (FV) aktywność;
-7) czynnik krzepnięcia VII (FVII) aktywność;
-8) czynnik krzepnięcia VIII (FVIII) aktywność (metodą chromogenną);
-9) czynnik krzepnięcia VIII (FVIII) aktywność;
-10) czynnik krzepnięcia IX (FIX) aktywność (metodą koagulacyjną jednostopniową);
-11) czynnik krzepnięcia X (FX) aktywność;
-12) czynnik krzepnięcia IX (FIX) aktywność (metodą chromogenną);
-13) czynnik krzepnięcia XI (FXI) aktywność;
-14) czynnik krzepnięcia XII (FXII) aktywność;
-15) czynnik krzepnięcia XIII (FXIII) aktywność;
-16) czynnik von Willebranda (vWF) stężenie;
-17) czynnik von Willebranda (vWF) aktywność (wiązanie do kolagenu);
-18) czynnik von Willebranda (vWF) aktywność (wiązanie do GPIb);
-19) czynnik von Willebranda (vWF) aktywność kofaktora ristocetyny;
-20) fibrynogen (FIBR) metodą inną niż koagulometryczna;
-21) inhibitory krzepnięcia test korekcji osoczem prawidłowym;
-22) inhibitor czynnika krzepnięcia VIII miano;
+5) czynnik krzepnięcia II (FII) – aktywność;
+6) czynnik krzepnięcia V (FV) – aktywność;
+7) czynnik krzepnięcia VII (FVII) – aktywność;
+8) czynnik krzepnięcia VIII (FVIII) – aktywność (metodą chromogenną);
+9) czynnik krzepnięcia VIII (FVIII) – aktywność;
+10) czynnik krzepnięcia IX (FIX) – aktywność (metodą koagulacyjną jednostopniową);
+11) czynnik krzepnięcia X (FX) – aktywność;
+12) czynnik krzepnięcia IX (FIX) – aktywność (metodą chromogenną);
+13) czynnik krzepnięcia XI (FXI) – aktywność;
+14) czynnik krzepnięcia XII (FXII) – aktywność;
+15) czynnik krzepnięcia XIII (FXIII) – aktywność;
+16) czynnik von Willebranda (vWF) – stężenie;
+17) czynnik von Willebranda (vWF) – aktywność (wiązanie do kolagenu);
+18) czynnik von Willebranda (vWF) – aktywność (wiązanie do GPIb);
+19) czynnik von Willebranda (vWF) – aktywność kofaktora ristocetyny;
+20) fibrynogen (FIBR) – metodą inną niż koagulometryczna;
+21) inhibitory krzepnięcia – test korekcji osoczem prawidłowym;
+22) inhibitor czynnika krzepnięcia VIII – miano;
 23) antykoagulant toczniowy;
 24) ferrytyna.
 Personel 1) lekarz specjalista w dziedzinie hematologii lub onkologii i hematologii dziecięcej, lub transfuzjologii klinicznej, lub transfuzjologii, lub lekarz z I stopniem specjalizacji w dziedzinie transfuzjologii albo
 2) lekarz specjalista w dziedzinie hematologii lub onkologii i hematologii dziecięcej, lub transfuzjologii klinicznej, lub transfuzjologii oraz lekarz w trakcie specjalizacji w dziedzinie hematologii;
 3) pielęgniarki.
-Organizacja 1) zapewnienie odpowiednich warunków do przechowywania koncenudzielania tratów czynników krzepnięcia i desmopresyny chłodnia o tempeświadczeń raturze 2–8°C;
-2) zapewnienie warunków do podawania koncentratów czynników krzepnięcia i desmopresyny w lokalizacji;
+Organizacja 1) zapewnienie odpowiednich warunków do przechowywania koncenudzielania tratów czynników krzepnięcia i desmopresyny – chłodnia o tempeświadczeń raturze 2–8°C;
+2) zapewnienie warunków do podawania koncentratów czynników krzepnięcia i desmopresyny – w lokalizacji;
 3) zapewnienie kontynuacji leczenia w przypadku wystąpienia powikłań krwotocznych;
 4) zapewnienie osłony hemostatycznej przy zabiegach stomatologicznych i chirurgicznych.
-Pozostałe Zapewnienie realizacji badań laboratoryjnych: wymagania 1) przesiewowych układu hemostazy w lokalizacji;
-2) aktywności wszystkich czynników krzepnięcia oraz miana inhibitora czynnika VIII lub IX dostęp do oznaczania aktywności czynników krzepnięcia:
+Pozostałe Zapewnienie realizacji badań laboratoryjnych: wymagania 1) przesiewowych układu hemostazy – w lokalizacji;
+2) aktywności wszystkich czynników krzepnięcia oraz miana inhibitora czynnika VIII lub IX – dostęp do oznaczania aktywności czynników krzepnięcia:
 a) zapewniając transport świeżego osocza w ciągu 4 godzin od pobrania do laboratorium wykonującego badanie (w trybie cito) oraz
 b) zapewniając transport zamrożonych próbek osocza ubogopłytkowego w temperaturze co najmniej −20°C (w trybie planowym).
-29 brak Skazy Wymagania Właściwe dla realizacji świadczenia porada specjalistyczna hematolokodu krwotoczne formalne gia lub porada specjalistyczna onkologia i hematologia dziecięca.
+29 brak Skazy Wymagania Właściwe dla realizacji świadczenia porada specjalistyczna – hematolokodu krwotoczne – formalne gia lub porada specjalistyczna – onkologia i hematologia dziecięca.
 diagnostyka rozszerzona Warunki Do świadczenia kwalifikują się osoby niezależnie od wieku, u których kwalifikacji przeprowadzony proces diagnostyki podstawowej nie został zakończony do świadczenia rozpoznaniem zasadniczym.
 Zakres Diagnostyka rozszerzona skaz krwotocznych ma umożliwić ostateczne świadczenia potwierdzenie lub wykluczenie rozpoznania tych skaz krwotocznych, w przypadku których postawienie rozpoznania wymaga przeprowadzenia badań wysokospecjalistycznych. Świadczenie obejmuje porady lekarskie, w tym:
 1) przeprowadzenie wywiadu;
@@ -121,37 +121,37 @@ Zakres Diagnostyka rozszerzona skaz krwotocznych ma umożliwić ostateczne świa
 5) podjęcie decyzji dotyczącej dalszej oceny stanu zdrowia, w tym ustalenie leczenia hemostatycznego u chorych wymagających leczenia;
 6) ocenę i weryfikację dawkowania leków hemostatycznych u chorych wymagających leczenia.
 Zapewnienie Rozszerzony panel badań diagnostycznych obejmuje następujące badania: realizacji 1) morfologia krwi, z pełnym różnicowaniem granulocytów;
-badań 2) płytki krwi agregacja po stymulacji różnymi czynnikami (zestaw testów);
-3) płytki krwi agregacja pod wpływem różnych stężeń ristocetyny (test RIPA);
-4) płytki krwi ocena ekspresji GPIb/ IX/ V;
-5) płytki krwi ocena ekspresji GPIIb/ IIIa;
-6) płytki krwi czas okluzji;
+badań 2) płytki krwi – agregacja po stymulacji różnymi czynnikami (zestaw testów);
+3) płytki krwi – agregacja pod wpływem różnych stężeń ristocetyny (test RIPA);
+4) płytki krwi – ocena ekspresji GPIb/ IX/ V;
+5) płytki krwi – ocena ekspresji GPIIb/ IIIa;
+6) płytki krwi – czas okluzji;
 7) oznaczenie grupy krwi układu ABO i Rh;
 8) α-2-antyplazmina;
 9) czas częściowej tromboplastyny po aktywacji (APTT);
 10) czas lizy skrzepu euglobulin;
-11) trombina test generacji;
+11) trombina – test generacji;
 12) czas protrombinowy (PT) albo wskaźnik protrombinowy;
 13) czas trombinowy (TT);
-14) czynnik von Willebranda (vWF) test wiązania z czynnikiem VIII;
-15) czynnik von Willebranda (vWF) analiza multimetrów;
+14) czynnik von Willebranda (vWF) – test wiązania z czynnikiem VIII;
+15) czynnik von Willebranda (vWF) – analiza multimetrów;
 16) fibrynogen (FIBR);
 17) inhibitor aktywatora plazminogenu 1 (PAI1);
-18) plazminogen aktywność;
+18) plazminogen – aktywność;
 19) tromboelastogram;
-20) ADAMTS13 stężenie;
-21) ADAMTS13 aktywność;
-22) ADAMTS13 inhibitor;
+20) ADAMTS13 – stężenie;
+21) ADAMTS13 – aktywność;
+22) ADAMTS13 – inhibitor;
 23) ferrytyna.
 Personel 1) lekarz specjalista w dziedzinie hematologii lub onkologii i hematologii dziecięcej, lub transfuzjologii klinicznej, lub transfuzjologii, lub lekarz z I stopniem specjalizacji w dziedzinie transfuzjologii albo
 2) lekarz specjalista w dziedzinie hematologii lub onkologii i hematologii dziecięcej, lub transfuzjologii klinicznej, lub transfuzjologii oraz lekarz w trakcie specjalizacji w dziedzinie hematologii;
 3) pielęgniarki.
-Organizacja 1) zapewnienie odpowiednich warunków do przechowywania koncenudzielania tratów czynników krzepnięcia i desmopresyny chłodnia o tempeświadczeń raturze 2–8°C;
-2) zapewnienie warunków do podawania koncentratów czynników krzepnięcia i desmopresyny w lokalizacji;
+Organizacja 1) zapewnienie odpowiednich warunków do przechowywania koncenudzielania tratów czynników krzepnięcia i desmopresyny – chłodnia o tempeświadczeń raturze 2–8°C;
+2) zapewnienie warunków do podawania koncentratów czynników krzepnięcia i desmopresyny – w lokalizacji;
 3) zapewnienie kontynuacji leczenia w przypadku wystąpienia powikłań krwotocznych;
 4) zapewnienie osłony hemostatycznej przy zabiegach stomatologicznych i chirurgicznych.
-Pozostałe wymagania Zapewnienie realizacji testów agregacji płytek krwi i czasu okluzji w lokalizacji lub w miejscu pobrania.
-30 brak Skazy Wymagania Właściwe dla realizacji świadczenia porada specjalistyczna hematolokodu krwotoczne formalne gia lub porada specjalistyczna onkologia i hematologia dziecięca.
+Pozostałe Zapewnienie realizacji testów agregacji płytek krwi i czasu okluzji w lowymagania kalizacji lub w miejscu pobrania.
+30 brak Skazy Wymagania Właściwe dla realizacji świadczenia porada specjalistyczna – hematolokodu krwotoczne – formalne gia lub porada specjalistyczna – onkologia i hematologia dziecięca.
 podstawowa ocena stanu Warunki Do świadczenia kwalifikują się osoby niezależnie od wieku z rozpoznazdrowia kwalifikacji niem następujących chorób: do świadczenia 1) D66 Dziedziczny niedobór czynnika VIII;
 2) D67 Dziedziczny niedobór czynnika IX;
 3) D68.0 Choroba von Willebranda;
@@ -193,14 +193,14 @@ Zapewnienie Panel badań laboratoryjnych stosowanych do podstawowej oceny stanu 
 8) czas częściowej tromboplastyny po aktywacji (APTT);
 9) czas protrombinowy (PT) albo wskaźnik protrombinowy;
 10) czas trombinowy (TT);
-11) czynnik krzepnięcia VIII (FVIII) aktywność (metodą chromogenną);
-12) czynnik krzepnięcia VIII (FVIII) aktywność;
-13) czynnik krzepnięcia IX (FIX) aktywność (metodą koagulacyjną jednostopniową);
-14) czynnik von Willebranda (vWF) aktywność kofaktora ristocetyny;
+11) czynnik krzepnięcia VIII (FVIII) – aktywność (metodą chromogenną);
+12) czynnik krzepnięcia VIII (FVIII) – aktywność;
+13) czynnik krzepnięcia IX (FIX) – aktywność (metodą koagulacyjną jednostopniową);
+14) czynnik von Willebranda (vWF) – aktywność kofaktora ristocetyny;
 15) fibrynogen (FIBR);
-16) inhibitory krzepnięcia test korekcji osoczem prawidłowym;
-17) inhibitor czynnika krzepnięcia VIII miano;
-18) inhibitor czynnika krzepnięcia IX miano;
+16) inhibitory krzepnięcia – test korekcji osoczem prawidłowym;
+17) inhibitor czynnika krzepnięcia VIII – miano;
+18) inhibitor czynnika krzepnięcia IX – miano;
 19) mocznik;
 20) potas (K);
 21) sód (Na);
@@ -212,16 +212,16 @@ Zapewnienie Panel badań laboratoryjnych stosowanych do podstawowej oceny stanu 
 Personel 1) lekarz specjalista w dziedzinie hematologii lub onkologii i hematologii dziecięcej, lub transfuzjologii klinicznej, lub transfuzjologii, lub lekarz z I stopniem specjalizacji w dziedzinie transfuzjologii albo
 2) lekarz specjalista w dziedzinie hematologii lub onkologii i hematologii dziecięcej, lub transfuzjologii klinicznej, lub transfuzjologii oraz lekarz w trakcie specjalizacji w dziedzinie hematologii;
 3) pielęgniarki.
-Organizacja 1) zapewnienie odpowiednich warunków do przechowywania koncenudzielania tratów czynników krzepnięcia i desmopresyny chłodnia o tempeświadczeń raturze 2–8°C;
-2) zapewnienie warunków do podawania koncentratów czynników krzepnięcia i desmopresyny w lokalizacji;
+Organizacja 1) zapewnienie odpowiednich warunków do przechowywania koncenudzielania tratów czynników krzepnięcia i desmopresyny – chłodnia o tempeświadczeń raturze 2–8°C;
+2) zapewnienie warunków do podawania koncentratów czynników krzepnięcia i desmopresyny – w lokalizacji;
 3) zapewnienie kontynuacji leczenia w przypadku wystąpienia powikłań krwotocznych;
 4) zapewnienie osłony hemostatycznej przy zabiegach stomatologicznych i chirurgicznych.
-Pozostałe Zapewnienie realizacji badań laboratoryjnych: wymagania 1) przesiewowych układu hemostazy w lokalizacji;
-2) aktywności wszystkich czynników krzepnięcia oraz miana inhibitora czynnika VIII lub IX dostęp do oznaczania aktywności czynników krzepnięcia:
+Pozostałe Zapewnienie realizacji badań laboratoryjnych: wymagania 1) przesiewowych układu hemostazy – w lokalizacji;
+2) aktywności wszystkich czynników krzepnięcia oraz miana inhibitora czynnika VIII lub IX – dostęp do oznaczania aktywności czynników krzepnięcia:
 a) zapewniając transport świeżego osocza w ciągu 4 godzin od pobrania do laboratorium wykonującego badanie (w trybie cito) oraz
 b) zapewniając transport zamrożonych próbek osocza ubogopłytkowego w temperaturze co najmniej −20°C (w trybie planowym);
 3) wirusologicznych (diagnostyka zakażeń HBV, HCV, HIV).
-31 brak Skazy Wymagania Właściwe dla realizacji świadczenia porada specjalistyczna hematolokodu krwotoczne formalne gia lub porada specjalistyczna onkologia i hematologia dziecięca.
+31 brak Skazy Wymagania Właściwe dla realizacji świadczenia porada specjalistyczna – hematolokodu krwotoczne – formalne gia lub porada specjalistyczna – onkologia i hematologia dziecięca.
 rozszerzona ocena stanu Warunki Do świadczenia kwalifikują się osoby niezależnie od wieku, u których zdrowia kwalifikacji ze względu na występujące czynniki ryzyka podstawowa ocena stanu do świadczenia zdrowia jest niewystarczająca do podjęcia decyzji terapeutycznej.
 Zakres Rozszerzona ocena stanu zdrowia w przypadku skaz krwotocznych ma świadczenia umożliwić ocenę stanu zdrowia oraz obecności powikłań samej skazy krwotocznej, umożliwiającą podjęcie dalszych decyzji terapeutycznych, oraz zapewnić monitorowanie pod kątem chorób układu sercowo-naczyniowego, nowotworowych, osteoporozy.
 Świadczenie obejmuje:
@@ -251,7 +251,7 @@ Zapewnienie Panel badań laboratoryjnych i obrazowych stosowanych do rozszerzone
 7) czas protrombinowy (PT) albo wskaźnik protrombinowy;
 8) czas trombinowy (TT);
 9) fibrynogen (FIBR);
-10) inhibitory krzepnięcia test korekcji osoczem prawidłowym;
+10) inhibitory krzepnięcia – test korekcji osoczem prawidłowym;
 11) wirus zapalenia wątroby typu C (HCV) Przeciwciała (anty-HCV);
 12) bilirubina całkowita;
 13) potas (K);
@@ -264,17 +264,17 @@ Zapewnienie Panel badań laboratoryjnych i obrazowych stosowanych do rozszerzone
 20) wirus zapalenia wątroby typu B HBs Antygen;
 21) wirus zapalenia wątroby typu B Przeciwciała HBs;
 22) badanie ogólne moczu (profil);
-23) czynnik krzepnięcia VIII (FVIII) aktywność;
+23) czynnik krzepnięcia VIII (FVIII) – aktywność;
 24) wirus zapalenia wątroby typu C HCV-RNA;
 25) witamina D-25 OH;
-26) czynnik von Willebranda (vWF) aktywność kofaktora ristocetyny;
-27) inhibitor czynnika krzepnięcia VIII miano;
-28) inhibitor czynnika krzepnięcia IX miano;
+26) czynnik von Willebranda (vWF) – aktywność kofaktora ristocetyny;
+27) inhibitor czynnika krzepnięcia VIII – miano;
+28) inhibitor czynnika krzepnięcia IX – miano;
 29) białko C-reaktywne (CRP);
 30) α-fetoproteina (AFP);
 31) kwas moczowy;
-32) trombina test generacji;
-33) czynnik krzepnięcia IX (FIX) aktywność (metodą koagulacyjną jednostopniową);
+32) trombina – test generacji;
+33) czynnik krzepnięcia IX (FIX) – aktywność (metodą koagulacyjną jednostopniową);
 34) tromboelastogram;
 35) antygen swoisty dla stercza (PSA) całkowity;
 36) białko całkowite, rozdział elektroforetyczny;
@@ -284,16 +284,16 @@ Zapewnienie Panel badań laboratoryjnych i obrazowych stosowanych do rozszerzone
 40) dehydrogenaza mleczanowa (LDH);
 41) transferryna;
 42) triglicerydy;
-43) płytki krwi czas okluzji;
-44) czynnik krzepnięcia V (FV) aktywność;
-45) czynnik krzepnięcia VII (FVII) aktywność;
-46) czynnik krzepnięcia X (FX) aktywność;
-47) czynnik krzepnięcia XI (FXI) aktywność;
-48) czynnik krzepnięcia II (FII) aktywność;
-49) czynnik krzepnięcia XII (FXII) aktywność;
-50) czynnik krzepnięcia XIII (FXIII) aktywność;
-51) USG naczyń szyi doppler;
-52) USG brzucha inne;
+43) płytki krwi – czas okluzji;
+44) czynnik krzepnięcia V (FV) – aktywność;
+45) czynnik krzepnięcia VII (FVII) – aktywność;
+46) czynnik krzepnięcia X (FX) – aktywność;
+47) czynnik krzepnięcia XI (FXI) – aktywność;
+48) czynnik krzepnięcia II (FII) – aktywność;
+49) czynnik krzepnięcia XII (FXII) – aktywność;
+50) czynnik krzepnięcia XIII (FXIII) – aktywność;
+51) USG naczyń szyi – doppler;
+52) USG brzucha – inne;
 53) USG wielomiejscowe;
 54) USG stawów barkowych;
 55) USG stawów biodrowych;
@@ -301,7 +301,7 @@ Zapewnienie Panel badań laboratoryjnych i obrazowych stosowanych do rozszerzone
 57) USG stawów kolanowych;
 58) USG stawów rąk lub stawów stóp;
 59) RTG klatki piersiowej;
-60) RTG kości miednicy lub biodra inne;
+60) RTG kości miednicy lub biodra – inne;
 61) RTG uda lub kolana, lub podudzia;
 62) RTG kości łokcia lub przedramienia;
 63) RTG kostki/stopy;
@@ -343,17 +343,16 @@ Zapewnienie Panel badań laboratoryjnych i obrazowych stosowanych do rozszerzone
 Personel 1) lekarz specjalista w dziedzinie hematologii lub onkologii i hematologii dziecięcej, lub transfuzjologii klinicznej, lub transfuzjologii, lub lekarz z I stopniem specjalizacji w dziedzinie transfuzjologii albo
 2) lekarz specjalista w dziedzinie hematologii lub onkologii i hematologii dziecięcej, lub transfuzjologii klinicznej, lub transfuzjologii oraz lekarz w trakcie specjalizacji w dziedzinie hematologii;
 3) pielęgniarki.
-Organizacja 1) zapewnienie odpowiednich warunków do przechowywania koncenudzielania tratów czynników krzepnięcia i desmopresyny chłodnia o tempeświadczeń raturze 2–8°C;
-2) zapewnienie warunków do podawania koncentratów czynników krzepnięcia i desmopresyny w lokalizacji;
+Organizacja 1) zapewnienie odpowiednich warunków do przechowywania koncenudzielania tratów czynników krzepnięcia i desmopresyny – chłodnia o tempeświadczeń raturze 2–8°C;
+2) zapewnienie warunków do podawania koncentratów czynników krzepnięcia i desmopresyny – w lokalizacji;
 3) zapewnienie kontynuacji leczenia w przypadku wystąpienia powikłań krwotocznych;
 4) zapewnienie osłony hemostatycznej przy zabiegach stomatologicznych i chirurgicznych.
-Pozostałe wymagania Zapewnienie realizacji badań:
-1) laboratoryjnych:
-a) przesiewowych układu hemostazy w lokalizacji,
-b) aktywności wszystkich czynników krzepnięcia oraz miana inhibitora czynnika VIII lub IX dostęp do oznaczania aktywności czynników krzepnięcia: zapewniając transport świeżego osocza w ciągu 4 godzin od pobrania do laboratorium wykonującego badanie (w trybie cito) oraz zapewniając transport zamrożonych próbek osocza ubogopłytkowego w temperaturze co najmniej −20°C (w trybie planowym),
+Pozostałe Zapewnienie realizacji badań: wymagania 1) laboratoryjnych:
+a) przesiewowych układu hemostazy – w lokalizacji,
+b) aktywności wszystkich czynników krzepnięcia oraz miana inhibitora czynnika VIII lub IX – dostęp do oznaczania aktywności czynników krzepnięcia: – zapewniając transport świeżego osocza w ciągu 4 godzin od pobrania do laboratorium wykonującego badanie (w trybie cito) oraz – zapewniając transport zamrożonych próbek osocza ubogopłytkowego w temperaturze co najmniej −20°C (w trybie planowym),
 c) wirusologicznych (diagnostyka zakażeń HBV, HCV, HIV);
 2) obrazowych:
-a) RTG, USG w lokalizacji,
-b) TK, RM w dostępie.
+a) RTG, USG – w lokalizacji,
+b) TK, RM – w dostępie.
 W W W
 

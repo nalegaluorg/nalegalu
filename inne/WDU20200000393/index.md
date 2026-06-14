@@ -8,10 +8,10 @@ pos: 393
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 marca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 393 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 9 marca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000393) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/393/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 9 marca 2020 r.
 w sprawie turnusów readaptacyjno-kondycyjnych dla weteranów poszkodowanych-funkcjonariuszy Na podstawie art. 29a ust. 10 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
-z 2019 r. poz. 1569 i 1726) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2019 r. poz. 1569 i 1726) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb kierowania weteranów poszkodowanych-funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa i Państwowej Straży Pożarnej, których ustalony uszczerbek na zdrowiu wynosi co najmniej 30%, zwanych dalej „weteranami poszkodowanymi-funkcjonariuszami”, wraz z pełnoletnim najbliższym członkiem rodziny na turnus readaptacyjno-kondycyjny, zwany dalej „turnusem”;
 2) ramowy program turnusu;
-3) wzór wniosku weterana poszkodowanego-funkcjonariusza o skierowanie na turnus oraz wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza na turnus wraz z miejscem na stanowisko podmiotu kierującego na turnus;
+3) wzór wniosku weterana poszkodowanego-funkcjonariusza o skierowanie na turnus oraz wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza na turnus – wraz z miejscem na stanowisko podmiotu kierującego na turnus;
 4) podmiot kierujący na turnus;
 5) miejsce prowadzenia turnusów.
 § 2. 1. Weteran poszkodowany-funkcjonariusz jest kierowany na turnus na podstawie wniosku o skierowanie na turnus.
@@ -40,7 +40,7 @@ z 2019 r. poz. 1569 i 1726) zarządza się, co następuje: § 1. Rozporządzenie
 § 3. Wniosek o skierowanie na turnus:
 1) weteran poszkodowany-funkcjonariusz Policji, Straży Granicznej albo Służby Ochrony Państwa składa do przełożonego właściwego w sprawach osobowych według miejsca pełnienia służby lub ostatniego miejsca pełnienia służby w Policji, Straży Granicznej albo Służbie Ochrony Państwa,
 2) weteran poszkodowany-funkcjonariusz Państwowej Straży Pożarnej składa do przełożonego uprawnionego do powołania lub mianowania,
-3) weteran poszkodowany-funkcjonariusz Biura Ochrony Rządu składa do Komendanta Służby Ochrony Państwa zwanych dalej „podmiotem kierującym”.
+3) weteran poszkodowany-funkcjonariusz Biura Ochrony Rządu składa do Komendanta Służby Ochrony Państwa – zwanych dalej „podmiotem kierującym”.
 § 4. 1. Weterana poszkodowanego-funkcjonariusza wraz z pełnoletnim najbliższym członkiem rodziny kieruje na turnus podmiot kierujący.
 2. O skierowaniu weterana poszkodowanego-funkcjonariusza wraz z pełnoletnim najbliższym członkiem rodziny na turnus podmiot kierujący niezwłocznie zawiadamia:
 1) weterana poszkodowanego-funkcjonariusza oraz informuje go o miejscu prowadzenia, terminie rozpoczęcia i zakończenia turnusu;
@@ -50,7 +50,7 @@ z 2019 r. poz. 1569 i 1726) zarządza się, co następuje: § 1. Rozporządzenie
 § 5. 1. Turnusy są prowadzone w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, w których są udzielane stacjonarne i całodobowe świadczenia opieki zdrowotnej z zakresu leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
 2. Ramowy program turnusu jest określony w załączniku nr 3 do rozporządzenia.
 § 6. Rozporządzenie wchodzi w życie z dniem 11 marca 2020 r.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży Załącznikido rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 marca 2020 r.poz. (…) Załącznik nr 1 WZÓR WZÓR Do …………………………………………..
+Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży Załącznikido rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 marca 2020 r.poz. (…) WZÓR Załącznik nr 1 WZÓR Do …………………………………………..
 …………………………………………..
 WNIOSEK WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA O SKIEROWANIE NA TURNUS READAPTACYJNO-KONDYCYJNY I. DANE SKŁADAJĄCEGO WNIOSEK: Imię i nazwisko: …………………………………………………………………………………………………................
 Numer PESEL: …………………………………………………………………………………………………...……….

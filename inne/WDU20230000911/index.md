@@ -8,10 +8,10 @@ pos: 911
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 maja 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 911 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 12 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/911/text.pdf) |
 
-Poz. 911 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 12 maja 2023 r.
-w sprawie ustanowienia Pełnomocnika Rządu do spraw polsko-ukraińskiej współpracy rozwojowej Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188) zarządza się, co następuje: § 1. 1. Ustanawia się Pełnomocnika Rządu do spraw polsko-ukraińskiej współpracy rozwojowej, zwanego dalej „Pełnomocnikiem”.
+w sprawie ustanowienia Pełnomocnika Rządu do spraw polsko-ukraińskiej współpracy rozwojowej Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188) zarządza się, co następuje:
+§ 1. 1. Ustanawia się Pełnomocnika Rządu do spraw polsko-ukraińskiej współpracy rozwojowej, zwanego dalej „Pełnomocnikiem”.
 2. Pełnomocnikiem jest sekretarz stanu albo podsekretarz stanu w urzędzie obsługującym ministra właściwego do spraw rozwoju regionalnego.
 § 2. 1. Do zadań Pełnomocnika należy:
 1) wspieranie współpracy pomiędzy organami administracji rządowej, agencjami wykonawczymi, zrzeszeniami, izbami gospodarczymi i innymi krajowymi podmiotami zaangażowanymi w polsko-ukraińską współpracę rozwojową, w szczególności w obszarze odbudowy Ukrainy;
@@ -41,7 +41,7 @@ w sprawie ustanowienia Pełnomocnika Rządu do spraw polsko-ukraińskiej współ
 3) ukraińską Państwową Agencją Odbudowy i Rozwoju Infrastruktury;
 4) pełnomocnikami do spraw odbudowy Ukrainy w państwach trzecich oraz z innymi organami i podmiotami zagranicznymi o podobnym charakterze i zakresie działania;
 5) Dyrekcją do spraw Ukrainy w Komisji Europejskiej.
-Dziennik Ustaw – 2 – Poz. 911 § 3. 1. Pełnomocnik wykonuje zadania, o których mowa w § 2, współdziałając z organami administracji rządowej, które są obowiązane do udzielania pomocy Pełnomocnikowi, w szczególności przez udostępnianie mu informacji i dokumentów niezbędnych do realizacji jego zadań.
+§ 3. 1. Pełnomocnik wykonuje zadania, o których mowa w § 2, współdziałając z organami administracji rządowej, które są obowiązane do udzielania pomocy Pełnomocnikowi, w szczególności przez udostępnianie mu informacji i dokumentów niezbędnych do realizacji jego zadań.
 2. Pełnomocnik może, w celu właściwej realizacji powierzonych mu zadań, współpracować z organami jednostek samorządu terytorialnego.
 § 4. Pełnomocnik może, w zakresie powierzonych mu zadań, zlecać przeprowadzanie badań i ekspertyz oraz powoływać zespoły eksperckie lub doradcze.
 § 5. Obsługę merytoryczną, organizacyjno-prawną, techniczną i kancelaryjno-biurową Pełnomocnika zapewnia urząd obsługujący ministra właściwego do spraw rozwoju regionalnego.

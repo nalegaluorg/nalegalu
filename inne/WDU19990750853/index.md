@@ -8,7 +8,7 @@ pos: 853
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utracie mocy obowiązującej art. 4 ust. 3 ustawy o radcach prawnych, art. 30 ust. 2 ustawy o Sądzie Najwyższym, art. 15 ustawy o prokuraturze, art. 53 § 2 i art. 61 § 2 pkt 3 ustawy - Prawo o ustroju sądów powszechnych, art. 12a ustawy o Naczelnym Sądzie Administracyjnym, art. 12 ustawy o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych oraz niektórych innych ustaw oraz w części: art. 4b ust.

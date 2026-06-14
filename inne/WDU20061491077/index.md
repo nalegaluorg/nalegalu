@@ -8,7 +8,7 @@ pos: 1077
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o spółdzielni europejskiej
@@ -31,7 +31,19 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** powstanie, organizację i działalność spółdzielni europejskiej, w zakresie nieuregulowanym w rozporządzeniu Rady nr 1435/2003/WE z dnia 22 lipca 2003 r. w sprawie statutu spółdzielni europejskiej (SCE) (Dz. Urz. WE L 207 z 18.08.2003, s. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 17, t. 1, s. 280);
+- **2)** zasady zaangażowania pracowników w spółdzielni europejskiej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** bank spółdzielczy – bank spółdzielczy w rozumieniu art. 2 pkt 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz. 265 i 1191), zwanej dalej „ustawą o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających”;
+- **2)** państwa członkowskie – państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **3)** podmiot uczestniczący – spółdzielnię, osobę prawną lub osobę fizyczną bezpośrednio uczestniczącą w założeniu spółdzielni europejskiej;
+- **4)** rejestr – rejestr przedsiębiorców w Krajowym Rejestrze Sądowym;
+- **5)** rozporządzenie – rozporządzenie, o którym mowa w art. 1 pkt 1;
+- **6)** spółdzielcza kasa oszczędnościowo-kredytowa – spółdzielczą kasę oszczędnościowo-kredytową w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i 1191), zwanej dalej „ustawą o spółdzielczych kasach oszczędnościowo-kredytowych”;
+- **7)** spółdzielnia – spółdzielnię w rozumieniu art. 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593 oraz z 2025 r. poz. 1556), zwanej dalej „Prawem spółdzielczym”;
+- **8)** spółdzielnia europejska – spółdzielnię europejską określoną w rozporządzeniu.
 
 **Art. 3.** Spółdzielnia europejska, zwana dalej „SCE”, podlega wpisowi do rejestru na zasadach określonych dla spółek akcyjnych. Do zgłoszenia SCE do rejestru stosuje się odpowiednio art. 318 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187), zwanej dalej „Kodeksem spółek handlowych”.
 
@@ -214,6 +226,19 @@ source: "isap-pdf"
 ### DZIAŁ 1 Przepisy ogólne
 
 **Art. 34.** Użyte w tytule III określenia oznaczają:
+
+- **1)** spółka zależna podmiotu uczestniczącego lub SCE – przedsiębiorcę, na którego ten podmiot lub SCE wywiera dominujący wpływ w rozumieniu art. 4 ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. z 2019 r. poz. 1832), zwanej dalej „ustawą o europejskich radach zakładowych”;
+- **2)** zakład – jednostkę organizacyjną nieposiadającą osobowości prawnej, wykonującą działalność gospodarczą w oparciu o wydzielony zespół ludzi i środków materialnych;
+- **3)** zainteresowana spółka zależna lub zakład – spółkę zależną lub zakład podmiotu uczestniczącego, mające stać się spółką zależną lub zakładem SCE po jej założeniu;
+- **4)** pracownik – osobę uznawaną za pracownika przez prawo danego państwa członkowskiego, które znajduje zastosowanie do stosunków pracy;
+- **5)** przedstawiciel pracowników – przedstawiciela pracowników w rozumieniu prawa państwa członkowskiego lub zgodnie z praktyką tego państwa;
+- **6)** specjalny zespół negocjacyjny – zespół utworzony zgodnie z przepisami rozdziału 1 działu 2 niniejszego tytułu w celu prowadzenia negocjacji dotyczących zawarcia porozumienia o zaangażowaniu pracowników w SCE z podmiotami uczestniczącymi;
+- **7)** organ przedstawicielski – organ reprezentujący pracowników, utworzony na mocy porozumienia, o którym mowa w rozdziale 2 działu 2 niniejszego tytułu lub na mocy przepisów rozdziału 3 działu 2 niniejszego tytułu;
+- **8)** zaangażowanie pracowników – zapewnienie prawa pracowników do informacji, konsultacji i uczestnictwa, umożliwiające im wywieranie wpływu na decyzje podejmowane w SCE;
+- **9)** informowanie – informowanie organu przedstawicielskiego lub, w razie niepowołania takiego organu, ustanowionych w inny sposób przedstawicieli pracowników, w sprawach dotyczących SCE oraz jej spółek zależnych i zakładów mających siedzibę w różnych państwach członkowskich, jak również w sprawach wykraczających poza uprawnienia organów spółek zależnych lub zakładów podejmujących decyzje w danych państwach członkowskich, w zakresie, formie i terminie umożliwiających organowi przedstawicielskiemu lub ustanowionym w inny sposób przedstawicielom pracowników przeanalizowanie dostarczonych informacji i przygotowanie się do konsultacji z właściwym organem SCE;
+- **10)** konsultacje – wymianę poglądów i podjęcie dialogu między organem przedstawicielskim lub ustanowionymi w inny sposób przedstawicielami pracowników a właściwym organem SCE w zakresie, formie i terminie umożliwiających wzięcie pod uwagę opinii wydanej po ich zakończeniu przy podejmowaniu decyzji w SCE;
+- **11)** uczestnictwo – wpływ organu przedstawicielskiego lub ustanowionych w inny sposób przedstawicieli pracowników na sprawy SCE przez prawo wyboru lub wyznaczenia określonej liczby członków do rady nadzorczej albo rady administrującej SCE, albo prawo ich rekomendowania lub prawo sprzeciwienia się wyznaczeniu niektórych albo wszystkich członków tych organów;
+- **12)** dane identyfikacyjne – imię i nazwisko, nazwę lub firmę podmiotów uczestniczących, zainteresowanych spółek zależnych lub zakładów, ich miejsce zamieszkania lub siedzibę, a jeżeli posiadają one numer identyfikacyjny lub są zarejestrowane w rejestrze – także ten numer identyfikacyjny lub numer w rejestrze.
 
 ### DZIAŁ 2 Procedura negocjacyjna mająca zastosowanie do spółdzielni europejskiej utworzonej przez co najmniej dwie osoby prawne lub powstałej w drodze przekształcenia
 
@@ -410,7 +435,21 @@ source: "isap-pdf"
 
 **Art. 60.** Zasady standardowe zaangażowania pracowników w SCE, określone w niniejszym rozdziale, stosuje się od dnia jej rejestracji, w przypadku gdy:
 
+- **1)** podmioty uczestniczące i specjalny zespół negocjacyjny tak postanowią albo
+- **2)** porozumienie nie zostanie zawarte w terminie określonym w art. 53 i: 57 ust. 1.
+    - **a)** właściwe organy podmiotów uczestniczących zdecydują o stosowaniu tych zasad i tym samym o kontynuowaniu postępowania rejestracyjnego i
+    - **b)** specjalny zespół negocjacyjny nie podejmie uchwały, o której mowa w art.
+
 **Art. 61.** Zasady standardowe uczestnictwa w SCE stosuje się wyłącznie w przypadkach:
+
+- **1)** utworzenia SCE w drodze przekształcenia spółdzielni, jeżeli zgodnie z prawem państwa członkowskiego przepisy odnoszące się do uczestnictwa w radzie nadzorczej albo radzie administrującej spółdzielni miały zastosowanie do spółdzielni przekształconej w SCE;
+- **2)** utworzenia SCE w drodze połączenia, gdy:
+    - **a)** przed dniem rejestracji SCE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółdzielniach uczestniczących, obejmujących co najmniej 25 % łącznej liczby pracowników we wszystkich spółdzielniach uczestniczących, albo
+    - **b)** przed dniem rejestracji SCE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółdzielniach uczestniczących, obejmujących mniej niż 25 % łącznej liczby pracowników we wszystkich spółdzielniach uczestniczących, o ile specjalny zespół negocjacyjny tak postanowi. Specjalny zespół negocjacyjny podejmuje decyzję w tej sprawie po upływie terminu, o którym mowa w art. 53, lub przed upływem tego terminu, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem;
+
+- **3)** utworzenia SCE w inny sposób niż określony w pkt 1 i 2, gdy: Specjalny zespół negocjacyjny podejmuje decyzję w tej sprawie po upływie terminu, o którym mowa w art. 53, lub przed upływem tego terminu, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem.
+    - **a)** przed dniem rejestracji SCE jedna lub więcej form uczestnictwa były stosowane w jednym lub więcej podmiotów uczestniczących, obejmujących co najmniej 50 % łącznej liczby pracowników we wszystkich podmiotach uczestniczących, albo
+    - **b)** przed dniem rejestracji SCE jedna lub więcej form uczestnictwa były stosowane w jednym lub więcej podmiotów uczestniczących, obejmujących mniej niż 50 % łącznej liczby pracowników we wszystkich podmiotach uczestniczących, o ile specjalny zespół negocjacyjny tak postanowi.
 
 **Art. 62.**
 
@@ -447,6 +486,10 @@ source: "isap-pdf"
 **Art. 67.** Organ przedstawicielski niezwłocznie zawiadamia właściwy organ SCE o swym składzie. Właściwy organ SCE przekazuje informację o składzie organu przedstawicielskiego właściwym organom spółek zależnych i kierownictwom zakładów.
 
 **Art. 68.** Właściwy organ SCE niezwłocznie po otrzymaniu informacji o składzie organu przedstawicielskiego zwołuje zebranie organizacyjne, na którym:
+
+- **1)** następuje ukonstytuowanie się organu przedstawicielskiego;
+- **2)** organ przedstawicielski wybiera ze swojego składu przewodniczącego;
+- **3)** organ przedstawicielski uchwala wewnętrzny regulamin.
 
 **Art. 69.**
 
@@ -630,6 +673,10 @@ source: "isap-pdf"
 2. Tej samej karze podlega, kto, będąc członkiem zarządu, członkiem rady administrującej albo likwidatorem, dopuszcza do tego, że SCE przez czas dłuższy niż trzy miesiące wbrew prawu lub statutowi pozostaje bez rady administrującej w należytym składzie.
 
 **Art. 103.** Kto, będąc członkiem zarządu, członkiem rady administrującej albo likwidatorem SCE, dopuszcza do tego, że pisma i zamówienia handlowe lub inne pisma skierowane do oznaczonych osób nie zawierają wszystkich następujących danych:
+
+- **1)** firmy SCE, którą poprzedza albo po której następuje oznaczenie „SCE”, a w odpowiednich przypadkach również oznaczenie „z ograniczoną odpowiedzialnością”,
+- **2)** siedziby i adresu SCE,
+- **3)** oznaczenia sądu rejestrowego i numeru, pod którym SCE jest wpisana do rejestru, podlega grzywnie do 10 000 zł.
 
 **Art. 104.** W sprawach, o których mowa w art. 102 i 103, grzywnę nakłada sąd rejestrowy.
 

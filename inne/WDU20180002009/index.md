@@ -8,10 +8,10 @@ pos: 2009
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 października 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2009 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 15 października 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2009/text.pdf) |
 
-Poz. 2009 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 15 października 2018 r.
-w sprawie minimalnej sumy gwarancyjnej ubezpieczenia odpowiedzialności cywilnej podmiotu odpowiedzialnego za system identyfikacji elektronicznej Na podstawie art. 21d ust. 1 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579 oraz z 2018 r. poz. 650 i 1544) zarządza się, co następuje: § 1. Rozporządzenie określa minimalną sumę gwarancyjną ubezpieczenia, o którym mowa w art. 21b ust. 2 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej, zwanego dalej „ubezpieczeniem OC”, za szkody wynikające z działania lub zaniechania, wyrządzone w związku z wykorzystaniem środków identyfikacji elektronicznej wydanych w systemie identyfikacji elektronicznej, w usługach online świadczonych przez podmioty, o których mowa w art. 2 lub art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669), lub podmioty sektora publicznego, o których mowa w art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r.
+w sprawie minimalnej sumy gwarancyjnej ubezpieczenia odpowiedzialności cywilnej podmiotu odpowiedzialnego za system identyfikacji elektronicznej Na podstawie art. 21d ust. 1 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579 oraz z 2018 r. poz. 650 i 1544) zarządza się, co następuje:
+§ 1. Rozporządzenie określa minimalną sumę gwarancyjną ubezpieczenia, o którym mowa w art. 21b ust. 2 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej, zwanego dalej „ubezpieczeniem OC”, za szkody wynikające z działania lub zaniechania, wyrządzone w związku z wykorzystaniem środków identyfikacji elektronicznej wydanych w systemie identyfikacji elektronicznej, w usługach online świadczonych przez podmioty, o których mowa w art. 2 lub art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669), lub podmioty sektora publicznego, o których mowa w art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r.
 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73), zwanego dalej „rozporządzeniem 910/2014”, spowodowane przez awarie, przerwy lub błędy systemu lub przez zaciągnięcie zobowiązań w wyniku nieuprawnionego wykorzystania środka identyfikacji elektronicznej.
 § 2. 1. Minimalna suma gwarancyjna ubezpieczenia OC za szkody, o których mowa w § 1, wynosi równowartość w złotych:
 1) 5000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte umową ubezpieczenia OC – w przypadku środków identyfikacji elektronicznej o niskim poziomie bezpieczeństwa, o którym mowa w art. 8 ust. 2 lit. a rozporządzenia 910/2014;

@@ -8,10 +8,10 @@ pos: 68
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 stycznia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 68 ROZPORZĄDZENIE MINISTRA ROZwOju I TECHNOLOGII z dnia 17 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/68/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJ U I TECHNOLOGII z dnia 17 grudnia 2021 r.
-w sprawie warunków technicznych dozoru technicznego dla niektórych urządzeń ciśnieniowych podlegających dozorowi technicznemu Na podstawie art. 8 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2021 r. poz. 272 i 2269) zarządza się, co następuje: Dział i Przepisy ogólne § 1. Rozporządzenie określa warunki techniczne dozoru technicznego w zakresie projektowania, wytwarzania i eksploatacji urządzeń technicznych, materiałów i elementów stosowanych do wytwarzania, naprawy lub modernizacji urządzeń technicznych oraz naprawy i modernizacji urządzeń technicznych dla urządzeń ciśnieniowych:
+w sprawie warunków technicznych dozoru technicznego dla niektórych urządzeń ciśnieniowych podlegających dozorowi technicznemu Na podstawie art. 8 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2021 r. poz. 272 i 2269) zarządza się, co następuje: Dział i Przepisy ogólne
+§ 1. Rozporządzenie określa warunki techniczne dozoru technicznego w zakresie projektowania, wytwarzania i eksploatacji urządzeń technicznych, materiałów i elementów stosowanych do wytwarzania, naprawy lub modernizacji urządzeń technicznych oraz naprawy i modernizacji urządzeń technicznych dla urządzeń ciśnieniowych:
 1) kotłów parowych,
 2) szybkowarów ciśnieniowych,
 3) kotłów cieczowych,
@@ -34,67 +34,69 @@ w sprawie warunków technicznych dozoru technicznego dla niektórych urządzeń 
 5) zbiorników przenośnych, z wyjątkiem zbiorników eksploatowanych jako transportowe naczynia ciśnieniowe w rozumieniu przepisów o przewozie towarów niebezpiecznych,
 6) wytwornic acetylenu i rurociągów technologicznych acetylenu wraz z osprzętem, przeznaczonych do transportu acetylenu,
 7) rurociągów technologicznych,
-8) rurociągów pary łączących kocioł z turbogeneratorem –o których mowa w przepisach wydanych na podstawie art. 5 ust. 2 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym.
+8) rurociągów pary łączących kocioł z turbogeneratorem – o których mowa w przepisach wydanych na podstawie art. 5 ust. 2 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) automatyka zabezpieczająca obwody i systemy elektryczne, elektroniczne, programowalne elektroniczne oraz hydrauliczne i pneumatyczne realizujące funkcje bezpieczeństwa:
+1) automatyka zabezpieczająca – obwody i systemy elektryczne, elektroniczne, programowalne elektroniczne oraz hydrauliczne i pneumatyczne realizujące funkcje bezpieczeństwa:
 a) o których mowa w pkt 19 lit. a tiret drugie oraz w lit. b i c,
 b) obwody wyłączników awaryjnych oraz łączników bezpieczeństwa,
 c) urządzenia monitorujące realizujące funkcje bezpieczeństwa, o ile mają zastosowanie, takie jak: wskaźniki lub układy alarmowe, które umożliwiają podjęcie odpowiedniego automatycznego lub ręcznego działania, mającego na celu utrzymanie urządzenia ciśnieniowego w granicach parametrów dopuszczalnych;
-2) bezpiecznik acetylenowy urządzenie zabezpieczające wytwornicę acetylenu lub instalację acetylenową przed przedostaniem się do niej tlenu, płomienia, powietrza lub fali ciśnieniowej powstałej w wyniku cofnięcia płomienia z palnika acetylenowego;
-3) bezpiecznik acetylenowy wodny bezpiecznik acetylenowy, którego prawidłowe działanie jest uzależnione od określonego poziomu wody lub roztworu wodnego;
-4) butla na gaz pędny zbiornik ciśnieniowy służący do zasilania zbiornika na czynnik gaśniczy;
-5) ciśnienie dopuszczalne graniczną wartość nadciśnienia przestrzeni ciśnieniowej urządzenia w najwyższym punkcie przestrzeni ciśnieniowej, przy której organ właściwej jednostki dozoru technicznego zezwala na eksploatację urządzenia ciśnieniowego, oznaczone symbolem PD;
-6) dopuszczalny stopień napełnienia zbiornika stałego wyrażoną w procentach największą część pojemności zbiornika, która w najwyższej temperaturze dopuszczalnej może być napełniona gazem skroplonym lub skroplonym schłodzonym, oznaczony symbolem F;
-7) gaśnica przenośna gaśnicę o masie nieprzekraczającej 20 kg w stanie gotowym do użycia;
-8) gaśnica przewoźna gaśnicę o masie przekraczającej 20 kg w stanie gotowym do użycia;
-9) instalacja awaryjnego odstawienia kotła sodowego instalację składającą się co najmniej z instalacji szybkiego odstawienia kotła i instalacji awaryjnego spustu wody z kotła;
-10) kocioł karłowaty kocioł parowy o ciśnieniu dopuszczalnym PD < 5 barów i o pojemności całkowitej nie większej niż 5 litrów;
-11) kocioł mały kocioł parowy lub cieczowy o ciśnieniu dopuszczalnym PD < 5 barów, którego iloczyn ciśnienia dopuszczalnego PD i pojemności całkowitej V jest nie większy niż 300 barów × litr;
-12) kocioł piekarski palenisko wraz z zespołem rur grzejnych, w których wytwarzana jest para w celu przekazania energii cieplnej do komór wypiekowych;
-13) kocioł sodowy kocioł parowy, którego podstawowym paliwem są zagęszczone ługi powarzelne: miazga drzewna nasycona siarczynem sodu i wodorotlenkiem sodu;
-14) ładunek karbidu największą określoną przez wytwórcę masę karbidu umieszczaną jednorazowo w reaktorach wytwornicy acetylenu lub w zbiorniku karbidu, nie wliczając masy karbidu umieszczonego w zasobniku, przy czym:
+2) bezpiecznik acetylenowy – urządzenie zabezpieczające wytwornicę acetylenu lub instalację acetylenową przed przedostaniem się do niej tlenu, płomienia, powietrza lub fali ciśnieniowej powstałej w wyniku cofnięcia płomienia z palnika acetylenowego;
+3) bezpiecznik acetylenowy wodny – bezpiecznik acetylenowy, którego prawidłowe działanie jest uzależnione od określonego poziomu wody lub roztworu wodnego;
+4) butla na gaz pędny – zbiornik ciśnieniowy służący do zasilania zbiornika na czynnik gaśniczy;
+5) ciśnienie dopuszczalne – graniczną wartość nadciśnienia przestrzeni ciśnieniowej urządzenia w najwyższym punkcie przestrzeni ciśnieniowej, przy której organ właściwej jednostki dozoru technicznego zezwala na eksploatację urządzenia ciśnieniowego, oznaczone symbolem PD;
+6) dopuszczalny stopień napełnienia zbiornika stałego – wyrażoną w procentach największą część pojemności zbiornika, która w najwyższej temperaturze dopuszczalnej może być napełniona gazem skroplonym lub skroplonym schłodzonym, oznaczony symbolem F;
+7) gaśnica przenośna – gaśnicę o masie nieprzekraczającej 20 kg w stanie gotowym do użycia;
+8) gaśnica przewoźna – gaśnicę o masie przekraczającej 20 kg w stanie gotowym do użycia;
+9) instalacja awaryjnego odstawienia kotła sodowego – instalację składającą się co najmniej z instalacji szybkiego odstawienia kotła i instalacji awaryjnego spustu wody z kotła;
+10) kocioł karłowaty – kocioł parowy o ciśnieniu dopuszczalnym PD < 5 barów i o pojemności całkowitej nie większej niż 5 litrów;
+11) kocioł mały – kocioł parowy lub cieczowy o ciśnieniu dopuszczalnym PD < 5 barów, którego iloczyn ciśnienia dopuszczalnego PD i pojemności całkowitej V jest nie większy niż 300 barów × litr;
+12) kocioł piekarski – palenisko wraz z zespołem rur grzejnych, w których wytwarzana jest para w celu przekazania energii cieplnej do komór wypiekowych;
+13) kocioł sodowy – kocioł parowy, którego podstawowym paliwem są zagęszczone ługi powarzelne: miazga drzewna nasycona siarczynem sodu i wodorotlenkiem sodu;
+14) ładunek karbidu – największą określoną przez wytwórcę masę karbidu umieszczaną jednorazowo w reaktorach wytwornicy acetylenu lub w zbiorniku karbidu, nie wliczając masy karbidu umieszczonego w zasobniku, przy czym:
 a) dla wytwornic acetylenu szufladowych ładunek karbidu równy jest sumie ładunków umieszczanych we wszystkich jej szufladach,
 b) dla wytwornic acetylenu o zasilaniu ciągłym jako ładunek karbidu przyjmuje się zużycie karbidu wyrażone w kilogramach w ciągu jednej godziny pracy wytwornicy acetylenu z najwyższą wydajnością;
-15) naprawa metodą chemiczną zespół czynności organizacyjno-technicznych polegających na oddziaływaniu na ścianki urządzenia technicznego lub jego elementy substancjami lub preparatami chemicznymi przez:
-a) chemiczne czyszczenie w celu usunięcia zanieczyszczeń i osadów powstałych w trakcie eksploatacji urządzenia oraz wytworzenia na oczyszczonych ściankach warstwy pasywnej,
-b) trawienie w celu usunięcia produktów korozji, środków konserwujących i zanieczyszczeń pomontażowych oraz wytworzenia na oczyszczonych ściankach warstwy pasywnej;
-16) niebezpieczne uszkodzenie nieprzewidziane uszkodzenie urządzenia ciśnieniowego, w wyniku którego urządzenie nie może być eksploatowane albo przy istnieniu którego dalsza jego eksploatacja stanowi zagrożenie dla życia lub
-17) nieszczęśliwy wypadek nagłe zdarzenie, które spowodowało obrażenia ciała albo śmierć;
-18) osprzęt ciśnieniowy urządzenia wykonujące funkcje eksploatacyjne i posiadające powłoki ciśnieniowe;
-19) osprzęt zabezpieczający urządzenia i obwody realizujące funkcje bezpieczeństwa, przeznaczone do zabezpieczania urządzeń ciśnieniowych przed przekroczeniem parametrów dopuszczalnych, w szczególności:
-a) urządzenia do bezpośredniego ograniczenia ciśnienia, takie jak: zawory bezpieczeństwa, głowice bezpieczeństwa, pręty wyboczeniowe, sterowane układy zrzutu ciśnienia,
+15) naprawa metodą chemiczną – zespół czynności organizacyjno-technicznych polegających na oddziaływaniu na ścianki urządzenia technicznego lub jego elementy substancjami lub preparatami chemicznymi przez:
+a) chemiczne czyszczenie – w celu usunięcia zanieczyszczeń i osadów powstałych w trakcie eksploatacji urządzenia oraz wytworzenia na oczyszczonych ściankach warstwy pasywnej,
+b) trawienie – w celu usunięcia produktów korozji, środków konserwujących i zanieczyszczeń pomontażowych oraz wytworzenia na oczyszczonych ściankach warstwy pasywnej;
+16) niebezpieczne uszkodzenie – nieprzewidziane uszkodzenie urządzenia ciśnieniowego, w wyniku którego urządzenie nie może być eksploatowane albo przy istnieniu którego dalsza jego eksploatacja stanowi zagrożenie dla życia lub zdrowia ludzkiego oraz mienia i środowiska;
+17) nieszczęśliwy wypadek – nagłe zdarzenie, które spowodowało obrażenia ciała albo śmierć;
+18) osprzęt ciśnieniowy – urządzenia wykonujące funkcje eksploatacyjne i posiadające powłoki ciśnieniowe;
+19) osprzęt zabezpieczający – urządzenia i obwody realizujące funkcje bezpieczeństwa, przeznaczone do zabezpieczania urządzeń ciśnieniowych przed przekroczeniem parametrów dopuszczalnych, w szczególności:
+a) urządzenia do bezpośredniego ograniczenia ciśnienia, takie jak: – zawory bezpieczeństwa, głowice bezpieczeństwa, pręty wyboczeniowe, – sterowane układy zrzutu ciśnienia,
 b) ograniczniki, które aktywują środki korekcyjne albo powodują wyłączenie lub wyłączenie i zablokowanie pracy, takie jak: wyłączniki ciśnieniowe lub temperaturowe albo wyłączniki sterowane poziomem płynu,
 c) zabezpieczające pomiarowe urządzenia sterujące i regulujące;
-20) piec piekarski urządzenie, w skład którego wchodzą: kocioł piekarski, komory wypiekowe oraz urządzenia niezbędne do prowadzenia procesu wypieku;
-21) płyn gaz, ciecz i parę w postaci czystej, a także ich mieszaniny; płyn może zawierać zawiesiny ciał stałych;
-22) próba funkcjonalna przeprowadzone przez eksploatującego sprawdzenie funkcji bezpieczeństwa automatyki zabezpieczającej zgodnie z procedurami kontroli;
-23) rurociąg technologiczny system ciśnieniowy powstały przez połączenie ze sobą takich elementów, jak: rury, złączki, kształtki, kompensatory, osprzęt ciśnieniowy i osprzęt zabezpieczający oraz, we właściwych przypadkach, innych elementów ciśnieniowych (z powłokami ciśnieniowymi), służący do przemieszczania płynów w obrębie obiektu przemysłowego:
+20) piec piekarski – urządzenie, w skład którego wchodzą: kocioł piekarski, komory wypiekowe oraz urządzenia niezbędne do prowadzenia procesu wypieku;
+21) płyn – gaz, ciecz i parę w postaci czystej, a także ich mieszaniny; płyn może zawierać zawiesiny ciał stałych;
+22) próba funkcjonalna – przeprowadzone przez eksploatującego sprawdzenie funkcji bezpieczeństwa automatyki zabezpieczającej zgodnie z procedurami kontroli;
+23) rurociąg technologiczny – system ciśnieniowy powstały przez połączenie ze sobą takich elementów, jak: rury, złączki, kształtki, kompensatory, osprzęt ciśnieniowy i osprzęt zabezpieczający oraz, we właściwych przypadkach, innych elementów ciśnieniowych (z powłokami ciśnieniowymi), służący do przemieszczania płynów w obrębie obiektu przemysłowego:
 a) w instalacjach,
 b) pomiędzy instalacjami,
 c) pomiędzy instalacjami i zbiornikami magazynowymi;
 24) rurociąg pary łączący kocioł z turbogeneratorem:
-a) w bloku energetycznym: rurociąg prowadzący parę świeżą (pierwotnie przegrzaną) z przegrzewacza do części wysokoprężnej turbiny, pomiędzy głównym zaworem odcinającym parę lub złączem spawanym od strony kotła a złączem spawanym łączącym rurociąg z zaworem szybkozamykającym turbiny, bez tego zaworu, rurociąg prowadzący parę z wylotu części wysokoprężnej turbiny do przegrzewacza pary wtórnie przegrzanej, pomiędzy złączem łączącym rurociąg z zaworem zawrotnym na wylocie turbiny lub króćcem wylotowym z turbiny a złączem spawanym łączącym rurociąg z króćcem wlotowym przegrzewacza pary wodnej, rurociąg obejściowy wraz ze stacją redukcyjno-schładzającą, łączący rurociąg pary świeżej, prowadzonej do turbiny, z rurociągiem pary wylotowej z części wysokoprężnej turbiny, rurociąg prowadzący parę wtórnie przegrzaną z kotła do części średnioprężnej turbiny wraz z odgałęzieniami, prowadzącymi parę do stacji zrzutowej i do zaworów bezpieczeństwa, pomiędzy złączem spawanym łączącym rurociąg z króćcem wylotowym kotła a złączem spawanym łączącym rurociąg z zaworem szybkozamykającym części średnioprężnej turbiny, rurociągi odgałęźne od wymienionych w tiret pierwszym–czwartym, w tym do osprzętu zabezpieczającego, odwadniające i odpowietrzające do pierwszej armatury zaporowej,
-b) w układzie kolektorowym: rurociąg między wylotem pary z przegrzewacza a kolektorem lub kolektorami, kolektor wraz z połączonymi rurociągami, rurociąg łączący kolektor z turbogeneratorem, rurociągi odgałęźne od wymienionych w tiret pierwszym–trzecim, w tym do osprzętu zabezpieczającego, odwadniające i odpowietrzające do pierwszej armatury zaporowej;
-25) szybkowar ciśnieniowy naczynie kuchenne o pojemności całkowitej do 25 litrów, ciśnieniu roboczym w zakresie 0,4–1,5 bara i ciśnieniu dopuszczalnym nie wyższym niż 1,5 bara, wyposażone w zdejmowaną pokrywę, która jest mocowana w celu umożliwienia gotowania produktów spożywczych w wodzie lub parze wodnej pod ciśnieniem, przy czym naczynie to może być przeznaczone do pracy na płycie grzejnej lub być wyposażone we własne zintegrowane źródło ciepła;
-26) temperatura dopuszczalna wartość najwyższej lub najniższej temperatury roboczej, przy której organ właściwej jednostki dozoru technicznego zezwala na eksploatację urządzenia ciśnieniowego, oznaczana symbolem TD;
-27) wytwornica acetylenu niskociśnieniowa wytwornicę acetylenu, której najwyższe ciśnienie dopuszczalne nie przekracza 0,1 bara;
-28) wytwornica acetylenu przenośna wytwornicę acetylenu, której ładunek karbidu nie przekracza 10 kg, a wytworzony w niej acetylen jest doprowadzany do miejsc użytkowania:
+a) w bloku energetycznym: – rurociąg prowadzący parę świeżą (pierwotnie przegrzaną) z przegrzewacza do części wysokoprężnej turbiny, pomiędzy głównym zaworem odcinającym parę lub złączem spawanym od strony kotła a złączem spawanym łączącym rurociąg z zaworem szybkozamykającym turbiny, bez tego zaworu, – rurociąg prowadzący parę z wylotu części wysokoprężnej turbiny do przegrzewacza pary wtórnie przegrzanej, pomiędzy złączem łączącym rurociąg z zaworem zawrotnym na wylocie turbiny lub króćcem wylotowym z turbiny a złączem spawanym łączącym rurociąg z króćcem wlotowym przegrzewacza pary wodnej, – rurociąg obejściowy wraz ze stacją redukcyjno-schładzającą, łączący rurociąg pary świeżej, prowadzonej do turbiny, z rurociągiem pary wylotowej z części wysokoprężnej turbiny, – rurociąg prowadzący parę wtórnie przegrzaną z kotła do części średnioprężnej turbiny wraz z odgałęzieniami, prowadzącymi parę do stacji zrzutowej i do zaworów bezpieczeństwa, pomiędzy złączem spawanym łączącym rurociąg z króćcem wylotowym kotła a złączem spawanym łączącym rurociąg z zaworem szybkozamykającym części średnioprężnej turbiny, – rurociągi odgałęźne od wymienionych w tiret pierwszym–czwartym, w tym do osprzętu zabezpieczającego, odwadniające i odpowietrzające – do pierwszej armatury zaporowej,
+b) w układzie kolektorowym: – rurociąg między wylotem pary z przegrzewacza a kolektorem lub kolektorami, – kolektor wraz z połączonymi rurociągami, – rurociąg łączący kolektor z turbogeneratorem, – rurociągi odgałęźne od wymienionych w tiret pierwszym–trzecim, w tym do osprzętu zabezpieczającego, odwadniające i odpowietrzające – do pierwszej armatury zaporowej;
+25) szybkowar ciśnieniowy – naczynie kuchenne o pojemności całkowitej do 25 litrów, ciśnieniu roboczym w zakresie 0,4–1,5 bara i ciśnieniu dopuszczalnym nie wyższym niż 1,5 bara, wyposażone w zdejmowaną pokrywę, która jest mocowana w celu umożliwienia gotowania produktów spożywczych w wodzie lub parze wodnej pod ciśnieniem, przy czym naczynie to może być przeznaczone do pracy na płycie grzejnej lub być wyposażone we własne zintegrowane źródło ciepła;
+26) temperatura dopuszczalna – wartość najwyższej lub najniższej temperatury roboczej, przy której organ właściwej jednostki dozoru technicznego zezwala na eksploatację urządzenia ciśnieniowego, oznaczana symbolem TD;
+27) wytwornica acetylenu niskociśnieniowa – wytwornicę acetylenu, której najwyższe ciśnienie dopuszczalne nie przekracza 0,1 bara;
+28) wytwornica acetylenu przenośna – wytwornicę acetylenu, której ładunek karbidu nie przekracza 10 kg, a wytworzony w niej acetylen jest doprowadzany do miejsc użytkowania:
 a) wężami elastycznymi albo
-b) rurociągiem stalowym w przypadku ustawienia wytwornicy acetylenu w wydzielonym pomieszczeniu i zasilania nie więcej niż dwóch stanowisk poboru acetylenu wyposażonych w bezpieczniki stanowiskowe;
-29) wytwornica acetylenu stała wytwornicę acetylenu inną niż wymieniona w pkt 28;
-30) wytwornica acetylenu średniociśnieniowa wytwornicę acetylenu, której najwyższe ciśnienie dopuszczalne jest większe niż 0,1 bara, ale nie przekracza 1,5 bara;
-31) zbiornik gaśnicy na czynni k gaśniczy zbiornik ciśnieniowy zawierający czynnik gaśniczy pod stałym ciśnieniem gazu pędnego albo pod ciśnieniem wynikającym z prężności par czynnika gaśniczego lub zbiornik ciśnieniowy z czynnikiem gaśniczym zasilany gazem pędnym z butli na gaz pędny;
-32) zbiornik przeznaczony na gaz skroplony zbiornik, w którym gaz skroplony jest przechowywany w temperaturze równej lub zbliżonej do temperatury otoczenia;
-33) zbiornik przeznaczony na gaz skroplony schłodzony zbiornik, w którym temperatura gazu skroplonego i wynikające z tej temperatury ciśnienie nasycenia są utrzymywane drogą odparowania bądź sztucznego schładzania gazu lub za pomocą izolacji;
-34) zbiornik podziemny zbiornik o osi poziomej umieszczony nad lub pod poziomem gruntu, przykryty lub obsypany warstwą ziemi o grubości co najmniej 0,5 m, lub zbiornik o osi pionowej, którego najwyżej położony punkt górnego dna znajduje się co najmniej 0,5 m poniżej powierzchni otaczającego terenu;
-35) zbiornik przenośny zbiornik gaśnicy na czynnik gaśniczy, butlę aparatu oddechowego, butlę aparatu do nurkowania lub zbiornik urządzenia specjalnego;
-36) zbiornik urządzenia specjalnego zbiornik przenośny inny niż zbiornik gaśnicy na czynnik gaśniczy lub butla aparatu oddechowego, lub butla aparatu do nurkowania, który nie jest naczyniem ciśnieniowym lub innym urządzeniem w rozumieniu przepisów o przewozie towarów niebezpiecznych;
-37) zbiornik w instalacji ziębniczej zbiornik wchodzący w skład instalacji, w której czynnik ziębniczy odparowuje i skrapla się w obiegu zamkniętym;
-38) zbiornik wypełniony katalizatorem lub złożem aktywnym zbiornik z wypełnieniem, które może ulec uszkodzeniu lub zmianie właściwości, w tym przez dezaktywację katalizatora lub sorbentu w wyniku kontaktu z powietrzem lub wilgocią, w trakcie usuwania ze zbiornika i ponownego zasypu.
+b) rurociągiem stalowym – w przypadku ustawienia wytwornicy acetylenu w wydzielonym pomieszczeniu i zasilania nie więcej niż dwóch stanowisk poboru acetylenu wyposażonych w bezpieczniki stanowiskowe;
+29) wytwornica acetylenu stała – wytwornicę acetylenu inną niż wymieniona w pkt 28;
+30) wytwornica acetylenu średniociśnieniowa – wytwornicę acetylenu, której najwyższe ciśnienie dopuszczalne jest większe niż 0,1 bara, ale nie przekracza 1,5 bara;
+31) zbiornik gaśnicy na czynnik gaśniczy – zbiornik ciśnieniowy zawierający czynnik gaśniczy pod stałym ciśnieniem gazu pędnego albo pod ciśnieniem wynikającym z prężności par czynnika gaśniczego lub zbiornik ciśnieniowy z czynnikiem gaśniczym zasilany gazem pędnym z butli na gaz pędny;
+32) zbiornik przeznaczony na gaz skroplony – zbiornik, w którym gaz skroplony jest przechowywany w temperaturze równej lub zbliżonej do temperatury otoczenia;
+33) zbiornik przeznaczony na gaz skroplony schłodzony – zbiornik, w którym temperatura gazu skroplonego i wynikające z tej temperatury ciśnienie nasycenia są utrzymywane drogą odparowania bądź sztucznego schładzania gazu lub za pomocą izolacji;
+34) zbiornik podziemny – zbiornik o osi poziomej umieszczony nad lub pod poziomem gruntu, przykryty lub obsypany warstwą ziemi o grubości co najmniej 0,5 m, lub zbiornik o osi pionowej, którego najwyżej położony punkt górnego dna znajduje się co najmniej 0,5 m poniżej powierzchni otaczającego terenu;
+35) zbiornik przenośny – zbiornik gaśnicy na czynnik gaśniczy, butlę aparatu oddechowego, butlę aparatu do nurkowania lub zbiornik urządzenia specjalnego;
+36) zbiornik urządzenia specjalnego – zbiornik przenośny inny niż zbiornik gaśnicy na czynnik gaśniczy lub butla aparatu oddechowego, lub butla aparatu do nurkowania, który nie jest naczyniem ciśnieniowym lub innym urządzeniem w rozumieniu przepisów o przewozie towarów niebezpiecznych;
+37) zbiornik w instalacji ziębniczej – zbiornik wchodzący w skład instalacji, w której czynnik ziębniczy odparowuje i skrapla się w obiegu zamkniętym;
+38) zbiornik wypełniony katalizatorem lub złożem aktywnym – zbiornik z wypełnieniem, które może ulec uszkodzeniu lub zmianie właściwości, w tym przez dezaktywację katalizatora lub sorbentu w wyniku kontaktu z powietrzem lub wilgocią, w trakcie usuwania ze zbiornika i ponownego zasypu.
+§ 3. Urządzenia ciśnieniowe projektuje się:
 1) w sposób zapewniający ich bezpieczną eksploatację w określonym czasie i warunkach możliwych do przewidzenia;
 2) z materiałów właściwych dla danego czynnika roboczego.
 § 4. Urządzenia ciśnieniowe nieobjęte w zakresie projektowania przepisami o systemach oceny zgodności i nadzoru rynku lub o przewozie towarów niebezpiecznych projektuje się zgodnie ze specyfikacją techniczną uzgodnioną z organem właściwej jednostki dozoru technicznego.
 § 5. Urządzenia ciśnieniowe wyposaża się w osprzęt umożliwiający ich prawidłową eksploatację i przeprowadzanie badań.
+§ 6. Materiały przeznaczone do wytwarzania, naprawy lub modernizacji urządzeń ciśnieniowych oraz ich elementów powinny:
 1) spełniać wymagania określone w Polskich Normach lub w specyfikacjach technicznych, o których mowa w ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym, uzgodnionych z organem właściwej jednostki dozoru technicznego;
 2) być dostarczone z dokumentami kontroli odbiorczej, ustalonymi z organem właściwej jednostki dozoru technicznego na etapie uzgadniania dokumentacji technicznej dotyczącej wytwarzania, naprawy lub modernizacji.
 § 7. 1. Materiały przeznaczone do wytwarzania, naprawy lub modernizacji urządzeń ciśnieniowych oraz ich elementów powinny być oznakowane w sposób zapewniający ich identyfikację zgodnie z Polskimi Normami lub przyjętymi specyfikacjami technicznymi.
@@ -105,17 +107,19 @@ b) rurociągiem stalowym w przypadku ustawienia wytwornicy acetylenu w wydzielon
 3) być odporne chemicznie w założonym okresie eksploatacji;
 4) być odpowiednie do przewidywanej technologii wytwarzania, napraw i modernizacji;
 5) być tak dobierane, aby uniknąć niepożądanych skutków łączenia różnych materiałów.
+§ 9. 1. Urządzenia ciśnieniowe wytwarza się zgodnie ze specyfikacjami technicznymi uzgodnionymi z organem właściwej jednostki dozoru technicznego.
 2. złącza spajane urządzeń ciśnieniowych, przeróbkę plastyczną i obróbkę cieplną wykonuje się zgodnie z instrukcjami technologicznymi, uzgodnionymi z organem właściwej jednostki dozoru technicznego, na podstawie kwalifikowanej przez właściwą jednostkę dozoru technicznego technologii spajania, przeróbki plastycznej i obróbki cieplnej. zakres badań elementów próbnych i kryteria ich akceptacji powinny być zgodne z Polskimi Normami lub specyfikacjami technicznymi uzgodnionymi z organem właściwej jednostki dozoru technicznego i określonymi w dokumentacji projektowej.
 3. Wytwórca urządzenia ciśnieniowego wystawia dokument poświadczający, że urządzenie zostało wykonane i zbadane zgodnie z projektową dokumentacją techniczną i warunkami określonymi w warunkach uprawnienia, o których mowa w art. 9 ust. 1 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym.
 § 10. Przepisów § 3, § 4 i § 9 oraz działu iii w zakresie wytwarzania nie stosuje się do urządzeń ciśnieniowych:
 1) podlegających obowiązkowej ocenie zgodności, dla których określono wymagania w bezpośrednio stosowanym unijnym prawodawstwie harmonizacyjnym lub przepisach wdrażających unijne prawodawstwo harmonizacyjne;
-2) poddanych w toku eksploatacji istotnym zmianom ich oryginalnej charakterystyki lub przeznaczenia, do których zaDział V Eksploatacja
+2) poddanych w toku eksploatacji istotnym zmianom ich oryginalnej charakterystyki lub przeznaczenia, do których zastosowano przepisy dotyczące projektowania i wytwarzania, o których mowa w pkt 1.
+§ 11. 1. Przed przystąpieniem do eksploatacji urządzenia ciśnieniowego eksploatujący składa wniosek w postaci papierowej albo elektronicznej do organu właściwej jednostki dozoru technicznego w celu uzyskania decyzji zezwalającej na eksploatację urządzenia.
 2. Do wniosku, o którym mowa w ust. 1, eksploatujący dołącza, w postaci papierowej w dwóch egzemplarzach albo w postaci elektronicznej, dokumentację zawierającą w szczególności:
 1) opis techniczny urządzenia ciśnieniowego;
 2) dokumenty dostarczone przez wytwarzającego wraz z urządzeniem ciśnieniowym, określone w przepisach dotyczących oznakowania CE w rozumieniu art. 2 pkt 20 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm. ), zwanego dalej „CE”, dla urządzeń wytworzonych zgodnie z przepisami o systemach oceny zgodności i nadzoru rynku albo, po uzgodnieniu z organem właściwej jednostki dozoru technicznego, dokumentację umożliwiającą ocenę wyjściowego poziomu bezpieczeństwa urządzenia;
 3) rysunek urządzenia ciśnieniowego z podaniem nominalnej i minimalnej grubości ścianek głównych elementów, w szczególności płaszcza i den, oraz wykazem materiałów użytych do jego budowy; informacje o nominalnej i minimalnej grubości ścianek mogą być podane w innym dokumencie;
 4) o ile ma to zastosowanie:
-a) schemat technologiczny instalacji z zaznaczeniem lokalizacji urządzenia, źródeł zasilania, osprzętu ciśnieniowego oraz osprzętu zabezpieczającego i automatyki zabezpieczającej, a w przypadku automatyki zabezpieczającej dodatkowo: wykaz elementów automatyki zabezpieczającej z podaniem typów, wytwórców lub zamiennie innych charakterystycznych parametrów elementów automatyki zabezpieczającej mających znaczenie dla projektowanej niezawodności automatyki i umożliwiających prawidłową ocenę doboru elementów w przypadku konieczności wymiany w toku dalszej eksploatacji, zakresów pomiarowych i wartości nastaw oraz, jeżeli ma to zastosowanie, także ich oznaczeń technologicznych, schematy elektryczne obwodowe i logiczne układu automatyki zabezpieczającej, opis sposobu oraz częstotliwość przeprowadzenia prób funkcjonalnych, z uwzględnieniem uruchomienia środków korekcyjnych lub przejścia urządzenia w stan bezpieczny, dokumentację dodatkową określoną w zastosowanych specyfikacjach technicznych automatyki zabezpieczającej, w szczególności: instrukcje obsługi i konserwacji zainstalowanego wyposażenia automatyki zabezpieczającej, aktualne protokoły kalibracji i nastaw członów pomiarowych oraz przetworników,
+a) schemat technologiczny instalacji z zaznaczeniem lokalizacji urządzenia, źródeł zasilania, osprzętu ciśnieniowego oraz osprzętu zabezpieczającego i automatyki zabezpieczającej, a w przypadku automatyki zabezpieczającej dodatkowo: – wykaz elementów automatyki zabezpieczającej z podaniem typów, wytwórców lub zamiennie innych charakterystycznych parametrów elementów automatyki zabezpieczającej mających znaczenie dla projektowanej niezawodności automatyki i umożliwiających prawidłową ocenę doboru elementów w przypadku konieczności wymiany w toku dalszej eksploatacji, zakresów pomiarowych i wartości nastaw oraz, jeżeli ma to zastosowanie, także ich oznaczeń technologicznych, – schematy elektryczne obwodowe i logiczne układu automatyki zabezpieczającej, – opis sposobu oraz częstotliwość przeprowadzenia prób funkcjonalnych, z uwzględnieniem uruchomienia środków korekcyjnych lub przejścia urządzenia w stan bezpieczny, – dokumentację dodatkową określoną w zastosowanych specyfikacjach technicznych automatyki zabezpieczającej, w szczególności: instrukcje obsługi i konserwacji zainstalowanego wyposażenia automatyki zabezpieczającej, aktualne protokoły kalibracji i nastaw członów pomiarowych oraz przetworników,
 b) plan usytuowania urządzenia ciśnieniowego, z uwzględnieniem rozmieszczenia sąsiednich urządzeń lub budynków,
 c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprzętu ciśnieniowego, elementów urządzenia ciśnieniowego i ich połączeń oraz źródeł zasilania, wraz z ich dokumentacją;
 5) instrukcję eksploatacji urządzenia ciśnieniowego w języku polskim, zwaną dalej „instrukcją eksploatacji”.
@@ -143,7 +147,7 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 1) agregatu,
 2) maszyny,
 3) zespołu urządzeń ciśnieniowych,
-4) instalacji technologicznej w której jest zainstalowane urządzenie ciśnieniowe.
+4) instalacji technologicznej – w której jest zainstalowane urządzenie ciśnieniowe.
 5. W przypadku wyposażenia urządzenia ciśnieniowego w osprzęt zabezpieczający i osprzęt ciśnieniowy, który powoduje wyłączenie urządzenia po wystąpieniu zakłóceń, bez możliwości jego uszkodzenia, w instrukcji eksploatacji określa się warunki użytkowania urządzenia ciśnieniowego bez stałej obecności osób je obsługujących oraz czynności związane z jego obsługą, mające na celu przywrócenie normalnej pracy urządzenia.
 6. W przypadku zbiorników przenośnych, o których mowa w § 1 pkt 5, wprowadzanych do obrotu w zespole urządzeń ciśnieniowych oznakowanym CE instrukcja eksploatacji urządzenia ciśnieniowego ogranicza się do instrukcji użytkowania dołączonej przez wytwórcę tego zespołu.
 § 14. 1. Eksploatację urządzeń ciśnieniowych prowadzi się zgodnie z ich przeznaczeniem, zasadami określonymi w rozporządzeniu oraz instrukcją eksploatacji, stosując odpowiednie środki bezpieczeństwa.
@@ -175,15 +179,16 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 § 20. 1. Dla urządzeń w instalacjach procesowych w przemyśle rafineryjnym i petrochemicznym, o których mowa w pozycji 85 oraz w pozycjach od 96 do 102 załącznika nr 1 do rozporządzenia, eksploatujący może opracować program badań eksploatacyjnych, zawierający wymagania dla rodzajów, zakresów i terminów badań diagnostycznych z określeniem kryteriów akceptacji wyników tych badań, oraz innych wymaganych działań niezbędnych dla zapewnienia bezpieczeństwa eksploatacji urządzenia ciśnieniowego.
 2. Program badań eksploatacyjnych opracowuje się na podstawie analizy bezpieczeństwa eksploatacji urządzenia i w oparciu o standardy techniczne, odpowiednie normy, specyfikacje techniczne uzgodnione z organem właściwej jednostki dozoru technicznego oraz znajomość stanu technicznego urządzenia. Przez analizę bezpieczeństwa eksploatacji rozumie się udokumentowany proces obejmujący identyfikację zagrożeń związanych z eksploatacją urządzenia oraz określenie potencjalnych mechanizmów degradacji i miejsc ich występowania oraz sposobu wykrywania przy zastosowaniu odpowiednich badań diagnostycznych, mający na celu ocenę przydatności urządzenia do bezpiecznej eksploatacji w określonym analizą okresie.
 3. Program badań eksploatacyjnych uzgadnia się z organem właściwej jednostki dozoru technicznego.
-1) odbiorcze w warunkach gotowości do pracy;
-2) okresowe w terminach określonych dla danego rodzaju urządzenia w załączniku nr 1 do rozporządzenia;
-3) doraźne wynikające z bieżących potrzeb, w szczególności: eksploatacyjne, powypadkowe, poawaryjne lub wykonywane w ramach nadzoru i kontroli, o których mowa w art. 37 pkt 1 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym.
+§ 21. 1. W toku eksploatacji urządzeń ciśnieniowych przeprowadzane są badania techniczne:
+1) odbiorcze – w warunkach gotowości do pracy;
+2) okresowe – w terminach określonych dla danego rodzaju urządzenia w załączniku nr 1 do rozporządzenia;
+3) doraźne – wynikające z bieżących potrzeb, w szczególności: eksploatacyjne, powypadkowe, poawaryjne lub wykonywane w ramach nadzoru i kontroli, o których mowa w art. 37 pkt 1 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym.
 2. Badania odbiorcze obejmują:
 1) sprawdzenie, czy urządzenie ciśnieniowe jest zainstalowane i wyposażone zgodnie z dokumentacją, o której mowa w § 11 ust. 2;
 2) sprawdzenie działania osprzętu zabezpieczającego i osprzętu ciśnieniowego, a w razie potrzeby dokonanie ich regulacji;
 3) dodatkowe badania, w tym próby funkcjonalne, zgodnie z wymaganiami szczegółowymi odpowiednio do rodzaju urządzenia ciśnieniowego oraz wymaganiami zawartymi w instrukcji eksploatacji i dokumentacji, o której mowa w § 11 ust. 2;
 4) dodatkowe badania umożliwiające ocenę wyjściowego poziomu bezpieczeństwa urządzenia, o której mowa w § 11 ust. 2 pkt 2.
-3. W ramach badań odbiorczych, w technicznie uzasadnionych przypadkach, badania, które zostały wykonane i udokumentowane w ramach procesu oceny zgodności urządzenia lub zespołu urządzeń ciśnieniowych, nie muszą być ponownie
+3. W ramach badań odbiorczych, w technicznie uzasadnionych przypadkach, badania, które zostały wykonane i udokumentowane w ramach procesu oceny zgodności urządzenia lub zespołu urządzeń ciśnieniowych, nie muszą być ponownie wykonywane.
 4. Badania okresowe i doraźne są wykonywane jako:
 1) rewizje wewnętrzne, a dla rurociągów jako rewizja główna;
 2) próby ciśnieniowe;
@@ -239,6 +244,7 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 § 32. Termin pierwszych badań okresowych ustala się, licząc od daty wydania decyzji zezwalającej na eksploatację urządzenia ciśnieniowego z uwzględnieniem stanu technicznego tego urządzenia.
 § 33. 1. W uzasadnionych przypadkach, na wniosek eksploatującego, organ właściwej jednostki dozoru technicznego, po przeprowadzeniu z wynikiem pozytywnym rewizji zewnętrznej w ramach badania doraźnego eksploatacyjnego, może odroczyć termin wykonania okresowej rewizji wewnętrznej lub próby ciśnieniowej do sześciu miesięcy, przy czym odroczenie terminu może nastąpić nie więcej niż dwukrotnie, tak aby łączny czas odroczenia nie przekroczył dwunastu miesięcy.
 2. Dla zbiorników podziemnych organ właściwej jednostki dozoru technicznego, w przypadku wyposażenia zbiorników w funkcjonującą elektrochemiczną ochronę przed korozją, może odroczyć termin wykonania rewizji wewnętrznej albo wyrazić zgodę na zastąpienie jej innymi badaniami, uwzględniając, że powinna ona być wykonywana nie rzadziej niż co 12 lat, a na stacjach tankowania pojazdów nie rzadziej niż co 10 lat.
+§ 34. Kocioł parowy lub cieczowy wyposażony w więcej niż jeden przyrząd wodowskazowy, w przypadku niesprawności jednego z tych przyrządów, może być nadal eksploatowany, pod warunkiem że:
 1) bezzwłocznie zostaną podjęte działania mające na celu doprowadzenie do właściwego funkcjonowania wszystkich przyrządów wodowskazowych;
 2) w instrukcji eksploatacji określono warunki eksploatacji kotła z niesprawnym przyrządem wodowskazowym.
 § 35. Kocioł parowy lub cieczowy wyposażony w więcej niż jedno urządzenie zasilające, w przypadku niesprawności jednego z tych urządzeń, może być nadal eksploatowany, pod warunkiem że:
@@ -248,9 +254,9 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 2. Sprawdzenie zaworów bezpieczeństwa w ruchu przeprowadza się w taki sposób, aby można było sprawdzić prawidłowość działania zaworów głównych oraz poszczególnych obwodów sterujących.
 § 37. 1. Kotły parowe o wydajności pary większej niż 100 t/h obejmuje się programem badań diagnostycznych uzgodnionym z organem właściwej jednostki dozoru technicznego. zakres programu powinien obejmować co najmniej elementy pracujące w warunkach pełzania i elementy, dla których dominującym mechanizmem degradacji jest zmęczenie materiału konstrukcyjnego.
 2. Komory kotłów parowych o wydajności pary większej niż 100 t/h poddaje się rewizji wewnętrznej nie rzadziej niż co:
-1) 10 lat w przypadku temperatury dopuszczalnej TD ≥ 500°C;
-2) 15 lat w przypadku temperatury dopuszczalnej 350°C ≤ TD < 500°C;
-3) 20 lat w przypadku temperatury dopuszczalnej TD < 350°C.
+1) 10 lat – w przypadku temperatury dopuszczalnej TD ≥ 500°C;
+2) 15 lat – w przypadku temperatury dopuszczalnej 350°C ≤ TD < 500°C;
+3) 20 lat – w przypadku temperatury dopuszczalnej TD < 350°C.
 3. Komory kotłów, o których mowa w ust. 1, o średnicy wewnętrznej nie większej niż 160 mm nie podlegają okresowym rewizjom wewnętrznym.
 § 38. instrukcja eksploatacji dla kotła parowego lub cieczowego z organicznymi nośnikami ciepła poza danymi określonymi w § 13 ust. 1 zawiera w szczególności wymagania dotyczące:
 1) pobierania z kotła próbek organicznego nośnika ciepła w celu przeprowadzania badań;
@@ -261,13 +267,14 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 2) terminy przeprowadzenia pomiarów grubości ścianek rur powierzchni ogrzewalnej nie dłuższe niż terminy, o których mowa w ust. 3 i 4.
 2. W odniesieniu do kotła sodowego dodatkowe badanie, o którym mowa w § 21 ust. 2 pkt 3, obejmuje wykonanie pomiarów grubości ścianek rur powierzchni ogrzewalnej. Liczbę i rozmieszczenie punktów pomiaru grubości ścianek uzgadnia się z organem właściwej jednostki dozoru technicznego. Protokół pomiarów grubości ścianek wraz z rysunkami i szkicami powierzchni ogrzewalnej kotła sodowego z naniesionymi punktami pomiaru grubości ścianek dołącza się do dokumentacji kotła sodowego.
 3. Badanie okresowe kotła sodowego obejmuje czynności określone w § 21 ust. 4 oraz pomiary grubości ścianek rur powierzchni ogrzewalnej w miejscach ustalonych przez organ właściwej jednostki dozoru technicznego. Pomiary wykonuje się, licząc od dnia zakończenia badania odbiorczego kotła sodowego:
-1) po trzech latach pierwszy pomiar;
-2) po pięciu latach drugi pomiar.
+1) po trzech latach – pierwszy pomiar;
+2) po pięciu latach – drugi pomiar.
 4. Po upływie terminu, o którym mowa w ust. 3 pkt 2, pomiary wykonuje się w zależności od stanu technicznego rur, nie rzadziej niż co dwa lata.
 5. Eksploatujący powiadamia organ właściwej jednostki dozoru technicznego o każdym odstawieniu kotła sodowego, a po awaryjnym spuście wody zgłasza kocioł do badań doraźnych. zakres badań doraźnych ustala organ właściwej jednostki dozoru technicznego.
 § 40. 1. Przed rozpaleniem kotła piekarskiego eksploatujący sprawdza stan rur grzejnych w komorze paleniskowej. Kocioł piekarski, w którym wykryto uszkodzenie lub nieszczelność dwóch rur w jednym rzędzie lub pięciu rur ogółem, eksploatujący wyłącza z eksploatacji i powiadamia organ właściwej jednostki dozoru technicznego.
 2. Piec piekarski zbudowany z pętli rur może być eksploatowany, o ile liczba uszkodzeń rur nie przekracza wartości dopuszczalnych określonych w instrukcji eksploatacji.
 3. Przepisów § 34–39 nie stosuje się do kotłów piekarskich.
+§ 41. 1. Wartość dopuszczalnego stopnia napełnienia zbiornika stałego przeznaczonego na gaz skroplony, z wyłączeniem gazów, o których mowa w § 44, nie może być większa niż:
 1) 90% pojemności zbiornika stałego przeznaczonego na gaz lub mieszaninę gazów palnych lub trujących;
 2) 95% pojemności zbiornika stałego przeznaczonego na gaz lub mieszaninę gazów innych niż wymienione w pkt 1.
 2. Wartość dopuszczalnego stopnia napełnienia zbiornika stałego przeznaczonego na gaz skroplony schłodzony nie może być większa niż:
@@ -276,8 +283,8 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 3. Stopień napełnienia zbiornika stałego przeznaczonego na gaz skroplony lub zbiornika stałego przeznaczonego na gaz skroplony schłodzony może być określony:
 1) wagowo, metodą bezpośredniego ważenia napełnionego zbiornika stałego;
 2) pojemnościowo.
-§ 42. Wartość wagową stopnia napełnienia zbiornika stałego przeznaczonego na gaz skroplony lub zbiornika stałego przeznaczonego na gaz skroplony schłodzony oblicza się według wzoru: F × V × γ G = [kg] 100 gdzie poszczególne symbole oznaczają: G wartość wagową stopnia napełnienia zbiornika stałego, F wartość dopuszczalnego stopnia napełnienia zbiornika stałego określoną w § 41 ust. 1 i 2, V pojemność zbiornika stałego, wyrażoną w m lub litrach, γ gęstość gazu skroplonego lub gazu skroplonego schłodzonego w najwyższej temperaturze dopuszczalnej zbiornika stałego, wyrażoną odpowiednio w kg/m lub kg/litr.
-§ 43. Wartość pojemnościową stopnia napełnienia zbiornika stałego przeznaczonego na gaz skroplony lub zbiornika stałego przeznaczonego na gaz skroplony schłodzony oblicza się według wzoru: F = γ × F[%] γ gdzie poszczególne symbole oznaczają: F wartość pojemnościową stopnia napełnienia zbiornika stałego, γ gęstość gazu skroplonego lub gazu skroplonego schłodzonego w najwyższej temperaturze dopuszczalnej zbiornika stałego, wyrażoną odpowiednio w kg/m lub kg/litr, γ gęstość gazu skroplonego lub gazu skroplonego schłodzonego w temperaturze napełnienia, wyrażoną odpowiednio w kg/m lub kg/litr, F wartość dopuszczalnego stopnia napełnienia zbiornika stałego określoną w § 41 ust. 1 i 2.
+§ 42. Wartość wagową stopnia napełnienia zbiornika stałego przeznaczonego na gaz skroplony lub zbiornika stałego przeznaczonego na gaz skroplony schłodzony oblicza się według wzoru: F × V × γ G = [kg] 100 gdzie poszczególne symbole oznaczają: G – wartość wagową stopnia napełnienia zbiornika stałego, F – wartość dopuszczalnego stopnia napełnienia zbiornika stałego określoną w § 41 ust. 1 i 2, V – pojemność zbiornika stałego, wyrażoną w m lub litrach, γ – gęstość gazu skroplonego lub gazu skroplonego schłodzonego w najwyższej temperaturze dopuszczalnej zbiornika stałego, wyrażoną odpowiednio w kg/m lub kg/litr.
+§ 43. Wartość pojemnościową stopnia napełnienia zbiornika stałego przeznaczonego na gaz skroplony lub zbiornika stałego przeznaczonego na gaz skroplony schłodzony oblicza się według wzoru: F γ = γ × F[%] gdzie poszczególne symbole oznaczają: F – wartość pojemnościową stopnia napełnienia zbiornika stałego, γ – gęstość gazu skroplonego lub gazu skroplonego schłodzonego w najwyższej temperaturze dopuszczalnej zbiornika stałego, wyrażoną odpowiednio w kg/m lub kg/litr, γ – gęstość gazu skroplonego lub gazu skroplonego schłodzonego w temperaturze napełnienia, wyrażoną odpowiednio w kg/m lub kg/litr, F – wartość dopuszczalnego stopnia napełnienia zbiornika stałego określoną w § 41 ust. 1 i 2.
 § 44. W trakcie napełniania zbiornika stałego przeznaczonego na gazy skroplone propan i butan techniczny oraz ich mieszaniny objętość cieczy w zbiorniku stałym nie może przekroczyć 85% jego pojemności.
 § 45. Przed wprowadzeniem gazu skroplonego lub gazu skroplonego schłodzonego do zbiornika stałego należy przedsięwziąć środki zapobiegające:
 1) wytworzeniu się mieszaniny wybuchowej lub palnej w zbiorniku stałym;
@@ -296,6 +303,7 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 2. Bezpośrednio przed przykryciem zbiornika stałego ziemią organ właściwej jednostki dozoru technicznego, w ramach badania odbiorczego, przeprowadza wizualne badanie zewnętrznych powierzchni zbiornika stałego w celu wykrycia uszkodzeń, które mogły powstać podczas jego transportu lub posadowienia.
 3. Okresową rewizję wewnętrzną zbiornika stałego w przypadku stwierdzenia uszkodzeń wewnętrznej powierzchni uzupełnia się o oględziny zewnętrznych powierzchni, po uprzednim częściowym lub całkowitym odkopaniu zbiornika stałego.
 § 50. Do zbiorników w instalacjach ziębniczych nie stosuje się przepisów niniejszego rozdziału.
+§ 51. Przepisy niniejszego rozdziału określają wymagania szczególne w zakresie eksploatacji zbiorników ciśnieniowych z wykładzinami, w szczególności:
 1) antykorozyjnymi, służącymi do ochrony ścianek zbiornika przed chemicznym działaniem płynu;
 2) izolacyjnymi, służącymi do ochrony ścianek zbiornika przed przekroczeniem temperatury dopuszczalnej;
 3) antyerozyjnymi, chroniącymi ścianki zbiornika przed mechanicznym ich zużyciem;
@@ -315,8 +323,10 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 3) stwierdzenia wżerów korozyjnych w ściance zbiornika;
 4) stwierdzenie uszkodzenia wykładziny.
 § 55. Próba ciśnieniowa zbiornika z wykładziną może być przeprowadzana bez usuwania wykładziny, jeżeli podczas kontroli nie stwierdzono jej uszkodzeń.
+§ 56. 1. Eksploatujący konserwuje zawory bezpieczeństwa i przeprowadza kontrolę ich działania w odstępach czasu określonych w instrukcji eksploatacji, jednak nie dłuższych niż 6 miesięcy dla instalacji amoniakalnych, a dla pozostałych instalacji ziębniczych nie dłuższych niż 12 miesięcy. Eksploatujący dokonuje wpisów potwierdzających wykonanie tych czynności w przeznaczonej do tego celu książce, która może być częścią książki ruchu urządzenia ciśnieniowego.
 2. Eksploatujący jest obowiązany posiadać co najmniej jeden rezerwowy zawór bezpieczeństwa dla każdego typu zaworów stosowanych w instalacji ziębniczej.
 3. Jeżeli dokumentacja instalacji ziębniczej przewiduje okresowe kontrole działania automatyki zabezpieczającej, eksploatujący potwierdza wykonanie tych czynności wpisami w przeznaczonej do tego książce, która może być częścią książki ruchu urządzenia ciśnieniowego.
+§ 57. 1. Dodatkowe badanie, o którym mowa w § 21 ust. 2 pkt 4, obejmuje ocenę połączenia zbiornika przenośnego z osprzętem bezpośrednio na nim zamontowanym, o ile połączenie to nie jest objęte przepisami o systemach oceny zgodności i nadzoru rynku. Oceny dokonuje się z uwzględnieniem instrukcji eksploatacji zbiornika i osprzętu.
 2. Po wykonaniu badań odbiorczych z wynikiem pozytywnym organ właściwej jednostki dozoru technicznego oznacza zbiornik przenośny informacją o dacie następnego badania okresowego, wskazując rok i miesiąc. Oznaczenie nanosi się trwale, np. przez wytłoczenie, grawerowanie lub wytrawianie. Sposób i miejsce oznaczenia zbiornika przenośnego eksploatujący uzgadnia z organem właściwej jednostki dozoru technicznego. Wzór trwałego oznaczenia na zbiorniku przenośnym określa załącznik nr 2 do rozporządzenia.
 3. Termin następnego badania okresowego powinien być wyznaczony, licząc od daty wyprodukowania zbiornika przenośnego.
 4. W przypadku zgłoszenia do badań odbiorczych zbiorników przenośnych, dla których upłynął termin przewidzianego badania okresowego, zakres badania odbiorczego uzupełnia się o badania przewidziane w ramach badań okresowych.
@@ -349,6 +359,7 @@ przez zasiatkowanie lub w inny trwały sposób odpowiedni do metody oznaczania p
 1) oznakowania zbiornika przenośnego przez szlifowanie;
 2) trwałego oznakowania identyfikującego zbiornik przenośny;
 3) naniesionego przez organ właściwej jednostki dozoru technicznego oznaczenia zbiornika przenośnego informującego o dacie następnego badania okresowego.
+§ 65. 1. Wytwornicę acetylenu stałą eksploatuje się w acetylenowni, dla której wymagania techniczne określają przepisy dotyczące bezpieczeństwa i higieny pracy. acetylenownia nie może być wykorzystywana do celów niezwiązanych z eksploatacją wytwornicy acetylenu.
 2. Wytwornicę acetylenu przenośną eksploatuje się na otwartej przestrzeni lub w pomieszczeniu, z uwzględnieniem wymagań określonych w przepisach dotyczących bezpieczeństwa i higieny pracy.
 § 66. Wytwornica acetylenu powinna być tak ustawiona, aby zapewniony był swobodny dostęp do niej podczas wykonywania czynności związanych z obsługiwaniem, konserwacją, naprawami i badaniami.
 § 67. 1. Podczas eksploatacji wytwornic acetylenu powinny być spełnione następujące wymagania:
@@ -380,6 +391,7 @@ b) 0,5 bara, jeżeli jest możliwość zaślepienia otworów;
 § 71. W celu sprawdzenia działania osprzętu zabezpieczającego i osprzętu ciśnieniowego, przed uruchomieniem wytwornicy acetylenu, warunki ruchowe mogą być symulowane zgodnie z instrukcją eksploatacji.
 § 72. 1. Pobór acetylenu nie może przekraczać przepustowości bezpiecznika acetylenowego.
 2. Stosowanie cieczy niezamarzającej w temperaturze niższej niż 0°C do napełniania bezpieczników acetylenowych wodnych wymaga uzgodnienia z organem właściwej jednostki dozoru technicznego.
+§ 73. W przypadku rurociągu technologicznego i rurociągu pary łączącego kocioł z turbogeneratorem do wniosku, o którym mowa w § 11 ust. 1, eksploatujący dołącza oprócz dokumentacji, o której mowa w § 11 ust. 2:
 1) schemat przestrzennego ułożenia rurociągu z oznaczeniem jego wymiarów, w tym rozmieszczenie zawieszeń i podparć, granic i kierunku przepływu, pochyleń i odwodnień;
 2) dane techniczne ochrony przeciwkorozyjnej i izolacji, jeżeli zostały zastosowane;
 3) wykaz zawieszeń i podparć z określeniem nastaw roboczych oraz nastaw w warunkach próby hydraulicznej;
@@ -400,8 +412,10 @@ b) 0,5 bara, jeżeli jest możliwość zaślepienia otworów;
 1) ocenie wizualnej ścianek rurociągu i jego zabudowy w zakresie określonym w dokumentacji, o której mowa w § 73, lub ustalonym z organem właściwej jednostki dozoru technicznego, oraz
 2) ocenie wyników badań określonych w dokumentacji, o której mowa w § 73, lub ustalonych z organem właściwej jednostki dozoru technicznego.
 2. Osprzęt i wyposażenie rurociągu technologicznego i rurociągu pary łączącego kocioł z turbogeneratorem powinny być zdemontowane w zakresie uzgodnionym z organem właściwej jednostki dozoru technicznego.
-3. Przepis § 22 ust. 2 stosuje się odpowiednio § 79. 1. Próbę ciśnieniową rurociągu wykonuje się zgodnie z dokumentacją, o której mowa w § 73.
+3. Przepis § 22 ust. 2 stosuje się odpowiednio
+§ 79. 1. Próbę ciśnieniową rurociągu wykonuje się zgodnie z dokumentacją, o której mowa w § 73.
 2. Przepis § 25 stosuje się odpowiednio.
+§ 80. 1. Dokumentacja techniczna modernizacji urządzenia ciśnieniowego, przedłożona do uzgodnienia z organem właściwej jednostki dozoru technicznego, zawiera:
 1) dane techniczne, numer ewidencyjny i fabryczny urządzenia oraz opis zakresu modernizacji wraz z analizą wpływu modernizacji na bezpieczeństwo eksploatacji urządzenia oraz urządzeń współpracujących;
 2) wykaz zastosowanych specyfikacji technicznych;
 3) rysunki urządzenia, w szczególności: rysunki zestawieniowe i rysunki elementów, schematy elektryczne, hydrauliczne, pneumatyczne, w tym schematy podzespołów, obwodów, odpowiednio do zakresu modernizacji i zastosowanych dokumentów odniesienia, umożliwiające ocenę zakresu i technologii planowanej modernizacji;
@@ -414,15 +428,15 @@ b) 0,5 bara, jeżeli jest możliwość zaślepienia otworów;
 10) wykaz osprzętu zabezpieczającego z podaniem jego typu;
 11) pozostałe informacje i dokumentację wymagane w zastosowanych specyfikacjach technicznych z uwzględnieniem zakresu modernizacji;
 12) w przypadku modernizacji automatyki zabezpieczającej:
-a) oryginalną dokumentację automatyki zabezpieczającej albo w razie jej braku albo braku aktualizacji jej aktualizację lub szczegółową dokumentację techniczną stanu wyjściowego automatyki zabezpieczającej oraz opis wymagań bezpieczeństwa dla stanu projektowanego automatyki zabezpieczającej,
+a) oryginalną dokumentację automatyki zabezpieczającej albo w razie jej braku albo braku aktualizacji – jej aktualizację lub szczegółową dokumentację techniczną stanu wyjściowego automatyki zabezpieczającej oraz opis wymagań bezpieczeństwa dla stanu projektowanego automatyki zabezpieczającej,
 b) opis zakresu modernizacji automatyki zabezpieczającej z określeniem zastosowanych dokumentów odniesienia,
 c) analizę wpływu modernizacji automatyki zabezpieczającej na bezpieczeństwo eksploatacji urządzenia,
 d) wartości innych wielkości mające wpływ na nastawy automatyki zabezpieczającej,
 e) schemat technologiczny i rysunek zawierające rozmieszczenie elementów automatyki zabezpieczającej realizującej funkcje bezpieczeństwa danego urządzenia ciśnieniowego,
 f) wykaz elementów automatyki zabezpieczającej z podaniem ich oznaczeń technologicznych, typów, wytwórców, zakresów pomiarowych i wartości nastaw,
-g) diagram przyczyn i skutków lub algorytm działania automatyki zabezpieczającej dla każdej z realizowanych funkcji bezpieczeństwa, a w przypadku zastosowania swobodnie programowalnej jednostki logicznej realizującej funkcje bezpieczeństwa także kod oprogramowania aplikacyjnego tej jednostki lub schemat logiczny realizacji funkcji bezpieczeństwa wewnątrz tej jednostki logicznej,
+g) diagram przyczyn i skutków lub algorytm działania automatyki zabezpieczającej dla każdej z realizowanych funkcji bezpieczeństwa, a w przypadku zastosowania swobodnie programowalnej jednostki logicznej realizującej funkcje bezpieczeństwa – także kod oprogramowania aplikacyjnego tej jednostki lub schemat logiczny realizacji funkcji bezpieczeństwa wewnątrz tej jednostki logicznej,
 h) dokumentację dodatkową określoną w zastosowanych specyfikacjach technicznych dotyczących automatyki zabezpieczającej,
-i) schematy elektryczne obwodowe, a w przypadku rozbudowanych układów również schematy ideowe,
+i) schematy elektryczne obwodowe, a w przypadku rozbudowanych układów – również schematy ideowe,
 j) wytyczne dotyczące częstotliwości i sposobu testowania funkcji bezpieczeństwa w toku eksploatacji urządzenia zawierające opis sposobu przeprowadzenia prób funkcjonalnych oraz opis poprawnej reakcji automatyki zabezpieczającej.
 2. Dokumentacja techniczna naprawy urządzeń ciśnieniowych metodami chemicznymi zawiera:
 1) dane techniczne, numer ewidencyjny i fabryczny urządzenia oraz zakres naprawy metodami chemicznymi;
@@ -449,12 +463,13 @@ j) wytyczne dotyczące częstotliwości i sposobu testowania funkcji bezpieczeń
 2. Wraz z poświadczeniem naprawy urządzenia ciśnieniowego metodami chemicznymi naprawiający przedkłada organowi właściwej jednostki dozoru technicznego dokumentację zawierającą:
 1) sprawozdanie z uzgodnienia instrukcji technologicznej naprawy metodami chemicznymi;
 2) instrukcję technologiczną naprawy metodami chemicznymi.
+§ 83. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 84. Traci moc rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 9 lipca 2003 r. w sprawie warunków technicznych dozoru technicznego w zakresie eksploatacji niektórych urządzeń ciśnieniowych (Dz. U. poz. 1269).
 § 85. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Technologii: P. Nowak FORMY DOzORU TECHNiCzNEGO i MaKSYMaLNE TERMiNY BaDaŃ TECHNiCzNYCH Wzó R TRWał EGO OzNaCzENia Na z BiORNiKU PRzENOśNYM [O rr/mm RR] gdzie poszczególne symbole oznaczają: Ο cechę inspektora, rr/mm datę badania (rok dwie ostatnie cyfry, miesiąc dwie cyfry, oddzielone ukośną kreską), RR datę następnego badania [dwie ostatnie cyfry roku].
+Minister Rozwoju i Technologii: P. Nowak FORMY DOzORU TECHNiCzNEGO i MaKSYMaLNE TERMiNY BaDaŃ TECHNiCzNYCH WzóR TRWałEGO OzNaCzENia Na zBiORNiKU PRzENOśNYM [O rr/mm RR] gdzie poszczególne symbole oznaczają: Ο – cechę inspektora, rr/mm – datę badania (rok – dwie ostatnie cyfry, miesiąc – dwie cyfry, oddzielone ukośną kreską), RR – datę następnego badania [dwie ostatnie cyfry roku].
 Przy nanoszeniu oznaczenia należy zachować odstęp między „rr/mm” i „RR” co najmniej 12 mm. Odstęp ma zapewnić miejsce na umieszczenie cechy inspektora przy następnym badaniu.
 W przypadku technicznych trudności naniesienia oznaczenia w sposób określony powyżej (np. ograniczone miejsce) oznaczenie może być naniesione w następujący sposób: O rr/mm RR gdzie ostatnie dwie cyfry roku następnego badania RR są naniesione dokładnie pod ostatnimi dwiema cyframi roku badania rr.
-MiNiMaLNY za KRES iNSTRUKCJi TECHNOLOGiCzNEJ NaPRaWY METODaMi CHEMiCzNYMi instrukcja technologiczna naprawy metodami chemicznymi powinna zawierać następujące informacje i dokumenty:
+MiNiMaLNY zaKRES iNSTRUKCJi TECHNOLOGiCzNEJ NaPRaWY METODaMi CHEMiCzNYMi instrukcja technologiczna naprawy metodami chemicznymi powinna zawierać następujące informacje i dokumenty:
 1) zakres naprawy metodami chemicznymi;
 2) datę ostatniej naprawy metodami chemicznymi;
 3) gatunki materiałów, z których zbudowane jest urządzenie lub jego element objęty naprawą;
@@ -486,33 +501,35 @@ f) zabezpieczenie czasowe przed korozją atmosferyczną w okresie postoju, przed
 15) schemat technologiczny instalacji do naprawy metodami chemicznymi, który powinien zawierać:
 a) rysunek czyszczonego lub trawionego urządzenia lub jego elementu,
 b) istotne dla procesu szczegóły, takie jak: lokalizacja zaślepek, odpowietrzenia oraz doprowadzenie i odprowadzenie roztworów roboczych do neutralizacji,
-c) skrócony opis podłączenia instalacji naprawy metodami chemicznymi do urządzenia, w tym: typ pompy i jej parametry (wysokość podnoszenia, wydajność), materiały instalacji (rodzaj i średnica rur), materiał i wielkość zbiorników pomocniczych (rodzaj i pojemność), sposób podłączenia instalacji do urządzenia (przy połączeniach nietypowych opis szczegółowy).
+c) skrócony opis podłączenia instalacji naprawy metodami chemicznymi do urządzenia, w tym: – typ pompy i jej parametry (wysokość podnoszenia, wydajność), – materiały instalacji (rodzaj i średnica rur), – materiał i wielkość zbiorników pomocniczych (rodzaj i pojemność), – sposób podłączenia instalacji do urządzenia (przy połączeniach nietypowych – opis szczegółowy).
 
-### Dział ii Projektowanie § 3. Urządzenia ciśnieniowe projektuje się:
+### Dział ii Projektowanie
 
-### Dział iii Materiały i elementy stosowane do wytwarzania, naprawy lub modernizacji urządzeń ciśnieniowych § 6. Materiały przeznaczone do wytwarzania, naprawy lub modernizacji urządzeń ciśnieniowych oraz ich elementów powinny:
+### Dział iii Materiały i elementy stosowane do wytwarzania, naprawy lub modernizacji urządzeń ciśnieniowych
 
-### Dział iV wytwarzanie § 9. 1. Urządzenia ciśnieniowe wytwarza się zgodnie ze specyfikacjami technicznymi uzgodnionymi z organem właściwej jednostki dozoru technicznego.
+### Dział iV wytwarzanie
 
-#### Rozdział 1 wymagania ogólne § 11. 1. Przed przystąpieniem do eksploatacji urządzenia ciśnieniowego eksploatujący składa wniosek w postaci papierowej albo elektronicznej do organu właściwej jednostki dozoru technicznego w celu uzyskania decyzji zezwalającej na eksploatację urządzenia.
+### Dział V Eksploatacja
 
-#### Rozdział 2 Rodzaje, zakres i terminy badań technicznych § 21. 1. W toku eksploatacji urządzeń ciśnieniowych przeprowadzane są badania techniczne:
+#### Rozdział 1 wymagania ogólne
 
-#### Rozdział 3 Eksploatacja kotłów parowych i cieczowych § 34. Kocioł parowy lub cieczowy wyposażony w więcej niż jeden przyrząd wodowskazowy, w przypadku niesprawności jednego z tych przyrządów, może być nadal eksploatowany, pod warunkiem że:
+#### Rozdział 2 Rodzaje, zakres i terminy badań technicznych
 
-#### Rozdział 4 Eksploatacja zbiorników stałych przeznaczonych na gazy skroplone i skroplone schłodzone § 41. 1. Wartość dopuszczalnego stopnia napełnienia zbiornika stałego przeznaczonego na gaz skroplony, z wyłączeniem gazów, o których mowa w § 44, nie może być większa niż:
+#### Rozdział 3 Eksploatacja kotłów parowych i cieczowych
 
-#### Rozdział 5 Eksploatacja zbiorników stałych z wykładzinami § 51. Przepisy niniejszego rozdziału określają wymagania szczególne w zakresie eksploatacji zbiorników ciśnieniowych z wykładzinami, w szczególności:
+#### Rozdział 4 Eksploatacja zbiorników stałych przeznaczonych na gazy skroplone i skroplone schłodzone
 
-#### Rozdział 6 Eksploatacja zbiorników stałych w instalacjach ziębniczych § 56. 1. Eksploatujący konserwuje zawory bezpieczeństwa i przeprowadza kontrolę ich działania w odstępach czasu określonych w instrukcji eksploatacji, jednak nie dłuższych niż 6 miesięcy dla instalacji amoniakalnych, a dla pozostałych instalacji ziębniczych nie dłuższych niż 12 miesięcy. Eksploatujący dokonuje wpisów potwierdzających wykonanie tych czynności w przeznaczonej do tego celu książce, która może być częścią książki ruchu urządzenia ciśnieniowego.
+#### Rozdział 5 Eksploatacja zbiorników stałych z wykładzinami
 
-#### Rozdział 7 Eksploatacja zbiorników przenośnych § 57. 1. Dodatkowe badanie, o którym mowa w § 21 ust. 2 pkt 4, obejmuje ocenę połączenia zbiornika przenośnego z osprzętem bezpośrednio na nim zamontowanym, o ile połączenie to nie jest objęte przepisami o systemach oceny zgodności i nadzoru rynku. Oceny dokonuje się z uwzględnieniem instrukcji eksploatacji zbiornika i osprzętu.
+#### Rozdział 6 Eksploatacja zbiorników stałych w instalacjach ziębniczych
 
-#### Rozdział 8 Eksploatacja wytwornic acetylenu § 65. 1. Wytwornicę acetylenu stałą eksploatuje się w acetylenowni, dla której wymagania techniczne określają przepisy dotyczące bezpieczeństwa i higieny pracy. acetylenownia nie może być wykorzystywana do celów niezwiązanych z eksploatacją wytwornicy acetylenu.
+#### Rozdział 7 Eksploatacja zbiorników przenośnych
 
-#### Rozdział 9 Eksploatacja rurociągów technologicznych i rurociągów pary łączących kocioł z turbogeneratorem § 73. W przypadku rurociągu technologicznego i rurociągu pary łączącego kocioł z turbogeneratorem do wniosku, o którym mowa w § 11 ust. 1, eksploatujący dołącza oprócz dokumentacji, o której mowa w § 11 ust. 2:
+#### Rozdział 8 Eksploatacja wytwornic acetylenu
 
-### Dział V i Naprawa i modernizacja § 80. 1. Dokumentacja techniczna modernizacji urządzenia ciśnieniowego, przedłożona do uzgodnienia z organem właściwej jednostki dozoru technicznego, zawiera:
+#### Rozdział 9 Eksploatacja rurociągów technologicznych i rurociągów pary łączących kocioł z turbogeneratorem
 
-### Dział V ii Przepisy przejściowe i końcowe § 83. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+### Dział Vi Naprawa i modernizacja
+
+### Dział Vii Przepisy przejściowe i końcowe
 

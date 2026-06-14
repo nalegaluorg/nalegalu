@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 3 lipca 2002 r. Prawo lotnicze.*
 
-Łącznie: **65** orzeczeń
-(pominięto 300 orzeczeń sądów rejonowych)
+Łącznie: **66** orzeczeń
+(pominięto 302 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 
@@ -79,8 +79,9 @@ Orzeczenia powołujące: *Ustawa z dnia 3 lipca 2002 r. Prawo lotnicze.*
 
 - 2019-10-30 | SO | [I ACa 212/19](https://www.saos.org.pl/judgments/419315) | Wyrok
 
-## art. 55 (1)
+## art. 55 (2)
 
+- 2025-12-16 | SO | [I AGa 303/23](https://www.saos.org.pl/judgments/546062) | Wyrok
 - 2013-05-10 | SO | [I ACa 174/13](https://www.saos.org.pl/judgments/12852) | Wyrok
 
 ## art. 64 (1)

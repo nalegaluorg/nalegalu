@@ -8,7 +8,7 @@ pos: 1068
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o postępowaniu egzekucyjnym w administracji

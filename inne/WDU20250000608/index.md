@@ -8,12 +8,10 @@ pos: 608
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie farmaceuty
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 kwietnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -43,6 +41,10 @@ Art. 82–86. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** uzyskiwania prawa wykonywania zawodu farmaceuty;
+- **2)** wykonywania zawodu farmaceuty;
+- **3)** ustawicznego rozwoju zawodowego farmaceutów.
+
 **Art. 2.**
 
 1. Zawód farmaceuty jest samodzielnym zawodem medycznym.
@@ -50,6 +52,27 @@ Art. 82–86. (pominięte)
 2. Zawód farmaceuty może wykonywać osoba, która spełnia wymagania określone niniejszą ustawą.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** magister farmacji – tytuł zawodowy nadany absolwentowi jednolitych studiów magisterskich na kierunku farmacja;
+- **2)** obywatel państwa członkowskiego – obywatela państwa członkowskiego oraz: o cudzoziemcach,
+    - **a)** obywatela polskiego, który uzyskał kwalifikacje w państwie członkowskim,
+    - **b)** członka rodziny obywatela polskiego lub obywatela państwa członkowskiego, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688),
+    - **c)** obywatela państwa trzeciego posiadającego zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, o którym mowa w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688),
+    - **d)** obywatela państwa trzeciego posiadającego zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 151 ust. 1, art. 151b ust. 1, art. 157a ust. 1 lub art. 157g ust. 1 ustawy z dnia 12 grudnia 2013 r.
+    - **e)** obywatela państwa trzeciego posiadającego wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych, wizę krajową w celu odbycia stażu lub wizę krajową w celu udziału w programie wolontariatu europejskiego,
+    - **f)** obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **g)** obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **h)** obywatela państwa trzeciego posiadającego status uchodźcy lub objętego ochroną uzupełniającą, o którym mowa w ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223 i 389),
+    - **i)** obywatela państwa trzeciego, który przybywa na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium w celu połączenia się z rodziną i jest członkiem rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej w związku z nadaniem mu statusu uchodźcy lub udzieleniem mu ochrony uzupełniającej,
+    - **j)** obywatela państwa trzeciego, który ubiega się o przyjęcie na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji w rozumieniu art. 3 pkt 24 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **k)** obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i ma prawo do wykonywania pracy oraz posiada dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. ), oraz obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym;
+
+- **3)** obywatel państwa trzeciego – obywatela państwa innego niż państwo członkowskie;
+- **4)** państwo członkowskie – państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską;
+- **5)** samorząd zawodu farmaceuty – samorząd zawodu farmaceuty w rozumieniu art. 1 ust. 1 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2024 r. poz. 688);
+- **6)** sporządzanie produktu leczniczego – czynności przeprowadzane w aptece, w zakresie i zgodnie z zasadami określonymi w Farmakopei Polskiej lub Farmakopei Europejskiej, lub innych odpowiednich farmakopeach uznawanych oficjalnie przez państwa członkowskie, obejmujące sporządzanie leków recepturowych i leków aptecznych oraz przygotowywanie do podania pacjentowi leku gotowego, polegające na jego przetwarzaniu, odtwarzaniu, rozdozowywaniu lub przepakowywaniu, w tym czynności polegające na sporządzaniu badanego produktu leczniczego z przeznaczeniem do badań naukowych oraz eksperymentów medycznych;
+- **7)** usługa farmacji klinicznej – działania na rzecz zwiększenia skuteczności, bezpieczeństwa i zasadności, w tym ekonomicznej, użycia produktów leczniczych oraz wsparcie lekarza prowadzącego leczenie w zakresie farmakoterapii, realizowane przez farmaceutę w podmiocie wykonującym działalność leczniczą na rzecz pacjenta, członków rodziny pacjenta lub personelu medycznego;
+- **8)** wywiad farmaceutyczny – działanie farmaceuty polegające na uzyskaniu od pacjenta informacji niezbędnych do wyboru właściwego produktu leczniczego o kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686 oraz z 2025 r. poz. 129), zwanej dalej „ustawą – Prawo farmaceutyczne”, oraz na udzieleniu porady w zakresie stosowania produktów leczniczych lub rekomendacji konsultacji lekarskiej.
 
 **Art. 4.**
 
@@ -62,24 +85,24 @@ Art. 82–86. (pominięte)
 
 2. Opieka farmaceutyczna to świadczenie zdrowotne w rozumieniu art. 5 pkt 40 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), udzielane przez farmaceutę i stanowiące dokumentowany proces, w którym farmaceuta, współpracując z pacjentem i lekarzem prowadzącym leczenie pacjenta, a w razie potrzeby z przedstawicielami innych zawodów medycznych, czuwa nad prawidłowym przebiegiem indywidualnej farmakoterapii, obejmujące:
 
-- **1)** prowadzenie konsultacji farmaceutycznych w celu zapewnienia bezpieczeństwa pacjenta w związku ze stosowaniem produktów leczniczych, wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanych dalej „wyrobami medycznymi” lub środków spożywczych specjalnego przeznaczenia żywieniowego;
-- **2)** wykonywanie przeglądów lekowych wraz z oceną farmakoterapii, z uwzględnieniem problemów lekowych pacjenta w celu wykrywania i rozwiązywania problemów lekowych oraz zapewnienia bezpieczeństwa w procesie farmakoterapii;
-- **3)** opracowywanie indywidualnego planu opieki farmaceutycznej, z uwzględnieniem problemów lekowych pacjenta w celu określenia celów terapeutycznych możliwych do osiągnięcia przez pacjenta stosującego farmakoterapię oraz wskazania sposobów rozwiązywania wykrytych problemów lekowych, ze szczególnym uwzględnieniem edukacji zdrowotnej, promocji zdrowia i zdrowego trybu życia oraz profilaktyki zdrowotnej;
-- **4)** wykonywanie badań diagnostycznych określonych w przepisach wydanych na podstawie ust. 7 w celu oceny skuteczności i bezpieczeństwa stosowanej przez pacjenta farmakoterapii oraz analizy problemów lekowych występujących u pacjenta, oraz proponowania metod i badań diagnostycznych;
+- **1)** prowadzenie konsultacji farmaceutycznych – w celu zapewnienia bezpieczeństwa pacjenta w związku ze stosowaniem produktów leczniczych, wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanych dalej „wyrobami medycznymi” lub środków spożywczych specjalnego przeznaczenia żywieniowego;
+- **2)** wykonywanie przeglądów lekowych wraz z oceną farmakoterapii, z uwzględnieniem problemów lekowych pacjenta – w celu wykrywania i rozwiązywania problemów lekowych oraz zapewnienia bezpieczeństwa w procesie farmakoterapii;
+- **3)** opracowywanie indywidualnego planu opieki farmaceutycznej, z uwzględnieniem problemów lekowych pacjenta – w celu określenia celów terapeutycznych możliwych do osiągnięcia przez pacjenta stosującego farmakoterapię oraz wskazania sposobów rozwiązywania wykrytych problemów lekowych, ze szczególnym uwzględnieniem edukacji zdrowotnej, promocji zdrowia i zdrowego trybu życia oraz profilaktyki zdrowotnej;
+- **4)** wykonywanie badań diagnostycznych określonych w przepisach wydanych na podstawie ust. 7 – w celu oceny skuteczności i bezpieczeństwa stosowanej przez pacjenta farmakoterapii oraz analizy problemów lekowych występujących u pacjenta, oraz proponowania metod i badań diagnostycznych;
 - **5)** wystawianie recept w ramach kontynuacji zlecenia lekarskiego.
 
 3. Usługi farmaceutyczne obejmują:
 
-- **1)** wydawanie z apteki lub punktu aptecznego produktów leczniczych w rozumieniu art. 2 pkt 32 ustawy Prawo farmaceutyczne i wyrobów medycznych oraz środków spożywczych specjalnego przeznaczenia żywieniowego w rozumieniu art. 3 ust. 3 pkt 43 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448), połączone z udzielaniem informacji i porad dotyczących działania i stosowania oraz przechowywania tych produktów, środków lub wyrobów medycznych;
+- **1)** wydawanie z apteki lub punktu aptecznego produktów leczniczych w rozumieniu art. 2 pkt 32 ustawy – Prawo farmaceutyczne i wyrobów medycznych oraz środków spożywczych specjalnego przeznaczenia żywieniowego w rozumieniu art. 3 ust. 3 pkt 43 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448), połączone z udzielaniem informacji i porad dotyczących działania i stosowania oraz przechowywania tych produktów, środków lub wyrobów medycznych;
 - **2)** sporządzanie produktów leczniczych połączone z oceną ich jakości, w tym trwałości;
 - **3)** przeprowadzanie wywiadu farmaceutycznego;
 - **4)** udzielanie porady farmaceutycznej w celu zapewnienia prawidłowego stosowania produktu leczniczego, wyrobu medycznego lub środka spożywczego specjalnego przeznaczenia żywieniowego, w szczególności w zakresie wydania właściwego produktu leczniczego wydawanego bez przepisu lekarza, przekazania informacji dotyczących właściwego stosowania, w tym dawkowania i możliwych interakcji z innymi produktami leczniczymi lub pożywieniem, wydawanego produktu, wyrobu lub środka oraz prawidłowego używania wyrobów medycznych;
 - **5)** czynności wykonywane w aptece szpitalnej lub zakładowej w zakresie:
     - **a)** sporządzania pozajelitowych leków recepturowych i aptecznych, w tym preparatów do żywienia pozajelitowego,
     - **b)** sporządzania preparatów do żywienia dojelitowego,
-    - **c)** przygotowywania leków w dawkach indywidualnych, w tym antybiotyków pozajelitowych, leków cytostatycznych oraz produktów leczniczych terapii zaawansowanej wyjątków szpitalnych,
+    - **c)** przygotowywania leków w dawkach indywidualnych, w tym antybiotyków pozajelitowych, leków cytostatycznych oraz produktów leczniczych terapii zaawansowanej – wyjątków szpitalnych,
     - **d)** sporządzania produktów leczniczych radiofarmaceutycznych,
-    - **e)** przygotowywania roztworów do hemodializy i dializy dootrzewnowej oraz monitorowanie warunków sporządzania lub przygotowywania takich leków lub preparatów;
+    - **e)** przygotowywania roztworów do hemodializy i dializy dootrzewnowej – oraz monitorowanie warunków sporządzania lub przygotowywania takich leków lub preparatów;
 
 - **6)** wykonywanie pomiaru ciśnienia krwi;
 - **7)** usługi farmacji klinicznej.
@@ -88,20 +111,20 @@ Art. 82–86. (pominięte)
 
 - **1)** udział w racjonalizacji farmakoterapii, w tym udział w pracach komitetu terapeutycznego oraz innych zespołów powołanych przez podmioty wykonujące działalność leczniczą;
 - **2)** uczestniczenie w badaniach klinicznych, w tym w badaniach prowadzonych w szpitalu jako członek zespołu badawczego;
-- **3)** przyjmowanie do hurtowni farmaceutycznej produktów, wyrobów lub środków, o których mowa w ust. 3 pkt 1, od uprawnionych podmiotów, wydawanie ich uprawnionym podmiotom z hurtowni farmaceutycznej, sprawowanie nadzoru nad przestrzeganiem w hurtowni farmaceutycznej wymagań Dobrej Praktyki Dystrybucyjnej, o której mowa w art. 2 pkt 4 ustawy Prawo farmaceutyczne;
+- **3)** przyjmowanie do hurtowni farmaceutycznej produktów, wyrobów lub środków, o których mowa w ust. 3 pkt 1, od uprawnionych podmiotów, wydawanie ich uprawnionym podmiotom z hurtowni farmaceutycznej, sprawowanie nadzoru nad przestrzeganiem w hurtowni farmaceutycznej wymagań Dobrej Praktyki Dystrybucyjnej, o której mowa w art. 2 pkt 4 ustawy – Prawo farmaceutyczne;
 - **4)** kierowanie apteką, punktem aptecznym, działem farmacji szpitalnej, zespołem farmacji klinicznej lub hurtownią farmaceutyczną;
 - **5)** sprawowanie nadzoru nad gospodarką produktami leczniczymi oraz wyrobami medycznymi w podmiocie wykonującym działalność leczniczą;
 - **6)** zarządzanie produktami leczniczymi i wyrobami medycznymi w oddziale szpitalnym;
 - **7)** organizowanie w podmiotach leczniczych zaopatrzenia w produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne obejmujące:
     - **a)** materiały opatrunkowe,
     - **b)** jednorazowe jałowe i niejałowe wyroby medyczne do implantacji wraz z jednorazowym jałowym i niejałowym oprzyrządowaniem do ich implantacji,
-    - **c)** jednorazowe jałowe wyroby medyczne do przygotowania i podawania produktów leczniczych, preparatów krwiopochodnych oraz płynów dializacyjnych połączone z uczestniczeniem w prowadzonej w tych podmiotach gospodarce tymi materiałami i wyrobami;
+    - **c)** jednorazowe jałowe wyroby medyczne do przygotowania i podawania produktów leczniczych, preparatów krwiopochodnych oraz płynów dializacyjnych – połączone z uczestniczeniem w prowadzonej w tych podmiotach gospodarce tymi materiałami i wyrobami;
 
 - **8)** nadzór nad czynnościami wykonywanymi w aptece przez studenta kierunku farmacja albo przez technika farmaceutycznego w zakresie czynności, których technik nie może wykonywać samodzielnie;
 - **9)** nadzór nad przyjmowaniem, przechowywaniem i wydawaniem produktów leczniczych i wyrobów medycznych;
-- **10)** monitorowanie warunków zapewniających jakość i bezpieczeństwo stosowania znajdujących się w obrocie produktów lub wyrobów, o których mowa w ust. 3 pkt 1, oraz ich zabezpieczanie w procedurach wycofywania i wstrzymywania określonych w przepisach wydanych na podstawie art. 121 ust. 5 ustawy Prawo farmaceutyczne;
+- **10)** monitorowanie warunków zapewniających jakość i bezpieczeństwo stosowania znajdujących się w obrocie produktów lub wyrobów, o których mowa w ust. 3 pkt 1, oraz ich zabezpieczanie w procedurach wycofywania i wstrzymywania określonych w przepisach wydanych na podstawie art. 121 ust. 5 ustawy – Prawo farmaceutyczne;
 - **11)** sprawowanie nadzoru nad jakością i bezpieczeństwem stosowania produktów leczniczych lub środków spożywczych specjalnego przeznaczenia żywieniowego lub użytkowania wyrobów medycznych, w tym nadzoru nad rezerwami strategicznymi oraz zapasami medycznymi gromadzonymi w celu zabezpieczenia potrzeb mobilizacyjnych i wojennych Sił Zbrojnych Rzeczypospolitej Polskiej;
-- **12)** uczestnictwo w wytwarzaniu i badaniu produktów leczniczych, w tym pełnienie funkcji Osoby Wykwalifikowanej w rozumieniu art. 2 pkt 21c ustawy Prawo farmaceutyczne lub Osoby Kompetentnej w rozumieniu art. 2 pkt 21a tej ustawy;
+- **12)** uczestnictwo w wytwarzaniu i badaniu produktów leczniczych, w tym pełnienie funkcji Osoby Wykwalifikowanej w rozumieniu art. 2 pkt 21c ustawy – Prawo farmaceutyczne lub Osoby Kompetentnej w rozumieniu art. 2 pkt 21a tej ustawy;
 - **13)** zgłaszanie właściwym organom działań niepożądanych produktów leczniczych, incydentów medycznych, niepożądanych odczynów poszczepiennych, ciężkich działań niepożądanych produktów kosmetycznych oraz podejrzenia lub stwierdzenia zatrucia produktem biobójczym;
 - **14)** prowadzenie działalności profilaktycznej, edukacyjnej oraz działalności na rzecz promocji zdrowia;
 - **15)** przeprowadzanie analiz farmakoekonomicznych;
@@ -110,12 +133,12 @@ Art. 82–86. (pominięte)
 
 5. Wykonywanie zawodu farmaceuty obejmuje także:
 
-- **1)** prowadzenie działalności dydaktycznej w uczelniach prowadzących studia na kierunku farmacja oraz badań naukowych i prac rozwojowych w dyscyplinie naukowej nauki farmaceutyczne;
-- **2)** zatrudnienie w Państwowej Inspekcji Farmaceutycznej, w ramach którego wykonuje się czynności nadzoru określone w art. 108 ust. 1 ustawy Prawo farmaceutyczne;
+- **1)** prowadzenie działalności dydaktycznej w uczelniach prowadzących studia na kierunku farmacja oraz badań naukowych i prac rozwojowych w dyscyplinie naukowej – nauki farmaceutyczne;
+- **2)** zatrudnienie w Państwowej Inspekcji Farmaceutycznej, w ramach którego wykonuje się czynności nadzoru określone w art. 108 ust. 1 ustawy – Prawo farmaceutyczne;
 - **3)** zatrudnienie w podmiotach zobowiązanych do finansowania świadczeń opieki zdrowotnej ze środków publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub urzędach te podmioty obsługujących, w ramach którego wykonuje się czynności związane z obrotem i wydawaniem produktów, środków lub wyrobów, o których mowa w ust. 3 pkt 1;
-- **4)** zatrudnienie w jednostkach podległych ministrowi właściwemu do spraw zdrowia lub przez niego nadzorowanych na stanowisku związanym z wykonywaniem zawodu farmaceuty;
+- **4)** zatrudnienie w jednostkach podległych ministrowi właściwemu do spraw zdrowia lub przez niego nadzorowanych – na stanowisku związanym z wykonywaniem zawodu farmaceuty;
 - **5)** zatrudnienie, w ramach którego są wykonywane czynności związane z dopuszczaniem lub wprowadzaniem do obrotu lub użytkowania produktów lub wyrobów, o których mowa w ust. 3 pkt 1, ich refundacją, taryfikacją lub kontrolą obrotu nimi oraz związane z realizacją polityki lekowej;
-- **6)** zatrudnienie lub pełnienie służby wojskowej w urzędzie obsługującym Ministra Obrony Narodowej, w jednostkach organizacyjnych jemu podległych lub przez niego nadzorowanych, w ramach których wykonuje się czynności nadzoru określone w art. 118 ust. 1 ustawy Prawo farmaceutyczne na stanowiskach wymagających posiadania tytułu zawodowego farmaceuty;
+- **6)** zatrudnienie lub pełnienie służby wojskowej w urzędzie obsługującym Ministra Obrony Narodowej, w jednostkach organizacyjnych jemu podległych lub przez niego nadzorowanych, w ramach których wykonuje się czynności nadzoru określone w art. 118 ust. 1 ustawy – Prawo farmaceutyczne na stanowiskach wymagających posiadania tytułu zawodowego farmaceuty;
 - **7)** pełnienie funkcji z wyboru w samorządzie zawodu farmaceuty;
 - **8)** zatrudnienie lub pełnienie służby w urzędzie obsługującym Ministra Sprawiedliwości lub w jednostkach organizacyjnych jemu podległych lub przez niego nadzorowanych, na stanowiskach wymagających posiadania tytułu zawodowego farmaceuty, w ramach których wykonuje się czynności nadzoru nad wytwarzaniem i obrotem produktami leczniczymi i wyrobami medycznymi.
 
@@ -127,7 +150,7 @@ Art. 82–86. (pominięte)
 
 1. Kwalifikacje do wykonywania zawodu farmaceuty posiada osoba, która:
 
-- **1)** rozpoczęła po roku akademickim 2018/2019 studia przygotowujące do wykonywania zawodu farmaceuty, prowadzone zgodnie z przepisami wydanymi na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897), obejmujące sześciomiesięczną praktykę zawodową w aptece, i uzyskała tytuł magistra farmacji albo
+- **1)** rozpoczęła po roku akademickim 2018/2019 studia przygotowujące do wykonywania zawodu farmaceuty, prowadzone zgodnie z przepisami wydanymi na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897), obejmujące sześciomiesięczną praktykę zawodową w aptece, i uzyskała tytuł magistra farmacji albo
 - **2)** rozpoczęła przed dniem 1 października 2019 r. w Rzeczypospolitej Polskiej co najmniej pięcioletnie studia na kierunku farmacja, obejmujące co najmniej sześciomiesięczną praktykę zawodową w aptece, i uzyskała tytuł magistra farmacji, albo
 - **3)** ukończyła przed dniem 1 maja 2004 r. w Rzeczypospolitej Polskiej czteroletnie lub pięcioletnie studia na kierunku farmacja i uzyskała tytuł magistra farmacji, albo
 - **4)** posiada dyplom wydany przez państwo inne niż państwo członkowskie, potwierdzający ukończenie co najmniej pięcioletnich studiów na kierunku farmacja, obejmujących co najmniej sześciomiesięczną praktykę zawodową w aptece, uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem i tytułem magistra farmacji uzyskiwanym w Rzeczypospolitej Polskiej zgodnie z przepisami o szkolnictwie wyższym i nauce oraz potwierdzający, że spełnione zostały minimalne wymagania dotyczące kształcenia określone w przepisach prawa Unii Europejskiej, albo
@@ -139,28 +162,28 @@ Art. 82–86. (pominięte)
 
 3. Za równoważne z dyplomem, świadectwem lub innym dokumentem potwierdzającym posiadanie kwalifikacji do wykonywania zawodu farmaceuty, określonymi w wykazie, o którym mowa w ust. 2, uważa się dyplom, świadectwo lub inny dokument wydany przez państwo członkowskie, jeżeli kształcenie zostało rozpoczęte przed dniem:
 
-- **1)** 1 października 1987 r. w Królestwie Belgii, Królestwie Danii, Republice Federalnej Niemiec, Republice Greckiej, Królestwie Hiszpanii, Republice Francuskiej, Republice Irlandii, Wielkim Księstwie Luksemburga, Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, Republice Portugalii lub Królestwie Niderlandów,
-- **2)** 11 marca 1990 r. w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Litewskiej,
-- **3)** 3 października 1990 r. w byłej Niemieckiej Republice Demokratycznej, pod warunkiem że dokument potwierdzający kwalifikacje farmaceuty uprawnia do wykonywania zawodu farmaceuty na terytorium Republiki Federalnej Niemiec na tych samych zasadach co dokument potwierdzający tego rodzaju kwalifikacje wydany przez odpowiednie władze lub organizacje Republiki Federalnej Niemiec,
-- **4)** 25 czerwca 1991 r. w byłej Jugosławii w przypadku Republiki Słowenii,
-- **5)** 20 sierpnia 1991 r. w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Estońskiej,
-- **6)** 21 sierpnia 1991 r. w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Łotewskiej,
-- **7)** 8 października 1991 r. w byłej Jugosławii w przypadku Republiki Chorwacji,
-- **8)** 1 stycznia 1993 r. w byłej Czechosłowacji w przypadku Republiki Czeskiej lub Republiki Słowackiej,
-- **9)** 1 listopada 1993 r. w Republice Włoskiej,
-- **10)** 1 stycznia 1994 r. w Republice Austrii, Republice Finlandii, Królestwie Szwecji, Królestwie Norwegii lub Republice Islandii,
-- **11)** 1 maja 1995 r. w Księstwie Liechtensteinu,
-- **12)** 1 czerwca 2002 r. w Konfederacji Szwajcarskiej,
-- **13)** 1 maja 2004 r. w Republice Czeskiej, Republice Słowackiej, Republice Słowenii, Republice Litewskiej, Republice Łotewskiej, Republice Estońskiej, Republice Węgierskiej, Republice Malty lub Republice Cypryjskiej,
-- **14)** 1 stycznia 2007 r. w Republice Bułgarii lub Rumunii,
-- **15)** 1 lipca 2013 r. w Republice Chorwacji a do dyplomu, świadectwa lub innego dokumentu dołączone zostało zaświadczenie wydane przez właściwe organy państwa członkowskiego, potwierdzające, że osoba posługująca się tymi dokumentami wykonywała w tym państwie zawód farmaceuty przez okres co najmniej 3 kolejnych lat w okresie 5 lat bezpośrednio poprzedzających wydanie zaświadczenia.
+- **1)** 1 października 1987 r. – w Królestwie Belgii, Królestwie Danii, Republice Federalnej Niemiec, Republice Greckiej, Królestwie Hiszpanii, Republice Francuskiej, Republice Irlandii, Wielkim Księstwie Luksemburga, Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, Republice Portugalii lub Królestwie Niderlandów,
+- **2)** 11 marca 1990 r. – w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Litewskiej,
+- **3)** 3 października 1990 r. – w byłej Niemieckiej Republice Demokratycznej, pod warunkiem że dokument potwierdzający kwalifikacje farmaceuty uprawnia do wykonywania zawodu farmaceuty na terytorium Republiki Federalnej Niemiec na tych samych zasadach co dokument potwierdzający tego rodzaju kwalifikacje wydany przez odpowiednie władze lub organizacje Republiki Federalnej Niemiec,
+- **4)** 25 czerwca 1991 r. – w byłej Jugosławii w przypadku Republiki Słowenii,
+- **5)** 20 sierpnia 1991 r. – w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Estońskiej,
+- **6)** 21 sierpnia 1991 r. – w byłym Związku Socjalistycznych Republik Radzieckich w przypadku Republiki Łotewskiej,
+- **7)** 8 października 1991 r. – w byłej Jugosławii w przypadku Republiki Chorwacji,
+- **8)** 1 stycznia 1993 r. – w byłej Czechosłowacji w przypadku Republiki Czeskiej lub Republiki Słowackiej,
+- **9)** 1 listopada 1993 r. – w Republice Włoskiej,
+- **10)** 1 stycznia 1994 r. – w Republice Austrii, Republice Finlandii, Królestwie Szwecji, Królestwie Norwegii lub Republice Islandii,
+- **11)** 1 maja 1995 r. – w Księstwie Liechtensteinu,
+- **12)** 1 czerwca 2002 r. – w Konfederacji Szwajcarskiej,
+- **13)** 1 maja 2004 r. – w Republice Czeskiej, Republice Słowackiej, Republice Słowenii, Republice Litewskiej, Republice Łotewskiej, Republice Estońskiej, Republice Węgierskiej, Republice Malty lub Republice Cypryjskiej,
+- **14)** 1 stycznia 2007 r. – w Republice Bułgarii lub Rumunii,
+- **15)** 1 lipca 2013 r. – w Republice Chorwacji – a do dyplomu, świadectwa lub innego dokumentu dołączone zostało zaświadczenie wydane przez właściwe organy państwa członkowskiego, potwierdzające, że osoba posługująca się tymi dokumentami wykonywała w tym państwie zawód farmaceuty przez okres co najmniej 3 kolejnych lat w okresie 5 lat bezpośrednio poprzedzających wydanie zaświadczenia.
 
 4. W przypadku farmaceuty będącego obywatelem państwa członkowskiego, którego dyplom, świadectwo lub inny dokument potwierdzający posiadanie kwalifikacji do wykonywania zawodu farmaceuty nie odpowiadają dokumentom określonym w wykazie, o którym mowa w ust. 2, kwalifikacje są uznawane przez NRA po przedstawieniu zaświadczenia wydanego przez właściwy organ państwa członkowskiego, potwierdzającego, że kwalifikacje zostały uzyskane po odbyciu kształcenia zgodnego z przepisami prawa Unii Europejskiej.
 
 5. W przypadku farmaceuty będącego obywatelem państwa członkowskiego:
 
 - **1)** który nie spełnia warunku dotyczącego wykonywania zawodu farmaceuty przez okres co najmniej 3 kolejnych lat w okresie 5 lat bezpośrednio poprzedzających wydanie zaświadczenia, o którym mowa w ust. 3, lub
-- **2)** posiadającego dyplom, świadectwo lub inny dokument potwierdzający posiadanie kwalifikacji do wykonywania zawodu farmaceuty, uzyskany w państwie innym niż państwo członkowskie oraz zaświadczenie, że posiada trzyletnie doświadczenie zawodowe w zawodzie farmaceuty uzyskane na terytorium państwa członkowskiego, które uznało to potwierdzenie kwalifikacji zawodowych farmaceuty zgodnie z wewnętrznymi przepisami tego państwa oraz potwierdziło uzyskane doświadczenie zawodowe stosuje się przepisy ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
+- **2)** posiadającego dyplom, świadectwo lub inny dokument potwierdzający posiadanie kwalifikacji do wykonywania zawodu farmaceuty, uzyskany w państwie innym niż państwo członkowskie oraz zaświadczenie, że posiada trzyletnie doświadczenie zawodowe w zawodzie farmaceuty uzyskane na terytorium państwa członkowskiego, które uznało to potwierdzenie kwalifikacji zawodowych farmaceuty zgodnie z wewnętrznymi przepisami tego państwa oraz potwierdziło uzyskane doświadczenie zawodowe – stosuje się przepisy ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
 
 **Art. 6.**
 
@@ -174,10 +197,10 @@ Art. 82–86. (pominięte)
 
 5. Osoba zamierzająca przystąpić do FEW składa do dyrektora CEM wniosek o przystąpienie do FEW do dnia:
 
-- **1)** 28 lutego roku kalendarzowego, w którym jest przeprowadzany dany egzamin w przypadku egzaminów wyznaczonych w okresie od dnia 15 maja do dnia 15 czerwca;
-- **2)** 31 lipca roku kalendarzowego, w którym jest przeprowadzany dany egzamin w przypadku egzaminów wyznaczonych w okresie od dnia 15 października do dnia 15 listopada.
+- **1)** 28 lutego roku kalendarzowego, w którym jest przeprowadzany dany egzamin – w przypadku egzaminów wyznaczonych w okresie od dnia 15 maja do dnia 15 czerwca;
+- **2)** 31 lipca roku kalendarzowego, w którym jest przeprowadzany dany egzamin – w przypadku egzaminów wyznaczonych w okresie od dnia 15 października do dnia 15 listopada.
 
-6. Do terminów, o których mowa w ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572). W przypadku awarii strony internetowej CEM trwającej dłużej niż godzinę, uniemożliwiającej dokonanie zgłoszenia w okresie tygodnia przed upływem terminów, o których mowa w ust. 5, termin ten przedłuża się z urzędu o czas trwania awarii od momentu jej usunięcia.
+6. Do terminów, o których mowa w ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572). W przypadku awarii strony internetowej CEM trwającej dłużej niż godzinę, uniemożliwiającej dokonanie zgłoszenia w okresie tygodnia przed upływem terminów, o których mowa w ust. 5, termin ten przedłuża się z urzędu o czas trwania awarii od momentu jej usunięcia.
 
 7. Wniosek o przystąpienie do FEW jest generowany w systemie teleinformatycznym CEM po wprowadzeniu przez wnioskodawcę do formularza na stronie internetowej CEM danych wymienionych w ust. 8. Wnioskodawca po pobraniu i wydrukowaniu wniosku podpisuje go własnoręcznie, a następnie składa do dyrektora CEM.
 
@@ -186,7 +209,7 @@ Art. 82–86. (pominięte)
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę urodzenia;
 - **3)** miejsce urodzenia;
-- **4)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo wydania;
+- **4)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo wydania;
 - **5)** obywatelstwo (obywatelstwa);
 - **6)** adres poczty elektronicznej i adres do korespondencji na terytorium Rzeczypospolitej Polskiej, a także, jeżeli posiada, numer telefonu;
 - **7)** numer i datę wydania dyplomu farmaceuty;
@@ -212,7 +235,7 @@ Art. 82–86. (pominięte)
 16. W przypadku:
 
 - **1)** niewniesienia opłaty egzaminacyjnej albo wniesienia jej w wysokości niższej niż należna,
-- **2)** stwierdzenia innych niż w pkt 1 braków formalnych we wniosku o przystąpienie do FEW lub jego załącznikach dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych pocztą elektroniczną na adres wskazany we wniosku o przystąpienie do FEW. Przepisy art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięte nimi zgłoszenie do FEW traktuje się jako niezłożone.
+- **2)** stwierdzenia innych niż w pkt 1 braków formalnych we wniosku o przystąpienie do FEW lub jego załącznikach – dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych pocztą elektroniczną na adres wskazany we wniosku o przystąpienie do FEW. Przepisy art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięte nimi zgłoszenie do FEW traktuje się jako niezłożone.
 
 17. Dyrektor CEM zawiadamia wnioskodawcę o miejscu i terminie przeprowadzenia FEW oraz nadanym numerze kodowym. Zawiadomienie jest przekazywane na adres wskazany we wniosku o przystąpienie do FEW nie później niż 14 dni przed terminem przeprowadzenia danego FEW.
 
@@ -255,7 +278,7 @@ Art. 82–86. (pominięte)
 11. Członkom Zespołów Egzaminacyjnych oraz komisji, o której mowa w art. 10 ust. 2, przysługuje:
 
 - **1)** wynagrodzenie za udział w pracach tego Zespołu Egzaminacyjnego albo tej komisji, w wysokości nie wyższej niż 500 zł dla przewodniczącego i nie wyższej niż 300 zł dla członka;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277), przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
 - **3)** zwolnienie od pracy w dniu wykonywania czynności tego Zespołu Egzaminacyjnego albo tej komisji, bez zachowania prawa do wynagrodzenia w przypadku organizowania FEW w dniu roboczym.
 
 12. Tryb wypłaty wynagrodzenia, o którym mowa w ust. 11 pkt 1, oraz zwrotu kosztów, o których mowa w ust. 11 pkt 2, określa, w drodze zarządzenia, dyrektor CEM.
@@ -300,7 +323,7 @@ Art. 82–86. (pominięte)
 
 3. Rozstrzygnięcie, o którym mowa w ust. 2, jest nieważne, jeżeli następuje niezgodnie z warunkami określonymi w ust. 2. Dyrektor CEM stwierdza nieważność rozstrzygnięcia w drodze zarządzenia nie później niż w terminie 3 dni od dnia przekazania przez komisję informacji o unieważnieniu pytania testowego.
 
-4. Pozytywny wynik FEW uzyskuje zdający, który uzyskał co najmniej 60 % maksymalnej liczby punktów z testu. Wynik FEW nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Pozytywny wynik FEW uzyskuje zdający, który uzyskał co najmniej 60 % maksymalnej liczby punktów z testu. Wynik FEW nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 5. Osoba, która nie uzyskała pozytywnego wyniku FEW, może przystąpić ponownie do egzaminu w innym terminie.
 
@@ -320,7 +343,7 @@ Art. 82–86. (pominięte)
 
 13. Unieważnienie FEW powoduje, że traktuje się go jako niebyły. W przypadku unieważnienia FEW z przyczyn nieleżących po stronie zdającego CEM dokonuje zwrotu opłaty, o której mowa w art. 6 ust. 13.
 
-14. Do rozstrzygnięć i postępowania, o których mowa w ust. 7–13, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracownika i organu, pełnomocnictw, sposobu obliczania terminów, wydawania uwierzytelnionych odpisów lub kopii akt sprawy oraz sprostowań.
+14. Do rozstrzygnięć i postępowania, o których mowa w ust. 7–13, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracownika i organu, pełnomocnictw, sposobu obliczania terminów, wydawania uwierzytelnionych odpisów lub kopii akt sprawy oraz sprostowań.
 
 15. Dokumentacja dotycząca FEW jest przechowywana przez CEM zgodnie z przepisami art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
 
@@ -336,7 +359,7 @@ Art. 82–86. (pominięte)
 - **6)** wysokość wynagrodzenia dla członków i przewodniczących Zespołów Egzaminacyjnych, o których mowa w art. 7 ust. 6, oraz komisji, o której mowa w art. 10 ust. 2,
 - **7)** wzór świadectwa złożenia FEW,
 - **8)** tryb wydawania przez dyrektora CEM duplikatu albo odpisu świadectwa złożenia FEW oraz sposób uiszczania opłaty, o której mowa w art. 10 ust. 6,
-- **9)** tryb dokonywania przez dyrektora CEM wymiany świadectwa złożenia FEW oraz sposób uiszczania opłaty, o której mowa w art. 10 ust. 6 mając na uwadze zakres wiedzy i umiejętności, które zgłaszający się do FEW powinien posiadać, oraz uwzględniając prawidłowe przygotowanie i przebieg FEW oraz zachowanie bezstronności pracy Zespołów Egzaminacyjnych, o których mowa w art. 7 ust. 6, i komisji, o której mowa w art. 10 ust. 2, nakład ich pracy, a także konieczność zapewnienia prawidłowego tworzenia dokumentacji dotyczącej złożenia FEW i koszty organizacji FEW.
+- **9)** tryb dokonywania przez dyrektora CEM wymiany świadectwa złożenia FEW oraz sposób uiszczania opłaty, o której mowa w art. 10 ust. 6 – mając na uwadze zakres wiedzy i umiejętności, które zgłaszający się do FEW powinien posiadać, oraz uwzględniając prawidłowe przygotowanie i przebieg FEW oraz zachowanie bezstronności pracy Zespołów Egzaminacyjnych, o których mowa w art. 7 ust. 6, i komisji, o której mowa w art. 10 ust. 2, nakład ich pracy, a także konieczność zapewnienia prawidłowego tworzenia dokumentacji dotyczącej złożenia FEW i koszty organizacji FEW.
 
 2. Dyrektor CEM wydaje regulamin porządkowy FEW, zatwierdzany przez ministra właściwego do spraw zdrowia.
 
@@ -344,8 +367,8 @@ Art. 82–86. (pominięte)
 
 1. Praktykę zawodową odbywa się w aptece, która uzyskała pozytywne opinie:
 
-- **1)** wojewódzkiego inspektora farmaceutycznego, a w odniesieniu do aptek zakładowych utworzonych w podmiotach leczniczych, dla których podmiotem tworzącym jest Minister Obrony Narodowej Naczelnego Inspektora Farmaceutycznego Wojska Polskiego,
-- **2)** okręgowej rady aptekarskiej właściwej ze względu na siedzibę apteki wydane na wniosek uczelni prowadzącej kształcenie na kierunku farmacja.
+- **1)** wojewódzkiego inspektora farmaceutycznego, a w odniesieniu do aptek zakładowych utworzonych w podmiotach leczniczych, dla których podmiotem tworzącym jest Minister Obrony Narodowej – Naczelnego Inspektora Farmaceutycznego Wojska Polskiego,
+- **2)** okręgowej rady aptekarskiej właściwej ze względu na siedzibę apteki – wydane na wniosek uczelni prowadzącej kształcenie na kierunku farmacja.
 
 2. Opinia, o której mowa w ust. 1 pkt 1, uwzględnia spełnianie warunków do prowadzenia apteki w zakresie umożliwiającym realizację programu praktyki zawodowej. Opinia, o której mowa w ust. 1 pkt 2, dotyczy oceny opiekuna w zakresie prowadzenia zajęć w ramach praktyki zawodowej.
 
@@ -361,7 +384,7 @@ Art. 82–86. (pominięte)
 
 **Art. 13.**
 
-1. Prawo wykonywania zawodu farmaceuty w odniesieniu do osoby, która posiada kwalifikacje, o których mowa w art. 5 ust. 1 pkt 1–3, przyznaje w drodze uchwały okręgowa rada aptekarska właściwa ze względu na zamierzone miejsce wykonywania zawodu farmaceuty, a w odniesieniu do osoby, która posiada kwalifikacje, o których mowa w art. 5 ust. 1 pkt 4–7 i ust. 4 NRA, w przypadku gdy osoba ta:
+1. Prawo wykonywania zawodu farmaceuty w odniesieniu do osoby, która posiada kwalifikacje, o których mowa w art. 5 ust. 1 pkt 1–3, przyznaje w drodze uchwały okręgowa rada aptekarska właściwa ze względu na zamierzone miejsce wykonywania zawodu farmaceuty, a w odniesieniu do osoby, która posiada kwalifikacje, o których mowa w art. 5 ust. 1 pkt 4–7 i ust. 4 – NRA, w przypadku gdy osoba ta:
 
 - **1)** posiada kwalifikacje określone w art. 5;
 - **2)** posiada pełną zdolność do czynności prawnych;
@@ -383,7 +406,7 @@ Art. 82–86. (pominięte)
 
 - **1)** zakres znajomości języka polskiego w mowie i w piśmie konieczny do wykonywania zawodu farmaceuty,
 - **2)** sposób przeprowadzania i potwierdzania pozytywnego złożenia egzaminu, o którym mowa w ust. 2, w tym wzór zaświadczenia o pozytywnym złożeniu egzaminu ze znajomości języka polskiego,
-- **3)** wysokość opłaty za egzamin, o którym mowa w ust. 2 uwzględniając zakres uprawnień zawodowych określonych w art. 4, prawidłowe przygotowanie i przebieg egzaminu, o którym mowa w ust. 2, oraz koszty jego przeprowadzenia.
+- **3)** wysokość opłaty za egzamin, o którym mowa w ust. 2 – uwzględniając zakres uprawnień zawodowych określonych w art. 4, prawidłowe przygotowanie i przebieg egzaminu, o którym mowa w ust. 2, oraz koszty jego przeprowadzenia.
 
 **Art. 14.**
 
@@ -421,8 +444,8 @@ Art. 82–86. (pominięte)
 
 5. W stosunku do osoby będącej obywatelem państwa członkowskiego innego niż Rzeczpospolita Polska lub obywatela polskiego przybywającego z takiego państwa za wystarczające w zakresie spełniania wymagań, o których mowa w art. 13 ust. 1:
 
-- **1)** pkt 3 uznaje się dokumenty odnoszące się do stanu zdrowia, wymagane do wykonywania zawodu farmaceuty w państwie członkowskim, którego farmaceuta jest obywatelem lub z którego przybywa; jeżeli w tym państwie dokumenty tego rodzaju nie są wymagane, za wystarczające uważa się dokumenty wydane w tym państwie, odpowiadające dokumentom wydawanym w Rzeczypospolitej Polskiej;
-- **2)** pkt 4 uznaje się dokumenty wydane przez właściwe organy państwa członkowskiego, którego farmaceuta jest obywatelem lub z którego przybywa, potwierdzające, że obowiązujące w tym państwie wymagania dotyczące postawy etycznej do wykonywania zawodu farmaceuty zostały spełnione, a w szczególności, że nie zostało zawieszone lub odebrane prawo wykonywania zawodu farmaceuty oraz że osoba ta nie była prawomocnie skazana za umyślne przestępstwo z oskarżenia publicznego; jeżeli w tym państwie nie wydaje się dokumentu potwierdzającego spełnienie wymagań, o których mowa w art. 13 ust. 1 pkt 4, za wystarczające uznaje się złożenie oświadczenia przed Prezesem NRA.
+- **1)** pkt 3 – uznaje się dokumenty odnoszące się do stanu zdrowia, wymagane do wykonywania zawodu farmaceuty w państwie członkowskim, którego farmaceuta jest obywatelem lub z którego przybywa; jeżeli w tym państwie dokumenty tego rodzaju nie są wymagane, za wystarczające uważa się dokumenty wydane w tym państwie, odpowiadające dokumentom wydawanym w Rzeczypospolitej Polskiej;
+- **2)** pkt 4 – uznaje się dokumenty wydane przez właściwe organy państwa członkowskiego, którego farmaceuta jest obywatelem lub z którego przybywa, potwierdzające, że obowiązujące w tym państwie wymagania dotyczące postawy etycznej do wykonywania zawodu farmaceuty zostały spełnione, a w szczególności, że nie zostało zawieszone lub odebrane prawo wykonywania zawodu farmaceuty oraz że osoba ta nie była prawomocnie skazana za umyślne przestępstwo z oskarżenia publicznego; jeżeli w tym państwie nie wydaje się dokumentu potwierdzającego spełnienie wymagań, o których mowa w art. 13 ust. 1 pkt 4, za wystarczające uznaje się złożenie oświadczenia przed Prezesem NRA.
 
 6. Dokumenty, o których mowa w ust. 5, są ważne 3 miesiące od dnia ich wystawienia.
 
@@ -430,17 +453,17 @@ Art. 82–86. (pominięte)
 
 1. Farmaceuta, w stosunku do którego podjęta została uchwała przez NRA albo okręgową radę aptekarską o przyznaniu prawa wykonywania zawodu farmaceuty, składa ślubowanie w języku polskim.
 
-2. Okręgowa rada aptekarska właściwa ze względu na zamierzone miejsce wykonywania zawodu farmaceuty, a w przypadku obywatela państwa członkowskiego NRA, informuje farmaceutę o terminie ślubowania. Ślubowanie odbywa się bez zbędnej zwłoki.
+2. Okręgowa rada aptekarska właściwa ze względu na zamierzone miejsce wykonywania zawodu farmaceuty, a w przypadku obywatela państwa członkowskiego – NRA, informuje farmaceutę o terminie ślubowania. Ślubowanie odbywa się bez zbędnej zwłoki.
 
 3. Ślubowanie składane przez farmaceutę w brzmieniu: „Ślubuję uroczyście w swej pracy farmaceuty sumiennie, gorliwie i z należytą starannością wykonywać swoje obowiązki, mając zawsze na uwadze dobro pacjenta, wymogi etyki zawodowej i obowiązujące prawo, a także zachować tajemnicę zawodową, zaś w postępowaniu swoim kierować się zasadami godności, uczciwości i słuszności.” odbiera prezes właściwej okręgowej rady aptekarskiej albo Prezes NRA. W przypadku nieobecności prezesa właściwej okręgowej rady aptekarskiej albo Prezesa NRA ślubowanie odbiera wskazany wiceprezes okręgowej rady aptekarskiej albo wiceprezes NRA.
 
 **Art. 17.**
 
-1. Okręgowa rada aptekarska, a w przypadku obywatela państwa członkowskiego innego niż obywatel polski NRA, niezwłocznie po złożeniu ślubowania, o którym mowa w art. 16, wydaje farmaceucie dokument „Prawo wykonywania zawodu farmaceuty”.
+1. Okręgowa rada aptekarska, a w przypadku obywatela państwa członkowskiego innego niż obywatel polski – NRA, niezwłocznie po złożeniu ślubowania, o którym mowa w art. 16, wydaje farmaceucie dokument „Prawo wykonywania zawodu farmaceuty”.
 
 2. Dokument „Prawo wykonywania zawodu farmaceuty” zawiera:
 
-- **1)** nazwę dokumentu „Prawo wykonywania zawodu farmaceuty” i odpowiednio nazwę dokumentu w języku angielskim;
+- **1)** nazwę dokumentu – „Prawo wykonywania zawodu farmaceuty” i odpowiednio nazwę dokumentu w języku angielskim;
 - **2)** numer prawa wykonywania zawodu;
 - **3)** datę uzyskania prawa wykonywania zawodu;
 - **4)** wskazanie organu przyznającego prawo wykonywania zawodu;
@@ -520,7 +543,7 @@ Art. 82–86. (pominięte)
 
 - **1)** odmowy przez farmaceutę stawienia się przed komisją,
 - **2)** uchylania się przez farmaceutę od wykonania niezbędnych badań,
-- **3)** stwierdzenia przez komisję, w drodze orzeczenia, że dalsze wykonywanie zawodu farmaceuty lub ściśle określonych czynności przez farmaceutę grozi niebezpieczeństwem dla pacjentów okręgowa rada aptekarska podejmuje uchwałę o zawieszeniu farmaceuty w prawie wykonywania zawodu albo o ograniczeniu w wykonywaniu określonych czynności do czasu zakończenia postępowania przed komisją.
+- **3)** stwierdzenia przez komisję, w drodze orzeczenia, że dalsze wykonywanie zawodu farmaceuty lub ściśle określonych czynności przez farmaceutę grozi niebezpieczeństwem dla pacjentów – okręgowa rada aptekarska podejmuje uchwałę o zawieszeniu farmaceuty w prawie wykonywania zawodu albo o ograniczeniu w wykonywaniu określonych czynności do czasu zakończenia postępowania przed komisją.
 
 4. Farmaceuta, którego dotyczy postępowanie przed komisją, jest uprawniony do uczestnictwa w posiedzeniu okręgowej rady aptekarskiej w czasie rozpatrywania jego sprawy.
 
@@ -544,7 +567,7 @@ Art. 82–86. (pominięte)
 
 3. Minister właściwy do spraw zdrowia może zaskarżyć do sądu administracyjnego ostateczną uchwałę samorządu zawodu farmaceuty w sprawach wymienionych w ust. 1 i 2.
 
-4. Do postępowań w sprawach, o których mowa w art. 13 ust. 1, art. 21 ust. 2 i art. 22 ust. 3, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Do postępowań w sprawach, o których mowa w art. 13 ust. 1, art. 21 ust. 2 i art. 22 ust. 3, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 #### Rozdział 3 Zasady wykonywania zawodu farmaceuty
 
@@ -575,7 +598,7 @@ Art. 82–86. (pominięte)
 
 2. Farmaceuta w ramach sprawowanej usługi farmacji klinicznej prowadzi także kartę indywidualnej opieki farmaceuty dla każdej z usług farmaceutycznych, o których mowa w art. 4 ust. 3 pkt 4, świadczonej przez aptekę szpitalną.
 
-**Art. 33.** Farmaceuta jest obowiązany zgłosić działanie niepożądane produktu leczniczego zgodnie z art. 36d ustawy Prawo farmaceutyczne, incydent w rozumieniu art. 2 pkt 64 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG lub art. 2 pkt 67 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE, lub niepożądany odczyn poszczepienny zgodnie z art. 21 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
+**Art. 33.** Farmaceuta jest obowiązany zgłosić działanie niepożądane produktu leczniczego zgodnie z art. 36d ustawy – Prawo farmaceutyczne, incydent w rozumieniu art. 2 pkt 64 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG lub art. 2 pkt 67 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE, lub niepożądany odczyn poszczepienny zgodnie z art. 21 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
 
 **Art. 34.** Obowiązek zachowania w tajemnicy informacji związanych z pacjentem, o których mowa w art. 14 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581), podlega ograniczeniu w zakresie, w jakim jest to niezbędne do prawidłowego odbycia praktyk zawodowych pod nadzorem farmaceuty.
 
@@ -585,17 +608,17 @@ Art. 82–86. (pominięte)
 
 2. Podmiot prowadzący aptekę, punkt apteczny lub dział farmacji szpitalnej ma obowiązek umożliwić aptekarzowi samodzielne podejmowanie decyzji w zakresie sprawowania opieki farmaceutycznej, udzielania usług farmaceutycznych lub wykonywania zadań zawodowych w zakresie, w jakim są one związane z prowadzoną przez ten podmiot działalnością.
 
-**Art. 35a.** Farmaceuta podczas i w związku z wykonywaniem w aptece ogólnodostępnej lub punkcie aptecznym czynności, o których mowa w art. 4 ust. 2 oraz ust. 3 pkt 1, 3, 4 i 6, korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383).
+**Art. 35a.** Farmaceuta podczas i w związku z wykonywaniem w aptece ogólnodostępnej lub punkcie aptecznym czynności, o których mowa w art. 4 ust. 2 oraz ust. 3 pkt 1, 3, 4 i 6, korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
 
 **Art. 36.**
 
 1. Zawód farmaceuty wykonuje się:
 
-- **1)** w ramach stosunku pracy w rozumieniu ustawy z dnia 26 czerwca 1974 r. Kodeks pracy;
-- **2)** na podstawie umowy cywilnoprawnej zgodnie z ustawą z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237);
+- **1)** w ramach stosunku pracy w rozumieniu ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **2)** na podstawie umowy cywilnoprawnej zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237);
 - **3)** w ramach wolontariatu zgodnie z ustawą z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940);
-- **4)** w formie jednoosobowej działalności gospodarczej zgodnie z ustawą z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222);
-- **5)** jako wspólnik spółki jawnej lub wspólnik (partner) spółki partnerskiej, której przedmiotem działalności jest prowadzenie apteki zgodnie z ustawą z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96);
+- **4)** w formie jednoosobowej działalności gospodarczej zgodnie z ustawą z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222);
+- **5)** jako wspólnik spółki jawnej lub wspólnik (partner) spółki partnerskiej, której przedmiotem działalności jest prowadzenie apteki zgodnie z ustawą z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96);
 - **6)** w ramach stosunku służbowego zgodnie z ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ) lub ustawą z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2024 r. poz. 1869 i 1871 oraz z 2025 r. poz. 179 i 240).
 
 2. Farmaceuta jest obowiązany niezwłocznie informować okręgową izbę aptekarską, której jest członkiem, o podjęciu lub zakończeniu wykonywania zawodu na obszarze jej właściwości.
@@ -656,6 +679,9 @@ Art. 82–86. (pominięte)
 
 **Art. 42.** Przepisów art. 38–41 nie stosuje się do obywatela państwa trzeciego:
 
+- **1)** posiadającego zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c albo d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+- **2)** któremu w Rzeczypospolitej Polskiej nadano status uchodźcy albo udzielono ochrony uzupełniającej.
+
 #### Rozdział 5 Ustawiczny rozwój zawodowy farmaceutów
 
 **Art. 43.**
@@ -665,6 +691,10 @@ Art. 82–86. (pominięte)
 2. Ustawiczny rozwój zawodowy może być realizowany przez kształcenie podyplomowe lub doskonalenie zawodowe.
 
 **Art. 44.** Farmaceuta ma prawo do stałego aktualizowania wiedzy i umiejętności przez uczestnictwo w ramach kształcenia podyplomowego w:
+
+- **1)** szkoleniu specjalizacyjnym;
+- **2)** kursach kwalifikacyjnych;
+- **3)** studiach podyplomowych.
 
 **Art. 45.**
 
@@ -767,7 +797,7 @@ Art. 82–86. (pominięte)
 - **6)** stwierdzone nieprawidłowości albo informację o braku zastrzeżeń;
 - **7)** wnioski osób wykonujących czynności kontrolne;
 - **8)** datę i miejsce sporządzenia protokołu;
-- **9)** w przypadku odmowy podpisania protokołu przez kierownika jednostki szkolącej informację o takiej odmowie.
+- **9)** w przypadku odmowy podpisania protokołu przez kierownika jednostki szkolącej – informację o takiej odmowie.
 
 4. Protokół podpisują osoby wykonujące czynności kontrolne oraz kierownik jednostki szkolącej. Odmowa podpisania protokołu przez kierownika jednostki szkolącej nie stanowi przeszkody do podpisania protokołu przez osoby wykonujące czynności kontrolne.
 
@@ -784,7 +814,7 @@ Art. 82–86. (pominięte)
 10. Osobom wykonującym czynności kontrolne przysługuje:
 
 - **1)** wynagrodzenie za wykonanie czynności kontrolnych w wysokości nie wyższej niż 300 złotych;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
 - **3)** zwolnienie od pracy w dniach wykonywania czynności kontrolnych bez zachowania prawa do wynagrodzenia.
 
 **Art. 48.** Monitorowanie systemu szkolenia specjalizacyjnego polega w szczególności na analizie danych dotyczących osób odbywających szkolenie specjalizacyjne oraz realizacji jego przebiegu oraz osób, które uzyskały tytuł specjalisty w danej dziedzinie farmacji, których dane zgromadzone są w SMK.
@@ -865,10 +895,10 @@ Art. 82–86. (pominięte)
 
 6. Weryfikacji uprawnień, o której mowa w ust. 4, dokonuje w stosunku do:
 
-- **1)** farmaceuty właściwa miejscowo okręgowa izba aptekarska, a jeżeli nie jest możliwe ustalenie właściwej okręgowej izby aptekarskiej NIA;
-- **2)** kierownika specjalizacji właściwa jednostka szkoląca;
-- **3)** konsultanta wojewódzkiego właściwy miejscowo wojewoda;
-- **4)** konsultanta krajowego minister właściwy do spraw zdrowia.
+- **1)** farmaceuty – właściwa miejscowo okręgowa izba aptekarska, a jeżeli nie jest możliwe ustalenie właściwej okręgowej izby aptekarskiej – NIA;
+- **2)** kierownika specjalizacji – właściwa jednostka szkoląca;
+- **3)** konsultanta wojewódzkiego – właściwy miejscowo wojewoda;
+- **4)** konsultanta krajowego – minister właściwy do spraw zdrowia.
 
 7. Farmaceuta za pomocą SMK składa wniosek o odbycie szkolenia specjalizacyjnego do wojewody właściwego ze względu na obszar województwa, na terenie którego zamierza odbywać szkolenie specjalizacyjne.
 
@@ -876,7 +906,7 @@ Art. 82–86. (pominięte)
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+- **3)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
 - **4)** numer dokumentu „Prawo wykonywania zawodu farmaceuty”;
 - **5)** obywatelstwo (obywatelstwa);
 - **6)** adres do korespondencji, a także, jeżeli posiada, numer telefonu i adres poczty elektronicznej;
@@ -899,7 +929,7 @@ Art. 82–86. (pominięte)
 
 12. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 11. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
 
-13. Do terminów, o których mowa w ust. 11 i 12, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej dokonanie zgłoszenia przed upływem terminów, o których mowa odpowiednio w ust. 11 albo 12, terminy te przedłuża się z urzędu o czas trwania awarii od momentu jej usunięcia.
+13. Do terminów, o których mowa w ust. 11 i 12, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej dokonanie zgłoszenia przed upływem terminów, o których mowa odpowiednio w ust. 11 albo 12, terminy te przedłuża się z urzędu o czas trwania awarii od momentu jej usunięcia.
 
 14. Farmaceuta ubiegający się o odbywanie szkolenia specjalizacyjnego może być w danym terminie dopuszczony do postępowania kwalifikacyjnego tylko w jednej dziedzinie farmacji i tylko w jednym województwie.
 
@@ -919,14 +949,14 @@ Art. 82–86. (pominięte)
 
 4. Postępowanie konkursowe przeprowadza się, jeżeli liczba kandydatów do odbycia szkolenia specjalizacyjnego spełniających warunki określone w art. 50 ust. 2 jest większa niż liczba miejsc szkoleniowych. W postępowaniu konkursowym uwzględnia się:
 
-- **1)** staż pracy w zawodzie farmaceuty w pełnym wymiarze czasu pracy, a w przypadku wykonywania zawodu farmaceuty na podstawie innej niż stosunek pracy równoważnik etatu;
+- **1)** staż pracy w zawodzie farmaceuty w pełnym wymiarze czasu pracy, a w przypadku wykonywania zawodu farmaceuty na podstawie innej niż stosunek pracy – równoważnik etatu;
 - **2)** posiadanie stopnia naukowego lub tytułu profesora;
 - **3)** opublikowanie jako autor lub współautor:
     - **a)** monografii naukowej,
     - **b)** artykułu naukowego oryginalnego,
     - **c)** artykułu o charakterze poglądowym, rozdziału w książce naukowej lub popularnonaukowej,
     - **d)** artykułu popularnonaukowego, programu multimedialnego lub komunikatu z badań naukowych,
-    - **e)** publikacji w czasopiśmie naukowym zamieszczonym w wykazie czasopism naukowych sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. b ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce lub w wykazach czasopism naukowych sporządzonych na podstawie poprzednio obowiązujących przepisów z zakresu farmacji.
+    - **e)** publikacji w czasopiśmie naukowym zamieszczonym w wykazie czasopism naukowych sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. b ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce lub w wykazach czasopism naukowych sporządzonych na podstawie poprzednio obowiązujących przepisów – z zakresu farmacji.
 
 5. W przypadku gdy co najmniej dwóch kandydatów ubiegających się o miejsce szkoleniowe w tej samej dziedzinie farmacji ma identyczny wynik w postępowaniu konkursowym, uwzględnia się wynik studiów na dyplomie ukończenia studiów.
 
@@ -954,7 +984,7 @@ Art. 82–86. (pominięte)
     - **a)** imię (imiona) i nazwisko,
     - **b)** datę i miejsce urodzenia,
     - **c)** płeć,
-    - **d)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania,
+    - **d)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania,
     - **e)** adres do korespondencji, a także, jeżeli posiada, numer telefonu i adres poczty elektronicznej,
     - **f)** numer i datę wydania dyplomu ukończenia studiów,
     - **g)** informację o posiadanym stopniu naukowym lub tytule profesora;
@@ -980,7 +1010,7 @@ Art. 82–86. (pominięte)
 
 - **1)** numer wpisu do rejestru składający się z ciągu kolejnych znaków:
     - **a)** unikalny identyfikator wpisu nadawany przez SMK,
-    - **b)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+    - **b)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
 
 - **2)** imię (imiona) i nazwisko;
 - **3)** obywatelstwo (obywatelstwa);
@@ -1005,10 +1035,10 @@ Art. 82–86. (pominięte)
 
 - **1)** obejmujący okres pobierania świadczenia przewidzianego w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780 oraz z 2024 r. poz. 1871);
 - **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas nie dłuższy niż 3 miesiące w okresie szkolenia specjalizacyjnego;
-- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185 i art. 188 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy;
+- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **4)** z powodu przerwy, nie dłuższej niż 14 dni, wynikającej z procedur stosowanych przy zmianie jednostki szkolącej;
 - **5)** z powodu przerwy, nie dłuższej niż 12 miesięcy, wynikającej z realizacji szkolenia specjalizacyjnego odbywanej w trybie poszerzenia programu studiów podyplomowych o program szkolenia specjalizacyjnego zgodnie z zakresem tych studiów;
-- **6)** z powodu urlopu wychowawczego na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+- **6)** z powodu urlopu wychowawczego na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 2. Okres szkolenia specjalizacyjnego zostaje dodatkowo przedłużony o okres wykonywania obowiązków poza granicami państwa w ramach misji Polskich Kontyngentów Wojskowych lub medycznych misji humanitarnych.
 
@@ -1055,9 +1085,9 @@ Art. 82–86. (pominięte)
 
 2. Kierownika specjalizacji powołuje za jego zgodą i odwołuje kierownik jednostki szkolącej.
 
-3. Kierownikiem specjalizacji może być osoba posiadająca tytuł specjalisty w danej dziedzinie farmacji będącej przedmiotem szkolenia specjalizacyjnego, a w uzasadnionych przypadkach w dziedzinie pokrewnej, albo osoba, o której mowa w art. 73 ust. 1.
+3. Kierownikiem specjalizacji może być osoba posiadająca tytuł specjalisty w danej dziedzinie farmacji będącej przedmiotem szkolenia specjalizacyjnego, a w uzasadnionych przypadkach – w dziedzinie pokrewnej, albo osoba, o której mowa w art. 73 ust. 1.
 
-4. Kierownik specjalizacji może wykonywać swoje obowiązki związane ze szkoleniem specjalizacyjnym w stosunku do nie więcej niż trzech osób, a w uzasadnionych przypadkach, za zgodą konsultanta krajowego w danej dziedzinie farmacji albo pokrewnej, jeżeli w danej dziedzinie nie powołano konsultanta krajowego czterech osób.
+4. Kierownik specjalizacji może wykonywać swoje obowiązki związane ze szkoleniem specjalizacyjnym w stosunku do nie więcej niż trzech osób, a w uzasadnionych przypadkach, za zgodą konsultanta krajowego w danej dziedzinie farmacji albo pokrewnej, jeżeli w danej dziedzinie nie powołano konsultanta krajowego – czterech osób.
 
 5. Do obowiązków kierownika specjalizacji należy:
 
@@ -1112,7 +1142,7 @@ Art. 82–86. (pominięte)
 - **1)** potwierdza zakończenie szkolenia specjalizacyjnego;
 - **2)** w przypadku, o którym mowa w ust. 3, odmawia potwierdzenia zakończenia szkolenia specjalizacyjnego oraz kieruje farmaceutę do zrealizowania brakującego elementu programu szkolenia specjalizacyjnego i przedłuża okres szkolenia na czas niezbędny do realizacji tego elementu, uwzględniając okres przerwy wynikającej z procedur weryfikacji realizacji programu specjalizacji.
 
-5. Wojewoda zawiadamia farmaceutę o rozstrzygnięciu, o którym mowa w ust. 4, za pomocą SMK. O odmowie potwierdzenia zakończenia szkolenia specjalizacyjnego wojewoda powiadamia farmaceutę również na piśmie. Do doręczenia powiadomienia na piśmie przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+5. Wojewoda zawiadamia farmaceutę o rozstrzygnięciu, o którym mowa w ust. 4, za pomocą SMK. O odmowie potwierdzenia zakończenia szkolenia specjalizacyjnego wojewoda powiadamia farmaceutę również na piśmie. Do doręczenia powiadomienia na piśmie przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 6. W przypadku, o którym mowa w ust. 4 pkt 2, po zrealizowaniu brakującego elementu programu szkolenia specjalizacyjnego przez farmaceutę, przepisy ust. 2–5 stosuje się.
 
@@ -1123,7 +1153,7 @@ Art. 82–86. (pominięte)
 2. Wniosek o przystąpienie do PESF zawiera następujące dane:
 
 - **1)** imię (imiona) i nazwisko wnioskodawcy;
-- **2)** numer PESEL wnioskodawcy, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+- **2)** numer PESEL wnioskodawcy, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
 - **3)** numer dokumentu „Prawo wykonywania zawodu farmaceuty”;
 - **4)** adres do korespondencji wnioskodawcy, a także, jeżeli posiada, numer telefonu i adres poczty elektronicznej;
 - **5)** nazwę uczelni, w której wnioskodawca ukończył studia;
@@ -1136,9 +1166,9 @@ Art. 82–86. (pominięte)
 
 3. Wniosek o przystąpienie do PESF składa się za pomocą SMK.
 
-4. Zgłoszenie do PESF składa się w terminie do dnia 31 lipca dla sesji jesiennej albo do dnia 31 stycznia dla sesji wiosennej. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Zgłoszenie do PESF składa się w terminie do dnia 31 lipca dla sesji jesiennej albo do dnia 31 stycznia dla sesji wiosennej. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-5. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 4. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
+5. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 4. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
 
 6. Dyrektor CEM ustala listy farmaceutów zdających PESF w danym miejscu i terminie oraz zawiadamia te osoby o terminie i miejscu egzaminu oraz nadanym numerze kodowym nie później niż 14 dni przed rozpoczęciem egzaminu. Zawiadomienie jest przekazywane za pomocą SMK lub pocztą elektroniczną na adres wskazany we wniosku o przystąpienie do PESF.
 
@@ -1152,13 +1182,13 @@ Art. 82–86. (pominięte)
 
 3. Opłata egzaminacyjna stanowi dochód budżetu państwa.
 
-4. W przypadku niewniesienia opłaty egzaminacyjnej albo wniesienia jej w wysokości niższej niż należna dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych za pomocą SMK lub za pomocą środków komunikacji elektronicznej na adres wskazany we wniosku, o którym mowa w art. 60 ust. 1. Przepisy art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięty nim wniosek o przystąpienie do PESF traktuje się jako niezłożony. O konsekwencji tej dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
+4. W przypadku niewniesienia opłaty egzaminacyjnej albo wniesienia jej w wysokości niższej niż należna dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych za pomocą SMK lub za pomocą środków komunikacji elektronicznej na adres wskazany we wniosku, o którym mowa w art. 60 ust. 1. Przepisy art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięty nim wniosek o przystąpienie do PESF traktuje się jako niezłożony. O konsekwencji tej dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
 
 5. Z opłaty, o której mowa w ust. 1, za kolejne zgłoszenie do PESF może zostać zwolniony farmaceuta, który w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii mimo zgłoszenia się do PESF nie przystąpił do tego egzaminu.
 
 6. W celu uzyskania zwolnienia z opłaty, o którym mowa w ust. 5, farmaceuta w terminie 30 dni od dnia, w którym odbył się PESF, do którego miał przystąpić, składa do dyrektora CEM wniosek o zwolnienie z opłaty za kolejne zgłoszenie do PESF.
 
-7. Do terminu, o którym mowa w ust. 6, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+7. Do terminu, o którym mowa w ust. 6, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 62.**
 
@@ -1181,7 +1211,7 @@ Art. 82–86. (pominięte)
 7. W zgłoszeniu, o którym mowa w ust. 6, zamieszcza się następujące dane kandydata do PKE:
 
 - **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+- **2)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
 - **3)** określenie posiadanej specjalizacji;
 - **4)** wskazanie dziedziny farmacji, w której kandydat ma być powołany do PKE;
 - **5)** adres do korespondencji, a także, jeżeli posiada, numer telefonu i adres poczty elektronicznej.
@@ -1225,12 +1255,16 @@ Art. 82–86. (pominięte)
 5. Członkom Zespołów Egzaminacyjnych przysługuje:
 
 - **1)** wynagrodzenie za udział w pracach tego Zespołu Egzaminacyjnego, w wysokości nie wyższej niż 500 zł dla przewodniczącego oraz nie wyższej niż 300 zł dla członka;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
 - **3)** zwolnienie od pracy w dniu wykonywania czynności Zespołu Egzaminacyjnego bez zachowania prawa do wynagrodzenia.
 
 6. Tryb wypłaty wynagrodzenia, o którym mowa w ust. 5 pkt 1, oraz zwrotu kosztów, o których mowa w ust. 5 pkt 2, określa w drodze zarządzenia dyrektor CEM.
 
 **Art. 64.** Do zadań Zespołu Egzaminacyjnego należy:
+
+- **1)** przeprowadzenie PESF zgodnie z regulaminem porządkowym, o którym mowa w art. 65 ust. 13;
+- **2)** przekazanie do CEM kart odpowiedzi niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminów ustnego i praktycznego oraz dokumentacji związanej z przeprowadzonym PESF, niezwłocznie po zakończonym PESF, nie później jednak niż w terminie 14 dni od dnia zakończenia PESF.
 
 **Art. 65.**
 
@@ -1251,7 +1285,7 @@ Art. 82–86. (pominięte)
 - **1)** testu, gdy do PESF w danej dziedzinie farmacji w sesji zostanie dopuszczonych co najmniej 30 osób, albo
 - **2)** egzaminu ustnego.
 
-8. W uzasadnionych przypadkach minister właściwy do spraw zdrowia może, na wniosek dyrektora CEM, wyrazić zgodę na odstąpienie od przeprowadzenia egzaminu testowego PESF dla wszystkich farmaceutów dopuszczonych do PESF w danej dziedzinie w określonej sesji egzaminacyjnej, z zachowaniem egzaminu ustnego, albo zdecydować o przeprowadzeniu PESF jeden raz w roku z zachowaniem wszystkich jego części, w jednej z sesji egzaminacyjnych.
+8. W uzasadnionych przypadkach minister właściwy do spraw zdrowia może, na wniosek dyrektora CEM, wyrazić zgodę na odstąpienie od przeprowadzenia egzaminu testowego PESF dla wszystkich farmaceutów dopuszczonych do PESF w danej dziedzinie w określonej sesji egzaminacyjnej, z zachowaniem egzaminu ustnego, albo zdecydować o przeprowadzeniu PESF jeden raz w roku – z zachowaniem wszystkich jego części, w jednej z sesji egzaminacyjnych.
 
 9. Egzamin testowy dla danej dziedziny odbywa się jednocześnie w całym kraju w terminie ustalonym przez dyrektora CEM. Egzamin testowy polega na rozwiązaniu 120 pytań zawierających pięć wariantów odpowiedzi, z których tylko jeden jest prawidłowy. Osoba zdająca może wybrać tylko jedną odpowiedź. Za każdą prawidłową odpowiedź osoba zdająca uzyskuje 1 punkt. W przypadku braku odpowiedzi, udzielenia nieprawidłowej odpowiedzi albo zaznaczenia więcej niż jednej odpowiedzi punkty nie są przyznawane. Pozytywny wynik egzaminu testowego otrzymuje osoba egzaminowana, która uzyskała co najmniej 60 % maksymalnej liczby punktów z testu.
 
@@ -1317,7 +1351,7 @@ Art. 82–86. (pominięte)
 
 **Art. 68.**
 
-1. CEM ustala wyniki PESF i ogłasza je za pomocą SMK, a w zakresie egzaminu testowego publikuje je także na swojej stronie internetowej. Wynik PESF nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. CEM ustala wyniki PESF i ogłasza je za pomocą SMK, a w zakresie egzaminu testowego publikuje je także na swojej stronie internetowej. Wynik PESF nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Farmaceuta, który nie przystąpił do PESF w wyznaczonym terminie albo uzyskał wynik negatywny z PESF, może przystąpić do PESF w kolejnej sesji egzaminacyjnej.
 
@@ -1357,7 +1391,7 @@ Art. 82–86. (pominięte)
 
 7. Minister właściwy do spraw zdrowia wydaje ostateczne rozstrzygnięcie w terminie 7 dni od dnia otrzymania odwołania.
 
-8. Do rozstrzygnięć i postępowania, o których mowa w ust. 1–7, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracownika i organu, pełnomocnictw, sposobu obliczania terminów, wydawania uwierzytelnionych odpisów lub kopii akt sprawy oraz sprostowań.
+8. Do rozstrzygnięć i postępowania, o których mowa w ust. 1–7, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracownika i organu, pełnomocnictw, sposobu obliczania terminów, wydawania uwierzytelnionych odpisów lub kopii akt sprawy oraz sprostowań.
 
 9. Unieważnienie PESF w całości albo w części powoduje, że traktuje się odpowiednio PESF w całości albo jego część jako niebyłą.
 
@@ -1366,6 +1400,19 @@ Art. 82–86. (pominięte)
 11. Za powtórzony PESF albo jego część nie pobiera się opłaty egzaminacyjnej.
 
 **Art. 71.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** wykaz dziedzin farmacji, w których jest możliwe odbywanie szkolenia specjalizacyjnego, uwzględniając potrzebę zabezpieczenia dostępu do świadczeń zdrowotnych w określonym zakresie oraz potrzebę zapewnienia dostępu do usług farmaceutycznych,
+- **2)** wykaz kodów specjalizacji w określonych dziedzinach farmacji,
+- **3)** wysokość wynagrodzenia za wykonanie czynności kontrolnych, o których mowa w art. 47 ust. 10 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych,
+- **4)** wykaz dziedzin farmacji, w których farmaceuta posiadający odpowiednią specjalizację I stopnia może uzyskać tytuł specjalisty po odbyciu uzupełniającego szkolenia specjalizacyjnego zgodnie z programem, o którym mowa w art. 50 ust. 16, uwzględniając potrzebę zapewnienia dostępu do usług farmaceutycznych,
+- **5)** regulamin postępowania kwalifikacyjnego, uwzględniając konieczność zapewnienia sprawnej organizacji tego postępowania,
+- **6)** zakres informacji, o których mowa w art. 53 ust. 3, wprowadzanych do SMK przez kierownika specjalizacji, uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji,
+- **7)** wzór oświadczenia, o którym mowa w art. 63 ust. 4, uwzględniając konieczność zachowania bezstronności pracy PKE,
+- **8)** szczegółowy sposób i tryb składania PESF oraz ustalania jego wyników, uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia PESF oraz zapewnienia równego traktowania osób składających PESF,
+- **9)** wzór dyplomu specjalisty,
+- **10)** tryb wydawania przez dyrektora CEM duplikatu lub odpisu dyplomu PESF oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESF,
+- **11)** tryb dokonywania przez dyrektora CEM wymiany dyplomu PESF oraz sposób uiszczania opłaty za dokonanie wymiany dyplomu – uwzględniając konieczność prawidłowego wydania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
+- **12)** wysokość opłaty za PESF, uwzględniając koszty przeprowadzenia PESF oraz wydania dyplomu potwierdzającego uzyskanie tytułu specjalisty.
 
 **Art. 72.**
 
@@ -1386,7 +1433,7 @@ Art. 82–86. (pominięte)
 
 - **1)** imię (imiona) i nazwisko wnioskodawcy;
 - **2)** datę i miejsce urodzenia wnioskodawcy;
-- **3)** numer PESEL wnioskodawcy, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+- **3)** numer PESEL wnioskodawcy, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
 - **4)** obywatelstwo (obywatelstwa) wnioskodawcy;
 - **5)** adres do korespondencji wnioskodawcy, a także, jeżeli posiada, numer telefonu i adres poczty elektronicznej;
 - **6)** określenie przedmiotu wniosku;
@@ -1456,7 +1503,7 @@ Art. 82–86. (pominięte)
 
 - **1)** imię (imiona) i nazwisko wnioskodawcy;
 - **2)** datę i miejsce urodzenia wnioskodawcy;
-- **3)** numer PESEL wnioskodawcy, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+- **3)** numer PESEL wnioskodawcy, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
 - **4)** adres do korespondencji wnioskodawcy, a także, jeżeli posiada, numer telefonu i adres poczty elektronicznej;
 - **5)** określenie przedmiotu wniosku;
 - **6)** numer prawa wykonywania zawodu wnioskodawcy;
@@ -1499,6 +1546,16 @@ Art. 82–86. (pominięte)
 - **5)** określenie organu wydającego decyzję.
 
 **Art. 74.** Dane zamieszczane w SMK mogą zostać udostępnione:
+
+- **1)** farmaceucie – w zakresie monitorowania przebiegu szkolenia specjalizacyjnego;
+- **2)** uczelniom – w zakresie wykonywanych przez nie zadań;
+- **3)** konsultantom w ochronie zdrowia – w zakresie wykonywanych zadań określonych w ustawie oraz w zakresie zadań, o których mowa w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254);
+- **4)** CEM – w zakresie wykonywanych zadań określonych w ustawie, dotyczących organizowania i przeprowadzania PESF;
+- **5)** CMKP – w zakresie wykonywanych zadań określonych w ustawie, dotyczących udzielania akredytacji podmiotom zamierzającym prowadzić szkolenie specjalizacyjne, kontroli i monitorowania realizacji szkolenia specjalizacyjnego;
+- **6)** wojewodom – w zakresie wykonywanych zadań określonych w ustawie, dotyczących przebiegu szkolenia specjalizacyjnego farmaceutów;
+- **7)** jednostkom szkolącym – w zakresie wykonywanych zadań określonych w ustawie;
+- **8)** NIA i okręgowym izbom aptekarskim – w zakresie wykonywanych zadań określonych w ustawie;
+- **9)** ministrowi właściwemu do spraw zdrowia – w zakresie wykonywania zadań określonych w ustawie.
 
 **Art. 75.**
 
@@ -1547,6 +1604,11 @@ Art. 82–86. (pominięte)
 
 **Art. 76.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** zakres problematyki kursów kwalifikacyjnych,
+- **2)** sposób i tryb przeprowadzania postępowania kwalifikacyjnego na kurs kwalifikacyjny,
+- **3)** sposób i tryb odbywania i zaliczania kursu kwalifikacyjnego,
+- **4)** wzór zaświadczenia potwierdzającego odbycie kursu kwalifikacyjnego – uwzględniając zakres wiedzy i umiejętności niezbędnych do wykonywania określonych świadczeń zdrowotnych lub usług farmaceutycznych, a także mając na celu uwzględnienie obiektywnych kryteriów weryfikacji wiedzy i umiejętności zdobytych podczas tego kursu.
+
 **Art. 77.**
 
 1. Farmaceuta ma obowiązek doskonalenia zawodowego przez samokształcenie oraz udział w kursach realizowanych:
@@ -1571,7 +1633,7 @@ Art. 82–86. (pominięte)
 4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wzór karty rozwoju zawodowego farmaceuty,
-- **2)** liczbę punktów edukacyjnych za poszczególne formy ustawicznego rozwoju zawodowego oraz liczbę punktów niezbędnych do zaliczenia obowiązku doskonalenia zawodowego mając na celu zapewnienie właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
+- **2)** liczbę punktów edukacyjnych za poszczególne formy ustawicznego rozwoju zawodowego oraz liczbę punktów niezbędnych do zaliczenia obowiązku doskonalenia zawodowego – mając na celu zapewnienie właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
 
 #### Rozdział 6 Przepisy karne
 
@@ -1637,7 +1699,10 @@ Art. 82–86. (pominięte)
 
 **Art. 94.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-**Art. 95.** Do dnia 31 stycznia 2023 r. kształcenie podyplomowe farmaceutów w zakresie czynności dokonywanych za pomocą SMK odbywa się na dotychczasowych zasadach określonych w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne.
+- **1)** art. 107zc i art. 107zf ust. 4 ustawy zmienianej w art. 83 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 71 i art. 78 ust. 4,
+- **2)** art. 2c ust. 6, art. 4 ust. 4, art. 4c ust. 6 oraz art. 4e ust. 4 ustawy zmienianej w art. 82 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12 ust. 6, art. 13 ust. 6 i art. 17 ust. 4 – jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 95.** Do dnia 31 stycznia 2023 r. kształcenie podyplomowe farmaceutów w zakresie czynności dokonywanych za pomocą SMK odbywa się na dotychczasowych zasadach określonych w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
 **Art. 96.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem art. 83 pkt 9 lit. a, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

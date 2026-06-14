@@ -8,7 +8,7 @@ pos: 323
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej
@@ -89,6 +89,11 @@ source: "isap-pdf"
 
 **Art. 9.** Organami osób prawnych wymienionych w art. 7 są:
 
+- **1)** dla Kościoła jako całości – Synod Kościoła, Rada Synodalna, Konsystorz, Biskup Kościoła;
+- **2)** dla diecezji – Synod Diecezjalny, Rada Diecezjalna, Biskup Diecezjalny;
+- **3)** dla parafii – Zgromadzenie Parafialne, Rada Parafialna, Proboszcz;
+- **4)** dla diakonatu – Zarząd, Rada Sióstr, Rada Opiekuńcza.
+
 **Art. 10.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
 **Art. 11.** Kościelne wydawnictwa, zakłady charytatywno-opiekuńcze, opiekuńczo-wychowawcze, szkoły, placówki oświatowo-wychowawcze, a także zakłady gospodarcze nieposiadające osobowości prawnej działają w ramach tych kościelnych osób prawnych, które je powołały. W ramach tych kościelnych osób prawnych wykonywana może być także działalność lecznicza w rozumieniu przepisów o działalności leczniczej.
@@ -106,6 +111,10 @@ source: "isap-pdf"
 **Art. 13.** Religijne uroczystości pogrzebowe i nabożeństwa dla uczczenia pamięci zmarłych mogą odbywać się także na cmentarzach komunalnych, przy zachowaniu obowiązujących przepisów porządkowych.
 
 **Art. 14.** Osobom należącym do Kościoła przysługuje prawo zwolnienia od nauki lub pracy w następujące święta ewangelickie niebędące dniami ustawowo wolnymi od pracy:
+
+- **1)** Wielki Piątek – Pamiątka Śmierci Chrystusa Pana,
+- **2)** Święto Wniebowstąpienia Chrystusa Pana,
+- **3)** 31 października – Święto Reformacji, na warunkach określonych w ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania.
 
 **Art. 15.**
 
@@ -353,5 +362,11 @@ source: "isap-pdf"
 
 **Art. 47.** Tracą moc:
 
+- **1)** dekret Prezydenta Rzeczypospolitej z dnia 25 listopada 1936 r. o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. poz. 613, z 1945 r. poz. 271 oraz z 1947 r. poz. 272);
+- **2)** ustawa z dnia 4 lipca 1947 r. w sprawie zmiany dekretu Prezydenta Rzeczypospolitej z dnia 25 listopada 1936 r. o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. poz. 272 oraz z 1985 r. poz. 99).
+
 **Art. 48.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 13 maja 1994 r. (Dz. U. z 2023 r. poz.
+
+- **509)** WYKAZ DIECEZJI, PARAFII I DIAKONATÓW KOŚCIOŁA EWANGELICKO-AUGSBURSKIEGO W RZECZYPOSPOLITEJ POLSKIEJ I. Diecezja Cieszyńska Parafia Biała Parafia Bielsko Parafia Brenna–Górki Parafia Cieszyn Parafia Cisownica Parafia Czechowice-Dziedzice Parafia Drogomyśl Parafia Goleszów Parafia Istebna Parafia Jaworze Parafia Wieszczęta-Kowale Parafia Międzyrzecze Parafia Skoczów Parafia Stare Bielsko Parafia Ustroń Parafia Wisła II. Diecezja Katowicka Parafia Brzeg Parafia Bytom Parafia Chorzów Parafia Czerwionka Parafia Częstochowa Parafia Gliwice Parafia Golasowice Parafia Gołkowice Parafia Hołdunów Parafia Jastrzębie Zdrój Parafia Katowice Parafia Kluczbork Parafia Kraków Parafia Laryszów Parafia Lasowice Wielkie Parafia Lubienie Parafia Miechowice Parafia Mikołów Parafia Mysłowice Parafia Nowy Sącz–Stadło Parafia Opole Parafia Orzesze Parafia Pokój Parafia Pszczyna Parafia Pyskowice Parafia Racibórz Parafia Rybnik Parafia Siemianowice Parafia Sosnowiec Parafia Studzionka Parafia Szopienice Parafia Ściborzyce Wielkie Parafia Świętochłowice Parafia Tarnowskie Góry Parafia Warszowice Parafia Wirek Parafia Wodzisław Śląski Parafia Wołczyn Parafia Zabrze Parafia Żory III. Diecezja Mazurska Parafia Działdowo Parafia Giżycko Parafia Kętrzyn Parafia Mikołajki Parafia Mrągowo Parafia Nidzica Parafia Olsztyn Parafia Ostróda Parafia Pasym Parafia Pisz Parafia Ryn Parafia Sorkwity Parafia Suwałki Parafia Szczytno IV. Diecezja Pomorsko-Wielkopolska Parafia Bydgoszcz Parafia Elbląg Parafia Gdańsk–Gdynia–Sopot Parafia Grudziądz Parafia Kalisz Parafia Kępno Parafia Konin Parafia Koszalin Parafia Lipno Parafia Ostrów Wielkopolski Parafia Poznań Parafia Rypin Parafia Słupsk Parafia Stawiszyn Parafia Toruń Parafia Turek Parafia Włocławek V. Diecezja Warszawska Parafia Aleksandrów Łódzki Parafia Kutno Parafia Lublin Parafia Łask Parafia Łowicz Parafia Łódź Parafia Ozorków Parafia Pabianice Parafia Piotrków Trybunalski Parafia Płock Parafia Poddębice Parafia Radom Parafia Rawa Mazowiecka Parafia Tomaszów Mazowiecki Parafia Warszawa – Parafia św. Trójcy Parafia Warszawa – Parafia Wniebowstąpienia Pańskiego Parafia Węgrów Parafia Wieluń Parafia Zduńska Wola Parafia Zelów–Bełchatów Parafia Zgierz Parafia Żyrardów VI. Diecezja Wrocławska Parafia Jelenia Góra–Cieplice Parafia Gorzów Wielkopolski Parafia Jawor Parafia Karpacz Parafia Kłodzko Parafia Legnica Parafia Międzybórz Parafia Syców Parafia Szczecin Parafia Świdnica Parafia Wałbrzych Parafia Wrocław – Parafia Opatrzności Bożej Parafia Wrocław – Parafia Świętego Krzysztofa Parafia Zielona Góra Parafia Żary VII. Ewangelicki Diakonat Żeński „Eben-Ezer” Dzięgielów
+
 

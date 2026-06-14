@@ -8,7 +8,7 @@ pos: 24
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o produktach biobójczych
@@ -33,11 +33,22 @@ Art. 47–50. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** warunki udostępniania na rynku i stosowania na terytorium Rzeczypospolitej Polskiej produktów biobójczych, na które zostało wydane pozwolenie na obrót;
+- **2)** organ właściwy w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 528/2012 z dnia 22 maja 2012 r. w sprawie udostępniania na rynku i stosowania produktów biobójczych (Dz. Urz. UE L 167 z 27.06.2012, str. 1), zwanego dalej „rozporządzeniem 528/2012”;
+- **3)** zadania jednostek organizacyjnych odpowiedzialnych za kontrolę zatruć produktami biobójczymi;
+- **4)** podmioty sprawujące nadzór nad przestrzeganiem warunków udostępniania na rynku i stosowania na terytorium Rzeczypospolitej Polskiej produktów biobójczych i wyrobów poddanych działaniu produktów biobójczych oraz zakres sprawowanego przez te podmioty nadzoru.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** podmiot odpowiedzialny – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495 oraz z 2020 r. poz. 424 i 1086) lub jego przedstawiciela albo oddział przedsiębiorcy zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1252), a także przedsiębiorcę lub jego przedstawiciela, który ma siedzibę na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – który uzyskał pozwolenie na obrót;
+- **2)** pozwolenie – pozwolenie w rozumieniu art. 3 ust. 1 lit. o rozporządzenia 528/2012, z wyłączeniem pozwolenia na obrót produktem biobójczym;
+- **3)** pozwolenie na obrót – pozwolenie na udostępnianie na rynku i stosowanie na terytorium Rzeczypospolitej Polskiej produktu biobójczego, zgodnie z art. 89 ust. 2 rozporządzenia 528/2012, z wyłączeniem produktów biobójczych podlegających przepisom wskazanym w art. 2 ust. 2 i 5 rozporządzenia 528/2012.
 
 **Art. 3.** Organem właściwym w rozumieniu art. 81 ust. 1 rozporządzenia 528/2012 jest Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwany dalej „Prezesem Urzędu”.
 
-**Art. 4.** Rada Ministrów może określić, w drodze rozporządzenia, wykaz produktów biobójczych lub wyrobów poddanych ich działaniu, do których nie będą miały zastosowania przepisy rozporządzenia 528/2012, wraz ze wskazaniem zakresu tych przepisów, mając na względzie przesłanki uzasadniające wyłączenie stosowania przepisów rozporządzenia 528/2012, konieczność zapewnienia przejrzystości wykazu oraz obronności państwa. Udostępnianie na rynku i stosowanie produktów biobójczych
+**Art. 4.** Rada Ministrów może określić, w drodze rozporządzenia, wykaz produktów biobójczych lub wyrobów poddanych ich działaniu, do których nie będą miały zastosowania przepisy rozporządzenia 528/2012, wraz ze wskazaniem zakresu tych przepisów, mając na względzie przesłanki uzasadniające wyłączenie stosowania przepisów rozporządzenia 528/2012, konieczność zapewnienia przejrzystości wykazu oraz obronności państwa.
+
+#### Rozdział 2 Udostępnianie na rynku i stosowanie produktów biobójczych
 
 **Art. 5.** Udostępniane na rynku i stosowane na terytorium Rzeczypospolitej Polskiej są produkty biobójcze, na które zostało wydane pozwolenie albo zezwolenie na handel równoległy albo pozwolenie na obrót.
 
@@ -51,7 +62,7 @@ Art. 47–50. (pominięte)
 - **2)** powszechnego – przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy w celach związanych z własnymi niezarobkowymi potrzebami.> <Art. 6a. 1. Produkty biobójcze przeznaczone do fumigacji, zawierające substancje czynne, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, wymienione w wykazie określonym w przepisach wydanych na podstawie art. 25 ust. 7 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630 oraz z 2025 r. poz. 1168, 1697 i 000):
 - **1)** są udostępniane na rynku do stosowania profesjonalnego wyłącznie osobom, które:
     - **a)** ukończyły szkolenie, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin,
-    - **b)** posiadają zaświadczenie o ukończeniu szkolenia, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach produktów;
+    - **b)** posiadają zaświadczenie o ukończeniu szkolenia, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin, i okażą to zaświadczenie podczas zakupu tych produktów;
 
 - **2)** mogą być stosowane wyłącznie przez osoby spełniające warunki określone w pkt 1.
 
@@ -66,7 +77,7 @@ Art. 47–50. (pominięte)
 
 3. Ewidencja, o której mowa w ust. 2 pkt 2, jest prowadzona w celu wykonywania zadań ustawowych przez organy wymienione w art. 39 ust. 1. Informacje zawarte w ewidencji przechowuje się przez 5 lat.
 
-4. Produkty biobójcze określone w ust. 1 nie mogą być udostępniane na rynku w ramach umowy zawartej na odległość w rozumieniu art. 2 pkt 1 ustawy z 2025 r. poz. 1172).>
+4. Produkty biobójcze określone w ust. 1 nie mogą być udostępniane na rynku w ramach umowy zawartej na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172).>
 
 **Art. 7.**
 
@@ -88,7 +99,9 @@ Art. 47–50. (pominięte)
 
 3. Wykaz Produktów Biobójczych prowadzi Prezes Urzędu w formie systemu teleinformatycznego.
 
-4. Wykaz Produktów Biobójczych jest publikowany na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych w Biuletynie Informacji Publicznej. Prezes Urzędu aktualizuje Wykaz Produktów Biobójczych nie rzadziej niż raz na miesiąc. Produktów Biobójczych stanowią akta rejestrowe.
+4. Wykaz Produktów Biobójczych jest publikowany na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych w Biuletynie Informacji Publicznej. Prezes Urzędu aktualizuje Wykaz Produktów Biobójczych nie rzadziej niż raz na miesiąc.
+
+5. Dokumenty stanowiące podstawę wpisów i zmian wpisów w Wykazie Produktów Biobójczych stanowią akta rejestrowe.
 
 6. Prezes Urzędu dokonuje wpisów do Wykazu Produktów Biobójczych i zmian wpisów z urzędu, na podstawie ostatecznych decyzji administracyjnych.
 
@@ -106,7 +119,9 @@ Art. 47–50. (pominięte)
 
 1. Wniosek o wydanie pozwolenia krajowego, pozwolenia wydawanego na podstawie art. 26 rozporządzenia 528/2012 albo zezwolenia na handel równoległy oraz dokumenty, o których mowa w art. 20 ust. 1 rozporządzenia 528/2012, składa się w języku polskim lub języku angielskim. W przypadku złożenia wniosku w innym języku wnioskodawca jest obowiązany dołączyć do wniosku tłumaczenie na język polski albo język angielski, poświadczone przez tłumacza przysięgłego.
 
-2. Charakterystykę produktu biobójczego, o której mowa w art. 20 ust. 1 lit. a pkt ii rozporządzenia 528/2012, składa się w języku polskim. rejestru, o którym mowa w art. 71 rozporządzenia 528/2012, za datę złożenia wniosku uważa się datę jego zamieszczenia w tym rejestrze.
+2. Charakterystykę produktu biobójczego, o której mowa w art. 20 ust. 1 lit. a pkt ii rozporządzenia 528/2012, składa się w języku polskim.
+
+3. Jeżeli wniosek, o którym mowa w ust. 1, jest złożony za pośrednictwem rejestru, o którym mowa w art. 71 rozporządzenia 528/2012, za datę złożenia wniosku uważa się datę jego zamieszczenia w tym rejestrze.
 
 4. Wnioskodawca składający wniosek, o którym mowa w ust. 1, za pośrednictwem rejestru, o którym mowa w art. 71 rozporządzenia 528/2012, jest obowiązany, na każde żądanie Prezesa Urzędu, przedstawić oryginały dokumentów dołączonych do wniosku.
 
@@ -128,12 +143,21 @@ Art. 47–50. (pominięte)
 
 2. Prezes Urzędu pozostawia bez rozpoznania wniosek złożony w postępowaniach, o których mowa w:
 
-- **1)** art. 7 i art. 43 rozporządzenia 528/2012, jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa odpowiednio w art. 7 ust. 4 i art. 43 ust. 4 rozporządzenia 528/2012; 31 stycznia 2014 r. określającego procedurę zmiany załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 528/2012 w sprawie udostępniania na rynku i stosowania produktów biobójczych (Dz. Urz. UE L 32 z 01.02.2014, str. 3), jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa w załączniku do tego rozporządzenia;
+- **1)** art. 7 i art. 43 rozporządzenia 528/2012, jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa odpowiednio w art. 7 ust. 4 i art. 43 ust. 4 rozporządzenia 528/2012;
+- **2)** art. 1 rozporządzenia wykonawczego Komisji (UE) nr 88/2014 z dnia 31 stycznia 2014 r. określającego procedurę zmiany załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 528/2012 w sprawie udostępniania na rynku i stosowania produktów biobójczych (Dz. Urz. UE L 32 z 01.02.2014, str. 3), jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa w załączniku do tego rozporządzenia;
 - **3)** art. 7, art. 8 i art. 13 rozporządzenia wykonawczego Komisji (UE) nr 354/2013 z dnia 18 kwietnia 2013 r. w sprawie zmian produktów biobójczych, na które udzielono pozwolenia zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 528/2012 (Dz. Urz. UE L 109 z 19.04.2013, str. 4), zwanego dalej „rozporządzeniem 354/2013”, jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa odpowiednio w art. 7 ust. 3, art. 8 ust. 3 i art. 13 ust. 4 tego rozporządzenia;
 - **4)** art. 3 rozporządzenia wykonawczego Komisji (UE) nr 414/2013 z dnia 6 maja 2013 r. określającego procedurę wydawania pozwoleń dla takich samych produktów biobójczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 528/2012 (Dz. Urz. UE L 125 z 07.05.2013, str. 4, z późn. zm. ), zwanego dalej „rozporządzeniem 414/2013”, jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa w art. 3 ust. 1 lub 2 tego rozporządzenia;
 - **5)** art. 3 rozporządzenia delegowanego Komisji (UE) nr 492/2014 z dnia 7 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 528/2012 w odniesieniu do zasad odnawiania pozwoleń na produkty biobójcze w procedurze wzajemnego uznawania (Dz. Urz. UE L 139 z 14.05.2014, str. 1), jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa w art. 3 ust. 7 tego rozporządzenia.>
 
 **Art. 12.** <1.> Prezes Urzędu uchyla, w drodze decyzji administracyjnej:
+
+- **1)** pozwolenie krajowe, zezwolenie na handel równoległy albo pozwolenie wydane na podstawie art. 26 rozporządzenia 528/2012:
+    - **a)** w przypadkach, o których mowa w art. 48 ust. 1 rozporządzenia 528/2012,
+    - **b)** na wniosek posiadacza pozwolenia;
+
+- **2)** zezwolenie na handel równoległy w przypadku, o którym mowa w art. 53 ust. 8 rozporządzenia 528/2012.
+
+2. W przypadkach, o których mowa w art. 23 ust. 7 zdanie pierwsze rozporządzenia 528/2012, Prezes Urzędu, w drodze decyzji administracyjnej, uchyla pozwolenie w całości albo w części.
 
 **Art. 13.**
 
@@ -152,6 +176,10 @@ Art. 47–50. (pominięte)
 1. Prezes Urzędu wydaje pozwolenie na obrót oraz dokonuje zmiany pozwolenia na obrót albo uchyla pozwolenie na obrót, na wniosek podmiotu odpowiedzialnego.
 
 2. Wydanie pozwolenia na obrót, zmiana pozwolenia na obrót albo uchylenie pozwolenia na obrót następuje w drodze decyzji administracyjnej Prezesa Urzędu.
+
+**Art. 17.**
+
+1. Wniosek o wydanie pozwolenia na obrót zawiera:
 
 - **1)** imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby podmiotu odpowiedzialnego;
 - **2)** nazwę produktu biobójczego;
@@ -172,7 +200,8 @@ Art. 47–50. (pominięte)
 
 - **1)** (uchylony)
 - **2)** sporządzony w języku polskim albo języku angielskim oryginał sprawozdania z badań potwierdzających skuteczność produktu biobójczego lub jego kopię; w przypadku złożenia oryginału lub kopii sprawozdania z badań w innym języku wnioskodawca jest obowiązany dołączyć oryginał tłumaczenia na język polski albo język angielski, poświadczonego przez tłumacza przysięgłego, lub jego kopię; [3) kartę charakterystyki produktu biobójczego, jeżeli dotyczy;]
-- **4)** sporządzony w języku polskim albo języku angielskim oryginał upoważnienia do korzystania z danych lub jego kopię, jeżeli dotyczy; biobójczego znajdującego się w wykazie, o którym mowa w art. 95 rozporządzenia 528/2012, którego produkty lub substancje podmiot odpowiedzialny będzie udostępniał po uzyskaniu pozwolenia na obrót.
+- **4)** sporządzony w języku polskim albo języku angielskim oryginał upoważnienia do korzystania z danych lub jego kopię, jeżeli dotyczy;
+- **5)** informację o nazwie dostawcy substancji czynnej lub dostawcy produktu biobójczego znajdującego się w wykazie, o którym mowa w art. 95 rozporządzenia 528/2012, którego produkty lub substancje podmiot odpowiedzialny będzie udostępniał po uzyskaniu pozwolenia na obrót.
 
 2a. W sytuacji wystąpienia zagrożenia dla zdrowia publicznego, którego nie można powstrzymać innymi środkami, do wniosku dołącza się dokumenty i informacje, o których mowa w ust. 2, z tym że sprawozdanie, o którym mowa w ust. 2 pkt 2, może być zastąpione danymi z literatury fachowej potwierdzającymi skuteczność produktu biobójczego.
 
@@ -180,7 +209,9 @@ Art. 47–50. (pominięte)
 
 5. Wniosek, o którym mowa w ust. 1, i dokumenty, o których mowa w ust. 2, są składane w postaci papierowej albo elektronicznej.
 
-6. Właściciel sprawozdania z badań, o których mowa w ust. 2 pkt 2, może ze względu na tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2020 r. poz. 1913) złożyć do Prezesa Urzędu bezpośrednio lub za pośrednictwem podmiotu odpowiedzialnego wniosek o nieujawnianie sprawozdania osobom trzecim. udostępniać na rynku produkt biobójczy, którego dostawca lub dostawca zawartej w nim substancji czynnej znajduje się w wykazie, o którym mowa w art. 95 rozporządzenia 528/2012.
+6. Właściciel sprawozdania z badań, o których mowa w ust. 2 pkt 2, może ze względu na tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2020 r. poz. 1913) złożyć do Prezesa Urzędu bezpośrednio lub za pośrednictwem podmiotu odpowiedzialnego wniosek o nieujawnianie sprawozdania osobom trzecim.
+
+**Art. 18.** Podmiot odpowiedzialny, który uzyskał pozwolenie na obrót, może udostępniać na rynku produkt biobójczy, którego dostawca lub dostawca zawartej w nim substancji czynnej znajduje się w wykazie, o którym mowa w art. 95 rozporządzenia 528/2012.
 
 **Art. 19.**
 
@@ -196,13 +227,45 @@ Art. 47–50. (pominięte)
 
 1. Pozwolenie na obrót wydaje się w terminie 6 miesięcy od dnia otrzymania kompletnego wniosku o wydanie tego pozwolenia wraz z dokumentami, o których mowa w art. 17 ust. 2.
 
-2. Prezes Urzędu w uzasadnionych przypadkach może zażądać od wnioskodawcy wyjaśnień dotyczących dokumentacji lub jej uzupełnienia, w tym podania pełnego składu produktu biobójczego, z uwzględnieniem funkcji poszczególnych składników oraz przedstawienia wyników dodatkowych badań produktu biobójczego lub substancji czynnej wchodzącej w jego skład, jeżeli produktu biobójczego w zakresie określonym w art. 19. <2a. Prezes Urzędu w uzasadnionych przypadkach może zażądać od wnioskodawcy przedłożenia karty charakterystyki produktu biobójczego, o której mowa w art. 31 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 1907/2006”.> konieczności uzupełnienia dokumentacji produktu biobójczego lub złożenia wyjaśnień.
+2. Prezes Urzędu w uzasadnionych przypadkach może zażądać od wnioskodawcy wyjaśnień dotyczących dokumentacji lub jej uzupełnienia, w tym podania pełnego składu produktu biobójczego, z uwzględnieniem funkcji poszczególnych składników oraz przedstawienia wyników dodatkowych badań produktu biobójczego lub substancji czynnej wchodzącej w jego skład, jeżeli dokumentacja, o której mowa w art. 17 ust. 2, nie jest wystarczająca do oceny produktu biobójczego w zakresie określonym w art. 19. <2a. Prezes Urzędu w uzasadnionych przypadkach może zażądać od wnioskodawcy przedłożenia karty charakterystyki produktu biobójczego, o której mowa w art. 31 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 1907/2006”.>
+
+3. Bieg terminu, o którym mowa w ust. 1, ulega zawieszeniu w przypadku konieczności uzupełnienia dokumentacji produktu biobójczego lub złożenia wyjaśnień.
 
 4. Badania, o których mowa w ust. 2, są wykonywane na koszt wnioskodawcy.
 
 **Art. 21.** Pozwolenie na obrót określa:
 
+- **1)** nazwę produktu biobójczego;
+- **2)** numer pozwolenia na obrót oraz datę wydania i termin jego ważności;
+- **3)** imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby podmiotu odpowiedzialnego;
+- **4)** imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby wytwórcy produktu biobójczego;
+- **5)** nazwę chemiczną substancji czynnej lub substancji czynnych lub inną pozwalającą na ustalenie tożsamości substancji czynnej oraz, jeżeli są dostępne, jej numer WE i numer CAS, o których mowa w części I załącznika VI do rozporządzenia 1272/2008, oraz określenie jej zawartości w produkcie biobójczym w jednostkach metrycznych;
+- **6)** grupę produktową;
+- **7)** postać użytkową produktu biobójczego i jego przeznaczenie;
+- **8)** informację o rodzaju użytkownika;
+- **9)** rodzaj opakowania;
+- **10)** okres ważności produktu biobójczego;
+- **11)** zalecenia dotyczące stosowania dla danego zakresu stosowania produktu biobójczego, zawierające informacje:
+    - **a)** o zwalczanych organizmach szkodliwych,
+    - **b)** o zakresie stosowania produktu biobójczego,
+    - **c)** o sposobie użycia produktu biobójczego,
+    - **d)** o dawce lub stężeniu i częstotliwości stosowania produktu biobójczego,
+    - **e)** inne, niezbędne do prawidłowego stosowania produktu biobójczego w danym zakresie stosowania, jeżeli dotyczy.
+
 **Art. 22.** Pozwolenie na obrót produktem biobójczym, który:
+
+- **1)** spełnia – zgodnie z rozporządzeniem 1272/2008 – kryteria klasyfikacji przynajmniej jednej z kategorii:
+    - **a)** toksyczność ostra – droga pokarmowa kategorii 1, 2 lub 3,
+    - **b)** toksyczność ostra – po narażeniu przez skórę kategorii 1, 2 lub 3,
+    - **c)** toksyczność ostra – przez drogi oddechowe (gazy i pyły/mgły) kategorii 1, 2 lub 3,
+    - **d)** toksyczność ostra – przez drogi oddechowe (pary) kategorii 1 lub 2,
+    - **e)** rakotwórczość kategorii 1A lub 1B,
+    - **f)** mutagen kategorii 1A lub 1B,
+    - **g)** szkodliwe działanie na rozrodczość kategorii 1A lub 1B, lub
+
+- **2)** zawiera lub generuje substancję spełniającą kryteria klasyfikacji jako PBT lub vPvB zgodnie z załącznikiem XIII do rozporządzenia 1907/2006, lub
+- **3)** ma działanie zaburzające funkcjonowanie układu hormonalnego, lub
+- **4)** charakteryzuje się neurotoksycznością rozwojową lub immunotoksycznością – określa zakres jego udostępniania na rynku, z wyłączeniem dopuszczalności sprzedaży detalicznej lub powszechnego stosowania.
 
 **Art. 23.** Prezes Urzędu po uzyskaniu informacji dotyczących zagrożenia dla zdrowia ludzi, zwierząt lub środowiska albo informacji wskazujących, że nie są spełniane warunki określone w pozwoleniu na obrót, dokonuje przeglądu dokumentacji stanowiącej podstawę wydania pozwolenia na obrót oraz, w razie potrzeby, może zażądać od podmiotu odpowiedzialnego przedstawienia w terminie nie krótszym niż 14 dni dodatkowych danych lub informacji w tym zakresie. Na uzasadniony wniosek podmiotu odpowiedzialnego termin ten może zostać przedłużony, nie dłużej jednak niż o 30 dni.
 
@@ -213,7 +276,7 @@ Art. 47–50. (pominięte)
 - **1)** stwierdzono, że we wniosku o wydanie pozwolenia na obrót lub w dokumentacji załączonej do wniosku podano dane nieprawdziwe;
 - **2)** podmiot odpowiedzialny udostępnia na rynku produkt biobójczy do obrotu i stosowania niezgodnie z warunkami określonymi w pozwoleniu na obrót albo którego dostawca lub dostawca zawartej w nim substancji czynnej, nie znajduje się w wykazie, o którym mowa w art. 95 rozporządzenia 528/2012;
 - **3)** produkt biobójczy przestał spełniać jeden z warunków, o których mowa w art. 19 ust. 1;
-- **4)** podmiot odpowiedzialny nie dostarczył danych lub informacji, o których mowa w art. 23, w terminie określonym przez Prezesa Urzędu albo dostarczone dane lub środowiska albo spełnienia warunków określonych w pozwoleniu na obrót;
+- **4)** podmiot odpowiedzialny nie dostarczył danych lub informacji, o których mowa w art. 23, w terminie określonym przez Prezesa Urzędu albo dostarczone dane lub informacje nie potwierdzają braku zagrożenia dla zdrowia ludzi, zwierząt lub środowiska albo spełnienia warunków określonych w pozwoleniu na obrót;
 - **5)** podmiot odpowiedzialny nie dostarczył informacji, o których mowa w art. 26.
 
 2. O wszczęciu postępowania z urzędu w sprawie uchylenia pozwolenia na obrót, Prezes Urzędu zawiadamia podmiot odpowiedzialny, wzywając go, w razie potrzeby, do złożenia dodatkowych wyjaśnień w terminie nie dłuższym niż 30 dni.
@@ -234,7 +297,7 @@ Art. 47–50. (pominięte)
 
 3. We wniosku o zmianę pozwolenia na obrót podmiot odpowiedzialny wskazuje zakres wnioskowanej zmiany oraz dołącza do wniosku dokumentację uzasadniającą jej wprowadzenie.
 
-4. Jeżeli załączona do wniosku, o którym mowa w ust. 3, dokumentacja nie jest wystarczająca do oceny produktu biobójczego w zakresie zmiany objętej tym wnioskiem, Prezes Urzędu może zażądać od wnioskodawcy jej uzupełnienia, w tym czynnej wchodzącej w jego skład. Na każdym etapie oceny Prezes Urzędu może żądać dodatkowych wyjaśnień dotyczących przedstawionej dokumentacji lub jej uzupełnienia.
+4. Jeżeli załączona do wniosku, o którym mowa w ust. 3, dokumentacja nie jest wystarczająca do oceny produktu biobójczego w zakresie zmiany objętej tym wnioskiem, Prezes Urzędu może zażądać od wnioskodawcy jej uzupełnienia, w tym przedstawienia wyników dodatkowych badań produktu biobójczego lub substancji czynnej wchodzącej w jego skład. Na każdym etapie oceny Prezes Urzędu może żądać dodatkowych wyjaśnień dotyczących przedstawionej dokumentacji lub jej uzupełnienia.
 
 5. Badania, o których mowa w ust. 4, są wykonywane na koszt wnioskodawcy.
 
@@ -256,7 +319,7 @@ Art. 47–50. (pominięte)
 
 **Art. 30.**
 
-1. Dokumentacja przedłożona w postępowaniu o wydanie pozwolenia na obrót może być udostępniana osobom mającym w tym interes prawny, z zachowaniem przepisów o ochronie informacji niejawnych oraz ochronie ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.
+1. Dokumentacja przedłożona w postępowaniu o wydanie pozwolenia na obrót może być udostępniana osobom mającym w tym interes prawny, z zachowaniem przepisów o ochronie informacji niejawnych oraz ochronie informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.
 
 2. Informacje o środowisku i jego ochronie, o których mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940 oraz z 2025 r. poz. 1535), zawarte w dokumentacji przedłożonej w postępowaniu o wydanie pozwolenia na obrót są udostępniane bez konieczności wykazywania interesu prawnego i faktycznego.
 
@@ -280,7 +343,7 @@ Art. 47–50. (pominięte)
 
 2. Treść oznakowania opakowania jednostkowego produktu biobójczego zawiera oprócz nazwy produktu biobójczego, o której mowa w art. 21 pkt 1, informacje, o których mowa w art. 69 ust. 2 rozporządzenia 528/2012.
 
-3. Oznakowanie produktu biobójczego nie może wprowadzać w błąd lub informować w sposób nierzetelny o wyjątkowej skuteczności produktu, a także nie „nietoksyczny”, „nieszkodliwy”, ani określeń o podobnym znaczeniu.
+3. Oznakowanie produktu biobójczego nie może wprowadzać w błąd lub informować w sposób nierzetelny o wyjątkowej skuteczności produktu, a także nie może zawierać określeń opisujących produkt biobójczy jako: „o niskim ryzyku”, „nietoksyczny”, „nieszkodliwy”, ani określeń o podobnym znaczeniu.
 
 **Art. 34.** Przepisów art. 32 i art. 33 nie stosuje się do przewozu produktów biobójczych transportem kolejowym, transportem drogowym, wodami śródlądowymi, drogą morską i drogą powietrzną.
 
@@ -294,7 +357,18 @@ Art. 47–50. (pominięte)
 
 **Art. 36.** Pozwolenie na obrót, którego wszystkie substancje czynne zostały zatwierdzone, wygasa:
 
+- **1)** jeżeli nie złożono wniosku o wydanie pozwolenia lub wniosek o wydanie pozwolenia złożono bez dochowania wymaganego przepisami prawa terminu do jego złożenia – po upływie 180 dni od dnia zatwierdzenia ostatniej substancji czynnej;
+- **2)** w przypadku gdy nie później niż do dnia zatwierdzenia ostatniej substancji czynnej złożono wniosek o wydanie pozwolenia:
+    - **a)** z dniem wydania pozwolenia albo
+    - **b)** po upływie 180 dni od dnia wydania rozstrzygnięcia innego niż wydanie pozwolenia.
+
 **Art. 37.** Istniejące zapasy produktu biobójczego objętego pozwoleniem na obrót mogą być:
+
+- **1)** udostępniane na rynku w okresie 180 dni, licząc od dnia wydania pozwolenia, o którym mowa w art. 36 pkt 2 lit. a;
+- **2)** wykorzystywane w okresie 365 dni, licząc od dnia:
+    - **a)** zatwierdzenia ostatniej substancji czynnej w przypadkach, o których mowa w art. 36 pkt 1,
+    - **b)** wydania pozwolenia, o którym mowa w art. 36 pkt 2 lit. a,
+    - **c)** wydania rozstrzygnięcia, o którym mowa w art. 36 pkt 2 lit. b.
 
 **Art. 38.** Pozwolenie wydane na podstawie art. 55 ust. 2 rozporządzenia 528/2012 wygasa zgodnie z terminem określonym w decyzji Komisji Europejskiej o niezatwierdzeniu nowej substancji czynnej wchodzącej w skład produktu biobójczego objętego tym pozwoleniem.
 
@@ -309,7 +383,8 @@ Art. 47–50. (pominięte)
 - **3)** Wojskowa Inspekcja Sanitarna – w zakresie wprowadzania do obrotu wyrobów poddanych działaniu produktów biobójczych i substancji czynnych przeznaczonych do stosowania w produktach biobójczych na terenach jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, w rejonach zakwaterowania przejściowego jednostek wojskowych oraz w stosunku do wojsk obcych przebywających na terytorium Rzeczypospolitej Polskiej oraz przemieszczających się przez to terytorium;
 - **4)** Państwowa Inspekcja Pracy – w zakresie nadzoru i kontroli przestrzegania przepisów ustawy przez pracodawców;
 - **5)** Państwowa Straż Pożarna – w zakresie właściwego oznakowania miejsc składowania produktów biobójczych, zgodnie z kryteriami określonymi w ustawie z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2019 r. poz. 1225 oraz z 2020 r. poz. 284, 322 i 1337);
-- **6)** Inspekcja Handlowa – w zakresie oznakowania opakowań jednostkowych produktów biobójczych i wyrobów poddanych działaniu produktów biobójczych w sprzedaży hurtowej i detalicznej; produktach biobójczych i substancjach czynnych oraz w zakresie postępowania z produktami biobójczymi i substancjami czynnymi, które stały się odpadami w rozumieniu przepisów o odpadach.
+- **6)** Inspekcja Handlowa – w zakresie oznakowania opakowań jednostkowych produktów biobójczych i wyrobów poddanych działaniu produktów biobójczych w sprzedaży hurtowej i detalicznej;
+- **7)** Inspekcja Ochrony Środowiska – w zakresie postępowania z opakowaniami po produktach biobójczych i substancjach czynnych oraz w zakresie postępowania z produktami biobójczymi i substancjami czynnymi, które stały się odpadami w rozumieniu przepisów o odpadach.
 
 2. Główny Inspektor Sanitarny, Główny Inspektor Sanitarny Wojska Polskiego, Główny Inspektor Pracy, Komendant Główny Państwowej Straży Pożarnej, Prezes Urzędu Ochrony Konkurencji i Konsumentów oraz Główny Inspektor Ochrony Środowiska przekazują Prezesowi Urzędu, w zakresie swojej właściwości, co 5 lat, w formie sprawozdania, informacje określone w art. 65 ust. 3 rozporządzenia 528/2012. Sprawozdanie jest składane do dnia 31 stycznia roku następującego po roku, w którym upłynęło 5 lat, za które złożono Prezesowi Urzędu ostatnie sprawozdanie.
 
@@ -326,7 +401,8 @@ Art. 47–50. (pominięte)
 
 2. Obowiązanymi do zgłoszenia przypadku podejrzenia lub stwierdzenia zatrucia produktem biobójczym są:
 
-- **1)** lekarz, lekarz dentysta, ratownik medyczny, felczer, starszy felczer, pielęgniarka i położna oraz diagnosta laboratoryjny, wykonujący zawód w podmiocie leczniczym; mowa w art. 5 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2020 r. poz. 295, 567 i 1493);
+- **1)** lekarz, lekarz dentysta, ratownik medyczny, felczer, starszy felczer, pielęgniarka i położna oraz diagnosta laboratoryjny, wykonujący zawód w podmiocie leczniczym;
+- **2)** osoba wykonująca zawód medyczny w ramach praktyki zawodowej, o której mowa w art. 5 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2020 r. poz. 295, 567 i 1493);
 - **3)** osoba wykonująca zawód medyczny w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, inna niż osoba, o której mowa w pkt 2;
 - **4)** podmiot odpowiedzialny albo posiadacz pozwolenia;
 - **5)** podmioty, o których mowa w art. 39 ust. 1.
@@ -349,7 +425,7 @@ Art. 47–50. (pominięte)
 
 2. Raport oraz dane, o których mowa w ust. 1, nie mogą obejmować danych podlegających ochronie na podstawie przepisów o ochronie danych osobowych.
 
-3. Raport, o którym mowa w ust. 1, obejmuje dane o produktach biobójczych, osobach, które uległy zatruciu, okolicznościach, w jakich doszło do zatrucia, oraz biobójczego.
+3. Raport, o którym mowa w ust. 1, obejmuje dane o produktach biobójczych, osobach, które uległy zatruciu, okolicznościach, w jakich doszło do zatrucia, oraz opis następstw zdrowotnych powstałych w wyniku narażenia na działanie produktu biobójczego.
 
 4. Koszty działalności ośrodka toksykologicznego związane z zadaniami, o których mowa w ust. 1 i art. 41 ust. 1, są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
@@ -361,7 +437,7 @@ Art. 47–50. (pominięte)
 - **4)** sposób gromadzenia i archiwizowania danych o przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym przez ośrodki toksykologiczne,
 - **5)** tryb finansowania kosztów, o których mowa w ust. 4 – biorąc pod uwagę konieczność ujednolicenia i zapewnienia kompletności zgłaszanych, gromadzonych i archiwizowanych danych, zapewnienie przejrzystości formularza zgłoszenia przypadku podejrzenia lub stwierdzenia zatrucia produktem biobójczym oraz formularza raportu o zgłoszonych przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym, konieczność zapewnienia bezpieczeństwa archiwizowanych danych, a także rzeczywiste koszty związane ze sporządzeniem raportu o zgłoszonych przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym. [Art. 43. 1. Prezes Urzędu przekazuje ośrodkom toksykologicznym karty charakterystyki produktów biobójczych, a jeżeli nie jest ona wymagana – dostępne dane o składzie jakościowym i ilościowym produktu biobójczego oraz imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby posiadacza pozwolenia lub podmiotu odpowiedzialnego. Dane te mogą być wykorzystywane wyłącznie w celach leczniczych i zapobiegawczych przez ośrodki toksykologiczne w przypadkach stwierdzenia lub podejrzenia zatrucia produktem biobójczym.
 
-2. Prezes Urzędu przekazuje ośrodkom toksykologicznym dane i informacje, o których mowa w ust. 1, co 3 miesiące, a w przypadku wystąpienia zatrucia produktem biobójczym, którego dane nie zostały jeszcze przekazane ośrodkom toksykologicznym, na każde ich żądanie.] biobójczym Prezes Urzędu przekazuje na żądanie ośrodków toksykologicznych dane o produkcie biobójczym oraz imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby posiadacza pozwolenia lub podmiotu odpowiedzialnego do wykorzystywania wyłącznie w celach leczniczych i zapobiegawczych przez te ośrodki.>
+2. Prezes Urzędu przekazuje ośrodkom toksykologicznym dane i informacje, o których mowa w ust. 1, co 3 miesiące, a w przypadku wystąpienia zatrucia produktem biobójczym, którego dane nie zostały jeszcze przekazane ośrodkom toksykologicznym, na każde ich żądanie.] <Art. 43. W przypadku stwierdzenia lub podejrzenia zatrucia produktem biobójczym Prezes Urzędu przekazuje na żądanie ośrodków toksykologicznych dane o produkcie biobójczym oraz imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby posiadacza pozwolenia lub podmiotu odpowiedzialnego do wykorzystywania wyłącznie w celach leczniczych i zapobiegawczych przez te ośrodki.>
 
 #### Rozdział 7 Opłaty
 
@@ -383,7 +459,8 @@ Art. 47–50. (pominięte)
 
 - **2)** ocena merytoryczna wniosków, o których mowa w pkt 1;
 - **3)** czynności dokonywane przez Prezesa Urzędu w postępowaniach dotyczących:
-    - **a)** zatwierdzenia substancji czynnej albo zmiany warunków zatwierdzenia substancji czynnej, o których mowa w art. 7 ust. 1 rozporządzenia 528/2012, ust. 2 rozporządzenia 528/2012,
+    - **a)** zatwierdzenia substancji czynnej albo zmiany warunków zatwierdzenia substancji czynnej, o których mowa w art. 7 ust. 1 rozporządzenia 528/2012,
+    - **b)** odnowienia zatwierdzenia substancji czynnej, o którym mowa w art. 14 ust. 2 rozporządzenia 528/2012,
     - **c)** udzielenia, zmiany albo odnowienia pozwolenia, o którym mowa w art. 26 rozporządzenia 528/2012,
     - **d)** udzielenia albo zmiany pozwolenia unijnego,
     - **e)** odnowienia pozwolenia unijnego,
@@ -404,7 +481,8 @@ Art. 47–50. (pominięte)
 
 3. W przypadku czynności, o których mowa w ust. 2 pkt 3:
 
-- **1)** lit. a, c, d, f–h, j oraz k – opłaty są pobierane za ocenę kompletności wniosku oraz za jego ocenę merytoryczną; niepełna ocena wniosku);
+- **1)** lit. a, c, d, f–h, j oraz k – opłaty są pobierane za ocenę kompletności wniosku oraz za jego ocenę merytoryczną;
+- **2)** lit. b, e oraz h – wysokość opłaty jest uzależniona od zakresu oceny (pełna albo niepełna ocena wniosku);
 - **3)** lit. i – opłaty są pobierane za ocenę merytoryczną wniosku.
 
 4. Opłaty są uiszczane na rachunek bankowy Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych i stanowią dochód budżetu państwa.
@@ -427,7 +505,8 @@ Art. 47–50. (pominięte)
 - **4)** 1000 zł za złożenie wniosku, o którym mowa w ust. 2 pkt 5 lit. a;
 - **5)** 500 zł za zmianę pozwolenia na obrót, objętą wnioskiem, o którym mowa w ust. 2 pkt 5 lit. b;
 - **6)** 100 zł za złożenie wniosku o zmianę podmiotu odpowiedzialnego w pozwoleniu na obrót, o którym mowa w ust. 2 pkt 5 lit. c;
-- **7)** 3000 zł za złożenie wniosku o wydanie pozwolenia zgodnie z art. 55 ust. 1 albo 3 rozporządzenia 528/2012; z art. 55 ust. 1 albo 3 rozporządzenia 528/2012.
+- **7)** 3000 zł za złożenie wniosku o wydanie pozwolenia zgodnie z art. 55 ust. 1 albo 3 rozporządzenia 528/2012;
+- **8)** 1500 zł za złożenie wniosku o zmianę pozwolenia wydanego zgodnie z art. 55 ust. 1 albo 3 rozporządzenia 528/2012.
 
 11. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość oraz sposób naliczania opłat, o których mowa w ust. 2, uwzględniając zasady określone w art. 80 ust. 3 lit. a i d rozporządzenia 528/2012, rzeczywiste koszty poszczególnych czynności oraz konieczność sprawnego zapewnienia wykonywania tych czynności.
 
@@ -449,8 +528,9 @@ Art. 47–50. (pominięte)
 
 **Art. 46.**
 
-1. Kto: zgodnie z warunkami określonymi w art. 69 rozporządzenia 528/2012, lub
+1. Kto:
 
+- **1)** wprowadza do obrotu produkt biobójczy nieopakowany lub nieoznakowany zgodnie z warunkami określonymi w art. 69 rozporządzenia 528/2012, lub
 - **2)** udostępnia na rynku w okresie, o którym mowa w art. 89 rozporządzenia 528/2012, produkt biobójczy nieopakowany lub nieoznakowany w sposób określony w art. 32 lub art. 33, lub
 - **3)** wprowadza do obrotu niezgodnie z przepisami art. 58 rozporządzenia 528/2012 wyrób poddany działaniu produktu biobójczego, lub
 - **4)** reklamuje produkt biobójczy niezgodnie z przepisami art. 72 rozporządzenia 528/2012, lub
@@ -461,7 +541,9 @@ Art. 47–50. (pominięte)
 - **9)** nie informuje Prezesa Urzędu o zamiarze przeprowadzenia eksperymentu lub testu na potrzeby badań naukowych lub badań dotyczących produktów i procesu produkcji oraz ich rozwoju, o których mowa w art. 56 rozporządzenia nr 528/2012, które mogą wiązać się z uwolnieniem produktu biobójczego do środowiska lub skutkować takim uwolnieniem, lub
 - **10)** przeprowadza eksperyment lub test na potrzeby badań naukowych lub badań dotyczących produktów i procesu produkcji oraz ich rozwoju, o których mowa w art. 56 ust. 3 rozporządzenia 528/2012, wbrew zakazowi lub warunkom określonym w decyzji administracyjnej Prezesa Urzędu, o której mowa w art. 14, lub
 - **11)** udostępnia na rynku lub stosuje produkt biobójczy niezgodnie z warunkami pozwolenia, zezwolenia na handel równoległy lub pozwolenia na obrót, lub
-- **12)** stosuje produkty biobójcze w sposób niezgodny z zaleceniami na etykiecie i ulotce informacyjnej, podlega karze grzywny. biobójczego, który wbrew przepisom art. 58 ust. 5 rozporządzenia 528/2012 nie przekazuje konsumentowi, na jego wniosek, informacji na temat produktu biobójczego, którego działaniu poddany został ten wyrób.
+- **12)** stosuje produkty biobójcze w sposób niezgodny z zaleceniami na etykiecie i ulotce informacyjnej, podlega karze grzywny.
+
+2. Tej samej karze podlega dostawca wyrobu poddanego działaniu produktu biobójczego, który wbrew przepisom art. 58 ust. 5 rozporządzenia 528/2012 nie przekazuje konsumentowi, na jego wniosek, informacji na temat produktu biobójczego, którego działaniu poddany został ten wyrób.
 
 3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956 i 1423).
 
@@ -479,7 +561,13 @@ Art. 47–50. (pominięte)
 
 **Art. 53.** Bieg pierwszego okresu, o którym mowa w art. 39 ust. 2, rozpoczyna się z dniem wejścia w życie niniejszej ustawy i obejmuje okres do dnia 31 grudnia 2020 r.
 
-**Art. 54.** Postępowania o wydanie pozwolenia na obrót, wszczęte na podstawie wniosków złożonych na podstawie art. 54 ustawy uchylanej w art. 59, są prowadzone na podstawie przepisów niniejszej ustawy. Biobójczych, prowadzony na podstawie przepisów dotychczasowych, staje się Wykazem Produktów Biobójczych, o którym mowa w art. 7 ust. 1. 2. Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych dostosuje dokonane przed dniem wejścia w życie niniejszej ustawy wpisy w Wykazie Produktów Biobójczych, o którym mowa w ust. 1, do zakresu danych, o którym mowa w art. 7 ust. 2, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 54.** Postępowania o wydanie pozwolenia na obrót, wszczęte na podstawie wniosków złożonych na podstawie art. 54 ustawy uchylanej w art. 59, są prowadzone na podstawie przepisów niniejszej ustawy.
+
+**Art. 55.**
+
+1. Z dniem wejścia w życie niniejszej ustawy Rejestr Produktów Biobójczych, prowadzony na podstawie przepisów dotychczasowych, staje się Wykazem Produktów Biobójczych, o którym mowa w art. 7 ust. 1.
+
+2. Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych dostosuje dokonane przed dniem wejścia w życie niniejszej ustawy wpisy w Wykazie Produktów Biobójczych, o którym mowa w ust. 1, do zakresu danych, o którym mowa w art. 7 ust. 2, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 56.**
 
@@ -500,6 +588,7 @@ Art. 47–50. (pominięte)
 - **5)** 2020 r. – 2 377 tys. zł;
 - **6)** 2021 r. – 3 948 tys. zł;
 - **7)** 2022 r. – 2 443 tys. zł;
+- **8)** 2023 r. – 2 675 tys. zł;
 - **9)** 2024 r. – 2 693 tys. zł;
 - **10)** 2025 r. – 4 365 tys. zł.
 

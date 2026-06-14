@@ -8,7 +8,7 @@ pos: 2702
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zawodzie tłumacza przysięgłego
@@ -149,9 +149,19 @@ Art. 30–32. (pominięte)
 
 **Art. 12.** Minister Sprawiedliwości skreśla, w drodze decyzji, tłumacza przysięgłego z listy, o której mowa w art. 6 ust. 1, w przypadku:
 
+- **1)** śmierci;
+- **2)** niespełniania wymogów, o których mowa w art. 2 ust. 1 pkt 1, 3 i 4;
+- **3)** wniosku tłumacza przysięgłego;
+- **4)** prawomocnego orzeczenia kary pozbawienia prawa wykonywania zawodu tłumacza przysięgłego;
+- **5)** po upływie okresu zawieszenia, o którym mowa w art. 11 ust. 1 i 2.
+
 #### Rozdział 3 Zasady wykonywania zawodu tłumacza przysięgłego
 
 **Art. 13.** Tłumacz przysięgły jest uprawniony do:
+
+- **1)** sporządzania i poświadczania tłumaczeń z języka obcego na język polski, z języka polskiego na język obcy, a także do sprawdzania i poświadczania tłumaczeń w tym zakresie, sporządzonych przez inne osoby;
+- **2)** sporządzania poświadczonych odpisów pism w języku obcym, sprawdzania i poświadczania odpisów pism, sporządzonych w danym języku obcym przez inne osoby;
+- **3)** dokonywania tłumaczenia ustnego.
 
 **Art. 14.**
 

@@ -8,10 +8,10 @@ pos: 2753
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2753 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 16 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002753) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2753/text.pdf) |
 
-Poz. 2753 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 16 grudnia 2022 r.
-w sprawie rodzajów przepływów pieniężnych uwzględnianych przy obliczeniu ceny skorygowanej i szczegółowego sposobu kalkulacji tej ceny Na podstawie art. 11 ust. 9 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2022 r. poz. 1050 i 2687) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie rodzajów przepływów pieniężnych uwzględnianych przy obliczeniu ceny skorygowanej i szczegółowego sposobu kalkulacji tej ceny Na podstawie art. 11 ust. 9 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2022 r. poz. 1050 i 2687) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) rodzaje przepływów pieniężnych uwzględniane przy obliczeniu ceny skorygowanej, o której mowa w art. 11 ust. 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, zwanej dalej „ustawą”;
 2) szczegółowy sposób kalkulacji ceny skorygowanej, o której mowa w art. 11 ust. 2 pkt 2 i ust. 3 ustawy.
 § 2. Przy obliczeniu ceny skorygowanej, o której mowa w art. 11 ust. 3 ustawy, uwzględnia się przepływy pieniężne związane z:
@@ -34,7 +34,7 @@ w sprawie rodzajów przepływów pieniężnych uwzględnianych przy obliczeniu c
 2) poniesionymi kosztami utrzymania i eksploatacji zespołu urządzeń służących do wyprowadzenia mocy, w szczególności:
 a) kwotę należnego podatku od nieruchomości od elementów zespołu urządzeń służących do wyprowadzenia mocy zlokalizowanych na lądzie,
 b) poniesione opłaty: − za uzyskane pozwolenia, uzgodnienia lub decyzje, − za zatwierdzenie ekspertyz i planów, o których mowa w art. 113b ust. 1 ustawy z dnia 18 sierpnia 2011 r.
-o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687), zwanej dalej „ustawą o bezpieczeństwie morskim”, − za użytkowanie wieczyste gruntu, z którym elementy zespołu urządzeń służących do wyprowadzenia mocy są trwale związane, Dziennik Ustaw – 2 – Poz. 2753
+o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687), zwanej dalej „ustawą o bezpieczeństwie morskim”, − za użytkowanie wieczyste gruntu, z którym elementy zespołu urządzeń służących do wyprowadzenia mocy są trwale związane,
 c) koszty składek na ubezpieczenie: − ryzyk budowlano-montażowych, − wszystkich ryzyk operacyjnych, − odpowiedzialności cywilnej, − mienia,
 d) koszty: − wydania certyfikatów, o których mowa w art. 113g ust. 1 ustawy o bezpieczeństwie morskim, − korzystania ze statków w rozumieniu art. 5 pkt 1 ustawy o bezpieczeństwie morskim przy utrzymywaniu i eksploatacji zespołu urządzeń służących do wyprowadzenia mocy, – związane z realizacją umów serwisowych lub gwarancyjnych lub umów o korzystanie z bazy obsługowo-serwisowej na lądzie, zawartych z podmiotami niewchodzącymi w skład struktury organizacyjnej właściciela zespołu urządzeń służących do wyprowadzenia mocy, – remontów lub materiałów i części zamiennych, ponoszone po upływie okresu gwarancji,
 e) koszty osobowe pracowników odpowiedzialnych za obsługę zespołu urządzeń służących do wyprowadzenia mocy;

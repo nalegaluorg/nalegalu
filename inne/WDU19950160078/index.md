@@ -8,7 +8,7 @@ pos: 78
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie gruntów rolnych i leśnych
@@ -74,6 +74,40 @@ source: "isap-pdf"
 - **5)** ograniczaniu zmian naturalnego ukształtowania powierzchni ziemi.
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** gruntach bez bliższego określenia – rozumie się przez to grunty rolne i leśne;
+- **2)** budynkach i urządzeniach służących wyłącznie produkcji rolniczej oraz przetwórstwu rolno-spożywczemu – rozumie się przez to budynki i urządzenia służące przechowywaniu środków produkcji, prowadzeniu produkcji rolniczej, przetwarzaniu i magazynowaniu wyprodukowanych w gospodarstwie produktów rolniczych;
+- **3)** osobach – rozumie się przez to osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej;
+- **4)** właścicielu – rozumie się przez to również posiadacza samoistnego, zarządcę lub użytkownika, użytkownika wieczystego i dzierżawcę;
+- **5)** wójcie – rozumie się przez to również burmistrza lub prezydenta miasta;
+- **6)** przeznaczeniu gruntów na cele nierolnicze lub nieleśne – rozumie się przez to ustalenie innego niż rolniczy lub leśny sposobu użytkowania gruntów rolnych oraz innego niż leśny sposobu użytkowania gruntów leśnych;
+- **7)** warstwie próchnicznej – rozumie się przez to wierzchnią warstwę gleby o zawartości powyżej 1,5% próchnicy glebowej; miąższość tej warstwy określa się w decyzji, o której mowa w art. 11 ust. 1;
+- **8)** glebach pochodzenia organicznego – rozumie się przez to wytworzone przy udziale materii organicznej, w warunkach nadmiernego uwilgotnienia, gleby torfowe i murszowe;
+- **9)** glebach pochodzenia mineralnego – rozumie się przez to inne gleby niż wymienione w pkt 8;
+- **10)** oczkach wodnych – rozumie się przez to naturalne śródpolne i śródleśne zbiorniki wodne o powierzchni do 1 ha, niepodlegające klasyfikacji gleboznawczej;
+- **11)** wyłączeniu gruntów z produkcji – rozumie się przez to rozpoczęcie innego niż rolnicze lub leśne użytkowanie gruntów; nie uważa się za wyłączenie z produkcji gruntów, o których mowa w art. 2 ust. 1 pkt 3, jeżeli przerwa w rolniczym użytkowaniu tych obiektów jest spowodowana zmianą kierunków produkcji rolniczej i trwa nie dłużej niż 5 lat;
+- **12)** należności – rozumie się przez to jednorazową opłatę z tytułu trwałego wyłączenia gruntów z produkcji;
+- **13)** opłacie rocznej – rozumie się przez to opłatę roczną z tytułu użytkowania na cele nierolnicze lub nieleśne gruntów wyłączonych z produkcji, w wysokości 10% należności, uiszczaną: w razie trwałego wyłączenia – przez lat 10, a w przypadku nietrwałego wyłączenia – przez okres tego wyłączenia, nie dłużej jednak niż przez 20 lat od chwili wyłączenia tych gruntów z produkcji;
+- **14)** obszarach ograniczonego użytkowania – rozumie się przez to obszary tworzone na podstawie przepisów o ochronie środowiska;
+- **15)** utracie albo ograniczeniu wartości użytkowej gruntów – rozumie się przez to całkowity zanik albo zmniejszenie zdolności produkcyjnej gruntów;
+- **16)** gruntach zdegradowanych – rozumie się przez to grunty, których rolnicza lub leśna wartość użytkowa zmalała, w szczególności w wyniku pogorszenia się warunków przyrodniczych albo wskutek zmian środowiska oraz działalności przemysłowej, a także wadliwej działalności rolniczej;
+- **17)** gruntach zdewastowanych – rozumie się przez to grunty, które utraciły całkowicie wartość użytkową w wyniku przyczyn, o których mowa w pkt 16;
+- **18)** rekultywacji gruntów – rozumie się przez to nadanie lub przywrócenie gruntom zdegradowanym albo zdewastowanym wartości użytkowych lub przyrodniczych przez właściwe ukształtowanie rzeźby terenu, poprawienie właściwości fizycznych i chemicznych, uregulowanie stosunków wodnych, odtworzenie gleb, umocnienie skarp oraz odbudowanie lub zbudowanie niezbędnych dróg;
+- **19)** zagospodarowaniu gruntów – rozumie się przez to rolnicze, leśne lub inne użytkowanie gruntów zrekultywowanych;
+- **20)** drogach dojazdowych do gruntów rolnych i leśnych – rozumie się przez to drogi zakładowe prowadzące do gospodarstw rolnych i leśnych oraz drogi wiejskie w rozumieniu przepisów o drogach publicznych;
+- **21)** urządzeniach turystycznych – rozumie się przez to parkingi, pola biwakowe, wieże widokowe, kładki, szlaki turystyczne (ścieżki dydaktyczne) i miejsca widokowe;
+- **22)** planie urządzenia lasu – rozumie się przez to plan urządzenia lasu, określony w przepisach o lasach;
+- **23)** typie siedliskowym lasu – rozumie się przez to jednostkę klasyfikacji siedlisk leśnych, stosowaną w planie urządzenia lasu;
+- **24)** inwestycji – rozumie się przez to budowę, jak również modernizację budowli lub urządzeń, które wymagają wyłączenia gruntów z produkcji;
+- **25)** zakładzie przemysłowym – rozumie się przez to osobę, której działalność może powodować utratę lub ograniczenie wartości użytkowej gruntów;
+- **26)** działalności przemysłowej – rozumie się przez to działalność nierolniczą i nieleśną, powodującą utratę albo ograniczenie wartości użytkowej gruntów;
+- **27)** przepływie nienaruszalnym – rozumie się przez to przepływ minimalnej ilości wody, niezbędnej do utrzymania życia biologicznego w cieku wodnym;
+- **28)** ruchach masowych ziemi – rozumie się przez to ruchy masowe ziemi w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm. );
+- **29)** (uchylony)
+- **30)** (uchylony)
+- **31)** zabudowie zagrodowej – rozumie się przez to budynki mieszkalne oraz budynki i urządzenia służące wyłącznie produkcji rolniczej oraz przetwórstwu rolno-spożywczemu, jeżeli są położone na gruntach rolnych i wchodzą w skład gospodarstwa rolnego;
+- **32)** gospodarstwie rolnym – rozumie się przez to gospodarstwo rolne w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933);
+- **33)** działalności rolniczej – rozumie się przez to działalność rolniczą w rozumieniu art. 2 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ).
 
 **Art. 5.**
 
@@ -223,6 +257,9 @@ source: "isap-pdf"
 17. Na wniosek organu wykonawczego jednostki samorządu terytorialnego marszałek województwa może umorzyć całość lub część należności i opłat rocznych w odniesieniu do gruntów rolnych w przypadku inwestycji zmierzającej do osiągnięcia celów, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przeznaczonej na cele inne niż określone w ust. 16, jeżeli obszar gruntu podlegający wyłączeniu nie przekracza 1 ha i nie ma możliwości zrealizowania inwestycji na gruncie nieobjętym ochroną.
 
 **Art. 12a.** Obowiązek uiszczenia należności i opłat rocznych, a w odniesieniu do gruntów leśnych również jednorazowego odszkodowania, o którym mowa w art. 12 ust. 1, nie dotyczy wyłączenia gruntów z produkcji rolniczej lub leśnej na cele budownictwa mieszkaniowego:
+
+- **1)** do 0,05 ha w przypadku budynku jednorodzinnego;
+- **2)** do 0,02 ha, na każdy lokal mieszkalny, w przypadku budynku wielorodzinnego.
 
 **Art. 12b.**
 
@@ -496,6 +533,12 @@ source: "isap-pdf"
 **Art. 32b.** (pominięty)
 
 **Art. 33.** Właściwy w sprawach ochrony gruntów organ, o którym mowa w art. 5, prowadzi sprawozdawczość z zakresu:
+
+- **1)** obszaru gruntów wyłączanych z produkcji,
+- **2)** ustalonych należności, opłat rocznych i innych wymienionych w niniejszej ustawie dochodów budżetu województwa lub Funduszu Leśnego,
+- **3)** wielkości obszarów i położenia gruntów zdewastowanych i zdegradowanych, podlegających rekultywacji i zagospodarowaniu,
+- **4)** wyników rekultywacji i zagospodarowania gruntów,
+- **5)** istniejących zasobów i eksploatacji złóż torfów – według zasad określonych przez ministra właściwego do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw środowiska i z Prezesem Głównego Urzędu Statystycznego.
 
 **Art. 34.** W stosunku do gruntów, na których znajdują się zabytki archeologiczne, wojewódzki konserwator zabytków może określić, w drodze decyzji, zakres i sposób eksploatacji takich gruntów.
 

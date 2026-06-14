@@ -8,10 +8,10 @@ pos: 1561
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 sierpnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1561 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 6 sierpnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1561/text.pdf) |
 
-Poz. 1561 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 6 sierpnia 2019 r.
 zmieniające rozporządzenie w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym Na podstawie art. 14 ust. 3 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2019 r.
-poz. 796) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 20 lipca 2016 r. w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym (Dz. U. poz. 1078) § 12 i 13 otrzymują brzmienie: „§ 12. W zakresie nieuregulowanym w niniejszym rozporządzeniu do oddelegowania do ABW:
+poz. 796) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 20 lipca 2016 r. w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym (Dz. U. poz. 1078) § 12 i 13 otrzymują brzmienie: „§ 12. W zakresie nieuregulowanym w niniejszym rozporządzeniu do oddelegowania do ABW:
 1) funkcjonariuszy podmiotów oddelegowujących stosuje się przepisy wydane na podstawie:
 a) art. 56 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53, 125 i 1091),
 b) art. 60 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2018 r.

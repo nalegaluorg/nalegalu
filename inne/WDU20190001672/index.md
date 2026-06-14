@@ -8,10 +8,10 @@ pos: 1672
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 września 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1672 KRAJOWY PROGRAM ZWALCZANIA NIEKTÓRYCH SEROTYPÓW SALMONELLA W STADACH HODOWLANYCH GATUNKU KURA (GALLUS GALLUS) NA LATA 2017‒ 2019
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1672/text.pdf) |
 
-KRAJOWY PROGRAM ZWALCZANIA NIEKTÓRYCH SEROTYPÓW SALMONELLA W STADACH HODOWLANYCH GATUNKU KURA (GALLUS GALLUS) NA LATA 2017‒ 2019
 1. Zasady ogólne
 1.1. Cel „Krajowego programu zwalczania niektórych serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus)” Zgodnie z art. 5 ust. 1 rozporządzenia (WE) nr 2160/2003 Parlamentu Europejskiego i Rady z dnia 17 listopada 2003 r. w sprawie zwalczania salmonelli i innych określonych odzwierzęcych czynników chorobotwórczych przenoszonych przez żywność (Dz. Urz. UE L 325 z 12.12.2003, str. 1, z późn. zm. ‒ Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t.
 41, str. 328), zwanego dalej „rozporządzeniem nr 2160/2003”, zadaniem krajowego programu zwalczania choroby odzwierzęcej i odzwierzęcego czynnika chorobotwórczego jest osiągnięcie odpowiedniego celu unijnego ograniczenia rozprzestrzeniania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych wymienionych w kolumnie 1 załącznika I do rozporządzenia nr 2160/2003, w populacjach zwierząt wymienionych w kolumnie 2 tego załącznika.
@@ -41,9 +40,7 @@ a) w czwartym tygodniu życia,
 b) na 2 tygodnie przed rozpoczęciem składania jaj lub przeniesieniem do jednostki produkcyjnej,
 c) w okresie nieśności co 2 tygodnie.
 Dane odnośnie liczby stad objętych programem w 2015 r. oraz założenia w zakresie badania stad hodowlanych gatunku kura Gallus gallus w latach 2017‒2019 zostały opisane w tabeli 1.
-Łączna liczba stad hodowlanych gatunku kura Łączna liczba stad hodowlanych Gallus gallus w 2015 r.
-gatunku kura Zakładana liczba stad hodowlanych Gallus gallus liczących powyżej 250 sztuk drobiu w 2015 r.
-gatunku kura Zakładana liczba stad hodowlanych Gallus gallus, w których będą pobrane próbki z inicjatywy hodowcy gatunku kura Gallus gallus, w których będą pobrane próbki przez powiatowego lekarza weterynarii Liczba stad w okresie 2 485 2 485 0 odchowu Liczba stad w okresie 1 751 1 751 1 751 1 751 produkcji Zakładana liczba stad w okresie produkcji, dla których próbki zostaną pobrane w wylęgarni 0 0 0 Zakładana liczba stad w okresie produkcji, 1 751 1 751 1 751 w których próbki zostaną pobrane w gospodarstwie
+Łączna liczba Łączna liczba Zakładana Zakładana stad stad liczba stad liczba stad hodowlanych hodowlanych hodowlanych hodowlanych gatunku kura gatunku kura gatunku kura gatunku kura Gallus gallus Gallus gallus Gallus gallus, Gallus gallus, w 2015 r. liczących w których w których powyżej 250 będą pobrane będą pobrane sztuk drobiu próbki z próbki przez w 2015 r. inicjatywy powiatowego hodowcy lekarza weterynarii Liczba stad w okresie 2 485 2 485 0 odchowu Liczba stad w okresie 1 751 1 751 1 751 1 751 produkcji Zakładana liczba stad w okresie produkcji, 0 0 0 dla których próbki zostaną pobrane w wylęgarni Zakładana liczba stad w okresie produkcji, 1 751 1 751 1 751 w których próbki zostaną pobrane w gospodarstwie
 1.3. Obszary geograficzne i administracyjne, na których będzie realizowany program Program będzie realizowany na całym terytorium Rzeczypospolitej Polskiej.
 1.4. Zgodność programu ze szczególnymi wymogami określonymi w częściach C, D i E załącznika II do rozporządzenia nr 2160/2003 W przypadku programu mają zastosowanie wymogi określone w części C i E załącznika II do rozporządzenia nr 2160/2003.
 Zgodnie z ust. 1 część C załącznika II do rozporządzenia nr 2160/2003 środki określone w ust. 3‒5 części C tego załącznika będą stosowane w przypadku wykrycia w próbkach pobranych z inicjatywy hodowcy lub w próbkach pobranych przez przez powiatowego lekarza weterynarii właściwego ze względu na miejsce prowadzenia przez podmiot działalności nadzorowanej, zwanego dalej „powiatowym lekarzem weterynarii”, jednego z pięciu serotypów Salmonella objętych programem.
@@ -84,24 +81,24 @@ Z przeprowadzonych badań laboratoryjnych sporządza się sprawozdanie. W sprawo
 W przypadku gdy:
 1) pismo przewodnie dołączone przez hodowcę do próbek kierowanych do badania laboratoryjnego nie zawierało co najmniej informacji wymaganych zgodnie z niniejszym ustępem lub hodowca nie uzupełnił tych informacji,
 2) ilość lub rodzaj materiału do badań nie spełnia wymogów wynikających z systemu badawczego określonego w załączniku do rozporządzenia nr 200/2010,
-3) warunki transportu próbek do laboratorium nie spełniają wymagań określonych w ust. 3.1.1 załącznika do rozporządzenia nr 200/2010 laboratorium urzędowe informuje o tym hodowcę przy przyjęciu próbek do badania laboratoryjnego.
+3) warunki transportu próbek do laboratorium nie spełniają wymagań określonych w ust. 3.1.1 załącznika do rozporządzenia nr 200/2010 – laboratorium urzędowe informuje o tym hodowcę przy przyjęciu próbek do badania laboratoryjnego.
 W przypadku gdy hodowca zdecydował o przeprowadzeniu badania laboratoryjnego, w sprawozdaniu z przeprowadzonych badań laboratoryjnych umieszcza się informację: „Badanie laboratoryjne nie może być traktowane jako przeprowadzone zgodnie z wymaganiami programu zwalczania niektórych serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus)”.
 Laboratoria urzędowe wykonujące badania laboratoryjne w ramach programu oraz hodowcy po uzyskaniu dodatniego wyniku badań laboratoryjnych lub stwierdzeniu efektu hamującego wzrost bakterii w próbkach pobranych z inicjatywy hodowcy niezwłocznie informują o tym powiatowego lekarza weterynarii. Informacja o uzyskaniu dodatniego wyniku badań laboratoryjnych lub stwierdzeniu efektu hamującego wzrost bakterii jest przekazywana niezwłocznie powiatowemu lekarzowi weterynarii również w przypadku, gdy w sprawozdaniu z przeprowadzonego badania laboratoryjnego umieszczono informację: „Badanie laboratoryjne nie może być traktowane jako przeprowadzone zgodnie z wymaganiami programu zwalczania niektórych serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus)”.
 Laboratoria urzędowe, wyznaczone zgodnie z art. 25 ust. 3 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, po uzyskaniu dodatniego wyniku badań laboratoryjnych lub stwierdzeniu efektu hamującego wzrost bakterii w próbkach pobranych przez powiatowego lekarza weterynarii informują o tym powiatowego lekarza weterynarii oraz wojewódzkiego lekarza weterynarii właściwego ze względu na miejsce pobrania próbek.
 Wszystkie ww. sprawozdania są przesyłane do powiatowego lekarza weterynarii.
 Laboratoria urzędowe wykonujące badania w ramach programu na koniec okresu sprawozdawczego, na wniosek wojewódzkiego lekarza weterynarii, przygotowują sprawozdanie dotyczące badań przeprowadzonych w ramach programu.
-Laboratoria urzędowe wykonujące badania laboratoryjne w ramach programu przechowują wszystkie izolaty Salmonella wyizolowane w ramach programu przez co najmniej 2 lata. Ponadto spośród przechowywanych izolatów laboratoria przesyłają do KLRSalmonella jeden szczep reprezentujący każdy stwierdzony serotyp Salmonella wraz z kartą informacyjną, a w przypadku gdy nie została wykonana pełna identyfikacja serotypu typ serologiczny, w celu wykonania badań potwierdzających.
+Laboratoria urzędowe wykonujące badania laboratoryjne w ramach programu przechowują wszystkie izolaty Salmonella wyizolowane w ramach programu przez co najmniej 2 lata. Ponadto spośród przechowywanych izolatów laboratoria przesyłają do KLRSalmonella jeden szczep reprezentujący każdy stwierdzony serotyp Salmonella wraz z kartą informacyjną, a w przypadku gdy nie została wykonana pełna identyfikacja serotypu – typ serologiczny, w celu wykonania badań potwierdzających.
 1.8. Metoda stosowana do wykrywania serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus) Metoda stosowana do wykrywania serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus) jest określona w ust. 3.2 załącznika do rozporządzenia nr 200/2010.
 1.9. Kontrole urzędowe w stadach hodowlanych gatunku kura (Gallus gallus) oraz kontrole urzędowe pasz przeznaczonych dla tych stad Pobieranie próbek w ramach programu odbywa się w gospodarstwie.
 Pobieranie próbek w stadzie hodowlanym gatunku kura (Gallus gallus) z inicjatywy hodowcy, zgodnie z wymaganiami określonymi w części B załącznika II do rozporządzenia nr 2160/2003, przeprowadza się:
 1) u piskląt jednodniowych, w trakcie rozładunku ze środka transportu przed umieszczeniem piskląt w obiekcie, w którym będą utrzymywane, zwanym dalej „kurnikiem”, zgodnie z następującymi zasadami:
 a) próbki wyściółki wraz z mekonium z 10 pojemników transportowych z każdej dostawy (po 25 g z pojemnika) lub
 b) wymazy powierzchniowe z dna 10 pojemników (pulowane w laboratorium w 1 próbkę) ‒ w przypadku pojemników bez wyściółki, lub
-c) pisklęta padłe (w tym również w czasie transportu), nie więcej niż 20 sztuk pulowane w laboratorium w 1 próbkę;
+c) pisklęta padłe (w tym również w czasie transportu), nie więcej niż 20 sztuk – pulowane w laboratorium w 1 próbkę;
 2) u drobiu:
 a) w czwartym tygodniu życia,
 b) na 2 tygodnie przed rozpoczęciem składania jaj lub przed przeniesieniem do jednostki produkcyjnej,
-c) w okresie nieśności co 2 tygodnie zgodnie z wymaganiami określonymi w ust. 2.2.2.1 załącznika do rozporządzenia nr 200/2010.
+c) w okresie nieśności co 2 tygodnie – zgodnie z wymaganiami określonymi w ust. 2.2.2.1 załącznika do rozporządzenia nr 200/2010.
 Koszt pobrania, transportu oraz badania laboratoryjnego tych próbek ponosi hodowca.
 Zgodnie z art. 7 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, hodowca jest obowiązany do poinformowania powiatowego lekarza weterynarii o każdej zmianie stanu prawnego lub faktycznego związanego z prowadzeniem działalności nadzorowanej, w zakresie dotyczącym wymagań weterynaryjnych, w szczególności o wstawieniu nowego stada kur hodowlanych do kurnika.
 Informacja taka powinna zostać przekazana w formie pisemnej w terminie 7 dni od dnia zaistnienia tego zdarzenia. Jednocześnie hodowca przedkłada właściwemu miejscowo powiatowemu lekarzowi weterynarii harmonogram pobierania próbek w stadzie w celu zatwierdzenia.
@@ -266,11 +263,11 @@ UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 75), zwanego dalej „ rozpo
 4) wymagania, jakie powinno spełniać świeże mięso pozyskane z kur z takiego stada, są określone w części E ust. 1 i 3 załącznika II do rozporządzenia nr 2160/2003.
 3.3. Przed ponownym umieszczeniem drobiu w obiekcie powiatowy lekarz weterynarii pobiera próbki w celu stwierdzenia skuteczności wykonanego oczyszczania i odkażania.
 Próbki do badań laboratoryjnych stanowią:
-1) 4 wymazy powierzchniowe z podłoża, w szczególności z miejsc popękanych, zagłębień lub połączeń konstrukcyjnych w laboratorium łączone w jedną próbkę zbiorczą oraz
-2) 4 wymazy powierzchniowe z kątów narożnych badanego pomieszczenia pobrane od poziomu podłogi do wysokości 1 m w laboratorium łączone w jedną próbkę zbiorczą, oraz
-3) 3 wymazy powierzchniowe z urządzenia służącego do karmienia każdy wymaz pobrany z 5 metrów taśmy lub rynienki paszowej lub z 6 wybranych losowo karmideł w laboratorium łączone w jedną próbkę zbiorczą, oraz
-4) 2 wymazy powierzchniowe z systemu wentylacyjnego (każdy wymaz może być użyty do 3 wlotów lub wylotów tego systemu) w laboratorium łączone w jedną próbkę zbiorczą, oraz
-5) 2 wymazy powierzchniowe z magazynu jaj (z powierzchni sortownic, stołów) lub z końcowych 5 metrów systemu przeznaczonego do zbierania zniesionych jaj (taśmy) w laboratorium łączone w jedną próbkę zbiorczą.
+1) 4 wymazy powierzchniowe z podłoża, w szczególności z miejsc popękanych, zagłębień lub połączeń konstrukcyjnych – w laboratorium łączone w jedną próbkę zbiorczą oraz
+2) 4 wymazy powierzchniowe z kątów narożnych badanego pomieszczenia pobrane od poziomu podłogi do wysokości 1 m – w laboratorium łączone w jedną próbkę zbiorczą, oraz
+3) 3 wymazy powierzchniowe z urządzenia służącego do karmienia – każdy wymaz pobrany z 5 metrów taśmy lub rynienki paszowej lub z 6 wybranych losowo karmideł – w laboratorium łączone w jedną próbkę zbiorczą, oraz
+4) 2 wymazy powierzchniowe z systemu wentylacyjnego (każdy wymaz może być użyty do 3 wlotów lub wylotów tego systemu) – w laboratorium łączone w jedną próbkę zbiorczą, oraz
+5) 2 wymazy powierzchniowe z magazynu jaj (z powierzchni sortownic, stołów) lub z końcowych 5 metrów systemu przeznaczonego do zbierania zniesionych jaj (taśmy) – w laboratorium łączone w jedną próbkę zbiorczą.
 W przypadku uzyskania dodatniego wyniku badania laboratoryjnego koszty pobrania kolejnych próbek w celu stwierdzenia skuteczności wykonanego oczyszczania i odkażania, koszty dojazdu do zakładu drobiu oraz do laboratorium, jak również badania laboratoryjnego próbek ponosi hodowca.
 Ponowne umieszczenie drobiu może odbyć się tylko po uzyskaniu ujemnych wyników próbek pobranych przez powiatowego lekarza weterynarii.
 3.4. W przypadku zakładów drobiu, w których znajdują się dwa lub więcej niż dwa stada drobiu, powiatowy lekarz weterynarii może zastosować środki, o których mowa w pkt 3.1 programu w stosunku do tych stad drobiu, jeżeli:
@@ -301,8 +298,8 @@ Szacunkowe ogólne koszty realizacji programu w 2017 r. wyniosą 8 536 805,15 z�
 Szacunkowe ogólne koszty realizacji programu w 2018 r. wyniosą 7 233 695,53 zł. Z ogólnej sumy szacowanych kosztów programu strona polska wystąpi z wnioskiem o współfinansowanie ze środków Unii Europejskiej, w odniesieniu do 75% kosztów kwalifikowalnych, tj. od kwoty 6 994 345,11 zł.
 Szacunkowe ogólne koszty realizacji programu w 2019 r. wyniosą 5 930 729,83 zł. Z ogólnej sumy szacowanych kosztów programu strona polska będzie występowała z wnioskiem o współfinansowanie ze środków Unii Europejskiej, w odniesieniu do 75% kosztów kwalifikowalnych, tj. od kwoty 5 704 881,57 zł.
 Koszty realizacji programu zostaną dostosowane do wielkości wydatków przewidzianych na zwalczanie chorób zakaźnych zwierząt w projekcie ustawy budżetowej na lata 2017, 2018 i 2019 w ramach limitu wydatków właściwych części budżetowych.
-Finansowanie programu odbywa się ze środków budżetowych określonych w części 83 rezerwa celowa przeznaczona na zwalczanie chorób zakaźnych zwierząt (w tym finansowanie programów zwalczania), badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt, produktach pochodzenia zwierzęcego i paszach, finansowanie zadań zleconych przez Komisję Europejską oraz na dofinansowanie kosztów realizacji zadań Inspekcji Weterynaryjnej, oraz w części 85 budżety wojewodów, działu 010 rolnictwo i łowiectwo, rozdziału 01022 zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego.
-Szacunkowe koszty realizacji programu wyrażone w zł zostały przeliczone na euro według prognozowanego kursu euro zawartego w wytycznych Ministra Rozwoju i Finansów dotyczących stosowania jednolitych wskaźników makroekonomicznych będących podstawą oszacowania skutków finansowych projektowanych ustaw aktualizacja październik 2016 r.
+Finansowanie programu odbywa się ze środków budżetowych określonych w części 83 – rezerwa celowa przeznaczona na zwalczanie chorób zakaźnych zwierząt (w tym finansowanie programów zwalczania), badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt, produktach pochodzenia zwierzęcego i paszach, finansowanie zadań zleconych przez Komisję Europejską oraz na dofinansowanie kosztów realizacji zadań Inspekcji Weterynaryjnej, oraz w części 85 – budżety wojewodów, działu 010 – rolnictwo i łowiectwo, rozdziału 01022 – zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego.
+Szacunkowe koszty realizacji programu wyrażone w zł zostały przeliczone na euro według prognozowanego kursu euro zawartego w wytycznych Ministra Rozwoju i Finansów dotyczących stosowania jednolitych wskaźników makroekonomicznych będących podstawą oszacowania skutków finansowych projektowanych ustaw – aktualizacja październik 2016 r.
 W W W WZÓR ŚWIADECTWO ZDROWIA dla drobiu przewożonego z gospodarstwa do rzeźni Właściwy organ: ………………………………………………………………………
 1. Identyfikacja drobiu Gatunek: ……………………………………………………………………………… Liczba sztuk drobiu: …………………………………………………………………….
 2. Pochodzenie drobiu Adres gospodarstwa pochodzenia: …………………………………………………….

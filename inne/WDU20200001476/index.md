@@ -1,0 +1,33 @@
+---
+title: "Rozporządzenie Ministra Obrony Narodowej z dnia 26 sierpnia 2020 r. zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2"
+address: WDU20200001476
+eli: DU/2020/1476
+publisher: DU
+year: 2020
+pos: 1476
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1476 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 26 sierpnia 2020 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 1476 |
+| ISAP | WDU20200001476 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2020-08-26 |
+| Data wydania | 2020-08-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1476/text.pdf) |
+
+zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 Na podstawie art. 433a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r.
+poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 22 maja 2020 r. w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2 (Dz. U. poz. 915 i 1119) w § 1 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „31 sierpnia 2020 r.” zastępuje się wyrazami „30 września 2020 r.”.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2020 r.
+Minister Obrony Narodowej: wz. W. Skurkiewicz
+

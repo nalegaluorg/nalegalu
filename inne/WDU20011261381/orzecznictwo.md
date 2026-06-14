@@ -2,10 +2,10 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne.*
 
-Łącznie: **132** orzeczeń
+Łącznie: **134** orzeczeń
 (pominięto 141 orzeczeń sądów rejonowych)
 
-## art. 2 (9)
+## art. 2 (10)
 
 - 2023-02-06 | SO | [II AKa 190/22](https://www.saos.org.pl/judgments/491444) | Wyrok
 - 2017-01-04 | SO | [III AUa 235/16](https://www.saos.org.pl/judgments/286472) | Wyrok
@@ -14,6 +14,7 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne
 - 2012-11-06 | SO | [I ACa 976/12](https://www.saos.org.pl/judgments/2528) | Wyrok
 - 2012-09-07 | SO | [I ACa 881/12](https://www.saos.org.pl/judgments/10890) | Wyrok
 - 2011-09-01 | KIO | [KIO 1792/11](https://www.saos.org.pl/judgments/118759) | Wyrok
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
 - 2016-02-12 | SO | [II C 1215/06](https://www.saos.org.pl/judgments/228565) | Wyrok
 - 2013-08-19 | SO | [II K 89/12](https://www.saos.org.pl/judgments/271287) | Uzasadnienie
 
@@ -59,10 +60,22 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne
 - 2018-09-12 | SO | [I AGa 216/18](https://www.saos.org.pl/judgments/364425) | Wyrok
 - 2018-05-02 | SO | [X GC 1059/13](https://www.saos.org.pl/judgments/346136) | Uzasadnienie
 
+## art. 20 (1)
+
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
+
+## art. 21 (1)
+
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
+
 ## art. 24 (2)
 
 - 2018-09-12 | SO | [I AGa 216/18](https://www.saos.org.pl/judgments/364425) | Wyrok
 - 2018-05-02 | SO | [X GC 1059/13](https://www.saos.org.pl/judgments/346136) | Uzasadnienie
+
+## art. 25 (1)
+
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
 
 ## art. 28 (1)
 
@@ -87,10 +100,18 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne
 - 2015-12-21 | SO | [I ACa 666/15](https://www.saos.org.pl/judgments/199272) | Wyrok
 - 2013-09-17 | SO | [I ACa 650/13](https://www.saos.org.pl/judgments/35671) | Wyrok
 
+## art. 42 (1)
+
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
+
 ## art. 46 (2)
 
 - 2018-09-12 | SO | [I AGa 216/18](https://www.saos.org.pl/judgments/364425) | Wyrok
 - 2018-05-02 | SO | [X GC 1059/13](https://www.saos.org.pl/judgments/346136) | Uzasadnienie
+
+## art. 51 (1)
+
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
 
 ## art. 52 (2)
 
@@ -155,9 +176,14 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne
 - 2016-09-08 | SO | [VIII C 2342/15](https://www.saos.org.pl/judgments/252002) | Wyrok
 - 2018-07-23 | SO | [III Ca 652/18](https://www.saos.org.pl/judgments/356463) | Uzasadnienie
 
-## art. 91 (1)
+## art. 90 (1)
+
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
+
+## art. 91 (2)
 
 - 2014-02-06 | SO | [II AKa 212/13](https://www.saos.org.pl/judgments/144230) | Wyrok
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
 
 ## art. 92 (1)
 
@@ -177,12 +203,13 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne
 
 - 2018-02-28 | SO | [I ACa 296/15](https://www.saos.org.pl/judgments/342997) | Wyrok
 
-## art. 96 (5)
+## art. 96 (6)
 
 - 2012-04-13 | SN | [I CSK 448/11](https://www.saos.org.pl/judgments/97765) | Wyrok ★
 - 2020-10-21 | SO | [III AUa 1259/19](https://www.saos.org.pl/judgments/468795) | Wyrok
 - 2015-06-30 | SO | [I ACa 696/14](https://www.saos.org.pl/judgments/204306) | Wyrok
 - 2012-10-05 | SO | [VI ACa 856/12](https://www.saos.org.pl/judgments/1238) | Wyrok
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
 - 2021-02-25 | SO | [III Ca 2561/19](https://www.saos.org.pl/judgments/456433) | Uzasadnienie
 
 ## art. 97 (1)
@@ -210,8 +237,9 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne
 
 - 2021-03-30 | SO | [V ACa 73/21](https://www.saos.org.pl/judgments/437507) | Wyrok
 
-## art. 124 (39)
+## art. 124 (40)
 
+- 2025-03-26 | SO | [II AKa 508/24](https://www.saos.org.pl/judgments/545277) | Wyrok
 - 2022-05-13 | SO | [II AKa 32/22](https://www.saos.org.pl/judgments/468739) | Wyrok
 - 2021-09-29 | SO | [II AKa 152/20](https://www.saos.org.pl/judgments/478584) | Wyrok
 - 2018-12-13 | SO | [II AKa 528/18](https://www.saos.org.pl/judgments/426055) | Wyrok

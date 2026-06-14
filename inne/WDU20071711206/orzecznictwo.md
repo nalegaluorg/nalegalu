@@ -2,15 +2,15 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym*
 
-Łącznie: **465** orzeczeń
-(pominięto 979 orzeczeń sądów rejonowych)
+Łącznie: **467** orzeczeń
+(pominięto 984 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 
 - 2015-02-10 | SO | [VI ACa 591/14](https://www.saos.org.pl/judgments/156844) | Wyrok
 - 2021-07-30 | SO | [III Ca 962/20](https://www.saos.org.pl/judgments/458890) | Uzasadnienie
 
-## art. 2 (93)
+## art. 2 (94)
 
 - 2015-04-16 | SN | [III SK 24/14](https://www.saos.org.pl/judgments/168853) | Wyrok ★
 - 2014-03-04 | SN | [III SK 34/13](https://www.saos.org.pl/judgments/104619) | Wyrok ★
@@ -21,6 +21,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2015-04-23 | SN | [III SK 61/14](https://www.saos.org.pl/judgments/168920) | Postanowienie
 - 2014-12-10 | SN | [III SK 35/14](https://www.saos.org.pl/judgments/167679) | Postanowienie
 - 2014-05-15 | SN | [III SK 75/13](https://www.saos.org.pl/judgments/165821) | Postanowienie
+- 2025-04-09 | SO | [I ACa 2779/23](https://www.saos.org.pl/judgments/545991) | Wyrok
 - 2024-04-29 | SO | [I ACa 1657/22](https://www.saos.org.pl/judgments/493744) | Wyrok
 - 2024-04-11 | SO | [I ACa 190/22](https://www.saos.org.pl/judgments/525287) | Wyrok
 - 2022-12-14 | SO | [I ACa 533/22](https://www.saos.org.pl/judgments/494285) | Wyrok
@@ -106,7 +107,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2017-05-08 | SO | [III Ca 322/17](https://www.saos.org.pl/judgments/300877) | Uzasadnienie
 - 2017-01-17 | SO | [III Ca 1191/16](https://www.saos.org.pl/judgments/272192) | Uzasadnienie
 
-## art. 3 (31)
+## art. 3 (32)
 
 - 2015-04-16 | SN | [III SK 24/14](https://www.saos.org.pl/judgments/168853) | Wyrok ★
 - 2025-07-09 | SO | [I ACa 1576/22](https://www.saos.org.pl/judgments/542615) | Wyrok
@@ -132,6 +133,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2015-01-20 | SO | [VI ACa 449/14](https://www.saos.org.pl/judgments/173329) | Wyrok
 - 2014-10-28 | SO | [I ACa 449/14](https://www.saos.org.pl/judgments/70944) | Wyrok
 - 2016-05-19 | SO | [VI ACa 541/15](https://www.saos.org.pl/judgments/236322) | Uzasadnienie
+- 2025-04-29 | SO | [II Ca 1830/24](https://www.saos.org.pl/judgments/545029) | Wyrok
 - 2022-03-02 | SO | [I C 1570/18](https://www.saos.org.pl/judgments/462035) | Wyrok
 - 2018-04-16 | SO | [II Ca 2506/17](https://www.saos.org.pl/judgments/404460) | Wyrok
 - 2017-03-17 | SO | [VIII C 872/16](https://www.saos.org.pl/judgments/281540) | Wyrok
@@ -140,7 +142,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2019-03-05 | SO | [III Ca 1973/18](https://www.saos.org.pl/judgments/384265) | Uzasadnienie
 - 2017-09-05 | SO | [III Ca 874/17](https://www.saos.org.pl/judgments/307444) | Uzasadnienie
 
-## art. 4 (205)
+## art. 4 (206)
 
 - 2015-04-16 | SN | [III SK 24/14](https://www.saos.org.pl/judgments/168853) | Wyrok ★
 - 2015-04-09 | SN | [III SK 47/14](https://www.saos.org.pl/judgments/168794) | Wyrok ★
@@ -152,6 +154,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2025-09-30 | SO | [I ACa 887/23](https://www.saos.org.pl/judgments/536340) | Wyrok
 - 2025-07-09 | SO | [I ACa 1576/22](https://www.saos.org.pl/judgments/542615) | Wyrok
 - 2025-07-08 | SO | [I ACa 1663/22](https://www.saos.org.pl/judgments/543514) | Wyrok
+- 2025-04-09 | SO | [I ACa 2779/23](https://www.saos.org.pl/judgments/545991) | Wyrok
 - 2025-01-13 | SO | [I ACa 1289/24](https://www.saos.org.pl/judgments/535466) | Wyrok
 - 2024-06-14 | SO | [I ACa 1839/22](https://www.saos.org.pl/judgments/528890) | Wyrok
 - 2024-06-11 | SO | [I ACa 1384/22](https://www.saos.org.pl/judgments/526109) | Wyrok
@@ -348,7 +351,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2016-08-05 | SO | [III Ca 642/16](https://www.saos.org.pl/judgments/247713) | Uzasadnienie
 - 2015-08-25 | SO | [III Ca 171/15](https://www.saos.org.pl/judgments/191345) | Uzasadnienie
 
-## art. 5 (183)
+## art. 5 (184)
 
 - 2015-04-16 | SN | [III SK 24/14](https://www.saos.org.pl/judgments/168853) | Wyrok ★
 - 2014-08-27 | SN | [III SK 80/13](https://www.saos.org.pl/judgments/166600) | Wyrok ★
@@ -358,6 +361,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2016-02-24 | SN | [III SK 18/15](https://www.saos.org.pl/judgments/244731) | Postanowienie
 - 2014-05-15 | SN | [III SK 75/13](https://www.saos.org.pl/judgments/165821) | Postanowienie
 - 2025-07-09 | SO | [I ACa 1576/22](https://www.saos.org.pl/judgments/542615) | Wyrok
+- 2025-04-09 | SO | [I ACa 2779/23](https://www.saos.org.pl/judgments/545991) | Wyrok
 - 2025-01-30 | SO | [I ACa 945/22](https://www.saos.org.pl/judgments/536702) | Wyrok
 - 2025-01-13 | SO | [I ACa 1289/24](https://www.saos.org.pl/judgments/535466) | Wyrok
 - 2024-06-14 | SO | [I ACa 1839/22](https://www.saos.org.pl/judgments/528890) | Wyrok
@@ -534,9 +538,10 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2016-08-05 | SO | [III Ca 642/16](https://www.saos.org.pl/judgments/247713) | Uzasadnienie
 - 2015-08-25 | SO | [III Ca 171/15](https://www.saos.org.pl/judgments/191345) | Uzasadnienie
 
-## art. 6 (111)
+## art. 6 (113)
 
 - 2025-07-09 | SO | [I ACa 1576/22](https://www.saos.org.pl/judgments/542615) | Wyrok
+- 2025-04-09 | SO | [I ACa 2779/23](https://www.saos.org.pl/judgments/545991) | Wyrok
 - 2025-01-30 | SO | [I ACa 945/22](https://www.saos.org.pl/judgments/536702) | Wyrok
 - 2025-01-13 | SO | [I ACa 1289/24](https://www.saos.org.pl/judgments/535466) | Wyrok
 - 2024-06-14 | SO | [I ACa 1839/22](https://www.saos.org.pl/judgments/528890) | Wyrok
@@ -622,6 +627,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2013-09-27 | SO | [VI ACa 279/13](https://www.saos.org.pl/judgments/54124) | Wyrok
 - 2011-02-09 | SO | [VI ACa 694/10](https://www.saos.org.pl/judgments/1233) | Wyrok
 - 2015-11-26 | SO | [VI ACa 1724/14](https://www.saos.org.pl/judgments/195679) | Postanowienie
+- 2025-04-29 | SO | [II Ca 1830/24](https://www.saos.org.pl/judgments/545029) | Wyrok
 - 2022-03-02 | SO | [I C 1570/18](https://www.saos.org.pl/judgments/462035) | Wyrok
 - 2021-06-17 | SO | [II Ca 2155/19](https://www.saos.org.pl/judgments/468661) | Wyrok
 - 2021-04-12 | SO | [II C 1207/19](https://www.saos.org.pl/judgments/501433) | Wyrok

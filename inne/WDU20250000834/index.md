@@ -8,7 +8,7 @@ pos: 834
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Konstytucji Rzeczypospolitej Polskiej obowiązek prowadzenia przez władze publiczne polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli oraz wynikający z art. 5 Konstytucji Rzeczypospolitej Polskiej obowiązek kierowania się zasadą zrównoważonego rozwoju, a także zadania władz publicznych realizowane w szczególności przez wprowadzanie instrumentów zwiększających dostępność mieszkań i kształtowanie stabilnych ram finansowania budownictwa mieszkaniowego, uchwala się niniejszą ustawę.
@@ -605,6 +605,20 @@ Art. 112–128. (pominięte)
 
 **Art. 35.** Pisemnej zgody ministra właściwego do spraw rozwoju regionalnego wymaga:
 
+- **1)** zaciąganie kredytów i pożyczek przez KZN, gdy ich wartość przekracza 4 000 000 zł;
+- **1a)** ustanawianie zabezpieczeń, o których mowa w art. 66a ust. 1 pkt 2;
+- **2)** zbycie nieruchomości wchodzącej w skład Zasobu, gdy jej wartość przekracza 4 000 000 zł;
+- **2a)** przekazanie, o którym mowa w art. 51 ust. 1 pkt 3a, gdy wartość przekazywanej nieruchomości przekracza 2 000 000 zł;
+- **3)** nieodpłatne przekazanie nieruchomości, o którym mowa w art. 52, w przypadku gdy wartość tej nieruchomości przekracza 2 000 000 zł;
+- **4)** ustanawianie hipotek, w celu zabezpieczenia zobowiązań finansowych KZN, na nieruchomościach wchodzących w skład Zasobu, gdy wartość nieruchomości przekracza 4 000 000 zł;
+- **5)** nabywanie nieruchomości przez KZN na rzecz Skarbu Państwa;
+- **6)** nabywanie nieruchomości na własność KZN z przeznaczeniem na siedzibę KZN;
+- **7)** tworzenie przez KZN spółek celowych, w tym spółek tworzonych na podstawie ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637);
+- **8)** wnoszenie nieruchomości jako aportu do spółek, o których mowa w art. 7 ust. 1;
+- **9)** tworzenie przez KZN społecznych inicjatyw mieszkaniowych;
+- **10)** obejmowanie przez KZN udziałów lub akcji w społecznych inicjatywach mieszkaniowych lub towarzystwach budownictwa społecznego;
+- **11)** realizowanie obowiązku dopłat w spółkach z udziałem KZN, jeżeli uchwała wspólników o zobowiązaniu do dopłaty zapadła jednogłośnie.
+
 **Art. 36.**
 
 1. Prezesa KZN powołuje minister właściwy do spraw rozwoju regionalnego spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru.
@@ -1089,7 +1103,22 @@ Art. 112–128. (pominięte)
 
 **Art. 52a.** Umowa spółki celowej, o której mowa w art. 7 ust. 1, określa w szczególności:
 
+- **1)** oznaczenie nieruchomości wnoszonej przez KZN jako aport do spółki;
+- **2)** cel spółki związany z realizacją inwestycji mieszkaniowej lub uzbrojenia technicznego;
+- **3)** zobowiązanie spółki do wykorzystania nieruchomości będącej przedmiotem aportu na cel związany z realizacją inwestycji mieszkaniowej, w której co najmniej 50 % powierzchni użytkowej mieszkań będą stanowiły mieszkania na wynajem;
+- **4)** termin realizacji inwestycji mieszkaniowej lub uzbrojenia technicznego;
+- **5)** postanowienia przewidujące ograniczenia w zbyciu nieruchomości wnoszonej jako aport do spółki;
+- **6)** postanowienia przewidujące, iż w przypadku niezrealizowania celu spółki w terminie określonym w umowie, przewidzianym dla realizacji inwestycji mieszkaniowej lub uzbrojenia technicznego, spółka ulega rozwiązaniu.
+
 **Art. 52b.** Umowa utworzenia przez KZN społecznej inicjatywy mieszkaniowej albo pokrycia udziałów lub akcji w istniejącej społecznej inicjatywie mieszkaniowej lub towarzystwie budownictwa społecznego określa w szczególności:
+
+- **1)** oznaczenie nieruchomości wnoszonej przez KZN jako wkład niepieniężny w celu pokrycia całości albo części udziałów lub akcji lub określenie wysokości przeznaczonych na ten cel środków Funduszu;
+- **2)** planowaną liczbę lokali mieszkalnych, które zostaną utworzone w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego;
+- **3)** planowaną liczbę lokali mieszkalnych, które zostaną utworzone w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego, których pierwszymi najemcami będą osoby wychowujące przynajmniej jedno własne lub przysposobione dziecko, o którym mowa w art. 7 ust. 1a ustawy z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. z 2022 r. poz. 2628);
+- **4)** planowaną liczbę lokali mieszkalnych, które zostaną utworzone w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego, których pierwszymi najemcami będą osoby starsze w rozumieniu art. 4 pkt 1 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705 oraz z 2024 r. poz. 834);
+- **5)** zobowiązanie społecznej inicjatywy mieszkaniowej lub towarzystwa budownictwa społecznego do wykorzystania nieruchomości wniesionej przez KZN jako wkład niepieniężny, w celu związanym z realizacją inwestycji mieszkaniowej, w której co najmniej 80 % powierzchni użytkowej mieszkań będą stanowiły mieszkania na wynajem;
+- **6)** termin realizacji inwestycji mieszkaniowej lub uzbrojenia technicznego;
+- **7)** postanowienia przewidujące ograniczenia w zbyciu nieruchomości wnoszonej jako aport do społecznych inicjatyw mieszkaniowych lub towarzystw budownictwa społecznego, w tym okres, w którym nie można zbyć nieruchomości oraz dokonać zmiany przeznaczenia nieruchomości.
 
 **Art. 53.**
 
@@ -1316,6 +1345,11 @@ Art. 112–128. (pominięte)
 
 **Art. 66.** W celu realizacji zadań, o których mowa w art. 5, KZN może dokonywać:
 
+- **1)** zamiany nieruchomości wchodzących w skład Zasobu na inną nieruchomość;
+- **2)** zamiany nieruchomości dokonywanej w ramach odszkodowania, o którym mowa w przepisach ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustaw, o których mowa w art. 10 ust. 2 pkt 5 lit. e, oraz ustaw stanowiących podstawę wydania aktu prawa miejscowego, o którym mowa w lit. b, przysługującego od Skarbu Państwa, w przypadku:
+    - **a)** wywłaszczeń,
+    - **b)** wejścia w życie przepisów, w tym przepisów prawa miejscowego, wskutek których korzystanie z nieruchomości lub jej części w dotychczasowy sposób lub zgodny z dotychczasowym przeznaczeniem stało się niemożliwe bądź istotnie ograniczone.
+
 **Art. 66a.**
 
 1. KZN, za zgodą ministra, o którym mowa w art. 31 ust. 3, może wykorzystywać mienie Zasobu do ustanawiania zabezpieczeń:
@@ -1334,6 +1368,12 @@ Art. 112–128. (pominięte)
 #### Rozdział 8 Kontrola
 
 **Art. 96.** Prezes KZN uprawniony jest do przeprowadzania kontroli:
+
+- **1)** przestrzegania warunków umów zawieranych na podstawie art. 53 ust. 1 i 2;
+- **2)** zgodności realizowanej inwestycji mieszkaniowej z warunkami określonymi w zawartych z KZN umowach, w tym dotyczących wniesienia nieruchomości jako aportu;
+- **3)** (uchylony)
+- **4)** (uchylony)
+- **5)** przedkładanych informacji, o których mowa w art. 101.
 
 **Art. 97.** Prezes KZN w każdym czasie może zwrócić się do organów nadzoru budowlanego z wnioskiem o przeprowadzenie kontroli zgodności realizowanej inwestycji z przepisami prawa. Prezes KZN może uczestniczyć w kontroli prowadzonej przez organ nadzoru budowlanego.
 
@@ -1386,7 +1426,19 @@ Art. 112–128. (pominięte)
 
 **Art. 103.** Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
 
+- **1)** wstępu na teren nieruchomości będącej przedmiotem czynności kontrolnych;
+- **2)** żądania od nabywcy albo użytkownika wieczystego nieruchomości z Zasobu przedstawienia pisemnej informacji na temat nieruchomości, inwestycji mieszkaniowej realizowanej z wykorzystaniem tej nieruchomości lub mieszkań utworzonych w wyniku tej inwestycji;
+- **3)** wglądu do dokumentów związanych z nieruchomością, realizowaną inwestycją mieszkaniową lub utworzonymi mieszkaniami, sporządzania odpisów, kopii lub wyciągów z tych dokumentów oraz ich zabezpieczania;
+- **4)** sporządzania dokumentacji fotograficznej z przeprowadzonych czynności kontrolnych.
+
 **Art. 104.** W stosunku do osób upoważnionych do wykonywania czynności kontrolnych nabywca albo użytkownik wieczysty nieruchomości z Zasobu ma obowiązek:
+
+- **1)** umożliwienia wejścia na teren nieruchomości będącej przedmiotem czynności kontrolnych oraz zapewnienia bezpiecznego poruszania się po niej;
+- **2)** udostępnienia pisemnej informacji na temat nieruchomości, inwestycji mieszkaniowej realizowanej z wykorzystaniem tej nieruchomości lub mieszkań utworzonych w wyniku tej inwestycji;
+- **3)** udostępnienia dokumentów związanych z nieruchomością, realizowaną inwestycją mieszkaniową lub utworzonymi mieszkaniami;
+- **4)** umożliwienia sporządzania odpisów, kopii lub wyciągów z dokumentów związanych z nieruchomością, realizowaną inwestycją mieszkaniową lub utworzonymi mieszkaniami oraz zabezpieczania tych dokumentów;
+- **5)** umożliwienia sporządzania dokumentacji fotograficznej z przeprowadzonych czynności kontrolnych;
+- **6)** potwierdzenia zgodności kopii dokumentów z oryginałami.
 
 **Art. 105.**
 

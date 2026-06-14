@@ -8,7 +8,7 @@ pos: 1763
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej

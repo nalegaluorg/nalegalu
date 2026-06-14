@@ -8,10 +8,10 @@ pos: 79
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 stycznia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 79 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 23 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/79/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 23 grudnia 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie składu oraz oznakowania suplementów diety
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 9 października 2007 r. w sprawie składu oraz oznakowania suplementów diety (Dz. U. z 2018 r. poz. 1951), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 18 listopada 2021 r. zmieniającym rozporządzenie w sprawie składu oraz oznakowania suplementów diety (Dz. U.
 poz. 2236).
@@ -33,7 +32,8 @@ poz. 2236).
 zmieniającego dyrektywę 2002/46/WE Parlamentu Europejskiego i Rady w odniesieniu do chlorku rybozydu nikotynamidu i cytrynianu jabłczanu magnezu stosowanych w produkcji suplementów żywnościowych oraz w odniesieniu do jednostek miar stosowanych do miedzi (Dz. Urz. UE L 83 z 10.03.2021, str. 1).” „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 9 października 2007 r.
 w sprawie składu oraz oznakowania suplementów diety Na podstawie art. 27 ust. 6 i 7 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U.
-z 2022 r. poz. 2132) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2022 r. poz. 2132) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wykaz witamin i składników mineralnych oraz ich formy chemiczne, które mogą być stosowane w produkcji suplementów diety;
 2) szczególne wymagania w zakresie oznakowania suplementów diety;
 3) dodatkowe wymagania dotyczące zawartości w suplementach diety witamin i składników mineralnych, w tym kryteria czystości oraz poziom witamin i składników mineralnych w suplemencie diety.

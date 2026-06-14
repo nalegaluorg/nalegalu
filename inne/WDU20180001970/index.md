@@ -8,10 +8,10 @@ pos: 1970
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 października 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1970 PoPrawki do załącznika Vi do Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz uzupełnionej Protokołem przyjętym w Londynie dnia 26 września 1997 r., przyjęte w Londynie dnia 7 lipca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001970) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1970/text.pdf) |
 
-PoPrawki do załącznika Vi do Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz uzupełnionej Protokołem przyjętym w Londynie dnia 26 września 1997 r., przyjęte w Londynie dnia 7 lipca 2017 r.
 Przekład
 

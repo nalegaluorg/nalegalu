@@ -8,10 +8,10 @@ pos: 2092
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 listopada 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2092 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,209 +25,211 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2092/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 października 2021 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2012 r. sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 540), z uwzględnieniem zmian wprowadzonych:
-1) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającym rozporządzenie sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412);
-2) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającym rozporządzenie sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającego rozporządzenie sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683), które stanowią: „§ 2. Do przetargów ofert pisemnych (konkursów ofert) i publicznych przetargów ustnych (licytacji) na sprzedaż nieruchomości Zasobu Własności Rolnej Skarbu Państwa ogłoszonych przed dniem wejścia życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.”.
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 30 kwietnia 2012 r.
-sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów Na podstawie art. 32 ustawy z dnia 19 października 1991 r. gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) zarządza się, co następuje: § 1. Ilekroć rozporządzeniu jest mowa o:
-1) ustawie należy przez to rozumieć ustawę z dnia 19 października 1991 r. gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;
-2) Krajowym Ośrodku należy przez to rozumieć Krajowy Ośrodek Wsparcia Rolnictwa;
-3) Zasobie należy przez to rozumieć Zasób Własności Rolnej Skarbu Państwa;
-4) nieruchomości należy przez to rozumieć nieruchomości Zasobu przeznaczone do sprzedaży, z wyłączeniem nieruchomości sprzedawanych trybie określonym przepisach wydanych na podstawie art. 43 ust. 3 ustawy;
-5) organizatorze przetargu należy przez to rozumieć jednostkę organizacyjną Krajowego Ośrodka ;
-6) pierwszym przetargu należy przez to rozumieć przetarg, który został ogłoszony bezpośrednio po ogłoszeniu wykazu, którym mowa art. 28 ust. 1 ustawy;
-7) przetargu należy przez to rozumieć przetarg ofert pisemnych (konkurs ofert) lub publiczny przetarg ustny (licytację);
-8) przetargu ograniczonym należy przez to rozumieć przetarg, którym mowa pkt 7, którym mogą uczestniczyć wyłącznie podmioty, których mowa art. 29 ust. 3b ustawy;
-9) uczestniku przetargu należy przez to rozumieć osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która wyznaczonych terminie, miejscu i formie wniosła wadium, z zastrzeżeniem § 9 ust. 5 i § 10, oraz odpowiednio:
-a) stawiła się na publiczny przetarg ustny (licytację) lub uczestniczyła tym przetargu przy użyciu środków komunikacji elektronicznej albo
-b) wyznaczonych terminie i miejscu złożyła ofertę przetargu ofert pisemnych (konkursie ofert), albo
-c) przypadku przetargu ograniczonego została zakwalifikowana do uczestnictwa nim i stawiła się na publiczny przetarg ustny (licytację) lub uczestniczyła tym przetargu przy użyciu środków komunikacji elektronicznej albo wyznaczonych terminie i miejscu złożyła ofertę przetargu ofert pisemnych (konkursie ofert);
-10) środkach komunikacji elektronicznej należy przez to rozumieć środki komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), które umożliwiają:
-a) transmisję przetargu czasie rzeczywistym między uczestnikami przetargu oraz członkami komisji przetargowej,
-b) wielostronną komunikację czasie rzeczywistym, ramach której uczestnicy przetargu oraz członkowie komisji przetargowej mogą brać nim udział z zachowaniem niezbędnych zasad bezpieczeństwa i możliwości identyfikacji uczestników przetargu oraz członków komisji przetargowej.
-§ 2. Nieruchomości i ich części składowe podlegają sprzedaży trybie przetargu ofert pisemnych (konkursu ofert), zwanego dalej „przetargiem ofert”, albo publicznego przetargu ustnego (licytacji), zwanego dalej „przetargiem ustnym”, z zastrzeżeniem § 3–5.
-§ 3. 1. Krajowy Ośrodek informuje na piśmie właściciela nieruchomości przyległej zamiarze przeznaczenia do sprzedaży nieruchomości Zasobu, która nie może być zagospodarowana samodzielnie.
-2. W piśmie, którym mowa ust. 1, podaje się:
-1) dane określone art. 28 ust. 2 pkt 1–4 i 6 ustawy;
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2012 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 540), z uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającym rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412);
+2) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającym rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 1412), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów (Dz. U. poz. 683), które stanowią: „§ 2. Do przetargów ofert pisemnych (konkursów ofert) i publicznych przetargów ustnych (licytacji) na sprzedaż nieruchomości Zasobu Własności Rolnej Skarbu Państwa ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
+Minister Rolnictwa i Rozwoju Wsi: wz. R. Bartosik ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 30 kwietnia 2012 r.
+w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów Na podstawie art. 32 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2020 r. poz. 2243 oraz z 2021 r. poz. 1561 i 1873) zarządza się, co następuje:
+§ 1. Ilekroć w rozporządzeniu jest mowa o:
+1) ustawie – należy przez to rozumieć ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;
+2) Krajowym Ośrodku – należy przez to rozumieć Krajowy Ośrodek Wsparcia Rolnictwa;
+3) Zasobie – należy przez to rozumieć Zasób Własności Rolnej Skarbu Państwa;
+4) nieruchomości – należy przez to rozumieć nieruchomości Zasobu przeznaczone do sprzedaży, z wyłączeniem nieruchomości sprzedawanych w trybie określonym w przepisach wydanych na podstawie art. 43 ust. 3 ustawy;
+5) organizatorze przetargu – należy przez to rozumieć jednostkę organizacyjną Krajowego Ośrodka ;
+6) pierwszym przetargu – należy przez to rozumieć przetarg, który został ogłoszony bezpośrednio po ogłoszeniu wykazu, o którym mowa w art. 28 ust. 1 ustawy;
+7) przetargu – należy przez to rozumieć przetarg ofert pisemnych (konkurs ofert) lub publiczny przetarg ustny (licytację);
+8) przetargu ograniczonym – należy przez to rozumieć przetarg, o którym mowa w pkt 7, w którym mogą uczestniczyć wyłącznie podmioty, o których mowa w art. 29 ust. 3b ustawy;
+9) uczestniku przetargu – należy przez to rozumieć osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która w wyznaczonych terminie, miejscu i formie wniosła wadium, z zastrzeżeniem § 9 ust. 5 i § 10, oraz odpowiednio:
+a) stawiła się na publiczny przetarg ustny (licytację) lub uczestniczyła w tym przetargu przy użyciu środków komunikacji elektronicznej albo
+b) w wyznaczonych terminie i miejscu złożyła ofertę w przetargu ofert pisemnych (konkursie ofert), albo
+c) w przypadku przetargu ograniczonego została zakwalifikowana do uczestnictwa w nim i stawiła się na publiczny przetarg ustny (licytację) lub uczestniczyła w tym przetargu przy użyciu środków komunikacji elektronicznej albo w wyznaczonych terminie i miejscu złożyła ofertę w przetargu ofert pisemnych (konkursie ofert);
+10) środkach komunikacji elektronicznej – należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), które umożliwiają:
+a) transmisję przetargu w czasie rzeczywistym między uczestnikami przetargu oraz członkami komisji przetargowej,
+b) wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy przetargu oraz członkowie komisji przetargowej mogą brać w nim udział – z zachowaniem niezbędnych zasad bezpieczeństwa i możliwości identyfikacji uczestników przetargu oraz członków komisji przetargowej.
+§ 2. Nieruchomości i ich części składowe podlegają sprzedaży w trybie przetargu ofert pisemnych (konkursu ofert), zwanego dalej „przetargiem ofert”, albo publicznego przetargu ustnego (licytacji), zwanego dalej „przetargiem ustnym”, z zastrzeżeniem § 3–5.
+§ 3. 1. Krajowy Ośrodek informuje na piśmie właściciela nieruchomości przyległej o zamiarze przeznaczenia do sprzedaży nieruchomości Zasobu, która nie może być zagospodarowana samodzielnie.
+2. W piśmie, o którym mowa w ust. 1, podaje się:
+1) dane określone w art. 28 ust. 2 pkt 1–4 i 6 ustawy;
 2) termin zgłoszenia na piśmie zainteresowania nabyciem nieruchomości, nie krótszy niż 21 dni od dnia otrzymania pisma Krajowego Ośrodka ;
-3) informację konieczności spełnienia przez nabywcę wymagania określonego art. 28a ust. 1 ustawy.
-3. Przy doręczaniu pisma, którym mowa ust. 1, stosuje się przepisy Kodeksu postępowania administracyjnego.
-4. W przypadku zgłoszenia przez właściciela nieruchomości przyległej zainteresowania nabyciem nieruchomości Zasobu, której mowa ust. 1, Krajowy Ośrodek sporządza i ogłasza wykaz, którym mowa art. 28 ustawy.
-5. Jeżeli podmioty, których mowa art. 29 ust. 1 ustawy, nie skorzystają z przysługującego pierwszeństwa nabyciu nieruchomości Zasobu, Krajowy Ośrodek wyznacza właścicielowi nieruchomości przyległej termin i miejsce zawarcia umowy sprzedaży nieruchomości.
-6. Jeżeli zainteresowanie nabyciem nieruchomości Zasobu, której mowa ust. 1, zgłosili na piśmie właściciele co najmniej dwóch nieruchomości przyległych, wówczas nieruchomość podlega sprzedaży trybie przetargu ustnego, którym mogą uczestniczyć wyłącznie właściciele nieruchomości przyległych.
+3) informację o konieczności spełnienia przez nabywcę wymagania określonego w art. 28a ust. 1 ustawy.
+3. Przy doręczaniu pisma, o którym mowa w ust. 1, stosuje się przepisy Kodeksu postępowania administracyjnego.
+4. W przypadku zgłoszenia przez właściciela nieruchomości przyległej zainteresowania nabyciem nieruchomości Zasobu, o której mowa w ust. 1, Krajowy Ośrodek sporządza i ogłasza wykaz, o którym mowa w art. 28 ustawy.
+5. Jeżeli podmioty, o których mowa w art. 29 ust. 1 ustawy, nie skorzystają z przysługującego pierwszeństwa w nabyciu nieruchomości Zasobu, Krajowy Ośrodek wyznacza właścicielowi nieruchomości przyległej termin i miejsce zawarcia umowy sprzedaży nieruchomości.
+6. Jeżeli zainteresowanie nabyciem nieruchomości Zasobu, o której mowa w ust. 1, zgłosili na piśmie właściciele co najmniej dwóch nieruchomości przyległych, wówczas nieruchomość podlega sprzedaży w trybie przetargu ustnego, w którym mogą uczestniczyć wyłącznie właściciele nieruchomości przyległych.
 § 4. 1. Na wniosek użytkownika wieczystego nieruchomości Krajowy Ośrodek może sprzedać mu tę nieruchomość.
 2. Wniosek powinien zawierać:
 1) oznaczenie i powierzchnię nieruchomości oraz rodzaj użytków rolnych i ich klasy według danych z ewidencji gruntów i budynków (katastru nieruchomości);
-2) oznaczenie księgi wieczystej prowadzonej dla nieruchomości, a przypadku jej braku numer zbioru dokumentów, jeżeli jest prowadzony dla nieruchomości;
-3) opis faktycznego stanu użytkowania nieruchomości przypadku braku dokumentów i oświadczenia, których mowa ust. 3.
+2) oznaczenie księgi wieczystej prowadzonej dla nieruchomości, a w przypadku jej braku – numer zbioru dokumentów, jeżeli jest prowadzony dla nieruchomości;
+3) opis faktycznego stanu użytkowania nieruchomości – w przypadku braku dokumentów i oświadczenia, o których mowa w ust. 3.
 3. Do wniosku dołącza się:
-1) zaświadczenie właściwego organu gminy przeznaczeniu nieruchomości miejscowym planie zagospodarowania przestrzennego, a przypadku braku tego planu zaświadczenie przeznaczeniu nieruchomości studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;
-2) decyzję warunkach zabudowy i zagospodarowania terenu przypadku braku zaświadczeń, których mowa pkt 1;
-3) oświadczenie spełnieniu przez nabywcę wymagania określonego art. 28a ust. 1 ustawy przypadku sprzedaży nieruchomości rolnej.
+1) zaświadczenie właściwego organu gminy o przeznaczeniu nieruchomości w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku tego planu – zaświadczenie o przeznaczeniu nieruchomości w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;
+2) decyzję o warunkach zabudowy i zagospodarowania terenu – w przypadku braku zaświadczeń, o których mowa w pkt 1;
+3) oświadczenie o spełnieniu przez nabywcę wymagania określonego w art. 28a ust. 1 ustawy – w przypadku sprzedaży nieruchomości rolnej.
 4. W przypadku uwzględnienia wniosku Krajowy Ośrodek zawiadamia na piśmie użytkownika wieczystego o:
-1) warunkach sprzedaży nieruchomości, tym o:
+1) warunkach sprzedaży nieruchomości, w tym o:
 a) cenie nieruchomości określonej zgodnie z art. 30 ustawy i sposobie jej zapłaty,
 b) obciążeniach i zobowiązaniach, których przedmiotem jest ta nieruchomość;
-2) terminie złożenia na piśmie oświadczenia przyjęciu warunków, których mowa pkt 1, nie krótszym niż 21 dni od dnia otrzymania zawiadomienia.
-5. Po złożeniu przez użytkownika wieczystego oświadczenia, którym mowa ust. 4 pkt 2, Krajowy Ośrodek , terminie 14 dni od jego otrzymania, zawiadamia na piśmie użytkownika wieczystego terminie i miejscu zawarcia umowy sprzedaży nieruchomości.
-6. Przy doręczaniu zawiadomień, których mowa ust. 4 i 5, stosuje się przepisy Kodeksu postępowania administracyjnego.
-7. Jeżeli użytkownik wieczysty nie złożył oświadczenia, którym mowa ust. 4 pkt 2, albo bez uzasadnionej przyczyny nie przystąpi do zawarcia umowy, Krajowy Ośrodek odstępuje od zawarcia umowy.
-§ 5. 1. O przeznaczeniu do sprzedaży nieruchomości Krajowy Ośrodek zawiadamia na piśmie, stosownie do art. 29 ust. 1c ustawy, kolejne podmioty wymienione art. 29 ust. 1 ustawy, mające pierwszeństwo jej nabyciu. W zawiadomieniu podaje się dane wymienione art. 28 ust. 2 ustawy, sposób zapłaty ceny oraz informację obciążeniach i zobowiązaniach, których przedmiotem jest ta nieruchomość. W przypadku sprzedaży nieruchomości rolnej zamieszcza się dodatkowo informację konieczności spełnienia przez nabywcę wymagania określonego art. 28a ust. 1 ustawy.
-2. Po otrzymaniu wyznaczonym terminie oświadczenia, którym mowa art. 29 ust. 1d ustawy, złożonego przez podmiot, który został zawiadomiony na podstawie ust. 1, Krajowy Ośrodek terminie 30 dni zawiadamia go na piśmie terminie i miejscu zawarcia umowy sprzedaży.
+2) terminie złożenia na piśmie oświadczenia o przyjęciu warunków, o których mowa w pkt 1, nie krótszym niż 21 dni od dnia otrzymania zawiadomienia.
+5. Po złożeniu przez użytkownika wieczystego oświadczenia, o którym mowa w ust. 4 pkt 2, Krajowy Ośrodek , w terminie 14 dni od jego otrzymania, zawiadamia na piśmie użytkownika wieczystego o terminie i miejscu zawarcia umowy sprzedaży nieruchomości.
+6. Przy doręczaniu zawiadomień, o których mowa w ust. 4 i 5, stosuje się przepisy Kodeksu postępowania administracyjnego.
+7. Jeżeli użytkownik wieczysty nie złożył oświadczenia, o którym mowa w ust. 4 pkt 2, albo bez uzasadnionej przyczyny nie przystąpi do zawarcia umowy, Krajowy Ośrodek odstępuje od zawarcia umowy.
+§ 5. 1. O przeznaczeniu do sprzedaży nieruchomości Krajowy Ośrodek zawiadamia na piśmie, stosownie do art. 29 ust. 1c ustawy, kolejne podmioty wymienione w art. 29 ust. 1 ustawy, mające pierwszeństwo w jej nabyciu. W zawiadomieniu podaje się dane wymienione w art. 28 ust. 2 ustawy, sposób zapłaty ceny oraz informację o obciążeniach i zobowiązaniach, których przedmiotem jest ta nieruchomość. W przypadku sprzedaży nieruchomości rolnej zamieszcza się dodatkowo informację o konieczności spełnienia przez nabywcę wymagania określonego w art. 28a ust. 1 ustawy.
+2. Po otrzymaniu w wyznaczonym terminie oświadczenia, o którym mowa w art. 29 ust. 1d ustawy, złożonego przez podmiot, który został zawiadomiony na podstawie ust. 1, Krajowy Ośrodek w terminie 30 dni zawiadamia go na piśmie o terminie i miejscu zawarcia umowy sprzedaży.
 3. W przypadku gdy podmiot, który został zawiadomiony na podstawie ust. 1:
-1) złoży oświadczenie odmowie skorzystania z pierwszeństwa,
-2) nie złoży wyznaczonym terminie żadnego oświadczenia,
-3) złoży wyznaczonym terminie oświadczenie skorzystaniu z pierwszeństwa na warunkach innych niż określone zawiadomieniu,
-4) bez uzasadnionej przyczyny nie przystąpi wyznaczonych terminie i miejscu do zawarcia umowy lub nie spełni warunków określonych zawiadomieniu Krajowy Ośrodek przeznacza nieruchomość do sprzedaży kolejnemu podmiotowi, któremu przysługuje pierwszeństwo nabycia tej nieruchomości, a razie braku takiego podmiotu może sprzedać ją przetargu.
-§ 6. Zawarcie umowy sprzedaży bez przetargu przypadku, którym mowa art. 29 ust. 3a ustawy, nie jest dopuszczalne po upływie 3 miesięcy od dnia zamknięcia ostatniego przetargu.
-§ 7. 1. Przetarg ogłasza organizator przetargu sposób zwyczajowo przyjęty miejscowości, której położona jest nieruchomość, siedzibie właściwej miejscowo izby rolniczej, właściwym miejscowo urzędzie gminy oraz swojej siedzibie co najmniej na 14 dni przed dniem rozpoczęcia przetargu, a przypadku przetargu ograniczonego co najmniej na 28 dni przed dniem jego rozpoczęcia.
-2. W jednym ogłoszeniu można zamieścić informacje przetargach na jedną lub więcej nieruchomości.
-3. Informacja ogłoszeniu przetargu jest umieszczana na stronie internetowej Krajowego Ośrodka .
-4. W ogłoszeniu przetargu podaje się szczególności:
+1) złoży oświadczenie o odmowie skorzystania z pierwszeństwa,
+2) nie złoży w wyznaczonym terminie żadnego oświadczenia,
+3) złoży w wyznaczonym terminie oświadczenie o skorzystaniu z pierwszeństwa na warunkach innych niż określone w zawiadomieniu,
+4) bez uzasadnionej przyczyny nie przystąpi w wyznaczonych terminie i miejscu do zawarcia umowy lub nie spełni warunków określonych w zawiadomieniu – Krajowy Ośrodek przeznacza nieruchomość do sprzedaży kolejnemu podmiotowi, któremu przysługuje pierwszeństwo nabycia tej nieruchomości, a w razie braku takiego podmiotu – może sprzedać ją w przetargu.
+§ 6. Zawarcie umowy sprzedaży bez przetargu w przypadku, o którym mowa w art. 29 ust. 3a ustawy, nie jest dopuszczalne po upływie 3 miesięcy od dnia zamknięcia ostatniego przetargu.
+§ 7. 1. Przetarg ogłasza organizator przetargu w sposób zwyczajowo przyjęty w miejscowości, w której położona jest nieruchomość, w siedzibie właściwej miejscowo izby rolniczej, właściwym miejscowo urzędzie gminy oraz swojej siedzibie co najmniej na 14 dni przed dniem rozpoczęcia przetargu, a w przypadku przetargu ograniczonego – co najmniej na 28 dni przed dniem jego rozpoczęcia.
+2. W jednym ogłoszeniu można zamieścić informacje o przetargach na jedną lub więcej nieruchomości.
+3. Informacja o ogłoszeniu przetargu jest umieszczana na stronie internetowej Krajowego Ośrodka .
+4. W ogłoszeniu o przetargu podaje się w szczególności:
 1) oznaczenie i powierzchnię nieruchomości oraz rodzaj użytków rolnych i ich klasy według danych z ewidencji gruntów i budynków (katastru nieruchomości);
-2) oznaczenie księgi wieczystej prowadzonej dla nieruchomości, a przypadku jej braku zaświadczenie wystawione na podstawie zbioru dokumentów, jeżeli jest prowadzony dla nieruchomości;
-3) opis nieruchomości i jej części składowych, tym przeznaczenie określone miejscowym planie zagospodarowania przestrzennego, a przypadku braku tego planu przeznaczenie określone studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, z podaniem obciążeń, ograniczeń lub obowiązków wynikających z przepisów szczególnych, tym zakresie ochrony zabytków i opieki nad zabytkami, oraz termin, jakim można dokonać jej oględzin;
-4) przypadku braku planu zagospodarowania przestrzennego oraz studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy informację dotychczasowym sposobie korzystania z nieruchomości;
-5) datę i numer decyzji wpisie do rejestru zabytków, jeżeli przedmiotem przetargu jest nieruchomość wpisana do rejestru zabytków, oraz informację obowiązku uzyskania przez podmiot biorący udział przetargu akceptacji programu użytkowego przez właściwego konserwatora zabytków, a także warunki obniżenia ceny sprzedaży tej nieruchomości, których mowa § 25;
-6) przypadku sprzedaży nieruchomości rolnej informację konieczności spełnienia przez podmiot biorący udział przetargu wymagania określonego art. 28a ust. 1 ustawy;
+2) oznaczenie księgi wieczystej prowadzonej dla nieruchomości, a w przypadku jej braku – zaświadczenie wystawione na podstawie zbioru dokumentów, jeżeli jest prowadzony dla nieruchomości;
+3) opis nieruchomości i jej części składowych, w tym przeznaczenie określone w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku tego planu – przeznaczenie określone w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, z podaniem obciążeń, ograniczeń lub obowiązków wynikających z przepisów szczególnych, w tym w zakresie ochrony zabytków i opieki nad zabytkami, oraz termin, w jakim można dokonać jej oględzin;
+4) w przypadku braku planu zagospodarowania przestrzennego oraz studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy – informację o dotychczasowym sposobie korzystania z nieruchomości;
+5) datę i numer decyzji o wpisie do rejestru zabytków, jeżeli przedmiotem przetargu jest nieruchomość wpisana do rejestru zabytków, oraz informację o obowiązku uzyskania przez podmiot biorący udział w przetargu akceptacji programu użytkowego przez właściwego konserwatora zabytków, a także warunki obniżenia ceny sprzedaży tej nieruchomości, o których mowa w § 25;
+6) w przypadku sprzedaży nieruchomości rolnej – informację o konieczności spełnienia przez podmiot biorący udział w przetargu wymagania określonego w art. 28a ust. 1 ustawy;
 7) termin i miejsce przetargu;
-8) przypadku przetargu ustnego wywoławczą cenę sprzedaży oraz minimalną wysokość postąpienia;
-9) przypadku przetargu ofert:
+8) w przypadku przetargu ustnego – wywoławczą cenę sprzedaży oraz minimalną wysokość postąpienia;
+9) w przypadku przetargu ofert:
 a) cenę wywoławczą,
 b) kryteria oceny ofert,
 c) termin i miejsce złożenia oferty,
 d) zastrzeżenie, że organizatorowi przetargu przysługuje prawo zamknięcia przetargu bez wybrania którejkolwiek z ofert;
 10) wysokość wadium oraz formę, termin i miejsce jego wniesienia;
-11) informację sposobie zapłaty ceny sprzedaży, tym możliwości lub braku możliwości rozłożenia ceny sprzedaży na raty, a przypadku takiej możliwości ponadto informację warunkach rozłożenia ceny sprzedaży na raty, tym możliwości rozłożenia ceny sprzedaży na raty z zastosowaniem oprocentowania preferencyjnego, z uwzględnieniem przepisów dotyczących wysokości oprocentowania rozłożonej na raty należności z tytułu sprzedaży mienia z Zasobu;
-12) szacunkową wartość przynależności postaci majątku obrotowego i ruchomych środków trwałych, jeżeli warunkiem sprzedaży nieruchomości jest sprzedaż tych przynależności;
+11) informację o sposobie zapłaty ceny sprzedaży, w tym o możliwości lub braku możliwości rozłożenia ceny sprzedaży na raty, a w przypadku takiej możliwości – ponadto informację o warunkach rozłożenia ceny sprzedaży na raty, w tym możliwości rozłożenia ceny sprzedaży na raty z zastosowaniem oprocentowania preferencyjnego, z uwzględnieniem przepisów dotyczących wysokości oprocentowania rozłożonej na raty należności z tytułu sprzedaży mienia z Zasobu;
+12) szacunkową wartość przynależności w postaci majątku obrotowego i ruchomych środków trwałych, jeżeli warunkiem sprzedaży nieruchomości jest sprzedaż tych przynależności;
 13) informację, że organizator przetargu bez podania przyczyn może:
 a) do czasu rozpoczęcia przetargu odstąpić od jego przeprowadzenia,
-b) nie zatwierdzić wniosku komisji przetargowej sprawie rozstrzygnięcia przetargu ofert;
-14) pouczenie przypadkach, których wadium nie podlega zwrotowi;
-15) informację konieczności uzyskania przez organizatora przetargu pełnomocnictwa Dyrektora Generalnego Krajowego Ośrodka do zawarcia umowy, jeżeli takie pełnomocnictwo jest wymagane;
-16) informację miejscu i czasie, których można zapoznać się przed przetargiem z postanowieniami projektu umowy sprzedaży, które nie podlegają ustaleniu trybie przetargu;
-17) przypadku możliwości uzyskania pomocy publicznej poprzez rozłożenie ceny sprzedaży na raty pouczenie konieczności złożenia informacji, których mowa art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743).
-§ 7a. 1. W szczególnie uzasadnionych przypadkach organizator przetargu może podjąć decyzję przeprowadzeniu czynności wymagających stawienia się uczestników przetargu przy użyciu środków komunikacji elektronicznej. Obowiązek stawienia się uczestnika przetargu uważa się za spełniony, jeżeli uczestniczył on przetargu przy użyciu środków komunikacji elektronicznej.
-2. W przypadku, którym mowa ust. 1, organizator przetargu jest uprawniony do żądania od uczestników przetargu danych niezbędnych do ich identyfikacji, takich jak:
-1) imię i nazwisko, nazwisko panieńskie matki, adres zamieszkania oraz numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) przypadku uczestnika przetargu będącego osobą fizyczną;
-2) imię i nazwisko, nazwisko panieńskie matki oraz numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) osoby uprawnionej do reprezentowania osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej przypadku uczestnika przetargu niebędącego osobą fizyczną;
-3) imię i nazwisko, kod kraju, numer paszportu lub inny dokument tożsamości przypadku uczestnika przetargu będącego osobą fizyczną nieposiadającą obywatelstwa polskiego oraz przypadku osoby nieposiadającej obywatelstwa polskiego uprawnionej do reprezentowania osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
-3. Organizator przetargu co najmniej na 3 dni przed podjęciem pierwszej czynności z wykorzystaniem środków komunikacji elektronicznej informuje uczestnika przetargu, że czynności przetargu ustnym wymagające stawienia się będą podejmowane przy użyciu tych środków, wskazując, jaki sposób przy użyciu środków komunikacji elektronicznej uczestnik przetargu będzie mógł wziąć nich udział.
-4. W przypadku odmowy podania albo niedostarczenia przez uczestnika przetargu terminie wskazanym przez organizatora przetargu danych niezbędnych do identyfikacji uczestnika przetargu organizator przetargu nie dopuszcza tego uczestnika do udziału przetargu.
-5. W przypadku, którym mowa ust. 1, członkowie komisji przetargowej wykonują czynności wymagające ich stawienia się przy użyciu środków komunikacji elektronicznej.
-§ 8. 1. Jeżeli pierwszy przetarg nie został rozstrzygnięty, kolejne przetargi na daną nieruchomość przeprowadza się terminie do 6 miesięcy od dnia zamknięcia pierwszego przetargu.
-2. W kolejnym przetargu, ogłoszonym przypadku, którym mowa art. 29 ust. 3a ustawy, cena wywoławcza nie może być jednorazowo obniżona więcej niż 20% ceny wywoławczej pierwszego przetargu, z zastrzeżeniem ust. 3.
-3. Cena wywoławcza przetargu ogłoszonym bezpośrednio po przetargu ograniczonym albo kolejnym przetargu ograniczonym do innej kategorii uczestników nie może być niższa niż cena wywoławcza pierwszego przetargu.
+b) nie zatwierdzić wniosku komisji przetargowej w sprawie rozstrzygnięcia przetargu ofert;
+14) pouczenie o przypadkach, w których wadium nie podlega zwrotowi;
+15) informację o konieczności uzyskania przez organizatora przetargu pełnomocnictwa Dyrektora Generalnego Krajowego Ośrodka do zawarcia umowy, jeżeli takie pełnomocnictwo jest wymagane;
+16) informację o miejscu i czasie, w których można zapoznać się przed przetargiem z postanowieniami projektu umowy sprzedaży, które nie podlegają ustaleniu w trybie przetargu;
+17) w przypadku możliwości uzyskania pomocy publicznej poprzez rozłożenie ceny sprzedaży na raty – pouczenie o konieczności złożenia informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743).
+§ 7a. 1. W szczególnie uzasadnionych przypadkach organizator przetargu może podjąć decyzję o przeprowadzeniu czynności wymagających stawienia się uczestników przetargu przy użyciu środków komunikacji elektronicznej. Obowiązek stawienia się uczestnika przetargu uważa się za spełniony, jeżeli uczestniczył on w przetargu przy użyciu środków komunikacji elektronicznej.
+2. W przypadku, o którym mowa w ust. 1, organizator przetargu jest uprawniony do żądania od uczestników przetargu danych niezbędnych do ich identyfikacji, takich jak:
+1) imię i nazwisko, nazwisko panieńskie matki, adres zamieszkania oraz numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) – w przypadku uczestnika przetargu będącego osobą fizyczną;
+2) imię i nazwisko, nazwisko panieńskie matki oraz numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) osoby uprawnionej do reprezentowania osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej – w przypadku uczestnika przetargu niebędącego osobą fizyczną;
+3) imię i nazwisko, kod kraju, numer paszportu lub inny dokument tożsamości – w przypadku uczestnika przetargu będącego osobą fizyczną nieposiadającą obywatelstwa polskiego oraz w przypadku osoby nieposiadającej obywatelstwa polskiego uprawnionej do reprezentowania osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+3. Organizator przetargu co najmniej na 3 dni przed podjęciem pierwszej czynności z wykorzystaniem środków komunikacji elektronicznej informuje uczestnika przetargu, że czynności w przetargu ustnym wymagające stawienia się będą podejmowane przy użyciu tych środków, wskazując, w jaki sposób przy użyciu środków komunikacji elektronicznej uczestnik przetargu będzie mógł wziąć w nich udział.
+4. W przypadku odmowy podania albo niedostarczenia przez uczestnika przetargu w terminie wskazanym przez organizatora przetargu danych niezbędnych do identyfikacji uczestnika przetargu organizator przetargu nie dopuszcza tego uczestnika do udziału w przetargu.
+5. W przypadku, o którym mowa w ust. 1, członkowie komisji przetargowej wykonują czynności wymagające ich stawienia się przy użyciu środków komunikacji elektronicznej.
+§ 8. 1. Jeżeli pierwszy przetarg nie został rozstrzygnięty, kolejne przetargi na daną nieruchomość przeprowadza się w terminie do 6 miesięcy od dnia zamknięcia pierwszego przetargu.
+2. W kolejnym przetargu, ogłoszonym w przypadku, o którym mowa w art. 29 ust. 3a ustawy, cena wywoławcza nie może być jednorazowo obniżona więcej niż o 20% ceny wywoławczej pierwszego przetargu, z zastrzeżeniem ust. 3.
+3. Cena wywoławcza w przetargu ogłoszonym bezpośrednio po przetargu ograniczonym albo w kolejnym przetargu ograniczonym do innej kategorii uczestników nie może być niższa niż cena wywoławcza pierwszego przetargu.
 4. Przed rozpoczęciem przetargu organizator przetargu może odstąpić od jego przeprowadzenia bez podania przyczyn.
-§ 9. 1. Organizator przetargu ustala wysokość wadium, które nie może być niższe niż 5% ceny wywoławczej i wyższe niż 20% tej ceny, a przypadku przetargu ograniczonego nie może być niższe niż 5% ceny wywoławczej i wyższe niż 10% tej ceny.
-2. Wadium może być wniesione gotówce, czekach potwierdzonych przez bank lub przelewem bankowym na podany ogłoszeniu przetargu rachunek bankowy organizatora przetargu.
-3. Wadium jest zwracane niezwłocznie po odstąpieniu od przeprowadzenia przetargu lub zamknięciu przetargu, tym także przetargu, który nie został rozstrzygnięty, z zastrzeżeniem ust. 4 oraz art. 29 ust. 3g ustawy.
+§ 9. 1. Organizator przetargu ustala wysokość wadium, które nie może być niższe niż 5% ceny wywoławczej i wyższe niż 20% tej ceny, a w przypadku przetargu ograniczonego nie może być niższe niż 5% ceny wywoławczej i wyższe niż 10% tej ceny.
+2. Wadium może być wniesione w gotówce, czekach potwierdzonych przez bank lub przelewem bankowym na podany w ogłoszeniu o przetargu rachunek bankowy organizatora przetargu.
+3. Wadium jest zwracane niezwłocznie po odstąpieniu od przeprowadzenia przetargu lub zamknięciu przetargu, w tym także przetargu, który nie został rozstrzygnięty, z zastrzeżeniem ust. 4 oraz art. 29 ust. 3g ustawy.
 4. Wadium wniesione przez uczestnika przetargu, który wygrał przetarg, zalicza się na poczet ceny nabycia.
-5. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która nie uczestniczyła przetargu na sprzedaż danej nieruchomości, pomimo że wniosła wadium nie może uczestniczyć kolejnych przetargach na sprzedaż tej nieruchomości.
-§ 10. 1. Osoby, których mowa art. 29 ust. 3f ustawy, zamiast dowodu wniesienia wadium przedstawiają komisji przetargowej oryginał zaświadczenia lub decyzję wydane przez właściwego miejscowo wojewodę, stwierdzające uprawnienie do zaliczenia wartości pozostawionych nieruchomości na poczet ceny sprzedaży.
-2. W przetargach, których mowa § 8, określając warunki zbycia nieruchomości, nie można wyłączyć zapłaty ceny nieruchomości z uwzględnieniem prawa do rekompensaty realizowanego formie, której mowa art. 29 ust. 3f ustawy.
-§ 11. 1. Przetarg przeprowadza powołana przez organizatora przetargu komisja składająca się z 3 do 7 członków, tym przewodniczącego komisji.
+5. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która nie uczestniczyła w przetargu na sprzedaż danej nieruchomości, pomimo że wniosła wadium – nie może uczestniczyć w kolejnych przetargach na sprzedaż tej nieruchomości.
+§ 10. 1. Osoby, o których mowa w art. 29 ust. 3f ustawy, zamiast dowodu wniesienia wadium przedstawiają komisji przetargowej oryginał zaświadczenia lub decyzję wydane przez właściwego miejscowo wojewodę, stwierdzające uprawnienie do zaliczenia wartości pozostawionych nieruchomości na poczet ceny sprzedaży.
+2. W przetargach, o których mowa w § 8, określając warunki zbycia nieruchomości, nie można wyłączyć zapłaty ceny nieruchomości z uwzględnieniem prawa do rekompensaty realizowanego w formie, o której mowa w art. 29 ust. 3f ustawy.
+§ 11. 1. Przetarg przeprowadza powołana przez organizatora przetargu komisja składająca się z 3 do 7 członków, w tym przewodniczącego komisji.
 2. Członkiem komisji nie może być osoba:
-1) która uczestniczy przetargu jako uczestnik przetargu;
+1) która uczestniczy w przetargu jako uczestnik przetargu;
+2) której małżonek, krewny lub powinowaty do drugiego stopnia pokrewieństwa uczestniczy w przetargu jako uczestnik przetargu;
 3) która jest wspólnikiem lub pełnomocnikiem uczestnika przetargu;
 4) która jest pracownikiem uczestnika przetargu albo jest członkiem organu osoby prawnej, będącej uczestnikiem przetargu.
-3. W razie konieczności uzupełnienia składu komisji przewodniczący zawiesza przetarg i informuje uczestników przetargu terminie i miejscu wznowienia przetargu.
-4. Pracami komisji kieruje przewodniczący komisji, który wyznacza protokolanta spośród członków komisji. Komisja przetargowa podejmuje rozstrzygnięcia drodze głosowania zwykłą większością głosów, z tym że przypadku równej liczby głosów decydujący jest głos przewodniczącego komisji.
+3. W razie konieczności uzupełnienia składu komisji przewodniczący zawiesza przetarg i informuje uczestników przetargu o terminie i miejscu wznowienia przetargu.
+4. Pracami komisji kieruje przewodniczący komisji, który wyznacza protokolanta spośród członków komisji. Komisja przetargowa podejmuje rozstrzygnięcia w drodze głosowania zwykłą większością głosów, z tym że w przypadku równej liczby głosów decydujący jest głos przewodniczącego komisji.
 § 12. 1. Z przetargu komisja sporządza protokół niezwłocznie po zakończeniu czynności przetargowych.
 2. Protokół powinien zawierać następujące informacje:
 1) termin, miejsce, tryb i rodzaj przetargu oraz datę sporządzenia protokołu;
-2) oznaczenie nieruchomości będącej przedmiotem przetargu, według ewidencji gruntów i księgi wieczystej, a przypadku jej braku według zbioru dokumentów, jeżeli jest prowadzony dla nieruchomości;
+2) oznaczenie nieruchomości będącej przedmiotem przetargu, według ewidencji gruntów i księgi wieczystej, a w przypadku jej braku – według zbioru dokumentów, jeżeli jest prowadzony dla nieruchomości;
 3) wykaz podmiotów zakwalifikowanych jako uczestnicy przetargu;
-4) przypadku przetargu ustnego przebieg licytacji i najwyższą osiągniętą cenę;
-5) przypadku przetargu ofert informację złożonych ofertach, wniosek wraz z uzasadnieniem sprawie wyboru najkorzystniejszej z nich albo informację niewybraniu żadnej z ofert;
+4) w przypadku przetargu ustnego – przebieg licytacji i najwyższą osiągniętą cenę;
+5) w przypadku przetargu ofert – informację o złożonych ofertach, wniosek wraz z uzasadnieniem w sprawie wyboru najkorzystniejszej z nich albo informację o niewybraniu żadnej z ofert;
 6) imię, nazwisko i adres albo nazwę (firmę) i siedzibę uczestnika przetargu wskazanego przez komisję przetargową na nabywcę nieruchomości;
 7) imiona, nazwiska i podpisy przewodniczącego oraz pozostałych członków komisji.
 3. Datę sporządzenia protokołu uważa się za dzień zamknięcia przetargu.
 § 13. Przetarg uważa się za nierozstrzygnięty, jeżeli:
-1) nikt nie stawił się na przetarg ustny albo nie wpłynęła żadna oferta na przetarg ofert lub nikt nie został zakwalifikowany do uczestnictwa przetargu ograniczonym;
+1) nikt nie stawił się na przetarg ustny albo nie wpłynęła żadna oferta na przetarg ofert lub nikt nie został zakwalifikowany do uczestnictwa w przetargu ograniczonym;
 2) żaden z uczestników przetargu ustnego nie zaoferował postąpienia ponad cenę wywoławczą;
 3) żaden z uczestników przetargu ofert nie zaoferował co najmniej ceny wywoławczej;
 4) komisja odrzuciła wszystkie oferty lub nie wybrała żadnej oferty.
-§ 14. 1. Uczestnik przetargu może wnieść do Dyrektora Generalnego Krajowego Ośrodka zastrzeżenia na czynności przetargowe, za pośrednictwem organizatora przetargu, terminie 7 dni od dnia dokonania tej czynności.
-2. W przypadku wniesienia zastrzeżeń, których mowa ust. 1, organizator przetargu wstrzymuje dalsze czynności związane ze sprzedażą nieruchomości oraz zawiadamia tym na piśmie osobę, która wygrała przetarg.
-3. O sposobie rozpatrzenia zastrzeżeń, których mowa ust. 1, Dyrektor Generalny Krajowego Ośrodka zawiadamia na piśmie organizatora przetargu.
+§ 14. 1. Uczestnik przetargu może wnieść do Dyrektora Generalnego Krajowego Ośrodka zastrzeżenia na czynności przetargowe, za pośrednictwem organizatora przetargu, w terminie 7 dni od dnia dokonania tej czynności.
+2. W przypadku wniesienia zastrzeżeń, o których mowa w ust. 1, organizator przetargu wstrzymuje dalsze czynności związane ze sprzedażą nieruchomości oraz zawiadamia o tym na piśmie osobę, która wygrała przetarg.
+3. O sposobie rozpatrzenia zastrzeżeń, o których mowa w ust. 1, Dyrektor Generalny Krajowego Ośrodka zawiadamia na piśmie organizatora przetargu.
 4. W przypadku uznania zastrzeżeń za zasadne organizator przetargu zawiadamia na piśmie wszystkich uczestników przetargu.
 5. W przypadku uznania zastrzeżeń za niezasadne organizator przetargu zawiadamia na piśmie uczestnika przetargu, który wniósł zastrzeżenia, a także osobę, która wygrała przetarg.
-§ 15. W razie stwierdzenia, że czynności przetargowe zostały dokonane sposób niezgodny z ustawą lub innymi przepisami, których naruszenie miało wpływ na wynik przetargu, Dyrektor Generalny Krajowego Ośrodka unieważnia przetarg.
-§ 16. 1. Przetarg ustny przeprowadza się, jeżeli stawił się chociażby jeden uczestnik przetargu. Przewodniczący komisji rozpoczyna przetarg od stwierdzenia prawidłowości ogłoszenia przetargu, a następnie przekazuje uczestnikom przetargu informacje, których mowa § 7 ust. 4 pkt 1–6, 8 i 10–16, oraz sprawdza, czy wadia zostały wniesione we właściwej wysokości, formie, miejscu oraz terminie określonych ogłoszeniu przetargu.
+§ 15. W razie stwierdzenia, że czynności przetargowe zostały dokonane w sposób niezgodny z ustawą lub innymi przepisami, których naruszenie miało wpływ na wynik przetargu, Dyrektor Generalny Krajowego Ośrodka unieważnia przetarg.
+§ 16. 1. Przetarg ustny przeprowadza się, jeżeli stawił się chociażby jeden uczestnik przetargu. Przewodniczący komisji rozpoczyna przetarg od stwierdzenia prawidłowości ogłoszenia przetargu, a następnie przekazuje uczestnikom przetargu informacje, o których mowa w § 7 ust. 4 pkt 1–6, 8 i 10–16, oraz sprawdza, czy wadia zostały wniesione we właściwej wysokości, formie, miejscu oraz terminie określonych w ogłoszeniu o przetargu.
 2. Przewodniczący komisji wywołuje licytację, ogłaszając cenę wywoławczą, a następnie wzywa uczestników przetargu do zgłaszania postąpień. Jeżeli mimo trzykrotnego ogłoszenia ceny wywoławczej żaden z uczestników przetargu nie zgłosił postąpienia, przewodniczący zamyka przetarg ustny.
-3. Przewodniczący komisji ogłasza kolejne postąpienia zgłaszane ustnie przez uczestników przetargu do chwili, której mimo trzykrotnego ogłoszenia tej samej ceny nie ma dalszego postąpienia.
+3. Przewodniczący komisji ogłasza kolejne postąpienia zgłaszane ustnie przez uczestników przetargu do chwili, w której mimo trzykrotnego ogłoszenia tej samej ceny nie ma dalszego postąpienia.
 4. Po ustaniu postąpień przewodniczący komisji informuje uczestników przetargu, że po trzecim wywołaniu najwyższej zaoferowanej ceny dalsze postąpienia nie zostaną przyjęte, po czym wywołuje trzykrotnie ostatnią najwyższą cenę i zamyka licytację. Przetarg ustny wygrywa uczestnik przetargu, który zgłosił najwyższą cenę. Przewodniczący komisji ogłasza imię i nazwisko albo nazwę (firmę) uczestnika przetargu, który wygrał przetarg ustny.
-§ 17. 1. Przetarg ustny ograniczony przeprowadza się, jeżeli ogłoszeniu przetargu zostanie zastrzeżone, że mogą nim uczestniczyć wszystkie albo niektóre podmioty, których mowa art. 29 ust. 3b ustawy.
+§ 17. 1. Przetarg ustny ograniczony przeprowadza się, jeżeli w ogłoszeniu o przetargu zostanie zastrzeżone, że mogą w nim uczestniczyć wszystkie albo niektóre podmioty, o których mowa w art. 29 ust. 3b ustawy.
 2. Do przetargu ustnego ograniczonego stosuje się odpowiednio przepisy § 7–16, z tym że:
-1) ogłoszeniu przetargu podaje się warunki zakwalifikowania do uczestnictwa przetargu;
-2) podmioty zamierzające uczestniczyć przetargu powinny złożyć miejscu wskazanym przez organizatora przetargu dokumenty potwierdzające spełnienie warunków podanych ogłoszeniu przetargu, nie później niż na 14 dni przed wyznaczonym terminem przetargu;
-3) komisja sprawdza dokumenty, których mowa pkt 2, kwalifikuje do uczestnictwa przetargu podmioty spełniające warunki podane ogłoszeniu przetargu, a następnie, nie później niż na 12 dni przed wyznaczonym terminem przetargu, wywiesza, miejscu podanym ogłoszeniu przetargu, listę podmiotów zakwalifikowanych do uczestnictwa przetargu lub listę podmiotów, które nie złożyły terminie wszystkich wymaganych dokumentów, podając odrębnie dla każdego podmiotu wykaz brakujących dokumentów oraz wyznaczając termin do ich złożenia przypadający nie później niż na 7 dni przed wyznaczonym terminem przetargu;
-4) komisja po upływie wyznaczonego terminu do złożenia brakujących dokumentów, których mowa pkt 3, ponownie je sprawdza i dodatkowo kwalifikuje do uczestnictwa przetargu podmioty spełniające warunki podane ogłoszeniu przetargu, a następnie, nie później niż na 2 dni robocze przed wyznaczonym terminem przetargu, wywiesza, miejscu podanym ogłoszeniu przetargu, listę podmiotów ostatecznie zakwalifikowanych do uczestnictwa przetargu;
-5) przetarg może się odbyć, przypadku gdy zakwalifikowano do przetargu przynajmniej jeden podmiot spełniający warunki podane ogłoszeniu przetargu.
-§ 18. Przetarg ofert przeprowadza się także przypadku, gdy wpłynęła tylko jedna oferta spełniająca warunki określone ogłoszeniu przetargu. Komisja może dopuścić jawność wykonywania czynności, z wyjątkiem czynności określonej § 22 ust. 1.
+1) w ogłoszeniu o przetargu podaje się warunki zakwalifikowania do uczestnictwa w przetargu;
+2) podmioty zamierzające uczestniczyć w przetargu powinny złożyć w miejscu wskazanym przez organizatora przetargu dokumenty potwierdzające spełnienie warunków podanych w ogłoszeniu o przetargu, nie później niż na 14 dni przed wyznaczonym terminem przetargu;
+3) komisja sprawdza dokumenty, o których mowa w pkt 2, kwalifikuje do uczestnictwa w przetargu podmioty spełniające warunki podane w ogłoszeniu o przetargu, a następnie, nie później niż na 12 dni przed wyznaczonym terminem przetargu, wywiesza, w miejscu podanym w ogłoszeniu o przetargu, listę podmiotów zakwalifikowanych do uczestnictwa w przetargu lub listę podmiotów, które nie złożyły w terminie wszystkich wymaganych dokumentów, podając odrębnie dla każdego podmiotu wykaz brakujących dokumentów oraz wyznaczając termin do ich złożenia przypadający nie później niż na 7 dni przed wyznaczonym terminem przetargu;
+4) komisja po upływie wyznaczonego terminu do złożenia brakujących dokumentów, o których mowa w pkt 3, ponownie je sprawdza i dodatkowo kwalifikuje do uczestnictwa w przetargu podmioty spełniające warunki podane w ogłoszeniu o przetargu, a następnie, nie później niż na 2 dni robocze przed wyznaczonym terminem przetargu, wywiesza, w miejscu podanym w ogłoszeniu o przetargu, listę podmiotów ostatecznie zakwalifikowanych do uczestnictwa w przetargu;
+5) przetarg może się odbyć, w przypadku gdy zakwalifikowano do przetargu przynajmniej jeden podmiot spełniający warunki podane w ogłoszeniu o przetargu.
+§ 18. Przetarg ofert przeprowadza się także w przypadku, gdy wpłynęła tylko jedna oferta spełniająca warunki określone w ogłoszeniu o przetargu. Komisja może dopuścić jawność wykonywania czynności, z wyjątkiem czynności określonej w § 22 ust. 1.
 § 19. 1. Oferta pisemna powinna zawierać:
 1) imię, nazwisko i adres albo nazwę (firmę), siedzibę i adres uczestnika przetargu ofert;
-2) oferowaną cenę i warunki jej zapłaty, a przypadku ubiegania się rozłożenie ceny sprzedaży na raty dodatkowo określenie sposobu zabezpieczenia ceny pozostałej do zapłaty;
-3) przypadku nieruchomości rolnej oświadczenie uczestnika przetargu ofert powierzchni użytków rolnych będących jego własnością;
+2) oferowaną cenę i warunki jej zapłaty, a w przypadku ubiegania się o rozłożenie ceny sprzedaży na raty – dodatkowo określenie sposobu zabezpieczenia ceny pozostałej do zapłaty;
+3) w przypadku nieruchomości rolnej – oświadczenie uczestnika przetargu ofert o powierzchni użytków rolnych będących jego własnością;
 4) oświadczenie uczestnika przetargu ofert, że zapoznał się z przedmiotem przetargu;
-5) przypadku nieruchomości wpisanej do rejestru zabytków oświadczenie zapoznaniu się z warunkami obniżenia ceny sprzedaży tej nieruchomości, których mowa § 25;
-6) przypadku sprzedaży nieruchomości wraz z przynależnościami warunki ich wykupu;
-7) inne dane wymagane przez organizatora przetargu, określone ogłoszeniu przetargu.
-2. Ofertę wraz z wymaganymi dokumentami oraz dowodem wniesienia wadium składa się zaklejonej kopercie miejscu i terminie określonych ogłoszeniu przetargu.
+5) w przypadku nieruchomości wpisanej do rejestru zabytków – oświadczenie o zapoznaniu się z warunkami obniżenia ceny sprzedaży tej nieruchomości, o których mowa w § 25;
+6) w przypadku sprzedaży nieruchomości wraz z przynależnościami – warunki ich wykupu;
+7) inne dane wymagane przez organizatora przetargu, określone w ogłoszeniu o przetargu.
+2. Ofertę wraz z wymaganymi dokumentami oraz dowodem wniesienia wadium składa się w zaklejonej kopercie w miejscu i terminie określonych w ogłoszeniu o przetargu.
 § 20. Rozpoczynając przetarg, komisja przetargowa:
 1) stwierdza prawidłowość ogłoszenia przetargu;
 2) ustala liczbę złożonych ofert oraz sprawdza, czy wadia zostały wniesione we wskazanych terminie, miejscu i formie;
+3) otwiera koperty z ofertami złożone w terminie i miejscu wskazanych w ogłoszeniu o przetargu.
 § 21. 1. Komisja przetargowa odrzuca ofertę, jeżeli:
-1) została złożona po wyznaczonym terminie, niewłaściwym miejscu lub przez uczestnika przetargu, który nie wniósł wadium, z zastrzeżeniem § 10;
-2) nie zawiera danych, których mowa § 19 ust. 1, lub dane te są niekompletne, nieczytelne lub budzą wątpliwości co do ich treści, zaś złożenie wyjaśnień mogłoby prowadzić do uznania jej za nową ofertę;
+1) została złożona po wyznaczonym terminie, w niewłaściwym miejscu lub przez uczestnika przetargu, który nie wniósł wadium, z zastrzeżeniem § 10;
+2) nie zawiera danych, o których mowa w § 19 ust. 1, lub dane te są niekompletne, nieczytelne lub budzą wątpliwości co do ich treści, zaś złożenie wyjaśnień mogłoby prowadzić do uznania jej za nową ofertę;
 3) uczestnik przetargu nie zaoferował co najmniej ceny wywoławczej.
 2. O odrzuceniu oferty organizator przetargu zawiadamia niezwłocznie uczestnika przetargu na piśmie wraz z uzasadnieniem.
-§ 22. 1. Oferty, które nie zostały odrzucone, komisja przetargowa ocenia, biorąc pod uwagę zaoferowaną cenę oraz inne kryteria wpływające na wybór najkorzystniejszej oferty, ustalone ogłoszeniu przetargu.
-2. Komisja przetargowa przypadku stwierdzenia niejasności ofercie wzywa na piśmie uczestnika przetargu do złożenia dodatkowych wyjaśnień, wyznaczając mu termin do ich złożenia nie dłuższy niż 7 dni od otrzymania wezwania.
-Komisja przetargowa może uwzględnić wyjaśnienia złożone wyznaczonym terminie, jeżeli nie prowadzą one do zmiany oferowanej ceny i warunków jej zapłaty, warunków wykupu przynależności oraz deklarowanego poziomu zatrudnienia pracowników.
-3. Po dokonaniu oceny komisja zamieszcza protokole przetargu wniosek sprawie wyboru najkorzystniejszej oferty wraz z uzasadnieniem lub stwierdza, że nie wybrano żadnej z ofert.
+§ 22. 1. Oferty, które nie zostały odrzucone, komisja przetargowa ocenia, biorąc pod uwagę zaoferowaną cenę oraz inne kryteria wpływające na wybór najkorzystniejszej oferty, ustalone w ogłoszeniu o przetargu.
+2. Komisja przetargowa w przypadku stwierdzenia niejasności w ofercie wzywa na piśmie uczestnika przetargu do złożenia dodatkowych wyjaśnień, wyznaczając mu termin do ich złożenia nie dłuższy niż 7 dni od otrzymania wezwania.
+Komisja przetargowa może uwzględnić wyjaśnienia złożone w wyznaczonym terminie, jeżeli nie prowadzą one do zmiany oferowanej ceny i warunków jej zapłaty, warunków wykupu przynależności oraz deklarowanego poziomu zatrudnienia pracowników.
+3. Po dokonaniu oceny komisja zamieszcza w protokole przetargu wniosek w sprawie wyboru najkorzystniejszej oferty wraz z uzasadnieniem lub stwierdza, że nie wybrano żadnej z ofert.
 4. Jeżeli ze względu na równorzędność ofert wybór jest utrudniony, komisja przetargowa przeprowadza dodatkowy przetarg ustny, który jest ograniczony do uczestników przetargu, którzy złożyli te oferty. Przepisy § 16 stosuje się odpowiednio.
-5. W przypadku dodatkowego przetargu, którym mowa ust. 4, komisja przetargowa zawiadamia uczestników przetargu, którzy złożyli równorzędne oferty, terminie i miejscu tego przetargu.
-§ 23. 1. Wniosek komisji przetargowej sprawie wyboru najkorzystniejszej oferty podlega zatwierdzeniu przez organizatora przetargu przez dokonanie stosownej adnotacji na protokole, terminie 14 dni od dnia jego sporządzenia.
+5. W przypadku dodatkowego przetargu, o którym mowa w ust. 4, komisja przetargowa zawiadamia uczestników przetargu, którzy złożyli równorzędne oferty, o terminie i miejscu tego przetargu.
+§ 23. 1. Wniosek komisji przetargowej w sprawie wyboru najkorzystniejszej oferty podlega zatwierdzeniu przez organizatora przetargu przez dokonanie stosownej adnotacji na protokole, w terminie 14 dni od dnia jego sporządzenia.
 W przypadku niezatwierdzenia wniosku organizator przetargu niezwłocznie zwraca wadium.
 2. O wyniku przetargu jego organizator niezwłocznie zawiadamia na piśmie uczestników przetargu.
-§ 24. 1. Przetarg ofert ograniczony przeprowadza się, jeżeli ogłoszeniu przetargu zostanie zastrzeżone, że mogą nim uczestniczyć wszystkie albo niektóre podmioty, których mowa art. 29 ust. 3b ustawy.
+§ 24. 1. Przetarg ofert ograniczony przeprowadza się, jeżeli w ogłoszeniu o przetargu zostanie zastrzeżone, że mogą w nim uczestniczyć wszystkie albo niektóre podmioty, o których mowa w art. 29 ust. 3b ustawy.
 2. Do przetargu ofert ograniczonego stosuje się odpowiednio przepisy § 16–23.
-§ 25. 1. Cenę sprzedaży nieruchomości wpisanej do rejestru zabytków obniża się, jeżeli nabywca oprócz złożenia zobowiązania określonego umowie sprzedaży nieruchomości, którym mowa art. 30 ust. 4 ustawy:
-1) zobowiąże się do przedłożenia najpóźniej terminie 14 dni po upływie terminu wyznaczonego umowie sprzedaży na dokonanie nakładów na tej nieruchomości:
-a) dokumentów określających zakres rzeczowy i wartość poniesionych nakładów na realizację zaleceń organów ochrony zabytków wysokości nie niższej niż kwota wynikająca z tej obniżki,
-b) zaświadczenia wojewódzkiego konserwatora zabytków, że zakres rzeczowy nakładów wykonany został przez nabywcę ramach realizacji zaleceń organów ochrony zabytków dotyczącej nabytej nieruchomości zabytkowej;
-2) przedłoży na rzecz Krajowego Ośrodka zabezpieczenie ewentualnego roszczenia zwrot kwoty obniżenia, przy czym suma zabezpieczenia nie może być niższa od kwoty obniżenia.
-2. Nabywca nieruchomości zależności od formy zabezpieczenia, którym mowa ust. 1 pkt 2, składa odpowiednio:
-1) oświadczenie zobowiązaniu się do ustanowienia hipoteki na nieruchomości stanowiącej zabezpieczenie należności, a po dokonaniu wpisu hipoteki odpis księgi wieczystej potwierdzający ustanowienie hipoteki na nieruchomości stanowiącej zabezpieczenie należności, a przypadku nieruchomości zabudowanych również umowę ubezpieczenia budynków od ognia i innych zdarzeń losowych oraz umowę cesji praw z polisy ubezpieczeniowej, odnawianej każdego roku;
+§ 25. 1. Cenę sprzedaży nieruchomości wpisanej do rejestru zabytków obniża się, jeżeli nabywca oprócz złożenia zobowiązania określonego w umowie sprzedaży nieruchomości, o którym mowa w art. 30 ust. 4 ustawy:
+1) zobowiąże się do przedłożenia najpóźniej w terminie 14 dni po upływie terminu wyznaczonego w umowie sprzedaży na dokonanie nakładów na tej nieruchomości:
+a) dokumentów określających zakres rzeczowy i wartość poniesionych nakładów na realizację zaleceń organów ochrony zabytków w wysokości nie niższej niż kwota wynikająca z tej obniżki,
+b) zaświadczenia wojewódzkiego konserwatora zabytków, że zakres rzeczowy nakładów wykonany został przez nabywcę w ramach realizacji zaleceń organów ochrony zabytków dotyczącej nabytej nieruchomości zabytkowej;
+2) przedłoży na rzecz Krajowego Ośrodka zabezpieczenie ewentualnego roszczenia o zwrot kwoty obniżenia, przy czym suma zabezpieczenia nie może być niższa od kwoty obniżenia.
+2. Nabywca nieruchomości w zależności od formy zabezpieczenia, o którym mowa w ust. 1 pkt 2, składa odpowiednio:
+1) oświadczenie o zobowiązaniu się do ustanowienia hipoteki na nieruchomości stanowiącej zabezpieczenie należności, a po dokonaniu wpisu hipoteki odpis księgi wieczystej potwierdzający ustanowienie hipoteki na nieruchomości stanowiącej zabezpieczenie należności, a w przypadku nieruchomości zabudowanych – również umowę ubezpieczenia budynków od ognia i innych zdarzeń losowych oraz umowę cesji praw z polisy ubezpieczeniowej, odnawianej każdego roku;
 2) umowę gwarancji bankowej nieodwołalnej i bezwarunkowej lub promesę banku udzielenia takiej gwarancji;
-3) umowę poręczenia oraz dokumenty dotyczące sytuacji finansowej poręczyciela, przy czym gdy poręczycielem jest
+3) umowę poręczenia oraz dokumenty dotyczące sytuacji finansowej poręczyciela, przy czym gdy poręczycielem jest osoba fizyczna – dodatkowo zgodę małżonka na udzielenie poręczenia w przypadku braku rozdzielności majątkowej;
 4) weksel własny in blanco wraz z deklaracją wekslową;
-5) weksel własny poręczony wraz z deklaracją wekslową, przy czym gdy poręczycielem jest osoba fizyczna dodatkowo zgodę małżonka na udzielenie poręczenia przypadku braku rozdzielności majątkowej;
-6) umowę przewłaszczenia na zabezpieczenie oraz polisę ubezpieczeniową przewłaszczanego majątku wraz z cesją praw z niej wynikających, odnawianą każdego roku, a przypadku braku polisy ubezpieczeniowej wycenę przewłaszczanego majątku dokonaną przez rzeczoznawcę majątkowego lub ubezpieczyciela, przy czym gdy przewłaszczającym jest osoba fizyczna dodatkowo zgodę małżonka na przewłaszczenie przypadku braku rozdzielności majątkowej;
-7) umowę zastawu rejestrowego, a po dokonaniu wpisu zastawu do rejestru zastawów odpis z rejestru zastawów;
-8) zaświadczenie blokadzie środków pieniężnych na rachunku bankowym oraz upoważnienie dla Krajowego Ośrodka do dysponowania zablokowaną kwotą środków pieniężnych;
+5) weksel własny poręczony wraz z deklaracją wekslową, przy czym gdy poręczycielem jest osoba fizyczna – dodatkowo zgodę małżonka na udzielenie poręczenia w przypadku braku rozdzielności majątkowej;
+6) umowę przewłaszczenia na zabezpieczenie oraz polisę ubezpieczeniową przewłaszczanego majątku wraz z cesją praw z niej wynikających, odnawianą każdego roku, a w przypadku braku polisy ubezpieczeniowej – wycenę przewłaszczanego majątku dokonaną przez rzeczoznawcę majątkowego lub ubezpieczyciela, przy czym gdy przewłaszczającym jest osoba fizyczna – dodatkowo zgodę małżonka na przewłaszczenie w przypadku braku rozdzielności majątkowej;
+7) umowę zastawu rejestrowego, a po dokonaniu wpisu zastawu do rejestru zastawów – odpis z rejestru zastawów;
+8) zaświadczenie o blokadzie środków pieniężnych na rachunku bankowym oraz upoważnienie dla Krajowego Ośrodka do dysponowania zablokowaną kwotą środków pieniężnych;
 9) pełnomocnictwo do dysponowania rachunkiem bankowym;
 10) umowę ustanowienia kaucji;
-11) umowę przelew wierzytelności;
-12) umowę przystąpieniu do długu oraz dokumenty dotyczące sytuacji finansowej osoby przystępującej do długu, przy czym gdy osobą przystępującą do długu jest osoba fizyczna dodatkowo zgodę małżonka na przystąpienie do długu przypadku braku rozdzielności majątkowej.
-§ 26. 1. Stawkę szacunkową użytku rolnego, z zastrzeżeniem ust. 2–4, ustala się, uwzględniając rodzaj i klasę gruntu, określone ewidencji gruntów, oraz okręg podatkowy według przepisów podatku rolnym następujący sposób:
-1) dla gruntu ornego: Okręg Wyrażone dt żyta stawki szacunkowe dla 1 ha gruntu ornego klasy: podatkowy I II IIIa IIIb IVa IVb V VI VIz I 145 132 118 100 80 60 35 15 8 II 126 115 103 86 70 52 30 12 5 III 110 100 90 75 60 45 25 10 1 IV 94 85 76 64 50 38 20 6 1
-2) dla łąk trwałych i pastwisk trwałych: Okręg Wyrażone dt żyta stawki szacunkowe dla 1 ha łąk trwałych i pastwisk trwałych klasy: podatkowy I II III IV V VI VIz I 145 118 93 67 35 13 5 II 126 103 80 58 30 10 3 III 110 90 70 50 25 8 1 IV 94 76 60 43 20 5 1
+11) umowę o przelew wierzytelności;
+12) umowę o przystąpieniu do długu oraz dokumenty dotyczące sytuacji finansowej osoby przystępującej do długu, przy czym gdy osobą przystępującą do długu jest osoba fizyczna – dodatkowo zgodę małżonka na przystąpienie do długu w przypadku braku rozdzielności majątkowej.
+§ 26. 1. Stawkę szacunkową użytku rolnego, z zastrzeżeniem ust. 2–4, ustala się, uwzględniając rodzaj i klasę gruntu, określone w ewidencji gruntów, oraz okręg podatkowy według przepisów o podatku rolnym w następujący sposób:
+1) dla gruntu ornego: Okręg Wyrażone w dt żyta stawki szacunkowe dla 1 ha gruntu ornego klasy: podatkowy I II IIIa IIIb IVa IVb V VI VIz I 145 132 118 100 80 60 35 15 8 II 126 115 103 86 70 52 30 12 5 III 110 100 90 75 60 45 25 10 1 IV 94 85 76 64 50 38 20 6 1
+2) dla łąk trwałych i pastwisk trwałych: Okręg Wyrażone w dt żyta stawki szacunkowe dla 1 ha łąk trwałych i pastwisk trwałych klasy: podatkowy I II III IV V VI VIz I 145 118 93 67 35 13 5 II 126 103 80 58 30 10 3 III 110 90 70 50 25 8 1 IV 94 76 60 43 20 5 1
 2. Stawkę szacunkową gruntu pod stawami ustala się według stawki gruntu ornego albo łąk trwałych i pastwisk trwałych pod tymi stawami. W razie braku klasyfikacji stawkę szacunkową gruntu pod stawami ustala się według stawki łąk trwałych i pastwisk trwałych klasy I.
 3. Stawkę szacunkową gruntu pod rowami ustala się, przyjmując 50% stawki łąk trwałych i pastwisk trwałych klasy VI.
-4. Stawkę szacunkową pozostałych użytków rolnych nieokreślonych ust. 1–3 ustala się, przyjmując odpowiednio stawki gruntu ornego klasie przyjętej dla tych gruntów, z tym że dla klasy III i IV stosuje się odpowiednio stawki gruntu ornego dla klasy IIIa i IVa. W razie braku klasyfikacji stawkę szacunkową ustala się wysokości stawki gruntu ornego klasy VI.
-5. Szacunkową stawkę gruntu określonego ewidencji gruntów jako:
-1) grunty leśne oraz zadrzewione i zakrzewione ustala się, przyjmując 50% stawki gruntu ornego klasie przyjętej dla tych gruntów, z tym że dla klasy III i IV stosuje się odpowiednio stawki gruntu ornego dla klasy IIIb i IVb; razie braku klasyfikacji ustala się wysokości stawki gruntu ornego klasy VI;
-2) drogi ustala się według stawki gruntu ornego albo łąk trwałych i pastwisk trwałych pod tymi drogami; razie braku klasyfikacji, dla dróg stanowiących drogi dojazdowe do gruntów rolnych i leśnych ustala się według stawki łąk
-3) użytki ekologiczne ustala się według stawki odpowiedniego użytku gruntowego;
-4) nieużytki, grunty pod wodami powierzchniowymi lub tereny różne ustala się, przyjmując 50% stawki łąk trwałych i pastwisk trwałych klasy VI.
-§ 27. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+4. Stawkę szacunkową pozostałych użytków rolnych nieokreślonych w ust. 1–3 ustala się, przyjmując odpowiednio stawki gruntu ornego w klasie przyjętej dla tych gruntów, z tym że dla klasy III i IV stosuje się odpowiednio stawki gruntu ornego dla klasy IIIa i IVa. W razie braku klasyfikacji stawkę szacunkową ustala się w wysokości stawki gruntu ornego klasy VI.
+5. Szacunkową stawkę gruntu określonego w ewidencji gruntów jako:
+1) grunty leśne oraz zadrzewione i zakrzewione – ustala się, przyjmując 50% stawki gruntu ornego w klasie przyjętej dla tych gruntów, z tym że dla klasy III i IV stosuje się odpowiednio stawki gruntu ornego dla klasy IIIb i IVb; w razie braku klasyfikacji – ustala się w wysokości stawki gruntu ornego klasy VI;
+2) drogi – ustala się według stawki gruntu ornego albo łąk trwałych i pastwisk trwałych pod tymi drogami; w razie braku klasyfikacji, dla dróg stanowiących drogi dojazdowe do gruntów rolnych i leśnych – ustala się według stawki łąk trwałych i pastwisk trwałych klasy VI;
+3) użytki ekologiczne – ustala się według stawki odpowiedniego użytku gruntowego;
+4) nieużytki, grunty pod wodami powierzchniowymi lub tereny różne – ustala się, przyjmując 50% stawki łąk trwałych i pastwisk trwałych klasy VI.
+§ 27. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

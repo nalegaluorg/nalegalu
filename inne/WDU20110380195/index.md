@@ -8,7 +8,7 @@ pos: 195
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o broni i amunicji oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
@@ -28,6 +28,115 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110380195) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/195/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 ust. 3 otrzymuje brzmienie: „3. W rozumieniu ustawy amunicją są naboje przeznaczone do strzelania z broni palnej.”;
+- **2)** w art. 5 ust. 2 otrzymuje brzmienie: „2. Istotnymi częściami broni palnej i pneumatycznej są: szkielet broni, baskila, lufa z komorą nabojową, zamek, komora zamkowa oraz bęben nabojowy.”;
+- **3)** w art. 7:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W rozumieniu ustawy bronią palną jest każda przenośna broń lufowa, która miota, jest przeznaczona do miotania lub może być przystosowana do miotania jednego lub większej liczby pocisków lub substancji w wyniku działania materiału miotającego.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W rozumieniu ustawy za dający się przystosować do miotania jednego lub większej liczby pocisków lub substancji w wyniku działania materiału miotającego uznaje się przedmiot, który ze względu na swoją budowę lub materiał, z którego jest wykonany, może być łatwo przerobiony w celu miotania.”;
+
+- **4)** po art. 7 dodaje się art. 7a w brzmieniu: „Art. 7a. W rozumieniu ustawy Europejska karta broni palnej jest imiennym dokumentem potwierdzającym uprawnienie do posiadania broni palnej, wydanym przez właściwy organ państwa członkowskiego Unii Europejskiej, umożliwiającym legalne posiadanie i używanie broni palnej w innym państwie członkowskim Unii Europejskiej.”;
+- **5)** w art. 9 ust. 7 otrzymuje brzmienie: „7. Pozwolenie na broń palną bojową wydane w celach, o których mowa w art. 10 ust. 2 pkt 1 i 2, stanowi jednocześnie pozwolenie na broń gazową i alarmową.”;
+- **6)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Właściwy organ Policji wydaje pozwolenie na broń, jeżeli wnioskodawca nie stanowi zagrożenia dla samego siebie, porządku lub bezpieczeństwa publicznego oraz przedstawi ważną przyczynę posiadania broni.
+
+2. Pozwolenie na broń wydaje się w szczególności w celach:
+
+- **1)** ochrony osobistej;
+- **2)** ochrony osób i mienia;
+- **3)** łowieckich;
+- **4)** sportowych;
+- **5)** rekonstrukcji historycznych;
+- **6)** kolekcjonerskich;
+- **7)** pamiątkowych;
+- **8)** szkoleniowych.
+
+3. Za ważną przyczynę, o której mowa w ust. 1, uważa się w szczególności:
+
+- **1)** stałe, realne i ponadprzeciętne zagrożenie życia, zdrowia lub mienia – dla pozwolenia na broń do celów ochrony osobistej, osób i mienia;
+- **2)** posiadanie uprawnień do wykonywania polowania, ustalonych na podstawie odrębnych przepisów – dla pozwolenia na broń do celów łowieckich;
+- **3)** udokumentowane członkostwo w stowarzyszeniu o charakterze strzeleckim, posiadanie kwalifikacji sportowych, o których mowa w art. 10b, oraz licencji właściwego polskiego związku sportowego – dla pozwolenia na broń do celów sportowych;
+- **4)** udokumentowane członkostwo w stowarzyszeniu, którego statutowym celem jest organizowanie rekonstrukcji historycznych oraz zaświadczenie potwierdzające czynny udział w działalności statutowej – dla pozwolenia na broń do celów rekonstrukcji historycznych;
+- **5)** udokumentowane członkowstwo w stowarzyszeniu o charakterze kolekcjonerskim – dla pozwolenia na broń do celów kolekcjonerskich;
+- **6)** udokumentowane nabycie broni w drodze spadku, darowizny lub wyróżnienia – dla pozwolenia na broń do celów pamiątkowych;
+- **7)** posiadanie uprawnień, określonych w odrębnych przepisach do prowadzenia szkoleń o charakterze strzeleckim oraz udokumentowane zarejestrowanie działalności gospodarczej w zakresie szkoleń strzeleckich – dla pozwolenia na broń do celów szkoleniowych.
+
+4. Pozwolenie na broń, wydane w celach, o których mowa w ust. 2, uprawnia do posiadania następujących rodzajów broni i amunicji do niej:
+
+- **1)** do celów ochrony osobistej:
+    - **a)** broni palnej: bojowej, gazowej, alarmowej w postaci pistoletów lub rewolwerów centralnego zapłonu o kalibrach od 6 mm do 12 mm,
+    - **b)** przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej o średniej wartości prądu w obwodzie przekraczającej 10 mA,
+    - **c)** miotaczy gazu obezwładniającego;
+
+- **2)** do celów ochrony osób lub mienia:
+    - **a)** broni, o której mowa w pkt 1,
+    - **b)** pistoletów sygnałowych ,
+    - **c)** pistoletów maszynowych o kalibrze od 6 mm do 12 mm,
+    - **d)** strzelb powtarzalnych o kalibrze wagomiarowym 12,
+    - **e)** karabinków samoczynnych o kalibrze od 5,45 mm do 7,62mm;
+
+- **3)** do celów łowieckich – broni dopuszczonej do wykonywania polowań na podstawie odrębnych przepisów;
+- **4)** do celów sportowych – broni palnej:
+    - **a)** bocznego zapłonu z lufami gwintowanymi, o kalibrze do 6 mm,
+    - **b)** centralnego zapłonu z lufami gwintowanymi, o kalibrze do 12 mm,
+    - **c)** gładkolufowej,
+    - **d)** przystosowanej do strzelania wyłącznie przy pomocy prochu czarnego (dymnego);
+
+- **5)** do celów szkoleniowych – broni, o której mowa w pkt 1–4;
+- **6)** do celów rekonstrukcji historycznych – broni alarmowej albo innej broni palnej, konstrukcyjnie przeznaczonej do strzelania wyłącznie amunicją ślepą, w tym samoczynnej;
+- **7)** do celów kolekcjonerskich lub pamiątkowych – broni, o której mowa w pkt 1–6.
+
+5. Pozwolenie na broń, o którym mowa w ust. 1, nie może być wydane, z zastrzeżeniem art. 29 ust. 2, na broń szczególnie niebezpieczną w postaci:
+
+- **1)** samoczynnej broni palnej, zdolnej do rażenia celów na odległość;
+- **2)** broni palnej wytworzonej lub przerobionej w sposób pozwalający na zatajenie jej przeznaczenia, a także broni imitującej inne przedmioty;
+- **3)** broni palnej wyposażonej w tłumik huku lub przystosowanej do strzelania z użyciem tłumika huku;
+- **4)** broni palnej, której nie można wykryć przy pomocy urządzeń przeznaczonych do kontroli osób i bagażu.
+
+6. Zabronione jest posiadanie amunicji szczególnie niebezpiecznej w postaci:
+
+- **1)** amunicji z pociskami wypełnionymi materiałami wybuchowymi, zapalającymi albo innymi substancjami, których działanie zagraża życiu lub zdrowiu oraz pocisków do takiej amunicji;
+- **2)** amunicji z pociskami pełnopłaszczowymi zawierającymi rdzeń wykonany z materiału twardszego niż stop ołowiu;
+- **3)** amunicji z pociskami podkalibrowymi, z płaszczem lub elementem wiodącym wykonanym z tworzyw sztucznych, z wyłączeniem amunicji przeznaczonej do strzelania z broni gładkolufowej;
+- **4)** amunicji wytworzonej niefabrycznie, w tym także takiej, do której wytworzenia wykorzystywane są fabrycznie nowe elementy amunicji, z wyłączeniem amunicji wytwarzanej na własny użytek przez osoby posiadające pozwolenie na broń myśliwską, sportową lub kolekcjonerską.
+
+7. Właściwy organ Policji może w pozwoleniu na broń ograniczyć lub wykluczyć możliwość jej noszenia , co potwierdza się w legitymacji posiadacza broni.
+
+8. Zabrania się noszenia broni posiadanej na podstawie pozwolenia do celów kolekcjonerskich lub pamiątkowych bez zgody właściwego organu Policji.
+
+9. W rozumieniu ustawy noszenie broni oznacza każdy sposób przemieszczania załadowanej broni przez osobę posiadającą broń.”;
+
+- **7)** w art. 10a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Na wniosek osoby posiadającej broń palną zgodnie z wymogami prawa polskiego lub podmiotów, o których mowa w art. 29 ust. 1 pkt 4, 5 i 7, osobom wskazanym przez te podmioty oraz posiadającym dopuszczenie do posiadania broni właściwy organ Policji wydaje Europejską kartę broni palnej.”,
+    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. Europejska karta broni palnej traci ważność i podlega zwrotowi organowi, który ją wydał, w przypadku cofnięcia pozwolenia na broń lub cofnięcia dopuszczenia do posiadania tego rodzaju broni.
+
+5. W Europejskiej karcie broni palnej zamieszcza się informacje o:
+
+- **1)** tożsamości osoby:
+    - **a)** posiadającej broń palną, w tym: – nazwisko i imię, – datę i miejsce urodzenia, – adres miejsca stałego pobytu,
+    - **b)** dopuszczonej do posiadania broni, w tym: – nazwisko i imię, – datę i miejsce urodzenia, – nazwę, siedzibę i adres podmiotu, o którym mowa w art. 29 ust. 1 pkt 4, 5 i 7;
+
+- **2)** danych identyfikacyjnych broni palnej wraz ze wskazaniem kategorii broni palnej, określonej w przepisach wydanych na podstawie ust. 8 pkt 1;
+- **3)** okresie ważności Europejskiej karty broni palnej;
+- **4)** celu lub warunkach pozwolenia, o których mowa w art. 10 ust. 2 i 4;
+- **5)** utracie lub zbyciu broni palnej;
+- **6)** państwach członkowskich Unii Europejskiej, na których terytorium posiadanie broni palnej, określone w Europejskiej karcie broni palnej, jest zakazane albo możliwe na podstawie pozwolenia;
+- **7)** wpisach innych państw członkowskich Unii Europejskiej obejmujących w szczególności pozwolenia na wwóz broni na ich terytorium;
+- **8)** oświadczeniach, o których mowa w załączniku II lit. f dyrektywy Rady nr 91/477/EWG z dnia 18 czerwca 1991 r. w sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 256 z
+
+13. 09.1991, str. 51; Dz. U. UE Polskie wydanie specjalne, rozdz. 13, t. 11, str. 3), w brzmieniu nadanym dyrektywą Parlamentu Europejskiego i Rady nr 2008/51/WE z dnia 21 maja 2008 r. (Dz. Urz. UE L 179 z 8.07.2008, str. 5).”;
+
+- **8)** art. 11 i 12 otrzymują brzmienie: „Art. 11. Pozwolenia na broń nie wymaga się w przypadku:
+- **1)** gromadzenia broni w zbiorach muzealnych na podstawie odrębnych przepisów;
+- **2)** używania broni w celach sportowych, szkoleniowych lub rekreacyjnych na strzelnicy działającej na podstawie zezwolenia właściwego organu;
+- **3)** używania broni palnej sygnałowej i alarmowej do celów wzywania pomocy, ratowniczych, poszukiwawczych oraz przez osoby uprawnione do sygnalizacji zawodnikom rozpoczęcia konkurencji sportowej w trakcie zawodów sportowych, jeżeli wymaga ona takiej sygnalizacji;
+- **4)** dysponowania bronią przez przedsiębiorców dokonujących obrotu bronią i amunicją na podstawie koncesji lub świadczących usługi rusznikarskie na podstawie odrębnych przepisów, o ile jest to związane bezpośrednio z prowadzeniem działalności gospodarczej;
+- **5)** dysponowania bronią przekazaną w celu pozbawienia lub potwierdzenia pozbawienia cech użytkowych;
+- **6)** posiadania broni palnej pozbawionej cech użytkowych;
+- **7)** posiadania przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej o średniej wartości prądu w obwodzie nieprzekraczającej 10 mA;
+- **8)** posiadania ręcznych miotaczy gazu obezwładniającego;
+- **9)** posiadania broni pneumatycznej;
+- **10)** posiadania broni palnej rozdzielnego ładowania, wytworzonej przed rokiem 1885 oraz replik tej broni;
+- **11)** posiadania broni palnej alarmowej o kalibrze do 6 mm.
 
 **Art. 12.**
 
@@ -191,6 +300,55 @@ source: "isap-pdf"
 - **14)** nie przekazuje komendantowi wojewódzkiemu Policji właściwemu ze względu na miejsce polowania, imprezy sportowej lub rekonstrukcji historycznej pisemnej informacji o planowanej dacie i miejscu polowania, imprezy sportowej lub rekonstrukcji historycznej z udziałem cudzoziemców oraz przybliżonej liczbie uczestników biorących w nich udział.”.
 
 **Art. 2.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 3:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) obrocie – należy przez to rozumieć działalność handlową dotyczącą materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, w tym pośrednictwo polegające na negocjowaniu, doradztwie handlowym, pomocy w zawieraniu umów oraz organizowaniu przemieszczania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, z wyłączeniem spedytorów, wykonywaną na terytorium Rzeczypospolitej Polskiej,”,
+    - **b)** w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) istotne części amunicji – są to pociski wypełnione materiałami wybuchowymi, chemicznymi środkami obezwładniającymi lub zapalającymi albo innymi substancjami, których działanie zagraża życiu lub zdrowiu, spłonki inicjujące spalanie materiału miotającego i materiał miotający w postaci prochu strzelniczego.”;
+
+- **2)** w art. 6 ust. 2 otrzymuje brzmienie: „2. Nie jest wymagane uzyskanie koncesji na obrót:
+- **1)** wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a–c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm. ),
+- **2)** bronią palną pozbawioną cech użytkowych zgodnie z przepisami ustawy z dnia 21 maja 1999 r. o broni i amunicji,
+- **3)** bronią inną niż broń palna oraz wyrobami o przeznaczeniu wojskowym lub policyjnym, pozbawionymi w sposób trwały i nieodwracalny bojowych cech użytkowych, zgodnie z art. 19a.”;
+- **3)** w art. 8:
+    - **a)** w ust. 1 w pkt 1: – lit. g otrzymuje brzmienie: „g) nie była skazana prawomocnym orzeczeniem za umyślne przestępstwo lub umyślne przestępstwo skarbowe lub umyślne wykroczenie skarbowe,”, – po lit. g dodaje się lit. h w brzmieniu: „h) nie jest objęta toczącym się przeciwko niej postępowaniem w sprawach o umyślne przestępstwo lub umyślne przestępstwo skarbowe lub umyślne wykroczenie skarbowe,”,
+    - **b)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) przedsiębiorcy innemu niż osoba fizyczna, jeżeli co najmniej dwie osoby będące członkami organu zarządzającego przedsiębiorstwa albo członek organu zarządzającego przedsiębiorstwa i ustanowiony przez ten organ do kierowania działalnością określoną w koncesji prokurent lub pełnomocnik spełniają warunki określone w pkt 1, z tym że warunek, o którym mowa w pkt 1 lit. g i h, dotyczy także wspólników spółki, członków organu zarządzającego, prokurentów oraz udziałowców lub akcjonariuszy posiadających co najmniej 20 % udziałów lub akcji.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Wymóg, o którym mowa w:
+
+- **1)** ust. 1 pkt 1 lit. c – nie dotyczy rusznikarzy,
+- **2)** ust. 2 pkt 2 – nie dotyczy przedsiębiorcy wykonującego pośrednictwo lub obrót bez prawa magazynowania.”;
+- **4)** w art. 12 w ust. 2 pkt 6 otrzymuje brzmienie: „6) zaświadczenia o niekaralności osób wymienionych w art. 8 ust. 1 pkt 1 i 2 za umyślne przestępstwo lub umyślne przestępstwo skarbowe lub umyślne wykroczenie skarbowe i oświadczenia tych osób, że nie są prowadzone przeciwko nim postępowania, o których mowa w art. 8 ust. 1 pkt 1 lit. h,”;
+- **5)** w art. 15:
+    - **a)** dotychczasową treść oznacza się jako ust. 1 oraz na końcu pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: „5) przekazać, po zakończeniu działalności gospodarczej, ewidencję, o której mowa w art. 23 i 29, ministrowi właściwemu do spraw gospodarki.”,
+    - **b)** dodaje się ust. 2 w brzmieniu: „2. Minister, o którym mowa w ust. 1 pkt 5, jest obowiązany do przechowywania ewidencji przez okres nie krótszy niż 20 lat.”;
+
+- **6)** po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia, tryb i szczegółowe warunki przekazywania ewidencji, uwzględniając postać przekazywanej ewidencji i termin jej przekazania.”;
+- **7)** w art. 16 w ust. 1 pkt 3 otrzymuje brzmienie: „3) jeżeli przedsiębiorcy cofnięto w ciągu ostatnich 10 lat koncesję, z wyjątkiem cofnięcia z przyczyn, o których mowa w art. 17 ust. 1 pkt 2,”;
+- **8)** w art. 17:
+    - **a)** w ust. 2 w pkt 2 lit. a otrzymuje brzmienie: „a) przestał spełniać warunki określone w art. 8: – w ust. 1 pkt 1 lit. g, – w ust. 1 pkt 2 – w zakresie spełniania przez osoby w nim wymienione warunku, o którym mowa w pkt 1 lit. g, oraz – w ust. 2 pkt 1,”,
+    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) gdy przedsiębiorca nie spełnia określonych w ustawie warunków wykonywania działalności gospodarczej objętej koncesją, w szczególności przestał spełniać warunek określony w art. 8 ust. 1 pkt 1 lit. h oraz pkt 2 w zakresie spełniania przez osoby w nim wymienione warunku, o którym mowa w pkt 1 lit. h.”;
+
+- **9)** po art. 17a dodaje się art. 17b w brzmieniu: „Art. 17b. 1. Organ koncesyjny w decyzji o cofnięciu koncesji, może określić obowiązki przedsiębiorcy w zakresie terminów zbycia posiadanych przez niego materiałów wybuchowych, broni, amunicji, wyrobów o przeznaczeniu wojskowym lub policyjnym, dokumentacji technologii oraz sposób zabezpieczenia dokumentacji i obiektów związanych z wytwarzaniem i obrotem.
+
+2. Po uprawomocnieniu się decyzji przedsiębiorca jest obowiązany zbyć materiały wybuchowe, broń, amunicję oraz wyroby i dokumentację technologii o przeznaczeniu wojskowym lub policyjnym w terminie określonym w decyzji, o której mowa w pkt 1.
+
+3. Termin zbycia nie może być dłuższy niż 3 miesiące od uprawomocnienia się decyzji o cofnięciu koncesji.”;
+
+- **10)** w art. 18:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Broń palna oraz każda odrębna, istotna część broni palnej podlegają oznakowaniu przez producenta.”,
+    - **b)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Oznakowanie, z zastrzeżeniem ust. 3b, powinno obejmować: kraj producenta, nazwę wytwórcy, numer seryjny i rok wytworzenia, jeżeli nie został zawarty w numerze seryjnym.
+
+3b. Oznakowanie może składać się z niepowtarzalnego i łatwego do identyfikacji kodu cyfrowego lub alfanumerycznego, zawierającego numer seryjny broni palnej.
+
+3c. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzór oznakowania broni palnej zawierający kod cyfrowy lub alfanumeryczny, mając na uwadze umożliwienie innym państwom łatwą identyfikację kraju wytworzenia broni palnej.”;
+
+- **11)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. Pojedyncze podstawowe opakowanie amunicji podlega oznakowaniu. Oznakowanie powinno obejmować nazwę wytwórcy, numer identyfikacyjny partii, kaliber i typ amunicji.”;
+- **12)** po art. 19 dodaje się art. 19a oraz art. 19b w brzmieniu: „Art. 19a. 1. Broń inna niż broń palna oraz wyroby o przeznaczeniu wojskowym lub policyjnym mogą zostać pozbawione w sposób trwały i nieodwracalny bojowych cech użytkowych stanowiących o ich przeznaczeniu przez uprawnionego przedsiębiorcę, zgodnie ze specyfikacją techniczną określającą szczegółowo sposób pozbawiania cech użytkowych danego rodzaju, typu i modelu broni i wyrobu, zwaną dalej „specyfikacją techniczną”, wydaną przez jednostkę uprawnioną i zatwierdzoną przez jednostkę uprawnioną do potwierdzania pozbawienia cech użytkowych.
+
+2. Przez pozbawienie broni oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, w sposób trwały i nieodwracalny bojowych cech użytkowych, zwane dalej „pozbawieniem cech użytkowych”, należy rozumieć działanie mające na celu eliminację cech użytkowych przesądzających o przeznaczeniu wojskowym lub policyjnym.
+
+3. Do pozbawiania cech użytkowych uprawniony jest przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania danego rodzaju broni lub wyrobu o przeznaczeniu wojskowym lub policyjnym.
+
+4. Pozbawienie cech użytkowych przez przedsiębiorcę wymaga potwierdzenia.
 
 **Art. 19b.**
 

@@ -8,10 +8,10 @@ pos: 960
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 28 czerwca 2024 ROZPORZĄDZENIE MINISTRA FINANSÓW 26 czerwca 2024 upoważnienia organów Krajowej niektórych zadań Szefa Krajowej wymianą informacji podatkowych innymi państwami Na podstawie art. 11b ust. 1 ustawy 16 listopada 2016 Krajowej (Dz. 2023 615, późn. zm. ) zarządza się, co następuje: § 1. 1. Upoważnia się Dyrektora Izby Poznaniu wykonywania, na całym terytorium Rzeczypospolitej Polskiej, zadań, których mowa ustawie 9 marca 2017 wymianie informacji podatkowych innymi państwami (Dz. 2023 241 oraz 2024 879), zwanej dalej „ustawą”, z:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 960 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,37 +25,46 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/960/text.pdf) |
 
-1) wymianą informacji podatkowych na wniosek urzędu innymi państwami zakresie:
-a) występowania właściwych organów udzielenie informacji podatkowych,
-b) otrzymywania informacji podatkowych na wniosek urzędu oraz wniosków udzielenie informacji podatkowych,
-c) przekazywania organom podatkowym informacji podatkowych otrzymanych na ich wniosek oraz urzędu od właściwych organów oraz wniosków właściwych organów udzielenie informacji podatkowych,
-d) prowadzenia postępowania udzielenia informacji podatkowych,
-e) udzielania, na wniosek urzędu, oraz odmowy udzielenia właściwemu organowi informacji podatkowych;
-2) automatyczną wymianą informacji podatkowych zakresie:
-a) przekazywania właściwym organom państw członkowskich Unii Europejskiej informacji wydanych interpretacjach podatkowych decyzjach sprawach cen transferowych oraz informacji schematach podatkowych transgranicznych,
-b) otrzymywania od właściwych organów państw członkowskich Unii Europejskiej informacji dotyczących interpretacji indywidualnych wymiarze transgranicznym oraz uprzednich porozumień cenowych, których mowa dyrektywie Rady 2011/16/UE 15 lutego 2011 współpracy administracyjnej dziedzinie opodatkowania uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 11.03.2011, str. 1, późn. zm. ), zwanej dalej „dyrektywą 2011/16/UE”;
-mach automatycznej wymiany informacji podatkowych, wyłączeniem informacji dotyczących podlegających zgłoszeniu uzgodnień transgranicznych, których mowa dyrektywie 2011/16/UE,
-b) zawartych informacjach grupie podmiotów;
-4) nakładaniem kar pieniężnych, których mowa art. 90a ustawy.
-2. Upoważnia się Dyrektora Izby Poznaniu wykonywania, na całym terytorium Rzeczypospolitej Polskiej, zadań, których mowa ustawie 9 października 2015 wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. 2023 41 oraz 2024 879), zwanej dalej „ustawą FATCA”, przekazywaniem informacji, których mowa art. 2 ust. 2 lit. b Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych Warszawie 7 października 2014 (Dz. 2015 1647 oraz 2017 158), zwanej dalej „Umową FATCA”.
-3. Informacje, których mowa ust. 1 pkt 3 ust. 2, są przekazywane:
-1) Dyrektorom Izb w: Białymstoku, Bydgoszczy, Gdańsku, Katowicach, Kielcach, Krakowie, Lublinie, Łodzi, Olsztynie, Opolu, Rzeszowie, Szczecinie, Warszawie, Wrocławiu oraz Zielonej Górze uwzględnieniem terytorialnego zasięgu działania dyrektorów izb administracji skarbowej oraz miejsca zamieszkania lub siedziby podmiotu, którego informacja dotyczy, przy czym Dyrektorowi Izby Gdańsku są przekazywane również informacje dotyczące szczególnych kategorii dochodu kapitału oraz rachunku raportowanego, których mowa dyrektywie 2011/16/UE, oraz informacje, których mowa art. 2 ust. 2 lit. b Umowy FATCA, niezależnie od terytorialnego zasięgu jego działania oraz miejsca zamieszkania lub siedziby podmiotu, którego informacja dotyczy;
-2) naczelnikom urzędów celno-skarbowych niezależnie od miejsca zamieszkania lub siedziby podmiotu, którego informacja dotyczy, przy czym nie są przekazywane informacje dotyczące interpretacji indywidualnych wymiarze transgranicznym oraz uprzednich porozumień cenowych, których mowa dyrektywie 2011/16/UE.
-§ 2. Upoważnia się Dyrektorów Izb w: Białymstoku, Bydgoszczy, Gdańsku, Katowicach, Kielcach, Krakowie, Lublinie, Łodzi, Olsztynie, Opolu, Poznaniu, Rzeszowie, Szczecinie, Warszawie, Wrocławiu oraz Zielonej Górze zadań przekazywaniem informacji, których mowa § 1 ust. 1 pkt 3 ust. 2, naczelnikom urzędów skarbowych, mających siedziby terytorialny zasięg działania na obszarze objętym terytorialnym zasięgiem działania dyrektora odpowiedniej izby administracji skarbowej, właściwym ze względu na miejsce zamieszkania lub siedzibę podmiotu, którego informacja dotyczy.
-§ 3. Upoważnia się Naczelnika Dolnośląskiego Urzędu Skarbowego we Wrocławiu, Naczelnika Kujawsko-Pomorskiego Urzędu Skarbowego Bydgoszczy, Naczelnika Lubelskiego Urzędu Skarbowego Lublinie, Naczelnika Lubuskiego Urzędu Skarbowego Zielonej Górze, Naczelnika Łódzkiego Urzędu Skarbowego Łodzi, Naczelnika Małopolskiego Urzędu Skarbowego Krakowie, Naczelnika Pierwszego Mazowieckiego Urzędu Skarbowego Warszawie, Naczelnika Drugiego Mazowieckiego Urzędu Skarbowego Warszawie, Naczelnika Trzeciego Mazowieckiego Urzędu Skarbowego Radomiu, Naczelnika Opolskiego Urzędu Skarbowego Opolu, Naczelnika Podkarpackiego Urzędu Skarbowego Rzeszowie, Naczelnika Podlaskiego Urzędu Skarbowego Białymstoku, Naczelnika Pomorskiego Urzędu Skarbowego Gdańsku, Naczelnika Pierwszego Śląskiego Urzędu Skarbowego Sosnowcu, Naczelnika Drugiego Śląskiego Urzędu Skarbowego Bielsku-Białej, Naczelnika Świętokrzyskiego Urzędu Skarbowego Kielcach, Naczelnika Warmińsko-Mazurskiego Urzędu Skarbowego Olsztynie, Naczelnika Pierwszego Wielkopolskiego Urzędu Skarbowego Poznaniu, Naczelnika Drugiego Wielkopolskiego Urzędu Skarbowego Kaliszu, Naczelnika Zachodniopomorskiego Urzędu Skarbowego Szczecinie, zadań z:
-1) przeprowadzaniem kontroli oraz wyjaśnianiem uchybień lub nieprawidłowości niewymagających przeprowadzenia kontroli przez:
-a) raportującą instytucję finansową obowiązków zakresie stosowania procedur należytej staranności oraz procedur uwzględnieniem terytorialnego zasięgu działania tych organów oraz miejsca siedziby podmiotu, którego dotyczą te zadania.
-§ 4. Upoważnia się Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście wykonywania, na całym terytorium Rzeczypospolitej Polskiej, zadań, których mowa ustawie, z:
-1) wzywaniem operatora platformy na podstawie art. 75i ust. 1 2 ustawy;
-2) nadawaniem na podstawie art. 75v ustawy indywidualnego numeru operatora platformy, którym mowa art. 75v ust. 1 ustawy, zwanego dalej „indywidualnym numerem operatora platformy”;
-wydaniem postanowienia pozostawieniu formularza rejestracyjnego bez rozpatrzenia na podstawie art. 75w ustawy;
+w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Szefa Krajowej Administracji Skarbowej związanych z wymianą informacji podatkowych z innymi państwami Na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
+poz. 615, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Upoważnia się Dyrektora Izby Administracji Skarbowej w Poznaniu do wykonywania, na całym terytorium Rzeczypospolitej Polskiej, zadań, o których mowa w ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241 oraz z 2024 r. poz. 879), zwanej dalej „ustawą”, związanych z:
+1) wymianą informacji podatkowych na wniosek i z urzędu z innymi państwami w zakresie:
+a) występowania do właściwych organów o udzielenie informacji podatkowych,
+b) otrzymywania informacji podatkowych na wniosek i z urzędu oraz wniosków o udzielenie informacji podatkowych,
+c) przekazywania organom podatkowym informacji podatkowych otrzymanych na ich wniosek oraz z urzędu od właściwych organów oraz wniosków właściwych organów o udzielenie informacji podatkowych,
+d) prowadzenia postępowania w sprawie udzielenia informacji podatkowych,
+e) udzielania, na wniosek i z urzędu, oraz odmowy udzielenia właściwemu organowi informacji podatkowych;
+2) automatyczną wymianą informacji podatkowych w zakresie:
+a) przekazywania właściwym organom państw członkowskich Unii Europejskiej informacji o wydanych interpretacjach podatkowych i decyzjach w sprawach cen transferowych oraz informacji o schematach podatkowych transgranicznych,
+b) otrzymywania od właściwych organów państw członkowskich Unii Europejskiej informacji dotyczących interpretacji indywidualnych o wymiarze transgranicznym oraz uprzednich porozumień cenowych, o których mowa w dyrektywie Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, z późn. zm. ), zwanej dalej „dyrektywą 2011/16/UE”;
+3) przekazywaniem informacji podatkowych:
+a) uzyskanych od właściwych organów w ramach wymiany informacji podatkowych na wniosek i z urzędu oraz w ramach automatycznej wymiany informacji podatkowych, z wyłączeniem informacji dotyczących podlegających zgłoszeniu uzgodnień transgranicznych, o których mowa w dyrektywie 2011/16/UE,
+b) zawartych w informacjach o grupie podmiotów;
+4) nakładaniem kar pieniężnych, o których mowa w art. 90a ustawy.
+2. Upoważnia się Dyrektora Izby Administracji Skarbowej w Poznaniu do wykonywania, na całym terytorium Rzeczypospolitej Polskiej, zadań, o których mowa w ustawie z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. U. z 2023 r. poz. 41 oraz z 2024 r. poz. 879), zwanej dalej „ustawą FATCA”, związanych z przekazywaniem informacji, o których mowa w art. 2 ust. 2 lit. b Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647 oraz z 2017 r. poz. 158), zwanej dalej „Umową FATCA”.
+3. Informacje, o których mowa w ust. 1 pkt 3 i ust. 2, są przekazywane:
+1) Dyrektorom Izb Administracji Skarbowej w: Białymstoku, Bydgoszczy, Gdańsku, Katowicach, Kielcach, Krakowie, Lublinie, Łodzi, Olsztynie, Opolu, Rzeszowie, Szczecinie, Warszawie, Wrocławiu oraz Zielonej Górze – z uwzględnieniem terytorialnego zasięgu działania dyrektorów izb administracji skarbowej oraz miejsca zamieszkania lub siedziby podmiotu, którego informacja dotyczy, przy czym Dyrektorowi Izby Administracji Skarbowej w Gdańsku są przekazywane również informacje dotyczące szczególnych kategorii dochodu i kapitału oraz rachunku raportowanego, o których mowa w dyrektywie 2011/16/UE, oraz informacje, o których mowa w art. 2 ust. 2 lit. b Umowy FATCA, niezależnie od terytorialnego zasięgu jego działania oraz miejsca zamieszkania lub siedziby podmiotu, którego informacja dotyczy;
+2) naczelnikom urzędów celno-skarbowych – niezależnie od miejsca zamieszkania lub siedziby podmiotu, którego informacja dotyczy, przy czym nie są przekazywane informacje dotyczące interpretacji indywidualnych o wymiarze transgranicznym oraz uprzednich porozumień cenowych, o których mowa w dyrektywie 2011/16/UE.
+§ 2. Upoważnia się Dyrektorów Izb Administracji Skarbowej w: Białymstoku, Bydgoszczy, Gdańsku, Katowicach, Kielcach, Krakowie, Lublinie, Łodzi, Olsztynie, Opolu, Poznaniu, Rzeszowie, Szczecinie, Warszawie, Wrocławiu oraz Zielonej Górze do wykonywania zadań związanych z przekazywaniem informacji, o których mowa w § 1 ust. 1 pkt 3 i ust. 2, naczelnikom urzędów skarbowych, mających siedziby i terytorialny zasięg działania na obszarze objętym terytorialnym zasięgiem działania dyrektora odpowiedniej izby administracji skarbowej, właściwym ze względu na miejsce zamieszkania lub siedzibę podmiotu, którego informacja dotyczy.
+§ 3. Upoważnia się Naczelnika Dolnośląskiego Urzędu Skarbowego we Wrocławiu, Naczelnika Kujawsko-Pomorskiego Urzędu Skarbowego w Bydgoszczy, Naczelnika Lubelskiego Urzędu Skarbowego w Lublinie, Naczelnika Lubuskiego Urzędu Skarbowego w Zielonej Górze, Naczelnika Łódzkiego Urzędu Skarbowego w Łodzi, Naczelnika Małopolskiego Urzędu Skarbowego w Krakowie, Naczelnika Pierwszego Mazowieckiego Urzędu Skarbowego w Warszawie, Naczelnika Drugiego Mazowieckiego Urzędu Skarbowego w Warszawie, Naczelnika Trzeciego Mazowieckiego Urzędu Skarbowego w Radomiu, Naczelnika Opolskiego Urzędu Skarbowego w Opolu, Naczelnika Podkarpackiego Urzędu Skarbowego w Rzeszowie, Naczelnika Podlaskiego Urzędu Skarbowego w Białymstoku, Naczelnika Pomorskiego Urzędu Skarbowego w Gdańsku, Naczelnika Pierwszego Śląskiego Urzędu Skarbowego w Sosnowcu, Naczelnika Drugiego Śląskiego Urzędu Skarbowego w Bielsku-Białej, Naczelnika Świętokrzyskiego Urzędu Skarbowego w Kielcach, Naczelnika Warmińsko-Mazurskiego Urzędu Skarbowego w Olsztynie, Naczelnika Pierwszego Wielkopolskiego Urzędu Skarbowego w Poznaniu, Naczelnika Drugiego Wielkopolskiego Urzędu Skarbowego w Kaliszu, Naczelnika Zachodniopomorskiego Urzędu Skarbowego w Szczecinie, do wykonywania zadań związanych z:
+1) przeprowadzaniem kontroli oraz wyjaśnianiem uchybień lub nieprawidłowości niewymagających przeprowadzenia kontroli wykonywania przez:
+a) raportującą instytucję finansową obowiązków w zakresie stosowania procedur należytej staranności oraz procedur sprawozdawczych określonych w dziale III ustawy,
+b) jednostkę wchodzącą w skład grupy podmiotów obowiązków określonych w dziale V ustawy,
+2) wyjaśnianiem uchybień mniejszej wagi lub pomyłek administracyjnych, o których mowa w art. 5 ust. 1 Umowy FATCA,
+3) przeprowadzaniem kontroli amerykańskich rachunków raportowanych, o której mowa w art. 8 ustawy FATCA,
+4) nakładaniem kar pieniężnych, o których mowa w art. 89 i art. 90 ustawy – z uwzględnieniem terytorialnego zasięgu działania tych organów oraz miejsca siedziby podmiotu, którego dotyczą te zadania.
+§ 4. Upoważnia się Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście do wykonywania, na całym terytorium Rzeczypospolitej Polskiej, zadań, o których mowa w ustawie, związanych z:
+1) wzywaniem operatora platformy na podstawie art. 75i ust. 1 i 2 ustawy;
+2) nadawaniem na podstawie art. 75v ustawy indywidualnego numeru operatora platformy, o którym mowa w art. 75v ust. 1 ustawy, zwanego dalej „indywidualnym numerem operatora platformy”;
+3) wydaniem postanowienia o pozostawieniu formularza rejestracyjnego bez rozpatrzenia na podstawie art. 75w ustawy;
 4) unieważnieniem indywidualnego numeru operatora platformy na podstawie art. 75x ust. 1 ustawy;
 5) cofaniem indywidualnego numeru operatora platformy na podstawie art. 75y ust. 1 ustawy;
-6) przyjmowaniem zwracaniem kaucji gwarancyjnej, której mowa art. 75y ust. 3 ustawy;
-7) przeprowadzaniem kontroli oraz wyjaśnianiem uchybień lub nieprawidłowości niewymagających przeprowadzenia kontroli przez raportującego operatora platformy obowiązków zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych dziale IIIA ustawy;
+6) przyjmowaniem i zwracaniem kaucji gwarancyjnej, o której mowa w art. 75y ust. 3 ustawy;
+7) przeprowadzaniem kontroli oraz wyjaśnianiem uchybień lub nieprawidłowości niewymagających przeprowadzenia kontroli wykonywania przez raportującego operatora platformy obowiązków w zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych w dziale IIIA ustawy;
 8) przekazywaniem informacji na podstawie art. 75ze ust. 2 ustawy;
-9) powiadamianiem indywidualnym numerze operatora platformy raportującym operatorze platformy, który nie dopełnił obowiązku jednorazowej rejestracji, na podstawie art. 75zf ust. 1 3 ustawy;
-10) zwracaniem się Komisji Europejskiej skreślenie raportującego operatora platformy centralnego rejestru na podstawie art. 75zf ust. 2 ustawy;
-11) nakładaniem kar pieniężnych, których mowa art. 90b ustawy.
-§ 5. Rozporządzenie wchodzi życie dniem 1 lipca 2024 Minister Finansów: A. Domański
+9) powiadamianiem o indywidualnym numerze operatora platformy i raportującym operatorze platformy, który nie dopełnił obowiązku jednorazowej rejestracji, na podstawie art. 75zf ust. 1 i 3 ustawy;
+10) zwracaniem się do Komisji Europejskiej o skreślenie raportującego operatora platformy z centralnego rejestru na podstawie art. 75zf ust. 2 ustawy;
+11) nakładaniem kar pieniężnych, o których mowa w art. 90b ustawy.
+§ 5. Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r.
+Minister Finansów: A. Domański
 

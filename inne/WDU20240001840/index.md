@@ -8,7 +8,7 @@ pos: 1840
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne
@@ -28,6 +28,81 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001840) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1840/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691) wprowadza się następujące zmiany:
+
+- **1)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Stosunek pracy w służbie zagranicznej wygasa w dniu ukończenia 65 lat przez osobę, o której mowa w art. 3 ust. 1 pkt 1, 3 i 4.
+
+2. Jeżeli osoba, o której mowa w art. 3 ust. 1 pkt 1, 3 i 4, nie później niż na 6 miesięcy i nie wcześniej niż na 12 miesięcy przed ukończeniem 65 lat złoży dyrektorowi generalnemu służby zagranicznej oświadczenie na piśmie o woli kontynuowania zatrudnienia wraz z aktualnym orzeczeniem lekarskim stwierdzającym brak przeciwwskazań do pracy na zajmowanym stanowisku, jej stosunek pracy nie wygasa, chyba że dyrektor generalny służby zagranicznej, uwzględniając potrzeby służby zagranicznej, odmówi zgody na jej dalsze zatrudnienie.
+
+3. Odmowa zgody na dalsze zatrudnienie następuje na piśmie w terminie 30 dni od dnia otrzymania dokumentów, o których mowa w ust. 2. Odmowa zgody na dalsze zatrudnienie zawiera uzasadnienie oraz pouczenie o przysługującym pracownikowi prawie odwołania do sądu pracy.
+
+4. Od odmowy zgody na dalsze zatrudnienie przysługuje odwołanie. Odwołanie wnosi się do sądu pracy w terminie 21 dni od dnia doręczenia odmowy zgody na dalsze zatrudnienie. Przepisy art. 45 § 1 i 2, art. 47 zdanie pierwsze, art. 47 , art. 48 i art. 51 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
+
+5. W przypadku, o którym mowa w ust. 1, dyplomata zawodowy po wygaśnięciu stosunku pracy w służbie zagranicznej zachowuje prawo do posługiwania się ostatnim nadanym mu stopniem dyplomatycznym z określeniem „w stanie spoczynku”.”;
+
+- **2)** w art. 7 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) ambasadorze tytularnym – oznacza to najwyższy stopień dyplomatyczny nadawany dyplomacie zawodowemu;”;
+- **3)** skreśla się użyty w art. 11 w ust. 1 w pkt 1, w art. 14 w pkt 1, w art. 18 w pkt 1 oraz w art. 31 w ust. 1 w pkt 1 wyraz „wyłącznie”;
+- **4)** w art. 19 ust. 2 otrzymuje brzmienie: „2. Powołania do służby zagranicznej dokonuje dyrektor generalny służby zagranicznej po nadaniu osobie, o której mowa w ust. 1, stopnia dyplomatycznego na czas wykonywania obowiązków służbowych w placówce zagranicznej według zasad określonych w art. 30.”;
+- **5)** w art. 23 w ust. 5 w zdaniu pierwszym wyrazy „kolejnego, wyższego” zastępuje się wyrazem „wyższego”;
+- **6)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Ustanawia się, z zastrzeżeniem art. 27 ust. 2, następujące stopnie dyplomatyczne w służbie zagranicznej:
+- **1)** ambasador tytularny;
+- **2)** wyższe stopnie dyplomatyczne:
+    - **a)** minister pełnomocny,
+    - **b)** radca-minister,
+    - **c)** I radca,
+    - **d)** radca;
+
+- **3)** niższe stopnie dyplomatyczne:
+    - **a)** I sekretarz,
+    - **b)** II sekretarz,
+    - **c)** III sekretarz,
+    - **d)** attaché.
+
+2. Najniższym stopniem dyplomatycznym jest attaché.”;
+
+- **7)** uchyla się art. 29;
+- **8)** art. 30 otrzymuje brzmienie: „Art. 30. 1. Stopień dyplomatyczny ambasadora tytularnego nadaje minister właściwy do spraw zagranicznych na wniosek Szefa Służby Zagranicznej.
+
+2. Stopnie dyplomatyczne, o których mowa w art. 28 ust. 1 pkt 2 i 3, nadaje Szef Służby Zagranicznej.
+
+3. Stopień dyplomatyczny attaché nadaje się członkowi służby zagranicznej, który złożył z wynikiem pozytywnym egzamin dyplomatyczno-konsularny, w terminie 30 dni od dnia ogłoszenia wyników tego egzaminu.
+
+4. Nadanie po raz pierwszy stopnia dyplomatycznego innego niż attaché jest możliwe, jeżeli przemawiają za tym dotychczasowe doświadczenie zawodowe członka służby zagranicznej, posiadane wykształcenie, umiejętności, uprawnienia i kwalifikacje zawodowe.
+
+5. Wyższy stopień dyplomatyczny nadaje się dyplomacie zawodowemu, który uzyskał pozytywny wynik wyższej kwalifikacji dyplomatycznej, w terminie 30 dni od dnia ogłoszenia wyników tej kwalifikacji.
+
+6. Nadanie kolejnego stopnia dyplomatycznego dyplomacie zawodowemu może nastąpić na wniosek jego przełożonego, jeżeli:
+
+- **1)** dyplomata zawodowy starannie, rzetelnie i terminowo wykonywał powierzone zadania i obowiązki służbowe;
+- **2)** wobec dyplomaty zawodowego nie została orzeczona kara dyscyplinarna, o której mowa w art. 49 ust. 2 pkt 3;
+- **3)** od nadania dyplomacie zawodowemu ostatniego stopnia dyplomatycznego upłynęły co najmniej:
+    - **a)** 2 lata – jeżeli był to stopień attaché, III sekretarza lub II sekretarza,
+    - **b)** 3 lata – jeżeli był to stopień I sekretarza lub wyższy.”;
+
+- **9)** po art. 30 dodaje się art. 30a i art. 30b w brzmieniu: „Art. 30a. 1. Wyższa kwalifikacja dyplomatyczna jest przeprowadzana raz w roku.
+
+2. Dyplomata zawodowy przystępuje do wyższej kwalifikacji dyplomatycznej przed nadaniem mu po raz pierwszy wyższego stopnia dyplomatycznego.
+
+3. Dyplomata zawodowy może przystąpić do wyższej kwalifikacji dyplomatycznej po spełnieniu warunków, o których mowa w art. 30 ust. 6.
+
+4. Wyższa kwalifikacja dyplomatyczna obejmuje następujące etapy:
+
+- **1)** pisemny sprawdzian wiedzy z obszaru problematyki międzynarodowej;
+- **2)** wszechstronna ocena predyspozycji do zajmowania stanowisk kierowniczych, uwzględniająca w szczególności ocenę umiejętności: podejmowania decyzji, zarządzania zespołem, współpracy, komunikacji, radzenia sobie ze stresem, organizacji pracy, negocjacji lub rozwiązywania problemów;
+- **3)** badanie lekarskie zdolności psychicznej i fizycznej do wykonywania obowiązków na stanowisku decyzyjnym;
+- **4)** rozmowa oceniająca.
+
+5. Wyższą kwalifikację dyplomatyczną przeprowadza komisja powołana przez Szefa Służby Zagranicznej spośród członków służby zagranicznej posiadających wyższy stopień dyplomatyczny albo stopień dyplomatyczny ambasadora tytularnego.
+
+6. Do zadań komisji należy:
+
+- **1)** sprawdzenie, czy dyplomata zawodowy spełnia warunki, o których mowa w art. 30 ust. 6;
+- **2)** przygotowanie tematów i zadań do pisemnego sprawdzianu, o którym mowa w ust. 4 pkt 1;
+- **3)** przeprowadzenie etapów wyższej kwalifikacji dyplomatycznej, o których mowa w ust. 4 pkt 1, 2 i 4;
+- **4)** ustalenie wyników wyższej kwalifikacji dyplomatycznej.
+
+7. Szef Służby Zagranicznej określa skład i tryb pracy komisji, w tym sposób przeprowadzenia wyższej kwalifikacji dyplomatycznej oraz ustalenia jej wyniku.
+
+8. W przypadku uzyskania negatywnego wyniku wyższej kwalifikacji dyplomatycznej dyplomata zawodowy może do niej przystąpić ponownie nie wcześniej niż po upływie 2 lat.
 
 **Art. 30b.**
 
@@ -297,6 +372,12 @@ source: "isap-pdf"
 - **28)** uchyla się art. 87.
 
 **Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090) w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Do złożenia oświadczenia, o którym mowa w ust. 1, obowiązani są:
+
+- **1)** Szef Służby Zagranicznej;
+- **2)** pełnomocni przedstawiciele Rzeczypospolitej Polskiej w innym państwie lub przy organizacji międzynarodowej;
+- **3)** dyplomaci zawodowi;
+- **4)** dyplomaci delegowani;
+- **5)** pracownicy zagraniczni, którym nadano stopień dyplomatyczny na czas pełnienia obowiązków w placówce zagranicznej.”.
 
 **Art. 3.** Wnioski, o których mowa w art. 4 ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, złożone i nierozpoznane przed dniem wejścia w życie niniejszej ustawy pozostawia się bez rozpoznania. Osoby, których wnioski pozostawiono bez rozpoznania, w terminie 2 miesięcy od dnia wejścia w życie niniejszej ustawy mogą złożyć dokumenty, o których mowa w art. 4 ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 

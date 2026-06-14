@@ -8,7 +8,7 @@ pos: 2731
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji
@@ -50,6 +50,22 @@ Art. 21–22. (pominięte)
 7. Połączenie, podział, reorganizacja, przekształcenie i likwidacja Instytutu następuje w drodze ustawy.
 
 **Art. 3.** Działalność Instytutu obejmuje:
+
+- **1)** wykonywanie działalności leczniczej, o której mowa w art. 3 ust. 1–3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897 oraz z 2025 r. poz. 129);
+- **2)** określanie i opracowywanie standardów opieki zdrowotnej nad funkcjonariuszami Policji, Straży Granicznej, Państwowej Straży Pożarnej oraz Służby Ochrony Państwa;
+- **3)** określanie i opracowywanie standardów postępowania medycznego na wypadek zagrożenia bezpieczeństwa wewnętrznego państwa, w szczególności zdarzeń o charakterze terrorystycznym w rozumieniu ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194), zdarzeń, w których występuje więcej niż jedna osoba poszkodowana potrzebująca natychmiastowej pomocy medycznej lub w wyniku których duża liczba osób doznaje poważnych obrażeń, a także związanych ze stanami nadzwyczajnymi;
+- **4)** prowadzenie działalności konsultacyjnej na rzecz podmiotów leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych;
+- **5)** prowadzenie badań naukowych, prac rozwojowych i usługowo-badawczych w dziedzinie nauk medycznych i nauk o zdrowiu dotyczących bezpieczeństwa wewnętrznego państwa z uwzględnieniem specyfiki potrzeb zdrowotnych funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej oraz Służby Ochrony Państwa;
+- **6)** wdrażanie wyników badań naukowych i prac rozwojowych określonych w pkt 5;
+- **7)** opracowywanie analiz, ocen, ekspertyz i standardów diagnostyczno-leczniczych, mających zastosowanie w Policji, Straży Granicznej, Państwowej Straży Pożarnej oraz Służbie Ochrony Państwa;
+- **8)** rozwój naukowy i kształcenie specjalistyczne kadr medycznych, w tym na potrzeby Policji, Straży Granicznej, Państwowej Straży Pożarnej oraz Służby Ochrony Państwa, w szczególności kształcenie podyplomowe, w tym specjalizacyjne oraz ustawiczne, prowadzenie studiów podyplomowych oraz szkoły doktorskiej, a także inne formy kształcenia na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897);
+- **9)** prowadzenie badań naukowych oraz prac wdrożeniowych w zakresie informatyzacji, innowacji cyfrowych, nowych technologii medycznych oraz modeli usług medycznych, przewidzianych do wykorzystania w obszarze cywilnym oraz na potrzeby Policji, Straży Granicznej, Państwowej Straży Pożarnej oraz Służby Ochrony Państwa;
+- **10)** prowadzenie badań klinicznych;
+- **11)** inicjowanie i rozwijanie współpracy krajowej i międzynarodowej w dziedzinie nauk medycznych i nauk o zdrowiu;
+- **12)** prowadzenie działalności w zakresie medycyny pracy, w tym w szczególności wykonywanie zadań z zakresu służby medycyny pracy w odniesieniu do funkcjonariuszy i pracowników Policji, Straży Granicznej, Państwowej Straży Pożarnej oraz Służby Ochrony Państwa lub innych jednostek organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych lub ministrowi właściwemu do spraw administracji publicznej lub przez nich nadzorowanych;
+- **13)** nadawanie stopni naukowych doktora i doktora habilitowanego w dziedzinie nauk medycznych i nauk o zdrowiu na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **14)** prowadzenie działalności w zakresie informacji naukowej;
+- **15)** realizację innych zadań zleconych przez ministra właściwego do spraw wewnętrznych.
 
 **Art. 4.** Nadzór nad Instytutem sprawuje minister właściwy do spraw wewnętrznych, który jest ministrem nadzorującym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych.
 
@@ -97,6 +113,14 @@ Art. 21–22. (pominięte)
 2. Dyrektor działa przy pomocy zastępców.
 
 **Art. 11.** Dyrektor:
+
+- **1)** kieruje Instytutem i reprezentuje go na zewnątrz;
+- **2)** ustala plany działalności Instytutu;
+- **3)** podejmuje czynności w sprawach z zakresu prawa pracy;
+- **4)** zarządza mieniem i odpowiada za wyniki działalności Instytutu;
+- **5)** powołuje komisję bioetyczną, o której mowa w art. 29 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287 i
+- **1897)** , i jej członków;
+- **6)** podejmuje decyzje we wszystkich sprawach dotyczących Instytutu, z wyjątkiem spraw zastrzeżonych do właściwości innych organów.
 
 **Art. 12.**
 
@@ -204,6 +228,18 @@ Art. 21–22. (pominięte)
 
 **Art. 19.** Źródłami finansowania działalności Instytutu są:
 
+- **1)** środki finansowe z realizacji umów o udzielanie świadczeń zdrowotnych;
+- **2)** przychody z tytułu wdrażania i upowszechniania wyników swojej działalności naukowej oraz efektów ekonomicznych powstałych z tego tytułu;
+- **3)** dotacje uzyskiwane na podstawie ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych oraz ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **4)** subwencje i dotacje uzyskiwane na podstawie ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **5)** dotacja podmiotowa przekazywana przez ministra właściwego do spraw wewnętrznych ze środków ujętych w części budżetowej, której jest dysponentem, z przeznaczeniem na dofinansowanie wynagrodzeń pracowników naukowych Instytutu wraz z pochodnymi od tych wynagrodzeń oraz wydatków pozawynagrodzeniowych;
+- **6)** dotacje celowe na zadania zlecone przez ministra właściwego do spraw wewnętrznych w zakresie działu administracji rządowej – sprawy wewnętrzne;
+- **7)** dotacje celowe na inwestycje;
+- **8)** środki uzyskane z budżetu Unii Europejskiej;
+- **9)** granty lub zlecenia;
+- **10)** spadki, zapisy i darowizny;
+- **11)** przychody z innych źródeł.
+
 **Art. 20.**
 
 1. W zakresie niezbędnym do należytego wykonywania zadań określonych w art. 3 Instytut może prowadzić działalność gospodarczą w zakresie realizacji tych zadań, w szczególności przez komercjalizację wyników prowadzonych badań, działalność wydawniczą i szkoleniową oraz wynajem pomieszczeń i biur.
@@ -244,7 +280,13 @@ Art. 21–22. (pominięte)
 
 **Art. 27.** Dyrektor składa wniosek:
 
+- **1)** o dokonanie wpisu do Krajowego Rejestru Sądowego oraz w rejestrze podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, w terminie 30 dni od dnia wejścia w życie ustawy;
+- **2)** o założenie konta w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on w terminie 7 dni od dnia wejścia w życie ustawy.
+
 **Art. 28.** Dyrektor sporządza i przekazuje ministrowi właściwemu do spraw wewnętrznych do wiadomości:
+
+- **1)** roczny plan finansowy Instytutu na 2023 rok w terminie 14 dni od dnia wejścia w życie ustawy;
+- **2)** pierwszy roczny plan działalności Instytutu w terminie 2 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 29.**
 
@@ -272,6 +314,13 @@ Art. 21–22. (pominięte)
 2. Do czasu wykonania przez ministra właściwego do spraw wewnętrznych obowiązku określonego w ust. 1, zadania Rady Naukowej, o których mowa w art. 16 ust. 1 pkt 1–7 i 9, wykonuje rada społeczna przy Centralnym Szpitalu Klinicznym Ministerstwa Spraw Wewnętrznych i Administracji w Warszawie. Z dniem powołania Rady Naukowej wygasa kadencja rady społecznej przy Centralnym Szpitalu Klinicznym Ministerstwa Spraw Wewnętrznych i Administracji w Warszawie.
 
 **Art. 31.** W terminie 30 dni od dnia wejścia w życie ustawy:
+
+- **1)** Dyrektor złoży oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, albo informację, o której mowa w art. 7 ust. 3a tej ustawy;
+- **2)** zastępcy dyrektora złożą:
+    - **a)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, albo informację, o której mowa w art. 7 ust. 3a tej ustawy,
+    - **b)** oświadczenie o spełnianiu wymagań, o których mowa w art. 12 ust. 1 pkt 1, 4 i 5;
+
+- **3)** minister właściwy do spraw wewnętrznych zawrze z Dyrektorem i zastępcami dyrektora odrębną umowę o zakazie prowadzenia działalności konkurencyjnej, o której mowa w art. 28 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych.
 
 **Art. 32.**
 

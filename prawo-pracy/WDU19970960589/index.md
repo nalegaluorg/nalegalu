@@ -8,7 +8,7 @@ pos: 589
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Najwyższej Izbie Kontroli oraz ustawy o związkach zawodowych

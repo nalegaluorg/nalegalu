@@ -8,10 +8,10 @@ pos: 1088
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 czerwca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1088 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 2 czerwca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1088/text.pdf) |
 
-Poz. 1088 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 2 czerwca 2017 r.
 w sprawie wysokości wynagrodzenia i podlegających zwrotowi wydatków mediatora w postępowaniu administracyjnym Na podstawie art. 263a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2016 r.
-poz. 23, 868, 996, 1579 i 2138 oraz z 2017 r. poz. 935) zarządza się, co następuje: § 1. Rozporządzenie określa wysokość wynagrodzenia mediatora za prowadzenie postępowania mediacyjnego w sprawach administracyjnych wszczętego na podstawie skierowania organu administracji publicznej i wydatki mediatora podlegające zwrotowi.
+poz. 23, 868, 996, 1579 i 2138 oraz z 2017 r. poz. 935) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wysokość wynagrodzenia mediatora za prowadzenie postępowania mediacyjnego w sprawach administracyjnych wszczętego na podstawie skierowania organu administracji publicznej i wydatki mediatora podlegające zwrotowi.
 § 2. 1. W sprawach o należności pieniężne wynagrodzenie mediatora wynosi 1% wartości tych należności, jednak nie mniej niż 150 złotych i nie więcej niż 2000 złotych za całość postępowania mediacyjnego.
 2. W sprawach dotyczących:
 1) koncesji, zezwoleń lub pozwoleń na prowadzenie działalności gospodarczej,
@@ -41,7 +41,6 @@ poz. 23, 868, 996, 1579 i 2138 oraz z 2017 r. poz. 935) zarządza się, co nast�
 3. W sprawach niewymienionych w ust. 1 albo 2 wynagrodzenie mediatora za prowadzenie postępowania mediacyjnego wynosi za pierwsze posiedzenie 150 złotych, a za każde kolejne – 100 złotych, łącznie nie więcej niż 450 złotych.
 § 3. Zwrotowi podlegają udokumentowane i niezbędne wydatki mediatora poniesione w związku z przeprowadzeniem mediacji na pokrycie kosztów:
 1) przejazdów – w wysokości i na warunkach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej;
-Dziennik Ustaw – 2 – Poz. 1088
 2) wynajmu pomieszczenia niezbędnego do przeprowadzenia posiedzenia mediacyjnego, w wysokości nieprzekraczającej 70 złotych za jedno posiedzenie;
 3) korespondencji, w wysokości nieprzekraczającej 30 złotych.
 § 4. W razie nieprzystąpienia uczestników do mediacji mediatorowi przysługuje zwrot poniesionych wydatków w wysokości nieprzekraczającej 70 złotych.

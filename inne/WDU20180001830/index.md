@@ -8,10 +8,10 @@ pos: 1830
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1830 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 20 września 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1830/text.pdf) |
 
-Poz. 1830 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 20 września 2018 r.
-w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług Na podstawie art. 175a ust. 2a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907, z późn. zm. ) zarządza się, co następuje: § 1. Naruszenie bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych uznaje się za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług telekomunikacyjnych, w przypadku gdy zostało spełnione co najmniej jedno z poniższych kryteriów:
+w sprawie kryteriów uznania naruszenia bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług Na podstawie art. 175a ust. 2a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907, z późn. zm. ) zarządza się, co następuje:
+§ 1. Naruszenie bezpieczeństwa lub integralności sieci lub usług telekomunikacyjnych uznaje się za naruszenie o istotnym wpływie na funkcjonowanie sieci lub usług telekomunikacyjnych, w przypadku gdy zostało spełnione co najmniej jedno z poniższych kryteriów:
 1) dotyczyło ono co najmniej 10 000 użytkowników danej usługi i naruszenie skutkuje niedostępnością lub ograniczeniem dostępności sieci lub usług telekomunikacyjnych:
 a) od 1 do 2 godzin, gdy naruszenie miało wpływ na więcej niż 15% użytkowników danej usługi,
 b) powyżej 2 do 4 godzin, gdy naruszenie miało wpływ na więcej niż 10% użytkowników danej usługi,

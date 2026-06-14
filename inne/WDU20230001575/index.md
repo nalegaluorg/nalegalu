@@ -8,7 +8,7 @@ pos: 1575
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego

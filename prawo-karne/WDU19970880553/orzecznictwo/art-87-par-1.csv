@@ -64,6 +64,7 @@ saos_id|date|court|case_number|type|score|saos_url
 411074|2018-04-05|SO|II AKa 11/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/411074
 314381|2017-03-07|SO|II AKa 247/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/314381
 359667|2016-07-06|SO|II AKa 87/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/359667
+546028|2026-04-17|SO|II K 552/25|Wyrok|40|https://www.saos.org.pl/judgments/546028
 543181|2025-11-21|SO|II K 637/25|Wyrok|40|https://www.saos.org.pl/judgments/543181
 543183|2025-11-14|SO|II K 685/25|Wyrok|40|https://www.saos.org.pl/judgments/543183
 537574|2025-10-08|SO|IV Ka 720/25|Wyrok|40|https://www.saos.org.pl/judgments/537574
@@ -245,9 +246,13 @@ saos_id|date|court|case_number|type|score|saos_url
 428829|2021-01-13|SO|IV Kz 460/20|Postanowienie|31|https://www.saos.org.pl/judgments/428829
 379291|2019-03-13|SO|IV Kz 73/19|Postanowienie|31|https://www.saos.org.pl/judgments/379291
 73198|2014-12-17|SO|VII Kzw 597/14|Postanowienie|31|https://www.saos.org.pl/judgments/73198
+547117|2026-06-08|SO|VI Ka 1622/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/547117
+546235|2026-05-08|SO|II K 552/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/546235
+545649|2026-03-17|SO|VI Ka 1369/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/545649
 543182|2025-11-21|SO|II K 637/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/543182
 538540|2025-11-20|SO|VI Ka 411/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/538540
 543184|2025-11-14|SO|II K 685/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/543184
+545097|2025-10-24|SO|II K 162/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/545097
 538052|2025-09-11|SO|III RC 29/25|Zarządzenie|27|https://www.saos.org.pl/judgments/538052
 538930|2025-05-09|SO|II K 897/24|Zarządzenie|27|https://www.saos.org.pl/judgments/538930
 538899|2025-04-28|SO|II K 1037/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/538899
@@ -259,6 +264,7 @@ saos_id|date|court|case_number|type|score|saos_url
 502418|2024-02-20|SO|II K 1124/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/502418
 508629|2024-01-16|SO|IV Ka 904/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/508629
 503493|2023-12-15|SO|II K 739/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/503493
+546639|2023-11-24|SO|II K 327/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/546639
 507698|2023-11-13|SO|IV K 147/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/507698
 503347|2023-11-09|SO|II K 591/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/503347
 492625|2023-05-16|SO|VI Ka 309/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/492625

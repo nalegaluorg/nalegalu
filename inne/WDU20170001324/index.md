@@ -8,10 +8,10 @@ pos: 1324
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lipca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1324 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 22 czerwca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001324) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1324/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 22 czerwca 2017 r.
-w sprawie kontroli ośrodków szkolenia kierowców Na podstawie art. 48 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres, warunki i tryb przeprowadzania kontroli ośrodków szkolenia kierowców oraz wzory stosowanych przy tym dokumentów.
+w sprawie kontroli ośrodków szkolenia kierowców Na podstawie art. 48 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres, warunki i tryb przeprowadzania kontroli ośrodków szkolenia kierowców oraz wzory stosowanych przy tym dokumentów.
 § 2. 1. Kontrola jest przeprowadzana zgodnie z rocznym planem kontroli uwzględniającym kontrole, o których mowa w art. 44 ust. 1 pkt 1 i pkt 2 lit. a i b ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, zwanej dalej „ustawą”, zatwierdzonym przez starostę albo prezydenta miasta na prawach powiatu, zwanego dalej „organem”.
 2. W planie kontroli kontrole określa się w następującej kolejności:
 1) ośrodki szkolenia kierowców, zwane dalej „ośrodkami”, wpisane w poprzednim roku do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców, które nie zostały skontrolowane;
@@ -46,16 +46,16 @@ b) wpisów w kartach przeprowadzonych zajęć,
 c) dokumentacji związanej z przeprowadzeniem egzaminu wewnętrznego,
 d) sposobu prowadzenia zajęć teoretycznych i praktycznych w ośrodku przez instruktorów i wykładowców prowadzących zajęcia w ośrodku.
 3. Organ, przeprowadzając kontrolę:
-1) kompleksową sprawdza całokształt zagadnień, o których mowa w ust. 2;
-2) problemową sprawdza, w zależności od celu kontroli, wybrane zagadnienia, o których mowa w ust. 2;
-3) doraźną sprawdza wyłącznie zagadnienia wynikające ze złożonych skarg lub z informacji dotyczących działalności ośrodka, w tym wynikających z wniosku starosty, o którym mowa w art. 44 ust. 2 pkt 3 ustawy.
+1) kompleksową – sprawdza całokształt zagadnień, o których mowa w ust. 2;
+2) problemową – sprawdza, w zależności od celu kontroli, wybrane zagadnienia, o których mowa w ust. 2;
+3) doraźną – sprawdza wyłącznie zagadnienia wynikające ze złożonych skarg lub z informacji dotyczących działalności ośrodka, w tym wynikających z wniosku starosty, o którym mowa w art. 44 ust. 2 pkt 3 ustawy.
 4. Warunkiem przeprowadzenia kontroli w zakresie, o którym mowa w art. 44 ust. 4 pkt 2 lit. b ustawy, jest przedłożenie organowi przez ośrodek informacji lub danych, o których mowa w art. 27 ust. 1 pkt 1 ustawy, zgodnie ze wzorem określonym w załączniku nr 1 do rozporządzenia.
 § 4. 1. Kontrolę przeprowadza osoba upoważniona przez organ do przeprowadzania kontroli, zwana dalej „osobą kontrolującą”, na podstawie legitymacji służbowej i wydanego przez organ imiennego upoważnienia, którego wzór określa załącznik nr 2 do rozporządzenia.
-2. Imienne upoważnienie sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden jest przeznaczony dla kontrolowanego ośrodka, a drugi do włączenia do akt kontroli.
+2. Imienne upoważnienie sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden jest przeznaczony dla kontrolowanego ośrodka, a drugi – do włączenia do akt kontroli.
 § 5. Osoba kontrolująca dokonuje ustaleń stanu faktycznego w szczególności na podstawie wyników oględzin, zgromadzonej dokumentacji, w tym fotograficznej lub audiowizualnej, zeznań świadków, pisemnych wyjaśnień i oświadczeń.
 § 6. 1. Dowody zebrane w toku kontroli można zabezpieczyć na czas trwania kontroli, w szczególności w przypadku, gdy zachodzi uzasadnione podejrzenie fałszowania dokumentów lub potwierdzania w dokumentach danych niezgodnych ze stanem faktycznym.
 2. Zabezpieczenia dokonuje się w obecności kontrolowanego przedsiębiorcy lub osoby go reprezentującej przez pobranie dowodów za pokwitowaniem z kontrolowanego ośrodka i umieszczenie ich w siedzibie organu w sposób uniemożliwiający dostęp osób postronnych. Na wniosek kontrolowanego przedsiębiorcy lub osoby go reprezentującej osoba kontrolująca wydaje kopię zabezpieczonych dowodów.
-3. Pokwitowanie sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden jest przeznaczony dla kontrolowanego przedsiębiorcy, a drugi do włączenia do akt kontroli.
+3. Pokwitowanie sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden jest przeznaczony dla kontrolowanego przedsiębiorcy, a drugi – do włączenia do akt kontroli.
 4. Dowody, o których mowa w ust. 1, oznacza się w sposób uniemożliwiający ich zamianę.
 5. Zwolnienia dowodów spod zabezpieczenia dokonuje organ przez ich niezwłoczne zwrócenie, za pokwitowaniem, kontrolowanemu przedsiębiorcy.
 § 7. 1. Osoba kontrolująca może sporządzać kopie, odpisy, wydruki i wyciągi z dokumentów prowadzonych w postaci papierowej lub elektronicznej.
@@ -63,14 +63,15 @@ d) sposobu prowadzenia zajęć teoretycznych i praktycznych w ośrodku przez ins
 § 8. Osoba kontrolująca może żądać od kontrolowanego przedsiębiorcy lub osoby go reprezentującej sporządzenia zestawień lub obliczeń w zakresie objętym kontrolą.
 § 9. 1. Jeżeli jest konieczne ustalenie stanu faktycznego obiektów lub pojazdów albo ustalenie przebiegu określonych czynności, osoba kontrolująca przeprowadza oględziny w obecności kontrolowanego lub osoby go reprezentującej.
 2. Z dokonanych oględzin sporządza się protokół oględzin, który podpisuje osoba kontrolująca i kontrolowany lub osoba go reprezentująca.
+3. Skreślenia, poprawki, uzupełnienia oraz odmowę podpisania protokołu oględzin opisuje się w protokole.
 4. Strony protokołu oględzin powinny być ponumerowane i parafowane przez osoby podpisujące protokół.
-5. Protokół oględzin sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden jest przeznaczony dla kontrolowanego przedsiębiorcy, a drugi do włączenia do akt kontroli.
+5. Protokół oględzin sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden jest przeznaczony dla kontrolowanego przedsiębiorcy, a drugi – do włączenia do akt kontroli.
 6. Oględziny mogą być utrwalone za pomocą urządzenia technicznego służącego do zapisu dźwięku lub obrazu. W takim przypadku osoby biorące udział w oględzinach powiadamia się o użyciu podczas oględzin takiego urządzenia.
-§ 10. 1. Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden jest przeznaczony dla kontrolowanego przedsiębiorcy, a drugi do włączenia do akt kontroli. Przepisy § 9 ust. 2–4 stosuje się.
+§ 10. 1. Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden jest przeznaczony dla kontrolowanego przedsiębiorcy, a drugi – do włączenia do akt kontroli. Przepisy § 9 ust. 2–4 stosuje się.
 2. Wzór protokołu kontroli określa załącznik nr 3 do rozporządzenia.
-§ 11. 1. Zastrzeżenia, o których mowa w art. 44 ust. 6 ustawy, wnosi się w formie pisemnej, w postaci papierowej albo elektronicznej, w terminie 7 dni od dnia otrzymania protokołu kontroli, a w przypadku zastrzeżeń do protokołu kontroli infrastruktury ośrodka prowadzonego przez przedsiębiorcę wpisanego na terenie innego powiatu do rejestru przedsiębiorców prowadzących ośrodek w terminie 2 dni od dnia otrzymania protokołu kontroli.
+§ 11. 1. Zastrzeżenia, o których mowa w art. 44 ust. 6 ustawy, wnosi się w formie pisemnej, w postaci papierowej albo elektronicznej, w terminie 7 dni od dnia otrzymania protokołu kontroli, a w przypadku zastrzeżeń do protokołu kontroli infrastruktury ośrodka prowadzonego przez przedsiębiorcę wpisanego na terenie innego powiatu do rejestru przedsiębiorców prowadzących ośrodek – w terminie 2 dni od dnia otrzymania protokołu kontroli.
 2. W przypadku wniesienia zastrzeżeń organ podejmuje czynności zmierzające do ich wyjaśnienia.
-3. W terminie 7 dni, a w przypadku kontroli infrastruktury ośrodka prowadzonego przez przedsiębiorcę wpisanego na terenie innego powiatu do rejestru przedsiębiorców prowadzących ośrodek w terminie 2 dni od dnia wniesienia zastrzeżeń, organ informuje w formie pisemnej, w postaci papierowej albo elektronicznej, wnoszącego zastrzeżenia o ich uwzględnieniu w całości lub w części albo o ich nieuwzględnieniu.
+3. W terminie 7 dni, a w przypadku kontroli infrastruktury ośrodka prowadzonego przez przedsiębiorcę wpisanego na terenie innego powiatu do rejestru przedsiębiorców prowadzących ośrodek – w terminie 2 dni od dnia wniesienia zastrzeżeń, organ informuje w formie pisemnej, w postaci papierowej albo elektronicznej, wnoszącego zastrzeżenia o ich uwzględnieniu w całości lub w części albo o ich nieuwzględnieniu.
 4. W przypadku uwzględnienia zastrzeżeń w całości lub w części organ ponownie przesyła protokół kontroli uwzględniający zgłoszone zastrzeżenia kontrolowanemu przedsiębiorcy z wyznaczeniem terminu 3 dni, a w przypadku protokołu kontroli infrastruktury ośrodka prowadzonego przez przedsiębiorcę wpisanego na terenie innego powiatu do rejestru przedsiębiorców prowadzących ośrodek z wyznaczeniem terminu 1 dnia na jego podpisanie.
 5. W przypadku nieuwzględnienia zastrzeżeń organ informuje kontrolowany ośrodek o przyczynie ich nieuwzględnienia.
 § 12. 1. Organ przekazuje kontrolowanemu przedsiębiorcy zalecenia pokontrolne w terminie 7 dni od dnia podpisania protokołu lub doręczenia informacji, o której mowa w § 11 ust. 3.
@@ -79,13 +80,15 @@ d) sposobu prowadzenia zajęć teoretycznych i praktycznych w ośrodku przez ins
 § 13. 1. Pierwszy plan kontroli, o którym mowa w § 2 ust. 1, organ zatwierdza do ostatniego dnia miesiąca następującego po miesiącu, w którym rozporządzenie weszło w życie.
 2. Plan kontroli uzupełnia się o kontrole, o których mowa w art. 44 ust. 1 pkt 2 lit. b ustawy, w terminie 6 miesięcy od dnia rozpoczęcia przekazywania przez administratora centralnej ewidencji kierowców informacji o naruszeniach przepisów ruchu drogowego popełnionych przez kierowców, którzy ukończyli szkolenie w danym ośrodku szkolenia kierowców.
 § 14. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury i Budownictwa: A. Adamczyk WZÓR 2 czerwca 201 r.. (Dz. U ……… ) i 1 ZÓR INFORMACJA O TERMINIE, CZASIE I MIEJSCU ROZPOCZĘCIA PIERWSZYCH ZAJĘĆ WRAZ Z LISTĄ UCZESTNIKÓW KURSU …………………………..
-…………….. , dnia ……………… r.
-Lp. Imię Nazwisko Numer PESEL Data i godzina Miejsce rozpoczęcia prowadzenia szkolenia szkolenia teoretycznego teoretycznego 1 2 3 … …………………………..
+Minister Infrastruktury i Budownictwa: A. Adamczyk Infrastruktury i Budownictwa z dnia 22 czerwca 2017 r.. (Dz. U. ……… poz…………) Załącznik nr 1 WZÓR WZÓR INFORMACJA O TERMINIE, CZASIE I MIEJSCU ROZPOCZĘCIA PIERWSZYCH ZAJĘĆ WRAZ Z LISTĄ UCZESTNIKÓW KURSU …………….. , dnia ……………… r.
+…………………………..
+Data i godzina Miejsce Lp. Imię Nazwisko Numer PESEL rozpoczęcia prowadzenia szkolenia szkolenia teoretycznego teoretycznego 1 2 3 … …………………………..
 Informacja może być przekazana drogą elektroniczną.
 Dane podczas kontroli przedkłada się odrębnie dla każdego kursu.
 W przypadku osoby nieposiadającej numeru PESEL wpisuje się serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument.
-Strona 1 ............................................ ............................................
+
+## Załącznik nr 2 — WZÓR WZÓR IMIENNEGO IMIENNEGO UPOWAŻNIENIA UPOWAŻNIENIA DO DO PRZEPROWADZANIA PRZEPROWADZANIA KONTROLI KONTROLI W OŚRODKU W OŚRODKU SZKOLENIA SZKOLENIA KIEROWCÓW KIEROWCÓW Strona 1 ............................................ ............................................
+
 U POWAŻNIENIE NR ............/........
 Na podstawie art. 79a ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, z późn. zm.) w związku z art. 43 ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978) upoważniam: Panią/Pana................................................................................................................................... , zatrudnioną(-nego) na stanowisku ……………………………………………………………...
 ..................................................................................................................................................... , do przeprowadzenia kontroli w ....................................................................................................
@@ -95,7 +98,7 @@ Kontrola będzie dotyczyć .....................................................
 Data rozpoczęcia kontroli: .....................……………………………………..
 Przewidywana data zakończenia kontroli: ……………………….…………………………..
 ............................................................. …….....................................................
-WZÓR IMIENNEGO UPOWAŻNIENIA DO PRZEPROWADZANIA KONTROLI W OŚRODKU SZKOLENIA KIEROWCÓW Strona 2 Pouczenie o prawach i obowiązkach kontrolowanego wynikających z ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, z późn. zm.) Kontrolowany przedsiębiorca ma prawo do:
+Strona 2 Pouczenie o prawach i obowiązkach kontrolowanego wynikających z ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, z późn. zm.) Kontrolowany przedsiębiorca ma prawo do:
 1. Wskazania na piśmie, że przeprowadzane czynności kontrolne zakłócają w sposób istotny jego działalność gospodarczą (art. 80 b).
 2. Wniesienia sprzeciwu wobec podjęcia i wykonywania przez organy kontroli czynności z naruszeniem przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej w zakresie:
 1) zawiadomienia o zamiarze wszczęcia kontroli (art. 79);
@@ -107,7 +110,9 @@ WZÓR IMIENNEGO UPOWAŻNIENIA DO PRZEPROWADZANIA KONTROLI W OŚRODKU SZKOLENIA K
 Kontrolowany przedsiębiorca ma obowiązek:
 1. Pisemnego wskazania osoby upoważnionej do reprezentowania go w trakcie kontroli, w szczególności w czasie jego nieobecności (art. 80 ust. 3).
 2. Niezwłocznego okazania kontrolującemu książki kontroli albo kopii odpowiednich jej fragmentów lub wydruków z systemu informatycznego, w którym prowadzona jest książka kontroli, poświadczonych przez siebie za zgodność z wpisem w książce kontroli (art. 81a ust. 1).
-PROTOKÓŁ KONTROLI NR ………..……..
+
+## Załącznik nr 3 — WZÓR PROTOKOŁU KONTROLI WZÓR PROTOKOŁU KONTROLI PROTOKÓŁ KONTROLI NR ………..……..
+
 Na podstawie art. 43 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U.
 z 2017 r. poz. 978) oraz upoważnienia ……………………………. nr …..../…….
 z dnia ......................................................... przeprowadzono kontrolę przedsiębiorcy: ......................................................................................................................................................
@@ -117,12 +122,12 @@ w zakresie prawa jazdy kategorii: ..............................................
 Zawiadomienie o zamiarze wszczęcia kontroli doręczono w dniu …………………………… .
 Kontrolę w dniach .................................................................................. przeprowadził: .......................................................................................................................................................
 w obecności kontrolowanego/ osoby upoważnionej przez kontrolowanego: .......................................................................................................................................................
-I. Status przedsiębiorcy: prawomocnie skazany za przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub przestępstwo przeciwko wiarygodności dokumentów dotyczy osoby fizycznej lub członków organów osoby prawnej: TAK NIE ...........................................................................................................................................
+I. Status przedsiębiorcy: prawomocnie skazany za przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub przestępstwo przeciwko wiarygodności dokumentów – dotyczy osoby fizycznej lub członków organów osoby prawnej: TAK NIE ...........................................................................................................................................
 ...........................................................................................................................................
 ...........................................................................................................................................
 ...........................................................................................................................................
-WZÓR PROTOKOŁU KONTROLI II. Akredytacja kuratora oświaty, o której mowa w art. 118 ustawy z dnia 14 grudnia 2016 r.
-Prawo oświatowe (Dz. U. z 2017 r. poz. 59, z późn. zm.) : TAK NIE NIE DOTYCZY ...........................................................................................................................................
+II. Akredytacja kuratora oświaty, o której mowa w art. 118 ustawy z dnia 14 grudnia 2016 r.
+– Prawo oświatowe (Dz. U. z 2017 r. poz. 59, z późn. zm.) : TAK NIE NIE DOTYCZY ...........................................................................................................................................
 ...........................................................................................................................................
 ...........................................................................................................................................
 ...........................................................................................................................................
@@ -176,7 +181,7 @@ tytuł prawny: …..............................................................
 2.7.6.4. Zasady udzielania pierwszej pomocy ofiarom wypadku: TAK NIE ..........................................................................................................................................
 ...........................................................................................................................................
 2.7.7. Programy komputerowe lub filmy wideo prezentujące:
-2.7.7.1. Zasady bezpiecznego poruszania się w ruchu drogowym:
+2.7.7.1. Zasady bezpiecznego poruszania się w ruchu drogowym: TAK NIE
 2.7.7.2. Zasady kierowania pojazdem: TAK NIE
 2.7.7.3. Podstawowe czynności kontrolno-obsługowe : TAK NIE
 2.7.7.4. Zasady udzielania pierwszej pomocy ofiarom wypadku: TAK NIE ................................................................................................................................................
@@ -225,9 +230,9 @@ tytuł prawny: ………........................................................
 IV. Kontrolą objęto działalność przedsiębiorcy w okresie: od dnia ……………………………… r.
 do dnia ……………………………… r.
 W powyższym okresie:
-1) objęto szkoleniem ………………… kandydatów na kierowców, w tym: szkoleniem podstawowym ……… osoby/osób, szkoleniem uzupełniającym ……… osoby/osób;
+1) objęto szkoleniem ………………… kandydatów na kierowców, w tym: szkoleniem podstawowym – ……… osoby/osób, szkoleniem uzupełniającym – ……… osoby/osób;
 2) wydano zaświadczenia o ukończeniu szkolenia podstawowego …….. osobom;
-3) objęto kursem………………… kandydatów na instruktorów i wykładowców, w tym: kursem podstawowym ……… osoby/osób, kursem uzupełniającym ……… osoby/osób;
+3) objęto kursem………………… kandydatów na instruktorów i wykładowców, w tym: kursem podstawowym – ……… osoby/osób, kursem uzupełniającym – ……… osoby/osób;
 4) wydano zaświadczenia o ukończeniu kursu dla kandydatów na instruktorów i wykładowców…….. osobom;
 5) wydano zaświadczenia o ukończeniu kursu uzupełniającego dla instruktorów i wykładowców …….. osobom;
 6) wydano zaświadczenia potwierdzające uczestnictwo w warsztatach doskonalenia zawodowego …….. osobom.
@@ -237,7 +242,7 @@ a) książkę ewidencji osób szkolonych nr …..……………………. , stw
 b) karty przeprowadzonych zajęć, stwierdzając: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… …………………………………………………………………………………………………
 c) zgodność rozpoczęcia zajęć z przekazaną przez kierownika ośrodka informacją o terminie, czasie i miejscu rozpoczęcia pierwszych zajęć teoretycznych oraz listą uczestników kursu, stwierdzając: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… …………………………………………………………………………………………………
 d) prawidłowość sposobu prowadzenia zajęć teoretycznych i praktycznych w ośrodku przez instruktorów i wykładowców prowadzących zajęcia w ośrodku, stwierdzając: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… …………………………………………………………………………………………………
-e) zasady i sposób przeprowadzania egzaminu wewnętrznego, stwierdzając: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… …………………………………………………………………………………………………
+e) zasady i sposób przeprowadzania egzaminu wewnętrznego, stwierdzając: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… …………………………………………………………………………………………………
 f) zgodność prowadzonych harmonogramów zajęć teoretycznych z kartami przeprowadzonych zajęć, stwierdzając: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… …………………………………………………………………………………………………
 g) zasady i sposób przeprowadzania zajęć teoretycznych, stwierdzając: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… …………………………………………………………………………………………………
 h) zasady i sposób przeprowadzania zajęć praktycznych, stwierdzając: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… …………………………………………………………………………………………………

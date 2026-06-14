@@ -8,7 +8,7 @@ pos: 1564
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo o adwokaturze
@@ -242,6 +242,9 @@ source: "isap-pdf"
 
 **Art. 23.** Adwokat – członek zespołu ma prawo do:
 
+- **1)** udziału w pracach i w dochodzie zespołu, z wyjątkiem okresu niezdolności do pracy spowodowanej chorobą lub macierzyństwem;
+- **2)** corocznego płatnego urlopu wypoczynkowego.
+
 **Art. 24.**
 
 - **3)** 1. Adwokaci – członkowie zespołów i ich rodziny mają na równi z pracownikami prawo do świadczeń z tytułu ubezpieczenia na wypadek choroby, macierzyństwa i ubezpieczenia rodzinnego oraz z tytułu powszechnego zaopatrzenia emerytalnego pracowników i ich rodzin, przy czym przy ustalaniu prawa do świadczeń i ich wysokości pracę w zespołach traktuje się jako zatrudnienie, a otrzymywane wynagrodzenie – jako wynagrodzenie z tytułu zatrudnienia.
@@ -289,6 +292,10 @@ source: "isap-pdf"
 
 **Art. 30.** Organami zespołu adwokackiego są:
 
+- **1)** zebranie zespołu;
+- **2)** kierownik zespołu;
+- **3)** komisja rewizyjna w zespołach liczących więcej niż 12 członków, a w zespołach mniejszych, jeżeli zostanie ona powołana uchwałą zebrania zespołu.
+
 **Art. 31.**
 
 1. Do zakresu działania zebrania zespołu należy w szczególności:
@@ -324,6 +331,12 @@ source: "isap-pdf"
 **Art. 35.** Rozwiązanie zespołu następuje na podstawie uchwały zebrania zespołu lub uchwały okręgowej rady adwokackiej.
 
 **Art. 36.** Okręgowa rada adwokacka dokonuje wizytacji:
+
+- **1)** zespołów adwokackich;
+- **2)** kancelarii adwokackich;
+- **3)** spółek z wyłącznym udziałem adwokatów;
+- **4)** adwokatów w spółkach z udziałem adwokatów, radców prawnych i prawników zagranicznych wpisanych na listę prawników zagranicznych;
+- **5)** prawników zagranicznych wpisanych na listę prawników zagranicznych, prowadzoną przez okręgową radę adwokacką.
 
 **Art. 37.** Przepisy działu niniejszego stosuje się odpowiednio do adwokatów wykonujących zawód w kancelarii adwokackiej oraz w spółkach, o których mowa w art. 4a ust. 1.
 
@@ -363,7 +376,21 @@ source: "isap-pdf"
 
 **Art. 39.** Organami izby adwokackiej są:
 
+- **1)** zgromadzenie izby składające się z adwokatów wykonujących zawód oraz delegatów pozostałych adwokatów;
+- **2)** okręgowa rada adwokacka;
+- **3)** sąd dyscyplinarny;
+- **3a)** rzecznik dyscyplinarny;
+- **4)** komisja rewizyjna.
+
 **Art. 40.** Do zakresu działania zgromadzenia izby adwokackiej należy:
+
+- **1)** wybór delegatów na Krajowy Zjazd Adwokatury;
+- **2)** wybór dziekana, prezesa sądu dyscyplinarnego, rzecznika dyscyplinarnego, przewodniczącego komisji rewizyjnej oraz członków i zastępców członków okręgowej rady adwokackiej, sądu dyscyplinarnego i komisji rewizyjnej;
+- **3)** uchwalanie budżetu izby i ustalanie wysokości składek rocznych na potrzeby izby;
+- **4)** (utracił moc)
+- **5)** rozpatrywanie i zatwierdzanie corocznych sprawozdań z działalności okręgowej rady adwokackiej;
+- **6)** zatwierdzanie – po wysłuchaniu wniosków komisji rewizyjnej – zamknięć rachunkowych i udzielanie okręgowej radzie adwokackiej absolutorium;
+- **7)** podejmowanie innych uchwał.
 
 **Art. 41.**
 
@@ -467,6 +494,20 @@ source: "isap-pdf"
 
 **Art. 56.** Do zakresu działania Krajowego Zjazdu Adwokatury należy w szczególności:
 
+- **1)** wybór prezesa Naczelnej Rady Adwokackiej, prezesa Wyższego Sądu Dyscyplinarnego, Rzecznika Dyscyplinarnego Adwokatury i przewodniczącego Wyższej Komisji Rewizyjnej;
+- **2)** wybór – niebędących dziekanami – adwokatów wchodzących w skład Naczelnej Rady Adwokackiej;
+- **3)** wybór członków i zastępców członków Wyższego Sądu Dyscyplinarnego i Wyższej Komisji Rewizyjnej;
+- **3a)** ustalanie liczby członków i zastępców członków Wyższego Sądu Dyscyplinarnego oraz sądów dyscyplinarnych;
+- **4)** rozpatrywanie i zatwierdzanie sprawozdań Naczelnej Rady Adwokackiej, Wyższego Sądu Dyscyplinarnego i Wyższej Komisji Rewizyjnej oraz zatwierdzanie – po wysłuchaniu wniosków Wyższej Komisji Rewizyjnej – zamknięć rachunkowych i udzielanie Naczelnej Radzie Adwokackiej absolutorium;
+- **5)** wytyczanie kierunków działania samorządu adwokackiego, a także ustalanie liczby izb adwokackich;
+- **6)** uchwalanie regulaminów dotyczących:
+    - **a)** trybu wyborów do organów adwokatury i organów izb adwokackich oraz działania tych organów, z wyjątkiem regulaminów, o których mowa w art. 58 pkt 12 lit. i,
+    - **b)** (uchylona)
+    - **c)** (uchylona)
+    - **d)** trybu obrad Zjazdu;
+
+- **7)** określanie podstawowych zasad tworzenia funduszów i gospodarowania majątkiem adwokatury.
+
 #### Rozdział 2 Naczelna Rada Adwokacka
 
 **Art. 57.**
@@ -480,6 +521,40 @@ source: "isap-pdf"
 2. Siedzibą Naczelnej Rady Adwokackiej jest m.st. Warszawa.
 
 **Art. 58.** Do zakresu działania Naczelnej Rady Adwokackiej należy:
+
+- **1)** reprezentowanie adwokatury;
+- **1a)** uchylanie sprzecznych z prawem uchwał zgromadzenia izby;
+- **2)** nadzór nad działalnością Prezydium Naczelnej Rady Adwokackiej;
+- **3)** nadzór nad działalnością okręgowych rad adwokackich oraz nadzór nad kształceniem aplikantów przez te rady;
+- **4)** ustalanie zasięgu terytorialnego izb adwokackich oraz ich siedzib;
+- **5)** ustalanie liczby członków oraz ich zastępców, organów poszczególnych izb adwokackich, a także liczby stale urzędujących członków tych organów i zasad ich wynagradzania;
+- **5a)** określanie zasad działania zastępców Rzecznika Dyscyplinarnego Adwokatury i zastępców rzeczników dyscyplinarnych oraz trybu i sposobu ich wyboru;
+- **5b)** określanie wysokości zryczałtowanych kosztów postępowania dyscyplinarnego;
+- **6)** wydawanie opinii, o których mowa w art. 16 ust. 2 i 3;
+- **7)** (uchylony)
+- **8)** rozpoznawanie odwołań od uchwał okręgowych rad adwokackich;
+- **9)** udzielanie opinii o projektach aktów prawodawczych oraz przedstawianie wniosków i postulatów w zakresie tworzenia i stosowania prawa;
+- **10)** rozporządzanie i zarząd majątkiem Naczelnej Rady Adwokackiej;
+- **11)** uchwalanie budżetu Naczelnej Rady Adwokackiej i określanie udziału poszczególnych izb adwokackich w pokrywaniu jej wydatków budżetowych;
+- **11a)** uchwalanie zasad zwalniania aplikantów od ponoszenia w całości lub w części opłaty rocznej, a także odraczania jej płatności lub rozkładania jej na raty;
+- **12)** uchwalanie regulaminów dotyczących: o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej, i dokumentowania udzielonej nieodpłatnej pomocy prawnej,
+    - **a)** zasad wyboru delegatów adwokatów, o których mowa w art. 39 pkt 1,
+    - **b)** zasad odbywania aplikacji adwokackiej,
+    - **c)** zasad funkcjonowania rad adwokackich,
+    - **d)** zakresu działania oraz zasad wynagradzania wizytatorów,
+    - **e)** (uchylona)
+    - **f)** wzorów pieczęci organów adwokatury,
+    - **g)** zasad tworzenia, organizowania, funkcjonowania i rozwiązywania zespołów adwokackich,
+    - **h)** zasad wykonywania zawodu indywidualnie lub w spółkach, o których mowa w art. 4a ust. 1,
+    - **i)** działania rzeczników dyscyplinarnych,
+    - **j)** (utraciła moc)
+    - **k)** zasad współdziałania adwokata z prawnikiem zagranicznym reprezentującym klienta w postępowaniu, w którym zgodnie z obowiązującymi przepisami wymagane jest, aby strona była reprezentowana przez adwokata lub radcę prawnego,
+    - **l)** zasad wyznaczania adwokatów do udzielania nieodpłatnej pomocy prawnej, o której mowa w ustawie z dnia 5 sierpnia 2015 r.
+    - **m)** dopełnienia obowiązku zawodowego adwokatów w zakresie doskonalenia zawodowego i uprawnień organów samorządu służących zapewnieniu przestrzegania tego obowiązku przez adwokatów;
+
+- **13)** zawieszanie w sprawowaniu funkcji ze względu na naruszenie podstawowych obowiązków poszczególnych członków organów izb adwokackich i organów zespołów adwokackich, z wyjątkiem członków sądów dyscyplinarnych, oraz zwracanie się do właściwych organów o ich odwołanie;
+- **14)** wykonywanie zadań określonych w ustawie o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej;
+- **15)** współdziałanie z Ministrem Sprawiedliwości w zakresie określonym w ustawie.
 
 **Art. 58a.**
 
@@ -540,6 +615,11 @@ source: "isap-pdf"
 ### DZIAŁ V Wpis na listę adwokatów
 
 **Art. 65.** Na listę adwokatów może być wpisany ten, kto:
+
+- **1)** jest nieskazitelnego charakteru i swym dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu adwokata;
+- **2)** korzysta w pełni z praw publicznych oraz ma pełną zdolność do czynności prawnych;
+- **3)** ukończył wyższe studia prawnicze w Rzeczypospolitej Polskiej i uzyskał tytuł magistra lub zagraniczne studia prawnicze uznane w Rzeczypospolitej Polskiej;
+- **4)** odbył w Rzeczypospolitej Polskiej aplikację adwokacką i złożył egzamin adwokacki, z zastrzeżeniem art. 66 ust. 1 i 2.
 
 **Art. 66.**
 
@@ -1236,6 +1316,10 @@ source: "isap-pdf"
 
 **Art. 79a.** Okręgowa rada adwokacka może, w drodze uchwały, na wniosek aplikanta adwokackiego złożony przed upływem roku od daty zakończenia aplikacji adwokackiej i na podstawie przedstawionych dokumentów, wydłużyć okres, o którym mowa w art. 79 ust. 1 pkt 4, o rok w przypadku wystąpienia następujących okoliczności uniemożliwiających przystąpienie do egzaminu adwokackiego w najbliższym terminie po zakończeniu aplikacji adwokackiej:
 
+- **1)** wystąpienia u tej aplikantki powikłań związanych z przebiegiem ciąży, trwających co najmniej 30 dni, w okresie ostatnich 6 miesięcy trwania aplikacji adwokackiej lub w okresie od jej zakończenia do dnia zakończenia egzaminu adwokackiego;
+- **2)** choroby tego aplikanta powodującej niezdolność do pracy przez okres co najmniej 90 dni albo wymagającej hospitalizacji przez okres co najmniej 21 dni – w okresie ostatnich 6 miesięcy trwania aplikacji adwokackiej lub w okresie od jej zakończenia do dnia zakończenia egzaminu adwokackiego;
+- **3)** urodzenia przez tę aplikantkę dziecka w ostatnim roku aplikacji adwokackiej lub w okresie od jej zakończenia do dnia zakończenia egzaminu adwokackiego albo gdy termin porodu został ustalony na dzień przypadający nie później niż 3 miesiące od dnia zakończenia egzaminu adwokackiego.
+
 ### DZIAŁ VIII Odpowiedzialność dyscyplinarna
 
 **Art. 80.** Adwokaci i aplikanci adwokaccy podlegają odpowiedzialności dyscyplinarnej za postępowanie sprzeczne z prawem, zasadami etyki lub godnością zawodu bądź za naruszenie swych obowiązków zawodowych, a adwokaci również za niespełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 8a ust. 1, zgodnie z przepisami wydanymi na podstawie art. 8b.
@@ -1434,6 +1518,10 @@ source: "isap-pdf"
 
 **Art. 95c.** Postępowanie dyscyplinarne obejmuje:
 
+- **1)** dochodzenie;
+- **2)** postępowanie przed sądem dyscyplinarnym;
+- **3)** postępowanie wykonawcze.
+
 **Art. 95d.** Sąd dyscyplinarny lub rzecznik dyscyplinarny może umorzyć postępowanie dyscyplinarne w wypadkach mniejszej wagi.
 
 **Art. 95e.**
@@ -1505,6 +1593,9 @@ source: "isap-pdf"
 **Art. 95m.** (uchylony)
 
 **Art. 95n.** W sprawach nieuregulowanych w ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy:
+
+- **1)** Kodeksu postępowania karnego;
+- **2)** rozdziałów I–III Kodeksu karnego.
 
 ### DZIAŁ IX Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 

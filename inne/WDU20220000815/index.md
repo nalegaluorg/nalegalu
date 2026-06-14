@@ -8,10 +8,10 @@ pos: 815
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 kwietnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 815 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 8 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/815/text.pdf) |
 
-Poz. 815 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 8 kwietnia 2022 r.
 w sprawie przesyłania informacji dotyczących spółek nieruchomościowych w zakresie podatku dochodowego od osób fizycznych Na podstawie art. 45 ust. 8b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r.
-poz. 1128, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej informacji, o których mowa w art. 45 ust. 3f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwanych dalej „informacjami dotyczącymi spółek nieruchomościowych”.
+poz. 1128, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej informacji, o których mowa w art. 45 ust. 3f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwanych dalej „informacjami dotyczącymi spółek nieruchomościowych”.
 § 2. 1. Informacje dotyczące spółek nieruchomościowych opatrzone kwalifikowanym podpisem elektronicznym są przesyłane za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 2. Dowodem złożenia informacji dotyczących spółek nieruchomościowych jest urzędowe poświadczenie odbioru, wydane przez elektroniczną skrzynkę podawczą systemu teleinformatycznego administracji skarbowej po przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego, które:
 1) zapewnia integralność tej informacji zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070);

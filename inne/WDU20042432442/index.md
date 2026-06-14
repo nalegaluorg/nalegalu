@@ -8,7 +8,7 @@ pos: 2442
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 3 listopada 2004 r.

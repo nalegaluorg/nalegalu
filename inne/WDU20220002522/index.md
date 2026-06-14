@@ -8,10 +8,10 @@ pos: 2522
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2522 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 28 listopada 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,19 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2522/text.pdf) |
 
-Poz. 2522 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 28 listopada 2022 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów sprawie wyznaczenia wojewody właściwego zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 5 października 2017 r. sprawie wyznaczenia wojewody właściwego zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1900), z uwzględnieniem zmian wprowadzonych:
-1) rozporządzeniem Rady Ministrów z dnia 21 września 2021 r. zmieniającym rozporządzenie sprawie wyznaczenia wojewody właściwego zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1802);
-2) rozporządzeniem Rady Ministrów z dnia 1 lipca 2022 r. zmieniającym rozporządzenie sprawie wyznaczenia wojewody właściwego zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1498).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 21 września 2021 r. zmieniającego rozporządzenie sprawie wyznaczenia wojewody właściwego zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1802), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 1 lipca 2022 r. zmieniającego rozporządzenie sprawie wyznaczenia wojewody właściwego zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1498), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki Dziennik Ustaw – 2 – Poz. 2522 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 5 października 2017 r.
-sprawie wyznaczenia wojewody właściwego zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka Na podstawie art. 12 ust. 4 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2019 r. poz. 1598 oraz z 2022 r.
-poz. 91) zarządza się, co następuje: § 1. Wyznacza się wojewodów dolnośląskiego, kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, mazowieckiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, wielkopolskiego oraz zachodniopomorskiego jako organy właściwe zakresie:
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 5 października 2017 r. w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1900), z uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Rady Ministrów z dnia 21 września 2021 r. zmieniającym rozporządzenie w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1802);
+2) rozporządzeniem Rady Ministrów z dnia 1 lipca 2022 r. zmieniającym rozporządzenie w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1498).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Rady Ministrów z dnia 21 września 2021 r. zmieniającego rozporządzenie w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1802), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 1 lipca 2022 r. zmieniającego rozporządzenie w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1498), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 5 października 2017 r.
+w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka Na podstawie art. 12 ust. 4 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2019 r. poz. 1598 oraz z 2022 r.
+poz. 91) zarządza się, co następuje:
+§ 1. Wyznacza się wojewodów dolnośląskiego, kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, mazowieckiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, wielkopolskiego oraz zachodniopomorskiego jako organy właściwe w zakresie:
 1) przyjmowania wniosków o przyznanie lub przedłużenie ważności Karty Polaka;
-2) wydawania decyzji sprawach, o których mowa pkt 1.
-§ 2. Z właściwości wojewodów wymienionych § 1 sprawach, o których mowa § 1, mogą skorzystać obywatele Ukrainy, Republiki Białorusi oraz Federacji Rosyjskiej albo osoby posiadające tych państwach status bezpaństwowca.
-§ 3. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia .
+2) wydawania decyzji w sprawach, o których mowa w pkt 1.
+§ 2. Z właściwości wojewodów wymienionych w § 1 w sprawach, o których mowa w § 1, mogą skorzystać obywatele Ukrainy, Republiki Białorusi oraz Federacji Rosyjskiej albo osoby posiadające w tych państwach status bezpaństwowca.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

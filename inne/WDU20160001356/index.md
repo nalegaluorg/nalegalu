@@ -8,10 +8,10 @@ pos: 1356
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1356 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 18 sierpnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1356/text.pdf) |
 
-Poz. 1356 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 18 sierpnia 2016 r.
-w sprawie wykazu zawodów regulowanych, których wykonywanie wymaga dokładnej znajomości prawa polskiego, w przypadku których uprawnienie do dokonania wyboru między odbyciem stażu adaptacyjnego a przystąpieniem do testu umiejętności jest wyłączone Na podstawie art. 21 ust. 5 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje: § 1. Zawodami regulowanymi, których wykonywanie wymaga dokładnej znajomości prawa polskiego, a ich zasadniczą i trwałą cechą jest udzielanie porad i pomocy prawnej związanej z jego stosowaniem, w przypadku których uprawnienie do dokonania wyboru między odbyciem stażu adaptacyjnego a przystąpieniem do testu umiejętności jest wyłączone, są zawody:
+w sprawie wykazu zawodów regulowanych, których wykonywanie wymaga dokładnej znajomości prawa polskiego, w przypadku których uprawnienie do dokonania wyboru między odbyciem stażu adaptacyjnego a przystąpieniem do testu umiejętności jest wyłączone Na podstawie art. 21 ust. 5 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+§ 1. Zawodami regulowanymi, których wykonywanie wymaga dokładnej znajomości prawa polskiego, a ich zasadniczą i trwałą cechą jest udzielanie porad i pomocy prawnej związanej z jego stosowaniem, w przypadku których uprawnienie do dokonania wyboru między odbyciem stażu adaptacyjnego a przystąpieniem do testu umiejętności jest wyłączone, są zawody:
 1) doradcy podatkowego;
 2) rzecznika patentowego.
 § 2. W przypadku zawodów regulowanych, o których mowa w § 1, określa się obowiązek przystąpienia do testu umiejętności.

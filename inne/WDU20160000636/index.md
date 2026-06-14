@@ -8,10 +8,10 @@ pos: 636
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 maja 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 636 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 13 kwietnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,19 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/636/text.pdf) |
 
-Poz. 636 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 13 kwietnia 2016 r.
-w sprawie przekazywania służbie hydrograficznej danych pomiarowych Na podstawie art. 41c ust. 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014, z 2015 r. poz. 1642 z 2016 r. poz. 266 i 542) zarządza się, co następuje: § 1. Rozporządzenie określa warunki i sposób przekazywania kopii danych pomiarowych Państwowej Morskiej Służbie Hydrograficznej, zwanej dalej „służbą hydrograficzną”.
+w sprawie przekazywania służbie hydrograficznej danych pomiarowych Na podstawie art. 41c ust. 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014, z 2015 r. poz. 1642 oraz z 2016 r. poz. 266 i 542) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki i sposób przekazywania kopii danych pomiarowych Państwowej Morskiej Służbie Hydrograficznej, zwanej dalej „służbą hydrograficzną”.
 § 2. Podmiot prowadzący na polskich obszarach morskich pomiary hydrograficzne przekazuje kopię danych pomiarowych obejmujących wyniki przeprowadzonych pomiarów hydrograficznych, w tym także pomiarów hydrograficznych wykonywanych w ramach pomiarów batymetrycznych, sonarowych, magnetometrycznych lub optycznego rozpoznania obiektów podwodnych, w terminie 30 dni od zakończenia tych pomiarów do wykonującego zadania służby hydrograficznej Biura Hydrograficznego Marynarki Wojennej, zwanego dalej „BHMW”.
-§ 3. Podmiot prowadzący na polskich obszarach morskich pomiary hydrograficzne przekazuje do BHMW kopię danych pomiarowych przy użyciu poczty elektronicznej na adres wskazany na stronie internetowej BHMW lub, zapisaną na informatycznym nośniku danych, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 z 2015 r. poz. 1830).
+§ 3. Podmiot prowadzący na polskich obszarach morskich pomiary hydrograficzne przekazuje do BHMW kopię danych pomiarowych przy użyciu poczty elektronicznej na adres wskazany na stronie internetowej BHMW lub, zapisaną na informatycznym nośniku danych, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830).
 § 4. Szczegółowy sposób przekazywania do BHMW kopii danych pomiarowych jest określony w załączniku do rozporządzenia.
 § 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk SZCZEGÓŁOWY SPOSÓB PRZEKAZYWANIA DO BIURA HYDROGRAFICZNEGO MARYNARKI WOJENNEJ KOPII DANYCH POMIAROWYCH I. Kopia danych pomiarowych jest przekazywana do Biura Hydrograficznego Marynarki Wojennej wraz ze wskazaniem następujących informacji:
-1. Zleceniodawca prac pomiarowych – należy wskazać nazwę, adres siedziby, numer w Krajowym Rejestrze Sądowym, numer telefonu adres poczty elektronicznej zleceniodawcy.
-2. Wykonawca prac pomiarowych – należy wskazać nazwę, adres siedziby, numer w Krajowym Rejestrze Sądowym, numer telefonu adres poczty elektronicznej wykonawcy, jak również imię i nazwisko kwalifikacje zawodowe osoby odpowiedzialnej za wykonane pomiary hydrograficzne i ich opracowanie.
-3. Cel termin realizacji prac pomiarowych – należy krótko opisać cel zrealizowanych prac pomiarowych daty ich rozpoczęcia i zakończenia (w formacie DD-MM-YYYY).
-4. Parametry statku lub jednostki wykonującej prace pomiarowe – należy podać nazwę, długość, szerokość, średnie zanurzenie numer IMO statku lub jednostki.
-5. Opis techniczny prac pomiarowych i ich metodyka wyposażenie pomiarowe – należy w sposób chronologiczny przedstawić przebieg prac pomiarowych, opisując kolejne etapy prac, liczbę punktów lub tras pomiarowych (profili pomiarowych) podstawowych kontrolnych, przyjętą odległość pomiędzy profilami źródło i sposób uzyskania lub rejestracji danych na temat poziomu wód podczas pomiarów. Dodatkowo należy wskazać system określania pozycji sprzęt pomiarowy użyty do realizacji pomiarów, stosując w tym celu tabele zamieszczone na stronie internetowej Biura Hydrograficznego Marynarki Wojennej.
-6. Oprogramowanie do zbierania i archiwizacji danych pomiarowych – należy podać nazwę producenta, numer licencji nazwę właściciela oprogramowania.
+1. Zleceniodawca prac pomiarowych – należy wskazać nazwę, adres siedziby, numer w Krajowym Rejestrze Sądowym, numer telefonu oraz adres poczty elektronicznej zleceniodawcy.
+2. Wykonawca prac pomiarowych – należy wskazać nazwę, adres siedziby, numer w Krajowym Rejestrze Sądowym, numer telefonu oraz adres poczty elektronicznej wykonawcy, jak również imię i nazwisko oraz kwalifikacje zawodowe osoby odpowiedzialnej za wykonane pomiary hydrograficzne i ich opracowanie.
+3. Cel oraz termin realizacji prac pomiarowych – należy krótko opisać cel zrealizowanych prac pomiarowych oraz daty ich rozpoczęcia i zakończenia (w formacie DD-MM-YYYY).
+4. Parametry statku lub jednostki wykonującej prace pomiarowe – należy podać nazwę, długość, szerokość, średnie zanurzenie oraz numer IMO statku lub jednostki.
+5. Opis techniczny prac pomiarowych i ich metodyka oraz wyposażenie pomiarowe – należy w sposób chronologiczny przedstawić przebieg prac pomiarowych, opisując kolejne etapy prac, liczbę punktów lub tras pomiarowych (profili pomiarowych) podstawowych oraz kontrolnych, przyjętą odległość pomiędzy profilami oraz źródło i sposób uzyskania lub rejestracji danych na temat poziomu wód podczas pomiarów. Dodatkowo należy wskazać system określania pozycji oraz sprzęt pomiarowy użyty do realizacji pomiarów, stosując w tym celu tabele zamieszczone na stronie internetowej Biura Hydrograficznego Marynarki Wojennej.
+6. Oprogramowanie do zbierania i archiwizacji danych pomiarowych – należy podać nazwę producenta, numer licencji oraz nazwę właściciela oprogramowania.
 II. Kopia danych pomiarowych jest przekazywana do Biura Hydrograficznego Marynarki Wojennej w następującym formacie danych:
 1. Wielkość pojedynczego przekazywanego pliku danych pomiarowych nie powinna przekraczać 2 GB.
 2. W przypadku danych batymetrycznych wartości powinny być zapisane i przekazane w formacie tekstowym x y z, gdzie poszczególne symbole oznaczają: x – długość geograficzna wyrażona w stopniach z dokładnością do ośmiu miejsc po przecinku, y – szerokość geograficzna wyrażona w stopniach z dokładnością do ośmiu miejsc po przecinku, z – głębokość wyrażona w metrach z dokładnością do dwóch miejsc po przecinku.

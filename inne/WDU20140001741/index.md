@@ -8,7 +8,7 @@ pos: 1741
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo o aktach stanu cywilnego
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-28 |
 | Data wydania | 2014-12-08 |
-| Ostatnia zmiana | 2026-03-31 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1741/text.pdf) |
 
 Art. 114–123. (pominięte)
@@ -366,6 +366,33 @@ Art. 114–123. (pominięte)
 
 **Art. 33.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia:
 
+- **1)** wzory, w tym w postaci elektronicznej:
+    - **a)** odpisów zupełnych aktu urodzenia, aktu małżeństwa i aktu zgonu,
+    - **b)** odpisu zupełnego aktu zgonu osoby o nieustalonej tożsamości,
+    - **c)** odpisów skróconych aktu urodzenia, aktu małżeństwa i aktu zgonu,
+    - **d)** odpisu skróconego aktu urodzenia dziecka, które urodziło się martwe,
+
+- **2)** wzory protokołów:
+    - **a)** zgłoszenia urodzenia,
+    - **b)** uznania ojcostwa,
+    - **c)** przyjęcia oświadczeń o wstąpieniu w związek małżeński,
+    - **d)** przyjęcia oświadczenia rozwiedzionego małżonka o powrocie do nazwiska noszonego przed zawarciem małżeństwa,
+    - **e)** zgłoszenia zgonu,
+    - **f)** przyjęcia oświadczeń, o których mowa w art. 88 § 3 Kodeksu rodzinnego i opiekuńczego,
+    - **g)** przyjęcia oświadczeń małżonków, że dziecko będzie nosiło takie samo nazwisko, jakie nosi albo nosiłoby ich wspólne dziecko,
+    - **h)** przyjęcia oświadczenia o zmianie imienia lub imion,
+
+- **3)** wzory:
+    - **a)** zaświadczenia potwierdzającego uznanie ojcostwa,
+    - **b)** zaświadczenia stwierdzającego brak okoliczności wyłączających zawarcie małżeństwa,
+    - **c)** zaświadczenia stwierdzającego, że oświadczenia o wstąpieniu w związek małżeński zostały złożone w obecności duchownego,
+    - **d)** zaświadczenia stwierdzającego, że zgodnie z prawem polskim można zawrzeć małżeństwo,
+    - **e)** zaświadczenia o zamieszczonych lub niezamieszczonych w rejestrze stanu cywilnego danych dotyczących wskazanej osoby, w tym w postaci elektronicznej,
+    - **f)** wniosku o wydanie zaświadczenia o stanie cywilnym, w tym w postaci elektronicznej,
+    - **g)** zaświadczenia o stanie cywilnym, w tym w postaci elektronicznej,
+
+- **4)** wzór zapewnienia, że osoby zamierzające zawrzeć małżeństwo nie wiedzą o istnieniu okoliczności wyłączających zawarcie tego małżeństwa – uwzględniając zakres danych wymaganych do sporządzenia aktu urodzenia, aktu małżeństwa i aktu zgonu oraz ich odpisów, danych koniecznych do uznania ojcostwa, informacji i danych zamieszczanych w protokołach, oświadczeniach, zaświadczeniach lub zapewnieniu, umożliwiających sporządzanie aktów stanu cywilnego.
+
 **Art. 34.** Minister właściwy do spraw wewnętrznych zapewnia kierownikom urzędów stanu cywilnego blankiety odpisów aktów stanu cywilnego, zaświadczeń o stanie cywilnym i zaświadczeń stwierdzających, że zgodnie z prawem polskim można zawrzeć małżeństwo.
 
 #### Rozdział 4 Zmiany w aktach stanu cywilnego
@@ -389,6 +416,9 @@ Art. 114–123. (pominięte)
 8. Kierownik urzędu stanu cywilnego, dokonując sprostowania, wydaje wnioskodawcy odpis zupełny sprostowanego aktu stanu cywilnego.
 
 **Art. 36.** Sprostowania aktu stanu cywilnego dokonuje sąd w postępowaniu nieprocesowym, na wniosek osoby zainteresowanej, prokuratora lub kierownika urzędu stanu cywilnego, jeżeli:
+
+- **1)** sprostowanie aktu stanu cywilnego jest niemożliwe na podstawie akt zbiorowych rejestracji stanu cywilnego lub innych aktów stanu cywilnego, o ile stwierdzają one zdarzenie wcześniejsze i dotyczą tej samej osoby lub jej wstępnych albo zagranicznych dokumentów stanu cywilnego, o których mowa w art. 35 ust. 2;
+- **2)** sprostowanie aktu stanu cywilnego przez kierownika urzędu stanu cywilnego nie jest możliwe wyłącznie na podstawie dokumentów wymienionych w pkt 1.
 
 **Art. 37.**
 
@@ -431,6 +461,9 @@ Art. 114–123. (pominięte)
 2. Postępowanie, o którym mowa w ust. 1, wszczyna się z urzędu lub na wniosek osoby, której akt dotyczy, osoby mającej w tym interes prawny lub prokuratora.
 
 **Art. 40.** Ustalenia treści aktu stanu cywilnego dokonuje sąd w postępowaniu nieprocesowym, jeżeli postanowił o sporządzeniu nowego aktu stanu cywilnego, albo na wniosek osoby zainteresowanej, prokuratora lub kierownika urzędu stanu cywilnego, jeżeli:
+
+- **1)** unieważniony akt stanu cywilnego ma być zastąpiony nowym aktem;
+- **2)** akt urodzenia lub akt małżeństwa nie został sporządzony i nie może go sporządzić kierownik urzędu stanu cywilnego.
 
 **Art. 41.**
 
@@ -561,6 +594,12 @@ Art. 114–123. (pominięte)
 
 **Art. 50.** Zaświadczenie o zamieszczonych lub niezamieszczonych w rejestrze stanu cywilnego danych dotyczących wskazanej osoby zawiera:
 
+- **1)** oznaczenie wnioskodawcy;
+- **2)** informację o sporządzonych aktach stanu cywilnego wskazanej osoby;
+- **3)** informację o zamieszczonych w rejestrze stanu cywilnego przypiskach przy akcie wskazanej osoby lub treść tych przypisków;
+- **4)** informację o zamieszczonych w rejestrze stanu cywilnego danych dotyczących wskazanej osoby lub treść tych danych, z wyłączeniem danych zawartych w akcie stanu cywilnego oraz danych zawartych w rejestrze uznań;
+- **5)** informację o niezamieszczeniu w rejestrze stanu cywilnego danych dotyczących wskazanej osoby lub przypisków przy akcie wskazanej osoby.
+
 **Art. 51.** Dokumenty z rejestru stanu cywilnego wydaje się przez okresy przechowywania aktów, o których mowa w art. 28 ust. 1 i 3, a także po upływie tych okresów, a przed przekazaniem aktów stanu cywilnego do właściwego archiwum państwowego.
 
 #### Rozdział 6 Rodzaje aktów stanu cywilnego
@@ -617,6 +656,18 @@ Art. 114–123. (pominięte)
 
 **Art. 58.** Protokół zgłoszenia urodzenia zawiera:
 
+- **1)** nazwiska, imiona oraz nazwiska rodowe, daty i miejsca urodzenia rodziców dziecka, numery PESEL rodziców dziecka, jeżeli zostały nadane;
+- **2)** oświadczenie o wyborze imienia lub imion dziecka;
+- **3)** nazwisko dziecka;
+- **4)** datę i miejsce urodzenia dziecka;
+- **5)** obywatelstwo dziecka;
+- **6)** obywatelstwo rodziców dziecka;
+- **7)** nazwisko i imię osoby zgłaszającej urodzenie oraz oznaczenie dokumentu tożsamości tej osoby;
+- **8)** miejsce sporządzenia aktu małżeństwa i oznaczenie tego aktu lub miejsce sporządzenia aktu urodzenia każdego z rodziców dziecka i oznaczenie tych aktów;
+- **9)** nazwisko i imię biegłego lub tłumacza, jeżeli brał udział w czynności;
+- **10)** adres do korespondencji osoby zgłaszającej urodzenie;
+- **11)** nazwisko i imię kierownika urzędu stanu cywilnego przyjmującego zgłoszenie.
+
 **Art. 58a.**
 
 1. Matka lub ojciec dziecka posiadający pełną zdolność do czynności prawnych mogą dokonać zgłoszenia urodzenia przy użyciu usługi elektronicznej udostępnionej przez ministra właściwego do spraw informatyzacji po uwierzytelnieniu w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
@@ -653,6 +704,13 @@ Art. 114–123. (pominięte)
 4. Kierownik urzędu stanu cywilnego odmawia przyjęcia oświadczenia o wyborze imienia lub imion dziecka, jeżeli wybrane imię lub imiona są w formie zdrobniałej lub mają charakter ośmieszający lub nieprzyzwoity lub nie wskazują na płeć dziecka, kierując się powszechnym znaczeniem imienia, i wybiera dziecku imię z urzędu, w formie decyzji administracyjnej podlegającej natychmiastowemu wykonaniu, z adnotacją zamieszczoną w akcie urodzenia o wyborze imienia z urzędu.
 
 **Art. 60.** Akt urodzenia zawiera:
+
+- **1)** nazwisko, imię (imiona) dziecka;
+- **2)** kraj, datę i miejsce urodzenia dziecka;
+- **3)** płeć dziecka;
+- **4)** nazwiska, imiona oraz nazwiska rodowe, daty i miejsca urodzenia rodziców dziecka;
+- **5)** nazwisko i imię osoby zgłaszającej urodzenie;
+- **6)** nazwisko i imię biegłego lub tłumacza, jeżeli brał udział w czynności.
 
 **Art. 61.**
 
@@ -899,6 +957,11 @@ Art. 114–123. (pominięte)
 **Art. 77.** Obywatel polski, który zamierza wstąpić w związek małżeński, lecz nie posiada aktów stanu cywilnego sporządzonych w Rzeczypospolitej Polskiej, składa zagraniczny dokument stanu cywilnego lub inny dokument wydany w państwie, w którym nie jest prowadzona rejestracja stanu cywilnego, potwierdzający urodzenie, a jeżeli osoba pozostawała uprzednio w związku małżeńskim – potwierdzający małżeństwo, wraz z dokumentem potwierdzającym ustanie lub unieważnienie tego małżeństwa albo dokumentem potwierdzającym stwierdzenie nieistnienia małżeństwa.
 
 **Art. 78.** Dokumentami potwierdzającymi ustanie, unieważnienie albo stwierdzenie nieistnienia małżeństwa są w szczególności:
+
+- **1)** odpis skrócony aktu zgonu lub odpis prawomocnego orzeczenia sądu o stwierdzeniu zgonu lub uznaniu za zmarłego poprzedniego małżonka;
+- **2)** odpis prawomocnego orzeczenia sądu o rozwodzie;
+- **3)** odpis prawomocnego orzeczenia sądu o unieważnieniu małżeństwa;
+- **4)** odpis prawomocnego orzeczenia sądu ustalającego nieistnienie małżeństwa.
 
 **Art. 79.**
 
@@ -1292,6 +1355,10 @@ Art. 114–123. (pominięte)
 
 **Art. 107.** Kierownik urzędu stanu cywilnego odmawia dokonania transkrypcji, jeżeli:
 
+- **1)** dokument w państwie wystawienia nie jest uznawany za dokument stanu cywilnego lub nie ma mocy dokumentu urzędowego, lub nie został wydany przez właściwy organ, lub budzi wątpliwości co do jego autentyczności, lub potwierdza zdarzenie inne niż urodzenie, małżeństwo lub zgon;
+- **2)** zagraniczny dokument powstał w wyniku transkrypcji w państwie innym niż państwo zdarzenia;
+- **3)** transkrypcja byłaby sprzeczna z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej.
+
 **Art. 108.**
 
 1. Jeżeli orzeczenie sądu państwa obcego lub rozstrzygnięcie innego organu państwa obcego podlega uznaniu na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”, wiążących Rzeczpospolitą Polską wielostronnych i dwustronnych umów międzynarodowych lub prawa Unii Europejskiej, kierownik urzędu stanu cywilnego dołącza wzmiankę dodatkową do aktu stanu cywilnego lub zamieszcza przypisek przy tym akcie.
@@ -1637,4 +1704,8 @@ Art. 114–123. (pominięte)
 **Art. 148.** Traci moc ustawa z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2011 r. poz. 1264 oraz z 2012 r. poz. 1529).
 
 **Art. 149.** Ustawa wchodzi w życie z dniem 1 marca 2015 r., z wyjątkiem:
+
+- **1)** art. 47 ust. 1, który wchodzi w życie z dniem 1 stycznia 2015 r.;
+- **2)** art. 53 ust. 2 i 3, art. 54 ust. 4 i 5, art. 114 w zakresie dodawanych w art. 11 ust. 3a–3e i ust. 4c oraz art. 123, które wchodzą w życie z dniem 1 stycznia 2024 r.
+
 

@@ -8,12 +8,10 @@ pos: 2512
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# ogłoszenia jednolitego tekstu rozporządzenia Ministra otrzymywania wyżywienia funkcjonariuszy
-
-*OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI dnia 10 listopada 2023 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2512 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,59 +25,81 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2512/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 r. 1461) ogłasza załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra dnia 24 września 2020 r. otrzymywania wyżywienia funkcjonariuszy 1659), uwzględnieniem zmian wprowadzonych: rozporządzeniem Ministra dnia 8 lutego 2023 r. zmieniającym rozporządzenie otrzymywania wyżywienia funkcjonariuszy 307);
-2) rozporządzeniem Ministra dnia 21 czerwca 2023 r. zmieniającym rozporządzenie otrzymywania wyżywienia funkcjonariuszy 1257).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje: 2 rozporządzenia Ministra dnia 8 lutego 2023 r. zmieniającego rozporządzenie otrzymywania wyżywienia funkcjonariuszy 307), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
-2) 2 rozporządzenia Ministra dnia 21 czerwca 2023 r. zmieniającego rozporządzenie otrzymywania wyżywienia funkcjonariuszy 1257), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem października 2023 r.”.
-Minister Administracji: wz. M. Wąsik Na podstawie art. 76 ust. 10 ustawy dnia 12 października 1990 r. o 2023 r. 1080, 1088, 1489, 1723 1860) zarządza się, co następuje:
-1. Rozporządzenie określa: rodzaje norm wyżywienia dla funkcjonariuszy Granicznej, zwanych dalej „funkcjonariuszami”, oraz ich wartość pieniężną;
-2) średnie wartości energetyczne odżywcze produktów żywnościowych objętych poszczególnymi normami;
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1659), z uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającym rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 307);
+2) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającym rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1257).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 307), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1257), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.”.
+Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 września 2020 r.
+w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej Na podstawie art. 76 ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723 i 1860) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) rodzaje norm wyżywienia dla funkcjonariuszy Straży Granicznej, zwanych dalej „funkcjonariuszami”, oraz ich wartość pieniężną;
+2) średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami;
 3) przypadki przyznawania poszczególnych norm wyżywienia;
-4) przypadki, których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia;
-5) wartości świadczenia pieniężnego zamian za wyżywienie oraz wymiar jego podwyższania, a także jednostkę organizacyjną właściwą jego wypłacania termin jego wypłaty.
-2. Ustala następujące rodzaje norm wyżywienia: zasadnicze:
-a) szkolną, zwaną dalej „normą SZ”, która składa trzech posiłków odpowiadających procentowej wartości pieniężnej normy wyżywienia następujących proporcjach: śniadanie 25%, obiad 50%, kolacja 25%,
-b) lotniczą, zwaną dalej „normą LOT”, składającą trzech posiłków odpowiadających procentowej wartości pieniężnej normy wyżywienia następujących proporcjach: śniadanie 25%, obiad 50%, kolacja 25%;
+4) przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia;
+5) wartości świadczenia pieniężnego w zamian za wyżywienie oraz wymiar jego podwyższania, a także jednostkę organizacyjną Straży Granicznej właściwą do jego wypłacania i termin jego wypłaty.
+§ 2. Ustala się następujące rodzaje norm wyżywienia:
+1) zasadnicze:
+a) szkolną, zwaną dalej „normą SZ”, która składa się z trzech posiłków odpowiadających procentowej wartości pieniężnej normy wyżywienia w następujących proporcjach: – śniadanie – 25%, – obiad – 50%, – kolacja – 25%,
+b) lotniczą, zwaną dalej „normą LOT”, składającą się z trzech posiłków odpowiadających procentowej wartości pieniężnej normy wyżywienia w następujących proporcjach: – śniadanie – 25%, – obiad – 50%, – kolacja – 25%;
 2) dodatkowe:
 a) uzupełniającą, zwaną dalej „normą DU”,
 b) szczególną, zwaną dalej „normą DS”.
-3. 1. Średnia wartość energetyczna produktów żywnościowych objętych poszczególnymi normami wyżywienia wynosi: normą SZ co najmniej 2600 kcal;
-2) normą LOT co najmniej 3177 kcal;
-3) normą DU co najmniej 1011 kcal;
-4) normą DS co najmniej 577 kcal.
-2) za normę LOT 30 zł;
-3) za normę DU 7 zł;
-4) za normę DS 4 zł;
-5) za normę SZ uzupełnioną o 7 zł 32 zł;
-6) za normę SZ uzupełnioną o 5 zł 30 zł;
-7) za normę SZ uzupełnioną o 4 zł 29 zł.
-5. Norma SZ naturze przysługuje funkcjonariuszowi, który: na podstawie decyzji kierownika jednostki organizacyjnej przebywa jest zakwaterowany na terenie działania podległej mu jednostki lub przebywa na terenie działania tej jednostki zakazem opuszczania miejsca służby trwającego ponad 12 godzin;
+§ 3. 1. Średnia wartość energetyczna produktów żywnościowych objętych poszczególnymi normami wyżywienia wynosi:
+1) normą SZ – co najmniej 2600 kcal;
+2) normą LOT – co najmniej 3177 kcal;
+3) normą DU – co najmniej 1011 kcal;
+4) normą DS – co najmniej 577 kcal.
+2. Średnia wartość odżywcza norm wyżywienia, wyrażona procentowo, wynosi:
+1) białko – 10–15%;
+2) tłuszcze – poniżej 30%;
+3) węglowodany – 50–65%.
+§ 4. Wartość pieniężna norm wyżywienia wynosi:
+1) za normę SZ – 25 zł;
+2) za normę LOT – 30 zł;
+3) za normę DU – 7 zł;
+4) za normę DS – 4 zł;
+5) za normę SZ uzupełnioną o 7 zł – 32 zł;
+6) za normę SZ uzupełnioną o 5 zł – 30 zł;
+7) za normę SZ uzupełnioną o 4 zł – 29 zł.
+§ 5. Norma SZ w naturze przysługuje funkcjonariuszowi, który:
+1) na podstawie decyzji kierownika jednostki organizacyjnej Straży Granicznej przebywa i jest zakwaterowany na terenie działania podległej mu jednostki lub przebywa na terenie działania tej jednostki z zakazem opuszczania miejsca służby trwającego ponad 12 godzin;
 2) pełni służbę kandydacką;
-3) uczestniczy jako słuchacz kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze ośrodkach szkolenia lub jednostkach organizacyjnych oraz na praktykach jednostkach organizacyjnych komórkach organizacyjnych Komendy Głównej Granicznej połączonych zakwaterowaniem za czas faktycznego przebywania miejscu zakwaterowania;
-4) bierze udział działaniach, o których mowa art. 76 ust. 2 pkt 2 ustawy dnia 12 października 1990 r. o Granicznej, zwanej dalej „ustawą”;
-5) pełni całodobowo służbę, wyłączeniem funkcjonariusza pełniącego tę służbę etatowo;
-6) wchodzi skład etatowych załóg jednostek pływających dniach pełnienia służby;
-7) został skierowany wykonywania zadań służbowych na jednostki pływające na czas powyżej 8 godzin;
-8) został skierowany wykonywania czynności służbowych poza miejscem stałego pełnienia służby warunkach, których przysługuje dieta na pokrycie zwiększonych kosztów wyżywienia, jeżeli ta dieta nie została wypłacona;
-9) bierze udział uroczystym posiłku organizowanym punkcie żywienia Granicznej, szczególności po zakończonym szkoleniu kwalifikowanym;
-10) jest żywiony punkcie żywienia Granicznej, według normy, o której mowa art. 76 ust. 8 ustawy, która przysługuje największej grupie funkcjonariuszy uprawnionych wyżywienia tym punkcie żywienia Granicznej, wyłączeniem przypadku, o którym mowa 11 pkt 3.
-6. Norma LOT naturze przysługuje funkcjonariuszowi, który wykonuje loty pełni służbę składzie personelu latającego lub pozostaje gotowości pełnienia dyżurów lotniczych, wyłączeniem przypadku zawieszenia lotach.
-7. Norma DU naturze przysługuje funkcjonariuszowi, który wchodzi skład lotniczego personelu technicznego, za czas pełnienia służby.
-8. 1. Norma DS naturze przysługuje funkcjonariuszowi, który bierze udział akcjach przywracania porządku publicznego lub wykonuje czynności służbowe na rzecz innych formacji resortu spraw wewnętrznych zasięgu terytorialnym oddziału właściwym dla miejsca pełnienia służby, warunkach szczególnych, powodujących konieczność pełnienia służby połączonej ze znacznym wysiłkiem okres powyżej 10 godzin.
-należy pododdziału odwodowego bierze bezpośredni udział trwających ponad 8 godzin działaniach granicznych mających na celu zapewnienie porządku zasięgu terytorialnym przejścia granicznego lub strefie nadgranicznej;
-2) jest zaokrętowany na jednostce pływającej Granicznej:
-a) czasie pobytu na wodach śródlądowych oraz na polskich obszarach morskich, wyłączeniem wód portów,
-b) dniach pełnienia dyżurów porcie.
-11. Norma, o której mowa 4 pkt 7, przysługuje naturze funkcjonariuszowi, który: jest słuchaczem ośrodka szkolenia Granicznej, czasie zajęć terenowych wymagających zwiększonego wysiłku fizycznego związku praktycznym szkoleniem psów patrolowo-obronnych tropiących;
-2) bierze udział działaniach, o których mowa art. 76 ust. 2 pkt 3 ustawy;
-3) uczestniczy kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze trwających sposób ciągły powyżej 8 godzin jednostkach organizacyjnych ośrodkach szkolenia Granicznej, których znajdują punkty żywienia Granicznej, wyłączeniem słuchaczy Wyższej Szkoły słuchaczy ośrodków szkolenia Granicznej;
-4) bierze udział działaniach granicznych oraz akcjach przywracania porządku publicznego lub wykonuje inne czynności służbowe na rzecz innych formacji resortu spraw wewnętrznych poza miejscem stałego pełnienia służby trwających sposób ciągły powyżej 8 godzin;
-5) jest funkcjonariuszem służbie kandydackiej bierze udział działaniach, o których mowa pkt 4 lub art. 76 ust. 2 pkt 3 ustawy.
-12. 1. Wartość świadczenia pieniężnego zamian za wyżywienie naturze jest równa wartości pieniężnej norm wyżywienia, o której mowa 4.
-2. Funkcjonariuszowi, który okresie od dnia listopada dnia 31 marca pełni co najmniej 4 godziny dziennie służbę na wolnym powietrzu, przysługuje świadczenie pieniężne kwocie 15 zł.
-13. Wartość świadczenia pieniężnego podwyższa się: za normę SZ o kwotę 25 zł przypadku, o którym mowa art. 76 ust. 7 pkt 2 ustawy;
-2) za normę LOT o kwotę 30 zł przypadku, o którym mowa art. 76 ust. 7 pkt 3 ustawy.
-14. 1. Świadczenie pieniężne wypłaca jednostka organizacyjna właściwa zapewnienia funkcjonariuszowi wyżywienia naturze lub właściwa ze względu na miejsce pełnienia służby uprawnionego funkcjonariusza.
-2. Wypłata świadczenia pieniężnego zamian za wyżywienie następuje raz miesiącu dołu, nie później niż ciągu dwóch miesięcy kalendarzowych następujących po miesiącu, którym zaistniała okoliczność wypłaty świadczenia pieniężnego.
-15. Rozporządzenie wchodzi życie dniem października 2020 r.
+3) uczestniczy jako słuchacz w kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze w ośrodkach szkolenia lub jednostkach organizacyjnych Straży Granicznej oraz na praktykach w jednostkach organizacyjnych Straży Granicznej i komórkach organizacyjnych Komendy Głównej Straży Granicznej – połączonych z zakwaterowaniem za czas faktycznego przebywania w miejscu zakwaterowania;
+4) bierze udział w działaniach, o których mowa w art. 76 ust. 2 pkt 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej, zwanej dalej „ustawą”;
+5) pełni całodobowo służbę, z wyłączeniem funkcjonariusza pełniącego tę służbę etatowo;
+6) wchodzi w skład etatowych załóg jednostek pływających Straży Granicznej – w dniach pełnienia służby;
+7) został skierowany do wykonywania zadań służbowych na jednostki pływające Straży Granicznej na czas powyżej 8 godzin;
+8) został skierowany do wykonywania czynności służbowych poza miejscem stałego pełnienia służby w warunkach, w których przysługuje dieta na pokrycie zwiększonych kosztów wyżywienia, jeżeli ta dieta nie została wypłacona;
+9) bierze udział w uroczystym posiłku organizowanym w punkcie żywienia Straży Granicznej, w szczególności po zakończonym szkoleniu kwalifikowanym;
+10) jest żywiony w punkcie żywienia Straży Granicznej, według normy, o której mowa w art. 76 ust. 8 ustawy, która przysługuje największej grupie funkcjonariuszy uprawnionych do wyżywienia w tym punkcie żywienia Straży Granicznej, z wyłączeniem przypadku, o którym mowa w § 11 pkt 3.
+§ 6. Norma LOT w naturze przysługuje funkcjonariuszowi, który wykonuje loty i pełni służbę w składzie personelu latającego lub pozostaje w gotowości do pełnienia dyżurów lotniczych, z wyłączeniem przypadku zawieszenia w lotach.
+§ 7. Norma DU w naturze przysługuje funkcjonariuszowi, który wchodzi w skład lotniczego personelu technicznego, za czas pełnienia służby.
+§ 8. 1. Norma DS w naturze przysługuje funkcjonariuszowi, który bierze udział w akcjach przywracania porządku publicznego lub wykonuje czynności służbowe na rzecz innych formacji resortu spraw wewnętrznych w zasięgu terytorialnym oddziału Straży Granicznej właściwym dla miejsca pełnienia służby, w warunkach szczególnych, powodujących konieczność pełnienia służby połączonej ze znacznym wysiłkiem przez okres powyżej 10 godzin.
+2. Norma DS nie przysługuje funkcjonariuszowi, który korzysta w tym czasie z całodziennego wyżywienia według normy SZ lub normy LOT.
+§ 9. Norma, o której mowa w § 4 pkt 5, przysługuje w naturze funkcjonariuszowi, który:
+1) bierze udział w zawodach sportowych oraz przebywa na obozach kondycyjnych i zgrupowaniach szkoleniowych przed tymi zawodami;
+2) wykonuje czynności pod wodą w charakterze płetwonurka;
+3) uczestniczy w obozach i zgrupowaniach połączonych z dużym wysiłkiem fizycznym, jeśli obozy i zgrupowania dotyczą zabezpieczenia fizycznego czynności operacyjno-rozpoznawczych lub dochodzeniowo-śledczych.
+§ 10. Norma, o której mowa w § 4 pkt 6, przysługuje w naturze funkcjonariuszowi, który:
+1) należy do pododdziału odwodowego i bierze bezpośredni udział w trwających ponad 8 godzin działaniach granicznych mających na celu zapewnienie porządku w zasięgu terytorialnym przejścia granicznego lub w strefie nadgranicznej;
+2) jest zaokrętowany na jednostce pływającej Straży Granicznej:
+a) w czasie pobytu na wodach śródlądowych oraz na polskich obszarach morskich, z wyłączeniem wód portów,
+b) w dniach pełnienia dyżurów w porcie.
+§ 11. Norma, o której mowa w § 4 pkt 7, przysługuje w naturze funkcjonariuszowi, który:
+1) jest słuchaczem ośrodka szkolenia Straży Granicznej, w czasie zajęć terenowych wymagających zwiększonego wysiłku fizycznego w związku z praktycznym szkoleniem psów patrolowo-obronnych i tropiących;
+2) bierze udział w działaniach, o których mowa w art. 76 ust. 2 pkt 3 ustawy;
+3) uczestniczy w kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze trwających w sposób ciągły powyżej 8 godzin w jednostkach organizacyjnych i ośrodkach szkolenia Straży Granicznej, w których znajdują się punkty żywienia Straży Granicznej, z wyłączeniem słuchaczy Wyższej Szkoły Straży Granicznej i słuchaczy ośrodków szkolenia Straży Granicznej;
+4) bierze udział w działaniach granicznych oraz akcjach przywracania porządku publicznego lub wykonuje inne czynności służbowe na rzecz innych formacji resortu spraw wewnętrznych poza miejscem stałego pełnienia służby trwających w sposób ciągły powyżej 8 godzin;
+5) jest funkcjonariuszem w służbie kandydackiej i bierze udział w działaniach, o których mowa w pkt 4 lub w art. 76 ust. 2 pkt 3 ustawy.
+§ 12. 1. Wartość świadczenia pieniężnego w zamian za wyżywienie w naturze jest równa wartości pieniężnej norm wyżywienia, o której mowa w § 4.
+2. Funkcjonariuszowi, który w okresie od dnia 1 listopada do dnia 31 marca pełni przez co najmniej 4 godziny dziennie służbę na wolnym powietrzu, przysługuje świadczenie pieniężne w kwocie 15 zł.
+§ 13. Wartość świadczenia pieniężnego podwyższa się:
+1) za normę SZ – o kwotę 25 zł w przypadku, o którym mowa w art. 76 ust. 7 pkt 1 i 2 ustawy;
+2) za normę LOT – o kwotę 30 zł w przypadku, o którym mowa w art. 76 ust. 7 pkt 3 ustawy.
+§ 14. 1. Świadczenie pieniężne wypłaca jednostka organizacyjna Straży Granicznej właściwa do zapewnienia funkcjonariuszowi wyżywienia w naturze lub właściwa ze względu na miejsce pełnienia służby przez uprawnionego funkcjonariusza.
+2. Wypłata świadczenia pieniężnego w zamian za wyżywienie następuje raz w miesiącu z dołu, nie później niż w ciągu dwóch miesięcy kalendarzowych następujących po miesiącu, w którym zaistniała okoliczność wypłaty świadczenia pieniężnego.
+§ 15. Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
 

@@ -8,10 +8,10 @@ pos: 831
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 maja 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 831 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 30 kwietnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/831/text.pdf) |
 
-Poz. 831 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 30 kwietnia 2020 r.
-w sprawie wyznaczenia koordynatorów delegowanych w dziale sprawiedliwość oraz zakresu zadań przekazanych do realizacji koordynatorom delegowanym Na podstawie art. 12 ust. 3 ustawy z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej (Dz. U. poz. 860) zarządza się, co następuje: § 1. Wyznacza się koordynatorów delegowanych w dziale sprawiedliwość do realizacji niektórych zadań organu centralnego w zakresie obejmującym wydawane dokumenty urzędowe, o których mowa w art. 2 pkt 3, 4, 7–10, 16–31, 34 ustawy z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej, oraz przyjmowane dokumenty urzędowe, o których mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1191 z dnia 6 lipca 2016 roku w sprawie promowania swobodnego przepływu obywateli poprzez uproszczenie wymogów dotyczących przedkładania określonych dokumentów urzędowych w Unii Europejskiej i zmieniającego rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 200 z 26.07.2016, str. 1), zwanego dalej „rozporządzeniem 2016/1191”.
+w sprawie wyznaczenia koordynatorów delegowanych w dziale sprawiedliwość oraz zakresu zadań przekazanych do realizacji koordynatorom delegowanym Na podstawie art. 12 ust. 3 ustawy z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej (Dz. U. poz. 860) zarządza się, co następuje:
+§ 1. Wyznacza się koordynatorów delegowanych w dziale sprawiedliwość do realizacji niektórych zadań organu centralnego w zakresie obejmującym wydawane dokumenty urzędowe, o których mowa w art. 2 pkt 3, 4, 7–10, 16–31, 34 ustawy z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej, oraz przyjmowane dokumenty urzędowe, o których mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1191 z dnia 6 lipca 2016 roku w sprawie promowania swobodnego przepływu obywateli poprzez uproszczenie wymogów dotyczących przedkładania określonych dokumentów urzędowych w Unii Europejskiej i zmieniającego rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 200 z 26.07.2016, str. 1), zwanego dalej „rozporządzeniem 2016/1191”.
 § 2. Właściwy miejscowo prezes sądu apelacyjnego pełni funkcję koordynatora delegowanego wobec nadzorowanych sądów.
 § 3. Prezes rady właściwej izby notarialnej pełni funkcję koordynatora delegowanego wobec nadzorowanych przez tę radę notariuszy.
 § 4. Pełniąc funkcję koordynatora delegowanego, właściwy miejscowo prezes sądu apelacyjnego oraz prezes rady właściwej izby notarialnej wykonują następujące zadania:

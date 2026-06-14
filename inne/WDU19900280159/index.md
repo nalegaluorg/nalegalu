@@ -8,7 +8,7 @@ pos: 159
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # U S T A W A o zniesieniu 22 lipca jako Narodowego Święta Odrodzenia Polski Znosi się 22 lipca jako dzień Narodowego Święta Odrodzenia Polski.

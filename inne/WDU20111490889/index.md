@@ -8,7 +8,7 @@ pos: 889
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 61/6/A/2011 WYROK z dnia 20 lipca 2011 r.

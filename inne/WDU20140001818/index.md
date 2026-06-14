@@ -8,10 +8,10 @@ pos: 1818
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1818 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 listopada 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1818/text.pdf) |
 
-ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 listopada 2014 r.
-w sprawie regulaminu organizacyjnego Komitetu Offsetowego Na podstawie art. 26 ust. 5 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932) zarządza się, co następuje: § 1. 1. Komitetowi Offsetowemu nadaje się regulamin organizacyjny.
+w sprawie regulaminu organizacyjnego Komitetu Offsetowego Na podstawie art. 26 ust. 5 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932) zarządza się, co następuje:
+§ 1. 1. Komitetowi Offsetowemu nadaje się regulamin organizacyjny.
 2. Regulamin organizacyjny Komitetu Offsetowego stanowi załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: E. Kopacz REGULAMIN ORGANIZACYJNY KOMITETU OFFSETOWEGO § 1. 1. Na wniosek Ministra Obrony Narodowej organy, o których mowa w art. 26 ust. 2 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932), zwanej dalej „ustawą”, delegują swoich przedstawicieli do Komitetu Offsetowego, zwanego dalej „Komitetem”.
+Prezes Rady Ministrów: E. Kopacz REGULAMIN ORGANIZACYJNY KOMITETU OFFSETOWEGO
+§ 1. 1. Na wniosek Ministra Obrony Narodowej organy, o których mowa w art. 26 ust. 2 ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932), zwanej dalej „ustawą”, delegują swoich przedstawicieli do Komitetu Offsetowego, zwanego dalej „Komitetem”.
 2. Sekretarzem Komitetu jest szef (dyrektor) komórki lub jednostki organizacyjnej Ministerstwa Obrony Narodowej, do której zadań należy obsługa administracyjno-organizacyjna Komitetu.
 3. Do zadań sekretarza Komitetu należy w szczególności przygotowywanie:
 1) projektów zawiadomień, o których mowa w § 2 ust. 3;
@@ -41,7 +42,7 @@ Prezes Rady Ministrów: E. Kopacz REGULAMIN ORGANIZACYJNY KOMITETU OFFSETOWEGO �
 7) projektu sprawozdania, o którym mowa w § 6 ust. 1.
 4. W przypadku nieobecności członka Komitetu może go zastępować w jego pracach inna osoba pisemnie upoważniona przez właściwy organ.
 § 2. 1. Komitet obraduje na posiedzeniach.
-2. Posiedzenie Komitetu zwołuje i prowadzi przewodniczący Komitetu, a w przypadku nieobecności przewodniczącego jego zastępca.
+2. Posiedzenie Komitetu zwołuje i prowadzi przewodniczący Komitetu, a w przypadku nieobecności przewodniczącego – jego zastępca.
 3. Zawiadomienia o terminie, miejscu i porządku obrad Komitetu są przekazywane członkom Komitetu i innym osobom zaproszonym na posiedzenie nie później niż na 5 dni roboczych przed wyznaczonym terminem posiedzenia.
 4. W szczególnie uzasadnionych przypadkach posiedzenie może być zwołane w trybie pilnym. W zawiadomieniu podaje się wówczas dodatkowo przyczynę zwołania posiedzenia w tym trybie.
 § 3. 1. Prowadzący posiedzenie Komitetu:

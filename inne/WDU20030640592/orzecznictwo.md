@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego*
 
-Łącznie: **205** orzeczeń
-(pominięto 232 orzeczeń sądów rejonowych)
+Łącznie: **206** orzeczeń
+(pominięto 235 orzeczeń sądów rejonowych)
 
 ## art. 1 (6)
 
@@ -266,7 +266,7 @@ Orzeczenia powołujące: *Ustawa z dnia 11 kwietnia 2003 r. o kształtowaniu ust
 
 - 2012-09-05 | SN | [IV CSK 93/12](https://www.saos.org.pl/judgments/98954) | Wyrok ★
 
-## (ogólnie) (58)
+## (ogólnie) (59)
 
 - 2021-03-01 | SO | [I ACa 435/19](https://www.saos.org.pl/judgments/464637) | Wyrok
 - 2020-02-26 | SO | [I ACa 75/19](https://www.saos.org.pl/judgments/429732) | Wyrok
@@ -292,6 +292,7 @@ Orzeczenia powołujące: *Ustawa z dnia 11 kwietnia 2003 r. o kształtowaniu ust
 - 2013-06-21 | SO | [V ACa 260/13](https://www.saos.org.pl/judgments/26370) | Wyrok
 - 2013-06-06 | SO | [I ACa 107/13](https://www.saos.org.pl/judgments/15311) | Wyrok
 - 2020-06-17 | SO | [II AKa 65/20](https://www.saos.org.pl/judgments/420298) | Uzasadnienie
+- 2026-02-20 | SO | [I C 57/25](https://www.saos.org.pl/judgments/545193) | Wyrok
 - 2022-07-13 | SO | [XII C 930/20](https://www.saos.org.pl/judgments/468981) | Wyrok
 - 2022-06-13 | SO | [XIV C 305/21](https://www.saos.org.pl/judgments/468074) | Wyrok
 - 2019-03-29 | SO | [XVIII C 1141/17](https://www.saos.org.pl/judgments/417233) | Wyrok

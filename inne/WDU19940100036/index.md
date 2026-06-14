@@ -8,7 +8,7 @@ pos: 36
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin
@@ -32,6 +32,18 @@ source: "isap-pdf"
 **Art. 1.** Żołnierzom zwolnionym z zawodowej służby wojskowej przysługuje z budżetu państwa, na zasadach określonych w ustawie, zaopatrzenie emerytalne z tytułu wysługi lat lub w razie całkowitej niezdolności do służby, a członkom ich rodzin – w razie śmierci żywiciela.
 
 **Art. 2.** W ramach zaopatrzenia emerytalnego przysługują na zasadach określonych w ustawie:
+
+- **1)** świadczenia pieniężne:
+    - **a)** emerytura wojskowa,
+    - **b)** wojskowa renta inwalidzka,
+    - **c)** wojskowa renta rodzinna,
+    - **d)** dodatki do emerytury lub renty,
+    - **e)** zasiłek pogrzebowy;
+
+- **2)** inne świadczenia i uprawnienia:
+    - **a)** świadczenia lecznicze,
+    - **b)** świadczenia socjalne,
+    - **c)** prawo do umieszczenia w domu emeryta wojskowego.
 
 **Art. 3.**
 
@@ -72,6 +84,12 @@ source: "isap-pdf"
 
 **Art. 6.** Emerytury i renty oraz podstawy ich wymiaru podlegają waloryzacji na zasadach i w terminach przewidzianych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z tym że:
 
+- **1)** waloryzacja, o której mowa w art. 88 tej ustawy, obejmuje emerytury i renty osób:
+    - **a)** którym prawo do świadczenia ustalono przed dniem 1 marca,
+    - **b)** które nabyły prawo do renty rodzinnej po żołnierzach zawodowych zmarłych nie później niż w ostatnim dniu lutego.
+
+- **2)** (uchylony)
+
 **Art. 6a.**
 
 1. Jeżeli żołnierz zwolniony z czynnej służby nie spełnia warunków do nabycia prawa do emerytury wojskowej lub wojskowej renty inwalidzkiej, od uposażenia wypłaconego żołnierzowi po dniu 31 grudnia 1998 r. do dnia zwolnienia ze służby, od którego nie odprowadzono składki na ubezpieczenia emerytalne i rentowe, przekazuje się do Zakładu Ubezpieczeń Społecznych składki za ten okres przewidziane w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497, 863, 1243 i 1615).
@@ -101,6 +119,10 @@ source: "isap-pdf"
 10. (uchylony)
 
 **Art. 7.** W razie zbiegu prawa do emerytury lub renty przewidzianych w ustawie z prawem do:
+
+- **1)** emerytury lub renty przewidzianych w odrębnych przepisach albo
+- **2)** uposażenia w stanie spoczynku lub uposażenia rodzinnego przewidzianych w odrębnych przepisach, albo
+- **3)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658) – wypłaca się świadczenie wyższe albo wybrane przez osobę uprawnioną, jeżeli przepisy szczególne nie stanowią inaczej.
 
 **Art. 8.**
 
@@ -218,6 +240,25 @@ source: "isap-pdf"
 
 **Art. 15a.** Emerytura dla żołnierza, który został powołany do zawodowej służby wojskowej po raz pierwszy po dniu 1 stycznia 1999 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby wojskowej i wzrasta według zasad określonych w art. 15 ust. 1 pkt 1 i ust. 1a–5. Art. 15aa. 1. Emerytura dla żołnierza, który został przyjęty do służby po raz pierwszy w okresie po dniu 1 stycznia 1999 r. i przed dniem 1 października 2003 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta o 2,6 % podstawy wymiaru za każdy dalszy rok tej służby. 2. Emeryturę podwyższa się na zasadach określonych w art. 15 ust. 2–5. 3. Emerytura dla żołnierza, o którym mowa w ust. 1, który w dniu zwolnienia ze służby posiada co najmniej 25 lat służby i okresów z nią równorzędnych, o których mowa w art. 13 ust. 1, wzrasta również o 1,3 % podstawy wymiaru za każdy rok poprzedzających służbę:
 
+- **1)** okresów składkowych;
+- **2)** okresów opłacania składek na ubezpieczenia emerytalne i rentowe po dniu 31 grudnia 1998 r. lub okresów nieopłacania składek z powodu przekroczenia w trakcie roku kalendarzowego kwoty rocznej podstawy wymiaru składek na te ubezpieczenia.
+
+4. Emerytowi uprawnionemu do emerytury obliczonej na podstawie ust. 1–3, spełniającemu warunek, o którym mowa w ust. 3, dolicza się, na jego wniosek, do wysługi emerytalnej przypadające po zwolnieniu ze służby okresy opłacania składek na ubezpieczenia emerytalne i rentowe po dniu 31 grudnia 1998 r. lub okresy nieopłacania składek z powodu przekroczenia w trakcie roku kalendarzowego kwoty rocznej podstawy wymiaru składek na te ubezpieczenia.
+
+5. Okresy, o których mowa w ust. 4, dolicza się do wysługi emerytalnej, jeżeli emerytura wynosi mniej niż 75 % podstawy jej wymiaru.
+
+6. Za każdy rok okresów, o których mowa w ust. 4, doliczanych do wysługi emerytalnej zgodnie z ust. 4 i 5, emeryturę obliczoną na podstawie ust. 1–3 zwiększa się o 1,3 % podstawy jej wymiaru.
+
+7. Ponowne ustalenie wysokości emerytury przez doliczenie nieuwzględnionych dotychczas w wymiarze świadczenia okresów, o których mowa w ust. 4, następuje z uwzględnieniem pełnych miesięcy na wniosek zgłoszony nie wcześniej niż po zakończeniu kwartału kalendarzowego, jeżeli emeryt pozostaje w ubezpieczeniu, chyba że ubezpieczenie ustało w kwartale kalendarzowym.
+
+8. W razie przyznania podwyższenia, o którym mowa w ust. 3, lub zwiększenia, o którym mowa w ust. 6, umowa między członkiem otwartego funduszu emerytalnego a tym funduszem ulega rozwiązaniu, a środki zgromadzone na rachunku członka w otwartym funduszu emerytalnym są niezwłocznie przekazywane na dochody budżetu państwa.
+
+9. Przekazanie środków, o których mowa w ust. 8, na dochody budżetu państwa następuje na podstawie zawiadomienia wojskowego organu emerytalnego. Art. 15ab. 1. Żołnierz, o którym mowa w art. 15aa, ma prawo wyboru sposobu ustalenia emerytury na zasadach i w wysokości określonych w art. 15a albo w art. 15aa.
+
+2. Oświadczenie o wyborze, o którym mowa w ust. 1, składa się do wojskowego organu emerytalnego najpóźniej w dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.
+
+3. W przypadku niedokonania wyboru, o którym mowa w ust. 1, emeryturę ustala się na zasadach i w wysokości określonych w art. 15a.
+
 **Art. 15b.**
 
 - **4)** W przypadku osoby, która była członkiem Wojskowej Rady Ocalenia Narodowego, emerytura wynosi 0,7 % podstawy wymiaru za każdy rok służby w Wojsku Polskim po dniu 8 maja 1945 r.
@@ -330,6 +371,10 @@ source: "isap-pdf"
 
 **Art. 19.** Renta inwalidzka przysługuje żołnierzowi zwolnionemu z zawodowej służby wojskowej, który stał się inwalidą wskutek stałego lub długotrwałego naruszenia sprawności organizmu:
 
+- **1)** w czasie pełnienia służby albo
+- **2)** w ciągu 3 lat po zwolnieniu ze służby, jeżeli inwalidztwo jest następstwem urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie;
+- **3)** w ciągu 3 lat po zwolnieniu ze służby wojskowej, jeżeli inwalidztwo jest następstwem wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej albo choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby wojskowej.
+
 **Art. 20.**
 
 1. Ustala się trzy grupy inwalidztwa żołnierzy całkowicie niezdolnych do służby:
@@ -417,6 +462,17 @@ source: "isap-pdf"
 2. Za uprawnionych członków rodziny zmarłego emeryta lub rencisty wojskowego uważa się również członków rodziny żołnierza zmarłego po zwolnieniu ze służby, jeżeli w dniu śmierci spełniał on warunki wymagane do uzyskania emerytury lub renty inwalidzkiej, chociażby jego prawo do zaopatrzenia nie zostało jeszcze ustalone.
 
 **Art. 24.** <1.> Renta rodzinna przysługuje na zasadach i w wysokości określonych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z tym że:
+
+- **1)** w razie śmierci albo zaginięcia żołnierza rentę rodzinną wymierza się od renty inwalidzkiej I grupy, jaka przysługiwałaby temu żołnierzowi w dniu śmierci albo zaginięcia, bez uwzględnienia dodatku pielęgnacyjnego; przepis art. 22 ust. 2 stosuje się odpowiednio;
+- **1a)** w razie śmierci albo zaginięcia żołnierza w czasie wykonywania zadań służbowych poza granicami państwa, związanych z realizacją celów, o których mowa w art. 2 pkt 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2023 r. poz. 755), renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+- **1b)** w razie śmierci żołnierza po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie, albo jeżeli śmierć nastąpiła wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej albo choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby wojskowej, rentę rodzinną wymierza się od renty inwalidzkiej I grupy, jaka przysługiwałaby temu żołnierzowi w dniu śmierci, bez uwzględnienia dodatku pielęgnacyjnego; przepis art. 22 ust. 2 stosuje się odpowiednio;
+- **1c)** w razie śmierci żołnierza po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek wypadku albo choroby powstałej w czasie wykonywania zadań służbowych poza granicami państwa, związanych z realizacją celów, o których mowa w art. 2 pkt 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+- **2)** rentę rodzinną po zmarłym emerycie lub renciście wymierza się od kwoty świadczenia, które przysługiwało zmarłemu, jednakże od kwoty nie niższej niż kwota renty inwalidzkiej II grupy, która przysługiwałaby zmarłemu, z zastrzeżeniem pkt 1b;
+- **3)** w razie niedoliczenia do wysługi emerytalnej zmarłego emeryta, o którym mowa w art. 15 albo w art. 15aa ust. 3, okresów, o których mowa odpowiednio w art. 14 ust. 1 albo w art. 15aa ust. 4, okresy te dolicza się na wniosek osoby uprawnionej do renty rodzinnej do wysługi emerytalnej zmarłego, na zasadach określonych odpowiednio w art. 14 albo w art. 15aa;
+- **4)** o niezdolności do pracy i stopniu tej niezdolności oraz niezdolności do samodzielnej egzystencji, w rozumieniu ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, uprawnionych członków rodziny orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych;
+- **5)** jeżeli śmierć żołnierza pozostająca w związku ze służbą jest następstwem czynu karalnego, przy wypłacaniu renty rodzinnej nie stosuje się przewidzianego w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych zawieszania lub zmniejszania tego świadczenia w razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego. W tym wypadku renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+- **5a)** jeżeli śmierć żołnierza po zwolnieniu ze służby, pozostająca w związku ze służbą, jest następstwem czynu karalnego, przy wypłacaniu renty rodzinnej nie stosuje się przewidzianego w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych zawieszania lub zmniejszania tego świadczenia w razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego. W tym wypadku renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+- **6)** w razie śmierci albo zaginięcia żołnierza w przypadkach wskazanych w pkt 1a i 1c renta rodzinna przysługuje w wysokości uposażenia; w tym wypadku do wysokości uposażenia nie jest wliczane świadczenie teleinformatyczne, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa. <2. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w ust. 1 pkt 4, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
 
 #### Rozdział 4 Dodatki do emerytur i rent oraz zasiłki i świadczenia pieniężne
 
@@ -604,6 +660,9 @@ source: "isap-pdf"
 **Art. 36.** W sprawach świadczeń przewidzianych w ustawie osoby zainteresowane i organy emerytalne są zwolnione od wszelkich opłat.
 
 **Art. 37.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** tryb postępowania i właściwość organów w sprawach zaopatrzenia emerytalnego żołnierzy oraz uprawnionych członków ich rodzin, wskazując elementy wniosku o ustalenie prawa do zaopatrzenia, dowody niezbędne do ustalenia prawa do świadczenia oraz sposób i terminy wypłaty świadczeń,
+- **2)** wzór i tryb wydawania legitymacji emeryta–rencisty wojskowego, uwzględniając organ uprawniony do wydawania, wymiany i dokonywania wpisów, w tym wpisu o niezdolności do samodzielnej egzystencji, oraz przypadki wymiany legitymacji, mając na względzie zapewnienie realizacji prawa emeryta i rencisty do zaopatrzenia emerytalnego oraz zapewnienie sprawności postępowania w tym zakresie.
 
 ### DZIAŁ V Ustanie i zawieszanie prawa do świadczeń oraz zmniejszanie ich wysokości
 

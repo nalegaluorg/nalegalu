@@ -8,7 +8,7 @@ pos: 1133
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
@@ -137,6 +137,81 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 
 **Art. 1.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, 587 i 850) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 ust. 2 otrzymuje brzmienie: „2. Ustawa określa także:
+- **1)** wymagania w zakresie ochrony złóż kopalin, wód podziemnych oraz innych elementów środowiska w związku z wykonywaniem działalności, o której mowa w ust. 1;
+- **2)** zasady wykonywania nadzoru i kontroli nad działalnością regulowaną ustawą.”;
+- **2)** w art. 2:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) robót prowadzonych w wyrobiskach zlikwidowanych podziemnych zakładów górniczych w celach innych niż określone ustawą, w szczególności turystycznych, leczniczych i rekreacyjnych;”,
+    - **b)** uchyla się ust. 2;
+
+- **3)** w art. 4 ust. 2 i 3 otrzymują brzmienie: „2. Ten, kto zamierza podjąć wydobywanie, o którym mowa w ust. 1, jest obowiązany z 7-dniowym wyprzedzeniem na piśmie zawiadomić o tym właściwy organ nadzoru górniczego, określając lokalizację zamierzonych robót oraz zamierzony czas ich wykonywania.
+
+3. W przypadku naruszenia wymagań określonych w ust. 1 i 2 właściwy organ nadzoru górniczego, w drodze decyzji, ustala prowadzącemu taką działalność opłatę podwyższoną, o której mowa w art. 140 ust. 3 pkt 3.”;
+
+- **4)** w art. 6 w ust. 1:
+    - **a)** po pkt 1b dodaje się pkt 1c w brzmieniu: „1c) badaniami geofizycznymi w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów – jest wykonywanie prac geologicznych z zastosowaniem metod geofizycznych, w tym połączonych z robotami geologicznymi z wyłączeniem robót polegających na wykonywaniu otworów wiertniczych o głębokości przekraczającej 100 m lub robót z użyciem środków strzałowych;”,
+    - **b)** po pkt 16a dodaje się pkt 16b w brzmieniu: „16b) wtłaczaniem wód do górotworu – jest wprowadzanie wód z odwodnień wyrobisk górniczych, wód złożowych oraz wykorzystanych wód leczniczych, wód termalnych i solanek, polegające na ich wtłaczaniu otworami wiertniczymi do formacji geologicznych izolowanych od użytkowych poziomów wodonośnych;”;
+
+- **5)** w art. 13:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Umowa o ustanowieniu użytkowania górniczego staje się skuteczna z dniem uzyskania koncesji.”,
+    - **b)** uchyla się ust. 2,
+    - **c)** dodaje się ust. 6 i 7 w brzmieniu: „6. W przypadku nieuzyskania koncesji w terminie roku od dnia zawarcia umowy o ustanowieniu użytkowania górniczego, umowa ta wygasa.
+
+7. Użytkowanie górnicze wygasa w przypadku wygaśnięcia, cofnięcia lub utraty mocy koncesji, bez względu na przyczynę.”;
+
+- **6)** w art. 14 ust. 1 otrzymuje brzmienie: „1. Z wyjątkiem działalności określonej w art. 21 ust. 1 pkt 1 oraz w dziale III rozdziale 3, ustanowienie użytkowania górniczego może być poprzedzone przetargiem, w szczególności gdy o jego ustanowienie ubiega się więcej niż jeden podmiot.”;
+- **7)** w art. 15:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Ten, kto rozpoznał złoże kopaliny, z wyłączeniem złoża węglowodorów, albo kompleks podziemnego składowania dwutlenku węgla, stanowiące przedmiot własności górniczej, i udokumentował je w stopniu umożliwiającym sporządzenie odpowiednio projektu zagospodarowania złoża albo planu zagospodarowania podziemnego składowiska dwutlenku węgla oraz uzyskał decyzję zatwierdzającą dokumentację geologiczną tego złoża albo kompleksu, może żądać ustanowienia na jego rzecz użytkowania górniczego z pierwszeństwem przed innymi.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Roszczenie, o którym mowa w ust. 1, wygasa z upływem 3 lat od dnia doręczenia decyzji zatwierdzającej dokumentację geologiczną złoża kopaliny albo dokumentację geologiczną dotyczącą kompleksu podziemnego składowania dwutlenku węgla.”,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku zgłoszenia roszczenia, o którym mowa w ust. 1, zawarcie umowy o ustanowieniu użytkowania górniczego następuje nie później niż 3 miesiące od dnia zgłoszenia tego roszczenia.
+
+5. Niepodpisanie umowy o ustanowieniu użytkowania górniczego z przyczyn leżących po stronie podmiotu posiadającego roszczenie, o którym mowa w ust. 1, w terminie, o którym mowa w ust. 4, powoduje utratę prawa do zawarcia tej umowy.”;
+
+- **8)** w art. 19 ust. 1 otrzymuje brzmienie: „1. Przedsiębiorca, który uzyskał koncesję na:
+- **1)** wydobywanie węglowodorów ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – uzyskał decyzję inwestycyjną,
+- **2)** wydobywanie węgla kamiennego,
+- **3)** wydobywanie węgla brunatnego,
+- **4)** podziemne bezzbiornikowe magazynowanie węglowodorów,
+- **5)** podziemne składowanie dwutlenku węgla – może żądać wykupu nieruchomości lub jej części położonej w obszarze górniczym, w zakresie niezbędnym do wykonywania zamierzonej działalności.”;
+- **9)** w art. 21:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) poszukiwania lub rozpoznawania złóż kopalin, o których mowa w art. 10 ust. 1, z wyłączeniem złóż węglowodorów,”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) poszukiwania i rozpoznawania złóż węglowodorów oraz wydobywania węglowodorów ze złóż,”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Do koncesjonowania działalności dotyczącej poszukiwania i rozpoznawania złóż węglowodorów lub wydobywania węglowodorów ze złóż stosuje się przepisy niniejszego rozdziału, z zastrzeżeniem przepisów rozdziału 3.”,
+    - **c)** dodaje się ust. 6 w brzmieniu: „6. W przypadku stwierdzenia konieczności uzupełnienia wniosku dla postępowań określonych w niniejszym dziale termin rozpatrzenia wniosku biegnie od dnia wpływu uzupełnionego wniosku.”;
+
+- **10)** w art. 22 w ust. 1: 10 ust. 1, z wyłączeniem złóż węglowodorów,”,
+    - **a)** pkt 1 otrzymuje brzmienie: „1) poszukiwanie lub rozpoznawanie złóż kopalin, o których mowa w art.
+    - **b)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż,”;
+
+- **11)** w art. 23:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W odniesieniu do działalności prowadzonej poza granicami obszarów morskich Rzeczypospolitej Polskiej udzielenie koncesji na:
+
+- **1)** poszukiwanie lub rozpoznawanie złóż kopalin, z wyłączeniem złóż węglowodorów, albo poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla,
+- **2)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż – wymaga opinii wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce wykonywania zamierzonej działalności.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W odniesieniu do działalności prowadzonej poza granicami obszarów morskich Rzeczypospolitej Polskiej:
+
+- **1)** udzielenie koncesji na wydobywanie kopalin ze złóż, podziemne bezzbiornikowe magazynowanie substancji, podziemne składowanie odpadów albo podziemne składowanie dwutlenku węgla,
+- **2)** wydanie decyzji inwestycyjnej, o której mowa w art. 49z ust. 1 – wymaga uzgodnienia z wójtem (burmistrzem, prezydentem miasta) właściwym ze względu na miejsce wykonywania zamierzonej działalności; kryterium uzgodnienia jest nienaruszanie zamierzoną działalnością przeznaczenia lub sposobu korzystania z nieruchomości określonego w sposób przewidziany w art. 7.”;
+- **12)** w art. 24:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) właścicieli (użytkowników wieczystych) nieruchomości, w granicach których ma być wykonywana zamierzona działalność, oraz oznaczenie tych nieruchomości zgodnie z ewidencją gruntów i budynków; wymóg ten nie dotyczy poszukiwania i rozpoznawania złóż węglowodorów;”, – pkt 5 otrzymuje brzmienie: „5) wykaz obszarów objętych formami ochrony przyrody; wymóg ten nie dotyczy przedsięwzięć, dla których jest wymagana decyzja o środowiskowych uwarunkowaniach;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Do wniosku o udzielenie koncesji dołącza się dowody istnienia określonych w nim okoliczności, a w przypadku potwierdzenia danych, o których mowa w ust. 1 pkt 1 – wypis z ewidencji gruntów i budynków.”;
+
+- **13)** w art. 25 ust. 1 otrzymuje brzmienie: „1. We wniosku o udzielenie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny oraz na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla określa się również cel, zakres i rodzaj prac geologicznych, w tym robót geologicznych, oraz zamieszcza się informację o pracach, które mają być wykonywane dla osiągnięcia zamierzonego celu, w tym ich technologiach, a w przypadku wniosku o udzielenie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny wskazuje się także minimalną kategorię rozpoznania złoża.”;
+- **14)** w art. 26 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Projekt zagospodarowania złoża dotyczący złóż kopalin określonych w art. 10 ust. 1, z wyłączeniem złóż węglowodorów, podlega zaopiniowaniu przez właściwy organ nadzoru górniczego. Organ nadzoru górniczego wydaje wnioskodawcy opinię w terminie 14 dni od dnia doręczenia projektu zagospodarowania złoża. W przypadku niewyrażenia opinii w tym terminie uważa się, że organ nadzoru górniczego nie zgłasza uwag.
+
+3b. Do wniosku, o którym mowa w ust. 1, dołącza się opinię, o której mowa w ust. 3a, albo informację o jej braku, a w przypadku zgłoszenia uwag także oświadczenie o sposobie ich uwzględnienia lub przyczynach ich nieuwzględnienia.”;
+
+- **15)** po art. 28h dodaje się art. 28i–28l w brzmieniu: „Art. 28i. 1. W przypadku złożenia wniosku o udzielenie koncesji na wykonywanie działalności, o której mowa w art. 21 ust. 1 pkt 1, organ koncesyjny niezwłocznie zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ ogłoszenie o możliwości składania innych wniosków o udzielenie koncesji na wykonywanie takiej samej działalności w przestrzeni objętej złożonym wnioskiem.
+
+2. W przypadku gdy w okresie od dnia złożenia wniosku, o którym mowa w ust. 1, do dnia zamieszczenia ogłoszenia został złożony wniosek o udzielenie koncesji obejmujący w całości lub w części tę samą przestrzeń oraz rodzaj działalności lub rodzaj kopaliny, podstawą do zamieszczenia ogłoszenia jest wniosek, o którym mowa w ust. 1.
+
+3. Ogłoszenie zawiera:
+
+- **1)** informację o złożeniu wniosku, o którym mowa w ust. 1;
+- **2)** granice przestrzeni objętej wnioskiem, o którym mowa w ust. 1, wraz ze współrzędnymi płaskimi prostokątnymi punktów załamania tych granic w państwowym systemie odniesień przestrzennych;
+- **3)** termin składania wniosków o udzielenie koncesji przez inne podmioty zainteresowane wykonywaniem działalności, której dotyczy postępowanie, nie dłuższy niż 90 dni od dnia zamieszczenia ogłoszenia w Biuletynie Informacji Publicznej.
+
+4. Od dnia zamieszczenia ogłoszenia w Biuletynie Informacji Publicznej nie wszczyna się innych postępowań dotyczących przestrzeni oraz rodzaju działalności lub rodzaju kopaliny objętych tym ogłoszeniem, a wszczęte umarza się.
+
 **Art. 28j.** W przypadku gdy w terminie, o którym mowa w art. 28i ust. 3 pkt 3, nie wpłynie wniosek innego podmiotu o udzielenie koncesji na wykonywanie działalności, której dotyczy postępowanie, organ koncesyjny prowadzi to postępowanie wobec podmiotu, który złożył wniosek, o którym mowa w art. 28i ust. 1.
 
 **Art. 28k.**
@@ -151,6 +226,36 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 2. Złożone wnioski nie podlegają zmianom mogącym wpłynąć na ocenę kryteriów, o których mowa w ust. 1.
 
 **Art. 28l.** Organ koncesyjny udziela koncesji na wykonywanie działalności, której dotyczy postępowanie, podmiotowi, którego wniosek uzyskał najwyższą ocenę, oraz jednocześnie odmawia udzielenia koncesji innym podmiotom.”;
+
+- **16)** w art. 29 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organ koncesyjny odmawia udzielenia koncesji, jeżeli wniosek o udzielenie koncesji obejmuje tę samą przestrzeń oraz rodzaj działalności, a w przypadku wniosku o udzielenie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny lub koncesji na wydobywanie kopaliny ze złoża – również rodzaj kopaliny, objęte już koncesją udzieloną innemu podmiotowi.”;
+- **17)** w art. 31 w ust. 1:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Koncesja na poszukiwanie lub rozpoznawanie złoża kopaliny, z wyłączeniem złoża węglowodorów, albo na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla określa również:”,
+    - **b)** pkt 1 otrzymuje brzmienie: „1) cel, zakres i rodzaj zamierzonych prac geologicznych, w tym robót geologicznych, a w przypadku koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny, z wyłączeniem złoża węglowodorów – minimalną kategorię rozpoznania złoża;”;
+
+- **18)** w art. 32 w ust. 4 pkt 2 otrzymuje brzmienie: „2) warunki wtłaczania wód do górotworu; w takim przypadku nie stosuje się przepisów o korzystaniu z wód oraz o opłatach za korzystanie ze środowiska.”;
+- **19)** w art. 36 dodaje się ust. 11 w brzmieniu: „11. Koncesje dotyczące kopalin, o których mowa w art. 10 ust. 1, nie przechodzą na:
+- **1)** spółki, o których mowa w art. 494 i art. 531 Kodeksu spółek handlowych, z wyłączeniem przypadku, gdy skład akcjonariatu lub udziałowców spółki przejmującej albo nowo zawiązanej jest tożsamy ze składem akcjonariatu lub udziałowców spółek łączących się;
+- **2)** nabywcę przedsiębiorstwa upadłego na podstawie art. 317 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112, z późn. zm. );
+- **3)** nabywcę przedsiębiorstwa na podstawie art. 55 Kodeksu cywilnego.”;
+- **20)** art. 37 otrzymuje brzmienie: „Art. 37. 1. W przypadku gdy przedsiębiorca narusza wymagania ustawy, w szczególności dotyczące ochrony środowiska lub racjonalnej gospodarki złożem, albo nie wypełnia warunków określonych w koncesji, w tym nie podejmuje określonej nią działalności albo trwale zaprzestaje jej wykonywania, lub wykonuje roboty geologiczne z naruszeniem harmonogramu określonego w projekcie robót geologicznych, lub nie wykonuje obowiązków, o których mowa w art. 82 ust. 2, lub wykonuje je niezgodnie z warunkami określonymi w przepisach wydanych na podstawie art. 82a ust. 1, organ koncesyjny, w drodze postanowienia, wzywa przedsiębiorcę do usunięcia naruszeń oraz określa termin ich usunięcia. Organ koncesyjny może również określić sposób usunięcia naruszeń.
+
+2. W przypadku gdy przedsiębiorca nie wykonał postanowienia, o którym mowa w ust. 1, organ koncesyjny może, bez odszkodowania:
+
+- **1)** cofnąć koncesję;
+- **2)** w przypadku stwierdzenia wykonywania robót geologicznych z naruszeniem harmonogramu określonego w projekcie robót geologicznych – cofnąć koncesję albo ograniczyć jej zakres.
+
+3. Organ koncesyjny umarza postępowanie w przypadku, gdy stwierdzi, że przedsiębiorca:
+
+- **1)** nie narusza wymagań, o których mowa w ust. 1;
+- **2)** naruszył wymagania, o których mowa w ust. 1, z tym że przyczyną ich naruszenia była siła wyższa;
+- **3)** wykonał postanowienie, o którym mowa w ust. 1.”;
+- **21)** w art. 39 dodaje się ust. 5 w brzmieniu: „5. Podmiotowi, na który nałożono obowiązki określone w ust. 1 i 3, przysługuje prawo korzystania z przedmiotu własności górniczej w celu i w zakresie niezbędnym do wykonania tych obowiązków.”;
+- **22)** w art. 39b zdanie drugie otrzymuje brzmienie: „Przepisy art. 107a ust. 2, art. 127i ust. 2 oraz art. 129 ust. 1–4 stosuje się odpowiednio.”.
+- **23)** w art. 40 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Kopie decyzji wydawanych na podstawie niniejszego działu niezwłocznie doręcza się właściwym miejscowo organom koncesyjnym, organom nadzoru górniczego i wójtom (burmistrzom, prezydentom miast), a także Prezesowi Wyższego Urzędu Górniczego, Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej, zwanemu dalej „NFOŚiGW”, oraz państwowej służbie geologicznej.”;
+- **24)** w art. 41 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Decyzje i pisma wydawane w toku postępowań prowadzonych na podstawie niniejszego działu doręcza się stronom tych postępowań na adres określony w ewidencji gruntów i budynków, chyba że strona poda inny adres.”;
+- **25)** w dziale III:
+    - **a)** uchyla się rozdział 2,
+    - **b)** dodaje się rozdziały 3 i 4 w brzmieniu: „Rozdział 3 Koncesje na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż, a także koncesje na wydobywanie węglowodorów ze złóż
 
 **Art. 49a.**
 
@@ -396,6 +501,10 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 
 **Art. 49o.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wymagania, jakim powinna odpowiadać oferta oraz dokumenty wymagane od składającego ofertę, z uwzględnieniem rodzaju działalności,
+- **2)** wymagania, jakim powinni odpowiadać członkowie komisji przetargowej, niezbędne do przeprowadzenia przetargu oraz tryb pracy tej komisji, z uwzględnieniem zapewnienia sprawności wykonywanych czynności,
+- **3)** tryb przeprowadzenia przetargu, w tym sposób dokonania oceny ofert, z uwzględnieniem potrzeby zapewnienia sprawiedliwej oceny ofert zgodnie z zasadami przejrzystości i niedyskryminacji – mając na uwadze zasady ochrony konkurencji, ochrony środowiska oraz racjonalnej gospodarki złożem.
+
 **Art. 49p.**
 
 1. W przypadku gdy w przetargu została wybrana oferta złożona wspólnie przez kilka podmiotów, organ koncesyjny, po otrzymaniu protokołu z przetargu, niezwłocznie wzywa operatora do przekazania temu organowi, w terminie 30 dni od dnia otrzymania wezwania, projektu umowy o współpracy.
@@ -415,6 +524,11 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 3. Wadium wniesione przez zwycięzcę przetargu podlega zwrotowi w terminie 14 dni od dnia udzielenia koncesji, a w przypadku gdy zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę – od dnia przekazania organowi koncesyjnemu umowy o współpracy. Wadium nie podlega zwrotowi w przypadku odstąpienia od zawarcia umowy o współpracy z przyczyn leżących po stronie zwycięzcy przetargu, chyba że odstąpienie nastąpiło z powodu siły wyższej.
 
 **Art. 49r.** Organ koncesyjny umarza postępowanie przetargowe, w przypadku gdy:
+
+- **1)** w terminie, o którym mowa w art. 49h ust. 3 pkt 3, żaden podmiot nie złożył oferty;
+- **2)** wszystkie złożone w przetargu oferty zostały wycofane lub nie spełniają wymagań określonych w ogłoszeniu, o którym mowa w art. 49h ust. 2;
+- **3)** zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę i nie przekazały organowi koncesyjnemu umowy o współpracy;
+- **4)** w terminie, o którym mowa w art. 49p ust. 2, nie usunięto niezgodności w projekcie umowy o współpracy.
 
 **Art. 49s.**
 
@@ -456,6 +570,17 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 2. Koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesja na wydobywanie węglowodorów ze złoża, może określać warunki wtłaczania wód do górotworu.
 
 **Art. 49v.** Koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża określa również:
+
+- **1)** cel, zakres i rodzaj zamierzonych prac geologicznych, w tym robót geologicznych, oraz minimalną kategorię rozpoznania złoża;
+- **2)** czas trwania fazy:
+    - **a)** poszukiwania i rozpoznawania rozumianej jako wykonywanie tej koncesji w okresie od dnia jej udzielenia do dnia zakończenia dokumentowania złoża w przestrzeni wyznaczonej koncesją albo przekazania właściwemu organowi dokumentacji, o której mowa w art. 88 ust. 2 pkt 4; zatwierdzenie dokumentacji geologicznoinwestycyjnej złoża węglowodorów przed upływem czasu trwania tej fazy nie stanowi jej zakończenia,
+    - **b)** wydobywania rozumianej jako wykonywanie tej koncesji w okresie od dnia wydania decyzji inwestycyjnej, o której mowa w art. 49z ust. 1, do dnia cofnięcia, wygaśnięcia lub utraty mocy tej koncesji; rozpoczęcie fazy wydobywania może nastąpić w czasie trwania fazy poszukiwania i rozpoznawania;
+
+- **3)** harmonogram, w podziale na lata, realizacji obowiązków wynikających z tej koncesji, w tym wynikających z harmonogramu określonego w projekcie robót geologicznych;
+- **4)** częstotliwość, tryb i format przekazywania organowi koncesyjnemu informacji o wynikach realizacji obowiązków określonych w harmonogramach, o których mowa w pkt 3;
+- **5)** wysokość opłaty za działalność w zakresie poszukiwania i rozpoznawania złoża węglowodorów;
+- **6)** warunki zabezpieczenia, o którym mowa w art. 49x ust. 1, w szczególności wysokość, zakres i sposób ustanowienia tego zabezpieczenia;
+- **7)** zakres i harmonogram obowiązkowego poboru próbek uzyskanych w wyniku robót geologicznych, w tym rdzeni wiertniczych.
 
 **Art. 49w.**
 
@@ -602,6 +727,42 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 #### Rozdział 4 Umowa o współpracy
 
 **Art. 85b.** Wykonywanie robót geologicznych na podstawie projektu robót geologicznych nie może naruszać praw właścicieli (użytkowników wieczystych) nieruchomości.”;
+
+- **31)** w art. 88 w ust. 2:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) geologiczna złoża kopaliny, z wyłączeniem złoża węglowodorów;”,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) geologiczno-inwestycyjna złoża węglowodorów;”;
+
+- **32)** w art. 89 w ust. 2 pkt 1 otrzymuje brzmienie: „1) rodzaj, ilość i jakość kopaliny, w tym przez przedstawienie informacji dotyczących kopalin towarzyszących i współwystępujących użytecznych pierwiastków śladowych oraz występujących w złożu substancji szkodliwych dla środowiska, oraz kategorię rozpoznania złoża;”;
+- **33)** po art. 89 dodaje się art. 89a w brzmieniu: „Art. 89a. Do sporządzenia dokumentacji geologiczno-inwestycyjnej złoża węglowodorów stosuje się wymagania określone w art. 89 ust. 1, 2 i 5. W dokumentacji tej określa się również sposób zagospodarowania złoża węglowodorów, zasoby wydobywalne, a także optymalny wariant racjonalnego wykorzystania zasobów tego złoża, w szczególności przez kompleksowe i racjonalne wykorzystanie kopaliny głównej i kopalin towarzyszących oraz technologii eksploatacji zapewniającej ograniczenie ujemnych wpływów na środowisko.”;
+- **34)** w art. 92 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) wykonywania badań geofizycznych w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów.”;
+- **35)** w art. 93: 88 ust. 2 pkt 1a, ma bezpośredni wpływ na warunki określone w koncesji na wydobywanie węglowodorów ze złoża albo koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża lub decyzji inwestycyjnej, organ koncesyjny z urzędu zmienia koncesję lub decyzję inwestycyjną w zakresie określonym w decyzji zatwierdzającej dodatek.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Dokumentację geologiczną, o której mowa w art. 88 ust. 2 pkt 1– 3, przedkłada się właściwemu organowi administracji geologicznej w 4 egzemplarzach w postaci papierowej i w 4 egzemplarzach w postaci elektronicznej.”,
+    - **b)** po ust. 4c dodaje się ust. 4d w brzmieniu: „4d. W przypadku gdy dodatek do dokumentacji, o której mowa w art.
+    - **c)** ust. 8 otrzymuje brzmienie: „8. Dokumentację geologiczną, o której mowa w art. 88 ust. 2 pkt 4, sporządza się w 3 egzemplarzach w postaci papierowej oraz w 3 egzemplarzach w postaci elektronicznej, w terminie 6 miesięcy od dnia zakończenia prac, i przekazuje się odpowiednio organowi, który udzielił koncesji, zatwierdził projekt robót geologicznych lub któremu zgłoszono projekt robót geologicznych.”;
+
+- **36)** w art. 94:
+    - **a)** w ust. 1: – pkt 4 otrzymuje brzmienie: „4) pozostałym właściwym miejscowo organom administracji geologicznej, załączając po 1 egzemplarzu dokumentacji geologicznej w postaci papierowej i postaci elektronicznej;”, – dodaje się pkt 5 w brzmieniu: „5) właściwym miejscowo wojewodom.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Właściwy organ administracji geologicznej przesyła po 1 egzemplarzu dokumentacji, o której mowa w art. 88 ust. 2 pkt 4, w postaci papierowej oraz w postaci elektronicznej pozostałym właściwym miejscowo organom administracji geologicznej.”,
+    - **c)** dodaje się ust. 3 w brzmieniu: „3. W przypadku gdy właściwym miejscowo organem administracji geologicznej, o którym mowa w ust. 1 pkt 4 i ust. 2, jest minister właściwy do spraw środowiska, dokumentację geologiczną przesyła się do państwowej służby geologicznej prowadzącej archiwum, o którym mowa w art. 162 ust. 1 pkt 2.”;
+
+- **37)** w art. 95 dodaje się ust. 3 w brzmieniu: „3. W terminie 6 miesięcy od dnia zatwierdzenia dokumentacji geologiczno-inwestycyjnej złoża węglowodorów przez właściwy organ administracji geologicznej obszar udokumentowanego złoża węglowodorów obowiązkowo wprowadza się do studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy. Koszty sporządzenia zmiany studium ponosi przedsiębiorca, który sporządził dokumentację geologiczno-inwestycyjną złoża węglowodorów.”;
+- **38)** art. 96–98 otrzymują brzmienie: „Art. 96. 1. Wojewoda wprowadza obszar udokumentowanego złoża kopaliny albo obszar udokumentowanego kompleksu podziemnego składowania dwutlenku węgla do studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy i wydaje w tej sprawie zarządzenie zastępcze:
+- **1)** po upływie terminu określonego w art. 95 ust. 2 albo
+- **2)** w terminie 6 miesięcy od upływu terminu, o którym mowa w art. 95 ust. 3.
+
+2. Zmiana studium sporządzona w trybie, o którym mowa w ust. 1, wywołuje skutki prawne takie jak studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
+
+3. Koszty sporządzenia zmiany studium ponosi w całości gmina, której obszaru dotyczy zarządzenie zastępcze.
+
+4. W przypadku niewydania zarządzenia zastępczego w terminie, o którym mowa w ust. 1 pkt 2, organ wyższego stopnia wymierza wojewodzie, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 1000 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
+
+5. Karę uiszcza się w terminie 14 dni od dnia, w którym postanowienie, o którym mowa w ust. 4, stało się ostateczne. W przypadku bezskutecznego upływu terminu kara podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+6. Postanowienie, o którym mowa w ust. 4, nie może zostać wydane po upływie 2 lat, licząc od końca roku kalendarzowego, w którym powstał obowiązek wydania zarządzenia zastępczego.
+
+7. W przypadku złożenia przez radę gminy skargi na zarządzenie zastępcze, o którym mowa w ust. 1, sąd administracyjny wyznacza rozprawę w terminie 30 dni od dnia wpłynięcia skargi do sądu.
+
+8. Przepisy ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm. ) stosuje się odpowiednio.
 
 **Art. 97.**
 
@@ -757,6 +918,12 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 
 **Art. 162c.** Geoinfonet obejmuje informację o:
 
+- **1)** danych geologicznych i próbkach oraz wynikach ich badań, o których mowa w art. 82 ust. 2;
+- **2)** przekazanych dokumentacjach geologicznych, o których mowa w art. 88 ust. 2;
+- **3)** udzielonych koncesjach na poszukiwanie lub rozpoznawanie złóż kopalin, koncesjach na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż, decyzjach inwestycyjnych oraz koncesjach na wydobywanie kopalin ze złóż, a także o zatwierdzonych lub zgłoszonych projektach robót geologicznych;
+- **4)** obszarach górniczych i terenach górniczych;
+- **5)** parametrach wydobywania węglowodorów ze złoża, o których mowa w art. 49zc ust. 1.
+
 **Art. 162d.**
 
 1. Geoinfonet prowadzi państwowa służba geologiczna.
@@ -783,17 +950,125 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 
 **Art. 162f.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, warunki organizacyjno-techniczne funkcjonowania Geoinfonetu, mając na uwadze konieczność właściwego działania systemu oraz zapewnienie bezpieczeństwa informacji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem.”;
 
-**Art. 2.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu 11 Gaz ziemny wysokometanowy, którego wydobycie w okresie rozliczeniowym przekracza 2 500 tys. m nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2012 r. poz. 1187 oraz z 2013 r. poz. 155) wprowadza się następujące zmiany: tys. m³ 24,00 11a Gaz ziemny wysokometanowy, którego wydobycie w okresie rozliczeniowym nie przekracza 2 500 tys. m tys. m³ 6,23 12 Gaz ziemny pozostały, którego wydobycie w okresie rozliczeniowym przekracza 2 500 tys. m tys. m³ 20,00 12a Gaz ziemny pozostały, którego wydobycie w okresie rozliczeniowym nie przekracza 2 500 tys. m tys. m³ 5,18 36 Ropa naftowa, której wydobycie w okresie rozliczeniowym t 50,00 przekracza 1000 t 36a Ropa naftowa, której wydobycie w okresie rozliczeniowym nie t 36,84 przekracza 1000 t
+- **62)** w art. 168 ust. 2 otrzymuje brzmienie: „2. W odniesieniu do projektowania i wykonywania robót budowlanych oraz utrzymania obiektów budowlanych na terenie zakładu górniczego organy nadzoru górniczego wykonują zadania z zakresu administracji architektonicznobudowlanej i nadzoru budowlanego.”;
+- **63)** w art. 173 uchyla się ust. 1;
+- **64)** art. 183 otrzymuje brzmienie: „Art. 183. Kto nie dopełnia ciążących na nim obowiązków w zakresie prowadzenia ewidencji zasobów złoża kopaliny, w zakresie przedkładania informacji o zmianach zasobów złoża kopaliny, w zakresie posiadania, sporządzania, aktualizowania i uzupełniania wymaganej dokumentacji mierniczo-geologicznej oraz przekazywania danych geologicznych i próbek oraz wyników ich badań, uzyskanych w wyniku robót geologicznych, podlega karze grzywny.”;
+- **65)** użyte w art. 137 ust. 3, art. 141 ust. 1 i 3 oraz w art. 142 ust. 3 w różnym przypadku wyrazy „Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej” zastępuje się skrótem „NFOŚiGW”;
+- **66)** w załączniku do ustawy w tabeli:
+    - **a)** lp. 11 otrzymuje brzmienie: 11 Gaz ziemny wysokometanowy, którego wydobycie w okresie tys. m³ 24,00 rozliczeniowym przekracza 2 500 tys. m
+    - **b)** po lp. 11 dodaje się lp.11a w brzmieniu: 11a Gaz ziemny wysokometanowy, którego wydobycie w okresie tys. m³ 6,23 rozliczeniowym nie przekracza 2 500 tys. m
+    - **c)** lp. 12 otrzymuje brzmienie: 12 Gaz ziemny pozostały, którego wydobycie w okresie tys. m³ 20,00 rozliczeniowym przekracza 2 500 tys. m
+    - **d)** po lp. 12 dodaje się lp.12a w brzmieniu: 12a Gaz ziemny pozostały, którego wydobycie w okresie tys. m³ 5,18 rozliczeniowym nie przekracza 2 500 tys. m
+    - **e)** lp. 36 otrzymuje brzmienie: 36 Ropa naftowa, której wydobycie w okresie rozliczeniowym t 50,00 przekracza 1000 t
+    - **f)** po lp. 36 dodaje się lp. 36a w brzmieniu: 36a Ropa naftowa, której wydobycie w okresie rozliczeniowym nie t 36,84 przekracza 1000 t
+
+**Art. 2.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2012 r. poz. 1187 oraz z 2013 r. poz. 155) wprowadza się następujące zmiany:
+
+- **1)** w art. 24 w ust. 1 pkt 2 otrzymuje brzmienie: „2) oddania mienia na czas oznaczony do odpłatnego korzystania osobom prawnym lub fizycznym na zasadach określonych w rozdziale 8;”;
+- **2)** tytuł rozdziału 8 otrzymuje brzmienie: „Oddanie mienia na czas oznaczony do odpłatnego korzystania”;
+- **3)** w art. 38 ust. 1 otrzymuje brzmienie: „1. Mienie wchodzące w skład Zasobu może być:
+- **1)** wydzierżawiane lub wynajmowane osobom fizycznym lub prawnym, na zasadach Kodeksu cywilnego albo
+- **2)** oddane do korzystania na zasadach określonych w niniejszym rozdziale lub w odrębnych przepisach.”;
+- **4)** po art. 38a dodaje się art. 38b w brzmieniu: „Art. 38b. 1. Agencja, w drodze umowy, oddaje do odpłatnego korzystania nieruchomości Zasobu przedsiębiorcy posiadającemu koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesję na wydobywanie węglowodorów ze złoża udzieloną na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, ze zm. ), na czas nie dłuższy niż czas obowiązywania koncesji.
+
+2. Umowa, o której mowa w ust. 1, określa w szczególności:
+
+- **1)** oznaczenie stron;
+- **2)** oznaczenie nieruchomości;
+- **3)** cel i sposób korzystania z nieruchomości;
+- **4)** wysokość wynagrodzenia.
+
+3. Wynagrodzenie, o którym mowa w ust. 2 pkt 4, uwzględnia w szczególności:
+
+- **1)** wysokość niezbędnych kosztów związanych z oddaniem nieruchomości do korzystania;
+- **2)** utracone korzyści związane z oddaniem nieruchomości do korzystania.
+
+4. Umowa, o której mowa w ust. 1, może określać również wysokość odszkodowania związanego z oddaniem nieruchomości do korzystania.
+
+5. Nieruchomość oddana do korzystania na podstawie umowy, o której mowa w ust. 1, nie może być zbyta na rzecz osób trzecich w trakcie obowiązywania tej umowy.
+
+6. W przypadku przeniesienia koncesji, o której mowa w ust. 1, przedsiębiorca, na rzecz którego została przeniesiona koncesja wstępuje z mocy prawa w prawa i obowiązki wynikające z umowy, o której mowa w ust. 1.
+
+7. W przypadku cofnięcia koncesji, o której mowa w ust. 1, jej wygaśnięcia lub utraty mocy, umowa, o której mowa w ust. 1, ulega rozwiązaniu. Przepis art. 39 ust. 1 ustawy z dnia 9 czerwca 2011 r. − Prawo geologiczne i górnicze stosuje się.”.
 
 **Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 29 w ust. 1 w pkt 27 kropkę zastępuje się średnikiem i dodaje się pkt 28 w brzmieniu: „28) obiektów budowlanych służących bezpośrednio do wykonywania działalności regulowanej ustawą z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, ze zm. ) w zakresie poszukiwania i rozpoznawania złóż węglowodorów.”;
+- **2)** w art. 30 w ust. 1 pkt 1 otrzymuje brzmienie: „1) budowa, o której mowa w art. 29 ust. 1 pkt 1–3, 5–19, 20a–21 oraz 28;”;
+- **3)** w art. 49 ust. 4a otrzymuje brzmienie: „4a. Decyzje, o których mowa w ust. 4, mogą być wydane po uprzednim przeprowadzeniu oceny oddziaływania przedsięwzięcia na środowisko albo oceny oddziaływania przedsięwzięcia na obszar Natura 2000, jeżeli jest ona wymagana przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w przypadkach gdy ocena ta jest możliwa do przeprowadzenia z uwzględnieniem analizy rozwiązań alternatywnych przedsięwzięcia i możliwości ustalenia warunków jego realizacji w zakresie ochrony środowiska.”.
+
 **Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** art. 51 otrzymuje brzmienie: „Art. 51. Rachunek bankowy może być prowadzony dla kilku osób fizycznych, kilku jednostek samorządu terytorialnego albo stron umowy o współpracy w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, ze zm. ) − rachunek wspólny.”;
+- **2)** po art. 51b dodaje się art. 51c w brzmieniu: „Art. 51c. 1. Rachunek wspólny dla stron umowy o współpracy może być prowadzony wyłącznie w związku z wykonywaniem umowy o współpracy oraz udzielonej koncesji, o których mowa w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
+
+2. W przypadku rachunku wspólnego dla stron umowy o współpracy:
+
+- **1)** uprawnionym do dysponowania środkami pieniężnymi zgromadzonymi na rachunku jest wyłącznie współposiadacz będący operatorem w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
+- **2)** współposiadacz rachunku może żądać bieżących informacji o saldzie, okresowych wyciągów bankowych oraz historii rachunku i subkont.”.
 
 **Art. 5.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 17 w pkt 6 w lit. a:
+    - **a)** tiret czwarte otrzymuje brzmienie: „– właściwych organów administracji geologicznej w zakresie udokumentowanych złóż kopalin i wód podziemnych,”,
+    - **b)** tiret siódme otrzymuje brzmienie: „− właściwego państwowego wojewódzkiego inspektora sanitarnego,”,
+    - **c)** dodaje się tiret ósme w brzmieniu: „– starosty, jako właściwego organu ochrony środowiska w zakresie terenów zagrożonych osuwaniem się mas ziemnych, oraz”;
+
+- **2)** w art. 53 w ust. 4:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) właściwym organem administracji geologicznej – w odniesieniu do udokumentowanych złóż kopalin i wód podziemnych;”,
+    - **b)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) starostą, jako właściwym organem ochrony środowiska – w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych;”.
+
 **Art. 6.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm. ) art. 84aa otrzymuje brzmienie: „Art. 84aa. Przepisów art. 79, art. 80a, art. 82 i art. 83 nie stosuje się w odniesieniu do kontroli:
 
+- **1)** działalności leczniczej, prowadzonej przez organ prowadzący rejestr, ministra właściwego do spraw zdrowia, wojewodę i podmiot tworzący w zakresie zadań określonych w przepisach o działalności leczniczej;
+- **2)** przedsiębiorcy prowadzącego działalność w zakresie poszukiwania, rozpoznawania lub wydobywania kopalin objętych własnością górniczą lub podmiotu wykonującego w zakresie swojej działalności zawodowej powierzone mu przez tego przedsiębiorcę czynności w ruchu zakładu górniczego albo zakładu wykonującego roboty geologiczne, prowadzonej przez organy Inspekcji Ochrony Środowiska lub organy nadzoru górniczego.”.
+
 **Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 44 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Organizacje ekologiczne, które powołując się na swoje cele statutowe, zgłoszą chęć uczestniczenia w określonym postępowaniu wymagającym udziału społeczeństwa, uczestniczą w nim na prawach strony, jeżeli prowadzą działalność statutową w zakresie ochrony środowiska lub ochrony przyrody, przez minimum 12 miesięcy przed dniem wszczęcia tego postępowania.”;
+- **2)** w art. 64 ust. 3 otrzymuje brzmienie: „3. Organy, o których mowa w ust. 1 i 1a, uwzględniając łącznie uwarunkowania, o których mowa w art. 63 ust. 1, wydają opinię, co do potrzeby przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko, a w przypadku stwierdzenia takiej potrzeby – co do zakresu raportu o oddziaływaniu przedsięwzięcia na środowisko.”;
+- **3)** w art. 66 w ust. 1 pkt 2 otrzymuje brzmienie: „2) opis elementów przyrodniczych środowiska objętych zakresem przewidywanego oddziaływania planowanego przedsięwzięcia na środowisko, w tym elementów środowiska objętych ochroną na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, przy czym w przypadku gdy planowane przedsięwzięcie związane jest z działalnością polegającą na poszukiwaniu i rozpoznawaniu złoża węglowodorów metodą otworów wiertniczych lub wydobywaniu węglowodorów ze złoża tą metodą, opis tych elementów powinien zawierać się w obszarze określonym promieniem 500 m od zewnętrznej granicy przedsięwzięcia;”;
+- **4)** w art. 72:
+    - **a)** w ust. 1: – pkt 4 otrzymuje brzmienie: „4) koncesji na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla, koncesji na wydobywanie kopalin ze złóż, koncesji na podziemne bezzbiornikowe magazynowanie substancji, koncesji na podziemne składowanie odpadów oraz koncesji na podziemne składowanie dwutlenku węgla – udzielanych na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”, – po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „4a) decyzji zatwierdzającej plan ruchu dla wykonywania robót geologicznych związanych z poszukiwaniem i rozpoznawaniem złoża węglowodorów lub decyzji inwestycyjnej w celu wykonywania koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – wydawanych na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
+
+- **4b)** decyzji zatwierdzającej plan ruchu dla wykonywania robót geologicznych na podstawie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny – wydawanej na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”,
+    - **b)** w ust. 2: – pkt 2 otrzymuje brzmienie: „2) koncesji lub decyzji, o których mowa w ust. 1 pkt 4 i 5, polegających także na:
+    - **a)** zmniejszeniu powierzchni, w granicach której ma być prowadzona działalność,
+    - **b)** przeniesieniu koncesji lub decyzji na inny podmiot,
+    - **c)** zmianie głębokości robót geologicznych związanych z poszukiwaniem lub rozpoznawaniem złoża kopaliny, wykonywanych metodą otworów wiertniczych,
+    - **d)** zmianie koncesji lub decyzji, polegającej na zmianie terminu rozpoczęcia działalności lub ograniczeniu prowadzenia działalności objętej koncesją lub decyzją, o ile mieści się ono w zakresie objętym decyzją o środowiskowych uwarunkowaniach,
+    - **e)** zmianie zakresu prac geologicznych, w tym robót geologicznych, lub harmonogramu robót geologicznych, niestanowiących przedsięwzięcia mogącego znacząco oddziaływać na środowisko lub przedsięwzięcia mogącego potencjalnie znacząco oddziaływać na środowisko,
+    - **f)** jednokrotnym wydłużeniu terminu obowiązywania koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża do dwóch lat bez rozszerzenia zakresu koncesji,
+    - **g)** zmianie terminu rozpoczęcia prac i robót geologicznych,
+    - **h)** zmianie zapisu dotyczącego przekazywania próbek i danych geologicznych,
+    - **i)** zmniejszeniu granic obszaru górniczego i terenu górniczego;”, – dodaje się pkt 3 w brzmieniu: „3) planu ruchu, o którym mowa w ust. 1 pkt 4a i 4b.”;
+
+- **5)** w art. 74:
+    - **a)** w ust. 1: – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) załącznik graficzny przedstawiający zasięg oddziaływania przedsięwzięcia;”, – pkt 4 otrzymuje brzmienie: „4) w przypadku przedsięwzięć wymagających koncesji lub decyzji, o których mowa w art. 72 ust. 1 pkt 4−5, prowadzonych w granicach przestrzeni niestanowiącej części składowej nieruchomości gruntowej oraz przedsięwzięć dotyczących urządzeń piętrzących I, II i III klasy budowli, zamiast kopii mapy, o której mowa w pkt 3 – mapę sytuacyjno-wysokościową sporządzoną w skali umożliwiającej szczegółowe przedstawienie przebiegu granic terenu, którego dotyczy wniosek, oraz obejmującą obszar, na który będzie oddziaływać przedsięwzięcie;”, – uchyla się pkt 5a,
+    - **b)** ust. 1a–2 otrzymują brzmienie: „1a. Jeżeli liczba stron w postępowaniu o wydanie decyzji o środowiskowych uwarunkowaniach przekracza 20, dla przedsięwzięć mogących zawsze znacząco oddziaływać na środowisko oraz dla przedsięwzięć mogących potencjalnie znacząco oddziaływać na środowisko, dla których stwierdzono obowiązek przeprowadzenia oceny oddziaływania na środowisko, kopię mapy, o której mowa w ust. 1 pkt 3, kopię załącznika graficznego, o którym mowa w ust. 1 pkt 3a, oraz wypis z rejestru, o którym mowa w ust. 1 pkt 6, przedkłada się wraz z raportem o oddziaływaniu przedsięwzięcia na środowisko.
+
+1b. Jeżeli liczba stron w postępowaniu o wydanie decyzji o środowiskowych uwarunkowaniach przekracza 20, dla przedsięwzięć mogących potencjalnie znacząco oddziaływać na środowisko, dla których nie stwierdzono obowiązku przeprowadzenia oceny oddziaływania na środowisko, kopię mapy, o której mowa w ust. 1 pkt 3, oraz wypis z rejestru, o którym mowa w ust. 1 pkt 6, przedkłada się w terminie 14 dni od dnia, w którym postanowienie stało się ostateczne.
+
+1c. Jeżeli liczba stron w postępowaniu o wydanie decyzji o środowiskowych uwarunkowaniach przekracza 20, dla przedsięwzięć wymagających koncesji lub decyzji, o których mowa w art. 72 ust. 1 pkt 4– 5, oraz przedsięwzięć dotyczących urządzeń piętrzących I, II i III klasy budowli, nie wymaga się wypisu z rejestru, o którym mowa w ust. 1 pkt 6.
+
+2. Raport o oddziaływaniu przedsięwzięcia na środowisko i kartę informacyjną przedsięwzięcia przedkłada się w trzech, a w przypadku gdy w postępowaniu uczestniczy dyrektor urzędu morskiego – w czterech egzemplarzach, wraz z ich zapisem w formie elektronicznej na informatycznych nośnikach danych.”;
+
+- **6)** w art. 75 w ust. 1 w pkt 1: 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, prowadzonych na podstawie koncesji;”;
+    - **a)** lit. h otrzymuje brzmienie: „h) przedsięwzięć polegających na zmianie lub rozbudowie przedsięwzięć wymienionych w lit. a–g, i oraz j,”,
+    - **b)** w lit. i średnik zastępuję się przecinkiem i dodaje się lit. j w brzmieniu: „j) przedsięwzięć polegających na poszukiwaniu lub rozpoznawaniu złóż kopalin lub na wydobywaniu kopalin ze złóż, o których mowa w art.
+
+- **7)** w art. 76 ust. 2 otrzymuje brzmienie: „2. Generalnemu Dyrektorowi Ochrony Środowiska przysługują prawa strony w postępowaniu administracyjnym lub postępowaniu przed sądem administracyjnym.”;
+- **8)** w art. 77 w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „W stanowisku, o którym mowa w ust. 4 pkt 2, regionalny dyrektor ochrony środowiska lub Generalny Dyrektor Ochrony Środowiska stwierdza konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 oraz 18, biorąc pod uwagę w szczególności następujące okoliczności:”;
+- **9)** w art. 80 dodaje się ust. 3 w brzmieniu: „3. W przypadku działalności określonej ustawą z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innej niż przedsięwzięcia wymagające koncesji na poszukiwanie i rozpoznawanie złóż kopalin, kryterium oceny lokalizacji przedsięwzięcia jest nienaruszanie ustaleń miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony.”;
+- **10)** w art. 90:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Po przeprowadzeniu oceny oddziaływania przedsięwzięcia na środowisko Generalny Dyrektor Ochrony Środowiska albo właściwy regionalny dyrektor ochrony środowiska wydaje postanowienie w sprawie uzgodnienia warunków realizacji przedsięwzięcia.”,
+    - **b)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przed wydaniem postanowienia, o którym mowa w ust. 1, Generalny Dyrektor Ochrony Środowiska albo właściwy regionalny dyrektor ochrony środowiska występuje:”,
+    - **c)** ust. 2a otrzymuje brzmienie: „2a. W przypadku gdy przedsięwzięcie jest realizowane na obszarze morskim, przed wydaniem postanowienia, o którym mowa w ust. 1, Generalny Dyrektor Ochrony Środowiska albo właściwy regionalny dyrektor ochrony środowiska występuje o wydanie opinii także do dyrektora urzędu morskiego.”,
+    - **d)** ust. 4 i 5 otrzymują brzmienie: „4. Generalny Dyrektor Ochrony Środowiska albo właściwy regionalny dyrektor ochrony środowiska rozpatruje uwagi i wnioski, o których mowa w ust. 3.
+
+5. Generalny Dyrektor Ochrony Środowiska albo właściwy regionalny dyrektor ochrony środowiska występując o opinię, o której mowa w ust. 2 pkt 2, przedkłada dokumenty, o których mowa w art. 89 ust. 2.”,
+
+- **e)** w ust. 7 zdanie pierwsze otrzymuje brzmienie: „Postanowienie, o którym mowa w ust. 1, Generalny Dyrektor Ochrony Środowiska albo właściwy regionalny dyrektor ochrony środowiska wydaje w terminie 45 dni od dnia otrzymania dokumentów, o których mowa w art. 89 ust. 2.”.
 
 **Art. 8.**
 
@@ -1015,6 +1290,9 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 
 **Art. 19.** Po dniu wejścia w życie niniejszej ustawy organy określone jako właściwe na podstawie dotychczasowych przepisów przekażą organom określonym jako właściwe na podstawie niniejszej ustawy akta spraw:
 
+- **1)** zakończonych − w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy;
+- **2)** będących w toku – niezwłocznie po zakończeniu postępowania.
+
 **Art. 20.**
 
 1. Przedsiębiorca, który do dnia 31 grudnia 2014 r. zawarł ze Skarbem Państwa umowę o ustanowieniu użytkowania górniczego w zakresie poszukiwania i rozpoznawania złoża węglowodorów albo rozpoznawania złoża węglowodorów, a następnie w terminie do dnia 31 grudnia 2014 r. uzyskał zgodę Skarbu Państwa na poddzierżawienie tego prawa, może wspólnie z poddzierżawcą postanowić w umowie poddzierżawy, że obiekty, urządzenia oraz instalacje wzniesione po dniu zawarcia tej umowy w przestrzeni objętej użytkowaniem górniczym będą ich współwłasnością w częściach ułamkowych określonych w tej umowie.
@@ -1022,6 +1300,9 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 2. Przepis ust. 1 stosuje się do przedsiębiorcy, o którym mowa w tym przepisie, do dnia przekształcenia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów albo koncesji na rozpoznawanie złoża węglowodorów w koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, dokonanego na jego wniosek złożony wspólnie z innymi podmiotami, jednak nie dłużej niż 30 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 21.** Podmiot, który w dniu wejścia w życie niniejszej ustawy wykonuje działalność określoną w art. 2 ust. 1 pkt 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 4 lat od dnia wejścia w życie niniejszej ustawy jest obowiązany:
+
+- **1)** dostosować działalność do wymagań określonych w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **2)** zawrzeć umowę o ustanowienie użytkowania górniczego; niezawarcie umowy oznacza korzystanie z własności górniczej bez wymaganego tytułu.
 
 **Art. 22.** Do należnych za okres do dnia 31 grudnia 2015 r. opłaty eksploatacyjnej, o której mowa w art. 134 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz opłaty dodatkowej, o której mowa w art. 139 ust. 3 pkt 1 i 3 ustawy, o której mowa w art. 1, w odniesieniu do działalności dotyczącej złóż węglowodorów stosuje się dotychczasowe przepisy.
 
@@ -1072,4 +1353,9 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 110 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie aktów wykonawczych wydanych na podstawie art. 110 ustawy, o której mowa w art. 1, jednak nie dłużej niż przez 36 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 27.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem:
+
+- **1)** art. 1 pkt 52, pkt 55 lit. a, pkt 56 i pkt 66, które wchodzą w życie z dniem 1 stycznia 2016 r.;
+- **2)** art. 1 pkt 61 w zakresie art. 162b–162e ustawy, o której mowa w art. 1, który wchodzi w życie po upływie 2 lat od dnia ogłoszenia;
+- **3)** art. 20, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
 

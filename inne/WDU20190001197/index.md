@@ -1,0 +1,88 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 czerwca 2019 r. zmieniające rozporządzenie w sprawie świadectwa pracy"
+address: WDU20190001197
+eli: DU/2019/1197
+publisher: DU
+year: 2019
+pos: 1197
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1197 WZÓR …………………………………… …………………….................
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 1197 |
+| ISAP | WDU20190001197 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2019-06-18 |
+| Data wydania | 2019-06-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1197/text.pdf) |
+
+ŚWIADECTWO PRACY
+1. Stwierdza się, że……………………………………………………………………………...
+urodzony……………………………………………………………………………...................
+był zatrudniony…………………………………………………………………………….........
+…………………………………………………………………………………………………..
+w okresie od ………………….. do ……………………. w wymiarze ……………………….
+w okresie od ………………….. do ……………………. w wymiarze ……………………….
+w okresie od ………………….. do ……………………. w wymiarze ……………………….
+2. W okresie zatrudnienia pracownik wykonywał pracę tymczasową na rzecz: …………………………………… w okresie od ………………….... do ……………………..
+…………………………………… w okresie od ………………….... do ……………………..
+…………………………………… w okresie od ………………….... do ……………………..
+3. W okresie zatrudnienia pracownik wykonywał pracę …………………………………….
+…………………………………………………………………………………………………..
+…………………………………………………………………………………………………..
+4. Stosunek pracy ustał w wyniku:
+a) rozwiązania ……………………………………………………………………………
+b) wygaśnięcia ……………………………………………………………………………
+5. Został zastosowany skrócony okres wypowiedzenia umowy o pracę na podstawie art. 36 § 1 Kodeksu pracy ………………………………………………………………...
+6. W okresie zatrudnienia pracownik:
+1) wykorzystał urlop wypoczynkowy w wymiarze ………………………………………..
+w tym …………………………………………………………………………………...
+2) korzystał z urlopu bezpłatnego …………………………………………………………
+3) wykorzystał urlop ojcowski w wymiarze …………...……… w …………… częściach
+4) wykorzystał urlop rodzicielski udzielony na podstawie………………………………...
+w wymiarze …………………...………………. w …………………. częściach, w tym na podstawie art. 182 § 3 Kodeksu pracy w ……………………… częściach
+5) wykorzystał urlop wychowawczy udzielony na podstawie……………………………..
+w wymiarze ………………..….. w okresie (okresach) …….………………………….
+w …………….. częściach
+6) korzystał z ochrony stosunku pracy, o której mowa w art. 186 § 1 pkt 2 Kodeksu pracy, w okresie (okresach) ……………………………………………………………
+7) wykorzystał zwolnienie od pracy przewidziane w art. 188 Kodeksu pracy …………....
+…………………………………………………………………………………………...
+8) był niezdolny do pracy przez okres ………………………………………………... dni
+9) …………………………………………………………………………………………...
+10) odbył służbę wojskową w okresie ………………………………………………………
+11) wykonywał pracę w szczególnych warunkach lub w szczególnym charakterze ……….
+…………………………………………………………………………………………...
+12) wykorzystał dodatkowy urlop albo inne uprawnienia lub świadczenia przewidziane przepisami prawa pracy ………………………………………………………………...
+13) …………………………………………………………………………………………...
+7. Informacja o zajęciu wynagrodzenia: ……………………………………………………...
+…………………………………………………………………...…………………………
+8. Informacje uzupełniające ……………………………………………………………………………………………...
+……………………………………………………………………………………………...
+….……..………………………………… POUCZENIE Pracownik może w ciągu 7 dni od dnia otrzymania świadectwa pracy wystąpić do pracodawcy z wnioskiem o sprostowanie tego świadectwa. W razie nieuwzględnienia wniosku pracownikowi przysługuje, w ciągu 7 dni od dnia otrzymania zawiadomienia o odmowie sprostowania świadectwa pracy, prawo wystąpienia z żądaniem sprostowania świadectwa pracy do Sądu Rejonowego – Sądu Pracy w ...…………………………………… ……………………………………………………………………………………………..…… SPOSÓB WYPEŁNIANIA ŚWIADECTWA PRACY
+1. Nr REGON-PKD – stanowi identyfikator pracodawcy nadany przez właściwy wojewódzki urząd statystyczny.
+2. Data – w przypadku wystawiania nowego świadectwa pracy, zgodnie z § 7 ust. 1, 2, 4 i 4a rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 30 grudnia 2016 r. w sprawie świadectwa pracy (Dz. U. z 2018 r. poz. 1289 oraz z 2019 r. poz. 1197), pracodawca wskazuje datę, w której wystawia to świadectwo.
+3. W ust. 1 – pracodawca zatrudniający pracownika przejętego od innego pracodawcy na zasadach określonych przepisami art. 23 Kodeksu pracy lub przepisami odrębnymi wskazuje również okres jego zatrudnienia u poprzedniego pracodawcy (poprzednich pracodawców) i wskazuje tego pracodawcę (tych pracodawców), – pracodawca wskazuje okres zatrudnienia pracownika w związku z rozwiązaniem lub wygaśnięciem stosunku pracy, a także okresy poprzedniego zatrudnienia u tego pracodawcy, jeżeli nie wydał świadectwa pracy w związku z rozwiązaniem lub wygaśnięciem poprzedniego stosunku pracy lub poprzednich stosunków pracy, zgodnie z art. 97 § 1 i 1 Kodeksu pracy.
+4. W ust. 4 lit. a – pracodawca wskazuje jeden z trybów rozwiązania stosunku pracy określonych w art. 23 § 4 lub § 5, w art. 30 § 1, w art. 48 § 2, w art. 68 , w art. 201 § 2 Kodeksu pracy lub w przepisach odrębnych.
+Dodatkowo w przypadku rozwiązania stosunku pracy w trybie art. 30 § 1 Kodeksu pracy: – za wypowiedzeniem lub bez wypowiedzenia – pracodawca wskazuje stronę stosunku pracy składającą oświadczenie woli w tej sprawie, – bez wypowiedzenia – pracodawca wskazuje art. 52 albo art. 53, albo art. 55 Kodeksu pracy, – na mocy porozumienia stron albo za wypowiedzeniem z przyczyn niedotyczących pracownika – pracodawca wskazuje art. 1 albo art. 10 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2018 r.
+poz. 1969).
+5. W ust. 6: w pkt 1 – pracodawca wskazuje wyłącznie liczbę dni i godzin urlopu wypoczynkowego przysługującego pracownikowi w roku kalendarzowym, w którym ustaje stosunek pracy, wykorzystanego w naturze lub za które przysługuje ekwiwalent pieniężny; odrębnie wskazuje się liczbę dni i godzin urlopu wypoczynkowego, wykorzystanego przez pracownika do dnia ustania stosunku pracy, na podstawie art. 167 Kodeksu pracy, w pkt 3 i 4 – pracodawca wskazuje wykorzystany urlop ojcowski i rodzicielski tylko w przypadku, gdy pracownik ze względu na wiek dziecka mógłby korzystać z takiego urlopu w kolejnym stosunku pracy;
+w przypadku gdy pracownik wykorzystywał więcej niż jeden urlop ojcowski lub rodzicielski – pracodawca wskazuje odrębnie urlop wykorzystany na każde z dzieci, podając imię i nazwisko dziecka, w pkt 5 – w przypadku gdy pracownik wykorzystał więcej niż jeden urlop wychowawczy – pracodawca wskazuje odrębnie urlop wykorzystany na każde z dzieci, podając imię i nazwisko dziecka, w pkt 11 – pracodawca wskazuje okres zatrudnienia pracownika, przypadający do dnia 31 grudnia 2008 r., przy wykonywaniu prac, o których mowa w rozporządzeniu Rady Ministrów z dnia 7 lutego 1983 r.
+w sprawie wieku emerytalnego pracowników zatrudnionych w szczególnych warunkach lub w szczególnym charakterze (Dz. U.
+poz. 43, z późn. zm.) – oraz stanowiska, na których te prace były wykonywane, przy uwzględnieniu treści § 1 ust. 2–4 tego rozporządzenia, w pkt 12 – pracodawca informuje o wykorzystaniu przez pracownika dodatkowego urlopu albo innych uprawnień i świadczeń tylko w zakresie mającym wpływ na uprawnienia pracownicze u kolejnego pracodawcy, wynikające z przepisów prawa pracy w rozumieniu art. 9 § 1 Kodeksu pracy, w pkt 13 – pracodawca wskazuje przypadające w okresie zatrudnienia okresy nieskładkowe określone w ustawie z dnia 17 grudnia 1998 r.
+o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270, z późn. zm.).
+6. W ust. 8 pracodawca zamieszcza informację:
+1) o należnościach ze stosunku pracy uznanych przez niego i niewypłaconych pracownikowi do dnia ustania stosunku pracy z powodu braku środków finansowych;
+2) na żądanie pracownika:
+a) o wysokości i składnikach wynagrodzenia,
+b) o uzyskanych kwalifikacjach,
+c) o prawomocnym orzeczeniu sądu pracy o przywróceniu pracownika do pracy lub przyznaniu mu odszkodowania, gdy zachodzi przypadek określony w § 7 ust. 3 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 30 grudnia 2016 r. w sprawie świadectwa pracy, przy czym pracodawca, uzupełniając treść świadectwa pracy o tę informację, podpisuje ją i opatruje datą.
+

@@ -8,10 +8,10 @@ pos: 86
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 stycznia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 86 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 4 stycznia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/86/text.pdf) |
 
-Poz. 86 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 4 stycznia 2017 r.
 w sprawie upoważnienia Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych do wykonywania zadań w sprawach uznawania kwalifikacji w zawodach regulowanych Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r.
-poz. 543, z późn. zm. ) zarządza się, co następuje: § 1. Upoważnia się Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych do wykonywania zadań w sprawach uznawania nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodu regulowanego „rzeczoznawca w zakresie jakości handlowej artykułów rolno-spożywczych”.
+poz. 543, z późn. zm. ) zarządza się, co następuje:
+§ 1. Upoważnia się Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych do wykonywania zadań w sprawach uznawania nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodu regulowanego „rzeczoznawca w zakresie jakości handlowej artykułów rolno-spożywczych”.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961, 2003 i 2260.

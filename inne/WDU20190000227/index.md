@@ -8,10 +8,10 @@ pos: 227
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 lutego 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 227 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ ORAZ MINISTRA INWESTYCJI I ROZWOJU z dnia 24 stycznia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/227/text.pdf) |
 
-Poz. 227 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ ORAZ MINISTRA INWESTYCJI I ROZWOJU z dnia 24 stycznia 2019 r.
 w sprawie zakresu wymagań, jakie dla obiektów budowlanych lokalizowanych na obszarach szczególnego zagrożenia powodzią może określać pozwolenie wodnoprawne Na podstawie art. 390 ust. 4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r.
-poz. 125) zarządza się, co następuje: § 1. Pozwolenie wodnoprawne może określać wymagania dla obiektów budowlanych lokalizowanych na obszarach szczególnego zagrożenia powodzią dotyczące:
+poz. 125) zarządza się, co następuje:
+§ 1. Pozwolenie wodnoprawne może określać wymagania dla obiektów budowlanych lokalizowanych na obszarach szczególnego zagrożenia powodzią dotyczące:
 1) lokalizacji obiektu budowlanego na działce budowlanej – w zakresie dostosowania usytuowania względem kierunku przepływu wody powodziowej;
 2) doboru rozwiązań architektoniczno-budowlanych i materiałowych, w tym dotyczących:
 a) konstrukcji obiektu budowlanego – w zakresie jej dostosowania do wyporu w czasie zalania wodami powodziowymi oraz naporu wody i kry,

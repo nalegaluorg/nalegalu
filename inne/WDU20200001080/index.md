@@ -8,10 +8,10 @@ pos: 1080
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1080 ROZPORZĄDZENIE RA D Y MINISTRÓW z dnia 4 czerwca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1080/text.pdf) |
 
-ROZPORZĄDZENIE RA D Y MINISTRÓW z dnia 4 czerwca 2020 r.
 w sprawie ustanowienia Odznaki Honorowej Meritis pro Familia, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia Na podstawie art. 4 ust. 2 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r.
-poz. 38) zarządza się, co następuje: § 1. 1. Ustanawia się Odznakę Honorową Meritis pro Familia, zwaną dalej „odznaką”.
+poz. 38) zarządza się, co następuje:
+§ 1. 1. Ustanawia się Odznakę Honorową Meritis pro Familia, zwaną dalej „odznaką”.
 2. Odznakę nadaje minister właściwy do spraw rodziny.
-3. Odznaka jest zaszczytnym, honorowym wyróżnieniem przyznawanym osobom fizycznym, a także organizacjom oraz instytucjom za zasługi w zakresie spraw objętych działem administracji rządowej rodzina.
+3. Odznaka jest zaszczytnym, honorowym wyróżnieniem przyznawanym osobom fizycznym, a także organizacjom oraz instytucjom za zasługi w zakresie spraw objętych działem administracji rządowej – rodzina.
 4. Odznaka jest jednostopniowa.
 § 2. Minister właściwy do spraw rodziny może nadać odznakę z własnej inicjatywy lub na wniosek:
 1) ministra;
@@ -38,7 +38,7 @@ poz. 38) zarządza się, co następuje: § 1. 1. Ustanawia się Odznakę Honorow
 4) terenowego organu administracji rządowej lub organu jednostki samorządu terytorialnego.
 § 3. 1. Wniosek o nadanie odznaki zawiera dane osobowe osoby fizycznej, dane organizacji lub instytucji przedstawionej do wyróżnienia, a także informacje o osiągnięciach uzasadniających nadanie odznaki.
 2. Wzór wniosku, o którym mowa w ust. 1, jest określony w załączniku nr 1 do rozporządzenia.
-§ 4. 1. Odznakę stanowi okrągły medal o średnicy 36 mm wykonany z metalu w kolorze brązu, patynowany, z wrzecionowatym uszkiem i kółkiem do zawieszenia. Na stronie licowej, pośrodku, na tle wizerunku pnia dębu drzewa będącego symbolem mocy rodziny, jej przeszłości, trwania i przyszłości, widnieją wyrastające z niego stylizowane dwa liście i trzy żołędzie, które są symbolem owocnej miłości w rodzinie. Wzdłuż dolnej krawędzi medalu umieszczony jest wypukły, majuskułowy napis „MERITIS PRO FAMILIA”. Na stronie odwrotnej, na tle z przenikających się kręgów, symbolu wzajemnego oddziaływania w rodzinie, między wypukłym, majuskułowym napisem u góry z prawej „RZECZPOSPOLITA” a napisem „POLSKA” u dołu widnieje skośnie położona stylizowana gałązka wawrzynu symbolizująca zasługę.
+§ 4. 1. Odznakę stanowi okrągły medal o średnicy 36 mm wykonany z metalu w kolorze brązu, patynowany, z wrzecionowatym uszkiem i kółkiem do zawieszenia. Na stronie licowej, pośrodku, na tle wizerunku pnia dębu – drzewa będącego symbolem mocy rodziny, jej przeszłości, trwania i przyszłości, widnieją wyrastające z niego stylizowane dwa liście i trzy żołędzie, które są symbolem owocnej miłości w rodzinie. Wzdłuż dolnej krawędzi medalu umieszczony jest wypukły, majuskułowy napis „MERITIS PRO FAMILIA”. Na stronie odwrotnej, na tle z przenikających się kręgów, symbolu wzajemnego oddziaływania w rodzinie, między wypukłym, majuskułowym napisem u góry z prawej „RZECZPOSPOLITA” a napisem „POLSKA” u dołu widnieje skośnie położona stylizowana gałązka wawrzynu symbolizująca zasługę.
 2. Odznaka jest zawieszona na wstążce z rypsu w kolorze brązowym o szerokości 38 mm, z dwoma złocistymi prążkami o szerokości 3 mm biegnącymi w takiej samej odległości od krawędzi oraz trzema takimi samymi prążkami o szerokości 1 mm, przechodzącymi przez środek w odległości 1 mm od siebie, co odzwierciedla symbolikę lica odznaki.
 3. Wzór odznaki jest określony w załączniku nr 2 do rozporządzenia.
 4. Wyróżniona osoba fizyczna, organizacja lub instytucja otrzymuje odznakę wraz z dyplomem stwierdzającym jej nadanie, którego wzór jest określony w załączniku nr 3 do rozporządzenia.
@@ -60,11 +60,11 @@ Prezes Rady Ministrów: M. Morawiecki Załączniki do rozporządzenia Rady Minis
 Określenie podmiotu występującego z wnioskiem: ..................................................................
 ....................................................................................................................................................
 Miejscowość, data: ...................................................................................................................
-DECYZJA MINISTRA Wzór Odznaki Honorowej Meritis pro Familia WZóR ODZNAKI HONOROWEj MERITIS PRO FAMILIA awers rewers
+DECYZJA MINISTRA Załącznik nr 2 Wzór Odznaki Honorowej Meritis pro Familia WZóR ODZNAKI HONOROWEj MERITIS PRO FAMILIA awers rewers WZóR DYPLOMU STWIERDZAjĄCEGO NADANIE ODZNAKI HONOROWEj MERITIS PRO FAMILIA DYPLOM w uznaniu zasług nadaję osobie fizycznej, organizacji, instytucji Odznakę Honorową MERITIS PRO FAMILIA Numer: Data:
 
-## CZĘŚĆ I PODSTAWOWE INFORMACJE
+## CZĘŚĆ I – PODSTAWOWE INFORMACJE
 
-## CZĘŚĆ II OPIS OSIĄGNIĘĆ OSOBY FIZYCZNEJ / ORGANIZACJI / INSTYTUCJI (zaznaczyć i opisać właściwe, maksymalnie 3000 znaków) 󒐠 za całokształt działalności 󒐠 za konkretne osiągnięcia o szczególnym znaczeniu
+## CZĘŚĆ II – OPIS OSIĄGNIĘĆ OSOBY FIZYCZNEJ / ORGANIZACJI / INSTYTUCJI (zaznaczyć i opisać właściwe, maksymalnie 3000 znaków) 󒐠 za całokształt działalności 󒐠 za konkretne osiągnięcia o szczególnym znaczeniu
 
-## CZĘŚĆ III UZASADNIENIE WNIOSKU (maksymalnie 3000 znaków) WNOSZĘ O NADANIE ODZNAKI HONOROWEJ MERITIS PRO FAMILIA Czytelny podpis: .......................................................................................................................
+## CZĘŚĆ III – UZASADNIENIE WNIOSKU (maksymalnie 3000 znaków) WNOSZĘ O NADANIE ODZNAKI HONOROWEJ MERITIS PRO FAMILIA Czytelny podpis: .......................................................................................................................
 

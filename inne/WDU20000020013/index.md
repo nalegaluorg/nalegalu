@@ -8,7 +8,7 @@ pos: 13
 act_type: Konwencja
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: W dniu 2 października 1973 r. w Hadze została sporządzona Konwencja dotycząca uznawania i wykonywania orzeczeń odnoszących się do obowiązków alimentacyjnych w następującym brzmieniu: Przekład Konwencja o uznawaniu i wykonywaniu orzeczeń odnoszących się do obowiązków alimentacyjnych Państwa-sygnatariusze niniejszej konwencji, pragnąc przyjąć wspólne postanowienia regulujące wzajemne uznawanie i wykonywanie orzeczeń dotyczących obowiązków alimentacyjnych wobec osób pełnoletnich, pragnąc dostosować te postanowienia do postanowień Konwencji z dnia 15 kwietnia 1958 r. o uznawaniu i wykonywaniu orzeczeń w przedmiocie obowiązków alimentacyjnych w stosunku do dzieci, postanowiły zawrzeć w tym celu konwencję i zgodziły się na następujące postanowienia:
@@ -38,7 +38,8 @@ Orzeczenia tymczasowo wykonalne i środki tymczasowe podlegają uznaniu lub wyko
 Artykuł 5 Można jednak odmówić uznawania lub wykonania orzeczenia, jeżeli:
 1. uznania lub wykonalności orzeczenia nie da się w sposób oczywisty pogodzić z porządkiem publicznym państwa wezwanego lub
 2. orzeczenie zostało uzyskane wskutek oszustwa w przedmiocie postępowania, lub
-3. przed organem Państwa wezwanego toczy się wcześniej wszczęte postępowanie między tymi samymi stronami o ten sam przedmiot, lub samymi stronami i o ten sam przedmiot w Państwie wezwanym lub w innym Państwie, z zastrzeżeniem, że to ostatnie orzeczenie spełnia warunki konieczne do jego uznania i wykonalności w Państwie wezwanym.
+3. przed organem Państwa wezwanego toczy się wcześniej wszczęte postępowanie między tymi samymi stronami o ten sam przedmiot, lub
+4. orzeczenia nie da się pogodzić z orzeczeniem wydanym między tymi samymi stronami i o ten sam przedmiot w Państwie wezwanym lub w innym Państwie, z zastrzeżeniem, że to ostatnie orzeczenie spełnia warunki konieczne do jego uznania i wykonalności w Państwie wezwanym.
 Artykuł 6 Bez uszczerbku dla postanowień artykułu 5, orzeczenie zaoczne zostanie uznane lub tylko wtedy, gdy zawiadomienie o wszczęciu postępowania, istotne elementy żądania, zostało doręczone stronie nieobecnej zgodnie z Państwa pochodzenia i jeżeli, uwzględniając okoliczności, strona ta miała dostateczny czas dla przedstawienia swej obrony.
 Artykuł 7 Uważa się, że w rozumieniu niniejszej konwencji organowi Państwa przysługuje jurysdykcja, jeżeli:
 1. dłużnik alimentacyjny lub wierzyciel alimentacyjny mieli miejsce stałego pobytu w Państwie pochodzenia w chwili wszczęcia postępowania lub
@@ -57,14 +58,13 @@ Artykuł 17 Strona ubiegająca się o uznanie lub wykonanie orzeczenia powinna p
 2. dokument stwierdzający, że od orzeczenia nie służy już żaden zwyczajny środek odwoławczy w Państwie pochodzenia oraz, jeżeli to niezbędne, że jest ono wykonalne;
 3. jeżeli orzeczenie zostało wydane zaocznie, oryginał lub uwierzytelniony odpis dokumentu stanowiącego dowód, że stronie nieobecnej należycie doręczono zawiadomienie o wszczęciu postępowania, łącznie z zawiadomieniem o istocie roszczenia, zgodnie z prawem Państwa pochodzenia;
 4. w razie potrzeby, dokument stanowiący dowód przyznania w Państwie bezpłatnego zastępstwa procesowego lub zwolnienia opłat i wydatków;
-organ Państwa wezwanego zrezygnuje z takiego tłumaczenia.
+5. uwierzytelnione tłumaczenie wyżej wymienionych dokumentów, chyba że organ Państwa wezwanego zrezygnuje z takiego tłumaczenia.
 W razie nieprzedstawienia dokumentów wyżej wymienionych lub jeżeli orzeczenia nie pozwala organowi Państwa wezwanego na zbadanie, czy niniejszej konwencji zostały spełnione, organ ten wyznaczy termin na niezbędnych dokumentów.
 Nie można żądać legalizacji lub innych podobnych formalności.
 1. dochodzenie zwrotu jest dopuszczalne według prawa, któremu instytucja publiczna podlega, oraz
 2. istnienie obowiązku alimentacyjnego między danym wierzycielem i danym dłużnikiem przewidziane jest przez prawo wewnętrzne, wskazane jako właściwe przez prawo prywatne międzynarodowe Państwa wezwanego.
 Artykuł 19 Instytucja publiczna może ubiegać się o uznanie lub wykonanie orzeczenia wydanego między wierzycielem alimentacyjnym i dłużnikiem alimentacyjnym do wysokości świadczeń udzielonych wierzycielowi, jeżeli z mocy prawa, któremu podlega, przysługuje jej legitymacja do wystąpienia o uznanie lub wykonanie orzeczenia w miejsce wierzyciela.
 Artykuł 20 Bez uszczerbku dla postanowień artykułu 17, instytucja publiczna ubiegająca się o uznanie lub wykonanie orzeczenia powinna przedstawić jakikolwiek dokument stanowiący dowód, że spełnia ona warunki punktu 1 artykułu 18 lub artykułu 19 oraz że świadczenia zostały udzielone wierzycielowi alimentacyjnemu.
-Postanowienia różne Artykuł 22 Umawiające się Państwa, których prawo ogranicza transfer pieniędzy, przyznają najwyższy priorytet transferowi pieniędzy przekazywanych z tytułu alimentów albo przeznaczonych na pokrycie opłat i wydatków powstałych w związku z jakimkolwiek roszczeniem, którego dotyczy niniejsza konwencja.
 Artykuł 23 Niniejsza konwencja nie stanowi przeszkody, aby inna umowa międzynarodowa obowiązująca między Państwem pochodzenia i Państwem wezwanym lub przepisy Państwa wezwanego zostały zastosowane w celu uzyskania uznania lub wykonania orzeczenia lub ugody.
 Artykuł 24 Niniejszą konwencję stosuje się niezależnie od daty wydania orzeczenia.
 Jeżeli orzeczenie zostało wydane przed wejściem w życie konwencji w stosunkach między Państwem pochodzenia i Państwem wezwanym, może być wykonane w tym ostatnim Państwie tylko w zakresie świadczeń wymagalnych po tym wejściu w życie konwencji.
@@ -73,7 +73,7 @@ Artykuł 26 Każde Umawiające się Państwo będzie mogło, zgodnie z artykułe
 1. orzeczeń i ugód dotyczących alimentów należnych za okres po zawarciu małżeństwa lub po ukończeniu dwudziestu jeden lat przez wierzyciela alimentacyjnego, chyba że dłużnik alimentacyjny jest lub był małżonkiem takiego wierzyciela;
 2. orzeczeń i ugód dotyczących obowiązku alimentacyjnego: a. między krewnymi w linii bocznej, b. między powinowatymi;
 3. orzeczeń i ugód nie przewidujących okresowego płacenia alimentów.
-żądać zastosowania niniejszej konwencji do orzeczeń lub ugód wyłączonych przez jego zastrzeżenie.
+Umawiające się Państwo, które dokonało zastrzeżenia, nie będzie mogło żądać zastosowania niniejszej konwencji do orzeczeń lub ugód wyłączonych przez jego zastrzeżenie.
 Artykuł 27 Jeżeli w Umawiającym się Państwie, w przedmiocie obowiązków alimentacyjnych, obowiązują dwa lub więcej niż dwa systemy prawne, mające zastosowanie do różnych kategorii osób, wszelkie powołanie się na prawo tego Państwa odnosi się do tego systemu prawa, który zgodnie z przepisami tego Państwa ma zastosowanie do szczególnej kategorii osób.
 Artykuł 28 Jeżeli Umawiające się Państwo składa się z dwóch lub większej liczby jednostek terytorialnych, w których do uznawania i wykonywania orzeczeń w przedmiocie obowiązków alimentacyjnych mają zastosowanie różne systemy prawne:
 1. wszelkie powołanie się na prawo, postępowanie lub organ Państwa pochodzenia odnosi się do prawa, postępowania lub organu tej jednostki terytorialnej, w której orzeczenie zostało wydane;
@@ -91,7 +91,7 @@ Następnie, w każdym czasie, takie rozciągnięcie powinno być notyfikowane Mi
 Rozciągnięcie będzie skuteczne w stosunkach między Umawiającymi się Państwami, które nie zgłosiły zastrzeżeń przeciwko niemu w ciągu dwunastu miesięcy po otrzymaniu notyfikacji wymienionej w punkcie 4 artykułu 37, a terytorium lub terytoriami, za których stosunki zagraniczne dane Państwo jest odpowiedzialne i w odniesieniu do których notyfikacja została dokonana.
 Zastrzeżenie takie może być także zgłoszone po tym rozciągnięciu przez każde Państwo członkowskie w chwili ratyfikacji, przyjęcia lub zatwierdzenia konwencji.
 Zastrzeżenia te będą notyfikowane Ministerstwu Spraw Zagranicznych Niderlandów.
-Artykuł 33 Jeżeli Umawiające się Państwo składa się z dwóch lub więcej jednostek terytorialnych, w których stosuje się różne systemy prawa odnośnie do uznawania i wykonywania orzeczeń w przedmiocie obowiązków alimentacyjnych, może ono w chwili podpisywania, ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia złożyć oświadczenie, że niniejsza konwencja będzie rozciągała się na te wszystkie jego oświadczenie w każdej chwili przez złożenie innego oświadczenia.
+Artykuł 33 Jeżeli Umawiające się Państwo składa się z dwóch lub więcej jednostek terytorialnych, w których stosuje się różne systemy prawa odnośnie do uznawania i wykonywania orzeczeń w przedmiocie obowiązków alimentacyjnych, może ono w chwili podpisywania, ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia złożyć oświadczenie, że niniejsza konwencja będzie rozciągała się na te wszystkie jego jednostki terytorialne albo na jedną lub więcej z nich, oraz może zmienić swe oświadczenie w każdej chwili przez złożenie innego oświadczenia.
 Oświadczenia te powinny być notyfikowane Ministerstwu Spraw Zagranicznych Niderlandów i powinny wyraźnie określać jednostkę terytorialną, do której konwencja ma zastosowanie.
 Inne Umawiające się Państwa mogą odmówić uznania orzeczenia w przedmiocie obowiązków alimentacyjnych, jeżeli w chwili ubiegania się o uznanie konwencja nie ma zastosowania do jednostki terytorialnej, na której orzeczenie zostało wydane.
 Artykuł 34 Każde Państwo może, nie później niż w chwili ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, złożyć jedno lub więcej zastrzeżeń przewidzianych w artykule 26.
@@ -105,7 +105,7 @@ Następnie konwencja wejdzie w życie: - w stosunku do każdego Państwa-sygnata
 - w stosunku do terytoriów, na które konwencja została rozciągnięta zgodnie z artykułem 32, pierwszego dnia trzeciego miesiąca kalendarzowego po upływie terminu wymienionego w tym artykule.
 Artykuł 36 Niniejsza konwencja będzie obowiązywała przez pięć lat od chwili jej wejścia w życie zgodnie z ustępem pierwszym artykułu 35, również w stosunku do Państw, które ją potem ratyfikowały, przyjęły, zatwierdziły lub do niej przystąpiły.
 W braku wypowiedzenia odnawia się ona milcząco na pięć lat po upływie każdych pięciu lat.
-Niderlandów najpóźniej na sześć miesięcy przed upływem każdego okresu pięcioletniego. Wypowiedzenie może być ograniczone do niektórych terytoriów, do których konwencja ma zastosowanie.
+Wypowiedzenie notyfikuje się Ministerstwu Spraw Zagranicznych Niderlandów najpóźniej na sześć miesięcy przed upływem każdego okresu pięcioletniego. Wypowiedzenie może być ograniczone do niektórych terytoriów, do których konwencja ma zastosowanie.
 Wypowiedzenie staje się skuteczne tylko w stosunku do Państwa, które ją złożyło. Konwencja pozostaje w mocy w stosunku do pozostałych Umawiających się Państw.
 Artykuł 37 Ministerstwo Spraw Zagranicznych Niderlandów notyfikuje Państwom członkowskim Konferencji oraz Państwom, które do konwencji przystąpiły zgodnie z artykułem 31:
 1. podpisania, ratyfikacje, przyjęcia i zatwierdzenia wymienione w artykule 30;
@@ -128,7 +128,7 @@ Article 2 This Convention shall apply to a decision or settlement however descri
 It shall also apply to a decision or settlement modifying a previous decision or settlement, even in the case where this originates from a non-Contracting State.
 It shall apply irrespective of the international or internal character of the maintenance claim and whatever may be the nationality or habitual residence of the parties.
 Article 3 If a decision or settlement does not relate solely to a maintenance obligation, the effect of the Convention is limited to the parts of the decision or settlement which concern maintenance obligations.
-Chapter II Conditions for recognition and enforcement of decisions Article 4 A decision rendered in a Contracting State shall be recognised or enforced in another Contracting State or 8; and
+Chapter II Conditions for recognition and enforcement of decisions Article 4 A decision rendered in a Contracting State shall be recognised or enforced in another Contracting State 1. if it was rendered by an authority considered to have jurisdiction under Article 7 or 8; and
 2. if it is no longer subject to ordinary forms of review in the State of origin.
 Provisionally enforceable decisions and provisional measures shall, although subject to ordinary forms of review, be recognised or enforced in the State addressed if similar decisions may be rendered and enforced in that State.
 Article 5 Recognition or enforcement of a decision may, however, be refused 1. if recognition or enforcement of the decision is manifestly incompatible with the public policy ('ordre public') of the State addressed; or
@@ -140,7 +140,7 @@ Article 7 An authority in the State of origin shall be considered to have jurisd
 or
 2. if the maintenance debtor and the maintenance creditor were nationals of the State of origin at the time when the proceedings were instituted; or
 3. if the defendant had submitted to the jurisdiction of the authority, either expressly or by defending on the merits of the case without objecting to the jurisdiction.
-Article 8 Without prejudice to the provisions of Article 7, the authority of a Contracting State which has given judgment on a maintenance claim shall be considered to have jurisdiction for the purposes of this Convention if the maintenance is due by reason obtained from an authority of that State recognised as having jurisdiction in that matter, according to the law of the State addressed.
+Article 8 Without prejudice to the provisions of Article 7, the authority of a Contracting State which has given judgment on a maintenance claim shall be considered to have jurisdiction for the purposes of this Convention if the maintenance is due by reason of a divorce or a legal separation, or a declaration that a marriage is void or annulled, obtained from an authority of that State recognised as having jurisdiction in that matter, according to the law of the State addressed.
 Article 9 The authority of the State addressed shall be bound by the findings of fact on which the authority of the State of origin based its jurisdiction.
 Article 10 If a decision deals with several issues in an application for maintenance and if recognition or enforcement cannot be granted for the whole of the decision, the authority of the State addressed shall apply this Convention to that part of the decision which can be recognised or enforced.
 Article 11 If a decision provided for the periodical payment of maintenance enforcement shall be granted in respect of payments already due and in respect of future payments.
@@ -148,7 +148,7 @@ Article 12 There shall be no review by the authority of the State addressed of t
 Chapter III Procedure for recognition and enforcement of decisions Article 13 The procedure for the recognition or enforcement of a decision shall be governed by the law of the State addressed, unless this Convention otherwise provides.
 Article 14 Partial recognition or enforcement of a decision can always be applied for.
 Article 15 A maintenance creditor, who, in the State of origin, has benefited from complete or partial legal aid or exemption from costs or expenses, shall be entitled, in any proceedings for recognition or enforcement, to benefit from the most favourable legal aid or the most extensive exemption from costs or expenses provided for by the law of the State addressed.
-Article 16 guarantee the payment of costs and expenses in the proceedings to which the Convention refers.
+Article 16 No security, bond or deposit, however described, shall be required to guarantee the payment of costs and expenses in the proceedings to which the Convention refers.
 Article 17 The party seeking recognition or applying for enforcement of a decision shall furnish 1. a complete and true copy of the decision;
 2. any document necessary to prove that the decision is no longer subject to the ordinary forms of review in the State of origin and, where necessary, that it is enforceable;
 3. if the decision was rendered by default, the original or a certified true copy of any document required to prove that the notice of the institution of proceedings, including notice of the substance of the claim, has been properly served on the defaulting party according to the law of the State of origin;
@@ -166,7 +166,7 @@ Article 23 This Convention shall not restrict the application of an internationa
 Article 24 This Convention shall apply irrespective of the date on which a decision was rendered.
 Where a decision has been rendered prior to the entry into force of the Convention between the State of origin and the State addressed, it shall be enforced in the latter State only for payments falling due after such entry into force.
 Article 25 Any Contracting State may, at any time, declare that the provisions of this Convention will be extended, in relation to other States making a declaration under this Article, to an official deed ("acte authentique") drawn up by or before an authority or public official and directly enforceable in the State of origin insofar as these provisions can be applied to such deeds.
-Any Contracting State may, in accordance with Article 34, reserve the right not to recognise or enforce 1. a decision or settlement insofar as it relates to a period of time after a maintenance creditor attains the age of twenty-one years or marries, except when the creditor is or was the spouse of the maintenance debtor;
+Article 26 Any Contracting State may, in accordance with Article 34, reserve the right not to recognise or enforce 1. a decision or settlement insofar as it relates to a period of time after a maintenance creditor attains the age of twenty-one years or marries, except when the creditor is or was the spouse of the maintenance debtor;
 2. a decision or settlement in respect of maintenance obligations a. between persons related collaterally;
 b. between persons related by affinity;
 3. a decision or settlement unless it provides for the periodical payment of maintenance.
@@ -178,7 +178,7 @@ Article 28 If a Contracting State has two or more territorial units in which dif
 3. any reference made in the application of subparagraph 1 or 2 to the law or procedure of the State of origin or to the law or procedure of the State addressed shall be construed as including any relevant legal rules and principles of the Contracting State which apply to the territorial units comprising it;
 4. any reference to the habitual residence of the maintenance creditor or the maintenance debtor in the State of origin shall be construed as referring to his habitual residence in the territorial unit in which the decision was rendered.
 Any Contracting State may, at any time, declare that it will not apply any one or more of the foregoing rules to one or more of the provisions of this Convention.
-Article 29 Convention on the Recognition and Enforcement of Decisions Relating to Maintenance Obligations in Respect of Children concluded at The Hague on the 15 of April 1958.
+Article 29 This Convention shall replace, as regards the States who are Parties to it, the Convention on the Recognition and Enforcement of Decisions Relating to Maintenance Obligations in Respect of Children concluded at The Hague on the 15 of April 1958.
 Chapter VII Final clauses Article 30 This Convention shall be open for signature by the States which were Members of the Hague Conference on Private International Law at the time of its Twelfth Session.
 It shall be ratified, accepted or approved and the instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Netherlands.
 Article 31 Any State which has become a Member of the Hague Conference on Private International Law after the date of its Twelfth Session, or which is a Member of the United Nations or of a specialised agency of that Organisation, or a Party to the Statute of the International Court of Justice may accede to this Convention after it has entered into force in accordance with the first paragraph of Article 35.
@@ -188,7 +188,7 @@ Article 32 Any State may, at the time of signature, ratification, acceptance, ap
 At any time thereafter, such extensions shall be notified to the Ministry of Foreign Affairs of the Netherlands.
 The extensions shall have effect as regards the relations between the Contracting States which have not raised an objection to the extension in the twelve months after the receipt of the notification referred to in sub-paragraph 4 of Article 37 and the territory or territories for the international relations of which the State in question is responsible and in respect of which the notification was made.
 Such an objection may also be raised by Member States when they ratify, accept or approve the Convention after an extension.
-Netherlands.
+Any such objection shall be notified to the Ministry of Foreign Affairs of the Netherlands.
 Article 33 If a Contracting State has two or more territorial units in which different systems of law apply in relation to the recognition and enforcement of maintenance decisions, it may, at the time of signature, ratification, acceptance, approval or accession, declare that this Convention shall extend to all its territorial units or only to one or more of them, and may modify its declaration by submitting another declaration at any time thereafter.
 These declarations shall be notified to the Ministry of Foreign Affairs of the Netherlands, and shall state expressly the territorial unit to which the Convention applies.
 Other Contracting States may decline to recognise a maintenance decision if, at the date on which recognition is sought, the Convention is not applicable to the territorial unit in which the decision was rendered.
@@ -202,7 +202,7 @@ Article 35 This Convention shall enter into force on the first day of the third 
 Thereafter the Convention shall enter into force: - for each State ratifying, accepting or approving it subsequently, on the first day of the third calendar month after the deposit of its instrument of ratification, acceptance or approval;
 - for each acceding State, on the first day of the third calendar month after the expiry of the period referred to in Article 31;
 - for a territory to which the Convention has been extended in conformity with Article 32, on the first day of the third calendar month after the expiry of the period referred to in that Article.
-Article 36 into force in accordance with the first paragraph of Article 35, even for States which have ratified, accepted, approved or acceded to it subsequently.
+Article 36 This Convention shall remain in force for five years from the date of its entry into force in accordance with the first paragraph of Article 35, even for States which have ratified, accepted, approved or acceded to it subsequently.
 If there has been no denunciation, it shall be renewed tacitly every five years.
 Any denunciation shall be notified to the Ministry of Foreign Affairs of the Netherlands, at least six months before the expiry of the five year period. It may be limited to certain of the territories to which the Convention applies.
 The denunciation shall have effect only as regards the State which has notified it. The Convention shall remain in force for the other Contracting States.
@@ -217,7 +217,7 @@ Article 37 The Ministry of Foreign Affairs of the Netherlands shall notify the S
 In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
 Done at The Hague, on the 2nd day of October 1973, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Netherlands, and of which a certified copy shall be sent, through the diplomatic channel, to each of the States Members of the Hague Conference on Private International Law at the date of its Twelfth Session.
 
-#### Rozdział I Zakres stosowania konwencji Artykuł 1 Niniejszą konwencję stosuje się do orzeczeń wydanych przez organy sądowe lub administracyjne Umawiającego się Państwa w przedmiocie obowiązków małżeństwa lub powinowactwa, łącznie z obowiązkiem alimentacyjnym wobec dziecka pozamałżeńskiego, między:
+#### Rozdział I Zakres stosowania konwencji Artykuł 1 Niniejszą konwencję stosuje się do orzeczeń wydanych przez organy sądowe lub administracyjne Umawiającego się Państwa w przedmiocie obowiązków alimentacyjnych wynikających ze stosunków rodzinnych, pokrewieństwa, małżeństwa lub powinowactwa, łącznie z obowiązkiem alimentacyjnym wobec dziecka pozamałżeńskiego, między:
 
 #### Rozdział II Warunki uznawania i wykonalności orzeczeń Artykuł 4 Orzeczenie wydane w jednym z Umawiających się Państw podlega uznaniu lub wykonaniu w innym Umawiającym się Państwie, jeżeli:
 
@@ -227,5 +227,7 @@ Done at The Hague, on the 2nd day of October 1973, in the English and French lan
 
 #### Rozdział V Ugody Artykuł 21 Ugody wykonalne w Państwie pochodzenia podlegają uznaniu i wykonaniu na takich samych warunkach co orzeczenia, jeżeli warunki te mają do nich zastosowanie.
 
-#### Rozdział VII Postanowienia końcowe Artykuł 30 członkami Haskiej konferencji prawa międzynarodowego prywatnego podczas jej dwunastej sesji.
+#### Rozdział VI Postanowienia różne Artykuł 22 Umawiające się Państwa, których prawo ogranicza transfer pieniędzy, przyznają najwyższy priorytet transferowi pieniędzy przekazywanych z tytułu alimentów albo przeznaczonych na pokrycie opłat i wydatków powstałych w związku z jakimkolwiek roszczeniem, którego dotyczy niniejsza konwencja.
+
+#### Rozdział VII Postanowienia końcowe Artykuł 30 Niniejsza konwencja jest otwarta do podpisu przez Państwa, które były członkami Haskiej konferencji prawa międzynarodowego prywatnego podczas jej dwunastej sesji.
 

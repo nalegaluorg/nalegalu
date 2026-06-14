@@ -8,10 +8,10 @@ pos: 59
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 stycznia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 59 Umowa między Rzecząpospolitą Polską a Królestwem Marokańskim o przekazywaniu osób skazanych, podpisana w Rabacie dnia 30 czerwca 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000059) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/59/text.pdf) |
 
-Umowa między Rzecząpospolitą Polską a Królestwem Marokańskim o przekazywaniu osób skazanych, podpisana w Rabacie dnia 30 czerwca 2008 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 30 czerwca 2008 r. w Rabacie została podpisana Umowa między Rzecząpospolitą Polską a Królestwem Marokańskim o przekazywaniu osób skazanych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 30 czerwca 2008 r. w Rabacie została podpisana Umowa między Rzecząpospolitą Polską a Królestwem Marokańskim o przekazywaniu osób skazanych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 7 kwietnia 2009 r.
 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński L.S.

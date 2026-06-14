@@ -8,7 +8,7 @@ pos: 1206
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Narodowym Planie Rozwoju
@@ -33,7 +33,36 @@ Art. 62–67. (pominięte)
 
 **Art. 1.** Ustawa określa sposób przygotowania i realizacji Narodowego Planu Rozwoju 2004–2006, w tym:
 
+- **1)** zasady koordynacji i współdziałania organów administracji rządowej, organów administracji samorządowej i partnerów społecznych i gospodarczych;
+- **2)** zasady współdziałania z instytucjami Wspólnot Europejskich oraz organizacjami międzynarodowymi;
+- **3)** instrumenty finansowe;
+- **4)** system instytucjonalny;
+- **5)** system programowania, monitorowania, sprawozdawczości, oceny i kontroli.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** beneficjent – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, korzystające z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o której mowa w art. 11 ust. 7;
+- **2)** instytucja płatnicza – ministra właściwego do spraw finansów publicznych;
+- **3)** instytucja pośrednicząca – instytucję, do której instytucja zarządzająca deleguje część funkcji związanych z zarządzaniem, kontrolą i monitorowaniem programu operacyjnego albo strategii wykorzystania Funduszu Spójności, odnoszącą się do priorytetu operacyjnego, działania albo projektu;
+- **4)** instytucja wdrażająca – podmiot publiczny lub prywatny, odpowiedzialny za realizację działania w ramach programu operacyjnego na podstawie umowy z instytucją zarządzającą;
+- **4a)** instytucja właściwa do spraw prowadzenia kontroli wyrywkowej – Szefa Krajowej Administracji Skarbowej;
+- **4b)** instytucja właściwa do spraw wystawienia deklaracji zamknięcia pomocy – Szefa Krajowej Administracji Skarbowej;
+- **5)** instytucja zarządzająca – właściwego ministra odpowiedzialnego za przygotowanie i realizację programu operacyjnego albo za przygotowanie i nadzorowanie realizacji strategii wykorzystania Funduszu Spójności, o których mowa w rozporządzeniu Rady (WE) nr 1260/1999 z dnia 21 czerwca 1999 r. ustanawiającym przepisy ogólne w sprawie funduszy strukturalnych (Dz. Urz. WE L 161 z 26.06.1999, L 198 z 21.07.2001 oraz L 158 z 27.06.2003; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str.
+- **31)** oraz w rozporządzeniu Rady (WE) nr 1164/1994 z dnia 16 maja 1994 r. ustanawiającym Fundusz Spójności (Dz. Urz. WE L 130 z 25.05.1994, L 161 z 26.06.1999; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str.
+- **9)** ;
+- **5a)** Instytucja Zarządzająca Podstawami Wsparcia Wspólnoty – ministra właściwego do spraw rozwoju regionalnego;
+- **6)** monitorowanie – proces systematycznego gromadzenia i analizowania informacji dotyczących realizacji projektów, programów operacyjnych, strategii wykorzystania Funduszu Spójności i Narodowego Planu Rozwoju oraz Podstaw Wsparcia Wspólnoty;
+- **7)** okres programowania – wieloletni okres planowania budżetów Wspólnot Europejskich;
+- **8)** partnerzy społeczni i gospodarczy – organizacje przedsiębiorców i pracodawców, związki zawodowe, samorządy zawodowe, organizacje pozarządowe oraz podmioty, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619 i 1630), których działalność obejmuje zagadnienia związane z Narodowym Planem Rozwoju oraz programami operacyjnymi i strategią wykorzystania Funduszu Spójności;
+- **9)** projekt – przedsięwzięcie realizowane w ramach działania, będące przedmiotem umowy o dofinansowanie projektu między beneficjentem a instytucją zarządzającą, instytucją wdrażającą albo działającą w imieniu instytucji zarządzającej instytucją pośredniczącą, albo decyzji, o której mowa w art. 11 ust. 7, lub współfinansowane ze środków pochodzących z Funduszu Spójności;
+- **10)** publiczne środki krajowe – środki finansowe pochodzące z budżetu państwa oraz państwowych funduszy celowych, środki budżetów jednostek samorządu terytorialnego, środki innych jednostek sektora finansów publicznych, a także inne środki jednostek oraz form organizacyjno-prawnych sektora finansów publicznych;
+- **11)** publiczne środki wspólnotowe – środki finansowe pochodzące z budżetu Wspólnot Europejskich, a w szczególności z funduszy strukturalnych, o których mowa w przepisach Unii Europejskiej w sprawie Europejskiego Funduszu Rozwoju Regionalnego, w sprawie Europejskiego Funduszu Społecznego, w sprawie wsparcia rozwoju obszarów wiejskich z Europejskiego Funduszu Orientacji i Gwarancji Rolnej (EFOiGR) oraz zmieniających i uchylających niektóre rozporządzenia, rozporządzeniu w sprawie Instrumentu Finansowego Wspierania Rybołówstwa oraz rozporządzeniu ustanawiającym Fundusz Spójności, ujęte w załączniku do ustawy budżetowej, służące realizacji Narodowego Planu Rozwoju;
+- **12)** regionalny program operacyjny – dokument służący realizacji Narodowego Planu Rozwoju, składający się ze spójnego zestawienia priorytetów operacyjnych i działań, odnoszący się do województwa albo województw, przygotowany przez zarząd województwa albo zarządy województw działające w porozumieniu, albo przez ministra właściwego do spraw rozwoju regionalnego;
+- **13)** sektorowy program operacyjny – dokument służący realizacji Narodowego Planu Rozwoju, składający się ze spójnego zestawienia priorytetów operacyjnych i działań, odnoszący się do sektora gospodarki, przygotowany przez właściwego ministra;
+- **14)** strategia wykorzystania Funduszu Spójności – dokument określający kierunki wydatkowania środków z Funduszu Spójności, uzgodniony z Komisją Europejską, przygotowany przez ministra właściwego do spraw rozwoju regionalnego;
+- **15)** system realizacji – zasady i procedury obowiązujące instytucje uczestniczące we wdrażaniu Narodowego Planu Rozwoju, programów operacyjnych i strategii wykorzystania Funduszu Spójności, obejmujące monitorowanie, sprawozdawczość, kontrolę i ocenę;
+- **16)** wkład własny – określoną w umowie o dofinansowanie projektu albo decyzji, o której mowa w art. 11 ust. 7, część nakładów ponoszonych przez beneficjenta na jego realizację, niepodlegającą zwrotowi.
+- **17)** (uchylony)
 
 **Art. 3.**
 
@@ -60,6 +89,13 @@ Art. 62–67. (pominięte)
 
 **Art. 5.** Przy opracowywaniu Planu uwzględnia się cele zawarte w:
 
+- **1)** (uchylony)
+- **2)** strategiach sektorowych;
+- **3)** strategiach rozwoju województw;
+- **4)** programach wieloletnich, o których mowa w art. 99 ust. 2 pkt 4 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. poz. 2104, z późn. zm. ) ;
+- **5)** koncepcji przestrzennego zagospodarowania kraju;
+- **6)** założeniach polityki naukowej i naukowo-technicznej państwa oraz założeniach polityki innowacyjnej państwa.
+
 **Art. 6.**
 
 1. (uchylony)
@@ -84,6 +120,12 @@ Art. 62–67. (pominięte)
 4. Programy i strategia wykorzystania Funduszu Spójności, o których mowa w ust. 1, mogą być również współfinansowane ze środków prywatnych.
 
 **Art. 9.** Programy, o których mowa w art. 8 ust. 1 pkt 1–3, finansowane z publicznych środków krajowych, obejmują okres realizacji Planu i zawierają:
+
+- **1)** diagnozę sytuacji społeczno-gospodarczej sektora bądź województwa, którego dotyczą, z uwzględnieniem zróżnicowań przestrzennych;
+- **2)** cel główny i cele szczegółowe zgodne z celami określonymi w Planie;
+- **3)** priorytety operacyjne i działania;
+- **4)** szacunkowy plan finansowy w podziale na priorytety operacyjne;
+- **5)** system realizacji.
 
 **Art. 10.**
 
@@ -128,6 +170,15 @@ Art. 62–67. (pominięte)
 #### Rozdział 3 Organy i instytucje odpowiedzialne za przygotowanie i realizację Planu
 
 **Art. 12.** Instytucja Zarządzająca Podstawami Wsparcia Wspólnoty:
+
+- **1)** przygotowuje Plan;
+- **2)** koordynuje przygotowania programów i strategii wykorzystania Funduszu Spójności, o których mowa w art. 8 ust. 1, oraz zapewnia ich spójność z Planem;
+- **3)** nadzoruje realizację Planu;
+- **4)** koordynuje realizację programów, o których mowa w art. 8 ust. 1 pkt 1–3;
+- **5)** zarządza Podstawami Wsparcia Wspólnoty;
+- **6)** zarządza strategią wykorzystania Funduszu Spójności;
+- **7)** formułuje propozycje zmian dotyczących Planu, wynikających z przebiegu jego realizacji;
+- **8)** zapewnia zgodność z Planem zmian wprowadzanych w programach oraz strategii wykorzystania Funduszu Spójności.
 
 **Art. 13.**
 
@@ -185,6 +236,14 @@ Art. 62–67. (pominięte)
 
 **Art. 18a.** Instytucja Zarządzająca Podstawami Wsparcia Wspólnoty koordynuje proces wdrażania funduszy strukturalnych w Rzeczypospolitej Polskiej, w szczególności:
 
+- **1)** wydaje wytyczne dotyczące funkcjonowania systemu wdrażania funduszy strukturalnych w zakresie zarządzania programami operacyjnymi, sprawozdawczości, kwalifikowalności wydatków, monitorowania procesu wdrażania funduszy, skierowane do instytucji uczestniczących w realizacji Planu, w celu zachowania jednolitości zasad wdrażania Planu;
+- **2)** wydaje w porozumieniu z instytucją płatniczą wytyczne dotyczące funkcjonowania kontroli finansowej i organizacji przepływów finansowych;
+- **3)** organizuje prace Komitetu Monitorującego, o którym mowa w art. 39 ust. 1;
+- **4)** sporządza sprawozdania z postępów wdrażania funduszy strukturalnych dla Komisji Europejskiej oraz właściwych organów i instytucji;
+- **5)** negocjuje z Komisją Europejską ewentualne zmiany Podstaw Wsparcia Wspólnoty;
+- **6)** koordynuje politykę informacyjną i promocyjną w obszarze funduszy strukturalnych oraz strategii wykorzystania Funduszu Spójności;
+- **7)** organizuje i koordynuje proces ewaluacji Podstaw Wsparcia Wspólnoty.
+
 **Art. 19.**
 
 1. Instytucja zarządzająca może przekazać, w drodze porozumienia, zarządzanie, monitorowanie i kontrolę poszczególnych priorytetów operacyjnych, działań lub projektów instytucjom pośredniczącym.
@@ -218,6 +277,13 @@ Art. 62–67. (pominięte)
 **Art. 23.** (uchylony)
 
 **Art. 23a.** Do zadań wojewody związanych z realizacją regionalnego programu operacyjnego, o którym mowa w art. 8 ust. 1 pkt 2, należy:
+
+- **1)** kontrola realizacji projektów, w tym trwałości projektów, ich rezultatów i oddziaływania;
+- **2)** przygotowywanie sprawozdań z realizacji projektów i programu operacyjnego w województwie oraz wniosków o płatność, w tym sprawozdania końcowego z realizacji programu operacyjnego w województwie i wniosków o płatność końcową;
+- **3)** odzyskiwanie od beneficjentów nieprawidłowo wykorzystanego lub pobranego dofinansowania;
+- **4)** nadzór nad przestrzeganiem przez beneficjentów zasad dotyczących informacji i promocji;
+- **5)** archiwizacja dokumentów związanych z wdrażaniem programu operacyjnego, w tym przechowywanie zabezpieczeń wnoszonych przez beneficjentów, przez okres wymagany zgodnie z umową o dofinansowanie;
+- **6)** przygotowywanie i udostępnianie informacji, związanych z programem operacyjnym, podmiotom uprawnionym do wykonywania czynności kontrolnych i ewaluacyjnych.
 
 #### Rozdział 4 Finansowanie realizacji Planu
 
@@ -405,6 +471,10 @@ Art. 62–67. (pominięte)
 #### Rozdział 6 Szczególny tryb finansowania zadań z zakresu rozwoju regionalnego
 
 **Art. 37.** Działania z zakresu rozwoju regionalnego, nieujęte w kontrakcie, mogą być finansowane z dotacji celowych z budżetu państwa wyłącznie w przypadkach realizacji:
+
+- **1)** programów interwencyjnych tworzonych i realizowanych w razie klęsk żywiołowych, nagłych sytuacji kryzysowych, w szczególności na rynku pracy i w gospodarce;
+- **2)** programów pilotażowych testujących nowe rozwiązania i instrumenty rozwoju regionalnego;
+- **3)** programów doradczych i informacyjnych.
 
 #### Rozdział 7 Monitorowanie realizacji Planu
 
@@ -688,6 +758,9 @@ Art. 62–67. (pominięte)
 
 **Art. 51.** Kontrola programów i projektów współfinansowanych ze wspólnotowych środków publicznych obejmuje:
 
+- **1)** sprawdzenie dostarczenia współfinansowanych towarów i usług, prawdziwości i kwalifikowalności poniesionych wydatków w projektach oraz ich zgodności z prawem i politykami horyzontalnymi Unii Europejskiej;
+- **2)** sprawdzenie przestrzegania procedur i sprawności funkcjonowania systemu wdrażania we wszystkich elementach programów operacyjnych i strategii wykorzystania Funduszu Spójności.
+
 **Art. 52.**
 
 1. Instytucja zarządzająca przeprowadza kontrolę w zakresie, o którym mowa w art. 51 pkt 1, w odniesieniu do projektów realizowanych w ramach programu operacyjnego lub strategii wykorzystania Funduszu Spójności.
@@ -727,6 +800,9 @@ Art. 62–67. (pominięte)
 **Art. 56.** Minister właściwy do spraw rozwoju regionalnego określi, w drodze rozporządzenia, tryb przeprowadzania kontroli, o których mowa w art. 52 i 53, mając na uwadze potrzebę zapewnienia prawidłowego wydatkowania środków z funduszy strukturalnych i Funduszu Spójności.
 
 **Art. 56a.** Instytucja Zarządzająca Podstawami Wsparcia Wspólnoty, instytucja płatnicza oraz instytucja właściwa do spraw wystawienia deklaracji zamknięcia pomocy, o której mowa w art. 15 rozporządzenia Komisji (WE) nr 438/2001 z dnia 2 marca 2001 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1260/1999 dotyczącego zarządzania i systemów kontroli pomocy udzielanej w ramach Funduszy Strukturalnych, oraz deklaracji zamknięcia projektów, o której mowa w art. 13 rozporządzenia Komisji (WE) nr 1386/2002 z dnia 29 lipca 2002 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1164/94 w zakresie systemów zarządzania i kontroli pomocy przyznanej z Funduszu Spójności i procedury dokonywania korekt finansowych, może zwrócić się do instytucji właściwej do spraw kontroli wyrywkowej lub do instytucji zarządzającej programem, albo zlecić podmiotom zewnętrznym, przeprowadzenie dodatkowych kontroli lub audytów systemu wdrażania w sytuacji, w której:
+
+- **1)** pojawią się uzasadnione wątpliwości co do sprawności, skuteczności lub prawidłowości działania systemu wdrażania funduszy strukturalnych lub strategii wykorzystania Funduszu Spójności;
+- **2)** wyniki kontroli, o których mowa w niniejszym rozdziale, uznane zostaną za niewystarczające dla wystawienia deklaracji zamknięcia pomocy.
 
 **Art. 56b.**
 

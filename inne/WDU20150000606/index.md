@@ -8,10 +8,10 @@ pos: 606
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 maja 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 606 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 17 kwietnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/606/text.pdf) |
 
-Poz. 606 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 17 kwietnia 2015 r.
-w sprawie nagród uznaniowych i zapomóg dla funkcjonariuszy Służby Kontrwywiadu Wojskowego Na podstawie art. 85 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106 i 1822) zarządza się, co następuje: § 1. Rozporządzenie określa warunki przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego, zwanym dalej „funkcjonariuszami”, nagród i zapomóg, okoliczności uzasadniające przyznanie funkcjonariuszowi nagrody uznaniowej i zapomogi, właściwość przełożonych oraz tryb postępowania w tych sprawach.
+w sprawie nagród uznaniowych i zapomóg dla funkcjonariuszy Służby Kontrwywiadu Wojskowego Na podstawie art. 85 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106 i 1822) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego, zwanym dalej „funkcjonariuszami”, nagród i zapomóg, okoliczności uzasadniające przyznanie funkcjonariuszowi nagrody uznaniowej i zapomogi, właściwość przełożonych oraz tryb postępowania w tych sprawach.
 § 2. Funkcjonariuszowi można, oprócz okoliczności określonej w art. 96g ust. 1 ustawy z dnia 9 czerwca 2006 r.
 o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, zwanej dalej „ustawą”, przyznać nagrodę uznaniową za:
 1) uzyskiwanie znaczących wyników w służbie;

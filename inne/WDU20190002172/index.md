@@ -8,10 +8,10 @@ pos: 2172
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 listopada 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2172 Załączniki do rozporządzenia Ministra Edukacji Narodowej z dnia 15 października 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2172/text.pdf) |
 
-RAMY PROGRAMOWE KSZTAŁCENIA UZUPEŁNIAJĄCEGO DLA SZKÓŁ POLSKICH Trzyletnie liceum ogólnokształcące Klasy I–III JĘZYK POLSKI Cele kształcenia wymagania ogólne I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
+(poz. ….) Załącznik nr 1 RAMY PROGRAMOWE KSZTAŁCENIA UZUPEŁNIAJĄCEGO DLA SZKÓŁ POLSKICH Trzyletnie liceum ogólnokształcące Klasy I–III JĘZYK POLSKI Cele kształcenia – wymagania ogólne I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 Uczeń rozumie teksty o skomplikowanej budowie; dostrzega sensy zawarte w strukturze głębokiej tekstu; rozpoznaje funkcje tekstu i środki językowe służące ich realizacji; ma świadomość kryteriów poprawności językowej.
 II. Analiza i interpretacja tekstów kultury.
 Uczeń stosuje w analizie podstawowe pojęcia z zakresu poetyki; w interpretacji tekstu wykorzystuje wiedzę o kontekstach, w jakich może być on odczytywany; poznaje niezbędne dla lektury fakty z historii literatury i innych dziedzin humanistyki; odczytuje rozmaite sensy dzieła; dokonuje interpretacji porównawczej.
 III. Tworzenie wypowiedzi.
 Uczeń buduje wypowiedzi o wyższym stopniu złożoności; stosuje w nich podstawowe zasady logiki i retoryki; ma świadomość własnej kompetencji językowej.
-Treści nauczania wymagania szczegółowe Kursywą zaznaczono treści nauczania dla uczniów na poziomie C biegłości językowej (poziom zaawansowany).
+Treści nauczania – wymagania szczegółowe Kursywą zaznaczono treści nauczania dla uczniów na poziomie C biegłości językowej (poziom zaawansowany).
 I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 1. Słuchanie. Uczeń:
 1) rozumie wypowiedzi monologowe i dialogowe, w tym nadawane za pomocą środków audiowizualnych;
@@ -106,7 +106,7 @@ Jarosław Iwaszkiewicz, wybrane opowiadanie;
 Adam Mickiewicz, wybrane sonety i inne wiersze (w tym Romantyczność),*Dziady część III, *Pan Tadeusz;
 Cyprian Norwid, wybrane wiersze;
 Bolesław Prus, *Lalka;
-Władysław Stanisław Reymont, Chłopi (tom I Jesień);
+Władysław Stanisław Reymont, Chłopi (tom I – Jesień);
 *Bruno Schulz, wybrane opowiadanie;
 Mikołaj Sęp Szarzyński, wybrane sonety;
 Juliusz Słowacki, wybrane wiersze;
@@ -198,12 +198,12 @@ język nauki:
 a) terminy z zakresu wiedzy o języku,
 b) terminy z zakresu wiedzy o literaturze,
 c) terminy historyczne i geograficzne.
-Tabela diagnostyczna poziomu znajomości języka WIEDZA O POLSCE (elementy historii, geografii, kultury) Cele kształcenia wymagania ogólne w zakresie historii i kultury Uczeń zdobywa usystematyzowaną wiedzę na temat historii Polski od odzyskania niepodległości w 1918 r. do czasów współczesnych, która pozwoli mu lepiej poznać historię najnowszą Polski oraz dostrzec korzenie wielu współczesnych zjawisk politycznych, społecznych i kulturowych. Zdobywa usystematyzowaną wiedzę o kulturze i społeczeństwie polskim w XX w.
+Tabela diagnostyczna poziomu znajomości języka WIEDZA O POLSCE (elementy historii, geografii, kultury) Cele kształcenia – wymagania ogólne w zakresie historii i kultury Uczeń zdobywa usystematyzowaną wiedzę na temat historii Polski od odzyskania niepodległości w 1918 r. do czasów współczesnych, która pozwoli mu lepiej poznać historię najnowszą Polski oraz dostrzec korzenie wielu współczesnych zjawisk politycznych, społecznych i kulturowych. Zdobywa usystematyzowaną wiedzę o kulturze i społeczeństwie polskim w XX w.
 1. Chronologia historyczna: uczeń porządkuje i synchronizuje wydarzenia z dziejów ojczystych w XX w.; dostrzega zmienność i dynamikę wydarzeń, a także ciągłość procesów historycznych.
 2. Analiza i interpretacja historyczna: uczeń analizuje wydarzenia, zjawiska i procesy historyczne w kontekście epoki i dostrzega zależności pomiędzy różnymi dziedzinami życia społecznego; rozpoznaje rodzaje źródeł; ocenia przydatność źródeł do wyjaśnienia problemów społecznych i historycznych; dostrzega wielość perspektyw badawczych oraz wielorakie interpretacje historii i ich przyczyny.
 3. Tworzenie narracji historycznej: uczeń tworzy narrację historyczną; dostrzega problem i buduje argumentację, uwzględniając różne aspekty procesów społeczno-historycznych;
 dokonuje selekcji i hierarchizacji oraz integruje pozyskane informacje z różnych źródeł wiedzy.
-Treści nauczania wymagania szczegółowe w zakresie historii i kultury
+Treści nauczania – wymagania szczegółowe w zakresie historii i kultury
 1. Odbudowa niepodległości i życie polityczne II Rzeczypospolitej. Uczeń:
 1) opisuje proces kształtowania się terytorium II Rzeczypospolitej, w tym powstanie wielkopolskie i powstania śląskie oraz plebiscyty, a także wojnę polsko-bolszewicką;
 2) rozpoznaje charakterystyczne cechy ustroju II Rzeczypospolitej zapisane w konstytucjach z 1921 r. i 1935 r.;
@@ -240,7 +240,7 @@ Treści nauczania wymagania szczegółowe w zakresie historii i kultury
 8) charakteryzuje działalność opozycji demokratycznej w latach siedemdziesiątych;
 9) opisuje relacje państwo–Kościół i ocenia rolę Kościoła rzymskokatolickiego w życiu politycznym i społecznym; charakteryzuje sylwetkę prymasa Stefana Wyszyńskiego;
 10) charakteryzuje kulturę i życie codzienne w Polsce Ludowej.
-6. Rozpad systemu komunistycznego w Polsce polska droga do suwerenności. Uczeń:
+6. Rozpad systemu komunistycznego w Polsce – polska droga do suwerenności. Uczeń:
 1) przedstawia znaczenie pontyfikatu Jana Pawła II dla przemian politycznych w Polsce;
 2) wyjaśnia przyczyny i skutki wydarzeń sierpniowych 1980 r.; opisuje rolę „Solidarności” w przemianach politycznych i ustrojowych;
 3) przedstawia okoliczności wprowadzenia i następstwa stanu wojennego;
@@ -271,9 +271,9 @@ z wydarzeniami europejskimi i powszechnymi.
 4) wyjaśnia, czym zajmują się ambasady i konsulaty;
 5) przedstawia prawa i obowiązki wynikające z posiadania obywatelstwa Unii Europejskiej;
 6) formułuje i uzasadnia własne zdanie na temat korzyści, jakie niesie ze sobą członkostwo w Unii Europejskiej.
-Cele kształcenia wymagania ogólne w zakresie geografii Uczeń korzysta z planów, map, fotografii, rysunków, wykresów, danych statystycznych, tekstów źródłowych oraz technologii informacyjno-komunikacyjnych w celu gromadzenia, przetwarzania i prezentowania informacji geograficznych o Polsce. Posługuje się podstawowym słownictwem geograficznym przy opisywaniu oraz wyjaśnianiu zjawisk i procesów zachodzących w środowisku geograficznym. Identyfikuje związki i zależności w środowisku przyrodniczym, gospodarce i życiu społecznym Polski. Rozbudza swoje zainteresowania przyrodniczym i kulturowym środowiskiem Polski.
+Cele kształcenia – wymagania ogólne w zakresie geografii Uczeń korzysta z planów, map, fotografii, rysunków, wykresów, danych statystycznych, tekstów źródłowych oraz technologii informacyjno-komunikacyjnych w celu gromadzenia, przetwarzania i prezentowania informacji geograficznych o Polsce. Posługuje się podstawowym słownictwem geograficznym przy opisywaniu oraz wyjaśnianiu zjawisk i procesów zachodzących w środowisku geograficznym. Identyfikuje związki i zależności w środowisku przyrodniczym, gospodarce i życiu społecznym Polski. Rozbudza swoje zainteresowania przyrodniczym i kulturowym środowiskiem Polski.
 Treści nauczania i wymagania szczegółowe w zakresie geografii
-1. Mapa umiejętności czytania, interpretacji i posługiwania się mapą Polski. Uczeń:
+1. Mapa – umiejętności czytania, interpretacji i posługiwania się mapą Polski. Uczeń:
 1) odczytuje z map informacje przedstawione za pomocą różnych metod kartograficznych;
 2) posługuje się planem, mapą topograficzną, turystyczną, samochodową Polski (między innymi orientuje mapę oraz identyfikuje obiekty geograficzne na mapie, planuje podróż do Polski i wycieczki po kraju);
 3) określa położenie i charakteryzuje obiekty geograficzne na fotografiach, zdjęciach lotniczych i satelitarnych oraz mapach topograficznych Polski.

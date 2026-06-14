@@ -54,13 +54,17 @@ saos_id|date|court|case_number|type|score|saos_url
 544433|2024-10-18|SO|I ACa 1203/23|Wyrok|56|https://www.saos.org.pl/judgments/544433
 544430|2024-10-18|SO|I ACa 1106/23|Wyrok|56|https://www.saos.org.pl/judgments/544430
 529414|2024-10-04|SO|I ACa 3035/23|Wyrok|56|https://www.saos.org.pl/judgments/529414
+545286|2024-10-01|SO|V ACa 2221/23|Wyrok|56|https://www.saos.org.pl/judgments/545286
+545234|2024-10-01|SO|V ACa 2299/23|Wyrok|56|https://www.saos.org.pl/judgments/545234
 531358|2024-09-30|SO|I ACa 316/24|Wyrok|56|https://www.saos.org.pl/judgments/531358
 529315|2024-09-25|SO|I ACa 1013/22|Wyrok|56|https://www.saos.org.pl/judgments/529315
+545058|2024-09-23|SO|V ACa 1729/23|Wyrok|56|https://www.saos.org.pl/judgments/545058
 529478|2024-09-20|SO|I ACa 253/24|Wyrok|56|https://www.saos.org.pl/judgments/529478
 541826|2024-09-19|SO|I ACa 963/23|Wyrok|56|https://www.saos.org.pl/judgments/541826
 523895|2024-09-19|SO|I ACa 981/23|Wyrok|56|https://www.saos.org.pl/judgments/523895
 529325|2024-09-17|SO|I ACa 8/24|Wyrok|56|https://www.saos.org.pl/judgments/529325
 529107|2024-09-16|SO|I ACa 3040/23|Wyrok|56|https://www.saos.org.pl/judgments/529107
+545118|2024-09-09|SO|V ACa 1721/23|Wyrok|56|https://www.saos.org.pl/judgments/545118
 528995|2024-09-05|SO|I ACa 1010/22|Wyrok|56|https://www.saos.org.pl/judgments/528995
 528105|2024-08-09|SO|I ACa 789/23|Wyrok|56|https://www.saos.org.pl/judgments/528105
 528531|2024-08-06|SO|I ACa 944/22|Wyrok|56|https://www.saos.org.pl/judgments/528531
@@ -77,6 +81,7 @@ saos_id|date|court|case_number|type|score|saos_url
 541820|2024-05-15|SO|I ACa 538/23|Wyrok|56|https://www.saos.org.pl/judgments/541820
 517685|2024-04-25|SO|V ACa 2177/23|Wyrok|56|https://www.saos.org.pl/judgments/517685
 531473|2024-04-18|SO|I ACa 1375/22|Wyrok|56|https://www.saos.org.pl/judgments/531473
+545057|2024-04-15|SO|V ACa 1217/23|Wyrok|56|https://www.saos.org.pl/judgments/545057
 521590|2024-04-15|SO|I ACa 3039/23|Wyrok|56|https://www.saos.org.pl/judgments/521590
 528295|2024-04-10|SO|I ACa 1597/22|Wyrok|56|https://www.saos.org.pl/judgments/528295
 544783|2024-04-08|SO|V ACa 952/23|Wyrok|56|https://www.saos.org.pl/judgments/544783
@@ -86,6 +91,7 @@ saos_id|date|court|case_number|type|score|saos_url
 521108|2024-03-21|SO|I ACa 883/22|Wyrok|56|https://www.saos.org.pl/judgments/521108
 520890|2024-03-21|SO|I ACa 849/22|Wyrok|56|https://www.saos.org.pl/judgments/520890
 520889|2024-03-21|SO|I ACa 3401/23|Wyrok|56|https://www.saos.org.pl/judgments/520889
+546851|2024-03-18|SO|V ACa 1299/23|Wyrok|56|https://www.saos.org.pl/judgments/546851
 542646|2024-03-18|SO|V ACa 1233/23|Wyrok|56|https://www.saos.org.pl/judgments/542646
 542647|2024-03-15|SO|V ACa 1817/23|Wyrok|56|https://www.saos.org.pl/judgments/542647
 542575|2024-03-15|SO|V ACa 1770/23|Wyrok|56|https://www.saos.org.pl/judgments/542575

@@ -8,10 +8,10 @@ pos: 1585
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1585 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 16 sierpnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1585/text.pdf) |
 
-Poz. 1585 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 16 sierpnia 2021 r.
-zmieniające rozporządzenie w sprawie wykazu prywatnych instytucji uprawnionych do korzystania ze zwolnienia od należności przywozowych zwierząt specjalnie przygotowanych do użytku laboratoryjnego oraz substancji biologicznych lub chemicznych Na podstawie art. 45 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2020 r. poz. 1382 oraz z 2021 r. poz. 802 i 1163) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 23 grudnia 2010 r. w sprawie wykazu prywatnych instytucji uprawnionych do korzystania ze zwolnienia od należności przywozowych zwierząt specjalnie przygotowanych do użytku laboratoryjnego oraz substancji biologicznych lub chemicznych (Dz. U. poz. 1738) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie wykazu prywatnych instytucji uprawnionych do korzystania ze zwolnienia od należności przywozowych zwierząt specjalnie przygotowanych do użytku laboratoryjnego oraz substancji biologicznych lub chemicznych Na podstawie art. 45 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2020 r. poz. 1382 oraz z 2021 r. poz. 802 i 1163) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 23 grudnia 2010 r. w sprawie wykazu prywatnych instytucji uprawnionych do korzystania ze zwolnienia od należności przywozowych zwierząt specjalnie przygotowanych do użytku laboratoryjnego oraz substancji biologicznych lub chemicznych (Dz. U. poz. 1738) wprowadza się następujące zmiany:
 1) w § 2:
 a) ust. 1 otrzymuje brzmienie: „1. Do korzystania ze zwolnienia od należności przywozowych zwierząt specjalnie przygotowanych do użytku laboratoryjnego są uprawnione instytucje ujęte w wykazie, o którym mowa w § 1, będące użytkownikami wpisanymi do rejestru hodowców, dostawców i użytkowników, o którym mowa w art. 26 ustawy z dnia 15 stycznia 2015 r.
 o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2021 r. poz. 1331).”,

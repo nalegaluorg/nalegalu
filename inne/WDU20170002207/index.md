@@ -8,10 +8,10 @@ pos: 2207
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2207 poprawkI do załącznika do Konwencji o ochronie fok antarktycznych, sporządzonej w Londynie dnia 1 czerwca 1972 r., przyjęte w Londynie dnia 16 września 1988 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002207) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2207/text.pdf) |
 
-Poz. 2207 poprawkI do załącznika do Konwencji o ochronie fok antarktycznych, sporządzonej w Londynie dnia 1 czerwca 1972 r., przyjęte w Londynie dnia 16 września 1988 r.
 Przekład
 

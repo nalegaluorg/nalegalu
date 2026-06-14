@@ -8,7 +8,7 @@ pos: 1863
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Karcie Dużej Rodziny
@@ -38,6 +38,11 @@ Art. 31–35. (pominięte)
 2. Uprawnienia przysługujące osobom posiadającym ważną Kartę polegają na przyznaniu korzystniejszego od ogólnie obowiązującego dostępu do towarów, usług lub innych form działalności.
 
 **Art. 2.** Karta jest środkiem identyfikującym członka rodziny wielodzietnej, poświadczającym prawo członka rodziny wielodzietnej do uprawnień ustalonych w trybie określonym w niniejszej ustawie lub przyznanych na podstawie przepisów odrębnych:
+
+- **1)** wydawanym w formie dokumentu z tworzywa sztucznego, zwanym dalej „kartą tradycyjną”, lub
+- **2)** realizowanym przy użyciu: o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275), zwanej dalej „aplikacją mObywatel”, na podstawie porozumienia między ministrem właściwym do spraw rodziny a ministrem właściwym do spraw informatyzacji – zwanym dalej „kartą elektroniczną”.
+    - **a)** oprogramowania dedykowanego dla urządzeń mobilnych, zawierającego usługi ułatwiające korzystanie z przyznanych uprawnień, udostępnionego przez ministra właściwego do spraw rodziny lub wskazanego w informacji zamieszczonej w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw rodziny lub
+    - **b)** aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o wójcie, należy przez to rozumieć także burmistrza oraz prezydenta miasta.
 
@@ -69,6 +74,11 @@ Art. 31–35. (pominięte)
 4. Prawo do posiadania Karty nie przysługuje rodzicowi zastępczemu lub prowadzącemu rodzinny dom dziecka, w przypadku gdy sąd orzekł o odebraniu im dzieci z uwagi na niewłaściwe sprawowanie pieczy zastępczej.
 
 **Art. 5.** Prawo do posiadania Karty przysługuje członkowi rodziny wielodzietnej, który jest:
+
+- **1)** osobą posiadającą obywatelstwo polskie, mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej;
+- **2)** cudzoziemcem mającym miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielony w związku z okolicznością, o której mowa w art. 159 ust. 1 i art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769 i
+- **1222)** , lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej, jeżeli zamieszkuje z członkami rodziny na terytorium Rzeczypospolitej Polskiej;
+- **3)** mającym miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej obywatelem państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom jego rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633), posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 6.**
 
@@ -225,6 +235,9 @@ Art. 31–35. (pominięte)
 
 **Art. 14.** Wójt, przyznając Kartę, informuje członka rodziny wielodzietnej o:
 
+- **1)** przysługujących mu uprawnieniach przez wskazanie strony internetowej urzędu obsługującego ministra właściwego do spraw rodziny, na której jest zamieszczony wykaz uprawnień przysługujących członkom rodzin wielodzietnych posiadającym Karty;
+- **2)** obowiązku niezwłocznego powiadomienia o wystąpieniu zmian mających wpływ na prawo do posiadania Karty, zmian danych zawartych w Karcie lub zmiany miejsca zamieszkania.
+
 **Art. 15.**
 
 1. W przypadku wystąpienia zmian:
@@ -267,6 +280,13 @@ Art. 31–35. (pominięte)
 4. Wójt realizuje ustawę za pomocą systemu teleinformatycznego, o którym mowa w ust. 1 pkt 2.
 
 **Art. 19.** Minister właściwy do spraw rodziny pozyskuje za pomocą systemu teleinformatycznego, o którym mowa w art. 18 ust. 1 pkt 2, dane o realizacji ustawy, w szczególności w zakresie:
+
+- **1)** liczby przyznanych Kart;
+- **2)** liczby rodzin wielodzietnych posiadających Karty;
+- **3)** liczby dzieci wchodzących w skład rodzin wielodzietnych posiadających Karty;
+- **4)** wydatków poniesionych na realizację ustawy;
+- **5)** informacji niezbędnych do ustalenia kosztów obsługi zadań gminy związanych z przyznaniem Karty;
+- **6)** informacji o przyznanych przez jednostki samorządu terytorialnego uprawnieniach dla członków rodzin wielodzietnych.
 
 **Art. 20.** Wojewoda, o którym mowa w art. 24 ust. 3, oraz organizacja pozarządowa, o której mowa w art. 24 ust. 4, przekazują na bieżąco ministrowi właściwemu do spraw rodziny za pomocą systemu teleinformatycznego, o którym mowa w art. 18 ust. 1 pkt 2, informacje na temat negocjacji przeprowadzonych z podmiotami innymi niż instytucje zgłoszone przez właściwych ministrów oraz umów zawartych z tymi podmiotami.
 
@@ -320,6 +340,10 @@ Art. 31–35. (pominięte)
 7. Osoby przetwarzające dane osobowe, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności.
 
 **Art. 22.** Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób unieważnienia Karty, szczegółowy zakres informacji, jakie mają być zawarte we wniosku o przyznanie Karty lub wydanie jej duplikatu, oraz wzory:
+
+- **1)** Karty,
+- **2)** znaku „Tu honorujemy Kartę Dużej Rodziny”,
+- **3)** logo rodziny wielodzietnej – uwzględniając konieczność odpowiedniego zabezpieczenia Karty oraz ujednolicenia procedur w sprawach o przyznanie Karty, a także mając na uwadze konieczność zapewnienia szerokiej rozpoznawalności logo rodziny wielodzietnej i znaku „Tu honorujemy Kartę Dużej Rodziny”.
 
 #### Rozdział 4 Przyznanie uprawnień przysługujących na podstawie Karty
 

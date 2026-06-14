@@ -8,10 +8,10 @@ pos: 1815
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1815 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 29 listopada 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1815/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 29 listopada 2024 r.
-zmieniające rozporządzenie w sprawie krajowego zezwolenia generalnego Na podstawie art. 8 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rozwoju i Technologii z dnia 6 lipca 2022 r. w sprawie krajowego zezwolenia generalnego (Dz. U. poz. 1567, z 2023 r. poz. 787 oraz z 2024 r. poz. 57) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie krajowego zezwolenia generalnego Na podstawie art. 8 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rozwoju i Technologii z dnia 6 lipca 2022 r. w sprawie krajowego zezwolenia generalnego (Dz. U. poz. 1567, z 2023 r. poz. 787 oraz z 2024 r. poz. 57) wprowadza się następujące zmiany:
 1) § 13b otrzymuje brzmienie: „§ 13b. 1. Na wywóz lub tranzyt towarów określonych w kategorii LU 13 wykazu, o którym mowa w § 2, udziela się krajowego zezwolenia generalnego ZG-PL-U-12, zwanego dalej „zezwoleniem ZG-PL-U-12”.
 2. Zezwolenia ZG-PL-U-12 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
 3. Zezwolenia ZG-PL-U-12 udziela się na wywóz z terytorium Rzeczypospolitej Polskiej do Ukrainy lub tranzyt przez terytorium Rzeczypospolitej Polskiej do Ukrainy.”;

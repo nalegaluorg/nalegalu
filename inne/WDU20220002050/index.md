@@ -8,10 +8,10 @@ pos: 2050
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 października 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22005500 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 9 września 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002050) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2050/text.pdf) |
 
-22005500 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 9 września 2022 r.
-w sprawie dokumentów paszportowych Na podstawie art. 77 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie dokumentów paszportowych Na podstawie art. 77 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzory dokumentów paszportowych i wzór naklejki personalizacyjnej;
 2) sposób oznaczania w dokumencie paszportowym informacji o braku podpisów;
 3) sposób pobierania odcisków palców;
@@ -39,12 +39,12 @@ w sprawie dokumentów paszportowych Na podstawie art. 77 ustawy z dnia 27 styczn
 5) naklejki personalizacyjnej, której wzór stanowi załącznik nr 5 do rozporządzenia.
 § 3. W warstwie graficznej na stronie personalizacyjnej paszportu, paszportu dyplomatycznego i paszportu służbowego Ministerstwa Spraw Zagranicznych osoby, która:
 1) ukończyła 12. rok życia i nie może złożyć własnoręcznego podpisu,
-2) nie ukończyła 12. roku życia w miejscu przeznaczonym na podpis zamieszcza się informację: „BRAK PODPISU / NO SIGNATURE”.
+2) nie ukończyła 12. roku życia – w miejscu przeznaczonym na podpis zamieszcza się informację: „BRAK PODPISU / NO SIGNATURE”.
 § 4. 1. Od osoby ubiegającej się o paszport, paszport dyplomatyczny lub paszport służbowy Ministerstwa Spraw Zagranicznych pobiera się odciski palców wskazujących obu dłoni za pomocą elektronicznego urządzenia do pobierania odcisków palców.
 2. W przypadku gdy odcisk palca wskazującego jest nieczytelny albo brak tego palca, albo pobranie odcisku z tego palca jest chwilowo niemożliwe, odcisk pobiera się kolejno z palca środkowego, serdecznego albo kciuka, w odniesieniu do każdej z dłoni. Jeżeli odciski wszystkich palców danej dłoni wykazują niską jakość, pobiera się odcisk palca danej dłoni, który posiada najwyższą jakość.
 § 5. Fizyczne anulowanie dokumentu paszportowego polega na przedziurkowaniu całości książeczki paszportowej, z wyłączeniem stron zawierających ważne wizy, w taki sposób, aby trwale uszkodzić strefę odczytu maszynowego umieszczoną w dolnej części strony personalizacyjnej, oraz przecięciu strony personalizacyjnej na odcinku od krótszej krawędzi przez fotografię i hologram.
 § 6. Rozporządzenie wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik WZÓR PASZPORTU i Administracji z dnia …………………………..… Załącznik nr 1 WZÓR PASZPORTU skala 1:1,1 Okładka zewnętrzna Strona 2 okładki (wewnętrzna) Strona tytułowa Strona personalizacyjna Strona 1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 Strona 17 Strona 18 Strona 19 Strona 20 Strona 21 Strona 22 Strona 23 Strona 24 Strona 25 Strona 26 Strona 27 Strona 28 Strona 29 Strona 30 Strona 31 Strona 32 Strona 33 Strona 34 Strona 35 Strona 36 Strona 37 Strona 38 Strona 39 Strona 40 Strona 3 okładki (wewnętrzna) O P I S Dokument książeczkowy o wymiarach 88 mm × 125 mm, ze sztywną stroną personalizacyjną.
+Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik Dziennik Ustaw Załączniki – 3 – do rozporządzenia Ministra Spraw Wewnętrznych Poz. 2050 i Administracji z dnia …………………………..… Załącznik nr 1 WZÓR WZÓR PASZPORTU PASZPORTU skala 1:1,1 Okładka zewnętrzna Strona 2 okładki (wewnętrzna) Strona tytułowa Strona personalizacyjna Strona 1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 Strona 17 Strona 18 Strona 19 Strona 20 Strona 21 Strona 22 Strona 23 Strona 24 Strona 25 Strona 26 Strona 27 Strona 28 Strona 29 Strona 30 Strona 31 Strona 32 Strona 33 Strona 34 Strona 35 Strona 36 Strona 37 Strona 38 Strona 39 Strona 40 Strona 3 okładki (wewnętrzna) O P I S Dokument książeczkowy o wymiarach 88 mm × 125 mm, ze sztywną stroną personalizacyjną.
 Książeczka jest zszyta biało-czerwoną nicią introligatorską.
 Oznaczenie indywidualne: perforowane na wszystkich stronach wizowych i widoczne na tylnej wyklejce. Na stronie 1 powtórzone w technice druku typograficznego.
 Materiały, z których wykonana jest książeczka, nie wykazują luminescencji w promieniowaniu ultrafioletowym.
@@ -88,7 +88,7 @@ Strona 3 okładki (wewnętrzna):
 4) seria i numer wykonane perforacją laserową;
 5) elementy aktywne w promieniowaniu ultrafioletowym;
 6) włókna zabezpieczające.
-skala 1:1,1 WZÓR PASZPORTU TYMCZASOWEGO Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 O P I S Dokument książeczkowy o wymiarach 88 mm × 125 mm, ze stroną personalizacyjną w postaci naklejki.
+WZÓR PASZPORTU TYMCZASOWEGO skala 1:1,1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 O P I S Dokument książeczkowy o wymiarach 88 mm × 125 mm, ze stroną personalizacyjną w postaci naklejki.
 Książeczka jest zszyta biało-czerwoną nicią introligatorską.
 Oznaczenie indywidualne: perforowane na wszystkich stronach wizowych i widoczne na tylnej wyklejce. Na stronie 1 powtórzone w technice druku typograficznego.
 Materiały, z których wykonana jest książeczka, nie wykazują luminescencji w promieniowaniu ultrafioletowym.
@@ -118,7 +118,7 @@ Strona 3 okładki (wewnętrzna):
 4) seria i numer wykonane perforacją laserową;
 5) elementy aktywne w promieniowaniu ultrafioletowym;
 6) włókna zabezpieczające.
-skala 1:1,1 WZÓR PASZPORTU DYPLOMATYCZNEGO Strona personalizacyjna Strona 1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 Strona 17 Strona 18 Strona 19 Strona 20 Strona 21 Strona 22 Strona 23 Strona 24 Strona 25 Strona 26 Strona 27 Strona 28 Strona 29 Strona 30 Strona 31 Strona 32 Strona 33 Strona 34 Strona 35 Strona 36 Strona 37 Strona 38 Strona 39 Strona 40 O P I S Dokument książeczkowy o wymiarach 88 mm × 125 mm, ze sztywną stroną personalizacyjną.
+WZÓR PASZPORTU DYPLOMATYCZNEGO skala 1:1,1 Strona personalizacyjna Strona 1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 Strona 17 Strona 18 Strona 19 Strona 20 Strona 21 Strona 22 Strona 23 Strona 24 Strona 25 Strona 26 Strona 27 Strona 28 Strona 29 Strona 30 Strona 31 Strona 32 Strona 33 Strona 34 Strona 35 Strona 36 Strona 37 Strona 38 Strona 39 Strona 40 O P I S Dokument książeczkowy o wymiarach 88 mm × 125 mm, ze sztywną stroną personalizacyjną.
 Książeczka jest zszyta biało-czerwoną nicią introligatorską.
 Oznaczenie indywidualne: perforowane na wszystkich stronach wizowych i widoczne na tylnej wyklejce. Na stronie 1 powtórzone w technice druku typograficznego.
 Materiały, z których wykonana jest książeczka, nie wykazują luminescencji w promieniowaniu ultrafioletowym.
@@ -162,7 +162,7 @@ Strona 3 okładki (wewnętrzna):
 4) seria i numer wykonane perforacją laserową;
 5) elementy aktywne w promieniowaniu ultrafioletowym;
 6) włókna zabezpieczające.
-skala 1:1,1 WZÓR PASZPORTU SŁUŻBOWEGO MINISTERSTWA SPRAW ZAGRANICZNYCH Strona personalizacyjna Strona 1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 Strona 17 Strona 18 Strona 19 Strona 20 Strona 21 Strona 22 Strona 23 Strona 24 Strona 25 Strona 26 Strona 27 Strona 28 Strona 29 Strona 30 Strona 31 Strona 32 Strona 33 Strona 34 Strona 35 Strona 36 Strona 37 Strona 38 Strona 39 Strona 40 O P I S Dokument książeczkowy o wymiarach 88 mm × 125 mm, ze sztywną stroną personalizacyjną.
+WZÓR PASZPORTU SŁUŻBOWEGO MINISTERSTWA SPRAW ZAGRANICZNYCH skala 1:1,1 Strona personalizacyjna Strona 1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 Strona 17 Strona 18 Strona 19 Strona 20 Strona 21 Strona 22 Strona 23 Strona 24 Strona 25 Strona 26 Strona 27 Strona 28 Strona 29 Strona 30 Strona 31 Strona 32 Strona 33 Strona 34 Strona 35 Strona 36 Strona 37 Strona 38 Strona 39 Strona 40 O P I S Dokument książeczkowy o wymiarach 88 mm × 125 mm, ze sztywną stroną personalizacyjną.
 Książeczka jest zszyta biało-czerwoną nicią introligatorską.
 Oznaczenie indywidualne: perforowane na wszystkich stronach wizowych i widoczne na tylnej wyklejce. Na stronie 1 powtórzone w technice druku typograficznego.
 Materiały, z których wykonana jest książeczka, nie wykazują luminescencji w promieniowaniu ultrafioletowym.
@@ -207,7 +207,7 @@ Strona 3 okładki (wewnętrzna):
 5) elementy aktywne w promieniowaniu ultrafioletowym;
 6) włókna zabezpieczające.
 
-## Załącznik nr 5 — WZÓR NAKLEJKI PERSONALIZACYJNEJ DO PASZPORTU TYMCZASOWEGO skala 1:1,1 O P I S
+## Załącznik nr 5 — WZÓR WZÓR NAKLEJKI NAKLEJKI PERSONALIZACYJNEJ PERSONALIZACYJNEJ DO DO PASZPORTU PASZPORTU TYMCZASOWEGO TYMCZASOWEGO skala 1:1,1 O P I S
 
 1. Podłoże nie wykazuje luminescencji w promieniowaniu ultrafioletowym.
 2. Tło giloszowe z elementami mikrodruków wykonane drukiem irysowym.
@@ -217,5 +217,4 @@ Strona 3 okładki (wewnętrzna):
 6. Seria i numer naklejki personalizacyjnej wykonane techniką druku typograficznego.
 7. Elementy aktywne w promieniowaniu ultrafioletowym.
 8. Włókna zabezpieczające.
-WZÓR NAKLEJKI PERSONALIZACYJNEJ DO PASZPORTU TYMCZASOWEGO
 

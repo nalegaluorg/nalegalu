@@ -8,7 +8,7 @@ pos: 190
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo o ustroju sądów powszechnych, ustawy o Sądzie Najwyższym oraz niektórych innych ustaw W poczuciu odpowiedzialności za wymiar sprawiedliwości w Rzeczypospolitej Polskiej, podkreślając znaczenie, iż Rzeczpospolita Polska jest dobrem wspólnym wszystkich obywateli i to do Narodu, należy władza zwierzchnia;
@@ -39,7 +39,88 @@ Uchwala się niniejszą ustawę.
 
 **Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55, 60, 125, 1465 i 1495) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 w § 2 pkt 1–3 otrzymują brzmienie: „1) zgromadzenie ogólne sędziów sądu apelacyjnego;
+- **2)** zgromadzenie ogólne sędziów sądu okręgowego;
+- **3)** zgromadzenie ogólne sędziów sądu rejonowego.”;
+- **2)** w art. 9a § 2 otrzymuje brzmienie: „§ 2. Zewnętrzny nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 2, sprawuje Minister Sprawiedliwości przez służbę nadzoru, którą stanowią sędziowie delegowani do Ministerstwa Sprawiedliwości w trybie art. 77 oraz, w zakresie nadzoru nad prowadzeniem ksiąg wieczystych, rejestru zastawów i Krajowego Rejestru Sądowego, referendarze sądowi delegowani do Ministerstwa Sprawiedliwości na podstawie art. 151a § 5.”;
+- **3)** po art. 9b dodaje się art. 9c i art. 9d w brzmieniu: „Art. 9c. Ilekroć przepis ustawy przewiduje zasięgnięcie opinii kolegium albo zgromadzenia ogólnego bez wskazania terminu, w razie niewyrażenia opinii w dniu, na który zostało zwołane posiedzenie w celu jej wydania, uważa się, że opinia jest pozytywna.
+
 **Art. 9d.** Przedmiotem obrad kolegium i samorządu sędziowskiego nie mogą być sprawy polityczne, w szczególności zabronione jest podejmowanie uchwał podważających zasady funkcjonowania władz Rzeczypospolitej Polskiej i jej konstytucyjnych organów.”;
+
+- **4)** w art. 22a w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes sądu apelacyjnego w sądzie apelacyjnym po zasięgnięciu opinii kolegium sądu apelacyjnego, prezes sądu okręgowego w sądzie okręgowym po zasięgnięciu opinii kolegium sądu okręgowego a prezes sądu rejonowego w sądzie rejonowym po zasięgnięciu opinii kolegium właściwego sądu okręgowego ustalają podział czynności, który określa:”;
+- **5)** w art. 23 w § 1 wyrazy „zgromadzeniu ogólnemu sędziów apelacji” zastępuje się wyrazami „zgromadzeniu ogólnemu sędziów sądu apelacyjnego”;
+- **6)** w art. 24 w § 1 wyrazy „zgromadzeniu ogólnemu sędziów okręgu” zastępuje się wyrazami „zgromadzeniu ogólnemu sędziów sądu okręgowego”;
+- **7)** w art. 25 w § 1 wyrazy „zebraniu sędziów danego” zastępuje się wyrazami „zgromadzeniu sędziów”;
+- **8)** art. 28 otrzymuje brzmienie: „Art. 28. § 1. Kolegium sądu apelacyjnego składa się z:
+- **1)** prezesa sądu apelacyjnego;
+- **2)** prezesów sądów okręgowych z obszaru właściwości sądu apelacyjnego.
+
+§ 2. Członek kolegium może upoważnić do udziału w posiedzeniu kolegium sędziego sądu, którego jest prezesem.
+
+§ 3. Przewodniczącym kolegium sądu apelacyjnego jest prezes tego sądu, a w razie jego nieobecności – najstarszy służbą członek kolegium.
+
+§ 4. Uchwały zapadają większością głosów. Do podjęcia uchwały jest wymagana obecność co najmniej połowy wszystkich członków kolegium sądu apelacyjnego. Prezes sądu nie bierze udziału w podejmowaniu uchwał w przypadku wyrażania przez kolegium opinii w sprawach, w których decyzje należą do jego kompetencji. W przypadku równej liczby głosów, przesądza głos przewodniczącego, a jeżeli prezes sądu apelacyjnego nie bierze udziału w głosowaniu przesądza głos najstarszego służbą członka kolegium.
+
+§ 5. Głosowanie jest tajne, jeżeli żądanie takie zgłosi chociażby jeden z obecnych członków kolegium sądu apelacyjnego.
+
+§ 6. W uzasadnionych przypadkach przewodniczący kolegium może zarządzić przeprowadzenie głosowania w trybie obiegowym. Głosowanie jest wówczas jawne. Głosowanie w trybie obiegowym jest ważne, jeżeli w terminie wyznaczonym na zajęcie stanowiska głos odda co najmniej połowa członków kolegium.
+
+§ 7. W posiedzeniach kolegium zwoływanych w celu zaopiniowania kandydatów na stanowiska sędziów sądu apelacyjnego mogą uczestniczyć, z prawem udziału w głosowaniu wyłącznie w tych sprawach, delegaci zgromadzenia ogólnego sędziów sądu apelacyjnego.
+
+§ 8. Kolegium sądu apelacyjnego zbiera się w zależności od potrzeb, nie rzadziej jednak niż raz na kwartał. Posiedzenia kolegium zwołuje prezes sądu apelacyjnego z własnej inicjatywy lub na wniosek jednej trzeciej liczby członków kolegium.
+
+§ 9. W posiedzeniu kolegium sądu apelacyjnego, na którym ma być wyrażona opinia o projekcie planu finansowego, o którym mowa w art. 178 § 1, uczestniczy dyrektor sądu apelacyjnego”;
+
+- **9)** w art. 29 w § 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) opiniuje kandydatów na stanowiska sędziów sądu apelacyjnego;”;
+- **10)** art. 30 otrzymuje brzmienie: „Art. 30. § 1. Kolegium sądu okręgowego składa się z:
+- **1)** prezesa sądu okręgowego;
+- **2)** prezesów sądów rejonowych z obszaru właściwości sądu okręgowego.
+
+§ 2. Do kolegium sądu okręgowego stosuje się odpowiednio przepisy art. 28 § 2–6, 8 i 9.
+
+§ 3. W posiedzeniach kolegium zwoływanych w celu zaopiniowania kandydatów na stanowiska sędziów sądu okręgowego mogą uczestniczyć, z prawem udziału w głosowaniu wyłącznie w tych sprawach, delegaci zgromadzenia ogólnego sędziów sądu okręgowego.
+
+§ 4. W posiedzeniach kolegium zwoływanych w celu zaopiniowania kandydatów na stanowiska sędziów sądu rejonowego mogą uczestniczyć, z prawem udziału w głosowaniu wyłącznie w tych sprawach, delegaci zgromadzeń ogólnych sądów rejonowych z okręgu sądowego.”;
+
+- **11)** w art. 31:
+    - **a)** w § 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) opiniuje kandydatów na stanowiska sędziów sądu okręgowego i sędziów sądów rejonowych;”,
+    - **b)** w § 2 wyrazy „zebraniu sędziów” zastępuje się wyrazami „zgromadzeniu ogólnym sędziów tego sądu”;
+
+- **12)** w art. 31a w § 3 wyrazy „zgromadzenia ogólnego sędziów apelacji” zastępuje się wyrazami „zgromadzenia ogólnego sędziów sądu apelacyjnego”;
+- **13)** art. 33 otrzymuje brzmienie: „Art. 33. § 1. Zgromadzenie ogólne sędziów sądu apelacyjnego składa się z sędziów tego sądu. Mogą w nim uczestniczyć sędziowie delegowani do pełnienia obowiązków sędziego w tym sądzie, bez prawa udziału w głosowaniu.
+
+§ 2. Przewodniczącym zgromadzenia ogólnego sędziów sądu apelacyjnego jest prezes sądu apelacyjnego. W razie nieobecności prezesa sądu obowiązki przewodniczącego pełni najstarszy służbą wiceprezes sądu apelacyjnego.
+
+§ 3. Udział w posiedzeniu zgromadzenia ogólnego sędziów sądu apelacyjnego jest obowiązkowy, o ile zarządzi tak prezes sądu apelacyjnego.
+
+§ 4. Sędziowie niebędący członkami zgromadzenia ogólnego sędziów sądu apelacyjnego mogą brać udział w posiedzeniach zgromadzenia, bez prawa udziału w głosowaniu.
+
+§ 5. Uchwały zgromadzenia ogólnego sędziów sądu apelacyjnego zapadają zwykłą większością głosów obecnych członków zgromadzenia. Głosowanie jest imienne. Lista oddanych głosów jest jawna i stanowi załącznik do uchwały.
+
+§ 6. Zgromadzenie ogólne sędziów sądu apelacyjnego zbiera się co najmniej raz w roku; posiedzenia zgromadzenia zwołuje prezes sądu apelacyjnego z własnej inicjatywy lub na wniosek kolegium sądu apelacyjnego, kolegium sądu okręgowego, jednej piątej liczby członków zgromadzenia albo na wniosek Ministra Sprawiedliwości. O terminie zgromadzenia prezes sądu apelacyjnego zawiadamia z co najmniej dwutygodniowym wyprzedzeniem, przedstawiając planowany porządek obrad.”;
+
+- **14)** art. 34 otrzymuje brzmienie: „Art. 34. § 1. Zgromadzenie ogólne sędziów sądu apelacyjnego realizuje zadania określone w ustawach, a w szczególności:
+- **1)** wysłuchuje informacji prezesa sądu apelacyjnego o sytuacji w sądzie;
+- **2)** może dokonać wyboru delegatów do udziału w posiedzeniach kolegium sądu zwoływanych w celu zaopiniowania kandydatów na stanowiska sędziów sądu apelacyjnego;
+- **3)** może wyrazić opinię o rocznym sprawozdaniu, o którym mowa w art. 31a § 2.
+
+§ 2. Wyboru delegatów, o których mowa w § 1 pkt 2, w liczbie równej liczbie członków kolegium sądu apelacyjnego, dokonuje się w głosowaniu tajnym. Oddanie głosu następuje przez wskazanie jednego kandydata na liście wszystkich zgłoszonych. Delegatami zostają kandydaci, którzy uzyskali kolejno największą liczbę głosów. Jeżeli dwóch lub więcej uzyskało równą liczbę głosów, w wyniku czego nie jest możliwe wybranie kandydatów w liczbie równej liczbie członków kolegium sądu apelacyjnego, przeprowadza się ponowne głosowanie z udziałem tylko tych kandydatów.
+
+§ 3. Wybór delegatów następuje na okres roku.
+
+§ 4. W przypadku wygaśnięcia kadencji delegata w wyniku złożenia rezygnacji, rozwiązania albo wygaśnięcia jego stosunku służbowego, przejścia lub przeniesienia go w stan spoczynku lub przeniesienia na inne miejsce służbowe albo powołania na inne stanowisko, delegatem zostaje sędzia, który uzyskał kolejno największą liczbę głosów, o których mowa w § 2.”;
+
+- **15)** art. 35–36a otrzymują brzmienie: „Art. 35. § 1. Zgromadzenie ogólne sędziów sądu okręgowego składa się z wszystkich sędziów tego sądu. Mogą w nim uczestniczyć sędziowie delegowani do pełnienia obowiązków sędziego w tym sądzie, bez prawa udziału w głosowaniu.
+
+§ 2. Przewodniczącym zgromadzenia ogólnego sędziów sądu okręgowego jest prezes sądu okręgowego. W razie nieobecności prezesa obowiązki przewodniczącego pełni najstarszy służbą wiceprezes sądu okręgowego.
+
+§ 3. Udział w posiedzeniu zgromadzenia ogólnego sędziów sądu okręgowego jest obowiązkowy, o ile zarządzi tak prezes sądu okręgowego.
+
+§ 4. Sędziowie niebędący członkami zgromadzenia ogólnego sędziów sądu okręgowego mogą brać udział w posiedzeniach zgromadzenia, bez prawa udziału w głosowaniu.
+
+§ 5. Uchwały zgromadzenia ogólnego sędziów sądu okręgowego zapadają zwykłą większością głosów obecnych członków zgromadzenia. Głosowanie jest imienne. Lista oddanych głosów jest jawna i stanowi załącznik do uchwały.
+
+§ 6. Zgromadzenie ogólne sędziów sądu okręgowego zbiera się co najmniej raz w roku; posiedzenia zgromadzenia zwołuje prezes sądu okręgowego z własnej inicjatywy lub na wniosek prezesa sądu apelacyjnego, kolegium sądu okręgowego, jednej piątej liczby członków zgromadzenia albo na wniosek Ministra Sprawiedliwości. O terminie zgromadzenia prezes sądu okręgowego zawiadamia z co najmniej dwutygodniowym wyprzedzeniem, przedstawiając planowany porządek obrad.
 
 **Art. 36.**
 
@@ -187,17 +268,178 @@ Uchwala się niniejszą ustawę.
 
 **Art. 2.** W ustawie z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2019 r. poz. 825) wprowadza się następujące zmiany:
 
+- **1)** art. 13 otrzymuje brzmienie: „Art. 13. § 1. Każdy sędzia Sądu Najwyższego ma prawo zgłosić jednego kandydata na stanowisko Pierwszego Prezesa Sądu Najwyższego.
+
+§ 2. Zgłoszenia kandydata dokonuje się przewodniczącemu Zgromadzenia Ogólnego Sędziów Sądu Najwyższego dokonującemu wyboru, o którym mowa w art. 12 § 2, niezwłocznie po jego rozpoczęciu.
+
+§ 3. Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego dokonującemu wyboru, o którym mowa w art. 12 § 2, przewodniczy Pierwszy Prezes Sądu Najwyższego, a w przypadku, gdy nie jest to możliwe lub gdy zgłoszono jego kandydaturę – Sędzia Sądu Najwyższego, którego kandydatura nie została zgłoszona, wyznaczony przez Prezydenta Rzeczypospolitej Polskiej.
+
+§ 4. Do dokonania przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, wymagana jest obecność co najmniej 84 członków Zgromadzenia Ogólnego Sędziów Sądu Najwyższego. Jeżeli wyboru nie dokonano ze względu na brak wymaganego kworum, do dokonania wyboru na kolejnym posiedzeniu wymagana jest obecność co najmniej 75 członków Zgromadzenia Ogólnego Sędziów Sądu Najwyższego. Jeżeli także na tym posiedzeniu wyboru nie dokonano ze względu na brak wymaganego kworum, wybór może zostać dokonany na kolejnym posiedzeniu w przypadku obecności co najmniej 32 członków Zgromadzenia Ogólnego Sędziów Sądu Najwyższego. Posiedzenia, o których mowa w zdaniu drugim i trzecim, zwołuje się na dzień przypadający nie później niż w terminie 5 dni od daty odbycia poprzedniego posiedzenia.
+
+§ 5. Każdy sędzia uczestniczący w głosowaniu może oddać tylko jeden głos. Głosowanie jest tajne.
+
+§ 6. Kandydatami na stanowisko Pierwszego Prezesa Sądu Najwyższego wybranymi przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego są kandydaci, którzy uzyskali największą liczbę głosów. Jeżeli dwóch lub więcej kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego uzyskało równą liczbę głosów, w wyniku czego nie jest możliwe wybranie pięciu kandydatów, przeprowadza się ponowne głosowanie z udziałem tylko tych kandydatów. Przepis § 5 stosuje się.
+
+§ 7. Niezwłocznie po wybraniu kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, przewodniczący Zgromadzenia Ogólnego Sędziów Sądu Najwyższego albo inna osoba wskazana przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego przekazuje Prezydentowi Rzeczypospolitej Polskiej listę kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego wybranych przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego, wraz z protokołem głosowania.
+
+§ 8. Po przekazaniu Prezydentowi Rzeczypospolitej Polskiej listy kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego wybranych przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego, wraz z protokołem głosowania, nie jest dopuszczalne zwołanie Zgromadzenia Ogólnego Sędziów Sądu Najwyższego w celu wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego.”;
+
+- **2)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. § 1. Jeżeli kandydaci na stanowisko Pierwszego Prezesa Sądu Najwyższego nie zostali wybrani zgodnie z zasadami określonymi w ustawie, Prezydent Rzeczypospolitej Polskiej niezwłocznie powierza wykonywanie obowiązków Pierwszego Prezesa Sądu Najwyższego wskazanemu przez siebie sędziemu Sądu Najwyższego.
+
+§ 2. W terminie tygodnia od dnia powierzenia wykonywania obowiązków Pierwszego Prezesa Sądu Najwyższego sędzia, któremu obowiązki te powierzono, zwołuje Zgromadzenie Ogólne Sędziów Sądu Najwyższego, któremu przewodniczy, w celu wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego.
+
+§ 3. Do dokonania wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego wymagana jest obecność co najmniej 32 członków Zgromadzenia Ogólnego Sędziów Sądu Najwyższego. Przepisy art. 13 § 1, 2 i 5–7 stosuje się.”;
+
+- **3)** w art. 17:
+    - **a)** w § 2 wyrazy „art. 13 § 1 i” zastępuje się wyrazami „art. 13 § 3, art. 13a § 2 oraz”,
+    - **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. O terminie i porządku posiedzenia Zgromadzenia Ogólnego Sędziów Sądu Najwyższego Pierwszy Prezes Sądu Najwyższego zawiadamia sędziów Sądu Najwyższego najpóźniej 7 dni przed dniem posiedzenia, z uwzględnieniem art. 13 § 4 zdanie czwarte i art. 13a § 2.”;
+
+- **4)** w art. 26 dotychczasową treść oznacza się jako § 1 i dodaje się § 2–6 w brzmieniu: „§ 2. Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpoznawanie wniosków lub oświadczeń dotyczących wyłączenia sędziego albo o oznaczenie sądu, przed którym ma się toczyć postępowanie, obejmujących zarzut braku niezależności sądu lub braku niezawisłości sędziego. Sąd rozpoznający sprawę przekazuje niezwłocznie wniosek Prezesowi Izby Kontroli Nadzwyczajnej i Spraw Publicznych celem nadania mu dalszego biegu na zasadach określonych w odrębnych przepisach. Przekazanie wniosku Prezesowi Izby Kontroli Nadzwyczajnej i Spraw Publicznych nie wstrzymuje biegu toczącego się postępowania.
+
+§ 3. Wniosek, o którym mowa w § 2, pozostawia się bez rozpoznania, jeżeli obejmuje ustalenie oraz ocenę zgodności z prawem powołania sędziego lub jego umocowania do wykonywania zadań z zakresu wymiaru sprawiedliwości.
+
+§ 4. Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpoznawanie skarg o stwierdzenie niezgodności z prawem prawomocnego orzeczenia Sądu Najwyższego, sądów powszechnych, sądów wojskowych oraz sądów administracyjnych, w tym Naczelnego Sądu Administracyjnego, jeżeli niezgodność z prawem polega na podważeniu statusu osoby powołanej do pełnienia urzędu na stanowisku sędziego, która wydała orzeczenie w sprawie.
+
+§ 5. Do postępowania w sprawach, o których mowa w § 4, stosuje się odpowiednie przepisy o stwierdzeniu niezgodności z prawem prawomocnych orzeczeń, a w sprawach karnych przepisy o wznowieniu postępowania sądowego zakończonego prawomocnym orzeczeniem. Nie jest konieczne uprawdopodobnienie ani wyrządzenie szkody, spowodowanej przez wydanie orzeczenia, którego skarga dotyczy.
+
+§ 6. Skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, o którym mowa w § 4, można wnieść do Sądu Najwyższego – Izby Kontroli Nadzwyczajnej i Spraw Publicznych, z pominięciem sądu, który wydał zaskarżone orzeczenie, a także w razie nieskorzystania przez stronę z przysługujących jej środków prawnych, w tym skargi nadzwyczajnej do Sądu Najwyższego.”;
+
+- **5)** w art. 27:
+    - **a)** w § 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury;”,
+    - **b)** w § 3 pkt 2 otrzymuje brzmienie: „2) Sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury dotyczące:
+    - **a)** przewinień dyscyplinarnych, rozpoznawane w pierwszej instancji przez Sąd Najwyższy,
+    - **b)** zezwolenia na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie.”,
+    - **c)** w § 4 w pkt 1 wyrazy „sędziów i prokuratorów” zastępuje się wyrazami „sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury”;
+
+- **6)** art. 29 otrzymuje brzmienie: „Art. 29. § 1. Sędzią Sądu Najwyższego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej.
+
+§ 2. W ramach działalności Sądu Najwyższego lub jego organów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa.
+
+§ 3. Niedopuszczalne jest ustalanie lub ocena przez Sąd Najwyższy lub inny organ władzy zgodności z prawem powołania sędziego lub wynikającego z tego powołania uprawnienia do wykonywania zadań z zakresu wymiaru sprawiedliwości.”;
+
+- **7)** w art. 45 dodaje się § 3 w brzmieniu: „§ 3. Oświadczenie, o którym mowa w art. 88a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, sędzia Sądu Najwyższego składa Pierwszemu Prezesowi Sądu Najwyższego, zaś Pierwszy Prezes Sądu Najwyższego – Krajowej Radzie Sądownictwa.”;
+- **8)** w art. 72 § 1 otrzymuje brzmienie: „§ 1. Sędzia Sądu Najwyższego odpowiada dyscyplinarnie za przewinienia służbowe (dyscyplinarne), w tym za:
+- **1)** oczywistą i rażącą obrazę przepisów prawa;
+- **2)** działania lub zaniechania mogące uniemożliwić lub istotnie utrudnić funkcjonowanie organu wymiaru sprawiedliwości;
+- **3)** działania kwestionujące istnienie stosunku służbowego sędziego, skuteczność powołania sędziego, lub umocowanie konstytucyjnego organu Rzeczypospolitej Polskiej;
+- **4)** działalność publiczną nie dającą się pogodzić z zasadami niezależności sądów i niezawisłości sędziów;
+- **5)** uchybienie godności urzędu.”;
+- **9)** w art. 75:
+    - **a)** w § 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) kara pieniężna w wysokości podlegającego wypłacie za miesiąc poprzedzający wydanie prawomocnego wyroku skazującego jednomiesięcznego wynagrodzenia zasadniczego powiększonego o przysługujący sędziemu dodatek za długoletnią pracę, dodatek funkcyjny i dodatek, o którym mowa w art. 48 § 7;”,
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Za przewinienie dyscyplinarne określone w art. 72 § 1 pkt 2–4, wymierza się karę, o której mowa w § 1 pkt 5, a w przypadku mniejszej wagi – karę, o której mowa w § 1 pkt 3, 3a lub
+
+4. ”;
+
+- **10)** w art. 82 dotychczasową treść oznacza się jako § 1 oraz dodaje się § 2–5 w brzmieniu: „§ 2. Sąd Najwyższy, rozpoznając sprawę, w której występuje zagadnienie prawne dotyczące niezawisłości sędziego lub niezależności sądu, odracza jej rozpoznanie i przedstawia to zagadnienie do rozstrzygnięcia składowi całej Izby Kontroli Nadzwyczajnej i Spraw Publicznych Sądu Najwyższego.
+
+§ 3. Jeżeli Sąd Najwyższy, rozpoznając wniosek, o którym mowa w art. 26 § 2, poweźmie poważne wątpliwości co do wykładni przepisów prawa mających być podstawą orzeczenia, może odroczyć rozpoznanie wniosku i przedstawić zagadnienie prawne do rozstrzygnięcia składowi całej Izby Kontroli Nadzwyczajnej i Spraw Publicznych Sądu Najwyższego.
+
+§ 4. Podejmując uchwałę, o której mowa w § 2 lub 3, Izba Kontroli Nadzwyczajnej i Spraw Publicznych nie jest związana uchwałą innego składu Sądu Najwyższego, choćby uzyskała ona moc zasady prawnej.
+
+§ 5. Uchwała składu całej Izby Kontroli Nadzwyczajnej i Spraw Publicznych Sądu Najwyższego podjęta na podstawie § 2 lub 3 wiąże wszystkie składy Sądu Najwyższego. Odstąpienie od uchwały mającej moc zasady prawnej wymaga ponownego rozstrzygnięcia w drodze uchwały przez pełny skład Sądu Najwyższego, do podjęcia której wymagana jest obecność co najmniej 2/3 liczby sędziów każdej z izb. Przepisu art. 88 nie stosuje się.”.
+
 **Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2019 r. poz. 2216) wprowadza się następujące zmiany:
+
+- **1)** w art. 23 § 1 otrzymuje brzmienie: „§ 1. Sędzią sądu wojskowego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej.”;
+- **2)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. § 1. W ramach działalności sądu wojskowego lub jego organów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa.
+
+§ 2. Niedopuszczalne jest ustalanie lub ocena przez sąd wojskowy lub inny organ władzy zgodności z prawem powołania sędziego lub wynikającego z tego powołania uprawnienia do wykonywania zadań z zakresu wymiaru sprawiedliwości.”;
+
+- **3)** w art. 37 § 2 otrzymuje brzmienie: „§ 2. Przewinieniem dyscyplinarnym w rozumieniu ustawy jest naruszenie obowiązków sędziego, w tym:
+- **1)** oczywista i rażąca obraza przepisów prawa;
+- **2)** działanie lub zaniechanie mogące uniemożliwić lub istotnie utrudnić funkcjonowanie organu wymiaru sprawiedliwości;
+- **3)** działanie kwestionujące istnienie stosunku służbowego sędziego, skuteczność powołania sędziego, lub umocowanie konstytucyjnego organu Rzeczypospolitej Polskiej;
+- **4)** działalność publiczną nie dającą się pogodzić z zasadami niezależności sądów i niezawisłości sędziów;
+- **5)** uchybienie godności urzędu;
+- **6)** naruszenie dyscypliny wojskowej oraz zasad honoru i godności żołnierskiej.”;
+- **4)** w art. 39:
+    - **a)** w § 1 po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) kara pieniężna w wysokości podlegającego wypłacie za miesiąc poprzedzający wydanie prawomocnego wyroku skazującego jednomiesięcznego wynagrodzenia zasadniczego powiększonego o przysługujący sędziemu dodatek za długoletnią pracę, dodatek funkcyjny i dodatek specjalny;”,
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Za przewinienie dyscyplinarne określone w art. 37 § 2 pkt 2–4, wymierza się karę, o której mowa w § 1 pkt 4 lub 5, a w przypadku mniejszej wagi – karę, o której mowa w § 1 pkt 2a, 2b lub 3.”;
+
+- **5)** w art. 39a:
+    - **a)** w § 1 w pkt 1 w lit. b po wyrazach „wraz z wytknięciem uchybienia” dodaje się wyrazy „, oraz w sprawach, o których mowa w art. 37 § 2 pkt 3”,
+    - **b)** po § 2 dodaje się § 2a i 2b w brzmieniu: „§ 2a. W sprawach, o których mowa w art. 30, orzeka w pierwszej instancji Sąd Najwyższy w składzie jednego sędziego Izby Dyscyplinarnej, a w drugiej instancji – Sąd Najwyższy w składzie trzech sędziów Izby Dyscyplinarnej.
+
+§ 2b. W sprawach, w których właściwy jest Sąd Najwyższy, czynności prezesa sądu dyscyplinarnego wykonuje Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej.”;
+
+- **6)** w art. 70 w § 1 we wprowadzeniu do wyliczenia:
+    - **a)** po wyrazach „art. 8,” dodaje się wyrazy „art. 9c, art. 9d,”,
+    - **b)** wyrazy „art. 89, art. 90” zastępuje się wyrazami „art. 88a–90”.
 
 **Art. 4.** W ustawie z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2019 r. poz. 2167) wprowadza się następujące zmiany:
 
+- **1)** w art. 5:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Sędzią sądu administracyjnego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej.”,
+    - **b)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. W ramach działalności sądu administracyjnego lub jego organów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa.
+
+§ 1b. Niedopuszczalne jest ustalanie lub ocena przez sąd administracyjny lub inny organ władzy zgodności z prawem powołania sędziego lub wynikającego z tego powołania uprawnienia do wykonywania zadań z zakresu wymiaru sprawiedliwości.”;
+
+- **2)** w art. 8 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Oświadczenie, o którym mowa w art. 88a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, sędziowie wojewódzkiego sądu administracyjnego składają właściwemu prezesowi wojewódzkiego sądu administracyjnego, a prezes wojewódzkiego sądu administracyjnego i sędziowie Naczelnego Sądu Administracyjnego – Prezesowi Naczelnego Sądu Administracyjnego, zaś Prezes Naczelnego Sądu Administracyjnego – Krajowej Radzie Sądownictwa.”;
+- **3)** w art. 24 w § 4 uchyla się pkt 2;
+- **4)** w art. 25 w § 1 uchyla się pkt 2;
+- **5)** w art. 29 w § 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) do zgłaszania kandydatur na wolne stanowisko sędziego przewidziane do objęcia w wojewódzkim sądzie administracyjnym stosuje się odpowiednio art. 31 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2019 r. poz. 825 oraz z 2020 r. poz. 190), z tym że o wolnych stanowiskach sędziowskich obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” Prezes Naczelnego Sądu Administracyjnego.”;
+- **6)** uchyla się art. 33;
+- **7)** art. 43 otrzymuje brzmienie: „Art. 43. Prezydent Rzeczypospolitej Polskiej, po zasięgnięciu opinii Kolegium Naczelnego Sądu Administracyjnego, określi, w drodze rozporządzenia, regulamin Naczelnego Sądu Administracyjnego, w którym ustali liczbę stanowisk sędziowskich w Naczelnym Sądzie Administracyjnym nie mniejszą niż 120, w tym liczbę wiceprezesów tego Sądu oraz liczbę sędziów w poszczególnych izbach, wewnętrzną organizację Naczelnego Sądu Administracyjnego oraz zasady wewnętrznego postępowania, biorąc pod uwagę konieczność zapewnienia sprawnego funkcjonowania Naczelnego Sądu Administracyjnego, jego izb i organów, specyfikę postępowań prowadzonych przed Naczelnym Sądem oraz liczbę i rodzaj rozpoznawanych spraw.”;
+- **8)** w art. 46 w § 2 uchyla się pkt 2;
+- **9)** w art. 47 w § 1 uchyla się pkt 2;
+- **10)** w art. 48 dodaje się § 5 w brzmieniu: „§ 5. Prezydent Rzeczypospolitej Polskiej może wyznaczyć z grona sędziów sądów administracyjnych Nadzwyczajnego Rzecznika Dyscyplinarnego do prowadzenia określonej sprawy dyscyplinarnej sędziego sądu administracyjnego lub asesora sądowego. Wyznaczenie Nadzwyczajnego Rzecznika Dyscyplinarnego jest równoznaczne z żądaniem podjęcia czynności wyjaśniających. Nadzwyczajny Rzecznik Dyscyplinarny może wszcząć postępowanie dyscyplinarne albo wstąpić do toczącego się postępowania. Wyznaczenie Nadzwyczajnego Rzecznika Dyscyplinarnego wyłącza Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego lub jego zastępcę od podejmowania czynności w sprawie. W uzasadnionych przypadkach, w szczególności śmierci lub przedłużającej się przeszkody w pełnieniu funkcji Nadzwyczajnego Rzecznika Dyscyplinarnego, Prezydent Rzeczypospolitej Polskiej wyznacza w miejsce tej osoby innego sędziego sądu administracyjnego. Do czynności podejmowanych przez Nadzwyczajnego Rzecznika Dyscyplinarnego stosuje się odpowiednio przepisy dotyczące czynności podejmowanych przez Rzecznika Dyscyplinarnego Naczelnego Sądu Administracyjnego lub jego zastępcę. Funkcja Nadzwyczajnego Rzecznika Dyscyplinarnego wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnieniu się orzeczenia kończącego postępowanie dyscyplinarne.”;
+- **11)** art. 49 otrzymuje brzmienie: „Art. 49. § 1. W sprawach nieuregulowanych w ustawie, do Naczelnego Sądu Administracyjnego oraz do sędziów, urzędników i pracowników tego Sądu, stosuje się odpowiednio przepisy dotyczące Sądu Najwyższego, a w zakresie w nich nieuregulowanym – przepisy ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych. Określone w tych przepisach uprawnienia Pierwszego Prezesa Sądu Najwyższego przysługują Prezesowi Naczelnego Sądu Administracyjnego.
+
+§ 2. Do zgłaszania kandydatur na wolne stanowisko sędziego przewidziane do objęcia w Naczelnym Sądzie Administracyjnym stosuje się odpowiednio art. 31 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym.”.
+
 **Art. 5.** W ustawie z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. z 2019 r. poz. 84, 609, 730 i 914) wprowadza się następujące zmiany:
+
+- **1)** w art. 44:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wszystkie odwołania wniesione przez uczestników tego samego postępowania podlegają łącznemu rozpoznaniu i rozstrzygnięciu w toku jednego postępowania przed Sądem Najwyższym.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W sprawach dotyczących uchwał w przedmiocie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego Sąd Najwyższy dokonuje doręczeń za pośrednictwem Rady, która następnie dokonuje doręczenia w sposób określony w art. 32 ust. 1a.”;
+
+- **2)** po art. 45 dodaje się art. 45a–45c w brzmieniu: „Art. 45a. Ponowne rozpatrzenie sprawy dotyczącej uchwały zawierającej wniosek do Prezydenta Rzeczypospolitej Polskiej o powołanie do pełnienia urzędu na stanowisku sędziego lub wniosek o mianowanie na stanowisko asesora sądowego w sądzie powszechnym jest niedopuszczalne w razie powołania jednej z osób wskazanych w uchwale w zakresie, w jakim dotyczy powołania na to stanowisko. Wniosek o ponowne rozpatrzenie sprawy, o którym mowa w art. 45, w zakresie, w jakim dotyczy powołania na to stanowisko, pozostawia się bez rozpoznania.
 
 **Art. 45b.** W razie powołania przez Prezydenta Rzeczypospolitej Polskiej do pełnienia urzędu na stanowisku sędziego postępowanie w sprawie odwołania od uchwały Krajowej Rady Sądownictwa w sprawie indywidualnej dotyczącej powołania do pełnienia urzędu na tym stanowisku, w zakresie dotyczącym uchwały zawierającej wniosek o powołanie na tym stanowisku, umarza się z mocy prawa. W pozostałym zakresie w razie uwzględnienia przez sąd odwołania osoby, która była uczestnikiem postępowania w sprawie dotyczącej kandydatów do pełnienia urzędu na stanowisku sędziego, osoba ta może ubiegać się o urząd w kolejnym postępowaniu do pełnienia urzędu na stanowisku sędziego w tym samym lub równorzędnym sądzie, zaś Rada obowiązana jest uwzględnić w tym postępowaniu okoliczności, określone w orzeczeniu sądu.
 
 **Art. 45c.** Wznowienie postępowania przed Krajową Radą Sądownictwa lub wzruszenie uchwały zawierającej wniosek o powołanie do pełnienia urzędu sędziego nie jest dopuszczalne, jeżeli osoba przedstawiona Prezydentowi Rzeczypospolitej Polskiej spełnia w dniu podjęcia uchwały przez Krajową Radę Sądownictwa warunki formalne wymagane do pełnienia urzędu, określone w Konstytucji Rzeczypospolitej Polskiej.”.
 
 **Art. 6.** W ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2019 r. poz. 740) wprowadza się następujące zmiany:
+
+- **1)** po art. 103 dodaje się art. 103a w brzmieniu: „Art. 103a. § 1. Prokurator jest obowiązany do złożenia pisemnego oświadczenia o:
+- **1)** członkostwie w zrzeszeniu, w tym w stowarzyszeniu – ze wskazaniem nazwy i siedziby zrzeszenia, pełnionych funkcji oraz okresu członkostwa;
+- **2)** funkcji pełnionej w organie fundacji nieprowadzącej działalności gospodarczej – ze wskazaniem nazwy i siedziby fundacji oraz okresu pełnienia funkcji;
+- **3)** członkostwie w partii politycznej przed powołaniem na stanowisko prokuratora, a także w okresie sprawowania urzędu przed dniem 29 grudnia 1989 r. – ze wskazaniem nazwy partii, pełnionych funkcji oraz okresu członkostwa.
+
+§ 2. Oświadczenia, o których mowa w § 1, prokuratorzy składają odpowiednio właściwemu prokuratorowi regionalnemu, prokuratorowi okręgowemu, naczelnikowi oddziałowej komisji lub naczelnikowi oddziałowego biura lustracyjnego.
+
+§ 3. Prokuratorzy Prokuratury Krajowej, prokuratorzy Głównej Komisji, prokuratorzy Biura Lustracyjnego, prokuratorzy regionalni, prokuratorzy Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratorzy okręgowi oraz naczelnicy oddziałowych komisji i naczelnicy oddziałowych biur lustracyjnych oświadczenia, o których mowa w § 1, składają Prokuratorowi Krajowemu, a Zastępcy Prokuratora Generalnego – Prokuratorowi Generalnemu.
+
+§ 4. Oświadczenia, o których mowa w § 1, składa się w terminie 30 dni od dnia objęcia urzędu prokuratora, a także w terminie 30 dni od powstania lub ustania okoliczności, o których mowa w § 1.
+
+§ 5. Informacje zawarte w oświadczeniach, o których mowa w § 1, są jawne i podlegają udostępnieniu w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej, nie później niż 30 dni od dnia złożenia oświadczenia uprawnionemu podmiotowi.”;
+
+- **2)** w art. 127 po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia wydanego przez lekarza orzecznika lub komisję lekarską Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora.”;
+- **3)** w art. 137 § 1 otrzymuje brzmienie: „§ 1. Prokurator odpowiada dyscyplinarnie za przewinienia służbowe (dyscyplinarne), w tym za:
+- **1)** oczywistą i rażącą obrazę przepisów prawa;
+- **2)** działania lub zaniechania mogące uniemożliwić lub istotnie utrudnić funkcjonowanie organu wymiaru sprawiedliwości lub prokuratury;
+- **3)** działania kwestionujące istnienie stosunku służbowego sędziego lub prokuratora, skuteczność powołania sędziego, lub prokuratora, lub umocowanie konstytucyjnego organu Rzeczypospolitej Polskiej;
+- **4)** działalność publiczną nie dającą się pogodzić z zasadą niezależności prokuratora;
+- **5)** uchybienie godności urzędu.”;
+- **4)** w art. 142:
+    - **a)** w § 1 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) obniżenie wynagrodzenia zasadniczego o 5% – 50% na okres od sześciu miesięcy do dwóch lat;
+
+- **2b)** kara pieniężna w wysokości podlegającego wypłacie za miesiąc poprzedzający wydanie prawomocnego wyroku skazującego jednomiesięcznego wynagrodzenia zasadniczego powiększonego o przysługujący prokuratorowi dodatek za długoletnią pracę, dodatek funkcyjny i dodatek specjalny;”,
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Za przewinienie dyscyplinarne określone w art. 137 § 1 pkt 2–4, wymierza się karę, o której mowa w § 1 pkt 4 lub 5, a w przypadku mniejszej wagi – karę, o której mowa w § 1 pkt 2a, 2b lub 3. Przepisu § 5 nie stosuje się.”;
+
+- **5)** w art. 145:
+    - **a)** w § 1 w pkt 1 w lit. b po wyrazach „wniosek złożył Sąd Najwyższy” dodaje się wyrazy „ , oraz w sprawach, o których mowa w art. 137 § 1 pkt 3”,
+    - **b)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. W sprawach, o których mowa w art. 135, orzeka w pierwszej instancji Sąd Najwyższy w składzie jednego sędziego Izby Dyscyplinarnej, a w drugiej instancji – Sąd Najwyższy w składzie trzech sędziów Izby Dyscyplinarnej.
+
+§ 1b. W sprawach, w których właściwy jest Sąd Najwyższy, czynności przewodniczącego sądu dyscyplinarnego wykonuje Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej.”;
+
+- **6)** w art. 147 dodaje się § 3 w brzmieniu: „§ 3. W razie nieobecności przewodniczącego lub zastępcy przewodniczącego Sądu Dyscyplinarnego przy Prokuratorze Generalnym jego obowiązki pełni najstarszy służbą sędzia tego sądu.”;
+- **7)** w art. 155:
+    - **a)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Sąd dyscyplinarny wzywa obwinionego do przedstawienia, w terminie 14 dni od dnia doręczenia wezwania, wyjaśnień na piśmie oraz wskazania obrońcy, jeżeli go ustanowił. Niezłożenie wyjaśnień w tym terminie nie wstrzymuje dalszego postępowania.”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Sąd dyscyplinarny prowadzi postępowanie pomimo usprawiedliwionej nieobecności zawiadomionego obwinionego lub jego obrońcy, chyba że sprzeciwia się temu dobro prowadzonego postępowania dyscyplinarnego.”;
+
+- **8)** po art. 157 dodaje się art. 157a w brzmieniu: „Art. 157a. W sprawach uregulowanych w niniejszym rozdziale nie stosuje się przepisu art. 117 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, chyba że ustawa nakazuje zawiadomienie uczestnika o terminie czynności procesowej, a brak jest dowodu, że został on o nim powiadomiony.”;
+- **9)** w art. 171 pkt 1 otrzymuje brzmienie: „1) do postępowania dyscyplinarnego stosuje się odpowiednio przepisy części ogólnej ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oraz przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z wyłączeniem art. 344a i art. 396a, z uwzględnieniem odrębności wynikających z charakteru postępowania dyscyplinarnego;”.
 
 **Art. 7.** Sędzią Sądu Najwyższego, sądu powszechnego, sądu administracyjnego oraz sądu wojskowego, w tym sędzią w stanie spoczynku, jest także osoba powołana do pełnienia urzędu na stanowisku sędziowskim przez organ uprawniony do powołania na podstawie przepisów obowiązujących w dacie powołania, której stosunek służbowy na tym stanowisku nie wygasł ani nie został rozwiązany do dnia wejścia w życie niniejszej ustawy.
 

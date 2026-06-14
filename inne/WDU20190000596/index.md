@@ -8,10 +8,10 @@ pos: 596
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 marca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 596 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 14 marca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000596) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/596/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 14 marca 2019 r.
-w sprawie numeru ewidencyjnego ośrodka szkolenia kierowców i innego podmiotu prowadzącego szkolenie, wzorów dokumentów związanych z utworzeniem i działalnością ośrodka szkolenia kierowców oraz wysokości opłaty za wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców i opłaty za wydanie poświadczenia potwierdzającego spełnianie dodatkowych wymagań przez ten ośrodek Na podstawie art. 32 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2019 r. poz. 341) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie numeru ewidencyjnego ośrodka szkolenia kierowców i innego podmiotu prowadzącego szkolenie, wzorów dokumentów związanych z utworzeniem i działalnością ośrodka szkolenia kierowców oraz wysokości opłaty za wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców i opłaty za wydanie poświadczenia potwierdzającego spełnianie dodatkowych wymagań przez ten ośrodek Na podstawie art. 32 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2019 r. poz. 341) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób tworzenia i nadawania numeru ewidencyjnego ośrodka szkolenia kierowców i innego podmiotu prowadzącego szkolenie;
 2) wzór:
 a) wniosku o wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców,
@@ -47,10 +47,10 @@ b) wydanie poświadczenia potwierdzającego spełnianie dodatkowych wymagań prz
 1) dwie cyfry określają kolejny numer w ewidencji; w przypadku nadania numeru innego niż 2-cyfrowy puste pozycje uzupełnia się cyfrą 0;
 2) litery X stanowią identyfikator określony w krajowym rejestrze urzędowym podziału terytorialnego kraju nadany organowi dokonującemu wpisu do tej ewidencji;
 3) w miejsce liter ZZ wprowadza się następujące oznaczenia:
-a) SZ dla ośrodka prowadzonego przez szkołę,
-b) JW dla ośrodka prowadzonego przez jednostkę wojskową,
-c) SW dla ośrodka prowadzonego przez jednostkę organizacyjną służb podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych,
-d) PT dla ośrodka prowadzonego przez podmiot wykonujący przewozy tramwajem.
+a) SZ – dla ośrodka prowadzonego przez szkołę,
+b) JW – dla ośrodka prowadzonego przez jednostkę wojskową,
+c) SW – dla ośrodka prowadzonego przez jednostkę organizacyjną służb podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych,
+d) PT – dla ośrodka prowadzonego przez podmiot wykonujący przewozy tramwajem.
 3. W przypadku skreślenia podmiotu z ewidencji, o której mowa w ust. 1, nadanego numeru ewidencyjnego nie wykorzystuje się powtórnie.
 § 5. Wzór:
 1) wniosku o wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców jest określony w załączniku nr 1 do rozporządzenia;
@@ -58,18 +58,18 @@ d) PT dla ośrodka prowadzonego przez podmiot wykonujący przewozy tramwajem.
 3) poświadczenia potwierdzającego spełnianie przez ośrodek szkolenia kierowców dodatkowych wymagań jest określony w załączniku nr 3 do rozporządzenia.
 § 6. Wysokość opłaty za:
 1) wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców,
-2) wydanie poświadczenia potwierdzającego spełnianie dodatkowych wymagań przez ośrodek szkolenia kierowców wynosi 500 zł.
+2) wydanie poświadczenia potwierdzającego spełnianie dodatkowych wymagań przez ośrodek szkolenia kierowców – wynosi 500 zł.
 § 7. Numery ewidencyjne nadane przedsiębiorcom prowadzącym ośrodki szkolenia kierowców przed dniem wejścia w życie rozporządzenia zachowują ważność.
-§ 8. Poświadczenia potwierdzające spełnianie przez ośrodek szkolenia kierowców dodatkowych wymagań wydane na § 9. Do wniosków o wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców złożonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+§ 8. Poświadczenia potwierdzające spełnianie przez ośrodek szkolenia kierowców dodatkowych wymagań wydane na podstawie dotychczasowych przepisów zachowują ważność.
+§ 9. Do wniosków o wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców złożonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 10. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk WZÓR ZAŚWIADCZENIE .......................
+Minister Infrastruktury: A. Adamczyk Załączniki do rozporządzenia Ministra Infrastruktury z dnia ……... 2019 r. (poz. ….) WZÓR Załącznik nr 1                   Załącznik nr 2 WZÓR WZÓR ZAŚWIADCZENIE .......................
 .......................
 ...............................
 ...........................................................................................................................................
 ....................
-WZÓR WZÓR POŚWIADCZENIE ……………………………………………………………………………………………………….
+– Załącznik nr 3 WZÓR WZÓR POŚWIADCZENIE ……………………………………………………………………………………………………….
 ……………………………………………………………………………………………………….
 …………………………………………………..…………………………………………………..
 .
-WZÓR
 

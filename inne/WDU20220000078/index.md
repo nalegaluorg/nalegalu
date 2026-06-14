@@ -8,10 +8,10 @@ pos: 78
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 13 stycznia 2022 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 10 grudnia 2021 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie środków finansowych, jakie musi posiadać podejmujący kontynuujący studia terytorium Rzeczypospolitej Polskiej Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 1461) ogłasza się w załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji 6 lutego 2018 w sprawie środków finansowych, jakie musi posiadać podejmujący kontynuujący studia terytorium Rzeczypospolitej Polskiej (Dz. U. 337), uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji 19 kwietnia 2021 zmieniającym rozporządzenie w sprawie środków finansowych, jakie musi posiadać podejmujący kontynuujący studia terytorium Rzeczypospolitej Polskiej (Dz. U.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 78 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,26 +25,30 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/78/text.pdf) |
 
-738).
-2. Podany w załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji 19 kwietnia 2021 zmieniającego rozporządzenie w sprawie środków finansowych, jakie musi posiadać podejmujący kontynuujący studia terytorium Rzeczypospolitej Polskiej (Dz. U. 738), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.”.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Grodecki ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 6 lutego 2018 w sprawie środków finansowych, jakie musi posiadać podejmujący kontynuujący studia terytorium Rzeczypospolitej Polskiej Na podstawie art. 150 ustawy 12 grudnia 2013 cudzoziemcach (Dz. U. 2021 2354) zarządza się, co następuje: § Rozporządzenie określa:
-1) minimalną wysokość środków finansowych, jakie musi posiadać podejmujący kontynuujący studia terytorium Rzeczypospolitej Polskiej dla siebie i członków rodziny pozostających jego utrzymaniu, pokrycie kosztów podróży powrotnej państwa pochodzenia zamieszkania albo kosztów tranzytu państwa trzeciego, które udzieli pozwolenia wjazd;
-2) dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, których mowa w pkt 1, oraz środków finansowych pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, których mowa w art. 144 ust. 1 pkt 2 lit. b ustawy 12 grudnia 2013 cudzoziemcach, zwanej dalej „ustawą”, zgodnie prawem.
-§ 2. Minimalna wysokość środków finansowych, jakie podejmujący kontynuujący studia terytorium Rzeczypospolitej Polskiej, zwany dalej „cudzoziemcem”, musi posiadać pokrycie kosztów podróży powrotnej państwa pochodzenia zamieszkania albo kosztów tranzytu państwa trzeciego, które udzieli pozwolenia wjazd, wynosi:
-1) 200 złotych, jeżeli przybył państwa sąsiadującego Rzecząpospolitą Polską,
-2) 500 złotych, jeżeli przybył państwa członkowskiego Unii Europejskiej niesąsiadującego Rzecząpospolitą Polską państwa członkowskiego Europejskiego Porozumienia Wolnego Handlu (EFTA) strony umowy Europejskim Obszarze Gospodarczym Konfederacji Szwajcarskiej,
-3) 2500 złotych, jeżeli przybył innego państwa niż określone w pkt 1 i 2 albo równowartość tych kwot w walutach obcych.
-2. Cudzoziemiec, który przybył terytorium Rzeczypospolitej Polskiej przebywa tym terytorium wraz członkami rodziny pozostającymi jego utrzymaniu, musi ponadto posiadać środki finansowe pokrycie kosztów podróży powrotnej państwa pochodzenia zamieszkania albo kosztów tranzytu państwa trzeciego, które udzieli pozwolenia wjazd, których minimalna wysokość każdego członka rodziny cudzoziemca wynosi:
-1) 200 złotych, jeżeli członek rodziny cudzoziemca przybył państwa sąsiadującego Rzecząpospolitą Polską,
-2) 500 złotych, jeżeli członek rodziny cudzoziemca przybył państwa członkowskiego Unii Europejskiej niesąsiadującego Rzecząpospolitą Polską państwa członkowskiego Europejskiego Porozumienia Wolnego Handlu (EFTA) strony umowy Europejskim Obszarze Gospodarczym Konfederacji Szwajcarskiej,
-3) 2500 złotych, jeżeli członek rodziny cudzoziemca przybył innego państwa niż określone w pkt 1 i 2 albo równowartość tych kwot w walutach obcych.
-§ 3. Dokumentami mogącymi potwierdzić możliwość uzyskania środków finansowych pokrycie kosztów podróży powrotnej państwa pochodzenia zamieszkania albo kosztów tranzytu państwa trzeciego, które udzieli pozwolenia wjazd, w wysokości, której mowa w § 2, oraz środków finansowych pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny terytorium Rzeczypospolitej Polskiej, których mowa w art. 144 ust. 1 pkt 2 lit. b ustawy, są:
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2018 r. w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 337), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2021 r. zmieniającym rozporządzenie w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej (Dz. U.
+poz. 738).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 738), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Spraw Wewnętrznych i Administracji: wz. B. Grodecki ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 6 lutego 2018 r.
+w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej Na podstawie art. 150 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) minimalną wysokość środków finansowych, jakie musi posiadać cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd;
+2) dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 144 ust. 1 pkt 2 lit. b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, zwanej dalej „ustawą”, zgodnie z prawem.
+§ 2. 1. Minimalna wysokość środków finansowych, jakie cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej, zwany dalej „cudzoziemcem”, musi posiadać na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, wynosi:
+1) 200 złotych, jeżeli przybył z państwa sąsiadującego z Rzecząpospolitą Polską,
+2) 500 złotych, jeżeli przybył z państwa członkowskiego Unii Europejskiej niesąsiadującego z Rzecząpospolitą Polską lub z państwa członkowskiego Europejskiego Porozumienia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub z Konfederacji Szwajcarskiej,
+3) 2500 złotych, jeżeli przybył z innego państwa niż określone w pkt 1 i 2 – albo równowartość tych kwot w walutach obcych.
+2. Cudzoziemiec, który przybył na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium wraz z członkami rodziny pozostającymi na jego utrzymaniu, musi ponadto posiadać środki finansowe na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, których minimalna wysokość na każdego członka rodziny cudzoziemca wynosi:
+1) 200 złotych, jeżeli członek rodziny cudzoziemca przybył z państwa sąsiadującego z Rzecząpospolitą Polską,
+2) 500 złotych, jeżeli członek rodziny cudzoziemca przybył z państwa członkowskiego Unii Europejskiej niesąsiadującego z Rzecząpospolitą Polską lub z państwa członkowskiego Europejskiego Porozumienia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub z Konfederacji Szwajcarskiej,
+3) 2500 złotych, jeżeli członek rodziny cudzoziemca przybył z innego państwa niż określone w pkt 1 i 2 – albo równowartość tych kwot w walutach obcych.
+§ 3. 1. Dokumentami mogącymi potwierdzić możliwość uzyskania środków finansowych na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, w wysokości, o której mowa w § 2, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny na terytorium Rzeczypospolitej Polskiej, o których mowa w art. 144 ust. 1 pkt 2 lit. b ustawy, są:
 1) czek podróżny;
-2) zaświadczenie limitu karcie kredytowej wydane przez bank, który wystawił kartę kredytową;
-3) zaświadczenie posiadaniu przez cudzoziemca osobę, której utrzymaniu ten pozostaje, środków pieniężnych w banku spółdzielczej kasie oszczędnościowo-kredytowej mających siedzibę terytorium Rzeczypospolitej Polskiej innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia Wolnym Handlu (EFTA) strony umowy Europejskim Obszarze Gospodarczym Konfederacji Szwajcarskiej;
-4) dokument potwierdzający przyznanie stypendium krajowego zagranicznego;
-5) zaświadczenie zatrudnieniu i zarobków cudzoziemca osoby, której utrzymaniu ten pozostaje.
-2. Zaświadczenia, których mowa w ust. 1 pkt 2, 3 i 5, wystawia się nie wcześniej niż miesiąc przed dniem złożenia wniosku udzielenie zezwolenia pobyt czasowy.
-§ 4. Do przeliczenia walutę polską posiadanych przez cudzoziemca środków finansowych w walucie obcej stosuje się średni kurs tej waluty ogłoszony przez Narodowy Bank Polski w ostatnim dniu roboczym poprzedzającym złożenie wniosku udzielenie zezwolenia pobyt czasowy.
-§ 5. Rozporządzenie wchodzi w życie dniem 12 lutego 2018
+2) zaświadczenie o wysokości limitu na karcie kredytowej wydane przez bank, który wystawił kartę kredytową;
+3) zaświadczenie o posiadaniu przez cudzoziemca lub osobę, na której utrzymaniu ten cudzoziemiec pozostaje, środków pieniężnych w banku lub spółdzielczej kasie oszczędnościowo-kredytowej mających siedzibę na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
+4) dokument potwierdzający przyznanie stypendium krajowego lub zagranicznego;
+5) zaświadczenie o zatrudnieniu i wysokości zarobków cudzoziemca lub osoby, na której utrzymaniu ten cudzoziemiec pozostaje.
+2. Zaświadczenia, o których mowa w ust. 1 pkt 2, 3 i 5, wystawia się nie wcześniej niż na miesiąc przed dniem złożenia wniosku o udzielenie zezwolenia na pobyt czasowy.
+§ 4. Do przeliczenia na walutę polską posiadanych przez cudzoziemca środków finansowych w walucie obcej stosuje się średni kurs tej waluty ogłoszony przez Narodowy Bank Polski w ostatnim dniu roboczym poprzedzającym złożenie wniosku o udzielenie zezwolenia na pobyt czasowy.
+§ 5. Rozporządzenie wchodzi w życie z dniem 12 lutego 2018 r.
 

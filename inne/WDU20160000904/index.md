@@ -8,7 +8,7 @@ pos: 904
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o działaniach antyterrorystycznych
@@ -34,6 +34,17 @@ Art. 27–58. (pominięte)
 **Art. 1.** Ustawa określa zasady prowadzenia działań antyterrorystycznych oraz współpracy między organami właściwymi w zakresie prowadzenia tych działań.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** działaniach antyterrorystycznych – należy przez to rozumieć działania organów administracji publicznej polegające na zapobieganiu zdarzeniom o charakterze terrorystycznym, przygotowaniu do przejmowania nad nimi kontroli w drodze zaplanowanych przedsięwzięć, reagowaniu w przypadku wystąpienia takich zdarzeń oraz usuwaniu ich skutków, w tym odtwarzaniu zasobów przeznaczonych do reagowania na nie;
+- **2)** działaniach kontrterrorystycznych – należy przez to rozumieć działania wobec sprawców, osób przygotowujących lub pomagających w dokonaniu przestępstwa o charakterze terrorystycznym, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965), prowadzone w celu wyeliminowania bezpośredniego zagrożenia życia, zdrowia lub wolności osób lub mienia przy wykorzystaniu specjalistycznych sił i środków oraz specjalistycznej taktyki działania;
+- **3)** infrastrukturze administracji publicznej – należy przez to rozumieć systemy oraz obiekty niezbędne dla zapewnienia bezpiecznego i ciągłego funkcjonowania organów administracji publicznej;
+- **4)** infrastrukturze krytycznej – należy przez to rozumieć infrastrukturę krytyczną, o której mowa w art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907);
+- **5)** Ministrze Koordynatorze Służb Specjalnych – należy przez to rozumieć Ministra – Członka Rady Ministrów, którego zakres działania, wyznaczony na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050 i 1473), obejmuje zadania związane z działalnością służb specjalnych w rozumieniu ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, 1222, 1562, 1684 i 1871);
+- **6)** miejscu zdarzenia o charakterze terrorystycznym – należy przez to rozumieć przestrzeń otwartą lub zamkniętą, w której nastąpiło zdarzenie o charakterze terrorystycznym lub w której wystąpił lub miał wystąpić jego skutek, oraz przestrzeń, w której występują zagrożenia związane ze zdarzeniem o charakterze terrorystycznym;
+- **7)** zdarzeniu o charakterze terrorystycznym – należy przez to rozumieć sytuację, co do której istnieje podejrzenie, że powstała na skutek przestępstwa o charakterze terrorystycznym, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub zagrożenie zaistnienia takiego przestępstwa;
+- **8)** dostawcy usług hostingowych – należy przez to rozumieć dostawcę usług polegających na przechowywaniu informacji dostarczonych przez dostawcę treści i na jego wniosek, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/784 z dnia 29 kwietnia 2021 r. w sprawie przeciwdziałania rozpowszechnianiu w internecie treści o charakterze terrorystycznym (Dz. Urz. UE L 172 z 17.05.2021, str. 79), zwanego dalej „rozporządzeniem 2021/784”;
+- **9)** dostawcy treści – należy przez to rozumieć użytkownika, o którym mowa w art. 2 pkt 2 rozporządzenia 2021/784;
+- **10)** treściach o charakterze terrorystycznym – należy przez to rozumieć materiały, o których mowa w art. 2 pkt 7 rozporządzenia 2021/784.
 
 **Art. 3.**
 
@@ -154,6 +165,22 @@ Art. 27–58. (pominięte)
 - **2)** przekazywania Komendantowi Głównemu Policji pobranych obrazów linii papilarnych i wizerunków twarzy oraz oznaczonych profili DNA, a także danych i informacji określonych w ust. 2 i 4 – uwzględniając konieczność zapewnienia sprawnego pobierania obrazów linii papilarnych, materiału biologicznego oraz utrwalania wizerunku twarzy, wiernego zobrazowania linii papilarnych, profilu DNA i wizerunków twarzy oraz niezwłocznego ich przekazania.
 
 **Art. 11.** W celu realizacji zadania, o którym mowa w art. 3 ust. 1, Szef ABW może nieodpłatnie uzyskać dostęp do:
+
+- **1)** danych i informacji zgromadzonych w rejestrach publicznych i ewidencjach prowadzonych przez:
+    - **a)** podmioty oraz służby specjalne, o których mowa w art. 5 ust. 1,
+    - **b)** ministrów kierujących działami administracji rządowej,
+    - **c)** Szefa Urzędu do Spraw Cudzoziemców,
+    - **d)** Prezesa Urzędu Komunikacji Elektronicznej,
+    - **e)** Prezesa Urzędu Lotnictwa Cywilnego,
+    - **f)** Prezesa Państwowej Agencji Atomistyki,
+    - **g)** Zakład Ubezpieczeń Społecznych,
+    - **h)** Prezesa Kasy Rolniczego Ubezpieczenia Społecznego,
+    - **i)** Komisję Nadzoru Finansowego,
+    - **j)** Głównego Geodetę Kraju,
+    - **k)** jednostki samorządu terytorialnego,
+    - **l)** Prokuratora Generalnego – oraz jednostki organizacyjne im podległe lub przez nie nadzorowane,
+
+- **2)** obrazu zdarzeń rejestrowanego przez urządzenia rejestrujące obraz umieszczone w obiektach użyteczności publicznej, przy drogach publicznych i innych miejscach publicznych oraz otrzymywać nieodpłatnie kopię zarejestrowanego zapisu tego obrazu – z uwzględnieniem zasad i trybu określonych w art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
 
 **Art. 12.**
 
@@ -288,7 +315,7 @@ Art. 27–58. (pominięte)
 
 2a. Opinie, o których mowa w ust. 1 lub 2, mogą być skutecznie przekazane także ustnie, telefonicznie, za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) lub za pomocą innych środków łączności, a ich treść oraz istotne motywy takiego załatwienia sprawy utrwala się w formie pisemnej w postaci papierowej.
 
-3. Prezes Rady Ministrów niezwłocznie informuje Prezydenta Rzeczypospolitej Polskiej oraz Marszałka Rzeczypospolitej Polskiej i Marszałka Senatu Rzeczypospolitej Polskiej o wprowadzeniu, zmianie lub odwołaniu stopnia alarmowego lub stopnia alarmowego CRP.
+3. Prezes Rady Ministrów niezwłocznie informuje Prezydenta Rzeczypospolitej Polskiej oraz Marszałka Sejmu Rzeczypospolitej Polskiej i Marszałka Senatu Rzeczypospolitej Polskiej o wprowadzeniu, zmianie lub odwołaniu stopnia alarmowego lub stopnia alarmowego CRP.
 
 4. Wprowadzenie stopnia alarmowego lub stopnia alarmowego CRP stanowi podstawę do realizacji przez organy administracji publicznej oraz kierowników służb i instytucji właściwych w sprawach bezpieczeństwa i zarządzania kryzysowego:
 
@@ -310,6 +337,9 @@ Art. 27–58. (pominięte)
 #### Rozdział 4 Działania antyterrorystyczne na miejscu zdarzenia o charakterze terrorystycznym, w tym działania kontrterrorystyczne
 
 **Art. 18.** Kierującym działaniami antyterrorystycznymi podejmowanymi przez właściwe służby lub organy w ramach ich ustawowych zadań na miejscu zdarzenia o charakterze terrorystycznym, zwanym dalej „kierującym działaniami”, jest:
+
+- **1)** wyznaczony przez Komendanta Głównego Policji, a w przypadkach niecierpiących zwłoki – przez właściwego miejscowo komendanta wojewódzkiego Policji funkcjonariusz Policji, w szczególności w przypadku obecności na miejscu zdarzenia o charakterze terrorystycznym innych służb i organów;
+- **2)** wyznaczony przez Ministra Obrony Narodowej, a w przypadkach niecierpiących zwłoki – przez Komendanta Głównego Żandarmerii Wojskowej żołnierz Żandarmerii Wojskowej, w przypadku zdarzenia o charakterze terrorystycznym na obszarach lub w obiektach należących do komórek i jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych albo administrowanych przez te komórki i jednostki organizacyjne.
 
 **Art. 19.**
 
@@ -338,7 +368,7 @@ Art. 27–58. (pominięte)
 
 **Art. 21.**
 
-1. Po wprowadzeniu trzeciego lub czwartego stopnia alarmowego minister właściwy do spraw wewnętrznych, z inicjatywy własnej albo na wniosek Szefa ABW lub Komendanta Głównego Policji, może zarządzić zakaz odbywania zgromadzeń lub imprez masowych na obszarze lub w obiekcie objętym stopniem alarmowym, na czas obowiązywania tego stopnia, jeżeli jest to konieczne dla ochrony życia i zdrowia ludzi lub bezpieczeństwa publicznego, o czym niezwłocznie informuje Marszałka Rzeczypospolitej Polskiej i Marszałka Senatu Rzeczypospolitej Polskiej, którzy przekazują tę informację odpowiednio posłom i senatorom.
+1. Po wprowadzeniu trzeciego lub czwartego stopnia alarmowego minister właściwy do spraw wewnętrznych, z inicjatywy własnej albo na wniosek Szefa ABW lub Komendanta Głównego Policji, może zarządzić zakaz odbywania zgromadzeń lub imprez masowych na obszarze lub w obiekcie objętym stopniem alarmowym, na czas obowiązywania tego stopnia, jeżeli jest to konieczne dla ochrony życia i zdrowia ludzi lub bezpieczeństwa publicznego, o czym niezwłocznie informuje Marszałka Sejmu Rzeczypospolitej Polskiej i Marszałka Senatu Rzeczypospolitej Polskiej, którzy przekazują tę informację odpowiednio posłom i senatorom.
 
 2. Niezwłocznie po ogłoszeniu zarządzenia, o którym mowa w ust. 1:
 

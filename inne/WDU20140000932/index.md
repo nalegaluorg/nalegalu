@@ -8,7 +8,7 @@ pos: 932
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
@@ -32,6 +32,26 @@ source: "isap-pdf"
 **Art. 1.** Ustawa określa prawa i obowiązki stron oraz zasady zawierania umów w związku z realizacją zamówień dotyczących produkcji lub handlu bronią, amunicją lub materiałami wojennymi, stanowiących środki, o których mowa w art. 346 ust. 1 lit. b Traktatu o funkcjonowaniu Unii Europejskiej, zwanego dalej „TFUE”, konieczne do ochrony podstawowych interesów bezpieczeństwa państwa, których wykonanie wymaga offsetu.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** umowa offsetowa – umowę zawartą między Skarbem Państwa a zagranicznym dostawcą, określającą w szczególności wartość, przedmiot i harmonogram wykonania zobowiązań offsetowych oraz warunki, na jakich te zobowiązania mają być wykonane, mającą na celu ochronę podstawowych interesów bezpieczeństwa państwa zgodnie z art. 346 ust. 1 lit. b TFUE;
+- **2)** zobowiązanie offsetowe – zobowiązanie zagranicznego dostawcy wobec Skarbu Państwa i offsetobiorcy, polegające w szczególności na przekazaniu technologii lub know-how, wraz z przeniesieniem autorskich praw majątkowych lub praw do korzystania z utworu na podstawie udzielonej licencji, zapewniające wymaganą przez Skarb Państwa niezależność od zagranicznego dostawcy w celu utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie przeniesienia zdolności produkcyjnych, serwisowych i obsługowonaprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa;
+- **3)** zagraniczny dostawca – stronę umowy dostawy lub inny podmiot, który wykonuje umowę offsetową za stronę umowy dostawy, w tym konsorcjum, rząd innego państwa lub agendę rządową, które ubiegają się o udzielenie zamówienia mającego na celu ochronę podstawowych interesów bezpieczeństwa państwa, i złożyła ofertę offsetową;
+- **4)** offsetobiorca – podmiot wykonujący działalność gospodarczą w zakresie, o którym mowa w art. 7 ust. 1 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2022 r. poz. 268 i 275), z miejscem zamieszkania albo siedzibą na terytorium Rzeczypospolitej Polskiej, a także jednostkę sektora finansów publicznych oraz podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655, 682 i 807);
+- **5)** umowa dostawy – umowę między zamawiającym a wykonawcą, mającą na celu realizację zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, stanowiącego środek, o którym mowa w art. 346 ust. 1 lit. b TFUE, którego wykonanie wymaga offsetu;
+- **6)** dostawa – realizację umowy dostawy, o której mowa w pkt 5;
+- **7)** wartość umowy offsetowej – łączną wartość zobowiązań offsetowych zagranicznego dostawcy określoną w umowie offsetowej;
+- **8)** wartość zobowiązania offsetowego – wartość nominalną zobowiązania offsetowego;
+- **9)** zamawiający – podmiot uprawniony do prowadzenia postępowania o udzielenie zamówienia mającego na celu ochronę podstawowych interesów bezpieczeństwa państwa;
+- **10)** offsetodawca – zagranicznego dostawcę lub podmioty przez niego wskazane do wykonania zobowiązań offsetowych, za które zagraniczny dostawca ponosi odpowiedzialność w przypadku niewykonania lub nienależytego wykonania zobowiązania offsetowego, niezależnie od winy;
+- **11)** podmiot dominujący – podmiot, w przypadku gdy:
+    - **a)** posiada bezpośrednio lub pośrednio przez inne podmioty większość głosów w organach innego podmiotu, także na podstawie porozumień z innymi osobami lub
+    - **b)** jest uprawniony do powoływania lub odwoływania większości członków organów zarządzających innego podmiotu, lub
+    - **c)** więcej niż połowa członków organu zarządzającego drugiego podmiotu jest jednocześnie członkami organu zarządzającego, prokurentami lub osobami pełniącymi funkcje kierownicze pierwszego podmiotu bądź innego podmiotu pozostającego z pierwszym w stosunku zależności;
+
+- **12)** podmiot zależny – podmiot, w stosunku do którego inny podmiot jest podmiotem dominującym, przy czym podmioty zależne od tego podmiotu zależnego uważa się również za podmioty zależne od tego podmiotu dominującego;
+- **13)** przekazanie technologii – przekazanie dokumentacji zakupowej i listy dostawców, specjalistycznych narzędzi i urządzeń, oprogramowania, dokumentacji technicznej (produkcyjnej, obsługowej, remontowej i serwisowej), zapewnienie szkoleń, asysty technicznej, organizacji produkcji i kooperacji, udzielenie licencji do produkcji, sprzedaży, serwisu, remontów i obsługi, a także przekazanie innych składników materialnych i niematerialnych potrzebnych do utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa;
+- **14)** offset – kooperację między Skarbem Państwa i offsetobiorcą a zagranicznym dostawcą konieczną do utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa, polegającą w szczególności na przekazaniu technologii, know-how wraz z przeniesieniem autorskich praw majątkowych lub korzystania z utworu na podstawie udzielonej licencji w celu zapewnienia wymaganej przez Skarb Państwa niezależności od zagranicznego dostawcy;
+- **15)** oferta offsetowa – dokument sporządzony przez zagranicznego dostawcę na potrzeby postępowania o zawarcie umowy offsetowej, w którym zagraniczny dostawca wyraża wolę zawarcia umowy offsetowej i potwierdza spełnianie wymagań dla utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa, określonych przez Ministra Obrony Narodowej.
 
 **Art. 3.**
 
@@ -197,6 +217,13 @@ source: "isap-pdf"
 #### Rozdział 3 Treść i wykonanie umowy offsetowej
 
 **Art. 15.** Umowa offsetowa zawiera w szczególności:
+
+- **1)** określenie stron oraz daty i miejsca jej zawarcia;
+- **2)** oznaczenie czasu jej obowiązywania;
+- **3)** oznaczenie jej wartości i wartości poszczególnych zobowiązań offsetowych;
+- **4)** oznaczenie przedmiotu zobowiązań offsetowych;
+- **5)** harmonogram wykonania zobowiązań offsetowych;
+- **6)** określenie zasad odpowiedzialności za niewykonanie lub nienależyte wykonanie zobowiązań offsetowych, w tym kary umowne.
 
 **Art. 16.**
 

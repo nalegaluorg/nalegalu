@@ -3,6 +3,7 @@ saos_id|date|court|case_number|type|score|saos_url
 528529|2024-08-21|SO|I ACa 605/23|Wyrok|56|https://www.saos.org.pl/judgments/528529
 493353|2024-08-13|SO|I ACa 1117/23|Wyrok|56|https://www.saos.org.pl/judgments/493353
 529108|2024-03-27|SO|I ACa 572/22|Wyrok|56|https://www.saos.org.pl/judgments/529108
+546263|2023-12-18|SO|I ACa 464/21|Wyrok|56|https://www.saos.org.pl/judgments/546263
 493305|2023-11-29|SO|I ACa 1054/23|Wyrok|56|https://www.saos.org.pl/judgments/493305
 471226|2022-07-21|SO|I ACa 21/22|Wyrok|56|https://www.saos.org.pl/judgments/471226
 473584|2022-02-15|SO|I ACa 886/21|Wyrok|56|https://www.saos.org.pl/judgments/473584
@@ -403,6 +404,7 @@ saos_id|date|court|case_number|type|score|saos_url
 34460|2014-01-29|SO|II Cz 1531/13|Postanowienie|31|https://www.saos.org.pl/judgments/34460
 526332|2025-05-06|SO|VI Ka 834/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/526332
 533498|2025-04-24|SO|IV Ka 168/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/533498
+545099|2025-04-04|SO|II K 1806/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/545099
 534446|2025-03-13|SO|II W 2326/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/534446
 523644|2025-02-14|SO|XIII Ga 1077/24|Zarządzenie|27|https://www.saos.org.pl/judgments/523644
 526798|2024-11-20|SO|VIII U 1364/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/526798
@@ -416,6 +418,7 @@ saos_id|date|court|case_number|type|score|saos_url
 506733|2023-10-09|SO|III Ca 811/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/506733
 505902|2023-05-16|SO|III Ca 1837/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/505902
 489606|2023-02-28|SO|VII W 537/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/489606
+547016|2023-01-26|SO|III K 47/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/547016
 505772|2023-01-11|SO|III Ca 1621/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/505772
 505857|2023-01-02|SO|III Ca 1774/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/505857
 504403|2022-12-29|SO|II W 162/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/504403

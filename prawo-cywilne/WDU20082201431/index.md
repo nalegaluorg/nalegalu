@@ -8,7 +8,7 @@ pos: 1431
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
@@ -31,6 +31,15 @@ Macierzyństwo
 Ojcostwo
 
 **Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 § 3 otrzymuje brzmienie: „§ 3. Zaświadczenie, o którym mowa w § 2, wraz z zaświadczeniem sporządzonym przez kierownika urzędu stanu cywilnego na podstawie art. 4 § 1, duchowny przekazuje do urzędu stanu cywilnego przed upływem pięciu dni od dnia zawarcia małżeństwa; nadanie jako przesyłki poleconej w polskiej placówce pocztowej operatora publicznego jest równoznaczne z przekazaniem do urzędu stanu cywilnego. Jeżeli zachowanie tego terminu nie jest możliwe z powodu siły wyższej, bieg terminu ulega zawieszeniu przez czas trwania przeszkody. Przy obliczaniu biegu terminu nie uwzględnia się dni uznanych ustawowo za wolne od pracy.”;
+- **2)** uchyla się art. 26;
+- **3)** w art. 58:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. W wyroku orzekającym rozwód sąd rozstrzyga o władzy rodzicielskiej nad wspólnym małoletnim dzieckiem obojga małżonków i o kontaktach rodziców z dzieckiem oraz orzeka, w jakiej wysokości każdy z małżonków jest obowiązany do ponoszenia kosztów utrzymania i wychowania dziecka. Sąd uwzględnia porozumienie małżonków o sposobie wykonywania władzy rodzicielskiej i utrzymywaniu kontaktów z dzieckiem po rozwodzie, jeżeli jest ono zgodne z dobrem dziecka. Rodzeństwo powinno wychowywać się wspólnie, chyba że dobro dziecka wymaga innego rozstrzygnięcia.”,
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Sąd może powierzyć wykonywanie władzy rodzicielskiej jednemu z rodziców, ograniczając władzę rodzicielską drugiego do określonych obowiązków i uprawnień w stosunku do osoby dziecka. Sąd może pozostawić władzę rodzicielską obojgu rodzicom na ich zgodny wniosek, jeżeli przedstawili porozumienie, o którym mowa w § 1, i jest zasadne oczekiwanie, że będą współdziałać w sprawach dziecka.”;
+
+- **4)** tytułowi II nadaje się tytuł: „Pokrewieństwo i powinowactwo”;
+- **5)** w tytule II dotychczasową treść działu I oznacza się jako dział Ia i po wyrazach „Tytuł II. Pokrewieństwo i powinowactwo” dodaje się dział I w brzmieniu: „Dział I. Przepisy ogólne
 
 **Art. 61⁷.**
 
@@ -226,6 +235,8 @@ Ojcostwo
 
 **Art. 86.** Powództwo o ustalenie lub zaprzeczenie ojcostwa oraz o ustalenie bezskuteczności uznania ojcostwa może wytoczyć także prokurator, jeżeli wymaga tego dobro dziecka lub ochrona interesu społecznego; wytoczenie powództwa o zaprzeczenie ojcostwa oraz o ustalenie bezskuteczności uznania ojcostwa nie jest dopuszczalne po śmierci dziecka. Jeżeli uznanie ojcostwa nastąpiło po śmierci dziecka, prokurator może wytoczyć powództwo o ustalenie bezskuteczności uznania.”;
 
+- **7)** art. 87–89 otrzymują brzmienie: „Art. 87. Rodzice i dzieci są obowiązani do wzajemnego szacunku i wspierania się.
+
 **Art. 88.**
 
 § 1. Dziecko, co do którego istnieje domniemanie, że pochodzi od męża matki, nosi nazwisko bę dące nazwiskiem obojga małżonków. Jeżeli małżonkowie mają różne nazwiska, dziecko nosi nazwisko wskazane w ich zgodnych oświadczeniach. Małżonkowie mogą wskazać nazwisko jednego z nich albo nazwisko utworzone przez połączenie nazwiska matki z nazwiskiem ojca dziecka.
@@ -317,15 +328,125 @@ Ojcostwo
 
 **Art. 113⁶.** Przepisy niniejszego oddziału stosuje się odpowiednio do kontaktów rodzeństwa, dziadków, powinowatych w linii prostej, a także innych osób, jeżeli sprawowały one przez dłuższy czas pieczę nad dzieckiem.”;
 
+- **24)** w art. 119 § 1 otrzymuje brzmienie: „§ 1. Do przysposobienia jest potrzebna zgoda rodziców przysposabianego, chyba że zostali oni pozbawieni władzy rodzicielskiej lub są nieznani albo porozumienie się z nimi napotyka trudne do przezwyciężenia przeszkody.”;
+- **25)** art. 124 otrzymuje brzmienie: „Art. 124 . W wypadku gdy rodzice przysposobionego wyrazili przed sądem opiekuńczym zgodę na jego przysposobienie bez wskazania osoby przysposabiającego, nie jest dopuszczalne ustalenie pochodzenia przysposobionego przez uznanie ojcostwa, sądowe ustalenie lub zaprzeczenie jego pochodzenia, ustalenie bezskuteczności uznania ojcostwa.”;
+- **26)** w art. 133 po § 2 dodaje się § 3 w brzmieniu: „§ 3. Rodzice mogą uchylić się od świadczeń alimentacyjnych względem dziecka pełnoletniego, jeżeli są one połączone z nadmiernym dla nich uszczerbkiem lub jeżeli dziecko nie dokłada starań w celu uzyskania możności samodzielnego utrzymania się.”;
+- **27)** w art. 135: Nr 134, poz. 850) podlegające zwrotowi przez zobowiązanego do alimentacji oraz świadczenia dla rodziny zastępczej nie wpływają na zakres obowiązku alimentacyjnego.”;
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Wykonanie obowiązku alimentacyjnego względem dziecka, które nie jest jeszcze w stanie utrzymać się samodzielnie albo wobec osoby niepełnosprawnej może polegać w całości lub w części na osobistych staraniach o utrzymanie lub o wychowanie uprawnionego; w takim wypadku świadczenie alimentacyjne pozostałych zobowiązanych polega na pokrywaniu w całości lub w części kosztów utrzymania lub wychowania uprawnionego.”,
+    - **b)** po § 2 dodaje się § 3 w brzmieniu: „§ 3. Świadczenia z pomocy społecznej lub funduszu alimentacyjnego, o którym mowa w ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. Nr 192, poz. 1378 oraz z 2008 r.
+
+- **28)** w art. 137 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Niezaspokojone potrzeby uprawnionego z czasu przed wniesieniem powództwa o alimenty sąd uwzględnia zasądzając odpowiednią sumę pieniężną. W uzasadnionych wypadkach sąd może rozłożyć zasądzone świadczenie na raty.”;
+- **29)** po art. 144 dodaje się art. 144 w brzmieniu: „Art. 144 . Zobowiązany może uchylić się od wykonania obowiązku alimentacyjnego względem uprawnionego, jeżeli żądanie alimentów jest sprzeczne z zasadami współżycia społecznego. Nie dotyczy to obowiązku rodziców względem ich małoletniego dziecka.”;
+- **30)** w art. 148:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Nie może być ustanowiona opiekunem osoba, która nie ma pełnej zdolności do czynności prawnych albo została pozbawiona praw publicznych.”,
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Opiekunem małoletniego nie może być ustanowiona także osoba, która została pozbawiona władzy rodzicielskiej albo skazana za przestępstwo przeciwko wolności seksualnej lub obyczajności albo za umyślne przestępstwo z użyciem przemocy wobec osoby lub przestępstwo popełnione na szkodę małoletniego lub we współdziałaniu z nim, albo osoba, wobec której orzeczono zakaz prowadzenia działalności związanej z wychowywaniem, leczeniem, edukacją ma łoletnich lub opieką nad nimi, lub obowiązek powstrzymywania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu.”;
+
+- **31)** w art. 149 § 3 otrzymuje brzmienie: „§ 3. W braku takich osób sąd opiekuńczy zwraca się o wskazanie osoby, której opieka mogłaby być powierzona, do właściwej jednostki organizacyjnej pomocy społecznej albo do organizacji społecznej, do której należy piecza nad małoletnimi, a jeżeli pozostający pod opieką przebywa w placówce opiekuńczo-wychowawczej albo innej podobnej placówce, w zakładzie poprawczym lub w schronisku dla nieletnich sąd może się zwrócić także do tej placówki albo do tego zakładu lub schroniska.”;
+- **32)** uchyla się art. 150;
+- **33)** art. 158 otrzymuje brzmienie: „Art. 158. O decyzjach w ważniejszych sprawach, które dotyczą osoby lub majątku małoletniego opiekun powinien informować jego rodziców, którzy uczestniczą w sprawowaniu bieżącej pieczy nad osobą dziecka i w jego wychowaniu.”;
+- **34)** art. 162 otrzymuje brzmienie: „Art. 162. § 1. Sąd opiekuńczy przyzna opiekunowi za sprawowanie opieki na jego żądanie stosowne wynagrodzenie okresowe albo wynagrodzenie jednorazowe w dniu ustania opieki lub zwolnienia go od niej.
+
+§ 2. Wynagrodzenia nie przyznaje się, jeżeli nakład pracy opiekuna jest nieznaczny lub gdy sprawowanie opieki jest związane z pełnieniem funkcji rodziny zastępczej albo czyni zadość zasadom współżycia społecznego.
+
+§ 3. Wynagrodzenie pokrywa się z dochodów lub z majątku osoby, dla której opieka została ustanowiona, a jeżeli osoba ta nie ma odpowiednich dochodów lub majątku, wynagrodzenie jest pokrywane ze środków publicznych na podstawie przepisów o pomocy społecznej.”;
+
+- **35)** w art. 163 po § 2 dodaje się § 3 w brzmieniu: „§ 3. Przepis art. 162 § 3 stosuje się odpowiednio.”;
+- **36)** w art. 179 § 1 otrzymuje brzmienie: „§ 1. Organ państwowy, który ustanowił kuratora, przyzna mu na jego żądanie stosowne wynagrodzenie za sprawowanie kurateli. Wynagrodzenie pokrywa się z dochodów lub z majątku osoby, dla której kurator jest ustanowiony, a jeżeli osoba ta nie ma odpowiednich dochodów lub majątku, wynagrodzenie pokrywa ten, kto żądał ustanowienia kuratora.”.
+
 **Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm. ) art. 680 otrzymuje brzmienie: „Art. 680 . § 1. Małżonkowie są najemcami lokalu bez względu na istniejące między nimi stosunki majątkowe, jeżeli nawiązanie stosunku najmu lokalu mającego służyć zaspokojeniu potrzeb mieszkaniowych założonej przez nich rodziny nastąpiło w czasie trwania małżeństwa. Jeżeli między małżonkami istnieje rozdzielność majątkowa albo rozdzielność majątkowa z wyrównaniem dorobków do wspólności najmu stosuje się odpowiednio przepisy o wspólności ustawowej.
+
+§ 2. Ustanie wspólności majątkowej w czasie trwania małżeństwa nie powoduje ustania wspólności najmu lokalu mającego służyć zaspokojeniu potrzeb mieszkaniowych rodziny. Sąd, stosując odpowiednio przepisy o ustanowieniu w wyroku rozdzielności majątkowej, może z ważnych powodów na żądanie jednego z małżonków znieść wspólność najmu lokalu.”.
 
 **Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 17:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) o prawa niemajątkowe i łącznie z nimi dochodzone roszczenia majątkowe oprócz spraw o ustalenie lub zaprzeczenie pochodzenia dziecka, o ustalenie bezskuteczności uznania ojcostwa oraz o rozwiązanie przysposobienia,”,
+    - **b)** pkt 4 otrzymuje brzmienie: „4) o prawa majątkowe, w których wartość przedmiotu sporu przewyższa siedemdziesiąt pięć tysięcy złotych, a w postępowaniu w sprawach gospodarczych sto tysięcy złotych, oprócz spraw o alimenty, o naruszenie posiadania i o ustanowienie rozdzielności majątkowej między małżonkami oraz spraw o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym,”;
+
+- **2)** art. 32 otrzymuje brzmienie: „Art. 32. Powództwo o roszczenie alimentacyjne oraz o ustalenie pochodzenia dziecka i związane z tym roszczenia wytoczyć można według miejsca zamieszkania osoby uprawnionej.”;
+- **3)** w art. 47 w § 2 w pkt 2 lit. c otrzymuje brzmienie: „c) ustalenie bezskuteczności uznania ojcostwa,”;
+- **4)** w art. 87 § 3 otrzymuje brzmienie: „§ 3. W sprawach o ustalenie i zaprzeczenie pochodzenia dziecka i o roszczenia alimentacyjne pełnomocnikiem może być również przedstawiciel właściwego w sprawach z zakresu pomocy społecznej organu jednostki samorządu terytorialnego oraz organizacji społecznej, mającej na celu udzielanie pomocy rodzinie.”;
+- **5)** w art. 144 § 1 otrzymuje brzmienie: „§ 1. Przewodniczący ustanowi kuratora, jeżeli wnioskodawca uprawdopodobni, że miejsce pobytu strony nie jest znane. W sprawach o roszczenia alimentacyjne, jak również w sprawach o ustalenie pochodzenia dziecka i o związane z tym roszczenia, przewodniczący przed ustanowieniem kuratora przeprowadzi stosowne dochodzenie w celu ustalenia miejsca zamieszkania lub pobytu pozwanego.”;
+- **6)** po art. 216 dodaje się art. 216 w brzmieniu: „Art. 216 . § 1. Sąd w sprawach dotyczących osoby małoletniego dziecka wysłucha je, jeżeli jego rozwój umysłowy, stan zdrowia i stopień dojrzałości na to pozwala. Wysłuchanie odbywa się poza salą posiedzeń sądowych.
+
+§ 2. Sąd stosownie do okoliczności, rozwoju umysłowego, stanu zdrowia i stopnia dojrzałości dziecka uwzględni jego zdanie i rozsądne życzenia.”;
+
+- **7)** art. 445 otrzymuje brzmienie: „Art. 445 . § 1. Jeżeli sprawa o rozwód lub o separację jest w toku, nie może być wszczęte odrębne postępowanie dotyczące władzy rodzicielskiej nad wspólnymi małoletnimi dziećmi stron lub o ustalenie kontaktów z nimi. W razie potrzeby orzeczenia o władzy rodzicielskiej lub o kontaktach stosuje się przepisy o postępowaniu zabezpieczającym.
+
+§ 2. Postępowanie w sprawie dotyczącej władzy rodzicielskiej lub kontaktów wszczęte przed wytoczeniem powództwa o rozwód lub o separację ulega z urzędu zawieszeniu, a o władzy rodzicielskiej lub kontaktach przez cały czas trwania sprawy o rozwód lub o separację sąd orzeka w postępowaniu zabezpieczającym. Sąd postanowi podjąć postępowanie dotyczące władzy rodzicielskiej lub kontaktów, jeżeli w prawomocnym orzeczeniu kończącym postępowanie w sprawie o rozwód lub o separację nie orzeczono o władzy rodzicielskiej lub kontaktach. W przeciwnym wypadku postępowanie ulega umorzeniu.”;
+
+- **8)** art. 451 otrzymuje brzmienie: „Art. 451. Przepisy art. 444, 445 i 445 stosuje się odpowiednio w sprawach o unieważnienie małżeństwa.”;
+- **9)** art. 452 otrzymuje brzmienie: „Art. 452. W sprawach o ustanowienie rozdzielności majątkowej między małżonkami stosuje się odpowiednio przepisy art. 426, 431, 432, 435 § 1, 441 i 446.”;
+- **10)** art. 453 otrzymuje brzmienie: „Art. 453. Przepisy niniejszego działu stosuje się w sprawach o ustalenie lub zaprzeczenie pochodzenia dziecka, o ustalenie bezskuteczności uznania ojcostwa oraz o rozwiązanie przysposobienia.”;
+- **11)** po art. 453 dodaje się art. 453 w brzmieniu: „Art. 453 . W sprawach o ustalenie lub zaprzeczenie pochodzenia dziecka oraz o ustalenie bezskuteczności uznania ojcostwa matka i ojciec dziecka mają zdolność procesową także wtedy, gdy są ograniczeni w zdolności do czynności prawnych, jeżeli ukończyli lat szesnaście.”;
+- **12)** w art. 454:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. W sprawach o ustalenie macierzyństwa albo ojcostwa prokurator wytaczając powództwo wskazuje w pozwie dziecko, na którego rzecz wytacza powództwo, oraz pozywa odpowiednio matkę dziecka albo domniemanego ojca, a jeżeli osoby te nie żyją – kuratora ustanowionego na ich miejsce.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . W sprawach o zaprzeczenie macierzyństwa prokurator, wytaczając powództwo, pozywa kobietę wpisaną jako matka w akcie urodzenia dziecka oraz mężczyznę, którego ojcostwo zostało ustalone z uwzględnieniem jej macierzyństwa, a jeżeli osoby te nie żyją – kuratora ustanowionego na ich miejsce oraz dziecko.”,
+    - **c)** § 3 otrzymuje brzmienie: „§ 3. W sprawach o ustalenie bezskuteczności uznania ojcostwa prokurator, wytaczając powództwo, pozywa dziecko oraz mężczyznę, który uznał ojcostwo, a jeżeli ten nie żyje – kuratora ustanowionego na jego miejsce, a także matkę dziecka, jeżeli ta żyje; w razie uznania ojcostwa po śmierci dziecka prokurator pozywa ustanowionego na miejsce dziecka kuratora.”;
+
+- **13)** art. 454 otrzymuje brzmienie: „Art. 454 . § 1. Powództwo wzajemne o ustalenie lub zaprzeczenie macierzyństwa, o ustalenie lub zaprzeczenie ojcostwa, a także o ustalenie bezskuteczności uznania ojcostwa nie jest dopuszczalne.
+
+§ 2. W czasie trwania procesu o ustalenie lub zaprzeczenie macierzyństwa, o ustalenie lub zaprzeczenie ojcostwa albo o ustalenie bezskuteczności uznania ojcostwa nie może być wszczęta odrębna sprawa o ustalenie lub zaprzeczenie macierzyństwa, o ustalenie lub zaprzeczenie ojcostwa albo o ustalenie bezskuteczności uznania ojcostwa.
+
+§ 3. Strona pozwana może jednak również żądać ustalenia lub zaprzeczenia macierzyństwa, ustalenia lub zaprzeczenia ojcostwa albo ustalenia bezskuteczności uznania ojcostwa.”;
+
+- **14)** art. 456 otrzymuje brzmienie: „Art. 456. § 1. Postępowanie umarza się w razie śmierci jednej ze stron, a jeżeli w charakterze tej samej strony występuje kilka osób, w razie śmierci wszystkich tych osób, z zastrzeżeniem § 2 i 3.
+
+§ 2. W sprawie wytoczonej przez dziecko o ustalenie albo zaprzeczenie macierzyństwa, o zaprzeczenie ojcostwa albo ustalenie bezskuteczności uznania, jak również w sprawie wytoczonej przez dziecko albo jego matkę o ustalenie ojcostwa, postępowanie zawiesza się w razie śmierci pozwanych do czasu ustanowienia przez sąd orzekający kuratora, który wstępuje do sprawy na miejsce zmarłego. Przepis ten stosuje się w sprawie o rozwiązanie przysposobienia w razie śmierci przysposabiającego.
+
+§ 3. W sprawie o ustalenie lub zaprzeczenie macierzyństwa, ustalenie lub zaprzeczenie ojcostwa oraz w sprawie o ustalenie bezskuteczności uznania ojcostwa postępowanie umarza się w razie śmierci dziecka, chyba że dziecko, które wytoczyło powództwo o ustalenie macierzyństwa albo o ustalenie ojcostwa, pozostawiło zstępnych; w takim wypadku postępowanie zawiesza się. Jeżeli zstępni w ciągu sześciu miesięcy od dnia wydania postanowienia o zawieszeniu postępowania nie zgłoszą wniosku o jego podjęcie, sąd postępowanie umorzy.”;
+
+- **15)** po art. 456 dodaje się art. 456 w brzmieniu: „Art. 456 . § 1. W sprawach o ustalenie macierzyństwa przewodniczący zawiadamia o toczącym się procesie mężczyznę, którego dotyczy domniemanie pochodzenia dziecka od męża matki, doręczając mu odpis pozwu.
+
+§ 2. W sprawach o zaprzeczenie macierzyństwa przewodniczący zawiadamia o toczącym się procesie mężczyznę, którego ojcostwa dotyczy wynik postępowania, doręczając mu odpis pozwu.”;
+
+- **16)** art. 457 otrzymuje brzmienie: „Art. 457. W sprawach o zaprzeczenie pochodzenia dziecka lub o ustalenie bezskuteczności uznania ojcostwa, albo o rozwiązanie przysposobienia odpis pozwu doręcza się prokuratorowi i zawiadamia się go o terminach rozprawy.”;
+- **17)** art. 570 otrzymuje brzmienie: „Art. 570 . Sąd opiekuńczy może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego, a także zwrócić się o informację do właściwej jednostki pomocy społecznej w celu ustalenia danych dotyczących małoletniego i jego środowiska, a w szczególności dotyczących zachowania się i warunków wychowawczych małoletniego, sytuacji bytowej rodziny, przebiegu nauki małoletniego i sposobu spędzania czasu wolnego, jego kontaktów środowiskowych, stosunku do niego rodziców lub opiekunów, podejmowanych oddziaływań wychowawczych, stanu zdrowia i znanych w środowisku uzależnień małoletniego.”;
+- **18)** w art. 576 § 2 otrzymuje brzmienie: „§ 2. Sąd w sprawach dotyczących osoby lub majątku dziecka wysłucha je, jeżeli jego rozwój umysłowy, stan zdrowia i stopień dojrzałości na to pozwala, uwzględniając w miarę możliwości jego rozsądne życzenia. Wysłuchanie odbywa się poza salą posiedzeń sądowych.”;
+- **19)** art. 579 otrzymuje brzmienie: „Art. 579. Postanowienia w sprawach o powierzenie wykonywania, ograniczenie, zawieszenie, pozbawienie i przywrócenie władzy rodzicielskiej, ustalenie, ograniczenie albo zakazanie kontaktów z dzieckiem mogą być wydane tylko po przeprowadzeniu rozprawy. Dotyczy to także zmiany rozstrzygnięć w tym przedmiocie, zawartych w wyroku orzekającym rozwód, separację, unieważnienie małżeństwa albo ustalającym pochodzenie dziecka. Postanowienia takie stają się skuteczne i wykonalne po uprawomocnieniu się.”;
+- **20)** art. 579 otrzymuje brzmienie: „Art. 579 . § 1. Po powzięciu wiadomości o umieszczeniu dziecka w rodzinie zastępczej albo w placówce opiekuńczo-wychowawczej bez orzeczenia sądu opiekuńczego sąd ten niezwłocznie wszczyna postępowanie opiekuńcze.
+
+§ 2. Sąd opiekuńczy okresowo, nie rzadziej niż raz na sześć miesięcy, dokonuje oceny sytuacji dziecka umieszczonego w rodzinie zastępczej albo w placówce opiekuńczo-wychowawczej; jeżeli wymaga tego dobro dziecka, sąd wszczyna postępowanie o pozbawienie władzy rodzicielskiej jego rodziców.”;
+
+- **21)** art. 581 otrzymuje brzmienie: „Art. 581. § 1. Uznanie ojcostwa może nastąpić także przed sądem opiekuńczym niewłaściwym według przepisów ogólnych. W takim wypadku o uznaniu zawiadamia się właściwy sąd opiekuńczy.
+
+§ 2. Jeżeli kierownik urzędu stanu cywilnego odmówił przyjęcia oświadczeń koniecznych do uznania ojcostwa, uznanie ojcostwa może nastąpić wyłącznie przed sądem opiekuńczym, właściwym ze względu na siedzibę urzędu stanu cywilnego, którego kierownik odmówił przyjęcia tych oświadczeń.
+
+§ 3. Sąd opiekuńczy odmawia przyjęcia oświadczeń koniecznych do uznania ojcostwa, jeżeli uznanie jest niedopuszczalne albo poweźmie wątpliwość co do pochodzenia dziecka.”;
+
+- **22)** po art. 582 dodaje się art. 582 w brzmieniu: „Art. 582 . § 1. W sprawach o kontakty z dzieckiem przepis art. 582 stosuje się odpowiednio.
+
+§ 2. Sąd opiekuńczy w celu zapewnienia wykonywania kontaktów może w szczególności:
+
+- **1)** zobowiązać osobę uprawnioną do kontaktu z dzieckiem lub osobę, pod której pieczą dziecko pozostaje, do pokrycia kosztów podróży i pobytu dziecka lub także osoby towarzyszącej dziecku, w tym kosztów powrotu do miejsca stałego pobytu,
+- **2)** zobowiązać osobę, pod której pieczą dziecko pozostaje, do złożenia na rachunek depozytowy sądu odpowiedniej kwoty pieniężnej w celu pokrycia wydatków uprawnionego związanych z wykonywaniem kontaktu na wypadek niewykonania lub niewłaściwego wykonania przez osobę zobowiązaną obowiązków wynikających z postanowienia o kontaktach; nie dotyczy to rodzin zastępczych i placówek opiekuńczowychowawczych,
+- **3)** odebrać od osoby uprawnionej do kontaktu z dzieckiem lub osoby, pod której pieczą dziecko pozostaje, przyrzeczenie określonego zachowania.”;
+- **23)** art. 597 otrzymuje brzmienie: „Art. 597. § 1. W postanowieniu o przyznaniu opiekunowi wynagrodzenia sąd upoważnia opiekuna do pobrania wynagrodzenia z dochodów lub majątku osoby pozostającej pod opieką, bądź ustala, że wynagrodzenie ma być wypłacone ze środków publicznych.
+
+§ 2. Postanowienie, o którym mowa w § 1, staje się wykonalne dopiero po jego uprawomocnieniu się.”;
+
+- **24)** po art. 598 dodaje się art. 598 w brzmieniu: „Art. 598 . Postępowanie określone w art. 598 –598 może być podjęte na nowo na podstawie tego samego postanowienia, o którym mowa w art. 598 , jeżeli zobowiązany w okresie trzech miesięcy od wydania tego postanowienia postąpił sprzecznie z treścią postanowienia dotyczącego władzy rodzicielskiej, miejsca zamieszkania, opieki lub kontaktów z dzieckiem, a okoliczności uzasadniające jego wydanie nie uległy zmianie.”.
+
 **Art. 4.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Jeżeli kierownik urzędu stanu cywilnego odmówił przyjęcia oświadczeń koniecznych do uznania ojcostwa, nie później niż w terminie siedmiu dni na piśmie powiadamia mężczyznę, który twierdzi, że jest ojcem dziecka, i matkę dziecka o przyczynach odmowy i możliwości uznania ojcostwa przed sądem opiekuńczym; odpis pisma przesyła do urzędu stanu cywilnego właściwego do sporządzenia aktu urodzenia dziecka.”;
+- **2)** w art. 40 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przyjęcie w sprawie nazwiska dziecka oświadczeń, o których mowa w art. 88 § 3 Kodeksu rodzinnego i opiekuńczego, wymaga sporządzenia protokołu. Odpis protokołu przesyła się do urzędu stanu cywilnego, w którym sporządzono akt małżeństwa rodziców.”;
+- **3)** w art. 42 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Jeżeli uznanie ojcostwa nastąpiło przed urodzeniem się dziecka już poczętego, a dziecko urodziło się martwe, przepis ust. 1 stosuje się odpowiednio.”;
+- **4)** w art. 43 ust. 3 otrzymuje brzmienie: „3. W razie uznania ojcostwa przed konsulem, konsul sporządza protokół przyjęcia oświadczenia o uznaniu i przesyła go niezwłocznie do urzędu stanu cywilnego, o którym mowa w art. 14 ust. 2. Przepis art. 7 ust. 3a stosuje się odpowiednio.”;
+- **5)** w art. 44 po ust. 4 dodaje się ust. 5 w brzmieniu: „5. Jeżeli uznanie ojcostwa albo sądowe ustalenie ojcostwa następuje po sporządzeniu aktu zgonu, także do tego aktu wpisuje się wzmiankę dodatkową zawierającą dane określone w ust. 3 i 4.”.
+- **6)** w art. 62 po ust. 5 dodaje się ust. 6 w brzmieniu: „6. Przyjęcie do protokołu oświadczeń o nazwisku dziecka złożonych na podstawie art. 88 § 3 Kodeksu rodzinnego i opiekuńczego jest podstawą wpisania wzmianki dodatkowej do aktu małżeństwa rodziców dziecka.”;
 
 **Art. 5.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm. ) w art. 21 w ust. 1 po pkt 79 dodaje się pkt 79a w brzmieniu: „79a) wynagrodzenie za sprawowanie opieki przyznane przez sąd na podstawie art. 162 Kodeksu rodzinnego i opiekuńczego,”.
 
 **Art. 6.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2008 r. Nr 115, poz. 728, Nr 171, poz. 1056 i Nr 216, poz. 1367) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 w ust. 1 zdanie wstępne otrzymuje brzmienie: „Prawo do świadczeń pieniężnych z pomocy społecznej, z zastrzeżeniem art. 40, 41, 53a, 78 i 91 przysługuje:”;
+- **2)** w art. 18:
+    - **a)** w ust. 1 po pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) wypłacanie wynagrodzenia za sprawowanie opieki.”,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Koszty obsługi zadania, o którym mowa w ust. 1 pkt 9, wynoszą 1,5% otrzymanej dotacji celowej na wypłacanie wynagrodzeń za sprawowanie opieki.”;
+
+- **3)** w art. 36 w pkt 1 po lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „ h) wynagrodzenie należne opiekunowi z tytułu sprawowania opieki przyznane przez sąd;”;
+- **4)** po art. 53 dodaje się art. 53a w brzmieniu: „Art. 53a. Wynagrodzenie za sprawowanie opieki wypłaca się w wysokości ustalonej przez sąd. Wynagrodzenie to obliczone w stosunku miesięcznym nie może przekraczać 1/10 przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, bez wypłat nagród z zysku, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za okres poprzedzający dzień przyznania wynagrodzenia.”.
 
 **Art. 7.**
 

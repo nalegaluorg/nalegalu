@@ -8,10 +8,10 @@ pos: 1815
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 września 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1815 W Sekcja 2 Wyjaśnienia do tabeli wymogów dla danych A. Ogólne wyjaśnienia
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1815/text.pdf) |
 
-W Sekcja 2 Wyjaśnienia do tabeli wymogów dla danych A. Ogólne wyjaśnienia
 1. Wymogi dotyczące danych określone w niniejszym załączniku stosuje się do wniosków sporządzanych przy zastosowaniu techniki elektronicznego przetwarzania danych, jak również do wniosków w formie papierowej.
 2. Numery kolumn oznaczają odpowiednio rodzaj wniosku: Lp. Kod Rodzaj wniosku wniosku 1/9 CIM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 2/10 TPM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie w formie papierowej dla towarów przewożonych drogą morską 3/11 TPP Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie w formie papierowej dla towarów przewożonych drogą powietrzną 4/12 TEM Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie na manifeście elektronicznym dla towarów przewożonych drogą morską 5/13 TEP Wniosek o udzielenie pozwolenia na korzystanie z procedury tranzytu unijnego w oparciu o zgłoszenie na manifeście elektronicznym dla towarów przewożonych drogą powietrzną 6/14 TNC Wniosek o udzielenie pozwolenia na uzyskanie statusu upoważnionego nadawcy w procedurze tranzytu unijnego w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 7/15 TOC Wniosek o udzielenie pozwolenia na uzyskanie statusu upoważnionego odbiorcy w procedurze tranzytu unijnego w formie papierowej (na liście przewozowym CIM) dla towarów przewożonych koleją 8/16 DMU Wniosek o udzielenie pozwolenia na uznanie miejsca do przedstawienia towarów organom celnym, w tym czasowego składowania 9/18 WOZ Wniosek o udzielenie pozwolenia na zrzeczenie się towaru na rzecz Skarbu Państwa w formie zgody organu celnego
 3. Symbol „A” w polu kolumny oznacza, że informacja jest wymagana dla wniosku.
@@ -35,13 +34,13 @@ W Sekcja 2 Wyjaśnienia do tabeli wymogów dla danych A. Ogólne wyjaśnienia
 [5] Informacji tej nie podaje się, jeżeli wnioskodawca jest upoważnionym przedsiębiorcą.
 [7] Informacje te są stosowane wyłącznie w przypadku wniosku w formie papierowej.
 6. Określenia: „urząd celny zabezpieczenia”, „urząd celny (urzędy celne) przeznaczenia”, „urząd celny (urzędy celne) wyjścia”, „kontrolny urząd celny” są używane w znaczeniu wynikającym z przepisów unijnego prawa celnego; zadania i kompetencje tych urzędów realizują w Rzeczypospolitej Polskiej urzędy celno-skarbowe.
-B. Noty wyjaśniające do danych Grupa 1 Informacje o wniosku/decyzji 1/1. Kod rodzaju wniosku/decyzji Należy podać kod dla wniosku, zgodnie z kodami podanymi w sekcji 2 pkt A.2.
+B. Noty wyjaśniające do danych Grupa 1 – Informacje o wniosku/decyzji 1/1. Kod rodzaju wniosku/decyzji Należy podać kod dla wniosku, zgodnie z kodami podanymi w sekcji 2 pkt A.2.
 1/2. Podpis/uwierzytelnienie Wnioski w formie papierowej podpisuje osoba, która składa wniosek. Osoba podpisująca powinna podać swoje stanowisko.
 Wnioski złożone z zastosowaniem techniki elektronicznego przetwarzania danych są podpisywane przez osobę, która składa wniosek (wnioskodawcę lub jego przedstawiciela).
 1/3. Rodzaj wniosku Stosuje się następujące kody: 1 pierwszy wniosek 2 wniosek w sprawie zmiany decyzji 3 wniosek w sprawie przedłużenia pozwolenia 4 wniosek w sprawie cofnięcia decyzji Kolumna 9/18 tabeli: Należy podać kod „1”.
 1/6. Numer referencyjny decyzji Niepowtarzalny numer referencyjny nadany decyzji przez właściwy organ celny.
 1/7. Organ celny podejmujący decyzję Numer identyfikacyjny organu celnego, do którego składany jest wniosek, wysyłana deklaracja lub powiadomienie. W przypadku wniosków papierowych podać także nazwę organu.
-Grupa 2 Odniesienia do dokumentów, świadectw i pozwoleń 2/4. Załączone dokumenty Należy podać informacje na temat rodzaju dokumentu oraz w stosownych przypadkach numer identyfikacyjny lub datę wystawienia dokumentu dołączonego do wniosku. Należy wskazać również łączną liczbę załączonych dokumentów.
+Grupa 2 – Odniesienia do dokumentów, świadectw i pozwoleń 2/4. Załączone dokumenty Należy podać informacje na temat rodzaju dokumentu oraz w stosownych przypadkach numer identyfikacyjny lub datę wystawienia dokumentu dołączonego do wniosku. Należy wskazać również łączną liczbę załączonych dokumentów.
 Jeżeli dokument uzupełnia informacje podane we wniosku, należy wskazać, których informacji dotyczy.
 Kolumny od 1/9 do 7/15 tabeli: We wniosku należy podać kod „ONP” i załączyć oświadczenie, że wnioskodawca nie dopuścił się poważnego naruszenia przepisów prawa celnego lub podatkowego lub powtórnie nie naruszył tych przepisów i nie jest wobec niego prowadzone postępowanie egzekucyjne lub upadłościowe oraz że nie zalega w podatkach płatnych naczelnikowi urzędu skarbowego.
 Kolumna 8/16 tabeli: Opis miejsca, plan sytuacyjny miejsca oraz opis sposobu zabezpieczenia nienaruszalności i tożsamości towarów.
@@ -49,7 +48,7 @@ Kolumna 9/18 tabeli: Dołączyć kopię dokumentu papierowego określającego st
 Podać kod „OZT” i załączyć oświadczenie właściciela potwierdzające wolę nieodpłatnego zrzeczenia się towaru na rzecz Skarbu Państwa.
 2/5. Numer identyfikacyjny miejsca składowego Podać numer identyfikacyjny nadany przez organ celny.
 Kolumna 8/16 tabeli: Podać numer identyfikacyjny miejsca uznanego do przedstawienia towarów organom celnym i czasowego składowania.
-Grupa 3 Strony 3/1. Wnioskodawca/posiadacz pozwolenia lub decyzji Podać imię i nazwisko oraz adres wnioskodawcy.
+Grupa 3 – Strony 3/1. Wnioskodawca/posiadacz pozwolenia lub decyzji Podać imię i nazwisko oraz adres wnioskodawcy.
 3/2. Identyfikacja wnioskodawcy/posiadacza pozwolenia lub decyzji Podać numer rejestracyjny i identyfikacyjny przedsiębiorcy (numer EORI) wnioskodawcy/posiadacza decyzji, o którym mowa w art. 1 ust. 18 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego.
 W przypadku wniosku złożonego z zastosowaniem techniki elektronicznego przetwarzania danych należy zawsze podawać numer EORI wnioskodawcy.
 3/3. Przedstawiciel Jeżeli wnioskodawca wskazany w 3/1. Wnioskodawca/posiadacz pozwolenia lub decyzji lub w 3/2. Identyfikacja wnioskodawcy/posiadacza pozwolenia lub decyzji jest reprezentowany przez przedstawiciela, należy podać odpowiednie informacje o przedstawicielu.
@@ -59,7 +58,7 @@ W przypadku wniosku złożonego z zastosowaniem techniki elektronicznego przetwa
 Informacja ta podawana jest tylko w przypadku, gdy jest to osoba inna niż osoba odpowiedzialna za sprawy celne podana w 3/5. Imię i nazwisko oraz dane kontaktowe osoby odpowiedzialnej za sprawy celne.
 Należy podać imię i nazwisko osoby kontaktowej oraz dowolne dane z poniższych: numer telefonu, adres e-mail (najlepiej skrzynki funkcyjnej) oraz, w stosownych przypadkach, numer faksu.
 3/7. Osoba kierująca przedsiębiorstwem wnioskodawcy lub nadzorująca zarządzanie nim Dla oceny kryterium, o którym mowa w art. 39 lit. a unijnego kodeksu celnego, należy podać imię i nazwisko oraz pełne dane odpowiedniej osoby (osób) zgodnie z prawem działalności/formą spółki wnioskodawcy, w szczególności: dyrektora/kierownika przedsiębiorstwa, dyrektorów i członków zarządu, w zależności od struktury przedsiębiorstwa. Dane powinny obejmować: imię i nazwisko, adres, datę urodzenia i krajowy numer identyfikacyjny.
-Grupa 4 Daty, godziny, okresy i miejsca 4/1. Miejsce Miejsce, w którym wniosek został podpisany.
+Grupa 4 – Daty, godziny, okresy i miejsca 4/1. Miejsce Miejsce, w którym wniosek został podpisany.
 4/2. Data Dzień, w którym wnioskodawca podpisał wniosek.
 4/3. Miejsce, w którym prowadzone są główne księgi rachunkowe na potrzeby celne lub w którym są one dostępne Główne księgi rachunkowe na potrzeby celne, o których mowa w art. 22 ust. 1 akapit trzeci unijnego kodeksu celnego, są to księgi, które mają być uznawane przez organy celne za główne księgi rachunkowe na potrzeby celne, pozwalające organom celnym na nadzorowanie i monitorowanie wszystkich działań objętych danym pozwoleniem. Istniejące handlowe, podatkowe lub inne materiały księgowe wnioskodawcy mogą być uznane za główne księgi rachunkowe na potrzeby celne, jeżeli ułatwiają kontrole oparte na audycie.
 Należy podać pełny adres miejsca, w tym państwo członkowskie, w którym główne księgi rachunkowe będą przechowywane lub udostępniane. Kod UN/LOCODE może zastąpić adres, jeśli umożliwia jednoznaczną identyfikację danej lokalizacji.
@@ -70,20 +69,20 @@ Informacja ta jest konieczna do określenia lokalizacji ewidencji dotyczącej to
 4/12. Urząd celny zabezpieczenia Wskazać odpowiedni urząd celny.
 4/14. Urząd celny (urzędy celne) przeznaczenia Wskazać urząd celny (urzędy celne) przeznaczenia właściwy dla miejsca, w którym towary są odbierane przez upoważnionego odbiorcę.
 4/15. Urząd celny (urzędy celne) wyjścia Wskazać urząd celny (urzędy celne) wyjścia odpowiedzialny za miejsce, w którym towary będą obejmowane procedurą tranzytu unijnego albo dla których będzie wystawione potwierdzenie unijnego statusu celnego towarów.
-Grupa 5 Identyfikacja towarów 5/2. Opis towarów Podać opis handlowy lub techniczny towarów, dostatecznie jasny i szczegółowy, aby umożliwić wydanie decyzji w sprawie wniosku.
+Grupa 5 – Identyfikacja towarów 5/2. Opis towarów Podać opis handlowy lub techniczny towarów, dostatecznie jasny i szczegółowy, aby umożliwić wydanie decyzji w sprawie wniosku.
 5/3. Ilość towarów Kolumna 9/18 tabeli: Podać liczbę opakowań lub masę brutto towaru.
-Grupa 6 Warunki 6/1. Zakazy i ograniczenia Wskazać unijne i krajowe zakazy i ograniczenia, które mają zastosowanie do towarów lub procedury.
+Grupa 6 – Warunki 6/1. Zakazy i ograniczenia Wskazać unijne i krajowe zakazy i ograniczenia, które mają zastosowanie do towarów lub procedury.
 Podać właściwe organy, które są odpowiedzialne za kontrole lub formalności, które należy przeprowadzić przed zwolnieniem towarów.
-Grupa 7 Działania i procedury 7/4. Liczba operacji (przesyłek) Kolumny od 2/10 do 7/15 tabeli: Podać szacunkowo, ile razy w skali miesiąca wnioskodawca będzie korzystał z uproszczenia.
-Grupa 8 Pozostałe 8/1. Rodzaj głównych ksiąg rachunkowych Określić rodzaj głównych ksiąg rachunkowych, podając szczegółowe informacje dotyczące systemu, który ma zostać wykorzystany, w tym oprogramowania.
+Grupa 7 – Działania i procedury 7/4. Liczba operacji (przesyłek) Kolumny od 2/10 do 7/15 tabeli: Podać szacunkowo, ile razy w skali miesiąca wnioskodawca będzie korzystał z uproszczenia.
+Grupa 8 – Pozostałe 8/1. Rodzaj głównych ksiąg rachunkowych Określić rodzaj głównych ksiąg rachunkowych, podając szczegółowe informacje dotyczące systemu, który ma zostać wykorzystany, w tym oprogramowania.
 8/2. Rodzaj ewidencji Określić rodzaj ewidencji, podając szczegółowe informacje dotyczące systemu, który ma zostać wykorzystany, w tym oprogramowania.
 Ewidencje muszą pozwalać organom celnym na nadzorowanie danej procedury, w szczególności w odniesieniu do identyfikacji towarów objętych procedurą, ich statusu celnego i przemieszczeń.
 8/3. Dostęp do danych Określić, w jaki sposób szczegółowe dane ze zgłoszenia tranzytowego lub zgłoszenia celnego są udostępniane organom celnym.
 8/5. Dodatkowe informacje Podać wszelkie przydatne informacje.
 Kolumna 9/18: Dla dokumentów elektronicznych określających status celny towarów, w szczególności zgłoszenia celnego do procedury specjalnej lub deklaracji do czasowego składowania, podać numer identyfikacyjny i datę przyjęcia do systemu teleinformatycznego organu celnego.
 8/10. Szczegóły dotyczące miejsc składowych Kolumna 8/16 tabeli: Opisać miejsce oraz sposób zabezpieczenia nienaruszalności i tożsamości towarów oraz podać adres miejsca uznanego do przedstawienia towarów organom celnym, w tym czasowego składowania.
-8/12. Zgoda na publikację w wykazie posiadaczy pozwoleń Wskazać („tak”/„nie”), czy wnioskodawca zgadza się na ujawnienie w publicznym wykazie posiadaczy pozwoleń następujących danych dotyczących pozwolenia, o które występuje: posiadacz pozwolenia, rodzaj pozwolenia, data wejścia w życie lub, w stosownych przypadkach, okres ważności, państwo członkowskie organu celnego podejmującego decyzję, właściwy/kontrolny urząd celny.
-Grupa 9 Dodatkowe VII/a. Przedstawiciel pośredni Wypełnić, jeśli wnioskodawca chce stosować pozwolenie również jako przedstawiciel pośredni.
+8/12. Zgoda na publikację w wykazie posiadaczy pozwoleń Wskazać („tak”/„nie”), czy wnioskodawca zgadza się na ujawnienie w publicznym wykazie posiadaczy pozwoleń następujących danych dotyczących pozwolenia, o które występuje: – posiadacz pozwolenia, – rodzaj pozwolenia, – data wejścia w życie lub, w stosownych przypadkach, okres ważności, – państwo członkowskie organu celnego podejmującego decyzję, – właściwy/kontrolny urząd celny.
+Grupa 9 – Dodatkowe VII/a. Przedstawiciel pośredni Wypełnić, jeśli wnioskodawca chce stosować pozwolenie również jako przedstawiciel pośredni.
 VII/b. Stosowanie uproszczenia poza godzinami pracy urzędu celno-skarbowego Wypełnić w przypadku wnioskowania o stosowanie uproszczenia poza godzinami pracy urzędu celno-skarbowego.
 1. organ celny, do którego jest składana deklaracja
 2. składający deklarację
@@ -112,7 +111,7 @@ VII/b. Stosowanie uproszczenia poza godzinami pracy urzędu celno-skarbowego Wyp
 18. liczba opakowań
 19. oznaczenia przesyłek
 20. kod CUS
-21. kod towaru kod Nomenklatury Scalonej
+21. kod towaru – kod Nomenklatury Scalonej
 22. numer identyfikacyjny kontenera
 23. numer zamknięcia celnego.
 

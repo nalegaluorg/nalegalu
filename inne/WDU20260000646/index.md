@@ -8,7 +8,7 @@ pos: 646
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw
@@ -24,10 +24,69 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-04-17 |
 | Data wydania | 2026-05-14 |
-| Ostatnia zmiana | 2026-05-18 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/646/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907 oraz z 2025 r. poz. 1705) wprowadza się następujące zmiany:
+
+- **1)** w art. 16 w ust. 3 w pkt 2 w lit. n na końcu dodaje się przecinek i dodaje się lit. o w brzmieniu: „o) oświata i wychowanie”;
+- **2)** w art. 17:
+    - **a)** w ust. 1 po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) jednostki organizacyjne Wojskowej Ochrony Przeciwpożarowej;”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Jednostki organizacyjne Wojskowej Ochrony Przeciwpożarowej oraz podmioty, o których mowa w ust. 1 pkt 21–23, podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane nie przekształcają się w podmioty obrony cywilnej.”;
+
+- **3)** w art. 19 ust. 2 otrzymuje brzmienie: „2. Porozumienie z podmiotami o zasięgu krajowym zawiera minister właściwy do spraw wewnętrznych, informując o tym właściwych terytorialnie wójta (burmistrza, prezydenta miasta) i starostę. Wykaz podmiotów, z którymi podpisano porozumienia, podaje się niezwłocznie do publicznej wiadomości w Biuletynie Informacji Publicznej przez organ, który zawarł porozumienie.”;
+- **4)** w art. 30 w ust. 3 w pkt 2 wyrazy „pkt 2–9, 10” zastępuje się wyrazami „pkt 2–10a”;
+- **5)** w art. 50 w ust. 2 po wyrazach „służb państwowych podległych ministrowi właściwemu do spraw wewnętrznych,” dodaje się wyrazy „instytuty badawcze Państwowej Straży Pożarnej, uczelnie nadzorowane przez Ministra Obrony Narodowej,”;
+- **6)** w art. 52 dodaje się ust. 3 w brzmieniu: „3. Szkolenia z zakresu ochrony ludności i obrony cywilnej mogą być również prowadzone przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane w ramach specjalistycznych usług wojskowych, o których mowa w art. 46 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny.”;
+- **7)** art. 62 otrzymuje brzmienie: „Art. 62. Organy ochrony ludności kontrolują wykonywanie zadań ochrony ludności i obrony cywilnej przez podmioty ochrony ludności, o których mowa w art. 17 ust. 1, oraz z którymi zawarły porozumienie, o którym mowa w art. 19 ust. 1, lub wobec których wydały decyzję, o której mowa w art. 20 ust. 2 – w zakresie zadań zleconych tym podmiotom przez te organy.”;
+- **8)** w art. 69 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) udostępnienia w miarę możliwości punktu schronienia osobom chroniącym się przed zagrożeniem.”;
+- **9)** art. 79 otrzymuje brzmienie: „Art. 79. Wykonując zadania operatora SBŁP, minister właściwy do spraw wewnętrznych może zlecać zadania związane z organizacją, budową, utrzymaniem i modernizacją SBŁP:
+- **1)** podległym sobie lub nadzorowanym przez siebie organom i jednostkom organizacyjnym;
+- **2)** jednostkom wojskowym, za zgodą Ministra Obrony Narodowej;
+- **3)** podmiotom, o których mowa w art. 76 ust. 3, z wyłączeniem Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego;
+- **4)** podmiotom spełniającym łącznie następujące warunki:
+    - **a)** będącym przedsiębiorcą telekomunikacyjnym lub podmiotem prowadzącym działalność telekomunikacyjną,
+    - **b)** posiadającym świadectwo bezpieczeństwa przemysłowego pierwszego stopnia, o którym mowa w art. 55 ust. 1 pkt 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych,
+    - **c)** dającym rękojmię należytego wykonywania zadań na rzecz operatora SBŁP.”;
+
+- **10)** po art. 79 dodaje się art. 79a w brzmieniu: „Art. 79a. Koszty realizacji zadania operatora SBŁP, związane z organizacją, budową, utrzymaniem i modernizacją SBŁP, zleconego przez ministra właściwego do spraw wewnętrznych podległym sobie lub nadzorowanym przez siebie organom i jednostkom organizacyjnym, są finansowane z części budżetowej, której dysponentem jest minister właściwy do spraw wewnętrznych.”;
+- **11)** tytuł rozdziału 9 otrzymuje brzmienie: „Obiekty zbiorowej ochrony i punkty schronienia”;
+- **12)** art. 82 otrzymuje brzmienie: „Art. 82. W celu ochrony ludności przed zagrożeniami powstałymi w wyniku klęsk żywiołowych, zdarzeń o charakterze terrorystycznym lub działań wojennych wykorzystuje się obiekty zbiorowej ochrony i punkty schronienia.”;
+- **13)** po art. 84 dodaje się art. 84a w brzmieniu: „Art. 84a. Punkty schronienia to miejsca przydatne do tymczasowego ukrycia ludzi, w obiektach budowlanych albo w innych miejscach, zapewniające spełnienie podstawowej funkcji ochronnej przed nagłymi niebezpiecznymi zjawiskami pogodowymi oraz skutkami użycia konwencjonalnych środków rażenia, w szczególności odłamkami.”;
+- **14)** w art. 87 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Porozumienie może dotyczyć również planowanego obiektu budowlanego.”;
+- **15)** po art. 91 dodaje się art. 91a w brzmieniu: „Art. 91a. 1. Właściwy miejscowo komendant powiatowy (miejski) Państwowej Straży Pożarnej identyfikuje punkty schronienia w:
+- **1)** obiektach budowlanych, wobec których trwa postępowanie o uznanie za budowlę ochronną;
+- **2)** obiektach budowlanych albo ich częściach, które przed dniem wejścia w życie ustawy pełniły funkcję budowli ochronnej;
+- **3)** planowanych miejscach organizacji miejsc doraźnego schronienia;
+- **4)** obiektach budowlanych lub innych miejscach zapewniających spełnienie podstawowej funkcji ochronnej przed skutkami niebezpiecznych zjawisk pogodowych oraz skutkami użycia konwencjonalnych środków rażenia, w szczególności odłamkami.
+
+2. Komendant powiatowy (miejski) Państwowej Straży Pożarnej zawiadamia o zidentyfikowanych punktach schronienia właściwego wójta (burmistrza, prezydenta miasta) oraz starostę, a także właściciela lub zarządcę nieruchomości, na której znajduje się zidentyfikowany punkt schronienia.”;
+
+- **16)** po art. 92 dodaje się art. 92a w brzmieniu: „Art. 92a. 1. W uzasadnionych przypadkach warunki techniczne dla miejsc doraźnego schronienia, o których mowa w przepisach wydanych na podstawie art. 115 ust. 1 pkt 3, mogą być spełnione w sposób inny niż określony w tych przepisach, jeżeli proponowane rozwiązania zamienne zapewniają funkcje ochronne umożliwiające zorganizowanie miejsca doraźnego schronienia.
+
+2. Właściwy wojewoda, na wniosek inwestora lub właściciela obiektu budowlanego uzasadniony ekspertyzą techniczną, udziela albo odmawia udzielenia zgody na zastosowanie rozwiązań zamiennych, w drodze postanowienia, po uzyskaniu upoważnienia ministra właściwego do spraw wewnętrznych.
+
+3. Ekspertyzę techniczną, o której mowa w ust. 2, wykonuje osoba posiadająca uprawnienia budowlane bez ograniczeń w odpowiedniej specjalności.
+
+4. Wojewoda składa do ministra właściwego do spraw wewnętrznych wniosek w sprawie upoważnienia, o którym mowa w ust. 2, przed wydaniem decyzji o pozwoleniu na budowę albo decyzji o zmianie pozwolenia na budowę. Wniosek zawiera:
+
+- **1)** charakterystykę obiektu budowlanego określającą w szczególności informacje o wielkości części podziemnych w obiekcie budowlanym, przeznaczeniu pomieszczeń lub przestrzeni w części podziemnej obiektu budowlanego;
+- **2)** opinię wojewody wraz ze szczegółowym uzasadnieniem o konieczności wprowadzenia rozwiązań zamiennych;
+- **3)** propozycje rozwiązań zamiennych;
+- **4)** uzasadnienie dotyczące zapewnienia funkcji ochronnych umożliwiających zorganizowanie miejsca doraźnego schronienia przy uwzględnieniu projektowanych rozwiązań.
+
+5. Minister właściwy do spraw wewnętrznych może uzależnić upoważnienie, o którym mowa w ust. 2, od spełnienia dodatkowych warunków.”;
+
+- **17)** art. 93 i art. 94 otrzymują brzmienie: „Art. 93. 1. W budynku użyteczności publicznej zapewnia się budowlę ochronną, chyba że przepis szczególny stanowi inaczej.
+
+2. Wójt (burmistrz, prezydent miasta) może zwolnić z obowiązku zapewnienia budowli ochronnej w budynku użyteczności publicznej. Zwolnienie następuje w drodze decyzji administracyjnej.
+
+3. Odwołanie od decyzji w sprawie zwolnienia z obowiązku zapewnienia budowli ochronnej w budynku użyteczności publicznej rozpatruje wojewoda.
+
+4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, przypadki, w których:
+
+- **1)** w budynku użyteczności publicznej nie ma obowiązku zapewnienia budowli ochronnej,
+- **2)** organ ochrony ludności może zwolnić z obowiązku zapewnienia budowli ochronnej w budynku użyteczności publicznej – mając na uwadze konieczność zapewnienia odpowiedniej ilości miejsc w budowlach ochronnych oraz parametry budynku, przewidywaną liczbę osób, które mogą w nim przebywać i przeznaczenie budynku użyteczności publicznej.
 
 **Art. 94.**
 
@@ -318,6 +377,9 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i 1366 oraz z 2026 r. poz. 252) wprowadza się następujące zmiany:
 
+- **1)** w art. 37r dodaje się ust. 3 w brzmieniu: „3. W przypadku strażaków oddelegowanych do wykonywania zadań służbowych w urzędzie obsługującym ministra właściwego do spraw wewnętrznych albo w jednostce podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych, należności, o których mowa w ust. 1, wypłaca jednostka organizacyjna Państwowej Straży Pożarnej, w której strażak pełnił służbę przed oddelegowaniem, w uzgodnieniu z kierownikiem urzędu albo jednostki, do której strażak został oddelegowany.”;
+- **2)** w art. 37u w ust. 1 wyrazy „o których mowa w art. 37r ust. 1” zastępuje się wyrazami „o których mowa w art. 37r ust. 1 i 3”.
+
 **Art. 5.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2026 r. poz. 524 i 605) w art. 33 w ust. 2 pkt 13 otrzymuje brzmienie: „13) w przypadku obiektu budowlanego, o którym mowa w art. 93–95 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej – oświadczenie inwestora o realizacji obowiązku, o którym mowa w art. 95a ust. 1 tej ustawy, oraz o obowiązku wykonania budowli ochronnej o określonej kategorii odporności i pojemności lub wykonania obiektu budowlanego w sposób umożliwiający zorganizowanie w nim miejsca doraźnego schronienia o określonej pojemności albo o braku takiego obowiązku, złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny; składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy(-ma) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.”.
 
 **Art. 6.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179, 718, 1366 i 1823) w art. 98 dodaje się ust. 3 w brzmieniu: „3. W przypadku funkcjonariusza oddelegowanego do wykonywania zadań służbowych w urzędzie obsługującym ministra właściwego do spraw wewnętrznych albo w jednostce podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych, należności, o których mowa w ust. 1, wypłaca komórka organizacyjna SOP właściwa w sprawach finansowych w uzgodnieniu z kierownikiem urzędu albo jednostki, do której funkcjonariusz został oddelegowany.”.
@@ -325,6 +387,9 @@ source: "isap-pdf"
 **Art. 7.** W ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743 oraz z 2026 r. poz. 471) w art. 7 w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) urządzeniami filtrowentylacyjnymi do oczyszczania powietrza w warunkach skażeń promieniotwórczych, biologicznych lub chemicznych, przeznaczonymi do użytku w budowlach ochronnych, o których mowa w art. 83 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907, z 2025 r. poz. 1705 oraz z 2026 r. poz. 646), sprzedawanymi podmiotom wskazanym w wyznaczeniu, porozumieniu albo decyzji, o których mowa w art. 83 ust. 1 tej ustawy.”.
 
 **Art. 8.** Przepisów art. 95a ustawy zmienianej w art. 1 oraz art. 33 ust. 2 pkt 13 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do zamierzenia budowlanego, wobec którego przed dniem wejścia w życie niniejszej ustawy:
+
+- **1)** został złożony wniosek o pozwolenie na budowę lub wniosek o wydanie odrębnej decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego,
+- **2)** zostało dokonane zgłoszenie budowy lub wykonywania innych robót budowlanych w przypadku, gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę – chyba że inwestor złoży organowi prowadzącemu postępowanie wniosek o ich stosowanie.
 
 **Art. 9.** Do otwartych konkursów ofert w sprawach, o których mowa w art. 153 ust. 1 ustawy zmienianej w art. 1, ogłoszonych przed dniem wejścia w życie niniejszej ustawy oraz do realizacji zadań zlecanych w ich trybie stosuje się przepisy dotychczasowe.
 
@@ -350,4 +415,8 @@ source: "isap-pdf"
 **Art. 13.** Do finansowania należności, o których mowa w art. 36k ust. 3 ustawy zmienianej w art. 2, w art. 41i ust. 1 ustawy zmienianej w art. 3, w art. 37r ust. 1 ustawy zmienianej w art. 4 oraz w art. 98 ust. 1 ustawy zmienianej w art. 6, oddelegowanych funkcjonariuszy, którzy w dniu wejścia w życie niniejszego przepisu wykonywali zadania w urzędzie obsługującym ministra właściwego do spraw wewnętrznych albo w jednostce podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych, stosuje się odpowiednio art. 36k ust. 3a ustawy zmienianej w art. 2, art. 41i ust. 3 ustawy zmienianej w art. 3, art. 37r ust. 3 i art. 37u ust. 1 ustawy zmienianej w art. 4 oraz art. 98 ust. 3 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 51, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2026 r.;
+- **2)** art. 2–4, art. 6 i art. 13, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+
 

@@ -8,7 +8,7 @@ pos: 1538
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowej nazwy Politechnice Śląskiej im. Wincentego Pstrowskiego w Gliwicach

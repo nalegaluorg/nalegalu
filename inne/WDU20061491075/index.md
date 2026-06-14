@@ -8,7 +8,7 @@ pos: 1075
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw

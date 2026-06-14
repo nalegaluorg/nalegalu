@@ -8,10 +8,10 @@ pos: 664
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 maja 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 664 Drugi ProtokÓł między rządem rzeczypospolitej Polskiej a gabinetem Ministrów ukrainy zmieniający umowę między rządem rzeczypospolitej Polskiej a gabinetem Ministrów ukrainy o zasadach małego ruchu granicznego, podpisaną w kijowie dnia 28 marca 2008 r., podpisany w Warszawie dnia 17 grudnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/664/text.pdf) |
 
-Drugi ProtokÓł między rządem rzeczypospolitej Polskiej a gabinetem Ministrów ukrainy zmieniający umowę między rządem rzeczypospolitej Polskiej a gabinetem Ministrów ukrainy o zasadach małego ruchu granicznego, podpisaną w kijowie dnia 28 marca 2008 r., podpisany w Warszawie dnia 17 grudnia 2014 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 17 grudnia 2014 r. w Warszawie został podpisany Drugi protokół między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy zmieniający Umowę między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy o zasadach małego ruchu granicznego, podpisaną w Kijowie dnia 28 marca 2008 r., w następującym brzmieniu: Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 17 grudnia 2014 r. w Warszawie został podpisany Drugi protokół między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy zmieniający Umowę między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy o zasadach małego ruchu granicznego, podpisaną w Kijowie dnia 28 marca 2008 r., w następującym brzmieniu: Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęty, ratyfikowany i potwierdzony, – będzie niezmiennie zachowywany.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 16 listopada 2015 r.
 Prezydent Rzeczypospolitej Polskiej: A. Duda l.s.

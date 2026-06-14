@@ -8,7 +8,7 @@ pos: 32
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych
@@ -34,6 +34,12 @@ source: "isap-pdf"
 2. Przepisy ustawy stosuje się do kredytów mieszkaniowych udzielonych i spłacanych na warunkach określonych przez Radę Ministrów.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** zadłużeniu kredytobiorcy z tytułu przejściowego wykupienia odsetek od kredytu – należy przez to rozumieć sumę kwoty środków przekazanych z budżetu państwa na przejściowe wykupienie należności banku z tytułu niespłaconych przez kredytobiorcę odsetek od kredytu oraz kwot naliczanego przez bank oprocentowania tych odsetek;
+- **2)** spłatach lub należnościach z tytułu spłat kredytu – należy przez to rozumieć spłaty lub należności z tytułu spłat tego kredytu wraz z odsetkami, w tym odsetkami przejściowo wykupionymi ze środków budżetu państwa wraz z ich oprocentowaniem;
+- **3)** lokalu – należy przez to rozumieć lokal mieszkalny w spółdzielni mieszkaniowej, lokal mieszkalny w budynku stanowiący odrębną własność lub dom mieszkalny;
+- **4)** kredytobiorcy – należy przez to rozumieć również członka spółdzielni mieszkaniowej, zajmującego lokal obciążony kredytem zaciągniętym przez spółdzielnię, lub osobę niebędącą członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, zajmującą lokal obciążony kredytem zaciągniętym przez spółdzielnię;
+- **5)** właścicielu książeczki mieszkaniowej – należy przez to rozumieć osobę fizyczną, która jest posiadaczem wkładu oszczędnościowego gromadzonego na rachunku bankowym na cele mieszkaniowe, którego imienny dowód stanowi książeczka mieszkaniowa wystawiona do dnia 23 października 1990 r.
 
 **Art. 3.**
 
@@ -356,4 +362,7 @@ source: "isap-pdf"
 **Art. 15.** (pominięty)
 
 **Art. 16.** Ustawa wchodzi w życie z dniem 1 stycznia 1996 r. Załącznik do ustawy z dnia 30 listopada 1995 r. (Dz. U. z 2024 r. poz.
+
+- **1774)** Do obliczania premii gwarancyjnej od sumy wpłat wniesionych w roku (kwartale) i-tym stosuje się następujący wzór: gdzie: 𝑖 – oznacza rok (kwartał) wniesienia wpłat, 𝑛 – oznacza kwartał, dla którego jest znana cena ostatnio ogłoszona, PG – oznacza premie gwarancyjne od sumy wpłat wniesionych w roku (kwartale) 𝑖, C – oznacza cenę 1 m powierzchni użytkowej budynku mieszkalnego ustaloną dla roku (kwartału) i, C – oznacza cenę 1 m powierzchni użytkowej budynku mieszkalnego ostatnio ogłoszoną przed kwartałem złożenia wniosku, SP – oznacza składaną stopę procentową, według której były oprocentowane wpłaty wniesione w roku (kwartale) i-tym do końca kwartału, dla którego jest znana cena ostatnio ogłoszona, gdzie: r – oznacza stopę procentową w roku (kwartale) 𝑖, podzieloną przez 100, r – oznacza stopę procentową w kwartale 𝑛, podzieloną przez 100, WK – oznacza sumę wpłat wniesionych w roku (kwartale) 𝑖. Składaną stopę procentową SP oblicza się według wyżej przedstawionego wzoru przy uwzględnieniu okresów, w których bank dokonywał kapitalizacji odsetek. Premię łączną oblicza się według wzoru PG = ∑ PG jako sumę premii od wszystkich wpłat wniesionych na książeczkę mieszkaniową w poszczególnych latach (kwartałach).
+
 

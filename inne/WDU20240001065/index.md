@@ -8,10 +8,10 @@ pos: 1065
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 18 lipca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1065 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,48 +25,50 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1065/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 10 lipca 2024 r.
-sprawie informacji dotyczących działalności banków związanej lokatami strukturyzowanymi Na podstawie art. 88ma ust. ustawy dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. 2023 r. poz. 2488 oraz 2024 r.
-poz. 879) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres informacji, o których mowa art. 88ma ust. 1 ustawy dnia 29 sierpnia 1997 r. Prawo bankowe, zwanej dalej „ustawą”, formę, termin oraz sposób ich przekazywania.
+w sprawie informacji dotyczących działalności banków związanej z lokatami strukturyzowanymi Na podstawie art. 88ma ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r.
+poz. 879) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres informacji, o których mowa w art. 88ma ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, zwanej dalej „ustawą”, formę, termin oraz sposób ich przekazywania.
 § 2. Szczegółowy zakres informacji dotyczących:
-1) oferowanych i zawieranych lokat strukturyzowanych określa załącznik 1 do rozporządzenia;
-2) rozpoczęcia, ograniczenia i zaprzestania prowadzenia działalności polegającej na rekomendowaniu, oferowaniu, zawieraniu lub umożliwieniu zawarcia umowy lokaty strukturyzowanej na terytorium Rzeczypospolitej Polskiej albo wykonywaniu tych czynności na terytorium innego państwa, zwanej dalej „działalnością związaną lokatami strukturyzowanymi”, określa załącznik do rozporządzenia;
-3) istotnego naruszenia przepisów związanych prowadzeniem działalności związanej lokatami strukturyzowanymi określa załącznik 3 do rozporządzenia.
-§ 3. 1. Informacje, o których mowa § 2:
-1) 1 są przekazywane formie sprawozdania kwartalnego terminie do 20. dnia miesiąca następującego po kwartale objętym tym sprawozdaniem;
-2) są przekazywane formie raportu bieżącego terminie 3 dni roboczych od dnia wystąpienia zdarzenia określonego § 2;
-3) 3 są przekazywane formie raportu bieżącego terminie 3 dni roboczych od dnia powzięcia przez bank informacji o naruszeniu.
-2. W przypadku rozpoczynającego prowadzenie działalności związanej lokatami strukturyzowanymi dniu innym niż pierwszy dzień okresu sprawozdawczego informacje przekazywane sprawozdaniu kwartalnym obejmują okres od rozpoczęcia tej działalności do końca kwartału, którym tę działalność rozpoczęto.
-§ 4. Informacje, o których mowa § 2, są przekazywane postaci elektronicznej za pomocą systemu teleinformatycznego udostępnionego przez Komisję Nadzoru Finansowego, formacie danych zgodnym formatem danych systemu teleinformatycznego udostępnionym na jej stronie internetowej.
-§ 6. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: A. Domański OFEROWANYCH I ZAWIERANYCH LOKAT STRUKTURYZOWANYCH
+1) oferowanych i zawieranych lokat strukturyzowanych określa załącznik nr 1 do rozporządzenia;
+2) rozpoczęcia, ograniczenia i zaprzestania prowadzenia działalności polegającej na rekomendowaniu, oferowaniu, zawieraniu lub umożliwieniu zawarcia umowy lokaty strukturyzowanej na terytorium Rzeczypospolitej Polskiej albo wykonywaniu tych czynności na terytorium innego państwa, zwanej dalej „działalnością związaną z lokatami strukturyzowanymi”, określa załącznik nr 2 do rozporządzenia;
+3) istotnego naruszenia przepisów związanych z prowadzeniem działalności związanej z lokatami strukturyzowanymi określa załącznik nr 3 do rozporządzenia.
+§ 3. 1. Informacje, o których mowa w § 2:
+1) pkt 1 – są przekazywane w formie sprawozdania kwartalnego w terminie do 20. dnia miesiąca następującego po kwartale objętym tym sprawozdaniem;
+2) pkt 2 – są przekazywane w formie raportu bieżącego w terminie 3 dni roboczych od dnia wystąpienia zdarzenia określonego w § 2 pkt 2;
+3) pkt 3 – są przekazywane w formie raportu bieżącego w terminie 3 dni roboczych od dnia powzięcia przez bank informacji o naruszeniu.
+2. W przypadku banku rozpoczynającego prowadzenie działalności związanej z lokatami strukturyzowanymi w dniu innym niż pierwszy dzień okresu sprawozdawczego informacje przekazywane w sprawozdaniu kwartalnym obejmują okres od rozpoczęcia tej działalności do końca kwartału, w którym tę działalność rozpoczęto.
+§ 4. Informacje, o których mowa w § 2, są przekazywane w postaci elektronicznej za pomocą systemu teleinformatycznego udostępnionego przez Komisję Nadzoru Finansowego, w formacie danych zgodnym z formatem danych systemu teleinformatycznego udostępnionym na jej stronie internetowej.
+§ 5. 1. Informacje, o których mowa w § 2 pkt 1, przekazuje się po raz pierwszy za kwartał roku kalendarzowego następujący po kwartale, w którym rozporządzenie weszło w życie.
+2. Informacje, o których mowa w § 2 pkt 3, przekazuje się po raz pierwszy w odniesieniu do naruszeń, o których bank powziął informacje od dnia wejścia w życie rozporządzenia.
+§ 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Finansów: A. Domański SZCZEGÓŁOWY ZAKRES INFORMACJI DOTYCZĄCYCH OFEROWANYCH I ZAWIERANYCH LOKAT STRUKTURYZOWANYCH
 1. Data przekazania informacji.
 2. Dane identyfikacyjne banku.
 3. Nazwa własna lokaty strukturyzowanej.
-4. Warunki, od jakich jest uzależniona wypłata odsetek lub świadczeń dodatkowych lokaty strukturyzowanej albo wysokość tych odsetek lub świadczeń dodatkowych.
+4. Warunki, od jakich jest uzależniona wypłata odsetek lub świadczeń dodatkowych z lokaty strukturyzowanej albo wysokość tych odsetek lub świadczeń dodatkowych.
 5. Waluta lokaty strukturyzowanej.
-6. Łączna wartość środków pieniężnych wpłaconych przez klientów na daną lokatę strukturyzowaną okresie sprawozdawczym (w PLN).
-7. Łączna liczba klientów, którzy okresie sprawozdawczym wpłacili środki pieniężne na daną lokatę strukturyzowaną, do której odnoszą dane 6.
-8. Łączna wartość zakończonych lokat strukturyzowanych okresie sprawozdawczym (w PLN).
-9. Łączna liczba klientów, których lokaty strukturyzowane, do których odnoszą dane 8, zostały zakończone okresie sprawozdawczym.
-10. Łączna wartość zobowiązań wynikających aktywnej lokaty strukturyzowanej, zgodnie ze stanem na koniec okresu sprawozdawczego (w PLN).
-11. Łączna liczba klientów, którzy zawarli umowę lokaty strukturyzowanej, do której odnoszą dane 10.
+6. Łączna wartość środków pieniężnych wpłaconych przez klientów na daną lokatę strukturyzowaną w okresie sprawozdawczym (w PLN).
+7. Łączna liczba klientów, którzy w okresie sprawozdawczym wpłacili środki pieniężne na daną lokatę strukturyzowaną, do której odnoszą się dane z pkt 6.
+8. Łączna wartość zakończonych lokat strukturyzowanych w okresie sprawozdawczym (w PLN).
+9. Łączna liczba klientów, których lokaty strukturyzowane, do których odnoszą się dane z pkt 8, zostały zakończone w okresie sprawozdawczym.
+10. Łączna wartość zobowiązań banku wynikających z aktywnej lokaty strukturyzowanej, zgodnie ze stanem na koniec okresu sprawozdawczego (w PLN).
+11. Łączna liczba klientów, którzy zawarli umowę lokaty strukturyzowanej, do której odnoszą się dane z pkt 10.
 Objaśnienia:
-a) W informacjach wykazuje dane dla lokat strukturyzowanych rozumieniu art. 4 ust. 1 41 ustawy.
-b) W 6 i 7 wykazuje dane jedynie dla umów lokat strukturyzowanych zawartych okresie sprawozdawczym.
-c) W 10 i 11 wykazuje dane dla wszystkich środków pieniężnych zgromadzonych na lokatach strukturyzowanych przechowywanych przez bank zgodnie ze stanem na koniec ostatniego dnia okresu sprawozdawczego, a nie jedynie dla środków pieniężnych wpłaconych tytułu umów lokat strukturyzowanych zawartych okresie sprawozdawczym.
-d) W przypadku depozytów nominowanych walutach obcych: − informacjach, o których mowa 6 i 8, wykazuje łączną wartość środków pieniężnych wpłaconych na lokatę strukturyzowaną albo wypłaconych zakończonej lokaty strukturyzowanej złotych, obliczoną według średniego kursu danej waluty ogłaszanego przez Narodowy Bank Polski, obowiązującego odpowiednio dniu wpłaty na lokatę strukturyzowaną albo wypłaty lokaty strukturyzowanej, − informacji, o której mowa 10, wykazuje wartość zobowiązań wynikającą aktywnych lokat strukturyzowanych złotych, obliczoną według średniego kursu danej waluty ogłaszanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu okresu sprawozdawczego.
-OFEROWANIU, ZAWIERANIU LUB UMOŻLIWIENIU ZAWARCIA UMOWY LOKATY STRUKTURYZOWANEJ NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ ALBO WYKONYWANIU TYCH CZYNNOŚCI NA TERYTORIUM INNEGO PAŃSTWA
+a) W informacjach wykazuje się dane dla lokat strukturyzowanych w rozumieniu art. 4 ust. 1 pkt 41 ustawy.
+b) W pkt 6 i 7 wykazuje się dane jedynie dla umów lokat strukturyzowanych zawartych w okresie sprawozdawczym.
+c) W pkt 10 i 11 wykazuje się dane dla wszystkich środków pieniężnych zgromadzonych na lokatach strukturyzowanych przechowywanych przez bank zgodnie ze stanem na koniec ostatniego dnia okresu sprawozdawczego, a nie jedynie dla środków pieniężnych wpłaconych z tytułu umów lokat strukturyzowanych zawartych w okresie sprawozdawczym.
+d) W przypadku depozytów nominowanych w walutach obcych: − w informacjach, o których mowa w pkt 6 i 8, wykazuje się łączną wartość środków pieniężnych wpłaconych na lokatę strukturyzowaną albo wypłaconych z zakończonej lokaty strukturyzowanej w złotych, obliczoną według średniego kursu danej waluty ogłaszanego przez Narodowy Bank Polski, obowiązującego odpowiednio w dniu wpłaty na lokatę strukturyzowaną albo wypłaty z lokaty strukturyzowanej, − w informacji, o której mowa w pkt 10, wykazuje się wartość zobowiązań banku wynikającą z aktywnych lokat strukturyzowanych w złotych, obliczoną według średniego kursu danej waluty ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu okresu sprawozdawczego.
+SZCZEGÓŁOWY ZAKRES INFORMACJI DOTYCZĄCYCH ROZPOCZĘCIA, OGRANICZENIA I ZAPRZESTANIA PROWADZENIA DZIAŁALNOŚCI POLEGAJĄCEJ NA REKOMENDOWANIU, OFEROWANIU, ZAWIERANIU LUB UMOŻLIWIENIU ZAWARCIA UMOWY LOKATY STRUKTURYZOWANEJ NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ ALBO WYKONYWANIU TYCH CZYNNOŚCI NA TERYTORIUM INNEGO PAŃSTWA
 1. Data przekazania informacji.
 2. Dane identyfikacyjne banku.
-3. Data (rozpoczęcia / ograniczenia / zaprzestania wykonywania czynności 4).
-4. Rodzaj czynności ramach prowadzonej działalności związanej lokatami strukturyzowanymi (rekomendowanie / oferowanie / zawieranie / umożliwienie zawarcia umowy lokaty strukturyzowanej).
-5. Rodzaj zdarzenia dotyczącego czynności 4 (rozpoczęcie / ograniczenie / zaprzestanie).
+3. Data (rozpoczęcia / ograniczenia / zaprzestania wykonywania czynności z pkt 4).
+4. Rodzaj czynności w ramach prowadzonej działalności związanej z lokatami strukturyzowanymi (rekomendowanie / oferowanie / zawieranie / umożliwienie zawarcia umowy lokaty strukturyzowanej).
+5. Rodzaj zdarzenia dotyczącego czynności z pkt 4 (rozpoczęcie / ograniczenie / zaprzestanie).
 Objaśnienia: W przypadku gdy informacja dotyczy wykonywania czynności:
-a) o których mowa art. 5 ust. 1 1 ustawy, których przedmiotem są lokaty strukturyzowane, wykazuje tę informację jako dotyczącą oferowania lub zawierania umowy lokaty strukturyzowanej,
-b) o której mowa art. 5 ust. 11 ustawy, wykazuje tę informację jako dotyczącą umożliwienia zawarcia umowy lokaty strukturyzowanej,
-c) o której mowa art. 5 ust. 12 ustawy, wykazuje tę informację jako dotyczącą rekomendowania zawarcia umowy lokaty strukturyzowanej.
-Z LOKATAMI STRUKTURYZOWANYMI
+a) o których mowa w art. 5 ust. 1 pkt 1 ustawy, których przedmiotem są lokaty strukturyzowane, wykazuje się tę informację jako dotyczącą oferowania lub zawierania umowy lokaty strukturyzowanej,
+b) o której mowa w art. 5 ust. 2 pkt 11 ustawy, wykazuje się tę informację jako dotyczącą umożliwienia zawarcia umowy lokaty strukturyzowanej,
+c) o której mowa w art. 5 ust. 2 pkt 12 ustawy, wykazuje się tę informację jako dotyczącą rekomendowania zawarcia umowy lokaty strukturyzowanej.
+SZCZEGÓŁOWY ZAKRES INFORMACJI DOTYCZĄCYCH ISTOTNEGO NARUSZENIA PRZEPISÓW ZWIĄZANYCH Z PROWADZENIEM DZIAŁALNOŚCI ZWIĄZANEJ Z LOKATAMI STRUKTURYZOWANYMI
 1. Data przekazania informacji.
 2. Dane identyfikacyjne banku.
 3. Data naruszenia przepisów.

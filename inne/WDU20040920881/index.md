@@ -8,7 +8,7 @@ pos: 881
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wyrobach budowlanych
@@ -39,6 +39,23 @@ Art. 37–39. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** wyrobie budowlanym – należy przez to rozumieć wyrób budowlany, o którym mowa w art. 2 pkt 1 rozporządzenia Nr 305/2011;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** (uchylony)
+- **5)** znaku budowlanym – należy przez to rozumieć znak wskazujący, że wyrób budowlany oznaczony tym znakiem może być udostępniany na rynku krajowym i stosowany przy wykonywaniu robót budowlanych;
+- **6)** producencie – należy przez to rozumieć także upoważnionego przedstawiciela producenta;
+- **7)** sprzedawcy – należy przez to rozumieć dystrybutora, o którym mowa w art. 2 pkt 20 rozporządzenia Nr 305/2011;
+- **8)** właściwym organie – należy przez to rozumieć organy nadzoru budowlanego, stosownie do ich właściwości, określonej w art. 11, 13 i 14;
+- **9)** kontrolowanym – należy przez to rozumieć przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162) lub osobę prowadzącą działalność, o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, u których prowadzi się kontrolę wyrobów budowlanych wprowadzonych do obrotu;
+- **10)** wprowadzeniu do obrotu – należy przez to rozumieć wprowadzenie do obrotu, o którym mowa w art. 2 pkt 17 rozporządzenia Nr 305/2011;
+- **11)** wycofaniu z obrotu – należy przez to rozumieć wycofanie z obrotu, o którym mowa w art. 2 pkt 23 rozporządzenia Nr 305/2011;
+- **12)** udostępnianiu na rynku krajowym – należy przez to rozumieć każde dostarczanie wyrobu budowlanego w celu dystrybucji lub zastosowania na rynku krajowym w ramach działalności handlowej, odpłatnie lub nieodpłatnie;
+- **13)** zasadniczych charakterystykach – należy przez to rozumieć zasadnicze charakterystyki, o których mowa w art. 2 pkt 4 rozporządzenia Nr 305/2011;
+- **14)** właściwościach użytkowych wyrobu budowlanego – należy przez to rozumieć właściwości użytkowe wyrobu budowlanego, o których mowa w art. 2 pkt 5 rozporządzenia Nr 305/2011;
+- **15)** krajowej ocenie technicznej – należy przez to rozumieć udokumentowaną, pozytywną ocenę właściwości użytkowych tych zasadniczych charakterystyk wyrobu budowlanego, które zgodnie z zamierzonym zastosowaniem mają wpływ na spełnienie podstawowych wymagań, o których mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm. ), przez obiekty budowlane, w których wyrób będzie zastosowany;
+- **16)** zamierzonym zastosowaniu – należy przez to rozumieć zamierzone zastosowanie, o którym mowa w art. 2 pkt 14 rozporządzenia Nr 305/2011, albo zamierzone zastosowanie wyrobu budowlanego określone w Polskiej Normie wyrobu lub krajowej ocenie technicznej.
+
 **Art. 3.**
 
 1. Organem opiniodawczo-doradczym Głównego Inspektora Nadzoru Budowlanego w sprawach wyrobów budowlanych jest Rada Wyrobów Budowlanych.
@@ -58,6 +75,9 @@ Art. 37–39. (pominięte)
 4. Członkom Rady Wyrobów Budowlanych nie przysługuje wynagrodzenie z tytułu udziału w pracach i w posiedzeniach Rady Wyrobów Budowlanych oraz zwrot kosztów przejazdu i noclegów.
 
 **Art. 3a.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), przez osobę, której dane są przetwarzane w związku z realizacją przez Głównego Inspektora Nadzoru Budowlanego oraz wojewódzkich inspektorów nadzoru budowlanego zadań w zakresie:
+
+- **1)** gromadzenia informacji o wynikach zleconych badań próbek wyrobów budowlanych, przeprowadzonych kontrolach wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym, wydanych postanowieniach, decyzjach i opiniach,
+- **2)** prowadzenia krajowego wykazu zakwestionowanych wyrobów budowlanych, o którym mowa w art. 15 – nie wpływa na realizację zadań w tym zakresie.
 
 #### Rozdział 2 Wprowadzenie do obrotu lub udostępnianie na rynku krajowym wyrobów budowlanych
 
@@ -281,6 +301,9 @@ Art. 37–39. (pominięte)
 #### Rozdział 3 Organy właściwe w zakresie kontroli i postępowania administracyjnego w sprawie wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym oraz obowiązki tych organów
 
 **Art. 11.** Organami właściwymi w sprawach wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym, w zakresie uregulowanym w niniejszej ustawie, oraz organami nadzoru rynku, w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, są:
+
+- **1)** wojewódzki inspektor nadzoru budowlanego;
+- **2)** Główny Inspektor Nadzoru Budowlanego.
 
 **Art. 12.** Do podstawowych obowiązków właściwych organów należy kontrola wprowadzonych do obrotu lub udostępnianych na rynku krajowym wyrobów budowlanych, prowadzenie postępowań administracyjnych w tym zakresie oraz wykonywanie zadań, o których mowa w art. 59 ust. 3 i ust. 4 pkt 2 i 3 oraz art. 62 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
@@ -507,6 +530,16 @@ Art. 37–39. (pominięte)
 
 **Art. 22a.** Zabezpieczenia dowodów wykonuje się w odniesieniu do:
 
+- **1)** wyrobów budowlanych – przez opatrzenie plombami, pieczęciami lub innymi znakami urzędowymi oraz przekazanie ich do przechowania kontrolowanemu lub jego przedstawicielowi, z zastrzeżeniem pkt 2, albo przez ich przechowywanie w zabezpieczonym pomieszczeniu kontrolowanego lub właściwego organu, w warunkach właściwych dla poszczególnych rodzajów wyrobów budowlanych;
+- **2)** dokumentów, ewidencji, informacji i innych rzeczy niebędących wyrobami budowlanymi oraz wyrobów budowlanych, które mogą być dowodami w sprawach – przez:
+    - **a)** oddanie na przechowanie kontrolowanemu lub osobie go reprezentującej w zamkniętym i zabezpieczonym pomieszczeniu,
+    - **b)** opieczętowanie lub nałożenie innych znaków urzędowych i oddanie na przechowanie osobom, o których mowa w lit. a,
+    - **c)** złożenie na przechowanie w pomieszczeniu właściwego organu;
+
+- **3)** pomieszczeń – przez ich zamknięcie oraz nałożenie plomb, pieczęci lub innych znaków urzędowych;
+- **4)** produktów niebezpiecznych – przez ich umieszczenie w pomieszczeniach i w warunkach spełniających wymagania określone w przepisach odrębnych;
+- **5)** środków przewozowych – przez opieczętowanie lub nałożenie innych znaków urzędowych.
+
 **Art. 22b.**
 
 1. Postanowienie dotyczące zabezpieczenia dowodów, o którym mowa w art. 22, powinno zawierać określenie terminu zabezpieczenia.
@@ -634,7 +667,14 @@ Art. 37–39. (pominięte)
 
 **Art. 32.** Właściwy organ wydaje decyzję o umorzeniu postępowania, jeżeli:
 
+- **1)** stwierdzi, że wyrób budowlany spełnia wymagania określone niniejszą ustawą;
+- **2)** niezgodność wyrobu budowlanego z wymaganiami określonymi niniejszą ustawą została usunięta albo wyrób ten został wycofany z obrotu;
+- **3)** postępowanie z innych przyczyn stało się bezprzedmiotowe.
+
 **Art. 32a.** W przypadku gdy po wydaniu decyzji, o których mowa w art. 30 ust. 1 pkt 2 i 3 i ust. 2 oraz w art. 31 ust. 1 pkt 2 i ust. 2, niezgodności wyrobu budowlanego z wymaganiami określonymi niniejszą ustawą zostały usunięte lub wyrób budowlany został wycofany z obrotu, właściwy organ na wniosek producenta, importera lub sprzedawcy, w drodze decyzji, stwierdza:
+
+- **1)** usunięcie niezgodności wyrobu budowlanego z wymaganiami określonymi niniejszą ustawą albo
+- **2)** wycofanie z obrotu wyrobu budowlanego.
 
 **Art. 33.**
 
@@ -663,6 +703,10 @@ Art. 37–39. (pominięte)
 **Art. 36d.** Producent, który nie dopełnia obowiązku sporządzenia i przechowywania deklaracji właściwości użytkowych, krajowej deklaracji, dokumentacji technicznej, lub sporządza je niezgodnie z wymaganiami określonymi odpowiednio w przepisach rozporządzenia nr 305/2011 albo przepisach niniejszej ustawy, podlega karze pieniężnej w wysokości do 20 000 zł.
 
 **Art. 36e.** Producent, który nie dopełnia obowiązków dołączania lub udostępniania wraz z wyrobem budowlanym, podlegającym obowiązkowi oznakowania CE lub znakiem budowlanym:
+
+- **1)** informacji towarzyszącej temu oznakowaniu wraz z informacją umożliwiającą identyfikację wyrobu budowlanego lub
+- **2)** kopii deklaracji właściwości użytkowych albo krajowej deklaracji, lub
+- **3)** instrukcji stosowania, instrukcji obsługi lub informacji dotyczących bezpieczeństwa użytkowania – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 **Art. 36f.** Importer, który nie dopełnia obowiązku umieszczenia informacji umożliwiających jego identyfikację na wyrobie budowlanym podlegającym obowiązkowi oznakowania CE lub znakiem budowlanym, podlega karze pieniężnej w wysokości do 10 000 zł.
 

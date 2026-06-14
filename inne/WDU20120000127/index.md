@@ -8,10 +8,10 @@ pos: 127
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lutego 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Pozycja 127 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 28 grudnia 2011 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000127) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/127/text.pdf) |
 
-Pozycja 127 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 28 grudnia 2011 r.
-w sprawie utworzenia wydziałów zamiejscowych okręgowych urzędów probierczych Na podstawie art. 33 ust. 2 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529) zarządza się, co następuje: § 1. Tworzy się następujące wydziały zamiejscowe Okręgowego Urzędu Probierczego w Warszawie:
+w sprawie utworzenia wydziałów zamiejscowych okręgowych urzędów probierczych Na podstawie art. 33 ust. 2 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529) zarządza się, co następuje:
+§ 1. Tworzy się następujące wydziały zamiejscowe Okręgowego Urzędu Probierczego w Warszawie:
 1) wydział zamiejscowy w Gdańsku;
 2) wydział zamiejscowy w Bydgoszczy;
 3) wydział zamiejscowy w Białymstoku;

@@ -8,7 +8,7 @@ pos: 1715
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o transporcie materiałów niebezpiecznych drogą powietrzną
@@ -52,6 +52,14 @@ b) o charakterze systemowym, która trwale obniża lub utrudnia spełnienie wyma
 **Art. 1.** Ustawa określa zasady prowadzenia działalności w zakresie krajowego i międzynarodowego transportu materiałów niebezpiecznych drogą powietrzną przy użyciu cywilnych statków powietrznych, przewozu materiałów niebezpiecznych przez pasażerów lub członków załóg statków powietrznych oraz organy i podmioty realizujące zadania związane z tym transportem i przewozem.
 
 **Art. 2.** Użyte w ustawie określenia i skróty oznaczają:
+
+- **1)** adres elektroniczny – adres elektroniczny w rozumieniu art. 2 pkt 1 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344);
+- **2)** incydent – incydent z materiałami niebezpiecznymi w rozumieniu pkt 35 Załącznika I do rozporządzenia nr 965/2012/UE;
+- **3)** Instrukcje Techniczne – Instrukcje Techniczne w rozumieniu pkt 119 Załącznika I do rozporządzenia nr 965/2012/UE, o których mowa w Załączniku 18, udostępniane przez Organizację Międzynarodowego Lotnictwa Cywilnego, łącznie z suplementami, dodatkami i erratami do tych instrukcji ;
+- **4)** instruktor – osobę, o której mowa w art. 22 ust. 1;
+- **5)** klient masowy – klienta nadającego przesyłki pocztowe na podstawie umowy o świadczenie usługi pocztowej, o której mowa w art. 14 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896), zawartej w formie pisemnej, kiedy liczba nadanych przesyłek danego rodzaju w danym roku kalendarzowym przekroczy 100 000 sztuk;
+- **6)** materiały niebezpieczne – wyroby lub substancje, które mogą stwarzać zagrożenie dla zdrowia, bezpieczeństwa, mienia lub środowiska naturalnego, wykazane na liście materiałów niebezpiecznych w Instrukcjach Technicznych lub sklasyfikowane zgodnie z tymi instrukcjami;
+- **7)** materiały niebezpieczne wysokiego ryzyka – materiały niebezpieczne, które mogą zostać użyte do popełnienia aktu bezprawnej ingerencji w lotnictwie cywilnym, w wyniku czego mogą nastąpić konsekwencje, o których mowa w Części 1,
 
 #### Rozdział 5 Instrukcji Technicznych;
 
@@ -107,6 +115,10 @@ b) o charakterze systemowym, która trwale obniża lub utrudnia spełnienie wyma
 #### Rozdział 2 Ograniczenia dotyczące transportu materiałów niebezpiecznych drogą powietrzną
 
 **Art. 5.** Zezwala się na transport drogą powietrzną materiałów niebezpiecznych, których taki transport zgodnie z pkt 4.2 Załącznika 18 oraz z Częścią 1 Instrukcji Technicznych jest zakazany, pod warunkiem uzyskania:
+
+- **1)** zatwierdzenia Prezesa Urzędu – zgodnie z pkt 2.1.2 Załącznika 18 oraz z Częścią 1, Rozdział 1 Instrukcji Technicznych albo
+- **2)** odstępstwa Prezesa Urzędu – zgodnie z pkt 2.1.3 Załącznika 18 oraz z Częścią 1, Rozdział 1 Instrukcji Technicznych, albo
+- **3)** zatwierdzenia Prezesa Państwowej Agencji Atomistyki – zgodnie z pkt 2.1.2 Załącznika 18 oraz z Częścią 1, Rozdział 1 Instrukcji Technicznych – w przypadku transportu materiałów promieniotwórczych.
 
 **Art. 6.**
 
@@ -248,6 +260,17 @@ b) o charakterze systemowym, która trwale obniża lub utrudnia spełnienie wyma
 #### Rozdział 4 Nadawca
 
 **Art. 15.** Przed nadaniem przesyłki do transportu drogą powietrzną nadawca jest obowiązany:
+
+- **1)** sprawdzić, czy materiały niebezpieczne nie są zabronione do transportu drogą powietrzną w każdych okolicznościach, z uwzględnieniem Części 1, Rozdział 2 Instrukcji Technicznych;
+- **2)** uzyskać zatwierdzenie, o którym mowa w art. 5 pkt 1 lub 3, jeżeli jest wymagane;
+- **3)** sklasyfikować materiały niebezpieczne zgodnie z wymaganiami określonymi w Części 2 Instrukcji Technicznych;
+- **4)** zapakować materiały niebezpieczne zgodnie z wymaganiami określonymi:
+    - **a)** w Części 1, Rozdział 2, w Części 3 i 4 Instrukcji Technicznych oraz
+    - **b)** w Części 6 Instrukcji Technicznych, jeżeli mają zastosowanie do tych materiałów niebezpiecznych;
+
+- **5)** oznakować przesyłkę w języku angielskim oraz w językach, które mogą być wymagane przez państwo pochodzenia, i oznakować etykietami w odniesieniu do materiałów niebezpiecznych, zgodnie z wymaganiami określonymi w Części 3 i 4, w Części 5, Rozdział 2 i 3 oraz w Części 6, Rozdział 2 Instrukcji Technicznych;
+- **6)** jeżeli co najmniej jedna przesyłka jest umieszczona w opakowaniu zbiorczym, zastosować opakowanie zbiorcze zawierające wyłącznie przesyłki z materiałami niebezpiecznymi dozwolonymi do transportu drogą powietrzną, zgodnie z wymaganiami określonymi w Części 5, Rozdział 1 Instrukcji Technicznych, oraz oznakować opakowanie zbiorcze w języku angielskim oraz w językach, które mogą być wymagane przez państwo pochodzenia, i oznakować etykietami zgodnie z wymaganiami określonymi w Części 5, Rozdział 2 Instrukcji Technicznych;
+- **7)** wypełnić i podpisać dokument przewozowy dla materiału niebezpiecznego w języku angielskim oraz w językach, które mogą być wymagane przez państwo pochodzenia, zgodnie z wymaganiami określonymi w Części 5, Rozdział 4 Instrukcji Technicznych.
 
 **Art. 16.** Nadawca, który wysyła materiał niebezpieczny z terytorium Rzeczypospolitej Polskiej, jest obowiązany ukończyć szkolenie z wynikiem pozytywnym na zasadach określonych w art. 21 ust. 2 oraz spełniać odpowiednie dla nadawcy wymagania w zakresie szkoleń określone w Instrukcjach Technicznych, a także pozostawać w wykazie nadawców.
 
@@ -476,6 +499,14 @@ b) o charakterze systemowym, która trwale obniża lub utrudnia spełnienie wyma
 
 **Art. 31.** W przypadku otrzymania zgłoszenia, o którym mowa w art. 29 ust. 1–3 albo 6, Prezes Urzędu podejmuje działania mające na celu zapobieżenie powtarzalności wypadków, incydentów lub zdarzeń, w szczególności przez:
 
+- **1)** sporządzenie raportu dotyczącego wypadku, incydentu albo zdarzenia;
+- **2)** przesłanie raportu, o którym mowa w pkt 1, do:
+    - **a)** państwa, w którym miał miejsce wypadek, incydent albo zdarzenie,
+    - **b)** państwa pochodzenia,
+    - **c)** państwa rejestracji statku powietrznego,
+    - **d)** państwa operatora lotniczego,
+    - **e)** innego państwa, które przekazało istotne informacje.
+
 **Art. 32.** Jeżeli wypadek wypełnia znamiona incydentu albo wypadku lotniczego w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 996/2010 z dnia 20 października 2010 r. w sprawie badania wypadków i incydentów w lotnictwie cywilnym oraz zapobiegania im oraz uchylającego dyrektywę 94/56/WE (Dz. Urz. UE L 295 z 12.11.2010, str. 35, z późn. zm. ), prowadzenie badania takiego wypadku jest włączane do badania incydentu albo wypadku lotniczego prowadzonego przez Państwową Komisję Badania Wypadków Lotniczych.
 
 #### Rozdział 8 Ochrona materiałów niebezpiecznych wysokiego ryzyka
@@ -669,9 +700,62 @@ b) o charakterze systemowym, która trwale obniża lub utrudnia spełnienie wyma
 
 **Art. 50.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 ust. 4 otrzymuje brzmienie: „4. Przepisów prawa lotniczego nie stosuje się do lotnictwa państwowego, z wyjątkiem przepisów art. 1 ust. 6, art. 2–9, art. 14, art. 17 ust. 17, ust. 22 pkt 2 i ust. 23, art. 33, art. 35 ust. 2, art. 43, art. 44, art. 59a ust. 6, art. 60, art. 66 ust. 1a–1d i 3, art. 66a, art. 66b, art. 68 ust. 2, 2e i 2f, art. 69 ust. 1–3, art. 74–76, art. 82 ust. 1 pkt 6–8, ust. 1a, 1b i 3–8, art. 87, art. 87 ust. 1–8 i 10, art. 87 , art. 87 ust. 1, 2, 4 i 5, art. 87 ust. 1–4, art. 87 –87a, art. 89, art. 92, art. 93a ust. 1 pkt 5, art. 104 ust. 4–9, art. 119–122, art. 123–126, art. 128, art. 130, art. 133, art. 134 ust. 1–1f, art. 135 ust. 3 pkt 3, art. 135a ust. 2 pkt 8, art. 136, art. 137 ust. 1–4, art. 140–140e, art. 149–150, art. 193 ust. 5 oraz art. 207 ust. 8, z zastrzeżeniem ust. 5.”;
+- **2)** w art. 21 w ust. 2: o transporcie materiałów niebezpiecznych drogą powietrzną (Dz. U. poz. 1715)”, o transporcie materiałów niebezpiecznych drogą powietrzną”;
+    - **a)** we wprowadzeniu do wyliczenia po wyrazach „w ustawie” dodaje się wyrazy „i w ustawie z dnia 5 sierpnia 2022 r.
+    - **b)** w pkt 2 i 27 wyrazy „w niniejszej ustawie” zastępuje się wyrazami „w ustawie i w ustawie z dnia 5 sierpnia 2022 r.
+
+- **3)** w art. 21a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Wnioski o dokonanie czynności, o których mowa w art. 145a ust. 1, art. 191 ust. 5 i art. 193 ust. 1 i 2, przedstawiane Prezesowi Urzędu dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być składane w języku angielskim.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Wnioski o dokonanie czynności, o których mowa w art. 193 ust. 1 i 2, dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być kopiami.”,
+    - **c)** w ust. 5 pkt 3 otrzymuje brzmienie: „3) określone w przepisach wydanych na podstawie art. 202”;
+
+- **4)** w art. 21b w ust. 1 i 3 oraz w art. 75 w ust. 6 wyrazy „w ustawie” zastępuje się wyrazami „w ustawie i w ustawie z dnia 5 sierpnia 2022 r. o transporcie materiałów niebezpiecznych drogą powietrzną”;
+- **5)** w art. 119a w ust. 1 pkt 1 otrzymuje brzmienie: „1) art. 144, art. 145a ust. 1, art. 149, art. 193 ust. 1, art. 209 ust. 1, 2, 3 i 4,”;
+- **6)** uchyla się art. 153a i art. 153b;
+- **7)** w załączniku nr 5 do ustawy uchyla się ust. 3–5;
+- **8)** w załączniku nr 6 do ustawy w tabeli nr 1 w części III w podczęści 3.13 uchyla się ust. 3.
+
 **Art. 51.** W ustawie z dnia 2 grudnia 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 2328 oraz z 2022 r. poz. 1002) po art. 17a dodaje się art. 17b w brzmieniu: „Art. 17b. 1. Do dnia wdrożenia rozwiązań technicznych, o których mowa w komunikacie ministra właściwego do spraw informatyzacji wydanym na podstawie art. 14 ust. 2 ustawy zmienianej w art. 14, informacja o wpisach w ewidencji, o której mowa w art. 17, jest udzielana przez Policję:
 
+- **1)** sądom;
+- **2)** prokuratorom;
+- **3)** marszałkom województwa – w stosunku do osób ubiegających się lub posiadających uprawnienia egzaminatora;
+- **4)** starostom – w stosunku do osób ubiegających się o uprawnienia instruktora nauki jazdy lub je posiadających;
+- **5)** strażom gminnym (miejskim) – w przypadkach uzasadnionych wykonywaniem czynności sprawdzających w sprawach o naruszenie przepisów o bezpieczeństwie i porządku w ruchu drogowym;
+- **6)** Żandarmerii Wojskowej;
+- **7)** Agencji Bezpieczeństwa Wewnętrznego;
+- **8)** Agencji Wywiadu;
+- **9)** Służbie Wywiadu Wojskowego;
+- **10)** Straży Granicznej;
+- **11)** Inspekcji Transportu Drogowego;
+- **12)** Centralnemu Biuru Antykorupcyjnemu;
+- **13)** innym podmiotom, którym nadano uprawnienia oskarżyciela publicznego w sprawach o naruszenia przepisów o bezpieczeństwie i porządku w ruchu drogowym.
+
+2. Podmiotom, o których mowa w ust. 1, informacji udziela się wyłącznie na podstawie wpisów ostatecznych.
+
+3. Informacji, o której mowa w ust. 1, udziela właściwy miejscowo organ Policji, z zastrzeżeniem ust. 4.
+
+4. Na zapytania kierowane przez Inspekcję Transportu Drogowego, informacji, o której mowa w ust. 1, udziela Policja z wykorzystaniem teletransmisji danych.
+
+5. Osoba zainteresowana ma prawo uzyskać od Policji ustną informację lub zaświadczenie o wpisach w ewidencji ostatecznych i tymczasowych, dotyczących punktów odpowiadających dokonanym przez siebie naruszeniom. Informacji udziela się lub zaświadczenie wydaje się w każdej jednostce organizacyjnej Policji posiadającej odpowiednie możliwości techniczne.”.
+
 **Art. 52.** W ustawie z dnia 23 marca 2022 r. o szczególnych regulacjach w zakresie transportu i gospodarki morskiej w związku z konfliktem zbrojnym na terytorium Ukrainy (Dz. U. poz. 684 i 830) po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. 1. Jeżeli ostatni dzień okresu pobytu na terytorium Rzeczypospolitej Polskiej kierowcy będącego obywatelem Republiki Białorusi, wykonującego transport drogowy lub niezarobkowy przewóz drogowy w rozumieniu odpowiednio art. 4 pkt 3 lub pkt 4 ustawy z dnia 6 września 2001 r. o transporcie drogowym na rzecz przewoźnika drogowego lub przedsiębiorcy, mających siedzibę na terytorium Rzeczypospolitej Polskiej, na podstawie wizy krajowej, przypada w okresie od dnia 1 września 2022 r., okres pobytu na podstawie tej wizy oraz okres ważności tej wizy ulegają przedłużeniu z mocy prawa do dnia 31 grudnia 2022 r. 2. Wiza krajowa w okresie przedłużenia okresu pobytu oraz okresu ważności na podstawie ust. 1 uprawnia do przekraczania granicy w ramach wykonywania międzynarodowego transportu drogowego lub niezarobkowego międzynarodowego przewozu drogowego, o którym mowa odpowiednio w art. 4 pkt 2 lub pkt 6 ustawy z dnia 6 września 2001 r. o transporcie drogowym. 3. W dokumencie podróży kierowcy naklejkę wizową potwierdzającą przedłużenie wizy krajowej umieszcza wojewoda właściwy ze względu na miejsce pobytu tego kierowcy. Okres pobytu na podstawie przedłużonej wizy krajowej wynikający ze wskazania w naklejce wizowej, która potwierdza przedłużenie wizy krajowej, nie może przekraczać okresu pobytu przewidzianego dla wizy krajowej. 4. Jeżeli ostatni dzień okresu ważności zezwolenia na pobyt czasowy udzielonego obywatelowi Republiki Białorusi, o którym mowa w ust. 1, przypada w okresie od dnia 1 września 2022 r., okres ważności tego zezwolenia ulega przedłużeniu z mocy prawa do dnia 31 grudnia 2022 r. 5. Jeżeli termin do opuszczenia przez wskazanego w ust. 1 obywatela Republiki Białorusi terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 299 ust. 6 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm. ), przypada w okresie od dnia 1 września 2022 r., ulega on przedłużeniu z mocy prawa do dnia 24 sierpnia 2023 r. W okresie, na który termin został przedłużony, nie stosuje się przepisów art. 99 ust. 1 pkt 9, art. 196 ust. 1 pkt 5 oraz art. 213 ust. 1 pkt 6 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach. 6. Jeżeli termin dobrowolnego powrotu, o którym mowa w art. 315 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, określony w decyzji wydanej wobec obywatela Republiki Białorusi, o którym mowa w ust. 1, przypada od dnia 1 września 2022 r., ulega on przedłużeniu z mocy prawa do dnia 24 sierpnia 2023 r. W okresie, na który termin został przedłużony, nie stosuje się przepisów art. 99 ust. 1 pkt 8, art. 196 ust. 1 pkt 4 oraz art. 213 ust. 1 pkt 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach. 7. Jeżeli ostatni dzień okresu ważności:
+
+- **1)** kart pobytu,
+- **2)** polskich dokumentów tożsamości cudzoziemca,
+- **3)** dokumentów „zgoda na pobyt tolerowany” – wydanych obywatelowi Republiki Białorusi, o którym mowa w ust. 1, przypada w okresie od dnia 1 września 2022 r., ulega on przedłużeniu z mocy prawa do dnia 24 sierpnia 2023 r.
+
+8. Przedłużenie okresu ważności dokumentów, o których mowa w ust. 7, nie stanowi podstawy do wydania lub wymiany tych dokumentów.
+
+9. Karta pobytu w okresie, na jaki uległ przedłużeniu okres jej ważności na podstawie ust. 7, nie uprawnia do przekraczania granicy.
+
+10. Jeżeli ostatni dzień dopuszczalnego okresu pobytu obywatela Republiki Białorusi, o którym mowa w ust. 1, na terytorium Rzeczypospolitej Polskiej:
+
+- **1)** na podstawie wizy Schengen wydanej przez organ polski,
+- **2)** na podstawie wizy wydanej przez inne państwo obszaru Schengen,
+- **3)** na podstawie dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. ), wydanego przez właściwy organ innego państwa obszaru Schengen, albo innego dokumentu pobytowego wydanego przez organ tego państwa, uprawniającego do podróży po terytorium innych państw tego obszaru,
+- **4)** w ramach ruchu bezwizowego – przypada w okresie od dnia 1 września 2022 r., a pobyt ten rozpoczął się przed tym dniem, jego pobyt na tym terytorium uznaje się za legalny do dnia 24 sierpnia 2023 r.”.
 
 #### Rozdział 13 Przepisy przejściowe, dostosowujące i przepis końcowy
 

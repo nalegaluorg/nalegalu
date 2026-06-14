@@ -8,12 +8,10 @@ pos: 746
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o międzynarodowym przemieszczaniu odpadów
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 maja 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -43,16 +41,16 @@ o międzynarodowym przemieszczaniu odpadów
 
 1. Ustawa określa postępowanie i organy właściwe do wykonania zadań z zakresu międzynarodowego przemieszczania odpadów wynikających z rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1) oraz kary pieniężne za naruszanie obowiązków w zakresie międzynarodowego przemieszczania odpadów.
 
-2. Przepisy ustawy nie naruszają postanowień ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) oraz ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
+2. Przepisy ustawy nie naruszają postanowień ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) oraz ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
 
 **Art. 2.**
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** rozporządzeniu nr 1013/2006 rozumie się przez to rozporządzenie WE nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1);
-- **2)** dyrektywie 2006/12/WE rozumie się przez to dyrektywę 2006/12/WE Parlamentu Europejskiego i Rady z dnia 5 kwietnia 2006 r. w sprawie odpadów (Dz. Urz. UE L 114 z 27.04.2006, str. 9);
-- **3)** terenie kraju rozumie się przez to terytorium Rzeczypospolitej Polskiej;
-- **4)** odbiorcy odpadów sprowadzonych nielegalnie rozumie się przez to każdą osobę fizyczną, prawną lub jednostkę organizacyjną, do której zostały przemieszczone nielegalnie odpady; domniemywa się, że władający powierzchnią ziemi, na której znajdują się nielegalnie przemieszczone odpady, jest odbiorcą odpadów sprowadzonych nielegalnie.
+- **1)** rozporządzeniu nr 1013/2006 – rozumie się przez to rozporządzenie WE nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1);
+- **2)** dyrektywie 2006/12/WE – rozumie się przez to dyrektywę 2006/12/WE Parlamentu Europejskiego i Rady z dnia 5 kwietnia 2006 r. w sprawie odpadów (Dz. Urz. UE L 114 z 27.04.2006, str. 9);
+- **3)** terenie kraju – rozumie się przez to terytorium Rzeczypospolitej Polskiej;
+- **4)** odbiorcy odpadów sprowadzonych nielegalnie – rozumie się przez to każdą osobę fizyczną, prawną lub jednostkę organizacyjną, do której zostały przemieszczone nielegalnie odpady; domniemywa się, że władający powierzchnią ziemi, na której znajdują się nielegalnie przemieszczone odpady, jest odbiorcą odpadów sprowadzonych nielegalnie.
 
 2. (uchylony)
 
@@ -80,12 +78,16 @@ o międzynarodowym przemieszczaniu odpadów
 
 **Art. 4.** Zezwolenia na:
 
+- **1)** przywóz odpadów na teren kraju,
+- **2)** wywóz odpadów poza teren kraju,
+- **3)** tranzyt odpadów przez teren kraju wydaje Główny Inspektor Ochrony Środowiska.
+
 **Art. 5.**
 
 1. Przed wydaniem zezwolenia na przywóz odpadów na teren kraju Główny Inspektor Ochrony Środowiska:
 
-- **1)** występuje z wnioskiem o przedstawienie informacji dotyczącej przestrzegania przez prowadzącego działalność w zakresie odzysku lub unieszkodliwiania odpadów przepisów o ochronie środowiska do wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia działalności związanej z gospodarowaniem odpadami, albo, jeżeli odbiorca odpadów nie będzie prowadził ich odzysku lub unieszkodliwiania, właściwego ze względu na jego miejsce siedziby albo zamieszkania;
-- **2)** może wystąpić z wnioskiem o informację dotyczącą zgodności działalności prowadzonej przez odbiorcę odpadów z przepisami prawa regulującymi prowadzenie takiej działalności, w tym, w szczególności z przepisami o ochronie środowiska do organu właściwego do wydania zezwolenia na prowadzenie działalności w zakresie odzysku lub unieszkodliwiania odpadów;
+- **1)** występuje z wnioskiem o przedstawienie informacji dotyczącej przestrzegania przez prowadzącego działalność w zakresie odzysku lub unieszkodliwiania odpadów przepisów o ochronie środowiska – do wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia działalności związanej z gospodarowaniem odpadami, albo, jeżeli odbiorca odpadów nie będzie prowadził ich odzysku lub unieszkodliwiania, właściwego ze względu na jego miejsce siedziby albo zamieszkania;
+- **2)** może wystąpić z wnioskiem o informację dotyczącą zgodności działalności prowadzonej przez odbiorcę odpadów z przepisami prawa regulującymi prowadzenie takiej działalności, w tym, w szczególności z przepisami o ochronie środowiska – do organu właściwego do wydania zezwolenia na prowadzenie działalności w zakresie odzysku lub unieszkodliwiania odpadów;
 - **3)** występuje z wnioskiem do komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej o przedstawienie informacji dotyczącej przestrzegania przepisów dotyczących ochrony przeciwpożarowej w instalacji odzysku odpadów, w tym w miejscach magazynowania odpadów przed poddaniem ich procesom odzysku; w przypadku odpadów niepalnych przepisu nie stosuje się.
 
 2. Organy, do których zwrócono się o przedstawienie informacji, są obowiązane przedstawić je niezwłocznie, jednak nie później niż w terminie 14 dni od dnia doręczenia wniosku o informację.
@@ -114,7 +116,7 @@ o międzynarodowym przemieszczaniu odpadów
 
 4. Główny Inspektor Ochrony Środowiska żąda, przed wydaniem zezwolenia na przywóz albo na wywóz odpadów, dostarczenia przez odbiorcę odpadów:
 
-- **1)** zezwolenie na przetwarzanie odpadów lub zezwolenie na zbieranie i przetwarzanie odpadów lub pozwolenia, o których mowa w art. 181 ust. 1 pkt 1 i 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska;
+- **1)** zezwolenie na przetwarzanie odpadów lub zezwolenie na zbieranie i przetwarzanie odpadów lub pozwolenia, o których mowa w art. 181 ust. 1 pkt 1 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
 - **2)** kopii pozwoleń na emisję dotyczących instalacji, w której odpady miałyby być poddane odzyskowi lub unieszkodliwieniu;
 - **3)** (uchylony)
 - **4)** zaświadczenia albo oświadczenia o wpisie do właściwego rejestru Krajowego Rejestru Sądowego lub zaświadczenia albo oświadczenia o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
@@ -205,7 +207,7 @@ o międzynarodowym przemieszczaniu odpadów
 
 5. W zezwoleniu wstępnym określa się:
 
-- **1)** numer rejestracji instalacji składający się z:
+- **1)** numer rejestracji instalacji – składający się z:
     - **a)** liter PL,
     - **b)** liczby składającej się z 4 cyfr arabskich stanowiącej kolejny numer instalacji, dla której wydano zezwolenie wstępne prowadzącemu instalację;
 
@@ -289,14 +291,14 @@ o międzynarodowym przemieszczaniu odpadów
 
 1. W przypadku stwierdzenia nielegalnego międzynarodowego przemieszczania odpadów albo na podstawie powiadomienia o nielegalnym przemieszczeniu otrzymanego w trybie art. 24 ust. 1 rozporządzenia nr 1013/2006, Główny Inspektor Ochrony Środowiska wszczyna z urzędu postępowanie administracyjne i zobowiązuje:
 
-- **1)** zgłaszającego lub, jeżeli nie dokonano zgłoszenia, podmiot zobowiązany do dokonania zgłoszenia jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi wysyłający odpady,
-- **2)** odbiorcę odpadów jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi odbiorca odpadów w drodze decyzji, do zastosowania procedur określonych w art. 24 rozporządzenia nr 1013/2006 i określa sposób zagospodarowania odpadów oraz wskazuje termin realizacji obowiązków nałożonych tą decyzją nie dłuższy niż 30 dni.
+- **1)** zgłaszającego lub, jeżeli nie dokonano zgłoszenia, podmiot zobowiązany do dokonania zgłoszenia – jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi wysyłający odpady,
+- **2)** odbiorcę odpadów – jeżeli za nielegalne międzynarodowe przemieszczanie odpadów odpowiedzialność ponosi odbiorca odpadów – w drodze decyzji, do zastosowania procedur określonych w art. 24 rozporządzenia nr 1013/2006 i określa sposób zagospodarowania odpadów oraz wskazuje termin realizacji obowiązków nałożonych tą decyzją nie dłuższy niż 30 dni.
 
 2. O wszczęciu postępowania i wydaniu decyzji, o której mowa w ust. 1, Główny Inspektor Ochrony Środowiska powiadamia, odpowiednio właściwe organy państwa przeznaczenia, tranzytu lub wywozu oraz ministra właściwego do spraw finansów publicznych, Komendanta Głównego Straży Granicznej, Komendanta Głównego Policji oraz odpowiednio Głównego Inspektora Transportu Drogowego, Prezesa Urzędu Transportu Kolejowego, a także wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce prowadzenia procesu odzysku lub unieszkodliwiania lub siedziby zgłaszającego lub odbiorcy odpadów sprowadzonych nielegalnie.
 
 **Art. 25a.**
 
-- **8)** W przypadku gdy przedmiotem przemieszczania są odpady w postaci uszkodzonego pojazdu, znajdujące się na terenie kraju, nie stosuje się przepisów art. 25, jeżeli taki pojazd został naprawiony, a naprawa została potwierdzona pozytywnym wynikiem dodatkowego badania technicznego, o którym mowa w art. 81 ust. 11 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ).
+- **8)** W przypadku gdy przedmiotem przemieszczania są odpady w postaci uszkodzonego pojazdu, znajdujące się na terenie kraju, nie stosuje się przepisów art. 25, jeżeli taki pojazd został naprawiony, a naprawa została potwierdzona pozytywnym wynikiem dodatkowego badania technicznego, o którym mowa w art. 81 ust. 11 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ).
 
 **Art. 26.** (uchylony)
 
@@ -332,11 +334,11 @@ o międzynarodowym przemieszczaniu odpadów
 
 **Art. 31.**
 
-1. Kto wbrew obowiązkowi nie wykonuje decyzji nakazującej odesłanie odpadów, przywiezionych na teren kraju, do kraju wysyłki lub określającej sposób zagospodarowania tych odpadów na terytorium kraju podlega karze aresztu albo grzywny.
+1. Kto wbrew obowiązkowi nie wykonuje decyzji nakazującej odesłanie odpadów, przywiezionych na teren kraju, do kraju wysyłki lub określającej sposób zagospodarowania tych odpadów na terytorium kraju – podlega karze aresztu albo grzywny.
 
-2. Osoba fizyczna lub jednostka organizacyjna uczestnicząca w międzynarodowym przemieszczaniu odpadów, która wbrew obowiązkowi nie przedkłada uprawnionym organom lub osobom dokumentów lub informacji wymaganych w międzynarodowym przemieszczaniu odpadów podlega karze grzywny.
+2. Osoba fizyczna lub jednostka organizacyjna uczestnicząca w międzynarodowym przemieszczaniu odpadów, która wbrew obowiązkowi nie przedkłada uprawnionym organom lub osobom dokumentów lub informacji wymaganych w międzynarodowym przemieszczaniu odpadów – podlega karze grzywny.
 
-3. Orzekanie w sprawach, o których mowa w ust. 1 i 2, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
+3. Orzekanie w sprawach, o których mowa w ust. 1 i 2, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 #### Rozdział 9 Kary pieniężne
 

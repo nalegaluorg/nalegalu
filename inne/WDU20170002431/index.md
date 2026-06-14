@@ -8,10 +8,10 @@ pos: 2431
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2431 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 18 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2431/text.pdf) |
 
-Poz. 2431 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 18 grudnia 2017 r.
 w sprawie sposobu i trybu opracowania rocznego harmonogramu działalności szkoleniowej Krajowej Szkoły Sądownictwa i Prokuratury Na podstawie art. 15c ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U.
-z 2017 r. poz. 146 i 1139) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb opracowania rocznego harmonogramu działalności szkoleniowej Krajowej Szkoły Sądownictwa i Prokuratury, zwanego dalej „harmonogramem”.
+z 2017 r. poz. 146 i 1139) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb opracowania rocznego harmonogramu działalności szkoleniowej Krajowej Szkoły Sądownictwa i Prokuratury, zwanego dalej „harmonogramem”.
 § 2. W terminie do dnia 31 stycznia każdego roku Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury, zwany dalej „Dyrektorem Krajowej Szkoły”, przyjmuje przesłane przez Ministra Sprawiedliwości – Prokuratora Generalnego, Prokuratora Krajowego, Krajową Radę Sądownictwa, Krajową Radę Prokuratorów przy Prokuratorze Generalnym, prezesów sądów apelacyjnych i prokuratorów regionalnych, zgłoszenia potrzeb szkoleniowych sędziów, asesorów sądowych, prokuratorów, asesorów prokuratury, referendarzy sądowych, asystentów sędziów, asystentów prokuratorów, kuratorów zawodowych oraz urzędników sądów i prokuratury, na następny rok.
 § 3. W terminie do dnia 30 kwietnia roku poprzedzającego rok realizacji harmonogramu Dyrektor Krajowej Szkoły opracowuje projekt założeń rocznego harmonogramu działalności szkoleniowej Krajowej Szkoły Sądownictwa i Prokuratury, zwanych dalej „założeniami”, określający cele szkolenia i sposób ich realizacji, oraz przedstawia go Radzie Programowej Krajowej Szkoły Sądownictwa i Prokuratury, zwanej dalej „Radą Programową”.
 § 4. W terminie do dnia 31 maja roku poprzedzającego rok realizacji harmonogramu Rada Programowa uchwala założenia i przekazuje je Dyrektorowi Krajowej Szkoły.

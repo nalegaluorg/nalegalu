@@ -8,10 +8,10 @@ pos: 829
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 829 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 28 maja 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/829/text.pdf) |
 
-Poz. 829 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 28 maja 2024 r.
-zmieniające rozporządzenie w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną Na podstawie art. 15l ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2024 r. poz. 485) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia z dnia 7 sierpnia 2019 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną (Dz. U. z 2021 r. poz. 2178) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną Na podstawie art. 15l ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2024 r. poz. 485) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 7 sierpnia 2019 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną (Dz. U. z 2021 r. poz. 2178) wprowadza się następujące zmiany:
 1) w załączniku nr 3 do rozporządzenia w „Pouczeniu” w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) odwołanie wraz z jego uzasadnieniem wnosi się w terminie 30 dni od dnia doręczenia orzeczenia, za pośrednictwem lekarza, który wydał orzeczenie, do innego wybranego lekarza upoważnionego;
 4) lekarz, za pośrednictwem którego jest wnoszone odwołanie, przekazuje je wraz z dokumentacją badań do wybranego przez odwołującego się innego lekarza upoważnionego w terminie 3 dni od dnia otrzymania odwołania;”;
 2) w załączniku nr 4 do rozporządzenia w „Pouczeniu” w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) odwołanie wraz z jego uzasadnieniem wnosi się w terminie 30 dni od dnia doręczenia orzeczenia, za pośrednictwem psychologa, który wydał orzeczenie, do innego wybranego psychologa upoważnionego;

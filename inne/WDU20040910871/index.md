@@ -8,7 +8,7 @@ pos: 871
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o niektórych zabezpieczeniach finansowych
@@ -59,6 +59,22 @@ source: "isap-pdf"
 - **3)** umów, których stroną jest Bankowy Fundusz Gwarancyjny, a portfel kredytowy banku stanowią w znacznej części umowy, w których dłużnikiem jest konsument z tytułu zawartej umowy o kredyt konsumencki w rozumieniu przepisów ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, chyba że nie jest możliwe inne skuteczne zapewnienie przywrócenia płynności płatniczej, o której mowa w art. 138 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** środki pieniężne – środki pieniężne na rachunku oraz roszczenia o wypłatę środków pieniężnych, w tym z lokat na rynku pieniężnym;
+- **2)** instrumenty finansowe – papiery wartościowe, instrumenty rynku pieniężnego, tytuły uczestnictwa w instytucjach zbiorowego inwestowania oraz inne instrumenty finansowe niebędące papierami wartościowymi, w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, a także bankowe papiery wartościowe i udziały w spółkach;
+- **2a)** wierzytelność kredytowa – wierzytelność pieniężną wynikającą z umowy, w której instytucja upoważniona do udzielania kredytów na podstawie ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, przepisów prawa państw członkowskich Unii Europejskiej lub przepisów prawa państw Europejskiego Obszaru Gospodarczego, udziela kredytu lub pożyczki;
+- **2b)** wykaz wierzytelności – dokument sporządzony w formie pisemnej przez ustanawiającego zabezpieczenie:
+    - **a)** zawierający informacje niezbędne do identyfikacji wierzytelności kredytowej, w szczególności określający strony, formę oraz datę i miejsce zawarcia umowy kredytu lub pożyczki, z której wierzytelność kredytowa wynika, oraz wartość wierzytelności kredytowej w chwili ustanowienia zabezpieczenia finansowego,
+    - **b)** wskazujący wierzytelności finansowe podlegające zabezpieczeniu;
+
+- **3)** klauzula kompensacyjna – klauzulę przewidującą w razie wystąpienia podstawy realizacji zabezpieczenia natychmiastowe potrącenie lub kompensatę wierzytelności, oraz sposób ich dokonania i rozliczenia stron, zawartą w umowie o ustanowienie zabezpieczenia finansowego, umowie ramowej związanej z tą umową lub w umowie szczegółowej zawartej w wykonaniu umowy ramowej;
+- **4)** podstawa realizacji zabezpieczenia – naruszenie warunków umowy lub inne zdarzenie, które uprawniają do zaspokojenia się z zabezpieczenia finansowego;
+- **5)** prawo użycia – prawo zastawnika do wykonywania praw do przedmiotu zabezpieczenia, w tym pobierania z niego pożytków oraz rozporządzania tym przedmiotem, w zakresie określonym w umowie;
+- **6)** odpowiedni przedmiot zastępczy – w odniesieniu do:
+    - **a)** środków pieniężnych – środki pieniężne w tej samej kwocie i w tej samej walucie,
+    - **b)** instrumentów finansowych – instrumenty finansowe wyemitowane przez tego samego emitenta, o tej samej wartości nominalnej oraz walucie, nieróżniące się między sobą w zakresie zasad przenoszenia praw z tych instrumentów, uprawnień i obowiązków z nich wynikających, terminów ustalenia praw do świadczeń z nich wynikających, wysokości i rodzaju tych świadczeń, a także terminów i trybu ich realizacji, a w szczególności instrumenty finansowe oznaczone tym samym kodem przez Krajowy Depozyt Papierów Wartościowych S.A., lub inne instrumenty finansowe, których przeniesienie ma nastąpić po wystąpieniu wskazanego w umowie zdarzenia mającego wpływ na wartość instrumentów finansowych będących przedmiotem zabezpieczenia;
+
+- **7)** zabezpieczenie na niematerialnych instrumentach finansowych – zabezpieczenie finansowe na instrumentach finansowych niemających formy dokumentu, odnotowane na rachunku papierów wartościowych, na rachunku zbiorczym, na innym rachunku, na którym zapisywane są instrumenty finansowe niebędące papierami wartościowymi, na koncie depozytowym, lub w innej ewidencji papierów wartościowych prowadzonej przez właściwe podmioty.
 
 **Art. 4.**
 

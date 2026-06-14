@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 15 listopada 1984 r. Prawo przewozowe.*
 
-Łącznie: **412** orzeczeń
-(pominięto 825 orzeczeń sądów rejonowych)
+Łącznie: **415** orzeczeń
+(pominięto 828 orzeczeń sądów rejonowych)
 
 ## art. 1 (29)
 
@@ -408,7 +408,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 listopada 1984 r. Prawo przewozowe.*
 - 2014-06-18 | SO | [VI ACa 1511/13](https://www.saos.org.pl/judgments/65601) | Wyrok
 - 2016-08-26 | SO | [III Ca 871/16](https://www.saos.org.pl/judgments/249303) | Uzasadnienie
 
-## art. 65 (38)
+## art. 65 (39)
 
 - 2026-01-30 | SO | [I ACa 1711/23](https://www.saos.org.pl/judgments/543137) | Wyrok
 - 2023-11-30 | SO | [I AGa 63/23](https://www.saos.org.pl/judgments/495120) | Wyrok
@@ -431,6 +431,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 listopada 1984 r. Prawo przewozowe.*
 - 2013-01-15 | SO | [VI ACa 1077/12](https://www.saos.org.pl/judgments/11490) | Wyrok
 - 2012-09-27 | SO | [I ACa 854/12](https://www.saos.org.pl/judgments/79) | Wyrok
 - 2012-09-11 | SO | [V ACa 368/12](https://www.saos.org.pl/judgments/497) | Wyrok
+- 2023-12-21 | SO | [I C 196/23](https://www.saos.org.pl/judgments/545155) | Wyrok
 - 2022-11-07 | SO | [V GC 496/21](https://www.saos.org.pl/judgments/518125) | Wyrok
 - 2020-12-01 | SO | [VIII C 464/20](https://www.saos.org.pl/judgments/450425) | Wyrok
 - 2018-04-27 | SO | [V Ga 59/18](https://www.saos.org.pl/judgments/347948) | Wyrok
@@ -577,8 +578,9 @@ Orzeczenia powołujące: *Ustawa z dnia 15 listopada 1984 r. Prawo przewozowe.*
 - 2017-01-19 | SO | [V GC 552/15](https://www.saos.org.pl/judgments/279124) | Wyrok
 - 2021-12-24 | SO | [III Ca 1574/20](https://www.saos.org.pl/judgments/460788) | Uzasadnienie
 
-## art. 77 (100)
+## art. 77 (101)
 
+- 2025-12-05 | SO | [I AGa 146/23](https://www.saos.org.pl/judgments/546505) | Wyrok
 - 2023-11-30 | SO | [I AGa 63/23](https://www.saos.org.pl/judgments/495120) | Wyrok
 - 2022-03-24 | SO | [I AGa 56/21](https://www.saos.org.pl/judgments/477078) | Wyrok
 - 2019-10-09 | SO | [I ACa 746/18](https://www.saos.org.pl/judgments/454687) | Wyrok
@@ -733,8 +735,9 @@ Orzeczenia powołujące: *Ustawa z dnia 15 listopada 1984 r. Prawo przewozowe.*
 - 2014-09-11 | SO | [I ACa 488/14](https://www.saos.org.pl/judgments/72069) | Wyrok
 - 2018-04-27 | SO | [V Ga 59/18](https://www.saos.org.pl/judgments/347948) | Wyrok
 
-## art. 83 (4)
+## art. 83 (5)
 
+- 2024-03-14 | SO | [I AGa 331/23](https://www.saos.org.pl/judgments/545408) | Wyrok
 - 2016-10-27 | SO | [I ACa 435/16](https://www.saos.org.pl/judgments/267566) | Wyrok
 - 2013-04-26 | SO | [VI ACa 1539/12](https://www.saos.org.pl/judgments/20659) | Wyrok
 - 2018-04-27 | SO | [V Ga 59/18](https://www.saos.org.pl/judgments/347948) | Wyrok

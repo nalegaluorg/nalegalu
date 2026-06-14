@@ -8,10 +8,10 @@ pos: 892
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 maja 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 892 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 7 maja 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000892) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/892/text.pdf) |
 
-Poz. 892 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 7 maja 2021 r.
 w sprawie sposobu ustalania minimalnej mocy przyłączeniowej dla wewnętrznych i zewnętrznych stanowisk postojowych związanych z budynkami użyteczności publicznej oraz budynkami mieszkalnymi wielorodzinnymi Na podstawie art. 12 ust. 2 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2021 r.
-poz. 110) zarządza się, co następuje: § 1. Minimalna moc przyłączeniowa dla wewnętrznych i zewnętrznych stanowisk postojowych związanych z budynkiem użyteczności publicznej usytuowanym w gminie, o której mowa w art. 60 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, stanowi iloczyn 20% liczby wszystkich stanowisk postojowych związanych z tym budynkiem i wartości mocy 3,7 kW, jednak nie mniej niż 3,7 kW, chyba że z tym budynkiem nie są związane żadne stanowiska postojowe.
+poz. 110) zarządza się, co następuje:
+§ 1. Minimalna moc przyłączeniowa dla wewnętrznych i zewnętrznych stanowisk postojowych związanych z budynkiem użyteczności publicznej usytuowanym w gminie, o której mowa w art. 60 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, stanowi iloczyn 20% liczby wszystkich stanowisk postojowych związanych z tym budynkiem i wartości mocy 3,7 kW, jednak nie mniej niż 3,7 kW, chyba że z tym budynkiem nie są związane żadne stanowiska postojowe.
 § 2. Minimalna moc przyłączeniowa dla wewnętrznych i zewnętrznych stanowisk postojowych związanych z budynkiem mieszkalnym wielorodzinnym usytuowanym w gminie, o której mowa w art. 60 ust. 1 ustawy z dnia 11 stycznia 2018 r.
 o elektromobilności i paliwach alternatywnych, stanowi iloczyn 50% liczby wszystkich stanowisk postojowych związanych z tym budynkiem i wartości mocy 3,7 kW, jednak nie mniej niż 3,7 kW, chyba że z tym budynkiem nie są związane żadne stanowiska postojowe.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

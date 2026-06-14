@@ -8,7 +8,7 @@ pos: 431
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 39/4/A/2012 WYROK z dnia 12 kwietnia 2012 r.

@@ -8,10 +8,10 @@ pos: 1531
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 grudnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1531 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 13 listopada 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001531) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1531/text.pdf) |
 
-Poz. 1531 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 13 listopada 2013 r.
-zmieniające rozporządzenie w sprawie przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego równoważnika pieniężnego oraz kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie Na podstawie art. 45 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 18 stycznia 2007 r. w sprawie przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego równoważnika pieniężnego oraz kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie (Dz. U. Nr 40, poz. 255) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego równoważnika pieniężnego oraz kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie Na podstawie art. 45 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. Nr 104, poz. 710, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 18 stycznia 2007 r. w sprawie przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego równoważnika pieniężnego oraz kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie (Dz. U. Nr 40, poz. 255) wprowadza się następujące zmiany:
 1) § 3 otrzymuje brzmienie: „§ 3. Równoważnik pieniężny albo kwotę na zakup ubrania typu cywilnego w zamian za umundurowanie wypłaca się funkcjonariuszowi w całości, za okres od dnia 1 stycznia do dnia 31 grudnia, zwany dalej „rokiem zaopatrzeniowym”, w terminie do końca drugiego kwartału roku kalendarzowego.”;
 2) w § 6 ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi mianowanemu w roku zaopatrzeniowym:
 1) na kolejny stopień służbowy w korpusie oficerów,

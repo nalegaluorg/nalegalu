@@ -8,7 +8,7 @@ pos: 1464
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zużytym sprzęcie elektrycznym i elektronicznym oraz o zmianie niektórych innych ustaw
@@ -28,6 +28,42 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1464/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. Nr 180, poz. 1495) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przepisy ustawy stosuje się do:
+
+- **1)** sprzętu wprowadzonego do obrotu na terytorium kraju;
+- **2)** zużytego sprzętu.”, U. Nr 22, poz. 271, z późn. zm. ), z terytorium kraju do państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub do państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym.”;
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Przepisy art. 7-14, art. 23, art. 24, art. 26, art. 27 i art. 29 dotyczące wprowadzającego sprzęt stosuje się odpowiednio do przedsiębiorcy prowadzącego sprzedaż sprzętu przy wykorzystaniu środków porozumiewania się na odległość, o których mowa w art. 6 ustawy z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny (Dz.
+
+- **2)** w art. 3 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) import – przywóz sprzętu z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stroną umowy o Europejskim Obszarze Gospodarczym w celu wprowadzenia do obrotu;”,
+    - **b)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) przedsiębiorca – przedsiębiorcę w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm. );”,
+    - **c)** po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „5a) punkt serwisowy – miejsce, w którym jest wykonywana działalność gospodarcza polegająca na naprawie sprzętu;
+
+- **5b)** punkt skupu złomu – miejsce zbierania odpadów metali, którego prowadzący posiada zezwolenie na prowadzenie działalności w zakresie zbierania odpadów w postaci zużytego sprzętu;”,
+    - **d)** pkt 10 otrzymuje brzmienie: „10) sprzęt – urządzenie, którego prawidłowe działanie jest uzależnione od dopływu prądu elektrycznego lub od obecności pól elektromagnetycznych oraz mogące służyć do wytwarzania, przesyłu lub pomiaru prądu elektrycznego lub pól elektromagnetycznych i zaprojektowane do użytku przy napięciu elektrycznym nieprzekraczającym 1 000 V dla prądu przemiennego oraz 1 500 V dla prądu stałego, zaliczone do grup sprzętu określonych w załączniku nr 1 do ustawy;”,
+    - **e)** po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) umowa finansowania – umowę określającą warunki finansowania produkcji, importu, wewnątrzwspólnotowego nabycia lub wewnątrzwspólnotowej dostawy sprzętu, bez względu na tytuł prawny do tego sprzętu, w tym umowę najmu, dzierżawy, leasingu i pożyczki;”,
+    - **f)** po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) wewnątrzwspólnotowa dostawa – wywóz sprzętu z terytorium kraju na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym;”,
+    - **g)** pkt 12-14 otrzymują brzmienie: „12) wewnątrzwspólnotowe nabycie – przywóz sprzętu z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym w celu wprowadzenia do obrotu na terytorium kraju;
+
+- **13)** wprowadzający sprzęt – przedsiębiorcę, który:
+    - **a)** produkuje i wprowadza sprzęt do obrotu pod własnym oznaczeniem,
+    - **b)** wprowadza sprzęt do obrotu pod własnym oznaczeniem wyprodukowany przez innego przedsiębiorcę,
+    - **c)** importuje sprzęt - z wyjątkiem przedsiębiorcy, który zapewnia wyłącznie finansowanie zgodne z warunkami określonymi w umowie finansowania;”;
+
+- **14)** wprowadzenie sprzętu do obrotu – odpłatne albo nieodpłatne udostępnienie sprzętu po raz pierwszy na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym w celu używania lub dystrybucji;”,
+    - **h)** pkt 16 otrzymuje brzmienie: „16) zbierający zużyty sprzęt:
+    - **a)** prowadzącego punkt zbierania zużytego sprzętu, w tym punkt selektywnego zbierania odpadów komunalnych, punkt skupu złomu lub zakład przetwarzania,
+    - **b)** gminną jednostkę organizacyjną prowadzącą działalność w zakresie odbierania odpadów komunalnych i przedsiębiorcę posiadającego zezwolenie na prowadzenie działalności w zakresie odbierania odpadów komunalnych,
+    - **c)** prowadzącego punkt serwisowy,
+    - **d)** sprzedawcę detalicznego i sprzedawcę hurtowego;”;
+
+- **3)** po art. 3 dodaje się art. 3a i 3b w brzmieniu: „Art. 3a. 1. W przypadku, gdy wprowadzający sprzęt nie jest wpisany do rejestru, o którym mowa w art. 6, albo będąc wpisanym do rejestru nie realizuje zgodnie z ustawą obowiązków obciążających wprowadzającego sprzęt, obowiązki, o których mowa w art. 7, art. 13, art. 18, art. 19, art. 21, art. 24, art. 25, art. 27-34, art. 64 oraz art. 67, przejmuje przedsiębiorca dokonujący wewnątrzwspólnotowego nabycia jego sprzętu.
+
+2. W przypadku, o którym mowa w ust. 1, przedsiębiorca dokonujący wewnątrzwspólnotowego nabycia podlega wpisowi do rejestru, o którym mowa w art. 6, i we wniosku o wpis do rejestru podaje dane określone dla wprowadzającego sprzęt.
+
+3. W zakresie, w jakim przedsiębiorca dokonujący wewnątrzwspólnotowego nabycia poniósł koszty gospodarowania zużytym sprzętem, przysługuje mu roszczenie w stosunku do wprowadzającego sprzęt, który wprowadził ten sprzęt do obrotu.
 
 **Art. 3b.**
 
@@ -156,6 +192,74 @@ source: "isap-pdf"
 
 **Art. 37b.** Zbierający zużyty sprzęt jest obowiązany zapewnić, aby transport zużytego sprzętu do zakładu przetwarzania był prowadzony w sposób umożliwiający ponowne użycie sprzętu lub jego części składowych oraz odzysk, w tym recykling, materiałów oraz substancji pochodzących ze zużytego sprzętu.”;
 
+- **29)** w art. 39 w ust. 1:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Zbierający zużyty sprzęt, z wyjątkiem punktu serwisowego oraz sprzedawcy detalicznego i sprzedawcy hurtowego, jest obowiązany przekazać wójtowi, burmistrzowi albo prezydentowi miasta, na terytorium którego działa, w terminie 30 dni od dnia podjęcia działalności, informację zawierającą:”,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) adresy punktów zbierania zużytego sprzętu, z wyłączeniem punktów sprzedaży sprzętu oraz punktów serwisowych.”;
+
+- **30)** w art. 40 ust. 1 otrzymuje brzmienie: „1. Zbierający zużyty sprzęt jest obowiązany do sporządzenia i przedłożenia Głównemu Inspektorowi Ochrony Środowiska, w terminie do dnia 31 lipca za okres od 1 stycznia do 30 czerwca i do dnia 15 marca za okres od 1 lipca do 31 grudnia każdego roku, sprawozdania o masie zebranego i przekazanego do prowadzącego zakład przetwarzania zużytego sprzętu.”;
+- **31)** w art. 41 pkt 1 otrzymuje brzmienie: „1) sprzedaży wyłącznie sprzętu wprowadzanego do obrotu przez wprowadzającego sprzęt zarejestrowanego w rejestrze, o którym mowa w art. 6;”;
+- **32)** po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. 1. Prowadzący punkt serwisowy jest obowiązany, w przypadku gdy naprawa przyjętego do punktu serwisowego sprzętu jest niemożliwa ze względów technicznych lub właściciel sprzętu uzna, że naprawa sprzętu jest dla niego nieopłacalna, do nieodpłatnego przyjęcia zużytego sprzętu.
+
+2. Prowadzący punkt serwisowy jest obowiązany do umieszczenia w punkcie serwisowym informacji o punktach zbierania zużytego sprzętu.”;
+
+- **33)** art. 44 otrzymuje brzmienie: „Art. 44. 1. Prowadzący zakład przetwarzania, który zawarł umowę, o której mowa w art. 33 ust. 1, jest obowiązany do przyjęcia zużytego sprzętu pochodzącego z gospodarstw domowych od zbierającego zużyty sprzęt bez pobierania opłaty.
+
+2. Prowadzą cy zakład przetwarzania po przyjęciu zużytego sprzętu jest obowiązany do niezwłocznego usunięcia składników niebezpiecznych, materiałów i części składowych, określonych w załączniku nr 2 do ustawy.”;
+
+- **34)** w art. 45 pkt 1 otrzymuje brzmienie: „1) nieprzepuszczalne podłoża wraz z urządzeniami do usuwania wycieków, separatorem cieczy, o ile w czasie magazynowania może nastąpić wyciek;”;
+- **35)** w art. 46 pkt 4 otrzymuje brzmienie: „4) nieprzepuszczalne podłoża wraz z urządzeniami do usuwania wycieków, separatorem cieczy, o ile w czasie magazynowania może nastąpić wyciek;”;
+- **36)** art. 47 otrzymuje brzmienie: „Art. 47. 1. Prowadzący zakład przetwarzania jest obowiązany przekazać odpady powstałe w wyniku przetworzenia zużytego sprzętu prowadzącemu działalność w zakresie recyklingu lub prowadzącemu działalność w zakresie innych niż recykling procesów odzysku, wpisanym do rejestru, o którym mowa w art. 6.
+
+2. Prowadzący zakład przetwarzania może dokonać eksportu odpadów w celu poddania ich odzyskowi lub recyklingowi do instalacji spełniających wymagania nie niższe niż określone dla instalacji eksploatowanych na terytorium kraju.
+
+3. Odpady powstałe w wyniku przetworzenia zużytego sprzętu nieprzekazane do recyklingu lub innego niż recykling procesu odzysku prowadzący zakład przetwarzania jest obowiązany przekazać prowadzącemu działalność w zakresie unieszkodliwiania odpadów.”;
+
+- **37)** w art. 50:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prowadzący zakład przetwarzania jest obowiązany, w terminie do dnia 20 lipca za okres od 1 stycznia do 30 czerwca i do dnia 10 marca za okres od 1 lipca do 31 grudnia każdego roku, wydać wprowadzającemu sprzęt, z którym zawarł umowę dotyczącą przetwarzania odpadów, zaświadczenie o zużytym sprzęcie zawierające następujące informacje:”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Prowadzący zakład przetwarzania w zaświadczeniu o zużytym sprzęcie, o którym mowa w ust. 1, sporządzanym za okres od 1 lipca do 31 grudnia danego roku, może uwzględnić:
+
+- **1)** masę zużytego sprzętu oraz masę części składowych pochodzących ze zużytego sprzętu przekazanych do ponownego użycia do dnia 15 lutego następnego roku, w przypadku gdy pochodzą ze zużytego sprzętu przyjętego do zakładu przetwarzania w okresie od 1 lipca do 31 grudnia danego roku;
+- **2)** mas ę zużytego sprzętu przetworzonego oraz masę odpadów pochodzących ze zużytego sprzętu poddanych recyklingowi i innym niż recykling procesom odzysku do końca lutego następnego roku, w przypadku gdy pochodzą ze zużytego sprzętu przyjętego do zakładu przetwarzania w okresie od 1 lipca do 31 grudnia danego roku;
+- **3)** masę odpadów powstałych ze zużytego sprzętu wyeksportowanych oraz będących przedmiotem wewnątrzwspólnotowej dostawy w celu poddania odpadów procesom odzysku, w tym recyklingowi, do końca lutego następnego roku, w przypadku gdy pochodzą ze zużytego sprzętu przyjętego do zakładu przetwarzania w okresie od 1 lipca do 31 grudnia danego roku.”,
+    - **c)** ust. 6 otrzymuje brzmienie: „6. W przypadku eksportu odpadów w celu poddania ich odzyskowi lub recyklingowi przedsiębiorca prowadzący zakład przetwarzania jest obowiązany przekazać wprowadzającemu sprzęt pisemne oświadczenie, że odzysk lub recykling odbywa się w instalacjach spełniających wymagania nie niższe niż określone dla instalacji eksploatowanych na terytorium kraju.”;
+
+- **38)** w art. 51 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prowadzący zakład przetwarzania jest obowiązany do sporządzenia i przedłożenia Głównemu Inspektorowi Ochrony Środowiska, w terminie do dnia 31 lipca za okres od 1 stycznia do 30 czerwca i do dnia 15 marca za okres od 1 lipca do 31 grudnia każdego roku, sprawozdania zawierającego informacje o:”;
+- **39)** w art. 53 ust. 1 otrzymuje brzmienie: „1. Prowadzący działalność w zakresie recyklingu jest obowiązany wydać zaświadczenie potwierdzające recykling na wniosek prowadzącego zakład przetwarzania przekazującego odpady do recyklingu, w terminie do dnia 10 lipca za okres od 1 stycznia do 30 czerwca i do końca lutego za okres od 1 lipca do 31 grudnia każdego roku.”;
+- **40)** w art. 54 ust. 1 otrzymuje brzmienie: „1. Prowadzący działalność w zakresie innych niż recykling procesów odzysku jest obowiązany wydać zaświadczenie potwierdzające inne niż recykling procesy odzysku na wniosek prowadzącego zakład przetwarzania przekazującego odpady do innych niż recykling procesów odzysku, w terminie do dnia 10 lipca za okres od 1 stycznia do 30 czerwca i do końca lutego za okres od 1 lipca do 31 grudnia każdego roku.”;
+- **41)** w art. 56 ust. 1 otrzymuje brzmienie: „1. Prowadzący działalność w zakresie recyklingu oraz prowadzący działalność w zakresie innych niż recykling procesów odzysku są obowiązani do sporządzenia i przedłożenia Głównemu Inspektorowi Ochrony Środowiska, w terminie do dnia 30 lipca za okres od 1 stycznia do 30 czerwca i do dnia 15 marca za okres od 1 lipca do 31 grudnia każdego roku, sprawozdania o masie przyjętych oraz poddanych odpowiednio recyklingowi lub innym niż recykling procesom odzysku odpadów pochodzących ze zużytego sprzętu.”;
+- **42)** w art. 57:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Organizacja odzysku sprzętu elektrycznego i elektronicznego nie może przejąć obowiązków, o których mowa w art. 7 ust. 1 i 2, art. 8 ust. 4, 7 i 8, art. 9 ust. 2 i 3, art. 13 ust. 1, art. 21-23, art. 25, art. 26 i art. 32 ust.
+
+1. ”,
+
+- **b)** dodaje się ust. 4-8 w brzmieniu: „4. Organizacja odzysku sprzętu elektrycznego i elektronicznego, przejmując obowiązki od wprowadzającego sprzęt, o których mowa w ust. 1, jest obowiązana przejąć obowiązki, o których mowa w art. 33 ust. 1.
+
+5. Przepisów ust. 3 nie stosuje się w przypadku przejmowania obowiązków od przedsiębiorcy zagranicznego.
+
+6. Organizacja odzysku sprzętu elektrycznego i elektronicznego wchodzi w prawa i obowiązki wprowadzającego sprzęt danej grupy, określonej zgodnie z załącznikiem nr 1 do ustawy, wskazanej w zawartej z nim umowie.
+
+7. Sprawozdania przedkładane Głównemu Inspektorowi Ochrony Środowiska przez organizację odzysku sprzętu elektrycznego i elektronicznego, wynikające z przejętych od wprowadzających sprzęt obowiązków, mogą zawierać zbiorcze dane dotyczące wszystkich wprowadzających sprzęt, od których obowiązki te zostały przejęte, z zastrzeżeniem ust. 8.
+
+8. Organizacja odzysku sprzętu elektrycznego i elektronicznego przedkłada sprawozdanie, o którym mowa w art. 24 ust. 1, Głównemu Inspektorowi Ochrony Środowiska oddzielnie dla każdego wprowadzającego sprzęt, od którego przejęła obowiązki.”;
+
+- **43)** w art. 58:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przedmiotem działania organizacji odzysku sprzętu elektrycznego i elektronicznego jest wyłącznie działalność związana z organizowaniem, zarządzaniem lub prowadzeniem przedsi ęwzięć związanych ze zbieraniem, przetwarzaniem, recyklingiem i innymi niż recykling procesami odzysku oraz unieszkodliwianiem zużytego sprzętu, w tym publiczne kampanie edukacyjne.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Organizacja odzysku sprzętu elektrycznego i elektronicznego przeznacza na publiczne kampanie edukacyjne co najmniej 5% swoich przychodów. Wydatki poniesione na ten cel przez organizację odzysku sprzętu elektrycznego i elektronicznego muszą być udokumentowane.”;
+
+- **44)** po art. 58 dodaje się art. 58a w brzmieniu: „Art. 58a. 1. Publiczne kampanie edukacyjne oznaczają wszelkie działania mające na celu podnoszenie stanu świadomości ekologicznej społeczeństwa w zakresie prawidłowego postępowania z odpadami w postaci zużytego sprzętu oraz wspomagające osiągnięcie wysokiego poziomu zbierania zużytego sprzętu pochodzącego z gospodarstw domowych, w tym informowanie przy wykorzystaniu środków masowego przekazu, ulotek, broszur informacyjnych i plakatów oraz organizowanie konkursów, konferencji i akcji o charakterze informacyjno-edukacyjnym.
+
+2. Publiczne kampanie edukacyjne, o których mowa w ust. 1, powinny uwzględniać informowanie użytkowników w szczególności o:
+
+- **1)** możliwym wpływie substancji stosowanych w sprzęcie na środowisko i zdrowie ludzi;
+- **2)** metodach prowadzenia selektywnego zbierania;
+- **3)** dostępnych dla nich systemach zbierania;
+- **4)** ich roli w przyczynianiu się do ponownego użycia i odzysku, w tym recyklingu, zużytego sprzętu.”;
+- **45)** w art. 59:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana do utrzymywania na odrębnym rachunku bankowym kapitału własnego w wysokości co najmniej połowy minimalnego kapitału zakładowego, o którym mowa w ust. 1.”,
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana, w terminie do dnia 31 marca każdego roku, przedstawiać Głównemu Inspektorowi Ochrony Środowiska zaświadczenie wydane przez bank prowadzący rachunek tej organizacji stwierdzające, że w ciągu całego poprzedniego roku kalendarzowego utrzymywała na odrębnym rachunku bankowym kapitał własny w wysokości co najmniej połowy minimalnego kapitału zakładowego, o którym mowa w ust. 1.”;
+
+- **46)** art. 62 i 63 otrzymują brzmienie: „Art. 62. Jeżeli wprowadzający sprzęt zakończył działalność gospodarczą lub umowa z organizacją odzysku sprzętu elektrycznego i elektronicznego, o której mowa w art. 57 ust. 1, została wypowiedziana lub rozwiązana, organizacja odzysku sprzętu elektrycznego i elektronicznego, która przejęła od niego obowiązki na podstawie umowy, jest obowiązana pokryć koszty zbierania, przetwarzania, recyklingu i innych niż recykling procesów odzysku oraz unieszkodliwiania zużytego sprzętu.
+
 **Art. 63.**
 
 1. W przypadku otwarcia likwidacji lub ogłoszenia upadłości organizacji odzysku sprzętu elektrycznego i elektronicznego obowiązki ponownie obciążają wprowadzającego sprzęt w stosunku do masy sprzętu wprowadzonego przez niego do obrotu od dnia 1 stycznia roku, w którym nastąpiło otwarcie likwidacji lub ogłoszenie upadłości.
@@ -268,6 +372,10 @@ source: "isap-pdf"
 2. Środki pochodzące z zabezpieczenia finansowego wniesionego przez wprowadzającego sprzęt na 2006 r., 2007 r. i 2008 r., przeznaczone decyzją Głównego Inspektora Ochrony Środowiska na sfinansowanie zbierania, przetwarzania, odzysku, w tym recyklingu, stanowią przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
 **Art. 8.** Sprawozdanie, o którym mowa w art. 24 ust. 1 ustawy zmienianej w art. 1, należy złożyć:
+
+- **1)** za okres od 1 października 2008 r. do 31 grudnia 2008 r. – do dnia 31 stycznia 2009 r.,
+- **2)** za okres od 1 stycznia 2009 r. do 30 czerwca 2009 r. – do dnia 31 lipca 2009 r.,
+- **3)** za okres od 1 lipca 2009 r. do 31 grudnia 2009 r. – do dnia 31 stycznia 2010 r. - z wyszczególnieniem danych o rodzaju i masie baterii oraz akumulatorów stosowanych na potrzeby działania sprzętu.
 
 **Art. 9.** Stawki opłaty rejestrowej i opłaty rocznej, o których mowa w art. 9 ustawy zmienianej w art. 1, obowiązują w wysokości określonej na podstawie dotychczasowych przepisów do dnia określenia nowych wysokości tych stawek, nie dłużej jednak niż do dnia 31 marca 2009 r.
 

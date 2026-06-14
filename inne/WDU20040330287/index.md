@@ -8,7 +8,7 @@ pos: 287
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Inspekcji Weterynaryjnej
@@ -31,7 +31,27 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania, organizację, tryb działania oraz zasady finansowania Inspekcji Weterynaryjnej, zwanej dalej „Inspekcją”;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** zasady wykonywania zadań przez Inspekcję, w szczególności przeprowadzania kontroli, w tym kontroli urzędowych w rozumieniu art. 2 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ), zwanych dalej „kontrolami urzędowymi”, oraz wykonywania innych czynności urzędowych w rozumieniu art. 2 ust. 2 tego rozporządzenia, zwanych dalej „innymi czynnościami urzędowymi”;
+- **5)** zasady wprowadzania do obrotu wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej i zasady wprowadzania do używania wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** (uchylony) 1a) dystrybutor – osobę fizyczną, jednostkę organizacyjną nieposiadającą osobowości prawnej albo osobę prawną, których miejsce zamieszkania albo siedziba jest na terytorium Rzeczypospolitej Polskiej i które wprowadzają do używania lub dystrybucji na terytorium Rzeczypospolitej Polskiej wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej;
+- **1b)** prawodawstwo weterynaryjne – przepisy Unii Europejskiej dotyczące zdrowia zwierząt i zdrowia publicznego w zakresie weterynarii, w tym przepisy o kontrolach urzędowych w zakresie weterynarii, a także przepisy wdrażające lub wykonujące te przepisy, w tym zwłaszcza przepisy o produktach pochodzenia zwierzęcego, zdrowiu zwierząt i ochronie zwierząt;
+- **2)** przesyłka – przesyłkę w rozumieniu art. 3 pkt 37 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych), zwanego dalej „rozporządzeniem 2017/625”;
+- **3)** przywóz – wprowadzenie na terytorium Unii lub wprowadzenie do Unii w rozumieniu art. 3 pkt 40 rozporządzenia 2017/625;
+- **4)** tranzyt – tranzyt w rozumieniu art. 3 pkt 44 rozporządzenia 2017/625;
+- **5)** wprowadzenie do obrotu wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej – przekazanie nieodpłatnie albo za opłatą po raz pierwszy wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej do używania lub dystrybucji na terytorium Rzeczypospolitej Polskiej;
+- **6)** wprowadzenie do używania wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej – pierwsze udostępnienie użytkownikowi nieodpłatnie albo za opłatą wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej do używania zgodnie z jego zastosowaniem przewidzianym na terytorium Rzeczypospolitej Polskiej;
+- **7)** wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej – wyrób przeznaczony do badań przeprowadzanych na potrzeby Inspekcji będący: w sprawie przenośnych chorób zwierząt oraz zmieniającego i uchylającego niektóre akty w dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz. UE L 84 z 31.03.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/429”, w tym zoonoz, a także do oznaczania substancji niedozwolonych lub zanieczyszczeń biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego,
+    - **a)** testem do diagnostyki in vitro stosowanym w zakresie diagnostyki chorób zakaźnych zwierząt, o których mowa w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r.
+    - **b)** pojemnikiem na próbki typu próżniowego lub innym pojemnikiem przeznaczonym przez wytwórcę do bezpośredniego przechowywania i konserwacji próbek pochodzących od zwierząt, które zostały pobrane do badania diagnostycznego in vitro,
+    - **c)** sprzętem laboratoryjnym ogólnego stosowania, jeżeli ze względu na jego właściwości jest przeznaczony przez wytwórcę do badań diagnostycznych in vitro;
+
+- **8)** wytwórca – osobę fizyczną, jednostkę organizacyjną nieposiadającą osobowości prawnej albo osobę prawną odpowiedzialne za projektowanie, wytwarzanie, pakowanie i oznakowanie wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej przed wprowadzeniem go do obrotu niezależnie od tego, czy te czynności wykonuje odpowiednio ta osoba lub ta jednostka czy w ich imieniu osoba trzecia.
 
 **Art. 3.**
 
@@ -50,6 +70,7 @@ source: "isap-pdf"
 - **2)** monitorowanie chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe:
     - **a)** u zwierząt,
     - **b)** w produktach pochodzenia zwierzęcego,
+    - **c)** w żywności, o której mowa w ust. 1 pkt 2 lit. b,
     - **d)** w paszach;
 
 - **3)** badanie zwierząt rzeźnych, produktów pochodzenia zwierzęcego i żywności, o której mowa w ust. 1 pkt 2 lit. b;
@@ -62,7 +83,7 @@ source: "isap-pdf"
 
 - **5)** sprawowanie nadzoru nad:
     - **a)** bezpieczeństwem produktów pochodzenia zwierzęcego, w tym przy ich produkcji i wprowadzaniu na rynek, w szczególności nad wymaganiami weterynaryjnymi w sprzedaży bezpośredniej, rolniczym handlu detalicznym oraz działalności marginalnej, lokalnej i ograniczonej, aa) bezpieczeństwem żywności, o której mowa w ust. 1 pkt 2 lit. b,
-    - **b)** przemieszczaniem zwierząt, wprowadzaniem do obrotu produktów ubocznych pochodzenia zwierzęcego w rozumieniu art. 3 pkt 1 w związku z art. 2 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.) i produktów pochodnych w rozumieniu art. 3 pkt 2 tego rozporządzenia,
+    - **b)** przemieszczaniem zwierząt, wprowadzaniem do obrotu produktów ubocznych pochodzenia zwierzęcego w rozumieniu art. 3 pkt 1 w związku z art. 2 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.) i produktów pochodnych w rozumieniu art. 3 pkt 2 tego rozporządzenia,
     - **c)** wytwarzaniem, obrotem i stosowaniem pasz, dodatków stosowanych w żywieniu zwierząt, organizmów genetycznie zmodyfikowanych przeznaczonych do użytku paszowego i pasz genetycznie zmodyfikowanych oraz nad transgranicznym przemieszczaniem organizmów genetycznie zmodyfikowanych przeznaczonych do użytku paszowego,
     - **d)** zdrowiem zwierząt przeznaczonych do rozrodu oraz jakością zdrowotną materiału biologicznego,
     - **e)** obrotem i ilością stosowanych produktów leczniczych weterynaryjnych,
@@ -76,7 +97,9 @@ source: "isap-pdf"
 - **7)** prowadzenie wymiany informacji w ramach systemów wymiany informacji, o których mowa w przepisach Unii Europejskiej;
 - **8)** przyjmowanie informacji o niebezpiecznych produktach żywnościowych oraz o paszach od organów Państwowej Inspekcji Ochrony Roślin i Nasiennictwa oraz Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych – w zakresie kompetencji tych inspekcji, a także ocena ryzyka i stopnia zagrożenia spowodowanego niebezpiecznym produktem żywnościowym lub paszą, a następnie przekazywanie tych informacji do kierującego siecią systemu RASFF, o którym mowa w art. 85 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia.
 
-3. Inspekcja wykonuje zadania, o których mowa w ust. 1 i 2, na podstawie przepisów odrębnych. Ministrowi Obrony Narodowej i przez niego nadzorowanych oraz wojsk obcych przebywających na tych terenach zadania określone w ust. 1, w zakresie ochrony zdrowia zwierząt oraz bezpieczeństwa produktów pochodzenia zwierzęcego w celu zapewnienia ochrony zdrowia publicznego, wykonuje Szef Służby Weterynaryjnej – Inspektor Weterynaryjny Wojska Polskiego.
+3. Inspekcja wykonuje zadania, o których mowa w ust. 1 i 2, na podstawie przepisów odrębnych.
+
+4. Na terenach i w stosunku do jednostek organizacyjnych podległych Ministrowi Obrony Narodowej i przez niego nadzorowanych oraz wojsk obcych przebywających na tych terenach zadania określone w ust. 1, w zakresie ochrony zdrowia zwierząt oraz bezpieczeństwa produktów pochodzenia zwierzęcego w celu zapewnienia ochrony zdrowia publicznego, wykonuje Szef Służby Weterynaryjnej – Inspektor Weterynaryjny Wojska Polskiego.
 
 5. Szef Służby Weterynaryjnej – Inspektor Weterynaryjny Wojska Polskiego wykonuje swoje zadania przy pomocy Wojskowej Inspekcji Weterynaryjnej.
 
@@ -92,7 +115,8 @@ source: "isap-pdf"
 8. Minister właściwy do spraw rolnictwa, w porozumieniu z Ministrem Obrony Narodowej, w drodze rozporządzenia, określi formy współpracy organów Inspekcji z Wojskową Inspekcją Weterynaryjną, uwzględniając:
 
 - **1)** sposób i tryb wzajemnego przekazywania informacji z zakresu, o którym mowa w ust. 2 pkt 1–4;
-- **2)** zakres tej współpracy przy zwalczaniu chorób zakaźnych zwierząt; Inspekcji i Wojskowej Inspekcji Weterynaryjnej.
+- **2)** zakres tej współpracy przy zwalczaniu chorób zakaźnych zwierząt;
+- **3)** warunki i sposób organizacji, uczestnictwa i prowadzenia wspólnych szkoleń Inspekcji i Wojskowej Inspekcji Weterynaryjnej.
 
 **Art. 4.**
 
@@ -122,6 +146,7 @@ source: "isap-pdf"
 
 1. Organami Inspekcji są:
 
+- **1)** Główny Lekarz Weterynarii;
 - **2)** wojewódzki lekarz weterynarii, jako kierownik wojewódzkiej inspekcji weterynaryjnej wchodzącej w skład zespolonej administracji rządowej w województwie;
 - **3)** powiatowy lekarz weterynarii, jako kierownik powiatowej inspekcji weterynaryjnej wchodzącej w skład niezespolonej administracji rządowej;
 - **4)** graniczny lekarz weterynarii.
@@ -141,7 +166,9 @@ source: "isap-pdf"
 
 4. (uchylony)
 
-5. (uchylony) udostępnia na stronie internetowej administrowanej przez urząd obsługujący ten organ informacje określone w art. 4 ust. 4 lit. a i b rozporządzenia 2017/625 w odniesieniu do organów wykonujących zadania określone w ustawie.
+5. (uchylony)
+
+**Art. 5a.** Główny Lekarz Weterynarii przekazuje Komisji Europejskiej oraz udostępnia na stronie internetowej administrowanej przez urząd obsługujący ten organ informacje określone w art. 4 ust. 4 lit. a i b rozporządzenia 2017/625 w odniesieniu do organów wykonujących zadania określone w ustawie.
 
 **Art. 6.**
 
@@ -163,7 +190,7 @@ source: "isap-pdf"
 - **6)** posiada 7-letni staż pracy w administracji publicznej w zakresie realizacji zadań związanych z weterynarią;
 - **7)** posiada tytuł specjalisty z epizootiologii i administracji weterynaryjnej lub higieny zwierząt rzeźnych i żywności pochodzenia zwierzęcego.
 
-5b. (uchylony) 5c. (uchylony) 5d. (uchylony) 5e. (uchylony) 5f. (uchylony) 5g. (uchylony) 5h. (uchylony) 5j. (uchylony) 5k. (uchylony) 5l. (uchylony) 5m. Powołanie na stanowiska, o których mowa w ust. 5a, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+5b. (uchylony) 5c. (uchylony) 5d. (uchylony) 5e. (uchylony) 5f. (uchylony) 5g. (uchylony) 5h. (uchylony) 5i. (uchylony) 5j. (uchylony) 5k. (uchylony) 5l. (uchylony) 5m. Powołanie na stanowiska, o których mowa w ust. 5a, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
 
 6. Główny Lekarz Weterynarii wykonuje swoje zadania przy pomocy Głównego Inspektoratu Weterynarii.
 
@@ -187,7 +214,11 @@ source: "isap-pdf"
 
 8. Członkom Rady przysługuje zwrot kosztów przejazdu i zakwaterowania oraz diety na warunkach stosowanych przy podróżach służbowych pracowników zatrudnionych w państwowej lub samorządowej jednostce sfery budżetowej i określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
 
-9. Koszty obsługi administracyjno-biurowej Rady oraz zwrot kosztów i diet, o których mowa w ust. 8, są pokrywane z budżetu państwa ze środków będących w dyspozycji ministra właściwego do spraw rolnictwa. w zakresie funkcjonowania laboratoriów do celów kontroli urzędowych i innych czynności urzędowych określonych w rozporządzeniu 2017/625 jest Rada do spraw Laboratoriów.
+9. Koszty obsługi administracyjno-biurowej Rady oraz zwrot kosztów i diet, o których mowa w ust. 8, są pokrywane z budżetu państwa ze środków będących w dyspozycji ministra właściwego do spraw rolnictwa.
+
+**Art. 7a.**
+
+1. Organem doradczo-opiniodawczym Głównego Lekarza Weterynarii w zakresie funkcjonowania laboratoriów do celów kontroli urzędowych i innych czynności urzędowych określonych w rozporządzeniu 2017/625 jest Rada do spraw Laboratoriów.
 
 2. Rada do spraw Laboratoriów liczy 7 członków.
 
@@ -213,13 +244,16 @@ source: "isap-pdf"
 
 3. Powiatowy lekarz weterynarii podlega wojewódzkiemu lekarzowi weterynarii.
 
-4. Minister właściwy do spraw rolnictwa, w porozumieniu z ministrem właściwym do spraw administracji publicznej, określi, w drodze rozporządzenia, siedziby, biorąc pod uwagę:
+4. Minister właściwy do spraw rolnictwa, w porozumieniu z ministrem właściwym do spraw administracji publicznej, określi, w drodze rozporządzenia, terytorialny zakres działania powiatowych i granicznych lekarzy weterynarii oraz ich siedziby, biorąc pod uwagę:
 
 - **1)** zasadniczy podział terytorialny państwa, z tym że zakres działania powiatowego lekarza weterynarii może obejmować kilka powiatów;
 - **2)** możliwości finansowe i organizacyjne Inspekcji;
 - **3)** potrzebę zapewnienia realizacji zadań Inspekcji na obszarze całego kraju.
 
 **Art. 8a.** Do postępowań w sprawach:
+
+- **1)** o których mowa w art. 15f ust. 1, art. 15i ust. 3, art. 24a, art. 24b i art. 25a ust. 3,
+- **2)** dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji w sprawach, o których mowa w art. 15f ust. 1, art. 15i ust. 3, art. 24a, art. 24b> i art. 25a ust. 3, oraz w sprawach wznowienia postępowania zakończonego wydaniem takich decyzji – nie stosuje się przepisów art. 29 i art. 32 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803, 1414 i 2029).
 
 **Art. 9.**
 
@@ -235,7 +269,11 @@ source: "isap-pdf"
 
 - **1)** wojewódzkiego lekarza weterynarii oraz jego zastępcy – wykonuje wojewoda w porozumieniu z Głównym Lekarzem Weterynarii;
 - **2)** powiatowego lekarza weterynarii oraz jego zastępcy – wykonuje wojewódzki lekarz weterynarii;
-- **3)** granicznego lekarza weterynarii oraz jego zastępcy – wykonuje Główny Lekarz Weterynarii. obowiązków wojewódzkiego, powiatowego lub granicznego lekarza weterynarii lub jego zastępcę, jeżeli jego działalność lub działalność kierowanego przez niego inspektoratu może zagrozić prawidłowemu wykonywaniu zadań Inspekcji, a zwłaszcza naruszyć bezpieczeństwo sanitarno-weterynaryjne na obszarze właściwości tych organów. Podejmując decyzję o zawieszeniu, Główny Lekarz Weterynarii wyznacza osobę pełniącą obowiązki zawieszonego organu.
+- **3)** granicznego lekarza weterynarii oraz jego zastępcy – wykonuje Główny Lekarz Weterynarii.
+
+**Art. 10.**
+
+1. Główny Lekarz Weterynarii może zawiesić w wykonywaniu obowiązków wojewódzkiego, powiatowego lub granicznego lekarza weterynarii lub jego zastępcę, jeżeli jego działalność lub działalność kierowanego przez niego inspektoratu może zagrozić prawidłowemu wykonywaniu zadań Inspekcji, a zwłaszcza naruszyć bezpieczeństwo sanitarno-weterynaryjne na obszarze właściwości tych organów. Podejmując decyzję o zawieszeniu, Główny Lekarz Weterynarii wyznacza osobę pełniącą obowiązki zawieszonego organu.
 
 2. Okres zawieszenia, o którym mowa w ust. 1, trwa do czasu zakończenia postępowania wyjaśniającego lub dyscyplinarnego w rozumieniu przepisów o służbie cywilnej.
 
@@ -260,7 +298,8 @@ source: "isap-pdf"
 3. W budżetach wojewodów wyodrębnia się środki przeznaczone na:
 
 - **1)** zwalczanie chorób zakaźnych zwierząt i chorób odzwierzęcych podlegających obowiązkowi zwalczania, w tym na odszkodowania, zapomogi i nagrody oraz zadania wynikające z planów gotowości zwalczania chorób zakaźnych zwierząt;
-- **2)** badania kontrolne zakażeń zwierząt; chorobotwórczych podlegających obowiązkowi monitorowania oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe:
+- **2)** badania kontrolne zakażeń zwierząt;
+- **3)** monitorowanie chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe:
     - **a)** u zwierząt,
     - **b)** w produktach pochodzenia zwierzęcego,
     - **c)** w żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b,
@@ -284,7 +323,8 @@ source: "isap-pdf"
 - **5)** ustala kierunki działań w odniesieniu do chorób zwierząt, dokonuje analiz i ocen sytuacji epizootycznej, bezpieczeństwa produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, i wymagań weterynaryjnych przy produkcji tych produktów i tej żywności;
 - **6)** opracowuje krajowe programy dotyczące realizacji zadań, o których mowa w art. 12 ust. 3;
 - **7)** (uchylony)
-- **8)** organizuje szkolenia dla pracowników Inspekcji; innych środków niezbędnych do diagnozowania i zwalczania chorób zakaźnych zwierząt, w tym chorób odzwierzęcych, oraz monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych, a także związanej z nimi oporności na środki przeciwdrobnoustrojowe:
+- **8)** organizuje szkolenia dla pracowników Inspekcji;
+- **9)** utrzymuje rezerwę szczepionek, biopreparatów i produktów biobójczych oraz innych środków niezbędnych do diagnozowania i zwalczania chorób zakaźnych zwierząt, w tym chorób odzwierzęcych, oraz monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych, a także związanej z nimi oporności na środki przeciwdrobnoustrojowe:
     - **a)** u zwierząt,
     - **b)** w produktach pochodzenia zwierzęcego,
     - **c)** w żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b,
@@ -299,7 +339,8 @@ source: "isap-pdf"
 
 1a. Główny Lekarz Weterynarii:
 
-- **1)** tworzy podpunkt krajowego punktu kontaktowego (PKPK) sieci systemu RASFF realizującego zadania, o których mowa w art. 3 ust. 2 pkt 8, i kieruje pracami tego podpunktu; stwierdzonych przypadków niebezpiecznej żywności pochodzenia roślinnego i zwierzęcego oraz żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, i pasz – w zakresie objętym kompetencjami Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa oraz Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych – i za przekazywanie tych informacji do krajowego punktu kontaktowego sieci systemu RASFF.
+- **1)** tworzy podpunkt krajowego punktu kontaktowego (PKPK) sieci systemu RASFF realizującego zadania, o których mowa w art. 3 ust. 2 pkt 8, i kieruje pracami tego podpunktu;
+- **2)** jest odpowiedzialny za zbieranie informacji dotyczących wszystkich stwierdzonych przypadków niebezpiecznej żywności pochodzenia roślinnego i zwierzęcego oraz żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, i pasz – w zakresie objętym kompetencjami Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa oraz Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych – i za przekazywanie tych informacji do krajowego punktu kontaktowego sieci systemu RASFF.
 
 1b. Sprawując nadzór, o którym mowa w ust. 1 pkt 10a, Główny Lekarz Weterynarii w szczególności:
 
@@ -327,6 +368,8 @@ source: "isap-pdf"
 
 8. (uchylony)
 
+9. Główny Lekarz Weterynarii:
+
 - **1)** informuje ministra właściwego do spraw rolnictwa o:
     - **a)** przedłożeniu Komisji Europejskiej do zatwierdzenia projektów programów likwidacji chorób i o ich zatwierdzeniu,
     - **b)** złożeniu wniosku o uznanie statusu obszaru wolnego od choroby,
@@ -341,8 +384,9 @@ source: "isap-pdf"
 
 **Art. 14.**
 
-1. Wojewódzki lekarz weterynarii: powiatowych lekarzy weterynarii na obszarze województwa oraz kontroluje sposób wykonywania przez nich zadań Inspekcji;
+1. Wojewódzki lekarz weterynarii:
 
+- **1)** ustala kierunki działania, wydaje instrukcje określające sposób postępowania powiatowych lekarzy weterynarii na obszarze województwa oraz kontroluje sposób wykonywania przez nich zadań Inspekcji;
 - **2)** może wydawać powiatowym lekarzom weterynarii polecenia dotyczące podjęcia określonych czynności oraz żądać od nich informacji z zakresu ich działania;
 - **3)** dokonuje, na obszarze województwa, analiz i ocen sytuacji epizootycznej lub bezpieczeństwa:
     - **a)** produktów pochodzenia zwierzęcego i pasz, w tym spełniania wymagań weterynaryjnych przy ich produkcji i wprowadzaniu na rynek,
@@ -364,7 +408,7 @@ source: "isap-pdf"
 
 1e. Koszty działań zespołów, o których mowa w ust. 1 pkt 8, są pokrywane ze środków budżetu państwa przeznaczonych na zwalczanie chorób zakaźnych zwierząt będących w dyspozycji wojewody, na obszarze właściwości którego są prowadzone działania zespołów.
 
-2. Wojewódzki lekarz weterynarii oraz graniczny lekarz weterynarii do dnia 30 marca, a na żądanie, w każdym czasie, przekazują Głównemu Lekarzowi wództwa albo w terytorialnym zakresie działania granicznego lekarza weterynarii.
+2. Wojewódzki lekarz weterynarii oraz graniczny lekarz weterynarii do dnia 30 marca, a na żądanie, w każdym czasie, przekazują Głównemu Lekarzowi Weterynarii informacje o realizacji zadań Inspekcji odpowiednio na obszarze województwa albo w terytorialnym zakresie działania granicznego lekarza weterynarii.
 
 3. Powiatowy lekarz weterynarii do dnia 28 lutego, a na żądanie, w każdym czasie, przekazuje wojewódzkiemu lekarzowi weterynarii informacje o realizacji zadań Inspekcji w terytorialnym zakresie działania powiatowego lekarza weterynarii.
 
@@ -376,6 +420,9 @@ source: "isap-pdf"
 
 **Art. 14b.** Powiatowy lekarz weterynarii wydaje zaświadczenia o spełnianiu:
 
+- **1)** minimalnych standardów co do higieny i warunków utrzymania zwierząt w gospodarstwie w zakresie niezbędnym do ubiegania się lub otrzymania pomocy finansowej albo dofinansowania ze środków pochodzących z Europejskiego Funduszu Orientacji i Gwarancji Rolnej (EFOiGR);
+- **2)** warunków utrzymywania zwierząt gospodarskich w zakresie niezbędnym do ubiegania się lub otrzymania pomocy finansowej ze środków pochodzących z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW).
+
 **Art. 14c.** (uchylony)
 
 **Art. 15.**
@@ -385,7 +432,9 @@ source: "isap-pdf"
 2. W rozumieniu Kodeksu postępowania administracyjnego w postępowaniu administracyjnym organem wyższego stopnia, w stosunku do:
 
 - **1)** powiatowego lekarza weterynarii – jest wojewódzki lekarz weterynarii;
-- **2)** wojewódzkiego i granicznego lekarza weterynarii – jest Główny Lekarz Weterynarii. zakresu działania organu niższego stopnia, jeżeli jest to uzasadnione szczególną wagą lub zawiłością sprawy. W tych przypadkach organ wyższego stopnia staje się organem pierwszej instancji.
+- **2)** wojewódzkiego i granicznego lekarza weterynarii – jest Główny Lekarz Weterynarii.
+
+3. Organ wyższego stopnia może podejmować wszelkie czynności należące do zakresu działania organu niższego stopnia, jeżeli jest to uzasadnione szczególną wagą lub zawiłością sprawy. W tych przypadkach organ wyższego stopnia staje się organem pierwszej instancji.
 
 4. O podjęciu czynności, o których mowa w ust. 3, organ wyższego stopnia powiadamia organ pierwszej instancji.
 
@@ -407,7 +456,9 @@ source: "isap-pdf"
 2. W przypadkach, o których mowa w art. 65 ust. 2 rozporządzenia 2017/625, kontrolę urzędową zwierząt i towarów, o których mowa w art. 47 ust. 1 lit. a, b oraz d–f rozporządzenia 2017/625, a także inne czynności urzędowe w odniesieniu do takich zwierząt i towarów wykonuje:
 
 - **1)** graniczny lekarz weterynarii – w przypadku gdy zwierzęta lub towary znajdują się w miejscu objętym terytorialnym zakresem działania tego granicznego lekarza weterynarii;
-- **2)** powiatowy lekarz weterynarii – w przypadku gdy zwierzęta lub towary znajdują się w miejscu położonym poza terytorialnym zakresem działania granicznego lekarza weterynarii. wykonujący inne czynności urzędowe w portach morskich współpracuje z organami celnymi w zakresie tych kontroli i czynności, w szczególności informuje naczelnika urzędu celno-skarbowego właściwego dla portu morskiego o terminie, w tym o godzinie i miejscu planowanej kontroli. Graniczny lekarz weterynarii przeprowadza takie kontrole i wykonuje takie czynności w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 60 ust. 2–5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
+- **2)** powiatowy lekarz weterynarii – w przypadku gdy zwierzęta lub towary znajdują się w miejscu położonym poza terytorialnym zakresem działania granicznego lekarza weterynarii.
+
+3. Graniczny lekarz weterynarii przeprowadzający kontrole urzędowe i wykonujący inne czynności urzędowe w portach morskich współpracuje z organami celnymi w zakresie tych kontroli i czynności, w szczególności informuje naczelnika urzędu celno-skarbowego właściwego dla portu morskiego o terminie, w tym o godzinie i miejscu planowanej kontroli. Graniczny lekarz weterynarii przeprowadza takie kontrole i wykonuje takie czynności w portach morskich w sposób pozwalający na zachowanie terminów, o których mowa w art. 60 ust. 2–5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
 
 **Art. 15c.** Zarządzający przejściami granicznymi są obowiązani do nieodpłatnego udostępnienia pomieszczeń biurowych, laboratoryjnych, socjalnych oraz powierzchni magazynowych dla zatrzymanych przesyłek, które spełniają wymagania określone w przepisach o zdrowiu zwierząt lub o ochronie zdrowia publicznego.
 
@@ -421,8 +472,9 @@ source: "isap-pdf"
 
 2. Uznania, wycofania uznania lub tymczasowego zawieszenia uznania, o których mowa w ust. 1, dokonuje się w drodze decyzji administracyjnej. Uznania składu dokonuje się na wniosek podmiotu prowadzącego ten skład.
 
-3. Główny Lekarz Weterynarii: rozporządzenia 2019/2124;
+3. Główny Lekarz Weterynarii:
 
+- **1)** jest organem właściwym w zakresie realizacji zadań, o których mowa w art. 25 rozporządzenia 2019/2124;
 - **2)** może wyznaczyć system informacyjny inny niż system, o którym mowa w art. 131 rozporządzenia 2017/625, w celu powiadamiania o przesyłkach, o których mowa w art. 16 rozporządzenia 2019/2124, oraz innych przesyłkach – w przypadku gdy przepisy Unii Europejskiej tak stanowią.
 
 **Art. 15g.** Koszty związane z dojazdem do miejsc dokonywania czynności wynikających z zastosowania środków, o których mowa w art. 66–69 i art. 71 rozporządzenia 2017/625, ponosi osoba odpowiedzialna za przesyłkę.
@@ -431,7 +483,7 @@ source: "isap-pdf"
 
 **Art. 15i.**
 
-1. W zakresie produktów pochodzenia zwierzęcego, produktów złożonych i produktów uzyskanych z produktów ubocznych pochodzenia zwierzęcego, o których mowa w art. 7 rozporządzenia delegowanego Komisji (UE) 2019/2122 z dnia 10 października 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/625 w odniesieniu do niektórych kategorii zwierząt i towarów zwolnionych z kontroli urzędowych w punktach kontroli granicznej i w odniesieniu do określonych kontroli bagażu osobistego pasażerów i małych przesyłek towarów wysyłanych do osób fizycznych i nieprzeznaczonych do wprowadzenia do obrotu oraz zmieniającego rozporządzenie Komisji (UE) nr 142/2011 (Dz. Urz. UE L 321 z 12.12.2019, str. 45, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/2122”, oraz zwierząt domowych, o których mowa w art. 11 rozporządzenia 2019/2122 wykonuje wojewoda.
+1. W zakresie produktów pochodzenia zwierzęcego, produktów złożonych i produktów uzyskanych z produktów ubocznych pochodzenia zwierzęcego, o których mowa w art. 7 rozporządzenia delegowanego Komisji (UE) 2019/2122 z dnia 10 października 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/625 w odniesieniu do niektórych kategorii zwierząt i towarów zwolnionych z kontroli urzędowych w punktach kontroli granicznej i w odniesieniu do określonych kontroli bagażu osobistego pasażerów i małych przesyłek towarów wysyłanych do osób fizycznych i nieprzeznaczonych do wprowadzenia do obrotu oraz zmieniającego rozporządzenie Komisji (UE) nr 142/2011 (Dz. Urz. UE L 321 z 12.12.2019, str. 45, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/2122”, oraz zwierząt domowych, o których mowa w art. 11 rozporządzenia 2019/2122, zadania właściwego organu określone w art. 8 i art. 12 rozporządzenia 2019/2122 wykonuje wojewoda.
 
 2. Organ celny albo organ administracji rządowej upoważniony do wykonywania niektórych zadań organów celnych zgodnie z przepisami prawa celnego jest właściwym organem, o którym mowa w art. 9 i art. 10 rozporządzenia 2019/2122.
 
@@ -448,14 +500,16 @@ source: "isap-pdf"
 1. Jeżeli powiatowy lekarz weterynarii z przyczyn finansowych lub organizacyjnych nie jest w stanie wykonać ustawowych zadań Inspekcji, może:
 
 - **1)** wyznaczać na czas określony lekarzy weterynarii niebędących pracownikami Inspekcji, w tym lekarzy weterynarii świadczących usługi weterynaryjne w ramach zakładu leczniczego dla zwierząt, do:
-    - **a)** szczepień ochronnych lub badań rozpoznawczych, zwierząt, targowiskami oraz wystawami, pokazami lub konkursami zwierząt,
+    - **a)** szczepień ochronnych lub badań rozpoznawczych,
+    - **b)** sprawowania nadzoru nad miejscami gromadzenia, skupu lub sprzedaży zwierząt, targowiskami oraz wystawami, pokazami lub konkursami zwierząt,
     - **c)** badania przemieszczanych zwierząt, zwierząt przeznaczonych do wywozu oraz do wystawiania wymaganych świadectw zdrowia lub informowania o możliwości przemieszczania świń w przypadku, o którym mowa w art. 29a ust. 5 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r. poz. 1815 oraz z 2025 r. poz. 1795),
     - **d)** sprawowania nadzoru nad ubojem zwierząt gospodarskich kopytnych, drobiu, zajęczaków i zwierząt dzikich utrzymywanych w warunkach fermowych, o których mowa w ust. 1.2–1.4 i 1.6 załącznika I do rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z
 
 30. 04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14), zwanego dalej „rozporządzeniem nr 853/2004”, w tym badania dobrostanu zwierząt po ich przybyciu do rzeźni, badania przedubojowego i poubojowego, oceny mięsa i nadzoru nad przestrzeganiem w czasie uboju przepisów o ochronie zwierząt,
 
 - **e)** badania mięsa zwierząt łownych,
-- **f)** sprawowania nadzoru nad rozbiorem, przetwórstwem lub przechowywaniem mięsa i wystawiania wymaganych świadectw zdrowia, oraz przechowywaniem produktów mleczarskich i wystawiania wymaganych świadectw zdrowia,
+- **f)** sprawowania nadzoru nad rozbiorem, przetwórstwem lub przechowywaniem mięsa i wystawiania wymaganych świadectw zdrowia,
+- **g)** sprawowania nadzoru nad punktami odbioru mleka, przetwórstwem mleka oraz przechowywaniem produktów mleczarskich i wystawiania wymaganych świadectw zdrowia,
 - **h)** sprawowania nadzoru nad wyładowywaniem ze statków rybackich, w tym statków chłodni, statków zamrażalni i statków przetwórni, produktów rybołówstwa, nad obróbką, przetwórstwem i przechowywaniem tych produktów oraz ślimaków i żab, a także wystawiania wymaganych świadectw zdrowia,
 - **i)** sprawowania nadzoru nad przetwórstwem i przechowywaniem jaj konsumpcyjnych i produktów jajecznych oraz wystawiania wymaganych świadectw zdrowia,
 - **j)** pobierania próbek do badań w zakresie: – bezpieczeństwa żywności, – innym niż określony w tiret pierwszym,
@@ -469,7 +523,7 @@ source: "isap-pdf"
     - **b)** kontroli urzędowych, o których mowa w art. 18 ust. 7 lit. i rozporządzenia 2017/625, jako pracownicy wyznaczeni przez właściwe organy w rozumieniu art. 2 pkt 5 rozporządzenia 2019/624,
     - **c)** czynności o charakterze pomocniczym określonych w przepisach wydanych na podstawie art. 16 ust. 6 pkt 1.
 
-- **3)** (uchylony) 1a. Jeżeli powiatowy lekarz weterynarii z przyczyn finansowych lub organizacyjnych nie jest w stanie wykonać ustawowych zadań Inspekcji, może pkt 1, lekarzy weterynarii niebędących pracownikami kierowanego przez niego powiatowego inspektoratu weterynarii, jeżeli:
+- **3)** (uchylony) 1a. Jeżeli powiatowy lekarz weterynarii z przyczyn finansowych lub organizacyjnych nie jest w stanie wykonać ustawowych zadań Inspekcji, może wyznaczyć na czas określony do wykonywania czynności, o których mowa w ust. 1 pkt 1, lekarzy weterynarii niebędących pracownikami kierowanego przez niego powiatowego inspektoratu weterynarii, jeżeli:
 - **1)** uzyska zgodę kierownika jednostki organizacyjnej Inspekcji, w którym wyznaczana osoba jest zatrudniona;
 - **2)** uzyska zgodę właściwego wojewódzkiego lekarza weterynarii, w przypadku powiatowego lekarza weterynarii i jego zastępcy;
 - **3)** czynności te nie będą wykonywane w czasie pracy w Inspekcji i nie będą przekraczać 60 godzin w miesiącu.
@@ -485,9 +539,11 @@ source: "isap-pdf"
 2b. Po wyznaczeniu do wykonywania czynności, o którym mowa w ust. 1, wyznaczony lekarz weterynarii składa powiatowemu lekarzowi weterynarii oświadczenie, że nie zachodzą okoliczności powodujące wątpliwości co do bezstronnego wykonywania czynności objętych wyznaczeniem oraz że nie pozostaje w konflikcie interesów w związku z wykonywaniem tych czynności, a także o:
 
 - **1)** niewykonywaniu zajęć zarobkowych albo
-- **2)** wykonywaniu zajęć zarobkowych, podając: w ust. 2b, wyznaczony lekarz weterynarii składa powiatowemu lekarzowi weterynarii oświadczenie o zmianie tych informacji. Oświadczenie to zawiera aktualne informacje i jest składane w terminie 7 dni od dnia zmiany tych informacji.
+- **2)** wykonywaniu zajęć zarobkowych, podając:
     - **a)** informacje dotyczące czynności wykonywanych w ramach tych zajęć oraz okresu wykonywania tych zajęć,
     - **b)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu, na rzecz którego te zajęcia wykonuje, oraz odpowiednio miejsce lub obszar ich wykonywania.
+
+2c. W przypadku zmiany informacji zawartych w oświadczeniu, o którym mowa w ust. 2b, wyznaczony lekarz weterynarii składa powiatowemu lekarzowi weterynarii oświadczenie o zmianie tych informacji. Oświadczenie to zawiera aktualne informacje i jest składane w terminie 7 dni od dnia zmiany tych informacji.
 
 3. Wykonywanie czynności, o których mowa w ust. 1, następuje po zawarciu przez powiatowego lekarza weterynarii umowy z:
 
@@ -502,7 +558,7 @@ source: "isap-pdf"
 
 - **1)** lit. a–c,
 - **2)** lit. d – z wyłączeniem nadzoru nad przeprowadzeniem uboju zwierząt w rzeźni, w której ubój i obróbka poubojowa odbywają się przy użyciu automatycznego przesuwu taśmy,
-- **3)** lit. e, j, k oraz m zatrudnionych w państwowej lub samorządowej jednostce sfery budżetowej i określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+- **3)** lit. e, j, k oraz m – na warunkach stosowanych przy podróżach służbowych pracowników zatrudnionych w państwowej lub samorządowej jednostce sfery budżetowej i określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
 
 3c. Zwrot kosztów dojazdów, o którym mowa w ust. 3b, nie przysługuje w przypadku, gdy powiatowy lekarz weterynarii zapewnił środek transportu umożliwiający dojazd związany z wykonywaniem czynności.
 
@@ -521,7 +577,9 @@ source: "isap-pdf"
 
 5a. O dokonaniu zmian w zakresie wyznaczenia do wykonywania czynności, o której mowa w ust. 1 pkt 1 lit. l, powiatowy lekarz weterynarii powiadamia kierownika zakładu higieny weterynaryjnej.
 
-5b. Podmiot jest obowiązany do złożenia powiatowemu lekarzowi weterynarii, na wniosek tego organu, w terminie 14 dni od dnia otrzymania tego wniosku, oświadczenia, o którym mowa w ust. 2b, zawierającego informacje o zajęciach zarobkowych wykonywanych na rzecz tego podmiotu przez lekarza weterynarii, który złożył powiatowemu lekarzowi weterynarii oświadczenie, w przypadku, o którym mowa w ust. 2c, lub jest wyznaczony przez ten organ do wykonywania czynności, o których mowa w ust. 1. odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+5b. Podmiot jest obowiązany do złożenia powiatowemu lekarzowi weterynarii, na wniosek tego organu, w terminie 14 dni od dnia otrzymania tego wniosku, oświadczenia, o którym mowa w ust. 2b, zawierającego informacje o zajęciach zarobkowych wykonywanych na rzecz tego podmiotu przez lekarza weterynarii, który złożył powiatowemu lekarzowi weterynarii oświadczenie, w przypadku, o którym mowa w ust. 2c, lub jest wyznaczony przez ten organ do wykonywania czynności, o których mowa w ust. 1.
+
+5c. Oświadczenia, o których mowa w ust. 2b, 2c i 5b, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 5d. Kwalifikacje lekarzy weterynarii i innych osób wyznaczonych do wykonywania czynności, o których mowa w ust. 1 pkt 1 lit. d–f, lit. j tiret pierwsze i lit. l oraz pkt 2 lit. a i b, są określone w przepisach wydanych na podstawie art. 18 ust. 7 lit. j rozporządzenia 2017/625.
 
@@ -533,6 +591,21 @@ source: "isap-pdf"
 7. Wykonywanie czynności, o których mowa w ust. 1, nie stanowi zatrudnienia w rozumieniu przepisów Kodeksu pracy.
 
 **Art. 17.** Do wydatków związanych z wykonywaniem czynności, o których mowa w art. 16 ust. 1, zalicza się wydatki na:
+
+- **1)** wynagrodzenia osób niebędących pracownikami Inspekcji;
+- **2)** obsługę finansową;
+- **3)** sprzęt i materiały związane z wykonywaniem tych czynności, w tym:
+    - **a)** do prowadzenia dokumentacji oraz gromadzenia i przesyłania danych,
+    - **b)** odczynniki do badań na włośnie,
+    - **c)** odzież ochronną do badania przedubojowego i poubojowego zwierząt rzeźnych i mięsa;
+
+- **4)** konserwację i naprawy sprzętu, o którym mowa w pkt 3;
+- **5)** tusz i pieczęcie do znakowania mięsa;
+- **6)** badania laboratoryjne niezbędne do wydania oceny mięsa;
+- **7)** szkolenia lekarzy weterynarii oraz innych osób wykonujących te czynności;
+- **8)** pokrycie kosztów dojazdów, o których mowa w art. 16 ust. 3b, oraz zapewnienie środka transportu, o którym mowa w art. 16 ust. 3c;
+- **8a)** produkty lecznicze weterynaryjne i wyroby medyczne użyte w związku z wykonywaniem czynności, o których mowa w art. 16 ust. 1;
+- **9)** dojazdy pracowników Inspekcji w celu kontroli wykonywania powierzonych zadań.
 
 **Art. 18.**
 
@@ -552,7 +625,9 @@ source: "isap-pdf"
 - **2)** na obszarze innego powiatu niż powiat, o którym mowa w pkt 1, w tym samym lub innym województwie – wydaje wojewódzki lekarz weterynarii właściwy dla tego województwa;
 - **3)** na rzecz Głównego Lekarza Weterynarii – wydaje ten organ.
 
-4. Wniesienie odwołania od decyzji, o której mowa w ust. 1, nie wstrzymuje jej wykonania. w decyzji, o której mowa w ust. 1, przez okres określony w tej decyzji, jednak nie dłuższy niż 3 miesiące, oraz w dniach lub godzinach określonych w tej decyzji – w przypadku gdy zostały one określone.
+4. Wniesienie odwołania od decyzji, o której mowa w ust. 1, nie wstrzymuje jej wykonania.
+
+5. Czynności, o których mowa w ust. 1, wykonuje się w miejscu określonym w decyzji, o której mowa w ust. 1, przez okres określony w tej decyzji, jednak nie dłuższy niż 3 miesiące, oraz w dniach lub godzinach określonych w tej decyzji – w przypadku gdy zostały one określone.
 
 6. Pracodawca zatrudniający osobę, o której mowa w ust. 1, jest obowiązany zwolnić ją od pracy na czas wykonywania czynności, o których mowa w tym przepisie. Za czas zwolnienia od pracy osoba, o której mowa w ust. 1, zachowuje prawo do świadczeń związanych z pracą, z wyjątkiem prawa do wynagrodzenia.
 
@@ -568,7 +643,7 @@ source: "isap-pdf"
 
 1. Kontrola wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, o której mowa w art. 3 ust. 2 pkt 4 lit. d, jest prowadzona przez Głównego Lekarza Weterynarii i wojewódzkich lekarzy weterynarii.
 
-2. Na wniosek Głównego Lekarza Weterynarii Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy współpracuje przy przeprowadzaniu kontroli wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, w tym przekazuje informacje dotyczące testów do diagnostyki in vitro stosowanych ust. 2 pkt 1.
+2. Na wniosek Głównego Lekarza Weterynarii Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy współpracuje przy przeprowadzaniu kontroli wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, w tym przekazuje informacje dotyczące testów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej używanych w laboratoriach, o których mowa w art. 25 ust. 2 pkt 1.
 
 **Art. 18b.**
 
@@ -597,7 +672,7 @@ source: "isap-pdf"
 
 1c. Przed podjęciem pierwszej czynności kontrolnej, osoba upoważniona do wykonania kontroli ma obowiązek poinformować kontrolowanego o jego prawach i obowiązkach w trakcie kontroli.
 
-1d. Do kontroli spraw, przy których zachodzi konieczność zapoznania się z informacjami niejawnymi, kontrolujący powinni posiadać poświadczenie podstawie przepisów o ochronie informacji niejawnych.
+1d. Do kontroli spraw, przy których zachodzi konieczność zapoznania się z informacjami niejawnymi, kontrolujący powinni posiadać poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych, uzyskane na podstawie przepisów o ochronie informacji niejawnych.
 
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wzory upoważnienia i odznaki identyfikacyjnej, mając na względzie potrzebę zapewnienia identyfikacji osób uprawnionych do przeprowadzania kontroli w imieniu Inspekcji.
 
@@ -607,10 +682,11 @@ source: "isap-pdf"
 
 - **1)** przeprowadzania kontroli gospodarstw, centrów (organizacji), zakładów, w tym pomieszczeń lub urządzeń, o których mowa w załączniku II w rozdziale III rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319), ośrodków w rozumieniu art. 2 ust. 1 pkt 8 ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych, instalacji, urządzeń lub środków transportu;
 - **2)** kontrolowania przestrzegania wymagań określonych w prawodawstwie weterynaryjnym, w tym metod stosowanych do znakowania i identyfikacji zwierząt, i w przepisach dotyczących bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b;
-- **3)** pobierania nieodpłatnie próbek do badań: kontroli;
+- **3)** pobierania nieodpłatnie próbek do badań:
     - **a)** od zwierząt utrzymywanych w celu umieszczenia na rynku lub transportowanych,
     - **b)** produktów przeznaczonych do przechowywania, umieszczania na rynku lub transportowanych;
 
+- **4)** żądania pisemnych lub ustnych informacji w zakresie objętym przedmiotem kontroli;
 - **5)** żądania okazywania i udostępniania dokumentów lub danych informatycznych w zakresie, o którym mowa w pkt 4.
 
 4. Przy wykonywaniu czynności, o których mowa w ust. 3, podmioty kontrolowane są obowiązane zapewnić pracownikom Inspekcji oraz osobom wyznaczonym na podstawie art. 16 i 18 pomoc niezbędną do wykonywania ich obowiązków.
@@ -629,8 +705,9 @@ source: "isap-pdf"
 
 **Art. 19b.**
 
-1. Kontrolujący przeprowadzają kontrole: lekarza weterynarii, wojewódzkiego lekarza weterynarii lub Głównego Lekarza Weterynarii;
+1. Kontrolujący przeprowadzają kontrole:
 
+- **1)** okresowe – na podstawie planów kontroli sporządzanych przez powiatowego lekarza weterynarii, wojewódzkiego lekarza weterynarii lub Głównego Lekarza Weterynarii;
 - **2)** doraźne – podjęte poza planem kontroli, w tym związane z rozpatrzeniem skarg i wniosków.
 
 2. (uchylony)
@@ -659,7 +736,8 @@ source: "isap-pdf"
 - **8)** omówienie dokonanych w protokole kontroli poprawek, skreśleń i uzupełnień;
 - **9)** wzmiankę o doręczeniu podmiotowi kontrolowanemu protokołu kontroli;
 - **10)** podpisy kontrolującego i kierownika podmiotu kontrolowanego albo osoby przez niego upoważnionej oraz miejsce i datę podpisania protokołu kontroli;
-- **11)** wzmiankę o odmowie podpisania protokołu kontroli; w przypadku, gdy protokół zawiera informacje niejawne.
+- **11)** wzmiankę o odmowie podpisania protokołu kontroli;
+- **12)** oznaczenie odpowiednią klauzulą tajności protokołu kontroli lub jego fragmentu w przypadku, gdy protokół zawiera informacje niejawne.
 
 2. Do akt kontroli włącza się:
 
@@ -685,7 +763,7 @@ source: "isap-pdf"
 
 6. Odmowa podpisania protokołu kontroli nie stanowi przeszkody do podpisania go przez kontrolującego i realizacji ustaleń kontroli.
 
-**Art. 19f.** Ustalenia ujęte w protokole kontroli stanowią podstawę do podjęcia dalszych czynności, w tym dokonania ocen, sporządzenia wniosków, zaleceń pokontrolnych, wydania decyzji i sporządzenia informacji dla jednostek nadrzędnych, wykroczenia.
+**Art. 19f.** Ustalenia ujęte w protokole kontroli stanowią podstawę do podjęcia dalszych czynności, w tym dokonania ocen, sporządzenia wniosków, zaleceń pokontrolnych, wydania decyzji i sporządzenia informacji dla jednostek nadrzędnych, oraz do powiadomienia właściwego organu w przypadku popełnienia przestępstwa lub wykroczenia.
 
 **Art. 19g.** Kontrole na miejscu, o których mowa w art. 3 ust. 2 pkt 4 lit. c, przeprowadza się zgodnie z przepisami o wspieraniu rozwoju obszarów wiejskich oraz przepisami o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023– 2027.
 
@@ -707,7 +785,7 @@ source: "isap-pdf"
 - **1)** udostępniania pomieszczeń biurowych, laboratoryjnych, socjalnych i magazynowych;
 - **2)** odpowiedniego zabezpieczenia i wyposażenia stanowisk pracy dla przeprowadzających kontrolę.
 
-1a. W rzeźniach korzystających z krajowych środków dostosowujących, o których mowa w art. 13 ust. 3 rozporządzenia (WE) nr 852/2004 Parlamentu spożywczych lub w art. 10 ust. 3 rozporządzenia nr 853/2004, za pomieszczenia, o których mowa w ust. 1 pkt 1, uznaje się także wydzielone i odpowiednio wyposażone miejsce lub miejsca.
+1a. W rzeźniach korzystających z krajowych środków dostosowujących, o których mowa w art. 13 ust. 3 rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych lub w art. 10 ust. 3 rozporządzenia nr 853/2004, za pomieszczenia, o których mowa w ust. 1 pkt 1, uznaje się także wydzielone i odpowiednio wyposażone miejsce lub miejsca.
 
 2. Podmioty prowadzące działalność w zakresie produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych nieodpłatnie udostępniają organom Inspekcji Weterynaryjnej pomieszczenia w przypadku, o którym mowa w załączniku IV w rozdziale I w sekcji 1 w ust. 6 rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.).
 
@@ -723,7 +801,7 @@ source: "isap-pdf"
 
 **Art. 23.**
 
-1. Stwierdzenie albo wykluczenie choroby zakaźnej zwierzęcia, w tym choroby odzwierzęcej, wydanie oceny mięsa, oceny zdrowotnej jakości produktów pochodzenia zwierzęcego, żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, pochodzenia zwierzęcego, produktów pochodnych oraz pasz może być poprzedzone przeprowadzeniem badań laboratoryjnych.
+1. Stwierdzenie albo wykluczenie choroby zakaźnej zwierzęcia, w tym choroby odzwierzęcej, wydanie oceny mięsa, oceny zdrowotnej jakości produktów pochodzenia zwierzęcego, żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, niejadalnych produktów pochodzenia zwierzęcego, produktów ubocznych pochodzenia zwierzęcego, produktów pochodnych oraz pasz może być poprzedzone przeprowadzeniem badań laboratoryjnych.
 
 2. Badaniami laboratoryjnymi, w tym przeprowadzanymi w ramach monitorowania i badań kontrolnych, są objęte również szkodliwe dla ludzi i zwierząt czynniki biologiczne, chemiczne, fizyczne, odzwierzęce czynniki chorobotwórcze oraz związana z nimi oporność na środki przeciwdrobnoustrojowe, określone w prawodawstwie weterynaryjnym, a także w przepisach dotyczących pasz oraz bezpieczeństwa żywności i żywienia.
 
@@ -738,7 +816,9 @@ source: "isap-pdf"
 
 2. Pomieszczenie określone w ust. 1, w którym jest przeprowadzane badanie laboratoryjne mięsa na obecność włośni, zwane dalej „pracownią badania mięsa na obecność włośni”, powiatowy inspektorat weterynarii wyposaża w odczynniki i sprzęt niezbędny do prawidłowego przeprowadzenia tego badania, zapewniając ich stałą dostępność i przydatność zgodnie z rozporządzeniem wykonawczym Komisji (UE) 2015/1375 z dnia 10 sierpnia 2015 r. ustanawiającym szczególne przepisy dotyczące urzędowych kontroli w odniesieniu do włośni (Trichinella) w mięsie (Dz. Urz. UE L 212 z 11.08.2015, str. 7, z późn. zm. ).
 
-3. Kierownik zakładu higieny weterynaryjnej lub osoba przez niego upoważniona kontroluje, czy w pracowni badania mięsa na obecność włośni są spełniane wymagania w zakresie systemu zarządzania wskazanego w art. 37 ust. 4 lit. e rozporządzenia 2017/625. wymagań w zakresie systemu zarządzania wskazanego w art. 37 ust. 4 lit. e rozporządzenia 2017/625 w pracowni badania mięsa na obecność włośni przez:
+3. Kierownik zakładu higieny weterynaryjnej lub osoba przez niego upoważniona kontroluje, czy w pracowni badania mięsa na obecność włośni są spełniane wymagania w zakresie systemu zarządzania wskazanego w art. 37 ust. 4 lit. e rozporządzenia 2017/625.
+
+4. Kierownik zakładu higieny weterynaryjnej o stwierdzeniu naruszenia wymagań w zakresie systemu zarządzania wskazanego w art. 37 ust. 4 lit. e rozporządzenia 2017/625 w pracowni badania mięsa na obecność włośni przez:
 
 - **1)** osobę wyznaczoną na podstawie art. 16 lub art. 18,
 - **2)** pracownika Inspekcji – informuje powiatowego lekarza weterynarii i wojewódzkiego lekarza weterynarii.
@@ -759,7 +839,7 @@ source: "isap-pdf"
 - **2)** określenie rodzaju i zakresu przeprowadzanych badań lub wykonywanych czynności określonych w ust. 1;
 - **3)** określenie lokalizacji pomieszczenia, obiektu lub laboratorium, w których mają być przeprowadzane badania lub wykonywane czynności określone w ust. 1.
 
-4. Do wniosku, o którym mowa w ust. 2, dołącza się opinię o spełnianiu wymagań określonych w przepisach wydanych na podstawie art. 24c niezbędnych do kierunku badań laboratoryjnych, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego lub gdy wniosek dotyczy zatwierdzenia takiego krajowego laboratorium referencyjnego lub jego pomieszczenia lub obiektu – wydaną przez krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zwanego dalej „państwem członkowskim EFTA”, lub laboratorium referencyjne Unii Europejskiej.
+4. Do wniosku, o którym mowa w ust. 2, dołącza się opinię o spełnianiu wymagań określonych w przepisach wydanych na podstawie art. 24c niezbędnych do zatwierdzenia wydaną przez krajowe laboratorium referencyjne właściwe dla danego kierunku badań laboratoryjnych, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego lub gdy wniosek dotyczy zatwierdzenia takiego krajowego laboratorium referencyjnego lub jego pomieszczenia lub obiektu – wydaną przez krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zwanego dalej „państwem członkowskim EFTA”, lub laboratorium referencyjne Unii Europejskiej.
 
 5. Główny Lekarz Weterynarii przeprowadza kontrolę w pomieszczeniu, obiekcie lub laboratorium w terminie 30 dni od dnia otrzymania wniosku i opinii, o których mowa w ust. 2 i 4.
 
@@ -776,7 +856,9 @@ source: "isap-pdf"
 
 2. W przypadku niezastosowania się do nakazu, o którym mowa w ust. 1, Główny Lekarz Weterynarii cofa, w drodze decyzji, zatwierdzenie pomieszczenia, obiektu lub laboratorium.
 
-3. Decyzje, o których mowa w ust. 1 i 2, podlegają natychmiastowemu wykonaniu. przewidują obowiązek zatwierdzenia pomieszczeń, obiektów lub laboratoriów, o których mowa w art. 24a ust. 1, minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wymagania, jakie powinny spełniać te pomieszczenia, obiekty lub laboratoria, a także osoby przeprowadzające badania i wykonujące inne czynności określone w art. 24a ust. 1, mając na względzie zapewnienie bezpieczeństwa epizootycznego i ochrony zdrowia publicznego.
+3. Decyzje, o których mowa w ust. 1 i 2, podlegają natychmiastowemu wykonaniu.
+
+**Art. 24c.** Jeżeli przepisy Unii Europejskiej dotyczące zdrowia zwierząt przewidują obowiązek zatwierdzenia pomieszczeń, obiektów lub laboratoriów, o których mowa w art. 24a ust. 1, minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wymagania, jakie powinny spełniać te pomieszczenia, obiekty lub laboratoria, a także osoby przeprowadzające badania i wykonujące inne czynności określone w art. 24a ust. 1, mając na względzie zapewnienie bezpieczeństwa epizootycznego i ochrony zdrowia publicznego.
 
 **Art. 24d.**
 
@@ -801,7 +883,8 @@ source: "isap-pdf"
 3. Główny Lekarz Weterynarii jest właściwym organem w sprawach:
 
 - **1)** wyznaczenia laboratorium urzędowego w rozumieniu art. 37 rozporządzenia 2017/625 w odniesieniu do laboratoriów, o których mowa w ust. 2 pkt 1, i cofnięcia takiego wyznaczenia;
-- **2)** czasowego wyznaczenia laboratorium urzędowego w rozumieniu art. 42 rozporządzenia 2017/625 i cofnięcia takiego wyznaczenia; 2017/625;
+- **2)** czasowego wyznaczenia laboratorium urzędowego w rozumieniu art. 42 rozporządzenia 2017/625 i cofnięcia takiego wyznaczenia;
+- **3)** wyznaczenia laboratorium urzędowego zgodnie z art. 37 ust. 2 rozporządzenia 2017/625;
 - **4)** o których mowa w art. 38 ust. 3 i 4 rozporządzenia 2017/625.
 
 4. Główny Lekarz Weterynarii, wyznaczając laboratorium urzędowe, o którym mowa w ust. 2 pkt 1 lit. a, do przeprowadzenia badań laboratoryjnych mięsa na obecność włośni, wskazuje pracownię badania mięsa na obecność włośni, na podstawie informacji przekazanych przez powiatowego lekarza weterynarii za pośrednictwem wojewódzkiego lekarza weterynarii.
@@ -814,7 +897,7 @@ source: "isap-pdf"
 
 7. Laboratoria urzędowe, o których mowa w ust. 2 pkt 1 lit. a–c:
 
-- **1)** biorą udział w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych, o których mowa w art. 38 ust. 2 rozporządzenia 2017/625, przeprowadzanych przez właściwe dla danego kierunku badań krajowe laboratorium referencyjne, w terminach określonych w harmonogramie opracowanym przez krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego laboratorium referencyjnego – nie rzadziej niż raz na 4 lata w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych przeprowadzanych przez właściwe dla danego kierunku badań krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa laboratorium referencyjne Unii Europejskiej;
+- **1)** biorą udział w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych, o których mowa w art. 38 ust. 2 rozporządzenia 2017/625, przeprowadzanych przez właściwe dla danego kierunku badań krajowe laboratorium referencyjne, w terminach określonych w harmonogramie opracowanym przez krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego laboratorium referencyjnego – nie rzadziej niż raz na 4 lata w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych przeprowadzanych przez właściwe dla danego kierunku badań krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego EFTA lub laboratorium referencyjne Unii Europejskiej;
 - **2)** poddają się kontroli właściwego dla danego kierunku badań krajowego laboratorium referencyjnego, w tym kontroli niezapowiedzianej;
 - **3)** w terminie 6 miesięcy od dnia uzyskania w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych, o których mowa w pkt 1, wyniku niezgodnego z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziły te badania, lub wyniku wątpliwego podlegają ponownemu badaniu, będącemu badaniem biegłości lub międzylaboratoryjnym badaniem porównawczym, przeprowadzanemu przez właściwe dla danego kierunku badań krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – przez krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego EFTA lub laboratorium referencyjne Unii Europejskiej.
 
@@ -824,7 +907,7 @@ source: "isap-pdf"
 - **2)** laboratorium urzędowe, o którym mowa w ust. 2 pkt 1 lit. a–c:
     - **a)** dwukrotnie w kolejnych badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych nie uzyskało wyników zgodnych z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziły te badania, lub nie poddało się badaniu biegłości lub międzylaboratoryjnemu badaniu porównawczemu, o których mowa w ust. 7 pkt 1, lub ponownemu badaniu, o którym mowa w ust. 7 pkt 3, lub
     - **b)** uchyla się od poddania się kontroli, o której mowa w ust. 7 pkt 2, albo w wyniku takiej kontroli stwierdzono, że to laboratorium nie spełnia warunków niezbędnych do przeprowadzania badań, lub
-    - **c)** używa do diagnostyki in vitro wyrobów stosowanych w medycynie weterynaryjnej, które nie znajdują się w wykazie wyrobów do diagnostyki w art. 25h ust. 1, lub
+    - **c)** używa do diagnostyki in vitro wyrobów stosowanych w medycynie weterynaryjnej, które nie znajdują się w wykazie wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, o którym mowa w art. 25h ust. 1, lub
 
 - **3)** nie zostały podjęte działania naprawcze, o których mowa w art. 39 ust. 2 rozporządzenia 2017/625.
 
@@ -843,7 +926,7 @@ source: "isap-pdf"
     - **b)** zakresu akredytacji, zgodnego z kierunkiem badań określonym we wniosku;
 
 - **2)** opinię w sprawie spełniania przez laboratorium wymagań określonych w art. 37 ust. 4 rozporządzenia 2017/625, wydaną nie wcześniej niż w roku poprzedzającym rok złożenia tego wniosku, do której dołącza się raport krajowego laboratorium referencyjnego właściwego dla danego kierunku badań, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – laboratorium referencyjnego Unii Europejskiej znajdującego się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego EFTA;
-- **3)** kopię raportu z badań biegłości lub międzylaboratoryjnych badań porównawczych przeprowadzonych niewcześniej niż w roku poprzedzającym rok złożenia tego wniosku przez właściwe dla danego kierunku badań krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – przez krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej Europejskiej.
+- **3)** kopię raportu z badań biegłości lub międzylaboratoryjnych badań porównawczych przeprowadzonych niewcześniej niż w roku poprzedzającym rok złożenia tego wniosku przez właściwe dla danego kierunku badań krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – przez krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego EFTA lub laboratorium referencyjne Unii Europejskiej.
 
 3. Główny Lekarz Weterynarii zatwierdza, w drodze decyzji administracyjnej, laboratorium ubiegające się o status laboratorium zatwierdzonego do przeprowadzania badań laboratoryjnych w zakresie określonych kierunków i metod wskazanych we wniosku.
 
@@ -854,8 +937,9 @@ source: "isap-pdf"
 
 5. Laboratorium, które uzyskało status laboratorium, o którym mowa w ust. 1, w terminie 6 miesięcy od dnia uzyskania w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych, o których mowa w ust. 4 pkt 1, wyniku niezgodnego z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziło te badania, lub wyniku wątpliwego podlega ponownemu badaniu, będącemu badaniem biegłości lub międzylaboratoryjnym badaniem porównawczym, przeprowadzanemu przez właściwe dla danego kierunku badań krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – przez krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego EFTA lub laboratorium referencyjne Unii Europejskiej.
 
-6. Główny Lekarz Weterynarii, w drodze decyzji administracyjnej, cofa laboratorium zatwierdzenie do przeprowadzania badań laboratoryjnych w zakresie określonych kierunków i metod, jeżeli: rozporządzenia 2017/625, cofnęła lub zawiesiła posiadaną przez laboratorium akredytację lub
+6. Główny Lekarz Weterynarii, w drodze decyzji administracyjnej, cofa laboratorium zatwierdzenie do przeprowadzania badań laboratoryjnych w zakresie określonych kierunków i metod, jeżeli:
 
+- **1)** krajowa jednostka akredytująca, o której mowa w art. 37 ust. 4 lit. e rozporządzenia 2017/625, cofnęła lub zawiesiła posiadaną przez laboratorium akredytację lub
 - **2)** laboratorium: 25h ust. 1, lub o zdrowiu zwierząt (Dz. U. poz. 1795), lub
     - **a)** dwukrotnie w kolejnych badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych nie uzyskało wyników zgodnych z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziło te badania, lub nie poddało się badaniu biegłości lub międzylaboratoryjnemu badaniu porównawczemu, o których mowa w ust. 4 pkt 1, lub ponownemu badaniu, o którym mowa w ust. 5, lub
     - **b)** uchyla się od poddania się kontroli, o której mowa w ust. 4 pkt 2, albo w wyniku takiej kontroli stwierdzono, że laboratorium nie spełnia warunków niezbędnych do przeprowadzania badań, lub
@@ -867,7 +951,7 @@ source: "isap-pdf"
 
 7. Krajowe laboratorium referencyjne, jednostka akredytująca i powiatowy lekarz weterynarii niezwłocznie informują Głównego Lekarza Weterynarii o zaistnieniu przyczyn mogących stanowić podstawę do cofnięcia laboratorium zatwierdzenia.
 
-8. Jeżeli laboratorium urzędowe, o którym mowa w art. 25 ust. 2 pkt 1 lit. a–c, z przyczyn finansowych lub organizacyjnych nie jest w stanie przeprowadzić badań laboratoryjnych w zakresie określonym w art. 25 ust. 1, Główny Lekarz Weterynarii urzędowe, o którym mowa w art. 25 ust. 2 pkt 1 lit. d.
+8. Jeżeli laboratorium urzędowe, o którym mowa w art. 25 ust. 2 pkt 1 lit. a–c, z przyczyn finansowych lub organizacyjnych nie jest w stanie przeprowadzić badań laboratoryjnych w zakresie określonym w art. 25 ust. 1, Główny Lekarz Weterynarii może wyznaczyć, na czas określony, do przeprowadzania tych badań laboratorium urzędowe, o którym mowa w art. 25 ust. 2 pkt 1 lit. d.
 
 9. Główny Lekarz Weterynarii, dokonując wyznaczenia, o którym mowa w ust. 8, określa:
 
@@ -892,8 +976,9 @@ source: "isap-pdf"
 
 2. Krajowe laboratorium referencyjne właściwe dla danego kierunku badań sprawuje nadzór nad laboratoriami urzędowymi w zakresie prawidłowości wykonywania przez nie badań, przeprowadzając kontrolę, w szczególności sprzętu i odczynników stosowanych do tych badań, udziału w badaniach porównawczych oraz wyboru metod do akredytacji. Kontrolę przeprowadza się nie rzadziej niż raz na 3 lata, również na wniosek Głównego Lekarza Weterynarii.
 
-2a. Audyt laboratorium urzędowego, o którym mowa w art. 39 rozporządzenia 2017/625, przeprowadza: referencyjnym właściwym dla danego kierunku badań;
+2a. Audyt laboratorium urzędowego, o którym mowa w art. 39 rozporządzenia 2017/625, przeprowadza:
 
+- **1)** Główny Lekarz Weterynarii we współpracy z krajowym laboratorium referencyjnym właściwym dla danego kierunku badań;
 - **2)** krajowe laboratorium referencyjne właściwe dla danego kierunku badań, na wniosek Głównego Lekarza Weterynarii.
 
 3. Krajowe laboratoria referencyjne corocznie, do dnia 15 stycznia, przekazują Głównemu Lekarzowi Weterynarii informacje o przeprowadzonych kontrolach.
@@ -917,6 +1002,7 @@ source: "isap-pdf"
 
 1. Dane dotyczące wyników przeprowadzonych badań laboratoryjnych w zakresie określonym w art. 23 są gromadzone i przetwarzane przy użyciu systemu teleinformatycznego obejmującego:
 
+- **1)** centralną bazę danych prowadzoną przez krajowe laboratoria referencyjne;
 - **2)** lokalne bazy danych prowadzone w zakładach higieny weterynaryjnej przeprowadzających badania laboratoryjne dla celów kontroli urzędowych.
 
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowe warunki i tryb gromadzenia, przetwarzania oraz przekazywania danych dotyczących wyników przeprowadzonych badań laboratoryjnych, a także sposób prowadzenia baz danych określonych w ust. 1, mając na względzie zapewnienie efektywnej kontroli stanu bezpieczeństwa produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, oraz stanu zdrowia zwierząt, a także szybkiego przepływu informacji dotyczących wyników tych badań.
@@ -937,8 +1023,9 @@ source: "isap-pdf"
 
 1. Wpisu do rejestru, o którym mowa w art. 25e ust. 1, dokonuje Główny Lekarz Weterynarii na wniosek złożony na piśmie przez kierownika laboratorium.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera: wnioskodawcy;
+2. Wniosek, o którym mowa w ust. 1, zawiera:
 
+- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
 - **2)** określenie rodzaju i kierunku przeprowadzanych badań laboratoryjnych oraz metod ich przeprowadzania;
 - **3)** określenie lokalizacji laboratorium, w którym mają być przeprowadzane badania laboratoryjne.
 
@@ -951,7 +1038,7 @@ source: "isap-pdf"
 
 5. Główny Lekarz Weterynarii odmawia, w drodze decyzji administracyjnej, wpisu laboratorium do rejestru, jeżeli nie uzyskało ono w badaniach, o których mowa w ust. 3 lub ust. 4 pkt 2, wyniku zgodnego z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziło te badania.
 
-6. Laboratorium wpisane do rejestru bierze udział w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych przeprowadzanych przez krajowe laboratorium referencyjne właściwe dla danego kierunku badań laboratoryjnych, w terminach określonych w harmonogramie opracowanym przez to krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego laboratorium referencyjnego – nie rzadziej niż raz na 4 lata w badaniach biegłości przeprowadzanych przez właściwe dla danego kierunku badań laboratoryjnych krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa laboratorium referencyjne Unii Europejskiej.
+6. Laboratorium wpisane do rejestru bierze udział w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych przeprowadzanych przez krajowe laboratorium referencyjne właściwe dla danego kierunku badań laboratoryjnych, w terminach określonych w harmonogramie opracowanym przez to krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego laboratorium referencyjnego – nie rzadziej niż raz na 4 lata w badaniach biegłości przeprowadzanych przez właściwe dla danego kierunku badań laboratoryjnych krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego EFTA lub laboratorium referencyjne Unii Europejskiej.
 
 7. Laboratorium wpisane do rejestru w terminie 6 miesięcy od dnia uzyskania w badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych, o których mowa w ust. 6, wyniku niezgodnego z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziły te badania, lub wyniku wątpliwego podlega ponownemu badaniu, będącemu badaniem biegłości lub międzylaboratoryjnym badaniem porównawczym, przeprowadzanemu przez właściwe dla danego kierunku badań laboratoryjnych krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – przez krajowe laboratorium referencyjne znajdujące się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego EFTA lub laboratorium referencyjne Unii Europejskiej.
 
@@ -960,9 +1047,10 @@ source: "isap-pdf"
 8. Główny Lekarz Weterynarii skreśla, w drodze decyzji administracyjnej, laboratorium z rejestru, jeżeli:
 
 - **1)** jednostka akredytująca cofnęła lub zawiesiła posiadaną przez laboratorium akredytację w przypadku, o którym mowa w ust. 4, lub
-- **2)** laboratorium: o zdrowiu zwierząt, lub kontroli stwierdzono, że laboratorium nie spełnia warunków niezbędnych do przeprowadzenia badań.
+- **2)** laboratorium: o zdrowiu zwierząt, lub
     - **a)** nie poddało się badaniom, o których mowa w ust. 6 lub 7, lub dwukrotnie w kolejnych badaniach biegłości lub międzylaboratoryjnych badaniach porównawczych nie uzyskało wyników zgodnych z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziło te badania, lub
     - **b)** nie przekazało powiatowemu lekarzowi weterynarii właściwemu ze względu na lokalizację laboratorium oraz powiatowemu lekarzowi weterynarii właściwemu ze względu na miejsce pobrania próbki informacji, o których mowa w art. 11 ust. 2 ustawy z dnia 21 listopada 2025 r.
+    - **c)** nie poddało się kontroli, o której mowa w ust. 7a, albo w wyniku takiej kontroli stwierdzono, że laboratorium nie spełnia warunków niezbędnych do przeprowadzenia badań.
 
 9. Krajowe laboratorium referencyjne, jednostka akredytująca i powiatowy lekarz weterynarii niezwłocznie informują Głównego Lekarza Weterynarii o zaistnieniu przyczyn, o których mowa w ust. 8, mogących stanowić podstawę do wykreślenia laboratorium z rejestru.
 
@@ -980,7 +1068,9 @@ source: "isap-pdf"
 
 **Art. 25h.**
 
-1. Do obrotu lub do używania może być wprowadzony wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej, który uzyskał pozytywną opinię Państwowego Instytutu Weterynaryjnego – Państwowego Instytutu Badawczego i został wpisany do wykazu wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, który prowadzi Główny Lekarz Weterynarii. opinie o:
+1. Do obrotu lub do używania może być wprowadzony wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej, który uzyskał pozytywną opinię Państwowego Instytutu Weterynaryjnego – Państwowego Instytutu Badawczego i został wpisany do wykazu wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, który prowadzi Główny Lekarz Weterynarii.
+
+2. Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy wydaje opinie o:
 
 - **1)** wyrobie do diagnostyki in vitro stosowanym w medycynie weterynaryjnej, który ma być wprowadzony do obrotu – na wniosek wytwórcy lub dystrybutora;
 - **2)** przedłużeniu ważności wpisu wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej do wykazu wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, o którym mowa w ust. 1 – na wniosek wytwórcy lub dystrybutora;
@@ -999,8 +1089,9 @@ source: "isap-pdf"
 - **3)** nazwę techniczno-medyczną wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej;
 - **4)** przeznaczenie wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej i ograniczenia dotyczące jego używania.
 
-5. Do wniosków, o których mowa w ust. 2, dołącza się: diagnostyki in vitro stosowanego w medycynie weterynaryjnej, z uwzględnieniem wyników jego badań walidacyjnych, sporządzoną przez jego wytwórcę;
+5. Do wniosków, o których mowa w ust. 2, dołącza się:
 
+- **1)** dokumentację dotyczącą sposobu i metodyki przeprowadzania badań wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej, z uwzględnieniem wyników jego badań walidacyjnych, sporządzoną przez jego wytwórcę;
 - **2)** wzór opakowania wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej i wzór ulotki dołączanej do wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej, który został sporządzony w języku polskim, lub tłumaczenie na język polski wzoru tej ulotki;
 - **3)** egzemplarz wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej – w przypadku, o którym mowa w ust. 2 pkt 1.
 
@@ -1021,7 +1112,7 @@ source: "isap-pdf"
 
 10. Za wydanie opinii, o których mowa w ust. 2, i przeprowadzenie badań egzemplarza wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej są pobierane opłaty, które stanowią dochód Państwowego Instytutu Weterynaryjnego – Państwowego Instytutu Badawczego.
 
-11. Główny Lekarz Weterynarii po otrzymaniu informacji, że wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej utracił parametry w okresie obowiązywania opinii, o której mowa w ust. 1, i dokumentacji Weterynaryjnego – Państwowego Instytutu Badawczego o wstępną ocenę tej dokumentacji, aby ustalić, czy wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej wymaga ponownego uzyskania tej opinii.
+11. Główny Lekarz Weterynarii po otrzymaniu informacji, że wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej utracił parametry w okresie obowiązywania opinii, o której mowa w ust. 1, i dokumentacji potwierdzającej tę informację, może zwrócić się do Państwowego Instytutu Weterynaryjnego – Państwowego Instytutu Badawczego o wstępną ocenę tej dokumentacji, aby ustalić, czy wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej wymaga ponownego uzyskania tej opinii.
 
 12. Na podstawie wstępnej oceny, o której mowa w ust. 11, Główny Lekarz Weterynarii może wezwać wytwórcę lub dystrybutora do ponownego uzyskania opinii, o której mowa w tym przepisie, w terminie 120 dni od dnia doręczenia tego wezwania.
 
@@ -1038,7 +1129,8 @@ source: "isap-pdf"
 4. Główny Lekarz Weterynarii skreśla wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej z wykazu wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej, o którym mowa w art. 25h ust. 1, jeżeli:
 
 - **1)** upłynął termin, na jaki zostały wydane opinie, o których mowa w art. 25h ust. 2;
-- **2)** wytwórca zmienił parametry wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej bez uzyskania opinii, o której mowa w art. 25h ust. 2 pkt 3; w art. 25h ust. 1, w wyznaczonym terminie – w przypadku, o którym mowa w art. 25h ust. 12;
+- **2)** wytwórca zmienił parametry wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej bez uzyskania opinii, o której mowa w art. 25h ust. 2 pkt 3;
+- **3)** wytwórca lub dystrybutor nie uzyskali ponownie opinii, o której mowa w art. 25h ust. 1, w wyznaczonym terminie – w przypadku, o którym mowa w art. 25h ust. 12;
 - **4)** wytwórca lub dystrybutor złożyli do Głównego Lekarza Weterynarii wniosek o skreślenie wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej z tego wykazu.
 
 **Art. 25j.** Minister właściwy do spraw rolnictwa na wniosek Głównego Lekarza Weterynarii może, w drodze decyzji, zezwolić na wprowadzenie do używania wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej, który nie spełnia wymagań, o których mowa w art. 25h ust. 1 i 2, jeżeli jego zastosowanie jest konieczne z uwagi na ważny interes publiczny lub jest niezbędne do ratowania życia lub zdrowia zwierząt.
@@ -1053,7 +1145,8 @@ source: "isap-pdf"
 
 - **1)** bydła (Bos taurus, Bos indicus, Bison bison, Bison bonasus i Bubalus bubalis), świń, owiec, kóz, królików i dzików, wolno żyjących (dzikich) przeżuwaczy, koniowatych, drobiu w rozumieniu art. 4 pkt 9 rozporządzenia 2016/429, a także zajęczaków i ptaków niebędących ptakami bezgrzebieniowymi, zaliczanych do zwierząt łownych lub zwierząt dzikich utrzymywanych w warunkach fermowych w rozumieniu ust. 1.5 lub 1.6 załącznika I do rozporządzenia nr 853/2004 – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części I w lit. a;
 - **2)** zwierząt innych niż określone w pkt 1 – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części I w lit. b;
-- **3)** mięsa, z wyłączeniem mięsa, o którym mowa w pkt 5 – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części II; 853/2004 – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części III;
+- **3)** mięsa, z wyłączeniem mięsa, o którym mowa w pkt 5 – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części II;
+- **4)** produktów rybołówstwa w rozumieniu ust. 3.1 załącznika I do rozporządzenia nr 853/2004 – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części III;
 - **5)** produktów mięsnych w rozumieniu ust. 7.1 załącznika I do rozporządzenia nr 853/2004, mięsa pozyskanego z drobiu w rozumieniu ust. 1.3 załącznika I do rozporządzenia nr 853/2004, mięsa króliczego, mięsa pozyskanego ze zwierząt łownych w rozumieniu ust. 1.5 załącznika I do rozporządzenia nr 853/2004 i mięsa pozyskanego ze zwierząt dzikich utrzymywanych w warunkach fermowych w rozumieniu ust. 1.6 załącznika I do rozporządzenia nr 853/2004 – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części IV;
 - **6)** produktów pochodzenia zwierzęcego innych niż określone w pkt 3–5 – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części V;
 - **7)** produktów ubocznych pochodzenia zwierzęcego i pasz – w wysokości stanowiącej równowartość w złotych kwot przewidzianych w rozporządzeniu 2017/625 w załączniku IV w rozdziale I w części VI;
@@ -1066,7 +1159,7 @@ source: "isap-pdf"
 1. Inspekcja pobiera opłaty w wysokości ustalonej zgodnie z przepisami wydanymi na podstawie art. 34 ust. 1, z tym że w przypadkach, w których mają zastosowanie podwyżki albo obniżki opłat przewidziane odpowiednio w ust. 5 i art. 32 ust. 1–5 – po zastosowaniu takich podwyżek albo obniżek – za:
 
 - **1)** kontrolę zwierząt i produktów przeznaczonych do wywozu, przemieszczania lub przemieszczania w celach niehandlowych albo umieszczenia na rynku krajowym, jeżeli przepisy odrębne wymagają zaopatrzenia ich w dokument wystawiony przez urzędowego lekarza weterynarii;
-- **2)** przeprowadzanie kontroli urzędowych i wykonywanie innych czynności urzędowych w przypadkach, o których mowa w art. 47 ust. 1 lit. a, b oraz d–f i art. 65 ust. 2 rozporządzenia 2017/625, dotyczących przesyłek innych niż wydanych na podstawie art. 48 lit. b rozporządzenia 2017/625;
+- **2)** przeprowadzanie kontroli urzędowych i wykonywanie innych czynności urzędowych w przypadkach, o których mowa w art. 47 ust. 1 lit. a, b oraz d–f i art. 65 ust. 2 rozporządzenia 2017/625, dotyczących przesyłek innych niż określone w art. 30 ust. 1 oraz w przypadku zwierząt określonych w przepisach wydanych na podstawie art. 48 lit. b rozporządzenia 2017/625;
 - **3)** nadzór nad przeprowadzeniem uboju zwierząt gospodarskich kopytnych, drobiu, zajęczaków i zwierząt dzikich utrzymywanych w warunkach fermowych, o których mowa w ust. 1.2–1.4 i 1.6 załącznika I do rozporządzenia nr 853/2004;
 - **4)** oględziny tusz zwierząt łownych, o których mowa w ust. 1.5 załącznika I do rozporządzenia nr 853/2004, wraz z ewentualnym badaniem narządów wewnętrznych i badaniem na obecność włośni;
 - **5)** badanie mięsa zwierząt łownych, o których mowa w ust. 1.5 załącznika I do rozporządzenia nr 853/2004;
@@ -1081,7 +1174,7 @@ source: "isap-pdf"
     - **h)** obrotem zwierzętami, pośrednictwem w tym obrocie i przewozem zwierząt, miejscami gromadzenia, skupu lub sprzedaży zwierząt, punktami kontroli, targowiskami, a także wystawami, pokazami lub konkursami zwierząt,
     - **i)** wyładowywaniem albo pierwszą sprzedażą produktów rybołówstwa ze statków rybackich,
     - **j)** obróbką, przetwórstwem ryb, skorupiaków, mięczaków, żab lub produktów pochodzących z ryb, skorupiaków, mięczaków i żab oraz wyładowywaniem produktów rybołówstwa ze statków przetwórni,
-    - **k)** przechowywaniem mięsa, mięsa mielonego, surowych wyrobów mięsnych, mięsa oddzielonego mechanicznie, produktów mięsnych, produktów mlecznych, jaj konsumpcyjnych, produktów jajecznych, ryb, skorupiaków, mięczaków i żab,
+    - **k)** przechowywaniem mięsa, mięsa mielonego, surowych wyrobów mięsnych, mięsa oddzielonego mechanicznie, produktów mięsnych, produktów mlecznych, jaj konsumpcyjnych, produktów jajecznych, ryb, skorupiaków, mięczaków, żab oraz produktów pochodzących z ryb, skorupiaków, mięczaków i żab,
     - **l)** działalnością związaną ze sprzedażą bezpośrednią,
     - **m)** wytwarzaniem, wprowadzaniem do obrotu i transportem pasz i pasz leczniczych przeznaczonych do obrotu oraz warunkami przechowywania lub sprzedaży tych pasz,
     - **n)** prowadzeniem działalności marginalnej, lokalnej i ograniczonej,
@@ -1094,12 +1187,13 @@ source: "isap-pdf"
     - **u)** produkcją żelatyny i kolagenu;
 
 - **7)** kontrolę statków rybackich, w tym statków chłodni, statków zamrażalni i statków przetwórni;
-- **8)** złożenie wniosku o:
+- **8)** złożenie wniosku o: U. z 2023 r. poz. 1149),
     - **a)** wydanie decyzji, o której mowa w art. 25a ust. 3,
     - **b)** wydanie zatwierdzenia, o którym mowa w art. 15 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580),
     - **c)** którym mowa w art. 19 ust. 1 pkt 1 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego,
     - **d)** zatwierdzenie zakładu, o którym mowa w art. 21 ust. 1 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego,
-    - **e)** nadanie zakładowi uprawnienia, o którym mowa w art. 21a ust. 1 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego, U. z 2023 r. poz. 1149),
+    - **e)** nadanie zakładowi uprawnienia, o którym mowa w art. 21a ust. 1 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego,
+    - **f)** którym mowa w art. 20 ust. 2 ustawy z dnia 22 lipca 2006 r. o paszach (Dz.
     - **g)** wydanie pozwolenia weterynaryjnego na przywóz przesyłki zwierząt lub produktów, jeżeli przepisy odrębne przewidują obowiązek uzyskania takiego pozwolenia,
     - **h)** wydanie świadectwa zatwierdzenia środka transportu przeznaczonego do długotrwałego transportu zwierząt;
 
@@ -1121,7 +1215,9 @@ source: "isap-pdf"
 
 2. Opłaty, o których mowa w ust. 1 pkt 1, 3–5 i pkt 6 lit. a–k oraz m, obejmują także wystawianie wymaganych dokumentów.
 
-3. Opłaty, o których mowa w ust. 1 pkt 3–5, obejmują także nadzór nad warunkami przechowywania tusz i mięsa. przypadku gdy w tej rzeźni dokonano uśmiercenia zwierząt albo przeprowadzono badanie poubojowe.
+3. Opłaty, o których mowa w ust. 1 pkt 3–5, obejmują także nadzór nad warunkami przechowywania tusz i mięsa.
+
+4. Opłatę, o której mowa w ust. 1 pkt 3, ponosi podmiot prowadzący rzeźnię – w przypadku gdy w tej rzeźni dokonano uśmiercenia zwierząt albo przeprowadzono badanie poubojowe.
 
 5. Opłaty, o których mowa w ust. 1 pkt 7, związane z kontrolą statków rybackich, w tym statków chłodni, statków zamrażalni i statków przetwórni, przeprowadzaną za granicą podwyższa się o koszty przemieszczenia się na dany statek i powrotu z tego statku.
 
@@ -1139,7 +1235,7 @@ source: "isap-pdf"
 
 4. Opłaty za nadzór, o którym mowa w art. 31 ust. 1 pkt 6 lit. a–c, sprawowany w zakładzie, w którym jest prowadzona wyłącznie działalność w zakresie produkcji mięsa bez kości, mięsa z kością, mięsa mielonego lub surowych wyrobów mięsnych, jeżeli w tym zakładzie w poprzednim roku kalendarzowym w tygodniu średnio wyprodukowano nie więcej niż 5 ton mięsa bez kości lub równoważną ilość mięsa z kością lub nie więcej niż 7,5 tony łącznie mięsa mielonego i surowych wyrobów mięsnych, pobiera się w wysokości obniżonej o 75%, jednak nie niższej niż 40 zł.
 
-5. Opłaty za nadzór, o którym mowa w art. 31 ust. 1 pkt 6 lit. a–e oraz j, sprawowany w zakładzie, w którym jest prowadzona produkcja wyłącznie gwarantowanych tradycyjnych specjalności wpisanych do rejestru, o którym mowa w art. 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków wpisanych na listę, o której mowa w art. 46 ust. 1 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), pobiera się w wysokości obniżonej o 75%, jednak nie niższej niż 40 zł.
+5. Opłaty za nadzór, o którym mowa w art. 31 ust. 1 pkt 6 lit. a–e oraz j, sprawowany w zakładzie, w którym jest prowadzona produkcja wyłącznie gwarantowanych tradycyjnych specjalności wpisanych do rejestru, o którym mowa w art. 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, z późn. zm. ), lub produktów wpisanych na listę, o której mowa w art. 46 ust. 1 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), pobiera się w wysokości obniżonej o 75%, jednak nie niższej niż 40 zł.
 
 6. Jednostka przeliczeniowa, o której mowa w ust. 3 pkt 1, oznacza:
 
@@ -1155,9 +1251,27 @@ source: "isap-pdf"
 
 **Art. 33.** Opłaty, o których mowa w art. 30 ust. 1 i art. 31 ust. 1, są uiszczane:
 
+- **1)** gotówką w miejscu i czasie wykonywania czynności będących przedmiotem opłaty, z wyłączeniem opłat określonych w art. 31 ust. 1 pkt 3 i pkt 6 lit. a, albo
+- **2)** przelewem na rachunek bankowy inspektoratu kierowanego przez organ Inspekcji, w imieniu którego czynności będące przedmiotem opłaty zostały wykonane, w terminie 14 dni od dnia wykonania tych czynności, a opłaty, o których mowa w art. 31 ust. 1 pkt 3 i pkt 6 lit. a, za czynności wykonane w danym miesiącu kalendarzowym – w terminie 14 dni od ostatniego dnia tego miesiąca.
+
+**Art. 34.**
+
+1. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, stawki opłat, o których mowa w art. 31 ust. 1, nie wyższe jednak niż 10 000 zł, mając na względzie zapewnienie, aby kwota pobieranej opłaty odpowiadała średnim kosztom ponoszonym przez Inspekcję na wykonanie czynności, za które jest pobierana dana opłata, a w przypadku opłat określonych w art. 31 ust. 1 pkt 6 lit. l, n oraz p – aby kwota pobieranej opłaty odpowiadała 25% średnich kosztów czynności wymienionych w tych przepisach, a także aby wysokość tych kwot nie była niższa niż 40 zł.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw rolnictwa:
+
+- **1)** uwzględnia jako koszty ponoszone przez Inspekcję koszty określone w art. 81 rozporządzenia 2017/625, a w odniesieniu do czynności innych niż kontrole urzędowe określone w tym przepisie – koszty wykonywania takich czynności odpowiadające kategoriom kosztów określonym w art. 81 rozporządzenia 2017/625;
+- **2)** może zróżnicować wysokość stawek opłat w ramach poszczególnych rodzajów czynności określonych w art. 31 ust. 1, mając na względzie zapewnienie, aby kwota opłaty odpowiadała średnim kosztom ponoszonym przez Inspekcję na wykonanie czynności, za które jest pobierana dana opłata;
+- **3)** uwzględnia wpływ, jaki na koszty ponoszone przez Inspekcję mają rodzaj i rozmiar działalności oraz czynniki ryzyka, o których mowa w art. 82 ust. 1 lit. a rozporządzenia 2017/625.
+
 **Art. 34a.** Główny Lekarz Weterynarii:
 
-**Art. 34b.** Wojewódzkie inspektoraty weterynarii mogą pozyskiwać środki finansowe z tytułu sprzedaży usług zleconych, zwłaszcza w zakresie badań laboratoryjnych przeprowadzanych w celu zapewnienia ochrony zdrowia publicznego. pieniężne z tytułu sprzedaży usług zleconych, o których mowa w art. 34b, stanowią dochód budżetu państwa.
+- **1)** udostępnia na stronie internetowej administrowanej przez urząd obsługujący ten organ w terminie do dnia 30 czerwca za poprzedni rok informacje, o których mowa w art. 85 ust. 2 rozporządzenia 2017/625, dotyczące organów, o których mowa w art. 5 ust. 1;
+- **2)** przeprowadza konsultacje, o których mowa w art. 85 ust. 3 rozporządzenia 2017/625.
+
+**Art. 34b.** Wojewódzkie inspektoraty weterynarii mogą pozyskiwać środki finansowe z tytułu sprzedaży usług zleconych, zwłaszcza w zakresie badań laboratoryjnych przeprowadzanych w celu zapewnienia ochrony zdrowia publicznego.
+
+**Art. 34c.** Opłaty, o których mowa w art. 30 ust. 1 i art. 31 ust. 1, oraz świadczenia pieniężne z tytułu sprzedaży usług zleconych, o których mowa w art. 34b, stanowią dochód budżetu państwa.
 
 **Art. 34d.** Do należności pieniężnych z tytułu opłat, o których mowa w art. 30 ust. 1 i art. 31 ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
@@ -1186,8 +1300,9 @@ source: "isap-pdf"
 
 **Art. 37.**
 
-1. Kto: w art. 5 ust. 2,
+1. Kto:
 
+- **1)** udaremnia lub utrudnia działalność organów Inspekcji lub osób, o których mowa w art. 5 ust. 2,
 - **2)** będąc obowiązanym do złożenia oświadczenia, o którym mowa w art. 16 ust. 2c lub 5b, nie składa takiego oświadczenia – podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 2. Kto:
@@ -1200,7 +1315,9 @@ source: "isap-pdf"
 
 3. Orzekanie w sprawach o czyny określone w ust. 1 i 2 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
-**Art. 37a.** Kto, przywożąc lub dokonując tranzytu przesyłki zwierząt albo towarów, nie przedstawia takiej przesyłki do kontroli urzędowej lub w celu wykonania innych czynności urzędowych w punkcie kontroli granicznej zgodnie z art. 47 ust. 5 rozporządzenia 2017/625 lub w uznanych składach zgodnie z art. 27 ust. 1 rozporządzenia 2019/2124, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. czynnikiem chorobotwórczym, jego materiałem genetycznym, antygenami lub szczepionkami wytwarzanymi z antygenów w celach badawczym, diagnostycznym lub wytwórczym – bez zatwierdzenia, o którym mowa w art. 24a, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 37a.** Kto, przywożąc lub dokonując tranzytu przesyłki zwierząt albo towarów, nie przedstawia takiej przesyłki do kontroli urzędowej lub w celu wykonania innych czynności urzędowych w punkcie kontroli granicznej zgodnie z art. 47 ust. 5 rozporządzenia 2017/625 lub w uznanych składach zgodnie z art. 27 ust. 1 rozporządzenia 2019/2124, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+**Art. 37b.** Kto przeprowadza badania lub wykonuje inne czynności z żywym czynnikiem chorobotwórczym, jego materiałem genetycznym, antygenami lub szczepionkami wytwarzanymi z antygenów w celach badawczym, diagnostycznym lub wytwórczym – bez zatwierdzenia, o którym mowa w art. 24a, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
@@ -1222,11 +1339,15 @@ source: "isap-pdf"
 
 3. Pracownicy zatrudnieni w granicznych inspektoratach weterynarii, o których mowa w art. 40, będących oddziałami wojewódzkich inspektoratów weterynarii stają się, z dniem wejścia w życie ustawy, pracownikami granicznych inspektoratów weterynarii w rozumieniu ustawy. Przepisy art. 23 Kodeksu pracy stosuje się.
 
-4. Mienie granicznych inspektoratów weterynarii, o których mowa w art. 40, będących oddziałami wojewódzkich inspektoratów weterynarii staje się, z dniem w rozumieniu ustawy.
+4. Mienie granicznych inspektoratów weterynarii, o których mowa w art. 40, będących oddziałami wojewódzkich inspektoratów weterynarii staje się, z dniem wejścia w życie ustawy, mieniem granicznych inspektoratów weterynarii w rozumieniu ustawy.
 
 5. Wierzytelności i zobowiązania granicznych inspektoratów weterynarii, o których mowa w art. 40, będących oddziałami wojewódzkich inspektoratów weterynarii stają się, z dniem wejścia w życie ustawy, wierzytelnościami i zobowiązaniami granicznych inspektoratów weterynarii w rozumieniu ustawy.
 
 **Art. 42.** Prezes Rady Ministrów, w drodze rozporządzenia, dokona przeniesień dochodów i wydatków budżetowych, w tym na wynagrodzenia, oraz limitów zatrudnienia, przeznaczonych na utrzymanie granicznych inspektoratów weterynarii, z budżetów właściwych wojewodów do części, której dysponentem jest minister właściwy do spraw rolnictwa.
 
 **Art. 43.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem:
+
+- **1)** art. 40, art. 41 ust. 2–5 i art. 42, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 12 ust. 5, który wchodzi w życie z dniem 1 stycznia 2005 r.
+
 

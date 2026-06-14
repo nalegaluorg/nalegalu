@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 sierpnia 2001 r - Kodeks postępowania w sprawach o wykroczenia.*
 
-Łącznie: **1752** orzeczeń w **411** artykułach
-(pominięto 7666 orzeczeń sądów rejonowych)
+Łącznie: **1757** orzeczeń w **411** artykułach
+(pominięto 7693 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -22,15 +22,15 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 3 | 31 | 0 | 0 | 31 | 0 | 0 | [art-3.csv](orzecznictwo/art-3.csv) |
 | art. 4 | 35 | 10 | 1 | 24 | 4 | 7 | [art-4.csv](orzecznictwo/art-4.csv) |
 | art. 4 § 1 | 7 | 1 | 0 | 6 | 0 | 1 | [art-4-par-1.csv](orzecznictwo/art-4-par-1.csv) |
-| art. 5 | 296 | 1 | 27 | 268 | 0 | 1 | [art-5.csv](orzecznictwo/art-5.csv) |
-| art. 5 § 1 | 348 | 48 | 33 | 267 | 52 | 3 | [art-5-par-1.csv](orzecznictwo/art-5-par-1.csv) |
+| art. 5 | 297 | 1 | 27 | 269 | 0 | 1 | [art-5.csv](orzecznictwo/art-5.csv) |
+| art. 5 § 1 | 349 | 48 | 33 | 268 | 52 | 3 | [art-5-par-1.csv](orzecznictwo/art-5-par-1.csv) |
 | art. 5 § 2 | 2 | 0 | 1 | 1 | 0 | 0 | [art-5-par-2.csv](orzecznictwo/art-5-par-2.csv) |
 | art. 5 § 14 | 1 | 1 | 0 | 0 | 1 | 0 | [art-5-par-14.csv](orzecznictwo/art-5-par-14.csv) |
 | art. 6 | 1 | 0 | 1 | 0 | 0 | 0 | [art-6.csv](orzecznictwo/art-6.csv) |
 | art. 6 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-6-par-1.csv](orzecznictwo/art-6-par-1.csv) |
 | art. 7 | 7 | 0 | 1 | 6 | 0 | 0 | [art-7.csv](orzecznictwo/art-7.csv) |
 | art. 7 § 2 | 2 | 0 | 0 | 2 | 0 | 0 | [art-7-par-2.csv](orzecznictwo/art-7-par-2.csv) |
-| art. 8 | 422 | 14 | 4 | 404 | 8 | 7 | [art-8.csv](orzecznictwo/art-8.csv) |
+| art. 8 | 424 | 14 | 4 | 406 | 8 | 7 | [art-8.csv](orzecznictwo/art-8.csv) |
 | art. 8 § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-8-par-1.csv](orzecznictwo/art-8-par-1.csv) |
 | art. 9 | 16 | 1 | 2 | 13 | 0 | 1 | [art-9.csv](orzecznictwo/art-9.csv) |
 | art. 9 § 1 | 2 | 0 | 0 | 2 | 0 | 0 | [art-9-par-1.csv](orzecznictwo/art-9-par-1.csv) |
@@ -104,7 +104,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 33 | 14 | 2 | 0 | 12 | 1 | 1 | [art-33.csv](orzecznictwo/art-33.csv) |
 | art. 33 § 2 | 1 | 0 | 0 | 1 | 0 | 0 | [art-33-par-2.csv](orzecznictwo/art-33-par-2.csv) |
 | art. 33 § 5 | 1 | 0 | 0 | 1 | 0 | 0 | [art-33-par-5.csv](orzecznictwo/art-33-par-5.csv) |
-| art. 34 | 30 | 0 | 0 | 30 | 0 | 0 | [art-34.csv](orzecznictwo/art-34.csv) |
+| art. 34 | 31 | 0 | 0 | 31 | 0 | 0 | [art-34.csv](orzecznictwo/art-34.csv) |
 | art. 35 | 3 | 0 | 0 | 3 | 0 | 0 | [art-35.csv](orzecznictwo/art-35.csv) |
 | art. 35 § 1 | 3 | 1 | 0 | 2 | 1 | 0 | [art-35-par-1.csv](orzecznictwo/art-35-par-1.csv) |
 | art. 35 § 2 | 1 | 0 | 0 | 1 | 0 | 0 | [art-35-par-2.csv](orzecznictwo/art-35-par-2.csv) |
@@ -132,8 +132,8 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 41 | 27 | 3 | 1 | 23 | 0 | 3 | [art-41.csv](orzecznictwo/art-41.csv) |
 | art. 41 § 1 | 31 | 9 | 1 | 21 | 1 | 8 | [art-41-par-1.csv](orzecznictwo/art-41-par-1.csv) |
 | art. 41 § 3 | 1 | 1 | 0 | 0 | 1 | 0 | [art-41-par-3.csv](orzecznictwo/art-41-par-3.csv) |
-| art. 42 | 35 | 0 | 1 | 34 | 0 | 0 | [art-42.csv](orzecznictwo/art-42.csv) |
-| art. 42 § 1 | 29 | 0 | 1 | 28 | 0 | 0 | [art-42-par-1.csv](orzecznictwo/art-42-par-1.csv) |
+| art. 42 | 36 | 0 | 1 | 35 | 0 | 0 | [art-42.csv](orzecznictwo/art-42.csv) |
+| art. 42 § 1 | 30 | 0 | 1 | 29 | 0 | 0 | [art-42-par-1.csv](orzecznictwo/art-42-par-1.csv) |
 | art. 42 § 2 | 3 | 2 | 0 | 1 | 1 | 1 | [art-42-par-2.csv](orzecznictwo/art-42-par-2.csv) |
 | art. 43 | 5 | 0 | 0 | 5 | 0 | 0 | [art-43.csv](orzecznictwo/art-43.csv) |
 | art. 43(1) | 1 | 0 | 0 | 1 | 0 | 0 | [art-431.csv](orzecznictwo/art-431.csv) |
@@ -350,17 +350,17 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 117 § 1 | 4 | 0 | 0 | 4 | 0 | 0 | [art-117-par-1.csv](orzecznictwo/art-117-par-1.csv) |
 | art. 117 § 2 | 2 | 0 | 0 | 2 | 0 | 0 | [art-117-par-2.csv](orzecznictwo/art-117-par-2.csv) |
 | art. 117 § 14 | 1 | 0 | 0 | 1 | 0 | 0 | [art-117-par-14.csv](orzecznictwo/art-117-par-14.csv) |
-| art. 118 | 567 | 2 | 3 | 562 | 3 | 0 | [art-118.csv](orzecznictwo/art-118.csv) |
-| art. 118 § 1 | 388 | 8 | 0 | 380 | 8 | 0 | [art-118-par-1.csv](orzecznictwo/art-118-par-1.csv) |
+| art. 118 | 568 | 2 | 3 | 563 | 3 | 0 | [art-118.csv](orzecznictwo/art-118.csv) |
+| art. 118 § 1 | 389 | 8 | 0 | 381 | 8 | 0 | [art-118-par-1.csv](orzecznictwo/art-118-par-1.csv) |
 | art. 118 § 2 | 218 | 20 | 3 | 195 | 20 | 1 | [art-118-par-2.csv](orzecznictwo/art-118-par-2.csv) |
 | art. 118 § 3 | 75 | 2 | 0 | 73 | 2 | 0 | [art-118-par-3.csv](orzecznictwo/art-118-par-3.csv) |
 | art. 118 § 4 | 57 | 1 | 0 | 56 | 1 | 0 | [art-118-par-4.csv](orzecznictwo/art-118-par-4.csv) |
 | art. 118 § 119 | 2 | 0 | 0 | 2 | 0 | 0 | [art-118-par-119.csv](orzecznictwo/art-118-par-119.csv) |
-| art. 119 | 604 | 20 | 10 | 574 | 21 | 1 | [art-119.csv](orzecznictwo/art-119.csv) |
-| art. 119 § 1 | 174 | 0 | 6 | 168 | 0 | 0 | [art-119-par-1.csv](orzecznictwo/art-119-par-1.csv) |
-| art. 119 § 2 | 43 | 0 | 0 | 43 | 0 | 0 | [art-119-par-2.csv](orzecznictwo/art-119-par-2.csv) |
+| art. 119 | 607 | 20 | 10 | 577 | 21 | 1 | [art-119.csv](orzecznictwo/art-119.csv) |
+| art. 119 § 1 | 177 | 0 | 6 | 171 | 0 | 0 | [art-119-par-1.csv](orzecznictwo/art-119-par-1.csv) |
+| art. 119 § 2 | 44 | 0 | 0 | 44 | 0 | 0 | [art-119-par-2.csv](orzecznictwo/art-119-par-2.csv) |
 | art. 119 § 4 | 1 | 0 | 0 | 1 | 0 | 0 | [art-119-par-4.csv](orzecznictwo/art-119-par-4.csv) |
-| art. 121 | 89 | 0 | 1 | 88 | 0 | 0 | [art-121.csv](orzecznictwo/art-121.csv) |
+| art. 121 | 90 | 0 | 1 | 89 | 0 | 0 | [art-121.csv](orzecznictwo/art-121.csv) |
 | art. 121 § 1 | 70 | 0 | 0 | 70 | 0 | 0 | [art-121-par-1.csv](orzecznictwo/art-121-par-1.csv) |
 | art. 121 § 2 | 7 | 0 | 1 | 6 | 0 | 0 | [art-121-par-2.csv](orzecznictwo/art-121-par-2.csv) |
 | art. 122 | 6 | 0 | 2 | 4 | 0 | 0 | [art-122.csv](orzecznictwo/art-122.csv) |
@@ -422,7 +422,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | § 2 | 14 | 3 | 2 | 9 | 1 | 2 | [par-2.csv](orzecznictwo/par-2.csv) |
 | § 3 | 10 | 3 | 1 | 6 | 0 | 3 | [par-3.csv](orzecznictwo/par-3.csv) |
 | § 4 | 6 | 1 | 0 | 5 | 0 | 1 | [par-4.csv](orzecznictwo/par-4.csv) |
-| (ogólnie) | 127 | 0 | 87 | 40 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
+| (ogólnie) | 128 | 0 | 87 | 41 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
 
 ## Najważniejsze orzeczenia
 

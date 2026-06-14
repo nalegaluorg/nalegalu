@@ -8,12 +8,10 @@ pos: 310
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 lutego 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -79,17 +77,17 @@ Art. 50–63. (pominięte)
 
 2. Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb współdziałania, o którym mowa w ust. 1, uwzględniając konieczność zapewnienia właściwej ochrony zdrowia funkcjonariuszy oraz charakter i specyfikę środowiska służby.
 
-**Art. 4.** W zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+**Art. 4.** W zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 **Art. 4a.**
 
-1. Organy administracji publicznej w rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, pracodawcy oraz organy emerytalne i rentowe są obowiązane udzielać komisjom lekarskim pomocy i informacji, w tym udostępniać dane osobowe, w związku z orzecznictwem lekarskim oraz wydawać bezpłatnie, na ich żądanie, wszelkie dokumenty, w tym zaświadczenia, niezbędne do wydania orzeczenia lekarskiego.
+1. Organy administracji publicznej w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, pracodawcy oraz organy emerytalne i rentowe są obowiązane udzielać komisjom lekarskim pomocy i informacji, w tym udostępniać dane osobowe, w związku z orzecznictwem lekarskim oraz wydawać bezpłatnie, na ich żądanie, wszelkie dokumenty, w tym zaświadczenia, niezbędne do wydania orzeczenia lekarskiego.
 
 2. Komisje lekarskie są uprawnione do bezpłatnego pozyskiwania drogą elektroniczną informacji niezbędnych do wydania orzeczenia od organów emerytalnych lub rentowych oraz z rejestrów publicznych, w szczególności z:
 
 - **1)** rejestru PESEL,
 - **2)** Systemu Informacji Medycznej i innych rejestrów, o których mowa w przepisach o systemie informacji w ochronie zdrowia,
-- **3)** Centralnego Wykazu Ubezpieczonych w celu potwierdzenia aktualności posiadanych danych, pozyskania danych kontaktowych lub umożliwienia wydania orzeczenia.
+- **3)** Centralnego Wykazu Ubezpieczonych – w celu potwierdzenia aktualności posiadanych danych, pozyskania danych kontaktowych lub umożliwienia wydania orzeczenia.
 
 3. W przypadku awarii systemów teleinformatycznych służących do pozyskiwania informacji drogą elektroniczną zgodnie z ust. 2 komisje lekarskie uzyskują te informacje w drodze pisemnej wymiany informacji.
 
@@ -101,8 +99,8 @@ Art. 50–63. (pominięte)
 
 1. Zdolność fizyczną i psychiczną kandydata do służby w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Ochrony Państwa, Centralnym Biurze Antykorupcyjnym i Służbie Więziennej ustala się przez zaliczenie go do jednej z następujących kategorii zdolności do służby:
 
-- **1)** kategoria Z „zdolny”, która oznacza, że jego stan zdrowia nie budzi żadnych zastrzeżeń albo że stwierdzone choroby lub ułomności nie stanowią przeszkody do pełnienia służby;
-- **2)** kategoria N „niezdolny”, która oznacza, że stwierdzone choroby lub ułomności uniemożliwiają mu pełnienie służby.
+- **1)** kategoria Z – „zdolny”, która oznacza, że jego stan zdrowia nie budzi żadnych zastrzeżeń albo że stwierdzone choroby lub ułomności nie stanowią przeszkody do pełnienia służby;
+- **2)** kategoria N – „niezdolny”, która oznacza, że stwierdzone choroby lub ułomności uniemożliwiają mu pełnienie służby.
 
 2. Przepis ust. 1 dotyczy także funkcjonariusza Policji, Państwowej Straży Pożarnej, Służby Ochrony Państwa i Służby Więziennej, który odbył służbę kandydacką i chce pozostać w służbie.
 
@@ -116,9 +114,9 @@ Art. 50–63. (pominięte)
 
 1. Zdolność fizyczną i psychiczną funkcjonariusza do pełnienia służby w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Ochrony Państwa, Centralnym Biurze Antykorupcyjnym i Służbie Więziennej ustala się przez zaliczenie go do jednej z następujących kategorii zdolności do służby:
 
-- **1)** kategoria A „zdolny do służby”, która oznacza, że jego stan zdrowia nie budzi żadnych zastrzeżeń albo że stwierdzone choroby lub ułomności nie stanowią przeszkody do pełnienia służby;
-- **2)** kategoria B „zdolny do służby z ograniczeniem”, która oznacza, że stwierdzono choroby lub ułomności, które zmniejszają jego sprawność fizyczną lub psychiczną, mogąc mieć wpływ na jego zdolność do pełnienia służby na zajmowanym stanowisku;
-- **3)** kategoria C „niezdolny do służby”, która oznacza, że stwierdzono choroby lub ułomności, które uniemożliwiają pełnienie służby.
+- **1)** kategoria A – „zdolny do służby”, która oznacza, że jego stan zdrowia nie budzi żadnych zastrzeżeń albo że stwierdzone choroby lub ułomności nie stanowią przeszkody do pełnienia służby;
+- **2)** kategoria B – „zdolny do służby z ograniczeniem”, która oznacza, że stwierdzono choroby lub ułomności, które zmniejszają jego sprawność fizyczną lub psychiczną, mogąc mieć wpływ na jego zdolność do pełnienia służby na zajmowanym stanowisku;
+- **3)** kategoria C – „niezdolny do służby”, która oznacza, że stwierdzono choroby lub ułomności, które uniemożliwiają pełnienie służby.
 
 2. Orzeczenie o zdolności fizycznej i psychicznej do służby, oprócz jednej z kategorii zdolności do służby wymienionych w ust. 1, zawiera jedno z następujących określeń:
 
@@ -131,6 +129,10 @@ Art. 50–63. (pominięte)
 3. W przypadku orzeczenia, które zawiera określenie wskazane w ust. 2 pkt 3, komisja lekarska wyznacza termin kolejnego badania w celu wydania ostatecznego orzeczenia o zdolności do pełnienia służby funkcjonariusza na zajmowanym stanowisku.
 
 **Art. 7.** W stosunku do kandydatów do Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” oraz samodzielnego pododdziału kontrterrorystycznego Policji lub w stosunku do funkcjonariuszy pełniących służbę w tych pododdziałach orzeczenie komisji lekarskiej zawiera również jedno z następujących określeń:
+
+- **1)** zdolny do służby w pododdziale;
+- **2)** czasowo niezdolny do służby w pododdziale;
+- **3)** niezdolny do służby w pododdziale.
 
 **Art. 8.**
 
@@ -168,6 +170,16 @@ Art. 50–63. (pominięte)
 
 **Art. 12.** Komisja lekarska w szczególności:
 
+- **1)** stwierdza, czy nastąpiło stałe lub długotrwałe naruszenie sprawności organizmu, oraz ustala datę powstania inwalidztwa;
+- **2)** określa grupę inwalidzką, do której funkcjonariusz zostaje zaliczony;
+- **3)** ustala, czy istnieje konieczność stałej opieki osoby drugiej przy wykonywaniu podstawowych czynności życiowych;
+- **4)** ustala, czy inwalidztwo powstało wskutek wypadku pozostającego w związku z pełnieniem służby lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby;
+- **5)** ustala, czy inwalidztwo pozostaje w związku ze służbą;
+- **6)** ustala, czy istnieje związek śmierci ze służbą;
+- **7)** stwierdza, czy istnieje zdolność do pracy;
+- **8)** ustala wskazania i przeciwwskazania dotyczące zatrudnienia funkcjonariusza niezdolnego do służby;
+- **9)** ustala termin badania kontrolnego.
+
 #### Rozdział 4 Kontrola prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby oraz prawidłowości wykorzystania zwolnienia lekarskiego
 
 **Art. 13.**
@@ -184,8 +196,8 @@ Art. 50–63. (pominięte)
 
 6. W przypadku, o którym mowa w:
 
-- **1)** ust. 4 komisja lekarska orzeka o zdolności funkcjonariusza do służby;
-- **2)** ust. 5 komisja lekarska wydaje orzeczenie, które jest traktowane na równi z orzeczeniem o zdolności funkcjonariusza do służby.
+- **1)** ust. 4 – komisja lekarska orzeka o zdolności funkcjonariusza do służby;
+- **2)** ust. 5 – komisja lekarska wydaje orzeczenie, które jest traktowane na równi z orzeczeniem o zdolności funkcjonariusza do służby.
 
 7. Komisja lekarska o wydanym orzeczeniu informuje lekarza wystawiającego zaświadczenie lekarskie, funkcjonariusza oraz jego przełożonego właściwego w sprawach osobowych.
 
@@ -217,12 +229,15 @@ Art. 50–63. (pominięte)
 
 **Art. 16.** Komisje lekarskie orzekają w dwóch instancjach:
 
+- **1)** w pierwszej instancji – rejonowe komisje lekarskie;
+- **2)** w drugiej instancji – Centralna Komisja Lekarska.
+
 **Art. 17.**
 
 1. Właściwość miejscowa rejonowych komisji lekarskich w zakresie orzekania w sprawach, o których mowa w art. 1 ust. 1, jest określana dla:
 
-- **1)** funkcjonariuszy zgodnie z miejscem pełnienia służby;
-- **2)** pozostałych osób zgodnie z miejscem ich zamieszkania.
+- **1)** funkcjonariuszy – zgodnie z miejscem pełnienia służby;
+- **2)** pozostałych osób – zgodnie z miejscem ich zamieszkania.
 
 2. Na uzasadniony wniosek podmiotu kierującego do komisji lekarskiej lub osoby ubiegającej się o wydanie orzeczenia lekarskiego Centralna Komisja Lekarska może wyrazić zgodę na zmianę właściwości orzekania.
 
@@ -259,11 +274,11 @@ Art. 50–63. (pominięte)
 
 **Art. 21.**
 
-1. Nadzór nad działalnością komisji lekarskich sprawuje minister właściwy do spraw wewnętrznych, z tym że w zakresie nadzoru nad rejonowymi komisjami lekarskimi za pośrednictwem przewodniczącego Centralnej Komisji Lekarskiej.
+1. Nadzór nad działalnością komisji lekarskich sprawuje minister właściwy do spraw wewnętrznych, z tym że w zakresie nadzoru nad rejonowymi komisjami lekarskimi – za pośrednictwem przewodniczącego Centralnej Komisji Lekarskiej.
 
 2. Nadzór, o którym mowa w ust. 1, polega w szczególności na:
 
-- **1)** zapewnianiu prawidłowości i jednolitości stosowania zasad orzecznictwa przez lekarzy członków komisji lekarskich;
+- **1)** zapewnianiu prawidłowości i jednolitości stosowania zasad orzecznictwa przez lekarzy – członków komisji lekarskich;
 - **2)** koordynowaniu systemu orzecznictwa, w tym udzielaniu komisjom lekarskim wytycznych w zakresie stosowania zasad orzecznictwa i organizowaniu szkoleń.
 
 **Art. 22.**
@@ -280,7 +295,7 @@ Art. 50–63. (pominięte)
 
 3. Z osobami wchodzącymi w skład komisji lekarskich, o ile nie są zatrudnione lub oddelegowane do jednostki organizacyjnej, o której mowa w art. 22 ust. 1, mogą być zawierane umowy na świadczenie usług w zakresie orzekania.
 
-**Art. 24.** Kierownik jednostki organizacyjnej, o której mowa w art. 22 ust. 1, w celu realizacji zadań komisji lekarskiej zawiera, z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), umowy o udzielanie świadczeń zdrowotnych oraz o świadczenie usług psychologicznych dla komisji lekarskich, z podmiotami leczniczymi tworzonymi i nadzorowanymi przez ministra właściwego do spraw wewnętrznych. W przypadku gdy udzielanie określonych świadczeń zdrowotnych lub świadczenie usług psychologicznych w podmiotach, o których mowa w zdaniu pierwszym nie jest możliwe, mogą być one zlecane innym podmiotom.
+**Art. 24.** Kierownik jednostki organizacyjnej, o której mowa w art. 22 ust. 1, w celu realizacji zadań komisji lekarskiej zawiera, z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), umowy o udzielanie świadczeń zdrowotnych oraz o świadczenie usług psychologicznych dla komisji lekarskich, z podmiotami leczniczymi tworzonymi i nadzorowanymi przez ministra właściwego do spraw wewnętrznych. W przypadku gdy udzielanie określonych świadczeń zdrowotnych lub świadczenie usług psychologicznych w podmiotach, o których mowa w zdaniu pierwszym nie jest możliwe, mogą być one zlecane innym podmiotom.
 
 ### DZIAŁ IV Tryb postępowania komisji lekarskich
 
@@ -310,21 +325,21 @@ Art. 50–63. (pominięte)
 
 1. Do komisji lekarskiej kieruje:
 
-- **1)** kandydatów do służby w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej lub Służbie Ochrony Państwa kierownik komórki organizacyjnej właściwej w sprawach osobowych danej służby;
-- **2)** funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej lub Państwowej Straży Pożarnej przełożony właściwy w sprawach osobowych;
-- **3)** funkcjonariuszy Służby Ochrony Państwa Komendant Służby Ochrony Państwa;
-- **4)** kandydatów do służby w Centralnym Biurze Antykorupcyjnym i funkcjonariuszy Centralnego Biura Antykorupcyjnego kierownik jednostki organizacyjnej Centralnego Biura Antykorupcyjnego właściwej w sprawach osobowych;
-- **5)** kandydatów do służby w Służbie Więziennej i funkcjonariuszy Służby Więziennej kierownik jednostki organizacyjnej Służby Więziennej;
+- **1)** kandydatów do służby w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej lub Służbie Ochrony Państwa – kierownik komórki organizacyjnej właściwej w sprawach osobowych danej służby;
+- **2)** funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej lub Państwowej Straży Pożarnej – przełożony właściwy w sprawach osobowych;
+- **3)** funkcjonariuszy Służby Ochrony Państwa – Komendant Służby Ochrony Państwa;
+- **4)** kandydatów do służby w Centralnym Biurze Antykorupcyjnym i funkcjonariuszy Centralnego Biura Antykorupcyjnego – kierownik jednostki organizacyjnej Centralnego Biura Antykorupcyjnego właściwej w sprawach osobowych;
+- **5)** kandydatów do służby w Służbie Więziennej i funkcjonariuszy Służby Więziennej – kierownik jednostki organizacyjnej Służby Więziennej;
 - **6)** (uchylony)
-- **7)** osoby, o których mowa w art. 2 ust. 2 pkt 2 kierownik komórki organizacyjnej właściwej w sprawach osobowych danej służby;
-- **8)** osoby, o których mowa w art. 2 ust. 2 pkt 3 kierownik komórki organizacyjnej Państwowej Straży Pożarnej.
+- **7)** osoby, o których mowa w art. 2 ust. 2 pkt 2 – kierownik komórki organizacyjnej właściwej w sprawach osobowych danej służby;
+- **8)** osoby, o których mowa w art. 2 ust. 2 pkt 3 – kierownik komórki organizacyjnej Państwowej Straży Pożarnej.
 
 2. Do komisji lekarskich kieruje:
 
-- **1)** Szefa Centralnego Biura Antykorupcyjnego i jego zastępców Prezes Rady Ministrów;
-- **2)** Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej, Komendanta Służby Ochrony Państwa i ich zastępców minister właściwy do spraw wewnętrznych;
-- **3)** Dyrektora Generalnego Służby Więziennej Minister Sprawiedliwości;
-- **4)** Komendanta Straży Marszałkowskiej i jego zastępców Szef Kancelarii Sejmu.
+- **1)** Szefa Centralnego Biura Antykorupcyjnego i jego zastępców – Prezes Rady Ministrów;
+- **2)** Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej, Komendanta Służby Ochrony Państwa i ich zastępców – minister właściwy do spraw wewnętrznych;
+- **3)** Dyrektora Generalnego Służby Więziennej – Minister Sprawiedliwości;
+- **4)** Komendanta Straży Marszałkowskiej i jego zastępców – Szef Kancelarii Sejmu.
 
 **Art. 27.**
 
@@ -397,11 +412,11 @@ Art. 50–63. (pominięte)
 
 3. Rejonowe komisje lekarskie orzekają, posługując się również:
 
-- **1)** w przypadku ustalania zdolności fizycznej lub psychicznej do służby wykazem chorób i ułomności, na podstawie którego jest wydawane orzeczenie o stanie zdrowia osoby badanej;
-- **2)** w przypadku ustalenia stopnia uszczerbku na zdrowiu funkcjonariusza Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Ochrony Państwa i Centralnego Biura Antykorupcyjnego doznanego wskutek wypadku lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby, z tytułu których przysługuje świadczenie odszkodowawcze, oraz w przypadku ustalenia stopnia uszczerbku na zdrowiu osób, o których mowa w art. 2 ust. 1 pkt 3 oraz ust. 2 pkt 2 odpowiednio wykazami chorób pozostających w związku z pełnieniem służby w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Ochrony Państwa i w Centralnym Biurze Antykorupcyjnym oraz wykazami norm oceny procentowej uszczerbku na zdrowiu;
-- **3)** w przypadku ustalenia stopnia uszczerbku na zdrowiu funkcjonariusza Służby Więziennej doznanego wskutek wypadku lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby, z tytułu których przysługuje świadczenie odszkodowawcze, oraz w przypadku ustalenia stopnia uszczerbku na zdrowiu osób, o których mowa w art. 2 ust. 1 pkt 3 wykazem chorób pozostających w związku z pełnieniem służby w Służbie Więziennej oraz wykazem norm oceny procentowej uszczerbku na zdrowiu;
-- **4)** w przypadku uznania funkcjonariusza za inwalidę oraz uznania go za niezdolnego do samodzielnej egzystencji w rozumieniu przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin odpowiednio wykazami chorób powstałych w czasie pełnienia służby wydanymi na podstawie tych przepisów;
-- **5)** w przypadku osób, o których mowa w art. 2 ust. 2 pkt 3 odpowiednio wykazem chorób powstałych w czasie pełnienia służby w Państwowej Straży Pożarnej oraz wykazem norm oceny procentowej uszczerbku na zdrowiu.
+- **1)** w przypadku ustalania zdolności fizycznej lub psychicznej do służby – wykazem chorób i ułomności, na podstawie którego jest wydawane orzeczenie o stanie zdrowia osoby badanej;
+- **2)** w przypadku ustalenia stopnia uszczerbku na zdrowiu funkcjonariusza Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Ochrony Państwa i Centralnego Biura Antykorupcyjnego doznanego wskutek wypadku lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby, z tytułu których przysługuje świadczenie odszkodowawcze, oraz w przypadku ustalenia stopnia uszczerbku na zdrowiu osób, o których mowa w art. 2 ust. 1 pkt 3 oraz ust. 2 pkt 2 – odpowiednio wykazami chorób pozostających w związku z pełnieniem służby w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Ochrony Państwa i w Centralnym Biurze Antykorupcyjnym oraz wykazami norm oceny procentowej uszczerbku na zdrowiu;
+- **3)** w przypadku ustalenia stopnia uszczerbku na zdrowiu funkcjonariusza Służby Więziennej doznanego wskutek wypadku lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby, z tytułu których przysługuje świadczenie odszkodowawcze, oraz w przypadku ustalenia stopnia uszczerbku na zdrowiu osób, o których mowa w art. 2 ust. 1 pkt 3 – wykazem chorób pozostających w związku z pełnieniem służby w Służbie Więziennej oraz wykazem norm oceny procentowej uszczerbku na zdrowiu;
+- **4)** w przypadku uznania funkcjonariusza za inwalidę oraz uznania go za niezdolnego do samodzielnej egzystencji w rozumieniu przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin – odpowiednio wykazami chorób powstałych w czasie pełnienia służby wydanymi na podstawie tych przepisów;
+- **5)** w przypadku osób, o których mowa w art. 2 ust. 2 pkt 3 – odpowiednio wykazem chorób powstałych w czasie pełnienia służby w Państwowej Straży Pożarnej oraz wykazem norm oceny procentowej uszczerbku na zdrowiu.
 
 **Art. 34.** Rejonowa komisja lekarska, zaliczając funkcjonariusza Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Centralnego Biura Antykorupcyjnego i Służby Więziennej do jednej z kategorii zdolności do służby, bierze pod uwagę charakter i warunki służby na zajmowanym przez funkcjonariusza stanowisku oraz kryteria zdrowotne.
 
@@ -452,7 +467,7 @@ Art. 50–63. (pominięte)
 - **3)** związek śmierci ze służbą,
 - **4)** trwały uszczerbek na zdrowiu na skutek wypadku lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby,
 - **5)** całkowitą niezdolność do pracy,
-- **6)** trwałą niezdolność do wykonywania pracy na zajmowanym stanowisku uzasadnia się szczegółowo.
+- **6)** trwałą niezdolność do wykonywania pracy na zajmowanym stanowisku – uzasadnia się szczegółowo.
 
 **Art. 40.**
 
@@ -471,7 +486,7 @@ Art. 50–63. (pominięte)
 
 **Art. 41.**
 
-1. Orzeczenie rejonowej komisji lekarskiej doręcza się niezwłocznie na piśmie wraz z uzasadnieniem osobie badanej albo osobie zainteresowanej oraz podmiotowi kierującemu do komisji lekarskiej, a w razie wypadku lub choroby pozostających w związku ze szczególnymi warunkami lub właściwościami służby organowi właściwemu do ustalania prawa do świadczenia odszkodowawczego przysługującego w razie wypadku lub choroby pozostających w związku ze służbą.
+1. Orzeczenie rejonowej komisji lekarskiej doręcza się niezwłocznie na piśmie wraz z uzasadnieniem osobie badanej albo osobie zainteresowanej oraz podmiotowi kierującemu do komisji lekarskiej, a w razie wypadku lub choroby pozostających w związku ze szczególnymi warunkami lub właściwościami służby – organowi właściwemu do ustalania prawa do świadczenia odszkodowawczego przysługującego w razie wypadku lub choroby pozostających w związku ze służbą.
 
 2. Egzemplarz orzeczenia pozostawia się w aktach rejonowej komisji lekarskiej.
 
@@ -533,6 +548,24 @@ Art. 50–63. (pominięte)
 
 **Art. 64.** Dotychczas stosowane kategorie zdrowia określające stopień zdolności fizycznej i psychicznej do służby ulegają zmianie:
 
+- **1)** w stosunku do funkcjonariuszy pełniących służbę w Biurze Ochrony Rządu:
+    - **a)** kategoria „Z” staje się kategorią „A”,
+    - **b)** kategoria „C” staje się kategorią „B”,
+    - **c)** kategoria „N” staje się kategorią „C”,
+
+- **2)** w Centralnym Biurze Antykorupcyjnym:
+    - **a)** kategoria „Z” z oznaczeniem „A” staje się kategorią „Z” w stosunku do kandydatów i kategorią „A” w stosunku do funkcjonariuszy,
+    - **b)** kategoria „Z” z oznaczeniem „C” staje się kategorią „B” w stosunku do funkcjonariuszy,
+    - **c)** kategoria „N” z oznaczeniem „D” staje się kategorią „N” w stosunku do kandydatów i kategorią „C” w stosunku do funkcjonariuszy,
+
+- **3)** w stosunku do funkcjonariuszy pełniących służbę w Służbie Więziennej, Policji, Straży Granicznej oraz Państwowej Straży Pożarnej:
+    - **a)** kategoria „C” staje się kategorią „B”,
+    - **b)** kategoria „D” staje się kategorią „C”,
+
+- **4)** w stosunku do kandydatów do pracy w wyodrębnionych komórkach organizacyjnych kontroli skarbowej, inspektorów i pracowników zatrudnionych w tych komórkach oraz kandydatów do pracy w wywiadzie skarbowym, a także pracowników wywiadu skarbowego:
+    - **a)** kategoria „C” staje się kategorią „B”,
+    - **b)** kategoria „D” staje się kategorią „C” – w rozumieniu przepisów niniejszej ustawy.
+
 **Art. 65.**
 
 1. Z dniem wejścia w życie niniejszej ustawy znosi się komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych, powołane na podstawie dotychczasowych przepisów, z wyjątkiem Centralnej Komisji Lekarskiej, okręgowych komisji lekarskich oraz wojewódzkich komisji lekarskich, które znosi się z dniem 30 czerwca 2015 r.
@@ -572,6 +605,10 @@ Art. 50–63. (pominięte)
 4. Sprawy, o których mowa w ust. 1 i 3, w tym zebrana w toku postępowań dokumentacja, również wytworzona w formie elektronicznej, zostaną przekazane komisjom lekarskim utworzonym na podstawie niniejszej ustawy zgodnie z właściwością określoną w przepisach wydanych na podstawie art. 19 ust. 3 albo Centralnej Komisji Lekarskiej w terminie do dnia 30 września 2015 r.
 
 **Art. 69.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 29 ust. 7 ustawy zmienianej w art. 58 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 29 ust. 7 ustawy zmienianej w art. 58 , w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 4 ust. 5 ustawy zmienianej w art. 61 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 5 ustawy zmienianej w art. 61 , w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 110 ust. 2, art. 118 ust. 19 i art. 205 ustawy zmienianej w art. 63 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 110 ust. 2, art. 118 ust. 19 i art. 205 ustawy zmienianej w art. 63 , w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 #### Rozdział 2 Przepis końcowy
 

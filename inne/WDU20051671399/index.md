@@ -8,7 +8,7 @@ pos: 1399
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych
@@ -33,7 +33,33 @@ Art. 52–58. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady oraz warunki prowadzenia i finansowania lecznictwa uzdrowiskowego;
+- **2)** kierunki lecznicze uzdrowisk;
+- **3)** zasady sprawowania nadzoru nad lecznictwem uzdrowiskowym;
+- **4)** zasady nadawania obszarowi statusu uzdrowiska albo statusu obszaru ochrony uzdrowiskowej;
+- **5)** zasady pozbawiania obszaru statusu uzdrowiska albo statusu obszaru ochrony uzdrowiskowej;
+- **6)** zadania gmin uzdrowiskowych.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** lecznictwo uzdrowiskowe – zorganizowaną działalność polegającą na udzielaniu świadczeń opieki zdrowotnej z zakresu leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej, prowadzoną w uzdrowisku przez zakłady lecznictwa uzdrowiskowego albo poza uzdrowiskiem w szpitalach i sanatoriach znajdujących się w urządzonych podziemnych wyrobiskach górniczych, przy wykorzystaniu warunków naturalnych, takich jak:
+    - **a)** właściwości naturalnych surowców leczniczych,
+    - **b)** właściwości lecznicze klimatu, w tym talassoterapia i subterraneoterapia, oraz właściwości lecznicze mikroklimatu – a także towarzyszące zabiegi z zakresu fizjoterapii;
+
+- **1a)** rehabilitacja uzdrowiskowa – zorganizowaną działalność prowadzoną w uzdrowisku przez zakłady lecznictwa uzdrowiskowego, mającą na celu przywrócenie pacjentowi zdrowia lub możliwej do osiągnięcia dla danego stanu samodzielności ruchowej i społecznej, przy wykorzystaniu naturalnych surowców leczniczych;
+- **2)** gmina uzdrowiskowa – gminę, której obszarowi lub jego części został nadany status uzdrowiska w trybie określonym w ustawie;
+- **3)** uzdrowisko – obszar, na terenie którego prowadzone jest lecznictwo uzdrowiskowe, wydzielony w celu wykorzystania i ochrony znajdujących się na jego obszarze naturalnych surowców leczniczych, spełniający warunki, o których mowa w art. 34 ust. 1, któremu został nadany status uzdrowiska;
+- **4)** obszar ochrony uzdrowiskowej – obszar spełniający warunki, o których mowa w art. 34 ust. 1 pkt 1, 2, 4 i 5, któremu został nadany status obszaru ochrony uzdrowiskowej;
+- **5)** operat uzdrowiskowy – dokument zawierający charakterystykę wyodrębnionego obszaru pod względem możliwości uznania go za uzdrowisko albo obszar ochrony uzdrowiskowej, ze szczególnym uwzględnieniem dostępnych na tym obszarze naturalnych surowców leczniczych i klimatu;
+- **6)** strefy ochrony uzdrowiskowej – części obszaru uzdrowiska albo obszaru ochrony uzdrowiskowej, określone w statucie uzdrowiska, wydzielone w celu ochrony czynników leczniczych i naturalnych surowców leczniczych, walorów środowiska i urządzeń uzdrowiskowych;
+- **7)** urządzenia lecznictwa uzdrowiskowego – urządzenia służące do leczniczego wykorzystania naturalnych surowców leczniczych oraz właściwości leczniczych klimatu;
+- **8)** naturalne surowce lecznicze – gazy lecznicze oraz kopaliny lecznicze, w tym wody lecznicze i peloidy, których właściwości lecznicze zostały potwierdzone na zasadach określonych w ustawie;
+- **9)** właściwości lecznicze klimatu – czynniki atmosferyczne sprzyjające zachowaniu zdrowia, leczeniu lub łagodzeniu skutków lub objawów chorób;
+- **10)** zakład lecznictwa uzdrowiskowego – zakład leczniczy, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju ambulatoryjne lub stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej, działający na obszarze uzdrowiska, utworzony w celu udzielania świadczeń zdrowotnych z zakresu lecznictwa uzdrowiskowego albo rehabilitacji uzdrowiskowej, w ramach kierunków leczniczych i przeciwwskazań ustalonych dla danego uzdrowiska, w szczególności wykorzystujących warunki naturalne uzdrowiska przy udzielaniu świadczeń zdrowotnych;
+- **11)** tereny zieleni – powierzchnie gruntu pokryte roślinnością trwałą lub sezonową;
+- **12)** tereny biologicznie czynne – tereny z nawierzchnią ziemną urządzoną w sposób zapewniający naturalną wegetację, w szczególności jako trawniki lub kwietniki, a także stanowiące 50 % sumy powierzchni tarasów i stropodachów z taką nawierzchnią, nie mniejszej jednak niż 10 m , oraz wodę powierzchniową na tych terenach;
+- **13)** zakład przemysłowy – zespół budynków i urządzeń wraz z terenem, na którym prowadzi się działalność wytwórczą polegającą na przekształcaniu mechanicznym, fizycznym lub chemicznym materiału, substancji lub ich części składowych w nowy produkt;
+- **14)** powierzchnia użytkowania – powierzchnię budynku lub jego części, mierzoną po wewnętrznej długości ścian na wszystkich kondygnacjach, oraz powierzchnię pomieszczeń pomocniczych, takich jak: magazyny, biura, ekspozycje wystawowe.
 
 **Art. 3.**
 
@@ -67,9 +93,22 @@ Art. 52–58. (pominięte)
 
 **Art. 6.** Zakładami lecznictwa uzdrowiskowego są:
 
+- **1)** szpitale uzdrowiskowe;
+- **2)** sanatoria uzdrowiskowe;
+- **3)** szpitale uzdrowiskowe dla dzieci i sanatoria uzdrowiskowe dla dzieci;
+- **4)** przychodnie uzdrowiskowe;
+- **5)** zakłady przyrodolecznicze;
+- **6)** szpitale i sanatoria w urządzonych podziemnych wyrobiskach górniczych.
+
 **Art. 7.** (uchylony)
 
 **Art. 8.** Do zadań szpitala uzdrowiskowego należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+
+- **1)** całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych;
+- **2)** całodobowej opieki lekarskiej i pielęgniarskiej;
+- **3)** przewidzianych programem leczenia zabiegów;
+- **4)** korzystania z naturalnych surowców leczniczych oraz urządzeń lecznictwa uzdrowiskowego;
+- **5)** edukacji zdrowotnej.
 
 **Art. 9.**
 
@@ -98,9 +137,18 @@ Art. 52–58. (pominięte)
 
 **Art. 11.** Do zadań przychodni uzdrowiskowej należy zapewnienie pacjentowi:
 
+- **1)** ambulatoryjnych świadczeń zdrowotnych, w tym świadczeń profilaktycznych, z wykorzystaniem naturalnych surowców leczniczych zleconych przez lekarza;
+- **2)** edukacji zdrowotnej.
+
 **Art. 11a.** Do zadań zakładu przyrodoleczniczego należy udzielanie zabiegów z zakresu fizjoterapii.
 
 **Art. 11b.** Do zadań szpitala w urządzonym podziemnym wyrobisku górniczym należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+
+- **1)** całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych;
+- **2)** całodobowej opieki lekarskiej i pielęgniarskiej;
+- **3)** przewidzianych programem leczenia zabiegów;
+- **4)** korzystania z naturalnych surowców leczniczych oraz urządzeń lecznictwa uzdrowiskowego;
+- **5)** edukacji zdrowotnej.
 
 **Art. 11c.**
 
@@ -144,7 +192,12 @@ Art. 52–58. (pominięte)
 
 **Art. 14.** Świadczenia zdrowotne w zakładach lecznictwa uzdrowiskowego są udzielane na podstawie wystawionych przez lekarza:
 
+- **1)** skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, albo
+- **2)** zaświadczenia o braku przeciwwskazań do korzystania z danego rodzaju świadczeń zdrowotnych w danym uzdrowisku.
+
 **Art. 15.** W sprawach nieuregulowanych w ustawie do zakładów lecznictwa uzdrowiskowego mają zastosowanie przepisy ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620 i 637), ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz.
+
+- **581)** , ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254) oraz ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692).
 
 **Art. 15a.** Do zakładów lecznictwa uzdrowiskowego nie mają zastosowania wymagania dotyczące minimalnych norm zatrudnienia w aptekach szpitalnych i działach farmacji szpitalnej, określonych w art. 87a ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905 i 924).
 
@@ -275,7 +328,21 @@ Art. 52–58. (pominięte)
 
 **Art. 25.** Naczelnym lekarzem uzdrowiska może być lekarz posiadający:
 
+- **1)** tytuł specjalisty w zakresie balneologii i medycyny fizykalnej oraz co najmniej 5-letni staż pracy w:
+    - **a)** zakładach lecznictwa uzdrowiskowego lub
+    - **b)** zakładach mających siedzibę w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, wykorzystujących przy udzielaniu świadczeń opieki zdrowotnej właściwości naturalnych surowców leczniczych oraz właściwości lecznicze klimatu lub
+
+- **2)** tytuł specjalisty zgodny z co najmniej jednym z kierunków leczniczych prowadzonych w uzdrowisku i udokumentowane rozpoczęcie specjalizacji w zakresie balneologii i medycyny fizykalnej oraz co najmniej 10-letni staż pracy w zakładach, o których mowa w pkt 1.
+
 **Art. 26.** Do zadań naczelnego lekarza uzdrowiska należy w szczególności:
+
+- **1)** współdziałanie z osobami sprawującymi nadzór specjalistyczny na obszarze danego województwa;
+- **2)** współdziałanie z organami jednostek samorządu terytorialnego i podmiotami wykonującymi działalność leczniczą, ze szczególnym uwzględnieniem spraw dotyczących pacjentów;
+- **3)** monitorowanie i inicjowanie porozumień między podmiotami prowadzącymi zakłady lecznictwa uzdrowiskowego w sprawie udzielania świadczeń zdrowotnych, prawidłowej eksploatacji naturalnych surowców leczniczych i prawidłowego wykorzystania kadr medycznych;
+- **4)** przeprowadzanie planowanych i doraźnych kontroli stanu oraz funkcjonowania urządzeń lecznictwa uzdrowiskowego ze szczególnym uwzględnieniem wymagań sanitarnych;
+- **5)** zgłaszanie wniosków w sprawie stanu i funkcjonowania urządzeń lecznictwa uzdrowiskowego;
+- **6)** współpraca z zakładami górniczymi znajdującymi się na obszarze uzdrowiska lub obszarze ochrony uzdrowiskowej i podmiotami posiadającymi koncesję na wydobywanie i eksploatację naturalnych surowców leczniczych w sprawach prawidłowego wykorzystania tych surowców;
+- **7)** zgłaszanie wniosków w sprawie warunków naturalnych i właściwego kształtowania czynników środowiskowych w uzdrowisku lub na obszarze ochrony uzdrowiskowej.
 
 **Art. 27.**
 
@@ -304,6 +371,12 @@ Art. 52–58. (pominięte)
 2. Wynagrodzenie naczelnego lekarza uzdrowiska nie może przekraczać 1,3 kwoty przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718 i 769).
 
 **Art. 29.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy zakres obowiązków i uprawnień dotyczący sprawowania nadzoru nad lecznictwem uzdrowiskowym przez naczelnego lekarza uzdrowiska,
+- **2)** szczegółowe zadania naczelnego lekarza uzdrowiska,
+- **3)** (uchylony)
+- **4)** zakres współpracy pomiędzy naczelnymi lekarzami uzdrowiska i podmiotami tworzącymi w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej
+- **5)** (uchylony) – kierując się koniecznością zapewnienia prawidłowego nadzoru nad zakładami lecznictwa uzdrowiskowego.
 
 **Art. 30.**
 
@@ -395,6 +468,10 @@ Art. 52–58. (pominięte)
 8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe wymagania, jakie powinna spełniać jednostka uprawniona, uwzględniając w szczególności konieczność sprecyzowania wymagań, o których mowa w ust. 3, a także wskazania nauki.
 
 **Art. 38.** Na obszarze uzdrowiska lub obszarze ochrony uzdrowiskowej wydziela się trzy rodzaje stref ochrony uzdrowiskowej, oznaczone literami „A”, „B” i „C”:
+
+- **1)** strefa „A”, dla której procentowy udział terenów zieleni wynosi nie mniej niż 65 %, obejmuje obszar, na którym są zlokalizowane lub planowane zakłady lecznictwa uzdrowiskowego i urządzenia lecznictwa uzdrowiskowego, a także inne obiekty służące lecznictwu uzdrowiskowemu lub obsłudze pacjenta lub turysty, w zakresie nieutrudniającym funkcjonowania lecznictwa uzdrowiskowego, w szczególności: pensjonaty, restauracje lub kawiarnie;
+- **2)** strefa „B”, dla której procentowy udział terenów zieleni wynosi nie mniej niż 50 %, obejmuje obszar przyległy do strefy „A” i stanowiący jej otoczenie, który jest przeznaczony dla niemających negatywnego wpływu na właściwości lecznicze uzdrowiska lub obszaru ochrony uzdrowiskowej oraz nieuciążliwych dla pacjentów – obiektów usługowych, turystycznych, w tym hoteli, rekreacyjnych, sportowych i komunalnych, budownictwa mieszkaniowego oraz innych związanych z zaspokajaniem potrzeb osób przebywających na tym obszarze lub objęty granicami parku narodowego lub rezerwatu przyrody albo jest lasem, morzem lub jeziorem;
+- **3)** strefa „C”, dla której procentowy udział terenów biologicznie czynnych wynosi nie mniej niż 45 %, obejmuje obszar przyległy do strefy „B” i stanowiący jej otoczenie oraz obszar mający wpływ na zachowanie walorów krajobrazowych, klimatycznych oraz ochronę złóż naturalnych surowców leczniczych.
 
 **Art. 38a.**
 
@@ -546,6 +623,11 @@ Art. 52–58. (pominięte)
 
 **Art. 46.** Gmina uzdrowiskowa oraz gmina posiadająca status obszaru ochrony uzdrowiskowej, poza zadaniami przewidzianymi przepisami ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, realizuje zadania własne związane z zachowaniem funkcji leczniczych uzdrowiska, w szczególności w zakresie:
 
+- **1)** gospodarki terenami, z uwzględnieniem potrzeb lecznictwa uzdrowiskowego, ochrony złóż naturalnych surowców leczniczych oraz budowy lub innych czynności zabronionych w poszczególnych strefach ochrony uzdrowiskowej;
+- **2)** ochrony warunków naturalnych uzdrowiska lub obszaru ochrony uzdrowiskowej oraz spełniania wymagań w zakresie dopuszczalnych norm zanieczyszczeń powietrza, natężenia hałasu, odprowadzania ścieków do wód lub do ziemi, gospodarki odpadami, emisji pól elektromagnetycznych, o których mowa w odrębnych przepisach;
+- **3)** tworzenia warunków do funkcjonowania zakładów i urządzeń lecznictwa uzdrowiskowego oraz rozwoju infrastruktury komunalnej w celu zaspokajania potrzeb osób przebywających w gminie w celu leczenia uzdrowiskowego;
+- **4)** tworzenia i ulepszania infrastruktury komunalnej i technicznej przeznaczonej dla uzdrowisk lub obszarów ochrony uzdrowiskowej, związanej ze spełnieniem warunków, o których mowa w art. 34 ust. 1 pkt 5.
+
 **Art. 47.**
 
 1. W gminie uzdrowiskowej oraz w gminie posiadającej status obszaru ochrony uzdrowiskowej rada gminy powołuje stałą komisję uzdrowiskową, określając przedmiot jej działania i skład osobowy.
@@ -569,6 +651,12 @@ Art. 52–58. (pominięte)
 #### Rozdział 7 Przepisy karne
 
 **Art. 50.** Kto:
+
+- **1)** utrudnia albo uniemożliwia przeprowadzenie oceny zgodności leczenia uzdrowiskowego z kierunkami leczniczymi, o których mowa w art. 13 ust. 1,
+- **2)** utrudnia albo uniemożliwia sprawowanie nadzoru nad zachowaniem warunków leczniczych i środowiskowych warunkujących przyznanie i utrzymanie statusu uzdrowiska albo statusu obszaru ochrony uzdrowiskowej,
+- **3)** będąc do tego obowiązany nie dostosowuje działalności zakładów lecznictwa uzdrowiskowego do przepisów ustawy w wyznaczonym terminie lub nie usuwa stwierdzonych w toku kontroli nieprawidłowości,
+- **4)** będąc do tego obowiązany nie informuje pisemnie ministra właściwego do spraw zdrowia o sposobie usunięcia nieprawidłowości stwierdzonych w zaleceniach pokontrolnych, o których mowa w art. 20 ust. 3 pkt 1,
+- **5)** wbrew zakazowi prowadzi działalność lub wykonuje czynności, o których mowa w art. 38a – podlega karze grzywny.
 
 **Art. 51.** Orzekanie w sprawach, o których mowa w art. 50, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 

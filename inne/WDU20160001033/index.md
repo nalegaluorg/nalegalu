@@ -8,10 +8,10 @@ pos: 1033
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 lipca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1033 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 4 lipca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001033) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1033/text.pdf) |
 
-Poz. 1033 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 4 lipca 2016 r.
-w sprawie określenia stroju urzędowego prokuratorów biorących udział w rozprawach sądowych Na podstawie art. 36 § 6 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177) zarządza się, co następuje: § 1. 1. Strojem urzędowym prokuratorów biorących udział w rozprawie sądowej jest toga.
+w sprawie określenia stroju urzędowego prokuratorów biorących udział w rozprawach sądowych Na podstawie art. 36 § 6 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177) zarządza się, co następuje:
+§ 1. 1. Strojem urzędowym prokuratorów biorących udział w rozprawie sądowej jest toga.
 2. Prokuratorzy będący żołnierzami zawodowymi zakładają togę na wojskowy ubiór wyjściowy.
 § 2. 1. Szczegółowy opis stroju urzędowego prokuratorów jest określony w załączniku nr 1 do rozporządzenia.
 2. Wzór togi jest określony w załączniku nr 2 do rozporządzenia.
@@ -38,4 +38,6 @@ Rękawy togi u góry są ułożone w od 7do 9 kontrafałd, tworząc bufy. Rękaw
 Wewnątrz rękawa przy przegubie ręki jest umieszczony zatrzask, na który można rękaw zapinać.
 Przy kołnierzu togi jest wszyty żabot z czerwonego materiału wełnianego lub wełnopodobnego o długości 21 cm, szerokości u dołu 28 cm, ułożony w 13 kontrafałd, z których środkowa – o szerokości 2 cm – ma fałdy po obu stronach; pozostałe kontrafałdy biegną w kierunku rękawów. Żabot z prawej strony togi jest zapinany na guziczek. Przody togi po obu stronach wewnętrznych mają podszycie z tego samego materiału co toga, szerokości 10 cm. Przód togi, boki i karczek są szyte podwójną stebnówką o szerokości 0,5 cm, a karczek togi jest podszyty czarną podszewką.
 Kołnierz togi i mankiety mają wypustkę z czerwonego materiału wełnianego lub wełnopodobnego o szerokości 0,5 cm.
+
+## Załącznik nr 2 — WZÓR TOGI WZÓR TOGI Rys. 1. Przód togi Rys. 2. Tył togi
 

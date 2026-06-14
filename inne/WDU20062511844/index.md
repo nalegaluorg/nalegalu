@@ -8,7 +8,7 @@ pos: 1844
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych
@@ -33,9 +33,61 @@ Art. 23–25. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** udzielania z Funduszu Dopłat finansowego wsparcia podmiotom realizującym przedsięwzięcia polegające na tworzeniu lub modernizacji:
+    - **a)** lokali mieszkalnych na wynajem o ograniczonym czynszu, w tym lokali wchodzących w skład mieszkaniowego zasobu gminy,
+    - **b)** mieszkań treningowych lub wspomaganych,
+    - **c)** noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń, ca) pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów,
+    - **d)** infrastruktury technicznej lub infrastruktury społecznej;
+
+- **1a)** udzielania wraz z finansowym wsparciem grantu MZG i grantu OZE;
+- **1b)** tworzenia, uzupełniania i udostępniania zasobu dokumentacji projektowych dotyczących budowy budynków, w których tworzone są lokale mieszkalne, oraz zarządzania tym zasobem;
+- **2)** gospodarowania lokalami mieszkalnymi na wynajem utworzonymi z wykorzystaniem finansowego wsparcia, które nie wchodzą w skład mieszkaniowego zasobu gminy.
+
 **Art. 1a.** (uchylony)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** (uchylony)
+- **2)** noclegowni – należy przez to rozumieć budynek lub wyodrębnione części budynku, przeznaczone do udzielania noclegu osobom bezdomnym, wraz z pomieszczeniami pomocniczymi niezbędnymi do prawidłowego funkcjonowania noclegowni;
+- **3)** schronisku dla osób bezdomnych – należy przez to rozumieć schronisko dla osób bezdomnych, o którym mowa w art. 48a ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302 oraz z 2026 r. poz. 26 i 203) oraz schronisko dla osób bezdomnych z usługami opiekuńczymi, o którym mowa w art. 48a ust. 2b tej ustawy;
+- **3a)** ogrzewalni – należy przez to rozumieć tymczasowe schronienie, o którym mowa w art. 48a ust. 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
+- **4)** mieszkaniu treningowym lub wspomaganym – należy przez to rozumieć mieszkanie, o którym mowa w art. 53 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
+- **4a)** tymczasowym pomieszczeniu – należy przez to rozumieć pomieszczenie, o którym mowa w art. 2 ust. 1 pkt 5a ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725);
+- **4b)** pomieszczeniu służącym zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów – należy przez to rozumieć pomieszczenie w domu studenckim stanowiącym własność uczelni publicznej, nadające się do zamieszkania, o powierzchni mieszkalnej co najmniej 8 m na jedną osobę, wyposażone w oświetlenie naturalne i elektryczne, ogrzewanie, niezawilgocone przegrody budowlane oraz wyposażone w źródło zaopatrzenia w wodę, ustęp oraz urządzenie do gotowania posiłków albo obejmujące bezpośredni dostęp do aneksu wyposażonego w to źródło, ten ustęp oraz to urządzenie;
+- **5)** inwestorze – należy przez to rozumieć podmiot, który w ramach działalności prowadzonej w zakresie budownictwa mieszkaniowego tworzy:
+    - **a)** lokale mieszkalne na wynajem,
+    - **b)** mieszkania treningowe lub wspomagane,
+    - **c)** tymczasowe pomieszczenia,
+    - **d)** noclegownie,
+    - **e)** schroniska dla osób bezdomnych,
+    - **f)** ogrzewalnie,
+    - **g)** infrastrukturę techniczną lub infrastrukturę społeczną – z wykorzystaniem finansowego wsparcia udzielonego na zasadach określonych w ustawie;
+
+- **5a)** beneficjencie wsparcia – należy przez to rozumieć: o działalności pożytku publicznego i o wolontariacie,
+    - **a)** gminę,
+    - **b)** jednoosobową spółkę gminną, której gmina powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjątkiem społecznych inicjatyw mieszkaniowych, albo zadania związanego z infrastrukturą techniczną lub infrastrukturą społeczną, zwaną dalej „jednoosobową spółką gminną”,
+    - **c)** związek międzygminny,
+    - **d)** powiat,
+    - **e)** (uchylona)
+    - **f)** (uchylona)
+    - **g)** organizację pozarządową, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), zwanej dalej „organizacją pozarządową”,
+    - **h)** podmioty, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r.
+    - **i)** uczelnię publiczną – które uzyskały finansowe wsparcie na realizację przedsięwzięcia na zasadach określonych w ustawie;
+
+- **6)** Banku – należy przez to rozumieć Bank Gospodarstwa Krajowego;
+- **7)** społecznej inicjatywie mieszkaniowej – należy przez to rozumieć społeczną inicjatywę mieszkaniową, w rozumieniu ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273 oraz z 2026 r. poz. 39) oraz towarzystwo budownictwa społecznego utworzone przed dniem wejścia w życie ustawy z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11, z 2022 r. poz. 807 i 2666 oraz z 2024 r. poz. 1762);
+- **7a)** spółce gminnej – należy przez to rozumieć spółkę z ograniczoną odpowiedzialnością lub spółkę akcyjną, w której gmina lub gminy dysponują odpowiednio ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu, niedziałającą w formie społecznej inicjatywy mieszkaniowej;
+- **7b)** społecznej agencji najmu – należy przez to rozumieć społeczną agencję najmu w rozumieniu art. 22a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa;
+- **8)** mieszkaniowym zasobie gminy – należy przez to rozumieć zasób, o którym mowa w art. 2 ust. 1 pkt 10 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego;
+- **8a)** byłych mieszkaniach zakładowych – należy przez to rozumieć mieszkania stanowiące przed dniem 7 lutego 2001 r. własność przedsiębiorstw państwowych i spółek handlowych, w których Skarb Państwa był podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176);
+- **9)** powierzchni użytkowej lokalu – należy przez to rozumieć powierzchnię obliczoną zgodnie z art. 2 ust. 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego;
+- **10)** finansowaniu zwrotnym – należy przez to rozumieć finansowanie zwrotne, o którym mowa w rozdziale 2a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa;
+- **11)** infrastrukturze technicznej ‒ należy przez to rozumieć obiekty budowlane służące wykonywaniu zadań własnych gminy, o których mowa w art. 7 ust. 1 pkt 2, 3 i 4 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436 oraz z 2026 r. poz. 252), lub zadań publicznych powiatu, o których mowa w art. 4 ust. 1 pkt 6 i 12 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684 oraz z 2026 r. poz. 252);
+- **12)** infrastrukturze społecznej ‒ należy przez to rozumieć obiekty budowlane służące wykonywaniu zadań własnych gminy, o których mowa w art. 7 ust. 1 pkt 5, 6, 8‒ 10 i 12 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, lub zadań publicznych powiatu, o których mowa w art. 4 ust. 1 pkt 1‒3, 7 i 8 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym;
+- **13)** poważnych szkodach dla celów środowiskowych – należy przez to rozumieć poważne szkody dla celów środowiskowych określonych w art. 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13, z późn. zm. ), zgodnie z art. 17 tego rozporządzenia;
+- **14)** planie rozwojowym – należy przez to rozumieć plan, o którym mowa w dokumencie, o którym mowa w art. 17 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17 oraz Dz. Urz. UE L 410 z 18.11.2021, str. 197), stanowiącym podstawę realizacji reform i inwestycji objętych wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności;
+- **15)** grancie MZG – należy przez to rozumieć grant na pokrycie części kosztów remontu lub przebudowy budynku mieszkalnego będącego własnością gminy lub jednoosobowej spółki gminnej albo części takiego budynku zajmowanego przez lokatora na podstawie obowiązującej umowy najmu udzielany w ramach realizacji działania „Poprawa efektywności energetycznej w budynkach mieszkalnych wielorodzinnych”, określonego w planie rozwojowym;
+- **16)** grancie OZE – należy przez to rozumieć grant na pokrycie części kosztów zakupu, montażu lub budowy instalacji odnawialnego źródła energii, o którym mowa w art. 2 pkt 13 lit. a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2026 r. poz. 68), z wyłączeniem magazynu biogazu rolniczego, przyłączonej do sieci dystrybucyjnej za pośrednictwem wewnętrznej instalacji, udzielany w ramach realizacji działania „Poprawa efektywności energetycznej w budynkach mieszkalnych wielorodzinnych”, określonego w planie rozwojowym.
 
 #### Rozdział 2 Podmioty uprawnione do finansowego wsparcia, rodzaje wspieranych przedsięwzięć oraz zasady gospodarowania lokalami mieszkalnymi na wynajem utworzonymi z wykorzystaniem finansowego wsparcia, które nie wchodzą w skład mieszkaniowego zasobu gminy
 
@@ -220,6 +272,12 @@ Art. 23–25. (pominięte)
 **Art. 6a.** (uchylony) Art. 6aa. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 1, art. 4a ust. 1 pkt 1 oraz w art. 5 ust. 1 pkt 1, finansowego wsparcia udziela się, jeżeli wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP w budynku powstałym w ramach przedsięwzięcia nie przekracza 52 kWh/(m ·rok).
 
 **Art. 6b.** W lokalach mieszkalnych utworzonych z wykorzystaniem finansowego wsparcia w ramach przedsięwzięć, o których mowa w art. 3, art. 5, art. 5a i art. 6, należy zainstalować:
+
+- **1)** wannę lub kabinę natryskową – w łazience,
+- **2)** umywalkę – w łazience,
+- **3)** miskę ustępową – w łazience lub wydzielonym ustępie,
+- **4)** zlewozmywak,
+- **5)** czteropaleniskową kuchenkę gazową lub na inne paliwo, lub równoważną użytkowo kuchenkę elektryczną – z wyłączeniem lokali pozyskanych w ramach przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 i 6, jeżeli przedmiotem zakupu jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, w którym znajdują się byłe mieszkania zakładowe.
 
 **Art. 6c.** (uchylony)
 
@@ -545,6 +603,9 @@ Art. 23–25. (pominięte)
 
 **Art. 13d.** W przypadku, o którym mowa w art. 13c, gdy z realizacją przedsięwzięcia, o którym mowa w art. 5 ust. 1 pkt 1 i pkt 2 lit. a, związane było zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1:
 
+- **1)** kwota grantu OZE stanowi rekompensatę z tytułu świadczenia usług publicznych w rozumieniu przepisów prawa Unii Europejskiej;
+- **2)** łączna wysokość finansowego wsparcia i grantu OZE nie może przekraczać dopuszczalnej wysokości rekompensaty ustalonej zgodnie z przepisami wydanymi na podstawie art. 19; przepis art. 5 ust. 12 stosuje się.
+
 **Art. 14.**
 
 1. Do kosztów przedsięwzięcia zalicza się:
@@ -668,6 +729,11 @@ Art. 23–25. (pominięte)
 
 **Art. 19.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego, określi, w drodze rozporządzenia, dla przedsięwzięć, o których mowa w art. 3–5 i w art. 5c:
 
+- **1)** szczegółowy zakres informacji, o których mowa w art. 8 ust. 1a, mając na względzie zapewnienie możliwości identyfikacji wnioskodawcy oraz stwierdzenia zgodności przedsięwzięcia z warunkami udzielenia finansowego wsparcia;
+- **2)** szczegółowy zakres informacji, o których mowa w art. 13b ust. 7, art. 13c ust. 7, art. 18 ust. 1b oraz art. 22a ust. 4, mając na względzie zapewnienie możliwości stwierdzenia, że przedsięwzięcie nie wyrządza poważnych szkód środowiskowych;
+- **3)** wzór formularza, o którym mowa w art. 18 ust. 2, mając na względzie zapewnienie ujednolicenia zakresu przekazywanych informacji;
+- **4)** sposób ustalania dopuszczalnej wysokości rekompensaty, o której mowa w art. 5 ust. 5 i art. 13d pkt 1, oraz sposób i tryb weryfikowania zgodności jej przyznawania z przepisami prawa Unii Europejskiej dotyczącymi pomocy publicznej z tytułu świadczenia usług w ogólnym interesie gospodarczym, mając na względzie konieczność zapewnienia bieżącego monitorowania wysokości wypłaconej rekompensaty oraz przeciwdziałania przekazaniu beneficjentom wsparcia nadmiernego przysporzenia.
+
 **Art. 20.** (uchylony)
 
 **Art. 21.**
@@ -722,6 +788,10 @@ Art. 23–25. (pominięte)
 11. W przypadku finansowego wsparcia przedsięwzięć, o których mowa w art. 5 ust. 1 pkt 2 lit. b, jeżeli okres umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, zostanie skrócony, beneficjent wsparcia zwraca do Funduszu Dopłat kwotę finansowego wsparcia w części proporcjonalnej do każdego pełnego miesiąca skróconego okresu umowy, wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w terminie 30 dni od dnia skrócenia tej umowy. Odsetki nalicza się od następnego dnia roboczego po dniu przekazania finansowego wsparcia na rachunek beneficjenta wsparcia.
 
 **Art. 22.** Jeżeli realizacja przedsięwzięcia, na które zostało udzielone finansowe wsparcie, współfinansowana jest:
+
+- **1)** ze środków Unii Europejskiej niezgodnie z art. 7 ust. 1,
+- **2)** z premii, o której mowa w art. 11g ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, niezgodnie z art. 7 ust. 2,
+- **3)** niezgodnie z art. 7 ust. 3 – stosuje się odpowiednio przepis art. 21 ust. 7.
 
 #### Rozdział 3a Udzielanie finansowego wsparcia w ramach planu rozwojowego
 
@@ -806,6 +876,14 @@ Art. 23–25. (pominięte)
 4. Najemcą lokalu mieszkalnego utworzonego w ramach przedsięwzięcia realizowanego z wykorzystaniem finansowego wsparcia udzielonego w ramach planu rozwojowego jest osoba nieposiadająca, w dniu objęcia lokalu, tytułu prawnego do innego lokalu mieszkalnego na terenie Rzeczypospolitej Polskiej. Warunek ten dotyczy również osób zgłoszonych do wspólnego zamieszkania.
 
 **Art. 22e.** W przypadku ogłoszenia naboru wniosków o udzielenie finansowego wsparcia w ramach planu rozwojowego minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zawiera z Bankiem umowę określającą co najmniej:
+
+- **1)** okres obowiązywania umowy;
+- **2)** obowiązki sprawozdawcze;
+- **3)** przyczyny i warunki rozwiązania umowy;
+- **4)** szczegółowe obowiązki w zakresie przetwarzania danych osobowych;
+- **5)** warunki wynagrodzenia Banku z tytułu pokrycia kosztów odzyskania środków;
+- **6)** zakres odpowiedzialności Banku z tytułu wykonywania umowy;
+- **7)** sposób kontroli wykonania umowy.
 
 **Art. 22f.**
 

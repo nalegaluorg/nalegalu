@@ -8,10 +8,10 @@ pos: 1291
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1291 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 sierpnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1291/text.pdf) |
 
-Poz. 1291 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 sierpnia 2016 r.
-w sprawie odraczania terminu płatności należności celnych Na podstawie art. 59 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. poz. 858, 1649, 1844 i 1893 oraz z 2016 r. poz. 65 i 1228) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie odraczania terminu płatności należności celnych Na podstawie art. 59 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. poz. 858, 1649, 1844 i 1893 oraz z 2016 r. poz. 65 i 1228) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) termin, w którym może być złożony wniosek o wydanie pozwolenia na odroczenie terminu płatności należności celnych w przypadku, o którym mowa w art. 110 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn.
 zm. ), zwanego dalej „unijnym kodeksem celnym”;
 2) termin, od którego możliwe jest korzystanie z odroczenia płatności należności celnych w przypadkach, o których mowa w art. 110 lit. b lub c unijnego kodeksu celnego;

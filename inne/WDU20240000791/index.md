@@ -8,10 +8,10 @@ pos: 791
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 maja 2024 Poz. 791 OBWIESZCZENIE MINISTRA ZDROWIA dnia 21 maja 2024 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie określenia priorytetowych dziedzin medycyny
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 791 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 21 maja 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000791) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/791/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia dnia 27 grudnia 2022 w sprawie określenia priorytetowych dziedzin medycyny (Dz. U.
-2814), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia dnia 1 sierpnia 2023 zmieniającym rozporządzenie w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. 1503).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia dnia 1 sierpnia 2023 zmieniającego rozporządzenie w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. 1503), który stanowi: „§ 2. Rozporządzenie wchodzi w życie dniem następującym po dniu ogłoszenia, mocą od dnia 1 lipca 2023 r.”.
-Minister Zdrowia: wz. W. Konieczny Dziennik Ustaw 2 Poz. 791 ROZPORZĄDZENIE MINISTRA ZDROWIA dnia 27 grudnia 2022 w sprawie określenia priorytetowych dziedzin medycyny Na podstawie art. 16g ust. 4 ustawy dnia 5 grudnia 1996 o zawodach lekarza i lekarza dentysty (Dz. U. 2023 1516, 1617, 1831 i 1972) zarządza się, co następuje: § 1. Priorytetowymi dziedzinami medycyny są:
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie określenia priorytetowych dziedzin medycyny
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 27 grudnia 2022 r. w sprawie określenia priorytetowych dziedzin medycyny (Dz. U.
+poz. 2814), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 1 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 1503).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 1 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 1503), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2023 r.”.
+Minister Zdrowia: wz. W. Konieczny ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 grudnia 2022 r.
+w sprawie określenia priorytetowych dziedzin medycyny Na podstawie art. 16g ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r.
+poz. 1516, 1617, 1831 i 1972) zarządza się, co następuje:
+§ 1. Priorytetowymi dziedzinami medycyny są:
 1) anestezjologia i intensywna terapia;
 2) chirurgia dziecięca;
 3) chirurgia ogólna;
@@ -52,5 +56,5 @@ Minister Zdrowia: wz. W. Konieczny Dziennik Ustaw 2 Poz. 791 ROZPORZĄDZENIE MIN
 20) psychiatria dzieci i młodzieży;
 21) radioterapia onkologiczna;
 22) stomatologia dziecięca.
-§ 2. Rozporządzenie wchodzi w życie dniem następującym po dniu ogłoszenia , mocą od dnia 19 grudnia 2022
+§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia , z mocą od dnia 19 grudnia 2022 r.
 

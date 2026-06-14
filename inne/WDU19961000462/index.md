@@ -8,7 +8,7 @@ pos: 462
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie nazw niektórych wyższych szkół artystycznych

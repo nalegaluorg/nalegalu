@@ -8,7 +8,7 @@ pos: 2255
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o świadczeniach rodzinnych
@@ -38,19 +38,94 @@ Art. 34–46. (pominięte)
 2. Świadczenia rodzinne przysługują:
 
 - **1)** obywatelom polskim;
-- **2)** cudzoziemcom: 137a lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079), lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej, jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, ca) przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie art. 106 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, podstawie art. 107 ust. 1 tej ustawy, o ile posiadają numer PESEL ze statusem UKR, o którym mowa w art. 8 pkt 24a lit. d ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, z późn. zm. ), jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, o cudzoziemcach, lub – w związku z korzystaniem z mobilności krótkoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa na warunkach określonych w art. 139n ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej z członkami rodzin, z wyłączeniem cudzoziemców, którym zezwolono na pobyt i pracę na okres nieprzekraczający 9 miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej,
+- **2)** cudzoziemcom: 137a lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079), lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej, jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, ca) przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie art. 106 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619, 621 i 1794 oraz z 2026 r. poz. 203) lub przepisów wydanych na podstawie art. 107 ust. 1 tej ustawy, o ile posiadają numer PESEL ze statusem UKR, o którym mowa w art. 8 pkt 24a lit. d ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, z późn. zm. ), jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, o cudzoziemcach, lub – w związku z korzystaniem z mobilności krótkoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa na warunkach określonych w art. 139n ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej z członkami rodzin, z wyłączeniem cudzoziemców, którym zezwolono na pobyt i pracę na okres nieprzekraczający 9 miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej,
     - **a)** do których stosuje się przepisy o koordynacji systemów zabezpieczenia społecznego,
     - **b)** jeżeli wynika to z wiążących Rzeczpospolitą Polską umów dwustronnych o zabezpieczeniu społecznym,
     - **c)** przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego w związku z okolicznościami, o których mowa w art. 127, art.
     - **d)** posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy,
     - **e)** przebywającym na terytorium Rzeczypospolitej Polskiej: – na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1 ustawy z dnia 12 grudnia 2013 r.
-    - **f)** przebywającym na terytorium Rzeczypospolitej Polskiej: – na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 151 lub art. 151b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, – na podstawie wizy krajowej w celu prowadzenia badań naukowych lub prac rozwojowych, na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach − z wyłączeniem cudzoziemców, którym zezwolono na pobyt na terytorium Rzeczypospolitej Polskiej na okres nieprzekraczający 6 miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej.
+    - **f)** przebywającym na terytorium Rzeczypospolitej Polskiej: – na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 151 lub art. 151b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, – na podstawie wizy krajowej w celu prowadzenia badań naukowych lub prac rozwojowych, − w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach − z wyłączeniem cudzoziemców, którym zezwolono na pobyt na terytorium Rzeczypospolitej Polskiej na okres nieprzekraczający 6 miesięcy, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej.
 
 3. Świadczenia rodzinne przysługują osobom, o których mowa w ust. 2, jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej przez okres zasiłkowy, w którym otrzymują świadczenia rodzinne, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej.
 
 **Art. 2.** Świadczeniami rodzinnymi są:
 
+- **1)** zasiłek rodzinny oraz dodatki do zasiłku rodzinnego;
+- **2)** świadczenia opiekuńcze: zasiłek pielęgnacyjny oraz świadczenie pielęgnacyjne;
+- **3)** zapomoga wypłacana przez gminy, na podstawie art. 22a;
+- **3a)** świadczenia wypłacane przez gminy na podstawie art. 22b;
+- **4)** jednorazowa zapomoga z tytułu urodzenia się dziecka;
+- **5)** świadczenie rodzicielskie.
+
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** dochodzie – oznacza to, po odliczeniu kwot alimentów świadczonych na rzecz innych osób: z 2025 r. poz. 277 i 807), – należności pieniężne wypłacone policjantom, żołnierzom, celnikom i pracownikom jednostek wojskowych i jednostek policyjnych użytych poza granicami państwa w celu udziału w konflikcie zbrojnym lub wzmocnienia sił państwa albo państw sojuszniczych, misji pokojowej, akcji zapobieżenia aktom terroryzmu lub ich skutkom, a także należności pieniężne wypłacone żołnierzom, policjantom, celnikom i pracownikom pełniącym funkcje obserwatorów w misjach pokojowych organizacji międzynarodowych i sił wielonarodowych, – należności pieniężne ze stosunku służbowego otrzymywane w czasie służby kandydackiej przez funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej, Biura Ochrony Rządu i Służby Więziennej, obliczone za okres, w którym osoby te uzyskały dochód, – dochody członków rolniczych spółdzielni produkcyjnych z tytułu członkostwa w rolniczej spółdzielni produkcyjnej, pomniejszone o składki na ubezpieczenia społeczne, – alimenty na rzecz dzieci, – stypendia doktoranckie przyznane na podstawie art. 209 ust. 1 i 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), stypendia sportowe przyznane na podstawie ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz. 28, 620 i 769) oraz inne stypendia o charakterze socjalnym przyznane uczniom lub studentom, – kwoty diet nieopodatkowane podatkiem dochodowym od osób fizycznych, otrzymywane przez osoby wykonujące czynności związane z pełnieniem obowiązków społecznych i obywatelskich, – należności pieniężne otrzymywane z tytułu wynajmu pokoi gościnnych w budynkach mieszkalnych położonych na terenach wiejskich w gospodarstwie rolnym osobom przebywającym na wypoczynku oraz uzyskane z tytułu wyżywienia tych osób, – dodatki za tajne nauczanie określone w ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871 oraz z 2025 r. poz. 620 i 1019), – dochody uzyskane z działalności gospodarczej prowadzonej na podstawie zezwolenia na terenie specjalnej strefy ekonomicznej określonej w przepisach o specjalnych strefach ekonomicznych, – ekwiwalenty pieniężne za deputaty węglowe określone w przepisach o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, – ekwiwalenty z tytułu prawa do bezpłatnego węgla określone w przepisach o restrukturyzacji górnictwa węgla kamiennego w latach 2003–2006, – świadczenia określone w przepisach o wykonywaniu mandatu posła i senatora, – dochody uzyskane z gospodarstwa rolnego, – dochody uzyskiwane za granicą Rzeczypospolitej Polskiej, pomniejszone odpowiednio o zapłacone za granicą Rzeczypospolitej Polskiej: podatek dochodowy oraz składki na obowiązkowe ubezpieczenie społeczne i obowiązkowe ubezpieczenie zdrowotne, – renty określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, – zaliczkę alimentacyjną określoną w przepisach o postępowaniu wobec dłużników alimentacyjnych oraz zaliczce alimentacyjnej, – świadczenia pieniężne wypłacane w przypadku bezskuteczności egzekucji alimentów, – pomoc materialną o charakterze socjalnym określoną w art. 90c ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019) oraz świadczenia, o których mowa w art. 86 ust. 1 pkt 1–3 i 5 oraz art. 212 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, – kwoty otrzymane na podstawie art. 27f ust. 8–10 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, – świadczenie pieniężne określone w ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz. 906), – świadczenie rodzicielskie, – zasiłek macierzyński, o którym mowa w przepisach o ubezpieczeniu społecznym rolników, – stypendia dla bezrobotnych finansowane ze środków Unii Europejskiej lub Funduszu Pracy, niezależnie od podmiotu, który je wypłaca, – przychody wolne od podatku dochodowego na podstawie art. 21 ust. 1 pkt 148 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, pomniejszone o składki na ubezpieczenia społeczne oraz składki na ubezpieczenia zdrowotne, – przychody wolne od podatku dochodowego na podstawie art. 21 ust. 1 pkt 152 lit. a, b i d oraz pkt 153 lit. a, b i d ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz art. 21 ust. 1 pkt 154 tej ustawy w zakresie przychodów ze stosunku służbowego, stosunku pracy, pracy nakładczej, spółdzielczego stosunku pracy, z umów zlecenia, o których mowa w art. 13 pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, pomniejszone o składki na ubezpieczenia społeczne oraz składki na ubezpieczenia zdrowotne, – przychody wolne od podatku dochodowego na podstawie art. 21 ust. 1 pkt 152 lit. c, pkt 153 lit. c oraz pkt 154 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych z pozarolniczej działalności gospodarczej opodatkowanych według zasad określonych w art. 27 i art. 30c tej ustawy, pomniejszone o składki na ubezpieczenia społeczne oraz składki na ubezpieczenia zdrowotne, – dochody z pozarolniczej działalności gospodarczej opodatkowanej w formie ryczałtu od przychodów ewidencjonowanych, o których mowa w art. 21 ust. 1 pkt 152 lit. c, pkt 153 lit. c i pkt 154 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustalone na podstawie oświadczenia dotyczącego każdego członka rodziny;
+    - **a)** przychody podlegające opodatkowaniu na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340, 368, 620, 680 i 1022), pomniejszone o koszty uzyskania przychodu, należny podatek dochodowy od osób fizycznych, składki na ubezpieczenia społeczne niezaliczone do kosztów uzyskania przychodu oraz składki na ubezpieczenie zdrowotne,
+    - **b)** dochód z działalności podlegającej opodatkowaniu na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne,
+    - **c)** inne dochody niepodlegające opodatkowaniu na podstawie przepisów o podatku dochodowym od osób fizycznych: – renty określone w przepisach o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, – renty wypłacone osobom represjonowanym i członkom ich rodzin, przyznane na zasadach określonych w przepisach o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, – świadczenie pieniężne, dodatek kompensacyjny oraz ryczałt energetyczny określone w przepisach o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, – dodatek kombatancki, ryczałt energetyczny i dodatek kompensacyjny określone w przepisach o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, – świadczenie pieniężne określone w przepisach o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę Niemiecką lub Związek Socjalistycznych Republik Radzieckich, – ryczałt energetyczny, emerytury i renty otrzymywane przez osoby, które utraciły wzrok w wyniku działań wojennych w latach 1939–1945 lub eksplozji pozostałych po tej wojnie niewypałów i niewybuchów, – renty inwalidzkie z tytułu inwalidztwa wojennego, kwoty zaopatrzenia otrzymywane przez ofiary wojny oraz członków ich rodzin, renty wypadkowe osób, których inwalidztwo powstało w związku z przymusowym pobytem na robotach w III Rzeszy Niemieckiej w latach 1939–1945, otrzymywane z zagranicy, – zasiłki chorobowe określone w przepisach o ubezpieczeniu społecznym rolników oraz w przepisach o systemie ubezpieczeń społecznych, – środki bezzwrotnej pomocy zagranicznej otrzymywane od rządów państw obcych, organizacji międzynarodowych lub międzynarodowych instytucji finansowych, pochodzące ze środków bezzwrotnej pomocy przyznanych na podstawie jednostronnej deklaracji lub umów zawartych z tymi państwami, organizacjami lub instytucjami przez Radę Ministrów, właściwego ministra lub agencje rządowe, w tym również w przypadkach, gdy przekazanie tych środków jest dokonywane za pośrednictwem podmiotu upoważnionego do rozdzielania środków bezzwrotnej pomocy zagranicznej na rzecz podmiotów, którym służyć ma ta pomoc, – należności ze stosunku pracy lub z tytułu stypendium osób fizycznych mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, przebywających czasowo za granicą – w wysokości odpowiadającej równowartości diet z tytułu podróży służbowej poza granicami kraju ustalonych dla pracowników zatrudnionych w państwowych lub samorządowych jednostkach sfery budżetowej na podstawie ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U.
+
+- **2)** dochodzie rodziny – oznacza to sumę dochodów członków rodziny;
+- **2a)** dochodzie członka rodziny – oznacza to przeciętny miesięczny dochód członka rodziny osiągnięty w roku kalendarzowym poprzedzającym okres zasiłkowy, z zastrzeżeniem art. 5 ust. 4–4c;
+- **3)** dochodzie osoby uczącej się albo dziecka pozostającego pod opieką opiekuna prawnego – oznacza to przeciętny miesięczny dochód uzyskany w roku kalendarzowym poprzedzającym okres zasiłkowy, z zastrzeżeniem art. 5 ust. 4– 4c;
+- **4)** dziecku – oznacza to dziecko własne, małżonka, przysposobione oraz dziecko, w sprawie którego toczy się postępowanie o przysposobienie, lub dziecko znajdujące się pod opieką prawną;
+- **5)** emeryturach i rentach – oznacza to emerytury i renty inwalidzkie oraz renty z tytułu niezdolności do pracy, w tym renty szkoleniowe określone w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o ubezpieczeniu społecznym rolników, o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, a także uposażenia w stanie spoczynku określone w przepisach prawa o ustroju sądów powszechnych, przepisach o prokuraturze oraz w przepisach o Sądzie Najwyższym, a także renty szkoleniowe i renty z tytułu niezdolności do pracy określone w przepisach o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, renty z tytułu niezdolności do pracy określone w przepisach o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, a także renty strukturalne określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich;
+- **6)** gospodarstwie rolnym – oznacza to gospodarstwo rolne w rozumieniu przepisów o podatku rolnym;
+- **7)** instytucji zapewniającej całodobowe utrzymanie – oznacza to dom pomocy społecznej, młodzieżowy ośrodek wychowawczy, schronisko dla nieletnich, zakład poprawczy, areszt śledczy, zakład karny, szkołę wojskową lub inną szkołę, jeżeli instytucje te zapewniają nieodpłatnie pełne utrzymanie;
+- **8)** koszyku żywnościowym – oznacza to asortyment artykułów spożywczych, określony wartościowo i ilościowo w badaniach progu wsparcia dochodowego rodzin, których spożycie jest niezbędne do prawidłowego rozwoju dziecka w określonym wieku;
+- **9)** niepełnosprawnym dziecku – oznacza to dziecko w wieku do ukończenia 16. roku życia legitymujące się orzeczeniem o niepełnosprawności określonym w przepisach o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych;
+- **10)** okresie zasiłkowym – oznacza to okres od dnia 1 listopada do dnia 31 października następnego roku kalendarzowego, na jaki ustala się prawo do świadczeń rodzinnych;
+- **11)** organie właściwym – oznacza to wójta, burmistrza lub prezydenta miasta właściwego ze względu na miejsce zamieszkania osoby ubiegającej się o świadczenie rodzinne lub otrzymującej świadczenie rodzinne;
+- **12)** osobach pozostających na utrzymaniu – oznacza to członków rodziny utrzymujących się z połączonych dochodów tych osób;
+- **13)** osobie uczącej się – oznacza to osobę pełnoletnią uczącą się, niepozostającą na utrzymaniu rodziców w związku z ich śmiercią lub w związku z ustaleniem wyrokiem sądowym lub ugodą sądową prawa do alimentów z ich strony;
+- **14)** opiekunie faktycznym dziecka – oznacza to osobę faktycznie opiekującą się dzieckiem, jeżeli wystąpiła z wnioskiem do sądu rodzinnego o przysposobienie dziecka;
+- **14a)** opiekunie tymczasowym dziecka – oznacza to osobę, o której mowa w art. 113 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **14b)** opiekunie dziecka wskazanym przez władze kraju pochodzenia – oznacza to osobę, o której mowa w art. 113a ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **15)** pełnoletniej osobie niepełnosprawnej – oznacza to osobę pełnoletnią, legitymującą się orzeczeniem o umiarkowanym lub znacznym stopniu niepełnosprawności, a także osobę, która ukończyła 75 lat;
+- **15a)** przepisach o koordynacji systemów zabezpieczenia społecznego – oznacza to rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 166 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 5, str. 72) oraz rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczące wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1);
+- **16)** rodzinie – oznacza to odpowiednio następujących członków rodziny: małżonków, rodziców dzieci, opiekuna faktycznego dziecka oraz pozostające na utrzymaniu dzieci w wieku do ukończenia 25. roku życia, a także dziecko, które ukończyło 25. rok życia legitymujące się orzeczeniem o znacznym stopniu niepełnosprawności, jeżeli w związku z tą niepełnosprawnością przysługuje świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246); do członków rodziny nie zalicza się dziecka pozostającego pod opieką opiekuna prawnego, dziecka pozostającego w związku małżeńskim, a także pełnoletniego dziecka posiadającego własne dziecko;
+- **16a)** rodzinie wielodzietnej – oznacza to rodzinę wychowującą troje i więcej dzieci mających prawo do zasiłku rodzinnego;
+- **17)** (utracił moc) 17a) osobie samotnie wychowującej dziecko – oznacza to pannę, kawalera, wdowę, wdowca, osobę pozostającą w separacji orzeczonej prawomocnym wyrokiem sądu, osobę rozwiedzioną, chyba że wychowuje wspólnie co najmniej jedno dziecko z jego rodzicem;
+- **18)** szkole – oznacza to szkołę podstawową, szkołę ponadpodstawową oraz szkołę artystyczną, w której realizowany jest obowiązek szkolny i obowiązek nauki, a także młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania oraz ośrodek rewalidacyjno-wychowawczy;
+- **19)** szkole wyższej – oznacza to uczelnię w rozumieniu przepisów o szkolnictwie wyższym i nauce oraz kolegium pracowników służb społecznych;
+- **20)** umiarkowanym stopniu niepełnosprawności – oznacza to:
+    - **a)** niepełnosprawność w umiarkowanym stopniu w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
+    - **b)** całkowitą niezdolność do pracy orzeczoną na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
+    - **c)** posiadanie orzeczenia o zaliczeniu do II grupy inwalidów;
+
+- **21)** znacznym stopniu niepełnosprawności – oznacza to:
+    - **a)** niepełnosprawność w stopniu znacznym w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
+    - **b)** całkowitą niezdolność do pracy i samodzielnej egzystencji orzeczoną na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
+    - **c)** stałą albo długotrwałą niezdolność do pracy w gospodarstwie rolnym i do samodzielnej egzystencji albo trwałą lub okresową całkowitą niezdolność do pracy w gospodarstwie rolnym i do samodzielnej egzystencji, orzeczoną na podstawie przepisów o ubezpieczeniu społecznym rolników w celu uzyskania świadczeń określonych w tych przepisach,
+    - **d)** posiadanie orzeczenia o zaliczeniu do I grupy inwalidów,
+    - **e)** niezdolność do samodzielnej egzystencji orzeczoną na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub przepisów o ubezpieczeniu społecznym rolników;
+
+- **22)** zatrudnieniu lub innej pracy zarobkowej – oznacza to wykonywanie pracy na podstawie stosunku pracy, stosunku służbowego, umowy o pracę nakładczą oraz wykonywanie pracy lub świadczenie usług na podstawie umowy agencyjnej, umowy zlecenia, umowy o dzieło albo w okresie członkostwa w rolniczej spółdzielni produkcyjnej, spółdzielni kółek rolniczych lub spółdzielni usług rolniczych, a także prowadzenie pozarolniczej działalności gospodarczej;
+- **23)** utracie dochodu – oznacza to utratę dochodu spowodowaną: poz. 197, 620 i 621) lub art. 36aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, 620, 622, 769, 820 i 1083),
+    - **a)** uzyskaniem prawa do urlopu wychowawczego,
+    - **b)** utratą zasiłku lub stypendium dla bezrobotnych,
+    - **c)** utratą zatrudnienia lub innej pracy zarobkowej,
+    - **d)** utratą zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej, dodatku dopełniającego, rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051 oraz z 2025 r. poz. 620), lub świadczenia pieniężnego przyznanego na zasadach określonych w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658),
+    - **e)** (uchylona)
+    - **f)** wykreśleniem z rejestru pozarolniczej działalności gospodarczej lub zawieszeniem jej wykonywania w rozumieniu art. 16b ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r.
+    - **g)** (uchylona)
+    - **h)** utratą zasiłku chorobowego, świadczenia rehabilitacyjnego lub zasiłku macierzyńskiego, przysługujących po utracie zatrudnienia lub innej pracy zarobkowej,
+    - **i)** utratą zasądzonych świadczeń alimentacyjnych w związku ze śmiercią osoby zobowiązanej do tych świadczeń lub utratą świadczeń pieniężnych wypłacanych w przypadku bezskuteczności egzekucji alimentów w związku ze śmiercią osoby zobowiązanej do świadczeń alimentacyjnych;
+    - **j)** utratą świadczenia rodzicielskiego,
+    - **k)** utratą zasiłku macierzyńskiego, o którym mowa w przepisach o ubezpieczeniu społecznym rolników,
+    - **l)** utratą stypendium doktoranckiego określonego w art. 209 ust. 1 i 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+
+- **24)** uzyskaniu dochodu – oznacza to uzyskanie dochodu spowodowane:
+    - **a)** zakończeniem urlopu wychowawczego,
+    - **b)** uzyskaniem zasiłku lub stypendium dla bezrobotnych,
+    - **c)** uzyskaniem zatrudnienia lub innej pracy zarobkowej,
+    - **d)** uzyskaniem zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej, dodatku dopełniającego, rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym, lub świadczenia pieniężnego przyznanego na zasadach określonych w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia,
+    - **e)** (uchylona)
+    - **f)** rozpoczęciem pozarolniczej działalności gospodarczej lub wznowieniem jej wykonywania po okresie zawieszenia w rozumieniu art. 16b ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników lub art. 36aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
+    - **g)** (uchylona)
+    - **h)** uzyskaniem zasiłku chorobowego, świadczenia rehabilitacyjnego lub zasiłku macierzyńskiego, przysługujących po utracie zatrudnienia lub innej pracy zarobkowej,
+    - **i)** uzyskaniem świadczenia rodzicielskiego,
+    - **j)** uzyskaniem zasiłku macierzyńskiego, o którym mowa w przepisach o ubezpieczeniu społecznym rolników,
+    - **k)** uzyskaniem stypendium doktoranckiego określonego w art. 209 ust. 1 i 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 **Art. 3a.**
 
@@ -72,7 +147,11 @@ Art. 34–46. (pominięte)
 
 - **1)** rodzicom, jednemu z rodziców albo opiekunowi prawnemu dziecka;
 - **2)** opiekunowi faktycznemu dziecka;
-- **3)** osobie uczącej się. jeżeli dochód rodziny w przeliczeniu na osobę albo dochód osoby uczącej się nie przekracza kwoty 504,00 zł .
+- **3)** osobie uczącej się.
+
+**Art. 5.**
+
+1. Zasiłek rodzinny przysługuje osobom, o których mowa w art. 4 ust. 2, jeżeli dochód rodziny w przeliczeniu na osobę albo dochód osoby uczącej się nie przekracza kwoty 504,00 zł .
 
 2. W przypadku gdy członkiem rodziny jest dziecko legitymujące się orzeczeniem o niepełnosprawności lub orzeczeniem o umiarkowanym albo o znacznym stopniu niepełnosprawności, zasiłek rodzinny przysługuje, jeżeli dochód rodziny w przeliczeniu na osobę albo dochód osoby uczącej się nie przekracza kwoty 583,00 zł .
 
@@ -90,7 +169,7 @@ Art. 34–46. (pominięte)
 
 3d. W przypadku osoby uczącej się przepisy ust. 3–3c stosuje się odpowiednio.
 
-4. W przypadku utraty dochodu przez członka rodziny, osobę uczącą się lub dziecko pozostające pod opieką opiekuna prawnego w roku kalendarzowym uwzględnia się dochodu utraconego.
+4. W przypadku utraty dochodu przez członka rodziny, osobę uczącą się lub dziecko pozostające pod opieką opiekuna prawnego w roku kalendarzowym poprzedzającym okres zasiłkowy lub po tym roku, ustalając ich dochód, nie uwzględnia się dochodu utraconego.
 
 4a. W przypadku uzyskania dochodu przez członka rodziny, osobę uczącą się lub dziecko pozostające pod opieką opiekuna prawnego w roku kalendarzowym poprzedzającym okres zasiłkowy, ustalając dochód członka rodziny, osoby uczącej się lub dziecka pozostającego pod opieką opiekuna prawnego, osiągnięty w tym roku dochód dzieli się przez liczbę miesięcy, w których dochód ten był uzyskiwany, jeżeli dochód ten jest uzyskiwany w okresie, na który ustalane lub weryfikowane jest prawo do świadczeń rodzinnych.
 
@@ -104,7 +183,7 @@ Art. 34–46. (pominięte)
 
 7. W przypadku gdy członek rodziny jest umieszczony w pieczy zastępczej lub w instytucji zapewniającej całodobowe utrzymanie, ustalając dochód rodziny w przeliczeniu na osobę, nie uwzględnia się osoby umieszczonej w pieczy zastępczej lub w instytucji zapewniającej całodobowe utrzymanie.
 
-7a. W przypadku ustalania dochodu z działalności podlegającej opodatkowaniu na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne w roku kalendarzowym poprzedzającym okres zasiłkowy przyjmuje się dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie, w drodze obwieszczenia, przez ministra „Monitor Polski” w terminie do dnia 1 sierpnia każdego roku.
+7a. W przypadku ustalania dochodu z działalności podlegającej opodatkowaniu na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne w roku kalendarzowym poprzedzającym okres zasiłkowy przyjmuje się dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie, w drodze obwieszczenia, przez ministra właściwego do spraw rodziny w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do dnia 1 sierpnia każdego roku.
 
 8. W przypadku ustalania dochodu z gospodarstwa rolnego, przyjmuje się, że z 1 ha przeliczeniowego uzyskuje się dochód miesięczny w wysokości 1/12 dochodu ogłaszanego corocznie w drodze obwieszczenia przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 18 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176, 1635 i 1757).
 
@@ -122,7 +201,7 @@ Art. 34–46. (pominięte)
 
 10. (utracił moc)
 
-11. W przypadku gdy prawo do świadczeń rodzinnych ustala się na dziecko pozostające pod opieką opiekuna prawnego, opiekuna tymczasowego dziecka lub uwzględnia się tylko dochód dziecka.
+11. W przypadku gdy prawo do świadczeń rodzinnych ustala się na dziecko pozostające pod opieką opiekuna prawnego, opiekuna tymczasowego dziecka lub opiekuna dziecka wskazanego przez władze kraju pochodzenia, ustalając dochód uwzględnia się tylko dochód dziecka.
 
 **Art. 6.**
 
@@ -144,7 +223,28 @@ Art. 34–46. (pominięte)
 
 **Art. 7.** Zasiłek rodzinny nie przysługuje, jeżeli:
 
+- **1)** dziecko lub osoba ucząca się pozostają w związku małżeńskim;
+- **2)** dziecko zostało umieszczone w instytucji zapewniającej całodobowe utrzymanie albo w pieczy zastępczej;
+- **3)** osoba ucząca się została umieszczona w instytucji zapewniającej całodobowe utrzymanie;
+- **4)** pełnoletnie dziecko lub osoba ucząca się jest uprawniona do zasiłku rodzinnego na własne dziecko;
+- **5)** osobie samotnie wychowującej dziecko nie zostało ustalone, na rzecz dziecka od jego rodzica, świadczenie alimentacyjne na podstawie tytułu wykonawczego pochodzącego lub zatwierdzonego przez sąd, chyba że:
+    - **a)** rodzice lub jedno z rodziców dziecka nie żyje,
+    - **b)** ojciec dziecka jest nieznany,
+    - **c)** powództwo o ustalenie świadczenia alimentacyjnego od drugiego z rodziców zostało oddalone,
+    - **d)** sąd zobowiązał jednego z rodziców do ponoszenia całkowitych kosztów utrzymania dziecka i nie zobowiązał drugiego z rodziców do świadczenia alimentacyjnego na rzecz tego dziecka,
+    - **e)** dziecko, zgodnie z orzeczeniem sądu, jest pod opieką naprzemienną obojga rodziców sprawowaną w porównywalnych i powtarzających się okresach;
+
+- **6)** członkowi rodziny przysługuje na dziecko zasiłek rodzinny za granicą, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej.
+
 **Art. 8.** Do zasiłku rodzinnego przysługują dodatki z tytułu:
+
+- **1)** urodzenia dziecka;
+- **2)** opieki nad dzieckiem w okresie korzystania z urlopu wychowawczego;
+- **3)** (utracił moc) 3a) samotnego wychowywania dziecka;
+- **4)** (utracił moc) 4a) wychowywania dziecka w rodzinie wielodzietnej;
+- **5)** kształcenia i rehabilitacji dziecka niepełnosprawnego;
+- **6)** rozpoczęcia roku szkolnego;
+- **7)** podjęcia przez dziecko nauki w szkole poza miejscem zamieszkania.
 
 **Art. 9.**
 
@@ -158,7 +258,9 @@ Art. 34–46. (pominięte)
 
 5. (uchylony)
 
-6. Dodatek, o którym mowa w ust. 1, przysługuje, jeżeli kobieta pozostawała pod opieką medyczną nie później niż od 10 tygodnia ciąży do porodu. lub zaświadczeniem wystawionym przez położną.
+6. Dodatek, o którym mowa w ust. 1, przysługuje, jeżeli kobieta pozostawała pod opieką medyczną nie później niż od 10 tygodnia ciąży do porodu.
+
+7. Pozostawanie pod opieką medyczną potwierdza się zaświadczeniem lekarskim lub zaświadczeniem wystawionym przez położną.
 
 8. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, formę opieki medycznej, o której mowa w ust. 6, oraz wzór zaświadczenia, o którym mowa w ust. 7, uwzględniając odpowiednio rodzaje świadczeń zdrowotnych udzielanych kobiecie w okresie ciąży przez lekarza i położną oraz zakres danych niezbędnych do zapewnienia należytego udokumentowania pozostawania jej pod opieką medyczną w okresie od 10 tygodnia ciąży do porodu.
 
@@ -181,7 +283,8 @@ Art. 34–46. (pominięte)
 5. Dodatek nie przysługuje osobie, o której mowa w ust. 1, jeżeli:
 
 - **1)** (uchylony)
-- **2)** bezpośrednio przed uzyskaniem prawa do urlopu wychowawczego pozostawała w stosunku pracy przez okres krótszy niż 6 miesięcy; uniemożliwia sprawowanie osobistej opieki nad dzieckiem w okresie korzystania z urlopu wychowawczego;
+- **2)** bezpośrednio przed uzyskaniem prawa do urlopu wychowawczego pozostawała w stosunku pracy przez okres krótszy niż 6 miesięcy;
+- **3)** podjęła lub kontynuuje zatrudnienie lub inną pracę zarobkową, która uniemożliwia sprawowanie osobistej opieki nad dzieckiem w okresie korzystania z urlopu wychowawczego;
 - **4)** dziecko zostało umieszczone w placówce zapewniającej całodobową opiekę, w tym w specjalnym ośrodku szkolno-wychowawczym, z wyjątkiem podmiotu wykonującego działalność leczniczą, i korzysta w niej z całodobowej opieki przez więcej niż 5 dni w tygodniu, oraz w innych przypadkach zaprzestania sprawowania osobistej opieki nad dzieckiem;
 - **5)** w okresie urlopu wychowawczego korzysta z zasiłku macierzyńskiego;
 - **6)** korzysta ze świadczenia rodzicielskiego.
@@ -204,7 +307,9 @@ Art. 34–46. (pominięte)
 
 4. W przypadku dziecka legitymującego się orzeczeniem o niepełnosprawności lub orzeczeniem o znacznym stopniu niepełnosprawności kwotę dodatku zwiększa się o 80,00 zł na dziecko, nie więcej jednak niż o 160,00 zł na wszystkie dzieci.
 
-5. W przypadku gdy dochód rodziny nie przekracza 50 % kwot, o których mowa w art. 5 ust. 1 i 2, kwotę dodatku zwiększa się o 50,00 zł na dziecko, nie więcej jednak niż o 100,00 zł na wszystkie dzieci. i utraty prawa do zasiłku dla bezrobotnych na skutek upływu ustawowego okresu jego pobierania, dodatek, o którym mowa w ust. 1, nie przysługuje na żadne dziecko w rodzinie.
+5. W przypadku gdy dochód rodziny nie przekracza 50 % kwot, o których mowa w art. 5 ust. 1 i 2, kwotę dodatku zwiększa się o 50,00 zł na dziecko, nie więcej jednak niż o 100,00 zł na wszystkie dzieci.
+
+6. W przypadku wyboru dodatku z tytułu samotnego wychowywania dziecka i utraty prawa do zasiłku dla bezrobotnych na skutek upływu ustawowego okresu jego pobierania, dodatek, o którym mowa w ust. 1, nie przysługuje na żadne dziecko w rodzinie.
 
 7. Przepis ust. 5 obowiązuje do dnia 31 sierpnia 2006 r.
 
@@ -238,6 +343,8 @@ Art. 34–46. (pominięte)
 
 3. Wniosek o wypłatę dodatku składa się do dnia zakończenia okresu zasiłkowego, w którym rozpoczęto rok szkolny albo roczne przygotowanie przedszkolne.
 
+4. Wniosek złożony po terminie organ właściwy pozostawia bez rozpoznania.
+
 **Art. 15.**
 
 1. Dodatek z tytułu podjęcia przez dziecko nauki w szkole poza miejscem zamieszkania przysługuje matce lub ojcu dziecka, opiekunowi prawnemu albo opiekunowi faktycznemu dziecka lub osobie uczącej się:
@@ -258,6 +365,8 @@ Art. 34–46. (pominięte)
 2. Jednorazowa zapomoga przysługuje matce lub ojcu dziecka, opiekunowi prawnemu albo opiekunowi faktycznemu dziecka, jeżeli dochód rodziny w przeliczeniu na osobę nie przekracza kwoty 1922,00 zł. Przepisy art. 5 ust. 4–4b, 7– 9 i 11 stosuje się odpowiednio.
 
 3. Wniosek o wypłatę jednorazowej zapomogi składa się w terminie 12 miesięcy od dnia narodzin dziecka, a w przypadku gdy wniosek dotyczy dziecka objętego opieką prawną, opieką faktyczną albo dziecka przysposobionego – w terminie 12 miesięcy od dnia objęcia dziecka opieką albo przysposobienia nie później niż do ukończenia przez dziecko 18. roku życia. Wniosek złożony po terminie organ właściwy pozostawia bez rozpoznania.
+
+4. Jednorazowa zapomoga nie przysługuje, jeżeli:
 
 - **1)** członkowi rodziny przysługuje za granicą świadczenie z tytułu urodzenia dziecka, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej;
 - **2)** osobie samotnie wychowującej dziecko nie zostało ustalone, na rzecz danego dziecka od jego rodzica, świadczenie alimentacyjne na podstawie tytułu wykonawczego pochodzącego lub zatwierdzonego przez sąd, chyba że:
@@ -285,7 +394,9 @@ Art. 34–46. (pominięte)
 
 - **1)** niepełnosprawnemu dziecku;
 - **2)** osobie niepełnosprawnej w wieku powyżej 16. roku życia, jeżeli legitymuje się orzeczeniem o znacznym stopniu niepełnosprawności;
-- **3)** osobie, która ukończyła 75 lat. powyżej 16. roku życia legitymującej się orzeczeniem o umiarkowanym stopniu niepełnosprawności, jeżeli niepełnosprawność powstała w wieku do ukończenia
+- **3)** osobie, która ukończyła 75 lat.
+
+3. Zasiłek pielęgnacyjny przysługuje także osobie niepełnosprawnej w wieku powyżej 16. roku życia legitymującej się orzeczeniem o umiarkowanym stopniu niepełnosprawności, jeżeli niepełnosprawność powstała w wieku do ukończenia
 
 21. roku życia.
 
@@ -311,7 +422,7 @@ Art. 34–46. (pominięte)
 - **2)** innym osobom, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809 oraz z 2025 r. poz.
 - **897)** ciąży obowiązek alimentacyjny, a także małżonkom,
 - **3)** opiekunowi faktycznemu dziecka,
-- **4)** rodzinie zastępczej, osobie prowadzącej rodzinny dom dziecka, dyrektorowi placówki opiekuńczo-wychowawczej, dyrektorowi regionalnej placówki opiekuńczo-terapeutycznej albo dyrektorowi interwencyjnego ośrodka preadopcyjnego – jeżeli sprawują opiekę nad osobą w wieku do ukończenia 18. roku życia legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji.
+- **4)** rodzinie zastępczej, osobie prowadzącej rodzinny dom dziecka, dyrektorowi placówki opiekuńczo-wychowawczej, dyrektorowi regionalnej placówki opiekuńczo-terapeutycznej albo dyrektorowi interwencyjnego ośrodka preadopcyjnego – jeżeli sprawują opiekę nad osobą w wieku do ukończenia 18. roku życia legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji.
 
 1a. (uchylony) 1b. (uchylony)
 
@@ -329,7 +440,7 @@ Art. 34–46. (pominięte)
 
 3d. Wysokość świadczenia pielęgnacyjnego na następny rok kalendarzowy podlega ogłoszeniu w drodze obwieszczenia przez ministra właściwego do spraw zabezpieczenia społecznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 15 listopada każdego roku.
 
-3e. Osobom, o których mowa w ust. 1 pkt 1–3, rodzinie zastępczej i osobie prowadzącej rodzinny dom dziecka sprawującym opiekę nad więcej niż jedną osobą w wieku do ukończenia 18. roku życia legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji, wysokość świadczenia pielęgnacyjnego, o której mowa w ust. 3, podwyższa się o 100 % na drugą i każdą kolejną osobę, nad którą sprawowana jest opieka.
+3e. Osobom, o których mowa w ust. 1 pkt 1–3, rodzinie zastępczej i osobie prowadzącej rodzinny dom dziecka sprawującym opiekę nad więcej niż jedną osobą w wieku do ukończenia 18. roku życia legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji, wysokość świadczenia pielęgnacyjnego, o której mowa w ust. 3, podwyższa się o 100 % na drugą i każdą kolejną osobę, nad którą sprawowana jest opieka.
 
 4. Kwotę świadczenia pielęgnacyjnego przysługującą za niepełny miesiąc ustala się, dzieląc kwotę świadczenia przez liczbę wszystkich dni kalendarzowych w tym miesiącu, a otrzymaną kwotę mnoży się przez liczbę dni kalendarzowych, za które świadczenie przysługuje. Kwotę świadczenia przysługującą za niepełny miesiąc zaokrągla się do 10 groszy w górę.
 
@@ -341,7 +452,7 @@ Art. 34–46. (pominięte)
 - **2)** osoba wymagająca opieki została umieszczona lub przebywa w domu pomocy społecznej, zakładzie opiekuńczo-leczniczym, zakładzie pielęgnacyjno-opiekuńczym, placówce zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o której mowa w przepisach o pomocy społecznej, zakładzie karnym, zakładzie poprawczym, areszcie śledczym albo schronisku dla nieletnich;
 - **3)** osoba wymagająca opieki jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej;
 - **4)** na osobę wymagającą opieki inna osoba jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej;
-- **5)** na osobę wymagającą opieki jest ustalone prawo do specjalnego zasiłku opiekuńczego, prawo do świadczenia pielęgnacyjnego lub prawo do zasiłku dla i wypłacie zasiłków dla opiekunów.
+- **5)** na osobę wymagającą opieki jest ustalone prawo do specjalnego zasiłku opiekuńczego, prawo do świadczenia pielęgnacyjnego lub prawo do zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów.
 
 6. Zarejestrowanie w powiatowym urzędzie pracy jako osoba poszukująca pracy lub posiadanie statusu bezrobotnego nie ma wpływu na uprawnienie do świadczenia pielęgnacyjnego.
 
@@ -363,6 +474,7 @@ Art. 34–46. (pominięte)
 2. Świadczenie rodzicielskie przysługuje ojcu dziecka w przypadku:
 
 - **1)** skrócenia na wniosek matki dziecka okresu pobierania świadczenia rodzicielskiego, zasiłku macierzyńskiego lub uposażenia za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego lub okres urlopu rodzicielskiego, po wykorzystaniu przez nią tego świadczenia, zasiłku lub uposażenia za okres co najmniej 14 tygodni od dnia urodzenia dziecka;
+- **2)** śmierci matki dziecka;
 - **3)** porzucenia dziecka przez matkę.
 
 3. Świadczenie rodzicielskie przysługuje przez okres:
@@ -383,6 +495,7 @@ Art. 34–46. (pominięte)
 
 - **1)** przed ukończeniem 28. tygodnia ciąży lub z masą urodzeniową nie większą niż 1000 g;
 - **2)** po ukończeniu 28. tygodnia ciąży i przed ukończeniem 37. tygodnia ciąży i z masą urodzeniową większą niż 1000 g;
+- **3)** po ukończeniu 37. tygodnia ciąży.
 
 3c. W przypadku urodzenia więcej niż jednego dziecka przy jednym porodzie przy ustalaniu prawa do wydłużenia okresu przysługiwania świadczenia rodzicielskiego na zasadach określonych w ust. 3a należy uwzględnić wagę dziecka o najniższej masie urodzeniowej oraz okres pobytu w szpitalu dziecka najdłużej hospitalizowanego.
 
@@ -401,7 +514,7 @@ Art. 34–46. (pominięte)
 
 5. Świadczenie rodzicielskie przysługuje w wysokości 1000,00 zł miesięcznie, z uwzględnieniem ust. 6.
 
-6. W razie urodzenia dziecka przez kobietę pobierającą zasiłek dla bezrobotnych w okresie, o którym mowa w art. 225 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub w ciągu 30 dni po jego zakończeniu, lub w okresie przedłużenia zasiłku dla bezrobotnych na podstawie art. 225 ust. 2 tej ustawy, świadczenie rodzicielskie przysługuje jednemu z rodziców przez kobietę zasiłku dla bezrobotnych pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych.
+6. W razie urodzenia dziecka przez kobietę pobierającą zasiłek dla bezrobotnych w okresie, o którym mowa w art. 225 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub w ciągu 30 dni po jego zakończeniu, lub w okresie przedłużenia zasiłku dla bezrobotnych na podstawie art. 225 ust. 2 tej ustawy, świadczenie rodzicielskie przysługuje jednemu z rodziców w wysokości różnicy między kwotą świadczenia rodzicielskiego a kwotą pobieranego przez kobietę zasiłku dla bezrobotnych pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych.
 
 7. Kwotę świadczenia rodzicielskiego przysługującą za niepełny miesiąc ustala się, dzieląc kwotę świadczenia przez liczbę wszystkich dni kalendarzowych w tym miesiącu, a otrzymaną kwotę mnoży się przez liczbę dni kalendarzowych, za które świadczenie przysługuje. Kwotę świadczenia przysługującą za niepełny miesiąc zaokrągla się do 10 groszy w górę.
 
@@ -416,7 +529,9 @@ Art. 34–46. (pominięte)
 - **2)** dziecko zostało umieszczone w pieczy zastępczej – w przypadku osób, o których mowa w ust. 1 pkt 1 i 4;
 - **3)** osoba ubiegająca się o świadczenie rodzicielskie lub osoba pobierająca świadczenie rodzicielskie nie sprawuje lub zaprzestała sprawowania osobistej opieki nad dzieckiem, w tym w związku z zatrudnieniem lub wykonywaniem innej pracy zarobkowej, które uniemożliwiają sprawowanie tej opieki;
 - **4)** w związku z wychowywaniem tego samego dziecka lub w związku z opieką nad tym samym dzieckiem jest już ustalone prawo do świadczenia rodzicielskiego, dodatku do zasiłku rodzinnego, o którym mowa w art. 10, świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego lub zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów;
-- **5)** osobom, o których mowa w ust. 1, przysługuje za granicą świadczenie o podobnym charakterze do świadczenia rodzicielskiego, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej. Zasady weryfikacji świadczeń rodzinnych
+- **5)** osobom, o których mowa w ust. 1, przysługuje za granicą świadczenie o podobnym charakterze do świadczenia rodzicielskiego, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej.
+
+#### Rozdział 4 Zasady weryfikacji świadczeń rodzinnych
 
 **Art. 18.**
 
@@ -440,7 +555,7 @@ Art. 34–46. (pominięte)
 
 3. (uchylony)
 
-4. W przypadku gdy Rada Dialogu Społecznego nie uzgodni w terminie, o którym mowa w ust. 2, wysokości kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokości świadczeń rodzinnych, z wyłączeniem wysokości kwoty, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych, z wyłączeniem wysokości świadczenia pielęgnacyjnego, w terminie do dnia 15 sierpnia danego roku, na poziomie nie niższym niż wynika to z propozycji, o których mowa w ust. 1 pkt 1 i 2.
+4. W przypadku gdy Rada Dialogu Społecznego nie uzgodni w terminie, o którym mowa w ust. 2, wysokości kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokości świadczeń rodzinnych, z wyłączeniem wysokości świadczenia pielęgnacyjnego, Rada Ministrów określi, w drodze rozporządzenia, kwoty, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych, z wyłączeniem wysokości świadczenia pielęgnacyjnego, w terminie do dnia 15 sierpnia danego roku, na poziomie nie niższym niż wynika to z propozycji, o których mowa w ust. 1 pkt 1 i 2.
 
 5. Wysokość kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych, z wyłączeniem wysokości świadczenia pielęgnacyjnego, ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia Prezesa Rady Ministrów, w terminie do dnia 15 sierpnia roku, w którym przeprowadza się weryfikację.
 
@@ -454,7 +569,7 @@ Art. 34–46. (pominięte)
 
 3. Organ właściwy może upoważnić, w formie pisemnej, swojego zastępcę, pracownika urzędu albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy do prowadzenia postępowania w sprawach, o których mowa w ust. 2, a także do wydawania w tych sprawach decyzji.
 
-4. W przypadku upoważnienia kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, w ośrodku, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – w centrum usług społecznych, świadczeń rodzinnych nie może powodować nieprawidłowości w wykonywaniu zadań pomocy społecznej, a także nie może naruszać norm zatrudnienia pracowników socjalnych określonych w przepisach o pomocy społecznej.
+4. W przypadku upoważnienia kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, w ośrodku, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – w centrum usług społecznych, tworzy się komórkę organizacyjną do realizacji świadczeń rodzinnych. Realizacja świadczeń rodzinnych nie może powodować nieprawidłowości w wykonywaniu zadań pomocy społecznej, a także nie może naruszać norm zatrudnienia pracowników socjalnych określonych w przepisach o pomocy społecznej.
 
 **Art. 21.**
 
@@ -469,7 +584,9 @@ Art. 34–46. (pominięte)
 
 4. Wojewoda wymienia dane w zakresie świadczeń rodzinnych w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, za pośrednictwem punktu kontaktowego, o którym mowa w art. 22 ust. 2.
 
-5. W sprawach o świadczenia rodzinne realizowane w związku z koordynacją systemów zabezpieczenia społecznego komunikacja między organem właściwym a wojewodą, w szczególności przesyłanie wniosków wraz z dokumentami lub decyzji administracyjnych, niezależnie od postaci, w której zostały złożone lub wydane, odbywa się wyłącznie przy użyciu systemu teleinformatycznego utworzonego przez ministra właściwego do spraw rodziny po zastosowaniu zapewnionych w systemie sposobów potwierdzenia pochodzenia oraz integralności przesłanych danych. W przypadku wniosków, decyzji lub innych dokumentów, które posiadają wyłącznie postać papierową, przekazywana jest ich elektroniczna kopia. systemów zabezpieczenia społecznego komunikacja między wojewodą a ministrem właściwym do spraw zabezpieczenia społecznego, w szczególności przesyłanie odwołań, ponagleń, zażaleń, innych akt sprawy, a także postanowień lub decyzji administracyjnych, niezależnie od postaci, w której zostały złożone lub wydane, odbywa się wyłącznie przy użyciu systemu teleinformatycznego utworzonego przez ministra właściwego do spraw rodziny po zastosowaniu zapewnionych w systemie sposobów potwierdzenia pochodzenia oraz integralności przesłanych danych. W przypadku dokumentów, które posiadają wyłącznie postać papierową, przekazywana jest ich elektroniczna kopia.
+5. W sprawach o świadczenia rodzinne realizowane w związku z koordynacją systemów zabezpieczenia społecznego komunikacja między organem właściwym a wojewodą, w szczególności przesyłanie wniosków wraz z dokumentami lub decyzji administracyjnych, niezależnie od postaci, w której zostały złożone lub wydane, odbywa się wyłącznie przy użyciu systemu teleinformatycznego utworzonego przez ministra właściwego do spraw rodziny po zastosowaniu zapewnionych w systemie sposobów potwierdzenia pochodzenia oraz integralności przesłanych danych. W przypadku wniosków, decyzji lub innych dokumentów, które posiadają wyłącznie postać papierową, przekazywana jest ich elektroniczna kopia.
+
+6. W sprawach o świadczenia rodzinne realizowane w związku z koordynacją systemów zabezpieczenia społecznego komunikacja między wojewodą a ministrem właściwym do spraw zabezpieczenia społecznego, w szczególności przesyłanie odwołań, ponagleń, zażaleń, innych akt sprawy, a także postanowień lub decyzji administracyjnych, niezależnie od postaci, w której zostały złożone lub wydane, odbywa się wyłącznie przy użyciu systemu teleinformatycznego utworzonego przez ministra właściwego do spraw rodziny po zastosowaniu zapewnionych w systemie sposobów potwierdzenia pochodzenia oraz integralności przesłanych danych. W przypadku dokumentów, które posiadają wyłącznie postać papierową, przekazywana jest ich elektroniczna kopia.
 
 **Art. 22.**
 
@@ -489,7 +606,11 @@ Art. 34–46. (pominięte)
 
 4. W związku z urodzeniem się jednego dziecka może być przyznana tylko jedna zapomoga.
 
-5. Wypłaty zapomóg finansowane są ze środków własnych gminy. świadczeń na rzecz rodziny, może w drodze uchwały, ustanowić dla osób zamieszkałych na terenie jej działania świadczenia na rzecz rodziny inne niż określone w art. 2 pkt 1–3, 4 i 5.
+5. Wypłaty zapomóg finansowane są ze środków własnych gminy.
+
+**Art. 22b.**
+
+1. Rada gminy, biorąc pod uwagę lokalne potrzeby w zakresie świadczeń na rzecz rodziny, może w drodze uchwały, ustanowić dla osób zamieszkałych na terenie jej działania świadczenia na rzecz rodziny inne niż określone w art. 2 pkt 1–3, 4 i 5.
 
 2. Szczegółowe zasady przyznawania świadczeń, o których mowa w ust. 1, oraz ich wysokość określa uchwała, o której mowa w ust. 1.
 
@@ -511,7 +632,7 @@ Art. 34–46. (pominięte)
 
 **Art. 23.**
 
-1. Ustalenie prawa do świadczeń rodzinnych oraz ich wypłata następują odpowiednio na wniosek małżonków, jednego z małżonków, rodziców, jednego z rodziców, opiekuna faktycznego dziecka, opiekuna prawnego dziecka, opiekuna tymczasowego dziecka, opiekuna dziecka wskazanego przez władze kraju pochodzenia, rodziny zastępczej, osoby prowadzącej rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej, dyrektora regionalnej placówki opiekuńczo-terapeutycznej albo dyrektora interwencyjnego ośrodka preadopcyjnego osoby uczącej się, pełnoletniej osoby niepełnosprawnej lub innej osoby upoważnionej których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy ciąży obowiązek alimentacyjny.
+1. Ustalenie prawa do świadczeń rodzinnych oraz ich wypłata następują odpowiednio na wniosek małżonków, jednego z małżonków, rodziców, jednego z rodziców, opiekuna faktycznego dziecka, opiekuna prawnego dziecka, opiekuna tymczasowego dziecka, opiekuna dziecka wskazanego przez władze kraju pochodzenia, rodziny zastępczej, osoby prowadzącej rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej, dyrektora regionalnej placówki opiekuńczo-terapeutycznej albo dyrektora interwencyjnego ośrodka preadopcyjnego osoby uczącej się, pełnoletniej osoby niepełnosprawnej lub innej osoby upoważnionej do reprezentowania dziecka lub pełnoletniej osoby niepełnosprawnej, a także osób, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy ciąży obowiązek alimentacyjny.
 
 1a. Wniosek o ustalenie prawa do świadczenia pielęgnacyjnego na dziecko umieszczone w pieczy zastępczej może złożyć wyłącznie odpowiednio rodzina zastępcza, osoba prowadząca rodzinny dom dziecka, dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej albo dyrektor interwencyjnego ośrodka preadopcyjnego.
 
@@ -526,7 +647,7 @@ Art. 34–46. (pominięte)
 - **2a)** odpowiednio placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej albo interwencyjnego ośrodka preadopcyjnego, w zakresie nazwy, adresu oraz numerów NIP i REGON – w przypadku gdy wnioskodawcą jest dyrektor tej placówki albo ośrodka;
 - **3)** innych osób, podane przez osobę ubiegającą się o przyznanie świadczeń rodzinnych.
 
-3a. Wniosek i załączniki do wniosku określone w ust. 4 mogą być składane drogą elektroniczną za pomocą systemu teleinformatycznego utworzonego przez ministra właściwego do spraw rodziny lub systemu teleinformatycznego wskazanego w informacji zamieszczonej na stronie podmiotowej Biuletynu Informacji Publicznej spraw informatyzacji.
+3a. Wniosek i załączniki do wniosku określone w ust. 4 mogą być składane drogą elektroniczną za pomocą systemu teleinformatycznego utworzonego przez ministra właściwego do spraw rodziny lub systemu teleinformatycznego wskazanego w informacji zamieszczonej na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw rodziny po uzgodnieniu z ministrem właściwym do spraw informatyzacji.
 
 3b. Wniosek i załączniki do wniosku określone w ust. 4 w postaci elektronicznej mogą być składane za pomocą:
 
@@ -544,6 +665,7 @@ Art. 34–46. (pominięte)
 4. Do wniosku należy dołączyć odpowiednio:
 
 - **1)** zaświadczenia lub oświadczenia dokumentujące wysokość innych dochodów niż dochody podlegające opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, dotyczące każdego członka rodziny;
+- **2)** (uchylony)
 - **3)** zaświadczenia lub oświadczenia oraz dowody niezbędne do ustalenia prawa do świadczeń rodzinnych:
     - **a)** prawomocne orzeczenie sądu rodzinnego stwierdzające przysposobienie lub zaświadczenie sądu rodzinnego lub ośrodka adopcyjnego o prowadzonym postępowaniu sądowym w sprawie o przysposobienie dziecka,
     - **b)** prawomocne orzeczenie sądu orzekające rozwód lub separację,
@@ -552,7 +674,7 @@ Art. 34–46. (pominięte)
     - **e)** zaświadczenie pracodawcy albo oświadczenie o okresie, na który został udzielony urlop wychowawczy, oraz o okresach zatrudnienia, ea) zaświadczenie, o którym mowa w art. 17c ust. 3b,
     - **f)** inne dokumenty potwierdzające spełnianie warunków do przyznania lub ustalenia wysokości świadczenia rodzinnego będącego przedmiotem wniosku.
 
-4a. (uchylony) 4aa. Jeżeli w stosunku do osoby ubiegającej się lub pobierającej świadczenie pielęgnacyjne wystąpią wątpliwości dotyczące sprawowania opieki, o której mowa w art. 17 ust. 1, organ właściwy oraz wojewoda mogą zwrócić się do kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – do dyrektora centrum usług społecznych, o przeprowadzenie rodzinnego wywiadu społecznej (Dz. U. z 2024 r. poz. 1283 i 1572 oraz z 2025 r. poz. 620 i 718), w celu weryfikacji tych wątpliwości.
+4a. (uchylony) 4aa. Jeżeli w stosunku do osoby ubiegającej się lub pobierającej świadczenie pielęgnacyjne wystąpią wątpliwości dotyczące sprawowania opieki, o której mowa w art. 17 ust. 1, organ właściwy oraz wojewoda mogą zwrócić się do kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – do dyrektora centrum usług społecznych, o przeprowadzenie rodzinnego wywiadu środowiskowego, o którym mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572 oraz z 2025 r. poz. 620 i 718), w celu weryfikacji tych wątpliwości.
 
 4b. W przypadku, o którym mowa w ust. 4aa, organ właściwy oraz wojewoda mogą wystąpić do ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – do centrum usług społecznych, o udzielenie informacji o okolicznościach dotyczących sprawowania opieki, o której mowa w art. 17 ust. 1, jeżeli okoliczności te zostały ustalone w rodzinnym wywiadzie środowiskowym przeprowadzonym nie wcześniej niż 3 miesiące przed dniem otrzymania przez ośrodek pomocy społecznej albo centrum usług społecznych wniosku o udzielenie informacji.
 
@@ -563,7 +685,9 @@ Art. 34–46. (pominięte)
 
 4d. W przypadku utraty dochodu lub uzyskania dochodu do wniosku o świadczenia rodzinne należy dołączyć dokumenty potwierdzające ich utratę lub uzyskanie oraz ich wysokość.
 
-4e. (uchylony) 4f. (uchylony) 4g. (uchylony) i tryb postępowania w sprawach o przyznanie świadczeń rodzinnych oraz szczegółowy zakres informacji, jakie mają być zawarte:
+4e. (uchylony) 4f. (uchylony) 4g. (uchylony)
+
+5. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób i tryb postępowania w sprawach o przyznanie świadczeń rodzinnych oraz szczegółowy zakres informacji, jakie mają być zawarte:
 
 - **1)** we wniosku o ustalenie prawa do świadczeń rodzinnych,
 - **2)** w oświadczeniach niezbędnych do ustalenia prawa do świadczeń rodzinnych, w tym oświadczeniach o dochodach członków rodziny – kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania w sprawach o przyznanie świadczeń rodzinnych oraz dokumentacji niezbędnej do sprawnej realizacji, również drogą elektroniczną, zadań w zakresie świadczeń rodzinnych.
@@ -581,7 +705,8 @@ Art. 34–46. (pominięte)
 
 5d. Minister właściwy do spraw rodziny może określić oraz zamieścić na swojej stronie Biuletynu Informacji Publicznej wzory:
 
-- **1)** wniosków o ustalenie prawa do świadczeń rodzinnych; oświadczeń o dochodach członków rodziny.
+- **1)** wniosków o ustalenie prawa do świadczeń rodzinnych;
+- **2)** oświadczeń niezbędnych do ustalenia prawa do świadczeń rodzinnych, w tym oświadczeń o dochodach członków rodziny.
 
 6. Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
 
@@ -589,13 +714,13 @@ Art. 34–46. (pominięte)
 - **2)** wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu,
 - **3)** sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu – mając na uwadze zapewnienie spójności systemów teleinformatycznych stosowanych w urzędach administracji publicznej do realizacji zadań w zakresie świadczeń rodzinnych, w szczególności w zakresie jednorodności zakresu i rodzaju danych, która umożliwi ich scalanie w zbiór centralny, a także zachowanie zgodności z minimalnymi wymogami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-6a. Minister właściwy do spraw rodziny jest obowiązany do utworzenia i prowadzenia systemu teleinformatycznego umożliwiającego ubieganie się o świadczenia rodzinne drogą elektroniczną oraz zapewnienia funkcjonowania tego systemu. Uwierzytelnianie użytkowników w systemie teleinformatycznym wymaga użycia profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację jeżeli zostaną udostępnione w tym systemie.
+6a. Minister właściwy do spraw rodziny jest obowiązany do utworzenia i prowadzenia systemu teleinformatycznego umożliwiającego ubieganie się o świadczenia rodzinne drogą elektroniczną oraz zapewnienia funkcjonowania tego systemu. Uwierzytelnianie użytkowników w systemie teleinformatycznym wymaga użycia profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online, albo innych technologii, jeżeli zostaną udostępnione w tym systemie.
 
 7. Organy właściwe do realizacji ustawy używają oprogramowania, które jest zgodne z wymaganiami określonymi w przepisach wydanych na podstawie ust. 6. Wojewoda oraz minister właściwy do spraw zabezpieczenia społecznego realizują ustawę za pomocą systemu teleinformatycznego udostępnionego nieodpłatnie przez ministra właściwego do spraw rodziny.
 
 8. Minister właściwy do spraw rodziny jest obowiązany utworzyć rejestr centralny obejmujący następujące informacje gromadzone na podstawie przepisów ustawy przez organy właściwe i wojewodów podczas realizacji zadań w zakresie świadczeń rodzinnych:
 
-- **1)** dane dotyczące osób pobierających świadczenia rodzinne, osób ubiegających się o świadczenia rodzinne oraz członków ich rodzin: poz. 152, 858, 1572 i 1933 oraz z 2025 r. poz. 1019), okresie uczęszczania, typie lub rodzaju instytucji oraz nazwie i adresie siedziby instytucji, do której dziecko lub osoba ucząca się uczęszcza, ja) orzeczenie o niepełnosprawności lub o stopniu niepełnosprawności, jb) informacje o prawie do świadczeń opieki zdrowotnej, jc) informacje o rozliczaniu się z podatku dochodowego od osób fizycznych, okresie uczęszczania oraz nazwie i adresie siedziby szkoły wyższej, do której dziecko lub osoba ucząca się uczęszcza, je) informacje o pobieraniu dodatku pielęgnacyjnego,
+- **1)** dane dotyczące osób pobierających świadczenia rodzinne, osób ubiegających się o świadczenia rodzinne oraz członków ich rodzin: poz. 152, 858, 1572 i 1933 oraz z 2025 r. poz. 1019), okresie uczęszczania, typie lub rodzaju instytucji oraz nazwie i adresie siedziby instytucji, do której dziecko lub osoba ucząca się uczęszcza, ja) orzeczenie o niepełnosprawności lub o stopniu niepełnosprawności, jb) informacje o prawie do świadczeń opieki zdrowotnej, jc) informacje o rozliczaniu się z podatku dochodowego od osób fizycznych, jd) informacje o uczęszczaniu dziecka lub osoby uczącej się do szkoły wyższej, okresie uczęszczania oraz nazwie i adresie siedziby szkoły wyższej, do której dziecko lub osoba ucząca się uczęszcza, je) informacje o pobieraniu dodatku pielęgnacyjnego,
     - **a)** imię i nazwisko,
     - **b)** datę urodzenia,
     - **c)** adres miejsca zamieszkania lub pobytu,
@@ -621,7 +746,8 @@ Art. 34–46. (pominięte)
 10. Informacje zawarte w rejestrze centralnym, o którym mowa w ust. 8, udostępnia się, w zakresie niezbędnym do realizacji ich zadań ustawowych, następującym podmiotom:
 
 - **1)** organowi właściwemu i wojewodzie – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin;
-- **2)** organowi właściwemu dłużnika, o którym mowa w art. 2 pkt 9 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438 i 620), i organowi właściwemu wierzyciela, o którym mowa w art. 2 pkt 10 tej ustawy – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z funduszu alimentacyjnego, osób pobierających świadczenia z funduszu alimentacyjnego i członków ich rodzin oraz danych dotyczących dłużników alimentacyjnych; samorządu terytorialnego – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób pobierających świadczenia z pomocy społecznej oraz członków ich rodzin;
+- **2)** organowi właściwemu dłużnika, o którym mowa w art. 2 pkt 9 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438 i 620), i organowi właściwemu wierzyciela, o którym mowa w art. 2 pkt 10 tej ustawy – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z funduszu alimentacyjnego, osób pobierających świadczenia z funduszu alimentacyjnego i członków ich rodzin oraz danych dotyczących dłużników alimentacyjnych;
+- **3)** jednostkom organizacyjnym pomocy społecznej prowadzonym przez jednostki samorządu terytorialnego – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób pobierających świadczenia z pomocy społecznej oraz członków ich rodzin;
 - **4)** powiatowym i wojewódzkim zespołom do spraw orzekania o niepełnosprawności – w celu weryfikacji danych dotyczących osób ubiegających się o wydanie orzeczenia o niepełnosprawności lub o stopniu niepełnosprawności i osób posiadających orzeczenie o niepełnosprawności lub o stopniu niepełnosprawności;
 - **4a)** (uchylony)
 - **5)** Zakładowi Ubezpieczeń Społecznych – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576 oraz z 2025 r. poz. 619), osób pobierających to świadczenie oraz członków ich rodzin;
@@ -632,7 +758,9 @@ Art. 34–46. (pominięte)
 
 10b. Minister właściwy do spraw rodziny przetwarza dane w zakresie adresu poczty elektronicznej wskazanego we wniosku o ustalenie prawa do świadczeń rodzinnych w celu przekazywania informacji związanych z uprawnieniami dla rodzin. Przepisy ust. 11 i 13 stosuje się odpowiednio.
 
-11. Minister właściwy do spraw rodziny przechowuje informacje w rejestrze centralnym, o którym mowa w ust. 8, przez okres 10 lat od dnia zaprzestania udzielania świadczeń, z wyjątkiem informacji dotyczących osób, którym świadczenie nie zostało przyznane, które przechowuje się przez okres 1 roku od dnia, w którym decyzja w sprawie świadczenia stała się ostateczna, lub od dnia pozostawienia wniosku o ustalenie prawa do świadczenia bez rozpatrzenia. w ust. 8, przez okres 10 lat od dnia ich udostępnienia z rejestru centralnego, o którym mowa w ust. 8, z wyjątkiem informacji dotyczących osób, którym świadczenie nie zostało przyznane albo którym wydane zostało orzeczenie o niezaliczeniu do osób niepełnosprawnych lub o odmowie ustalenia stopnia niepełnosprawności, które przechowuje się przez okres 1 roku od dnia, w którym decyzja w sprawie świadczenia albo wydania orzeczenia stała się ostateczna, lub od dnia pozostawienia wniosku o ustalenie prawa do świadczenia albo o wydanie orzeczenia bez rozpatrzenia.
+11. Minister właściwy do spraw rodziny przechowuje informacje w rejestrze centralnym, o którym mowa w ust. 8, przez okres 10 lat od dnia zaprzestania udzielania świadczeń, z wyjątkiem informacji dotyczących osób, którym świadczenie nie zostało przyznane, które przechowuje się przez okres 1 roku od dnia, w którym decyzja w sprawie świadczenia stała się ostateczna, lub od dnia pozostawienia wniosku o ustalenie prawa do świadczenia bez rozpatrzenia.
+
+12. Podmioty wymienione w ust. 10 przechowują informacje, o których mowa w ust. 8, przez okres 10 lat od dnia ich udostępnienia z rejestru centralnego, o którym mowa w ust. 8, z wyjątkiem informacji dotyczących osób, którym świadczenie nie zostało przyznane albo którym wydane zostało orzeczenie o niezaliczeniu do osób niepełnosprawnych lub o odmowie ustalenia stopnia niepełnosprawności, które przechowuje się przez okres 1 roku od dnia, w którym decyzja w sprawie świadczenia albo wydania orzeczenia stała się ostateczna, lub od dnia pozostawienia wniosku o ustalenie prawa do świadczenia albo o wydanie orzeczenia bez rozpatrzenia.
 
 13. Informacje, o których mowa w ust. 8, usuwa się niezwłocznie po upływie okresów przechowywania, o których mowa w ust. 11 i 12.
 
@@ -644,7 +772,9 @@ Art. 34–46. (pominięte)
 
 1. W przypadku gdy osoba uprawniona do świadczeń rodzinnych lub członek rodziny tej osoby lub rodzic dziecka przebywa poza granicami Rzeczypospolitej Polskiej w państwie, w którym mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego, organ właściwy przekazuje wniosek wraz z dokumentami, w tym informacjami dotyczącymi sprawy, wojewodzie.
 
-2. W przypadku przebywania osoby uprawnionej do świadczeń rodzinnych lub członka rodziny tej osoby lub rodzica dziecka w dniu wydania decyzji ustalającej prawo do świadczeń rodzinnych lub po dniu jej wydania poza granicami Rzeczypospolitej Polskiej w państwie, o którym mowa w ust. 1, organ właściwy występuje do wojewody o ustalenie, czy w sprawie mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego, przekazując niezbędne dokumenty, w tym informacje dotyczące sprawy. granicami Rzeczypospolitej Polskiej w celach turystycznych, leczniczych lub związanych z podjęciem przez dziecko kształcenia.
+2. W przypadku przebywania osoby uprawnionej do świadczeń rodzinnych lub członka rodziny tej osoby lub rodzica dziecka w dniu wydania decyzji ustalającej prawo do świadczeń rodzinnych lub po dniu jej wydania poza granicami Rzeczypospolitej Polskiej w państwie, o którym mowa w ust. 1, organ właściwy występuje do wojewody o ustalenie, czy w sprawie mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego, przekazując niezbędne dokumenty, w tym informacje dotyczące sprawy.
+
+2a. Przepisów ust. 1 i 2 nie stosuje się w przypadku wyjazdu lub pobytu poza granicami Rzeczypospolitej Polskiej w celach turystycznych, leczniczych lub związanych z podjęciem przez dziecko kształcenia.
 
 2b. Przekazywanie wniosku oraz dokumentów, o których mowa w ust. 1 i 2, następuje wyłącznie:
 
@@ -666,7 +796,7 @@ Art. 34–46. (pominięte)
 
 4. W przypadku gdy wojewoda w sytuacji, o której mowa w ust. 1, ustali, że mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego, wydaje decyzję w sprawie świadczeń rodzinnych zgodnie z art. 21 za okres, o którym mowa w ust. 3.
 
-4a. W przypadku gdy decyzja wojewody, o której mowa w ust. 4, nie obejmuje całego okresu, na który ustalane jest prawo do świadczenia rodzinnego, wojewoda rodzinnych za okres nieobjęty decyzją, o której mowa w ust. 4.
+4a. W przypadku gdy decyzja wojewody, o której mowa w ust. 4, nie obejmuje całego okresu, na który ustalane jest prawo do świadczenia rodzinnego, wojewoda przekazuje sprawę organowi właściwemu w celu ustalenia prawa do świadczeń rodzinnych za okres nieobjęty decyzją, o której mowa w ust. 4.
 
 5. W przypadku gdy wojewoda w sytuacji, o której mowa w ust. 2, ustali, że mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego, organ właściwy uchyla decyzję przyznającą świadczenia rodzinne za okres, o którym mowa w ust. 3.
 
@@ -685,7 +815,7 @@ Art. 34–46. (pominięte)
 
 **Art. 23b.**
 
-1. Organ właściwy oraz wojewoda ustalający prawo do świadczeń rodzinnych są obowiązani do samodzielnego uzyskania lub weryfikacji drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny, lub drogą pisemną, od organów podatkowych lub ministra właściwego do spraw finansów publicznych, organów emerytalno-rentowych oraz z rejestrów publicznych, w tym z rejestru PESEL, o którym mowa w przepisach o ewidencji ludności, oraz drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny z systemu oświatowej, z Centralnego Wykazu Ubezpieczonych, odpowiednio:
+1. Organ właściwy oraz wojewoda ustalający prawo do świadczeń rodzinnych są obowiązani do samodzielnego uzyskania lub weryfikacji drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny, lub drogą pisemną, od organów podatkowych lub ministra właściwego do spraw finansów publicznych, organów emerytalno-rentowych oraz z rejestrów publicznych, w tym z rejestru PESEL, o którym mowa w przepisach o ewidencji ludności, oraz drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny z systemu informacji oświatowej, o którym mowa w przepisach o systemie informacji oświatowej, z Centralnego Wykazu Ubezpieczonych, odpowiednio:
 
 - **1)** informacji o dochodzie podlegającym opodatkowaniu podatkiem dochodowym od osób fizycznych na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, każdego członka rodziny, udzielanych przez naczelnika właściwego urzędu skarbowego, zawierających dane o wysokości:
     - **a)** dochodu,
@@ -706,6 +836,7 @@ Art. 34–46. (pominięte)
 - **913)** , obejmującej następujące dane:
     - **a)** datę i rodzaj wydanego orzeczenia,
     - **b)** wskazania, o których mowa w art. 6b ust. 3 pkt 7 i 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
+    - **c)** datę powstania niepełnosprawności lub stopnia niepełnosprawności,
     - **d)** datę złożenia wniosku o wydanie orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności,
     - **e)** okres, na jaki zostało wydane orzeczenie;
 
@@ -724,7 +855,7 @@ Art. 34–46. (pominięte)
     - **b)** numer PESEL, a w razie gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość,
     - **c)** adres miejsca zamieszkania, ze wskazaniem powiatu i województwa.
 
-2. W przypadku gdy w Elektronicznym Krajowym Systemie Monitoringu Orzekania o Niepełnosprawności znajduje się więcej niż jedno orzeczenie wydane na podstawie przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, dotyczące tej samej osoby, orzeczeń, które potwierdzają prawo do świadczeń rodzinnych.
+2. W przypadku gdy w Elektronicznym Krajowym Systemie Monitoringu Orzekania o Niepełnosprawności znajduje się więcej niż jedno orzeczenie wydane na podstawie przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, dotyczące tej samej osoby, informacja, o której mowa w ust. 1 pkt 5, jest przekazywana wyłącznie na podstawie orzeczeń, które potwierdzają prawo do świadczeń rodzinnych.
 
 3. W przypadku braku w Elektronicznym Krajowym Systemie Monitoringu Orzekania o Niepełnosprawności informacji, o której mowa w ust. 1 pkt 5, organ właściwy oraz wojewoda prowadzący postępowanie w sprawie świadczeń rodzinnych wzywają osobę, o której mowa w art. 23 ust. 1, do dołączenia orzeczenia o niepełnosprawności lub o stopniu niepełnosprawności.
 
@@ -734,7 +865,11 @@ Art. 34–46. (pominięte)
 
 6. Minister właściwy do spraw rodziny pozyskuje drogą elektroniczną informacje niezbędne do ustalenia prawa do świadczeń rodzinnych od organów emerytalno-rentowych oraz z rejestrów publicznych, w tym z rejestru PESEL, o którym mowa w przepisach o ewidencji ludności, z systemu informacji oświatowej, o którym mowa w przepisach o systemie informacji oświatowej, z Centralnego Wykazu Ubezpieczonych oraz z wykazu studentów i wykazu osób ubiegających się o nadanie stopnia doktora będących częścią Zintegrowanego Systemu Informacji o Szkolnictwie Wyższym i Nauce POL-on, o którym mowa w przepisach o szkolnictwie wyższym i nauce, w celu umożliwienia organom właściwym i wojewodom weryfikacji prawa do świadczeń rodzinnych, a także w celu monitorowania przez ministra właściwego do spraw rodziny oraz wojewodę realizacji świadczeń rodzinnych przez organy właściwe lub wojewodów.
 
-7. Minister właściwy do spraw rodziny w celu realizacji zadania, o którym mowa w ust. 6, przekazuje drogą elektroniczną organom emerytalno-rentowym oraz podmiotom prowadzącym rejestry, o których mowa w ust. 6, dane, o których mowa w art. 23 ust. 8 pkt 1 lit. a, b, e oraz f. z wyjątkiem świadczeń, o których mowa w art. 9, art. 14, art. 15, art. 15a, art. 15b, art. 16, art. 17 i art. 17c.
+7. Minister właściwy do spraw rodziny w celu realizacji zadania, o którym mowa w ust. 6, przekazuje drogą elektroniczną organom emerytalno-rentowym oraz podmiotom prowadzącym rejestry, o których mowa w ust. 6, dane, o których mowa w art. 23 ust. 8 pkt 1 lit. a, b, e oraz f.
+
+**Art. 24.**
+
+1. Prawo do świadczeń rodzinnych ustala się na okres zasiłkowy, z wyjątkiem świadczeń, o których mowa w art. 9, art. 14, art. 15, art. 15a, art. 15b, art. 16, art. 17 i art. 17c.
 
 2. Prawo do świadczeń rodzinnych ustala się, począwszy od miesiąca, w którym wpłynął wniosek z prawidłowo wypełnionymi dokumentami, do końca okresu zasiłkowego.
 
@@ -746,7 +881,9 @@ Art. 34–46. (pominięte)
 
 4. Prawo do zasiłku pielęgnacyjnego lub świadczenia pielęgnacyjnego ustala się na czas nieokreślony, chyba że orzeczenie o niepełnosprawności lub orzeczenie o stopniu niepełnosprawności zostało wydane na czas określony. W przypadku wydania orzeczenia o niepełnosprawności lub orzeczenia o stopniu niepełnosprawności na czas określony prawo do zasiłku pielęgnacyjnego lub świadczenia pielęgnacyjnego ustala się do ostatniego dnia miesiąca, w którym upływa termin ważności orzeczenia.
 
-5. Zasiłek rodzinny przysługuje za wrzesień, jeżeli dziecko lub osoba ucząca się legitymujące się orzeczeniem o umiarkowanym lub znacznym stopniu niepełnosprawności po ukończeniu nauki w szkole zostały przyjęte, w tym samym roku kalendarzowym, do szkoły wyższej. pierwszego miesiąca następującego po miesiącu, w którym nastąpiła utrata dochodu, nie wcześniej jednak niż od miesiąca złożenia wniosku.
+5. Zasiłek rodzinny przysługuje za wrzesień, jeżeli dziecko lub osoba ucząca się legitymujące się orzeczeniem o umiarkowanym lub znacznym stopniu niepełnosprawności po ukończeniu nauki w szkole zostały przyjęte, w tym samym roku kalendarzowym, do szkoły wyższej.
+
+6. W razie utraty dochodu prawo do świadczeń rodzinnych ustala się od pierwszego miesiąca następującego po miesiącu, w którym nastąpiła utrata dochodu, nie wcześniej jednak niż od miesiąca złożenia wniosku.
 
 6a. W przypadku przyznania świadczeń rodzinnych po uwzględnieniu utraty dochodu z tytułu zatrudnienia lub innej pracy zarobkowej lub dochodu z pozarolniczej działalności gospodarczej, po upływie 3 miesięcy, licząc od dnia utraty dochodu, ustalone prawo do świadczeń rodzinnych weryfikuje się z uwzględnieniem art. 5 ust.
 
@@ -762,7 +899,9 @@ Art. 34–46. (pominięte)
 
 **Art. 24a.**
 
-1. W przypadku złożenia nieprawidłowo wypełnionego wniosku podmiot realizujący świadczenia wzywa pisemnie osobę ubiegającą się o świadczenia do poprawienia lub uzupełnienia wniosku w terminie 14 dni od dnia otrzymania wezwania. Niezastosowanie się do wezwania skutkuje pozostawieniem wniosku bez rozpatrzenia. podmiot realizujący świadczenia przyjmuje wniosek i wyznacza termin nie krótszy niż 14 dni i nie dłuższy niż 30 dni na uzupełnienie brakujących dokumentów. Niezastosowanie się do wezwania skutkuje pozostawieniem wniosku bez rozpatrzenia.
+1. W przypadku złożenia nieprawidłowo wypełnionego wniosku podmiot realizujący świadczenia wzywa pisemnie osobę ubiegającą się o świadczenia do poprawienia lub uzupełnienia wniosku w terminie 14 dni od dnia otrzymania wezwania. Niezastosowanie się do wezwania skutkuje pozostawieniem wniosku bez rozpatrzenia.
+
+2. W przypadku gdy osoba złoży wniosek bez wymaganych dokumentów, podmiot realizujący świadczenia przyjmuje wniosek i wyznacza termin nie krótszy niż 14 dni i nie dłuższy niż 30 dni na uzupełnienie brakujących dokumentów. Niezastosowanie się do wezwania skutkuje pozostawieniem wniosku bez rozpatrzenia.
 
 3. W przypadku gdy przyczyną niedostarczenia wymaganego dokumentu przez osobę składającą wniosek jest niewydanie dokumentu przez właściwą instytucję w ustawowo określonym, w odrębnych przepisach, terminie oraz osoba może to udokumentować, świadczenia przysługują począwszy od miesiąca, w którym wniosek został złożony.
 
@@ -772,7 +911,8 @@ Art. 34–46. (pominięte)
 
 6. W przypadku, o którym mowa w ust. 5, świadczenia rodzinne przysługują:
 
-- **1)** od miesiąca złożenia wniosku, nie wcześniej niż od miesiąca, od którego rodzic został zobowiązany do zapłaty alimentów, jeżeli spełnione są pozostałe warunki uprawniające do świadczeń – w przypadku dostarczenia tytułu wykonawczego; uprawniające do świadczeń – w przypadku dostarczenia dokumentów poświadczających okoliczności, o których mowa odpowiednio w art. 7 pkt 5 lit. a–e lub w art. 15b ust. 4 pkt 2 lit. a–e.
+- **1)** od miesiąca złożenia wniosku, nie wcześniej niż od miesiąca, od którego rodzic został zobowiązany do zapłaty alimentów, jeżeli spełnione są pozostałe warunki uprawniające do świadczeń – w przypadku dostarczenia tytułu wykonawczego;
+- **2)** od miesiąca złożenia wniosku, jeżeli spełnione są pozostałe warunki uprawniające do świadczeń – w przypadku dostarczenia dokumentów poświadczających okoliczności, o których mowa odpowiednio w art. 7 pkt 5 lit. a–e lub w art. 15b ust. 4 pkt 2 lit. a–e.
 
 **Art. 25.**
 
@@ -786,7 +926,7 @@ Art. 34–46. (pominięte)
 
 5. W przypadku powzięcia informacji o zmianie miejsca zamieszkania osoby, której przyznano świadczenia rodzinne, dotychczasowy organ właściwy przekazuje wydaną decyzję wraz z aktami sprawy organowi właściwemu ze względu na nowe miejsce zamieszkania w celu jej dalszej realizacji. Organ właściwy ze względu na nowe miejsce zamieszkania realizuje otrzymaną decyzję bez konieczności wydawania kolejnej decyzji oraz jest właściwy do jej uchylenia, zmiany oraz do ustalania i dochodzenia świadczeń nienależnie pobranych, jeżeli uległa zmianie sytuacja rodzinna lub dochodowa rodziny mająca wpływ na prawo do świadczeń rodzinnych, członek rodziny nabył prawo do świadczeń rodzinnych w innym państwie, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego stanowią inaczej, osoba nienależnie pobrała świadczenie rodzinne lub wystąpiły inne okoliczności mające wpływ na prawo do świadczeń.
 
-6. W sytuacji gdy mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego, w przypadku powzięcia informacji o zmianie miejsca właściwości wojewody, przepisy ust. 4 i 5 stosuje się odpowiednio.
+6. W sytuacji gdy mają zastosowanie przepisy o koordynacji systemów zabezpieczenia społecznego, w przypadku powzięcia informacji o zmianie miejsca zamieszkania osoby, której przyznano świadczenia rodzinne, powodującej zmianę właściwości wojewody, przepisy ust. 4 i 5 stosuje się odpowiednio.
 
 **Art. 25a.** (uchylony)
 
@@ -810,7 +950,9 @@ Art. 34–46. (pominięte)
 
 1. W przypadku zbiegu prawa rodziców, opiekunów faktycznych dziecka lub opiekunów prawnych dziecka do świadczeń rodzinnych świadczenia te wypłaca się temu z rodziców, opiekunów faktycznych dziecka lub opiekunów prawnych dziecka, który pierwszy złożył wniosek.
 
-2. Jeżeli dziecko nie pozostaje we wspólnym gospodarstwie domowym z obojgiem rodziców, świadczenia rodzinne wypłaca się temu z rodziców, pod którego opieką dziecko się znajduje. dodatku rodzinnego przysługującego pracownikom polskich placówek dyplomatycznych i urzędów konsularnych przysługuje prawo do jednego wybranego świadczenia.
+2. Jeżeli dziecko nie pozostaje we wspólnym gospodarstwie domowym z obojgiem rodziców, świadczenia rodzinne wypłaca się temu z rodziców, pod którego opieką dziecko się znajduje.
+
+3. W przypadku zbiegu prawa do zasiłku rodzinnego z prawem do walutowego dodatku rodzinnego przysługującego pracownikom polskich placówek dyplomatycznych i urzędów konsularnych przysługuje prawo do jednego wybranego świadczenia.
 
 4. W razie zbiegu uprawnień do świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego lub zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów, przysługującego więcej niż jednej osobie sprawującej opiekę nad osobą lub osobami wymagającymi opieki przyznaje się tylko jedno świadczenie pielęgnacyjne, specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna osobie, która pierwsza złożyła wniosek.
 
@@ -832,7 +974,7 @@ Art. 34–46. (pominięte)
 
 7. Jeżeli wznowienie wypłaty wstrzymanych świadczeń rodzinnych nie nastąpi do końca okresu zasiłkowego, prawo do świadczeń rodzinnych wygasa.
 
-8. Organ właściwy może wzywać osoby, o których mowa w art. 1 ust. 2 pkt 2 lit. ca, ubiegające się o świadczenia rodzinne lub otrzymujące jednostce organizacyjnej w terminie 3 dni roboczych w celu złożenia wyjaśnień niezbędnych do prawidłowego ustalenia i realizacji świadczeń.
+8. Organ właściwy może wzywać osoby, o których mowa w art. 1 ust. 2 pkt 2 lit. ca, ubiegające się o świadczenia rodzinne lub otrzymujące świadczenie rodzinne do osobistego stawiennictwa we wskazanej w wezwaniu jednostce organizacyjnej w terminie 3 dni roboczych w celu złożenia wyjaśnień niezbędnych do prawidłowego ustalenia i realizacji świadczeń.
 
 9. Organ właściwy pozostawia bez rozpatrzenia wniosek o ustalenie prawa do świadczeń rodzinnych, jeżeli osoba, o której mowa w art. 1 ust. 2 pkt 2 lit. ca, która została wezwana do osobistego stawiennictwa, nie stawiła się w wyznaczonym terminie.
 
@@ -853,7 +995,7 @@ Art. 34–46. (pominięte)
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
-1b. Dane osobowe, o których mowa w ust. 1, zabezpiecza się w sposób odpowiedni do zagrożeń i ryzyka wystąpienia sytuacji, o których mowa w ust. 1a, w tym w szczególności biorąc pod uwagę, czy dane osobowe przetwarzane są w sposób zautomatyzowany czy też w inny sposób niż zautomatyzowany, oraz kogo były przetwarzane.
+1b. Dane osobowe, o których mowa w ust. 1, zabezpiecza się w sposób odpowiedni do zagrożeń i ryzyka wystąpienia sytuacji, o których mowa w ust. 1a, w tym w szczególności biorąc pod uwagę, czy dane osobowe przetwarzane są w sposób zautomatyzowany czy też w inny sposób niż zautomatyzowany, oraz z uwzględnieniem zapewnienia kontroli nad tym, jakie dane osobowe, kiedy i przez kogo były przetwarzane.
 
 1c. Osoby przetwarzające dane osobowe, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności.
 
@@ -868,7 +1010,8 @@ Art. 34–46. (pominięte)
 - **1)** świadczenia rodzinne wypłacone mimo zaistnienia okoliczności powodujących ustanie, zawieszenie prawa do świadczeń rodzinnych lub zmniejszenie wysokości przysługujących świadczeń rodzinnych albo wstrzymanie wypłaty świadczeń rodzinnych w całości lub w części, jeżeli osoba pobierająca te świadczenia była pouczona o braku prawa do ich pobierania;
 - **1a)** świadczenia rodzinne wypłacone w związku z zastosowaniem przepisów o utracie i uzyskaniu dochodu – po ustaleniu, że wystąpiły okoliczności, o których mowa w art. 5 ust. 4c;
 - **2)** świadczenia rodzinne przyznane lub wypłacone na podstawie fałszywych zeznań lub dokumentów albo w innych przypadkach świadomego wprowadzenia w błąd przez osobę pobierającą te świadczenia;
-- **3)** świadczenia rodzinne wypłacone w przypadku, o którym mowa w art. 23a ust. 5, za okres od dnia, w którym osoba stała się uprawniona do świadczeń rodzinnych w innym państwie w związku ze stosowaniem przepisów o koordynacji systemów zabezpieczenia społecznego, do dnia wydania decyzji o uchyleniu decyzji przyznającej świadczenia rodzinne; stwierdzono nieważność z powodu jej wydania bez podstawy prawnej lub z rażącym naruszeniem prawa albo świadczenie rodzinne przyznane na podstawie decyzji, która została następnie uchylona w wyniku wznowienia postępowania i osobie odmówiono prawa do świadczenia rodzinnego;
+- **3)** świadczenia rodzinne wypłacone w przypadku, o którym mowa w art. 23a ust. 5, za okres od dnia, w którym osoba stała się uprawniona do świadczeń rodzinnych w innym państwie w związku ze stosowaniem przepisów o koordynacji systemów zabezpieczenia społecznego, do dnia wydania decyzji o uchyleniu decyzji przyznającej świadczenia rodzinne;
+- **4)** świadczenia rodzinne przyznane na podstawie decyzji, której następnie stwierdzono nieważność z powodu jej wydania bez podstawy prawnej lub z rażącym naruszeniem prawa albo świadczenie rodzinne przyznane na podstawie decyzji, która została następnie uchylona w wyniku wznowienia postępowania i osobie odmówiono prawa do świadczenia rodzinnego;
 - **5)** świadczenia rodzinne wypłacone osobie innej niż osoba, która została wskazana w decyzji przyznającej świadczenia rodzinne, z przyczyn niezależnych od organu, który wydał tę decyzję.
 
 2a. (uchylony) 2b. Od kwot nienależnie pobranych świadczeń rodzinnych, o których mowa w ust. 2 pkt 1–3 i 5, naliczane są odsetki ustawowe za opóźnienie.
@@ -887,7 +1030,9 @@ Art. 34–46. (pominięte)
 
 6. Kwoty nienależnie pobranych świadczeń rodzinnych ustalone ostateczną decyzją podlegają potrąceniu z wypłacanych świadczeń rodzinnych, wypłacanych zasiłków dla opiekunów, o których mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów, wypłacanego świadczenia wychowawczego oraz wypłacanego świadczenia dobry start.
 
-7. Nienależnie pobrane świadczenia rodzinne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji. łącznie z odsetkami ustawowymi za opóźnienie na rachunek bankowy wskazany przez organ właściwy. Odsetki są naliczane od pierwszego dnia miesiąca następującego po dniu wypłaty świadczeń rodzinnych do dnia spłaty.
+7. Nienależnie pobrane świadczenia rodzinne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+8. Kwoty nienależnie pobranych świadczeń rodzinnych podlegają zwrotowi łącznie z odsetkami ustawowymi za opóźnienie na rachunek bankowy wskazany przez organ właściwy. Odsetki są naliczane od pierwszego dnia miesiąca następującego po dniu wypłaty świadczeń rodzinnych do dnia spłaty.
 
 9. Organ właściwy, który wydał decyzję w sprawie nienależnie pobranych świadczeń rodzinnych, może umorzyć kwotę nienależnie pobranych świadczeń rodzinnych łącznie z odsetkami w całości lub w części, odroczyć termin płatności albo rozłożyć na raty, jeżeli zachodzą szczególnie uzasadnione okoliczności dotyczące sytuacji rodziny.
 
@@ -903,9 +1048,31 @@ Art. 34–46. (pominięte)
 
 3. Zwrot kwot świadczeń rodzinnych, o którym mowa w ust. 1, uznaje się za zwrot świadczeń nienależnie pobranych.
 
-**Art. 31.** Jeżeli odmowa przyznania świadczeń rodzinnych lub ustalenie ich wysokości były następstwem błędu podmiotu realizującego zadania w zakresie świadczeń rodzinnych, wypłata świadczeń rodzinnych może nastąpić za 3 lata wstecz, licząc od dnia zawiadomienia o popełnieniu błędu lub dnia wydania decyzji prostującej błąd z urzędu. uchylić ostateczną decyzję administracyjną, na mocy której strona nabyła prawo do świadczeń rodzinnych, jeżeli uległa zmianie sytuacja rodzinna lub dochodowa rodziny mająca wpływ na prawo do świadczeń rodzinnych, członek rodziny nabył prawo do świadczeń rodzinnych w innym państwie w związku ze stosowaniem przepisów o koordynacji systemów zabezpieczenia społecznego, osoba nienależnie pobrała świadczenie rodzinne lub wystąpiły inne okoliczności mające wpływ na prawo do świadczeń. 1a. Zmiana decyzji na korzyść strony nie wymaga jej zgody. 1b. Wszczęcie postępowania w sprawie zmiany decyzji ustalającej prawo do świadczeń rodzinnych na korzyść strony, w zakresie zmiany wysokości świadczeń, następuje z urzędu. 1c. Wszczęcie postępowania, o którym mowa w ust. 1b, nie wymaga zawiadomienia strony. 1d. Decyzje przyznające świadczenia rodzinne oraz decyzje w sprawie zmiany wysokości świadczeń rodzinnych na korzyść strony są natychmiast wykonalne. 2. W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), z zastrzeżeniem ust. 3. 3. W sprawach o świadczenia rodzinne realizowane w związku z koordynacją systemów zabezpieczenia społecznego przez wojewodę przepisów art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się. 4. W sprawach o świadczenia rodzinne realizowane w związku z koordynacją systemów zabezpieczenia społecznego wojewoda może zmienić decyzję odmawiającą przyznania świadczeń rodzinnych w przypadku otrzymania informacji o odmowie przyznania świadczeń na rzecz rodziny w innym państwie członkowskim w związku z zastosowaniem przepisów o koordynacji systemów zabezpieczenia społecznego lub przyznaniu tych świadczeń w niższej wysokości, niż przyjęto przy wydawaniu zmienianej decyzji. 5. Wszczęcie postępowania w sprawach, o których mowa w ust. 4, następuje z urzędu. Przepis ust. 1c stosuje się odpowiednio.
+**Art. 31.** Jeżeli odmowa przyznania świadczeń rodzinnych lub ustalenie ich wysokości były następstwem błędu podmiotu realizującego zadania w zakresie świadczeń rodzinnych, wypłata świadczeń rodzinnych może nastąpić za 3 lata wstecz, licząc od dnia zawiadomienia o popełnieniu błędu lub dnia wydania decyzji prostującej błąd z urzędu.
 
-**Art. 32a.** Minister właściwy do spraw rodziny może przekazywać na wskazany we wniosku o ustalenie prawa do świadczeń rodzinnych adres poczty elektronicznej informacje związane z uprawnieniami dla rodzin. Finansowanie świadczeń rodzinnych
+**Art. 32.**
+
+1. Organ właściwy oraz wojewoda mogą bez zgody strony zmienić lub uchylić ostateczną decyzję administracyjną, na mocy której strona nabyła prawo do świadczeń rodzinnych, jeżeli uległa zmianie sytuacja rodzinna lub dochodowa rodziny mająca wpływ na prawo do świadczeń rodzinnych, członek rodziny nabył prawo do świadczeń rodzinnych w innym państwie w związku ze stosowaniem przepisów o koordynacji systemów zabezpieczenia społecznego, osoba nienależnie pobrała świadczenie rodzinne lub wystąpiły inne okoliczności mające wpływ na prawo do świadczeń.
+
+1a. Zmiana decyzji na korzyść strony nie wymaga jej zgody.
+
+1b. Wszczęcie postępowania w sprawie zmiany decyzji ustalającej prawo do świadczeń rodzinnych na korzyść strony, w zakresie zmiany wysokości świadczeń, następuje z urzędu.
+
+1c. Wszczęcie postępowania, o którym mowa w ust. 1b, nie wymaga zawiadomienia strony.
+
+1d. Decyzje przyznające świadczenia rodzinne oraz decyzje w sprawie zmiany wysokości świadczeń rodzinnych na korzyść strony są natychmiast wykonalne.
+
+2. W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), z zastrzeżeniem ust. 3.
+
+3. W sprawach o świadczenia rodzinne realizowane w związku z koordynacją systemów zabezpieczenia społecznego przez wojewodę przepisów art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+
+4. W sprawach o świadczenia rodzinne realizowane w związku z koordynacją systemów zabezpieczenia społecznego wojewoda może zmienić decyzję odmawiającą przyznania świadczeń rodzinnych w przypadku otrzymania informacji o odmowie przyznania świadczeń na rzecz rodziny w innym państwie członkowskim w związku z zastosowaniem przepisów o koordynacji systemów zabezpieczenia społecznego lub przyznaniu tych świadczeń w niższej wysokości, niż przyjęto przy wydawaniu zmienianej decyzji.
+
+5. Wszczęcie postępowania w sprawach, o których mowa w ust. 4, następuje z urzędu. Przepis ust. 1c stosuje się odpowiednio.
+
+**Art. 32a.** Minister właściwy do spraw rodziny może przekazywać na wskazany we wniosku o ustalenie prawa do świadczeń rodzinnych adres poczty elektronicznej informacje związane z uprawnieniami dla rodzin.
+
+#### Rozdział 7 Finansowanie świadczeń rodzinnych
 
 **Art. 33.**
 
@@ -926,7 +1093,9 @@ Art. 34–46. (pominięte)
 
 2e. Wojewoda sporządza zbiorcze sprawozdanie rzeczowo-finansowe z wykonywania zadań z zakresu świadczeń rodzinnych, w tym uwzględniające wykonywanie przez niego zadań z zakresu świadczeń rodzinnych, i przekazuje je ministrowi właściwemu do spraw rodziny.
 
-3. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób sporządzania sprawozdań rzeczowo-finansowych z wykonywania zadań z zakresu świadczeń rodzinnych oraz terminy i sposób ich przekazywania, uwzględniając potrzebę zapewnienia skutecznej realizacji zadań z zakresu świadczeń rodzinnych finansowanych z budżetu państwa. świadczeń rodzinnych przekazywane są zgodnie z wzorami udostępnionymi, drogą elektroniczną, przez ministra właściwego do spraw rodziny.
+3. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób sporządzania sprawozdań rzeczowo-finansowych z wykonywania zadań z zakresu świadczeń rodzinnych oraz terminy i sposób ich przekazywania, uwzględniając potrzebę zapewnienia skutecznej realizacji zadań z zakresu świadczeń rodzinnych finansowanych z budżetu państwa.
+
+4. Sprawozdania rzeczowo-finansowe z wykonywania zadań z zakresu świadczeń rodzinnych przekazywane są zgodnie z wzorami udostępnionymi, drogą elektroniczną, przez ministra właściwego do spraw rodziny.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
 
@@ -951,12 +1120,13 @@ Art. 34–46. (pominięte)
 - **1)** zasiłek rodzinny, o którym mowa w art. 6, oraz dodatki do zasiłku rodzinnego, o których mowa w art. 9–15, a także zasiłek pielęgnacyjny i świadczenie pielęgnacyjne – organ właściwy:
     - **a)** osobom bezrobotnym oraz osobom pobierającym zasiłek przedemerytalny lub świadczenie przedemerytalne,
     - **b)** osobom, którym do dnia wejścia w życie ustawy zasiłki rodzinne i pielęgnacyjne przyznawały i wypłacały ośrodki pomocy społecznej,
-    - **c)** osobom ubiegającym się o dodatki, o których mowa w art. 10–12, lub o świadczenie pielęgnacyjne, o którym mowa w art. 17, zlecenia lub umowy agencyjnej u pracodawcy zatrudniającego w dniu 31 marca 2004 r. nie więcej niż 4 pracowników,
+    - **c)** osobom ubiegającym się o dodatki, o których mowa w art. 10–12, lub o świadczenie pielęgnacyjne, o którym mowa w art. 17,
+    - **d)** osobom zatrudnionym lub wykonującym pracę na podstawie umowy zlecenia lub umowy agencyjnej u pracodawcy zatrudniającego w dniu 31 marca 2004 r. nie więcej niż 4 pracowników,
     - **e)** osobom, którym są wypłacane za okres po ustaniu zatrudnienia zasiłki z ubezpieczenia społecznego w razie choroby i macierzyństwa,
     - **f)** posłom i senatorom,
     - **g)** osobom, którym po dniu wejścia w życie ustawy ustalone zostało prawo do emerytury, renty, renty rodzinnej, renty socjalnej lub uposażenia rodzinnego;
 
-- **2)** zasiłek rodzinny, o którym mowa w art. 6, oraz dodatki, o których mowa w art. 9 i 13–15, a także zasiłki pielęgnacyjne: mowa w ust. 2 pkt 1 i pkt 2 lit. b–d oraz g, świadczenia rodzinne przyznają w drodze decyzji administracyjnej.
+- **2)** zasiłek rodzinny, o którym mowa w art. 6, oraz dodatki, o których mowa w art. 9 i 13–15, a także zasiłki pielęgnacyjne:
     - **a)** pracodawcy zatrudniający w dniu 31 marca 2004 r. co najmniej 5 pracowników – swoim pracownikom w czasie trwania ich zatrudnienia oraz osobom wykonującym pracę na podstawie umowy zlecenia lub umowy agencyjnej,
     - **b)** właściwe jednostki organizacyjne podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Wywiadu, Szefowi Agencji Bezpieczeństwa Wewnętrznego oraz Ministrowi Sprawiedliwości – żołnierzom lub funkcjonariuszom tych służb,
     - **c)** Prezes Kasy Rolniczego Ubezpieczenia Społecznego – osobom podlegającym ubezpieczeniu społecznemu rolników,
@@ -964,6 +1134,8 @@ Art. 34–46. (pominięte)
     - **e)** rolnicze spółdzielnie produkcyjne – członkom, jeżeli są obowiązane do wypłaty świadczeń rodzinnych pracownikom,
     - **f)** jednostki, które zawarły umowę agencyjną lub umowę zlecenia, jeżeli są obowiązane do wypłaty świadczeń rodzinnych pracownikom,
     - **g)** właściwe organy emerytalne lub rentowe osobom, którym wypłacały emerytury, renty, renty rodzinne lub uposażenia rodzinne, do dnia wejścia w życie ustawy.
+
+3. Podmioty realizujące zadania z zakresu świadczeń rodzinnych, o których mowa w ust. 2 pkt 1 i pkt 2 lit. b–d oraz g, świadczenia rodzinne przyznają w drodze decyzji administracyjnej.
 
 4. Do dnia przekazania organowi właściwemu realizacji zadań z zakresu świadczeń rodzinnych podmioty, o których mowa w ust. 2 pkt 2 i art. 49 ust. 1 pkt 2, wypłacają świadczenia rodzinne w dotychczasowych terminach wypłaty zasiłków rodzinnych, pielęgnacyjnych i wychowawczych.
 
@@ -986,7 +1158,17 @@ Art. 34–46. (pominięte)
 
 4. Świadczenia rodzinne przysługujące danej rodzinie wypłaca jeden podmiot realizujący te świadczenia.
 
-**Art. 49a.** Organ właściwy, po dniu wejścia w życie ustawy, przyznaje i wypłaca świadczenia rodzinne osobie ubiegającej się o dodatek do zasiłku rodzinnego z tytułu wychowywania dziecka w rodzinie wielodzietnej. Przepisy art. 20 i 50 stosuje się odpowiednio. obowiązek poinformowania o tym fakcie osoby otrzymującej świadczenie spoczywa na podmiocie dotychczas je realizującym. Obowiązek ten dotyczy również podmiotów realizujących zasiłki rodzinne, pielęgnacyjne lub wychowawcze do dnia wejścia w życie ustawy. 2. W przypadku gdy zmiana podmiotu realizującego świadczenia rodzinne następuje wskutek zmiany w sytuacji osoby otrzymującej świadczenie rodzinne, w szczególności gdy wiąże się ze zmianą miejsca zatrudnienia lub przejściem na emeryturę, rentę, uposażenie rodzinne lub rentę rodzinną, realizację świadczeń rodzinnych przejmuje organ właściwy. 3. W przypadku, o którym mowa w ust. 2, podmiot realizujący świadczenia rodzinne jest obowiązany do niezwłocznego przekazania organowi właściwemu posiadanej dokumentacji dotyczącej osoby otrzymującej świadczenia rodzinne. Podmiot realizujący świadczenia rodzinne pozostawia w swoich aktach poświadczone przez siebie za zgodność z oryginałem kopie dokumentów. 4. Osobie niewymienionej w art. 48 i 49 uprawnionej do świadczeń rodzinnych świadczenie przyznaje organ właściwy.
+**Art. 49a.** Organ właściwy, po dniu wejścia w życie ustawy, przyznaje i wypłaca świadczenia rodzinne osobie ubiegającej się o dodatek do zasiłku rodzinnego z tytułu wychowywania dziecka w rodzinie wielodzietnej. Przepisy art. 20 i 50 stosuje się odpowiednio.
+
+**Art. 50.**
+
+1. W przypadku zmiany podmiotu realizującego świadczenia rodzinne obowiązek poinformowania o tym fakcie osoby otrzymującej świadczenie spoczywa na podmiocie dotychczas je realizującym. Obowiązek ten dotyczy również podmiotów realizujących zasiłki rodzinne, pielęgnacyjne lub wychowawcze do dnia wejścia w życie ustawy.
+
+2. W przypadku gdy zmiana podmiotu realizującego świadczenia rodzinne następuje wskutek zmiany w sytuacji osoby otrzymującej świadczenie rodzinne, w szczególności gdy wiąże się ze zmianą miejsca zatrudnienia lub przejściem na emeryturę, rentę, uposażenie rodzinne lub rentę rodzinną, realizację świadczeń rodzinnych przejmuje organ właściwy.
+
+3. W przypadku, o którym mowa w ust. 2, podmiot realizujący świadczenia rodzinne jest obowiązany do niezwłocznego przekazania organowi właściwemu posiadanej dokumentacji dotyczącej osoby otrzymującej świadczenia rodzinne. Podmiot realizujący świadczenia rodzinne pozostawia w swoich aktach poświadczone przez siebie za zgodność z oryginałem kopie dokumentów.
+
+4. Osobie niewymienionej w art. 48 i 49 uprawnionej do świadczeń rodzinnych świadczenie przyznaje organ właściwy.
 
 **Art. 51.** (pominięty)
 
@@ -1002,7 +1184,7 @@ Art. 34–46. (pominięte)
 
 **Art. 54.**
 
-1. Do dnia przekazania organowi właściwemu realizacji zadań w zakresie świadczeń rodzinnych Zakład kontroluje pracodawców, rolnicze zlecenia, w zakresie prawidłowości prowadzonego postępowania w sprawie przyznawania i wypłacania świadczeń rodzinnych.
+1. Do dnia przekazania organowi właściwemu realizacji zadań w zakresie świadczeń rodzinnych Zakład kontroluje pracodawców, rolnicze spółdzielnie produkcyjne oraz jednostki, które zawarły umowę agencyjną lub umowę zlecenia, w zakresie prawidłowości prowadzonego postępowania w sprawie przyznawania i wypłacania świadczeń rodzinnych.
 
 2. Do dnia przekazania organowi właściwemu realizacji zadań w zakresie świadczeń rodzinnych pracodawcy, rolnicze spółdzielnie produkcyjne lub jednostki, które zawarły umowę agencyjną lub umowę zlecenia, wypłacający świadczenia rodzinne są obowiązani do:
 
@@ -1021,7 +1203,7 @@ Art. 34–46. (pominięte)
 
 3. Organ, który wydał decyzję w sprawie nienależnie pobranych świadczeń rodzinnych, może umorzyć kwoty nienależnie pobranych świadczeń w całości lub w części, odroczyć ich termin płatności albo rozłożyć je na raty, jeżeli zachodzą szczególnie uzasadnione okoliczności.
 
-4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb przekazywania przez Zakład, Kasę Rolniczego Ubezpieczenia Społecznego, inne organy emerytalne lub rentowe oraz inne podmioty wydające decyzje w sprawie świadczeń rodzinnych dokumentacji dotyczącej nienależnie pobranych zasiłków rodzinnych, pielęgnacyjnych i wychowawczych oraz świadczeń wprowadzenie w życie nowego systemu świadczeń rodzinnych.
+4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb przekazywania przez Zakład, Kasę Rolniczego Ubezpieczenia Społecznego, inne organy emerytalne lub rentowe oraz inne podmioty wydające decyzje w sprawie świadczeń rodzinnych dokumentacji dotyczącej nienależnie pobranych zasiłków rodzinnych, pielęgnacyjnych i wychowawczych oraz świadczeń rodzinnych. Przepisy rozporządzenia powinny zapewnić sprawne i płynne wprowadzenie w życie nowego systemu świadczeń rodzinnych.
 
 **Art. 56.**
 
@@ -1039,11 +1221,21 @@ Art. 34–46. (pominięte)
 
 4. Dodatek wypłaca się do dnia 31 sierpnia 2005 r.
 
-**Art. 57.** Osoba uprawniona do dnia wejścia w życie ustawy do zasiłku pielęgnacyjnego zachowuje do niego prawo, jeżeli niepełnosprawność powstała w wieku uprawniającym tę osobę do zasiłku rodzinnego przysługującego na dziecko. społecznej do dnia wejścia w życie ustawy w związku z pielęgnacją dziecka legitymującego się orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności łącznie ze wskazaniami, o których mowa w art. 6b ust. 3 pkt 7 i 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, nabywa prawo do świadczenia pielęgnacyjnego, o którym mowa w art. 17, do dnia 31 sierpnia 2005 r., jeżeli spełnia warunki określone w dotychczasowych przepisach. 2. Osoba opiekująca się dzieckiem, o której mowa w ust. 1, jeżeli przed dniem 1 września 2005 r. ukończyła 50 lat, nabywa prawo do świadczenia pielęgnacyjnego, o którym mowa w art. 17, jeżeli spełnia warunki określone w dotychczasowych przepisach. 3. Osoba zdolna do pracy, lecz niepozostająca w zatrudnieniu ze względu na konieczność sprawowania opieki nad dzieckiem wymagającym stałej pielęgnacji, posiadającym orzeczenie o niepełnosprawności wraz ze wskazaniami, o których mowa w art. 6b ust. 3 pkt 7 i 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, za które ośrodek pomocy społecznej opłacał składkę na ubezpieczenia społeczne przed dniem 1 stycznia 1999 r., nabywa prawo do emerytury bez względu na wiek, jeżeli w dniu 1 stycznia 1999 r. ukończyła co najmniej 45 lat i ma okres ubezpieczenia (składkowy i nieskładkowy) wynoszący co najmniej 20 lat w przypadku kobiet i 25 lat w przypadku mężczyzn. Wysokość emerytury dla tej osoby ustala się według zasad przewidzianych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, dla osób ubezpieczonych urodzonych przed dniem 1 stycznia 1949 r.
+**Art. 57.** Osoba uprawniona do dnia wejścia w życie ustawy do zasiłku pielęgnacyjnego zachowuje do niego prawo, jeżeli niepełnosprawność powstała w wieku uprawniającym tę osobę do zasiłku rodzinnego przysługującego na dziecko.
+
+**Art. 58.**
+
+1. Osoba otrzymująca zasiłek stały na podstawie przepisów o pomocy społecznej do dnia wejścia w życie ustawy w związku z pielęgnacją dziecka legitymującego się orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności łącznie ze wskazaniami, o których mowa w art. 6b ust. 3 pkt 7 i 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, nabywa prawo do świadczenia pielęgnacyjnego, o którym mowa w art. 17, do dnia 31 sierpnia 2005 r., jeżeli spełnia warunki określone w dotychczasowych przepisach.
+
+2. Osoba opiekująca się dzieckiem, o której mowa w ust. 1, jeżeli przed dniem 1 września 2005 r. ukończyła 50 lat, nabywa prawo do świadczenia pielęgnacyjnego, o którym mowa w art. 17, jeżeli spełnia warunki określone w dotychczasowych przepisach.
+
+3. Osoba zdolna do pracy, lecz niepozostająca w zatrudnieniu ze względu na konieczność sprawowania opieki nad dzieckiem wymagającym stałej pielęgnacji, posiadającym orzeczenie o niepełnosprawności wraz ze wskazaniami, o których mowa w art. 6b ust. 3 pkt 7 i 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, za które ośrodek pomocy społecznej opłacał składkę na ubezpieczenia społeczne przed dniem 1 stycznia 1999 r., nabywa prawo do emerytury bez względu na wiek, jeżeli w dniu 1 stycznia 1999 r. ukończyła co najmniej 45 lat i ma okres ubezpieczenia (składkowy i nieskładkowy) wynoszący co najmniej 20 lat w przypadku kobiet i 25 lat w przypadku mężczyzn. Wysokość emerytury dla tej osoby ustala się według zasad przewidzianych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, dla osób ubezpieczonych urodzonych przed dniem 1 stycznia 1949 r.
 
 **Art. 59.**
 
-1. Osoba samotnie wychowująca dziecko oraz osoba wychowująca troje lub więcej dzieci otrzymująca do dnia wejścia w życie ustawy podwyższony zasiłek wychowawczy nabywa prawo do dodatku, o którym mowa w art. 10, na dziecko, na które korzystała z urlopu wychowawczego do dnia wejścia w życie ustawy, w wysokości 505,80 zł, jeżeli spełnia warunki określone w dotychczasowych przepisach. ustawy zasiłek wychowawczy, uprawniona do 36-miesięcznego okresu pobierania tego zasiłku, nabywa prawo do dodatku, o którym mowa w art. 10, na dziecko, na które korzystała z urlopu wychowawczego do dnia wejścia w życie ustawy, przez okres 36 miesięcy, jeżeli spełnia warunki określone w dotychczasowych przepisach. Przepis ust. 3 stosuje się odpowiednio.
+1. Osoba samotnie wychowująca dziecko oraz osoba wychowująca troje lub więcej dzieci otrzymująca do dnia wejścia w życie ustawy podwyższony zasiłek wychowawczy nabywa prawo do dodatku, o którym mowa w art. 10, na dziecko, na które korzystała z urlopu wychowawczego do dnia wejścia w życie ustawy, w wysokości 505,80 zł, jeżeli spełnia warunki określone w dotychczasowych przepisach.
+
+1a. Osoba samotnie wychowująca dziecko otrzymująca do dnia wejścia w życie ustawy zasiłek wychowawczy, uprawniona do 36-miesięcznego okresu pobierania tego zasiłku, nabywa prawo do dodatku, o którym mowa w art. 10, na dziecko, na które korzystała z urlopu wychowawczego do dnia wejścia w życie ustawy, przez okres 36 miesięcy, jeżeli spełnia warunki określone w dotychczasowych przepisach. Przepis ust. 3 stosuje się odpowiednio.
 
 2. Osoba otrzymująca do dnia 30 kwietnia 2004 r. zasiłek wychowawczy, jeżeli pozostawała w zatrudnieniu bezpośrednio przed uzyskaniem prawa do urlopu wychowawczego przez okres krótszy niż 6 miesięcy, nabywa prawo do dodatku z tytułu opieki nad dzieckiem w okresie korzystania z urlopu wychowawczego, jeżeli spełnia warunki określone w ustawie.
 
@@ -1057,7 +1249,7 @@ Art. 34–46. (pominięte)
 
 **Art. 60.**
 
-1. Osoba otrzymująca świadczenia na podstawie ustawy z dnia 18 lipca 1974 r. o funduszu alimentacyjnym (Dz. U. z 1991 r. poz. 200, z późn. zm. ), która ukończyła 50 lat do dnia wejścia w życie ustawy, nabywa na swój wniosek prawo do dodatku z tytułu samotnego wychowywania dziecka do czasu uzyskania prawa do o pomocy społecznej, jeżeli dochód rodziny nie przekracza kwoty, o której mowa w art. 5 ust. 1, i egzekucja ustalonych wyrokiem sądu rodzinnego alimentów jest bezskuteczna.
+1. Osoba otrzymująca świadczenia na podstawie ustawy z dnia 18 lipca 1974 r. o funduszu alimentacyjnym (Dz. U. z 1991 r. poz. 200, z późn. zm. ), która ukończyła 50 lat do dnia wejścia w życie ustawy, nabywa na swój wniosek prawo do dodatku z tytułu samotnego wychowywania dziecka do czasu uzyskania prawa do emerytury lub renty albo prawa do zasiłku stałego określonego w przepisach o pomocy społecznej, jeżeli dochód rodziny nie przekracza kwoty, o której mowa w art. 5 ust. 1, i egzekucja ustalonych wyrokiem sądu rodzinnego alimentów jest bezskuteczna.
 
 2. Osoba pozostająca w związku małżeńskim otrzymująca na dzieci do dnia wejścia w życie ustawy świadczenie z funduszu alimentacyjnego nabywa prawo do dodatku, o którym mowa w art. 12, do dnia 31 sierpnia 2005 r., jeżeli spełnia warunki określone w ustawie.
 
@@ -1075,7 +1267,11 @@ Art. 34–46. (pominięte)
 
 3. Organ właściwy w przejętych sprawach dotyczących nienależnie pobranych zasiłków rodzinnych, pielęgnacyjnych i wychowawczych, a także w sprawach świadczeń rodzinnych ustalonych ostateczną decyzją lub będących w toku staje się stroną w zakresie postępowań egzekucyjnych i przed sądem, a także przejmuje zabezpieczenia wszelkich wierzytelności.
 
-4. Organ właściwy prowadzi postępowanie w sprawie nienależnie pobranych zasiłków rodzinnych, pielęgnacyjnych i wychowawczych na podstawie ustawy. „funduszem”, przechodzi w stan likwidacji.
+4. Organ właściwy prowadzi postępowanie w sprawie nienależnie pobranych zasiłków rodzinnych, pielęgnacyjnych i wychowawczych na podstawie ustawy.
+
+**Art. 63.**
+
+1. Z dniem wejścia w życie ustawy fundusz alimentacyjny, zwany dalej „funduszem”, przechodzi w stan likwidacji.
 
 2. Z dniem wejścia w życie ustawy aktywa i pasywa funduszu stają się aktywami i pasywami Skarbu Państwa.
 
@@ -1103,7 +1299,9 @@ Art. 34–46. (pominięte)
 
 2. Sprawy o bezpodstawnie pobrane świadczenia z funduszu alimentacyjnego podlegają rozpatrzeniu i dochodzeniu na zasadach i w trybie określonych w dotychczasowych przepisach.
 
-3. Egzekucję z tytułu bezpodstawnie pobranych świadczeń z funduszu prowadzi się w dalszym ciągu, aż do ich zaspokojenia. Organ egzekucyjny przekazuje likwidatorowi kwoty ściągnięte od osoby, która bezpodstawnie pobrała świadczenia z funduszu. Wniosek o umorzenie lub zawieszenie egzekucji wymaga zgody likwidatora. prowadzi się w dalszym ciągu aż do ich zaspokojenia. Organ egzekucyjny przekazuje likwidatorowi kwoty ściągnięte od osoby zobowiązanej do alimentacji, pozostałe po zaspokojeniu alimentów i należności z tytułu wypłaconej zaliczki alimentacyjnej. Wniosek o umorzenie lub zawieszenie egzekucji wymaga zgody likwidatora.
+3. Egzekucję z tytułu bezpodstawnie pobranych świadczeń z funduszu prowadzi się w dalszym ciągu, aż do ich zaspokojenia. Organ egzekucyjny przekazuje likwidatorowi kwoty ściągnięte od osoby, która bezpodstawnie pobrała świadczenia z funduszu. Wniosek o umorzenie lub zawieszenie egzekucji wymaga zgody likwidatora.
+
+**Art. 67.** Egzekucję należności z tytułu wypłaconych świadczeń z funduszu prowadzi się w dalszym ciągu aż do ich zaspokojenia. Organ egzekucyjny przekazuje likwidatorowi kwoty ściągnięte od osoby zobowiązanej do alimentacji, pozostałe po zaspokojeniu alimentów i należności z tytułu wypłaconej zaliczki alimentacyjnej. Wniosek o umorzenie lub zawieszenie egzekucji wymaga zgody likwidatora.
 
 **Art. 68.**
 
@@ -1125,7 +1323,7 @@ Art. 34–46. (pominięte)
 
 **Art. 70a.**
 
-1. Osobie otrzymującej dodatek, o którym mowa w art. 12, która do dnia 30 kwietnia 2004 r. pobierała świadczenia z funduszu alimentacyjnego, ustala się w okresie od dnia 1 maja 2004 r. do dnia 31 grudnia 2004 r. prawo do tego dodatku alimentacyjnego. Dodatek nie może być niższy niż 170 zł na dziecko albo 250 zł na dziecko, o którym mowa w art. 12 ust. 4.
+1. Osobie otrzymującej dodatek, o którym mowa w art. 12, która do dnia 30 kwietnia 2004 r. pobierała świadczenia z funduszu alimentacyjnego, ustala się w okresie od dnia 1 maja 2004 r. do dnia 31 grudnia 2004 r. prawo do tego dodatku w wysokości 70 % przysługującego w kwietniu 2004 r. świadczenia z funduszu alimentacyjnego. Dodatek nie może być niższy niż 170 zł na dziecko albo 250 zł na dziecko, o którym mowa w art. 12 ust. 4.
 
 2. Osoba, która do dnia wejścia w życie ustawy otrzymywała świadczenie z funduszu alimentacyjnego i po dniu 1 maja 2004 r. nie otrzymywała dodatku z tytułu samotnego wychowywania dziecka, nabywa w okresie od dnia 1 maja 2004 r. do dnia 31 grudnia 2004 r., na wniosek, prawo do dodatku do zasiłku rodzinnego z tytułu samotnego wychowywania dziecka w wysokości 70 % świadczenia z funduszu alimentacyjnego przysługującego w kwietniu 2004 r., jeżeli dochód rodziny w przeliczeniu na osobę nie przekracza kwoty 612 zł i rodzina spełnia pozostałe warunki określone w ustawie.
 
@@ -1139,5 +1337,12 @@ Art. 34–46. (pominięte)
 
 **Art. 71.** Tracą moc:
 
+- **1)** ustawa z dnia 18 lipca 1974 r. o funduszu alimentacyjnym (Dz. U. z 1991 r. poz. 200, z późn. zm. );
+- **2)** ustawa z dnia 1 grudnia 1994 r. o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych (Dz. U. z 1998 r. poz. 651, z późn. zm. ).
+
 **Art. 72.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem:
+
+- **1)** art. 36 i 40, które wchodzą w życie z dniem 31 grudnia 2003 r.;
+- **2)** art. 6 ust. 2, który wchodzi w życie z dniem 1 września 2006 r.
+
 

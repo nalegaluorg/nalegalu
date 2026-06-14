@@ -8,10 +8,10 @@ pos: 2685
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22668855 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 8 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2685/text.pdf) |
 
-22668855 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 8 grudnia 2022 r.
-w sprawie przeprowadzania badań na obecność substancji psychoaktywnej w organizmie skazanego pozbawionego wolności Na podstawie art. 116b § 4 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie przeprowadzania badań na obecność substancji psychoaktywnej w organizmie skazanego pozbawionego wolności Na podstawie art. 116b § 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) rodzaje badań na obecność substancji psychoaktywnej w organizmie skazanego;
 2) sposób przeprowadzania oraz sposób dokumentowania badań, o których mowa w pkt 1.
 § 2. 1. W celu ustalenia w organizmie skazanego obecności alkoholu przeprowadza się badanie w sposób nieinwazyjny za pomocą:
@@ -45,7 +45,7 @@ Pobranie moczu przeprowadza się w warunkach umożliwiających zachowanie intymn
 § 4. 1. Z przeprowadzenia badania, o którym mowa w § 2 i § 3, w przypadku:
 1) uzyskania wyniku badania wskazującego na obecność alkoholu w wydychanym powietrzu lub obecność innej substancji psychoaktywnej w organizmie skazanego,
 2) gdy skazany odmówił poddania się badaniu urządzeniem dokonującym pomiaru stężenia alkoholu lub testerem,
-3) uzyskania negatywnego wyniku badań, na żądanie skazanego funkcjonariusz Służby Więziennej przeprowadzający badanie sporządza protokół, którego wzór jest określony w załączniku nr 1 do rozporządzenia.
+3) uzyskania negatywnego wyniku badań, na żądanie skazanego – funkcjonariusz Służby Więziennej przeprowadzający badanie sporządza protokół, którego wzór jest określony w załączniku nr 1 do rozporządzenia.
 2. Do protokołu dołącza się wydruki lub wyniki badań, jeżeli urządzenia stosowane do badań umożliwiają ich wykonanie.
 § 5. W przypadku gdy skazany kwestionuje wyniki badania, o którym mowa w § 2 lub § 3, przeprowadza się badanie laboratoryjne moczu skazanego.
 § 6. 1. Pobranie od skazanego moczu do badania, o którym mowa w § 5, następuje niezwłocznie po zgłoszeniu żądania, nie później niż w ciągu godziny od chwili jego zgłoszenia. Pobranie moczu przeprowadza się w warunkach umożliwiających zachowanie intymności skazanego, w obecności funkcjonariusza Służby Więziennej tej samej płci.
@@ -59,7 +59,7 @@ Czynności te wykonuje się w obecności skazanego, chyba że jest to niemożliw
 § 7. Badanie laboratoryjne moczu polega na analizie laboratoryjnej moczu pobranego od skazanego w celu wykrycia obecności substancji psychoaktywnej (badanie jakościowe).
 § 8. Z pobrania moczu, o którym mowa w § 6, oraz z przeprowadzenia badania, o którym mowa w § 7, osoba uprawniona do przeprowadzenia badań sporządza protokół, którego wzór jest określony w załączniku nr 2 do rozporządzenia. Do protokołu dołącza się wynik badania.
 § 9. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Sprawiedliwości: Z. Ziobro WZÓR Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 8 grudnia 2022 r. (Dz. U. poz. ..........) Załącznik nr 1 WZÓR PROTOKÓŁ przeprowadzenia badania na obecnośd substancji psychoaktywnej w organizmie skazanego(-nej) przy użyciu metod niewymagających badania laboratoryjnego
+Minister Sprawiedliwości: Z. Ziobro Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 8 grudnia 2022 r. (Dz. U. poz. ..........) Załącznik nr 1 WZÓR WZÓR PROTOKÓŁ przeprowadzenia badania na obecnośd substancji psychoaktywnej w organizmie skazanego(-nej) przy użyciu metod niewymagających badania laboratoryjnego
 1. Dane funkcjonariusza podejmującego decyzję o przeprowadzeniu badania: ………………………………………………………………………………………………………………………………………………..
 (numer służbowy funkcjonariusza podejmującego decyzję o przeprowadzeniu badania)
 2. Dane identyfikacyjne funkcjonariuszy przeprowadzających badanie: ………………………………………………………………………………………………………………………………………………..
@@ -75,7 +75,7 @@ Minister Sprawiedliwości: Z. Ziobro WZÓR Załączniki do rozporządzenia Minis
 8. Uwagi lub zastrzeżenia skazanego(-nej): ..……………………………………………………………………….....
 ………………………………………………………………………………………………………………………………………………..
 ………………………………………………………………………………………………………………………………………………..
-Załączniki: ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… Załącznik nr 2 WZÓR PROTOKÓŁ pobrania próbki moczu i przeprowadzenia badania laboratoryjnego na obecnośd substancji psychoaktywnej w organizmie skazanego(-nej)
+Załączniki: ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… Załącznik nr 2 WZÓR WZÓR PROTOKÓŁ pobrania próbki moczu i przeprowadzenia badania laboratoryjnego na obecnośd substancji psychoaktywnej w organizmie skazanego(-nej)
 1. Imię i nazwisko, imię ojca, data urodzenia skazanego(-nej): ………………………………………………………………………………………………………………………………………………..
 2. Opis objawów i okoliczności uzasadniających podejrzenie użycia substancji psychoaktywnej: ..……………….......................................................................................................
 ……………………………………………………………………………………………………………………………………………….
@@ -91,7 +91,6 @@ i przyjmowanych lekach: ……………………………………..............
 8. Uwagi lub zastrzeżenia skazanego(-nej) do pobrania próbki moczu: …………………………………..
 ……………………………………………………………………………………………………………………..………………………… ………………………………………………………………………………………………………………………………………………..
 9. Miejsce przeprowadzenia badania próbki moczu: ………………………………………........................................………………………………………………………………...
-WZÓR
 10. Wyniki badania próbki moczu: ………………………………………………………………………………………… …….………………………………………………………………………………………..……………..………………………………..
 ………………………………………………………………………………………………………………………………………………..
 ………………………………………………………………………………………………………………………………………………..

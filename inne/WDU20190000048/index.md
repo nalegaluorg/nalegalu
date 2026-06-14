@@ -8,10 +8,10 @@ pos: 48
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 stycznia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 48 Protokół wykonawczy między rządem rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy do Umowy o readmisji między wspólnotą Europejską a Ukrainą, sporządzonej w Luksemburgu dnia 18 czerwca 2007 r., podpisany w Warszawie dnia 24 kwietnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/48/text.pdf) |
 
-Protokół wykonawczy między rządem rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy do Umowy o readmisji między wspólnotą Europejską a Ukrainą, sporządzonej w Luksemburgu dnia 18 czerwca 2007 r., podpisany w Warszawie dnia 24 kwietnia 2017 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 24 kwietnia 2017 r. w Warszawie został podpisany Protokół Wykonawczy między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy do Umowy o readmisji między Wspólnotą Europejską a Ukrainą, sporządzonej w Luksemburgu dnia 18 czerwca 2007 r., w następującym brzmieniu: Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 24 kwietnia 2017 r. w Warszawie został podpisany Protokół Wykonawczy między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy do Umowy o readmisji między Wspólnotą Europejską a Ukrainą, sporządzonej w Luksemburgu dnia 18 czerwca 2007 r., w następującym brzmieniu: Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęty, ratyfikowany i potwierdzony, – będzie niezmiennie zachowywany.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 15 grudnia 2017 r.
 Prezydent Rzeczypospolitej Polskiej: A. Duda l.s.

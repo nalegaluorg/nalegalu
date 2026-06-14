@@ -8,10 +8,10 @@ pos: 79
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 stycznia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 79 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 2 stycznia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/79/text.pdf) |
 
-Poz. 79 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 2 stycznia 2013 r.
-w sprawie reorganizacji Instytutu Optyki Stosowanej Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) zarządza się, co następuje: § 1. Instytut Optyki Stosowanej z siedzibą w Warszawie, numer identyfikacyjny REGON 000035725, numer identyfikacji podatkowej NIP 525-000-87-90 z dniem 1 stycznia 2013 r. otrzymuje nazwę Instytut Optyki Stosowanej imienia prof. Maksymiliana Pluty.
+w sprawie reorganizacji Instytutu Optyki Stosowanej Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) zarządza się, co następuje:
+§ 1. Instytut Optyki Stosowanej z siedzibą w Warszawie, numer identyfikacyjny REGON 000035725, numer identyfikacji podatkowej NIP 525-000-87-90 z dniem 1 stycznia 2013 r. otrzymuje nazwę Instytut Optyki Stosowanej imienia prof. Maksymiliana Pluty.
 § 2. Nadzór nad Instytutem Optyki Stosowanej imienia prof. Maksymiliana Pluty, zwanym dalej „Instytutem”, sprawuje minister właściwy do spraw gospodarki.
 § 3. 1. Przedmiotem działania Instytutu jest prowadzenie badań naukowych i prac rozwojowych, przystosowywanie wyników badań naukowych i prac rozwojowych do zastosowania w praktyce oraz wdrażanie wyników badań naukowych i prac rozwojowych w dziedzinie biotechnologii oraz nauk przyrodniczych i technicznych, w obszarach:
 1) optyki stosowanej i instrumentalnej;

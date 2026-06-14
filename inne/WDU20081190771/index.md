@@ -8,7 +8,7 @@ pos: 771
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 85/5/A/2008 WYROK z dnia 24 czerwca 2008 r.

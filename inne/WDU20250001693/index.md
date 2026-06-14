@@ -8,12 +8,10 @@ pos: 1693
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o izbach aptekarskich
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -48,8 +46,8 @@ o izbach aptekarskich
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** państwo członkowskie Unii Europejskiej inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym, lub Konfederację Szwajcarską;
-- **2)** obywatele państwa członkowskiego Unii Europejskiej obywateli państw członkowskich Unii Europejskiej, a także: o cudzoziemcach, da) obywateli państw trzecich posiadających wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych, wizę krajową w celu odbycia stażu lub wizę krajową w celu udziału w programie wolontariatu europejskiego, db) obywateli państw trzecich przebywających na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, dc) obywateli państw trzecich przebywających na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, UE L 157 z 15.06.2002, str. 1, z późn. zm.), oraz obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym;
+- **1)** państwo członkowskie Unii Europejskiej – inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, lub Konfederację Szwajcarską;
+- **2)** obywatele państwa członkowskiego Unii Europejskiej – obywateli państw członkowskich Unii Europejskiej, a także: o cudzoziemcach, da) obywateli państw trzecich posiadających wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych, wizę krajową w celu odbycia stażu lub wizę krajową w celu udziału w programie wolontariatu europejskiego, db) obywateli państw trzecich przebywających na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, dc) obywateli państw trzecich przebywających na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, UE L 157 z 15.06.2002, str. 1, z późn. zm.), oraz obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym;
     - **a)** obywateli polskich, którzy uzyskali kwalifikacje w państwie członkowskim Unii Europejskiej,
     - **b)** członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164),
     - **c)** obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079),
@@ -59,7 +57,7 @@ o izbach aptekarskich
     - **g)** obywateli państw trzecich, którzy ubiegają się o przyjęcie na terytorium Rzeczypospolitej Polskiej w celu podjęcia pracy w zawodzie wymagającym wysokich kwalifikacji lub w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE, w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
     - **h)** obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej w celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i mają prawo do wykonywania pracy oraz posiadają dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz.
 
-- **3)** cudzoziemiec obywatela państwa innego niż państwo członkowskie Unii Europejskiej.
+- **3)** cudzoziemiec – obywatela państwa innego niż państwo członkowskie Unii Europejskiej.
 
 2. Ilekroć w ustawie jest mowa o „tytule magistra farmacji” należy przez to rozumieć również „tytuł magistra uzyskany na kierunku farmacja”.
 
@@ -161,7 +159,7 @@ o izbach aptekarskich
 
 3. Farmaceuta wykonujący zawód na terenie więcej niż jednej okręgowej izby aptekarskiej podlega obowiązkowi wpisu do rejestru farmaceutów prowadzonego przez wskazaną przez niego radę okręgowej izby aptekarskiej, na terenie której wykonuje zawód.
 
-4. Kierownik apteki, punktu aptecznego, działu farmacji szpitalnej oraz farmaceuta sprawujący funkcję, o której mowa w art. 2 pkt 21a–21c ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, podlega wpisowi do rejestru farmaceutów prowadzonego przez radę okręgowej izby aptekarskiej, na terenie której jest kierownikiem lub sprawuje funkcję.
+4. Kierownik apteki, punktu aptecznego, działu farmacji szpitalnej oraz farmaceuta sprawujący funkcję, o której mowa w art. 2 pkt 21a–21c ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, podlega wpisowi do rejestru farmaceutów prowadzonego przez radę okręgowej izby aptekarskiej, na terenie której jest kierownikiem lub sprawuje funkcję.
 
 5. Farmaceuta, który po przyznaniu prawa wykonywania zawodu farmaceuty nie podejmuje zatrudnienia jako aptekarz, podlega obowiązkowi wpisu do rejestru farmaceutów prowadzonego przez okręgową radę aptekarską, która podjęła uchwałę o przyznaniu tego prawa.
 
@@ -185,7 +183,7 @@ o izbach aptekarskich
     - **d)** datę i miejsce ukończenia rocznej praktyki w aptece,
     - **e)** rodzaj i stopień posiadanej specjalizacji, datę jej uzyskania oraz nazwę jednostki szkolącej,
     - **f)** rodzaj i datę uzyskania stopnia i tytułu naukowego oraz nazwę jednostki nadającej ten stopień i tytuł,
-    - **g)** informacje dotyczące dopełnienia obowiązku podnoszenia kwalifikacji zawodowych wynikającego z art. 107zf ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne;
+    - **g)** informacje dotyczące dopełnienia obowiązku podnoszenia kwalifikacji zawodowych wynikającego z art. 107zf ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
 
 - **3)** dane dotyczące prawa wykonywania zawodu, w tym:
     - **a)** numer prawa wykonywania zawodu,
@@ -209,9 +207,9 @@ o izbach aptekarskich
 - **1)** uczelniom wyższym,
 - **2)** Centrum Medycznego Kształcenia Podyplomowego,
 - **3)** Centrum Egzaminów Medycznych,
-- **4)** szkołom wyższym prowadzącym studia na kierunku farmacja, które uzyskały akredytację określoną w art. 107a ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne,
+- **4)** szkołom wyższym prowadzącym studia na kierunku farmacja, które uzyskały akredytację określoną w art. 107a ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
 - **5)** wojewodom,
-- **6)** konsultantom krajowym w ochronie zdrowia w związku z wykonywanymi przez nich zadaniami.
+- **6)** konsultantom krajowym w ochronie zdrowia – w związku z wykonywanymi przez nich zadaniami.
 
 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób prowadzenia rejestru farmaceutów, uwzględniając w szczególności tryb dokonywania wpisów i zmian w rejestrze oraz wykreśleń z rejestru.
 
@@ -249,7 +247,7 @@ o izbach aptekarskich
     - **c)** tymczasowym zawieszeniu w czynnościach zawodowych,
 
 - **3)** sąd powszechny orzekł zakaz wykonywania zawodu,
-- **4)** sąd powszechny albo prokurator tytułem środka zapobiegawczego zastosował zawieszenie w wykonywaniu zawodu w terminie 3 dni od dnia uprawomocnienia się albo wykonalności uchwały, orzeczenia albo postanowienia o zastosowaniu środka zapobiegawczego.
+- **4)** sąd powszechny albo prokurator tytułem środka zapobiegawczego zastosował zawieszenie w wykonywaniu zawodu – w terminie 3 dni od dnia uprawomocnienia się albo wykonalności uchwały, orzeczenia albo postanowienia o zastosowaniu środka zapobiegawczego.
 
 2. Ostrzeżenie, o którym mowa w ust. 1, obejmuje:
 
@@ -332,6 +330,13 @@ o izbach aptekarskich
 
 **Art. 11.** Mandat członka organu izby aptekarskiej wygasa wskutek:
 
+- **1)** śmierci;
+- **2)** zrzeczenia się mandatu;
+- **3)** skreślenia z listy członków izby aptekarskiej;
+- **4)** odwołania przez organ, który dokonał wyboru;
+- **5)** ukarania prawomocnym orzeczeniem sądu aptekarskiego na kary określone w art. 46 ust. 1 pkt 3 i 4;
+- **6)** prawomocnego orzeczenia pozbawienia praw publicznych lub zakazu wykonywania zawodu farmaceuty.
+
 **Art. 12.** Uchwały organów samorządu zawodu farmaceuty podejmowane są zwykłą większością głosów, przy obecności co najmniej połowy członków danego organu.
 
 **Art. 13.**
@@ -364,7 +369,15 @@ o izbach aptekarskich
 
 **Art. 21.** Członkowie samorządu zawodu farmaceuty są obowiązani:
 
+- **1)** przestrzegać zasad etyki i deontologii zawodowej, godnie zachowywać się i sumiennie wykonywać swoje obowiązki zawodowe;
+- **2)** zachować w tajemnicy wiadomości dotyczące zdrowia pacjenta, uzyskane w związku z wykonywaniem zawodu.
+
 **Art. 22.** Członkowie samorządu zawodu farmaceuty mają prawo:
+
+- **1)** wybierać i być wybierani do organów samorządu zawodu farmaceuty, z zastrzeżeniem art. 9 ust. 4 i 5;
+- **2)** korzystać z pomocy izb aptekarskich w zakresie rozwijania kwalifikacji zawodowych oraz zapewniania właściwych warunków wykonywania zawodu;
+- **3)** korzystać z ochrony i pomocy prawnej organów izb aptekarskich;
+- **4)** korzystać ze świadczeń instytucji izb aptekarskich i działalności samopomocowej.
 
 **Art. 23.**
 
@@ -375,6 +388,12 @@ o izbach aptekarskich
 3. Pracodawca nie może wypowiedzieć farmaceucie, o którym mowa w ust. 1, warunków pracy i płacy na jego niekorzyść, chyba że zachodzą przyczyny określone w art. 43 Kodeksu pracy.
 
 **Art. 24.** Organami okręgowej izby aptekarskiej są:
+
+- **1)** okręgowy zjazd aptekarzy;
+- **2)** okręgowa rada aptekarska;
+- **3)** okręgowa komisja rewizyjna;
+- **4)** okręgowy sąd aptekarski;
+- **5)** okręgowy rzecznik odpowiedzialności zawodowej.
 
 **Art. 25.**
 
@@ -401,6 +420,14 @@ o izbach aptekarskich
 
 **Art. 27.** Okręgowy zjazd aptekarzy w szczególności:
 
+- **1)** podejmuje uchwały w sprawach objętych zakresem działania izby;
+- **2)** uchwala budżet i ustala zasady gospodarki finansowej izby;
+- **3)** rozpatruje i zatwierdza roczne i kadencyjne sprawozdania okręgowej rady aptekarskiej, okręgowej komisji rewizyjnej, okręgowego sądu aptekarskiego i okręgowego rzecznika odpowiedzialności zawodowej;
+- **4)** uchwala regulaminy organów izby, z wyłączeniem okręgowego sądu aptekarskiego;
+- **5)** ustala liczbę członków organów izby i zastępców rzecznika odpowiedzialności zawodowej;
+- **6)** dokonuje wyboru prezesa i członków okręgowej rady aptekarskiej, członków okręgowej komisji rewizyjnej, członków okręgowego sądu aptekarskiego oraz okręgowego rzecznika odpowiedzialności zawodowej i jego zastępców;
+- **7)** dokonuje wyboru delegatów na Krajowy Zjazd Aptekarzy.
+
 **Art. 28.**
 
 1. Okręgowa rada aptekarska wybiera spośród swoich członków prezydium. Prezydium okręgowej rady aptekarskiej stanowią: prezes oraz wybrani przez radę jego zastępcy, sekretarz, skarbnik i członkowie.
@@ -411,17 +438,39 @@ o izbach aptekarskich
 
 **Art. 29.** Okręgowa rada aptekarska kieruje działalnością izby w okresie między okręgowymi zjazdami aptekarzy, a w szczególności:
 
+- **1)** wykonuje zadania i czynności określone w art. 7 ust. 2 pkt 1–2, 4–7, 9–13;
+- **2)** wykonuje uchwały okręgowego zjazdu aptekarzy;
+- **3)** określa wysokość składki członkowskiej;
+- **4)** składa przed okręgowym zjazdem aptekarzy sprawozdanie z działalności i wykonania budżetu;
+- **5)** wydaje opinię w sprawach udzielania lub cofania koncesji na prowadzenie aptek lub hurtowni;
+- **6)** współdziała z samorządem terytorialnym w sprawie rozmieszczenia aptek;
+- **7)** prowadzi bieżące sprawy izby;
+- **8)** wykonuje zadania zlecone przez Naczelną Radę Aptekarską.
+
 **Art. 30.** Przewodniczącemu okręgowej komisji rewizyjnej, przewodniczącemu okręgowego sądu aptekarskiego oraz okręgowemu rzecznikowi odpowiedzialności zawodowej służy prawo do udziału w posiedzeniach okręgowej rady aptekarskiej i jej prezydium.
 
 **Art. 31.** Okręgowa komisja rewizyjna:
 
+- **1)** kontroluje działalność finansową i gospodarczą izby;
+- **2)** przedstawia sprawozdania z działalności kontrolnej okręgowemu zjazdowi aptekarzy;
+- **3)** występuje z wnioskiem o udzielenie absolutorium okręgowej radzie aptekarskiej.
+
 **Art. 32.** Okręgowy sąd aptekarski:
+
+- **1)** rozpatruje sprawy z zakresu odpowiedzialności zawodowej członków okręgowych izb aptekarskich oraz sprawuje sądownictwo polubowne;
+- **2)** składa roczne i kadencyjne sprawozdania okręgowemu zjazdowi aptekarzy.
 
 **Art. 33.** Okręgowy rzecznik odpowiedzialności zawodowej prowadzi postępowanie w sprawach odpowiedzialności zawodowej farmaceutów.
 
 #### Rozdział 4 Naczelna Izba Aptekarska
 
 **Art. 34.** Organami Naczelnej Izby Aptekarskiej są:
+
+- **1)** Krajowy Zjazd Aptekarzy;
+- **2)** Naczelna Rada Aptekarska;
+- **3)** Naczelna Komisja Rewizyjna;
+- **4)** Naczelny Sąd Aptekarski;
+- **5)** Naczelny Rzecznik Odpowiedzialności Zawodowej.
 
 **Art. 35.** Najwyższą władzą samorządu zawodu farmaceuty jest Krajowy Zjazd Aptekarzy.
 
@@ -442,6 +491,16 @@ o izbach aptekarskich
 5. Nadzwyczajny Zjazd powinien być zwołany w ciągu 3 miesięcy od dnia wpływu wniosku o zwołanie Zjazdu.
 
 **Art. 37.** Krajowy Zjazd Aptekarzy w szczególności:
+
+- **1)** uchwala zasady etyki i deontologii zawodowej;
+- **2)** uchwala program działalności samorządu zawodu farmaceuty;
+- **3)** zatwierdza regulaminy wyborów do organów samorządu;
+- **4)** rozpatruje i zatwierdza sprawozdania Naczelnej Rady Aptekarskiej, Naczelnej Komisji Rewizyjnej, Naczelnego Sądu Aptekarskiego i Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **5)** zatwierdza zasady gospodarki finansowej samorządu, o których mowa w art. 39 ust. 1 pkt 17;
+- **6)** uchwala regulaminy naczelnych organów Izby i ogólne wytyczne do regulaminu sądów aptekarskich;
+- **7)** ustala liczbę członków organów Izby i zastępców Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **8)** wybiera Prezesa i członków Naczelnej Rady Aptekarskiej, członków Naczelnej Komisji Rewizyjnej, członków Naczelnego Sądu Aptekarskiego oraz Naczelnego Rzecznika Odpowiedzialności Zawodowej i jego zastępców;
+- **9)** ustala zasady podziału składki członkowskiej.
 
 **Art. 38.**
 
@@ -497,7 +556,18 @@ o izbach aptekarskich
 
 **Art. 42.** Naczelna Komisja Rewizyjna:
 
+- **1)** kontroluje finansową i gospodarczą działalność Naczelnej Izby Aptekarskiej;
+- **2)** przedstawia sprawozdania z działalności kontrolnej Krajowemu Zjazdowi Aptekarzy;
+- **3)** sprawuje nadzór nad działalnością okręgowych komisji rewizyjnych;
+- **4)** zgłasza wniosek o udzielenie absolutorium Naczelnej Radzie Aptekarskiej.
+
 **Art. 43.** Naczelny Sąd Aptekarski:
+
+- **1)** uchwala regulamin sądów aptekarskich;
+- **2)** rozpatruje sprawy z zakresu odpowiedzialności zawodowej farmaceutów;
+- **3)** sprawuje pieczę nad działalnością okręgowych sądów aptekarskich;
+- **4)** składa Naczelnej Radzie Aptekarskiej okresowe informacje o stanie spraw z zakresu odpowiedzialności zawodowej;
+- **5)** składa sprawozdania z działalności Krajowemu Zjazdowi Aptekarzy.
 
 **Art. 44.** Naczelny Rzecznik Odpowiedzialności Zawodowej prowadzi postępowanie w sprawach odpowiedzialności zawodowej farmaceutów oraz sprawuje nadzór nad działalnością okręgowych rzeczników odpowiedzialności zawodowej.
 
@@ -534,13 +604,13 @@ o izbach aptekarskich
 - **2)** obwinionemu farmaceucie,
 - **3)** Naczelnemu Rzecznikowi Odpowiedzialności Zawodowej,
 - **4)** ministrowi właściwemu do spraw zdrowia,
-- **5)** Prezesowi Naczelnej Rady Aptekarskiej przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia.
+- **5)** Prezesowi Naczelnej Rady Aptekarskiej – przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia.
 
 2. Kasację w stosunku do tego samego obwinionego i od tego samego orzeczenia każdy uprawniony może wnieść tylko raz.
 
 **Art. 46c.**
 
-1. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420) lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
+1. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420) lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
 
 2. Niedopuszczalne jest uwzględnienie kasacji na niekorzyść obwinionego wniesionej po upływie 6 miesięcy od dnia uprawomocnienia się orzeczenia.
 
@@ -600,7 +670,7 @@ o izbach aptekarskich
 
 1. Postępowania w przedmiocie odpowiedzialności zawodowej nie wszczyna się, a wszczęte umarza, jeżeli zaszła okoliczność, która według Kodeksu postępowania karnego wyłącza ściganie.
 
-2. W razie śmierci obwinionego przed ukończeniem postępowania, toczy się ono nadal, jeżeli zażąda tego w terminie dwumiesięcznym od dnia zgonu obwinionego jego małżonek, krewny w linii prostej, brat lub siostra.
+2. W razie śmierci obwinionego przed ukończeniem postępowania, toczy się ono nadal, jeżeli zażąda tego – w terminie dwumiesięcznym od dnia zgonu obwinionego – jego małżonek, krewny w linii prostej, brat lub siostra.
 
 **Art. 55.** (uchylony)
 
@@ -651,8 +721,8 @@ o izbach aptekarskich
 
 1. W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
 
-- **1)** ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
-- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383).
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
 
 2. Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia, postępowanie w sprawach odpowiedzialności zawodowej farmaceutów, uwzględniając właściwość i skład sądów aptekarskich, a także sposób postępowania wyjaśniającego, postępowania w I i II instancji, koszty postępowania oraz sposób wykonywania prawomocnych orzeczeń sądów aptekarskich.
 
@@ -660,7 +730,7 @@ o izbach aptekarskich
 
 **Art. 63.**
 
-1. Okręgowe sądy aptekarskie, za pisemną zgodą stron, mogą rozpatrywać jako sąd polubowny spory między farmaceutami oraz między farmaceutami a innymi pracownikami służby zdrowia, a także między farmaceutami a innymi osobami lub instytucjami, jeżeli spory te dotyczą wykonywania zawodu farmaceuty.
+1. Okręgowe sądy aptekarskie, za pisemną zgodą stron, mogą rozpatrywać – jako sąd polubowny – spory między farmaceutami oraz między farmaceutami a innymi pracownikami służby zdrowia, a także między farmaceutami a innymi osobami lub instytucjami, jeżeli spory te dotyczą wykonywania zawodu farmaceuty.
 
 2. W przypadkach, o których mowa w ust. 1, sądy aptekarskie stosują odpowiednio przepisy Kodeksu postępowania cywilnego o sądach polubownych.
 

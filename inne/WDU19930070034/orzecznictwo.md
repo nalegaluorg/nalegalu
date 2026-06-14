@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 grudnia 1992 r. o radiofonii i telewizji.*
 
-Łącznie: **90** orzeczeń
-(pominięto 71 orzeczeń sądów rejonowych)
+Łącznie: **91** orzeczeń
+(pominięto 78 orzeczeń sądów rejonowych)
 
 ## art. 1 (8)
 
@@ -125,12 +125,13 @@ Orzeczenia powołujące: *Ustawa z dnia 29 grudnia 1992 r. o radiofonii i telewi
 - 2014-02-07 | SO | [VI ACa 380/13](https://www.saos.org.pl/judgments/52554) | Wyrok
 - 2012-10-12 | SO | [VI ACa 162/12](https://www.saos.org.pl/judgments/4256) | Wyrok
 
-## art. 18 (20)
+## art. 18 (21)
 
 - 1994-03-02 | TK | [W 3/93](https://www.saos.org.pl/judgments/205624) | Uchwała ★
 - 1994-06-07 | TK | [K 17/93](https://www.saos.org.pl/judgments/205605) | Wyrok ★
 - 1993-08-17 | TK | [K 2/93](https://www.saos.org.pl/judgments/205542) | Postanowienie ★
 - 2004-03-09 | SN | [III SK 11/04](https://www.saos.org.pl/judgments/82553) | Wyrok ★
+- 2026-04-27 | SO | [VII AGa 957/24](https://www.saos.org.pl/judgments/545294) | Wyrok
 - 2022-05-25 | SO | [VII AGa 1003/21](https://www.saos.org.pl/judgments/480256) | Wyrok
 - 2021-12-22 | SO | [VII AGa 793/20](https://www.saos.org.pl/judgments/469384) | Wyrok
 - 2021-03-31 | SO | [VII AGa 612/20](https://www.saos.org.pl/judgments/458638) | Wyrok
@@ -259,8 +260,9 @@ Orzeczenia powołujące: *Ustawa z dnia 29 grudnia 1992 r. o radiofonii i telewi
 - 1994-03-02 | TK | [W 3/93](https://www.saos.org.pl/judgments/205624) | Uchwała ★
 - 2012-11-21 | SO | [II AKa 153/12](https://www.saos.org.pl/judgments/137148) | Wyrok
 
-## art. 53 (18)
+## art. 53 (19)
 
+- 2026-04-27 | SO | [VII AGa 957/24](https://www.saos.org.pl/judgments/545294) | Wyrok
 - 2022-07-27 | SO | [VII AGa 1229/21](https://www.saos.org.pl/judgments/480258) | Wyrok
 - 2022-03-28 | SO | [VII AGa 494/21](https://www.saos.org.pl/judgments/469679) | Wyrok
 - 2021-12-22 | SO | [VII AGa 793/20](https://www.saos.org.pl/judgments/469384) | Wyrok

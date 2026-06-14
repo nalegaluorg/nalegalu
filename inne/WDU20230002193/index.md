@@ -8,10 +8,10 @@ pos: 2193
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 12 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2193 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 11 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,63 +25,77 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2193/text.pdf) |
 
-ROZPORZĄDZENIE RADY MINISTRÓW dnia 11 października 2023 r.
-zmieniające rozporządzenie sprawie szczegółowego zakresu sposobów realizacji niektórych zadań Agencji Restrukturyzacji Modernizacji Rolnictwa Na podstawie art. 4 6 ustawy dnia 9 maja 2008 r. Agencji Restrukturyzacji Modernizacji Rolnictwa (Dz. U.
-2023 r. poz. 1199) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów dnia 27 stycznia 2015 r. sprawie szczegółowego zakresu sposobów realizacji niektórych zadań Agencji Restrukturyzacji Modernizacji Rolnictwa (Dz. U. poz. 187, późn. zm. ) wprowadza się następujące zmiany: § 13zy:
-a) 1: średnik zastępuje się wyrazami „ , lub”, po dodaje się 1a brzmieniu: „1a) prowadzącemu działalność oznaczoną kodem 11.01.Z zgodnie klasyfikacją Polskiej Klasyfikacji Działalności, jeżeli nabył zboża okresie od dnia października 2022 r. do dnia 31 sierpnia 2023 r.
-od producenta rolnego podmiotu, których 1;”,
-b) 2 wyrazy „15 października” zastępuje się wyrazami „31 grudnia”,
-c) 3: wprowadzenie do wyliczenia otrzymuje brzmienie: „Kwota kredytów bankowych objętych pomocą, udzielonych podmiotowi prowadzącemu działalność zakresie obrotu zbożami skupu zbóż, obrotu materiałem siewnym roślin rolniczych, którym przepisach nasiennictwie, skupu mrożenia owoców miękkich podmiotowi prowadzącemu działalność oznaczoną kodem 11.01.Z zgodnie klasyfikacją Polskiej Klasyfikacji Działalności nie może przekroczyć kwoty 40 mln zł jednocześnie:”, po 1a dodaje się 1b brzmieniu: „1b) kwoty, za którą zostały nabyte zboża okresie od dnia października 2022 r. do dnia 31 sierpnia 2023 r.
-przypadku podmiotów prowadzących działalność oznaczoną kodem 11.01.Z zgodnie klasyfikacją Polskiej Klasyfikacji Działalności, lub”,
-2) § 13zzc:
-a) uchyla się 3,
-b) po 3 dodaje się 3a brzmieniu: „3a. Wniosek, którym 2 składa się raz do dnia 30 października 2023 r.”;
-3) § 13zzd 10 16 3 liczbę „15” zastępuje się liczbą „30”;
-4) po § 13zzg dodaje się § 13zzh § 13zzi brzmieniu: „§ 13zzh. 1. W 2023 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających polityki państwa zakresie rolnictwa rozwoju wsi, § 2 6, producentowi rolnemu: któremu został nadany numer identyfikacyjny trybie przepisów krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków przyznanie płatności;
-2) którego gospodarstwie rolnym dziale specjalnym produkcji rolnej szkody uprawach owocujących drzew owocowych, owocujących krzewów owocowych truskawek, spowodowane wystąpieniem 2023 r. przymrozków wiosennych, gradu huraganu, rozumieniu przepisów ubezpieczeniach upraw rolnych zwierząt gospodarskich, powstałe na powierzchni uprawy objęły co najmniej 30% mniej niż 70% danej uprawy;
-3) będącemu mikroprzedsiębiorstwem, małym, średnim albo dużym przedsiębiorstwem rozumieniu załącznika I do rozporządzenia 2022/2472.
-2. Pomoc, jest udzielana do wysokości równowartości złotych 15 000 euro ustalanej zgodnie art. 11 3 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej.
-3. Pomoc, jest udzielana: zgodnie przepisami rozporządzenia nr 1408/2013 oraz przepisami postępowaniu sprawach dotyczących pomocy publicznej przypadku gdy szkody, których 2, oszacowane przez komisję, której § 5 5, wynoszą nie więcej niż 30% średniej rocznej produkcji rolnej gospodarstwie rolnym dziale specjalnym produkcji rolnej trzech ostatnich lat poprzedzających rok, którym wystąpiły szkody, albo trzech lat okresie pięcioletnim poprzedzającym rok, którym wystąpiły szkody, pominięciem roku najwyższej najniższej wielkości produkcji, albo
-2) na warunkach określonych przepisach rozporządzenia 2022/2472 oraz przepisach postępowaniu sprawach dotyczących pomocy publicznej przypadku gdy szkody, których 2, oszacowane przez komisję, § 5 5, wynoszą powyżej 30% średniej rocznej produkcji rolnej, 1.
-4. Średnia roczna produkcja rolna, 3, jest ustalana na podstawie danych Instytutu Ekonomiki Rolnictwa Gospodarki Żywnościowej Państwowego Instytutu Badawczego średniej wielkości produkcji rolnej, udostępnianych przez ministra właściwego do spraw rozwoju wsi na stronie internetowej urzędu obsługującego tego ministra.
-5. Pomoc, jest przyznawana drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony terminie do dnia 30 października 2023 r. na formularzu opracowanym udostępnionym przez Agencję na jej stronie internetowej.
-W przypadku złożenia wniosku, którym 5, po dniu 30 października 2023 r. nie wszczyna się postępowania sprawie przyznania pomocy, 1.
-7. Wniosek, którym 5, zawiera: imię nazwisko, miejsce zamieszkania adres albo nazwę, siedzibę adres producenta rolnego ubiegającego się pomoc, 1;
-2) numer identyfikacyjny producenta rolnego ubiegającego się pomoc, nadany trybie przepisów krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków przyznanie płatności;
-3) numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) oraz numer identyfikacji podatkowej (NIP) producenta rolnego ubiegającego się pomoc, a przypadku osób fizycznych nieposiadających numeru PESEL numer paszportu albo innego dokumentu stwierdzającego tożsamość.
-uprawy,
-b) oświadczenie albo zaświadczenia dotyczące pomocy de minimis pomocy de minimis rolnictwie oraz informacje niezbędne do udzielenia tej pomocy, których art. 37 2 3 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej;
-2) 2:
-a) kopię protokołu oszacowania szkód, którym § 5 5, zawierającego informacje powierzchni uprawy, na powstały szkody spowodowane wystąpieniem 2023 r. przymrozków wiosennych, gradu huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 30% mniej niż 70% danej uprawy,
-b) informacje dotyczące wnioskodawcy prowadzonej przez niego działalności gospodarczej oraz informacje wysokości otrzymanej pomocy publicznej, których art. 37 5 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej.
-9. Wysokość pomocy, ustala się jako iloczyn deklarowanej przez producenta rolnego we wniosku, którym 5, powierzchni upraw, na powstały szkody spowodowane wystąpieniem 2023 r. przymrozków wiosennych, gradu huraganu, oraz stawki tej pomocy.
-10. Stawka, 9, wynosi: 2500 zł na ha powierzchni uprawy owocujących drzew owocowych, na powstały szkody spowodowane wystąpieniem 2023 r. przymrozków wiosennych, gradu huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 50% mniej niż 70% danej uprawy;
-2) 1250 zł na ha powierzchni uprawy owocujących drzew owocowych, na powstały szkody spowodowane wystąpieniem 2023 r. przymrozków wiosennych, gradu huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 30% mniej niż 50% danej uprawy;
-3) 1250 zł na ha powierzchni uprawy owocujących krzewów owocowych truskawek, na powstały szkody spowodowane wystąpieniem 2023 r. przymrozków wiosennych, gradu huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 50% mniej niż 70% danej uprawy;
-4) 625 zł na ha powierzchni uprawy owocujących krzewów owocowych truskawek, na powstały szkody spowodowane wystąpieniem 2023 r. przymrozków wiosennych, gradu huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 30% mniej niż 50% danej uprawy.
-11. W przypadku gdy ze złożonych wniosków, których 5, wynika, że zapotrzebowanie na pomoc, przekracza łącznie kwotę 200 mln zł, do obliczenia wysokości tej pomocy stosuje się współczynnik korygujący. Współczynnik korygujący stanowi iloraz kwoty 200 mln zł kwoty równej zapotrzebowaniu na tę pomoc wynikającemu ze złożonych wniosków oraz jest ustalany dokładnością do dwóch miejsc po przecinku.
-12. Łączna wysokość pomocy, nie może przekroczyć łącznej wysokości pomocy, § 5 11. W przypadku gdy łączna wysokość pomocy, oraz pomocy otrzymanej na podstawie odrębnych przepisów, wraz odszkodowaniem zakładu ubezpieczeń, przekraczałaby kwotę, § 5 11, pomocy udziela się wysokości stanowiącej różnicę między kwotą obliczoną zgodnie § 5 11 a wysokością pomocy otrzymanej na podstawie odrębnych przepisów otrzymanych odszkodowań.
-13. Pomoc, nie przysługuje, jeżeli łączna kwota pomocy otrzymanej na podstawie odrębnych przepisów oraz otrzymanych odszkodowań przekracza wysokość pomocy, § 5 11.
-14. Pomoc, pomniejsza się 50%, jeżeli dniu wystąpienia szkód, których 2, co najmniej 50% powierzchni upraw gospodarstwie rolnym dziale specjalnym produkcji rolnej, wyłączeniem łąk pastwisk, nie było ubezpieczonych co najmniej od jednego ryzyk, których § 2
-3.
-15. Pomoc, jest wypłacana na rachunek producenta rolnego wskazany systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków przyznanie płatności.
-3) który zawarł umowę dostawy na wyprodukowanie dostarczenie 2023 r. kalafiorów brokułów, a podmiot, którym zawarł umowę dostawy, odmówił odbioru wskazanej tej umowie dostawy całkowitej ilości kalafiorów brokułów nie zapłacił za nie;
-4) któremu zagraża utrata płynności finansowej związku ograniczeniami na rynku rolnym spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy.
-2. Pomoc, jest przyznawana drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony terminie do dnia 30 października 2023 r. na formularzu opracowanym udostępnionym przez Agencję na jej stronie internetowej.
-3. W przypadku złożenia wniosku, którym 2, po dniu 30 października 2023 r. nie wszczyna się postępowania sprawie przyznania pomocy, 1.
-4. Wniosek, którym 2, zawiera: imię nazwisko, miejsce zamieszkania adres albo nazwę, siedzibę adres producenta rolnego ubiegającego się pomoc, 1;
-2) numer identyfikacyjny producenta rolnego ubiegającego się pomoc, nadany trybie przepisów krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków przyznanie płatności;
-3) numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) oraz numer identyfikacji podatkowej (NIP) producenta rolnego ubiegającego się pomoc, a przypadku osób fizycznych nieposiadających numeru PESEL numer paszportu albo innego dokumentu stwierdzającego tożsamość;
-4) oświadczenie producenta rolnego ubiegającego się pomoc, 1:
-a) ilości kalafiorów brokułów nieodebranych przez podmiot, którym zawarł on umowę dostawy na wyprodukowanie dostarczenie 2023 r. kalafiorów brokułów,
-b) że zagraża mu utrata płynności finansowej związku ograniczeniami na rynku rolnym spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy.
-5. Do wniosku, którym 2, dołącza się: kopie faktur, rachunków innych dowodów potwierdzających ilość sprzedanych kalafiorów brokułów ramach umowy dostawy na wyprodukowanie dostarczenie 2023 r. kalafiorów brokułów, na podstawie podmiot, którym producent rolny zawarł tę umowę dostawy, nie odebrał wskazanej tej umowie dostawy całkowitej ilości kalafiorów brokułów;
-2) kopię umowy dostawy na wyprodukowanie dostarczenie 2023 r. kalafiorów brokułów, jest określona ilość kalafiorów brokułów, do dostawy był zobowiązany producent rolny ubiegający się pomoc, oraz na podstawie podmiot, którym producent rolny zawarł tę umowę dostawy, nie odebrał wskazanej tej umowie dostawy całkowitej ilości kalafiorów brokułów.
-Wysokość pomocy, ustala się jako iloczyn powierzchni uprawy kalafiorów brokułów oraz stawki pomocy. Do wyliczenia powierzchni uprawy kalafiorów brokułów przyjmuje się iloraz ilości kalafiorów brokułów nieodebranych przez podmiot, którym producent rolny zawarł umowę dostawy na wyprodukowanie dostarczenie 2023 r. kalafiorów brokułów, oraz średniego plonu uprawy kalafiorów brokułów 2021 r.
-zebranych ha ustalonego na podstawie danych Głównego Urzędu Statystycznego.
-7. Stawka, 6, wynosi 1250 zł na ha powierzchni uprawy kalafiorów brokułów.
-8. W przypadku gdy ze złożonych wniosków, których 2, wynika, że zapotrzebowanie na pomoc, przekracza łącznie kwotę 5 mln zł, do obliczenia wysokości tej pomocy stosuje się współczynnik korygujący. Współczynnik korygujący stanowi iloraz kwoty 5 mln zł kwoty równej zapotrzebowaniu na tę pomoc wynikającemu ze złożonych wniosków oraz jest ustalany dokładnością do dwóch miejsc po przecinku.
-9. Pomoc finansowa, jest wypłacana na rachunek producenta rolnego wskazany krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków przyznanie płatności.”.
-§ 3. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
+zmieniające rozporządzenie w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
+z 2023 r. poz. 1199) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm. ) wprowadza się następujące zmiany:
+1) w § 13zy:
+a) w ust. 1: – w pkt 1 średnik zastępuje się wyrazami „ , lub”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) prowadzącemu działalność oznaczoną kodem 11.01.Z zgodnie z klasyfikacją w Polskiej Klasyfikacji Działalności, jeżeli nabył zboża w okresie od dnia 1 października 2022 r. do dnia 31 sierpnia 2023 r.
+od producenta rolnego lub podmiotu, o których mowa w pkt 1;”,
+b) w ust. 2 wyrazy „15 października” zastępuje się wyrazami „31 grudnia”,
+c) w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Kwota kredytów bankowych objętych pomocą, o której mowa w ust. 1, udzielonych podmiotowi prowadzącemu działalność w zakresie obrotu zbożami lub skupu zbóż, lub obrotu materiałem siewnym roślin rolniczych, o którym mowa w przepisach o nasiennictwie, lub skupu lub mrożenia owoców miękkich lub podmiotowi prowadzącemu działalność oznaczoną kodem 11.01.Z zgodnie z klasyfikacją w Polskiej Klasyfikacji Działalności nie może przekroczyć kwoty 40 mln zł i jednocześnie:”, – po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) kwoty, za którą zostały nabyte zboża w okresie od dnia 1 października 2022 r. do dnia 31 sierpnia 2023 r. – w przypadku podmiotów prowadzących działalność oznaczoną kodem 11.01.Z zgodnie z klasyfikacją w Polskiej Klasyfikacji Działalności, lub”,
+d) w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o udzielenie kredytu bankowego, do którego jest stosowana pomoc, o której mowa w ust. 1, podmiot prowadzący działalność w zakresie obrotu zbożami lub skupu zbóż, lub obrotu materiałem siewnym roślin rolniczych, o którym mowa w przepisach o nasiennictwie, lub skupu lub mrożenia owoców miękkich lub podmiot prowadzący działalność oznaczoną kodem 11.01.Z zgodnie z klasyfikacją w Polskiej Klasyfikacji Działalności dołączają oświadczenie:”;
+2) w § 13zzc:
+a) uchyla się ust. 3,
+b) po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Wniosek, o którym mowa w ust. 2 pkt 1, składa się raz do dnia 30 października 2023 r.”;
+3) w § 13zzd w ust. 10 i w ust. 16 w pkt 3 liczbę „15” zastępuje się liczbą „30”;
+4) po § 13zzg dodaje się § 13zzh i § 13zzi w brzmieniu: „§ 13zzh. 1. W 2023 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
+1) któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+2) w którego gospodarstwie rolnym lub dziale specjalnym produkcji rolnej szkody w uprawach owocujących drzew owocowych, owocujących krzewów owocowych lub truskawek, spowodowane wystąpieniem w 2023 r. przymrozków wiosennych, gradu lub huraganu, w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, powstałe na powierzchni uprawy objęły co najmniej 30% i mniej niż 70% danej uprawy;
+3) będącemu mikroprzedsiębiorstwem, małym, średnim albo dużym przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia 2022/2472.
+2. Pomoc, o której mowa w ust. 1, jest udzielana do wysokości równowartości w złotych 15 000 euro ustalanej zgodnie z art. 11 ust. 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+3. Pomoc, o której mowa w ust. 1, jest udzielana:
+1) zgodnie z przepisami rozporządzenia nr 1408/2013 oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej – w przypadku gdy szkody, o których mowa w ust. 1 pkt 2, oszacowane przez komisję, o której mowa w § 5 ust. 5, wynoszą nie więcej niż 30% średniej rocznej produkcji rolnej w gospodarstwie rolnym lub dziale specjalnym produkcji rolnej z trzech ostatnich lat poprzedzających rok, w którym wystąpiły szkody, albo z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym wystąpiły szkody, z pominięciem roku o najwyższej i najniższej wielkości produkcji, albo
+2) na warunkach określonych w przepisach rozporządzenia 2022/2472 oraz przepisach o postępowaniu w sprawach dotyczących pomocy publicznej – w przypadku gdy szkody, o których mowa w ust. 1 pkt 2, oszacowane przez komisję, o której mowa w § 5 ust. 5, wynoszą powyżej 30% średniej rocznej produkcji rolnej, o której mowa w pkt 1.
+4. Średnia roczna produkcja rolna, o której mowa w ust. 3, jest ustalana na podstawie danych Instytutu Ekonomiki Rolnictwa i Gospodarki Żywnościowej – Państwowego Instytutu Badawczego o średniej wielkości produkcji rolnej, udostępnianych przez ministra właściwego do spraw rozwoju wsi na stronie internetowej urzędu obsługującego tego ministra.
+5. Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony w terminie do dnia 30 października 2023 r. na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
+6. W przypadku złożenia wniosku, o którym mowa w ust. 5, po dniu 30 października 2023 r. nie wszczyna się postępowania w sprawie przyznania pomocy, o której mowa w ust. 1.
+7. Wniosek, o którym mowa w ust. 5, zawiera:
+1) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1;
+2) numer identyfikacyjny producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1, nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+3) numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) oraz numer identyfikacji podatkowej (NIP) producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1, a w przypadku osób fizycznych nieposiadających numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość.
+8. Do wniosku, o którym mowa w ust. 5, dołącza się, w przypadku ubiegania się o pomoc udzielaną zgodnie z przepisami, o których mowa w ust. 3:
+1) pkt 1:
+a) kopię protokołu oszacowania szkód, o którym mowa w § 5 ust. 5, zawierającego informacje o powierzchni uprawy, na której powstały szkody spowodowane wystąpieniem w 2023 r. przymrozków wiosennych, gradu lub huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 30% i mniej niż 70% danej uprawy,
+b) oświadczenie albo zaświadczenia dotyczące pomocy de minimis lub pomocy de minimis w rolnictwie oraz informacje niezbędne do udzielenia tej pomocy, o których mowa w art. 37 ust. 2 pkt 1 i 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej;
+2) pkt 2:
+a) kopię protokołu oszacowania szkód, o którym mowa w § 5 ust. 5, zawierającego informacje o powierzchni uprawy, na której powstały szkody spowodowane wystąpieniem w 2023 r. przymrozków wiosennych, gradu lub huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 30% i mniej niż 70% danej uprawy,
+b) informacje dotyczące wnioskodawcy i prowadzonej przez niego działalności gospodarczej oraz informacje o wysokości otrzymanej pomocy publicznej, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+9. Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn deklarowanej przez producenta rolnego we wniosku, o którym mowa w ust. 5, powierzchni upraw, na której powstały szkody spowodowane wystąpieniem w 2023 r. przymrozków wiosennych, gradu lub huraganu, oraz stawki tej pomocy.
+10. Stawka, o której mowa w ust. 9, wynosi:
+1) 2500 zł na 1 ha powierzchni uprawy owocujących drzew owocowych, na której powstały szkody spowodowane wystąpieniem w 2023 r. przymrozków wiosennych, gradu lub huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 50% i mniej niż 70% danej uprawy;
+2) 1250 zł na 1 ha powierzchni uprawy owocujących drzew owocowych, na której powstały szkody spowodowane wystąpieniem w 2023 r. przymrozków wiosennych, gradu lub huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 30% i mniej niż 50% danej uprawy;
+3) 1250 zł na 1 ha powierzchni uprawy owocujących krzewów owocowych lub truskawek, na której powstały szkody spowodowane wystąpieniem w 2023 r. przymrozków wiosennych, gradu lub huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 50% i mniej niż 70% danej uprawy;
+4) 625 zł na 1 ha powierzchni uprawy owocujących krzewów owocowych lub truskawek, na której powstały szkody spowodowane wystąpieniem w 2023 r. przymrozków wiosennych, gradu lub huraganu, jeżeli szkody powstałe na tej powierzchni objęły co najmniej 30% i mniej niż 50% danej uprawy.
+11. W przypadku gdy ze złożonych wniosków, o których mowa w ust. 5, wynika, że zapotrzebowanie na pomoc, o której mowa w ust. 1, przekracza łącznie kwotę 200 mln zł, do obliczenia wysokości tej pomocy stosuje się współczynnik korygujący. Współczynnik korygujący stanowi iloraz kwoty 200 mln zł i kwoty równej zapotrzebowaniu na tę pomoc wynikającemu ze złożonych wniosków oraz jest ustalany z dokładnością do dwóch miejsc po przecinku.
+12. Łączna wysokość pomocy, o której mowa w ust. 1, nie może przekroczyć łącznej wysokości pomocy, o której mowa w § 5 ust. 11. W przypadku gdy łączna wysokość pomocy, o której mowa w ust. 1, oraz pomocy otrzymanej na podstawie odrębnych przepisów, wraz z odszkodowaniem z zakładu ubezpieczeń, przekraczałaby kwotę, o której mowa w § 5 ust. 11, pomocy udziela się w wysokości stanowiącej różnicę między kwotą obliczoną zgodnie z § 5 ust. 11 a wysokością pomocy otrzymanej na podstawie odrębnych przepisów i otrzymanych odszkodowań.
+13. Pomoc, o której mowa w ust. 1, nie przysługuje, jeżeli łączna kwota pomocy otrzymanej na podstawie odrębnych przepisów oraz otrzymanych odszkodowań przekracza wysokość pomocy, o której mowa w § 5 ust. 11.
+14. Pomoc, o której mowa w ust. 1, pomniejsza się o 50%, jeżeli w dniu wystąpienia szkód, o których mowa w ust. 1 pkt 2, co najmniej 50% powierzchni upraw w gospodarstwie rolnym lub dziale specjalnym produkcji rolnej, z wyłączeniem łąk i pastwisk, nie było ubezpieczonych co najmniej od jednego z ryzyk, o których mowa w § 2 ust. 1 pkt 3.
+15. Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+§ 13zzi. 1. W 2023 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
+1) któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+2) będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia 2022/2472;
+3) który zawarł umowę dostawy na wyprodukowanie i dostarczenie w 2023 r. kalafiorów lub brokułów, a podmiot, z którym zawarł umowę dostawy, odmówił odbioru wskazanej w tej umowie dostawy całkowitej ilości kalafiorów lub brokułów i nie zapłacił za nie;
+4) któremu zagraża utrata płynności finansowej w związku z ograniczeniami na rynku rolnym spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy.
+2. Pomoc, o której mowa w ust. 1, jest przyznawana w drodze decyzji kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego, na wniosek tego producenta rolnego złożony w terminie do dnia 30 października 2023 r. na formularzu opracowanym i udostępnionym przez Agencję na jej stronie internetowej.
+3. W przypadku złożenia wniosku, o którym mowa w ust. 2, po dniu 30 października 2023 r. nie wszczyna się postępowania w sprawie przyznania pomocy, o której mowa w ust. 1.
+4. Wniosek, o którym mowa w ust. 2, zawiera:
+1) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1;
+2) numer identyfikacyjny producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1, nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+3) numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) oraz numer identyfikacji podatkowej (NIP) producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1, a w przypadku osób fizycznych nieposiadających numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość;
+4) oświadczenie producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1:
+a) o ilości kalafiorów lub brokułów nieodebranych przez podmiot, z którym zawarł on umowę dostawy na wyprodukowanie i dostarczenie w 2023 r. kalafiorów lub brokułów,
+b) że zagraża mu utrata płynności finansowej w związku z ograniczeniami na rynku rolnym spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy.
+5. Do wniosku, o którym mowa w ust. 2, dołącza się:
+1) kopie faktur, rachunków lub innych dowodów potwierdzających ilość sprzedanych kalafiorów lub brokułów w ramach umowy dostawy na wyprodukowanie i dostarczenie w 2023 r. kalafiorów lub brokułów, na podstawie której podmiot, z którym producent rolny zawarł tę umowę dostawy, nie odebrał wskazanej w tej umowie dostawy całkowitej ilości kalafiorów lub brokułów;
+2) kopię umowy dostawy na wyprodukowanie i dostarczenie w 2023 r. kalafiorów lub brokułów, w której jest określona ilość kalafiorów lub brokułów, do dostawy której był zobowiązany producent rolny ubiegający się o pomoc, o której mowa w ust. 1, oraz na podstawie której podmiot, z którym producent rolny zawarł tę umowę dostawy, nie odebrał wskazanej w tej umowie dostawy całkowitej ilości kalafiorów lub brokułów.
+6. Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn powierzchni uprawy kalafiorów lub brokułów oraz stawki pomocy. Do wyliczenia powierzchni uprawy kalafiorów lub brokułów przyjmuje się iloraz ilości kalafiorów lub brokułów nieodebranych przez podmiot, z którym producent rolny zawarł umowę dostawy na wyprodukowanie i dostarczenie w 2023 r. kalafiorów lub brokułów, oraz średniego plonu uprawy kalafiorów lub brokułów w 2021 r.
+zebranych z 1 ha ustalonego na podstawie danych Głównego Urzędu Statystycznego.
+7. Stawka, o której mowa w ust. 6, wynosi 1250 zł na 1 ha powierzchni uprawy kalafiorów lub brokułów.
+8. W przypadku gdy ze złożonych wniosków, o których mowa w ust. 2, wynika, że zapotrzebowanie na pomoc, o której mowa w ust. 1, przekracza łącznie kwotę 5 mln zł, do obliczenia wysokości tej pomocy stosuje się współczynnik korygujący. Współczynnik korygujący stanowi iloraz kwoty 5 mln zł i kwoty równej zapotrzebowaniu na tę pomoc wynikającemu ze złożonych wniosków oraz jest ustalany z dokładnością do dwóch miejsc po przecinku.
+9. Pomoc finansowa, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.”.
+§ 2. Pomoc publiczna określona w:
+1) § 13zy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem,
+2) § 13zzi rozporządzenia zmienianego w § 1 – może być udzielana od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tych przepisach.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Prezes Rady Ministrów: M. Morawiecki
 

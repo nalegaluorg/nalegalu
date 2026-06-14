@@ -8,10 +8,10 @@ pos: 2476
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2476 Załączniki do rozporządzenia Ministra Zdrowia z dnia 22 grudnia 2017 r. (poz. ….) Załącznik nr 1 Wzór PROGRAM POLITYKI ZDROWOTNEJ STRONA TYTUŁOWA AKCEPTUJĘ ……………………..
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2476/text.pdf) |
 
-PROGRAM POLITYKI ZDROWOTNEJ STRONA TYTUŁOWA AKCEPTUJĘ ……………………..
 [Oznaczenie lub logotyp podmiotu opracowującego program polityki zdrowotnej] [Nazwa programu polityki zdrowotnej] [okres realizacji programu polityki zdrowotnej] [podstawa prawna opracowania programu polityki zdrowotnej] [Miejscowość, rok opracowania programu polityki zdrowotnej] KOLEJNE STRONY PROGRAMU POLITYKI ZDROWOTNEJ [Nagłówek strony] I. Opis choroby lub problemu zdrowotnego i uzasadnienie wprowadzenia programu polityki zdrowotnej I.1. Opis problemu zdrowotnego I.2. Dane epidemiologiczne I.3. Opis obecnego postępowania II. Cele programu polityki zdrowotnej i mierniki efektywności jego realizacji II.1. Cel główny II.2. Cele szczegółowe II.3. Mierniki efektywności realizacji programu polityki zdrowotnej III. Charakterystyka populacji docelowej oraz charakterystyka interwencji, jakie są planowane w ramach programu polityki zdrowotnej III.1. Populacja docelowa III.2. Kryteria kwalifikacji do udziału w programie polityki zdrowotnej oraz kryteria wyłączenia z programu polityki zdrowotnej III.3. Planowane interwencje III.4. Sposób udzielania świadczeń zdrowotnych w ramach programu polityki zdrowotnej III.5. Sposób zakończenia udziału w programie polityki zdrowotnej IV. Organizacja programu polityki zdrowotnej IV.1. Etapy programu polityki zdrowotnej i działania podejmowane w ramach etapów IV.2. Warunki realizacji programu polityki zdrowotnej dotyczące personelu, wyposażenia i warunków lokalowych V. Sposób monitorowania i ewaluacji programu polityki zdrowotnej V.1. Monitorowanie V.2. Ewaluacja VI. Budżet programu polityki zdrowotnej VI.1. Koszty jednostkowe VI.2. Koszty całkowite VI.3. Źródła finansowania VII. Bibliografia [stopka strony] Sposób sporządzenia programu polityki zdrowotnej: I. Opis choroby lub problemu zdrowotnego i uzasadnienie wprowadzenia programu polityki zdrowotnej
 1. Należy: zdefiniować problem zdrowotny, w sposób krótki i zwięzły opisać poszczególne jednostki chorobowe, których dotyczyć będzie program polityki zdrowotnej, opisać sytuację lokalną oraz uzasadnić podjęcie działań we wskazanym problemie zdrowotnym.
 2. Dane epidemiologiczne wskazane w programie polityki zdrowotnej powinny być możliwie jak najbardziej aktualne i opierać się przede wszystkim na dostępnych danych (ogólnokrajowych danych epidemiologicznych, danych wojewódzkich, powiatowych lub gminnych, w zależności od działań przewidzianych w ramach realizacji programu polityki zdrowotnej). Dane epidemiologiczne powinny uzasadniać realizację programu polityki zdrowotnej.
@@ -58,5 +57,6 @@ W przypadku programów polityki zdrowotnej wieloletnich, należy wskazać łącz
 W przypadku gdy finansowanie realizacji programu polityki zdrowotnej opierać się będzie o kilka źródeł finansowania, należy określić, jaki udział będzie mieć finansowanie pochodzące z innego źródła niż budżet podmiotu, który opracował ten program.
 VII. Bibliografia
 1. Należy wymienić publikacje, które posłużyły do przygotowania programu polityki zdrowotnej, w szczególności zawierające dane epidemiologiczne podawane w programie polityki zdrowotnej i uzasadniające wybór problemu zdrowotnego.
-RAPORT KOŃCOWY Z REALIZACJI PROGRAMU POLITYKI ZDROWOTNEJ Raport końcowy z realizacji programu polityki zdrowotnej
+
+## Załącznik nr 2 — Wzór RAPORT KOŃCOWY Z REALIZACJI PROGRAMU POLITYKI ZDROWOTNEJ Raport końcowy z realizacji programu polityki zdrowotnej
 

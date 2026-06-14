@@ -8,7 +8,7 @@ pos: 1692
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ochronie przeciwpożarowej oraz ustawy o ochotniczych strażach pożarnych
@@ -36,6 +36,9 @@ source: "isap-pdf"
 2. Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej przedkłada Sejmowi w terminie do dnia 30 czerwca każdego roku sprawozdanie z wydatkowania środków, o których mowa w art. 38 ust. 2, w roku poprzednim.”.
 
 **Art. 2.** W ustawie z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r. poz. 233) w art. 3:
+
+- **1)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Do zadań ochotniczych straży pożarnych należy w szczególności podejmowanie działań w celu ochrony życia, zdrowia, mienia lub środowiska przez:”;
+- **2)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) zapobieganie powstawaniu i rozprzestrzenianiu się pożaru, klęski żywiołowej lub innego miejscowego zagrożenia;”.
 
 **Art. 3.** Do środków finansowych uzyskanych, a nieprzekazanych przez zakłady ubezpieczeń do dnia wejścia w życie niniejszej ustawy z wpływów z tytułu obowiązkowego ubezpieczenia od ognia stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 

@@ -8,7 +8,7 @@ pos: 1408
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 172/10/A/2008 WYROK z dnia 2 grudnia 2008 r.

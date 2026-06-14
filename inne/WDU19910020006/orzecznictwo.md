@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz o zmianie niektórych innych ustaw.*
 
 Łącznie: **56** orzeczeń
-(pominięto 58 orzeczeń sądów rejonowych)
+(pominięto 59 orzeczeń sądów rejonowych)
 
 ## art. 1 (33)
 

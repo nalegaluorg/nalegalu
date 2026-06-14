@@ -8,12 +8,10 @@ pos: 570
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o samorządowych kolegiach odwoławczych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 marca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/570/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz. U. z 2015 r. poz. 1659), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2017 r. o zmianie ustawy Kodeks postępowania administracyjnego oraz niektórych innych ustaw (Dz. U. poz. 935) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lutego 2018 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 i art. 18 ustawy z dnia 7 kwietnia 2017 r. o zmianie ustawy Kodeks postępowania administracyjnego oraz niektórych innych ustaw (Dz. U. poz.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz. U. z 2015 r. poz. 1659), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2017 r. o zmianie ustawy – Kodeks postępowania administracyjnego oraz niektórych innych ustaw (Dz. U. poz. 935) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lutego 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 i art. 18 ustawy z dnia 7 kwietnia 2017 r. o zmianie ustawy – Kodeks postępowania administracyjnego oraz niektórych innych ustaw (Dz. U. poz.
 935), które stanowią: „Art. 15. 1. W terminie 2 lat od dnia wejścia w życie niniejszej ustawy ministrowie kierujący działami administracji rządowej dokonają, w zakresie swojej właściwości, przeglądu aktów prawnych regulujących postępowania administracyjne w zakresie dwuinstancyjności postępowań i przepisów szczególnych wobec art. 127 § 1 ustawy zmienianej w art. 1.
 2. Ministrowie, o których mowa w ust. 1, przedłożą ministrowi właściwemu do spraw gospodarki oraz ministrowi właściwemu do spraw administracji publicznej, w terminie, o którym mowa w ust. 1, zestawienia wraz z uzasadnieniem, obejmujące postępowania administracyjne, w których:
 1) zachodzi konieczność zachowania dwuinstancyjności postępowań;
@@ -43,7 +41,7 @@ Art. 25–28. (pominięte)
 
 **Art. 1.**
 
-1. Samorządowe kolegia odwoławcze, zwane dalej „kolegiami”, są organami wyższego stopnia, w rozumieniu przepisów Kodeksu postępowania administracyjnego i ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm. ), w indywidualnych sprawach z zakresu administracji publicznej należących do właściwości jednostek samorządu terytorialnego, jeżeli przepisy szczególne nie stanowią inaczej.
+1. Samorządowe kolegia odwoławcze, zwane dalej „kolegiami”, są organami wyższego stopnia, w rozumieniu przepisów Kodeksu postępowania administracyjnego i ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm. ), w indywidualnych sprawach z zakresu administracji publicznej należących do właściwości jednostek samorządu terytorialnego, jeżeli przepisy szczególne nie stanowią inaczej.
 
 2. Na zasadach określonych w odrębnych ustawach kolegia orzekają w innych sprawach niż wymienione w ust. 1.
 
@@ -129,11 +127,11 @@ Art. 25–28. (pominięte)
 
 4. Decyzję o odwołaniu, wraz z uzasadnieniem, doręcza się zainteresowanemu. Na decyzję o odwołaniu zainteresowanemu służy prawo wniesienia skargi do sądu administracyjnego w terminie 14 dni od dnia jej doręczenia. Wniesienie skargi wstrzymuje odwołanie ze stanowiska. Sąd administracyjny wyznacza rozprawę w tej sprawie w terminie przypadającym w ciągu 30 dni od dnia przekazania odpowiedzi na skargę.
 
-5. Do postępowania w sprawach, o których mowa w ust. 4, stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych. Przepisów art. 52 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451) nie stosuje się.
+5. Do postępowania w sprawach, o których mowa w ust. 4, stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych. Przepisów art. 52 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451) nie stosuje się.
 
 6. W razie prawomocnego odwołania prezesa kolegium, wiceprezes kolegium zwołuje niezwłocznie zgromadzenie ogólne kolegium w sprawie, o której mowa w art. 5 ust. 2. Przepisy art. 5 ust. 5 i 6 stosuje się odpowiednio.
 
-7. Po upływie kadencji prezesa kolegium albo odwołaniu prezesa kolegium w związku ze złożoną rezygnacją jego dotychczasowy stosunek pracy przekształca się na jego wniosek w stosunek pracy etatowego członka kolegium, w którym pełnił funkcję albo w którym był zatrudniony przed objęciem stanowiska prezesa.
+7. Po upływie kadencji prezesa kolegium albo odwołaniu prezesa kolegium w związku ze złożoną rezygnacją jego dotychczasowy stosunek pracy przekształca się – na jego wniosek – w stosunek pracy etatowego członka kolegium, w którym pełnił funkcję albo w którym był zatrudniony przed objęciem stanowiska prezesa.
 
 8. W przypadku gdy przekształcenie stosunku pracy prezesa kolegium powodowałoby przekroczenie liczby członków kolegium, o której mowa w art. 4 ust. 5, albo wynikającej z budżetu państwa liczby etatów kalkulacyjnych i limitu środków na wynagrodzenia, liczby te zwiększa się o jeden, a uzupełnienie środków na wynagrodzenia następuje z rezerwy budżetu państwa przeznaczonej na sfinansowanie nieprzewidzianych zmian organizacyjnych.
 
@@ -193,14 +191,19 @@ Art. 25–28. (pominięte)
 
 2. Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje:
 
-- **1)** renta inwalidzka w razie zaliczenia do jednej z grup inwalidów ;
-- **2)** jednorazowe odszkodowanie w razie zaliczenia do I lub II grupy inwalidów .
+- **1)** renta inwalidzka – w razie zaliczenia do jednej z grup inwalidów ;
+- **2)** jednorazowe odszkodowanie – w razie zaliczenia do I lub II grupy inwalidów .
 
 3. Członkom rodziny osób, które zmarły wskutek wypadków przy pracy określonych w ust. 2, przysługuje renta rodzinna oraz jednorazowe odszkodowanie.
 
 4. Świadczenia wymienione w ust. 2 i 3 wypłaca Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych.
 
 **Art. 10a.** Członkostwo w kolegium ustaje z powodu:
+
+- **1)** śmierci;
+- **2)** odwołania;
+- **3)** przeniesienia do innego kolegium;
+- **4)** trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych.
 
 **Art. 11.**
 
@@ -245,8 +248,8 @@ Art. 25–28. (pominięte)
 
 2. Prezes kolegium nawiązuje i rozwiązuje stosunek pracy:
 
-- **1)** na podstawie powołania z etatowymi członkami kolegium;
-- **2)** na podstawie umowy o pracę z pracownikami biura kolegium.
+- **1)** na podstawie powołania – z etatowymi członkami kolegium;
+- **2)** na podstawie umowy o pracę – z pracownikami biura kolegium.
 
 3. Podstawą rozwiązania stosunku pracy etatowego członka kolegium jest ustanie członkostwa wskutek odwołania.
 
@@ -281,8 +284,8 @@ Art. 25–28. (pominięte)
 
 1. W sprawach dyscyplinarnych członków kolegiów orzekają:
 
-- **1)** w pierwszej instancji komisja dyscyplinarna kolegium;
-- **2)** w drugiej instancji komisja dyscyplinarna przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych.
+- **1)** w pierwszej instancji – komisja dyscyplinarna kolegium;
+- **2)** w drugiej instancji – komisja dyscyplinarna przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych.
 
 2. Komisje dyscyplinarne składają się z trzech etatowych członków kolegiów.
 
@@ -304,7 +307,7 @@ Art. 25–28. (pominięte)
 
 6. Od orzeczenia komisji dyscyplinarnej kolegium każda ze stron może odwołać się do komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych w ciągu 14 dni od dnia doręczenia orzeczenia.
 
-7. Od orzeczeń komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego sądu pracy i ubezpieczeń społecznych.
+7. Od orzeczeń komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych.
 
 8. Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje.
 
@@ -341,6 +344,10 @@ Art. 25–28. (pominięte)
 3. Członkowie kolegium nieposiadający wykształcenia prawniczego lub administracyjnego są wyznaczani do składów orzekających z uwzględnieniem ich kwalifikacji zawodowych.
 
 **Art. 18a.** W postępowaniu przed kolegium nie może reprezentować strony:
+
+- **1)** adwokat wykonujący zawód w kancelarii adwokackiej, zespole adwokackim oraz w spółce jawnej lub cywilnej z wyłącznym udziałem adwokatów lub adwokatów i radców prawnych albo w spółce komandytowej, w której komplementariuszami są wyłącznie adwokaci lub adwokaci i radcowie prawni, przy czym wyłącznym przedmiotem działalności takich spółek jest świadczenie pomocy prawnej,
+- **2)** radca prawny wykonujący zawód w kancelarii radcy prawnego oraz w spółce jawnej lub cywilnej z wyłącznym udziałem radców prawnych lub radców prawnych i adwokatów albo w spółce komandytowej, w której komplementariuszami są wyłącznie radcowie prawni lub radcowie prawni i adwokaci, przy czym wyłącznym przedmiotem działalności takich spółek jest świadczenie pomocy prawnej,
+- **3)** doradca podatkowy wykonujący zawód w spółce niemającej osobowości prawnej z wyłącznym udziałem doradców podatkowych – w których członkiem, wspólnikiem, udziałowcem lub komplementariuszem jest etatowy członek kolegium.
 
 **Art. 19.**
 

@@ -8,10 +8,10 @@ pos: 1984
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1984 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 30 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1984/text.pdf) |
 
-Poz. 1984 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 30 grudnia 2024 r.
-zmieniające rozporządzenie w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165, 1494 i 1961) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym (Dz. U. z 2019 r.
+zmieniające rozporządzenie w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165, 1494 i 1961) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym (Dz. U. z 2019 r.
 poz. 1605 i 1898, z 2022 r. poz. 3 i 2128 oraz z 2023 r. poz. 1066 i 2569) wprowadza się następujące zmiany:
 1) w § 3 w objaśnieniu symbolu K:
 a) pkt 5 otrzymuje brzmienie: „5) 37 000 zł w 2024 r.;”,

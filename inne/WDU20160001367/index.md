@@ -8,10 +8,10 @@ pos: 1367
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 30 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1367 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 19 sierpnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,45 +25,49 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001367) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1367/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI dnia 19 sierpnia 2016 r.
-zmieniające rozporządzenie sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich lata 2014–2020 Na art. 45 i ustawy dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich udziałem środków Europejskiego Funduszu Rolnego rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich lata 2014–2020 (Dz. U. poz. 349 i 1888 oraz 2016 r. poz. 337) zarządza się, co następuje:
-1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi dnia 18 marca 2015 r. sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich lata 2014–2020 (Dz. U. poz. 415 i 765 oraz 2016 r. poz. 326 i 589) wprowadza się następujące zmiany:
-1) otrzymuje brzmienie: „1) jednego wariantu, przypadku wariantów pakietu wymienionego 4 jednej rasy lokalnej zwierząt albo”;
-2) 5 otrzymuje brzmienie: „2) zwierzęta ras lokalnych zadeklarowane we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej ramach danej rasy lokalnej objętej wariantem pakietu wymienionego 4 7, będące zwierzętami zatwierdzonymi rozumieniu art. akapit drugi 18 lit. b rozporządzenia nr 640/2014.”;
-3) wprowadzenie wyliczenia otrzymuje brzmienie: „W przypadku wariantów pakietu wymienionego 4 zmiana zobowiązania rolno-środowiskowo-klimatycznego ramach danej rasy lokalnej zwierząt może polegać jedynie na:”;
-4) 13 dodaje się brzmieniu: „3. W przypadku gdy rolnik ubiega się o przyznanie płatności rolno-środowiskowo-klimatycznej ramach wariantu 6.1. i wariantu 6.2. powierzchni uprawy rośliny danego gatunku lub danej odmiany większej niż 5 ha, płatność rolno-środowiskowo-klimatyczna danym roku jest przyznawana pierwszej kolejności powierzchni uprawy zadeklarowanej ramach wariantu 6.2., jednak nie większej niż powierzchnia uprawy określona 2, następnie powierzchni uprawy zadeklarowanej ramach wariantu 6.1., jednak nie większej niż powierzchnia uprawy, która stanowi różnicę między powierzchnią uprawy określoną powierzchnią uprawy zadeklarowaną ramach wariantu 6.2.”;
-„– roślin uprawnych uprawianych danej działce, przypadku uprawy rośliny danego gatunku powierzchni większej niż 5 ha również jego odmiany przypadku realizacji pakietu, o którym mowa 4 6,”;
-6) 21:
-a) po 4b dodaje się 4c i 4d brzmieniu: „4c. Rolnik lub zarządca składa kierownika biura powiatowego Agencji dnia 15 lipca roku, którym podjął zobowiązanie rolno-środowiskowo-klimatyczne, kopie stron planu działalności rolnośrodowiskowej, których są zawarte informacje, o których mowa 1, i 4 załącznika nr rozporządzenia, tym że kopie stron, których są zawarte informacje, o których mowa 4 załącznika nr rozporządzenia, zawierają również podpis doradcy rolnośrodowiskowego, przy udziale którego został sporządzony ten plan.
-4d. W przypadku zmiany planie działalności rolnośrodowiskowej informacji, o których mowa 4 załącznika nr rozporządzenia, rolnik lub zarządca składa kierownika biura powiatowego Agencji dnia 15 lipca roku, którym nastąpiła ta zmiana, kopie stron tego planu, których są zawarte informacje, o których mowa 1, i 4 załącznika nr rozporządzenia, tym że kopie stron, których są zawarte informacje, o których mowa 4 załącznika nr rozporządzenia, zawierają również podpis doradcy rolnośrodowiskowego, przy udziale którego został sporządzony ten plan.”,
-b) 6 otrzymuje brzmienie: „6. W przypadku gdy rolnik lub zarządca nie dokonał czynności, o której mowa 1, 2, 4, 4b, 4c, 4d lub 5, terminie określonym tych przepisach, kierownik biura powiatowego Agencji wzywa piśmie rolnika dokonania tej czynności, terminie dni od dnia doręczenia wezwania.”,
-c) wprowadzenie wyliczenia otrzymuje brzmienie: „Czynność, o której mowa 1, 2, 4, 4b, 4c, 4d lub 5, dokonana:”;
-7) 34 otrzymuje brzmienie: „3) rolnik zmniejszył liczbę zwierząt danej rasy lokalnej objętych zobowiązaniem rolno-środowiskowo-klimatycznym ramach pakietu wymienionego 4 poziomu niższego niż liczba zwierząt danej rasy lokalnej objętych zobowiązaniem rolno-środowiskowo-klimatycznym pierwszym roku jego realizacji, przy czym zwrotowi podlega ta część płatności, która została przyznana zwierząt objętych zmniejszeniem oraz zwierząt, które zostały zastąpione przez te zwierzęta 2;”;
-8) załączniku nr rozporządzenia:
-a) części I otrzymuje brzmienie:
-1. Niestosowanie danym 1. Stwierdzono zastosowanie Obszar objęty zobo- 80% 1,25 100% roku dawki nawozu natural- danym roku dawki nawozu wiązaniem ramach nego zawierającej więcej niż naturalnego zawierającej pakietu 1., 4. i 5.
-170 kg azotu czystym więcej niż 170 kg azotu składniku ha użytków czystym składniku ha rolnych użytków rolnych.
-art. 17 ustawy dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. 2015 r.
-poz. 625, późn. zm.).
-b) części III otrzymuje brzmienie:
-3. Utrzymywanie czystości i porządku obszarze
-3. Stwierdzono brak utrzymywania czystości i porządku Obszar objęty zobowiązaniem 10% 1,25 12,5% (Dz. U. 2016 r. poz. 250, późn. zm.).
-9) załączniku nr 5 rozporządzenia:
-a) lp. otrzymuje brzmienie: 0607025 Annopol kraśnicki
-b) lp. otrzymuje brzmienie: 1430055 Szydłowiec szydłowiecki
-2. Do przyznawania pomocy finansowej ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich lata 2014–2020, zwanej dalej „płatnością rolno-środowiskowo-klimatyczną”, sprawach objętych postępowaniami:
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 i ust. 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 349 i 1888 oraz z 2016 r. poz. 337) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 415 i 765 oraz z 2016 r. poz. 326 i 589) wprowadza się następujące zmiany:
+1) w § 3 w ust. 1 pkt 1 otrzymuje brzmienie: „1) jednego wariantu, a w przypadku wariantów pakietu wymienionego w § 4 ust. 1 pkt 7 – jednej rasy lokalnej zwierząt albo”;
+2) w § 5 w ust. 1 pkt 2 otrzymuje brzmienie: „2) zwierzęta ras lokalnych zadeklarowane we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej w ramach danej rasy lokalnej objętej wariantem pakietu wymienionego w § 4 ust. 1 pkt 7, będące zwierzętami zatwierdzonymi w rozumieniu art. 2 ust. 1 akapit drugi pkt 18 lit. b rozporządzenia nr 640/2014.”;
+3) w § 7 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku wariantów pakietu wymienionego w § 4 ust. 1 pkt 7 zmiana zobowiązania rolno-środowiskowo-klimatycznego w ramach danej rasy lokalnej zwierząt może polegać jedynie na:”;
+4) w § 13 dodaje się ust. 3 w brzmieniu: „3. W przypadku gdy rolnik ubiega się o przyznanie płatności rolno-środowiskowo-klimatycznej w ramach wariantu 6.1. i wariantu 6.2. do powierzchni uprawy rośliny danego gatunku lub danej odmiany większej niż 5 ha, płatność rolno-środowiskowo-klimatyczna w danym roku jest przyznawana w pierwszej kolejności do powierzchni uprawy zadeklarowanej w ramach wariantu 6.2., jednak nie większej niż powierzchnia uprawy określona w ust. 2, a następnie do powierzchni uprawy zadeklarowanej w ramach wariantu 6.1., jednak nie większej niż powierzchnia uprawy, która stanowi różnicę między powierzchnią uprawy określoną w ust. 2 a powierzchnią uprawy zadeklarowaną w ramach wariantu 6.2.”;
+5) w § 19 w ust. 1 w pkt 3 w lit. b:
+a) tiret pierwsze otrzymuje brzmienie: „– roślin uprawnych uprawianych na danej działce – w przypadku realizacji pakietu, o którym mowa w § 4 ust. 1 pkt 1, oraz wariantu, o którym mowa w § 4 ust. 1 pkt 2 lit. a,”,
+b) po tiret pierwszym dodaje się tiret w brzmieniu: „– roślin uprawnych uprawianych na danej działce, a w przypadku uprawy rośliny danego gatunku na powierzchni większej niż 5 ha również jego odmiany – w przypadku realizacji pakietu, o którym mowa w § 4 ust. 1 pkt 6,”;
+6) w § 21:
+a) po ust. 4b dodaje się ust. 4c i 4d w brzmieniu: „4c. Rolnik lub zarządca składa do kierownika biura powiatowego Agencji do dnia 15 lipca roku, w którym podjął zobowiązanie rolno-środowiskowo-klimatyczne, kopie stron planu działalności rolnośrodowiskowej, na których są zawarte informacje, o których mowa w ust. 1 pkt 1, 2 i 4 załącznika nr 3 do rozporządzenia, z tym że kopie stron, na których są zawarte informacje, o których mowa w ust. 1 pkt 4 załącznika nr 3 do rozporządzenia, zawierają również podpis doradcy rolnośrodowiskowego, przy udziale którego został sporządzony ten plan.
+4d. W przypadku zmiany w planie działalności rolnośrodowiskowej informacji, o których mowa w ust. 1 pkt 4 załącznika nr 3 do rozporządzenia, rolnik lub zarządca składa do kierownika biura powiatowego Agencji do dnia 15 lipca roku, w którym nastąpiła ta zmiana, kopie stron tego planu, na których są zawarte informacje, o których mowa w ust. 1 pkt 1, 2 i 4 załącznika nr 3 do rozporządzenia, z tym że kopie stron, na których są zawarte informacje, o których mowa w ust. 1 pkt 4 załącznika nr 3 do rozporządzenia, zawierają również podpis doradcy rolnośrodowiskowego, przy udziale którego został sporządzony ten plan.”,
+b) ust. 6 otrzymuje brzmienie: „6. W przypadku gdy rolnik lub zarządca nie dokonał czynności, o której mowa w ust. 1, 2, 4, 4b, 4c, 4d lub 5, w terminie określonym w tych przepisach, kierownik biura powiatowego Agencji wzywa na piśmie rolnika do dokonania tej czynności, w terminie 7 dni od dnia doręczenia wezwania.”,
+c) w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „Czynność, o której mowa w ust. 1, 2, 4, 4b, 4c, 4d lub 5, dokonana:”;
+7) w § 34 w ust. 2 pkt 3 otrzymuje brzmienie: „3) rolnik zmniejszył liczbę zwierząt danej rasy lokalnej objętych zobowiązaniem rolno-środowiskowo-klimatycznym w ramach pakietu wymienionego w § 4 ust. 1 pkt 7 do poziomu niższego niż liczba zwierząt danej rasy lokalnej objętych zobowiązaniem rolno-środowiskowo-klimatycznym w pierwszym roku jego realizacji, przy czym zwrotowi podlega ta część płatności, która została przyznana do zwierząt objętych zmniejszeniem oraz zwierząt, które zostały zastąpione przez te zwierzęta na podstawie § 7 ust. 1 pkt 2;”;
+8) w załączniku nr 1 do rozporządzenia:
+a) w części I ust. 1 otrzymuje brzmienie:
+1. Niestosowanie w danym 1. Stwierdzono zastosowanie Obszar objęty zobo- 80% 1,25 – – 100% roku dawki nawozu natural- w danym roku dawki nawozu wiązaniem w ramach nego zawierającej więcej niż naturalnego zawierającej pakietu 1., 4. i 5.
+170 kg azotu w czystym więcej niż 170 kg azotu składniku na 1 ha użytków w czystym składniku na 1 ha rolnych użytków rolnych.
+– art. 17 ust. 3 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2015 r.
+poz. 625, z późn. zm.).
+b) w części III ust. 3 otrzymuje brzmienie:
+3. Utrzymywanie czystości 3. Stwierdzono brak utrzymy- Obszar objęty zo- 10% 1,25 – – 12,5% i porządku na obszarze wania czystości i porządku na bowiązaniem gospodarstwa rolnego przez obszarze gospodarstwa rolne- w ramach wariantów wyposażenie nieruchomości go przez brak wyposażenia 4.6.1., 4.6.2., 5.6.1.
+w pojemniki służące do zbie- nieruchomości w pojemniki lub 5.6.2.
+rania odpadów komunalnych służące do zbierania odpadów – art. 5 ust. 1 pkt 1 ustawy komunalnych.
+z dnia 13 września 1996 r.
+o utrzymaniu czystości i porządku w gminach (Dz. U. z 2016 r. poz. 250, z późn. zm.).
+9) w załączniku nr 5 do rozporządzenia:
+a) lp. 7 otrzymuje brzmienie: 7 0607025 Annopol kraśnicki
+b) lp. 58 otrzymuje brzmienie: 58 1430055 Szydłowiec szydłowiecki
+§ 2. Do przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „płatnością rolno-środowiskowo-klimatyczną”, w sprawach objętych postępowaniami:
 1) wszczętymi i niezakończonymi ostateczną decyzją przed dniem 15 marca 2016 r.,
-2) zakończonymi ostateczną decyzją wydaną przepisów dotychczasowych, przypadku gdy zostały wznowione od dnia 15 marca 2016 r.
-stosuje się przepisy rozporządzenia zmienianego brzmieniu dotychczasowym, wyjątkiem przepisów części I załącznika nr rozporządzenia zmienianego 1, które stosuje się brzmieniu nadanym niniejszym rozporządzeniem.
-3. Do przyznawania płatności rolno-środowiskowo-klimatycznej sprawach objętych postępowaniami wszczętymi po dniu 14 marca 2016 r. stosuje się przepisy rozporządzenia zmienianego brzmieniu nadanym niniejszym rozporządzeniem, tym że 19 lit. b tiret pierwsze i drugie rozporządzenia zmienianego stosuje się od dnia 15 marca 2017 r.
-4. 1. W przypadku zobowiązania rolno-środowiskowo-klimatycznego, o którym mowa art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 dnia 17 grudnia 2013 r. sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE 347 20.12.2013, 487, późn. zm. ), podjętego przed dniem wejścia życie niniejszego rozporządzenia, kopie stron planu działalności rolnośrodowiskowej, których są zawarte informacje, o których mowa 1, i 4 załącznika nr rozporządzenia zmienianego 1, składa się kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa dnia 30 września 2016 r., tym że kopie stron, których są zawarte informacje, o których mowa 4 załącznika nr rozporządzenia zmienianego 1, zawierają również podpis doradcy rolnośrodowiskowego, przy udziale którego został sporządzony ten plan.
-2. W przypadku gdy rolnik lub zarządca nie dokonał czynności, o której mowa 1, określonym terminie, kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa wzywa piśmie rolnika lub zarządcę dokonania tej czynności, terminie dni od dnia doręczenia wezwania.
-3. Czynność, o której mowa 1, dokonana:
-1) terminie określonym wezwaniu, o którym mowa 2,
-2) po terminie określonym tym przepisie, przed doręczeniem wezwania, o którym mowa uważa się za dokonaną terminie.
-wniosku o przyznanie pierwszej lub drugiej płatności rolno-środowiskowo-klimatycznej ramach realizowanego zobowiązania rolno-środowiskowo-klimatycznego.
-2. W przypadku rolnika, o którym mowa 1, uznaje się, że realizowane przez tego rolnika zobowiązanie rolno-środowiskowo-klimatyczne ramach wariantów pakietu wymienionego 4 rozporządzenia zmienianego 1, podjęte przed dniem wejścia życie niniejszego rozporządzenia, jest zobowiązaniem podjętym ramach danej rasy lokalnej zwierząt.
-6. Płatność rolno-środowiskowo-klimatyczna za 2015 r. i 2016 r. ramach pakietu, o którym mowa 4 rozporządzenia zmienianego 1, może zostać przyznana również gruntów położonych obszarach, które są wymienione lp. i załącznika nr 5 rozporządzenia zmienianego brzmieniu nadanym niniejszym rozporządzeniem.
-7. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
+2) zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wznowione od dnia 15 marca 2016 r.
+– stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z wyjątkiem przepisów części I ust. 1 załącznika nr 1 do rozporządzenia zmienianego w § 1, które stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3. Do przyznawania płatności rolno-środowiskowo-klimatycznej w sprawach objętych postępowaniami wszczętymi po dniu 14 marca 2016 r. stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, z tym że § 19 ust. 1 pkt 3 lit. b tiret pierwsze i drugie rozporządzenia zmienianego w § 1 stosuje się od dnia 15 marca 2017 r.
+§ 4. 1. W przypadku zobowiązania rolno-środowiskowo-klimatycznego, o którym mowa w art. 28 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. ), podjętego przed dniem wejścia w życie niniejszego rozporządzenia, kopie stron planu działalności rolnośrodowiskowej, na których są zawarte informacje, o których mowa w ust. 1 pkt 1, 2 i 4 załącznika nr 3 do rozporządzenia zmienianego w § 1, składa się do kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa do dnia 30 września 2016 r., z tym że kopie stron, na których są zawarte informacje, o których mowa w ust. 1 pkt 4 załącznika nr 3 do rozporządzenia zmienianego w § 1, zawierają również podpis doradcy rolnośrodowiskowego, przy udziale którego został sporządzony ten plan.
+2. W przypadku gdy rolnik lub zarządca nie dokonał czynności, o której mowa w ust. 1, w określonym terminie, kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa wzywa na piśmie rolnika lub zarządcę do dokonania tej czynności, w terminie 7 dni od dnia doręczenia wezwania.
+3. Czynność, o której mowa w ust. 1, dokonana:
+1) w terminie określonym w wezwaniu, o którym mowa w ust. 2,
+2) po terminie określonym w tym przepisie, a przed doręczeniem wezwania, o którym mowa w ust. 2 – uważa się za dokonaną w terminie.
+§ 5. 1. Rolnik, który przed dniem wejścia w życie niniejszego rozporządzenia podjął zobowiązanie rolno-środowiskowo-klimatyczne, o którym mowa w art. 7 ust. 2 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe (Dz. Urz. UE L 227 z 31.07.2014, str. 1, z późn. zm. ), w ramach danego wariantu pakietu, o którym mowa w § 4 ust. 1 pkt 7 rozporządzenia zmienianego w § 1, może w 2017 r. podjąć nowe zobowiązanie rolno-środowiskowo-klimatyczne w ramach innej rasy lokalnej niż rasa zwierząt zadeklarowanych we wniosku o przyznanie pierwszej lub drugiej płatności rolno-środowiskowo-klimatycznej w ramach realizowanego zobowiązania rolno-środowiskowo-klimatycznego.
+2. W przypadku rolnika, o którym mowa w ust. 1, uznaje się, że realizowane przez tego rolnika zobowiązanie rolno-środowiskowo-klimatyczne w ramach wariantów pakietu wymienionego w § 4 ust. 1 pkt 7 rozporządzenia zmienianego w § 1, podjęte przed dniem wejścia w życie niniejszego rozporządzenia, jest zobowiązaniem podjętym w ramach danej rasy lokalnej zwierząt.
+§ 6. Płatność rolno-środowiskowo-klimatyczna za 2015 r. i 2016 r. w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 2 rozporządzenia zmienianego w § 1, może zostać przyznana również do gruntów położonych na obszarach, które są wymienione w lp. 7 i 58 załącznika nr 5 do rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 7. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

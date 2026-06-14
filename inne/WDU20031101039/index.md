@@ -8,7 +8,7 @@ pos: 1039
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o pracowniczych ogrodach działkowych, ustawy o podatku rolnym oraz ustawy o podatkach i opłatach lokalnych
@@ -32,6 +32,9 @@ source: "isap-pdf"
 **Art. 2.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz.U. z 1993 r. Nr 94, poz. 431, z późn. zm.) w art. 12 w ust. 2 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „6) Polski Związek Działkowców z tytułu użytkowania i użytkowania wieczystego gruntów pracowniczych ogrodów działkowych.”.
 
 **Art. 3.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz.U. z 2002 r. Nr 9, poz. 84 i Nr 200, poz. 1683 oraz z 2003 r. Nr 96, poz. 874) w art. 7:
+
+- **a)** w ust. l pkt 12 otrzymuje brzmienie: „12) budynki położone na terenie pracowniczych ogrodów działkowych, nieprzekraczające norm powierzchni ustalonych w przepisach Prawa budowlanego dla altan i obiektów gospodarczych, z wyjątkiem zajętych na działalność gospodarczą,”,
+- **b)** w ust. 2 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „6) Polski Związek Działkowców, z wyjątkiem przedmiotów opodatkowania zajętych na działalność gospodarczą.”.
 
 **Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2003 r.
 

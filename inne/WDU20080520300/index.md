@@ -8,7 +8,7 @@ pos: 300
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowych nazw niektórym akademiom rolniczym

@@ -8,10 +8,10 @@ pos: 340
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 marca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 340 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 5 marca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000340) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/340/text.pdf) |
 
-Poz. 340 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 5 marca 2013 r.
-w sprawie sposobu organizacji obsługi bibliotecznej w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej oraz sposobu współdziałania bibliotek publicznych w wykonywaniu tej obsługi Na podstawie art. 26 ust. 2 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2012 r. poz. 642 i 908) zarządza się, co następuje: § 1. Obsługa biblioteczna w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej może być organizowana w formie bibliotek (i ich filii), zwanych dalej „bibliotekami wojskowymi”.
+w sprawie sposobu organizacji obsługi bibliotecznej w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej oraz sposobu współdziałania bibliotek publicznych w wykonywaniu tej obsługi Na podstawie art. 26 ust. 2 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2012 r. poz. 642 i 908) zarządza się, co następuje:
+§ 1. Obsługa biblioteczna w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej może być organizowana w formie bibliotek (i ich filii), zwanych dalej „bibliotekami wojskowymi”.
 § 2. Biblioteki wojskowe tworzy dowódca, szef, komendant, dyrektor jednostki organizacyjnej podległej Ministrowi Obrony Narodowej, zwany dalej „organizatorem”.
 § 3. Organizator zapewnia bibliotece wojskowej odpowiednie warunki do wykonywania obsługi bibliotecznej, w szczególności:
 1) warunki lokalowe, przez:
@@ -42,6 +42,7 @@ b) doskonalenie zawodowe pracowników związanych z działalnością biblioteczn
 1) ewidencja czytelników i wypożyczeń;
 2) ewidencja materiałów bibliotecznych;
 3) katalog alfabetyczny i rzeczowy.
+2. Ewidencje oraz katalogi, o których mowa w ust. 1, mogą być prowadzone w formie elektronicznej.
 § 7. 1. Organizator może zawrzeć z dyrektorem biblioteki publicznej porozumienie o współdziałaniu biblioteki wojskowej z biblioteką publiczną, w szczególności w zakresie:
 1) udostępniania lub przekazywania materiałów bibliotecznych;
 2) przekazywania informacji na temat gromadzonych materiałów bibliotecznych;

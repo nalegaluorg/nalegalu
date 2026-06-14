@@ -8,7 +8,7 @@ pos: 875
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie ustawy o samorządzie województwa
@@ -28,6 +28,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061260875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/875/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz.U. Nr 162, poz. 1568, z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390 oraz z 2006 r. Nr 50, poz. 362) wprowadza się następujące zmiany:
+
+- **1)** w art. 81 ust. 1 otrzymuje brzmienie: „1. W trybie określonym odrębnymi przepisami dotacja na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru może być udzielona przez organ stanowiący gminy, powiatu lub samorządu województwa, na zasadach określonych w podjętej przez ten organ uchwale.”;
+- **2)** w art. 82 ust. 1 otrzymuje brzmienie: „1. Łączna kwota dotacji na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru, udzielonych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, wojewódzkiego konserwatora zabytków bądź organ stanowiący gminy, powiatu lub samorządu województwa, nie może przekraczać wysokości 100 % nakładów koniecznych na wykonanie tych prac lub robót.”.
 
 **Art. 2.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz.U. z 2001 r. Nr 142, poz. 1590, z późn. zm. ) w art. 14 w ust. 1 pkt 3 otrzymuje brzmienie: „3) kultury oraz ochrony zabytków i opieki nad zabytkami,”.
 

@@ -8,7 +8,7 @@ pos: 1035
 act_type: Postanowienie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 76/6/A/2005 POSTANOWIENIE z dnia 22 czerwca 2005 r.

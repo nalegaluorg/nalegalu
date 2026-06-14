@@ -8,7 +8,7 @@ pos: 554
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 1. Jako nieruchomości zamienne, o których lipca 1991 r. o stosunku Państwa do Polskiego Prawosławnego (Dz.U. Nr 66, poz. 287 r. Nr 1, poz. 3, z 1997 r. Nr 90, poz. 557 i Nr 117, poz. 756), zwanej dalej „ustawą”,

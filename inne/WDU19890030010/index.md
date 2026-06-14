@@ -8,12 +8,12 @@ pos: 10
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o gospodarce finansowej przedsiębiorstw państwowych
 
-*USTAWA dnia 31 stycznia 1989 r.*
+*USTAWA z dnia 31 stycznia 1989 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,9 +29,9 @@ source: "isap-pdf"
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa zasady gospodarki finansowej przedsiębiorstw państwowych działających na podstawie przepisów ustawy dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. 2021 r. poz. 1317) oraz na podstawie innych ustaw, zwanych dalej „przedsiębiorstwami”.
+**Art. 1.** Ustawa określa zasady gospodarki finansowej przedsiębiorstw państwowych działających na podstawie przepisów ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2021 r. poz. 1317) oraz na podstawie innych ustaw, zwanych dalej „przedsiębiorstwami”.
 
-**Art. 2.** Przedsiębiorstwo, gospodarując wydzielonym mu i nabytym mieniem, działa na zasadach samofinansowania, pokrywając posiadanych środków i uzyskiwanych przychodów koszty działalności i zobowiązania.
+**Art. 2.** Przedsiębiorstwo, gospodarując wydzielonym mu i nabytym mieniem, działa na zasadach samofinansowania, pokrywając z posiadanych środków i uzyskiwanych przychodów koszty działalności i zobowiązania.
 
 #### Rozdział 2 Fundusze przedsiębiorstwa
 
@@ -41,33 +41,37 @@ source: "isap-pdf"
 
 - **1)** fundusz założycielski przedsiębiorstwa;
 - **2)** fundusz przedsiębiorstwa;
-- **3)** fundusz aktualizacji wyceny, określony odrębnymi przepisami.
+- **3)** fundusz z aktualizacji wyceny, określony odrębnymi przepisami.
 
 2. Fundusz założycielski przedsiębiorstwa odzwierciedla wartość wydzielonej przedsiębiorstwu części mienia ogólnonarodowego.
 
 3. Fundusz przedsiębiorstwa odzwierciedla wartość majątku przedsiębiorstwa po odliczeniu funduszu założycielskiego.
 
+4. Wielkość funduszu założycielskiego przedsiębiorstwa podlega wpisowi do rejestru przedsiębiorstw państwowych1).
+
 **Art. 4.**
 
-1. Fundusz założycielski zwiększają przekazane budżetu państwa dotacje na finansowanie rozwoju przedsiębiorstwa, a także inne środki przekazane przez organ założycielski lub przez Skarb Państwa przedsiębiorstwu.
+1. Fundusz założycielski zwiększają przekazane z budżetu państwa dotacje na finansowanie rozwoju przedsiębiorstwa, a także inne środki przekazane przez organ założycielski lub przez Skarb Państwa przedsiębiorstwu.
 
 2. (uchylony)
 
-3. Jeżeli przedsiębiorstwo w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez właściwe organy na podstawie odrębnych ustaw nieodpłatnie przekazało osobom prawnym lub osobom fizycznym część swego mienia w postaci środków trwałych, dokonuje zmniejszenia funduszu założycielskiego, zastrzeżeniem ust. 6 i 7.
+3. Jeżeli przedsiębiorstwo w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez właściwe organy na podstawie odrębnych ustaw nieodpłatnie przekazało osobom prawnym lub osobom fizycznym część swego mienia w postaci środków trwałych, dokonuje zmniejszenia funduszu założycielskiego, z zastrzeżeniem ust. 6 i 7.
 
 4. Jeżeli nieodpłatne przekazanie, w wypadkach przewidzianych w ust. 3, następuje na rzecz przedsiębiorstwa państwowego, dokonuje ono zwiększenia swego funduszu założycielskiego o wartość równą kwocie zmniejszenia funduszu założycielskiego dokonanego przez przedsiębiorstwo przekazujące.
 
 4a. Przedsiębiorstwo otrzymujące środki trwałe w wypadku, o którym mowa w ust. 9, powiększa swój fundusz założycielski o wartość równą kwocie zmniejszenia funduszu założycielskiego dokonanego przez przedsiębiorstwo przekazujące.
 
-5. Fundusz założycielski ulega zmniejszeniu o kwoty zapłacone tytułu nabytych na podstawie ustawy dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. 1991 r. poz. 127, późn. zm. ) budynków i lokali, zastrzeżeniem ust. 6 i 7.
+5. Fundusz założycielski ulega zmniejszeniu o kwoty zapłacone z tytułu nabytych na podstawie ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. poz. 127, z późn. zm. ) budynków i lokali, z zastrzeżeniem ust. 6 i 7.
 
-6. Zmniejszenie funduszu założycielskiego w wypadkach przewidzianych w ust. 3, 5, 9 i 10 następuje wyłącznie w sytuacji, gdy przekazane mienie w postaci środków trwałych lub nabyte budynki i lokale stanowiły podstawę ustalenia tego funduszu. trwałych lub nabytych budynków i lokali przez współczynnik udziału funduszu założycielskiego w łącznej wartości funduszu założycielskiego i funduszu przedsiębiorstwa, według stanu na dzień 1 stycznia (po przeszacowaniu) roku, w którym mienie to zostało nieodpłatnie przekazane lub nabyte.
+6. Zmniejszenie funduszu założycielskiego w wypadkach przewidzianych w ust. 3, 5, 9 i 10 następuje wyłącznie w sytuacji, gdy przekazane mienie w postaci środków trwałych lub nabyte budynki i lokale stanowiły podstawę ustalenia tego funduszu.
+
+7. Kwotę zmniejszenia funduszu założycielskiego w wypadkach przewidzianych w ust. 3, 5, 9 i 10 ustala się mnożąc wartość przekazanych środków trwałych lub nabytych budynków i lokali przez współczynnik udziału funduszu założycielskiego w łącznej wartości funduszu założycielskiego i funduszu przedsiębiorstwa, według stanu na dzień 1 stycznia (po przeszacowaniu) roku, w którym mienie to zostało nieodpłatnie przekazane lub nabyte.
 
 8. Fundusz założycielski przedsiębiorstw gospodarki mieszkaniowej zmniejsza się o kwotę umorzenia wartości domów mieszkalnych.
 
-9. Fundusz założycielski ulega zmniejszeniu w wypadku dokonania darowizny, zgodnie art. 46a ustawy dnia 25 września 1981 r. o przedsiębiorstwach państwowych, posiadanych budynków i budowli oraz infrastruktury technicznej w zakresie urządzeń, obiektów i sieci: energetycznych (elektrycznych i gazowych), wodno-kanalizacyjnych, ciepłowniczych oraz telekomunikacyjnych, innemu przedsiębiorstwu państwowemu, pod warunkiem przejęcia przez to przedsiębiorstwo odpowiedniej części funduszu założycielskiego ustalonej zgodnie zasadami określonymi w ust. 6 i 7.
+9. Fundusz założycielski ulega zmniejszeniu w wypadku dokonania darowizny, zgodnie z art. 46a ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, posiadanych budynków i budowli oraz infrastruktury technicznej w zakresie urządzeń, obiektów i sieci: energetycznych (elektrycznych i gazowych), wodno-kanalizacyjnych, ciepłowniczych oraz telekomunikacyjnych, innemu przedsiębiorstwu państwowemu, pod warunkiem przejęcia przez to przedsiębiorstwo odpowiedniej części funduszu założycielskiego ustalonej zgodnie z zasadami określonymi w ust. 6 i 7.
 
-10. Jeżeli przedsiębiorstwo dokonuje darowizny, zgodnie art. 46a ustawy o przedsiębiorstwach państwowych, na rzecz jednostek budżetowych lub gmin (związków gmin) budynków i budowli, w których funkcjonują szkoły, szpital i przychodnie przyzakładowe, hotele robotnicze oraz infrastruktury technicznej w zakresie urządzeń, obiektów i sieci: energetycznych (elektrycznych i gazowych), wodno-kanalizacyjnych, ciepłowniczych oraz telekomunikacyjnych, to może pomniejszyć fundusz założycielski zgodnie zasadami określonymi w ust. 6 i 7.
+10. Jeżeli przedsiębiorstwo dokonuje darowizny, zgodnie z art. 46a ustawy o przedsiębiorstwach państwowych, na rzecz jednostek budżetowych lub gmin (związków gmin) budynków i budowli, w których funkcjonują szkoły, szpital i przychodnie przyzakładowe, hotele robotnicze oraz infrastruktury technicznej w zakresie urządzeń, obiektów i sieci: energetycznych (elektrycznych i gazowych), wodno-kanalizacyjnych, ciepłowniczych oraz telekomunikacyjnych, to może pomniejszyć fundusz założycielski zgodnie z zasadami określonymi w ust. 6 i 7.
 
 **Art. 5.**
 
@@ -81,6 +85,8 @@ source: "isap-pdf"
 
 - **1)** zysk pozostający w dyspozycji przedsiębiorstwa;
 - **2)** amortyzację majątku trwałego;
+- **3)** (uchylony)
+- **4)** środki z innych źródeł.
 
 2. Fundusz przedsiębiorstwa zmniejsza się o:
 
@@ -89,7 +95,7 @@ source: "isap-pdf"
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** kwotę zmniejszenia wartości mienia w postaci środków trwałych nieodpłatnie przekazanego osobom prawnym lub fizycznym w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez upoważnione organy na podstawie odrębnych ustaw oraz kwotę nabytych budynków i lokali, która nie została uwzględniona przy zmniejszaniu funduszu założycielskiego, o którym mowa w art. 4 ust. 3 i 5;
-- **6)** kwotę zmniejszenia wartości mienia w postaci zakładowych domów mieszkalnych, żłobków, przedszkoli oraz budynków służących zakładowej działalności socjalnej, w związku dokonaniem darowizny tych środków trwałych na rzecz innych osób prawnych.
+- **6)** kwotę zmniejszenia wartości mienia w postaci zakładowych domów mieszkalnych, żłobków, przedszkoli oraz budynków służących zakładowej działalności socjalnej, w związku z dokonaniem darowizny tych środków trwałych na rzecz innych osób prawnych.
 
 **Art. 7.**
 
@@ -99,35 +105,37 @@ source: "isap-pdf"
 
 **Art. 8.** Podstawą ustalenia wysokości funduszy założycielskiego i przedsiębiorstwa w wypadkach, o których mowa w art. 5 i 7, są bilanse zamknięcia łączonych lub dzielonych przedsiębiorstw.
 
-**Art. 9.** Przedsiębiorstwa wydobywające minerały metodą odkrywkową oraz inne przedsiębiorstwa prowadzące działalność gospodarczą, której towarzyszy powstawanie hałd lub degradacja terenu, mogą tworzyć fundusz rekultywacji narzutów na koszty działalności. Środki funduszu przeznacza się na finansowanie przedsięwzięć pozainwestycyjnych mających na celu zagospodarowanie terenów poeksploatacyjnych i hałd. 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) oraz innych przepisów ustawowych, wyjątkiem wydatków ponoszonych na podstawie odrębnych przepisów wydawanych przez Radę Ministrów funduszu zadań wyodrębnionych, tworzonego ze środków budżetowych – obciążają koszty działalności przedsiębiorstw państwowych.
+**Art. 9.** Przedsiębiorstwa wydobywające minerały metodą odkrywkową oraz inne przedsiębiorstwa prowadzące działalność gospodarczą, której towarzyszy powstawanie hałd lub degradacja terenu, mogą tworzyć fundusz rekultywacji z narzutów na koszty działalności. Środki funduszu przeznacza się na finansowanie przedsięwzięć pozainwestycyjnych mających na celu zagospodarowanie terenów poeksploatacyjnych i hałd.
+
+**Art. 10.** Wydatki związane z realizacją zadań przedsiębiorstw państwowych w zakresie obronności kraju, wynikających z przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) oraz z innych przepisów ustawowych, z wyjątkiem wydatków ponoszonych na podstawie odrębnych przepisów wydawanych przez Radę Ministrów z funduszu zadań wyodrębnionych, tworzonego ze środków budżetowych – obciążają koszty działalności przedsiębiorstw państwowych.
 
 **Art. 11.**
 
-1. Zysk po opodatkowaniu podatkiem dochodowym i po odliczeniu wpłat zysku na rzecz budżetu państwa, o których mowa w art. 12 ust. 1, może być przeznaczony na tworzenie funduszy własnych, funduszu nagród dla pracowników oraz na dofinansowanie zakładowego funduszu świadczeń socjalnych.
+1. Zysk po opodatkowaniu podatkiem dochodowym i po odliczeniu wpłat z zysku na rzecz budżetu państwa, o których mowa w art. 12 ust. 1, może być przeznaczony na tworzenie funduszy własnych, funduszu nagród dla pracowników oraz na dofinansowanie zakładowego funduszu świadczeń socjalnych.
 
-2. Do funduszy własnych przedsiębiorstwa zalicza się fundusz założycielski, fundusz przedsiębiorstwa, fundusz aktualizacji wyceny oraz niepodzielony wynik finansowy.
+2. Do funduszy własnych przedsiębiorstwa zalicza się fundusz założycielski, fundusz przedsiębiorstwa, fundusz z aktualizacji wyceny oraz niepodzielony wynik finansowy.
 
 #### Rozdział 3 Uprawnienia Skarbu Państwa
 
 **Art. 12.**
 
-1. Przedsiębiorstwa są obowiązane do dokonywania wpłat zysku po opodatkowaniu podatkiem dochodowym na rzecz budżetu państwa.
+1. Przedsiębiorstwa są obowiązane do dokonywania wpłat z zysku po opodatkowaniu podatkiem dochodowym na rzecz budżetu państwa.
 
 2. Z wpłat, o których mowa w ust. 1, zwolnione są przedsiębiorstwa działające przy zakładach karnych i aresztach śledczych podległe Ministrowi Sprawiedliwości.
 
-2a. Z wpłat, o których mowa w ust. 1, zwolniony jest także w okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy w zakresie przychodów działalności opodatkowanej podatkiem tonażowym.
+2a. Z wpłat, o których mowa w ust. 1, zwolniony jest także w okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy w zakresie przychodów z działalności opodatkowanej podatkiem tonażowym.
 
-2b. Z wpłat, o których mowa w ust. 1, zwolnione są także przedsiębiorstwa za okres roku obrotowego, w którym wystąpił stan zagrożenia epidemicznego lub stan epidemii, oraz za okres roku obrotowego poprzedzającego rok obrotowy, w którym wystąpił którykolwiek wyżej wymienionych stanów.
+2b. Z wpłat, o których mowa w ust. 1, zwolnione są także przedsiębiorstwa za okres roku obrotowego, w którym wystąpił stan zagrożenia epidemicznego lub stan epidemii, oraz za okres roku obrotowego poprzedzającego rok obrotowy, w którym wystąpił którykolwiek z wyżej wymienionych stanów.
 
-3. Rada Ministrów, w drodze rozporządzenia, może na wniosek organu założycielskiego zwolnić przedsiębiorstwa wykonujące w całości lub w części zadania na potrzeby obronności i bezpieczeństwa państwa obowiązku
+3. Rada Ministrów, w drodze rozporządzenia, może na wniosek organu założycielskiego zwolnić przedsiębiorstwa wykonujące w całości lub w części zadania na potrzeby obronności i bezpieczeństwa państwa z obowiązku dokonywania wpłat z zysku lub przyznać tym przedsiębiorstwom ulgi we wpłatach z zysku.
 
 **Art. 13.**
 
 1. Izby administracji skarbowej prowadzą ewidencję funduszy założycielskich przedsiębiorstw oraz ich zmian.
 
-2. Wpłatę zysku, o której mowa w art. 12 ust. 1, pobierają właściwe urzędy skarbowe.
+2. Wpłatę z zysku, o której mowa w art. 12 ust. 1, pobierają właściwe urzędy skarbowe.
 
-3. Wpłaty zysku dokonywane są w formie zaliczek miesięcznych lub kwartalnych.
+3. Wpłaty z zysku dokonywane są w formie zaliczek miesięcznych lub kwartalnych.
 
 4. Wyboru okresu, za jaki będzie dokonywana wpłata zaliczki, dokonuje przedsiębiorstwo.
 
@@ -135,13 +143,13 @@ source: "isap-pdf"
 
 6. Wysokość zaliczki wynosi 15% zysku po opodatkowaniu podatkiem dochodowym.
 
-**Art. 14.** Wysokość stopy procentowej do naliczania wpłat zysku wynosi 15% zysku po opodatkowaniu podatkiem dochodowym.
+**Art. 14.** Wysokość stopy procentowej do naliczania wpłat z zysku wynosi 15% zysku po opodatkowaniu podatkiem dochodowym.
 
 **Art. 15.**
 
-1. Do wpłat zysku stosuje się przepisy o zobowiązaniach podatkowych , zastrzeżeniem art. 12 ust. 3.
+1. Do wpłat z zysku stosuje się przepisy o zobowiązaniach podatkowych , z zastrzeżeniem art. 12 ust. 3.
 
-2. Minister Finansów, w drodze rozporządzenia, określa terminy i tryb wpłat zysku oraz terminy składania deklaracji i wzory tych deklaracji.
+2. Minister Finansów, w drodze rozporządzenia, określa terminy i tryb wpłat z zysku oraz terminy składania deklaracji i wzory tych deklaracji.
 
 **Art. 16.** (uchylony)
 
@@ -150,6 +158,8 @@ source: "isap-pdf"
 **Art. 18.** (uchylony)
 
 **Art. 19.** (uchylony)
+
+#### Rozdział 4 Rachunkowość
 
 **Art. 20.**
 
@@ -171,8 +181,8 @@ source: "isap-pdf"
 
 **Art. 26.**
 
-1. Znosi się stosowanie rachunku wyrównawczego cen wewnętrznych na wyroby jednorodne, wyjątkiem węgla kamiennego i energii elektrycznej.
+1. Znosi się stosowanie rachunku wyrównawczego cen wewnętrznych na wyroby jednorodne, z wyjątkiem węgla kamiennego i energii elektrycznej.
 
-2. Istniejące saldo rachunku, o którym mowa w ust. 1, należy rozliczyć funduszem przedsiębiorstwa, które ten rachunek prowadziło. Takiemu samemu rozliczeniu podlega saldo rachunku w przypadku prowadzenia go w zrzeszeniach, tym że przeznacza się je na fundusze przedsiębiorstw.
+2. Istniejące saldo rachunku, o którym mowa w ust. 1, należy rozliczyć z funduszem przedsiębiorstwa, które ten rachunek prowadziło. Takiemu samemu rozliczeniu podlega saldo rachunku w przypadku prowadzenia go w zrzeszeniach, z tym że przeznacza się je na fundusze przedsiębiorstw.
 
 

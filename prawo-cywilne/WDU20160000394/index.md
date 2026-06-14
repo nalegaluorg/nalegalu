@@ -8,10 +8,10 @@ pos: 394
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 marca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 394
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/394/text.pdf) |
 
-Poz. 394
 USTAWA z dnia 17 marca 2016 r.
 o zmianie ustawy o pracownikach sądów i prokuratury, ustawy – Prawo o postępowaniu przed sądami administracyjnymi, ustawy o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw, ustawy o administracji podatkowej oraz ustawy o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
-**Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach s ą dów i prokuratury (Dz. U. z 2015 r. poz. 1241 oraz z 2016 r. poz. 178) w art. 14 w ust. 1 pkt 1 otrzymuje brzmienie: „1) stanowiska w s ą dach powszechnych i wojskowych oraz powszechnych jednostkach organizacyjnych prokuratury, na których zatrudniani s ą urz ę dnicy i inni pracownicy, a tak ż e kwalifikacje wymagane do zajmowania tych stanowisk,”.
+**Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2015 r. poz. 1241 oraz z 2016 r. poz. 178) w art. 14 w ust. 1 pkt 1 otrzymuje brzmienie: „1) stanowiska w sądach powszechnych i wojskowych oraz powszechnych jednostkach organizacyjnych prokuratury, na których zatrudniani są urzędnicy i inni pracownicy, a także kwalifikacje wymagane do zajmowania tych stanowisk,”.
 
-**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o post ę powaniu przed s ą dami administracyjnymi (Dz. U. z 2012 r. poz. 270, z pó ź n. zm. ) art. 265 otrzymuje brzmienie: „Art. 265. W posiedzeniu całego składu Naczelnego S ą du Administracyjnego lub posiedzeniu Izby udział Prokuratora Generalnego lub jego zast ę pcy jest obowi ą zkowy. W posiedzeniu składu siedmiu s ę dziów bierze udział prokurator Prokuratury Krajowej.”.
+**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm. ) art. 265 otrzymuje brzmienie: „Art. 265. W posiedzeniu całego składu Naczelnego Sądu Administracyjnego lub posiedzeniu Izby udział Prokuratora Generalnego lub jego zastępcy jest obowiązkowy. W posiedzeniu składu siedmiu sędziów bierze udział prokurator Prokuratury Krajowej.”.
 
-**Art. 3.** W ustawie z dnia 15 stycznia 2015 r. o zmianie ustawy – Kodeks post ę powania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 218 i 1311) art. 13 otrzymuje brzmienie: „Art. 13. Ustawa wchodzi w ż ycie z dniem 1 lipca 2016 r., z wyj ą tkiem art. 1 pkt 4–14 i 16 oraz art. 10, które wchodz ą w ż ycie po upływie 30 dni od dnia ogłoszenia.”.
+**Art. 3.** W ustawie z dnia 15 stycznia 2015 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 218 i 1311) art. 13 otrzymuje brzmienie: „Art. 13. Ustawa wchodzi w życie z dniem 1 lipca 2016 r., z wyjątkiem art. 1 pkt 4–14 i 16 oraz art. 10, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.”.
 
-**Art. 4.** W ustawie z dnia 10 lipca 2015 r. o administracji podatkowej (Dz. U. poz. 1269, 1513 i 2184) w art. 77 uchyla si ę pkt 1.
+**Art. 4.** W ustawie z dnia 10 lipca 2015 r. o administracji podatkowej (Dz. U. poz. 1269, 1513 i 2184) w art. 77 uchyla się pkt 1.
 
 **Art. 5.** W ustawie z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks post ę powania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1311 i 1513 oraz z 2016 r. poz. 178) w art. 23 pkt 1 otrzymuje brzmienie: „1) art. 2 pkt 48 lit. b, który wchodzi w ż ycie z dniem 1 lipca 2016 r.;”.
 
 **Art. 6.** Ustawa wchodzi w ż ycie z dniem 1 kwietnia 2016 r., z wyj ą tkiem:
+
+- **1)** art. 1, który wchodzi w ż ycie z dniem 3 marca 2017 r.;
+- **2)** art. 2, który wchodzi w ż ycie z dniem nast ę puj ą cym po dniu ogłoszenia.
+
 

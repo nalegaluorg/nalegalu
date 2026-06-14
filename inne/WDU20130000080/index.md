@@ -8,10 +8,10 @@ pos: 80
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 stycznia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 80 ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 8 stycznia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/80/text.pdf) |
 
-Poz. 80 ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 8 stycznia 2013 r.
-w sprawie wykazu śródlądowych dróg wodnych, na których wprowadza się usługi informacji rzecznej (RIS) Na podstawie art. 47a ust. 3 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm. ) zarządza się, co następuje: § 1. Wykaz śródlądowych dróg wodnych, na których wprowadza się usługi informacji rzecznej (RIS), określa załącznik do rozporządzenia.
+w sprawie wykazu śródlądowych dróg wodnych, na których wprowadza się usługi informacji rzecznej (RIS) Na podstawie art. 47a ust. 3 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm. ) zarządza się, co następuje:
+§ 1. Wykaz śródlądowych dróg wodnych, na których wprowadza się usługi informacji rzecznej (RIS), określa załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
 Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak WYKAZ ŚRÓDLĄDOWYCH DRÓG WODNYCH, NA KTÓRYCH WPROWADZA SIĘ USŁUGI INFORMACJI RZECZNEJ (RIS)
 1. Jezioro Dąbie do granicy z morskimi wodami wewnętrznymi.

@@ -8,7 +8,7 @@ pos: 106
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy i pracowników urzędów nadzorowanych przez tego ministra oraz niektórych innych ustaw
@@ -29,11 +29,78 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 21 czerwca 1996 r. o niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy i pracowników urzędów nadzorowanych przez tego ministra (Dz. U. poz. 491, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** tytuł ustawy otrzymuje brzmienie: „o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych”;
+- **2)** dodaje się art. 1a–1d w brzmieniu: „Art. 1a. Ustawa określa:
+- **1)** zasady sprawowania szczególnych form nadzoru przez ministra właściwego do spraw wewnętrznych nad Policją, Strażą Graniczną, Biurem Ochrony Rządu oraz Państwową Strażą Pożarną, zwanego dalej „nadzorem”;
+- **2)** zadania Inspektora Nadzoru Wewnętrznego;
+- **3)** organizację i tryb działania Biura Nadzoru Wewnętrznego, zwanego dalej „Biurem”.
+
 **Art. 1b.** Minister właściwy do spraw wewnętrznych sprawuje nadzór nad Policją, Strażą Graniczną, Biurem Ochrony Rządu oraz Państwową Strażą Pożarną w zakresie:
+
+- **1)** prawidłowości realizacji czynności operacyjno-rozpoznawczych,
+- **2)** prowadzonych czynności wyjaśniających i postępowań dyscyplinarnych,
+- **3)** rozpoznawania, zapobiegania i wykrywania popełnianych przez funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych w tych służbach umyślnych, ściganych z oskarżenia publicznego przestępstw oraz przestępstw skarbowych, a także realizacji zadań w tym zakresie przez Biuro Spraw Wewnętrznych Policji i Biuro Spraw Wewnętrznych Straży Granicznej,
+- **4)** weryfikowania kandydatów na określone stanowiska oraz osób zajmujących te stanowiska,
+- **5)** prawidłowości realizacji postępowań sprawdzających oraz kontrolnych postępowań sprawdzających przeprowadzanych przez Policję, Straż Graniczną i Biuro Ochrony Rządu oraz Państwową Straż Pożarną wobec własnych funkcjonariuszy, strażaków i pracowników w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948, z 2017 r. poz. 935 oraz z 2018 r. poz. 106) w zakresie, w jakim nie narusza to kompetencji Agencji Bezpieczeństwa Wewnętrznego,
+- **6)** realizacji obowiązku składania oświadczeń o stanie majątkowym przez funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej oraz pracowników zatrudnionych w tych służbach, a także ich analizy przez właściwych przełożonych w zakresie, w jakim nie narusza to kompetencji Centralnego Biura Antykorupcyjnego,
+- **7)** działania zgodnego z przepisami prawa oraz zasadami etyki funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej, w związku z koniecznością zapewnienia przestrzegania praw i wolności człowieka i obywatela,
+- **8)** przestrzegania zasad etyki zawodowej przez funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej,
+- **9)** gromadzenia i przetwarzania danych osobowych przez Policję, Straż Graniczną, Biuro Ochrony Rządu i Państwową Straż Pożarną,
+- **10)** zezwalania przez Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej i Szefa Biura Ochrony Rządu na udzielenie wiadomości stanowiącej informację niejawną uprawnionym podmiotom – przy pomocy Inspektora Nadzoru Wewnętrznego, z zastrzeżeniem art. 1d.
 
 **Art. 1c.** W celu sprawowania nadzoru, o którym mowa w art. 1b, minister właściwy do spraw wewnętrznych jest uprawniony do:
 
+- **1)** weryfikacji funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych w tych służbach w zakresie określonym w art. 11a ust. 3 pkt 2;
+- **2)** zapoznawania się z wynikami i materiałami czynności operacyjno-rozpoznawczych prowadzonych w Policji i Straży Granicznej;
+- **3)** uzyskiwania informacji o wynikach i zapoznawania się z materiałami czynności wykonywanych przez Inspektora Nadzoru Wewnętrznego.
+
 **Art. 1d.** Przepisy niniejszej ustawy nie naruszają przepisów innych ustaw regulujących kwestie sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych nad Policją, Strażą Graniczną, Państwową Strażą Pożarną i Biurem Ochrony Rządu.”;
+
+- **3)** w art. 6 ust. 3 otrzymuje brzmienie: „3. Prezes Rady Ministrów może określić, w drodze rozporządzenia, stanowiska w urzędzie obsługującym ministra właściwego do spraw wewnętrznych, na których mogą być zatrudniani oddelegowani funkcjonariusze Policji, Straży Granicznej, Biura Ochrony Rządu lub strażacy Państwowej Straży Pożarnej, mając na względzie potrzebę zapewnienia właściwej organizacji pracy w tym urzędzie.”;
+- **4)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Komórki organizacyjne urzędu obsługującego ministra właściwego do spraw wewnętrznych i jednostki organizacyjne Obrony Cywilnej, Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu oraz związki zawodowe, funkcjonariusze, strażacy i pracownicy tych jednostek nie mogą uczestniczyć w żadnej działalności, w tym gospodarczej, jeżeli działalność ta mogłaby prowadzić do wykorzystania autorytetu urzędowego, informacji służbowych lub środków publicznych do celów pozasłużbowych albo w sposób sprzeczny z ich przeznaczeniem.
+
+2. Na wniosek ministra właściwego do spraw wewnętrznych, uzgodniony z właściwym ministrem, państwowe jednostki organizacyjne są obowiązane uwzględniać potrzeby Policji, Straży Granicznej, Biura Ochrony Rządu oraz Państwowej Straży Pożarnej – w zakresie produkcji, usług i dostaw środków technicznych niezbędnych do wykonywania ich zadań.”;
+
+- **5)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Minister właściwy do spraw wewnętrznych może zezwalać:
+- **1)** byłym i obecnym pracownikom urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz organów i jednostek organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, z wyłączeniem pracowników Policji, Straży Granicznej oraz Biura Ochrony Rządu,
+- **2)** Komendantowi Głównemu Policji, Komendantowi Głównemu Straży Granicznej, Szefowi Biura Ochrony Rządu, Komendantowi Biura Spraw Wewnętrznych Policji, Komendantowi Biura Spraw Wewnętrznych Straży Granicznej, Inspektorowi Nadzoru Wewnętrznego oraz ich zastępcom,
+- **3)** byłym i obecnym strażakom oraz pracownikom Państwowej Straży Pożarnej,
+- **4)** funkcjonariuszom Policji, Straży Granicznej i Biura Ochrony Rządu oddelegowanym do urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz organów i jednostek organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, z wyłączeniem odpowiednio Policji, Straży Granicznej oraz Biura Ochrony Rządu, w zakresie zadań realizowanych w okresie oddelegowania,
+- **5)** funkcjonariuszom Biura Spraw Wewnętrznych Policji oraz Biura Spraw Wewnętrznych Straży Granicznej, w zakresie wynikającym z art. 11j ust. 1 pkt 1–3,
+- **6)** osobom udzielającym inspektorom Biura pomocy w wykonywaniu czynności operacyjno-rozpoznawczych – na udzielenie wiadomości stanowiącej informację niejawną uprawnionemu podmiotowi.
+
+2. Zezwolenie, o którym mowa w ust. 1, nie dotyczy sytuacji, o których mowa w art. 11n, art. 11o, art. 11v ust. 1 pkt 2 i ust. 2 pkt 2 oraz art. 11w, z wyjątkiem dokumentów i materiałów, które sąd okręgowy lub prokurator Biura Lustracyjnego lub oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu uzna za niezbędne w związku z wykonywaniem ich zadań określonych w ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186) oraz ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575 oraz z 2018 r. poz. 5).
+
+3. W razie odmowy zezwolenia na udzielenie wiadomości stanowiącej informację niejawną o klauzuli „tajne” lub „ściśle tajne” pomimo żądania prokuratora lub sądu, zgłoszonego w związku z postępowaniem karnym o zbrodnie przeciwko pokojowi, ludzkości i o przestępstwa wojenne lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu i zdrowiu, gdy jego następstwem była śmierć człowieka – minister właściwy do spraw wewnętrznych, na wniosek prokuratury lub sądu, przedstawia żądane dokumenty i materiały oraz wyjaśnienia Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do prawidłowości postępowania karnego, minister właściwy do spraw wewnętrznych jest obowiązany zezwolić na udostępnienie wnioskowanych informacji.
+
+4. Przepisy ust. 3 stosuje się odpowiednio w razie odmowy zezwolenia na udzielenie wiadomości stanowiącej informację niejawną przez ministra właściwego do spraw wewnętrznych, w przypadkach określonych w art. 20ba ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405 oraz z 2018 r. poz. 106), art. 9da ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106) oraz art. 19a ust. 3 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2017 r. poz. 985, 1321 i 2405 oraz z 2018 r. poz.
+
+- **106)** .”;
+- **6)** po art. 11 dodaje się art. 11a–11zk w brzmieniu: „Art. 11a. 1. Inspektor Nadzoru Wewnętrznego jest organem, przy pomocy którego minister właściwy do spraw wewnętrznych sprawuje nadzór nad służbami jemu podległymi lub przez niego nadzorowanymi, nad funkcjonariuszami Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażakami Państwowej Straży Pożarnej, a także nad pracownikami zatrudnionymi w tych służbach, zwanymi dalej „podmiotami nadzorowanymi”.
+
+2. Inspektor Nadzoru Wewnętrznego podlega ministrowi właściwemu do spraw wewnętrznych.
+
+3. Do zadań Inspektora Nadzoru Wewnętrznego należy:
+
+- **1)** wspieranie ministra właściwego do spraw wewnętrznych w czynnościach związanych z egzekwowaniem działania zgodnego z przepisami prawa oraz zasadami etyki w Policji, Straży Granicznej, Biurze Ochrony Rządu oraz Państwowej Straży Pożarnej, w związku z koniecznością zapewnienia przestrzegania praw i wolności człowieka i obywatela oraz ujawnianie nieprawidłowości w tym zakresie;
+- **2)** weryfikowanie, na podstawie informacji, w tym również oznaczonych klauzulą tajności, będących w posiadaniu służb i podmiotów podległych lub nadzorowanych przez Prezesa Rady Ministrów, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw finansów publicznych, Ministra Obrony Narodowej i Ministra Sprawiedliwości oraz danych zawartych w prowadzonych przez nie zbiorach, rejestrach, ewidencjach i bazach danych, w tym również oznaczonych klauzulą tajności: poz. 1948 oraz z 2017 r. poz. 2303),
+    - **a)** kandydatów na stanowiska komendantów, szefów i ich zastępców, dyrektorów i zastępców dyrektorów komórek organizacyjnych w podmiotach nadzorowanych oraz naczelników, a także osób zajmujących te stanowiska,
+    - **b)** funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej w związku z planowanym oddelegowaniem lub przedłużeniem oddelegowania do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem przypadków oddelegowania lub przedłużenia oddelegowania do pełnienia służby poza granicami państwa w kontyngencie policyjnym, o którym mowa w art. 145a ust. 1 pkt 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji, oddelegowania lub przedłużenia oddelegowania do pełnienia służby poza granicami państwa w kontyngencie Straży Granicznej, o którym mowa w art. 147c pkt 3a ustawy z dnia 12 października 1990 r. o Straży Granicznej, oddelegowania lub przedłużenia oddelegowania do pełnienia służby poza granicami państwa w celu realizacji zadań, o których mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu, oraz oddelegowania lub przedłużenia oddelegowania do pełnienia służby poza granicami państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2017 r. poz. 1204, 1321 i 1567 oraz z 2018 r. poz. 106),
+    - **c)** kandydatów do mianowania na stopnie generalnego inspektora Policji, nadinspektora Policji, generała brygady Straży Granicznej (kontradmirała Straży Granicznej), generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej), generała brygady i generała dywizji w Biurze Ochrony Rządu oraz kandydatów do nadania stopni nadbrygadiera i generała brygadiera w Państwowej Straży Pożarnej,
+    - **d)** kandydatów w przypadku przedterminowego mianowania w korpusie oficerów młodszych Policji i korpusie oficerów starszych Policji, korpusie oficerów Straży Granicznej i korpusie oficerów Biura Ochrony Rządu oraz przedterminowego nadania stopnia w korpusie oficerów Państwowej Straży Pożarnej,
+    - **e)** kandydatów do wyróżnienia, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2015 r. poz. 475 i 1266, z 2016 r.
+    - **f)** kandydatów do oddelegowania do wykonywania zadań w Biurze Nadzoru Wewnętrznego, a także funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej w trakcie tego oddelegowania – w zakresie przebiegu służby lub dawania rękojmi należytego wykonywania zadań;
+
+- **3)** ujawnianie i monitorowanie zachowań naruszających zasady etyki zawodowej funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej;
+- **4)** ujawnianie i analizowanie nieprawidłowości zaistniałych w związku z prowadzonymi czynnościami wyjaśniającymi i postępowaniami dyscyplinarnymi w Policji, Straży Granicznej, Biurze Ochrony Rządu oraz Państwowej Straży Pożarnej;
+- **5)** analizowanie informacji dotyczących naruszeń prawa przez podmioty nadzorowane;
+- **6)** analizowanie i ocenianie czynności operacyjno-rozpoznawczych prowadzonych w Policji i Straży Granicznej oraz ujawnianie nieprawidłowości w tym obszarze w zakresie, w jakim nie narusza to kompetencji prokuratury i sądu;
+- **7)** rozpoznawanie, zapobieganie i wykrywanie popełnianych przez funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych w tych służbach umyślnych, ściganych z oskarżenia publicznego przestępstw oraz przestępstw skarbowych;
+- **8)** ocenianie realizacji zadań przez Biuro Spraw Wewnętrznych Policji i Biuro Spraw Wewnętrznych Straży Granicznej;
+- **9)** ocenianie prawidłowości realizacji postępowań sprawdzających oraz kontrolnych postępowań sprawdzających przeprowadzanych przez Policję, Straż Graniczną, Biuro Ochrony Rządu oraz Państwową Straż Pożarną wobec własnych funkcjonariuszy, strażaków i pracowników w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych w zakresie, w jakim nie narusza to kompetencji Agencji Bezpieczeństwa Wewnętrznego;
+- **10)** ocenianie realizacji obowiązku składania oświadczeń o stanie majątkowym przez funkcjonariuszy Policji, Straży Granicznej i Biura Ochrony Rządu, strażaków Państwowej Straży Pożarnej oraz pracowników zatrudnionych w tych służbach, a także ich analizy przez właściwych przełożonych w zakresie, w jakim nie narusza to kompetencji Centralnego Biura Antykorupcyjnego;
+- **11)** analizowanie i ocenianie gromadzenia i przetwarzania danych osobowych przez Policję, Straż Graniczną, Biuro Ochrony Rządu i Państwową Straż Pożarną oraz ujawnianie nieprawidłowości w tym zakresie;
+- **12)** ocenianie realizacji uprawnienia w zakresie zezwalania przez Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej oraz Szefa Biura Ochrony Rządu na udzielenie wiadomości stanowiącej informację niejawną uprawnionym podmiotom.
 
 **Art. 11b.**
 
@@ -46,6 +113,15 @@ source: "isap-pdf"
 4. Regulamin organizacyjny Biura ustala, w drodze zarządzenia, minister właściwy do spraw wewnętrznych.
 
 **Art. 11c.** Inspektorem Nadzoru Wewnętrznego lub zastępcą Inspektora Nadzoru Wewnętrznego może być osoba, która:
+
+- **1)** posiada wyłącznie obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** jest nieskazitelnego charakteru;
+- **4)** ze względu na posiadane kwalifikacje i praktykę zawodową daje rękojmię należytego wykonywania zadań;
+- **5)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **6)** spełnia wymagania określone w przepisach o ochronie informacji niejawnych w zakresie dostępu do informacji niejawnych o klauzuli „ściśle tajne”;
+- **7)** posiada wyższe wykształcenie;
+- **8)** nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ani też nie była sędzią, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
 
 **Art. 11d.**
 
@@ -497,9 +573,152 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2017 r. poz. 1007) wprowadza się następujące zmiany:
 
+- **1)** w art. 36 w ust. 8 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) Inspektor Nadzoru Wewnętrznego;”;
+- **2)** w art. 36 ust. 3 otrzymuje brzmienie: „3. Nie pobiera się opłat od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz wniosku o wyszukanie ksiąg wieczystych złożonego przez podmioty, o których mowa w art. 36 ust. 8 pkt 1–6, 7a, 8–17 oraz 19, lub organ administracji rządowej.”.
+
 **Art. 3.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2017 r. poz. 2142 i 2203) w art. 1 w ust. 2 po pkt 5a dodaje się pkt 5b i 5c w brzmieniu: „5b) Biurze Spraw Wewnętrznych Policji, 5c) Biurze Spraw Wewnętrznych Straży Granicznej,”.
 
 **Art. 4.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 ust. 1 otrzymuje brzmienie: „1. Policja składa się z następujących rodzajów służb: kryminalnej, śledczej, spraw wewnętrznych, prewencyjnej oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym.”;
+- **2)** po art. 5a dodaje się art. 5b w brzmieniu: „Art. 5b. 1. Biuro Spraw Wewnętrznych Policji, zwane dalej „BSWP”, jest jednostką organizacyjną Policji służby spraw wewnętrznych realizującą na obszarze całego kraju zadania w zakresie rozpoznawania, zapobiegania i zwalczania przestępczości popełnianej przez policjantów i pracowników Policji oraz przestępstw przeciwko obrotowi gospodarczemu popełnianych na szkodę Policji, określonych w art. 296–306 Kodeksu karnego, a także wykrywania i ścigania sprawców tych przestępstw, a także – w zakresie zleconym przez Inspektora Nadzoru Wewnętrznego – funkcjonariuszy i pracowników Straży Granicznej i Biura Ochrony Rządu lub strażaków i pracowników Państwowej Straży Pożarnej.
+
+2. Komendant Biura Spraw Wewnętrznych Policji, zwany dalej „Komendantem BSWP”, jest organem Policji podległym Komendantowi Głównemu Policji, kieruje BSWP i jest przełożonym policjantów BSWP.
+
+3. Siedzibą Komendanta BSWP jest miasto stołeczne Warszawa.
+
+4. Komendanta BSWP powołuje, spośród oficerów Policji, i odwołuje minister właściwy do spraw wewnętrznych.
+
+5. Zastępców Komendanta BSWP powołuje, spośród oficerów Policji, i odwołuje minister właściwy do spraw wewnętrznych na wniosek Komendanta BSWP.
+
+6. W razie zwolnienia stanowiska Komendanta BSWP minister właściwy do spraw wewnętrznych, do czasu powołania nowego komendanta, powierza pełnienie obowiązków Komendanta BSWP, na okres nie dłuższy niż 6 miesięcy, jednemu z jego zastępców lub wyznaczonemu oficerowi spośród policjantów BSWP.
+
+7. W celu realizacji zadań określonych w ust. 1 Komendant BSWP współdziała z innymi jednostkami organizacyjnymi Policji oraz właściwymi organami i instytucjami, w tym innych państw.
+
+8. Komendant BSWP jest obowiązany niezwłocznie przedstawiać ministrowi właściwemu do spraw wewnętrznych, za pośrednictwem Inspektora Nadzoru Wewnętrznego, informacje i materiały mogące mieć istotne znaczenie dla sprawowania nadzoru, o którym mowa w art. 1b ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ).
+
+9. Minister właściwy do spraw wewnętrznych może w każdym czasie żądać informacji i materiałów z realizacji zadań przez Komendanta BSWP.
+
+10. Komendant BSWP przedstawia corocznie do dnia 31 stycznia ministrowi właściwemu do spraw wewnętrznych informację o działalności BSWP.”;
+
+- **3)** po art. 6d dodaje się art. 6da w brzmieniu: „Art. 6da. Policjant oraz osoba powoływana na stanowiska, o których mowa w art. 5a ust. 4 i 5, art. 5b ust. 2 i 5, art. 6b ust. 1–3, art. 6c ust. 1–4, art. 6d ust. 1, 2, 6 i 7 oraz art. 8 ust. 2, a także mianowana na stanowisko dyrektora i zastępcy dyrektora komórki organizacyjnej oraz naczelnika, mogą zostać poddani weryfikacji, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych. Weryfikacja, o której mowa w zdaniu pierwszym, może być prowadzona także wobec policjanta oraz osoby zajmujących te stanowiska.”;
+- **4)** w art. 6e:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Odwołać ze stanowiska, o którym mowa w art. 5a ust. 4 i 5, art. 5b ust. 4 i 5, art. 6b ust. 1, 2 i 5, art. 6c ust. 1–4, 6 i 7 oraz art. 6d ust. 1, 2 i 6, można w każdym czasie.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Policjanta odwołanego ze stanowiska przenosi się do dyspozycji przełożonego policjanta uprawnionego do odwołania ze stanowiska, z zastrzeżeniem, że policjanta odwołanego ze stanowiska Komendanta CBŚP, Komendanta BSWP, komendanta wojewódzkiego i Komendanta Stołecznego Policji przenosi się do dyspozycji Komendanta Głównego Policji. Policjant przez okres 6 miesięcy ma prawo do uposażenia w wysokości przysługującej przed odwołaniem.”;
+
+- **5)** dodaje się art. 6i w brzmieniu: „Art. 6i. Kierownicy jednostek organizacyjnych Policji są obowiązani współdziałać z Biurem Nadzoru Wewnętrznego w zakresie realizacji jego zadań, w szczególności:
+- **1)** udostępniać, na wniosek Inspektora Nadzoru Wewnętrznego, niezbędne uzbrojenie, wyposażenie, urządzenia i środki techniczne;
+- **2)** zapewniać warunki niezbędne do sprawnej realizacji zadań przez inspektorów Biura Nadzoru Wewnętrznego, w szczególności przez zapewnienie swobodnego wstępu na teren jednostki organizacyjnej Policji, niezwłocznego przedstawiania żądanych informacji i dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień, a także udostępnianie niezbędnych urządzeń technicznych i zapewnienie dostępu do Internetu oraz, w miarę możliwości, oddzielnego pomieszczenia z odpowiednim wyposażeniem;
+- **3)** przekazywać dane policjantów objętych weryfikacją, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, najpóźniej w terminie 14 dni przed planowanym: poz. 1948 oraz z 2017 r. poz. 2303),
+    - **a)** powołaniem na stanowiska komendantów i ich zastępców, dyrektorów i zastępców dyrektorów komórek organizacyjnych oraz naczelników,
+    - **b)** oddelegowaniem do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem oddelegowania do pełnienia służby poza granicami państwa w kontyngencie policyjnym, o którym mowa w art. 145a ust. 1 pkt 2 i 3,
+    - **c)** wystąpieniem o mianowanie na stopnie generalnego inspektora Policji i nadinspektora Policji,
+    - **d)** wystąpieniem o przedterminowe mianowanie w korpusie oficerów młodszych i starszych w Policji,
+    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2015 r. poz. 475 i 1266, z 2016 r.
+    - **f)** oddelegowaniem do wykonywania zadań w Biurze Nadzoru Wewnętrznego;
+
+- **4)** udostępniać dokumentację z kontroli, o której mowa w art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948, z 2017 r. poz. 935 oraz z 2018 r. poz. 106).”;
+- **6)** w art. 7:
+    - **a)** w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) w uzgodnieniu z ministrem właściwym do spraw wewnętrznych, organizację, rzeczowy i miejscowy zakres działania oraz zasady współdziałania BSWP z innymi jednostkami organizacyjnymi Policji.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Regulaminy komend, komisariatów i innych jednostek organizacyjnych Policji ustala właściwy dla nich komendant Policji w porozumieniu z właściwym przełożonym. Regulamin komendy wojewódzkiej Policji nie stanowi części regulaminu urzędu wojewódzkiego.”,
+    - **c)** dodaje się ust. 5 w brzmieniu: „5. Regulamin BSWP ustala minister właściwy do spraw wewnętrznych.”;
+
+- **7)** w art. 10 ust. 6 otrzymuje brzmienie: „6. Przepisu ust. 1 nie stosuje się do Komendanta CBŚP oraz Komendanta BSWP.”;
+- **8)** w art. 11 ust. 7 otrzymuje brzmienie: „7. Przepisu ust. 1 nie stosuje się do Komendanta CBŚP oraz Komendanta BSWP.”;
+- **9)** w art. 12:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Komendant Główny Policji określa zasady naliczeń etatowych w Policji, z zastrzeżeniem ust. 2a.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister właściwy do spraw wewnętrznych określa zasady naliczeń etatowych w BSWP.”;
+
+- **10)** w art. 14 w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Administrator danych, o których mowa w ust. 4, jest obowiązany udostępnić dane osobowe policjantowi wskazanemu w imiennym upoważnieniu Komendanta Głównego Policji, Komendanta CBŚP, Komendanta BSWP, komendantów wojewódzkich Policji lub uprawnionego policjanta, po okazaniu tego upoważnienia oraz legitymacji służbowej.”;
+- **11)** w art. 19:
+    - **a)** w ust. 1 część wspólna otrzymuje brzmienie: „– gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, sąd okręgowy może, w drodze postanowienia, zarządzić kontrolę operacyjną, na pisemny wniosek Komendanta Głównego Policji, Komendanta CBŚP albo Komendanta BSWP, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, albo na pisemny wniosek komendanta wojewódzkiego Policji, złożony po uzyskaniu pisemnej zgody prokuratora okręgowego właściwego ze względu na siedzibę składającego wniosek organu Policji.”,
+    - **b)** w ust. 3 zdanie pierwsze otrzymuje brzmienie: „W przypadkach niecierpiących zwłoki, jeżeli mogłoby to spowodować utratę informacji lub zatarcie albo zniszczenie dowodów przestępstwa, Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji może zarządzić, po uzyskaniu pisemnej zgody właściwego prokuratora, o którym mowa w ust. 1, kontrolę operacyjną, zwracając się jednocześnie do właściwego miejscowo sądu okręgowego z wnioskiem o wydanie postanowienia w tej sprawie.”,
+    - **c)** w ust. 8 zdanie drugie otrzymuje brzmienie: „Sąd okręgowy może, na pisemny wniosek Komendanta Głównego Policji, Komendanta CBŚP, Komendanta BSWP albo komendanta wojewódzkiego Policji, złożony po uzyskaniu pisemnej zgody właściwego prokuratora, o którym mowa w ust. 1, na okres nie dłuższy niż kolejne 3 miesiące, wydać postanowienie o jednorazowym przedłużeniu kontroli operacyjnej, jeżeli nie ustały przyczyny tej kontroli.”,
+    - **d)** ust. 9a otrzymuje brzmienie: „9a. Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji może upoważnić swojego zastępcę do składania wniosków, o których mowa w ust. 1, 3, 8 i 9, lub do zarządzania kontroli operacyjnej w trybie ust. 3.”,
+    - **e)** po ust. 10 dodaje się ust. 10a w brzmieniu: „10a. Wnioski, postanowienia, pisemne zgody i zarządzenia, o których mowa w ust. 1, 3, 8 i 9, w odniesieniu do spraw realizowanych przez BSWP, Komendant BSWP przekazuje do wiadomości Inspektorowi Nadzoru Wewnętrznego.”,
+    - **f)** w ust. 15 zdanie pierwsze otrzymuje brzmienie: „W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji przekazuje prokuratorowi, o którym mowa w ust. 1, wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej.”,
+    - **g)** w ust. 15f pkt 1 i 2 otrzymują brzmienie: „1) zawierają informacje, o których mowa w art. 178 Kodeksu postępowania karnego, Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji zarządza ich niezwłoczne, komisyjne i protokolarne zniszczenie;
+
+- **2)** mogą zawierać informacje, o których mowa w art. 178a i art. 180 § 3 Kodeksu postępowania karnego, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 Kodeksu karnego, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 Kodeksu postępowania karnego, Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji przekazuje prokuratorowi te materiały.”;
+- **12)** w art. 19a:
+    - **a)** w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji może zarządzić, na czas określony, czynności, o których mowa w ust. 1 i 2, po uzyskaniu pisemnej zgody prokuratora okręgowego właściwego ze względu na siedzibę organu Policji składającego wniosek, którego na bieżąco informuje o wynikach przeprowadzonych czynności.”,
+    - **b)** w ust. 4 zdanie drugie otrzymuje brzmienie: „Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji może, po uzyskaniu pisemnej zgody prokuratora, o którym mowa w ust. 3, jednorazowo przedłużyć stosowanie czynności na czas nie dłuższy niż kolejne 3 miesiące, jeżeli nie ustały przyczyny ich zarządzenia.”,
+    - **c)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „W uzasadnionych przypadkach, gdy podczas stosowania czynności, o których mowa w ust. 1 i 2, pojawią się nowe okoliczności istotne dla sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz ustalenia sprawców i uzyskania dowodów przestępstwa, Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji może, po uzyskaniu pisemnej zgody prokuratora, o którym mowa w ust. 3, zarządzić kontynuowanie czynności przez czas oznaczony również po upływie okresów, o których mowa w ust. 4.”,
+    - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Zarządzenia, pisemne zgody i wnioski, o których mowa w ust. 3, 4 i 5 w odniesieniu do spraw realizowanych przez BSWP, Komendant BSWP przekazuje do wiadomości Inspektorowi Nadzoru Wewnętrznego.”,
+    - **e)** w ust. 7 zdanie pierwsze otrzymuje brzmienie: „W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji przekazuje prokuratorowi okręgowemu, o którym mowa w ust. 3, wszystkie materiały zgromadzone podczas stosowania czynności, o których mowa w ust. 1 i 2.”;
+
+- **13)** w art. 19b:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu udokumentowania przestępstw, o których mowa w art. 19 ust. 1, albo ustalenia tożsamości osób uczestniczących w tych przestępstwach lub przejęcia przedmiotów przestępstwa Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji może zarządzić niejawne nadzorowanie wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa, jeżeli nie stworzy to zagrożenia dla życia lub zdrowia ludzkiego.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zarządzenia, o których mowa w ust. 1, oraz informacja o nakazie zaniechania czynności, o którym mowa w ust. 2, w odniesieniu do spraw realizowanych przez BSWP, Komendant BSWP przekazuje do wiadomości Inspektora Nadzoru Wewnętrznego.”,
+    - **c)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo komendant wojewódzki Policji przekazuje prokuratorowi, o którym mowa w ust. 2, wszystkie materiały zgromadzone podczas stosowania czynności, o których mowa w ust. 1.”;
+
+- **14)** w art. 20:
+    - **a)** w ust. 2aa, 2ab i 19 wyraz „INTERPOL” zastępuje się wyrazem „Interpol”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Informacje i dane, o których mowa w ust. 3, udostępnia się nieodpłatnie na podstawie postanowienia wydanego na pisemny wniosek Komendanta Głównego Policji, Komendanta CBŚP, Komendanta BSWP albo komendanta wojewódzkiego Policji przez sąd okręgowy właściwy miejscowo ze względu na siedzibę wnioskującego organu.”,
+    - **c)** w ust. 5a część wspólna otrzymuje brzmienie: „– udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Komendanta Głównego Policji, Komendanta CBŚP, Komendanta BSWP albo komendanta wojewódzkiego Policji lub upoważnionych przez nich pisemnie funkcjonariuszy.”,
+    - **d)** w ust. 11 zdanie pierwsze otrzymuje brzmienie: „Sąd, który wydał postanowienie o udostępnieniu informacji i danych, na wniosek Komendanta Głównego Policji, Komendanta CBŚP albo Komendanta BSWP, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, może zawiesić, w drodze postanowienia, na czas oznaczony, z możliwością dalszego przedłużania, obowiązek, o którym mowa w ust. 10, jeżeli zostanie uprawdopodobnione, że poinformowanie podmiotu, o którym mowa w ust. 6 pkt 4, może zaszkodzić wynikom podjętych czynności operacyjno-rozpoznawczych.”;
+
+- **15)** art. 20b otrzymuje brzmienie: „Art. 20b. 1. Udzielenie informacji o prowadzonych czynnościach operacyjno-rozpoznawczych oraz o stosowanych środkach i metodach ich realizacji może nastąpić:
+- **1)** w przypadku gdy istnieje uzasadnione podejrzenie popełnienia przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem tych czynności;
+- **2)** w związku ze współpracą prowadzoną z innymi organami, służbami lub instytucjami państwowymi uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, w tym także w związku z prowadzoną współpracą z organami i służbami innych państw w trybie i zakresie określonym w umowach i porozumieniach międzynarodowych.
+
+2. Udzielenie informacji o osobie, uzyskanych w czasie wykonywania czynności operacyjno-rozpoznawczych oraz w trybie, o którym mowa w art. 14 ust. 4, może nastąpić:
+
+- **1)** na żądanie sądu lub prokuratora, a wykorzystanie tych informacji może nastąpić tylko w celu ścigania karnego;
+- **2)** w przypadku gdy ustawa nakłada obowiązek udzielenia lub umożliwia udzielenie takich informacji określonemu organowi albo obowiązek taki wynika z umów lub porozumień międzynarodowych, a także w przypadku gdy zatajenie takiej informacji prowadziłoby do zagrożenia życia lub zdrowia innych osób.
+
+3. Udzielenie informacji o szczegółowych formach, zasadach i organizacji czynności operacyjno-rozpoznawczych może nastąpić w szczególnie uzasadnionych przypadkach.
+
+4. W przypadkach wymienionych w ust. 1 pkt 1, ust. 2 pkt 1 i ust. 3 udzielenie informacji następuje w trybie określonym w art. 20ba.”;
+
+- **16)** po art. 20b dodaje się art. 20ba w brzmieniu: „Art. 20ba. 1. Komendant Główny Policji może zezwalać:
+- **1)** byłym i obecnym funkcjonariuszom i pracownikom Policji, z wyłączeniem przypadków, o których mowa w ust. 5,
+- **2)** osobom oddelegowanym do Policji, w zakresie zadań realizowanych w okresie oddelegowania,
+- **3)** osobom udzielającym funkcjonariuszom Policji pomocy w wykonywaniu czynności operacyjno-rozpoznawczych – na udzielenie wiadomości stanowiącej informację niejawną uprawnionemu podmiotowi.
+
+2. Zezwolenie, o którym mowa w ust. 1, nie dotyczy sytuacji, o których mowa w art. 19, art. 19a, art. 19b, art. 20b ust. 1 pkt 2 i ust. 2 pkt 2 oraz art. 20c, z wyjątkiem dokumentów i materiałów, które sąd okręgowy lub prokurator Biura Lustracyjnego lub oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu uzna za niezbędne w związku z wykonywaniem ich zadań określonych w ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186) oraz ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575 oraz z 2018 r. poz. 5).
+
+3. W razie odmowy zezwolenia na udzielenie wiadomości stanowiącej informację niejawną o klauzuli „tajne” lub „ściśle tajne” pomimo żądania prokuratora lub sądu, zgłoszonego w związku z postępowaniem karnym o zbrodnie przeciwko pokojowi, ludzkości i o przestępstwa wojenne lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu i zdrowiu, gdy jego następstwem była śmierć człowieka – Komendant Główny Policji, na wniosek prokuratora lub sądu, przedstawia żądane dokumenty i materiały oraz wyjaśnienia ministrowi właściwemu do spraw wewnętrznych. Jeżeli minister właściwy do spraw wewnętrznych stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest uzasadnione, Komendant Główny Policji jest obowiązany zezwolić na udostępnienie wnioskowanych informacji.
+
+4. W razie odmowy zezwolenia na udzielenie wiadomości stanowiącej informację niejawną przez ministra właściwego do spraw wewnętrznych stosuje się tryb określony w art. 9 ust. 3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.
+
+5. W przypadku Komendanta Głównego Policji, Komendanta BSWP oraz ich zastępców, a także, w zakresie wynikającym z art. 11j ust. 1 pkt 1–3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, funkcjonariuszy BSWP, zezwolenia, o którym mowa w ust. 1, udziela minister właściwy do spraw wewnętrznych. Przepisy ust. 2 stosuje się odpowiednio.”;
+
+- **17)** w art. 20c w ust. 2 pkt 1 otrzymuje brzmienie: „1) policjantowi wskazanemu w pisemnym wniosku Komendanta Głównego Policji, Komendanta CBŚP, Komendanta BSWP, komendanta wojewódzkiego Policji albo osoby przez nich upoważnionej;”;
+- **18)** uchyla się art. 21;
+- **19)** w art. 21d w ust. 2 skreśla się wyrazy „osób określonych w art. 94 §1 Kodeksu karnego,”;
+- **20)** w art. 22 ust. 1a i 1b otrzymują brzmienie: „1a. Udostępnienie danych o osobie, o której mowa w ust. 1, może nastąpić jedynie w przypadkach i trybie określonych w art. 20ba.
+
+1b. Dane o osobie, o której mowa w ust. 1, mogą być udostępnione, na żądanie prokuratora lub sądu, także w razie uzasadnionego podejrzenia popełnienia przez tę osobę przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem czynności operacyjno-rozpoznawczych oraz w przypadku ujawnienia przez tę osobę faktu udzielania pomocy Policji w zakresie czynności operacyjno-rozpoznawczych; udostępnienie tych danych następuje w trybie określonym w art. 20ba.”;
+
+- **21)** w art. 32 ust. 1 otrzymuje brzmienie: „1. Do mianowania policjanta na stanowiska służbowe, przenoszenia oraz zwalniania z tych stanowisk właściwi są przełożeni: Komendant Główny Policji, Komendant CBŚP, Komendant BSWP, komendanci wojewódzcy i powiatowi (miejscy) Policji oraz komendanci szkół policyjnych.”;
+- **22)** w art. 34 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „W szczególnie uzasadnionych przypadkach Komendant Główny Policji, Komendant CBŚP albo Komendant BSWP może wyrazić zgodę na mianowanie na stanowisko służbowe policjanta, także w służbie przygotowawczej, przed uzyskaniem przez niego kwalifikacji zawodowych oraz stażu służby wymaganych na tym stanowisku, przy spełnieniu wymagań w zakresie wykształcenia.”;
+- **23)** w art. 35a po ust. 3a dodaje się ust. 3b w brzmieniu: „3b. W stosunku do policjantów pełniących służbę lub ubiegających się o podjęcie służby w BSWP test i badania zarządza Komendant BSWP.”;
+- **24)** w art. 36:
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Do przenoszenia lub delegowania policjanta właściwi są: Komendant Główny Policji na obszarze całego państwa, Komendant CBŚP w odniesieniu do policjanta CBŚP w ramach tej jednostki organizacyjnej, Komendant BSWP w odniesieniu do policjanta BSWP w ramach tej jednostki organizacyjnej, komendant wojewódzki Policji na obszarze właściwego województwa, komendant powiatowy (miejski) Policji na obszarze właściwego powiatu (miasta). Jeżeli przeniesienie między województwami, a także między CBŚP a innymi jednostkami organizacyjnymi Policji oraz między BSWP a innymi jednostkami organizacyjnymi Policji następuje w związku z porozumieniem zainteresowanych przełożonych i policjanta, przeniesienia dokonuje komendant wojewódzki Policji właściwy dla województwa, w którym policjant ma pełnić służbę, w przypadku przeniesienia do CBŚP – Komendant CBŚP, a w przypadku przeniesienia do BSWP – Komendant BSWP.
+
+3. Czas delegacji nie może przekraczać 6 miesięcy. Komendant Główny Policji, Komendant CBŚP albo Komendant BSWP w wyjątkowych przypadkach może przedłużyć czas delegacji do 12 miesięcy.”,
+
+- **b)** po ust. 4 dodaje się ust. 4a–4c w brzmieniu: „4a. Policjant może być oddelegowany do wykonywania zadań służbowych poza Policją w celu realizacji zadań określonych w ustawie lub zadań Policji wynikających z obowiązujących Rzeczpospolitą Polską umów i zobowiązań międzynarodowych.
+
+4b. Policjant może być oddelegowany do:
+
+- **1)** urzędu krajowego obsługującego organ władzy publicznej, w którym są wykonywane zadania o charakterze określonym w ust. 4a, zwanego dalej „instytucją krajową”;
+- **2)** urzędu, organizacji lub instytucji międzynarodowej albo państwa obcego, w których są wykonywane zadania, o których mowa w ust. 4a, zwanych dalej „instytucją zagraniczną”.
+
+4c. Oddelegowanie policjanta do wykonywania zadań w Biurze Nadzoru Wewnętrznego następuje na zasadach określonych w ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych. W zakresie nieuregulowanym stosuje się odpowiednio przepisy art. 36a–36p.”,
+
+- **c)** uchyla się ust. 5 i 6;
+- **25)** po art. 36 dodaje się art. 36a–36p w brzmieniu: „Art. 36a. 1. Z wnioskiem o oddelegowanie policjanta do wykonywania zadań służbowych poza Policją mogą wystąpić:
+- **1)** organy Policji lub kierownik komórki organizacyjnej Komendy Głównej Policji;
+- **2)** instytucje krajowe;
+- **3)** instytucje zagraniczne.
+
+2. Wniosek, o którym mowa w ust. 1, powinien określać nazwę instytucji, komórki organizacyjnej oraz nazwę stanowiska przeznaczonego dla policjanta lub pełnionej funkcji, opis kwalifikacji wymaganych do zajmowania stanowiska lub pełnienia funkcji, zakres wykonywanych zadań, przewidywany okres oddelegowania oraz określenie należności pieniężnych i innych świadczeń przysługujących oddelegowanemu policjantowi. Wniosek instytucji zagranicznej powinien dodatkowo zawierać określenie uprawnień i należności przysługujących oddelegowanemu policjantowi w tej instytucji.
+
+3. W przypadku policjanta, który ma zostać oddelegowany za granicę do wykonywania zadań zleconych przez instytucję zagraniczną albo zadań wynikających z programów finansowanych ze środków funduszy Unii Europejskiej, gdy okres oddelegowania ma trwać co najmniej rok, a wykonywanie zadań nie wymaga objęcia przez policjanta stanowiska w instytucji zagranicznej, wniosek powinien dodatkowo określać zakres uprawnień i należności, jakie przysługują oddelegowanemu policjantowi lub jego jednostce organizacyjnej Policji od instytucji finansującej, przez którą należy rozumieć instytucję krajową albo instytucję zagraniczną, w tym organizację międzynarodową, inną niż podmiot oddelegowujący lub podmiot, do którego następuje oddelegowanie, finansującą wykonywanie zadań, o których mowa w art. 36 ust. 4a.
+
+4. Wniosek składa się nie później niż 14 dni przed przewidywanym dniem oddelegowania policjanta do instytucji krajowej lub instytucji zagranicznej.
 
 **Art. 36b.** Oddelegowanie do wykonywania zadań służbowych poza Policją następuje po zapoznaniu się policjanta z treścią wniosku oraz po wyrażeniu przez niego zgody na oddelegowanie w formie pisemnego oświadczenia wskazującego nazwę instytucji krajowej lub instytucji zagranicznej, nazwę stanowiska służbowego lub pełnionej funkcji, a także okres oddelegowania.
 
@@ -615,7 +834,24 @@ source: "isap-pdf"
 
 **Art. 36p.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wysokość, tryb przyznawania i wypłaty należności przysługujących policjantowi oddelegowanemu do instytucji zagranicznej, o których mowa w art. 36m ust. 2, oraz właściwość przełożonych w tych sprawach, a także sposób i zakres składania informacji przełożonemu w związku z oddelegowaniem do instytucji zagranicznej, mając na względzie zapewnienie sprawnej i terminowej wypłaty należności.”;
 
+- **26)** w art. 45 ust. 1 otrzymuje brzmienie: „1. Zwolnienia ze służby na podstawie art. 41 ust. 2 pkt 5 dokonuje właściwy komendant wojewódzki Policji, Komendant CBŚP albo Komendant BSWP.”;
+- **27)** w art. 48 ust. 3 otrzymuje brzmienie: „3. Na pierwszy stopień oficerski, z zastrzeżeniem art. 56 ust. 3, oraz na stopnie generalnego inspektora Policji i nadinspektora Policji mianuje Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych. Na pozostałe stopnie oficerskie w służbie spraw wewnętrznych mianuje minister właściwy do spraw wewnętrznych. Natomiast na pozostałe stopnie oficerskie mianuje Komendant Główny Policji.”;
+- **28)** po art. 50 dodaje się art. 50a w brzmieniu: „Art. 50a. W przypadku planowanego przedterminowego mianowania na stopnie policyjne w korpusie oficerów młodszych Policji i korpusie oficerów starszych Policji właściwy przełożony może wystąpić do Inspektora Nadzoru Wewnętrznego o dokonanie weryfikacji, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.”;
+- **29)** w art. 52 w ust. 3 skreśla się wyrazy „ust. 4” i „ust. 1”;
+- **30)** w art. 62 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Inspektor Nadzoru Wewnętrznego w celu przeprowadzenia analizy złożonych oświadczeń o stanie majątkowym ma prawo wglądu do ich treści i przetwarzania danych w nich zawartych.”;
+- **31)** w art. 71a ust. 1 otrzymuje brzmienie: „1. Za stan bezpieczeństwa i higieny służby w stosunku do podległych policjantów odpowiadają Komendant Główny Policji, Komendant CBŚP, Komendant BSWP, komendanci wojewódzcy Policji, Komendant Stołeczny Policji, komendanci powiatowi (miejscy) Policji, komendanci rejonowi Policji, dyrektor instytutu badawczego, Komendant Wyższej Szkoły Policji i komendanci szkół policyjnych.”;
+- **32)** w art. 110 ust. 15 otrzymuje brzmienie: „15. Komendant Główny Policji przyznaje nagrody roczne Komendantowi CBŚP, komendantom wojewódzkim Policji (Komendantowi Stołecznemu Policji), komendantom szkół policyjnych i ich zastępcom oraz rektorowi i prorektorowi Wyższej Szkoły Policji w Szczytnie. Komendantowi BSWP przyznaje nagrodę roczną, na wniosek Inspektora Nadzoru Wewnętrznego, minister właściwy do spraw wewnętrznych.”;
+- **33)** w art. 133:
+    - **a)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Przełożonym dyscyplinarnym policjanta oddelegowanego do pełnienia służby w Biurze Nadzoru Wewnętrznego jest Inspektor Nadzoru Wewnętrznego, z wyłączeniem możliwości orzekania kar określonych w art. 134 pkt 3–6, które wymierza przełożony, o którym mowa w art. 32 ust. 1. Przepisy art. 135d ust. 2, art. 135h ust. 2, art. 135k ust. 4, art. 135r ust. 9 oraz art. 135s ust. 5 stosuje się odpowiednio.
+
+3b. Przełożonym dyscyplinarnym Komendanta BSWP i jego zastępcy jest minister właściwy do spraw wewnętrznych, z wyłączeniem możliwości orzekania kar określonych w art. 134 pkt 3–6, które wymierza przełożony, o którym mowa w art. 32 ust. 1. Przepisy art. 135d ust. 2, art. 135h ust. 2, art. 135k ust. 4, art. 135r ust. 9 oraz art. 135s ust. 5 stosuje się odpowiednio.”,
+
+- **b)** w ust. 8 pkt 3 otrzymuje brzmienie: „3) Komendant Główny Policji – w stosunku do Komendanta CBŚP, Komendanta BSWP, komendanta wojewódzkiego Policji, Komendanta Stołecznego Policji, komendanta szkoły policyjnej i dowódcy kontyngentu policyjnego.”.
+
 **Art. 5.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) rozpoznawanie, zapobieganie i wykrywanie przestępstw oraz ściganie, w zakresie wynikającym z art. 11j ust. 1 pkt 1–3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, sprawców czynów określonych w pkt 4 lit. f–h, w przypadku, gdy czyny te dotyczą funkcjonariuszy i pracowników Policji i Biura Ochrony Rządu lub strażaków Państwowej Straży Pożarnej, popełnionych w związku z wykonywaniem przez nich czynności służbowych;”;
+- **2)** po art. 3a dodaje się art. 3b i art. 3c w brzmieniu: „Art. 3b. Funkcjonariusze Straży Granicznej oraz osoby powoływane na stanowiska, o których mowa w art. 3 ust. 2 i 3, art. 3c ust. 2 i 5 oraz art. 5 ust. 2 i 5, a także mianowane na stanowiska dyrektora i zastępcy dyrektora komórki organizacyjnej oraz naczelnika, mogą zostać poddani weryfikacji, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ). Weryfikacja, o której mowa w zdaniu pierwszym, może być prowadzona także wobec funkcjonariuszy Straży Granicznej oraz osób zajmujących te stanowiska.
 
 **Art. 3c.**
 
@@ -870,6 +1106,31 @@ source: "isap-pdf"
 
 **Art. 7.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2017 r. poz. 1204, 1321 i 1567) wprowadza się następujące zmiany:
 
+- **1)** w art. 8 ust. 1 pkt 5, art. 10 ust. 2 pkt 2, art. 18 ust. 1, art. 32 ust. 1 pkt 6, art. 34 ust. 2, art. 51 ust. 3 pkt 3, art. 73 ust. 1c, art. 95c ust. 3 i art. 121 ust. 1 pkt 3 i 4 użyte w różnej liczbie i różnym przypadku wyrazy „jednostka badawczo-rozwojowa” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „instytut badawczy”;
+- **2)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. Strażacy, o których mowa w art. 9 ust. 1 i 3, art. 12 ust. 1 oraz art. 13 ust. 1, a także mianowani na stanowiska dyrektora i zastępcy dyrektora komórki organizacyjnej oraz naczelnika, mogą zostać poddani weryfikacji, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ). Weryfikacja, o której mowa w zdaniu pierwszym, może być prowadzona także wobec strażaków zajmujących te stanowiska.”;
+- **3)** po art. 13a dodaje się art. 13b w brzmieniu: „Art. 13b. Kierownicy jednostek organizacyjnych Państwowej Straży Pożarnej są obowiązani współdziałać z Biurem Nadzoru Wewnętrznego w zakresie realizacji jego zadań, w szczególności:
+- **1)** udostępniać, na wniosek Inspektora Nadzoru Wewnętrznego, niezbędne wyposażenie, urządzenia i środki techniczne;
+- **2)** zapewniać warunki niezbędne do sprawnej realizacji zadań przez inspektorów Biura Nadzoru Wewnętrznego, w szczególności przez zapewnienie swobodnego wstępu na teren jednostki organizacyjnej Państwowej Straży Pożarnej, niezwłocznego przedstawiania żądanych informacji i dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień, a także udostępnianie niezbędnych urządzeń technicznych i zapewnienie dostępu do Internetu oraz, w miarę możliwości, oddzielnego pomieszczenia z odpowiednim wyposażeniem;
+- **3)** przekazywać dane strażaków objętych weryfikacją, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, najpóźniej w terminie 14 dni przed planowanym: poz. 1948 oraz z 2017 r. poz. 2303),
+    - **a)** powołaniem na stanowiska komendantów i ich zastępców, dyrektorów i zastępców dyrektorów komórek organizacyjnych oraz naczelników,
+    - **b)** oddelegowaniem do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem oddelegowania do realizacji zadania poza granicami państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1,
+    - **c)** wystąpieniem o nadawanie stopni nadbrygadiera i generała brygadiera w Państwowej Straży Pożarnej,
+    - **d)** wystąpieniem o przedterminowe nadanie stopnia w korpusie oficerów Państwowej Straży Pożarnej,
+    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2015 r. poz. 475 i 1266, z 2016 r.
+    - **f)** oddelegowaniem do wykonywania zadań w Biurze Nadzoru Wewnętrznego;
+
+- **4)** udostępniać dokumentację z kontroli, o której mowa w art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948, z 2017 r. poz. 935 oraz z 2018 r. poz. 106).”;
+- **4)** w art. 18 w ust. 1 wyrazy „jednostki badawczo-rozwojowej” zastępuje się wyrazami „instytutu badawczego” oraz wyrazy „ustawa z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323)” zastępuje się wyrazami „ustawa z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2017 r. poz. 1158, 1452 i 2201)”;
+- **5)** w art. 28a uchyla się ust. 2 i 3;
+- **6)** w art. 35 w ust. 12 wyrazy „ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. poz. 385, z późn. zm.)” zastępuje się wyrazami „ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183 i 2201)”;
+- **7)** po art. 37d dodaje się art. 37e–37u w brzmieniu: „Art. 37e. Komendant Główny Państwowej Straży Pożarnej może oddelegować strażaka, za jego zgodą, do wykonywania zadań poza Państwową Strażą Pożarną w następujących jednostkach organizacyjnych, zwanych dalej „instytucjami cywilnymi”:
+- **1)** urzędach organów administracji rządowej;
+- **2)** Zarządzie Głównym i zarządach wojewódzkich Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej;
+- **3)** gminach;
+- **4)** jednostkach ochrony przeciwpożarowej utworzonych w trybie art. 17 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej przez gminy, instytucje, organizacje, osoby prawne i fizyczne;
+- **5)** jednostkach organizacyjnych tworzonych na podstawie odrębnych przepisów;
+- **6)** innych jednostkach organizacyjnych, w których są wykonywane zadania określone w art. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
+
 **Art. 37f.** Przepisów o oddelegowaniu nie stosuje się do strażaków wyznaczonych do pełnienia służby w Wojskowej Ochronie Przeciwpożarowej.
 
 **Art. 37g.** Oddelegowanie strażaka do wykonywania zadań w Biurze Nadzoru Wewnętrznego następuje na zasadach określonych w ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych. W zakresie nieuregulowanym stosuje się odpowiednio przepisy art. 37i–37u.
@@ -889,6 +1150,11 @@ source: "isap-pdf"
 **Art. 37k.** Komendant Główny Państwowej Straży Pożarnej może odmówić uwzględnienia wniosku, o którym mowa w art. 37i, jeżeli na wskazanych stanowiskach nie będą wykonywane zadania, o których mowa w art. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, albo jeżeli jest to uzasadnione potrzebami Państwowej Straży Pożarnej.
 
 **Art. 37l.** W razie uwzględnienia wniosku, o którym mowa w art. 37i, i po uzgodnieniu obsady stanowisk oraz zasad wykonywania zadań przez strażaka między Komendantem Głównym Państwowej Straży Pożarnej a kierownikiem instytucji cywilnej, Komendant Główny Państwowej Straży Pożarnej:
+
+- **1)** zwalnia strażaka wyrażającego zgodę na wykonywanie zadań w instytucji cywilnej z dotychczas zajmowanego stanowiska;
+- **2)** pozostawia strażaka na etacie jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełnił służbę przed oddelegowaniem do wykonywania zadań w instytucji cywilnej;
+- **3)** zalicza – do celów obliczenia uposażenia i innych należności pieniężnych przysługujących w trakcie oddelegowania – stanowisko służbowe do odpowiedniej grupy zaszeregowania oraz ustala stopień etatowy, stosownie do zaszeregowania stanowiska służbowego;
+- **4)** kieruje strażaka na stanowisko do określonej we wniosku instytucji cywilnej.
 
 **Art. 37m.**
 
@@ -965,11 +1231,20 @@ source: "isap-pdf"
 
 **Art. 10.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260 i 1926 oraz z 2018 r. poz. 79) wprowadza się następujące zmiany:
 
+- **1)** w art. 80c w ust. 1 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) Inspektorowi Nadzoru Wewnętrznego;”;
+- **2)** w art. 100c w ust. 1 po pkt 5a dodaje się pkt 5b w brzmieniu: „5b) Inspektorowi Nadzoru Wewnętrznego;”.
+
 **Art. 11.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 297 w § 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) Inspektorowi Nadzoru Wewnętrznego – w zakresie niezbędnym do realizacji zadań określonych w art. 11a ust. 3 pkt 7 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ).”;
+- **2)** w art. 298 pkt 5b otrzymuje brzmienie: „5b) Centralnemu Biuru Antykorupcyjnemu, Biuru Nadzoru Wewnętrznego, Policji, Żandarmerii Wojskowej, Straży Granicznej i ich posiadającym pisemne upoważnienie funkcjonariuszom lub żołnierzom, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub ich wykrycia, ustalenia sprawców i uzyskania dowodów albo ujawnienia mienia zagrożonego przepadkiem;”.
 
 **Art. 12.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, 2361 i 2491 oraz z 2018 r. poz. 62) w art. 105 w ust. 1 w pkt 2 w lit. z średnik zastępuje się przecinkiem i dodaje się lit. za w brzmieniu: „za) Inspektora Nadzoru Wewnętrznego, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub wykrycia ich sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. );”.
 
 **Art. 13.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778) w art. 50:
+
+- **1)** ust. 3 otrzymuje brzmienie: „3. Dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane sądom, prokuratorom, organom podatkowym, Państwowej Inspekcji Pracy, Biuru Nadzoru Wewnętrznego, Policji, Straży Granicznej, komornikom sądowym, organom egzekucyjnym w rozumieniu ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, 1475, 1954 i 2491), ministrowi właściwemu do spraw rodziny, ministrowi właściwemu do spraw zabezpieczenia społecznego, organom realizującym świadczenia rodzinne, świadczenia z funduszu alimentacyjnego oraz świadczenia wychowawcze, ośrodkom pomocy społecznej, powiatowym centrom pomocy rodzinie, publicznym służbom zatrudnienia, Komisji Nadzoru Finansowego oraz wojewodzie i Szefowi Urzędu do Spraw Cudzoziemców w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej, z uwzględnieniem przepisów dotyczących ochrony danych osobowych.”;
+- **2)** ust. 9 otrzymuje brzmienie: „9. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się bezpłatnie sądom, prokuratorom, organom podatkowym, Państwowej Inspekcji Pracy, Biuru Nadzoru Wewnętrznego, Policji, Straży Granicznej, ministrowi właściwemu do spraw rodziny, ministrowi właściwemu do spraw zabezpieczenia społecznego, organom realizującym świadczenia rodzinne, świadczenia z funduszu alimentacyjnego oraz świadczenia wychowawcze, ośrodkom pomocy społecznej, powiatowym centrom pomocy rodzinie, publicznym służbom zatrudnienia, Komisji Nadzoru Finansowego, wojewodzie i Szefowi Urzędu do Spraw Cudzoziemców w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz ministrowi właściwemu do spraw rozwoju regionalnego w zakresie wynikającym z ust. 3a i 3c.”.
 
 **Art. 14.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2017 r. poz. 1839) w art. 3 pkt 1 otrzymuje brzmienie: „1) broni i amunicji stanowiących uzbrojenie Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, funkcjonariuszy oddelegowanych do Biura Nadzoru Wewnętrznego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej, Służby Celno-Skarbowej, Służby Więziennej oraz innych państwowych formacji uzbrojonych, w odniesieniu do których dostęp do broni i amunicji regulują odrębne przepisy;”.
 
@@ -978,6 +1253,54 @@ source: "isap-pdf"
 **Art. 16.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2017 r. poz. 678 i 1475) w art. 6 w ust. 1 pkt 7 otrzymuje brzmienie: „7) Agencji Bezpieczeństwa Wewnętrznego, Służbie Kontrwywiadu Wojskowego, Krajowej Administracji Skarbowej, Centralnemu Biuru Antykorupcyjnemu i Biuru Nadzoru Wewnętrznego, w zakresie, w jakim jest to konieczne dla wykonania nałożonych na nie zadań określonych w ustawie;”.
 
 **Art. 17.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2017 r. poz. 985, 1321 i 2405) wprowadza się następujące zmiany:
+
+- **1)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. Funkcjonariusze BOR oraz osoby powoływane na stanowiska, o których mowa w art. 6 ust. 3 i 4, a także mianowane na stanowisko dyrektora i zastępcy dyrektora komórki organizacyjnej oraz naczelnika, mogą zostać poddani weryfikacji, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ). Weryfikacja, o której mowa w zdaniu pierwszym, może być prowadzona także wobec funkcjonariuszy BOR oraz osób zajmujących te stanowiska.”;
+- **2)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. Szefowie komórek organizacyjnych BOR są obowiązani współdziałać z Biurem Nadzoru Wewnętrznego w zakresie realizacji jego zadań, w szczególności:
+- **1)** udostępniać, na wniosek Inspektora Nadzoru Wewnętrznego, niezbędne uzbrojenie, wyposażenie, urządzenia i środki techniczne;
+- **2)** zapewniać warunki niezbędne do sprawnej realizacji zadań przez inspektorów Biura Nadzoru Wewnętrznego, w szczególności przez zapewnienie swobodnego wstępu na teren komórki organizacyjnej BOR, niezwłocznego przedstawiania żądanych informacji i dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień, a także udostępnianie niezbędnych urządzeń technicznych i zapewnienie dostępu do Internetu oraz, w miarę możliwości, oddzielnego pomieszczenia z odpowiednim wyposażeniem;
+- **3)** przekazywać dane funkcjonariuszy BOR objętych weryfikacją, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, najpóźniej w terminie 14 dni przed planowanym: poz. 1948 oraz z 2017 r. poz. 2303),
+    - **a)** powołaniem na stanowiska szefów i ich zastępców, dyrektorów i zastępców dyrektorów komórek organizacyjnych oraz naczelników,
+    - **b)** oddelegowaniem do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem oddelegowania do pełnienia służby poza granicami państwa w celu realizacji zadań, o których mowa w art. 2 ust. 1 pkt 5,
+    - **c)** wystąpieniem o mianowanie na stopnie generała brygady i generała dywizji w BOR,
+    - **d)** wystąpieniem o przedterminowe mianowanie w korpusie oficerów BOR,
+    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2015 r. poz. 475 i 1266, z 2016 r.
+    - **f)** oddelegowaniem do wykonywania zadań w Biurze Nadzoru Wewnętrznego;
+
+- **4)** udostępniać dokumentację z kontroli, o której mowa w art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948, z 2017 r. poz. 935 oraz z 2018 r. poz. 106).”;
+- **3)** w art. 19 ust. 2 otrzymuje brzmienie: „2. Dane o osobach, o których mowa w ust. 1, mogą być udostępnione na żądanie prokuratora lub sądu, w razie uzasadnionego podejrzenia popełnienia przez te osoby przestępstwa ściganego z oskarżenia publicznego w związku z podejmowaniem działań, o których mowa w art. 12 ust. 1, oraz w przypadku ujawnienia przez te osoby faktu udzielania pomocy dla BOR w zakresie działań, o których mowa w art. 12 ust. 1. Udostępnienie tych danych następuje w trybie określonym w art. 19a.”;
+- **4)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Szef BOR może zezwalać:
+- **1)** byłym i obecnym funkcjonariuszom i pracownikom BOR,
+- **2)** osobom oddelegowanym do BOR, w zakresie zadań realizowanych w okresie oddelegowania,
+- **3)** osobom udzielającym funkcjonariuszom BOR pomocy w wykonywaniu zadań BOR – na udzielenie wiadomości stanowiącej informację niejawną uprawnionemu podmiotowi.
+
+2. Zezwolenie, o którym mowa w ust. 1, dotyczy również dokumentów i materiałów, które sąd okręgowy lub prokurator Biura Lustracyjnego lub oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu uzna za niezbędne w związku z wykonywaniem ich zadań określonych w ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186) oraz ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575 oraz z 2018 r. poz. 5).
+
+3. W razie odmowy zezwolenia na udzielenie wiadomości stanowiącej informację niejawną o klauzuli „tajne” lub „ściśle tajne” pomimo żądania prokuratora lub sądu, zgłoszonego w związku z postępowaniem karnym o zbrodnie przeciwko pokojowi, ludzkości i o przestępstwa wojenne lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu i zdrowiu, gdy jego następstwem była śmierć człowieka – Szef BOR, na wniosek prokuratora lub sądu, przedstawia żądane dokumenty i materiały oraz wyjaśnienia ministrowi właściwemu do spraw wewnętrznych. Jeżeli minister właściwy do spraw wewnętrznych stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest uzasadnione, Szef BOR jest obowiązany zezwolić na udostępnienie wnioskowanych informacji.
+
+4. W razie odmowy zezwolenia na udzielenie wiadomości stanowiącej informację niejawną przez ministra właściwego do spraw wewnętrznych stosuje się tryb określony w art. 9 ust. 3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.
+
+5. W przypadku Szefa BOR zezwolenia, o którym mowa w ust. 1, udziela minister właściwy do spraw wewnętrznych. Przepisy ust. 2 stosuje się odpowiednio.”;
+
+- **5)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. 1. Funkcjonariusz Policji, Straży Granicznej lub Państwowej Straży Pożarnej może być na własną prośbę przeniesiony do służby w BOR, jeżeli wykazuje predyspozycje do jej pełnienia.
+
+2. Funkcjonariusza, o którym mowa w ust. 1, do służby w BOR przenosi minister właściwy do spraw wewnętrznych, z uwzględnieniem stanowiska Szefa BOR i odpowiednio Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej albo Komendanta Głównego Państwowej Straży Pożarnej.
+
+3. Funkcjonariusz Policji, Straży Granicznej lub Państwowej Straży Pożarnej, przeniesiony do służby w BOR zachowuje ciągłość służby.
+
+4. Funkcjonariuszowi przenoszonemu w trybie, o którym mowa w ust. 1, nie przysługuje odprawa ani inne należności przewidziane dla funkcjonariuszy odchodzących ze służby.
+
+5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy sposób i tryb prowadzenia postępowania w stosunku do funkcjonariuszy, o których mowa w ust. 1, równorzędność okresów służby i stażu, należności oraz uzyskanych w dotychczasowych jednostkach kwalifikacji zawodowych z obowiązującymi w BOR.”;
+
+- **6)** w art. 31:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Szef BOR może oddelegować funkcjonariusza, za jego zgodą, do pełnienia zadań służbowych poza BOR.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Oddelegowanie funkcjonariusza do wykonywania zadań w Biurze Nadzoru Wewnętrznego następuje na zasadach określonych w ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych. W zakresie nieuregulowanym stosuje się odpowiednio przepisy art. 31a–31k.”,
+    - **c)** uchyla się ust. 4;
+
+- **7)** po art. 31 dodaje się art. 31a–31k w brzmieniu: „Art. 31a. 1. Z wnioskiem o oddelegowanie funkcjonariusza do pełnienia zadań służbowych poza BOR mogą wystąpić kierownicy urzędów, jednostek organizacyjnych lub służb, do których funkcjonariusz ma zostać oddelegowany.
+
+2. Wniosek, o którym mowa w ust. 1, powinien określać nazwę urzędu, jednostki organizacyjnej lub służby, stanowisko służbowe wyznaczone dla funkcjonariusza, kwalifikacje zawodowe wymagane do zajmowania tego stanowiska oraz zakres wykonywanych na tym stanowisku zadań i obowiązków.
+
+3. Szef BOR może odmówić uwzględnienia wniosku, o którym mowa w ust. 1, jeżeli jest to uzasadnione potrzebami BOR, z wyjątkiem oddelegowania do Biura Nadzoru Wewnętrznego.
 
 **Art. 31b.**
 
@@ -992,6 +1315,10 @@ source: "isap-pdf"
 **Art. 31d.** W razie uwzględnienia wniosku, o którym mowa w art. 31a ust. 1, Szef BOR zalicza do celów związanych z pełnieniem służby w BOR oraz obliczania uposażenia i innych należności pieniężnych funkcjonariuszy stanowisko służbowe określone we wniosku do odpowiedniej grupy uposażenia zasadniczego funkcjonariuszy oraz ustala etatowy stopień, do którego zaszeregowuje to stanowisko, stosownie do zaszeregowania stanowisk służbowych do grup uposażenia zasadniczego.
 
 **Art. 31e.** Rozkaz personalny o oddelegowaniu funkcjonariusza powinien zawierać:
+
+- **1)** datę przeniesienia funkcjonariusza oraz wysokość przysługującego funkcjonariuszowi uposażenia przyznanego przez Szefa BOR;
+- **2)** nazwę urzędu, jednostki organizacyjnej lub służby, do którego następuje oddelegowanie;
+- **3)** określenie stanowiska przeznaczonego dla funkcjonariusza ze wskazaniem składników uposażenia ustalonych zgodnie z art. 31d.
 
 **Art. 31f.**
 
@@ -1061,13 +1388,24 @@ source: "isap-pdf"
 
 **Art. 24.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948 oraz z 2017 r. poz. 935) wprowadza się następujące zmiany:
 
+- **1)** w art. 23 w ust. 3 pkt 1 otrzymuje brzmienie: „1) Szefa SKW, Szefa Agencji Wywiadu, zwanej dalej „AW”, Szefa CBA, Szefa Biura Ochrony Rządu, Komendanta Głównego Policji, Dyrektora Generalnego Służby Więziennej, Komendanta Głównego Straży Granicznej, Inspektora Nadzoru Wewnętrznego oraz osób przewidzianych na te stanowiska;”;
+- **2)** w art. 72 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) Inspektorowi Nadzoru Wewnętrznego w celu realizacji zadania określonego w art. 11a ust. 3 pkt 9 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ).”.
+
 **Art. 25.** W ustawie z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej (Dz. U. poz. 1371, z 2013 r. poz. 1650, z 2014 r. poz. 1199 oraz z 2016 r. poz. 1948) w art. 1 w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) Biuro Nadzoru Wewnętrznego;”.
 
 **Art. 26.** W ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481) w art. 82 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Operator pocztowy, począwszy od dnia rozpoczęcia działalności pocztowej, jest obowiązany do nieodpłatnego zapewnienia, w ramach wykonywanej przez siebie działalności pocztowej, technicznych i organizacyjnych możliwości wykonywania przez Policję, Biuro Nadzoru Wewnętrznego, Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego, Służbę Kontrwywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne i Krajową Administrację Skarbową, zwane dalej „uprawnionymi podmiotami”, oraz prokuraturę i sądy, ich zadań określonych odrębnymi przepisami, wymagających:”.
 
 **Art. 27.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2017 r. poz. 1120) w art. 35 w ust. 4:
 
+- **1)** w pkt 1 lit. c otrzymuje brzmienie: „c) wobec użycia lub wykorzystania środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 8 lub pkt 12 lit. b–d, Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, właściwy miejscowo komendant wojewódzki (Stołeczny) Policji albo osoby przez nich upoważnione;”;
+- **2)** pkt 2 otrzymuje brzmienie: „2) Straży Granicznej – Komendant Główny Straży Granicznej, Komendant Biura Spraw Wewnętrznych Straży Granicznej, właściwy miejscowo komendant oddziału Straży Granicznej, komendant dywizjonu Straży Granicznej, komendant placówki Straży Granicznej albo osoby przez nich upoważnione, a w razie ich nieobecności – dyżurny operacyjny lub kierownik zmiany;”.
+
 **Art. 28.** W ustawie z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. poz. 616 i 1199 oraz z 2017 r. poz. 1321) w art. 34 w ust. 2:
+
+- **1)** w pkt 6 lit. a otrzymuje brzmienie: „a) dyrektorów biur (równorzędnych) Komendy Głównej Policji i ich zastępców, Komendanta Centralnego Biura Śledczego Policji i jego zastępców, Komendanta Biura Spraw Wewnętrznych Policji i jego zastępców, komendantów wojewódzkich (Stołecznego) Policji i ich zastępców, Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie, Zastępcy Komendanta-Prorektora Wyższej Szkoły Policji w Szczytnie, Kanclerza Wyższej Szkoły Policji w Szczytnie, komendantów szkół policyjnych i ich zastępców oraz dyrektora instytutu badawczego Policji i jego zastępców, a także członków ich rodzin,”;
+- **2)** po pkt 6a dodaje się pkt 6b w brzmieniu: „6b) Komendant Biura Spraw Wewnętrznych Policji w stosunku do funkcjonariuszy pełniących służbę w Biurze Spraw Wewnętrznych Policji oraz członków ich rodzin;”;
+- **3)** w pkt 10 lit. a otrzymuje brzmienie: „a) dyrektorów komórek organizacyjnych Komendy Głównej Straży Granicznej i ich zastępców, Komendanta Biura Spraw Wewnętrznych Straży Granicznej i jego zastępców, komendantów oddziałów Straży Granicznej i ich zastępców, komendantów ośrodków szkolenia Straży Granicznej i ich zastępców, komendantów ośrodków Straży Granicznej i ich zastępców oraz członków ich rodzin,”;
+- **4)** po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) Komendant Biura Spraw Wewnętrznych Straży Granicznej w stosunku do funkcjonariuszy pełniących służbę w Biurze Spraw Wewnętrznych Straży Granicznej oraz członków ich rodzin;”.
 
 **Art. 29.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2017 r. poz. 1170, 1089, 1926, 2102 i 2486 oraz z 2018 r. poz. 8) w art. 35 w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) Inspektora Nadzoru Wewnętrznego, o ile są niezbędne na potrzeby wykonywania czynności operacyjno-rozpoznawczych, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. );”.
 

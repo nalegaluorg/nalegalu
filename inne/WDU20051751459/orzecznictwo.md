@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości*
 
 Łącznie: **38** orzeczeń
-(pominięto 19 orzeczeń sądów rejonowych)
+(pominięto 20 orzeczeń sądów rejonowych)
 
 ## art. 1 (11)
 

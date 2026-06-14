@@ -8,7 +8,7 @@ pos: 1584
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Krajowym Rejestrze Zadłużonych
@@ -102,9 +102,36 @@ source: "isap-pdf"
 
 **Art. 6.** Informacje, o których mowa w art. 2 ust. 1 pkt 2, obejmują następujące dane:
 
+- **1)** imię i nazwisko albo nazwę;
+- **2)** miejsce zamieszkania albo siedzibę;
+- **3)** numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację, o których mowa w art. 5 ust. 1 pkt 5;
+- **4)** informację o prawomocnym oddaleniu wniosku o ogłoszenie upadłości spółki na podstawie art. 13 ust. 1 lub 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe;
+- **5)** informację o ogłoszeniu upadłości spółki lub wszczęciu wtórnego postępowania upadłościowego wobec spółki;
+- **6)** informację o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego wobec spółki i przebiegu postępowania po uznaniu, w tym informację o zmianie lub uchyleniu postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego;
+- **7)** informację o umorzeniu, zakończeniu lub uchyleniu postępowania upadłościowego wobec spółki.
+
 **Art. 7.** Informacje, o których mowa w art. 2 ust. 1 pkt 3, obejmują następujące dane:
 
+- **1)** imię i nazwisko albo nazwę;
+- **2)** firmę;
+- **3)** siedzibę osoby prawnej albo jednostki organizacyjnej niebędącej osobą prawną, której ustawa przyznaje zdolność prawną;
+- **4)** numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację, o których mowa w art. 5 ust. 1 pkt 5;
+- **5)** NIP, jeżeli osoba albo jednostka organizacyjna ma taki numer;
+- **6)** datę umorzenia postępowania egzekucyjnego prowadzonego przez komornika lub sąd albo naczelnika urzędu skarbowego albo dyrektora oddziału Zakładu Ubezpieczeń Społecznych;
+- **7)** sygnaturę akt sprawy;
+- **8)** nazwę sądu lub organu, który wydał orzeczenie o umorzeniu postępowania egzekucyjnego prowadzonego przez komornika lub sąd albo naczelnika urzędu skarbowego albo dyrektora oddziału Zakładu Ubezpieczeń Społecznych;
+- **9)** kwotę lub sumę kwot wierzytelności niewyegzekwowanych w postępowaniu egzekucyjnym prowadzonym przez komornika lub sąd albo naczelnika urzędu skarbowego albo dyrektora oddziału Zakładu Ubezpieczeń Społecznych;
+- **10)** wskazanie tytułu wykonawczego.
+
 **Art. 8.** Informacje, o których mowa w art. 2 ust. 1 pkt 4, obejmują następujące dane:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL, a w przypadku jego braku – inne dane umożliwiające jednoznaczną identyfikację, o których mowa w art. 5 ust. 1 pkt 5;
+- **3)** wskazanie tytułu wykonawczego albo podstawy prawnej powstania należności;
+- **4)** sygnaturę akt sprawy;
+- **5)** rodzaj wierzytelności;
+- **6)** datę ukończenia postępowania egzekucyjnego;
+- **7)** datę spłaty całości wierzytelności w przypadku ich zgłoszenia przez organ, który wypłacił świadczenia przyznawane w przypadku bezskuteczności egzekucji alimentów.
 
 **Art. 9.**
 
@@ -234,4 +261,10 @@ source: "isap-pdf"
 3. Minister Sprawiedliwości monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz odpowiada za wdrożenie mechanizmu korygującego, o którym mowa w ust. 2.
 
 **Art. 36.** Ustawa wchodzi w życie z dniem 1 grudnia 2021 r., z wyjątkiem:
+
+- **1)** art. 16 pkt 2 lit. a, c i d w zakresie dodawanego ust. 7a oraz art. 25 pkt 7 i 10 oraz art. 33, które wchodzą w życie z dniem następującym po dniu ogłoszenia ;
+- **2)** art. 16 pkt 1, art. 19 pkt 1, pkt 10 lit. b i pkt 15, art. 24 pkt 38 lit. a i pkt 40 lit. c oraz art. 29, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
+- **3)** art. 25 pkt 2, 4, 6, 8, 9 i 11–13, które wchodzą w życie z dniem 1 lutego 2019 r.;
+- **4)** art. 16 pkt 2 lit. b i d w zakresie dodawanego ust. 7b, które wchodzą w życie z dniem 1 kwietnia 2019 r.
+
 

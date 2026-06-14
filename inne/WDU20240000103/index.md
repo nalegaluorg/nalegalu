@@ -8,10 +8,10 @@ pos: 103
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 29 stycznia 2024 Poz. 103 OBWIESZCZENIE MINISTRA ZDROWIA 25 stycznia 2024 sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia sprawie skierowań wystawianych postaci elektronicznej Systemie Informacji Medycznej
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 103 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 25 stycznia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,20 +25,24 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000103) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/103/text.pdf) |
 
-1. Na podstawie 16 ust. 3 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia 15 kwietnia 2019 sprawie skierowań wystawianych postaci elektronicznej Systemie Informacji Medycznej (Dz. U. 2022 poz. 1417), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia 2 stycznia 2023 zmieniającym rozporządzenie sprawie skierowań wystawianych postaci elektronicznej Systemie Informacji Medycznej (Dz. U. poz. 398).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia 2 stycznia 2023 zmieniającego rozporządzenie sprawie skierowań wystawianych postaci elektronicznej Systemie Informacji Medycznej (Dz. U. poz. 398), które stanowią: „§ 2. Do 30 czerwca 2023 skierowania na leczenie uzdrowiskowe albo uzdrowiskową, których 33 ust. 1 środków publicznych, mogą być wystawiane na dotychczasowych zasadach.
-§ 3. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Minister Zdrowia: wz. W. Konieczny Dziennik Ustaw – 2 – Poz. 103 ROZPORZĄDZENIE MINISTRA ZDROWIA 15 kwietnia 2019 sprawie skierowań wystawianych postaci elektronicznej Systemie Informacji Medycznej Na podstawie 59aa ust. 2 środków publicznych (Dz. U. 2022 poz. 2561, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa wykaz świadczeń zdrowotnej, dla których skierowania są wystawiane postaci elektronicznej Systemie Informacji Medycznej, którym 5 ust. 1 pkt 1 28 kwietnia 2011 systemie informacji ochronie zdrowia (Dz. U. 2023 poz. 2465).
-§ 2. Skierowania, których § 1, są wystawiane na:
-1) ambulatoryjne świadczenia specjalistyczne finansowane środków publicznych, których 57 ust. 1 środków publicznych, wyłączeniem porady specjalistycznej – logopedia, której przepisach wydanych na podstawie 31d tej ustawy;
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 15 kwietnia 2019 r. w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej (Dz. U. z 2022 r. poz. 1417), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 2 stycznia 2023 r. zmieniającym rozporządzenie w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej (Dz. U. poz. 398).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 2 stycznia 2023 r. zmieniającego rozporządzenie w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej (Dz. U. poz. 398), które stanowią: „§ 2. Do dnia 30 czerwca 2023 r. skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, mogą być wystawiane na dotychczasowych zasadach.
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Zdrowia: wz. W. Konieczny ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 15 kwietnia 2019 r.
+w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej Na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wykaz świadczeń opieki zdrowotnej, dla których skierowania są wystawiane w postaci elektronicznej w Systemie Informacji Medycznej, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 28 kwietnia 2011 r.
+o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465).
+§ 2. Skierowania, o których mowa w § 1, są wystawiane na:
+1) ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych, o których mowa w art. 57 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem porady specjalistycznej – logopedia, o której mowa w przepisach wydanych na podstawie art. 31d tej ustawy;
 2) badania:
-a) echokardiograficzne płodu finansowane środków publicznych,
-b) endoskopowe przewodu pokarmowego finansowane środków publicznych,
-c) medycyny nuklearnej finansowane środków publicznych oraz środków innych niż środki publiczne,
-d) rezonansu magnetycznego finansowane środków publicznych,
-e) tomografii komputerowej finansowane środków publicznych oraz środków innych niż środki publiczne;
-3) leczenie szpitalne szpitalu, który zawarł umowę udzielanie świadczeń zdrowotnej, którym 58 środków publicznych;
-4) leczniczą u świadczeniodawcy, który zawarł umowę udzielanie świadczeń zdrowotnej, której 59 środków publicznych;
-5) leczenie uzdrowiskowe albo uzdrowiskową, których 33 ust. 1 środków publicznych, wyłączeniem przypadku, gdy świadczenie ma być zrealizowane przez podmioty udzielające świadczeń zdrowotnych zakresu lecznictwa uzdrowiskowego poza granicami kraju.
-§ 3. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia .
+a) echokardiograficzne płodu finansowane ze środków publicznych,
+b) endoskopowe przewodu pokarmowego finansowane ze środków publicznych,
+c) medycyny nuklearnej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne,
+d) rezonansu magnetycznego finansowane ze środków publicznych,
+e) tomografii komputerowej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne;
+3) leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+4) rehabilitację leczniczą u świadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 59 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+5) leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem przypadku, gdy świadczenie ma być zrealizowane przez podmioty udzielające świadczeń zdrowotnych z zakresu lecznictwa uzdrowiskowego poza granicami kraju.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

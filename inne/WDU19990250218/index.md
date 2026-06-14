@@ -8,7 +8,7 @@ pos: 218
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie Polskiej Klasyfikacji Statystycznej Dotyczącej Działalności i Urządzeń Związanych z Ochroną Środowiska.
@@ -25,7 +25,8 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990250218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/218/text.pdf) |
 
 Na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz.U.
-Nr 88, poz. 439, z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769 oraz z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668) zarządza się, co następuje: § 1.
+Nr 88, poz. 439, z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769 oraz z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668) zarządza się, co następuje:
+§ 1.
 Wprowadza się Polską Klasyfikacje Statystyczną Dotyczącą Działalności i Urządzeń Związanych z Ochroną Środowiska, stanowiącą załącznik do rozporządzenia.
 § 2.
 Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
@@ -47,116 +48,109 @@ W sprawozdawczości dotyczącej wydajności urządzeń do unieszkodliwiania odpa
 Wszystkie wydatki związane z działalnością badawczo-rozwojową powinny być oparte na NABS (Nomenklatura do Analizy i Porównań Programów i Budżetu Naukowego, 1993 r.).
 Chociaż klasyfikacja przeznaczona jest przede wszystkim do zbierania i kompilowania danych w skali całego kraju, można ją również stosować do zbierania danych dotyczących poszczególnych terytorialnych jednostek administracyjnych.
 * * * Prezentowana klasyfikacja, oprócz przedmowy, objaśnień wstępnych, schematu i części zawierającej definicje pojęć, zawiera dodatkowo schemat klasyfikacji w angielskiej wersji językowej do obowiązkowego wykorzystania (w zakresie kodów i nazw) przy przekazywaniu informacji i danych do organizacji międzynarodowych.
-SCHEMAT Część I: Rodzaje działalności związane z ochroną środowiska Opis 1 2 3
-1.1
-1.2
-1.3
-1.4
-2.1
-2.2
-2.3
-2.4
-2.5
-2.6
-3.1
-3.2
-3.3
-1.1.1
-1.1.2
-1.2.1
-1.2.2
-3.3.1
-3.3.2
-3.3.3
-3.2.0.A Ochrona powietrza atmosferycznego i klimatu Zapobieganie zanieczyszczeniom poprzez
-3.3.1.A modyfikację procesów technologicznych i zwiększenie efektywności wykorzystania energii W zakresie ochrony powietrza atmosferycznego W zakresie ochrony klimatu i warstwy ozonowej Redukcja zanieczyszczeń pyłowych i gazów odlotowych W zakresie ochrony powietrza atmosferycznego W zakresie ochrony klimatu i warstwy ozonowej Pomiary, kontrola, działalność laboratoriów itp.
-Inne rodzaje działalności w zakresie ochrony powietrza atmosferycznego i klimatu Gospodarka ściekowa i ochrona wód Zapobieganie zanieczyszczeniom poprzez modyfikację procesów technologicznych Sieć kanalizacyjna Oczyszczanie ścieków Oczyszczanie wód chłodniczych Pomiary, kontrola, działalność laboratoriów itp.
-Pozostałe rodzaje działalności w zakresie gospodarki ściekowej i ochrony wód Gospodarka odpadami Zapobieganie zanieczyszczeniom poprzez modyfikację procesów technologicznych Zbieranie i transport Selektywne zbieranie Unieszkodliwianie i usuwanie odpadów niebezpiecznych Spalanie Termiczne przekształcanie Składowanie Pozostałe metody unieszkodliwiania i usuwania odpadów niebezpiecznych 4 5 6 7
-3.4
-3.5
-3.6
-4.1
-4.2
-4.3
-4.4
-5.1
-5.2
-5.3
-5.4
-5.5
-6.1
-6.2
-6.3
-6.4
-6.5
-6.6
-3.4.1
-3.4.2
-3.4.3
-7.1
-7.2
-7.3
-5.1.1
-5.1.2
-5.2.1
-5.2.2
-6.2.1
-3.4.1.A Unieszkodliwianie i usuwanie odpadów innych niż niebezpiecznych Spalanie Termiczne przekształcanie Składowanie Pozostałe metody unieszkodliwiania i usuwania odpadów innych niż niebezpieczne Pomiary, kontrola, działalność laboratoriów itp.
-Pozostałe rodzaje działalności związane z gospodarką odpadami Ochrona gleby i wód podziemnych Zapobieganie infiltracji zanieczyszczeń Neutralizacja skażeń gleby Pomiary, kontrola, działalność laboratoriów itp.
-Pozostałe rodzaje działalności związane z ochroną gleby i wód podziemnych Zmniejszanie hałasu i wibracji (z wyłączeniem ochrony miejsc pracy) Zmniejszenie hałasu i wibracji powodowanych przez ruchu drogowy i kolejowy Ochrona poprzez modyfikacje źródeł hałasu/wibracji Budowa urządzeń chroniących przed hałasem/wibracją Zmniejszanie hałasu i wibracji powodowanych ruchem lotniczym Ochrona poprzez modyfikację źródeł hałasu/wibracji Budowa urządzeń chroniących przed hałasem/wibracją Zmniejszanie hałasu i wibracji powodowanych procesami przemysłowymi Pomiary, kontrola, działalność laboratoriów itp.
-Pozostałe rodzaje działalności związane ze zmniejszaniem hałasu i wibracji Ochrona różnorodności biologicznej i krajobrazu Ochrona gatunków Ochrona krajobrazu i siedlisk Ochrona lasów Odbudowa gatunków i krajobrazu Odnowa i oczyszczanie zasobów wód Pomiary, kontrola, działalność laboratoriów itp.
-Pozostałe rodzaje działalności związane z ochroną różnorodności biologicznej i krajobrazu Ochrona przed promieniowaniem jonizującym (z wyłączeniem elektrowni jądrowych i obiektów wojskowych) Ochrona środowiska Pomiary, kontrola, działalność laboratoriów itp.
-Pozostałe rodzaje działalności związane z ochroną przed promieniowaniem jonizującym 8 9
-8.1
-8.2
-8.3
-8.4
-8.5
-8.6
-8.7
-8.8
-9.1
-9.2
-9.3
-8.1.1
-8.1.2
-9.4 Działalność badawczo-rozwojowa Ochrona powietrza atmosferycznego i klimatu Ochrona powietrza atmosferycznego Ochrona klimatu Ochrona wód Ochrona przed odpadami Ochrona gleby i wód podziemnych Zmniejszanie hałasu i wibracji Ochrona gatunków i siedlisk Ochrona przed promieniowaniem Pozostała działalność badawczo-rozwojowa związana ze środowiskiem Pozostała działalność związana z ochroną środowiska Zarządzanie środowiskiem Działalność naukowa, szkoleniowa i informacyjna Rodzaje działalności nie identyfikowane na poziomie „grupa” klasyfikacji, prowadzące do niepodzielnych wydatków Rodzaje działalności gdzie indziej nie sklasyfikowane Uwagi: Odnośnie do danych dotyczących wydatków związanych z działalnością charakterystyczną w zakresie ochrony środowiska, zbieranych na potrzeby porównań międzynarodowych, zaleca się podawać: inwestycje - dla wszystkich pozycji, wydatki bieżące - dla poziomu jednocyfrowego, wydatki ogółem - dla poziomu jednocyfrowego, poniesione przez: - władze centralne, - przemysł (z wyłączeniem władz centralnych) - gospodarstwa domowe.
-1.1
-1.2
-1.2.1
-1.2.2 Ochrona powietrza atmosferycznego i klimatu Urządzenia odpylające i urządzenia do redukcji gazów odlotowych (zakłady przemysłowe wyposażone w urządzenia do redukcji gazów odlotowych – procentowy udział wg EKO/PKD dla 2- cyfrowego poziomu kategorii; procentowy udział elektrowni cieplnych) Urządzenia do monitoringu powietrza (liczba punktów pomiarowych według rodzaju kontrolowanego zanieczyszczenia; liczba punktów w ciągu roku; liczba urządzeń ruchomych) Stacjonarne zlokalizowane na terenie zabudowanym Stacjonarne zlokalizowane na terenie otwartym 2 3 4
-2.1
-2.2
-2.3
-3.1 5
-3.2
-3.3
-4.1
-4.2
-1.2.3
-2.2.1
-2.2.2
-2.2.3
-2.2.4
-5.1
-3.1.1
-3.1.2
-3.1.3
-3.1.4
-3.1.5
-3.2.1
-3.2.2
-3.2.3
-3.2.4
-3.2.5
-3.3.1
-3.3.2
-3.3.3
-3.3.4
-4.1.1
-4.1.2
-4.1.3
-4.1.4 Ruchome Gospodarka ściekowa i ochrona wód Sieć kanalizacyjna (w kilometrach) Oczyszczalnie ścieków (liczba, przepustowość w przeliczeniu na liczbę równoważnych mieszkańców) Mechaniczne Biologiczne (z wyjątkiem komór fermentacyjnych) Oczyszczalnie o podwyższonym stopniu oczyszczania (w tym chemiczne) Komory fermentacyjne Urządzenia do monitoringu w zakresie gospodarki ściekowej i ochrony wód (liczba punktów pomiarowych; liczba urządzeń ruchomych; liczba pomiarów w ciągu roku i liczba pomiarów według rodzaju kontrolowanej wody) Gospodarka odpadami Urządzenia do unieszkodliwiania odpadów niebezpiecznych (liczba; wydajność unieszkodliwiania w ujęciu wagowym w ciągu roku, według rodzajów odpadów) Unieszkodliwianie fizykochemiczne Unieszkodliwianie poprzez przekształcanie termiczne Unieszkodliwianie biologiczne Kondycjonowanie odpadów promieniotwórczych Inne metody unieszkodliwiania odpadów Urządzenia do unieszkodliwiania odpadów innych niż niebezpieczne (liczba; wydajność unieszkodliwiania w ujęciu wagowym w ciągu roku, według rodzajów odpadów) Unieszkodliwianie fizykochemiczne Spalanie odpadów komunalnych lub podobnych Spalanie odpadów przemysłowych Unieszkodliwianie biologiczne Inne metody unieszkodliwiania odpadów Urządzenia do usuwania odpadów (liczba) Składowiska dla wszystkich rodzajów odpadów Składowiska tylko dla odpadów niebezpiecznych Składowiska specjalnie zabezpieczone/podziemne Inne rodzaje urządzeń do usuwania odpadów Ochrona gleby i wód podziemnych Urządzenia „końca rury” (liczba) Uszczelnianie gruntu łącznie z rowami i wałami, systemy odwadniające Zbiorniki dla odpływów, strat, przecieków wód podziemnych Udoskonalanie magazynów podziemnych i urządzeń transportowych w celu ochrony wód podziemnych i gleby Usuwanie magazynów podziemnych i urządzeń transportowych w celu ochrony wód podziemnych i gleby Transport cysternowy, zabezpieczenie systemów transportowych dla produktów niebezpiecznych oraz inne urządzenia zintegrowane (liczba) Zmniejszenie hałasu Bariery przeciw hałasowi: drogowemu, szynowemu i lotniczemu (w kilometrach)
+SCHEMAT Część I: Rodzaje działalności związane z ochroną środowiska Opis 1 Ochrona powietrza atmosferycznego i klimatu
+1.1 Zapobieganie zanieczyszczeniom poprzez modyfikację procesów technologicznych i zwiększenie efektywności wykorzystania energii
+1.1.1 W zakresie ochrony powietrza atmosferycznego
+1.1.2 W zakresie ochrony klimatu i warstwy ozonowej
+1.2 Redukcja zanieczyszczeń pyłowych i gazów odlotowych
+1.2.1 W zakresie ochrony powietrza atmosferycznego
+1.2.2 W zakresie ochrony klimatu i warstwy ozonowej
+1.3 Pomiary, kontrola, działalność laboratoriów itp.
+1.4 Inne rodzaje działalności w zakresie ochrony powietrza atmosferycznego i klimatu 2 Gospodarka ściekowa i ochrona wód
+2.1 Zapobieganie zanieczyszczeniom poprzez modyfikację procesów technologicznych
+2.2 Sieć kanalizacyjna
+2.3 Oczyszczanie ścieków
+2.4 Oczyszczanie wód chłodniczych
+2.5 Pomiary, kontrola, działalność laboratoriów itp.
+2.6 Pozostałe rodzaje działalności w zakresie gospodarki ściekowej i ochrony wód 3 Gospodarka odpadami
+3.1 Zapobieganie zanieczyszczeniom poprzez modyfikację procesów technologicznych
+3.2 Zbieranie i transport
+3.2.0.A Selektywne zbieranie
+3.3 Unieszkodliwianie i usuwanie odpadów niebezpiecznych
+3.3.1 Spalanie
+3.3.1.A Termiczne przekształcanie
+3.3.2 Składowanie
+3.3.3 Pozostałe metody unieszkodliwiania i usuwania odpadów niebezpiecznych
+3.4 Unieszkodliwianie i usuwanie odpadów innych niż niebezpiecznych
+3.4.1 Spalanie
+3.4.1.A Termiczne przekształcanie
+3.4.2 Składowanie
+3.4.3 Pozostałe metody unieszkodliwiania i usuwania odpadów innych niż niebezpieczne
+3.5 Pomiary, kontrola, działalność laboratoriów itp.
+3.6 Pozostałe rodzaje działalności związane z gospodarką odpadami 4 Ochrona gleby i wód podziemnych
+4.1 Zapobieganie infiltracji zanieczyszczeń
+4.2 Neutralizacja skażeń gleby
+4.3 Pomiary, kontrola, działalność laboratoriów itp.
+4.4 Pozostałe rodzaje działalności związane z ochroną gleby i wód podziemnych 5 Zmniejszanie hałasu i wibracji (z wyłączeniem ochrony miejsc pracy)
+5.1 Zmniejszenie hałasu i wibracji powodowanych przez ruchu drogowy i kolejowy
+5.1.1 Ochrona poprzez modyfikacje źródeł hałasu/wibracji
+5.1.2 Budowa urządzeń chroniących przed hałasem/wibracją
+5.2 Zmniejszanie hałasu i wibracji powodowanych ruchem lotniczym
+5.2.1 Ochrona poprzez modyfikację źródeł hałasu/wibracji
+5.2.2 Budowa urządzeń chroniących przed hałasem/wibracją
+5.3 Zmniejszanie hałasu i wibracji powodowanych procesami przemysłowymi
+5.4 Pomiary, kontrola, działalność laboratoriów itp.
+5.5 Pozostałe rodzaje działalności związane ze zmniejszaniem hałasu i wibracji 6 Ochrona różnorodności biologicznej i krajobrazu
+6.1 Ochrona gatunków
+6.2 Ochrona krajobrazu i siedlisk
+6.2.1 Ochrona lasów
+6.3 Odbudowa gatunków i krajobrazu
+6.4 Odnowa i oczyszczanie zasobów wód
+6.5 Pomiary, kontrola, działalność laboratoriów itp.
+6.6 Pozostałe rodzaje działalności związane z ochroną różnorodności biologicznej i krajobrazu 7 Ochrona przed promieniowaniem jonizującym (z wyłączeniem elektrowni jądrowych i obiektów wojskowych)
+7.1 Ochrona środowiska
+7.2 Pomiary, kontrola, działalność laboratoriów itp.
+7.3 Pozostałe rodzaje działalności związane z ochroną przed promieniowaniem jonizującym 8 Działalność badawczo-rozwojowa
+8.1 Ochrona powietrza atmosferycznego i klimatu
+8.1.1 Ochrona powietrza atmosferycznego
+8.1.2 Ochrona klimatu
+8.2 Ochrona wód
+8.3 Ochrona przed odpadami
+8.4 Ochrona gleby i wód podziemnych
+8.5 Zmniejszanie hałasu i wibracji
+8.6 Ochrona gatunków i siedlisk
+8.7 Ochrona przed promieniowaniem
+8.8 Pozostała działalność badawczo-rozwojowa związana ze środowiskiem 9 Pozostała działalność związana z ochroną środowiska
+9.1 Zarządzanie środowiskiem
+9.2 Działalność naukowa, szkoleniowa i informacyjna
+9.3 Rodzaje działalności nie identyfikowane na poziomie „grupa” klasyfikacji, prowadzące do niepodzielnych wydatków
+9.4 Rodzaje działalności gdzie indziej nie sklasyfikowane Uwagi: Odnośnie do danych dotyczących wydatków związanych z działalnością charakterystyczną w zakresie ochrony środowiska, zbieranych na potrzeby porównań międzynarodowych, zaleca się podawać: inwestycje - dla wszystkich pozycji, wydatki bieżące - dla poziomu jednocyfrowego, wydatki ogółem - dla poziomu jednocyfrowego, poniesione przez: - władze centralne, - przemysł (z wyłączeniem władz centralnych) - gospodarstwa domowe.
+1.1 Urządzenia odpylające i urządzenia do redukcji gazów odlotowych (zakłady przemysłowe wyposażone w urządzenia do redukcji gazów odlotowych – procentowy udział wg EKO/PKD dla 2- cyfrowego poziomu kategorii; procentowy udział elektrowni cieplnych)
+1.2 Urządzenia do monitoringu powietrza (liczba punktów pomiarowych według rodzaju kontrolowanego zanieczyszczenia; liczba punktów w ciągu roku; liczba urządzeń ruchomych)
+1.2.1 Stacjonarne zlokalizowane na terenie zabudowanym
+1.2.2 Stacjonarne zlokalizowane na terenie otwartym
+1.2.3 Ruchome 2 Gospodarka ściekowa i ochrona wód
+2.1 Sieć kanalizacyjna (w kilometrach)
+2.2 Oczyszczalnie ścieków (liczba, przepustowość w przeliczeniu na liczbę równoważnych mieszkańców)
+2.2.1 Mechaniczne
+2.2.2 Biologiczne (z wyjątkiem komór fermentacyjnych)
+2.2.3 Oczyszczalnie o podwyższonym stopniu oczyszczania (w tym chemiczne)
+2.2.4 Komory fermentacyjne
+2.3 Urządzenia do monitoringu w zakresie gospodarki ściekowej i ochrony wód (liczba punktów pomiarowych; liczba urządzeń ruchomych; liczba pomiarów w ciągu roku i liczba pomiarów według rodzaju kontrolowanej wody) 3 Gospodarka odpadami
+3.1 Urządzenia do unieszkodliwiania odpadów niebezpiecznych (liczba; wydajność unieszkodliwiania w ujęciu wagowym w ciągu roku, według rodzajów odpadów)
+3.1.1 Unieszkodliwianie fizykochemiczne
+3.1.2 Unieszkodliwianie poprzez przekształcanie termiczne
+3.1.3 Unieszkodliwianie biologiczne
+3.1.4 Kondycjonowanie odpadów promieniotwórczych
+3.1.5 Inne metody unieszkodliwiania odpadów
+3.2 Urządzenia do unieszkodliwiania odpadów innych niż niebezpieczne (liczba; wydajność unieszkodliwiania w ujęciu wagowym w ciągu roku, według rodzajów odpadów)
+3.2.1 Unieszkodliwianie fizykochemiczne
+3.2.2 Spalanie odpadów komunalnych lub podobnych
+3.2.3 Spalanie odpadów przemysłowych
+3.2.4 Unieszkodliwianie biologiczne
+3.2.5 Inne metody unieszkodliwiania odpadów
+3.3 Urządzenia do usuwania odpadów (liczba)
+3.3.1 Składowiska dla wszystkich rodzajów odpadów
+3.3.2 Składowiska tylko dla odpadów niebezpiecznych
+3.3.3 Składowiska specjalnie zabezpieczone/podziemne
+3.3.4 Inne rodzaje urządzeń do usuwania odpadów 4 Ochrona gleby i wód podziemnych
+4.1 Urządzenia „końca rury” (liczba)
+4.1.1 Uszczelnianie gruntu łącznie z rowami i wałami, systemy odwadniające
+4.1.2 Zbiorniki dla odpływów, strat, przecieków wód podziemnych
+4.1.3 Udoskonalanie magazynów podziemnych i urządzeń transportowych w celu ochrony wód podziemnych i gleby
+4.1.4 Usuwanie magazynów podziemnych i urządzeń transportowych w celu ochrony wód podziemnych i gleby
+4.2 Transport cysternowy, zabezpieczenie systemów transportowych dla produktów niebezpiecznych oraz inne urządzenia zintegrowane (liczba) 5 Zmniejszenie hałasu
+5.1 Bariery przeciw hałasowi: drogowemu, szynowemu i lotniczemu (w kilometrach)
 5.2 Urządzenia do monitoringu w zakresie zmniejszania hałasu (liczba punktów i urządzeń pomiarowych) Uwagi:
 a) Dane fizyczne o urządzeniach powinny być podawane w określonych (typowe dla nich) parametrach i jednostkach
 b) W przypadku stosowania klasyfikacji do zbierania danych międzynarodowych dotyczących wydatków, zaleca się podawać dane o urządzeniach następująco: inwestycje: dla wszystkich pozycji, wydatki bieżące: dla poziomu jednocyfrowego, wydatki ogółem: dla poziomu jednocyfrowego poniesione przez: - władze centralne, - przemysł (z wyłączeniem władz centralnych), - gospodarstwa domowe.
@@ -239,55 +233,55 @@ Zbieranie i transport odpadów Zbieranie odpadów, przez służby komunalne lub 
 Zbieranie odpadów komunalnych może być selektywne (tj. wykonywane specyficznie dla danego rodzaju produktu) lub nie zróżnicowane (tj. obejmujące w tym samym czasie wszystkie odpady). Oczyszczanie ulic powinno być wykazywane w części dotyczącej odpadów publicznych oraz zbierania odpadków z ulic. Nie dotyczy także usług w zakresie odśnieżania.
 Transport odpadów obejmuje przemieszczanie odpadów z miejsc ich wytwarzania do miejsc ich wykorzystywania, unieszkodliwiania (łącznie ze składowaniem) lub miejsc gromadzenia, w tym ich przemieszczania do odbiorcy i od odbiorcy odpadów.
 Zmniejszanie hałasu i wibracji Działalność mająca na celu zmniejszenie emisji hałasu lub wibracji ze źródła w celu ochrony środowiska (w tym człowieka). Dla celów niniejszej klasyfikacji definicja ta nie obejmuje zmniejszania hałasu w celu ochrony miejsc pracy. Nie dotyczy też wyburzania zabudowań mieszkalnych z powodu nadmiernego narażenia na hałas i wibracje.
-CATEGORIES OF THE CLASSIFICATION Part I: Characteristic environmental protection activities Description 1
-1.1
-1.2
-1.3
-1.1.1
-1.1.2
-1.2.1
-1.2.2 Protection of ambient air and climate Prevention of pollution through in-process modifications for the protection of ambient air for the protection of climate and ozone layer Treatment of exhaust gases and ventilation air for the protection of ambient air for the protection of climate and ozone layer Measurement, control, laboratories, and the like 2 3 4 5 6
-1.4
-2.1
-2.2
-2.3
-2.4
-2.5
-2.6
-3.1
-3.2
-3.3
-3.4 7
-3.5
-3.6
-4.1
-4.2
-4.3
-4.4
-5.1
-5.2
-5.3
-5.4
-5.5
-6.1
-6.2
-6.3
-6.4
-6.5
-6.6
-3.3.1
-3.3.2
-3.3.3
-3.4.1
-3.4.2
-7.1
-7.2
-3.4.3
-5.1.1
-5.1.2
-5.2.1
-5.2.2
-6.2.1 Other activities Waste-water management Prevention of pollution through in-process modifications Sewerage networks Waste-water treatment Treatment of cooling water Measurement, control, laboratories, and the like Other activities Waste management Prevention of pollution through in-process modifications Collection and transport Treatment and disposal of hazardous waste Thermal treatment Landfill Other treatment and disposal Treatment and disposal of non-hazardous waste Incineration Landfill Other treatment and disposal Measurement, control, laboratories, and the like Other activities Protection of soil and groundwater Prevention of pollutant infiltrations Decontamination of soils Measurement, control, laboratories, and the like Other activities Noise and vibration abatement (excluding workplace protection) Noise and vibration from road and rail traffic Preventive in-process modifications at the source Construction of anti-noise/vibration facilities Air traffic noise Preventive in-process modifications at the source Construction of anti-noise/vibration facilities Industrial process noise and vibrations Measurement, control, laboratories, and the like Other activities Protection of biodiversity and landscape Protection of species Protection of landscapes and habitats of which: Protection of forest Rehabilitation of species populations and landscapes Restoration and cleaning of water bodies Measurement, control, laboratories, and the like Other activities Protection against radiation (excl. nuclear power stations and military installations) Protection of ambient media Measurement, control, laboratories, and the like
+CATEGORIES OF THE CLASSIFICATION Part I: Characteristic environmental protection activities Description 1 Protection of ambient air and climate
+1.1 Prevention of pollution through in-process modifications
+1.1.1 for the protection of ambient air
+1.1.2 for the protection of climate and ozone layer
+1.2 Treatment of exhaust gases and ventilation air
+1.2.1 for the protection of ambient air
+1.2.2 for the protection of climate and ozone layer
+1.3 Measurement, control, laboratories, and the like
+1.4 Other activities 2 Waste-water management
+2.1 Prevention of pollution through in-process modifications
+2.2 Sewerage networks
+2.3 Waste-water treatment
+2.4 Treatment of cooling water
+2.5 Measurement, control, laboratories, and the like
+2.6 Other activities 3 Waste management
+3.1 Prevention of pollution through in-process modifications
+3.2 Collection and transport
+3.3 Treatment and disposal of hazardous waste
+3.3.1 Thermal treatment
+3.3.2 Landfill
+3.3.3 Other treatment and disposal
+3.4 Treatment and disposal of non-hazardous waste
+3.4.1 Incineration
+3.4.2 Landfill
+3.4.3 Other treatment and disposal
+3.5 Measurement, control, laboratories, and the like
+3.6 Other activities 4 Protection of soil and groundwater
+4.1 Prevention of pollutant infiltrations
+4.2 Decontamination of soils
+4.3 Measurement, control, laboratories, and the like
+4.4 Other activities 5 Noise and vibration abatement (excluding workplace protection)
+5.1 Noise and vibration from road and rail traffic
+5.1.1 Preventive in-process modifications at the source
+5.1.2 Construction of anti-noise/vibration facilities
+5.2 Air traffic noise
+5.2.1 Preventive in-process modifications at the source
+5.2.2 Construction of anti-noise/vibration facilities
+5.3 Industrial process noise and vibrations
+5.4 Measurement, control, laboratories, and the like
+5.5 Other activities 6 Protection of biodiversity and landscape
+6.1 Protection of species
+6.2 Protection of landscapes and habitats of which:
+6.2.1 Protection of forest
+6.3 Rehabilitation of species populations and landscapes
+6.4 Restoration and cleaning of water bodies
+6.5 Measurement, control, laboratories, and the like
+6.6 Other activities 7 Protection against radiation (excl. nuclear power stations and military installations)
+7.1 Protection of ambient media
+7.2 Measurement, control, laboratories, and the like
 7.3 Other activities 8 Research and development
 8.1 Protection of ambient air and climate
 8.1.1 Protection of ambient air
@@ -303,49 +297,49 @@ CATEGORIES OF THE CLASSIFICATION Part I: Characteristic environmental protection
 9.2 Education, training and information
 9.3 Activities leading to indivisible expenditures
 9.4 Activities not elsewhere specified In international data collection, it is recommended to request expenditure data on characteristic environmental protection activities as follows: Investments: All positions Current expenditure: 1-digit level Total expenditure: 1-digit level, by - general government - industries (excl. general government) - households.
-Description 1 2
-1.1
-1.2
-2.1
-2.2
-1.2.1
-1.2.2
-1.2.3
-2.2.1 Protection of ambient air and climate Dedusting equipment, filters, industrial establishments equipped for the treatment of exhaust gases (percentage for NACE/ISIC two-digit categories;
-percentage of thermal electricity generation plants) Air monitoring installations (number of measurement sites, by
-2.2.2
-2.2.3
-2.2.4 type of compound monitored; number of measurements per year; number of mobile equipments) Stationary sites in built-up areas Stationary sites in open areas Mobile sites Water management and protection Sewerage networks (in kilometres) Waste-water treatment installations (number; capacity in terms of population equivalents or COD) Mechanical treatment technology Biological treatment technology (excluding septic tanks) Advanced treatment technology Septic tanks 3 4 5
-2.3
-3.1
-3.2
-3.3
-4.1
-4.2
-5.1
-5.2
-3.1.1
-3.1.2
-3.1.3
-3.1.4
-3.1.5
-3.2.1
-3.2.2
-3.2.3
-3.2.4
-3.2.5
-3.3.1
-3.3.2
-3.3.3
-3.3.4
-4.1.1
-4.1.2
-4.1.3
-4.1.4 Monitoring installations (number of measurement sites; number of mobile equipments; number of measurements per year and by type of water body monitored) Waste management Facilities for the treatment of hazardous waste (number;
-capacity in terms of weight that can be treated per year, by type of waste as applicable) Physical/chemical treatment technology Thermal treatment technology Biological treatment technology Conditioning of radioactive wastes Other treatment technologies Facilities for the treatment of other than hazardous wastes (number; capacity in terms of weight that can be treated per year, by type of waste as applicable) Physical/chemical treatment technology Incineration of municipal or similar wastes Incineration of industrial wastes Biological treatment technology Other treatment technologies Facilities for the disposal of waste (number of sites) Landfill for all types of waste Landfill exclusively for hazardous waste Containment/underground disposal Other disposal installations Protection of soil and groundwater “End-of-pipe” facilities (number) Soil surface-sealing including ditches and walls, drainage systems Catchments for run-offs, losses, leaks Improvement of underground storage and transport facilities in the interest of groundwater and soil protection Removal of underground storage and facilities in the interest of groundwater and soil protection Reservoir liners, reinforcement of transport systems for hazardous products and other integrated facilities (number) Noise abatement Noise barriers: roads, railroads, airports (in kilometres) Equipment for follow-up and control of noise (number of sites and measurement equipments) (a) Physical data on facilities should be made available in terms of the variables and units specified.
+Description 1 Protection of ambient air and climate
+1.1 Dedusting equipment, filters, industrial establishments equipped for the treatment of exhaust gases (percentage for NACE/ISIC two-digit categories;
+percentage of thermal electricity generation plants)
+1.2 Air monitoring installations (number of measurement sites, by type of compound monitored; number of measurements per year; number of mobile equipments)
+1.2.1 Stationary sites in built-up areas
+1.2.2 Stationary sites in open areas
+1.2.3 Mobile sites 2 Water management and protection
+2.1 Sewerage networks (in kilometres)
+2.2 Waste-water treatment installations (number; capacity in terms of population equivalents or COD)
+2.2.1 Mechanical treatment technology
+2.2.2 Biological treatment technology (excluding septic tanks)
+2.2.3 Advanced treatment technology
+2.2.4 Septic tanks
+2.3 Monitoring installations (number of measurement sites; number of mobile equipments; number of measurements per year and by type of water body monitored) 3 Waste management
+3.1 Facilities for the treatment of hazardous waste (number;
+capacity in terms of weight that can be treated per year, by type of waste as applicable)
+3.1.1 Physical/chemical treatment technology
+3.1.2 Thermal treatment technology
+3.1.3 Biological treatment technology
+3.1.4 Conditioning of radioactive wastes
+3.1.5 Other treatment technologies
+3.2 Facilities for the treatment of other than hazardous wastes (number; capacity in terms of weight that can be treated per year, by type of waste as applicable)
+3.2.1 Physical/chemical treatment technology
+3.2.2 Incineration of municipal or similar wastes
+3.2.3 Incineration of industrial wastes
+3.2.4 Biological treatment technology
+3.2.5 Other treatment technologies
+3.3 Facilities for the disposal of waste (number of sites)
+3.3.1 Landfill for all types of waste
+3.3.2 Landfill exclusively for hazardous waste
+3.3.3 Containment/underground disposal
+3.3.4 Other disposal installations 4 Protection of soil and groundwater
+4.1 “End-of-pipe” facilities (number)
+4.1.1 Soil surface-sealing including ditches and walls, drainage systems
+4.1.2 Catchments for run-offs, losses, leaks
+4.1.3 Improvement of underground storage and transport facilities in the interest of groundwater and soil protection
+4.1.4 Removal of underground storage and facilities in the interest of groundwater and soil protection
+4.2 Reservoir liners, reinforcement of transport systems for hazardous products and other integrated facilities (number) 5 Noise abatement
+5.1 Noise barriers: roads, railroads, airports (in kilometres)
+5.2 Equipment for follow-up and control of noise (number of sites and measurement equipments) (a) Physical data on facilities should be made available in terms of the variables and units specified.
 (b) If this classification is used in international data collection of expenditure data, it is recommended to request data on facilities as follows: Investments: All positions Current expenditure: 1-digit level Total expenditure: 1-digit level, by - general government - industries (excl. general government) - households.
 
 ## Część procesu wykorzystania odpadów technologicznych i surowców wtórnych w przemyśle (recyklingu) uważana jest za działalność w zakresie ochrony środowiska. Część ta odpowiada następującym kryteriom: produkcja wyrażona w cenach bazowych (przed wartością subsydiów netto) nie obejmuje w pełni sprzedaży produktów z recyklingu lub własnego zużycia tych produktów wyrażonego w cenach nabywcy. Tylko ta część działalności, która nie jest pokryta przez sprzedaż lub własne zużycie materiałów z recyklingu, zaliczana jest do wydatków związanych z ochroną środowiska. Często różnica ta odpowiada transferom przekazywanym przez władze centralne jednostkom wykonującym recykling.
 
-## Część II. Urządzenia stosowane w ochronie środowiska Opis 1
+## Część II. Urządzenia stosowane w ochronie środowiska Opis 1 Ochrona powietrza atmosferycznego i klimatu
 

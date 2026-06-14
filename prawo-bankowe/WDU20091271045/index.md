@@ -8,7 +8,7 @@ pos: 1045
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz ustawy - Prawo bankowe

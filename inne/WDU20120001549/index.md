@@ -8,10 +8,10 @@ pos: 1549
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1549 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 21 grudnia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1549/text.pdf) |
 
-Poz. 1549 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 21 grudnia 2012 r.
-w sprawie sposobu ustalania opłat pobieranych przez jednostkę badawczą lub certyfikującą za czynności związane z badaniami i certyfikacją wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa Na podstawie art. 26 ust. 5 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. Nr 235, poz. 1700, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 92, poz. 528) zarządza się, co następuje: § 1. Rozporządzenie określa sposób ustalania opłat pobieranych przez jednostkę badawczą lub certyfikującą za czynności związane z badaniami i certyfikacją wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa.
+w sprawie sposobu ustalania opłat pobieranych przez jednostkę badawczą lub certyfikującą za czynności związane z badaniami i certyfikacją wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa Na podstawie art. 26 ust. 5 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. Nr 235, poz. 1700, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 92, poz. 528) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób ustalania opłat pobieranych przez jednostkę badawczą lub certyfikującą za czynności związane z badaniami i certyfikacją wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa.
 § 2. 1. Opłaty powinny zapewnić pokrycie kosztów czynności związanych z badaniami i certyfikacją wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa, zwanych dalej „kosztami jednostkowymi”.
 2. Na sumę kosztów jednostkowych składają się koszty:
 1) wstępnego rozpatrzenia wniosku dostawcy o przeprowadzenie badania lub certyfikacji, obejmującego sprawdzenie jego kompletności, pobranie i identyfikację próbek oraz rejestrację wniosku;

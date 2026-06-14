@@ -8,12 +8,10 @@ pos: 574
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o zarządzaniu kryzysowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 kwietnia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,7 +27,7 @@ source: "isap-pdf"
 
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122), z uwzględnieniem stanu prawnego na dzień 16 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834);
-2) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222);
+2) ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222);
 3) ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473);
 4) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572);
 5) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
@@ -38,7 +36,7 @@ source: "isap-pdf"
 1) art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „Art. 84. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 1) art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
 2) art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
-2) art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U.
+2) art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U.
 poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
@@ -65,6 +63,34 @@ o zarządzaniu kryzysowym
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** sytuacji kryzysowej – należy przez to rozumieć sytuację wpływającą negatywnie na poziom bezpieczeństwa ludzi, mienia w znacznych rozmiarach lub środowiska, wywołującą znaczne ograniczenia w działaniu właściwych organów administracji publicznej ze względu na nieadekwatność posiadanych sił i środków;
+- **2)** infrastrukturze krytycznej – należy przez to rozumieć systemy oraz wchodzące w ich skład powiązane ze sobą funkcjonalnie obiekty, w tym obiekty budowlane, urządzenia, instalacje, usługi kluczowe dla bezpieczeństwa państwa i jego obywateli oraz służące zapewnieniu sprawnego funkcjonowania organów administracji publicznej, a także instytucji i przedsiębiorców. Infrastruktura krytyczna obejmuje systemy:
+    - **a)** zaopatrzenia w energię, surowce energetyczne i paliwa,
+    - **b)** łączności,
+    - **c)** sieci teleinformatycznych,
+    - **d)** finansowe,
+    - **e)** zaopatrzenia w żywność,
+    - **f)** zaopatrzenia w wodę,
+    - **g)** ochrony zdrowia,
+    - **h)** transportowe,
+    - **i)** ratownicze,
+    - **j)** zapewniające ciągłość działania administracji publicznej,
+    - **k)** produkcji, składowania, przechowywania i stosowania substancji chemicznych i promieniotwórczych, w tym rurociągi substancji niebezpiecznych;
+
+- **2a)** europejskiej infrastrukturze krytycznej – należy przez to rozumieć systemy oraz wchodzące w ich skład powiązane ze sobą funkcjonalnie obiekty, w tym obiekty budowlane, urządzenia i instalacje kluczowe dla bezpieczeństwa państwa i jego obywateli oraz służące zapewnieniu sprawnego funkcjonowania organów administracji publicznej, a także instytucji i przedsiębiorców, wyznaczone w systemach, o których mowa w pkt 2 lit. a i h, w zakresie energii elektrycznej, ropy naftowej i gazu ziemnego oraz transportu drogowego, kolejowego, lotniczego, wodnego śródlądowego, żeglugi oceanicznej, żeglugi morskiej bliskiego zasięgu i portów, zlokalizowane na terytorium państw członkowskich Unii Europejskiej, których zakłócenie lub zniszczenie miałoby istotny wpływ na co najmniej dwa państwa członkowskie;
+- **3)** ochronie infrastruktury krytycznej – należy przez to rozumieć wszelkie działania zmierzające do zapewnienia funkcjonalności, ciągłości działań i integralności infrastruktury krytycznej w celu zapobiegania zagrożeniom, ryzykom lub słabym punktom oraz ograniczenia i neutralizacji ich skutków oraz szybkiego odtworzenia tej infrastruktury na wypadek awarii, ataków oraz innych zdarzeń zakłócających jej prawidłowe funkcjonowanie;
+- **4)** planowaniu cywilnym – należy przez to rozumieć:
+    - **a)** całokształt przedsięwzięć organizacyjnych mających na celu przygotowanie administracji publicznej do zarządzania kryzysowego,
+    - **b)** planowanie w zakresie wspierania Sił Zbrojnych Rzeczypospolitej Polskiej w razie ich użycia oraz planowanie wykorzystania Sił Zbrojnych Rzeczypospolitej Polskiej do realizacji zadań z zakresu zarządzania kryzysowego;
+
+- **5)** (uchylony)
+- **6)** powiecie – należy przez to rozumieć również miasto na prawach powiatu;
+- **7)** cyklu planowania – należy przez to rozumieć okresowe realizowanie etapów: analizowania, programowania, opracowywania planu lub programu, jego wdrażanie, testowanie i uruchamianie;
+- **8)** siatce bezpieczeństwa – należy przez to rozumieć zestawienie potencjalnych zagrożeń ze wskazaniem podmiotu wiodącego przy ich usuwaniu oraz podmiotów współpracujących;
+- **9)** mapie zagrożenia – należy przez to rozumieć mapę przedstawiającą obszar geograficzny objęty zasięgiem zagrożenia z uwzględnieniem różnych scenariuszy zdarzeń;
+- **10)** mapie ryzyka – należy przez to rozumieć mapę lub opis przedstawiający potencjalnie negatywne skutki oddziaływania zagrożenia na ludzi, środowisko, mienie i infrastrukturę;
+- **11)** zdarzeniu o charakterze terrorystycznym – należy przez to rozumieć sytuację, o której mowa w art. 2 pkt 7 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194).
+
 **Art. 4.**
 
 1. Zadania z zakresu planowania cywilnego obejmują:
@@ -90,11 +116,11 @@ o zarządzaniu kryzysowym
 
 2. W skład planów zarządzania kryzysowego wchodzą następujące elementy:
 
-- **1)** plan główny zawierający: Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i 426);
+- **1)** plan główny zawierający:
     - **a)** charakterystykę zagrożeń oraz ocenę ryzyka ich wystąpienia, w tym dotyczących infrastruktury krytycznej, oraz mapy ryzyka i mapy zagrożeń,
     - **b)** zadania i obowiązki uczestników zarządzania kryzysowego w formie siatki bezpieczeństwa,
     - **c)** zestawienie sił i środków planowanych do wykorzystania w sytuacjach kryzysowych,
-    - **d)** zadania określone planami działań krótkoterminowych, o których mowa w art. 92 ustawy z dnia 27 kwietnia 2001 r.
+    - **d)** zadania określone planami działań krótkoterminowych, o których mowa w art. 92 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i 426);
 
 - **2)** zespół przedsięwzięć na wypadek sytuacji kryzysowych, a w tym:
     - **a)** zadania w zakresie monitorowania zagrożeń,
@@ -126,7 +152,7 @@ o zarządzaniu kryzysowym
 
 1. Na potrzeby Krajowego Planu Zarządzania Kryzysowego, ministrowie kierujący działami administracji rządowej, kierownicy urzędów centralnych oraz wojewodowie sporządzają Raport o zagrożeniach bezpieczeństwa narodowego, zwany dalej „Raportem”.
 
-2. Koordynację przygotowania Raportu zapewnia dyrektor Rządowego Centrum Bezpieczeństwa, natomiast w części dotyczącej zagrożeń o charakterze terrorystycznym, mogących doprowadzić do sytuacji kryzysowej, Szef Agencji Bezpieczeństwa Wewnętrznego, a w części dotyczącej zagrożeń cyberbezpieczeństwa mogących doprowadzić do sytuacji kryzysowej Pełnomocnik Rządu do spraw Cyberbezpieczeństwa.
+2. Koordynację przygotowania Raportu zapewnia dyrektor Rządowego Centrum Bezpieczeństwa, natomiast w części dotyczącej zagrożeń o charakterze terrorystycznym, mogących doprowadzić do sytuacji kryzysowej, Szef Agencji Bezpieczeństwa Wewnętrznego, a w części dotyczącej zagrożeń cyberbezpieczeństwa mogących doprowadzić do sytuacji kryzysowej – Pełnomocnik Rządu do spraw Cyberbezpieczeństwa.
 
 3. Raport jest dokumentem zawierającym następujące elementy:
 
@@ -171,7 +197,7 @@ o zarządzaniu kryzysowym
 - **1)** sporządza na podstawie szczegółowych kryteriów, o których mowa w ust. 2 pkt 3, we współpracy z odpowiednimi ministrami odpowiedzialnymi za systemy, jednolity wykaz obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej z podziałem na systemy. W wykazie wyróżnia się także europejską infrastrukturę krytyczną zlokalizowaną na terytorium Rzeczypospolitej Polskiej oraz europejską infrastrukturę krytyczną zlokalizowaną na terytorium innych państw członkowskich Unii Europejskiej, mogącą mieć istotny wpływ na Rzeczpospolitą Polską. Wykaz ma charakter niejawny;
 - **2)** opracowuje wyciągi z wykazu infrastruktury krytycznej, o którym mowa w pkt 1, znajdującej się w danym systemie oraz przekazuje je ministrom i kierownikom urzędów centralnych odpowiedzialnym za dany system;
 - **3)** opracowuje wyciągi z wykazu infrastruktury krytycznej, o którym mowa w pkt 1, znajdującej się na terenie województw oraz przekazuje je właściwym wojewodom;
-- **4)** informuje o ujęciu w wykazie, o którym mowa w pkt 1, obiektów, instalacji lub urządzeń ich właścicieli, posiadaczy samoistnych i zależnych.
+- **4)** informuje o ujęciu w wykazie, o którym mowa w pkt 1, obiektów, instalacji lub urządzeń – ich właścicieli, posiadaczy samoistnych i zależnych.
 
 8. Właściwi wojewodowie, jeżeli istnieje potrzeba wynikająca z wojewódzkiego planu zarządzania kryzysowego, są upoważnieni do przekazywania niezbędnej informacji o infrastrukturze krytycznej na terenie województwa właściwemu organowi administracji publicznej działającemu na tym terenie, z zachowaniem przepisów o ochronie informacji niejawnych.
 
@@ -204,19 +230,19 @@ o zarządzaniu kryzysowym
 7. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** sposób tworzenia, aktualizacji oraz strukturę planów, o których mowa w ust. 5,
-- **2)** warunki i tryb uznania spełnienia obowiązku posiadania planu odpowiadającego wymogom planu ochrony infrastruktury krytycznej uwzględniając potrzebę zapewnienia ciągłości funkcjonowania infrastruktury krytycznej.
+- **2)** warunki i tryb uznania spełnienia obowiązku posiadania planu odpowiadającego wymogom planu ochrony infrastruktury krytycznej – uwzględniając potrzebę zapewnienia ciągłości funkcjonowania infrastruktury krytycznej.
 
 **Art. 6a.**
 
 1. Dyrektor Rządowego Centrum Bezpieczeństwa, we współpracy z ministrami i kierownikami urzędów centralnych odpowiedzialnymi za systemy, o których mowa w art. 3 pkt 2a, na bieżąco rozpoznaje potencjalną europejską infrastrukturę krytyczną, badając, czy infrastruktura krytyczna spełnia kolejno następujące wymogi:
 
-- **1)** kryteria sektorowe przybliżone progi liczbowe ustalone przez Komisję Europejską i państwa członkowskie Unii Europejskiej, charakteryzujące parametry, wchodzących w skład systemów infrastruktury krytycznej obiektów, urządzeń oraz instalacji lub funkcje realizowane przez te obiekty, urządzenia oraz instalacje, warunkujące identyfikację infrastruktury krytycznej;
+- **1)** kryteria sektorowe – przybliżone progi liczbowe ustalone przez Komisję Europejską i państwa członkowskie Unii Europejskiej, charakteryzujące parametry, wchodzących w skład systemów infrastruktury krytycznej obiektów, urządzeń oraz instalacji lub funkcje realizowane przez te obiekty, urządzenia oraz instalacje, warunkujące identyfikację infrastruktury krytycznej;
 - **2)** stanowi składnik, system lub część infrastruktury, które mają podstawowe znaczenie dla utrzymania niezbędnych funkcji społecznych, zdrowia, bezpieczeństwa, ochrony, dobrobytu materialnego lub społecznego ludności, oraz których zakłócenie lub zniszczenie miałoby istotny wpływ na Rzeczpospolitą Polską w wyniku utraty tych funkcji;
 - **3)** jej zakłócenie lub zniszczenie miałoby istotny wpływ na co najmniej dwa państwa członkowskie Unii Europejskiej;
-- **4)** kryteria przekrojowe w zakresie przybliżonych progów ustalonych przez Komisję Europejską i państwa członkowskie Unii Europejskiej obejmujące:
-    - **a)** kryterium ofiar w ludziach oceniane w odniesieniu do ewentualnej liczby ofiar śmiertelnych lub liczby rannych,
-    - **b)** kryterium skutków ekonomicznych oceniane w odniesieniu do znaczenia strat ekonomicznych lub pogorszenia jakości towarów lub usług, w tym potencjalnych skutków ekologicznych,
-    - **c)** kryterium skutków społecznych oceniane w odniesieniu do wpływu na zaufanie opinii publicznej, cierpień fizycznych osób i zakłócenia codziennego życia, w tym utraty podstawowych usług.
+- **4)** kryteria przekrojowe – w zakresie przybliżonych progów ustalonych przez Komisję Europejską i państwa członkowskie Unii Europejskiej – obejmujące:
+    - **a)** kryterium ofiar w ludziach – oceniane w odniesieniu do ewentualnej liczby ofiar śmiertelnych lub liczby rannych,
+    - **b)** kryterium skutków ekonomicznych – oceniane w odniesieniu do znaczenia strat ekonomicznych lub pogorszenia jakości towarów lub usług, w tym potencjalnych skutków ekologicznych,
+    - **c)** kryterium skutków społecznych – oceniane w odniesieniu do wpływu na zaufanie opinii publicznej, cierpień fizycznych osób i zakłócenia codziennego życia, w tym utraty podstawowych usług.
 
 2. Infrastruktura krytyczna jest uznawana za potencjalną europejską infrastrukturę krytyczną po spełnieniu łącznie kolejnych wymogów, o których mowa w ust. 1 pkt 1–3 oraz co najmniej jednego z wymogów, o których mowa w ust. 1 pkt 4.
 
@@ -316,7 +342,7 @@ o zarządzaniu kryzysowym
 
 11. W uzasadnionych przypadkach polecenia, o których mowa w ust. 1, mogą być wydane bez wystąpienia o opinię, o której mowa w ust. 9, lub przed jej uzyskaniem.
 
-12. Do wydawania poleceń, o których mowa w ust. 1 i 2, ich zmiany oraz uchylenia, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), z wyjątkiem przepisów dotyczących doręczeń oraz sprostowań.
+12. Do wydawania poleceń, o których mowa w ust. 1 i 2, ich zmiany oraz uchylenia, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), z wyjątkiem przepisów dotyczących doręczeń oraz sprostowań.
 
 13. Polecenia, o których mowa w ust. 1 i 2, zawierają w szczególności:
 
@@ -336,9 +362,9 @@ o zarządzaniu kryzysowym
 
 17. Prezes Rady Ministrów może wystąpić o opinię w sprawie wniosku o uchylenie lub zmianę polecenia do ministra, o którym mowa w ust. 1 oraz w ust. 13 pkt 7.
 
-18. Od poleceń, o których mowa w ust. 1 i 2, oraz od ich uchylenia lub zmiany przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143). Stronami postępowania mogą być skarżący, podmiot objęty poleceniem lub minister, który złożył wniosek o wydanie, zmianę lub uchylenie polecenia.
+18. Od poleceń, o których mowa w ust. 1 i 2, oraz od ich uchylenia lub zmiany przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143). Stronami postępowania mogą być skarżący, podmiot objęty poleceniem lub minister, który złożył wniosek o wydanie, zmianę lub uchylenie polecenia.
 
-19. Do ministra, który złożył wniosek o wydanie polecenia, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi dotyczące organu, którego działanie jest przedmiotem skargi.
+19. Do ministra, który złożył wniosek o wydanie polecenia, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi dotyczące organu, którego działanie jest przedmiotem skargi.
 
 20. Zadania nałożone w trybie, o którym mowa w ust. 1, są realizowane przez jednostki samorządu terytorialnego jako zadania zlecone z zakresu administracji rządowej.
 
@@ -361,7 +387,7 @@ o zarządzaniu kryzysowym
 
 **Art. 7c.**
 
-1. Do zamówień na usługi lub dostawy niezbędne do realizacji poleceń, o których mowa w art. 7a ust. 1 oraz 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+1. Do zamówień na usługi lub dostawy niezbędne do realizacji poleceń, o których mowa w art. 7a ust. 1 oraz 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 2. Zamawiający, w terminie 7 dni od dnia udzielenia zamówienia, o którym mowa w ust. 1, zamieszcza w Biuletynie Zamówień Publicznych informację o udzieleniu tego zamówienia, w której podaje:
 
@@ -369,7 +395,7 @@ o zarządzaniu kryzysowym
 - **2)** datę i miejsce zawarcia umowy lub informację o zawarciu umowy drogą elektroniczną;
 - **3)** opis przedmiotu umowy, z wyszczególnieniem odpowiednio ilości rzeczy lub innych dóbr oraz zakresu usług;
 - **4)** cenę albo cenę maksymalną, jeżeli cena nie jest znana w chwili zamieszczenia ogłoszenia;
-- **5)** wskazanie okoliczności faktycznych uzasadniających udzielenie zamówienia bez zastosowania przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych;
+- **5)** wskazanie okoliczności faktycznych uzasadniających udzielenie zamówienia bez zastosowania przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
 - **6)** nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa.
 
 **Art. 8.**
@@ -378,11 +404,11 @@ o zarządzaniu kryzysowym
 
 2. W skład Zespołu wchodzą:
 
-- **1)** Prezes Rady Ministrów przewodniczący;
-- **2)** Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych zastępcy przewodniczącego;
+- **1)** Prezes Rady Ministrów – przewodniczący;
+- **2)** Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych – zastępcy przewodniczącego;
 - **2a)** minister właściwy do spraw administracji publicznej;
 - **3)** Minister Spraw Zagranicznych;
-- **4)** Minister Koordynator Służb Specjalnych jeżeli został powołany.
+- **4)** Minister Koordynator Służb Specjalnych – jeżeli został powołany.
 
 3. W posiedzeniach Zespołu, na prawach członka, biorą udział wyznaczone przez przewodniczącego, w zależności od potrzeb, następujące organy administracji rządowej:
 
@@ -432,13 +458,13 @@ o zarządzaniu kryzysowym
 
 5. Przewodniczący może zapraszać do udziału w posiedzeniach Zespołu, na prawach członka, inne osoby.
 
-6. W przypadku nieobecności przewodniczącego, pracami Zespołu kieruje wyznaczony przez niego zastępca albo członek Zespołu, w którego właściwości wynikającej z kierowania danym działem administracji rządowej pozostaje rodzaj zaistniałej sytuacji kryzysowej.
+6. W przypadku nieobecności przewodniczącego, pracami Zespołu kieruje wyznaczony przez niego zastępca albo członek Zespołu, w którego właściwości – wynikającej z kierowania danym działem administracji rządowej – pozostaje rodzaj zaistniałej sytuacji kryzysowej.
 
 7. Członkowie Zespołu mogą wyznaczać do udziału w jego pracach swoich przedstawicieli:
 
-- **1)** Prezes Rady Ministrów wiceprezesa Rady Ministrów;
-- **2)** ministrowie sekretarza lub podsekretarza stanu;
-- **3)** organy, o których mowa w ust. 3 pkt 2–14 swojego zastępcę.
+- **1)** Prezes Rady Ministrów – wiceprezesa Rady Ministrów;
+- **2)** ministrowie – sekretarza lub podsekretarza stanu;
+- **3)** organy, o których mowa w ust. 3 pkt 2–14 – swojego zastępcę.
 
 8. (uchylony)
 
@@ -643,9 +669,9 @@ o zarządzaniu kryzysowym
 - **7)** realizacja zadań stałego dyżuru na potrzeby podwyższania gotowości obronnej państwa.
 - **8)** (uchylony)
 
-3. Wojewódzkie centra zarządzania kryzysowego wykonują zadania określone w art. 22 ust. 1 i 2 ustawy z dnia 24 lipca 2015 r. Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
+3. Wojewódzkie centra zarządzania kryzysowego wykonują zadania określone w art. 22 ust. 1 i 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
 
-4. Wojewódzkie centra zarządzania kryzysowego wykonują zadania określone w art. 92 ust. 1d i art. 93 ust. 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+4. Wojewódzkie centra zarządzania kryzysowego wykonują zadania określone w art. 92 ust. 1d i art. 93 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 17.**
 
@@ -735,7 +761,7 @@ o zarządzaniu kryzysowym
 
 2. W celu realizacji zadań, o których mowa w ust. 1, wójt, burmistrz, prezydent miasta może tworzyć gminne (miejskie) centra zarządzania kryzysowego.
 
-2a. W przypadku utworzenia, gminne (miejskie) centrum zarządzania kryzysowego wykonuje zadania określone w art. 22 ust. 1 i 2 ustawy z dnia 24 lipca 2015 r. Prawo o zgromadzeniach.
+2a. W przypadku utworzenia, gminne (miejskie) centrum zarządzania kryzysowego wykonuje zadania określone w art. 22 ust. 1 i 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach.
 
 3. Art. 18 ust. 4 stosuje się odpowiednio.
 
@@ -751,7 +777,7 @@ o zarządzaniu kryzysowym
 
 2. Właściciele oraz posiadacze samoistni i zależni obiektów, instalacji, urządzeń i usług infrastruktury krytycznej niezwłocznie informują dyrektora Centrum oraz właściwe terytorialnie wojewódzkie centrum zarządzania kryzysowego o zakłóceniu funkcjonowania tej infrastruktury, które może skutkować wystąpieniem na wskazanym obszarze sytuacji kryzysowej.
 
-3. Operator ruchomej publicznej sieci telekomunikacyjnej w rozumieniu przepisów ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252), zwany dalej „operatorem”, jest obowiązany, na żądanie dyrektora Centrum, do niezwłocznego, nieodpłatnego wysłania lub wysyłania, komunikatów do wszystkich lub określonych przez dyrektora Centrum grup użytkowników końcowych, w szczególności przebywających na określonym przez niego obszarze, jednorazowo lub przez wskazany przez dyrektora Centrum okres.
+3. Operator ruchomej publicznej sieci telekomunikacyjnej w rozumieniu przepisów ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252), zwany dalej „operatorem”, jest obowiązany, na żądanie dyrektora Centrum, do niezwłocznego, nieodpłatnego wysłania lub wysyłania, komunikatów do wszystkich lub określonych przez dyrektora Centrum grup użytkowników końcowych, w szczególności przebywających na określonym przez niego obszarze, jednorazowo lub przez wskazany przez dyrektora Centrum okres.
 
 3a. Obowiązek, o którym mowa w ust. 3, nie obejmuje wysyłania komunikatu użytkownikom końcowym, których karty SIM są zainstalowane i wykorzystywane w urządzeniach używanych wyłącznie do świadczenia usług komunikacji maszyna-maszyna.
 
@@ -815,7 +841,7 @@ o zarządzaniu kryzysowym
 
 1. W przypadku nakazu wykonania odstrzału, o którym mowa w art. 28 ust. 4 pkt 12 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), jeżeli jest to niezbędne ze względu na rodzaj i skalę zagrożenia, minister właściwy do spraw wewnętrznych, na wniosek wojewody, może przekazać do dyspozycji wojewody doraźne zgrupowanie zadaniowe sformowane z policjantów, funkcjonariuszy Straży Granicznej lub funkcjonariuszy Państwowej Straży Pożarnej, którzy posiadają uprawnienia do wykonywania polowania, celem ich użycia do wykonania tego odstrzału w odniesieniu do zwierząt dzikich na określonych obszarach.
 
-2. Dowodzenie doraźnymi zgrupowaniami zadaniowymi, o których mowa w ust. 1, powierzane jest odpowiednio policjantowi, funkcjonariuszowi Straży Granicznej lub funkcjonariuszowi Państwowej Straży Pożarnej wskazanemu przez właściwego miejscowo komendanta odpowiednio Policji, Straży Granicznej lub Państwowej Straży Pożarnej, a w przypadku stworzenia doraźnego zgrupowania zadaniowego złożonego z policjantów, funkcjonariuszy Straży Granicznej lub funkcjonariuszy Państwowej Straży Pożarnej policjantowi wskazanemu przez właściwego miejscowo komendanta Policji.
+2. Dowodzenie doraźnymi zgrupowaniami zadaniowymi, o których mowa w ust. 1, powierzane jest odpowiednio policjantowi, funkcjonariuszowi Straży Granicznej lub funkcjonariuszowi Państwowej Straży Pożarnej wskazanemu przez właściwego miejscowo komendanta odpowiednio Policji, Straży Granicznej lub Państwowej Straży Pożarnej, a w przypadku stworzenia doraźnego zgrupowania zadaniowego złożonego z policjantów, funkcjonariuszy Straży Granicznej lub funkcjonariuszy Państwowej Straży Pożarnej – policjantowi wskazanemu przez właściwego miejscowo komendanta Policji.
 
 **Art. 25b.**
 
@@ -837,6 +863,9 @@ o zarządzaniu kryzysowym
 - **2)** policjanci, funkcjonariusze Straży Granicznej, funkcjonariusze Państwowej Straży Pożarnej i żołnierze współpracują z zarządcą lub dzierżawcą obwodu łowieckiego.
 
 **Art. 25d.** W przypadkach, o których mowa w art. 25a i art. 25b, do obowiązków wojewody należy:
+
+- **1)** zapewnienie amunicji do broni, o której mowa w art. 25c ust. 1;
+- **2)** zwrot kosztów transportu, zakwaterowania i wyżywienia doraźnych zgrupowań zadaniowych; zwrot kosztów zakwaterowania lub wyżywienia nie przysługuje w przypadku zapewnienia w miejscu wykonywania czynności bezpłatnego zakwaterowania lub wyżywienia.
 
 **Art. 26.**
 

@@ -1,6 +1,6 @@
-# Orzecznictwo — Wyrok Trybunału Konstytucyjnego z dnia 5 lipca 2005 r. sygn. akt SK 26/04
+# Orzecznictwo — WDU20051311102
 
-Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 5 lipca 2005 r. sygn. akt SK 26/04*
+Orzeczenia powołujące: *WDU20051311102*
 
 Łącznie: **1** orzeczeń
 

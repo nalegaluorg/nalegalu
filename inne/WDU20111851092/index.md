@@ -8,7 +8,7 @@ pos: 1092
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kontroli w administracji rządowej
@@ -33,7 +33,13 @@ Art. 58–76. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i tryb przeprowadzania kontroli działalności organów administracji rządowej, urzędów je obsługujących lub stanowiących ich aparat pomocniczy oraz jednostek organizacyjnych podległych tym organom lub przez nie nadzorowanych, zwanych dalej „jednostkami kontrolowanymi”;
+- **2)** organy właściwe w sprawach kontroli.
+
 **Art. 2.** Przepisy ustawy stosuje się również do kontroli:
+
+- **1)** działalności organów samorządu terytorialnego w sprawach dotyczących wykonywania zadań z zakresu administracji rządowej;
+- **2)** wykonywania przez inne podmioty zadań z zakresu administracji rządowej w zakresie, w jakim zadania te są finansowane z budżetu państwa.
 
 **Art. 3.**
 
@@ -41,7 +47,15 @@ Art. 58–76. (pominięte)
 
 2. W przypadku stwierdzenia nieprawidłowości celem kontroli jest również ustalenie ich zakresu, przyczyn i skutków oraz osób za nie odpowiedzialnych, a także sformułowanie zaleceń zmierzających do usunięcia nieprawidłowości.
 
-**Art. 4.** Jeżeli przepisy szczególne nie stanowią inaczej, kontrolę przeprowadza się pod względem legalności, gospodarności, celowości i rzetelności. żołnierza zawodowego, członka organu kolegialnego, a także osobę, która wykonuje pracę w jednostce kontrolowanej na podstawie innej umowy niż umowa o pracę. 2. Kierownikiem jednostki kontrolowanej jest osoba, która zgodnie z przepisami określającymi ustrój jednostki jest odpowiedzialna za działalność tej jednostki i jest uprawniona do jej reprezentowania. W przypadku jednostki zarządzanej przez organ kolegialny za kierownika tej jednostki uznaje się przewodniczącego organu kolegialnego. 3. Kierownikiem jednostki kontrolującej jest Prezes Rady Ministrów, Szef Kancelarii Prezesa Rady Ministrów, minister, kierownik urzędu centralnego, przewodniczący komitetu wchodzącego w skład Rady Ministrów, wojewoda albo osoba, która zgodnie z przepisami określającymi ustrój jednostki jest odpowiedzialna za działalność tej jednostki i jest uprawniona do jej reprezentowania.
+**Art. 4.** Jeżeli przepisy szczególne nie stanowią inaczej, kontrolę przeprowadza się pod względem legalności, gospodarności, celowości i rzetelności.
+
+**Art. 5.**
+
+1. W rozumieniu ustawy za pracownika uważa się także funkcjonariusza, żołnierza zawodowego, członka organu kolegialnego, a także osobę, która wykonuje pracę w jednostce kontrolowanej na podstawie innej umowy niż umowa o pracę.
+
+2. Kierownikiem jednostki kontrolowanej jest osoba, która zgodnie z przepisami określającymi ustrój jednostki jest odpowiedzialna za działalność tej jednostki i jest uprawniona do jej reprezentowania. W przypadku jednostki zarządzanej przez organ kolegialny za kierownika tej jednostki uznaje się przewodniczącego organu kolegialnego.
+
+3. Kierownikiem jednostki kontrolującej jest Prezes Rady Ministrów, Szef Kancelarii Prezesa Rady Ministrów, minister, kierownik urzędu centralnego, przewodniczący komitetu wchodzącego w skład Rady Ministrów, wojewoda albo osoba, która zgodnie z przepisami określającymi ustrój jednostki jest odpowiedzialna za działalność tej jednostki i jest uprawniona do jej reprezentowania.
 
 **Art. 6.**
 
@@ -64,7 +78,8 @@ Art. 58–76. (pominięte)
 
 5. Organy administracji zespolonej i niezespolonej kontrolują:
 
-- **1)** podległe im lub przez nie nadzorowane organy lub jednostki organizacyjne; nadzorowane.
+- **1)** podległe im lub przez nie nadzorowane organy lub jednostki organizacyjne;
+- **2)** jednostki podległe organom, o których mowa w pkt 1, lub przez nie nadzorowane.
 
 **Art. 7.** Szef Kancelarii Prezesa Rady Ministrów wykonuje zadania Prezesa Rady Ministrów wynikające z ustawy, z jego upoważnienia.
 
@@ -89,7 +104,9 @@ Art. 58–76. (pominięte)
 
 **Art. 10.**
 
-1. Kierownicy jednostek kontrolujących mogą zarządzić kontrolę wspólną, jeżeli przedmiot kontroli dotyczy zadań będących we właściwości tych kierowników. w porozumieniu, skład zespołu kontrolującego oraz wskazują organ, który wykonuje zadania kierownika jednostki kontrolującej wynikające z ustawy.
+1. Kierownicy jednostek kontrolujących mogą zarządzić kontrolę wspólną, jeżeli przedmiot kontroli dotyczy zadań będących we właściwości tych kierowników.
+
+2. Zarządzając kontrolę wspólną, kierownicy jednostek kontrolujących określają, w porozumieniu, skład zespołu kontrolującego oraz wskazują organ, który wykonuje zadania kierownika jednostki kontrolującej wynikające z ustawy.
 
 3. W przypadku prowadzenia kontroli wspólnej program kontroli obejmuje wszystkie jednostki kontrolowane i jest zatwierdzany przez kierownika komórki do spraw kontroli w urzędzie obsługującym organ wykonujący zadania kierownika jednostki kontrolującej wynikające z ustawy.
 
@@ -120,6 +137,7 @@ Art. 58–76. (pominięte)
 - **1)** wyniki wcześniejszych kontroli;
 - **2)** wyniki badań i analiz oraz skargi i wnioski dotyczące przygotowywanej kontroli;
 - **3)** czynniki ryzyka mające wpływ na działalność jednostki kontrolowanej;
+- **4)** informacje dotyczące działalności jednostki kontrolowanej.
 
 3. Program kontroli określa w szczególności:
 
@@ -154,7 +172,9 @@ Art. 58–76. (pominięte)
 - **4)** zakres kontroli;
 - **5)** nazwę i adres jednostki kontrolowanej;
 - **6)** okres ważności upoważnienia;
-- **7)** podpis wydającego upoważnienie. wydłużenia czasu trwania czynności kontrolnych lub rozszerzenia zakresu kontroli, kierownik jednostki kontrolującej przedłuża ważność upoważnienia, przez uczynienie na nim stosownej wzmianki, lub wydaje nowe upoważnienie do przeprowadzenia kontroli.
+- **7)** podpis wydającego upoważnienie.
+
+4. W przypadku gdy w trakcie przeprowadzania kontroli zaistnieje konieczność wydłużenia czasu trwania czynności kontrolnych lub rozszerzenia zakresu kontroli, kierownik jednostki kontrolującej przedłuża ważność upoważnienia, przez uczynienie na nim stosownej wzmianki, lub wydaje nowe upoważnienie do przeprowadzenia kontroli.
 
 5. Dla kontrolera delegowanego, o którym mowa w art. 8 ust. 1 pkt 2, upoważnienie wydaje Szef Kancelarii Prezesa Rady Ministrów.
 
@@ -180,7 +200,9 @@ Art. 58–76. (pominięte)
 
 6. W przypadku wyłączenia kontrolera z udziału w kontroli po rozpoczęciu czynności kontrolnych zawiadamia się o tym fakcie kierownika jednostki kontrolowanej.
 
-7. W okresie od złożenia wniosku o wyłączenie do czasu wydania rozstrzygnięcia o wyłączeniu kontrolera z udziału w kontroli kontroler podejmuje jedynie czynności niecierpiące zwłoki. kontrolowanej, podając przewidywany czas trwania czynności kontrolnych.
+7. W okresie od złożenia wniosku o wyłączenie do czasu wydania rozstrzygnięcia o wyłączeniu kontrolera z udziału w kontroli kontroler podejmuje jedynie czynności niecierpiące zwłoki.
+
+**Art. 20.** O planowanej kontroli zawiadamia się kierownika jednostki kontrolowanej, podając przewidywany czas trwania czynności kontrolnych.
 
 **Art. 21.**
 
@@ -196,11 +218,34 @@ Art. 58–76. (pominięte)
 
 **Art. 22.** Kontroler w trakcie przeprowadzania kontroli ma prawo do:
 
+- **1)** swobodnego wstępu i poruszania się po terenie jednostki kontrolowanej bez obowiązku uzyskiwania przepustki;
+- **2)** wglądu do dokumentów dotyczących działalności jednostki kontrolowanej, pobierania za pokwitowaniem oraz zabezpieczania dokumentów związanych z zakresem kontroli, z zachowaniem przepisów o tajemnicy prawnie chronionej;
+- **3)** sporządzania, a w razie potrzeby żądania sporządzenia niezbędnych do kontroli kopii, odpisów lub wyciągów, w szczególności z dokumentów, w tym ich odwzorowania w postaci papierowej bądź elektronicznej, oraz zestawień lub obliczeń;
+- **3a)** żądania sporządzenia niezbędnych do kontroli wyciągów, raportów, zestawień lub obliczeń z systemów informatycznych i teleinformatycznych lub elektronicznych baz danych;
+- **4)** przetwarzania danych osobowych w zakresie niezbędnym do realizacji celu kontroli;
+- **5)** żądania złożenia ustnych lub pisemnych wyjaśnień w sprawach dotyczących zakresu kontroli;
+- **6)** swobodnego stosowania środków dowodowych przewidzianych w ustawie.
+
+**Art. 23.**
+
+1. Kontroler ma obowiązek niezwłocznego poinformowania kierownika jednostki kontrolowanej o stwierdzeniu bezpośredniego zagrożenia życia lub zdrowia ludzkiego, lub możliwości powstania niepowetowanej szkody w mieniu, w celu zapobieżenia tym zagrożeniom.
+
+2. Kierownik jednostki kontrolowanej jest obowiązany do niezwłocznego podjęcia działań zapobiegających zagrożeniom oraz poinformowania o tym kontrolera.
+
+3. Kontroler w przypadku powzięcia uzasadnionego podejrzenia, że kierownik jednostki kontrolowanej nie podjął działań zapobiegających zagrożeniom lub podjęte działania są niewystarczające, informuje o tym kierownika komórki do spraw kontroli.
+
+4. Kierownik komórki do spraw kontroli niezwłocznie powiadamia o stwierdzonych zagrożeniach kierownika jednostki nadrzędnej nad jednostką kontrolowaną lub właściwy organ państwowy.
+
 **Art. 24.** Kierownik jednostki kontrolowanej ma obowiązek zapewnienia kontrolerowi warunków niezbędnych do sprawnego przeprowadzenia kontroli, w szczególności przez zapewnienie niezwłocznego przedstawiania żądanych dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień w sprawach objętych kontrolą, a także udostępnianie niezbędnych urządzeń technicznych i zapewnienie dostępu do Internetu oraz, w miarę możliwości, oddzielnego pomieszczenia z odpowiednim wyposażeniem.
 
 **Art. 25.** Pracownik jednostki kontrolowanej ma obowiązek:
 
-**Art. 25a.** Zgodność kopii, odpisów, wyciągów, raportów, zestawień lub obliczeń z oryginalnymi dokumentami i danymi zawartymi w systemach informatycznych jednostki kontrolowanej lub kierownik komórki organizacyjnej, w której dokumenty się znajdują lub która przetwarza te dane lub nimi zarządza. Poświadczenie zgodności z oryginałem następuje przez opatrzenie kopii, odpisu, wyciągu, raportu, zestawienia lub obliczenia odpowiednio podpisem albo pieczęcią, o których mowa w art. 13 ust. 3.
+- **1)** niezwłocznego przedstawiania, na żądanie kontrolera, dokumentów, materiałów i informacji niezbędnych do przeprowadzenia kontroli;
+- **2)** sporządzania niezbędnych do przeprowadzenia kontroli kopii, odpisów lub wyciągów, w szczególności z dokumentów, w tym ich odwzorowania w postaci papierowej bądź elektronicznej, jak również zestawień i obliczeń sporządzonych na podstawie dokumentów;
+- **2a)** sporządzania niezbędnych do przeprowadzenia kontroli wyciągów, raportów, zestawień lub obliczeń z systemów informatycznych i teleinformatycznych lub elektronicznych baz danych;
+- **3)** udzielenia kontrolerowi, w wyznaczonym przez niego terminie, ustnych lub pisemnych wyjaśnień.
+
+**Art. 25a.** Zgodność kopii, odpisów, wyciągów, raportów, zestawień lub obliczeń z oryginalnymi dokumentami i danymi zawartymi w systemach informatycznych i teleinformatycznych oraz elektronicznych bazach danych potwierdza kierownik jednostki kontrolowanej lub kierownik komórki organizacyjnej, w której dokumenty się znajdują lub która przetwarza te dane lub nimi zarządza. Poświadczenie zgodności z oryginałem następuje przez opatrzenie kopii, odpisu, wyciągu, raportu, zestawienia lub obliczenia odpowiednio podpisem albo pieczęcią, o których mowa w art. 13 ust. 3.
 
 **Art. 26.** Niewywiązywanie się przez pracownika jednostki kontrolowanej z obowiązków, które wynikają z art. 25, może stanowić przesłankę odpowiedzialności dyscyplinarnej lub porządkowej.
 
@@ -231,7 +276,9 @@ Art. 58–76. (pominięte)
 - **1)** oznaczenie czynności, czasu i miejsca jej przeprowadzenia;
 - **2)** imię, nazwisko i stanowisko służbowe kontrolera oraz osoby uczestniczącej w czynnościach;
 - **3)** opis przebiegu czynności lub treść wyjaśnień lub oświadczeń;
-- **4)** podpisy kontrolera i osoby uczestniczącej w czynnościach. znaczenie dla ustaleń kontroli, sporządza się notatkę służbową podpisaną przez kontrolera.
+- **4)** podpisy kontrolera i osoby uczestniczącej w czynnościach.
+
+3. Z czynności kontrolnych niewymienionych w ust. 1, które mają istotne znaczenie dla ustaleń kontroli, sporządza się notatkę służbową podpisaną przez kontrolera.
 
 **Art. 33.**
 
@@ -259,6 +306,8 @@ Art. 58–76. (pominięte)
 
 1. Ustalenia dokonane w trakcie kontroli oraz oceny opisuje się w projekcie wystąpienia pokontrolnego.
 
+2. Projekt wystąpienia pokontrolnego zawiera w szczególności:
+
 - **1)** nazwę i adres jednostki kontrolowanej;
 - **2)** imię, nazwisko i stanowisko służbowe kontrolera;
 - **3)** datę rozpoczęcia i zakończenia czynności kontrolnych;
@@ -284,7 +333,9 @@ Art. 58–76. (pominięte)
 
 **Art. 40.**
 
-1. Kierownik jednostki kontrolowanej ma prawo do zgłoszenia, w terminie 7 dni roboczych od dnia otrzymania projektu, umotywowanych pisemnych zastrzeżeń do projektu wystąpienia pokontrolnego. terminu zgłoszenia zastrzeżeń, termin ten może być przedłużony na czas oznaczony przez kierownika jednostki kontrolującej.
+1. Kierownik jednostki kontrolowanej ma prawo do zgłoszenia, w terminie 7 dni roboczych od dnia otrzymania projektu, umotywowanych pisemnych zastrzeżeń do projektu wystąpienia pokontrolnego.
+
+2. Na wniosek kierownika jednostki kontrolowanej, złożony przed upływem terminu zgłoszenia zastrzeżeń, termin ten może być przedłużony na czas oznaczony przez kierownika jednostki kontrolującej.
 
 **Art. 41.**
 
@@ -311,7 +362,13 @@ Art. 58–76. (pominięte)
 
 **Art. 43.** Jeżeli w trakcie rozpatrywania zastrzeżeń istnieje konieczność przeprowadzenia dodatkowych czynności kontrolnych, kontroler przeprowadza te czynności na podstawie dotychczasowego upoważnienia lub, jeżeli to konieczne, nowego upoważnienia.
 
-**Art. 44.** W trakcie rozpatrywania zastrzeżeń kierownik komórki do spraw kontroli ma prawo żądać przedstawienia dokumentów lub złożenia pisemnych wyjaśnień przez pracowników jednostki kontrolowanej. sporządza stanowisko wobec wniesionych zastrzeżeń, wraz z uzasadnieniem. 2. Kierownik komórki do spraw kontroli przekazuje stanowisko wobec oddalonych zastrzeżeń kierownikowi jednostki kontrolowanej.
+**Art. 44.** W trakcie rozpatrywania zastrzeżeń kierownik komórki do spraw kontroli ma prawo żądać przedstawienia dokumentów lub złożenia pisemnych wyjaśnień przez pracowników jednostki kontrolowanej.
+
+**Art. 45.**
+
+1. Kierownik komórki do spraw kontroli, po rozpatrzeniu zastrzeżeń, sporządza stanowisko wobec wniesionych zastrzeżeń, wraz z uzasadnieniem.
+
+2. Kierownik komórki do spraw kontroli przekazuje stanowisko wobec oddalonych zastrzeżeń kierownikowi jednostki kontrolowanej.
 
 **Art. 46.**
 
@@ -331,7 +388,9 @@ Art. 58–76. (pominięte)
 
 **Art. 49.** Kierownik jednostki kontrolowanej, w wyznaczonym terminie, informuje pisemnie kierownika jednostki kontrolującej o sposobie wykonania zaleceń, wykorzystaniu wniosków lub przyczynach ich niewykorzystania albo o innym sposobie usunięcia stwierdzonych nieprawidłowości.
 
-**Art. 50.** Kierownik jednostki kontrolującej może odstąpić w każdym czasie od dalszego przeprowadzania czynności kontrolnych, informując na piśmie kierownika jednostki kontrolowanej o odstąpieniu od kontroli. W takim przypadku nie sporządza się wystąpienia pokontrolnego. Kontrola w trybie uproszczonym
+**Art. 50.** Kierownik jednostki kontrolującej może odstąpić w każdym czasie od dalszego przeprowadzania czynności kontrolnych, informując na piśmie kierownika jednostki kontrolowanej o odstąpieniu od kontroli. W takim przypadku nie sporządza się wystąpienia pokontrolnego.
+
+#### Rozdział 3 Kontrola w trybie uproszczonym
 
 **Art. 51.**
 
@@ -357,7 +416,9 @@ Art. 58–76. (pominięte)
 
 6. Sprawozdania nie przekazuje się byłemu kierownikowi jednostki kontrolowanej.
 
-**Art. 53.** W przypadku ujawnienia w trakcie czynności kontrolnych okoliczności wskazujących na popełnienie przestępstwa, wykroczenia, przestępstwa skarbowego, wykroczenia skarbowego lub naruszenia dyscypliny finansów publicznych kontrolę w dalszej części przeprowadza się w trybie zwykłym. Dokumentacja kontroli
+**Art. 53.** W przypadku ujawnienia w trakcie czynności kontrolnych okoliczności wskazujących na popełnienie przestępstwa, wykroczenia, przestępstwa skarbowego, wykroczenia skarbowego lub naruszenia dyscypliny finansów publicznych kontrolę w dalszej części przeprowadza się w trybie zwykłym.
+
+#### Rozdział 4 Dokumentacja kontroli
 
 **Art. 54.**
 
@@ -390,7 +451,9 @@ Art. 58–76. (pominięte)
 
 1. W uzasadnionych przypadkach kierownik jednostki kontrolującej może zarządzić sporządzenie informacji o wynikach kontroli.
 
-2. Informacja o wynikach kontroli może obejmować przedstawienie wyników więcej niż jednej kontroli. zawiera w szczególności:
+2. Informacja o wynikach kontroli może obejmować przedstawienie wyników więcej niż jednej kontroli.
+
+3. Informacja o wynikach kontroli jest sporządzana na podstawie akt kontroli i zawiera w szczególności:
 
 - **1)** określenie celu i zakresu kontroli oraz termin jej prowadzenia;
 - **2)** ustalenia z kontroli wskazujące zakres stwierdzonych nieprawidłowości, przyczynę ich powstania i skutki, jakie wywołują lub mogą wywołać w świetle kryteriów stosowanych w postępowaniu kontrolnym;

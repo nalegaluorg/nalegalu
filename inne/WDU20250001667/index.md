@@ -8,12 +8,10 @@ pos: 1667
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o obligacjach
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -40,7 +38,20 @@ Art. 99–108. (pominięte)
 
 **Art. 2.** Obligacje mogą emitować:
 
+- **1)** osoby prawne, w tym osoby prawne mające siedzibę poza terytorium Rzeczypospolitej Polskiej:
+    - **a)** prowadzące działalność gospodarczą lub
+    - **b)** utworzone wyłącznie w celu przeprowadzenia emisji obligacji,
+
+- **2)** osoby prawne upoważnione do emisji obligacji na podstawie odrębnych ustaw,
+- **3)** spółki komandytowo-akcyjne,
+- **4)** spółdzielcze kasy oszczędnościowo-kredytowe oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa,
+- **5)** gminy, powiaty oraz województwa, zwane dalej „jednostkami samorządu terytorialnego”, a także związki tych jednostek oraz jednostki władz regionalnych lub lokalnych innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej,
+- **6)** instytucje finansowe, których członkiem jest Rzeczpospolita Polska lub Narodowy Bank Polski, lub przynajmniej jedno z państw należących do Organizacji Współpracy Gospodarczej i Rozwoju (OECD), lub bank centralny takiego państwa, lub instytucje, z którymi Rzeczpospolita Polska zawarła umowy regulujące działalność takich instytucji na terenie Rzeczypospolitej Polskiej i zawierające stosowne postanowienia dotyczące emisji obligacji – zwane dalej „emitentami”.
+
 **Art. 3.** Przepisy ustawy nie mają zastosowania do obligacji emitowanych przez:
+
+- **1)** Skarb Państwa;
+- **2)** Narodowy Bank Polski.
 
 **Art. 4.**
 
@@ -70,12 +81,12 @@ Art. 99–108. (pominięte)
 
 2. Warunki emisji zawierają dodatkowo, w przypadku gdy:
 
-- **1)** przewidywane jest oprocentowanie wysokość tego oprocentowania lub sposób, w jaki będzie ustalana, datę, od której będzie naliczane, oraz termin, miejsce i sposób jego wypłaty, zwane dalej „warunkami wypłaty oprocentowania”;
-- **2)** przewidywane jest świadczenie niepieniężne zasady przeliczania wartości świadczenia niepieniężnego na świadczenie pieniężne;
-- **3)** przewidywana jest możliwość zaliczenia wierzytelności z tytułu wykupu na poczet ceny nabycia obligacji nowej emisji wskazanie tej możliwości;
-- **4)** określony został cel emisji wskazanie tego celu, a w przypadku europejskich zielonych obligacji, o których mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2631 z dnia 22 listopada 2023 r. w sprawie europejskich zielonych obligacji oraz opcjonalnego ujawniania informacji na temat obligacji wprowadzanych do obrotu jako zrównoważone środowiskowo i obligacji powiązanych ze zrównoważonym rozwojem (Dz. Urz. UE L 2023/2631 z 30.11.2023, z późn. zm. ), ogólne wskazanie tego celu wraz z informacją, że planowana alokacja przychodów z obligacji jest określona w arkuszu informacyjnym europejskiej zielonej obligacji, o którym mowa w art. 10 ust. 1 lit. a tego rozporządzenia;
-- **5)** ustanowione zostało zabezpieczenie wierzytelności wynikających z obligacji lub emitent zobowiązał się do ustanowienia takiego zabezpieczenia lub dodatkowego zabezpieczenia w przyszłości wysokość, formę i warunki tego zabezpieczenia, w tym informację o sposobie zaspokojenia z przedmiotu zabezpieczenia, datę ustanowienia zabezpieczenia lub planowany termin jego ustanowienia oraz wycenę, o której mowa w art. 30, lub skrót tej wyceny i uzasadnienie wyboru podmiotu dokonującego wyceny;
-- **6)** zawarta została umowa z administratorem zastawu lub administratorem hipoteki wskazanie podmiotu pełniącego te obowiązki.
+- **1)** przewidywane jest oprocentowanie – wysokość tego oprocentowania lub sposób, w jaki będzie ustalana, datę, od której będzie naliczane, oraz termin, miejsce i sposób jego wypłaty, zwane dalej „warunkami wypłaty oprocentowania”;
+- **2)** przewidywane jest świadczenie niepieniężne – zasady przeliczania wartości świadczenia niepieniężnego na świadczenie pieniężne;
+- **3)** przewidywana jest możliwość zaliczenia wierzytelności z tytułu wykupu na poczet ceny nabycia obligacji nowej emisji – wskazanie tej możliwości;
+- **4)** określony został cel emisji – wskazanie tego celu, a w przypadku europejskich zielonych obligacji, o których mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2631 z dnia 22 listopada 2023 r. w sprawie europejskich zielonych obligacji oraz opcjonalnego ujawniania informacji na temat obligacji wprowadzanych do obrotu jako zrównoważone środowiskowo i obligacji powiązanych ze zrównoważonym rozwojem (Dz. Urz. UE L 2023/2631 z 30.11.2023, z późn. zm. ), ogólne wskazanie tego celu wraz z informacją, że planowana alokacja przychodów z obligacji jest określona w arkuszu informacyjnym europejskiej zielonej obligacji, o którym mowa w art. 10 ust. 1 lit. a tego rozporządzenia;
+- **5)** ustanowione zostało zabezpieczenie wierzytelności wynikających z obligacji lub emitent zobowiązał się do ustanowienia takiego zabezpieczenia lub dodatkowego zabezpieczenia w przyszłości – wysokość, formę i warunki tego zabezpieczenia, w tym informację o sposobie zaspokojenia z przedmiotu zabezpieczenia, datę ustanowienia zabezpieczenia lub planowany termin jego ustanowienia oraz wycenę, o której mowa w art. 30, lub skrót tej wyceny i uzasadnienie wyboru podmiotu dokonującego wyceny;
+- **6)** zawarta została umowa z administratorem zastawu lub administratorem hipoteki – wskazanie podmiotu pełniącego te obowiązki.
 - **7)** (uchylony)
 
 3. W warunkach emisji emitent może zdecydować o ustanowieniu zgromadzenia obligatariuszy. W takim przypadku warunki emisji określają również zasady zwoływania i organizacji zgromadzenia obligatariuszy, w tym miejsce odbycia, oraz zasady podejmowania uchwał przez zgromadzenie. W przypadku gdy udział w zgromadzeniu obligatariuszy przy wykorzystaniu środków komunikacji elektronicznej nie jest dopuszczony, warunki emisji wskazują takie ograniczenie.
@@ -102,7 +113,7 @@ Art. 99–108. (pominięte)
 
 7. Kwota, o której mowa w ust. 6, podlega wypłacie w następnym dniu roboczym po dniu ustalenia osób uprawnionych do jej otrzymania. Przepisy ust. 5 stosuje się odpowiednio.
 
-8. Świadczenia pieniężne z tytułu wykupu obligacji są spełniane począwszy od obligacji o najwcześniejszym terminie wykupu, a w przypadku spełniania tych świadczeń w części w równych kwotach z tytułu każdej obligacji tej samej serii.
+8. Świadczenia pieniężne z tytułu wykupu obligacji są spełniane począwszy od obligacji o najwcześniejszym terminie wykupu, a w przypadku spełniania tych świadczeń w części – w równych kwotach z tytułu każdej obligacji tej samej serii.
 
 **Art. 8a.**
 
@@ -154,13 +165,13 @@ Art. 99–108. (pominięte)
 
 2. Obligacje zamienne nie mogą być emitowane poniżej wartości nominalnej ani wydawane przed pełną wpłatą.
 
-3. Uchwała o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje podlega zgłoszeniu do sądu rejestrowego. Jeżeli emitentem jest spółka, która podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego, wzmianka o uchwale wskazująca maksymalną wysokość podwyższenia kapitału zakładowego, a w przypadku prostej spółki akcyjnej maksymalną liczbę akcji, również podlega wpisowi do tego rejestru. Data przydziału i wydania obligacji nie może być wcześniejsza niż data wpisu.
+3. Uchwała o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje podlega zgłoszeniu do sądu rejestrowego. Jeżeli emitentem jest spółka, która podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego, wzmianka o uchwale wskazująca maksymalną wysokość podwyższenia kapitału zakładowego, a w przypadku prostej spółki akcyjnej – maksymalną liczbę akcji, również podlega wpisowi do tego rejestru. Data przydziału i wydania obligacji nie może być wcześniejsza niż data wpisu.
 
 4. Uchwała, o której mowa w ust. 3, określa w szczególności:
 
 - **1)** zakres przyznawanego prawa oraz warunki jego realizacji, w tym rodzaj akcji przyznawanych w zamian za obligacje;
-- **2)** sposób przeliczenia obligacji na akcje, z tym że na każdy jeden złoty wartości nominalnej obligacji może przypadać najwyżej jeden złoty wartości nominalnej akcji, a w przypadku akcji niemających wartości nominalnej jeden złoty ceny emisyjnej tych akcji;
-- **3)** maksymalną wysokość podwyższenia kapitału zakładowego w drodze zamiany obligacji na akcje, a w przypadku prostej spółki akcyjnej maksymalną liczbę akcji, które mają zostać wyemitowane w celu zamiany obligacji na akcje.
+- **2)** sposób przeliczenia obligacji na akcje, z tym że na każdy jeden złoty wartości nominalnej obligacji może przypadać najwyżej jeden złoty wartości nominalnej akcji, a w przypadku akcji niemających wartości nominalnej – jeden złoty ceny emisyjnej tych akcji;
+- **3)** maksymalną wysokość podwyższenia kapitału zakładowego w drodze zamiany obligacji na akcje, a w przypadku prostej spółki akcyjnej – maksymalną liczbę akcji, które mają zostać wyemitowane w celu zamiany obligacji na akcje.
 
 5. Termin zamiany obligacji na akcje nie może być dłuższy niż termin wykupu obligacji. Uchwała, o której mowa w ust. 3, może określić krótszy termin.
 
@@ -171,11 +182,11 @@ Art. 99–108. (pominięte)
 - **3)** wskazać sposób postępowania w przypadku przekształcenia, podziału, połączenia lub likwidacji emitenta lub zmiany wartości nominalnej akcji przed dniem, w którym roszczenie do zamiany stanie się wymagalne;
 - **4)** zamieścić informację o obowiązku zgłoszenia przez obligatariuszy Prezesowi Urzędu Ochrony Konkurencji i Konsumentów oraz innym organom zamiaru nabycia akcji w drodze zamiany obligacji na akcje.
 
-7. Oświadczenie obligatariusza o zamianie obligacji na akcje wymaga formy pisemnej i powinno zostać złożone spółce. W tym przypadku nie stosuje się art. 438 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanej dalej „Kodeksem spółek handlowych”.
+7. Oświadczenie obligatariusza o zamianie obligacji na akcje wymaga formy pisemnej i powinno zostać złożone spółce. W tym przypadku nie stosuje się art. 438 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanej dalej „Kodeksem spółek handlowych”.
 
 **Art. 20.**
 
-1. Spółka może emitować obligacje uprawniające obligatariusza oprócz innych świadczeń do subskrybowania akcji spółki z pierwszeństwem przed jej akcjonariuszami, zwane dalej „obligacjami z prawem pierwszeństwa”.
+1. Spółka może emitować obligacje uprawniające obligatariusza – oprócz innych świadczeń – do subskrybowania akcji spółki z pierwszeństwem przed jej akcjonariuszami, zwane dalej „obligacjami z prawem pierwszeństwa”.
 
 2. Uchwała o emisji obligacji z prawem pierwszeństwa określa liczbę akcji przypadających na jedną obligację oraz cenę emisyjną akcji albo sposób jej ustalenia, a także termin wygaśnięcia uprawnień obligatariuszy wynikających z przyznanego prawa pierwszeństwa.
 
@@ -187,18 +198,18 @@ Art. 99–108. (pominięte)
 
 2. W przypadku gdy emitentem jest bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa, Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa, dom maklerski, o którym mowa w art. 98 ust. 3 ustawy o obrocie instrumentami finansowymi, zakład ubezpieczeń lub zakład reasekuracji, wartość nominalna jednej obligacji, o której mowa w ust. 1, nie może być niższa niż 400 000 zł lub równowartość tej kwoty wyrażona w innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia decyzji emitenta o emisji.
 
-**Art. 23.** Emitent może emitować obligacje niepodlegające wykupowi, z zastrzeżeniem art. 75 ust. 2, uprawniające obligatariusza do otrzymywania odsetek przez czas nieoznaczony, zwane dalej „obligacjami wieczystymi”. Przepisu art. 365 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508) nie stosuje się.
+**Art. 23.** Emitent może emitować obligacje niepodlegające wykupowi, z zastrzeżeniem art. 75 ust. 2, uprawniające obligatariusza do otrzymywania odsetek przez czas nieoznaczony, zwane dalej „obligacjami wieczystymi”. Przepisu art. 365 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508) nie stosuje się.
 
 **Art. 24.**
 
 1. Emitent może emitować obligacje uprawniające obligatariusza do zaspokojenia roszczeń z pierwszeństwem przed innymi wierzycielami emitenta:
 
 - **1)** z całości albo części przychodów lub z całości albo części majątku przedsięwzięć, które zostały sfinansowane w całości albo części ze środków uzyskanych z emisji obligacji, lub
-- **2)** z całości albo części przychodów z innych przedsięwzięć określonych przez emitenta zwane dalej „obligacjami przychodowymi”.
+- **2)** z całości albo części przychodów z innych przedsięwzięć określonych przez emitenta – zwane dalej „obligacjami przychodowymi”.
 
 2. Emitent może ograniczyć swoją odpowiedzialność za zobowiązania wynikające z obligacji przychodowych do kwoty przychodów lub wartości majątku przedsięwzięcia, do których obligatariuszom przysługuje uprawnienie, o którym mowa w ust. 1.
 
-3. Uprawnienie obligatariusza, o którym mowa w ust. 1, nie wpływa na kolejność zaspokojenia należności, o których mowa w art. 1025 § 1 pkt 4 i 5 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172, 1302 i 1518), zabezpieczonych przed datą emisji obligacji. O istnieniu takich zabezpieczeń emitent jest obowiązany poinformować w warunkach emisji obligacji przychodowych.
+3. Uprawnienie obligatariusza, o którym mowa w ust. 1, nie wpływa na kolejność zaspokojenia należności, o których mowa w art. 1025 § 1 pkt 4 i 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172, 1302 i 1518), zabezpieczonych przed datą emisji obligacji. O istnieniu takich zabezpieczeń emitent jest obowiązany poinformować w warunkach emisji obligacji przychodowych.
 
 **Art. 25.**
 
@@ -251,13 +262,27 @@ Art. 99–108. (pominięte)
 
 **Art. 27a.** O ile umowa spółki albo statut emitenta tak stanowią, emitent może emitować obligacje w celu ich zakwalifikowania:
 
+- **1)** do funduszy własnych jako instrumenty:
+    - **a)** dodatkowe w Tier I zgodnie z art. 52 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 575/2013”,
+    - **b)** w Tier II zgodnie z art. 63 rozporządzenia 575/2013,
+
+- **2)** do środków własnych jako pozycje podstawowych środków własnych: uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem delegowanym Komisji (UE) 2015/35”,
+    - **a)** kategorii 1 zgodnie z art. 71 rozporządzenia delegowanego Komisji (UE) nr 2015/35 z dnia 10 października 2014 r.
+    - **b)** kategorii 2 zgodnie z art. 73 rozporządzenia delegowanego Komisji (UE) 2015/35,
+    - **c)** kategorii 3 zgodnie z art. 77 rozporządzenia delegowanego Komisji (UE) 2015/35 – zwane dalej „obligacjami kapitałowymi”.
+
 **Art. 27b.** Emitentem obligacji kapitałowych może być:
+
+- **1)** bank krajowy;
+- **2)** dom maklerski, o którym mowa w art. 95 ust. 1 pkt 1 i 3 ustawy o obrocie instrumentami finansowymi;
+- **3)** krajowy zakład ubezpieczeń;
+- **4)** krajowy zakład reasekuracji.
 
 **Art. 27c.** Zawarcie umowy, której przedmiotem jest obligacja kapitałowa, oraz pośrednictwo w zawarciu takiej umowy jest możliwe wyłącznie w przypadku, gdy obejmującym lub nabywcą tej obligacji jest podmiot wymieniony w art. 3 pkt 39b lit. a–m ustawy o obrocie instrumentami finansowymi.
 
 **Art. 27d.** Wartość nominalna obligacji kapitałowej wynosi co najmniej 400 000 zł lub równowartość tej kwoty wyrażoną w innej walucie, ustaloną przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia uchwały o emisji przez emitenta obligacji kapitałowej.
 
-**Art. 27e.** Obligacje kapitałowe mogą uprawniać obligatariusza do otrzymywania odsetek przez czas nieoznaczony. Przepisu art. 365 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny nie stosuje się.
+**Art. 27e.** Obligacje kapitałowe mogą uprawniać obligatariusza do otrzymywania odsetek przez czas nieoznaczony. Przepisu art. 365 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
 
 **Art. 27f.**
 
@@ -285,15 +310,15 @@ Art. 99–108. (pominięte)
 
 - **1)** wskazanie zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013 albo art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) 2015/35, oraz ryzyka z nim związane;
 - **2)** określenie mechanizmu pokrywania strat w przypadku wystąpienia określonego w warunkach emisji zdarzenia inicjującego, o którym mowa odpowiednio w:
-    - **a)** art. 54 ust. 1 rozporządzenia 575/2013, przez: umorzenie obligacji kapitałowych w formie odpisu trwałego albo odpisu tymczasowego, obniżających w całości albo w części wartość nominalną obligacji kapitałowej, albo zamianę obligacji kapitałowych na akcje emitenta,
-    - **b)** art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) 2015/35, przez: dokonanie odliczeń obniżających wartość nominalną obligacji kapitałowej w całości albo w części albo zamianę obligacji kapitałowych na akcje emitenta, albo zastosowanie mechanizmu pokrywania strat innego niż określony w tiret pierwszym i drugim, pozwalającego na uzyskanie rezultatu równoważnego z rezultatami mechanizmów pokrywania strat określonych w tiret pierwszym i drugim.
+    - **a)** art. 54 ust. 1 rozporządzenia 575/2013, przez: – umorzenie obligacji kapitałowych w formie odpisu trwałego albo odpisu tymczasowego, obniżających w całości albo w części wartość nominalną obligacji kapitałowej, albo – zamianę obligacji kapitałowych na akcje emitenta,
+    - **b)** art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) 2015/35, przez: – dokonanie odliczeń obniżających wartość nominalną obligacji kapitałowej w całości albo w części albo – zamianę obligacji kapitałowych na akcje emitenta, albo – zastosowanie mechanizmu pokrywania strat innego niż określony w tiret pierwszym i drugim, pozwalającego na uzyskanie rezultatu równoważnego z rezultatami mechanizmów pokrywania strat określonych w tiret pierwszym i drugim.
 
-2. Emitent obligacji kapitałowych, o których mowa w art. 27a pkt 1 lit. a, zawiera dodatkowo w warunkach emisji informację o możliwości wykupu obligacji kapitałowych w przypadku odmowy wydania przez Komisję Nadzoru Finansowego zezwolenia na zakwalifikowanie obligacji kapitałowych do funduszy własnych zgodnie z art. 52 rozporządzenia 575/2013 jeżeli przewiduje taki wykup.
+2. Emitent obligacji kapitałowych, o których mowa w art. 27a pkt 1 lit. a, zawiera dodatkowo w warunkach emisji informację o możliwości wykupu obligacji kapitałowych w przypadku odmowy wydania przez Komisję Nadzoru Finansowego zezwolenia na zakwalifikowanie obligacji kapitałowych do funduszy własnych zgodnie z art. 52 rozporządzenia 575/2013 – jeżeli przewiduje taki wykup.
 
 3. W warunkach emisji obligacji kapitałowych, o których mowa w art. 27a pkt 1 lit. a oraz pkt 2 lit. a, mogą być określone zasady i kryteria podwyższenia wartości nominalnej obligacji kapitałowych odpowiednio w przypadku:
 
 - **1)** ich umorzenia w formie odpisu tymczasowego, obniżającego w części wartość nominalną obligacji kapitałowej w następstwie wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013, albo
-- **2)** dokonania odliczeń obniżających w części wartość nominalną obligacji kapitałowej w następstwie wystąpienia zdarzenia inicjującego, o którym mowa w art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) 2015/35 nie więcej jednak niż do wartości nominalnej tych obligacji z dnia emisji.
+- **2)** dokonania odliczeń obniżających w części wartość nominalną obligacji kapitałowej w następstwie wystąpienia zdarzenia inicjującego, o którym mowa w art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) 2015/35 – nie więcej jednak niż do wartości nominalnej tych obligacji z dnia emisji.
 
 **Art. 27i.**
 
@@ -301,7 +326,7 @@ Art. 99–108. (pominięte)
 
 - **1)** wprowadzić mechanizm pokrywania strat, o którym mowa w art. 27h ust. 1 pkt 2 lit. a;
 - **2)** przewidzieć uprawnienie do umorzenia odsetek albo części odsetek z tytułu obligacji kapitałowych, o którym mowa w art. 27f ust. 1;
-- **3)** zawrzeć informację o możliwości wykupu obligacji kapitałowych w przypadku odmowy wydania przez Komisję Nadzoru Finansowego zezwolenia na zakwalifikowanie obligacji kapitałowych do funduszy własnych, zgodnie z art. 63 rozporządzenia 575/2013 jeżeli przewiduje taki wykup.
+- **3)** zawrzeć informację o możliwości wykupu obligacji kapitałowych w przypadku odmowy wydania przez Komisję Nadzoru Finansowego zezwolenia na zakwalifikowanie obligacji kapitałowych do funduszy własnych, zgodnie z art. 63 rozporządzenia 575/2013 – jeżeli przewiduje taki wykup.
 
 2. W przypadku gdy emitent obligacji kapitałowych, o których mowa w art. 27a pkt 1 lit. b, wprowadził w warunkach emisji mechanizm pokrywania strat, o którym mowa w art. 27h ust. 1 pkt 2 lit. a, jest obowiązany do określenia w warunkach emisji zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013. Jeżeli w warunkach emisji wprowadzono mechanizm pokrywania strat, o którym mowa w art. 27h ust. 1 pkt 2 lit. a tiret pierwsze, w warunkach emisji można określić zasady i kryteria podwyższenia wartości nominalnej obligacji kapitałowych, o których mowa w art. 27h ust. 3 pkt 1.
 
@@ -318,7 +343,7 @@ Art. 99–108. (pominięte)
 
 - **1)** bankiem spółdzielczym,
 - **2)** domem maklerskim w formie spółki z ograniczoną odpowiedzialnością,
-- **3)** bankiem państwowym dokonuje wyłącznie umorzenia, o którym mowa w ust. 1 pkt 1.
+- **3)** bankiem państwowym – dokonuje wyłącznie umorzenia, o którym mowa w ust. 1 pkt 1.
 
 3. Wysokość odpisu, o którym mowa w ust. 1 pkt 1, określa zarząd emitenta obligacji kapitałowych w drodze uchwały.
 
@@ -354,6 +379,9 @@ Art. 99–108. (pominięte)
 
 **Art. 27m.** W przypadku gdy warunki emisji obligacji kapitałowych, o których mowa w art. 27a:
 
+- **1)** pkt 1, przewidują możliwość ich umorzenia w formie odpisu trwałego albo odpisu tymczasowego, obniżających w całości albo w części wartość nominalną obligacji kapitałowej,
+- **2)** pkt 2 lit. a, przewidują możliwość dokonania odliczeń obniżających w całości albo w części wartość obligacji kapitałowej albo zastosowania mechanizmu pokrywania strat, o którym mowa w art. 27h ust. 1 pkt 2 lit. b tiret trzecie – emisja tych obligacji wymaga podjęcia uchwały przez zarząd emitenta i wyrażenia przez radę nadzorczą emitenta zgody na dokonanie takiej emisji, a w przypadku emitenta będącego zakładem ubezpieczeń albo zakładem reasekuracji, wykonującym działalność w formie spółki europejskiej, w której przyjęto system monistyczny – podjęcia uchwały przez radę administrującą.
+
 **Art. 27n.**
 
 1. Emisja obligacji kapitałowych, które w przypadku wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013 albo art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) 2015/35, podlegają zamianie na akcje emitenta, wymaga uchwały walnego zgromadzenia emitenta podjętej większością trzech czwartych głosów.
@@ -367,7 +395,7 @@ Art. 99–108. (pominięte)
 - **5)** rodzaj akcji emitenta przyznawanych w zamian za obligacje kapitałowe;
 - **6)** sposób postępowania w przypadku przekształcenia, podziału, połączenia lub likwidacji emitenta lub zmiany wartości nominalnej akcji emitenta przed dniem wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013 albo art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) 2015/35.
 
-3. Uchwała, o której mowa w ust. 1, może zawierać upoważnienie dla zarządu emitenta do określenia warunków emisji obligacji kapitałowych innych niż wynikające z ust. 2, w szczególności wysokości oprocentowania w przypadku obligacji kapitałowych o stałym oprocentowaniu albo wysokości marży w przypadku obligacji kapitałowych o zmiennym oprocentowaniu.
+3. Uchwała, o której mowa w ust. 1, może zawierać upoważnienie dla zarządu emitenta do określenia warunków emisji obligacji kapitałowych innych niż wynikające z ust. 2, w szczególności wysokości oprocentowania – w przypadku obligacji kapitałowych o stałym oprocentowaniu albo wysokości marży – w przypadku obligacji kapitałowych o zmiennym oprocentowaniu.
 
 **Art. 27o.** Do obligacji kapitałowych nie stosuje się przepisów art. 28–31, art. 36, art. 74 ust. 2–6 oraz art. 76 ust. 2 i 3.
 
@@ -421,7 +449,7 @@ Art. 99–108. (pominięte)
 - **2)** oświadczenie administratora hipoteki o zmianie warunków emisji w zakresie wysokości, formy lub warunków zabezpieczenia wierzytelności wynikających z obligacji;
 - **3)** oświadczenie podmiotu prowadzącego depozyt papierów wartościowych zgodnie z przepisami ustawy o obrocie instrumentami finansowymi albo agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, potwierdzające, że za pośrednictwem składającego oświadczenie emitent dokonał wykupu obligacji.
 
-7. Do przeniesienia obligacji zabezpieczonej hipoteką nie stosuje się przepisu art. 245 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+7. Do przeniesienia obligacji zabezpieczonej hipoteką nie stosuje się przepisu art. 245 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 #### Rozdział 4 Emisja obligacji
 
@@ -432,6 +460,9 @@ Art. 99–108. (pominięte)
 2. Jeżeli cel emisji został określony, emitent nie może przeznaczyć środków pochodzących z emisji obligacji na inny cel.
 
 **Art. 33.** Emisja obligacji może nastąpić:
+
+- **1)** w trybie oferty publicznej papierów wartościowych, o której mowa w art. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12), zwanego dalej „rozporządzeniem 2017/1129”;
+- **2)** przez proponowanie nabycia obligacji w inny sposób niż wskazany w pkt 1.
 
 **Art. 33a.** Oferta publiczna obligacji, o której mowa w art. 2 lit. d rozporządzenia 2017/1129, skierowana do klienta detalicznego w rozumieniu art. 3 pkt 39c ustawy o obrocie instrumentami finansowymi będącego osobą fizyczną, wymaga pośrednictwa firmy inwestycyjnej lub dostawcy usług finansowania społecznościowego posiadającego zezwolenie, o którym mowa w art. 12 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1, z późn. zm. ).
 
@@ -446,7 +477,7 @@ Art. 99–108. (pominięte)
 1. W propozycji nabycia zamieszcza się warunki emisji oraz informacje, które umożliwiają ocenę sytuacji finansowej emitenta. Emitent jest obowiązany do udostępnienia w szczególności informacji dotyczących:
 
 - **1)** wartości zaciągniętych zobowiązań finansowych, z wyszczególnieniem zobowiązań przeterminowanych, ustalonej na ostatni dzień kwartału poprzedzający o nie więcej niż 4 miesiące udostępnienie propozycji nabycia, przy czym w przypadku gdy emitent należy do grupy kapitałowej sporządzającej skonsolidowane sprawozdania finansowe zgodnie z art. 55–63d ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), zwanej dalej „ustawą o rachunkowości”, lub innymi mającymi zastosowanie przepisami o rachunkowości dotyczącymi skonsolidowanych sprawozdań finansowych, informacje te przedstawia się dodatkowo w odniesieniu do grupy kapitałowej emitenta;
-- **2)** prognozy kształtowania się zobowiązań finansowych emitenta, w tym wskazanie szacunkowej wartości zobowiązań finansowych oraz szacowanej struktury finansowania emitenta rozumianej jako wartość i udział procentowy zobowiązań z tytułu kredytów i pożyczek, emisji dłużnych papierów wartościowych, leasingu w sumie pasywów bilansu emitenta, na ostatni dzień roku obrotowego, w którym nastąpiła emisja, oraz na dzień kończący okres dwunastu miesięcy od daty emisji, a w przypadku gdy termin wykupu obligacji przypada przed upływem dwunastu miesięcy od dnia emisji na dzień wykupu obligacji, przy czym w przypadku emitenta sporządzającego skonsolidowane sprawozdania finansowe zgodnie z art. 55–63d ustawy o rachunkowości lub innymi mającymi zastosowanie przepisami o rachunkowości dotyczącymi skonsolidowanych sprawozdań finansowych, informacje dotyczące prognozy kształtowania się zobowiązań finansowych przedstawiają dodatkowo dane dotyczące grupy kapitałowej emitenta, a w przypadku emitenta będącego jednostką samorządu terytorialnego aktualną wieloletnią prognozę finansową.
+- **2)** prognozy kształtowania się zobowiązań finansowych emitenta, w tym wskazanie szacunkowej wartości zobowiązań finansowych oraz szacowanej struktury finansowania emitenta rozumianej jako wartość i udział procentowy zobowiązań z tytułu kredytów i pożyczek, emisji dłużnych papierów wartościowych, leasingu w sumie pasywów bilansu emitenta, na ostatni dzień roku obrotowego, w którym nastąpiła emisja, oraz na dzień kończący okres dwunastu miesięcy od daty emisji, a w przypadku gdy termin wykupu obligacji przypada przed upływem dwunastu miesięcy od dnia emisji – na dzień wykupu obligacji, przy czym w przypadku emitenta sporządzającego skonsolidowane sprawozdania finansowe zgodnie z art. 55–63d ustawy o rachunkowości lub innymi mającymi zastosowanie przepisami o rachunkowości dotyczącymi skonsolidowanych sprawozdań finansowych, informacje dotyczące prognozy kształtowania się zobowiązań finansowych przedstawiają dodatkowo dane dotyczące grupy kapitałowej emitenta, a w przypadku emitenta będącego jednostką samorządu terytorialnego – aktualną wieloletnią prognozę finansową.
 
 1a. Do czasu całkowitego wykupu obligacji emitent jest obowiązany publikować na swojej stronie internetowej, najpóźniej w ostatnim dniu każdego kolejnego roku obrotowego, informacje dotyczące prognozy kształtowania się zobowiązań finansowych emitenta, o których mowa w ust. 1 pkt 2, na ostatni dzień następnego roku obrotowego.
 
@@ -497,6 +528,10 @@ Art. 99–108. (pominięte)
 
 **Art. 44.** W przypadku emisji obligacji zgodnie z art. 33 pkt 2:
 
+- **1)** termin na przyjęcie propozycji nabycia wynosi 3 tygodnie od dnia jej otrzymania, chyba że emitent określi inny termin;
+- **2)** termin składania kolejnych propozycji nabycia obligacji danej emisji nie może być dłuższy niż 6 tygodni od dnia złożenia pierwszej propozycji;
+- **3)** termin dokonania przydziału obligacji wynosi 6 tygodni od dnia złożenia ostatniej propozycji nabycia, chyba że emitent określi w propozycji nabycia krótszy termin.
+
 **Art. 45.**
 
 1. Emitent może określić w propozycji nabycia minimalną liczbę obligacji, których subskrybowanie jest wymagane dla dojścia emisji do skutku, zwaną dalej „progiem emisji”, a gdy emitent jest spółką, próg ten określa także w uchwale o emisji obligacji.
@@ -523,7 +558,7 @@ Art. 99–108. (pominięte)
 - **2)** terminu, miejsca lub sposobu spełniania świadczeń wynikających z obligacji, w tym dni, według których ustala się uprawnionych do tych świadczeń,
 - **3)** zasad przeliczania wartości świadczenia niepieniężnego na świadczenie pieniężne,
 - **4)** wysokości, formy lub warunków zabezpieczenia wierzytelności wynikających z obligacji,
-- **5)** zasad zwoływania, funkcjonowania lub podejmowania uchwał przez zgromadzenie obligatariuszy zwanych dalej „postanowieniami kwalifikowanymi warunków emisji”.
+- **5)** zasad zwoływania, funkcjonowania lub podejmowania uchwał przez zgromadzenie obligatariuszy – zwanych dalej „postanowieniami kwalifikowanymi warunków emisji”.
 
 2. Emitent w warunkach emisji obligacji może wskazać inne postanowienia warunków emisji, których zmiana w wyniku uchwały zgromadzenia obligatariuszy jest dopuszczalna.
 
@@ -749,17 +784,21 @@ Art. 99–108. (pominięte)
 
 2. Komisja Nadzoru Finansowego może wydać zezwolenie na wykup obligacji kapitałowych nie wcześniej niż po upływie:
 
-- **1)** w przypadku emitenta obligacji kapitałowych, o którym mowa w art. 27b pkt 1 i 2 5 lat od dnia ich emisji, zgodnie z art. 77 rozporządzenia 575/2013, z wyjątkiem przypadku określonego w art. 78 ust. 4 rozporządzenia 575/2013,
+- **1)** w przypadku emitenta obligacji kapitałowych, o którym mowa w art. 27b pkt 1 i 2 – 5 lat od dnia ich emisji, zgodnie z art. 77 rozporządzenia 575/2013, z wyjątkiem przypadku określonego w art. 78 ust. 4 rozporządzenia 575/2013,
 - **2)** w przypadku emitenta obligacji kapitałowych, o którym mowa w art. 27b pkt 3 i 4:
-    - **a)** 5 lat od dnia ich emisji, zgodnie z art. 71 rozporządzenia delegowanego Komisji (UE) 2015/35 w przypadku, o którym mowa w art. 27a pkt 2 lit. a,
-    - **b)** 5 lat od dnia ich emisji, zgodnie z art. 73 rozporządzenia delegowanego Komisji (UE) 2015/35 w przypadku, o którym mowa w art. 27a pkt 2 lit. b,
-    - **c)** 5 lat od dnia ich emisji, zgodnie z art. 77 rozporządzenia delegowanego Komisji (UE) 2015/35 w przypadku, o którym mowa w art. 27a pkt 2 lit. c.
+    - **a)** 5 lat od dnia ich emisji, zgodnie z art. 71 rozporządzenia delegowanego Komisji (UE) 2015/35 – w przypadku, o którym mowa w art. 27a pkt 2 lit. a,
+    - **b)** 5 lat od dnia ich emisji, zgodnie z art. 73 rozporządzenia delegowanego Komisji (UE) 2015/35 – w przypadku, o którym mowa w art. 27a pkt 2 lit. b,
+    - **c)** 5 lat od dnia ich emisji, zgodnie z art. 77 rozporządzenia delegowanego Komisji (UE) 2015/35 – w przypadku, o którym mowa w art. 27a pkt 2 lit. c.
 
 3. Emitent może wykupić obligacje kapitałowe w przypadku odmowy wydania przez Komisję Nadzoru Finansowego zezwolenia na ich zakwalifikowanie do funduszy własnych zgodnie z art. 52 lub art. 63 rozporządzenia 575/2013, jeżeli w warunkach emisji zawarł informację o możliwości takiego wykupu.
 
 4. Wymogu uzyskania zezwolenia na wykup obligacji kapitałowych, o którym mowa w ust. 2 pkt 2, nie stosuje się w przypadku określonym w art. 9 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. ).
 
 **Art. 74b.** Jeżeli obligacje kapitałowe zostały wyemitowane w celu, o którym mowa w art. 27a pkt 2:
+
+- **1)** lit. a, emitent obligacji kapitałowych wstrzymuje wykup obligacji kapitałowych zgodnie z art. 71 ust. 1 lit. j oraz ust. 9 rozporządzenia delegowanego Komisji (UE) 2015/35,
+- **2)** lit. b, emitent obligacji kapitałowych wstrzymuje wykup obligacji kapitałowych zgodnie z art. 73 ust. 1 lit. f oraz ust. 3 rozporządzenia delegowanego Komisji (UE) 2015/35,
+- **3)** lit. c, emitent obligacji kapitałowych wstrzymuje wykup obligacji kapitałowych zgodnie z art. 77 ust. 1 lit. f oraz ust. 3 rozporządzenia delegowanego Komisji (UE) 2015/35 – w przypadku gdy powstała niezgodność z kapitałowym wymogiem wypłacalności albo gdy wykup obligacji kapitałowych prowadziłby do jej powstania.
 
 **Art. 74c.** Obligacje kapitałowe stają się wymagalne w przypadku ogłoszenia upadłości albo otwarcia likwidacji emitenta obligacji kapitałowych.
 
@@ -843,7 +882,7 @@ Art. 99–108. (pominięte)
 
 - **1)** udostępniania bankowi-reprezentantowi rocznych sprawozdań finansowych wraz ze sprawozdaniem z badania, a w przypadku emitenta sporządzającego skonsolidowane sprawozdanie finansowe również to sprawozdanie;
 - **2)** składania bankowi-reprezentantowi, w odstępach czasu nie dłuższych niż 3 miesiące, okresowego sprawozdania z wykonania obowiązków wynikających z warunków emisji;
-- **3)** zawiadamiania banku-reprezentanta w przypadku ustanowienia zabezpieczenia wierzytelności wynikających z obligacji danej emisji o zmianach dotyczących ustanowionego zabezpieczenia, w tym o istotnych zmianach wartości przedmiotu zabezpieczenia.
+- **3)** zawiadamiania banku-reprezentanta – w przypadku ustanowienia zabezpieczenia wierzytelności wynikających z obligacji danej emisji – o zmianach dotyczących ustanowionego zabezpieczenia, w tym o istotnych zmianach wartości przedmiotu zabezpieczenia.
 
 2. Przepisów ust. 1 pkt 1 i 2 nie stosuje się do emitentów, których papiery wartościowe zostały dopuszczone do obrotu na rynku regulowanym lub wprowadzone do alternatywnego systemu obrotu, a w przypadku informacji podlegających przekazaniu do publicznej wiadomości w trybie określonym w ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych lub regulaminie alternatywnego systemu obrotu nie stosuje się również przepisu ust. 1 pkt 3.
 
@@ -889,7 +928,7 @@ Art. 99–108. (pominięte)
 1. Kto:
 
 - **1)** nie przekazuje wydruków informacji i komunikatów publikowanych na stronie internetowej emitenta, zgodnie z art. 16 ust. 1,
-- **2)** będąc do tego obowiązanym, nie przechowuje wydruków przekazanych przez emitenta przez wymagany okres podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+- **2)** będąc do tego obowiązanym, nie przechowuje wydruków przekazanych przez emitenta przez wymagany okres – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 2. Tej samej karze podlega, kto działając w imieniu lub w interesie osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, dopuszcza się czynu określonego w ust. 1.
 

@@ -8,10 +8,10 @@ pos: 106
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 stycznia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 106 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 14 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/106/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 14 grudnia 2018 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 września 2016 r. w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (Dz. U. poz. 1472), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 czerwca 2017 r. zmieniającym rozporządzenie w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (Dz. U. poz. 1336);
@@ -34,7 +33,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 czerwca 2017 r. zmieniającego rozporządzenie w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (Dz. U. poz. 1336), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 29 marca 2018 r. zmieniającego rozporządzenie w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji (Dz. U. poz. 676), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 5 września 2016 r.
-w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji Na podstawie art. 88 ust. 2 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2018 r. poz. 2308) zarządza się, co następuje: § 1. Rozporządzenie określa sposób gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji , zwany dalej „Zarządem”, w tym:
+w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji Na podstawie art. 88 ust. 2 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2018 r. poz. 2308) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji , zwany dalej „Zarządem”, w tym:
 1) zakres remontów, konserwacji i napraw lokali mieszkalnych, które obciążają Zarząd, oraz zakres konserwacji, napraw i wymiany, których Zarząd nie wykonuje w lokalach mieszkalnych;
 2) sposób i tryb dokonywania remontów i ich odbioru;
 3) sposób ustalania zużycia wyposażenia i urządzeń technicznych w lokalu mieszkalnym oraz normy tego zużycia, kwalifikujące do naprawy lub wymiany;
@@ -62,7 +62,7 @@ k) instalacji gazowej wraz z urządzeniami odbiorczymi,
 l) przyrządów pomiarowych wody i energii cieplnej, w tym podzielników kosztów ogrzewania;
 2) w lokalach mieszkalnych:
 a) stolarki okiennej,
-b) stolarki drzwiowej wejściowej do lokalu mieszkalnego,
+b) stolarki drzwiowej – wejściowej do lokalu mieszkalnego,
 c) posadzek, podłóg i okładzin ściennych, wchodzących w standard wykończenia lokalu mieszkalnego,
 d) tynków ścian i sufitów, z malowaniem,
 e) balkonów i loggii, z malowaniem,
@@ -77,7 +77,8 @@ l) przyrządów pomiarowych wody i energii cieplnej, w tym podzielników kosztó
 § 4. 1. W budynkach stanowiących wyłączną własność Skarbu Państwa reprezentowanego przez Zarząd, Zarząd dokonuje konserwacji i wykonuje naprawy pionów wody zimnej, ciepłej wody użytkowej, kanalizacji, energii elektrycznej i gazu włącznie do zaworów lub zabezpieczeń odcinających dopływ lub odpływ tych mediów do lub z lokalu mieszkalnego.
 Jeżeli zawory lub zabezpieczenia są umieszczone poza lokalem mieszkalnym, Zarząd dokonuje konserwacji i wykonuje naprawy pionów do miejsca ich rozgałęzienia służącego do doprowadzenia lub odprowadzenia poszczególnych mediów do lub z lokalu mieszkalnego.
 2. W lokalach mieszkalnych, o których mowa w art. 87 ust. 5 pkt 4–6 ustawy, warunki i sposób wykonywania okresowych kontroli stanu technicznego i przydatności do użytkowania oraz napraw, konserwacji i remontów określają zawarte w tym zakresie umowy cywilnoprawne.
-§ 5. 1. W lokalach mieszkalnych, stanowiących własność Skarbu Państwa reprezentowanego przez Zarząd, Zarząd wykonuje remonty w pełnym zakresie wyłącznie w przypadku poddania remontowi całego budynku albo jego części funkcjo2. W budynkach stanowiących wyłączną własność Skarbu Państwa reprezentowanego przez Zarząd, Zarząd wykonuje remonty pomieszczeń technicznych i pomieszczeń przeznaczonych do wspólnego użytku, jeżeli stan techniczny tych pomieszczeń wskazuje na konieczność ich wykonania.
+§ 5. 1. W lokalach mieszkalnych, stanowiących własność Skarbu Państwa reprezentowanego przez Zarząd, Zarząd wykonuje remonty w pełnym zakresie wyłącznie w przypadku poddania remontowi całego budynku albo jego części funkcjonalnej, w zakresie przewidzianym w dokumentacji technicznej dla prowadzonego remontu.
+2. W budynkach stanowiących wyłączną własność Skarbu Państwa reprezentowanego przez Zarząd, Zarząd wykonuje remonty pomieszczeń technicznych i pomieszczeń przeznaczonych do wspólnego użytku, jeżeli stan techniczny tych pomieszczeń wskazuje na konieczność ich wykonania.
 § 6. 1. Zarząd nie wykonuje w lokalach mieszkalnych konserwacji i napraw uszkodzeń powstałych w trakcie używania lokalu mieszkalnego przez osobę zamieszkałą w tym lokalu oraz wynikającej z tych uszkodzeń wymiany:
 1) podłóg, posadzek, wykładzin podłogowych, tynków ścian i sufitów oraz okładzin ściennych,
 2) okien i drzwi oraz ich oszklenia, a także okuć i zamków,
@@ -88,17 +89,18 @@ Jeżeli zawory lub zabezpieczenia są umieszczone poza lokalem mieszkalnym, Zarz
 7) przewodów odpływowych urządzeń sanitarnych do pionów zbiorczych,
 8) malowania i tapetowania tynków ścian i sufitów,
 9) obustronnego malowania okien i drzwi wewnętrznych oraz malowania od strony wewnętrznej drzwi wejściowych do lokalu mieszkalnego,
-10) malowania wbudowanych mebli oraz instalacji sanitarnych i grzewczych z wyjątkiem przypadku, o którym mowa w art. 69 ust. 1 ustawy.
+10) malowania wbudowanych mebli oraz instalacji sanitarnych i grzewczych – z wyjątkiem przypadku, o którym mowa w art. 69 ust. 1 ustawy.
 2. W kwaterach internatowych Zarząd wykonuje konserwacje, naprawy i wymiany w pełnym zakresie, w tym również w zakresie, o którym mowa w ust. 1.
-§ 7. 1. Osoba, która uzyskała tytuł prawny do zamieszkiwania w lokalu mieszkalnym, może za zgodą Dyrektora Zarządu wykonać remont, o którym mowa w art. 69 ust. 1 ustawy, we własnym zakresie. Koszt tego remontu, uwzględniający podatek od towarów i usług VAT, ustala Dyrektor Zarządu w formie pisemnej, na podstawie kosztorysu inwestorskiego sporządzonego zgodnie z przepisami wydanymi na podstawie art. 33 ust. 3 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53). Termin wykonania remontu oraz sposób rozliczenia nakładów z tego tytułu określa się w umowie zawartej przed rozpoczęciem prac remontowych pomiędzy Dyrektorem Zarządu a osobą, która uzyskała tytuł prawny do zamieszkiwania w lokalu mieszkalnym.
+§ 7. 1. Osoba, która uzyskała tytuł prawny do zamieszkiwania w lokalu mieszkalnym, może za zgodą Dyrektora Zarządu wykonać remont, o którym mowa w art. 69 ust. 1 ustawy, we własnym zakresie. Koszt tego remontu, uwzględniający podatek od towarów i usług VAT, ustala Dyrektor Zarządu w formie pisemnej, na podstawie kosztorysu inwestorskiego sporządzonego zgodnie z przepisami wydanymi na podstawie art. 33 ust. 3 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53). Termin wykonania remontu oraz sposób rozliczenia nakładów z tego tytułu określa się w umowie zawartej przed rozpoczęciem prac remontowych pomiędzy Dyrektorem Zarządu a osobą, która uzyskała tytuł prawny do zamieszkiwania w lokalu mieszkalnym.
 2. Do kosztorysu, o którym mowa w ust. 1, przyjmuje się stosowane w kwartale poprzedzającym średnie krajowe ceny rynkowe, publikowane w powszechnie stosowanych cennikach i wydawnictwach.
 3. Przed udostępnieniem lokalu mieszkalnego do remontu, o którym mowa w ust. 1, przedstawiciel Zarządu, w obecności osoby uprawnionej, która uzyskała tytuł prawny do zamieszkiwania w lokalu mieszkalnym, sporządza protokół, w którym określa stan techniczny lokalu oraz znajdujących się w nim urządzeń technicznych i wyposażenia, a także odnotowuje wskazania urządzeń pomiarowych, w tym licznika energii elektrycznej, gazomierza i wodomierzy.
 4. Po wykonaniu remontu osoba posiadająca tytuł prawny do zamieszkiwania w lokalu mieszkalnym zgłasza pisemnie jego wykonanie do Dyrektora Zarządu.
 5. Odbioru remontu wykonanego w lokalu mieszkalnym dokonuje wyznaczony przez Dyrektora Zarządu przedstawiciel Zarządu spełniający warunki, określone w art. 73 ust. 3 ustawy, w obecności osoby uprawnionej, posiadającej tytuł prawny do zamieszkiwania w lokalu mieszkalnym, w terminie obustronnie uzgodnionym, nie później niż w ciągu 5 dni roboczych od dnia zgłoszenia wykonania remontu.
-6. Jeżeli remont został wykonany z naruszeniem postanowień umowy, o której mowa w ust. 1, lub przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2018 r. poz. 1202, 1276, 1496, 1669 i 2245 oraz z 2019 r. poz. 51), albo stwierdzono wady lub usterki w wykonanym remoncie, Dyrektor Zarządu wyznacza termin usunięcia wad lub usterek, nie dłuższy niż 10 dni roboczych. Po tym terminie dokonuje się ponownego odbioru remontu.
+6. Jeżeli remont został wykonany z naruszeniem postanowień umowy, o której mowa w ust. 1, lub przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2018 r. poz. 1202, 1276, 1496, 1669 i 2245 oraz z 2019 r. poz. 51), albo stwierdzono wady lub usterki w wykonanym remoncie, Dyrektor Zarządu wyznacza termin usunięcia wad lub usterek, nie dłuższy niż 10 dni roboczych. Po tym terminie dokonuje się ponownego odbioru remontu.
+7. Po dokonaniu odbioru remontu sporządza się protokół, o którym mowa w art. 69 ust. 4 ustawy.
 § 8. 1. Zużycie wyposażenia i urządzeń technicznych w kwaterze internatowej lub innym lokalu mieszkalnym, kwalifikujące je do wymiany lub naprawy, jest ustalane przez przedstawiciela Zarządu spełniającego warunki określone w art. 73 ust. 3 ustawy.
 2. Normatywy zużycia wyposażenia i urządzeń technicznych w kwaterze internatowej lub innym lokalu mieszkalnym określa załącznik nr 1 do rozporządzenia.
-3. Za wartość wyposażenia i urządzeń technicznych w lokalu mieszkalnym, wymienianych w wyniku zgodnego z normatywem ich zużycia, przyjmuje się obowiązujące w kwartale poprzedzającym dzień wymiany średnie krajowe ceny rynkowe wyposażenia i urządzeń technicznych, opublikowane w powszechnie stosowanych cennikach i wydawnictwach, zawierające podatek od towarów i usług VAT, powiększone o koszt ich wymiany, ustalony na podstawie kosztorysu inwestorskiego, o którym mowa w § 7 ust. 1 i 2.
+3. Za wartość wyposażenia i urządzeń technicznych w lokalu mieszkalnym, wymienianych w wyniku zgodnego z normatywem ich zużycia, przyjmuje się – obowiązujące w kwartale poprzedzającym dzień wymiany – średnie krajowe ceny rynkowe wyposażenia i urządzeń technicznych, opublikowane w powszechnie stosowanych cennikach i wydawnictwach, zawierające podatek od towarów i usług VAT, powiększone o koszt ich wymiany, ustalony na podstawie kosztorysu inwestorskiego, o którym mowa w § 7 ust. 1 i 2.
 4. Za wartość wyposażenia i urządzeń technicznych w lokalu mieszkalnym, wymienianych w wyniku niezgodnego z normatywem ich zużycia, przyjmuje się cenę ich nabycia z dnia rozliczenia określoną zgodnie z ust. 3, pomniejszoną procentowo o wartość wynikającą z ustalonego ich zużycia zgodnie z ust. 1.
 5. Zgodę na wymianę oraz wartość wyposażenia i urządzeń technicznych wymienionych w lokalu mieszkalnym wyraża i ustala Dyrektor Zarządu w formie pisemnej.
 6. Zarząd dokonuje wymiany wyposażenia i urządzeń technicznych w lokalu mieszkalnym po upływie okresu trwałości użytkowej, określonego w załączniku nr 1 do rozporządzenia, jedynie podczas przygotowywania lokalu mieszkalnego do ponownego zasiedlenia.
@@ -111,5 +113,5 @@ Koszty te podlegają przymusowemu ściągnięciu od osoby posiadającej tytuł p
 z 2018 r. poz. 1314, z późn. zm. ).
 § 10. Wzór protokołu przekazania i przyjęcia oraz opróżnienia lokalu mieszkalnego jest określony w załączniku nr 2 do rozporządzenia.
 § 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-NORMATYWY ZUŻYCIA WYPOSAŻENIA I URZĄDZEŃ TECHNICZNYCH W KWATERZE INTERNATOWEJ LUB INNYM LOKALU MIESZKALNYM WZÓR WZÓR PROTOKÓŁ PRZEKAZANIA I PRZYJĘCIA / OPRÓŻNIENIA LOKALU MIESZKALNEGO II. INSTALACJE WEWNĘTRZNE W LOKALU MIESZKALNYM III. ELEMENTY WYPOSAŻENIA I URZĄDZENIA TECHNICZNE LOKALU MIESZKALNEGO IV. ELEMENTY BUDOWLANE W LOKALU MIESZKALNYM
+NORMATYWY ZUŻYCIA WYPOSAŻENIA I URZĄDZEŃ TECHNICZNYCH W KWATERZE INTERNATOWEJ LUB INNYM LOKALU MIESZKALNYM Załącznik nr 2 WZÓR WZÓR PROTOKÓŁ PRZEKAZANIA I PRZYJĘCIA / OPRÓŻNIENIA LOKALU MIESZKALNEGO II. INSTALACJE WEWNĘTRZNE W LOKALU MIESZKALNYM III. ELEMENTY WYPOSAŻENIA I URZĄDZENIA TECHNICZNE LOKALU MIESZKALNEGO IV. ELEMENTY BUDOWLANE W LOKALU MIESZKALNYM
 

@@ -8,7 +8,7 @@ pos: 887
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wspieraniu rodziny i systemie pieczy zastępczej Dla dobra dzieci, które potrzebują szczególnej ochrony i pomocy ze strony dorosłych, środowiska rodzinnego, atmosfery szczęścia, miłości i zrozumienia, w trosce o ich harmonijny rozwój i przyszłą samodzielność życiową, dla zapewnienia ochrony przysługujących im praw i wolności, dla dobra rodziny, która jest podstawową komórką społeczeństwa oraz naturalnym środowiskiem rozwoju, i dobra wszystkich jej członków, a w szczególności dzieci, w przekonaniu, że skuteczna pomoc dla rodziny przeżywającej trudności w opiekowaniu się i wychowywaniu dzieci oraz skuteczna ochrona dzieci i pomoc dla nich może być osiągnięta przez współpracę wszystkich osób, instytucji i organizacji pracujących z dziećmi i rodzicami – uchwala się, co następuje:
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-06-09 |
 | Data wydania | 2011-07-21 |
-| Ostatnia zmiana | 2026-03-30 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111490887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/887/text.pdf) |
 
 Art. 201–225. (pominięte)
@@ -32,6 +32,12 @@ Art. 201–225. (pominięte)
 ### DZIAŁ I Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady i formy wspierania rodziny przeżywającej trudności w wypełnianiu funkcji opiekuńczo-wychowawczych;
+- **2)** zasady i formy sprawowania pieczy zastępczej oraz pomocy w usamodzielnianiu jej pełnoletnich wychowanków;
+- **3)** zadania administracji publicznej w zakresie wspierania rodziny i systemu pieczy zastępczej;
+- **4)** zasady finansowania wspierania rodziny i systemu pieczy zastępczej;
+- **5)** zadania w zakresie postępowania adopcyjnego.
 
 **Art. 2.**
 
@@ -50,6 +56,18 @@ Art. 201–225. (pominięte)
 3. Zadania z zakresu wspierania rodziny i systemu pieczy zastępczej są realizowane zgodnie z zasadą pomocniczości, zwłaszcza gdy przepisy ustawy przewidują możliwość zlecania realizacji tych zadań przez organy jednostek samorządu terytorialnego.
 
 **Art. 4.** Stosując ustawę, należy mieć na względzie podmiotowość dziecka i rodziny oraz prawo dziecka do:
+
+- **1)** wychowania w rodzinie, a w razie konieczności wychowywania dziecka poza rodziną – do opieki i wychowania w rodzinnych formach pieczy zastępczej, jeśli jest to zgodne z dobrem dziecka;
+- **2)** powrotu do rodziny;
+- **3)** utrzymywania osobistych kontaktów z rodzicami, z wyjątkiem przypadków, w których sąd zakazał takich kontaktów;
+- **4)** stabilnego środowiska wychowawczego;
+- **5)** kształcenia, rozwoju uzdolnień, zainteresowań i przekonań oraz zabawy i wypoczynku;
+- **6)** pomocy w przygotowaniu do samodzielnego życia;
+- **7)** ochrony przed arbitralną lub bezprawną ingerencją w życie dziecka;
+- **8)** informacji i wyrażania opinii w sprawach, które go dotyczą, odpowiednio do jego wieku i stopnia dojrzałości;
+- **9)** ochrony przed poniżającym traktowaniem i karaniem;
+- **10)** poszanowania tożsamości religijnej i kulturowej;
+- **11)** dostępu do informacji dotyczących jego pochodzenia.
 
 **Art. 4a.** Podmioty realizujące zadania wynikające z niniejszej ustawy, w szczególności dokonując oceny sytuacji dziecka umieszczonego w pieczy zastępczej oraz kwalifikując dziecko do przysposobienia, są obowiązane do wysłuchania dziecka, jeżeli jego wiek i stopień dojrzałości na to pozwalają, oraz stosownie do okoliczności uwzględniają jego zdanie.
 
@@ -132,6 +150,10 @@ Art. 201–225. (pominięte)
 3. Wspieranie rodziny jest prowadzone za jej zgodą i aktywnym udziałem, z uwzględnieniem zasobów własnych oraz źródeł wsparcia zewnętrznego.
 
 **Art. 9.** Rodzina może otrzymać wsparcie przez działania:
+
+- **1)** instytucji i podmiotów działających na rzecz dziecka i rodziny;
+- **2)** placówek wsparcia dziennego;
+- **3)** rodzin wspierających.
 
 **Art. 9a.** Jeżeli obowiązujące przepisy uzależniają prawo do świadczeń i dodatków od dochodu dziecka, do dochodu dziecka nie wlicza się renty, o której mowa w art. 446 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), oraz miesięcznego świadczenia na zapewnienie środków utrzymania, o którym mowa w art. 753 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568).
 
@@ -326,6 +348,9 @@ Art. 201–225. (pominięte)
 
 **Art. 21.** Wójt albo starosta odmawia wydania zezwolenia, w przypadku gdy:
 
+- **1)** podmiot nie spełnia warunków określonych w ustawie;
+- **2)** wydano prawomocne orzeczenie zakazujące podmiotowi wykonywania działalności objętej zezwoleniem.
+
 **Art. 22.**
 
 1. Jeżeli podmiot, któremu wydano zezwolenie na prowadzenie placówki wsparcia dziennego:
@@ -486,7 +511,18 @@ Art. 201–225. (pominięte)
 
 **Art. 33.** Piecza zastępcza zapewnia:
 
+- **1)** pracę z rodziną umożliwiającą powrót dziecka do rodziny lub gdy jest to niemożliwe – dążenie do przysposobienia dziecka, a w przypadku braku możliwości przysposobienia dziecka – opiekę i wychowanie w środowisku zastępczym;
+- **2)** przygotowanie dziecka do:
+    - **a)** godnego, samodzielnego i odpowiedzialnego życia,
+    - **b)** pokonywania trudności życiowych zgodnie z zasadami etyki,
+    - **c)** nawiązywania i podtrzymywania bliskich, osobistych i społecznie akceptowanych kontaktów z rodziną i rówieśnikami, w celu łagodzenia skutków doświadczania straty i separacji oraz zdobywania umiejętności społecznych;
+
+- **3)** zaspokojenie potrzeb emocjonalnych dzieci, ze szczególnym uwzględnieniem potrzeb bytowych, zdrowotnych, edukacyjnych i kulturalno-rekreacyjnych.
+
 **Art. 34.** Piecza zastępcza jest sprawowana w formie:
+
+- **1)** rodzinnej;
+- **2)** instytucjonalnej.
 
 **Art. 35.**
 
@@ -604,6 +640,15 @@ Art. 201–225. (pominięte)
 10. Przy przeprowadzaniu postępowania kontrolnego zarząd powiatu oraz zarząd województwa może korzystać z pomocy osób posiadających specjalistyczną wiedzę z zakresu przedmiotu kontroli. Przepisy ust. 7 zdanie drugie stosuje się odpowiednio.
 
 **Art. 38c.** W okresie stanu zagrożenia epidemicznego albo stanu epidemii rodzina zastępcza, prowadzący rodzinny dom dziecka, dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej oraz dyrektor interwencyjnego ośrodka preadopcyjnego są obowiązani do:
+
+- **1)** utrzymywania bezpośredniego kontaktu z właściwymi ze względu na miejsce sprawowania pieczy zastępczej:
+    - **a)** państwowym powiatowym inspektorem sanitarnym,
+    - **b)** wojewodą,
+    - **c)** organami jednostek samorządu terytorialnego oraz
+    - **d)** podmiotami leczniczymi, wykonującymi zadania w zakresie zapobiegania oraz zwalczania zakażeń i chorób zakaźnych u ludzi – w celu wymiany informacji o sytuacji epidemiologicznej;
+
+- **2)** informowania personelu o aktualnych przepisach oraz zaleceniach, poleceniach, nakazach i zakazach odpowiednich służb i organów;
+- **3)** monitorowania zaopatrzenia w niezbędne środki ochrony osobistej i podejmowania odpowiednich działań w celu ich niezbędnego uzupełnienia.
 
 **Art. 38d.**
 
@@ -1563,6 +1608,10 @@ Art. 201–225. (pominięte)
 
 **Art. 84.** Prowadzący rodzinny dom dziecka otrzymuje środki finansowe na:
 
+- **1)** utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, w którym jest prowadzony rodzinny dom dziecka, w wysokości odpowiadającej kosztom ponoszonym przez rodzinny dom dziecka na czynsz, opłaty z tytułu najmu, opłaty za energię elektryczną i cieplną, opał, wodę, gaz, odbiór nieczystości stałych i płynnych, dźwig osobowy, antenę zbiorczą, abonament telewizyjny i radiowy, usługi telekomunikacyjne oraz związanym z kosztami eksploatacji, obliczonym przez podzielenie łącznej kwoty tych kosztów przez liczbę osób zamieszkujących w tym lokalu lub domu jednorodzinnym i pomnożenie przez liczbę dzieci, osób, które osiągnęły pełnoletność przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2– 4 i 6, oraz osób opuszczających rodzinną pieczę zastępczą jako niepełnoletnie, o których mowa w art. 37 ust. 5 i 6, umieszczonych w rodzinnym domu dziecka wraz z prowadzącym rodzinny dom dziecka;
+- **2)** pokrycie niezbędnych kosztów związanych z remontem lub ze zmianą lokalu w budynku wielorodzinnym lub domu jednorodzinnego, w którym jest prowadzony rodzinny dom dziecka – do wysokości środków określonych w umowie, o której mowa w art. 62;
+- **3)** pokrycie innych niezbędnych i nieprzewidzianych kosztów związanych z opieką i wychowaniem dziecka lub funkcjonowaniem rodzinnego domu dziecka – do wysokości środków określonych w umowie, o której mowa w art. 62.
+
 **Art. 85.**
 
 1. Rodzinie zastępczej zawodowej oraz prowadzącemu rodzinny dom dziecka przysługuje miesięczne wynagrodzenie nie niższe niż kwota 4100 zł.
@@ -1862,6 +1911,10 @@ Art. 201–225. (pominięte)
 
 **Art. 102.** Placówka opiekuńczo-wychowawcza typu rodzinnego:
 
+- **1)** wychowuje dzieci w różnym wieku, w tym dorastające i usamodzielniające się;
+- **2)** umożliwia wspólne wychowanie i opiekę licznemu rodzeństwu;
+- **3)** współpracuje z koordynatorem rodzinnej pieczy zastępczej i asystentem rodziny.
+
 **Art. 103.**
 
 1. Zadaniem placówki opiekuńczo-wychowawczej typu interwencyjnego jest doraźna opieka nad dzieckiem w czasie trwania sytuacji kryzysowej, w szczególności placówka jest obowiązana przyjąć dziecko w przypadkach wymagających natychmiastowego zapewnienia dziecku opieki.
@@ -2127,6 +2180,11 @@ Art. 201–225. (pominięte)
 
 **Art. 122a.** Kontrola nad placówkami opiekuńczo-wychowawczymi, regionalnymi placówkami opiekuńczo-terapeutycznymi i interwencyjnymi ośrodkami preadopcyjnymi obejmuje w szczególności:
 
+- **1)** przestrzeganie standardów opieki i wychowania, o których mowa w przepisach dotyczących placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych;
+- **2)** działania placówki na rzecz utrzymania przez dziecko kontaktów z rodziną;
+- **3)** zaspokajanie potrzeb dziecka i respektowanie jego praw;
+- **4)** przestrzeganie przepisów określających zasady działania placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej i interwencyjnego ośrodka preadopcyjnego.
+
 **Art. 123.** (uchylony)
 
 **Art. 124.** (uchylony)
@@ -2137,11 +2195,32 @@ Art. 201–225. (pominięte)
 
 **Art. 127.** Minister właściwy do spraw rodziny określi, w drodze rozporządzenia:
 
+- **1)** tryb i sposób kierowania i przyjmowania dziecka do placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej i interwencyjnego ośrodka preadopcyjnego oraz ich opuszczania, z uwzględnieniem dzieci cudzoziemców,
+- **2)** organizację placówek i ośrodków, o których mowa w pkt 1, w tym:
+    - **a)** maksymalną liczbę dzieci pozostających pod opieką jednego wychowawcy oraz innych osób pracujących z dziećmi, w zależności od organizacji pracy i potrzeb dzieci,
+    - **b)** warunki sprawowania opieki w godzinach nocnych,
+    - **c)** organizację pracy wychowawczej, w tym tryb przeprowadzania diagnozy psychofizycznej dziecka,
+    - **d)** prowadzoną dokumentację dotyczącą dziecka,
+
+- **3)** standardy usług świadczonych w placówkach i ośrodkach, o których mowa w pkt 1,
+- **4)** wzór wniosku o wydanie zezwolenia na prowadzenie placówki lub ośrodka, o którym mowa w pkt 1 – uwzględniając zadania realizowane przez placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne, potrzebę zapewnienia prawidłowego funkcjonowania tych placówek i ośrodków oraz odpowiedniego poziomu świadczonych usług, a także kontaktów dziecka z jego rodziną.
+
 #### Rozdział 4 Ocena sytuacji dziecka umieszczonego w pieczy zastępczej oraz rodzin zastępczych i rodzinnych domów dziecka
 
 **Art. 128.** Organizator rodzinnej pieczy zastępczej ocenia:
 
+- **1)** sytuację dziecka umieszczonego w rodzinie zastępczej oraz w rodzinnym domu dziecka;
+- **2)** rodzinę zastępczą oraz prowadzącego rodzinny dom dziecka.
+
 **Art. 129.** Organizator rodzinnej pieczy zastępczej dokonuje oceny sytuacji dziecka umieszczonego w rodzinie zastępczej oraz w rodzinnym domu dziecka w celu:
+
+- **1)** ustalania aktualnej sytuacji rodzinnej dziecka;
+- **2)** analizy stosowanych metod pracy z dzieckiem i rodziną;
+- **3)** modyfikowania planu pomocy dziecku;
+- **4)** monitorowania procedur adopcyjnych dzieci z uregulowaną sytuacją prawną umożliwiającą przysposobienie;
+- **5)** oceny stanu zdrowia dziecka i jego aktualnych potrzeb;
+- **6)** oceny zasadności dalszego pobytu dziecka w pieczy zastępczej;
+- **7)** informowania sądu o potrzebie umieszczenia dziecka w placówce działającej na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635), przepisów o działalności leczniczej lub o pomocy społecznej.
 
 **Art. 130.**
 
@@ -2190,6 +2269,14 @@ Art. 201–225. (pominięte)
 **Art. 135.** W placówce opiekuńczo-wychowawczej typu socjalizacyjnego, interwencyjnego i specjalistyczno-terapeutycznego, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym zespół do spraw okresowej oceny sytuacji dziecka, zwany dalej „zespołem”, ocenia sytuację umieszczonego dziecka.
 
 **Art. 136.** Zespół dokonuje oceny dziecka w celu:
+
+- **1)** ustalania aktualnej sytuacji rodzinnej dziecka;
+- **2)** analizy stosowanych metod pracy z dzieckiem i rodziną;
+- **3)** modyfikowania planu pomocy dziecku;
+- **4)** monitorowania procedur adopcyjnych dzieci z uregulowaną sytuacją prawną umożliwiającą przysposobienie;
+- **5)** oceny stanu zdrowia dziecka i jego aktualnych potrzeb;
+- **6)** oceny możliwości powrotu dziecka do rodziny lub umieszczenia go w rodzinnej pieczy zastępczej;
+- **7)** informowania sądu o potrzebie umieszczenia dziecka w placówce działającej na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przepisów ustawy o działalności leczniczej lub o pomocy społecznej.
 
 **Art. 137.**
 
@@ -2351,6 +2438,10 @@ Art. 201–225. (pominięte)
 
 **Art. 147.** Pomoc na kontynuowanie nauki nie przysługuje w przypadku, gdy osoba usamodzielniana:
 
+- **1)** kontynuuje naukę w szkole ponadgimnazjalnej, szkole ponadpodstawowej lub uczelni, która zapewnia nieodpłatną naukę i nieodpłatne pełne utrzymanie;
+- **2)** bez uzasadnionych powodów zmieniła trzykrotnie, na tym samym poziomie kształcenia, szkołę, zakład kształcenia nauczycieli lub uczelnię, kurs lub przygotowanie do wykonywania zawodu;
+- **3)** została umieszczona w zakładzie karnym.
+
 **Art. 148.**
 
 1. Pomoc na kontynuowanie nauki można zawiesić w przypadku, gdy:
@@ -2391,6 +2482,13 @@ Art. 201–225. (pominięte)
 4. Udzielenie osobie usamodzielnianej pomocy, o której mowa w art. 140 ust. 1 pkt 2, nie wymaga wydania decyzji.
 
 **Art. 152.** Przyznania pomocy na kontynuowanie nauki, na usamodzielnienie lub na zagospodarowanie można odmówić w przypadku, gdy:
+
+- **1)** istnieje uzasadnione przypuszczenie, że pomoc zostanie wykorzystana niezgodnie z celem, na jaki zostanie przyznana;
+- **2)** osoba usamodzielniana przed osiągnięciem pełnoletności opuściła samowolnie pieczę zastępczą;
+- **3)** osoba usamodzielniana porzuciła naukę umożliwiającą jej przygotowanie zawodowe i nie podejmuje zatrudnienia;
+- **4)** stosunek pracy z osobą usamodzielnianą został rozwiązany bez wypowiedzenia z winy pracownika;
+- **5)** osoba usamodzielniana bez uzasadnionej przyczyny uchyla się od podjęcia proponowanego jej zatrudnienia;
+- **6)** osoba usamodzielniana została skazana prawomocnym wyrokiem za umyślne przestępstwo lub przestępstwo skarbowe.
 
 **Art. 152a.** W przypadku gdy osoba usamodzielniana przebywa w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej albo regionalnej placówce opiekuńczo-terapeutycznej na zasadach określonych w art. 37 ust. 4–6, pomoc, o której mowa w art. 140 ust. 1, ulega zawieszeniu do dnia opuszczenia odpowiednio rodziny zastępczej, rodzinnego domu dziecka, placówki opiekuńczo-wychowawczej albo regionalnej placówki opiekuńczo-terapeutycznej. Zawieszenie pomocy, o której mowa w art. 140 ust. 1, następuje z urzędu, w drodze decyzji.
 
@@ -2854,6 +2952,26 @@ Art. 201–225. (pominięte)
 
 **Art. 176.** Do zadań własnych gminy należy:
 
+- **1)** opracowanie i realizacja 3-letnich gminnych programów wspierania rodziny;
+- **2)** tworzenie możliwości podnoszenia kwalifikacji przez asystentów rodziny;
+- **3)** tworzenie oraz rozwój systemu opieki nad dzieckiem, w tym placówek wsparcia dziennego, oraz praca z rodziną przeżywającą trudności w wypełnianiu funkcji opiekuńczo-wychowawczych przez:
+    - **a)** zapewnienie rodzinie przeżywającej trudności wsparcia i pomocy asystenta rodziny oraz dostępu do specjalistycznego poradnictwa,
+    - **b)** organizowanie szkoleń i tworzenie warunków do działania rodzin wspierających,
+    - **c)** prowadzenie placówek wsparcia dziennego oraz zapewnienie w nich miejsc dla dzieci;
+
+- **4)** finansowanie:
+    - **a)** (uchylona)
+    - **b)** podnoszenia kwalifikacji przez asystentów rodziny,
+    - **c)** kosztów związanych z udzielaniem pomocy, o której mowa w art. 29 ust. 2, ponoszonych przez rodziny wspierające;
+
+- **5)** współfinansowanie pobytu dziecka w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej lub interwencyjnym ośrodku preadopcyjnym;
+- **6)** sporządzanie, zgodnie ze wzorami udostępnionymi drogą elektroniczną przez ministra właściwego do spraw rodziny, sprawozdań rzeczowo-finansowych z zakresu wspierania rodziny oraz przekazywanie ich właściwemu wojewodzie w wersji elektronicznej, z zastosowaniem systemu teleinformatycznego, o którym mowa w art. 187 ust. 3, w terminie:
+    - **a)** do dnia 31 stycznia danego roku – za okres od dnia 1 lipca do dnia 31 grudnia poprzedniego roku,
+    - **b)** do dnia 31 lipca danego roku – za okres od dnia 1 stycznia do dnia 30 czerwca danego roku;
+
+- **7)** prowadzenie monitoringu sytuacji dziecka z rodziny zagrożonej kryzysem lub przeżywającej trudności w wypełnianiu funkcji opiekuńczo-wychowawczej, zamieszkałego na terenie gminy.
+- **8)** (uchylony)
+
 **Art. 177.**
 
 1. Do zadań zleconych z zakresu administracji rządowej realizowanych przez gminę należy wykonywanie zadań wynikających z rządowych programów z zakresu wspierania rodziny oraz rządowego programu, o którym mowa w art. 187a ust. 1.
@@ -2870,7 +2988,43 @@ Art. 201–225. (pominięte)
 
 **Art. 180.** Do zadań własnych powiatu należy:
 
+- **1)** opracowanie i realizacja 3-letnich powiatowych programów dotyczących rozwoju pieczy zastępczej, zawierających między innymi plan rozwoju rodzinnej pieczy zastępczej, plan ograniczania liczby dzieci w instytucjonalnej pieczy zastępczej oraz limit rodzin zastępczych zawodowych na dany rok kalendarzowy, uwzględniający założenia wynikające z planu rozwoju rodzinnej pieczy zastępczej, konieczność zapewnienia dzieciom z terenu powiatu rodzinnej pieczy zastępczej oraz ograniczanie liczby dzieci w instytucjonalnej pieczy zastępczej;
+- **2)** zapewnienie dzieciom pieczy zastępczej w rodzinach zastępczych, rodzinnych domach dziecka oraz w placówkach opiekuńczo-wychowawczych;
+- **3)** organizowanie wsparcia osobom usamodzielnianym opuszczającym rodziny zastępcze, rodzinne domy dziecka oraz placówki opiekuńczo-wychowawcze i regionalne placówki opiekuńczo-terapeutyczne, przez wspieranie procesu usamodzielnienia;
+- **4)** tworzenie warunków do powstawania i działania rodzin zastępczych, rodzinnych domów dziecka i rodzin pomocowych;
+- **5)** prowadzenie placówek opiekuńczo-wychowawczych oraz placówek wsparcia dziennego o zasięgu ponadgminnym;
+- **6)** organizowanie szkoleń dla rodzin zastępczych, prowadzących rodzinne domy dziecka i dyrektorów placówek opiekuńczo-wychowawczych typu rodzinnego oraz kandydatów do pełnienia funkcji rodziny zastępczej, prowadzenia rodzinnego domu dziecka lub pełnienia funkcji dyrektora placówki opiekuńczo-wychowawczej typu rodzinnego;
+- **7)** organizowanie wsparcia dla rodzinnej pieczy zastępczej, w szczególności przez tworzenie warunków do powstawania:
+    - **a)** grup wsparcia,
+    - **b)** specjalistycznego poradnictwa;
+
+- **8)** (uchylony)
+- **9)** wyznaczanie organizatora rodzinnej pieczy zastępczej;
+- **10)** zapewnienie przeprowadzenia przyjętemu do pieczy zastępczej dziecku niezbędnych badań lekarskich;
+- **11)** (uchylony) 11a) wprowadzanie danych do rejestru, o którym mowa w art. 38d ust. 1, ich aktualizacja i usuwanie;
+- **12)** kompletowanie we współpracy z właściwym ośrodkiem pomocy społecznej albo centrum usług społecznych dokumentacji związanej z przygotowaniem dziecka do umieszczenia w rodzinie zastępczej albo rodzinnym domu dziecka;
+- **13)** finansowanie:
+    - **a)** świadczeń pieniężnych dotyczących dzieci z terenu powiatu, umieszczonych w rodzinach zastępczych, rodzinnych domach dziecka, placówkach opiekuńczo-wychowawczych, regionalnych placówkach opiekuńczo-terapeutycznych, interwencyjnych ośrodkach preadopcyjnych lub rodzinach pomocowych, na jego terenie lub na terenie innego powiatu,
+    - **b)** pomocy przyznawanej osobom usamodzielnianym opuszczającym rodziny zastępcze, rodzinne domy dziecka, placówki opiekuńczo-wychowawcze lub regionalne placówki opiekuńczo-terapeutyczne,
+    - **c)** szkoleń dla kandydatów do pełnienia funkcji rodziny zastępczej, prowadzenia rodzinnego domu dziecka lub pełnienia funkcji dyrektora placówki opiekuńczo-wychowawczej typu rodzinnego oraz szkoleń dla rodzin zastępczych, prowadzących rodzinne domy dziecka oraz dyrektorów placówek opiekuńczo-wychowawczych typu rodzinnego;
+
+- **14)** sporządzanie, zgodnie ze wzorami udostępnionymi drogą elektroniczną przez ministra właściwego do spraw rodziny, sprawozdań rzeczowo-finansowych z zakresu wspierania rodziny i systemu pieczy zastępczej oraz przekazywanie ich właściwemu wojewodzie w wersji elektronicznej, z zastosowaniem systemu teleinformatycznego, o którym mowa w art. 187 ust. 3, w terminie:
+    - **a)** do dnia 31 stycznia danego roku – za okres od dnia 1 lipca do dnia 31 grudnia poprzedniego roku,
+    - **b)** do dnia 31 lipca danego roku – za okres od dnia 1 stycznia do dnia 30 czerwca danego roku;
+
+- **15)** przekazywanie do biura informacji gospodarczej informacji, o której mowa w art. 193 ust. 8.
+
 **Art. 181.** Do zadań zleconych z zakresu administracji rządowej realizowanych przez powiat należy:
+
+- **1)** realizacja zadań wynikających z rządowych programów wspierania rodziny i systemu pieczy zastępczej oraz rządowego programu, o którym mowa w art. 187a ust. 1;
+- **2)** finansowanie pobytu w pieczy zastępczej osób, o których mowa w art. 5 ust. 3;
+- **2a)** finansowanie:
+    - **a)** wydatków związanych z dowozem do rodziny zastępczej, rodzinnego domu dziecka, placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej lub interwencyjnego ośrodka preadopcyjnego, a także związanych z odwiezieniem dziecka, gdy umieszczenie w pieczy zastępczej nastąpiło na czas określony, jeżeli sposób i zasady pokrycia kosztów powrotu dziecka nie wynikają z orzeczenia lub informacji sądu lub innego organu państwa obcego,
+    - **b)** średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka oraz świadczeń pieniężnych,
+    - **c)** pomocy przyznawanej osobom usamodzielnianym opuszczającym rodziny zastępcze, rodzinne domy dziecka, placówki opiekuńczo-wychowawcze lub regionalne placówki opiekuńczo-terapeutyczne – dotyczących osób, o których mowa w art. 5 ust. 1 pkt 1 lit. b i pkt 2a, umieszczonych w rodzinach zastępczych, rodzinnych domach dziecka, placówkach opiekuńczo-wychowawczych, regionalnych placówkach opiekuńczo-terapeutycznych, interwencyjnych ośrodkach preadopcyjnych lub rodzinach pomocowych;
+
+- **2b)** finansowanie pobytu w pieczy zastępczej małoletnich osób, o których mowa w art. 106 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczpospolitej Polskiej.
+- **3)** (uchylony)
 
 **Art. 182.**
 
@@ -2887,6 +3041,16 @@ Art. 201–225. (pominięte)
 6. Powiatowe programy systemu pieczy zastępczej uchwalane są na podstawie zestawienia potrzeb, o którym mowa w ust. 5.
 
 **Art. 183.** Do zadań własnych samorządu województwa należy:
+
+- **1)** prowadzenie interwencyjnych ośrodków preadopcyjnych i regionalnych placówek opiekuńczo-terapeutycznych;
+- **2)** opracowywanie programów dotyczących wspierania rodziny i systemu pieczy zastępczej, będących integralną częścią strategii rozwoju województwa;
+- **3)** promowanie nowych rozwiązań w zakresie wspierania rodziny i systemu pieczy zastępczej;
+- **3a)** szkolenie i doskonalenie zawodowe kadr jednostek organizacyjnych samorządu gminnego i powiatowego;
+- **4)** sporządzanie, zgodnie ze wzorami udostępnionymi drogą elektroniczną przez ministra właściwego do spraw rodziny, sprawozdań rzeczowo-finansowych z zakresu wspierania rodziny i systemu pieczy zastępczej oraz przekazywanie ich właściwemu wojewodzie w wersji elektronicznej, z zastosowaniem systemu teleinformatycznego, o którym mowa w art. 187 ust. 3, w terminie:
+    - **a)** do dnia 31 stycznia danego roku – za okres od dnia 1 lipca do dnia 31 grudnia poprzedniego roku,
+    - **b)** do dnia 31 lipca danego roku – za okres od dnia 1 stycznia do dnia 30 czerwca danego roku;
+
+- **5)** wprowadzanie danych do rejestru, o którym mowa w art. 38d ust. 1, ich aktualizacja i usuwanie.
 
 **Art. 184.** Do zadań zleconych z zakresu administracji rządowej realizowanych przez samorząd województwa należy organizowanie i prowadzenie ośrodków adopcyjnych oraz realizacja zadań wynikających z rządowego programu, o którym mowa w art. 187a ust. 1.
 
@@ -3100,6 +3264,18 @@ Art. 201–225. (pominięte)
 
 **Art. 192.** Do wydatków na opiekę i wychowanie dziecka, o których mowa w art. 191 ust. 1, zalicza się:
 
+- **1)** świadczenie na pokrycie kosztów utrzymania dziecka w rodzinie zastępczej lub w rodzinnym domu dziecka;
+- **2)** dodatek, o którym mowa w art. 81;
+- **3)** dofinansowanie do wypoczynku dziecka;
+- **4)** świadczenie na pokrycie niezbędnych wydatków związanych z potrzebami przyjmowanego dziecka;
+- **5)** świadczenie przyznane w związku z wystąpieniem zdarzenia losowego lub innego zdarzenia mającego wpływ na jakość sprawowanej opieki;
+- **5a)** środki finansowe na pokrycie nieprzewidzianych kosztów związanych z opieką i wychowaniem dziecka w rodzinnym domu dziecka lub funkcjonowaniem rodzinnego domu dziecka;
+- **6)** środki finansowe na pomoc na kontynuowanie nauki i usamodzielnienie;
+- **7)** środki finansowe na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, w którym zamieszkuje rodzina zastępcza zawodowa, rodzina zastępcza niezawodowa lub w którym jest prowadzony rodzinny dom dziecka, oraz środki finansowe związane ze zmianą tego lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego;
+- **8)** świadczenie związane z remontem lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, w którym zamieszkuje rodzina zastępcza zawodowa lub jest prowadzony rodzinny dom dziecka;
+- **9)** wynagrodzenie wraz z pochodnymi od wynagrodzenia dla zawodowej rodziny zastępczej, prowadzącego rodzinny dom dziecka i osób zatrudnionych w rodzinie zastępczej oraz rodzinnym domu dziecka lub zajmujących się opieką i wychowaniem w rodzinnym domu dziecka;
+- **10)** świadczenia dla rodziny pomocowej.
+
 **Art. 193.**
 
 1. Za pobyt dziecka w pieczy zastępczej rodzice ponoszą miesięczną opłatę w wysokości:
@@ -3262,6 +3438,9 @@ Art. 201–225. (pominięte)
 
 **Art. 197f.** Minister właściwy do spraw rodziny określi, w drodze rozporządzenia:
 
+- **1)** organizację i tryb przeprowadzania kontroli przez wojewodę,
+- **2)** wzór legitymacji uprawniającej do przeprowadzania kontroli – uwzględniając konieczność zapewnienia odpowiedniego poziomu sprawowania kontroli nad realizacją zadań z zakresu wspierania rodziny i systemu pieczy zastępczej.
+
 **Art. 197g.** W sprawach nieuregulowanych w niniejszym dziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 198.**
@@ -3400,6 +3579,10 @@ Art. 201–225. (pominięte)
 3. Przepisów ust. 1 i 2 nie stosuje się w przypadkach, o których mowa w art. 95 ust. 2.
 
 **Art. 232a.** Do dnia 31 grudnia 2014 r. po otrzymaniu wniosku, o którym mowa w art. 11 ust. 3, kierownik ośrodka pomocy społecznej może:
+
+- **1)** przydzielić rodzinie asystenta rodziny;
+- **2)** wystąpić do jednostki organizacyjnej gminy, która organizuje pracę z rodziną o przydzielenie rodzinie asystenta rodziny;
+- **3)** wystąpić do podmiotu, któremu gmina zleciła realizację pracy z rodziną na podstawie art. 190, o przydzielenie rodzinie asystenta rodziny.
 
 **Art. 232b.**
 

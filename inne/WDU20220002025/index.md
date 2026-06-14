@@ -8,7 +8,7 @@ pos: 2025
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Narodowym Banku Polskim
@@ -81,6 +81,10 @@ Art. 71–73. (pominięte)
 
 **Art. 6.** Organami NBP są:
 
+- **1)** Prezes NBP;
+- **2)** Rada Polityki Pieniężnej;
+- **3)** Zarząd NBP.
+
 **Art. 7.**
 
 1. NBP wykonuje zadania przez Centralę i inne jednostki organizacyjne.
@@ -98,7 +102,7 @@ Art. 71–73. (pominięte)
 
 2. Kadencja Prezesa NBP wynosi 6 lat. Ta sama osoba nie może być Prezesem NBP dłużej niż przez dwie kolejne kadencje.
 
-3. Prezes NBP obejmuje obowiązki po złożeniu wobec przysięgi następującej treści: „Obejmując obowiązki Prezesa Narodowego Banku Polskiego przysięgam uroczyście, że postanowień Konstytucji i innych ustaw będę ściśle przestrzegać oraz że we wszystkich swoich działaniach dążyć będę do rozwoju gospodarczego Ojczyzny i pomyślności obywateli”. Przysięga może być złożona z dodaniem słów „Tak mi dopomóż Bóg”.
+3. Prezes NBP obejmuje obowiązki po złożeniu wobec Sejmu przysięgi następującej treści: „Obejmując obowiązki Prezesa Narodowego Banku Polskiego przysięgam uroczyście, że postanowień Konstytucji i innych ustaw będę ściśle przestrzegać oraz że we wszystkich swoich działaniach dążyć będę do rozwoju gospodarczego Ojczyzny i pomyślności obywateli”. Przysięga może być złożona z dodaniem słów „Tak mi dopomóż Bóg”.
 
 4. Kadencja Prezesa NBP wygasa:
 
@@ -254,6 +258,11 @@ Art. 71–73. (pominięte)
 
 **Art. 21.** W wykonaniu swoich zadań NBP współdziała z właściwymi organami państwa w kształtowaniu i realizacji polityki gospodarczej państwa, dążąc przy tym do zapewnienia należytej realizacji założeń polityki pieniężnej, a w szczególności:
 
+- **1)** przekazuje organom państwa założenia polityki pieniężnej oraz informacje dotyczące realizacji polityki pieniężnej i sytuacji w systemie bankowym;
+- **2)** współdziała z Ministrem Finansów w opracowaniu planów finansowych państwa;
+- **3)** opiniuje projekty aktów normatywnych z zakresu polityki gospodarczej;
+- **4)** opiniuje projekty aktów normatywnych dotyczących działalności banków i mających znaczenie dla systemu bankowego.
+
 **Art. 22.**
 
 1. Prezes NBP może uczestniczyć w posiedzeniach Sejmu.
@@ -352,7 +361,15 @@ Art. 71–73. (pominięte)
 
 **Art. 30a.** NBP udostępnia Komitetowi Stabilności Finansowej:
 
+- **1)** informacje i dane, w tym chronione na podstawie odrębnych ustaw, niezbędne do oceny ryzyka systemowego;
+- **2)** analizy, opracowania i opinie dotyczące oceny ryzyka systemowego, stabilności finansowej i nierównowag makroekonomicznych, w tym cykliczne raporty NBP o stabilności systemu finansowego oraz raporty o nierównowagach makroekonomicznych;
+- **3)** informacje o działaniach podejmowanych przez właściwe podmioty, o których mowa w art. 4 pkt 22 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym, związanych z realizacją rekomendacji Komitetu Stabilności Finansowej;
+- **4)** informacje o konsultacjach z Komisją Europejską, Europejską Radą do spraw Ryzyka Systemowego, Europejskim Urzędem Nadzoru Bankowego oraz organami nadzoru makroostrożnościowego z innych zainteresowanych państw członkowskich, o których mowa w art. 4 pkt 9 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym, oraz opiniach wydanych przez te podmioty, dotyczących działań Komitetu Stabilności Finansowej.
+
 **Art. 30b.** NBP zapewnia obsługę Komitetu Stabilności Finansowej w zakresie realizacji zadań określonych w art. 5 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym, w szczególności:
+
+- **1)** organizuje posiedzenia Komitetu Stabilności Finansowej i prowadzi jego sekretariat;
+- **2)** przygotowuje projekty uchwał Komitetu Stabilności Finansowej.
 
 #### Rozdział 5 Emisja znaków pieniężnych
 
@@ -491,9 +508,17 @@ Art. 71–73. (pominięte)
 
 **Art. 46.** W razie zagrożenia realizacji polityki pieniężnej Rada może w drodze uchwały wprowadzić:
 
+- **1)** ograniczenie wielkości środków pieniężnych oddawanych przez banki do dyspozycji kredytobiorców i pożyczkobiorców;
+- **2)** obowiązek utrzymywania nieoprocentowanego depozytu w NBP od zagranicznych środków wykorzystanych przez banki i krajowych przedsiębiorców.
+
 **Art. 47.** Pożyczki i kredyty zaciągnięte przez NBP w zagranicznych instytucjach bankowych i finansowych mogą być przeznaczane na udzielanie kredytu w walutach obcych bankom krajowym.
 
 **Art. 48.** NBP może:
+
+- **1)** emitować i sprzedawać papiery wartościowe;
+- **2)** sprzedawać i kupować dłużne papiery wartościowe w operacjach otwartego rynku;
+- **3)** organizować obrót papierami wartościowymi, których jest emitentem oraz papierami wartościowymi emitowanymi albo poręczanymi lub gwarantowanymi przez Skarb Państwa;
+- **4)** otwierać rachunki lokat terminowych banków.
 
 **Art. 49.** NBP może być powierzona obsługa pożyczki państwowej, zaciągniętej w drodze emisji papierów wartościowych.
 

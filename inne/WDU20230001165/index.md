@@ -8,10 +8,10 @@ pos: 1165
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11116655 ROZPORZĄDZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 20 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,25 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1165/text.pdf) |
 
-11116655 ROZPORZĄDZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 20 czerwca 2023 r.
 w sprawie nadzoru i kontroli nad realizacją zadań z zakresu przeciwdziałania przemocy domowej Na podstawie art. 7 ust. 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2021 r.
-poz. 1249 oraz z 2023 r. poz. 289 i 535) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 1249 oraz z 2023 r. poz. 289 i 535) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) organizację i tryb przeprowadzania nadzoru i kontroli realizacji zadań z zakresu przeciwdziałania przemocy domowej;
 2) kwalifikacje inspektorów upoważnionych do wykonywania czynności nadzorczych i kontrolnych;
 3) kwalifikacje Wojewódzkiego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej;
 4) wzór legitymacji uprawniającej do wykonywania czynności nadzorczych i kontrolnych.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) dyrektorze należy przez to rozumieć dyrektora wydziału właściwego do spraw pomocy społecznej urzędu wojewódzkiego;
-2) jednostce podlegającej kontroli należy przez to rozumieć:
+1) dyrektorze – należy przez to rozumieć dyrektora wydziału właściwego do spraw pomocy społecznej urzędu wojewódzkiego;
+2) jednostce podlegającej kontroli – należy przez to rozumieć:
 a) jednostkę organizacyjną pomocy społecznej realizującą zadania z zakresu przeciwdziałania przemocy domowej,
 b) specjalistyczny ośrodek wsparcia dla osób doznających przemocy domowej,
 c) urząd gminy, starostwo powiatowe i urząd marszałkowski, w zakresie zadań realizowanych na rzecz przeciwdziałania przemocy domowej,
 d) podmiot niepubliczny wykonujący zadania z zakresu przeciwdziałania przemocy domowej na podstawie umowy z organami administracji rządowej i samorządowej;
-3) jednostce podlegającej nadzorowi należy przez to rozumieć:
+3) jednostce podlegającej nadzorowi – należy przez to rozumieć:
 a) jednostkę organizacyjną pomocy społecznej realizującą zadania z zakresu przeciwdziałania przemocy domowej,
 b) specjalistyczny ośrodek wsparcia dla osób doznających przemocy domowej,
 c) urząd gminy, starostwo powiatowe i urząd marszałkowski, w zakresie zadań realizowanych na rzecz przeciwdziałania przemocy domowej;
-4) ustawie należy przez to rozumieć ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej.
+4) ustawie – należy przez to rozumieć ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej.
 § 3. 1. Kontrola jest prowadzona zgodnie z rocznym planem kontroli opracowanym przez dyrektora właściwego do spraw pomocy społecznej wydziału urzędu wojewódzkiego, zatwierdzonym przez wojewodę.
 2. Wojewoda może zarządzić przeprowadzenie kontroli nieprzewidzianej w rocznym planie kontroli.
 § 4. Czynności z zakresu kontroli wykonuje zespół inspektorów, zwany dalej „zespołem kontrolnym”, w ramach:
@@ -97,6 +97,7 @@ c) urząd gminy, starostwo powiatowe i urząd marszałkowski, w zakresie zadań 
 3. W razie potrzeby kontrole doraźne mogą być przeprowadzane także w innych dniach i godzinach niż wskazane w ust. 1.
 § 15. Kierownik jednostki podlegającej kontroli:
 1) umożliwia zespołowi kontrolnemu wstęp do obiektów i pomieszczeń jednostki podlegającej kontroli, a także przeprowadzenie oględzin obiektów, składników majątkowych;
+2) przedstawia na żądanie zespołu kontrolnego informacje, dokumenty i dane dotyczące przedmiotu kontroli;
 3) udziela zespołowi kontrolnemu informacji w formie ustnej lub pisemnej w zakresie objętym kontrolą;
 4) zapewnia warunki i środki konieczne do sprawnego przeprowadzenia kontroli;
 5) umożliwia zespołowi kontrolnemu przeprowadzenie rozmów z pracownikami lub osobami korzystającymi z usług świadczonych w jednostce podlegającej kontroli w sprawach dotyczących przedmiotu kontroli.
@@ -117,7 +118,7 @@ c) urząd gminy, starostwo powiatowe i urząd marszałkowski, w zakresie zadań 
 10) wzmiankę o doręczeniu protokołu kontroli kierownikowi jednostki podlegającej kontroli;
 11) podpisy członków zespołu kontrolnego i kierownika jednostki podlegającej kontroli na każdej stronie protokołu;
 12) podpisy członków zespołu kontrolnego i kierownika jednostki podlegającej kontroli oraz miejsce na datę podpisania protokołu kontroli;
-13) w razie odmowy podpisania protokołu kontroli informację o tym fakcie.
+13) w razie odmowy podpisania protokołu kontroli – informację o tym fakcie.
 3. W przypadku gdy protokół kontroli zawiera informacje niejawne, protokół lub jego fragment oznacza się odpowiednią klauzulą tajności.
 4. Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach.
 5. Jeden egzemplarz przekazuje się za poświadczeniem odbioru kierownikowi jednostki podlegającej kontroli, a drugi włącza się do akt kontroli.
@@ -147,6 +148,7 @@ c) urząd gminy, starostwo powiatowe i urząd marszałkowski, w zakresie zadań 
 § 20. 1. Wojewoda, w ramach prowadzonego nadzoru, dokonuje w szczególności ewaluacji, kontroli, wspomagania i monitorowania działań z zakresu przeciwdziałania przemocy domowej realizowanych przez jednostki, nad którymi sprawuje nadzór, w celu oceny sposobu wsparcia osób doznających przemocy domowej.
 2. Czynności nadzorcze mogą obejmować w szczególności:
 1) analizę i ocenę sposobu wsparcia osób doznających przemocy domowej;
+2) analizę i ocenę sposobu pracy z osobami stosującymi przemoc domową;
 3) skierowanie wystąpienia w sprawie sposobu realizacji zadań i wykorzystania środków finansowych na ten cel;
 4) uzyskiwanie informacji i wyjaśnień dotyczących sposobu realizacji poszczególnych zadań;
 5) monitorowanie realizacji zadań za pośrednictwem prowadzonej sprawozdawczości;
@@ -168,5 +170,6 @@ b) innym uzupełnionym studiami podyplomowymi w zakresie psychologii, pedagogiki
 § 25. Osoby zatrudnione w urzędach wojewódzkich w dniu wejścia w życie rozporządzenia na stanowisku inspektora oraz pracownika wykonującego z upoważnienia wojewody zadania z zakresu przeciwdziałania przemocy domowej uznaje się za spełniające wymogi określone w rozporządzeniu.
 § 26. Legitymacje uprawniające do wykonywania czynności nadzorczych i kontrolnych wystawione przed dniem wejścia w życie rozporządzenia zachowują ważność na czas w nich określony.
 § 27. Rozporządzenie wchodzi w życie z dniem 22 czerwca 2023 r.
-Minister Rodziny i Polityki Społecznej: M. Maląg WZÓR LEGITYMACJI 1 WZÓR LEGITYMACJI Część zewnętrzna RZECZPOSPOLITA POLSKA Część wewnętrzna fotografia Opis Legitymacja ma formę 4-stronicowego tekturowego dokumentu o wymiarach 148 x 104 mm, gramaturze 200, w kolorze jasnoniebieskim. Strona pierwsza zawiera centralnie umieszczone tłoczone godło Rzeczypospolitej Polskiej, a pod nim napis „Rzeczpospolita Polska” oraz napis „Legitymacja Nr…”. Strona druga zawiera miejsce na zdjęcie o wymiarach 32 x 43 mm oraz podpis posiadacza legitymacji. Strona trzecia zawiera pieczęć jednostki wydającej legitymację, dane identyfikacyjne inspektora, stanowisko służbowe posiadacza legitymacji, siedzibę i nazwę pracodawcy, napis informujący o upoważnieniu posiadacza legitymacji do wykonywania czynności nadzoru i kontroli w zakresie przeciwdziałania przemocy domowej zgodnie z art. 7 ust. 1 pkt 5 i 6 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej oraz miejsce na małą pieczęć okrągłą i podpis osoby upoważnionej przez pracodawcę. Strona czwarta zawiera informacje o terminie ważności legitymacji. Wszystkie strony są otoczone ramką o wymiarach 95 x 65 mm. Napisy oraz ramka są w kolorze czarnym.
+Minister Rodziny i Polityki Społecznej: M. Maląg Załącznik do rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 20 czerwca 2023 r. (poz….) WZÓR LEGITYMACJI WZÓR LEGITYMACJI Część zewnętrzna RZECZPOSPOLITA POLSKA 1 Część wewnętrzna fotografia Opis Legitymacja ma formę 4-stronicowego tekturowego dokumentu o wymiarach 148 x 104 mm, gramaturze 200, w kolorze jasnoniebieskim. Strona pierwsza zawiera centralnie umieszczone tłoczone godło Rzeczypospolitej Polskiej, a pod nim napis „Rzeczpospolita Polska” oraz napis „Legitymacja Nr…”. Strona druga zawiera miejsce na zdjęcie o wymiarach 32 x 43 mm oraz podpis posiadacza legitymacji. Strona trzecia zawiera pieczęć jednostki wydającej legitymację, dane identyfikacyjne inspektora, stanowisko służbowe posiadacza legitymacji, siedzibę i nazwę pracodawcy, napis informujący o upoważnieniu posiadacza legitymacji do wykonywania czynności nadzoru i kontroli w zakresie przeciwdziałania przemocy domowej zgodnie z art. 7 ust. 1 pkt 5 i 6 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej oraz miejsce na małą pieczęć okrągłą i podpis osoby upoważnionej przez pracodawcę. Strona czwarta zawiera informacje o terminie ważności legitymacji. Wszystkie strony są otoczone ramką o wymiarach 95 x 65 mm. Napisy oraz ramka są w kolorze czarnym.
+2
 

@@ -8,10 +8,10 @@ pos: 1478
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 grudnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1478 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 28 listopada 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001478) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1478/text.pdf) |
 
-Poz. 1478 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 28 listopada 2013 r.
-w sprawie sposobu i trybu przygotowania i uzgadniania komunikatów dotyczących bezpieczeństwa stosowania produktu leczniczego Na podstawie art. 36s ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy sposób i tryb przygotowywania i uzgadniania treści komunikatów, o których mowa w art. 36o ust. 6 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
+w sprawie sposobu i trybu przygotowania i uzgadniania komunikatów dotyczących bezpieczeństwa stosowania produktu leczniczego Na podstawie art. 36s ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy sposób i tryb przygotowywania i uzgadniania treści komunikatów, o których mowa w art. 36o ust. 6 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
 1) Prezesie Urzędu – rozumie się przez to Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych;
 2) Urzędzie – rozumie się przez to Urząd Rejestracji Produktów Leczniczych Wyrobów Medycznych i Produktów Biobójczych.

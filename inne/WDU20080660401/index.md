@@ -8,7 +8,7 @@ pos: 401
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowej nazwy Akademii Ekonomicznej im. Oskara Langego we Wrocławiu

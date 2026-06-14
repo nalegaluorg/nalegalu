@@ -8,7 +8,7 @@ pos: 1459
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Akademii Kopernikańskiej
@@ -32,6 +32,9 @@ Art. 54–58. (pominięte)
 #### Rozdział 1 Przepis ogólny
 
 **Art. 1.** Ustawa określa:
+
+- **1)** organizację i zadania Akademii Kopernikańskiej, zwanej dalej „Akademią”;
+- **2)** zasady realizacji Narodowego Programu Kopernikańskiego, zwanego dalej „Programem”.
 
 #### Rozdział 2 Organizacja i zadania Akademii
 
@@ -170,6 +173,10 @@ Art. 54–58. (pominięte)
 
 **Art. 11.** Organami Akademii są:
 
+- **1)** Zgromadzenie;
+- **2)** Sekretarz;
+- **3)** Prezydium Akademii.
+
 **Art. 12.**
 
 1. Członkowie Akademii biorą udział w posiedzeniu Zgromadzenia z głosem stanowiącym.
@@ -276,7 +283,14 @@ Art. 54–58. (pominięte)
 
 **Art. 20.** W strukturze Akademii działają:
 
+- **1)** Centrum;
+- **2)** Biuro Akademii.
+
 **Art. 21.** Do zadań Centrum należy w szczególności:
+
+- **1)** organizowanie sympozjów naukowych, konferencji prezentujących wyniki badań naukowych, debat i interdyscyplinarnych spotkań tematycznych z udziałem polskich oraz zagranicznych uczonych;
+- **2)** opracowywanie, wydawanie, promocja raportów oraz innych publikacji naukowych prezentujących konkluzje i wskazówki co do kierunków proponowanych badań naukowych;
+- **3)** finansowanie badań naukowych i nadzór nad ich realizacją.
 
 **Art. 22.**
 

@@ -8,7 +8,7 @@ pos: 195
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pomocy państwa w wychowywaniu dzieci
@@ -76,6 +76,43 @@ Art. 31–47. (pominięte)
 3. Prawo do świadczenia wychowawczego przysługuje osobom, o których mowa w ust. 2, jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej przez okres, w jakim mają otrzymywać świadczenie wychowawcze, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** (uchylony) 1a) aktywności zawodowej – oznacza to:
+    - **a)** podleganie obowiązkowo ubezpieczeniom emerytalnemu i rentowym na podstawie art. 6 ust. 1 pkt 1–5a, 7 i 7b ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199 i
+
+- **252)** oraz z tytułu wykonywania umowy uaktywniającej określonej w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2025 r. poz. 798), od podstawy wymiaru składek na te ubezpieczenia stanowiącej niemniej niż 50 % minimalnego wynagrodzenia za pracę, o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
+    - **b)** podleganie obowiązkowo ubezpieczeniom emerytalnemu i rentowym na podstawie art. 6 ust. 1 pkt 9, 9a, 9c, 20 i 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
+    - **c)** podleganie obowiązkowo ubezpieczeniom emerytalnemu i rentowym jako osoby przebywające na urlopach wychowawczych, o których mowa w art. 6 ust. 1 pkt 19 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
+    - **d)** prowadzenie pozarolniczej działalności gospodarczej, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) oraz w art. 18a i art. 18c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
+    - **e)** pobieranie zasiłku macierzyńskiego, zasiłku w wysokości zasiłku macierzyńskiego, zasiłku chorobowego, zasiłku opiekuńczego, zasiłku wyrównawczego albo świadczenia rehabilitacyjnego na podstawie ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26), zasiłku chorobowego, zasiłku wyrównawczego albo świadczenia rehabilitacyjnego na podstawie ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 1644 oraz z 2026 r. poz. 26), jeżeli podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe ostatnio przyjęta do obliczenia składek albo kwota zasiłku, świadczenia albo wynagrodzenia stanowi niemniej niż 50 % minimalnego wynagrodzenia za pracę w odniesieniu do osób, o których mowa w lit. a, albo niemniej niż 30 % minimalnego wynagrodzenia za pracę w przypadku osób, o których mowa w lit. d,
+    - **f)** podleganie obowiązkowo ubezpieczeniu zdrowotnemu na podstawie art. 66 ust. 1 pkt 16, 16a, 24a, 25, 28c i 37 ustawy z dnia 27 sierpnia 2004 r.
+    - **g)** podleganie, na podstawie ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770), ubezpieczeniu emerytalno-rentowemu rolników z mocy ustawy albo przez nieprzerwany okres co najmniej 12 miesięcy ubezpieczeniu emerytalno-rentowemu rolników na wniosek, z wyjątkiem osób, o których mowa w art. 16 ust. 1 pkt 3 i 4 oraz ust. 2 pkt 2 tej ustawy,
+    - **h)** podleganie dobrowolnie ubezpieczeniom emerytalnemu i rentowym na podstawie art. 7 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
+
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** (uchylony)
+- **5)** dziecku – oznacza to dziecko własne, dziecko przysposobione oraz dziecko, w sprawie którego toczy się postępowanie o przysposobienie, dziecko znajdujące się pod opieką prawną, dziecko umieszczone w pieczy zastępczej lub dziecko umieszczone w domu pomocy społecznej;
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** instytucji zapewniającej całodobowe utrzymanie – oznacza to młodzieżowy ośrodek wychowawczy, schronisko dla nieletnich, zakład poprawczy, areszt śledczy, zakład karny, szkołę wojskową lub inną szkołę, jeżeli instytucje te zapewniają nieodpłatnie pełne utrzymanie;
+- **8a)** minimalnym wynagrodzeniu za pracę – oznacza to minimalne wynagrodzenie za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773);
+- **9)** (uchylony)
+- **10)** opiekunie faktycznym dziecka – oznacza to osobę faktycznie opiekującą się dzieckiem, jeżeli wystąpiła z wnioskiem do sądu opiekuńczego o przysposobienie dziecka;
+- **10a)** opiekunie tymczasowym dziecka – oznacza to osobę, o której mowa w art. 113 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **10b)** opiekunie dziecka wskazanym przez władze kraju pochodzenia – oznacza to osobę, o której mowa w art. 113a ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **11)** (uchylony)
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** (uchylony)
+- **15)** przepisach o koordynacji systemów zabezpieczenia społecznego – oznacza to rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 166 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 5, str. 72, z późn. zm.) oraz rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczące wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.);
+- **16)** (uchylony)
+- **17)** szkole – oznacza to szkołę podstawową, szkołę ponadpodstawową, klasy dotychczasowej szkoły ponadgimnazjalnej prowadzone w szkole ponadpodstawowej, szkołę artystyczną, w której jest realizowany obowiązek szkolny lub nauki, a także młodzieżowy ośrodek socjoterapii, młodzieżowy ośrodek wychowawczy, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, ośrodek rewalidacyjno-wychowawczy.
+- **18)** (uchylony)
+- **19)** (uchylony)
+- **20)** (uchylony)
+- **21)** (uchylony)
+- **22)** (uchylony)
 
 **Art. 3.** Rada Ministrów składa corocznie Sejmowi i Senatowi, w terminie do dnia 30 września, sprawozdanie z realizacji ustawy.
 

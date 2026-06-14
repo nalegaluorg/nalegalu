@@ -8,7 +8,7 @@ pos: 849
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o lekarzu sądowym
@@ -211,13 +211,27 @@ source: "isap-pdf"
 
 **Art. 21.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) po art. 214 dodaje się art. 214 w brzmieniu: „Art. 214 . § 1. Usprawiedliwienie niestawiennictwa z powodu choroby stron, ich przedstawicieli ustawowych, pełnomocników, świadków i innych uczestników postępowania, wymaga przedstawienia zaświadczenia potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie sądu, wystawionego przez lekarza sądowego.
 
+§ 2. Przepisu § 1 nie stosuje się do osób pozbawionych wolności, których usprawiedliwianie niestawiennictwa z powodu choroby regulują odrębne przepisy.”.
+
 **Art. 22.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89) w art. 18 w ust. 3 pkt 4 otrzymuje brzmienie: „4) ministrowi właściwemu do spraw zdrowia, sądom, prokuratorom, lekarzom sądowym oraz sądom i rzecznikom odpowiedzialności zawodowej, w związku z prowadzonym postępowaniem;”.
 
 **Art. 23.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2005 r. Nr 226, poz. 1943 oraz z 2006 r. Nr 117, poz. 790, Nr 191, poz. 1410 i Nr 220, poz. 1600) wprowadza się następujące zmiany:
 
+- **1)** w art. 40 w ust. 2 w pkt 7 kropkę na końcu zdania zastępuje się przecinkiem i dodaje się pkt 8 w brzmieniu: „8) zachodzi potrzeba przekazania niezbędnych informacji o pacjencie lekarzowi sądowemu.”;
+- **2)** w art. 50 dodaje się ust. 18 w brzmieniu: „18. Wykonywanie funkcji lekarza sądowego w rozumieniu ustawy z dnia 15 czerwca 2007 r. o lekarzu sądowym (Dz.U. Nr 123, poz. 849) nie jest indywidualną praktyką lekarską lub indywidualną specjalistyczną praktyką lekarską.”.
+
 **Art. 24.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 117:
+    - **a)** § 2a otrzymuje brzmienie: „§ 2a. Usprawiedliwienie niestawiennictwa z powodu choroby oskarżonych, świadków, obrońców, pełnomocników i innych uczestników postępowania, których obecność była obowiązkowa lub którzy wnosili o dopuszczenie do czynności, będąc uprawnionymi do wzięcia w niej udziału, wymaga przedstawienia zaświadczenia potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie, wystawionego przez lekarza sądowego.”,
+    - **b)** uchyla się § 4,
+    - **c)** po § 4 dodaje się § 5 w brzmieniu: „§ 5. Przepisu § 2a nie stosuje się do osób pozbawionych wolności, których zasady usprawiedliwiania niestawiennictwa regulują odrębne przepisy.”;
+
+- **2)** w art. 618 w § 1 pkt 9 otrzymuje brzmienie: „9) należności biegłych lub instytucji wyznaczonych do wydania opinii lub wystawienia zaświadczenia, w tym koszty wystawienia zaświadczenia przez lekarza sądowego,”.
+
 **Art. 25.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) po art. 115 dodaje się art. 115a w brzmieniu: „Art. 115a. § 1. Osobie pozbawionej wolności, w razie choroby uniemożliwiającej stawiennictwo w postępowaniu prowadzonym przez sąd lub organ prowadzący postępowanie karne, na podstawie Kodeksu postępowania karnego, w którym obecność osoby pozbawionej wolności była obowiązkowa lub gdy wnosiła ona o dopuszczenie do czynności, będąc uprawnioną do wzięcia w niej udziału lub przez sąd, na podstawie Kodeksu postępowania cywilnego, zaświadczenie usprawiedliwiające niestawiennictwo wystawia lekarz zakładu opieki zdrowotnej dla osób pozbawionych wolności.
+
+§ 2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, tryb wystawiania zaświadczenia potwierdzającego zdolność albo niezdolność stawiennictwa osoby pozbawionej wolności w przypadku choroby na wezwanie lub zawiadomienie sądu lub organu prowadzącego postępowanie karne oraz sposób doręczania zaświadczenia sądowi lub organowi prowadzącemu postępowanie karne, mając na uwadze konieczność zapewnienia prawidłowego toku postępowania oraz uwzględniając specyfikę opieki zdrowotnej w warunkach izolacji więziennej.”.
 
 **Art. 26.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z 2006 r. Nr 126, poz. 876 oraz z 2007 r. Nr 21, poz. 123 i Nr 82, poz. 560) w art. 5 w ust. 1 w pkt 9 kropkę na końcu zdania zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) koszty wystawienia zaświadczenia przez lekarza sądowego.”.
 

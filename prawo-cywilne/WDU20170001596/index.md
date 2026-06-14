@@ -8,7 +8,7 @@ pos: 1596
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o spółdzielniach mieszkaniowych, ustawy – Kodeks postępowania cywilnego oraz ustawy – Prawo spółdzielcze
@@ -29,33 +29,231 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2013 r. poz. 1222, z 2015 r. poz. 201 oraz z 2017 r. poz. 1442) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) art. 831:
+- **1)** w art. 1:
+    - **a)** ust. 7 otrzymuje brzmienie: „7. W zakresie nieuregulowanym w ustawie stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2017 r. poz. 1560), z zastrzeżeniem ust. 8 i 9.”,
+    - **b)** dodaje się ust. 8 i 9 w brzmieniu: „8. Przepisów ustawy wymienionej w ust. 7, dotyczących wystąpienia ze spółdzielni, wykluczenia ze spółdzielni i wykreślenia z rejestru członków spółdzielni, nie stosuje się. Osoba będąca założycielem spółdzielni oraz właściciel lokalu będący członkiem spółdzielni może wystąpić z niej za wypowiedzeniem.
+
+9. Nie stosuje się przepisów ustawy wymienionej w ust. 7 dotyczących udziałów i wpisowego, a także przepisów dotyczących obowiązku złożenia deklaracji w celu przyjęcia w poczet członków spółdzielni, z zastrzeżeniem art. 3.”;
+
+- **2)** w art. 3:
+    - **a)** ust. 1–3 otrzymują brzmienie: „1. Członkiem spółdzielni jest osoba fizyczna, choćby nie miała zdolności do czynności prawnych albo miała ograniczoną zdolność do czynności prawnych:
+
+- **1)** której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego;
+- **2)** której przysługuje spółdzielcze własnościowe prawo do lokalu;
+- **3)** której przysługuje roszczenie o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego;
+- **4)** której przysługuje roszczenie o ustanowienie odrębnej własności lokalu, zwane dalej „ekspektatywą własności”; lub
+- **5)** będąca założycielem spółdzielni, z zastrzeżeniem ust. 9.
+
+2. Członkami spółdzielni są oboje małżonkowie, jeżeli prawo do lokalu przysługuje im wspólnie, albo jeżeli wspólnie ubiegają się o zawarcie umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego albo prawa odrębnej własności lokalu.
+
+3. Członkiem spółdzielni jest osoba prawna, której przysługuje spółdzielcze własnościowe prawo do lokalu, ekspektatywa własności lub będąca założycielem spółdzielni, z zastrzeżeniem ust. 9. Osobie tej nie przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego.”, Przepis art. 16 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio. Osoba, która nabyła prawo odrębnej własności lokalu, zachowuje członkostwo w spółdzielni.
+
+- **b)** po ust. 3 dodaje się ust. 3 –3 w brzmieniu: „3 . Członkiem spółdzielni może być osoba, która nabyła prawo odrębnej własności lokalu. Właścicielowi lokalu, który nie jest członkiem spółdzielni, przysługuje roszczenie o przyjęcie w poczet członków spółdzielni.
+
+3. Członkostwo w spółdzielni powstaje z chwilą:
+
+- **1)** nabycia roszczenia o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego;
+- **2)** nabycia ekspektatywy własności;
+- **3)** zawarcia umowy nabycia spółdzielczego własnościowego prawa do lokalu;
+- **4)** zawarcia umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, jeżeli członkostwo nie zostało nabyte wcześniej;
+- **5)** upływu terminu jednego roku, o którym mowa w art. 15 ust. 4, w przypadkach przewidzianych w art. 15 ust. 2 i 3, jeżeli przed upływem tego terminu jedna z osób, o których mowa w art. 15 ust. 2 lub 3, złożyła pisemne zapewnienie o gotowości zawarcia umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, z zastrzeżeniem pkt 6;
+- **6)** prawomocnego rozstrzygnięcia przez sąd w postępowaniu nieprocesowym lub wyboru dokonanego przez spółdzielnię, o których mowa w art. 15 ust. 4, w przypadkach przewidzianych w art. 15 ust. 2 i 3, jeżeli pisemne zapewnienie o gotowości zawarcia umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego zgłosiła więcej niż jedna osoba;
+- **7)** wpisania spółdzielni do Krajowego Rejestru Sądowego w przypadku osób będących założycielami spółdzielni.
+
+3. Przepisy ust. 1 i 3 stosuje się odpowiednio do osób, którym przysługuje prawo do miejsca postojowego w garażu wielostanowiskowym lub garażu wolnostojącego, o których mowa w art. 17 , lub do ułamkowego udziału we współwłasności garażu wielostanowiskowego, o którym mowa w art. 27 .
+
+3. Członkiem spółdzielni może być najemca, o którym mowa w art. 48 ust. 1. Przepisy dotyczące członkostwa właścicieli lokali stosuje się odpowiednio.”,
+
+- **c)** uchyla się ust. 4,
+- **d)** ust. 5 otrzymuje brzmienie: „5. Jeżeli spółdzielcze własnościowe prawo do lokalu, prawo odrębnej własności lokalu albo ekspektatywa własności należy do kilku osób, członkiem spółdzielni może być tylko jedna z nich, chyba że przysługuje ono wspólnie małżonkom. W przypadku zgłoszenia się kilku uprawnionych rozstrzyga sąd w postępowaniu nieprocesowym. Po bezskutecznym upływie wyznaczonego przez spółdzielnię terminu wystąpienia do sądu, nie dłuższego niż 12 miesięcy, wyboru dokonuje spółdzielnia. Do czasu rozstrzygnięcia, o którym mowa w zdaniu drugim, lub wyboru, o którym mowa w zdaniu trzecim, osoby, którym przysługuje spółdzielcze własnościowe prawo do lokalu, prawo odrębnej własności lokalu albo ekspektatywa własności, mogą wyznaczyć spośród siebie pełnomocnika w celu wykonywania uprawnień wynikających z członkostwa w spółdzielni.”,
+- **e)** dodaje się ust. 6–9 w brzmieniu: „6. Członkostwo w spółdzielni ustaje z chwilą:
+- **1)** wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego;
+- **2)** zbycia spółdzielczego własnościowego prawa do lokalu lub udziału w tym prawie;
+- **3)** zbycia prawa odrębnej własności lokalu lub udziału w tym prawie;
+- **4)** zbycia ekspektatywy własności lub udziału w tym prawie;
+- **5)** wygaśnięcia roszczenia o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego;
+- **6)** rozwiązania umowy o budowę lokalu, o której mowa w art. 18.
+
+7. Członkostwo w spółdzielni ustaje także w przypadkach określonych w art. 24 ust. 1 i art. 26. Do osób, które w następstwie tego utraciły członkostwo w spółdzielni, przepisy art. 108b ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze dotyczące członków spółdzielni stosuje się odpowiednio.
+
+8. Jeżeli członkowi przysługuje w danej spółdzielni więcej niż jeden tytuł prawny do lokalu będący podstawą uzyskania członkostwa, utrata członkostwa następuje dopiero w przypadku utraty wszystkich tytułów prawnych do lokali w ramach tej spółdzielni. Przepis ten stosuje się odpowiednio do członka, który jest stroną umowy lub umów o budowę lokalu lub lokali.
+
+9. Członkostwo osób będących założycielami spółdzielni ustaje, jeżeli w ciągu trzech lat od chwili wpisania spółdzielni do Krajowego Rejestru Sądowego spółdzielnia nie ustanowi na ich rzecz spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, prawa odrębnej własności lokalu albo nie dojdzie do zawarcia umowy o budowę lokalu.”;
+
+- **3)** w art. 4 w ust. 4 pkt 2 otrzymuje brzmienie: „2) ewidencję i rozliczenie wpływów i wydatków funduszu remontowego, o którym mowa w art. 6 ust. 3; ewidencja i rozliczenie wpływów i wydatków funduszu remontowego na poszczególne nieruchomości powinny uwzględniać wszystkie wpływy i wydatki funduszu remontowego tych nieruchomości.”;
+- **4)** w art. 8 po ust. 1 dodaje się ust. 1 w brzmieniu: „1 . Członek spółdzielni może uczestniczyć w walnym zgromadzeniu osobiście albo przez pełnomocnika. Pełnomocnik nie może zastępować więcej niż jednego członka. Pełnomocnictwo powinno być udzielone na piśmie pod rygorem nieważności i dołączone do protokołu walnego zgromadzenia. Lista pełnomocnictw podlega odczytaniu po rozpoczęciu walnego zgromadzenia. Przepisu art. 36 § 3 zdanie pierwsze ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze nie stosuje się.”;
+- **5)** w art. 9: Spółdzielcze lokatorskie prawo do lokalu mieszkalnego może być ustanowione na rzecz członka spółdzielni albo członka spółdzielni i jego małżonka.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przez umowę o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia zobowiązuje się oddać osobie, na rzecz której ustanowione jest prawo, lokal mieszkalny do używania, a osoba ta zobowiązuje się wnieść wkład mieszkaniowy oraz uiszczać opłaty określone w ustawie i w statucie spółdzielni.
+    - **b)** w ust. 4 zdanie pierwsze otrzymuje brzmienie: „Spółdzielcze lokatorskie prawo do lokalu mieszkalnego powstaje z chwilą zawarcia między osobą ubiegającą się o ustanowienie tego prawa a spółdzielnią umowy, o której mowa w ust. 1.”;
+
+- **6)** w art. 10 ust. 1 i 2 otrzymują brzmienie: „1. Z osobą ubiegającą się o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia zawiera umowę o budowę lokalu. Umowa ta, zawarta w formie pisemnej pod rygorem nieważności, powinna zobowiązywać strony do zawarcia, po wybudowaniu lokalu, umowy o ustanowienie spółdzielczego lokatorskiego prawa do tego lokalu, a ponadto powinna zawierać:
+- **1)** zobowiązanie osoby ubiegającej się o ustanowienie spółdzielczego lokatorskiego prawa do lokalu do pokrywania kosztów zadania inwestycyjnego w części przypadającej na jej lokal przez wniesienie wkładu mieszkaniowego określonego w umowie;
+- **2)** określenie zakresu rzeczowego robót realizowanego zadania inwestycyjnego, które będzie stanowić podstawę ustalenia wysokości kosztów budowy lokalu;
+- **3)** określenie zasad ustalania wysokości kosztów budowy lokalu;
+- **4)** inne postanowienia określone w statucie.
+
+2. Osoba, o której mowa w ust. 1, wnosi wkład mieszkaniowy według zasad określonych w statucie w wysokości odpowiadającej różnicy między kosztem budowy przypadającym na jej lokal a uzyskaną przez spółdzielnię pomocą ze środków publicznych lub z innych środków uzyskanych na sfinansowanie kosztów budowy lokalu. Jeżeli część wkładu mieszkaniowego została sfinansowana z zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu, osoba, o której mowa w ust. 1, jest obowiązana uczestniczyć w spłacie tego kredytu wraz z odsetkami w części przypadającej na jej lokal.”;
+
+- **7)** w art. 11:
+    - **a)** ust. 1 i 1 otrzymują brzmienie: „1 . W przypadku zaległości z zapłatą opłat, o których mowa w art. 4 ust. 1, za okres co najmniej 6 miesięcy, rażącego lub uporczywego wykraczania osoby korzystającej z lokalu przeciwko obowiązującemu porządkowi domowemu albo niewłaściwego zachowania tej osoby czyniącego korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, spółdzielnia może w trybie procesu żądać orzeczenia przez sąd o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego. Jeżeli podstawą żądania orzeczenia o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego jest zaleganie z zapłatą opłat, o których mowa w art. 4 ust. 1, nie można orzec o wygaśnięciu spółdzielczego lokatorskiego prawa do tego lokalu, jeżeli najpóźniej przed zamknięciem rozprawy przed sądem pierwszej instancji, a jeżeli wniesiono apelację – przed sądem drugiej instancji członek spółdzielni uiści wszystkie zaległe opłaty.
+
+1. W przypadku gdy spółdzielcze lokatorskie prawo do lokalu mieszkalnego przysługuje małżonkom wspólnie, sąd może orzec o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego wobec jednego z małżonków albo wobec obojga małżonków.”,
+
+- **b)** uchyla się ust. 1 ,
+- **c)** ust. 1 i 2 otrzymują brzmienie: „1 . Z chwilą gdy orzeczenie sądu, o którym mowa w ust. 1 i 1 , stanie się prawomocne, spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa. W przypadku, o którym mowa w ust. 1 , spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa wobec jednego z małżonków albo wobec obojga małżonków.
+
+2. W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia, z zastrzeżeniem art. 15 i art. 16 , ogłasza nie później niż w ciągu 3 miesięcy od dnia opróżnienia lokalu, zgodnie z postanowieniami statutu, przetarg na ustanowienie odrębnej własności tego lokalu, zawiadamiając o przetargu w sposób określony w statucie oraz przez publikację ogłoszenia w prasie lokalnej. Warunkiem przeniesienia odrębnej własności lokalu jest wpłata wartości rynkowej lokalu.”,
+
+- **d)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Spółdzielnia nie przenosi odrębnej własności lokalu, jeżeli:
+- **1)** osoba, której przysługiwało spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a której prawo wygasło, zgłosi roszczenie o ponowne ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego w przypadku, o którym mowa w art. 16 ;
+- **2)** osoba, o której mowa w art. 15 ust. 2, zgłosi roszczenie o ustanowienie spółdzielczego lokatorskiego prawa do tego lokalu.”,
+    - **e)** ust. 2 otrzymuje brzmienie: „2 . Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje przeniesienia własności lokalu.”,
+    - **f)** po ust. 2 dodaje się ust. 2 –2 w brzmieniu: „2 . W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, gdy ten lokal nie podlega zbyciu w drodze przetargu na podstawie ust. 2, spółdzielnia zwraca osobie uprawnionej wniesiony wkład mieszkaniowy albo jego wniesioną część, zwaloryzowane według wartości rynkowej lokalu. W rozliczeniu tym nie uwzględnia się długu obciążającego członka spółdzielni z tytułu przypadającej na niego części zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu wraz z odsetkami, o którym mowa w art. 10 ust. 2.
+
+2. W przypadku, o którym mowa w ust. 2 , warunkiem zwrotu wartości wkładu mieszkaniowego albo jego części jest:
+
+- **1)** wniesienie wkładu mieszkaniowego przez członka spółdzielni i zawarcie umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, do którego wygasło prawo przysługujące innej osobie;
+- **2)** opróżnienie lokalu, chyba że członek spółdzielni zawierający umowę o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, do którego wygasło prawo przysługujące innej osobie, wyrazi pisemną zgodę na dokonanie wypłaty pomimo nieopróżnienia lokalu.
+
+2. W przypadku, o którym mowa w ust. 2 pkt 1, z wkładu mieszkaniowego potrąca się kwoty zaległych opłat, o których mowa w art. 4 ust. 1, a także koszty określenia wartości rynkowej lokalu.
+
+2. Członek spółdzielni zawierający umowę o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, do którego wygasło prawo przysługujące innej osobie, wnosi wkład mieszkaniowy w wysokości, o której mowa w ust. 2 , oraz zobowiązuje się do spłaty długu obciążającego tę osobę z tytułu przypadającej na nią części zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu wraz z odsetkami.”,
+
+- **g)** ust. 3 otrzymuje brzmienie: „3. Umowa o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, zawarta z inną osobą przed wygaśnięciem prawa do tego lokalu, jest nieważna.”;
+- **8)** art. 13 otrzymuje brzmienie: „Art. 13. Po ustaniu małżeństwa wskutek rozwodu lub po unieważnieniu małżeństwa małżonkowie zawiadamiają spółdzielnię, któremu z nich przypadło spółdzielcze lokatorskie prawo do lokalu mieszkalnego. Do momentu zawiadomienia spółdzielni o tym, komu przypadło spółdzielcze lokatorskie prawo do lokalu mieszkalnego, małżonkowie, których małżeństwo zostało rozwiązane przez rozwód lub unieważnione, odpowiadają solidarnie za opłaty, o których mowa w art. 4 ust. 1.”;
+- **9)** w art. 14 ust. 1 otrzymuje brzmienie: „1. Z chwilą śmierci jednego z małżonków spółdzielcze lokatorskie prawo do lokalu mieszkalnego, które przysługiwało obojgu małżonkom, przypada drugiemu małżonkowi.”;
+- **10)** w art. 15:
+    - **a)** uchyla się ust. 1,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego w następstwie śmierci uprawnionego lub w przypadkach, o których mowa w art. 11, roszczenia o zawarcie umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego przysługują jego osobom bliskim.”,
+    - **c)** po ust. 2 dodaje się ust. 2 w brzmieniu: „2 . Umowy, o których mowa w ust. 2, zawiera się na warunkach określonych w dotychczasowej umowie o ustanowieniu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego.”,
+    - **d)** ust. 3–5 otrzymują brzmienie: „3. W przypadku śmierci osoby, o której mowa w art. 10, w okresie oczekiwania na zawarcie umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego osobom, o których mowa w ust. 2, które miały wspólnie z osobą, o której mowa w art. 10, zamieszkać w tym lokalu, przysługują roszczenia o zawarcie umowy zgodnie z postanowieniami umowy o budowę lokalu.
+
+4. Do zachowania roszczeń, o których mowa w ust. 2 i 3, konieczne jest złożenie w terminie jednego roku pisemnego zapewnienia o gotowości zawarcia umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego. W przypadku zgłoszenia się kilku uprawnionych, rozstrzyga sąd w postępowaniu nieprocesowym, biorąc pod uwagę w szczególności okoliczność, czy osoba uprawniona na podstawie ust. 2 zamieszkiwała z byłym członkiem. Po bezskutecznym upływie wyznaczonego przez spółdzielnię terminu wystąpienia do sądu, wyboru dokonuje spółdzielnia. Jeżeli o roszczeniu rozstrzygał sąd, osoby, które pozostawały w sporze, niezwłocznie zawiadamiają o tym spółdzielnię. Do momentu zawiadomienia spółdzielni o tym, komu przypadło spółdzielcze lokatorskie prawo do lokalu mieszkalnego, osoby te odpowiadają solidarnie za opłaty, o których mowa w art. 4 ust. 1.
+
+5. Osoba, o której mowa w ust. 3, staje się stroną umowy o budowę lokalu wiążącej osobę, o której mowa w art. 10.”;
+
+- **11)** w art. 16:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W przypadku nabycia prawa do gruntu wraz z prawem własności znajdującego się na nim budynku albo udziałem we współwłasności tego budynku przez inną spółdzielnię mieszkaniową, osoby, którym przysługują spółdzielcze lokatorskie prawa do lokali mieszkalnych w tym budynku albo roszczenia o ustanowienie takiego prawa, stają się członkami tej spółdzielni, a spółdzielcze lokatorskie prawo do lokalu mieszkalnego lub roszczenie o ustanowienie takiego prawa przysługuje w stosunku do spółdzielni, która nabyła prawo do gruntu wraz z prawem własności budynku lub udziałem we współwłasności budynku. Jednocześnie ustają stosunki członkostwa w spółdzielni, której prawo do gruntu wraz z prawem własności znajdującego się na nim budynku albo udziałem we współwłasności tego budynku zostało zbyte.”,
+    - **b)** uchyla się ust. 3;
+
+- **12)** po art. 16 dodaje się art. 16 w brzmieniu: „Art. 16 . 1. Osobie, której przysługiwało spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a której prawo wygasło z powodu nieuiszczania opłat związanych z eksploatacją i utrzymaniem jej lokalu lub eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, przysługuje roszczenie do spółdzielni o ponowne ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, jeżeli spłaci spółdzielni całe zadłużenie wynikające z nieuiszczania tych opłat wraz z odsetkami.
+
+2. Roszczenie, o którym mowa w ust. 1, przysługuje tylko wtedy, jeżeli wcześniej nie został ustanowiony tytuł prawny do lokalu na rzecz innej osoby. Warunkiem ustanowienia przez spółdzielnię tytułu prawnego do lokalu na rzecz innej osoby jest opróżnienie lokalu przez osobę, której spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasło.”;
+
+- **13)** w art. 17 ust. 6 otrzymuje brzmienie: „6. Nabywca spółdzielczego własnościowego prawa do lokalu staje się członkiem spółdzielni, z zastrzeżeniem art. 3. Dotyczy to również spadkobiercy, zapisobiorcy i licytanta. Nabywca zawiadamia niezwłocznie spółdzielnię o nabyciu prawa.”;
+- **14)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Z osobą ubiegającą się o ustanowienie odrębnej własności lokalu spółdzielnia zawiera umowę o budowę lokalu. Umowa ta, zawarta w formie pisemnej pod rygorem nieważności, powinna zobowiązywać strony do zawarcia, po wybudowaniu lokalu, umowy o ustanowienie odrębnej własności tego lokalu, a ponadto powinna zawierać:
+- **1)** zobowiązanie osoby ubiegającej się o ustanowienie odrębnej własności lokalu do pokrywania kosztów zadania inwestycyjnego w części przypadającej na jej lokal przez wniesienie wkładu budowlanego określonego w umowie;
+- **2)** określenie zakresu rzeczowego robót realizowanego zadania inwestycyjnego, które będzie stanowić podstawę ustalenia wysokości kosztów budowy lokalu;
+- **3)** określenie zasad ustalania wysokości kosztów budowy lokalu;
+- **4)** określenie rodzaju, położenia i powierzchni lokalu oraz pomieszczeń do niego przynależnych;
+- **5)** inne postanowienia określone w statucie.
+
+2. Osoba, o której mowa w ust. 1, wnosi wkład budowlany według zasad określonych w statucie i w umowie, o której mowa w ust. 1, w wysokości odpowiadającej całości kosztów budowy przypadających na jej lokal. Jeżeli część wkładu budowlanego została sfinansowana z zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu, osoba ta jest obowiązana do spłaty tego kredytu wraz z odsetkami w części przypadającej na jej lokal.
+
+3. Przepisy ust. 1 pkt 2 i 3 oraz ust. 2 nie dotyczą osób, które zawierają umowę o budowę bezpośrednio z wykonawcą robót budowlanych, w przypadku zadań nieobejmujących nieruchomości wspólnych lub części wspólnych.
+
+4. Rozliczenie kosztów budowy następuje w terminie 3 miesięcy od dnia oddania budynku do użytkowania. Po upływie tego terminu roszczenie spółdzielni o uzupełnienie wkładu budowlanego wygasa.”;
+
+- **15)** art. 19 otrzymuje brzmienie: „Art. 19. 1. Z chwilą zawarcia umowy, o której mowa w art. 18 ust. 1, powstaje ekspektatywa własności. Ekspektatywa własności jest zbywalna wraz z wkładem budowlanym albo jego wniesioną częścią, przechodzi na spadkobierców i podlega egzekucji.
+
+2. Nabycie ekspektatywy własności obejmuje również wniesiony wkład budowlany albo jego część.
+
+3. Umowa zbycia ekspektatywy własności powinna być zawarta w formie aktu notarialnego.”;
+
+- **16)** w art. 20 ust. 1 i 2 otrzymują brzmienie: „1. Umowa o budowę lokalu ulega rozwiązaniu w wyniku jej wypowiedzenia przez spółdzielnię lub osobę, o której mowa w art. 18 ust. 1.
+
+2. Spółdzielnia może wypowiedzieć umowę o budowę lokalu, gdy osoba, o której mowa w art. 18 ust. 1, lub jej następca prawny, z przyczyn leżących po ich stronie, nie dotrzymali tych warunków umowy określonych w art. 18 ust. 1 pkt 1 i 5, bez których dalsza realizacja zadania inwestycyjnego lub ustanowienie odrębnej własności lokali wzniesionych w ramach wspólnie realizowanego zadania inwestycyjnego byłoby niemożliwe albo poważnie utrudnione.”;
+
+- **17)** w art. 21:
+    - **a)** w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Spółdzielnia ustanawia na rzecz osoby, o której mowa w art. 18 ust. 1, albo nabywcy ekspektatywy własności odrębną własność lokalu, w terminie 2 miesięcy po jego wybudowaniu, a jeżeli na podstawie odrębnych przepisów jest wymagane pozwolenie na użytkowanie – w terminie 2 miesięcy od uzyskania takiego pozwolenia.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Ustanowienie odrębnej własności lokalu może nastąpić na rzecz małżonków albo osób wskazanych przez osobę, o której mowa w art. 18 ust. 1, które wspólnie z nią ubiegają się o ustanowienie takiego prawa.”;
+
+- **18)** w art. 22 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Umowa o ustanowienie odrębnej własności lokali może być zawarta przez spółdzielnię łącznie ze wszystkimi osobami, które ubiegają się o ustanowienie takiego prawa, wraz ze związanymi z nim udziałami w nieruchomości.”;
+- **19)** w art. 23 ust. 2 otrzymuje brzmienie: „2. Spółdzielnia nie może odmówić przyjęcia w poczet członków niebędącego jej członkiem właściciela lokalu podlegającego przepisom ustawy, w tym także nabywcy prawa odrębnej własności lokalu, spadkobiercy, zapisobiercy i licytanta, z zastrzeżeniem art. 3.”;
+- **20)** w art. 24 :
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Większość właścicieli lokali w budynku lub budynkach położonych w obrębie danej nieruchomości, obliczana według wielkości udziałów w nieruchomości wspólnej, może podjąć uchwałę, że w zakresie ich praw i obowiązków oraz zarządu nieruchomością wspólną będą miały zastosowanie przepisy ustawy z dnia 24 czerwca 1994 r. o własności lokali. Do podjęcia uchwały stosuje się odpowiednio przepisy tej ustawy.”,
+    - **b)** dodaje się ust. 3–6 w brzmieniu: „3. Z chwilą ustania członkostwa właściciel lokalu staje się współwłaścicielem środków zgromadzonych na funduszu remontowym, o którym mowa w art. 6 ust. 3, w wysokości odpowiadającej przypadającemu na ten lokal udziałowi we współwłasności nieruchomości wspólnej. Wysokość tego udziału ustala się na podstawie ewidencji i rozliczenia wpływów i wydatków funduszu remontowego, o których mowa w art. 4 ust. 4 pkt 2, według stanu na dzień ustania członkostwa.
+
+4. Przepis ust. 3 stosuje się odpowiednio do właściciela lokalu, który nie był członkiem spółdzielni.
+
+5. Spółdzielnia mieszkaniowa w przypadkach, o których mowa w ust. 1 lub w art. 26, niezwłocznie rozlicza z właścicielami lokali zaewidencjonowane wpływy i wydatki funduszu remontowego oraz pozostałe nakłady na remonty nieruchomości.
+
+6. Od dnia powstania wspólnoty mieszkaniowej właściciele lokali są obowiązani uczestniczyć w wydatkach związanych z eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, które są przeznaczone do wspólnego korzystania przez osoby zamieszkujące w określonym budynku lub osiedlu na podstawie zawartej ze spółdzielnią umowy.”;
+
+- **21)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Jeżeli w określonym budynku lub budynkach położonych w obrębie danej nieruchomości została wyodrębniona własność wszystkich lokali, po wyodrębnieniu własności ostatniego lokalu stosuje się przepisy ustawy z dnia 24 czerwca 1994 r. o własności lokali. Spółdzielnia w terminie 14 dni od dnia wyodrębnienia własności ostatniego lokalu w określonym budynku lub budynkach położonych w obrębie danej nieruchomości zawiadamia o tym na piśmie właścicieli lokali w tej nieruchomości.
+
+2. W terminie 3 miesięcy od dnia wyodrębnienia własności ostatniego lokalu większość właścicieli lokali w budynku lub w budynkach położonych w obrębie danej nieruchomości, obliczana według wielkości udziałów w nieruchomości wspólnej, może podjąć uchwałę, że w zakresie ich praw i obowiązków oraz zarządu nieruchomością wspólną stosuje się odpowiednio art. 27. Do podjęcia uchwały stosuje się odpowiednio przepisy art. 30 ust. 1a, art. 31 i art. 32 ustawy z dnia 24 czerwca 1994 r. o własności lokali.
+
+3. Spółdzielnia w terminie 14 dni od dnia wyodrębnienia własności ostatniego lokalu w określonym budynku lub budynkach położonych w obrębie danej nieruchomości zawiadamia o tym na piśmie właścicieli lokali w tej nieruchomości.
+
+4. W przypadku, o którym mowa w ust. 1, stosuje się przepisy art. 24 ust. 3 i 4.”;
+
+- **22)** w art. 27 ust. 2 i 3 otrzymują brzmienie: „2. Zarząd nieruchomościami wspólnymi stanowiącymi współwłasność spółdzielni jest wykonywany przez spółdzielnię jak zarząd powierzony, o którym mowa w art. 18 ust. 1 ustawy z dnia 24 czerwca 1994 r. o własności lokali, z zastrzeżeniem art. 24 i art. 26. Przepisów ustawy z dnia 24 czerwca 1994 r. o własności lokali o zarządzie nieruchomością wspólną nie stosuje się, z wyjątkiem art. 22 oraz art. 29 ust. 1 i 1a, które stosuje się odpowiednio.
+
+3. Przepisów ustawy, o której mowa w ust. 2, o wspólnocie mieszkaniowej i zebraniu właścicieli nie stosuje się, z zastrzeżeniem ust. 2, art. 24 i art. 26. Do podjęcia uchwały, o której mowa w art. 22 ust. 2 i 4 ustawy, o której mowa w ust. 2, stosuje się odpowiednio przepisy tej ustawy.”;
+
+- **23)** w art. 48:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Na pisemne żądanie najemcy spółdzielczego lokalu mieszkalnego, który przed przejęciem przez spółdzielnię mieszkaniową był mieszkaniem przedsiębiorstwa państwowego, państwowej osoby prawnej lub państwowej jednostki organizacyjnej, jeżeli najemca był uprawniony do korzystania z tego lokalu w dniu jego przejęcia, spółdzielnia ma obowiązek zawrzeć z nim umowę przeniesienia własności lokalu, po dokonaniu przez niego:
+
+- **1)** spłaty zadłużenia z tytułu świadczeń wynikających z umowy najmu lokalu;
+- **2)** wpłaty wkładu budowlanego określonego przez zarząd spółdzielni w wysokości proporcjonalnej do powierzchni użytkowej zajmowanego mieszkania: Wysokość ustalonego przez spółdzielnię wkładu budowlanego wnoszonego przez najemców nie może przekraczać 5% aktualnej wartości rynkowej prawa odrębnej własności lokali zajmowanych przez tych najemców, jeżeli spółdzielnia nabyła budynek nieodpłatnie.”, o wspieraniu termomodernizacji i remontów (Dz. U. z 2017 r. poz. 130 i 1529).
+    - **a)** wynikającej ze zwaloryzowanej ceny nabycia budynku – jeżeli spółdzielnia nabyła budynek odpłatnie,
+    - **b)** wynikającej z kosztów dokonanych przez spółdzielnię nakładów przeznaczonych na utrzymanie budynku, w którym znajduje się lokal w zakresie, w jakim koszty te nie zostały uwzględnione w świadczeniach wynikających z umowy najmu oraz wynikającej z poniesionych przez spółdzielnię kosztów w postępowaniu wieczystoksięgowym i kosztów wynagrodzenia notariusza związanych z zawarciem umowy nabycia budynku – jeżeli spółdzielnia nabyła budynek nieodpłatnie.
+    - **b)** po ust. 1 dodaje się ust. 1 –1 w brzmieniu: „1 . Najemca nie jest obowiązany do spłaty kosztów poniesionych przez spółdzielnię tytułem nakładów przeznaczonych na utrzymanie budynku w takiej części, w jakiej znalazły pokrycie w otrzymanej przez spółdzielnię premii termomodernizacyjnej lub premii remontowej, o których mowa w ustawie z dnia 21 listopada 2008 r.
+
+1. Rada nadzorcza może podjąć uchwałę określającą zasady udzielania bonifikaty od kwoty, o której mowa w ust. 1 pkt 2.
+
+1. Najemca nie jest obowiązany do spłaty kosztów w takiej części, w jakiej koszty te zostały pokryte w związku z wnoszeniem świadczeń wynikających z umowy najmu.”,
+
+- **c)** ust. 4 i 5 otrzymują brzmienie: „4. Kaucje mieszkaniowe, o których mowa w art. 7 ust. 3, w związku z art. 9 ust. 1 ustawy z dnia 12 października 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe (Dz. U. z 2014 r. poz. 1381), podlegają zaliczeniu na poczet kosztów lub kwoty, o których mowa w ust. 1.
+
+5. Wysokość kaucji mieszkaniowej waloryzuje się proporcjonalnie do wartości rynkowej lokalu.”.
+
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) w art. 831:
+
+- **1)** w § 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) wierzytelności przysługujące spółdzielni mieszkaniowej wobec członków spółdzielni i osób niebędących członkami spółdzielni, którym przysługuje spółdzielcze prawo do lokalu albo własność lokalu, z tytułu opłat, o których mowa w art. 4 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2013 r. poz. 1222, z 2015 r. poz. 201 oraz z 2017 r. poz. 1442 i 1596), jak również środki, będące w dyspozycji spółdzielni w związku z wnoszeniem tych opłat, chyba że wierzytelność egzekwowana powstała w związku z wykonaniem przez wierzyciela zobowiązań, które miały być zaspokojone z opłat, o których mowa w art. 4 tej ustawy.”;
+- **2)** dodaje się § 4 w brzmieniu: „§ 4. Przepis § 1 pkt 10 stosuje się odpowiednio do wierzytelności przysługujących spółdzielni mieszkaniowej wobec najemców spółdzielczych lokali mieszkalnych, które przed przejęciem przez spółdzielnię mieszkaniową były mieszkaniami przedsiębiorstwa państwowego, państwowej osoby prawnej, spółki Skarbu Państwa lub innej państwowej jednostki organizacyjnej.”.
 
 **Art. 3.** W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2017 r. poz. 1560) wprowadza się następujące zmiany:
 
-**Art. 4.** Członek spółdzielni, któremu dniu wejścia życie niniejszej ustawy nie przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, spółdzielcze własnościowe prawo do lokalu albo prawo odrębnej własności lokalu oraz któremu nie przysługuje roszczenie o ustanowienie prawa odrębnej własności lokalu lub roszczenie o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, traci z tym dniem członkostwo spółdzielni.
+- **1)** w art. 91 po § 4 dodaje się § 4 w brzmieniu: „§ 4 . W przypadku badania lustracyjnego spółdzielni mieszkaniowych lustratorem nie może być osoba będąca członkiem zarządu jakiejkolwiek spółdzielni mieszkaniowej, prokurentem, likwidatorem, a także zatrudniony lub świadczący usługi na rzecz jakiejkolwiek spółdzielni mieszkaniowej główny księgowy, radca prawny lub adwokat. Zakaz ten stosuje się także do innych osób, o ile podlegają członkowi zarządu, likwidatorowi lub głównemu księgowemu.”;
+- **2)** art. 93a otrzymuje brzmienie: „Art. 93a. § 1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ma prawo żądania informacji, danych i dokumentów, dotyczących organizacji i działalności spółdzielni mieszkaniowych, niezbędnych do dokonywania oceny zgodności z prawem i gospodarności działalności spółdzielni.
 
-**Art. 5.** Do walnych zgromadzeń spółdzielni mieszkaniowych rozpoczętych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+§ 2. W przypadku podejrzenia naruszenia prawa przez spółdzielnię mieszkaniową minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa występuje do właściwego związku rewizyjnego, w którym spółdzielnia jest zrzeszona, lub do Krajowej Rady Spółdzielczej z wnioskiem o przeprowadzenie lustracji. Lustrację przeprowadza się na koszt spółdzielni.
 
-**Art. 6.** Przepisy art. 24 ust. 3 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się odniesieniu do nieruchomości zarządzanych przez spółdzielnie mieszkaniowe na podstawie art. 27 ustawy zmienianej art. 1 dniu 5 lutego 2015 r.
+§ 3. Lustracja, o której mowa w § 2, może obejmować całość albo część działalności spółdzielni albo tylko określone zagadnienia.
+
+§ 4. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wystąpić z wnioskiem o lustrację danej spółdzielni nie częściej niż raz w roku.
+
+§ 5. Lustrację, o której mowa w § 2, związek rewizyjny lub Krajowa Rada Spółdzielcza wszczyna w terminie 30 dni od dnia otrzymania wniosku ministra.
+
+§ 6. Podmiot przeprowadzający lustrację obowiązany jest przesłać protokół z czynności lustracyjnych ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+
+§ 7. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wykonywać uprawnienia Krajowej Rady Spółdzielczej lub związku rewizyjnego wobec spółdzielni mieszkaniowej określone w ustawie, z wyjątkiem określonych w art. 114 i art. 115, jeżeli uprawnień tych nie wykonuje Krajowa Rada Spółdzielcza lub związek rewizyjny.”.
+
+**Art. 4.** Członek spółdzielni, któremu w dniu wejścia w życie niniejszej ustawy nie przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, spółdzielcze własnościowe prawo do lokalu albo prawo odrębnej własności lokalu oraz któremu nie przysługuje roszczenie o ustanowienie prawa odrębnej własności lokalu lub roszczenie o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, traci z tym dniem członkostwo w spółdzielni.
+
+**Art. 5.** Do walnych zgromadzeń spółdzielni mieszkaniowych rozpoczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 6.** Przepisy art. 24 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się w odniesieniu do nieruchomości zarządzanych przez spółdzielnie mieszkaniowe na podstawie art. 27 ustawy zmienianej w art. 1 w dniu 5 lutego 2015 r.
 
 **Art. 7.**
 
-1. Osobie, która przed dniem wejścia życie ustawy, utraciła spółdzielcze lokatorskie prawo do lokalu mieszkalnego albo spółdzielcze własnościowe prawo do lokalu z powodu nieuiszczania opłat związanych z eksploatacją i utrzymaniem lokalu oraz eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, przysługuje do spółdzielni roszczenie o ustanowienie takiego tytułu prawnego do lokalu, jaki utraciła, jeżeli po dniu wejścia życie ustawy spłaci spółdzielni całe zadłużenie wynikające z nieuiszczania tych opłat wraz z odsetkami albo spłaciła je wcześniej.
+1. Osobie, która przed dniem wejścia w życie ustawy, utraciła spółdzielcze lokatorskie prawo do lokalu mieszkalnego albo spółdzielcze własnościowe prawo do lokalu z powodu nieuiszczania opłat związanych z eksploatacją i utrzymaniem lokalu oraz eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, przysługuje do spółdzielni roszczenie o ustanowienie takiego tytułu prawnego do lokalu, jaki utraciła, jeżeli po dniu wejścia w życie ustawy spłaci spółdzielni całe zadłużenie wynikające z nieuiszczania tych opłat wraz z odsetkami albo spłaciła je wcześniej.
 
-2. Roszczenie, o którym mowa ust. 1, przysługuje tylko wtedy, jeżeli przed dokonaniem spłaty całego zadłużenia nie został ustanowiony tytuł prawny do lokalu na rzecz innej osoby. Warunkiem ustanowienia przez spółdzielnię tytułu prawnego do lokalu na rzecz innej osoby jest opróżnienie lokalu przez osobę, której spółdzielcze lokatorskie prawo do lokalu mieszkalnego lub spółdzielcze własnościowe prawo do lokalu wygasło.
+2. Roszczenie, o którym mowa w ust. 1, przysługuje tylko wtedy, jeżeli przed dokonaniem spłaty całego zadłużenia nie został ustanowiony tytuł prawny do lokalu na rzecz innej osoby. Warunkiem ustanowienia przez spółdzielnię tytułu prawnego do lokalu na rzecz innej osoby jest opróżnienie lokalu przez osobę, której spółdzielcze lokatorskie prawo do lokalu mieszkalnego lub spółdzielcze własnościowe prawo do lokalu wygasło.
 
 **Art. 8.**
 
-1. Spółdzielnie istniejące dniu wejścia życie ustawy dokonają zmian swoich statutów stosownie do wymagań niniejszej ustawy, trybie przewidzianym ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze. Zgłoszenia do Krajowego Rejestru Sądowego tych zmian spółdzielnie dokonają terminie 12 miesięcy od dnia wejścia życie niniejszej ustawy. Do czasu zarejestrowania zmian statutów postanowienia dotychczasowych statutów pozostają mocy, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+1. Spółdzielnie istniejące w dniu wejścia w życie ustawy dokonają zmian swoich statutów stosownie do wymagań niniejszej ustawy, w trybie przewidzianym w ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze. Zgłoszenia do Krajowego Rejestru Sądowego tych zmian spółdzielnie dokonają w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Do czasu zarejestrowania zmian statutów postanowienia dotychczasowych statutów pozostają w mocy, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. W razie sprzeczności między postanowieniami statutów spółdzielni a przepisami niniejszej ustawy, stosuje się przepisy tej ustawy.
 
-**Art. 9.** Do wniosków o zawarcie umowy przeniesienia własności lokalu, o których mowa art. 48 ustawy zmienianej art. 1, które zostały złożone przed dniem 23 lutego 2013 r. i wyniku których do dnia wejścia życie niniejszej ustawy nie zostało dokonane przeniesienie własności lokalu, stosuje się przepisy niniejszej ustawy.
+**Art. 9.** Do wniosków o zawarcie umowy przeniesienia własności lokalu, o których mowa w art. 48 ustawy zmienianej w art. 1, które zostały złożone przed dniem 23 lutego 2013 r. i w wyniku których do dnia wejścia w życie niniejszej ustawy nie zostało dokonane przeniesienie własności lokalu, stosuje się przepisy niniejszej ustawy.
 
-**Art. 10.** Do spraw sądowych wszczętych i niezakończonych prawomocnym orzeczeniem przed dniem wejścia życie niniejszej ustawy stosuje się przepisy niniejszej ustawy.
+**Art. 10.** Do spraw sądowych wszczętych i niezakończonych prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy niniejszej ustawy.
 
-**Art. 11.** Do czynności podjętych na podstawie art. 93a ustawy zmienianej art. 3 po dniu wejścia życie niniejszej ustawy, sprawach wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy art. 93a ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą.
+**Art. 11.** Do czynności podjętych na podstawie art. 93a ustawy zmienianej w art. 3 po dniu wejścia w życie niniejszej ustawy, w sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 93a ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 12.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

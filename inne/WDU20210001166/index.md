@@ -8,10 +8,10 @@ pos: 1166
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 czerwca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1166 OBWIESZCZENIE Ministra sprawiedliwości z dnia 24 maja 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1166/text.pdf) |
 
-OBWIESZCZENIE Ministra sprawiedliwości z dnia 24 maja 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra sprawiedliwości w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 20 grudnia 2012 r. w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. z 2013 r. poz. 69), z uwzględnieniem zmian wprowadzonych:
 1) wyrokiem Trybunału Konstytucyjnego z dnia 8 maja 2014 r. sygn. akt U 9/13 (Dz. U. poz. 674);
@@ -35,19 +34,21 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra sprawiedliwoś
 1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. z 2018 r. poz. 22), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
 2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 23 października 2020 r. zmieniającego rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. poz. 2092), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Sprawiedliwości: Z. Ziobro rozporządzenie Ministra sprawiedliwości z dnia 20 grudnia 2012 r.
-w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych Na podstawie art. 37i ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080) zarządza się, co następuje:
+w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych Na podstawie art. 37i ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy tryb sprawowania nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych, zwanego dalej „nadzorem”;
 2) sposób dokumentowania czynności nadzorczych;
 3) sposób sporządzania informacji rocznej o działalności sądów działających na obszarze apelacji, zwanej dalej „informacją roczną”.
 § 2. Czynności nadzorcze powinny być przeprowadzane w sposób sprawny i niezakłócający bieżącej pracy sądu.
-§ 3. Ilekroć w rozporządzeniu jest mowa o ustawie, należy przez to rozumieć ustawę z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych.
+§ 3. Ilekroć w rozporządzeniu jest mowa o ustawie, należy przez to rozumieć ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
+§ 4. Prezes sądu apelacyjnego ustala kierunki nadzoru, o których mowa w art. 37b § 3 ustawy, uwzględniając ogólne kierunki wewnętrznego nadzoru, o których mowa w art. 37g § 1 pkt 2 ustawy, i przedstawia je prezesom sądów działających na obszarze apelacji.
 § 4a. (uchylony).
-§ 5. 1. Prezes sądu apelacyjnego sporządza plan nadzorczy działalności sądu apelacyjnego oraz plany nadzorcze działalności sądów okręgowych działających na obszarze apelacji, a prezes sądu okręgowego plany nadzorcze działalności sądów rejonowych działających w okręgu sądowym, zwane dalej „planami nadzorczymi”.
+§ 5. 1. Prezes sądu apelacyjnego sporządza plan nadzorczy działalności sądu apelacyjnego oraz plany nadzorcze działalności sądów okręgowych działających na obszarze apelacji, a prezes sądu okręgowego – plany nadzorcze działalności sądów rejonowych działających w okręgu sądowym, zwane dalej „planami nadzorczymi”.
 2. W razie potrzeby prezes sądu apelacyjnego może zaplanować także czynności nadzorcze, które powinny zostać przeprowadzone w sądach rejonowych działających na obszarze apelacji. W takim przypadku przekazuje prezesom sądów okręgowych informacje o zaplanowanych czynnościach.
 3. Prezes sądu okręgowego przedstawia prezesowi przełożonego sądu apelacyjnego plany nadzorcze działalności sądów rejonowych, uwzględniając w nich czynności nadzorcze, o których mowa w ust. 2. Prezes sądu apelacyjnego w terminie 14 dni może wnieść do planów wiążące uwagi.
 4. Przepisy ust. 1–3 stosuje się odpowiednio do zmiany planów nadzorczych.
 § 6. 1. Plany nadzorcze obejmują przeprowadzenie wizytacji, o których mowa w art. 37c ustawy; w razie potrzeby plany nadzorcze mogą obejmować również przeprowadzenie lustracji.
-2. W planach nadzorczych wskazuje się terminy przeprowadzenia poszczególnych czynności nadzorczych oraz prezesa sądu odpowiedzialnego za ich przeprowadzenie, a w przypadku lustracji także ich zakres.
+2. W planach nadzorczych wskazuje się terminy przeprowadzenia poszczególnych czynności nadzorczych oraz prezesa sądu odpowiedzialnego za ich przeprowadzenie, a w przypadku lustracji – także ich zakres.
 § 7. Przeprowadzenie czynności nadzorczych zarządza się zgodnie z planem nadzorczym lub w razie potrzeby, w szczególności w przypadku stwierdzenia uchybień w działalności administracyjnej sądu.
 § 8. Prezes sądu odpowiedzialny za przeprowadzenie czynności nadzorczej wydaje, w razie potrzeby, zarządzenia zmierzające do usprawnienia toku wewnętrznego urzędowania sądu lub podniesienia efektywności i poziomu kultury organizacji pracy (zarządzenia nadzorcze).
 § 9. 1. Powierzenie czynności nadzorczej następuje w drodze zarządzenia.
@@ -70,7 +71,7 @@ W takim przypadku Minister Sprawiedliwości zwraca się do właściwego prezesa 
 § 12. 1. Zarządzenia nadzorcze przedstawia się prezesowi wizytowanego sądu, wskazując termin przedstawienia informacji o sposobie ich wykonania.
 2. Protokół wizytacji, zarządzenia nadzorcze oraz informację o sposobie ich wykonania przedstawia się niezwłocznie właściwemu kolegium sądu.
 § 13. Jeżeli odpowiedzialnym za przeprowadzenie wizytacji był prezes sądu okręgowego, protokół wizytacji oraz informację o zarządzeniach nadzorczych i sposobie ich wykonania, a także stanowisko kolegium sądu przedstawia się niezwłocznie prezesowi sądu apelacyjnego. Prezes sądu apelacyjnego, w razie potrzeby, może wydać własne zarządzenia nadzorcze. Przepis § 12 ust. 1 stosuje się odpowiednio.
-§ 14. O lustracji przeprowadzanej zgodnie z planem nadzorczym zawiadamia się prezesa sądu, a w przypadku lustracji wydziału sądu także przewodniczącego wydziału, co najmniej 14 dni przed przystąpieniem do jej przeprowadzenia.
+§ 14. O lustracji przeprowadzanej zgodnie z planem nadzorczym zawiadamia się prezesa sądu, a w przypadku lustracji wydziału sądu – także przewodniczącego wydziału, co najmniej 14 dni przed przystąpieniem do jej przeprowadzenia.
 Do lustracji przepisy § 10, 12 i 13 stosuje się odpowiednio.
 § 15. 1. O kontroli działalności sekretariatu wydziału, o której mowa w art. 37b § 1 pkt 2 ustawy, zawiadamia się przewodniczącego wydziału oraz kierownika sekretariatu wydziału co najmniej 7 dni przed przystąpieniem do jej przeprowadzenia. W zawiadomieniu wskazuje się:
 1) kontrolowany sekretariat sądowy;
@@ -82,6 +83,7 @@ Przepisy § 10 ust. 5 stosuje się odpowiednio.
 4. Jeżeli prezes sądu apelacyjnego zarządza przeprowadzenie kontroli działalności sekretariatu wydziału w sądzie okręgowym lub sądzie rejonowym działającym na obszarze apelacji albo prezes sądu okręgowego zarządza przeprowadzenie takiej kontroli w sądzie rejonowym działającym w okręgu sądowym, zawiadomienie o planowanej kontroli oraz odpis protokołu kontroli doręcza się prezesowi kontrolowanego sądu. W takim przypadku prezesowi tego sądu przysługuje także prawo zgłoszenia uwag i zastrzeżeń, o których mowa w ust. 3. Przepisy § 12 ust. 1 i § 13 stosuje się odpowiednio.
 5. Do kontroli działalności sekretariatów zespołów kuratorskiej służby sądowej przepisy ust. 1–4 stosuje się odpowiednio.
 § 16. Badanie sprawności postępowania w poszczególnych sprawach przeprowadza się w szczególności przy wykorzystaniu elektronicznych systemów ewidencyjnych.
+§ 17. Minister Sprawiedliwości co najmniej raz w roku zwołuje naradę z prezesami sądów apelacyjnych w celu omówienia zagadnień związanych ze sprawowaniem nadzoru.
 § 18. 1. Ogólne kierunki wewnętrznego nadzoru, o których mowa w art. 37g § 1 pkt 2 ustawy, ustala się, uwzględniając w szczególności wyniki analizy informacji rocznych.
 2. Ogólne kierunki wewnętrznego nadzoru mogą obejmować także odrębne zalecenia odnoszące się do działalności sądów na obszarze poszczególnych apelacji lub okręgów sądowych.
 § 19. 1. (uchylony).
@@ -96,6 +98,7 @@ Przepisy § 10 ust. 5 stosuje się odpowiednio.
 5. W przypadku zarządzenia przez Ministra Sprawiedliwości uzupełnienia protokołu lustracji prezes sądu apelacyjnego przedstawia uzupełniony protokół w terminie 21 dni od dnia doręczenia żądania.
 6. Po przeprowadzeniu lustracji, w razie potrzeby, Minister Sprawiedliwości wydaje zarządzenia nadzorcze i przedstawia je prezesowi sądu apelacyjnego.
 7. Do lustracji zarządzonej przez Ministra Sprawiedliwości przepisy § 10, 12 i 13 stosuje się odpowiednio.
+§ 23. 1. Zarządzenia, zawiadomienia, żądania i inne dokumenty związane z czynnościami nadzorczymi sporządza się na piśmie; dokumenty można doręczyć również drogą elektroniczną.
 2. Pisma w sprawach, o których mowa w art. 37 § 4 i 8, art. 37e § 1, 3, 4 i 7 oraz art. 37ga § 1 i 3 ustawy, przesyła się w sposób uniemożliwiający zapoznanie się z ich treścią osobom nieuprawnionym.
 § 24. 1. Protokół wizytacji sporządza się z uwzględnieniem specyfiki funkcjonowania wizytowanego wydziału. Wzór protokołu wizytacji jest określony w załączniku nr 1 do rozporządzenia. Działy IV.2.1 do IV.2.4, IV.5.1 do IV.5.4 i IV.7.3 do IV.7.6 wzoru protokołu wizytacji podlegają wypełnieniu fakultatywnie, stosownie do potrzeb.
 2. Protokół kontroli działalności sekretariatu wydziału sporządza się z uwzględnieniem specyfiki funkcjonowania wizytowanego wydziału. Wzór protokołu kontroli działalności sekretariatu wydziału jest określony w załączniku nr 2 do rozporządzenia.
@@ -105,15 +108,16 @@ Przepisy § 10 ust. 5 stosuje się odpowiednio.
 2. Prezes sądu okręgowego w terminie do dnia 15 lutego każdego roku przedstawia prezesowi sądu apelacyjnego dane potrzebne do sporządzenia informacji rocznej.
 3. Prezes sądu apelacyjnego może zażądać od prezesa sądu okręgowego lub prezesa sądu rejonowego uzupełnienia danych.
 Uzupełnione dane przedstawia się w terminie 7 dni.
-M W Załącznik nr 2 WZÓR PROTOKÓŁ KONTROLI DZIAŁALNOŚCI SEKRETARIATU WYDZIAŁU Dział I Podstawa i zakres kontroli Dział II Poprzednia kontrola i jej wyniki Załącznik nr 2 WZÓR PROTOKÓŁ KONTROLI DZIAŁALNOŚCI SEKRETARIATU WYDZIAŁU Dział I Podstawa i zakres kontroli Dział II Poprzednia kontrola i jej wyniki WZÓR Dział III Dane podstawowe sekretariatu Dział IV Szkolenia i narzędzia pracy Dział V Obciążenie pracą pracowników i organizacja pracy sekretariatu Dział VI Prowadzenie urządzeń ewidencyjnych Dział VII Prowadzenie akt sądowych oraz wykonywanie zarządzeń i orzeczeń Dział VIII Obsługa interesantów Dział IX Wnioski M …    M …    (uchylony) (uchylony)
+§ 27. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+M W Załącznik nr 2 WZÓR Załącznik nr 2 WZÓR WZÓR PROTOKÓŁ KONTROLI DZIAŁALNOŚCI SEKRETARIATU WYDZIAŁU PROTOKÓŁ KONTROLI DZIAŁALNOŚCI SEKRETARIATU WYDZIAŁU Dział I Podstawa Dział i zakres I kontroli Podstawa i zakres kontroli Dział II Poprzednia Dział kontrola II i jej wyniki Poprzednia kontrola i jej wyniki Dział III Dane podstawowe sekretariatu Dział IV Szkolenia i narzędzia pracy Dział V Obciążenie pracą pracowników i organizacja pracy sekretariatu Dział VI Prowadzenie urządzeń ewidencyjnych Dział VII Prowadzenie akt sądowych oraz wykonywanie zarządzeń i orzeczeń Dział VIII Obsługa interesantów Dział IX Wnioski … … M M       (uchylony) (uchylony)
 
-#### Rozdział 1 przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 przepisy ogólne
 
-#### Rozdział 2 nadzór wewnętrzny § 4. Prezes sądu apelacyjnego ustala kierunki nadzoru, o których mowa w art. 37b § 3 ustawy, uwzględniając ogólne kierunki wewnętrznego nadzoru, o których mowa w art. 37g § 1 pkt 2 ustawy, i przedstawia je prezesom sądów działających na obszarze apelacji.
+#### Rozdział 2 nadzór wewnętrzny
 
-#### Rozdział 3 nadzór zewnętrzny § 17. Minister Sprawiedliwości co najmniej raz w roku zwołuje naradę z prezesami sądów apelacyjnych w celu omówienia zagadnień związanych ze sprawowaniem nadzoru.
+#### Rozdział 3 nadzór zewnętrzny
 
-#### Rozdział 4 sposób dokumentowania czynności nadzorczych oraz sporządzania informacji rocznej § 23. 1. Zarządzenia, zawiadomienia, żądania i inne dokumenty związane z czynnościami nadzorczymi sporządza się na piśmie; dokumenty można doręczyć również drogą elektroniczną.
+#### Rozdział 4 sposób dokumentowania czynności nadzorczych oraz sporządzania informacji rocznej
 
-#### Rozdział 5 przepis końcowy § 27. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+#### Rozdział 5 przepis końcowy
 

@@ -8,10 +8,10 @@ pos: 1969
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 29 października 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1969 ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI z dnia 21 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001969) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1969/text.pdf) |
 
-ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI dnia 21 października 2021 r.
-sprawie wzoru wykazu audiowizualnych usług medialnych na żądanie wzoru zgłoszenia wpis do wykazu Na podstawie art. 47ca ust. 6 ustawy dnia 29 grudnia 1992 r. radiofonii telewizji (Dz. U. 2020 r. poz. 805 oraz 2021 r. poz. 1676) zarządza się, co następuje: § 1. Wzór wykazu audiowizualnych usług medialnych na żądanie określa załącznik nr 1 do rozporządzenia.
-§ 2. Wzór zgłoszenia wpis do wykazu audiowizualnych usług medialnych na żądanie określa załącznik nr do rozporządzenia.
-§ 3. Rozporządzenie wchodzi życie dniem 1 listopada 2021 r.
-Przewodniczący Krajowej Rady Radiofonii Telewizji: W. Kołodziejski ZGŁOSZENIE O WPIS DO WYKAZU 1) AUDIOWIZUALNYCH USŁUG MEDIALNYCH NA ŻĄDANIE
-2. Data przyjęcia zgłoszenia I. DANE PODMIOTU DOSTARCZAJĄCEGO AUDIOWIZUALNĄ USŁUGĘ MEDIALNĄ NA ŻĄDANIE
+w sprawie wzoru wykazu audiowizualnych usług medialnych na żądanie i wzoru zgłoszenia o wpis do wykazu Na podstawie art. 47ca ust. 6 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805 oraz z 2021 r. poz. 1676) zarządza się, co następuje:
+§ 1. Wzór wykazu audiowizualnych usług medialnych na żądanie określa załącznik nr 1 do rozporządzenia.
+§ 2. Wzór zgłoszenia o wpis do wykazu audiowizualnych usług medialnych na żądanie określa załącznik nr 2 do rozporządzenia.
+§ 3. Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.
+Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski … Załącznik nr 2 WZÓR WZÓR
+1. Nr zgłoszenia ZGŁOSZENIE O WPIS DO WYKAZU 1)
+2. Data przyjęcia zgłoszenia AUDIOWIZUALNYCH USŁUG MEDIALNYCH NA ŻĄDANIE I. DANE PODMIOTU DOSTARCZAJĄCEGO AUDIOWIZUALNĄ USŁUGĘ MEDIALNĄ NA ŻĄDANIE
 3. Imię 6. NIP
 4. Nazwisko 7. REGON
 5. Nazwa podmiotu Siedziba
@@ -40,21 +41,23 @@ Przewodniczący Krajowej Rady Radiofonii Telewizji: W. Kołodziejski ZGŁOSZENIE
 11. Ulica 15. Kod pocztowy
 12. Nr domu 16. Nr telefonu
 13. Nr mieszkania 17. Adres poczty elektronicznej
-14. Miejscowość
-19. Technologia/sposób świadczenia usługi (set-top-box, strony internetowe, aplikacje mobilne, smart TV, kanał serwisie internetowym, inna)
-20. Model udostępniania treści (subskrypcja SVoD, transakcje TVoD, wyświetlanie reklam AVoD, reklamy na stronie WWW obok treści wideo, inne, np. model mieszany subskrypcyjno-transakcyjny)
-21. Państwa, których możliwy jest odbiór usługi
+14. Miejscowość II. INFORMACJE O AUDIOWIZUALNEJ USŁUDZE MEDIALNEJ NA ŻĄDANIE
+18. Nazwa usługi
+19. Technologia/sposób świadczenia usługi (set-top-box, strony internetowe, aplikacje mobilne, smart TV, kanał w serwisie internetowym, inna)
+20. Model udostępniania treści (subskrypcja – SVoD, transakcje – TVoD, wyświetlanie reklam – AVoD, reklamy na stronie WWW obok treści wideo, inne, np. model mieszany subskrypcyjno-transakcyjny)
+21. Państwa, w których możliwy jest odbiór usługi
 22. Podpis 23. Pieczęć
-24. Data wypełnienia wniosku Administrator danych osobowych Administratorem Państwa danych osobowych jest Przewodniczący Krajowej Rady Radiofonii Telewizji siedzibą Warszawie przy Skwerze kard. S. Wyszyńskiego 9, 01-015 Warszawa.
-Inspektor ochrony danych W związku prawami dotyczącymi danych osobowych mogą się Państwo kontaktować wyznaczonym inspektorem ochrony danych pod adresem e-mail iod@krrit.gov.pl.
-dnia 14 lipca 1983 r. narodowym zasobie archiwalnym archiwach. Podstawą przetwarzania danych jest art. 6 ust. 1 lit. c RODO .
-Okres przechowywania danych Będziemy przechowywać Państwa dane osobowe zawarte formularzu do dnia wykreślenia usługi wykazu, następnie zgodnie obowiązującym Biurze Krajowej Rady Radiofonii Telewizji jednolitym rzeczowym wykazem akt oraz przepisami archiwizacji dokumentów przez okres 10 lat od końca roku, którym dokonano wykreślenia usługi wykazu.
-Prawa osób, których dane dotyczą Zgodnie RODO przysługuje Państwu:
+24. Data wypełnienia wniosku Administrator danych osobowych Administratorem Państwa danych osobowych jest Przewodniczący Krajowej Rady Radiofonii i Telewizji z siedzibą w Warszawie przy Skwerze kard. S. Wyszyńskiego 9, 01-015 Warszawa.
+Inspektor ochrony danych W związku z prawami dotyczącymi danych osobowych mogą się Państwo kontaktować z wyznaczonym inspektorem ochrony danych pod adresem e-mail iod@krrit.gov.pl.
+Cele i podstawy przetwarzania Będziemy przetwarzać Państwa dane osobowe zawarte w formularzu w celu prowadzenia wykazu audiowizualnych usług medialnych na żądanie, o którym mowa w art. 47ca ust. 1 ustawy z dnia 29 grudnia 1992 r.
+o radiofonii i telewizji, a następnie dla wypełnienia obowiązku archiwizacji dokumentów wynikającego z ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach. Podstawą przetwarzania danych jest art. 6 ust. 1 lit. c RODO .
+Okres przechowywania danych Będziemy przechowywać Państwa dane osobowe zawarte w formularzu do dnia wykreślenia usługi z wykazu, a następnie – zgodnie z obowiązującym w Biurze Krajowej Rady Radiofonii i Telewizji jednolitym rzeczowym wykazem akt oraz przepisami o archiwizacji dokumentów – przez okres 10 lat od końca roku, w którym dokonano wykreślenia usługi z wykazu.
+Prawa osób, których dane dotyczą Zgodnie z RODO przysługuje Państwu:
 a) prawo dostępu do swoich danych oraz otrzymania ich kopii,
 b) prawo do sprostowania (poprawiania) swoich danych,
 c) prawo do ograniczenia przetwarzania danych,
 d) prawo do wniesienia skargi do Prezesa UODO (na adres Urzędu Ochrony Danych Osobowych, ul. Stawki 2, 00-193 Warszawa).
-Państwa dane osobowe mogą zostać udostępnione podmiotom upoważnionym na podstawie przepisów prawa, także dostawcom usług obsługi biurowej elektronicznego systemu obsługi dokumentów. Państwa dane osobowe mogą zostać udostępnione również podmiotom trzecim na podstawie przepisów dotyczących realizacji prawa dostępu do informacji publicznej.
+Państwa dane osobowe mogą zostać udostępnione podmiotom upoważnionym na podstawie przepisów prawa, a także dostawcom usług obsługi biurowej i elektronicznego systemu obsługi dokumentów. Państwa dane osobowe mogą zostać udostępnione również podmiotom trzecim na podstawie przepisów dotyczących realizacji prawa dostępu do informacji publicznej.
 Dane nie będą przekazywane do państwa trzeciego.
-Informacja wymogu podania danych Podanie przez Państwa danych osobowych niniejszym formularzu jest obowiązkiem wynikającym art. 47ca ust. pkt 1 ustawy dnia 29 grudnia 1992 r. radiofonii telewizji.
+Informacja o wymogu podania danych Podanie przez Państwa danych osobowych w niniejszym formularzu jest obowiązkiem wynikającym z art. 47ca ust. 2 pkt 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji.
 

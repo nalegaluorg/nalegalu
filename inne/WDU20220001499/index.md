@@ -8,10 +8,10 @@ pos: 1499
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1499 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 1 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1499/text.pdf) |
 
-Poz. 1499 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 1 lipca 2022 r.
-w sprawie opłat za paszport i za paszport tymczasowy Na podstawie art. 25 ust. 1 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie opłat za paszport i za paszport tymczasowy Na podstawie art. 25 ust. 1 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. poz. 350 i 583) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wysokość opłaty za paszport i za paszport tymczasowy, wydawane przez wojewodę lub ministra właściwego do spraw wewnętrznych;
 2) wysokość opłaty za paszport wydawany przez wojewodę lub ministra właściwego do spraw wewnętrznych dla osób, o których mowa w art. 21 ust. 1 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych, zwanej dalej „ustawą”.
 § 2. 1. Wysokość opłaty za paszport wynosi 140 zł.

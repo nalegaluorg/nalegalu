@@ -8,10 +8,10 @@ pos: 1106
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 maja 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11110066 PROGRAM WYKONAWCZY między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Mołdawii w dziedzinie kultury, edukacji i nauki na lata 2022–2025, podpisany w Warszawie dnia 8 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2022-05-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1106/text.pdf) |
-
-11110066 PROGRAM WYKONAWCZY między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Mołdawii w dziedzinie kultury, edukacji i nauki na lata 2022–2025, podpisany w Warszawie dnia 8 kwietnia 2022 r.
 

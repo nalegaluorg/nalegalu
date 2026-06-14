@@ -8,10 +8,10 @@ pos: 1524
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 października 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1524 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 września 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1524/text.pdf) |
 
-Poz. 1524 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 września 2015 r.
-w sprawie warunków i trybu zatrudniania pracowników w jednostkach wojskowych wykonujących zadania poza granicami państwa Na podstawie art. 9 ust. 1 pkt 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2014 r. poz. 1510) zarządza się, co następuje: § 1. W jednostce wojskowej wykonującej zadania poza granicami państwa, zwanej dalej „jednostką wojskową”, można zatrudnić pracownika, który posiada kwalifikacje wymagane na stanowisku pracy wynikające z etatu tej jednostki wojskowej.
+w sprawie warunków i trybu zatrudniania pracowników w jednostkach wojskowych wykonujących zadania poza granicami państwa Na podstawie art. 9 ust. 1 pkt 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2014 r. poz. 1510) zarządza się, co następuje:
+§ 1. W jednostce wojskowej wykonującej zadania poza granicami państwa, zwanej dalej „jednostką wojskową”, można zatrudnić pracownika, który posiada kwalifikacje wymagane na stanowisku pracy wynikające z etatu tej jednostki wojskowej.
 § 2. Nabór kandydatów do pracy w jednostce wojskowej organizuje Dowódca Operacyjny Rodzajów Sił Zbrojnych.
 § 3. 1. Ogłoszenie o naborze do pracy na stanowisko w jednostce wojskowej jest publikowane na stronie internetowej Biuletynu Informacji Publicznej Ministerstwa Obrony Narodowej oraz na stronie internetowej Dowództwa Operacyjnego Rodzajów Sił Zbrojnych. Ogłoszenie może być publikowane również w inny zwyczajowo przyjęty sposób, w szczególności w prasie.
 2. Ogłoszenie o naborze zawiera:

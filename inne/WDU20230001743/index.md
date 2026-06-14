@@ -8,7 +8,7 @@ pos: 1743
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-08-30 |
-| Ostatnia zmiana | 2026-04-15 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1743/text.pdf) |
 
 Art. 143–153. (pominięte)
@@ -32,6 +32,10 @@ Art. 143–153. (pominięte)
 ### DZIAŁ I Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
+
+- **1)** podejmowania i wykonywania przez przedsiębiorców działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym oraz kontroli tej działalności;
+- **1a)** kontroli broni alarmowej i sygnałowej;
+- **2)** oczyszczania terenów z materiałów wybuchowych i niebezpiecznych.
 
 **Art. 2.**
 
@@ -73,6 +77,11 @@ Art. 143–153. (pominięte)
 
 **Art. 4.** Ustawy nie stosuje się do:
 
+- **1)** broni historycznej, to jest broni palnej rozdzielnego ładowania, przystosowanej do strzelania wyłącznie przy wykorzystaniu prochu czarnego, wytworzonej przed 1900 r.;
+- **2)** broni palnej wpisanej do inwentarza muzealiów, o którym mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), lub wpisanej do rejestru zabytków albo na Listę Skarbów Dziedzictwa lub ujętej w wojewódzkiej ewidencji zabytków, o których mowa odpowiednio w art. 8 ust. 1, art. 14a oraz art. 22 ust. 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz.
+- **951)** ;
+- **3)** atrap broni niezdolnych do miotania pocisków z wykorzystaniem energii produktów powstałych w wyniku reakcji chemicznej ładunku miotającego i przekrojów broni służących do prezentacji sposobu działania mechanizmów broni – jeżeli nie zawierają istotnych części, które można wykorzystać zgodnie z ich przeznaczeniem w broni palnej.
+
 **Art. 4a.** Przepisów ustawy nie stosuje się do Rządowej Agencji Rezerw Strategicznych wykonującej zadania w zakresie tworzenia, utrzymywania i udostępnienia rezerw strategicznych oraz zadania na podstawie art. 29 i art. 32 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2023 r. poz. 294).
 
 **Art. 5.** Wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym jest dozwolone wyłącznie po spełnieniu warunków określonych w ustawie.
@@ -92,7 +101,8 @@ Art. 143–153. (pominięte)
 
 - **1)** wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a–c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
 - **2)** bronią palną pozbawioną cech użytkowych w rozumieniu ustawy oraz wyrobami o przeznaczeniu wojskowym lub policyjnym, pozbawionymi cech użytkowych w rozumieniu ustawy;
-- **3)** bronią alarmową i sygnałową.
+- **3)** bronią alarmową i sygnałową;
+- **4)** urządzeniami filtrowentylacyjnymi do oczyszczania powietrza w warunkach skażeń promieniotwórczych, biologicznych lub chemicznych, przeznaczonymi do użytku w budowlach ochronnych, o których mowa w art. 83 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907, z 2025 r. poz. 1705 oraz z 2026 r. poz. 646), sprzedawanymi podmiotom wskazanym w wyznaczeniu, porozumieniu albo decyzji, o których mowa w art. 83 ust. 1 tej ustawy.
 
 3. Rada Ministrów określi, w drodze rozporządzenia, klasyfikację rodzajów materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, na których wytwarzanie lub obrót jest wymagane uzyskanie koncesji, uwzględniając aktualną wiedzę techniczną z zakresu wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym oraz konieczność ich wyczerpującego sklasyfikowania.
 
@@ -640,6 +650,10 @@ Art. 143–153. (pominięte)
 
 **Art. 46.** Podstawowe opakowanie jednostkowe amunicji do strzeleckiej broni palnej podlega oznakowaniu przez wytwórcę niezwłocznie po wytworzeniu. Oznakowanie obejmuje:
 
+- **1)** nazwę wytwórcy;
+- **2)** numer identyfikacyjny partii;
+- **3)** kaliber i typ amunicji.
+
 **Art. 47.**
 
 1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym ewidencjonuje:
@@ -741,6 +755,12 @@ Art. 143–153. (pominięte)
 
 **Art. 47h.** Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
 
+- **1)** podmiot uprawniony do weryfikacji, że broń alarmowa i sygnałowa została wytworzona zgodnie ze specyfikacjami technicznymi, o których mowa w art. 47a, oraz do wydawania świadectwa broni alarmowej i sygnałowej,
+- **2)** wykaz dokumentów wchodzących w skład dokumentacji technicznej broni alarmowej i sygnałowej,
+- **3)** sposób i tryb postępowania z bronią alarmową i sygnałową oraz z dokumentacją techniczną, przekazanymi w celu weryfikacji zgodności wytworzenia ze specyfikacjami technicznymi, o których mowa w art. 47a,
+- **4)** wysokość opłaty za weryfikację oraz wydanie świadectwa broni alarmowej i sygnałowej,
+- **5)** wzór świadectwa broni alarmowej i sygnałowej – mając na względzie potencjał naukowo-badawczy podmiotu uprawnionego, jego dotychczasowe doświadczenie w obszarze objętym regulacją, dające gwarancję należytego wykonania zleconych czynności, sprawne przeprowadzenie weryfikacji i jej rzetelne udokumentowanie, adekwatność opłaty do kosztów weryfikacji oraz konieczność objęcia kontrolą wszystkich typów i modeli broni alarmowej i sygnałowej nieuznanej za broń palną wytworzonych lub przywiezionych na teren Rzeczypospolitej Polskiej oraz zawarcia we wzorze świadectwa broni alarmowej i sygnałowej danych umożliwiających jednoznaczną identyfikację broni alarmowej i sygnałowej.
+
 **Art. 47i.**
 
 1. Podmiot uprawniony, o którym mowa w art. 47b ust. 1, przeprowadza kontrolę wytworzonych na terytorium Rzeczypospolitej Polskiej lub sprowadzonych na terytorium Rzeczypospolitej Polskiej spoza terytorium Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub państwa trzeciego modeli, typów lub egzemplarzy urządzeń, o których mowa w art. 47a ust. 1, w zakresie spełniania przez nie wymogów, o których mowa w art. 47a.
@@ -817,6 +837,9 @@ Art. 143–153. (pominięte)
 
 **Art. 47n.** Przedsiębiorcy wytwarzający broń alarmową i sygnałową przekazują do Punktu Kontaktowego oświadczenia o:
 
+- **1)** spełnianiu wymogów, o których mowa w art. 47a, przy wytwarzaniu określonego typu lub modelu broni alarmowej i sygnałowej – raz do roku, licząc od dnia wydania świadectwa broni alarmowej i sygnałowej;
+- **2)** liczbie wytworzonych i wprowadzonych do obrotu w ostatnim okresie rozliczeniowym egzemplarzy broni alarmowej i sygnałowej, określonego typu i modelu.
+
 ##### Oddział 2 Pozbawianie cech użytkowych broni palnej i wyrobów o przeznaczeniu wojskowym lub policyjnym
 
 **Art. 48.**
@@ -838,6 +861,12 @@ Art. 143–153. (pominięte)
 3. Weryfikacja zgodności pozbawienia strzeleckiej broni palnej cech użytkowych jest odpłatna. Opłata za dokonanie weryfikacji wynosi nie więcej niż 1/10 przeciętnego wynagrodzenia.
 
 **Art. 51.** Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
+
+- **1)** podmioty uprawnione do weryfikacji i poświadczenia, że strzelecka broń palna została pozbawiona cech użytkowych oraz do oznakowania strzeleckiej broni palnej pozbawionej cech użytkowych,
+- **2)** tryb postępowania ze strzelecką bronią palną przekazaną w celu pozbawienia cech użytkowych,
+- **3)** tryb postępowania ze strzelecką bronią palną przekazaną w celu przeprowadzenia weryfikacji zgodności pozbawienia broni cech użytkowych ze specyfikacjami technicznymi,
+- **4)** tryb i formę oznakowania i poświadczenia pozbawienia strzeleckiej broni palnej cech użytkowych oraz indywidualny znak graficzny identyfikujący podmiot poświadczający właściwe pozbawienie cech użytkowych,
+- **5)** wysokość opłaty za weryfikację zgodności pozbawienia strzeleckiej broni palnej cech użytkowych – mając na względzie potencjał naukowo-badawczy podmiotów uprawnionych dający gwarancję należytego wykonywania zleconych czynności, sprawne przeprowadzanie procedury pozbawiania broni cech użytkowych i jej rzetelne dokumentowanie, adekwatność opłaty do kosztów dokonanej weryfikacji oraz rozdzielenie zadań i osób wykonujących pozbawianie broni palnej cech użytkowych od zadań związanych z weryfikacją sposobu pozbawienia cech użytkowych.
 
 **Art. 52.**
 
@@ -866,6 +895,12 @@ Art. 143–153. (pominięte)
 6. Przedsiębiorca ewidencjonuje inną broń i wyroby pozbawione cech użytkowych.
 
 **Art. 54.** Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób pozbawiania innej broni i wyrobów cech użytkowych,
+- **2)** tryb i sposób weryfikacji pozbawienia cech użytkowych i oznakowania innej broni i wyrobów pozbawionych cech użytkowych oraz zakres danych umieszczanych w ewidencji,
+- **3)** podmioty uprawnione do poświadczania pozbawienia cech użytkowych innej broni i wyrobów oraz zatwierdzania specyfikacji technicznej, przypisując odrębnie dla każdego podmiotu zakres, w jakim podmiot poświadcza pozbawienie cech użytkowych innej broni i wyrobów lub zatwierdza specyfikacje techniczne,
+- **4)** wysokość opłaty za zatwierdzenie specyfikacji technicznej i opłaty za poświadczenie pozbawienia innej broni i wyrobów cech użytkowych,
+- **5)** wzór świadectwa pozbawienia cech użytkowych innej broni i wyrobów – mając na względzie zastosowanie przy pozbawianiu cech użytkowych właściwej procedury gwarantującej bezpieczeństwo nabywców innej broni i wyrobów pozbawionych cech użytkowych, adekwatność opłaty do kosztów dokonanej czynności oraz zawarcie we wzorze świadectwa danych pozwalających na jednoznaczną identyfikację innej broni lub wyrobów jako pozbawionych cech użytkowych.
 
 #### Rozdział 3 Wykonywanie działalności gospodarczej w zakresie obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
@@ -1021,6 +1056,10 @@ Art. 143–153. (pominięte)
 
 **Art. 64.** Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, wzory informacji o sprzedaży:
 
+- **1)** materiałów wybuchowych,
+- **2)** broni palnej innej niż strzelecka broń palna, na posiadanie której jest wymagane pozwolenie,
+- **3)** strzeleckiej broni palnej i istotnych części – mając na względzie konieczność zapewnienia skutecznej kontroli obrotu materiałami wybuchowymi, bronią palną, w tym strzelecką bronią palną i istotnymi częściami, na terytorium Rzeczypospolitej Polskiej, także w przypadku braku możliwości ewidencjonowania transakcji obrotu dotyczących strzeleckiej broni palnej i istotnych części w SRB.
+
 **Art. 65.**
 
 1. Nabywanie materiałów wybuchowych, broni, w tym strzeleckiej broni palnej, istotnych części, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym od przedsiębiorców nieposiadających koncesji na obrót tymi towarami jest zakazane, z wyjątkiem przypadków, o których mowa w art. 7 ust. 2.
@@ -1062,6 +1101,10 @@ Art. 143–153. (pominięte)
 ##### Oddział 2 Przemieszczanie przez przedsiębiorców strzeleckiej broni palnej, istotnych części i amunicji do strzeleckiej broni palnej
 
 **Art. 69.** Przemieszczanie strzeleckiej broni palnej przez przedsiębiorcę w ramach wykonywanej działalności gospodarczej:
+
+- **1)** na terytorium Rzeczypospolitej Polskiej – jako państwa docelowego transakcji z państwa członkowskiego Unii Europejskiej lub państwa trzeciego traktowanego na równi z tymi państwami na podstawie umowy Rady Unii Europejskiej z państwami trzecimi w sprawie włączenia tych państw we wprowadzenie w życie, stosowanie i rozwój dorobku Schengen,
+- **2)** z terytorium Rzeczypospolitej Polskiej – jako państwa początkowego Unii Europejskiej transakcji do innego państwa członkowskiego,
+- **3)** z państwa członkowskiego Unii Europejskiej początkowego transakcji lub przez kolejne państwa członkowskie, przez terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego Unii Europejskiej – wymaga poświadczonej zgody przewozowej, urzędowo poświadczonej kopii uprzedniej zgody przewozowej lub urzędowo poświadczonej kopii decyzji o zwolnieniu z obowiązku każdorazowego poświadczania zgód przewozowych, zwanej dalej „decyzją o zwolnieniu” – w przypadku jej wydania.
 
 **Art. 70.** Przepisy dotyczące przemieszczania strzeleckiej broni palnej stosuje się do przemieszczania nieumieszczonych w broni istotnych części oraz amunicji do strzeleckiej broni palnej.
 
@@ -1260,6 +1303,9 @@ Art. 143–153. (pominięte)
 
 **Art. 93.** Przedsiębiorca dokonujący wywozu broni palnej, części, istotnych komponentów oraz amunicji podlega kontroli organu udzielającego zezwolenie oraz urzędów celno-skarbowych pod względem:
 
+- **1)** przestrzegania zgodności rzeczywistego wywozu z zezwoleniem, w tym weryfikacji transakcji po jej dokonaniu;
+- **2)** prawidłowości prowadzenia ewidencji, o której mowa w art. 89 ust. 3.
+
 **Art. 94.**
 
 1. Na wniosek przedsiębiorcy, który zamierza nabyć broń palną, części i istotne komponenty lub amunicję, o których mowa w załączniku 1 do rozporządzenia 258/2012, poza obszarem celnym Unii Europejskiej, minister właściwy do spraw gospodarki wydaje certyfikat importowy lub poświadcza oświadczenie końcowego użytkownika.
@@ -1308,6 +1354,10 @@ Art. 143–153. (pominięte)
 **Art. 97.** Przedsiębiorca dokonujący przywozu spoza obszaru celnego Unii Europejskiej broni palnej, części i istotnych komponentów lub amunicji jest obowiązany poinformować kupującego o ograniczeniach w zakresie dysponowania towarem. W przypadku wydanego przez ministra właściwego do spraw gospodarki poświadczenia oświadczenia końcowego użytkownika w odniesieniu do broni palnej, części i istotnych komponentów lub amunicji stanowiących przedmiot przywozu, do informacji należy dołączyć numer i datę poświadczenia. Przedsiębiorca zamieszcza informacje w zawartej umowie.
 
 **Art. 98.** Przedsiębiorca dokonujący przywozu spoza obszaru celnego Unii Europejskiej broni palnej, części i istotnych komponentów lub amunicji w celu otrzymania certyfikatu importowego lub poświadczenia oświadczenia końcowego użytkownika jest obowiązany do:
+
+- **1)** wprowadzenia wymienionych w certyfikacie broni palnej, części i istotnych komponentów lub amunicji na terytorium Rzeczypospolitej Polskiej i niezwłocznego powiadomienia ministra właściwego do spraw gospodarki o zmianach w warunkach kontraktu;
+- **2)** złożenia oświadczenia, że jest świadomy, że wyprowadzenie z terytorium Rzeczypospolitej Polskiej, zmiana końcowego użytkownika lub deklarowanego końcowego wykorzystania broni palnej, części i istotnych komponentów lub amunicji wymagają uprzedniej zgody właściwego organu;
+- **3)** umożliwienia przeprowadzenia przez ministra właściwego do spraw gospodarki, przy ewentualnym udziale przedstawicieli władz państwa zagranicznego eksportera, kontroli zgodności wykorzystania broni palnej, części i istotnych komponentów lub amunicji z deklaracją zawartą we wniosku, w miejscu ich wykorzystania w całym okresie pozostawania na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 99.**
 
@@ -1518,6 +1568,12 @@ Art. 143–153. (pominięte)
 
 **Art. 110.** Dane zbywcy, nabywcy oraz osoby upoważnionej do przekazania, odbioru oraz przyjęcia strzeleckiej broni palnej albo istotnych części obejmują:
 
+- **1)** imię i nazwisko osoby fizycznej lub przedsiębiorcy będącego osobą fizyczną albo firmę lub nazwę przedsiębiorcy innego niż osoba fizyczna lub innego podmiotu uprawnionego do nabycia strzeleckiej broni palnej lub istotnych części;
+- **2)** adres miejsca stałego pobytu osoby fizycznej lub przedsiębiorcy będącego osobą fizyczną albo adres siedziby przedsiębiorcy innego niż osoba fizyczna lub innego podmiotu uprawnionego do nabycia strzeleckiej broni palnej lub istotnych części;
+- **3)** numer PESEL, a w przypadku gdy nie został nadany – nazwę, serię i numer dokumentu tożsamości, a także organ wydający dokument tożsamości, albo numer identyfikacji podatkowej (NIP) – jeżeli posiada;
+- **4)** numer i datę wydania koncesji – jeżeli dotyczy;
+- **5)** numer w Krajowym Rejestrze Sądowym – jeżeli dotyczy.
+
 **Art. 111.**
 
 1. Do wykazu zaświadczeń uprawniających do nabycia strzeleckiej broni palnej organy właściwe do wydawania pozwoleń na broń oraz zaświadczeń uprawniających do nabycia broni wprowadzają:
@@ -1578,11 +1634,69 @@ Art. 143–153. (pominięte)
 
 **Art. 121.** Uprawnionymi do dostępu do SRB są:
 
+- **1)** przedsiębiorca, któremu została udzielona koncesja w zakresie wytwarzania lub obrotu strzelecką bronią palną lub istotnymi częściami, w celu:
+    - **a)** prowadzenia ewidencji w SRB,
+    - **b)** odczytu i pobrania zaświadczeń z wykazu zaświadczeń uprawniających do nabycia broni,
+    - **c)** odczytu informacji z rejestru koncesji udzielonych w zakresie wytwarzania i obrotu strzelecką bronią palną,
+    - **d)** odczytu informacji z rejestru świadectw pozbawienia strzeleckiej broni palnej cech użytkowych;
+
+- **2)** Komendant Główny Policji w celu przyjmowania zgłoszeń o transakcjach, o których mowa w art. 35 ust. 1;
+- **3)** Komendant Główny Policji i komendanci wojewódzcy Policji w celu:
+    - **a)** realizacji obowiązków określonych w art. 107–109 i art. 111,
+    - **b)** weryfikacji danych wpisanych przez przedsiębiorców do ewidencji strzeleckiej broni palnej i istotnych części,
+    - **c)** prowadzenia działań kontrolnych w zakresie określonym w niniejszej ustawie i ustawie z dnia 21 maja 1999 r. o broni i amunicji, w związku z posiadaniem broni palnej,
+    - **d)** dostępu do danych zbiorczych i statystycznych;
+
+- **4)** Komendant Główny Żandarmerii Wojskowej i komendanci oddziałów Żandarmerii Wojskowej w celu:
+    - **a)** realizacji obowiązków określonych w art. 107–109 i art. 111,
+    - **b)** weryfikacji danych wpisanych przez przedsiębiorców do ewidencji strzeleckiej broni palnej i istotnych części,
+    - **c)** prowadzenia działań kontrolnych w zakresie określonym w ustawie z dnia 21 maja 1999 r. o broni i amunicji, w związku z posiadaniem broni palnej,
+    - **d)** dostępu do danych zbiorczych i statystycznych;
+
+- **5)** podmioty uprawnione do weryfikacji i poświadczenia, że strzelecka broń palna została pozbawiona cech użytkowych, oraz oznakowania strzeleckiej broni palnej pozbawionej cech użytkowych w celu:
+    - **a)** prowadzenia ewidencji w SRB w zakresie pozbawiania strzeleckiej broni palnej cech użytkowych,
+    - **b)** realizacji obowiązków określonych w art. 112,
+    - **c)** weryfikacji danych wpisanych przez przedsiębiorców do ewidencji strzeleckiej broni palnej i istotnych części w odniesieniu do pozbawienia broni cech użytkowych,
+    - **d)** dostępu do danych zbiorczych i statystycznych;
+
+- **6)** organ koncesyjny w celu:
+    - **a)** realizacji obowiązków administratora systemu,
+    - **b)** realizacji obowiązków określonych w art. 103 ust. 2, art. 104 ust. 2, art. 113, art. 115, art. 116 i art. 118,
+    - **c)** prowadzenia działań kontrolnych w zakresie określonym w ustawie,
+    - **d)** dostępu do danych zbiorczych i statystycznych;
+
+- **7)** minister właściwy do spraw gospodarki w celu:
+    - **a)** prowadzenia działań kontrolnych w zakresie określonym w ustawie,
+    - **b)** dostępu do danych zbiorczych i statystycznych;
+
+- **8)** Policja w celu realizacji zadań ustawowych Policji;
+- **9)** Żandarmeria Wojskowa w celu realizacji zadań ustawowych Żandarmerii Wojskowej;
+- **10)** Agencja Wywiadu w celu realizacji zadań ustawowych Agencji Wywiadu;
+- **11)** Agencja Bezpieczeństwa Wewnętrznego w celu realizacji zadań ustawowych Agencji Bezpieczeństwa Wewnętrznego;
+- **12)** Służba Kontrwywiadu Wojskowego w celu realizacji zadań ustawowych Służby Kontrwywiadu Wojskowego;
+- **13)** Służba Wywiadu Wojskowego w celu realizacji zadań ustawowych Służby Wywiadu Wojskowego;
+- **14)** Centralne Biuro Antykorupcyjne w celu realizacji zadań ustawowych Centralnego Biura Antykorupcyjnego;
+- **15)** Straż Graniczna w celu realizacji zadań ustawowych Straży Granicznej;
+- **16)** Służba Celno-Skarbowa w celu realizacji zadań ustawowych Służby Celno-Skarbowej;
+- **17)** Służba Ochrony Państwa w celu realizacji zadań ustawowych Służby Ochrony Państwa.
+
 ### DZIAŁ V Kontrola działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 **Art. 122.** Do kontroli działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 123.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym podlega kontroli, którą sprawują:
+
+- **1)** organ koncesyjny – w zakresie:
+    - **a)** zgodności wykonywanej działalności gospodarczej z wydaną koncesją,
+    - **b)** przestrzegania warunków wykonywania działalności gospodarczej,
+    - **c)** oceny wykonywanej działalności gospodarczej z punktu widzenia obronności lub bezpieczeństwa państwa albo porządku publicznego;
+
+- **2)** minister właściwy do spraw gospodarki – w zakresie sposobu i zgodności z przepisami ustawy realizacji transakcji dokonanych na podstawie zezwoleń, certyfikatów importowych oraz poświadczonych oświadczeń końcowego użytkownika, o których mowa w art. 97 i art. 98;
+- **3)** inne organy państwowe:
+    - **a)** wyspecjalizowane w kontroli danego rodzaju działalności, upoważnione przez organ koncesyjny – w zakresie wskazanym przez ten organ,
+    - **b)** w zakresie swojej właściwości i kompetencji określonych w odrębnych przepisach;
+
+- **4)** komendanci wojewódzcy Policji – w zakresie określonym w pkt 1, w odniesieniu do wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, a także ich przechowywania i ewidencjonowania.
 
 **Art. 124.**
 
@@ -1618,7 +1732,14 @@ Art. 143–153. (pominięte)
 
 **Art. 127.** Osoby upoważnione do przeprowadzenia kontroli są uprawnione do:
 
+- **1)** swobodnego wstępu na teren nieruchomości, obiektów, lokali lub ich części, gdzie jest wykonywana działalność gospodarcza określona w koncesji, w tym na teren obszarów i obiektów, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych i przedmiotów mających związek z zakresem kontroli;
+- **3)** sporządzania lub żądania sporządzenia niezbędnych do kontroli kopii, odpisów lub wyciągów z dokumentów oraz zestawień i obliczeń.
+
 **Art. 128.** Kontrolowany przedsiębiorca ma obowiązek:
+
+- **1)** zapewnienia osobom upoważnionym do przeprowadzenia kontroli warunków niezbędnych do sprawnego przeprowadzenia kontroli, w szczególności przez zapewnienie niezwłocznego przedstawiania żądanych dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień w sprawach objętych kontrolą oraz, w miarę możliwości, oddzielnego pomieszczenia;
+- **2)** sporządzania niezbędnych do kontroli kopii dokumentów, w tym wydruków z nośników informacji, a także informatycznych nośników danych, wskazanych przez osobę upoważnioną do przeprowadzenia kontroli.
 
 **Art. 129.**
 
@@ -1722,6 +1843,9 @@ Art. 143–153. (pominięte)
 
 **Art. 154.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** ustawie poprzedniej – rozumie się przez to ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2018 r. poz. 2037 oraz z 2019 r. poz. 55);
+- **2)** ustawie nowej – rozumie się przez to niniejszą ustawę.
+
 **Art. 155.** Do dnia wejścia w życie przepisów działu IV ustawy nowej przedsiębiorcy wykonujący działalność gospodarczą w zakresie obrotu strzelecką bronią palną są obowiązani poinformować o każdej dokonanej sprzedaży strzeleckiej broni palnej lub istotnych części osobom fizycznym, przedsiębiorcom albo innym podmiotom wymienionym w art. 61 ust. 3 pkt 1–4 i 6 ustawy nowej komendanta wojewódzkiego Policji właściwego ze względu na miejsce stałego pobytu albo siedzibę nabywcy albo organ wojskowy, który wydał zaświadczenie uprawniające do nabycia strzeleckiej broni palnej lub istotnych części, w terminie 5 dni roboczych, zgodnie ze wzorem określonym w przepisach wykonawczych wydanych na podstawie art. 64 ustawy nowej.
 
 **Art. 156.**
@@ -1784,6 +1908,17 @@ Art. 143–153. (pominięte)
 
 **Art. 170.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 9 ust. 4 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 6 ustawy nowej,
+- **2)** art. 10 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 7 ustawy nowej,
+- **3)** art. 13 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 10 ustawy nowej,
+- **4)** art. 19b ust. 2 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 54 ustawy nowej,
+- **5)** art. 21 ust. 2 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 42 ust. 8 ustawy nowej,
+- **6)** art. 23a ust. 9 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 62ve ustawy zmienianej w art. 145 ,
+- **7)** art. 24 ust. 2 i art. 33 ust. 2 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 33 ust. 4 ustawy nowej,
+- **8)** art. 35d ust. 5 i art. 35k ust. 3 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 82 ustawy nowej,
+- **9)** art. 18 ust. 2 ustawy zmienianej w art. 145 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18 ust. 2 ustawy zmienianej w art. 145 w brzmieniu nadanym niniejszą ustawą,
+- **10)** art. 27 ust. 2 ustawy zmienianej w art. 145 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27 ust. 2 ustawy zmienianej w art. 145 w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie ustawy.
+
 **Art. 171.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10a ust. 8 pkt 2 ustawy zmienianej w art. 143 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 10a ust. 8 pkt 2 ustawy zmienianej w art. 143 , jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie przepisów działu IV ustawy nowej.
 
 **Art. 172.**
@@ -1818,4 +1953,69 @@ Art. 143–153. (pominięte)
 **Art. 174.** Traci moc ustawa z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2018 r. poz. 2037 oraz z 2019 r. poz. 55).
 
 **Art. 175.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem przepisów art. 10 ust. 2, art. 17 ust. 2 pkt 2, art. 47 ust. 4 i 5, art. 59 ust. 4 i 5, art. 63 ust. 1 pkt 3, działu IV, art. 143 pkt 3, art. 171 oraz załącznika do ustawy, które wchodzą w życie z dniem 14 grudnia 2019 r. Załącznik do ustawy z dnia 13 czerwca 2019 r. (Dz. U. z 2023 r. poz.
+
+- **1743)** KATEGORIE I PODKATEGORIE STRZELECKIEJ BRONI PALNEJ I AMUNICJI DO STRZELECKIEJ BRONI PALNEJ Do celów niniejszego załącznika określenie:
+- **1)** „krótka strzelecka broń palna” oznacza strzelecką broń palną z lufą, której długość nie przekracza 30 cm lub której całkowita długość nie przekracza 60 centymetrów;
+- **2)** „długa strzelecka broń palna” oznacza każdą strzelecką broń palną inną niż krótka strzelecka broń palna;
+- **3)** „samoczynna strzelecka broń palna” oznacza strzelecką broń palną, która ładuje się automatycznie po każdorazowym oddaniu strzału i która może oddać więcej niż jeden strzał przy jednym uruchomieniu urządzenia spustowego;
+- **4)** „samopowtarzalna strzelecka broń palna” oznacza strzelecką broń palną, którą ładuje się automatycznie po każdorazowym oddaniu strzału i która może oddać tylko jeden strzał przy jednym uruchomieniu urządzenia spustowego;
+- **5)** „powtarzalna strzelecka broń palna” oznacza strzelecką broń palną, która po oddaniu strzału może zostać ponownie naładowana ręcznie z magazynka lub bębna nabojowego;
+- **6)** „jednostrzałowa strzelecka broń palna” oznacza strzelecką broń palną bez magazynka, którą ładuje się przed każdorazowym strzałem przez ręczne wprowadzenie naboju do komory nabojowej lub wgłębienia na ładunek w części zamkowej lufy;
+- **7)** „amunicja z pociskami przeciwpancernymi” (ang. penetrating projectiles) oznacza amunicję do użytku wojskowego, w której pocisk ma płaszcz oraz twardy rdzeń penetrujący;
+- **8)** „amunicja z pociskami wybuchającymi” oznacza amunicję do użytku wojskowego z pociskami zawierającymi ładunek eksplodujący przy uderzeniu;
+- **9)** „amunicja z pociskami zapalającymi” oznacza amunicję do użytku wojskowego z pociskami zawierającymi mieszaninę chemiczną, która ulega zapaleniu przy kontakcie z powietrzem lub przy uderzeniu. Kategoria A
+
+1. Wojskowe pociski o działaniu wybuchowym oraz ich wyrzutnie.
+
+2. Samoczynna strzelecka broń palna.
+
+3. Strzelecka broń palna ukryta pod postacią innego przedmiotu.
+
+4. Amunicja z pociskami przeciwpancernymi, wybuchowymi lub zapalającymi oraz pociski dla takiej amunicji.
+
+5. Amunicja przeznaczona do pistoletów i rewolwerów z pociskami grzybkującymi (ang. expanding) oraz pociski dla takiej amunicji, oprócz broni przeznaczonej do celów łowieckich i strzelectwa sportowego przez osoby uprawnione do korzystania z niej.
+
+6. Samoczynna strzelecka broń palna, która została przerobiona na samopowtarzalną strzelecką broń palną.
+
+7. Każdy z poniższych rodzajów samopowtarzalnej strzeleckiej broni palnej centralnego zapłonu:
+
+- **1)** krótka strzelecka broń palna, pozwalająca na wystrzeliwanie ponad 21 nabojów bez przeładowania, jeżeli mechanizm ładujący o pojemności przekraczającej 20 nabojów stanowi część tej broni lub jeżeli odłączalny mechanizm ładujący o pojemności przekraczającej 20 nabojów jest do niej wprowadzony;
+- **2)** długa strzelecka broń palna, pozwalająca na wystrzeliwanie ponad 11 nabojów bez przeładowania, jeżeli mechanizm ładujący o pojemności przekraczającej 10 nabojów stanowi część tej broni lub jeżeli odłączalny mechanizm ładujący o pojemności przekraczającej 10 nabojów jest do niej wprowadzony.
+
+8. Samopowtarzalna długa strzelecka broń palna (strzelecka broń palna, która jest pierwotnie przeznaczona do strzelania z ramienia), którą można zmniejszyć do długości mniejszej niż 60 cm bez utraty funkcjonalności dzięki zastosowaniu kolby składanej lub teleskopowej lub kolby, którą można usunąć bez użycia narzędzi.
+
+9. Każda strzelecka broń palna sklasyfikowana w niniejszej kategorii, która została przerobiona na broń do strzelania ślepymi nabojami, wystrzeliwania substancji drażniących, innych substancji aktywnych lub nabojów pirotechnicznych albo na broń salutacyjną lub akustyczną. Kategoria B
+
+1. Krótka strzelecka broń palna powtarzalna.
+
+2. Krótka strzelecka broń palna jednostrzałowa centralnego zapłonu.
+
+3. Krótka strzelecka broń palna jednostrzałowa bocznego zapłonu, której całkowita długość nie przekracza 28 cm.
+
+4. Samopowtarzalna długa strzelecka broń palna, której mechanizm ładujący i komora mogą łącznie pomieścić więcej niż 3 naboje w przypadku strzeleckiej broni palnej bocznego zapłonu, a ponad 3, lecz mniej niż 12 nabojów w przypadku strzeleckiej broni palnej centralnego zapłonu.
+
+5. Samopowtarzalna krótka strzelecka broń palna inna niż broń kategorii A wymieniona w pkt 7 ppkt 1.
+
+6. Samopowtarzalna długa strzelecka broń palna kategorii A wymieniona w pkt 7 ppkt 2, której mechanizm ładujący i komora nie mogą razem pomieścić więcej niż 3 naboje, w przypadku gdy mechanizm ładujący jest odłączalny lub w przypadku gdy nie jest pewne, czy broni tej nie można przerobić za pomocą zwykłych narzędzi na broń, której mechanizm ładujący i komora mogą pomieścić łącznie więcej niż 3 naboje.
+
+7. Powtarzalna i samopowtarzalna strzelecka długa broń palna z lufą o gładkim przewodzie, której długość nie przekracza 60 cm.
+
+8. Każda strzelecka broń palna sklasyfikowana w niniejszej kategorii po przerobieniu jej na broń do strzelania ślepymi nabojami, wystrzeliwania substancji drażniących, innych substancji aktywnych lub nabojów pirotechnicznych albo na broń salutacyjną lub akustyczną.
+
+9. Samopowtarzalna strzelecka broń palna do użytku cywilnego, która jest podobna do broni z mechanizmami automatycznymi (samoczynnej) inna niż broń kategorii A wymieniona w pkt 6, 7 lub 8. Kategoria C
+
+1. Powtarzalna długa strzelecka broń palna inna niż broń kategorii B wymieniona w pkt 7.
+
+2. Długa strzelecka broń palna jednostrzałowa z lufą bruzdowaną.
+
+3. Samopowtarzalna długa strzelecka broń palna inna niż kategorii A lub B.
+
+4. Jednostrzałowa krótka strzelecka broń palna bocznego zapłonu, której całkowita długość przekracza 28 cm.
+
+5. Każda strzelecka broń palna sklasyfikowana w niniejszej kategorii po przerobieniu jej na broń do strzelania ślepymi nabojami, wystrzeliwania substancji drażniących, innych substancji aktywnych lub nabojów pirotechnicznych albo na broń salutacyjną lub akustyczną.
+
+6. Strzelecka broń palna kategorii A, B i C, która została pozbawiona cech użytkowych zgodnie z ustawą.
+
+7. Jednostrzałowa długa strzelecka broń palna z lufą o gładkim przewodzie, wprowadzana do obrotu od dnia 14 września 2018 r.
+
 

@@ -8,10 +8,10 @@ pos: 879
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 maja 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 879 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000879) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/879/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 kwietnia 2019 r.
-w sprawie egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych oraz Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych Na podstawie art. 40 ust. 7 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych oraz Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych Na podstawie art. 40 ust. 7 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) regulamin działania Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych, zwanej dalej „Komisją”;
 2) wysokość wynagrodzenia osób wchodzących w skład Komisji;
 3) sposób przeprowadzania egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych, zwanego dalej „egzaminem”, oraz terminy przyjmowania zgłoszeń;
@@ -98,8 +98,8 @@ poz. 700, 730 i 848).
 2. Dokumenty z egzaminu przechowuje się w archiwum Urzędu Komisji Nadzoru Finansowego. Testy egzaminacyjne przechowuje się przez okres 5 lat.
 3. Dokumenty z egzaminu, testy egzaminacyjne oraz dokumenty związane z wykonywaniem zadań powierzonych Komisji nie mogą być udostępniane osobom trzecim bez uprzedniej zgody Komisji.
 § 22. 1. Każde pytanie testu jest oceniane według następujących zasad:
-1) odpowiedź prawidłowa 1 punkt;
-2) odpowiedź nieprawidłowa albo brak odpowiedzi 0 punktów.
+1) odpowiedź prawidłowa – 1 punkt;
+2) odpowiedź nieprawidłowa albo brak odpowiedzi – 0 punktów.
 2. Za nieprawidłową odpowiedź uważa się również udzielenie więcej niż jednej odpowiedzi na pytanie.
 § 23. 1. Warunkiem zdania egzaminu jest otrzymanie co najmniej 75 punktów.
 2. Test egzaminacyjny składa się z formularza zawierającego pytania testowe oraz karty odpowiedzi.
@@ -110,7 +110,7 @@ poz. 700, 730 i 848).
 2. Udostępnienie pracy do wglądu odbywa się w obecności członka Komisji lub innej osoby upoważnionej przez Komisję.
 § 27. 1. Uczestnikowi egzaminu przysługuje prawo pisemnego odwołania się do Komisji od wyników egzaminu w terminie 14 dni od dnia ogłoszenia wyników egzaminu.
 2. Komisja rozpatruje odwołanie w terminie 30 dni od dnia jego otrzymania.
-3. Urząd Komisji Nadzoru Finansowego powiadamia osobę odwołującą się o sposobie rozstrzygnięcia odwołania przez Komisję przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U.
+3. Urząd Komisji Nadzoru Finansowego powiadamia osobę odwołującą się o sposobie rozstrzygnięcia odwołania przez Komisję przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U.
 z 2018 r. poz. 2188) albo na wskazany adres elektroniczny, o ile wystąpiła o to osoba odwołująca się.
 § 28. Obsługę Komisji, w szczególności w zakresie związanym z przeprowadzaniem egzaminów, zapewnia Urząd Komisji Nadzoru Finansowego.
 § 29. Ustala się zakres obowiązujących tematów egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych, stanowiący załącznik nr 2 do rozporządzenia.
@@ -118,23 +118,24 @@ z 2018 r. poz. 2188) albo na wskazany adres elektroniczny, o ile wystąpiła o t
 2. Komisja może zwrócić się do wnioskodawcy o uzupełnienie dokumentacji, o której mowa w ust. 1, oraz o przekazanie dodatkowych informacji.
 3. Komisja podejmuje uchwałę w sprawie uznania studiów wyższych ukończonych w Rzeczypospolitej Polskiej lub zagranicznych studiów wyższych uznawanych w Rzeczypospolitej Polskiej za równorzędne, które zakresem kształcenia obejmują zakres tematów egzaminu dla brokerów ubezpieczeniowych lub zakres tematów egzaminu dla brokerów reasekuracyjnych. Przed podjęciem uchwały Komisja może zasięgnąć opinii ogólnopolskich organizacji brokerów ubezpieczeniowych lub reasekuracyjnych.
 4. Uchwałę, o której mowa w ust. 3, Komisja podejmuje nie później niż trzy miesiące od dnia złożenia kompletnego wniosku, o którym mowa w art. 34 ust. 10 ustawy.
-5. Uchwałę, o której mowa w ust. 3, doręcza się wnioskodawcy przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe.
+5. Uchwałę, o której mowa w ust. 3, doręcza się wnioskodawcy przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
 § 31. 1. Do wniosku, o którym mowa w art. 34 ust. 11 ustawy, osoba zainteresowana dołącza dokumenty potwierdzające ukończenie studiów wyższych, co do których została podjęta uchwała, o której mowa w § 30 ust. 3, oraz dokumenty potwierdzające, że zdała egzaminy na tych studiach przeprowadzone w formie pisemnej.
 2. Komisja podejmuje uchwałę w sprawie zwolnienia osoby zainteresowanej z egzaminu w terminie 30 dni od dnia złożenia wniosku, o którym mowa w ust. 1.
 3. Osobie zainteresowanej przysługuje prawo pisemnego odwołania się do Komisji od uchwały, o której mowa w ust. 2, w terminie 14 dni od dnia jej doręczenia.
 4. Komisja podejmuje uchwałę w sprawie odwołania, o którym mowa w ust. 3, w terminie 30 dni od dnia jego otrzymania.
-5. Uchwały, o których mowa w ust. 2 i 4, doręcza się osobie zainteresowanej przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe.
+5. Uchwały, o których mowa w ust. 2 i 4, doręcza się osobie zainteresowanej przesyłką poleconą w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
 § 32. 1. Do przeprowadzania egzaminu, co do którego przewodniczący ogłosił komunikat w sprawie przeprowadzenia egzaminu przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 2. Do wniosków, o których mowa w art. 34 ust. 10 ustawy, złożonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 33. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: T. Czerwińska REGULAMIN DZIAŁANIA KOMISJI EGZAMINACYJNEJ DLA BROKERÓW UBEZPIECZENIOWYCH I REASEKURACYJNYCH § 1. Regulamin określa organizację i tryb działania Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych, zwanej dalej „Komisją”.
+Minister Finansów: T. Czerwińska REGULAMIN DZIAŁANIA KOMISJI EGZAMINACYJNEJ DLA BROKERÓW UBEZPIECZENIOWYCH I REASEKURACYJNYCH
+§ 1. Regulamin określa organizację i tryb działania Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych, zwanej dalej „Komisją”.
 § 2. 1. Komisja podejmuje decyzje w formie uchwał.
-2. Komisja podejmuje uchwały, jeżeli w posiedzeniu uczestniczy co najmniej trzech członków Komisji, w tym przewodniczący Komisji, zwany dalej „przewodniczącym”, lub zastępca przewodniczącego, a w razie ich nieobecności członek Komisji wyznaczony przez przewodniczącego.
+2. Komisja podejmuje uchwały, jeżeli w posiedzeniu uczestniczy co najmniej trzech członków Komisji, w tym przewodniczący Komisji, zwany dalej „przewodniczącym”, lub zastępca przewodniczącego, a w razie ich nieobecności – członek Komisji wyznaczony przez przewodniczącego.
 3. Komisja podejmuje uchwały zwykłą większością głosów członków obecnych na posiedzeniu. W przypadku równej liczby głosów za i przeciw decyduje głos osoby, która przewodniczy obradom Komisji.
 4. Uchwały podpisują wszyscy członkowie Komisji obecni na posiedzeniu.
 5. Uchwały Komisji mogą być podejmowane w trybie obiegowym, jeżeli wszyscy członkowie Komisji wyrazili zgodę na podjęcie uchwały w tej formie. Przepis ust. 3 stosuje się odpowiednio.
 6. Członek Komisji ma prawo zgłosić zdanie odrębne, które podlega zaprotokołowaniu.
-§ 3. 1. Posiedzenia Komisji zwołuje przewodniczący, a w razie jego nieobecności zastępca przewodniczącego.
+§ 3. 1. Posiedzenia Komisji zwołuje przewodniczący, a w razie jego nieobecności – zastępca przewodniczącego.
 2. Komisja może wyznaczyć ze swego składu osoby odpowiedzialne za realizację określonych zadań.
 § 4. 1. Komisja wyznacza spośród członków Komisji osoby odpowiedzialne za przygotowanie testów egzaminacyjnych.
 2. Komisja Nadzoru Finansowego, na wniosek Komisji, może zlecić opracowanie pytań testowych osobom posiadającym wiedzę w zakresie objętym egzaminem.
@@ -189,7 +190,7 @@ a) podstawy prawne działania rynku ubezpieczeniowego i reasekuracyjnego,
 b) podmioty prowadzące działalność ubezpieczeniową i reasekuracyjną,
 c) dystrybucja ubezpieczeń,
 d) dystrybucja reasekuracji,
-e) aktuariusze rola i zadania,
+e) aktuariusze – rola i zadania,
 f) Ubezpieczeniowy Fundusz Gwarancyjny,
 g) Polskie Biuro Ubezpieczycieli Komunikacyjnych,
 h) Rzecznik Finansowy,
@@ -200,8 +201,8 @@ a) koasekuracja i jej rodzaje,
 b) reasekuracja i jej rodzaje,
 c) funkcja techniczna i finansowa reasekuracji;
 12) kryteria wyboru i oceny zakładu ubezpieczeń i zakładu reasekuracji:
-a) ocena sytuacji finansowej rezerwy techniczno-ubezpieczeniowe dla celów wypłacalności, rezerwy techniczno-ubezpieczeniowe dla celów rachunkowości, kapitałowy wymóg wypłacalności, minimalny wymóg kapitałowy, dopuszczone środki własne na pokrycie kapitałowego wymogu wypłacalności, dopuszczone podstawowe środki własne na pokrycie minimalnego wymogu kapitałowego, bilans, ogólny rachunek zysków i strat, techniczny rachunek ubezpieczeń, bilans dla celów wypłacalności, sprawozdanie o wypłacalności i kondycji finansowej oraz stosowane wskaźniki finansowe,
-b) konkurencyjność zakres oferty, jakość usługi oraz dostosowanie oferty do potrzeb klientów;
+a) ocena sytuacji finansowej – rezerwy techniczno-ubezpieczeniowe dla celów wypłacalności, rezerwy techniczno-ubezpieczeniowe dla celów rachunkowości, kapitałowy wymóg wypłacalności, minimalny wymóg kapitałowy, dopuszczone środki własne na pokrycie kapitałowego wymogu wypłacalności, dopuszczone podstawowe środki własne na pokrycie minimalnego wymogu kapitałowego, bilans, ogólny rachunek zysków i strat, techniczny rachunek ubezpieczeń, bilans dla celów wypłacalności, sprawozdanie o wypłacalności i kondycji finansowej oraz stosowane wskaźniki finansowe,
+b) konkurencyjność – zakres oferty, jakość usługi oraz dostosowanie oferty do potrzeb klientów;
 13) etyka zawodowa brokera:
 a) sfery powinności brokera wobec klienta, zakładu ubezpieczeń i konkurencji,
 b) zapobieganie konfliktom interesu,
@@ -210,7 +211,7 @@ d) sankcje za naruszenie reguł postępowania;
 14) opodatkowanie działalności brokerskiej podatkiem od towarów i usług;
 15) czytanie i analiza bilansu oraz ogólnego rachunku zysków i strat.
 II. Tematy egzaminu dla brokerów ubezpieczeniowych:
-1) podstawowe pojęcia związane z obsługą ubezpieczeń gospodarczych definicje stosowane w ogólnych warunkach ubezpieczeń;
+1) podstawowe pojęcia związane z obsługą ubezpieczeń gospodarczych – definicje stosowane w ogólnych warunkach ubezpieczeń;
 2) procedury zarządzania ryzykiem:
 a) identyfikacja ryzyka, ocena ryzyka oraz sposoby eliminacji lub przeniesienia ryzyka,
 b) opracowanie programu ochrony ubezpieczeniowej i jego realizacja;
@@ -218,15 +219,15 @@ b) opracowanie programu ochrony ubezpieczeniowej i jego realizacja;
 a) charakter umowy brokerskiej,
 b) czynniki kształtujące treść umowy brokerskiej,
 c) obowiązki wynikające z umowy brokerskiej,
-d) odpowiedzialność brokera cywilna, administracyjna, karna i inna;
-4) inne umowy związane z działalnością brokerską umowa o współpracy z zakładem ubezpieczeń, umowa o wysokości prowizji i inne;
+d) odpowiedzialność brokera – cywilna, administracyjna, karna i inna;
+4) inne umowy związane z działalnością brokerską – umowa o współpracy z zakładem ubezpieczeń, umowa o wysokości prowizji i inne;
 5) ubezpieczenia nietypowe;
 6) znajomość podstawowych produktów ubezpieczeniowych funkcjonujących na polskim rynku;
-7) podstawowe dokumenty związane z działalnością brokerską oferta brokerska, slip brokerski, nota prowizoryczna, dokument ubezpieczenia oraz rozliczenie się ze składek i z prowizji.
+7) podstawowe dokumenty związane z działalnością brokerską – oferta brokerska, slip brokerski, nota prowizoryczna, dokument ubezpieczenia oraz rozliczenie się ze składek i z prowizji.
 III. Tematy egzaminu dla brokerów reasekuracyjnych:
-1) reasekuracja i retrocesja cele i zadania;
+1) reasekuracja i retrocesja – cele i zadania;
 2) zakres i podstawy prawne działalności reasekuracyjnej w Polsce i Unii Europejskiej;
 3) charakter prawny umowy reasekuracji;
-4) procedury stosowane przy zawieraniu i rozliczaniu umów reasekuracyjnych rozpoznanie rynku, oferta, negocjacje, plasowanie oraz rozliczanie umów reasekuracyjnych;
+4) procedury stosowane przy zawieraniu i rozliczaniu umów reasekuracyjnych – rozpoznanie rynku, oferta, negocjacje, plasowanie oraz rozliczanie umów reasekuracyjnych;
 5) zasady reasekuracji krajowych ryzyk ubezpieczeniowych za granicą.
 

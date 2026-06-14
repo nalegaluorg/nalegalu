@@ -8,7 +8,7 @@ pos: 1004
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Rzeczniku Praw Obywatelskich oraz ustawy o Rzeczniku Praw Dziecka

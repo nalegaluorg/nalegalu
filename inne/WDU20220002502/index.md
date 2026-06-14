@@ -8,10 +8,10 @@ pos: 2502
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2502 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 2 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002502) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2502/text.pdf) |
 
-Poz. 2502 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 2 grudnia 2022 r.
 w sprawie upoważnienia organu Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej z zakresu informacji o schematach podatkowych Na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
-poz. 813, z późn. zm. ) zarządza się, co następuje: § 1. Upoważnia się Dyrektora Izby Administracji Skarbowej w Olsztynie do:
+poz. 813, z późn. zm. ) zarządza się, co następuje:
+§ 1. Upoważnia się Dyrektora Izby Administracji Skarbowej w Olsztynie do:
 1) nadawania numeru schematu podatkowego (NSP), o którym mowa w art. 86g § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ), zwanej dalej „ustawą”;
 2) nadawania numeru zgłoszenia schematu podatkowego transgranicznego (NZSPT), o którym mowa w art. 86a § 1 pkt 5a ustawy;
 3) przekazywania potwierdzenia nadania NSP, o którym mowa w art. 86g § 2a ustawy;

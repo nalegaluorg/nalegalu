@@ -8,10 +8,10 @@ pos: 1183
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 sierpnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1183 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 17 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1183/text.pdf) |
 
-OBWIESZCZENIE MINISTRA FINANSÓW z dnia 17 lipca 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie uzbrojenia, wyposażenia oraz środków przymusu bezpośredniego w Krajowej Administracji Skarbowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie uzbrojenia, wyposażenia oraz środków przymusu bezpośredniego w Krajowej Administracji Skarbowej (Dz. U. poz. 427), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 4 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie uzbrojenia, wyposażenia oraz środków przymusu bezpośredniego w Krajowej Administracji Skarbowej (Dz. U. poz. 754).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 4 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie uzbrojenia, wyposażenia oraz środków przymusu bezpośredniego w Krajowej Administracji Skarbowej (Dz. U. poz. 754), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Finansów: A. Domański ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 24 lutego 2017 r.
-w sprawie uzbrojenia, wyposażenia oraz środków przymusu bezpośredniego w Krajowej Administracji Skarbowej Na podstawie art. 140 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie uzbrojenia, wyposażenia oraz środków przymusu bezpośredniego w Krajowej Administracji Skarbowej Na podstawie art. 140 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) rodzaje broni palnej przysługującej Szefowi Krajowej Administracji Skarbowej, Zastępcy Szefa Krajowej Administracji Skarbowej oraz funkcjonariuszom Służby Celno-Skarbowej, zwanym dalej „osobami uprawnionymi”;
 2) kryteria i tryb przydziału broni palnej, normy uzbrojenia oraz sposób jej magazynowania, przechowywania i zapewniania właściwego stanu technicznego;
 3) normy wyposażenia niezbędnego do wykonywania czynności służbowych, zasady jego przyznawania i użytkowania;
@@ -56,13 +56,13 @@ a) budowy i działania broni palnej,
 b) zasad użycia lub wykorzystania broni palnej,
 c) zasad noszenia broni palnej oraz jej przechowywania,
 d) przypadków uzasadniających użycie lub wykorzystanie broni palnej,
-e) postępowania w przypadku użycia lub wykorzystania broni palnej udokumentowane zaświadczeniem o ich pozytywnym ukończeniu.
+e) postępowania w przypadku użycia lub wykorzystania broni palnej – udokumentowane zaświadczeniem o ich pozytywnym ukończeniu.
 2. Przepis ust. 1 pkt 2 stosuje się również do Szefa Krajowej Administracji Skarbowej i Zastępcy Szefa Krajowej Administracji Skarbowej.
 3. Osobie uprawnionej może być przydzielony tylko taki rodzaj broni palnej, jaki był objęty szkoleniem.
 § 4. Broń palna, o której mowa w § 2 ust. 1 pkt 1 lit. a i b, jest przydzielana w drodze decyzji:
-1) ministra właściwego do spraw finansów publicznych w przypadku Szefa Krajowej Administracji Skarbowej;
-2) Szefa Krajowej Administracji Skarbowej w przypadku Zastępcy Szefa Krajowej Administracji Skarbowej albo funkcjonariusza pełniącego służbę w urzędzie obsługującym ministra właściwego do spraw finansów publicznych;
-3) dyrektora izby administracji skarbowej w przypadku funkcjonariusza pełniącego służbę w podległych jednostkach organizacyjnych.
+1) ministra właściwego do spraw finansów publicznych – w przypadku Szefa Krajowej Administracji Skarbowej;
+2) Szefa Krajowej Administracji Skarbowej – w przypadku Zastępcy Szefa Krajowej Administracji Skarbowej albo funkcjonariusza pełniącego służbę w urzędzie obsługującym ministra właściwego do spraw finansów publicznych;
+3) dyrektora izby administracji skarbowej – w przypadku funkcjonariusza pełniącego służbę w podległych jednostkach organizacyjnych.
 § 5. Broń palna, o której mowa w § 2 ust. 1 pkt 1 lit. c–g oraz pkt 2 i 3, jest przydzielana na polecenie kierownika komórki organizacyjnej, w której funkcjonariusz pełni służbę, i na czas realizacji określonego zadania.
 § 6. 1. Broń palną i amunicję przechowuje się w szafach metalowych lub sejfach specjalnie przeznaczonych do przechowywania broni, umieszczonych w pomieszczeniu, zwanym dalej „magazynem broni”.
 2. W uzasadnionych przypadkach, po uzyskaniu pisemnej zgody osoby, która dokonała przydziału broni palnej, o której mowa w § 2 ust. 1 pkt 1 lit. a i b, może być ona przechowywana wraz z amunicją w:
@@ -87,22 +87,22 @@ e) postępowania w przypadku użycia lub wykorzystania broni palnej udokumentowa
 3. Wyposażenie, o którym mowa w ust. 1, powinno być użytkowane zgodnie z przeznaczeniem.
 § 13. 1. Środki ochrony indywidualnej przyznaje się funkcjonariuszowi wykonującemu zadania służbowe w warunkach zagrażających bezpieczeństwu i w przypadku występowania w środowisku czynników szkodliwych dla zdrowia.
 2. Środki higieny osobistej przyznaje się funkcjonariuszowi wykonującemu zadania służbowe powodujące intensywne brudzenie lub gdy charakter wykonywanych zadań ze względów higieniczno-sanitarnych wymaga ich przydzielenia.
-3. Do przyznawania środków ochrony indywidualnej stosuje się przepisy działu dziesiątego rozdziału IX ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878).
+3. Do przyznawania środków ochrony indywidualnej stosuje się przepisy działu dziesiątego rozdziału IX ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878).
 § 14. 1. W związku z realizacją zadań i czynności, o których mowa w art. 2 ust. 2 ustawy, funkcjonariuszowi mogą zostać przyznane środki przymusu bezpośredniego określone w art. 12 ust. 1 pkt 2, 5, 7, 9 i 11, pkt 12 lit. a, pkt 13, 17 i 18, pkt 19 z wyłączeniem materiałów wybuchowych i pkt 20 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 2. Szefowi Krajowej Administracji Skarbowej oraz Zastępcy Szefa Krajowej Administracji Skarbowej mogą zostać przyznane środki przymusu bezpośredniego określone w art. 12 ust. 1 pkt 2 i 7, pkt 12 lit. a i pkt 13 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 § 15. Środki przymusu bezpośredniego mogą być przyznane osobie uprawnionej, która odbyła szkolenie w zakresie:
 1) przypadków uzasadniających użycie lub wykorzystanie środków przymusu bezpośredniego,
 2) sposobu użycia lub wykorzystania środków przymusu bezpośredniego,
-3) zasad postępowania po użyciu lub wykorzystaniu środków przymusu bezpośredniego udokumentowane zaświadczeniem o jego pozytywnym ukończeniu.
+3) zasad postępowania po użyciu lub wykorzystaniu środków przymusu bezpośredniego – udokumentowane zaświadczeniem o jego pozytywnym ukończeniu.
 § 16. Broń palna może być przydzielona funkcjonariuszowi, który przed dniem wejścia w życie niniejszego rozporządzenia:
 1) uzyskał pozytywny wynik badań psychologicznego i psychofizjologicznego, o których mowa w art. 102 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2016 r. poz. 1799 i 1948) lub w art. 42i ust. 1 pkt 5 ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2016 r. poz. 720, 1165 i 2261);
 2) odbył szkolenia lub przeszkolenia dla funkcjonariuszy celnych albo pracowników wyodrębnionych komórek organizacyjnych kontroli skarbowej, zgodnie z dotychczasowymi przepisami, w zakresie:
 a) budowy i działania, zasad noszenia i przechowywania, użycia lub wykorzystania oraz postępowania w przypadku użycia lub wykorzystania broni palnej,
-b) przepisów dotyczących użycia i zasad bezpiecznego obchodzenia się z bronią palną oraz praktycznego posługiwania się bronią palną udokumentowane zaświadczeniem o ich pozytywnym ukończeniu.
+b) przepisów dotyczących użycia i zasad bezpiecznego obchodzenia się z bronią palną oraz praktycznego posługiwania się bronią palną – udokumentowane zaświadczeniem o ich pozytywnym ukończeniu.
 § 17. 1. Środki przymusu bezpośredniego przyznane funkcjonariuszowi przed dniem 1 marca 2017 r. uznaje się za przyznane zgodnie z niniejszym rozporządzeniem.
 2. Środki przymusu bezpośredniego mogą być przyznane funkcjonariuszowi, który przed dniem 1 marca 2017 r. odbył szkolenia dla funkcjonariuszy celnych albo pracowników wyodrębnionych komórek organizacyjnych kontroli skarbowej, zgodnie z dotychczasowymi przepisami, w zakresie:
 1) sposobu użycia lub wykorzystania środków przymusu bezpośredniego,
-2) zasad postępowania po użyciu lub wykorzystaniu środków przymusu bezpośredniego udokumentowane zaświadczeniem o ich pozytywnym ukończeniu.
+2) zasad postępowania po użyciu lub wykorzystaniu środków przymusu bezpośredniego – udokumentowane zaświadczeniem o ich pozytywnym ukończeniu.
 § 18. Wyposażenie, o którym mowa w § 12 ust. 1, przyznane funkcjonariuszowi przed dniem 1 marca 2017 r. uznaje się za przyznane zgodnie z niniejszym rozporządzeniem.
 § 19. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
 NORMY WYPOSAŻENIA NIEZBĘDNEGO DO WYKONYWANIA CZYNNOŚCI SŁUŻBOWYCH PRZEZ FUNKCJONARIUSZA SŁUŻBY CELNO-SKARBOWEJ

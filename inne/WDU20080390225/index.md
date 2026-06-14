@@ -8,7 +8,7 @@ pos: 225
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Akademii Medycznej im. prof. Feliksa Skubiszewskiego w Lublinie nazwy „Uniwersytet Medyczny w Lublinie”

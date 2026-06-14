@@ -8,7 +8,7 @@ pos: 1191
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 24 września 2013 r.

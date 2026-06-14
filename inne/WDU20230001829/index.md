@@ -8,10 +8,10 @@ pos: 1829
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11882299 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 30 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,90 +25,90 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1829/text.pdf) |
 
-11882299 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW dnia 30 sierpnia 2023 r.
-sprawie funkcjonariusza Straży Marszałkowskiej Na podstawie art. 33 ust. 4 ustawy dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. 2023 r. poz. 1729) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) dane, które należy podać świadectwie funkcjonariusza Straży Marszałkowskiej, zwanego dalej „funkcjonariuszem”;
-2) tryb wydawania sprostowania funkcjonariusza;
-3) wzór formularza funkcjonariusza.
-§ 2. 1. W świadectwie podaje się informacje niezbędne do ustalenia uprawnień funkcjonariusza wynikających ze stosunku służbowego oraz ubezpieczenia społecznego zdrowotnego dotyczące:
-1) okresu służby, tym:
-a) okresu przygotowawczej stałej,
-b) zatrudnienia Kancelarii Sejmu na stanowiskach pracy Straży Marszałkowskiej określonych art. 13 ust. 1 pkt 5 ustawy dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno‑Skarbowej Służby Więziennej oraz ich rodzin (Dz. U. 2023 r.
-poz. 1280 1429);
+w sprawie świadectwa służby funkcjonariusza Straży Marszałkowskiej Na podstawie art. 33 ust. 4 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2023 r. poz. 1729) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) dane, które należy podać w świadectwie służby funkcjonariusza Straży Marszałkowskiej, zwanego dalej „funkcjonariuszem”;
+2) tryb wydawania i sprostowania świadectwa służby funkcjonariusza;
+3) wzór formularza świadectwa służby funkcjonariusza.
+§ 2. 1. W świadectwie służby podaje się informacje niezbędne do ustalenia uprawnień funkcjonariusza wynikających ze stosunku służbowego oraz z ubezpieczenia społecznego i zdrowotnego dotyczące:
+1) okresu służby, w tym:
+a) okresu służby przygotowawczej i stałej,
+b) zatrudnienia w Kancelarii Sejmu na stanowiskach pracy w Straży Marszałkowskiej określonych w art. 13 ust. 1 pkt 5 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno‑Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r.
+poz. 1280 i 1429);
 2) zajmowanego ostatnio stanowiska służbowego;
 3) podstawy prawnej rozwiązania stosunku służbowego;
-4) liczby dni urlopu wypoczynkowego, szkoleniowego okolicznościowego, o którym mowa art. 61 ust. 1 ustawy dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, zwanej dalej „ustawą”, przysługujących wykorzystanych roku kalendarzowym, którym stosunek służbowy został rozwiązany;
-5) liczby dni urlopu wypoczynkowego niewykorzystanego roku kalendarzowym, którym stosunek służbowy został rozwiązany, dni urlopu zaległego, za które wypłacono ekwiwalent pieniężny, o którym mowa art. 81 ustawy;
-6) okresu korzystania urlopu bezpłatnego podstawy prawnej jego udzielenia;
+4) liczby dni urlopu wypoczynkowego, szkoleniowego i okolicznościowego, o którym mowa w art. 61 ust. 1 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, zwanej dalej „ustawą”, przysługujących i wykorzystanych w roku kalendarzowym, w którym stosunek służbowy został rozwiązany;
+5) liczby dni urlopu wypoczynkowego niewykorzystanego w roku kalendarzowym, w którym stosunek służbowy został rozwiązany, i dni urlopu zaległego, za które wypłacono ekwiwalent pieniężny, o którym mowa w art. 81 ustawy;
+6) okresu korzystania z urlopu bezpłatnego i podstawy prawnej jego udzielenia;
 7) okresu korzystania:
-a) urlopu macierzyńskiego lub urlopu na warunkach urlopu macierzyńskiego oraz wymiaru części urlopu,
-b) urlopu ojcowskiego oraz wymiaru części tego urlopu,
-d) urlopu wychowawczego oraz wymiaru części urlopu,
-e) urlopu opiekuńczego wykorzystanego roku kalendarzowym, którym stosunek służbowy został rozwiązany,
-f) ze od powodu działania siły wyższej, przewidzianego art. 62b ust. 1 ustawy, wykorzystanego roku kalendarzowym, którym stosunek służbowy został rozwiązany;
-8) okresu wykorzystania roku kalendarzowym, którym stosunek służbowy został rozwiązany, przewidzianego art. 188 ustawy dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. 2023 r. poz. 1465);
-9) potrąceń uposażenia funkcjonariusza na zasadach określonych art. 96 ustawy;
-10) okresu pozostawania poza służbą, za który przyznano świadczenie, o którym mowa art. 99h ustawy.
-2. Na pisemny wniosek funkcjonariusza, złożony przed dniem ze służby, świadectwie podaje się także informacje o wysokości składnikach uposażenia funkcjonariusza oraz o uzyskanych kwalifikacjach.
-3. Wzór formularza jest określony załączniku do rozporządzenia.
-§ 3. Funkcjonariusz zwalniany ze otrzymuje świadectwo dniu określonym decyzji, na podstawie której nastąpiło zwolnienie ze służby.
-§ 4. 1. Świadectwo sporządza się dwóch egzemplarzach, których pierwszy egzemplarz otrzymuje funkcjonariusz, a drugi egzemplarz pozostawia się aktach osobowych tego funkcjonariusza.
-2. Otrzymanie funkcjonariusz potwierdza własnoręcznym podpisem wraz datą jego otrzymania na drugim egzemplarzu służby, przeznaczonym do włączenia do akt osobowych tego funkcjonariusza.
-3. W przypadku odbioru przez osobę upoważnioną przez funkcjonariusza na piśmie osoba ta potwierdza otrzymanie własnoręcznym podpisem wraz datą jego otrzymania.
-4. W razie śmierci funkcjonariusza albo stwierdzenia zaginięcia funkcjonariusza świadectwo wydaje się członkowi rodziny funkcjonariusza uprawnionemu do odprawy pośmiertnej.
-§ 5. Jeżeli wydanie nie jest możliwe dniu określonym § 3 sposób, o którym mowa § 4 ust. 2 albo 3, świadectwo doręcza się, za pokwitowaniem, przez operatora pocztowego rozumieniu przepisów ustawy dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. 2023 r. poz. 1640) terminie 7 dni od dnia funkcjonariusza ze albo doręcza się inny sposób.
-§ 6. Świadectwo funkcjonariuszom wydaje Komendant Straży Marszałkowskiej, a przypadku Komendanta Straży Marszałkowskiej jego zastępców świadectwo wydaje Szef Kancelarii Sejmu.
-§ 7. 1. Funkcjonariusz zwolniony ze może, terminie określonym art. 33 ust. 2 ustawy, złożyć pisemny, uzasadniony wniosek o sprostowanie służby. Wniosek składa się do przełożonego, który wydał świadectwo służby.
-2. W przypadku uwzględnienia wniosku o sprostowanie funkcjonariuszowi wydaje się nowe świadec‑ two terminie 7 dni od dnia złożenia wniosku. Przepis § 6 stosuje się odpowiednio.
-3. O nieuwzględnieniu wniosku o sprostowanie służby, powodu jego złożenia po terminie określonym art. 33 ust. 2 ustawy albo uwagi na fakt, że wnoszono o podanie świadectwie nieprawdziwych danych, przełożony, który wydał to świadectwo, zawiadamia pisemnie funkcjonariusza terminie 7 dni od dnia złożenia tego wniosku.
-§ 8. 1. Nowe świadectwo miejsce wydanego uprzednio, poza przypadkiem, o którym mowa § 7 ust. 2, wydaje się razie:
-1) zmiany decyzji, na podstawie której nastąpiło zwolnienie ze służby, mającej wpływ na treść służby;
-2) ze funkcjonariusza uprzednio mianowanego na stanowisko służbowe trybie art. 99g ust. 1 ustawy.
-2. W nowym świadectwie wydanym przypadku, o którym mowa ust. 1 pkt 2, uwzględnia się także okres objęty poprzednio wydanym świadectwem oraz okres, o którym mowa § 2 ust. 1 pkt 10.
-§ 9. Po wydaniu nowego przypadkach, o których mowa § 7 ust. 2 lub § 8 ust. 1, uprzednio wydane świadectwo pozostawia się aktach osobowych funkcjonariusza.
-§ 10. W sprawach wydania sprostowania wszczętych na podstawie przepisów dotychczasowych niezakończonych przed dniem wejścia życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 11. Traci moc rozporządzenie Prezesa Rady Ministrów dnia 3 sierpnia 2018 r. sprawie funkcjonariusza Straży Marszałkowskiej (Dz. U. poz. 1549).
-§ 12. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki Prezesa Rady Ministrów dnia (Dz. U. poz. ...) WZÓR ŚWIADECTWO SŁUŻBY
+a) z urlopu macierzyńskiego lub urlopu na warunkach urlopu macierzyńskiego oraz wymiaru i części urlopu,
+b) z urlopu ojcowskiego oraz wymiaru i części tego urlopu,
+c) z urlopu rodzicielskiego oraz wymiaru i części urlopu,
+d) z urlopu wychowawczego oraz wymiaru i części urlopu,
+e) z urlopu opiekuńczego wykorzystanego w roku kalendarzowym, w którym stosunek służbowy został rozwiązany,
+f) ze zwolnienia od służby z powodu działania siły wyższej, przewidzianego w art. 62b ust. 1 ustawy, wykorzystanego w roku kalendarzowym, w którym stosunek służbowy został rozwiązany;
+8) okresu wykorzystania w roku kalendarzowym, w którym stosunek służbowy został rozwiązany, zwolnienia przewidzianego w art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465);
+9) potrąceń z uposażenia funkcjonariusza na zasadach określonych w art. 96 ustawy;
+10) okresu pozostawania poza służbą, za który przyznano świadczenie, o którym mowa w art. 99h ustawy.
+2. Na pisemny wniosek funkcjonariusza, złożony przed dniem zwolnienia ze służby, w świadectwie służby podaje się także informacje o wysokości i składnikach uposażenia funkcjonariusza oraz o uzyskanych kwalifikacjach.
+3. Wzór formularza świadectwa służby jest określony w załączniku do rozporządzenia.
+§ 3. Funkcjonariusz zwalniany ze służby otrzymuje świadectwo służby w dniu zwolnienia określonym w decyzji, na podstawie której nastąpiło zwolnienie ze służby.
+§ 4. 1. Świadectwo służby sporządza się w dwóch egzemplarzach, z których pierwszy egzemplarz otrzymuje funkcjonariusz, a drugi egzemplarz pozostawia się w aktach osobowych tego funkcjonariusza.
+2. Otrzymanie świadectwa służby funkcjonariusz potwierdza własnoręcznym podpisem wraz z datą jego otrzymania na drugim egzemplarzu świadectwa służby, przeznaczonym do włączenia do akt osobowych tego funkcjonariusza.
+3. W przypadku odbioru świadectwa służby przez osobę upoważnioną przez funkcjonariusza na piśmie osoba ta potwierdza otrzymanie świadectwa służby własnoręcznym podpisem wraz z datą jego otrzymania.
+4. W razie śmierci funkcjonariusza albo stwierdzenia zaginięcia funkcjonariusza świadectwo służby wydaje się członkowi rodziny funkcjonariusza uprawnionemu do odprawy pośmiertnej.
+§ 5. Jeżeli wydanie świadectwa służby nie jest możliwe w dniu określonym w § 3 i w sposób, o którym mowa w § 4 ust. 2 albo 3, świadectwo służby doręcza się, za pokwitowaniem, przez operatora pocztowego w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640) w terminie 7 dni od dnia zwolnienia funkcjonariusza ze służby albo doręcza się w inny sposób.
+§ 6. Świadectwo służby funkcjonariuszom wydaje Komendant Straży Marszałkowskiej, a w przypadku Komendanta Straży Marszałkowskiej i jego zastępców świadectwo służby wydaje Szef Kancelarii Sejmu.
+§ 7. 1. Funkcjonariusz zwolniony ze służby może, w terminie określonym w art. 33 ust. 2 ustawy, złożyć pisemny, uzasadniony wniosek o sprostowanie świadectwa służby. Wniosek składa się do przełożonego, który wydał świadectwo służby.
+2. W przypadku uwzględnienia wniosku o sprostowanie świadectwa służby funkcjonariuszowi wydaje się nowe świadec‑ two służby w terminie 7 dni od dnia złożenia wniosku. Przepis § 6 stosuje się odpowiednio.
+3. O nieuwzględnieniu wniosku o sprostowanie świadectwa służby, z powodu jego złożenia po terminie określonym w art. 33 ust. 2 ustawy albo z uwagi na fakt, że wnoszono o podanie w świadectwie służby nieprawdziwych danych, przełożony, który wydał to świadectwo, zawiadamia pisemnie funkcjonariusza w terminie 7 dni od dnia złożenia tego wniosku.
+§ 8. 1. Nowe świadectwo służby w miejsce wydanego uprzednio, poza przypadkiem, o którym mowa w § 7 ust. 2, wydaje się w razie:
+1) zmiany decyzji, na podstawie której nastąpiło zwolnienie ze służby, mającej wpływ na treść świadectwa służby;
+2) zwolnienia ze służby funkcjonariusza uprzednio mianowanego na stanowisko służbowe w trybie art. 99g ust. 1 ustawy.
+2. W nowym świadectwie służby wydanym w przypadku, o którym mowa w ust. 1 pkt 2, uwzględnia się także okres służby objęty poprzednio wydanym świadectwem oraz okres, o którym mowa w § 2 ust. 1 pkt 10.
+§ 9. Po wydaniu nowego świadectwa służby w przypadkach, o których mowa w § 7 ust. 2 lub w § 8 ust. 1, uprzednio wydane świadectwo służby pozostawia się w aktach osobowych funkcjonariusza.
+§ 10. W sprawach wydania i sprostowania świadectwa służby wszczętych na podstawie przepisów dotychczasowych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+§ 11. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 3 sierpnia 2018 r. w sprawie świadectwa służby funkcjonariusza Straży Marszałkowskiej (Dz. U. poz. 1549).
+§ 12. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia (Dz. U. poz. ...) WZÓR WZÓR ŚWIADECTWO SŁUŻBY
 1. Stwierdza się, że ............................................................................................................................................
 urodzony(na) .................................................................................................................................................
-pełnił(a) służbę Straży Marszałkowskiej :
-1) przygotowawczą okresie od dnia .............................................. do dnia .................................................
-2) stałą okresie od dnia .................................................. do dnia ...............................................................
-3) był zatrudniony(na) Kancelarii Sejmu na stanowiskach pracy Straży Marszałkowskiej określonych art. 13 ust. 1 pkt 5 ustawy dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej oraz ich rodzin okresie od dnia ................................................... do dnia ............................................................
+pełnił(a) służbę w Straży Marszałkowskiej :
+1) przygotowawczą w okresie od dnia .............................................. do dnia .................................................
+2) stałą w okresie od dnia .................................................. do dnia ...............................................................
+3) był zatrudniony(na) w Kancelarii Sejmu na stanowiskach pracy w Straży Marszałkowskiej określonych w art. 13 ust. 1 pkt 5 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin w okresie od dnia ................................................... do dnia ............................................................
 2. Ostatnio zajmowane stanowisko służbowe .........................................................................................................
 3. Podstawa prawna rozwiązania stosunku służbowego ..........................................................................................
 .......................................................................................................................................................................
 4. W okresie służby:
-1) wykorzystał(a) urlop: wypoczynkowy, szkoleniowy okolicznościowy, o którym mowa art. 61 ust. 1 ustawy dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, wymiarze: ...........................................................................................................................................................................................
+1) wykorzystał(a) urlop: wypoczynkowy, szkoleniowy i okolicznościowy, o którym mowa w art. 61 ust. 1 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, w wymiarze: ...........................................................................................................................................................................................
 ..........................................................................................................................................................................................
 ..........................................................................................................................................................................................
 ..........................................................................................................................................................................................
-2) wypłacono ekwiwalent pieniężny, o którym mowa art. 81 ustawy dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, za ............... dni urlopu wypoczynkowego niewykorzystanego roku kalendarzowym, którym stosunek służbowy został rozwiązany, oraz za ………… dni urlopu zaległego
-3) korzystał(a) urlopu bezpłatnego ...............................................................................................................................................................
+2) wypłacono ekwiwalent pieniężny, o którym mowa w art. 81 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, za ............... dni urlopu wypoczynkowego niewykorzystanego w roku kalendarzowym, w którym stosunek służbowy został rozwiązany, oraz za ………… dni urlopu zaległego
+3) korzystał(a) z urlopu bezpłatnego ...............................................................................................................................................................
 5. Wykorzystał(a):
 1) urlop macierzyński lub urlop na warunkach urlopu macierzyńskiego ..............................................................
 ..................................................................................................................................................................
 2) urlop ojcowski .........................................................................................................................................
-WZÓR
 3) urlop rodzicielski .....................................................................................................................................
 ...............................................................................................................................................................
 4) urlop wychowawczy .................................................................................................................................
 ...............................................................................................................................................................
-5) urlop opiekuńczy roku kalendarzowym, którym stosunek służbowy został rozwiązany ............................
+5) urlop opiekuńczy w roku kalendarzowym, w którym stosunek służbowy został rozwiązany ............................
 ...............................................................................................................................................................
-6) zwolnienie od powodu działania siły wyższej, przewidziane art. 62b ust. 1 ustawy dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, roku kalendarzowym, którym stosunek służbowy został rozwiązany ...............................................................................................................................................................
-7) zwolnienie przewidziane art. 188 ustawy dnia 26 czerwca 1974 r. Kodeks pracy ...............................................................................................................................................................
-6. Potrącenia uposażenia, o których mowa art. 96 ustawy dnia 26 stycznia 2018 r. o Straży Marszałkowskiej .......................................................................................................................................................................
+6) zwolnienie od służby z powodu działania siły wyższej, przewidziane w art. 62b ust. 1 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, w roku kalendarzowym, w którym stosunek służbowy został rozwiązany ...............................................................................................................................................................
+7) zwolnienie przewidziane w art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy ...............................................................................................................................................................
+6. Potrącenia z uposażenia, o których mowa w art. 96 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej .......................................................................................................................................................................
 .......................................................................................................................................................................
-7. Okres pozostawania poza służbą, za który przyznano świadczenie, o którym mowa art. 99h ustawy dnia 26 stycznia 2018 r. o Straży Marszałkowskiej ........................................................................................................
-8. Wysokość składniki uposażenia .......................................................................................................................................................................
+7. Okres pozostawania poza służbą, za który przyznano świadczenie, o którym mowa w art. 99h ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej ........................................................................................................
+8. Wysokość i składniki uposażenia .......................................................................................................................................................................
 .......................................................................................................................................................................
 .......................................................................................................................................................................
 9. Posiadane kwalifikacje .......................................................................................................................................................................
 .......................................................................................................................................................................
 .......................................................................................................................................................................
 ..............................................................
-Potwierdzam odbiór ...............................................................................
-Pouczenie Funkcjonariusz zwolniony ze może terminie 7 dni od dnia otrzymania złożyć pisemny, uzasadniony wniosek o sprostowanie tego świadectwa. Wniosek składa się do przełożonego, który wydał świadectwo służby.
+Potwierdzam odbiór świadectwa służby ...............................................................................
+Pouczenie Funkcjonariusz zwolniony ze służby może w terminie 7 dni od dnia otrzymania świadectwa służby złożyć pisemny, uzasadniony wniosek o sprostowanie tego świadectwa. Wniosek składa się do przełożonego, który wydał świadectwo służby.
 

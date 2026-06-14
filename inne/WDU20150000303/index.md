@@ -8,10 +8,10 @@ pos: 303
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 marca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 303 Protokół w sprawie obaw narodu irlandzkiego co do Traktatu z Lizbony, sporządzony w Brukseli dnia 13 czerwca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/303/text.pdf) |
 
-Protokół w sprawie obaw narodu irlandzkiego co do Traktatu z Lizbony, sporządzony w Brukseli dnia 13 czerwca 2012 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 13 czerwca 2012 r. w Brukseli został sporządzony Protokół w sprawie obaw narodu irlandzkiego co do traktatu z lizbony, w następującym brzmieniu: Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 13 czerwca 2012 r. w Brukseli został sporządzony Protokół w sprawie obaw narodu irlandzkiego co do traktatu z lizbony, w następującym brzmieniu: Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęty, ratyfikowany i potwierdzony, – będzie niezmiennie zachowywany.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 22 lipca 2013 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.

@@ -8,7 +8,7 @@ pos: 69
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks spółek handlowych oraz ustawy o obrocie instrumentami finansowymi
@@ -29,7 +29,57 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 328 § 6 otrzymuje brzmienie: „§ 6. Akcjonariuszowi spółki publicznej posiadającemu akcje zdematerializowane przysługuje uprawnienie do imiennego świadectwa depozytowego wystawionego przez podmiot prowadzący rachunek papierów wartościowych zgodnie z przepisami o obrocie instrumentami finansowymi oraz do imiennego zaświadczenia o prawie uczestnictwa w walnym zgromadzeniu spółki publicznej.”;
+- **2)** w art. 340 § 3 otrzymuje brzmienie: „§ 3. W okresie, gdy akcje spółki publicznej, na których ustanowiono zastaw lub użytkowanie, są zapisane na rachunku papierów wartościowych prowadzonym przez podmiot uprawniony zgodnie z przepisami o obrocie instrumentami finansowymi, prawo głosu z tych akcji przysługuje akcjonariuszowi.”;
+- **3)** art. 342 otrzymuje brzmienie: „Art. 342. Spółka może zlecić prowadzenie księgi akcyjnej bankowi lub firmie inwestycyjnej w Rzeczypospolitej Polskiej.”;
+- **4)** w art. 399:
+    - **a)** § 2 i 3 otrzymują brzmienie: „§ 2. Rada nadzorcza może zwołać zwyczajne walne zgromadzenie, jeżeli zarząd nie zwoła go w terminie określonym w niniejszym dziale lub w statucie, oraz nadzwyczajne walne zgromadzenie, jeżeli zwołanie go uzna za wskazane.
+
+§ 3. Akcjonariusze reprezentujący co najmniej połowę kapitału zakładowego lub co najmniej połowę ogółu głosów w spółce mogą zwołać nadzwyczajne walne zgromadzenie. Akcjonariusze wyznaczają przewodniczącego tego zgromadzenia.”,
+
+- **b)** dodaje się § 4 w brzmieniu: „§ 4. Statut może upoważnić do zwołania zwyczajnego walnego zgromadzenia, jeżeli zarząd nie zwoła go w terminie określonym w niniejszym dziale lub w statucie, oraz do zwołania nadzwyczajnego walnego zgromadzenia, także inne osoby.”;
+- **5)** art. 400 otrzymuje brzmienie: „Art. 400. § 1. Akcjonariusz lub akcjonariusze reprezentujący co najmniej jedną dwudziestą kapitału zakładowego mogą żądać zwołania nadzwyczajnego walnego zgromadzenia i umieszczenia określonych spraw w porządku obrad tego zgromadzenia; statut może upoważnić do żądania zwołania nadzwyczajnego walnego zgromadzenia akcjonariuszy reprezentujących mniej niż jedną dwudziestą kapitału zakładowego.
+
+§ 2. Żądanie zwołania nadzwyczajnego walnego zgromadzenia należy złożyć zarządowi na piśmie lub w postaci elektronicznej.
+
+§ 3. Jeżeli w terminie dwóch tygodni od dnia przedstawienia żądania zarządowi nadzwyczajne walne zgromadzenie nie zostanie zwołane, sąd rejestrowy może upoważnić do zwołania nadzwyczajnego walnego zgromadzenia akcjonariuszy występujących z tym żądaniem. Sąd wyznacza przewodniczącego tego zgromadzenia.
+
+§ 4. Zgromadzenie, o którym mowa w § 1, podejmuje uchwałę rozstrzygającą, czy koszty zwołania i odbycia zgromadzenia ma ponieść spółka. Akcjonariusze, na żądanie których zostało zwołane zgromadzenie, mogą zwrócić się do sądu rejestrowego o zwolnienie z obowiązku pokrycia kosztów nałożonych uchwałą zgromadzenia.
+
+§ 5. W zawiadomieniu o zwołaniu nadzwyczajnego walnego zgromadzenia, o którym mowa w § 3, należy powołać się na postanowienie sądu rejestrowego.”;
+
+- **6)** art. 401 otrzymuje brzmienie: „Art. 401. § 1. Akcjonariusz lub akcjonariusze reprezentujący co najmniej jedną dwudziestą kapitału zakładowego mogą żądać umieszczenia określonych spraw w porządku obrad najbliższego walnego zgromadzenia. Żądanie powinno zostać zgłoszone zarządowi nie później niż na czternaście dni przed wyznaczonym terminem zgromadzenia. W spółce publicznej termin ten wynosi dwadzieścia jeden dni. Żądanie powinno zawierać uzasadnienie lub projekt uchwały dotyczącej proponowanego punktu porządku obrad. Żądanie może zostać złożone w postaci elektronicznej.
+
+§ 2. Zarząd jest obowiązany niezwłocznie, jednak nie później niż na cztery dni przed wyznaczonym terminem walnego zgromadzenia, ogłosić zmiany w porządku obrad, wprowadzone na żądanie akcjonariuszy. W spółce publicznej termin ten wynosi osiemnaście dni. Ogłoszenie następuje w sposób właściwy dla zwołania walnego zgromadzenia.
+
+§ 3. Jeżeli walne zgromadzenie jest zwoływane w trybie art. 402 § 3, przepisów § 1 i 2 nie stosuje się.
+
+§ 4. Akcjonariusz lub akcjonariusze spółki publicznej reprezentujący co najmniej jedną dwudziestą kapitału zakładowego mogą przed terminem walnego zgromadzenia zgłaszać spółce na piśmie lub przy wykorzystaniu środków komunikacji elektronicznej projekty uchwał dotyczące spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad. Spółka niezwłocznie ogłasza projekty uchwał na stronie internetowej.
+
+§ 5. Każdy z akcjonariuszy może podczas walnego zgromadzenia zgłaszać projekty uchwał dotyczące spraw wprowadzonych do porządku obrad.
+
+§ 6. Statut może upoważnić do żądania umieszczenia określonych spraw w porządku obrad najbliższego walnego zgromadzenia oraz do zgłaszania spółce na piśmie lub przy wykorzystaniu środków komunikacji elektronicznej projektów uchwał dotyczących spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad, akcjonariuszy reprezentujących mniej niż jedną dwudziestą kapitału zakładowego.”;
+
+- **7)** po art. 402 dodaje się art. 402 –402 w brzmieniu: „Art. 402 . § 1. Walne zgromadzenie spółki publicznej zwołuje się przez ogłoszenie dokonywane na stronie internetowej spółki oraz w sposób określony dla przekazywania informacji bieżących zgodnie z przepisami o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
+
+§ 2. Ogłoszenie powinno być dokonane co najmniej na dwadzieścia sześć dni przed terminem walnego zgromadzenia.
+
 **Art. 402².** Ogłoszenie o walnym zgromadzeniu spółki publicznej powinno zawierać co najmniej:
+
+- **1)** datę, godzinę i miejsce walnego zgromadzenia oraz szczegółowy porządek obrad,
+- **2)** precyzyjny opis procedur dotyczących uczestniczenia w walnym zgromadzeniu i wykonywania prawa głosu, w szczególności informacje o:
+    - **a)** prawie akcjonariusza do żądania umieszczenia określonych spraw w porządku obrad walnego zgromadzenia,
+    - **b)** prawie akcjonariusza do zgłaszania projektów uchwał dotyczących spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia,
+    - **c)** prawie akcjonariusza do zgłaszania projektów uchwał dotyczących spraw wprowadzonych do porządku obrad podczas walnego zgromadzenia,
+    - **d)** sposobie wykonywania prawa głosu przez pełnomocnika, w tym w szczególności o formularzach stosowanych podczas głosowania przez pełnomocnika, oraz sposobie zawiadamiania spółki przy wykorzystaniu środków komunikacji elektronicznej o ustanowieniu pełnomocnika,
+    - **e)** możliwości i sposobie uczestniczenia w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej,
+    - **f)** sposobie wypowiadania się w trakcie walnego zgromadzenia przy wykorzystaniu środków komunikacji elektronicznej,
+    - **g)** sposobie wykonywania prawa głosu drogą korespondencyjną lub przy wykorzystaniu środków komunikacji elektronicznej,
+
+- **3)** dzień rejestracji uczestnictwa w walnym zgromadzeniu, o którym mowa w art. 406 ,
+- **4)** informację, że prawo uczestniczenia w walnym zgromadzeniu mają tylko osoby będące akcjonariuszami spółki w dniu rejestracji uczestnictwa w walnym zgromadzeniu,
+- **5)** wskazanie, gdzie i w jaki sposób osoba uprawniona do uczestnictwa w walnym zgromadzeniu może uzyskać pełny tekst dokumentacji, która ma być przedstawiona walnemu zgromadzeniu, oraz projekty uchwał lub, jeżeli nie przewiduje się podejmowania uchwał, uwagi zarządu lub rady nadzorczej spółki, dotyczące spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia,
+- **6)** wskazanie adresu strony internetowej, na której będą udostępnione informacje dotyczące walnego zgromadzenia.
 
 **Art. 402³.**
 
@@ -38,7 +88,8 @@ source: "isap-pdf"
 - **1)** ogłoszenie o zwołaniu walnego zgromadzenia,
 - **2)** informację o ogólnej liczbie akcji w spółce i liczbie głosów z tych akcji w dniu ogłoszenia, a jeżeli akcje są różnych rodzajów – także o podziale akcji na poszczególne rodzaje i liczbie głosów z akcji poszczególnych rodzajów,
 - **3)** dokumentację, która ma być przedstawiona walnemu zgromadzeniu,
-- **4)** projekty uchwał lub, jeżeli nie przewiduje się podejmowania uchwał, uwagi zarządu lub rady nadzorczej spółki, dotyczące spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia, pełnomocnika lub drogą korespondencyjną, jeżeli nie są one wysyłane bezpośrednio do wszystkich akcjonariuszy.
+- **4)** projekty uchwał lub, jeżeli nie przewiduje się podejmowania uchwał, uwagi zarządu lub rady nadzorczej spółki, dotyczące spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia,
+- **5)** formularze pozwalające na wykonywanie prawa głosu przez pełnomocnika lub drogą korespondencyjną, jeżeli nie są one wysyłane bezpośrednio do wszystkich akcjonariuszy.
 
 § 2. Jeżeli formularze, o których mowa w § 1 pkt 5, z przyczyn technicznych nie mogą zostać udostępnione na stronie internetowej, spółka publiczna wskazuje na tej stronie sposób i miejsce uzyskania formularzy. W takim przypadku spółka publiczna wysyła formularze nieodpłatnie pocztą każdemu akcjonariuszowi na jego żądanie.
 
@@ -56,7 +107,7 @@ source: "isap-pdf"
 
 § 2. Dzień rejestracji uczestnictwa w walnym zgromadzeniu jest jednolity dla uprawnionych z akcji na okaziciela i akcji imiennych.
 
-**Art. 406².** Uprawnieni z akcji imiennych i świadectw tymczasowych oraz zastawnicy i użytkownicy, którym przysługuje prawo głosu, mają jeżeli są wpisani do księgi akcyjnej w dniu rejestracji uczestnictwa w walnym zgromadzeniu.
+**Art. 406².** Uprawnieni z akcji imiennych i świadectw tymczasowych oraz zastawnicy i użytkownicy, którym przysługuje prawo głosu, mają prawo uczestniczenia w walnym zgromadzeniu spółki publicznej, jeżeli są wpisani do księgi akcyjnej w dniu rejestracji uczestnictwa w walnym zgromadzeniu.
 
 **Art. 406³.**
 
@@ -79,7 +130,9 @@ source: "isap-pdf"
 
 § 4. Na żądanie uprawnionego ze zdematerializowanych akcji na okaziciela w treści zaświadczenia powinna zostać wskazana część lub wszystkie akcje zarejestrowane na jego rachunku papierów wartościowych.
 
-§ 5. Przepisy o obrocie instrumentami finansowymi mogą wskazywać inne dokumenty równoważne zaświadczeniu, pod warunkiem, że podmiot wystawiający takie dokumenty został wskazany podmiotowi prowadzącemu depozyt papierów wartościowych dla spółki publicznej. nym zgromadzeniu spółki publicznej spółka ustala na podstawie akcji złożonych w spółce zgodnie z § 1 oraz wykazu sporządzonego przez podmiot prowadzący depozyt papierów wartościowych zgodnie z przepisami o obrocie instrumentami finansowymi.
+§ 5. Przepisy o obrocie instrumentami finansowymi mogą wskazywać inne dokumenty równoważne zaświadczeniu, pod warunkiem, że podmiot wystawiający takie dokumenty został wskazany podmiotowi prowadzącemu depozyt papierów wartościowych dla spółki publicznej.
+
+§ 6. Listę uprawnionych z akcji na okaziciela do uczestnictwa w walnym zgromadzeniu spółki publicznej spółka ustala na podstawie akcji złożonych w spółce zgodnie z § 1 oraz wykazu sporządzonego przez podmiot prowadzący depozyt papierów wartościowych zgodnie z przepisami o obrocie instrumentami finansowymi.
 
 § 7. Podmiot prowadzący depozyt papierów wartościowych sporządza wykaz, o którym mowa w § 6, na podstawie wykazów przekazywanych nie później niż na dwanaście dni przed datą walnego zgromadzenia przez podmioty uprawnione zgodnie z przepisami o obrocie instrumentami finansowymi. Podstawą sporządzenia wykazów przekazywanych podmiotowi prowadzącemu depozyt papierów wartościowych są wystawione zaświadczenia o prawie uczestnictwa w walnym zgromadzeniu spółki publicznej.
 
@@ -97,7 +150,9 @@ source: "isap-pdf"
 
 § 2. W przypadku, gdy statut dopuszcza udział w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej, udział akcjonariuszy w walnym zgromadzeniu może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji akcjonariuszy i zapewnienia bezpieczeństwa komunikacji elektronicznej.
 
-§ 3. Transmisja obrad walnego zgromadzenia w czasie rzeczywistym nie narusza obowiązków informacyjnych określonych w przepisach o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych. w walnym zgromadzeniu.”;
+§ 3. Transmisja obrad walnego zgromadzenia w czasie rzeczywistym nie narusza obowiązków informacyjnych określonych w przepisach o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
+
+**Art. 406⁶.** Członkowie zarządu i rady nadzorczej mają prawo uczestniczenia w walnym zgromadzeniu.”;
 
 - **10)** w art. 407 po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Akcjonariusz spółki publicznej może żądać przesłania mu listy akcjonariuszy nieodpłatnie pocztą elektroniczną, podając adres, na który lista powinna być wysłana.”;
 - **11)** po art. 411 dodaje się art. 411 –411 w brzmieniu: „Art. 411 . § 1. Akcjonariusz spółki publicznej może oddać głos na walnym zgromadzeniu drogą korespondencyjną, jeżeli przewiduje to regulamin walnego zgromadzenia.
@@ -122,11 +177,39 @@ source: "isap-pdf"
 
 **Art. 411³.** Akcjonariusz może głosować odmiennie z każdej z posiadanych akcji.”;
 
+- **12)** art. 412 otrzymuje brzmienie: „Art. 412. § 1. Akcjonariusz może uczestniczyć w walnym zgromadzeniu oraz wykonywać prawo głosu osobiście lub przez pełnomocnika.
+
+§ 2. Nie można ograniczać prawa ustanawiania pełnomocnika na walnym zgromadzeniu i liczby pełnomocników.
+
+§ 3. Pełnomocnik wykonuje wszystkie uprawnienia akcjonariusza na walnym zgromadzeniu, chyba że co innego wynika z treści pełnomocnictwa.
+
+§ 4. Pełnomocnik może udzielić dalszego pełnomocnictwa, jeżeli wynika to z treści pełnomocnictwa.
+
+§ 5. Pełnomocnik może reprezentować więcej niż jednego akcjonariusza i głosować odmiennie z akcji każdego akcjonariusza.
+
+§ 6. Akcjonariusz spółki publicznej posiadający akcje zapisane na więcej niż jednym rachunku papierów wartościowych może ustanowić oddzielnych pełnomocników do wykonywania praw z akcji zapisanych na każdym z rachunków.
+
+§ 7. Przepisy o wykonywaniu prawa głosu przez pełnomocnika stosuje się do wykonywania prawa głosu przez innego przedstawiciela.”;
+
+- **13)** po art. 412 dodaje się art. 412 i 412 w brzmieniu: „Art. 412 . § 1. Pełnomocnictwo do uczestniczenia w walnym zgromadzeniu i wykonywania prawa głosu wymaga formy pisemnej pod rygorem nieważności.
+
+§ 2. Pełnomocnictwo do uczestniczenia w walnym zgromadzeniu spółki publicznej i wykonywania prawa głosu wymaga udzielenia na piśmie lub w postaci elektronicznej. Udzielenie pełnomocnictwa w postaci elektronicznej nie wymaga opatrzenia bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu.
+
+§ 3. Statut nie może wprowadzać dalej idących ograniczeń dotyczących formy udzielenia pełnomocnictwa.
+
+§ 4. Spółka publiczna wskazuje akcjonariuszom co najmniej jeden sposób zawiadamiania przy wykorzystaniu środków komunikacji elektronicznej o udzieleniu pełnomocnictwa w postaci elektronicznej. O sposobie zawiadamiania rozstrzyga regulamin walnego zgromadzenia, zaś w braku regulaminu – zarząd spółki.
+
+§ 5. Spółka publiczna podejmuje odpowiednie działania służące identyfikacji akcjonariusza i pełnomocnika w celu weryfikacji ważności pełnomocnictwa udzielonego w postaci elektronicznej. Działania te powinny być proporcjonalne do celu.
+
+§ 6. Przepisy § 1-5 stosuje się odpowiednio do odwołania pełnomocnictwa.
+
 **Art. 412².**
 
 § 1. Członek zarządu i pracownik spółki nie mogą być pełnomocnikami na walnym zgromadzeniu.
 
-§ 2. Przepis § 1 nie dotyczy spółki publicznej. nej jest członek zarządu, członek rady nadzorczej, likwidator, pracownik spółki publicznej lub członek organów lub pracownik spółki lub spółdzielni zależnej od tej spółki, pełnomocnictwo może upoważniać do reprezentacji tylko na jednym walnym zgromadzeniu. Pełnomocnik ma obowiązek ujawnić akcjonariuszowi okoliczności wskazujące na istnienie bądź możliwość wystąpienia konfliktu interesów. Udzielenie dalszego pełnomocnictwa jest wyłączone.
+§ 2. Przepis § 1 nie dotyczy spółki publicznej.
+
+§ 3. Jeżeli pełnomocnikiem na walnym zgromadzeniu spółki publicznej jest członek zarządu, członek rady nadzorczej, likwidator, pracownik spółki publicznej lub członek organów lub pracownik spółki lub spółdzielni zależnej od tej spółki, pełnomocnictwo może upoważniać do reprezentacji tylko na jednym walnym zgromadzeniu. Pełnomocnik ma obowiązek ujawnić akcjonariuszowi okoliczności wskazujące na istnienie bądź możliwość wystąpienia konfliktu interesów. Udzielenie dalszego pełnomocnictwa jest wyłączone.
 
 § 4. Pełnomocnik, o którym mowa w § 3, głosuje zgodnie z instrukcjami udzielonymi przez akcjonariusza.”;
 
@@ -141,7 +224,9 @@ source: "isap-pdf"
 - **16)** w art. 428:
     - **a)** § 2–4 otrzymują brzmienie: „§ 2. Zarząd odmawia udzielenia informacji, jeżeli mogłoby to wyrządzić szkodę spółce, spółce z nią powiązanej albo spółce lub spółdzielni zależnej, w szczególności przez ujawnienie tajemnic technicznych, handlowych lub organizacyjnych przedsiębiorstwa.
 
-§ 3. Członek zarządu może odmówić udzielenia informacji, jeżeli udzielenie informacji mogłoby stanowić podstawę jego odpowiedzialności karnej, cywilnoprawnej bądź administracyjnej. dostępne na stronie internetowej spółki w miejscu wydzielonym na zadawanie pytań przez akcjonariuszy i udzielanie im odpowiedzi.”,
+§ 3. Członek zarządu może odmówić udzielenia informacji, jeżeli udzielenie informacji mogłoby stanowić podstawę jego odpowiedzialności karnej, cywilnoprawnej bądź administracyjnej.
+
+§ 4. Odpowiedź uznaje się za udzieloną, jeżeli odpowiednie informacje są dostępne na stronie internetowej spółki w miejscu wydzielonym na zadawanie pytań przez akcjonariuszy i udzielanie im odpowiedzi.”,
 
 - **b)** dodaje się § 5–7 w brzmieniu: „§ 5. W przypadku, o którym mowa w § 1, zarząd może udzielić informacji na piśmie poza walnym zgromadzeniem, jeżeli przemawiają za tym ważne powody. Zarząd jest obowiązany udzielić informacji nie później niż w terminie dwóch tygodni od dnia zgłoszenia żądania podczas walnego zgromadzenia.
 
@@ -158,6 +243,15 @@ source: "isap-pdf"
 - **5)** fałszywymi instrukcjami do głosowania na walnym zgromadzeniu spółki publicznej”.
 
 **Art. 2.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119 oraz z 2008 r. Nr 171, poz. 1056) wprowadza się następujące zmiany:
+
+- **1)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Na żądanie posiadacza rachunku papierów wartościowych podmiot prowadzący ten rachunek, zwany „wystawiającym”, wystawia mu na piśmie, oddzielnie dla każdego rodzaju papierów wartościowych, imienne świadectwo depozytowe, zwane dalej „świadectwem”. Na żądanie posiadacza rachunku w treści wystawianego świadectwa może zostać wskazana część lub wszystkie papiery wartościowe zapisane na tym rachunku.
+
+2. Świadectwo potwierdza legitymację do realizacji uprawnień wynikających z papierów wartościowych wskazanych w jego treści, które nie są lub nie mogą być realizowane wyłącznie na podstawie zapisów na rachunku papierów wartościowych, z wyłączeniem prawa uczestnictwa w walnym zgromadzeniu.”;
+
+- **2)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. Do zaświadczenia o prawie uczestnictwa w walnym zgromadzeniu, o którym mowa w art. 406 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, przepis art. 10 ust. 2 stosuje się odpowiednio.”;
+- **3)** w art. 50 w ust. 4:
+    - **a)** pkt 7 otrzymuje brzmienie: „7) tryb wystawiania przez Krajowy Depozyt świadectw oraz zaświadczeń, o których mowa w art. 406 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;”,
+    - **b)** po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) sposób i formę sporządzania, przekazywania oraz udostępniania wykazów, o których mowa w art. 406 § 6 i 7 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;”.
 
 **Art. 3.** Ustawa wchodzi w życie z dniem 3 sierpnia 2009 r., z wyjątkiem przepisów art. 1 pkt 17–19, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
 

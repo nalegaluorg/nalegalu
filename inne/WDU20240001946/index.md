@@ -8,7 +8,7 @@ pos: 1946
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej

@@ -8,7 +8,7 @@ pos: 1812
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
@@ -29,11 +29,19 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080) wprowadza się następujące zmiany:
 
+- **1)** w art. 193 w ust. 1c wyrazy „do dnia 31 grudnia 2025 r.” zastępuje się wyrazami „do dnia 31 grudnia 2026 r.”;
+- **2)** w art. 211a ust. 1 otrzymuje brzmienie: „1. W celu prowadzenia badań nad nową techniką organ właściwy do wydania pozwolenia może, na wniosek prowadzącego instalację, wydać pozwolenie zintegrowane, określając wariant funkcjonowania instalacji zawierający dopuszczalne wielkości emisji przekraczające graniczne wielkości emisyjne oraz zezwalając na odstąpienie od wymagań ochrony środowiska wynikających z najlepszych dostępnych technik, na łączny czas nie dłuższy niż 30 miesięcy.”.
+
 **Art. 2.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm. ) w art. 226a w ust. 1 wyrazy „do dnia 31 grudnia 2025 r.” zastępuje się wyrazami „do dnia 31 grudnia 2026 r.”.
 
 **Art. 3.** W ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2025 r. poz. 870) w art. 53 w ust. 4a skreśla się wyrazy „ , w wyniku kontroli przeprowadzonej na podstawie ust. 2 lub 2a,”.
 
 **Art. 4.** W ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288 i 1831 oraz z 2025 r. poz. 565) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 54;
+- **2)** art. 60 otrzymuje brzmienie: „Art. 60. 1. Przepisy art. 193 ust. 1c–1e ustawy zmienianej w art. 43 tracą moc z dniem 1 stycznia 2027 r.
+
+2. Przepisy art. 226a ustawy zmienianej w art. 45 tracą moc z dniem 1 stycznia 2027 r.”.
 
 **Art. 5.**
 

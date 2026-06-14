@@ -8,10 +8,10 @@ pos: 2567
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2567 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2567/text.pdf) |
 
-Poz. 2567 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 grudnia 2022 r.
-w sprawie wniosków składanych do Centralnej Informacji Krajowego Rejestru Sądowego za pośrednictwem systemu teleinformatycznego, a także odpisów, wyciągów, zaświadczeń, informacji, dokumentów oraz kopii dokumentów doręczanych wnioskodawcom za pośrednictwem tego systemu Na podstawie art. 6 pkt 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2022 r. poz. 1683 i 2436) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wniosków składanych do Centralnej Informacji Krajowego Rejestru Sądowego za pośrednictwem systemu teleinformatycznego, a także odpisów, wyciągów, zaświadczeń, informacji, dokumentów oraz kopii dokumentów doręczanych wnioskodawcom za pośrednictwem tego systemu Na podstawie art. 6 pkt 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2022 r. poz. 1683 i 2436) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki organizacyjno-techniczne dotyczące formy:
 a) wniosków oraz ich składania do Centralnej Informacji Krajowego Rejestru Sądowego, zwanej dalej „Centralną Informacją”, za pośrednictwem systemu teleinformatycznego,
 b) odpisów, wyciągów, zaświadczeń, informacji, dokumentów oraz kopii dokumentów z elektronicznego katalogu dokumentów spółek, doręczanych wnioskodawcom za pośrednictwem systemu teleinformatycznego;
@@ -41,7 +41,7 @@ b) odpisów, wyciągów, zaświadczeń, informacji, dokumentów oraz kopii dokum
 7) uprawnionym użytkowniku – rozumie się przez to osobę fizyczną, która posiada na koncie własnym lub na koncie innego właściciela konta uprawnienie do złożenia wniosków, o których mowa w § 1 pkt 1 lit. a, oraz do odbioru pism za pośrednictwem systemu teleinformatycznego;
 8) uwierzytelnieniu – rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną uprawnionego użytkownika w systemie teleinformatycznym;
 9) wniosku o ustalenie statusu podmiotu – rozumie się przez to wniosek o ustalenie statusu osoby fizycznej lub osoby prawnej w podmiotach wpisanych do Krajowego Rejestru Sądowego.
-Dziennik Ustaw – 2 – Poz. 2567 § 3. 1. Wniosek może zostać złożony jedynie za pośrednictwem konta w systemie teleinformatycznym przez uprawnionego użytkownika po uwierzytelnieniu.
+§ 3. 1. Wniosek może zostać złożony jedynie za pośrednictwem konta w systemie teleinformatycznym przez uprawnionego użytkownika po uwierzytelnieniu.
 2. Adres systemu teleinformatycznego jest dostępny na stronach podmiotowych Ministerstwa Sprawiedliwości w Biuletynie Informacji Publicznej.
 § 4. 1. Złożenie wniosku za pośrednictwem systemu teleinformatycznego wymaga łącznego wykonania następujących czynności:
 1) wypełnienia udostępnionego w systemie teleinformatycznym wniosku przeznaczonego do zgłoszenia danych żądania;

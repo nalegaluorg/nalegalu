@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 maja 1991 r. o związkach zawodowych.*
 
-Łącznie: **434** orzeczeń
-(pominięto 375 orzeczeń sądów rejonowych)
+Łącznie: **435** orzeczeń
+(pominięto 377 orzeczeń sądów rejonowych)
 
 ## art. 1 (21)
 
@@ -481,7 +481,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 maja 1991 r. o związkach zawodowych.
 - 2023-12-18 | SO | [VIII Pa 38/23](https://www.saos.org.pl/judgments/512970) | Uzasadnienie
 - 2015-11-10 | SO | [VII Pz 135/15](https://www.saos.org.pl/judgments/188269) | Uzasadnienie
 
-## art. 32 (210)
+## art. 32 (211)
 
 - 2006-10-23 | TK | [SK 42/04](https://www.saos.org.pl/judgments/107697) | Wyrok ★
 - 2005-06-28 | TK | [SK 56/04](https://www.saos.org.pl/judgments/107282) | Wyrok ★
@@ -632,6 +632,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 maja 1991 r. o związkach zawodowych.
 - 2023-08-31 | SO | [IV P 50/22](https://www.saos.org.pl/judgments/508760) | Wyrok
 - 2022-10-28 | SO | [VII Pa 81/20](https://www.saos.org.pl/judgments/478208) | Wyrok
 - 2021-12-07 | SO | [VI Pa 11/21](https://www.saos.org.pl/judgments/511422) | Wyrok
+- 2021-07-22 | SO | [VI P 383/19](https://www.saos.org.pl/judgments/546881) | Wyrok
 - 2021-05-21 | SO | [III Pa 4/21](https://www.saos.org.pl/judgments/440324) | Wyrok
 - 2021-01-26 | SO | [IV P 66/20](https://www.saos.org.pl/judgments/430848) | Wyrok
 - 2020-04-27 | SO | [V Pa 10/20](https://www.saos.org.pl/judgments/428370) | Wyrok

@@ -8,12 +8,12 @@ pos: 1692
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 17 czerwca 2004 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw
+# o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw
 
-*USTAWA dnia 17 czerwca 2004 o zmianie ustawy Kodeks cywilny oraz niektórych innych ustaw*
+*USTAWA z dnia 17 czerwca 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,17 +27,39 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041621692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1692/text.pdf) |
 
-**Art. 1.** W ustawie dnia 23 kwietnia 1964 Kodeks cywilny (Dz.U. 16, 93, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 417².** Jeżeli przez zgodne prawem wykonywanie władzy publicznej została wyrządzona szkoda na osobie, poszkodowany może żądać całkowitego lub częściowego jej naprawienia oraz zadośćuczynienia pieniężnego za doznaną krzywdę, gdy okoliczności, a zwłaszcza niezdolność poszkodowanego do pracy lub jego ciężkie położenie materialne, wskazują, że wymagają tego względy słuszności.”;
+- **1)** art. 417 otrzymuje brzmienie: „Art. 417 § 1. Za szkodę wyrządzoną przez niezgodne z prawem działanie lub zaniechanie przy wykonywaniu władzy publicznej ponosi odpowiedzialność Skarb Państwa lub jednostka samorządu terytorialnego lub inna osoba prawna wykonująca tę władzę z mocy prawa.
 
-**Art. 2.** W ustawie dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz.U. 2000 98, 1071, późn. zm. ) wprowadza się następujące zmiany:
+§ 2. Jeżeli wykonywanie zadań z zakresu władzy publicznej zlecono, na podstawie porozumienia, jednostce samorządu terytorialnego albo innej osobie prawnej, solidarną odpowiedzialność za wyrządzoną szkodę ponosi ich wykonawca oraz zlecająca je jednostka samorządu terytorialnego albo Skarb Państwa.”;
 
-**Art. 3.** W ustawie dnia 30 2002 Prawo o postępowaniu przed sądami administracyjnymi (Dz.U. 153, 1270) art. 287 otrzymuje brzmienie: „Art. 287. W przypadku gdy sąd w orzeczeniu:
+- **2)** po art. 417 dodaje się art. 417 i art. 417 w brzmieniu: „Art. 417 § 1. Jeżeli szkoda została wyrządzona przez wydanie aktu normatywnego, jej naprawienia można żądać po stwierdzeniu we właściwym postępowaniu niezgodności tego aktu z Konstytucją, ratyfikowaną umową międzynarodową lub ustawą.
 
-**Art. 4.** W ustawie dnia 29 1997 Ordynacja podatkowa (Dz.U. 137, 926, pÓźn. zm. ) w art. 261 § 1 otrzymuje brzmienie: „§ 1. Do odszkodowania stosuje się przepisy Kodeksu cywilnego.”.
+§ 2. Jeżeli szkoda została wyrządzona przez wydanie prawomocnego orzeczenia lub ostatecznej decyzji, jej naprawienia można żądać po stwierdzeniu we właściwym postępowaniu ich niezgodności z prawem. Odnosi się to również do wypadku, gdy prawomocne orzeczenie lub ostateczna decyzja zostały wydane na podstawie aktu normatywnego niezgodnego z Konstytucją, ratyfikowaną umową międzynarodową lub ustawą.
 
-**Art. 5.** Do zdarzeń stanów prawnych powstałych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 417, art. 419, art. 420, art. 420 , art. 420 art. 421 ustawy, o której mowa w art. 1 oraz art. 153, art. 160 art. 161 § 5 ustawy, o której mowa w art. 2, w brzmieniu obowiązującym do dnia wejścia w życie niniejszej ustawy. art. 5 niezgodny Konstytucją w zakresie, w jakim wyłącza skargę o stwierdzenie niezgodności prawem orzeczenia sądu wyrządzającego szkodę, które stało się prawomocne po dniu wejścia w życie Konstytucji RP wyrok TK (Dz.U. 2009 215, 1675.
+§ 3. Jeżeli szkoda została wyrządzona przez niewydanie orzeczenia lub decyzji, gdy obowiązek ich wydania przewiduje przepis prawa, jej naprawienia można żądać po stwierdzeniu we właściwym postępowaniu niezgodności z prawem niewydania orzeczenia lub decyzji, chyba że przepisy odrębne stanowią inaczej.
 
-**Art. 6.** Ustawa wchodzi w życie dniem 1 września 2004
+§ 4. Jeżeli szkoda została wyrządzona przez niewydanie aktu normatywnego, którego obowiązek wydania przewiduje przepis prawa, niezgodność z prawem niewydania tego aktu stwierdza sąd rozpoznający sprawę o naprawienie szkody.
+
+**Art. 417².** Jeżeli przez zgodne z prawem wykonywanie władzy publicznej została wyrządzona szkoda na osobie, poszkodowany może żądać całkowitego lub częściowego jej naprawienia oraz zadośćuczynienia pieniężnego za doznaną krzywdę, gdy okoliczności, a zwłaszcza niezdolność poszkodowanego do pracy lub jego ciężkie położenie materialne, wskazują, że wymagają tego względy słuszności.”;
+
+- **3)** uchyla się art. 419, art. 420, art. 420 i art. 420 ;
+- **4)** art. 421 otrzymuje brzmienie: „Art. 421. Przepisów art. 417, art. 417 i art. 417 nie stosuje się, jeżeli odpowiedzialność za szkodę wyrządzoną przy wykonywaniu władzy publicznej jest uregulowana w przepisach szczególnych.”.
+
+**Art. 2.** W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz.U. z 2000 r. Nr 98, poz. 1071, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 153;
+- **2)** uchyla się art. 160;
+- **3)** w art. 161 uchyla się § 5.
+
+**Art. 3.** W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz.U. Nr 153, poz. 1270) art. 287 otrzymuje brzmienie: „Art. 287. W przypadku gdy sąd w orzeczeniu:
+
+- **1)** uchyli zaskar¿oną decyzję, a organ rozpatrując sprawę ponownie umorzy postępowanie;
+- **2)** stwierdzi niewa¿ność aktu albo ustali przeszkodę prawną uniemo¿liwiającą stwierdzenie niewa¿ności aktu, stronie, która poniosła szkodę, słu¿y odszkodowanie od organu, który wydał decyzję.”.
+
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926, z pÓźn. zm. ) w art. 261 § 1 otrzymuje brzmienie: „§ 1. Do odszkodowania stosuje się przepisy Kodeksu cywilnego.”.
+
+**Art. 5.** Do zdarzeń i stanów prawnych powstałych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 417, art. 419, art. 420, art. 420 , art. 420 i art. 421 ustawy, o której mowa w art. 1 oraz art. 153, art. 160 i art. 161 § 5 ustawy, o której mowa w art. 2, w brzmieniu obowiązującym do dnia wejścia w życie niniejszej ustawy. art. 5 niezgodny z Konstytucją w zakresie, w jakim wyłącza skargę o stwierdzenie niezgodności z prawem orzeczenia sądu wyrządzającego szkodę, które stało się prawomocne po dniu wejścia w życie Konstytucji RP - wyrok TK (Dz.U. z 2009 r. Nr 215, poz. 1675.
+
+**Art. 6.** Ustawa wchodzi w życie z dniem 1 września 2004 r.
 

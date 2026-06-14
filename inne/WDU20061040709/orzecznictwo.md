@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego*
 
-Łącznie: **35** orzeczeń
+Łącznie: **36** orzeczeń
 
 ## art. 1 (2)
 
@@ -236,7 +236,8 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2006 r. o Służbie Kontrwywia
 - 2008-06-27 | TK | [K 52/07](https://www.saos.org.pl/judgments/108552) | Wyrok ★
 - 2007-12-17 | TK | [K 24/06](https://www.saos.org.pl/judgments/108071) | Postanowienie ★
 
-## (ogólnie) (1)
+## (ogólnie) (2)
 
+- 2025-10-09 | SO | [I ACa 1260/22](https://www.saos.org.pl/judgments/545133) | Wyrok
 - 2013-06-04 | SO | [I ACa 1525/12](https://www.saos.org.pl/judgments/16995) | Wyrok
 

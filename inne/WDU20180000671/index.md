@@ -8,10 +8,10 @@ pos: 671
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 kwietnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 671 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 29 marca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000671) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/671/text.pdf) |
 
-Poz. 671 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 29 marca 2018 r.
-w sprawie przeprowadzania egzaminu oficerskiego funkcjonariuszy Służby Ochrony Państwa Na podstawie art. 120 ust. 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138 i 650) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb powołania komisji do przeprowadzania egzaminu oficerskiego, zwanej dalej „komisją”, szczegółowy sposób i tryb przeprowadzania egzaminu oficerskiego, zwanego dalej „egzaminem”, skalę ocen oraz sposób oceny.
+w sprawie przeprowadzania egzaminu oficerskiego funkcjonariuszy Służby Ochrony Państwa Na podstawie art. 120 ust. 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138 i 650) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb powołania komisji do przeprowadzania egzaminu oficerskiego, zwanej dalej „komisją”, szczegółowy sposób i tryb przeprowadzania egzaminu oficerskiego, zwanego dalej „egzaminem”, skalę ocen oraz sposób oceny.
 § 2. 1. Komendant Służby Ochrony Państwa, zwany dalej „Komendantem SOP”, powołuje, w drodze decyzji, komisję i określa jej skład.
 2. Komisja składa się co najmniej z dwóch osób, w tym przewodniczącego komisji.
 3. Komendant SOP może wyznaczyć do składu komisji dodatkowo zastępcę przewodniczącego komisji lub sekretarza komisji.
@@ -41,7 +41,7 @@ w sprawie przeprowadzania egzaminu oficerskiego funkcjonariuszy Służby Ochrony
 4) od 55 do 60 punktów – ocena 5 (bardzo dobra).
 4. Warunkiem zdania egzaminu jest udzielenie poprawnych odpowiedzi co najmniej na 43 pytania i uzyskanie oceny co najmniej dostatecznej.
 5. Z przebiegu egzaminu komisja sporządza i podpisuje protokół.
-Dziennik Ustaw – 2 – Poz. 671 § 5. Komisja ogłasza wyniki egzaminu w terminie do 14 dni od dnia zakończenia egzaminu.
+§ 5. Komisja ogłasza wyniki egzaminu w terminie do 14 dni od dnia zakończenia egzaminu.
 § 6. 1. Funkcjonariusz, który uzyskał z egzaminu ocenę niedostateczną, może przystąpić do egzaminu poprawkowego tylko raz.
 2. Egzamin poprawkowy odbywa się w terminie nie krótszym niż 14 dni i nie dłuższym niż 30 dni od dnia ogłoszenia wyników egzaminu.
 3. Do egzaminu poprawkowego stosuje się przepisy § 2, § 3 ust. 2, § 4, 5, 7 i 8.

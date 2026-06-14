@@ -8,10 +8,10 @@ pos: 1772
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 września 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1772 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 23 września 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001772) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1772/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 23 września 2021 r.
-w sprawie postępowania kwalifikacyjnego o przyjęcie do służby w Państwowej Straży Pożarnej Na podstawie art. 28 ust. 14 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2020 r. poz. 1123, 1610 i 2112 oraz z 2021 r. poz. 464 i 1728) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie postępowania kwalifikacyjnego o przyjęcie do służby w Państwowej Straży Pożarnej Na podstawie art. 28 ust. 14 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2020 r. poz. 1123, 1610 i 2112 oraz z 2021 r. poz. 464 i 1728) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) zakres informacji o planowanym postępowaniu kwalifikacyjnym oraz sposób podawania ich do wiadomości publicznej;
 2) organizację i sposób przeprowadzania postępowania kwalifikacyjnego;
 3) dokumenty wymagane od kandydata do służby i ich wzory;
@@ -85,14 +85,14 @@ w sprawie postępowania kwalifikacyjnego o przyjęcie do służby w Państwowej 
 2) bieg po kopercie;
 3) próbę wydolnościową.
 3. Test sprawności fizycznej dla kandydatów na pozostałe stanowiska służbowe obejmuje:
-1) w przypadku mężczyzn próby, o których mowa w ust. 2;
+1) w przypadku mężczyzn – próby, o których mowa w ust. 2;
 2) w przypadku kobiet:
 a) rzut piłką lekarską,
 b) bieg po kopercie,
 c) próbę wydolnościową.
 4. Kandydat może podejść do każdej z prób dwukrotnie. Podejście drugie może nastąpić wyłącznie w dniu, w którym przeprowadzono pierwsze podejście do danej próby. Do oceny ogólnej zostaje wybrany korzystniejszy wynik podejścia uzyskany przez kandydata.
 § 11. 1. Wynik końcowy testu sprawności fizycznej oblicza się jako średnią arytmetyczną punktów uzyskanych w ramach każdej z prób. Wynik końcowy podaje się z zaokrągleniem do dwóch miejsc po przecinku.
-2. Test sprawności fizycznej uznaje się za zaliczony w przypadku zaliczenia każdej z prób oraz osiągnięcia wyniku końcowego dla mężczyzn co najmniej 50 punktów, a dla kobiet co najmniej 46 punktów.
+2. Test sprawności fizycznej uznaje się za zaliczony w przypadku zaliczenia każdej z prób oraz osiągnięcia wyniku końcowego dla mężczyzn – co najmniej 50 punktów, a dla kobiet – co najmniej 46 punktów.
 3. W przypadku gdy liczba kandydatów, którzy zaliczyli test sprawności fizycznej, jest mniejsza od liczby stanowisk, na które jest prowadzony nabór, można obniżyć minimalny do osiągnięcia wynik końcowy testu sprawności fizycznej do 41 punktów.
 4. Wyniki, o których mowa w § 5 ust. 2, mogą być wykorzystane w trakcie innego postępowania kwalifikacyjnego w tej samej lub innej jednostce organizacyjnej Państwowej Straży Pożarnej, o ile zaliczony test sprawności fizycznej wykazany w zaświadczeniu odpowiada stanowisku, na które jest prowadzone postępowanie kwalifikacyjne.
 § 12. Podczas rozmowy kwalifikacyjnej ocenie podlegają:
@@ -136,43 +136,43 @@ b) zasobu wiadomości i umiejętności pozwalających na wywiązywanie się z ob
 2. W przypadku gdy komisja lekarska lub odwoławcza komisja lekarska orzeknie, że kandydat jest niezdolny do służby w Państwowej Straży Pożarnej, na badania lekarskie kieruje się kolejnego kandydata z najwyższą łączną liczbą punktów uzyskanych w etapach postępowania kwalifikacyjnego, o których mowa w § 7 ust. 2, § 12, § 14 i § 15.
 § 20. Do postępowań kwalifikacyjnych rozpoczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 21. Rozporządzenie wchodzi w życie z dniem 1 października 2021 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński WZÓR Ministra Spraw Wewnętrznych i Administracji z dnia 23 września 2021 r. (poz. ….) Załącznik nr 1 WZÓR …………………..……………… …………………..……………… ……………………..…………… PODANIE O PRZYJĘCIE DO SŁUŻBY W PAŃSTWOWEJ STRAŻY POŻARNEJ Zwracam się o przyjęcie mnie do służby w Państwowej Straży Pożarnej w ……………….………… ………………………………………………………………………………………...………………………...
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 września 2021 r. (poz. ….) Załącznik nr 1 WZÓR WZÓR …………………..……………… …………………..……………… ……………………..…………… PODANIE O PRZYJĘCIE DO SŁUŻBY W PAŃSTWOWEJ STRAŻY POŻARNEJ Zwracam się o przyjęcie mnie do służby w Państwowej Straży Pożarnej w ……………….………… ………………………………………………………………………………………...………………………...
 Podanie motywuję tym, że …………….……………...………………………………………………..
 …………………………………………………………………...……………………………………………...
 
-## Załącznik nr 2 — WZÓR ZAŚWIADCZENIE O UDZIALE W DZIAŁANIACH RATOWNICZO-GAŚNICZYCH LUB W ĆWICZENIACH ORGANIZOWANYCH PRZEZ JEDNOSTKI ORGANIZACYJNE PAŃSTWOWEJ STRAŻY POŻARNEJ Zaświadcza się, że Pan/Pani*………….………………………………………………..
+## Załącznik nr 2 — WZÓR WZÓR ZAŚWIADCZENIE O UDZIALE W DZIAŁANIACH RATOWNICZO-GAŚNICZYCH LUB W ĆWICZENIACH ORGANIZOWANYCH PRZEZ JEDNOSTKI ORGANIZACYJNE PAŃSTWOWEJ STRAŻY POŻARNEJ Zaświadcza się, że Pan/Pani*………….………………………………………………..
 
 nr PESEL ………………., …………………………...………………………………..., w okresie jednego roku poprzedzającego datę publikacji ogłoszenia (terminu składania dokumentów, o których mowa w § 5 ust. 4 pkt 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 września 2021 r. w sprawie postępowania kwalifikacyjnego o przyjęcie do służby w Państwowej Straży Pożarnej (Dz. U.
 poz. 1772)), tj. w okresie od dnia …………………. do dnia ……..……….. brał/brała* udział:
-a) w działaniach ratowniczo-gaśniczych ….... razy,
-b) w ćwiczeniach organizowanych przez jednostkę organizacyjną Państwowej Straży Pożarnej ….... razy.
-Objaśnienia: WZÓR Załącznik nr 3 SYSTEM PUNKTOWY STOSOWANY DO OCENY PREFERENCJI Z TYTUŁU POSIADANEGO PRZEZ KANDYDATA WYKSZTAŁCENIA, WYSZKOLENIA LUB POSIADANYCH UMIEJĘTNOŚCI Preferencje, za które obligatoryjnie są przyznawane punkty:
-1) szkolenie podstawowe w zawodzie strażak 20 punktów;
-2) posiadanie tytułu zawodowego technik pożarnictwa 25 punktów;
-3) posiadanie tytułu zawodowego inżynier pożarnictwa 30 punktów;
-4) posiadanie tytułu zawodowego inżynier i dyplomu ukończenia w Szkole Głównej Służby Pożarniczej studiów w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego, wydanego do dnia 30 września 2019 r., lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego, wydanego po dniu 30 września 2019 r. 15 punktów;
-5) uzyskanie kwalifikacji ratownika, o których mowa w art. 13 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2020 r. poz. 882, 2112 i 2401 oraz z 2021 r. poz. 159, 1559 i 1641) 5 punktów;
-6) uprawnienia do wykonywania zawodu ratownika medycznego, o których mowa w art. 10 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym 15 punktów;
-7) wyszkolenie pożarnicze w ochotniczej straży pożarnej ukończone SP 5 punktów;
-8) wyszkolenie pożarnicze w ochotniczej straży pożarnej ukończone SP+RT 10 punktów;
-9) wyszkolenie pożarnicze w ochotniczej straży pożarnej ukończone SP+RT+RW 15 punktów;
-10) wyszkolenie pożarnicze w ochotniczej straży pożarnej ukończone SP według programu z dnia 17 listopada 2015 r. 15 punktów;
-11) ukończone liceum ogólnokształcące lub technikum w klasie, w której były nauczane przedmioty dotyczące funkcjonowania ochrony przeciwpożarowej, dla których zostały opracowane w szkole programy nauczania włączone do szkolnego zestawu programów nauczania 5 punktów;
+a) w działaniach ratowniczo-gaśniczych – ….... razy,
+b) w ćwiczeniach organizowanych przez jednostkę organizacyjną Państwowej Straży Pożarnej – ….... razy.
+Objaśnienia: Załącznik nr 3 SYSTEM PUNKTOWY STOSOWANY DO OCENY PREFERENCJI SYSTEM Z TYTUŁU PUNKTOWY POSIADANEGO STOSOWANY DO PRZEZ OCENY KANDYDATA PREFERENCJI Z WYKSZTAŁCENIA, TYTUŁU POSIADANEGO PRZEZ KANDYDATA WYSZKOLENIA WYKSZTAŁCENIA, LUB WYSZKOLENIA POSIADANYCH LUB UMIEJĘTNOŚCI POSIADANYCH UMIEJĘTNOŚCI Preferencje, za które obligatoryjnie są przyznawane punkty:
+1) szkolenie podstawowe w zawodzie strażak – 20 punktów;
+2) posiadanie tytułu zawodowego technik pożarnictwa – 25 punktów;
+3) posiadanie tytułu zawodowego inżynier pożarnictwa – 30 punktów;
+4) posiadanie tytułu zawodowego inżynier i dyplomu ukończenia w Szkole Głównej Służby Pożarniczej studiów w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego, wydanego do dnia 30 września 2019 r., lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego, wydanego po dniu 30 września 2019 r. – 15 punktów;
+5) uzyskanie kwalifikacji ratownika, o których mowa w art. 13 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2020 r. poz. 882, 2112 i 2401 oraz z 2021 r. poz. 159, 1559 i 1641) – 5 punktów;
+6) uprawnienia do wykonywania zawodu ratownika medycznego, o których mowa w art. 10 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym – 15 punktów;
+7) wyszkolenie pożarnicze w ochotniczej straży pożarnej – ukończone SP – 5 punktów;
+8) wyszkolenie pożarnicze w ochotniczej straży pożarnej – ukończone SP+RT – 10 punktów;
+9) wyszkolenie pożarnicze w ochotniczej straży pożarnej – ukończone SP+RT+RW – 15 punktów;
+10) wyszkolenie pożarnicze w ochotniczej straży pożarnej – ukończone SP według programu z dnia 17 listopada 2015 r. – 15 punktów;
+11) ukończone liceum ogólnokształcące lub technikum w klasie, w której były nauczane przedmioty dotyczące funkcjonowania ochrony przeciwpożarowej, dla których zostały opracowane w szkole programy nauczania włączone do szkolnego zestawu programów nauczania – 5 punktów;
 Preferencje, za które są przyznawane punkty, o ile preferencje znajdą się w ogłoszeniu:
-12) wykształcenie wyższe o kierunku przydatnym w Państwowej Straży Pożarnej na danym stanowisku, na które jest prowadzone postępowanie kwalifikacyjne, w codziennym rozkładzie czasu służby 15 punktów;
-13) prawo jazdy kategorii C 5 punktów;
-14) prawo jazdy kategorii C+E 10 punktów;
-15) prawo jazdy kategorii D 5 punktów;
-16) inne kwalifikacje lub uprawnienia wymagane na danym stanowisku, na które jest prowadzone postępowanie kwalifikacyjne w sumie do 15 punktów, nie więcej niż 5 punktów za jedno uprawnienie;
-17) za zatrudnienie powyżej 12 miesięcy w służbie cywilnej lub na stanowisku pomocniczym, lub stanowisku obsługi w jednostce organizacyjnej Państwowej Straży Pożarnej, przy realizowaniu zadań zbliżonych do zadań na stanowisku, na które jest prowadzone postępowanie kwalifikacyjne 15 punktów.
-SYSTEM PUNKTOWY STOSOWANY DO OCENY PREFERENCJI Z TYTUŁU POSIADANEGO PRZEZ KANDYDATA WYKSZTAŁCENIA, WYSZKOLENIA LUB POSIADANYCH UMIEJĘTNOŚCI Sposób liczenia punktów:
+12) wykształcenie wyższe o kierunku przydatnym w Państwowej Straży Pożarnej na danym stanowisku, na które jest prowadzone postępowanie kwalifikacyjne, w codziennym rozkładzie czasu służby – 15 punktów;
+13) prawo jazdy kategorii C – 5 punktów;
+14) prawo jazdy kategorii C+E – 10 punktów;
+15) prawo jazdy kategorii D – 5 punktów;
+16) inne kwalifikacje lub uprawnienia wymagane na danym stanowisku, na które jest prowadzone postępowanie kwalifikacyjne – w sumie do 15 punktów, nie więcej niż 5 punktów za jedno uprawnienie;
+17) za zatrudnienie powyżej 12 miesięcy w służbie cywilnej lub na stanowisku pomocniczym, lub stanowisku obsługi w jednostce organizacyjnej Państwowej Straży Pożarnej, przy realizowaniu zadań zbliżonych do zadań na stanowisku, na które jest prowadzone postępowanie kwalifikacyjne – 15 punktów.
+Sposób liczenia punktów:
 1) za kwalifikacje wymienione w pkt 1–3 przyznaje się punkty jedynie z jednego tytułu, z wyższą wartością punktową;
 2) za kwalifikacje wymienione w pkt 5 i 6 przyznaje się punkty jedynie z jednego tytułu, z wyższą wartością punktową;
 3) za kwalifikacje wymienione w pkt 7–10 przyznaje się punkty jedynie z jednego tytułu, z wyższą wartością punktową;
-4) za kwalifikacje wymienione w pkt 7–10 przyznaje się punkty jedynie w przypadku potwierdzenia przez właściwego dla działalności ochotniczej straży pożarnej komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej aktywnego członkostwa w ochotniczej straży pożarnej przez udokumentowany udział w co najmniej dwóch zdarzeniach w działaniach ratowniczo-gaśniczych lub w ćwiczeniach organizowanych przez jednostkę organizacyjną Państwowej Straży Pożarnej (w okresie jednego roku poprzedzającego datę publikacji ogłoszenia, tj. terminu składania dokumentów, o których mowa w § 5 ust. 4 pkt 3 rozporządzenia);
+4) za kwalifikacje wymienione w pkt 7–10 przyznaje się punkty jedynie w przypadku potwierdzenia przez właściwego dla działalności ochotniczej straży pożarnej komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej aktywnego członkostwa w ochotniczej straży pożarnej przez udokumentowany udział w co najmniej dwóch zdarzeniach – w działaniach ratowniczo-gaśniczych lub w ćwiczeniach organizowanych przez jednostkę organizacyjną Państwowej Straży Pożarnej (w okresie jednego roku poprzedzającego datę publikacji ogłoszenia, tj. terminu składania dokumentów, o których mowa w § 5 ust. 4 pkt 3 rozporządzenia);
 5) w przypadku posiadania przez kandydata kwalifikacji wymienionych w pkt 13–15 punkty sumuje się, z zastrzeżeniem że nie można łączyć pkt 13 i 14.
 Objaśnienia użytych skrótów:
-1) SP szkolenie podstawowe strażaków-ratowników ochotniczej straży pożarnej;
-2) RT szkolenie z zakresu ratownictwa technicznego dla strażaków-ratowników ochotniczej straży pożarnej;
-3) RW szkolenie strażaków-ratowników ochotniczej straży pożarnej z zakresu działań przeciwpowodziowych oraz ratownictwa na wodach.
+1) SP – szkolenie podstawowe strażaków-ratowników ochotniczej straży pożarnej;
+2) RT – szkolenie z zakresu ratownictwa technicznego dla strażaków-ratowników ochotniczej straży pożarnej;
+3) RW – szkolenie strażaków-ratowników ochotniczej straży pożarnej z zakresu działań przeciwpowodziowych oraz ratownictwa na wodach.
 

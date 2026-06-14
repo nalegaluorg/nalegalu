@@ -8,10 +8,10 @@ pos: 1279
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 sierpnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1279 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 sierpnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001279) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1279/text.pdf) |
 
-Poz. 1279 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 sierpnia 2024 r.
-w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej Na podstawie art. 8a ust. 10 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 8a ust. 9 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
+w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej Na podstawie art. 8a ust. 10 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 8a ust. 9 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2. 1. Ubezpieczeniem OC jest objęta odpowiedzialność cywilna upoważnionej uznanej organizacji za szkody wyrządzone działaniem lub zaniechaniem ubezpieczonego, które miało miejsce w okresie ubezpieczenia, w związku z prowadzeniem działalności w zakresie upoważnienia, o którym mowa w art. 8a ust. 7 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanego dalej „upoważnieniem”.
 2. Ubezpieczenie OC nie obejmuje szkód:
 1) wyrządzonych przez ubezpieczonego po cofnięciu upoważnienia, chyba że szkoda jest następstwem prowadzenia działalności w zakresie upoważnienia przed jego cofnięciem;

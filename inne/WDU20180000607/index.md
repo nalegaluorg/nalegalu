@@ -8,10 +8,10 @@ pos: 607
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 607 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 12 marca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/607/text.pdf) |
 
-Poz. 607 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 12 marca 2018 r.
 w sprawie szczegółowych warunków i sposobu uznawania przepisów technicznych w zakresie budowy statków i stałych platform wiertniczych, wydanych przez uznane organizacje, za spełniające wymagania bezpieczeństwa Na podstawie art. 11 ust. 3 pkt 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r.
-poz. 181) zarządza się, co następuje: § 1. Wniosek o uznanie przepisów technicznych w zakresie budowy statków lub stałych platform wiertnicznych oraz ich urządzeń i wyposażenia, zwanych dalej „przepisami technicznymi”, za spełniające wymagania bezpieczeństwa może złożyć uznana organizacja w rozumieniu art. 5 pkt 17 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwana dalej „organizacją”.
+poz. 181) zarządza się, co następuje:
+§ 1. Wniosek o uznanie przepisów technicznych w zakresie budowy statków lub stałych platform wiertnicznych oraz ich urządzeń i wyposażenia, zwanych dalej „przepisami technicznymi”, za spełniające wymagania bezpieczeństwa może złożyć uznana organizacja w rozumieniu art. 5 pkt 17 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwana dalej „organizacją”.
 § 2. Przepisy techniczne mogą zostać uznane za spełniające wymagania bezpieczeństwa pod warunkiem, że organizacja:
 1) posiada doświadczenie w zakresie oceny projektów i nadzoru nad budową, przebudową lub eksploatacją statków lub stałych platform wiertniczych;
 2) posiada i stosuje własne przepisy techniczne, których jakość odpowiada uznanym międzynarodowo normom;

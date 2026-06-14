@@ -8,7 +8,7 @@ pos: 1131
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dowodach osobistych
@@ -30,6 +30,17 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** osoby uprawnione lub obowiązane do posiadania dowodu osobistego;
+- **2)** zakres danych zawartych w dowodzie osobistym;
+- **2a)** zasady funkcjonowania warstwy elektronicznej dowodu osobistego;
+- **3)** (uchylony)
+- **4)** zasady wydawania dowodu osobistego;
+- **5)** zasady wymiany i unieważniania dowodu osobistego;
+- **6)** zakres danych gromadzonych w Rejestrze Dowodów Osobistych oraz zasady prowadzenia tego rejestru;
+- **7)** zasady postępowania z dokumentacją związaną z dowodami osobistymi;
+- **8)** zasady udostępniania danych gromadzonych w Rejestrze Dowodów Osobistych;
+- **9)** kompetencje ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw informatyzacji, wojewodów, organów gmin oraz konsulów Rzeczypospolitej Polskiej w zakresie spraw, o których mowa w pkt 4–8.
 
 **Art. 2.**
 
@@ -268,6 +279,13 @@ source: "isap-pdf"
 
 **Art. 12j.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
 
+- **1)** wymagania techniczne dla warstwy elektronicznej dowodu osobistego,
+- **2)** sposób używania certyfikatów, o których mowa w art. 12a ust. 1 pkt 2–4,
+- **3)** sposób przekazywania i używania kodu umożliwiającego odblokowanie certyfikatu identyfikacji i uwierzytelnienia oraz certyfikatu podpisu osobistego,
+- **4)** sposób i tryb zawieszania, cofania zawieszenia oraz unieważniania certyfikatów, o których mowa w art. 12a ust. 1 pkt 2–4,
+- **5)** (uchylony)
+- **6)** wzór zaświadczenia potwierdzającego zawieszenie i cofnięcie zawieszenia certyfikatów, o których mowa w art. 12a ust. 1 pkt 2–4 – kierując się potrzebą zapewnienia bezpieczeństwa funkcjonowania dowodów osobistych, zapewnienia ochrony interesów posiadaczy dowodów osobistych oraz uwzględniając konieczność zapewnienia bezpieczeństwa obrotu prawnego, a także zapewnienia prawidłowości dokonywania zgłoszeń zawieszenia i cofania zawieszenia certyfikatów, o których mowa w art. 12a ust. 1 pkt 2–4.
+
 **Art. 13.** (uchylony)
 
 **Art. 14.** (uchylony)
@@ -343,6 +361,24 @@ source: "isap-pdf"
 **Art. 27.** Złożenie w siedzibie organu gminy wniosku o wydanie dowodu osobistego osobie nieposiadającej zdolności do czynności prawnych lub posiadającej ograniczoną zdolność do czynności prawnych wymaga jej obecności przy składaniu wniosku; wyjątek stanowią osoby, które nie ukończyły 5 roku życia.
 
 **Art. 28.** Wniosek o wydanie dowodu osobistego zawiera:
+
+- **1)** numer PESEL;
+- **2)** nazwisko i imię (imiona);
+- **3)** nazwisko rodowe;
+- **4)** imię ojca;
+- **5)** imię i nazwisko rodowe matki;
+- **6)** datę i miejsce urodzenia;
+- **7)** płeć;
+- **8)** obywatelstwo;
+- **9)** powód ubiegania się o wydanie dowodu osobistego;
+- **10)** adres do korespondencji, opcjonalnie adres poczty elektronicznej lub numer telefonu;
+- **11)** podpis wnioskodawcy złożony w sposób, o którym mowa w art. 24 ust. 3, albo adnotację pracownika organu gminy o przyczynie braku podpisu, a w przypadku wniosku składanego w sposób, o którym mowa w art. 24 ust. 2a – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty i podpis złożony w sposób, o którym mowa w art. 24 ust. 3, jeżeli jest wymagany;
+- **11a)** odwzorowanie własnoręcznego podpisu osoby ubiegającej się o wydanie dowodu osobistego, która ukończyła 12. rok życia, albo adnotację pracownika organu gminy o przyczynie braku podpisu;
+- **11b)** nazwisko i imię (imiona), rodzaj, serię i numer dokumentu tożsamości rodzica, opiekuna lub kuratora;
+- **12)** oświadczenie o prawdziwości danych, o których mowa w pkt 1–9, oraz klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”;
+- **13)** informację o wyrażeniu zgody na zamieszczenie w warstwie elektronicznej dowodu osobistego certyfikatu podpisu osobistego;
+- **14)** informację o wyrażeniu zgody na przekazanie danych do rejestru danych kontaktowych osób fizycznych;
+- **15)** informację o pobraniu odcisków palców.
 
 **Art. 28a.** Oświadczenie, o którym mowa w art. 28 pkt 12, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Klauzula, o której mowa w art. 28 pkt 12, zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -692,6 +728,22 @@ source: "isap-pdf"
 
 **Art. 54.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
 
+- **1)** wzór dowodu osobistego,
+- **2)** sposób oznaczania w dowodzie osobistym informacji o braku podpisów,
+- **3)** sposób pobierania odcisków palców,
+- **4)** (uchylony)
+- **5)** szczegółowe wymogi techniczne dotyczące fotografii załączanej do wniosku,
+- **6)** szczegółowe wymogi dotyczące załączników do wniosku składanego w sposób, o którym mowa w art. 24 ust. 2a,
+- **7)** sposób postępowania w sprawach utraty, uszkodzenia, zgłoszenia podejrzenia nieuprawnionego wykorzystania danych osobowych, o którym mowa w art. 48a ust. 1, unieważnienia i zwrotu dowodu osobistego,
+- **8)** sposób postępowania przy odbiorze dowodu osobistego,
+- **9)** (uchylony)
+- **10)** wzór zaświadczenia o utracie lub uszkodzeniu dowodu osobistego,
+- **11)** wzór formularza zgłoszenia utraty lub uszkodzenia dowodu osobistego,
+- **12)** (uchylony)
+- **13)** sposób fizycznego anulowania unieważnionego dowodu osobistego,
+- **14)** tryb przekazywania przez konsula Rzeczypospolitej Polskiej do organu gminy, który wydał dowód osobisty, zawiadomienia o konieczności unieważnienia dowodu osobistego z powodu jego utraty lub uszkodzenia albo przekazania przez osobę trzecią znalezionego cudzego dowodu osobistego,
+- **15)** wzór zawiadomienia o konieczności unieważnienia dowodu osobistego – uwzględniając konieczność zapewnienia sprawności, prawidłowości i bezpieczeństwa wydawania, wymiany i unieważniania dowodów osobistych przy wykorzystaniu danych, o których mowa w ustawie, oraz mając na uwadze konieczność zapewnienia szerokiej dostępności wzorów dokumentów przy zachowaniu odpowiedniego poziomu bezpieczeństwa.
+
 #### Rozdział 6 Rejestr Dowodów Osobistych
 
 **Art. 55.**
@@ -792,6 +844,10 @@ source: "isap-pdf"
 **Art. 58.** (uchylony)
 
 **Art. 59.** Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** sposób prowadzenia Rejestru Dowodów Osobistych,
+- **2)** sposób przetwarzania danych biometrycznych w zakresie odcisków palców, gromadzonych w Rejestrze Dowodów Osobistych,
+- **3)** sposób i zakres danych przekazywanych z Rejestru Dowodów Osobistych do rejestru PESEL, Krajowego Systemu Informacyjnego Policji i Systemu Informacyjnego Schengen – uwzględniając konieczność zapewnienia bezpieczeństwa danych wprowadzanych do rejestrów za pomocą obsługujących je systemów teleinformatycznych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, weryfikacji przekazywanych danych i zapewnienia właściwego poziomu technicznego systemów służących do przesyłania tych danych oraz konieczność zachowania danych archiwalnych.
 
 #### Rozdział 7 Postępowanie z dokumentacją związaną z dowodami osobistymi
 
@@ -1023,9 +1079,18 @@ source: "isap-pdf"
 
 **Art. 78.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:
 
+- **1)** wzór wniosku o udostępnienie danych w trybie jednostkowym,
+- **2)** wzór wniosku o udostępnianie danych w trybie pełnej teletransmisji danych,
+- **3)** wzór wniosku o udostępnianie danych w trybie ograniczonej teletransmisji danych,
+- **4)** wzór wniosku o udostępnienie dokumentacji związanej z dowodami osobistymi – uwzględniając potrzebę zapewnienia sprawności i bezpieczeństwa udostępniania danych oraz dokumentacji związanej z dowodami osobistymi.
+
 #### Rozdział 9 Przepisy karne
 
 **Art. 79.** Kto:
+
+- **1)** uchyla się od obowiązku posiadania lub wymiany dowodu osobistego,
+- **2)** zatrzymuje bez podstawy prawnej cudzy dowód osobisty,
+- **3)** nie zwraca dowodu osobistego w razie utraty obywatelstwa polskiego, podlega karze ograniczenia wolności albo karze grzywny.
 
 **Art. 80.** Orzekanie w sprawach określonych w art. 79 odbywa się na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 

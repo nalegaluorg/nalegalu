@@ -8,10 +8,10 @@ pos: 1903
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1903 ROZPORZĄDZENIE MINISTRA SPRAW ZAGRANICZNYCH z dnia 18 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1903/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW ZAGRANICZNYCH z dnia 18 grudnia 2024 r.
-w sprawie wykazu miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej Na podstawie art. 58 ust. 4 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840) zarządza się, co następuje: § 1. 1. Ustala się wykaz miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej.
+w sprawie wykazu miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej Na podstawie art. 58 ust. 4 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840) zarządza się, co następuje:
+§ 1. 1. Ustala się wykaz miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej.
 2. Wykaz jest określony w załączniku do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
 Minister Spraw Zagranicznych: R. Sikorski WYKAZ MIEJSC O KLIMACIE SZCZEGÓLNIE SZKODLIWYM DLA ZDROWIA PRZEBYWAJĄCYCH W NICH NA PLACÓWKACH ZAGRANICZNYCH CZŁONKÓW SŁUŻBY ZAGRANICZNEJ I. Miejsca położone na terytorium:

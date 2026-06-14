@@ -8,10 +8,10 @@ pos: 1777
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 11777777 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ dnia 31 sierpnia 2023 sprawie rejestracji pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego Na podstawie art. 76 ust. 2a dnia 20 czerwca 1997 Prawo ruchu drogowym (Dz. U. 2023 poz. 1047, późn. zm. ) zarządza się, co następuje: Rozporządzenie określa warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, a także jednostki organizacyjne właściwe tych sprawach.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11777777 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 31 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,35 +25,56 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1777/text.pdf) |
 
-2. Rejestracji podlegają:
-1) pojazdy samochodowe, ciągniki rolnicze, motorowery i przyczepy, wyjątkiem przyczep motocyklowych i specjalnych przeznaczonych ciągnięcia przez ciągniki rolnicze lub pojazdy wolnobieżne, zwane dalej „pojazdami”, używane przez Służbę Kontrwywiadu Wojskowego i Służbę Wywiadu Wojskowego, zwane dalej „SKW i SWW”;
-pojazdy niezarejestrowane przyjęte badań albo testowania.
-3. Rejestracji pojazdu dokonuje się na podstawie:
-1) wniosku kierownika jednostki organizacyjnej bezpośrednio użytkującej pojazd, którego dołącza się dowód własności pojazdu;
-dokumentów, których mowa art. 72 dnia 20 czerwca 1997 Prawo ruchu drogowym.
-2. W przypadku rejestracji pojazdu, który nie posiada nadanych i umieszczonych fabrycznie przez producenta lub trybie określonym odrębnymi przepisami cech identyfikacyjnych albo nie posiada tabliczki znamionowej, dokumentów, których mowa ust. 1, dołącza się zaświadczenie potwierdzające nadanie i umieszczenie cech identyfikacyjnych lub wykonanie tabliczki znamionowej zastępczej.
-3. Rejestracji pojazdu, który był zarejestrowany poza SKW i SWW, dokonuje się po sprawdzeniu dokumentów przedstawionych rejestracji zgodnie przepisami wydanymi na podstawie art. 76 ust. 1 pkt 3 dnia 20 czerwca 1997 Prawo ruchu drogowym.
-4. Organami właściwymi sprawie rejestracji pojazdów są:
-1) Szef Służby Kontrwywiadu Wojskowego, zwany dalej „Szefem SKW” odniesieniu pojazdów SKW;
-niku rozporządzenia;
-wyróżnik województwa i powiatu wydaje się dowód rejestracyjny na podstawie przepisów wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d dnia 20 czerwca 1997 Prawo ruchu drogowym.
-6. Numer na tablicach rejestracyjnych pojazdu składa się z:
-1) wyróżnika służby i jednej litery ze zbioru następujących 25 liter: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, W, X, Y, Z oraz wyróżnika pojazdu albo wyróżnika województwa, wyróżnika powiatu i wyróżnika pojazdu, które są określone przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d dnia 20 czerwca 1997 Prawo ruchu drogowym.
+w sprawie rejestracji pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego Na podstawie art. 76 ust. 2a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, a także jednostki organizacyjne właściwe w tych sprawach.
+§ 2. Rejestracji podlegają:
+1) pojazdy samochodowe, ciągniki rolnicze, motorowery i przyczepy, z wyjątkiem przyczep motocyklowych i specjalnych przeznaczonych do ciągnięcia przez ciągniki rolnicze lub pojazdy wolnobieżne, zwane dalej „pojazdami”, używane przez Służbę Kontrwywiadu Wojskowego i Służbę Wywiadu Wojskowego, zwane dalej „SKW i SWW”;
+2) pojazdy niezarejestrowane przyjęte do badań albo testowania.
+§ 3. 1. Rejestracji pojazdu dokonuje się na podstawie:
+1) wniosku kierownika jednostki organizacyjnej bezpośrednio użytkującej pojazd, do którego dołącza się dowód własności pojazdu;
+2) dokumentów, o których mowa w art. 72 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+2. W przypadku rejestracji pojazdu, który nie posiada nadanych i umieszczonych fabrycznie przez producenta lub w trybie określonym odrębnymi przepisami cech identyfikacyjnych albo nie posiada tabliczki znamionowej, do dokumentów, o których mowa w ust. 1, dołącza się zaświadczenie potwierdzające nadanie i umieszczenie cech identyfikacyjnych lub wykonanie tabliczki znamionowej zastępczej.
+3. Rejestracji pojazdu, który był zarejestrowany poza SKW i SWW, dokonuje się po sprawdzeniu dokumentów przedstawionych do rejestracji zgodnie z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+§ 4. Organami właściwymi w sprawie rejestracji pojazdów są:
+1) Szef Służby Kontrwywiadu Wojskowego, zwany dalej „Szefem SKW” – w odniesieniu do pojazdów SKW;
+2) Szef Służby Wywiadu Wojskowego, zwany dalej „Szefem SWW” – w odniesieniu do pojazdów SWW.
+§ 5. 1. Organ dokonujący rejestracji, po wpisaniu pojazdu do ewidencji, wydaje:
+1) dowód rejestracyjny;
+2) tablice rejestracyjne, wraz ze znakiem legalizacyjnym.
+2. W przypadku rejestracji pojazdu wyposażonego w tablicę rejestracyjną zawierającą:
+1) wyróżnik służby, o którym mowa w § 6 ust. 2 – wydaje się dowód rejestracyjny, którego wzór jest określony w załączniku do rozporządzenia;
+2) wyróżnik województwa i powiatu – wydaje się dowód rejestracyjny na podstawie przepisów wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+§ 6. 1. Numer na tablicach rejestracyjnych pojazdu składa się z:
+1) wyróżnika służby i jednej litery ze zbioru następujących 25 liter: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, W, X, Y, Z oraz wyróżnika pojazdu albo
+2) wyróżnika województwa, wyróżnika powiatu i wyróżnika pojazdu, które są określone w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 2. Wyróżnik dla służb SKW i SWW stanowią litery HM.
-3. Wyróżnik pojazdu, którym mowa ust. 1 pkt 1, stanowią:
-1) jedna litera ze zbioru liter, których mowa ust. 1 pkt 1, oraz trzy cyfry przedziale od 001 999 albo dwie cyfry przedziale od 01 99 i dwie litery ze zbioru liter, których mowa ust. 1 pkt
-7. Wzory tablic rejestracyjnych pojazdów SKW i SWW oraz wzory umieszczanych na nich symboli są określone przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d dnia 20 czerwca 1997 Prawo ruchu drogowym.
-8. Szef SKW albo Szef SWW są uprawnieni do:
+3. Wyróżnik pojazdu, o którym mowa w ust. 1 pkt 1, stanowią:
+1) jedna litera ze zbioru liter, o których mowa w ust. 1 pkt 1, oraz trzy cyfry w przedziale od 001 do 999 albo
+2) dwie cyfry w przedziale od 01 do 99 i dwie litery ze zbioru liter, o których mowa w ust. 1 pkt 1.
+§ 7. Wzory tablic rejestracyjnych pojazdów SKW i SWW oraz wzory umieszczanych na nich symboli są określone w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+§ 8. 1. Szef SKW albo Szef SWW są uprawnieni do:
 1) zamawiania u producentów tablic rejestracyjnych zawierających wyróżniki, blankiety dowodów rejestracyjnych oraz znaków legalizacyjnych;
-zgłaszania staroście zapotrzebowania na numery rejestracyjne zawierające wyróżniki.
+2) zgłaszania staroście zapotrzebowania na numery rejestracyjne zawierające wyróżniki.
 2. Starosta przyznaje Szefowi SKW albo Szefowi SWW numery rejestracyjne zawierające wyróżnik województwa, wyróżnik powiatu i wyróżnik pojazdu na podstawie zgłoszonego zapotrzebowania.
-9. Tablice rejestracyjne, a odniesieniu samochodu ciężarowego samowyładowczego i przyczepy samowyładowczej numery rejestracyjne, umieszcza się na pojeździe sposób określony przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d dnia 20 czerwca 1997 Prawo ruchu drogowym.
-10. W przypadku zniszczenia dowodu rejestracyjnego albo zużycia go stopniu uniemożliwiającym odczytanie zawartych nim danych lub braku miejsca na dokonanie nim zmian kierownik jednostki organizacyjnej użytkującej pojazd lub osoba przez niego upoważniona sporządza wniosek wydanie wtórnika dowodu rejestracyjnego.
-2. Zwrócone dowody rejestracyjne, które utraciły przydatność celów służbowych, unieważnia się przez odcięcie prawego dolnego rogu dokumentu sposób umożliwiający odczytanie zapisów wcześniej naniesionych na dokument, oraz przekreślenie stron. Unieważniony dowód rejestracyjny przechowuje się teczce pojazdu.
+§ 9. Tablice rejestracyjne, a w odniesieniu do samochodu ciężarowego samowyładowczego i przyczepy samowyładowczej – numery rejestracyjne, umieszcza się na pojeździe w sposób określony w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+§ 10. 1. W przypadku zniszczenia dowodu rejestracyjnego albo zużycia go w stopniu uniemożliwiającym odczytanie zawartych w nim danych lub braku miejsca na dokonanie w nim zmian kierownik jednostki organizacyjnej użytkującej pojazd lub osoba przez niego upoważniona sporządza wniosek o wydanie wtórnika dowodu rejestracyjnego.
+2. Zwrócone dowody rejestracyjne, które utraciły przydatność do celów służbowych, unieważnia się przez odcięcie prawego dolnego rogu dokumentu w sposób umożliwiający odczytanie zapisów wcześniej naniesionych na dokument, oraz przekreślenie stron. Unieważniony dowód rejestracyjny przechowuje się w teczce pojazdu.
 3. Zniszczona lub zużyta tablica rejestracyjna podlega komisyjnemu skasowaniu. Numery rejestracyjne skasowanej tablicy rejestracyjnej zawierającej wyróżnik służby wykorzystuje się ponownie. Numer rejestracyjny skasowanej tablicy rejestracyjnej zawierającej wyróżnik województwa i wyróżnik powiatu może być wykorzystany ponownie lub unieważniony.
-dowód rejestracyjny zgodny wzorem określonym niniejszym rozporządzeniu.
-12. Rozporządzenie wchodzi życie dniem 4 września 2023 Minister Obrony Narodowej: up. M. Wiśniewski Opis Poszczególne strony dowodu rejestracyjnego pojazdu:
-1) format A-7;
-strona 1 strona 2 strona 3 strona 4 Opis Poszczególne strony dowodu rejestracyjnego pojazdu:
-1) format A7;
+4. W razie utraty dowodu rejestracyjnego lub tablicy rejestracyjnej unieważnia się numer rejestracyjny pojazdu, dowód rejestracyjny i tablicę rejestracyjną.
+5. Szef SKW albo Szef SWW zawiadamia właściwego starostę o unieważnieniu numeru rejestracyjnego zawierającego wyróżnik województwa i wyróżnik powiatu.
+§ 11. 1. Dowody rejestracyjne, tablice rejestracyjne i numery rejestracyjne pojazdów SKW i SWW wydane na podstawie dotychczasowych przepisów zachowują ważność do dnia przekazania pojazdu poza SKW i SWW.
+2. Organ dokonujący rejestracji może dokonać wymiany dowodu rejestracyjnego i tablicy rejestracyjnej, o których mowa w ust. 1, w przypadku ich znacznego zniszczenia, na:
+1) tablicę rejestracyjną zgodną z wzorem określonym w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+2) dowód rejestracyjny zgodny z wzorem określonym w niniejszym rozporządzeniu.
+§ 12. Rozporządzenie wchodzi w życie z dniem 4 września 2023 r.
+Minister Obrony Narodowej: z up. M. Wiśniewski Załącznik do rozporządzenia Ministra Obrony Narodowej z dnia……….. (Dz. U. poz….) WZÓR DOWODU REJESTRACYJNEGO POJAZDU strona 1 strona 2 strona 3 strona 4 Opis Poszczególne Opis strony dowodu rejestracyjnego pojazdu:
+1) Poszczególne format A7; strony dowodu rejestracyjnego pojazdu:
+2) 1) kolor format jasnoniebieski; A-7;
+2) kolor jasnoniebieski;
+3) papier klasy określonej w SKW i SWW bigowany;
+3) papier klasy określonej w SKW i SWW bigowany;
+4) sposób wypełnienia rubryk – odpowiednio, zgodnie z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 3 ustawy
+4) z dnia sposób 20 czerwca wypełnienia 1997 r. – rubryk Prawo o - ruchu odpowiednio, drogowym (Dz. zgodnie U. z 2023 z przepisami r. poz. 1047, wydanymi 919, 1053, 1088, na podstawie 1123, 1193, 1234, 1394, art. 1720 76 i ust. 1723); 1 pkt 3 ustawy z dnia 20 czerwca 1997 − Prawo o ruchu drogowym
+5) rubryki (Dz.U. „nr z karty 2023 pojazdu” r. poz. nie 1047, wypełnia 919, się. 1053, 1088, 1123, 1193, 1234, 1394, 1720 i 1723);
+5) rubryki „nr karty pojazdu” nie wypełnia się.
 

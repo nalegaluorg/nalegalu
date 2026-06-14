@@ -8,7 +8,7 @@ pos: 1523
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o delegowaniu kierowców w transporcie drogowym
@@ -63,6 +63,28 @@ Art. 37–44. (pominięte)
 3. Do przewoźnika drogowego, który deleguje na terytorium Rzeczypospolitej Polskiej kierowcę, o którym mowa w ust. 1 pkt 1, stosuje się odpowiednio przepis art. 29.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dzień roboczy – dzień kalendarzowy z wyjątkiem sobót oraz dni wolnych od pracy określonych w przepisach ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296);
+- **2)** organ wnioskujący – właściwy organ państwa członkowskiego, który składa wniosek o powiadomienie o decyzji o nałożeniu administracyjnej kary pieniężnej lub grzywny administracyjnej w związku z naruszeniem przepisów dotyczących delegowania kierowców na terytorium Rzeczypospolitej Polskiej i z tego terytorium lub o egzekucję takiej kary lub grzywny;
+- **3)** państwo członkowskie – państwo członkowskie Unii Europejskiej oraz państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, a także państwo, które przyjęło, w drodze umowy z Unią Europejską, zobowiązanie do implementacji do krajowego porządku prawnego przepisów dyrektywy 2020/1057;
+- **4)** przewoźnik drogowy – przewoźnika drogowego w rozumieniu art. 4 pkt 15 i 16 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539, 1544 i 1855);
+- **5)** przewoźnik drogowy delegujący kierowcę na terytorium Rzeczypospolitej Polskiej – przewoźnika drogowego mającego siedzibę w innym państwie członkowskim, który kieruje tymczasowo kierowcę będącego jego pracownikiem do pracy na terytorium Rzeczypospolitej Polskiej, w związku z realizacją usługi transportu drogowego przez tego przewoźnika;
+- **6)** przewoźnik drogowy delegujący kierowcę z terytorium Rzeczypospolitej Polskiej – przewoźnika drogowego mającego siedzibę na terytorium Rzeczypospolitej Polskiej, który kieruje tymczasowo kierowcę będącego jego pracownikiem w rozumieniu przepisów państwa członkowskiego, do którego jest delegowany, do pracy na terytorium tego państwa, w związku z realizacją usługi transportu drogowego przez tego przewoźnika;
+- **7)** kierowca delegowany na terytorium Rzeczypospolitej Polskiej – kierowcę zatrudnionego w warunkach odpowiadających warunkom określonym w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277) w innym państwie członkowskim, tymczasowo skierowanego do pracy na terytorium Rzeczypospolitej Polskiej przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej;
+- **8)** kierowca delegowany z terytorium Rzeczypospolitej Polskiej – kierowcę będącego pracownikiem w rozumieniu przepisów państwa członkowskiego, do którego jest delegowany, tymczasowo skierowanego do pracy na terytorium tego państwa przez przewoźnika drogowego delegującego kierowcę z terytorium Rzeczypospolitej Polskiej;
+- **9)** państwo trzecie – państwo inne niż państwo członkowskie oraz inne niż Konfederacja Szwajcarii;
+- **10)** przewoźnik drogowy z państwa trzeciego delegujący kierowcę na terytorium Rzeczypospolitej Polskiej – przewoźnika drogowego mającego siedzibę w państwie trzecim, który w związku z realizacją usługi transportu drogowego kieruje tymczasowo kierowcę na terytorium Rzeczypospolitej Polskiej;
+- **11)** kierowca delegowany na terytorium Rzeczypospolitej Polskiej z państwa trzeciego – kierowcę tymczasowo skierowanego na terytorium Rzeczypospolitej Polskiej przez przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej w związku z realizacją usługi transportu drogowego przez tego przewoźnika;
+- **12)** przewóz dwustronny rzeczy – przewóz rzeczy na podstawie umowy przewozu, z państwa członkowskiego siedziby w rozumieniu art. 2 pkt 8 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51, z późn. zm. ), zwanego dalej „rozporządzeniem (WE) nr 1071/2009”, do innego państwa członkowskiego lub państwa trzeciego lub z innego państwa członkowskiego lub państwa trzeciego do państwa członkowskiego siedziby;
+- **13)** przewóz dwustronny osób – przewóz w ramach międzynarodowego okazjonalnego lub regularnego przewozu osób w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm. ), zwanego dalej „rozporządzeniem (WE) nr 1073/2009”, podczas którego kierowca wykonuje jedną z następujących czynności:
+    - **a)** zabiera pasażerów w państwie członkowskim siedziby przewoźnika drogowego i wysadza ich w innym państwie członkowskim lub państwie trzecim,
+    - **b)** zabiera pasażerów w państwie członkowskim lub państwie trzecim i wysadza ich w państwie członkowskim siedziby przewoźnika drogowego lub
+    - **c)** zabiera i wysadza pasażerów w państwie członkowskim siedziby przewoźnika drogowego w celu przeprowadzania wycieczek lokalnych w innym państwie członkowskim lub państwie trzecim zgodnie z rozporządzeniem (WE) nr 1073/2009;
+
+- **14)** przejazd tranzytem – przewóz drogowy rzeczy lub przewóz drogowy osób przez terytorium państwa członkowskiego, w ramach którego kierowca nie wykonuje załadunku ani rozładunku oraz nie zabiera ani nie wysadza pasażerów;
+- **15)** przewóz kabotażowy – przewóz kabotażowy w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm. ), zwanego dalej „rozporządzeniem (WE) nr 1072/2009”, oraz art. 2 pkt 7 rozporządzenia (WE) nr 1073/2009;
+- **16)** transport kombinowany – transport kombinowany w rozumieniu art. 4 pkt 13 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
+- **17)** system IMI – system wymiany informacji na rynku wewnętrznym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm. ).
 
 **Art. 4.**
 
@@ -437,4 +459,8 @@ Art. 37–44. (pominięte)
 **Art. 48a.** Przepisy art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, w zakresie dotyczącym wykonywania międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28 ust. 1a ustawy zmienianej w art. 39, stosuje się od dnia 1 stycznia 2025 r.
 
 **Art. 49.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 4 ust. 2, który wchodzi w życie z dniem 21 sierpnia 2023 r.;
+- **2)** art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, które wchodzą w życie z dniem 1 listopada 2024 r. WYKAZ NARUSZEŃ, O KTÓRYCH MOWA W ART. 33 UST. 1, WYSOKOŚĆ KARY PIENIĘŻNEJ ZA POSZCZEGÓLNE NARUSZENIA ORAZ NUMER GRUPY NARUSZEŃ ORAZ WAGA NARUSZEŃ WSKAZANE W ZAŁĄCZNIKU I DO ROZPORZĄDZENIA KOMISJI (UE) 2016/403 OKREŚLA PONIŻSZA TABELA: 1 2 3 4 5 6 7 8 9 10 11 12
+
 

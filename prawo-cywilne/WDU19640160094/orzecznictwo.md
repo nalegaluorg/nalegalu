@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadzające kodeks cywilny.*
 
-Łącznie: **411** orzeczeń
+Łącznie: **425** orzeczeń
 (pominięto 212 orzeczeń sądów rejonowych)
 
 ## art. 1 (63)
@@ -525,17 +525,28 @@ Orzeczenia powołujące: *Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadza
 - 2014-10-24 | SO | [II C 1440/13](https://www.saos.org.pl/judgments/67395) | Wyrok
 - 2014-06-17 | SO | [II C 1131/13](https://www.saos.org.pl/judgments/147107) | Uzasadnienie
 
-## art. 50 (286)
+## art. 50 (300)
 
+- 2025-11-17 | SO | [I ACa 2351/24](https://www.saos.org.pl/judgments/546794) | Wyrok
 - 2025-11-03 | SO | [I ACa 1984/23](https://www.saos.org.pl/judgments/538677) | Wyrok
 - 2025-09-10 | SO | [I ACa 1932/22](https://www.saos.org.pl/judgments/537060) | Wyrok
 - 2025-04-24 | SO | [I ACa 3091/23](https://www.saos.org.pl/judgments/532976) | Wyrok
+- 2025-04-09 | SO | [I ACa 2779/23](https://www.saos.org.pl/judgments/545991) | Wyrok
+- 2025-03-28 | SO | [I ACa 829/23](https://www.saos.org.pl/judgments/546008) | Wyrok
+- 2025-03-28 | SO | [I ACa 768/23](https://www.saos.org.pl/judgments/546007) | Wyrok
+- 2025-03-20 | SO | [I ACa 476/23](https://www.saos.org.pl/judgments/545995) | Wyrok
+- 2024-12-09 | SO | [I ACa 586/24](https://www.saos.org.pl/judgments/546806) | Wyrok
+- 2024-12-09 | SO | [I ACa 1909/23](https://www.saos.org.pl/judgments/546788) | Wyrok
+- 2024-12-09 | SO | [I ACa 1845/23](https://www.saos.org.pl/judgments/546787) | Wyrok
+- 2024-12-04 | SO | [I ACa 1603/23](https://www.saos.org.pl/judgments/546784) | Wyrok
 - 2024-11-28 | SO | [I ACa 721/24](https://www.saos.org.pl/judgments/531507) | Wyrok
 - 2024-11-21 | SO | [I ACa 695/24](https://www.saos.org.pl/judgments/531506) | Wyrok
 - 2024-11-20 | SO | [I ACa 3323/24](https://www.saos.org.pl/judgments/532921) | Wyrok
 - 2024-11-15 | SO | [I ACa 297/24](https://www.saos.org.pl/judgments/531494) | Wyrok
 - 2024-11-14 | SO | [I ACa 1356/23](https://www.saos.org.pl/judgments/533844) | Wyrok
 - 2024-11-14 | SO | [I ACa 1328/23](https://www.saos.org.pl/judgments/533843) | Wyrok
+- 2024-10-25 | SO | [I ACa 1212/23](https://www.saos.org.pl/judgments/545659) | Wyrok
+- 2024-10-18 | SO | [I ACa 583/23](https://www.saos.org.pl/judgments/545729) | Wyrok
 - 2024-08-30 | SO | [I ACa 2284/23](https://www.saos.org.pl/judgments/541808) | Wyrok
 - 2024-08-30 | SO | [I ACa 2270/23](https://www.saos.org.pl/judgments/531489) | Wyrok
 - 2024-08-08 | SO | [I ACa 2638/23](https://www.saos.org.pl/judgments/541815) | Wyrok
@@ -558,11 +569,14 @@ Orzeczenia powołujące: *Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadza
 - 2024-03-28 | SO | [I ACa 1356/22](https://www.saos.org.pl/judgments/531469) | Wyrok
 - 2024-03-14 | SO | [I ACa 1690/23](https://www.saos.org.pl/judgments/540834) | Wyrok
 - 2024-03-14 | SO | [I ACa 1696/23](https://www.saos.org.pl/judgments/531483) | Wyrok
+- 2024-02-29 | SO | [I ACa 2533/22](https://www.saos.org.pl/judgments/546054) | Wyrok
 - 2024-02-28 | SO | [I ACa 1252/23](https://www.saos.org.pl/judgments/531464) | Wyrok
+- 2024-02-27 | SO | [I ACa 221/23](https://www.saos.org.pl/judgments/545985) | Wyrok
 - 2024-02-27 | SO | [I ACa 3830/23](https://www.saos.org.pl/judgments/533222) | Wyrok
 - 2024-02-26 | SO | [I ACa 1602/22](https://www.saos.org.pl/judgments/493726) | Wyrok
 - 2024-02-21 | SO | [I ACa 1342/22](https://www.saos.org.pl/judgments/531467) | Wyrok
 - 2024-02-21 | SO | [I ACa 1698/23](https://www.saos.org.pl/judgments/518182) | Wyrok
+- 2024-02-16 | SO | [I ACa 2437/22](https://www.saos.org.pl/judgments/546053) | Wyrok
 - 2024-02-15 | SO | [I ACa 244/23](https://www.saos.org.pl/judgments/533363) | Wyrok
 - 2024-02-15 | SO | [I ACa 208/23](https://www.saos.org.pl/judgments/493886) | Wyrok
 - 2024-02-14 | SO | [I ACa 1702/23](https://www.saos.org.pl/judgments/518184) | Wyrok

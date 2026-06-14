@@ -8,7 +8,7 @@ pos: 988
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # DZ. U. 1997 NR 146 POZ. 988 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 3 grudnia 1997 r.

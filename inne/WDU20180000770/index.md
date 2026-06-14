@@ -8,7 +8,7 @@ pos: 770
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kosztach komorniczych
@@ -48,6 +48,18 @@ Art. 49–51. (pominięte)
 **Art. 5.** Komornikowi przysługuje zwrot niezbędnych wydatków poniesionych w toku postępowania albo w trakcie innych czynności wyłącznie w zakresie określonym ustawą.
 
 **Art. 6.** Wydatkami są:
+
+- **1)** należności biegłych i tłumaczy, o których mowa w art. 11;
+- **2)** koszty ogłoszeń;
+- **3)** koszty transportu specjalistycznego;
+- **4)** koszty przejazdu poza miejscowość, która jest siedzibą kancelarii komorniczej oraz zryczałtowane koszty przejazdu w granicach tej miejscowości;
+- **5)** zryczałtowane koszty utrwalania czynności odbywających się poza kancelarią oraz przechowywania zapisu obrazu i dźwięku, o ile wierzyciel domagał się utrwalenia czynności;
+- **6)** należności osób powołanych na podstawie odrębnych przepisów do udziału w czynnościach;
+- **7)** koszty uzyskania dokumentów lub informacji niezbędnych do prowadzenia postępowania;
+- **8)** koszty doręczenia korespondencji z wyjątkiem kosztów doręczenia stronom zawiadomienia o wszczęciu egzekucji, postępowania zabezpieczającego lub postępowania o wykonanie europejskiego nakazu zabezpieczenia na rachunku bankowym;
+- **9)** koszty działania komornika poza rewirem komorniczym, o których mowa w art. 8;
+- **10)** koszty przekazania środków pieniężnych przekazem pocztowym lub przelewem bankowym;
+- **11)** koszty pokrycia opłaty sądowej należnej od wniosku o wpis w księdze wieczystej.
 
 **Art. 7.**
 
@@ -272,6 +284,11 @@ Art. 49–51. (pominięte)
 
 **Art. 35.** Opłata stała od wniosku o:
 
+- **1)** wprowadzenie syndyka masy upadłości albo zarządcy w posiadanie majątku,
+- **2)** wprowadzenie zarządcy w zarząd nieruchomości,
+- **3)** zabezpieczenie środka dowodowego w postępowaniu w sprawach własności intelektualnej,
+- **4)** wydanie środka dowodowego w postępowaniu w sprawach własności intelektualnej – wynosi 400 złotych.
+
 **Art. 36.**
 
 1. Opłata stała za udział w usunięciu oporu dłużnika oraz wykonanie polecenia sądu w sprawie osadzenia dłużnika w areszcie wynosi 1000 złotych.
@@ -287,6 +304,9 @@ Art. 49–51. (pominięte)
 ##### Oddział 4 Pozostałe opłaty
 
 **Art. 40.** Opłata stała od wniosku o:
+
+- **1)** wykonanie postanowienia o zabezpieczeniu spadku,
+- **2)** sporządzenie spisu inwentarza – wynosi 400 złotych.
 
 **Art. 41.**
 

@@ -8,10 +8,10 @@ pos: 671
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 maja 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 671 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 5 maja 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000671) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/671/text.pdf) |
 
-Poz. 671 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 5 maja 2014 r.
 zmieniające rozporządzenie w sprawie szczegółowego zakresu obowiązków uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii Na podstawie art. 9a ust. 9 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn.
-zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Gospodarki z dnia 18 października 2012 r. w sprawie szczegółowego zakresu obowiązków uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii (Dz. U. poz. 1229 oraz z 2013 r. poz. 1362) wprowadza się następujące zmiany:
+zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Gospodarki z dnia 18 października 2012 r. w sprawie szczegółowego zakresu obowiązków uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii (Dz. U. poz. 1229 oraz z 2013 r. poz. 1362) wprowadza się następujące zmiany:
 1) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Obowiązek uzyskania i przedstawienia Prezesowi URE do umorzenia świadectw pochodzenia albo uiszczenia opłaty zastępczej uznaje się za spełniony, jeżeli za dany rok udział ilościowy sumy energii elektrycznej wynikającej ze świadectw pochodzenia, które odbiorca przemysłowy, o którym mowa w art. 9a ust. 1a pkt 1 ustawy, przedstawił do umorzenia, lub z uiszczonej przez tego odbiorcę opłaty zastępczej, w ilości energii elektrycznej zakupionej na własny użytek w danym roku, wynosi nie mniej niż:
 1) 13,0% – w 2014 r.;
 2) 14,0% – w 2015 r.;

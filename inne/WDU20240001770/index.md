@@ -8,12 +8,10 @@ pos: 1770
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -42,13 +40,19 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 
 **Art. 2.** W rozumieniu ustawy poniższe określenia oznaczają:
 
+- **1)** wojska obce – żołnierzy wojsk obcych i personel cywilny im towarzyszący;
+- **2)** żołnierze wojsk obcych – żołnierzy należących do lądowych, morskich lub powietrznych wojsk państwa obcego albo pozostających pod dowództwem organizacji międzynarodowej, przebywających na terytorium Rzeczypospolitej Polskiej w celu wykonania określonych zadań;
+- **3)** personel cywilny – pracowników cywilnych zatrudnionych w wojskach państwa obcego albo wojskach pozostających pod dowództwem organizacji międzynarodowej, towarzyszących tym wojskom na terytorium Rzeczypospolitej Polskiej;
+- **4)** strona wysyłająca – państwo, do którego należą wojska obce, albo organizację międzynarodową, pod której dowództwem wojska te pozostają;
+- **5)** organy wojskowe strony wysyłającej – organy wojskowe państwa albo organizacji międzynarodowej, które na mocy prawa tego państwa, statutu organizacji międzynarodowej lub umowy międzynarodowej są właściwe względem żołnierzy wojsk obcych lub ich personelu cywilnego.
+
 **Art. 3.**
 
 1. Zgodę na pobyt wojsk obcych na terytorium Rzeczypospolitej Polskiej, zwaną dalej „zgodą”, wydają:
 
 - **1)** Minister Obrony Narodowej:
     - **a)** w przypadku wojsk Państw-Stron Traktatu Północnoatlantyckiego, sporządzonego w Waszyngtonie dnia 4 kwietnia 1949 r., wojsk pozostających pod dowództwem organów Organizacji Traktatu Północnoatlantyckiego albo wojsk uczestniczących w szkoleniu w ramach Partnerstwa dla Pokoju, jeżeli okres ich pobytu nie przekracza trzech miesięcy,
-    - **b)** po zasięgnięciu opinii zainteresowanych ministrów w przypadku wojsk państw obcych albo wojsk pozostających pod dowództwem organów organizacji międzynarodowych innych niż wymienione w lit. a, pod warunkiem że okres ich pobytu nie przekracza trzech miesięcy, liczebność tysiąca osób, a pobyt ma na celu udział w szkoleniu wojskowym, o ile właściwe organy tych państw albo organizacji międzynarodowych uznają zasady pobytu (status) ich wojsk wynikające z ustawy oraz złożą zobowiązanie, że ich wojska będą przestrzegały prawa polskiego;
+    - **b)** po zasięgnięciu opinii zainteresowanych ministrów – w przypadku wojsk państw obcych albo wojsk pozostających pod dowództwem organów organizacji międzynarodowych innych niż wymienione w lit. a, pod warunkiem że okres ich pobytu nie przekracza trzech miesięcy, liczebność – tysiąca osób, a pobyt ma na celu udział w szkoleniu wojskowym, o ile właściwe organy tych państw albo organizacji międzynarodowych uznają zasady pobytu (status) ich wojsk wynikające z ustawy oraz złożą zobowiązanie, że ich wojska będą przestrzegały prawa polskiego;
 
 - **2)** Rada Ministrów na czas określony:
     - **a)** w przypadku wojsk, o których mowa w pkt 1 lit. a, jeżeli okres ich pobytu przekracza trzy miesiące albo jeżeli jej przedmiotem jest przedłużenie pobytu,
@@ -59,7 +63,7 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 - **1)** klęski żywiołowej i likwidacji jej skutków,
 - **2)** katastrofy lądowej, morskiej lub lotniczej,
 - **3)** konieczności udzielenia pomocy humanitarnej,
-- **4)** realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej jeżeli wojska obce są odpowiednikiem wojsk podległych odpowiednio dowódcom rodzajów Sił Zbrojnych, Dowódcy Komponentu Wojsk Obrony Cyberprzestrzeni lub Szefowi Inspektoratu Wsparcia Sił Zbrojnych, którymi ten dowódca lub szef dowodzi, ich liczebność nie przekracza pięciuset osób, a okres pobytu nie przekracza dwóch miesięcy.
+- **4)** realizacji ćwiczenia wojskowego wynikającego z planu zatwierdzonego przez Ministra Obrony Narodowej – jeżeli wojska obce są odpowiednikiem wojsk podległych odpowiednio dowódcom rodzajów Sił Zbrojnych, Dowódcy Komponentu Wojsk Obrony Cyberprzestrzeni lub Szefowi Inspektoratu Wsparcia Sił Zbrojnych, którymi ten dowódca lub szef dowodzi, ich liczebność nie przekracza pięciuset osób, a okres pobytu nie przekracza dwóch miesięcy.
 
 2. W zgodzie należy określić stronę wysyłającą, cel i okres pobytu oraz liczebność wojsk obcych, datę i przejście graniczne, przez które nastąpi wjazd, ilość i rodzaj wwożonego sprzętu wojskowego oraz broni, amunicji i materiałów niebezpiecznych, trasy przejazdu i miejsce stacjonowania, datę i przejście graniczne, przez które nastąpi wyjazd, a także inne okoliczności mające znaczenie organizacyjno-techniczne.
 
@@ -235,7 +239,7 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 
 3. Jeżeli przepisy wymagają wydania specjalnych zezwoleń na przewóz materiałów niebezpiecznych, wnioski o wydanie takich zezwoleń są kierowane do właściwych organów za pośrednictwem Ministra Obrony Narodowej.
 
-4. Do wojsk obcych poruszających się po drogach na terytorium Rzeczypospolitej Polskiej mają zastosowanie przepisy ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251) odnoszące się do ruchu pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+4. Do wojsk obcych poruszających się po drogach na terytorium Rzeczypospolitej Polskiej mają zastosowanie przepisy ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251) odnoszące się do ruchu pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 5. Zwalnia się od obowiązku zawarcia umowy ubezpieczenia określonego w art. 4 pkt 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500 oraz z 2024 r. poz. 1565) wojska obce, których status jest określony w umowach międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie.
 
@@ -255,7 +259,7 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 
 1. Poligony wojskowe pozostające w trwałym zarządzie lub w posiadaniu na podstawie innego tytułu prawnego Ministra Obrony Narodowej mogą być udostępniane wojskom obcym, nieodpłatnie lub odpłatnie, w celu przeprowadzania ćwiczeń wyłącznie z udziałem ich własnych jednostek lub ćwiczeń wspólnych z jednostkami wojskowymi Sił Zbrojnych Rzeczypospolitej Polskiej.
 
-2. Ćwiczenia, o których mowa w ust. 1, mogą być przeprowadzane również na takich samych zasadach jak ćwiczenia Sił Zbrojnych Rzeczypospolitej Polskiej w polskiej przestrzeni powietrznej oraz na polskich śródlądowych drogach wodnych, morskich wodach wewnętrznych i morzu terytorialnym.
+2. Ćwiczenia, o których mowa w ust. 1, mogą być przeprowadzane również – na takich samych zasadach jak ćwiczenia Sił Zbrojnych Rzeczypospolitej Polskiej – w polskiej przestrzeni powietrznej oraz na polskich śródlądowych drogach wodnych, morskich wodach wewnętrznych i morzu terytorialnym.
 
 3. Rada Ministrów określi, w drodze rozporządzenia, sposób obliczania i rozliczania opłat wnoszonych przez wojska obce w związku z udostępnieniem im poligonów wojskowych. Rozporządzenie to określi w szczególności:
 
@@ -284,6 +288,12 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 **Art. 23d.** Dowódca Generalny Rodzajów Sił Zbrojnych, Dowódca Operacyjny Rodzajów Sił Zbrojnych, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych oraz inni dyrektorzy (dowódcy, szefowie, komendanci) komórek i jednostek organizacyjnych resortu obrony narodowej realizują zadania HNS.
 
 **Art. 23e.** W ramach HNS ministrowie przez podległe ministerstwa, podporządkowane i nadzorowane jednostki organizacyjne oraz przedsiębiorców, dla których są organami założycielskimi, a także wojewodowie przez urzędy wojewódzkie, podporządkowane i nadzorowane jednostki organizacyjne oraz przedsiębiorców, dla których są organami założycielskimi, a ponadto poprzez organy samorządu terytorialnego, organizacje społeczne oraz przedsiębiorców niebędących jednostkami organizacyjnymi podporządkowanymi lub nadzorowanymi przez ministrów:
+
+- **1)** ujmują problematykę HNS w procesie planowania i realizacji pozamilitarnych przygotowań obronnych państwa;
+- **2)** współdziałają w zakresie gromadzenia, przetwarzania, aktualizowania i wymiany informacji zawartych w CBD HNS;
+- **3)** biorą udział w opracowywaniu i negocjowaniu umów oraz porozumień HNS w obszarze wynikającym z zakresu ich właściwości;
+- **4)** udzielają uzgodnionego wsparcia, a także utrzymują w gotowości do działania zadeklarowane siły i środki na potrzeby wojsk sojuszniczych i organizacji międzynarodowych;
+- **5)** wyznaczają w swoich urzędach Punkty Kontaktowe HNS (PK HNS) jako etatowe albo nieetatowe komórki pełniące funkcję koordynatora zadań HNS i odpowiadają za szkolenie ich obsad w zakresie HNS.
 
 **Art. 23f.**
 
@@ -324,6 +334,16 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 6. Przewodniczącemu NKK HNS przysługuje prawo zapraszania do prac Komitetu przedstawicieli innych instytucji i jednostek organizacyjnych pełniących ważną rolę w realizacji zadań HNS.
 
 **Art. 23h.** Ministrowie kierujący działami administracji rządowej udostępniają CPK HNS informacje i dane dla potrzeb HNS, dotyczące:
+
+- **1)** w dziale energia: możliwości zaopatrywania i przechowywania paliw i produktów naftowych, gazu oraz energii;
+- **2)** w dziale finanse publiczne: aktualnych uregulowań celnych i podatkowych;
+- **3)** w dziale gospodarka morska: infrastruktury portów morskich i transportu morskiego, w tym możliwości przeładunkowych w portach morskich oraz stanu i możliwości transportowych floty morskiej;
+- **4)** w dziale żegluga śródlądowa: infrastruktury portów i przeładowni rzecznych oraz czynnych przepraw promowych;
+- **5)** w dziale gospodarka wodna: możliwości osłony hydrometeorologicznej, infrastruktury śródlądowych dróg wodnych oraz budowli wodnych związanych z ujęciem, uzdatnianiem i dystrybucją wody;
+- **6)** w dziale transport: sieci infrastruktury transportowej, zasobów środków transportowych w poszczególnych gałęziach transportu i możliwości ich wykorzystania, sił i środków wyznaczonych do prowadzenia osłony technicznej sieci transportowej znaczenia obronnego;
+- **7)** w dziale sprawy wewnętrzne: przejść granicznych, zdolności prewencyjnej dla zapewnienia osłony wojsk sojuszniczych i organizacji międzynarodowych w rejonach rozmieszczenia i na trasach przemieszczania się po terytorium RP;
+- **8)** w dziale środowisko: zasobów oraz terenów możliwych do wykorzystania dla potrzeb HNS;
+- **9)** w dziale zdrowie: podmiotów leczniczych, centrów krwiodawstwa i krwiolecznictwa oraz zasobów krwi.
 
 **Art. 24.** (pominięty)
 

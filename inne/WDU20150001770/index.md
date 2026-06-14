@@ -8,10 +8,12 @@ pos: 1770
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 25 września 2015 r. o finansowaniu niektórych świadczeń zdrowotnych w latach 2015–2018
+# o finansowaniu niektórych świadczeń zdrowotnych w latach 2015–2018
+
+*USTAWA z dnia 25 września 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +29,7 @@ source: "eli-html"
 
 **Art. 1.**
 
-1. W okresie do dnia 31 grudnia 2018 r. Narodowy Fundusz Zdrowia na finansowanie zadań, o których mowa w art. 97 ust. 3 pkt 2a, 3 i 3b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.), otrzymuje dotację z budżetu państwa w wysokości 320 232 tys. zł rocznie. Minister właściwy do spraw zdrowia przekazuje, w terminie do ostatniego dnia każdego miesiąca, do Narodowego Funduszu Zdrowia dotację w wysokości 1/12 tej kwoty; w okresie tym do świadczeń, o których mowa w art. 97 ust. 3 pkt 2a, 3 i 3b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, nie stosuje się art. 97 ust. 8 tej ustawy.
+1. W okresie do dnia 31 grudnia 2018 r. Narodowy Fundusz Zdrowia na finansowanie zadań, o których mowa w art. 97 ust. 3 pkt 2a, 3 i 3b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm. ), otrzymuje dotację z budżetu państwa w wysokości 320 232 tys. zł rocznie. Minister właściwy do spraw zdrowia przekazuje, w terminie do ostatniego dnia każdego miesiąca, do Narodowego Funduszu Zdrowia dotację w wysokości 1/12 tej kwoty; w okresie tym do świadczeń, o których mowa w art. 97 ust. 3 pkt 2a, 3 i 3b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, nie stosuje się art. 97 ust. 8 tej ustawy.
 
 2. Minister właściwy do spraw zdrowia przekaże, w terminie do dnia 31 grudnia 2015 r., do Narodowego Funduszu Zdrowia środki z tytułu świadczeń opieki zdrowotnej udzielonych od dnia 1 stycznia 2015 r. do końca miesiąca poprzedzającego miesiąc wejścia w życie niniejszej ustawy osobom, o których mowa w art. 2 ust. 1 pkt 2–4, art. 12 pkt 2–4, 6 i 9 oraz art. 42j ustawy wymienionej w ust. 1, nierozliczonych do dnia wejścia w życie niniejszej ustawy, uwzględniając, że łączna wysokość środków z tytułu świadczeń opieki zdrowotnej udzielonych tym osobom stanowi iloczyn kwoty 26 686 tys. zł oraz liczby miesięcy od początku 2015 r. do końca miesiąca poprzedzającego miesiąc wejścia w życie niniejszej ustawy.
 

@@ -8,7 +8,7 @@ pos: 1095
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Zespole Pomocy Humanitarno-Medycznej
@@ -29,7 +29,14 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania, zasady działania oraz organizację Zespołu Pomocy Humanitarno-Medycznej, zwanego dalej „ZPHM”, działającego przy ministrze właściwym do spraw zdrowia;
+- **2)** zasady finansowania realizacji zadań ZPHM;
+- **3)** zasady wsparcia realizacji zadań ZPHM przez organy i podmioty, o których mowa w art. 12 ust. 1, w ramach realizacji ich zadań.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** działanie ratunkowe – czynność podjętą w celu ochrony życia i zdrowia, w ramach której wobec osoby znajdującej się w stanie nagłego zagrożenia zdrowotnego są podejmowane medyczne czynności ratunkowe lub, w razie potrzeby, jest organizowany jej transport do właściwych podmiotów leczniczych w rozumieniu art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991, 1675 i 1972);
+- **2)** wsparcie humanitarne – działania prowadzone w celu udzielenia pomocy ludności znajdującej się w sytuacji zagrożenia życia lub zdrowia poza terytorium Rzeczypospolitej Polskiej w przypadku, gdy właściwe organy innego niż Rzeczpospolita Polska państwa, na którego terytorium występuje ta sytuacja, nie prowadzą takich działań lub prowadzone przez nie działania są niewystarczające.
 
 **Art. 3.**
 

@@ -8,7 +8,7 @@ pos: 1115
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
@@ -28,6 +28,90 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1115/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 ust. 2 otrzymuje brzmienie: „2. W ramach systemu działają:
+- **1)** organy administracji rządowej właściwe w zakresie wykonywania zadań systemu;
+- **2)** jednostki systemu, o których mowa w art. 32 ust. 1;
+- **3)** dyspozytornie medyczne.”;
+- **2)** w art. 3:
+    - **a)** pkt 14 otrzymuje brzmienie: „14) rejon operacyjny – rejon działania dyspozytorni medycznej określony w wojewódzkim planie działania systemu;”,
+    - **b)** po pkt 14 dodaje się pkt 14a w brzmieniu: „14a) dy1115ytornia medyczna – komórkę organizacyjną urzędu wojewódzkiego wskazaną w wojewódzkim planie działania systemu, utworzoną w celu przyjmowania i obsługi zgłoszeń alarmowych przekazywanych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2018 r. poz. 867), przyjmowania powiadomień o zdarzeniach oraz wykonywania zadań przez dyspozytorów medycznych;”,
+    - **c)** pkt 15 otrzymuje brzmienie: „15) System Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego – system teleinformatyczny umożliwiający przyjmowanie zgłoszeń alarmowych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego, oraz powiadomień o zdarzeniach, dysponowanie zespołów ratownictwa medycznego, rejestrowanie zdarzeń medycznych, prezentację położenia geograficznego miejsca zdarzenia, pozycjonowanie zespołów ratownictwa medycznego oraz wsparcie realizacji zadań przez zespoły ratownictwa medycznego i wojewódzkiego koordynatora ratownictwa medycznego.”;
+
+- **3)** w art. 5 ust. 1 otrzymuje brzmienie: „1. Osoba udzielająca pierwszej pomocy albo kwalifikowanej pierwszej pomocy, osoba wchodząca w skład zespołu ratownictwa medycznego, osoba udzielająca świadczeń zdrowotnych w szpitalnym oddziale ratunkowym, dyspozytor medyczny podczas wykonywania swoich zadań oraz wojewódzki koordynator ratownictwa medycznego wykonujący zadania, o których mowa w art. 29 ust. 5, korzystają z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20, 305 i 663) dla funkcjonariuszy publicznych.”;
+- **4)** w art. 10 w ust. 1 pkt 4 otrzymuje brzmienie: „4) spełnia następujące wymagania: zm. ), i uzyskała tytuł zawodowy licencjata oraz złożyła z wynikiem pozytywnym Państwowy Egzamin z Ratownictwa Medycznego, zwany dalej „PERM”, lub z 2016 r. poz. 65 oraz z 2018 r. poz. 650).”;
+    - **a)** rozpoczęła przed dniem 1 października 2018 r. studia wyższe na kierunku (specjalności) ratownictwo medyczne i uzyskała tytuł zawodowy licencjata lub magistra na tym kierunku (specjalności) lub
+    - **b)** rozpoczęła po dniu 30 września 2018 r. studia wyższe na kierunku ratownictwo medyczne, zgodnie ze standardami kształcenia, o których mowa w art. 9b ust. 1b ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn.
+    - **c)** rozpoczęła przed dniem 1 marca 2013 r. naukę w publicznej szkole policealnej lub niepublicznej szkole policealnej o uprawnieniach szkoły publicznej i uzyskała dyplom potwierdzający uzyskanie tytułu zawodowego ratownik medyczny albo dyplom potwierdzający kwalifikacje zawodowe w zawodzie ratownik medyczny, lub
+    - **d)** posiada dyplom wydany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem uzyskiwanym w Rzeczypospolitej Polskiej, potwierdzającym tytuł zawodowy ratownik medyczny, i uzyskała prawo pobytu na terytorium Rzeczypospolitej Polskiej zgodnie z odrębnymi przepisami, lub
+    - **e)** posiada kwalifikacje do wykonywania zawodu ratownika medycznego nabyte w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, uznane w Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U.
+
+- **5)** uchyla się art. 10a;
+- **6)** w art. 10b ust. 2 otrzymuje brzmienie: „2. Do PERM może przystąpić osoba, o której mowa w art. 10 ust. 1 pkt 4 lit. b i która uzyskała dyplom ukończenia studiów wyższych na kierunku ratownictwo medyczne.”;
+- **7)** art. 10h otrzymuje brzmienie: „Art. 10h. 1. Jeżeli ratownik medyczny spełniający warunki, o których mowa w art. 10, nie wykonuje zawodu przez udzielanie świadczeń opieki zdrowotnej przez okres dłuższy niż 5 lat łącznie w okresie ostatnich 6 lat, a zamierza podjąć wykonywanie zawodu ratownika medycznego polegające na udzielaniu tych świadczeń, jest obowiązany do odbycia przeszkolenia.
+
+2. Przeszkolenie trwa przez okres 6 miesięcy i jest realizowane w podmiocie leczniczym będącym dysponentem jednostki, w pełnym wymiarze czasu pracy, przez udzielanie świadczeń opieki zdrowotnej pod nadzorem innego ratownika medycznego lub lekarza systemu, lub pielęgniarki systemu, posiadających co najmniej 5-letnie doświadczenie zawodowe.”;
+
+- **8)** w art. 11: o bezpieczeństwie morskim (Dz. U. z 2018 r. poz. 181);”, – uchyla się pkt 6a, – pkt 7 otrzymuje brzmienie: „7) w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2018 r. poz. 620), włączonych do krajowego systemu ratowniczo-gaśniczego, podczas działań ratowniczo-gaśniczych, ćwiczeń oraz szkoleń;”, – po pkt 7 dodaje się pkt 7a–7d w brzmieniu: „7a) w ramach działań antyterrorystycznych realizowanych przez służby podległe lub nadzorowane przez ministra właściwego do spraw wewnętrznych;
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) udzielaniu świadczeń zdrowotnych, w tym medycznych czynności ratunkowych udzielanych samodzielnie lub na zlecenie lekarza;”,
+    - **b)** w ust. 3: – pkt 5 otrzymuje brzmienie: „5) w ramach Morskiej Służby Poszukiwania i Ratownictwa, o której mowa w art. 116 ustawy z dnia 18 sierpnia 2011 r.
+
+- **7b)** w wyodrębnionych oddziałach prewencji i pododdziałach antyterrorystycznych, o których mowa w art. 4 ust. 3 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. );
+- **7c)** w ramach zadań Służby Ochrony Państwa, o których mowa w art. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730);
+- **7d)** w ramach zadań Straży Granicznej, o których mowa w art. 1 ust. 2 pkt 1–2a, 4–5b, 5d, 10, 12–14 i ust. 2a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm. );”, z 2017 r. poz. 2211 oraz z 2018 r. poz. 650, 697 i 1039);”,
+    - **c)** w ust. 9 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) zgłosić Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działanie niepożądane produktu leczniczego zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U.
+    - **d)** po ust. 10 dodaje się ust. 10a–10c w brzmieniu: „10a. Ratownik medyczny w ramach realizacji zadań zawodowych, o których mowa w ust. 3 pkt 1–11, oraz pielęgniarka systemu wykonująca medyczne czynności ratunkowe mogą udzielić świadczeń zdrowotnych bez zgody pacjenta, jeżeli wymaga on niezwłocznej pomocy, a ze względu na stan zdrowia lub wiek nie może wyrazić zgody i nie ma możliwości porozumienia się z jego przedstawicielem ustawowym lub opiekunem faktycznym w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
+
+10b. Decyzję o udzieleniu świadczeń zdrowotnych w okolicznościach, o których mowa w ust. 10a, ratownik medyczny lub pielęgniarka systemu są obowiązani, w miarę możliwości, skonsultować z lekarzem wskazanym przez dysponenta zespołów ratownictwa medycznego.
+
+10c. Okoliczności, o których mowa w ust. 10a i 10b, ratownik medyczny albo pielęgniarka systemu odnotowują odpowiednio w karcie indywidualnej ratownika medycznego albo dokumentacji medycznej pacjenta.”,
+
+- **e)** ust. 11 otrzymuje brzmienie: „11. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres:
+- **1)** medycznych czynności ratunkowych, które mogą być udzielane przez ratownika medycznego samodzielnie lub na zlecenie lekarza,
+- **2)** świadczeń zdrowotnych innych niż medyczne czynności ratunkowe, które mogą być udzielane przez ratownika medycznego samodzielnie lub na zlecenie lekarza w jednostkach wymienionych w ust. 3 pkt 1–5 i 8–12, z wyłączeniem podmiotów leczniczych będących jednostkami budżetowymi i jednostkami wojskowymi, dla których podmiotem tworzącym jest Minister Obrony Narodowej – kierując się zakresem wiedzy i umiejętności nabytych w ramach kształcenia przed- i podyplomowego.”;
+- **9)** po art. 11 dodaje się art. 11a i art. 11b w brzmieniu: „Art. 11a. 1. Ratownik medyczny wykonujący zadania zawodowe w podmiotach leczniczych będących jednostkami budżetowymi i jednostkami wojskowymi, dla których podmiotem tworzącym jest Minister Obrony Narodowej, oraz w jednostkach, o których mowa w art. 11 ust. 3 pkt 6, może samodzielnie udzielać świadczeń zdrowotnych, o których mowa w przepisach wydanych na podstawie ust. 10 pkt 2, po ukończeniu wojskowo-medycznego kursu kwalifikacyjnego.
+
+2. Wojskowo-medyczny kurs kwalifikacyjny ma na celu uzyskanie przez ratownika medycznego dodatkowych umiejętności i kwalifikacji do udzielania świadczeń zdrowotnych w warunkach sytuacji kryzysowych i przy zabezpieczeniu medycznym działań jednostek podległych lub nadzorowanych przez Ministra Obrony Narodowej.
+
+3. Zakres wojskowo-medycznego kursu kwalifikacyjnego uwzględnia wiedzę i umiejętności praktyczne niezbędne do udzielania świadczeń zdrowotnych, o których mowa w przepisach wydanych na podstawie ust. 10 pkt 2.
+
+4. Wojskowo-medyczny kurs kwalifikacyjny odbywa się na podstawie programu wojskowo-medycznego kursu kwalifikacyjnego, który obejmuje:
+
+- **1)** założenia organizacyjno-programowe określające rodzaj i cel kształcenia, czas jego trwania, sposób organizacji oraz sposób sprawdzania efektów kształcenia;
+- **2)** plan nauczania;
+- **3)** wykaz umiejętności wynikowych;
+- **4)** treści nauczania;
+- **5)** wskazówki metodyczne;
+- **6)** standardy dotyczące kadry i bazy dydaktycznej.
+
+5. Program wojskowo-medycznego kursu kwalifikacyjnego opracowuje zespół ekspertów powołany przez Ministra Obrony Narodowej spośród osób legitymujących się doświadczeniem zawodowym i dorobkiem naukowym w zakresie medycyny ratunkowej i medycyny pola walki.
+
+6. Program wojskowo-medycznego kursu kwalifikacyjnego zatwierdza Minister Obrony Narodowej, po zasięgnięciu opinii ministra właściwego do spraw zdrowia.
+
+7. Wojskowo-medyczny kurs kwalifikacyjny prowadzą jednostki podległe lub nadzorowane przez Ministra Obrony Narodowej, które:
+
+- **1)** realizują program wojskowo-medycznego kursu kwalifikacyjnego;
+- **2)** zapewniają kadrę dydaktyczną posiadającą odpowiednie kwalifikacje niezbędne do realizacji programu wojskowo-medycznego kursu kwalifikacyjnego;
+- **3)** zapewniają bazę dydaktyczną zgodną ze standardami, o których mowa w ust. 4 pkt 6, niezbędną do realizacji programu wojskowo-medycznego kursu kwalifikacyjnego, w tym do szkolenia praktycznego;
+- **4)** posiadają wewnętrzny system oceny jakości kształcenia;
+- **5)** prowadzą dokumentację związaną z organizacją i przebiegiem kształcenia, w szczególności regulaminy organizacyjne kształcenia, protokoły postępowania kwalifikacyjnego oraz przebiegu egzaminów;
+- **6)** prowadzą ewidencję wydanych zaświadczeń o ukończeniu danego wojskowo-medycznego kursu kwalifikacyjnego.
+
+8. Zaświadczenie o ukończeniu wojskowo-medycznego kursu kwalifikacyjnego, w zależności od umiejętności wynikowych poszczególnych wojskowo-medycznych kursów kwalifikacyjnych, jest ważne od 1 roku do 3 lat od dnia jego wydania.
+
+9. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** ramowe programy wojskowo-medycznych kursów kwalifikacyjnych,
+- **2)** kwalifikacje kadry dydaktycznej,
+- **3)** szczegółowe wymogi dla podmiotów prowadzących wojskowo-medyczne kursy kwalifikacyjne,
+- **4)** skład i tryb powoływania komisji egzaminacyjnej oraz sposób przeprowadzania egzaminów kończących wojskowo-medyczny kurs kwalifikacyjny,
+- **5)** okres ważności zaświadczeń o ukończeniu poszczególnych wojskowo-medycznych kursów kwalifikacyjnych,
+- **6)** wzór zaświadczenia o ukończeniu poszczególnych wojskowo-medycznych kursów kwalifikacyjnych – uwzględniając zakres wiedzy i umiejętności niezbędnych do udzielania świadczeń zdrowotnych, o których mowa w przepisach wydanych na podstawie ust. 10 pkt 2, oraz mając na uwadze potrzebę przeszkolenia ratowników medycznych w liczbie niezbędnej do sprawnego funkcjonowania jednostek podległych lub nadzorowanych przez Ministra Obrony Narodowej, a także zapewnienie jednolitych standardów postępowania, przestrzegania obowiązujących procedur oraz przejrzystości dokumentowania i zatwierdzania realizacji wojskowo-medycznego kursu kwalifikacyjnego.
+
+10. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres świadczeń zdrowotnych udzielanych przez ratownika medycznego, o którym mowa w ust. 1:
+
+- **1)** samodzielnie lub na zlecenie lekarza,
+- **2)** samodzielnie, w warunkach sytuacji kryzysowych i przy zabezpieczeniu medycznym działań jednostek, o których mowa w ust. 2 – kierując się zakresem wiedzy i umiejętności nabytych w ramach kształcenia przed- i podyplomowego oraz uwzględniając specyfikę zagrożeń wynikających z charakteru służby.
 
 **Art. 11b.**
 
@@ -281,7 +365,23 @@ source: "isap-pdf"
 
 **Art. 24g.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** minimalne funkcjonalności SWD PRM,
+- **2)** sposób utrzymania SWD PRM,
+- **3)** sposób zarządzania SWD PRM,
+- **4)** sposób działania systemu w sytuacji awarii SWD PRM,
+- **5)** minimalne wyposażenie stanowisk pracy SWD PRM w dyspozytorni medycznej, w miejscu stacjonowania zespołów ratownictwa medycznego, w specjalistycznym środku transportu sanitarnego wykorzystywanym przez zespół ratownictwa medycznego i na stanowisku wojewódzkiego koordynatora ratownictwa medycznego – mając na uwadze potrzebę zapewnienia sprawnego działania SWD PRM, realizacji zadań przez dyspozytorów medycznych, zespoły ratownictwa medycznego, wojewódzkich koordynatorów ratownictwa medycznego oraz współpracy SWD PRM z systemem teleinformatycznym w rozumieniu art. 2 pkt 4 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego.
+
 **Art. 24h.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, rodzaje dokumentacji dyspozytorni medycznej prowadzonej w SWD PRM, mając na uwadze potrzebę zapewnienia sprawnej realizacji zadań przez dyspozytorów medycznych oraz współpracy SWD PRM z systemem teleinformatycznym w rozumieniu art. 2 pkt 4 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego.”;
+
+- **25)** po art. 25 dodaje się art. 25a–25c w brzmieniu: „Art. 25a. 1. Wojewoda tworzy i prowadzi jedną dyspozytornię medyczną w województwie.
+
+2. W województwie mazowieckim oraz w województwie śląskim wojewodowie mogą utworzyć i prowadzić dwie dyspozytornie medyczne.
+
+3. Dyspozytornie medyczne działają w sposób zapewniający ich zastępowalność w przypadku miejscowej awarii sieci teleinformatycznej na potrzeby obsługi numerów alarmowych w rozumieniu art. 2 pkt 5 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego albo jej przeciążenia, awarii SWD PRM, łączności radiowej lub telefonicznej.
+
+4. Minister właściwy do spraw zdrowia opracowuje wytyczne dotyczące sposobu i trybu zastępowalności dyspozytorni medycznych i przekazuje je wojewodom. Wytyczne stanowią tajemnicę prawnie chronioną i nie podlegają udostępnieniu na podstawie ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej i nie podlegają udostępnieniu lub przekazywaniu w celu ponownego wykorzystania na podstawie ustawy z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego.
+
+5. Dyspozytornie medyczne mają obowiązek stosowania wytycznych, o których mowa w ust. 4.
 
 **Art. 25b.**
 
@@ -616,15 +716,61 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 136c po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. W przypadku rozwiązania umowy, o której mowa w art. 159a, do rozliczenia świadczeń opieki zdrowotnej, finansowanych w formie ryczałtu systemu zabezpieczenia i udzielonych do dnia:
+- **1)** wypowiedzenia umowy i od dnia wypowiedzenia do dnia rozwiązania umowy w danym lub następnym okresie rozliczeniowym,
+- **2)** rozwiązania umowy w danym okresie rozliczeniowym – nie stosuje się przepisów ust. 1–3.
+
+4b. Świadczenia, o których mowa w ust. 4a, są rozliczane na podstawie ich prawidłowo sprawozdanego wykonania, zgodnie z przepisami wydanymi na podstawie art. 146 ust. 1 pkt 2, z uwzględnieniem cen tych świadczeń przyjętych do ustalenia ryczałtu systemu zabezpieczenia, do wysokości kwoty odpowiadającej kwocie ustalonego ryczałtu systemu zabezpieczenia proporcjonalnej do części okresu rozliczeniowego przypadającej na okres do dnia rozwiązania umowy, o której mowa w art. 159a.”;
+
+- **2)** w art. 161d:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) w formie dotacji podmiotowej z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia, w zakresie, o którym mowa w ust. 4;”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Finansowanie, o którym mowa w ust. 1 pkt 1, odbywa się na podstawie umowy zawartej między ministrem właściwym do spraw zdrowia a podmiotem leczniczym utworzonym przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów transportu sanitarnego.”,
+    - **c)** uchyla się ust. 7–9.
+
 **Art. 3.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 9b po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Minister właściwy do spraw szkolnictwa wyższego w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, standardy kształcenia na kierunku ratownictwo medyczne, uwzględniając wymogi dotyczące kształcenia i szkolenia przygotowujące do wykonywania zawodu ratownika medycznego.”;
+- **2)** w art. 167 ust. 2 otrzymuje brzmienie: „2. Datą ukończenia studiów jest data złożenia egzaminu dyplomowego, w przypadku kierunków lekarskiego, lekarsko-dentystycznego i weterynarii – data złożenia ostatniego wymaganego planem studiów egzaminu, a w przypadku kierunku farmacja oraz kierunku związanego z kształceniem w zakresie fizjoterapii – data zaliczenia ostatniej, przewidzianej w planie studiów praktyki.”.
 
 **Art. 4.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318 i 1524) art. 19 otrzymuje brzmienie: „Art. 19. Zasady przeprowadzenia badania lub udzielenia innych świadczeń zdrowotnych przez lekarza, ratownika medycznego oraz pielęgniarkę systemu pomimo braku zgody albo wobec zgłoszenia sprzeciwu, o których mowa w art. 17 i art. 18, określają odpowiednio przepisy art. 33 i art. 34 ust. 6 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty oraz art. 11 ust. 10a–10c ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650 i 1115).”.
 
 **Art. 5.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2016 r. poz. 656 oraz z 2017 r. poz. 1566) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 pkt 5 otrzymuje brzmienie: „5) ratowniku wodnym – rozumie się przez to osobę posiadającą wiedzę i umiejętności z zakresu ratownictwa wodnego i technik pływackich oraz inne kwalifikacje przydatne w ratownictwie wodnym i spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650 i 1115) dla lekarza systemu, pielęgniarki systemu, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika, zatrudnioną lub pełniącą służbę w podmiocie uprawnionym do wykonywania ratownictwa wodnego lub będącą członkiem tego podmiotu;”;
+- **2)** w art. 12: o Państwowym Ratownictwie Medycznym, o cofnięciu zgody, o której mowa w ust. 1.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Ratownictwo wodne mogą wykonywać podmioty, które uzyskały zgodę ministra właściwego do spraw wewnętrznych na wykonywanie ratownictwa wodnego oraz wpis do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, zwane dalej „podmiotami uprawnionymi do wykonywania ratownictwa wodnego”.”,
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Decyzja, o której mowa w ust. 2, wygasa, jeżeli podmiot uprawniony do wykonywania ratownictwa wodnego, który uzyskał zgodę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia jej wydania nie został wpisany do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.”,
+    - **c)** w ust. 5 pkt 1 otrzymuje brzmienie: „1) cofa zgodę, o której mowa w ust. 1, jeżeli podmiot uprawniony do wykonywania ratownictwa wodnego, któremu taka zgoda została udzielona, przestał spełniać warunki, o których mowa w ust. 2, lub został wykreślony z rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, lub”,
+    - **d)** dodaje się ust. 6 w brzmieniu: „6. Minister właściwy do spraw wewnętrznych zawiadamia wojewodę właściwego do dokonania wpisu do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r.
+
+- **3)** uchyla się art. 19.
+
 **Art. 6.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. poz. 1241 oraz z 2013 r. poz. 7) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 pkt 9 i 10 otrzymują brzmienie: „9) ratowniku górskim – rozumie się przez to osobę posiadającą uprawnienia ratownicze lub instruktorskie w zakresie ratownictwa górskiego oraz specjalistyczną wiedzę z zakresu technik ratownictwa górskiego i topografii obszaru, na którym działa dany podmiot uprawniony do wykonywania ratownictwa górskiego, i spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650 i 1115) dla lekarza systemu, pielęgniarki systemu, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika, zatrudnioną lub pełniącą służbę w tym podmiocie lub będącą członkiem tego podmiotu;
+- **10)** ratowniku narciarskim – rozumie się przez to osobę, która ukończyła szkolenie w zakresie transportu osób potrzebujących pomocy na zorganizowanych terenach narciarskich, organizowane przez podmiot uprawniony do wykonywania ratownictwa górskiego i spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu, pielęgniarki systemu, ratownika medycznego realizujących doskonalenie zawodowe lub ratownika;”;
+- **2)** w art. 5: o Państwowym Ratownictwie Medycznym, zwane dalej „podmiotami uprawnionymi do wykonywania ratownictwa górskiego”.”, o Państwowym Ratownictwie Medycznym, o cofnięciu zgody, o której mowa w ust. 1.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Ratownictwo górskie mogą wykonywać podmioty, które uzyskały zgodę ministra właściwego do spraw wewnętrznych na wykonywanie ratownictwa górskiego oraz wpis do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r.
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Decyzja, o której mowa w ust. 2, wygasa, jeżeli podmiot uprawniony do wykonywania ratownictwa górskiego, który uzyskał zgodę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia jej wydania nie został wpisany do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.”,
+    - **c)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) cofa zgodę, o której mowa w ust. 1, jeżeli podmiot uprawniony do wykonywania ratownictwa górskiego, któremu taka zgoda została udzielona, przestał spełniać warunki, o których mowa w ust. 2, lub został wykreślony z rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, lub”,
+    - **d)** dodaje się ust. 5 w brzmieniu: „5. Minister właściwy do spraw wewnętrznych zawiadamia wojewodę właściwego do dokonania wpisu do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r.
+
+- **3)** uchyla się art. 12.
+
 **Art. 7.** W ustawie z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2018 r. poz. 867) wprowadza się następujące zmiany:
+
+- **1)** w art. 19 w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) podłączenie urzędu obsługującego ministra właściwego do spraw zdrowia do sieci teleinformatycznej na potrzeby obsługi numerów alarmowych oraz utrzymanie łącza z tą siecią.”;
+- **2)** w art. 35:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Maksymalny limit wydatków z budżetu państwa, w częściach ministra właściwego do spraw administracji publicznej, ministra właściwego do spraw finansów publicznych oraz wojewodów w zakresie systemu powiadamiania ratunkowego, będących skutkiem finansowym ustawy, wynosi 691 564 659 zł, z tego:”, – pkt 5–10 otrzymują brzmienie: „5) w 2018 r. – 77 719 413 zł;
+
+- **6)** w 2019 r. – 88 039 262 zł;
+- **7)** w 2020 r. – 68 188 873 zł;
+- **8)** w 2021 r. – 69 943 006 zł;
+- **9)** w 2022 r. – 71 739 240 zł;
+- **10)** w 2023 r. – 73 536 007 zł.”,
+    - **b)** w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Maksymalny limit wydatków z budżetu państwa, w częściach ministra właściwego do spraw wewnętrznych w zakresie dotyczącym współpracy Policji, Państwowej Straży Pożarnej, dysponentów zespołów ratownictwa medycznego i ministra właściwego do spraw zdrowia z systemem powiadamiania ratunkowego oraz wojewodów w zakresie dotyczącym współpracy Państwowej Straży Pożarnej z systemem powiadamiania ratunkowego, będących skutkiem finansowym ustawy, wynosi 342 173 239 zł, z tego:”, – pkt 6 otrzymuje brzmienie: „6) w 2019 r. – 44 644 231 zł;”, – pkt 9 i 10 otrzymują brzmienie: „9) w 2022 r. – 36 437 254 zł;
+
+- **10)** w 2023 r. – 36 796 454 zł.”.
 
 **Art. 8.**
 
@@ -715,6 +861,9 @@ source: "isap-pdf"
 2. Dyspozytor medyczny i wojewódzki koordynator ratownictwa medycznego mają obowiązek przedstawić wojewodzie po raz pierwszy zaświadczenia o ukończeniu kursów, o których mowa w art. 27a ust. 2 pkt 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 31 marca 2025 r.
 
 **Art. 19a.** Wymagania dotyczące ukończenia kursu uprawniającego do pracy na stanowisku:
+
+- **1)** wojewódzkiego koordynatora ratownictwa medycznego, o którym mowa w art. 27a ust. 2 pkt 7 lit. a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
+- **2)** dyspozytora medycznego, o którym mowa w art. 27a ust. 2 pkt 7 lit. b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – stosuje się do osób, które zostały zatrudnione na tych stanowiskach po dniu 31 grudnia 2023 r.
 
 **Art. 20.** Do dnia 31 grudnia 2020 r. umowy na wykonywanie zadań zespołów ratownictwa medycznego mogą być zawarte z podmiotami leczniczymi, w których skład wchodzą zespoły ratownictwa medycznego, niebędącymi samodzielnymi publicznymi zakładami opieki zdrowotnej albo jednostkami budżetowymi, albo spółkami kapitałowymi, w których co najmniej 51% udziałów albo akcji należy do Skarbu Państwa lub jednostek samorządu terytorialnego, w przypadku gdy w postępowaniu w sprawie zawarcia tych umów, w rejonie operacyjnym, którego dotyczyło to postępowanie, nie zawarto umów z wystarczającą liczbą dysponentów zespołów ratownictwa medycznego, w których skład wchodzi jednostka systemu, o której mowa w art. 32 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -864,6 +1013,11 @@ source: "isap-pdf"
 
 **Art. 22.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 11 ust. 11 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2019 r.;
+- **2)** art. 12e ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12e ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2019 r.;
+- **3)** art. 24a ust. 5 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24g ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2018 r.;
+- **4)** art. 38 ust. 3 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 38 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2019 r.
+
 **Art. 23.**
 
 1. W latach 2018–2022 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia wynosi 194 434 tys. zł, z tym że w poszczególnych latach wyniesie odpowiednio w:
@@ -903,4 +1057,14 @@ source: "isap-pdf"
 4. Wojewodowie przekazują ministrowi właściwemu do spraw zdrowia sprawozdania z wykorzystania limitów wydatków, o których mowa w ust. 1, w terminie do 20. dnia miesiąca następującego po upływie każdego półrocza.
 
 **Art. 25.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 3 pkt 2, który wchodzi w życie z dniem 1 października 2018 r.;
+- **1a)** art. 1 pkt 2 lit. a i pkt 17, które wchodzą w życie z dniem 1 listopada 2018 r.;
+- **2)** art. 1 pkt 21 w zakresie art. 24a ust. 1 pkt 1 i 3, ust. 3 pkt 1 i ust. 4–6, pkt 22, pkt 23, pkt 24 w zakresie art. 24f ust. 3 i art. 24g, pkt 28 lit. a tiret pierwsze, lit. e i f, pkt 29 w zakresie art. 27a ust. 2 pkt 2 i ust. 3 pkt 2, które wchodzą w życie z dniem 1 stycznia 2019 r.;
+- **3)** (uchylony)
+- **4)** art. 1 pkt 25 w zakresie art. 25b ust. 1–4, pkt 26 lit. c, pkt 30 w zakresie art. 29 ust. 5 pkt 1, pkt 38 w zakresie art. 41 ust. 3 oraz pkt 43 lit. b i c, które wchodzą w życie z dniem 1 stycznia 2020 r.;
+- **5)** art. 1 pkt 21 w zakresie art. 24a ust. 7 i 8, pkt 24 w zakresie art. 24e ust. 6–10 i art. 24h, pkt 25 w zakresie art. 25a ust. 1 i 2 i art. 25c, pkt 26 lit. a w zakresie art. 26 ust. 1 pkt 2, pkt 27, pkt 29 w zakresie art. 27a ust. 2 pkt 3 i 4 oraz ust. 3 pkt 3, i pkt 43 lit. a, które wchodzą w życie z dniem 1 stycznia 2021 r.;
+- **5a)** art. 1 pkt 29 w zakresie art. 27a ust. 3 pkt 3b, który wchodzi w życie z dniem 1 stycznia 2023 r.;
+- **6)** art. 1 pkt 26 lit. b tiret drugie w zakresie art. 26 ust. 2 pkt 5, lit. d, lit. e w zakresie uchylenia art. 26 ust. 5 i lit. f, pkt 29 w zakresie art. 27a ust. 2 pkt 5–8, ust. 3 pkt 3a i 4 oraz art. 27b, które wchodzą w życie z dniem 1 stycznia 2024 r.
+
 

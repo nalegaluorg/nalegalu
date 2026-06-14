@@ -8,10 +8,10 @@ pos: 2399
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2399 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 listopada 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002399) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2399/text.pdf) |
 
-Poz. 2399 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 listopada 2022 r.
 zmieniające rozporządzenie w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
-z 2022 r. poz. 2157) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm. ) w § 13zs:
+z 2022 r. poz. 2157) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm. ) w § 13zs:
 1) w ust. 4 i 5 liczbę „23” zastępuje się liczbą „30”;
 2) w ust. 7 pkt 4 otrzymuje brzmienie: „4) kopie faktur lub inne dokumenty potwierdzające sprzedaż, o której mowa w ust. 2 pkt 4.”;
 3) w ust. 12 liczbę „450” zastępuje się liczbą „600”.

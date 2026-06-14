@@ -8,10 +8,10 @@ pos: 2791
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22779911 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 20 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,45 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002791) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2791/text.pdf) |
 
-Poz. 22779911 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 20 grudnia 2022 r.
-w sprawie jednolitego wzoru formularza sprawozdania z działalności fundacji Na podstawie art. 12 ust. 4 ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2020 r. poz. 2167 oraz z 2022 r. poz. 2185) zarządza się, co następuje: § 1. Określa się jednolity wzór formularza sprawozdania z działalności fundacji, stanowiący załącznik do rozporządzenia.
+w sprawie jednolitego wzoru formularza sprawozdania z działalności fundacji Na podstawie art. 12 ust. 4 ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2020 r. poz. 2167 oraz z 2022 r. poz. 2185) zarządza się, co następuje:
+§ 1. Określa się jednolity wzór formularza sprawozdania z działalności fundacji, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Sprawiedliwości: Z. Ziobro
+Minister Sprawiedliwości: Z. Ziobro WZÓR WZÓR za rok Sprawozdanie z działalności fundacji Nazwa organu sprawującego nadzór: I. Dane fundacji
+1. Nazwa fundacji
+2. Adres siedziby i dane kontaktowe
+4. Data
+3. Nr REGON: wpisu 5. Nr KRS: do KRS: Dziennik Ustaw – 2 3 – Poz. 2791
+6. Dane członków Imię i nazwisko Funkcja zarządu fundacji / dane likwidatora (według aktualnego wpisu w KRS)
+7. Numer NIP fundacji
+8. Wszystkie cele statutowe fundacji II. Charakterystyka działalności fundacji w okresie sprawozdawczym (dane odnoszą się do faktycznie wykonywanej działalności w roku sprawozdawczym)
+1. Zasady, formy i zakres działalności statutowej z podaniem realizacji celów statutowych
+2. Opis głównych zdarzeń prawnych w działalności fundacji o skutkach finansowych
+3. Informacja o tym, czy fundacja prowadziła działalność gospodarczą w okresie sprawozdawczym (zaznaczyć odpowiednie pole, w przypadku zaznaczenia odpowiedzi TAK należy wypełnić rubrykę 5 oraz część III rubrykę 3) Dziennik Ustaw – 3 4 – Poz. 2791
+4. Informacja o prowadzonej działalności gospodarczej według wpisu do rejestru przedsiębiorców KRS w okresie sprawozdawczym (należy podać kody PKD działalności gospodarczej wpisanej do rejestru przedsiębiorców KRS wraz z ich opisem słownym oraz kody i opis słowny faktycznie prowadzonej działalności gospodarczej)
+5. Czy zarząd lub rada fundacji w okresie sprawozdawczym podejmowały uchwały (jeśli tak, to należy dołączyć odpisy wszystkich uchwał podjętych w okresie objętym sprawozdaniem) III. Informacja o wysokości uzyskanych przychodów Kwota (w podziale na formy Inne formy przychodu płatności) Przelew Gotówka Wartość innych form przychodu
+1. Łączna kwota uzyskanych (dotyczy wszystkich przychodów (suma punktów a-c) rodzajów płatności bezgotówkowych) a. Przychody z działalności statutowej b. Przychody z działalności gospodarczej c. Pozostałe przychody
+2. Informacja o źródłach przychodów a. Przychody z działalności odpłatnej w ramach celów statutowych b. Ze źródeł publicznych ogółem, w tym: - ze środków budżetu państwa - ze środków budżetu jednostek samorządu terytorialnego c. Ze spadków, zapisów d. Z darowizn Dziennik Ustaw – 4 5 – Poz. 2791 e. Z innych źródeł (wskazać jakich)
+3. Jeżeli prowadzono działalność gospodarczą a. Dochód z prowadzonej działalności gospodarczej (tj.
+przychody z działalności gospodarczej minus koszty działalności gospodarczej) b. Procentowy stosunek przychodu osiągniętego z działalności gospodarczej do przychodu osiągniętego z pozostałych źródeł IV. Informacja o poniesionych kosztach w okresie sprawozdawczym Kwota (w podziale na formy Inne formy kosztów płatności) Przelew Gotówka Wartość poniesionych kosztów Koszty fundacji ogółem (dotyczy wszystkich rodzajów płatności bezgotówkowych)
+1. Koszty realizacji celów statutowych
+2. Koszty administracyjne (czynsze, opłaty pocztowe, telefoniczne itp.)
+3. Koszty działalności gospodarczej
+4. Pozostałe koszty V. Informacja o zatrudnieniu i wynagrodzeniu
+1. Liczba osób zatrudnionych w fundacji na podstawie stosunku pracy (wg zajmowanego stanowiska)
+2. Liczba osób zatrudnionych wyłącznie w ramach działalności gospodarczej
+3. Łączna kwota wynagrodzeń (brutto) wypłaconych przez fundację w okresie sprawozdawczym (wraz z pochodnymi od wynagrodzeń) a. Z tytułu umów o pracę (z podziałem na wynagrodzenia, nagrody, premie i inne świadczenia, z wyodrębnieniem całości tych wynagrodzeń osób zatrudnionych wyłącznie w działalności gospodarczej) b. Z tytułu umów cywilnoprawnych Dziennik Ustaw – 5 6 – Poz. 2791 c. Wysokości rocznego lub przeciętnego miesięcznego wynagrodzenia wypłaconego łącznie członkom zarządu i innych organów fundacji oraz osobom kierującym wyłącznie działalnością gospodarczą (z podziałem na wynagrodzenia, nagrody, premie i inne świadczenia) VI. Informacja o udzielonych przez fundację pożyczkach pieniężnych w okresie sprawozdawczym
+1. Fundacja udzielała pożyczek pieniężnych (zaznaczyć odpowiednie NIE TAK pole, w przypadku zaznaczenia pola TAK należy wypełnić rubryki 2-4)
+2. Wysokość udzielonych pożyczek pieniężnych
+3. Wskazanie pożyczkobiorców i warunków przyznania pożyczek pieniężnych
+4. Statutowa podstawa udzielenia pożyczek pieniężnych (należy zacytować odpowiedni przepis statutu) VII. Środki fundacji
+1. Kwoty zgromadzone na rachunkach płatniczych, ze wskazaniem banku w przypadku rachunku bankowego (należy podać dane na koniec roku sprawozdawczego)
+2. Kwoty zgromadzone na rachunkach płatniczych spółdzielczej kasy oszczędnościowo-kredytowej (SKOK) w przypadku rachunku członka SKOK (należy podać dane na koniec roku sprawozdawczego)
+3. Wysokość kwot zgromadzonych w gotówce (należy podać dane na koniec roku sprawozdawczego) Dziennik Ustaw – 6 7 – Poz. 2791
+4. Wartość nabytych obligacji oraz 5. Dane o nabytych 6. Nabyte pozostałe środki trwałe wielkość objętych udziałów lub nabytych nieruchomościach, ich przeznaczeniu akcji w spółkach prawa handlowego ze oraz wysokości kwot wskazaniem tych spółek wydatkowanych na to nabycie
+7. Dane o wartościach aktywów i Aktywa Zobowiązania zobowiązań fundacji ujętych we właściwych sprawozdaniach finansowych sporządzanych dla celów statystycznych na dzień kończący bieżący i poprzedni rok obrotowy VIII. Dane o działalności zleconej fundacji przez podmioty państwowe i samorządowe (usługi, państwowe zadania zlecone - dotacje i zamówienia publiczne) oraz informacja o wyniku finansowym tej działalności Dziennik Ustaw – 7 8 – Poz. 2791 IX. Informacja o rozliczeniach fundacji w okresie sprawozdawczym
+1. Z tytułu ciążących zobowiązań podatkowych
+2. Informacja w sprawie składanych deklaracji podatkowych X. Informacja, czy fundacja jest instytucją obowiązaną w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593, z późn. zm.) – zaznaczyć odpowiednie pole, w NIE TAK przypadku zaznaczenia odpowiedzi TAK należy wypełnić część XI.
+XI. Informacja o przyjęciu lub dokonaniu przez fundację płatności w gotówce o wartości równej lub przekraczającej równowartość 10 000 euro, bez względu na to, czy płatność jest przeprowadzana jako pojedyncza operacja czy kilka operacji, które wydają się ze sobą powiązane, wraz ze wskazaniem daty i kwoty operacji Dziennik Ustaw – 8 9 – Poz. 2791 XII. Informacja o przeprowadzanych kontrolach w fundacji
+1. Informacja, czy w fundacji była przeprowadzona kontrola (zaznaczyć odpowiednie pole, w przypadku NIE TAK zaznaczenia odpowiedzi TAK należy wypełnić rubrykę 2)
+2. Wyniki przeprowadzonej kontroli w fundacji (pozytywne i negatywne wraz ze wskazaniem podmiotu przeprowadzającego kontrolę) ……………………………………… …………………………………… podpisy członków zarządu fundacji* podpisy członków zarządu fundacji* ………………………………… miejscowość, data *
 

@@ -8,7 +8,7 @@ pos: 249
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zasadach finansowania nauki oraz niektórych innych ustaw
@@ -28,6 +28,69 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000249) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/249/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2014 r. poz. 1620) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 pkt 1 otrzymuje brzmienie: „1) finansowania nauki ze środków finansowych ustalanych na ten cel w wyodrębnionej części budżetu państwa – „Nauka” oraz ze środków finansowych Funduszu Nauki i Technologii Polskiej, zwanych dalej „środkami finansowymi na naukę”, którymi dysponuje minister właściwy do spraw nauki, zwany dalej „Ministrem”;”;
+- **2)** w art. 2:
+    - **a)** pkt 3 i 4 otrzymują brzmienie: „3) badania naukowe:
+    - **a)** badania podstawowe – oryginalne prace badawcze eksperymentalne lub teoretyczne podejmowane przede wszystkim w celu zdobywania nowej wiedzy o podstawach zjawisk i obserwowalnych faktów bez nastawienia na bezpośrednie zastosowanie komercyjne,
+    - **b)** badania stosowane – prace badawcze podejmowane w celu zdobycia nowej wiedzy, zorientowane przede wszystkim na zastosowanie w praktyce,
+    - **c)** badania przemysłowe – badania mające na celu zdobycie nowej wiedzy oraz umiejętności w celu opracowywania nowych produktów, procesów i usług lub wprowadzania znaczących ulepszeń do istniejących produktów, procesów i usług; badania te uwzględniają tworzenie elementów składowych systemów złożonych, budowę prototypów w środowisku laboratoryjnym lub w środowisku symulującym istniejące systemy, szczególnie do oceny przydatności danych rodzajów technologii, a także budowę niezbędnych w tych badaniach linii pilotażowych, w tym do uzyskania dowodu w przypadku technologii generycznych;
+
+- **4)** prace rozwojowe – nabywanie, łączenie, kształtowanie i wykorzystywanie dostępnej aktualnie wiedzy i umiejętności z dziedziny nauki, technologii i działalności gospodarczej oraz innej wiedzy i umiejętności do planowania produkcji oraz tworzenia i projektowania nowych, zmienionych lub ulepszonych produktów, procesów i usług, z wyłączeniem prac obejmujących rutynowe i okresowe zmiany wprowadzane do produktów, linii produkcyjnych, procesów wytwórczych, istniejących usług oraz innych operacji w toku, nawet jeżeli takie zmiany mają charakter ulepszeń, w szczególności: Nr 96, poz. 618, z późn. zm. ),”, – lit. f otrzymuje brzmienie: „f) inne jednostki organizacyjne niewymienione w lit. a–e, posiadające siedzibę na terytorium Rzeczypospolitej Polskiej, będące organizacjami prowadzącymi badania i upowszechniającymi wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.6.2014, str. 1);”,
+    - **a)** opracowywanie prototypów i projektów pilotażowych oraz demonstracje, testowanie i walidację nowych lub ulepszonych produktów, procesów lub usług w otoczeniu stanowiącym model warunków rzeczywistego funkcjonowania, których głównym celem jest dalsze udoskonalenie techniczne produktów, procesów lub usług, których ostateczny kształt nie został określony,
+    - **b)** opracowywanie prototypów i projektów pilotażowych, które można wykorzystać do celów komercyjnych, w przypadku gdy prototyp lub projekt pilotażowy stanowi produkt końcowy gotowy do wykorzystania komercyjnego, a jego produkcja wyłącznie do celów demonstracyjnych i walidacyjnych jest zbyt kosztowna;”,
+    - **b)** pkt 8 otrzymuje brzmienie: „8) działalność upowszechniająca naukę – realizację zadań wspierających rozwój polskiej nauki przez upowszechnianie, promocję i popularyzację wyników działalności badawczo-rozwojowej, innowacyjnej i wynalazczej, w tym w skali międzynarodowej, a także zadań związanych z utrzymaniem zasobów o dużym znaczeniu dla nauki i jej dziedzictwa, nieobejmujących prowadzenia badań naukowych lub prac rozwojowych;”,
+    - **c)** w pkt 9: – lit. c otrzymuje brzmienie: „c) instytuty badawcze w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U.
+    - **d)** pkt 17 otrzymuje brzmienie: „17) duża infrastruktura badawcza – aparaturę naukowo-badawczą w tym infrastrukturę informatyczną nauki, o wartości przekraczającej:
+    - **a)** 150 000 zł – w przypadku aparatury naukowo-badawczej służącej do prowadzenia badań naukowych lub prac rozwojowych w grupie nauk humanistycznych i społecznych oraz w grupie nauk o sztuce i twórczości artystycznej,
+    - **b)** 500 000 zł – w przypadku aparatury naukowo-badawczej służącej do prowadzenia badań naukowych lub prac rozwojowych w grupie nauk ścisłych i inżynierskich oraz w grupie nauk o życiu;”,
+    - **e)** po pkt 17 dodaje się pkt 17a w brzmieniu: „17a) strategiczna infrastruktura badawcza – dużą infrastrukturę badawczą oraz infrastrukturę budowlaną, ujęte w wykazie przedsięwzięć w zakresie strategicznej infrastruktury badawczej, który stanowi Polską Mapę Drogową Infrastruktury Badawczej;”,
+    - **f)** pkt 18 otrzymuje brzmienie: „18) specjalne urządzenie badawcze – aparaturę naukowo-badawczą lub stanowisko badawcze, o co najmniej regionalnym znaczeniu, którego koszty utrzymania stanowią znaczną część kosztów utrzymania potencjału badawczego jednostki naukowej, służące do prowadzenia badań naukowych lub prac rozwojowych, w szczególności w kierunkach określonych w Krajowym Programie Badań, o którym mowa w art. 4, przy użyciu którego są świadczone, także odpłatnie, usługi z zakresu działalności badawczo-rozwojowej na rzecz innych jednostek naukowych;”,
+    - **g)** po pkt 18 dodaje się pkt 18a w brzmieniu: „18a) specjalne urządzenie badawcze z zakresu infrastruktury informatycznej nauki – infrastrukturę centrów komputerów o dużej mocy obliczeniowej, akademickie miejskie sieci informatyczne o co najmniej regionalnym znaczeniu i zasięgu oraz koszty łączności międzynarodowej z naukowymi sieciami informatycznymi;”,
+    - **h)** pkt 19 otrzymuje brzmienie: „19) młody naukowiec – osobę prowadzącą działalność badawczo-rozwojową, która w roku ubiegania się o przyznanie środków finansowych na naukę kończy nie więcej niż 35 lat; jeżeli osoba ta przebywała na urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, dodatkowym urlopie macierzyńskim, dodatkowym urlopie na warunkach urlopu macierzyńskiego, urlopie ojcowskim, urlopie rodzicielskim lub urlopie wychowawczym, udzielonych na zasadach określonych w przepisach Kodeksu pracy albo pobierała zasiłek chorobowy lub świadczenia rehabilitacyjne w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej to może się ubiegać o środki finansowe na naukę po ukończeniu 35 roku życia przez okres odpowiadający czasowi przebywania na tych urlopach albo okresowi pobierania tego zasiłku lub świadczenia, jednakże okresy te nie mogą łącznie przekroczyć dwóch lat;”,
+    - **i)** po pkt 19 dodaje się pkt 19a w brzmieniu: „19a) osoba rozpoczynająca karierę naukową – osobę rozpoczynającą karierę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. Nr 96, poz. 617, z późn. zm. );”;
+
+- **3)** w art. 4 ust. 2 otrzymuje brzmienie: „2. Projekt Krajowego Programu Badań opracowuje Minister po zasięgnięciu opinii Polskiej Akademii Nauk, Konferencji Rektorów Akademickich Szkół Polskich, Konferencji Rektorów Zawodowych Szkół Polskich, Rady Głównej Nauki i Szkolnictwa Wyższego, Rady Głównej Instytutów Badawczych, Komitetu Polityki Naukowej i organizacji samorządu gospodarczego.”;
+- **4)** po art. 4 dodaje się art. 4a–4c w brzmieniu: „Art. 4a. 1. Minister ustala Polską Mapę Drogową Infrastruktury Badawczej, która stanowi wykaz przedsięwzięć w zakresie strategicznej infrastruktury badawczej.
+
+2. Wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej następuje na podstawie decyzji Ministra.
+
+3. Wniosek o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej może złożyć jednostka naukowa, konsorcjum naukowe, centrum naukowo-przemysłowe, centrum naukowe Polskiej Akademii Nauk i centrum naukowe uczelni, reprezentowane przez jednostkę naukową, lub uczelnia.
+
+4. Wniosek o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej zawiera:
+
+- **1)** tytuł przedsięwzięcia w zakresie strategicznej infrastruktury badawczej;
+- **2)** dane dotyczące wnioskodawcy:
+    - **a)** nazwę, siedzibę i adres wnioskodawcy,
+    - **b)** imię i nazwisko kierownika wnioskodawcy,
+    - **c)** imię i nazwisko, numer telefonu i adres e-mail osoby odpowiedzialnej za sporządzenie wniosku;
+
+- **3)** opis struktury własnościowej, operacyjnej, technicznej oraz organizacyjnej i prawnej przedsięwzięcia w zakresie strategicznej infrastruktury badawczej;
+- **4)** opis celów badawczych oraz programu badań, z uwzględnieniem unikatowego charakteru przedsięwzięcia w zakresie strategicznej infrastruktury badawczej i przewidywalnego wkładu w rozwój badań naukowych;
+- **5)** opis koncepcji realizacji programu badań i zasad dostępu do prowadzenia badań i ich wyników;
+- **6)** opis potencjału naukowo-badawczego wnioskodawcy;
+- **7)** opis harmonogramu realizacji przedsięwzięcia w zakresie strategicznej infrastruktury badawczej;
+- **8)** informację o planowanych kosztach realizacji przedsięwzięcia w zakresie strategicznej infrastruktury badawczej, w tym o planowanych źródłach pokrycia kosztów utrzymania i kosztów bieżących tego przedsięwzięcia;
+- **9)** opis koncepcji współpracy wnioskodawcy z innymi jednostkami naukowymi w kraju lub za granicą.
+
+5. W przypadku wniosku składanego przez konsorcjum naukowe, centrum naukowo-przemysłowe lub centrum naukowe Polskiej Akademii Nauk do wniosku dołącza się poświadczoną za zgodność z oryginałem kopię umowy o utworzeniu konsorcjum naukowego, centrum naukowo-przemysłowego lub centrum naukowego Polskiej Akademii Nauk wraz ze wskazaniem jednostki naukowej pełniącej funkcję koordynatora tego podmiotu.
+
+6. Przy ocenie wniosków uwzględnia się kryteria:
+
+- **1)** unikatowość strategicznej infrastruktury badawczej w skali krajowej i międzynarodowej;
+- **2)** wartość naukową i zasadność programu badań naukowych lub prac rozwojowych realizowanego przy wykorzystaniu strategicznej infrastruktury badawczej w odniesieniu do posiadanego przez wnioskodawcę potencjału naukowego;
+- **3)** zgodność programu badań naukowych lub prac rozwojowych z założeniami polityki naukowej, w tym z Krajowym Programem Badań, o którym mowa w art. 4;
+- **4)** zasadność kosztów związanych ze strategiczną infrastrukturą badawczą;
+- **5)** zdolność wnioskodawcy do samodzielnego pokrycia kosztów utrzymania strategicznej infrastruktury badawczej i kosztów bieżących;
+- **6)** możliwość włączenia strategicznej infrastruktury badawczej w przedsięwzięcia międzynarodowe.
+
+7. Do oceny wniosków stosuje się odpowiednio art. 15 ust. 3.
+
+8. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe kryteria i tryb oceny wniosków o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej,
+- **2)** terminy i tryb składania wniosków o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej,
+- **3)** wzory wniosków o wpisanie przedsięwzięcia w zakresie strategicznej infrastruktury badawczej na Polską Mapę Drogową Infrastruktury Badawczej – mając na uwadze znaczenie przedsięwzięć w zakresie strategicznej infrastruktury badawczej dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, integracji krajowej infrastruktury badawczej z infrastrukturą międzynarodową, rozszerzenie naukowej współpracy międzynarodowej i podnoszenie jakości badań naukowych lub prac rozwojowych oraz rozwoju gospodarczego i społecznego kraju.
 
 **Art. 4b.** Minister właściwy do spraw nauki ogłasza w dzienniku urzędowym Ministra komunikaty o przedsięwzięciach w zakresie strategicznej infrastruktury badawczej wpisanych na Polską Mapę Drogową Infrastruktury Badawczej, o kategoriach przyznanych jednostkom naukowym oraz o przyznanych dotacjach ze środków finansowych na naukę.
 
@@ -65,7 +128,7 @@ source: "isap-pdf"
 
 7. Nieprawidłowe, nierzetelne lub nieterminowe wprowadzenie danych i informacji do Systemu może skutkować wstrzymaniem finansowania do czasu usunięcia tych nieprawidłowości.
 
-8. W przypadku przekazania środków finansowych na naukę w wysokości ustalonej w oparciu o dane wprowadzone do Systemu przez jednostkę naukową, o której mowa w ust. 6, nieprawidłowo, nierzetelnie lub nieterminowo, następuje na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ).
+8. W przypadku przekazania środków finansowych na naukę w wysokości ustalonej w oparciu o dane wprowadzone do Systemu przez jednostkę naukową, o której mowa w ust. 6, nieprawidłowo, nierzetelnie lub nieterminowo, Ministrowi przysługuje prawo do żądania zwrotu nienależnie pobranych środków finansowych. Zwrot tych środków następuje na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ).
 
 9. Minister prowadzi centralny wykaz pracowników naukowych zatrudnionych w jednostkach naukowych przy realizacji badań naukowych lub prac rozwojowych w ramach stosunku pracy, zwany dalej „Wykazem”:
 
@@ -98,7 +161,8 @@ source: "isap-pdf"
 14. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres danych i informacji, o których mowa w ust. 3 i 4,
-- **2)** terminy aktualizacji danych w Systemie, – mając na uwadze powszechny dostęp do informacji o działalności badawczo-rozwojowej jednostek naukowych i efektach jej finansowania, z uwzględnieniem rodzaju jednostki naukowej, oraz wspomaganie działań mających na celu kształtowanie polityki kadrowej, naukowej i naukowo-technicznej, a także ochronę danych osobowych.”;
+- **2)** terminy aktualizacji danych w Systemie,
+- **3)** sposób i formę udostępniania informacji zgromadzonych w Systemie – mając na uwadze powszechny dostęp do informacji o działalności badawczo-rozwojowej jednostek naukowych i efektach jej finansowania, z uwzględnieniem rodzaju jednostki naukowej, oraz wspomaganie działań mających na celu kształtowanie polityki kadrowej, naukowej i naukowo-technicznej, a także ochronę danych osobowych.”;
 - **5)** w art. 5:
     - **a)** pkt 3 i 4 otrzymują brzmienie: „3) badania podstawowe i inne zadania finansowane przez Centrum Nauki;
 
@@ -123,7 +187,7 @@ source: "isap-pdf"
 
 - **8)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Z postępowania w sprawie przyznania środków finansowych na naukę na zadania, o których mowa w art. 5, wyklucza się wnioskodawcę pozostającego pod zarządem komisarycznym bądź znajdującego się w toku likwidacji albo postępowania upadłościowego.
 
-2. W przypadku gdy okoliczności, o których mowa w ust. 1, zostaną ujawnione po wydaniu decyzji o przyznaniu środków finansowych na naukę, Minister, Centrum Nauki lub Centrum Rozwoju uchylają decyzję w art. 5.
+2. W przypadku gdy okoliczności, o których mowa w ust. 1, zostaną ujawnione po wydaniu decyzji o przyznaniu środków finansowych na naukę, Minister, Centrum Nauki lub Centrum Rozwoju uchylają decyzję o przyznaniu tych środków lub odstępują od umowy zawartej w sprawie finansowania zadań, o których mowa w art. 5.
 
 3. Decyzja uchylająca decyzję, o której mowa w ust. 2, wywołuje skutki prawne od dnia doręczenia decyzji, którą się uchyla.”;
 
@@ -159,7 +223,8 @@ source: "isap-pdf"
 
 - **1)** kategorię naukową jednostki naukowej, określoną w art. 42 ust. 3;
 - **2)** wpisanie inwestycji na Polską Mapę Drogową Infrastruktury Badawczej;
-- **3)** posiadanie programu badań naukowych lub prac rozwojowych oraz zakres wykorzystania inwestycji do jego realizacji, w tym przez inne jednostki naukowe; jej znaczenie dla realizacji Krajowego Programu Badań, o którym mowa w art. 4.
+- **3)** posiadanie programu badań naukowych lub prac rozwojowych oraz zakres wykorzystania inwestycji do jego realizacji, w tym przez inne jednostki naukowe;
+- **4)** znaczenie inwestycji dla osiągania celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz jej znaczenie dla realizacji Krajowego Programu Badań, o którym mowa w art. 4.
 
 **Art. 13c.**
 
@@ -206,6 +271,7 @@ source: "isap-pdf"
 
 - **1)** zgodność zakresu wykonanych zadań z decyzją o przyznaniu dotacji lub umową, o której mowa w ust. 2;
 - **2)** wykorzystanie środków finansowych na naukę zgodnie z przeznaczeniem;
+- **3)** zasadność poniesionych kosztów w stosunku do zrealizowanych zadań.
 
 4. Raport roczny i raport końcowy z wykorzystania środków finansowych na naukę zawiera:
 
@@ -239,7 +305,7 @@ source: "isap-pdf"
 4. Do umorzenia należności finansowej, o której mowa w ust. 1, stosuje się odpowiednio przepisy o pomocy publicznej lub pomocy de minimis.”;
 
 - **15)** w art. 15 ust. 3 otrzymuje brzmienie: „3. Dane o osobach recenzentów i ekspertów oceniających w danym postępowaniu wnioski o przyznanie środków finansowych na naukę przeznaczonych na zadania określone w art. 5 nie podlegają udostępnieniu.”;
-- **16)** art. 17 otrzymuje brzmienie: „Art. 17. Dyrektor Centrum Nauki lub Dyrektor Centrum Rozwoju, na wniosek kierownika projektu obejmującego badania naukowe lub prace rozwojowe, może wyrazić zgodę na zmianę podmiotu realizującego projekt po poprzejmującej realizację projektu.”;
+- **16)** art. 17 otrzymuje brzmienie: „Art. 17. Dyrektor Centrum Nauki lub Dyrektor Centrum Rozwoju, na wniosek kierownika projektu obejmującego badania naukowe lub prace rozwojowe, może wyrazić zgodę na zmianę podmiotu realizującego projekt po pozytywnym zaopiniowaniu przez kierownika jednostki organizacyjnej realizującej projekt i kierownika jednostki przejmującej realizację projektu.”;
 - **17)** w art. 18:
     - **a)** w ust. 1: – w pkt 1: – – uchyla się lit. g, – – po lit. g dodaje się lit. h oraz i w brzmieniu: „h) działania związane z komercjalizacją wyników badań naukowych i prac rozwojowych, polegające na analizie potrzeb rynku, stanu techniki, możliwości ochrony patentowej efektów tej działalności oraz opracowaniu projektów komercjalizacji,
     - **i)** zadania związane z zapewnieniem warunków udziału niepełnosprawnych naukowców i uczestników studiów doktoranckich w realizacji badań naukowych i prac rozwojowych;”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) koszty restrukturyzacji jednostek naukowych;”, – pkt 2 otrzymuje brzmienie: „2) utrzymanie specjalnego urządzenia badawczego w jednostce naukowej;”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) utrzymanie specjalnego urządzenia badawczego z zakresu infrastruktury informatycznej nauki w jednostce naukowej lub w uczelni;”, – pkt 3 i 4 otrzymują brzmienie: „3) działalność podstawowych jednostek organizacyjnych uczelni, jednostek naukowych Polskiej Akademii Nauk, instytutów badawczych i międzynarodowych instytutów naukowych polegającą na prowadzeniu badań naukowych lub prac rozwojowych oraz zadań z nimi związanych, służących rozwojowi młodych naukowców oraz uczestników studiów doktoranckich, finansowanych w wewnętrznym trybie konkursowym;
@@ -258,7 +324,8 @@ source: "isap-pdf"
 - **1)** kategorii jednostki naukowej określonej w art. 42 ust. 3;
 - **2)** kosztochłonności prowadzonych badań naukowych lub prac rozwojowych w poszczególnych dziedzinach nauki, określonych na podstawie przepisów ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. z 2014 r. poz. 1852);
 - **3)** rodzaju jednostki naukowej, z uwzględnieniem specyfiki i uwarunkowań działalności badawczo-rozwojowej poszczególnych rodzajów jednostek naukowych, ich znaczenia dla realizacji polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz znaczenia realizowanych przez te jednostki zadań dla rozwoju nauki, postępu cywilizacyjnego, rozwoju gospodarczego i kulturalnego państwa;
-- **4)** liczby osób, w przeliczeniu na pełny wymiar czasu pracy, zatrudnionych w jednostce naukowej przy prowadzeniu badań naukowych lub prac rozwojowych na podstawie stosunku pracy; nego w przepisach wydanych na podstawie art. 19 ust. 7, przyznanej jednostce naukowej w poprzednim roku;
+- **4)** liczby osób, w przeliczeniu na pełny wymiar czasu pracy, zatrudnionych w jednostce naukowej przy prowadzeniu badań naukowych lub prac rozwojowych na podstawie stosunku pracy;
+- **5)** wysokości dotacji na działalność, o której mowa w ust. 1 pkt 1, ustalonej na podstawie algorytmu określonego w przepisach wydanych na podstawie art. 19 ust. 7, przyznanej jednostce naukowej w poprzednim roku;
 - **6)** środków finansowych zaplanowanych na ten cel w budżecie państwa.”,
     - **d)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Wysokość dotacji na działalność, o której mowa w ust. 1 pkt 3, zależy od:
 
@@ -284,7 +351,7 @@ source: "isap-pdf"
     - **b)** ust. 3 otrzymuje brzmienie: „3. Jednostce naukowej, której została przyznana kategoria naukowa C, przyznaje się dotację na utrzymanie potencjału badawczego przez okres 6 miesięcy roku następującego po roku przyznania kategorii w wysokości połowy dotacji ustalonej na podstawie algorytmu określonego w przepisach wydanych na podstawie ust. 7.”,
     - **c)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Jednostka naukowa, której została przyznana kategoria naukowa C, może otrzymać dotacje na finansowanie kosztów restrukturyzacji w okresie nie dłuższym niż 2 lata po roku przyznania tej kategorii.
 
-3b. Jednostka naukowa, której została przyznana kategoria naukowa C, otrzymuje, wyłącznie na rok następujący po roku przyznania tej kategorii, dotację na działalność polegającą na prowadzeniu badań naukowych lub studiów doktoranckich, finansowanych w wewnętrznym trybie konkursowym.”,
+3b. Jednostka naukowa, której została przyznana kategoria naukowa C, otrzymuje, wyłącznie na rok następujący po roku przyznania tej kategorii, dotację na działalność polegającą na prowadzeniu badań naukowych lub prac rozwojowych oraz zadań z nimi związanych, służących rozwojowi młodych naukowców oraz uczestników studiów doktoranckich, finansowanych w wewnętrznym trybie konkursowym.”,
 
 - **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Jednostka naukowa, która w wyniku ponownej oceny otrzymała kategorię naukową C, do dnia uzyskania wyższej kategorii naukowej nie otrzymuje środków finansowych na naukę przeznaczonych na działalność statutową, o której mowa w art. 18.”,
 - **e)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
@@ -302,7 +369,8 @@ source: "isap-pdf"
     - **f)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe kryteria i tryb przyznawania środków finansowych na utrzymanie specjalnego urządzenia badawczego, o którym mowa w art. 18 ust. 1 pkt 2, w jednostkach naukowych posiadających kategorię naukową A+, A albo B,
-- **2)** szczegółowe kryteria i tryb przyznawania środków finansowych na utrzymanie specjalnego urządzenia badawczego z zakresu infrastruktury informatycznej nauki, o którym mowa w art. 18 ust. 1 pkt 2a, w jednostkach naukowych posiadających kategorię naukową A+, A albo B lub w uczelniach, uczelni związaną z zapewnieniem dostępu do informacji naukowej, w szczególności do systemów udostępniających informacje o wynikach badań naukowych, publikacjach i monografiach, w tym do Wirtualnej Biblioteki Nauki – systemu udostępniania w formie elektronicznej naukowych baz danych oraz publikacji naukowych,
+- **2)** szczegółowe kryteria i tryb przyznawania środków finansowych na utrzymanie specjalnego urządzenia badawczego z zakresu infrastruktury informatycznej nauki, o którym mowa w art. 18 ust. 1 pkt 2a, w jednostkach naukowych posiadających kategorię naukową A+, A albo B lub w uczelniach,
+- **3)** szczegółowe kryteria i tryb przyznawania środków finansowych na działalność jednostek naukowych lub uczelni związaną z zapewnieniem dostępu do informacji naukowej, w szczególności do systemów udostępniających informacje o wynikach badań naukowych, publikacjach i monografiach, w tym do Wirtualnej Biblioteki Nauki – systemu udostępniania w formie elektronicznej naukowych baz danych oraz publikacji naukowych,
 - **4)** szczegółowe kryteria i tryb przyznawania środków na finansowanie kosztów restrukturyzacji jednostek naukowych posiadających kategorię naukową A+, A, B albo C oraz rodzaje tych kosztów,
 - **5)** tryb rozliczania przyznanych środków finansowych,
 - **6)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie środków finansowych oraz w raporcie rocznym i raporcie końcowym z wykorzystania przyznanych środków finansowych wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze ocenę dotychczasowej działalności jednostki naukowej, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz uwzględniając priorytetowe finansowanie jednostek naukowych kategorii A+, zapewnienie finansowania specjalnych urządzeń badawczych, w tym z zakresu infrastruktury informatycznej nauki, oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.”,
@@ -331,6 +399,10 @@ source: "isap-pdf"
 
 4. Środki finansowe na naukę przeznaczone na finansowanie inwestycji, o których mowa w art. 20, są przekazywane jednostce naukowej, uczelni lub jednostce naukowej reprezentującej podmioty, o których mowa w art. 2 pkt 12 i 14–16a, w formie dotacji celowej.
 
+**Art. 22b.**
+
+1. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
+
 - **1)** szczegółowe kryteria i tryb przyznawania oraz rozliczania środków finansowych na cele określone w art. 20, w tym:
     - **a)** tryb oceny wniosków dotyczących zadań przewidzianych do finansowania,
     - **b)** tryb oceny realizacji zadań,
@@ -358,7 +430,7 @@ source: "isap-pdf"
     - **c)** rozliczania przyznanych środków finansowych,
 
 - **2)** szczegółowy zakres informacji zawartych we wnioskach o finansowanie współpracy naukowej z zagranicą,
-- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji współpracy naukowej z zagranicą wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze znaczenie finansowania współpracy naukowej z zagranicą dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę zwiększenia aktywności jednostek naukowych na arenie międzynarodowej, efektywnego wykorzystywania strategicznej infrastruktury badawczej zlokalizowanej uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.
+- **3)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych, zawierających informacje o realizacji współpracy naukowej z zagranicą wraz z rozliczeniem finansowym poniesionych kosztów – mając na uwadze znaczenie finansowania współpracy naukowej z zagranicą dla realizacji celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę zwiększenia aktywności jednostek naukowych na arenie międzynarodowej, efektywnego wykorzystywania strategicznej infrastruktury badawczej zlokalizowanej za granicą, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania przyznanych środków finansowych.
 
 3. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
@@ -391,7 +463,8 @@ source: "isap-pdf"
 - **2)** udział zagranicznych naukowców w składzie rady naukowej czasopisma;
 - **3)** stworzenie anglojęzycznych wersji wydawanych publikacji;
 - **4)** digitalizację publikacji i monografii naukowych w celu zapewnienia otwartego dostępu do nich przez sieć Internet;
-- **5)** wdrożenie procedur zabezpieczających oryginalność publikacji naukowych.”, „5. Minister przyznaje środki finansowe ministrom kierującym działami administracji rządowej i kierownikom centralnych organów administracji rządowej na ich potrzeby własne dotyczące zadań określonych w ust. 1 oraz zadań związanych ze sporządzaniem ekspertyz, opinii i ocen naukowych.
+- **5)** wdrożenie procedur zabezpieczających oryginalność publikacji naukowych.”,
+    - **e)** ust. 5–8 otrzymują brzmienie: „5. Minister przyznaje środki finansowe ministrom kierującym działami administracji rządowej i kierownikom centralnych organów administracji rządowej na ich potrzeby własne dotyczące zadań określonych w ust. 1 oraz zadań związanych ze sporządzaniem ekspertyz, opinii i ocen naukowych.
 
 6. Potrzeby własne Ministra dotyczące zadań określonych w ust. 1 oraz zadań związanych ze sporządzaniem ekspertyz, opinii i ocen naukowych są finansowane ze środków finansowych wyodrębnionych w planie finansowym, o którym mowa w art. 6 ust. 1.
 
@@ -427,7 +500,8 @@ source: "isap-pdf"
 
 - **3)** sposób kumulowania pomocy, o której mowa w pkt 1,
 - **4)** maksymalne wielkości pomocy, o której mowa w pkt 1,
-- **5)** maksymalną intensywność pomocy, o której mowa w pkt 1, i raporcie końcowym z realizacji zadań objętych pomocą, o której mowa w pkt 1 – z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis.”,
+- **5)** maksymalną intensywność pomocy, o której mowa w pkt 1,
+- **6)** szczegółowy zakres informacji zawartych we wnioskach o przyznanie pomocy oraz w raporcie rocznym i raporcie końcowym z realizacji zadań objętych pomocą, o której mowa w pkt 1 – z uwzględnieniem celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa oraz mając na względzie potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania oraz rozliczania pomocy publicznej lub pomocy de minimis.”,
     - **b)** po ust. 3 dodaje się ust. 3a–3e w brzmieniu: „3a. Minister właściwy do spraw nauki ustanawia program „Diamentowy Grant”, o którym mowa w art. 5 pkt 10a ustawy oraz w art. 187a ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym. Środki finansowe w ramach programu są przyznawane nie więcej niż 100 osobom rocznie, w drodze konkursu ogłaszanego przez Ministra.
 
 3b. W konkursie mogą wziąć udział wybitnie uzdolnieni:
@@ -463,6 +537,9 @@ source: "isap-pdf"
 - **1)** zasadności kontynuowania programu lub przedsięwzięcia;
 - **2)** konieczności i proponowanym zakresie modyfikacji programu lub przedsięwzięcia;
 - **3)** zakończeniu realizacji programu lub przedsięwzięcia.
+
+8. Ewaluację przeprowadza się, uwzględniając kryteria:
+
 - **1)** adekwatność planowanych celów programu lub przedsięwzięcia i metod ich wdrażania do założeń polityki naukowej, w tym do Krajowego Programu Badań, o którym mowa w art. 4;
 - **2)** stopień realizacji zakładanych celów programu lub przedsięwzięcia, skuteczność użytych metod oraz wpływ czynników zewnętrznych na ostateczne efekty programu lub przedsięwzięcia;
 - **3)** relacje między nakładami i poniesionymi kosztami a osiągniętymi efektami programu lub przedsięwzięcia;
@@ -496,7 +573,9 @@ source: "isap-pdf"
 
 - **1)** szczegółowe kryteria i tryb oceny wniosków o przyznanie nagrody za wybitne osiągnięcia naukowe lub naukowo-techniczne,
 - **2)** szczegółowy zakres informacji zawartych we wniosku o przyznanie nagrody za wybitne osiągnięcia naukowe lub naukowo-techniczne – mając na uwadze wyróżniający poziom badań naukowych lub prac rozwojowych prowadzonych przez kandydata do nagrody za wybitne osiągnięcia naukowe lub naukowo-techniczne oraz jego osiągnięć w skali krajowej i międzynarodowej.”;
-- **27)** po art. 28 dodaje się art. 28a w brzmieniu: „Art. 28a. 1. Minister przyznaje corocznie, na podstawie złożonych wniosków, stypendia naukowe dla wybitnych młodych naukowców zatrudnionych w jednostkach naukowych. Stypendia przyznaje się na okres nie dłuższy niż 3 lata, w wysokości miesięcznej nieprzekraczającej minimalnej miesięcznej stawki wynagrodzenia zasadniczego przewidzianego dla stanowiska profesora zwyczajnego zatrudnionego w uczelni publicznej. w działalności badawczo-rozwojowej związanej z urlopem macierzyńskim, urlopem na warunkach urlopu macierzyńskiego, dodatkowym urlopem macierzyńskim, dodatkowym urlopem na warunkach urlopu macierzyńskiego, urlopem ojcowskim, urlopem rodzicielskim lub urlopem wychowawczym stypendysty, udzielonych na zasadach określonych w przepisach Kodeksu pracy albo pobieraniem zasiłku chorobowego lub świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej. W tym okresie wypłata stypendium jest zawieszona.
+- **27)** po art. 28 dodaje się art. 28a w brzmieniu: „Art. 28a. 1. Minister przyznaje corocznie, na podstawie złożonych wniosków, stypendia naukowe dla wybitnych młodych naukowców zatrudnionych w jednostkach naukowych. Stypendia przyznaje się na okres nie dłuższy niż 3 lata, w wysokości miesięcznej nieprzekraczającej minimalnej miesięcznej stawki wynagrodzenia zasadniczego przewidzianego dla stanowiska profesora zwyczajnego zatrudnionego w uczelni publicznej.
+
+2. Do okresu, na który przyznano stypendium dla wybitnych młodych naukowców, nie wlicza się przerwy w działalności badawczo-rozwojowej związanej z urlopem macierzyńskim, urlopem na warunkach urlopu macierzyńskiego, dodatkowym urlopem macierzyńskim, dodatkowym urlopem na warunkach urlopu macierzyńskiego, urlopem ojcowskim, urlopem rodzicielskim lub urlopem wychowawczym stypendysty, udzielonych na zasadach określonych w przepisach Kodeksu pracy albo pobieraniem zasiłku chorobowego lub świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej. W tym okresie wypłata stypendium jest zawieszona.
 
 3. Okresów urlopu albo choroby, o których mowa w ust. 2, nie uznaje się za zaprzestanie działalności badawczo-rozwojowej, jeżeli bezpośrednio po ich zakończeniu stypendysta podejmie pracę naukową lub w stosunku do stypendysty zostanie orzeczona trwała niezdolność do pracy.
 
@@ -529,7 +608,7 @@ source: "isap-pdf"
 - **2)** projekty obejmujące badania naukowe lub prace rozwojowe, w których całkowita wartość przyznanego dofinansowania przekracza 3 000 000 zł;”,
     - **b)** dodaje się ust. 3–5 w brzmieniu: „3. Nieprzeprowadzenie w terminie zewnętrznego audytu, o którym mowa w ust. 1 pkt 2, może stanowić podstawę do wstrzymania dalszego finansowania projektu do czasu przeprowadzenia audytu.
 
-4. Nieprzeprowadzenie w terminie zewnętrznego audytu, o którym mowa w ust. 1 pkt 3, przez Centrum Nauki lub Centrum Rozwoju może stanowić podstawę do zmniejszenia wysokości środków przekazywanych Centrum Nauki lub Centrum Rozwoju na pokrycie bieżących kosztów zarządzania, o których mowa w art. 7 więcej niż o 10% w stosunku do roku poprzedniego.
+4. Nieprzeprowadzenie w terminie zewnętrznego audytu, o którym mowa w ust. 1 pkt 3, przez Centrum Nauki lub Centrum Rozwoju może stanowić podstawę do zmniejszenia wysokości środków przekazywanych Centrum Nauki lub Centrum Rozwoju na pokrycie bieżących kosztów zarządzania, o których mowa w art. 7 pkt 2 i art. 8 pkt 2, na rok następujący po roku, w którym wymagane było przeprowadzenie audytu, jednak nie więcej niż o 10% w stosunku do roku poprzedniego.
 
 5. Nieprzeprowadzenie w terminie zewnętrznego audytu, o którym mowa w ust. 1 pkt 1, przez jednostkę naukową może stanowić podstawę do zmniejszenia wysokości dotacji na utrzymanie potencjału badawczego na rok następujący po roku, w którym wymagane było przeprowadzenie audytu, jednak nie więcej niż o 10% w stosunku do roku poprzedniego.”;
 
@@ -561,6 +640,7 @@ source: "isap-pdf"
 - **37)** po art. 50 dodaje się art. 50a–50e w brzmieniu: „Art. 50a. 1. Członkiem Komitetu Polityki Naukowej może być osoba, która:
 - **1)** korzysta z pełni praw publicznych;
 - **2)** cieszy się nieposzlakowaną opinią i przestrzega zasad etyki naukowej;
+- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
 2. Członkostwa w Komitecie Polityki Naukowej nie można łączyć z członkostwem w organach:
 
@@ -581,6 +661,12 @@ source: "isap-pdf"
 - **10)** członka Komitetu Ewaluacji Jednostek Naukowych.
 
 **Art. 50b.** Członkostwo w Komitecie Polityki Naukowej wygasa w przypadku:
+
+- **1)** śmierci;
+- **2)** złożenia rezygnacji;
+- **3)** niespełniania choćby jednego z wymagań określonych w art. 50a ust. 1;
+- **4)** nieuczestniczenia w pracach Komitetu Polityki Naukowej przez okres dłuższy niż 6 miesięcy;
+- **5)** objęcia funkcji, o których mowa w art. 50a ust. 2 i 3.
 
 **Art. 50c.**
 
@@ -603,9 +689,11 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw nauki określi, w drodze zarządzenia, regulamin działania Komitetu Polityki Naukowej, określając tryb działania Komitetu i wyboru Przewodniczącego, tryb przygotowywania dokumentów i opinii oraz terminy organizowania posiedzeń i informowania członków Komitetu o posiedzeniach i porządku obrad, mając na uwadze rodzaj i zakres zadań Komitetu oraz konieczność zapewnienia terminowej ich realizacji.”;
 
-- **a)** pkt 8 otrzymuje brzmienie: „8) opiniowanie polityki inwestycyjnej w zakresie infrastruktury badawczej oraz ocena efektywności wykorzystania krajowej infrastruktury badawczej i udziału w międzynarodowych przedsięwzięciach w zakresie infrastruktury badawczej zlokalizowanej w kraju lub za granicą;”,
-- **b)** uchyla się pkt 9,
-- **c)** dodaje się pkt 10 i 11 w brzmieniu: „10) przygotowywanie raportów o stanie nauki w Rzeczypospolitej Polskiej, barier w jej rozwoju oraz rekomendacji służących skutecznemu prowadzeniu polityki naukowej;
+- **38)** w art. 51:
+    - **a)** pkt 8 otrzymuje brzmienie: „8) opiniowanie polityki inwestycyjnej w zakresie infrastruktury badawczej oraz ocena efektywności wykorzystania krajowej infrastruktury badawczej i udziału w międzynarodowych przedsięwzięciach w zakresie infrastruktury badawczej zlokalizowanej w kraju lub za granicą;”,
+    - **b)** uchyla się pkt 9,
+    - **c)** dodaje się pkt 10 i 11 w brzmieniu: „10) przygotowywanie raportów o stanie nauki w Rzeczypospolitej Polskiej, barier w jej rozwoju oraz rekomendacji służących skutecznemu prowadzeniu polityki naukowej;
+
 - **11)** przeprowadzanie na wniosek Ministra ewaluacji programów i przedsięwzięć ustanowionych przez Ministra.”;
 - **39)** w art. 52:
     - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister powołuje zespół doradczy – Radę Młodych Naukowców, którego zadaniem jest wspieranie Ministra w działaniach służących rozwojowi kariery młodych naukowców i osób rozpoczynających karierę naukową.”,
@@ -613,13 +701,108 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. z 2014 r. poz. 1852) wprowadza się następujące zmiany:
 
+- **1)** w art. 27 ust. 3 otrzymuje brzmienie: „3. Rada jednostki organizacyjnej przekazuje Centralnej Komisji listę co najmniej dziesięciu kandydatów na recenzentów, spośród osób zatrudnionych w szkole wyższej lub jednostce organizacyjnej innej niż ta, której pracownikiem jest osoba ubiegająca się o nadanie tytułu i niebędących członkami rady jednostki organizacyjnej przeprowadzającej postępowanie, obejmującą imiona i nazwiska kandydatów oraz nazwy jednostek organizacyjnych zatrudniających te osoby.”;
+- **2)** po art. 29b dodaje się art. 29c w brzmieniu: „Art. 29c. Dyplomy doktorskie i habilitacyjne oraz ich duplikaty przeznaczone do obrotu prawnego z zagranicą legalizują:
+- **1)** minister nadzorujący uczelnię – w przypadku stopni doktora i doktora habilitowanego nadanych przez uprawnione jednostki organizacyjne uczelni;
+- **2)** Prezes Polskiej Akademii Nauk – w przypadku stopni doktora i doktora habilitowanego nadanych przez instytuty naukowe Polskiej Akademii Nauk;
+- **3)** minister nadzorujący instytut badawczy – w przypadku stopni doktora i doktora habilitowanego nadanych przez instytut badawczy.”;
+- **3)** art. 31 otrzymuje brzmienie: „Art. 31. Minister właściwy do spraw szkolnictwa wyższego, po zasięgnięciu opinii Centralnej Komisji, określi, w drodze rozporządzenia, szczegółowy tryb i warunki przeprowadzania czynności w przewodzie doktorskim, w postępowaniu habilitacyjnym oraz w postępowaniu o nadanie tytułu profesora, a w szczególności:
+- **1)** dokumenty, jakie powinna przedstawić osoba ubiegająca się o wszczęcie przewodu doktorskiego, postępowania habilitacyjnego lub postępowania o nadanie tytułu profesora,
+- **2)** wzór ankiety oceny osiągnięć naukowych lub artystycznych osoby ubiegającej się o nadanie tytułu profesora, uwzględniając różne dziedziny nauki i sztuki,
+- **3)** skład oraz tryb działania komisji i zespołów powoływanych przez rady jednostek organizacyjnych przeprowadzających przewody doktorskie lub postępowanie o nadanie tytułu profesora, uwzględniając możliwość powoływania do składu komisji i zespołów osób posiadających tytuł profesora lub stopień doktora habilitowanego lub osób, które nabyły uprawnienia równoważne z uprawnieniami doktora habilitowanego na podstawie art. 21a, a w przypadku postępowania o nadanie tytułu naukowego – wyłącznie osób posiadających tytuł profesora,
+- **4)** możliwość i warunki powtórnego zdawania egzaminów doktorskich,
+- **5)** wykaz certyfikatów potwierdzających znajomość języka obcego,
+- **6)** sposób przedstawiania i oceniania rozpraw doktorskich, w tym będących pracami zbiorowymi, a także podejmowania uchwał o nadaniu stopnia doktora lub doktora habilitowanego,
+- **7)** niezbędne elementy dyplomów doktorskiego i habilitacyjnego,
+- **8)** maksymalną wysokość opłat za wydanie dyplomu doktorskiego i habilitacyjnego oraz ich duplikatów i odpisów w języku angielskim albo języku łacińskim, nieprzekraczającą kosztów sporządzenia tych dokumentów,
+- **9)** sposób i tryb legalizacji dyplomów doktorskich i habilitacyjnych oraz ich duplikatów przeznaczonych do obrotu prawnego z zagranicą oraz wysokość opłaty za ich legalizację,
+- **10)** sposób ogłaszania przez ministra właściwego do spraw szkolnictwa wyższego informacji o nadanych stopniach doktora i doktora habilitowanego oraz zakres tych informacji – mając na uwadze potrzebę zapewnienia rozwoju kadr naukowych oraz sprawnego i przejrzystego przeprowadzania czynności w przewodzie doktorskim, postępowania habilitacyjnego oraz postępowania o nadanie tytułu profesora.”.
+
 **Art. 3.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2014 r. poz. 1788) wprowadza się następujące zmiany:
+
+- **1)** w art. 30 w ust. 1 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) finansowanie badań stosowanych realizowanych w formie niepodlegających współfinansowaniu z zagranicznych środków finansowych projektów badawczych realizowanych w ramach programów lub inicjatyw międzynarodowych ogłaszanych we współpracy dwu- lub wielostronnej oraz projektów badawczych realizowanych przy wykorzystaniu przez polskie zespoły badawcze wielkich międzynarodowych urządzeń badawczych;”;
+- **2)** w art. 37 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przepisu ust. 2 nie stosuje się do osób fizycznych, których projekty zakwalifikowano do finansowania w ramach programów lub przedsięwzięć związanych ze wsparciem komercjalizacji wyników badań naukowych i prac rozwojowych lub ochrony patentowej.”;
+- **3)** w art. 38 ust. 2–5 otrzymują brzmienie: „2. Eksperci lub zespoły ekspertów oceniają wnioski złożone w konkursie i na tej podstawie przygotowują i przekazują Dyrektorowi listę rankingową pozytywnie zaopiniowanych wniosków, z zastrzeżeniem art. 17 pkt 9, oraz dokonują innych ocen i sporządzają opinie dotyczące realizacji zadań Centrum, o których mowa w art. 27–30.
+
+3. Eksperci oraz członkowie zespołów ekspertów otrzymują wynagrodzenie za dokonanie ocen i sporządzenie opinii, o których mowa w ust. 2. Wysokość wynagrodzenia ustala Dyrektor.
+
+4. Dyrektor wyłącza eksperta lub członka zespołu ekspertów z postępowań, o których mowa w ust. 2, w przypadku stwierdzenia zagrożenia konfliktem interesów, w szczególności w przypadku pozostawania eksperta lub członka zespołu ekspertów z wnioskodawcą lub wykonawcą w:
+
+- **1)** związku małżeńskim, stosunku pokrewieństwa lub powinowactwa do drugiego stopnia włącznie;
+- **2)** takim stosunku prawnym, że wynik sprawy może mieć wpływ na jego prawa lub obowiązki;
+- **3)** stosunku osobistym tego rodzaju, że mógłby wywołać wątpliwości co do bezstronności eksperta;
+- **4)** stosunku służbowym lub innej formie współpracy w okresie 3 lat poprzedzających złożenie wniosku, dokonanie oceny lub sporządzenie opinii, o których mowa w ust. 2.
+
+5. Dyrektor nie uwzględnia oceny lub opinii sporządzonej przez eksperta, który został wyłączony z postępowania w sprawie danego wniosku zgodnie z ust. 4. Przepis stosuje się również do ocen i opinii sporządzonych przez zespół ekspertów, w skład którego wchodziła osoba wyłączona z postępowania w sprawie danego wniosku zgodnie z ust. 4.”;
+
+- **4)** w art. 40 ust. 2–4 otrzymują brzmienie: „2. Od decyzji Dyrektora w sprawie przyznania środków finansowych na wykonanie projektu, o której mowa w ust. 1, lub promesy finansowania, o której mowa w art. 37 ust. 2, w przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych, wnioskodawcy przysługuje odwołanie do komisji odwoławczej Rady, a w przypadku konkursów, o których mowa w art. 17 pkt 6 – do Komitetu Sterującego, w terminie 14 dni od dnia doręczenia tej decyzji lub promesy.
+
+3. Komisja odwoławcza Rady lub Komitet Sterujący rozstrzyga w sprawie odwołania nie później niż w terminie 3 miesięcy od dnia złożenia odwołania.
+
+4. Na rozstrzygnięcie Komisji odwoławczej Rady lub Komitetu Sterującego przysługuje skarga do sądu administracyjnego.”;
+
+- **5)** w art. 41 ust. 4 otrzymuje brzmienie: „4. Dyrektor, na wniosek kierownika projektu, może wyrazić zgodę na zmianę podmiotu realizującego projekt po pozytywnym zaopiniowaniu przez kierownika jednostki organizacyjnej wykonującej projekt i jednostki przejmującej wykonanie projektu.”;
+- **6)** art. 44 otrzymuje brzmienie: „Art. 44. Projekty, których całkowita wartość przyznanego dofinansowania przekracza 3 000 000 zł, podlegają obowiązkowemu zewnętrznemu audytowi.”;
+- **7)** w art. 49:
+    - **a)** w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) fundusz rezerwowy;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Fundusz rezerwowy:
+
+- **1)** zwiększa się o wartość zysku netto Centrum;
+- **2)** zmniejsza się o wartość straty netto Centrum.”.
 
 **Art. 4.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. Nr 96, poz. 617, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 pkt 3 otrzymuje brzmienie: „3) osobie rozpoczynającej karierę naukową – należy przez to rozumieć osobę nieposiadającą stopnia naukowego doktora lub osobę, która nie wcześniej niż 7 lat przed rokiem wystąpienia z wnioskiem o przyznanie środków finansowych na badania naukowe lub prace rozwojowe uzyskała stopień naukowy doktora; do okresu tego nie wlicza się przerw związanych z urlopem macierzyńskim, urlopem na warunkach urlopu macierzyńskiego, dodatkowym urlopem macierzyńskim, dodatkowym urlopem na warunkach urlopu macierzyńskiego, urlopem ojcowskim, urlopem rodzicielskim lub urlopem wychowawczym, udzielonych na zasadach określonych w przepisach Kodeksu pracy albo pobieraniem zasiłku chorobowego lub świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej;”;
+- **2)** w art. 11 ust. 11 otrzymuje brzmienie: „11. Dyrektor może zasięgnąć opinii wyspecjalizowanych instytucji lub ekspertów, w tym ekspertów zagranicznych.”;
+- **3)** w art. 18 pkt 7 otrzymuje brzmienie: „7) wybór spośród wybitnych naukowców polskich i zagranicznych Zespołów Ekspertów odpowiedzialnych za ocenę wniosków złożonych w konkursach oraz wybór Zespołów Ekspertów odpowiedzialnych za ocenę merytoryczną związaną z rozliczeniem przyznanych środków;”;
+- **4)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Dyrektor, na wniosek Rady, powołuje Zespoły Ekspertów, o których mowa w art. 18 pkt 7, w celu dokonywania ocen wniosków złożonych w konkursach i przygotowywania na tej podstawie list rankingowych oraz dokonywania ocen merytorycznych związanych z rozliczeniem przyznanych środków.
+
+2. Dyrektor może wyznaczyć ekspertów zewnętrznych, w tym ekspertów zagranicznych, do dokonywania ocen, o których mowa w ust. 1.
+
+3. Dyrektor może powierzyć ekspertom, o których mowa w ust. 1 i 2, dokonywanie innych ocen związanych z realizacją zadań Centrum.
+
+4. Eksperci, otrzymują wynagrodzenie za prace związane z dokonywaniem ocen, o których mowa w ust. 1–3. Wysokość wynagrodzenia ustala Dyrektor.
+
+5. Do ekspertów stosuje się przepis art. 13 ust. 2.”;
+
+- **5)** w art. 27 ust. 4 otrzymuje brzmienie: „4. Dyrektor, na wniosek kierownika projektu badawczego, może wyrazić zgodę na zmianę podmiotu realizującego projekt po pozytywnym zaopiniowaniu wniosku przez podmiot, o którym mowa w art. 10 pkt 1–8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, realizujący projekt i podmiot przejmujący realizację projektu.”;
+- **6)** w art. 33 ust. 2–4 otrzymują brzmienie: „2. Od decyzji Dyrektora, o której mowa w ust. 1, lub promesy finansowania, o której mowa w art. 27 ust. 3, w przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych, wnioskodawcy przysługuje odwołanie do Komisji Odwoławczej Rady, w terminie 14 dni od dnia doręczenia tej decyzji lub promesy.
+
+3. Komisja Odwoławcza Rady rozstrzyga w sprawie odwołania nie później niż w terminie 3 miesięcy od dnia złożenia odwołania.
+
+4. Na rozstrzygnięcie Komisji Odwoławczej Rady przysługuje skarga do sądu administracyjnego.”;
+
+- **7)** w art. 34 ust. 4 otrzymuje brzmienie: „4. Dyrektor dokonuje rozliczenia umowy o realizację i finansowanie projektu badawczego finansowanego przez Centrum po przyjęciu sprawozdania finansowego przedłożonego przez podmiot, o którym mowa w art. 10 pkt 1–8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, oraz po uzyskaniu pozytywnej oceny merytorycznej projektu dokonanej przez Zespół Ekspertów oraz Radę.”;
+- **8)** w art. 41:
+    - **a)** w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) fundusz rezerwowy;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Fundusz rezerwowy:
+
+- **1)** zwiększa się o wartość zysku netto Centrum;
+- **2)** zmniejsza się o wartość straty netto Centrum.”.
+
 **Art. 5.** W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 39 ust. 2 otrzymuje brzmienie: „2. W instytucie badawczym nie może istnieć stosunek bezpośredniej podległości służbowej między małżonkami oraz osobami pozostającymi ze sobą w stosunku pokrewieństwa do drugiego stopnia włącznie lub powinowactwa pierwszego stopnia oraz w stosunku przysposobienia, opieki lub kurateli.”;
+- **2)** w art. 43 ust. 7 i 8 otrzymują brzmienie: „7. Zatrudnienie pracownika naukowego jest poprzedzone konkursem. Kryteria i tryb przeprowadzania i ogłaszania konkursu określa statut instytutu. Ogłoszenie o konkursie zamieszcza się także na stronie podmiotowej ministra właściwego do spraw nauki w Biuletynie Informacji Publicznej oraz na stronie internetowej Komisji Europejskiej w europejskim portalu dla mobilnych naukowców przeznaczonym do publikacji ofert pracy naukowców.
+
+8. Przepisu ust. 7 nie stosuje się:
+
+- **1)** do żołnierzy zawodowych i funkcjonariuszy służb podległych ministrowi właściwemu do spraw wewnętrznych;
+- **2)** w przypadku zatrudnienia na czas określony pracownika naukowego:
+    - **a)** skierowanego do pracy na podstawie umowy zawartej z zagraniczną instytucją naukową,
+    - **b)** na okres realizacji projektu obejmującego badania naukowe lub prace rozwojowe, finansowanego w trybie konkursowym ze środków finansowych na naukę lub środków finansowych pochodzących z Unii Europejskiej lub innych podmiotów przyznających grant,
+    - **c)** na tym samym stanowisku, jeżeli poprzednia umowa o pracę była zawarta na czas nie krótszy niż trzy lata.”.
+
 **Art. 6.** W ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 91:
+    - **a)** ust. 5 otrzymuje brzmienie: „5. Zatrudnienie pracownika naukowego jest poprzedzone konkursem ogłaszanym na stronie podmiotowej ministra właściwego do spraw nauki w Biuletynie Informacji Publicznej oraz na stronie internetowej Komisji Europejskiej w europejskim portalu dla mobilnych naukowców przeznaczonym do publikacji ofert pracy naukowców. Sposób i tryb przeprowadzania konkursów na poszczególne stanowiska naukowe ustala rada naukowa instytutu lub dyrektor pomocniczej jednostki naukowej.”,
+    - **b)** dodaje się ust. 6 w brzmieniu: „6. Przepisu ust. 5 nie stosuje się w przypadku zatrudnienia na czas określony pracownika naukowego:
+
+- **1)** skierowanego do pracy na podstawie umowy zawartej z zagraniczną instytucją naukową;
+- **2)** na okres realizacji projektu obejmującego badania naukowe lub prace rozwojowe, finansowanego w trybie konkursowym ze środków finansowych na naukę lub środków finansowych pochodzących z Unii Europejskiej lub innych podmiotów przyznających grant;
+- **3)** na tym samym stanowisku, jeżeli poprzednia umowa o pracę była zawarta na czas nie krótszy niż trzy lata.”;
+- **2)** art. 95 otrzymuje brzmienie: „Art. 95. W jednostkach naukowych i innych jednostkach organizacyjnych Akademii nie może powstać stosunek bezpośredniej podległości służbowej między małżonkami oraz osobami pozostającymi ze sobą w stosunku pokrewieństwa do drugiego stopnia włącznie lub powinowactwa pierwszego stopnia oraz w stosunku przysposobienia, opieki lub kurateli.”.
 
 **Art. 7.** Do postępowań o przyznanie środków finansowych na naukę, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 

@@ -8,7 +8,7 @@ pos: 1901
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym
@@ -24,14 +24,32 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-31 |
 | Data wydania | 2019-10-08 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1901/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zasady udzielania wsparcia finansowego armatorom śródlądowym;
+- **2)** funkcjonowanie Funduszu Żeglugi Śródlądowej;
+- **3)** funkcjonowanie Funduszu Rezerwowego.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** armator – właściciela statku lub osobę, która uzyskała od właściciela tytuł prawny do władania statkiem we własnym imieniu;
+- **2)** efekt ekologiczny – efekt uzyskany przez armatora w wyniku:
+    - **a)** zakupu statku jako ekologicznej formy transportu w celu wspomagania ekologicznych form transportu,
+    - **b)** modernizacji lub remontu statku w celu ochrony środowiska w żegludze śródlądowej, polegający na ograniczeniu negatywnego lub potencjalnie negatywnego oddziaływania statku na środowisko, osiągnięty co najmniej przez: – zmniejszenie emisji zanieczyszczeń powstających w wyniku użytkowania statku lub – zmniejszenie ryzyka powstania awarii lub poważnej awarii w wyniku użytkowania statku, lub – zwiększenie udziału energii wytwarzanej z odnawialnych źródeł energii wykorzystywanej na statku, lub – zwiększenie udziału wykorzystania paliw alternatywnych do napędu statku;
+
+- **3)** pozytywny efekt ekonomiczny – efekt uzyskany przez armatora w wyniku zakupu, modernizacji lub remontu statku, polegający na:
+    - **a)** wzroście ilości ładunków lub liczby pasażerów przewożonych śródlądowymi drogami wodnymi przez statek lub
+    - **b)** zmniejszeniu średniego zużycia paliwa przez statek, lub
+    - **c)** wzroście dopuszczalnej liczby pasażerów statku, lub
+    - **d)** zwiększeniu nośności statku, lub
+    - **e)** zwiększeniu wydajności statku w zakresie prowadzonych prac utrzymaniowych lub modernizacyjnych śródlądowych dróg wodnych;
+
+- **4)** statek – statek w rozumieniu art. 5 ust. 1 pkt 1 lit. a, b oraz f ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2020 r. poz. 1863).
 
 #### Rozdział 2 Wsparcie finansowe armatorów śródlądowych
 
@@ -156,6 +174,9 @@ source: "isap-pdf"
 
 **Art. 12.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wykaz wymaganych dokumentów, które załącza się do:
 
+- **1)** wniosku o udzielenie kredytu preferencyjnego,
+- **2)** wniosku o umorzenie części kredytu preferencyjnego – mając na uwadze potrzebę uzyskania niezbędnych informacji do rozpatrzenia tych wniosków.
+
 **Art. 13.**
 
 1. W okresie obowiązywania umowy kredytu preferencyjnego armator nie może zbyć statku, na którego zakup, modernizację lub remont uzyskał kredyt preferencyjny, z wyjątkiem przypadku gdy:
@@ -172,6 +193,9 @@ source: "isap-pdf"
 5. W przypadku, o którym mowa w ust. 1 pkt 2, do nabywcy statku stosuje się odpowiednio art. 4, art. 6 i art. 7.
 
 **Art. 14.** W przypadku zbycia statku w okresie obowiązywania umowy kredytu preferencyjnego z naruszeniem obowiązku, o którym mowa w art. 13 ust. 1 pkt 2, armator jest obowiązany do:
+
+- **1)** spłaty zobowiązań wynikających z umowy kredytu preferencyjnego;
+- **2)** zwrotu pomocy de minimis otrzymanej ze środków Funduszu Żeglugi Śródlądowej w wyniku uzyskania kredytu preferencyjnego i umorzenia części kredytu preferencyjnego.
 
 **Art. 15.**
 
@@ -296,8 +320,8 @@ source: "isap-pdf"
 1. Środki Funduszu Żeglugi Śródlądowej pochodzą z:
 
 - **1)** dotacji z Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej;
-- **2)** odsetek z tytułu oprocentowania środków Funduszu Żeglugi Śródlądowej oraz odsetek od lokat bankowych okresowo wolnych środków Funduszu Żeglugi Śródlądowej;
-- **3)** przychodów z inwestycji okresowo wolnych środków Funduszu Żeglugi Śródlądowej w papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski oraz papiery wartościowe określające świadczenia pieniężne gwarantowane lub poręczane przez Skarb Państwa lub Narodowy Bank Polski;
+- **2)** odsetek od wolnych środków Funduszu Żeglugi Śródlądowej przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
+- **3)** (uchylony)
 - **4)** odsetek od kredytów preferencyjnych udzielanych ze środków Funduszu Żeglugi Śródlądowej;
 - **5)** darowizn i zapisów;
 - **6)** wpływów z innych tytułów.
@@ -333,12 +357,11 @@ source: "isap-pdf"
 
 2. Umorzenia części kredytów preferencyjnych następują w ciężar środków Funduszu Żeglugi Śródlądowej.
 
-3. Okresowo wolne środki Funduszu Żeglugi Śródlądowej mogą być:
+3. (uchylony)
 
-- **1)** lokowane w innych bankach;
-- **2)** inwestowane w papiery wartościowe, o których mowa w art. 23 ust. 1 pkt 3.
+4. (uchylony)
 
-4. Suma okresowo wolnych środków lokowanych w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie nie może przekroczyć 25% wszystkich wolnych środków Funduszu Żeglugi Śródlądowej.
+5. Wolne środki Funduszu Żeglugi Śródlądowej w walutach obcych mogą być lokowane w bankach.
 
 **Art. 26.** Nadzór nad gospodarowaniem środkami Funduszu Żeglugi Śródlądowej sprawuje Rada Nadzorcza BGK.
 
@@ -369,6 +392,10 @@ source: "isap-pdf"
 
 **Art. 29.** BGK:
 
+- **1)** sporządza dla Funduszu Żeglugi Śródlądowej odrębny bilans oraz rachunek zysków i strat, stanowiące załączniki do sprawozdania finansowego banku;
+- **2)** składa ministrowi właściwemu do spraw żeglugi śródlądowej oraz ministrowi właściwemu do spraw finansów publicznych, w terminie do końca miesiąca następującego po każdym kwartale, sprawozdanie z realizacji planu finansowego Funduszu Żeglugi Śródlądowej;
+- **3)** składa ministrowi właściwemu do spraw żeglugi śródlądowej oraz ministrowi właściwemu do spraw finansów publicznych do dnia 30 kwietnia sprawozdanie z realizacji planu finansowego Funduszu Żeglugi Śródlądowej za poprzedni rok.
+
 **Art. 30.**
 
 1. BGK przysługuje:
@@ -389,6 +416,9 @@ source: "isap-pdf"
 
 **Art. 31.** Minister właściwy do spraw żeglugi śródlądowej zawiera z BGK umowę w sprawie obsługi Funduszu Żeglugi Śródlądowej określającą w szczególności:
 
+- **1)** szczegółowe zasady dokonywania wypłat ze środków Funduszu Żeglugi Śródlądowej;
+- **2)** zakres danych wymaganych do przygotowania planu finansowego Funduszu Żeglugi Śródlądowej oraz tryb ich przekazywania do BGK.
+
 #### Rozdział 4 Fundusz Rezerwowy
 
 **Art. 32.**
@@ -401,15 +431,22 @@ source: "isap-pdf"
 
 **Art. 33.** Fundusz Rezerwowy składa się z trzech odrębnych rachunków dla:
 
+- **1)** statków do przewozów ładunków suchych;
+- **2)** zbiornikowców;
+- **3)** pchaczy.
+
 **Art. 34.**
 
 1. Środki Funduszu Rezerwowego pochodzą:
 
 - **1)** ze składek specjalnych, o których mowa w rozporządzeniu 718/1999, zwanych dalej „składkami specjalnymi”;
 - **2)** z wpłat z Funduszu Żeglugi Śródlądowej;
+- **2a)** z odsetek od wolnych środków Funduszu Rezerwowego przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **3)** z innych źródeł.
 
 2. W przypadku braku środków finansowych wystarczających do realizacji zadań wynikających z planu finansowego Funduszu Rezerwowego BGK dokonuje wypłaty środków finansowych z Funduszu Żeglugi Śródlądowej w wysokościach i terminach określonych w jego planie finansowym na Fundusz Rezerwowy.
+
+3. Wolne środki Funduszu Rezerwowego w walutach obcych mogą być lokowane w bankach.
 
 **Art. 35.**
 
@@ -426,6 +463,9 @@ source: "isap-pdf"
 **Art. 36.** Środki z Funduszu Rezerwowego są uruchamiane na zasadach i warunkach określonych w rozporządzeniu 718/1999. O możliwości uruchomienia wypłat ze środków Funduszu Rezerwowego minister właściwy do spraw żeglugi śródlądowej informuje BGK.
 
 **Art. 37.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
+
+- **1)** wysokości stawek jednostkowych do obliczania składki specjalnej do Funduszu Rezerwowego, w zależności od rodzaju statku, jego nośności lub mocy napędowej, mając na względzie potrzebę utrzymania zdolności przewozowej floty statków;
+- **2)** szczegółowy tryb postępowania przy dokonywaniu wypłat z Funduszu Rezerwowego na ulepszenia strukturalne, o których mowa w rozporządzeniu 718/1999, mając na względzie zapewnienie sprawnej i terminowej obsługi wypłat na ulepszenia strukturalne.
 
 **Art. 38.** Nadzór nad gospodarowaniem środkami Funduszu Rezerwowego sprawuje Rada Nadzorcza BGK.
 
@@ -453,6 +493,10 @@ source: "isap-pdf"
 
 **Art. 41.** BGK:
 
+- **1)** sporządza dla Funduszu Rezerwowego odrębny bilans oraz rachunek zysków i strat, stanowiące załącznik do sprawozdania finansowego banku,
+- **2)** składa ministrowi właściwemu do spraw żeglugi śródlądowej oraz ministrowi właściwemu do spraw finansów publicznych, w terminie do końca miesiąca następującego po każdym kwartale, sprawozdanie z realizacji planu finansowego Funduszu Rezerwowego,
+- **3)** składa ministrowi właściwemu do spraw żeglugi śródlądowej oraz ministrowi właściwemu do spraw finansów publicznych, do dnia 30 kwietnia, sprawozdanie z realizacji planu finansowego Funduszu Rezerwowego za poprzedni rok – w przypadku uruchomienia mechanizmu Funduszu Rezerwowego.
+
 **Art. 42.**
 
 1. BGK przysługuje wynagrodzenie prowizyjne ze środków Funduszu Rezerwowego z tytułu jego obsługi.
@@ -464,6 +508,9 @@ source: "isap-pdf"
 4. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wysokość współczynnika prowizji, o którym mowa w ust. 2, oraz sposób i terminy pobierania przez BGK wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Rezerwowego – mając na względzie potrzebę zapewnienia sprawnej i terminowej obsługi Funduszu Rezerwowego oraz właściwą organizację i sposób gospodarowania środkami tego funduszu.
 
 **Art. 43.** Minister właściwy do spraw żeglugi śródlądowej zawiera z BGK umowę w sprawie obsługi Funduszu Rezerwowego, określającą w szczególności:
+
+- **1)** szczegółowe zasady dokonywania wypłat ze środków Funduszu Rezerwowego;
+- **2)** zakres danych wymaganych do przygotowania planu finansowego Funduszu Rezerwowego oraz tryb ich przekazywania do BGK.
 
 #### Rozdział 5 Rada Żeglugi Śródlądowej
 
@@ -626,6 +673,9 @@ source: "isap-pdf"
 4. Uzgodnienie, o którym mowa w ust. 3, dokonuje się w terminie 14 dni od dnia otrzymania projektu planu finansowego na rok 2020.
 
 **Art. 61.** Minister właściwy do spraw żeglugi śródlądowej występuje do BGK w celu:
+
+- **1)** rozwiązania umowy zawartej na podstawie art. 11 ust. 4 ustawy uchylanej w art. 67;
+- **2)** zawarcia umów, o których mowa w art. 31 i art. 43.
 
 **Art. 62.**
 

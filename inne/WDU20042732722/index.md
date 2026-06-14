@@ -8,7 +8,7 @@ pos: 2722
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 117/11A/2004 WYROK z dnia 15 grudnia 2004 r.

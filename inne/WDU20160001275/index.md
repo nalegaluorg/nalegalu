@@ -8,10 +8,10 @@ pos: 1275
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1275 RozpoRządzenie MinistRa CyfRyzaCji z dnia 9 sierpnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001275) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1275/text.pdf) |
 
-Poz. 1275 RozpoRządzenie MinistRa CyfRyzaCji z dnia 9 sierpnia 2016 r.
-w sprawie przekazywania marszałkowi województwa informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w wojewódzkim ośrodku ruchu drogowego Na podstawie art. 74a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627 i 904) zarządza się, co następuje: § 1. Rozporządzenie określa warunki i tryb przekazywania marszałkowi województwa przez administratora centralnej ewidencji kierowców informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w danym wojewódzkim ośrodku ruchu drogowego, zwanej dalej „informacją”.
+w sprawie przekazywania marszałkowi województwa informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w wojewódzkim ośrodku ruchu drogowego Na podstawie art. 74a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627 i 904) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki i tryb przekazywania marszałkowi województwa przez administratora centralnej ewidencji kierowców informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w danym wojewódzkim ośrodku ruchu drogowego, zwanej dalej „informacją”.
 § 2. Administrator centralnej ewidencji kierowców przekazuje marszałkowi województwa informację poprzez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący centralną ewidencję kierowców do pobrania za pomocą tego systemu albo za pomocą systemu, z wykorzystaniem którego marszałek województwa wykonuje zadania związane z nadzorem nad przeprowadzaniem egzaminów państwowych, o których mowa w art. 51 ustawy z dnia 5 stycznia 2011 r.
 o kierujących pojazdami.
 § 3. 1. Informację przekazuje się w formie statystyk zawierających liczbę kierowców, którzy zdali egzamin w danym wojewódzkim ośrodku ruchu drogowego, oraz liczbę naruszeń przepisów ruchu drogowego popełnionych przez tych kierowców.

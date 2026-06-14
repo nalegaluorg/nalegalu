@@ -8,7 +8,7 @@ pos: 1962
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004–2019”

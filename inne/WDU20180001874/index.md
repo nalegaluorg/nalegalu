@@ -8,10 +8,10 @@ pos: 1874
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 października 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1874 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 września 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001874) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1874/text.pdf) |
 
-Poz. 1874 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 września 2018 r.
 w sprawie wymogów technicznych infrastruktury sektorów na stadionie, na których są udostępniane miejsca stojące Na podstawie art. 17a ust. 2 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2018 r.
-poz. 1870) zarządza się, co następuje: § 1. 1. Sektory na stadionie, w których są udostępniane miejsca stojące, zwane dalej „sektorami z miejscami stojącymi”, podczas meczów piłki nożnej oddziela się od innych sektorów w sposób uniemożliwiający przemieszczenie się do nich osób nieposiadających biletu wstępu lub innego dokumentu upoważniającego do przebywania w danym sektorze z miejscami stojącymi.
+poz. 1870) zarządza się, co następuje:
+§ 1. 1. Sektory na stadionie, w których są udostępniane miejsca stojące, zwane dalej „sektorami z miejscami stojącymi”, podczas meczów piłki nożnej oddziela się od innych sektorów w sposób uniemożliwiający przemieszczenie się do nich osób nieposiadających biletu wstępu lub innego dokumentu upoważniającego do przebywania w danym sektorze z miejscami stojącymi.
 2. Sektory z miejscami stojącymi wyposaża się w widoczną i czytelną numerację miejsc, umożliwiającą przypisanie do danego miejsca biletu lub innego dokumentu upoważniającego do uczestnictwa w meczu piłki nożnej.
 3. Po przekształceniu miejsc siedzących w stojące w sektorach z miejscami stojącymi nie mogą znajdować się żadne elementy stwarzające zagrożenie dla życia lub zdrowia ludzkiego ani takie, które mogą być wykorzystane do spowodowania takiego zagrożenia.
 § 2. 1. Rzędy miejsc w sektorach z miejscami stojącymi wyposaża się w ciągi komunikacyjne (przejścia) po obu stronach.

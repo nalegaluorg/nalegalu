@@ -8,10 +8,10 @@ pos: 1441
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1441 Załącznik do rozporządzenia Ministra Infrastruktury z dnia ……….. (poz. …….) WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA INSPEKCJI TRANSPORTU DROGOWEGO strona 1 strona 2 strona 3 strona 4 Opis:
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1441/text.pdf) |
 
-WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA INSPEKCJI TRANSPORTU DROGOWEGO strona 1 strona 2 strona 3 strona 4 Opis:
 1) legitymacja o wymiarach 65 mm x 190 mm, drukowana na papierze:
 a) niewykazującym luminescencji w promieniowaniu ultrafioletowym (UV),
 b) z bieżącym znakiem wodnym,
 c) zawierającym rozmieszczone nieregularnie włókna aktywne w promieniowaniu UV, włókna widoczne w świetle dziennym oraz włókna widoczne w świetle dziennym i aktywne w promieniowaniu UV,
 d) posiadającym zabezpieczenia chemiczne przed próbami usuwania lub zmiany zapisów;
-2) strona 1: dwukolorowe tło giloszowe w kolorze jasnozielonym płynnie przechodzącym w jasnobrązowy, wykonane w technice druku irysowego, mikrotekst, element wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym technika druku offset;
-3) strona 2: dwukolorowe tło giloszowe w kolorze jasnozielonym płynnie przechodzącym w jasnobrązowy, wykonane w technice druku irysowego z efektem tła reliefowego, mikrotekst, element wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym. W obszarze pola zdjęciowego nieutrudniające weryfikacji wizerunku twarzy linie giloszowe i mikrodruki widoczne w świetle widzialnym technika druku offset. Elementy wykonane farbą optycznie zmienną (OVI ) technika druku sitodruk;
-4) strona 3: dwukolorowe tło giloszowe w kolorze jasnozielonym płynnie przechodzącym w jasnobrązowy, wykonane w technice druku irysowego z efektem tła reliefowego, mikrotekst, element wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym technika druku offset. Oznaczenie indywidualne (numeracja) wykonane techniką druku typograficznego z zastosowaniem farby specjalnej, aktywnej w promieniowaniu ultrafioletowym. Miejsce odsłaniające bieżący znak wodny;
-5) strona 4: dwukolorowe tło giloszowe w kolorze jasnozielonym płynnie przechodzącym w jasnobrązowy, wykonane w technice druku irysowego, element wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym technika druku offset;
+2) strona 1: dwukolorowe tło giloszowe w kolorze jasnozielonym płynnie przechodzącym w jasnobrązowy, wykonane w technice druku irysowego, mikrotekst, element wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym – technika druku offset;
+3) strona 2: dwukolorowe tło giloszowe w kolorze jasnozielonym płynnie przechodzącym w jasnobrązowy, wykonane w technice druku irysowego z efektem tła reliefowego, mikrotekst, element wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym. W obszarze pola zdjęciowego nieutrudniające weryfikacji wizerunku twarzy linie giloszowe i mikrodruki widoczne w świetle widzialnym – technika druku offset. Elementy wykonane farbą optycznie zmienną (OVI ) – technika druku sitodruk;
+4) strona 3: dwukolorowe tło giloszowe w kolorze jasnozielonym płynnie przechodzącym w jasnobrązowy, wykonane w technice druku irysowego z efektem tła reliefowego, mikrotekst, element wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym – technika druku offset. Oznaczenie indywidualne (numeracja) – wykonane techniką druku typograficznego z zastosowaniem farby specjalnej, aktywnej w promieniowaniu ultrafioletowym. Miejsce odsłaniające bieżący znak wodny;
+5) strona 4: dwukolorowe tło giloszowe w kolorze jasnozielonym płynnie przechodzącym w jasnobrązowy, wykonane w technice druku irysowego, element wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym – technika druku offset;
 6) legitymacja składana wzdłuż krawędzi poziomej; strony 1 i 4 łączą się górnymi krawędziami, krawędź dolna strony 2 łączy się z górną krawędzią strony 3;
 7) legitymacja zabezpieczona nadrukami niewidocznymi w świetle dziennym, aktywnymi w promieniowaniu UV, zawierającymi grafiki przedstawiające znak Inspekcji Transportu Drogowego, napis „INSPEKCJA TRANSPORTU DROGOWEGO”, uproszczoną mapę Rzeczypospolitej Polskiej oraz konturową mapę Rzeczypospolitej Polskiej z zaznaczonymi granicami województw;
 8) po personalizacji legitymacja w całości dwustronnie laminowana folią zabezpieczającą;
@@ -42,8 +41,8 @@ d) posiadającym zabezpieczenia chemiczne przed próbami usuwania lub zmiany zap
 Strona 1 legitymacji:
 1) centralnie umiejscowiony wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej na tle biało-czerwonego pasa z elementami mikrotekstu o treści „INSPEKCJA TRANSPORTU DROGOWEGO”, biegnącego prostopadle do górnej i dolnej krawędzi strony;
 2) napisy drukowane w kolorze czarnym:
-a) w górnej części „RZECZPOSPOLITA POLSKA”,
-b) w dolnej części „INSPEKCJA TRANSPORTU DROGOWEGO”.
+a) w górnej części – „RZECZPOSPOLITA POLSKA”,
+b) w dolnej części – „INSPEKCJA TRANSPORTU DROGOWEGO”.
 Strona 2 legitymacji:
 1) w górnej części na środku napis „INSPEKCJA TRANSPORTU DROGOWEGO” drukowany farbą optycznie zmienną OVI ;
 2) poniżej napisu określonego w pkt 1:
@@ -67,8 +66,8 @@ b) datę ważności legitymacji służbowej inspektora;
 11) w dolnej części po prawej stronie miejsce na odwzorowanie pieczęci okrągłej organu wydającego legitymację służbową.
 Strona 3 legitymacji:
 1) w górnej części na środku oznaczenie indywidualne, numeracja typograficzna widoczna w świetle dziennym oraz aktywna w promieniowaniu UV;
-2) pod numeracją drukowane w kolorze czarnym napisy: „Osoba, na którą jest wystawiona legitymacja, podczas i w związku z pełnieniem obowiązków służbowych korzysta z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.” „Osoba, na którą jest wystawiona legitymacja, podczas i w związku z pełnieniem obowiązków służbowych ma prawo: żądać niezbędnej pomocy od instytucji państwowych oraz organów administracji rządowej i samorządu terytorialnego, które w zakresie swojego działania obowiązane są nieodpłatnie udzielić żądanej pomocy w granicach obowiązujących przepisów prawa;
-zwracać się do przedsiębiorców, jednostek organizacyjnych i organizacji społecznych, a w nagłych wypadkach również do każdej osoby o udzielenie niezbędnej pomocy w granicach obowiązujących przepisów prawa.”;
+2) pod numeracją drukowane w kolorze czarnym napisy: „Osoba, na którą jest wystawiona legitymacja, podczas i w związku z pełnieniem obowiązków służbowych korzysta z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.” „Osoba, na którą jest wystawiona legitymacja, podczas i w związku z pełnieniem obowiązków służbowych ma prawo: – żądać niezbędnej pomocy od instytucji państwowych oraz organów administracji rządowej i samorządu terytorialnego, które w zakresie swojego działania obowiązane są nieodpłatnie udzielić żądanej pomocy w granicach obowiązujących przepisów prawa;
+– zwracać się do przedsiębiorców, jednostek organizacyjnych i organizacji społecznych, a w nagłych wypadkach również do każdej osoby o udzielenie niezbędnej pomocy w granicach obowiązujących przepisów prawa.”;
 3) w dolnej części na środku miejsce odsłonięcia bieżącego znaku wodnego;
 4) biało-czerwony pas biegnący po przekątnej od lewego dolnego do prawego górnego rogu strony z elementami mikrotekstu o treści „INSPEKCJA TRANSPORTU DROGOWEGO”.
 Strona 4 legitymacji:

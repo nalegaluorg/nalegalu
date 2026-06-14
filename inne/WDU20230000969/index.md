@@ -8,10 +8,10 @@ pos: 969
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 maja 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 969 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 kwietnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000969) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/969/text.pdf) |
 
-Poz. 969 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 kwietnia 2023 r.
 w sprawie zezwoleń dla żołnierzy zawodowych na przynależność do stowarzyszenia i innej organizacji zagranicznej lub międzynarodowej Na podstawie art. 342 ust. 4 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
-poz. 347 i 641) zarządza się, co następuje: § 1. Rozporządzenie określa tryb postępowania w sprawach udzielania żołnierzom zawodowym przez Ministra Obrony Narodowej zezwolenia na przynależność do stowarzyszenia i innej organizacji zagranicznej lub międzynarodowej oraz zawieszenia lub cofnięcia tego zezwolenia.
+poz. 347 i 641) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb postępowania w sprawach udzielania żołnierzom zawodowym przez Ministra Obrony Narodowej zezwolenia na przynależność do stowarzyszenia i innej organizacji zagranicznej lub międzynarodowej oraz zawieszenia lub cofnięcia tego zezwolenia.
 § 2. 1. Żołnierz zawodowy występuje drogą służbową z wnioskiem do Ministra Obrony Narodowej o udzielenie zezwolenia na przynależność do stowarzyszenia i innej organizacji zagranicznej lub międzynarodowej, zwanego dalej „zezwoleniem”.
 2. W uzasadnionych przypadkach do wniosku, na wezwanie Ministra Obrony Narodowej, żołnierz zawodowy dołącza statut stowarzyszenia lub organizacji zagranicznej lub międzynarodowej albo inny dokument potwierdzający cele i zadania tego stowarzyszenia lub tej organizacji oraz wypis z właściwego rejestru, w którym to stowarzyszenie lub ta organizacja są zarejestrowane, a także inne niezbędne do rozpatrzenia wniosku informacje – z urzędowym przetłumaczeniem tych dokumentów na język polski.
 § 3. Żołnierz zawodowy, który w dniu powołania do zawodowej służby wojskowej należy do stowarzyszenia i innej organizacji zagranicznej lub międzynarodowej, składa wniosek, o którym mowa w § 2 ust. 1, niezwłocznie po rozpoczęciu pełnienia zawodowej służby wojskowej.
@@ -37,6 +37,6 @@ poz. 347 i 641) zarządza się, co następuje: § 1. Rozporządzenie określa tr
 2. W przypadkach, o których mowa w ust. 1, Minister Obrony Narodowej stwierdza wygaśnięcie decyzji, o której mowa w § 5.
 § 7. 1. Zawieszenia zezwolenia dokonuje się w drodze decyzji, w której określa się okres zawieszenia przynależności żołnierza zawodowego do stowarzyszenia i innej organizacji zagranicznej lub międzynarodowej.
 2. Cofnięcia zezwolenia dokonuje się w drodze decyzji uchylającej decyzję, o której mowa w § 5.
-Dziennik Ustaw – 2 – Poz. 969 § 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Obrony Narodowej: z up. M. Wiśniewski
 

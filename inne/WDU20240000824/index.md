@@ -8,10 +8,10 @@ pos: 824
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 882244 UMOWA między Rządem Rzeczypospolitej Polskiej a Rządem Państwa Izrael o współpracy w dziedzinie wizyt studyjnych zorganizowanych grup młodzieży, podpisana w Warszawie dnia 22 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000824) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/824/text.pdf) |
 
-UMOWA między Rządem Rzeczypospolitej Polskiej a Rządem Państwa Izrael o współpracy w dziedzinie wizyt studyjnych zorganizowanych grup młodzieży, podpisana w Warszawie dnia 22 marca 2023 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 22 marca 2023 roku w Warszawie została podpisana Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Państwa Izrael o współpracy w dziedzinie wizyt studyjnych zorganizowanych grup młodzieży, w następującym brzmieniu: Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 22 marca 2023 roku w Warszawie została podpisana Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Państwa Izrael o współpracy w dziedzinie wizyt studyjnych zorganizowanych grup młodzieży, w następującym brzmieniu: Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie, dnia 28 sierpnia 2023 roku.
 Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.
+Prezes Rady Ministrów: M. Morawiecki
 

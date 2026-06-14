@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.*
 
-Łącznie: **9155** orzeczeń w **854** artykułach
-(pominięto 7042 orzeczeń sądów rejonowych)
+Łącznie: **9164** orzeczeń w **854** artykułach
+(pominięto 7078 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -12,7 +12,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 
 | Artykuł | Orzeczeń | ★★★ | ★★ | ★ | SN | TK | Plik |
 |---|---:|---:|---:|---:|---:|---:|---|
-| art. 1 | 97 | 27 | 51 | 19 | 27 | 8 | [art-1.csv](orzecznictwo/art-1.csv) |
+| art. 1 | 98 | 27 | 52 | 19 | 27 | 8 | [art-1.csv](orzecznictwo/art-1.csv) |
 | art. 1 § 1 | 31 | 19 | 8 | 4 | 21 | 4 | [art-1-par-1.csv](orzecznictwo/art-1-par-1.csv) |
 | art. 1 § 2 | 10 | 4 | 4 | 2 | 7 | 1 | [art-1-par-2.csv](orzecznictwo/art-1-par-2.csv) |
 | art. 1 § 3 | 1 | 1 | 0 | 0 | 1 | 0 | [art-1-par-3.csv](orzecznictwo/art-1-par-3.csv) |
@@ -29,7 +29,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 5 § 2 | 57 | 22 | 24 | 11 | 23 | 8 | [art-5-par-2.csv](orzecznictwo/art-5-par-2.csv) |
 | art. 6 | 462 | 68 | 275 | 119 | 65 | 13 | [art-6.csv](orzecznictwo/art-6.csv) |
 | art. 6 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-6-par-1.csv](orzecznictwo/art-6-par-1.csv) |
-| art. 7 | 1613 | 239 | 789 | 585 | 219 | 35 | [art-7.csv](orzecznictwo/art-7.csv) |
+| art. 7 | 1614 | 239 | 789 | 586 | 219 | 35 | [art-7.csv](orzecznictwo/art-7.csv) |
 | art. 7 § 1 | 3 | 1 | 0 | 2 | 1 | 0 | [art-7-par-1.csv](orzecznictwo/art-7-par-1.csv) |
 | art. 8 | 1008 | 85 | 607 | 316 | 86 | 6 | [art-8.csv](orzecznictwo/art-8.csv) |
 | art. 8 § 1 | 84 | 0 | 41 | 43 | 1 | 0 | [art-8-par-1.csv](orzecznictwo/art-8-par-1.csv) |
@@ -43,7 +43,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 9 | 709 | 80 | 376 | 253 | 81 | 5 | [art-9.csv](orzecznictwo/art-9.csv) |
 | art. 9 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-9-par-1.csv](orzecznictwo/art-9-par-1.csv) |
 | art. 9 § 34 | 1 | 0 | 1 | 0 | 0 | 0 | [art-9-par-34.csv](orzecznictwo/art-9-par-34.csv) |
-| art. 10 | 560 | 31 | 313 | 216 | 33 | 2 | [art-10.csv](orzecznictwo/art-10.csv) |
+| art. 10 | 561 | 31 | 313 | 217 | 33 | 2 | [art-10.csv](orzecznictwo/art-10.csv) |
 | art. 10 § 1 | 263 | 20 | 137 | 106 | 22 | 3 | [art-10-par-1.csv](orzecznictwo/art-10-par-1.csv) |
 | art. 10 § 2 | 7 | 3 | 4 | 0 | 3 | 1 | [art-10-par-2.csv](orzecznictwo/art-10-par-2.csv) |
 | art. 10 § 3 | 4 | 1 | 3 | 0 | 2 | 0 | [art-10-par-3.csv](orzecznictwo/art-10-par-3.csv) |
@@ -102,7 +102,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 27 § 1 | 5 | 4 | 1 | 0 | 0 | 4 | [art-27-par-1.csv](orzecznictwo/art-27-par-1.csv) |
 | art. 27 § 2 | 1 | 1 | 0 | 0 | 0 | 1 | [art-27-par-2.csv](orzecznictwo/art-27-par-2.csv) |
 | art. 27 § 3 | 1 | 0 | 1 | 0 | 0 | 0 | [art-27-par-3.csv](orzecznictwo/art-27-par-3.csv) |
-| art. 28 | 276 | 89 | 138 | 49 | 81 | 27 | [art-28.csv](orzecznictwo/art-28.csv) |
+| art. 28 | 277 | 89 | 138 | 50 | 81 | 27 | [art-28.csv](orzecznictwo/art-28.csv) |
 | art. 29 | 46 | 5 | 29 | 12 | 10 | 1 | [art-29.csv](orzecznictwo/art-29.csv) |
 | art. 30 | 55 | 3 | 38 | 14 | 5 | 0 | [art-30.csv](orzecznictwo/art-30.csv) |
 | art. 30 § 1 | 14 | 4 | 4 | 6 | 5 | 1 | [art-30-par-1.csv](orzecznictwo/art-30-par-1.csv) |
@@ -170,7 +170,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 44 § 2 | 31 | 0 | 3 | 28 | 1 | 0 | [art-44-par-2.csv](orzecznictwo/art-44-par-2.csv) |
 | art. 44 § 3 | 33 | 0 | 6 | 27 | 1 | 0 | [art-44-par-3.csv](orzecznictwo/art-44-par-3.csv) |
 | art. 44 § 4 | 63 | 1 | 12 | 50 | 2 | 0 | [art-44-par-4.csv](orzecznictwo/art-44-par-4.csv) |
-| art. 45 | 41 | 1 | 19 | 21 | 3 | 0 | [art-45.csv](orzecznictwo/art-45.csv) |
+| art. 45 | 42 | 1 | 20 | 21 | 3 | 0 | [art-45.csv](orzecznictwo/art-45.csv) |
 | art. 45 § 1 | 5 | 0 | 0 | 5 | 0 | 0 | [art-45-par-1.csv](orzecznictwo/art-45-par-1.csv) |
 | art. 46 | 19 | 0 | 8 | 11 | 2 | 0 | [art-46.csv](orzecznictwo/art-46.csv) |
 | art. 46 § 1 | 3 | 0 | 2 | 1 | 1 | 0 | [art-46-par-1.csv](orzecznictwo/art-46-par-1.csv) |
@@ -209,7 +209,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 57 § 3 | 43 | 1 | 9 | 33 | 1 | 0 | [art-57-par-3.csv](orzecznictwo/art-57-par-3.csv) |
 | art. 57 § 4 | 69 | 6 | 23 | 40 | 10 | 3 | [art-57-par-4.csv](orzecznictwo/art-57-par-4.csv) |
 | art. 57 § 5 | 45 | 7 | 14 | 24 | 12 | 1 | [art-57-par-5.csv](orzecznictwo/art-57-par-5.csv) |
-| art. 58 | 201 | 10 | 48 | 143 | 12 | 1 | [art-58.csv](orzecznictwo/art-58.csv) |
+| art. 58 | 202 | 10 | 48 | 144 | 12 | 1 | [art-58.csv](orzecznictwo/art-58.csv) |
 | art. 58 § 1 | 107 | 2 | 30 | 75 | 5 | 1 | [art-58-par-1.csv](orzecznictwo/art-58-par-1.csv) |
 | art. 58 § 2 | 83 | 1 | 23 | 59 | 3 | 0 | [art-58-par-2.csv](orzecznictwo/art-58-par-2.csv) |
 | art. 58 § 3 | 5 | 0 | 1 | 4 | 0 | 0 | [art-58-par-3.csv](orzecznictwo/art-58-par-3.csv) |
@@ -217,11 +217,11 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 59 § 1 | 25 | 0 | 7 | 18 | 0 | 0 | [art-59-par-1.csv](orzecznictwo/art-59-par-1.csv) |
 | art. 59 § 2 | 2 | 0 | 0 | 2 | 0 | 0 | [art-59-par-2.csv](orzecznictwo/art-59-par-2.csv) |
 | art. 60 | 11 | 1 | 9 | 1 | 3 | 0 | [art-60.csv](orzecznictwo/art-60.csv) |
-| art. 61 | 393 | 13 | 168 | 212 | 13 | 3 | [art-61.csv](orzecznictwo/art-61.csv) |
+| art. 61 | 394 | 13 | 168 | 213 | 13 | 3 | [art-61.csv](orzecznictwo/art-61.csv) |
 | art. 61 § 1 | 197 | 19 | 48 | 130 | 17 | 3 | [art-61-par-1.csv](orzecznictwo/art-61-par-1.csv) |
 | art. 61 § 2 | 22 | 6 | 11 | 5 | 7 | 0 | [art-61-par-2.csv](orzecznictwo/art-61-par-2.csv) |
 | art. 61 § 3 | 35 | 8 | 8 | 19 | 9 | 0 | [art-61-par-3.csv](orzecznictwo/art-61-par-3.csv) |
-| art. 61 § 4 | 245 | 17 | 99 | 129 | 15 | 4 | [art-61-par-4.csv](orzecznictwo/art-61-par-4.csv) |
+| art. 61 § 4 | 246 | 17 | 99 | 130 | 15 | 4 | [art-61-par-4.csv](orzecznictwo/art-61-par-4.csv) |
 | art. 61 § 5 | 3 | 0 | 1 | 2 | 0 | 0 | [art-61-par-5.csv](orzecznictwo/art-61-par-5.csv) |
 | art. 61 § 77 | 1 | 0 | 1 | 0 | 0 | 0 | [art-61-par-77.csv](orzecznictwo/art-61-par-77.csv) |
 | art. 61 § 79 | 1 | 0 | 1 | 0 | 0 | 0 | [art-61-par-79.csv](orzecznictwo/art-61-par-79.csv) |
@@ -272,8 +272,8 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 76 § 1 | 35 | 7 | 16 | 12 | 6 | 1 | [art-76-par-1.csv](orzecznictwo/art-76-par-1.csv) |
 | art. 76 § 2 | 5 | 3 | 2 | 0 | 1 | 2 | [art-76-par-2.csv](orzecznictwo/art-76-par-2.csv) |
 | art. 76 § 3 | 16 | 7 | 7 | 2 | 1 | 6 | [art-76-par-3.csv](orzecznictwo/art-76-par-3.csv) |
-| art. 77 | 1050 | 57 | 514 | 479 | 54 | 6 | [art-77.csv](orzecznictwo/art-77.csv) |
-| art. 77 § 1 | 722 | 105 | 310 | 307 | 101 | 8 | [art-77-par-1.csv](orzecznictwo/art-77-par-1.csv) |
+| art. 77 | 1051 | 57 | 514 | 480 | 54 | 6 | [art-77.csv](orzecznictwo/art-77.csv) |
+| art. 77 § 1 | 723 | 105 | 310 | 308 | 101 | 8 | [art-77-par-1.csv](orzecznictwo/art-77-par-1.csv) |
 | art. 77 § 2 | 17 | 5 | 6 | 6 | 3 | 2 | [art-77-par-2.csv](orzecznictwo/art-77-par-2.csv) |
 | art. 77 § 3 | 29 | 6 | 9 | 14 | 6 | 0 | [art-77-par-3.csv](orzecznictwo/art-77-par-3.csv) |
 | art. 77 § 4 | 22 | 3 | 16 | 3 | 4 | 0 | [art-77-par-4.csv](orzecznictwo/art-77-par-4.csv) |
@@ -299,12 +299,12 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 79 | 58 | 0 | 19 | 39 | 0 | 0 | [art-79.csv](orzecznictwo/art-79.csv) |
 | art. 79 § 1 | 5 | 0 | 0 | 5 | 0 | 0 | [art-79-par-1.csv](orzecznictwo/art-79-par-1.csv) |
 | art. 79 § 2 | 9 | 2 | 4 | 3 | 1 | 1 | [art-79-par-2.csv](orzecznictwo/art-79-par-2.csv) |
-| art. 80 | 627 | 80 | 242 | 305 | 80 | 5 | [art-80.csv](orzecznictwo/art-80.csv) |
+| art. 80 | 628 | 80 | 242 | 306 | 80 | 5 | [art-80.csv](orzecznictwo/art-80.csv) |
 | art. 80 § 1 | 2 | 0 | 1 | 1 | 0 | 0 | [art-80-par-1.csv](orzecznictwo/art-80-par-1.csv) |
 | art. 81 | 70 | 5 | 31 | 34 | 3 | 2 | [art-81.csv](orzecznictwo/art-81.csv) |
 | art. 81 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-81-par-1.csv](orzecznictwo/art-81-par-1.csv) |
 | art. 82 | 6 | 1 | 4 | 1 | 1 | 0 | [art-82.csv](orzecznictwo/art-82.csv) |
-| art. 83 | 140 | 1 | 111 | 28 | 1 | 1 | [art-83.csv](orzecznictwo/art-83.csv) |
+| art. 83 | 141 | 1 | 111 | 29 | 1 | 1 | [art-83.csv](orzecznictwo/art-83.csv) |
 | art. 83 § 1 | 2 | 1 | 1 | 0 | 0 | 1 | [art-83-par-1.csv](orzecznictwo/art-83-par-1.csv) |
 | art. 83 § 2 | 1 | 0 | 1 | 0 | 0 | 0 | [art-83-par-2.csv](orzecznictwo/art-83-par-2.csv) |
 | art. 83 § 3 | 5 | 2 | 2 | 1 | 1 | 1 | [art-83-par-3.csv](orzecznictwo/art-83-par-3.csv) |
@@ -351,8 +351,8 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 104 | 460 | 77 | 291 | 92 | 74 | 15 | [art-104.csv](orzecznictwo/art-104.csv) |
 | art. 104 § 1 | 172 | 32 | 120 | 20 | 29 | 10 | [art-104-par-1.csv](orzecznictwo/art-104-par-1.csv) |
 | art. 104 § 2 | 66 | 15 | 36 | 15 | 19 | 3 | [art-104-par-2.csv](orzecznictwo/art-104-par-2.csv) |
-| art. 105 | 273 | 22 | 167 | 84 | 22 | 4 | [art-105.csv](orzecznictwo/art-105.csv) |
-| art. 105 § 1 | 208 | 38 | 130 | 40 | 34 | 8 | [art-105-par-1.csv](orzecznictwo/art-105-par-1.csv) |
+| art. 105 | 274 | 22 | 167 | 85 | 22 | 4 | [art-105.csv](orzecznictwo/art-105.csv) |
+| art. 105 § 1 | 209 | 38 | 130 | 41 | 34 | 8 | [art-105-par-1.csv](orzecznictwo/art-105-par-1.csv) |
 | art. 105 § 2 | 12 | 3 | 9 | 0 | 3 | 1 | [art-105-par-2.csv](orzecznictwo/art-105-par-2.csv) |
 | art. 105 § 111 | 1 | 1 | 0 | 0 | 1 | 0 | [art-105-par-111.csv](orzecznictwo/art-105-par-111.csv) |
 | art. 106 | 58 | 19 | 37 | 2 | 20 | 3 | [art-106.csv](orzecznictwo/art-106.csv) |
@@ -362,10 +362,10 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 106 § 4 | 1 | 1 | 0 | 0 | 1 | 0 | [art-106-par-4.csv](orzecznictwo/art-106-par-4.csv) |
 | art. 106 § 5 | 22 | 14 | 7 | 1 | 16 | 2 | [art-106-par-5.csv](orzecznictwo/art-106-par-5.csv) |
 | art. 106 § 6 | 1 | 0 | 1 | 0 | 0 | 0 | [art-106-par-6.csv](orzecznictwo/art-106-par-6.csv) |
-| art. 107 | 962 | 57 | 521 | 384 | 55 | 14 | [art-107.csv](orzecznictwo/art-107.csv) |
+| art. 107 | 963 | 57 | 521 | 385 | 55 | 14 | [art-107.csv](orzecznictwo/art-107.csv) |
 | art. 107 § 1 | 495 | 67 | 270 | 158 | 78 | 7 | [art-107-par-1.csv](orzecznictwo/art-107-par-1.csv) |
 | art. 107 § 2 | 34 | 8 | 14 | 12 | 9 | 1 | [art-107-par-2.csv](orzecznictwo/art-107-par-2.csv) |
-| art. 107 § 3 | 477 | 51 | 233 | 193 | 45 | 9 | [art-107-par-3.csv](orzecznictwo/art-107-par-3.csv) |
+| art. 107 § 3 | 478 | 51 | 233 | 194 | 45 | 9 | [art-107-par-3.csv](orzecznictwo/art-107-par-3.csv) |
 | art. 107 § 4 | 10 | 3 | 5 | 2 | 2 | 1 | [art-107-par-4.csv](orzecznictwo/art-107-par-4.csv) |
 | art. 107 § 5 | 4 | 1 | 1 | 2 | 1 | 0 | [art-107-par-5.csv](orzecznictwo/art-107-par-5.csv) |
 | art. 107 § 107 | 1 | 0 | 0 | 1 | 0 | 0 | [art-107-par-107.csv](orzecznictwo/art-107-par-107.csv) |
@@ -410,7 +410,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 120 | 1 | 0 | 0 | 1 | 0 | 0 | [art-120.csv](orzecznictwo/art-120.csv) |
 | art. 121 | 1 | 0 | 0 | 1 | 0 | 0 | [art-121.csv](orzecznictwo/art-121.csv) |
 | art. 122 | 4 | 0 | 1 | 3 | 0 | 0 | [art-122.csv](orzecznictwo/art-122.csv) |
-| art. 123 | 160 | 6 | 82 | 72 | 7 | 0 | [art-123.csv](orzecznictwo/art-123.csv) |
+| art. 123 | 161 | 6 | 82 | 73 | 7 | 0 | [art-123.csv](orzecznictwo/art-123.csv) |
 | art. 123 § 1 | 14 | 3 | 8 | 3 | 1 | 2 | [art-123-par-1.csv](orzecznictwo/art-123-par-1.csv) |
 | art. 123 § 2 | 8 | 4 | 4 | 0 | 4 | 1 | [art-123-par-2.csv](orzecznictwo/art-123-par-2.csv) |
 | art. 123 § 3 | 2 | 0 | 0 | 2 | 0 | 0 | [art-123-par-3.csv](orzecznictwo/art-123-par-3.csv) |
@@ -469,7 +469,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 142(18) | 1 | 0 | 1 | 0 | 1 | 0 | [art-14218.csv](orzecznictwo/art-14218.csv) |
 | art. 143 | 5 | 1 | 2 | 2 | 1 | 0 | [art-143.csv](orzecznictwo/art-143.csv) |
 | art. 144 | 11 | 5 | 2 | 4 | 6 | 0 | [art-144.csv](orzecznictwo/art-144.csv) |
-| art. 145 | 1238 | 51 | 517 | 670 | 35 | 22 | [art-145.csv](orzecznictwo/art-145.csv) |
+| art. 145 | 1242 | 51 | 518 | 673 | 35 | 22 | [art-145.csv](orzecznictwo/art-145.csv) |
 | art. 145 § 1 | 554 | 84 | 190 | 280 | 91 | 15 | [art-145-par-1.csv](orzecznictwo/art-145-par-1.csv) |
 | art. 145 § 2 | 28 | 1 | 7 | 20 | 1 | 0 | [art-145-par-2.csv](orzecznictwo/art-145-par-2.csv) |
 | art. 145 § 3 | 5 | 3 | 1 | 1 | 1 | 2 | [art-145-par-3.csv](orzecznictwo/art-145-par-3.csv) |
@@ -479,20 +479,20 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 145 § 149 | 1 | 0 | 1 | 0 | 0 | 0 | [art-145-par-149.csv](orzecznictwo/art-145-par-149.csv) |
 | art. 145 § 151 | 3 | 0 | 3 | 0 | 0 | 0 | [art-145-par-151.csv](orzecznictwo/art-145-par-151.csv) |
 | art. 145 § 154 | 1 | 0 | 1 | 0 | 0 | 0 | [art-145-par-154.csv](orzecznictwo/art-145-par-154.csv) |
-| art. 146 | 678 | 9 | 227 | 442 | 6 | 3 | [art-146.csv](orzecznictwo/art-146.csv) |
-| art. 146 § 1 | 587 | 25 | 197 | 365 | 14 | 12 | [art-146-par-1.csv](orzecznictwo/art-146-par-1.csv) |
+| art. 146 | 680 | 9 | 227 | 444 | 6 | 3 | [art-146.csv](orzecznictwo/art-146.csv) |
+| art. 146 § 1 | 588 | 25 | 197 | 366 | 14 | 12 | [art-146-par-1.csv](orzecznictwo/art-146-par-1.csv) |
 | art. 146 § 2 | 22 | 7 | 9 | 6 | 4 | 3 | [art-146-par-2.csv](orzecznictwo/art-146-par-2.csv) |
 | art. 146 § 151 | 3 | 0 | 2 | 1 | 0 | 0 | [art-146-par-151.csv](orzecznictwo/art-146-par-151.csv) |
 | art. 146 § 155 | 1 | 1 | 0 | 0 | 1 | 0 | [art-146-par-155.csv](orzecznictwo/art-146-par-155.csv) |
 | art. 147 | 41 | 10 | 27 | 4 | 8 | 2 | [art-147.csv](orzecznictwo/art-147.csv) |
 | art. 147 § 1 | 1 | 0 | 1 | 0 | 1 | 0 | [art-147-par-1.csv](orzecznictwo/art-147-par-1.csv) |
-| art. 148 | 36 | 2 | 27 | 7 | 1 | 1 | [art-148.csv](orzecznictwo/art-148.csv) |
-| art. 148 § 1 | 17 | 3 | 12 | 2 | 3 | 0 | [art-148-par-1.csv](orzecznictwo/art-148-par-1.csv) |
-| art. 148 § 2 | 5 | 1 | 2 | 2 | 1 | 0 | [art-148-par-2.csv](orzecznictwo/art-148-par-2.csv) |
-| art. 149 | 397 | 6 | 135 | 256 | 6 | 0 | [art-149.csv](orzecznictwo/art-149.csv) |
-| art. 149 § 1 | 182 | 11 | 74 | 97 | 13 | 0 | [art-149-par-1.csv](orzecznictwo/art-149-par-1.csv) |
+| art. 148 | 37 | 2 | 28 | 7 | 1 | 1 | [art-148.csv](orzecznictwo/art-148.csv) |
+| art. 148 § 1 | 18 | 3 | 13 | 2 | 3 | 0 | [art-148-par-1.csv](orzecznictwo/art-148-par-1.csv) |
+| art. 148 § 2 | 6 | 1 | 3 | 2 | 1 | 0 | [art-148-par-2.csv](orzecznictwo/art-148-par-2.csv) |
+| art. 149 | 399 | 6 | 136 | 257 | 6 | 0 | [art-149.csv](orzecznictwo/art-149.csv) |
+| art. 149 § 1 | 183 | 11 | 74 | 98 | 13 | 0 | [art-149-par-1.csv](orzecznictwo/art-149-par-1.csv) |
 | art. 149 § 2 | 117 | 11 | 54 | 52 | 12 | 0 | [art-149-par-2.csv](orzecznictwo/art-149-par-2.csv) |
-| art. 149 § 3 | 44 | 4 | 25 | 15 | 4 | 1 | [art-149-par-3.csv](orzecznictwo/art-149-par-3.csv) |
+| art. 149 § 3 | 45 | 4 | 26 | 15 | 4 | 1 | [art-149-par-3.csv](orzecznictwo/art-149-par-3.csv) |
 | art. 149 § 4 | 2 | 0 | 0 | 2 | 0 | 0 | [art-149-par-4.csv](orzecznictwo/art-149-par-4.csv) |
 | art. 149 § 145 | 3 | 0 | 1 | 2 | 0 | 0 | [art-149-par-145.csv](orzecznictwo/art-149-par-145.csv) |
 | art. 149 § 150 | 2 | 0 | 2 | 0 | 0 | 0 | [art-149-par-150.csv](orzecznictwo/art-149-par-150.csv) |
@@ -500,9 +500,9 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 150 § 1 | 7 | 3 | 2 | 2 | 2 | 1 | [art-150-par-1.csv](orzecznictwo/art-150-par-1.csv) |
 | art. 150 § 2 | 2 | 0 | 1 | 1 | 0 | 0 | [art-150-par-2.csv](orzecznictwo/art-150-par-2.csv) |
 | art. 150 § 3 | 1 | 0 | 0 | 1 | 0 | 0 | [art-150-par-3.csv](orzecznictwo/art-150-par-3.csv) |
-| art. 151 | 658 | 8 | 280 | 370 | 8 | 0 | [art-151.csv](orzecznictwo/art-151.csv) |
-| art. 151 § 1 | 243 | 22 | 157 | 64 | 25 | 3 | [art-151-par-1.csv](orzecznictwo/art-151-par-1.csv) |
-| art. 151 § 2 | 438 | 16 | 139 | 283 | 10 | 6 | [art-151-par-2.csv](orzecznictwo/art-151-par-2.csv) |
+| art. 151 | 659 | 8 | 280 | 371 | 8 | 0 | [art-151.csv](orzecznictwo/art-151.csv) |
+| art. 151 § 1 | 244 | 22 | 157 | 65 | 25 | 3 | [art-151-par-1.csv](orzecznictwo/art-151-par-1.csv) |
+| art. 151 § 2 | 439 | 16 | 139 | 284 | 10 | 6 | [art-151-par-2.csv](orzecznictwo/art-151-par-2.csv) |
 | art. 151 § 3 | 1 | 0 | 0 | 1 | 0 | 0 | [art-151-par-3.csv](orzecznictwo/art-151-par-3.csv) |
 | art. 151 § 146 | 1 | 0 | 1 | 0 | 0 | 0 | [art-151-par-146.csv](orzecznictwo/art-151-par-146.csv) |
 | art. 152 | 21 | 3 | 15 | 3 | 3 | 0 | [art-152.csv](orzecznictwo/art-152.csv) |
@@ -521,8 +521,8 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 154 § 161 | 1 | 0 | 1 | 0 | 0 | 0 | [art-154-par-161.csv](orzecznictwo/art-154-par-161.csv) |
 | art. 155 | 172 | 54 | 79 | 39 | 50 | 12 | [art-155.csv](orzecznictwo/art-155.csv) |
 | art. 155 § 1 | 4 | 1 | 3 | 0 | 1 | 0 | [art-155-par-1.csv](orzecznictwo/art-155-par-1.csv) |
-| art. 156 | 1259 | 100 | 777 | 382 | 90 | 26 | [art-156.csv](orzecznictwo/art-156.csv) |
-| art. 156 § 1 | 1413 | 339 | 713 | 361 | 339 | 46 | [art-156-par-1.csv](orzecznictwo/art-156-par-1.csv) |
+| art. 156 | 1261 | 100 | 779 | 382 | 90 | 26 | [art-156.csv](orzecznictwo/art-156.csv) |
+| art. 156 § 1 | 1414 | 339 | 714 | 361 | 339 | 46 | [art-156-par-1.csv](orzecznictwo/art-156-par-1.csv) |
 | art. 156 § 2 | 198 | 63 | 109 | 26 | 54 | 13 | [art-156-par-2.csv](orzecznictwo/art-156-par-2.csv) |
 | art. 156 § 3 | 4 | 0 | 2 | 2 | 0 | 0 | [art-156-par-3.csv](orzecznictwo/art-156-par-3.csv) |
 | art. 156 § 4 | 6 | 1 | 5 | 0 | 0 | 1 | [art-156-par-4.csv](orzecznictwo/art-156-par-4.csv) |
@@ -545,13 +545,13 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 159 | 18 | 2 | 13 | 3 | 2 | 0 | [art-159.csv](orzecznictwo/art-159.csv) |
 | art. 159 § 1 | 3 | 2 | 1 | 0 | 2 | 1 | [art-159-par-1.csv](orzecznictwo/art-159-par-1.csv) |
 | art. 159 § 2 | 1 | 1 | 0 | 0 | 1 | 0 | [art-159-par-2.csv](orzecznictwo/art-159-par-2.csv) |
-| art. 160 | 778 | 221 | 500 | 57 | 213 | 25 | [art-160.csv](orzecznictwo/art-160.csv) |
-| art. 160 § 1 | 626 | 184 | 397 | 45 | 178 | 18 | [art-160-par-1.csv](orzecznictwo/art-160-par-1.csv) |
-| art. 160 § 2 | 448 | 93 | 324 | 31 | 91 | 8 | [art-160-par-2.csv](orzecznictwo/art-160-par-2.csv) |
-| art. 160 § 3 | 341 | 56 | 253 | 32 | 51 | 7 | [art-160-par-3.csv](orzecznictwo/art-160-par-3.csv) |
+| art. 160 | 779 | 221 | 501 | 57 | 213 | 25 | [art-160.csv](orzecznictwo/art-160.csv) |
+| art. 160 § 1 | 627 | 184 | 398 | 45 | 178 | 18 | [art-160-par-1.csv](orzecznictwo/art-160-par-1.csv) |
+| art. 160 § 2 | 449 | 93 | 325 | 31 | 91 | 8 | [art-160-par-2.csv](orzecznictwo/art-160-par-2.csv) |
+| art. 160 § 3 | 342 | 56 | 254 | 32 | 51 | 7 | [art-160-par-3.csv](orzecznictwo/art-160-par-3.csv) |
 | art. 160 § 4 | 103 | 34 | 63 | 6 | 29 | 8 | [art-160-par-4.csv](orzecznictwo/art-160-par-4.csv) |
 | art. 160 § 5 | 91 | 37 | 48 | 6 | 34 | 9 | [art-160-par-5.csv](orzecznictwo/art-160-par-5.csv) |
-| art. 160 § 6 | 467 | 97 | 333 | 37 | 99 | 7 | [art-160-par-6.csv](orzecznictwo/art-160-par-6.csv) |
+| art. 160 § 6 | 468 | 97 | 334 | 37 | 99 | 7 | [art-160-par-6.csv](orzecznictwo/art-160-par-6.csv) |
 | art. 160 § 12 | 1 | 1 | 0 | 0 | 1 | 0 | [art-160-par-12.csv](orzecznictwo/art-160-par-12.csv) |
 | art. 160 § 19 | 1 | 1 | 0 | 0 | 1 | 0 | [art-160-par-19.csv](orzecznictwo/art-160-par-19.csv) |
 | art. 160 § 23 | 2 | 2 | 0 | 0 | 2 | 0 | [art-160-par-23.csv](orzecznictwo/art-160-par-23.csv) |
@@ -589,8 +589,8 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 176 § 2 | 2 | 2 | 0 | 0 | 1 | 1 | [art-176-par-2.csv](orzecznictwo/art-176-par-2.csv) |
 | art. 177 | 4 | 0 | 2 | 2 | 0 | 0 | [art-177.csv](orzecznictwo/art-177.csv) |
 | art. 177 § 1 | 4 | 0 | 2 | 2 | 0 | 0 | [art-177-par-1.csv](orzecznictwo/art-177-par-1.csv) |
-| art. 180 | 608 | 28 | 299 | 281 | 38 | 2 | [art-180.csv](orzecznictwo/art-180.csv) |
-| art. 180 § 1 | 283 | 34 | 177 | 72 | 44 | 1 | [art-180-par-1.csv](orzecznictwo/art-180-par-1.csv) |
+| art. 180 | 609 | 28 | 299 | 282 | 38 | 2 | [art-180.csv](orzecznictwo/art-180.csv) |
+| art. 180 § 1 | 284 | 34 | 177 | 73 | 44 | 1 | [art-180-par-1.csv](orzecznictwo/art-180-par-1.csv) |
 | art. 180 § 2 | 36 | 5 | 26 | 5 | 5 | 0 | [art-180-par-2.csv](orzecznictwo/art-180-par-2.csv) |
 | art. 180 § 39 | 1 | 0 | 0 | 1 | 0 | 0 | [art-180-par-39.csv](orzecznictwo/art-180-par-39.csv) |
 | art. 180 § 40 | 1 | 0 | 0 | 1 | 0 | 0 | [art-180-par-40.csv](orzecznictwo/art-180-par-40.csv) |
@@ -612,7 +612,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 187 § 1 | 1 | 0 | 1 | 0 | 0 | 0 | [art-187-par-1.csv](orzecznictwo/art-187-par-1.csv) |
 | art. 187 § 118 | 1 | 0 | 1 | 0 | 0 | 0 | [art-187-par-118.csv](orzecznictwo/art-187-par-118.csv) |
 | art. 188 | 11 | 1 | 2 | 8 | 2 | 0 | [art-188.csv](orzecznictwo/art-188.csv) |
-| art. 189 | 7 | 0 | 7 | 0 | 0 | 0 | [art-189.csv](orzecznictwo/art-189.csv) |
+| art. 189 | 8 | 0 | 8 | 0 | 0 | 0 | [art-189.csv](orzecznictwo/art-189.csv) |
 | art. 189 § 1 | 2 | 0 | 2 | 0 | 0 | 0 | [art-189-par-1.csv](orzecznictwo/art-189-par-1.csv) |
 | art. 189 § 2 | 2 | 0 | 2 | 0 | 0 | 0 | [art-189-par-2.csv](orzecznictwo/art-189-par-2.csv) |
 | art. 189 § 3 | 2 | 0 | 2 | 0 | 0 | 0 | [art-189-par-3.csv](orzecznictwo/art-189-par-3.csv) |
@@ -851,12 +851,12 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 15512 | 1 | 1 | 0 | 0 | 1 | 0 | [art-15512.csv](orzecznictwo/art-15512.csv) |
 | art. 15811 § 2 | 1 | 1 | 0 | 0 | 1 | 0 | [art-15811-par-2.csv](orzecznictwo/art-15811-par-2.csv) |
 | art. 156159 | 1 | 1 | 0 | 0 | 1 | 0 | [art-156159.csv](orzecznictwo/art-156159.csv) |
-| § 1 | 889 | 40 | 323 | 526 | 39 | 11 | [par-1.csv](orzecznictwo/par-1.csv) |
-| § 2 | 397 | 13 | 206 | 178 | 9 | 4 | [par-2.csv](orzecznictwo/par-2.csv) |
+| § 1 | 893 | 40 | 325 | 528 | 39 | 11 | [par-1.csv](orzecznictwo/par-1.csv) |
+| § 2 | 400 | 13 | 207 | 180 | 9 | 4 | [par-2.csv](orzecznictwo/par-2.csv) |
 | § 3 | 40 | 4 | 27 | 9 | 3 | 1 | [par-3.csv](orzecznictwo/par-3.csv) |
 | § 4 | 19 | 1 | 13 | 5 | 1 | 1 | [par-4.csv](orzecznictwo/par-4.csv) |
 | § 5 | 14 | 0 | 7 | 7 | 1 | 0 | [par-5.csv](orzecznictwo/par-5.csv) |
-| § 6 | 42 | 5 | 35 | 2 | 6 | 0 | [par-6.csv](orzecznictwo/par-6.csv) |
+| § 6 | 43 | 5 | 36 | 2 | 6 | 0 | [par-6.csv](orzecznictwo/par-6.csv) |
 | § 77 | 1 | 0 | 0 | 1 | 0 | 0 | [par-77.csv](orzecznictwo/par-77.csv) |
 | § 80 | 1 | 0 | 1 | 0 | 0 | 0 | [par-80.csv](orzecznictwo/par-80.csv) |
 | § 107 | 1 | 0 | 0 | 1 | 0 | 0 | [par-107.csv](orzecznictwo/par-107.csv) |
@@ -2585,6 +2585,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 1999-02-03 | SN | [III RN 107/98](https://www.saos.org.pl/judgments/78830) | Wyrok (score: 78)
 - ★★ 2011-08-09 | SN | [I UK 23/11](https://www.saos.org.pl/judgments/95598) | Postanowienie (score: 69)
 - ★★ 1994-10-05 | SN | [III ARN 54/94](https://www.saos.org.pl/judgments/76660) | Postanowienie (score: 69)
+- ★★ 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok (score: 56)
 - ★★ 2025-10-15 | SO | [III AUa 263/25](https://www.saos.org.pl/judgments/542802) | Wyrok (score: 56)
 - ★★ 2022-10-06 | SO | [III AUa 44/22](https://www.saos.org.pl/judgments/484548) | Wyrok (score: 56)
 - ★★ 2021-02-02 | SO | [VII AGa 2036/18](https://www.saos.org.pl/judgments/438709) | Wyrok (score: 56)
@@ -2601,7 +2602,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2013-08-14 | SO | [I ACa 320/13](https://www.saos.org.pl/judgments/20935) | Wyrok (score: 56)
 - ★★ 2013-06-26 | SO | [I ACa 169/13](https://www.saos.org.pl/judgments/35659) | Wyrok (score: 56)
 - ★★ 2013-06-06 | SO | [VI ACa 1587/12](https://www.saos.org.pl/judgments/16953) | Wyrok (score: 56)
-- ★★ 2012-12-20 | SO | [VI ACa 872/12](https://www.saos.org.pl/judgments/5031) | Wyrok (score: 56)
 
 ### art. 46 (8 wiodących)
 
@@ -5859,6 +5859,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 
 - ★★★ 2013-03-13 | TK | [K 25/10](https://www.saos.org.pl/judgments/111590) | Wyrok (score: 98)
 - ★★★ 2014-08-06 | SN | [II UK 525/13](https://www.saos.org.pl/judgments/166507) | Wyrok (score: 78)
+- ★★ 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok (score: 56)
 - ★★ 2022-12-14 | SO | [I ACa 192/22](https://www.saos.org.pl/judgments/535247) | Wyrok (score: 56)
 - ★★ 2021-04-09 | SO | [I ACa 853/19](https://www.saos.org.pl/judgments/443466) | Wyrok (score: 56)
 - ★★ 2020-03-26 | SO | [III AUa 87/20](https://www.saos.org.pl/judgments/418309) | Wyrok (score: 56)
@@ -5876,13 +5877,13 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2016-11-02 | SO | [I ACa 1725/15](https://www.saos.org.pl/judgments/261230) | Wyrok (score: 56)
 - ★★ 2016-10-07 | SO | [III AUa 738/15](https://www.saos.org.pl/judgments/257424) | Wyrok (score: 56)
 - ★★ 2016-09-28 | SO | [III AUa 308/16](https://www.saos.org.pl/judgments/253961) | Wyrok (score: 56)
-- ★★ 2016-02-03 | SO | [I ACa 870/15](https://www.saos.org.pl/judgments/213732) | Wyrok (score: 56)
 
-### art. 148 § 1 (15 wiodących)
+### art. 148 § 1 (16 wiodących)
 
 - ★★★ 2014-08-06 | SN | [II UK 525/13](https://www.saos.org.pl/judgments/166507) | Wyrok (score: 78)
 - ★★★ 2013-06-06 | SN | [II UK 343/12](https://www.saos.org.pl/judgments/101987) | Wyrok (score: 78)
 - ★★★ 2002-04-18 | SN | [III RN 46/01](https://www.saos.org.pl/judgments/81350) | Wyrok (score: 78)
+- ★★ 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok (score: 56)
 - ★★ 2021-04-09 | SO | [I ACa 853/19](https://www.saos.org.pl/judgments/443466) | Wyrok (score: 56)
 - ★★ 2020-03-26 | SO | [III AUa 87/20](https://www.saos.org.pl/judgments/418309) | Wyrok (score: 56)
 - ★★ 2020-03-26 | SO | [III AUa 71/20](https://www.saos.org.pl/judgments/414826) | Wyrok (score: 56)
@@ -5896,9 +5897,10 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2013-11-19 | SO | [I ACa 651/13](https://www.saos.org.pl/judgments/30611) | Wyrok (score: 56)
 - ★★ 2012-05-08 | SO | [III AUa 233/12](https://www.saos.org.pl/judgments/1381) | Wyrok (score: 56)
 
-### art. 148 § 2 (3 wiodących)
+### art. 148 § 2 (4 wiodących)
 
 - ★★★ 2014-08-06 | SN | [II UK 525/13](https://www.saos.org.pl/judgments/166507) | Wyrok (score: 78)
+- ★★ 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok (score: 56)
 - ★★ 2018-02-19 | SO | [III AUa 352/17](https://www.saos.org.pl/judgments/337034) | Wyrok (score: 56)
 - ★★ 2016-10-07 | SO | [III AUa 738/15](https://www.saos.org.pl/judgments/257424) | Wyrok (score: 56)
 
@@ -5910,6 +5912,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 2006-10-04 | SN | [II UK 30/06](https://www.saos.org.pl/judgments/84613) | Wyrok (score: 78)
 - ★★★ 2004-05-25 | SN | [III UK 31/04](https://www.saos.org.pl/judgments/82708) | Wyrok (score: 78)
 - ★★★ 1999-06-09 | SN | [III RN 12/99](https://www.saos.org.pl/judgments/79086) | Wyrok (score: 78)
+- ★★ 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok (score: 56)
 - ★★ 2025-11-21 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/538755) | Wyrok (score: 56)
 - ★★ 2025-07-30 | SO | [III AUa 80/25](https://www.saos.org.pl/judgments/537940) | Wyrok (score: 56)
 - ★★ 2025-04-30 | SO | [III AUa 489/24](https://www.saos.org.pl/judgments/532073) | Wyrok (score: 56)
@@ -5923,7 +5926,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2021-10-06 | SO | [III AUa 303/21](https://www.saos.org.pl/judgments/462000) | Wyrok (score: 56)
 - ★★ 2021-07-14 | SO | [III AUa 835/20](https://www.saos.org.pl/judgments/446479) | Wyrok (score: 56)
 - ★★ 2021-06-02 | SO | [III AUa 1127/20](https://www.saos.org.pl/judgments/441598) | Wyrok (score: 56)
-- ★★ 2020-06-23 | SO | [III AUa 138/20](https://www.saos.org.pl/judgments/467467) | Wyrok (score: 56)
 
 ### art. 149 § 1 (20 wiodących)
 
@@ -5978,6 +5980,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 1998-11-04 | SN | [III RN 80/98](https://www.saos.org.pl/judgments/78666) | Wyrok (score: 78)
 - ★★★ 1997-11-21 | SN | [III RN 66/97](https://www.saos.org.pl/judgments/77935) | Wyrok (score: 78)
 - ★★ 2005-12-13 | SN | [II UZP 14/05](https://www.saos.org.pl/judgments/83953) | Postanowienie (score: 69)
+- ★★ 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok (score: 56)
 - ★★ 2025-07-30 | SO | [III AUa 80/25](https://www.saos.org.pl/judgments/537940) | Wyrok (score: 56)
 - ★★ 2025-04-30 | SO | [III AUa 489/24](https://www.saos.org.pl/judgments/532073) | Wyrok (score: 56)
 - ★★ 2025-01-29 | SO | [III AUa 517/24](https://www.saos.org.pl/judgments/531382) | Wyrok (score: 56)
@@ -5992,7 +5995,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2015-02-25 | SO | [III AUa 1715/14](https://www.saos.org.pl/judgments/215756) | Wyrok (score: 56)
 - ★★ 2015-01-27 | SO | [III AUa 396/14](https://www.saos.org.pl/judgments/153931) | Wyrok (score: 56)
 - ★★ 2014-09-17 | SO | [III AUa 315/14](https://www.saos.org.pl/judgments/61461) | Wyrok (score: 56)
-- ★★ 2014-06-13 | SO | [III AUa 2107/13](https://www.saos.org.pl/judgments/53997) | Wyrok (score: 56)
 
 ### art. 149 § 145 (1 wiodących)
 
@@ -7220,8 +7222,9 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 1997-09-24 | SN | [III RN 44/97](https://www.saos.org.pl/judgments/77834) | Postanowienie (score: 69)
 - ★★ 2018-04-05 | SO | [V ACa 1177/17](https://www.saos.org.pl/judgments/344734) | Wyrok (score: 56)
 
-### art. 189 (7 wiodących)
+### art. 189 (8 wiodących)
 
+- ★★ 2026-04-27 | SO | [VII AGa 957/24](https://www.saos.org.pl/judgments/545294) | Wyrok (score: 56)
 - ★★ 2024-01-10 | SO | [V AGa 235/21](https://www.saos.org.pl/judgments/525539) | Wyrok (score: 56)
 - ★★ 2022-07-27 | SO | [VII AGa 1229/21](https://www.saos.org.pl/judgments/480258) | Wyrok (score: 56)
 - ★★ 2022-03-31 | SO | [VII AGa 1011/21](https://www.saos.org.pl/judgments/469674) | Wyrok (score: 56)
@@ -8939,13 +8942,13 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 2003-06-04 | SN | [I CKN 471/01](https://www.saos.org.pl/judgments/82040) | Wyrok (score: 78)
 - ★★★ 1995-10-18 | SN | [III ARN 43/95](https://www.saos.org.pl/judgments/76972) | Wyrok (score: 78)
 - ★★★ 1995-04-20 | SN | [III ARN 12/95](https://www.saos.org.pl/judgments/76831) | Wyrok (score: 78)
+- ★★ 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok (score: 56)
 - ★★ 2026-04-09 | SO | [III AUa 694/25](https://www.saos.org.pl/judgments/544844) | Wyrok (score: 56)
 - ★★ 2025-07-30 | SO | [III AUa 80/25](https://www.saos.org.pl/judgments/537940) | Wyrok (score: 56)
 - ★★ 2025-07-16 | SO | [III AUa 32/25](https://www.saos.org.pl/judgments/532773) | Wyrok (score: 56)
 - ★★ 2025-07-07 | SO | [III AUa 166/25](https://www.saos.org.pl/judgments/541209) | Wyrok (score: 56)
 - ★★ 2025-05-22 | SO | [III AUa 46/24](https://www.saos.org.pl/judgments/537925) | Wyrok (score: 56)
 - ★★ 2025-04-30 | SO | [III AUa 489/24](https://www.saos.org.pl/judgments/532073) | Wyrok (score: 56)
-- ★★ 2025-04-30 | SO | [III AUa 476/24](https://www.saos.org.pl/judgments/532072) | Wyrok (score: 56)
 
 ### § 3 (20 wiodących)
 
@@ -9005,6 +9008,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★★ 2008-04-04 | SN | [I CSK 450/07](https://www.saos.org.pl/judgments/87733) | Wyrok (score: 78)
 - ★★★ 2007-12-05 | SN | [I CSK 301/07](https://www.saos.org.pl/judgments/164994) | Wyrok (score: 78)
 - ★★ 1994-07-07 | SN | [III ARN 41/94](https://www.saos.org.pl/judgments/76590) | Postanowienie (score: 69)
+- ★★ 2025-11-26 | SO | [I ACa 236/23](https://www.saos.org.pl/judgments/546052) | Wyrok (score: 56)
 - ★★ 2020-01-08 | SO | [I ACa 344/19](https://www.saos.org.pl/judgments/405018) | Wyrok (score: 56)
 - ★★ 2019-10-30 | SO | [I ACa 1130/18](https://www.saos.org.pl/judgments/429596) | Wyrok (score: 56)
 - ★★ 2019-04-01 | SO | [I ACa 167/18](https://www.saos.org.pl/judgments/376355) | Wyrok (score: 56)
@@ -9018,7 +9022,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2016-11-02 | SO | [I ACa 746/15](https://www.saos.org.pl/judgments/259774) | Wyrok (score: 56)
 - ★★ 2016-09-20 | SO | [I ACa 310/16](https://www.saos.org.pl/judgments/253208) | Wyrok (score: 56)
 - ★★ 2015-10-23 | SO | [I ACa 976/15](https://www.saos.org.pl/judgments/200094) | Wyrok (score: 56)
-- ★★ 2015-08-20 | SO | [I ACa 1995/14](https://www.saos.org.pl/judgments/191264) | Wyrok (score: 56)
 
 ### § 80 (1 wiodących)
 

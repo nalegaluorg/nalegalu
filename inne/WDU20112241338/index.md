@@ -8,7 +8,7 @@ pos: 1338
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o rencie socjalnej

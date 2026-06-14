@@ -8,10 +8,10 @@ pos: 1763
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 września 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1763 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 7 września 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001763) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1763/text.pdf) |
 
-Poz. 1763 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 7 września 2018 r.
-w sprawie przekazywania informacji Straży Marszałkowskiej Na podstawie art. 4 ust. 5 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. poz. 729 i 1669) zarządza się, co następuje: § 1. Rozporządzenie określa zakres, warunki i tryb przekazywania Straży Marszałkowskiej informacji przez podmioty wymienione w art. 4 ust. 2 pkt 1 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, z uwzględnieniem:
+w sprawie przekazywania informacji Straży Marszałkowskiej Na podstawie art. 4 ust. 5 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. poz. 729 i 1669) zarządza się, co następuje:
+§ 1. Rozporządzenie określa zakres, warunki i tryb przekazywania Straży Marszałkowskiej informacji przez podmioty wymienione w art. 4 ust. 2 pkt 1 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej, z uwzględnieniem:
 1) sytuacji, w których informacje są przekazywane;
 2) przypadków nieprzekazania informacji lub ograniczenia ich zakresu;
 3) sposobu dokumentowania tych informacji.
@@ -39,7 +39,7 @@ w sprawie przekazywania informacji Straży Marszałkowskiej Na podstawie art. 4 
 § 7. Informacje przekazują:
 1) w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Komendzie Głównej Policji i Komendzie Głównej Straży Granicznej, Służbie Ochrony Państwa, Służbie Celno-Skarbowej i Żandarmerii Wojskowej – odpowiednio szefowie lub komendanci tych służb;
 2) komendanci wojewódzcy Policji i komendanci oddziałów Straży Granicznej.
-Dziennik Ustaw – 2 – Poz. 1763 § 8. Informacje dokumentuje się przez sporządzenie notatki służbowej lub naniesienie adnotacji.
+§ 8. Informacje dokumentuje się przez sporządzenie notatki służbowej lub naniesienie adnotacji.
 § 9. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Prezes Rady Ministrów: M. Morawiecki
 

@@ -8,7 +8,7 @@ pos: 50
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o finansowym wspieraniu produkcji audiowizualnej
@@ -53,11 +53,38 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** dostawca usługi medialnej – dostawcę usługi medialnej w rozumieniu art. 4 pkt 4 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz.
+- **805)** ;
+- **2)** koproducent utworu audiowizualnego – przedsiębiorcę, który wspólnie z producentem utworu audiowizualnego organizuje, prowadzi i ponosi odpowiedzialność za produkcję audiowizualną lub który współfinansuje produkcję audiowizualną oraz nabywa udział w autorskich prawach majątkowych do utworu audiowizualnego;
+- **3)** polskie koszty kwalifikowalne – koszty realizacji produkcji audiowizualnej albo świadczenia usługi na rzecz produkcji audiowizualnej poniesione na terytorium Rzeczypospolitej Polskiej, jeżeli są objęte obowiązkiem podatkowym w rozumieniu przepisów podatkowych oraz mieszczą się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014;
+- **4)** producent utworu audiowizualnego – przedsiębiorcę, który podejmuje inicjatywę dotyczącą produkcji audiowizualnej, organizuje, prowadzi produkcję audiowizualną i ponosi odpowiedzialność za tę produkcję oraz nabywa autorskie prawa majątkowe do utworu audiowizualnego;
+- **5)** produkcja audiowizualna – zespół czynności twórczych, organizacyjnych, ekonomicznych, prawnych i technicznych prowadzących do wytworzenia utworu audiowizualnego;
+- **6)** przedsiębiorca – podmiot, o którym mowa w art. 1 załącznika I do rozporządzenia nr 651/2014;
+- **7)** usługa na rzecz produkcji audiowizualnej – usługę świadczoną przez przedsiębiorców w ramach wykonywanej działalności gospodarczej na rzecz producenta utworu audiowizualnego lub koproducenta utworu audiowizualnego dla celów produkcji audiowizualnej;
+- **8)** utwór audiowizualny – utwór złożony z serii następujących po sobie obrazów z dźwiękiem lub bez dźwięku utrwalonych na nośniku umożliwiającym wielokrotne odtwarzanie, wywołujących wrażenie ruchu i składających się na oryginalną całość wyrażającą akcję lub treść w indywidualnej formie, zrealizowany w formie filmu fabularnego, dokumentalnego lub animowanego albo serialu fabularnego, dokumentalnego lub animowanego, niezależnie od pola eksploatacji, o którym mowa w przepisach ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2019 r. poz. 1231 oraz z 2020 r. poz. 288);
+- **9)** wsparcie finansowe – środki finansowe przyznawane przez Polski Instytut Sztuki Filmowej przedsiębiorcy w formie dofinansowania na pokrycie części polskich kosztów kwalifikowalnych związanych z produkcją audiowizualną albo świadczeniem usługi na rzecz produkcji audiowizualnej.
+
 #### Rozdział 2 Zadania i przychody Polskiego Instytutu Sztuki Filmowej związane z przyznawaniem i rozliczaniem wsparcia finansowego
 
 **Art. 3.** Do zadań Polskiego Instytutu Sztuki Filmowej, zwanego dalej „Instytutem”, związanych ze wsparciem finansowym należy:
 
+- **1)** przyznawanie wsparcia finansowego;
+- **2)** rozliczanie środków przyznanych w ramach wsparcia finansowego;
+- **3)** prowadzenie kontroli, o której mowa w art. 28 ust. 1;
+- **4)** gromadzenie danych o rynku audiowizualnym, w tym danych finansowych, produkcyjnych oraz danych o dystrybucji krajowej i zagranicznej;
+- **5)** dokonywanie analizy oraz sporządzanie raportów dotyczących wpływu przyznanego wsparcia finansowego na rozwój rynku produkcji audiowizualnej i obszarów polskiej gospodarki związanych z ponoszonymi polskimi kosztami kwalifikowalnymi;
+- **6)** promocja polskiego rynku produkcji audiowizualnej związana ze stwarzaniem warunków dla zagranicznych produkcji audiowizualnych oraz inwestycji w rynek produkcji audiowizualnej na terytorium Rzeczypospolitej Polskiej oraz promocja Rzeczypospolitej Polskiej jako miejsca produkcji audiowizualnej;
+- **7)** prowadzenie rejestru wsparcia finansowego, zwanego dalej „rejestrem”.
+
 **Art. 4.** Do zadań Dyrektora Instytutu związanych ze wsparciem finansowym należy:
+
+- **1)** rozliczanie i zwrot dotacji celowych otrzymanych z budżetu państwa;
+- **2)** wydawanie certyfikatów kwalifikujących do uzyskania wsparcia finansowego;
+- **3)** zawieranie umów o wsparcie finansowe;
+- **4)** weryfikowanie rozliczeń polskich kosztów kwalifikowalnych;
+- **5)** wypłata wsparcia finansowego;
+- **6)** kierowanie działaniami związanymi z promocją polskiego rynku produkcji audiowizualnej oraz promocją Rzeczypospolitej Polskiej jako miejsca produkcji audiowizualnej;
+- **7)** stwarzanie warunków dla zagranicznych produkcji audiowizualnych i inwestycji na rynku produkcji audiowizualnej na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 5.**
 
@@ -125,9 +152,31 @@ source: "isap-pdf"
 
 **Art. 9.** Wsparcia finansowego nie przyznaje się przedsiębiorcy będącemu:
 
+- **1)** dostawcą usługi medialnej, chyba że ta działalność nie jest dla niego działalnością przeważającą, o której mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486);
+- **2)** podmiotem rozprowadzającym programy drogą kablową, satelitarną lub za pośrednictwem systemu teleinformatycznego;
+- **3)** podmiotem świadczącym usługi udostępniania zasobów systemu teleinformatycznego w celu przechowywania danych;
+- **4)** podmiotem, dla którego spółką dominującą w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320) jest podmiot wymieniony w pkt 1–3.
+
 **Art. 10.** Wsparcia finansowego nie przyznaje się także przedsiębiorcy, który:
 
+- **1)** ma zaległości z tytułu należności publicznoprawnych lub
+- **2)** pozostaje pod zarządem komisarycznym albo znajduje się w toku likwidacji, postępowania upadłościowego, postępowania restrukturyzacyjnego, lub
+- **3)** w okresie 3 lat przed złożeniem wniosku o wsparcie finansowe nie przedłożył raportu końcowego z prac objętych wsparciem finansowym, zwanego dalej „raportem”, lub
+- **4)** nie zwrócił przyznanej przez Rzeczpospolitą Polską pomocy publicznej uznanej na podstawie decyzji Komisji Europejskiej za niezgodną z prawem i z rynkiem wewnętrznym, lub
+- **5)** jest przedsiębiorcą znajdującym się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia nr 651/2014, lub
+- **6)** został skazany prawomocnym wyrokiem za przestępstwo: składania fałszywych zeznań, przekupstwa, przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, systemowi bankowemu, przestępstwo skarbowe albo inne związane z wykonywaniem działalności gospodarczej lub popełnione w celu osiągnięcia korzyści majątkowej lub którego wspólnikiem albo członkiem organu jest osoba fizyczna skazana prawomocnym wyrokiem za takie przestępstwa, lub
+- **7)** w okresie 3 lat przed złożeniem wniosku o wsparcie finansowe rażąco naruszył umowę o dofinansowanie, o której mowa w art. 23 ust. 3 ustawy z dnia 30 czerwca 2005 r. o kinematografii, w ten sposób, że nie rozliczył dofinansowania zgodnie z tą umową.
+
 **Art. 11.** Wsparcia finansowego nie przyznaje się na produkcję utworów audiowizualnych o charakterze reklamowym oraz:
+
+- **1)** powstałych w wyniku rejestracji:
+    - **a)** wykonań utworów słownych, słowno-muzycznych, muzycznych lub pantomimicznych,
+    - **b)** zdarzeń z życia politycznego, społecznego, kulturalnego, religijnego, gospodarczego lub sportowego,
+    - **c)** zdarzeń z życia prywatnego,
+    - **d)** treści pornograficznych;
+
+- **2)** sporządzanych na potrzeby nauki, nauczania, techniki, promocji, informacji lub instruktażu;
+- **3)** sporządzanych na użytek wewnętrzny kościołów i innych związków wyznaniowych.
 
 **Art. 12.** W ramach wsparcia finansowego przewidzianego na dany rok Instytut przyznaje co najmniej 10% wsparcia na produkcję filmów animowanych i seriali animowanych.
 
@@ -304,6 +353,14 @@ source: "isap-pdf"
 3. Po odstąpieniu od umowy o wsparcie finansowe wnioskodawca może ponownie złożyć wniosek o wsparcie finansowe dotyczący tego samego utworu audiowizualnego tylko raz.
 
 **Art. 23.** Umowa o wsparcie finansowe zawiera w szczególności:
+
+- **1)** opis utworu audiowizualnego, którego dotyczy wsparcie finansowe;
+- **2)** wysokość wsparcia finansowego przyznanego dla danego utworu audiowizualnego;
+- **3)** terminy rozpoczęcia i zakończenia prac objętych wsparciem finansowym wraz z podaniem terminów poszczególnych ich etapów realizacji oraz terminy przedstawienia raportu;
+- **4)** określenie materiałów związanych z produkcją audiowizualną przekazywanych przez przedsiębiorcę, którego dotyczy wsparcie finansowe, do wykorzystania przez Instytut w ramach działań promocyjnych określonych w art. 3 pkt 6;
+- **5)** termin lub terminy wypłaty wsparcia finansowego;
+- **6)** wysokość kar umownych z tytułu nieterminowego przedstawienia przez wnioskodawcę raportu;
+- **7)** warunki rozwiązania umowy o wsparcie finansowe.
 
 **Art. 24.**
 

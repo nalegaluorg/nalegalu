@@ -8,7 +8,7 @@ pos: 493
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zapobieganiu szkodom w środowisku i ich naprawie
@@ -86,9 +86,54 @@ Art. 30–34. (pominięte)
 
 **Art. 4.** Przepisów ustawy nie stosuje się:
 
+- **1)** do bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, która zaistniała przed dniem 30 kwietnia 2007 r. lub wynika z działalności, która została zakończona przed dniem 30 kwietnia 2007 r., a także jeżeli od emisji lub zdarzenia, które spowodowały bezpośrednie zagrożenie szkodą lub szkodę w środowisku, upłynęło więcej niż 30 lat, w tym do historycznego zanieczyszczenia powierzchni ziemi;
+- **2)** jeżeli bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku zostały spowodowane przez:
+    - **a)** konflikt zbrojny, działania wojenne, wojnę domową lub powstanie zbrojne,
+    - **b)** katastrofę naturalną w rozumieniu przepisów ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897),
+    - **c)** działalność, której głównym celem jest obronność i bezpieczeństwo państwa, bezpieczeństwo międzynarodowe lub której jedynym celem jest ochrona przed klęską żywiołową.
+
 **Art. 5.** Przepisów ustawy nie stosuje się do szkód jądrowych w zakresie uregulowanym w ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322).
 
 **Art. 6.** Ilekroć w ustawie jest mowa o:
+
+- **1)** bezpośrednim zagrożeniu szkodą w środowisku – rozumie się przez to wysokie prawdopodobieństwo wystąpienia szkody w środowisku w dającej się przewidzieć przyszłości;
+- **1a)** badaniach zanieczyszczenia gleby i ziemi – rozumie się przez to badania zanieczyszczenia gleby i ziemi w rozumieniu art. 3 pkt 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **2)** chronionych siedliskach przyrodniczych – rozumie się przez to:
+    - **a)** (uchylona)
+    - **b)** siedliska przyrodnicze należące do typów siedlisk określonych w przepisach wydanych na podstawie art. 26 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378),
+    - **c)** siedliska oraz miejsca rozrodu gatunków chronionych,
+    - **d)** miejsca tokowania, lęgu, pierzenia i zimowania ptaków wędrownych oraz miejsca ich zatrzymywania się i żerowania wzdłuż tras wędrówek;
+
+- **3)** działaniach naprawczych – rozumie się przez to wszelkie działania, w tym działania ograniczające lub tymczasowe, podejmowane w celu naprawy lub zastąpienia w równoważny sposób elementów przyrodniczych lub ich funkcji, które uległy szkodzie, a także działania kompensacyjne; do działań naprawczych zalicza się w szczególności przeprowadzenie remediacji, przywracanie naturalnego ukształtowania terenu, zalesianie, zadrzewianie lub tworzenie skupień roślinności, reintrodukcję zniszczonych gatunków, prowadzące do usunięcia zagrożenia dla zdrowia ludzi oraz przywracania równowagi przyrodniczej na danym terenie;
+- **4)** działaniach zapobiegawczych – rozumie się przez to działania podejmowane w związku ze zdarzeniem, działaniem lub zaniechaniem powodującym bezpośrednie zagrożenie szkodą w środowisku, w celu zapobieżenia szkodzie lub zmniejszenia szkody, w szczególności wyeliminowanie lub ograniczenie emisji;
+- **5)** emisji – rozumie się przez to wprowadzane bezpośrednio lub pośrednio, w wyniku działalności człowieka, do powietrza, wody, gleby lub ziemi:
+    - **a)** substancje oraz ich mieszaniny lub roztwory,
+    - **b)** energie, takie jak ciepło, hałas, wibracje lub pola elektromagnetyczne,
+    - **c)** organizmy lub mikroorganizmy;
+
+- **6)** funkcjach elementów przyrodniczych – rozumie się przez to przydatność gatunków chronionych, chronionych siedlisk przyrodniczych, wody lub powierzchni ziemi dla innych elementów przyrodniczych lub ludzi;
+- **7)** gatunkach chronionych – rozumie się przez to gatunki objęte ochroną na podstawie przepisów wydanych na podstawie art. 26, art. 48 i art. 49 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
+- **7a)** historycznym zanieczyszczeniu powierzchni ziemi – rozumie się przez to historyczne zanieczyszczenie powierzchni ziemi w rozumieniu art. 3 pkt 5a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **8)** naprawie elementów przyrodniczych, która obejmuje również naturalną regenerację – rozumie się przez to:
+    - **a)** w odniesieniu do gatunków chronionych lub chronionych siedlisk przyrodniczych – przywrócenie środowiska, elementów przyrodniczych lub ich funkcji do stanu początkowego oraz usunięcie zagrożenia dla zdrowia ludzi,
+    - **b)** w odniesieniu do wód – przywrócenie środowiska, elementów przyrodniczych lub ich funkcji do stanu początkowego oraz usunięcie zagrożenia dla zdrowia ludzi,
+    - **c)** w odniesieniu do powierzchni ziemi – usunięcie zagrożenia dla zdrowia ludzi i stanu środowiska;
+
+- **8a)** naturalnej regeneracji – rozumie się przez to:
+    - **a)** w odniesieniu do: – gatunków chronionych – proces odtwarzania się populacji gatunku na danym terenie do stanu początkowego lub do osiągnięcia właściwego stanu ochrony gatunku, – chronionych siedlisk przyrodniczych – proces odtwarzania się siedliska przyrodniczego na danym terenie do stanu początkowego lub do osiągnięcia właściwego stanu ochrony siedliska przyrodniczego – przebiegający samoistnie, bez ingerencji człowieka, ale którego przebieg może być przez człowieka wspomagany,
+    - **b)** w odniesieniu do wód i powierzchni ziemi – samooczyszczanie w rozumieniu art. 3 pkt 32d ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+
+- **9)** podmiocie korzystającym ze środowiska – rozumie się przez to podmiot korzystający ze środowiska w rozumieniu art. 3 pkt 20 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, prowadzący działalność stwarzającą ryzyko szkody w środowisku lub inną działalność, o której mowa w art. 2 ust. 1 pkt 2, powodującą bezpośrednie zagrożenie szkodą w środowisku lub szkodę w środowisku;
+- **9a)** pomiarach – rozumie się przez to również obserwacje, analizy oraz pobieranie próbek;
+- **9b)** remediacji – rozumie się przez to remediację w rozumieniu art. 3 pkt 31b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **10)** stanie początkowym – rozumie się przez to stan i funkcje środowiska oraz poszczególnych elementów przyrodniczych przed wystąpieniem szkody w środowisku, oszacowane na podstawie dostępnych informacji; w przypadku szkody w środowisku w powierzchni ziemi rozumie się przez to w szczególności stan określony w raporcie początkowym, o którym mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska albo, jeżeli nie ma dostępnych informacji na temat stanu początkowego lub w raporcie początkowym stwierdzono przekroczenie dopuszczalnych zawartości substancji powodujących ryzyko – stan zgodny z dopuszczalnymi zawartościami substancji powodujących ryzyko;
+- **10a)** substancji powodującej ryzyko – rozumie się przez to substancję w rozumieniu art. 3 pkt 37a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **11)** szkodzie w środowisku – rozumie się przez to negatywną, mierzalną zmianę stanu lub funkcji elementów przyrodniczych, ocenioną w stosunku do stanu początkowego, która została spowodowana bezpośrednio lub pośrednio przez działalność prowadzoną przez podmiot korzystający ze środowiska: o ochronie przyrody lub – decyzją, o której mowa w art. 56 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub – zatwierdzonym planem urządzenia lasu, dla którego przeprowadzono strategiczną ocenę oddziaływania na środowisko, o której mowa w art. 46 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2020 r. poz. 283, 284, 322, 471 i 1378), lub – decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub – postanowieniami, o których mowa w art. 90 ust. 1 i art. 98 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko,
+    - **a)** w gatunkach chronionych lub chronionych siedliskach przyrodniczych, mającą znaczący negatywny wpływ na osiągnięcie lub utrzymanie właściwego stanu ochrony tych gatunków lub siedlisk przyrodniczych, z tym że szkoda w gatunkach chronionych lub chronionych siedliskach przyrodniczych nie obejmuje uprzednio zidentyfikowanego negatywnego wpływu, wynikającego z działania podmiotu korzystającego ze środowiska zgodnie z: – decyzją, o której mowa w art. 34 ustawy z dnia 16 kwietnia 2004 r.
+    - **b)** w wodach, mającą znaczący negatywny wpływ na potencjał ekologiczny, stan ekologiczny, chemiczny lub ilościowy wód lub stan środowiska wód morskich w obszarach morskich, o których mowa w art. 2 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2019 r. poz. 2169 oraz z 2020 r. poz. 284 i 1378), z wyjątkiem przypadków, o których mowa w art. 38j ustawy z dnia 18 lipca 2001 r. – Prawo wodne ,
+    - **c)** w powierzchni ziemi, przez co rozumie się zanieczyszczenie gleby lub ziemi, w tym w szczególności zanieczyszczenie mogące stanowić zagrożenie dla zdrowia ludzi;
+
+- **12)** władającym powierzchnią ziemi – rozumie się przez to podmiot, o którym mowa w art. 3 pkt 44 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 7.**
 
@@ -209,6 +254,9 @@ Art. 30–34. (pominięte)
 
 **Art. 14.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska, uwzględniając wpływ podejmowanych działań na zdrowie i bezpieczeństwo ludzi, potrzebę minimalizacji kosztów tych działań, możliwość osiągnięcia celów naprawy i przeciwdziałanie przyszłym szkodom w środowisku lub pogłębianiu istniejących szkód w środowisku oraz wpływ działań naprawczych na stan elementów przyrodniczych lub ich funkcje, określi w drodze rozporządzenia:
 
+- **1)** rodzaje działań naprawczych oraz warunki i sposoby ich prowadzenia dla szkód w środowisku w gatunkach chronionych lub chronionych siedliskach przyrodniczych lub wodach;
+- **2)** warunki i sposoby przeprowadzania remediacji – dla szkód w środowisku w powierzchni ziemi.
+
 **Art. 15.**
 
 1. Jeżeli podmiot korzystający ze środowiska lub w przypadku, o którym mowa w art. 12 ust. 2, podmiot korzystający ze środowiska lub władający powierzchnią ziemi nie podejmie działań zapobiegawczych lub nie uzgodni działań naprawczych, organ ochrony środowiska:
@@ -232,6 +280,9 @@ Art. 30–34. (pominięte)
 4. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisów art. 362 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 16.** Organ ochrony środowiska podejmuje działania zapobiegawcze lub naprawcze, jeżeli:
+
+- **1)** podmiot korzystający ze środowiska nie może zostać zidentyfikowany lub nie można wszcząć wobec niego postępowania egzekucyjnego, lub egzekucja okazała się bezskuteczna;
+- **2)** z uwagi na zagrożenie dla zdrowia ludzi lub możliwość zaistnienia nieodwracalnych szkód w środowisku, konieczne jest niezwłoczne podjęcie tych działań.
 
 **Art. 16a.**
 
@@ -280,6 +331,9 @@ Art. 30–34. (pominięte)
 5. Przepisów ust. 1–4 nie stosuje się w przypadku prowadzenia działań ratowniczych.
 
 **Art. 17a.** W trakcie realizacji działań naprawczych w odniesieniu do szkody w środowisku w gatunkach chronionych lub chronionych siedliskach przyrodniczych lub w wodach właściwy organ ochrony środowiska może podjąć decyzję o ich zaniechaniu, jeżeli:
+
+- **1)** dotychczas zrealizowane działania naprawcze gwarantują, że nie ma znaczącego ryzyka wystąpienia negatywnego wpływu na zdrowie ludzi, gatunki chronione, chronione siedliska przyrodnicze lub na wody, oraz
+- **2)** koszty dalszych działań naprawczych, które miałyby doprowadzić do osiągnięcia stanu początkowego lub do niego zbliżonego, byłyby nieproporcjonalnie wysokie w stosunku do korzyści osiągniętych w środowisku.
 
 **Art. 17b.**
 
@@ -339,6 +393,15 @@ Art. 30–34. (pominięte)
 #### Rozdział 3 Koszty przeprowadzenia działań zapobiegawczych i naprawczych
 
 **Art. 21.** Koszty przeprowadzenia działań zapobiegawczych lub naprawczych oznaczają uzasadnione koszty związane z koniecznością zapewnienia właściwego i efektywnego przeprowadzenia tych działań, w tym koszty:
+
+- **1)** gromadzenia danych i oceny bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku;
+- **2)** opracowania i oceny projektów działań zapobiegawczych lub naprawczych, w tym projektów alternatywnych;
+- **3)** przeprowadzenia działań zapobiegawczych lub naprawczych;
+- **4)** postępowania administracyjnego;
+- **5)** postępowania sądowego;
+- **6)** egzekucji;
+- **7)** nadzoru i monitoringu;
+- **8)** odszkodowań, o których mowa w art. 18 ust. 1.
 
 **Art. 22.**
 
@@ -462,6 +525,9 @@ Art. 30–34. (pominięte)
 **Art. 26d.** Przepisów art. 26b–26ca nie stosuje się do poważnych awarii przemysłowych w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 27.** Po uzyskaniu informacji o wystąpieniu bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, które zostały spowodowane przez podmiot korzystający ze środowiska działający na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, organ ochrony środowiska może, za pośrednictwem ministra właściwego do spraw klimatu, wystąpić do tego państwa z wnioskiem o:
+
+- **1)** podjęcie działań zapobiegawczych lub naprawczych;
+- **2)** zwrot poniesionych kosztów przeprowadzonych działań zapobiegawczych lub naprawczych.
 
 #### Rozdział 6 Przepisy karne
 

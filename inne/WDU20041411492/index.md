@@ -8,7 +8,7 @@ pos: 1492
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
@@ -133,6 +133,44 @@ własnością gmin, lecz co do których nie zostały wydane ostateczne decyzje p
 144) w art. 231 dodaje się ust. 3 w brzmieniu: „3. Do osób, o których mowa w ust. 2, stosuje się odpowiednio art. 175, 176, 178, 194 i 195.”.
 
 **Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. z 2000 r. Nr 46, poz. 543, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 4:
+    - **a)** pkt 2-3a otrzymują brzmienie: „2) zasobie nieruchomości - należy przez to rozumieć nieruchomości, które stanowią przedmiot własności Skarbu Państwa, gminy, powiatu lub województwa i nie zostały oddane w użytkowanie wieczyste oraz nieruchomości będące przedmiotem użytkowania wieczystego Skarbu Państwa, gminy, powiatu lub województwa,
+
+- **3)** działce gruntu - należy przez to rozumieć niepodzieloną, ciągłą część powierzchni ziemskiej stanowiącą część lub całość nieruchomości gruntowej, 3a) działce budowlanej - należy przez to rozumieć zabudowaną działkę gruntu, której wielkość, cechy geometryczne, dostęp do drogi publicznej oraz wyposażenie w urządzenia infrastruktury technicznej umożliwiają prawidłowe i racjonalne korzystanie z budynków i urządzeń położonych na tej działce,”,
+    - **b)** po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) zbywaniu albo nabywaniu nieruchomości - należy przez to rozumieć dokonywanie czynności prawnych, na podstawie których następuje przeniesienie własności nieruchomości lub przeniesienie prawa użytkowania wieczystego nieruchomości gruntowej albo oddanie jej w użytkowanie wieczyste,”,
+    - **c)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) określaniu wartości nieruchomości - należy przez to rozumieć określanie wartości nieruchomości jako przedmiotu prawa własności i innych praw do nieruchomości,”,
+    - **d)** pkt 13 otrzymuje brzmienie: „13) osobie bliskiej - należy przez to rozumieć zstępnych, wstępnych, rodzeństwo, dzieci rodzeństwa, małżonka, osoby przysposabiające i przysposobione oraz osobę, która pozostaje ze zbywcą faktycznie we wspólnym pożyciu,”,
+    - **e)** w pkt 13 kropkę zastępuje się przecinkiem i dodaje się pkt 14-17 w brzmieniu: „14) standardach zawodowych - należy przez to rozumieć reguły postępowania przy wykonywaniu zawodu rzeczoznawcy majątkowego, pośrednika w obrocie nieruchomościami, zarządcy nieruchomości, ustalone zgodnie z przepisami prawa,
+
+- **15)** organizacjach zawodowych - należy przez to rozumieć utworzone, zgodnie z przepisami o stowarzyszeniach, stowarzyszenia i związki stowarzyszeń zrzeszające osoby zawodowo wykonujące czynności odpowiednio rzeczoznawcy majątkowego, pośrednika w obrocie nieruchomościami lub zarządcy nieruchomości,
+- **16)** nieruchomości podobnej - należy przez to rozumieć nieruchomość, która jest porównywalna z nieruchomością stanowiącą przedmiot wyceny, ze względu na położenie, stan prawny, przeznaczenie, sposób korzystania oraz inne cechy wpływające na jej wartość,
+- **17)** stanie nieruchomości - należy przez to rozumieć stan zagospodarowania, stan prawny, stan techniczno-użytkowy, a także stan otoczenia nieruchomości, w tym wielkość, charakter i stopień zurbanizowania miejscowości, w której nieruchomość jest położona.”;
+- **2)** w art. 6:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) budowa i utrzymywanie publicznych urządzeń służących do zaopatrzenia ludności w wodę, gromadzenia, przesyłania, oczyszczania i odprowadzania ścieków oraz odzysku i unieszkodliwiania odpadów, w tym ich składowania,”,
+    - **b)** pkt 7 i 8 otrzymują brzmienie: „7) budowa i utrzymywanie obiektów oraz urządzeń niezbędnych na potrzeby obronności państwa i ochrony granicy państwowej, a także do zapewnienia bezpieczeństwa publicznego, w tym budowa i utrzymywanie aresztów śledczych, zakładów karnych oraz zakładów dla nieletnich,
+
+- **8)** poszukiwanie, rozpoznawanie, wydobywanie i składowanie kopalin stanowiących własność Skarbu Państwa oraz węgla brunatnego wydobywanego metodą odkrywkową,”;
+- **3)** art. 9 otrzymuje brzmienie: „Art. 9. W sprawach, o których mowa w przepisach działu III, z wyłączeniem art. 97 ust. 3 pkt 1, art. 122 i art. 126, wykonanie decyzji następuje po upływie 14 dni od dnia, w którym upłynął bezskutecznie termin do wniesienia skargi na decyzję do sądu administracyjnego. W przypadku wniesienia skargi do sądu administracyjnego w tych sprawach, organ, który wydał decyzję, wstrzymuje z urzędu jej wykonanie, w drodze postanowienia, na które nie przysługuje zażalenie.”;
+- **4)** art. 9a otrzymuje brzmienie: „Art. 9a. Organem wyższego stopnia w sprawach określonych w ustawie, rozstrzyganych w drodze decyzji przez starostę wykonującego zadania z zakresu administracji rządowej, jest wojewoda.”;
+- **5)** w art. 10 po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Jeżeli nieruchomość jest przedmiotem współwłasności Skarbu Państwa lub jednostek samorządu terytorialnego i osób trzecich, przepisy niniejszego działu stosuje się wyłącznie do gospodarowania udziałem Skarbu Państwa lub jednostek samorządu terytorialnego w tej nieruchomości.”;
+- **6)** w art. 11 ust. 2 otrzymuje brzmienie: „2. Jeżeli przepisy ustawy wymagają udzielenia zgody przez radę, sejmik lub wojewodę, wyrażenie zgody, z wyjątkiem zgody, o której mowa w art. 46 ust. 4, następuje odpowiednio w drodze uchwały rady lub sejmiku albo zarządzenia wojewody wydanego w terminie miesiąca od złożenia odpowiedniego wniosku przez starostę.”;
+- **7)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. Przepis art. 11 ust. 1 stosuje się do czynności prawnych lub czynności procesowych podejmowanych na rzecz lub w interesie Skarbu Państwa lub jednostek samorządu terytorialnego.”;
+- **8)** w art. 13:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Nieruchomość może być, z zastrzeżeniem art. 59 ust. 1, przedmiotem darowizny na cele publiczne, a także przedmiotem darowizny dokonywanej między Skarbem Państwa a jednostką samorządu terytorialnego, a także między tymi jednostkami. W umowie darowizny określa się cel, na który nieruchomość jest darowana. W przypadku niewykorzystania nieruchomości na ten cel, darowizna podlega odwołaniu, z zastrzeżeniem ust. 2a.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Darowizny nieruchomości stanowiącej przedmiot własności Skarbu Państwa dokonuje starosta, wykonujący zadanie z zakresu administracji rządowej - za zgodą wojewody, a nieruchomości stanowiącej przedmiot własności jednostki samorządu terytorialnego jej organ wykonawczy za zgodą rady albo sejmiku. Odstąpienie od odwołania darowizny następuje za zgodą organu, który wyraził zgodę na jej dokonanie.”;
+
+- **9)** w art. 14 ust. 1 otrzymuje brzmienie: „1. Nieruchomości stanowiące przedmiot własności Skarbu Państwa mogą być sprzedawane jednostkom samorządu terytorialnego za cenę niższą niż ich wartość rynkowa lub oddawane tym jednostkom w użytkowanie wieczyste bez pobierania pierwszej opłaty. Nieruchomości stanowiące przedmiot własności jednostek samorządu terytorialnego mogą być sprzedawane Skarbowi Państwa lub innym jednostkom samorządu terytorialnego za cenę niższą niż wartość rynkowa nieruchomości albo oddawane im w użytkowanie wieczyste bez pobierania pierwszej opłaty.”;
+- **10)** w art. 15:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 stosuje się odpowiednio w przypadku zamiany własności nieruchomości na prawo użytkowania wieczystego lub prawa użytkowania wieczystego na własność nieruchomości, a także wzajemnej zamiany praw użytkowania wieczystego.”,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Przepisy ust. 1 i 2 stosuje się odpowiednio do zamiany udziałów we współwłasności lub we współużytkowaniu wieczystym nieruchomości.”;
+
+- **11)** w art. 16 uchyla się ust. 2;
+- **12)** w art. 17:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Państwowe jednostki organizacyjne nieposiadające osobowości prawnej nabywają nieruchomości - na własność lub w użytkowanie wieczyste Skarbu Państwa, a samorządowe jednostki organizacyjne nieposiadające osobowości prawnej - na własność lub w użytkowanie wieczyste odpowiedniej jednostki samorządu terytorialnego.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Jednostki organizacyjne, o których mowa w ust. 1 i 2, uzyskują do nabytych nieruchomości trwały zarząd z mocy prawa z dniem ich nabycia.”;
+
+- **13)** art. 21 i 22 otrzymują brzmienie: „Art. 21. Do zasobu nieruchomości Skarbu Państwa należą nieruchomości, które stanowią przedmiot własności Skarbu Państwa i nie zostały oddane w użytkowanie wieczyste oraz nieruchomości będące przedmiotem użytkowania wieczystego Skarbu Państwa.
 
 **Art. 22.**
 
@@ -531,9 +569,157 @@ własnością gmin, lecz co do których nie zostały wydane ostateczne decyzje p
 
 **Art. 173c.** Przez informacje o rynku nieruchomości, o których mowa w art. 173b, rozumie się informacje dotyczące w szczególności wartości nieruchomości, cen transakcyjnych nieruchomości, stawek czynszów oraz częstotliwości obrotu nieruchomościami.”;
 
+- **112)** w art. 174:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Rzeczoznawca majątkowy dokonuje określania wartości nieruchomości, a także maszyn i urządzeń trwale związanych z nieruchomością.”,
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Rzeczoznawca majątkowy może sporządzać opracowania i ekspertyzy, niestanowiące operatu szacunkowego, dotyczące:
+
+- **1)** rynku nieruchomości oraz doradztwa w zakresie tego rynku,
+- **2)** efektywności inwestowania w nieruchomości i ich rozwoju,
+- **3)** skutków finansowych uchwalania lub zmiany planów miejscowych,
+- **4)** oznaczania przedmiotu odrębnej własności lokali,
+- **5)** bankowo-hipotecznej wartości nieruchomości,
+- **6)** określania wartości nieruchomości na potrzeby indywidualnego inwestora,
+- **7)** wyceny nieruchomości zaliczanych do inwestycji w rozumieniu przepisów o rachunkowości,
+- **8)** wyceny nieruchomości jako środków trwałych jednostek w rozumieniu ustawy o rachunkowości.
+
+3b. Z dniem wpisu do centralnego rejestru rzeczoznawców majątkowych osoba, o której mowa w ust. 2, nabywa prawo wykonywania zawodu oraz używania tytułu zawodowego „rzeczoznawca majątkowy”. Tytuł zawodowy „rzeczoznawca majątkowy” podlega ochronie prawnej.”,
+
+- **c)** po ust. 6 dodaje się ust. 7-9 w brzmieniu: „7. Rzeczoznawca majątkowy wykonuje zawód prowadząc we własnym imieniu działalność gospodarczą jednoosobowo lub w ramach spółki osobowej w zakresie szacowania nieruchomości, albo w ramach stosunku pracy lub umowy cywilnoprawnej u przedsiębiorcy prowadzącego działalność w tym zakresie.
+
+8. Rzeczoznawca majątkowy nie może łączyć wykonywania zawodu w formach wymienionych w ust. 7.
+
+9. Przepisy ust. 7 i 8 nie dotyczą biegłych sądowych wykonujących wycenę na zlecenie sądu.”;
+
+- **113)** w art. 175:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rzeczoznawca majątkowy jest zobowiązany do wykonywania czynności, o których mowa w art. 174 ust 3 i 3a, zgodnie z zasadami wynikającymi z przepisów prawa i standardami zawodowymi, ze szczególną starannością właściwą dla zawodowego charakteru tych czynności oraz z zasadami etyki zawodowej, kierując się zasadą bezstronności w wycenie nieruchomości.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Informacje uzyskane przez rzeczoznawcę majątkowego w związku z wykonywaniem zawodu stanowią tajemnicę zawodową. W szczególności informacje uzyskane w toku wykonywania czynności zawodowych nie mogą być przekazywane osobom trzecim, chyba że przepisy ustawy lub przepisy odrębnych ustaw stanowią inaczej.
+
+4. Rzeczoznawca majątkowy podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z wykonywaniem czynności, o których mowa w art. 174 ust. 3 i 3a. Przepis ten stosuje się odpowiednio do przedsiębiorców, o których mowa w art. 174 ust.
+
+6. ”,
+
+- **c)** po ust. 4 dodaje się ust. 5 i 6 w brzmieniu: „5. Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 4, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań.
+
+6. Standardy zawodowe ustalają organizacje zawodowe rzeczoznawców majątkowych w uzgodnieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej. Komunikat o uzgodnieniu standardów zawodowych zamieszcza się w Dzienniku Urzędowym ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.”;
+
+- **114)** w art. 177 w ust. 1 pkt 3 otrzymuje brzmienie: „3) posiada wyższe wykształcenie prawnicze, ekonomiczne lub techniczne,”;
+- **115)** w art. 178:
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) nagana,”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Zastosowanie kar, o których mowa w ust. 2 pkt 3-5, powoduje wykreślenie osoby ukaranej z rejestru z dniem, w którym decyzja o ukaraniu podlega wykonaniu.
+
+2b. Ponowny wpis do rejestru w przypadkach, o których mowa w ust. 2a, następuje na wniosek osoby ukaranej, po upływie okresu orzeczonej kary.”,
+
+- **c)** uchyla się ust. 4;
+- **116)** w art. 179:
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Pośrednikiem w obrocie nieruchomościami jest osoba fizyczna posiadająca licencję zawodową nadaną w trybie przepisów rozdziału 4 niniejszego działu.
+
+3. Przedsiębiorcy mogą prowadzić działalność w zakresie pośrednictwa w obrocie nieruchomościami, jeżeli czynności z tego zakresu będą wykonywane przez pośredników w obrocie nieruchomościami.”,
+
+- **b)** po ust. 3 dodaje się ust. 4 i 5 w brzmieniu: „4. Z dniem wpisu do centralnego rejestru pośredników w obrocie nieruchomościami osoba, o której mowa w ust. 2, nabywa prawo wykonywania zawodu oraz używania tytułu zawodowego „pośrednik w obrocie nieruchomościami”. Tytuł zawodowy „pośrednik w obrocie nieruchomościami” podlega ochronie prawnej.
+
+5. W przypadku wykonywania działalności gospodarczej przez przedsiębiorcę, o którym mowa w ust. 3, w kilku miejscach lub oddziałach, przedsiębiorca powinien w każdym z tych miejsc zapewnić, aby czynności pośrednictwa były wykonywane wyłącznie przez pośredników w obrocie nieruchomościami.”;
+
+- **117)** w art. 180:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Pośrednictwo w obrocie nieruchomościami polega na zawodowym wykonywaniu przez pośrednika w obrocie nieruchomościami czynności zmierzających do zawarcia przez inne osoby umów:
+
+- **1)** nabycia lub zbycia praw do nieruchomości,
+- **2)** nabycia lub zbycia własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego lub prawa do domu jednorodzinnego w spółdzielni mieszkaniowej,
+- **3)** najmu lub dzierżawy nieruchomości albo ich części,
+- **4)** innych niż określone w pkt 1-3, mających za przedmiot prawa do nieruchomości lub ich części.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Pośrednik w obrocie nieruchomościami może wykonywać opracowania i ekspertyzy oraz doradztwo w zakresie rynku nieruchomości.”,
+    - **c)** ust. 2 i 3 otrzymują brzmienie: „2. Pośrednik wykonuje czynności, o których mowa w ust. 1, osobiście lub przy pomocy innych osób wykonujących czynności pomocnicze i działających pod jego bezpośrednim nadzorem, ponosząc za ich czynności odpowiedzialność zawodową określoną w ustawie.
+
+3. Zakres czynności pośrednictwa w obrocie nieruchomościami określa umowa pośrednictwa. Umowa wymaga formy pisemnej pod rygorem nieważności. W umowie wskazuje się pośrednika w obrocie nieruchomościami odpowiedzialnego zawodowo za jej wykonanie oraz numer jego licencji zawodowej. W umowie zamieszcza się oświadczenie o posiadanym ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z wykonywaniem czynności pośrednictwa w obrocie nieruchomościami.”,
+
+- **d)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Umowa pośrednictwa może być zawarta z zastrzeżeniem wyłączności na rzecz pośrednika lub przedsiębiorcy. Art. 550 Kodeksu cywilnego stosuje się odpowiednio.”,
+- **e)** po ust. 6 dodaje się ust. 7 i 8 w brzmieniu: „7. Pośrednik w obrocie nieruchomościami wykonuje zawód:
+- **1)** prowadząc jako przedsiębiorca działalność w zakresie pośrednictwa w obrocie nieruchomościami albo
+- **2)** w ramach stosunku pracy lub umowy cywilnoprawnej u przedsiębiorcy prowadzącego działalność w zakresie pośrednictwa w obrocie nieruchomościami.
+
+8. Pośrednik w obrocie nieruchomościami nie może łączyć wykonywania zawodu w formach wymienionych w ust. 7.”;
+
+- **118)** w art. 181:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Pośrednik w obrocie nieruchomościami jest zobowiązany do wykonywania czynności, o których mowa w art. 180 ust. 1 i ust. 1a, zgodnie z zasadami wynikającymi z przepisów prawa i standardami zawodowymi, ze szczególną starannością właściwą dla zawodowego charakteru tych czynności oraz zasadami etyki zawodowej. Jest on także zobowiązany do kierowania się zasadą ochrony interesu osób, na których rzecz wykonuje te czynności.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Pośrednik w obrocie nieruchomościami podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone w związku z wykonywaniem czynności pośrednictwa, o których mowa w art. 180 ust. 1 i 1a. Jeżeli pośrednik wykonuje czynności przy pomocy innych osób, działających pod jego nadzorem, podlega on również ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone działaniem tych osób. Przepis ten stosuje się odpowiednio do przedsiębiorców, o których mowa w art. 179 ust. 3.”,
+    - **c)** po ust. 3 dodaje się ust. 4-6 w brzmieniu: „4. Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 3, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań.
+
+5. Standardy zawodowe ustalają organizacje zawodowe pośredników w obrocie nieruchomościami w uzgodnieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej. Komunikat o uzgodnieniu standardów zawodowych zamieszcza się w Dzienniku Urzędowym ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.
+
+6. Przy wykonywaniu działalności zawodowej w związku z zawartą umową pośrednictwa w obrocie nieruchomościami, w zakresie objętym tą umową , pośrednik odpowiedzialny zawodowo za jej wykonanie ma prawo wglądu oraz pobierania odpowiednich odpisów, wypisów i zaświadczeń zawartych w:
+
+- **1)** księgach wieczystych,
+- **2)** katastrze nieruchomości,
+- **3)** ewidencji sieci uzbrojenia terenu,
+- **4)** tabelach taksacyjnych i na mapach taksacyjnych tworzonych na podstawie art. 169,
+- **5)** planach miejscowych, studiach uwarunkowań i kierunków zagospodarowania przestrzennego gmin oraz decyzjach o warunkach zabudowy i zagospodarowania terenu,
+- **6)** rejestrach członków spółdzielni mieszkaniowych, którym przysługują prawa określone w art. 180 ust. 1 pkt 2,
+- **7)** ewidencji ludności.”;
+- **119)** w art. 182 w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) posiada wyższe wykształcenie,
+- **4)** ukończyła studia podyplomowe w zakresie pośrednictwa w obrocie nieruchomościami,”;
+- **120)** w art. 183:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Pośrednik w obrocie nieruchomościami nie wypełniający obowiązków, o których mowa w art. 181, podlega odpowiedzialności zawodowej.
+
+2. Wobec pośrednika mogą być orzeczone, z tytułu odpowiedzialności zawodowej, następujące kary dyscyplinarne:
+
+- **1)** upomnienie,
+- **2)** nagana,
+- **3)** zawieszenie licencji zawodowej na okres od 6 miesięcy do roku,
+- **4)** zawieszenie licencji zawodowej do czasu ponownego zdania egzaminu z wynikiem pozytywnym,
+- **5)** pozbawienie licencji zawodowej z możliwością ubiegania się o ponowne jej nadanie po upływie 3 lat od dnia pozbawienia.”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Zastosowanie kar, o których mowa w ust. 2 pkt 3-5, powoduje wykreślenie osoby ukaranej z rejestru z dniem, w którym decyzja o ukaraniu podlega wykonaniu.
+
+2b. Ponowny wpis do rejestru w przypadkach, o których mowa w ust. 2a, następuje na wniosek osoby ukaranej, po upływie okresu orzeczonej kary.”,
+
+- **c)** uchyla się ust. 4;
+- **121)** uchyla się art. 183a;
+- **122)** art. 184 otrzymuje brzmienie: „Art. 184. 1. Zarządzanie nieruchomościami jest działalnością zawodową wykonywaną przez zarządców nieruchomości na zasadach określonych w niniejszej ustawie.
+
+2. Zarządcą nieruchomości jest osoba fizyczna posiadająca licencję zawodową nadaną w trybie przepisów rozdziału 4 niniejszego działu.
+
+3. Przedsiębiorcy mogą prowadzić działalność w zakresie zarządzania nieruchomościami, jeżeli czynności z tego zakresu będą wykonywane przez zarządców nieruchomości.
+
+4. Z dniem wpisu do centralnego rejestru zarządców nieruchomości osoba, o której mowa w ust. 2, nabywa prawo wykonywania zawodu oraz używania tytułu zawodowego „zarządca nieruchomości”.
+
 ## Tytuł zawodowy „zarządca nieruchomości” podlega ochronie prawnej.”;
 
 **Art. 2.** W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz.U. z 2000 r. Nr 100, poz. 1086, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)**
+- **2)**
+- **3)**
+- **4)**
+- **5)**
+- **6)**
+- **7)**
+- **8)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. 1. Starosta może zarządzić przeprowadzenie modernizacji ewidencji gruntów i budynków na obszarze poszczególnych obrębów ewidencyjnych.
+
+2. Starosta podaje do publicznej wiadomości informację o rozpoczęciu prac geodezyjnych, oraz informuje o trybie postępowania związanego z modernizacją ewidencji gruntów i budynków.
+
+3. Informacje, o których mowa w ust. 2, podlegają wywieszeniu na okres 14 dni na tablicy ogłoszeń w siedzibie starostwa powiatowego.
+
+4. Projekt operatu opisowo-kartograficznego podlega, na okres 15 dni roboczych, wyłożeniu do wglądu osób fizycznych, osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej, w siedzibie starostwa powiatowego.
+
+5. Starosta informuje o terminie i miejscu wyłożenia, o którym mowa w ust. 4, poprzez wywieszenie tej informacji na tablicy ogłoszeń w siedzibie starostwa powiatowego i właściwego urzędu gminy, na co najmniej 14 dni przed dniem wyłożenia, oraz ogłoszenia jej w prasie o zasięgu krajowym.
+
+6. Każdy czyjego interesu prawnego dotyczą dane ujawnione w projekcie operatu opisowo-kartograficznego, może w okresie wyłożenia projektu do wglądu, zgłaszać uwagi do tych danych.
+
+7. Upoważniony pracownik starostwa powiatowego, posiadający uprawnienia, o których mowa w art. 43 pkt 2, przy udziale wykonawcy prac geodezyjnych, kartograficznych lub taksacyjnych, związanych z opracowaniem projektu operatu ewidencyjnego, rozstrzyga o przyjęciu lub odrzuceniu uwag zgłoszonych do tego projektu, po czym informuje zgłaszającego uwagi o sposobie rozpatrzenia uwag oraz sporządza wzmiankę o treści zgłoszonych uwag i sposobie ich rozpatrzenia w protokole.
+
+8. Po upływie terminu, o którym mowa w ust. 4, projekt operatu opisowo-kartograficznego staje się operatem ewidencji gruntów i budynków. Informację o tym starosta ogłasza w dzienniku urzędowym województwa.
+
+9. Każdy, czyjego interesu prawnego dotyczą dane zawarte w ewidencji gruntów i budynków ujawnione w operacie opisowokartograficznym, może w terminie 30 dni od dnia ogłoszenia w dzienniku urzędowym województwa informacji, o której mowa w ust. 8, zgłaszać zarzuty do tych danych.
+
+10. O uwzględnieniu lub odrzuceniu zarzutów starosta rozstrzyga w drodze decyzji.
+
+11. Do czasu ostatecznego zakończenia postępowania, o którym mowa w ust. 10, w stosunku do gruntów, budynków lub lokali, których dotyczą zarzuty, dane ujawnione w operacie opisowo-kartograficznym nie są wiążące.
+
+12. Zarzuty zgłoszone po terminie określonym w ust. 9 traktuje się jak wnioski o zmianę danych objętych ewidencją gruntów i budynków.”;
+
+- **9)**
+- **10)**
+- **11)**
+- **12)**
+- **13)**
 
 **Art. 3.** W ustawie z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191, z późn. zm. ) dodaje się art. 17a w brzmieniu: „Art. 17a. 1. Gminy są zobowiązane do przekazywania wojewodom spisów inwentaryzacyjnych nieruchomości, które stały się własnością gmin z mocy prawa na podstawie art. 5 ust. 1 i 2. 2. Termin przekazywania, o którym mowa w ust. 1, upływa z dniem 31 grudnia 2005 r. 3. W stosunku do nieruchomości, o których mowa w ust. 1, nie objętych spisami przekazanymi do dnia 31 grudnia 2005 r., wojewoda wszczyna z urzędu postępowanie w sprawie potwierdzenia nabycia przez gminy własności nieruchomości. Przepisy art. 18 i 20 stosuje się odpowiednio.”.
 
@@ -541,13 +727,62 @@ własnością gmin, lecz co do których nie zostały wydane ostateczne decyzje p
 
 **Art. 5.** W ustawie z dnia 24 czerwca 1994 r. o własności lokali (Dz.U. z 2000 r. Nr 80, poz.
 
+- **903)** wprowadza się następujące zmiany:
+- **1)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. 1. Przy oddawaniu w użytkowanie wieczyste ułamkowej części gruntu, jako prawa związanego z odrębną własnością lokali, stosuje się następujące zasady:
+- **1)** nie oddaje się gruntu we współużytkowanie wieczyste, jeżeli stanowi on przedmiot współwłasności związanej z własnością uprzednio wyodrębnionych lokali,
+- **2)** nie sprzedaje się udziału we współwłasności gruntu, jeżeli grunt ten stanowi przedmiot współużytkowania wieczystego związanego z własnością uprzednio wyodrębnionych lokali,
+- **3)** ustala się jeden termin trwania prawa użytkowania wieczystego w odniesieniu do wszystkich udziałów we współużytkowaniu wieczystym, niezależnie od daty wyodrębnienia lokalu, z którym jest związany udział w tym prawie.
+
+2. Jeżeli przy ustanowieniu odrębnej własności lokali ustanowiono różne terminy trwania prawa współużytkowania wieczystego przynależnej do tych lokali działki budowlanej, właściciele wyodrębnionych lokali mogą żądać zmiany terminów przez przyjęcie jednego terminu dla wszystkich udziałów we współużytkowaniu wieczystym tej działki. Z żądaniem takim może wystąpić także właściwy organ. Termin ten ustanawia się stosownie do najdalszego terminu ustalonego dla pozostałych udział ów.”;
+
+- **2)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Jeżeli powierzchnia nieruchomości gruntowej zabudowanej budynkiem, w którym wyodrębniono własność lokali jest większa niż powierzchnia działki budowlanej, w rozumieniu przepisów o gospodarce nieruchomościami, niezbędnej do korzystania z niego, współwłaściciele mogą dokonać podziału tej nieruchomości.
+
+2. Jeżeli na nieruchomości gruntowej jest położony więcej niż jeden budynek, a przynajmniej w jednym z nich wyodrębniono własność lokalu, współwłaściciele mogą dokonać podziału tej nieruchomości polegającego na wydzieleniu z dotychczasowej nieruchomości dwóch lub więcej działek budowlanych.
+
+3. Przy dokonywaniu podziału, o którym mowa w ust. 1 i 2, stosuje się przepisy o gospodarce nieruchomościami.”.
+
 **Art. 7.** W ustawie z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów (Dz.U. z 2001 r. Nr 5, poz. 42, z późn. zm. ) w art. 20 ust. 1 i 2 otrzymują brzmienie: „1. Okręgowa rada izby urbanistów zawiadamia w terminie 30 dni ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej o każdej uchwale o wpisie na listę członków izby albo o odmowie wpisu. 2. Wpis na listę członków izby uważa się za dokonany, jeżeli minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej nie sprzeciwi się wpisowi w terminie 30 dni od otrzymania uchwały wraz z aktami osobowymi wpisanego. Sprzeciw wymaga uzasadnienia.”.
 
 **Art. 8.** W ustawie z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa (Dz.U. z 2001 r. Nr 4, poz. 24 i Nr 102, poz. 1118) w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Po otrzymaniu wniosku organ, o którym mowa w ust. 2, wydaje decyzję o wygaśnięciu trwałego zarządu w stosunku do nieruchomości lub jej części, której dotyczy wniosek.”.
 
 **Art. 9.** W ustawie z dnia 1 marca 2002 r. o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw (Dz.U. Nr 25, poz. 253, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 1:
+    - **b)**
+
+- **3)** w art. 10:
+    - **b)**
+
+- **11)**
+
 **Art. 10.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz.U. Nr 80, poz. 717 oraz z 2004 r. Nr 6, poz. 41) wprowadza się następujące zmiany:
+
+- **1)** w art. 24 ust. 1 otrzymuje brzmienie: „1. Organy, o których mowa w art. 11 pkt 6 i 7 oraz art. 17 pkt 7, w zakresie swojej właściwości rzeczowej lub miejscowej, uzgadniają, na swój koszt, odpowiednio projekt studium albo projekt planu miejscowego. Uzgodnień dokonuje się w trybie art. 106 Kodeksu postępowania administracyjnego.”;
+- **2)** w art. 32 ust. 3 otrzymuje brzmienie: „3. Przy podejmowaniu uchwały, o której mowa w ust. 2, rada gminy bierze pod uwagę w szczególności zgodność studium albo planu miejscowego z wymogami wynikającymi z przepisów art. 10 ust. 1 i 2, art. 15 oraz art. 16 ust. 1.”;
+- **3)** w art. 36 ust. 3 i 4 otrzymują brzmienie: „3. Jeżeli, w związku z uchwaleniem planu miejscowego albo jego zmianą, wartość nieruchomości uległa obniżeniu, a właściciel albo użytkownik wieczysty zbywa tę nieruchomość i nie skorzystał z praw, o których mowa w ust. 1 i 2, może żądać od gminy odszkodowania równego obniżeniu wartości nieruchomości.
+
+4. Jeżeli w związku z uchwaleniem planu miejscowego albo jego zmianą wartość nieruchomości wzrosła, a właściciel lub użytkownik wieczysty zbywa tę nieruchomość, wójt, burmistrz albo prezydent miasta pobiera jednorazową opłatę ustaloną w tym planie, określoną w stosunku procentowym do wzrostu wartości nieruchomości. Opłata ta jest dochodem własnym gminy. Wysokość opłaty nie może być wyższa niż 30% wzrostu wartości nieruchomości.”;
+
+- **4)** w art. 37:
+    - **a)** uchyla się ust. 2,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Notariusz, w terminie 7 dni od dnia sporządzenia umowy, której przedmiotem jest zbycie nieruchomości, w formie aktu notarialnego, jest zobowiązany przesłać wójtowi, burmistrzowi albo prezydentowi miasta wypis z tego aktu.”,
+    - **c)** ust. 7 otrzymuje brzmienie: „7. Właściciel albo użytkownik wieczysty nieruchomości, której wartość wzrosła w związku z uchwaleniem lub zmianą planu miejscowego, przed jej zbyciem może żądać od wójta, burmistrza albo prezydenta miasta ustalenia, w drodze decyzji, wysokości opłaty, o której mowa w art. 36 ust.
+
+4. ”,
+
+- **d)** ust. 11 otrzymuje brzmienie: „11. W odniesieniu do zasad określania wartości nieruchomości oraz zasad określania skutków finansowych uchwalania lub zmiany planów miejscowych, a także w odniesieniu do osób uprawnionych do określania tych wartości i skutków finansowych stosuje się przepisy o gospodarce nieruchomościami.”;
+- **5)** w art. 39 w ust. 3 pkt 3 otrzymuje brzmienie: „3) rozmieszczenie inwestycji celu publicznego o znaczeniu ponadlokalnym;”;
+- **6)** w art. 50: 1 pkt 4, stosuje się odpowiednio.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Inwestycja celu publicznego jest lokalizowana na podstawie planu miejscowego, a w przypadku jego braku - w drodze decyzji o ustaleniu lokalizacji inwestycji celu publicznego. Warunek, o którym mowa w art. 61 ust.
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) polegające na remoncie, montażu lub przebudowie, jeżeli nie powodują zmiany sposobu zagospodarowania terenu i użytkowania obiektu budowlanego oraz nie zmieniają jego formy architektonicznej, a także nie są zaliczone do przedsięwzięć wymagających przeprowadzenia postępowania w sprawie oceny oddziaływania na środowisko, w rozumieniu przepisów o ochronie środowiska, albo”,
+    - **c)** uchyla się ust. 3;
+
+- **7)** w art. 53:
+    - **a)** w ust. 4: - pkt 6 otrzymuje brzmienie: „6) organami właściwymi w sprawach ochrony gruntów rolnych i leśnych oraz melioracji wodnych - w odniesieniu do gruntów wykorzystywanych na cele rolne i leśne w rozumieniu przepisów o gospodarce nieruchomościami;”, - pkt 9 otrzymuje brzmienie: „9) właściwym zarządcą drogi - w odniesieniu do obszarów przyległych do pasa drogowego;”, - po pkt 9 kropkę zastępuje się przecinkiem i dodaje się pkt 10 w brzmieniu: „10) wojewodą, marszałkiem województwa oraz starostą w zakresie zadań rządowych albo samorządowych, służących realizacji inwestycji celu publicznego, o których mowa w art. 39 ust. 3 pkt 3 i art. 48 - w odniesieniu do terenów, przeznaczonych na ten cel w planach miejscowych, które utraciły moc na podstawie art. 67 ustawy, o której mowa w art. 88 ust. 1.”,
+    - **b)** dodaje się ust. 5a w brzmieniu: „5a. W przypadku odmowy uzgodnienia decyzji o ustaleniu lokalizacji inwestycji celu publicznego przez organy, o których mowa w ust. 4 pkt 10, z uwagi na zamiar realizacji na objętym wnioskiem terenie zadań rządowych albo samorządowych, służących realizacji inwestycji celu publicznego, o których mowa w art. 39 ust. 3 pkt 3 i art. 48, postępowanie administracyjne w sprawie ustalenia lokalizacji inwestycji celu publicznego zawiesza się na czas nie dłuższy niż 12 miesięcy od dnia złożenia wniosku. Jeżeli w okresie zawieszenia postępowania administracyjnego nie uchwalono miejscowego planu albo nie ustalono lokalizacji inwestycji celu publicznego, związanej z tymi zadaniami, decyzję wydaje się pomimo braku tego uzgodnienia.”;
+
+- **8)** w art. 60 uchyla się ust. 2;
+- **9)** w art. 64 ust. 1 otrzymuje brzmienie: „1. Przepisy art. 51 ust. 3, art. 52, art. 53 ust. 3-5a, art. 54, art. 55 i art. 56 stosuje się odpowiednio do decyzji o warunkach zabudowy.”.
 
 **Art. 11.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz.U. Nr 124, poz. 1152 oraz z 2004 r. Nr 26, poz. 225 i Nr 96, poz. 959) uchyla się art. 149.
 

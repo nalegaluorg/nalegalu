@@ -8,10 +8,10 @@ pos: 1137
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 czerwca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1137 EUROPEJSKIE POROZUMIENIE w sprawie głównych śródlądowych dróg wodnych o znaczeniu międzynarodowym (AGN), sporządzone w Genewie dnia 19 stycznia 1996 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001137) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1137/text.pdf) |
 
-EUROPEJSKIE POROZUMIENIE w sprawie głównych śródlądowych dróg wodnych o znaczeniu międzynarodowym (AGN), sporządzone w Genewie dnia 19 stycznia 1996 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 19 stycznia 1996 r. w Genewie zostało sporządzone Europejskie porozumienie w sprawie głównych śródlądowych dróg wodnych o znaczeniu międzynarodowym (AGN), w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych, Rzeczpospolita Polska postanawia przystąpić do tego porozumienia, postanowienia porozumienia są ratyfikowane, przyjęte, potwierdzone i będą niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 19 stycznia 1996 r. w Genewie zostało sporządzone Europejskie porozumienie w sprawie głównych śródlądowych dróg wodnych o znaczeniu międzynarodowym (AGN), w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych, – Rzeczpospolita Polska postanawia przystąpić do tego porozumienia, – postanowienia porozumienia są ratyfikowane, przyjęte, potwierdzone i będą niezmiennie zachowywane.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 6 marca 2017 r.
 Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.

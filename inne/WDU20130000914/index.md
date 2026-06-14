@@ -8,7 +8,7 @@ pos: 914
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców

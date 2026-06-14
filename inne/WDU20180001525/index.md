@@ -8,10 +8,10 @@ pos: 1525
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 sierpnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1525 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 25 lipca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001525) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1525/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 25 lipca 2018 r.
-w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej Na podstawie art. 5 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2018 r. poz. 91 i 1162) zarządza się, co następuje: § 1. Określa się wykaz jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej, w których prawa z udziałów albo akcji wykonuje Krajowy Ośrodek Wsparcia Rolnictwa, który stanowi załącznik do rozporządzenia.
+w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej Na podstawie art. 5 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2018 r. poz. 91 i 1162) zarządza się, co następuje:
+§ 1. Określa się wykaz jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej, w których prawa z udziałów albo akcji wykonuje Krajowy Ośrodek Wsparcia Rolnictwa, który stanowi załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski WYKAZ JEDNOOSOBOWYCH SPÓŁEK HODOWLI ROŚLIN UPRAWNYCH LUB HODOWLI ZWIERZĄT GOSPODARSKICH O SZCZEGÓLNYM ZNACZENIU DLA GOSPODARKI NARODOWEJ, W KTÓRYCH PRAWA Z UDZIAŁÓW ALBO AKCJI WYKONUJE KRAJOWY OŚRODEK WSPARCIA ROLNICTWA
 1. Spółki hodowli roślin uprawnych:
@@ -37,7 +37,7 @@ Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski WYKAZ JEDNOOSOBOWYCH SPÓŁEK HO
 5) Pomorsko Mazurska Hodowla Ziemniaka spółka z ograniczoną odpowiedzialnością z siedzibą w Strzekęcinie, KRS nr 0000063659, Strzekęcino 11, 76-024 Świeszyno;
 6) Krakowska Hodowla i Nasiennictwo Ogrodnicze Polan spółka z ograniczoną odpowiedzialnością z siedzibą w Krakowie, KRS nr 0000084825, ul. Lucjana Rydla 53-55, 30-130 Kraków;
 7) „Spójnia” Hodowla i Nasiennictwo Ogrodnicze spółka z ograniczoną odpowiedzialnością z siedzibą w Nochowie, KRS nr 0000097025, ul. Lipowa 22, Nochowo, 63-100 Śrem;
-8) „PlantiCo Hodowla i Nasiennictwo Ogrodnicze Zielonki” spółka z ograniczoną odpowiedzialnością z siedzibą w Zielonkach Parcelach, KRS nr 0000036476, ul. Parkowa 1A, Zielonki Parcele, 05-082 Stare Babice.
+8) „PlantiCo – Hodowla i Nasiennictwo Ogrodnicze Zielonki” spółka z ograniczoną odpowiedzialnością z siedzibą w Zielonkach Parcelach, KRS nr 0000036476, ul. Parkowa 1A, Zielonki Parcele, 05-082 Stare Babice.
 2. Spółki hodowli zwierząt gospodarskich:
 1) Ośrodek Hodowli Zarodowej Osięciny spółka z ograniczoną odpowiedzialnością z siedzibą w Osięcinach, KRS nr 0000041394, ul. Włocławska 2, 88-220 Osięciny;
 2) Ośrodek Hodowli Zarodowej „Głogówek” spółka z ograniczoną odpowiedzialnością z siedzibą w Głogówku, KRS nr 0000033189, ul. Fabryczna 2 lok. B, 48-250 Głogówek;

@@ -8,10 +8,10 @@ pos: 1173
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 sierpnia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1173 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 30 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001173) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1173/text.pdf) |
 
-Poz. 1173 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 30 lipca 2015 r.
-zmieniające rozporządzenie w sprawie metod analiz związanych z dokonywaniem oceny miodu Na podstawie art. 34 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 14 stycznia 2009 r. w sprawie metod analiz związanych z dokonywaniem oceny miodu (Dz. U. Nr 17, poz. 94) w załączniku wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie metod analiz związanych z dokonywaniem oceny miodu Na podstawie art. 34 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 14 stycznia 2009 r. w sprawie metod analiz związanych z dokonywaniem oceny miodu (Dz. U. Nr 17, poz. 94) w załączniku wprowadza się następujące zmiany:
 1) w rozdziale II. Metoda analizy – w zakresie oznaczania zawartości substancji nierozpuszczalnych w wodzie zawartych w miodzie:
 a) w ust. 3 pkt 1 otrzymuje brzmienie: „1) wagi analitycznej umożliwiającej zważenie i odczyt z dokładnością do 0,0001 g;”,
 b) w ust. 4 pkt 1 i 2 otrzymują brzmienie: „1) w zlewce o pojemności 150 ml umieszcza się około 25 g miodu odważonego z dokładnością do 0,001 g i rozcieńcza w około 100 ml wody o temperaturze około 70 C;

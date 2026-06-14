@@ -8,10 +8,10 @@ pos: 1781
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Po zaznajomieniu się z powyższym układem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1781 Układ o stowarzyszeniu między Unią Europejską i Europejską Wspólnotą Energii atomowej oraz ich państwami członkowskimi, z jednej strony, a Ukrainą, z drugiej strony, sporządzony w Brukseli dnia 21 marca 2014 r. oraz dnia 27 czerwca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1781/text.pdf) |
 
-Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
-Dano w Warszawie dnia 2 marca 2015 r.
-Prezydent Rzeczypospolitej Polskiej: B. Komorowski L.S.
-Prezes Rady Ministrów: E. Kopacz
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 21 marca 2014 r. oraz dnia 27 czerwca 2014 r. w Brukseli został sporządzony Układ o stowarzyszeniu między Unią europejską i europejską Wspólnotą energii Atomowej oraz ich państwami członkowskimi, z jednej strony, a Ukrainą, z drugiej strony, w następującym brzmieniu: UkłAd o stoWARzyszeniU między Unią eURoPejską i eURoPejską WsPólnotą eneRgii AtomoWej oRAz ich PAństWAmi członkoWskimi, z jednej stRony, A UkRAiną, z dRUgiej stRony
 

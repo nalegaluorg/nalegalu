@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 12 października 1990 r. o ochronie granicy państwowej.*
 
 Łącznie: **12** orzeczeń
-(pominięto 24 orzeczeń sądów rejonowych)
+(pominięto 26 orzeczeń sądów rejonowych)
 
 ## art. 12 (2)
 

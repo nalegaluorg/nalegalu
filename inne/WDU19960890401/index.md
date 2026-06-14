@@ -8,7 +8,7 @@ pos: 401
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych
@@ -31,9 +31,28 @@ source: "isap-pdf"
 
 **Art. 1a.** Ustawa określa:
 
+- **1)** zasady sprawowania szczególnych form nadzoru przez ministra właściwego do spraw wewnętrznych nad Policją, Strażą Graniczną, Służbą Ochrony Państwa oraz Państwową Strażą Pożarną, zwanego dalej „nadzorem”;
+- **2)** zadania Inspektora Nadzoru Wewnętrznego;
+- **3)** organizację i tryb działania Biura Nadzoru Wewnętrznego, zwanego dalej „Biurem”.
+
 **Art. 1b.** Minister właściwy do spraw wewnętrznych sprawuje nadzór nad Policją, Strażą Graniczną, Służbą Ochrony Państwa oraz Państwową Strażą Pożarną w zakresie:
 
+- **1)** prawidłowości realizacji czynności operacyjno-rozpoznawczych,
+- **2)** prowadzonych czynności wyjaśniających i postępowań dyscyplinarnych,
+- **3)** rozpoznawania, zapobiegania i wykrywania popełnianych przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych w tych służbach umyślnych, ściganych z oskarżenia publicznego przestępstw oraz przestępstw skarbowych, a także realizacji zadań w tym zakresie przez Biuro Spraw Wewnętrznych Policji i Biuro Spraw Wewnętrznych Straży Granicznej,
+- **4)** weryfikowania kandydatów na określone stanowiska oraz osób zajmujących te stanowiska,
+- **5)** prawidłowości realizacji postępowań sprawdzających oraz kontrolnych postępowań sprawdzających przeprowadzanych przez Policję, Straż Graniczną i Służbę Ochrony Państwa oraz Państwową Straż Pożarną wobec własnych funkcjonariuszy, strażaków i pracowników w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948, z 2017 r. poz. 935 oraz z 2018 r. poz. 106) w zakresie, w jakim nie narusza to kompetencji Agencji Bezpieczeństwa Wewnętrznego,
+- **6)** realizacji obowiązku składania oświadczeń o stanie majątkowym przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej oraz pracowników zatrudnionych w tych służbach, a także ich analizy przez właściwych przełożonych w zakresie, w jakim nie narusza to kompetencji Centralnego Biura Antykorupcyjnego,
+- **7)** działania zgodnego z przepisami prawa oraz zasadami etyki funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej, w związku z koniecznością zapewnienia przestrzegania praw i wolności człowieka i obywatela,
+- **8)** przestrzegania zasad etyki zawodowej przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej,
+- **9)** gromadzenia i przetwarzania danych osobowych przez Policję, Straż Graniczną, Służbę Ochrony Państwa i Państwową Straż Pożarną,
+- **10)** zezwalania przez Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej i Komendanta Służby Ochrony Państwa na udzielenie wiadomości stanowiącej informację niejawną uprawnionym podmiotom – przy pomocy Inspektora Nadzoru Wewnętrznego, z zastrzeżeniem art. 1d.
+
 **Art. 1c.** W celu sprawowania nadzoru, o którym mowa w art. 1b, minister właściwy do spraw wewnętrznych jest uprawniony do:
+
+- **1)** weryfikacji funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych w tych służbach w zakresie określonym w art. 11a ust. 3 pkt 2;
+- **2)** zapoznawania się z wynikami i materiałami czynności operacyjno-rozpoznawczych prowadzonych w Policji, Straży Granicznej i Służbie Ochrony Państwa;
+- **3)** uzyskiwania informacji o wynikach i zapoznawania się z materiałami czynności wykonywanych przez Inspektora Nadzoru Wewnętrznego.
 
 **Art. 1d.** Przepisy niniejszej ustawy nie naruszają przepisów innych ustaw regulujących kwestie sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych nad Policją, Strażą Graniczną, Państwową Strażą Pożarną i Służbą Ochrony Państwa.
 
@@ -125,6 +144,15 @@ source: "isap-pdf"
 4. Regulamin organizacyjny Biura ustala, w drodze zarządzenia, minister właściwy do spraw wewnętrznych.
 
 **Art. 11c.** Inspektorem Nadzoru Wewnętrznego lub zastępcą Inspektora Nadzoru Wewnętrznego może być osoba, która:
+
+- **1)** posiada wyłącznie obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** jest nieskazitelnego charakteru;
+- **4)** ze względu na posiadane kwalifikacje i praktykę zawodową daje rękojmię należytego wykonywania zadań;
+- **5)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **6)** spełnia wymagania określone w przepisach o ochronie informacji niejawnych w zakresie dostępu do informacji niejawnych o klauzuli „ściśle tajne”;
+- **7)** posiada wyższe wykształcenie;
+- **8)** nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ani też nie była sędzią, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
 
 **Art. 11d.**
 

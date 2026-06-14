@@ -8,7 +8,7 @@ pos: 1335
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 79/8/A/2010 WYROK z dnia 20 października 2010 r.

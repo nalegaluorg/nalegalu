@@ -8,7 +8,7 @@ pos: 228
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 1/99 Trybunał Konstytucyjny w składzie: Lech Garlicki – przewodniczący Zdzisław Czeszejko-Sochacki Teresa Dębowska-Romanowska Stefan J. Jaworski Marian Zdyb – sprawozdawca Joanna Szymczak – protokolant po rozpoznaniu 13 marca 2000 r. na rozprawie sprawy z wniosku Rady Ogólnopolskiej Federacji Związków Zawodowych Pracowników Administracji z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego o stwierdzenie: niezgodności art. 58 ust. 1, 3 i 4 ustawy z dnia 13 października 1998 roku – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz.U. Nr 133, poz. 872 ze zm.), z art. 2, art. 12, art. 32 ust. 1 i 2, art. 65 ust. 5 i art. 78 Konstytucji Rzeczypospolitej Polskiej, oraz art. 11 Konwencji Nr 87 Międzynarodowej Organizacji Pracy dotyczącej wolności związkowej i ochrony praw związkowych przyjętej w San Francisco w dniu 9 lipca 1948 roku (Dz.U. z 1958 r. Nr 29, poz. 125) o r z e k a:

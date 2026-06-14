@@ -8,12 +8,10 @@ pos: 198
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o finansowym wspieraniu produkcji audiowizualnej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 stycznia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -42,15 +40,15 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 2) miesięczne dane o przychodach z tytułu wyświetlania filmów i reklam w kinie.
 2. Jeżeli podmiot prowadzi więcej niż jedno kino, przekazuje Instytutowi dane, o których mowa w ust. 1, odrębnie dla każdego kina.
 3. Dane, o których mowa w ust. 1:
-1) pkt 1, są przekazywane dwa razy w tygodniu: w pierwszym dniu, który nie jest dniem wolnym od pracy, następującym po każdej niedzieli za piątek, sobotę i niedzielę, oraz w dniu, który nie jest dniem wolnym od pracy, poprzedzającym każdą sobotę za poniedziałek, wtorek, środę i czwartek,
-2) pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
+1) pkt 1, są przekazywane dwa razy w tygodniu: w pierwszym dniu, który nie jest dniem wolnym od pracy, następującym po każdej niedzieli – za piątek, sobotę i niedzielę, oraz w dniu, który nie jest dniem wolnym od pracy, poprzedzającym każdą sobotę – za poniedziałek, wtorek, środę i czwartek,
+2) pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą – za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
 4. Minister określi, w drodze rozporządzenia:
 1) elektroniczny format przekazywania danych, o których mowa w ust. 1,
-2) wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
+2) wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania – uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
 
 **Art. 19b.**
 
-1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie podlega karze pieniężnej w wysokości od 1000 do 100 000 zł.
+1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie – podlega karze pieniężnej w wysokości od 1000 do 100 000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji Dyrektor.
 
@@ -60,7 +58,7 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 
 5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
 
-6. Do kar pieniężnych stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096).
+6. Do kar pieniężnych stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096).
 
 7. Wierzycielem należności z tytułu kar pieniężnych, o których mowa w ust. 1, w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji jest Instytut.
 
@@ -73,14 +71,14 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
     - **c)** art. 27 pkt 7 w zakresie zmienianego art. 406 § 5–7, który wchodzi w życie z dniem 3 września 2020 r.;
 
 - **2)** z tym że: Marszałek Sejmu: E. Witek USTAWA z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej
-    - **a)** art. 1 pkt 14 w zakresie dodawanego art. 15h ust. 1 pkt 1 z mocą od dnia 9 grudnia 2019 r.,
-    - **b)** art. 1 pkt 14 w zakresie dodawanego art. 15zb z mocą od dnia 7 lutego 2020 r.,
-    - **c)** art. 1 pkt 17 w zakresie dodawanego art. 31x z mocą od dnia 1 marca 2020 r.,
-    - **d)** art. 1 pkt 11, pkt 14 w zakresie dodawanych art. 15a–15d, art. 15h ust. 1 pkt 2, art. 15l i art. 15zc oraz pkt 17 w zakresie dodawanych art. 31e, art. 31f, art. 31j, art. 31m i art. 31zm z mocą od dnia 8 marca 2020 r.,
-    - **e)** art. 1 pkt 14 w zakresie dodawanego art. 15f z mocą od dnia 12 marca 2020 r.,
-    - **f)** art. 1 pkt 14 w zakresie dodawanego art. 15k z mocą od dnia 13 marca 2020 r.,
-    - **g)** art. 89 z mocą od dnia 15 marca 2020 r.,
-    - **h)** art. 1 pkt 3 lit. a–c oraz art. 66 z mocą od dnia 26 marca 2020 r.”.
+    - **a)** art. 1 pkt 14 w zakresie dodawanego art. 15h ust. 1 pkt 1 – z mocą od dnia 9 grudnia 2019 r.,
+    - **b)** art. 1 pkt 14 w zakresie dodawanego art. 15zb – z mocą od dnia 7 lutego 2020 r.,
+    - **c)** art. 1 pkt 17 w zakresie dodawanego art. 31x – z mocą od dnia 1 marca 2020 r.,
+    - **d)** art. 1 pkt 11, pkt 14 w zakresie dodawanych art. 15a–15d, art. 15h ust. 1 pkt 2, art. 15l i art. 15zc oraz pkt 17 w zakresie dodawanych art. 31e, art. 31f, art. 31j, art. 31m i art. 31zm – z mocą od dnia 8 marca 2020 r.,
+    - **e)** art. 1 pkt 14 w zakresie dodawanego art. 15f – z mocą od dnia 12 marca 2020 r.,
+    - **f)** art. 1 pkt 14 w zakresie dodawanego art. 15k – z mocą od dnia 13 marca 2020 r.,
+    - **g)** art. 89 – z mocą od dnia 15 marca 2020 r.,
+    - **h)** art. 1 pkt 3 lit. a–c oraz art. 66 – z mocą od dnia 26 marca 2020 r.”.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -108,11 +106,37 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** dostawca usługi medialnej – dostawcę usługi medialnej w rozumieniu art. 4 pkt 4 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805);
+- **2)** koproducent utworu audiowizualnego – przedsiębiorcę, który wspólnie z producentem utworu audiowizualnego organizuje, prowadzi i ponosi odpowiedzialność za produkcję audiowizualną lub który współfinansuje produkcję audiowizualną oraz nabywa udział w autorskich prawach majątkowych do utworu audiowizualnego;
+- **3)** polskie koszty kwalifikowalne – koszty realizacji produkcji audiowizualnej albo świadczenia usługi na rzecz produkcji audiowizualnej poniesione na terytorium Rzeczypospolitej Polskiej, jeżeli są objęte obowiązkiem podatkowym w rozumieniu przepisów podatkowych oraz mieszczą się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014;
+- **4)** producent utworu audiowizualnego – przedsiębiorcę, który podejmuje inicjatywę dotyczącą produkcji audiowizualnej, organizuje, prowadzi produkcję audiowizualną i ponosi odpowiedzialność za tę produkcję oraz nabywa autorskie prawa majątkowe do utworu audiowizualnego;
+- **5)** produkcja audiowizualna – zespół czynności twórczych, organizacyjnych, ekonomicznych, prawnych i technicznych prowadzących do wytworzenia utworu audiowizualnego;
+- **6)** przedsiębiorca – podmiot, o którym mowa w art. 1 załącznika I do rozporządzenia nr 651/2014;
+- **7)** usługa na rzecz produkcji audiowizualnej – usługę świadczoną przez przedsiębiorców w ramach wykonywanej działalności gospodarczej na rzecz producenta utworu audiowizualnego lub koproducenta utworu audiowizualnego dla celów produkcji audiowizualnej;
+- **8)** utwór audiowizualny – utwór złożony z serii następujących po sobie obrazów z dźwiękiem lub bez dźwięku utrwalonych na nośniku umożliwiającym wielokrotne odtwarzanie, wywołujących wrażenie ruchu i składających się na oryginalną całość wyrażającą akcję lub treść w indywidualnej formie, zrealizowany w formie filmu fabularnego, dokumentalnego lub animowanego albo serialu fabularnego, dokumentalnego lub animowanego, niezależnie od pola eksploatacji, o którym mowa w przepisach ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2019 r. poz. 1231 oraz z 2020 r. poz. 288);
+- **9)** wsparcie finansowe – środki finansowe przyznawane przez Polski Instytut Sztuki Filmowej przedsiębiorcy w formie dofinansowania na pokrycie części polskich kosztów kwalifikowalnych związanych z produkcją audiowizualną albo świadczeniem usługi na rzecz produkcji audiowizualnej.
+
 #### Rozdział 2 Zadania i przychody Polskiego Instytutu Sztuki Filmowej związane z przyznawaniem i rozliczaniem wsparcia finansowego
 
 **Art. 3.** Do zadań Polskiego Instytutu Sztuki Filmowej, zwanego dalej „Instytutem”, związanych ze wsparciem finansowym należy:
 
+- **1)** przyznawanie wsparcia finansowego;
+- **2)** rozliczanie środków przyznanych w ramach wsparcia finansowego;
+- **3)** prowadzenie kontroli, o której mowa w art. 28 ust. 1;
+- **4)** gromadzenie danych o rynku audiowizualnym, w tym danych finansowych, produkcyjnych oraz danych o dystrybucji krajowej i zagranicznej;
+- **5)** dokonywanie analizy oraz sporządzanie raportów dotyczących wpływu przyznanego wsparcia finansowego na rozwój rynku produkcji audiowizualnej i obszarów polskiej gospodarki związanych z ponoszonymi polskimi kosztami kwalifikowalnymi;
+- **6)** promocja polskiego rynku produkcji audiowizualnej związana ze stwarzaniem warunków dla zagranicznych produkcji audiowizualnych oraz inwestycji w rynek produkcji audiowizualnej na terytorium Rzeczypospolitej Polskiej oraz promocja Rzeczypospolitej Polskiej jako miejsca produkcji audiowizualnej;
+- **7)** prowadzenie rejestru wsparcia finansowego, zwanego dalej „rejestrem”.
+
 **Art. 4.** Do zadań Dyrektora Instytutu związanych ze wsparciem finansowym należy:
+
+- **1)** rozliczanie i zwrot dotacji celowych otrzymanych z budżetu państwa;
+- **2)** wydawanie certyfikatów kwalifikujących do uzyskania wsparcia finansowego;
+- **3)** zawieranie umów o wsparcie finansowe;
+- **4)** weryfikowanie rozliczeń polskich kosztów kwalifikowalnych;
+- **5)** wypłata wsparcia finansowego;
+- **6)** kierowanie działaniami związanymi z promocją polskiego rynku produkcji audiowizualnej oraz promocją Rzeczypospolitej Polskiej jako miejsca produkcji audiowizualnej;
+- **7)** stwarzanie warunków dla zagranicznych produkcji audiowizualnych i inwestycji na rynku produkcji audiowizualnej na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 5.**
 
@@ -171,7 +195,7 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 
 2. Wsparcie finansowe może być przyznane podmiotowi świadczącemu usługę na rzecz produkcji audiowizualnej wyłącznie w sytuacji, gdy producent utworu audiowizualnego ani żaden z koproducentów utworu audiowizualnego nie ma siedziby na terytorium Rzeczypospolitej Polskiej.
 
-3. Wsparcie finansowe może być przyznane także przedsiębiorcy będącemu producentem utworu audiowizualnego albo koproducentem utworu audiowizualnego, który ma siedzibę w innym państwie członkowskim Unii Europejskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, w przypadku gdy spełnia on łącznie następujące warunki:
+3. Wsparcie finansowe może być przyznane także przedsiębiorcy będącemu producentem utworu audiowizualnego albo koproducentem utworu audiowizualnego, który ma siedzibę w innym państwie członkowskim Unii Europejskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w przypadku gdy spełnia on łącznie następujące warunki:
 
 - **1)** posiada oddział na terytorium Rzeczypospolitej Polskiej;
 - **2)** przedmiotem wsparcia finansowego jest utwór audiowizualny produkowany przez ten oddział.
@@ -180,9 +204,31 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 
 **Art. 9.** Wsparcia finansowego nie przyznaje się przedsiębiorcy będącemu:
 
+- **1)** dostawcą usługi medialnej, chyba że ta działalność nie jest dla niego działalnością przeważającą, o której mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486);
+- **2)** podmiotem rozprowadzającym programy drogą kablową, satelitarną lub za pośrednictwem systemu teleinformatycznego;
+- **3)** podmiotem świadczącym usługi udostępniania zasobów systemu teleinformatycznego w celu przechowywania danych;
+- **4)** podmiotem, dla którego spółką dominującą w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320) jest podmiot wymieniony w pkt 1–3.
+
 **Art. 10.** Wsparcia finansowego nie przyznaje się także przedsiębiorcy, który:
 
+- **1)** ma zaległości z tytułu należności publicznoprawnych lub
+- **2)** pozostaje pod zarządem komisarycznym albo znajduje się w toku likwidacji, postępowania upadłościowego, postępowania restrukturyzacyjnego, lub
+- **3)** w okresie 3 lat przed złożeniem wniosku o wsparcie finansowe nie przedłożył raportu końcowego z prac objętych wsparciem finansowym, zwanego dalej „raportem”, lub
+- **4)** nie zwrócił przyznanej przez Rzeczpospolitą Polską pomocy publicznej uznanej na podstawie decyzji Komisji Europejskiej za niezgodną z prawem i z rynkiem wewnętrznym, lub
+- **5)** jest przedsiębiorcą znajdującym się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia nr 651/2014, lub
+- **6)** został skazany prawomocnym wyrokiem za przestępstwo: składania fałszywych zeznań, przekupstwa, przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, systemowi bankowemu, przestępstwo skarbowe albo inne związane z wykonywaniem działalności gospodarczej lub popełnione w celu osiągnięcia korzyści majątkowej lub którego wspólnikiem albo członkiem organu jest osoba fizyczna skazana prawomocnym wyrokiem za takie przestępstwa, lub
+- **7)** w okresie 3 lat przed złożeniem wniosku o wsparcie finansowe rażąco naruszył umowę o dofinansowanie, o której mowa w art. 23 ust. 3 ustawy z dnia 30 czerwca 2005 r. o kinematografii, w ten sposób, że nie rozliczył dofinansowania zgodnie z tą umową.
+
 **Art. 11.** Wsparcia finansowego nie przyznaje się na produkcję utworów audiowizualnych o charakterze reklamowym oraz:
+
+- **1)** powstałych w wyniku rejestracji:
+    - **a)** wykonań utworów słownych, słowno-muzycznych, muzycznych lub pantomimicznych,
+    - **b)** zdarzeń z życia politycznego, społecznego, kulturalnego, religijnego, gospodarczego lub sportowego,
+    - **c)** zdarzeń z życia prywatnego,
+    - **d)** treści pornograficznych;
+
+- **2)** sporządzanych na potrzeby nauki, nauczania, techniki, promocji, informacji lub instruktażu;
+- **3)** sporządzanych na użytek wewnętrzny kościołów i innych związków wyznaniowych.
 
 **Art. 12.** W ramach wsparcia finansowego przewidzianego na dany rok Instytut przyznaje co najmniej 10% wsparcia na produkcję filmów animowanych i seriali animowanych.
 
@@ -195,7 +241,7 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 - **1)** jest skierowany do widowni w wieku do 12 lat lub
 - **2)** w swoim założeniu promuje polskie dziedzictwo historyczne lub kulturowe na świecie i jednocześnie polskie koszty kwalifikowalne jego produkcji audiowizualnej przekraczają co najmniej dwukrotnie minimalne wartości polskich kosztów kwalifikowalnych uprawniających do wystąpienia z wnioskiem.
 
-3. Wysokość wsparcia finansowego wraz z innymi źródłami pomocy publicznej przyznanymi na produkcję utworu audiowizualnego nie może przekroczyć łącznie 60% całości kosztów produkcji audiowizualnej w przypadku koprodukcji międzynarodowej utworu audiowizualnego, w której jednym z państw pochodzenia producentów utworu audiowizualnego lub koproducentów utworu audiowizualnego jest Rzeczpospolita Polska, a pozostali producenci utworu audiowizualnego lub koproducenci utworu audiowizualnego pochodzą z innych państw członkowskich Unii Europejskiej lub z państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym. Limit ten nie dotyczy utworu trudnego, o którym mowa w ust. 2.
+3. Wysokość wsparcia finansowego wraz z innymi źródłami pomocy publicznej przyznanymi na produkcję utworu audiowizualnego nie może przekroczyć łącznie 60% całości kosztów produkcji audiowizualnej w przypadku koprodukcji międzynarodowej utworu audiowizualnego, w której jednym z państw pochodzenia producentów utworu audiowizualnego lub koproducentów utworu audiowizualnego jest Rzeczpospolita Polska, a pozostali producenci utworu audiowizualnego lub koproducenci utworu audiowizualnego pochodzą z innych państw członkowskich Unii Europejskiej lub z państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym. Limit ten nie dotyczy utworu trudnego, o którym mowa w ust. 2.
 
 4. Za koszty produkcji określone w ust. 1–3 uznaje się koszty mieszczące się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014.
 
@@ -301,7 +347,7 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 4. Wnioskodawca dołącza do wniosku:
 
 - **1)** kopię umowy koprodukcyjnej lub umowy o świadczeniu usług na rzecz produkcji audiowizualnej tłumaczone na język polski przez tłumacza przysięgłego;
-- **2)** zaświadczenie z urzędu skarbowego o niezaleganiu w podatkach i innych należnościach, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122, 2123 i 2320), wydane nie wcześniej niż na 30 dni przed złożeniem wniosku;
+- **2)** zaświadczenie z urzędu skarbowego o niezaleganiu w podatkach i innych należnościach, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122, 2123 i 2320), wydane nie wcześniej niż na 30 dni przed złożeniem wniosku;
 - **3)** zaświadczenie z Zakładu Ubezpieczeń Społecznych o niezaleganiu w opłacaniu składek na ubezpieczenia społeczne nie starsze niż 30 dni;
 - **4)** oświadczenie o niewystępowaniu okoliczności, o których mowa w art. 10;
 - **5)** informację dotyczącą doświadczenia pracowników lub współpracowników wnioskodawcy zaangażowanych w produkcję audiowizualną;
@@ -359,6 +405,14 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 3. Po odstąpieniu od umowy o wsparcie finansowe wnioskodawca może ponownie złożyć wniosek o wsparcie finansowe dotyczący tego samego utworu audiowizualnego tylko raz.
 
 **Art. 23.** Umowa o wsparcie finansowe zawiera w szczególności:
+
+- **1)** opis utworu audiowizualnego, którego dotyczy wsparcie finansowe;
+- **2)** wysokość wsparcia finansowego przyznanego dla danego utworu audiowizualnego;
+- **3)** terminy rozpoczęcia i zakończenia prac objętych wsparciem finansowym wraz z podaniem terminów poszczególnych ich etapów realizacji oraz terminy przedstawienia raportu;
+- **4)** określenie materiałów związanych z produkcją audiowizualną przekazywanych przez przedsiębiorcę, którego dotyczy wsparcie finansowe, do wykorzystania przez Instytut w ramach działań promocyjnych określonych w art. 3 pkt 6;
+- **5)** termin lub terminy wypłaty wsparcia finansowego;
+- **6)** wysokość kar umownych z tytułu nieterminowego przedstawienia przez wnioskodawcę raportu;
+- **7)** warunki rozwiązania umowy o wsparcie finansowe.
 
 **Art. 24.**
 
@@ -459,7 +513,7 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 - **10)** wzmiankę o zgłoszeniu zastrzeżeń do ustaleń zawartych w protokole kontroli oraz o stanowisku zajętym wobec nich przez osobę upoważnioną;
 - **11)** omówienie dokonanych w protokole kontroli poprawek, skreśleń i uzupełnień;
 - **12)** podpis osoby upoważnionej oraz wskazanie miejsca i datę podpisania protokołu kontroli;
-- **13)** podpis przedsiębiorcy oraz wskazanie miejsca i datę podpisania protokołu kontroli albo w przypadku odmowy podpisania protokołu kontroli wzmiankę o tym fakcie.
+- **13)** podpis przedsiębiorcy oraz wskazanie miejsca i datę podpisania protokołu kontroli albo w przypadku odmowy podpisania protokołu kontroli – wzmiankę o tym fakcie.
 
 2. Protokół kontroli podpisuje osoba upoważniona i przedsiębiorca.
 
@@ -492,7 +546,7 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy wykaz kosztów mogących stanowić polskie koszty kwalifikowalne oraz szczegółowy wykaz kosztów wyłączonych z kwalifikowania jako polskie koszty kwalifikowalne na podstawie art. 15 ust. 5;
-- **2)** minimalne planowane czasy trwania utworów audiowizualnych oraz minimalne wartości polskich kosztów kwalifikowalnych uprawniających do wnioskowania o wsparcie finansowe osobno dla poszczególnych rodzajów utworów audiowizualnych;
+- **2)** minimalne planowane czasy trwania utworów audiowizualnych oraz minimalne wartości polskich kosztów kwalifikowalnych uprawniających do wnioskowania o wsparcie finansowe – osobno dla poszczególnych rodzajów utworów audiowizualnych;
 - **3)** wzór wniosku o wydanie certyfikatu;
 - **4)** wzór wniosku o wsparcie finansowe;
 - **5)** wzór testu kwalifikacyjnego wraz ze szczegółowymi kryteriami testu kwalifikacyjnego i odpowiadającą im punktacją;
@@ -516,16 +570,16 @@ b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie 
 
 1. W latach 2019–2027 minimalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi 100 000 tys. zł rocznie, natomiast w latach 2018–2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi w:
 
-- **1)** 2018 r. 50 000 tys. zł;
-- **2)** 2019 r. 210 738 tys. zł;
-- **3)** 2020 r. 216 006 tys. zł;
-- **4)** 2021 r. 221 406 tys. zł;
-- **5)** 2022 r. 226 940 tys. zł;
-- **6)** 2023 r. 232 614 tys. zł;
-- **7)** 2024 r. 238 430 tys. zł;
-- **8)** 2025 r. 244 390 tys. zł;
-- **9)** 2026 r. 250 500 tys. zł;
-- **10)** 2027 r. 265 762 tys. zł.
+- **1)** 2018 r. – 50 000 tys. zł;
+- **2)** 2019 r. – 210 738 tys. zł;
+- **3)** 2020 r. – 216 006 tys. zł;
+- **4)** 2021 r. – 221 406 tys. zł;
+- **5)** 2022 r. – 226 940 tys. zł;
+- **6)** 2023 r. – 232 614 tys. zł;
+- **7)** 2024 r. – 238 430 tys. zł;
+- **8)** 2025 r. – 244 390 tys. zł;
+- **9)** 2026 r. – 250 500 tys. zł;
+- **10)** 2027 r. – 265 762 tys. zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z kosztami funkcjonowania Instytutu.
 

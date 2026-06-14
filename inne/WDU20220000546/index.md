@@ -8,12 +8,10 @@ pos: 546
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 stycznia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -43,6 +41,12 @@ Art. 66–74. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** zamkniętego użycia mikroorganizmów genetycznie zmodyfikowanych;
+- **2)** zamkniętego użycia organizmów genetycznie zmodyfikowanych;
+- **3)** zamierzonego uwalniania organizmów genetycznie zmodyfikowanych do środowiska;
+- **4)** wprowadzania do obrotu produktów genetycznie zmodyfikowanych;
+- **5)** prowadzenia upraw roślin genetycznie zmodyfikowanych.
+
 **Art. 2.**
 
 1. Ustawy nie stosuje się do modyfikacji genetycznych organizmu ludzkiego, w tym także w prenatalnej fazie jego rozwoju.
@@ -52,6 +56,43 @@ Art. 66–74. (pominięte)
 3. Do transportu mikroorganizmów genetycznie zmodyfikowanych stosuje się odpowiednio rozdziały 1–2a, z wyłączeniem przepisów art. 6 ust. 7–9, art. 6a, art. 6b, art. 12, art. 13, art. 15a–15n, art. 15r, art. 15s i art. 15v.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** awarii – rozumie się przez to każde niezamierzone uwolnienie mikroorganizmu genetycznie zmodyfikowanego do środowiska podczas jego zamkniętego użycia, które może stanowić natychmiastowe albo opóźnione zagrożenie dla zdrowia ludzi lub dla środowiska;
+- **1a)** bezpieczeństwie środowiska – rozumie się przez to brak wpływu na obniżenie występowania ilościowego osobników gatunków pasożytniczych i drapieżnych mogących przyczynić się do regulacji występowania ilościowego organizmów szkodliwych dla produkcji roślinnej i zwierzęcej w warunkach naturalnych, w tym zwłaszcza gatunków określonych w przepisach wydanych na podstawie art. 48 i art. 49 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098 i 1718 oraz z 2022 r. poz. 84);
+- **2)** biorcy – rozumie się przez to mikroorganizm lub organizm, do którego wprowadza się kwas nukleinowy;
+- **3)** dawcy – rozumie się przez to mikroorganizm lub organizm, z którego pobiera się kwas nukleinowy;
+- **4)** fuzji protoplastów – rozumie się przez to proces prowadzący do połączenia się co najmniej dwóch protoplastów w jeden protoplast mieszańcowy;
+- **5)** hodowli komórkowej – rozumie się przez to hodowlę in vitro komórek pochodzących z organizmów wielokomórkowych;
+- **6)** insercie – rozumie się przez to fragment kwasu nukleinowego włączony do genomu biorcy, odpowiedzialny za modyfikację genetyczną;
+- **7)** koniugacji, transformacji lub transdukcji – rozumie się przez to naturalne procesy przenoszenia kwasu nukleinowego w bakteriach;
+- **8)** mikroiniekcji, makroiniekcji lub mikrokapsułkowaniu – rozumie się przez to metody przenoszenia kwasu nukleinowego z jednego mikroorganizmu lub organizmu do drugiego mikroorganizmu lub organizmu w celu uzyskania modyfikacji genetycznych;
+- **9)** mikroorganizmie – rozumie się przez to każdą jednostkę mikrobiologiczną, komórkową lub niekomórkową, w tym wirusy i wiroidy, zdolną do replikacji lub przenoszenia materiału genetycznego, łącznie z hodowlami komórek zwierzęcych i roślinnych;
+- **10)** mikroorganizmie genetycznie zmodyfikowanym (GMM) – rozumie się przez to mikroorganizm, w którym materiał genetyczny został zmieniony w sposób niezachodzący w warunkach naturalnych wskutek krzyżowania lub naturalnej rekombinacji, w szczególności przy zastosowaniu technik:
+    - **a)** rekombinacji kwasów nukleinowych obejmujących formowanie nowych kombinacji materiału genetycznego przez włączenie cząsteczek kwasu nukleinowego otrzymanego w dowolny sposób poza mikroorganizmem do wirusa, plazmidu bakterii lub wektora oraz ich przenoszenie do biorcy, w którym nie występują w warunkach naturalnych, ale w którym są zdolne do ciągłego powielania,
+    - **b)** bezpośredniego włączenia materiału genetycznego przygotowanego poza mikroorganizmem, w tym mikroiniekcji, makroiniekcji lub mikrokapsułkowania,
+    - **c)** łączenia komórek lub technik hybrydyzacji, w wyniku których drogą fuzji dwóch lub większej liczby komórek tworzy się żywe komórki o nowej kombinacji dziedzicznego materiału genetycznego;
+
+- **11)** mutagenezie – rozumie się przez to indukowanie skokowych zmian dziedzicznych (mutacji), w szczególności przy użyciu promieniowania jonizującego albo substancji chemicznych;
+- **12)** organizmie – rozumie się przez to każdą jednostkę biologiczną, komórkową lub niekomórkową, zdolną do replikacji lub przenoszenia materiału genetycznego;
+- **13)** organizmie genetycznie zmodyfikowanym (GMO) – rozumie się przez to organizm inny niż ludzki, w którym materiał genetyczny został zmieniony w sposób niezachodzący w warunkach naturalnych wskutek krzyżowania lub naturalnej rekombinacji, w szczególności przy zastosowaniu technik:
+    - **a)** rekombinacji kwasów nukleinowych obejmujących formowanie nowych kombinacji materiału genetycznego przez włączenie cząsteczek kwasu nukleinowego otrzymanego w dowolny sposób poza organizmem do wirusa, plazmidu bakterii lub wektora oraz ich przenoszenie do biorcy, w którym nie występują w warunkach naturalnych, ale w którym są zdolne do ciągłego powielania,
+    - **b)** bezpośredniego włączenia materiału dziedzicznego przygotowanego poza organizmem, w tym mikroiniekcji, makroiniekcji lub mikrokapsułkowania,
+    - **c)** łączenia komórek, w tym fuzji protoplastów, lub technik hybrydyzacji, w wyniku których drogą fuzji dwóch lub większej liczby komórek tworzy się żywe komórki o nowej kombinacji dziedzicznego materiału genetycznego;
+
+- **14)** państwach członkowskich – rozumie się przez to państwa członkowskie Unii Europejskiej oraz państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **15)** poliploidyzacji – rozumie się przez to metodę hodowlaną polegającą na sztucznym wytwarzaniu organizmów o zwiększonej liczbie chromosomów;
+- **16)** produkcie genetycznie zmodyfikowanym (produkcie GMO) – rozumie się przez to GMO lub każdy wyrób składający się z GMO lub zawierający GMO, który jest wprowadzany do obrotu;
+- **16a)** roślinie GMO – rozumie się przez to GMO będące rośliną charakteryzującą się wyrównaną, powtarzalną i specyficzną cechą modyfikacji genetycznej;
+- **16b)** uprawie GMO – rozumie się przez to uprawę rośliny GMO o cyklu rozwojowym mieszczącym się w jednym cyklu produkcyjnym prowadzoną w sposób zamierzony, w siewie czystym lub w mieszaninie, powiązaną z produkcyjną funkcją gruntu, plonującą w wyniku zastosowania zabiegów agrotechnicznych;
+- **17)** wektorze – rozumie się przez to cząsteczkę kwasu nukleinowego pozwalającą na wprowadzenie i stabilne utrzymanie cząsteczek kwasu nukleinowego w biorcy;
+- **18)** wprowadzeniu do obrotu – rozumie się przez to udostępnienie osobom trzecim, odpłatnie lub nieodpłatnie, produktu GMO; nie jest wprowadzeniem do obrotu udostępnienie osobom trzecim:
+    - **a)** GMM w celu wykorzystania w zamkniętym użyciu GMM,
+    - **b)** produktu GMO w celu wykorzystania w zamkniętym użyciu GMO lub do zamierzonego uwolnienia GMO do środowiska;
+
+- **19)** zakładzie inżynierii genetycznej – rozumie się przez to pomieszczenia, budynki, laboratoria lub ich zespoły, przystosowane i przeznaczone do dokonywania zamkniętego użycia GMM lub zamkniętego użycia GMO;
+- **20)** zamierzonym uwolnieniu GMO do środowiska – rozumie się przez to każde planowane wprowadzenie do środowiska GMO bez zabezpieczeń mających na celu ograniczenie kontaktu GMO z ludźmi lub środowiskiem oraz zapewniających wysoki poziom ich ochrony;
+- **21)** zamkniętym użyciu GMM – rozumie się przez to poddawanie mikroorganizmów modyfikacji genetycznej lub prowadzenie hodowli komórkowej GMM, ich magazynowanie, transport w obrębie zakładu inżynierii genetycznej, niszczenie, usuwanie lub wykorzystywanie w jakikolwiek inny sposób, podczas których są stosowane zabezpieczenia w celu skutecznego ograniczenia kontaktu GMM z ludźmi lub środowiskiem oraz zapewnienia wysokiego poziomu ich ochrony;
+- **22)** zamkniętym użyciu GMO – rozumie się przez to poddawanie organizmów modyfikacji genetycznej lub hodowanie kultur GMO, ich magazynowanie, transport w obrębie zakładu inżynierii genetycznej, niszczenie, usuwanie lub wykorzystywanie w jakikolwiek inny sposób, podczas których są stosowane zabezpieczenia w celu skutecznego ograniczenia kontaktu GMO z ludźmi lub środowiskiem oraz zapewnienia wysokiego poziomu ich ochrony.
 
 **Art. 4.**
 
@@ -71,7 +112,7 @@ Art. 66–74. (pominięte)
     - **a)** mutageneza,
     - **b)** fuzja komórek, w tym fuzja protoplastów komórek prokariotycznych, które są zdolne do wymiany materiału genetycznego w znanych procesach fizjologicznych,
     - **c)** fuzja komórek, w tym fuzja protoplastów komórek gatunków eukariotycznych oraz wytwarzanie hybryd i łączenie komórek roślinnych,
-    - **d)** autoklonowanie polegające na usunięciu sekwencji kwasu nukleinowego z komórki mikroorganizmu lub organizmu, po uprzednim podjęciu lub bez uprzedniego podjęcia czynności z zastosowaniem enzymów lub czynności mechanicznych, po czym może nastąpić ponowna insercja całego albo części tego kwasu lub jego równoważnika syntetycznego do komórek tego samego gatunku lub komórek blisko spokrewnionych filogenetycznie gatunków, które mogą wymieniać się materiałem genetycznym w drodze naturalnych procesów fizjologicznych w przypadku gdy zachodzi małe prawdopodobieństwo powstania w wyniku tych czynności mikroorganizmów lub organizmów wywołujących choroby u ludzi, zwierząt lub roślin;
+    - **d)** autoklonowanie polegające na usunięciu sekwencji kwasu nukleinowego z komórki mikroorganizmu lub organizmu, po uprzednim podjęciu lub bez uprzedniego podjęcia czynności z zastosowaniem enzymów lub czynności mechanicznych, po czym może nastąpić ponowna insercja całego albo części tego kwasu lub jego równoważnika syntetycznego do komórek tego samego gatunku lub komórek blisko spokrewnionych filogenetycznie gatunków, które mogą wymieniać się materiałem genetycznym w drodze naturalnych procesów fizjologicznych – w przypadku gdy zachodzi małe prawdopodobieństwo powstania w wyniku tych czynności mikroorganizmów lub organizmów wywołujących choroby u ludzi, zwierząt lub roślin;
 
 - **2)** organizmów, jeżeli wykorzystuje się w nich cząsteczki rekombinowanego kwasu nukleinowego lub GMO otrzymanych przy zastosowaniu metod innych niż mutageneza lub fuzja komórek, w tym fuzja protoplastów komórek roślinnych, które są zdolne do wymiany materiału genetycznego w drodze tradycyjnej hodowli.
 
@@ -81,7 +122,7 @@ Art. 66–74. (pominięte)
 
 2. Za wydanie zgód i zezwoleń, o których mowa w rozdziałach 2–5, pobiera się opłatę skarbową.
 
-3. Z opłaty skarbowej zwalniane jest wydanie zgód, o których mowa w rozdziałach 2, 2a, 3 i 4, dla podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619, 1630, 2141 i 2232).
+3. Z opłaty skarbowej zwalniane jest wydanie zgód, o których mowa w rozdziałach 2, 2a, 3 i 4, dla podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619, 1630, 2141 i 2232).
 
 **Art. 6.**
 
@@ -121,7 +162,7 @@ Art. 66–74. (pominięte)
 
 - **1)** sposób przeprowadzania oceny zagrożenia,
 - **2)** szczegółowe wytyczne, metodologię oraz tryb przeprowadzania oceny zagrożenia,
-- **3)** informacje wymagane w przypadku oceny zagrożenia GMO innych niż rośliny GMO oraz roślin GMO w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu.
+- **3)** informacje wymagane w przypadku oceny zagrożenia GMO innych niż rośliny GMO oraz roślin GMO – w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu.
 
 5b. Wydając rozporządzenie, o którym mowa w ust. 5a, minister właściwy do spraw środowiska uwzględni stopień zagrożenia stwarzanego przez GMO dla zdrowia ludzi i dla środowiska.
 
@@ -129,8 +170,8 @@ Art. 66–74. (pominięte)
 
 7. Ocena zagrożenia oraz środki bezpieczeństwa podlegają aktualizacji:
 
-- **1)** co najmniej raz na 5 lat dla GMM zaliczonych do kategorii I i II oraz co najmniej raz na 2 lata dla GMM zaliczonych do kategorii III i IV z uwzględnieniem postępu techniki i rozwoju wiedzy;
-- **2)** niezwłocznie w sytuacji gdy:
+- **1)** co najmniej raz na 5 lat dla GMM zaliczonych do kategorii I i II oraz co najmniej raz na 2 lata dla GMM zaliczonych do kategorii III i IV – z uwzględnieniem postępu techniki i rozwoju wiedzy;
+- **2)** niezwłocznie – w sytuacji gdy:
     - **a)** zastosowane środki bezpieczeństwa nie są już wystarczające do uniknięcia zagrożenia,
     - **b)** istnieją przesłanki do zaliczenia danego działania zamkniętego użycia GMM lub zamkniętego użycia GMO do wyższej kategorii zagrożenia,
     - **c)** w świetle aktualnego stanu wiedzy i techniki istnieją podstawy do stwierdzenia, że ocena zagrożenia przestała być odpowiednia.
@@ -155,7 +196,7 @@ Art. 66–74. (pominięte)
 
 - **1)** we wnioskach o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO,
 - **2)** w zezwoleniach na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO,
-- **3)** w decyzjach o cofnięciu zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO, i w decyzjach zmieniających te zezwolenia oraz ich aktualizacje.
+- **3)** w decyzjach o cofnięciu zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO, i w decyzjach zmieniających te zezwolenia – oraz ich aktualizacje.
 
 4. Minister właściwy do spraw środowiska udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej Rejestr Zakładów Inżynierii Genetycznej.
 
@@ -170,6 +211,9 @@ Art. 66–74. (pominięte)
 #### Rozdział 2 Organ administracji rządowej właściwy w sprawach GMM i GMO
 
 **Art. 9.** Minister właściwy do spraw środowiska jest właściwy w sprawach, o których mowa w rozporządzeniu (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650), zwanym dalej „rozporządzeniem nr 1946/2003”, z wyłączeniem spraw, w których jest właściwy:
+
+- **1)** Główny Inspektor Sanitarny – na podstawie art. 93 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2020 r. poz. 2021 oraz z 2022 r. poz. 24 i 138);
+- **2)** Główny Lekarz Weterynarii – na podstawie art. 9 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. z 2021 r. poz. 278).
 
 **Art. 10.**
 
@@ -206,8 +250,8 @@ Art. 66–74. (pominięte)
 
 1. Kontrola przestrzegania przepisów ustawy jest przeprowadzana przez:
 
-- **1)** ministra właściwego do spraw środowiska w zakresie zamierzonego uwolnienia GMO do środowiska;
-- **2)** podmioty określone w ustawie lub w odrębnych przepisach na zasadach i w zakresie określonych w tych przepisach.
+- **1)** ministra właściwego do spraw środowiska – w zakresie zamierzonego uwolnienia GMO do środowiska;
+- **2)** podmioty określone w ustawie lub w odrębnych przepisach – na zasadach i w zakresie określonych w tych przepisach.
 
 2. W przypadku kontroli, o której mowa w ust. 1 pkt 1, osoby przeprowadzające kontrolę są uprawnione do:
 
@@ -217,7 +261,7 @@ Art. 66–74. (pominięte)
 
 3. Kontrolę, o której mowa w ust. 1 pkt 1, przeprowadza się na podstawie pisemnego upoważnienia wydanego przez ministra właściwego do spraw środowiska.
 
-4. Czynności kontrolnych przeprowadzanych w ramach kontroli, o której mowa w ust. 1 pkt 1, dokonuje się w obecności podmiotu kontrolowanego lub osoby przez niego upoważnionej, a w przypadku ich nieobecności w obecności przywołanego świadka.
+4. Czynności kontrolnych przeprowadzanych w ramach kontroli, o której mowa w ust. 1 pkt 1, dokonuje się w obecności podmiotu kontrolowanego lub osoby przez niego upoważnionej, a w przypadku ich nieobecności – w obecności przywołanego świadka.
 
 5. W przypadku gdy podmiot przeprowadzający kontrolę, o której mowa w ust. 1, stwierdzi występowanie zagrożeń związanych z GMM lub GMO lub rażących nieprawidłowości podczas wykorzystywania GMM lub GMO, niezwłocznie powiadamia ministra właściwego do spraw środowiska o tych zagrożeniach i nieprawidłowościach, a także o czynnościach podjętych wobec podmiotu kontrolowanego w związku z tymi zagrożeniami lub nieprawidłowościami.
 
@@ -252,9 +296,9 @@ Art. 66–74. (pominięte)
 
 5a. Członkom Komisji, o których mowa w ust. 2, przysługuje wynagrodzenie za udział w posiedzeniu w wysokości:
 
-- **1)** przewodniczącemu Komisji 35%,
-- **2)** zastępcom przewodniczącego i sekretarzowi Komisji 32%,
-- **3)** pozostałym członkom Komisji 22% kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
+- **1)** przewodniczącemu Komisji – 35%,
+- **2)** zastępcom przewodniczącego i sekretarzowi Komisji – 32%,
+- **3)** pozostałym członkom Komisji – 22% – kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
 
 5b. Wynagrodzenie, o którym mowa w ust. 5a, nie przysługuje członkom Komisji będącym pracownikami administracji rządowej, jeżeli uczestniczą w posiedzeniach, które odbywają się w godzinach pracy.
 
@@ -266,7 +310,7 @@ Art. 66–74. (pominięte)
 
 5f. Łączna roczna wysokość wydatków na recenzje, o których mowa w ust. 5d, nie może przekroczyć 130-krotności kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
 
-6. Członkom Komisji, o których mowa w ust. 2, biorącym udział w posiedzeniach odbywających się poza miejscowością ich zamieszkania, przysługują diety i zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162).
+6. Członkom Komisji, o których mowa w ust. 2, biorącym udział w posiedzeniach odbywających się poza miejscowością ich zamieszkania, przysługują diety i zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162).
 
 7. Wydatki związane z działalnością Komisji pokrywane są z budżetu państwa z części, której dysponentem jest minister właściwy do spraw środowiska.
 
@@ -290,7 +334,7 @@ Art. 66–74. (pominięte)
 2. Wyłączeniu z udostępnienia nie podlegają następujące informacje dotyczące GMM lub GMO:
 
 - **1)** ogólna charakterystyka GMM lub GMO;
-- **2)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba zgłaszającego lub wnioskodawcy, a w przypadku gdy zgłaszającym lub wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **2)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwa oraz adres i siedziba zgłaszającego lub wnioskodawcy, a w przypadku gdy zgłaszającym lub wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **3)** o miejscu i celu zamierzonego uwolnienia GMO do środowiska;
 - **4)** adres zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub zamknięte użycie GMO;
 - **5)** o metodach uwalniania GMO do środowiska lub wprowadzania do obrotu oraz o planach monitorowania GMO i reagowania na zagrożenie powodowane przez zamierzone uwolnienie GMO do środowiska i wprowadzenie do obrotu;
@@ -309,8 +353,8 @@ Art. 66–74. (pominięte)
 
 7. Minister właściwy do spraw środowiska nie udostępnia informacji:
 
-- **1)** otrzymanych od Komisji Europejskiej lub właściwych organów państw członkowskich innych niż Rzeczpospolita Polska które zostały wyłączone z udostępnienia;
-- **2)** zawartych w zgłoszeniu lub wniosku wskazanych jako informacje, które powinny zostać wyłączone z udostępnienia w przypadku wycofania zgłoszenia lub wniosku.
+- **1)** otrzymanych od Komisji Europejskiej lub właściwych organów państw członkowskich innych niż Rzeczpospolita Polska – które zostały wyłączone z udostępnienia;
+- **2)** zawartych w zgłoszeniu lub wniosku wskazanych jako informacje, które powinny zostać wyłączone z udostępnienia – w przypadku wycofania zgłoszenia lub wniosku.
 
 **Art. 14b.**
 
@@ -323,6 +367,9 @@ Art. 66–74. (pominięte)
 - **3)** kopię decyzji w sprawie zgody na zamknięte użycie GMM.
 
 **Art. 14c.** Minister właściwy do spraw środowiska przekazuje Komisji Europejskiej, co 3 lata:
+
+- **1)** skrócone sprawozdanie z doświadczeń związanych ze stosowaniem przepisów ustawy w zakresie zamkniętego użycia GMM;
+- **2)** sprawozdanie z działań związanych ze stosowaniem przepisów ustawy w zakresie zamierzonego uwolnienia GMO do środowiska i wprowadzenia do obrotu.
 
 **Art. 15.** (uchylony)
 
@@ -338,7 +385,7 @@ Art. 66–74. (pominięte)
 
 1. Wniosek o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub GMO, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** adres zakładu inżynierii genetycznej;
 - **3)** imię i nazwisko osoby, która będzie kierować zakładem inżynierii genetycznej, oraz informacje o jej kwalifikacjach zawodowych;
 - **4)** imię i nazwisko osoby, która będzie odpowiedzialna za bezpieczeństwo zamkniętego użycia GMM lub GMO, oraz informacje o jej kwalifikacjach zawodowych;
@@ -354,8 +401,8 @@ Art. 66–74. (pominięte)
 
 1. Minister właściwy do spraw środowiska wydaje zezwolenie na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub GMO, po uzyskaniu opinii właściwych ze względu na położenie tego zakładu:
 
-- **1)** państwowego wojewódzkiego inspektora sanitarnego w zakresie warunków higieny pracy;
-- **2)** okręgowego inspektora pracy w zakresie spełniania wymagań bezpieczeństwa i higieny pracy przez obiekty, pomieszczenia, stanowiska i procesy pracy.
+- **1)** państwowego wojewódzkiego inspektora sanitarnego – w zakresie warunków higieny pracy;
+- **2)** okręgowego inspektora pracy – w zakresie spełniania wymagań bezpieczeństwa i higieny pracy przez obiekty, pomieszczenia, stanowiska i procesy pracy.
 
 2. Minister właściwy do spraw środowiska występuje o opinię w terminie 5 dni od dnia otrzymania wniosku o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM lub GMO, przedkładając kopię wniosku.
 
@@ -367,10 +414,10 @@ Art. 66–74. (pominięte)
 
 1. W zależności od stopnia zagrożenia dla zdrowia ludzi i dla środowiska wyróżnia się cztery kategorie zamkniętego użycia GMM:
 
-- **1)** kategoria I działania niepowodujące zagrożeń lub powodujące znikome zagrożenia;
-- **2)** kategoria II działania powodujące niewielkie zagrożenia;
-- **3)** kategoria III działania powodujące umiarkowane zagrożenia;
-- **4)** kategoria IV działania powodujące duże zagrożenia.
+- **1)** kategoria I – działania niepowodujące zagrożeń lub powodujące znikome zagrożenia;
+- **2)** kategoria II – działania powodujące niewielkie zagrożenia;
+- **3)** kategoria III – działania powodujące umiarkowane zagrożenia;
+- **4)** kategoria IV – działania powodujące duże zagrożenia.
 
 2. Zaliczenia zamkniętego użycia GMM do jednej z kategorii dokonuje zgłaszający lub wnioskodawca na podstawie oceny zagrożenia, z tym że do:
 
@@ -404,14 +451,17 @@ Art. 66–74. (pominięte)
 
 **Art. 15e.** Prowadzenie zamkniętego użycia GMM zaliczonych do:
 
+- **1)** I kategorii – wymaga zgłoszenia ministrowi właściwemu do spraw środowiska;
+- **2)** II, III i IV kategorii – wymaga uzyskania zgody ministra właściwego do spraw środowiska.
+
 **Art. 15f.**
 
 1. Zgłoszenie zamkniętego użycia GMM zaliczonych do I kategorii zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zgłaszającego, a w przypadku gdy zgłaszającym jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zgłaszającego, a w przypadku gdy zgłaszającym jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** opis prac z wykorzystaniem GMM, z uwzględnieniem:
     - **a)** celu tych prac oraz okresu ich prowadzenia,
-    - **b)** charakterystyki typu GMM, w tym: wykorzystywanych dawcy i biorcy oraz stosowanego wektora, źródła i funkcji kwasu nukleinowego używanego do modyfikacji genetycznej, cech identyfikujących GMM;
+    - **b)** charakterystyki typu GMM, w tym: – wykorzystywanych dawcy i biorcy oraz stosowanego wektora, – źródła i funkcji kwasu nukleinowego używanego do modyfikacji genetycznej, – cech identyfikujących GMM;
 
 - **3)** dane o objętości kultur GMM wykorzystywanych podczas zamkniętego użycia GMM;
 - **4)** informacje o rodzaju i postaci odpadów powstających podczas zamkniętego użycia GMM oraz o sposobie postępowania z tymi odpadami, w tym miejscu ich przeznaczenia;
@@ -442,10 +492,10 @@ Art. 66–74. (pominięte)
 
 1. Wniosek o wydanie zgody na zamknięte użycie GMM zaliczonych do II kategorii zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** opis prac z wykorzystaniem GMM, z uwzględnieniem:
     - **a)** celu tych prac,
-    - **b)** charakterystyki typu GMM, w tym: wykorzystywanych dawcy i biorcy oraz stosowanego wektora, źródła i funkcji kwasu nukleinowego używanego do modyfikacji genetycznej, cech identyfikujących GMM;
+    - **b)** charakterystyki typu GMM, w tym: – wykorzystywanych dawcy i biorcy oraz stosowanego wektora, – źródła i funkcji kwasu nukleinowego używanego do modyfikacji genetycznej, – cech identyfikujących GMM;
 
 - **3)** dane o objętości kultur GMM wykorzystywanych podczas zamkniętego użycia GMM;
 - **4)** informacje o rodzaju i postaci odpadów powstających podczas zamkniętego użycia GMM oraz o sposobie postępowania z tymi odpadami, w tym miejscu ich przeznaczenia;
@@ -493,8 +543,8 @@ Art. 66–74. (pominięte)
 
 2. Zgodę na zamknięte użycie GMM zaliczonych do:
 
-- **1)** II kategorii wydaje się w terminie 45 dni od dnia złożenia wniosku o jej wydanie;
-- **2)** III lub IV kategorii wydaje się w terminie 90 dni od dnia złożenia wniosku o jej wydanie.
+- **1)** II kategorii – wydaje się w terminie 45 dni od dnia złożenia wniosku o jej wydanie;
+- **2)** III lub IV kategorii – wydaje się w terminie 90 dni od dnia złożenia wniosku o jej wydanie.
 
 3. W przypadku gdy zamknięte użycie GMM zaliczonych do III lub IV kategorii było już objęte zgodą na zamknięte użycie GMM, termin, o którym mowa w ust. 2 pkt 2, wynosi 45 dni.
 
@@ -527,11 +577,11 @@ Art. 66–74. (pominięte)
 
 - **1)** cofa zezwolenie na prowadzenie zakładu inżynierii genetycznej, w którym jest lub ma być prowadzone zamknięte użycie GMM, gdy stwierdził, że przestały być spełnione warunki w zakresie bezpieczeństwa niezbędne do prowadzenia tego zakładu;
 - **2)** cofa zgodę na zamknięte użycie GMM, jeżeli:
-    - **a)** na podstawie przeprowadzonej kontroli stwierdził, że: dokonujący zamkniętego użycia GMM narusza warunki w zakresie bezpieczeństwa określone w zgodzie albo nie doprowadził stanu faktycznego do stanu określonego w zgodzie w terminie wyznaczonym przez podmiot przeprowadzający kontrolę, zastosowane środki bezpieczeństwa nie stanowią wystarczającej gwarancji uniknięcia poważnych lub niemożliwych do naprawienia skutków awarii,
+    - **a)** na podstawie przeprowadzonej kontroli stwierdził, że: – dokonujący zamkniętego użycia GMM narusza warunki w zakresie bezpieczeństwa określone w zgodzie albo nie doprowadził stanu faktycznego do stanu określonego w zgodzie w terminie wyznaczonym przez podmiot przeprowadzający kontrolę, – zastosowane środki bezpieczeństwa nie stanowią wystarczającej gwarancji uniknięcia poważnych lub niemożliwych do naprawienia skutków awarii,
     - **b)** zamknięte użycie GMM przestało spełniać warunki w zakresie bezpieczeństwa wymagane do prowadzenia danego rodzaju działalności;
 
 - **3)** nakazuje zaprzestanie prowadzenia działań zamkniętego użycia GMM albo zawieszenie ich prowadzenia do czasu usunięcia wskazanych uchybień, jeżeli:
-    - **a)** na podstawie przeprowadzonej kontroli, o której mowa w art. 11 ust. 1, stwierdził, że dokonujący zamkniętego użycia GMM: zaliczonych do I kategorii, narusza warunki zgłoszenia, o którym mowa w art. 15f ust. 1, zaliczonych do II kategorii, narusza warunki określone we wniosku, o którym mowa w art. 15g,
+    - **a)** na podstawie przeprowadzonej kontroli, o której mowa w art. 11 ust. 1, stwierdził, że dokonujący zamkniętego użycia GMM: – zaliczonych do I kategorii, narusza warunki zgłoszenia, o którym mowa w art. 15f ust. 1, – zaliczonych do II kategorii, narusza warunki określone we wniosku, o którym mowa w art. 15g,
     - **b)** uzyskał istotną informację dotyczącą oceny ryzyka zamkniętego użycia GMM;
 
 - **4)** cofa zgodę na zamknięte użycie GMM zaliczonych do III lub IV kategorii także w przypadku:
@@ -544,6 +594,10 @@ Art. 66–74. (pominięte)
 
 **Art. 15n.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki, ministrem właściwym do spraw rolnictwa oraz ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, wzór:
 
+- **1)** wniosku o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM,
+- **2)** zgłoszenia prowadzenia zamkniętego użycia GMM zaliczonych do I lub II kategorii,
+- **3)** wniosku o wydanie zgody na zamknięte użycie GMM zaliczonych do II, III i IV kategorii – mając na względzie ujednolicenie formy składanych zgłoszeń oraz wniosków.
+
 **Art. 15o.**
 
 1. Przed wniesieniem wniosku o wydanie zgody na zamknięte użycie GMM zaliczonych do III lub IV kategorii, podmiot, który zamierza prowadzić takie działania, przygotowuje plan postępowania na wypadek awarii.
@@ -552,7 +606,7 @@ Art. 66–74. (pominięte)
 
 3. Projekt planu postępowania na wypadek awarii zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu, który zamierza prowadzić zamknięte użycie GMM zaliczonych do III lub IV kategorii, a w przypadku gdy podmiot ten jest osobą fizyczną prowadzącą działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu, który zamierza prowadzić zamknięte użycie GMM zaliczonych do III lub IV kategorii, a w przypadku gdy podmiot ten jest osobą fizyczną prowadzącą działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** wskazanie zagrożenia, jakie z położenia zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMM zaliczonych do III lub IV kategorii, wynika dla zdrowia ludzi lub dla środowiska;
 - **3)** wskazanie rodzajów środków bezpieczeństwa, w tym środków alarmowych, oraz procedur i planów mających na celu sprawdzanie ich skuteczności.
 
@@ -584,8 +638,8 @@ Art. 66–74. (pominięte)
 
 - **1)** zapoznaje z planem postępowania na wypadek awarii i z jego aktualizacją osoby narażone na bezpośrednie zagrożenie spowodowane niekontrolowanym rozprzestrzenianiem się GMM, w tym podaje treść tego planu do wiadomości w środkach masowego przekazu o zasięgu lokalnym lub na prowadzonej przez siebie stronie internetowej i w sposób zwyczajowo przyjęty na obszarze gminy lub gmin potencjalnie narażonych na skutki awarii;
 - **2)** dokonuje aktualizacji planu postępowania na wypadek awarii, zgodnie z art. 15p oraz ust. 1:
-    - **a)** co najmniej raz na 2 lata uwzględniając postęp techniki i rozwój wiedzy,
-    - **b)** niezwłocznie w przypadku stwierdzenia, że zastosowane rodzaje środków bezpieczeństwa nie są już wystarczające, albo gdy zachodzą przesłanki do zaliczenia danego zamkniętego użycia GMM do wyższej kategorii;
+    - **a)** co najmniej raz na 2 lata – uwzględniając postęp techniki i rozwój wiedzy,
+    - **b)** niezwłocznie – w przypadku stwierdzenia, że zastosowane rodzaje środków bezpieczeństwa nie są już wystarczające, albo gdy zachodzą przesłanki do zaliczenia danego zamkniętego użycia GMM do wyższej kategorii;
 
 - **3)** przekazuje ministrowi właściwemu do spraw środowiska plan postępowania na wypadek awarii oraz jego aktualizację.
 
@@ -615,11 +669,31 @@ Art. 66–74. (pominięte)
 6. Minister właściwy do spraw środowiska, w drodze decyzji, uruchamia środki pochodzące z zabezpieczenia:
 
 - **1)** w przypadku wystąpienia awarii,
-- **2)** na wniosek podmiotów, którym przysługują roszczenia z tytułu wyrządzonej szkody, stwierdzone prawomocnym wyrokiem sądu albo wynikające z ugody zawartej przez strony chyba że dokonujący zamkniętego użycia GMM zaliczonych do III lub IV kategorii pokrył z własnych środków koszty usunięcia skutków awarii lub zaspokoił roszczenia z tytułu wyrządzonej szkody.
+- **2)** na wniosek podmiotów, którym przysługują roszczenia z tytułu wyrządzonej szkody, stwierdzone prawomocnym wyrokiem sądu albo wynikające z ugody zawartej przez strony – chyba że dokonujący zamkniętego użycia GMM zaliczonych do III lub IV kategorii pokrył z własnych środków koszty usunięcia skutków awarii lub zaspokoił roszczenia z tytułu wyrządzonej szkody.
 
 7. Minister właściwy do spraw środowiska, po wydaniu decyzji o cofnięciu zgody na zamknięte użycie GMM zaliczonych do III lub IV kategorii lub po stwierdzeniu jej wygaśnięcia, zwalnia ustanowione zabezpieczenie.
 
 **Art. 15s.** Dokonujący zamkniętego użycia GMM jest obowiązany do:
+
+- **1)** przechowywania oceny zagrożenia w miejscu wykonywania działalności gospodarczej lub w swojej siedzibie i jej udostępniania na każde żądanie ministra właściwego do spraw środowiska oraz podmiotów prowadzących kontrole, o których mowa w art. 11 ust. 1 pkt 2;
+- **2)** przestrzegania wymagań dotyczących rodzajów środków bezpieczeństwa oraz sposobu postępowania z odpadami powstającymi podczas zamkniętego użycia GMM, przewidzianych dla poszczególnych kategorii zamkniętego użycia GMM;
+- **3)** niezwłocznego poinformowania ministra właściwego do spraw środowiska oraz podmiotów, o których mowa w art. 15p ust. 1 pkt 2 i 3, o:
+    - **a)** każdej zmianie warunków zamkniętego użycia GMM, która może mieć wpływ na zwiększenie zagrożenia dla zdrowia ludzi lub dla środowiska,
+    - **b)** zmianach danych, o których mowa w art. 15b, art. 15f ust. 1, art. 15g ust. 1, art. 15h ust. 1 oraz art. 15o ust. 3;
+
+- **4)** podejmowania działań zapewniających bezpieczeństwo pracy z mikroorganizmami i przestrzegania ogólnych zasad bezpieczeństwa, w szczególności do:
+    - **a)** utrzymania miejsca dokonywania zamkniętego użycia GMM na możliwie najniższym poziomie narażenia na działanie wywoływane przez GMM,
+    - **b)** stosowania technicznych środków kontroli źródła zagrożenia i wprowadzenia obowiązku stosowania przez osoby biorące udział w zamkniętym użyciu GMM środków ochrony indywidualnej i sprzętu dostosowanego do kategorii zamkniętego użycia GMM,
+    - **c)** kontroli stanu urządzeń i zabezpieczeń potwierdzonej protokołem kontroli,
+    - **d)** sprawdzania obecności GMM poza zakładem inżynierii genetycznej, jeżeli są to mikroorganizmy określone w przepisach wydanych na podstawie art. 222 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy – w przypadku zamkniętego użycia GMM zaliczonych do III lub IV kategorii,
+    - **e)** zapewnienia osobom biorącym udział w zamkniętym użyciu GMM, co najmniej raz na 2 lata, uczestnictwa w szkoleniu w dziedzinie bezpieczeństwa i higieny pracy, przeprowadzanym w trybie określonym w przepisach wydanych na podstawie art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
+    - **f)** utworzenia wewnętrznych komisji do spraw bezpieczeństwa biologicznego,
+    - **g)** wprowadzenia wewnętrznych regulaminów bezpieczeństwa dla osób biorących udział w zamkniętym użyciu GMM, określających: – sposób prowadzenia pisemnej dokumentacji czynności wykonywanych podczas zamkniętego użycia GMM, – tryb postępowania w przypadku rozprzestrzeniania się GMM, w tym rodzaj środków dezynfekcyjnych i sposób ich stosowania, – rodzaj urządzeń do mycia i odkażania udostępnionych tym osobom, – sposób oznakowania miejsc dokonywania zamkniętego użycia GMM przy zastosowaniu znaków zagrożenia biologicznego,
+    - **h)** zapewnienia przestrzegania zakazu: jedzenia, picia, palenia, stosowania produktów kosmetycznych i pipet doustnych oraz przechowywania żywności w miejscu dokonywania zamkniętego użycia GMM,
+    - **i)** zapewnienia, w razie potrzeby, miejsca do bezpiecznego magazynowania zakażonego sprzętu laboratoryjnego i innych materiałów wykorzystywanych podczas zamkniętego użycia GMM;
+
+- **5)** przechowywania pisemnych oświadczeń osób biorących udział w zamkniętym użyciu GMM o zapoznaniu się z treścią wewnętrznych regulaminów bezpieczeństwa przez 5 lat od dnia zakończenia zamkniętego użycia – w przypadku GMM zaliczonych do I kategorii lub przez 10 lat od dnia zakończenia zamkniętego użycia – w przypadku GMM zaliczonych do II, III lub IV kategorii i udostępniania tych oświadczeń na żądanie podmiotów prowadzących kontrole, o których mowa w art. 11 ust. 1 pkt 2;
+- **6)** prowadzenia ewidencji i dokumentacji dokonywania zamkniętego użycia GMM i ich przechowywania przez 5 lat od dnia zakończenia tych działań oraz udostępniania niezwłocznie na żądanie ministra właściwego do spraw środowiska i podmiotów prowadzących kontrole, o których mowa w art. 11 ust. 1 pkt 2.
 
 **Art. 15t.**
 
@@ -676,7 +750,7 @@ Art. 66–74. (pominięte)
 - **3)** w zgodach na zamknięte użycie GMM zaliczonych do II, III lub IV kategorii,
 - **4)** w decyzjach o cofnięciu zgody na zamknięte użycie GMM zaliczonych do II, III lub IV kategorii i decyzjach zmieniających te zgody,
 - **5)** w decyzjach nakazujących zaprzestanie prowadzenia działań zamkniętego użycia GMM albo ich zawieszenie do czasu usunięcia wskazanych uchybień,
-- **6)** w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMM oraz ich aktualizacje.
+- **6)** w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMM – oraz ich aktualizacje.
 
 4. Minister właściwy do spraw środowiska udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej Rejestr Zamkniętego Użycia Mikroorganizmów Genetycznie Zmodyfikowanych.
 
@@ -692,8 +766,8 @@ Art. 66–74. (pominięte)
 
 1. W zależności od stopnia zagrożenia dla zdrowia ludzi lub dla środowiska wyróżnia się dwie kategorie zamkniętego użycia GMO:
 
-- **1)** kategoria I działania niepowodujące zagrożeń;
-- **2)** kategoria II działania powodujące niewielkie zagrożenia.
+- **1)** kategoria I – działania niepowodujące zagrożeń;
+- **2)** kategoria II – działania powodujące niewielkie zagrożenia.
 
 2. Zaliczenia zamkniętego użycia GMO do jednej z kategorii dokonuje wnioskodawca, na podstawie oceny zagrożenia oraz z uwzględnieniem klasyfikacji organizmów, które są wykorzystywane podczas zamkniętego użycia GMO, określonej w rozporządzeniu wydanym na podstawie art. 6a.
 
@@ -735,10 +809,10 @@ Art. 66–74. (pominięte)
 
 2. Wniosek o wydanie zgody na zamknięte użycie GMO zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** opis prac z wykorzystaniem GMO, z uwzględnieniem:
     - **a)** celu tych prac,
-    - **b)** charakterystyki typu GMO, w tym: wykorzystywanych dawcy i biorcy oraz stosowanego wektora, źródła i funkcji kwasu nukleinowego używanego do modyfikacji genetycznej, cech identyfikujących GMO;
+    - **b)** charakterystyki typu GMO, w tym: – wykorzystywanych dawcy i biorcy oraz stosowanego wektora, – źródła i funkcji kwasu nukleinowego używanego do modyfikacji genetycznej, – cech identyfikujących GMO;
 
 - **3)** dane o liczbie GMO wykorzystywanych podczas zamkniętego użycia GMO;
 - **4)** informacje o rodzaju i postaci odpadów powstających podczas zamkniętego użycia GMO oraz o sposobie postępowania z tymi odpadami, w tym miejscu ich przeznaczenia;
@@ -753,6 +827,9 @@ Art. 66–74. (pominięte)
 **Art. 21a.** (uchylony)
 
 **Art. 22.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki, ministrem właściwym do spraw rolnictwa oraz ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, wzór wniosku o wydanie:
+
+- **1)** zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMO,
+- **2)** zgody na zamknięte użycie GMO – mając na względzie ujednolicenie formy składanych wniosków.
 
 **Art. 23.**
 
@@ -786,6 +863,9 @@ Art. 66–74. (pominięte)
 
 **Art. 24a.** Minister właściwy do spraw środowiska cofa:
 
+- **1)** zezwolenie na prowadzenie zakładu inżynierii genetycznej, w którym jest lub ma być prowadzone zamknięte użycie GMO, gdy stwierdził, że przestały być spełnione warunki w zakresie bezpieczeństwa wymagane do prowadzenia danego rodzaju działalności;
+- **2)** zgodę na zamknięte użycie GMO, jeżeli na podstawie przeprowadzonej kontroli stwierdził, że dokonujący zamkniętego użycia GMO narusza warunki określone w zgodzie albo nie doprowadził stanu faktycznego do stanu określonego w zgodzie w terminie wyznaczonym przez podmiot przeprowadzający kontrolę, o której mowa w art. 11 ust. 1.
+
 **Art. 25.** (uchylony)
 
 **Art. 26.** (uchylony)
@@ -806,6 +886,9 @@ Art. 66–74. (pominięte)
 
 **Art. 32.** Dokonujący zamkniętego użycia GMO jest obowiązany do niezwłocznego poinformowania ministra właściwego do spraw środowiska o:
 
+- **1)** każdej zmianie warunków zamkniętego użycia GMO, która może mieć wpływ na zwiększenie zagrożenia dla zdrowia ludzi lub dla środowiska;
+- **2)** zmianach danych, o których mowa w art. 15b oraz art. 21 ust. 2.
+
 **Art. 33.** (uchylony)
 
 **Art. 34.**
@@ -819,7 +902,7 @@ Art. 66–74. (pominięte)
 - **1)** we wnioskach o wydanie zgody na zamknięte użycie GMO,
 - **2)** w zgodach na zamknięte użycie GMO,
 - **3)** w decyzjach o cofnięciu zgody na zamknięte użycie GMO i decyzjach zmieniających te zgody,
-- **4)** w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMO oraz ich aktualizacje.
+- **4)** w opiniach, o których mowa w art. 13 ust. 1 pkt 1, dotyczących wniosków o wydanie zgody na zamknięte użycie GMO – oraz ich aktualizacje.
 
 4. Minister właściwy do spraw środowiska udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej Rejestr Zamkniętego Użycia Organizmów Genetycznie Zmodyfikowanych.
 
@@ -828,6 +911,9 @@ Art. 66–74. (pominięte)
 6. Wgląd do Rejestru Zamkniętego Użycia Organizmów Genetycznie Zmodyfikowanych jest bezpłatny. Za sporządzanie odpisów i wyciągów jest pobierana opłata w wysokości 50 gr za stronę, stanowiąca dochód budżetu państwa.
 
 **Art. 35.** Dokonujący zamkniętego użycia GMO jest obowiązany do:
+
+- **1)** przechowywania oceny zagrożenia w miejscu wykonywania działalności gospodarczej lub w swojej siedzibie i jej udostępniania na każde żądanie ministra właściwego do spraw środowiska oraz podmiotów prowadzących kontrole, o których mowa w art. 11 ust. 1 pkt 2;
+- **2)** prowadzenia ewidencji i dokumentacji dokonywania zamkniętego użycia GMO i ich przechowywania przez 5 lat od dnia zakończenia tych działań oraz udostępniania niezwłocznie na każde żądanie ministra właściwego do spraw środowiska i podmiotów prowadzących kontrole, o których mowa w art. 11 ust. 1 pkt 2.
 
 #### Rozdział 4 Zamierzone uwolnienie GMO do środowiska
 
@@ -848,7 +934,7 @@ Art. 66–74. (pominięte)
     - **c)** charakterystykę GMO;
 
 - **3)** informacje dotyczące warunków zamierzonego uwolnienia GMO do środowiska:
-    - **a)** informacje o warunkach miejscu zamierzonego uwolnienia i szerszym środowisku, do którego nastąpi zamierzone uwolnienie,
+    - **a)** informacje o warunkach – miejscu zamierzonego uwolnienia i szerszym środowisku, do którego nastąpi zamierzone uwolnienie,
     - **b)** opis celu zamierzonego uwolnienia,
     - **c)** charakterystykę środowiska, do którego ma nastąpić uwolnienie;
 
@@ -999,7 +1085,7 @@ Art. 66–74. (pominięte)
 
 4. Po otrzymaniu powiadomienia minister właściwy do spraw środowiska potwierdza datę otrzymania powiadomienia oraz przekazuje egzemplarz powiadomienia do Komisji Europejskiej wraz z raportem oceniającym.
 
-5. Raport oceniający, o którym mowa w ust. 4, zawiera uzasadnienie pozostawania w obrocie produktu GMO oraz warunki, na jakich ma odbywać się obrót tym produktem, lub w przypadku wycofania produktu GMO z obrotu uzasadnienie tej decyzji.
+5. Raport oceniający, o którym mowa w ust. 4, zawiera uzasadnienie pozostawania w obrocie produktu GMO oraz warunki, na jakich ma odbywać się obrót tym produktem, lub w przypadku wycofania produktu GMO z obrotu – uzasadnienie tej decyzji.
 
 6. Do czasu uzyskania ponownego zezwolenia na wprowadzenie produktu GMO do obrotu użytkownik GMO może kontynuować jego wprowadzanie na warunkach określonych w pierwotnym zezwoleniu.
 
@@ -1115,12 +1201,12 @@ Art. 66–74. (pominięte)
 
 4. Wniosek o dokonanie wpisu uprawy GMO do Rejestru Upraw GMO zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu, który zamierza prowadzić uprawę GMO, z tym że w przypadku gdy podmiot ten jest osobą fizyczną prowadzącą działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania;
-- **2)** nazwę rośliny GMO ze wskazaniem jej odmiany i modyfikacji genetycznej, w tym niepowtarzalny identyfikator, o którym mowa w rozporządzeniu Komisji (WE) nr 65/2004 z dnia 14 stycznia 2004 r. ustanawiającym system ustanawiania oraz przypisywania niepowtarzalnych identyfikatorów organizmom zmodyfikowanym genetycznie (Dz. Urz. UE L 10 z 16.01.2004, str. 5 Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 33, str. 11);
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu, który zamierza prowadzić uprawę GMO, z tym że w przypadku gdy podmiot ten jest osobą fizyczną prowadzącą działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania;
+- **2)** nazwę rośliny GMO ze wskazaniem jej odmiany i modyfikacji genetycznej, w tym niepowtarzalny identyfikator, o którym mowa w rozporządzeniu Komisji (WE) nr 65/2004 z dnia 14 stycznia 2004 r. ustanawiającym system ustanawiania oraz przypisywania niepowtarzalnych identyfikatorów organizmom zmodyfikowanym genetycznie (Dz. Urz. UE L 10 z 16.01.2004, str. 5 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 33, str. 11);
 - **3)** wskazanie celu i sposobu prowadzenia uprawy GMO;
 - **4)** nazwę miejscowości, w której ma być prowadzona uprawa GMO, wraz z kodem pocztowym, oraz nazwę gminy i województwa, na obszarze których ma być prowadzona uprawa GMO;
 - **5)** planowaną powierzchnię uprawy GMO, która ma być prowadzona, określoną w hektarach;
-- **6)** numer działki ewidencyjnej, o której mowa w ustawie z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990), zwanej dalej „działką ewidencyjną”, na której ma być prowadzona uprawa GMO;
+- **6)** numer działki ewidencyjnej, o której mowa w ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990), zwanej dalej „działką ewidencyjną”, na której ma być prowadzona uprawa GMO;
 - **7)** wskazanie proponowanego terminu, na jaki ma być dokonany wpis uprawy GMO do Rejestru Upraw GMO;
 - **8)** wskazanie tytułu prawnego do nieruchomości, na której ma być prowadzona uprawa GMO.
 
@@ -1152,7 +1238,7 @@ Art. 66–74. (pominięte)
 
 11. Rada gminy, rada powiatu oraz sejmik województwa w opinii, o której mowa w ust. 2 pkt 2, akceptuje albo odmawia akceptacji dokonania wpisu uprawy GMO do Rejestru Upraw GMO, kierując się zgodnością dokonania wpisu uprawy GMO do Rejestru Upraw GMO z polityką przestrzenną, strategią rozwoju i innymi dokumentami strategicznymi gminy, oraz ogłasza informacje, o których mowa w ust. 4 pkt 2 i 4–6 oraz w ust. 5 pkt 2–4, w sposób zwyczajowo przyjęty w miejscowości lub miejscowościach właściwych ze względu na przedmiot postępowania.
 
-12. Minister właściwy do spraw rolnictwa oraz rada gminy, rada powiatu oraz sejmik województwa wydają opinie, o których mowa w ust. 2, w terminie 45 dni od dnia otrzymania kopii wniosku o dokonanie wpisu uprawy GMO do Rejestru Upraw GMO wraz z załączonymi do tego wniosku dokumentami. Do wydania opinii stosuje się przepisy art. 106 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
+12. Minister właściwy do spraw rolnictwa oraz rada gminy, rada powiatu oraz sejmik województwa wydają opinie, o których mowa w ust. 2, w terminie 45 dni od dnia otrzymania kopii wniosku o dokonanie wpisu uprawy GMO do Rejestru Upraw GMO wraz z załączonymi do tego wniosku dokumentami. Do wydania opinii stosuje się przepisy art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
 
 13. Wpisu uprawy GMO do Rejestru Upraw GMO dokonuje się w terminie 90 dni od dnia złożenia wniosku o dokonanie wpisu uprawy GMO do Rejestru Upraw GMO.
 
@@ -1177,9 +1263,15 @@ Art. 66–74. (pominięte)
 
 **Art. 49f.** Wniosek o dokonanie wpisu uprawy GMO do Rejestru Upraw GMO, który dotyczy:
 
+- **1)** rośliny GMO, która nie została wprowadzona do obrotu z przeznaczeniem do uprawy,
+- **2)** rośliny GMO wprowadzonej do obrotu z przeznaczeniem do uprawy, której uprawa na terytorium Rzeczypospolitej Polskiej jest zakazana na podstawie art. 49b ust. 2 albo przepisów wydanych na podstawie art. 49c ust. 1, albo na podstawie przepisów odrębnych – pozostawia się bez rozpoznania.
+
 **Art. 49g.** Podmiot prowadzący uprawę GMO niezwłocznie informuje ministra właściwego do spraw środowiska i wojewódzkiego inspektora ochrony roślin i nasiennictwa właściwego ze względu na miejsce uprawy GMO o zmianie danych podanych we wniosku, o których mowa w art. 49e ust. 4 pkt 1, nie później jednak niż w terminie 14 dni od dnia zaistnienia tej zmiany.
 
 **Art. 49h.** Minister właściwy do spraw środowiska wykreśla wpis uprawy GMO z Rejestru Upraw GMO, jeżeli:
+
+- **1)** uprawa dotyczy rośliny GMO wprowadzonej do obrotu z przeznaczeniem do uprawy, w przypadku gdy zezwolenie na wprowadzenie do obrotu z przeznaczeniem do uprawy zostało zawieszone albo cofnięte;
+- **2)** kontrola, o której mowa w art. 49j ust. 5 pkt 1, wykaże, że uprawa GMO jest prowadzona niezgodnie z warunkami i sposobem prowadzenia tej uprawy określonymi we wpisie uprawy GMO w Rejestrze Upraw GMO.
 
 **Art. 49i.**
 
@@ -1193,7 +1285,7 @@ Art. 66–74. (pominięte)
 
 1. Kontrola zgodności prowadzonych upraw z przepisami ustawy jest przeprowadzana przez wojewódzkiego inspektora ochrony roślin i nasiennictwa właściwego ze względu na miejsce prowadzenia danej uprawy:
 
-- **1)** z urzędu na podstawie programu kontroli, o którym mowa w art. 49l, lub
+- **1)** z urzędu – na podstawie programu kontroli, o którym mowa w art. 49l, lub
 - **2)** na wniosek ministra właściwego do spraw środowiska.
 
 2. Kontrola zgodności prowadzonych upraw z przepisami ustawy może być także przeprowadzona przez wojewódzkiego inspektora ochrony roślin i nasiennictwa właściwego ze względu na miejsce prowadzenia danej uprawy na wniosek osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
@@ -1210,7 +1302,7 @@ Art. 66–74. (pominięte)
 6. Wojewódzki inspektor ochrony roślin i nasiennictwa, przeprowadzając kontrolę:
 
 - **1)** o której mowa w ust. 5 pkt 2, pobiera próbki roślin lub produktów roślinnych do badań laboratoryjnych,
-- **2)** o której mowa w ust. 5 pkt 1, może pobrać próbki roślin lub produktów roślinnych do badań laboratoryjnych, jeżeli wystąpią zastrzeżenia do kontrolowanej dokumentacji w celu zidentyfikowania modyfikacji genetycznej.
+- **2)** o której mowa w ust. 5 pkt 1, może pobrać próbki roślin lub produktów roślinnych do badań laboratoryjnych, jeżeli wystąpią zastrzeżenia do kontrolowanej dokumentacji – w celu zidentyfikowania modyfikacji genetycznej.
 
 7. Badania laboratoryjne są wykonywane przez Głównego Inspektora Ochrony Roślin i Nasiennictwa.
 
@@ -1314,7 +1406,15 @@ Art. 66–74. (pominięte)
 
 **Art. 64.** Kto, wbrew obowiązkowi określonemu:
 
+- **1)** w art. 6 ust. 7 lub 8, nie dokonuje aktualizacji oceny zagrożenia lub zastosowanych środków bezpieczeństwa albo nie przekazuje tych aktualizacji ministrowi właściwemu do spraw środowiska,
+- **2)** w art. 15q ust. 3 pkt 2 lub 3, nie dokonuje aktualizacji planu postępowania na wypadek awarii lub nie przekazuje tej aktualizacji ministrowi właściwemu do spraw środowiska – podlega karze pozbawienia wolności do lat 3.
+
 **Art. 65.** Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu:
+
+- **1)** w art. 15s pkt 1 lub w art. 35 pkt 1, nie przechowuje i nie udostępnia oceny zagrożenia,
+- **2)** w art. 15s pkt 3 lit. a lub w art. 32 pkt 1, nie informuje zgodnie z tymi przepisami o każdej zmianie warunków zamkniętego użycia GMM lub zamkniętego użycia GMO, która może mieć wpływ na zwiększenie zagrożenia dla zdrowia ludzi lub dla środowiska,
+- **3)** w art. 15s pkt 6 lub art. 35 pkt 2, nie prowadzi ewidencji i dokumentacji dokonywania zamkniętego użycia GMM lub zamkniętego użycia GMO lub nie przechowuje tej ewidencji lub dokumentacji przez czas wymagany w tych przepisach,
+- **4)** w art. 47 ust. 1, nie oznakowuje produktów GMO w sposób określony w art. 47 ust. 2 – podlega karze grzywny.
 
 **Art. 65a.** Kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew obowiązkowi określonemu w art. 4 rozporządzenia nr 1946/2003, nie dokonuje zgłoszenia GMO przeznaczonego do zamierzonego uwolnienia do środowiska lub dokonuje tego zgłoszenia niezgodnie z tym przepisem, podlega karze grzywny.
 
@@ -1334,7 +1434,7 @@ Art. 66–74. (pominięte)
 
 3. Tej samej karze podlega, kto, będąc obowiązanym w imieniu własnym albo jako osoba uprawniona z mocy ustawy lub upoważniona do działania w imieniu innego podmiotu, wbrew decyzji nakazującej zaprzestanie prowadzenia działań zamkniętego użycia GMM albo zawieszenie prowadzenia tych działań, o której mowa w art. 15m ust. 1 pkt 3, dokonuje zamkniętego użycia GMM.
 
-**Art. 65g.** W sprawach o czyny, o których mowa w art. 65–65f, orzekanie następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457, 1005, 1595 i 2328).
+**Art. 65g.** W sprawach o czyny, o których mowa w art. 65–65f, orzekanie następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457, 1005, 1595 i 2328).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 

@@ -8,10 +8,10 @@ pos: 2470
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2470 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 10 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2470/text.pdf) |
 
-Poz. 2470 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 10 listopada 2023 r.
 w sprawie połączenia Archiwum Państwowego w Gdańsku i Archiwum Państwowego w Malborku Na podstawie art. 24 ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r.
-poz. 164) zarządza się, co następuje: § 1. 1. Z dniem 1 marca 2024 r. tworzy się Archiwum Państwowe w Gdańsku, zwane dalej „Archiwum”, w wyniku połączenia:
+poz. 164) zarządza się, co następuje:
+§ 1. 1. Z dniem 1 marca 2024 r. tworzy się Archiwum Państwowe w Gdańsku, zwane dalej „Archiwum”, w wyniku połączenia:
 1) Archiwum Państwowego w Gdańsku, utworzonego zarządzeniem Ministra Oświaty z dnia 17 grudnia 1946 r. o utworzeniu Archiwum Państwowego w Gdańsku (Dz. Urz. Min. Ośw. poz. 389);
 2) Archiwum Państwowego w Malborku, do dnia 1 stycznia 2018 r. działającego pod nazwą Archiwum Państwowe w Elblągu, utworzonego zarządzeniem Ministra Nauki, Szkolnictwa Wyższego i Techniki z dnia 21 stycznia 1976 r.
 w sprawie utworzenia wojewódzkich archiwów państwowych (Dz. Urz. MNSzWiT poz. 9), zmienionym rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 10 października 2017 r. w sprawie zmiany nazwy Archiwum Państwowego w Elblągu z siedzibą w Malborku (Dz. U. poz. 1974).
@@ -42,7 +42,7 @@ a) powiaty: braniewski i elbląski,
 b) miasto na prawach powiatu Elbląg,
 c) gminy Kisielice i Susz w powiecie iławskim,
 d) gminę Orneta w powiecie lidzbarskim.
-Dziennik Ustaw – 2 – Poz. 2470 § 4. Archiwum przejmie:
+§ 4. Archiwum przejmie:
 1) zgromadzone przez Archiwum Państwowe w Gdańsku i Archiwum Państwowe w Malborku materiały archiwalne, zgodnie z ewidencją zasobu archiwalnego sporządzoną na dzień połączenia tych archiwów;
 2) składniki majątku ruchomego Archiwum Państwowego w Gdańsku i Archiwum Państwowego w Malborku, zgodnie ze stanem ewidencji księgowej na dzień połączenia tych archiwów;
 3) środki finansowe Archiwum Państwowego w Gdańsku i Archiwum Państwowego w Malborku, według stanu wynikającego z inwentaryzacji sporządzonej na dzień połączenia tych archiwów.

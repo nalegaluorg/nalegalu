@@ -8,7 +8,7 @@ pos: 921
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz niektórych innych ustaw

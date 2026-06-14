@@ -8,10 +8,10 @@ pos: 897
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 maja 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 897 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 maja 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/897/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 maja 2021 r.
 w sprawie szkoleń pracowników centrum powiadamiania ratunkowego Na podstawie art. 16b ust. 5 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2021 r.
-poz. 268) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 268) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) organizację i sposób przeprowadzania szkolenia podstawowego dla operatorów numerów alarmowych;
 2) organizację i sposób przeprowadzania szkoleń w ramach doskonalenia zawodowego;
 3) ramowe programy szkolenia podstawowego dla operatorów numerów alarmowych i szkoleń w ramach doskonalenia zawodowego;
@@ -37,8 +37,8 @@ poz. 268) zarządza się, co następuje: § 1. Rozporządzenie określa:
 7) wzór certyfikatu operatora numerów alarmowych;
 8) wzór zaświadczenia o ukończeniu szkolenia w ramach doskonalenia zawodowego.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie rozumie się przez to ustawę z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego;
-2) centrum rozumie się przez to centrum powiadamiania ratunkowego w rozumieniu art. 3 ust. 2 ustawy.
+1) ustawie – rozumie się przez to ustawę z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego;
+2) centrum – rozumie się przez to centrum powiadamiania ratunkowego w rozumieniu art. 3 ust. 2 ustawy.
 § 3. 1. Szkolenia podstawowe oraz szkolenia w ramach doskonalenia zawodowego są prowadzone w formie:
 1) wykładu;
 2) wideokonferencji;
@@ -87,7 +87,7 @@ poz. 268) zarządza się, co następuje: § 1. Rozporządzenie określa:
 6. Każdy członek komisji egzaminacyjnej ocenia każde zadanie w skali od 1 do 5 punktów.
 7. Podstawą do zaliczenia części praktycznej egzaminu jest uzyskanie co najmniej 112 punktów.
 8. Za niewykonane zadania osoba przystępująca do egzaminu nie otrzymuje punktów.
-9. Członek komisji przeprowadza egzaminy w zakresie części praktycznej egzaminu nie dłużej niż przez osiem godzin
+9. Członek komisji przeprowadza egzaminy w zakresie części praktycznej egzaminu nie dłużej niż przez osiem godzin na dobę.
 10. Dopuszcza się wydłużenie czasu, o którym mowa w ust. 9, wyłącznie o czas, który jest niezbędny do zakończenia egzaminu rozpoczętego przed zakończeniem 8 godzin pracy.
 11. W sytuacjach losowych dopuszcza się wydłużenie czasu pracy członków komisji egzaminacyjnej w ciągu doby do dziesięciu godzin. Za sytuacje losowe uznaje się w szczególności:
 1) nieplanowaną nieobecność innego członka komisji egzaminacyjnej;
@@ -138,12 +138,13 @@ c) moduł mapowy.
 1) procedury odbioru zgłoszeń alarmowych;
 2) zasady udzielania pierwszej pomocy;
 3) psychologiczne aspekty pracy operatora numerów alarmowych;
-4. Godzinowy rozkład materiału Liczba godzin Lp. Nazwa bloku tematycznego/Temat teoria praktyka (lekcyjne) (zegarowe) 1 Warunki niezbędne do ukończenia szkolenia 1 2 Organizacja i działanie systemu powiadamiania ratunkowego 2 3 Obsługa systemów teleinformatycznych służących do wspomagania działań ratowniczych 3 24 4 Procedury odbioru zgłoszeń alarmowych 5 7 5 Organizacja i działanie krajowego systemu ratowniczo-gaśniczego 5 6 Organizacja i działanie systemu Państwowe Ratownictwo Medyczne 5 7 Bezpieczeństwo i porządek publiczny 7 8 Psychologiczne aspekty pracy ONA 6 4 9 Zasady udzielania pierwszej pomocy 6 4 10 Egzamin 1* 1 RAZEM: 41 40
-5. Charakterystyka poziomu nauczania Po ukończeniu szkolenia słuchacz: zna i rozumie podstawowe fakty i zasady organizacji systemów dziedzinowych, wytyczne dotyczące odbioru i klasyfikacji zgłoszeń, funkcje swojego stanowiska;
-potrafi samodzielnie klasyfikować proste i złożone zgłoszenia, rozwiązywać częściowo samodzielnie nietypowe problemy, reagować na zmienne warunki zgłoszenia;
-jest gotów do przyjmowania odpowiedzialności, autonomicznego działania i współdziałania w określonych sytuacjach, oceniania swoich działań.
-RAMOWY PROGRAM SZKOLEń DOSKONALENIA ZAWODOWEGO Grupa docelowa/liczba godzin szkoleniowych Lp. Zakres Temat szkolenia szkolenia koordynator- starszy -trener koordynator operator operator 1 2 3 4 5 6 7 1 Wykorzystanie Mapy rodzaje, znaki umowne, 8 8 8 8 podkładów symbole, skala, współrzędne, mapowych odwzorowanie itp.
-w pracy operatora Doskonalenie umiejętności numerów praktycznych i teoretycznych alarmowych posługiwania się Uniwersalnym Modułem Mapowym oraz innymi dostępnymi narzędziami odwzorowania 8 8 8 8 lokalizacji Warsztaty praktyczne posługiwanie 16 się podkładami mapowymi 2 Podnoszenie Zarządzanie satysfakcją zgłaszającego 4 4 4 4 standardów obsługi Obsługa zgłaszającego 8 8 8 8 zgłoszeń z niepełnosprawnościami Tworzenie komunikatów zrozumiałych 4 4 4 4 i dopasowanych do odbiorcy Efektywna komunikacja ze 8 8 8 8 szczególnym uwzględnieniem sytuacji kryzysowych Asertywna komunikacja w pracy 8 8 8 8 operatora 3 Rozwój Efektywne zarządzanie zespołem 4 4 kompetencji w zarządzaniu Umiejętność podejmowania decyzji 4 4 zespołem Motywowanie, ocenianie oraz skuteczna komunikacja 8 8 z pracownikami 4 Bezwzrokowe Bezwzrokowe pisanie tekstów na 6 6 6 6 pisanie klawiaturze komputera podstawy Doskonalenie bezwzrokowego pisania 4 4 4 4 tekstów na klawiaturze komputera 5 Pierwsza Przypomnienie procedur w zakresie 8 8 8 8 pomoc praktycznego udzielania pierwszej pomocy 6 Procedury Analiza procedur odbioru zgłoszeń 4 4 4 4 odbioru zgłoszeń Nowe moduły i funkcjonalności 4 4 4 4 alarmowych Systemu Powiadamiania Ratunkowego Aspekty prawne funkcjonowania Systemu Powiadamiania Ratunkowego 6 6 4 4 Załącznik nr 3 WZÓR (miejsce na hologram) Nr ……………../…………..r. ……...……..…………..……… (numer certyfikatu) (miejscowość i data) CERTYFIKAT OPERATORA NUMERÓW ALARMOWYCH Pani/Pan ……………………………………………….
+4) system informatyczny centrum powiadamiania ratunkowego.
+4. Godzinowy rozkład materiału Liczba godzin Lp. Nazwa bloku tematycznego/Temat teoria praktyka (lekcyjne) (zegarowe) 1 Warunki niezbędne do ukończenia szkolenia 1 – 2 Organizacja i działanie systemu powiadamiania ratunkowego 2 – 3 Obsługa systemów teleinformatycznych służących do wspomagania działań ratowniczych 3 24 4 Procedury odbioru zgłoszeń alarmowych 5 7 5 Organizacja i działanie krajowego systemu ratowniczo-gaśniczego 5 – 6 Organizacja i działanie systemu Państwowe Ratownictwo Medyczne 5 – 7 Bezpieczeństwo i porządek publiczny 7 – 8 Psychologiczne aspekty pracy ONA 6 4 9 Zasady udzielania pierwszej pomocy 6 4 10 Egzamin 1* 1 RAZEM: 41 40
+5. Charakterystyka poziomu nauczania Po ukończeniu szkolenia słuchacz: – zna i rozumie podstawowe fakty i zasady organizacji systemów dziedzinowych, wytyczne dotyczące odbioru i klasyfikacji zgłoszeń, funkcje swojego stanowiska;
+– potrafi samodzielnie klasyfikować proste i złożone zgłoszenia, rozwiązywać częściowo samodzielnie nietypowe problemy, reagować na zmienne warunki zgłoszenia;
+– jest gotów do przyjmowania odpowiedzialności, autonomicznego działania i współdziałania w określonych sytuacjach, oceniania swoich działań.
+RAMOWY PROGRAM SZKOLEń DOSKONALENIA ZAWODOWEGO Grupa docelowa/liczba godzin szkoleniowych Lp. Zakres Temat szkolenia szkolenia koordynator- starszy -trener koordynator operator operator 1 2 3 4 5 6 7 1 Wykorzystanie Mapy – rodzaje, znaki umowne, 8 8 8 8 podkładów symbole, skala, współrzędne, mapowych odwzorowanie itp.
+w pracy operatora Doskonalenie umiejętności 8 8 8 8 numerów praktycznych i teoretycznych alarmowych posługiwania się Uniwersalnym Modułem Mapowym oraz innymi dostępnymi narzędziami odwzorowania lokalizacji Warsztaty praktyczne – posługiwanie 16 – – – się podkładami mapowymi 2 Podnoszenie Zarządzanie satysfakcją zgłaszającego 4 4 4 4 standardów obsługi Obsługa zgłaszającego 8 8 8 8 zgłoszeń z niepełnosprawnościami Tworzenie komunikatów zrozumiałych 4 4 4 4 i dopasowanych do odbiorcy Efektywna komunikacja ze 8 8 8 8 szczególnym uwzględnieniem sytuacji kryzysowych Asertywna komunikacja w pracy 8 8 8 8 operatora 3 Rozwój Efektywne zarządzanie zespołem 4 4 – – kompetencji w zarządzaniu Umiejętność podejmowania decyzji 4 4 – – zespołem Motywowanie, ocenianie oraz 8 8 – – skuteczna komunikacja z pracownikami 4 Bezwzrokowe Bezwzrokowe pisanie tekstów na 6 6 6 6 pisanie klawiaturze komputera – podstawy Doskonalenie bezwzrokowego pisania 4 4 4 4 tekstów na klawiaturze komputera 5 Pierwsza Przypomnienie procedur w zakresie 8 8 8 8 pomoc praktycznego udzielania pierwszej pomocy 6 Procedury Analiza procedur odbioru zgłoszeń 4 4 4 4 odbioru zgłoszeń Nowe moduły i funkcjonalności 4 4 4 4 alarmowych Systemu Powiadamiania Ratunkowego Aspekty prawne funkcjonowania 6 6 4 4 Systemu Powiadamiania Ratunkowego Załącznik nr 3 WZÓR (miejsce na hologram) Nr ……………../…………..r. ……...……..…………..……… (numer certyfikatu) (miejscowość i data) CERTYFIKAT OPERATORA NUMERÓW ALARMOWYCH Pani/Pan ……………………………………………….
 ………………………………………………………… (data i miejsce urodzenia) w dniach …………….. odbyła/odbył szkolenie podstawowe dla operatorów numerów alarmowych i zdała/zdał z wynikiem pozytywnym egzamin z zakresu wiedzy i umiejętności praktycznych obsługi zgłoszeń alarmowych, co upoważnia do odbioru zgłoszeń alarmowych w centrum powiadamiania ratunkowego.
 Niniejszy certyfikat traci ważność w przypadku niewykonywania zadań operatora numerów alarmowych przez okres dłuższy niż 2 lata.
 ……………………………..r.

@@ -8,7 +8,7 @@ pos: 1200
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o charakterystyce energetycznej budynków
@@ -31,7 +31,16 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady sporządzania świadectw charakterystyki energetycznej;
+- **2)** zasady kontroli systemu ogrzewania i systemu klimatyzacji w budynkach;
+- **3)** zasady prowadzenia centralnego rejestru charakterystyki energetycznej budynków;
+- **4)** sposób opracowania krajowego planu działań mającego na celu zwiększenie liczby budynków o niskim zużyciu energii.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** budynku – należy przez to rozumieć budynek w rozumieniu art. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. );
+- **2)** części budynku – należy przez to rozumieć zespół pomieszczeń w budynku o jednakowym przeznaczeniu, przewidzianych do odrębnego użytkowania, w szczególności lokal mieszkalny lub lokal użytkowy w budynku;
+- **3)** charakterystyce energetycznej – należy przez to rozumieć zbiór danych i wskaźników energetycznych budynku lub części budynku, określających całkowite zapotrzebowanie na energię niezbędną do ich użytkowania zgodnie z przeznaczeniem.
 
 #### Rozdział 2 Zasady sporządzania świadectw charakterystyki energetycznej
 
@@ -66,6 +75,9 @@ source: "isap-pdf"
 
 **Art. 5.** Osoba uprawniona do sporządzania świadectw charakterystyki energetycznej przekazuje świadectwo charakterystyki energetycznej zlecającemu sporządzenie tego świadectwa w postaci:
 
+- **1)** papierowej, opatrzone numerem nadanym w centralnym rejestrze charakterystyki energetycznej budynków oraz podpisem osobistym osoby uprawnionej, lub
+- **2)** elektronicznej, opatrzone numerem nadanym w centralnym rejestrze charakterystyki energetycznej budynków oraz kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym osoby uprawnionej.
+
 **Art. 6.** W przypadku gdy dla budynku lub części budynku został sporządzony projekt techniczny, świadectwo charakterystyki energetycznej tego budynku lub tej części budynku może być opracowane w oparciu o charakterystykę energetyczną, o której mowa w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przy uwzględnieniu ewentualnych odstępstw od projektu technicznego w zakresie charakterystyki energetycznej budynku lub części budynku.
 
 **Art. 7.**
@@ -75,6 +87,10 @@ source: "isap-pdf"
 2. Świadectwo charakterystyki energetycznej części budynku o jednakowych rozwiązaniach konstrukcyjno-materiałowych i instalacyjnych, o takim samym przeznaczeniu, stopniu zużycia, sposobie użytkowania oraz sposobie zaopatrzenia w energię, mających wpływ na ich charakterystykę energetyczną i stwierdzonych w szczególności na podstawie dokumentacji technicznej budynku albo inwentaryzacji techniczno-budowlanej, w przypadku braku dokumentacji technicznej budynku, może być opracowane w oparciu o wykonaną dla jednej z tych części charakterystykę energetyczną, o której mowa w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przy uwzględnieniu ewentualnych odstępstw od projektu technicznego w zakresie charakterystyki energetycznej części budynku, lub w oparciu o sporządzone dla jednej z tych części świadectwo charakterystyki energetycznej.
 
 **Art. 8.** W przypadku gdy części budynku będące lokalami mieszkalnymi:
+
+- **1)** spełniają wymagania określone w art. 7 ust. 2,
+- **2)** mają jednakową powierzchnię użytkową,
+- **3)** są położone w bryle budynku w sposób pozwalający na przyjęcie jednakowych charakterystycznych parametrów technicznych w zakresie ich powierzchni użytkowej, powierzchni przegród zewnętrznych oraz kubatury – możliwe jest sporządzenie świadectwa charakterystyki energetycznej dla grupy tych lokali, w liczbie egzemplarzy odpowiadającej liczbie tych lokali.
 
 **Art. 9.**
 
@@ -137,6 +153,14 @@ source: "isap-pdf"
 
 **Art. 17.** Do wykazu, o którym mowa w art. 31 ust. 1 pkt 1, może być wpisana, z uwzględnieniem art. 34, wyłącznie osoba, która:
 
+- **1)** posiada pełną zdolność do czynności prawnych;
+- **2)** nie była skazana prawomocnym wyrokiem za przestępstwo przeciwko mieniu, wiarygodności dokumentów, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe;
+- **3)** ukończyła:
+    - **a)** studia wyższe zakończone uzyskaniem tytułu zawodowego inżyniera, inżyniera architekta, inżyniera architekta krajobrazu, inżyniera pożarnictwa, magistra inżyniera architekta, magistra inżyniera architekta krajobrazu, magistra inżyniera pożarnictwa albo magistra inżyniera, albo
+    - **b)** studia wyższe inne niż wymienione w lit. a oraz studia podyplomowe, których program uwzględnia zagadnienia związane z charakterystyką energetyczną budynków, wykonywaniem audytów energetycznych budynków, budownictwem energooszczędnym i odnawialnymi źródłami energii, lub
+
+- **4)** posiada uprawnienia budowlane, o których mowa w art. 14 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+
 **Art. 18.**
 
 1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wpisuje osobę spełniającą wymagania, o których mowa w art. 17, na jej wniosek, do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
@@ -176,7 +200,19 @@ source: "isap-pdf"
 
 **Art. 21.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wydaje decyzję o wykreśleniu osoby uprawnionej z wykazu, o którym mowa w art. 31 ust. 1 pkt 1, w przypadku:
 
+- **1)** stwierdzenia: 17 pkt 1, 2 i 4;
+    - **a)** ograniczenia lub utraty zdolności do czynności prawnych osoby uprawnionej,
+    - **b)** nieprzestrzegania zakazu, o którym mowa w art. 16, przez osobę uprawnioną,
+    - **c)** skazania osoby uprawnionej prawomocnym wyrokiem za popełnienie przestępstwa, o którym mowa w art. 17 pkt 2,
+    - **d)** orzeczenia wobec osoby uprawnionej zakazu wykonywania samodzielnej funkcji technicznej w budownictwie albo utraty uprawnień do pełnienia samodzielnej funkcji technicznej w budownictwie przez osobę uprawnioną, w przypadku gdy osoba ta spełnia wyłącznie wymagania określone w art.
+
+- **2)** gdy na podstawie weryfikacji, o której mowa w art. 36, stwierdzi rażące i oczywiste błędy w sporządzonym przez osobę uprawnioną świadectwie;
+- **3)** gdy na podstawie powziętej informacji stwierdzi, że osoba uprawniona sporządziła dokument niezgodnie z art. 4 ust. 3 i przekazała go jako świadectwo charakterystyki energetycznej zlecającemu jego sporządzenie.
+
 **Art. 22.** O ponowny wpis do wykazu, o którym mowa w art. 31 ust. 1 pkt 1, można ubiegać się:
+
+- **1)** po upływie 24 miesięcy od dnia, w którym decyzja w sprawie wykreślenia z wykazu, z przyczyn, o których mowa w art. 21 pkt 1 lit. b i pkt 2, stała się ostateczna;
+- **2)** od dnia ustania przyczyn wykreślenia z wykazu, o których mowa w art. 21 pkt 1 lit. a, c i d.
 
 **Art. 22a.** W przypadku wydania przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ponownej decyzji w sprawie wykreślenia z wykazu, o którym mowa w art. 31 ust. 1 pkt 1, z przyczyny, o której mowa w art. 21 pkt 2 lub 3, nie można ubiegać się o ponowny wpis do tego wykazu.
 
@@ -251,7 +287,16 @@ source: "isap-pdf"
 
 **Art. 26.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wydaje decyzję w sprawie wykreślenia osoby uprawnionej z wykazu, o którym mowa w art. 31 ust. 1 pkt 2, w przypadku stwierdzenia:
 
+- **1)** rażących i oczywistych błędów w sporządzonym protokole z kontroli systemu ogrzewania lub systemu klimatyzacji na podstawie weryfikacji, o której mowa w art. 36;
+- **2)** orzeczenia wobec osoby uprawnionej zakazu wykonywania samodzielnej funkcji technicznej w budownictwie albo utraty uprawnień do pełnienia samodzielnej funkcji technicznej w budownictwie przez osobę uprawnioną;
+- **3)** nieposiadania kwalifikacji wymaganych przy wykonywaniu dozoru nad eksploatacją urządzeń wytwarzających, przetwarzających, przesyłających i zużywających ciepło oraz innych urządzeń energetycznych;
+- **4)** spełnienia łącznie warunków, o których mowa w pkt 2 i 3, w przypadku osoby, która posiada zarówno uprawnienia budowlane w specjalności instalacyjnej, jak i kwalifikacje wymagane przy wykonywaniu dozoru nad eksploatacją urządzeń wytwarzających, przetwarzających, przesyłających i zużywających ciepło oraz innych urządzeń energetycznych;
+- **5)** sporządzenia przez osobę przeprowadzającą kontrolę systemu ogrzewania lub systemu klimatyzacji dokumentu niezgodnie z art. 28 ust. 2 i przekazania go zlecającemu przeprowadzenie kontroli jako protokołu z kontroli.
+
 **Art. 27.** O ponowny wpis do wykazu, o którym mowa w art. 31 ust. 1 pkt 2, można ubiegać się:
+
+- **1)** po upływie 24 miesięcy od dnia, w którym decyzja w sprawie wykreślenia z wykazu, z przyczyny, o której mowa w art. 26 pkt 1, stała się ostateczna;
+- **2)** od dnia ustania przyczyn wykreślenia z wykazu, o których mowa odpowiednio w art. 26 pkt 2–4.
 
 **Art. 27a.** W przypadku wydania przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ponownej decyzji w sprawie wykreślenia z wykazu z przyczyny, o której mowa w art. 26 pkt 1 lub 5, nie można ubiegać się o ponowny wpis do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
 
@@ -393,6 +438,11 @@ source: "isap-pdf"
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
 **Art. 38b.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), przez osobę, której dane są przetwarzane w związku z realizacją przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zadań w zakresie:
+
+- **1)** prowadzenia postępowań kontrolnych,
+- **2)** prowadzenia centralnego rejestru charakterystyki energetycznej budynków,
+- **3)** wpisywania i aktualizacji danych osób uprawnionych do sporządzania świadectw charakterystyki energetycznej oraz osób uprawnionych do kontroli systemu ogrzewania lub systemu klimatyzacji, spełniających wymagania, o których mowa odpowiednio w art. 17, art. 22, art. 24, art. 27 oraz art. 34, do wykazów osób uprawnionych,
+- **4)** weryfikacji świadectw charakterystyki energetycznej oraz protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji, o których mowa w art. 36 – nie wpływa na realizację zadań w tym zakresie.
 
 #### Rozdział 5 Krajowy plan działań mający na celu zwiększenie liczby budynków o niskim zużyciu energii
 

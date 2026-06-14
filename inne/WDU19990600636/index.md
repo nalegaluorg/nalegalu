@@ -8,7 +8,7 @@ pos: 636
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1999-06-25 |
 | Data wydania | 1999-07-12 |
-| Ostatnia zmiana | 2026-05-05 |
+| Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990600636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/636/text.pdf) |
 
 Art. 71–80. (pominięte)
@@ -39,6 +39,13 @@ Art. 71–80. (pominięte)
 
 **Art. 2.** Świadczenia pieniężne z ubezpieczenia społecznego w razie choroby i macierzyństwa, zwanego dalej „ubezpieczeniem chorobowym”, obejmują:
 
+- **1)** zasiłek chorobowy;
+- **2)** świadczenie rehabilitacyjne;
+- **3)** zasiłek wyrównawczy;
+- **4)** (uchylony)
+- **5)** zasiłek macierzyński;
+- **6)** zasiłek opiekuńczy.
+
 **Art. 2a.**
 
 1. Świadczenia, o których mowa w art. 2 pkt 1, 2, 5 i 6, nie przysługują osobom prowadzącym pozarolniczą działalność i osobom z nimi współpracującym, osobom współpracującym z osobami fizycznymi, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ), duchownym będącym płatnikami składek na własne ubezpieczenia oraz marynarzom, o których mowa w art. 6 ust. 1 pkt 24 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w razie wystąpienia w dniu powstania prawa do świadczenia zadłużenia z tytułu składek na ubezpieczenia społeczne na kwotę przekraczającą 1 % minimalnego wynagrodzenia za pracę ustalonego na podstawie odrębnych przepisów, do czasu spłaty całości zadłużenia.
@@ -46,6 +53,12 @@ Art. 71–80. (pominięte)
 2. Prawo do świadczeń, o których mowa w art. 2 pkt 1, 2, 5 i 6, przedawnia się, jeżeli zadłużenie, o którym mowa w ust. 1, nie zostanie uregulowane w ciągu 6 miesięcy od dnia powstania prawa do świadczenia.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** tytuł ubezpieczenia chorobowego – zatrudnienie lub inną działalność, których podjęcie rodzi obowiązek ubezpieczenia chorobowego lub uprawnienie do objęcia tym ubezpieczeniem na zasadach dobrowolności w rozumieniu przepisów ustawy o systemie ubezpieczeń społecznych;
+- **2)** płatnik składek – płatnika składek na ubezpieczenie chorobowe w rozumieniu przepisów ustawy o systemie ubezpieczeń społecznych;
+- **3)** wynagrodzenie – przychód pracownika stanowiący podstawę wymiaru składek na ubezpieczenie chorobowe, po odliczeniu potrąconych przez pracodawcę składek na ubezpieczenie emerytalne, rentowe oraz ubezpieczenie chorobowe;
+- **4)** przychód – kwotę stanowiącą podstawę wymiaru składek na ubezpieczenie chorobowe ubezpieczonego niebędącego pracownikiem, po odliczeniu kwoty odpowiadającej 13,71 % podstawy wymiaru składki na ubezpieczenie chorobowe;
+- **5)** wypadek w drodze do pracy lub z pracy – zdarzenie, które nastąpiło w drodze do lub z miejsca wykonywania zatrudnienia lub innej działalności stanowiącej tytuł ubezpieczenia chorobowego uznane za wypadek na zasadach określonych w przepisach o emeryturach i rentach z FUS.
 
 #### Rozdział 2 Zasiłek chorobowy
 
@@ -83,6 +96,9 @@ Art. 71–80. (pominięte)
 - **3)** wskutek poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów.
 
 **Art. 7.** Zasiłek chorobowy przysługuje również osobie, która stała się niezdolna do pracy po ustaniu tytułu ubezpieczenia chorobowego, jeżeli niezdolność do pracy trwała bez przerwy co najmniej 30 dni i powstała:
+
+- **1)** nie później niż w ciągu 14 dni od ustania tytułu ubezpieczenia chorobowego;
+- **2)** nie później niż w ciągu 3 miesięcy od ustania tytułu ubezpieczenia chorobowego – w razie choroby zakaźnej, której okres wylęgania jest dłuższy niż 14 dni, lub innej choroby, której objawy chorobowe ujawniają się po okresie dłuższym niż 14 dni od początku choroby.
 
 **Art. 7a.** Przepis art. 7 stosuje się odpowiednio do żołnierza zwolnionego z czynnej służby wojskowej, z tym że podstawę obliczenia wysokości zasiłku chorobowego stanowi kwota minimalnego wynagrodzenia za pracę.
 
@@ -813,6 +829,10 @@ Art. 71–80. (pominięte)
 
 **Art. 59a.** Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
 
+- **1)** tryb i sposób orzekania o czasowej niezdolności do pracy oraz wystawiania zaświadczenia lekarskiego i zaświadczenia, o którym mowa w art. 59 ust. 8,
+- **2)** sposób dokumentowania orzeczonej niezdolności do pracy,
+- **3)** tryb i sposób sprostowania błędu w zaświadczeniu lekarskim oraz przekazywania ubezpieczonemu i płatnikowi składek informacji o stwierdzeniu nieważności zaświadczenia lekarskiego, w którym został popełniony błąd, i wydruku nowego zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 – mając na uwadze konieczność zapewnienia prawidłowego i sprawnego orzekania o czasowej niezdolności do pracy, jednolitości trybu i sposobu wystawiania zaświadczeń lekarskich i zaświadczeń, o których mowa w art. 59 ust. 8, oraz sposobu dokumentowania orzeczonej niezdolności do pracy, a także sprawnego sprostowania błędów w wystawionych zaświadczeniach lekarskich.
+
 **Art. 60.**
 
 1. W przypadku stwierdzenia nieprawidłowości w wystawianiu zaświadczeń lekarskich, w szczególności gdy zaświadczenie lekarskie zostało wystawione:
@@ -869,6 +889,42 @@ Art. 71–80. (pominięte)
 2. Zakład Ubezpieczeń Społecznych, w celu ustalenia prawa do zasiłku i jego wypłaty, może pozyskiwać dane i informacje w zakresie niezbędnym do ustalenia prawa do zasiłków, ich wysokości, podstawy wymiaru oraz do ich wypłat od ubezpieczonych oraz płatników składek, którzy są obowiązani bezpłatnie je udostępnić.
 
 **Art. 61b.** [1. Postępowanie w sprawie przyznania i wypłaty zasiłku wszczyna się na wniosek złożony w formie pisemnej lub w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych, na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych.] <1. Postępowanie w sprawie przyznania i wypłaty zasiłku wszczyna się na wniosek złożony:
+
+- **1)** w postaci papierowej lub w postaci elektronicznej – jeżeli płatnikiem zasiłku jest płatnik składek;
+- **2)** w postaci papierowej lub w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych – jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych.> [2. Postępowanie w sprawie przyznania i wypłaty zasiłku chorobowego lub zasiłku opiekuńczego z tytułu opieki nad chorym członkiem rodziny wszczyna się:
+- **1)** jeżeli płatnikiem zasiłku jest płatnik składek:
+    - **a)** posiadający profil informacyjny płatnika składek, na podstawie: – zaświadczenia lekarskiego w formie dokumentu elektronicznego, o którym mowa w art. 55 ust. 1, otrzymanego na tym profilu, – wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, przekazanych przez ubezpieczonego,
+    - **b)** nieposiadający profilu informacyjnego płatnika składek – na podstawie wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, przekazanych przez ubezpieczonego;
+
+- **2)** jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych – na podstawie wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, albo wniosku, o którym mowa w ust. 1, przekazanych przez ubezpieczonego albo płatnika składek upoważnionego przez ubezpieczonego.] <2. Postępowanie w sprawie przyznania i wypłaty zasiłku chorobowego wszczyna się:
+- **1)** jeżeli płatnikiem zasiłku jest płatnik składek – na podstawie:
+    - **a)** zaświadczenia lekarskiego, o którym mowa w art. 55 ust. 1, udostępnionego na profilu informacyjnym płatnika składek albo
+    - **b)** wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, dostarczonych przez ubezpieczonego;
+
+- **2)** jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych – na podstawie:
+    - **a)** wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, dostarczonych przez ubezpieczonego albo płatnika składek upoważnionego przez ubezpieczonego, albo
+    - **b)** wniosku, o którym mowa w ust. 1 pkt 2.> <2a. Postępowanie w sprawie przyznania i wypłaty zasiłku opiekuńczego z tytułu opieki nad chorym członkiem rodziny wszczyna się:
+
+- **1)** jeżeli płatnikiem zasiłku jest płatnik składek – na podstawie:
+    - **a)** zaświadczenia lekarskiego, o którym mowa w art. 55 ust. 1, udostępnionego na profilu informacyjnym płatnika składek albo
+    - **b)** wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, dostarczonych przez ubezpieczonego,
+    - **c)** wniosku, o którym mowa w ust. 1 pkt 1;
+
+- **2)** jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych – na podstawie:
+    - **a)** wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, dostarczonych przez ubezpieczonego albo płatnika składek upoważnionego przez ubezpieczonego,
+    - **b)** wniosku, o którym mowa w ust. 1 pkt 2.>
+
+3. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** dane ubezpieczonego – pierwsze imię, nazwisko, numer PESEL albo serię i numer paszportu i datę urodzenia, jeżeli nie nadano numeru PESEL, oraz adres zamieszkania;
+- **2)** dane płatnika składek – NIP lub numer PESEL albo serię i numer paszportu, jeżeli nie ma obowiązku posługiwania się NIP i nie nadano numeru PESEL;
+- **3)** informacje o okolicznościach mających wpływ na prawo do zasiłku lub jego wysokość. [4. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty niezbędne do przyznania i wypłaty zasiłku.] <4. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty niezbędne do przyznania i wypłaty zasiłku lub kopie tych dokumentów potwierdzone za zgodność z oryginałem, lub elektroniczne kopie tych dokumentów.> 4a. Do wniosku w sprawie przyznania i wypłaty zasiłku macierzyńskiego dla ubezpieczonego – rodzica dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2024 r. poz. 1829), dołącza się oświadczenie tego ubezpieczonego o posiadaniu przez dziecko takiego zaświadczenia.
+
+5. W przypadku ubezpieczonych, o których mowa w art. 61 ust. 1 pkt 2 lit. a, płatnik składek przekazuje do Zakładu Ubezpieczeń Społecznych wniosek, wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenie lekarskie, o którym mowa w art. 55a ust. 7, wraz z dokumentami niezbędnymi do przyznania i wypłaty zasiłku niezwłocznie, nie później niż w terminie 7 dni od dnia ich otrzymania. <5a. W przypadku, o którym mowa w ust. 5, wnioski oraz dokumenty niezbędne do przyznania i wypłaty zasiłku, stanowiące załącznik do wniosku złożonego w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych, są równoważne pod względem skutków prawnych dokumentowi opatrzonemu przez ubezpieczonego własnoręcznym podpisem.
+
+5b. W przypadku wątpliwości co do zgodności kopii wniosku o zasiłek lub dokumentów niezbędnych do przyznania i wypłaty zasiłku z oryginałem płatnik zasiłku może żądać przedłożenia oryginału wniosku o zasiłek lub dokumentów niezbędnych do przyznania i wypłaty zasiłku.>
+
+6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, zakres informacji o okolicznościach mających wpływ na prawo do zasiłku lub jego wysokość, o których mowa w ust. 3 pkt 3, oraz dokumenty niezbędne do przyznania i wypłaty zasiłków, o których mowa w ust. 4, mając na uwadze konieczność zapewnienia sprawnego i terminowego ustalania prawa do zasiłków i dokonywania ich wypłaty.
 
 **Art. 62.**
 
@@ -1008,6 +1064,10 @@ Art. 71–80. (pominięte)
 
 **Art. 68d.** Osoba kontrolowana jest obowiązana do:
 
+- **1)** umożliwienia przeprowadzenia kontroli;
+- **2)** udostępnienia kontrolującemu na jego żądanie informacji w zakresie kontroli;
+- **3)** składania wyjaśnień w zakresie kontroli na żądanie kontrolującego.
+
 **Art. 68e.**
 
 1. Ustalenia kontroli opisuje się w protokole kontroli, który zawiera:
@@ -1093,4 +1153,8 @@ Art. 71–80. (pominięte)
 2. Do czasu wydania przepisów wykonawczych przewidzianych w ustawie pozostają w mocy przepisy aktów wykonawczych wydane na podstawie ustawy wymienionej w ust. 1 pkt 1, jeżeli nie są sprzeczne z przepisami niniejszej ustawy.
 
 **Art. 86.** Ustawa wchodzi w życie z dniem 1 września 1999 r., z tym że:
+
+- **1)** art. 54, 56, 59, 79 i 83 wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 80 wchodzi w życie z dniem 1 listopada 1999 r.
+
 

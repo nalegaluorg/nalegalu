@@ -1,4 +1,6 @@
 saos_id|date|court|case_number|type|score|saos_url
+545302|2026-03-13|SO|I AGa 98/25|Wyrok|56|https://www.saos.org.pl/judgments/545302
+545301|2026-03-10|SO|I AGa 173/25|Wyrok|56|https://www.saos.org.pl/judgments/545301
 528170|2024-06-05|SO|I AGa 216/22|Wyrok|56|https://www.saos.org.pl/judgments/528170
 525291|2024-06-03|SO|I AGa 53/24|Wyrok|56|https://www.saos.org.pl/judgments/525291
 534937|2024-04-12|SO|V AGa 337/20|Wyrok|56|https://www.saos.org.pl/judgments/534937
@@ -48,6 +50,7 @@ saos_id|date|court|case_number|type|score|saos_url
 463013|2021-12-30|SO|II Ca 690/21|Wyrok|40|https://www.saos.org.pl/judgments/463013
 452429|2021-10-19|SO|I C 80/19|Wyrok|40|https://www.saos.org.pl/judgments/452429
 442086|2021-05-28|SO|XIV C 636/18|Wyrok|40|https://www.saos.org.pl/judgments/442086
+545145|2021-04-29|SO|I C 120/19|Wyrok|40|https://www.saos.org.pl/judgments/545145
 452223|2021-04-21|SO|I C 1336/18|Wyrok|40|https://www.saos.org.pl/judgments/452223
 436087|2021-03-05|SO|I C 266/19|Wyrok|40|https://www.saos.org.pl/judgments/436087
 437568|2021-01-28|SO|II C 1080/19|Wyrok|40|https://www.saos.org.pl/judgments/437568

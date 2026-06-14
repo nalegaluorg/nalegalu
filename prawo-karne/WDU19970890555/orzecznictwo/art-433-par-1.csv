@@ -536,10 +536,16 @@ saos_id|date|court|case_number|type|score|saos_url
 81862|2003-02-20|SN|II KK 113/02|Postanowienie|69|https://www.saos.org.pl/judgments/81862
 81704|2002-11-22|SN|III DS 15/02|Postanowienie|69|https://www.saos.org.pl/judgments/81704
 81044|2001-12-04|SN|II KKN 175/99|Postanowienie|69|https://www.saos.org.pl/judgments/81044
+545383|2026-03-26|SO|III APo 4/25|Wyrok|56|https://www.saos.org.pl/judgments/545383
+545019|2026-01-05|SO|II AKa 175/25|Wyrok|56|https://www.saos.org.pl/judgments/545019
+546710|2025-09-30|SO|II AKa 218/25|Wyrok|56|https://www.saos.org.pl/judgments/546710
 536106|2025-07-31|SO|II AKa 320/24|Wyrok|56|https://www.saos.org.pl/judgments/536106
 535485|2025-07-24|SO|II AKa 275/24|Wyrok|56|https://www.saos.org.pl/judgments/535485
+545762|2025-07-21|SO|II AKa 462/24|Wyrok|56|https://www.saos.org.pl/judgments/545762
+545750|2025-06-26|SO|II AKa 148/25|Wyrok|56|https://www.saos.org.pl/judgments/545750
 543168|2025-06-04|SO|II AKa 145/25|Wyrok|56|https://www.saos.org.pl/judgments/543168
 543164|2025-06-04|SO|II AKa 102/25|Wyrok|56|https://www.saos.org.pl/judgments/543164
+545277|2025-03-26|SO|II AKa 508/24|Wyrok|56|https://www.saos.org.pl/judgments/545277
 534177|2025-03-26|SO|II AKa 472/24|Wyrok|56|https://www.saos.org.pl/judgments/534177
 533117|2025-03-18|SO|II AKa 28/25|Wyrok|56|https://www.saos.org.pl/judgments/533117
 532730|2025-03-12|SO|II AKa 41/25|Wyrok|56|https://www.saos.org.pl/judgments/532730
@@ -997,6 +1003,7 @@ saos_id|date|court|case_number|type|score|saos_url
 525708|2015-05-15|SO|II AKa 46/15|Uzasadnienie|42|https://www.saos.org.pl/judgments/525708
 148050|2015-03-19|SO|II AKa 13/15|Uzasadnienie|42|https://www.saos.org.pl/judgments/148050
 135671|2012-08-28|SO|II AKa 74/12|Uzasadnienie|42|https://www.saos.org.pl/judgments/135671
+547116|2026-06-08|SO|VI Ka 1518/25|Wyrok|40|https://www.saos.org.pl/judgments/547116
 539423|2025-12-19|SO|VI Ka 565/25|Wyrok|40|https://www.saos.org.pl/judgments/539423
 535075|2025-09-12|SO|VI Ka 1307/24|Wyrok|40|https://www.saos.org.pl/judgments/535075
 535960|2025-09-05|SO|VI Ka 1424/23|Wyrok|40|https://www.saos.org.pl/judgments/535960

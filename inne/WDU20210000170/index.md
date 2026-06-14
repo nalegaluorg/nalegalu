@@ -8,7 +8,7 @@ pos: 170
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
@@ -33,6 +33,10 @@ Art. 61–124. (pominięte)
 
 **Art. 1.** Ustawa reguluje zasady:
 
+- **1)** tymczasowego zarządzania przedsiębiorstwem po śmierci przedsiębiorcy, który we własnym imieniu wykonywał działalność gospodarczą na podstawie wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, zwanej dalej „CEIDG”, oraz kontynuowania działalności gospodarczej wykonywanej z wykorzystaniem tego przedsiębiorstwa;
+- **2)** zarządu spadkiem w zakresie tymczasowego wykonywania praw z udziału w przedsiębiorstwie małżonka przedsiębiorcy, wykonującego we własnym imieniu działalność gospodarczą na podstawie wpisu do CEIDG, po śmierci tego małżonka;
+- **3)** przejęcia koncesji, zezwoleń, licencji oraz pozwoleń, wydanych wobec przedsiębiorcy, wykonującego we własnym imieniu działalność gospodarczą na podstawie wpisu do CEIDG, w formie decyzji organu administracji publicznej, związanych z wykonywaną przez niego działalnością gospodarczą, zwanych dalej „decyzjami związanymi z przedsiębiorstwem”.
+
 #### Rozdział 1a Przedsiębiorstwo w spadku
 
 **Art. 2.**
@@ -46,6 +50,10 @@ Art. 61–124. (pominięte)
 4. W przypadkach, o których mowa w rozdziale 8, przepisy ustawy odnoszące się do przedsiębiorstwa w spadku stosuje się odpowiednio do udziału przedsiębiorcy w majątku wspólnym wspólników spółki cywilnej.
 
 **Art. 3.** Właścicielem przedsiębiorstwa w spadku w rozumieniu ustawy jest:
+
+- **1)** osoba, która zgodnie z prawomocnym postanowieniem o stwierdzeniu nabycia spadku, zarejestrowanym aktem poświadczenia dziedziczenia albo europejskim poświadczeniem spadkowym, nabyła składniki niematerialne i materialne, o których mowa w art. 2 ust. 1, na podstawie powołania do spadku z ustawy albo testamentu albo nabyła przedsiębiorstwo albo udział w przedsiębiorstwie na podstawie zapisu windykacyjnego;
+- **2)** małżonek przedsiębiorcy w przypadku, o którym mowa w art. 2 ust. 2, któremu przysługuje udział w przedsiębiorstwie w spadku;
+- **3)** osoba, która nabyła przedsiębiorstwo w spadku albo udział w przedsiębiorstwie w spadku bezpośrednio od osoby, o której mowa w pkt 1 lub 2, w tym osoba prawna albo jednostka organizacyjna, o której mowa w art. 33 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, do której wniesiono przedsiębiorstwo tytułem wkładu – w przypadku gdy po śmierci przedsiębiorcy nastąpiło zbycie tego przedsiębiorstwa albo udziału w tym przedsiębiorstwie.
 
 **Art. 4.** Wielkość udziałów w przedsiębiorstwie w spadku ustala się według wielkości udziałów spadkowych lub udziałów we współwłasności przedsiębiorstwa.
 
@@ -269,6 +277,9 @@ Art. 61–124. (pominięte)
 
 **Art. 36.** Jeżeli odrębne przepisy nie stanowią inaczej, przepisy niniejszego rozdziału stosuje się do decyzji związanych z przedsiębiorstwem, z wyłączeniem przypadków, gdy:
 
+- **1)** zgodnie z odrębnymi przepisami decyzja może zostać wydana wyłącznie wobec osoby fizycznej;
+- **2)** prawa i obowiązki wynikające z decyzji przechodzą z mocy prawa na następców prawnych przedsiębiorcy z chwilą jego śmierci.
+
 **Art. 37.**
 
 1. W przypadku śmierci przedsiębiorcy decyzja związana z przedsiębiorstwem wygasa:
@@ -373,7 +384,14 @@ Art. 61–124. (pominięte)
 
 **Art. 45a.** Jeżeli odrębne przepisy nie stanowią inaczej, przepisy niniejszego rozdziału stosuje się do decyzji związanych z przedsiębiorstwem, z wyłączeniem przypadków, gdy:
 
+- **1)** zgodnie z odrębnymi przepisami decyzja może zostać wydana wyłącznie wobec osoby fizycznej;
+- **2)** prawa i obowiązki wynikające z decyzji przechodzą z mocy prawa na nabywcę przedsiębiorstwa.
+
 **Art. 45b.** Nabywcą przedsiębiorstwa w rozumieniu przepisów niniejszego rozdziału jest przedsiębiorca, który na podstawie umowy nabył przedsiębiorstwo w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny w całości, w tym osoba prawna albo jednostka organizacyjna, o której mowa w art. 33 § 1 tej ustawy, do której wniesiono przedsiębiorstwo tytułem wkładu, jeżeli nabycie przedsiębiorstwa nastąpiło bezpośrednio od:
+
+- **1)** przedsiębiorcy wykonującego we własnym imieniu działalność gospodarczą na podstawie wpisu do CEIDG;
+- **2)** przedsiębiorcy wykonującego we własnym imieniu działalność gospodarczą na podstawie wpisu do CEIDG i jego małżonka;
+- **3)** przedsiębiorców będących wspólnikami spółki cywilnej.
 
 **Art. 45c.**
 
@@ -432,6 +450,15 @@ Art. 61–124. (pominięte)
 
 **Art. 49.** Przedsiębiorstwo w spadku jest jednostką organizacyjną niemającą osobowości prawnej, będącą podatnikiem, o którym mowa w:
 
+- **1)** art. 1a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm. );
+- **2)** art. 1a ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2020 r. poz. 1905 i 2123);
+- **3)** art. 15 ust. 1a oraz art. 17 ust. 1i ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106, 568, 1065, 1106 i 1747);
+- **4)** art. 3 ust. 4 ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. z 2020 r. poz. 1443 i 2123);
+- **5)** art. 13 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722 i 1747);
+- **6)** art. 71 ust. 1a ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2020 r. poz. 2094);
+- **7)** art. 8 ust. 4 ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. z 2020 r. poz. 1084 i
+- **2123)** .
+
 **Art. 50.** Przedsiębiorstwo w spadku uznaje się także za jednostkę organizacyjną niemającą osobowości prawnej, o której mowa w art. 5 ust. 1 ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2020 r. poz. 1546, 1565 i 2023).
 
 #### Rozdział 10 Odwołanie zarządcy sukcesyjnego i inne zdarzenia powodujące utratę umocowania do pełnienia tej funkcji
@@ -441,6 +468,12 @@ Art. 61–124. (pominięte)
 **Art. 52.** Zarządca sukcesyjny może zrezygnować z pełnienia tej funkcji, składając oświadczenie przedsiębiorcy w formie pisemnej pod rygorem nieważności.
 
 **Art. 53.** Zarządca sukcesyjny przestaje pełnić tę funkcję z:
+
+- **1)** dniem śmierci,
+- **2)** dniem ograniczenia lub utraty zdolności do czynności prawnych,
+- **3)** chwilą odwołania,
+- **4)** upływem terminu, o którym mowa w art. 57 ust. 2, a jeżeli wcześniej powołano kolejnego zarządcę sukcesyjnego – z chwilą powołania kolejnego zarządcy sukcesyjnego,
+- **5)** dniem uprawomocnienia się orzeczenia o zakazie, o którym mowa w art. 8 ust. 2 – jednak nie później niż z dniem wygaśnięcia zarządu sukcesyjnego.
 
 **Art. 54.** W przypadku zajścia zdarzeń, o których mowa w art. 53, do powołania kolejnego zarządcy sukcesyjnego przepisy art. 12 ust. 1–9 stosuje się odpowiednio, chyba że przedsiębiorca powołał zarządcę sukcesyjnego, o którym mowa w art. 11 ust. 2. Uprawnienie do powołania kolejnego zarządcy sukcesyjnego wygasa z upływem miesiąca od dnia, w którym poprzedni zarządca sukcesyjny został wykreślony z CEIDG.
 
@@ -514,6 +547,12 @@ Art. 61–124. (pominięte)
 
 **Art. 60f.** Tymczasowy przedstawiciel przestaje pełnić funkcję z:
 
+- **1)** dniem śmierci,
+- **2)** dniem ograniczenia lub utraty zdolności do czynności prawnych,
+- **3)** chwilą odwołania,
+- **4)** po upływie dwóch tygodni od złożenia rezygnacji, z uwzględnieniem art. 60g ust. 2,
+- **5)** dniem ogłoszenia testamentu, w którym spadkodawca powołał wykonawcę testamentu, jeżeli jego umocowanie obejmuje zarząd udziałem małżonka w przedsiębiorstwie – jednak nie później niż z dniem wygaśnięcia umocowania do pełnienia funkcji tymczasowego przedstawiciela.
+
 **Art. 60g.**
 
 1. Do odwołania tymczasowego przedstawiciela po śmierci małżonka przedsiębiorcy stosuje się odpowiednio przepisy art. 12 ust. 1, 2 i 4–7 oraz art. 55 ust. 2.
@@ -521,6 +560,10 @@ Art. 61–124. (pominięte)
 2. Tymczasowy przedstawiciel może zrezygnować z pełnienia funkcji, składając oświadczenie przed notariuszem. W takim przypadku tymczasowy przedstawiciel obowiązany jest działać jeszcze przez dwa tygodnie, chyba że wcześniej został powołany kolejny tymczasowy przedstawiciel.
 
 **Art. 60h.** Umocowanie do pełnienia funkcji tymczasowego przedstawiciela wygasa z:
+
+- **1)** dniem uprawomocnienia się postanowienia o stwierdzeniu nabycia spadku, zarejestrowania aktu poświadczenia dziedziczenia albo wydania europejskiego poświadczenia spadkowego, jeżeli jeden spadkobierca albo zapisobierca windykacyjny nabył udział małżonka przedsiębiorcy w przedsiębiorstwie w całości;
+- **2)** dniem nabycia udziału małżonka przedsiębiorcy w przedsiębiorstwie w całości przez jedną osobę;
+- **3)** dniem dokonania działu spadku obejmującego udział małżonka przedsiębiorcy w przedsiębiorstwie.
 
 **Art. 60i.**
 
@@ -563,4 +606,8 @@ Art. 61–124. (pominięte)
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ustawy zmienianej w art. 105, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ustawy zmienianej w art. 105, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2018 r., i mogą być zmieniane.
 
 **Art. 135.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 30, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **2)** art. 122, który wchodzi w życie z dniem 1 października 2018 r.
+
 

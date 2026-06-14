@@ -1,0 +1,183 @@
+---
+title: Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2015 r. zmieniające rozporządzenie w sprawie potwierdzania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin
+address: WDU20150000828
+eli: DU/2015/828
+publisher: DU
+year: 2015
+pos: 828
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 828 RozpoRządzenie MinistRa Rolnictwa i Rozwoju wsi z dnia 19 maja 2015 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 828 |
+| ISAP | WDU20150000828 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-05-19 |
+| Data wydania | 2015-06-16 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/828/text.pdf) |
+
+zmieniające rozporządzenie w sprawie potwierdzania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin Na podstawie art. 54 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2015 r. poz. 547) co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 grudnia 2013 r. w sprawie potwierdzania technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin (Dz. U. poz. 1686) wprowadza się zmiany:
+1) po § 3 dodaje się § 3a i 3b w brzmieniu: „§ 3a. Do prowadzenia badań sprawności technicznej urządzeń przeznaczonych do zaprawiania nasion, przemysłowe, zwanych dalej „zaprawiarkami do nasion”, oraz samobieżnego lub ciągnikowego sprzętu nego do stosowania środków ochrony roślin w formie granulatu podmiot przeprowadzający badania tego pewnia wyposażenie techniczne, o którym mowa w § 3 ust. 1 pkt 1 i 2.
+§ 3b. Do prowadzenia badań sprawności technicznej:
+1) instalacji przeznaczonych do stosowania środków ochrony roślin w formie oprysku lub zamgławiania niach lub tunelach foliowych, zwanych dalej „opryskiwaczami szklarniowymi”,
+2) sprzętu przeznaczonego do stosowania środków ochrony roślin w formie oprysku, niewymienionego ust. 1, § 3 ust. 1, § 3a oraz w § 4, innego niż opryskiwacze ręczne i plecakowe, którego pojemność przekracza 30 litrów, zwanego dalej „pozostałym sprzętem do stosowania środków ochrony roślin” – podmiot przeprowadzający badania tego sprzętu zapewnia wyposażenie techniczne oraz sprzęt diagnostyczny, o których mowa w § 3.”;
+2) w § 6 w ust. 3 w pkt 3 dodaje się przecinek i pkt 4–7 w brzmieniu: „4) zaprawiarek do nasion,
+5) opryskiwaczy szklarniowych,
+6) samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin w formie
+7) pozostałego sprzętu do stosowania środków ochrony roślin”;
+Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa (Dz. U. poz. 1261).
+Rozporządzenie wdraża częściowo postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/128/WE z dnia 2009 r. ustanawiającej ramy wspólnotowego działania na rzecz zrównoważonego stosowania pestycydów (Dz.
+z 24.11.2009, str. 71, z późn. zm.).
+Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 7 stycznia 2015 r. pod numerem 2015/0009/PL, z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie pisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).
+3) w § 7:
+a) pkt 1 otrzymuje brzmienie: „1) sprzętu agrolotniczego, opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach jowych, innego sprzętu kolejowego przeznaczonego do stosowania środków ochrony roślin, do nasion oraz samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków roślin w formie granulatu, na otwartej przestrzeni, przy dodatniej temperaturze powietrza oraz opadów atmosferycznych;”,
+b) w pkt 2 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) opryskiwaczy szklarniowych oraz pozostałego sprzętu do stosowania środków ochrony roślin:
+a) w miejscach osłoniętych od wiatru, przy dodatniej temperaturze powietrza oraz – w przypadku niezadaszonych – przy braku opadów atmosferycznych,
+b) w gospodarstwie posiadacza tego sprzętu przy zachowaniu warunków, o których mowa w lit. a.”;
+4) w § 8 w ust. 3 po pkt 3 dodaje się pkt 3a–3d w brzmieniu: „3a) zaprawiarek do nasion jest określona w załączniku nr 5a do rozporządzania;
+3b) opryskiwaczy szklarniowych jest określona w załączniku nr 5b do rozporządzenia;
+3c) samobieżnego lub ciągnikowego sprzętu przeznaczonego do stosowania środków ochrony roślin nulatu jest określona w załączniku nr 5c do rozporządzenia;
+3d) pozostałego sprzętu do stosowania środków ochrony roślin jest określona w załączniku nr 5d do rozporządzenia;”;
+5) w § 13 w pkt 1 w lit. d tiret drugie otrzymuje brzmienie: „– odchylenia objętości cieczy od wartości średniej wynoszące 15%;”;
+6) w załączniku nr 2 do rozporządzenia lp. 9 otrzymuje brzmienie: 9 Linie pomocnicze na cylindrach mia- odchylenia objętości rowych ręcznego stołu rowkowego cieczy od wartości średniej wynoszące 15% oraz linie wskazujące średnią objętość cieczy zbieranej podczas pomiaru
+7) w załączniku nr 3 do rozporządzenia lp. 2.8.3.1 – 2.8.3.3 otrzymują brzmienie: przy użyciu ręcznego Pomiar nierównomierności rozkładu poprzecznego cieczy przy
+2.8.3.1 rowkowego; błąd pomiaru nominalnej wartości ciśnienia roboczego dla badanych rozpylaczy powinien przekraczać przy użyciu elektronicznego rowkowego; błąd pomiaru Pomiar współczynnika nierównomierności rozkładu poprzecznego cieczy
+2.8.3.2 natężeniu przepływu nominalnej wartości ciśnienia roboczego dla badanych rozpylaczy wynoszącym 300 ml/min powinien przekraczać Jednoczesny pomiar natężenia wypływu cieczy z rozpylaczy przy użyciu urządzenia zainstalowanych na sekcji belki polowej opryskiwacza albo pomiaru natężenia wypływu
+2.8.3.3 zdemontowanych z belki polowej opryskiwacza przy nominalnej wartości cieczy z rozpylaczy; błąd ciśnienia roboczego dla badanych rozpylaczy nie powinien przekraczać
+8) w załączniku nr 4 do rozporządzenia lp. 2.7.3 otrzymuje brzmienie: Jednoczesny pomiar natężenia wypływu cieczy z rozpylaczy przy użyciu urządzenia zainstalowanych na belce opryskowej opryskiwacza kolejowego albo pomiaru natężenia wypływu
+2.7.3 zdemontowanych z belki opryskowej opryskiwacza kolejowego przy cieczy z rozpylaczy;
+ciśnieniu roboczym stosowanym dla badanych rozpylaczy nie powinien przekraczać
+9) w załączniku nr 5 do rozporządzenia lp. 2.7.3 otrzymuje brzmienie: Jednoczesny pomiar natężenia wypływu cieczy z rozpylaczy przy użyciu urządzenia zainstalowanych na belce opryskowej opryskiwacza kolejowego albo pomiaru natężenia wypływu
+2.7.3 zdemontowanych z belki opryskowej opryskiwacza kolejowego przy cieczy z rozpylaczy;
+ciśnieniu roboczym stosowanym dla badanych rozpylaczy nie powinien przekraczać
+10) po załączniku nr 5 dodaje się:
+a) załącznik nr 5a do rozporządzenia w brzmieniu określonym w załączniku nr 1 do niniejszego rozporządzenia,
+b) załącznik nr 5b do rozporządzenia w brzmieniu określonym w załączniku nr 2 do niniejszego rozporządzenia,
+c) załącznik nr 5c do rozporządzenia w brzmieniu określonym w załączniku nr 3 do niniejszego rozporządzenia,
+d) załącznik nr 5d do rozporządzenia w brzmieniu określonym w załączniku nr 4 do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Rolnictwa i Rozwoju Wsi: Załączniki do rozporządzenia z dnia 19 maja 2015 r.(Dz. U. poz.
+Załącznik nr METODYKA METODYKA BADANIA BADANIA ZAPRAWIAREK ZAPRAWIAREK DO DO NASION NASION Sposób przeprowadzania Lp. Etap badania zaprawiarek do nasion zaprawiarek do nasion 1 Badanie ogólne Sprawdzenie kompletności, stanu technicznego i zamocowania osłon
+1.1 oględziny elementów wirujących Sprawdzenie zamocowania zbiornika na środek ochrony roślin lub ciecz
+1.2 oględziny użytkową Sprawdzenie stanu technicznego części i urządzeń wpływających na jakość wykonywanych zabiegów lub na bezpieczeństwo operatora i
+1.3 środowiska, w tym łańcuchów, przekładni, przenośników, sprzęgieł, oględziny węży hydraulicznych, zbiornika na środek ochrony roślin lub ciecz użytkową, połączeń mechanicznych, zaworów Sprawdzenie szczelności zbiornika na środek ochrony roślin lub ciecz
+1.4 oględziny użytkową
+1.5 Sprawdzenie czystości oględziny 2 Badanie stanu technicznego poszczególnych części i urządzeń
+2.1 Zbiornik na środek ochrony roślin albo ciecz użytkową Sprawdzenie stanu technicznego i zamocowania zamknięcia zbiornika
+2.1.1 oględziny zaprawiarki
+2.2 Urządzenia pomiarowo-sterujące Sprawdzenie działania oraz stanu technicznego zaworów i urządzeń
+2.2.1 badanie funkcjonalne kontrolnych – w przypadku wyposażenia w takie urządzenia i oględziny Sprawdzenie działania oraz stanu technicznego zaworu
+2.2.2 badanie funkcjonalne bezpieczeństwa – w przypadku wyposażenia w taki zawór i oględziny Sprawdzenie działania oraz stanu technicznego urządzeń kontrolnych
+2.2.3 badanie funkcjonalne (np. manometru) – w przypadku wyposażenia w takie urządzenia i oględziny
+2.3 Układ cieczowy Sprawdzenie szczelności, zamocowania oraz stanu technicznego
+2.3.1 badanie funkcjonalne elementów układu cieczowego i oględziny Sprawdzenie zabezpieczenia elementów konstrukcyjnych przed
+2.3.2 oględziny opryskaniem cieczą użytkową
+2.4 System filtracji Sprawdzenie kompletności i stanu technicznego filtrów – w przypadku
+2.4.1 oględziny wyposażenia w filtry
+2.4.2 Sprawdzenie stanu technicznego urządzeń odpylających oględziny
+2.5 Komora zraszania lub komora mieszania
+2.5.1 Sprawdzenie stanu technicznego komory zraszania lub komory oględziny mieszania
+2.5.2 Sprawdzenie stanu technicznego dozownika środka ochrony roślin oględziny Sprawdzenie działania oraz stanu technicznego zespołu
+2.5.3 badanie funkcjonalne opróżniającego komorę mieszania – w przypadku wyposażenia w taki i oględziny zespół
+2.6 Mieszadło zaprawiarki
+2.6.1 Sprawdzenie stanu technicznego mieszadła zaprawiarki oględziny Sprawdzenie działania badanego urządzenia w czasie jego normalnej pracy, bez użycia sprzętu diagnostycznego.
+Załącznik nr METODYKA METODYKA BADANIA BADANIA OPRYSKIWACZY OPRYSKIWACZY SZKLARNIOWYCH SZKLARNIOWYCH Lp. Etap badania opryskiwaczy szklarniowych Sposób przeprowadzania 1 Badanie ogólne Sprawdzenie kompletności, stanu technicznego i zamocowania osłon
+1.1 oględziny elementów wirujących Sprawdzenie zamocowania zbiornika na środek ochrony roślin lub ciecz
+1.2 oględziny użytkową Sprawdzenie stanu technicznego części i urządzeń wpływających na jakość wykonywanych zabiegów lub na bezpieczeństwo operatora i
+1.3 środowiska, w tym łańcuchów, przekładni, przenośników, sprzęgieł, oględziny węży hydraulicznych, zbiornika na środek ochrony roślin lub ciecz użytkową, połączeń mechanicznych, zaworów Sprawdzenie szczelności zbiornika na środek ochrony roślin lub ciecz
+1.4 oględziny użytkową
+1.5 Sprawdzenie czystości oględziny 2 Badanie stanu technicznego poszczególnych części i urządzeń
+2.1 Zbiornik na środek ochrony roślin albo ciecz użytkową Sprawdzenie stanu technicznego i zamocowania pokrywy otworu
+2.1.1 oględziny wlewowego Sprawdzenie działania oraz stanu technicznego zaworu spustowego do
+2.1.2 badanie funkcjonalne opróżniania zbiornika i oględziny Sprawdzenie działania i czytelności wskaźnika poziomu cieczy
+2.1.3 oględziny użytkowej Sprawdzenie działania oraz stanu technicznego systemu
+2.1.4 badanie funkcjonalne powodującego efekt mieszania cieczy użytkowej w zbiorniku i oględziny Sprawdzenie systemu uniemożliwiającego powstanie nadciśnienia albo
+2.1.5 oględziny podciśnienia w zbiorniku
+2.2 Pompa
+2.2.1 Sprawdzenie szczelności pompy oględziny
+2.2.2 Sprawdzenie układu smarowania oględziny
+2.2.3 Sprawdzenie działania systemu tłumienia pulsacji cieczy użytkowej badanie funkcjonalne i oględziny Sprawdzenie działania oraz stanu technicznego zaworu
+2.2.4 bezpieczeństwa – w przypadku opryskiwaczy wyposażonych w taki badanie funkcjonalne i oględziny zawór
+2.3 Urządzenia pomiarowo-sterujące
+2.3.1 Sprawdzenie zakresu wskazań manometru oględziny
+2.3.2 Sprawdzenie działania oraz stanu technicznego manometru oględziny przy użyciu stanowiska Pomiar błędu pomiaru ciśnienia roboczego przez manometr lub inne
+2.3.3 do sprawdzania manometru urządzenie pomiarowe przy ciśnieniu roboczym wynoszącym: 1 i 5 bar opryskiwacza
+2.3.4 Sprawdzenie stabilności wskazówki manometru badanie funkcjonalne
+2.3.5 Sprawdzenie działania oraz stanu technicznego zaworów i urządzeń badanie funkcjonalne kontrolnych i oględziny
+2.3.6 Sprawdzenie stabilności i powtarzalności ciśnienia cieczy użytkowej badanie funkcjonalne
+2.3.7 Sprawdzenie działania oraz stanu technicznego zaworów sekcyjnych – badanie funkcjonalne w przypadku opryskiwaczy wyposażonych w takie zawory i oględziny
+2.4 Układ cieczowy Sprawdzenie szczelności, zamocowania oraz stanu technicznego badanie funkcjonalne
+2.4.1 elementów układu cieczowego i oględziny Sprawdzenie zabezpieczenia elementów konstrukcyjnych przed badanie funkcjonalne
+2.4.2 opryskaniem cieczą użytkową i oględziny Sprawdzenie działania oraz stanu technicznego rozwadniacza – w badanie funkcjonalne
+2.4.3 przypadku opryskiwaczy wyposażonych w taki rozwadniacz i oględziny Sprawdzenie działania oraz stanu technicznego urządzenia myjącego badanie funkcjonalne
+2.4.4 opakowania po środkach ochrony roślin – w przypadku opryskiwaczy i oględziny wyposażonych w takie urządzenie Sprawdzenie działania oraz stanu technicznego instalacji do badanie funkcjonalne
+2.4.5 przepłukiwania zbiornika – w przypadku opryskiwaczy wyposażonych w i oględziny taką instalację
+2.5 System filtracji Sprawdzenie kompletności i stanu technicznego filtrów, w tym wielkości
+2.5.1 oględziny oczek filtra po stronie tłocznej pompy
+2.6 Belka opryskowa
+2.6.1 Sprawdzenie stanu technicznego i stabilności belki opryskowej oględziny Sprawdzenie działania oraz stanu technicznego mechanizmu regulacji badanie funkcjonalne
+2.6.2 wysokości belki opryskowej i oględziny badanie funkcjonalne
+2.6.3 Sprawdzenie działania oraz stanu technicznego mechanizmu umożliwiającego składanie belki opryskowej i oględziny badanie funkcjonalne
+2.6.4 Sprawdzenie działania oraz stanu technicznego mechanizmu regulacji głowic opryskowych lub zamgławiających w poziomie i pionie i oględziny
+2.7 Rozpylacze
+2.7.1 Sprawdzenie stanu technicznego, typu oraz rozmiaru filtrów rozpylaczy oględziny
+2.7.2 Sprawdzenie ustawienia rozpylaczy oględziny Jednoczesny pomiar natężenia wypływu cieczy z rozpylaczy przy użyciu urządzenia zainstalowanych na sekcji belki opryskowej albo zdemontowanych z natężenia wypływu cieczy
+2.7.3 belki opryskowej belki opryskiwacza szklarniowego przy nominalnej rozpylaczy; błąd pomiaru wartości ciśnienia roboczego stosowanego dla badanych rozpylaczy powinien przekraczać 2,5% Sprawdzenie działania badanego urządzenia opryskiwacza szklarniowego w czasie jego normalnej pracy, użycia sprzętu diagnostycznego.
+Załącznik nr METODYKA BADANIA SAMOBIEŻNEGO LUB CIĄGNIKOWEGO SPRZĘTU PRZEZNACZONEGO DO STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN W FORMIE METODYKA BADANIA SAMOBIEŻNEGO LUB CIĄGNIKOWEGO SPRZĘTU PRZEZNACZONEGO DO STOSOWANIA GRANULATU ŚRODKÓW OCHRONY ROŚLIN W FORMIE GRANULATU Etap badania samobieżnego lub ciągnikowego sprzętu przeznaczonego Lp. Sposób przeprowadzania do stosowania środków ochrony roślin w formie granulatu 1 Badanie ogólne Sprawdzenie kompletności, stanu technicznego i zamocowania osłon
+1.1 oględziny elementów wirujących
+1.2 Sprawdzenie zamocowania zbiornika na środek ochrony roślin oględziny
+1.3 Sprawdzenie czystości oględziny 2 Badanie stanu technicznego poszczególnych części i urządzeń
+2.1 Zbiornik na środek ochrony roślin
+2.1.1 Sprawdzenie szczelności zbiornika na środek ochrony roślin oględziny
+2.1.2 Sprawdzenie stanu technicznego i zamocowania pokrywy zbiornika oględziny Sprawdzenie działania oraz stanu technicznego zaworu spustowego
+2.1.3 badanie funkcjonalne zbiornika i oględziny
+2.2 Urządzenia pomiarowo-sterujące Sprawdzenie działania oraz stanu technicznego zaworów i urządzeń
+2.2.1 oględziny kontrolnych
+2.3 Układ dozujący Sprawdzenie działania oraz stanu technicznego układu sterującego
+2.3.1 oględziny dozującego środek ochrony roślin Sprawdzenie działania oraz stanu technicznego układu
+2.3.2 oględziny doprowadzającego środek ochrony roślin
+2.4 Urządzenia zabezpieczające i kontrolno-pomiarowe Sprawdzenie działania oraz stanu technicznego mechanizmu
+2.4.1 zatrzymującego dozowanie granulatu – w przypadku wyposażenia w oględziny taki mechanizm Sprawdzenie działania oraz stanu technicznego urządzeń kontrolno- badanie funkcjonalne
+2.4.2 i oględziny -pomiarowych – w przypadku wyposażenia w takie urządzenia Sprawdzenie działania badanego urządzenia w czasie jego normalnej pracy, bez użycia sprzętu diagnostycznego.
+METODYKA BADANIA POZOSTAŁEGO SPRZĘTU DO STOSOWANIA ŚRODKÓW METODYKA BADANIA POZOSTAŁEGO OCHRONY SPRZĘTU ROŚLIN DO STOSOWANIA ŚRODKÓW OCHRONY Etap badania pozostałego sprzętu do stosowania środków ochrony Lp. Sposób przeprowadzania roślin 1 Badanie ogólne Sprawdzenie kompletności, stanu technicznego i zamocowania osłon
+1.1 oględziny elementów wirujących
+1.2 Sprawdzenie czystości oględziny 2 Badanie stanu technicznego poszczególnych części i urządzeń
+2.1 Zbiornik na środek ochrony roślin albo ciecz użytkową Sprawdzenie szczelności zbiornika na środek ochrony roślin lub ciecz
+2.1.1 oględziny użytkową Sprawdzenie działania i czytelności wskaźnika poziomu cieczy
+2.1.2 badanie funkcjonalne użytkowej i oględziny Sprawdzenie działania oraz stanu technicznego zaworu spustowego do
+2.1.3 opróżniania zbiornika – w przypadku opryskiwaczy wyposażonych w badanie funkcjonalne i oględziny taki zawór
+2.2 Pompa
+2.2.1 Sprawdzenie szczelności oględziny
+2.2.2 Sprawdzenie układu smarowania oględziny Sprawdzenie działania oraz stanu technicznego zaworu badanie funkcjonalne
+2.2.3 bezpieczeństwa – w przypadku opryskiwaczy wyposażonych w taki i oględziny zawór
+2.3 Urządzenia pomiarowo-sterujące
+2.3.1 Sprawdzenie zakresu wskazań manometru oględziny
+2.3.2 Sprawdzenie działania oraz stanu technicznego manometru oględziny przy użyciu stanowiska Pomiar błędu pomiaru ciśnienia roboczego przez manometr przy
+2.3.3 do sprawdzania manometru ciśnieniu roboczym wynoszącym: 1 i 5 bar opryskiwacza
+2.3.4 Sprawdzenie stabilności wskazówki manometru badanie funkcjonalne Sprawdzenie działania oraz stanu technicznego zaworów i urządzeń badanie funkcjonalne
+2.3.5 kontrolnych – w przypadku opryskiwaczy wyposażonych w takie zawory i oględziny i urządzenia
+2.4 Układ cieczowy Sprawdzenie szczelności, zamocowania oraz stanu technicznego badanie funkcjonalne
+2.4.1 elementów układu cieczowego i oględziny Sprawdzenie działania oraz stanu technicznego elementów układu badanie funkcjonalne
+2.4.2 cieczowego i oględziny
+2.5 System filtracji Sprawdzenie kompletności i stanu technicznego filtrów, w tym wielkości
+2.5.1 oględziny oczek filtra po stronie tłocznej pompy
+2.6 Rozpylacze Sprawdzenie stanu technicznego, typu, rozmiaru oraz materiału, z
+2.6.1 oględziny jakiego są wykonane rozpylacze Jednoczesny pomiar natężenia wypływu cieczy z rozpylaczy przy użyciu urządzenia zainstalowanych na belce opryskowej opryskiwacza albo natężenia wypływu cieczy
+2.6.2 zdemontowanych z belki opryskowej opryskiwacza przy nominalnej rozpylaczy; błąd pomiaru wartości ciśnienia roboczego stosowanego dla badanych rozpylaczy powinien przekraczać 2,5%
+2.6.3 Sprawdzenie ustawienia rozpylaczy i kąta rozpylania oględziny
+2.7 Lance opryskowe Sprawdzenie działania oraz stanu technicznego zaworu lanc
+2.7.1 badanie funkcjonalne opryskowych – w przypadku wyposażenia w taki zawór i oględziny Sprawdzenie działania oraz stanu technicznego elementów układu
+2.7.2 regulacji długości lanc opryskowych – w przypadku wyposażenia w taki badanie funkcjonalne i oględziny układ
+2.8 Wentylator Sprawdzenie stanu technicznego wentylatora i urządzeń sterujących
+2.8.1 wentylatorem – w przypadku opryskiwaczy wyposażonych w takie oględziny urządzenie Sprawdzenie działania badanego urządzenia w czasie jego normalnej pracy, bez użycia sprzętu diagnostycznego.
+

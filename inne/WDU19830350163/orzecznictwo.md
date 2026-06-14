@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 czerwca 1983 r. o społecznej inspekcji pracy.*
 
-Łącznie: **38** orzeczeń
+Łącznie: **39** orzeczeń
 (pominięto 40 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
@@ -39,7 +39,7 @@ Orzeczenia powołujące: *Ustawa z dnia 24 czerwca 1983 r. o społecznej inspekc
 
 - 2018-07-03 | SO | [VIII Pa 60/18](https://www.saos.org.pl/judgments/345971) | Uzasadnienie
 
-## art. 13 (33)
+## art. 13 (34)
 
 - 2010-05-11 | SN | [II PZP 3/10](https://www.saos.org.pl/judgments/92218) | Uchwała ★
 - 2007-04-05 | SN | [I PZP 4/07](https://www.saos.org.pl/judgments/85587) | Uchwała ★
@@ -61,6 +61,7 @@ Orzeczenia powołujące: *Ustawa z dnia 24 czerwca 1983 r. o społecznej inspekc
 - 1994-09-20 | SN | [I PRN 58/94](https://www.saos.org.pl/judgments/76630) | Wyrok ★
 - 2011-12-07 | SN | [II PK 79/11](https://www.saos.org.pl/judgments/96493) | Postanowienie
 - 2025-02-06 | SO | [VII Pa 92/23](https://www.saos.org.pl/judgments/542195) | Wyrok
+- 2021-07-22 | SO | [VI P 383/19](https://www.saos.org.pl/judgments/546881) | Wyrok
 - 2017-12-20 | SO | [IV P 81/17](https://www.saos.org.pl/judgments/320636) | Wyrok
 - 2016-03-31 | SO | [IV Pa 9/16](https://www.saos.org.pl/judgments/235663) | Wyrok
 - 2016-02-25 | SO | [VII Pa 229/15](https://www.saos.org.pl/judgments/525933) | Wyrok

@@ -8,10 +8,10 @@ pos: 1239
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 lipca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1239 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 5 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001239) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1239/text.pdf) |
 
-Poz. 1239 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 5 lipca 2021 r.
-w sprawie wyznaczenia organu Krajowej Administracji Skarbowej do wykonywania niektórych zadań poboru opłaty elektronicznej Na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm. ) zarządza się, co następuje: § 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Łodzi do wykonywania zadań poboru opłaty elektronicznej w zakresie:
+w sprawie wyznaczenia organu Krajowej Administracji Skarbowej do wykonywania niektórych zadań poboru opłaty elektronicznej Na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm. ) zarządza się, co następuje:
+§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Łodzi do wykonywania zadań poboru opłaty elektronicznej w zakresie:
 1) stwierdzania, czy dane zawarte w rejestrze uiszczających opłatę elektroniczną, o którym mowa w art. 13ia ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, zwanym dalej „rejestrem”, są potwierdzone w złożonych do tego rejestru dokumentach;
 2) usuwania zawartych w rejestrze danych, o których mowa w art. 13ia ust. 5 pkt 3 lit. b, c i f ustawy z dnia 21 marca 1985 r. o drogach publicznych, zwanej dalej „ustawą”;
 3) zawiadamiania właściciela pojazdu, posiadacza pojazdu, o którym mowa w art. 73 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, 463, 694 i 720), użytkownika pojazdu, o którym mowa w art. 80b ust. 1 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, albo korzystającego z dróg, o którym mowa w art. 13ia ust. 19 ustawy, o:

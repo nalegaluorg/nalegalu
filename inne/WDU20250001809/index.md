@@ -8,7 +8,7 @@ pos: 1809
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
@@ -28,6 +28,12 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001809) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1809/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367, 1019, 1174, 1175, 1176 i 1669) wprowadza się następujące zmiany:
+
+- **1)** w art. 102:
+    - **a)** w ust. 2: – w pkt 3 wyrazy „imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON ubezpieczonego” zastępuje się wyrazami „imię i nazwisko lub nazwę ubezpieczonego, adres jego zamieszkania lub siedziby oraz jego numer PESEL i numer REGON, jeżeli takie numery posiada”, – w pkt 9 w lit. e wyrazy „imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON posiadacza pojazdu mechanicznego” zastępuje się wyrazami „imię i nazwisko lub nazwę posiadacza pojazdu mechanicznego, adres jego zamieszkania lub siedziby oraz jego numer PESEL i numer REGON, jeżeli takie numery posiada”,
+    - **b)** w ust. 3 w pkt 2 wyrazy „imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON posiadacza pojazdu uczestniczącego w zdarzeniu” zastępuje się wyrazami „imię i nazwisko lub nazwę posiadacza pojazdu uczestniczącego w zdarzeniu, adres jego zamieszkania lub siedziby oraz jego numer PESEL i numer REGON, jeżeli takie numery posiada”;
+
+- **2)** w art. 105a ust. 1 otrzymuje brzmienie: „1. Centralna ewidencja pojazdów przekazuje drogą teletransmisji danych do Funduszu dane, o których mowa w art. 102 ust. 2 pkt 9 lit. a–d, oraz imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON posiadacza pojazdu mechanicznego, a w przypadku posiadaczy pojazdów będących nierezydentami – imię i nazwisko, adres zamieszkania, nazwę i numer dokumentu tożsamości lub nazwę i adres siedziby ubezpieczonego, z wyjątkiem danych pojazdów rejestrowanych w trybie art. 73 ust. 3 ustawy – Prawo o ruchu drogowym.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

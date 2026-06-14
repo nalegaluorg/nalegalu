@@ -1,0 +1,62 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 31 lipca 2017 r. zmieniające rozporządzenie w sprawie orzekania o niepełnosprawności i stopniu niepełnosprawności"
+address: WDU20170001541
+eli: DU/2017/1541
+publisher: DU
+year: 2017
+pos: 1541
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1541 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 31 lipca 2017 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1541 |
+| ISAP | WDU20170001541 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2017-07-31 |
+| Data wydania | 2017-08-17 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1541/text.pdf) |
+
+zmieniające rozporządzenie w sprawie orzekania o niepełnosprawności i stopniu niepełnosprawności Na podstawie art. 6c ust. 9 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2016 r. poz. 2046 i 1948 oraz z 2017 r. poz. 777, 935 i 1428) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 15 lipca 2003 r. w sprawie orzekania o niepełnosprawności i stopniu niepełnosprawności (Dz. U. z 2015 r. poz. 1110) wprowadza się następujące zmiany:
+1) § 35 otrzymuje brzmienie: „§ 35. 1. Powiatowy zespół wystawia osobie posiadającej prawomocne orzeczenie o niepełnosprawności legitymację dokumentującą niepełnosprawność.
+2. Wzór legitymacji dokumentującej niepełnosprawność określa załącznik nr 3 do rozporządzenia.
+3. Powiatowy zespół wystawia osobie posiadającej prawomocne orzeczenie o stopniu niepełnosprawności albo prawomocne orzeczenie o wskazaniach do ulg i uprawnień, legitymację dokumentującą stopień niepełnosprawności.
+4. Wzór legitymacji dokumentującej stopień niepełnosprawności określa załącznik nr 4 do rozporządzenia.
+5. Na wniosek osoby zainteresowanej w legitymacji, o której mowa w ust. 3, wpisuje się stopień niepełnosprawności.
+6. Na wniosek osoby zainteresowanej albo przedstawiciela ustawowego dziecka w legitymacjach, o których mowa w ust. 1 i 3, wpisuje się symbol przyczyny niepełnosprawności.”;
+2) załączniki nr 3 i 4 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+§ 2. Legitymacje dokumentujące niepełnosprawność lub stopień niepełnosprawności, wystawione przed dniem wejścia w życie rozporządzenia, zachowują ważność na czas w nich określony.
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska Załącznik nr 1 Wzór legitymacji dokumentującej niepełnosprawność WZÓR LEGITYMACJI DOKUMENTUJĄCEJ NIEPEŁNOSPRAWNOŚĆ Awers Awers Rewers Rewers Opis: Opis:
+1.1. 1.1. Legitymacja Legitymacja ma ma formę formę spersonalizowanej spersonalizowanej karty karty (układ (układ poziomy) poziomy) o o wymiarach wymiarach 54 54 × x 85,6 85,6 mm. mm.
+1.2. 1.2. Karta Karta jest jest wykonana wykonana z z poliwęglanu. poliwęglanu.
+1.3. 1.3. Legitymacja Legitymacja ma ma dwie dwie strony strony zawierające zawierające elementy elementy zabezpieczające zabezpieczające dokument dokument przed sfałszowaniem przed sfałszowaniem i podrobieniem.
+i podrobieniem.
+2.1. Tło awersu legitymacji jest wykonane techniką offsetową.
+2.1. Tło awersu legitymacji jest wykonane techniką offsetową.
+2.2. 2.2. Na Na awersie awersie legitymacji legitymacji znajdują znajdują się: się: – - tło tło w w kolorze kolorze niebiesko-szarym niebiesko-szarym z z liniami liniami giloszowymi, giloszowymi, powtarzającym powtarzającym się się tekstem tekstem w w tle tle LEGITYMACJA LEGITYMACJA OSOBY OSOBY NIEPEŁNOSPRAWNEJ NIEPEŁNOSPRAWNEJ oraz mikrotekstami, oraz mikrotekstami, – - napis: napis: „LEGITYMACJA „LEGITYMACJA OSOBY OSOBY NIEPEŁNOSPRAWNEJ” NIEPEŁNOSPRAWNEJ” (w języku (w francuskim języku CARTE francuskim D’IDENTITÉ CARTE D’UNE D’IDENTITÉ PERSONNE HANDICAPÉE D’UNE PERSONNE oraz w języku HANDICAPÉE angielskim oraz DISABLED w języku PERSON angielskim IDENTIFICATION DISABLED PERSON CARD), – IDENTIFICATION napis LON na tle niebieskiego CARD), prostokąta, w którym w literę „O” wkomponowano wizerunek osoby na wózku in- napis walidzkim, LON na tle niebieskiego prostokąta, w którym w literę „O” wkomponowano wizerunek osoby na – wózku obszar inwalidzkim, przeznaczony na fotografię posiadacza dokumentu o wymiarach 25 × 30 mm (tło jasnobiałe), odzwiercied- obszar lającą aktualny przeznaczony wizerunek na fotografię osoby, w posiadacza chwili składania dokumentu wniosku o o wymiarach wydanie legitymacji, 25x30 mm przedstawiający (tło jasno-białe), osobę bez odzwierciedlającą nakrycia głowy i okularów aktualny z ciemnymi wizerunek szkłami osoby, (w w przypadku chwili składania osoby z wrodzonymi wniosku o wydanie lub nabytymi legitymacji, wadami narządu wzroku fotografia może przedstawiać osobę w okularach z ciemnymi szkłami, a w przypadku osoby noszącej naprzedstawiający krycie głowy zgodnie osobę z zasadami bez nakrycia swojego głowy wyznania, i okularów fotografia z ciemnymi może przedstawiać szkłami (w osobę przypadku z nakryciem osoby głowy, pod z warunkiem wrodzonymi że fotografie lub nabytymi takie wadami są zamieszczone narządu wzroku w dokumencie fotografia potwierdzającym może przedstawiać tożsamość osobę tych w okularach osób), z ciemnymi szkłami, a w przypadku osoby noszącej nakrycie głowy zgodnie z zasadami swojego – napis: „IMIĘ”, – napis: „NAZWISKO”, – napis: „PESEL”, – napis: „TERMIN WAŻNOŚCI LEGITYMACJI”, – piktogramy oznaczające niepełnosprawności.
+2.3. Tło rewersu legitymacji jest wykonane techniką offsetową.
+2.4. Na rewersie legitymacji znajdują się: – tło w kolorze niebiesko-szarym z liniami giloszowymi, powtarzającym się tekstem w tle LEGITYMACJA OSOBY NIEPEŁNOSPRAWNEJ oraz mikrotekstami, – napis LON na tle niebieskiego prostokąta, w którym w literę „O” wkomponowano wizerunek osoby na wózku inwalidzkim, – nazwa powiatowego zespołu do spraw orzekania o niepełnosprawności, – dziewięciocyfrowy indywidualny numer nadany legitymacji, oddzielony ukośnikiem prawym od czterocyfrowego numeru, oznaczającego kod powiatowego zespołu do spraw orzekania o niepełnosprawności, który wystawił legitymację, – wpisywane za pomocą fotokodu (kod QR): nr PESEL i nr legitymacji, a na wniosek przedstawiciela ustawowego dziecka – symbol przyczyny niepełnosprawności, – skrót „LON” pisany alfabetem Braille’a, – piktogramy oznaczające niepełnosprawności, – element wykonany farbą optycznie zmienną w postaci mapy Polski z wybranym tekstem LON.
+wyznania, fotografia może przedstawiać osobę z nakryciem głowy, pod warunkiem że fotografie takie są zamieszczone w dokumencie potwierdzającym tożsamość tych osób), - napis: „IMIĘ”, - napis: „NAZWISKO”, - napis: „PESEL”, - napis: „TERMIN WAŻNOŚCI LEGITYMACJI”, - piktogramy oznaczające niepełnosprawności.
+2.3. Tło rewersu legitymacji jest wykonane techniką offsetową.
+2.4. Na rewersie legitymacji znajdują się: - tło w kolorze niebiesko-szarym z liniami giloszowymi, powtarzającym się tekstem w tle LEGITYMACJA OSOBY NIEPEŁNOSPRAWNEJ oraz mikrotekstami, - napis LON na tle niebieskiego prostokąta, w którym w literę „O” wkomponowano wizerunek osoby na wózku inwalidzkim, - nazwa powiatowego zespołu do spraw orzekania o niepełnosprawności, - dziewięciocyfrowy indywidualny numer nadany legitymacji, oddzielony ukośnikiem prawym od czterocyfrowego numeru, oznaczającego kod powiatowego zespołu do spraw orzekania o niepełnosprawności, który wystawił legitymację, - wpisywane za pomocą fotokodu (kod QR): nr PESEL i nr legitymacji, a na wniosek przedstawiciela ustawowego dziecka – symbol przyczyny niepełnosprawności, - skrót „LON” pisany alfabetem Braille`a, - piktogramy oznaczające niepełnosprawności, - element wykonany farbą optycznie zmienną w postaci mapy Polski z wybranym tekstem LON.
+
+## Załącznik nr 2 — WZÓR Wzór LEGITYMACJI legitymacji DOKUMENTUJĄCEJ dokumentującej stopień STOPIEŃ niepełnosprawności NIEPEŁNOSPRAWNOŚCI Awers Awers Rewers Rewers Opis: Opis:
+
+1.1. Legitymacja ma formę spersonalizowanej karty (układ poziomy) o wymiarach 54 × 85,6 mm.
+1.2. Karta jest wykonana z poliwęglanu.
+1.3. Legitymacja ma dwie strony zawierające elementy zabezpieczające dokument przed sfałszowaniem i podrobieniem.
+2.1. Tło awersu legitymacji jest wykonane techniką offsetową.
+2.2. Na awersie legitymacji znajdują się: – tło w kolorze niebiesko-szarym z liniami giloszowymi, powtarzającym się tekstem w tle LEGITYMACJA OSOBY NIEPEŁNOSPRAWNEJ oraz mikrotekstami, – napis: „LEGITYMACJA OSOBY NIEPEŁNOSPRAWNEJ” (w języku francuskim CARTE D’IDENTITÉ D’UNE PERSONNE HANDICAPÉE oraz w języku angielskim DISABLED PERSON IDENTIFICATION CARD), – napis LON na tle niebieskiego prostokąta, w którym w literę „O” wkomponowano wizerunek osoby na wózku inwalidzkim, – obszar przeznaczony na fotografię posiadacza dokumentu o wymiarach 25 × 30 mm (tło jasnobiałe), odzwierciedlającą aktualny wizerunek osoby, w chwili składania wniosku o wydanie legitymacji, przedstawiający osobę bez nakrycia głowy i okularów z ciemnymi szkłami (w przypadku osoby z wrodzonymi lub nabytymi wadami narządu wzroku fotografia może przedstawiać osobę w okularach z ciemnymi szkłami, a w przypadku osoby noszącej nakrycie głowy zgodnie z zasadami swojego wyznania, fotografia może przedstawiać osobę z nakryciem głowy, pod warunkiem że fotografie takie są zamieszczone w dokumencie potwierdzającym tożsamość tych osób), – napis: „IMIĘ”, – napis: „NAZWISKO”, – napis: „PESEL”, – napis: „TERMIN WAŻNOŚCI LEGITYMACJI”, – piktogramy oznaczające niepełnosprawności.
+2.3. Tło rewersu legitymacji jest wykonane techniką offsetową.
+2.4. Na rewersie legitymacji znajdują się: – tło w kolorze niebiesko-szarym z liniami giloszowymi, powtarzającym się tekstem w tle LEGITYMACJA OSOBY NIEPEŁNOSPRAWNEJ oraz mikrotekstami, – napis LON na tle niebieskiego prostokąta, w którym w literę „O” wkomponowano wizerunek osoby na wózku inwalidzkim, – nazwa powiatowego zespołu do spraw orzekania o niepełnosprawności, – dziewięciocyfrowy indywidualny numer nadany legitymacji, oddzielony ukośnikiem prawym od czterocyfrowego numeru, oznaczającego kod powiatowego zespołu do spraw orzekania o niepełnosprawności, który wystawił legitymację, – wpisywane za pomocą fotokodu (kod QR): nr PESEL i nr legitymacji, a na wniosek osoby zainteresowanej – stopień niepełnosprawności oraz symbol przyczyny niepełnosprawności, – skrót „LON” pisany alfabetem Braille’a, – piktogramy oznaczające niepełnosprawności, – element wykonany farbą optycznie zmienną w postaci mapy Polski z wybranym tekstem LON.
+

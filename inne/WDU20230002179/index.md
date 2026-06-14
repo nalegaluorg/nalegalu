@@ -8,10 +8,10 @@ pos: 2179
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22117799 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 20 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2179/text.pdf) |
 
-22117799 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 20 września 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. z 2015 r. poz. 723), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Sprawiedliwości z dnia 15 lutego 2016 r. zmieniającym rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
@@ -44,8 +43,9 @@ poz. 1213), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływi
 4) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
 poz. 1338), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Sprawiedliwości: Z. Ziobro Załącznik do obwieszczenia Ministra Sprawiedliwości z dnia 20 września 2023 r. (Dz. U. poz. 2179) ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 kwietnia 2012 r.
-w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym Na podstawie art. 125 § 3 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r.
-poz. 1550, 1429, 1606, 1615, 1667 i 1860) zarządza się, co następuje: § 1. (uchylony).
+w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym Na podstawie art. 125 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r.
+poz. 1550, 1429, 1606, 1615, 1667 i 1860) zarządza się, co następuje:
+§ 1. (uchylony).
 § 2. Ustala się następujące wzory urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym:
 1) wzór formularza wniosku o założenie księgi wieczystej oznaczonego symbolem KW-ZAL, stanowiący załącznik nr 7 do rozporządzenia;
 2) wzór formularza wniosku o wpis w księdze wieczystej oznaczonego symbolem KW-WPIS, stanowiący załącznik nr 8 do rozporządzenia;
@@ -62,6 +62,7 @@ poz. 1550, 1429, 1606, 1615, 1667 i 1860) zarządza się, co następuje: § 1. (
 3. Urzędowe formularze udostępnia się nieodpłatnie na stronach internetowych Ministerstwa Sprawiedliwości oraz sądów powszechnych.
 Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1338), które weszło w życie z dniem 14 lipca 2023 r.
 Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
+Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 4. W przypadku, o którym mowa w ust. 3, urzędowe formularze udostępnia się w formie umożliwiającej edycję ich treści.
 § 5. 1. Urzędowe formularze, ich wydruki i kserokopie mają format A4.
 2. Wydruk komputerowy urzędowego formularza powinien odzwierciedlać strukturę wzoru tego formularza.
@@ -69,9 +70,11 @@ Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
 § 6. Do postępowań wszczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 7. Rozporządzenie wchodzi w życie z dniem 3 maja 2012 r.
 W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 maja 2002 r. w sprawie określenia wzorów i sposobu udostępniania stronom urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 728 oraz z 2005 r. poz. 704) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym (Dz. U. poz. 1527, z 2009 r. poz. 189 oraz z 2011 r. poz. 462), które utraciły moc z dniem wejścia w życie ustawy z dnia 16 września 2011 r. o zmianie ustawy Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U.
-Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. (Dz. U. z 2023 r. poz. 2179) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony) Załącznik nr 6 (uchylony) Załącznik nr 7 WZÓR z dnia 7 lipca 2023 r. (Dz. U. poz.
-….) Załącznik nr 7 WZÓR strona 1 KW-ZAL Wniosek o założenie księgi wieczystej Adnotacja o wpłynięciu wniosku: Rejestr Ksiąg Wieczystych Numer Dz. Kw: Uiszczono opłatę w kwocie (w zł): POUCZENIE • Formularz należy wypełnić w języku polskim, czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
+Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 maja 2002 r. w sprawie określenia wzorów i sposobu udostępniania stronom urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 728 oraz z 2005 r. poz. 704) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym (Dz. U. poz. 1527, z 2009 r. poz. 189 oraz z 2011 r. poz. 462), które utraciły moc z dniem wejścia w życie ustawy z dnia 16 września 2011 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U.
+poz. 1381).
+Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. (Dz. U. z 2023 r. poz. 2179) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony) Załącznik nr 6 (uchylony) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.
+Załączniki do rozporządzenia z dnia 7 lipca 2023 r. (Dz. U. poz.
+….) Załącznik nr 7 WZÓR Załącznik nr 7 WZÓR strona 1 Adnotacja o wpłynięciu wniosku: KW-ZAL Wniosek o założenie księgi wieczystej Rejestr Ksiąg Wieczystych Numer Dz. Kw: Uiszczono opłatę w kwocie (w zł): POUCZENIE • Formularz należy wypełnić w języku polskim, czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 • Wnioskodawca wypełnia tylko pola jasne wniosku, z tym że pola niewypełnione należy przekreślić.
 • Wniosek można złożyć w biurze podawczym wydziału ksiąg wieczystych lub nadać w polskiej placówce operatora świadczącego pocztowe usługi powszechne na terytorium Rzeczypospolitej Polskiej albo w zagranicznej placówce pocztowej operatora świadczącego pocztowe usługi powszechne na terytorium innego państwa członkowskiego Unii Europejskiej na adres tego wydziału.
 OZNACZENIE SĄDU I WYDZIAŁU, DO KTÓREGO SKŁADANY JEST WNIOSEK:
@@ -87,7 +90,8 @@ OZNACZENIE SĄDU I WYDZIAŁU, DO KTÓREGO SKŁADANY JEST WNIOSEK:
 10. Ulica: 11. Numer działki:
 12. Nazwa lub numer obrębu: 13. Obszar: OZNACZENIE I POWIERZCHNIA UŻYTKOWA BUDYNKU (wypełniane tylko w przypadku, gdy przedmiotem żądania jest założenie księgi wieczystej dla nieruchomości budynkowej lub spółdzielczego własnościowego prawa do lokalu dotyczącego domu jednorodzinnego):
 14. Ulica: 15. Numer budynku:
-16. Liczba kondygnacji: 17. Powierzchnia użytkowa (w m ): strona 2 Miejsce na znaki opłaty sądowej Adnotacje o rozpoznaniu: OZNACZENIE I OBSZAR (POWIERZCHNIA) NIERUCHOMOŚCI (cd.): OZNACZENIE I POWIERZCHNIA UŻYTKOWA LOKALU (wypełniane tylko w przypadku, gdy przedmiotem żądania jest założenie księgi wieczystej dla nieruchomości lokalowej lub spółdzielczego własnościowego prawa do lokalu): • Pole nr 24 należy wypełnić tylko w przypadku, gdy przedmiotem żądania jest założenie księgi wieczystej dla nieruchomości lokalowej.
+16. Liczba kondygnacji: 17. Powierzchnia użytkowa (w m ): W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1.
+strona 2 Miejsce na znaki opłaty sądowej Adnotacje o rozpoznaniu: OZNACZENIE I OBSZAR (POWIERZCHNIA) NIERUCHOMOŚCI (cd.): OZNACZENIE I POWIERZCHNIA UŻYTKOWA LOKALU (wypełniane tylko w przypadku, gdy przedmiotem żądania jest założenie księgi wieczystej dla nieruchomości lokalowej lub spółdzielczego własnościowego prawa do lokalu): • Pole nr 24 należy wypełnić tylko w przypadku, gdy przedmiotem żądania jest założenie księgi wieczystej dla nieruchomości lokalowej.
 18. Ulica: 19. Numer budynku:
 20. Numer lokalu: 21. Kondygnacja:
 22. Powierzchnia użytkowa lokalu wraz z powierzchnią pomieszczeń przynależnych (w m ):
@@ -173,7 +177,7 @@ Lp. Nazwa formularza Liczba załączników
 108.
 WNIOSKODAWCA/PEŁNOMOCNIK/PRZEDSTAWICIEL USTAWOWY *) : Nazwa/Imię i nazwisko Data Podpis *) Niepotrzebne skreślić.
 
-## Załącznik nr 8 — strona 1 WZÓR KW-WPIS Wniosek o wpis w księdze wieczystej Adnotacja o wpłynięciu wniosku: Rejestr Ksiąg Wieczystych Numer Dz. Kw: Uiszczono opłatę w kwocie (w zł): POUCZENIE • Formularz należy wypełnić w języku polskim, czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
+## Załącznik nr 8 — Załącznik nr 8 WZÓR strona 1 WZÓR KW-WPIS Adnotacja o wpłynięciu wniosku: Wniosek o wpis w księdze wieczystej Rejestr Ksiąg Wieczystych Numer Dz. Kw: Uiszczono opłatę w kwocie (w zł): POUCZENIE • Formularz należy wypełnić w języku polskim, czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 
 • Wnioskodawca wypełnia tylko pola jasne wniosku, z tym że pola niewypełnione należy przekreślić.
 • Wniosek można złożyć w biurze podawczym wydziału ksiąg wieczystych lub nadać w polskiej placówce operatora świadczącego pocztowe usługi powszechne na terytorium Rzeczypospolitej Polskiej albo w zagranicznej placówce pocztowej operatora świadczącego pocztowe usługi powszechne na terytorium innego państwa członkowskiego Unii Europejskiej na adres tego wydziału.
@@ -188,7 +192,7 @@ TREŚĆ ŻĄDANIA: • Należy wyraźnie zaznaczyć kwadraty odpowiadające tre�
 • Żądanie ujawnienia budynku lub urządzenia wymaga wypełnienia pola nr 4.
 • W przypadku jednoczesnego żądania „Ujawnienia budynku lub urządzenia” oraz „Odłączenia/wyodrębnienia części nieruchomości i przyłączenia tej części do innej istniejącej księgi wieczystej” dla pierwszego z tych żądań należy wypełnić pole nr 1 załącznika KW-ZAD.
 ❑ Odłączenie/wyodrębnienie części nieruchomości i przyłączenie tej części do innej, istniejącej księgi wieczystej • W żądaniu należy wskazać odłączane/wyodrębniane z księgi wieczystej części nieruchomości przez podanie numeru lub nazwy obrębu, numeru działki i obszaru (jeżeli odłączanym przedmiotem jest działka ewidencyjna), ulicy, numeru budynku i powierzchni użytkowej (jeżeli odłączanym przedmiotem jest budynek) lub ulicy, numeru budynku i numeru lokalu (jeżeli wyodrębnianym przedmiotem jest lokal) oraz podać numer księgi wieczystej, do której część nieruchomości zostanie przyłączona.
-4. Treść żądania: Miejsce na znaki opłaty sądowej Adnotacje o rozpoznaniu: Załącznik nr 8 WZÓR strona 2 NA PODSTAWIE ZAŁĄCZONYCH DOKUMENTÓW WNOSZĘ O (cd.): ❑ Wpis właściciela (współwłaściciela), użytkownika wieczystego (współużytkownika wieczystego), uprawnionego (współuprawnionego): • W żądaniu należy wpisać rodzaj przysługującego prawa, imię (imiona) i nazwisko (nazwiska), imię ojca i imię matki oraz numer PESEL (jeśli został nadany) lub nazwę/firmę i siedzibę, numer REGON (jeśli został nadany) oraz numer w Krajowym Rejestrze Sądowym (jeżeli dokonano wpisu do tego rejestru), a także wielkość przysługującego udziału w prawie.
+4. Treść żądania: Miejsce na znaki opłaty sądowej Adnotacje o rozpoznaniu: strona 2 NA PODSTAWIE ZAŁĄCZONYCH DOKUMENTÓW WNOSZĘ O (cd.): ❑ Wpis właściciela (współwłaściciela), użytkownika wieczystego (współużytkownika wieczystego), uprawnionego (współuprawnionego): • W żądaniu należy wpisać rodzaj przysługującego prawa, imię (imiona) i nazwisko (nazwiska), imię ojca i imię matki oraz numer PESEL (jeśli został nadany) lub nazwę/firmę i siedzibę, numer REGON (jeśli został nadany) oraz numer w Krajowym Rejestrze Sądowym (jeżeli dokonano wpisu do tego rejestru), a także wielkość przysługującego udziału w prawie.
 • Jeżeli wnioskodawca żąda ujawnienia w księdze wieczystej kilku współwłaścicieli nieruchomości, współużytkowników wieczystych lub współuprawnionych z tytułu spółdzielczego własnościowego prawa do lokalu, każdego z nich należy wskazać w osobnej rubryce.
 W jednej rubryce należy wskazać współmałżonków, którym przysługuje dane prawo na zasadzie wspólności ustawowej lub umownej małżeńskiej, oraz wspólników spółek cywilnych, którym przysługuje dane prawo na zasadzie współwłasności łącznej.
 5. Treść żądania:
@@ -267,7 +271,7 @@ Lp. Nazwa formularza Liczba załączników
 88.
 WNIOSKODAWCA/PEŁNOMOCNIK/PRZEDSTAWICIEL USTAWOWY *) : Nazwa/Imię i nazwisko Data Podpis Niepotrzebne skreślić.
 
-## Załącznik nr 9 — WZÓR strona 1 KW-ZAD Załącznik Żądanie wpisu w księdze wieczystej Adnotacja o wpłynięciu wniosku: Rejestr Ksiąg Wieczystych POUCZENIE: • Formularz stanowi załącznik do formularzy wniosków: „KW-ZAL Wniosek o założenie księgi wieczystej” i „KW-WPIS Wniosek o wpis w księdze wieczystej”.
+## Załącznik nr 9 — Załącznik Nr 9 WZÓR WZÓR strona 1 KW-ZAD Adnotacja o wpłynięciu wniosku: Załącznik – Żądanie wpisu w księdze wieczystej Rejestr Ksiąg Wieczystych POUCZENIE: • Formularz stanowi załącznik do formularzy wniosków: „KW-ZAL Wniosek o założenie księgi wieczystej” i „KW-WPIS Wniosek o wpis w księdze wieczystej”.
 
 • Formularz należy wypełnić w języku polskim, czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 • Wnioskodawca wypełnia tylko pola jasne formularza, z tym że pola niewypełnione należy przekreślić.
@@ -279,7 +283,7 @@ NA PODSTAWIE ZAŁĄCZONYCH DOKUMENTÓW WNOSZĘ O: TREŚĆ ŻĄDANIA: • Należy
 W jednej rubryce należy wskazać współmałżonków, którym przysługuje dane prawo na zasadzie wspólności ustawowej lub umownej małżeńskiej, oraz wspólników spółek cywilnych, którym przysługuje dane prawo na zasadzie współwłasności łącznej.
 2. Treść żądania:
 3. Treść żądania:
-4. Treść żądania: Załącznik nr 9 WZÓR W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 15 lutego 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 269 i 416), które weszło w życie z dniem 1 lipca 2016 r.
+4. Treść żądania: W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Sprawiedliwości z dnia 15 lutego 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 269 i 416), które weszło w życie z dniem 1 lipca 2016 r.
 strona 2 NA PODSTAWIE ZAŁĄCZONYCH DOKUMENTÓW WNOSZĘ O: ❑ Wpis prawa, ograniczenia w rozporządzaniu nieruchomością, roszczenia lub hipoteki: • W żądaniu należy określić rodzaj i treść hipoteki lub innego prawa, roszczenia lub ograniczenia oraz uprawnionych. W przypadku hipoteki łącznej lub innego prawa, roszczenia lub ograniczenia, które ma być wpisane w więcej niż jednej księdze wieczystej, należy podać numery wszystkich ksiąg wieczystych, w których prawo, roszczenie lub ograniczenie ma być wpisane.
 • Treść każdego żądania należy wpisać w osobnej rubryce.
 5. Treść żądania:
@@ -288,7 +292,7 @@ strona 2 NA PODSTAWIE ZAŁĄCZONYCH DOKUMENTÓW WNOSZĘ O: ❑ Wpis prawa, ogran
 8. Treść żądania:
 9. Treść żądania: WNIOSKODAWCA/PEŁNOMOCNIK/PRZEDSTAWICIEL USTAWOWY : Nazwa/Imię i nazwisko Data Podpis Niepotrzebne skreślić.
 
-## Załącznik nr 10 — WZÓR strona 1 KW-OZN Załącznik Oznaczenie działki ewidencyjnej Adnotacja o wpłynięciu wniosku: Rejestr Ksiąg Wieczystych POUCZENIE: • Formularz stanowi załącznik do formularza wniosku „KW-ZAL Wniosek o założenie księgi wieczystej”.
+## Załącznik nr 10 — Załącznik nr 10 WZÓR WZÓR strona 1 Adnotacja o wpłynięciu wniosku: KW-OZN Załącznik – Oznaczenie działki ewidencyjnej Rejestr Ksiąg Wieczystych POUCZENIE: • Formularz stanowi załącznik do formularza wniosku „KW-ZAL Wniosek o założenie księgi wieczystej”.
 
 • Formularz należy wypełnić czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 • Wnioskodawca wypełnia tylko pola jasne formularza, pola niewypełnione należy przekreślić.
@@ -325,7 +329,7 @@ DZIAŁKA EWIDENCYJNA NR 8
 DZIAŁKA EWIDENCYJNA NR 9
 36. Ulica: 37. Numer działki:
 38. Nazwa lub numer obrębu: 39. Obszar:
-40. Odłączona z księgi wieczystej numer: Załącznik nr 10 WZÓR strona 2
+40. Odłączona z księgi wieczystej numer: strona 2
 DZIAŁKA EWIDENCYJNA NR 10
 41. Ulica: 42. Numer działki:
 43. Nazwa lub numer obrębu: 44. Obszar:
@@ -363,7 +367,7 @@ DZIAŁKA EWIDENCYJNA NR 18
 83. Nazwa lub numer obrębu: 84. Obszar:
 85. Odłączona z księgi wieczystej numer: WNIOSKODAWCA/PEŁNOMOCNIK/PRZEDSTAWICIEL USTAWOWY : Nazwa/Imię i nazwisko Data Podpis Niepotrzebne skreślić.
 
-## Załącznik nr 11 — WZÓR KW-WU Załącznik Wnioskodawca/uczestnik postępowania Adnotacja o wpłynięciu wniosku: Rejestr Ksiąg Wieczystych POUCZENIE: • Formularz stanowi załącznik do formularzy wniosków: „KW-ZAL Wniosek o założenie księgi wieczystej” i „KW-WPIS Wniosek o wpis w księdze wieczystej”.
+## Załącznik nr 11 — Załącznik Nr 11 WZÓR WZÓR KW-WU Adnotacja o wpłynięciu wniosku: Załącznik – Wnioskodawca/uczestnik postępowania Rejestr Ksiąg Wieczystych POUCZENIE: • Formularz stanowi załącznik do formularzy wniosków: „KW-ZAL Wniosek o założenie księgi wieczystej” i „KW-WPIS Wniosek o wpis w księdze wieczystej”.
 
 • Formularz należy wypełnić czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 • Wnioskodawca wypełnia tylko pola jasne formularza, z tym że pola niewypełnione należy przekreślić.
@@ -389,7 +393,10 @@ DANE WNIOSKODAWCY/UCZESTNIKA POSTĘPOWANIA *) :
 19. Miejscowość:
 20. Ulica:
 21. Numer budynku: 22. Numer lokalu: 23. Kod pocztowy:
-24. Poczta: WNIOSKODAWCA/PEŁNOMOCNIK/PRZEDSTAWICIEL USTAWOWY : Nazwa/Imię i nazwisko Data Podpis Załącznik nr 11 WZÓR Załącznik nr 12 WZÓR strona 1 KW-PP Załącznik Pełnomocnik/przedstawiciel ustawowy Adnotacja o wpłynięciu wniosku: Rejestr Ksiąg Wieczystych POUCZENIE: • Formularz stanowi załącznik do formularzy wniosków: „KW-ZAL Wniosek o założenie księgi wieczystej” i „KW-WPIS Wniosek o wpis w księdze wieczystej”.
+24. Poczta: WNIOSKODAWCA/PEŁNOMOCNIK/PRZEDSTAWICIEL USTAWOWY : Nazwa/Imię i nazwisko Data Podpis Niepotrzebne skreślić.
+
+## Załącznik nr 12 — Załącznik nr 12 WZÓR WZÓR strona 1 Adnotacja o wpłynięciu wniosku: KW-PP Załącznik – Pełnomocnik/przedstawiciel Rejestr Ksiąg Wieczystych ustawowy POUCZENIE: • Formularz stanowi załącznik do formularzy wniosków: „KW-ZAL Wniosek o założenie księgi wieczystej” i „KW-WPIS Wniosek o wpis w księdze wieczystej”.
+
 • Formularz należy wypełnić czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 • Wnioskodawca wypełnia tylko pola jasne formularza, z tym że pola niewypełnione należy przekreślić.
 DANE PEŁNOMOCNIKA/PRZEDSTAWICIELA USTAWOWEGO: • Jeżeli wnioskodawca/uczestnik postępowania jest osobą fizyczną, w polu nr 1 należy podać numer PESEL, a w pozostałych przypadkach w polu nr 1 należy podać numer REGON. Jeżeli wnioskodawca/uczestnik postępowania jest osobą fizyczną i nie posiada numeru PESEL, w polu nr 1 należy podać imię i nazwisko, jeżeli zaś nie jest osobą fizyczną i nie posiada numeru REGON, w polu nr 1 należy podać jego nazwę lub firmę i siedzibę.
@@ -402,6 +409,4 @@ DANE PEŁNOMOCNIKA/PRZEDSTAWICIELA USTAWOWEGO: • Jeżeli wnioskodawca/uczestni
 7. Ulica:
 8. Numer budynku: 9. Numer lokalu: 10. Kod pocztowy:
 11. Poczta: WNIOSKODAWCA/PEŁNOMOCNIK/PRZEDSTAWICIEL USTAWOWY : Nazwa/Imię i nazwisko Data Podpis Niepotrzebne skreślić.
-
-## Załącznik nr 12 — WZÓR
 

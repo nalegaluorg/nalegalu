@@ -8,12 +8,12 @@ pos: 1824
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych
 
-*USTAWA dnia 16 listopada 2006 r.*
+*USTAWA z dnia 16 listopada 2006 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -42,58 +42,75 @@ source: "isap-pdf"
 
 2. Świadczenie przyznaje się na wniosek osoby uprawnionej.
 
-3. Do wniosku, o którym mowa w ust. 2, należy dołączyć oświadczenie wnioskodawcy o korzystaniu ze zwolnienia uzyskiwanych dochodów tytułu emerytury lub renty od podatku dochodowego, na podstawie art. 21 ust. 1 pkt 100 ustawy dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. 2021 r. poz. 1128, 1163, 1243, 1551 i 1574), wraz ze wskazaniem organu rentowego lub emerytalnego, będącego płatnikiem emerytury lub renty.
+3. Do wniosku, o którym mowa w ust. 2, należy dołączyć oświadczenie wnioskodawcy o korzystaniu ze zwolnienia uzyskiwanych dochodów z tytułu emerytury lub renty od podatku dochodowego, na podstawie art. 21 ust. 1 pkt 100 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, 1163, 1243, 1551 i 1574), wraz ze wskazaniem organu rentowego lub emerytalnego, będącego płatnikiem emerytury lub renty.
 
 4. W przypadku niekorzystania ze zwolnienia, o którym mowa w ust. 3, do wniosku należy dołączyć:
 
-- **3)** dowody poświadczające okoliczności i skutki wypadku, który spowodował utratę wzroku, w tym dokumentację medyczną. [5. W przypadku braku dokumentu, o którym mowa w ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych.] <5. W przypadku braku dokumentu, o którym mowa w ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych, na zasadach i w trybie określonych w ustawie dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 2025 r. poz. 350, późn. zm. ). >
+- **1)** orzeczenie o uznaniu wnioskodawcy za inwalidę I lub II grupy w związku z utratą wzroku lub orzeczenie o całkowitej niezdolności do pracy w związku z utratą wzroku;
+- **2)** zaświadczenie o utracie przez wnioskodawcę wzroku z powodu urazu, wystawione przez lekarza okulistę;
+- **3)** dowody poświadczające okoliczności i skutki wypadku, który spowodował utratę wzroku, w tym dokumentację medyczną. [5. W przypadku braku dokumentu, o którym mowa w ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych.] <5. W przypadku braku dokumentu, o którym mowa w ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych, na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). >
 
-6. Organ rentowy lub emerytalny, będący płatnikiem emerytury lub renty osoby, o której mowa w ust. 3, jest zobowiązany do przekazania, na żądanie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych, kopii dokumentów, określonych w art. 21 ust. 1 pkt 100 ustawy dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, złożonych przez tę osobę.
+6. Organ rentowy lub emerytalny, będący płatnikiem emerytury lub renty osoby, o której mowa w ust. 3, jest zobowiązany do przekazania, na żądanie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych, kopii dokumentów, określonych w art. 21 ust. 1 pkt 100 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, złożonych przez tę osobę.
 
 **Art. 3.**
 
-1. Prawo do świadczenia ustalają organy rentowe w rozumieniu przepisów ustawy dnia 17 grudnia 1998 r. o emeryturach i rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2021 r. poz. 291, 353, 794 i 1621), w drodze decyzji.
+1. Prawo do świadczenia ustalają organy rentowe w rozumieniu przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291, 353, 794 i 1621), w drodze decyzji.
 
 2. Od decyzji organu rentowego przysługują osobie zainteresowanej środki odwoławcze przewidziane w odrębnych przepisach dla decyzji w sprawach emerytur i rent.
 
 **Art. 4.**
 
-1. Prawo do świadczenia powstaje dniem spełnienia wszystkich warunków wymaganych przez ustawę do uzyskania tego prawa.
+1. Prawo do świadczenia powstaje z dniem spełnienia wszystkich warunków wymaganych przez ustawę do uzyskania tego prawa.
 
 2. Prawa do świadczenia nie nabywa, a nabyte traci osoba, jeżeli:
 
+- **1)** okoliczności uzasadniające powstanie prawa do świadczenia lub jego zwiększenia zostały wywołane przez tę osobę przestępstwem umyślnym;
+- **2)** wyłączną przyczyną okoliczności uzasadniających powstanie prawa do świadczenia lub jego zwiększenia było udowodnione umyślne lub rażąco niedbałe działanie tej osoby.
+
 3. Prawo do świadczenia wygasa:
 
-- **1)** gdy ustanie którykolwiek warunków wymaganych do uzyskania świadczenia;
+- **1)** gdy ustanie którykolwiek z warunków wymaganych do uzyskania świadczenia;
 - **2)** ze śmiercią osoby uprawnionej.
 
 **Art. 5.**
 
-1. Świadczenie dla osób uprawnionych przysługuje w kwocie renty socjalnej, o której mowa w ustawie dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. 2020 r. poz. 1300 oraz 2021 r. poz. 1621).
+1. Świadczenie dla osób uprawnionych przysługuje w kwocie renty socjalnej, o której mowa w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2020 r. poz. 1300 oraz z 2021 r. poz. 1621).
 
-2. Do świadczenia, o którym mowa w ust. 1, osobie uprawnionej przysługuje dodatek pielęgnacyjny na zasadach określonych w art. 75 ustawy dnia 17 grudnia 1998 r. o emeryturach i rentach Funduszu Ubezpieczeń Społecznych, tym że dodatek pielęgnacyjny tytułu orzeczenia niezdolności do samodzielnej egzystencji przysługuje w wysokości zwiększonej o 50%.
+2. Do świadczenia, o którym mowa w ust. 1, osobie uprawnionej przysługuje dodatek pielęgnacyjny na zasadach określonych w art. 75 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z tym że dodatek pielęgnacyjny z tytułu orzeczenia niezdolności do samodzielnej egzystencji przysługuje w wysokości zwiększonej o 50%.
 
-3. W razie zbiegu prawa do dodatku pielęgnacyjnego określonego ustawą prawem do dodatku pielęgnacyjnego ustalonym na podstawie odrębnych przepisów przysługuje tylko jeden dodatek.
+3. W razie zbiegu prawa do dodatku pielęgnacyjnego określonego ustawą z prawem do dodatku pielęgnacyjnego ustalonym na podstawie odrębnych przepisów przysługuje tylko jeden dodatek.
 
 **Art. 6.**
 
 1. Świadczenie i uprawnienia, o których mowa w ustawie, przysługują w czasie pobytu osoby uprawnionej na terytorium Rzeczypospolitej Polskiej.
 
-2. Jeżeli osoba uprawniona pobiera emeryturę lub rentę, w tym świadczenie o charakterze rentowym instytucji zagranicznej, wypłacaną kwotę świadczenia, o którym mowa w art. 5, zmniejsza się o 50% miesięcznie, chyba że wypłata emerytury lub renty innego tytułu została zawieszona. Przepis niniejszy nie narusza przepisów o zbiegu uprawnień emerytalnych oraz rentowych innych tytułów.
+2. Jeżeli osoba uprawniona pobiera emeryturę lub rentę, w tym świadczenie o charakterze rentowym z instytucji zagranicznej, wypłacaną kwotę świadczenia, o którym mowa w art. 5, zmniejsza się o 50% miesięcznie, chyba że wypłata emerytury lub renty z innego tytułu została zawieszona. Przepis niniejszy nie narusza przepisów o zbiegu uprawnień emerytalnych oraz rentowych z innych tytułów.
 
 **Art. 7.**
 
 1. Świadczenie wypłacane jest miesięcznie.
 
-2. Jeżeli osoba uprawniona pobiera emeryturę bądź rentę, świadczenie wypłacane jest wraz emeryturą lub rentą.
+2. Jeżeli osoba uprawniona pobiera emeryturę bądź rentę, świadczenie wypłacane jest wraz z emeryturą lub rentą.
 
-3. Jeżeli osoba uprawniona nie pobiera emerytury lub renty, świadczenie wypłaca organ rentowy, który wydał decyzję o jego przyznaniu. Przepisy dotyczące wypłaty emerytur i rent Funduszu Ubezpieczeń Społecznych stosuje się odpowiednio. uprawnionej przysługuje jeden ryczałt energetyczny.
+3. Jeżeli osoba uprawniona nie pobiera emerytury lub renty, świadczenie wypłaca organ rentowy, który wydał decyzję o jego przyznaniu. Przepisy dotyczące wypłaty emerytur i rent z Funduszu Ubezpieczeń Społecznych stosuje się odpowiednio.
+
+**Art. 7a.**
+
+1. Osobie uprawnionej, której ustalono prawo do świadczenia, przysługuje ryczałt energetyczny, o którym mowa w ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2020 r. poz. 517 oraz z 2021 r. poz. 794).
+
+2. W razie zbiegu prawa do ryczałtu energetycznego z różnych tytułów osobie uprawnionej przysługuje jeden ryczałt energetyczny.
 
 3. Ryczałt energetyczny jest wypłacany osobie uprawnionej wraz ze świadczeniem.
 
 **Art. 8.** Osobie uprawnionej jednocześnie do świadczenia pieniężnego określonego ustawą i do:
 
-**Art. 9.** W razie śmierci osoby uprawnionej przysługuje zasiłek pogrzebowy w wysokości i na zasadach określonych w przepisach o emeryturach i rentach Funduszu Ubezpieczeń Społecznych.
+- **1)** dodatku kombatanckiego lub świadczenia przysługującego w wysokości tego dodatku, określonych w przepisach o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego,
+- **2)** dodatku określonego w przepisach o ubezpieczeniu społecznym rolników,
+- **3)** dodatku za tajne nauczanie, przysługującego na podstawie odrębnych przepisów,
+- **4)** świadczenia pieniężnego określonego w przepisach o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych,
+- **5)** świadczenia pieniężnego określonego w przepisach o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich – przysługuje tylko jedno z tych świadczeń lub jeden z tych dodatków – wyższy lub wybrany przez zainteresowanego.
+
+**Art. 9.** W razie śmierci osoby uprawnionej przysługuje zasiłek pogrzebowy w wysokości i na zasadach określonych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 **Art. 10.**
 
@@ -102,12 +119,13 @@ source: "isap-pdf"
 - **1)** prawo do ulgi 100% przy przejazdach publicznymi środkami komunikacji miejskiej, bez względu na miejsce zamieszkania;
 - **2)** pierwszeństwo w umieszczeniu, na jej wniosek, w domu pomocy społecznej.
 
-2. Osobie uprawnionej przysługuje także: o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2021 r. poz. 1285, 1292 i 1559);
+2. Osobie uprawnionej przysługuje także:
 
+- **1)** prawo do bezpłatnych leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, na podstawie art. 39 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2021 r. poz. 523, 1292 i 1559), art. 46 ust. 1 i art. 47 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292 i 1559);
 - **2)** prawo do ambulatoryjnych świadczeń specjalistycznych finansowanych ze środków publicznych bez wymaganego skierowania lekarza ubezpieczenia zdrowotnego, na podstawie art. 57 ust. 2 pkt 10a ustawy, o której mowa w pkt 1;
 - **3)** prawo do skierowania na pobyt w sanatorium co najmniej raz na trzy lata, na zasadach o których mowa w art. 33 ustawy, o której mowa w pkt 1;
-- **4)** prawo do ulgowych przejazdów środkami publicznego transportu zbiorowego, na podstawie art. 2 ust. 7 oraz art. 4 ust. 3 ustawy dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. 2018 r. poz. 295);
-- **5)** prawo do zwolnienia opłat abonamentowych za używanie odbiorników radiowych i telewizyjnych, na zasadach określonych w ustawie dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. 2020 r. poz. 1689).
+- **4)** prawo do ulgowych przejazdów środkami publicznego transportu zbiorowego, na podstawie art. 2 ust. 7 oraz art. 4 ust. 3 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295);
+- **5)** prawo do zwolnienia z opłat abonamentowych za używanie odbiorników radiowych i telewizyjnych, na zasadach określonych w ustawie z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. z 2020 r. poz. 1689).
 
 3. Przewodnikowi towarzyszącemu osobie uprawnionej przysługują uprawnienia określone w:
 
@@ -116,7 +134,7 @@ source: "isap-pdf"
 
 **Art. 10a.**
 
-1. Osobom uprawnionym do świadczenia, znajdującym się w trudnej sytuacji materialnej, zdrowotnej oraz w związku zaistnieniem zdarzeń losowych, może być przyznana pomoc pieniężna – jednorazowa lub okresowa.
+1. Osobom uprawnionym do świadczenia, znajdującym się w trudnej sytuacji materialnej, zdrowotnej oraz w związku z zaistnieniem zdarzeń losowych, może być przyznana pomoc pieniężna – jednorazowa lub okresowa.
 
 2. Pomoc pieniężna jednorazowa może być przyznana w szczególności na:
 
@@ -125,7 +143,12 @@ source: "isap-pdf"
 
 3. Pomoc pieniężna okresowa może być przyznana w szczególności na:
 
-- **1)** zaspokojenie potrzeb bytowych i ochronę zdrowia w przypadku długotrwałej choroby powodującej wzrost kosztów utrzymania, zakupu leków, środków opatrunkowych oraz dojazdów do zakładów leczniczych na zabiegi medyczne i rehabilitacyjne; 1998 r. o emeryturach i rentach Funduszu Ubezpieczeń Społecznych, zwanej dalej „najniższą emeryturą”;
+- **1)** zaspokojenie potrzeb bytowych i ochronę zdrowia w przypadku długotrwałej choroby powodującej wzrost kosztów utrzymania, zakupu leków, środków opatrunkowych oraz dojazdów do zakładów leczniczych na zabiegi medyczne i rehabilitacyjne;
+- **2)** opłacenie pomocy pielęgnacyjnej niezbędnej z uwagi na wiek oraz stan zdrowia.
+
+4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
+
+- **1)** dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanej dalej „najniższą emeryturą”;
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
 - **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.
 
@@ -144,33 +167,37 @@ source: "isap-pdf"
 
 10. Pomoc pieniężna jest przyznawana na wniosek osoby uprawnionej w drodze decyzji administracyjnej wydawanej przez Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych.
 
-11. Wniosek o przyznanie pomocy pieniężnej zawiera imię lub imiona oraz nazwisko, datę urodzenia, numer PESEL, dane teleadresowe: adres miejsca dochód netto osób, którymi wnioskodawca prowadzi gospodarstwo domowe.
+11. Wniosek o przyznanie pomocy pieniężnej zawiera imię lub imiona oraz nazwisko, datę urodzenia, numer PESEL, dane teleadresowe: adres miejsca zamieszkania lub adres korespondencyjny, numer telefonu lub adres poczty elektronicznej, nazwę banku i numer rachunku bankowego lub nazwę spółdzielczej kasy oszczędnościowo-kredytowej i numer rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacona pomoc pieniężna, dochód netto wnioskodawcy, a także imię, nazwisko, stopień pokrewieństwa oraz dochód netto osób, z którymi wnioskodawca prowadzi gospodarstwo domowe.
 
-12. Do wniosku o przyznanie pomocy pieniężnej należy dołączyć odpowiednio kopie dokumentów, które będą stanowić podstawę ustalenia stanu zdrowia, sytuacji rodzinnej i materialnej wnioskodawcy lub osób prowadzących wspólne gospodarstwo domowe wnioskodawcą:
+12. Do wniosku o przyznanie pomocy pieniężnej należy dołączyć odpowiednio kopie dokumentów, które będą stanowić podstawę ustalenia stanu zdrowia, sytuacji rodzinnej i materialnej wnioskodawcy lub osób prowadzących wspólne gospodarstwo domowe z wnioskodawcą:
 
 - **1)** orzeczenia o inwalidztwie, o niezdolności do pracy lub o stopniu niepełnosprawności;
 - **2)** dokumentu potwierdzającego wysokość dochodu netto, w szczególności aktualnej decyzji o waloryzacji renty lub emerytury lub zaświadczenia pracodawcy o wysokości wynagrodzenia za pracę;
-- **3)** nakazu płatniczego podatku rolnego oraz zaświadczenia urzędu gminy o wielkości gospodarstwa rolnego w hektarach przeliczeniowych;
+- **3)** nakazu płatniczego podatku rolnego oraz zaświadczenia z urzędu gminy o wielkości gospodarstwa rolnego w hektarach przeliczeniowych;
 - **4)** zaświadczenia o kontynuowaniu przez dziecko wnioskodawcy nauki w gimnazjum, szkole ponadgimnazjalnej, szkole ponadpodstawowej lub szkole wyższej;
-- **5)** decyzji o uznaniu lub odmowie uznania danej osoby za bezrobotną oraz utracie statusu bezrobotnego, przyznaniu, odmowie przyznania, wstrzymaniu lub wznowieniu wypłaty oraz utracie lub pozbawieniu prawa do zasiłku, stypendium i innych finansowanych Funduszu Pracy świadczeń niewynikających zawartych umów albo oświadczenia o pozostawaniu w ewidencji bezrobotnych lub poszukujących pracy.
+- **5)** decyzji o uznaniu lub odmowie uznania danej osoby za bezrobotną oraz utracie statusu bezrobotnego, przyznaniu, odmowie przyznania, wstrzymaniu lub wznowieniu wypłaty oraz utracie lub pozbawieniu prawa do zasiłku, stypendium i innych finansowanych z Funduszu Pracy świadczeń niewynikających z zawartych umów albo oświadczenia o pozostawaniu w ewidencji bezrobotnych lub poszukujących pracy.
 
 13. W szczególnie uzasadnionych przypadkach Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może przyznać pomoc pieniężną na innych warunkach niż określone w ust. 4–7 i ust. 9.
 
 **Art. 10b.**
 
-1. Do spraw związanych przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b–5d i art. 109 ustawy dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. 2020 r. poz. 1876 i 2369 oraz 2021 r. poz. 794 i 803) stosuje się odpowiednio. zasiłku pielęgnacyjnego, o którym mowa w art. 16 ustawy dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. 2020 r. poz. 111 oraz 2021 r. poz. 1162), kwoty dodatku pielęgnacyjnego, o którym mowa w art. 75 ustawy dnia 17 grudnia 1998 r. o emeryturach i rentach Funduszu Ubezpieczeń Społecznych, oraz pomocy pieniężnej.
+1. Do spraw związanych z przyznawaniem pomocy pieniężnej przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3a i 5, art. 107 ust. 5b–5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876 i 2369 oraz z 2021 r. poz. 794 i 803) stosuje się odpowiednio.
+
+2. Jako kwotę dochodu, o którym mowa w art. 8 ust. 9 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, przyjmuje się kwotę ustaloną zgodnie z art. 9 ust. 6 tej ustawy.
+
+3. Do dochodu nie wlicza się pozostałych świadczeń pieniężnych, o których mowa w art. 36 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, kwoty zasiłku pielęgnacyjnego, o którym mowa w art. 16 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2020 r. poz. 111 oraz z 2021 r. poz. 1162), kwoty dodatku pielęgnacyjnego, o którym mowa w art. 75 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz pomocy pieniężnej.
 
 **Art. 11.**
 
-1. Dokumentem potwierdzającym prawo do korzystania uprawnień, o których mowa w ustawie, jest legitymacja cywilnej niewidomej ofiary działań wojennych, wystawiona przez organ rentowy.
+1. Dokumentem potwierdzającym prawo do korzystania z uprawnień, o których mowa w ustawie, jest legitymacja cywilnej niewidomej ofiary działań wojennych, wystawiona przez organ rentowy.
 
-2. Osoba uprawniona jest obowiązana do okazywania legitymacji na żądanie instytucji albo osoby realizującej przysługujące uprawnienie lub kontrolującej prawo do korzystania uprawnień.
+2. Osoba uprawniona jest obowiązana do okazywania legitymacji na żądanie instytucji albo osoby realizującej przysługujące uprawnienie lub kontrolującej prawo do korzystania z uprawnień.
 
 3. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór legitymacji cywilnej niewidomej ofiary działań wojennych, tryb jej wydawania, wymiany i anulowania, kierując się koniecznością zapewnienia sprawności postępowania przy wydawaniu tych legitymacji.
 
-**Art. 12.** Świadczenia, ryczałt energetyczny, pomoc pieniężna, dodatki pielęgnacyjne i zasiłki pogrzebowe, o których mowa w niniejszej ustawie, koszty ich wypłat, koszty postępowania w sprawie wniosków o przyznanie świadczenia lub pomocy pieniężnej oraz koszty wydawania legitymacji, o których mowa w art. 11, finansowane są budżetu państwa.
+**Art. 12.** Świadczenia, ryczałt energetyczny, pomoc pieniężna, dodatki pielęgnacyjne i zasiłki pogrzebowe, o których mowa w niniejszej ustawie, koszty ich wypłat, koszty postępowania w sprawie wniosków o przyznanie świadczenia lub pomocy pieniężnej oraz koszty wydawania legitymacji, o których mowa w art. 11, finansowane są z budżetu państwa.
 
-**Art. 13.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o emeryturach i rentach Funduszu Ubezpieczeń Społecznych. Art. 14–16. (pominięte)
+**Art. 13.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. Art. 14–16. (pominięte)
 
-**Art. 17.** Ustawa wchodzi w życie dniem 1 stycznia 2007 r.
+**Art. 17.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
 

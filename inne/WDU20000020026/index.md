@@ -8,7 +8,7 @@ pos: 26
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 1 Konstytucji Rzeczypospolitej Polskiej o r z e k a:

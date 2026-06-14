@@ -8,7 +8,7 @@ pos: 287
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego
@@ -559,6 +559,9 @@ source: "isap-pdf"
 #### Rozdział 3 Przepisy końcowe
 
 **Art. 53.** Tracą moc:
+
+- **1)** dekret Prezydenta Rzeczypospolitej Polskiej z dnia 18 listopada 1938 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. poz. 597 oraz z 1945 r. poz. 271 i 273);
+- **2)** ustawa z dnia 23 czerwca 1939 r. o uregulowaniu stanu prawnego majątków Kościoła Prawosławnego (Dz. U. poz. 370).
 
 **Art. 54.** Ustawa wchodzi w życie z dniem ogłoszenia .
 

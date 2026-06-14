@@ -8,10 +8,10 @@ pos: 2815
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2815 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 grudnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2815/text.pdf) |
 
-Poz. 2815 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 grudnia 2023 r.
 zmieniające rozporządzenie w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
-poz. 615, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) wprowadza się następujące zmiany:
+poz. 615, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) wprowadza się następujące zmiany:
 1) w § 3 w ust. 1:
 a) w pkt 22 po wyrazach „art. 138u ust. 1” dodaje się wyrazy „i art. 138w ust. 1”,
 b) w pkt 24 kropkę zastępuje się przecinkiem i dodaje się pkt 25 w brzmieniu: „25) kary pieniężnej, o której mowa w art. 56a ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760).”;

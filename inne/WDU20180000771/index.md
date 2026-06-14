@@ -8,7 +8,7 @@ pos: 771
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o komornikach sądowych
@@ -868,6 +868,14 @@ Art. 261–279. (pominięte)
 
 **Art. 77.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
 
+- **1)** tryb i sposób działania zespołu do przygotowania pytań testowych,
+- **2)** tryb i sposób ustalania wykazu tytułów aktów prawnych, o którym mowa w art. 75 ust. 1,
+- **3)** tryb i sposób zgłaszania propozycji pytań testowych wraz z wykazem prawidłowych odpowiedzi,
+- **4)** tryb i sposób przygotowania, przechowywania oraz przekazywania komisjom kwalifikacyjnym zestawu pytań testowych wraz z kartą odpowiedzi i wykazem prawidłowych odpowiedzi,
+- **5)** tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
+- **6)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych,
+- **7)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków zespołu do przygotowania pytań testowych – uwzględniając konieczność prawidłowego i sprawnego przeprowadzenia naboru na aplikację, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego, konieczność zabezpieczenia pytań testowych wraz z wykazem prawidłowych odpowiedzi przed ich nieuprawnionym ujawnieniem oraz nakład pracy i zakres obowiązków przewodniczącego, zastępcy przewodniczącego i członków zespołu do przygotowania pytań testowych.
+
 **Art. 78.**
 
 1. Komisje kwalifikacyjne powołuje Minister Sprawiedliwości, w drodze zarządzenia, określając ich właściwość miejscową. Właściwość miejscowa komisji kwalifikacyjnej obejmuje obszar właściwości jednej lub kilku izb komorniczych.
@@ -989,6 +997,11 @@ Art. 261–279. (pominięte)
 4. Minister Sprawiedliwości zawiadamia o wynikach egzaminu wstępnego rady izb komorniczych i udostępnia w Biuletynie Informacji Publicznej imiona i nazwiska osób, które uzyskały pozytywny wynik egzaminu wstępnego, oraz imiona ich rodziców.
 
 **Art. 87.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
+
+- **1)** tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej,
+- **2)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego oraz członków komisji kwalifikacyjnej,
+- **3)** zakres informacji zawartych w kwestionariuszu osobowym kandydata,
+- **4)** szczegółowy sposób przeprowadzania egzaminu wstępnego, w szczególności sposób działania komisji kwalifikacyjnej oraz sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez izby komornicze, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i sprawnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego, zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej oraz liczbę osób, które złożyły zgłoszenie, zakres i nakład pracy przewodniczącego, zastępcy przewodniczącego i członków komisji kwalifikacyjnej oraz tryb wypłacania ich wynagrodzenia, a także konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu wstępnego.
 
 ##### Oddział 2 Aplikacja
 
@@ -1135,6 +1148,12 @@ Art. 261–279. (pominięte)
 
 **Art. 100.** Wpis na listę aplikantów komorniczych wygasa z mocy prawa z dniem, w którym aplikant:
 
+- **1)** zmarł;
+- **2)** zrezygnował z odbywania aplikacji;
+- **3)** został prawomocnie skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** został ubezwłasnowolniony częściowo albo całkowicie;
+- **5)** został prawomocnie ukarany karą dyscyplinarną wydalenia z aplikacji.
+
 **Art. 101.**
 
 1. Rada izby komorniczej skreśla aplikanta z listy aplikantów komorniczych, jeżeli aplikant:
@@ -1164,6 +1183,11 @@ Art. 261–279. (pominięte)
 3. W przypadku skutecznego uchylenia się przez aplikanta od skutków złożonego oświadczenia o rezygnacji, rada właściwej izby komorniczej niezwłocznie zawiadamia o tym fakcie aplikanta.
 
 **Art. 103.** Minister Sprawiedliwości, po zasięgnięciu opinii Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury oraz Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, organizację i przebieg aplikacji, w tym:
+
+- **1)** zadania aplikanta i sposób ich wykonywania,
+- **2)** termin rozpoczęcia i zakończenia zajęć seminaryjnych oraz przerwy w ich odbywaniu, a także tryb wyznaczenia dodatkowego terminu rozpoczęcia zajęć seminaryjnych,
+- **3)** tryb i sposób organizacji zajęć seminaryjnych i praktyk oraz ich rodzaj,
+- **4)** okres niemożności pełnienia przez aplikanta jego obowiązków wliczany do okresu aplikacji oraz tryb postępowania w przypadku jego przekroczenia, a także tryb i sposób usprawiedliwiania niemożności pełnienia przez aplikanta jego obowiązków – mając na względzie konieczność zapewnienia właściwego prowadzenia aplikacji, wysokiego poziomu szkolenia aplikantów oraz właściwego przygotowania do zawodu komornika, a także mając na uwadze ustawowy czas trwania aplikacji oraz biorąc pod uwagę możliwość zaistnienia szczególnych sytuacji uniemożliwiających rozpoczęcie zajęć seminaryjnych w wyznaczonym terminie.
 
 ##### Oddział 3 Egzamin komorniczy
 
@@ -1197,6 +1221,11 @@ Art. 261–279. (pominięte)
 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 1, mając na uwadze konieczność zachowania zasad uczciwej konkurencji i równego traktowania wykonawców oraz zabezpieczenia zadań wraz z opisami istotnych zagadnień przed ich nieuprawnionym ujawnieniem.
 
 **Art. 107.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
+
+- **1)** tryb i sposób działania zespołu,
+- **2)** tryb i sposób zgłaszania propozycji zadań wraz z opisami istotnych zagadnień, ich przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym zadań na egzamin komorniczy wraz z opisami istotnych zagadnień,
+- **3)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu,
+- **4)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków zespołu – uwzględniając konieczność prawidłowego i sprawnego przeprowadzenia egzaminu komorniczego, w szczególności konieczność zabezpieczenia zadań wraz z opisami istotnych zagadnień przed ich nieuprawnionym ujawnieniem oraz nakład pracy i zakres obowiązków przewodniczącego, zastępcy przewodniczącego i członków zespołu.
 
 **Art. 108.**
 
@@ -1232,6 +1261,11 @@ Art. 261–279. (pominięte)
 2. Koszty przeprowadzenia egzaminu komorniczego oraz wydatki związane z działalnością komisji egzaminacyjnej pokrywają rady właściwych izb komorniczych ze środków pochodzących z części budżetu państwa, która pozostaje w dyspozycji Ministra Sprawiedliwości, przekazanych na zadanie zlecone, o którym mowa w ust. 1, z wyjątkiem wynagrodzeń przewodniczącego, zastępcy przewodniczącego i członków komisji egzaminacyjnej, które są pokrywane bezpośrednio przez Ministra Sprawiedliwości.
 
 **Art. 112.** Minister Sprawiedliwości udostępnia w Biuletynie Informacji Publicznej, nie później niż 90 dni przed terminem egzaminu komorniczego, ogłoszenie o egzaminie komorniczym, w którym podaje w szczególności:
+
+- **1)** termin złożenia wniosku o dopuszczenie do egzaminu komorniczego;
+- **2)** właściwość miejscową każdej komisji egzaminacyjnej i adres jej siedziby;
+- **3)** termin przeprowadzenia każdej części egzaminu komorniczego;
+- **4)** wysokość opłaty za udział w egzaminie komorniczym.
 
 **Art. 113.**
 
@@ -1352,6 +1386,15 @@ Art. 261–279. (pominięte)
 
 **Art. 123.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
 
+- **1)** tryb i termin zgłaszania kandydatów na członków komisji egzaminacyjnej oraz powoływania i odwoływania członków komisji egzaminacyjnej,
+- **2)** rodzaj dokumentów, o których mowa w art. 114 ust. 2 pkt 4–6,
+- **3)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków komisji egzaminacyjnej,
+- **4)** zakres informacji zawartych w kwestionariuszu osobowym osoby uprawnionej do przystąpienia do egzaminu komorniczego,
+- **5)** szczegółowy tryb i sposób przeprowadzania egzaminu komorniczego, w szczególności:
+    - **a)** sposób działania komisji egzaminacyjnej,
+    - **b)** czas trwania poszczególnych części egzaminu komorniczego,
+    - **c)** sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnej przez izby komornicze, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i sprawnego przeprowadzenia egzaminu komorniczego, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnej, liczbę zdających, zakres i nakład pracy przewodniczącego, zastępcy przewodniczącego i członków komisji egzaminacyjnej oraz tryb wypłacania ich wynagrodzenia, a także konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu komorniczego.
+
 **Art. 124.** Od uchwały o wyniku egzaminu komorniczego zdającemu przysługuje odwołanie do komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości, zwanej dalej „komisją odwoławczą”, w terminie 14 dni od dnia doręczenia uchwały, o której mowa w art. 120 ust. 2.
 
 **Art. 125.**
@@ -1395,9 +1438,18 @@ Art. 261–279. (pominięte)
 
 **Art. 128.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
 
+- **1)** tryb i termin zgłaszania kandydatów na członków komisji odwoławczej,
+- **2)** termin powołania komisji odwoławczej,
+- **3)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków komisji odwoławczej,
+- **4)** tryb i sposób działania komisji odwoławczej,
+- **5)** sposób zorganizowania obsługi administracyjno-biurowej komisji odwoławczej – uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań, zapewnienia zachowania bezstronności pracy członków komisji odwoławczej oraz zakres i nakład pracy przewodniczącego, zastępcy przewodniczącego i członków komisji odwoławczej oraz tryb wypłacania ich wynagrodzeń.
+
 #### Rozdział 7 Asesorzy
 
 **Art. 129.** Na stanowisko asesora może zostać powołana osoba, która złożyła wniosek o powołanie na stanowisko asesora oraz:
+
+- **1)** uzyskała pozytywny wynik egzaminu komorniczego, oraz spełnia wymogi określone w art. 11 ust. 1 pkt 1–6 i 8 albo art. 11 ust. 1 pkt 1–6 oraz art. 11 ust. 4 lub
+- **2)** spełnia wymogi określone w art. 11 ust. 1 pkt 1–6 oraz art. 11 ust. 3.
 
 **Art. 130.**
 
@@ -1514,6 +1566,11 @@ Art. 261–279. (pominięte)
 3. Uprawnienie do zawieszenia asesora w czynnościach, w przypadkach, o których mowa w ust. 1 i 2, przysługuje również Ministrowi Sprawiedliwości.
 
 **Art. 143.** Zawieszenie asesora w czynnościach ustaje z dniem:
+
+- **1)** prawomocnego zakończenia postępowania, o którym mowa w art. 142 ust. 1 pkt 1 i ust. 2 pkt 2, 3 i 5, chyba że zawieszenie zostało uchylone wcześniej;
+- **2)** oddalenia lub odrzucenia wniosku o ubezwłasnowolnienie albo umorzenia postępowania lub uchylenia postanowienia o ustanowieniu doradcy tymczasowego;
+- **3)** wskazanym we wniosku złożonym w tym przedmiocie przez asesora w przypadku, o którym mowa w art. 142 ust. 2 pkt 1;
+- **4)** oddalenia wniosku o odwołanie z zajmowanego stanowiska ostateczną decyzją, umorzenia postępowania, stwierdzenia braku podstaw do odwołania w postępowaniu wszczętym z urzędu, a w przypadku odwołania asesora ostateczną decyzją – z dniem upływu terminu do wniesienia skargi do sądu administracyjnego lub prawomocnego oddalenia skargi.
 
 **Art. 144.**
 
@@ -1900,7 +1957,26 @@ Art. 261–279. (pominięte)
 
 **Art. 181.** Uprawnienia nadzorcze prezesa właściwego sądu okręgowego obejmują:
 
+- **1)** wszczynanie postępowań dyscyplinarnych;
+- **2)** zlecanie przeprowadzenia wizytacji lub lustracji kancelarii;
+- **3)** kierowanie komorników i asesorów na badania lekarskie, o których mowa w art. 26 i art. 141;
+- **4)** występowanie do Ministra Sprawiedliwości z wnioskiem o odwołanie komornika z zajmowanego stanowiska;
+- **5)** stosowanie innych środków prawnych określonych w przepisach prawa.
+
 **Art. 182.** Uprawnienia nadzorcze prezesa właściwego sądu apelacyjnego obejmują:
+
+- **1)** wszczynanie postępowań dyscyplinarnych;
+- **2)** zlecanie przeprowadzenia wizytacji lub lustracji kancelarii;
+- **3)** zawieszanie asesorów w czynnościach;
+- **4)** podejmowanie czynności związanych z odwołaniem asesora z zajmowanego stanowiska, w szczególności w przypadku uporczywego lub rażącego naruszenia przepisów prawa;
+- **5)** zawieszanie aplikantów w czynnościach;
+- **6)** podejmowanie czynności związanych ze skreśleniem aplikanta z listy aplikantów komorniczych;
+- **7)** podejmowanie, w przypadkach, o których mowa w ustawie, decyzji w przedmiocie zastępstwa komornika;
+- **8)** podejmowanie decyzji związanych z zatrudnianiem przez komorników aplikantów i asesorów;
+- **9)** kierowanie komorników i asesorów na badania lekarskie, o których mowa w art. 26 i art. 141;
+- **10)** występowanie do Ministra Sprawiedliwości z wnioskiem o odwołanie komornika z zajmowanego stanowiska;
+- **11)** analizowanie sprawozdań, o których mowa w art. 186 ust. 1;
+- **12)** stosowanie innych środków prawnych określonych w przepisach prawa.
 
 **Art. 183.**
 
@@ -1977,6 +2053,13 @@ Art. 261–279. (pominięte)
 2. Komornikiem wizytatorem nie może zostać komornik, który w ciągu 4 lat przed powołaniem został odwołany ze składu komisji dyscyplinarnej z przyczyn, o których mowa w art. 232 ust. 1 pkt 3.
 
 **Art. 192.** Powołanie na funkcję komornika wizytatora wygasa w przypadku:
+
+- **1)** śmierci;
+- **2)** wygaśnięcia powołania na stanowisko komornika z mocy prawa lub odwołania komornika z zajmowanego stanowiska;
+- **3)** zrzeczenia się funkcji;
+- **4)** upływu kadencji;
+- **5)** prawomocnego ukarania karą dyscyplinarną, o której mowa w art. 224 ust. 1 pkt 2–5;
+- **6)** dwukrotnego wytknięcia uchybienia w trybie art. 166 ust. 4.
 
 **Art. 193.**
 
@@ -2131,6 +2214,10 @@ Art. 261–279. (pominięte)
 
 **Art. 206.** Organami izby komorniczej są:
 
+- **1)** walne zgromadzenie izby komorniczej;
+- **2)** rada izby komorniczej;
+- **3)** komisja rewizyjna.
+
 **Art. 207.**
 
 1. Walne zgromadzenia izby komorniczej dzielą się na zwyczajne i nadzwyczajne.
@@ -2250,11 +2337,56 @@ Art. 261–279. (pominięte)
 
 **Art. 217.** Lista komorników zawiera następujące dane dotyczące komorników:
 
+- **1)** imię i nazwisko;
+- **2)** numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL);
+- **3)** numer identyfikacji podatkowej;
+- **4)** nazwę sądu, przy którym działa komornik, i numer porządkowy kancelarii;
+- **5)** oznaczenie izby komorniczej, do której należy komornik;
+- **6)** datę wydania i numer decyzji o powołaniu na stanowisko komornika;
+- **7)** datę złożenia ślubowania;
+- **8)** datę wydania i numer decyzji o odwołaniu komornika z zajmowanego stanowiska;
+- **9)** datę zwolnienia stanowiska komornika;
+- **10)** datę wydania i numer postanowienia o zawieszeniu w czynnościach lub zarządzenia o odsunięciu od wykonywania czynności;
+- **11)** datę ustania zawieszenia w czynnościach;
+- **12)** datę wydania i numer zarządzenia o wyznaczeniu zastępcy danego komornika;
+- **13)** imię i nazwisko zastępcy komornika oraz zajmowane przez zastępcę stanowisko;
+- **14)** czas trwania zastępstwa komornika;
+- **15)** informacje o pełnieniu przez komornika obowiązków zastępcy innego komornika.
+
 **Art. 218.** Lista zastępców komorników zawiera następujące dane:
+
+- **1)** imię i nazwisko zastępcy komornika oraz zajmowane przez zastępcę stanowisko;
+- **2)** datę wydania i numer zarządzenia o wyznaczeniu zastępcy komornika;
+- **3)** imię i nazwisko zastępowanego komornika;
+- **4)** czas trwania zastępstwa komornika.
 
 **Art. 219.** Wykaz asesorów komorniczych zawiera następujące dane dotyczące asesorów:
 
+- **1)** imię i nazwisko;
+- **2)** numer PESEL;
+- **3)** oznaczenie izby komorniczej, do której należy asesor;
+- **4)** datę wydania i numer decyzji o powołaniu na stanowisko asesora;
+- **5)** datę złożenia ślubowania;
+- **6)** datę wydania i numer decyzji o odwołaniu asesora z zajmowanego stanowiska;
+- **7)** datę zwolnienia stanowiska asesora;
+- **8)** datę wydania i numer postanowienia o zawieszeniu w czynnościach lub zarządzenia o odsunięciu od wykonywania czynności;
+- **9)** datę ustania zawieszenia w czynnościach;
+- **10)** oznaczenie kancelarii, w której asesor jest zatrudniony;
+- **11)** informacje o pełnieniu przez danego asesora obowiązków zastępcy komornika.
+
 **Art. 220.** Lista aplikantów komorniczych zawiera następujące dane dotyczące aplikantów:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL;
+- **3)** datę złożenia ślubowania;
+- **4)** datę wydania i numer postanowienia o zawieszeniu w czynnościach;
+- **5)** datę ustania zawieszenia w czynnościach;
+- **6)** datę podjęcia i numer uchwały w sprawie wpisu na listę aplikantów komorniczych;
+- **7)** datę wpisu na listę aplikantów komorniczych;
+- **8)** datę rozpoczęcia aplikacji;
+- **9)** datę i numer decyzji lub uchwały o skreśleniu z listy aplikantów komorniczych albo wydaleniu z aplikacji;
+- **10)** datę skreślenia z listy aplikantów komorniczych;
+- **11)** oznaczenie kancelarii, w której aplikant jest zatrudniony.
 
 **Art. 221.**
 
@@ -2273,6 +2405,18 @@ Art. 261–279. (pominięte)
 #### Rozdział 11 Odpowiedzialność dyscyplinarna
 
 **Art. 222.** Komornik odpowiada dyscyplinarnie za następujące zawinione działania lub zaniechania (przewinienia dyscyplinarne):
+
+- **1)** naruszenie powagi lub godności urzędu albo inne uchybienie zasadom etyki zawodowej;
+- **2)** niewykonanie zaleceń powizytacyjnych, polustracyjnych lub pokontrolnych, jak też zarządzeń organów nadzoru administracyjnego;
+- **3)** wydatkowanie środków podlegających dokumentacji na działalność niezgodną z ich przeznaczeniem;
+- **4)** podejmowanie czynności z nieuzasadnioną zwłoką;
+- **5)** naruszenie właściwości określonej w art. 9 i art. 10, w szczególności zasad przyjmowania spraw z wyboru wierzyciela;
+- **6)** niepodjęcie lub nieterminowe podjęcie czynności, o których mowa w art. 767 § 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+- **7)** brak nadzoru nad zatrudnionymi asesorami i aplikantami oraz innymi osobami, o których mowa w art. 153 ust. 1;
+- **8)** pozyskiwanie informacji z naruszeniem art. 761 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+- **9)** naruszenie zasad korzystania z prawa do nieobecności, usprawiedliwiania tych nieobecności albo korzystania z wyznaczonego zastępcy komornika określonych w art. 39–41 i art. 43;
+- **10)** odmowę podjęcia obowiązków zastępcy komornika w przypadkach, o których mowa w art. 43 ust. 6 i art. 45 ust. 5;
+- **11)** inną niż wymienione w pkt 1–10 rażącą lub uporczywą obrazę przepisów prawa.
 
 **Art. 223.**
 
@@ -2712,6 +2856,9 @@ Art. 261–279. (pominięte)
 
 **Art. 297.** W przypadku przekazania jednemu sądowi rejonowemu rozpoznawania spraw egzekucyjnych z obszaru właściwości lub części obszarów właściwości innych sądów rejonowych, wszczęte i niezakończone postępowania toczące się przed sądem rejonowym, w którym nie utworzono wydziału egzekucyjnego, a które należałyby do właściwości wydziałów egzekucyjnych:
 
+- **1)** są nadal prowadzone przez właściwy dotąd sąd rejonowy, o ile dotyczą spraw, o których mowa w art. 12 § 1 pkt 7 lit. a–e ustawy zmienianej w art. 269 , oraz spraw w przedmiocie nadzoru nad egzekucją z nieruchomości, jeżeli w dniu wejścia w życie niniejszej ustawy został już wyznaczony termin licytacji nieruchomości przypadający po dniu wejścia w życie niniejszej ustawy albo zamknięcie przetargu nastąpiło przed dniem wejścia w życie niniejszej ustawy;
+- **2)** zostaną przekazane do właściwych sądów, jeżeli dotyczą pozostałych, niewymienionych w pkt 1, spraw, które należą do właściwości wydziałów egzekucyjnych.
+
 **Art. 298.**
 
 1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 261 , w brzmieniu nadanym niniejszą ustawą.
@@ -2773,4 +2920,8 @@ Art. 261–279. (pominięte)
 **Art. 305.** Traci moc ustawa z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277, 1343, 1452 i 1910).
 
 **Art. 306.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem:
+
+- **1)** art. 12 ust. 1 i art. 289, które wchodzą w życie z dniem następującym po dniu ogłoszenia ;
+- **2)** art. 269 i art. 297, które wchodzą w życie z dniem 1 stycznia 2020 r.
+
 

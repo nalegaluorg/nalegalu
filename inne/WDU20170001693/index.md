@@ -8,10 +8,10 @@ pos: 1693
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 września 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1693 WZÓR (oznaczenie organu) ……………………, dnia ...................................... r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1693/text.pdf) |
 
-(oznaczenie organu) ……………………, dnia ...................................... r.
 JEDNORAZOWE POZWOLENIE NA CZASOWY WYWÓZ ZA GRANICĘ MUZEALIUM, KTÓRE NIE STANOWI ZABYTKU W ROZUMIENIU ART. 3 PKT 1 USTAWY Z DNIA 23 LIPCA 2003 R. O OCHRONIE ZABYTKÓW I OPIECE NAD ZABYTKAMI (Dz. U. z 2014 r. poz. 1446, z późn. zm.) ORAZ JEST WPISANE DO INWENTARZA MUZEALIÓW W MUZEUM BĘDĄCYM INSTYTUCJĄ KULTURY Na podstawie art. 29a ust. 2 pkt 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U.
 z 2017 r. poz. 972, z późn. zm.) oraz art. 53 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.) w związku z art. 29a ust. 3 ustawy z dnia 21 listopada 1996 r. o muzeach zezwala się: .......................................................................................................................................................
 .......................................................................................................................................................
@@ -45,7 +44,7 @@ Uzasadnienie: …………………………………………………………
 Pouczenie
 1. Od pozwolenia wydanego przez wojewódzkiego konserwatora zabytków stronie niezadowolonej z wydanego pozwolenia przysługuje prawo wniesienia odwołania do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, za pośrednictwem wojewódzkiego konserwatora zabytków, w terminie 14 dni od dnia doręczenia pozwolenia. W trakcie biegu terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia odwołania wobec organu, który wydał pozwolenie. Z dniem doręczenia organowi oświadczenia o zrzeczeniu się prawa do wniesienia odwołania pozwolenie staje się ostateczne i prawomocne.
 2. Pozwolenie nie zwalnia z obowiązków wynikających z przepisów ograniczających obrót towarowy z zagranicą.
-(oznaczenie organu) ……………………, dnia ..................................... r.
+WZÓR (oznaczenie organu) ……………………, dnia ..................................... r.
 WIELOKROTNE POZWOLENIE INDYWIDUALNE NA CZASOWY WYWÓZ ZA GRANICĘ MUZEALIUM, KTÓRE NIE STANOWI ZABYTKU W ROZUMIENIU ART. 3 PKT 1 USTAWY Z DNIA 23 LIPCA 2003 R. O OCHRONIE ZABYTKÓW I OPIECE NAD ZABYTKAMI (Dz. U. z 2014 r. poz. 1446, z późn. zm.) ORAZ JEST WPISANE DO INWENTARZA MUZEALIÓW W MUZEUM BĘDĄCYM INSTYTUCJĄ KULTURY Na podstawie art. 29a ust. 2 pkt 2 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U.
 z 2017 r. poz. 972, z późn. zm.) oraz art. 54 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zab ytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.) w związku z art. 29a ust. 3 ustawy z dnia 21 listopada 1996 r. o muzeach zezwala się: .......................................................................................................................................................
 .......................................................................................................................................................
@@ -64,7 +63,7 @@ Pouczenie
 1. Od pozwolenia wydanego przez wojewódzkiego konserwatora zabytków stronie niezadowolonej z wydanego pozwolenia przysługuje prawo wniesienia odwołania do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, za pośrednictwem wojewódzkiego konserwatora zabytków, w terminie 14 dni od dnia doręczenia pozwolenia. W trakcie biegu terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia odwołania wobec organu, który wydał pozwolenie. Z dniem doręczenia organowi oświadczenia o zrzeczeniu się prawa do wniesienia odwołania pozwolenie staje się ostateczne i prawomocne.
 2. Pozwolenie nie zwalnia z obowiązków wynikających z przepisów ograniczających obrót towarowy z zagranicą.
 3. Muzeum, które otrzymało niniejsze pozwolenie, po jego wykorzystaniu jest obowiązane powiadomić wojewódzkiego konserwatora zabytków o przywiezieniu zabytku na terytorium Rzeczypospolitej Polskiej w terminie nie dłuższym niż 14 dni od dnia upływu ważności pozwolenia.
-(oznaczenie organu) ……………………, dnia ..................................... r.
+WZÓR (oznaczenie organu) ……………………, dnia ..................................... r.
 WIELOKROTNE POZWOLENIE OGÓLNE NA CZASOWY WYWÓZ ZA GRANICĘ MUZEALIÓW, KTÓRE NIE STANOWIĄ ZABYTKÓW W ROZUMIENIU ART. 3 PKT 1 USTAWY Z DNIA 23 LIPCA 2003 R. O OCHRONIE ZABYTKÓW I OPIECE NAD ZABYTKAMI (Dz. U. z 2014 r. poz. 1446, z późn. zm.) ORAZ SĄ WPISANE DO INWENTARZA MUZEALIÓW W MUZEUM BĘDĄCYM INSTYTUCJĄ KULTURY Na podstawie art. 29a ust. 2 pkt 3 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U.
 z 2017 r. poz. 972, z późn. zm.) oraz art. 55 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.) w związku z art. 29a ust. 3 ustawy z dnia 21 listopada 1996 r. o muzeach zezwala się: .......................................................................................................................................................
 .......................................................................................................................................................

@@ -8,10 +8,10 @@ pos: 229
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 222299 Załącznik do rozporządzenia Ministra Klimatu i Środowiska z dnia 14 lutego 2024 r. (Dz. U.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000229) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/229/text.pdf) |
 
-KACH W SŁUŻBACH PARKÓW Wymagania kwalifikacyjne Lp. Stanowisko staż pracy wykształcenie 1 dyrektor parku według odrębnych według odrębnych przepisów przepisów 2 zastępca dyrektora 6 lat pracy, w tym 2 lata wyższe: parku pracy na stanowisku 1) studia ukończone po dniu kierowniczym 30 września 2019 r. na kierunku przyporządkowanym do dyscypliny naukowej albo dyscypliny naukowej wiodącej:
+poz. …) WYMAGANIA KWALIFIKACYJNE, JAKIE POWINNI SPEŁNIAĆ PRACOWNICY ZATRUDNIENI NA POSZCZEGÓLNYCH STANOWISKACH W SŁUŻBACH PARKÓW NARODOWYCH Wymagania kwalifikacyjne Lp. Stanowisko staż pracy wykształcenie 1 dyrektor parku według odrębnych według odrębnych przepisów przepisów 2 zastępca dyrektora 6 lat pracy, w tym 2 lata wyższe: parku pracy na stanowisku 1) studia ukończone po dniu kierowniczym 30 września 2019 r. na kierunku przyporządkowanym do dyscypliny naukowej albo dyscypliny naukowej wiodącej:
 a) nauki biologiczne,
 b) nauki leśne,
 c) rolnictwo i ogrodnictwo,
@@ -60,7 +60,7 @@ o) turystyka i rekreacja,
 p) wychowanie fizyczne,
 q) politologia,
 r) górnictwo i geologia lub
-s) energetyka 3 główny księgowy według odrębnych według odrębnych przepisów przepisów 4 główny specjalista 6 lat pracy na stanowisku wyższe: do spraw: o specjalności zgodnej 1) studia ukończone po dniu ochrony przyrody, z zakresem działania parku 30 września 2019 r. na udostępniania narodowego kierunku przyporządkowanym parku, do dyscypliny naukowej albo edukacji dyscypliny naukowej wiodącej:
+s) energetyka 3 główny księgowy według odrębnych według odrębnych przepisów przepisów 4 główny specjalista 6 lat pracy na stanowisku wyższe: do spraw: o specjalności zgodnej 1) studia ukończone po dniu – ochrony przyrody, z zakresem działania parku 30 września 2019 r. na – udostępniania narodowego kierunku przyporządkowanym parku, do dyscypliny naukowej albo – edukacji dyscypliny naukowej wiodącej:
 a) nauki biologiczne,
 b) nauki leśne,
 c) rolnictwo i ogrodnictwo,
@@ -136,7 +136,7 @@ n) ekonomia,
 o) wychowanie fizyczne,
 p) politologia,
 q) górnictwo i geologia lub
-r) energetyka 7 kierownik działu do 4 lata pracy na stanowisku wyższe: spraw: o specjalności zgodnej 1) studia ukończone po dniu ochrony przyrody, z zakresem działania parku 30 września 2019 r. na udostępniania narodowego kierunku przyporządkowanym parku, do dyscypliny naukowej albo edukacji dyscypliny naukowej wiodącej:
+r) energetyka 7 kierownik działu do 4 lata pracy na stanowisku wyższe: spraw: o specjalności zgodnej 1) studia ukończone po dniu – ochrony przyrody, z zakresem działania parku 30 września 2019 r. na – udostępniania narodowego kierunku przyporządkowanym parku, do dyscypliny naukowej albo – edukacji dyscypliny naukowej wiodącej:
 a) nauki biologiczne,
 b) nauki leśne,
 c) rolnictwo i ogrodnictwo,
@@ -241,7 +241,7 @@ o) kulturoznawstwo,
 p) religioznawstwo,
 q) pedagogika,
 r) górnictwo i geologia lub
-s) energetyka 10 starszy specjalista 3 lata pracy na stanowisku wyższe: do spraw: o specjalności zgodnej 1) studia ukończone po dniu ochrony przyrody, z zakresem działania parku 30 września 2019 r. na udostępniania narodowego kierunku przyporządkowanym parku, do dyscypliny naukowej albo edukacji dyscypliny naukowej wiodącej:
+s) energetyka 10 starszy specjalista 3 lata pracy na stanowisku wyższe: do spraw: o specjalności zgodnej 1) studia ukończone po dniu – ochrony przyrody, z zakresem działania parku 30 września 2019 r. na – udostępniania narodowego kierunku przyporządkowanym parku, do dyscypliny naukowej albo – edukacji dyscypliny naukowej wiodącej:
 a) nauki biologiczne,
 b) nauki leśne,
 c) rolnictwo i ogrodnictwo,
@@ -288,8 +288,7 @@ v) zarządzanie,
 w) politologia,
 x) dziennikarstwo,
 y) górnictwo i geologia lub
-z) energetyka 11 kierownik zespołu do spraw: ochrony przyrody, 3 lata pracy na stanowisku o specjalności zgodnej udostępniania parku, edukacji z zakresem działania parku wyższe:
-1) studia ukończone po dniu narodowego 30 września 2019 r. na kierunku przyporządkowanym do dyscypliny naukowej albo dyscypliny naukowej wiodącej:
+z) energetyka 11 kierownik zespołu 3 lata pracy na stanowisku wyższe: do spraw: o specjalności zgodnej 1) studia ukończone po dniu – ochrony przyrody, z zakresem działania parku 30 września 2019 r. na – udostępniania narodowego kierunku przyporządkowanym parku, do dyscypliny naukowej albo – edukacji dyscypliny naukowej wiodącej:
 a) nauki biologiczne,
 b) nauki leśne,
 c) rolnictwo i ogrodnictwo,
@@ -345,8 +344,7 @@ b) rolnictwo i ogrodnictwo lub
 2) studia ukończone przed dniem 1 października 2019 r.
 na kierunku:
 a) leśnictwo lub
-b) ogrodnictwo 5 lat pracy na stanowisku średnie albo średnie branżowe, o specjalności zgodnej a także kwalifikacje z zakresem działania parku zawodowe w zawodzie na narodowego poziomie technika dającym przygotowanie do pracy w leśnictwie lub ogrodnictwie 14 komendant Straży 3 lata pracy w Służbie wyższe Parku Parku Narodowego 5 lat pracy w Służbie Parku średnie albo średnie branżowe Narodowego 15 zastępca 2 lata pracy w Służbie wyższe komendanta Straży Parku Narodowego Parku 3 lata pracy w Służbie średnie albo średnie branżowe Parku Narodowego 16 dowódca grupy terenowej Straży Parku rok pracy w Służbie Parku Narodowego wyższe 2 lata pracy w Służbie średnie albo średnie branżowe Parku Narodowego 17 specjalista do spraw: ochrony przyrody, udostępniania wyższe:
-1) studia ukończone po dniu parku, 30 września 2019 r. na kierunku przyporządkowanym edukacji do dyscypliny naukowej albo dyscypliny naukowej wiodącej:
+b) ogrodnictwo 5 lat pracy na stanowisku średnie albo średnie branżowe, o specjalności zgodnej a także kwalifikacje z zakresem działania parku zawodowe w zawodzie na narodowego poziomie technika dającym przygotowanie do pracy w leśnictwie lub ogrodnictwie 14 komendant Straży 3 lata pracy w Służbie wyższe Parku Parku Narodowego 5 lat pracy w Służbie Parku średnie albo średnie branżowe Narodowego 15 zastępca 2 lata pracy w Służbie wyższe komendanta Straży Parku Narodowego Parku 3 lata pracy w Służbie średnie albo średnie branżowe Parku Narodowego 16 dowódca grupy rok pracy w Służbie Parku wyższe terenowej Straży Narodowego Parku 2 lata pracy w Służbie średnie albo średnie branżowe Parku Narodowego 17 specjalista do spraw: – wyższe: – ochrony przyrody, 1) studia ukończone po dniu – udostępniania 30 września 2019 r. na parku, kierunku przyporządkowanym – edukacji do dyscypliny naukowej albo dyscypliny naukowej wiodącej:
 a) nauki biologiczne,
 b) nauki leśne,
 c) rolnictwo i ogrodnictwo,
@@ -422,7 +420,7 @@ k) wychowanie fizyczne,
 l) kulturoznawstwo,
 m) religioznawstwo,
 n) górnictwo i geologia lub
-o) energetyka 3 lata pracy na stanowisku średnie albo średnie branżowe o specjalności zgodnej z zakresem działania parku narodowego 20 starszy strażnik rok pracy w Służbie Parku wyższe Straży Parku Narodowego 2 lata pracy w Służbie Parku Narodowego średnie albo średnie branżowe 21 podleśniczy wyższe:
+o) energetyka 3 lata pracy na stanowisku średnie albo średnie branżowe o specjalności zgodnej z zakresem działania parku narodowego 20 starszy strażnik rok pracy w Służbie Parku wyższe Straży Parku Narodowego 2 lata pracy w Służbie średnie albo średnie branżowe Parku Narodowego 21 podleśniczy – wyższe:
 1) studia ukończone po dniu 30 września 2019 r. na kierunku przyporządkowanym do dyscypliny naukowej albo dyscypliny naukowej wiodącej:
 a) nauki biologiczne,
 b) nauki leśne,
@@ -452,7 +450,7 @@ l) wychowanie fizyczne,
 m) kulturoznawstwo,
 n) religioznawstwo,
 o) górnictwo i geologia lub
-p) energetyka rok pracy średnie albo średnie branżowe 22 strażnik Straży średnie albo średnie branżowe Parku 23 starszy strażnik wyższe:
+p) energetyka rok pracy średnie albo średnie branżowe 22 strażnik Straży – średnie albo średnie branżowe Parku 23 starszy strażnik – wyższe:
 1) studia ukończone po dniu 30 września 2019 r. na kierunku przyporządkowanym do dyscypliny naukowej albo dyscypliny naukowej wiodącej:
 a) nauki biologiczne,
 b) nauki leśne,
@@ -480,5 +478,5 @@ j) architektura i urbanistyka,
 k) wychowanie fizyczne,
 l) bezpieczeństwo wewnętrzne,
 m) górnictwo i geologia lub
-n) energetyka rok pracy średnie albo średnie branżowe 24 referent techniczny średnie albo średnie branżowe 25 przewodnik według odrębnych według odrębnych przepisów turystyczny przepisów 26 strażnik średnie albo średnie branżowe
+n) energetyka rok pracy średnie albo średnie branżowe 24 referent techniczny – średnie albo średnie branżowe 25 przewodnik według odrębnych według odrębnych przepisów turystyczny przepisów 26 strażnik – średnie albo średnie branżowe
 

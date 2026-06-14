@@ -8,7 +8,7 @@ pos: 1326
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o żegludze śródlądowej

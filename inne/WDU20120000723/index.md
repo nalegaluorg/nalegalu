@@ -8,10 +8,10 @@ pos: 723
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 723 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 19 czerwca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/723/text.pdf) |
 
-Poz. 723 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 19 czerwca 2012 r.
 w sprawie wysokości i sposobu wnoszenia opłat przez jednostki badawcze za kontrolę i weryfikację spełniania zasad Dobrej Praktyki Laboratoryjnej Na podstawie art. 17 ust. 4 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U.
-Nr 63, poz. 322) zarządza się, co następuje: § 1. Rozporządzenie określa wysokość i sposób wnoszenia opłaty:
+Nr 63, poz. 322) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wysokość i sposób wnoszenia opłaty:
 1) jednorazowej za kontrolę i weryfikację spełniania przez jednostkę badawczą zasad Dobrej Praktyki Laboratoryjnej w celu uzyskania przez tę jednostkę certyfikatu Dobrej Praktyki Laboratoryjnej i wpisu jej do wykazu certyfikowanych jednostek badawczych;
 2) rocznej za kontrolę i weryfikację spełniania przez certyfikowane jednostki badawcze zasad Dobrej Praktyki Laboratoryjnej.
 § 2. 1. Opłata jednorazowa, o której mowa w § 1 pkt 1, wynosi 6000 zł.

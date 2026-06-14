@@ -1,501 +1,449 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 495
+Acts excluded from publication due to quality issues. Total: 443
 
 | Address | Reason |
 |---------|--------|
-| WDU19310380294 | unknown error |
-| WDU19320190128 | unknown error |
-| WDU19320260236 | unknown error |
-| WDU19320290277 | unknown error |
-| WDU19350220129 | unknown error |
-| WDU19380270242 | unknown error |
-| WDU19460030017 | unknown error |
-| WDU19470200078 | unknown error |
-| WDU19480570456 | unknown error |
-| WDU19490180118 | unknown error |
-| WDU19490320238 | unknown error |
-| WDU19500360325 | unknown error |
-| WDU19510010001 | unknown error |
-| WDU19510050039 | unknown error |
-| WDU19520460309 | unknown error |
-| WDU19560110057 | unknown error |
-| WDU19560410188 | unknown error |
-| WDU19560540245 | unknown error |
-| WDU19570390173 | unknown error |
-| WDU19580110037 | unknown error |
-| WDU19580170072 | unknown error |
-| WDU19600510297 | unknown error |
-| WDU19640150086 | unknown error |
-| WDU19690210151 | unknown error |
-| WDU19700160138 | unknown error |
-| WDU19710160156 | unknown error |
-| WDU19740270159 | unknown error |
-| WDU19750450234 | unknown error |
-| WDU19820110081 | unknown error |
-| WDU19820160125 | unknown error |
-| WDU19830050033 | unknown error |
-| WDU19830390177 | unknown error |
-| WDU19830440203 | unknown error |
-| WDU19830630287 | unknown error |
-| WDU19840050026 | unknown error |
-| WDU19840360190 | unknown error |
-| WDU19840360191 | unknown error |
-| WDU19840360192 | unknown error |
-| WDU19840550282 | unknown error |
-| WDU19850200086 | unknown error |
-| WDU19850230100 | unknown error |
-| WDU19850370174 | unknown error |
-| WDU19860260126 | unknown error |
-| WDU19860390193 | unknown error |
-| WDU19860470226 | unknown error |
-| WDU19870280157 | unknown error |
-| WDU19870330180 | unknown error |
-| WDU19870330181 | unknown error |
-| WDU19880190132 | unknown error |
-| WDU19880200135 | unknown error |
-| WDU19890110063 | unknown error |
-| WDU19890200107 | unknown error |
-| WDU19890320169 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19890340178 | unknown error |
-| WDU19890340180 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19890350190 | unknown error |
-| WDU19890350192 | unknown error |
-| WDU19890570345 | unknown error |
-| WDU19890740443 | unknown error |
-| WDU19900060036 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19900100068 | unknown error |
-| WDU19900140089 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19900200121 | unknown error |
-| WDU19900210126 | unknown error |
-| WDU19900430251 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU19900430252 | unknown error |
-| WDU19900540310 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19910750329 | unknown error |
-| WDU19920210084 | unknown error |
-| WDU19920510231 | unknown error |
-| WDU19930470212 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU19930810383 | unknown error |
-| WDU19940580240 | unknown error |
-| WDU19940620266 | unknown error |
-| WDU19940650285 | unknown error |
-| WDU19940690306 | unknown error |
-| WDU19941360713 | unknown error |
-| WDU19950140068 | unknown error |
-| WDU19950850426 | character-spaced text — 8 line(s) with >30% single-letter words — likely OCR wit |
-| WDU19950950475 | unknown error |
-| WDU19951270615 | unknown error |
-| WDU19951410700 | unknown error |
-| WDU19960060041 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19960090054 | unknown error |
-| WDU19960320143 | unknown error |
-| WDU19960520235 | unknown error |
-| WDU19960520237 | unknown error |
-| WDU19961430662 | unknown error |
-| WDU19961430663 | unknown error |
-| WDU19961490704 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU19971020642 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU19971110726 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19980340195 | unknown error |
-| WDU19980460293 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19981060668 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19981310861 | unknown error |
-| WDU19981390905 | unknown error |
-| WDU19981450945 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19990080074 | unknown error |
-| WDU19990130114 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU19990570618 | unknown error |
-| WDU19990630727 | unknown error |
-| WDU19991011182 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20000260313 | unknown error |
-| WDU20000280346 | unknown error |
-| WDU20001001084 | unknown error |
-| WDU20011381565 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20020780717 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20021090966 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20021561306 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20021571318 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20021861560 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20022382025 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20030620576 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20031321223 | unknown error |
-| WDU20031691650 | unknown error |
-| WDU20040430412 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20042042091 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
+| WDU19480270183 | No text extracted from PDF — may be a scanned document |
+| WDU19490410294 | source article inventory failed: eli-html=0 AST=14 dup_ast=3 FAIL; duplicate in  |
+| WDU19570390174 | source article inventory failed: eli-html=0 AST=7 dup_ast=3 FAIL; duplicate in A |
+| WDU19600290167 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19710270252 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in A |
+| WDU19820110082 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19840340184 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19840350187 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19860420201 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19860470228 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19890060035 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19890100056 | source article inventory failed: eli-html=1 AST=8 missing_from_ast=1 FAIL; missi |
+| WDU19890300162 | source article inventory failed: eli-html=0 AST=24 dup_ast=3 FAIL; duplicate in  |
+| WDU19890340180 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19890340182 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19890740437 | source article inventory failed: eli-html=0 AST=27 dup_ast=9 FAIL; duplicate in  |
+| WDU19900060036 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19900060037 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19900100060 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19900140086 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19900140087 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in A |
+| WDU19900140089 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19900430251 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19900540310 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19900720423 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19900730431 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19900790466 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19911030448 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19911170511 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19920580280 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19930050022 | source article inventory failed: eli-html=0 AST=5 dup_ast=1 FAIL; duplicate in A |
+| WDU19930470212 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19940530215 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19940620265 | missing Polish diacritics — only 8 in 1634 letters (0.49%) — likely ASCII-only e |
+| WDU19941360704 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19950500261 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19950660335 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19950850426 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19951110539 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19960010001 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19960060041 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19960450198 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
+| WDU19961270593 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
+| WDU19961490704 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19961520723 | rendered round-trip failed: AST=48 rendered=48 missing_child_markers=1 FAIL; mis |
+| WDU19970430271 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19970800508 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19971020642 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19971100715 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19971110726 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19980460293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19981060668 | source article inventory failed: eli-html=0 AST=237 dup_ast=28 FAIL; duplicate i |
+| WDU19981130714 | missing article structure — act type requires Art. markers but parsed AST has 0  |
+| WDU19981170759 | rendered round-trip failed: AST=10 rendered=10 missing_child_markers=1 FAIL; mis |
+| WDU19981621124 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
+| WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19990400401 | source article inventory failed: eli-html=0 AST=14 dup_ast=3 FAIL; duplicate in  |
+| WDU19990410418 | excessive repetition — '..................................................…' app |
+| WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20001131186 | rendered round-trip failed: AST=47 rendered=47 low_sim=1 missing_child_markers=1 |
+| WDU20001141190 | source article inventory failed: eli-html=0 AST=7 dup_ast=2 FAIL; duplicate in A |
+| WDU20010040031 | rendered round-trip failed: AST=384 rendered=384 missing_child_markers=2 FAIL; m |
+| WDU20011101190 | source article inventory failed: eli-html=0 AST=30 dup_ast=2 FAIL; duplicate in  |
+| WDU20011251372 | source article inventory failed: eli-html=0 AST=13 dup_ast=1 FAIL; duplicate in  |
+| WDU20011381565 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20020780717 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-space |
+| WDU20021080945 | rendered round-trip failed: AST=24 rendered=24 missing_child_markers=1 FAIL; mis |
+| WDU20021090966 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20021351144 | rendered round-trip failed: AST=13 rendered=13 missing_child_markers=1 FAIL; mis |
+| WDU20021411183 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20021521265 | rendered round-trip failed: AST=7 rendered=7 missing_child_markers=1 FAIL; missi |
+| WDU20021561306 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20021861560 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20022001680 | source article inventory failed: eli-html=0 AST=6 dup_ast=2 FAIL; duplicate in A |
+| WDU20022382025 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20030060064 | rendered round-trip failed: AST=22 rendered=22 missing_child_markers=1 FAIL; mis |
+| WDU20030520452 | rendered round-trip failed: AST=2 rendered=2 missing_child_markers=1 FAIL; missi |
+| WDU20031371301 | rendered round-trip failed: AST=15 rendered=15 missing_child_markers=1 FAIL; mis |
+| WDU20031921873 | rendered round-trip failed: AST=32 rendered=32 missing_child_markers=1 FAIL; mis |
+| WDU20031931884 | rendered round-trip failed: AST=27 rendered=27 missing_child_markers=1 FAIL; mis |
+| WDU20040430412 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20041521597 | source article inventory failed: eli-html=0 AST=2 dup_ast=1 FAIL; duplicate in A |
+| WDU20042042091 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20050860744 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'przest |
-| WDU20071280903 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20071651169 | unknown error |
-| WDU20071661172 | unknown error |
-| WDU20071711208 | unknown error |
-| WDU20072311704 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20080430258 | unknown error |
-| WDU20080440262 | unknown error |
-| WDU20080960621 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20081340850 | unknown error |
-| WDU20081390876 | unknown error |
-| WDU20091080910 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20092011542 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'àc') |
-| WDU20100110066 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20100210109 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20101250852 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20102441636 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20110640342 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20112401437 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20120000014 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20050940786 | rendered round-trip failed: AST=4 rendered=4 missing_child_markers=1 FAIL; missi |
+| WDU20051411183 | rendered round-trip failed: AST=6 rendered=6 missing_child_markers=1 FAIL; missi |
+| WDU20060520378 | rendered round-trip failed: AST=24 rendered=24 missing_child_markers=1 FAIL; mis |
+| WDU20060660473 | rendered round-trip failed: AST=24 rendered=24 missing_child_markers=1 FAIL; mis |
+| WDU20071230848 | rendered round-trip failed: AST=4 rendered=4 missing_child_markers=1 FAIL; missi |
+| WDU20071280903 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20071360956 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in A |
+| WDU20071360958 | rendered round-trip failed: AST=25 rendered=25 missing_child_markers=2 FAIL; mis |
+| WDU20071811291 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in A |
+| WDU20071811292 | source article inventory failed: eli-html=0 AST=2 dup_ast=1 FAIL; duplicate in A |
+| WDU20072311704 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20080470273 | rendered round-trip failed: AST=15 rendered=15 missing_child_markers=1 FAIL; mis |
+| WDU20080540326 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in A |
+| WDU20080960621 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20081180746 | source article inventory failed: eli-html=0 AST=7 dup_ast=1 FAIL; duplicate in A |
+| WDU20082161369 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in A |
+| WDU20090690593 | rendered round-trip failed: AST=2 rendered=2 missing_child_markers=1 FAIL; missi |
+| WDU20090950792 | rendered round-trip failed: AST=25 rendered=25 missing_child_markers=1 FAIL; mis |
+| WDU20092011542 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àc', ' |
+| WDU20092141658 | rendered round-trip failed: AST=10 rendered=10 missing_child_markers=1 FAIL; mis |
+| WDU20100110066 | rendered round-trip failed: AST=323 rendered=323 missing_child_markers=1 FAIL; m |
+| WDU20100210109 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20101250852 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20101480990 | rendered round-trip failed: AST=16 rendered=16 missing_child_markers=1 FAIL; mis |
+| WDU20102441636 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20102471650 | rendered round-trip failed: AST=2 rendered=2 missing_child_markers=1 FAIL; missi |
+| WDU20110060019 | rendered round-trip failed: AST=4 rendered=4 missing_child_markers=1 FAIL; missi |
+| WDU20110640342 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20111090627 | rendered round-trip failed: AST=2 rendered=2 missing_child_markers=1 FAIL; missi |
+| WDU20111681001 | rendered round-trip failed: AST=7 rendered=7 missing_child_markers=1 FAIL; missi |
+| WDU20112301372 | rendered round-trip failed: AST=17 rendered=17 missing_child_markers=1 FAIL; mis |
+| WDU20112401437 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000066 | excessive repetition — '..................................................…' app |
 | WDU20120000070 | excessive repetition — '..................................................…' app |
-| WDU20120000077 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20120000072 | excessive repetition — '..................................................…' app |
+| WDU20120000077 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000184 | excessive repetition — '1) efekty kształcenia wspólne dla wszystkich zawod…' app |
-| WDU20120000185 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20120000200 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20120000229 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20120000185 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20120000200 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000288 | excessive repetition — '..................................................…' app |
 | WDU20120000394 | excessive repetition — '..................................................…' app |
-| WDU20120000450 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20120000450 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20120000482 | excessive repetition — '..................................................…' app |
 | WDU20120000496 | excessive repetition — '..................................................…' app |
-| WDU20120000638 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20120000837 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
+| WDU20120000571 | excessive repetition — '..................................................…' app |
+| WDU20120000638 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20120000663 | excessive repetition — '..................................................…' app |
+| WDU20120000837 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20120000916 | excessive repetition — '..................................................…' app |
-| WDU20120000925 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20120001031 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130000057 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130000200 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130000211 | re-processed but quality issues: character-spaced text — 5 line(s) with >30% sin |
+| WDU20120000925 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20120000943 | excessive repetition — '..................................................…' app |
+| WDU20120001264 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130000057 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130000185 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130000200 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000337 | excessive repetition — '. ................................................…' app |
-| WDU20130000361 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130000589 | excessive repetition — '…………………………….......................................…' app |
-| WDU20130000698 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130000795 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130000809 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
+| WDU20130000343 | excessive repetition — '..................................................…' app |
+| WDU20130000352 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130000361 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130000540 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130000809 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000924 | excessive repetition — '..................................................…' app |
-| WDU20130000928 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130001246 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130001413 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130001576 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20130001619 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU20140000324 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20140000441 | unknown error |
-| WDU20140000475 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20130001246 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130001413 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130001576 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130001619 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130001674 | excessive repetition — '..................................................…' app |
+| WDU20140000221 | ELI placeholder original content — ELI HTML contains 'patrz oryginał' while PDF  |
+| WDU20140000324 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140000503 | excessive repetition — '..................................................…' app |
-| WDU20140000588 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20140000606 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20140000620 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20140000977 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20140001320 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20140001593 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20140001597 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20140001667 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20140001673 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20140001795 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20140001836 | re-processed but quality issues: character-spaced text — 4 line(s) with >30% sin |
-| WDU20150000048 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20150000148 | re-processed but quality issues: character-spaced text — 12 line(s) with >30% si |
-| WDU20150000290 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20150000561 | re-processed but quality issues: null bytes in output (41 occurrence(s)); charac |
-| WDU20150000725 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20150000796 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20150000903 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20150001170 | excessive repetition — '5) zużycie materiałów i energia' appears 27 times (likel |
-| WDU20150001209 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20150001783 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160000357 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20140000588 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140000606 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140001083 | excessive repetition — '..................................................…' app |
+| WDU20140001127 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140001245 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140001593 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140001597 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20140001667 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140001673 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20140001675 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140001795 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140001836 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150000048 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150000148 | character-spaced text — 11 line(s) with >30% single-letter words — likely OCR wi |
+| WDU20150000561 | character-spaced text — 28 line(s) with >30% single-letter words — likely OCR wi |
+| WDU20150000743 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150000749 | excessive repetition — '..................................................…' app |
+| WDU20150000796 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150000903 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150000948 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150001077 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150001170 | excessive repetition — '5) zużycie materiałów i energia' appears 26 times (likel |
+| WDU20150001209 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150001314 | excessive repetition — 'a) dla kierujących wszystkimi pojazdami' appears 21 time |
+| WDU20150001615 | rendered round-trip failed: AST=12 rendered=11 missing_rendered=1 low_sim=1 FAIL |
+| WDU20150001783 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160000357 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20160000369 | excessive repetition — '..................................................…' app |
-| WDU20160000423 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20160000424 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160000460 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20160000696 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160000763 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU20160000802 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160000840 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160000923 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160000950 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20160001092 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160001328 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20160001372 | re-processed but quality issues: character-spaced text — 12 line(s) with >30% si |
-| WDU20160001395 | excessive repetition — '4) benzo(a)antracen,' appears 32 times (likely PDF heade |
-| WDU20160001543 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160001722 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
+| WDU20160000423 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20160000424 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160000696 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160000763 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160000802 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160000840 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160000923 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160001328 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160001372 | character-spaced text — 12 line(s) with >30% single-letter words — likely OCR wi |
+| WDU20160001395 | excessive repetition — '10) indeno(1,2,3-c,d)piren.' appears 29 times (likely PD |
+| WDU20160001722 | character-spaced text — 7 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20160001792 | excessive repetition — '…………………………………………………………………………….....................…' app |
-| WDU20160002197 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160002225 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20160002248 | excessive repetition — 'CELE KSZTAŁCENIA WYMAGANIA SZCZEGÓŁOWE' appears 145 time |
-| WDU20170000089 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20160002158 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160002197 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160002225 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20160002248 | excessive repetition — 'CELE KSZTAŁCENIA – WYMAGANIA SZCZEGÓŁOWE' appears 144 ti |
+| WDU20170000089 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20170000093 | excessive repetition — '..................................................…' app |
 | WDU20170000462 | excessive repetition — '..................................................…' app |
 | WDU20170000721 | excessive repetition — '……………………………………………………………………………………………………………………………..' appea |
-| WDU20170000828 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20170000837 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20170000860 | excessive repetition — '1) efekty kształcenia wspólne dla wszystkich zawod…' app |
-| WDU20170001118 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU20170001146 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20170001155 | re-processed but quality issues: character-spaced text — 124 line(s) with >30% s |
+| WDU20170000822 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170000852 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170001118 | character-spaced text — 7 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170001155 | character-spaced text — 106 line(s) with >30% single-letter words — likely OCR w |
 | WDU20170001162 | excessive repetition — '..................................................…' app |
 | WDU20170001302 | excessive repetition — '………………………………………………………………………………………………………………………………………' app |
 | WDU20170001548 | excessive repetition — 'Objaśnienia i informacje dodatkowe dotyczące m.in.…' app |
-| WDU20170001602 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
 | WDU20170001695 | excessive repetition — '..................................................…' app |
-| WDU20170001716 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20170001783 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20170001803 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
+| WDU20170001716 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170001783 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170001803 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170001806 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20170001962 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'àn') |
 | WDU20170002015 | excessive repetition — '………………………………………………………………………………………………………………………………………' app |
 | WDU20170002019 | excessive repetition — '..................................................…' app |
 | WDU20170002020 | excessive repetition — '..................................................…' app |
-| WDU20170002041 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20170002068 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20170002423 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20170002469 | excessive repetition — 'Które instytucje odpowiadają za te działania?' appears 2 |
-| WDU20180000232 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180000275 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180000331 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180000332 | re-processed but quality issues: character-spaced text — 7 line(s) with >30% sin |
+| WDU20170002041 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170002364 | character-spaced text — 8 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170002443 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20170002469 | excessive repetition — 'Korzyści z wdrożenia działania – analiza jakościow…' app |
+| WDU20180000275 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180000331 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180000371 | excessive repetition — '..................................................…' app |
-| WDU20180000467 | excessive repetition — 'spełnia wymagania określone dla zakresu podstawowe…' app |
-| WDU20180000490 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180000546 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20180000385 | excessive repetition — '1.4. Pielęgniarki – warunki i liczba punktów okreś…' app |
+| WDU20180000467 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180000546 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180000605 | excessive repetition — '..................................................…' app |
-| WDU20180000640 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20180000650 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180000888 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180001172 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180001237 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180001286 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20180001591 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180001631 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180001679 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180001774 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180001790 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180001856 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002023 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20180002025 | missing Polish diacritics — only 9 in 8938 letters (0.10%) — likely ASCII-only e |
-| WDU20180002029 | missing Polish diacritics — only 9 in 8133 letters (0.11%) — likely ASCII-only e |
-| WDU20180002031 | missing Polish diacritics — only 7 in 8378 letters (0.08%) — likely ASCII-only e |
-| WDU20180002047 | missing Polish diacritics — only 8 in 10796 letters (0.07%) — likely ASCII-only  |
-| WDU20180002048 | missing Polish diacritics — only 9 in 4127 letters (0.22%) — likely ASCII-only e |
-| WDU20180002049 | missing Polish diacritics — only 8 in 7083 letters (0.11%) — likely ASCII-only e |
-| WDU20180002051 | missing Polish diacritics — only 9 in 2006 letters (0.45%) — likely ASCII-only e |
-| WDU20180002052 | missing Polish diacritics — only 9 in 3625 letters (0.25%) — likely ASCII-only e |
-| WDU20180002058 | re-processed but quality issues: character-spaced text — 5 line(s) with >30% sin |
-| WDU20180002060 | missing Polish diacritics — only 9 in 10298 letters (0.09%) — likely ASCII-only  |
-| WDU20180002069 | missing Polish diacritics — only 8 in 4211 letters (0.19%) — likely ASCII-only e |
-| WDU20180002070 | missing Polish diacritics — only 8 in 11065 letters (0.07%) — likely ASCII-only  |
-| WDU20180002078 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20180002108 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002119 | missing Polish diacritics — only 9 in 4531 letters (0.20%) — likely ASCII-only e |
-| WDU20180002146 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002180 | re-processed but quality issues: excessive repetition — '3. zasięg geograficzny  |
-| WDU20180002205 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002285 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002296 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002299 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002307 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002314 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002326 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002347 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20180002367 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU20180002388 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002391 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002398 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20180002481 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20190000121 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20190000163 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20190000500 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20190000554 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20190000703 | re-processed but quality issues: character-spaced text — 4 line(s) with >30% sin |
+| WDU20180000640 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20180000650 | source article inventory failed: eli-html=0 AST=280 dup_ast=4 FAIL; duplicate in |
+| WDU20180000888 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180000898 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001237 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001286 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001591 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001631 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001656 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001679 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001774 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001790 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001856 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180002058 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180002180 | excessive repetition — '3. zasięg geograficzny obszaru, którego dotyczy in…' app |
+| WDU20180002296 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180002307 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180002412 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180002481 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20190000121 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20190000163 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190000184 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190000279 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190000500 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190000554 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20190000776 | excessive repetition — '..................................................…' app |
-| WDU20190000846 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20190000846 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190000851 | excessive repetition — '..................................................…' app |
-| WDU20190000991 | excessive repetition — 'Efekty kształcenia Kryteria weryfikacji Uczeń: Ucz…' app |
-| WDU20190001104 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20190001105 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20190001112 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20190001126 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
+| WDU20190000991 | excessive repetition — '5) powiadamia odpowiednie służby' appears 44 times (like |
+| WDU20190001104 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190001105 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190001112 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190001126 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190001230 | excessive repetition — '..................................................…' app |
-| WDU20190001361 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20190001369 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20190001406 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20190001578 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
+| WDU20190001309 | source article inventory failed: eli-html=0 AST=34 dup_ast=2 FAIL; duplicate in  |
+| WDU20190001361 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190001406 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20190001478 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190001578 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190001601 | excessive repetition — '..................................................…' app |
 | WDU20190001637 | excessive repetition — 'CELE KSZTAŁCENIA - WYMAGANIA SZCZEGÓŁOWE' appears 159 ti |
-| WDU20190001658 | excessive repetition — '71. Nr pojazdu kolejowego bez napędu:' appears 32 times  |
-| WDU20190001747 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20190001764 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20190001851 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20190002148 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20190001645 | excessive repetition — '..................................................…' app |
+| WDU20190001735 | excessive repetition — '..................................................…' app |
+| WDU20190001745 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190001747 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190001764 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20190001886 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190002210 | excessive repetition — '..................................................…' app |
-| WDU20190002283 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20190002311 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
+| WDU20190002283 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190002349 | excessive repetition — 'Dopuszczalne jest w razie potrzeby powielanie wier…' app |
-| WDU20190002430 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20190002560 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20200000049 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
+| WDU20190002430 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190002560 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200000049 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200000063 | excessive repetition — '..................................................…' app |
 | WDU20200000189 | excessive repetition — '..................................................…' app |
-| WDU20200000202 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20200000229 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20200000233 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU20200000348 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU20200000390 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20200000560 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20200000202 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200000229 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200000233 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200000348 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200000502 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200000560 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200000666 | excessive repetition — '…………………………………………………………………………………………..' appears 35 times ( |
-| WDU20200000907 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20200000931 | re-processed but quality issues: character-spaced text — 12 line(s) with >30% si |
-| WDU20200001010 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20200001322 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20200000907 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200000931 | character-spaced text — 12 line(s) with >30% single-letter words — likely OCR wi |
+| WDU20200001010 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200001322 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200001605 | excessive repetition — '..................................................…' app |
 | WDU20200001825 | excessive repetition — '..................................................…' app |
-| WDU20200001860 | excessive repetition — 'od 1 stycznia 2030 r.' appears 62 times (likely PDF head |
-| WDU20200001894 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20200001894 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200001916 | excessive repetition — '4 Obowiązek | Warunek Obligatoryjny.' appears 23 times ( |
+| WDU20200001952 | excessive repetition — '..................................................…' app |
 | WDU20200002000 | excessive repetition — 'b) zwiększenia (z tytułu) ...' appears 49 times (likely  |
-| WDU20200002180 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20200002313 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20200002328 | re-processed but quality issues: character-spaced text — 18 line(s) with >30% si |
-| WDU20200002405 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20200002180 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200002313 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200002328 | character-spaced text — 18 line(s) with >30% single-letter words — likely OCR wi |
+| WDU20200002405 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200002448 | excessive repetition — '..................................................…' app |
-| WDU20210000056 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20210000315 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210000329 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20210000358 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210000405 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20210000056 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210000412 | excessive repetition — '…………………………………………………………………………………………………..' appears 22 time |
-| WDU20210000429 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210000472 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210000474 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210000525 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20210000841 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210000894 | excessive repetition — 'Dla sposobu 2 bez ograniczeń' appears 26 times (likely P |
-| WDU20210001156 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20210001174 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210001293 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210001345 | excessive repetition — '71. Nr pojazdu kolejowego bez napędu:' appears 32 times  |
-| WDU20210001390 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
+| WDU20210000417 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210000518 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210000841 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210000894 | excessive repetition — 'Dla sposobu 2 bez ograniczeń' appears 21 times (likely P |
+| WDU20210001156 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20210001174 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210001293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210001390 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210001475 | excessive repetition — '1. Stan bardzo dobry oznacza stan, w którym:' appears 40 |
-| WDU20210001674 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
 | WDU20210001719 | excessive repetition — '..................................................…' app |
-| WDU20210001778 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210001790 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210001795 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210001921 | re-processed but quality issues: character-spaced text — 4 line(s) with >30% sin |
-| WDU20210002088 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210002150 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210002407 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20210002436 | re-processed but quality issues: character-spaced text — 7 line(s) with >30% sin |
-| WDU20210002458 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20210001778 | excessive repetition — '..................................................…' app |
+| WDU20210001790 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210001795 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210001921 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210002088 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210002150 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210002436 | character-spaced text — 5 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210002458 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20220000223 | excessive repetition — '..................................................…' app |
+| WDU20220000245 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20220000256 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àn', ' |
-| WDU20220000369 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20220000436 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20220000622 | excessive repetition — 'spełnia wymagania określone dla zakresu podstawowe…' app |
-| WDU20220001094 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
+| WDU20220000369 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220000419 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220000436 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220001094 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20220001134 | excessive repetition — '.………………………………………………………………………………………………….' appears 113 tim |
-| WDU20220001187 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20220001269 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20220001329 | excessive repetition — 'CELE KSZTAŁCENIA WYMAGANIA SZCZEGÓŁOWE' appears 202 time |
-| WDU20220001456 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20220001187 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220001269 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220001329 | excessive repetition — 'CELE KSZTAŁCENIA – WYMAGANIA SZCZEGÓŁOWE' appears 87 tim |
+| WDU20220001437 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20220001456 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20220001559 | excessive repetition — '..................................................…' app |
-| WDU20220001778 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20220001914 | excessive repetition — '………………………………………………………………………………………………….' appears 142 time |
+| WDU20220001778 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220001914 | excessive repetition — '………………………………………………………………………………………………….' appears 147 time |
 | WDU20220001999 | excessive repetition — '1) nazwę sądu oraz sygnaturę akt sprawy pierwszej …' app |
-| WDU20220002005 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
 | WDU20220002028 | excessive repetition — '..................................................…' app |
-| WDU20220002058 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20220002077 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20220002174 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
+| WDU20220002058 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220002077 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220002133 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220002174 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220002246 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20220002560 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20220002692 | excessive repetition — '..................................................…' app |
-| WDU20220002701 | excessive repetition — '……………………………………………..……………………………………………..……..' appears 66 t |
+| WDU20220002701 | excessive repetition — '……………………………………………..……………………………………………..……..' appears 67 t |
 | WDU20220002807 | excessive repetition — '..................................................…' app |
-| WDU20230000242 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230000244 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230000339 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20220002853 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230000035 | processing failed without diagnostic (stage=error; stale rendered output ignored |
+| WDU20230000244 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230000339 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20230000425 | excessive repetition — '1. Dane binarne / nazwa pliku: 2. Typ pliku :' appears 2 |
-| WDU20230000427 | re-processed but quality issues: character-spaced text — 11 line(s) with >30% si |
-| WDU20230000455 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230000540 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230000558 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230000671 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230000797 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20230000427 | character-spaced text — 11 line(s) with >30% single-letter words — likely OCR wi |
+| WDU20230000455 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230000540 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230000558 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230000670 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230000671 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230000797 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20230000862 | excessive repetition — '..................................................…' app |
-| WDU20230000941 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20230000985 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20230001009 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230001045 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230001120 | re-processed but quality issues: excessive repetition — '....................... |
-| WDU20230001220 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230001373 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230001475 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20230001009 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230001045 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230001220 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20230001293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230001319 | excessive repetition — '..................................................…' app |
+| WDU20230001475 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20230001522 | excessive repetition — '..................................................…' app |
-| WDU20230001562 | excessive repetition — '5) zużycie materiałów i energia' appears 23 times (likel |
-| WDU20230001602 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230001613 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20230001646 | excessive repetition — '..................................................…' app |
+| WDU20230001602 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230001613 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230001646 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repet |
 | WDU20230001714 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àn', ' |
-| WDU20230001715 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
 | WDU20230001754 | excessive repetition — 'Treści nauczania Kryteria weryfikacji' appears 173 times |
-| WDU20230001800 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230001828 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230001832 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230001911 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230002016 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230002023 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
+| WDU20230001828 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repet |
+| WDU20230001832 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230001911 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20230002016 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002019 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002023 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002030 | excessive repetition — '..................................................…' app |
 | WDU20230002093 | excessive repetition — '..................................................…' app |
-| WDU20230002138 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230002429 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230002471 | excessive repetition — 'b) 0,057 za 1 pobranych powierzchniowych;' appears 34 ti |
-| WDU20230002501 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230002621 | excessive repetition — '6. FUNKCJE DOPUSZCZALNE' appears 66 times (likely PDF he |
-| WDU20230002653 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230002672 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230002737 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230002738 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20230002758 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230002817 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20230002821 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240000062 | re-processed but quality issues: character-spaced text — 32 line(s) with >30% si |
-| WDU20240000118 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000136 | re-processed but quality issues: character-spaced text — 6 line(s) with >30% sin |
-| WDU20240000202 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000209 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240000270 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240000335 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU20240000351 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000396 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000453 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000458 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20240000468 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000515 | re-processed but quality issues: character-spaced text — 2 line(s) with >30% sin |
-| WDU20240000611 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240000648 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240000674 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000798 | excessive repetition — '…………………………………………………………………………………………..' appears 35 times ( |
-| WDU20240000823 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000871 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000903 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240000955 | excessive repetition — '..................................................…' app |
-| WDU20240000992 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240000996 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
+| WDU20230002471 | excessive repetition — 'b) 0,057 zł za 1 m pobranych wód powierzchniowych;' appe |
+| WDU20230002501 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002614 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230002621 | excessive repetition — '2. NUMER 3. OPIS AKWENU POŁOŻENIA' appears 66 times (lik |
+| WDU20230002672 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230002737 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230002738 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20230002758 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002773 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002817 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240000062 | character-spaced text — 804 line(s) with >30% single-letter words — likely OCR w |
+| WDU20240000118 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20240000136 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000202 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20240000270 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000335 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000351 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20240000402 | processing failed without diagnostic (stage=error; stale rendered output ignored |
+| WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240000458 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000515 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000558 | rendered round-trip failed: AST=82 rendered=81 missing_rendered=1 low_sim=1 FAIL |
+| WDU20240000569 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000611 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000648 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000674 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240000798 | CID font encoding failure — unreadable glyphs (1 occurrence(s)); excessive repet |
+| WDU20240000823 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20240000871 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240000903 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20240000955 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000992 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); character-space |
+| WDU20240000996 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20240000997 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001014 | excessive repetition — 'o obszarach morskich Rzeczypospolitej Polskiej i a…' app |
-| WDU20240001019 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240001057 | excessive repetition — '..................................................…' app |
-| WDU20240001082 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240001139 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240001184 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240001196 | re-processed but quality issues: character-spaced text — 3 line(s) with >30% sin |
-| WDU20240001249 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
+| WDU20240001019 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240001082 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-space |
+| WDU20240001139 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240001184 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20240001249 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001337 | excessive repetition — 'o obszarach morskich Rzeczypospolitej Polskiej i a…' app |
-| WDU20240001367 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240001404 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240001514 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240001532 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240001533 | excessive repetition — '..................................................…' app |
+| WDU20240001367 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20240001404 | excessive repetition — '..................................................…' app |
+| WDU20240001514 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240001533 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240001542 | excessive repetition — '..................................................…' app |
-| WDU20240001549 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240001645 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
-| WDU20240001709 | re-processed but quality issues: character-spaced text — 1 line(s) with >30% sin |
+| WDU20240001641 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240001746 | excessive repetition — 'Objaśnienia i informacje dodatkowe dotyczące m.in.…' app |
-| WDU20240001754 | re-processed but quality issues: PDF header artifact — '©Kancelaria Sejmu' leake |
-| WDU20240001785 | re-processed but quality issues: character-spaced text — 4 line(s) with >30% sin |
+| WDU20240001754 | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL; low similarity: 2 |
+| WDU20240001785 | excessive repetition — '..................................................…' app |
 | WDU20240001850 | excessive repetition — '..................................................…' app |
-| WDU20240001898 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
-| WDU20240001954 | re-processed but quality issues: CID font encoding failure — unreadable glyphs ( |
+| WDU20240001898 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240001954 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20260000662 | rendered round-trip failed: AST=167 rendered=167 dup_rendered=3 low_sim=3 word_l |
+| WDU20260000711 | rendered round-trip failed: AST=160 rendered=160 dup_rendered=1 low_sim=1 word_l |
+| WDU20260000722 | rendered round-trip failed: AST=83 rendered=83 dup_rendered=3 low_sim=3 word_los |
+| WDU20260000734 | rendered round-trip failed: AST=12 rendered=12 dup_rendered=1 low_sim=1 FAIL; lo |

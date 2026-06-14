@@ -8,7 +8,7 @@ pos: 626
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utracie mocy obowiązującej art. 6 ust. 6 ustawy o podatku dochodowym od osób fizycznych.

@@ -8,10 +8,10 @@ pos: 1493
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1493 ROZPORZĄDZENIE MINISTRA ENERGII z dnia 1 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1493/text.pdf) |
 
-Poz. 1493 ROZPORZĄDZENIE MINISTRA ENERGII z dnia 1 sierpnia 2017 r.
-w sprawie prowadzenia przez Koordynatora do spraw negocjacji postępowania w zakresie pozasądowego rozwiązywania sporów Na podstawie art. 31f ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, 791, 1089 i 1387) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie prowadzenia przez Koordynatora do spraw negocjacji postępowania w zakresie pozasądowego rozwiązywania sporów Na podstawie art. 31f ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, 791, 1089 i 1387) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy tryb prowadzenia postępowania w sprawie pozasądowego rozwiązywania sporów, zwanego dalej „postępowaniem”, o których mowa w art. 31a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w tym termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej;
 2) sposób wnoszenia wniosków o wszczęcie postępowania;
 3) sposób wymiany informacji między stronami postępowania za pomocą środków komunikacji elektronicznej lub przesyłką pocztową.
@@ -38,7 +38,6 @@ b) za pomocą środków komunikacji elektronicznej – w przypadku wpływu wnios
 2) przedsiębiorstwa energetycznego za pomocą środków komunikacji elektronicznej lub przesyłką pocztową.
 § 3. Wniosek może zostać złożony w postaci papierowej do Koordynatora na adres Urzędu Regulacji Energetyki lub w postaci elektronicznej, w tym za pośrednictwem elektronicznej platformy usług administracji publicznej (ePUAP) lub formularza kontaktowego zamieszczonego na stronie internetowej prowadzonej przez Koordynatora.
 § 4. 1. Koordynator informuje przedsiębiorstwo energetyczne o wszczęciu sporu, w tym o jego przedmiocie i żądaniach wnioskodawcy, oraz przepisach prawa mających zastosowanie w sprawie, wyznaczając termin nie krótszy niż 14 dni na ustosunkowanie się do wniosku.
-Dziennik Ustaw – 2 – Poz. 1493
 2. Jeżeli w wyznaczonym terminie przedsiębiorstwo energetyczne:
 1) nie ustosunkuje się do wniosku albo
 2) oświadczy, że nie wyraża zgody na udział w postępowaniu – Koordynator kończy postępowanie, o czym niezwłocznie informuje strony postępowania.

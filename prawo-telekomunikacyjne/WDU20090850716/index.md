@@ -8,7 +8,7 @@ pos: 716
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Prawo telekomunikacyjne oraz niektórych innych ustaw
@@ -28,6 +28,40 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090850716) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/716/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** po pkt 24 dodaje się pkt 24a w brzmieniu: „24a) połączenie - fizyczne lub logiczne połączenie telekomunikacyjnych urządzeń końcowych pozwalające na przesłanie przekazów telekomunikacyjnych;”,
+    - **b)** po pkt 27 dodaje się pkt 27a w brzmieniu: „27a) przekaz telekomunikacyjny - treści rozmów telefonicznych i innych informacji przekazywanych za pomocą sieci telekomunikacyjnych;”,
+    - **c)** pkt 48 otrzymuje brzmienie: „48) usługa telekomunikacyjna - usługę polegającą głównie na przekazywaniu sygnałów w sieci telekomunikacyjnej;”;
+
+- **2)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Przedsiębiorca telekomunikacyjny lub podmiot, który uzyskał pozwolenie radiowe, o którym mowa w art. 143 ust. 1, rezerwację częstotliwości lub zasobów orbitalnych lub przydział numeracji, z wyłączeniem podmiotów, o których mowa w art. 4, jest obowiązany do przekazywania na żądanie Prezesa UKE informacji niezbędnych do wykonywania przez Prezesa UKE jego uprawnień i obowiązków, określonych w art. 192 ust. 1.
+
+2. Żądanie, o którym mowa w ust. 1, powinno być proporcjonalne do celu, jakiemu ma służyć, oraz zawierać:
+
+- **1)** wskazanie przedsiębiorcy lub podmiotu, o którym mowa w ust. 1;
+- **2)** datę;
+- **3)** wskazanie żądanych informacji oraz okresu, którego dotyczą;
+- **4)** wskazanie celu, jakiemu informacje mają służyć;
+- **5)** wskazanie terminu przekazania informacji adekwatnego do zakresu tego żądania, nie krótszego niż 7 dni;
+- **6)** uzasadnienie;
+- **7)** pouczenie o zagrożeniu karą, o której mowa w art. 209 ust. 1.
+
+3. Prezes UKE może zastosować do pozyskania informacji, o których mowa w ust. 1, opracowane przez siebie formularze, dążąc do ujednolicenia i zapewnienia spójności pozyskanych danych.”;
+
+- **3)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Prezes UKE zapewnia dostęp do informacji otrzymanych od przedsiębiorców telekomunikacyjnych organom regulacyjnym innych państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym, zwanych dalej „państwami członkowskimi”, i Komisji Europejskiej, z wyjątkiem przypadków określonych w ustawie.
+
+2. Prezes UKE informuje przedsiębiorcę telekomunikacyjnego o udostępnieniu informacji dostarczonej uprzednio przez tego przedsiębiorcę na żądanie Prezesa UKE.”;
+
+- **4)** w art. 10:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Działalność telekomunikacyjna będąca działalnością gospodarczą jest działalnością regulowaną i podlega wpisowi do rejestru przedsiębiorców telekomunikacyjnych, zwanego dalej „rejestrem”. Wpisowi do rejestru podlega również działalność telekomunikacyjna prowadzona przez przedsiębiorcę telekomunikacyjnego z państwa członkowskiego albo państwa, które zawarło ze Wspólnotą Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, który czasowo świadczy na terytorium Rzeczypospolitej Polskiej usługi na zasadach określonych odpowiednio w przepisach Traktatu ustanawiającego Wspólnotę Europejską, umowy o Europejskim Obszarze Gospodarczym albo w przepisach innej umowy regulują cej swobodę świadczenia usług.”,
+    - **b)** w ust. 4 pkt 4 otrzymuje brzmienie: „4) numer w rejestrze przedsiębiorców albo ewidencji działalności gospodarczej lub innym właściwym rejestrze prowadzonym w państwie członkowskim lub innym państwie określonym w ust. 1;”;
+
+- **5)** w art. 15 pkt 1 otrzymuje brzmienie: „1) określenia rynku właściwego, o którym mowa w art. 22 ust. 1 pkt 1, a także jego analizy i wyznaczenia przedsiębiorcy telekomunikacyjnego o znaczącej pozycji rynkowej lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą, lub uchylenia decyzji w tej sprawie,”;
+- **6)** w art. 19 ust. 2 i 3 otrzymują brzmienie: „2. Jeżeli w zakresie ustalenia znaczącej pozycji rynkowej oraz w zakresie zamiaru zdefiniowania rynku właściwego innego niż rynki określone w zaleceniu Komisji Europejskiej w sprawie właściwych rynków produktów i usług w sektorze łączności elektronicznej podlegających regulacji ex ante, zwanym dalej „zaleceniem Komisji”, Komisja Europejska stwierdzi, że proponowane rozstrzygnięcie może utrudnić rozwój jednolitego rynku lub mogłoby naruszyć prawo wspólnotowe, Prezes UKE po upływie terminu, o którym mowa w art. 16 ust. 2, zawiesza postępowanie na okres 2 miesięcy. W przypadku otrzymania w tym okresie wezwania Komisji Europejskiej do wycofania projektu rozstrzygnięcia, Prezes UKE uwzględnia stanowisko Komisji Europejskiej i umarza postępowanie.
+
+3. Prezes UKE uwzględnia przy stosowaniu ustawy w największym możliwie stopniu wytyczne Komisji Europejskiej w sprawie analizy rynku i ustalania znaczącej pozycji rynkowej oraz zalecenie Komisji w ich aktualnym brzmieniu, a w przypadku odstąpienia od ich stosowania powiadamia Komisję Europejską, uzasadniając swe stanowisko.”;
+
+- **7)** w dziale II rozdział 1 otrzymuje brzmienie: „Rozdział 1 Analiza rynku, postępowanie w sprawie określania rynków właściwych, nakładania, zmiany i uchylania obowiązków regulacyjnych
 
 **Art. 21.** Prezes UKE przeprowadza analizę rynku w zakresie wyrobów i usług telekomunikacyjnych.
 
@@ -52,6 +86,12 @@ source: "isap-pdf"
 2. Do projektu postanowienia, o którym mowa w ust. 1, stosuje się przepisy o postępowaniu konsultacyjnym.
 
 **Art. 24.** Po przeprowadzeniu postępowania, o którym mowa w art. 22 ust. 1, Prezes UKE, w przypadku ustalenia, że na rynku właściwym występuje przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą, wydaje decyzję, w której:
+
+- **1)** określa rynek właściwy, mając na uwadze poziom rozwoju krajowego rynku produktów i usług telekomunikacyjnych, zgodnie z prawem konkurencji;
+- **2)** wyznacza przedsiębiorcę telekomunikacyjnego o znaczącej pozycji rynkowej lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą oraz:
+    - **a)** nakłada obowiązki regulacyjne, biorąc pod uwagę adekwatność i proporcjonalność danego obowiązku do problemów rynkowych, których rozwiązanie służy realizacji celów określonych w art. 1 ust. 2, lub
+    - **b)** utrzymuje nałożone obowiązki regulacyjne, jeżeli przedsiębiorca telekomunikacyjny lub przedsiębiorcy telekomunikacyjni nie utracili tej pozycji, lub
+    - **c)** zmienia nałożone obowiązki regulacyjne, jeżeli przedsiębiorca telekomunikacyjny lub przedsiębiorcy telekomunikacyjni nie utracili tej pozycji, ale warunki na rynku właściwym uzasadniają zmianę tych obowiązków.
 
 **Art. 25.**
 
@@ -87,7 +127,62 @@ source: "isap-pdf"
 
 **Art. 25c.** Rozstrzygnięcie, o którym mowa w art. 23 ust. 1 albo w art. 24:
 
+- **1)** wydaje się po zasięgnięciu opinii Prezesa UOKiK wydanej w formie postanowienia;
+- **2)** ogłasza się na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej.
+
 **Art. 25d.** W przypadku rynku właściwego uznanego decyzją Komisji Europejskiej za rynek ponadnarodowy Prezes UKE przeprowadza jego analizę w porozumieniu z organami regulacyjnymi innych państw członkowskich. Przepis art. 23 lub 24 stosuje się odpowiednio.”;
+
+- **8)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Przedsiębiorcy telekomunikacyjni negocjując postanowienia umowy o dostępie telekomunikacyjnym, są obowiązani uwzględniać obowiązki na nich nałożone.
+
+2. Informacje uzyskane w związku z negocjacjami mogą być wykorzystane wyłącznie zgodnie z ich przeznaczeniem i podlegają obowiązkowi zachowania poufności, o ile przepisy ustawy nie stanowią inaczej.
+
+3. O ile ustawa nie stanowi inaczej, przepisy tego rozdziału odnoszące się do przedsiębiorców telekomunikacyjnych mają zastosowanie odpowiednio do podmiotów, o których mowa w art. 4 pkt 1, 2, 4, 5, 7 i 8.
+
+4. Operator państwa członkowskiego ubiegający się o dostęp telekomunikacyjny nie jest obowiązany dokonywać wpisu do rejestru, o którym mowa w art. 10, jeżeli nie wykonuje działalności telekomunikacyjnej na terytorium Rzeczypospolitej Polskiej.”;
+
+- **9)** po art. 26 dodaje się art. 26a w brzmieniu: „Art. 26a. Operator publicznej sieci telekomunikacyjnej jest obowiązany do prowadzenia negocjacji o zawarcie umowy o dostępie telekomunikacyjnym w zakresie połączenia sieci oraz w zakresie dostępu telekomunikacyjnego, którego obowiązek zapewnienia wynika z nałożonych na tego operatora obowiązków regulacyjnych, na wniosek innego przedsiębiorcy telekomunikacyjnego lub podmiotów, o których mowa w art. 4 pkt 1, 2, 4, 5, 7 i 8, w celu świadczenia publicznie dostępnych usług telekomunikacyjnych oraz zapewnienia interoperacyjności usług.”;
+- **10)** w art. 27:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Prezes UKE może, na pisemny wniosek każdej ze stron negocjacji o zawarcie umowy o dostępie telekomunikacyjnym w zakresie połączenia sieci albo z urzędu, w drodze postanowienia, określić termin zakończenia negocjacji o zawarcie tej umowy, nie dłuższy niż 90 dni, licząc od dnia wystąpienia z wnioskiem o zawarcie umowy o dostępie telekomunikacyjnym.
+
+2. W przypadku niepodjęcia negocjacji o zawarcie umowy o dostępie telekomunikacyjnym w zakresie połączenia sieci, odmowy połączenia sieci telekomunikacyjnych przez podmiot do tego obowiązany lub niezawarcia umowy o dostępie telekomunikacyjnym w zakresie połączenia sieci w terminie, o którym mowa w ust. 1, lub niezawarcia umowy w terminie 90 dni licząc od dnia wystąpienia z wnioskiem o zawarcie umowy o dostępie telekomunikacyjnym, każda ze stron może zwrócić się do Prezesa UKE z wnioskiem o wydanie decyzji w sprawie rozstrzygnięcia kwestii spornych lub określenia warunków współpracy.”,
+
+- **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Prezes UKE może, na pisemny wniosek każdej ze stron negocjacji o zawarcie umowy o dostępie telekomunikacyjnym prowadzonych z operatorem obowiązanym do zapewnienia dostępu telekomunikacyjnego, którego obowiązek zapewnienia wynika z nałożonych na tego operatora obowiązków regulacyjnych, albo z urzędu, w drodze postanowienia, określić termin zakończenia negocjacji o zawarcie tej umowy, nie dłuższy niż 90 dni, licząc od dnia wystąpienia z wnioskiem o zawarcie umowy o dostępie telekomunikacyjnym.
+
+2b. Z zastrzeżeniem ust. 2, w przypadku niepodjęcia negocjacji przez podmiot obowiązany do zapewnienia dostępu telekomunikacyjnego, odmowy udzielenia dostępu telekomunikacyjnego przez podmiot do tego obowiązany lub niezawarcia umowy o dostępie telekomunikacyjnym w terminie, o którym mowa w ust. 2a, lub niezawarcia umowy o dostęp telekomunikacyjny w terminie 90 dni licząc od dnia wystąpienia z wnioskiem o zawarcie umowy o dostępie telekomunikacyjnym, każda ze stron może zwrócić się do Prezesa UKE z wnioskiem o wydanie decyzji w sprawie rozstrzygnięcia kwestii spornych lub określenia warunków współpracy.”,
+
+- **c)** ust. 3 otrzymuje brzmienie: „3. Wniosek, o którym mowa w ust. 2 i 2b, powinien zawierać projekt umowy o dostępie telekomunikacyjnym, zawierający stanowiska stron w zakresie określonym ustawą, z zaznaczeniem tych części umowy, co do których strony nie doszły do porozumienia.”;
+- **11)** w art. 28:
+    - **a)** w ust. 1: - wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes UKE podejmuje decyzję o dostępie telekomunikacyjnym w terminie 90 dni od dnia złożenia wniosku, o którym mowa w art. 27 ust. 2 i 2b, biorąc pod uwagę następujące kryteria:”, - po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) rozwój nowoczesnej infrastruktury telekomunikacyjnej;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Prezes UKE podejmuje decyzję o zapewnieniu podmiotom, o których mowa w art. 4 pkt 1, 2, 4, 5, 7 i 8, dostępu telekomunikacyjnego w terminie 60 dni od dnia złożenia wniosku, o którym mowa w art. 27 ust. 2 i 2b, biorąc pod uwagę kryteria, o których mowa w ust. 1 pkt 1-4, pkt 5 lit. a i c oraz pkt 6-8, oraz potrzeby obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego, a także specyficzny charakter zadań wykonywanych przez te podmioty.”;
+
+- **12)** art. 30 otrzymuje brzmienie: „Art. 30. 1. Do zmian umów o dostępie telekomunikacyjnym stosuje się odpowiednio przepisy art. 26-28 i 33.
+
+2. Do wniosku o zmianę umowy o dostępie telekomunikacyjnym, która została przynajmniej raz zmieniona, dołącza się jednolity tekst tej umowy zawierający wszelkie dokonane zmiany.”;
+
+- **13)** w art. 31:
+    - **a)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Umowa o dostępie telekomunikacyjnym w zakresie połączenia sieci powinna zawierać postanowienia dotyczące co najmniej:”,
+    - **b)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Umowa o dostępie telekomunikacyjnym w zakresie połączenia sieci może także zawierać, w zależności do rodzajów łączonych sieci, odpowiednie postanowienia dotyczące:”;
+
+- **14)** w art. 34 w ust. 2 pkt 12 otrzymuje brzmienie: „12) świadczeniu usług telekomunikacyjnych z uwzględnieniem pierwszeństwa zgodnie z art. 176a ust. 2 pkt 3.”;
+- **15)** art. 39 i 40 otrzymują brzmienie: „Art. 39. 1. Prezes UKE może, zgodnie z przesłankami, o których mowa w art. 24 pkt 2 lit. a, w drodze decyzji, nałożyć na operatora o znaczącej pozycji rynkowej obowiązki:
+- **1)** kalkulacji uzasadnionych kosztów świadczenia dostępu telekomunikacyjnego, wskazując sposoby kalkulacji kosztów, jakie operator powinien stosować na podstawie przepisów rozporządzenia, o którym mowa w art. 51, zgodnie z zatwierdzonym przez Prezesa UKE opisem kalkulacji kosztów;
+- **2)** stosowania opłat z tytułu dostępu telekomunikacyjnego, uwzględniających zwrot uzasadnionych kosztów operatora.
+
+2. Operator, na którego został nałożony obowiązek, o którym mowa w ust. 1, przedstawia Prezesowi UKE, na jego żądanie, szczegółowe uzasadnienie wysokości opłat w oparciu o uzasadnione koszty.
+
+3. W celu weryfikacji wysokości opłat, o których mowa w ust. 1 pkt 2, Prezes UKE:
+
+- **1)** przeprowadza badanie, o którym mowa w art. 53 ust. 5;
+- **2)** niezależnie od badania, o którym mowa w art. 53 ust. 5, może zastosować inne metody ustalania opłat niż stosowane przez operatora, w tym może wziąć pod uwagę wysokość lub metody ustalania opłat na porównywalnych rynkach konkurencyjnych.
+
+4. W przypadku:
+
+- **1)** braku możliwości przeprowadzenia badania, o którym mowa w art. 53 ust. 5, z przyczyn leżących po stronie operatora,
+- **2)** odmowy wyrażenia opinii przez podmiot uprawniony do przeprowadzenia badania, o którym mowa w art. 53 ust. 5, z uwagi na zaistnienie okoliczności uniemożliwiających jej sformułowanie z przyczyn leżących po stronie operatora,
+- **3)** wyrażenia przez podmiot uprawniony do przeprowadzenia badania, o którym mowa w art. 53 ust. 5, opinii negatywnej albo opinii z zastrzeżeniami,
+- **4)** wystąpienia istotnych różnic pomiędzy wysokością opłat ustalonych przez operatora a wysokością opłat ustalonych przez Prezesa UKE zgodnie z ust. 3 – Prezes UKE ustala wysokość opłat z tytułu dostępu telekomunikacyjnego lub ich maksymalny albo minimalny poziom stosując metody, o których mowa w ust. 3 pkt 2. Ustalenie powyższych opłat następuje w odrębnej decyzji, bądź też w decyzjach, o których mowa w art. 28-30, art. 43 lub art. 139.
+
+5. Prezes UKE ustalając opłaty z tytułu dostępu telekomunikacyjnego bierze pod uwagę promocję efektywności i zrównoważonej konkurencji oraz zapewnienie maksymalnych korzyści dla użytkowników końcowych, jak również zwrot uzasadnionych kosztów.
 
 **Art. 40.**
 
@@ -433,23 +528,184 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** po art. 18b dodaje się art. 18c w brzmieniu: „Art. 18c. 1. W przypadkach, o których mowa w art. 18 ust. 1, Komendant Główny Policji lub komendant wojewódzki Policji może zarządzić zastosowanie przez Policję urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wyeliminowania zagrożenia lub jego skutków, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+
+2. O zastosowaniu urządzeń, o których mowa w ust. 1, Komendant Główny Policji lub komendant wojewódzki Policji niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.”;
+
+- **2)** w art. 20c:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. W celu zapobiegania lub wykrywania przestępstw Policja może mieć udostępniane dane, o których mowa w art. 180c i 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), zwane dalej „danymi telekomunikacyjnymi”, oraz może je przetwarzać.
+
+2. Podmiot prowadzący działalność telekomunikacyjną udostępnia nieodpłatnie dane telekomunikacyjne:
+
+- **1)** policjantowi wskazanemu w pisemnym wniosku Komendanta Głównego Policji lub komendanta wojewódzkiego Policji albo osoby przez nich upoważnionej;
+- **2)** na ustne żądanie policjanta posiadającego pisemne upoważnienie osób, o których mowa w pkt 1;
+- **3)** za pośrednictwem sieci telekomunikacyjnej policjantowi posiadającemu pisemne upoważnienie osób, o których mowa w
+    - **b)** po ust. 2 dodaje pkt 1.”, się ust. 2a w brzmieniu: „2a. W przypadku, o którym mowa w ust. 2 pkt 3, udostępnianie danych telekomunikacyjnych odbywa się bez udziału pracowników podmiotu prowadzącego działalność telekomunikacyjną lub przy niezbędnym ich udziale, jeżeli możliwość taka jest przewidziana w porozumieniu zawartym pomiędzy Komendantem Głównym Policji a tym podmiotem.”,
+    - **c)** uchyla się ust. 3 i 4,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Udostępnienie Policji danych telekomunikacyjnych może nastąpić za pośrednictwem sieci telekomunikacyjnej jeżeli:
+
+- **1)** wykorzystywane sieci telekomunikacyjne zapewniają:
+    - **a)** możliwość ustalenia osoby uzyskującej dane, ich rodzaju oraz czasu, w którym zostały uzyskane,
+    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiające osobie nieuprawnionej dostęp do danych;
+
+- **2)** jest to uzasadnione specyfiką lub zakresem zadań wykonywanych przez jednostki organizacyjne Policji albo prowadzonych przez nie czynności.”,
+    - **e)** uchyla się ust. 8.
+
 **Art. 3.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 10b ust. 1-4 otrzymują brzmienie: „1. W celu zapobiegania lub wykrywania przestępstw Straż Graniczna może mieć udostępniane dane, o których mowa w art. 180c i 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), zwane dalej „danymi telekomunikacyjnymi”, w trybie:
+- **1)** pisemnego wniosku Komendanta Głównego Straży Granicznej lub komendanta oddziału Straży Granicznej albo osoby przez nich upoważnionej,
+- **2)** ustnego żądania funkcjonariusza posiadającego pisemne upoważnienie osób, o których mowa w pkt 1,
+- **3)** za pośrednictwem sieci telekomunikacyjnej funkcjonariuszowi posiadającemu pisemne upoważnienie osób, o których mowa w pkt 1 - oraz może przetwarzać te dane.
+
+2. W przypadku, o którym mowa w ust. 1 pkt 3, udostępnianie danych telekomunikacyjnych odbywa się bez udziału pracowników podmiotu prowadzącego działalność telekomunikacyjną lub przy niezbędnym ich udziale, jeżeli możliwość taką przewiduje porozumienie zawarte pomiędzy Komendantem Głównym Straży Granicznej a tym podmiotem.
+
+3. Podmiot wykonujący działalność telekomunikacyjną udostępnia nieodpłatnie dane telekomunikacyjne, funkcjonariuszowi wskazanemu we wniosku właściwego organu Straży Granicznej lub funkcjonariuszowi, o którym mowa w ust. 1 pkt 2 i 3.
+
+4. Udostępnienie Straży Granicznej danych telekomunikacyjnych może nastąpić przy pomocy sieci telekomunikacyjnej, jeżeli:
+
+- **1)** wykorzystywane sieci telekomunikacyjne zapewniają:
+    - **a)** możliwość ustalenia osoby uzyskującej dane, ich rodzaju oraz czasu, w którym zostały uzyskane,
+    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiające osobie nieuprawnionej dostęp do danych;
+
+- **2)** jest to uzasadnione specyfiką lub zakresem wykonywanych przez jednostki organizacyjne Straży Granicznej zadań albo prowadzonych przez nie czynności.”;
+- **2)** po art. 10c dodaje się art. 10d w brzmieniu: „Art. 10d. 1. W celu realizacji zadań, o których mowa w art. 1 ust. 2 pkt 1, 2, 4-5d i 10, Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej może zarządzić o zastosowaniu urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez Straż Graniczną, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+
+2. O zastosowaniu urządzeń, o których mowa w ust. 1, Komendant G łówny Straży Granicznej lub komendant oddziału Straży Granicznej niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.”.
 
 **Art. 4.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** art. 36b otrzymuje brzmienie: „Art. 36b. 1. W celu zapobiegania lub wykrywania przestępstw skarbowych lub przestępstw, o których mowa w art. 3 pkt 4 i 5, wywiad skarbowy może mieć udostępniane dane:
+- **1)** o których mowa w art. 180c i 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), zwane dalej „danymi telekomunikacyjnymi”,
+- **2)** identyfikujące podmiot korzystający z usług pocztowych oraz dotyczące faktu, okoliczności świadczenia usług pocztowych lub korzystania z tych usług - oraz może je przetwarzać.
+
+2. Podmiot prowadzący działalność telekomunikacyjną lub operator świadczący usługi pocztowe udostępnia nieodpłatnie dane, o których mowa w ust. 1:
+
+- **1)** na pisemny wniosek Generalnego Inspektora Kontroli Skarbowej;
+- **2)** na pisemny wniosek pracownika wywiadu skarbowego posiadającego pisemne upoważnienie Generalnego Inspektora Kontroli Skarbowej do występowania w jego imieniu o udostępnienie danych, o których mowa w ust. 1;
+- **3)** za pośrednictwem sieci telekomunikacyjnej pracownikowi wywiadu skarbowego posiadającemu pisemne upoważnienie, o którym mowa w pkt 2.
+
+3. W przypadku, o którym mowa w ust. 2 pkt 3, udostępnianie danych telekomunikacyjnych odbywa się bez udziału pracowników podmiotu prowadzącego działalność telekomunikacyjną lub przy niezbędnym ich udziale, jeżeli możliwość taką przewiduje porozumienie zawarte pomiędzy Generalnym Inspektorem Kontroli Skarbowej a tym podmiotem.
+
+4. Podmiot występujący z wnioskiem, o którym mowa w ust. 2, informację o wystąpieniu z wnioskiem przekazuje niezwłocznie ministrowi właściwemu do spraw finansów publicznych. Minister właściwy do spraw finansów publicznych w każdej chwili może zażądać od Generalnego Inspektora Kontroli Skarbowej informacji o przyczynach uzasadniających wystąpienie z wnioskiem, a także o sposobie wykorzystania danych uzyskanych od podmiotu prowadzącego działalność telekomunikacyjną lub operatora świadczącego usługi pocztowe.
+
+5. Minister właściwy do spraw finansów publicznych nakazuje niezwłoczne, komisyjne i protokolarne zniszczenie danych uzyskanych od podmiotu prowadzącego działalność telekomunikacyjną lub operatora świadczącego usługi pocztowe, w przypadku gdy uzna wystąpienie z wnioskiem, o którym mowa w ust. 2, za nieuzasadnione.
+
+6. Udostępnienie wywiadowi skarbowemu danych telekomunikacyjnych może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli sieć ta zapewnia:
+
+- **1)** możliwość ustalenia pracownika wywiadu skarbowego uzyskującego dane, ich rodzaju oraz czasu, w którym zostały uzyskane;
+- **2)** zabezpieczenie techniczne i organizacyjne uniemożliwiające osobie nieuprawnionej dostęp do danych.
+
+7. Udostępnianie wywiadowi skarbowemu danych, o których mowa w ust. 1, następuje na koszt podmiotu prowadzącego działalność telekomunikacyjną i operatora świadczącego usługi pocztowe.”;
+
+- **2)** w art. 36c ust. 10 otrzymuje brzmienie: „10. Operator publicznej sieci telekomunikacyjnej, dostawca publicznie dostępnych usług telekomunikacyjnych oraz operator świadczący usługi pocztowe są obowiązani do zapewnienia na własny koszt warunków technicznych i organizacyjnych umożliwiających prowadzenie przez wywiad skarbowy kontroli operacyjnej.”.
+
 **Art. 5.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 218 § 1 otrzymuje brzmienie: „§1. Urzędy, instytucje i podmioty prowadzące działalność w dziedzinie poczty lub działalność telekomunikacyjną, urzędy celne oraz instytucje i przedsiębiorstwa transportowe obowiązane są wydać sądowi lub prokuratorowi, na żądanie zawarte w postanowieniu, korespondencję i przesyłki oraz dane, o których mowa w art. 180c i 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), jeżeli mają znaczenie dla toczącego się postępowania. Tylko sąd lub prokurator mają prawo je otwierać lub zarządzić ich otwarcie.”;
+- **2)** art. 218b otrzymuje brzmienie: „Art. 218b. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności, Ministrem Obrony Narodowej oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób technicznego przygotowania systemów i sieci służących do przekazywania informacji - do gromadzenia danych, o których mowa w art. 218 § 1, niestanowiących treści rozmowy telefonicznej lub innego przekazu informacji, a także sposoby zabezpieczania danych informatycznych w urządzeniach zawierających te dane oraz w systemach i na informatycznych nośnikach danych, mając na uwadze konieczność zabezpieczenia tych danych przed ich utratą, zniekształceniem lub nieuprawnionym ujawnieniem.”.
 
 **Art. 6.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2004 r. Nr 163, poz. 1712, z późń. zm. ) po art. 7 dodaje się art. 7a w brzmieniu: „Art. 7a. 1. Szef BOR, w celu realizacji zadań BOR, określonych w art. 2 ust. 1, może zarządzić o zastosowaniu urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez BOR, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych. 2. O zastosowaniu urządzeń, o których mowa w ust. 1, Szef BOR niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.”.
 
 **Art. 7.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. Nr 123, poz. 1353, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 30:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. W celu zapobiegania lub wykrywania przestępstw, w tym skarbowych, Żandarmeria Wojskowa, może mieć udostępniane dane, o których mowa w art. 180c i 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), zwane dalej „danymi telekomunikacyjnymi”, oraz może je przetwarzać.
+
+2. Podmiot prowadzący działalność telekomunikacyjną udostępnia nieodpłatnie dane telekomunikacyjne:
+
+- **1)** żołnierzowi Żandarmerii Wojskowej wskazanemu w pisemnym wniosku Komendanta Głównego Żandarmerii Wojskowej lub komendanta oddziału Żandarmerii Wojskowej albo osoby przez nich upoważnionej,
+- **2)** na ustne żądanie żołnierza Żandarmerii Wojskowej posiadającego pisemne upoważnienie osób, o których mowa w pkt 1,
+- **3)** za pośrednictwem sieci telekomunikacyjnej żołnierzowi Żandarmerii Wojskowej posiadającemu pisemne upoważnienie osób, o których mowa w pkt 1.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku, o którym mowa w ust. 2 pkt 3, udostępnianie danych telekomunikacyjnych odbywa się bez udziału pracowników podmiotu prowadzącego działalność telekomunikacyjną lub przy ich niezbędnym współudziale, jeżeli możliwość taką przewiduje porozumienie zawarte pomiędzy Komendantem Głównym Żandarmerii Wojskowej a tym podmiotem.”,
+    - **c)** uchyla się ust. 3,
+    - **d)** ust. 4 otrzymuje brzmienie: „4. Udostępnienie Żandarmerii Wojskowej danych telekomunikacyjnych może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli:
+
+- **1)** wykorzystywane sieci i system teleinformatyczny zapewniają:
+    - **a)** możliwość ustalenia osoby uzyskującej dane, ich rodzaju oraz czasu, w którym zostały uzyskane,
+    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiają osobie nieuprawnionej dostępu do danych,
+
+- **2)** jest to uzasadnione specyfiką lub zakresem zadań wykonywanych przez jednostki organizacyjne Żandarmerii Wojskowej albo prowadzonych przez nie czynności.”;
+- **2)** po art. 30 dodaje się art. 30a w brzmieniu: „Art. 30a. 1. W celu realizacji zadań, o których mowa w art. 4 ust. 1 pkt 2-4, 5 i 8, Komendant Główny Żandarmerii Wojskowej lub - po uzyskaniu zgody Komendanta Głównego Żandarmerii Wojskowej - komendant oddziału Żandarmerii Wojskowej mogą zarządzić zastosowanie urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez Żandarmerię Wojskową, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+
+2. O zastosowaniu urządzeń, o których mowa w ust. 1, Komendant Główny Żandarmerii Wojskowej niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.”.
+
 **Art. 8.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. Nr 74, poz. 676, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** po art. 26 dodaje się art. 26a w brzmieniu: „Art. 26a. 1. W celu realizacji zadań, o których mowa w art. 5 ust. 1 pkt 1 i 2, Szef ABW może zarządzić o zastosowaniu przez ABW urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez ABW, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+
+2. O zastosowaniu urządzeń, o których mowa w ust. 1, Szef ABW niezwłocznie informuje Prezesa UKE.”;
+
+- **2)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Obowiązek uzyskania zgody sądu, o której mowa w art. 27 ust. 1, nie dotyczy informacji niezbędnych do realizacji przez ABW zadań, o których mowa w art. 5 ust. 1, w postaci danych:
+- **1)** o których mowa w art. 180c i 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ),
+- **2)** identyfikujących podmiot korzystający z usług pocztowych oraz dotyczących faktu, okoliczności świadczenia usług pocztowych lub korzystania z tych usług.
+
+2. Podmiot wykonujący działalność telekomunikacyjną lub operator świadczący usługi pocztowe udostępnia nieodpłatnie dane, o których mowa w ust. 1, odpowiednio:
+
+- **1)** funkcjonariuszowi ABW wskazanemu w pisemnym wniosku Szefa ABW lub osoby upoważnionej przez ten organ,
+- **2)** na ustne żądanie funkcjonariusza ABW posiadającego pisemne upoważnienie Szefa ABW,
+- **3)** za pośrednictwem sieci telekomunikacyjnej funkcjonariuszowi ABW posiadającemu upoważnienie, o którym mowa w pkt 2.
+
+3. W przypadku, o którym mowa w ust. 2 pkt 3, udostępnianie danych telekomunikacyjnych odbywa się bez udziału pracowników podmiotu wykonującego działalność telekomunikacyjną lub przy ich niezbędnym współudziale, jeżeli możliwość taką przewiduje porozumienie zawarte pomiędzy Szefem ABW a tym podmiotem.
+
+4. Udostępnienie ABW danych, o których mowa w ust. 1 pkt 1, może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli sieć ta zapewnia:
+
+- **1)** możliwość ustalenia funkcjonariusza ABW uzyskującego dane, ich rodzaju oraz czasu, w którym zostały uzyskane,
+- **2)** zabezpieczenie techniczne i organizacyjne uniemożliwiające osobie nieuprawnionej dostęp do tych danych.”.
 
 **Art. 9.** W ustawie z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm. ) w art. 53 dodaje się ust. 6 w brzmieniu: „6. Jeżeli upadły jest operatorem publicznej sieci telekomunikacyjnej lub dostawcą publicznie dostępnych usług telekomunikacyjnych w rozumieniu przepisów ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), o ogłoszeniu upadłości powiadamia się Prezesa Urzędu Komunikacji Elektronicznej. Powiadomienie następuje w dniu ogłoszenia upadłości i dokonuje się go przy zastosowaniu środków bezpośredniego przekazu informacji, takich jak telefon, faks, poczta elektroniczna.”.
 
 **Art. 10.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708, z późn. zm. ) art. 18 otrzymuje brzmienie: „Art. 18. 1. Obowiązek uzyskania zgody sądu, o której mowa w art. 17, nie dotyczy informacji niezbędnych do realizacji przez CBA zadań określonych w art. 2, w postaci danych:
 
+- **1)** o których mowa w art. 180c oraz 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), zwanych dalej „danymi telekomunikacyjnymi”;
+- **2)** identyfikujących podmiot korzystający z usług pocztowych oraz dotyczących faktu, okoliczności świadczenia usług pocztowych lub korzystania z tych usług.
+
+2. Podmiot wykonujący działalność telekomunikacyjną lub podmiot uprawniony do wykonywania działalności pocztowej udostępnia nieodpłatnie dane, o których mowa w ust. 1:
+
+- **1)** na pisemny wniosek Szefa CBA lub osoby przez niego upoważnionej;
+- **2)** na ustne żądanie funkcjonariusza CBA, posiadającego pisemne upoważnienie Szefa CBA lub osoby przez niego upoważnionej;
+- **3)** za pośrednictwem sieci telekomunikacyjnej funkcjonariuszowi CBA posiadającemu pisemne upoważnienie osób, o których mowa w pkt 1.
+
+3. W przypadku, o którym mowa w ust. 2 pkt 3, udostępnianie danych telekomunikacyjnych odbywa się bez udziału pracowników podmiotu prowadzącego działalność telekomunikacyjną lub przy niezbędnym ich współudziale, jeżeli możliwość taką przewiduje porozumienie zawarte pomiędzy Szefem CBA a tym podmiotem.
+
+4. Udostępnienie CBA danych, o których mowa w ust. 1, może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli:
+
+- **1)** sieć ta zapewnia:
+    - **a)** możliwość ustalenia funkcjonariusza CBA uzyskującego te dane, ich rodzaju oraz czasu, w którym zostały uzyskane,
+    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiające osobie nieuprawnionej dostęp do uzyskiwanych danych;
+
+- **2)** jest to uzasadnione specyfiką lub zakresem zadań wykonywanych przez jednostki organizacyjne CBA albo prowadzonych przez nie czynności.”.
+
 **Art. 11.** W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162) wprowadza się następujące zmiany:
+
+- **1)** po art. 29 dodaje się art. 29a w brzmieniu: „Art. 29a. 1. W celu realizacji zadań, o których mowa w art. 5 ust. 1 pkt 1 lit. a-c, f oraz g, Szef SKW może zarządzić o zastosowaniu urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez SKW, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+
+2. O zastosowaniu urządzeń, o których mowa w ust. 1, Szef SKW niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.”;
+
+- **2)** w art. 31 ust. 11 otrzymuje brzmienie: „11. Operator publicznej sieci telekomunikacyjnej, dostawca publicznie dostępnych usług lub operator świadczący usługi pocztowe są obowiązani do zapewnienia na własny koszt warunków technicznych i organizacyjnych umożliwiających prowadzenie przez SKW kontroli operacyjnej.”;
+- **3)** art. 32 otrzymuje brzmienie: „Art. 32. 1. Obowiązek uzyskania zgody sądu, o której mowa w art. 31 ust. 1, nie dotyczy informacji niezbędnych do realizacji przez SKW zadań określonych w art. 5, w postaci danych:
+- **1)** o których mowa w art. 180c oraz 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), zwanych dalej „danymi telekomunikacyjnymi”;
+- **2)** identyfikujących podmiot korzystający z usług pocztowych oraz dotyczących faktu, okoliczności świadczenia usług pocztowych lub korzystania z tych usług.
+
+2. Udostępnienie przez przedsiębiorcę telekomunikacyjnego lub operatora świadczącego usługi pocztowe danych, o których mowa w ust. 1, następuje nieodpłatnie:
+
+- **1)** na pisemny wniosek Szefa SKW lub osoby przez niego upoważnionej;
+- **2)** na ustne żądanie funkcjonariusza SKW, posiadającego pisemne upoważnienie Szefa SKW;
+- **3)** za pośrednictwem sieci telekomunikacyjnej funkcjonariuszowi SKW posiadającemu pisemne upoważnienie Szefa SKW.
+
+3. O udostępnieniu danych w trybie określonym w ust. 2 pkt 2 przedsiębiorca telekomunikacyjny lub operator świadczący usługi pocztowe informuje Szefa SKW.
+
+4. Przedsiębiorca telekomunikacyjny oraz operator świadczący usługi pocztowe są obowiązani udostępnić dane, o których mowa w ust. 1, funkcjonariuszom wskazanym we wniosku.
+
+5. W przypadku, o którym mowa w ust. 2 pkt 3, udostępnianie danych telekomunikacyjnych odbywa się bez udziału pracowników podmiotu wykonującego działalność telekomunikacyjną lub przy niezbędnym ich współudziale, jeżeli możliwość taką przewiduje porozumienie zawarte pomiędzy Szefem SKW a tym podmiotem.
+
+6. Udostępnienie SKW danych telekomunikacyjnych może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli:
+
+- **1)** wykorzystywane sieci i system teleinformatyczny zapewniają:
+    - **a)** możliwość ustalenia osoby uzyskującej te dane, ich rodzaju oraz czasu, w którym zostały uzyskane,
+    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiają osobie nieuprawnionej dostęp do tych danych;
+
+- **2)** jest to uzasadnione specyfiką lub zakresem zadań wykonywanych przez SKW albo prowadzonych przez nią czynności.”.
 
 **Art. 12.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. Nr 89, poz. 590 oraz z 2009 r. Nr 11, poz. 59 i Nr 65, poz. 533) po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. Centrum informuje Komisję Europejską i państwa członkowskie Unii Europejskiej o środkach zastosowanych w sytuacji kryzysowej w celu zabezpieczenia prawidłowego działania publicznej sieci telekomunikacyjnej oraz stacji nadawczych i odbiorczych używanych do zapewnienia bezpieczeństwa, w zakresie dotyczącym systemu łączności i sieci teleinformatycznych.”.
 

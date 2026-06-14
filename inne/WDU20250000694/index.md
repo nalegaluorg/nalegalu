@@ -31,9 +31,25 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady nawiązywania stosunku służbowego,
+- **2)** przebieg służby,
+- **3)** korpusy i stopnie służbowe,
+- **4)** obowiązki i prawa,
+- **5)** uposażenie i inne świadczenia pieniężne,
+- **6)** odpowiedzialność dyscyplinarną – funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** „SKW” – należy przez to rozumieć Służbę Kontrwywiadu Wojskowego;
+- **2)** „SWW” – należy przez to rozumieć Służbę Wywiadu Wojskowego.
+
 **Art. 3.** Funkcjonariuszem SKW albo SWW może być osoba:
+
+- **1)** posiadająca obywatelstwo polskie;
+- **2)** korzystająca z pełni praw publicznych;
+- **3)** wykazująca nieskazitelną postawę moralną, obywatelską i patriotyczną;
+- **4)** dająca rękojmię zachowania tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych;
+- **5)** posiadająca co najmniej wykształcenie średnie lub średnie branżowe i określone kwalifikacje zawodowe oraz zdolność fizyczną i psychiczną do pełnienia służby.
 
 **Art. 4.**
 
@@ -370,6 +386,37 @@ source: "isap-pdf"
 
 **Art. 25.** W SKW i SWW obowiązują następujące korpusy i stopnie służbowe:
 
+- **1)** korpus szeregowych:
+    - **a)** szeregowy,
+    - **b)** starszy szeregowy;
+
+- **2)** korpus podoficerów:
+    - **a)** kapral,
+    - **b)** starszy kapral,
+    - **c)** plutonowy,
+    - **d)** starszy plutonowy,
+    - **e)** sierżant,
+    - **f)** starszy sierżant,
+    - **g)** sierżant sztabowy,
+    - **h)** starszy sierżant sztabowy;
+
+- **3)** korpus chorążych:
+    - **a)** młodszy chorąży,
+    - **b)** chorąży,
+    - **c)** starszy chorąży,
+    - **d)** młodszy chorąży sztabowy,
+    - **e)** chorąży sztabowy,
+    - **f)** starszy chorąży sztabowy;
+
+- **4)** korpus oficerów:
+    - **a)** podporucznik,
+    - **b)** porucznik,
+    - **c)** kapitan,
+    - **d)** major,
+    - **e)** podpułkownik,
+    - **f)** pułkownik,
+    - **g)** generał brygady.
+
 **Art. 26.**
 
 1. Na stopień szeregowego mianuje się funkcjonariusza z dniem mianowania na stanowisko służbowe.
@@ -575,6 +622,10 @@ source: "isap-pdf"
 
 **Art. 54.** Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, przebieg służby funkcjonariuszy. Rozporządzenie powinno określać zwłaszcza:
 
+- **1)** szczegółowe zasady i tryb załatwiania spraw, w tym spraw osobowych funkcjonariuszy, nawiązania, rozwiązania lub wygaśnięcia stosunku służbowego, mianowania, przenoszenia, odwoływania i zwalniania ze stanowisk służbowych;
+- **2)** sposób usprawiedliwiania nieobecności w służbie;
+- **3)** rodzaje informacji, których ze względu na przebieg służby funkcjonariusza jest on obowiązany udzielić.
+
 **Art. 55.**
 
 1. Funkcjonariuszowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26 dni roboczych.
@@ -649,6 +700,12 @@ source: "isap-pdf"
 5. W zakresie trybu udzielania urlopów, w tym przełożonych właściwych w tych sprawach, do urlopu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy wydane na podstawie art. 60.
 
 **Art. 60.** Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, warunki i tryb udzielania funkcjonariuszom urlopów, o których mowa w art. 55, art. 57 ust. 1 i art. 58, uwzględniając:
+
+- **1)** przełożonych właściwych w sprawach urlopów;
+- **2)** sposób postępowania w przypadku odwołania z urlopu;
+- **3)** warunki udzielania płatnych urlopów szkoleniowych;
+- **4)** warunki udzielenia funkcjonariuszowi urlopu bezpłatnego;
+- **5)** sposób obliczania ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy.
 
 **Art. 61.**
 
@@ -762,7 +819,15 @@ source: "isap-pdf"
 
 **Art. 62b.** Prawo do zakwaterowania nie przysługuje funkcjonariuszowi:
 
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia zawodowego.
+
 **Art. 63.** Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
+
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni – 26. roku życia, albo
+    - **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 64.**
 

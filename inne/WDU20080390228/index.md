@@ -8,7 +8,7 @@ pos: 228
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowej nazwy Akademii Wychowania Fizycznego w Katowicach

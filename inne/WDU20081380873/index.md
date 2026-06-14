@@ -8,7 +8,7 @@ pos: 873
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 108/6/A/2008 WYROK z dnia 21 lipca 2008 r.

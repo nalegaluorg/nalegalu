@@ -8,7 +8,7 @@ pos: 648
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utracie mocy obowiązującej przez ustawę z dnia 22 grudnia 1990 r. o opodatkowaniu wzrostu wynagrodzeń
@@ -32,6 +32,15 @@ source: "isap-pdf"
 **Art. 2.** Do należności z tytułu podatku od wzrostu wynagrodzeń powstałych przed dniem 1 stycznia 1994 r., które nie zostały uregulowane w terminach określonych w ustawie wymienionej w art. 1, mają zastosowanie przepisy o zobowiązaniach podatkowych.
 
 **Art. 3.** W okresie od dnia 1 stycznia do dnia 31 marca 1994 r. podatnicy podatku od wzrostu wynagrodzeń obowiązani są do obliczania i wpłaty podatku na zasadach określonych w ustawie wymienionej w art. 1, z tym że:
+
+- **1)** do wypłat nagród i premii z zysku za rok 1993, dokonywanych w roku 1994, stosuje się normę określoną w art. 12 ust. 1, przy czym kwota wynosząca 8,5% odnosi się do wynagrodzeń obciążających koszty działalności w 1993 r.,
+- **2)** za przekroczenie normy przeciętnych wynagrodzeń obciążających koszty całokształtu działalności stosuje się skalę podatkową określoną w art. 13 ust. 2 pkt 1 lit.b), a za przekroczenie normy wypłat premii i nagród z zysku stosuje się skalę podatkową określoną w art. 13 ust. 2 pkt 2 lit.b),
+- **3)** zaliczkowe wypłaty nagród i premii z zysku netto za rok 1993 mogą być dokonywane w roku 1994 przed złożeniem rocznego sprawozdania finansowego (bilansu) w wysokości nie przekraczającej 30% kwoty wolnej ustalonej zgodnie z pkt 1,
+- **4)** podatnicy, którzy w roku 1993 powiększyli normę przeciętnego wynagrodzenia zgodnie z art. 9, zwiększają podstawę ustalenia normy przeciętnego wynagrodzenia na styczeń 1994 r. o 1/12 kwoty faktycznych wypłat dokonywanych w 1993 r. z tego tytułu,
+- **5)** dla podatników, którzy korzystali w 1993 r. ze zwolnienia od podatku na podstawie art. 17b i którzy nie spełnią określonych warunków uprawniających do stosowania tego przepisu w roku 1994, normę przeciętnego wynagrodzenia na styczeń 1994 r. przyjmuje się w wysokości 1/3 kwoty wypłaconych wynagrodzeń za czwarty kwartał 1993 r. w przeliczeniu na przeciętnie zatrudnionego,
+- **6)** art. 17c stosuje się odpowiednio w pierwszym kwartale 1994 r.,
+- **7)** dla podatników, którym na podstawie art. 17c właściwa izba skarbowa zaakceptowała zasady kształtowania wynagrodzeń w roku 1993, a w roku 1994 nie uzyskają takiej akceptacji na kształtowanie wynagrodzeń, normę przeciętnego wynagrodzenia na styczeń 1994 r. stanowi limit przeciętnego miesięcznego wynagrodzenia na rok 1993 powiększony o 1/12 faktycznych wypłat dokonanych w roku 1993 z tytułu poprawy wyniku finansowego brutto,
+- **8)** przez usługi eksportowe, o których mowa w art. 13a ust. 2 pkt 2, rozumie się również usługi świadczone poza granicą Rzeczypospolitej Polskiej, o ile wykonywane są na rzecz osób zagranicznych w rozumieniu prawa dewizowego.
 
 **Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 1994 r.
 

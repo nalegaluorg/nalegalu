@@ -8,7 +8,7 @@ pos: 1696
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zapewnianiu dostępności osobom ze szczególnymi potrzebami
@@ -39,7 +39,23 @@ Art. 42–55. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** bariera – przeszkodę lub ograniczenie architektoniczne, cyfrowe lub informacyjno-komunikacyjne, które uniemożliwia lub utrudnia osobom ze szczególnymi potrzebami udział w różnych sferach życia na zasadzie równości z innymi osobami;
+- **2)** dostępność – dostępność architektoniczną, cyfrową oraz informacyjno-komunikacyjną, co najmniej w zakresie określonym przez minimalne wymagania, o których mowa w art. 6, będącą wynikiem uwzględnienia uniwersalnego projektowania albo zastosowania racjonalnego usprawnienia;
+- **3)** osoba ze szczególnymi potrzebami – osobę, która ze względu na swoje cechy zewnętrzne lub wewnętrzne, albo ze względu na okoliczności, w których się znajduje, musi podjąć dodatkowe działania lub zastosować dodatkowe środki w celu przezwyciężenia bariery, aby uczestniczyć w różnych sferach życia na zasadzie równości z innymi osobami;
+- **4)** uniwersalne projektowanie – uniwersalne projektowanie, o którym mowa w art. 2 Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169 oraz z 2018 r. poz. 1217), zwanej dalej „Konwencją”, uwzględniane w szczególności w celu spełnienia minimalnych wymagań, o których mowa w art. 6, dla zapewnienia dostępności osobom ze szczególnymi potrzebami;
+- **5)** racjonalne usprawnienie – racjonalne usprawnienie, o którym mowa w art. 2 Konwencji, stosowane w szczególności w celu spełnienia minimalnych wymagań, o których mowa w art. 6, dla zapewnienia dostępności osobom ze szczególnymi potrzebami.
+
 **Art. 3.** W zakresie określonym ustawą zapewnienie dostępności osobom ze szczególnymi potrzebami jest obowiązkiem:
+
+- **1)** jednostek sektora finansów publicznych w rozumieniu art. 9 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ),
+- **2)** innych, niż określone w pkt 1, państwowych jednostek organizacyjnych nieposiadających osobowości prawnej,
+- **3)** innych, niż określone w pkt 1, osób prawnych, utworzonych w szczególnym celu zaspokajania potrzeb o charakterze powszechnym niemających charakteru przemysłowego ani handlowego, jeżeli podmioty, o których mowa w tym przepisie oraz w pkt 1 i 2, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot:
+    - **a)** finansują je w ponad 50 % lub
+    - **b)** posiadają ponad połowę udziałów albo akcji, lub
+    - **c)** sprawują nadzór nad organem zarządzającym, lub
+    - **d)** mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego,
+
+- **4)** związków podmiotów, o których mowa w pkt 1 i 2, lub podmiotów, o których mowa w pkt 3 – zwanych dalej „podmiotami publicznymi”.
 
 **Art. 4.**
 
@@ -62,6 +78,22 @@ Art. 42–55. (pominięte)
 
 **Art. 6.** Minimalne wymagania służące zapewnieniu dostępności osobom ze szczególnymi potrzebami obejmują:
 
+- **1)** w zakresie dostępności architektonicznej: o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165),
+    - **a)** zapewnienie wolnych od barier poziomych i pionowych przestrzeni komunikacyjnych budynków,
+    - **b)** instalację urządzeń lub zastosowanie środków technicznych i rozwiązań architektonicznych w budynku, które umożliwiają dostęp do wszystkich pomieszczeń, z wyłączeniem pomieszczeń technicznych,
+    - **c)** zapewnienie informacji na temat rozkładu pomieszczeń w budynku, co najmniej w sposób wizualny i dotykowy lub głosowy,
+    - **d)** zapewnienie wstępu do budynku osobie korzystającej z psa asystującego, o którym mowa w art. 2 pkt 11 ustawy z dnia 27 sierpnia 1997 r.
+    - **e)** zapewnienie osobom ze szczególnymi potrzebami możliwości ewakuacji lub ich uratowania w inny sposób;
+
+- **2)** w zakresie dostępności cyfrowej – wymagania określone w ustawie z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych;
+- **3)** w zakresie dostępności informacyjno-komunikacyjnej:
+    - **a)** obsługę z wykorzystaniem środków wspierających komunikowanie się, o których mowa w art. 3 pkt 5 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2023 r. poz.
+
+- **20)** , lub przez wykorzystanie zdalnego dostępu online do usługi tłumacza przez strony internetowe i aplikacje,
+    - **b)** instalację urządzeń lub innych środków technicznych do obsługi osób słabosłyszących, w szczególności pętli indukcyjnych, systemów FM lub urządzeń opartych o inne technologie, których celem jest wspomaganie słyszenia,
+    - **c)** zapewnienie na stronie internetowej danego podmiotu informacji o zakresie jego działalności – w postaci elektronicznego pliku zawierającego tekst odczytywalny maszynowo, nagrania treści w polskim języku migowym oraz informacji w tekście łatwym do czytania,
+    - **d)** zapewnienie, na wniosek osoby ze szczególnymi potrzebami, komunikacji z podmiotem publicznym w formie określonej w tym wniosku.
+
 **Art. 7.**
 
 1. W indywidualnym przypadku, jeżeli podmiot publiczny nie jest w stanie, w szczególności ze względów technicznych lub prawnych, zapewnić dostępności osobie ze szczególnymi potrzebami w zakresie, o którym mowa w art. 6 pkt 1 i 3, podmiot ten jest obowiązany zapewnić takiej osobie dostęp alternatywny.
@@ -79,6 +111,18 @@ Art. 42–55. (pominięte)
 **Art. 8.** Minister właściwy do spraw rozwoju regionalnego koordynuje zapewnianie dostępności osobom ze szczególnymi potrzebami.
 
 **Art. 9.** Koordynacja, o której mowa w art. 8, polega w szczególności na:
+
+- **1)** monitorowaniu zapewniania dostępności osobom ze szczególnymi potrzebami, w zakresie, o którym mowa w art. 6 pkt 1 i 3;
+- **2)** inicjowaniu zmian przepisów prawnych w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami;
+- **3)** wyznaczaniu kierunków i prowadzeniu działań informacyjno-promocyjnych dotyczących zapewniania dostępności osobom ze szczególnymi potrzebami;
+- **4)** inicjowaniu badań naukowych w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami, w szczególności z uwzględnieniem uniwersalnego projektowania;
+- **5)** promowaniu współpracy w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami:
+    - **a)** między jednostkami samorządu terytorialnego,
+    - **b)** między organami administracji publicznej, organizacjami pozarządowymi i innymi podmiotami, uczelniami i instytutami badawczymi,
+    - **c)** z innymi państwami, organizacjami oraz instytucjami zagranicznymi i międzynarodowymi;
+
+- **6)** inicjowaniu działań na rzecz poprawy świadomości społecznej w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami;
+- **7)** opiniowaniu projektów programów przyjmowanych przez Radę Ministrów w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami.
 
 **Art. 10.**
 
@@ -266,6 +310,9 @@ Art. 42–55. (pominięte)
 
 **Art. 18.** W przypadku gdy:
 
+- **1)** podmiot ubiegający się o status podmiotu dokonującego certyfikacji nie spełnia wymogów, o których mowa w art. 15 ust. 3 – minister właściwy do spraw rozwoju regionalnego odmawia, w drodze decyzji, nadania temu podmiotowi statusu podmiotu dokonującego certyfikacji;
+- **2)** podmiot wpisany do wykazu, o którym mowa w art. 17 ust. 1, przestał spełniać wymogi, o których mowa w art. 15 ust. 3 – minister właściwy do spraw rozwoju regionalnego pozbawia, w drodze decyzji, ten podmiot statusu podmiotu dokonującego certyfikacji i wykreśla ten podmiot z wykazu.
+
 **Art. 19.**
 
 1. Dokumentem potwierdzającym spełnianie minimalnych wymagań, o których mowa w art. 6, jest certyfikat dostępności, zwany dalej „certyfikatem”, wydawany dla konkretnego podmiotu na okres czterech lat od dnia wydania.
@@ -282,6 +329,10 @@ Art. 42–55. (pominięte)
 3. Certyfikat może ponadto zawierać zalecenia w zakresie poprawy zapewniania dostępności osobom ze szczególnymi potrzebami przez dany podmiot.
 
 **Art. 20.** Minister właściwy do spraw rozwoju regionalnego może dokonywać kontroli i oceny działalności podmiotu dokonującego certyfikacji, w zakresie:
+
+- **1)** efektywności, rzetelności i jakości działalności w zakresie dokonywania certyfikacji;
+- **2)** spełniania wymogów, o których mowa w art. 15 ust. 3;
+- **3)** przechowywania dokumentacji związanej z dokonywaniem certyfikacji.
 
 **Art. 21.**
 
@@ -307,9 +358,19 @@ Art. 42–55. (pominięte)
 
 **Art. 23.** Podmiot dokonujący certyfikacji, w terminie nie dłuższym niż̇ 3 miesiące od dnia złożenia kompletnego wniosku:
 
+- **1)** w przypadku stwierdzenia, że podmiot ubiegający się o certyfikat spełnia minimalne wymagania, o których mowa w art. 6 – przekazuje temu podmiotowi certyfikat w postaci papierowej albo
+- **2)** zawiadamia podmiot ubiegający się o certyfikat o odmowie wydania certyfikatu.
+
 **Art. 24.** Podmiot dokonujący certyfikacji jest obowiązany do:
 
+- **1)** przechowywania wydanego certyfikatu przez okres 5 lat od daty jego wydania;
+- **2)** przekazywania do ministra właściwego do spraw rozwoju regionalnego informacji o wydanych certyfikatach;
+- **3)** przechowywania dokumentów lub ich kopii i danych, na podstawie których został wydany certyfikat, a także do udostępniania tych dokumentów lub danych na żądanie ministra właściwego do spraw rozwoju regionalnego.
+
 **Art. 25.** W okresie ważności certyfikatu:
+
+- **1)** podmiot, któremu został wydany certyfikat, jest obowiązany spełniać minimalne wymagania, o których mowa w art. 6;
+- **2)** podmiot dokonujący certyfikacji może przeprowadzać kontrolę w zakresie spełniania minimalnych wymagań, o których mowa w art. 6, przez podmiot, któremu został wydany certyfikat.
 
 **Art. 26.**
 
@@ -459,6 +520,13 @@ Art. 42–55. (pominięte)
 
 **Art. 38.** Do zadań Banku Gospodarstwa Krajowego w zakresie, o którym mowa w art. 37 ust. 2, należy w szczególności:
 
+- **1)** dokonywanie wyboru pośredników finansowych i zawieranie z nimi umów;
+- **2)** przekazywanie środków pośrednikom finansowym;
+- **3)** gromadzenie środków z tytułu spłat i zwrotu wsparcia;
+- **4)** monitorowanie realizacji wsparcia;
+- **5)** prowadzenie rozliczeń środków i sporządzanie sprawozdawczości dla ministra właściwego do spraw rozwoju regionalnego;
+- **6)** sprawowanie kontroli realizacji wsparcia przez pośredników finansowych.
+
 **Art. 39.**
 
 1. Wsparcie, o którym mowa w art. 37 ust. 1, jest udzielane bezpośrednio przez Bank Gospodarstwa Krajowego lub wybranych przez niego pośredników finansowych.
@@ -547,4 +615,13 @@ Art. 42–55. (pominięte)
 4. Za wdrożenie mechanizmu korygującego odpowiada minister właściwy do spraw rozwoju regionalnego.
 
 **Art. 73.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 1 ust. 2, art. 6 pkt 2 oraz art. 7 ust. 3, które wchodzą w życie w zakresie:
+    - **a)** stron internetowych podmiotów publicznych nieopublikowanych przed dniem 23 września 2018 r. – z dniem 23 września 2019 r.,
+    - **b)** stron internetowych podmiotów publicznych opublikowanych przed dniem 23 września 2018 r. – z dniem 23 września 2020 r.,
+    - **c)** aplikacji mobilnych podmiotów publicznych – z dniem 23 czerwca 2021 r.;
+
+- **2)** art. 15–28, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia;
+- **3)** art. 4 ust. 3 i 4, art. 5 ust. 2, art. 29–34 i art. 51, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia.
+
 

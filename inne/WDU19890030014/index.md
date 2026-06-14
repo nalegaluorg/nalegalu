@@ -8,7 +8,7 @@ pos: 14
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Ustawa wchodzi w życie z dniem ogłoszenia.

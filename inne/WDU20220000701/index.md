@@ -8,10 +8,10 @@ pos: 701
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 marca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 701 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 28 marca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000701) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/701/text.pdf) |
 
-Poz. 701 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 28 marca 2022 r.
-w sprawie ryczałtu za dojazd do miejsca pełnienia służby funkcjonariusza Służby Więziennej Na podstawie art. 195a ust. 6 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, 1728 i 2448 oraz z 2022 r. poz. 655) zarządza się, co następuje: § 1. Rozporządzenie określa wysokość ryczałtu za dojazd do miejsca pełnienia służby funkcjonariusza Służby Więziennej, zwanego dalej „funkcjonariuszem”, który mieszka poza miejscowością pełnienia służby.
+w sprawie ryczałtu za dojazd do miejsca pełnienia służby funkcjonariusza Służby Więziennej Na podstawie art. 195a ust. 6 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, 1728 i 2448 oraz z 2022 r. poz. 655) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wysokość ryczałtu za dojazd do miejsca pełnienia służby funkcjonariusza Służby Więziennej, zwanego dalej „funkcjonariuszem”, który mieszka poza miejscowością pełnienia służby.
 § 2. 1. Ryczałt, o którym mowa w § 1, wynosi:
 1) 20 zł miesięcznie dla funkcjonariusza, którego miejsce zamieszkania znajduje się w odległości nieprzekraczającej 15 km od miejsca pełnienia służby;
 2) 35 zł miesięcznie dla funkcjonariusza, którego miejsce zamieszkania znajduje się w odległości powyżej 15 km do 30 km od miejsca pełnienia służby;

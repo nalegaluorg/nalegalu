@@ -8,10 +8,10 @@ pos: 1003
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 lipca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1003 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 17 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1003/text.pdf) |
 
-Poz. 1003 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 17 lipca 2015 r.
-zmieniające rozporządzenie w sprawie umundurowania policjantów Na podstawie art. 12 ust. 1 pkt 2–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355 i 529) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. Nr 90, poz. 738, z późn. zm. ) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie umundurowania policjantów Na podstawie art. 12 ust. 1 pkt 2–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355 i 529) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. Nr 90, poz. 738, z późn. zm. ) wprowadza się następujące zmiany:
 1) w § 19 po ust. 7 dodaje się ust. 8 w brzmieniu: „8. Spódnica dla policjanta-kobiety generalnego inspektora Policji i nadinspektora Policji jest w kolorze ciemnogranatowym. Spódnica ma przy bocznych szwach naszyte lampasy o szerokości 2,5 cm każdy i wypustki w kolorze ciemnoniebieskim. Dolna krawędź spódnicy powinna sięgać między 5 cm powyżej kolan a 5 cm poniżej kolan.”;
 2) w załączniku nr 10 do rozporządzenia:
 a) w normie umundurowania nr 3 dotyczącej ubioru służbowego, wyjściowego i galowego dla nadinspektora Policji i generalnego inspektora Policji w lp. 10 i 11 w kolumnie 6 „Uwagi” wyrazy „spódnica dla kobiet” zastępuje się wyrazami „spódnica z lampasami dla kobiet”,

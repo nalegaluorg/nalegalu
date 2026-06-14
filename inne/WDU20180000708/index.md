@@ -8,7 +8,7 @@ pos: 708
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o opiniodawczych zespołach sądowych specjalistów
@@ -101,6 +101,10 @@ source: "isap-pdf"
 
 **Art. 7.** Kierownik zespołu:
 
+- **1)** organizuje pracę zespołu i nią kieruje;
+- **2)** kontroluje przestrzeganie procedury badań i standardów metodologii opiniowania przez specjalistów;
+- **3)** kontroluje sposób wykonywania czynności, o których mowa w art. 1 ust. 2 i 3.
+
 **Art. 8.**
 
 1. Specjalistów w zakresie psychologii, pedagogiki, pediatrii, medycyny rodzinnej, chorób wewnętrznych, psychiatrii oraz psychiatrii dzieci i młodzieży wyłania się w drodze konkursu.
@@ -189,7 +193,14 @@ source: "isap-pdf"
 
 **Art. 16.** Kierownikowi zespołu lub specjaliście, którego stosunek pracy ustał w związku z przejściem na rentę z tytułu niezdolności do pracy lub na emeryturę, przysługuje jednorazowa odprawa w wysokości:
 
+- **1)** dwumiesięcznego wynagrodzenia – po 10 latach pracy w sądzie;
+- **2)** trzymiesięcznego wynagrodzenia – po 15 latach pracy w sądzie;
+- **3)** sześciomiesięcznego wynagrodzenia – po 20 latach pracy w sądzie.
+
 **Art. 17.** Rozwiązanie stosunku pracy z kierownikiem zespołu lub specjalistą bez wypowiedzenia następuje w przypadku:
+
+- **1)** prawomocnego skazania za przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **2)** prawomocnego orzeczenia ubezwłasnowolnienia częściowego lub całkowitego.
 
 **Art. 18.** W sprawach nieuregulowanych w ustawie do kierownika zespołu i specjalistów stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357). Art. 19–24. (pominięte)
 

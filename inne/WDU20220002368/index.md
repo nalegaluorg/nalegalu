@@ -8,10 +8,10 @@ pos: 2368
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22336688 Załącznik do rozporządzenia Ministra Infrastruktury z dnia 3 listopada 2022 r. (poz. …….) WZÓR
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2368/text.pdf) |
 
-22336688 Załącznik do rozporządzenia Ministra Infrastruktury z dnia 3 listopada 2022 r. (poz. …….) WZÓR
 poz. 457, z późn. zm.) Objaśnienie: pola oznaczone kwadratem wypełnia się, stawiając znak „X”.
 A. DATA I MIEJSCE ZŁOŻENIA WNIOSKU, OZNACZENIE DYREKTORA URZĘDU MORSKIEGO, DO KTÓREGO JEST KIEROWANY WNIOSEK, ORAZ DANE DOTYCZĄCE WNIOSKODAWCY I JEGO PEŁNOMOCNIKA, JEŻELI ZOSTAŁ USTANOWIONY
 1. Data wniosku (dzień-miesiąc-rok): 2. Miejscowość: _ _- _ _-_ _ _ _ ………………………………………………….......
@@ -42,13 +41,13 @@ A. DATA I MIEJSCE ZŁOŻENIA WNIOSKU, OZNACZENIE DYREKTORA URZĘDU MORSKIEGO, DO
 2. Dowód wniesienia opłaty skarbowej od złożenia dokumentu stwierdzającego udzielenie pełnomocnictwa (jeżeli jest wymagana)
 3. Dowód wniesienia opłaty skarbowej od wydania decyzji w sprawie wykorzystania pasa technicznego do innego celu niż cel określony w art. 36 ust. 2 pkt 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (jeżeli jest wymagana)
 4. Mapa poglądowa z naniesionym miejscem lokalizacji przedsięwzięcia lub inwestycji
-5. Dokument potwierdzający prawo do dysponowania gruntem, w szczególności zgoda dysponenta terenu, umowa dzierżawy, umowa użyczenia, a w przypadku gdy zgoda dysponenta terenu jest w posiadaniu organu oświadczenie o posiadaniu prawa do dysponowania nieruchomością
+5. Dokument potwierdzający prawo do dysponowania gruntem, w szczególności zgoda dysponenta terenu, umowa dzierżawy, umowa użyczenia, a w przypadku gdy zgoda dysponenta terenu jest w posiadaniu organu – oświadczenie o posiadaniu prawa do dysponowania nieruchomością
 6. Opis sposobu wykorzystania pasa technicznego (jeżeli jest dodatkowym załącznikiem) D. WYKAZ DOKUMENTÓW, KTÓRE NALEŻY DODATKOWO DOŁĄCZYĆ DO WNIOSKU W PRZYPADKU REALIZACJI PRZEDSIĘWZIĘĆ LUB INWESTYCJI POWODUJĄCYCH TRWAŁĄ LUB CZASOWĄ ZMIANĘ ZABUDOWY, ZAGOSPODAROWANIA LUB UKSZTAŁTOWANIA TERENU Rodzaj załącznika Załączam
 1. Kopia aktualnej mapy zasadniczej udostępniona z państwowego zasobu geodezyjnego i kartograficznego lub kopia aktualnej mapy do celów projektowych z naniesionym projektem zagospodarowania, zabudowy lub zmiany ukształtowania terenu
 2. Kopia decyzji o warunkach zabudowy lub decyzji o lokalizacji inwestycji celu publicznego (w przypadku braku miejscowego planu zagospodarowania przestrzennego)
-3. Projekt budowlany w zakresie uwzględniającym specyfikę robót budowlanych dla obiektów lokalizowanych na okres powyżej 180 dni, dla których wymagane jest pozwolenie na budowę albo zgłoszenie robót budowlanych
-4. Projekt zagospodarowania działki dla obiektów lokalizowanych na okres do 180 dni i powyżej 180 dni, dla których wymagane jest zgłoszenie robót budowlanych
-5. Wyniki badań geotechnicznych lub badań stateczności dla obiektów lokalizowanych na okres powyżej 180 dni, jeżeli przedsięwzięcie lub inwestycja są planowane na klifie lub wydmie lub stan brzegu morskiego tego wymaga Data i podpis składającego wniosek (wnioskodawcy lub jego pełnomocnika): …………………………………….
+3. Projekt budowlany w zakresie uwzględniającym specyfikę robót budowlanych – dla obiektów lokalizowanych na okres powyżej 180 dni, dla których wymagane jest pozwolenie na budowę albo zgłoszenie robót budowlanych
+4. Projekt zagospodarowania działki – dla obiektów lokalizowanych na okres do 180 dni i powyżej 180 dni, dla których wymagane jest zgłoszenie robót budowlanych
+5. Wyniki badań geotechnicznych lub badań stateczności – dla obiektów lokalizowanych na okres powyżej 180 dni, jeżeli przedsięwzięcie lub inwestycja są planowane na klifie lub wydmie lub stan brzegu morskiego tego wymaga Data i podpis składającego wniosek (wnioskodawcy lub jego pełnomocnika): …………………………………….
 z 2022 r. poz. 457, z późn. zm.) Pouczenie: W przypadku tego wniosku nie jest dopuszczalne późniejsze zgłaszanie przez stronę nowych żądań.
 Objaśnienie: pola oznaczone kwadratem wypełnia się, stawiając znak „X”.
 A. DATA I MIEJSCE ZŁOŻENIA WNIOSKU, OZNACZENIE DYREKTORA URZĘDU MORSKIEGO, DO KTÓREGO JEST KIEROWANY WNIOSEK, ORAZ DANE DOTYCZĄCE WNIOSKODAWCY I JEGO PEŁNOMOCNIKA, JEŻELI ZOSTAŁ USTANOWIONY
@@ -65,7 +64,7 @@ A. DATA I MIEJSCE ZŁOŻENIA WNIOSKU, OZNACZENIE DYREKTORA URZĘDU MORSKIEGO, DO
 2. Dowód wniesienia opłaty skarbowej od złożenia dokumentu stwierdzającego udzielenie pełnomocnictwa (jeżeli jest wymagana)
 3. Dowód wniesienia opłaty skarbowej od wydania decyzji w sprawie wykorzystania pasa technicznego do innego celu niż cel określony w art. 36 ust. 2 pkt 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (jeżeli jest wymagana)
 4. Mapa poglądowa z naniesionym miejscem lokalizacji przedsięwzięcia lub inwestycji
-5. Dokument potwierdzający prawo do dysponowania gruntem, w szczególności zgoda dysponenta terenu, umowa dzierżawy, umowa użyczenia, a w przypadku gdy zgoda dysponenta terenu jest w posiadaniu organu oświadczenie o posiadaniu prawa do dysponowania nieruchomością
+5. Dokument potwierdzający prawo do dysponowania gruntem, w szczególności zgoda dysponenta terenu, umowa dzierżawy, umowa użyczenia, a w przypadku gdy zgoda dysponenta terenu jest w posiadaniu organu – oświadczenie o posiadaniu prawa do dysponowania nieruchomością
 6. Opis sposobu wykorzystania pasa technicznego (jeżeli jest dodatkowym załącznikiem) Data i podpis składającego wniosek (wnioskodawcy lub jego pełnomocnika): …………………………………….
 
 ## CZĘŚĆ A WNIOSEK O WYDANIE ZGODY W SPRAWIE WYKORZYSTANIA PASA TECHNICZNEGO DO INNEGO CELU NIŻ UTRZYMANIE BRZEGU W STANIE ZGODNYM Z WYMOGAMI BEZPIECZEŃSTWA I OCHRONY ŚRODOWISKA Podstawa prawna: art. 37 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r.

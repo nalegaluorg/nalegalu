@@ -8,10 +8,10 @@ pos: 1995
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 października 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1995 OBWIESZCZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 4 października 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1995/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 4 października 2017 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu w sprawie wypadków i incydentów lotniczych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu z dnia 18 stycznia 2007 r. w sprawie wypadków i incydentów lotniczych (Dz. U.
 poz. 225), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Infrastruktury i Budownictwa: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU z dnia 18 stycznia 2007 r.
-w sprawie wypadków i incydentów lotniczych Na podstawie art. 139 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089) zarządza się, co następuje:
+w sprawie wypadków i incydentów lotniczych Na podstawie art. 139 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych;
 2) szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych;
 3) warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych;
@@ -39,6 +39,7 @@ w sprawie wypadków i incydentów lotniczych Na podstawie art. 139 ustawy z dnia
 5) warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz formę i sposób udostępniania tych informacji;
 6) wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu;
 7) wykaz przykładowych poważnych incydentów lotniczych.
+§ 2. 1. Zgłoszenie zdarzenia lotniczego może być dokonane przy użyciu każdego dostępnego środka łączności nie później niż 72 godziny od jego zaistnienia.
 2. Niezależnie od zgłoszenia, o którym mowa w ust. 1, dane dotyczące zdarzenia powinny być przesłane na formularzu dostosowanym do aktualnych wymogów systemu komputerowego, udostępnianym na stronach internetowych urzędu obsługującego ministra właściwego do spraw transportu, Komisji oraz Urzędu Lotnictwa Cywilnego.
 3. Formularz, o którym mowa w ust. 2, powinien zawierać w szczególności:
 1) datę i czas zaistnienia zdarzenia;
@@ -49,6 +50,7 @@ w sprawie wypadków i incydentów lotniczych Na podstawie art. 139 ustawy z dnia
 4. W przypadku zdarzeń, o których mowa w art. 135 ust. 4 ustawy z dnia 3 lipca 2002 r. − Prawo lotnicze, zwanej dalej „ustawą”, zgłoszenie o zdarzeniu powinno zawierać w szczególności informacje o okolicznościach jego zaistnienia, na podstawie których Przewodniczący Państwowej Komisji Badania Wypadków Lotniczych, zwany dalej „Przewodniczącym Komisji”, podejmuje decyzję w sprawie podjęcia badania tego zdarzenia.
 § 3. 1. Komputerową bazę danych systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym prowadzi się zgodnie z europejskim centralnym systemem koordynacji powiadamiania o zdarzeniach w lotnictwie (European Co-ordination Centre for Aviation Incident Reporting Systems − ECCAIRS).
 2. Baza danych, o której mowa w ust. 1, uzupełniana jest na bieżąco na podstawie danych zawartych w formularzach zawiadomienia o zdarzeniu lotniczym otrzymywanych zgodnie z art. 135a ustawy oraz w raportach Komisji.
+§ 4. 1. Po otrzymaniu zgłoszenia o zaistnieniu zdarzenia lotniczego podlegającego badaniu Komisji, Przewodniczący Komisji wyznacza spośród członków Komisji kierującego zespołem badawczym oraz, w porozumieniu z nim, skład tego zespołu.
 2. W przypadku niepodjęcia przez Komisję badania zdarzenia lotniczego, Przewodniczący Komisji informuje o tej decyzji odpowiednio: użytkownika statku powietrznego, państwowy organ zarządzania ruchem lotniczym albo zarządzającego lotniskiem, w celu podjęcia przez nich badania, oraz wyznacza spośród członków Komisji osobę nadzorującą to badanie.
 3. Podmioty, o których mowa w ust. 2, po powiadomieniu o niepodjęciu przez Komisję badania, podejmują czynności w celu zbadania tego zdarzenia. Do badania stosuje się odpowiednio przepisy § 5, 7−9, 11, 12 i 19.
 § 5. W skład zespołu badawczego nie może wchodzić osoba, która w jakimkolwiek charakterze uczestniczyła w zdarzeniu lotniczym, nadzorowała lot lub skok, w którym zdarzenie to nastąpiło, lub mogła mieć wpływ na jego zaistnienie lub przebieg.
@@ -108,6 +110,7 @@ c) na wniosek Przewodniczącego Komisji uznać informacje zawarte w zgłoszeniu 
 3. Przewodniczący Komisji może wyznaczyć jednego lub kilku doradców, spośród osób zaproponowanych przez użytkownika lub podmioty odpowiedzialne za projekt typu i montaż finalny statku powietrznego, w celu udzielenia pomocy pełnomocnemu przedstawicielowi.
 § 23. 1. Przewodniczący Komisji może złożyć ministrowi właściwemu do spraw transportu wniosek o wznowienie zakończonego badania w razie ujawnienia nowych faktów mogących mieć wpływ na ustalenie przyczyn i okoliczności zdarzenia.
 2. W przypadku wznowienia zakończonego badania przepisy rozdziałów 3, 4 i 5 stosuje się odpowiednio.
+§ 24. Komisja o przystąpieniu do badania zdarzenia lotniczego, w którym brał udział polski statek powietrzny, powiadamia:
 1) w każdym przypadku:
 a) Prezesa Urzędu,
 b) użytkownika statku powietrznego;
@@ -125,14 +128,15 @@ c) Europejską Agencję Bezpieczeństwa Lotniczego (EASA).
 § 26. 1. Komisja przekazuje raporty wstępne Prezesowi Urzędu w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej, w jednym z formatów danych określonych w załączniku nr 2 do rozporządzenia Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz. U. z 2016 r. poz. 113 i 1744), albo w postaci papierowej.
 2. Raport wstępny sporządza się w formie pisemnej. Powinien on zawierać informacje o zdarzeniu, jak również o czynnikach mogących mieć ujemny wpływ na bezpieczeństwo lotów, które zostały ustalone do momentu jego sporządzenia.
 3. (uchylony).
-4. Komisja udostępnia na swojej stronie internetowej raporty wstępne z badania wypadku lotniczego, a w przypadku gdy jest to uzasadnione względami bezpieczeństwa wykonywania lotów także z badania poważnego incydentu lotniczego.
+4. Komisja udostępnia na swojej stronie internetowej raporty wstępne z badania wypadku lotniczego, a w przypadku gdy jest to uzasadnione względami bezpieczeństwa wykonywania lotów – także z badania poważnego incydentu lotniczego.
 § 27. Kierujący zespołem badawczym, po uzgodnieniu z Przewodniczącym Komisji, niezależnie od sporządzenia raportu wstępnego, etapu badania czy formalnego zakończenia badania zdarzenia lotniczego, niezwłocznie przekazuje Prezesowi Urzędu informacje o okolicznościach i faktach mogących stanowić zagrożenie dla bezpiecznej eksploatacji statku powietrznego.
 § 28. Informacji dotyczących badanego zdarzenia lotniczego może udzielać, przy zachowaniu przepisów o ochronie danych osobowych, wyłącznie Przewodniczący Komisji lub kierujący zespołem badawczym.
+§ 29. 1. Kopię raportu końcowego i uchwały w sprawie badania zdarzenia lotniczego przeprowadzonego przez Komisję przekazuje się:
 1) w każdym przypadku:
 a) właścicielowi statku powietrznego,
 b) użytkownikowi statku powietrznego;
-2) organowi ścigania jeżeli prowadzone jest w tej sprawie postępowanie, a organ z takim żądaniem wystąpił;
-3) innym podmiotom, w szczególności państwowemu organowi zarządzania ruchem lotniczym, zarządzającemu lotniskiem, stowarzyszeniom związanym z działalnością lotniczą i producentom statków powietrznych jeżeli ze względów profilaktycznych Przewodniczący Komisji uzna to za konieczne.
+2) organowi ścigania – jeżeli prowadzone jest w tej sprawie postępowanie, a organ z takim żądaniem wystąpił;
+3) innym podmiotom, w szczególności państwowemu organowi zarządzania ruchem lotniczym, zarządzającemu lotniskiem, stowarzyszeniom związanym z działalnością lotniczą i producentom statków powietrznych – jeżeli ze względów profilaktycznych Przewodniczący Komisji uzna to za konieczne.
 2. Komisja przekazuje Komisji Europejskiej kopię raportu końcowego z przeprowadzonego przez siebie badania zdarzenia lotniczego.
 § 30. 1. W przypadku badania wypadku lub poważnego incydentu lotniczego obcego statku powietrznego, kopię raportu końcowego i uchwały Komisji przekazuje się:
 1) w przypadku, gdy maksymalna masa startowa statku powietrznego przekracza 2250 kg, właściwym organom państwa:
@@ -146,6 +150,7 @@ b) uczestniczącego w badaniach lub pomagającego w jego przeprowadzeniu.
 § 31. 1. Raporty końcowe z przeprowadzonych badań Komisja umieszcza na swoich stronach internetowych.
 2. (uchylony).
 3. (uchylony).
+§ 32. 1. System dobrowolnego zgłaszania o zdarzeniach lotniczych prowadzi, przy zachowaniu zasady poufności, Prezes Urzędu, w postaci komputerowej bazy danych umożliwiającej gromadzenie i analizowanie danych o zdarzeniach.
 2. Do przyjmowania poufnych zgłoszeń upoważniony jest podmiot, który posiada możliwości techniczne i organizacyjne w zakresie przyjmowania zgłoszeń, przetwarzania danych w sposób określony przez Prezesa Urzędu oraz zapewnia ochronę gromadzonych danych i ich przekazywanie do bazy danych.
 3. Podmiot, o którym mowa w ust. 2, przyjmuje zgłoszenia na podstawie umowy zawartej z Prezesem Urzędu, w której określa się w szczególności:
 1) warunki techniczne przyjmowania zgłoszeń;
@@ -158,11 +163,13 @@ b) uczestniczącego w badaniach lub pomagającego w jego przeprowadzeniu.
 3) informacje mające znaczenie dla analizy zdarzenia.
 3. W systemie, o którym mowa w § 32, nie rejestruje się źródeł informacji ani danych o osobach uczestniczących w zdarzeniu, a zawarte w nim dane powinny być zabezpieczone przed dostępem osób trzecich.
 4. Informacje zawarte w bazie danych mogą być wykorzystywane tylko w celu poprawy bezpieczeństwa lotów w lotnictwie cywilnym i są udostępniane w formie opracowań statystycznych, wraz z wnioskami i zaleceniami profilaktycznymi w zakresie zarządzania bezpieczeństwem lotów.
+§ 34. Wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu określa załącznik nr 1 do rozporządzenia.
 § 35. Wykaz przykładowych poważnych incydentów lotniczych określa załącznik nr 2 do rozporządzenia.
+§ 36. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 WYKAZ PRZYKŁADOWYCH ZDARZEŃ PODLEGAJĄCYCH OBOWIĄZKOWEMU ZGŁASZANIU Eksploatacja statku powietrznego
 1) Eksploatacja statku powietrznego:
-a) manewry unikania: ryzyka kolizji z innym statkiem powietrznym, terenem lub innym obiektem albo sytuacji niebezpiecznej, w której podjęcie takiego działania byłoby właściwe, wymagane do zapobiegnięcia kolizji z innym statkiem powietrznym, terenem lub innym obiektem, innych sytuacji niebezpiecznych,
-b) zdarzenia przy starcie i lądowaniu, w tym podczas lądowania zapobiegawczego i przymusowego, takie jak: lądowanie przed początkiem drogi startowej, wytoczenie się poza koniec lub boczną krawędź drogi startowej, starty przerwane, starty lub próba startu z zamkniętej, zajętej lub niewłaściwej drogi startowej, lądowanie lub próba lądowania na zamkniętej, zajętej lub niewłaściwej drodze startowej, wtargnięcie na drogę startową,
+a) manewry unikania: – ryzyka kolizji z innym statkiem powietrznym, terenem lub innym obiektem albo sytuacji niebezpiecznej, w której podjęcie takiego działania byłoby właściwe, – wymagane do zapobiegnięcia kolizji z innym statkiem powietrznym, terenem lub innym obiektem, – innych sytuacji niebezpiecznych,
+b) zdarzenia przy starcie i lądowaniu, w tym podczas lądowania zapobiegawczego i przymusowego, takie jak: – lądowanie przed początkiem drogi startowej, – wytoczenie się poza koniec lub boczną krawędź drogi startowej, – starty przerwane, – starty lub próba startu z zamkniętej, zajętej lub niewłaściwej drogi startowej, – lądowanie lub próba lądowania na zamkniętej, zajętej lub niewłaściwej drodze startowej, – wtargnięcie na drogę startową,
 c) niezdolność do osiągnięcia właściwych parametrów lotu statku powietrznego wymaganych podczas startu lub początkowego etapu wznoszenia,
 d) krytycznie mała ilość paliwa, brak możliwości rozprowadzenia paliwa lub zużycie całkowitej ilości paliwa przeznaczonego do zużycia w locie,
 e) utrata kontroli nad sterowaniem (także częściowa lub chwilowa) niezależnie od przyczyny,
@@ -184,12 +191,12 @@ t) nieuważne lub nieprawidłowe używanie jakichkolwiek urządzeń sterujących
 u) niemożność osiągnięcia właściwej konfiguracji statku powietrznego dla jakiejkolwiek z faz lotu (np. podwozie i osłony podwozia, klapy, stabilizatory, sloty),
 v) zagrożenie lub potencjalne zagrożenie stanowiące konsekwencję jakiejkolwiek zamierzonej symulacji warunków awarii w celu szkolenia, kontroli systemu lub treningu,
 w) wibracje przekraczające normę,
-x) zadziałanie jakiegokolwiek zasadniczego systemu ostrzegania związanego z manewrowaniem statkiem powietrznym, np. ostrzeżenia o konfiguracji, ostrzeżenia o przeciągnięciu (drgania drążka), ostrzeżenia o nadmiernej prędkości, chyba że: załoga z całą pewnością stwierdziła, że wskazanie było fałszywe i to pod warunkiem, że fałszywe ostrzeżenie nie było wynikiem trudności lub zagrożenia wynikającego z odpowiedzi załogi na ostrzeżenie, lub ostrzeżenie zostało włączone do celów szkoleniowych lub kontrolnych,
-y) „Ostrzeżenie” z GPWS/TAWS (systemu ostrzegania o bliskości ziemi), kiedy: statek powietrzny zbliża się do ziemi na odległość mniejszą niż było to planowane lub przewidywane, lub w warunkach meteorologicznych wymagających wykonywania lotu według przyrządów lub w nocy, pojawia się ostrzeżenie o dużej prędkości zniżania (tryb 1), lub ostrzeżenie wynika z niewypuszczenia podwozia lub nieustawienia klap do lądowania w położeniu właściwym dla danego punktu w fazie podejścia do lądowania (tryb 4), lub pojawia się lub mogła się pojawić jakakolwiek trudność lub zagrożenie stanowiące wynik odpowiedzi załogi na „ostrzeżenie”, np. zmniejszenie odległości od innych tras ruchu. Może to obejmować ostrzeżenie dowolnego trybu lub typu, np. prawdziwe, uciążliwe lub fałszywe,
+x) zadziałanie jakiegokolwiek zasadniczego systemu ostrzegania związanego z manewrowaniem statkiem powietrznym, np. ostrzeżenia o konfiguracji, ostrzeżenia o przeciągnięciu (drgania drążka), ostrzeżenia o nadmiernej prędkości, chyba że: – załoga z całą pewnością stwierdziła, że wskazanie było fałszywe i to pod warunkiem, że fałszywe ostrzeżenie nie było wynikiem trudności lub zagrożenia wynikającego z odpowiedzi załogi na ostrzeżenie, lub – ostrzeżenie zostało włączone do celów szkoleniowych lub kontrolnych,
+y) „Ostrzeżenie” z GPWS/TAWS (systemu ostrzegania o bliskości ziemi), kiedy: – statek powietrzny zbliża się do ziemi na odległość mniejszą niż było to planowane lub przewidywane, lub – w warunkach meteorologicznych wymagających wykonywania lotu według przyrządów lub w nocy, pojawia się ostrzeżenie o dużej prędkości zniżania (tryb 1), lub – ostrzeżenie wynika z niewypuszczenia podwozia lub nieustawienia klap do lądowania w położeniu właściwym dla danego punktu w fazie podejścia do lądowania (tryb 4), lub – pojawia się lub mogła się pojawić jakakolwiek trudność lub zagrożenie stanowiące wynik odpowiedzi załogi na „ostrzeżenie”, np. zmniejszenie odległości od innych tras ruchu. Może to obejmować ostrzeżenie dowolnego trybu lub typu, np. prawdziwe, uciążliwe lub fałszywe,
 z) „alarm” GPWS/TAWS, kiedy jakakolwiek trudność lub alarm występują lub mogłyby wystąpić w wyniku odpowiedzi załogi na „alarm”, za) alarmy ACAS (Pokładowy System Zapobiegania Kolizji), zb) zdarzenia powodowane przez podmuch od napędu odrzutowego lub śmigłowego, powodujące znaczne zniszczenia.
 2) Sytuacje awaryjne:
 a) pożar, wybuch, dym lub toksyczne opary, nawet po wygaszeniu pożaru,
-b) zastosowanie w razie awarii jakiejkolwiek procedury niestandardowej przez obsługę lotu lub załogę kabinową, kiedy: procedura istnieje, ale nie została użyta, procedura nie istnieje, procedura istnieje, ale jest niekompletna lub nieodpowiednia, procedura jest nieprawidłowa, użyto nieprawidłowej procedury,
+b) zastosowanie w razie awarii jakiejkolwiek procedury niestandardowej przez obsługę lotu lub załogę kabinową, kiedy: – procedura istnieje, ale nie została użyta, – procedura nie istnieje, – procedura istnieje, ale jest niekompletna lub nieodpowiednia, – procedura jest nieprawidłowa, – użyto nieprawidłowej procedury,
 c) nieodpowiedniość jakichkolwiek procedur przeznaczonych do stosowania w warunkach awaryjnych, także kiedy są stosowane do obsługi, szkolenia lub prób,
 d) zdarzenie prowadzące do ewakuacji awaryjnej,
 e) dekompresja,
@@ -226,7 +233,7 @@ e) uszkodzenie lub wada elementu konstrukcyjnego, które mogłyby zagrozić praw
 f) utrata jakiejkolwiek części statku powietrznego podczas lotu.
 2) Systemy: Proponuje się następujące kryteria ogólne, stosowane do wszystkich systemów (instalacji):
 a) utrata, znaczna wadliwość działania lub wada któregokolwiek systemu, podsystemu, lub zestawu urządzeń w sytuacji, kiedy realizacja standardowych procedur eksploatacyjnych nie jest w zadowalającym stopniu możliwa,
-b) brak możliwości kontrolowania systemu przez załogę, na przykład: samoczynne (niezadane przez załogę) działania systemu, nieprawidłowe lub niepełne reakcje, w tym ograniczenia działania, samoczynne niepożądane wyjście systemu z pracy, mechaniczne odłączanie lub uszkodzenie systemu,
+b) brak możliwości kontrolowania systemu przez załogę, na przykład: – samoczynne (niezadane przez załogę) działania systemu, – nieprawidłowe lub niepełne reakcje, w tym ograniczenia działania, – samoczynne niepożądane wyjście systemu z pracy, – mechaniczne odłączanie lub uszkodzenie systemu,
 c) uszkodzenie lub złe działanie poszczególnych funkcji systemu (jeden system może integrować kilka funkcji),
 d) zakłócenia w systemach lub zakłócenia międzysystemowe,
 e) uszkodzenie lub złe działanie urządzenia zabezpieczającego lub systemu awaryjnego współpracującego z systemem,
@@ -316,15 +323,15 @@ c) uszkodzenie systemu wykrywania nieszczelności w instalacji nawiewu powietrza
 18) Napęd (w tym silniki, śmigła i wirniki) oraz pomocnicze jednostki zasilające (APU):
 a) zerwanie płomienia, zatrzymanie się lub wadliwe działanie któregokolwiek z silników,
 b) przekroczenie prędkości lub niemożność regulacji obrotów jakiegokolwiek elementu wysokoobrotowego (na przykład: APU, rozrusznika w powietrzu, generatora obiegu powietrza, silnika turbiny powietrznej, śmigła lub wirnika),
-c) uszkodzenie lub złe działanie jakiejkolwiek części silnika lub zespołu napędowego, powodujące jedno lub więcej podanych niżej zjawisk: odpadnięcie podzespołów lub części, niekontrolowany płomień wewnątrz lub na zewnątrz lub niekontrolowane wydmuchiwanie gorącego gazu, ciąg w kierunku innym niż wymagany przez pilota, wadliwe działanie systemu odwracania ciągu, brak możliwości zmiany mocy, ciągu lub obrotów, uszkodzenie mocowania silnika, częściowa lub całkowita utrata głównej części zespołu napędowego, gęste, widzialne dymy lub stężenie produktów toksycznych, zagrażające utratą zdolności do działania załogi lub pasażerów, niemożność wyłączenia silnika przy zastosowaniu normalnych procedur, niemożność ponownego uruchomienia silnika zdatnego do użytku,
-d) niekontrolowana utrata ciągu/mocy, zmiany lub oscylacje sklasyfikowane jako utrata sterowania ciągiem lub mocą (LOTC): dla jednosilnikowego statku powietrznego, lub które są uznane za nadmierne dla danego zastosowania, lub które mogą wpłynąć na więcej niż jeden silnik wielosilnikowego statku powietrznego, w szczególności w przypadku statku powietrznego dwusilnikowego, lub dla wielosilnikowego statku powietrznego, gdy ten sam silnik jest równocześnie wykorzystywany przy pracy lub wspomaganiu innych systemów statku powietrznego, których niesprawność może być uważana za niebezpieczną lub krytyczną,
+c) uszkodzenie lub złe działanie jakiejkolwiek części silnika lub zespołu napędowego, powodujące jedno lub więcej podanych niżej zjawisk: – odpadnięcie podzespołów lub części, – niekontrolowany płomień wewnątrz lub na zewnątrz lub niekontrolowane wydmuchiwanie gorącego gazu, – ciąg w kierunku innym niż wymagany przez pilota, – wadliwe działanie systemu odwracania ciągu, – brak możliwości zmiany mocy, ciągu lub obrotów, – uszkodzenie mocowania silnika, – częściowa lub całkowita utrata głównej części zespołu napędowego, – gęste, widzialne dymy lub stężenie produktów toksycznych, zagrażające utratą zdolności do działania załogi lub pasażerów, – niemożność wyłączenia silnika przy zastosowaniu normalnych procedur, – niemożność ponownego uruchomienia silnika zdatnego do użytku,
+d) niekontrolowana utrata ciągu/mocy, zmiany lub oscylacje sklasyfikowane jako utrata sterowania ciągiem lub mocą (LOTC): – dla jednosilnikowego statku powietrznego, lub – które są uznane za nadmierne dla danego zastosowania, lub – które mogą wpłynąć na więcej niż jeden silnik wielosilnikowego statku powietrznego, w szczególności w przypadku statku powietrznego dwusilnikowego, lub – dla wielosilnikowego statku powietrznego, gdy ten sam silnik jest równocześnie wykorzystywany przy pracy lub wspomaganiu innych systemów statku powietrznego, których niesprawność może być uważana za niebezpieczną lub krytyczną,
 e) jakakolwiek wada części o kontrolowanej trwałości, powodująca jej wymianę przed upływem pełnego okresu jej używalności,
 f) wady ogólnego pochodzenia powodujące tak wysokie prawdopodobieństwo wyłączania się silników w locie, że istnieje możliwość wyłączenia się więcej niż jednego silnika podczas tego samego lotu,
 g) ogranicznik lub sterownik silnika, niedziałający lub działający nieprawidłowo, gdy jest potrzebny,
 h) przekraczanie parametrów eksploatacyjnych silnika,
 i) uszkodzenia spowodowane ciałem obcym (FOD).
 19) Śmigła i układ napędowy:
-a) uszkodzenie lub wadliwe działanie jakiejkolwiek części śmigła lub zespołu napędowego, powodujące jedno lub więcej spośród następujących zjawisk: nadmierne obroty śmigła, powstawanie nadmiernego oporu, ciąg w kierunku przeciwnym do ustawionego przez pilota, odpadnięcie śmigła lub jakiejkolwiek dużej jego części, uszkodzenie powodujące nadmierne niewyrównoważenie, niezamierzony ruch łopat śmigła w położeniu „mały skok”, poniżej ustalonego minimum w locie,
+a) uszkodzenie lub wadliwe działanie jakiejkolwiek części śmigła lub zespołu napędowego, powodujące jedno lub więcej spośród następujących zjawisk: – nadmierne obroty śmigła, – powstawanie nadmiernego oporu, – ciąg w kierunku przeciwnym do ustawionego przez pilota, – odpadnięcie śmigła lub jakiejkolwiek dużej jego części, – uszkodzenie powodujące nadmierne niewyrównoważenie, – niezamierzony ruch łopat śmigła w położeniu „mały skok”, poniżej ustalonego minimum w locie,
 b) niemożność przestawienia śmigła w „chorągiewkę”,
 c) niemożność zmiany skoku śmigła,
 d) niekontrolowana zmiana skoku,
@@ -361,10 +368,10 @@ b) przy każdej następnej kontroli zgodności przekracza dopuszczalne wartości
 8) Produkty, części, przyrządy i materiały pochodzenia nieznanego lub podejrzanego.
 9) Mylące, nieprawidłowe lub niewystarczające dane lub procedury, mogące prowadzić do błędów w obsłudze technicznej.
 10) Jakiekolwiek uszkodzenie, wadliwe działanie lub wada urządzeń naziemnych wykorzystywanych do badania lub sprawdzania systemów i wyposażenia statku powietrznego, gdy wymagana inspekcja okresowa i procedury testowania nie zidentyfikowały jednoznacznie problemu i powstaje sytuacja niebezpieczna.
-Służby żeglugi powietrznej, wyposażenie i służby naziemne I. Służby nawigacji lotniczej (ANS) pomimo, iż w niniejszym wykazie podano większość podlegających zgłoszeniu zdarzeń, ich lista może nie być wyczerpująca. Należy zgłaszać również inne zdarzenia, uznane przez zainteresowanych za spełniające podane kryteria;
-niniejszy wykaz nie obejmuje wypadków i poważnych incydentów. Oprócz innych wymagań dotyczących zgłaszania o wypadkach, należy je rejestrować w bazie danych;
-niniejszy wykaz obejmuje zdarzenia w służbach żeglugi powietrznej (ANS) stwarzające bieżące lub potencjalne zagrożenie dla bezpieczeństwa lotów lub mogące pogorszyć bezpieczeństwo wynikające z działalności służb żeglugi powietrznej (ANS);
-treść niniejszego wykazu nie stanowi przeszkody do zgłaszania jakiegokolwiek zdarzenia, sytuacji lub warunków, które, jeśli powtórzą się w innych, ale podobnych okolicznościach lub zostaną pozostawione bez skorygowania, mogą stwarzać zagrożenie dla bezpieczeństwa statku powietrznego.
+Służby żeglugi powietrznej, wyposażenie i służby naziemne I. Służby nawigacji lotniczej (ANS) – pomimo, iż w niniejszym wykazie podano większość podlegających zgłoszeniu zdarzeń, ich lista może nie być wyczerpująca. Należy zgłaszać również inne zdarzenia, uznane przez zainteresowanych za spełniające podane kryteria;
+– niniejszy wykaz nie obejmuje wypadków i poważnych incydentów. Oprócz innych wymagań dotyczących zgłaszania o wypadkach, należy je rejestrować w bazie danych;
+– niniejszy wykaz obejmuje zdarzenia w służbach żeglugi powietrznej (ANS) stwarzające bieżące lub potencjalne zagrożenie dla bezpieczeństwa lotów lub mogące pogorszyć bezpieczeństwo wynikające z działalności służb żeglugi powietrznej (ANS);
+– treść niniejszego wykazu nie stanowi przeszkody do zgłaszania jakiegokolwiek zdarzenia, sytuacji lub warunków, które, jeśli powtórzą się w innych, ale podobnych okolicznościach lub zostaną pozostawione bez skorygowania, mogą stwarzać zagrożenie dla bezpieczeństwa statku powietrznego.
 1) Zdarzenia bliskie kolizji (obejmujące sytuacje szczególne, gdy jeden statek powietrzny oraz inny statek powietrzny lub ziemia, pojazd, osoba albo obiekt są odbierane jako znajdujące się zbyt blisko siebie):
 a) naruszenie minimalnej separacji,
 b) niewystarczająca separacja,
@@ -374,9 +381,9 @@ d) wtargnięcie na drogę startową, co spowodowało konieczność podjęcia dzi
 a) wtargnięcie na drogę startową, kiedy podejmowanie działania w celu uniknięcia skutków tego zdarzenia nie było konieczne,
 b) wypadnięcie z drogi startowej,
 c) odchylenie od zezwolenia wydanego przez kontrolę ruchu lotniczego (ATC),
-d) naruszenie przepisów zarządzania ruchem lotniczym (ATM) przez załogę statku powietrznego: naruszenie przez załogę statku powietrznego odpowiednich, opublikowanych procedur ATM, bezprawne wejście w przestrzeń powietrzną, odstąpienie od procedur wymaganych przez ATM w zakresie wyposażenia statku powietrznego i postępowania załogi.
+d) naruszenie przepisów zarządzania ruchem lotniczym (ATM) przez załogę statku powietrznego: – naruszenie przez załogę statku powietrznego odpowiednich, opublikowanych procedur ATM, – bezprawne wejście w przestrzeń powietrzną, – odstąpienie od procedur wymaganych przez ATM w zakresie wyposażenia statku powietrznego i postępowania załogi.
 3) Zdarzenia specyficzne dla ATM (obejmujące sytuacje mające wpływ na zapewnienie przez służby ATM właściwego poziomu bezpieczeństwa statku powietrznego, włączając sytuacje, w wyniku których brak zagrożenia bezpieczeństwa operacji statku powietrznego wynikało tylko z przypadku). Obejmują one następujące zagadnienia:
-a) niemożność zapewnienia służb ATM: niemożność zapewnienia służb ruchu lotniczego (ATS), niemożność zapewnienia służb zarządzania przestrzenią powietrzną (ASM), niemożność zapewnienia służb zarządzania przepływem ruchu lotniczego,
+a) niemożność zapewnienia służb ATM: – niemożność zapewnienia służb ruchu lotniczego (ATS), – niemożność zapewnienia służb zarządzania przestrzenią powietrzną (ASM), – niemożność zapewnienia służb zarządzania przepływem ruchu lotniczego,
 b) uszkodzenie funkcji komunikacyjnych,
 c) uszkodzenie funkcji nadzoru,
 d) uszkodzenie funkcji przetwarzania i dystrybucji danych,
@@ -423,19 +430,19 @@ WYKAZ PRZYKŁADOWYCH POWAŻNYCH INCYDENTÓW LOTNICZYCH Niżej opisane incydenty 
 14) Odmowa pracy systemów, wejście w strefę niebezpiecznych zjawisk meteorologicznych, przekroczenia ustalonych ograniczeń lub inne sytuacje, które mogą spowodować utrudnienia w pilotowaniu statku powietrznego.
 15) Odmowa pracy więcej niż jednego systemu w układach rezerwowych, które są niezbędne do kierowania statkiem powietrznym.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych § 2. 1. Zgłoszenie zdarzenia lotniczego może być dokonane przy użyciu każdego dostępnego środka łączności nie później niż 72 godziny od jego zaistnienia.
+#### Rozdział 2 Sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych
 
-#### Rozdział 3 Szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych § 4. 1. Po otrzymaniu zgłoszenia o zaistnieniu zdarzenia lotniczego podlegającego badaniu Komisji, Przewodniczący Komisji wyznacza spośród członków Komisji kierującego zespołem badawczym oraz, w porozumieniu z nim, skład tego zespołu.
+#### Rozdział 3 Szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych
 
-#### Rozdział 4 Warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych § 24. Komisja o przystąpieniu do badania zdarzenia lotniczego, w którym brał udział polski statek powietrzny, powiadamia:
+#### Rozdział 4 Warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych
 
-#### Rozdział 5 Warunki i tryb udostępniania oraz publikowania raportów końcowych i zaleceń Komisji § 29. 1. Kopię raportu końcowego i uchwały w sprawie badania zdarzenia lotniczego przeprowadzonego przez Komisję przekazuje się:
+#### Rozdział 5 Warunki i tryb udostępniania oraz publikowania raportów końcowych i zaleceń Komisji
 
-#### Rozdział 6 Warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz forma i sposób udostępniania tych informacji § 32. 1. System dobrowolnego zgłaszania o zdarzeniach lotniczych prowadzi, przy zachowaniu zasady poufności, Prezes Urzędu, w postaci komputerowej bazy danych umożliwiającej gromadzenie i analizowanie danych o zdarzeniach.
+#### Rozdział 6 Warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz forma i sposób udostępniania tych informacji
 
-#### Rozdział 7 Wykazy zdarzeń lotniczych § 34. Wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu określa załącznik nr 1 do rozporządzenia.
+#### Rozdział 7 Wykazy zdarzeń lotniczych
 
-#### Rozdział 8 Przepis końcowy § 36. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
+#### Rozdział 8 Przepis końcowy
 

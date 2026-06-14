@@ -8,10 +8,10 @@ pos: 423
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Dz. 423 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 24 marca sprawie ogłoszenia jednolitego tekstu organizacjach pracodawców
+# w sprawie ogłoszenia jednolitego tekstu ustawy o organizacjach pracodawców
 
 | Pole | Wartość |
 |---|---|
@@ -25,155 +25,180 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/423/text.pdf) |
 
-1. Na podstawie art. 16 ust. zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst dnia 23 maja 1991 organizacjach pracodawców 97), uwzględnieniem zmiany wprowadzonej ustawą dnia 20 grudnia 2024 Radzie Fiskalnej 39) zmian wynikających przepisów ogłoszonych przed dniem 12 marca
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje art. 55 dnia 20 grudnia 2024 Radzie Fiskalnej 39), który stanowi: „Art. 55. Ustawa wchodzi życie dniem 15 lutego r., wyjątkiem:
-1) art. 32–34, art. 35 pkt 1–4, pkt 10, pkt 12 lit. a, pkt 13 pkt 14 lit. a, art. 36 pkt 1–6, art. 37–39 art. 53, które wchodzą życie dniem następującym po dniu ogłoszenia;
-2) art. 4–7, art. 13–21, art. 27–30, art. 35 pkt 5–9, pkt 12 lit. b pkt 14 lit. b, art. 36 pkt 7 art. 51, które wchodzą życie dniem stycznia 2026 r.”.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2022 r. poz. 97), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 marca 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 55 ustawy z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39), który stanowi: „Art. 55. Ustawa wchodzi w życie z dniem 15 lutego 2025 r., z wyjątkiem:
+1) art. 32–34, art. 35 pkt 1–4, pkt 10, pkt 12 lit. a, pkt 13 i pkt 14 lit. a, art. 36 pkt 1–6, art. 37–39 oraz art. 53, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 4–7, art. 13–21, art. 27–30, art. 35 pkt 5–9, pkt 12 lit. b i pkt 14 lit. b, art. 36 pkt 7 oraz art. 51, które wchodzą w życie z dniem 1 stycznia 2026 r.”.
 Marszałek Sejmu: S. Hołownia
-USTAWA dnia 23 maja 1991 organizacjach pracodawców
+USTAWA z dnia 23 maja 1991 r.
+o organizacjach pracodawców
 
-#### Rozdział Przepisy ogólne
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Pracodawcy mają prawo tworzyć, bez uzyskania uprzedniego zezwolenia, związki według swego uznania, jak też przystępować do tych organizacji, zastrzeżeniem stosowania do ich statutów.
+1. Pracodawcy mają prawo tworzyć, bez uzyskania uprzedniego zezwolenia, związki według swego uznania, jak też przystępować do tych organizacji, z zastrzeżeniem stosowania się do ich statutów.
 
-2. Pracodawcą rozumieniu jest podmiot, którym mowa art. pkt dnia 23 maja 1991 związkach zawodowych 854 39).
+2. Pracodawcą w rozumieniu ustawy jest podmiot, o którym mowa w art. 1 pkt 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2022 r. poz. 854 oraz z 2025 r. poz. 39).
 
 3. (uchylony)
 
-**Art. 2.** Związki pracodawców mają prawo tworzenia federacji konfederacji, jak też przystępowania do nich, a każdy związek, federacja konfederacja ma prawo do przystępowania do międzynarodowych organizacji pracodawców. Art. . 1. Składki członkowskie wnoszone do międzynarodowych organizacji pracodawców, reprezentujących interesy pracodawców wobec instytucji Unii Europejskiej, przez organizacje pracodawców, reprezentatywne rozumieniu dnia 24 lipca 2015 Radzie Dialogu Społecznego innych instytucjach dialogu społecznego 2018 2232, późn. zm. ), zwanej dalej „ustawą Radzie Dialogu Społecznego”, wchodzące skład Rady Dialogu Społecznego, mogą być dofinansowane budżetu państwa formie dotacji celowej. 2. Dotacji celowej, której mowa ust. 1, udziela – na wniosek organizacji pracodawców – minister właściwy do spraw pracy, na podstawie umowy zawartej tą organizacją. 3. O dofinansowanie składek, których mowa ust. 1, może ubiegać organizacja pracodawców, której mowa ust. 1, która na dzień złożenia wniosku jest członkiem międzynarodowej organizacji pracodawców od co najmniej 12 miesięcy. 4. Kwota dotacji celowej na dofinansowanie składek budżetu państwa danym roku, dla każdej organizacji pracodawców, której mowa ust. 1, nie może być wyższa niż 300 000 zł stanowić więcej niż 95 % wysokości tych składek. 5. Minister właściwy do spraw pracy określi, drodze rozporządzenia, szczegółowy tryb składania wniosków, których mowa ust. 2, wzór wniosku udzielenie dotacji niezbędne dokumenty, mając na względzie zapewnienie prawidłowości, przejrzystości efektywności wydatkowania środków publicznych. Art. . Koszty związane uczestnictwem organizacji pracodawców zrzeszających pracodawców rolnych Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) są latach 2021–2026 dofinansowywane na zasadach określonych przepisach izbach rolniczych.
+**Art. 2.** Związki pracodawców mają prawo tworzenia federacji i konfederacji, jak też przystępowania do nich, a każdy związek, federacja i konfederacja ma prawo do przystępowania do międzynarodowych organizacji pracodawców.
 
-**Art. 3.** Związki pracodawców, ich federacje konfederacje są samorządne niezależne swej działalności statutowej od organów administracji rządowej, samorządu terytorialnego innych organizacji.
+**Art. 2¹.**
 
-**Art. 4.** Związki pracodawców, ich federacje konfederacje nie mogą podejmować działań zmierzających do ograniczenia praw pracowników do zrzeszania związki zawodowe działań mających na celu sprawowanie kontroli nad związkami pracowników.
+1. Składki członkowskie wnoszone do międzynarodowych organizacji pracodawców, reprezentujących interesy pracodawców wobec instytucji Unii Europejskiej, przez organizacje pracodawców, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), zwanej dalej „ustawą o Radzie Dialogu Społecznego”, wchodzące w skład Rady Dialogu Społecznego, mogą być dofinansowane z budżetu państwa w formie dotacji celowej.
 
-**Art. 5.** Podstawowym zadaniem związków pracodawców, ich federacji konfederacji jest ochrona praw reprezentowanie interesów, tym gospodarczych, zrzeszonych członków wobec związków zawodowych, organów władzy administracji rządowej organów samorządu terytorialnego.
+2. Dotacji celowej, o której mowa w ust. 1, udziela – na wniosek organizacji pracodawców – minister właściwy do spraw pracy, na podstawie umowy zawartej z tą organizacją.
+
+3. O dofinansowanie składek, o których mowa w ust. 1, może ubiegać się organizacja pracodawców, o której mowa w ust. 1, która na dzień złożenia wniosku jest członkiem międzynarodowej organizacji pracodawców od co najmniej 12 miesięcy.
+
+4. Kwota dotacji celowej na dofinansowanie składek z budżetu państwa w danym roku, dla każdej organizacji pracodawców, o której mowa w ust. 1, nie może być wyższa niż 300 000 zł i stanowić więcej niż 95 % wysokości tych składek.
+
+5. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowy tryb składania wniosków, o których mowa w ust. 2, wzór wniosku o udzielenie dotacji oraz niezbędne dokumenty, mając na względzie zapewnienie prawidłowości, przejrzystości i efektywności wydatkowania środków publicznych.
+
+**Art. 2².** Koszty związane z uczestnictwem organizacji pracodawców zrzeszających pracodawców rolnych w Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) są w latach 2021–2026 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych.
+
+**Art. 3.** Związki pracodawców, ich federacje i konfederacje są samorządne i niezależne w swej działalności statutowej od organów administracji rządowej, samorządu terytorialnego oraz innych organizacji.
+
+**Art. 4.** Związki pracodawców, ich federacje i konfederacje nie mogą podejmować działań zmierzających do ograniczenia praw pracowników do zrzeszania się w związki zawodowe oraz działań mających na celu sprawowanie kontroli nad związkami pracowników.
+
+**Art. 5.** Podstawowym zadaniem związków pracodawców, ich federacji i konfederacji jest ochrona praw i reprezentowanie interesów, w tym gospodarczych, zrzeszonych członków wobec związków zawodowych, organów władzy i administracji rządowej oraz organów samorządu terytorialnego.
 
 **Art. 6.**
 
-1. Majątek związków pracodawców, ich federacji konfederacji powstaje ze składek członkowskich, darowizn, spadków, zapisów, własnej działalności dochodów majątków organizacji.
+1. Majątek związków pracodawców, ich federacji i konfederacji powstaje ze składek członkowskich, darowizn, spadków, zapisów, z własnej działalności i dochodów z majątków organizacji.
 
-2. Składka na rzecz związków pracodawców, których mowa ust. 1, zaliczana jest koszty uzyskania przychodu do wysokości określonej rozporządzeniem Rady Ministrów.
+2. Składka na rzecz związków pracodawców, o których mowa w ust. 1, zaliczana jest w koszty uzyskania przychodu do wysokości określonej rozporządzeniem Rady Ministrów.
+
+#### Rozdział 2 Tworzenie związków pracodawców
 
 **Art. 7.**
 
-1. Związek pracodawców powstaje mocy uchwały jego założeniu, podjętej na zgromadzeniu założycielskim przez co najmniej 10 pracodawców.
+1. Związek pracodawców powstaje z mocy uchwały o jego założeniu, podjętej na zgromadzeniu założycielskim przez co najmniej 10 pracodawców.
 
-2. Decyzje dotyczące członkostwa pracodawcy będącego osobą prawną organizacji pracodawców podejmuje organ upoważniony do składania oświadczeń woli jej imieniu.
+2. Decyzje dotyczące członkostwa pracodawcy będącego osobą prawną w organizacji pracodawców podejmuje organ upoważniony do składania oświadczeń woli w jej imieniu.
 
-3. Zgromadzenie założycielskie, które podjęło uchwałę założeniu związku pracodawców, uchwala statut wybiera komitet założycielski liczbie co najmniej 3 osób.
+3. Zgromadzenie założycielskie, które podjęło uchwałę o założeniu związku pracodawców, uchwala statut i wybiera komitet założycielski w liczbie co najmniej 3 osób.
 
 **Art. 8.**
 
-1. Statut związku pracodawców powinien zawierać szczególności:
+1. Statut związku pracodawców powinien zawierać w szczególności:
 
-- **1)** nazwę związku, siedzibę terytorialny zakres działania;
-- **2)** organy związku, zakres ich uprawnień, tryb ich wyboru odwołania okres kadencji;
-- **3)** podstawowe cele zadania związku sposoby formy ich realizacji;
-- **4)** sposób nabywania utraty członkostwa;
-- **5)** prawa obowiązki członków;
-- **6)** sposób reprezentowania związku osoby upoważnione do zaciągania zobowiązań majątkowych imieniu związku;
-- **7)** zasady dokonywania zmian statutu, rozwiązywania związku przeznaczenie jego majątku razie likwidacji;
-- **8)** sposób uzyskiwania środków finansowych ustanawiania składek członkowskich.
+- **1)** nazwę związku, siedzibę oraz terytorialny zakres działania;
+- **2)** organy związku, zakres ich uprawnień, tryb ich wyboru i odwołania oraz okres kadencji;
+- **3)** podstawowe cele i zadania związku oraz sposoby i formy ich realizacji;
+- **4)** sposób nabywania i utraty członkostwa;
+- **5)** prawa i obowiązki członków;
+- **6)** sposób reprezentowania związku oraz osoby upoważnione do zaciągania zobowiązań majątkowych w imieniu związku;
+- **7)** zasady dokonywania zmian statutu, rozwiązywania związku i przeznaczenie jego majątku w razie likwidacji;
+- **8)** sposób uzyskiwania środków finansowych oraz ustanawiania składek członkowskich.
 
-2. Związki, które zamierzają tworzyć terenowe jednostki organizacyjne, określają statucie strukturę organizacyjną zasady tworzenia tych jednostek.
+2. Związki, które zamierzają tworzyć terenowe jednostki organizacyjne, określają w statucie strukturę organizacyjną i zasady tworzenia tych jednostek.
 
 **Art. 9.**
 
-1. Związek pracodawców podlega obowiązkowi rejestracji Krajowym Rejestrze Sądowym.
+1. Związek pracodawców podlega obowiązkowi rejestracji w Krajowym Rejestrze Sądowym.
 
-2. Jeżeli komitet założycielski nie złoży terminie 30 dni od dnia założenia związku wniosku rejestrację, uchwała utworzeniu związku traci moc.
+2. Jeżeli komitet założycielski nie złoży w terminie 30 dni od dnia założenia związku wniosku o rejestrację, uchwała o utworzeniu związku traci moc.
 
-**Art. 10.** Związek pracodawców nabywa osobowość prawną dniem zarejestrowania.
+**Art. 10.** Związek pracodawców nabywa osobowość prawną z dniem zarejestrowania.
 
 **Art. 11.**
 
-1. Związek pracodawców zawiadamia niezwłocznie sąd zmianie statutu. Zmiana wchodzi życie upływem 14 dni od dnia zawiadomienia, jeżeli sąd nie zgłosił zastrzeżeń co do jej zgodności prawem.
+1. Związek pracodawców zawiadamia niezwłocznie sąd o zmianie statutu. Zmiana wchodzi w życie z upływem 14 dni od dnia zawiadomienia, jeżeli sąd nie zgłosił zastrzeżeń co do jej zgodności z prawem.
 
-2. W razie zgłoszenia zastrzeżeń, których mowa ust. 1, sąd zawiadamia nich związek pracodawców wyznacza rozprawę dla ich rozpatrzenia terminie 30 dni od dnia zawiadomienia przez związek zmianie statutu.
+2. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 1, sąd zawiadamia o nich związek pracodawców i wyznacza rozprawę dla ich rozpatrzenia w terminie 30 dni od dnia zawiadomienia przez związek o zmianie statutu.
 
 3. (uchylony)
 
 **Art. 12.**
 
-1. Sąd skreśla związek pracodawców Krajowego Rejestru Sądowego, gdy:
+1. Sąd skreśla związek pracodawców z Krajowego Rejestru Sądowego, gdy:
 
-- **1)** wskazany statucie organ podjął uchwałę rozwiązaniu związku;
-- **2)** liczba członków związku utrzymuje poniżej 10 pracodawców przez okres dłuższy niż 3 miesiące.
+- **1)** wskazany w statucie organ podjął uchwałę o rozwiązaniu związku;
+- **2)** liczba członków związku utrzymuje się poniżej 10 pracodawców przez okres dłuższy niż 3 miesiące.
 
-2. Okoliczności wskazane ust. sąd stwierdza urzędu lub na wniosek związku pracodawców.
+2. Okoliczności wskazane w ust. 1 sąd stwierdza z urzędu lub na wniosek związku pracodawców.
 
 3. (uchylony)
 
 **Art. 13.**
 
-1. Sprawy dotyczące rejestracji związku pracodawców są rozpatrywane trybie przepisów Kodeksu postępowania cywilnego postępowaniu nieprocesowym.
+1. Sprawy dotyczące rejestracji związku pracodawców są rozpatrywane w trybie przepisów Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
 
-2. Sprawy, których mowa ust. 1, sąd rozpatruje terminie 14 dni od dnia złożenia wniosku.
+2. Sprawy, o których mowa w ust. 1, sąd rozpatruje w terminie 14 dni od dnia złożenia wniosku.
 
 3. (uchylony)
 
-**Art. 14.** Przepisy art. 7–13 stosuje odpowiednio do federacji konfederacji wymienionych art. 2, tym że:
+**Art. 14.** Przepisy art. 7–13 stosuje się odpowiednio do federacji i konfederacji wymienionych w art. 2, z tym że:
 
-**Art. 15.** Związki pracodawców, ich federacje konfederacje mają prawo uchwalania swych statutów regulaminów wewnętrznych, swobodnego wybierania swych przedstawicieli, powoływania zarządów układania programów działania.
+- **1)** liczba założycieli tych organizacji nie może być mniejsza niż trzy;
+- **2)** (uchylony)
+- **3)** sąd skreśla organizacje z Krajowego Rejestru Sądowego, gdy liczba członków utrzymuje się poniżej trzech przez okres dłuższy niż trzy miesiące.
 
-**Art. 16.**
+#### Rozdział 3 Uprawnienia organizacji pracodawców
 
-1. Organizacja pracodawców, reprezentatywna rozumieniu Radzie Dialogu Społecznego, ma prawo opiniowania założeń projektów aktów prawnych zakresie praw interesów związków pracodawców. Nie dotyczy to projektu budżetowej, której opiniowanie regulują odrębne przepisy.
-
-2. Organy władzy administracji rządowej organy samorządu terytorialnego są obowiązane zapewnić organizacjom pracodawców wykonywanie uprawnień, których mowa ust. 1, na równych prawach ze związkami zawodowymi.
-
-**Art. 16.**
-
-1. Organizacja pracodawców, reprezentatywna rozumieniu Radzie Dialogu Społecznego, ma prawo opiniowania dokumentów konsultacyjnych Unii Europejskiej, szczególności białych ksiąg, zielonych ksiąg komunikatów, projektów aktów prawnych Unii Europejskiej zakresie objętym zadaniami związków pracodawców.
-
-2. Organy władzy administracji państwowej kierują dokumenty konsultacyjne Unii Europejskiej projekty aktów prawnych Unii Europejskiej, których mowa ust. 1, do odpowiednich władz statutowych związku, określając termin przedstawienia opinii.
-
-3. Dokumenty konsultacyjne Unii Europejskiej projekty aktów prawnych, których mowa ust. 1, organy władzy administracji państwowej przekazują na odpowiedni adres elektroniczny, wskazany przez właściwy organ statutowy związku.
+**Art. 15.** Związki pracodawców, ich federacje i konfederacje mają prawo uchwalania swych statutów i regulaminów wewnętrznych, swobodnego wybierania swych przedstawicieli, powoływania zarządów oraz układania programów działania.
 
 **Art. 16.**
 
-1. Organizacja pracodawców, reprezentatywna rozumieniu Radzie Dialogu Społecznego, ma prawo występowania wnioskami wydanie lub zmianę albo innego aktu prawnego zakresie spraw objętych zadaniami organizacji pracodawców.
+1. Organizacja pracodawców, reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego, ma prawo opiniowania założeń i projektów aktów prawnych w zakresie praw i interesów związków pracodawców. Nie dotyczy to projektu ustawy budżetowej, której opiniowanie regulują odrębne przepisy.
+
+2. Organy władzy i administracji rządowej oraz organy samorządu terytorialnego są obowiązane zapewnić organizacjom pracodawców wykonywanie uprawnień, o których mowa w ust. 1, na równych prawach ze związkami zawodowymi.
+
+**Art. 16¹.**
+
+1. Organizacja pracodawców, reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego, ma prawo opiniowania dokumentów konsultacyjnych Unii Europejskiej, w szczególności białych ksiąg, zielonych ksiąg i komunikatów, oraz projektów aktów prawnych Unii Europejskiej w zakresie objętym zadaniami związków pracodawców.
+
+2. Organy władzy i administracji państwowej kierują dokumenty konsultacyjne Unii Europejskiej oraz projekty aktów prawnych Unii Europejskiej, o których mowa w ust. 1, do odpowiednich władz statutowych związku, określając termin przedstawienia opinii.
+
+3. Dokumenty konsultacyjne Unii Europejskiej oraz projekty aktów prawnych, o których mowa w ust. 1, organy władzy i administracji państwowej przekazują na odpowiedni adres elektroniczny, wskazany przez właściwy organ statutowy związku.
+
+**Art. 16².**
+
+1. Organizacja pracodawców, reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego, ma prawo występowania z wnioskami o wydanie lub zmianę ustawy albo innego aktu prawnego w zakresie spraw objętych zadaniami organizacji pracodawców.
 
 2. Wnioski dotyczące ustaw organizacja kieruje do posłów lub organów mających prawo inicjatywy ustawodawczej, a wnioski dotyczące innych aktów prawnych – do organów uprawnionych do ich wydania.
 
-3. Organ państwowy, do którego został skierowany wniosek, jest obowiązany, terminie 30 dni, przedstawić organizacji pracodawców swoje stanowisko, a razie negatywnego stanowiska – także jego uzasadnienie.
+3. Organ państwowy, do którego został skierowany wniosek, jest obowiązany, w terminie 30 dni, przedstawić organizacji pracodawców swoje stanowisko, a w razie negatywnego stanowiska – także jego uzasadnienie.
 
-**Art. 17.** Związki pracodawców uczestniczą, na zasadach określonych odrębnych przepisach, prowadzeniu rokowań zbiorowych, zawieraniu układów zbiorowych pracy innych porozumień zakresie objętym ich zadaniami statutowymi.
+**Art. 17.** Związki pracodawców uczestniczą, na zasadach określonych w odrębnych przepisach, w prowadzeniu rokowań zbiorowych, w zawieraniu układów zbiorowych pracy oraz innych porozumień w zakresie objętym ich zadaniami statutowymi.
 
 **Art. 18.**
 
-1. Dochód działalności gospodarczej prowadzonej przez związki pracodawców federacje konfederacje służy realizacji ich zadań statutowych nie może być przeznaczony do podziału między ich członków.
+1. Dochód z działalności gospodarczej prowadzonej przez związki pracodawców oraz federacje i konfederacje służy realizacji ich zadań statutowych i nie może być przeznaczony do podziału między ich członków.
 
-2. Związki pracodawców, ich federacje konfederacje korzystają ze zwolnień podatkowych przewidzianych dla stowarzyszeń.
+2. Związki pracodawców, ich federacje i konfederacje korzystają ze zwolnień podatkowych przewidzianych dla stowarzyszeń.
 
 #### Rozdział 4 Odpowiedzialność za naruszenie przepisów prawa
 
 **Art. 19.**
 
-1. Sąd rejestrowy razie stwierdzenia, że dany organ związku pracodawców prowadzi działalność niezgodną prawem, wyznacza termin co najmniej 14 dni na dostosowanie działalności tego organu do obowiązującego prawa. Postępowanie wszczyna na wniosek właściwego prokuratora okręgowego.
+1. Sąd rejestrowy w razie stwierdzenia, że dany organ związku pracodawców prowadzi działalność niezgodną z prawem, wyznacza termin co najmniej 14 dni na dostosowanie działalności tego organu do obowiązującego prawa. Postępowanie wszczyna się na wniosek właściwego prokuratora okręgowego.
 
-2. W razie bezskutecznego upływu terminu przewidzianego ust. 1, sąd rejestrowy może:
+2. W razie bezskutecznego upływu terminu przewidzianego w ust. 1, sąd rejestrowy może:
 
-- **1)** orzec grzywnę wobec poszczególnych członków danego organu związku wysokości określonej art. 163 § dnia 17 listopada 1964 – Kodeks postępowania cywilnego 2024 1568 1841);
-- **2)** wyznaczyć władzom związku termin przeprowadzenia nowych wyborów do organu związku wymienionego ust. 1, pod rygorem zawieszenia działalności tego organu.
+- **1)** orzec grzywnę wobec poszczególnych członków danego organu związku w wysokości określonej w art. 163 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841);
+- **2)** wyznaczyć władzom związku termin przeprowadzenia nowych wyborów do organu związku wymienionego w ust. 1, pod rygorem zawieszenia działalności tego organu.
 
-3. Jeżeli środki określone ust. okażą bezskuteczne, sąd rejestrowy, na wniosek Ministra Sprawiedliwości, orzeka skreśleniu związku pracodawców Krajowego Rejestru Sądowego. Od tego orzeczenia przysługuje apelacja.
+3. Jeżeli środki określone w ust. 2 okażą się bezskuteczne, sąd rejestrowy, na wniosek Ministra Sprawiedliwości, orzeka o skreśleniu związku pracodawców z Krajowego Rejestru Sądowego. Od tego orzeczenia przysługuje apelacja.
 
-4. Do spraw, których mowa ust. 1–3, stosuje odpowiednio art. 13.
+4. Do spraw, o których mowa w ust. 1–3, stosuje się odpowiednio art. 13.
 
-6. Przepisy ust. 1–5 stosuje odpowiednio do federacji konfederacji wymienionych art. 2.
+5. Związek skreślony prawomocnym orzeczeniem z Krajowego Rejestru Sądowego jest obowiązany niezwłocznie zaprzestać swej działalności, a w terminie najpóźniej trzech miesięcy od uprawomocnienia się tego orzeczenia dokonać swojej likwidacji w sposób przewidziany w statucie.
 
-**Art. 19.** Kto związku pełnioną funkcją przeznacza dochód działalności gospodarczej prowadzonej przez związek pracodawców, federację lub konfederację na cele niesłużące realizacji ich zadań statutowych lub dzieli go pomiędzy członków związku, federacji lub konfederacji, podlega grzywnie.
+6. Przepisy ust. 1–5 stosuje się odpowiednio do federacji i konfederacji wymienionych w art. 2.
 
-#### Rozdział 5 Przepisy przejściowe końcowe
+**Art. 19¹.** Kto w związku z pełnioną funkcją przeznacza dochód z działalności gospodarczej prowadzonej przez związek pracodawców, federację lub konfederację na cele niesłużące realizacji ich zadań statutowych lub dzieli go pomiędzy członków związku, federacji lub konfederacji, podlega grzywnie.
+
+#### Rozdział 5 Przepisy przejściowe i końcowe
 
 **Art. 20.**
 
-1. Organizacje zrzeszające pracodawców na podstawie dotychczasowych przepisów mogą stać się, po dostosowaniu swych statutów do przepisów po spełnieniu wymagań przewidzianych ustawie, organizacjami pracodawców rozumieniu art. ust. lub art. 2.
+1. Organizacje zrzeszające pracodawców na podstawie dotychczasowych przepisów mogą stać się, po dostosowaniu swych statutów do przepisów ustawy i po spełnieniu wymagań przewidzianych w ustawie, organizacjami pracodawców w rozumieniu art. 1 ust. 2 lub art. 2.
 
-2. Do czasu powstania na podstawie przepisów ogólnokrajowej reprezentacji pracodawców, nie dłużej jednak niż do dnia 30 września 1991 r., prawa interesy pracodawców polskich stosunkach międzynarodowych reprezentuje Konfederacja Pracodawców Polskich.
+2. Do czasu powstania na podstawie przepisów ustawy ogólnokrajowej reprezentacji pracodawców, nie dłużej jednak niż do dnia 30 września 1991 r., prawa i interesy pracodawców polskich w stosunkach międzynarodowych reprezentuje Konfederacja Pracodawców Polskich.
 
-**Art. 21.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
+**Art. 21.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 

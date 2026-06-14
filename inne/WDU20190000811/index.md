@@ -8,10 +8,10 @@ pos: 811
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 kwietnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 811 Załącznik do rozporządzenia Ministra Środowiska z dnia 25 kwietnia 2019 r. (poz. …) WZÓR DOKUMENT POTWIERDZAJĄCY POBRANIE OPŁATY DEPOZYTOWEJ I DOKUMENT POTWIERDZAJĄCY ZWROT OPŁATY DEPOZYTOWEJ DOKUMENT POTWIERDZAJĄCY POBRANIE OPŁATY DEPOZYTOWEJ I DOKUMENT POTWIERDZAJĄCY ZWROT OPŁATY DEPOZYTOWEJ I. DANE SPRZEDAWCY DETALICZNEGO BATERII SAMOCHODOWYCH KWASOWO-OŁOWIOWYCH I AKUMULATORÓW SAMOCHODOWYCH KWASOWO-OŁOWIOWYCH Firma przedsiębiorcy Oznaczenie miejsca prowadzenia działalności i adres Województwo Miejscowość Kod pocztowy Ulica Nr domu Nr lokalu NIP II. INFORMACJE O RODZAJU I LICZBIE SPRZEDANYCH BATERII SAMOCHODOWYCH KWASOWO-OŁOWIOWYCH I AKUMULATORÓW SAMOCHODOWYCH KWASOWO-OŁOWIOWYCH ORAZ O OPŁACIE DEPOZYTOWEJ Liczba Liczba zwróconych Wysokość Wysokość Data sprzedanych Stawka opłaty Data zużytych zwróconej pobranej zwrotu baterii depozytowej pobrania baterii opłaty opłaty opłaty i opłaty i zużytych depozytowej akumulatorów [zł] depozytowej depozytowej akumulatorów depozyto[zł] [zł] wej [szt.] [szt.] IMIĘ, NAZWISKO I PODPIS OSOBY IMIĘ, NAZWISKO I PODPIS KUPUJĄCEGO, POBIERAJĄCEJ OPŁATĘ DEPOZYTOWĄ OD KTÓREGO POBIERANA JEST OPŁATA DEPOZYTOWA IMIĘ, NAZWISKO I PODPIS OSOBY IMIĘ, NAZWISKO I PODPIS KUPUJĄCEGO, ZWRACAJĄCEJ OPŁATĘ DEPOZYTOWĄ KTÓREMU ZWRACANA JEST OPŁATA DEPOZYTOWA
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2019-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000811) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/811/text.pdf) |
-
-Poz. 811 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 25 kwietnia 2019 r.
-w sprawie wzoru dokumentu potwierdzającego pobranie opłaty depozytowej i dokumentu potwierdzającego zwrot opłaty depozytowej Na podstawie art. 54 ust. 6 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2019 r. poz. 521) zarządza się, co następuje: § 1. Rozporządzenie określa wzór:
-1) dokumentu potwierdzającego pobranie opłaty depozytowej;
-2) dokumentu potwierdzającego zwrot opłaty depozytowej.
-§ 2. Wspólny wzór dokumentów, o których mowa w § 1, jest określony w załączniku do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
-Minister Środowiska: H. Kowalczyk Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 5 maja 2010 r. w sprawie wzoru dokumentu potwierdzającego pobranie opłaty depozytowej i dokumentu potwierdzającego zwrot opłaty depozytowej (Dz. U. poz. 878), które utraciło moc zgodnie z art. 228 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne
 

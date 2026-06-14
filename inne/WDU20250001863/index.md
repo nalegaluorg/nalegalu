@@ -8,7 +8,7 @@ pos: 1863
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz niektórych innych ustaw
@@ -28,6 +28,47 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001863) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1863/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673 oraz z 2024 r. poz. 834 i 1940) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 do tytułu ustawy:
+    - **a)** w akapicie drugim w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) decyzji wykonawczej Komisji (UE) 2022/1979 z dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE (Dz. Urz. UE L 272 z 20.10.2022, str. 14).”,
+    - **b)** akapit trzeci otrzymuje brzmienie: „Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu:
+
+- **1)** rozporządzenia Komisji (WE) nr 2216/2004 z dnia 21 grudnia 2004 r. w sprawie standaryzowanego i zabezpieczonego systemu rejestrów stosownie do dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz decyzji nr 280/2004/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 386 z 29.12.2004, str. 1) zmienionego rozporządzeniem Komisji (WE) nr 916/2007 z dnia 31 lipca 2007 r. zmieniającym rozporządzenie Komisji (WE) nr 2216/2004 w sprawie ujednoliconego i zabezpieczonego systemu rejestrów stosownie do dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz decyzji nr 280/2004/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 200 z 01.08.2007, str. 5) oraz rozporządzeniem Komisji (WE) nr 994/2008 z dnia 8 października 2008 r. w sprawie znormalizowanego i zabezpieczonego systemu rejestrów zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady oraz decyzją nr 280/2004/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 271 z 11.10.2008, str. 3);
+- **2)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 166/2006 z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE (Dz. Urz. UE L 33 z 04.02.2006, str. 1, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 170 z 25.06.2019, str. 115 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241);
+- **3)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 z dnia 10 maja 2023 r. ustanawiającego mechanizm dostosowywania cen na granicach z uwzględnieniem emisji CO (Dz. Urz. UE L 130 z 16.05.2023, str. 52);
+- **4)** rozporządzenia wykonawczego Komisji (UE) 2023/1773 z dnia 17 sierpnia 2023 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do obowiązków sprawozdawczych do celów mechanizmu dostosowywania cen na granicach z uwzględnieniem emisji CO w okresie przejściowym (Dz. Urz. UE L 228 z 15.09.2023, str. 94, Dz. Urz. UE L 2023/90036 z 20.10.2023 oraz Dz. Urz. UE L 2024/2649 z 11.10.2024);
+- **5)** rozporządzenia wykonawczego Komisji (UE) 2024/3210 z dnia 18 grudnia 2024 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do rejestru CBAM (Dz. Urz. UE L 2024/3210 z 30.12.2024);
+- **6)** rozporządzenia wykonawczego Komisji (UE) 2025/486 z dnia 17 marca 2025 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do warunków i procedur dotyczących statusu upoważnionego zgłaszającego CBAM (Dz. Urz. UE L 2025/486 z 18.03.2025).”;
+- **2)** w art. 1 w ust. 1 w pkt 8 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) postępowanie i właściwość organów w sprawach wykonywania obowiązków wynikających z:
+    - **a)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 z dnia 10 maja 2023 r. ustanawiającego mechanizm dostosowywania cen na granicach z uwzględnieniem emisji CO (Dz. Urz. UE L 130 z 16.05.2023, str. 52), zwanego dalej „rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2023/956”,
+    - **b)** rozporządzenia wykonawczego Komisji (UE) 2023/1773 z dnia 17 sierpnia 2023 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do obowiązków sprawozdawczych do celów mechanizmu dostosowywania cen na granicach z uwzględnieniem emisji CO w okresie przejściowym (Dz. Urz. UE L 228 z 15.09.2023, str. 94, z późn. zm. ), zwanego dalej „rozporządzeniem wykonawczym Komisji (UE) 2023/1773”,
+    - **c)** rozporządzenia wykonawczego Komisji (UE) 2024/3210 z dnia 18 grudnia 2024 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do rejestru CBAM (Dz. Urz. UE L 2024/3210 z 30.12.2024), zwanego dalej „rozporządzeniem wykonawczym Komisji (UE) 2024/3210”,
+    - **d)** rozporządzenia wykonawczego Komisji (UE) 2025/486 z dnia 17 marca 2025 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do warunków i procedur dotyczących statusu upoważnionego zgłaszającego CBAM (Dz. Urz. UE L 2025/486 z 18.03.2025), zwanego dalej „rozporządzeniem wykonawczym Komisji (UE) 2025/486”.”;
+
+- **3)** w art. 2:
+    - **a)** po pkt 3 dodaje się pkt 3 w brzmieniu: „3 ) certyfikacie CBAM – rozumie się przez to certyfikat CBAM w rozumieniu art. 3 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;”,
+    - **b)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) emisjach wbudowanych – rozumie się przez to emisje wbudowane w rozumieniu art. 3 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;”,
+    - **c)** po pkt 17 dodaje się pkt 17a i 17b w brzmieniu: „17a) mechanizmie CBAM – rozumie się przez to mechanizm dostosowywania cen na granicach z uwzględnieniem emisji CO w rozumieniu art. 1 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;
+
+- **17b)** okresie przejściowym – rozumie się przez to okres przejściowy, o którym mowa w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;”, 24 ) rejestrze przejściowym CBAM – rozumie się przez to rejestr przejściowy CBAM, o którym mowa w art. 10 ust. 1 rozporządzenia wykonawczego Komisji (UE) 2023/1773; 24 ) sprawozdaniu CBAM – rozumie się przez to sprawozdanie kwartalne w rozumieniu art. 35 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;”,
+    - **d)** po pkt 24 dodaje się pkt 24 –24 w brzmieniu: „24 ) rejestrze CBAM – rozumie się przez to elektroniczną bazę danych, o której mowa w art. 14 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;
+    - **e)** po pkt 24a dodaje się pkt 24b w brzmieniu: „24b) upoważnionym zgłaszającym CBAM – rozumie się przez to upoważnionego zgłaszającego CBAM w rozumieniu art. 3 pkt 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;”,
+    - **f)** po pkt 27 dodaje się pkt 27a w brzmieniu: „27a) zgłaszającym – rozumie się przez to zgłaszającego objętego obowiązkiem sprawozdawczym w rozumieniu art. 2 pkt 1 rozporządzenia wykonawczego Komisji (UE) 2023/1773;”;
+
+- **4)** w art. 3 w ust. 2:
+    - **a)** w pkt 10 w lit. q na końcu przecinek zastępuje się średnikiem i uchyla się lit. r–t,
+    - **b)** po pkt 10 dodaje się pkt 10a i 10b w brzmieniu: „10a) monitorowanie działań w zakresie polityki klimatycznej, a także przygotowywanie analiz, przeglądów i ocen jej funkcjonowania;
+
+- **10b)** rozwijanie narzędzi wspomagających realizację celów systemu zarządzania emisjami oraz narzędzi do modelowania, analizy i prognozowania skutków gospodarczych, finansowych i społecznych realizacji celów polityki klimatyczno-energetycznej oraz możliwych kierunków transformacji niskoemisyjnej;”,
+    - **c)** w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) pełnienie funkcji właściwego organu państwa członkowskiego, o którym mowa w art. 11 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956, w zakresie określonym w ustawie.”;
+
+- **5)** dodaje się art. 11aa w brzmieniu: „Art. 11aa. 1. Główny Inspektor Ochrony Środowiska przekazuje Krajowemu ośrodkowi dane potrzebne do przygotowania i udostępnienia Europejskiej Agencji Środowiska, o której mowa w art. 1 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 401/2009 z dnia 23 kwietnia 2009 r. w sprawie Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji Środowiska (Dz. Urz. UE L 126 z 21.05.2009, str. 13, z późn. zm. ), informacji określonych w załączniku do decyzji wykonawczej Komisji (UE) 2022/1979 z dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE (Dz. Urz. UE L 272 z 20.10.2022, str. 14).
+
+2. Krajowy ośrodek, na podstawie danych zawartych w Krajowej bazie oraz danych przekazanych mu zgodnie z ust. 1, przygotowuje, w uzgodnieniu z Głównym Inspektorem Ochrony Środowiska, informacje określone w załączniku do decyzji wykonawczej Komisji (UE) 2022/1979 z dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE, oraz wprowadza je do elektronicznej bazy danych, o której mowa w art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE z dnia 4 lipca 2012 r. w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi, zmieniającej, a następnie uchylającej dyrektywę Rady 96/82/WE (Dz. Urz. UE L 197 z 24.07.2012, str. 1), udostępnionej przez Europejską Agencję Środowiska.”;
+
+- **6)** po art. 11c dodaje się art. 11d w brzmieniu: „Art. 11d. Organy Krajowej Administracji Skarbowej nieodpłatnie udostępniają Krajowemu ośrodkowi, Mazowieckiemu Wojewódzkiemu Inspektorowi Ochrony Środowiska oraz Głównemu Inspektorowi Ochrony Środowiska informacje i dane dotyczące przywozu z państw trzecich towarów objętych mechanizmem CBAM, w tym informacje i dane objęte tajemnicą celną, niezbędne do wykonywania zadań związanych ze stosowaniem rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956.”;
+- **7)** w art. 23 w ust. 1a zdanie drugie otrzymuje brzmienie: „Środki te przeznacza się na cele, o których mowa w art. 401c ust. 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.”;
+- **8)** po rozdziale 9 dodaje się rozdziały 9a i 9b w brzmieniu: „Rozdział 9a Rejestr przejściowy CBAM i rejestr CBAM oraz status upoważnionego zgłaszającego CBAM
 
 **Art. 54a.**
 
@@ -163,13 +204,57 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 297 dodaje się § 6 w brzmieniu: „§ 6. Naczelnicy urzędów celno-skarbowych udostępniają Krajowemu ośrodkowi bilansowania i zarządzania emisjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673, z 2024 r. poz. 834 i 1940 oraz z 2025 r. poz. 1863), Mazowieckiemu Wojewódzkiemu Inspektorowi Ochrony Środowiska oraz Głównemu Inspektorowi Ochrony Środowiska informacje i dane z akt, o których mowa w § 1, w zakresie niezbędnym do realizacji ich zadań ustawowych, o których mowa w rozdziale 9b tej ustawy.”;
+- **2)** w art. 299 w § 3 w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „21) Krajowemu ośrodkowi bilansowania i zarządzania emisjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, Mazowieckiemu Wojewódzkiemu Inspektorowi Ochrony Środowiska oraz Głównemu Inspektorowi Ochrony Środowiska w zakresie niezbędnym do realizacji ich zadań ustawowych, o których mowa w rozdziale 9b tej ustawy.”.
+
 **Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080 i 1812) wprowadza się następujące zmiany:
+
+- **1)** w art. 400b w ust. 1 wyrazy „5–9a” zastępuje się wyrazami „5–9b”;
+- **2)** w art. 401d uchyla się ust. 3.
 
 **Art. 5.** W ustawie z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065) w art. 70:
 
+- **1)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W latach 2025–2030 maksymalny limit wydatków dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 4 545 224 zł, w tym w:
+- **1)** 2025 r. – 742 000 zł;
+- **2)** 2026 r. – 800 936 zł;
+- **3)** 2027 r. – 867 509 zł;
+- **4)** 2028 r. – 896 880 zł;
+- **5)** 2029 r. – 927 810 zł;
+- **6)** 2030 r. – 310 089 zł.”;
+- **2)** w ust. 2 i 3 we wprowadzeniu do wyliczenia wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 i 1a”.
+
 **Art. 6.** W ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2025 r. poz. 1685) wprowadza się następujące zmiany:
 
+- **1)** w art. 49 ust. 2b otrzymuje brzmienie: „2b. Środki uzyskane ze sprzedaży w drodze aukcji uprawnień do emisji w wysokości:
+- **1)** 24 800 000 zł w roku 2025,
+- **2)** 34 000 000 zł w roku 2026,
+- **3)** 30 800 000 zł w roku 2027,
+- **4)** 29 300 000 zł w roku 2028,
+- **5)** 33 000 000 zł w roku 2029,
+- **6)** 33 800 000 zł w roku 2030,
+- **7)** 33 900 000 zł w roku 2031,
+- **8)** 33 900 000 zł w roku 2032,
+- **9)** 34 600 000 zł w roku 2033,
+- **10)** 35 400 000 zł w roku 2034 i każdym kolejnym roku – stanowią przychód Narodowego Funduszu.”;
+- **2)** w art. 150:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W latach 2025–2034 maksymalny limit wydatków Narodowego Funduszu będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 400 997 268 zł, w tym w:
+
+- **1)** 2025 r. – 32 025 439 zł;
+- **2)** 2026 r. – 37 058 311 zł;
+- **3)** 2027 r. – 38 021 517 zł;
+- **4)** 2028 r. – 38 972 055 zł;
+- **5)** 2029 r. – 39 907 710 zł;
+- **6)** 2030 r. – 40 905 403 zł;
+- **7)** 2031 r. – 41 928 038 zł;
+- **8)** 2032 r. – 42 976 239 zł;
+- **9)** 2033 r. – 44 050 645 zł;
+- **10)** 2034 r. – 45 151 911 zł.”,
+    - **b)** w ust. 2 i 3 we wprowadzeniu do wyliczenia wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 i 1a”.
+
 **Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423 i 1820) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1 po pkt 20a dodaje się pkt 20b w brzmieniu: „20b) wykonywanie zadań związanych z rejestrem przejściowym CBAM i rejestrem CBAM oraz statusem upoważnionego zgłaszającego CBAM, o których mowa w przepisach rozdziału 9a ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673, z 2024 r. poz. 834 i 1940 oraz z 2025 r. poz. 1863);”;
+- **2)** w art. 25 w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) pełnienie funkcji właściwego organu państwa członkowskiego, o którym mowa w art. 11 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 z dnia 10 maja 2023 r. ustanawiającego mechanizm dostosowywania cen na granicach z uwzględnieniem emisji CO (Dz. Urz. UE L 130 z 16.05.2023, str. 52), w zakresie przyznania, odmowy przyznania i cofnięcia statusu upoważnionego zgłaszającego CBAM na podstawie art. 54b ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji;”.
 
 **Art. 8.** Suma środków uzyskanych ze sprzedaży w drodze aukcji uprawnień do emisji, o których mowa w art. 49 ust. 2b pkt 1 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, przeznaczonych w 2025 r. na finansowanie zadań Krajowego ośrodka bilansowania i zarządzania emisjami, nie może być niższa od kwoty określonej w tym przepisie w brzmieniu nadanym niniejszą ustawą.
 

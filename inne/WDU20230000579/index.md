@@ -8,10 +8,10 @@ pos: 579
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 579 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 20 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000579) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/579/text.pdf) |
 
-Poz. 579 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 20 marca 2023 r.
 w sprawie upoważnienia Sieci Badawczej Łukasiewicz – Instytutu Przemysłu Organicznego oraz Sieci Badawczej Łukasiewicz – Warszawskiego Instytutu Technologicznego do uznawania kwalifikacji zawodowych Na podstawie art. 4a ust. 4 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r.
-poz. 2512) zarządza się, co następuje: § 1. Upoważnia się Sieć Badawczą Łukasiewicz – Instytut Przemysłu Organicznego oraz Sieć Badawczą Łukasiewicz – Warszawski Instytut Technologiczny do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania zawodów regulowanych:
+poz. 2512) zarządza się, co następuje:
+§ 1. Upoważnia się Sieć Badawczą Łukasiewicz – Instytut Przemysłu Organicznego oraz Sieć Badawczą Łukasiewicz – Warszawski Instytut Technologiczny do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania zawodów regulowanych:
 1) pirotechnika;
 2) rusznikarza;
 3) specjalisty do spraw oczyszczania terenu z materiałów wybuchowych i niebezpiecznych;

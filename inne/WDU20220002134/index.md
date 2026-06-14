@@ -8,10 +8,10 @@ pos: 2134
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 października 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2134 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 17 października 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002134) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2134/text.pdf) |
 
-Poz. 2134 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 17 października 2022 r.
-w sprawie wysokości opłaty za udzielenie pozwolenia na dystrybucję hurtową weterynaryjnych produktów leczniczych Na podstawie art. 74 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977, z późn. zm. ) zarządza się, co następuje: § 1. Opłata za udzielenie pozwolenia na dystrybucję hurtową weterynaryjnych produktów leczniczych prowadzoną w hurtowni farmaceutycznej weterynaryjnych produktów leczniczych wynosi 3000 zł.
+w sprawie wysokości opłaty za udzielenie pozwolenia na dystrybucję hurtową weterynaryjnych produktów leczniczych Na podstawie art. 74 ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977, z późn. zm. ) zarządza się, co następuje:
+§ 1. Opłata za udzielenie pozwolenia na dystrybucję hurtową weterynaryjnych produktów leczniczych prowadzoną w hurtowni farmaceutycznej weterynaryjnych produktów leczniczych wynosi 3000 zł.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120 oraz z 2022 r. poz. 830, 974, 1095, 1344 i 1733.

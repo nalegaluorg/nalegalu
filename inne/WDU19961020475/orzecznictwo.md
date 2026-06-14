@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 5 lipca 1996 r. o doradztwie podatkowym.*
 
 Łącznie: **28** orzeczeń
-(pominięto 17 orzeczeń sądów rejonowych)
+(pominięto 18 orzeczeń sądów rejonowych)
 
 ## art. 2 (8)
 

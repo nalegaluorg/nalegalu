@@ -8,10 +8,10 @@ pos: 1613
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 listopada 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11661133 Załączniki do rozporządzenia Ministra Infrastruktury z dnia 29 października 2024 r. (Dz. U. poz. …) Załącznik nr 1 WZÓR Opis zabezpieczeń:
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1613/text.pdf) |
 
-Opis zabezpieczeń:
 1. Zaświadczenie na przewozy drogowe na potrzeby własne ma formę dwustronicowego dokumentu formatu A4.
-2. Zabezpieczenia zastosowane papierze: papier zabezpieczony chemicznie, niewykazujący luminescencji promieniowaniu ultrafioletowym, dwutonowy, bieżący znak wodny, włókna zabezpieczające widoczne promieniowaniu ultrafioletowym.
-3. Zabezpieczenia zastosowane druku: tło giloszowe, elementy graficzne wykonane farbą aktywną promieniowaniu ultrafioletowym, mikrodruki.
+2. Zabezpieczenia zastosowane w papierze: – papier zabezpieczony chemicznie, niewykazujący luminescencji w promieniowaniu ultrafioletowym, – dwutonowy, bieżący znak wodny, – włókna zabezpieczające widoczne w promieniowaniu ultrafioletowym.
+3. Zabezpieczenia zastosowane w druku: – tło giloszowe, – elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym, – mikrodruki.
 4. Inne zabezpieczenia: element graficzny wykonany techniką suchego tłoczenia.
-5. Numeracja typograficzna wykonana farbą aktywną promieniowaniu ultrafioletowym.
-Opis zabezpieczeń:
+5. Numeracja typograficzna wykonana farbą aktywną w promieniowaniu ultrafioletowym.
+
+## Załącznik nr 2 — WZÓR Opis zabezpieczeń:
+
 1. Wypis z zaświadczenia na przewozy drogowe na potrzeby własne ma formę dwustronicowego dokumentu formatu A4.
-2. Zabezpieczenia zastosowane papierze: papier zabezpieczony chemicznie, niewykazujący luminescencji promieniowaniu ultrafioletowym, dwutonowy, bieżący znak wodny, włókna zabezpieczające widoczne promieniowaniu ultrafioletowym.
-3. Zabezpieczenia zastosowane druku: tło giloszowe, elementy graficzne wykonane farbą aktywną promieniowaniu ultrafioletowym, mikrodruki.
+2. Zabezpieczenia zastosowane w papierze: – papier zabezpieczony chemicznie, niewykazujący luminescencji w promieniowaniu ultrafioletowym, – dwutonowy, bieżący znak wodny, – włókna zabezpieczające widoczne w promieniowaniu ultrafioletowym.
+3. Zabezpieczenia zastosowane w druku: – tło giloszowe, – elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym, – mikrodruki.
 4. Inne zabezpieczenia: element graficzny wykonany techniką suchego tłoczenia.
-5. Numeracja typograficzna wykonana farbą aktywną promieniowaniu ultrafioletowym.
+5. Numeracja typograficzna wykonana farbą aktywną w promieniowaniu ultrafioletowym.
 

@@ -8,12 +8,12 @@ pos: 1018
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
+# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
 
-*USTAWA dnia 22 lipca 2010 o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw*
+*USTAWA z dnia 22 lipca 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -30,9 +30,102 @@ source: "isap-pdf"
 Przepadek rzeczy na podstawie prawa celnego
 Przepadek pojazdów
 
-**Art. 1.** W ustawie dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. U. 2005 108, 908, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. U. 43, 296, późn. zm. ) w części pierwszej w księdze drugiej w tytule II w dziale III rozdział 2a otrzymuje brzmienie: „Rozdział 2a. Przepadek rzeczy
+- **1)** w art. 1 ust. 1 i 2 otrzymują brzmienie: „1. Ustawa określa:
+- **1)** zasady ruchu na drogach publicznych, w strefach zamieszkania oraz w strefach ruchu;
+- **2)** zasady i warunki dopuszczenia pojazdów do tego ruchu;
+- **3)** wymagania w stosunku do osób kierujących pojazdami i innych uczestników tego ruchu;
+- **4)** zasady i warunki kontroli ruchu drogowego.
+
+2. Przepisy ustawy stosuje się również do ruchu odbywającego się poza miejscami wymienionymi w ust. 1 pkt 1, w zakresie:
+
+- **1)** koniecznym dla uniknięcia zagrożenia bezpieczeństwa osób;
+- **2)** wynikającym ze znaków i sygnałów drogowych.”;
+- **2)** w art. 2:
+    - **a)** po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „1a) droga publiczna – droga w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm. );
+
+- **1b)** droga wewnętrzna – droga w rozumieniu art. 8 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych;”,
+    - **b)** pkt 10 otrzymuje brzmienie: „10) skrzyżowanie – przecięcie się w jednym poziomie dróg mających jezdnię, ich połączenie lub rozwidlenie, łącznie z powierzchniami utworzonymi przez takie przecięcia, połączenia lub rozwidlenia; określenie to nie dotyczy przecięcia, połączenia lub rozwidlenia drogi twardej z drogą gruntową, z drogą stanowiącą dojazd do obiektu znajdującego się przy drodze lub z drogą wewnętrzną;”,
+    - **c)** po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) strefa ruchu – obszar obejmujący co najmniej jedną drogę wewnętrzną, na który wjazdy i wyjazdy oznaczone są odpowiednimi znakami drogowymi;”;
+
+- **3)** w art. 10:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Wojewoda sprawuje nadzór nad zarządzaniem ruchem na drogach:
+
+- **1)** wojewódzkich,
+- **2)** powiatowych,
+- **3)** gminnych,
+- **4)** publicznych położonych w miastach na prawach powiatu i w mieście stołecznym Warszawie,
+- **5)** wewnętrznych położonych w strefach ruchu lub strefach zamieszkania.”,
+    - **b)** ust. 7 otrzymuje brzmienie: „7. Zarządzanie ruchem na drogach wewnętrznych, w tym w strefie ruchu i strefie zamieszkania, należy do podmiotu zarządzającego tymi drogami.”,
+    - **c)** po ust. 10 dodaje się ust. 10a w brzmieniu: „10a. Podmioty zarządzające drogami, o których mowa w ust. 7, ustalając organizację ruchu na tych drogach stosują znaki i sygnały drogowe oraz zasady ich umieszczania wynikające z ustawy i jej przepisów wykonawczych. Koszt oznakowania drogi wewnętrznej ponosi podmiot zarządzający drogą.”;
+
+- **4)** w art. 78a ust. 5 otrzymuje brzmienie: „5. Właściciel pojazdu lub podmiot, któremu powierzono pojazd w trybie przepisu art. 73 ust. 5, jest obowiązany zapewnić wycofanemu z ruchu pojazdowi postój poza drogą publiczną, strefą zamieszkania i strefą ruchu. Przepis art. 46 ust. 5 stosuje się odpowiednio.”;
+- **5)** w art. 80b: l rodzaju paliwa,”, - w lit. s średnik zastępuje się przecinkiem i dodaje się lit. t–v w brzmieniu: „t) nazwę producenta,
+    - **a)** w ust. 1 w pkt 1 lit. a otrzymuje brzmienie: „a) markę, typ, model, wariant i wersję,”,
+    - **b)** w ust. 1a w pkt 1: - lit. l otrzymuje brzmienie: „l) rodzaje paliwa,”, - lit. p otrzymuje brzmienie: „p) wartości uśrednione emisji CO dla każdego wymienionego w lit.
+    - **u)** rozstaw osi,
+    - **v)** rozstaw kół (wartość maksymalna, średnia i minimalna);”,
+    - **c)** w ust. 1b kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) w ust. 1a pkt 1 lit. u i lit. v - gromadzi się wyłącznie dla samochodów osobowych rejestrowanych po raz pierwszy na terytorium państwa członkowskiego Unii Europejskiej, których nie rejestrowano wcześniej poza terytorium państwa członkowskiego Unii Europejskiej lub które zostały zarejestrowane po raz pierwszy poza terytorium państwa członkowskiego Unii Europejskiej w okresie krótszym niż trzy miesiące przed rejestracją na terytorium państwa członkowskiego Unii Europejskiej.”;
+
+- **6)** w art. 80c po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Dane lub informacje zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.”;
+- **7)** w art. 80d w ust. 1 pkt 1 otrzymuje brzmienie: „1) dla podmiotów, o których mowa w art. 80c ust. 1–3 i ust. 6a – nieodpłatnie;”;
+- **8)** w art. 100c po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.”;
+- **9)** w art. 100d w ust. 1 pkt 1 otrzymuje brzmienie: „1) dla podmiotów, o których mowa w art. 100c ust. 1, 2 i ust. 4a – nieodpłatnie;”;
+- **10)** w art. 130a:
+    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) przekroczenia wymiarów, dopuszczalnej masy całkowitej lub nacisku osi określonych w przepisach ruchu drogowego, chyba że istnieje możliwość skierowania pojazdu na pobliską drogę, na której dopuszczalny jest ruch takiego pojazdu;”, – dodaje się pkt 4 i 5 w brzmieniu: „4) pozostawienia pojazdu nieoznakowanego kartą parkingową, w miejscu przeznaczonym dla pojazdu osoby niepełnosprawnej o obniżonej sprawności ruchowej oraz osób wymienionych w art. 8 ust. 2;
+
+- **5)** pozostawienia pojazdu w miejscu obowiązywania znaku wskazującego, że zaparkowany pojazd zostanie usunięty na koszt właściciela.”, 1 pkt 1, 4 i 5,”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Od usunięcia pojazdu odstępuje się, jeżeli przed wydaniem dyspozycji usunięcia pojazdu lub w trakcie usuwania ustaną przyczyny jego usunięcia. Jeżeli wydanie dyspozycji usunięcia pojazdu w przypadkach, o których mowa w ust. 1 lub 2, spowodowało powstanie kosztów, do ich pokrycia jest obowiązany właściciel pojazdu. Przepis ust. 10i stosuje się odpowiednio.”,
+    - **c)** w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Dyspozycję przemieszczenia lub usunięcia pojazdu z drogi wydaje:”, – pkt 2 otrzymuje brzmienie: „2) strażnik gminny (miejski) – w sytuacjach, o których mowa w ust.
+    - **d)** uchyla się ust. 5a i 5b,
+    - **e)** ust. 5c otrzymuje brzmienie: „5c. Pojazd usunięty z drogi w przypadkach, o których mowa w ust. 1 lub 2, umieszcza się na parkingu strzeżonym do czasu uiszczenia opłat za jego usunięcie i przechowywanie.”,
+    - **f)** uchyla się ust. 5d i 5e,
+    - **g)** po ust. 5e dodaje się ust. 5f w brzmieniu: „5f. Usuwanie pojazdów oraz prowadzenie parkingu strzeżonego dla pojazdów usuniętych w przypadkach, o których mowa w ust. 1 lub 2, należy do zadań własnych powiatu. Starosta realizuje te zadania przy pomocy powiatowych jednostek organizacyjnych lub powierza ich wykonywanie zgodnie z przepisami o zamówieniach publicznych.”,
+    - **h)** ust. 6 otrzymuje brzmienie: „6. Rada powiatu, biorąc pod uwagę konieczność sprawnej realizacji zadań, o których mowa w ust. 1 i 2, oraz koszty usuwania i przechowywania pojazdów na obszarze danego powiatu, ustala corocznie, w drodze uchwały, wysokość opłat, o których mowa w ust. 5c, oraz wysokość kosztów, o których mowa w ust. 2a. Wysokość kosztów, o których mowa w ust. 2a, nie może być wyższa niż maksymalna kwota opłat za usunięcie pojazdu, o których mowa w ust. 6a.”,
+    - **i)** po ust. 6 dodaje się ust. 6a–6e w brzmieniu: „6a. Ustala się maksymalną wysokość stawek kwotowych opłat, o których mowa w ust. 5c:
+    - **a)** rower lub motorower – za usunięcie – 100 zł; za każdą dobę przechowywania – 15 zł,
+    - **b)** motocykl – za usunięcie – 200 zł; za każdą dobę przechowywania – 22 zł,
+    - **c)** pojazd o dopuszczalnej masie całkowitej do 3,5 t – za usunięcie – 440 zł; za każdą dobę przechowywania – 33 zł,
+    - **d)** pojazd o dopuszczalnej masie całkowitej powyżej 3,5 t do 7,5 t – za usunięcie – 550 zł; za każdą dobę przechowywania – 45 zł,
+    - **e)** pojazd o dopuszczalnej masie całkowitej powyżej 7,5 t do 16 t – za usunięcie – 780 zł; za każdą dobę przechowywania – 65 zł,
+    - **f)** pojazd o dopuszczalnej masie całkowitej powyżej 16 t – za usunięcie – 1150 zł; za każdą dobę przechowywania – 120 zł,
+    - **g)** pojazd przewożący materiały niebezpieczne – za usunięcie – 1400 zł; za każdą dobę przechowywania – 180 zł.
+
+6b. Maksymalne stawki opłat określone w ust. 6a, obowiązujące w danym roku kalendarzowym ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
+
+6c. Na każdy rok kalendarzowy minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalne stawki opłat, o których mowa w ust. 6a, z uwzględnieniem zasady określonej w ust. 6b, zaokrąglając je w górę do pełnych złotych.
+
+6d. Wskaźnik cen, o którym mowa w ust. 6b, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego ogłoszonego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 20 dni od dnia jego ogłoszenia.
+
+6e. Opłaty, o których mowa w ust. 6, stanowią dochód własny powiatu.”,
+
+- **j)** ust. 10 otrzymuje brzmienie: „10. Starosta w stosunku do pojazdu usuniętego z drogi, w przypadkach określonych w ust. 1 lub 2, występuje do sądu z wnioskiem o orzeczenie jego przepadku na rzecz powiatu, jeżeli prawidłowo powiadomiony właściciel lub osoba uprawniona nie odebrała pojazdu w terminie 3 miesięcy od dnia jego usunięcia. Powiadomienie zawiera pouczenie o skutkach nieodebrania pojazdu.”,
+- **k)** po ust. 10 dodaje się ust. 10a–10l w brzmieniu: „10a. Starosta występuje z wnioskiem, o którym mowa w ust. 10, nie wcześniej niż przed upływem 30 dni od dnia powiadomienia.
+
+10b. Jeżeli pojazd usunięty w przypadkach określonych w ust. 1 lub 2 nie jest zarejestrowany w żadnym z państw członkowskich Unii Europejskiej, przekazuje się go właściwemu miejscowo naczelnikowi urzędu celnego w celu uregulowania jego sytuacji zgodnie z przepisami prawa celnego.
+
+10c. Przepisu ust. 10 nie stosuje się, gdy okoliczności wskazują, że nieodebranie pojazdu nastąpiło z przyczyn niezależnych od właściciela lub osoby uprawnionej.
+
+10d. Przepis ust. 10 stosuje się odpowiednio, gdy w terminie 4 miesięcy od dnia usunięcia pojazdu nie został ustalony jego właściciel lub osoba uprawniona do jego odbioru, mimo że w jej poszukiwaniu dołożono należytej staranności.
+
+10e. W sprawach o przepadek pojazdu sąd stwierdza, czy zostały spełnione wszystkie przesłanki niezbędne do orzeczenia przepadku, w szczególności, czy usunięcie pojazdu było zasadne i czy w poszukiwaniu osoby uprawnionej do jego odbioru, dołożono należytej staranności oraz czy orzeczenie przepadku nie będzie sprzeczne z zasadami współżycia społecznego.
+
+10f. Do wykonania orzeczenia sądu o przepadku pojazdu jest obowiązany starosta. Wykonanie orzeczenia następuje w trybie i na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, z uwzględnieniem przepisów niniejszej ustawy.
+
+10g. Jednostka prowadząca parking strzeżony, w przypadku nieodebrania pojazdu z parkingu w terminie określonym w ust. 10, powiadamia o tym fakcie właściwego miejscowo starostę oraz podmiot, który wydał dyspozycję usunięcia pojazdu nie później niż trzeciego dnia od dnia upływu tego terminu.
+
+10h. Koszty związane z usuwaniem, przechowywaniem, oszacowaniem, sprzedażą lub zniszczeniem pojazdu powsta łe od momentu wydania dyspozycji jego usunięcia do zakończenia postępowania ponosi osoba będąca właścicielem tego pojazdu w dniu wydania dyspozycji usunięcia pojazdu, z zastrzeżeniem ust. 10d i 10i. Decyzję o zapłacie tych kosztów wydaje starosta.
+
+10i. Jeżeli w chwili usunięcia pojazd znajdował się we władaniu osoby dysponującej nim na podstawie innego niż własność tytułu prawnego, osoba ta jest zobowiązana solidarnie do pokrycia kosztów, o których mowa w ust. 10h.
+
+10j. Termin płatności należności ustalonych decyzją, o której mowa w ust. 10h wynosi 30 dni od dnia, w którym decyzja ta stała się ostateczna. Odsetki ustawowe nalicza się od dnia następującego po upływie terminu płatności. Należności te wraz z odsetkami podlegają egzekucji w trybie i na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
+
+10k. Decyzji, o której mowa w ust. 10h, nie wydaje się, jeżeli od uprawomocnienia się orzeczenia sądu o przepadku pojazdu upłynęło 5 lat.
+
+10l. Egzekucji, o której mowa w ust. 10j, nie wszczyna się, a wszczętą umarza, jeżeli od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 10h, upłynęło 5 lat.”.
+
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) w części pierwszej w księdze drugiej w tytule II w dziale III rozdział 2a otrzymuje brzmienie: „Rozdział 2a. Przepadek rzeczy
 
 ##### Oddział 1.
 
@@ -44,7 +137,7 @@ Przepadek pojazdów
 
 **Art. 610².**
 
-§ 1. Postępowanie wszczyna się na wniosek organu celnego. Do wniosku dołącza się protokół pouczenia o obowiązku wskazania w Polsce pełnomocnika do doręczeń oraz o skutkach niedopełnienia tego obowiązku, jeżeli protokół taki został sporządzony.
+§ 1. Postępowanie wszczyna się na wniosek organu celnego. Do wniosku dołącza się protokół z pouczenia o obowiązku wskazania w Polsce pełnomocnika do doręczeń oraz o skutkach niedopełnienia tego obowiązku, jeżeli protokół taki został sporządzony.
 
 § 2. Organ celny może domagać się w jednym wniosku orzeczenia przepadku rzeczy będących towarami zajętymi lub zatrzymanymi w tych samych okolicznościach faktycznych, jeżeli ponadto sąd jest właściwy dla każdej sprawy.
 
@@ -52,7 +145,7 @@ Przepadek pojazdów
 
 **Art. 610⁴.** Wyznaczenie rozprawy zależy od uznania sądu.
 
-**Art. 610⁵.** Do wykonania orzeczenia o przepadku towaru jest obowiązany właściwy organ celny. Wykonanie orzeczenia następuje w trybie na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji, uwzględnieniem przepisów prawa celnego.
+**Art. 610⁵.** Do wykonania orzeczenia o przepadku towaru jest obowiązany właściwy organ celny. Wykonanie orzeczenia następuje w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji, z uwzględnieniem przepisów prawa celnego.
 
 ##### Oddział 2.
 
@@ -60,7 +153,7 @@ Przepadek pojazdów
 
 § 1. Przepisy niniejszego oddziału stosuje się w sprawach o przepadek pojazdów, które na podstawie przepisów prawa o ruchu drogowym podlegają przepadkowi na rzecz powiatu.
 
-§ 2. W sprawach, o których mowa w § 1, właściwy jest sąd miejsca, którego usunięto pojazd.
+§ 2. W sprawach, o których mowa w § 1, właściwy jest sąd miejsca, z którego usunięto pojazd.
 
 § 3. Sprawy, o których mowa w § 1, są rozpoznawane na posiedzeniu niejawnym, chyba że sąd postanowi inaczej.
 
@@ -70,17 +163,51 @@ Przepadek pojazdów
 
 § 2. Starosta może domagać się w jednym wniosku orzeczenia przepadku pojazdów usuniętych w tych samych okolicznościach faktycznych, jeżeli ponadto sąd jest właściwy dla każdej sprawy.”.
 
-**Art. 3.** W ustawie dnia 17 czerwca 1966 o postępowaniu egzekucyjnym w administracji (Dz. U. 2005 229, 1954, późn. zm. ) art. 174 otrzymuje brzmienie: „Art. 174. Rada Ministrów może, w drodze rozporządzenia, rozciągnąć stosowanie w całości lub w części przepisów działu II rozdziału 6 w zakresie przechowywania, oszacowania sprzedaży zajętych ruchomości na określone ruchomości, które stały się własnością Skarbu Państwa albo powiatu na podstawie przepisów o likwidacji mienia, o przepadku mienia, tytułu spadków lub innych tytułów albo gdy Skarb Państwa na podstawie szczególnych przepisów jest upoważniony do sprzedaży cudzej ruchomości. Rozporządzenie to w szczególności określi przypadki, w których może nastąpić nieodpłatne przekazanie ruchomości przez Skarb Państwa albo powiat lub ich niszczenie, a także sposób rozliczania wydatków związanych przechowywaniem lub sprzedażą ruchomości niestanowiących własności Skarbu Państwa.”.
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm. ) art. 174 otrzymuje brzmienie: „Art. 174. Rada Ministrów może, w drodze rozporządzenia, rozciągnąć stosowanie w całości lub w części przepisów działu II rozdziału 6 w zakresie przechowywania, oszacowania i sprzedaży zajętych ruchomości na określone ruchomości, które stały się własnością Skarbu Państwa albo powiatu na podstawie przepisów o likwidacji mienia, o przepadku mienia, z tytułu spadków lub z innych tytułów albo gdy Skarb Państwa na podstawie szczególnych przepisów jest upoważniony do sprzedaży cudzej ruchomości. Rozporządzenie to w szczególności określi przypadki, w których może nastąpić nieodpłatne przekazanie ruchomości przez Skarb Państwa albo powiat lub ich niszczenie, a także sposób rozliczania wydatków związanych z przechowywaniem lub sprzedażą ruchomości niestanowiących własności Skarbu Państwa.”.
 
-**Art. 4.** W ustawie dnia 20 maja 1971 – Kodeks wykroczeń (Dz. U. 2010 46, 275 106, 672) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2010 r. Nr 46, poz. 275 i Nr 106, poz. 672) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 21 marca 1985 o drogach publicznych (Dz. U. 2007 19, 115, późn. zm. ) w art. 8 ust. 1 otrzymuje brzmienie: „1. Drogi, parkingi oraz place przeznaczone do ruchu pojazdów, niezaliczone do żadnej kategorii dróg publicznych niezlokalizowane w pasie drogowym tych dróg są drogami wewnętrznymi.”.
+- **1)** po art. 85 dodaje się art. 85a w brzmieniu: „Art. 85a. § 1. Kto narusza przepisy dotyczące sposobu znakowania dróg wewnętrznych, podlega karze grzywny.
 
-**Art. 6.** W ustawie dnia 6 czerwca 1997 – Kodeks karny (Dz. U. 88, 553, późn. zm. ) wprowadza się następujące zmiany:
+§ 2. Tej samej karze za czyn określony w § 1 podlega ten, kto zlecił wadliwe dokonanie tej czynności.”;
 
-**Art. 7.** W ustawie dnia 27 kwietnia 2001 – Prawo ochrony środowiska (Dz. U. 2008 25, 150, późn. zm. ) wprowadza się następujące zmiany:
+- **2)** w art. 86 § 1 otrzymuje brzmienie: „§ 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu, nie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu drogowym, podlega karze grzywny.”;
+- **3)** w art. 87 § 2 otrzymuje brzmienie: „§ 2. Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka, prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu inny pojazd niż określony w § 1, podlega karze aresztu do 14 dni albo karze grzywny.”;
+- **4)** art. 88 otrzymuje brzmienie: „Art. 88. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia, podlega karze grzywny.”;
+- **5)** art. 90 otrzymuje brzmienie: „Art. 90. Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu, podlega karze grzywny albo karze nagany.”;
+- **6)** art. 94 otrzymuje brzmienie: „Art. 94. § 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd, nie mając do tego uprawnienia, podlega karze grzywny.
 
-**Art. 8.** W ustawie dnia 27 kwietnia 2001 o odpadach (Dz.U. 2007 39, 251, późn. zm. ) art. 4a otrzymuje brzmienie: „Art. 4a. 1. Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w ustawie, wyjątkiem kar pieniężnych. 2. Zadania samorządu województwa, o których mowa w ustawie, wyjątkiem spraw, o których mowa w rozdziale 3, oraz spraw, o których mowa w art. 16b, są zadaniami zakresu administracji rządowej.”.
+§ 2. Tej samej karze podlega, kto prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu pojazd pomimo braku dopuszczenia pojazdu do ruchu.”;
+
+- **7)** art. 95 otrzymuje brzmienie: „Art. 95. Kto prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu pojazd, nie mając przy sobie wymaganych dokumentów, podlega karze grzywny do 250 złotych albo karze nagany.”;
+- **8)** w art. 96 § 1 otrzymuje brzmienie: „§ 1. Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na drodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza:
+- **1)** do prowadzenia pojazdu osobę niemającą sprawności fizycznej lub psychicznej w stopniu umożliwiającym należyte prowadzenie pojazdu,
+- **2)** do prowadzenia pojazdu osobę niemającą wymaganych uprawnień,
+- **3)** do prowadzenia pojazdu osobę znajdującą się w stanie po użyciu alkoholu lub podobnie działającego środka,
+- **4)** pojazd do jazdy pomimo braku wymaganych dokumentów stwierdzających dopuszczenie pojazdu do ruchu,
+- **5)** pojazd do jazdy, pomimo że pojazd nie jest należycie zaopatrzony w wymagane urządzenia i przyrządy albo pomimo że nie nadają się one do spełnienia swego przeznaczenia,
+- **6)** do korzystania z pojazdu samochodowego w sposób niezgodny z jego przeznaczeniem, podlega karze grzywny.”;
+- **9)** art. 97 otrzymuje brzmienie: „Art. 97. Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) lub przepisom wydanym na jej podstawie, podlega karze grzywny do 3 000 złotych albo karze nagany.”;
+- **10)** art. 98 otrzymuje brzmienie: „Art. 98. Kto, prowadząc pojazd poza drogą publiczną, strefą zamieszkania lub strefą ruchu, nie zachowuje należytej ostrożności, czym zagraża bezpieczeństwu innej osoby, podlega karze grzywny albo karze nagany.”.
+
+**Art. 5.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm. ) w art. 8 ust. 1 otrzymuje brzmienie: „1. Drogi, parkingi oraz place przeznaczone do ruchu pojazdów, niezaliczone do żadnej z kategorii dróg publicznych i niezlokalizowane w pasie drogowym tych dróg są drogami wewnętrznymi.”.
+
+**Art. 6.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 178a § 2 otrzymuje brzmienie: „§ 2. Kto, znajdując się w stanie nietrzeźwości lub pod wpływem środka odurzającego, prowadzi na drodze publicznej, w strefie zamieszkania lub w strefie ruchu inny pojazd niż określony w § 1, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.”;
+- **2)** art. 179 otrzymuje brzmienie: „Art. 179. Kto wbrew szczególnemu obowiązkowi dopuszcza do ruchu pojazd mechaniczny albo inny pojazd w stanie bezpośrednio zagrażającym bezpieczeństwu w ruchu lądowym, wodnym lub powietrznym lub dopuszcza do prowadzenia pojazdu mechanicznego albo innego pojazdu na drodze publicznej, w strefie zamieszkania lub w strefie ruchu przez osobę znajdującą się w stanie nietrzeźwości, będącą pod wpływem środka odurzającego lub osobę nieposiadającą wymaganych uprawnień, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”.
+
+**Art. 7.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 400k w ust. 2 w pkt 4:
+    - **a)** lit. b i c otrzymują brzmienie: „b) liczbie, markach, masie i roku produkcji pojazdów oraz masie pojazdów wycofanych z eksploatacji, które zostały przyjęte do stacji demontażu,
+    - **c)** masie odpadów poddanych odzyskowi, w tym recyklingowi oraz przekazanych do odzysku, w tym recyklingu, a także masie przeznaczonych do ponownego użycia przedmiotów wyposażenia i części wymontowanych z pojazdów wycofanych z eksploatacji,”,
+    - **b)** uchyla się lit. d,
+    - **c)** w lit. g na końcu stawia się przecinek i po lit. g dodaje się lit. h w brzmieniu: „h) powiatach, które uzyskały dofinansowanie w zakresie zbierania pojazdów wycofanych z eksploatacji”;
+
+- **2)** w art. 401c w ust. 9 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) dofinansowanie powiatów w zakresie zbierania pojazdów wycofanych z eksploatacji, nabytych w drodze przepadku w trybie art. 130a ust. 10 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. );”.
+
+**Art. 8.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz.U. z 2007 r. Nr 39, poz. 251, z późn. zm. ) art. 4a otrzymuje brzmienie: „Art. 4a. 1. Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w ustawie, z wyjątkiem kar pieniężnych. 2. Zadania samorządu województwa, o których mowa w ustawie, z wyjątkiem spraw, o których mowa w rozdziale 3, oraz spraw, o których mowa w art. 16b, są zadaniami z zakresu administracji rządowej.”.
 
 **Art. 9.**
 
@@ -88,11 +215,11 @@ Przepadek pojazdów
 
 2. W przypadku gdy okres, na jaki została wyznaczona jednostka usuwająca pojazdy lub jednostka prowadząca parking strzeżony, upływa przed terminem 12 miesięcy od dnia wejścia w życie niniejszej ustawy, starosta może wyznaczyć jednostkę usuwającą pojazdy oraz jednostkę prowadzącą parking strzeżony, na podstawie przepisów dotychczasowych, na czas określony, nie dłuższy niż do 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** W przypadku pojazdów, które zostały usunięte przed dniem wejścia w życie niniejszej ustawy do tego dnia nie zostały odebrane parkingu strzeżonego przez uprawnioną osobę, termin określony w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, po którego upływie starosta występuje do sądu wnioskiem o orzeczenie przepadku pojazdu, biegnie w dalszym ciągu od dnia usunięcia pojazdu.
+**Art. 10.** W przypadku pojazdów, które zostały usunięte przed dniem wejścia w życie niniejszej ustawy i do tego dnia nie zostały odebrane z parkingu strzeżonego przez uprawnioną osobę, termin określony w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, po którego upływie starosta występuje do sądu z wnioskiem o orzeczenie przepadku pojazdu, biegnie w dalszym ciągu od dnia usunięcia pojazdu.
 
 **Art. 11.**
 
-1. W przypadkach, w których bieg terminu określonego w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, rozpoczął się nie zakończył przed dniem wejścia w życie niniejszej ustawy, przepadek pojazdów orzeka się na rzecz powiatu.
+1. W przypadkach, w których bieg terminu określonego w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, rozpoczął się i nie zakończył przed dniem wejścia w życie niniejszej ustawy, przepadek pojazdów orzeka się na rzecz powiatu.
 
 2. W przypadkach, o których mowa w ust. 1, jednostka prowadząca parking strzeżony po upływie 6 miesięcy od dnia usunięcia pojazdu powiadamia o jego nieodebraniu właściwego starostę oraz podmiot, który wydał dyspozycję usunięcia pojazdu.
 
@@ -100,13 +227,17 @@ Przepadek pojazdów
 
 1. Postępowania w sprawach przejęcia na rzecz Skarbu Państwa własności pojazdów nieodebranych przez uprawnione osoby w terminie określonym w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, niezakończone przed dniem wejścia w życie niniejszej ustawy umarza się, a sprawy przekazuje właściwym starostom. Przepis art. 11 stosuje się odpowiednio.
 
-2. W przypadkach, w których termin określony w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, upłynął przed dniem wejścia w życie niniejszej ustawy nie zostało wszczęte postępowanie w sprawie przejęcia własności pojazdu na rzecz Skarbu Państwa, przepis art. 11 stosuje się odpowiednio.
+2. W przypadkach, w których termin określony w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, upłynął przed dniem wejścia w życie niniejszej ustawy i nie zostało wszczęte postępowanie w sprawie przejęcia własności pojazdu na rzecz Skarbu Państwa, przepis art. 11 stosuje się odpowiednio.
 
-**Art. 13.** Skarb Państwa ponosi koszty przechowywania pojazdów, które powstały po upływie terminu, o którym mowa w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, do dnia wejścia w życie niniejszej ustawy, wobec pojazdów, których 6-miesięczny termin od dnia ich usunięcia upłynął w okresie od dnia 11 czerwca 2009 do dnia wejścia w życie niniejszej ustawy.
+**Art. 13.** Skarb Państwa ponosi koszty przechowywania pojazdów, które powstały po upływie terminu, o którym mowa w art. 130a ust. 10 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, do dnia wejścia w życie niniejszej ustawy, wobec pojazdów, których 6-miesięczny termin od dnia ich usunięcia upłynął w okresie od dnia 11 czerwca 2009 r. do dnia wejścia w życie niniejszej ustawy.
 
-**Art. 14.** Podmioty zarządzające drogami, o których mowa w art. 10 ust. 7 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, dostosują oznakowanie dróg, na których zarządzają ruchem, do wymagań wynikających przepisów ustawy, o której mowa w art. 1, w terminie 24 miesięcy od dnia wejścia w życie ustawy.
+**Art. 14.** Podmioty zarządzające drogami, o których mowa w art. 10 ust. 7 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, dostosują oznakowanie dróg, na których zarządzają ruchem, do wymagań wynikających z przepisów ustawy, o której mowa w art. 1, w terminie 24 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 15.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 174 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 174 ustawy, o której mowa w art. 3 w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 10 lit. d–i, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **2)** art. 4 pkt 1, który wchodzi w życie po upływie 24 miesięcy od dnia ogłoszenia.
+
 

@@ -8,7 +8,7 @@ pos: 1701
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o transporcie drogowym oraz o zmianie ustawy – Prawo o ruchu drogowym
@@ -29,12 +29,18 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 6 w ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) spełnia wymagania określone w art. 5 ust. 3 pkt 1 i 5;”,
+    - **b)** w pkt 2 w lit. c kropkę na końcu zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) spełniają wymagania określone w art. 39a ust. 1 pkt 1–4.”;
+
+- **2)** rozdział 7a otrzymuje brzmienie: „Rozdział 7a Kierowcy wykonujący przewóz drogowy
+
 **Art. 39a.**
 
 1. Przedsiębiorca lub inny podmiot wykonujący przewóz drogowy może zatrudnić kierowcę, jeżeli osoba ta:
 
 - **1)** ukończyła 21 lat;
-- **2)** posiada odpowiednie uprawnienie do kierowania pojazdem samochodowym, określone w ustawie z dnia 20 czerwca poz. 908, z późn. zm. );
+- **2)** posiada odpowiednie uprawnienie do kierowania pojazdem samochodowym, określone w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. );
 - **3)** nie ma przeciwwskazań zdrowotnych do wykonywania pracy na stanowisku kierowcy;
 - **4)** nie ma przeciwwskazań psychologicznych do wykonywania pracy na stanowisku kierowcy;
 - **5)** uzyskała kwalifikację wstępną;
@@ -61,6 +67,11 @@ source: "isap-pdf"
 
 - **9)** wykorzystywanego do użytku osobistego w przewozie drogowym osób lub rzeczy;
 - **10)** wykorzystywanego do przewozu materiałów lub urządzeń niezbędnych kierowcy do jego pracy, pod warunkiem że prowadzenie pojazdu nie jest jego podstawowym zajęciem.
+
+**Art. 39b.**
+
+1. Do uzyskania kwalifikacji wstępnej może przystąpić osoba:
+
 - **1)** która na terytorium Rzeczypospolitej Polskiej:
     - **a)** przebywa co najmniej 185 dni w roku ze względu na więzi osobiste lub zawodowe, albo
     - **b)** studiuje od co najmniej sześciu miesięcy i przedstawi zaświadczenie potwierdzające ten fakt;
@@ -91,7 +102,10 @@ source: "isap-pdf"
 
 - **2)** kształcenie zawodowe w zakresie umiejętności stosowania przepisów dotyczących wykonywania transportu drogowego;
 - **3)** kształcenie zawodowe w zakresie zagrożeń związanych z wykonywanym zawodem, w tym bezpieczeństwo na drodze i bezpieczeń stwo dla środowiska;
-- **4)** kształcenie zawodowe w zakresie obsługi i logistyki, w tym kształtowanie wizerunku firmy oraz znajomość rynku w przewozie drogowym i jego organizacji. wadzane są:
+- **4)** kształcenie zawodowe w zakresie obsługi i logistyki, w tym kształtowanie wizerunku firmy oraz znajomość rynku w przewozie drogowym i jego organizacji.
+
+3. Testy kwalifikacyjne, o których mowa w art. 39b ust. 3, przeprowadzane są:
+
 - **1)** przez Okręgową Komisję Egzaminacyjną, po zakończeniu zajęć szkolnych dla uczniów, o których mowa w ust. 1 pkt 1, w ramach zewnętrznego egzaminu potwierdzającego kwalifikacje zawodowe, albo
 - **2)** w ośrodku szkolenia, po zakończeniu zajęć teoretycznych i praktycznych, przez trzyosobową komisję egzaminacyjną, zwaną dalej „komisją”, powołaną przez wojewodę.
 
@@ -117,7 +131,7 @@ source: "isap-pdf"
 
 1. Wojewoda lub upoważniony przez niego członek komisji albo dyrektor Okręgowej Komisji Egzaminacyjnej, wydaje osobie, która uzyskała kwalifikację wstępną świadectwo kwalifikacji zawodowej potwierdzające uzyskanie kwalifikacji wstępnej.
 
-2. Wojewoda oraz dyrektor Okręgowej Komisji Egzaminacyjnej, w terminie 21 dni od dnia przeprowadzenia testu kwalifikacyjnego, przekazują do centralnej ewidencji kierowców następujące dane rym mowa w ust. 1:
+2. Wojewoda oraz dyrektor Okręgowej Komisji Egzaminacyjnej, w terminie 21 dni od dnia przeprowadzenia testu kwalifikacyjnego, przekazują do centralnej ewidencji kierowców następujące dane osób, którym wydano świadectwo kwalifikacji zawodowej, o którym mowa w ust. 1:
 
 - **1)** imię i nazwisko;
 - **2)** datę i miejsce urodzenia;
@@ -152,7 +166,9 @@ source: "isap-pdf"
 
 **Art. 39e.**
 
-1. Kierownik ośrodka szkolenia wydaje osobie, która ukończyła wymagane zajęcia w ramach szkolenia okresowego, świadectwo kwalifikacji zawodowej potwierdzające ukończenie szkolenia okresowego. świadectwa kwalifikacji zawodowej, o którym mowa w ust. 1, przekazuje do centralnej ewidencji kierowców następujące dane osób, którym wydał świadectwo:
+1. Kierownik ośrodka szkolenia wydaje osobie, która ukończyła wymagane zajęcia w ramach szkolenia okresowego, świadectwo kwalifikacji zawodowej potwierdzające ukończenie szkolenia okresowego.
+
+2. Kierownik ośrodka szkolenia, w terminie 21 dni od dnia wydania świadectwa kwalifikacji zawodowej, o którym mowa w ust. 1, przekazuje do centralnej ewidencji kierowców następujące dane osób, którym wydał świadectwo:
 
 - **1)** imię i nazwisko;
 - **2)** datę i miejsce urodzenia;
@@ -180,7 +196,7 @@ source: "isap-pdf"
 
 7. Informację o wydanych kartach kwalifikacji kierowcy starosta przekazuje do centralnej ewidencji kierowców.
 
-8. W przypadku osoby nieposiadającej miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej i niewykonującej przewozów spolitej Polskiej wymagania, o których mowa w art. 39a ust. 1 pkt 5 i 6, uznaje się za spełnione, gdy osoba ta posiada w prawie jazdy albo w karcie kwalifikacji kierowcy aktualny wpis potwierdzający ukończenie kwalifikacji wstępnej lub szkolenia okresowego w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
+8. W przypadku osoby nieposiadającej miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej i niewykonującej przewozów na rzecz podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej wymagania, o których mowa w art. 39a ust. 1 pkt 5 i 6, uznaje się za spełnione, gdy osoba ta posiada w prawie jazdy albo w karcie kwalifikacji kierowcy aktualny wpis potwierdzający ukończenie kwalifikacji wstępnej lub szkolenia okresowego w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
 
 9. W przypadku osoby zamieszkałej na terytorium Rzeczypospolitej Polskiej i wykonującej przewozy na rzecz podmiotu mającego siedzibę za granicą wymagania, o których mowa w art. 39a ust. 1 pkt 6, uznaje się za spełnione, gdy osoba ta posiada w prawie jazdy albo w karcie kwalifikacji kierowcy aktualny wpis potwierdzający ukończenie szkolenia okresowego w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
 
@@ -198,7 +214,8 @@ source: "isap-pdf"
 
 - **3)** posiada:
     - **a)** warunki lokalowe,
-    - **b)** wyposażenie dydaktyczne, nych,
+    - **b)** wyposażenie dydaktyczne,
+    - **c)** miejsca przeznaczone do prowadzenia zajęć praktycznych,
     - **d)** miejsca przeznaczone do jazdy w warunkach specjalnych,
     - **e)** pojazdy samochodowe odpowiednie do zakresu prowadzonego szkolenia,
     - **f)** szczegółowy program szkolenia wraz z planem jego wykonania oraz metodami nauczania;
@@ -223,7 +240,7 @@ source: "isap-pdf"
 6. Wraz z wnioskiem, o którym mowa w ust. 4, przedsiębiorca składa oświadczenie o następującej treści: „Oświadczam, że:
 
 - **1)** dane zawarte we wniosku o wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności gospodarczej w zakresie prowadzenia ośrodka szkolenia, drogowym.”.
+- **2)** znane mi są i spełniam warunki wykonywania działalności gospodarczej w zakresie prowadzenia ośrodka szkolenia, określone w ustawie z dnia 6 września 2001 r. o transporcie drogowym.”.
 
 7. Oświadczenie, o którym mowa w ust. 6, powinno również zawierać:
 
@@ -256,7 +273,8 @@ source: "isap-pdf"
 
 - **1)** przeprowadza kontrolę w zakresie:
     - **a)** spełniania przez ośrodek szkolenia wymagań, o których mowa w art. 39g ust. 2,
-    - **b)** zgodności prowadzonego szkolenia z obowiązującymi programami szkolenia, szkolenia;
+    - **b)** zgodności prowadzonego szkolenia z obowiązującymi programami szkolenia,
+    - **c)** dokumentów wymaganych w związku z prowadzeniem szkolenia;
 
 - **2)** w przypadku ustalenia naruszeń warunków wykonywania działalności wyznacza termin ich usunięcia;
 - **3)** wydaje decyzję o zakazie prowadzenia przez przedsiębiorcę ośrodka szkolenia oraz wykreśla z urzędu przedsiębiorcę z rejestru przedsiębiorców prowadzących ośrodek szkolenia, jeżeli przedsiębiorca:
@@ -280,7 +298,8 @@ source: "isap-pdf"
 - **2)** szczegółowe warunki prowadzenia szkolenia w ramach kwalifikacji wstępnej, kwalifikacji wstępnej uzupełniającej, szkoleń okresowych oraz zajęć odbywanych w ramach szkolenia okresowego, o których mowa w art. 39d ust. 3 pkt 2;
 - **3)** szczegółowe warunki przeprowadzania testów kwalifikacyjnych;
 - **4)** szczegółowe wymagania wobec członków komisji, sposób ich powoływania oraz wysokość ich wynagrodzenia, które nie może być wyższe niż 400 zł za egzamin;
-- **5)** wzór świadectwa kwalifikacji zawodowej; niem przez ośrodki szkolenia kwalifikacji wstępnej, kwalifikacji wstępnej uzupełniającej i szkolenia okresowego;
+- **5)** wzór świadectwa kwalifikacji zawodowej;
+- **6)** sposób postępowania z dokumentacją związaną z prowadzeniem przez ośrodki szkolenia kwalifikacji wstępnej, kwalifikacji wstępnej uzupełniającej i szkolenia okresowego;
 - **7)** wzór karty kwalifikacji kierowcy oraz szczegółowy sposób jej wydawania;
 - **8)** wysokość opłaty za wpis przedsiębiorcy do rejestru przedsiębiorców prowadzących ośrodek szkolenia.
 
@@ -293,7 +312,8 @@ source: "isap-pdf"
 - **5)** zakres danych niezbędnych do potwierdzenia spełnienia przez kierowcę wykonującego przewóz drogowy wymagań ustawy, w szczególności w zakresie badań lekarskich i psychologicznych, ukończonych szkoleń, posiadanych uprawnień do kierowania pojazdem samochodowym, organów właściwych i podmiotów uprawnionych do wydawania świadectwa kwalifikacji zawodowej;
 - **6)** zakres danych niezbędnych do prawidłowego prowadzenia kwalifikacji wstępnej, kwalifikacji wstępnej uzupełniającej i szkolenia okresowego, dotyczących kandydatów na kierowców i kierowców wykonujących przewóz drogowy, podmiotów uprawnionych do przeprowadzania kursów i zajęć, organów właściwych w sprawach wpisu do rejestru, a także przepisy Unii Europejskiej w zakresie dokumentów związanych z uzyskiwaniem kwalifikacji wstępnej oraz szkoleń okresowych;
 - **7)** potrzebę zapewnienia należytej ochrony dokumentacji związanej z prowadzeniem przez ośrodki szkolenia kwalifikacji wstępnej, kwalifikacji wstępnej uzupełniającej i szkolenia okresowego;
-- **8)** potrzebę zapewnienia zgodności wzoru i trybu wydawania karty kwalifikacji kierowcy z przepisami Unii Europejskiej; niem rejestru przedsiębiorców prowadzących ośrodki szkolenia oraz wysokość kosztów związanych z weryfikacją dokumentów.
+- **8)** potrzebę zapewnienia zgodności wzoru i trybu wydawania karty kwalifikacji kierowcy z przepisami Unii Europejskiej;
+- **9)** wysokość rzeczywistych kosztów związanych z prowadzeniem rejestru przedsiębiorców prowadzących ośrodki szkolenia oraz wysokość kosztów związanych z weryfikacją dokumentów.
 
 **Art. 39j.**
 
@@ -316,7 +336,7 @@ source: "isap-pdf"
 
 1. Kierowca wykonujący przewóz drogowy podlega badaniom psychologicznym przeprowadzanym w celu stwierdzenia istnienia lub braku przeciwwskazań psychologicznych do wykonywania pracy na stanowisku kierowcy.
 
-2. Badania psychologiczne, o których mowa w ust. 1, są wykonywane, z zastrzeżeniem ust. 3 i 4, w zakresie i na zasadach okrePrawo o ruchu drogowym.
+2. Badania psychologiczne, o których mowa w ust. 1, są wykonywane, z zastrzeżeniem ust. 3 i 4, w zakresie i na zasadach określonych dla kierowców w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 3. Badania psychologiczne, o których mowa w ust. 1, są przeprowadzane:
 
@@ -347,11 +367,61 @@ source: "isap-pdf"
 
 **Art. 39m.** Wymagania, o których mowa w art. 39a-39l, stosuje się odpowiednio do przedsiębiorcy lub innej osoby osobiście wykonującej przewóz drogowy.”;
 
+- **3)** w art. 87:
+    - **a)** uchyla się ust. 1a,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Podczas przewozu drogowego wykonywanego na potrzeby własne kontrolowany jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu kontroli, oprócz odpowiednich dokumentów wymaganych przy takim przewozie, określonych w ust. 1, wypis zaświadczenia, o którym mowa w art. 33 ust. 10.”.
+
 **Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** po art. 79a dodaje się art. 79b w brzmieniu: „Art.79b. W przypadku gdy zmiana stanu faktycznego w zakresie adresu właściciela lub posiadacza pojazdu, wymagająca wydania nowego dowodu rejestracyjnego pojazdu, spowodowana została zmianami administracyjnymi, rada powiatu może, w drodze uchwały, zmniejszyć opłatę lub zwolnić od jej uiszczenia osoby obowiązane do ubiegania się o wydanie tego dokumentu.”;
+- **2)** w art. 80d:
+    - **a)** w ust. 4: – pkt 2 otrzymuje brzmienie: „2) opłata ewidencyjna, o której mowa w art. 75 ust. 2, art. 77 ust. 3, art. 82 ust. 2, art. 97 ust. 1, art. 115h ust. 6 pkt 2 i art. 150 ust. 1;”, – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) opłata ewidencyjna, o której mowa w art. 39g ust. 9 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm. ).”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Wysokość każdej opłaty ewidencyjnej, o której mowa w art. 75 ust. 2, art. 77 ust. 3, art. 82 ust. 2, art. 97 ust. 1, art. 115h ust. 6 pkt 2 i art. 150 ust. 1, a także w art. 39g ust. 9 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie może przekroczyć równowartości w złotych 0,5 euro ustalonej przy zastosowaniu kursu średniego ustalonego przez Narodowy Bank Polski w dniu wydania rozporządzenia, o którym mowa w ust. 7.”,
+    - **c)** w ust. 7 pkt 1 otrzymuje brzmienie: „1) wysokość opłaty ewidencyjnej, o której mowa w art. 75 ust. 2, art. 77 ust. 3, art. 82 ust. 2, art. 97 ust. 1, art. 115h ust. 6 pkt 2 i art. 150 ust. 1, a także w art. 39g ust. 9 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym, oraz sposób jej wnoszenia;”;
+
+- **3)** art. 92 otrzymuje brzmienie: „Art. 92. 1. Prawo jazdy może zawierać wymagania lub ograniczenia wynikające:
+- **1)** ze stanu zdrowia kierowcy;
+- **2)** z możliwości prowadzenia określonego pojazdu;
+- **3)** z przepisów ustawy.
+
+2. Wymagania lub ograniczenia, o których mowa w ust. 1, mogą dotyczyć:
+
+- **1)** korekty lub ochrony wzroku;
+- **2)** korekty słuchu;
+- **3)** protezy lub szyny ortopedycznej;
+- **4)** możliwości ograniczonego korzystania z pojazdu;
+- **5)** konieczności modyfikacji lub dostosowania pojazdu;
+- **6)** ograniczenia uprawnienia do wskazanych pojazdów;
+- **7)** dodatkowego oznakowania pojazdu;
+- **8)** terminu ważności prawa jazdy.”;
+- **4)** po art. 97 dodaje się art. 97a w brzmieniu: „Art. 97a. 1. Organy, o których mowa w art. 97 ust. 1 i 3, dokonują w prawie jazdy wpisu potwierdzającego uzyskanie kwalifikacji wstępnej lub szkolenia okresowego, o których mowa w przepisach ustawy z dnia 6 września 2001 r. o transporcie drogowym.
+
+2. Wpis dokonywany jest na pisemny wniosek kierowcy na podstawie przedłożonych kopii:
+
+- **1)** świadectwa kwalifikacji zawodowej potwierdzającego uzyskanie kwalifikacji wstępnej albo świadectwa kwalifikacji zawodowej potwierdzającego ukończenie szkolenia okresowego;
+- **2)** orzeczenia lekarskiego stwierdzającego brak przeciwwskazań lekarskich do wykonywania pracy na stanowisku kierowcy;
+- **3)** orzeczenia psychologicznego stwierdzającego brak przeciwwskazań psychologicznych do wykonywania pracy na stanowisku kierowcy - o których mowa w przepisach ustawy wymienionej w ust. 1.
+
+3. Wpis dokonywany jest w formie wymiany prawa jazdy. Prawo jazdy w zakresie kategorii, której dotyczy wpis, wydaje się na okres 5 lat, liczony od daty wydania ś wiadectwa kwalifikacji zawodowej, o którym mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym, przy czym termin ten nie może być dłuższy niż okres ważności orzeczenia, o którym mowa w art. 39j ust. 4 lub art. 39k ust. 3 tej ustawy.
+
+4. Za dokonanie wpisu pobiera się opłaty, o których mowa w art. 97 ust. 1.”;
+
+- **5)** po art. 98 dodaje się art. 98a w brzmieniu: „Art. 98a. W przypadku gdy zmiana stanu faktycznego w zakresie adresu kierowcy wymagająca wydania nowego prawa jazdy, spowodowana została zmianami administracyjnymi, rada powiatu może, w drodze uchwały, zmniejszyć opłatę lub zwolnić od jej uiszczenia osoby obowiązane do ubiegania się o wydanie tego dokumentu.”;
+- **6)** w art. 100b:
+    - **a)** w ust. 1: – po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) spełnianie wymagań dotyczących uprawnień;”, – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12-14 w brzmieniu: „12) zakres, numer i datę wydania świadectwa kwalifikacji zawodowej potwierdzającego uzyskanie kwalifikacji wstępnej, o którym mowa w art. 39c ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
+
+- **13)** zakres, numer i datę wydania świadectwa kwalifikacji zawodowej potwierdzającego ukończenie szkolenia okresowego, o którym mowa w art. 39e ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
+- **14)** zakres, numer i datę wydania karty kwalifikacji kierowcy, o której mowa w art. 39f ustawy z dnia 6 września 2001 r. o transporcie drogowym.”,
+    - **b)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) wymienione w pkt 1-9 i 14 – organ właściwy w sprawach wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami, niezwłocznie po wydaniu dokumentu stwierdzającego uprawnienie;”, – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) wymienione w pkt 12 – wojewoda lub dyrektor Okręgowej Komisji Egzaminacyjnej;
+
+- **5)** wymienione w pkt 13 – kierownik ośrodka szkolenia, o którym mowa w przepisach ustawy z dnia 6 września 2001 r. o transporcie drogowym.”;
+- **7)** w dziale IV po rozdziale 2a dodaje się rozdział 2b w brzmieniu: „Rozdział 2b Doskonalenie umiejętności osób posiadających uprawnienia do kierowania pojazdem silnikowym
 
 **Art. 115f.**
 
-1. Doskonalenie umiejętności osób posiadających uprawnienie do kierowania pojazdem silnikowym jest prowadzone w ośrodku doskonalenia techniki jazdy. przez:
+1. Doskonalenie umiejętności osób posiadających uprawnienie do kierowania pojazdem silnikowym jest prowadzone w ośrodku doskonalenia techniki jazdy.
+
+2. Ośrodek doskonalenia techniki jazdy może być prowadzony przez:
 
 - **1)** przedsiębiorcę;
 - **2)** jednostkę wojskową lub jednostkę organizacyjną resortu spraw wewnętrznych – w zakresie szkolenia kierowców na potrzeby jednostek organizacyjnych tych resortów.
@@ -379,7 +449,8 @@ source: "isap-pdf"
 - **1)** firmę przedsiębiorcy oraz jego siedzibę i adres albo miejsce zamieszkania;
 - **2)** numer w ewidencji działalności gospodarczej albo w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile są wymagane;
 - **3)** numer identyfikacji podatkowej (NIP) przedsiębiorcy;
-- **4)** adres ośrodka doskonalenia techniki jazdy; rami nadanych uprawnień;
+- **4)** adres ośrodka doskonalenia techniki jazdy;
+- **5)** imiona i nazwiska instruktorów techniki jazdy wraz z numerami nadanych uprawnień;
 - **6)** numer w rejestrze.
 
 3. Do wniosku o wpis do rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy przedsiębiorca obowiązany jest dołączyć oświadczenie o następującej treści: „Oświadczam, że:
@@ -410,6 +481,8 @@ source: "isap-pdf"
 1. Jednostki wojskowe lub jednostki resortu spraw wewnętrznych mogą prowadzić ośrodek doskonalenia techniki jazdy w zakresie określonym w art. 115f ust. 2 pkt 2 po spełnieniu wymagań, o których mowa w art. 115g ust. 2 pkt 1 i 2.
 
 2. O rozpoczęciu działalności jednostki, o których mowa w ust. 1, zawiadamiają wojewodę najpóźniej na 14 dni przed dniem jej rozpoczęcia.
+
+3. W zawiadomieniu, o którym mowa w ust. 2, określa się:
 
 - **1)** nazwę i adres jednostki prowadzącej ośrodek doskonalenia techniki jazdy;
 - **2)** miejsce prowadzenia ośrodka doskonalenia techniki jazdy;
@@ -447,7 +520,7 @@ source: "isap-pdf"
 
 - **1)** numer ewidencyjny;
 - **2)** imię i nazwisko;
-- **3)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) albo rodzaj, serię, numer oraz w przypadku osoby nieposiadającej numeru PESEL;
+- **3)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) albo rodzaj, serię, numer oraz państwo wydania dokumentu potwierdzającego tożsamość – w przypadku osoby nieposiadającej numeru PESEL;
 - **4)** numer i datę ważności legitymacji instruktora, o której mowa w art. 106 ust. 1;
 - **5)** adres zamieszkania.
 
@@ -475,7 +548,9 @@ source: "isap-pdf"
 - **1)** wydanie zaświadczenia o ukończeniu szkolenia niezgodnego ze stanem faktycznym;
 - **2)** odmowa poddania się kontroli, o której mowa w ust. 2 pkt 1.
 
-4. Informację o wykreśleniu przedsiębiorcy z rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy wojewoda przekazuje do centralnej ewidencji kierowców w terminie 14 dni od dnia wydania decyzji o zakazie prowadzenia przez przedsiębiorcę ośrodka doskonalenia techniki jazdy. jazdy z ewidencji instruktorów techniki jazdy w przypadku:
+4. Informację o wykreśleniu przedsiębiorcy z rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy wojewoda przekazuje do centralnej ewidencji kierowców w terminie 14 dni od dnia wydania decyzji o zakazie prowadzenia przez przedsiębiorcę ośrodka doskonalenia techniki jazdy.
+
+5. Wojewoda wydaje decyzję o wykreśleniu instruktora techniki jazdy z ewidencji instruktorów techniki jazdy w przypadku:
 
 - **1)** wykreślenia z ewidencji instruktorów, o której mowa w art. 106 ust. 1;
 - **2)** zaprzestania spełniania wymagań, o których mowa w art. 115j ust. 2 pkt 1-3;
@@ -496,12 +571,13 @@ source: "isap-pdf"
     - **c)** opłaty za wpis do ewidencji instruktorów techniki jazdy, z tym że jej wysokość nie może być wyższa niż 50 zł,
     - **d)** opłaty za wpis przedsiębiorcy do rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy;
 
-- **4)** wzór: świadczenia o ukończeniu szkolenia;
+- **4)** wzór:
     - **a)** wniosku o wpis do rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy,
     - **b)** zaświadczenia potwierdzającego wpis przedsiębiorcy do rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy,
     - **c)** wniosku o wpis do ewidencji instruktorów techniki jazdy,
     - **d)** świadectwa instruktora techniki jazdy;
 
+- **5)** sposób prowadzenia rejestru osób szkolonych oraz wzór zaświadczenia o ukończeniu szkolenia;
 - **6)** budowę numerów ewidencyjnych ośrodków doskonalenia techniki jazdy i numerów w rejestrze instruktorów techniki jazdy oraz sposób ich nadawania.
 
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw transportu uwzględnia odpowiednio:
@@ -524,7 +600,10 @@ source: "isap-pdf"
 1. Wymóg określony w art. 39a ust. 1 pkt 5 ustawy, o której mowa w art. 1, nie dotyczy osób posiadających prawo jazdy:
 
 - **1)** kategorii D1, D1+E, D lub D+E, wydane do dnia 10 września 2008 r.;
-- **2)** kategorii C1, C1+E, C, C+E, wydane do dnia 10 września 2009 r. zany odbyć pierwsze szkolenie okresowe i uzyskać wymagany wpis do prawa jazdy w terminie do dnia:
+- **2)** kategorii C1, C1+E, C, C+E, wydane do dnia 10 września 2009 r.
+
+2. Kierowca wykonujący przewóz drogowy, o którym mowa w ust. 1, jest obowiązany odbyć pierwsze szkolenie okresowe i uzyskać wymagany wpis do prawa jazdy w terminie do dnia:
+
 - **1)** 10 września 2009 r. – w przypadku uzyskania po raz pierwszy prawa jazdy kategorii D1 lub D do dnia 31 grudnia 1980 r.;
 - **2)** 10 września 2010 r. – w przypadku uzyskania po raz pierwszy prawa jazdy:
     - **a)** kategorii C1 lub C do dnia 31 grudnia 1980 r.,
@@ -551,7 +630,9 @@ source: "isap-pdf"
 1. Osoby, o których mowa w art. 3 ust. 1, zamierzające podjąć po raz pierwszy pracę na stanowisku kierowcy przed dniem 10 września 2010 r., obowiązane są ukończyć kurs dokształcający:
 
 - **1)** kierowców przewożących rzeczy – dla kierowców pojazdów samochodowych konstrukcyjnie przystosowanych do przewozu rzeczy,
-- **2)** kierowców przewożących osoby – dla kierowców pojazdów samochodowych konstrukcyjnie przystosowanych do przewozu osób, z wyłączeniem taksówek – zgodnie z przepisami obowiązującymi przed dniem wejścia w życie niniejszej ustawy. cę na stanowisku kierowcy po dniu 10 września 2010 r., obowiązane są ukończyć szkolenie okresowe, o którym mowa w art. 39d ustawy określonej w art. 1.
+- **2)** kierowców przewożących osoby – dla kierowców pojazdów samochodowych konstrukcyjnie przystosowanych do przewozu osób, z wyłączeniem taksówek – zgodnie z przepisami obowiązującymi przed dniem wejścia w życie niniejszej ustawy.
+
+2. Osoby, o których mowa w art. 3 ust. 1, zamierzające podjąć po raz pierwszy pracę na stanowisku kierowcy po dniu 10 września 2010 r., obowiązane są ukończyć szkolenie okresowe, o którym mowa w art. 39d ustawy określonej w art. 1.
 
 **Art. 5.**
 
@@ -570,4 +651,9 @@ source: "isap-pdf"
 **Art. 7.** Podmioty uprawnione przed dniem wejścia w życie ustawy do prowadzenia kursów dokształcających mogą prowadzić te kursy na zasadach dotychczasowych i w dotychczasowym zakresie, nie dłużej jednak niż do dnia 10 września 2010 r.
 
 **Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 39b ust. 7 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym zachowują swoją ważność do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 39i ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą:
+
+- **1)** w zakresie kursów dokształcających dla prawa jazdy kategorii D i D1 nie dłużej niż do dnia 10 września 2009 r.;
+- **2)** w zakresie kursów dokształcających dla prawa jazdy kategorii C i C1 nie dłużej niż do dnia 10 września 2010 r.
+
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,7 +8,7 @@ pos: 185
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Akademii Rolniczo -Technicznej w Olsztynie nadaje się nazwę Akademia Rolniczo Technicznej imienia Michała Oczapowskiego w Olsztynie.

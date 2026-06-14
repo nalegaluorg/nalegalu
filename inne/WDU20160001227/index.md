@@ -8,10 +8,10 @@ pos: 1227
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1227 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 lipca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1227/text.pdf) |
 
-Poz. 1227 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 lipca 2016 r.
 w sprawie sposobu prowadzenia egzekucji grzywien i kar pieniężnych orzeczonych w postępowaniu cywilnym, a także kosztów sądowych w sprawach cywilnych, przysługujących Skarbowi Państwa Na podstawie art. 1064 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r.
-poz. 101, z późn. zm. ) zarządza się, co następuje: § 1. 1. Sąd wzywa dłużnika do dobrowolnego uiszczenia, w terminie 30 dni od dnia doręczenia wezwania, grzywny, kary pieniężnej orzeczonej w postępowaniu cywilnym albo kosztów sądowych w sprawach cywilnych przysługujących Skarbowi Państwa, zwanych dalej „należnościami”.
+poz. 101, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Sąd wzywa dłużnika do dobrowolnego uiszczenia, w terminie 30 dni od dnia doręczenia wezwania, grzywny, kary pieniężnej orzeczonej w postępowaniu cywilnym albo kosztów sądowych w sprawach cywilnych przysługujących Skarbowi Państwa, zwanych dalej „należnościami”.
 2. W razie bezskutecznego upływu terminu, o którym mowa w ust. 1, sąd wydaje z urzędu polecenie wszczęcia egzekucji należności i kieruje je do komornika.
 3. Do polecenia dołącza się tytuł wykonawczy.
 § 2. 1. Niezwłocznie po otrzymaniu polecenia wszczęcia egzekucji wraz z tytułem wykonawczym komornik z urzędu dokonuje czynności koniecznych do wyegzekwowania należności, nawet jeżeli przepis szczególny uzależnia ich dokonanie od wniosku wierzyciela.

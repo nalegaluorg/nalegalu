@@ -8,10 +8,10 @@ pos: 484
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 lutego 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 484 OBWIESZCZENIE MINISTRA OBRONY NARODOWEJ z dnia 11 lutego 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/484/text.pdf) |
 
-OBWIESZCZENIE MINISTRA OBRONY NARODOWEJ z dnia 11 lutego 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie akredytacji w zakresie obronności i bezpieczeństwa
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 10 lipca 2012 r. w sprawie akredytacji w zakresie obronności i bezpieczeństwa (Dz. U. z 2019 r. poz. 833), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 16 grudnia 2020 r. zmieniającym rozporządzenie w sprawie akredytacji w zakresie obronności i bezpieczeństwa (Dz. U. poz. 2298).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 16 grudnia 2020 r. zmieniającego rozporządzenie w sprawie akredytacji w zakresie obronności i bezpieczeństwa (Dz. U. poz. 2298), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Obrony Narodowej: z up. W. Skurkiewicz ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 10 lipca 2012 r.
-w sprawie akredytacji w zakresie obronności i bezpieczeństwa Na podstawie art. 16 ust. 2 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114 oraz z 2021 r. poz. 2052) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie akredytacji w zakresie obronności i bezpieczeństwa Na podstawie art. 16 ust. 2 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114 oraz z 2021 r. poz. 2052) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe wymagania, jakie powinny spełniać jednostki organizacyjne prowadzące ocenę zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa;
 2) wzór certyfikatu akredytacji w zakresie obronności i bezpieczeństwa (akredytacji OiB);
 3) szczegółowy sposób i tryb postępowania w zakresie udzielania akredytacji OiB jednostkom organizacyjnym.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ocenie należy przez to rozumieć proces realizowany w celu oceny kompetencji jednostki organizacyjnej, oparty o przepisy ustawy, normy lub inne dokumenty właściwe dla określonego zakresu akredytacji OiB;
-2) audytorze należy przez to rozumieć osobę wyznaczoną do przeprowadzenia, jako członek zespołu oceniającego, oceny jednostki organizacyjnej;
-3) audytorze wiodącym należy przez to rozumieć audytora odpowiedzialnego za organizację i przeprowadzenie, samodzielnie lub w zespole audytorów, oceny jednostki organizacyjnej oraz sporządzenie raportu i ustalenie wniosków z oceny;
-4) ekspercie należy przez to rozumieć osobę posiadającą odpowiednią wiedzę lub specjalistyczne umiejętności w odniesieniu do ocenianego zakresu akredytacji;
-5) ocenie na miejscu należy przez to rozumieć ocenę prowadzoną w siedzibie jednostki organizacyjnej, jej oddziałach i komórkach organizacyjnych, w których będą realizowane procesy objęte wnioskowanym zakresem akredytacji OiB.
+1) ocenie – należy przez to rozumieć proces realizowany w celu oceny kompetencji jednostki organizacyjnej, oparty o przepisy ustawy, normy lub inne dokumenty właściwe dla określonego zakresu akredytacji OiB;
+2) audytorze – należy przez to rozumieć osobę wyznaczoną do przeprowadzenia, jako członek zespołu oceniającego, oceny jednostki organizacyjnej;
+3) audytorze wiodącym – należy przez to rozumieć audytora odpowiedzialnego za organizację i przeprowadzenie, samodzielnie lub w zespole audytorów, oceny jednostki organizacyjnej oraz sporządzenie raportu i ustalenie wniosków z oceny;
+4) ekspercie – należy przez to rozumieć osobę posiadającą odpowiednią wiedzę lub specjalistyczne umiejętności w odniesieniu do ocenianego zakresu akredytacji;
+5) ocenie na miejscu – należy przez to rozumieć ocenę prowadzoną w siedzibie jednostki organizacyjnej, jej oddziałach i komórkach organizacyjnych, w których będą realizowane procesy objęte wnioskowanym zakresem akredytacji OiB.
 § 3. 1. Ocenę spełnienia przez jednostki organizacyjne wymagań określonych w art. 14 ust. 1 pkt 1–4 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa, zwanej dalej „ustawą”, przeprowadza w imieniu Ministra Obrony Narodowej Dyrektor Wojskowego Centrum Normalizacji, Jakości i Kodyfikacji, zwany dalej „Dyrektorem Centrum”, biorąc pod uwagę wymagania Polskich Norm.
 1a. Ocenę, o której mowa w ust. 1, Dyrektor Centrum może przeprowadzić na podstawie samej analizy informacji zapisanych w dokumentacji jednostki organizacyjnej, w przypadku:
 1) ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, o którym mowa w ustawie z dnia 5 grudnia 2008 r.
@@ -73,7 +73,8 @@ c) eksperci, w zależności od potrzeb i specyfiki wnioskowanego zakresu akredyt
 § 9. 1. Jednostka organizacyjna nie może odmówić przyjęcia członka zespołu oceniającego bez przedstawienia istotnych powodów takiej odmowy.
 2. Zakres oceny ujęty w planie, o którym mowa w § 8, obejmuje sprawdzenie spełnienia przez jednostkę organizacyjną wymagań określonych w art. 14 ust. 1 pkt 1–4 ustawy.
 3. W przypadku posiadania przez jednostkę organizacyjną akredytacji udzielonej przez Polskie Centrum Akredytacji Dyrektor Centrum może przeprowadzić ocenę spełnienia wymagań określonych w art. 14 ust. 1 pkt 1 i 3 ustawy w tej części wnioskowanego zakresu, która wykracza poza zakres akredytacji udzielonej przez Polskie Centrum Akredytacji.
-§ 10. 1. Po przeprowadzeniu oceny audytor wiodący sporządza raport, który przekazywany jest do jednostki organiza2. Raport, o którym mowa w ust. 1, zawiera w szczególności:
+§ 10. 1. Po przeprowadzeniu oceny audytor wiodący sporządza raport, który przekazywany jest do jednostki organizacyjnej.
+2. Raport, o którym mowa w ust. 1, zawiera w szczególności:
 1) ocenę stopnia spełnienia kryteriów akredytacji OiB przez jednostkę organizacyjną;
 2) opis niezgodności w przypadku ich występowania;
 3) sposób i termin usunięcia niezgodności.
@@ -95,5 +96,12 @@ c) eksperci, w zależności od potrzeb i specyfiki wnioskowanego zakresu akredyt
 1) posiadania przez jednostkę, o której mowa w ust. 1, akredytacji udzielonej przez Polskie Centrum Akredytacji w zakresie wnioskowanym do rozszerzenia;
 2) ogłoszenia stanu, o którym mowa w § 3 ust. 1a pkt 1, lub wprowadzenia stanu, o którym mowa w § 3 ust. 1a pkt 2–4.
 § 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-PODSTAWOWE INFORMACJE O WNIOSKUJĄCYM (część II)
+WZÓR (część I) PODSTAWOWE INFORMACJE O WNIOSKUJĄCYM (część II) Załącznik nr 2 WZÓR WZÓR MINISTERSTWO OBRONY NARODOWEJ MINISTRY OF NATIONAL DEFENCE CERTYFIKAT AKREDYTACJI W ZAKRESIE OBRONNOŚCI I BEZPIECZEŃSTWA (Akredytacji OiB) CERTIFICATE OF DEFENCE AND SECURITY ACCREDITATION (D&S Accreditation) Nr ……/MON/…… Potwierdza się, że / This is to certify that …………………………………................................
+…………………………………................................
+…………………………………................................
+ul. …................................
+.…..-…… ........................
+spełnia wymagania / meets the requirements of normy PN-EN …..…………………………………................................
+………………………...……………………………................................
+w zakresie / in the scope of akredytacji Nr ……/MON/…… / accreditation No. ……/MON/…… MINISTER OBRONY NARODOWEJ
 

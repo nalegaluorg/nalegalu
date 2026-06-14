@@ -2,15 +2,17 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych.*
 
-Łącznie: **1156** orzeczeń
+Łącznie: **1159** orzeczeń
 (pominięto 486 orzeczeń sądów rejonowych)
 
-## art. 1 (334)
+## art. 1 (336)
 
 - 2013-09-27 | SN | [I CSK 739/12](https://www.saos.org.pl/judgments/102934) | Wyrok ★
 - 2005-02-09 | SN | [II CK 413/04](https://www.saos.org.pl/judgments/162979) | Wyrok ★
 - 2002-04-05 | SN | [III RN 133/01](https://www.saos.org.pl/judgments/81331) | Wyrok ★
 - 2010-12-09 | SN | [IV CSK 248/10](https://www.saos.org.pl/judgments/93679) | Postanowienie
+- 2026-04-27 | SO | [III AUa 1100/24](https://www.saos.org.pl/judgments/546029) | Wyrok
+- 2026-02-04 | SO | [I AGa 338/23](https://www.saos.org.pl/judgments/545409) | Wyrok
 - 2025-12-02 | SO | [III AUa 1404/25](https://www.saos.org.pl/judgments/543458) | Wyrok
 - 2024-10-25 | SO | [I AGa 399/22](https://www.saos.org.pl/judgments/516683) | Wyrok
 - 2024-04-09 | SO | [III AUa 753/22](https://www.saos.org.pl/judgments/505157) | Wyrok
@@ -602,11 +604,12 @@ Orzeczenia powołujące: *Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i pr
 
 - 2016-04-20 | SO | [II AKa 105/16](https://www.saos.org.pl/judgments/257223) | Wyrok
 
-## art. 12 (83)
+## art. 12 (84)
 
 - 1998-07-26 | SN | [I PKN 196/98](https://www.saos.org.pl/judgments/78457) | Wyrok ★
 - 1997-06-11 | SN | [I PKN 146/97](https://www.saos.org.pl/judgments/77718) | Wyrok ★
 - 2010-12-09 | SN | [IV CSK 248/10](https://www.saos.org.pl/judgments/93679) | Postanowienie
+- 2026-02-04 | SO | [I AGa 338/23](https://www.saos.org.pl/judgments/545409) | Wyrok
 - 2022-05-11 | SO | [III AUa 759/20](https://www.saos.org.pl/judgments/471568) | Wyrok
 - 2021-09-07 | SO | [I AGa 123/20](https://www.saos.org.pl/judgments/451256) | Wyrok
 - 2021-07-13 | SO | [V ACa 312/21](https://www.saos.org.pl/judgments/449508) | Wyrok
@@ -1232,8 +1235,9 @@ Orzeczenia powołujące: *Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i pr
 
 - 2019-01-28 | SO | [V ACa 492/18](https://www.saos.org.pl/judgments/379717) | Wyrok
 
-## art. 43 (14)
+## art. 43 (15)
 
+- 2026-02-04 | SO | [I AGa 338/23](https://www.saos.org.pl/judgments/545409) | Wyrok
 - 2019-12-11 | SO | [I ACa 97/19](https://www.saos.org.pl/judgments/402027) | Wyrok
 - 2018-10-18 | SO | [I ACa 1293/17](https://www.saos.org.pl/judgments/371321) | Wyrok
 - 2017-03-16 | SO | [I ACa 1070/16](https://www.saos.org.pl/judgments/289615) | Wyrok
@@ -2631,10 +2635,11 @@ Orzeczenia powołujące: *Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i pr
 - 2017-10-04 | SO | [II C 610/14](https://www.saos.org.pl/judgments/320239) | Uzasadnienie
 - 2016-12-12 | SO | [V Ka 481/16](https://www.saos.org.pl/judgments/261835) | Uzasadnienie
 
-## art. 116 (52)
+## art. 116 (53)
 
 - 2008-09-16 | SN | [SNO 69/08](https://www.saos.org.pl/judgments/88727) | Wyrok ★
 - 2002-04-05 | SN | [III RN 133/01](https://www.saos.org.pl/judgments/81331) | Wyrok ★
+- 2026-04-27 | SO | [III AUa 1100/24](https://www.saos.org.pl/judgments/546029) | Wyrok
 - 2022-11-18 | SO | [V AGa 439/21](https://www.saos.org.pl/judgments/509928) | Wyrok
 - 2022-02-25 | SO | [II AKa 52/21](https://www.saos.org.pl/judgments/463855) | Wyrok
 - 2019-12-11 | SO | [I ACa 97/19](https://www.saos.org.pl/judgments/402027) | Wyrok
@@ -2865,8 +2870,9 @@ Orzeczenia powołujące: *Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i pr
 - 2019-01-29 | SO | [VII U 1494/18](https://www.saos.org.pl/judgments/392715) | Wyrok
 - 2019-01-22 | SO | [VII U 1465/18](https://www.saos.org.pl/judgments/392713) | Wyrok
 
-## (ogólnie) (130)
+## (ogólnie) (131)
 
+- 2025-12-05 | SO | [VII AGa 581/21](https://www.saos.org.pl/judgments/546722) | Wyrok
 - 2023-11-14 | SO | [III AUa 545/19](https://www.saos.org.pl/judgments/505052) | Wyrok
 - 2023-09-29 | SO | [I AGa 429/21](https://www.saos.org.pl/judgments/495095) | Wyrok
 - 2022-04-20 | SO | [III AUa 929/17](https://www.saos.org.pl/judgments/472477) | Wyrok

@@ -8,7 +8,7 @@ pos: 82
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw
@@ -31,11 +31,21 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** bankowe postępowanie ugodowe;
+- **2)** publiczną sprzedaż wierzytelności bankowych;
+- **3)** (uchylony)
+- **4)** przekazywanie środków na powiększenie funduszy własnych banków państwowych oraz banków, w których Skarb Państwa posiada więcej niż 50% akcji lub udziałów.
+
 **Art. 2.** Uprawnienia i obowiązki banku określone w rozdziałach 2 i 3 przysługują każdemu bankowi.
 
 **Art. 3.** Uprawnienia i obowiązki banku określone w rozdziałach 2 i 3 przysługują także Agencji Rozwoju Przemysłu Spółka Akcyjna.
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** spółkach – należy przez to rozumieć spółki akcyjne i spółki z ograniczoną odpowiedzialnością;
+- **2)** akcjach – należy przez to rozumieć akcje w spółce akcyjnej i udziały w spółce z ograniczoną odpowiedzialnością;
+- **3)** statutach – należy przez to rozumieć statuty spółek akcyjnych oraz umowy i akty założycielskie spółek z ograniczoną odpowiedzialnością;
+- **4)** wartości księgowej netto – należy przez to rozumieć, w przypadku spółki, sumę kapitałów własnych skorygowaną o wynik finansowy, a w przypadku przedsiębiorstwa państwowego, sumę funduszy własnych skorygowaną o wynik finansowy.
 
 #### Rozdział 2 Bankowe postępowanie ugodowe
 
@@ -67,6 +77,9 @@ source: "isap-pdf"
 4. Przez ogólną kwotę zobowiązań dłużnika, będącego Krajowym Ośrodkiem Wsparcia Rolnictwa, rozumie się kwotę zobowiązań określoną w protokole zdawczo-odbiorczym, o którym mowa w ust. 2.
 
 **Art. 8.** Bankiem właściwym do wszczęcia bankowego postępowania ugodowego jest:
+
+- **1)** bank, którego suma wierzytelności wobec dłużnika jest największa spośród wszystkich wierzytelności bankowych;
+- **2)** inny bank będący wierzycielem, jeżeli bank, o którym mowa w pkt 1, nie wszczął bankowego postępowania ugodowego w terminie 30 dni od dnia złożenia przez dłużnika wniosku o wszczęcie postępowania, a w przypadku określonym w art. 10 ust. 1, w terminie 30 dni od przedstawienia lub uzupełnienia programu uzdrowienia gospodarki przez dłużnika.
 
 **Art. 9.**
 
@@ -102,6 +115,13 @@ source: "isap-pdf"
 3. Przepisów ust. 2 nie stosuje się do przedsiębiorstw państwowych, których prywatyzacja wymaga zgody Rady Ministrów na podstawie odrębnych przepisów, chyba że Rada Ministrów wyrazi zgodę na prywatyzację, oraz do państwowych przedsiębiorstw gospodarki rolnej.
 
 **Art. 11.** Bankowym postępowaniem ugodowym, z zastrzeżeniem art. 12, objęte są wszelkie wierzytelności, z wyłączeniem wierzytelności:
+
+- **1)** z tytułu ubezpieczeń społecznych;
+- **2)** ze stosunku pracy;
+- **3)** z umowy o rentę lub o dożywocie;
+- **4)** zabezpieczonych zastawem, z wyjątkiem zastawów ustanowionych później niż na 30 dni przed złożeniem wniosku o wszczęcie bankowego postępowania ugodowego oraz zastawów ustawowych w rozumieniu ustawy z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz. U. poz. 111, z późn. zm. );
+- **5)** zabezpieczonych hipoteką, z wyjątkiem hipotek ustanowionych później niż na 30 dni przed złożeniem wniosku o wszczęcie bankowego postępowania ugodowego oraz hipotek przymusowych i hipotek ustawowych w rozumieniu ustawy z dnia 31 stycznia 1989 r. – Prawo bankowe (Dz. U. z 1992 r. poz. 359 oraz z 1993 r. poz. 29);
+- **6)** powstałych z tytułu pobierania przez dłużnika – zobowiązanego jako płatnik w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm. ) – zaliczek na podatek dochodowy.
 
 **Art. 12.**
 
@@ -260,6 +280,9 @@ source: "isap-pdf"
 
 **Art. 27.** Jeżeli dłużnik nie wykonuje wynikających z ugody bankowej zobowiązań, bank, który prowadził postępowanie ugodowe, z własnej inicjatywy lub na wniosek innego wierzyciela, o którym mowa w pkt 2:
 
+- **1)** występuje do sądu rejonowego – sądu gospodarczego, właściwego dla siedziby dłużnika, z wnioskiem o rozwiązanie ugody bankowej lub
+- **2)** zaspokaja wierzyciela pokrzywdzonego niewykonywaniem ugody bankowej przez dłużnika.
+
 **Art. 28.**
 
 - **6)** Do postępowania sądowego dotyczącego rozwiązania ugody bankowej mają zastosowanie przepisy art. 23 ust. 2 oraz art. 24 ust. 2 i 3.
@@ -275,6 +298,10 @@ source: "isap-pdf"
 2. W okresie, o którym mowa w ust. 1, ulega zawieszeniu bieg terminów przedawnienia wierzytelności objętych bankowym postępowaniem ugodowym.
 
 **Art. 32.** W razie rozwiązania ugody bankowej przez sąd:
+
+- **1)** dokonane na podstawie ugody bankowej czynności dłużnika pozostają w mocy, a wypłacone lub wyegzekwowane kwoty nie podlegają zwrotowi;
+- **2)** wierzyciele zachowują prawo do niespłaconej przez dłużnika części wierzytelności istniejącej przed zawarciem ugody bankowej;
+- **3)** bankowe postępowanie ugodowe nie może być ponownie wszczęte wobec tego samego dłużnika, chyba że przedmiotem bankowego postępowania ugodowego mają być wierzytelności wobec innego państwowego przedsiębiorstwa gospodarki rolnej, zlikwidowanego i przejętego przez Krajowy Ośrodek Wsparcia Rolnictwa, niż wobec tego przedsiębiorstwa, którego wierzytelności już objęte zostały ugodą bankową.
 
 **Art. 33.** Jeżeli dłużnik udzielił niektórym wierzycielom korzyści większych niż przewidziane w ugodzie, każdy wierzyciel w ciągu 2 lat od dnia uprawomocnienia się ugody może w drodze powództwa żądać solidarnie od dłużnika i wierzyciela, który osiągnął nienależną korzyść, uiszczenia sumy, o jaką w ugodzie zmniejszona została wierzytelność żądającego. Wierzyciel, który osiągnął nienależną korzyść, odpowiada tylko do wysokości tej korzyści.
 
@@ -311,6 +338,10 @@ source: "isap-pdf"
 
 **Art. 39.** Wymagalne wierzytelności bankowe są zbywane:
 
+- **1)** w drodze przetargu;
+- **2)** na podstawie oferty ogłoszonej publicznie;
+- **3)** w wyniku rokowań podjętych na podstawie publicznego zaproszenia.
+
 **Art. 40.**
 
 1. O zamiarze sprzedaży wymagalnych wierzytelności bank ogłasza w trybie określonym w art. 14 ust. 1.
@@ -323,6 +354,9 @@ source: "isap-pdf"
 - **4)** organ założycielski oraz Ministra Przekształceń Własnościowych, jeżeli dłużnikiem jest przedsiębiorstwo państwowe.
 
 **Art. 41.** Do przelewu wierzytelności, o której mowa w art. 40, stosuje się przepisy Kodeksu cywilnego o zmianie wierzyciela, z następującymi wyjątkami:
+
+- **1)** w żadnym przypadku nie jest wymagana zgoda dłużnika;
+- **2)** przelew nie może być dokonany na rzecz dłużnika lub podmiotu będącego w stosunku do dłużnika podmiotem dominującym lub zależnym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2018 r. poz. 512 i 685).
 
 **Art. 42.** Przy publicznej sprzedaży wymagalnych wierzytelności bankowych nie stosuje się przepisów ustawy Prawo bankowe o przestrzeganiu tajemnicy obrotów i stanów rachunków bankowych, w zakresie wierzytelności oferowanych do sprzedaży.
 
@@ -356,6 +390,9 @@ source: "isap-pdf"
 - **5)** dłużnikiem jest Krajowy Ośrodek Wsparcia Rolnictwa lub państwowe przedsiębiorstwo gospodarki rolnej.
 
 **Art. 54.** Minister Finansów określi, w drodze rozporządzenia:
+
+- **1)** banki, którym zostaną przekazane obligacje skarbowe i środki pieniężne;
+- **2)** podział kwoty, przeznaczonej w ustawie budżetowej na zwiększenie funduszy własnych i rezerw banków, między banki, o których mowa w pkt 1.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy końcowe
 

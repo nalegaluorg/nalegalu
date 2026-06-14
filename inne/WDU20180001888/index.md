@@ -8,10 +8,10 @@ pos: 1888
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 października 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1888 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 14 września 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001888) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1888/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 14 września 2018 r.
-w sprawie sposobu dokumentowania kontroli operacyjnej prowadzonej przez Biuro Nadzoru Wewnętrznego Na podstawie art. 11n ust. 28 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie sposobu dokumentowania kontroli operacyjnej prowadzonej przez Biuro Nadzoru Wewnętrznego Na podstawie art. 11n ust. 28 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób dokumentowania kontroli operacyjnej;
 2) sposób przechowywania i przekazywania wniosków i zarządzeń;
 3) sposób przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli;
@@ -49,19 +49,20 @@ w sprawie sposobu dokumentowania kontroli operacyjnej prowadzonej przez Biuro Na
 2) kopie wykonane z nośników, o których mowa w pkt 1;
 3) dokumenty sporządzone na podstawie informacji utrwalonych na nośnikach i kopiach, o których mowa w pkt 1 i 2.
 3. Dokumenty, o których mowa w ust. 1 pkt 1–7 i 10–12, sporządza się według wzorów:
-1) formularza zawierającego: wniosek Inspektora Nadzoru Wewnętrznego do Sądu Okręgowego w Warszawie o zarządzenie lub przedłużenie kontroli, decyzję Prokuratora Generalnego w zakresie zgody na złożenie tego wniosku oraz postanowienie Sądu Okręgowego w Warszawie w przedmiocie zarządzenia lub przedłużenia kontroli który jest określony w załączniku nr 1 do rozporządzenia;
-2) formularza zawierającego: wniosek Inspektora Nadzoru Wewnętrznego do Prokuratora Generalnego o wyrażenie zgody na zarządzenie kontroli w przypadkach niecierpiących zwłoki, decyzję Prokuratora Generalnego w zakresie tego wniosku, zarządzenie kontroli przez Inspektora Nadzoru Wewnętrznego w przypadkach niecierpiących zwłoki oraz wniosek Inspektora Nadzoru Wewnętrznego do Sądu Okręgowego w Warszawie w przedmiocie kontynuowania kontroli zarządzonej przez Inspektora Nadzoru Wewnętrznego w przypadkach niecierpiących zwłoki i postanowienie Sądu Okręgowego w Warszawie w zakresie tego wniosku który jest określony w załączniku nr 2 do rozporządzenia;
-3) formularza zarządzenia Inspektora Nadzoru Wewnętrznego o protokolarnym, komisyjnym zniszczeniu materiałów zgromadzonych podczas stosowania kontroli który jest określony w załączniku nr 3 do rozporządzenia;
-4) formularza protokołu komisyjnego zniszczenia materiałów zgromadzonych podczas stosowania kontroli który jest określony w załączniku nr 4 do rozporządzenia;
-5) formularza notatki urzędowej z przeprowadzonej kontroli, sporządzonej przez inspektora Biura Nadzoru Wewnętrznego prowadzącego sprawę, w ramach której zarządzono kontrolę który jest określony w załączniku nr 5 do rozporządzenia.
+1) formularza zawierającego: wniosek Inspektora Nadzoru Wewnętrznego do Sądu Okręgowego w Warszawie o zarządzenie lub przedłużenie kontroli, decyzję Prokuratora Generalnego w zakresie zgody na złożenie tego wniosku oraz postanowienie Sądu Okręgowego w Warszawie w przedmiocie zarządzenia lub przedłużenia kontroli – który jest określony w załączniku nr 1 do rozporządzenia;
+2) formularza zawierającego: wniosek Inspektora Nadzoru Wewnętrznego do Prokuratora Generalnego o wyrażenie zgody na zarządzenie kontroli w przypadkach niecierpiących zwłoki, decyzję Prokuratora Generalnego w zakresie tego wniosku, zarządzenie kontroli przez Inspektora Nadzoru Wewnętrznego w przypadkach niecierpiących zwłoki oraz wniosek Inspektora Nadzoru Wewnętrznego do Sądu Okręgowego w Warszawie w przedmiocie kontynuowania kontroli zarządzonej przez Inspektora Nadzoru Wewnętrznego w przypadkach niecierpiących zwłoki i postanowienie Sądu Okręgowego w Warszawie w zakresie tego wniosku – który jest określony w załączniku nr 2 do rozporządzenia;
+3) formularza zarządzenia Inspektora Nadzoru Wewnętrznego o protokolarnym, komisyjnym zniszczeniu materiałów zgromadzonych podczas stosowania kontroli – który jest określony w załączniku nr 3 do rozporządzenia;
+4) formularza protokołu komisyjnego zniszczenia materiałów zgromadzonych podczas stosowania kontroli – który jest określony w załączniku nr 4 do rozporządzenia;
+5) formularza notatki urzędowej z przeprowadzonej kontroli, sporządzonej przez inspektora Biura Nadzoru Wewnętrznego prowadzącego sprawę, w ramach której zarządzono kontrolę – który jest określony w załączniku nr 5 do rozporządzenia.
 4. Dokumenty, o których mowa w ust. 1:
-1) pkt 1–7 oraz pkt 12 sporządza się w trzech egzemplarzach;
-2) pkt 8–11 sporządza się w dwóch egzemplarzach, przy czym dokumenty, o których mowa w pkt 10, mogą być sporządzane w jednym egzemplarzu w przypadku przekazywania kopii tych dokumentów w drodze teletransmisji z zastosowaniem odpowiednich urządzeń i narzędzi kryptograficznych.
+1) pkt 1–7 oraz pkt 12 – sporządza się w trzech egzemplarzach;
+2) pkt 8–11 – sporządza się w dwóch egzemplarzach, przy czym dokumenty, o których mowa w pkt 10, mogą być sporządzane w jednym egzemplarzu w przypadku przekazywania kopii tych dokumentów w drodze teletransmisji z zastosowaniem odpowiednich urządzeń i narzędzi kryptograficznych.
 5. Dokumenty, o których mowa w ust. 1, przechowują:
-1) Sąd Okręgowy w Warszawie pierwszy egzemplarz wydanych postanowień, pisemnych zgód Prokuratora Generalnego, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, a także zażaleń Inspektora Nadzoru Wewnętrznego lub Prokuratora Generalnego;
-2) Prokurator Generalny drugi egzemplarz postanowień Sądu Okręgowego w Warszawie, pisemnych zgód, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, zażaleń Prokuratora Generalnego oraz pierwszy egzemplarz notatek urzędowych;
-3) Inspektor Nadzoru Wewnętrznego zarządzający kontrolę lub wnioskujący o zarządzenie kontroli trzeci egzemplarz postanowień Sądu Okręgowego w Warszawie, pisemnych zgód Prokuratora Generalnego, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, drugi egzemplarz notatek urzędowych i zażaleń Inspektora Nadzoru Wewnętrznego na postanowienia Sądu Okręgowego w Warszawie, protokołów komisyjnego zniszczenia materiałów zgromadzonych podczas kontroli i zarządzeń o protokolarnym, komisyjnym zniszczeniu materiałów uzyskanych podczas kontroli oraz pojedynczy egzemplarz zarządzenia o wstrzymaniu lub zakończeniu kontroli;
-4) komórka organizacyjna wykonująca zarządzenie w sprawie kontroli kopie trzecich egzemplarzy postanowień sądu, pisemnych zgód prokuratora, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń w tej sprawie lub wyciągów z tych zarządzeń niezawierających uzasadnień, zarządzenia o protokolarnym, komisyjnym zniszczeniu materiałów uzyskanych podczas kontroli, drugi egzemplarz protokołów komisyjnego zniszczenia materiałów zgromadzonych § 3. 1. Sąd Okręgowy w Warszawie prowadzi rejestr postanowień dotyczących kontroli operacyjnej prowadzonej przez Biuro Nadzoru Wewnętrznego. Wzór rejestru w formie zwizualizowanej jest określony w załączniku nr 6 do rozporządzenia.
+1) Sąd Okręgowy w Warszawie – pierwszy egzemplarz wydanych postanowień, pisemnych zgód Prokuratora Generalnego, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, a także zażaleń Inspektora Nadzoru Wewnętrznego lub Prokuratora Generalnego;
+2) Prokurator Generalny – drugi egzemplarz postanowień Sądu Okręgowego w Warszawie, pisemnych zgód, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, zażaleń Prokuratora Generalnego oraz pierwszy egzemplarz notatek urzędowych;
+3) Inspektor Nadzoru Wewnętrznego zarządzający kontrolę lub wnioskujący o zarządzenie kontroli – trzeci egzemplarz postanowień Sądu Okręgowego w Warszawie, pisemnych zgód Prokuratora Generalnego, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń kontroli, drugi egzemplarz notatek urzędowych i zażaleń Inspektora Nadzoru Wewnętrznego na postanowienia Sądu Okręgowego w Warszawie, protokołów komisyjnego zniszczenia materiałów zgromadzonych podczas kontroli i zarządzeń o protokolarnym, komisyjnym zniszczeniu materiałów uzyskanych podczas kontroli oraz pojedynczy egzemplarz zarządzenia o wstrzymaniu lub zakończeniu kontroli;
+4) komórka organizacyjna wykonująca zarządzenie w sprawie kontroli – kopie trzecich egzemplarzy postanowień sądu, pisemnych zgód prokuratora, wniosków o zarządzenie lub przedłużenie kontroli i zarządzeń w tej sprawie lub wyciągów z tych zarządzeń niezawierających uzasadnień, zarządzenia o protokolarnym, komisyjnym zniszczeniu materiałów uzyskanych podczas kontroli, drugi egzemplarz protokołów komisyjnego zniszczenia materiałów zgromadzonych podczas kontroli oraz trzecie egzemplarze notatek urzędowych.
+§ 3. 1. Sąd Okręgowy w Warszawie prowadzi rejestr postanowień dotyczących kontroli operacyjnej prowadzonej przez Biuro Nadzoru Wewnętrznego. Wzór rejestru w formie zwizualizowanej jest określony w załączniku nr 6 do rozporządzenia.
 2. Prokurator Generalny prowadzi rejestr zgód dotyczących kontroli operacyjnej prowadzonej przez Biuro Nadzoru Wewnętrznego. Wzór rejestru w formie zwizualizowanej jest określony w załączniku nr 7 do rozporządzenia.
 3. Inspektor Nadzoru Wewnętrznego prowadzi rejestr wniosków i zarządzeń dotyczących kontroli operacyjnej prowadzonej przez Biuro Nadzoru Wewnętrznego. Wzór rejestru w formie zwizualizowanej jest określony w załączniku nr 8 do rozporządzenia.
 § 4. 1. Przekazywanie dokumentacji kontroli odbywa się za pośrednictwem inspektora Biura Nadzoru Wewnętrznego posiadającego pisemne upoważnienie.
@@ -74,7 +75,7 @@ w sprawie sposobu dokumentowania kontroli operacyjnej prowadzonej przez Biuro Na
 § 6. 1. Dokumentację, o której mowa w § 2 ust. 2, przetwarza się i przechowuje w odrębnych zbiorach tworzonych dla poszczególnych podmiotów, wobec których jest stosowana kontrola.
 2. Pozostałą dokumentację dotyczącą stosowanej kontroli przetwarza się i przechowuje w odrębnych zbiorach dokumentów związanych z realizacją czynności operacyjno - rozpoznawczych.
 § 7. 1. Protokolarnego, komisyjnego zniszczenia materiałów niezawierających dowodów pozwalających na wszczęcie postępowania karnego lub niemających znaczenia dla toczącego się postępowania karnego albo zgromadzonych podczas kontroli zarządzonej przez Inspektora Nadzoru Wewnętrznego w przypadku, gdy Sąd Okręgowy w Warszawie nie wyraził zgody na jej kontynuowanie, dokonują inspektorzy Biura Nadzoru Wewnętrznego prowadzący sprawę lub funkcjonariusze komórki organizacyjnej wykonującej zarządzenie w sprawie kontroli Inspektora Nadzoru Wewnętrznego.
-2. Przepisy ust. 1 stosuje się odpowiednio do materiałów zawierających informacje, o których mowa w art. 178 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm. ), zwanej dalej „Kodeksem postępowania karnego”, oraz do materiałów mogących zawierać informacje, o których mowa w art. 178a i art. 180 § 3 Kodeksu postępowania karnego, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 Kodeksu postępowania karnego, w odniesieniu do których sąd zarządził ich niezwłoczne zniszczenie.
+2. Przepisy ust. 1 stosuje się odpowiednio do materiałów zawierających informacje, o których mowa w art. 178 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm. ), zwanej dalej „Kodeksem postępowania karnego”, oraz do materiałów mogących zawierać informacje, o których mowa w art. 178a i art. 180 § 3 Kodeksu postępowania karnego, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 Kodeksu postępowania karnego, w odniesieniu do których sąd zarządził ich niezwłoczne zniszczenie.
 § 8. 1. Zniszczenie materiałów zgromadzonych podczas stosowania kontroli, o których mowa w § 7, przeprowadza się przez:
 1) fizyczne zniszczenie dokumentów, o których mowa w § 2 ust. 2 pkt 3;
 2) usunięcie zapisów informacji utrwalonych na nośnikach, o których mowa w § 2 ust. 2 pkt 1 i 2, w sposób uniemożliwiający odtworzenie treści tych zapisów.

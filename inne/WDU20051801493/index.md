@@ -8,7 +8,7 @@ pos: 1493
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przeciwdziałaniu przemocy domowej Preambuła (uchylona)
@@ -99,9 +99,18 @@ source: "isap-pdf"
 
 **Art. 5.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
+- **1)** standard podstawowych usług świadczonych przez specjalistyczne ośrodki wsparcia dla osób doznających przemocy domowej,
+- **2)** wymagania kwalifikacyjne wobec osób zatrudnionych w specjalistycznych ośrodkach wsparcia dla osób doznających przemocy domowej – uwzględniając konieczność dostosowania zakresu pomocy do sytuacji oraz potrzeb osób doznających przemocy domowej, a także efektywność usług świadczonych przez specjalistyczne ośrodki wsparcia dla osób doznających przemocy domowej.
+
 **Art. 5a.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
+- **1)** standard prowadzenia programów korekcyjno-edukacyjnych dla osób stosujących przemoc domową,
+- **2)** wymagania kwalifikacyjne wobec osób prowadzących programy korekcyjno-edukacyjne dla osób stosujących przemoc domową – uwzględniając konieczność dostosowania zakresu pomocy do sytuacji oraz potrzeb osób doznających przemocy domowej, a także skuteczność programów korekcyjno-edukacyjnych dla osób stosujących przemoc domową.
+
 **Art. 5b.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+- **1)** standard prowadzenia programów psychologiczno-terapeutycznych dla osób stosujących przemoc domową,
+- **2)** wymagania kwalifikacyjne wobec osób prowadzących programy psychologiczno-terapeutyczne dla osób stosujących przemoc domową – uwzględniając konieczność dostosowania zakresu pomocy do sytuacji oraz potrzeb osób doznających przemocy domowej, a także skuteczność programów psychologiczno-terapeutycznych dla osób stosujących przemoc domową.
 
 **Art. 6.**
 
@@ -141,6 +150,9 @@ source: "isap-pdf"
 
 **Art. 6a.** Osoby kierujące specjalistycznymi ośrodkami wsparcia dla osób doznających przemocy domowej są obowiązane posiadać specjalizację z zakresu organizacji pomocy społecznej oraz:
 
+- **1)** co najmniej 3-letni staż pracy w instytucjach lub placówkach realizujących zadania na rzecz przeciwdziałania przemocy domowej, lub
+- **2)** co najmniej 3-letni staż pracy w pomocy społecznej, w tym co najmniej roczny staż pracy w instytucjach lub placówkach realizujących zadania na rzecz przeciwdziałania przemocy domowej.
+
 **Art. 7.**
 
 1. Do zadań wojewody należy w szczególności:
@@ -160,6 +172,17 @@ source: "isap-pdf"
 - **2)** kwalifikacje Wojewódzkiego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej – uwzględniając konieczność zapewnienia odpowiedniego poziomu wykonywania zadań.
 
 **Art. 8.** Do zadań podmiotu, o którym mowa w art. 18 ust. 2 ustawy z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2025 r. poz. 1452 oraz z 2026 r. poz. 160), zwanego dalej „podmiotem, o którym mowa w art. 18 ust. 2 ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania”, należy w szczególności:
+
+- **1)** zlecanie i finansowanie badań, ekspertyz i analiz dotyczących zjawiska przemocy domowej;
+- **2)** prowadzenie działań promujących podnoszenie świadomości społecznej w zakresie przyczyn i skutków przemocy domowej;
+- **3)** wykonywanie zadań Krajowego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej;
+- **4)** monitorowanie realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej;
+- **5)** opracowanie i wydawanie co najmniej raz na dwa lata wytycznych do prowadzenia szkoleń w zakresie przeciwdziałania przemocy domowej, w tym obowiązkowych szkoleń dla członków zespołu interdyscyplinarnego oraz grup diagnostyczno-pomocowych;
+- **6)** opracowywanie i finansowanie programów osłonowych z zakresu przeciwdziałania przemocy domowej;
+- **7)** finansowe wspieranie programów z zakresu przeciwdziałania przemocy domowej realizowanych przez:
+    - **a)** jednostki samorządu terytorialnego,
+    - **b)** organizacje pozarządowe działające na rzecz przeciwdziałania przemocy domowej,
+    - **c)** jednostki organizacyjne działające na podstawie przepisów o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej, stosunku Państwa do innych kościołów i związków wyznaniowych oraz o gwarancji wolności sumienia i wyznania, jeżeli ich cele statutowe obejmują prowadzenie działalności w zakresie przeciwdziałania przemocy domowej.
 
 **Art. 8a.** Do zadań Prokuratora Generalnego należy opracowywanie i wydawanie co najmniej raz na dwa lata wytycznych dotyczących zasad postępowania powszechnych jednostek organizacyjnych prokuratury w zakresie przeciwdziałania przemocy domowej.
 

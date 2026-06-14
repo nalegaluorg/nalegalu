@@ -8,10 +8,10 @@ pos: 1651
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 listopada 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1651 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 listopada 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,17 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001651) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1651/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 listopada 2014 r.
-zmieniające rozporządzenie w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin Na podstawie art. 40 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 kwietnia 2013 r. w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin (Dz. U. poz. 517 oraz z 2014 r. poz. 441) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin Na podstawie art. 40 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 kwietnia 2013 r. w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin (Dz. U. poz. 517 oraz z 2014 r. poz. 441) wprowadza się następujące zmiany:
 1) w § 17 w ust. 1:
-a) w pkt 1 lit. a otrzymuje brzmienie: „a) ostatniej cyfry roku zbioru albo łączenia jeżeli jest to partia utworzona przez połączenie kilku partii,”,
-b) w pkt 2: lit. c oraz d otrzymują brzmienie: „c) numeru świadectwa oceny weryfikacyjnej, po którym dopisuje się ukośnik,
-d) litery alfabetu odpowiadającej kolejnej partii z danej plantacji nasiennej.”, uchyla się lit. e;
+a) w pkt 1 lit. a otrzymuje brzmienie: „a) ostatniej cyfry roku zbioru albo łączenia – jeżeli jest to partia utworzona przez połączenie kilku partii,”,
+b) w pkt 2: – lit. c oraz d otrzymują brzmienie: „c) numeru świadectwa oceny weryfikacyjnej, po którym dopisuje się ukośnik,
+d) litery alfabetu odpowiadającej kolejnej partii z danej plantacji nasiennej.”, – uchyla się lit. e;
 2) w załączniku nr 1:
 a) w objaśnieniu po tabeli 1 „Kategorie i stopnie kwalifikacji materiału siewnego roślin rolniczych i warzywnych, z wyłączeniem sadzeniaków ziemniaka” ostatnie zdanie otrzymuje brzmienie: „W przypadku gdy we wnioskach, w protokołach, świadectwach i informacjach dotyczących materiału siewnego przy symbolu stopnia po ukośniku nie będzie podane oznaczenie kolejności rozmnożenia, przyjmuje się zawsze stopień najniższy określony dla gatunku (odpowiednio: PB /II, C /2 lub, jeśli dotyczy, C /3).”,
 b) tabela 2 „Kategorie i stopnie kwalifikacji sadzeniaków ziemniaka” otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 3) w załączniku nr 2:
-a) w części I „Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych” w ust. 5 „Izolacja przestrzenna” w lp. 2 kolumna 2 otrzymuje brzmienie: „ dla odmian samopylnych pszenżyta odległość od innych zasiewów pszenżyta”,
+a) w części I „Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych” w ust. 5 „Izolacja przestrzenna” w lp. 2 kolumna 2 otrzymuje brzmienie: „ – dla odmian samopylnych pszenżyta odległość od innych zasiewów pszenżyta”,
 b) w części II „Wymagania dotyczące wytwarzania materiału siewnego roślin pastewnych” w ust. 2 „Wymagania dotyczące oceny stanu plantacji przedplonu i izolacji przestrzennej” w pkt 3 „izolacja przestrzenna” w kolumnie „Bobowate grubonasienne” wprowadzenie do wyliczenia otrzymuje brzmienie: „Od innych upraw tego samego gatunku:”;
 4) załącznik nr 3 otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
 § 2. Wytworzone zgodnie z przepisami rozporządzenia, o którym mowa w § 1, w brzmieniu dotychczasowym, sadzeniaki ziemniaka kategorii:
@@ -50,7 +50,7 @@ Minister Rolnictwa i Rozwoju Wsi: wz. K. Plocke SZCZEGÓŁOWE WYMAGANIA DOTYCZĄ
 2. Wyboru systemu kwalifikacji dokonuje składający wniosek o dokonanie oceny materiału siewnego ziemniaka.
 3. Oceny polowej, pobierania prób do oceny weryfikacyjnej, oceny weryfikacyjnej oraz oceny cech zewnętrznych dokonuje się zgodnie z metodami określonymi w przepisach wydanych na podstawie art. 51 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865).
 4. W ocenie polowej, jak i ocenie weryfikacyjnej wyróżnia się następujące porażenia wirusami (wirusem liściozwoju ziemniaka (PLRV), wirusem A ziemniaka (PVA), wirusem M ziemniaka (PVM), wirusem S ziemniaka (PVS), wirusem X ziemniaka (PVX), wirusem Y ziemniaka (PVY)):
-1) ł agodne, objawiające się różnego rodzaju zmianami na liściach, takimi jak lekkie mozaiki, plamistości czy deformacje;
+1) łagodne, objawiające się różnego rodzaju zmianami na liściach, takimi jak lekkie mozaiki, plamistości czy deformacje;
 2) ostre, charakteryzujące się:
 a) smugowatymi lub plamistymi nekrozami na liściach,
 b) wyraźnymi mozaikami i przebarwieniami liści,
@@ -74,8 +74,8 @@ c) wirus X ziemniaka (PVX) łącznie z wirusem S ziemniaka (PVS).
 3) warunki pogodowe.
 8. Ocena polowa:
 1) ocena stanu plantacji:
-a) dla plantacji, na których są wytwarzane sadzeniaki ziemniaka, przeprowadza się dwie oceny stanu plantacji: pierwszą kiedy rośliny osiągną wysokość do 20 cm, drugą w okresie od pełni kwitnienia plantacji do dwóch tygodni po kwitnieniu, jednak nie później niż przed początkiem żółknięcia i zasychania liści lub bezpośrednio przed zabiegiem niszczenia naci,
-b) t rzecia ocena stanu plantacji sadzeniaka ziemniaka jest przeprowadzana w przypadku zakwalifikowania plantacji nasiennej, po przeprowadzeniu oceny weryfikacyjnej metodą uproszczoną określoną w przepisach wydanych na podstawie art. 51 ustawy z dnia 9 listopada 2012 r. o nasiennictwie;
+a) dla plantacji, na których są wytwarzane sadzeniaki ziemniaka, przeprowadza się dwie oceny stanu plantacji: – pierwszą – kiedy rośliny osiągną wysokość do 20 cm, – drugą – w okresie od pełni kwitnienia plantacji do dwóch tygodni po kwitnieniu, jednak nie później niż przed początkiem żółknięcia i zasychania liści lub bezpośrednio przed zabiegiem niszczenia naci,
+b) trzecia ocena stanu plantacji sadzeniaka ziemniaka jest przeprowadzana w przypadku zakwalifikowania plantacji nasiennej, po przeprowadzeniu oceny weryfikacyjnej metodą uproszczoną określoną w przepisach wydanych na podstawie art. 51 ustawy z dnia 9 listopada 2012 r. o nasiennictwie;
 2) plantacja nasienna ziemniaka jest oddzielona od innych plantacji nasiennych ziemniaka lub upraw ziemniaka pasem technologicznym o szerokości co najmniej dwóch redlin;
 3) podczas każdej oceny stanu plantacji prowadzi się obserwację występowania organizmów kwarantannowych, w szczególności Clavibacter michiganensis ssp. sepedonicus; stwierdzenie obecności występowania organizmów kwarantannowych stanowi podstawę do dyskwalifikacji plantacji;
 4) czystość gatunkowa i zachwaszczenie:
@@ -87,7 +87,7 @@ b) plantacja nasienna ziemniaka powinna być wolna od organizmów kwarantannowyc
 6) plantację nasienną ziemniaka dyskwalifikuje się, jeżeli:
 a) wyrównanie roślin uniemożliwia prawidłowe wykonanie oceny,
 b) występują puste miejsca w ilości większej niż 30% powierzchni plantacji,
-c) s tan wegetacji roślin jest wyraźnie opóźniony w stosunku do przeciętnego stanu innych upraw ziemniaka tej samej odmiany w danym rejonie.
+c) stan wegetacji roślin jest wyraźnie opóźniony w stosunku do przeciętnego stanu innych upraw ziemniaka tej samej odmiany w danym rejonie.
 9. Ocena weryfikacyjna sadzeniaków ziemniaka jest dokonywana w przypadku zakwalifikowania plantacji nasiennej po ocenie polowej, w celu weryfikacji wyników oceny polowej w zakresie stopnia porażenia chorobami wirusowymi, w szczególności:
 1) wirusem liściozwoju ziemniaka (PLRV);
 2) wirusem A ziemniaka (PVA);
@@ -100,20 +100,20 @@ c) s tan wegetacji roślin jest wyraźnie opóźniony w stosunku do przeciętneg
 a) sadzeniaki ziemniaka powinny być wolne od organizmów kwarantannowych,
 b) dopuszczalną wielkość partii stanowi zbiór sadzeniaków ziemniaka netto z jednej plantacji, nie więcej jednak niż 50 ton; wielkość partii może być przekroczona nie więcej niż o 5%,
 c) partia sadzeniaków ziemniaka przygotowana do oceny cech zewnętrznych powinna być jednolita pod względem cech jakościowych,
-d) sadzeniaki ziemniaka w partii powinny: nie wykazywać objawów nadmarznięcia, zaparzenia lub porośnięcia, mieć kształt i zabarwienie miąższu typowe dla odmiany;
+d) sadzeniaki ziemniaka w partii powinny: – być dojrzałe, czyste i suche, – nie wykazywać objawów nadmarznięcia, zaparzenia lub porośnięcia, – mieć kształt i zabarwienie miąższu typowe dla odmiany;
 2) sadzeniaki ziemniaka w partii przygotowanej do oceny cech zewnętrznych, z wyłączeniem odmian regionalnych, powinny być posortowane tak, aby:
 a) nie występowały bulwy, które przechodzą przez kwadratowe oczko sortownika o boku 25 mm,
-b) b ulwy, które nie przechodzą przez kwadratowe oczko sortownika o boku 35 mm, zostały podzielone na frakcje o wymiarach stanowiących krotność 5 mm,
+b) bulwy, które nie przechodzą przez kwadratowe oczko sortownika o boku 35 mm, zostały podzielone na frakcje o wymiarach stanowiących krotność 5 mm,
 c) w partii mogą znajdować się bulwy kilku frakcji o różnych wymiarach (kalibraż), posortowane w sposób określony w lit. b;
 3) różnica między najmniejszym i największym wymiarem bulw w jednej partii nie może być większa niż 25 mm;
 4) do sadzeniaków ziemniaka nie stosuje się środka chemicznego hamującego rozwój kiełków, który jest stosowany podczas przechowywania bulw ziemniaka innych niż sadzeniaki.
 11. Liczba rozmnożeń sadzeniaków ziemniaka kategorii:
-1) bazowe wynosi maksymalnie cztery;
-2) przedbazowe i bazowe na plantacji nasiennej ziemniaka wynosi łącznie maksymalnie siedem;
-3) kwalifikowane wynosi maksymalnie dwa.
-12. Sadzeniaki ziemniaka uznaje się jako należące do maksymalnego rozmnożenia, które jest dopuszczone w obrębie da nej kategorii, jeżeli na etykiecie sadzeniaków ziemniaka nie została umieszczona informacja o liczbie rozmnożeń.
+1) bazowe – wynosi maksymalnie cztery;
+2) przedbazowe i bazowe – na plantacji nasiennej ziemniaka wynosi łącznie maksymalnie siedem;
+3) kwalifikowane – wynosi maksymalnie dwa.
+12. Sadzeniaki ziemniaka uznaje się jako należące do maksymalnego rozmnożenia, które jest dopuszczone w obrębie danej kategorii, jeżeli na etykiecie sadzeniaków ziemniaka nie została umieszczona informacja o liczbie rozmnożeń.
 13. Sadzeniaki ziemniaka kategorii przedbazowe mogą pochodzić:
-1) z e zidentyfikowanej rośliny, z której pobiera się materiał przeznaczony do rozmnażania (roślina mateczna), lub
+1) ze zidentyfikowanej rośliny, z której pobiera się materiał przeznaczony do rozmnażania (roślina mateczna), lub
 2) z mikrorozmnażania (sposób szybkiego rozmnażania materiału roślinnego w celu wytworzenia dużej liczby roślin, z wykorzystaniem kultury in vitro zróżnicowanych pąków liściowych lub merystemów pobranych z danej rośliny).
 14.1. Partia sadzeniaków ziemniaka kategorii przedbazowe powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
@@ -129,7 +129,7 @@ b) liczba bulw porażonych zgniliznami innymi niż bakterioza pierścieniowa lub
 c) liczba bulw z wadami zewnętrznymi, w tym bulw uszkodzonych lub zniekształconych, nie powinna przekraczać 3,0% wagowych,
 d) liczba bulw porażonych parchem zwykłym występującym na ponad jednej trzeciej ich powierzchni nie powinna przekraczać 5,0% wagowych,
 e) liczba bulw porażonych rizoktoniozą występującą na ponad 10,0% ich powierzchni nie powinna przekraczać 1,0% wagowego,
-f) liczba bulw porażonych parchem prószystym występującym na ponad 10,0% ich powierzchni nie powinna
+f) liczba bulw porażonych parchem prószystym występującym na ponad 10,0% ich powierzchni nie powinna przekraczać 1,0% wagowo,
 g) liczba bulw pomarszczonych z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinna przekraczać 0,5% wagowego,
 h) łączna liczba bulw, o których mowa w lit. b–g, nie powinna przekraczać 6,0% wagowych.
 14.2. Zgodność z wymaganiami określonymi w ust. 14.1 pkt 1 lit. b, c oraz e sprawdza się przez dokonanie oceny polowej.
@@ -146,8 +146,8 @@ e) rośliny, włącznie z bulwami, powinny być produkowane w drodze mikrorozmna
 f) rośliny, włącznie z bulwami, powinny być produkowane w chronionym przed dostępem agrofagów obiekcie, na podłożu uprawnym wolnym od agrofagów,
 g) bulwy nie powinny być rozmnażane poza pierwszym rozmnożeniem;
 2) w ocenie cech zewnętrznych sadzeniaki ziemniaka nie mogą być:
-a) p orażone: zgniliznami, rizoktoniozą, parchem zwykłym, parchem prószystym,
-b) n admiernie pomarszczone z powodu odwodnienia,
+a) porażone: – zgniliznami, – rizoktoniozą, – parchem zwykłym, – parchem prószystym,
+b) nadmiernie pomarszczone z powodu odwodnienia,
 c) z wadami zewnętrznymi, w tym zniekształceniami lub uszkodzeniami.
 16. Partia sadzeniaka ziemniaka kategorii przedbazowe unijnej klasy PB powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
@@ -158,41 +158,41 @@ d) w bezpośrednim rozmnożeniu liczba roślin wykazujących oznaki spowodowane 
 2) w ocenie cech zewnętrznych:
 a) bulwy porażone zgniliznami innymi niż bakterioza pierścieniowa lub śluzak nie powinny przekraczać 0,2% wagowego,
 b) bulwy porażone rizoktoniozą występującą na ponad 10,0% ich powierzchni nie powinny przekraczać 1,0% wagowego,
-c) bulwy porażone parchem zwykłym występującym na ponad jednej trzeciej ich powierzchni nie powinny
+c) bulwy porażone parchem zwykłym występującym na ponad jednej trzeciej ich powierzchni nie powinny przekraczać 5,0% wagowych,
 d) bulwy porażone parchem prószystym występującym na ponad 10,0% ich powierzchni nie powinny przekraczać 1,0% wagowego,
 e) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 0,5% wagowego,
 f) bulwy z wadami zewnętrznymi, w tym bulwy uszkodzone lub zniekształcone, nie powinny przekraczać 3,0% wagowych,
 g) zawartość ziemi i substancji obcych nie powinna przekraczać 1,0% wagowego;
-3) ł ączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0.
+3) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0.
 17. W ocenie polowej i ocenie weryfikacyjnej powinny być spełnione następujące minimalne wymagania, w przypadku partii sadzeniaków ziemniaka kategorii:
 1) bazowe:
-a) l iczba roślin porażonych czarną nóżką nie powinna przekraczać 1,0%,
-b) l iczba uprawianych roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%, a w bezpośrednim rozmnożeniu nie powinny przekraczać łącznie 0,25%,
+a) liczba roślin porażonych czarną nóżką nie powinna przekraczać 1,0%,
+b) liczba uprawianych roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%, a w bezpośrednim rozmnożeniu nie powinny przekraczać łącznie 0,25%,
 c) w bezpośrednim rozmnożeniu liczba roślin wykazujących oznaki infekcji wirusowej nie powinna przekraczać 4,0%,
 d) liczba roślin wykazujących oznaki mozaiki i liczba roślin wykazujących oznaki spowodowane przez wirusa liściozwoju nie powinny przekraczać łącznie 0,8%;
 2) kwalifikowane:
-a) l iczba roślin porażonych czarną nóżką nie powinna przekraczać 4,0%,
-b) l iczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,5% oraz w bezpośrednim rozmnożeniu nie powinny przekraczać łącznie 0,5%,
+a) liczba roślin porażonych czarną nóżką nie powinna przekraczać 4,0%,
+b) liczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,5% oraz w bezpośrednim rozmnożeniu nie powinny przekraczać łącznie 0,5%,
 c) w bezpośrednim rozmnożeniu liczba roślin wykazujących oznaki infekcji wirusowej nie powinna przekraczać 10,0%,
-d) l iczba roślin wykazujących oznaki mozaiki i liczba roślin wykazujących oznaki spowodowane przez wirusa liściozwoju nie powinny przekraczać łącznie 6,0%;
+d) liczba roślin wykazujących oznaki mozaiki i liczba roślin wykazujących oznaki spowodowane przez wirusa liściozwoju nie powinny przekraczać łącznie 6,0%;
 3) wymagania określone w pkt 1 lit. c i d oraz w pkt 2 lit. c i d mają zastosowanie jedynie w przypadku, gdy choroby wirusowe są wywołane wirusami często występującymi w Europie.
 18. Partia sadzeniaków ziemniaka kategorii bazowe oraz kategorii kwalifikowane powinna spełniać następujące minimalne wymagania:
-1) o cena cech zewnętrznych:
+1) ocena cech zewnętrznych:
 a) zawartość ziemi i substancji obcych nie powinna przekraczać 1,0% wagowego dla sadzeniaków ziemniaka kategorii bazowe i 2,0% wagowych dla sadzeniaków ziemniaka kategorii kwalifikowane,
 b) sucha lub mokra zgnilizna, z wyjątkiem zgnilizny wywołanej przez Synchytrium endobioticum, Clavibacter michiganensis ssp. sepedonicus lub Ralstonia solanacearum, nie powinna przekraczać 0,5% wagowego, z czego mokra zgnilizna 0,2% wagowego,
 c) bulwy z wadami zewnętrznymi, w tym bulwy uszkodzone lub bulwy zniekształcone, nie powinny przekraczać 3,0% wagowych,
-d) b ulwy porażone parchem zwykłym występującym na ponad jednej trzeciej powierzchni nie powinny przekraczać 5,0% wagowych,
-e) b ulwy porażone brunatną zgnilizną występującą na ponad 10,0% powierzchni nie powinny przekraczać 5,0% wagowych,
-f) b ulwy porażone parchem prószystym występującym na ponad 10,0% powierzchni nie powinny przekraczać 3,0% wagowych,
-g) b ulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego;
+d) bulwy porażone parchem zwykłym występującym na ponad jednej trzeciej powierzchni nie powinny przekraczać 5,0% wagowych,
+e) bulwy porażone brunatną zgnilizną występującą na ponad 10,0% powierzchni nie powinny przekraczać 5,0% wagowych,
+f) bulwy porażone parchem prószystym występującym na ponad 10,0% powierzchni nie powinny przekraczać 3,0% wagowych,
+g) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego;
 2) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 1 lit. b–g, powinien wynosić nie więcej niż 6,0 dla sadzeniaków ziemniaka kategorii bazowe i 8,0 dla sadzeniaków ziemniaka kategorii kwalifikowane.
 19. Partia sadzeniaków ziemniaka kategorii bazowe unijnej klasy S powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
-a) l iczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%,
-b) l iczba roślin porażonych czarną nóżką nie powinna przekraczać 0,1%,
+a) liczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%,
+b) liczba roślin porażonych czarną nóżką nie powinna przekraczać 0,1%,
 c) w bezpośrednim rozmnożeniu liczba roślin wykazujących oznaki infekcji wirusowej nie powinna przekraczać 1,0%,
-d) l iczba roślin wykazujących oznaki mozaiki i liczba roślin wykazujących oznaki spowodowane przez wirusa liściozwoju nie powinny przekraczać łącznie 0,2%,
-e) l iczba rozmnożeń, w tym rozmnożeń sadzeniaków ziemniaka kategorii przedbazowe na plantacji nasiennej, powinna wynosić nie więcej niż pięć,
+d) liczba roślin wykazujących oznaki mozaiki i liczba roślin wykazujących oznaki spowodowane przez wirusa liściozwoju nie powinny przekraczać łącznie 0,2%,
+e) liczba rozmnożeń, w tym rozmnożeń sadzeniaków ziemniaka kategorii przedbazowe na plantacji nasiennej, powinna wynosić nie więcej niż pięć,
 2) w ocenie cech zewnętrznych:
 a) bulwy porażone zgniliznami innymi niż bakterioza pierścieniowa lub śluzak nie powinny przekraczać 0,5% wagowego, z czego porażone mokrą zgnilizną nie powinny przekraczać 0,2% wagowych,
 b) bulwy porażone rizoktoniozą na ponad 10% powierzchni nie powinny przekraczać 5,0% wagowych,
@@ -201,7 +201,7 @@ d) bulwy porażone parchem prószystym na ponad 10% powierzchni nie powinny prze
 e) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego,
 f) bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny przekraczać 3,0% wagowych,
 g) zawartość ziemi i substancji obcych nie powinna przekraczać 1,0%wagowego,
-3) ł ączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0 przy czym sadzeniaki ziemniaka uznaje się za należące do piątego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy S nie została umieszczona informacja o liczbie rozmnożeń.
+3) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0 – przy czym sadzeniaki ziemniaka uznaje się za należące do piątego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy S nie została umieszczona informacja o liczbie rozmnożeń.
 20. Partia sadzeniaków ziemniaka kategorii bazowe unijnej klasy SE powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
 a) liczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%,
@@ -210,21 +210,21 @@ c) w bezpośrednim rozmnożeniu liczba roślin wykazujących oznaki infekcji wir
 d) liczba roślin wykazujących oznaki mozaiki lub oznaki spowodowane przez wirusa liściozwoju nie powinna przekraczać 0,5%,
 e) liczba rozmnożeń, w tym rozmnożeń kategorii przedbazowe na plantacji nasiennej i rozmnożeń kategorii bazowe, wynosi nie więcej niż sześć,
 2) w ocenie cech zewnętrznych:
-a) b ulwy porażone zgniliznami innymi niż bakterioza pierścieniowa lub śluzak nie powinny przekraczać 0,5% wagowego, z czego porażone mokrą zgnilizną nie powinny przekraczać 0,2% wagowych,
-b) b ulwy porażone rizoktoniozą na ponad 10% powierzchni nie powinny przekraczać 5,0% wagowych,
-c) b ulwy porażone parchem zwykłym na ponad jednej trzeciej powierzchni nie powinny przekraczać 5,0% wagowych,
-d) b ulwy porażone parchem prószystym na ponad 10% powierzchni nie powinny przekraczać 3,0% wagowych,
-e) b ulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego,
+a) bulwy porażone zgniliznami innymi niż bakterioza pierścieniowa lub śluzak nie powinny przekraczać 0,5% wagowego, z czego porażone mokrą zgnilizną nie powinny przekraczać 0,2% wagowych,
+b) bulwy porażone rizoktoniozą na ponad 10% powierzchni nie powinny przekraczać 5,0% wagowych,
+c) bulwy porażone parchem zwykłym na ponad jednej trzeciej powierzchni nie powinny przekraczać 5,0% wagowych,
+d) bulwy porażone parchem prószystym na ponad 10% powierzchni nie powinny przekraczać 3,0% wagowych,
+e) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego,
 f) bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny przekraczać 3,0% wagowych,
 g) zawartość ziemi i substancji obcych nie powinna przekraczać 1,0% wagowego,
-3) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0 przy czym sadzeniaki ziemniaka uznaje się za należące do szóstego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy SE nie została umieszczona informacja o liczbie rozmnożeń.
+3) łączny procent wagowy sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0 – przy czym sadzeniaki ziemniaka uznaje się za należące do szóstego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy SE nie została umieszczona informacja o liczbie rozmnożeń.
 21. Partia sadzeniaków ziemniaka kategorii bazowe unijnej klasy E powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
-a) l iczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%,
-b) l iczba roślin porażonych czarną nóżką nie powinna przekraczać 1,0%,
+a) liczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,1%,
+b) liczba roślin porażonych czarną nóżką nie powinna przekraczać 1,0%,
 c) w bezpośrednim rozmnożeniu liczba roślin wykazujących oznaki infekcji wirusowej nie powinna przekraczać 4,0%,
-d) l iczba roślin wykazujących oznaki mozaiki lub oznaki spowodowane przez wirusa liściozwoju nie powinna przekraczać 0,8%,
-e) l iczba rozmnożeń, w tym rozmnożeń kategorii przedbazowe na plantacji nasiennej i rozmnożeń kategorii bazowe, powinna wynosić nie więcej niż siedem,
+d) liczba roślin wykazujących oznaki mozaiki lub oznaki spowodowane przez wirusa liściozwoju nie powinna przekraczać 0,8%,
+e) liczba rozmnożeń, w tym rozmnożeń kategorii przedbazowe na plantacji nasiennej i rozmnożeń kategorii bazowe, powinna wynosić nie więcej niż siedem,
 2) w ocenie cech zewnętrznych:
 a) bulwy porażone zgniliznami innymi niż bakterioza pierścieniowa lub śluzak nie powinny przekraczać 0,5% wagowego, z czego porażone mokrą zgnilizną nie powinny przekraczać 0,2% wagowego,
 b) bulwy porażone rizoktoniozą na ponad 10% powierzchni nie powinny przekraczać 5,0% wagowych,
@@ -233,7 +233,7 @@ d) bulwy porażone parchem prószystym na ponad 10% powierzchni nie powinny prze
 e) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego,
 f) bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny przekraczać 3,0% wagowych,
 g) zawartość ziemi i substancji obcych nie powinna przekraczać 1,0%wagowego,
-3) ł ączny procent sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0 przy czym sadzeniaki ziemniaka uznaje się za należące do siódmego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy E nie została umieszczona informacja o liczbie rozmnożeń.
+3) łączny procent sadzeniaków ziemniaka, o którym mowa w pkt 2 lit. a–f, nie powinien przekraczać 6,0 – przy czym sadzeniaki ziemniaka uznaje się za należące do siódmego rozmnożenia, jeżeli na etykiecie urzędowej sadzeniaków ziemniaka unijnej klasy E nie została umieszczona informacja o liczbie rozmnożeń.
 22. Partia sadzeniaków ziemniaka kategorii kwalifikowane unijnej klasy A powinna spełniać następujące minimalne wymagania:
 1) w ocenie polowej i ocenie weryfikacyjnej:
 a) liczba roślin niezgodnych z odmianą i liczba roślin należących do innej odmiany nie powinny przekraczać łącznie 0,2%,
@@ -241,9 +241,9 @@ b) liczba roślin porażonych czarną nóżką nie powinna przekraczać 2,0%,
 c) w bezpośrednim rozmnożeniu liczba roślin wykazujących oznaki infekcji wirusowej nie powinna przekraczać 8,0%,
 d) liczba roślin wykazujących oznaki mozaiki lub oznaki spowodowane przez wirusa liściozwoju nie powinna przekraczać 2,0%;
 2) w ocenie cech zewnętrznych:
-a) b ulwy porażone zgniliznami innymi niż bakterioza pierścieniowa lub śluzak nie powinny przekraczać 0,5% wagowego, z czego porażone mokrą zgnilizną nie powinny przekraczać 0,2% wagowego,
-b) b ulwy porażone rizoktoniozą na ponad 10% powierzchni nie powinny przekraczać 5,0% wagowych,
-c) bulwy porażone parchem zwykłym na ponad jednej trzeciej powierzchni nie powinny przekraczać 5,0%
+a) bulwy porażone zgniliznami innymi niż bakterioza pierścieniowa lub śluzak nie powinny przekraczać 0,5% wagowego, z czego porażone mokrą zgnilizną nie powinny przekraczać 0,2% wagowego,
+b) bulwy porażone rizoktoniozą na ponad 10% powierzchni nie powinny przekraczać 5,0% wagowych,
+c) bulwy porażone parchem zwykłym na ponad jednej trzeciej powierzchni nie powinny przekraczać 5,0% wagowych,
 d) bulwy porażone parchem prószystym na ponad 10% powierzchni nie powinny przekraczać 3,0% wagowych,
 e) bulwy pomarszczone z powodu nadmiernego odwodnienia lub odwodnienia spowodowanego przez parch srebrzysty nie powinny przekraczać 1,0% wagowego,
 f) bulwy z wadami zewnętrznymi, w tym uszkodzone lub zniekształcone, nie powinny przekraczać 3,0% wagowych,

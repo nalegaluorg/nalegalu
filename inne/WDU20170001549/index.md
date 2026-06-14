@@ -8,10 +8,10 @@ pos: 1549
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1549 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 9 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1549/text.pdf) |
 
-Poz. 1549 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 9 sierpnia 2017 r.
-w sprawie sposobu ustalania nadwyżki środków finansowych Krajowego Ośrodka Wsparcia Rolnictwa Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm. ) zarządza się, co następuje: § 1. 1. Nadwyżkę środków finansowych Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, stanowi dodatnia różnica między stanem środków finansowych Krajowego Ośrodka na dzień 31 grudnia danego roku budżetowego a stanem zobowiązań, o których mowa w ust. 3, ustalonych na dzień 31 grudnia danego roku.
+w sprawie sposobu ustalania nadwyżki środków finansowych Krajowego Ośrodka Wsparcia Rolnictwa Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Nadwyżkę środków finansowych Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, stanowi dodatnia różnica między stanem środków finansowych Krajowego Ośrodka na dzień 31 grudnia danego roku budżetowego a stanem zobowiązań, o których mowa w ust. 3, ustalonych na dzień 31 grudnia danego roku.
 2. Ze stanu środków finansowych Krajowego Ośrodka, o których mowa w ust. 1, wyłącza się środki:
 1) pochodzące z dotacji w rozumieniu art. 126 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 2) zakładowego funduszu świadczeń socjalnych;

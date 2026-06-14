@@ -8,10 +8,10 @@ pos: 1457
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 63 WYROK z dnia 8 października 2002 r.
+# WYROK z dnia 8 października 2002 r.
 
 | Pole | Wartość |
 |---|---|

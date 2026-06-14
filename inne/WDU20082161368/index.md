@@ -8,7 +8,7 @@ pos: 1368
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz o zmianie niektórych innych ustaw
@@ -29,7 +29,56 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2005 r. Nr 10, poz. 68 i z 2008 r. Nr 171, poz. 1056) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 pkt 1 otrzymuje brzmienie: „1) zadania oraz właściwość organów w zakresie oceny wniosków o rejestrację nazw pochodzenia, oznaczeń geograficznych i gwarantowanych tradycyjnych specjalności produktów rolnych lub środków spożywczych, zwanych dalej „wnioskami o rejestrację”, określone w:
+    - **a)** rozporządzeniu Rady (WE) nr 509/2006 z dnia 20 marca 2006 r. w sprawie produktów rolnych i środków spożywczych będących gwarantowanymi tradycyjnymi specjalnościami (Dz. Urz. UE L 93 z 31.03.2006, str. 1), zwanym dalej „rozporządzeniem nr 509/2006”, oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia,
+    - **b)** rozporządzeniu Rady (WE) nr 510/2006 z dnia 20 marca 2006 r. w sprawie ochrony oznaczeń geograficznych i nazw pochodzenia produktów rolnych i środków spożywczych (Dz. Urz. UE L 93 z 31.03.2006, str. 12), zwanym dalej „rozporządzeniem nr 510/2006”, oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia;”;
+
+- **2)** art. 2 otrzymuje brzmienie: „Art. 2. Ilekroć w ustawie jest mowa o:
+- **1)** wnioskodawcy – rozumie się przez to: 5 ust. 1 rozporządzenia nr 510/2006;
+    - **a)** w przypadku postępowania w sprawie rejestracji gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych – grupę w rozumieniu art. 2 rozporządzenia nr 509/2006,
+    - **b)** w przypadku postępowania w sprawie rejestracji nazw pochodzenia i oznaczeń geograficznych produktów rolnych i środków spożywczych – grupę w rozumieniu art.
+
+- **2)** rejestrze gwarantowanych tradycyjnych specjalności – rozumie się przez to rejestr gwarantowanych tradycyjnych specjalności, o którym mowa w rozporządzeniu nr 509/2006;
+- **3)** rejestrze chronionych nazw pochodzenia oraz chronionych oznaczeń geograficznych – rozumie się przez to rejestr chronionych nazw pochodzenia oraz chronionych oznaczeń geograficznych, o którym mowa w rozporządzeniu nr 510/2006.”;
+- **3)** w art. 4:
+    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) przyjmowania i oceny wniosku o rejestrację oraz wniosku o zmianę wniosku o rejestrację;
+
+- **2)** przekazywania Komisji Europejskiej jednolitego dokumentu, o którym mowa w art. 5 ust. 3 lit. c rozporządzenia nr 510/2006, zwanego dalej „jednolitym dokumentem”, wniosku o rejestrację oraz wniosku o zmianę specyfikacji, o której mowa w art. 6 ust. 2 rozporządzenia nr 509/2006 lub w art. 4 ust. 2 rozporządzenia nr 510/2006, zwanej dalej „specyfikacją”;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) przyjmowania i zgłaszania sprzeciwu oraz prowadzenia postępowania w przypadku wniesienia sprzeciwu przez Rzeczpospolitą Polską do wniosku o rejestrację zgłoszonego przez inne państwo;”;
+
+- **4)** w art. 6 pkt 2 otrzymuje brzmienie: „2) wnioski o zmianę wniosku o rejestrację;”;
+- **5)** art. 7 i 8 otrzymują brzmienie: „Art. 7. Wniosek o rejestrację może dotyczyć tylko jednego produktu rolnego lub środka spożywczego, z zastrzeżeniem art. 3 ust. 4 rozporządzenia Komisji (WE) nr 1898/2006 z dnia 14 grudnia 2006 r. określającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 510/2006 w sprawie ochrony oznaczeń geograficznych i nazw pochodzenia produktów rolnych i środków spożywczych (Dz. Urz. UE L 369 z 23.12.2006, str. 1).
+
 **Art. 8.** Wniosek o rejestrację zawiera:
+
+- **1)** specyfikację;
+- **2)** nazwę oraz siedzibę i adres albo imię i nazwisko oraz miejsce zamieszkania i adres wnioskodawcy;
+- **3)** wskazanie:
+    - **a)** osoby działającej w imieniu wnioskodawcy,
+    - **b)** adresu do korespondencji wnioskodawcy;
+
+- **4)** informację dotyczącą zakresu i częstotliwości kontroli zgodności procesu produkcji produktu rolnego lub środka spożywczego ze specyfikacją;
+- **5)** w przypadku wniosku o rejestrację nazwy pochodzenia lub oznaczenia geograficznego – jednolity dokument;
+- **6)** w przypadku wniosku o rejestrację gwarantowanej tradycyjnej specjalności:
+    - **a)** informacje lub dokumenty potwierdzające specyficzny i tradycyjny charakter produktu rolnego lub środka spożywczego oraz
+    - **b)** informacje dotyczące organów lub jednostek przeprowadzających kontrolę zgodności procesu produkcji produktu rolnego lub środka spożywczego ze specyfikacją;
+
+- **7)** wykaz dokumentów lub informacji dołączonych do wniosku o rejestrację.”;
+- **6)** w art. 11 uchyla się ust. 2;
+- **7)** w art. 12 ust. 2 otrzymuje brzmienie: „2. W przypadku stwierdzenia, że wniosek nie spełnia wymogów formalnych, minister właściwy do spraw rynków rolnych wzywa wnioskodawcę do usunięcia braków w wyznaczonym terminie, nie krótszym jednak niż 14 dni od dnia otrzymania wezwania.”;
+- **8)** w art. 14 ust. 1 otrzymuje brzmienie: „1. Dane i informacje dotyczące wniosku o rejestrację:
+- **1)** datę i godzinę wpływu wniosku spełniającego wymogi formalne do ministra właściwego do spraw rynków rolnych,
+- **2)** zgłoszoną nazwę produktu rolnego lub środka spożywczego,
+- **3)** nazwę albo imię i nazwisko wnioskodawcy,
+- **4)** informacje, czy wnioskodawca:
+    - **a)** ubiega się o rejestrację nazwy pochodzenia, oznaczenia geograficznego albo gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego,
+    - **b)** wystąpił o rejestrację gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego, z zastrzeżeniem jego nazwy, zgodnie z art. 13 ust. 2 rozporządzenia nr 509/2006 – wpisuje się do rejestru wewnętrznego wniosków o rejestrację nazw pochodzenia, oznaczeń geograficznych i gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, zwanego dalej „rejestrem wewnętrznym wniosków”.”;
+
+- **9)** art. 16 i 17 otrzymują brzmienie: „Art. 16. Minister właściwy do spraw rynków rolnych, w terminie 14 dni od dnia wpisania danych, o których mowa w art. 14 ust. 1, do rejestru wewnętrznego wniosków:
+- **1)** powiadamia o tym wnioskodawcę;
+- **2)** przekazuje wniosek Radzie;
+- **3)** ogłasza w dzienniku urzędowym ministra właściwego do spraw rynków rolnych dane i informacje, o których mowa w art. 14 ust. 1;
+- **4)** zamieszcza na stronach internetowych urzędu obsługującego ministra właściwego do spraw rynków rolnych treść wniosku o rejestrację, z wyłączeniem informacji, o których mowa w art. 8 pkt 4 i 7.
 
 **Art. 17.**
 
@@ -53,7 +102,8 @@ source: "isap-pdf"
     - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw rynków rolnych może wystąpić do wnioskodawcy o uzupełnienie lub wyjaśnienie, w wyznaczonym terminie, danych i informacji zawartych we wniosku o rejestrację.”;
 
 - **11)** w art. 19 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw rynków rolnych, po uzyskaniu opinii Rady, o której mowa w art. 18 ust. 1:
-- **1)** wydaje decyzję o stwierdzeniu spełniania wymagań, o których mowa w art. 18 ust. 1, a następnie przekazuje niezwłocznie Komisji Europejskiej: towanej tradycyjnej specjalności,
+- **1)** wydaje decyzję o stwierdzeniu spełniania wymagań, o których mowa w art. 18 ust. 1, a następnie przekazuje niezwłocznie Komisji Europejskiej:
+    - **a)** wniosek o rejestrację, jeżeli wniosek dotyczy rejestracji gwarantowanej tradycyjnej specjalności,
     - **b)** jednolity dokument oraz wpisuje nazwę na listę, o której mowa w art. 35 ust. 2, jeżeli wniosek dotyczy rejestracji nazwy pochodzenia lub oznaczenia geograficznego albo
 
 - **2)** wydaje decyzję o odmowie przekazania wniosku o rejestrację gwarantowanej tradycyjnej specjalności lub jednolitego dokumentu Komisji Europejskiej.”;
@@ -69,7 +119,7 @@ source: "isap-pdf"
     - **b)** jednolity dokument oraz wpisuje nazwę na listę, o której mowa w art. 35 ust. 2, jeżeli wniosek dotyczy rejestracji nazwy pochodzenia lub oznaczenia geograficznego;
 
 - **2)** w przypadku gdy wniosek o rejestrację jest niezasadny – wydaje decyzję o odmowie przekazania wniosku o rejestrację lub jednolitego dokumentu Komisji Europejskiej i umarza postępowanie w zakresie wniesionego zastrzeżenia;”;
-- **14)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. Minister właściwy do spraw rynków rolnych, po uzyskaniu opinii Rady, o której mowa w art. 21 ust. 1, w przypadku gdy wniosek o rejestrację i zastrzeżenie do tego wniosku są zasadne, a z zastrzeżenia wynika, że wnoszący zastrzeżenie wykorzystywał nazwę, która ma zostać zarejestrowana jako nazwa pochodzenia lub oznaczenie geograficzne, przez co najmniej 5 lat poprzedzających dzień ogłoszenia w dzienniku urzędowym ministra właścimowa w art. 14 ust. 1, może, w drodze decyzji, zezwolić wnoszącemu zastrzeżenie na używanie nazwy w okresie dostosowawczym, o którym mowa w art. 5 ust. 6 rozporządzenia nr 510/2006, i oddalić zastrzeżenie.”;
+- **14)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. Minister właściwy do spraw rynków rolnych, po uzyskaniu opinii Rady, o której mowa w art. 21 ust. 1, w przypadku gdy wniosek o rejestrację i zastrzeżenie do tego wniosku są zasadne, a z zastrzeżenia wynika, że wnoszący zastrzeżenie wykorzystywał nazwę, która ma zostać zarejestrowana jako nazwa pochodzenia lub oznaczenie geograficzne, przez co najmniej 5 lat poprzedzających dzień ogłoszenia w dzienniku urzędowym ministra właściwego do spraw rynków rolnych danych i informacji, o których mowa w art. 14 ust. 1, może, w drodze decyzji, zezwolić wnoszącemu zastrzeżenie na używanie nazwy w okresie dostosowawczym, o którym mowa w art. 5 ust. 6 rozporządzenia nr 510/2006, i oddalić zastrzeżenie.”;
 - **15)** w art. 23:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Rada, w terminie 30 dni od dnia przekazania wniosku o rejestrację przez ministra właściwego do spraw rynków rolnych, wydaje opinię o spełnianiu przez wniosek o rejestrację, o którym mowa w art. 22 ust. 1 pkt 3, wymagań określonych w:
 
@@ -84,7 +134,7 @@ source: "isap-pdf"
 
 - **17)** art. 26 otrzymuje brzmienie: „Art. 26. Przepisy art. 7-25 stosuje się odpowiednio do wniosku o zmianę wniosku o rejestrację, z tym że dokumenty, o których mowa w art. 19 ust. 1 pkt 1, art. 22 ust. 1 pkt 1 oraz art. 24 ust. 1 pkt 1, przekazuje się Komisji Europejskiej, jeżeli z przepisów rozporządzenia nr 509/2006 lub rozporządzenia nr 510/2006 wynika obowiązek przekazywania Komisji Europejskiej informacji zmienionych we wniosku o rejestrację.”;
 - **18)** uchyla się art. 27;
-- **19)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, mająca uzasadniony interes, w pogeograficznego lub gwarantowanej tradycyjnej specjalności produktów rolnych lub środków spożywczych, może wnieść do ministra właściwego do spraw rynków rolnych sprzeciw do wniosku o rejestrację, w terminie 5 miesięcy od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej:
+- **19)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, mająca uzasadniony interes, w postępowaniu w sprawie rejestracji nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktów rolnych lub środków spożywczych, może wnieść do ministra właściwego do spraw rynków rolnych sprzeciw do wniosku o rejestrację, w terminie 5 miesięcy od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej:
 - **1)** wniosku o rejestrację lub wniosku o zmianę specyfikacji gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego,
 - **2)** jednolitego dokumentu – w przypadku wniosku o rejestrację lub wniosku o zmianę specyfikacji nazwy pochodzenia i oznaczenia geograficznego produktu rolnego lub środka spożywczego – złożonego przez wnioskodawcę, którego siedziba lub miejsce zamieszkania znajduje się poza terytorium Rzeczypospolitej Polskiej.
 
@@ -101,7 +151,7 @@ source: "isap-pdf"
 - **22)** uchyla się art. 33;
 - **23)** w art. 34:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw rynków rolnych przekazuje państwu, które złożyło sprzeciw do wniosku o rejestrację, uzgodnione z wnioskodawcą stanowisko w sprawie sprzeciwu oraz proponuje środki zmierzające do osiągnięcia porozumienia.”,
-    - **b)** ust. 3 otrzymuje brzmienie: nych przekazuje Komisji Europejskiej informacje, o których mowa w:
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Po osiągnięciu porozumienia minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w:
 
 - **1)** art. 9 ust. 5 akapit drugi rozporządzenia nr 509/2006 – w przypadku sprzeciwu do wniosku o rejestrację gwarantowanej tradycyjnej specjalności;
 - **2)** art. 7 ust. 5 akapit drugi rozporządzenia nr 510/2006 – w przypadku sprzeciwu do wniosku o rejestrację nazwy pochodzenia lub oznaczenia geograficznego.”;
@@ -117,7 +167,7 @@ source: "isap-pdf"
 - **1)** jeżeli nazwa podlegająca tymczasowej ochronie krajowej jest wykorzystywana do produktów, które nie mogą być porównywane do produktów zarejestrowanych pod tą nazwą, i stosowanie tej nazwy nie doprowadzi do czerpania korzyści z renomy nazwy podlegającej tymczasowej ochronie krajowej lub
 - **2)** w przypadku, o którym mowa w art. 22a.”;
 - **27)** w art. 39:
-    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) Główny Inspektor Jakości Handlowej Artykułów RolnoSpożywczych, zwany dalej „Głównym Inspektorem”, sprawujący nadzór nad upoważnionymi przez ministra właściwego do spraw „upoważnionymi jednostkami certyfikującymi”;”, – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) wojewódzki inspektor jakości handlowej artykułów rolnospożywczych, zwany dalej „wojewódzkim inspektorem”, przeprowadzający kontrolę zgodności procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowaną tradycyjną specjalnością ze specyfikacją.”,
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) Główny Inspektor Jakości Handlowej Artykułów RolnoSpożywczych, zwany dalej „Głównym Inspektorem”, sprawujący nadzór nad upoważnionymi przez ministra właściwego do spraw rynków rolnych jednostkami certyfikującymi, zwanymi dalej „upoważnionymi jednostkami certyfikującymi”;”, – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) wojewódzki inspektor jakości handlowej artykułów rolnospożywczych, zwany dalej „wojewódzkim inspektorem”, przeprowadzający kontrolę zgodności procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowaną tradycyjną specjalnością ze specyfikacją.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Kontrola, o której mowa w ust. 1 pkt 4, jest przeprowadzana zgodnie z zasadami oceny jakości handlowej artykułów rolno-spożywczych, o której mowa w przepisach o jakości handlowej artykułów rolnospożywczych.”;
 
 - **28)** w art. 40:
@@ -128,7 +178,7 @@ source: "isap-pdf"
 - **30)** w art. 42: W świadectwie jakości określa się termin jego ważności.
     - **a)** ust. 1 otrzymuje brzmienie: „1. Kontrola zgodności procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowaną tradycyjną specjalnością ze specyfikacją jest dokonywana na wniosek producenta przez wojewódzkiego inspektora lub upoważnioną jednostkę certyfikującą.”,
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wniosek o dokonanie kontroli, o której mowa w ust. 1, przez wojewódzkiego inspektora składa się na formularzu udostępnionym przez wojewódzkiego inspektora.”,
-    - **c)** dodaje się ust. 4 i 5 w brzmieniu: wydaje świadectwo jakości potwierdzające zgodność procesu produkcji produktu rolnego lub środka spożywczego ze specyfikacją.
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. Po dokonaniu kontroli, o której mowa w ust. 1, wojewódzki inspektor wydaje świadectwo jakości potwierdzające zgodność procesu produkcji produktu rolnego lub środka spożywczego ze specyfikacją.
 
 5. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór świadectwa jakości potwierdzającego zgodność procesu produkcji produktu rolnego lub środka spożywczego ze specyfikacją, mając na względzie prawidłowe oznaczanie produktów rolnych i środków spożywczych oraz ich rodzaj.”;
 
@@ -149,7 +199,7 @@ source: "isap-pdf"
 4. Upoważniona jednostka certyfikująca informuje ministra właściwego do spraw rynków rolnych o zmianie danych i informacji zawartych we wniosku, o którym mowa w art. 41 ust. 1, oraz w dokumentach dołączonych do wniosku.”;
 
 - **32)** w art. 44 ust. 3 otrzymuje brzmienie: „3. W przypadku nieusunięcia uchybień, o których mowa w ust. 1, wojewódzki inspektor wydaje decyzję:
-- **1)** zakazującą używania chronionej nazwy pochodzenia, chronionego oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności, używania symbolu chronionej nazwy pochodzenia, chronionego oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności, zwrotów: „chroniona nazwa pochodzenia”, „chronione oznaczenie wiadających im skrótów „ChNP”, „ChOG” lub „GTS”;
+- **1)** zakazującą używania chronionej nazwy pochodzenia, chronionego oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności, używania symbolu chronionej nazwy pochodzenia, chronionego oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności, zwrotów: „chroniona nazwa pochodzenia”, „chronione oznaczenie geograficzne” lub „gwarantowana tradycyjna specjalność” oraz odpowiadających im skrótów „ChNP”, „ChOG” lub „GTS”;
 - **2)** zakazującą wprowadzania produktu rolnego lub środka spożywczego do obrotu lub
 - **3)** nakazującą wycofanie produktu rolnego lub środka spożywczego z obrotu.”;
 - **33)** w art. 47: zm.; Dz. Urz. UE Polskie Wydanie Specjalne, rozdz. 3, t. 9, str. 59), których jakość lub wyjątkowe cechy i właściwości wynikają ze stosowania tradycyjnych metod produkcji, stanowiące element dziedzictwa kulturowego regionu, w którym są wytwarzane, oraz będące elementem tożsamości społeczności lokalnej, zwane dalej „produktami tradycyjnymi”, mogą być wpisane na listę produktów tradycyjnych.”,
@@ -162,6 +212,7 @@ source: "isap-pdf"
 
 - **35)** w art. 51 dodaje się ust. 3 w brzmieniu: „3. Marszałek województwa może wystąpić do wnioskodawcy o uzupełnienie lub wyjaśnienie, w wyznaczonym terminie, informacji zawartych we wniosku o wpis na listę produktów tradycyjnych.”;
 - **36)** po art. 51 dodaje się art. 51a w brzmieniu: „Art. 51a. Do wniosku o wpis na listę produktów tradycyjnych stosuje się odpowiednio art. 13.”;
+- **37)** w art. 52 uchyla się ust. 2;
 - **38)** w art. 53 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Minister właściwy do spraw rynków rolnych może wystąpić do marszałka województwa o uzupełnienie lub wyjaśnienie, w wyznaczonym terminie, informacji zawartych we wniosku o wpis na listę produktów tradycyjnych.
 
 3. Minister właściwy do spraw rynków rolnych wydaje decyzję o odmowie dokonania wpisu produktu rolnego, środka spożywczego lub napoju spirytusowego na listę produktów tradycyjnych, w przypadku gdy dany produkt rolny, środek spożywczy lub napój spirytusowy nie spełnia wymagań określonych w art. 47 ust. 1.”;
@@ -175,7 +226,7 @@ source: "isap-pdf"
 - **42)** art. 57 i 58 otrzymują brzmienie: „Art. 57. 1. Kto, nie spełniając warunków określonych we wniosku o rejestrację:
 - **1)** wprowadza do obrotu produkty rolne lub środki spożywcze oznaczone:
     - **a)** nazwą wpisaną do rejestru chronionych nazw pochodzenia oraz chronionych oznaczeń geograficznych, z naruszeniem art. 13 ust. 1 rozporządzenia nr 510/2006, lub
-    - **b)** nazwą wpisaną do rejestru gwarantowanych tradycyjnych specjalności zgodnie z art. 13 ust. 2 rozporządzenia nr 509/2006, nawet przy użyciu wyrażeń „w stylu”, „rodzaju”, „przy użyciu metody”, „tak jak produkowane w”, „imitacja” lub „podobne”, zarówno w oryginalnym ki mogące wprowadzić w błąd co do sposobu wytworzenia produktu rolnego lub środka spożywczego, lub
+    - **b)** nazwą wpisaną do rejestru gwarantowanych tradycyjnych specjalności zgodnie z art. 13 ust. 2 rozporządzenia nr 509/2006, nawet przy użyciu wyrażeń „w stylu”, „rodzaju”, „przy użyciu metody”, „tak jak produkowane w”, „imitacja” lub „podobne”, zarówno w oryginalnym brzmieniu, jak i w tłumaczeniu, lub stosując inne praktyki mogące wprowadzić w błąd co do sposobu wytworzenia produktu rolnego lub środka spożywczego, lub
     - **c)** symbolem chronionej nazwy pochodzenia, chronionego oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności, lub
     - **d)** zwrotami „chroniona nazwa pochodzenia”, „chronione oznaczenie geograficzne” lub „gwarantowana tradycyjna specjalność”, lub odpowiadającymi im skrótami „ChNP”, „ChOG” lub „GTS”, lub
 
@@ -187,9 +238,26 @@ source: "isap-pdf"
 
 **Art. 58.** Kto używa nazwy wpisanej na listę, o której mowa w art. 35 ust. 2, z naruszeniem art. 38, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.”;
 
+- **43)** użyte w art. 1 w pkt 3 i 4, w art. 4 w pkt 6, w art. 39 w ust. 1 we wprowadzeniu do wyliczenia i w pkt 1 oraz w art. 40 w ust. 1 w pkt 2 i 3 w różnych przypadkach i liczbie wyrazy „świadectwo specyficznego charakteru” zastępuje się użytymi w odpowiednim przypadku i liczbie wyrazami „będących gwarantowanymi tradycyjnymi specjalnościami”.
+
 **Art. 2.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2003 r. Nr 119, poz. 1117, z późn. zm. ) w art. 132 w ust. 1 pkt 1 otrzymuje brzmienie: „1 ) zarejestrowanego oznaczenia geograficznego napoju spirytusowego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającym rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. WE L 39 z 13.02.2008, str.
 
+- **16)** , oraz oznaczenia geograficznego wpisanego na krajową listę chronionych oznaczeń geograficznych napojów spirytusowych na podstawie ustawy z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych (Dz. U. Nr 208, poz. 1539 oraz z 2008 r. Nr 171, poz. 1056);”.
+
 **Art. 3.** W ustawie z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych (Dz. U. Nr 208, poz. 1539 i z 2008 r. Nr 171, poz. 1056) wprowadza się następujące zmiany:
+
+- **1)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „ Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającego rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. WE L 39 z 13.02.2008, str. 16).”;
+- **2)** w art. 1 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) warunki ochrony na terytorium Rzeczypospolitej Polskiej oznaczeń geograficznych napojów spirytusowych zgodnie z wymaganiami określonymi w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającym rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. WE L 39 z
+
+13. 02.2008, str. 16), zwanym dalej „rozporządzeniem nr 110/2008”;
+
+- **3)** wymagania dotyczące napojów spirytusowych w zakresie nieuregulowanym w rozporządzeniu nr 110/2008 oraz w przepisach wydanych w trybie tego rozporządzenia.”;
+- **3)** w art. 11 pkt 1 otrzymuje brzmienie: „1) spełniające wymagania w zakresie definicji, opisu i prezentacji oraz sposobu produkcji napojów spirytusowych określone w rozporządzeniu nr 110/2008 oraz w przepisach wydanych w trybie tego rozporządzenia;”;
+- **4)** w art. 12 ust. 1 otrzymuje brzmienie: „1. Napoje spirytusowe w zakresie spełniania wymagań określonych w rozporządzeniu nr 110/2008 oraz w przepisach wydanych w trybie tego rozporządzenia, podlegają urzędowej kontroli przeprowadzanej przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych na podstawie ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolnospożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm. ).”;
+- **5)** użyte w art. 36 w ust. 1, w art. 38 w ust. 2 oraz w art. 40 wyrazy „rozporządzenia nr 1576/89” zastępuje się wyrazami „rozporządzenia nr 110/2008”;
+- **6)** w art. 37 ust. 1 otrzymuje brzmienie: „1. Napoje spirytusowe z oznaczeniami geograficznymi odnoszącymi się do terytorium Rzeczypospolitej Polskiej wyrabia się zgodnie ze sposobem produkcji, warunkami technologicznymi lub parametrami jakościowymi, określonymi dla nich w ustawie, przepisach wydanych na podstawie art. 38 ust. 2 oraz w rozporządzeniu nr 110/2008 oraz w przepisach wydanych w trybie tego rozporządzenia.”;
+- **7)** w art. 42 ust. 1 otrzymuje brzmienie: „1. Kto wyrabia napoje spirytusowe niezgodnie ze sposobem produkcji, warunkami technologicznymi lub parametrami jakościowymi, określonymi dla nich w ustawie, w przepisach wydanych na podstawie art. 38 ust. 2 lub w art. 2-5 i 13 rozporządzenia nr 110/2008 lub w załączniku I do tego rozporządzenia lub wprowadza tak wytworzone napoje do obrotu podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”;
+- **8)** w art. 43 ust. 1 otrzymuje brzmienie: „1. Kto oznacza napoje spirytusowe niezgodnie z wymaganiami w zakresie ich definicji lub opisu, lub prezentacji, określonymi w art. 7-12 i 14-16 rozporządzenia nr 110/2008 lub w załączniku II do tego rozporządzenia lub wprowadza tak oznaczone napoje do obrotu podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”.
 
 **Art. 4.** Rejestr wewnętrzny wniosków, o którym mowa w art. 14 ustawy wymienionej w art. 1, z dniem wejścia w życie niniejszej ustawy staje się rejestrem wewnętrznym wniosków, o którym mowa w art. 14 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 

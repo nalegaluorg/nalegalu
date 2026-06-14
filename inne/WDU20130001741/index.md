@@ -8,10 +8,10 @@ pos: 1741
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1741 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 24 grudnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1741/text.pdf) |
 
-Poz. 1741 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 24 grudnia 2013 r.
-w sprawie szczegółowych warunków realizacji rządowego programu wspierania osób uprawnionych do świadczenia pielęgnacyjnego Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania osób uprawnionych do świadczenia pielęgnacyjnego, zwanej dalej „pomocą”.
+w sprawie szczegółowych warunków realizacji rządowego programu wspierania osób uprawnionych do świadczenia pielęgnacyjnego Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania osób uprawnionych do świadczenia pielęgnacyjnego, zwanej dalej „pomocą”.
 § 2. 1. Prawo do pomocy przysługuje osobom mającym ustalone prawo do świadczenia pielęgnacyjnego za miesiące styczeń, luty lub marzec 2014 r., przyznane na podstawie art. 17 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2013 r. poz. 1456, 1623 i 1650), zwanej dalej „ustawą”.
 2. Pomoc przysługuje w wysokości 200 zł miesięcznie.
 3. Pomoc jest przyznawana niezależnie od dochodu.

@@ -8,10 +8,10 @@ pos: 1604
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 września 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1604 OBWIESZCZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 4 września 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1604/text.pdf) |
 
-OBWIESZCZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 4 września 2020 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej i Sportu w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej i Sportu z dnia 31 grudnia 2002 r. w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach (Dz. U. z 2020 r. poz. 1166), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniającym rozporządzenie w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach (Dz. U. poz. 1386).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Edukacji Narodowej z dnia 12 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach (Dz. U. poz. 1386), które stanowią: „§ 2. Zawieszenie zajęć dokonane na podstawie § 18 ust. 2 rozporządzenia Ministra Edukacji Narodowej i Sportu z dnia 31 grudnia 2002 r. w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach (Dz. U. z 2020 r. poz. 1166) przed dniem wejścia w życie niniejszego rozporządzenia pozostaje w mocy.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Edukacji Narodowej: D. Piontkowski ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ I SPORTU z dnia 31 grudnia 2002 r.
 w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach Na podstawie art. 95a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2020 r. poz. 1327) zarządza się, co następuje:
+§ 1. Ilekroć w niniejszym rozporządzeniu jest mowa o „dyrektorze”, rozumie się przez to dyrektora szkoły lub placówki.
 § 2. Dyrektor zapewnia bezpieczne i higieniczne warunki pobytu w szkole lub placówce, a także bezpieczne i higieniczne warunki uczestnictwa w zajęciach organizowanych przez szkołę lub placówkę poza obiektami należącymi do tych jednostek.
-§ 2a. 1. Dyrektor albo upoważniona przez niego osoba prowadzi rejestr wyjść grupowych uczniów, z wyjątkiem wycieczek, o których mowa odpowiednio w przepisach wydanych na podstawie art. 47 ust. 1 pkt 8 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378) oraz w przepisach wydanych na podstawie art. 22 ust. 2 pkt 12 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+§ 2a. 1. Dyrektor albo upoważniona przez niego osoba prowadzi rejestr wyjść grupowych uczniów, z wyjątkiem wycieczek, o których mowa odpowiednio w przepisach wydanych na podstawie art. 47 ust. 1 pkt 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378) oraz w przepisach wydanych na podstawie art. 22 ust. 2 pkt 12 ustawy z dnia 7 września 1991 r. o systemie oświaty.
 2. Rejestr, o którym mowa w ust. 1, zawiera: datę, miejsce i godzinę wyjścia lub zbiórki uczniów, cel lub program wyjścia, miejsce i godzinę powrotu, imiona i nazwiska opiekunów, liczbę uczniów oraz podpisy opiekunów i dyrektora.
 § 3. 1. Dyrektor, co najmniej raz w roku, dokonuje kontroli zapewniania bezpiecznych i higienicznych warunków korzystania z obiektów należących do szkoły lub placówki, w tym bezpiecznych i higienicznych warunków nauki, oraz określa kierunki ich poprawy.
 2. Z ustaleń kontroli sporządza się protokół, który podpisują osoby biorące w niej udział. Kopię protokołu dyrektor przekazuje organowi prowadzącemu.
@@ -80,7 +80,7 @@ Stopnie schodów nie mogą być śliskie.
 2. Jeżeli nie jest możliwe zapewnienie temperatury, o której mowa w ust. 1, dyrektor zawiesza zajęcia na czas oznaczony, powiadamiając o tym organ prowadzący.
 § 18. 1. Organ prowadzący szkołę lub placówkę może zawiesić zajęcia na czas oznaczony, w przypadku gdy na danym terenie może wystąpić zagrożenie bezpieczeństwa uczniów związane z utrudnieniem w:
 1) dotarciu ucznia do szkoły lub placówki lub powrotem ze szkoły lub placówki lub
-2) organizacji zajęć w szkole lub placówce w związku z organizacją i przebiegiem imprez ogólnopolskich lub międzynarodowych.
+2) organizacji zajęć w szkole lub placówce – w związku z organizacją i przebiegiem imprez ogólnopolskich lub międzynarodowych.
 2. Dyrektor, za zgodą organu prowadzącego, może zawiesić zajęcia na czas oznaczony, jeżeli:
 1) temperatura zewnętrzna mierzona o godzinie 21 w dwóch kolejnych dniach poprzedzających zawieszenie zajęć wynosi ‒15°C lub jest niższa;
 2) wystąpiły na danym terenie zdarzenia inne niż określone w ust. 2a, które mogą zagrozić zdrowiu uczniów.
@@ -89,10 +89,11 @@ Stopnie schodów nie mogą być śliskie.
 2c. Zawieszenie zajęć, o którym mowa w ust. 2a, może dotyczyć w szczególności grupy, grupy wychowawczej, oddziału, klasy, etapu edukacyjnego lub całej szkoły lub placówki, w zakresie wszystkich lub poszczególnych zajęć.
 3. O zawieszeniu zajęć, o którym mowa w ust. 1–2a, odpowiednio organ prowadzący lub dyrektor zawiadamiają organ sprawujący nadzór pedagogiczny oraz organ rejestrujący, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2020 r. poz. 17 i 278).
 § 19. 1. Jeżeli pomieszczenie lub inne miejsce, w którym mają być prowadzone zajęcia, lub stan znajdującego się w nim wyposażenia stwarza zagrożenia dla bezpieczeństwa, niedopuszczalne jest rozpoczęcie zajęć.
-2. Jeżeli stan zagrożenia powstanie lub ujawni się w czasie zajęć niezwłocznie się je przerywa i wyprowadza się z zagrożonych miejsc osoby powierzone opiece szkoły lub placówki.
+2. Jeżeli stan zagrożenia powstanie lub ujawni się w czasie zajęć – niezwłocznie się je przerywa i wyprowadza się z zagrożonych miejsc osoby powierzone opiece szkoły lub placówki.
 § 20. Pomieszczenia szkoły i placówki, w szczególności pokój nauczycielski, laboratoria, pracownie, świetlicę, warsztaty szkolne, pokój nauczycieli wychowania fizycznego, kierownika internatu (bursy) oraz kuchnię, wyposaża się w apteczki zaopatrzone w środki niezbędne do udzielania pierwszej pomocy i instrukcję o zasadach udzielania tej pomocy.
 § 21. Pracownicy szkoły lub placówki podlegają przeszkoleniu w zakresie udzielania pierwszej pomocy.
 § 22. Udział uczniów w pracach na rzecz szkoły i środowiska może mieć miejsce po zaopatrzeniu ich w odpowiednie do wykonywanych prac urządzenia, sprzęt i środki ochrony indywidualnej oraz po zapewnieniu właściwego nadzoru i bezpiecznych warunków pracy.
+§ 23. 1. Maszyny i inne urządzenia techniczne utrzymuje się w stanie zapewniającym pełną sprawność działania oraz bezpieczeństwo pracy i nauki.
 2. Urządzenia techniczne wyposaża się w zabezpieczenia chroniące przed urazami, działaniem substancji szkodliwych dla zdrowia, porażeniem prądem elektrycznym, szkodliwymi wstrząsami, nadmiernym hałasem, działaniem wibracji lub promieniowaniem.
 3. Urządzenia techniczne niesprawne, uszkodzone lub pozostające w naprawie oznacza się w sposób wyraźny i zabezpiecza przed ich uruchomieniem.
 § 24. 1. Stanowiska pracy dostosowuje się do warunków antropometrycznych uczniów.
@@ -103,9 +104,10 @@ Stopnie schodów nie mogą być śliskie.
 2. Rozpoczęcie zajęć, o których mowa w ust. 1, może nastąpić po sprawdzeniu i upewnieniu się przez prowadzącego zajęcia, że stan maszyn i innych urządzeń technicznych, instalacji elektrycznej i narzędzi pracy, a także inne warunki środowiska pracy nie stwarzają zagrożeń dla bezpieczeństwa uczniów.
 § 28. Uczniów pracujących w warsztatach, laboratoriach i pracowniach szkolnych w celu zabezpieczenia przed działaniem niebezpiecznych lub szkodliwych dla zdrowia czynników, a także ze względu na wymagania sanitarnohigieniczne, zaopatruje się w niezbędne środki ochrony indywidualnej oraz odzież i obuwie robocze.
 § 29. 1. Substancje chemiczne i ich mieszaniny należy przechowywać w odpowiednich pojemnikach zabezpieczających przed ich szkodliwym działaniem, opatrzonych etykietami zawierającymi nazwę substancji chemicznej lub mieszaniny tych substancji oraz informującymi o ich niebezpiecznym lub szkodliwym dla zdrowia działaniu.
-2. Substancje chemiczne niebezpieczne i mieszaniny niebezpieczne w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach należy przechowywać w zamkniętych pomieszczeniach specjalnie przystosowanych do tego celu.
+2. Substancje chemiczne niebezpieczne i mieszaniny niebezpieczne – w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach – należy przechowywać w zamkniętych pomieszczeniach specjalnie przystosowanych do tego celu.
 3. Dyrektor zapewnia udostępnienie kart charakterystyk substancji chemicznych niebezpiecznych i mieszanin niebezpiecznych, zgromadzonych w szkole lub placówce, osobom prowadzącym zajęcia z użyciem tych substancji i mieszanin.
-4. Prowadzący zajęcia zapoznaje uczniów z kartami charakterystyk substancji chemicznych niebezpiecznych i mieszaRozdział 3 Wychowanie fizyczne, sport i turystyka § 30. W czasie zawodów sportowych organizowanych przez szkołę lub placówkę uczniowie nie mogą pozostawać bez opieki osób do tego upoważnionych.
+4. Prowadzący zajęcia zapoznaje uczniów z kartami charakterystyk substancji chemicznych niebezpiecznych i mieszanin niebezpiecznych wykorzystywanych podczas zajęć oraz umieszcza te karty w łatwo dostępnym miejscu.
+§ 30. W czasie zawodów sportowych organizowanych przez szkołę lub placówkę uczniowie nie mogą pozostawać bez opieki osób do tego upoważnionych.
 § 31. 1. Stopień trudności i intensywności ćwiczeń dostosowuje się do aktualnej sprawności fizycznej i wydolności ćwiczących.
 2. Uczestnika zajęć uskarżającego się na dolegliwości zdrowotne zwalnia się w danym dniu z wykonywania planowanych ćwiczeń, informując o tym jego rodziców (opiekunów).
 3. Ćwiczenia są prowadzone z zastosowaniem metod i urządzeń zapewniających pełne bezpieczeństwo ćwiczących.
@@ -129,7 +131,8 @@ Stopnie schodów nie mogą być śliskie.
 2. Regulamin strzelnicy, o której mowa w ust. 1, opracowuje się zgodnie z przepisami wydanymi na podstawie art. 46 ust. 3 ustawy z dnia 21 maja 1999 r. o broni i amunicji.
 3. Przed przystąpieniem do strzelania z broni sportowej uczniów zaznajamia się z zasadami korzystania ze strzelnicy i bezpiecznego obchodzenia się z bronią.
 4. Zajęcia na strzelnicy może prowadzić osoba spełniająca warunki, o których mowa w przepisach wydanych na podstawie art. 46 ust. 3 ustawy z dnia 21 maja 1999 r. o broni i amunicji.
-§ 39. Niedopuszczalne jest wydawanie osobom pozostającym pod opieką szkoły lub placówki sprzętu, którego użycie może stwarzać zagrożenie dla zdrowia lub życia, w tym dysku, kuli, młota, oszczepu, łuku, szpady, sportowej broni strzeleckiej jeżeli szkoła nie ma możliwości zapewnienia warunków bezpiecznego korzystania z tego sprzętu.
+§ 39. Niedopuszczalne jest wydawanie osobom pozostającym pod opieką szkoły lub placówki sprzętu, którego użycie może stwarzać zagrożenie dla zdrowia lub życia, w tym dysku, kuli, młota, oszczepu, łuku, szpady, sportowej broni strzeleckiej – jeżeli szkoła nie ma możliwości zapewnienia warunków bezpiecznego korzystania z tego sprzętu.
+§ 40. Pracownik szkoły lub placówki, który powziął wiadomość o wypadku, niezwłocznie zapewnia poszkodowanemu opiekę, w szczególności sprowadzając fachową pomoc medyczną, a w miarę możliwości udzielając poszkodowanemu pierwszej pomocy.
 § 41. 1. O każdym wypadku zawiadamia się niezwłocznie:
 1) rodziców (opiekunów) poszkodowanego;
 2) pracownika służby bezpieczeństwa i higieny pracy;
@@ -146,8 +149,9 @@ Stopnie schodów nie mogą być śliskie.
 3. Wzór protokołu powypadkowego jest określony w załączniku nr 1 do rozporządzenia.
 4. W skład zespołu wchodzi pracownik służby bezpieczeństwa i higieny pracy oraz społeczny inspektor pracy.
 5. Jeżeli z jakichkolwiek powodów nie jest możliwy udział w pracach zespołu jednej z osób, o której mowa w ust. 4, dyrektor powołuje w jej miejsce innego pracownika szkoły lub placówki przeszkolonego w zakresie bezpieczeństwa i higieny pracy.
-6. Jeżeli w składzie zespołu nie mogą uczestniczyć ani pracownik służby bezpieczeństwa i higieny pracy ani społeczny inspektor pracy, w skład zespołu wchodzi dyrektor oraz pracownik szkoły lub placówki przeszkolony w zakresie bez7. W składzie zespołu może uczestniczyć przedstawiciel organu prowadzącego, organu sprawującego nadzór pedagogiczny lub rady rodziców.
-8. Przewodniczącym zespołu jest pracownik służby bhp, a jeżeli nie ma go w składzie zespołu społeczny inspektor pracy. Jeżeli w zespole nie uczestniczy ani pracownik służby bhp ani społeczny inspektor pracy, przewodniczącego zespołu spośród pracowników szkoły lub placówki wyznacza dyrektor.
+6. Jeżeli w składzie zespołu nie mogą uczestniczyć ani pracownik służby bezpieczeństwa i higieny pracy ani społeczny inspektor pracy, w skład zespołu wchodzi dyrektor oraz pracownik szkoły lub placówki przeszkolony w zakresie bezpieczeństwa i higieny pracy.
+7. W składzie zespołu może uczestniczyć przedstawiciel organu prowadzącego, organu sprawującego nadzór pedagogiczny lub rady rodziców.
+8. Przewodniczącym zespołu jest pracownik służby bhp, a jeżeli nie ma go w składzie zespołu – społeczny inspektor pracy. Jeżeli w zespole nie uczestniczy ani pracownik służby bhp ani społeczny inspektor pracy, przewodniczącego zespołu spośród pracowników szkoły lub placówki wyznacza dyrektor.
 9. W sprawach spornych rozstrzygające jest stanowisko przewodniczącego zespołu. Członek zespołu, który nie zgadza się ze stanowiskiem przewodniczącego, może złożyć zdanie odrębne, które odnotowuje się w protokole powypadkowym.
 § 44. Przewodniczący zespołu poucza poszkodowanego lub reprezentujące go osoby o przysługujących im prawach w toku postępowania powypadkowego.
 § 44a. 1. Protokół powypadkowy należy sporządzić w terminie 21 dni od dnia zakończenia postępowania powypadkowego i niezwłocznie doręczyć osobom uprawnionym do zaznajomienia się z materiałami tego postępowania.
@@ -173,16 +177,19 @@ Stopnie schodów nie mogą być śliskie.
 2. Wzór rejestru wypadków jest określony w załączniku nr 2 do rozporządzenia.
 § 51. Dyrektor omawia z pracownikami szkoły lub placówki okoliczności i przyczyny wypadków oraz ustala środki niezbędne do zapobieżenia im.
 § 52. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy dotyczące ustalania okoliczności i przyczyn wypadków przy pracy.
+§ 53. Szkoły i placówki niepubliczne dostosują swoją działalność do wymogów określonych w § 7 ust. 1, § 9 ust. 2, § 10 ust. 2, § 20 i § 21 w terminie do dnia 31 sierpnia 2003 r.
 § 54. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-i Sportu z dnia 31 grudnia2002r.
+Ministra Edukacji Narodowej i Sportu z dnia 31 grudnia2002r.
 
-#### Rozdział 1 Przepisy ogólne § 1. Ilekroć w niniejszym rozporządzeniu jest mowa o „dyrektorze”, rozumie się przez to dyrektora szkoły lub placówki.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Warsztaty, laboratoria, pracownie oraz stanowiska praktycznej nauki zawodu § 23. 1. Maszyny i inne urządzenia techniczne utrzymuje się w stanie zapewniającym pełną sprawność działania oraz bezpieczeństwo pracy i nauki.
+#### Rozdział 2 Warsztaty, laboratoria, pracownie oraz stanowiska praktycznej nauki zawodu
 
-#### Rozdział 4 Wypadki osób pozostających pod opieką szkoły i placówki § 40. Pracownik szkoły lub placówki, który powziął wiadomość o wypadku, niezwłocznie zapewnia poszkodowanemu opiekę, w szczególności sprowadzając fachową pomoc medyczną, a w miarę możliwości udzielając poszkodowanemu pierwszej pomocy.
+#### Rozdział 3 Wychowanie fizyczne, sport i turystyka
 
-#### Rozdział 5 Przepisy końcowe § 53. Szkoły i placówki niepubliczne dostosują swoją działalność do wymogów określonych w § 7 ust. 1, § 9 ust. 2, § 10 ust. 2, § 20 i § 21 w terminie do dnia 31 sierpnia 2003 r.
+#### Rozdział 4 Wypadki osób pozostających pod opieką szkoły i placówki
+
+#### Rozdział 5 Przepisy końcowe
 
 ## Załącznik nr 1 — WZÓR WZÓR PROTOKÓŁ POWYPADKOWY
 
@@ -203,7 +210,7 @@ szkoły/placówki ..............................................................
 4. Udzielona pomoc .........................................................................................................................
 5. Miejsce wypadku ..........................................................................................................................
 6. Rodzaj zajęć ..................................................................................................................................
-Opis wypadku z podaniem jego przyczyn ................................................................................
+Opis wypadku – z podaniem jego przyczyn ................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
@@ -214,7 +221,7 @@ Opis wypadku z podaniem jego przyczyn ..........................................
 .......................................................................................................................................................
 .......................................................................................................................................................
 7. Imię i nazwisko osoby sprawującej nadzór nad poszkodowanym w chwili wypadku .......................................................................................................................................................
-8. Czy osoba sprawująca bezpośrednią pieczę nad poszkodowanym była obecna w chwili wypadku w miejscu, w którym zdarzył się wypadek (jeżeli nie podać, z jakiej przyczyny) ....................................................................................................................................
+8. Czy osoba sprawująca bezpośrednią pieczę nad poszkodowanym była obecna w chwili wypadku w miejscu, w którym zdarzył się wypadek (jeżeli nie – podać, z jakiej przyczyny) ....................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
 9. Świadkowie wypadku:

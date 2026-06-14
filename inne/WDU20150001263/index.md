@@ -8,10 +8,10 @@ pos: 1263
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1263 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 14 sierpnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,51 +25,58 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001263) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1263/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU dnia 14 sierpnia 2015 r.
-sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej ramach osi priorytetowej II Nowoczesna Infrastruktura Transportowa Programu Operacyjnego Polska Wschodnia 2014–2020 Na podstawie art. 6b ust. 10a ustawy dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. 2014 r. poz. 1804 oraz 2015 r. poz. 978 1240) zarządza się, co następuje:
+w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi priorytetowej II Nowoczesna Infrastruktura Transportowa Programu Operacyjnego Polska Wschodnia 2014–2020 Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804 oraz z 2015 r. poz. 978 i 1240) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach osi priorytetowej II Nowoczesna Infrastruktura Transportowa Programu Operacyjnego Polska Wschodnia 2014–2020, zwanego dalej „Programem”, w działaniach:
 1) 2.1 Zrównoważony Transport Miejski;
 2) 2.2 Infrastruktura Drogowa.
-§ 2. Użyte rozporządzeniu określenia oznaczają:
-1) rozporządzenie 1303/2013 rozporządzenie Parlamentu Europejskiego Rady (UE) nr 1303/2013 dnia 17 grudnia 2013 r. ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego Rybackiego oraz ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności Europejskiego Funduszu Morskiego Rybackiego oraz uchylające rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 20.12.2013, str. 320, późn. zm.);
-2) ustawa o zasadach programów ustawę dnia 11 lipca 2014 r. o zasadach programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, późn. zm. );
-4) projekt projekt, o którym mowa art. 2 pkt 18 ustawy o zasadach programów;
-5) duży projekt projekt, o którym mowa art. 100 rozporządzenia 1303/2013;
-6) obszar funkcjonalny miasta wojewódzkiego obszar, o którym mowa art. 2 pkt 6b ustawy dnia 27 marca 2003 r.
-o planowaniu zagospodarowaniu przestrzennym (Dz. U. 2015 r. poz. 199, 443 774), obejmujący miasta: Białystok, Kielce, Lublin, Olsztyn, Rzeszów oraz bezpośrednie otoczenie tych miast powiązane nimi funkcjonalnie;
-7) obszar ZIT miasta wojewódzkiego obszar Zintegrowanych Inwestycji Terytorialnych ramach regionalnego programu operacyjnego, o którym mowa art. 30 ust. 2 pkt 1 ustawy o zasadach programów, obejmujący miasta: Białystok, Kielce, Lublin, Olsztyn, Rzeszów oraz obszary powiązane nimi funkcjonalnie;
-8) sieć TEN-T transeuropejska sieć transportowa, o której mowa rozporządzeniu Parlamentu Europejskiego Rady (UE) nr 1315/2013 dnia 11 grudnia 2013 r. sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej uchylającym decyzję nr 661/2010/UE (Dz. Urz. UE L 348 20.12.2013, str. 1, późn. zm.).
-§ 3. 1. Pomoc finansowa jest udzielana formie bezzwrotnego wsparcia finansowego na pokrycie do 85% wydatków kwalifikowalnych.
-2. Wydatkami kwalifikowalnymi są wydatki niezbędne do projektu, dokonane sposób przejrzysty, racjonalny, efektywny adekwatny do zaplanowanych przez wnioskodawcę zadań założonych celów projektu oraz celów założonych dla działań, o których mowa § 1, poniesione od dnia 1 stycznia 2014 r. do dnia wskazanego umowie spełniającej wymagania określone dla umowy o dofinansowanie, o której mowa art. 2 pkt 26 lit. a ustawy o zasadach realizacji programów, zwanej dalej „umową”.
+§ 2. Użyte w rozporządzeniu określenia oznaczają:
+1) rozporządzenie 1303/2013 – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylające rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.);
+2) ustawa o zasadach realizacji programów – ustawę z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm. );
+3) wnioskodawca – podmiot, o którym mowa w art. 2 pkt 28 ustawy o zasadach realizacji programów;
+4) projekt – projekt, o którym mowa w art. 2 pkt 18 ustawy o zasadach realizacji programów;
+5) duży projekt – projekt, o którym mowa w art. 100 rozporządzenia 1303/2013;
+6) obszar funkcjonalny miasta wojewódzkiego – obszar, o którym mowa w art. 2 pkt 6b ustawy z dnia 27 marca 2003 r.
+o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, 443 i 774), obejmujący miasta: Białystok, Kielce, Lublin, Olsztyn, Rzeszów oraz bezpośrednie otoczenie tych miast powiązane z nimi funkcjonalnie;
+7) obszar realizacji ZIT miasta wojewódzkiego – obszar realizacji Zintegrowanych Inwestycji Terytorialnych w ramach regionalnego programu operacyjnego, o którym mowa w art. 30 ust. 2 pkt 1 ustawy o zasadach realizacji programów, obejmujący miasta: Białystok, Kielce, Lublin, Olsztyn, Rzeszów oraz obszary powiązane z nimi funkcjonalnie;
+8) sieć TEN-T – transeuropejska sieć transportowa, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającym decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.).
+§ 3. 1. Pomoc finansowa jest udzielana w formie bezzwrotnego wsparcia finansowego na pokrycie do 85% wydatków kwalifikowalnych.
+2. Wydatkami kwalifikowalnymi są wydatki niezbędne do realizacji projektu, dokonane w sposób przejrzysty, racjonalny, efektywny i adekwatny do zaplanowanych przez wnioskodawcę zadań i założonych celów projektu oraz celów założonych dla działań, o których mowa w § 1, poniesione od dnia 1 stycznia 2014 r. do dnia wskazanego w umowie spełniającej wymagania określone dla umowy o dofinansowanie, o której mowa w art. 2 pkt 26 lit. a ustawy o zasadach realizacji programów, zwanej dalej „umową”.
 3. Pomoc finansowa jest udzielana do dnia 31 grudnia 2023 r.
-1) budowę lub przebudowę sieci autobusowych, trolejbusowych lub tramwajowych, wraz zakupem nowego niskoemisyjnego taboru;
-2) budowę lub przebudowę infrastruktury uzupełniającej na potrzeby komunikacji miejskiej, tym intermodalnych dworców przesiadkowych;
-wdrożenie nowych, rozbudowę lub modernizację istniejących systemów telematycznych na potrzeby komunikacji miejskiej.
-§ 5. Pomoc finansowa ramach działania 2.1 Zrównoważony Transport Miejski może być udzielona:
-1) miastom: Białystok, Kielce, Lublin, Olsztyn, Rzeszów, tym działającym na podstawie porozumienia zawartego jednostkami samorządu terytorialnego położonymi na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze ZIT miasta wojewódzkiego;
-2) związkom lub stowarzyszeniom utworzonym przez miasta, o których mowa pkt 1, oraz jednostki samorządu terytorialnego położone na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze ZIT miasta wojewódzkiego.
-1) budowy lub przebudowy dróg krajowych obrębie miast: Białystok, Kielce, Lublin, Olsztyn, Rzeszów;
-2) budowy lub przebudowy dróg wojewódzkich obrębie miast: Białystok, Kielce, Lublin, Olsztyn, Rzeszów, zapew4) budowy lub przebudowy dróg wojewódzkich na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze ZIT miasta wojewódzkiego, włączających te drogi do sieci dróg krajowych, tym sieci TEN-T.
-§ 7. 1. Pomoc finansowa, o której mowa § 6 pkt 1 2, może być udzielona miastom: Białystok, Kielce, Lublin, Olsztyn, Rzeszów, tym działającym na podstawie porozumienia zawartego jednostkami samorządu terytorialnego położonymi na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze ZIT miasta wojewódzkiego.
-2. Pomoc finansowa, o której mowa § 6 pkt 3, może być udzielona miastom, o których mowa ust. 1, działającym na podstawie porozumienia zawartego Generalnym Dyrektorem Dróg Krajowych Autostrad.
-3. Pomoc finansowa, o której mowa § 6 pkt 4, może być udzielona:
-1) związkom lub stowarzyszeniom utworzonym przez miasta, o których mowa ust. 1, oraz jednostki samorządu terytorialnego położone na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze ZIT miasta wojewódzkiego;
+§ 4. Pomoc finansowa w ramach działania 2.1 Zrównoważony Transport Miejski może być udzielona na realizację projektów dotyczących ekologicznych, zintegrowanych sieci transportu miejskiego, obejmujących:
+1) budowę lub przebudowę sieci autobusowych, trolejbusowych lub tramwajowych, wraz z zakupem nowego niskoemisyjnego taboru;
+2) budowę lub przebudowę infrastruktury uzupełniającej na potrzeby komunikacji miejskiej, w tym intermodalnych dworców przesiadkowych;
+3) wdrożenie nowych, rozbudowę lub modernizację istniejących systemów telematycznych na potrzeby komunikacji miejskiej.
+§ 5. Pomoc finansowa w ramach działania 2.1 Zrównoważony Transport Miejski może być udzielona:
+1) miastom: Białystok, Kielce, Lublin, Olsztyn, Rzeszów, w tym działającym na podstawie porozumienia zawartego z jednostkami samorządu terytorialnego położonymi na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze realizacji ZIT miasta wojewódzkiego;
+2) związkom lub stowarzyszeniom utworzonym przez miasta, o których mowa w pkt 1, oraz jednostki samorządu terytorialnego położone na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze realizacji ZIT miasta wojewódzkiego.
+§ 6. Pomoc finansowa w ramach działania 2.2 Infrastruktura Drogowa może być udzielona na realizację projektów dotyczących:
+1) budowy lub przebudowy dróg krajowych w obrębie miast: Białystok, Kielce, Lublin, Olsztyn, Rzeszów;
+2) budowy lub przebudowy dróg wojewódzkich w obrębie miast: Białystok, Kielce, Lublin, Olsztyn, Rzeszów, zapewniających połączenie tych dróg z siecią dróg krajowych, w tym z siecią TEN-T;
+3) budowy lub przebudowy dróg krajowych znajdujących się na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze realizacji ZIT miasta wojewódzkiego;
+4) budowy lub przebudowy dróg wojewódzkich na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze realizacji ZIT miasta wojewódzkiego, włączających te drogi do sieci dróg krajowych, w tym sieci TEN-T.
+§ 7. 1. Pomoc finansowa, o której mowa w § 6 pkt 1 i 2, może być udzielona miastom: Białystok, Kielce, Lublin, Olsztyn, Rzeszów, w tym działającym na podstawie porozumienia zawartego z jednostkami samorządu terytorialnego położonymi na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze realizacji ZIT miasta wojewódzkiego.
+2. Pomoc finansowa, o której mowa w § 6 pkt 3, może być udzielona miastom, o których mowa w ust. 1, działającym na podstawie porozumienia zawartego z Generalnym Dyrektorem Dróg Krajowych i Autostrad.
+3. Pomoc finansowa, o której mowa w § 6 pkt 4, może być udzielona:
+1) związkom lub stowarzyszeniom utworzonym przez miasta, o których mowa w ust. 1, oraz jednostki samorządu terytorialnego położone na obszarze funkcjonalnym miasta wojewódzkiego albo na obszarze realizacji ZIT miasta wojewódzkiego;
 2) województwom: lubelskiemu, podkarpackiemu, podlaskiemu, świętokrzyskiemu, warmińsko-mazurskiemu.
-1) ramach działania 2.1 Zrównoważony Transport Miejski ̶ trybach: konkursowym pozakonkursowym, o których mowa art. 38 ust. 1 ustawy o zasadach programów;
-2) ramach działania 2.2 Infrastruktura Drogowa ̶ trybie konkursowym, o którym mowa art. 38 ust. 1 pkt 1 ustawy o zasadach programów.
+§ 8. Agencja udziela pomocy finansowej:
+1) w ramach działania 2.1 Zrównoważony Transport Miejski ̶ w trybach: konkursowym i pozakonkursowym, o których mowa w art. 38 ust. 1 ustawy o zasadach realizacji programów;
+2) w ramach działania 2.2 Infrastruktura Drogowa ̶ w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy o zasadach realizacji programów.
 § 9. 1. Agencja udziela pomocy finansowej na podstawie umowy.
-2. Agencja, przypadku dużego projektu, zawiera umowę po zatwierdzeniu wkładu finansowego przez Komisję Europejską.
-3. Instytucja Zarządzająca, o której mowa art. 125 rozporządzenia 1303/2013, pisemnie informuje Agencję o zatwierdzeniu albo odmowie wniesienia wkładu finansowego dla dużego projektu przez Komisję Europejską.
+2. Agencja, w przypadku dużego projektu, zawiera umowę po zatwierdzeniu wkładu finansowego przez Komisję Europejską.
+3. Instytucja Zarządzająca, o której mowa w art. 125 rozporządzenia 1303/2013, pisemnie informuje Agencję o zatwierdzeniu albo odmowie wniesienia wkładu finansowego dla dużego projektu przez Komisję Europejską.
 4. Agencja może zawrzeć umowę dla dużego projektu przed zatwierdzeniem przez Komisję Europejską wkładu finansowego.
 5. W przypadku odmowy wniesienia wkładu finansowego przez Komisję Europejską, Agencja rozwiązuje umowę bez wypowiedzenia.
-Minister Infrastruktury Rozwoju: M. Wasiak
+§ 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Infrastruktury i Rozwoju: M. Wasiak
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej ramach osi priorytetowej II Nowoczesna Infrastruktura Transportowa Programu Operacyjnego Polska Wschodnia 2014–2020, zwanego dalej „Programem”, działaniach:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Działanie 2.1 Zrównoważony Transport Miejski § 4. Pomoc finansowa ramach działania 2.1 Zrównoważony Transport Miejski może być udzielona na realizację projektów dotyczących ekologicznych, zintegrowanych sieci transportu miejskiego, obejmujących:
+#### Rozdział 2 Działanie 2.1 Zrównoważony Transport Miejski
 
-#### Rozdział 3 Działanie 2.2 Infrastruktura Drogowa § 6. Pomoc finansowa ramach działania 2.2 Infrastruktura Drogowa może być udzielona na realizację projektów dotyczących:
+#### Rozdział 3 Działanie 2.2 Infrastruktura Drogowa
 
-#### Rozdział 4 Tryb udzielania pomocy finansowej § 8. Agencja udziela pomocy finansowej:
+#### Rozdział 4 Tryb udzielania pomocy finansowej
 
-#### Rozdział 5 Przepis końcowy § 10. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
+#### Rozdział 5 Przepis końcowy
 

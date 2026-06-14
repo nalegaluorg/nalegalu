@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa.*
 
-Łącznie: **1839** orzeczeń
-(pominięto 1158 orzeczeń sądów rejonowych)
+Łącznie: **1841** orzeczeń
+(pominięto 1160 orzeczeń sądów rejonowych)
 
 ## art. 0 (2)
 
@@ -165,13 +165,14 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkow
 - 2015-10-12 | SO | [II K 174/12](https://www.saos.org.pl/judgments/183630) | Wyrok
 - 2017-04-04 | SO | [II K 878/15](https://www.saos.org.pl/judgments/277583) | Uzasadnienie
 
-## art. 8 (16)
+## art. 8 (17)
 
 - 2001-11-15 | SN | [III CZP 68/01](https://www.saos.org.pl/judgments/80986) | Uchwała ★
 - 2003-11-04 | SN | [III SZ 1/03](https://www.saos.org.pl/judgments/82306) | Wyrok ★
 - 2002-07-02 | SN | [IV KK 164/02](https://www.saos.org.pl/judgments/81494) | Wyrok ★
 - 2010-08-26 | SN | [I KZP 9/10](https://www.saos.org.pl/judgments/92802) | Postanowienie
 - 2000-12-20 | SN | [III RN 31/00](https://www.saos.org.pl/judgments/80202) | Postanowienie
+- 2025-12-16 | SO | [I ACa 1372/23](https://www.saos.org.pl/judgments/546646) | Wyrok
 - 2017-12-21 | SO | [II AKa 172/17](https://www.saos.org.pl/judgments/384149) | Wyrok
 - 2016-12-15 | SO | [I ACa 579/16](https://www.saos.org.pl/judgments/273515) | Wyrok
 - 2014-02-28 | SO | [I ACa 1626/13](https://www.saos.org.pl/judgments/70594) | Wyrok
@@ -1713,11 +1714,12 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkow
 - 2014-09-17 | SO | [III AUa 2735/13](https://www.saos.org.pl/judgments/65354) | Wyrok
 - 2014-06-25 | SO | [III AUa 163/14](https://www.saos.org.pl/judgments/52201) | Wyrok
 
-## art. 56 (144)
+## art. 56 (145)
 
 - 2004-04-27 | TK | [Ts 210/03](https://www.saos.org.pl/judgments/107077) | Postanowienie ★
 - 2004-03-18 | TK | [Ts 210/03](https://www.saos.org.pl/judgments/107076) | Postanowienie ★
 - 2003-11-06 | SN | [III RN 133/02](https://www.saos.org.pl/judgments/82305) | Wyrok ★
+- 2025-12-16 | SO | [I ACa 1372/23](https://www.saos.org.pl/judgments/546646) | Wyrok
 - 2025-05-07 | SO | [III AUa 606/24](https://www.saos.org.pl/judgments/531040) | Wyrok
 - 2025-01-08 | SO | [III AUa 1239/23](https://www.saos.org.pl/judgments/539085) | Wyrok
 - 2024-12-19 | SO | [III AUa 414/23](https://www.saos.org.pl/judgments/531130) | Wyrok
@@ -7341,7 +7343,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkow
 
 - 2015-01-19 | SO | [III AUa 358/14](https://www.saos.org.pl/judgments/133356) | Wyrok
 
-## art. 116 (503)
+## art. 116 (504)
 
 - 2003-03-12 | SN | [III CZP 85/02](https://www.saos.org.pl/judgments/81905) | Uchwała ★
 - 2008-05-07 | SN | [II UZP 1/08](https://www.saos.org.pl/judgments/88018) | Uchwała ★
@@ -7360,6 +7362,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkow
 - 2005-07-13 | SN | [I UK 292/04](https://www.saos.org.pl/judgments/83589) | Wyrok ★
 - 2005-07-07 | SN | [IV CK 58/05](https://www.saos.org.pl/judgments/163409) | Wyrok ★
 - 2002-02-21 | SN | [IV CKN 793/00](https://www.saos.org.pl/judgments/81230) | Wyrok ★
+- 2026-04-22 | SO | [III AUa 289/23](https://www.saos.org.pl/judgments/546987) | Wyrok
 - 2025-10-15 | SO | [III AUa 263/25](https://www.saos.org.pl/judgments/542802) | Wyrok
 - 2025-08-22 | SO | [III AUa 406/21](https://www.saos.org.pl/judgments/535937) | Wyrok
 - 2025-05-07 | SO | [III AUa 606/24](https://www.saos.org.pl/judgments/531040) | Wyrok

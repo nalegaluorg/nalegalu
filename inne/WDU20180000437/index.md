@@ -8,10 +8,10 @@ pos: 437
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lutego 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 437 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 lutego 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000437) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/437/text.pdf) |
 
-Poz. 437 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 lutego 2018 r.
-w sprawie zakresu danych identyfikujących prywatne przenośne urządzenie służące do komunikacji elektronicznej Na podstawie art. 203 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm. ) zarządza się, co następuje: § 1. Dane identyfikujące prywatne przenośne urządzenie służące do komunikacji elektronicznej, które funkcjonariusz Służby Celno-Skarbowej zgłasza zgodnie z art. 203 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, obejmują:
+w sprawie zakresu danych identyfikujących prywatne przenośne urządzenie służące do komunikacji elektronicznej Na podstawie art. 203 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm. ) zarządza się, co następuje:
+§ 1. Dane identyfikujące prywatne przenośne urządzenie służące do komunikacji elektronicznej, które funkcjonariusz Służby Celno-Skarbowej zgłasza zgodnie z art. 203 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, obejmują:
 1) rodzaj urządzenia, jego markę, model i indywidualny numer identyfikacyjny oraz
 2) numer identyfikujący urządzenie w ruchomej publicznej sieci telekomunikacyjnej operatora oraz numer IMEI albo numer MEID – w przypadku urządzenia umożliwiającego prowadzenie rozmów telefonicznych oraz wysyłanie i odbieranie krótkich wiadomości tekstowych lub multimedialnych.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2018 r.

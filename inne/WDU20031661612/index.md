@@ -8,7 +8,7 @@ pos: 1612
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o urzędowych nazwach miejscowości i obiektów fizjograficznych
@@ -40,6 +40,19 @@ source: "isap-pdf"
 2. Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia urzędowych nazw w zakresie uregulowanym przepisami o ochronie przyrody, a także w przypadkach, gdy urzędową nazwę określa odrębna ustawa.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** jednostka osadnicza – wyodrębniony przestrzennie obszar zabudowy mieszkaniowej wraz z obiektami infrastruktury technicznej zamieszkany przez ludzi;
+- **2)** kolonia – jednostkę osadniczą powstałą jako rezultat ekspansji miejscowości poza obszar wcześniej istniejącej zabudowy, w szczególności: kolonię miasta, kolonię wsi;
+- **3)** miasto – jednostkę osadniczą o przewadze zwartej zabudowy i funkcjach nierolniczych posiadającą prawa miejskie bądź status miasta nadany w trybie określonym odrębnymi przepisami;
+- **4)** miejscowość – jednostkę osadniczą lub inny obszar zabudowany odróżniające się od innych miejscowości odrębną nazwą, a przy jednakowej nazwie – odmiennym określeniem ich rodzaju;
+- **5)** miejscowość niezamieszkana – miejscowość, w której nie przebywa stale lub nie jest zameldowana na pobyt stały co najmniej jedna osoba;
+- **6)** miejscowość zamieszkana – miejscowość, w której stale przebywa lub jest zameldowana na pobyt stały co najmniej jedna osoba;
+- **7)** obiekt fizjograficzny – wyodrębniony składnik środowiska geograficznego, w szczególności: nizinę, wyżynę, wzgórze, pasmo górskie, górę, szczyt góry, przełęcz, dolinę, kotlinę, jaskinię, rzekę, kanał, jezioro, zatokę, bagno, staw, sztuczny zbiornik wodny, wodospad, las, kompleks leśny, uroczysko, półwysep, wyspę;
+- **8)** osada – niewielką jednostkę osadniczą na terenie wiejskim o odmiennym (wyróżniającym się) charakterze zabudowy albo zamieszkaną przez ludność związaną z określonym miejscem lub rodzajem pracy, w szczególności: osadę młyńską, osadę leśną, osadę rybacką, osadę kolejową, osadę po byłym państwowym gospodarstwie rolnym; osada może być samodzielna lub może stanowić część innej jednostki osadniczej;
+- **9)** osiedle – zespół mieszkaniowy stanowiący integralną część miasta lub wsi;
+- **10)** przysiółek – skupisko kilku gospodarstw położonych poza zabudową wsi stanowiące integralną część wsi;
+- **11)** rodzaj miejscowości – określenie charakteru miejscowości ukształtowanej w procesie rozwoju osadnictwa, w szczególności: miasto, osiedle, wieś, osada, kolonia, przysiółek i ich części;
+- **12)** wieś – jednostkę osadniczą o zwartej lub rozproszonej zabudowie i istniejących funkcjach rolniczych lub związanych z nimi usługowych lub turystycznych nieposiadającą praw miejskich lub statusu miasta.
 
 **Art. 3.**
 

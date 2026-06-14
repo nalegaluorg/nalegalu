@@ -8,10 +8,10 @@ pos: 803
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 maja 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 803 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 maja 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/803/text.pdf) |
 
-Poz. 803 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 maja 2024 r.
-zmieniające rozporządzenie w sprawie uposażenia strażaków Państwowej Straży Pożarnej Na podstawie art. 88 ust. 5 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 127) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 września 2021 r. w sprawie uposażenia strażaków Państwowej Straży Pożarnej (Dz. U. poz. 1750, z późn. zm. ) w § 9:
+zmieniające rozporządzenie w sprawie uposażenia strażaków Państwowej Straży Pożarnej Na podstawie art. 88 ust. 5 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 127) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 września 2021 r. w sprawie uposażenia strażaków Państwowej Straży Pożarnej (Dz. U. poz. 1750, z późn. zm. ) w § 9:
 1) w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) dodatek wprowadzający do służby.”;
 2) dodaje się ust. 8–10 w brzmieniu: „8. Strażakowi mianowanemu na stanowisko służbowe stażysty przyznaje się dodatek wprowadzający do służby.
 9. Dodatek wprowadzający do służby przyznaje się strażakowi w miesięcznej stawce w wysokości 544 zł.

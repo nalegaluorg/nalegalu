@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2011 r. o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej*
 
-Łącznie: **80** orzeczeń
+Łącznie: **81** orzeczeń
 (pominięto 184 orzeczeń sądów rejonowych)
 
 ## art. 22 (3)
@@ -21,9 +21,10 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2011 r. o zmianie niektórych
 
 - 2015-12-30 | SO | [IV P 564/15](https://www.saos.org.pl/judgments/274534) | Wyrok
 
-## (ogólnie) (76)
+## (ogólnie) (77)
 
 - 2022-07-08 | SO | [VI ACa 1001/21](https://www.saos.org.pl/judgments/489654) | Wyrok
+- 2026-02-17 | SO | [VI P 256/24](https://www.saos.org.pl/judgments/546595) | Wyrok
 - 2026-01-30 | SO | [VI P 654/24](https://www.saos.org.pl/judgments/544929) | Wyrok
 - 2026-01-30 | SO | [VI P 622/24](https://www.saos.org.pl/judgments/544928) | Wyrok
 - 2025-10-08 | SO | [VI P 890/24](https://www.saos.org.pl/judgments/542766) | Wyrok

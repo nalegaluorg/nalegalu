@@ -8,7 +8,7 @@ pos: 59
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Najwyższej Izbie Kontroli
@@ -50,7 +50,8 @@ Art. 99–102. (pominięte)
 - **1)** wykonują zadania zlecone lub powierzone przez państwo lub samorząd terytorialny;
 - **2)** wykonują zamówienia publiczne na rzecz państwa lub samorządu terytorialnego;
 - **3)** organizują lub wykonują prace interwencyjne albo roboty publiczne;
-- **4)** działają z udziałem państwa lub samorządu terytorialnego, korzystają z mienia państwowego lub samorządowego, w tym także ze środków przyznanych na podstawie umów międzynarodowych; udzielonych przez państwo, samorząd terytorialny lub podmioty określone w ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2022 r. poz. 445);
+- **4)** działają z udziałem państwa lub samorządu terytorialnego, korzystają z mienia państwowego lub samorządowego, w tym także ze środków przyznanych na podstawie umów międzynarodowych;
+- **5)** korzystają z indywidualnie przyznanej pomocy, poręczenia lub gwarancji udzielonych przez państwo, samorząd terytorialny lub podmioty określone w ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2022 r. poz. 445);
 - **5a)** udzielają lub korzystają z pomocy publicznej podlegającej monitorowaniu w rozumieniu odrębnych przepisów;
 - **6)** wykonują zadania z zakresu powszechnego ubezpieczenia zdrowotnego;
 - **7)** wywiązują się z zobowiązań, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328), z innych należności budżetowych, gospodarki pozabudżetowej i państwowych funduszy celowych oraz świadczeń pieniężnych na rzecz państwa wynikających ze stosunków cywilnoprawnych.
@@ -61,13 +62,21 @@ Art. 99–102. (pominięte)
 
 **Art. 2a.** Ilekroć w ustawie mówi się o:
 
+- **1)** samorządzie terytorialnym – należy przez to rozumieć gminę, powiat, samorząd województwa oraz inne samorządowe osoby prawne i samorządowe jednostki organizacyjne;
+- **2)** właściwej jednostce kontrolnej – należy przez to rozumieć kontrolną jednostkę organizacyjną Najwyższej Izby Kontroli przeprowadzającą postępowanie kontrolne w jednostce kontrolowanej;
+- **3)** kierowniku jednostki kontrolowanej – należy przez to rozumieć osobę, która zgodnie z przepisami określającymi ustrój jednostki jest odpowiedzialna za działalność tej jednostki i jest uprawniona do jej reprezentowania, a także:
+    - **a)** osobę pełniącą obowiązki kierownika jednostki kontrolowanej lub upoważnionego zastępcę,
+    - **b)** upoważnionego sekretarza lub podsekretarza stanu, zastępcę kierownika urzędu centralnego albo dyrektora generalnego – w zakresie przydzielonych im zadań objętych zakresem kontroli, jeżeli jednostką kontrolowaną jest naczelny lub centralny organ administracji rządowej,
+    - **c)** pełnomocnika Rządu powołanego na podstawie innych przepisów – w zakresie powierzonych mu zadań,
+    - **d)** osobę kierującą pracami organu wieloosobowego.
+
 **Art. 3.** Najwyższa Izba Kontroli, kontrolując jednostki wymienione w art. 2, bada w szczególności wykonanie budżetu państwa oraz realizację ustaw i innych aktów prawnych w zakresie działalności finansowej, gospodarczej i organizacyjno-administracyjnej, w tym realizację zadań audytu wewnętrznego, tych jednostek.
 
 **Art. 4.**
 
 1. Najwyższa Izba Kontroli kontroluje wykonanie budżetu, realizację zadań audytu wewnętrznego, gospodarkę finansową i majątkową Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Sądu Najwyższego, Naczelnego Sądu Administracyjnego, Krajowej Rady Sądownictwa, Trybunału Konstytucyjnego, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka, Krajowej Rady Radiofonii i Telewizji, Prezesa Urzędu Ochrony Danych Osobowych, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, Krajowego Biura Wyborczego oraz Państwowej Inspekcji Pracy.
 
-2. Na zlecenie Najwyższa Izba Kontroli przeprowadza kontrolę działalności Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Sejmu, Kancelarii Senatu, Krajowej Rady Radiofonii i Telewizji, Rzecznika Praw Dziecka, Prezesa Urzędu Ochrony Danych Osobowych, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Państwowej Inspekcji Pracy, tak jak działalności organów i jednostek, o których mowa w art. 2 ust. 1.
+2. Na zlecenie Sejmu Najwyższa Izba Kontroli przeprowadza kontrolę działalności Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Sejmu, Kancelarii Senatu, Krajowej Rady Radiofonii i Telewizji, Rzecznika Praw Dziecka, Prezesa Urzędu Ochrony Danych Osobowych, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Państwowej Inspekcji Pracy, tak jak działalności organów i jednostek, o których mowa w art. 2 ust. 1.
 
 3. Kontrolę działalności Kancelarii Prezydenta Rzeczypospolitej Polskiej, tak jak działalności organów i jednostek, o których mowa w art. 2 ust. 1, Najwyższa Izba Kontroli przeprowadza również na wniosek Prezydenta Rzeczypospolitej Polskiej, a Kancelarii Senatu na wniosek Senatu.
 
@@ -75,7 +84,11 @@ Art. 99–102. (pominięte)
 
 1. Najwyższa Izba Kontroli bada roczne sprawozdanie finansowe Polskiej Agencji Nadzoru Audytowego. Badanie przeprowadza kontroler, o którym mowa w art. 66a, wpisany do rejestru biegłych rewidentów.
 
-2. Badanie, o którym mowa w ust. 1, nie stanowi wykonywania zawodu biegłego rewidenta. legalności, gospodarności, celowości i rzetelności, z zastrzeżeniem ust. 2 i 3.
+2. Badanie, o którym mowa w ust. 1, nie stanowi wykonywania zawodu biegłego rewidenta.
+
+**Art. 5.**
+
+1. Najwyższa Izba Kontroli przeprowadza kontrolę pod względem legalności, gospodarności, celowości i rzetelności, z zastrzeżeniem ust. 2 i 3.
 
 2. Kontrola działalności samorządu terytorialnego przeprowadzana jest pod względem legalności, gospodarności i rzetelności.
 
@@ -83,7 +96,7 @@ Art. 99–102. (pominięte)
 
 **Art. 6.**
 
-1. Najwyższa Izba Kontroli podejmuje kontrole na zlecenie lub jego organów, na wniosek Prezydenta Rzeczypospolitej Polskiej, Prezesa Rady Ministrów oraz z własnej inicjatywy.
+1. Najwyższa Izba Kontroli podejmuje kontrole na zlecenie Sejmu lub jego organów, na wniosek Prezydenta Rzeczypospolitej Polskiej, Prezesa Rady Ministrów oraz z własnej inicjatywy.
 
 2. Najwyższa Izba Kontroli wykonuje swoje zadania na podstawie rocznego planu pracy, który przedkłada Sejmowi; może też przeprowadzać kontrole doraźne.
 
@@ -100,11 +113,13 @@ Art. 99–102. (pominięte)
 - **6a)** analizę wykorzystania wynikających z kontroli wniosków dotyczących stanowienia lub stosowania prawa.
 - **7)** (uchylony) 1a. Najwyższa Izba Kontroli przedstawia Sejmowi coroczne sprawozdanie ze swojej działalności.
 
-2. Tryb wykonywania przez Najwyższą Izbę Kontroli obowiązków wobec i jego organów określa regulamin Sejmu.
+2. Tryb wykonywania przez Najwyższą Izbę Kontroli obowiązków wobec Sejmu i jego organów określa regulamin Sejmu.
 
 **Art. 7a.**
 
-1. Nie rzadziej niż raz na 3 lata przeprowadza się audyt zewnętrzny w zakresie wykonania budżetu oraz gospodarki finansowej Najwyższej Izby Kontroli. Audyt zewnętrzny obejmuje okres następujący po okresie objętym ostatnim audytem. obejmującej:
+1. Nie rzadziej niż raz na 3 lata przeprowadza się audyt zewnętrzny w zakresie wykonania budżetu oraz gospodarki finansowej Najwyższej Izby Kontroli. Audyt zewnętrzny obejmuje okres następujący po okresie objętym ostatnim audytem.
+
+2. Audyt zewnętrzny oznacza ogół działań służących do wyrażenia opinii obejmującej:
 
 - **1)** ocenę prawidłowości i wiarygodności rocznego sprawozdania z wykonania budżetu Najwyższej Izby Kontroli;
 - **2)** ocenę zgodności stanu faktycznego ze stanem wymaganym w zakresie dotyczącym procesów pobierania i gromadzenia środków publicznych, dokonywania wydatków ze środków publicznych, udzielania zamówień publicznych oraz zwrotu środków publicznych;
@@ -113,7 +128,7 @@ Art. 99–102. (pominięte)
 
 **Art. 7b.**
 
-1. Przeprowadzenie audytu zewnętrznego zleca Marszałek podmiotowi wybranemu zgodnie z przepisami o zamówieniach publicznych.
+1. Przeprowadzenie audytu zewnętrznego zleca Marszałek Sejmu podmiotowi wybranemu zgodnie z przepisami o zamówieniach publicznych.
 
 2. Audyt zewnętrzny przeprowadza podmiot niezależny od Najwyższej Izby Kontroli posiadający odpowiednie kwalifikacje i wiedzę z zakresu audytu. Audyt mogą przeprowadzać:
 
@@ -128,47 +143,66 @@ Art. 99–102. (pominięte)
 
 2. Pracownicy Najwyższej Izby Kontroli, o których mowa w art. 66, są obowiązani, na żądanie audytora zewnętrznego, udzielać informacji i wyjaśnień oraz potwierdzać zgodność z oryginałem kopii dokumentów, ich odpisów, wyciągów, zestawień oraz wydruków.
 
-3. Z przyjęcia ustnych informacji i złożonych ustnie wyjaśnień sporządza się protokół, który podpisuje audytor zewnętrzny oraz osoba, która ich udzieliła lub je złożyła. z przeprowadzonego audytu, w którym przedstawia w sposób jednoznaczny, rzetelny i zwięzły ustalenia i wnioski poczynione w trakcie audytu. Sprawozdanie powinno zawierać sformułowanie opinii, o której mowa w art. 7a ust. 2.
+3. Z przyjęcia ustnych informacji i złożonych ustnie wyjaśnień sporządza się protokół, który podpisuje audytor zewnętrzny oraz osoba, która ich udzieliła lub je złożyła.
+
+**Art. 7d.**
+
+1. Audytor zewnętrzny sporządza pisemne sprawozdanie z przeprowadzonego audytu, w którym przedstawia w sposób jednoznaczny, rzetelny i zwięzły ustalenia i wnioski poczynione w trakcie audytu. Sprawozdanie powinno zawierać sformułowanie opinii, o której mowa w art. 7a ust. 2.
 
 2. Audytor zewnętrzny przekazuje sprawozdanie, o którym mowa w ust. 1, Prezesowi Najwyższej Izby Kontroli w terminie 14 dni od zakończenia audytu.
 
 3. Prezes Najwyższej Izby Kontroli, w terminie 14 dni od przekazania sprawozdania, może przedstawić do niego swoje stanowisko.
 
-4. Audytor zewnętrzny przekazuje Marszałkowi sprawozdanie wraz ze stanowiskiem, o których mowa w ust. 3.
+4. Audytor zewnętrzny przekazuje Marszałkowi Sejmu sprawozdanie wraz ze stanowiskiem, o których mowa w ust. 3.
 
 **Art. 8.**
 
-1. Najwyższa Izba Kontroli przedkłada Prezydentowi Rzeczypospolitej Polskiej informacje o wynikach kontroli przeprowadzonych na jego wniosek oraz informacje o wynikach kontroli przeprowadzonych na zlecenie lub jego organów, na wniosek Prezesa Rady Ministrów, a także o wynikach innych ważniejszych kontroli.
+1. Najwyższa Izba Kontroli przedkłada Prezydentowi Rzeczypospolitej Polskiej informacje o wynikach kontroli przeprowadzonych na jego wniosek oraz informacje o wynikach kontroli przeprowadzonych na zlecenie Sejmu lub jego organów, na wniosek Prezesa Rady Ministrów, a także o wynikach innych ważniejszych kontroli.
 
 2. Najwyższa Izba Kontroli przedkłada Prezesowi Rady Ministrów informacje o wynikach kontroli przeprowadzonych na jego wniosek oraz informacje o wynikach kontroli przedkładane Sejmowi i Prezydentowi Rzeczypospolitej Polskiej.
 
 **Art. 9.** Najwyższa Izba Kontroli może przedkładać:
 
+- **1)** właściwym wojewodom informacje o wynikach ważniejszych kontroli dotyczących działalności terenowych organów administracji rządowej;
+- **2)** właściwym wojewodom i organom jednostek samorządu terytorialnego informacje o wynikach ważniejszych kontroli dotyczących działalności samorządu terytorialnego.
+
 **Art. 10.** Prezes Najwyższej Izby Kontroli podaje do wiadomości publicznej, z zachowaniem przepisów o tajemnicy ustawowo chronionej, dokumenty, o których mowa w art. 7 ust. 1 i 1a, art. 8 i art. 9, oraz wystąpienia pokontrolne.
 
 **Art. 11.** Prezes Najwyższej Izby Kontroli może występować do Trybunału Konstytucyjnego z wnioskami o:
 
+- **1)** stwierdzenie zgodności ustaw i umów międzynarodowych z Konstytucją;
+- **2)** stwierdzenie zgodności ustaw z ratyfikowanymi umowami międzynarodowymi, których ratyfikacja wymagała uprzedniej zgody wyrażonej w ustawie;
+- **3)** stwierdzenie zgodności przepisów prawa, wydawanych przez centralne organy państwowe, z Konstytucją, ratyfikowanymi umowami międzynarodowymi i ustawami;
+- **4)** stwierdzenie zgodności z Konstytucją celów lub działalności partii politycznych;
+- **5)** rozstrzygnięcie sporu kompetencyjnego pomiędzy centralnymi konstytucyjnymi organami państwa.
+
 **Art. 11a.**
 
-1. Prezes Najwyższej Izby Kontroli może wystąpić do Marszałka o skierowanie do Prezesa Rady Ministrów wniosku o zajęcie stanowiska wobec wynikających z kontroli wniosków dotyczących stanowienia lub stosowania prawa.
+1. Prezes Najwyższej Izby Kontroli może wystąpić do Marszałka Sejmu o skierowanie do Prezesa Rady Ministrów wniosku o zajęcie stanowiska wobec wynikających z kontroli wniosków dotyczących stanowienia lub stosowania prawa.
 
-2. Stanowisko, o którym mowa w ust. 1, wraz z uzasadnieniem Prezes Rady Ministrów przedkłada Marszałkowi w terminie 60 dni od dnia otrzymania wniosku.
+2. Stanowisko, o którym mowa w ust. 1, wraz z uzasadnieniem Prezes Rady Ministrów przedkłada Marszałkowi Sejmu w terminie 60 dni od dnia otrzymania wniosku.
 
 3. Uznając w stanowisku, o którym mowa w ust. 1, potrzebę zmian w przepisach powszechnie obowiązującego prawa, określa się termin podjęcia prac legislacyjnych w zakresie tych zmian oraz organ odpowiedzialny za opracowanie projektu odpowiednich przepisów.
 
 **Art. 12.** Organy kontroli, rewizji, inspekcji, działające w administracji rządowej i samorządzie terytorialnym, współpracują z Najwyższą Izbą Kontroli i są obowiązane do:
 
+- **1)** udostępniania Najwyższej Izbie Kontroli, na jej wniosek, wyników kontroli przeprowadzonych przez te organy;
+- **2)** przeprowadzania określonych kontroli wspólnie pod kierownictwem Najwyższej Izby Kontroli;
+- **3)** przeprowadzania kontroli doraźnych na zlecenie Najwyższej Izby Kontroli.
+
 **Art. 12a.**
 
 1. Najwyższa Izba Kontroli może przeprowadzać kontrole wspólnie z naczelnymi organami kontroli Wspólnot Europejskich oraz naczelnymi organami kontroli innych państw.
 
-2. Zasady i zakres prowadzenia kontroli, o których mowa w ust. 1, określa porozumienie zawarte pomiędzy Najwyższą Izbą Kontroli i organami, o których mowa w ust. 1. Organizacja Najwyższej Izby Kontroli
+2. Zasady i zakres prowadzenia kontroli, o których mowa w ust. 1, określa porozumienie zawarte pomiędzy Najwyższą Izbą Kontroli i organami, o których mowa w ust. 1.
+
+#### Rozdział 2 Organizacja Najwyższej Izby Kontroli
 
 **Art. 13.** Prezes Najwyższej Izby Kontroli kieruje Najwyższą Izbą Kontroli i odpowiada przed Sejmem za jej działalność.
 
 **Art. 14.**
 
-1. Prezesa Najwyższej Izby Kontroli – na wniosek Marszałka lub grupy co najmniej 35 posłów – powołuje Sejm bezwzględną większością głosów za zgodą Senatu.
+1. Prezesa Najwyższej Izby Kontroli – na wniosek Marszałka Sejmu lub grupy co najmniej 35 posłów – powołuje Sejm bezwzględną większością głosów za zgodą Senatu.
 
 2. Senat podejmuje uchwałę w sprawie powołania Prezesa Najwyższej Izby Kontroli w ciągu miesiąca od dnia otrzymania uchwały Sejmu. Niepodjęcie uchwały w tym terminie oznacza wyrażenie zgody przez Senat.
 
@@ -190,12 +224,13 @@ Art. 99–102. (pominięte)
 
 - **1)** zrzekł się on stanowiska;
 - **2)** uzna, że stał się on trwale niezdolny do pełnienia obowiązków na skutek choroby;
-- **3)** został on skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa; prawomocnym orzeczeniem sądu;
+- **3)** został on skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa;
+- **3a)** złożył on niezgodne z prawdą oświadczenie lustracyjne, stwierdzone prawomocnym orzeczeniem sądu;
 - **4)** Trybunał Stanu orzekł w stosunku do niego zakaz zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwowych.
 
 2. Do odwołania Prezesa Najwyższej Izby Kontroli stosuje się odpowiednio przepisy art. 14.
 
-**Art. 18.** Prezes Najwyższej Izby Kontroli nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Prezes Najwyższej Izby Kontroli nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+**Art. 18.** Prezes Najwyższej Izby Kontroli nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Prezes Najwyższej Izby Kontroli nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
 **Art. 18a.** Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
 
@@ -213,11 +248,15 @@ Art. 99–102. (pominięte)
 - **2)** imię i nazwisko oraz datę i miejsce urodzenia Prezesa Najwyższej Izby Kontroli;
 - **3)** wskazanie podstawy prawnej wniosku;
 - **4)** dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
-- **5)** uzasadnienie. Izby Kontroli do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+- **5)** uzasadnienie.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 18b ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia o pozostawieniu wniosku bez biegu.
+**Art. 18c.**
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 18b ust. 3 i 4, Marszałek kieruje go do organu właściwego na podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Najwyższej Izby Kontroli o treści wniosku.
+1. Wniosek o wyrażenie zgody na pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+
+2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 18b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
+
+3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 18b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Najwyższej Izby Kontroli o treści wniosku.
 
 4. Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Najwyższej Izby Kontroli o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
 
@@ -233,7 +272,9 @@ Art. 99–102. (pominięte)
 
 **Art. 18d.**
 
-1. Zakaz zatrzymania, o którym mowa w art. 18, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Najwyższej Izby Kontroli przez organy stosujące przymus. Najwyższej Izby Kontroli składa się za pośrednictwem Prokuratora Generalnego.
+1. Zakaz zatrzymania, o którym mowa w art. 18, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Najwyższej Izby Kontroli przez organy stosujące przymus.
+
+2. Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli składa się za pośrednictwem Prokuratora Generalnego.
 
 3. Wniosek, o którym mowa w ust. 2, powinien zawierać:
 
@@ -247,11 +288,11 @@ Art. 99–102. (pominięte)
 
 5. Sejm wyraża zgodę na zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli.
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+6. Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
 **Art. 18e.**
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 18c ust. 9 i art. 18d ust. 5.
+1. Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 18c ust. 9 i art. 18d ust. 5.
 
 2. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
@@ -259,7 +300,13 @@ Art. 99–102. (pominięte)
 
 **Art. 18g.** Szczegółowy tryb postępowania w sprawach, o których mowa w art. 18a–18f, określa regulamin Sejmu.
 
-**Art. 19.** Prezes Najwyższej Izby Kontroli nie może należeć do partii politycznej, zajmować innego stanowiska, z wyjątkiem stanowiska profesora szkoły wyższej, wykonywać innych zajęć zawodowych ani prowadzić działalności publicznej, niedającej się pogodzić z godnością jego urzędu. Sejmu. 2. (uchylony)
+**Art. 19.** Prezes Najwyższej Izby Kontroli nie może należeć do partii politycznej, zajmować innego stanowiska, z wyjątkiem stanowiska profesora szkoły wyższej, wykonywać innych zajęć zawodowych ani prowadzić działalności publicznej, niedającej się pogodzić z godnością jego urzędu.
+
+**Art. 20.**
+
+1. Prezes Najwyższej Izby Kontroli bierze udział w posiedzeniach Sejmu.
+
+2. (uchylony)
 
 **Art. 21.**
 
@@ -290,6 +337,7 @@ Art. 99–102. (pominięte)
 
 6. Marszałek Sejmu, na wniosek Prezesa Najwyższej Izby Kontroli, odwołuje członka Kolegium Najwyższej Izby Kontroli, jeżeli:
 
+- **1)** zrzekł się on funkcji;
 - **2)** przestał zajmować stanowisko, o którym mowa w ust. 2 pkt 2;
 - **3)** nie uczestniczył w posiedzeniach Kolegium Najwyższej Izby Kontroli przez okres przekraczający 1 rok;
 - **4)** został on skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa z winy umyślnej.
@@ -325,7 +373,9 @@ Art. 99–102. (pominięte)
 
 2. Kolegium Najwyższej Izby Kontroli podejmuje uchwały większością głosów w obecności co najmniej połowy składu Kolegium w głosowaniu tajnym.
 
-3. (uchylony) Najwyższej Izby Kontroli osoby niewchodzące w skład Kolegium.
+3. (uchylony)
+
+4. Prezes Najwyższej Izby Kontroli może zapraszać na posiedzenia Kolegium Najwyższej Izby Kontroli osoby niewchodzące w skład Kolegium.
 
 5. Kierownik jednostki kontrolowanej może na posiedzeniu Kolegium Najwyższej Izby Kontroli składać oświadczenia i wyjaśnienia dotyczące złożonych zastrzeżeń.
 
@@ -345,11 +395,13 @@ Art. 99–102. (pominięte)
 
 2. Organizację wewnętrzną Najwyższej Izby Kontroli, w tym siedziby delegatur i zakres ich właściwości terytorialnej oraz zasady udzielania przez Prezesa Najwyższej Izby Kontroli upoważnień do załatwiania spraw i podejmowania decyzji w jego imieniu, określa statut Najwyższej Izby Kontroli nadawany w drodze zarządzenia przez Marszałka Sejmu, na wniosek Prezesa Najwyższej Izby Kontroli po zasięgnięciu opinii właściwej komisji sejmowej.
 
-3. Marszałek może w statucie upoważnić Prezesa Najwyższej Izby Kontroli do określania, w drodze zarządzenia, szczegółowej organizacji wewnętrznej jednostek organizacyjnych Najwyższej Izby Kontroli oraz ich właściwości, a także wprowadzania zmian w tym zakresie.
+3. Marszałek Sejmu może w statucie upoważnić Prezesa Najwyższej Izby Kontroli do określania, w drodze zarządzenia, szczegółowej organizacji wewnętrznej jednostek organizacyjnych Najwyższej Izby Kontroli oraz ich właściwości, a także wprowadzania zmian w tym zakresie.
 
 **Art. 26.**
 
-1. Projekt budżetu Najwyższej Izby Kontroli w brzmieniu uchwalonym przez Kolegium Najwyższej Izby Kontroli minister właściwy do spraw budżetu włącza do projektu budżetu państwa. Najwyższej Izby Kontroli przysługują uprawnienia ministra właściwego do spraw budżetu.
+1. Projekt budżetu Najwyższej Izby Kontroli w brzmieniu uchwalonym przez Kolegium Najwyższej Izby Kontroli minister właściwy do spraw budżetu włącza do projektu budżetu państwa.
+
+2. Prezesowi Najwyższej Izby Kontroli w zakresie wykonywania budżetu Najwyższej Izby Kontroli przysługują uprawnienia ministra właściwego do spraw budżetu.
 
 3. Wykonanie budżetu Najwyższej Izby Kontroli kontroluje Sejm. Tryb przeprowadzania kontroli określa regulamin Sejmu.
 
@@ -378,8 +430,9 @@ Art. 99–102. (pominięte)
 
 **Art. 29.**
 
-1. Dla realizacji celu, o którym mowa w art. 28: niezwłocznie przedkładać na żądanie Najwyższej Izby Kontroli wszelkie dokumenty i materiały, w tym na nośnikach elektronicznych, niezbędne do przygotowania lub przeprowadzenia kontroli, a także umożliwić dostęp do baz danych, z zachowaniem przepisów o tajemnicy ustawowo chronionej;
+1. Dla realizacji celu, o którym mowa w art. 28:
 
+- **1)** kierownicy jednostek, o których mowa w art. 2 i art. 4, mają obowiązek niezwłocznie przedkładać na żądanie Najwyższej Izby Kontroli wszelkie dokumenty i materiały, w tym na nośnikach elektronicznych, niezbędne do przygotowania lub przeprowadzenia kontroli, a także umożliwić dostęp do baz danych, z zachowaniem przepisów o tajemnicy ustawowo chronionej;
 - **2)** upoważnieni przedstawiciele Najwyższej Izby Kontroli mają prawo do:
     - **a)** swobodnego wstępu do obiektów i pomieszczeń jednostek kontrolowanych,
     - **b)** wglądu do wszelkich dokumentów związanych z działalnością jednostek kontrolowanych, pobierania oraz zabezpieczania dokumentów i innych materiałów dowodowych, z zachowaniem przepisów o tajemnicy ustawowo chronionej,
@@ -395,7 +448,9 @@ Art. 99–102. (pominięte)
 
 **Art. 30.**
 
-1. Kontrolę przeprowadzają pracownicy Najwyższej Izby Kontroli, o których mowa w art. 66a, zwani dalej „kontrolerami”. Kontrolę mogą przeprowadzać również: Prezes Najwyższej Izby Kontroli, wiceprezesi oraz dyrektor generalny Najwyższej Izby Kontroli. kontrolerzy, o których mowa w art. 66a pkt 1–4, przeprowadzają kontrolę na podstawie legitymacji służbowej, a kontrolerzy, o których mowa w art. 66a pkt 5–9, przeprowadzają kontrolę na podstawie legitymacji służbowej i upoważnienia do przeprowadzenia kontroli, z zastrzeżeniem ust. 5.
+1. Kontrolę przeprowadzają pracownicy Najwyższej Izby Kontroli, o których mowa w art. 66a, zwani dalej „kontrolerami”. Kontrolę mogą przeprowadzać również: Prezes Najwyższej Izby Kontroli, wiceprezesi oraz dyrektor generalny Najwyższej Izby Kontroli.
+
+2. Prezes Najwyższej Izby Kontroli, wiceprezesi, dyrektor generalny oraz kontrolerzy, o których mowa w art. 66a pkt 1–4, przeprowadzają kontrolę na podstawie legitymacji służbowej, a kontrolerzy, o których mowa w art. 66a pkt 5–9, przeprowadzają kontrolę na podstawie legitymacji służbowej i upoważnienia do przeprowadzenia kontroli, z zastrzeżeniem ust. 5.
 
 3. Upoważnienia do przeprowadzenia kontroli wydają: Prezes Najwyższej Izby Kontroli, wiceprezesi oraz dyrektorzy i wicedyrektorzy kontrolnych jednostek organizacyjnych Najwyższej Izby Kontroli.
 
@@ -417,7 +472,9 @@ Art. 99–102. (pominięte)
 
 2. Kontroler może być wyłączony, na wniosek lub z urzędu, z postępowania kontrolnego w każdym czasie, jeżeli zachodzą uzasadnione wątpliwości co do jego bezstronności.
 
-3. O przyczynach powodujących wyłączenie kontroler lub kierownik jednostki kontrolowanej niezwłocznie zawiadamia na piśmie dyrektora właściwej jednostki kontrolnej, w której kontroler wykonuje obowiązki. Na postanowienie o wyłączeniu zażalenie nie przysługuje.
+3. O przyczynach powodujących wyłączenie kontroler lub kierownik jednostki kontrolowanej niezwłocznie zawiadamia na piśmie dyrektora właściwej jednostki kontrolnej, w której kontroler wykonuje obowiązki.
+
+4. O wyłączeniu kontrolera postanawia dyrektor właściwej jednostki kontrolnej. Na postanowienie o wyłączeniu zażalenie nie przysługuje.
 
 5. Prezes Najwyższej Izby Kontroli może, na wniosek lub z urzędu, postanowić o wyłączeniu z postępowania kontrolnego właściwej jednostki kontrolnej, jeżeli wyniki kontroli mogłyby oddziaływać na prawa lub obowiązki dyrektora albo wicedyrektora tej jednostki, lub osób im bliskich, o których mowa w ust. 1; w przypadku wyłączenia Prezes Najwyższej Izby Kontroli wyznacza do postępowania kontrolnego inną jednostkę kontrolną, powiadamiając o tym Kolegium Najwyższej Izby Kontroli.
 
@@ -439,7 +496,9 @@ Art. 99–102. (pominięte)
 
 1. Jednostka kontrolowana ma prawo do uzyskania zwrotu kosztów wynagrodzenia dla pracowników jednostki kontrolowanej uczestniczących w postępowaniu kontrolnym prowadzonym w dniach wolnych od pracy i poza godzinami pracy oraz kosztów związanych z korzystaniem przez kontrolera z urządzeń technicznych i środków transportu jednostki kontrolowanej.
 
-2. Koszty, o których mowa w ust. 1, są pokrywane z budżetu Najwyższej Izby Kontroli. kontrolnej, w terminie 14 dni od dnia otrzymania wystąpienia pokontrolnego, pod rygorem utraty roszczenia, umotywowany wniosek o pokrycie poniesionych kosztów, o których mowa w ust. 1.
+2. Koszty, o których mowa w ust. 1, są pokrywane z budżetu Najwyższej Izby Kontroli.
+
+3. Kierownik jednostki kontrolowanej składa, do dyrektora właściwej jednostki kontrolnej, w terminie 14 dni od dnia otrzymania wystąpienia pokontrolnego, pod rygorem utraty roszczenia, umotywowany wniosek o pokrycie poniesionych kosztów, o których mowa w ust. 1.
 
 **Art. 35.**
 
@@ -467,7 +526,9 @@ Art. 99–102. (pominięte)
 - **2)** opis przebiegu czynności wraz z oświadczeniami i wnioskami osób w niej uczestniczących;
 - **3)** opis innych istotnych okoliczności dotyczących przebiegu czynności.
 
-3. Protokół oraz każdą jego stronę podpisują wszystkie osoby biorące udział w czynności dowodowej. Przed podpisaniem protokołu kontroler daje go do przeczytania osobom biorącym udział w czynności dowodowej lub odczytuje go, czyniąc o tym wzmiankę. mogą żądać sprostowania jego treści i zamieszczenia w nim informacji dotyczących ich praw lub interesów.
+3. Protokół oraz każdą jego stronę podpisują wszystkie osoby biorące udział w czynności dowodowej. Przed podpisaniem protokołu kontroler daje go do przeczytania osobom biorącym udział w czynności dowodowej lub odczytuje go, czyniąc o tym wzmiankę.
+
+4. Osoby biorące udział w czynności dowodowej, przed podpisaniem protokołu mogą żądać sprostowania jego treści i zamieszczenia w nim informacji dotyczących ich praw lub interesów.
 
 5. Skreślenia lub uzupełnienia poczynione w protokole wymagają omówienia podpisanego przez osoby uczestniczące w czynności.
 
@@ -497,7 +558,7 @@ Art. 99–102. (pominięte)
 
 **Art. 37.**
 
-1. Kontroler może sporządzać, a w razie potrzeby może zażądać od kierownika jednostki kontrolowanej sporządzenia w terminie wyznaczonym przez zestawienia i obliczenia na podstawie dokumentów lub elektronicznych baz danych.
+1. Kontroler może sporządzać, a w razie potrzeby może zażądać od kierownika jednostki kontrolowanej sporządzenia w terminie wyznaczonym przez kontrolera, niezbędne dla kontroli kopie lub wyciągi z dokumentów, jak również zestawienia i obliczenia na podstawie dokumentów lub elektronicznych baz danych.
 
 2. Zgodność kopii i wyciągów oraz zestawień i obliczeń z oryginalnymi dokumentami lub danymi z elektronicznych baz danych potwierdza kierownik komórki organizacyjnej, w której dokumenty się znajdują, lub osoba do tego upoważniona.
 
@@ -523,7 +584,9 @@ Art. 99–102. (pominięte)
 
 **Art. 40.**
 
-1. Kontroler może żądać od osób, które wykonują lub wykonywały pracę w jednostce kontrolowanej na podstawie stosunku pracy lub innej umowy, udzielenia mu, w terminie przez niego wyznaczonym, ustnych lub pisemnych wyjaśnień w sprawach dotyczących przedmiotu kontroli. wyjaśnienia mają dotyczyć:
+1. Kontroler może żądać od osób, które wykonują lub wykonywały pracę w jednostce kontrolowanej na podstawie stosunku pracy lub innej umowy, udzielenia mu, w terminie przez niego wyznaczonym, ustnych lub pisemnych wyjaśnień w sprawach dotyczących przedmiotu kontroli.
+
+2. Odmowa udzielenia wyjaśnień może nastąpić jedynie w przypadkach, gdy wyjaśnienia mają dotyczyć:
 
 - **1)** informacji objętych tajemnicą ustawowo chronioną inną niż tajemnica służbowa, do których dostęp Najwyższej Izby Kontroli został wyłączony albo nie zostały spełnione warunki do przekazania informacji, do których dostęp Najwyższej Izbie Kontroli został ograniczony;
 - **2)** faktów i okoliczności, których ujawnienie mogłoby narazić na odpowiedzialność karną lub majątkową wezwanego do złożenia wyjaśnień, a także jego małżonka albo osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądź osób związanych z nim z tytułu przysposobienia, opieki lub kurateli.
@@ -548,7 +611,9 @@ Art. 99–102. (pominięte)
 
 **Art. 42.**
 
-1. Kontroler może wezwać pracownika jednostki kontrolowanej lub inną osobę do stawienia się w wyznaczonym miejscu i czasie w celu złożenia zeznań w charakterze świadka. organizacyjnej Najwyższej Izby Kontroli z wnioskiem o wezwanie wskazanych osób do osobistego stawienia się w wyznaczonym miejscu i czasie, i przesłuchanie ich w charakterze świadków przez upoważnionego pracownika kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli.
+1. Kontroler może wezwać pracownika jednostki kontrolowanej lub inną osobę do stawienia się w wyznaczonym miejscu i czasie w celu złożenia zeznań w charakterze świadka.
+
+2. W razie potrzeby kontroler może zwrócić się do dyrektora kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli z wnioskiem o wezwanie wskazanych osób do osobistego stawienia się w wyznaczonym miejscu i czasie, i przesłuchanie ich w charakterze świadków przez upoważnionego pracownika kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli.
 
 3. Jeżeli osoba wezwana nie może stawić się z powodu choroby lub innej niedającej się pokonać przeszkody, kontroler lub pracownik wymieniony w ust. 2 może dokonać przesłuchania w miejscu pobytu tej osoby.
 
@@ -567,11 +632,14 @@ Art. 99–102. (pominięte)
 
 **Art. 43.** Nie wolno przesłuchiwać jako świadków:
 
+- **1)** obrońcy co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę;
+- **2)** duchownego co do faktów, o których dowiedział się przy spowiedzi.
+
 **Art. 44.**
 
 1. Osoba obowiązana do zachowania w tajemnicy informacji niejawnych o klauzuli tajności „zastrzeżone” lub „poufne” może być przesłuchana w charakterze świadka co do okoliczności, których dotyczy ten obowiązek.
 
-2. Osoba obowiązana do zachowania w tajemnicy informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” może być przesłuchana w charakterze obowiązku zachowania tajemnicy, udzielonym na piśmie przez Prezesa Najwyższej Izby Kontroli.
+2. Osoba obowiązana do zachowania w tajemnicy informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” może być przesłuchana w charakterze świadka co do okoliczności, których dotyczy ten obowiązek, tylko po zwolnieniu od obowiązku zachowania tajemnicy, udzielonym na piśmie przez Prezesa Najwyższej Izby Kontroli.
 
 3. Osoba obowiązana do zachowania tajemnicy ustawowo chronionej, innej niż określona w ust. 1 i 2, może być przesłuchana w charakterze świadka co do okoliczności, których dotyczy ten obowiązek, tylko po zwolnieniu od obowiązku zachowania tajemnicy, udzielonym na piśmie przez Prezesa Najwyższej Izby Kontroli, chyba że przepisy innych ustaw wyłączają dostęp Najwyższej Izby Kontroli do takiej tajemnicy.
 
@@ -602,7 +670,11 @@ Art. 99–102. (pominięte)
 
 4. Postanowienie o nałożeniu kary pieniężnej podlega uchyleniu przez kontrolera, jeżeli osoba wezwana usprawiedliwi niestawienie się na wezwanie. Na postanowienie o odmowie uchylenia kary pieniężnej przysługuje zażalenie.
 
-5. Środki uzyskane z kar pieniężnych stanowią dochód budżetu państwa. wymagających wiadomości specjalnych, dyrektor właściwej jednostki kontrolnej, z własnej inicjatywy lub na wniosek kontrolera, powołuje biegłego.
+5. Środki uzyskane z kar pieniężnych stanowią dochód budżetu państwa.
+
+**Art. 49.**
+
+1. Jeżeli w toku kontroli konieczne jest zbadanie określonych zagadnień wymagających wiadomości specjalnych, dyrektor właściwej jednostki kontrolnej, z własnej inicjatywy lub na wniosek kontrolera, powołuje biegłego.
 
 2. W postanowieniu o powołaniu biegłego określa się przedmiot i zakres badań oraz termin wydania opinii.
 
@@ -620,7 +692,7 @@ Art. 99–102. (pominięte)
 
 1. Świadkowi, który nie jest pracownikiem jednostki kontrolowanej, przysługuje zwrot utraconego zarobku, poniesionych przez niego kosztów podróży i zakwaterowania oraz dieta na zasadach określonych w odrębnych przepisach w sprawie diet i innych należności z tytułu podróży służbowych na obszarze kraju.
 
-2. Biegłemu i specjaliście przysługuje wynagrodzenie oraz zwrot poniesionych przez nich uzasadnionych i udokumentowanych wydatków. Wysokość wynagrodzenia ustala się w umowie zawartej między dyrektorem właściwej jednostki kontrolnej opinii, a także stopień złożoności problemu będącego jej przedmiotem.
+2. Biegłemu i specjaliście przysługuje wynagrodzenie oraz zwrot poniesionych przez nich uzasadnionych i udokumentowanych wydatków. Wysokość wynagrodzenia ustala się w umowie zawartej między dyrektorem właściwej jednostki kontrolnej a biegłym lub specjalistą, uwzględniając czas i nakład pracy niezbędne do wydania opinii, a także stopień złożoności problemu będącego jej przedmiotem.
 
 3. Koszty, o których mowa w ust. 1 i 2, są pokrywane z budżetu Najwyższej Izby Kontroli.
 
@@ -650,7 +722,8 @@ Art. 99–102. (pominięte)
 - **2)** imię i nazwisko oraz stanowisko służbowe kontrolera, nazwę właściwej jednostki kontrolnej oraz numer i datę upoważnienia do przeprowadzenia kontroli;
 - **3)** oznaczenie jednostki kontrolowanej, jej adres oraz imię i nazwisko kierownika;
 - **4)** zwięzły opis ustalonego stanu faktycznego i ocenę kontrolowanej działalności, w tym ustalone, na podstawie materiałów dowodowych znajdujących się w aktach kontroli, nieprawidłowości i ich przyczyny, zakres i skutki oraz osoby za nie odpowiedzialne;
-- **5)** uwagi i wnioski w sprawie usunięcia stwierdzonych nieprawidłowości; wzmiankę o podjętych w związku z tym działaniach zapobiegających i ich skutkach do czasu zakończenia kontroli albo o niepodjęciu takich działań;
+- **5)** uwagi i wnioski w sprawie usunięcia stwierdzonych nieprawidłowości;
+- **6)** wzmiankę o przekazaniu informacji, o których mowa w art. 51 ust. 1, oraz wzmiankę o podjętych w związku z tym działaniach zapobiegających i ich skutkach do czasu zakończenia kontroli albo o niepodjęciu takich działań;
 - **7)** pouczenie o prawie zgłoszenia zastrzeżeń, o których mowa w art. 54.
 
 2. W wystąpieniu pokontrolnym może być także zawarta ocena wskazująca na niezasadność zajmowania stanowiska lub pełnienia funkcji przez osobę odpowiedzialną za stwierdzone nieprawidłowości w jednostkach, o których mowa w art. 2 ust. 1 i art. 4 ust. 1.
@@ -674,7 +747,9 @@ Art. 99–102. (pominięte)
 
 2. Zastrzeżenia zgłasza się na piśmie do dyrektora właściwej jednostki kontrolnej, z zastrzeżeniem ust. 3.
 
-3. Prezes Narodowego Banku Polskiego, kierownicy naczelnych i centralnych organów administracji rządowej oraz kierownicy podmiotów, o których mowa w art. 4 ust. 1, zgłaszają zastrzeżenia do Prezesa Najwyższej Izby Kontroli; przepis ust. 4 zdanie pierwsze stosuje się odpowiednio. zostały one zgłoszone przez osobę nieuprawnioną lub po upływie terminu lub są niedopuszczalne z mocy ustawy, i informuje o tym zgłaszającego. Na postanowienie o odmowie przyjęcia zastrzeżeń przysługuje zażalenie do Prezesa Najwyższej Izby Kontroli.
+3. Prezes Narodowego Banku Polskiego, kierownicy naczelnych i centralnych organów administracji rządowej oraz kierownicy podmiotów, o których mowa w art. 4 ust. 1, zgłaszają zastrzeżenia do Prezesa Najwyższej Izby Kontroli; przepis ust. 4 zdanie pierwsze stosuje się odpowiednio.
+
+4. Dyrektor właściwej jednostki kontrolnej odmawia przyjęcia zastrzeżeń, jeżeli zostały one zgłoszone przez osobę nieuprawnioną lub po upływie terminu lub są niedopuszczalne z mocy ustawy, i informuje o tym zgłaszającego. Na postanowienie o odmowie przyjęcia zastrzeżeń przysługuje zażalenie do Prezesa Najwyższej Izby Kontroli.
 
 **Art. 55.** Kierownik jednostki kontrolowanej może cofnąć zgłoszone zastrzeżenia do wystąpienia pokontrolnego do chwili podjęcia uchwały w sprawie ich rozstrzygnięcia. Cofnięte zastrzeżenia pozostawia się bez rozpoznania. Postanowienie w tej sprawie wydaje odpowiednio Prezes Najwyższej Izby Kontroli, Kolegium Najwyższej Izby Kontroli, dyrektor właściwej jednostki kontrolnej lub zespół orzekający. Na postanowienie o pozostawieniu zastrzeżeń bez rozpoznania zażalenie nie przysługuje.
 
@@ -692,7 +767,9 @@ Art. 99–102. (pominięte)
 
 1. Komisja rozstrzygająca orzeka w trzyosobowych zespołach orzekających.
 
-2. Przewodniczącym zespołu orzekającego jest kontroler posiadający wyższe wykształcenie prawnicze. określonych w art. 31 ust. 1 i 2.
+2. Przewodniczącym zespołu orzekającego jest kontroler posiadający wyższe wykształcenie prawnicze.
+
+3. Członek zespołu orzekającego i protokolant podlegają wyłączeniu z przyczyn określonych w art. 31 ust. 1 i 2.
 
 **Art. 60.** Członkowie komisji rozstrzygającej są w zakresie orzekania niezależni.
 
@@ -722,7 +799,9 @@ Art. 99–102. (pominięte)
 
 **Art. 61b.**
 
-1. Dyrektor właściwej jednostki kontrolnej dokonuje zmian w wystąpieniu pokontrolnym zgodnie z treścią uchwały w sprawie zastrzeżeń, podpisuje zmienione wystąpienie pokontrolne i przesyła je kierownikowi jednostki kontrolowanej. zastrzeżeń.
+1. Dyrektor właściwej jednostki kontrolnej dokonuje zmian w wystąpieniu pokontrolnym zgodnie z treścią uchwały w sprawie zastrzeżeń, podpisuje zmienione wystąpienie pokontrolne i przesyła je kierownikowi jednostki kontrolowanej.
+
+2. Do wystąpienia, o którym mowa w ust. 1, nie przysługuje prawo zgłoszenia zastrzeżeń.
 
 **Art. 62.** Kierownik jednostki kontrolowanej jest obowiązany, w terminie określonym w wystąpieniu, nie krótszym niż 14 dni od dnia otrzymania wystąpienia pokontrolnego, a w przypadku wniesienia zastrzeżeń, od dnia otrzymania uchwały o oddaleniu zastrzeżeń w całości lub zmienionego wystąpienia pokontrolnego, poinformować Najwyższą Izbę Kontroli o sposobie wykorzystania uwag i wykonania wniosków sformułowanych w wystąpieniu pokontrolnym oraz o podjętych działaniach lub przyczynach niepodjęcia tych działań.
 
@@ -746,7 +825,9 @@ Art. 99–102. (pominięte)
 
 1. Najwyższa Izba Kontroli opracowuje informacje o wynikach kontroli w celu przedłożenia ich Sejmowi, Prezydentowi Rzeczypospolitej Polskiej i Prezesowi Rady Ministrów. Podstawę do opracowania informacji o wynikach kontroli stanowią w szczególności wystąpienia pokontrolne i materiały dowodowe zgromadzone w aktach kontroli.
 
-1a. Informacje o wynikach kontroli podpisują Prezes Najwyższej Izby Kontroli lub upoważniony wiceprezes oraz dyrektor właściwej jednostki kontrolnej. Prezydentowi Rzeczypospolitej Polskiej i Prezesowi Rady Ministrów, Prezes Najwyższej Izby Kontroli przesyła właściwym naczelnym lub centralnym organom państwowym, które w terminie 14 dni od dnia otrzymania mogą przedstawić swoje stanowisko. Stanowisko dołącza się do informacji; Prezes Najwyższej Izby Kontroli może do tego stanowiska przedstawić swoją opinię.
+1a. Informacje o wynikach kontroli podpisują Prezes Najwyższej Izby Kontroli lub upoważniony wiceprezes oraz dyrektor właściwej jednostki kontrolnej.
+
+2. Informacje, o których mowa w ust. 1, przed przedłożeniem Sejmowi, Prezydentowi Rzeczypospolitej Polskiej i Prezesowi Rady Ministrów, Prezes Najwyższej Izby Kontroli przesyła właściwym naczelnym lub centralnym organom państwowym, które w terminie 14 dni od dnia otrzymania mogą przedstawić swoje stanowisko. Stanowisko dołącza się do informacji; Prezes Najwyższej Izby Kontroli może do tego stanowiska przedstawić swoją opinię.
 
 3. Na żądanie Sejmu, Prezydenta Rzeczypospolitej Polskiej lub Prezesa Rady Ministrów albo gdy wystąpiły szczególnie ważne okoliczności Prezes Najwyższej Izby Kontroli niezwłocznie przekazuje informacje o wynikach przeprowadzonych kontroli nie czekając na stanowisko, o którym mowa w ust. 2.
 
@@ -764,7 +845,9 @@ Art. 99–102. (pominięte)
 
 3. Termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało nadane w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo wysłane na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, a w przypadku przekazania go za pośrednictwem poczty elektronicznej lub telefaksu – po potwierdzeniu jego przyjęcia.
 
-**Art. 65.** Prezes Najwyższej Izby Kontroli określi, w drodze zarządzenia, szczegółowe zasady przygotowywania kontroli, zadania kontrolerów oraz zasady sporządzania informacji o wynikach kontroli. Pracownicy Najwyższej Izby Kontroli
+**Art. 65.** Prezes Najwyższej Izby Kontroli określi, w drodze zarządzenia, szczegółowe zasady przygotowywania kontroli, zadania kontrolerów oraz zasady sporządzania informacji o wynikach kontroli.
+
+#### Rozdział 4 Pracownicy Najwyższej Izby Kontroli
 
 **Art. 66.**
 
@@ -776,7 +859,23 @@ Art. 99–102. (pominięte)
 
 **Art. 66a.** Kontrolerami są pracownicy zatrudnieni na stanowiskach:
 
+- **1)** dyrektorów kontrolnych jednostek organizacyjnych Najwyższej Izby Kontroli;
+- **2)** wicedyrektorów kontrolnych jednostek organizacyjnych Najwyższej Izby Kontroli;
+- **3)** radców Prezesa Najwyższej Izby Kontroli;
+- **4)** doradców prawnych, ekonomicznych i technicznych;
+- **5)** głównych specjalistów kontroli państwowej;
+- **6)** specjalistów kontroli państwowej;
+- **7)** starszych inspektorów kontroli państwowej;
+- **8)** inspektorów kontroli państwowej;
+- **9)** młodszych inspektorów kontroli państwowej.
+
 **Art. 67.** Kontrolerem może być osoba, która:
+
+- **1)** ma obywatelstwo polskie;
+- **2)** ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
+- **3)** nie była karana za przestępstwo popełnione z winy umyślnej;
+- **4)** ma wyższe wykształcenie;
+- **5)** ma stan zdrowia pozwalający na zatrudnienie na określonym stanowisku.
 
 **Art. 68.**
 
@@ -784,7 +883,9 @@ Art. 99–102. (pominięte)
 
 2. Kontrolerów mianuje i rozwiązuje z nimi stosunek pracy Prezes Najwyższej Izby Kontroli.
 
-3. Rozwiązanie stosunku pracy z mianowanymi kontrolerami – członkami Kolegium Najwyższej Izby Kontroli – wymaga zgody Kolegium. podstawie umowy o pracę, jeżeli jest on zatrudniony w niepełnym wymiarze czasu pracy.
+3. Rozwiązanie stosunku pracy z mianowanymi kontrolerami – członkami Kolegium Najwyższej Izby Kontroli – wymaga zgody Kolegium.
+
+4. Stosunek pracy z kontrolerem, o którym mowa w ust. 1, nawiązuje się na podstawie umowy o pracę, jeżeli jest on zatrudniony w niepełnym wymiarze czasu pracy.
 
 5. Mianowanie jest uzależnione od aplikacji kontrolerskiej zakończonej złożeniem egzaminu z wynikiem pozytywnym przed komisją egzaminacyjną powołaną przez Prezesa Najwyższej Izby Kontroli. Aplikacja kontrolerska ma na celu teoretyczne i praktyczne przygotowanie kontrolera do wykonywania i nadzorowania czynności kontrolnych.
 
@@ -817,6 +918,7 @@ Art. 99–102. (pominięte)
 - **1)** określenie stanowiska, którego nabór dotyczy;
 - **2)** zakres zadań wykonywanych na stanowisku i wymagania związane ze stanowiskiem, zgodne z jego opisem, ze wskazaniem, które z nich są niezbędne, a które dodatkowe;
 - **3)** wskazanie wymaganych dokumentów;
+- **4)** termin i miejsce składania dokumentów.
 
 3. Termin do składania dokumentów, określony w ogłoszeniu o naborze, nie może być krótszy niż 14 dni od dnia udostępnienia tego ogłoszenia w Biuletynie Informacji Publicznej.
 
@@ -841,7 +943,7 @@ Art. 99–102. (pominięte)
 
 3. Po rozstrzygnięciu konkursu Prezes Najwyższej Izby Kontroli mianuje na stanowisko, o którym mowa w art. 66a pkt 1 i 2, na okres 5 lat.
 
-4. Wraz z upływem 5 lat od dnia mianowania na stanowisko, o którym mowa w art. 66a pkt 1 i 2, Prezes Najwyższej Izby Kontroli mianuje osobę zajmującą to organizacyjnej Najwyższej Izby Kontroli w tej samej miejscowości, w której znajduje się siedziba kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli, w której zajmowała dotychczasowe stanowisko.
+4. Wraz z upływem 5 lat od dnia mianowania na stanowisko, o którym mowa w art. 66a pkt 1 i 2, Prezes Najwyższej Izby Kontroli mianuje osobę zajmującą to stanowisko, na stanowisko, o którym mowa w art. 66a pkt 4, w kontrolnej jednostce organizacyjnej Najwyższej Izby Kontroli w tej samej miejscowości, w której znajduje się siedziba kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli, w której zajmowała dotychczasowe stanowisko.
 
 **Art. 69f.**
 
@@ -866,6 +968,20 @@ Art. 99–102. (pominięte)
 
 **Art. 71.** Do obowiązków kontrolera należy w szczególności:
 
+- **1)** należyte, bezstronne i terminowe wykonywanie zadań;
+- **2)** obiektywne ustalanie i rzetelne dokumentowanie wyników kontroli;
+- **3)** przestrzeganie tajemnicy ustawowo chronionej;
+- **4)** godne zachowanie się w służbie i poza służbą;
+- **5)** stałe podnoszenie kwalifikacji zawodowych.
+
+**Art. 72.**
+
+1. Pracownik Najwyższej Izby Kontroli jest obowiązany sumiennie wypełniać polecenia służbowe przełożonych.
+
+2. Jeżeli polecenie służbowe w przekonaniu pracownika jest niezgodne z prawem lub zawiera znamiona pomyłki, pracownik powinien przedstawić swoje zastrzeżenia przełożonemu; w razie pisemnego potwierdzenia polecenia jest obowiązany je wykonać, z zastrzeżeniem ust. 3; o ile w toku dalszego postępowania okaże się, że stanowisko pracownika było uzasadnione, przełożony, który wydał polecenie, ponosi z tego tytułu odpowiedzialność.
+
+3. Pracownikowi nie wolno wykonywać poleceń, których wykonanie stanowiłoby przestępstwo lub groziło niepowetowaną szkodą.
+
 **Art. 73.**
 
 1. Informacje, które pracownik Najwyższej Izby Kontroli uzyskał w związku z wykonywaniem obowiązków służbowych stanowią tajemnicę kontrolerską, z zastrzeżeniem art. 10.
@@ -888,7 +1004,9 @@ Art. 99–102. (pominięte)
 
 **Art. 75.**
 
-1. Kontroler nie może wykonywać zajęć, które godziłyby w interes Najwyższej Izby Kontroli lub byłyby niezgodne z jej zadaniami, a także pozostawałyby w sprzeczności z obowiązkami pracownika lub mogłyby wywoływać podejrzenie o stronniczość lub interesowność. Prezesa Najwyższej Izby Kontroli.
+1. Kontroler nie może wykonywać zajęć, które godziłyby w interes Najwyższej Izby Kontroli lub byłyby niezgodne z jej zadaniami, a także pozostawałyby w sprzeczności z obowiązkami pracownika lub mogłyby wywoływać podejrzenie o stronniczość lub interesowność.
+
+2. Kontroler może podjąć dodatkowe zajęcie zarobkowe po uzyskaniu zgody Prezesa Najwyższej Izby Kontroli.
 
 **Art. 76.**
 
@@ -919,7 +1037,17 @@ Art. 99–102. (pominięte)
 
 4. Prezes Najwyższej Izby Kontroli określi, w drodze zarządzenia, okres, za który dokonuje się oceny oraz tryb dokonywania okresowych ocen kwalifikacyjnych i rozpatrywania odwołań od ocen kwalifikacyjnych.
 
-**Art. 76b.** Od decyzji, o której mowa w art. 76a ust. 3, zatwierdzającej ocenę negatywną, mianowanemu kontrolerowi służy skarga do sądu administracyjnego. potrzebami służbowymi, może przenieść kontrolera do innej kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli. 2. Przeniesienie kontrolera do kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli w miejscowości innej niż siedziba kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli, w której wykonuje pracę, sprawującego samodzielnie opiekę nad dzieckiem w wieku do piętnastu lat lub będącego kobietą w ciąży, możliwe jest tylko za zgodą tego kontrolera. 3. Przeniesienie, o którym mowa w ust. 1, może być dokonane do pracy zgodnej z kwalifikacjami kontrolera i z wynagrodzeniem nie niższym, niż dotychczas pobierane. Przeniesienie na okres dłuższy niż 6 miesięcy i częściej niż raz na 2 lata wymaga zgody tego kontrolera. 4. W przypadku przeniesienia kontrolera do kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli w miejscowości innej niż siedziba kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli, w której wykonuje pracę, przysługują mu uprawnienia na zasadach określonych w przepisach dotyczących urzędników służby cywilnej.
+**Art. 76b.** Od decyzji, o której mowa w art. 76a ust. 3, zatwierdzającej ocenę negatywną, mianowanemu kontrolerowi służy skarga do sądu administracyjnego.
+
+**Art. 77.**
+
+1. Prezes Najwyższej Izby Kontroli, w przypadkach uzasadnionych potrzebami służbowymi, może przenieść kontrolera do innej kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli.
+
+2. Przeniesienie kontrolera do kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli w miejscowości innej niż siedziba kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli, w której wykonuje pracę, sprawującego samodzielnie opiekę nad dzieckiem w wieku do piętnastu lat lub będącego kobietą w ciąży, możliwe jest tylko za zgodą tego kontrolera.
+
+3. Przeniesienie, o którym mowa w ust. 1, może być dokonane do pracy zgodnej z kwalifikacjami kontrolera i z wynagrodzeniem nie niższym, niż dotychczas pobierane. Przeniesienie na okres dłuższy niż 6 miesięcy i częściej niż raz na 2 lata wymaga zgody tego kontrolera.
+
+4. W przypadku przeniesienia kontrolera do kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli w miejscowości innej niż siedziba kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli, w której wykonuje pracę, przysługują mu uprawnienia na zasadach określonych w przepisach dotyczących urzędników służby cywilnej.
 
 **Art. 77a.** (uchylony)
 
@@ -935,7 +1063,9 @@ Art. 99–102. (pominięte)
 
 1. Kontrolerowi zatrudnionemu w Najwyższej Izbie Kontroli na stanowisku określonym w art. 66a przez okres nie krótszy niż 5 lat może być przyznany, co najwyżej dwukrotnie w okresie zatrudnienia w Najwyższej Izbie Kontroli, płatny urlop dla poratowania zdrowia w wymiarze nieprzekraczającym łącznie 12 miesięcy, z wynagrodzeniem obliczonym tak jak za urlop wypoczynkowy.
 
-2. Urlopu, o którym mowa w ust. 1, udziela Prezes Najwyższej Izby Kontroli, na wniosek kontrolera, umotywowany opinią o stanie zdrowia wydaną przez komisję lekarską powołaną przez Prezesa Najwyższej Izby Kontroli. poratowania zdrowia, bez aktualnego orzeczenia lekarskiego stwierdzającego brak przeciwwskazań do pracy na określonym stanowisku.
+2. Urlopu, o którym mowa w ust. 1, udziela Prezes Najwyższej Izby Kontroli, na wniosek kontrolera, umotywowany opinią o stanie zdrowia wydaną przez komisję lekarską powołaną przez Prezesa Najwyższej Izby Kontroli.
+
+3. Nie można dopuścić do pracy kontrolera, który korzystał z urlopu dla poratowania zdrowia, bez aktualnego orzeczenia lekarskiego stwierdzającego brak przeciwwskazań do pracy na określonym stanowisku.
 
 4. Kontrolerowi, który spełnia warunki do uzyskania świadczenia rehabilitacyjnego, przysługuje urlop dla poratowania zdrowia, na zasadach określonych w ust. 1–3.
 
@@ -964,7 +1094,7 @@ Art. 99–102. (pominięte)
 
 2. Odprawa, o której mowa w ust. 1, nie przysługuje pracownikowi, który w związku z przejściem na rentę z tytułu niezdolności do pracy lub emeryturę otrzymał odprawę na podstawie innych przepisów.
 
-3. Do okresu pracy, o którym mowa w ust. 1, wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne udowodnione okresy, jeżeli z mocy uprawnienia pracownicze.
+3. Do okresu pracy, o którym mowa w ust. 1, wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne udowodnione okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
 
 **Art. 84.** Pracownikowi Najwyższej Izby Kontroli przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnych przepisach.
 
@@ -988,7 +1118,13 @@ Art. 99–102. (pominięte)
 
 2. Kontrolerzy, o których mowa w art. 66a pkt 3–9, mogą należeć do związku zawodowego zrzeszającego wyłącznie pracowników Najwyższej Izby Kontroli. W Najwyższej Izbie Kontroli może działać tylko jeden związek zawodowy zrzeszający pracowników, o których mowa w zdaniu pierwszym.
 
-**Art. 87.** Pracownikowi Najwyższej Izby Kontroli nie wolno uczestniczyć w strajkach ani w akcjach zakłócających funkcjonowanie Najwyższej Izby Kontroli. kontrolerzy nie mogą być pociągnięci do odpowiedzialności karnej z powodu swoich czynności służbowych bez uprzedniej zgody Kolegium Najwyższej Izby Kontroli, a Prezes Najwyższej Izby Kontroli – bez zgody Sejmu. 2. Przepis ust. 1 stosuje się odpowiednio również po ustaniu stosunku pracy.
+**Art. 87.** Pracownikowi Najwyższej Izby Kontroli nie wolno uczestniczyć w strajkach ani w akcjach zakłócających funkcjonowanie Najwyższej Izby Kontroli.
+
+**Art. 88.**
+
+1. Wiceprezesi i dyrektor generalny Najwyższej Izby Kontroli oraz kontrolerzy nie mogą być pociągnięci do odpowiedzialności karnej z powodu swoich czynności służbowych bez uprzedniej zgody Kolegium Najwyższej Izby Kontroli, a Prezes Najwyższej Izby Kontroli – bez zgody Sejmu.
+
+2. Przepis ust. 1 stosuje się odpowiednio również po ustaniu stosunku pracy.
 
 **Art. 89.** (uchylony)
 
@@ -1023,6 +1159,7 @@ Art. 99–102. (pominięte)
 
 2. Stosunek pracy z mianowanym kontrolerem rozwiązuje się bez wypowiedzenia w razie:
 
+- **1)** trwającej dłużej niż 1 rok niezdolności do pracy spowodowanej chorobą;
 - **2)** nieusprawiedliwionego niezgłoszenia się do lekarza orzecznika Zakładu Ubezpieczeń Społecznych w okolicznościach, o których mowa w ust. 3.
 
 2a. W razie niezdolności do pracy z powodu choroby, o której mowa w ust. 2 pkt 1, mianowany kontroler zachowuje prawo do świadczeń pieniężnych przez okres przewidziany w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. [3. Prezes Najwyższej Izby Kontroli w uzasadnionych przypadkach, w szczególności w razie długotrwałego korzystania ze zwolnień lekarskich, może z urzędu skierować mianowanego kontrolera do lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia, czy jego stan zdrowia pozwala na zatrudnienie go na zajmowanym stanowisku.] <3. Prezes Najwyższej Izby Kontroli w uzasadnionych przypadkach, w szczególności w razie długotrwałego korzystania ze zwolnień lekarskich, może z urzędu skierować mianowanego kontrolera do lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia, czy jego stan zdrowia pozwala na zatrudnienie go na zajmowanym stanowisku. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
@@ -1036,11 +1173,15 @@ Art. 99–102. (pominięte)
 
 2. Stosunek pracy z mianowanym kontrolerem można rozwiązać za wypowiedzeniem w razie:
 
-- **1)** (uchylony) reorganizacji tej jednostki, jeżeli przeniesienie kontrolera za jego zgodą do innej kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli nie jest możliwe; rozwiązanie stosunku pracy z tej przyczyny wywołuje skutki, jakie przepisy prawa wiążą z rozwiązaniem stosunku pracy z urzędnikiem służby cywilnej z powodu likwidacji urzędu.
+- **1)** (uchylony)
+- **2)** likwidacji kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli lub reorganizacji tej jednostki, jeżeli przeniesienie kontrolera za jego zgodą do innej kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli nie jest możliwe; rozwiązanie stosunku pracy z tej przyczyny wywołuje skutki, jakie przepisy prawa wiążą z rozwiązaniem stosunku pracy z urzędnikiem służby cywilnej z powodu likwidacji urzędu.
 
 3. Okres wypowiedzenia stosunku pracy z mianowanym kontrolerem wynosi 3 miesiące i kończy się ostatniego dnia miesiąca kalendarzowego.
 
 **Art. 94.** Rozwiązanie stosunku pracy z mianowanym kontrolerem może nastąpić:
+
+- **1)** w drodze porozumienia stron;
+- **2)** za trzymiesięcznym wypowiedzeniem dokonanym przez kontrolera.
 
 **Art. 95.** W okresie wypowiedzenia mianowany kontroler może być zwolniony z pełnienia obowiązków, z zachowaniem prawa do wynagrodzenia i innych świadczeń przysługujących na podstawie stosunku pracy.
 
@@ -1057,7 +1198,8 @@ Art. 99–102. (pominięte)
 2. Karami dyscyplinarnymi są:
 
 - **1)** upomnienie;
-- **2)** nagana; i awansowania na wyższe stanowisko służbowe przez okres do 2 lat;
+- **2)** nagana;
+- **3)** nagana z pozbawieniem możliwości podwyższania wynagrodzenia i awansowania na wyższe stanowisko służbowe przez okres do 2 lat;
 - **4)** przeniesienie na niższe stanowisko służbowe z jednoczesnym obniżeniem wynagrodzenia zasadniczego nie więcej niż o 20% przez okres nie dłuższy niż 6 miesięcy;
 - **5)** wydalenie z pracy w Najwyższej Izbie Kontroli.
 
@@ -1075,7 +1217,9 @@ Art. 99–102. (pominięte)
 
 **Art. 97b.**
 
-1. Za mniejszej wagi naruszenie obowiązków pracownika Najwyższej Izby Kontroli lub uchybienie godności stanowiska dyrektor właściwej kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli, a w odniesieniu do dyrektora kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli – Prezes Najwyższej Izby Kontroli, może ukarać mianowanego kontrolera upomnieniem na piśmie. Kontroli w ciągu 7 dni od doręczenia mu upomnienia na piśmie.
+1. Za mniejszej wagi naruszenie obowiązków pracownika Najwyższej Izby Kontroli lub uchybienie godności stanowiska dyrektor właściwej kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli, a w odniesieniu do dyrektora kontrolnej jednostki organizacyjnej Najwyższej Izby Kontroli – Prezes Najwyższej Izby Kontroli, może ukarać mianowanego kontrolera upomnieniem na piśmie.
+
+2. Mianowany kontroler może wnieść sprzeciw do Prezesa Najwyższej Izby Kontroli w ciągu 7 dni od doręczenia mu upomnienia na piśmie.
 
 3. W razie wniesienia sprzeciwu, o którym mowa w ust. 2, Prezes Najwyższej Izby Kontroli wydaje polecenie wszczęcia postępowania dyscyplinarnego.
 
@@ -1099,7 +1243,7 @@ Art. 99–102. (pominięte)
 
 3. W toku postępowania dyscyplinarnego rzecznik dyscyplinarny podejmuje czynności niezbędne do wszechstronnego wyjaśnienia sprawy, zbierając i utrwalając dowody, w szczególności: zeznania świadków, opinie biegłych, wyjaśnienia obwinionego, dokumenty i oświadczenia.
 
-4. Jeżeli dowody zebrane przez rzecznika dyscyplinarnego dostatecznie uzasadniają, że obwiniony popełnił czyn stanowiący przewinienie dyscyplinarne je obwinionemu, przyjmuje od niego wyjaśnienia, a przed zakończeniem prowadzonego przez siebie postępowania dyscyplinarnego, zapoznaje obwinionego z zebranymi w sprawie dowodami i sporządza z tej czynności protokół. Protokół podpisuje rzecznik dyscyplinarny i obwiniony.
+4. Jeżeli dowody zebrane przez rzecznika dyscyplinarnego dostatecznie uzasadniają, że obwiniony popełnił czyn stanowiący przewinienie dyscyplinarne rzecznik dyscyplinarny sporządza postanowienie o przedstawieniu zarzutów, ogłasza je obwinionemu, przyjmuje od niego wyjaśnienia, a przed zakończeniem prowadzonego przez siebie postępowania dyscyplinarnego, zapoznaje obwinionego z zebranymi w sprawie dowodami i sporządza z tej czynności protokół. Protokół podpisuje rzecznik dyscyplinarny i obwiniony.
 
 5. Po wykonaniu czynności, o których mowa w ust. 4, rzecznik dyscyplinarny przedkłada Prezesowi Najwyższej Izby Kontroli materiały postępowania dyscyplinarnego wraz z wnioskiem o ukaranie lub postanowieniem o umorzeniu postępowania dyscyplinarnego.
 
@@ -1121,7 +1265,9 @@ Art. 99–102. (pominięte)
 
 **Art. 97g.**
 
-1. Komisja Dyscyplinarna rozpoznaje sprawy w trzyosobowych zespołach orzekających. Izby Kontroli oraz dla mianowanych kontrolerów.
+1. Komisja Dyscyplinarna rozpoznaje sprawy w trzyosobowych zespołach orzekających.
+
+2. Rozprawa jest jawna dla osób wchodzących w skład Kolegium Najwyższej Izby Kontroli oraz dla mianowanych kontrolerów.
 
 3. W uzasadnionych przypadkach można wyłączyć jawność całości albo części rozprawy.
 
@@ -1153,7 +1299,11 @@ Art. 99–102. (pominięte)
 
 2. W wyjątkowych wypadkach można odroczyć wydanie orzeczenia na czas nie dłuższy niż 3 dni. O terminie ogłoszenia orzeczenia przewodniczący zespołu orzekającego informuje obwinionego, obrońcę i rzecznika dyscyplinarnego, bezpośrednio po ogłoszeniu postanowienia o odroczeniu wydania orzeczenia.
 
-3. Po ogłoszeniu orzeczenia przewodniczący zespołu orzekającego podaje ustnie zasadnicze motywy rozstrzygnięcia. sporządza i podpisuje przewodniczący zespołu orzekającego.
+3. Po ogłoszeniu orzeczenia przewodniczący zespołu orzekającego podaje ustnie zasadnicze motywy rozstrzygnięcia.
+
+**Art. 97k.**
+
+1. Orzeczenie wymaga pisemnego uzasadnienia. Uzasadnienie sporządza i podpisuje przewodniczący zespołu orzekającego.
 
 2. Orzeczenie na piśmie wraz z uzasadnieniem doręcza się rzecznikowi dyscyplinarnemu, obwinionemu oraz obrońcy w ciągu 14 dni od dnia jego ogłoszenia lub wydania na posiedzeniu niejawnym.
 
@@ -1183,7 +1333,9 @@ Art. 99–102. (pominięte)
 
 **Art. 97n.**
 
-1. Odwoławcza Komisja Dyscyplinarna, po przeprowadzeniu rozprawy, utrzymuje w mocy zaskarżone orzeczenie, uchyla orzeczenie w całości lub w części i wydaje nowe orzeczenie albo przekazuje sprawę Komisji Dyscyplinarnej do ponownego rozpatrzenia w innym składzie. przez Komisję Dyscyplinarną tylko wówczas, gdy orzeczenie zostało zaskarżone na niekorzyść obwinionego.
+1. Odwoławcza Komisja Dyscyplinarna, po przeprowadzeniu rozprawy, utrzymuje w mocy zaskarżone orzeczenie, uchyla orzeczenie w całości lub w części i wydaje nowe orzeczenie albo przekazuje sprawę Komisji Dyscyplinarnej do ponownego rozpatrzenia w innym składzie.
+
+2. Odwoławcza Komisja Dyscyplinarna może orzec karę surowszą od orzeczonej przez Komisję Dyscyplinarną tylko wówczas, gdy orzeczenie zostało zaskarżone na niekorzyść obwinionego.
 
 3. W postępowaniu przed Odwoławczą Komisją Dyscyplinarną stosuje się odpowiednio przepisy o postępowaniu przed Komisją Dyscyplinarną.
 
@@ -1209,7 +1361,7 @@ Art. 99–102. (pominięte)
 
 #### Rozdział 5 Przepisy karne
 
-**Art. 98.** Kto osobie uprawnionej do kontroli, o której mowa w niniejszej ustawie, lub osobie przybranej jej do pomocy udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności przez nieprzedstawienie do kontroli o wykonaniu wniosków pokontrolnych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+**Art. 98.** Kto osobie uprawnionej do kontroli, o której mowa w niniejszej ustawie, lub osobie przybranej jej do pomocy udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności przez nieprzedstawienie do kontroli dokumentów lub materiałów, nie informuje bądź niezgodnie z prawdą informuje o wykonaniu wniosków pokontrolnych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 

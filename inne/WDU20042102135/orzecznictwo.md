@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych*
 
-Łącznie: **3716** orzeczeń w **160** artykułach
-(pominięto 1310 orzeczeń sądów rejonowych)
+Łącznie: **3719** orzeczeń w **160** artykułach
+(pominięto 1311 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -86,9 +86,9 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 76 | 31 | 0 | 24 | 7 | 0 | 0 | [art-76.csv](orzecznictwo/art-76.csv) |
 | art. 77 | 6 | 0 | 3 | 3 | 0 | 0 | [art-77.csv](orzecznictwo/art-77.csv) |
 | art. 78 | 1 | 0 | 0 | 1 | 0 | 0 | [art-78.csv](orzecznictwo/art-78.csv) |
-| art. 79 | 282 | 1 | 92 | 189 | 1 | 1 | [art-79.csv](orzecznictwo/art-79.csv) |
+| art. 79 | 283 | 1 | 93 | 189 | 1 | 1 | [art-79.csv](orzecznictwo/art-79.csv) |
 | art. 80 | 36 | 0 | 28 | 8 | 0 | 0 | [art-80.csv](orzecznictwo/art-80.csv) |
-| art. 81 | 2174 | 0 | 1193 | 981 | 1 | 0 | [art-81.csv](orzecznictwo/art-81.csv) |
+| art. 81 | 2175 | 0 | 1194 | 981 | 1 | 0 | [art-81.csv](orzecznictwo/art-81.csv) |
 | art. 82 | 235 | 3 | 108 | 124 | 1 | 2 | [art-82.csv](orzecznictwo/art-82.csv) |
 | art. 83 | 69 | 0 | 48 | 21 | 0 | 0 | [art-83.csv](orzecznictwo/art-83.csv) |
 | art. 84 | 38 | 0 | 18 | 20 | 0 | 0 | [art-84.csv](orzecznictwo/art-84.csv) |
@@ -171,7 +171,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | § 2 ust. 6 | 1 | 0 | 1 | 0 | 0 | 0 | [par-2-ust-6.csv](orzecznictwo/par-2-ust-6.csv) |
 | § 3 | 1 | 0 | 1 | 0 | 0 | 0 | [par-3.csv](orzecznictwo/par-3.csv) |
 | § 3 ust. 7 | 1 | 0 | 1 | 0 | 0 | 0 | [par-3-ust-7.csv](orzecznictwo/par-3-ust-7.csv) |
-| (ogólnie) | 238 | 0 | 140 | 98 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
+| (ogólnie) | 240 | 0 | 141 | 99 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
 
 ## Najważniejsze orzeczenia
 
@@ -842,6 +842,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 
 - ★★★ 2005-08-08 | TK | [Tw 30/05](https://www.saos.org.pl/judgments/107535) | Postanowienie (score: 80)
 - ★★ 2011-01-26 | SN | [II UK 190/10](https://www.saos.org.pl/judgments/94036) | Postanowienie (score: 69)
+- ★★ 2026-04-01 | SO | [III AUa 114/24](https://www.saos.org.pl/judgments/545455) | Wyrok (score: 56)
 - ★★ 2025-08-06 | SO | [III AUa 99/25](https://www.saos.org.pl/judgments/537948) | Wyrok (score: 56)
 - ★★ 2025-06-12 | SO | [III AUa 631/24](https://www.saos.org.pl/judgments/537929) | Wyrok (score: 56)
 - ★★ 2025-04-30 | SO | [III AUa 709/24](https://www.saos.org.pl/judgments/537936) | Wyrok (score: 56)
@@ -859,7 +860,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2023-09-28 | SO | [III AUa 230/23](https://www.saos.org.pl/judgments/504864) | Wyrok (score: 56)
 - ★★ 2023-05-10 | SO | [III AUa 781/21](https://www.saos.org.pl/judgments/492957) | Wyrok (score: 56)
 - ★★ 2023-01-25 | SO | [III AUa 657/21](https://www.saos.org.pl/judgments/486361) | Wyrok (score: 56)
-- ★★ 2022-11-16 | SO | [III AUa 464/21](https://www.saos.org.pl/judgments/482943) | Wyrok (score: 56)
 
 ### art. 80 (20 wiodących)
 
@@ -887,6 +887,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 ### art. 81 (20 wiodących)
 
 - ★★ 2011-01-26 | SN | [II UK 190/10](https://www.saos.org.pl/judgments/94036) | Postanowienie (score: 69)
+- ★★ 2026-04-01 | SO | [III AUa 114/24](https://www.saos.org.pl/judgments/545455) | Wyrok (score: 56)
 - ★★ 2025-10-22 | SO | [III AUa 899/25](https://www.saos.org.pl/judgments/543718) | Wyrok (score: 56)
 - ★★ 2025-08-06 | SO | [III AUa 99/25](https://www.saos.org.pl/judgments/537948) | Wyrok (score: 56)
 - ★★ 2025-07-30 | SO | [III AUa 45/25](https://www.saos.org.pl/judgments/537923) | Wyrok (score: 56)
@@ -905,7 +906,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2025-04-15 | SO | [III AUa 10/24](https://www.saos.org.pl/judgments/537889) | Wyrok (score: 56)
 - ★★ 2025-04-10 | SO | [III AUa 1023/24](https://www.saos.org.pl/judgments/544596) | Wyrok (score: 56)
 - ★★ 2025-04-09 | SO | [III AUa 690/24](https://www.saos.org.pl/judgments/537931) | Wyrok (score: 56)
-- ★★ 2025-03-19 | SO | [III AUa 849/24](https://www.saos.org.pl/judgments/532660) | Wyrok (score: 56)
 
 ### art. 82 (20 wiodących)
 
@@ -1583,6 +1583,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 
 ### (ogólnie) (20 wiodących)
 
+- ★★ 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok (score: 56)
 - ★★ 2024-12-19 | SO | [III AUa 414/23](https://www.saos.org.pl/judgments/531130) | Wyrok (score: 56)
 - ★★ 2024-06-12 | SO | [I ACa 99/22](https://www.saos.org.pl/judgments/541827) | Wyrok (score: 56)
 - ★★ 2024-01-26 | SO | [III AUa 175/22](https://www.saos.org.pl/judgments/504820) | Wyrok (score: 56)
@@ -1602,5 +1603,4 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2020-09-29 | SO | [III AUa 821/18](https://www.saos.org.pl/judgments/428735) | Wyrok (score: 56)
 - ★★ 2020-07-09 | SO | [I ACa 574/19](https://www.saos.org.pl/judgments/434810) | Wyrok (score: 56)
 - ★★ 2020-06-30 | SO | [VI ACa 915/19](https://www.saos.org.pl/judgments/420723) | Wyrok (score: 56)
-- ★★ 2020-04-23 | SO | [III AUa 629/19](https://www.saos.org.pl/judgments/418306) | Wyrok (score: 56)
 

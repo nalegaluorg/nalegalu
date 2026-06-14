@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomostowych*
 
-Łącznie: **2124** orzeczeń
-(pominięto 1322 orzeczeń sądów rejonowych)
+Łącznie: **2127** orzeczeń
+(pominięto 1329 orzeczeń sądów rejonowych)
 
 ## art. 1 (177)
 
@@ -185,7 +185,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2016-06-20 | SO | [VIII U 2710/15](https://www.saos.org.pl/judgments/232675) | Zarządzenie
 - 2016-04-11 | SO | [VIII U 1141/15](https://www.saos.org.pl/judgments/216385) | Zarządzenie
 
-## art. 2 (800)
+## art. 2 (803)
 
 - 2010-11-25 | TK | [K 27/09](https://www.saos.org.pl/judgments/109678) | Wyrok ★
 - 2010-03-16 | TK | [K 17/09](https://www.saos.org.pl/judgments/206254) | Wyrok ★
@@ -198,6 +198,8 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2014-05-14 | SN | [II UK 465/13](https://www.saos.org.pl/judgments/105090) | Wyrok ★
 - 2014-05-14 | SN | [II UK 460/13](https://www.saos.org.pl/judgments/105089) | Wyrok ★
 - 2013-10-10 | SN | [II UK 106/13](https://www.saos.org.pl/judgments/103083) | Wyrok ★
+- 2026-03-31 | SO | [III AUa 720/25](https://www.saos.org.pl/judgments/545956) | Wyrok
+- 2026-01-14 | SO | [III AUa 548/25](https://www.saos.org.pl/judgments/545044) | Wyrok
 - 2025-12-02 | SO | [III AUa 59/24](https://www.saos.org.pl/judgments/542537) | Wyrok
 - 2025-07-10 | SO | [III AUa 1003/24](https://www.saos.org.pl/judgments/537890) | Wyrok
 - 2025-07-03 | SO | [III AUa 337/25](https://www.saos.org.pl/judgments/537918) | Wyrok
@@ -418,6 +420,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2021-07-09 | SO | [III AUa 1027/21](https://www.saos.org.pl/judgments/488749) | Uzasadnienie
 - 2021-05-20 | SO | [III AUa 109/21](https://www.saos.org.pl/judgments/459006) | Uzasadnienie
 - 2020-01-24 | SO | [III AUa 1920/18](https://www.saos.org.pl/judgments/407252) | Uzasadnienie
+- 2026-04-10 | SO | [VII U 1559/24](https://www.saos.org.pl/judgments/546604) | Wyrok
 - 2026-02-25 | SO | [VII U 1754/25](https://www.saos.org.pl/judgments/543211) | Wyrok
 - 2026-02-23 | SO | [VII U 1690/24](https://www.saos.org.pl/judgments/543125) | Wyrok
 - 2026-02-16 | SO | [VII U 583/24](https://www.saos.org.pl/judgments/544725) | Wyrok
@@ -7125,7 +7128,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 
 - 2016-12-30 | SO | [III AUz 98/16](https://www.saos.org.pl/judgments/266792) | Postanowienie
 
-## art. 21 (924)
+## art. 21 (927)
 
 - 2011-03-03 | TK | [K 23/09](https://www.saos.org.pl/judgments/110276) | Wyrok ★
 - 2010-11-25 | TK | [K 27/09](https://www.saos.org.pl/judgments/109678) | Wyrok ★
@@ -7134,6 +7137,8 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2012-09-13 | TK | [Tw 9/12](https://www.saos.org.pl/judgments/111523) | Postanowienie ★
 - 2009-10-08 | TK | [Tw 12/09](https://www.saos.org.pl/judgments/109620) | Postanowienie ★
 - 2009-07-15 | TK | [Tw 12/09](https://www.saos.org.pl/judgments/109618) | Postanowienie ★
+- 2026-03-31 | SO | [III AUa 720/25](https://www.saos.org.pl/judgments/545956) | Wyrok
+- 2026-01-14 | SO | [III AUa 548/25](https://www.saos.org.pl/judgments/545044) | Wyrok
 - 2025-12-02 | SO | [III AUa 59/24](https://www.saos.org.pl/judgments/542537) | Wyrok
 - 2025-10-16 | SO | [III AUa 351/25](https://www.saos.org.pl/judgments/540178) | Wyrok
 - 2025-08-13 | SO | [III AUa 258/25](https://www.saos.org.pl/judgments/537911) | Wyrok
@@ -7377,6 +7382,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2022-06-29 | SO | [III AUa 902/19](https://www.saos.org.pl/judgments/478199) | Uzasadnienie
 - 2021-10-12 | SO | [III AUa 109/21](https://www.saos.org.pl/judgments/472122) | Uzasadnienie
 - 2020-01-24 | SO | [III AUa 1920/18](https://www.saos.org.pl/judgments/407252) | Uzasadnienie
+- 2026-04-10 | SO | [VII U 1559/24](https://www.saos.org.pl/judgments/546604) | Wyrok
 - 2026-02-25 | SO | [VII U 1754/25](https://www.saos.org.pl/judgments/543211) | Wyrok
 - 2026-02-23 | SO | [VII U 1690/24](https://www.saos.org.pl/judgments/543125) | Wyrok
 - 2026-02-16 | SO | [VII U 583/24](https://www.saos.org.pl/judgments/544725) | Wyrok
@@ -8060,10 +8066,11 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 
 - 2025-05-15 | SO | [VIII U 2478/24](https://www.saos.org.pl/judgments/534952) | Uzasadnienie
 
-## art. 22 (74)
+## art. 22 (75)
 
 - 2012-09-13 | TK | [Tw 9/12](https://www.saos.org.pl/judgments/111523) | Postanowienie ★
 - 2009-07-15 | TK | [Tw 12/09](https://www.saos.org.pl/judgments/109618) | Postanowienie ★
+- 2026-01-14 | SO | [III AUa 548/25](https://www.saos.org.pl/judgments/545044) | Wyrok
 - 2024-11-26 | SO | [III AUa 148/24](https://www.saos.org.pl/judgments/526762) | Wyrok
 - 2024-06-20 | SO | [III AUa 854/23](https://www.saos.org.pl/judgments/505191) | Wyrok
 - 2023-06-28 | SO | [III AUa 393/22](https://www.saos.org.pl/judgments/504962) | Wyrok
@@ -8137,11 +8144,12 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2018-03-29 | SO | [VIII U 1372/17](https://www.saos.org.pl/judgments/335503) | Uzasadnienie
 - 2017-04-03 | SO | [VIII U 662/16](https://www.saos.org.pl/judgments/281998) | Zarządzenie
 
-## art. 23 (563)
+## art. 23 (564)
 
 - 2011-03-03 | TK | [K 23/09](https://www.saos.org.pl/judgments/110276) | Wyrok ★
 - 2010-11-25 | TK | [K 27/09](https://www.saos.org.pl/judgments/109678) | Wyrok ★
 - 2010-03-16 | TK | [K 17/09](https://www.saos.org.pl/judgments/206254) | Wyrok ★
+- 2026-01-14 | SO | [III AUa 548/25](https://www.saos.org.pl/judgments/545044) | Wyrok
 - 2025-05-21 | SO | [III AUa 776/24](https://www.saos.org.pl/judgments/531047) | Wyrok
 - 2025-05-07 | SO | [III AUa 2745/20](https://www.saos.org.pl/judgments/528069) | Wyrok
 - 2024-12-18 | SO | [III AUa 1139/23](https://www.saos.org.pl/judgments/537897) | Wyrok

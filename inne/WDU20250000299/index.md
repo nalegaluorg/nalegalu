@@ -8,12 +8,10 @@ pos: 299
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -53,6 +51,23 @@ Wstęp (uchylony)
 2. Wzór godła Rzeczypospolitej Polskiej zawiera załącznik nr 1.
 
 **Art. 2a.** Wizerunku orła ustalonego dla godła używają:
+
+- **1)** organy władzy państwowej;
+- **2)** organy administracji rządowej;
+- **3)** gminy, związki międzygminne oraz ich organy;
+- **4)** powiaty, związki powiatów oraz ich organy;
+- **4a)** związki powiatowo-gminne oraz ich organy;
+- **4b)** związki metropolitalne i ich organy;
+- **5)** samorządy województw oraz ich organy;
+- **6)** sądy, prokuratury i komornicy sądowi;
+- **7)** samorządowe kolegia odwoławcze;
+- **8)** regionalne izby obrachunkowe;
+- **9)** jednostki organizacyjne Sił Zbrojnych Rzeczypospolitej Polskiej;
+- **10)** jednostki organizacyjne Policji, Straży Granicznej, Krajowej Administracji Skarbowej i Państwowej Straży Pożarnej;
+- **10a)** Służba Ochrony Państwa;
+- **11)** jednostki organizacyjne Służby Więziennej;
+- **12)** szkoły publiczne, szkoły niepubliczne i niepubliczne szkoły artystyczne o uprawnieniach publicznej szkoły artystycznej, uczelnie publiczne, uczelnie niepubliczne oraz federacje podmiotów systemu szkolnictwa wyższego i nauki;
+- **13)** inne podmioty, jeżeli przepisy szczególne uprawniają je do używania wizerunku orła.
 
 **Art. 3.**
 
@@ -111,21 +126,21 @@ Wstęp (uchylony)
 - **2)** Senatu Rzeczypospolitej Polskiej;
 - **3)** Prezydenta Rzeczypospolitej Polskiej;
 - **4)** Rady Ministrów oraz Prezesa Rady Ministrów;
-- **5)** organów stanowiących jednostek samorządu terytorialnego w czasie ich sesji;
-- **6)** organów administracji rządowej i innych organów państwowych oraz państwowych jednostek organizacyjnych, a także organów jednostek samorządu terytorialnego i samorządowych jednostek organizacyjnych z okazji uroczystości oraz rocznic i świąt państwowych.
+- **5)** organów stanowiących jednostek samorządu terytorialnego – w czasie ich sesji;
+- **6)** organów administracji rządowej i innych organów państwowych oraz państwowych jednostek organizacyjnych, a także organów jednostek samorządu terytorialnego i samorządowych jednostek organizacyjnych – z okazji uroczystości oraz rocznic i świąt państwowych.
 
 2. Flagę państwową Rzeczypospolitej Polskiej podnoszą również polskie statki żeglugi śródlądowej.
 
-3. Flagę państwową Rzeczypospolitej Polskiej zaleca się podnosić lub umieszczać na budynkach mieszkalnych lub przed budynkami mieszkalnymi oraz na budynkach lub przed budynkami, w których prowadzi się działalność gospodarczą lub w innych miejscach niż wymienione w ust. 1 i 2 z okazji świąt i rocznic państwowych oraz innych uroczystości o zasięgu państwowym lub lokalnym, z uwzględnieniem art. 1 ust. 2.
+3. Flagę państwową Rzeczypospolitej Polskiej zaleca się podnosić lub umieszczać na budynkach mieszkalnych lub przed budynkami mieszkalnymi oraz na budynkach lub przed budynkami, w których prowadzi się działalność gospodarczą lub w innych miejscach niż wymienione w ust. 1 i 2 – z okazji świąt i rocznic państwowych oraz innych uroczystości o zasięgu państwowym lub lokalnym, z uwzględnieniem art. 1 ust. 2.
 
 **Art. 8.**
 
 1. Flagę państwową z godłem Rzeczypospolitej Polskiej podnoszą:
 
-- **1)** przedstawicielstwa dyplomatyczne, urzędy konsularne oraz inne oficjalne przedstawicielstwa i misje za granicą na budynkach lub przed budynkami ich siedzib urzędowych, a także kierownicy tych przedstawicielstw, urzędów i misji na swych rezydencjach i środkach komunikacji w wypadkach przewidzianych w prawie i zwyczajach międzynarodowych;
+- **1)** przedstawicielstwa dyplomatyczne, urzędy konsularne oraz inne oficjalne przedstawicielstwa i misje za granicą na budynkach lub przed budynkami ich siedzib urzędowych, a także kierownicy tych przedstawicielstw, urzędów i misji na swych rezydencjach i środkach komunikacji – w wypadkach przewidzianych w prawie i zwyczajach międzynarodowych;
 - **2)** cywilne lotniska i lądowiska;
 - **3)** cywilne samoloty komunikacyjne podczas lotów za granicą;
-- **4)** kapitanaty (bosmanaty) portów na budynkach lub przed budynkami stanowiącymi ich siedziby urzędowe.
+- **4)** kapitanaty (bosmanaty) portów – na budynkach lub przed budynkami stanowiącymi ich siedziby urzędowe.
 
 2. Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia, szczegółowe zasady dotyczące postępowania w sprawach, o których mowa w ust. 1 pkt 1, uwzględniając praktykę i zwyczaje istniejące w państwie przyjmującym, określając sytuacje, w których podnoszenie flagi państwowej jest obowiązkowe, oraz określając szczegółowo jej usytuowanie.
 
@@ -169,7 +184,7 @@ Wstęp (uchylony)
 
 **Art. 14.**
 
-1. Podczas wykonywania lub odtwarzania hymnu państwowego obowiązuje zachowanie powagi i spokoju. Osoby obecne podczas publicznego wykonywania lub odtwarzania hymnu stoją w postawie wyrażającej szacunek, a ponadto mężczyźni w ubraniach cywilnych zdejmują nakrycia głowy, zaś osoby w umundurowaniu obejmującym nakrycie głowy, niebędące w zorganizowanej grupie oddają honory przez salutowanie. Poczty sztandarowe podczas wykonywania lub odtwarzania hymnu oddają honory przez pochylenie sztandaru.
+1. Podczas wykonywania lub odtwarzania hymnu państwowego obowiązuje zachowanie powagi i spokoju. Osoby obecne podczas publicznego wykonywania lub odtwarzania hymnu stoją w postawie wyrażającej szacunek, a ponadto mężczyźni w ubraniach cywilnych – zdejmują nakrycia głowy, zaś osoby w umundurowaniu obejmującym nakrycie głowy, niebędące w zorganizowanej grupie – oddają honory przez salutowanie. Poczty sztandarowe podczas wykonywania lub odtwarzania hymnu oddają honory przez pochylenie sztandaru.
 
 2. Przepisy wydane na podstawie ustawy określają zachowanie się osób w umundurowaniu, występujących w zorganizowanej grupie.
 
@@ -206,11 +221,11 @@ Wstęp (uchylony)
 1. Prezydent Rzeczypospolitej Polskiej, w drodze rozporządzenia:
 
 - **1)** wydaje przepisy przewidziane w art. 10 oraz art. 14 ust. 2,
-- **2)** może ustalać zasady obchodów świąt i rocznic państwowych oraz innych uroczystości o zasięgu państwowym lub lokalnym biorąc pod uwagę uwarunkowania kulturowe i historyczne oraz przyjęte w tym zakresie zwyczaje, kierując się w szczególności potrzebami społeczności lokalnych.
+- **2)** może ustalać zasady obchodów świąt i rocznic państwowych oraz innych uroczystości o zasięgu państwowym lub lokalnym – biorąc pod uwagę uwarunkowania kulturowe i historyczne oraz przyjęte w tym zakresie zwyczaje, kierując się w szczególności potrzebami społeczności lokalnych.
 
 2. Minister Obrony Narodowej określi, w drodze zarządzenia, sposób i okoliczności stosowania symboli Rzeczypospolitej Polskiej w jednostkach Sił Zbrojnych Rzeczypospolitej Polskiej, uwzględniając rodzaj jednostki Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 **Art. 18.** Traci moc dekret z dnia 7 grudnia 1955 r. o godle i barwach Polskiej Rzeczypospolitej Ludowej oraz o pieczęciach państwowych (Dz. U. poz. 314, z 1956 r. poz. 43 oraz z 1957 r. poz. 42) w części dotyczącej godła i barw Polskiej Rzeczypospolitej Ludowej.
 
-**Art. 19.** Ustawa wchodzi w życie z dniem ogłoszenia . UWAGA: Biel i czerwień zgodnie z barwami RP Barwy Rzeczypospolitej Polskiej Współrzędne trójchromatyczne barw x, y, ich składowa Y oraz dopuszczalna różnica barwy Δ E w przestrzeni barw CIE 1976 (L* u* v*) ustalona według wzoru CIELUV przy iluminacie C i geometrii pomiarowej d/0 Barwa x y Y Δ E biała 0,315 0,320 82,0 4,0 czerwona 0,570 0,305 16,0 8,0 FLAGA PAŃSTWOWA RZECZYPOSPOLITEJ POLSKIEJ FLAGA PAŃSTWOWA Z GODŁEM RZECZYPOSPOLITEJ POLSKIEJ UWAGA: Biel i czerwień zgodnie z barwami RP Stosunek szerokości flagi do jej długości wynosi 5:8 Stosunek wysokości godła do szerokości flagi wynosi 2:5
+**Art. 19.** Ustawa wchodzi w życie z dniem ogłoszenia . UWAGA: Biel i czerwień zgodnie z barwami RP Barwy Rzeczypospolitej Polskiej Współrzędne trójchromatyczne barw x, y, ich składowa Y oraz dopuszczalna różnica barwy Δ E w przestrzeni barw CIE 1976 (L* u* v*) ustalona według wzoru CIELUV przy iluminacie C i geometrii pomiarowej d/0 Barwa x y Y Δ E biała 0,315 0,320 82,0 4,0 czerwona 0,570 0,305 16,0 8,0 Stosunek szerokości flagi do jej długości – wynosi 5:8 FLAGA PAŃSTWOWA RZECZYPOSPOLITEJ POLSKIEJ Stosunek wysokości godła do szerokości flagi – wynosi 2:5 FLAGA PAŃSTWOWA Z GODŁEM RZECZYPOSPOLITEJ POLSKIEJ UWAGA: Biel i czerwień zgodnie z barwami RP
 

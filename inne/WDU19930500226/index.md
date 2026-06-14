@@ -8,7 +8,7 @@ pos: 226
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Wyższej Szkole Rolniczo-Pedagogicznej imienia Georgi Dymitrowa w Siedlcach nadaje się nazwę "Wyższa Szkoła Rolniczo-Pedagogiczna w Siedlcach".

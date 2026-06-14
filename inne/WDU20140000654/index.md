@@ -8,10 +8,10 @@ pos: 654
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 maja 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 654 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 20 maja 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000654) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/654/text.pdf) |
 
-Poz. 654 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 20 maja 2014 r.
 w sprawie określenia wysokości wynagrodzenia biegłego skarbowego Na podstawie art. 67c § 15 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
-z 2012 r. poz. 1015, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa wysokość wynagrodzenia biegłego skarbowego za oszacowanie wartości ruchomości lub prawa majątkowego zobowiązanego.
+z 2012 r. poz. 1015, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wysokość wynagrodzenia biegłego skarbowego za oszacowanie wartości ruchomości lub prawa majątkowego zobowiązanego.
 § 2. 1. Wysokość wynagrodzenia biegłego skarbowego za oszacowanie wartości ruchomości lub prawa majątkowego zobowiązanego określa się jako iloczyn stawki godzinowej oraz liczby godzin wykonanej pracy związanej z oszacowaniem wartości ruchomości lub prawa majątkowego zobowiązanego, w tym przeznaczonych na dokonanie przez biegłego skarbowego czynności przygotowawczych oraz opracowanie i sporządzenie protokołu oszacowania wartości ruchomości lub prawa majątkowego zobowiązanego.
 2. Wysokość wynagrodzenia biegłego skarbowego ulega podwyższeniu o poniesione wydatki związane z oszacowaniem wartości ruchomości lub prawa majątkowego zobowiązanego.
 § 3. Stawka godzinowa wynosi 25 zł, z tym że w przypadku czynności biegłego skarbowego polegających na oszacowaniu wartości prawa majątkowego i środka transportu podlegającego rejestracji stawka ta wynosi 76 zł.

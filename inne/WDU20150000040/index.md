@@ -8,10 +8,10 @@ pos: 40
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 stycznia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 40 TrakTaT o handlu bronią, sporządzony w Nowym Jorku dnia 2 kwietnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/40/text.pdf) |
 
-TrakTaT o handlu bronią, sporządzony w Nowym Jorku dnia 2 kwietnia 2013 r.
-W imieniu Rzeczypospolitej Polskiej PRezydeNt RzeczyPosPoliteJ PolskieJ podaje do powszechnej wiadomości: dnia 2 kwietnia 2013 r. w Nowym Jorku został sporządzony traktat o handlu bronią, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym traktatem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
+W imieniu Rzeczypospolitej Polskiej PRezydeNt RzeczyPosPoliteJ PolskieJ podaje do powszechnej wiadomości: dnia 2 kwietnia 2013 r. w Nowym Jorku został sporządzony traktat o handlu bronią, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym traktatem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęty, ratyfikowany i potwierdzony, – będzie niezmiennie zachowywany.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 15 grudnia 2014 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.

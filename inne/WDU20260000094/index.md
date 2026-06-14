@@ -8,12 +8,10 @@ pos: 94
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego
 
 | Pole | Wartość |
 |---|---|
@@ -27,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/94/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2023 r. poz. 1618), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. poz. 531) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 stycznia 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2023 r. poz. 1618), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. poz. 531) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 stycznia 2026 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U.
 poz. 531), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 15 września 2017 r.
-o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego Aktywność obywateli, oddolnie i na zasadach dobrowolności angażujących się w zorganizowane działania na rzecz dobra wspólnego, niosących pomoc i wsparcie potrzebującym oraz kształtujących pracą u podstaw zręby kultury narodowej i lokalnej nawiązuje do wielkiego dziedzictwa polskiej wolności i wyraża ideały społeczeństwa obywatelskiego.
+o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego Aktywność obywateli, oddolnie i na zasadach dobrowolności angażujących się w zorganizowane działania na rzecz dobra wspólnego, niosących pomoc i wsparcie potrzebującym oraz kształtujących pracą u podstaw zręby kultury narodowej i lokalnej nawiązuje do wielkiego dziedzictwa polskiej wolności i wyraża ideały społeczeństwa obywatelskiego.
 Społeczeństwo obywatelskie jest wspólną przestrzenią, która służy praktykowaniu cnót obywatelskich, takich jak odpowiedzialność za naród i wspólnoty lokalne, solidarność oraz zaangażowanie w budowę oddolnych instytucji obywatelskich. Bez umiejętności dostrzegania i pomnażania dobra wspólnego zabraknie obywatelskich więzi społecznych, które są fundamentem kapitału społecznego.
 Państwo polskie wspiera wolnościowe i chrześcijańskie ideały obywateli i społeczności lokalnych, obejmujące tradycję polskiej inteligencji, tradycje niepodległościową, narodową, religijną, socjalistyczną oraz tradycję ruchu ludowego, dostrzegając w nich kontynuację wielowiekowych tradycji Rzeczypospolitej Polskiej i tym samym chroniąc bogate dziedzictwo wspólnoty jej wolnych obywateli.
 Państwo polskie dąży do zrównoważonego rozwoju społeczeństwa obywatelskiego zarówno w wymiarze terytorialnym, jak i tematycznym, szczególną ochroną otaczając organizacje małe, krzewiące etos społecznikowski i pielęgnujące dziedzictwo lokalne. W tym celu, przyczyniając się do wypełnienia ideałów wolności, leżących u podstaw motywacji prospołecznych i postaw propaństwowych, a także do kształtowania dojrzałego patriotyzmu, państwo polskie będzie aktywnie działać na rzecz zwiększania zaangażowania obywateli i organizacji obywatelskich w życiu publicznym, zwiększania liczby inicjatyw oddolnych i lokalnych oraz poprawy instytucjonalnej zdolności organizacji obywatelskich do realizacji ich misji.
@@ -42,7 +40,7 @@ Art. 37–41. (pominięte)
 
 **Art. 1.**
 
-1. Ustawa określa zadania i organizację Narodowego Instytutu Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego, zwanego dalej „Narodowym Instytutem”.
+1. Ustawa określa zadania i organizację Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego, zwanego dalej „Narodowym Instytutem”.
 
 2. Narodowy Instytut jest instytucją właściwą w sprawach wspierania rozwoju społeczeństwa obywatelskiego, a także działalności pożytku publicznego i wolontariatu w zakresie określonym w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338).
 
@@ -56,13 +54,16 @@ Art. 37–41. (pominięte)
 
 - **1)** szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu,
 - **2)** organizację Narodowego Instytutu,
-- **3)** wartość majątku nieprzekraczającego kwoty 200 000 zł, powyżej którego rozporządzanie nim przez Dyrektora Narodowego Instytutu wymaga zgody Rady Narodowego Instytutu mając na uwadze sprawne i efektywne zarządzanie środkami finansowymi i wykonywanie zadań.
+- **3)** wartość majątku nieprzekraczającego kwoty 200 000 zł, powyżej którego rozporządzanie nim przez Dyrektora Narodowego Instytutu wymaga zgody Rady Narodowego Instytutu – mając na uwadze sprawne i efektywne zarządzanie środkami finansowymi i wykonywanie zadań.
 
 **Art. 3.** Nadzór nad Narodowym Instytutem sprawuje Przewodniczący Komitetu do spraw Pożytku Publicznego, o którym mowa w art. 34a ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, zwany dalej „Przewodniczącym Komitetu”.
 
 #### Rozdział 2 Organy i organizacja Narodowego Instytutu
 
 **Art. 4.** Organami Narodowego Instytutu są:
+
+- **1)** Dyrektor Narodowego Instytutu, zwany dalej „Dyrektorem”;
+- **2)** Rada Narodowego Instytutu, zwana dalej „Radą”.
 
 **Art. 5.**
 
@@ -187,7 +188,7 @@ Art. 37–41. (pominięte)
 
 6. Szczegółowy tryb działania Rady określa regulamin ustanowiony przez Radę.
 
-7. Członkowi Rady przysługuje zwrot kosztów podróży i noclegów w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661) w związku z udziałem w:
+7. Członkowi Rady przysługuje zwrot kosztów podróży i noclegów w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661) w związku z udziałem w:
 
 - **1)** posiedzeniach Rady;
 - **2)** konferencjach, sympozjach, seminariach i spotkaniach dotyczących zadań Narodowego Instytutu, po uzyskaniu zgody Przewodniczącego podejmowanej w porozumieniu z Dyrektorem.
@@ -242,7 +243,7 @@ Art. 37–41. (pominięte)
 
 1. Po upływie terminu, o którym mowa w art. 16, niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze, w sposób, o którym mowa w art. 14 ust. 2.
 
-2. Lista, o której mowa w ust. 1, zawiera imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
+2. Lista, o której mowa w ust. 1, zawiera imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
 
 **Art. 18.**
 
@@ -330,6 +331,13 @@ Art. 37–41. (pominięte)
 5. Narodowy Instytut może zlecać przeprowadzenie ewaluacji zewnętrznym podmiotom, wybranym w drodze otwartego konkursu.
 
 **Art. 26.** Przewodniczący Komitetu w ramach nadzoru:
+
+- **1)** sprawuje kontrolę nad działalnością Narodowego Instytutu pod względem legalności, gospodarności, celowości i rzetelności na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej;
+- **2)** zatwierdza:
+    - **a)** projekt rocznego planu finansowego Narodowego Instytutu,
+    - **b)** projekt rocznego planu działalności Narodowego Instytutu,
+    - **c)** roczne sprawozdanie z działalności Narodowego Instytutu,
+    - **d)** roczne sprawozdanie finansowe Narodowego Instytutu.
 
 **Art. 27.**
 
@@ -440,7 +448,7 @@ Art. 37–41. (pominięte)
 
 1. Roczne sprawozdanie finansowe Narodowego Instytutu podlega badaniu przez firmę audytorską, zgodnie z wymogami przeprowadzania badań określonymi w ustawie z dnia 29 września 1994 r. o rachunkowości i w ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891).
 
-2. Przewodniczący Komitetu dokonuje, po zasięgnięciu opinii Rady, wyboru firmy audytorskiej, o której mowa w ust. 1, w trybie przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+2. Przewodniczący Komitetu dokonuje, po zasięgnięciu opinii Rady, wyboru firmy audytorskiej, o której mowa w ust. 1, w trybie przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
 
@@ -482,7 +490,7 @@ Art. 37–41. (pominięte)
 
 1. Z dniem wejścia w życie niniejszej ustawy członkowie korpusu służby cywilnej zatrudnieni w urzędzie obsługującym ministra właściwego do spraw zabezpieczenia społecznego realizujący do tego dnia zadania, które zostają przekazane niniejszą ustawą do Kancelarii Prezesa Rady Ministrów lub Narodowego Instytutu, stają się członkami korpusu służby cywilnej zatrudnionymi w Kancelarii Prezesa Rady Ministrów.
 
-2. Dotychczasowy pracodawca jest obowiązany, w terminie 14 dni od dnia ogłoszenia niniejszej ustawy, zawiadomić na piśmie osoby, o których mowa w ust. 1, o zmianach, jakie mają nastąpić w ich stosunkach pracy. Przepis art. 23 § 4 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy stosuje się odpowiednio.
+2. Dotychczasowy pracodawca jest obowiązany, w terminie 14 dni od dnia ogłoszenia niniejszej ustawy, zawiadomić na piśmie osoby, o których mowa w ust. 1, o zmianach, jakie mają nastąpić w ich stosunkach pracy. Przepis art. 23 § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 3. Przepisu ust. 2 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz. 620 i 1661).
 
@@ -490,29 +498,29 @@ Art. 37–41. (pominięte)
 
 1. Maksymalny limit wydatków budżetu państwa będący skutkiem finansowania ustawy na lata 2017–2026 wynosi 1 490 880 000 zł, z tym że w roku:
 
-- **1)** 2017 1 580 000 zł;
-- **2)** 2018 39 400 000 zł;
-- **3)** 2019 60 800 000 zł;
-- **4)** 2020 40 800 000 zł;
-- **5)** 2021 143 000 000 zł;
-- **6)** 2022 193 000 000 zł;
-- **7)** 2023 239 000 000 zł;
-- **8)** 2024 230 000 000 zł;
-- **9)** 2025 309 000 000 zł;
-- **10)** 2026 234 300 000 zł.
+- **1)** 2017 – 1 580 000 zł;
+- **2)** 2018 – 39 400 000 zł;
+- **3)** 2019 – 60 800 000 zł;
+- **4)** 2020 – 40 800 000 zł;
+- **5)** 2021 – 143 000 000 zł;
+- **6)** 2022 – 193 000 000 zł;
+- **7)** 2023 – 239 000 000 zł;
+- **8)** 2024 – 230 000 000 zł;
+- **9)** 2025 – 309 000 000 zł;
+- **10)** 2026 – 234 300 000 zł.
 
 1a. Maksymalny limit wydatków budżetu państwa będący skutkiem finansowania ustawy na lata 2027–2036 wynosi 2 426 000 000 zł, z tym że w roku:
 
-- **1)** 2027 236 300 000 zł;
-- **2)** 2028 235 300 000 zł;
-- **3)** 2029 237 300 000 zł;
-- **4)** 2030 239 300 000 zł;
-- **5)** 2031 241 300 000 zł;
-- **6)** 2032 243 300 000 zł;
-- **7)** 2033 245 300 000 zł;
-- **8)** 2034 247 300 000 zł;
-- **9)** 2035 249 300 000 zł;
-- **10)** 2036 251 300 000 zł.
+- **1)** 2027 – 236 300 000 zł;
+- **2)** 2028 – 235 300 000 zł;
+- **3)** 2029 – 237 300 000 zł;
+- **4)** 2030 – 239 300 000 zł;
+- **5)** 2031 – 241 300 000 zł;
+- **6)** 2032 – 243 300 000 zł;
+- **7)** 2033 – 245 300 000 zł;
+- **8)** 2034 – 247 300 000 zł;
+- **9)** 2035 – 249 300 000 zł;
+- **10)** 2036 – 251 300 000 zł.
 
 2. W przypadku zagrożenia przekroczenia limitów wydatków, o których mowa w ust. 1 i 1a, na dany rok budżetowy zostanie zastosowany mechanizm korygujący polegający na ograniczeniu kosztów rzeczowych ponoszonych przez Narodowy Instytut.
 

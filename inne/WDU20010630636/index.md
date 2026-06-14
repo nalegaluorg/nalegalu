@@ -8,7 +8,7 @@ pos: 636
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo o miarach
@@ -50,7 +50,36 @@ source: "isap-pdf"
 
 **Art. 3.** Minister właściwy do spraw gospodarki, w porozumieniu z Ministrem Obrony Narodowej oraz z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, sposób prowadzenia i organizację działalności w celu zapewnienia jednolitości miar i dokładności pomiarów związanych z obronnością i bezpieczeństwem państwa, z uwzględnieniem wymagań dotyczących:
 
+- **1)** procedur pomiarowych;
+- **2)** prawnej kontroli metrologicznej przyrządów pomiarowych;
+- **3)** odniesienia do państwowych wzorców jednostek miar;
+- **4)** realizacji zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** legalna jednostka miary – jednostkę miary, której stosowanie jest nakazane lub dozwolone przepisem prawnym;
+- **2)** wzorzec jednostki miary – przyrząd pomiarowy przeznaczony do zdefiniowania, zrealizowania, zachowania lub odtwarzania jednostki miary albo jednej lub wielu wartości danej wielkości fizycznej i służący jako odniesienie;
+- **3)** państwowy wzorzec jednostki miary – wzorzec jednostki miary uznany urzędowo w Rzeczypospolitej Polskiej za podstawę do przypisywania wartości innym wzorcom jednostki miary danej wielkości fizycznej;
+- **4)** Międzynarodowy Układ Jednostek Miar (SI) – spójny układ jednostek miar, przyjęty i zalecany przez Generalną Konferencję Miar;
+- **5)** przyrząd pomiarowy – urządzenie, układ pomiarowy lub jego elementy, przeznaczone do wykonania pomiarów samodzielnie lub w połączeniu z jednym lub wieloma urządzeniami dodatkowymi; wzorce miary i materiały odniesienia są traktowane jako przyrządy pomiarowe;
+- **6)** wzorzec miary – urządzenie przeznaczone do odtwarzania lub dostarczania jednej lub wielu znanych wartości danej wielkości fizycznej w sposób niezmienny podczas jego stosowania;
+- **7)** materiał odniesienia – materiał lub substancję, których jedna lub więcej wartości ich właściwości są dostatecznie jednorodne i określone w stopniu umożliwiającym stosowanie do wzorcowania przyrządu pomiarowego, oceny metody pomiarowej lub przypisania wartości właściwościom innych materiałów;
+- **8)** wymagania – wymagania techniczne i metrologiczne, które powinien spełniać przyrząd pomiarowy;
+- **9)** prawna kontrola metrologiczna – działanie zmierzające do wykazania, że przyrząd pomiarowy spełnia wymagania określone we właściwych przepisach;
+- **9a)** producent – osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która projektuje i wytwarza przyrząd pomiarowy, albo dla której ten przyrząd zaprojektowano lub wytworzono w celu wprowadzenia go do obrotu lub użytkowania pod własną nazwą lub znakiem;
+- **9b)** importer – osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, która wprowadza do obrotu lub użytkowania przyrządy pomiarowe pochodzące z krajów trzecich;
+- **9c)** upoważniony przedstawiciel – osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, upoważnioną przez producenta na piśmie do działania w jego imieniu;
+- **10)** badanie typu – zespół czynności mających na celu wykazanie, czy przyrząd pomiarowy danego typu spełnia wymagania, i stanowiących podstawę zatwierdzenia typu;
+- **11)** (uchylony)
+- **12)** zatwierdzenie typu – potwierdzenie, w drodze decyzji, że typ przyrządu pomiarowego spełnia wymagania;
+- **13)** legalizacja – zespół czynności obejmujących sprawdzenie i stwierdzenie w drodze decyzji, poświadczonej wyłącznie dowodem legalizacji, że przyrząd pomiarowy spełnia wymagania;
+- **14)** wzorcowanie – czynności ustalające relację między wartościami wielkości mierzonej wskazanymi przez przyrząd pomiarowy a odpowiednimi wartościami wielkości fizycznych, realizowanymi przez wzorzec jednostki miary;
+- **15)** wprowadzenie do obrotu – przekazanie przyrządu pomiarowego po raz pierwszy sprzedawcy bądź użytkownikowi przez producenta, jego upoważnionego przedstawiciela lub importera;
+- **16)** wprowadzenie do użytkowania – zastosowanie przyrządu pomiarowego po raz pierwszy do celu, dla którego jest on przeznaczony;
+- **17)** punkt legalizacyjny – miejsce wykonywania przez organy administracji miar czynności związanych z legalizacją dużej ilości określonych rodzajów przyrządów pomiarowych u producenta, importera albo u przedsiębiorcy dokonującego napraw lub instalacji;
+- **18)** wzorcowanie zbiorników statków – zespół czynności mających na celu określenie pojemności zbiorników statków żeglugi śródlądowej i przybrzeżnej;
+- **19)** znak zatwierdzenia typu – znak umieszczany na przyrządzie pomiarowym, poświadczający jego zgodność z zatwierdzonym typem;
+- **20)** dowód legalizacji – świadectwo legalizacji lub cecha legalizacji umieszczana na przyrządzie pomiarowym, poświadczające dokonanie legalizacji.
 
 #### Rozdział 2 Legalne jednostki miar i państwowe wzorce jednostek miar
 
@@ -143,6 +172,15 @@ source: "isap-pdf"
 
 **Art. 8c.** Prawna kontrola metrologiczna przyrządów pomiarowych może być przeprowadzana w:
 
+- **1)** siedzibie organu administracji miar;
+- **2)** punkcie legalizacyjnym;
+- **3)** miejscu zainstalowania lub użytkowania przyrządu pomiarowego, jeżeli wynika to z wymagań;
+- **4)** miejscu wykonywania legalizacji pierwotnej lub legalizacji ponownej przez podmiot, któremu Prezes udzielił upoważnienia do wykonywania legalizacji pierwotnej lub legalizacji ponownej. Art. 8ca. W przypadku gdy prawna kontrola metrologiczna przyrządu pomiarowego jest przeprowadzana w miejscu jego zainstalowania lub użytkowania i jest to niezbędne dla prawidłowego sprawdzenia przyrządu pomiarowego, organ administracji miar albo podmiot upoważniony wzywa wnioskodawcę do:
+- **1)** udostępnienia specjalistycznego sprzętu, w szczególności wzorców miary wraz z dowodami spójności pomiarowej, i odpowiednich środków technicznych;
+- **2)** udostępnienia materiałów lub substancji niezbędnych do przeprowadzenia sprawdzenia przyrządu pomiarowego;
+- **3)** dostarczenia dodatkowych egzemplarzy przyrządu pomiarowego reprezentujących typ, który ma być zatwierdzony, jego elementów lub urządzeń dodatkowych w przypadkach badania typu;
+- **4)** zapewnienia pomocy personelu pomocniczego przy sprawdzaniu przyrządu pomiarowego.
+
 **Art. 8d.**
 
 1. Z wnioskiem o zatwierdzenie typu przyrządu pomiarowego może wystąpić producent lub jego upoważniony przedstawiciel.
@@ -203,6 +241,9 @@ source: "isap-pdf"
 
 **Art. 8i.** Producent na wszystkich przyrządach pomiarowych podlegających:
 
+- **1)** wyłącznie zatwierdzeniu typu – umieszcza nadany znak zatwierdzenia typu;
+- **2)** zatwierdzeniu typu i legalizacji – może umieścić znak zatwierdzenia typu, jeżeli został nadany.
+
 **Art. 8j.**
 
 1. Legalizacja pierwotna albo legalizacja jednostkowa przyrządu pomiarowego jest dokonywana na wniosek:
@@ -232,6 +273,10 @@ source: "isap-pdf"
 3. Termin, o którym mowa w ust. 2 pkt 2, liczy się od pierwszego dnia grudnia roku, którego oznaczenie zostało naniesione na przyrządzie podczas dokonywania oceny zgodności.
 
 **Art. 8l.** Organ administracji miar oraz podmiot upoważniony odmawiają, w drodze decyzji, dokonania legalizacji, w przypadku gdy:
+
+- **1)** nie jest zatwierdzony typ zgłoszonego przyrządu pomiarowego podlegającego zatwierdzeniu typu;
+- **2)** przyrząd pomiarowy jest uszkodzony, niekompletny lub nieprzygotowany do sprawdzenia;
+- **3)** czynności związane z legalizacją mają być wykonywane w miejscu, o którym mowa w art. 8c pkt 3, a wnioskodawca nie zapewnił warunków, o których mowa w art. 8ca.
 
 **Art. 8m.**
 
@@ -278,7 +323,21 @@ source: "isap-pdf"
 
 **Art. 9.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
+- **1)** tryb zgłaszania przyrządów pomiarowych do prawnej kontroli metrologicznej, a w szczególności dane, jakie powinien zawierać wniosek o jej przeprowadzenie, oraz rodzaje dokumentów dołączanych do wniosku, w tym zakres dokumentacji techniczno-konstrukcyjnej, a także przypadki, kiedy do wniosku o zatwierdzenie typu powinna być dołączona większa liczba egzemplarzy reprezentujących typ przyrządu pomiarowego,
+- **2)** szczegółowy sposób przeprowadzania prawnej kontroli metrologicznej, w tym sposób dokonywania legalizacji za pomocą metody statystycznej, rodzaje przyrządów pomiarowych, które mogą podlegać legalizacji dokonywanej za pomocą tej metody, oraz warunki jednorodności partii przyrządów pomiarowych,
+- **3)** dowody legalizacji wydawane dla określonych rodzajów przyrządów pomiarowych,
+- **4)** okresy ważności legalizacji określonych rodzajów przyrządów pomiarowych oraz terminy, w których przyrządy pomiarowe wprowadzone do obrotu lub użytkowania po dokonaniu oceny zgodności powinny być zgłaszane do legalizacji ponownej, uwzględniając warunki użytkowania tych przyrządów i przewidywane obszary ich zastosowań,
+- **5)** wzory:
+    - **a)** decyzji zatwierdzenia typu i świadectw legalizacji, mając na względzie konieczność zamieszczenia niezbędnych informacji w tych dokumentach,
+    - **b)** znaków zatwierdzenia typu, cech legalizacji i cech zabezpieczających, ustalając ich kształt i wymiary,
+
+- **6)** wartości podstawowych stałych fizycznych i liczbowe dane odniesienia dla właściwości określonych substancji i materiałów wykorzystywanych przy wykonywaniu prawnej kontroli metrologicznej określonych rodzajów przyrządów pomiarowych – przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+
 **Art. 9a.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzeń, dla poszczególnych rodzajów lub grup przyrządów pomiarowych:
+
+- **1)** wymagania, którym powinny odpowiadać przyrządy pomiarowe podlegające prawnej kontroli metrologicznej w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, a także, jeżeli jest to niezbędne, w zakresie warunków właściwego stosowania tych przyrządów oraz miejsc umieszczania na nich cech legalizacji i zabezpieczających,
+- **2)** szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej, a także, jeżeli jest to niezbędne, sposoby i metody ich przeprowadzania,
+- **3)** zakres informacji, jakie powinna zawierać instrukcja obsługi, oraz dodatkowe dokumenty poświadczające charakterystyki metrologiczne przyrządu pomiarowego, jeżeli są one niezbędne do prawidłowego przeprowadzenia badania danego rodzaju przyrządu pomiarowego – przy uwzględnieniu przeznaczenia przyrządów pomiarowych oraz zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
 
 **Art. 9b.**
 
@@ -295,6 +354,10 @@ source: "isap-pdf"
 #### Rozdział 4 Kompetencje i zadania organów administracji miar
 
 **Art. 10.** Organami administracji miar są:
+
+- **1)** Prezes Głównego Urzędu Miar, będący centralnym organem administracji rządowej;
+- **2)** dyrektorzy okręgowych urzędów miar, zwani dalej „dyrektorami”.
+- **3)** (uchylony)
 
 **Art. 10a.** Nadzór nad Prezesem sprawuje minister właściwy do spraw gospodarki.
 
@@ -537,6 +600,11 @@ source: "isap-pdf"
 7. Jeżeli upoważniony podmiot zaprzestał prowadzenia działalności objętej upoważnieniem lub nastąpiło cofnięcie udzielonego upoważnienia, to jest on obowiązany przekazać niezwłocznie całą zgromadzoną dokumentację, o której mowa w ust. 3, organowi administracji miar właściwemu ze względu na miejsce prowadzenia działalności.
 
 **Art. 16b.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+- **1)** rodzaje przyrządów pomiarowych, dla których mogą być wydawane upoważnienia do legalizacji pierwotnej lub legalizacji ponownej,
+- **2)** tryb wydawania i przedłużania upoważnień do legalizacji pierwotnej lub legalizacji ponownej, w tym dane, jakie powinien zawierać wniosek o wydanie lub przedłużenie upoważnienia, oraz rodzaje dokumentów, jakie powinny być dołączone do wniosku,
+- **3)** szczegółowe warunki wydawania upoważnień, w tym sposób potwierdzania posiadania odpowiedniej wiedzy przez personel i zakres podstawowego wyposażenia technicznego niezbędnego do wykonywania legalizacji danych rodzajów przyrządów pomiarowych,
+- **4)** zakres i sposób dokumentowania przez podmioty upoważnione wykonywanych czynności podczas legalizacji – mając na względzie zakres i rodzaj powierzanych czynności, konieczność ewidencjonowania niezbędnych danych o przyrządzie pomiarowym i wykonywanych czynnościach oraz zobowiązania wynikające z wiążących Rzeczpospolitą Polską umów międzynarodowych.
 
 **Art. 16c.** (uchylony)
 
@@ -838,6 +906,12 @@ source: "isap-pdf"
 4. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, wysokość i tryb pobierania opłat, o których mowa w art. 24, uwzględniając rodzaje przyrządów pomiarowych, charakter wykonywanych czynności, stopień skomplikowania i czas trwania przeprowadzanych badań i sprawdzeń oraz ich uzasadnione koszty, a także wskaźniki wzrostu cen towarów i usług konsumpcyjnych oraz dodatkowo, mając na uwadze w przypadku opłat, o których mowa w art. 24 ust. 2 pkt 4, zakres udzielanych upoważnień.
 
 **Art. 25.** Za inne czynności wykonywane przez organy administracji miar i podległe im urzędy w ramach umów cywilnoprawnych, związane z:
+
+- **1)** badaniem przyrządów pomiarowych i wydawaniem certyfikatów zgodności w ramach systemu Międzynarodowej Organizacji Metrologii Prawnej,
+- **2)** wzorcowaniem i ekspertyzami przyrządów pomiarowych,
+- **3)** dostarczaniem odbiorcom wzorców miar i materiałów odniesienia,
+- **4)** udzielaniem konsultacji i prowadzeniem doradztwa technicznego w zakresie doboru i stosowania przyrządów pomiarowych,
+- **5)** szkoleniem specjalistycznym w dziedzinie miar na rzecz jednostek i podmiotów spoza administracji miar – pobiera się wynagrodzenie określane w tych umowach.
 
 #### Rozdział 7 Sankcje za naruszenie przepisów ustawy
 

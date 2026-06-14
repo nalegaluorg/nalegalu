@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych.*
 
 Łącznie: **100** orzeczeń
-(pominięto 66 orzeczeń sądów rejonowych)
+(pominięto 67 orzeczeń sądów rejonowych)
 
 ## art. 2 (6)
 

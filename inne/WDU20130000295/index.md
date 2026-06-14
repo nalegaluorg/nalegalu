@@ -8,10 +8,10 @@ pos: 295
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 marca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 295 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/295/text.pdf) |
 
-Poz. 295 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Parkowi Narodowemu „Ujście Warty” z siedzibą w Chyrzynie Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
-zm. ) zarządza się, co następuje: § 1. Parkowi Narodowemu „Ujście Warty” z siedzibą w Chyrzynie nadaje się statut, który stanowi załącznik do rozporządzenia.
+zm. ) zarządza się, co następuje:
+§ 1. Parkowi Narodowemu „Ujście Warty” z siedzibą w Chyrzynie nadaje się statut, który stanowi załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec STATUT PARKU NARODOWEGO „UJŚCIE WARTY” Z SIEDZIBĄ W CHYRZYNIE § 1. Park Narodowy „Ujście Warty” z siedzibą w Chyrzynie, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
+Minister Środowiska: M. Korolec STATUT PARKU NARODOWEGO „UJŚCIE WARTY” Z SIEDZIBĄ W CHYRZYNIE
+§ 1. Park Narodowy „Ujście Warty” z siedzibą w Chyrzynie, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowisko pracy:
 1) Zespół do spraw Administracyjnych;
 2) Zespół do spraw Edukacji Przyrodniczej i Udostępniania;

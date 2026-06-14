@@ -8,7 +8,7 @@ pos: 1030
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022
@@ -33,7 +33,29 @@ Art. 43–46. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania i kompetencje Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022, zwanej dalej „Komisją”;
+- **2)** szczególny tryb postępowania w przedmiocie badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczy-pospolitej Polskiej w latach 2007–2022;
+- **3)** (uchylony)
+- **4)** sposób prowadzenia przez Komisję działalności informacyjnej i prewencyjnej dotyczących wpływów rosyjskich w latach 2007–2022.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** członku kadry kierowniczej wyższego szczebla – należy przez to rozumieć członka zarządu, członka rady nadzorczej, dyrektora, pracownika, syndyka lub likwidatora spółki, który w związku z zajmowanym stanowiskiem podejmował decyzje mające istotny wpływ na sprawy majątkowe tej spółki, w tym na jej politykę finansową i operacyjną;
+- **2)** funkcjonariuszu publicznym – należy przez to rozumieć funkcjonariusza publicznego w rozumieniu art. 115 § 13 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17);
+- **3)** informacjach niejawnych – należy przez to rozumieć informacje niejawne, o których mowa w art. 1 ust. 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2023 r. poz. 756, 1030 i 1532);
+- **4)** poświadczeniu bezpieczeństwa – należy przez to rozumieć poświadczenie bezpieczeństwa, o którym mowa w art. 29 ust. 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych;
+- **5)** spółce – należy przez to rozumieć przedsiębiorstwo państwowe, spółkę realizującą misję publiczną w rozumieniu art. 2 pkt 8 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125), lub spółkę, w której prawa z akcji albo udziałów należących do Skarbu Państwa w latach 2007–2022:
+    - **a)** wykonywał minister kierujący działem administracji rządowej lub pełnomocnik rządu lub
+    - **b)** wykonywała państwowa osoba prawna lub państwowa jednostka organizacyjna posiadająca osobowość prawną, która była podległa ministrowi kierującemu działem administracji rządowej lub była przez niego nadzorowana, lub
+    - **c)** wykonywała inna spółka, w której prawa z akcji albo udziałów należących do Skarbu Państwa wykonywali minister kierujący działem administracji rządowej, państwowa osoba prawna lub państwowa jednostka organizacyjna posiadająca osobowość prawną, która była podległa ministrowi kierującemu działem administracji rządowej lub była przez niego nadzorowana;
+
+- **6)** środkach publicznych – należy przez to rozumieć środki, o których mowa w art. 5 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. );
+- **7)** (uchylony)
+- **8)** wpływach rosyjskich – należy przez to rozumieć każde działanie:
+    - **a)** osób będących przedstawicielami władz publicznych Federacji Rosyjskiej, w szczególności osób zajmujących eksponowane stanowiska polityczne w rozumieniu art. 2 ust. 2 pkt 11 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843),
+    - **b)** osób znanych jako bliscy współpracownicy osób będących przedstawicielami władz publicznych Federacji Rosyjskiej w rozumieniu art. 2 ust. 2 pkt 12 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
+    - **c)** osób powiązanych osobiście, organizacyjnie lub finansowo z osobami, o których mowa w lit. a lub b,
+    - **d)** innych osób lub innych podmiotów działających na zlecenie osób, o których mowa w lit. a–c – prowadzone metodami zarówno prawnie dozwolonymi, jak i bezprawnymi, zmierzające do wywarcia wpływu na działania spółek lub organów władzy publicznej Rzeczypospolitej Polskiej.
 
 #### Rozdział 2 Komisja
 
@@ -118,11 +140,11 @@ Art. 43–46. (pominięte)
 
 2a. Członkostwa w Komisji nie można łączyć z mandatem posła lub senatora.
 
-3. Prawo zgłaszania Marszałkowi kandydatów na członków Komisji w liczbie nie większej niż 9 przysługuje każdemu klubowi poselskiemu lub parlamentarnemu, w terminie wskazanym przez Marszałka Sejmu.
+3. Prawo zgłaszania Marszałkowi Sejmu kandydatów na członków Komisji w liczbie nie większej niż 9 przysługuje każdemu klubowi poselskiemu lub parlamentarnemu, w terminie wskazanym przez Marszałka Sejmu.
 
 4. Jeżeli w chwili zgłoszenia kandydat nie spełnia wymagań, o których mowa w ust. 2 pkt 4, Agencja Bezpieczeństwa Wewnętrznego albo Służba Kontrwywiadu Wojskowego przeprowadza poszerzone postępowanie sprawdzające w terminie nie dłuższym niż miesiąc od dnia otrzymania zgłoszenia. Wszczęcie poszerzonego postępowania sprawdzającego nie wstrzymuje możliwości wyboru kandydata na członka Komisji. Jeżeli przed zakończeniem poszerzonego postępowania sprawdzającego kandydat został odrzucony, postępowanie to umarza się.
 
-5. Jeżeli poszerzone postępowanie sprawdzające, o którym mowa w ust. 4, zakończy się odmową wydania poświadczenia bezpieczeństwa, Agencja Bezpieczeństwa Wewnętrznego albo Służba Kontrwywiadu Wojskowego informuje o tym niezwłocznie Marszałka Sejmu. Sejm odwołuje członka Komisji, którego dotyczyła odmowa wydania poświadczenia bezpieczeństwa, na najbliższym posiedzeniu po otrzymaniu przez Marszałka informacji o odmowie.
+5. Jeżeli poszerzone postępowanie sprawdzające, o którym mowa w ust. 4, zakończy się odmową wydania poświadczenia bezpieczeństwa, Agencja Bezpieczeństwa Wewnętrznego albo Służba Kontrwywiadu Wojskowego informuje o tym niezwłocznie Marszałka Sejmu. Sejm odwołuje członka Komisji, którego dotyczyła odmowa wydania poświadczenia bezpieczeństwa, na najbliższym posiedzeniu Sejmu po otrzymaniu przez Marszałka Sejmu informacji o odmowie.
 
 6. Do poszerzonego postępowania sprawdzającego, o którym mowa w ust. 4, przepisy ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych stosuje się odpowiednio, z wyjątkiem art. 34–37 oraz art. 39–41 tej ustawy.
 
@@ -301,6 +323,10 @@ Art. 43–46. (pominięte)
 
 **Art. 29a.** Nie wolno przesłuchiwać jako świadków:
 
+- **1)** obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę;
+- **2)** duchownego, co do faktów, o których dowiedział się przy spowiedzi;
+- **3)** mediatora, co do faktów, o których dowiedział się od oskarżonego lub pokrzywdzonego prowadząc postępowanie mediacyjne w postępowaniu karnym przeciwko osobie, o której mowa w art. 4 ust. 1, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+
 **Art. 30.**
 
 1. Osoby obowiązane do zachowania w tajemnicy informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” mogą być przesłuchane co do okoliczności, na które rozciąga się ten obowiązek, tylko po zwolnieniu ich od obowiązku zachowania tajemnicy przez właściwy organ.
@@ -342,6 +368,9 @@ Art. 43–46. (pominięte)
 **Art. 35.** Przewodniczący Komisji po zamknięciu rozprawy wyznacza stronom postępowania termin do wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
 
 **Art. 36.** W wyniku postępowania Komisja wydaje decyzję administracyjną, w której stwierdza, że działanie osoby, o której mowa w art. 4 ust. 1:
+
+- **1)** było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, albo
+- **2)** nie było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej.
 
 **Art. 37.** (uchylony)
 
@@ -428,11 +457,11 @@ Art. 43–46. (pominięte)
 
 **Art. 49.**
 
-1. Kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+1. Kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi Sejmu w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
-2. Głosowanie nad kandydatami na członków Komisji odbywa się na pierwszym posiedzeniu po upływie terminu, o którym mowa w ust. 1.
+2. Głosowanie nad kandydatami na członków Komisji odbywa się na pierwszym posiedzeniu Sejmu po upływie terminu, o którym mowa w ust. 1.
 
-**Art. 49a.** W przypadku nieprzedstawienia kandydatów na członków Komisji zgodnie z art. 49 ust. 1 kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi w terminie wskazanym w postanowieniu Marszałka Sejmu. Przepis art. 49 ust. 2 stosuje się odpowiednio.
+**Art. 49a.** W przypadku nieprzedstawienia kandydatów na członków Komisji zgodnie z art. 49 ust. 1 kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi Sejmu w terminie wskazanym w postanowieniu Marszałka Sejmu. Przepis art. 49 ust. 2 stosuje się odpowiednio.
 
 **Art. 50.**
 

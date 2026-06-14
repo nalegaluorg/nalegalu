@@ -8,10 +8,10 @@ pos: 439
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 439 Załącznik do rozporządzenia Ministra Finansów z dnia 20 stycznia 2020 r. (poz. ) WZÓR WNIOSEK O WYPŁACENIE SUBWENCJI w …….……… r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/439/text.pdf) |
 
-WZÓR WNIOSEK O WYPŁACENIE SUBWENCJI w …….……… r.
 na podstawie art. 28 ust. 1 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych
 1. Nazwa i adres siedziby partii politycznej: …………………………………..…………………………..
 ……………………………………………………..………..

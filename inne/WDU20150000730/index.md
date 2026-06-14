@@ -8,10 +8,10 @@ pos: 730
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 maja 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 730 Protokół dodatkowy do konwencji rady Europy o cyberprzestępczości dotyczący penalizacji czynów o charakterze rasistowskim lub ksenofobicznym popełnionych przy użyciu systemów komputerowych, sporządzony w Strasburgu dnia 28 stycznia 2003 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/730/text.pdf) |
 
-Protokół dodatkowy do konwencji rady Europy o cyberprzestępczości dotyczący penalizacji czynów o charakterze rasistowskim lub ksenofobicznym popełnionych przy użyciu systemów komputerowych, sporządzony w Strasburgu dnia 28 stycznia 2003 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPoSPolitej PolSkiej podaje do powszechnej wiadomości: dnia 28 stycznia 2003 r. w Strasburgu został sporządzony Protokół dodatkowy do konwencji Rady europy o cyberprzestępczości dotyczący penalizacji czynów o charakterze rasistowskim lub ksenofobicznym popełnionych przy użyciu systemów komputerowych, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany, z uwzględnieniem zastrzeżeń do artykułu 3 ustęp 3 oraz artykułu 6 ustęp 2 litera protokołu.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPoSPolitej PolSkiej podaje do powszechnej wiadomości: dnia 28 stycznia 2003 r. w Strasburgu został sporządzony Protokół dodatkowy do konwencji Rady europy o cyberprzestępczości dotyczący penalizacji czynów o charakterze rasistowskim lub ksenofobicznym popełnionych przy użyciu systemów komputerowych, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęty, ratyfikowany i potwierdzony, – będzie niezmiennie zachowywany, z uwzględnieniem zastrzeżeń do artykułu 3 ustęp 3 oraz artykułu 6 ustęp 2 litera protokołu.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 29 stycznia 2015 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.S.

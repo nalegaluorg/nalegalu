@@ -8,10 +8,12 @@ pos: 55
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# z dnia 24 lutego 1989 r.
+# o zmianie ustawy o scalaniu gruntów.
+
+*USTAWA z dnia 24 lutego 1989 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +27,62 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890100055) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/55/text.pdf) |
 
-o zmianie ustawy o scalaniu gruntów.
-
 **Art. 1.** W ustawie z dnia 26 marca 1986 r. o scalaniu gruntów (Dz.U. Nr 11, poz. 80) następujące zmiany:
+
+- **1)** tytuł ustawy otrzymuje brzmienie: „ustawa o scalaniu i wymianie gruntów.”;
+- **2)** art. 1 otrzymuje brzmienie: „Art. 1. Celem scalenia gruntów jest tworzenie korzystniejszych warunków gospodarowania w rolnictwie i leśnictwie poprzez poprawę obszarowej gospodarstw rolnych, lasów i gruntów leśnych, ukształtowanie rozłogów gruntów, dostosowanie granic nieruchomości systemu urządzeń melioracji wodnych, dróg oraz rzeźby terenu.”;
+- **3)** w art. 2:
+    - **a)** w ust. 1 kropkę zastępuje się średnikiem i dodaje wyrazy „grunty te tworzą scalenia.”,
+    - **b)** w ust. 3 kropkę zastępuje się przecinkiem i dodaje wyrazy „albo wyrażenia dokonanie rozliczenia wartości zabudowań w gotówce bądź w innej
+
+- **4)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Scalenie gruntów przeprowadza na koszt Skarbu Państwa terenowy administracji państwowej o właściwości szczególnej do spraw gruntami rolnymi stopnia podstawowego, zwany dalej „terenowym administracji państwowej”.
+
+2. Postępowanie scaleniowe może być wszczęte na wniosek właścicieli gospodarstw rolnych, położonych na projektowanym scalenia, lub na wniosek właścicieli gruntów, których łączny przekracza połowę, powierzchni projektowanego obszaru
+
+3. Odmowa wszczęcia postępowania scaleniowego następuje decyzji terenowego organu administracji państwowej.”;
+
+- **5)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. Postępowanie scaleniowe może być wszczęte z urzędu po uprzednim uzyskaniu opinii rady sołeckiej, a także działających na terenie społeczno-zawodowych organizacji rolników, jeżeli:
+- **1)** grunty Państwowego Funduszu Ziemi, których powierzchnia przekracza 10% projektowanego obszaru scalenia, nie racjonalnie zagospodarowane bez scalenia,
+- **2)** ukształtowanie rozłogów gruntów na projektowanym scalenia wskutek działalności przemysłowej, przebiegu lub budowanych dróg publicznych, kolei, rurociągów oraz zbiorników wodnych lub urządzeń melioracji wodnych lub zostanie znacznie pogorszone,
+- **3)** o scalenie wystąpi z wnioskiem osoba, której grunty wymagają poprawienia rozłogu, a jednocześnie scalenie to nie pogorszy warunków gospodarowania innym uczestnikom postępowania.”;
+- **6)** po art. 3a dodaje się art. 3b w brzmieniu: „Art. 3b. 1. Jeżeli do racjonalnego ukształtowania rozłogów gruntów należących jednostek gospodarki uspołecznionej, rolników indywidualnych Państwowego Funduszu Ziemi zachodzi potrzeba zmiany ich drodze wzajemnej wymiany, wymiana taka może być dokonana wniosek właścicieli (zarządców, użytkowników) tych gruntów, przypadku gruntów Państwowego Funduszu Ziemi - za zgodą organu administracji państwowej. Wymiana mogą być objęte grunty z zabudowaniami.
+
+2. Wymiana mogą być objęte grunty położone na terenie jednej gmin.
+
+3. W przypadku wymiany gruntów z zabudowaniami wartość określa się według szacunkowych norm ubezpieczeniowych Zakładu Ubezpieczeń, chyba że strony uzgodnią inne zasady
+
+4. Przepisy art. 2 ust. 2 oraz art. 3 ust. 1 i 3 mają zastosowanie wymianie gruntów.”;
+
+- **7)** art. 4 otrzymuje brzmienie: „Art. 4. Jeżeli postępowaniem scaleniowym lub wymiennym mają być położone na terenie dwóch lub więcej gmin, właściwy do prowadzenia postępowania jest terenowy organ administracji państwowej, terenie działania posiada grunty największa liczba uczestników postępowania, a w razie równej liczby - terenowy organ administracji państwowej, na którego terenie działania znajduje się największy gruntów obejmowanych scaleniem lub wymianą.”;
+- **8)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Wszczęcie postępowania scaleniowego lub wymiennego zastępuje drodze postanowienia terenowego organu administracji państwowej.
+
+2. Postanowienie o wszczęciu postępowania scaleniowego lub w szczególności powinno zawierać:
+
+- **1)** określenie granic i powierzchni obszaru scalenia lub wymiany gruntów,
+- **2)** wykaz uczestników scalenia lub wymiany gruntów,
+- **3)** przewidywany termin zakończenia prac scaleniowych wymiennych.
+
+3. Postanowienie o wszczęciu postępowania scaleniowego odczytuje zebraniu uczestników scalenia, zwołanym przez terenowy administracji państwowej, a ponadto wywiesza się je na okres lokalach urzędów gmin, na których terenie są położone grunty scaleniem, oraz na tablicach ogłoszeń we wsiach, których obszar scalenia.
+
+4. Z chwila upływu terminu, o którym mowa w ust. 3, postanowienie wszczęciu postępowania scaleniowego uważa się za doręczone uczestnikom scalenia.
+
+5. Postanowienie o wszczęciu postępowania wymiennego doręcza uczestnikom wymiany na piśmie.
+
+6. Na postanowienie o wszczęciu postępowania scaleniowego zażalenie.”;
+
+- **9)** w art. 6 ust. 4-7 otrzymują brzmienie: „4. Wysokość dopłat ustala się według cen przyjętych przy szacowaniu gruntów objętych scaleniem lub wymianą.
+
+5. Dopłaty uczestnikom scalenia są wypłacane ze środków budżetu terenowego rady narodowej stopnia podstawowego, jednorazowo, terminie dwóch miesięcy po zakończeniu scalenia.
+
+6. Uczestnik scalenia zobowiązany do dopłaty uiszcza ją w terminie miesięcy po zakończeniu scalenia, na rachunek budżetu rady stopnia podstawowego. Na wniosek zainteresowanego właściwy może udzielić na ten cel kredytu w wysokości nie przekraczającej kwoty dopłaty; kredyt ten podlega spłacie w równych ratach przez okres 10 lat od wydania decyzji o zatwierdzeniu projektu jest oprocentowany w takiej samej wysokości jak kredyt na nieruchomości rolnych.
+
+7. Dopłaty między uczestnikami wymiany są regulowane bezpośrednio, tym że uczestnikowi wymiany zobowiązanemu do dopłaty może udzielić na ten cel kredytu w wysokości i na zasadach ust. 6.”;
+
+- **10)** art. 7-10 otrzymują brzmienie: „Art. 7. 1. Jeżeli liczba uczestników scalenia przekracza 10 osób, postępowanie scaleniowe prowadzi się z udziałem rady uczestników scalenia 12 osób, jako społecznego organu doradczego, wybieranego odwoływanego przez uczestników scalenia z każdej wsi objętej
+
+2. Rada uczestników scalenia jest wybierana na zebraniu uczestników scalenia, zwołanym przez terenowy organ administracji państwowej.
+
+3. W razie niedokonania wyboru rady uczestników scalenia w określonym przez terenowy organ administracji państwowej, rady sprawuje powołany postanowieniem tego organu zespół, którego wchodzi rada sołecka, sołtys wsi, przedstawiciel jednostki gospodarki uspołecznionej będącej uczestnikiem scalenia przedstawiciel społeczno-zawodowych organizacji rolników; gdy postępowaniem scaleniowym objęto grunty więcej niż skład zespołu wchodzą sołtysi tych wsi, przedstawiciele rad jednym z każdej wsi, przedstawiciel jednostki gospodarki będącej uczestnikiem scalenia oraz przedstawiciel społeczno-zawodowych organizacji rolników.
 
 **Art. 8.**
 
@@ -42,90 +97,102 @@ o zmianie ustawy o scalaniu gruntów.
 
 3. Terenowy organ administracji państwowej, na wniosek komisji, powołać do jej składu rzeczoznawców.
 
-4. Grunty objęte wymianą szacują wszyscy uczestnicy wymiany zasad określonych art. 9 ust. 2-4, chyba że określą inne szacowania, natomiast projekt wymiany opracowuje upoważniony terenowy organ administracji państwowej geodeta, przy udziale wszystkich uczestników wymiany.
+4. Grunty objęte wymianą szacują wszyscy uczestnicy wymiany zasad określonych w art. 9 ust. 2-4, chyba że określą inne szacowania, natomiast projekt wymiany opracowuje upoważniony terenowy organ administracji państwowej geodeta, przy udziale wszystkich uczestników wymiany.
 
 **Art. 9.**
 
-1. Uczestnicy scalenia, drodze uchwały, określają zasady szacunku Jeżeli jednak terenowy organ administracji państwowej drodze postanowienia uzna, że szacunek ten byłby sprzeczny ze słusznym interesem uczestnika, stosuje się przepis ust. 2.
+1. Uczestnicy scalenia, w drodze uchwały, określają zasady szacunku Jeżeli jednak terenowy organ administracji państwowej w drodze postanowienia uzna, że szacunek ten byłby sprzeczny ze słusznym interesem uczestnika, stosuje się przepis ust. 2.
 
 2. W razie nieokreślenia zasad szacunku przez uczestników scalenia, szacunku gruntów dokonuje się na podstawie cen obowiązujących sprzedaży państwowych nieruchomości rolnych, z uwzględnieniem położenia gruntów na obszarze scalenia oraz ich przydatności funkcji terenu wynikającej z miejscowego planu zagospodarowania przestrzennego.
 
-3. Wartość szacunkową lasów oraz sadów, ogrodów, chmielników upraw specjalnych stanowi wartość szacunkowa gruntów, podstawie szacunku wykonanego sposób określony ust. wartość drzewostanów, drzew i krzewów, a także innych części składowych gruntów, ustalona przez rzeczoznawcę z zastosowaniem przepisów o sprzedaży państwowych nieruchomości rolnych.
+3. Wartość szacunkową lasów oraz sadów, ogrodów, chmielników upraw specjalnych stanowi wartość szacunkowa gruntów, podstawie szacunku wykonanego w sposób określony w ust. wartość drzewostanów, drzew i krzewów, a także innych części składowych gruntów, ustalona przez rzeczoznawcę z zastosowaniem przepisów o sprzedaży państwowych nieruchomości rolnych.
 
 4. Jeżeli scaleniem zostały objęte grunty leśne o takiej samej drzewostanami o jednakowych elementach szacunkowych, zaniechać szacowania drzewostanów.
 
 **Art. 10.**
 
-1. Wydatki oszacowania gruntów, lasów oraz sadów, ogrodów, oszacowania gruntów do publicznego wglądu, uczestnicy wnosić zastrzeżenia do dokonanego szacunku.
+1. Wydatki oszacowania gruntów, lasów oraz sadów, ogrodów, innych upraw specjalnych ogłasza się na zebraniu uczestników zwołanym przez terenowy organ administracji państwowej, udostępnia się je do publicznego wglądu na okres 7 dni we scaleniem.
+
+2. Na zebraniu, o którym mowa w ust. 1, oraz w okresie wyłożenia oszacowania gruntów do publicznego wglądu, uczestnicy wnosić zastrzeżenia do dokonanego szacunku.
 
 3. Zastrzeżenia do szacunku gruntów bada komisja, o której ust. 1, która z wynikami swoich ustaleń zapoznaje uczestników zebraniu zwołanym przez terenowy organ administracji państwowej. razie utrzymywania się zastrzeżeń do szacunku gruntów, uczestnicy scalenia mogą na tym zebraniu powołać dodatkowy zespół, z osób nie zainteresowanych, który przedstawi swoja opinię.”;
 
-- **11)** po art. 10 dodaje się art. 10a brzmieniu: „Art. 10a. 1. Zgodę na dokonany szacunek gruntów, lasów oraz sadów, chmielników i innych upraw specjalnych uczestnicy scalenia formie uchwały.
+- **11)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. 1. Zgodę na dokonany szacunek gruntów, lasów oraz sadów, chmielników i innych upraw specjalnych uczestnicy scalenia formie uchwały.
 
-2. Uchwały, o których mowa ust. 1 oraz art. 9 ust. 1, są zebraniu zwołanym przez terenowy organ administracji państwowej. Zebraniu przewodniczy przedstawiciel tego organu. Uchwały większością trzech czwartych głosów obecności co najmniej liczby uczestników scalenia. W razie niepodjęcia uchwały zwołanym pierwszym terminie, za ważna uważa się uchwałę większością trzech czwartych głosów uczestników scalenia zebraniu zwołanym drugim terminie.
+2. Uchwały, o których mowa w ust. 1 oraz w art. 9 ust. 1, są zebraniu zwołanym przez terenowy organ administracji państwowej. Zebraniu przewodniczy przedstawiciel tego organu. Uchwały większością trzech czwartych głosów w obecności co najmniej liczby uczestników scalenia. W razie niepodjęcia uchwały zwołanym w pierwszym terminie, za ważna uważa się uchwałę większością trzech czwartych głosów uczestników scalenia zebraniu zwołanym w drugim terminie.
 
-3. Każdemu uczestnikowi postępowania scaleniowego przysługuje głos. 4> W razie niepodjęcia uchwały, o której mowa ust. 1, terenowy administracji państwowej, po rozpatrzeniu zgłoszonych zastrzeżeń, zasięgnięcia opinii rzeczoznawców oraz wprowadzeniu ewentualnych zmian, akceptuje szacunek gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych drodze postanowienia; art. 10 ust. 1 stosuje się odpowiednio. Na postanowienie służy
+3. Każdemu uczestnikowi postępowania scaleniowego przysługuje głos. 4> W razie niepodjęcia uchwały, o której mowa w ust. 1, terenowy administracji państwowej, po rozpatrzeniu zgłoszonych zastrzeżeń, zasięgnięcia opinii rzeczoznawców oraz wprowadzeniu ewentualnych zmian, akceptuje szacunek gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych w drodze postanowienia; art. 10 ust. 1 stosuje się odpowiednio. Na postanowienie służy
 
 5. Dowodem jednomyślnego oszacowania gruntów przez uczestników wymiany lub ich zgody na dokonany przez rzeczoznawców lasów oraz sadów, ogrodów, chmielników i inny upraw specjalnych pisemne oświadczenia.
 
 6. W razie braku zgody wszystkich uczestników wymiany na szacunek, postępowanie wymienne ulega umorzeniu.”;
 
-- **12)** art. 11 otrzymuje brzmienie: „Art. 11. 1. W zamian za objęte scaleniem lub wymianą lasy i grunty leśne ogrody, chmielniki i inne uprawy specjalne wydziela się użytki tego samego rodzaju i tej samej jakości. jeżeli nie jest to możliwe, się inne użytki i stosuje dopłatę pieniężną, odpowiadającą różnicy drzewostanów, drzew i krzewów, a także innych części składowych scaleniem nie może przekraczać:
+- **12)** art. 11 otrzymuje brzmienie: „Art. 11. 1. W zamian za objęte scaleniem lub wymianą lasy i grunty leśne ogrody, chmielniki i inne uprawy specjalne wydziela się użytki tego samego rodzaju i tej samej jakości. jeżeli nie jest to możliwe, się inne użytki i stosuje dopłatę pieniężną, odpowiadającą różnicy drzewostanów, drzew i krzewów, a także innych części składowych gruntów. Za zgodą uczestnika scalenia lub wymiany można użytki odpowiadające wartości dopłaty.
+
+2. Przy zachowaniu wartości gruntów sprzed scalenia, bez zgody scalenia, bez zgody uczestnika scalenia, różnica powierzchni wydzielonych mu gruntów w stosunku do powierzchni gruntów scaleniem nie może przekraczać:
+
 - **1)** 20% powierzchni gruntów objętych scaleniem,
-- **2)** 10% dotychczas posiadanych gruntów o szczególnie wysokiej przydatności rolniczej lub gruntów przeznaczonych planie zagospodarowania przestrzennego na cele nierolnicze.”;
-- **13)** art. 14 ust. 1 otrzymuje brzmienie: „1. Grunty niezbędne na cele miejscowej użyteczności publicznej, budownictwa mieszkaniowego, pod ulice i drogi publiczne wykonane i utrzymywane na koszt Państwa albo przewidziane wykonania i utrzymywania urządzenia melioracji wodnych wydzielać z gruntów Państwowego funduszu Ziemi, uwzględniając uzasadnione interesy osób korzystających z tych gruntów.”;
-- **14)** art. 18:
-    - **a)** ust. 1 wyrazy „naczelnika gminy” zastępuje się wyrazami „terenowego administracji państwowej”, po wyrazie „scaleniowego” dodaje się wyrazy wymiennego”, a po wyrazach „składa się do” dodaje się wyraz „istniejącego”,
-    - **b)** ust. 2 po wyrazie „scaleniowego” dodaje się wyrazy „lub wymiennego”, „naczelnika gminy” zastępuje się wyrazami „terenowego organu administracji państwowej”;
+- **2)** 10% dotychczas posiadanych gruntów o szczególnie wysokiej przydatności rolniczej lub gruntów przeznaczonych w planie zagospodarowania przestrzennego na cele nierolnicze.”;
+- **13)** w art. 14 ust. 1 otrzymuje brzmienie: „1. Grunty niezbędne na cele miejscowej użyteczności publicznej, budownictwa mieszkaniowego, pod ulice i drogi publiczne wykonane i utrzymywane na koszt Państwa albo przewidziane wykonania i utrzymywania urządzenia melioracji wodnych wydzielać z gruntów Państwowego funduszu Ziemi, uwzględniając uzasadnione interesy osób korzystających z tych gruntów.”;
+- **14)** w art. 18:
+    - **a)** w ust. 1 wyrazy „naczelnika gminy” zastępuje się wyrazami „terenowego administracji państwowej”, po wyrazie „scaleniowego” dodaje się wyrazy wymiennego”, a po wyrazach „składa się do” dodaje się wyraz „istniejącego”,
+    - **b)** w ust. 2 po wyrazie „scaleniowego” dodaje się wyrazy „lub wymiennego”, „naczelnika gminy” zastępuje się wyrazami „terenowego organu administracji państwowej”;
 
 - **15)** art. 19 skreśla się;
 - **16)** art. 20 otrzymuje brzmienie: „Art. 20. 1. Projekt scalenia lub wymiany gruntów powinien uwzględniać miejscowego planu zagospodarowania przestrzennego.
 
-2. Przy sporządzaniu projektu scalenia gruntów biorą udział, doradczym, członkowie komisji, o której mowa art. 8 ust.
+2. Przy sporządzaniu projektu scalenia gruntów biorą udział, doradczym, członkowie komisji, o której mowa w art. 8 ust.
 
-- **17)** art. 21:
+- **17)** w art. 21:
     - **a)** ust. 1 oznacza się jako ust. 2,
-    - **b)** ust. 2 oznacza się jako ust. 1, z tym że wyrazy „Projekt scalenia gruntów warunki objęcia posiadanie wydzielonych gruntów, z uwzględnieniem następujących zasad” zastępuje się wyrazami „Projekt scalenia lub wymiany określa proponowane granice wydzielonych gruntów oraz następujące obejmowania tych gruntów posiadanie.”;
+    - **b)** ust. 2 oznacza się jako ust. 1, z tym że wyrazy „Projekt scalenia gruntów warunki objęcia w posiadanie wydzielonych gruntów, z uwzględnieniem następujących zasad” zastępuje się wyrazami „Projekt scalenia lub wymiany określa proponowane granice wydzielonych gruntów oraz następujące obejmowania tych gruntów w posiadanie.”;
 
-- **18)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Uczestnicy scalenia, terminie 14 dni od dnia okazania projektu gruntów, mogą zgłaszać na piśmie terenowemu organowi administracji państwowej zastrzeżenia do tego projektu.
+- **18)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Uczestnicy scalenia, w terminie 14 dni od dnia okazania projektu gruntów, mogą zgłaszać na piśmie terenowemu organowi administracji państwowej zastrzeżenia do tego projektu.
 
-2. Zastrzeżenia do projektu scalenia gruntów rozpatruje terenowy uczestników scalenia oraz przynajmniej połowy liczby członków
+2. Zastrzeżenia do projektu scalenia gruntów rozpatruje terenowy administracji państwowej, po zasięgnięciu opinii komisji, art. 8 ust. 1.”;
+
+- **19)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. 1. Opiniowanie zastrzeżeń do projektu scalenia gruntów przez której mowa w art. 8 ust. 1, odbywa się w obecności zainteresowanych uczestników scalenia oraz przynajmniej połowy liczby członków
 
 2. W razie potrzeby komisja lub upoważnieni przez nią członkowie oględzin.
 
-3. O terminie i miejscu posiedzenia komisji oraz dokonywania powiadamia się zainteresowanych uczestników scalenia na inny sposób przyjęty danej miejscowości co najmniej na wyznaczonym terminem.
+3. O terminie i miejscu posiedzenia komisji oraz dokonywania powiadamia się zainteresowanych uczestników scalenia na inny sposób przyjęty w danej miejscowości co najmniej na wyznaczonym terminem.
 
-4. Nieobecność zainteresowanych uczestników scalenia na posiedzeniu komisji lub przy dokonywaniu przez nią oględzin nie ma wpływu przebieg jej czynności, jeżeli zainteresowani uczestnicy zostali prawidłowo zawiadomieni i wezwani do udziału tych czynnościach.”; 20 art. 23 po wyrazach „i okazania” dodaje się wyraz „zainteresowanym”;
+4. Nieobecność zainteresowanych uczestników scalenia na posiedzeniu komisji lub przy dokonywaniu przez nią oględzin nie ma wpływu przebieg jej czynności, jeżeli zainteresowani uczestnicy zostali prawidłowo zawiadomieni i wezwani do udziału w tych czynnościach.”; 20 w art. 23 po wyrazach „i okazania” dodaje się wyraz „zainteresowanym”;
 
-- **21)** art. 24 otrzymuje brzmienie: „Art. 24. 1. Projekt scalenia gruntów może być zatwierdzony, jeżeli po o którym mowa art. 21 ust. 2 i art. 23, większość uczestników nie zgłosiła do niego zastrzeżeń.
+- **21)** art. 24 otrzymuje brzmienie: „Art. 24. 1. Projekt scalenia gruntów może być zatwierdzony, jeżeli po o którym mowa w art. 21 ust. 2 i w art. 23, większość uczestników nie zgłosiła do niego zastrzeżeń.
 
-2. Projekt wymiany gruntów może być zatwierdzony, jeżeli po okazaniu, o którym mowa art. 21 ust. 2, wszyscy uczestnicy przyjęli go bez zastrzeżeń.
+2. Projekt wymiany gruntów może być zatwierdzony, jeżeli po okazaniu, o którym mowa w art. 21 ust. 2, wszyscy uczestnicy przyjęli go bez zastrzeżeń.
 
-3. Projekt scalenia lub wymiany gruntów zatwierdza, drodze terenowy organ administracji państwowej.
+3. Projekt scalenia lub wymiany gruntów zatwierdza, w drodze terenowy organ administracji państwowej.
 
-4. Decyzja o zatwierdzeniu projektu scalenia lub wymiany gruntów, wymogami określonymi przepisach Kodeksu postępowania administracyjnego, powinna określać:
+4. Decyzja o zatwierdzeniu projektu scalenia lub wymiany gruntów, wymogami określonymi w przepisach Kodeksu postępowania administracyjnego, powinna określać:
 
 - **1)** obszar scalenia lub wymiany gruntów,
-- **2)** terminy i zasady objęcia posiadanie gruntów wydzielonych wyniku scalenia lub wymiany oraz sposoby rozliczeń, mowa art. 2 ust. 3, art. 6, art. 11 ust. 1 oraz art. 21
-- **22)** po art. 24 dodaje się art. 24a brzmieniu: „Art. 24a. 1. Decyzje o zatwierdzeniu projektu scalenia gruntów podaje wiadomości przez jej odczytanie na zebraniu uczestników scalenia, ponadto przez jej wywieszenie na okres 14 dni lokalach urzędów na których terenie są położone scalane grunty, oraz na tablicach we wsiach wchodzących obszar scalenia.
+- **2)** terminy i zasady objęcia w posiadanie gruntów wydzielonych wyniku scalenia lub wymiany oraz sposoby rozliczeń, mowa w art. 2 ust. 3, art. 6, art. 11 ust. 1 oraz w art. 21
+- **22)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. 1. Decyzje o zatwierdzeniu projektu scalenia gruntów podaje wiadomości przez jej odczytanie na zebraniu uczestników scalenia, ponadto przez jej wywieszenie na okres 14 dni w lokalach urzędów na których terenie są położone scalane grunty, oraz na tablicach we wsiach wchodzących w obszar scalenia.
 
-2. Z chwilą upływu terminu, o którym mowa ust. 1, decyzję zatwierdzeniu projektu scalenia gruntów uważa się za doręczona wszystkim uczestnikom scalenia.
+2. Z chwilą upływu terminu, o którym mowa w ust. 1, decyzję zatwierdzeniu projektu scalenia gruntów uważa się za doręczona wszystkim uczestnikom scalenia.
 
-3. Decyzję o zatwierdzeniu projektu wymiany gruntów doręcza wydzielonych im gruntów. Decyzja ta nie narusza praw osób gruntów wydzielonych zamian za grunty posiadane przed wymianą.
+3. Decyzję o zatwierdzeniu projektu wymiany gruntów doręcza uczestnikom wymiany na piśmie.”;
 
-2. Obciążenia wpisane do ksiąg wieczystych przenosi się z gruntów poddanych scaleniu lub wymianie na grunty wydzielone scalenia lub wymiany.”;
+- **23)** art. 25 otrzymuje brzmienie: „Art. 25. 1. Decyzja o zatwierdzeniu projektu scalenia lub wymiany gruntów tytuł do ujawnienia nowego stanu prawnego w księgach wieczystych podstawę do wprowadzenia uczestników scalenia w posiadanie wydzielonych im gruntów. Decyzja ta nie narusza praw osób gruntów wydzielonych w zamian za grunty posiadane przed wymianą.
 
-- **24)** art. 26 wyrazy „naczelnika gminy” zastępuje się wyrazami „terenowy administracji państwowej”;
-- **25)** art. 27 otrzymuje brzmienie: „Art. 27. O terminach zebrań uczestników scalenia, o wyłożeniu do publicznego wglądu wyników oszacowania gruntów, lasów oraz sadów, chmielników i innych upraw specjalnych, o terminie okazania scalenia gruntów - terenowy organ administracji państwowej uczestników postępowania przez obwieszczenie lub inny, przyjęty danej miejscowości, sposób publicznego ogłaszania.”;
-- **26)** po art. 27 dodaje się art. 27a i 27b brzmieniu: „Art. 27a. W razie uniemożliwiania objęcia nowo wydzielonych gruntów posiadanie albo niedotrzymywania terminów i zasad spłat należności ustalonych decyzji o zatwierdzeniu projektu scalenia gruntów, przepisy o postępowaniu egzekucyjnym administracji.
+2. Obciążenia wpisane do ksiąg wieczystych przenosi się z gruntów poddanych scaleniu lub wymianie na grunty wydzielone w scalenia lub wymiany.”;
+
+- **24)** w art. 26 wyrazy „naczelnika gminy” zastępuje się wyrazami „terenowy administracji państwowej”;
+- **25)** art. 27 otrzymuje brzmienie: „Art. 27. O terminach zebrań uczestników scalenia, o wyłożeniu do publicznego wglądu wyników oszacowania gruntów, lasów oraz sadów, chmielników i innych upraw specjalnych, o terminie okazania scalenia gruntów - terenowy organ administracji państwowej uczestników postępowania przez obwieszczenie lub w inny, przyjęty w danej miejscowości, sposób publicznego ogłaszania.”;
+- **26)** po art. 27 dodaje się art. 27a i 27b w brzmieniu: „Art. 27a. W razie uniemożliwiania objęcia nowo wydzielonych gruntów posiadanie albo niedotrzymywania terminów i zasad spłat należności ustalonych w decyzji o zatwierdzeniu projektu scalenia gruntów, przepisy o postępowaniu egzekucyjnym w administracji.
 
 **Art. 27b.** W sprawach nie uregulowanych niniejszą ustawą mają zastosowanie przepisy Kodeksu postępowania administracyjnego.”;
 
-**Art. 2.** W ustawie z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych (Dz.U. Nr 11, poz. 67, z 1962 r. Nr 39, poz. 169, z 1968 r. Nr 3, poz. 11 oraz poz. 80) art. 1 otrzymuje brzmienie: „Art. 1. 1. Prowadzone dotychczas księgi wieczyste, założone przed dniem 1047 r. dla nieruchomości ziemskich objętych postępowaniem lub wymianą gruntów, tracą moc prawną i podlegają zamknięciu podjęcia ostatecznej decyzji o zatwierdzeniu projektu scalenia
+- **27)** w art. 31 pkt 3 otrzymuje brzmienie: „3) uczestniku scalenia lub wymiany - rozumie się przez to właściciela samoistnego posiadacza albo zarządcę lub użytkownika gruntu na obszarze scalenia lub wymiany.”;
+- **28)** w art. 6 ust. 1 i 3, art. 12, art. 15, art. 16 i art. 21 ust. 2 po wyrazie „scalenie” odpowiednim przypadku, dodaje się wyrazy „lub wymiana”, użyte w odpowiednim przypadku.
 
-**Art. 3.** Do spraw wszczętych przed dniem wejścia życie niniejszej ustawy i nie zakończonych tego czasu decyzją ostateczną stosuje się przepisy dotychczasowe.
+**Art. 2.** W ustawie z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych (Dz.U. Nr 11, poz. 67, z 1962 r. Nr 39, poz. 169, z 1968 r. Nr 3, poz. 11 oraz poz. 80) art. 1 otrzymuje brzmienie: „Art. 1. 1. Prowadzone dotychczas księgi wieczyste, założone przed dniem 1047 r. dla nieruchomości ziemskich objętych postępowaniem lub wymianą gruntów, tracą moc prawną i podlegają zamknięciu podjęcia ostatecznej decyzji o zatwierdzeniu projektu scalenia gruntów. 2. Księgi wieczyste założone po dniu 1 stycznia 1947 r. dla nieruchomości ziemskich objętych scaleniem lub wymianą gruntów nie tracą prawnej, jeżeli uwidoczniony w nich stan jest zgodny ze stanem wykazanym w ewidencji gruntów.”
 
-**Art. 4.** Minister Rolnictwa, Leśnictwa i Gospodarki Żywnościowej ogłosi Dzienniku jednolity tekst ustawy z dnia 26 marca 1962 r. o scalaniu i wymianie gruntów, uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów, ustępów i punktów.
+**Art. 3.** Do spraw wszczętych przed dniem wejścia w życie niniejszej ustawy i nie zakończonych tego czasu decyzją ostateczną stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi życie z dniem 1 czerwca 1989 r.
+**Art. 4.** Minister Rolnictwa, Leśnictwa i Gospodarki Żywnościowej ogłosi w Dzienniku jednolity tekst ustawy z dnia 26 marca 1962 r. o scalaniu i wymianie gruntów, uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów, ustępów i punktów.
+
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 czerwca 1989 r.
 

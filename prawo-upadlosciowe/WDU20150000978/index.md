@@ -8,7 +8,7 @@ pos: 978
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo restrukturyzacyjne
@@ -37,7 +37,15 @@ Art. 401–447. (pominięte)
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zawieranie przez dłużnika niewypłacalnego lub zagrożonego niewypłacalnością układu z wierzycielami oraz skutki układu;
+- **2)** przeprowadzanie działań sanacyjnych.
+
 **Art. 2.** Restrukturyzację przeprowadza się w następujących postępowaniach restrukturyzacyjnych:
+
+- **1)** postępowaniu o zatwierdzenie układu;
+- **2)** przyspieszonym postępowaniu układowym;
+- **3)** postępowaniu układowym;
+- **4)** postępowaniu sanacyjnym.
 
 **Art. 3.**
 
@@ -503,6 +511,11 @@ Art. 401–447. (pominięte)
 2. Przepisy art. 36 ust. 2 i 3 oraz art. 37 ust. 1 stosuje się odpowiednio.
 
 **Art. 40.** Do czynności nadzorcy sądowego należy w szczególności:
+
+- **1)** zawiadomienie wierzycieli o otwarciu postępowania restrukturyzacyjnego;
+- **2)** sporządzenie planu restrukturyzacyjnego i spisu wierzytelności;
+- **3)** ocena propozycji układowych, w tym, w razie potrzeby, doradztwo w zakresie ich zmiany w celu zapewnienia zgodności z prawem i możliwości ich wykonania, podejmowanie działań w celu złożenia przez wierzycieli możliwie największej liczby ważnych głosów, udział w zgromadzeniu wierzycieli oraz złożenie opinii o możliwości wykonania układu;
+- **4)** w przyspieszonym postępowaniu układowym – sporządzenie spisu wierzytelności spornych.
 
 **Art. 41.** Nadzorca sądowy nie ponosi odpowiedzialności za prawdziwość informacji dostarczonych mu przez dłużnika, pouczonego o odpowiedzialności karnej za dostarczanie nieprawdziwych informacji w celu wykorzystania w postępowaniu restrukturyzacyjnym oraz za zatajanie informacji mających istotne znaczenie dla przeprowadzenia postępowania restrukturyzacyjnego. Nie zwalnia to nadzorcy sądowego z obowiązku rzetelnego weryfikowania przedstawionych informacji, w szczególności w przypadku gdy istnieją uzasadnione wątpliwości co do ich prawdziwości.
 
@@ -1096,6 +1109,10 @@ Art. 401–447. (pominięte)
 ##### Oddział 1 Przepisy ogólne
 
 **Art. 104.** Zgromadzenie wierzycieli zwołuje sędzia-komisarz w:
+
+- **1)** celu głosowania nad układem;
+- **2)** przypadku, gdy rada wierzycieli podejmie uchwałę o zwołaniu zgromadzenia;
+- **3)** przypadku, gdy uzna to za potrzebne.
 
 **Art. 105.**
 
@@ -2354,6 +2371,24 @@ Art. 401–447. (pominięte)
 
 **Art. 220.** Sprawozdanie nadzorcy układu zawiera:
 
+- **1)** stwierdzenie przyjęcia układu;
+- **2)** ocenę zgodności z prawem przebiegu samodzielnego zbierania głosów wraz ze wskazaniem innych okoliczności, które mogą mieć wpływ na zatwierdzenie układu;
+- **3)** zastrzeżenia wierzycieli, o których mowa w art. 216 ust. 2;
+- **4)** ocenę możliwości wykonania układu;
+- **5)** wskazanie miejsc, w których znajduje się przedsiębiorstwo lub inny majątek dłużnika;
+- **6)** aktualny wykaz majątku dłużnika z szacunkową wyceną jego składników;
+- **7)** bilans sporządzony przez dłużnika dla celów postępowania o zatwierdzenie układu, na dzień przypadający w okresie trzydziestu dni przed dniem złożenia wniosku;
+- **8)** spis wierzytelności, sporządzony przez nadzorcę układu, ze wskazaniem, czy wierzyciel głosował za, czy przeciw układowi;
+- **9)** spis wierzytelności spornych, sporządzony przez nadzorcę układu;
+- **10)** wskazanie sumy wierzytelności z wyszczególnieniem, jaką część stanowią wierzytelności sporne;
+- **11)** listę zabezpieczeń dokonanych przez wierzycieli na majątku dłużnika wraz z datami ich ustanowienia;
+- **12)** spis podmiotów zobowiązanych majątkowo wobec dłużnika wraz z adresami, z określeniem wierzytelności i terminów ich zapłaty;
+- **13)** wykaz tytułów egzekucyjnych oraz tytułów wykonawczych przeciwko dłużnikowi;
+- **14)** informację o postępowaniach dotyczących ustanowienia na majątku dłużnika hipotek, zastawów, zastawów rejestrowych, zastawów skarbowych i hipotek morskich oraz innych obciążeń podlegających wpisowi w księdze wieczystej lub w rejestrach, jak również o prowadzonych innych postępowaniach sądowych, administracyjnych, sądowoadministracyjnych oraz przed sądami polubownymi dotyczących majątku dłużnika;
+- **15)** dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z pełnieniem funkcji nadzorcy układu;
+- **16)** plan restrukturyzacyjny;
+- **17)** informacje, o których mowa w art. 140, oraz kopię zawiadomienia i opinii organu, o których mowa w art. 204, albo informację, że żaden organ takiego zawiadomienia lub opinii nie złożył.
+
 **Art. 221.**
 
 1. Do wniosku dłużnika o zatwierdzenie układu niespełniającego wymogów określonych w art. 219 lub art. 220 przepis art. 130 Kodeksu postępowania cywilnego stosuje się odpowiednio.
@@ -3331,6 +3366,10 @@ Art. 401–447. (pominięte)
 
 **Art. 348.** W ramach współpracy z sądem zagranicznym i zarządcą zagranicznym sąd i sędzia-komisarz mogą podejmować działania, które zapewniają sprawne prowadzenie postępowań restrukturyzacyjnych, w szczególności przekazywać oraz zwracać się o informacje o:
 
+- **1)** majątku dłużnika i miejscu jego położenia, jak również informacje o postępowaniach sądowych, administracyjnych, sądowoadministracyjnych i przed sądami polubownymi dotyczących dłużnika;
+- **2)** sposobie zabezpieczenia i restrukturyzacji zobowiązań;
+- **3)** zaspokojeniu poszczególnych wierzycieli.
+
 ## TYTUŁ IV Odrębne postępowania restrukturyzacyjne
 
 ### DZIAŁ I Postępowanie restrukturyzacyjne wobec deweloperów
@@ -3338,6 +3377,10 @@ Art. 401–447. (pominięte)
 **Art. 349.** Przepisy niniejszego działu stosuje się w przypadku wszczęcia postępowania restrukturyzacyjnego wobec dewelopera w rozumieniu art. 5 pkt 1 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27).
 
 **Art. 350.** Ilekroć w przepisach niniejszego działu jest mowa o:
+
+- **1)** nabywcy – należy przez to rozumieć osobę fizyczną, osobę prawną, a także jednostkę organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, wobec której deweloper zobowiązał się do przeniesienia praw wynikających z umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, i która zobowiązała się do spełnienia świadczenia pieniężnego na rzecz dewelopera na poczet ceny nabycia tego prawa;
+- **2)** przeniesieniu własności lokalu – należy przez to rozumieć przeniesienie własności lokalu mieszkalnego, a także przeniesienie własności nieruchomości gruntowej zabudowanej domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności nieruchomości, lub przeniesienie własności lokalu użytkowego na podstawie umowy, o której mowa w art. 2 ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;
+- **3)** umowie deweloperskiej – należy przez to rozumieć umowę między dłużnikiem a nabywcą, której przedmiotem jest przeniesienie praw wynikających z umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy.
 
 **Art. 351.** Wobec dewelopera nie prowadzi się postępowania o zatwierdzenie układu, z wyjątkiem układu częściowego, jeżeli nie są nim objęte wierzytelności nabywców oraz wierzytelności zabezpieczone na nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie.
 
@@ -3496,4 +3539,9 @@ Art. 401–447. (pominięte)
 ### DZIAŁ III Przepis końcowy
 
 **Art. 456.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
+
+- **1)** art. 5, który wchodzi w życie z dniem 26 czerwca 2018 r.;
+- **2)** art. 148 i art. 149, które wchodzą w życie z dniem 1 września 2015 r.;
+- **3)** art. 428 pkt 138 w zakresie dotyczącym art. 227, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
 

@@ -8,7 +8,7 @@ pos: 179
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu Dnia Inwalidy Wojennego W uznaniu zasług i poświęcenia osób, które w wyniku działań wojennych doznały trwałego uszczerbku na zdrowiu, wyrażając szacunek dla ich cierpienia, odwagi i poświęcenia na rzecz Ojczyzny, stanowi się, co następuje:

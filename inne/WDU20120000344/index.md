@@ -8,10 +8,10 @@ pos: 344
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 marca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 344 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 marca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/344/text.pdf) |
 
-Poz. 344 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 marca 2012 r.
-w sprawie przenoszenia funkcjonariuszy Centralnego Biura Antykorupcyjnego do dyspozycji Na podstawie art. 58 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie przenoszenia funkcjonariuszy Centralnego Biura Antykorupcyjnego do dyspozycji Na podstawie art. 58 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki i tryb przenoszenia funkcjonariusza Centralnego Biura Antykorupcyjnego, zwanego dalej „funkcjonariuszem”, do dyspozycji Szefa Centralnego Biura Antykorupcyjnego, zwanego dalej „Szefem CBA”;
 2) sposób pełnienia służby przez funkcjonariusza pozostającego w dyspozycji Szefa CBA.
 § 2. 1. Przeniesienie funkcjonariusza do dyspozycji Szefa CBA może nastąpić w przypadku przewidywanego przeniesienia funkcjonariusza na inne stanowisko służbowe.

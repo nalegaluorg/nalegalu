@@ -8,10 +8,12 @@ pos: 859
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# niektórych innych ustaw
+# o zmianie ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz niektórych innych ustaw
+
+*USTAWA z dnia 21 kwietnia 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +27,126 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/859/text.pdf) |
 
-**Art. 1.** W ustawie dnia 14 marca 2003 stopniach naukowych tytule naukowym stopniach tytule zakresie sztuki (Dz. U. 2016 poz. 882 1311) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. z 2016 r. poz. 882 i 1311) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2016 poz. 2032 2048 poz. 60, 528 648) 21 1 pkt 39 otrzymuje brzmienie: „39) stypendia otrzymywane podstawie przepisów stopniach naukowych tytule naukowym stopniach tytule zakresie sztuki, stypendia doktoranckie otrzymywane podstawie przepisów szkolnictwie wyższym lub stypendia przyznawane podstawie przepisów zasadach finansowania nauki inne stypendia naukowe stypendia za wyniki nauce, których zasady przyznawania zostały zatwierdzone przez ministra właściwego do spraw szkolnictwa wyższego, po zasięgnięciu opinii Rady Głównej Nauki Szkolnictwa Wyższego, albo przez ministra właściwego do spraw oświaty wychowania;”.
+- **1)** w art. 13:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rozprawa doktorska, przygotowywana pod opieką promotora albo pod opieką promotora i promotora pomocniczego, powinna stanowić oryginalne rozwiązanie problemu naukowego lub oryginalne rozwiązanie problemu w oparciu o opracowanie projektowe, konstrukcyjne, technologiczne, lub oryginalne dokonanie artystyczne, oraz wykazywać ogólną wiedzę teoretyczną kandydata w danej dyscyplinie naukowej lub artystycznej oraz umiejętność samodzielnego prowadzenia pracy naukowej lub artystycznej.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Rozprawę doktorską może stanowić praca projektowa, konstrukcyjna, technologiczna, wdrożeniowa lub artystyczna, jeżeli odpowiada warunkom określonym w ust. 1.”;
 
-**Art. 3.** W ustawie dnia 27 lipca 2005 – Prawo szkolnictwie wyższym (Dz. U. 2016 poz. 1842, późn. zm. ) wprowadza się następujące zmiany:
+- **2)** w art. 33 ust. 3 otrzymuje brzmienie: „3. Prezes Rady Ministrów powołuje przewodniczącego Centralnej Komisji z grona jej członków.”.
 
-**Art. 4.** W ustawie dnia 30 kwietnia 2010 zasadach finansowania nauki (Dz. U. 2016 poz. 2045, 1933 2260) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032 i 2048 oraz z 2017 r. poz. 60, 528 i 648) w art. 21 w ust. 1 pkt 39 otrzymuje brzmienie: „39) stypendia otrzymywane na podstawie przepisów o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, stypendia doktoranckie otrzymywane na podstawie przepisów o szkolnictwie wyższym lub stypendia przyznawane na podstawie przepisów o zasadach finansowania nauki oraz inne stypendia naukowe i stypendia za wyniki w nauce, których zasady przyznawania zostały zatwierdzone przez ministra właściwego do spraw szkolnictwa wyższego, po zasięgnięciu opinii Rady Głównej Nauki i Szkolnictwa Wyższego, albo przez ministra właściwego do spraw oświaty i wychowania;”.
 
-**Art. 8.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia.
+**Art. 3.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 195 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Kształcenie na studiach doktoranckich może odbywać się we współpracy z otoczeniem społeczno-gospodarczym uczelni albo jednostki naukowej, w szczególności z przedsiębiorcami lub innymi podmiotami zatrudniającymi uczestników tych studiów.”;
+- **2)** w art. 195a ust. 2 otrzymuje brzmienie: „2. W jednostce organizacyjnej uczelni oraz w jednostce naukowej liczba uczestników stacjonarnych studiów doktoranckich, którym przyznano stypendium doktoranckie finansowane ze środków, o których mowa w art. 200 ust. 5 lub 6, z wyłączeniem liczby uczestników stacjonarnych studiów doktoranckich, którym przyznano wyłącznie środki finansowe, o których mowa w art. 200a ust. 2, nie może być mniejsza niż 50% liczby uczestników stacjonarnych studiów doktoranckich ogółem.”;
+- **3)** w art. 200 dodaje się ust. 6 i 7 w brzmieniu: „6. Uczestnik studiów doktoranckich biorący udział w programie, o którym mowa w art. 26 ust. 3f ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, może otrzymywać stypendium doktoranckie w wysokości minimalnego wynagrodzenia zasadniczego asystenta ustalonego w przepisach o wynagradzaniu nauczycieli akademickich przyznawane w trybie określonym w przepisach wydanych na podstawie art. 26 ust. 3q ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki i finansowane ze środków przeznaczonych na realizację programu.
+
+7. Uczestnik stacjonarnych studiów doktoranckich może otrzymywać stypendium doktoranckie finansowane ze środków, o których mowa w ust. 5 albo 6.”;
+
+- **4)** w art. 201 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, warunki i tryb organizowania, prowadzenia i odbywania studiów doktoranckich, przyznawania stypendiów doktoranckich, z wyłączeniem stypendium doktoranckiego finansowanego ze środków, o których mowa w art. 200 ust. 6, oraz minimalną wysokość kwoty zwiększenia stypendium doktoranckiego, uwzględniając:
+- **1)** możliwość przedłużania czasu trwania studiów, w tym prawo do dodatkowego przedłużenia okresu odbywania studiów doktoranckich o czas trwania urlopu związanego z rodzicielstwem, z wyłączeniem urlopu wychowawczego, udzielonego na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, mając na uwadze potrzebę prawidłowego przygotowania do przeprowadzenia przewodu doktorskiego;
+- **2)** warunki, jakie musi spełniać kierownik studiów doktoranckich, szczegółowe uprawnienia organu tworzącego studia doktoranckie, rady jednostki organizacyjnej i kierownika studiów doktoranckich, uwzględniając potrzebę zapewnienia sprawnego przebiegu studiów i wysokiej jakości kształcenia;
+- **3)** wymóg sprawowania opieki naukowej i prowadzenia zajęć dydaktycznych przez pracowników posiadających aktualny dorobek naukowy opublikowany w okresie ostatnich pięciu lat lub co najmniej pięcioletnie doświadczenie w prowadzeniu działalności badawczo-rozwojowej;
+- **4)** wzór legitymacji doktoranta;
+- **5)** wysokość opłat za wydanie legitymacji, nie większą niż koszty wydania dokumentu;
+- **6)** tryb i okresy przyznawania stypendiów doktoranckich.”.
+
+**Art. 4.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, 1933 i 2260) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 po pkt 10a dodaje się pkt 10b w brzmieniu: „10b) tworzenie warunków do rozwoju współpracy między środowiskiem naukowym a środowiskiem społeczno-gospodarczym, w tym ustanowienie programu „Doktorat wdrożeniowy”, o którym mowa w art. 26 ust. 3f;”;
+- **2)** w art. 9 pkt 1 i 2 otrzymują brzmienie: „1) jednostkom naukowym – na realizację zadań określonych w art. 5 pkt 4–8, 10–10b i 11a, oraz na działalność upowszechniającą naukę, o której mowa w art. 25 ust. 4a, oraz jednostkom naukowym reprezentującym podmioty, o których mowa w art. 2 pkt 12 i 14–16a, na realizację zadań określonych w art. 5 pkt 6 i 7 oraz na działalność, o której mowa w art. 18 ust. 1 pkt 2a i 4;
+- **2)** uczelniom – na działalność, o której mowa w art. 18 ust. 1 pkt 4, oraz na rozbudowę i utrzymanie infrastruktury informatycznej nauki, o której mowa w art. 18 ust. 1 pkt 2a i art. 20 pkt 1 lit. b, a także na działalność upowszechniającą naukę, o której mowa w art. 25 ust. 1 pkt 2 i ust. 4a, oraz w przypadku gdy zgodnie ze statutem w strukturze uczelni nie wyodrębniono podstawowych jednostek organizacyjnych, na realizację zadań określonych w art. 5 pkt 10b, oraz na działalność, o której mowa w art. 18 ust. 1 i 2 oraz art. 20;”;
+- **3)** w art. 13 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W sprawie finansowania zadań określonych w art. 5 pkt 4, 6–10b i 11a Minister rozstrzyga, w drodze decyzji, na podstawie wniosków złożonych przez uprawnione podmioty, po zasięgnięciu opinii właściwego zespołu, o którym mowa w art. 52 ust. 1–3, z wyłączeniem:”;
+- **4)** w art. 13c w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wniosek o przyznanie środków finansowych na realizację zadań określonych w art. 5 pkt 4 i 6–10b zawiera w szczególności:”;
+- **5)** w art. 14 ust. 1 otrzymuje brzmienie: „1. W przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych przy przyznawaniu środków na realizację zadań określonych w art. 5 pkt 4, 6–10b i 11a wnioskodawca może zwrócić się do Ministra z wnioskiem o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia otrzymania decyzji albo pisemnej informacji, o której mowa w art. 13 ust. 1a.”;
+- **6)** w art. 14a w ust. 1 w pkt 4 wyrazy „art. 361 pkt 1 i 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2015 r. poz. 233, z późn. zm.)” zastępuje się wyrazami „art. 361 ust. 1 pkt 1 i 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2016 r. poz. 2171, 2260 i 2261 oraz z 2017 r. poz. 791)”;
+- **7)** w art. 26:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw nauki w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” ogłasza komunikaty o ustanowieniu programu lub przedsięwzięcia, z zastrzeżeniem ust. 3, 3a i 3f.”,
+    - **b)** po ust. 3e dodaje się ust. 3f–3q w brzmieniu: „3f. Minister ustanawia program „Doktorat wdrożeniowy”, którego celem jest tworzenie warunków do rozwoju współpracy między środowiskiem naukowym a środowiskiem społeczno-gospodarczym prowadzonej w ramach studiów doktoranckich, o których mowa w art. 195 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym.
+
+3g. Środki finansowe w ramach programu, o którym mowa w ust. 3f, mogą być przyznane, w drodze corocznego konkursu ogłaszanego przez Ministra, na dofinansowanie kosztów wykorzystania infrastruktury badawczej w celu realizacji badań naukowych prowadzonych w ramach stacjonarnych studiów doktoranckich oraz na finansowanie stypendium doktoranckiego w okresie odbywania studiów doktoranckich przewidzianym w ich programie, nie dłuższym niż 4 lata.
+
+3h. Wniosek o przyznanie środków finansowych w ramach programu, o którym mowa w ust. 3f, może złożyć:
+
+- **1)** jednostka naukowa, o której mowa w art. 2 pkt 9 lit. a–d, posiadająca kategorię naukową A+ lub A:
+    - **a)** prowadząca studia doktoranckie albo
+    - **b)** w skład której wchodzi jednostka organizacyjna prowadząca studia doktoranckie,
+
+- **2)** uczelnia, w której zgodnie z jej statutem nie wyodrębniono podstawowych jednostek organizacyjnych, posiadająca kategorię naukową A+ lub A i prowadząca studia doktoranckie – prowadząca udokumentowaną i systematyczną współpracę z przedsiębiorcami lub innymi podmiotami w zakresie działalności badawczo-rozwojowej.
+
+3i. Podmiot, o którym mowa w ust. 3h pkt 1 i 2, może zgłosić do udziału w programie, o którym mowa w ust. 3f, osobę posiadającą tytuł zawodowy magistra lub równorzędny, przyjętą na stacjonarne studia doktoranckie, która jest lub zostanie zatrudniona w pełnym wymiarze czasu pracy przez przedsiębiorcę albo inny podmiot, który wyraził zgodę na jej udział w studiach doktoranckich w ramach programu. Do programu może przystąpić corocznie nie więcej niż 500 osób.
+
+3j. Podmiot, któremu przyznano środki finansowe w ramach programu, o którym mowa w ust. 3f, po przeprowadzeniu rekrutacji na studia doktoranckie:
+
+- **1)** przekazuje Ministrowi informacje o osobach, które zostały przyjęte na studia doktoranckie w ramach programu,
+- **2)** może przekazać Ministrowi informacje o osobach, które nie zostały przyjęte na studia doktoranckie w ramach programu z powodu przekroczenia planowanej liczby osób określonej w decyzji o przyznaniu środków finansowych w ramach programu – zgodnie z zakresem informacji niezbędnych do przekazania środków finansowych w ramach programu oraz zmiany decyzji o przyznaniu środków finansowych określonym w przepisach wydanych na podstawie ust. 3q.
+
+3k. Minister zmienia decyzję o przyznaniu środków finansowych w ramach programu, o którym mowa w ust. 3f, w przypadku gdy podmiot, któremu przyznano środki finansowe, nie przyjął na studia doktoranckie w ramach programu planowanej liczby osób określonej w tej decyzji, dostosowując wysokość środków finansowych do liczby osób, o których mowa w ust. 3j pkt 1.
+
+3l. Minister może zmienić decyzję o przyznaniu środków finansowych w ramach programu, o którym mowa w ust. 3f, w przypadku gdy podmiot, któremu przyznano środki finansowe, ma możliwość przyjęcia na studia doktoranckie w ramach programu większej liczby osób niż określona w tej decyzji, uwzględniając:
+
+- **1)** wyniki oceny wniosku o przyznanie środków finansowych,
+- **2)** informacje o osobach, o których mowa w ust. 3j pkt 2,
+- **3)** liczbę wolnych miejsc w ramach limitu, o którym mowa w ust. 3i zdanie drugie,
+- **4)** limit wydatków z budżetu państwa na realizację programu w danym roku – dostosowując wysokość środków finansowych do liczby osób określonej w zmienionej decyzji, przy czym przepisy ust. 3j pkt 1 i ust. 3k stosuje się odpowiednio.
+
+3m. Kształcenie uczestnika studiów doktoranckich biorącego udział w programie, o którym mowa w ust. 3f, odbywa się we współpracy z zatrudniającym go przedsiębiorcą albo innym zatrudniającym go podmiotem, który wskazuje spośród swoich pracowników kandydata na opiekuna pomocniczego.
+
+3n. Opiekunem pomocniczym, który pełni istotną funkcję w sprawowaniu opieki nad uczestnikiem studiów doktoranckich biorącym udział w programie, o którym mowa w ust. 3f, w całym okresie studiów doktoranckich, może być osoba posiadająca:
+
+- **1)** stopień naukowy doktora lub
+- **2)** co najmniej pięcioletnie doświadczenie w prowadzeniu działalności badawczo-rozwojowej, lub
+- **3)** znaczące osiągnięcia w zakresie opracowania i wdrożenia w sferze gospodarczej lub społecznej oryginalnego rozwiązania projektowego, konstrukcyjnego, technologicznego lub artystycznego, o ponadlokalnym zakresie oraz trwałym i uniwersalnym charakterze.
+
+3o. Pracownikowi będącemu uczestnikiem studiów doktoranckich biorącym udział w programie, o którym mowa w ust. 3f, przysługuje:
+
+- **1)** zwolnienie od pracy z zachowaniem prawa do wynagrodzenia w celu realizacji obowiązków, o których mowa w art. 197 ust. 1–3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym,
+- **2)** prawo do urlopu płatnego w wysokości 80% wynagrodzenia, w wymiarze 30 dni kalendarzowych, na przygotowanie rozprawy doktorskiej lub przygotowanie się do egzaminu doktorskiego oraz obrony rozprawy doktorskiej, przy czym z uprawnienia tego można skorzystać tylko raz,
+- **3)** zwolnienie od pracy z zachowaniem prawa do wynagrodzenia w celu uczestniczenia w egzaminie doktorskim oraz w obronie rozprawy doktorskiej – z wyłączeniem uprawnień o charakterze tożsamym z uprawnieniami, o których mowa w pkt 1–3, określonych w przepisach Kodeksu pracy oraz przepisach ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki.
+
+3p. Uczestnik studiów doktoranckich biorący udział w programie, o którym mowa w ust. 3f, jest obowiązany do przedstawienia rozprawy doktorskiej nie później niż w ostatnim roku studiów doktoranckich.
+
+3q. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe kryteria i tryb przyznawania, przekazywania oraz rozliczania środków finansowych w ramach programu, o którym mowa w ust. 3f, w tym tryb:
+    - **a)** oceny wniosków o przyznanie środków finansowych,
+    - **b)** oceny realizacji finansowanych zadań,
+
+- **2)** szczegółowy zakres informacji zawartych we wniosku o przyznanie środków finansowych w ramach programu,
+- **3)** szczegółowy zakres informacji niezbędnych do przekazania środków finansowych w ramach programu oraz zmiany decyzji o przyznaniu środków finansowych w przypadkach, o których mowa w ust. 3k i 3l,
+- **4)** tryb wyznaczania i zmiany opiekuna pomocniczego w ramach programu,
+- **5)** tryb przyznawania stypendium doktoranckiego w ramach programu oraz okresy, na które jest przyznawane,
+- **6)** szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych w ramach programu, z uwzględnieniem informacji o realizacji zadań oraz rozliczenia finansowego poniesionych kosztów – mając na uwadze znaczenie praktyczne zadań przewidzianych do finansowania i ich wpływ na realizację celów polityki naukowej, naukowo-technicznej, innowacyjnej i społecznej państwa, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę, rolę opiekuna pomocniczego w procesie kształcenia uczestnika studiów doktoranckich, związek przyznawanego stypendium doktoranckiego z postępami w realizacji badań naukowych uczestnika studiów doktoranckich, potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania, przekazywania oraz rozliczania środków finansowych.”;
+- **8)** w art. 31b w ust. 3 wyrazy „art. 12–15” zastępuje się wyrazami „art. 12, art. 12a, art. 13 i art. 14”.
+
+**Art. 5.**
+
+1. Kandydatury na przewodniczącego Centralnej Komisji do Spraw Stopni i Tytułów przedstawione Prezesowi Rady Ministrów na podstawie art. 33 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, nie podlegają rozpatrzeniu.
+
+2. Prezes Rady Ministrów powoła przewodniczącego Centralnej Komisji do Spraw Stopni i Tytułów na podstawie art. 33 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 201 ust. 1 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 201 ust. 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 7.**
+
+1. Maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi:
+
+- **1)** w 2017 r. – 5 170 tys. zł;
+- **2)** w 2018 r. – 26 350 tys. zł;
+- **3)** w 2019 r. – 47 530 tys. zł;
+- **4)** w 2020 r. – 68 720 tys. zł;
+- **5)** w 2021 r. – 84 750 tys. zł;
+- **6)** w 2022 r. – 84 750 tys. zł;
+- **7)** w 2023 r. – 84 750 tys. zł;
+- **8)** w 2024 r. – 84 750 tys. zł;
+- **9)** w 2025 r. – 84 750 tys. zł;
+- **10)** w 2026 r. – 84 750 tys. zł.
+
+2. Minister właściwy do spraw nauki monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, oraz wdraża mechanizmy korygujące.
+
+3. W przypadku gdy wydatki z budżetu państwa na realizację programu „Doktorat wdrożeniowy”, o którym mowa w art. 26 ust. 3f ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, w danym roku powodowałyby zagrożenie przekroczenia limitu określonego w ust. 1, w roku tym ogranicza się liczbę nowych uczestników studiów doktoranckich biorących udział w tym programie w stopniu gwarantującym zapewnienie finansowania programu.
+
+**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

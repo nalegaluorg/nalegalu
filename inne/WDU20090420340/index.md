@@ -8,7 +8,7 @@ pos: 340
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
@@ -44,6 +44,15 @@ Art. 32–36. (pominięte)
 3. (uchylony)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** lotnisko użytku publicznego – lotnisko użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731 i 1222);
+- **2)** zakładający lotnisko – zakładającego lotnisko użytku publicznego w rozumieniu art. 55 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **3)** zarządzający lotniskiem – zarządzającego lotniskiem użytku publicznego w rozumieniu art. 59 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **4)** właściwa gmina – gminę właściwą ze względu na położenie lotniska użytku publicznego;
+- **5)** prasa lokalna – prasę, która skierowana jest do adresatów zamieszkałych na określonym obszarze, w szczególności obszarze właściwej gminy;
+- **6)** właściwy wojewoda – wojewodę właściwego ze względu na położenie lotniska użytku publicznego;
+- **7)** inwestycja w zakresie lotniska użytku publicznego – budowę, przebudowę lub rozbudowę lotniska użytku publicznego lub urządzeń i obiektów do obsługi ruchu lotniczego;
+- **8)** urządzenia i obiekty do obsługi ruchu lotniczego – urządzenia i obiekty służące do realizacji przez Polską Agencję Żeglugi Powietrznej zadań w zakresie zapewnienia służb żeglugi powietrznej, zarządzania przestrzenią powietrzną oraz zarządzania przepływem ruchu lotniczego, a także lotnicze urządzenia naziemne zarządzającego lotniskiem.
 
 #### Rozdział 2 Postępowanie poprzedzające rozpoczęcie robót budowlanych
 
@@ -189,6 +198,8 @@ Art. 32–36. (pominięte)
 3. Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponosi zakładający lotnisko użytku publicznego, o którym mowa w art. 55 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zarządzający takim lotniskiem, o którym mowa w art. 174 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub Polska Agencja Żeglugi Powietrznej.
 
 **Art. 16.** Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego wydaną na rzecz zakładającego lotnisko, o którym mowa w art. 55 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zarządzającego takim lotniskiem, o którym mowa w art. 174 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub Polskiej Agencji Żeglugi Powietrznej, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890 oraz z 2024 r. poz.
+
+- **1089)** w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
 
 **Art. 17.** Do gruntów rolnych i leśnych objętych decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82).
 

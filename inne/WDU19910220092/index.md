@@ -8,7 +8,7 @@ pos: 92
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Przepisy wprowadzające ustawę - Prawo o notariacie oraz o zmianie Kodeksu postępowania cywilnego i ustawy o księgach wieczystych Dział I Przepisy wprowadzające
@@ -37,7 +37,9 @@ source: "isap-pdf"
 
 § 2. Wykaz zniesionych państwowych biur notarialnych Minister Sprawiedliwości ogłasza, co 6 miesięcy w okresie 2 lat od dnia wejścia w życie niniejszej ustawy, w formie obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski".
 
-**Art. 4.** Do państwowych biur notarialnych - do czasu ich zniesienia - oraz do notariuszy i innych pracowników zatrudnionych w tych biurach, a także do notariuszy prowadzących indywidualne kancelarie notarialne i tych kancelarii, stosuje się ustawę dotychczasową i inne dotychczasowe właściwe przepisy, chyba że niniejsza ustawa stanowi inaczej. Do samorządu notarialnego oraz do odpowiedzialności dyscyplinarnej notariuszy zatrudnionych w państwowych biurach notarialnych i notariuszy prowadzących indywidualne kancelarie notarialne, a także do czynności notarialnych dokonywanych w tych biurach i kancelariach stosuje się przepisy ustawy - Prawo o notariacie. Jednakże do opłat za dokonanie czynności notarialnej stosuje się przepisy art. 59 ustawy dotychczasowej, a do przechowywania i składania do archiwum dokumentów obejmujących dokonane czynności notarialne oraz sposobu prowadzenia ksiąg notarialnych - również przepisy wydane na podstawie art. 77 tej ustawy.
+**Art. 4.** Do państwowych biur notarialnych - do czasu ich zniesienia - oraz do notariuszy i innych pracowników zatrudnionych w tych biurach, a także do notariuszy prowadzących indywidualne kancelarie notarialne i tych kancelarii, stosuje się ustawę dotychczasową i inne dotychczasowe właściwe przepisy, chyba że niniejsza ustawa stanowi inaczej.
+
+**Art. 5.** Do samorządu notarialnego oraz do odpowiedzialności dyscyplinarnej notariuszy zatrudnionych w państwowych biurach notarialnych i notariuszy prowadzących indywidualne kancelarie notarialne, a także do czynności notarialnych dokonywanych w tych biurach i kancelariach stosuje się przepisy ustawy - Prawo o notariacie. Jednakże do opłat za dokonanie czynności notarialnej stosuje się przepisy art. 59 ustawy dotychczasowej, a do przechowywania i składania do archiwum dokumentów obejmujących dokonane czynności notarialne oraz sposobu prowadzenia ksiąg notarialnych - również przepisy wydane na podstawie art. 77 tej ustawy.
 
 **Art. 6.** Notariusze działający w dniu wejścia w życie niniejszej ustawy w państwowych biurach notarialnych i indywidualnych kancelariach notarialnych pozostają notariuszami w siedzibach tych biur i kancelarii, z zastrzeżeniem art. 7.
 
@@ -57,7 +59,7 @@ source: "isap-pdf"
 
 § 2. Notariusza, którego kandydatura na stanowisko sędziego została zgłoszona Krajowej Radzie Sądownictwa, Minister Sprawiedliwości może delegować do sądu rejonowego i powierzy ć mu pełnienie na czas oznaczony czynności sędziowskich w tym sądzie w sprawach ksiąg wieczystych.
 
-§ 3. Notariuszowi, którego kandydatura na stanowisko sędziego nie została zgłoszona Krajowej Radzie Sądownictwa, oraz notariuszowi, o którego powołanie na stanowisko sędziego Krajowa Rada Sądownictwa nie jego wniosek, siedzibę kancelarii notarialnej. Przepis art. 7 stosuje się.
+§ 3. Notariuszowi, którego kandydatura na stanowisko sędziego nie została zgłoszona Krajowej Radzie Sądownictwa, oraz notariuszowi, o którego powołanie na stanowisko sędziego Krajowa Rada Sądownictwa nie przedstawiła wniosku Prezydentowi, Minister Sprawiedliwości wyznaczy, na jego wniosek, siedzibę kancelarii notarialnej. Przepis art. 7 stosuje się.
 
 **Art. 9.**
 
@@ -81,7 +83,9 @@ source: "isap-pdf"
 
 § 2. Pracownicy, o których mowa w § 1, mogą, w terminie trzech miesięcy od dnia zniesienia państwowego biura notarialnego, w którym byli zatrudnieni, złożyć oświadczenie o odmowie dalszego zatrudnienia. W tym przypadku stosunek pracy rozwiązuje się po upływie trzech miesięcy od dnia złożenia oświadczenia, w ostatnim dniu miesiąca kalendarzowego, chyba że na wniosek pracownika określono krótszy termin.
 
-§ 3. Przepis § 2 stosuje się odpowiednio do aplikantów notarialnych. Rozwiązanie lub wygaśnięcie stosunku pracy w trybie niniejszej ustawy z notariuszem, asesorem notarialnym, aplikantem notarialnym i innym pracownikiem państwowego biura notarialnego pociąga za sobą skutki, jakie przepisy prawa wiążą z rozwiązaniem umowy o pracę przez zakład pracy za wypowiedzeniem z powodu likwidacji zakładu pracy.
+§ 3. Przepis § 2 stosuje się odpowiednio do aplikantów notarialnych.
+
+**Art. 12.** Rozwiązanie lub wygaśnięcie stosunku pracy w trybie niniejszej ustawy z notariuszem, asesorem notarialnym, aplikantem notarialnym i innym pracownikiem państwowego biura notarialnego pociąga za sobą skutki, jakie przepisy prawa wiążą z rozwiązaniem umowy o pracę przez zakład pracy za wypowiedzeniem z powodu likwidacji zakładu pracy.
 
 **Art. 13.** Notariusze, asesorzy i aplikanci notarialni oraz inni pracownicy notarialni zachowują przez okres 6 miesięcy prawo do wynagrodzenia odpowiadającego stanowisku, które zajmowali w zniesionym państwowym biurze notarialnym, gdy obejmą w sądzie rejonowym stanowiska, na których przysługuje niższe wynagrodzenie zasadnicze, niższy dodatek funkcyjny lub dodatek nie przysługuje.
 
@@ -99,7 +103,7 @@ source: "isap-pdf"
 
 **Art. 17.**
 
-§ 1. W okresie 2 lat od dnia wejścia w życie ustawy - Prawo o notariacie do aplikantów notarialnych stosuje się odpowiednio przepisy o aplikantach sądowych, z tym że prezes sądu wojewódzkiego przydziela aplikanta rejonowego. Za zgodą notariusza prowadzącego kancelarię notarialną, prezes sądu wojewódzkiego może skierować aplikanta notarialnego do odbycia praktyki w kancelarii notarialnej tego notariusza.
+§ 1. W okresie 2 lat od dnia wejścia w życie ustawy - Prawo o notariacie do aplikantów notarialnych stosuje się odpowiednio przepisy o aplikantach sądowych, z tym że prezes sądu wojewódzkiego przydziela aplikanta notarialnego do określonego państwowego biura notarialnego lub sądu rejonowego. Za zgodą notariusza prowadzącego kancelarię notarialną, prezes sądu wojewódzkiego może skierować aplikanta notarialnego do odbycia praktyki w kancelarii notarialnej tego notariusza.
 
 § 2. Aplikant notarialny, o którym mowa w § 1, zdaje egzamin przed komisją egzaminacyjną, o której mowa w art. 74 ustawy - Prawo o notariacie.
 
@@ -129,7 +133,93 @@ source: "isap-pdf"
 
 **Art. 23.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
 
+- **1)** w art. 572 w § 2 wyrazy "państwowych biurach notarialnych" zastępuje się wyrazem "notariuszach";
+- **2)** w art. 627:
+    - **a)** wyrazy "i państwowych biur notarialnych" skreśla się;
+    - **b)** po wyrazie "sądów" stawia się przecinek i dodaje wyrazy "chyba że przepis szczególny stanowi inaczej";
+
+- **3)** art. 629 skreśla się;
+- **4)** w dziale IV tytułu II księgi drugiej części pierwszej:
+    - **a)** oznaczenie "Rozdział 1" i tytuł tego rozdziału "Czynności państwowych biur notarialnych" oraz oznaczenie Oddział 1 w tymże rozdziale 1 i tytuł tego oddziału "Przepisy ogólne" skreśla się,
+    - **b)** oznaczenie "Oddział 2" zastępuje się oznaczeniem "Rozdział 1", oznaczenie "Oddział 3" - oznaczeniem "Rozdział 2", a oznaczenie "Oddział 4" - oznaczeniem "Rozdział 3",
+    - **c)** oznaczenie "Rozdział 2" i tytuł tego rozdziału "Sprawy rozpoznawane w sądzie" skreśla się i oznaczenie "Oddział 1" zastępuje się oznaczeniem "Rozdział 4", oznaczenie "Oddział 2" - oznaczeniem "Rozdział 5", oznaczenie "Oddział 3" - oznaczeniem "Rozdział 6", oznaczenie "Oddział 4" - oznaczeniem "Rozdział 7", oznaczenie "Oddział 5" - oznaczeniem "Rozdział 8", oznaczenie "Oddział 6" - oznaczeniem "Rozdział 9", a oznaczenie "Oddział 7" - oznaczeniem "Rozdział 10";
+
+- **5)** art. 630-632 skreśla się;
+- **6)** art. 633 otrzymuje brzmienie: "Art. 633. Do zabezpieczenia spadku właściwy jest sąd, w którego okręgu znajdują się rzeczy będące w chwili otwarcia spadku we władaniu spadkodawcy. Sąd, który nie jest sądem spadku, zawiadomi o dokonanym zabezpieczeniu sąd spadku.";
+- **7)** art. 635 otrzymuje brzmienie: "Art. 635. § 1.Sąd dokonuje zabezpieczenia spadku na wniosek lub z urzędu.
+
+§ 2. Wniosek może zgłosić każdy, kto uprawdopodobni, że jest spadkobiercą, uprawnionym do zachowku lub zapisobiorcą, a ponadto wykonawca testamentu, współwłaściciel rzeczy, współuprawniony co do praw pozostałych po spadkodawcy, wierzyciel mający pisemny dowód należności przeciwko spadkodawcy oraz właściwy urząd skarbowy.
+
+§ 3. Zabezpieczenia spadku dokonuje się z urzędu, jeżeli sąd poweźmie wiadomość, że spadkobierca jest nieznany, nieobecny lub nie ma pełnej zdolności do czynności prawnych i nie ma ustawowego przedstawiciela.
+
+§ 4. Wykonanie postanowienia o zabezpieczeniu spadku i o spisie inwentarza sąd zleca komornikowi lub innemu organowi.
+
+§ 5. Postanowienie ulega wykonaniu z chwilą jego wydania. Sąd może wstrzymać wykonalność zaskarżonego postanowienia.
+
+§ 6. Na postanowienie sądu w sprawie zabezpieczenia spadku przysługuje zażalenie.";
+
+- **8)** w art. 637 w § 1 wyraz "biuro spadku" zastępuje się wyrazem "sąd";
+- **9)** w art. 639, art. 654, art. 677 § 3, art. 679 § 1 i art. 681 użyty w odpowiednim przypadku wyraz "oddział" zastępuje się użytym w takim samym przypadku wyrazem "rozdział";
+- **10)** w art. 640 § 1 otrzymuje brzmienie: "§ 1. Oświadczenie o prostym przyjęciu spadku lub z dobrodziejstwem inwentarza albo o odrzuceniu spadku może być złożone przed notariuszem lub w sądzie rejonowym, w którego okręgu znajduje się miejsce zamieszkania lub pobytu składającego oświadczenie. Notariusz lub sąd prześle niezwłocznie oświadczenie, wraz z załącznikami, do sądu spadku.";
+- **11)** w art. 641:
+    - **a)** w § 2 po wyrazach "przechowania testamentów" przecinek zastępuje się kropką, a wyrazy "chyba że zostały złożone w państwowym biurze notarialnym" skreśla się,
+    - **b)** w § 3 wyrazy "w państwowym biurze notarialnym" skreśla się;
+
+- **12)** art. 643 otrzymuje brzmienie: "Art. 643. O przyjęciu lub odrzuceniu spadku zawiadamia się wszystkie osoby, które według oświadczenia i przedstawionych dokumentów są powołane do dziedziczenia, choćby w dalszej kolejności.";
+- **13)** w art. 644 wyrazy "państwowe biuro notarialne" zastępuje się wyrazem "sąd";
+- **14)** w art. 646:
+    - **a)** w § 1 wyraz "biurze" zastępuje się wyrazem "sądzie",
+    - **b)** w § 2 wyraz "biuro" zastępuje się wyrazem "sąd";
+
+- **15)** art. 647 otrzymuje brzmienie: "Art. 647. W celu stwierdzenia, czy istnieje testament i gdzie się znajduje, sąd spadku może nakazać złożenie oświadczenia w tym przedmiocie, stosując odpowiednio tryb przewidziany do wyjawienia przedmiotów spadkowych.";
+- **16)** w art. 648 wyrazy "Państwowe biuro notarialne" zastępuje się wyrazem "Sąd";
+- **17)** w art. 649 w § 1 wyrazy "Państwowe biuro notarialne" zastępuje się wyrazem "Sąd";
+- **18)** w art. 652 wyraz "biuro" zastępuje się wyrazem "sąd";
+- **19)** w art. 653 wyraz "biurze" zastępuje się wyrazem "sądzie";
+- **20)** art. 663 skreśla się;
+- **21)** w art. 666 § 2 otrzymuje brzmienie: "§ 2. Jeżeli inwentarz nie był przedtem spisany, sąd wyda postanowienie o sporządzeniu spisu inwentarza.";
+- **22)** w art. 691 w § 2 zdanie drugie skreśla się;
+- **23)** w art. 781 w § 3 wyrazy "państwowe biuro notarialne, które go wydało" zastępuje się wyrazami "sąd, który go wydał";
+- **24)** w art. 889-892 użyte w odpowiednim przypadku wyrazy "rachunek bankowy obejmujący wkład oszczędnościowy" zastępuje się użytymi w takim samym przypadku wyrazami "rachunek bankowy, w tym rachunek bankowy obejmujący wkład oszczędnościowy.";
+- **25)** w art. 1130 wyrazy "i państwowe biura notarialne" skreśla się;
+- **26)** w art. 1132 w § 2 wyrazy "lub państwowego biura notarialnego" skreśla się;
+- **27)** w art. 1133 w § 1-3 wyrazy "lub państwowe biuro notarialne" skreśla się;
+- **28)** w art. 1139 w § 1:
+    - **a)** wyrazy "i państwowym biurom notarialnym" skreśla się,
+    - **b)** wyraz "biura" zastępuje się wyrazem "sądy";
+
+- **29)** w art. 1140 w § 1 wyrazy "Państwowe biuro notarialne" zastępuje się wyrazem "Sąd";
+- **30)** w art. 1142 w § 1 wyrazy "państwowe biuro notarialne" zastępuje się wyrazem "sąd".
+
 **Art. 24.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U Nr 19, poz. 147) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 w ust. 2 wyrazy "lub komisji arbitrażowej" oraz wyrazy "lub prezesa komisji arbitrażowej" skreśla się;
+- **2)** w art. 19 w ust. 2 wyrazy "albo do komisji arbitrażowej" skreśla się;
+- **3)** art. 23 otrzymuje brzmienie: "Art. 23. Prowadzenie ksiąg wieczystych należy do właściwości sądów rejonowych.";
+- **4)** w art. 27 wyrazy "państwowe biuro notarialne" zastępuje się wyrazami "sąd rejonowy";
+- **5)** w art. 31 w ust. 2 wyrazy "komisji arbitrażowej lub" oraz przecinek przed tymi wyrazami skreśla się;
+- **6)** w art. 33 wyrazy "państwowym biurze notarialnym" zastępuje się wyrazami "sądzie rejonowym";
+- **7)** w art. 35:
+    - **a)** w ust. 1 wyrazy "państwowe biuro notarialne prowadzące" zastępuje się wyrazami "sąd rejonowy prowadzący",
+    - **b)** w ust. 2 wyrazy "państwowego biura notarialnego" zastępuje się wyrazami "sądu rejonowego";
+
+- **8)** w art. 36:
+    - **a)** w ust. 1: - wyrazy "komisje arbitrażowe" oraz przecinek przed tymi wyrazami skreśla się, - wyrazy "państwowe biuro notarialne właściwe" zastępuje się wyrazami "sąd rejonowy właściwy",
+    - **b)** w ust. 2 użyte dwukrotnie wyrazy "państwowe biuro notarialne" zastępuje się wyrazami "sąd rejonowy";
+
+- **9)** w art. 37 wyrazy "Państwowe biuro notarialne" zastępuje się wyrazami "Sąd rejonowy";
+- **10)** art. 40 otrzymuje brzmienie: "Art. 40.Wypis aktu notarialnego, o którym mowa w art. 39, notariusz przesyła - w terminie 7 dni od dnia sporządzenia aktu - sądowi rejonowemu właściwemu do prowadzenia księgi wieczystej dla danej nieruchomości.";
+- **11)** w art. 42 ust. 2, art. 44, art. 46 ust. 1 i 2, art. 48 ust. 1-3, art. 50, art. 52 ust. 1, art. 53, 54, art. 56 ust. 1 i art. 57 ust. 1 i 2 użyte w odpowiednim przypadku wyrazy "państwowe biuro notarialne" zastępuje się użytymi w takim samym przypadku wyrazami "sąd rejonowy";
+- **12)** w art. 58 w ust. 1:
+    - **a)** w pkt 1 wyrazy "państwowe biura notarialne" zastępuje się wyrazami "sądy rejonowe",
+    - **b)** w pkt 2 wyrazy "pracownicy notarialni" zastępuje się wyrazami "pracownicy sądowi";
+
+- **13)** w art. 60 w ust. 1 wyrazy "państwowe biuro notarialne właściwe" zastępuje się wyrazami "sąd rejonowy właściwy";
+- **14)** w art. 62 wyrazy "państwowe biuro notarialne" zastępuje się wyrazami "sąd rejonowy";
+- **15)** w art. 81 wyrazy "państwowe biuro notarialne prowadzące" zastępuje się wyrazami "sąd rejonowy prowadzący";
+- **16)** w art. 110 wyrazy "prezesa komisji arbitrażowej" oraz przecinek przed tymi wyrazami, skreśla się";
+- **17)** w art. 111 wyrazy "prezesa komisji arbitrażowej" i przecinek przed tymi wyrazami skreśla się;
+- **18)** w art. 123 w ust. 1 i 3 użyte w odpowiedniej liczbie i przypadku wyrazy "państwowe biuro notarialne" zastępuje się użytymi w takiej samej liczbie i przypadku wyrazami "sąd rejonowy".
 
 ### Dział III Przepis końcowy
 

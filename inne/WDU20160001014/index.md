@@ -8,10 +8,10 @@ pos: 1014
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 lipca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1014 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 1 lipca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001014) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1014/text.pdf) |
 
-Poz. 1014 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 1 lipca 2016 r.
-w sprawie rodzajów kosztów zmiennych, o które pomniejsza się koszty ogółem przy wyliczaniu poziomu kapitału własnego zarządzającego ASI Na podstawie art. 70o ust. 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2014 r. poz. 157, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa rodzaje kosztów zmiennych, o które pomniejsza się koszty ogółem przy wyliczaniu poziomu kapitału własnego zarządzającego ASI, o którym mowa w art. 70o ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
+w sprawie rodzajów kosztów zmiennych, o które pomniejsza się koszty ogółem przy wyliczaniu poziomu kapitału własnego zarządzającego ASI Na podstawie art. 70o ust. 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2014 r. poz. 157, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa rodzaje kosztów zmiennych, o które pomniejsza się koszty ogółem przy wyliczaniu poziomu kapitału własnego zarządzającego ASI, o którym mowa w art. 70o ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
 § 2. 1. Koszty zmienne, o które pomniejsza się koszty ogółem przy wyliczaniu poziomu kapitału własnego zarządzającego ASI, stanowią:
 1) premie dla pracowników zarządzającego ASI w zakresie, w jakim mają one w pełni uznaniowy charakter;
 2) dodatkowe składniki wynagrodzenia pracowników zarządzającego ASI w postaci części zysków zarządzającego ASI w zakresie, w jakim mają one w pełni uznaniowy charakter;

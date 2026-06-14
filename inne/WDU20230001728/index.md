@@ -8,10 +8,10 @@ pos: 1728
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1728 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 28 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001728) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1728/text.pdf) |
 
-Poz. 1728 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 28 sierpnia 2023 r.
 w sprawie zmiany wielkości udziału ilościowego sumy energii elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej z odnawialnych źródeł energii w 2024 r.
-Na podstawie art. 60 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597 i 1681) zarządza się, co następuje: § 1. Wielkość udziału, o którym mowa w art. 59:
+Na podstawie art. 60 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597 i 1681) zarządza się, co następuje:
+§ 1. Wielkość udziału, o którym mowa w art. 59:
 1) pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wynosi 5%;
 2) pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wynosi 0,5%.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

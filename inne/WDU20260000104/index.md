@@ -8,7 +8,7 @@ pos: 104
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych
@@ -33,6 +33,12 @@ Art. 32–35. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** szczególne zasady i warunki przygotowania inwestycji w zakresie:
+    - **a)** budowli przeciwpowodziowych,
+    - **b)** stacji radarów meteorologicznych – zwanej dalej „inwestycją”;
+
+- **2)** organy właściwe w sprawach, o których mowa w pkt 1.
+
 **Art. 1a.**
 
 1. Przepisy ustawy stosuje się odpowiednio do przygotowywania przedsięwzięć polegających na remoncie lub przebudowie istniejących budowli przeciwpowodziowych.
@@ -42,6 +48,28 @@ Art. 32–35. (pominięte)
 3. Przepisy ustawy stosuje się odpowiednio do rowów, kanałów i pompowni o głównej funkcji przeciwpowodziowej, przy czym przez główną funkcję przeciwpowodziową rozumie się zapewnienie zarządzania wodami w warunkach powodzi, podczas gdy inne ich funkcje są podporządkowane zachowaniu skuteczności ochrony przed powodzią.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** budowlach przeciwpowodziowych rozumie się przez to:
+    - **a)** kanały ulgi,
+    - **b)** kierownice w ujściach rzek do morza,
+    - **c)** poldery przeciwpowodziowe,
+    - **d)** sztuczne zbiorniki przeciwpowodziowe,
+    - **e)** suche zbiorniki przeciwpowodziowe,
+    - **f)** wały przeciwpowodziowe,
+    - **g)** budowle regulacyjne,
+    - **h)** wrota przeciwpowodziowe i przeciwsztormowe,
+    - **i)** falochrony,
+    - **j)** budowle ochrony brzegów morskich,
+    - **k)** stopnie wodne – wraz z obiektami związanymi z nimi technicznie i funkcjonalnie lub nieruchomościami przeznaczonymi na potrzeby ochrony przed powodzią;
+
+- **2)** inwestorze rozumie się przez to: poz. 960 i 1535),
+    - **a)** Państwowe Gospodarstwo Wodne Wody Polskie, o którym mowa w przepisach ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r.
+    - **b)** urząd morski,
+    - **c)** województwo,
+    - **d)** powiat,
+    - **e)** gminę,
+    - **f)** Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy pełniący państwową służbę hydrologiczno-meteorologiczną na podstawie art. 370 ustawy z dnia 20 lipca 2017 r. – Prawo wodne,
+    - **g)** partnera prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637) – realizujących inwestycję.
 
 **Art. 3.** Inwestycja jest celem publicznym w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080).
 
@@ -153,6 +181,25 @@ Art. 32–35. (pominięte)
 **Art. 8.** W postępowaniu w sprawie wydania decyzji o pozwoleniu na realizację inwestycji przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się. W przypadkach określonych w art. 97 § 1 pkt 1–3 Kodeksu postępowania administracyjnego nie zawiesza się postępowania. Przepisy art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego stosuje się, z zastrzeżeniem, że organ prowadzący postępowanie wyznacza z urzędu przedstawiciela uprawnionego do działania w postępowaniu do czasu wyznaczenia przedstawiciela lub kuratora przez sąd.
 
 **Art. 9.** Decyzja o pozwoleniu na realizację inwestycji zawiera:
+
+- **1)** określenie linii rozgraniczających teren;
+- **2)** warunki wynikające z potrzeb ochrony środowiska, ochrony zabytków i dóbr kultury współczesnej oraz potrzeb obronności państwa;
+- **3)** wymagania dotyczące ochrony uzasadnionych interesów osób trzecich;
+- **4)** zatwierdzenie podziału nieruchomości;
+- **5)** oznaczenie według katastru nieruchomości:
+    - **a)** nieruchomości lub ich części, będących częścią inwestycji, niezbędnych do jej realizacji, które stają się własnością Skarbu Państwa albo jednostki samorządu terytorialnego albo nieruchomości objęte prawem własności albo prawem użytkowania wieczystego Instytutu Meteorologii i Gospodarki Wodnej – Państwowego Instytutu Badawczego – jeżeli inwestorem jest Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy,
+    - **b)** nieruchomości lub ich części, będących częścią inwestycji, niezbędnych do jej funkcjonowania, które nie stają się własnością Skarbu Państwa albo jednostki samorządu terytorialnego albo nieobjętych prawem własności albo prawem użytkowania wieczystego Instytutu Meteorologii i Gospodarki Wodnej – Państwowego Instytutu Badawczego, ale wobec których trwale ogranicza się sposób korzystania,
+    - **c)** nieruchomości przeznaczonych na potrzeby ochrony przed powodzią;
+
+- **6)** zatwierdzenie projektu budowlanego;
+- **7)** warunki określone w decyzji o środowiskowych uwarunkowaniach;
+- **8)** w razie potrzeby inne ustalenia dotyczące określenia:
+    - **a)** szczególnych warunków zabezpieczenia terenu budowy i prowadzenia robót budowlanych,
+    - **b)** czasu użytkowania tymczasowych obiektów budowlanych,
+    - **c)** terminów rozbiórki istniejących obiektów budowlanych nieprzewidzianych do dalszego użytkowania oraz tymczasowych obiektów budowlanych,
+    - **d)** szczegółowych wymagań dotyczących nadzoru na budowie,
+    - **e)** obowiązku dokonania przebudowy istniejącej sieci uzbrojenia terenu,
+    - **f)** ograniczeń w korzystaniu z nieruchomości, z uwzględnieniem obszarów bezpośredniego zagrożenia powodzią oraz obszarów potencjalnego zagrożenia powodzią, lub szczególnego zagrożenia powodzią, o ile zostały wyznaczone.
 
 **Art. 10.**
 

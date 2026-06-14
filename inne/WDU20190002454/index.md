@@ -8,10 +8,10 @@ pos: 2454
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 grudnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2454 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 18 grudnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2454/text.pdf) |
 
-Poz. 2454 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 18 grudnia 2019 r.
-w sprawie szczegółowych kryteriów wynagradzania pracowników Biura Narodowego Centrum Badań i Rozwoju Na podstawie art. 19 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz.
-z 2019 r. poz. 1770 i 2020) zarządza się, co następuje: § 1. Szczegółowymi kryteriami wynagradzania pracowników Biura Narodowego Centrum Badań i Rozwoju są:
+w sprawie szczegółowych kryteriów wynagradzania pracowników Biura Narodowego Centrum Badań i Rozwoju Na podstawie art. 19 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju z 2019 r. poz. 1770 i 2020) zarządza się, co następuje:
+§ 1. Szczegółowymi kryteriami wynagradzania pracowników Biura Narodowego Centrum Badań i Rozwoju są:
 1) wykształcenie i jego przydatność dla realizacji zadań na stanowisku pracy;
 2) znajomość języków obcych i jej przydatność dla realizacji zadań na stanowisku pracy;
 3) doświadczenie zawodowe i jego przydatność dla realizacji zadań na stanowisku pracy;

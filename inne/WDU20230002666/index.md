@@ -8,10 +8,10 @@ pos: 2666
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 grudnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2666 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 8 grudnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2666/text.pdf) |
 
-Poz. 2666 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 8 grudnia 2023 r.
-w sprawie stypendiów i kosztów utrzymania za granicą słuchaczy Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego Na podstawie art. 8a ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie stypendiów i kosztów utrzymania za granicą słuchaczy Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego Na podstawie art. 8a ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wysokość stypendium słuchacza Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwanej dalej „Szkołą”;
 2) sposób obliczania stypendium w przypadku nieobecności słuchacza Szkoły na zajęciach w Szkole;
 3) sposób i tryb wypłacania stypendium;

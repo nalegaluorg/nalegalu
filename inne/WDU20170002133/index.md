@@ -8,10 +8,10 @@ pos: 2133
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2133 RozpoRządzenie MinistRa CyfRyzaCji z dnia 6 listopada 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2133/text.pdf) |
 
-RozpoRządzenie MinistRa CyfRyzaCji z dnia 6 listopada 2017 r.
-w sprawie wzoru wniosku o udostępnienie albo przekazanie danych z centralnej ewidencji kierowców Na podstawie art. 100an ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260 i 1926) zarządza się, co następuje: § 1. Rozporządzenie określa wzór wniosku o udostępnienie albo przekazanie danych z centralnej ewidencji kierowców, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 i art. 100am ust. 2 ustawy z dnia 20 czerwca 1997 r.
-Prawo o ruchu drogowym, stanowiący załącznik do rozporządzenia.
+w sprawie wzoru wniosku o udostępnienie albo przekazanie danych z centralnej ewidencji kierowców Na podstawie art. 100an ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260 i 1926) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wzór wniosku o udostępnienie albo przekazanie danych z centralnej ewidencji kierowców, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 i art. 100am ust. 2 ustawy z dnia 20 czerwca 1997 r.
+– Prawo o ruchu drogowym, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.
 Minister Cyfryzacji: A. Streżyńska
 

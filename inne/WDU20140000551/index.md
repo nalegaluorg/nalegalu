@@ -8,10 +8,10 @@ pos: 551
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 551 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 24 kwietnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/551/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 24 kwietnia 2014 r.
-w sprawie kontroli korzystania z dostępu do danych przetwarzanych w krajowym zbiorze rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych lub systemów teleinformatycznych Na podstawie art. 457 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie kontroli korzystania z dostępu do danych przetwarzanych w krajowym zbiorze rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych lub systemów teleinformatycznych Na podstawie art. 457 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób i tryb przeprowadzania kontroli korzystania z dostępu do danych przetwarzanych w krajowym zbiorze rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych lub systemów teleinformatycznych;
 2) wzór upoważnienia do przeprowadzenia kontroli;
 3) wzór protokołu kontroli.
@@ -70,7 +70,7 @@ f) imiona, nazwiska oraz stanowiska służbowe kontrolujących.
 3. Gdy zachodzi konieczność ustalenia, czy kontrolowane urządzenia telekomunikacyjne, systemy teleinformatyczne lub obiekty są odpowiednio zabezpieczone, kontrolujący może, w obecności kierownika podmiotu kontrolowanego lub osoby przez niego wskazanej, przeprowadzić oględziny.
 4. Z przyjęcia ustnych wyjaśnień lub oświadczeń albo z przeprowadzonych oględzin sporządza się protokół, który podpisują kontrolujący i osoba składająca wyjaśnienia lub oświadczenie albo kontrolujący i osoba obecna przy oględzinach.
 5. Kontrolujący sporządza notatkę służbową z innych czynności przeprowadzonych w toku kontroli.
-§ 8. 1. W aktach kontroli, o których mowa w § 6 pkt 3, kierownik zespołu kontrolnego dokumentuje przebieg i wyniki
+§ 8. 1. W aktach kontroli, o których mowa w § 6 pkt 3, kierownik zespołu kontrolnego dokumentuje przebieg i wyniki czynności kontrolnych.
 2. Akta kontroli zawierają w szczególności:
 1) wykaz zawartości akt kontroli, ze wskazaniem stron dokumentów;
 2) program kontroli;
@@ -136,7 +136,7 @@ Wzmianka o doręczeniu egzemplarza protokołu kierownikowi podmiotu kontrolowane
 ...........................................................
 ........................................................... ...........................................................
 ...........................................................
-W przypadku odmowy podpisania protokołu wzmianka o tym fakcie: .....................................................................................................................................................................................................
+W przypadku odmowy podpisania protokołu – wzmianka o tym fakcie: .....................................................................................................................................................................................................
 .....................................................................................................................................................................................................
 .....................................................................................................................................................................................................
 

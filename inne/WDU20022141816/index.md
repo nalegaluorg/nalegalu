@@ -8,7 +8,7 @@ pos: 1816
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. akt P 6/02 W imieniu Rzeczypospolitej Polskiej Jerzy Stępień — przewodniczący Jerzy Ciemniewski Marian Grzybowski Marian Zdyb — sprawozdawca Bohdan Zdziennicki, po rozpoznaniu, z udziałem Sejmu, Prokuratora Generalnego i Prezesa Rady Ministrów, na rozprawie w dniu 10 grudnia 2002 r.: I) pytania prawnego Naczelnego Sądu Administracyjnego w Warszawie o zbadanie zgodności: — art. 13 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz.

@@ -8,7 +8,7 @@ pos: 1069
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
@@ -37,7 +37,17 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** prawnik zagraniczny – prawnika z Unii Europejskiej i prawnika spoza Unii Europejskiej;
+- **2)** prawnik z Unii Europejskiej – osobę będącą obywatelem państwa członkowskiego Unii Europejskiej, uprawnioną do wykonywania zawodu przy użyciu jednego z tytułów zawodowych uzyskanych w państwie członkowskim Unii Europejskiej, określonych w wykazie stanowiącym załącznik nr 1 do ustawy;
+- **3)** prawnik spoza Unii Europejskiej – osobę niebędącą obywatelem państwa członkowskiego Unii Europejskiej, uprawnioną do wykonywania zawodu przy użyciu jednego z tytułów zawodowych, o których mowa w pkt 2, a także każdą osobę, która przy użyciu tytułu zawodowego uzyskanego w państwie niebędącym członkiem Unii Europejskiej jest uprawniona do wykonywania zawodu odpowiadającego – pod względem wykształcenia i uprawnień oraz podstawowych zasad jego organizacji i wykonywania – zawodowi adwokata lub radcy prawnego;
+- **4)** usługa transgraniczna – jednorazową lub mającą charakter przejściowy czynność z zakresu pomocy prawnej, wykonywaną w Rzeczypospolitej Polskiej przez prawnika zagranicznego wykonującego stałą praktykę w innym państwie;
+- **5)** stała praktyka – stałe i systematyczne świadczenie pomocy prawnej przez prawnika zagranicznego w Rzeczypospolitej Polskiej;
+- **6)** państwo macierzyste – państwo, w którym prawnik zagraniczny uzyskał prawo do używania jednego z tytułów zawodowych, o których mowa w pkt 2 i 3.
+
 **Art. 2a.** Przepisy ustawy dotyczące prawników z Unii Europejskiej stosuje się odpowiednio także do osób, które:
+
+- **1)** są obywatelami państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, uprawnionymi do wykonywania zawodu przy użyciu jednego z tytułów zawodowych uzyskanych w tych państwach, określonych w wykazie stanowiącym załącznik nr 2 do ustawy albo przy użyciu jednego z tytułów zawodowych uzyskanych w państwach członkowskich Unii Europejskiej, określonych w wykazie stanowiącym załącznik nr 1 do ustawy;
+- **2)** są obywatelami państw członkowskich Unii Europejskiej, uprawnionymi do wykonywania zawodu przy użyciu jednego z tytułów zawodowych uzyskanych w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, określonych w wykazie stanowiącym załącznik nr 2 do ustawy.
 
 ### DZIAŁ II Wykonywanie stałej praktyki
 
@@ -161,6 +171,20 @@ source: "isap-pdf"
 **Art. 18.** Prawnik spoza Unii Europejskiej wpisany na listę prowadzoną przez okręgową radę adwokacką jest uprawniony, w ramach wykonywania stałej praktyki, jedynie do udzielania porad prawnych i sporządzania opinii prawnych dotyczących prawa państwa macierzystego lub prawa międzynarodowego, w zakresie odpowiadającym zawodowi adwokata, a prawnik spoza Unii Europejskiej wpisany na listę prowadzoną przez radę okręgowej izby radców prawnych jest uprawniony, w ramach wykonywania stałej praktyki, jedynie do udzielania porad prawnych i sporządzania opinii prawnych dotyczących prawa państwa macierzystego lub prawa międzynarodowego, w zakresie odpowiadającym zawodowi radcy prawnego.
 
 **Art. 19.** W celu wykonywania stałej praktyki prawnicy spoza Unii Europejskiej mogą tworzyć:
+
+- **1)** spółki jawne, w których wspólnikami są wyłącznie:
+    - **a)** prawnicy zagraniczni lub
+    - **b)** adwokaci, lub
+    - **c)** radcowie prawni, lub
+    - **d)** doradcy podatkowi, lub
+    - **e)** rzecznicy patentowi;
+
+- **2)** spółki komandytowo-akcyjne lub spółki komandytowe, w których komplementariuszami są wyłącznie:
+    - **a)** prawnicy zagraniczni lub
+    - **b)** adwokaci, lub
+    - **c)** radcowie prawni, lub
+    - **d)** doradcy podatkowi, lub
+    - **e)** rzecznicy patentowi.
 
 **Art. 20.**
 

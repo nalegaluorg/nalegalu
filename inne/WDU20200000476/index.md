@@ -8,10 +8,10 @@ pos: 476
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 marca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 476 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 9 marca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/476/text.pdf) |
 
-Poz. 476 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 9 marca 2020 r.
-w sprawie dokumentów związanych z czynnościami bankowymi, sporządzanych na informatycznych nośnikach danych Na podstawie art. 7 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284, 288 i 321) zarządza się, co następuje: § 1. Rozporządzenie określa sposób tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania, w tym przy zastosowaniu podpisu elektronicznego, dokumentów związanych z czynnościami bankowymi, sporządzanych na informatycznych nośnikach danych.
+w sprawie dokumentów związanych z czynnościami bankowymi, sporządzanych na informatycznych nośnikach danych Na podstawie art. 7 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284, 288 i 321) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania, w tym przy zastosowaniu podpisu elektronicznego, dokumentów związanych z czynnościami bankowymi, sporządzanych na informatycznych nośnikach danych.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
 1) podpisie elektronicznym – należy przez to rozumieć kwalifikowany podpis elektroniczny albo inny podpis elektroniczny zgodny z umową stron, a w przypadku dokumentów wewnętrznych banku, zgodny z jego przepisami wewnętrznymi;
 2) integralności – należy przez to rozumieć właściwość polegającą na tym, że zawartość dokumentu nie uległa zmianie od chwili jego utworzenia;
@@ -37,7 +37,6 @@ w sprawie dokumentów związanych z czynnościami bankowymi, sporządzanych na i
 2. Dokument może być przechowywany w formie rozproszonej i zdecentralizowanej bazy danych. Bank prowadzi bazę danych w sposób zapewniający bezpieczeństwo i integralność zawartych w niej dokumentów.
 3. Jeżeli okres trwałości zapisu na informatycznym nośniku danych, określony przez producenta tego nośnika, jest krótszy od wymaganego okresu przechowywania dokumentu, utrwalony na tym nośniku dokument przenosi się na inny informatyczny nośnik danych przed upływem określonego przez producenta okresu trwałości zapisu. Informatyczny nośnik danych, z którego przeniesiono dokument, podlega modyfikacji w celu uniemożliwienia odtworzenia dokumentu.
 4. Dokumenty przechowuje się w co najmniej dwóch kopiach, każda na innym informatycznym nośniku danych. Informatyczne nośniki danych, na których zostały sporządzone kopie dokumentu, są przechowywane w oddalonych od siebie lokalizacjach, w sposób zapewniający bezpieczeństwo dokumentów.
-Dziennik Ustaw – 2 – Poz. 476
 5. Dokumenty mogą być kopiowane na inny informatyczny nośnik danych pod nadzorem osób, które zostały uprawnione zgodnie z przepisami wewnętrznymi banku, z zachowaniem zasad bezpieczeństwa obrotu oraz ochrony interesów banków i ich klientów.
 6. Każdy informatyczny nośnik danych użyty do przechowywania dokumentów powinien zawierać oznaczenie umożliwiające identyfikację tego nośnika (identyfikator).
 7. Po upływie wymaganego okresu przechowywania dokument usuwa się z informatycznego nośnika danych w sposób nieodwracalny. W przypadku upływu wymaganego okresu przechowywania wszystkich dokumentów utrwalonych na informatycznym nośniku danych nośnik ten podlega modyfikacji w celu uniemożliwienia odtworzenia tych dokumentów.

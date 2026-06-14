@@ -8,10 +8,12 @@ pos: 621
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Energii Atomowej bez zawarcia umowy, której mowa art. 50 ust. 2 Traktatu Unii Europejskiej
+# o uregulowaniu niektórych spraw związanych z uznawaniem kwalifikacji zawodowych w związku z wystąpieniem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej bez zawarcia umowy, o której mowa w art. 50 ust. 2 Traktatu o Unii Europejskiej
+
+*USTAWA z dnia 15 marca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,43 +29,53 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje sprawy związane z:
 
+- **1)** uznawaniem kwalifikacji zawodowych do wykonywania zawodów regulowanych oraz do podejmowania lub wykonywania działalności regulowanych, nabytych w:
+    - **a)** Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, zwanym dalej „Zjednoczonym Królestwem”,
+    - **b)** innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej, zwanych dalej „państwami członkowskimi”, przez obywateli Zjednoczonego Królestwa i członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293), zwanej dalej „ustawą o wjeździe na terytorium RP”,
+
+- **2)** świadczeniem usług transgranicznych przez obywateli Zjednoczonego Królestwa i członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP,
+- **3)** europejskimi legitymacjami zawodowymi wydawanymi obywatelom Zjednoczonego Królestwa i członkom ich rodzin w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP – w związku z wystąpieniem Zjednoczonego Królestwa z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej (Dz. U. z 2004 r. poz. 864).
+
 **Art. 2.**
 
-1. Wydane przed dniem wejścia życie ustawy decyzje uznaniu Rzeczypospolitej Polskiej kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej oraz decyzje uznaniu kwalifikacji zawodowych celu przyznania częściowego dostępu do zawodu regulowanego, nabytych Zjednoczonym Królestwie:
+1. Wydane przed dniem wejścia w życie ustawy decyzje o uznaniu w Rzeczypospolitej Polskiej kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej oraz decyzje o uznaniu kwalifikacji zawodowych w celu przyznania częściowego dostępu do zawodu regulowanego, nabytych w Zjednoczonym Królestwie:
 
-- **1)** przez osoby, których mowa art. 2 ust. 1 ustawy z dnia 22 grudnia 2015 r. zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. U. z 2018 r. poz. 2272 oraz z 2019 r. poz. 534
-- **577)** , zwanej dalej „ustawą uznawaniu kwalifikacji”,
-- **2)** przez obywateli Zjednoczonego Królestwa lub członków ich rodzin rozumieniu art. 2 pkt 4 ustawy wjeździe na terytorium RP – zachowują moc.
+- **1)** przez osoby, o których mowa w art. 2 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2018 r. poz. 2272 oraz z 2019 r. poz. 534 i 577), zwanej dalej „ustawą o uznawaniu kwalifikacji”,
+- **2)** przez obywateli Zjednoczonego Królestwa lub członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP – zachowują moc.
 
-2. Wydane przed dniem wejścia życie ustawy decyzje uznaniu Rzeczypospolitej Polskiej kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej oraz decyzje uznaniu kwalifikacji zawodowych celu przyznania częściowego dostępu do zawodu regulowanego, nabytych innych niż Rzeczpospolita Polska państwach członkowskich przez obywateli Zjednoczonego Królestwa lub członków ich rodzin rozumieniu art. 2 pkt 4 ustawy wjeździe na terytorium RP, zachowują moc.
+2. Wydane przed dniem wejścia w życie ustawy decyzje o uznaniu w Rzeczypospolitej Polskiej kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej oraz decyzje o uznaniu kwalifikacji zawodowych w celu przyznania częściowego dostępu do zawodu regulowanego, nabytych w innych niż Rzeczpospolita Polska państwach członkowskich przez obywateli Zjednoczonego Królestwa lub członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP, zachowują moc.
 
 **Art. 3.**
 
-1. Wszczęte niezakończone przed dniem wejścia życie ustawy postępowania sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej, nabytych Zjednoczonym Królestwie, oraz postępowania sprawie uznania tych kwalifikacji celu przyznania częściowego dostępu do zawodu regulowanego, prowadzone wobec osób, których mowa art. 2 ust. 1 ustawy uznawaniu kwalifikacji, prowadzi się na podstawie przepisów ustawy uznawaniu kwalifikacji, a przypadku zawodów, których mowa załączniku V do dyrektywy 2005/36/WE Parlamentu Europejskiego Rady z dnia 7 września 2005 r. sprawie stwa albo członek jego rodziny rozumieniu art. 2 pkt 4 ustawy wjeździe na terytorium RP, wygasają.
+1. Wszczęte i niezakończone przed dniem wejścia w życie ustawy postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej, nabytych w Zjednoczonym Królestwie, oraz postępowania w sprawie uznania tych kwalifikacji w celu przyznania częściowego dostępu do zawodu regulowanego, prowadzone wobec osób, o których mowa w art. 2 ust. 1 ustawy o uznawaniu kwalifikacji, prowadzi się na podstawie przepisów ustawy o uznawaniu kwalifikacji, a w przypadku zawodów, o których mowa w załączniku V do dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, z późn. zm. ) – również przepisów regulujących dostęp do tych zawodów, jednak nie dłużej niż przez okres 42 miesięcy od dnia wejścia w życie ustawy. Po upływie tego okresu niezakończone postępowania umarza się.
+
+2. Wszczęte i niezakończone przed dniem wejścia w życie ustawy postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej, prowadzone wobec obywateli Zjednoczonego Królestwa lub członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP, umarza się.
+
+**Art. 4.** Decyzje o uznaniu kwalifikacji zawodowych usługodawcy wydane przed dniem wejścia w życie ustawy na podstawie art. 34 ust. 2 pkt 1 i ust. 4 ustawy o uznawaniu kwalifikacji, których stroną jest obywatel Zjednoczonego Królestwa albo członek jego rodziny w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP, wygasają.
 
 **Art. 5.**
 
-1. Wszczęte niezakończone przed dniem wejścia życie ustawy postępowania sprawie uznania kwalifikacji zawodowych usługodawcy, których mowa art. 34 ustawy uznawaniu kwalifikacji, nabytych Zjednoczonym Królestwie przez osoby, których mowa art. 2 ust. 1 ustawy uznawaniu kwalifikacji, prowadzi się na zasadach określonych ustawie uznawaniu kwalifikacji.
+1. Wszczęte i niezakończone przed dniem wejścia w życie ustawy postępowania w sprawie uznania kwalifikacji zawodowych usługodawcy, o których mowa w art. 34 ustawy o uznawaniu kwalifikacji, nabytych w Zjednoczonym Królestwie przez osoby, o których mowa w art. 2 ust. 1 ustawy o uznawaniu kwalifikacji, prowadzi się na zasadach określonych w ustawie o uznawaniu kwalifikacji.
 
-2. Wszczęte niezakończone przed dniem wejścia życie ustawy postępowania sprawie uznania kwalifikacji zawodowych usługodawcy, których mowa art. 34 ustawy uznawaniu kwalifikacji, nabytych państwach członkowskich przez obywateli Zjednoczonego Królestwa albo członków ich rodzin rozumieniu art. 2 pkt 4 ustawy wjeździe na terytorium RP umarza się.
+2. Wszczęte i niezakończone przed dniem wejścia w życie ustawy postępowania w sprawie uznania kwalifikacji zawodowych usługodawcy, o których mowa w art. 34 ustawy o uznawaniu kwalifikacji, nabytych w państwach członkowskich przez obywateli Zjednoczonego Królestwa albo członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP umarza się.
 
-3. Opłata za wydanie decyzji, której mowa art. 34 ust. 6 ustawy uznawaniu kwalifikacji, wniesiona postępowaniu umorzonym zgodnie z ust. 2, podlega zwrotowi terminie 2 miesięcy od dnia wejścia życie ustawy.
+3. Opłata za wydanie decyzji, o której mowa w art. 34 ust. 6 ustawy o uznawaniu kwalifikacji, wniesiona w postępowaniu umorzonym zgodnie z ust. 2, podlega zwrotowi w terminie 2 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 6.** Europejskie legitymacje zawodowe wydane obywatelom Zjednoczonego Królestwa oraz członkom ich rodzin rozumieniu art. 2 pkt 4 ustawy wjeździe na terytorium RP tracą ważność. Przepisu art. 49 ust. 1 pkt 2 ustawy uznawaniu kwalifikacji nie stosuje się.
+**Art. 6.** Europejskie legitymacje zawodowe wydane obywatelom Zjednoczonego Królestwa oraz członkom ich rodzin w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP tracą ważność. Przepisu art. 49 ust. 1 pkt 2 ustawy o uznawaniu kwalifikacji nie stosuje się.
 
 **Art. 7.**
 
-1. Wszczęte niezakończone przed dniem wejścia życie ustawy postępowania sprawie wydania europejskiej legitymacji zawodowej prowadzone wobec obywateli Zjednoczonego Królestwa albo członków ich rodzin rozumieniu art. 2 pkt 4 ustawy wjeździe na terytorium RP, tym postępowania sprawie aktualizacji, cofnięcia, przedłużenia okresu ważności oraz przekazania do innych państw członkowskich europejskiej legitymacji zawodowej zastępującej oświadczenie zamiarze świadczenia usługi transgranicznej, umarza się.
+1. Wszczęte i niezakończone przed dniem wejścia w życie ustawy postępowania w sprawie wydania europejskiej legitymacji zawodowej prowadzone wobec obywateli Zjednoczonego Królestwa albo członków ich rodzin w rozumieniu art. 2 pkt 4 ustawy o wjeździe na terytorium RP, w tym postępowania w sprawie aktualizacji, cofnięcia, przedłużenia okresu ważności oraz przekazania do innych państw członkowskich europejskiej legitymacji zawodowej zastępującej oświadczenie o zamiarze świadczenia usługi transgranicznej, umarza się.
 
-2. Opłata za wydanie europejskiej legitymacji zawodowej, której mowa art. 43 ust. 3 art. 45 ust. 8 ustawy uznawaniu kwalifikacji, wniesiona postępowaniu umorzonym zgodnie z ust. 1, podlega zwrotowi terminie 2 miesięcy od dnia wejścia życie ustawy.
+2. Opłata za wydanie europejskiej legitymacji zawodowej, o której mowa w art. 43 ust. 3 i art. 45 ust. 8 ustawy o uznawaniu kwalifikacji, wniesiona w postępowaniu umorzonym zgodnie z ust. 1, podlega zwrotowi w terminie 2 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 8.**
 
-1. W okresie od dnia wejścia życie ustawy do dnia 31 grudnia 2021 r. osoby, których mowa art. 2 ust. 1 ustawy uznawaniu kwalifikacji, mogą ubiegać się uznanie kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej, nabytych Zjednoczonym Królestwie na zasadach określonych ustawie uznawaniu kwalifikacji. Postępowanie prowadzi się na tych zasadach nie dłużej niż przez okres 42 miesięcy od dnia jego wszczęcia.
+1. W okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2021 r. osoby, o których mowa w art. 2 ust. 1 ustawy o uznawaniu kwalifikacji, mogą ubiegać się o uznanie kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej, nabytych w Zjednoczonym Królestwie na zasadach określonych w ustawie o uznawaniu kwalifikacji. Postępowanie prowadzi się na tych zasadach nie dłużej niż przez okres 42 miesięcy od dnia jego wszczęcia.
 
-2. Przepisu ust. 1 nie stosuje się do uznawania kwalifikacji zawodowych do wykonywania zawodów, których mowa załączniku V do dyrektywy 2005/36/WE Parlamentu Europejskiego Rady z dnia 7 września 2005 r. sprawie uznawania kwalifikacji zawodowych, nabytych Zjednoczonym Królestwie.
+2. Przepisu ust. 1 nie stosuje się do uznawania kwalifikacji zawodowych do wykonywania zawodów, o których mowa w załączniku V do dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych, nabytych w Zjednoczonym Królestwie.
 
-**Art. 9.** Minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej ogłosi, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, dzień wystąpienia Zjednoczonego Królestwa z Unii Europejskiej bez zawarcia umowy, której mowa art. 50 ust. 2 zdanie drugie Traktatu Unii Europejskiej.
+**Art. 9.** Minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, dzień wystąpienia Zjednoczonego Królestwa z Unii Europejskiej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej.
 
-**Art. 10.** Ustawa wchodzi życie z dniem wystąpienia Zjednoczonego Królestwa z Unii Europejskiej bez zawarcia umowy, której mowa art. 50 ust. 2 zdanie drugie Traktatu Unii Europejskiej.
+**Art. 10.** Ustawa wchodzi w życie z dniem wystąpienia Zjednoczonego Królestwa z Unii Europejskiej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej.
 

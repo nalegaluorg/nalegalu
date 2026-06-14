@@ -8,7 +8,7 @@ pos: 2135
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-08-27 |
 | Data wydania | 2004-09-27 |
-| Ostatnia zmiana | 2026-04-29 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042102135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2135/text.pdf) |
 
 Art. 31la. 1. Taryfikacja świadczeń opieki zdrowotnej jest prowadzona na podstawie planu taryfikacji Agencji sporządzanego na rok kalendarzowy.
@@ -119,6 +119,17 @@ Art. 196–228. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** warunki udzielania i zakres świadczeń opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** zasady i tryb finansowania świadczeń, o których mowa w pkt 1;
+- **2a)** zasady i tryb kwalifikowania świadczeń opieki zdrowotnej jako świadczeń gwarantowanych;
+- **3)** zadania władz publicznych w zakresie zapewnienia równego dostępu do świadczeń, o których mowa w pkt 1;
+- **4)** zasady powszechnego – obowiązkowego i dobrowolnego ubezpieczenia zdrowotnego;
+- **5)** podstawy instytucjonalno-proceduralne do stosowania przepisów o koordynacji w rozumieniu art. 5 pkt 32;
+- **6)** zasady funkcjonowania, organizację i zadania Narodowego Funduszu Zdrowia, zwanego dalej „Funduszem”;
+- **6a)** zasady funkcjonowania, organizację i zadania Agencji Oceny Technologii Medycznych i Taryfikacji, zwanej dalej „Agencją”;
+- **7)** zasady sprawowania nadzoru i kontroli nad finansowaniem i realizacją świadczeń, o których mowa w pkt 1;
+- **8)** wysokość odpisu dla Agencji Badań Medycznych.
+
 **Art. 2.**
 
 1. Do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie mają prawo:
@@ -163,9 +174,112 @@ Art. 196–228. (pominięte)
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
 
+- **1)** ambulatoryjna opieka zdrowotna – udzielanie przez świadczeniodawców świadczeń opieki zdrowotnej osobom niewymagającym leczenia w warunkach całodobowych lub całodziennych;
+- **2)** apteka – aptekę ogólnodostępną lub punkt apteczny, z którymi Fundusz zawarł umowę na wydawanie leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego objętych refundacją;
+- **2a)** ciągłość udzielanych świadczeń opieki zdrowotnej – organizację udzielania świadczeń opieki zdrowotnej zapewniającą kontynuację procesu diagnostycznego lub terapeutycznego, w szczególności ograniczającą ryzyko przerwania procesu leczenia świadczeniobiorców w ramach danego zakresu świadczeń opieki zdrowotnej realizowanego na podstawie umowy o udzielanie świadczeń opieki zdrowotnej, w dniu złożenia oferty w postępowaniu w sprawie zawarcia umów;
+- **3)** członek rodziny – następujące osoby:
+    - **a)** dziecko własne, dziecko małżonka, dziecko przysposobione, wnuka albo dziecko obce, dla którego ustanowiono opiekę, albo dziecko obce w ramach rodziny zastępczej lub rodzinnego domu dziecka, do ukończenia przez nie 18 lat, a jeżeli uczy się dalej w szkole lub odbywa kształcenie w uczelni lub szkole doktorskiej – do ukończenia 26 lat, natomiast jeżeli posiada orzeczenie o znacznym stopniu niepełnosprawności lub inne traktowane na równi – bez ograniczenia wieku,
+    - **b)** małżonka,
+    - **c)** wstępnych pozostających z ubezpieczonym we wspólnym gospodarstwie domowym;
+
+- **3a)** działacz opozycji antykomunistycznej – osobę, o której mowa w art. 2 ust. 1 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz.
+- **906)** , o potwierdzonym statusie działacza opozycji antykomunistycznej;
+- **4)** felczer ubezpieczenia zdrowotnego – felczera lub starszego felczera udzielającego świadczeń opieki zdrowotnej u świadczeniodawcy, z którym zawarto umowę o udzielanie świadczeń opieki zdrowotnej;
+- **4a)** Fundusz Medyczny – Fundusz Medyczny, o którym mowa w ustawie z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889);
+- **5)** inwalida wojenny lub wojskowy – osobę, o której mowa w art. 6–8 lub w art. 30 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2025 r. poz. 195);
+- **5a)** cywilna niewidoma ofiara działań wojennych – osobę, o której mowa w art. 1 ust. 2 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. z 2021 r. poz. 1820);
+- **6)** instytucja wypłacająca emeryturę lub rentę – instytucję wypłacającą rentę strukturalną zgodnie z przepisami o rentach strukturalnych, przepisami o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej lub przepisami o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich;
+- **6a)** karta diagnostyki i leczenia onkologicznego – kartę diagnostyki i leczenia onkologicznego, o której mowa w art. 39 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. z 2024 r. poz. 1208);
+- **7)** kombatant – osobę, o której mowa w art. 1–4 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039);
+- **7a)** kompleksowość udzielanych świadczeń opieki zdrowotnej – możliwość realizacji świadczeń opieki zdrowotnej w zakresach, o których mowa w art. 15 ust. 2, obejmującą niezbędne etapy i elementy procesu ich realizacji, w szczególności strukturę świadczeń opieki zdrowotnej w danym zakresie albo zakresach;
+- **8)** korzystający – organizację, podmiot, organ administracji publicznej oraz jednostkę organizacyjną, o których mowa w art. 42 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940);
+- **9)** lek – produkt leczniczy w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905 i 924);
+- **10)** (uchylony)
+- **11)** lek recepturowy – produkt leczniczy sporządzony w aptece na podstawie recepty lekarskiej;
+- **12)** (uchylony)
+- **13)** (uchylony) 13a) lekarz podstawowej opieki zdrowotnej – lekarza, o którym mowa w art. 6 ust. 1 i 2 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2025 r. poz. 515);
+- **14)** lekarz ubezpieczenia zdrowotnego – lekarza, lekarza dentystę będącego świadczeniodawcą, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej, albo lekarza, lekarza dentystę, który jest zatrudniony lub wykonuje zawód u świadczeniodawcy, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej;
+- **14a)** migracja ubezpieczonych – korzystanie przez ubezpieczonych oraz osoby uprawnione do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, zarejestrowanych w danym oddziale wojewódzkim Funduszu, ze świadczeń opieki zdrowotnej udzielanych na terytorium innych oddziałów wojewódzkich Funduszu, z wyłączeniem świadczeń, o których mowa w art. 118 ust. 2 pkt 1 lit. e, lub nabywanie przez ubezpieczonych oraz osoby uprawnione do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, zarejestrowanych w danym oddziale wojewódzkim Funduszu, leków i wyrobów medycznych, bezpłatnie, za opłatą ryczałtową albo za częściową odpłatnością, w aptekach działających na terytorium innych oddziałów wojewódzkich Funduszu;
+- **15)** minimalne wynagrodzenie – minimalne wynagrodzenie, o którym mowa w art. 2 ust. 3–5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773);
+- **15a)** Narodowy Rachunek Zdrowia – zestawienie wszystkich wydatków na ochronę zdrowia, uwzględniające źródła finansowania ochrony zdrowia, dostawców usług medycznych oraz funkcje tych usług, oparte na zasadach przejrzystości i rzetelności gromadzonych danych;
+- **16)** (uchylony)
+- **17)** niepełnosprawny – osobę, o której mowa w art. 4–5 i 62 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913);
+- **17a)** nocna i świąteczna opieka zdrowotna – świadczenia opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej udzielane przez świadczeniodawców poza godzinami pracy określonymi w umowach o udzielanie świadczeń podstawowej opieki zdrowotnej, w szczególności w dni wolne od pracy i w święta, w przypadku nagłego zachorowania lub nagłego pogorszenia stanu zdrowia świadczeniobiorcy, które nie jest stanem nagłym;
+- **18)** odbywający staż adaptacyjny – wnioskodawcę odbywającego staż adaptacyjny w rozumieniu przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334 oraz z 2025 r. poz. 619);
+- **19)** osoba bezdomna wychodząca z bezdomności – osobę objętą indywidualnym programem wychodzenia z bezdomności zgodnie z przepisami o pomocy społecznej;
+- **19a)** osoba deportowana do pracy przymusowej – osobę deportowaną do pracy przymusowej lub osadzoną w obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich, której przyznano uprawnienie do świadczenia pieniężnego, o którym mowa w art. 1a ust. 1 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2021 r. poz. 1818);
+- **20)** osoba pobierająca emeryturę lub rentę: o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2023 r. poz. 922),
+    - **a)** osobę objętą zaopatrzeniem emerytalnym lub rentowym, z wyłączeniem dzieci do 18. roku życia pobierających rentę rodzinną,
+    - **b)** osobę pobierającą świadczenie pieniężne, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia, z wyłączeniem dzieci do 18. roku życia pobierających to świadczenie,
+    - **c)** osobę pobierającą rentę socjalną albo rentę strukturalną na podstawie ustawy z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie (Dz. U. z 2018 r. poz. 872) lub ustawy z dnia 28 listopada 2003 r.
+    - **d)** osobę otrzymującą emeryturę lub rentę z zagranicy;
+
+- **20a)** osoba pobierająca rodzicielskie świadczenie uzupełniające – osobę, o której mowa w art. 3 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051 oraz z 2025 r. poz. 620);
+- **21)** osoba prowadząca działalność pozarolniczą – osobę, o której mowa w art. 8 ust. 6 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
+- **22)** osoba represjonowana – osobę, o której mowa w art. 12 ust. 2 pkt 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego;
+- **22a)** osoba represjonowana z powodów politycznych – osobę, o której mowa w art. 3 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych, o potwierdzonym statusie osoby represjonowanej z powodów politycznych;
+- **23)** osoba uprawniona do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji – osobę, która nie jest ubezpieczona w Funduszu i posiada prawo do świadczeń opieki zdrowotnej na podstawie ustawodawstwa innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, a której przysługują na terytorium Rzeczypospolitej Polskiej świadczenia opieki zdrowotnej z ubezpieczenia zdrowotnego na podstawie przepisów o koordynacji;
+- **24)** osoba współpracująca – osobę, o której mowa w art. 8 ust. 11 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
+- **25)** pielęgniarka podstawowej opieki zdrowotnej – pielęgniarkę, o której mowa w art. 7 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej;
+- **26)** pielęgniarka lub położna ubezpieczenia zdrowotnego – pielęgniarkę lub położną będącą świadczeniodawcą, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej, albo pielęgniarkę lub położną zatrudnioną lub wykonującą zawód u świadczeniodawcy, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej;
+- **26a)** podmiot kontrolowany – świadczeniodawcę, osobę uprawnioną w rozumieniu ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907 i 1192), zwanej dalej „ustawą o refundacji”, lub aptekę, u których jest prowadzona kontrola, o której mowa w dziale IIIA;
+- **27)** podstawowa opieka zdrowotna – podstawową opiekę zdrowotną, o której mowa w art. 2 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej;
+- **28)** położna podstawowej opieki zdrowotnej – położną, o której mowa w art. 8 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej;
+- **28a)** poradnia przyszpitalna – komórkę organizacyjną podmiotu leczniczego prowadzącego szpital, zlokalizowaną w tej samej co szpital dzielnicy, o której mowa w ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153) albo w ustawie z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2018 r. poz. 1817), a w przypadku gmin, w których nie wprowadzono podziału na dzielnice – w tej samej gminie, i tworzącą funkcjonalną całość ze szpitalem, w której są udzielane ambulatoryjne świadczenia zdrowotne odpowiadające, co do rodzaju udzielanych świadczeń, świadczeniom szpitalnym;
+- **29)** potrzeby zdrowotne – liczbę i rodzaj świadczeń opieki zdrowotnej, które powinny być zapewnione w celu zachowania, przywrócenia lub poprawy zdrowia danej grupy świadczeniobiorców;
+- **29a)** program polityki zdrowotnej – zespół zaplanowanych i zamierzonych działań z zakresu opieki zdrowotnej ocenianych jako skuteczne, bezpieczne i uzasadnione, umożliwiających osiągnięcie w określonym terminie założonych celów, polegających na wykrywaniu i zrealizowaniu określonych potrzeb zdrowotnych oraz poprawy stanu zdrowia określonej grupy świadczeniobiorców, opracowany, wdrażany, realizowany i finansowany przez ministra albo jednostkę samorządu terytorialnego;
+- **30)** program zdrowotny – zespół zaplanowanych i zamierzonych działań z zakresu opieki zdrowotnej ocenianych jako skuteczne, bezpieczne i uzasadnione, umożliwiających osiągnięcie w określonym terminie założonych celów, polegających na wykrywaniu i zrealizowaniu określonych potrzeb zdrowotnych oraz poprawy stanu zdrowia określonej grupy świadczeniobiorców, opracowany, wdrażany, realizowany i finansowany przez Fundusz;
+- **30a)** program pilotażowy – zespół zaplanowanych działań z zakresu opieki zdrowotnej o charakterze testowym, dotyczących nowych warunków organizacji, realizacji lub nowego sposobu finansowania świadczeń opieki zdrowotnej, poprzedzających wdrożenie rozwiązań systemowych;
+- **31)** przeciętne wynagrodzenie – przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw z poprzedniego kwartału, włącznie z wypłatami z zysku, ogłaszane przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
+- **32)** przepisy o koordynacji – przepisy dotyczące koordynacji systemów zabezpieczenia społecznego w zakresie udzielania rzeczowych świadczeń zdrowotnych określone w:
+    - **a)** rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm. ),
+    - **b)** rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm. ),
+    - **c)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1231/2010 z dnia 24 listopada 2010 r. rozszerzającym rozporządzenie (WE) nr 883/2004 i rozporządzenie (WE) nr 987/2009 na obywateli państw trzecich, którzy nie są jeszcze objęci tymi rozporządzeniami jedynie ze względu na swoje obywatelstwo (Dz. Urz. UE L 344 z 29.12.2010, str. 1),
+    - **d)** decyzjach wydanych na podstawie przepisów rozporządzeń, o których mowa w lit. a–c,
+    - **e)** umowie o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE C 384 z 12.11.2019, str. 1),
+    - **f)** protokole w sprawie koordynacji systemów zabezpieczenia społecznego do umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony (Dz. Urz. UE L 149 z 30.04.2021, str. 10) oraz w decyzjach wydanych na podstawie tej umowy;
+
+- **32a)** rachunek – fakturę w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896 i 1203) lub rachunek w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. );
+- **32b)** (uchylony) 32c) system IOWISZ – system teleinformatyczny, o którym mowa w art. 31a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302 i 779);
+- **33)** stan nagły – stan, o którym mowa w art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637);
+- **33a)** transport sanitarny – przewóz osób albo materiałów biologicznych i materiałów wykorzystywanych do udzielania świadczeń zdrowotnych, wymagających specjalnych warunków transportu;
+- **33b)** środek spożywczy specjalnego przeznaczenia żywieniowego – środek spożywczy specjalnego przeznaczenia żywieniowego w rozumieniu ustawy o refundacji;
+- **34)** świadczenie opieki zdrowotnej – świadczenie zdrowotne, świadczenie zdrowotne rzeczowe i świadczenie towarzyszące;
+- **35)** świadczenie gwarantowane – świadczenie opieki zdrowotnej finansowane w całości lub współfinansowane ze środków publicznych na zasadach i w zakresie określonych w ustawie;
+- **36)** świadczenie specjalistyczne – świadczenie opieki zdrowotnej we wszystkich dziedzinach medycyny z wyłączeniem świadczeń udzielanych w zakresie podstawowej opieki zdrowotnej;
+- **37)** świadczenie zdrowotne rzeczowe – związane z procesem leczenia leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne;
+- **38)** świadczenie towarzyszące – zakwaterowanie i adekwatne do stanu zdrowia wyżywienie w szpitalu lub w innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej, usługi transportu oraz transportu sanitarnego, a także zakwaterowanie poza zakładem leczniczym podmiotu leczniczego, jeżeli konieczność jego zapewnienia wynika z warunków określonych dla danego świadczenia gwarantowanego;
+- **39)** świadczenie wysokospecjalistyczne – świadczenie opieki zdrowotnej lub procedurę medyczną spełniające łącznie następujące kryteria:
+    - **a)** udzielenie świadczenia wymaga wysokiego poziomu zaawansowania technicznego świadczeniodawcy i zaawansowanych umiejętności osób udzielających świadczenia,
+    - **b)** koszt jednostkowy świadczenia jest wysoki;
+
+- **40)** świadczenie zdrowotne – działanie służące profilaktyce, zachowaniu, ratowaniu, przywracaniu lub poprawie zdrowia oraz inne działanie medyczne wynikające z procesu leczenia lub przepisów odrębnych regulujących zasady ich udzielania;
+- **41)** świadczeniodawca: poz. 608);
+    - **a)** podmiot wykonujący działalność leczniczą w rozumieniu przepisów o działalności leczniczej,
+    - **b)** osobę fizyczną inną niż wymieniona w lit. a, która uzyskała fachowe uprawnienia do udzielania świadczeń zdrowotnych i udziela ich w ramach wykonywanej działalności gospodarczej,
+    - **c)** (uchylona)
+    - **d)** podmiot realizujący czynności z zakresu zaopatrzenia w wyroby medyczne,
+    - **e)** podmiot udzielający opieki farmaceutycznej, o której mowa w art. 4 ust. 2 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2025 r.
+
+- **42)** procedura medyczna – postępowanie diagnostyczne, lecznicze, pielęgnacyjne, profilaktyczne, rehabilitacyjne lub orzecznicze przy uwzględnieniu wskazań do jego przeprowadzenia, realizowane w warunkach określonej infrastruktury zdrowotnej przy zastosowaniu produktów leczniczych i wyrobów medycznych;
+- **42a)** taryfa świadczeń – zestawienie świadczeń gwarantowanych wraz z przypisanymi im wartościami względnymi, z wyłączeniem świadczeń gwarantowanych, których zasady finansowania określa ustawa o refundacji;
+- **42b)** technologia medyczna – leki, urządzenia, procedury diagnostyczne i terapeutyczne stosowane w określonych wskazaniach, a także organizacyjne systemy wspomagające, w obrębie których wykonywane są świadczenia zdrowotne;
+- **43)** ubezpieczenia społeczne – ubezpieczenia określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
+- **44)** ubezpieczenie społeczne rolników – ubezpieczenie określone w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
+- **44a)** uprawniony żołnierz lub pracownik – żołnierz lub pracownik wojska, o którym mowa w art. 6 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2023 r. poz. 755), który doznał urazu lub zachorował podczas wykonywania zadań służbowych poza granicami państwa;
+- **44b)** weteran poszkodowany – osobę posiadającą status weterana poszkodowanego nadany na podstawie art. 5 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2023 r. poz. 2112 oraz z 2025 r. poz. 1180);
+- **45)** wolontariusz – osobę, o której mowa w art. 2 pkt 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie;
+- **46)** wyroby medyczne – wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. );
+- **47)** żołnierz zastępczej służby wojskowej – osobę, o której mowa w art. 1 ust. 1 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2021 r. poz. 1774).
+
 #### Rozdział 2 Zadania władz publicznych
 
 **Art. 6.** Zadania władz publicznych w zakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej obejmują w szczególności:
+
+- **1)** tworzenie warunków funkcjonowania systemu ochrony zdrowia;
+- **2)** analizę i ocenę potrzeb zdrowotnych oraz czynników powodujących ich zmiany;
+- **3)** promocję zdrowia i profilaktykę, mające na celu tworzenie warunków sprzyjających zdrowiu;
+- **4)** finansowanie w trybie i na zasadach określonych ustawą świadczeń opieki zdrowotnej.
 
 **Art. 7.**
 
@@ -184,7 +298,19 @@ Art. 196–228. (pominięte)
 
 **Art. 8.** Do zadań własnych w zakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej realizowanych przez powiat należy w szczególności:
 
+- **1)** opracowywanie i realizacja oraz ocena efektów programów polityki zdrowotnej wynikających z rozpoznanych potrzeb zdrowotnych i stanu zdrowia mieszkańców powiatu – po konsultacji z właściwymi terytorialnie gminami;
+- **2)** (uchylony)
+- **3)** inicjowanie, wspomaganie i monitorowanie działań lokalnej wspólnoty samorządowej w zakresie promocji zdrowia i edukacji zdrowotnej prowadzonych na terenie powiatu;
+- **4)** pobudzanie działań na rzecz indywidualnej i zbiorowej odpowiedzialności za zdrowie i na rzecz ochrony zdrowia;
+- **5)** podejmowanie innych działań wynikających z rozpoznanych potrzeb zdrowotnych.
+
 **Art. 9.** Do zadań własnych w zakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej realizowanych przez samorząd województwa należy w szczególności:
+
+- **1)** opracowywanie i realizacja oraz ocena efektów programów polityki zdrowotnej wynikających z rozeznanych potrzeb zdrowotnych i stanu zdrowia mieszkańców województwa – po konsultacji z właściwymi terytorialnie gminami i powiatami;
+- **2)** (uchylony)
+- **3)** opracowywanie i wdrażanie programów innych niż określone w pkt 1 służących realizacji zadań w zakresie ochrony zdrowia;
+- **4)** inspirowanie i promowanie rozwiązań w zakresie wzrostu efektywności, w tym restrukturyzacji w ochronie zdrowia;
+- **5)** podejmowanie innych działań wynikających z rozeznanych potrzeb zdrowotnych mieszkańców województwa.
 
 **Art. 9a.** W celu zaspokajania potrzeb wspólnoty samorządowej w zakresie ochrony zdrowia jednostka samorządu terytorialnego, uwzględniając w szczególności mapę potrzeb zdrowotnych, o której mowa w art. 95a ust. 1, wojewódzki plan transformacji, o którym mowa w art. 95c ust. 1, oraz dostępność do świadczeń opieki zdrowotnej na obszarze województwa, może finansować dla mieszkańców tej wspólnoty świadczenia gwarantowane.
 
@@ -323,6 +449,21 @@ Art. 196–228. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 12.** Przepisy ustawy nie naruszają przepisów o świadczeniach opieki zdrowotnej udzielanych bezpłatnie bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego na podstawie:
+
+- **1)** (uchylony) 1a) (uchylony)
+- **2)** art. 21 ust. 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151);
+- **3)** art. 26 ust. 5 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939);
+- **4)** art. 10 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917);
+- **5)** art. 400a ust. 1 i art. 415 ust. 1 pkt 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+- **6)** przepisów ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897) – w przypadku świadczeń zdrowotnych związanych ze zwalczaniem chorób, zakażeń i chorób zakaźnych;
+- **7)** przepisów ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym;
+- **8)** (uchylony)
+- **9)** art. 6 ust. 1 pkt 5 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2023 r. poz. 192 oraz z 2025 r. poz. 621);
+- **10)** art. 16 ust. 1 i art. 25 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2022 r. poz. 1689);
+- **11)** art. 20 ustawy z dnia 7 lutego 2014 r. o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 1802);
+- **12)** art. 17d ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2022 r. poz. 1105 oraz z 2025 r. poz. 620 i 921);
+- **13)** (uchylony)
+- **14)** art. 112c ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619, 621 i 1794 oraz z 2026 r. poz. 203).
 
 **Art. 12a.** Przepisów ustawy, z wyłączeniem art. 48 ust. 1b, przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej, przepisów określających kolejność udzielania świadczeń opieki zdrowotnej w szpitalach, świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej oraz stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911).
 
@@ -812,6 +953,9 @@ Art. 196–228. (pominięte)
 
 **Art. 23i.** W przypadku uwzględnienia świadczenia opieki zdrowotnej w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1 świadczeniodawca jest obowiązany do:
 
+- **1)** udostępnienia w systemie teleinformatycznym, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, harmonogramów przyjęć prowadzonych zgodnie z art. 19a, wraz z dostępnymi terminami udzielenia świadczenia, obejmujących okres udzielania tego świadczenia od dnia następującego po dniu ich udostępnienia, w terminie 5 miesięcy od dnia uwzględnienia tego świadczenia w tych przepisach;
+- **2)** umożliwienia dokonywania przez świadczeniobiorców zgłoszeń centralnych w terminie 6 miesięcy od dnia uwzględnienia tego świadczenia w tych przepisach.
+
 **Art. 24.** Przepisów art. 19–23 nie stosuje się do świadczeń opieki zdrowotnej z zakresu przeszczepów udzielanych osobom, które są wpisywane na krajowe listy osób oczekujących na przeszczepienie komórek, tkanek i narządów, zgodnie z przepisami o pobieraniu i przeszczepianiu komórek, tkanek i narządów.
 
 **Art. 24a.** Przepisów art. 20–23 nie stosuje się w stosunku do uprawnionego żołnierza lub pracownika. Osoby te korzystają ze świadczeń opieki zdrowotnej, o których mowa w art. 20, w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa, poza kolejnością.
@@ -852,6 +996,8 @@ Art. 196–228. (pominięte)
 **Art. 28.** (uchylony)
 
 **Art. 29.** Świadczeniobiorca ma prawo wyboru świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych spośród tych świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914), art. 115 § 1a Kodeksu karnego wykonawczego, art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. z 2024 r. poz. 978 i
+
+- **1228)** oraz art. 21 i art. 36 ust. 1 ustawy z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U. z 2024 r. poz. 1666 i 1897).
 
 **Art. 30.** Świadczeniobiorca ma prawo wyboru szpitala spośród szpitali, które zawarły umowę o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej, art. 115 § 1a Kodeksu karnego wykonawczego i art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich.
 
@@ -950,6 +1096,11 @@ Art. 196–228. (pominięte)
 4. W przypadku nieprzekazania analiz, o których mowa w ust. 2, Prezes Agencji wydaje rekomendację na podstawie dostępnych danych.
 
 **Art. 31d.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzeń, w poszczególnych zakresach, o których mowa w art. 15 ust. 2 pkt 1–8 i 10–13, wykazy świadczeń gwarantowanych wraz z określeniem:
+
+- **1)** poziomu lub sposobu finansowania danego świadczenia gwarantowanego, o którym mowa w art. 18, art. 33 i art. 41, mając na uwadze treść rekomendacji oraz uwzględniając kryteria określone w art. 31a ust. 1;
+- **2)** warunków realizacji danego świadczenia gwarantowanego, w tym dotyczących personelu medycznego i wyposażenia w sprzęt i aparaturę medyczną, mając na uwadze konieczność zapewnienia wysokiej jakości świadczeń opieki zdrowotnej oraz właściwego zabezpieczenia tych świadczeń. Art. 31da. 1. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia wykaz świadczeń gwarantowanych, o których mowa w art. 15 ust. 2a, oraz warunki ich realizacji, w tym dotyczące personelu medycznego, mając na uwadze konieczność zapewnienia wysokiej jakości świadczeń opieki zdrowotnej.
+
+2. Wykaz świadczeń gwarantowanych, o których mowa w ust. 1, może obejmować świadczenia określone w rozporządzeniach wydanych na podstawie art. 31d.
 
 **Art. 31e.**
 
@@ -1073,6 +1224,41 @@ Art. 196–228. (pominięte)
 4. Minister właściwy do spraw zdrowia, w drodze rozporządzenia, nadaje Agencji statut określający w szczególności strukturę organizacyjną Agencji, mając na względzie sprawne wykonywanie zadań przez Agencję.
 
 **Art. 31n.** Do zadań Agencji należy:
+
+- **1)** realizacja zadań związanych z oceną świadczeń opieki zdrowotnej w zakresie:
+    - **a)** wydawania rekomendacji w sprawie: – kwalifikacji świadczenia opieki zdrowotnej jako świadczenia gwarantowanego, – określania lub zmiany poziomu lub sposobu finansowania świadczenia gwarantowanego, – usuwania danego świadczenia opieki zdrowotnej z wykazu świadczeń gwarantowanych, – zmiany technologii medycznej,
+    - **b)** opracowywania raportów w sprawie oceny świadczeń opieki zdrowotnej,
+    - **c)** opracowywania analiz weryfikacyjnych, o których mowa w art. 35 ustawy o refundacji;
+
+- **1a)** realizacja zadań związanych z określeniem taryf świadczeń w zakresie:
+    - **a)** określania taryfy świadczeń,
+    - **b)** opracowywania raportów w sprawie ustalenia taryfy świadczeń;
+
+- **1b)** opracowywanie propozycji zaleceń dotyczących standardu rachunku kosztów, o których mowa w przepisach wydanych na podstawie art. 31lc ust. 7;
+- **2)** opracowywanie, weryfikacja, gromadzenie, udostępnianie i upowszechnianie informacji o metodyce przeprowadzania oceny technologii medycznych oraz o technologiach medycznych opracowywanych w Rzeczypospolitej Polskiej i w innych krajach;
+- **2a)** opracowywanie, weryfikacja, gromadzenie, udostępnianie i upowszechnianie informacji o zasadach określania taryfy świadczeń;
+- **2b)** przygotowywanie i przekazywanie ministrowi właściwemu do spraw zdrowia danych i analiz niezbędnych do sporządzenia mapy potrzeb zdrowotnych, o której mowa w art. 95a ust. 1;
+- **2c)** przygotowywanie raportu w sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej oraz wydawanie, na zlecenie ministra właściwego do spraw zdrowia, rekomendacji Prezesa Agencji w zakresie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej w związku z nadzwyczajnym wzrostem kosztów udzielania tych świadczeń, w szczególności wzrostem najniższego wynagrodzenia zasadniczego określanego przepisami ustawy z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych;
+- **2d)** przygotowywanie opinii dotyczących opisów programów lekowych, o których mowa w art. 16a ust. 1 ustawy o refundacji;
+- **2e)** przekazywanie ministrowi właściwemu do spraw zdrowia wykazu, o którym mowa w art. 30a ust. 2 ustawy o refundacji;
+- **2f)** przygotowywanie oceny dokumentacji, o której mowa w art. 35 ust. 8c ustawy o refundacji;
+- **2g)** przygotowywanie opinii, o których mowa w art. 15 ust. 3 ustawy o refundacji;
+- **2h)** przygotowywanie raportów z oceny efektywności objętych refundacją technologii lekowych o wysokim poziomie innowacyjności oraz jakości leczenia, o których mowa w art. 40a ust. 7 ustawy o refundacji;
+- **2i)** przygotowywanie co 5 lat raportu w sprawie oceny technologii medycznych stosowanych w procedurze zapłodnienia pozaustrojowego, o którym mowa w art. 71 pkt 4 ustawy z dnia 25 czerwca 2015 r. o leczeniu niepłodności (Dz. U. z 2020 r. poz. 442);
+- **2j)** wykonywanie obowiązków dotyczących przekazywania informacji, udostępniania danych, analiz oraz dowodów, o których mowa w art. 13 ust. 1 lit. e oraz ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2282 z dnia 15 grudnia 2021 r. w sprawie oceny technologii medycznych i zmiany dyrektywy 2011/24/UE (Dz. Urz. UE L 458 z 22.12.2021, str. 1), zwanego dalej „rozporządzeniem 2021/2282”;
+- **3)** opiniowanie projektów programów polityki zdrowotnej;
+- **3a)** (uchylony) 3b) przygotowywanie raportów, o których mowa w art. 48aa ust. 1;
+- **3c)** przekazywanie ministrowi właściwemu do spraw zdrowia wykazów ustalonych zgodnie z art. 40a ust. 2 i 8 ustawy o refundacji;
+- **3d)** monitorowanie efektywności praktycznej i jakości procesu terapeutycznego technologii lekowych finansowanych ze środków Funduszu Medycznego na podstawie danych otrzymanych od podmiotu zobowiązanego do finansowania świadczeń opieki zdrowotnej ze środków publicznych;
+- **4)** prowadzenie działalności szkoleniowej w zakresie zadań, o których mowa w pkt 1–3;
+- **4a)** sporządzanie opinii, o których mowa w art. 11 ust. 3;
+- **4b)** inicjowanie, wspieranie i prowadzenie analiz oraz badań naukowych i prac rozwojowych w zakresie oceny technologii medycznych, taryfikacji świadczeń oraz sporządzanie oceny założeń do realizacji świadczeń opieki zdrowotnej;
+- **4c)** przygotowywanie propozycji kluczowych zaleceń, o których mowa w art. 24 ust. 4 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej;
+- **4d)** przygotowywanie obliczeń, o których mowa w art. 36 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej;
+- **4e)** przygotowywanie propozycji kluczowych zaleceń, o których mowa w art. 5 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej;
+- **4f)** przygotowywanie obliczeń, o których mowa w art. 35 ust. 2 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej;
+- **4g)** prowadzenie, na zlecenie ministra właściwego do spraw zdrowia, analiz, o których mowa w art. 59c ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **5)** realizacja innych zadań zleconych przez ministra właściwego do spraw zdrowia.
 
 **Art. 31o.**
 
@@ -1680,6 +1866,10 @@ Art. 196–228. (pominięte)
 
 **Art. 42a.** Fundusz finansuje koszty świadczeń opieki zdrowotnej udzielonych poza granicami kraju:
 
+- **1)** na zasadzie zwrotu kosztów, o którym mowa w art. 42b;
+- **2)** zgodnie z przepisami o koordynacji;
+- **3)** na podstawie decyzji Prezesa Funduszu, o których mowa w art. 42i ust. 2 i 9 oraz art. 42j ust. 1 i 2.
+
 **Art. 42b.**
 
 1. Świadczeniobiorca jest uprawniony do otrzymania od Funduszu zwrotu kosztów świadczenia opieki zdrowotnej, będącego świadczeniem gwarantowanym, udzielonego na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa będącego stroną umowy o Europejskim Obszarze Gospodarczym, zwanego dalej „zwrotem kosztów”.
@@ -1924,6 +2114,9 @@ Art. 196–228. (pominięte)
 8. Jeżeli wniosek, o którym mowa w ust. 1, spełnia warunki do wydania zgody, o której mowa w art. 42i ust. 1, Prezes Funduszu wydaje taką zgodę, chyba że świadczeniobiorca złożył oświadczenie, o którym mowa w ust. 5 pkt 2.
 
 **Art. 42g.** Przepisów art. 42b–42f nie stosuje się do osób:
+
+- **1)** o których mowa w art. 66 ust. 1 pkt 16, oraz członków ich rodzin, posiadających miejsce zamieszkania na terytorium państwa członkowskiego UE lub EOG wymienionego w załączniku nr 3 do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego;
+- **2)** zgłoszonych do ubezpieczenia zdrowotnego jako członkowie rodzin osób, o których mowa w art. 66 ust. 1 pkt 1–15a, 17 i 20–37, jeżeli posiadają miejsce zamieszkania na terytorium innego państwa członkowskiego UE lub EOG niż osoba, która zgłosiła członka rodziny do ubezpieczenia zdrowotnego, a państwo zamieszkania jest wymienione w załączniku nr 3 do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego.
 
 **Art. 42h.**
 
@@ -2552,6 +2745,9 @@ Art. 196–228. (pominięte)
 9. W celu realizacji zadań ministra właściwego do spraw zdrowia w zakresie nadzoru i kontroli określonych w ust. 1 może on zawrzeć umowę z jednostką podległą lub nadzorowaną przez tego ministra, właściwą ze względu na cel programu pilotażowego.
 
 **Art. 48f.** Świadczeniobiorca korzystający ze świadczeń opieki zdrowotnej w ramach programu pilotażowego może upoważnić:
+
+- **1)** świadczeniodawcę udzielającego świadczeń opieki zdrowotnej w ramach tego programu do udostępniania jednostce organizacyjnej pomocy społecznej informacji o korzystaniu przez tego świadczeniobiorcę ze świadczeń opieki zdrowotnej;
+- **2)** jednostkę organizacyjną pomocy społecznej do udostępniania świadczeniodawcy udzielającemu świadczeń opieki zdrowotnej w ramach tego programu informacji o korzystaniu przez tego świadczeniobiorcę z pomocy społecznej.
 
 #### Rozdział 5 Dokumenty służące do potwierdzenia i weryfikacji prawa do świadczeń opieki zdrowotnej
 
@@ -3368,6 +3564,9 @@ Art. 196–228. (pominięte)
 
 **Art. 65.** Ubezpieczenie zdrowotne jest oparte w szczególności na zasadach:
 
+- **1)** równego traktowania oraz solidarności społecznej;
+- **2)** zapewnienia ubezpieczonemu równego dostępu do świadczeń opieki zdrowotnej i wyboru świadczeniodawców spośród tych świadczeniodawców, którzy zawarli umowę z Funduszem, z zastrzeżeniem art. 287 ust. 2 i 3, art. 325 ust. 1 i 2 oraz art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej i art. 115 § 1a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.
+
 **Art. 66.**
 
 1. Obowiązkowi ubezpieczenia zdrowotnego podlegają:
@@ -3551,6 +3750,38 @@ Art. 196–228. (pominięte)
 
 **Art. 73.** Obowiązek ubezpieczenia zdrowotnego:
 
+- **1)** uczniów, o których mowa w art. 66 ust. 1 pkt 17, powstaje z dniem przyjęcia do szkoły, a wygasa z dniem ukończenia szkoły albo skreślenia z listy uczniów;
+- **2)** dzieci, o których mowa w art. 66 ust. 1 pkt 18, przebywających w placówkach pełniących funkcje resocjalizacyjne, wychowawcze lub opiekuńcze lub w domach pomocy społecznej, powstaje z dniem przyjęcia do placówki albo domu, a wygasa z końcem pobytu w placówce bądź domu;
+- **3)** dzieci, o których mowa w art. 66 ust. 1 pkt 19, powstaje z dniem uznania przez ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – przez centrum usług społecznych, zasadności objęcia ubezpieczeniem zdrowotnym, a wygasa z dniem uznania, że ustała zasadność objęcia ubezpieczeniem zdrowotnym, nie później niż z dniem, w którym dziecko rozpoczyna realizację obowiązku szkolnego; ośrodek pomocy społecznej albo centrum usług społecznych mogą odmówić uznania zasadności objęcia ubezpieczeniem zdrowotnym lub uznać, że ustała konieczność i zasadność objęcia ubezpieczeniem zdrowotnym dziecka spełniającego przesłanki określone w art. 66 ust. 1 pkt 19, jeżeli na podstawie wywiadu rodzinnego (środowiskowego) stwierdzą, iż warunki materialne opiekunów prawnych lub faktycznych dziecka umożliwiają jego ubezpieczenie zdrowotne na zasadach określonych w art. 68;
+- **4)** osób, o których mowa w art. 66 ust. 1 pkt 20, 20a i 22, powstaje z dniem złożenia oświadczenia o niepodleganiu obowiązkowi ubezpieczenia zdrowotnego z innego tytułu, nie wcześniej jednak niż z dniem rozpoczęcia odpowiednio pierwszego semestru kształcenia, obowiązkowego stażu lub kursu, a wygasa z dniem ukończenia odpowiednio studiów lub kształcenia w szkole doktorskiej lub stażu lub kursu albo skreślenia z listy studentów lub listy doktorantów lub listy uczestników stażu lub listy kursu;
+- **5)** osób, o których mowa w art. 66 ust. 1 pkt 21, powstaje z dniem przyjęcia do wyższego seminarium duchownego albo teologicznego lub do zakonu albo jego odpowiedników, a wygasa z dniem ukończenia 25. roku życia albo wystąpienia z wyższego seminarium duchownego albo teologicznego lub zakonu albo jego odpowiedników;
+- **6)** osób, o których mowa w art. 66 ust. 1 pkt 23, powstaje z dniem przyznania stypendium, a wygasa z dniem utraty prawa do jego pobierania;
+- **7)** osób, o których mowa w art. 66 ust. 1 pkt 24, powstaje z dniem uzyskania statusu bezrobotnego, a wygasa z dniem utraty tego statusu;
+- **7a)** osób, o których mowa w art. 66 ust. 1 pkt 24a, powstaje z dniem nabycia prawa do stypendium, a wygasa z dniem utraty prawa do niego;
+- **7b)** osób, o których mowa w art. 66 ust. 1 pkt 24b, powstaje z dniem nabycia prawa do stypendium, a wygasa z dniem utraty prawa do niego;
+- **8)** osób pobierających świadczenie przedemerytalne lub zasiłek przedemerytalny obejmuje okres od dnia przyznania prawa do świadczenia przedemerytalnego do dnia utraty prawa do jego pobierania, a w przypadku zasiłku przedemerytalnego – do jego wygaśnięcia, a w odniesieniu do osób niepobierających zasiłku przedemerytalnego lub świadczenia przedemerytalnego z przyczyn, o których mowa w art. 66 ust. 1 pkt 25 – obejmuje okres od dnia zarejestrowania się w urzędzie pracy do dnia przyznania prawa do zasiłku przedemerytalnego lub świadczenia przedemerytalnego;
+- **9)** osób, o których mowa w art. 66 ust. 1 pkt 26, obejmuje okres od dnia przyznania zasiłku do dnia utraty prawa do zasiłku;
+- **10)** osób, o których mowa w art. 66 ust. 1 pkt 28 i 28a, obejmuje okres od dnia przyznania świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego lub dodatku do zasiłku rodzinnego z tytułu samotnego wychowywania dziecka i utraty prawa do zasiłku dla bezrobotnych na skutek upływu ustawowego okresu jego pobierania do dnia utraty prawa do ich pobierania;
+- **10a)** osób, o których mowa w art. 66 ust. 1 pkt 28b, obejmuje okres od dnia nabycia prawa do zasiłku dla opiekuna, nie wcześniej jednak niż od dnia wejścia w życie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246) do dnia utraty prawa do jego pobierania;
+- **10b)** osób, o których mowa w art. 66 ust. 1 pkt 28c, obejmuje okres od dnia przyznania świadczenia wspierającego do dnia utraty prawa do jego pobierania;
+- **10c)** osób, o których mowa w art. 66 ust. 1 pkt 28d, powstaje od dnia określonego we wniosku, o którym mowa w art. 36c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jako dzień rozpoczęcia sprawowania osobistej opieki nad osobą pobierającą świadczenie wspierające przyznane na podstawie ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym, nie wcześniej jednak niż od dnia, w którym wniosek, o którym mowa w art. 36c, został złożony, a wygasa od dnia wskazanego w tym wniosku jako dzień zakończenia sprawowania opieki nad tą osobą;
+- **11)** osób, o których mowa w art. 66 ust. 1 pkt 29, powstaje od dnia rozpoczęcia realizacji indywidualnego programu wychodzenia z bezdomności, a wygasa z dniem zakończenia realizacji tego programu lub zaprzestania realizacji tego programu w rozumieniu przepisów o pomocy społecznej;
+- **12)** osób, o których mowa w art. 66 ust. 1 pkt 27, powstaje od dnia rozpoczęcia realizacji indywidualnego programu integracji, a wygasa z dniem zakończenia lub wstrzymania realizacji tego programu;
+- **13)** osób, o których mowa w art. 66 ust. 1 pkt 30:
+    - **a)** powstaje po upływie 30 dni od dnia rozpoczęcia realizacji indywidualnego programu zatrudnienia socjalnego, a wygasa z dniem zakończenia realizacji programu lub zaprzestania realizacji programu w rozumieniu przepisów o zatrudnieniu socjalnym,
+    - **b)** powstaje po upływie 30 dni od dnia podpisania kontraktu socjalnego, a wygasa z dniem zakończenia realizacji kontraktu socjalnego lub zaprzestania realizacji kontraktu socjalnego, o którym mowa w przepisach o pomocy społecznej;
+
+- **14)** osób, o których mowa w art. 66 ust. 1 pkt 31 i 31b, powstaje z dniem złożenia Szefowi Urzędu do Spraw Kombatantów i Osób Represjonowanych oświadczenia o niepodleganiu przepisom o systemie ubezpieczeń społecznych i braku innego tytułu do objęcia ubezpieczeniem zdrowotnym, a wygasa z dniem ustania tych warunków;
+- **14a)** osób, o których mowa w art. 66 ust. 1 pkt 31a, powstaje z dniem złożenia w organie rentowym, w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oświadczenia o braku innego tytułu do objęcia ubezpieczeniem zdrowotnym, a wygasa z dniem ustania tego warunku;
+- **15)** osób, o których mowa w art. 66 ust. 1 pkt 32, powstaje z dniem rozpoczęcia urlopu, a wygasa z dniem zakończenia urlopu;
+- **15a)** osób, o których mowa w art. 66 ust. 1 pkt 32a, powstaje z dniem objęcia ubezpieczeniami emerytalnym i rentowymi w związku ze sprawowaniem osobistej opieki nad dzieckiem, a wygasa z dniem zakończenia sprawowania tej opieki;
+- **16)** osób, o których mowa w art. 66 ust. 1 pkt 33, powstaje z dniem, w którym świadczenie alimentacyjne staje się wymagalne, a wygasa w dniu, w którym świadczenie to przestaje być wymagalne;
+- **17)** osób, o których mowa w art. 66 ust. 1 pkt 35, powstaje z dniem powołania na członka rady nadzorczej, a wygasa w dniu zaprzestania pełnienia tej funkcji;
+- **17a)** ławników sądowych, o których mowa w art. 66 ust. 1 pkt 15a, powstaje z dniem wyboru na stanowisko ławnika sądowego, a wygasa z dniem upływu kadencji lub wcześniejszego wygaśnięcia mandatu;
+- **17b)** osób, o których mowa w art. 66 ust. 1 pkt 35a, powstaje z dniem powołania lub ustanowienia prokury, a wygasa z dniem odwołania, z wyłączeniem osób uzyskujących przychody, o których mowa w art. 13 pkt 5 lub 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, których obowiązek ubezpieczenia zdrowotnego powstaje z dniem, w którym wynagrodzenie pobrane z tytułu powołania do pełnienia funkcji przekroczy w roku kalendarzowym kwotę 6000 zł;
+- **18)** osób, o których mowa w art. 66 ust. 1 pkt 36, powstaje z dniem przyznania stypendium, a wygasa z dniem utraty prawa do jego pobierania;
+- **19)** osób, o których mowa w art. 66 ust. 1 pkt 37, obejmuje okres od dnia przyznania prawa do nauczycielskiego świadczenia kompensacyjnego do dnia utraty prawa do jego pobierania.
+
 **Art. 73a.** Obowiązek ubezpieczenia zdrowotnego małżonka Prezydenta Rzeczypospolitej Polskiej, o którym mowa w art. 4 pkt 19 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, powstaje i wygasa w terminach określonych w art. 13 pkt 18 tej ustawy.
 
 **Art. 74.**
@@ -3677,6 +3908,9 @@ Art. 196–228. (pominięte)
 - **7)** informację o pozostawaniu we wspólnym gospodarstwie domowym z ubezpieczonym – w przypadku osób, o których mowa w art. 5 pkt 3 lit. c.
 
 **Art. 78.** Na wniosek ministra właściwego do spraw finansów publicznych kontrolę w zakresie realizacji zadań ubezpieczenia zdrowotnego określonych przepisami ustawy przeprowadza:
+
+- **1)** minister właściwy do spraw zabezpieczenia społecznego w Zakładzie Ubezpieczeń Społecznych;
+- **2)** minister właściwy do spraw rozwoju wsi w Kasie Rolniczego Ubezpieczenia Społecznego.
 
 #### Rozdział 2 Składki na ubezpieczenie zdrowotne
 
@@ -4172,6 +4406,9 @@ Art. 196–228. (pominięte)
 2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw zdrowia może określić, w drodze rozporządzenia, szczegółowy zakres danych zawartych w informacjach, o których mowa w ust. 1, biorąc pod uwagę konieczność zapewnienia prawidłowego i rzetelnego gospodarowania środkami publicznymi.
 
 **Art. 92.** Rada Ministrów określi, w drodze rozporządzenia, odrębny sposób:
+
+- **1)** ubezpieczania w stosunku do osób, o których mowa w art. 66 ust. 1 pkt 5–8 i 8b– 13, które ze względu na wymogi obronności lub bezpieczeństwa państwa zostały oddelegowane do wykonywania pracy lub wyznaczone do pełnienia służby poza macierzystą jednostką,
+- **2)** zgłaszania i wyrejestrowywania z ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 8a, i członków ich rodzin, oraz przekazywania składek na ubezpieczenie zdrowotne – mając na uwadze względy obronności państwa.
 
 **Art. 93.**
 
@@ -5205,7 +5442,7 @@ Art. 196–228. (pominięte)
 - **3a)** przeprowadzanie postępowań o zawarcie umów, zawieranie i rozliczanie umów o udzielanie świadczeń opieki zdrowotnej;
 - **4)** przygotowywanie i przedstawianie Radzie Funduszu corocznych prognoz, o których mowa w art. 120 ust. 1 i 3;
 - **5)** opracowywanie projektu planu finansowego Funduszu na podstawie projektów planów finansowych oddziałów wojewódzkich Funduszu, prognoz, o których mowa w art. 120 ust. 1 i 2;
-- **6)** sporządzanie rocznego planu finansowego Funduszu po otrzymaniu opinii Rady Funduszu, komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Rzeczypospolitej Polskiej;
+- **6)** sporządzanie rocznego planu finansowego Funduszu po otrzymaniu opinii Rady Funduszu, komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej;
 - **7)** sporządzanie projektu planu pracy Funduszu;
 - **8)** realizacja rocznego planu finansowego i planu pracy Funduszu;
 - **9)** sporządzanie projektu rzeczowego planu wydatków inwestycyjnych na następny rok;
@@ -5778,7 +6015,7 @@ Art. 196–228. (pominięte)
 1. Prezes Funduszu opracowuje projekt planu finansowego Funduszu i przedstawia go, w celu zaopiniowania, w terminie do dnia 1 lipca roku poprzedzającego rok, którego dotyczy ten plan:
 
 - **1)** Radzie Funduszu;
-- **2)** komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Rzeczypospolitej Polskiej.
+- **2)** komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
 
 2. Niewydanie opinii, o których mowa w ust. 1, w terminie 14 dni od dnia otrzymania projektu planu finansowego jest równoznaczne z wydaniem pozytywnej opinii.
 
@@ -5789,6 +6026,9 @@ Art. 196–228. (pominięte)
 5. W przypadku gdy Prezes Funduszu nie przekaże w terminie, o którym mowa w ust. 3, planu finansowego Funduszu, minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych ustala, w drodze zarządzenia, plan finansowy Funduszu do dnia 31 lipca roku poprzedzającego rok, którego dotyczy ten plan.
 
 **Art. 122.** W przypadku:
+
+- **1)** niezatwierdzenia planu finansowego Funduszu, w terminie, o którym mowa w art. 121 ust. 4, albo
+- **2)** nieustalenia planu finansowego w trybie określonym w art. 123 ust. 3 – Fundusz działa na podstawie planu finansowego, o którym mowa w art. 121 ust. 3.
 
 **Art. 123.**
 
@@ -5807,7 +6047,7 @@ Art. 196–228. (pominięte)
 
 2. Zmiany planu finansowego Funduszu zatwierdzonego w trybie, o którym mowa w art. 121 ust. 4, może dokonać Prezes Funduszu. Przepisy art. 121 ust. 1– 4 stosuje się odpowiednio.
 
-3. Zmiany planu finansowego Funduszu ustalonego zgodnie z art. 121 ust. 5 albo art. 123 ust. 3 może dokonać minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych na uzasadniony wniosek Prezesa Funduszu. Do wniosku o zmianę planu dołącza się opinię Rady Funduszu, opinie komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Rzeczypospolitej Polskiej.
+3. Zmiany planu finansowego Funduszu ustalonego zgodnie z art. 121 ust. 5 albo art. 123 ust. 3 może dokonać minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych na uzasadniony wniosek Prezesa Funduszu. Do wniosku o zmianę planu dołącza się opinię Rady Funduszu, opinie komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
 
 4. Prezes Funduszu, po poinformowaniu ministra właściwego do spraw zdrowia i ministra właściwego do spraw finansów publicznych, może dokonać przesunięcia kosztów w planie finansowym centrali Funduszu oraz przesunięcia kosztów w ramach kosztów administracyjnych w planie finansowym Funduszu, a także dokonać zmiany planu finansowego w zakresie środków przekazywanych Narodowemu Funduszowi Zdrowia z dotacji budżetu państwa lub Funduszu Medycznego.
 
@@ -5826,6 +6066,12 @@ Art. 196–228. (pominięte)
 11. (uchylony)
 
 **Art. 125.** Przychody Funduszu:
+
+- **1)** nieujęte w planie finansowym ustalonym zgodnie z art. 121 ust. 3, ust. 5 albo z art. 123 ust. 3:
+    - **a)** z tytułu nadwyżki przychodów nad kosztami korygującymi koszty świadczeń opieki zdrowotnej z lat ubiegłych,
+    - **b)** z tytułu nadwyżki przychodów nad kosztami z działalności finansowej,
+
+- **2)** pochodzące z dotacji przeznaczonych na finansowanie świadczeń opieki zdrowotnej – w części dotyczącej oddziału wojewódzkiego Funduszu przeznacza się na pokrycie kosztów świadczeń opieki zdrowotnej w tym oddziale wojewódzkim Funduszu.
 
 **Art. 126.**
 
@@ -5878,7 +6124,7 @@ Art. 196–228. (pominięte)
 
 2. Rada Funduszu przyjmuje sprawozdanie, o którym mowa w ust. 1, w terminie 15 dni od dnia jego otrzymania.
 
-3. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii ministra właściwego do spraw zdrowia i po uzyskaniu opinii komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Rzeczypospolitej Polskiej.
+3. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii ministra właściwego do spraw zdrowia i po uzyskaniu opinii komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
 
 4. Niewydanie opinii, o których mowa w ust. 3, w terminie 14 dni od dnia otrzymania projektu sprawozdania jest równoznaczne z wydaniem opinii pozytywnych.
 
@@ -6239,6 +6485,10 @@ Art. 196–228. (pominięte)
 5. Do części niejawnej rokowań stosuje się odpowiednio art. 142 ust. 5.
 
 **Art. 144.** Postępowanie w trybie rokowań może być przeprowadzone, jeżeli:
+
+- **1)** uprzednio prowadzone postępowanie w trybie konkursu ofert zostało unieważnione, a szczegółowe warunki postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej są takie same jak w konkursie ofert lub
+- **2)** zachodzi pilna potrzeba zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, której wcześniej nie można było przewidzieć, lub
+- **3)** jest ograniczona liczba świadczeniodawców, nie większa niż pięciu, mogących udzielać świadczeń opieki zdrowotnej będących przedmiotem postępowania w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej.
 
 **Art. 145.**
 
@@ -6714,6 +6964,12 @@ Art. 196–228. (pominięte)
 
 **Art. 186.** Osoby wykonujące w imieniu ministra właściwego do spraw zdrowia lub ministra właściwego do spraw finansów publicznych czynności nadzoru nad Funduszem nie mogą:
 
+- **1)** być członkami organów Funduszu;
+- **2)** być pracownikami Funduszu;
+- **3)** wykonywać pracy na rzecz Funduszu na podstawie umowy zlecenia, umowy o dzieło albo innej umowy, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia;
+- **4)** być świadczeniodawcami, z którymi Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej, ani pracownikami lub osobami współpracującymi ze świadczeniodawcami, którzy zawarli z Funduszem umowy o udzielanie świadczeń opieki zdrowotnej;
+- **5)** być członkami organów lub pracownikami podmiotów, o których mowa w art. 163 ust. 1 pkt 3, ani też wykonywać pracy na ich rzecz na podstawie umowy zlecenia, umowy o dzieło albo innej umowy, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia.
+
 **Art. 187.**
 
 1. Prezes Funduszu przedstawia corocznie ministrowi właściwemu do spraw zdrowia oraz ministrowi właściwemu do spraw finansów publicznych, nie później niż do dnia 30 czerwca roku następnego, przyjęte przez Radę Funduszu roczne sprawozdanie z działalności Funduszu.
@@ -6886,7 +7142,25 @@ Art. 196–228. (pominięte)
 
 **Art. 188a.** W celu realizacji zadań określonych w ustawie Fundusz przetwarza następujące dane osobowe osób wystawiających recepty na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, osób wystawiających zlecenie na zaopatrzenie w wyroby medyczne, o których mowa w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji, osób udzielających świadczeń na podstawie umów o udzielanie świadczeń opieki zdrowotnej oraz ubiegających się o zawarcie takich umów:
 
+- **1)** nazwisko i imię (imiona);
+- **2)** nazwisko rodowe;
+- **3)** numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość;
+- **4)** numer prawa wykonywania zawodu – w przypadku osób, którym nadano ten numer;
+- **5)** dotyczących kompetencji zawodowych istotnych z punktu widzenia udzielania świadczeń opieki zdrowotnej na podstawie umowy z Funduszem.
+- **6)** (uchylony)
+
 **Art. 188b.** W celu realizacji zadań określonych w art. 97a ust. 2 pkt 3 Fundusz przetwarza następujące dane dotyczące osób wykonujących zawody medyczne:
+
+- **1)** nazwisko i imię (imiona);
+- **2)** informacje na temat prawa wykonywania zawodu oraz kwalifikacji zawodowych. Art. 188ba. 1. Fundusz przetwarza dane osobowe osób ubiegających się o nadanie dostępu lub korzystających z aplikacji udostępnianych przez Fundusz świadczeniodawcom oraz niebędącym świadczeniodawcami osobom uprawnionym i osobom przez nie upoważnionym, w celu korzystania z usług informatycznych i komunikacji z Funduszem.
+
+2. W celu realizacji zadań, o których mowa w ust. 1, Fundusz przetwarza następujące dane:
+
+- **1)** nazwisko i imię (imiona);
+- **2)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** adres miejsca zamieszkania;
+- **4)** adres do korespondencji i numer telefonu umożliwiające kontakt z osobą, której dane Fundusz przetwarza;
+- **5)** numer prawa wykonywania zawodu oraz kwalifikacje zawodowe.
 
 **Art. 188c.**
 
@@ -6913,6 +7187,47 @@ Art. 196–228. (pominięte)
 6. Fundusz przetwarza dane w zakresie realizacji programów lekowych, o których mowa w ustawie o refundacji.
 
 **Art. 188d.** Jednostka samorządu terytorialnego, w celu realizacji zadań, o których mowa w art. 9a i art. 9b, przetwarza dane dotyczące:
+
+- **1)** osób, którym udzielono świadczenia gwarantowane na podstawie umowy, o której mowa w art. 9b ust. 1, obejmujących:
+    - **a)** nazwisko i imię (imiona),
+    - **b)** datę urodzenia,
+    - **c)** płeć,
+    - **d)** obywatelstwo,
+    - **e)** numer PESEL,
+    - **f)** serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość – w przypadku osób, które nie mają nadanego numeru PESEL,
+    - **g)** adres miejsca zamieszkania,
+    - **h)** informacje o świadczeniach gwarantowanych udzielonych na podstawie umowy, o której mowa w art. 9b ust. 1, oraz przyczynie ich udzielenia;
+
+- **2)** osób udzielających świadczeń gwarantowanych udzielonych na podstawie umowy, o której mowa w art. 9b ust. 1, obejmujących: Art. 188da. 1. Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, każdy w swoim zakresie, w celu realizacji zadań, o których mowa w art. 11a, art. 42, art. 44, art. 46 i art. 47, mają prawo do przetwarzania danych dotyczących:
+    - **a)** nazwisko i imię (imiona),
+    - **b)** numer PESEL,
+    - **c)** serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość – w przypadku osób, które nie mają nadanego numeru PESEL,
+    - **d)** numer prawa wykonywania zawodu – w przypadku osób, którym nadano ten numer,
+    - **e)** informację o prawomocnych orzeczeniach sądów o skazaniu za przestępstwo określone w art. 228–230, art. 286 lub art. 296a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+
+- **1)** osób, o których mowa w art. 5 pkt 44a i 44b, które korzystają lub ubiegają się o skorzystanie z uprawnień przysługujących im na podstawie ustawy, obejmujących:
+    - **a)** nazwisko i imię (imiona),
+    - **b)** datę urodzenia i zgonu,
+    - **c)** płeć,
+    - **d)** obywatelstwo,
+    - **e)** numer PESEL,
+    - **f)** serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość – w przypadku osób, które nie mają nadanego numeru PESEL,
+    - **g)** adres zamieszkania, adres do korespondencji i numer telefonu,
+    - **h)** informacje o zakresie, rodzaju, wartości świadczeń opieki zdrowotnej udzielonych na podstawie umowy, o której mowa w art. 11a ust. 4, lub dofinansowanych na podstawie art. 42 ust. 1–2, art. 44 ust. 1b, art. 46 ust. 7 i 8 lub art. 47 ust. 2b oraz przyczynie ich udzielenia,
+    - **i)** informacje o stanie zdrowia,
+    - **j)** informacje o udzielonych świadczeniach opieki zdrowotnej, procedurach i technologiach medycznych,
+    - **k)** informacje o korzystaniu z uprawnień określonych w art. 11a ust. 1, art. 24a–24c, art. 44 ust. 1a–1c, art. 46 ust. 1 pkt 8, art. 47 ust. 2–2b oraz art. 57 ust. 2 pkt 12 i 13,
+    - **l)** informacje o rodzaju i ilości leków, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych zakupionych na terytorium Rzeczypospolitej Polskiej,
+    - **m)** dane wynikające z dokumentu uprawniającego do korzystania ze świadczeń, o którym mowa w art. 47b ust. 1 i 1a,
+    - **n)** wysokość orzeczonego procentowego uszczerbku na zdrowiu,
+    - **o)** informacje dotyczące urazów lub chorób powstałych w związku z udziałem w działaniach poza granicami państwa i skutków zdrowotnych tych urazów i chorób,
+    - **p)** informacje dotyczące urazów lub chorób, w związku z którymi są udzielane świadczenia opieki zdrowotnej, w przypadku gdy ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 %, oraz skutków zdrowotnych tych urazów i chorób;
+
+- **2)** świadczeniodawców udzielających świadczeń opieki zdrowotnej dla osób, o których mowa w pkt 1, w zakresie, o którym mowa w art. 188a i art. 188b.
+
+2. Organy, o których mowa w ust. 1, są uprawnione do nieodpłatnego udostępniania danych, o których mowa w ust. 1, Funduszowi, świadczeniodawcom, konsultantom z danej dziedziny medycyny oraz innym podmiotom, które uczestniczą w realizacji uprawnień wynikających z ustawy.
+
+3. Podmioty uczestniczące w realizacji uprawnień wynikających z ustawy mają prawo do przetwarzania danych osobowych, o których mowa w ust. 1, w celu realizacji tych uprawnień.
 
 **Art. 188e.**
 
@@ -7039,6 +7354,14 @@ Art. 196–228. (pominięte)
 
 **Art. 193.** Kto:
 
+- **1)** nie zgłasza wymaganych przepisami ustawy danych lub zgłasza nieprawdziwe dane mające wpływ na wymiar składek na ubezpieczenie zdrowotne albo udziela w tych sprawach nieprawdziwych wyjaśnień lub odmawia ich udzielenia, 1a) nie dokonuje w terminie zgłoszenia do ubezpieczenia zdrowotnego lub wyrejestrowania z ubezpieczenia zdrowotnego,
+- **2)** udaremnia lub utrudnia przeprowadzenie kontroli w zakresie realizacji ubezpieczenia zdrowotnego,
+- **3)** nie odprowadza w terminie składek na ubezpieczenie zdrowotne,
+- **4)** pobiera nienależne opłaty od ubezpieczonych za świadczenia objęte umową z Funduszem o udzielanie świadczeń opieki zdrowotnej,
+- **5)** uniemożliwia lub ogranicza w poważnym stopniu dostęp świadczeniobiorców do świadczeń opieki zdrowotnej, 5a) uniemożliwia lub ogranicza w poważnym stopniu możliwość zapisywania się na listy oczekujących,
+- **6)** będąc ubezpieczonym, nie informuje podmiotu właściwego do dokonania zgłoszenia do ubezpieczenia zdrowotnego o okolicznościach powodujących konieczność zgłoszenia lub wyrejestrowania członka rodziny,
+- **7)** podaje w ofercie złożonej w postępowaniu w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej finansowanych przez Fundusz nieprawdziwe informacje i dane – podlega karze grzywny.
+
 **Art. 194.** Odpowiedzialności przewidzianej w art. 193 podlega także ten, kto dopuszcza się czynów określonych w tych przepisach, działając w imieniu osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 **Art. 194a.** Kto zatrudnia kontrolera wbrew warunkom określonym w art. 112 ust. 4, podlega karze aresztu albo karze grzywny.
@@ -7050,6 +7373,14 @@ Art. 196–228. (pominięte)
 ### DZIAŁ XI Przepisy przejściowe, dostosowawcze i końcowe
 
 **Art. 229.** Ilekroć w obowiązujących przepisach jest mowa o:
+
+- **1)** ustawie:
+    - **a)** o powszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia,
+    - **b)** o powszechnym ubezpieczeniu zdrowotnym – rozumie się przez to niniejszą ustawę;
+
+- **2)** przepisach:
+    - **a)** o powszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia,
+    - **b)** o powszechnym ubezpieczeniu zdrowotnym – rozumie się przez to niniejszą ustawę oraz przepisy wydane na jej podstawie.
 
 **Art. 230.** Ubezpieczeni na podstawie ustawy z dnia 23 stycznia 2003 r. o powszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia (Dz. U. poz. 391, z późn. zm. ) stają się z dniem wejścia w życie ustawy ubezpieczonymi na podstawie niniejszej ustawy.
 
@@ -7093,6 +7424,9 @@ Art. 196–228. (pominięte)
 
 **Art. 237.** Z dniem wejścia w życie ustawy:
 
+- **1)** wojewódzkie oddziały Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, stają się z mocy prawa oddziałami wojewódzkimi Funduszu;
+- **2)** centrala Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, staje się centralą Funduszu.
+
 **Art. 238.**
 
 1. Pracownicy oddziałów wojewódzkich Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, z dniem wejścia w życie ustawy stają się, z mocy prawa, pracownikami Funduszu, zatrudnionymi na stanowiskach pracy we właściwych oddziałach wojewódzkich.
@@ -7127,6 +7461,10 @@ Art. 196–228. (pominięte)
 
 **Art. 242.** Wysokość składki na ubezpieczenie zdrowotne, o której mowa w art. 79 ust. 1, wynosi:
 
+- **1)** od dnia wejścia w życie ustawy do dnia 31 grudnia 2004 r. – 8,25 % podstawy wymiaru;
+- **2)** od dnia 1 stycznia 2005 r. do dnia 31 grudnia 2005 r. – 8,5 % podstawy wymiaru;
+- **3)** od dnia 1 stycznia 2006 r. do dnia 31 grudnia 2006 r. – 8,75 % podstawy wymiaru.
+
 **Art. 243.** (pominięty)
 
 **Art. 244.** (uchylony)
@@ -7150,4 +7488,9 @@ Art. 196–228. (pominięte)
 **Art. 251.** Traci moc ustawa z dnia 23 stycznia 2003 r. o powszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia (Dz. U. poz. 391, z późn. zm. ).
 
 **Art. 252.** Ustawa wchodzi w życie z dniem 1 października 2004 r., z wyjątkiem:
+
+- **1)** art. 201, który wchodzi w życie z dniem 1 stycznia 2005 r.;
+- **2)** art. 239 ust. 1 i 2, które wchodzą w życie z dniem ogłoszenia ustawy. Załącznik do ustawy z dnia 27 sierpnia 2004 r. (Dz. U. z 2025 r. poz.
+- **1461)** (uchylony)
+
 

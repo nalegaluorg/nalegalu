@@ -8,10 +8,10 @@ pos: 1687
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 sierpnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1687 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 11 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1687/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 11 lipca 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 3 marca 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych (Dz. U.
 poz. 511), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r.
@@ -34,18 +33,19 @@ zmieniającym rozporządzenie w sprawie stażu adaptacyjnego i testu umiejętno�
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 marca 2017 r.
 w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2021 r. poz. 1646 oraz z 2022 r. poz. 1616) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad odbywaniem stażu adaptacyjnego oraz oceny nabytych przez wnioskodawcę umiejętności w trakcie jego odbywania, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego,
-2) warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania medycznych zawodów regulowanych.
+2) warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za przeprowadzenie testu umiejętności – w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania medycznych zawodów regulowanych.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie oznacza to ustawę z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
-2) ustawie o zawodach lekarza i lekarza dentysty oznacza to ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm. );
-3) jednostce ochrony zdrowia oznacza to podmioty wykonujące działalność leczniczą w rozumieniu przepisów o działalności leczniczej lub apteki, działy farmacji szpitalnej i osoby wykonujące usługi farmaceutyczne w rozumieniu przepisów o izbach aptekarskich i przepisów prawa farmaceutycznego;
-4) kierowniku jednostki oznacza to osobę reprezentującą jednostkę ochrony zdrowia albo osobę prowadzącą taką jednostkę;
-5) postępowaniu oznacza to postępowanie w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego prowadzone na podstawie przepisów ustawy;
-6) organie prowadzącym postępowanie oznacza to ministra właściwego do spraw zdrowia, Naczelną Radę Aptekarską, okręgowe rady pielęgniarek i położnych lub podmiot wskazany w trybie określonym w art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, z późn. zm. );
-7) środku kompensacyjnym oznacza to staż adaptacyjny lub test umiejętności w rozumieniu ustawy;
-8) programie stażu adaptacyjnego oznacza to zakres stażu adaptacyjnego określony indywidualnie dla każdego wnioskodawcy w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy;
-9) CEM oznacza to Centrum Egzaminów Medycznych w Łodzi działające na podstawie zarządzenia Ministra Zdrowia z dnia 22 czerwca 2010 r. w sprawie Centrum Egzaminów Medycznych (Dz. Urz. Min. Zdrow. poz. 55 oraz z 2012 r.
+1) ustawie – oznacza to ustawę z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+2) ustawie o zawodach lekarza i lekarza dentysty – oznacza to ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm. );
+3) jednostce ochrony zdrowia – oznacza to podmioty wykonujące działalność leczniczą w rozumieniu przepisów o działalności leczniczej lub apteki, działy farmacji szpitalnej i osoby wykonujące usługi farmaceutyczne w rozumieniu przepisów o izbach aptekarskich i przepisów prawa farmaceutycznego;
+4) kierowniku jednostki – oznacza to osobę reprezentującą jednostkę ochrony zdrowia albo osobę prowadzącą taką jednostkę;
+5) postępowaniu – oznacza to postępowanie w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego prowadzone na podstawie przepisów ustawy;
+6) organie prowadzącym postępowanie – oznacza to ministra właściwego do spraw zdrowia, Naczelną Radę Aptekarską, okręgowe rady pielęgniarek i położnych lub podmiot wskazany w trybie określonym w art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, z późn. zm. );
+7) środku kompensacyjnym – oznacza to staż adaptacyjny lub test umiejętności w rozumieniu ustawy;
+8) programie stażu adaptacyjnego – oznacza to zakres stażu adaptacyjnego określony indywidualnie dla każdego wnioskodawcy w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy;
+9) CEM – oznacza to Centrum Egzaminów Medycznych w Łodzi działające na podstawie zarządzenia Ministra Zdrowia z dnia 22 czerwca 2010 r. w sprawie Centrum Egzaminów Medycznych (Dz. Urz. Min. Zdrow. poz. 55 oraz z 2012 r.
 poz. 69).
 § 3. 1. Wnioskodawca po otrzymaniu postanowienia, o którym mowa w art. 20 ust. 1 ustawy, przekazuje organowi prowadzącemu postępowanie pisemną informację o dokonanym wyborze środka kompensacyjnego, z zastrzeżeniem art. 21 ust. 2 i 3 ustawy.
 2. W przypadku wyboru stażu adaptacyjnego wnioskodawca może wskazać jednostkę ochrony zdrowia, w której zamierza odbywać staż adaptacyjny. Wnioskodawca przekazuje organowi prowadzącemu postępowanie dokument zawierający:
@@ -54,6 +54,7 @@ poz. 69).
 3) informację o wysokości opłaty z tytułu kosztów odbycia stażu adaptacyjnego.
 3. W przypadku niezaakceptowania przez organ prowadzący postępowanie jednostki ochrony zdrowia wskazanej przez wnioskodawcę z powodu niemożności zrealizowania programu stażu adaptacyjnego albo w przypadku niedokonania przez wnioskodawcę wyboru jednostki ochrony zdrowia, wnioskodawca odbywa go w jednostce ochrony zdrowia wskazanej przez organ prowadzący postępowanie.
 4. Jeżeli wnioskodawca wnosi o uznanie kwalifikacji do wykonywania więcej niż jednego medycznego zawodu regulowanego, staż adaptacyjny lub test umiejętności przeprowadza się odrębnie dla każdego zawodu medycznego.
+§ 4. 1. Staż adaptacyjny jest odbywany w jednostkach ochrony zdrowia spełniających warunki do realizacji programu stażu adaptacyjnego.
 2. W przypadku lekarza lub lekarza dentysty, o których mowa w art. 5c ustawy o zawodach lekarza i lekarza dentysty, staż adaptacyjny jest odbywany w jednostkach ochrony zdrowia uprawnionych do prowadzenia stażu podyplomowego lekarza lub lekarza dentysty zgodnie z przepisami wydanymi na podstawie art. 15 ust. 5 ustawy o zawodach lekarza i lekarza dentysty.
 3. W przypadku lekarza lub lekarza dentysty, o których mowa w art. 16b ustawy o zawodach lekarza i lekarza dentysty, staż adaptacyjny jest odbywany w jednostkach ochrony zdrowia uprawnionych do prowadzenia szkolenia specjalizacyjnego w danej dziedzinie medycyny zgodnie z art. 16 ust. 2 ustawy o zawodach lekarza i lekarza dentysty.
 § 5. Organ prowadzący postępowanie wydaje wnioskodawcy skierowanie, w którym określa:
@@ -95,7 +96,7 @@ poz. 69).
 2) realizacji programu stażu adaptacyjnego;
 3) prowadzenia dziennika stażu adaptacyjnego.
 § 13. 1. Wnioskodawca dokumentuje przebieg stażu adaptacyjnego w dzienniku stażu adaptacyjnego otrzymanym od kierownika jednostki.
-2. stażu adaptacyjnego zawiera:
+2. Dziennik stażu adaptacyjnego zawiera:
 1) pieczątka, nadruk lub naklejka jednostki ochrony zdrowia, w której odbywa się staż adaptacyjny, zawierające informacje o nazwie, adresie, numerze telefonu, NIP lub REGON;
 2) imię i nazwisko wnioskodawcy;
 3) imię i nazwisko opiekuna stażu adaptacyjnego;
@@ -118,8 +119,7 @@ poz. 69).
 2. W przypadku, o którym mowa w ust. 1, po upływie okresu, o który przedłużono staż adaptacyjny, jest dokonywana ponownie ocena, o której mowa w § 15.
 § 17. Kierownik jednostki, w której została zakończona realizacja programu stażu adaptacyjnego, w terminie 3 dni od dnia, w którym dokonano oceny, o której mowa w § 15, informuje wnioskodawcę o ocenie oraz przekazuje organowi prowadzącemu postępowanie informację o zaliczeniu stażu adaptacyjnego albo jego niezaliczeniu, wraz z dziennikiem stażu adaptacyjnego.
 § 18. 1. Staż adaptacyjny może ulec przedłużeniu w przypadku:
-1) nieprzerwanej niezdolności do pracy wnioskodawcy, o której mowa w art. 92 § 1 ustawy z dnia 26 czerwca 1974 r.
-Kodeks pracy (Dz. U. z 2022 r. poz. 1510), przez okres dłuższy niż 14 dni;
+1) nieprzerwanej niezdolności do pracy wnioskodawcy, o której mowa w art. 92 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510), przez okres dłuższy niż 14 dni;
 2) przebywania wnioskodawcy na urlopie:
 a) macierzyńskim,
 b) ojcowskim,
@@ -136,6 +136,7 @@ e) bezpłatnym, nie dłużej niż 3 miesiące;
 4. Jednostka ochrony zdrowia w przypadkach, o których mowa w ust. 1 i 2, niezwłocznie przekazuje organowi prowadzącemu postępowanie dziennik stażu adaptacyjnego i program stażu adaptacyjnego wraz z informacją o zakresie jego realizacji.
 5. Organ prowadzący postępowanie wydaje niezwłocznie skierowanie na kontynuację odbycia stażu adaptacyjnego, zaliczając okres dotychczas odbytego stażu adaptacyjnego. Jednostka, w której jest kontynuowany staż adaptacyjny, zakłada z chwilą nawiązania stosunku prawnego z wnioskodawcą nowy dziennik stażu adaptacyjnego.
 6. Wraz ze skierowaniem na kontynuację odbycia stażu adaptacyjnego organ prowadzący postępowanie przesyła niezwłocznie jednostce ochrony zdrowia, w której staż adaptacyjny będzie kontynuowany, dziennik stażu adaptacyjnego, program stażu adaptacyjnego wraz z informacją o zakresie jego realizacji.
+§ 20. 1. Organ prowadzący postępowanie, w porozumieniu z dyrektorem CEM, wyznacza wnioskodawcy termin przeprowadzenia testu umiejętności.
 2. W przypadku osób zamierzających świadczyć usługi transgraniczne test umiejętności przeprowadza się w terminie 3 tygodni od dnia złożenia oświadczenia, o którym mowa w art. 33 ust. 1 ustawy.
 3. Organ prowadzący postępowanie przekazuje dyrektorowi CEM:
 1) wykaz osób, które będą przystępować do testu umiejętności w danym terminie w danym medycznym zawodzie regulowanym;
@@ -201,12 +202,13 @@ W przypadku osób zamierzających świadczyć usługi transgraniczne zaświadcze
 4. W przypadku osób zamierzających świadczyć usługi transgraniczne decyzję o unieważnieniu, o którym mowa w ust. 2, organ prowadzący postępowanie podejmuje w ciągu 3 dni od dnia doręczenia wniosku w tej sprawie i przekazuje ją do CEM. Unieważniony egzamin jest powtarzany w terminie nie dłuższym niż 7 dni od dnia podjęcia decyzji o unieważnieniu. W przypadku unieważnienia całości testu umiejętności wszystkie jego części odbywają się w terminie nie dłuższym niż 7 dni od dnia podjęcia decyzji o unieważnieniu.
 5. Niezwłocznie po otrzymaniu decyzji dyrektor CEM informuje o niej na stronie internetowej oraz przesyła wnioskodawcom listem poleconym.
 6. Za powtórzony test umiejętności albo jego część nie pobiera się opłaty egzaminacyjnej.
+§ 32. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny § 4. 1. Staż adaptacyjny jest odbywany w jednostkach ochrony zdrowia spełniających warunki do realizacji programu stażu adaptacyjnego.
+#### Rozdział 2 Staż adaptacyjny
 
-#### Rozdział 3 Test umiejętności § 20. 1. Organ prowadzący postępowanie, w porozumieniu z dyrektorem CEM, wyznacza wnioskodawcy termin przeprowadzenia testu umiejętności.
+#### Rozdział 3 Test umiejętności
 
-#### Rozdział 4 Przepis końcowy § 32. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+#### Rozdział 4 Przepis końcowy
 

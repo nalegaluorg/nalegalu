@@ -8,7 +8,7 @@ pos: 134
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie utworzenia okręgowych komisji egzaminacyjnych oraz określenia ich zasięgu terytorialnego.
@@ -24,7 +24,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990140134) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/134/text.pdf) |
 
-Na podstawie art. 9c ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943 oraz z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126) zarządza się, co następuje: § 1.
+Na podstawie art. 9c ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943 oraz z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126) zarządza się, co następuje:
+§ 1.
 Tworzy się okręgowe komisje egzaminacyjne z siedzibami w Gdańsku, Katowicach, Krakowie, Łodzi, Łomży, Poznaniu, Warszawie i Wrocławiu, zwane dalej „Komisjami”.
 § 2.
 Zasięg terytorialny działania Komisji obejmuje:

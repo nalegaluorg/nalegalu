@@ -8,10 +8,10 @@ pos: 2449
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22444499 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 23 listopada 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,22 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002449) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2449/text.pdf) |
 
-22444499 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 23 listopada 2022 r.
-w sprawie ośrodków kuratorskich Na podstawie art. 173 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie ośrodków kuratorskich Na podstawie art. 173 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy sposób funkcjonowania i organizacji ośrodków kuratorskich;
 2) tryb sprawowania nadzoru nad ośrodkami kuratorskimi oraz sposób dokumentowania tego nadzoru;
 3) wzór aktu utworzenia i zniesienia ośrodka kuratorskiego.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) dyrektorze sądu rozumie się przez to dyrektora sądu, przy którym działa ośrodek kuratorski;
-2) kierowniku ośrodka rozumie się przez to kierownika ośrodka kuratorskiego;
-3) kuratorze okręgowym rozumie się przez to kuratora okręgowego właściwego ze względu na sąd, przy którym działa ośrodek kuratorski;
-4) kwocie bazowej rozumie się przez to kwotę bazową ustaloną dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa;
-5) nieletnim rozumie się przez to nieletniego skierowanego do ośrodka kuratorskiego na podstawie orzeczenia sądu;
-6) ośrodku rozumie się przez to ośrodek kuratorski;
-7) prezesie sądu okręgowego rozumie się przez to prezesa sądu okręgowego, w którego okręgu działa ośrodek kuratorski;
-8) prezesie sądu rejonowego rozumie się przez to prezesa sądu rejonowego, przy którym działa ośrodek kuratorski;
-9) ustawie rozumie się przez to ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich;
-10) wychowawcy rozumie się przez to kuratora sądowego oraz inne osoby realizujące zadania w ośrodku kuratorskim.
+1) dyrektorze sądu – rozumie się przez to dyrektora sądu, przy którym działa ośrodek kuratorski;
+2) kierowniku ośrodka – rozumie się przez to kierownika ośrodka kuratorskiego;
+3) kuratorze okręgowym – rozumie się przez to kuratora okręgowego właściwego ze względu na sąd, przy którym działa ośrodek kuratorski;
+4) kwocie bazowej – rozumie się przez to kwotę bazową ustaloną dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa;
+5) nieletnim – rozumie się przez to nieletniego skierowanego do ośrodka kuratorskiego na podstawie orzeczenia sądu;
+6) ośrodku – rozumie się przez to ośrodek kuratorski;
+7) prezesie sądu okręgowego – rozumie się przez to prezesa sądu okręgowego, w którego okręgu działa ośrodek kuratorski;
+8) prezesie sądu rejonowego – rozumie się przez to prezesa sądu rejonowego, przy którym działa ośrodek kuratorski;
+9) ustawie – rozumie się przez to ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich;
+10) wychowawcy – rozumie się przez to kuratora sądowego oraz inne osoby realizujące zadania w ośrodku kuratorskim.
 § 3. 1. Wzór aktu utworzenia ośrodka jest określony w załączniku nr 1 do rozporządzenia.
 2. Wzór aktu zniesienia ośrodka jest określony w załączniku nr 2 do rozporządzenia.
 § 4. Ośrodek jest wyposażony w sprzęt niezbędny do prawidłowego funkcjonowania ośrodka oraz ma zaplecze socjalne, w szczególności kuchnię, łazienkę i toaletę.
@@ -87,15 +87,15 @@ w sprawie ośrodków kuratorskich Na podstawie art. 173 ustawy z dnia 9 czerwca 
 2. Prezes sądu rejonowego może zawiesić prowadzenie zajęć w ośrodku na okres nieprzekraczający łącznie trzech miesięcy w roku kalendarzowym.
 § 8. Kierownik ośrodka podejmuje działania niezbędne do prawidłowego funkcjonowania ośrodka, takie jak:
 1) sporządzanie i przedstawianie prezesowi sądu rejonowego do zatwierdzenia:
-a) rocznych planów pracy ośrodka do dnia 15 stycznia każdego roku,
-b) sprawozdań z rocznej działalności ośrodka do dnia 31 stycznia każdego roku za rok poprzedni,
-c) rocznych planów finansowych w zakresie działalności ośrodka do dnia 1 marca każdego roku na rok następny,
+a) rocznych planów pracy ośrodka – do dnia 15 stycznia każdego roku,
+b) sprawozdań z rocznej działalności ośrodka – do dnia 31 stycznia każdego roku za rok poprzedni,
+c) rocznych planów finansowych w zakresie działalności ośrodka – do dnia 1 marca każdego roku na rok następny,
 d) harmonogramu pracy ośrodka;
 2) prowadzenie zajęć wychowawczych z nieletnimi w wymiarze nie mniejszym niż 4 godziny zegarowe tygodniowo.
 § 9. Wartość nagrody, o której mowa w art. 169 pkt 1 ustawy, nie może przekroczyć 30 stawek dziennych, o których mowa w § 6 ust. 4.
 § 10. Wychowawca prowadzi zajęcia z nieletnimi w wymiarze:
-1) 8 godzin zegarowych tygodniowo zgodnie z rocznym planem pracy ośrodka jeżeli wychowawcą jest zawodowy kurator sądowy;
-2) określonym w umowie z dyrektorem sądu jeżeli wychowawcą nie jest zawodowy kurator sądowy.
+1) 8 godzin zegarowych tygodniowo zgodnie z rocznym planem pracy ośrodka – jeżeli wychowawcą jest zawodowy kurator sądowy;
+2) określonym w umowie z dyrektorem sądu – jeżeli wychowawcą nie jest zawodowy kurator sądowy.
 § 11. Sprawozdanie, o którym mowa w art. 163 ustawy, zawiera informacje o:
 1) frekwencji nieletniego w ośrodku kuratorskim;
 2) aktywności nieletniego podczas zajęć;
@@ -122,17 +122,21 @@ d) harmonogramu pracy ośrodka;
 4) Ministrowi Sprawiedliwości.
 6. Minister Sprawiedliwości w terminie 30 dni od dnia doręczenia sprawozdania, o którym mowa w ust. 5, może zwrócić się z żądaniem uzupełnienia sprawozdania we wskazanym przez siebie zakresie i terminie lub podjąć inne czynności zmierzające do usunięcia stwierdzonych uchybień.
 § 15. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro Załącznik nr 1 WZÓR AKT UTWORZENIA OŚRODKA KURATORSKIEGO Sąd Okręgowy w ............................... .................................
+Minister Sprawiedliwości: Z. Ziobro Załączniki do rozporządzenia Ministra Sprawiedliwości Dziennik Ustaw – 5 – z dnia 23 listopada 2022 r. (Dz. Poz. U. 2449 poz. .........) Załącznik nr 1 WZÓR WZÓR AKT UTWORZENIA OŚRODKA KURATORSKIEGO Sąd Okręgowy w ............................... .................................
 (miejscowość, data) Na podstawie art. 164 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700): Tworzy się z dniem ................................ Ośrodek Kuratorski nr ..........
 przy Sądzie Rejonowym w ................................................................... .
 Ośrodek używa pieczęci podłużnej o następującej treści: „Ośrodek Kuratorski nr ..........
 przy Sądzie Rejonowym w ..............................................”.
 Prezes Sądu Okręgowego ..............................................................
-WZÓR Załącznik nr 2 WZÓR AKT ZNIESIENIA OŚRODKA KURATORSKIEGO Sąd Okręgowy w ............................... .................................
+
+## Załącznik nr 2 — WZÓR WZÓR AKT ZNIESIENIA OŚRODKA KURATORSKIEGO Sąd Okręgowy w ............................... .................................
+
 (miejscowość, data) Na podstawie art. 164 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700): Znosi się z dniem ................................ Ośrodek Kuratorski nr ..........
 przy Sądzie Rejonowym w ................................................................ .
 Prezes Sądu Okręgowego ..............................................................
-WZÓR Załącznik nr 3 WZÓR DZIENNIK ZAJĘĆ OŚRODKA KURATORSKIEGO Część I. Informacje podstawowe: Ośrodek Kuratorski nr ..........
+
+## Załącznik nr 3 — WZÓR WZÓR DZIENNIK ZAJĘĆ OŚRODKA KURATORSKIEGO Część I. Informacje podstawowe: Ośrodek Kuratorski nr ..........
+
 przy Sądzie Rejonowym w ..............................
 nr telefonu: ......................................................
 adres e‑mail: ....................................................
@@ -144,14 +148,13 @@ Kuratorzy: .....................................................................
 ..........................................................................
 Inni wychowawcy/specjaliści: ..........................................................................
 ..........................................................................
-WZÓR Czas pracy ośrodka: dni i godziny w układzie tygodniowym: poniedziałek ............................................ , wtorek ...................................................... , środa ........................................................ , czwartek .................................................. , piątek ........................................................
+Czas pracy ośrodka: dni i godziny w układzie tygodniowym: poniedziałek ............................................ , wtorek ...................................................... , środa ........................................................ , czwartek .................................................. , piątek ........................................................
 HARMONOGRAM PROWADZENIA ZAJĘĆ ORAZ CZAS PRACY OŚRODKA Imię i nazwisko osoby Dzień tygodnia Godzina prowadzenia zajęć prowadzącej zajęcia poniedziałek wtorek środa czwartek piątek sobota niedziela Część II. Lista nieletnich LISTA NIELETNICH Data Kontakt do Sygn. akt Data rozpoczęcia rodzica/opiekuna: Lp. Imię i nazwisko Nkd urodzenia zajęć imię i nazwisko, Nw w ośrodku adres, nr tel.
 m m Część IV. Opis zajęć prowadzonych w ośrodku z uwzględnieniem zapisu codziennego według wzoru: Grupa ......................
 Podpis prowadzącego Data Temat zajęć Uwagi zajęcia
 1.
 2.
 3.
-Podpis osoby Wnioski do pracy Data Opis zachowania dokonującej wychowawczej wpisu WZÓR
-
-## Część V. Informacje o przeprowadzonych kontrolach Kontrolujący Podpis Data Forma Temat stanowisko imię i nazwisko pieczęć służbowe WZÓR ROCZNY PLAN PRACY OŚRODKA KURATORSKIEGO Z ROZBICIEM NA POSZCZEGÓLNE MIESIĄCE Cele Osoba(-by) odpowiedzialna(-ne) Temat zajęć Sposób realizacji Miesiąc i zadania za realizację WZÓR WZÓR ARKUSZ SPOSTRZEŻEŃ O NIELETNIM Sygn. akt. Nkd ...... Nw ...... Imię i nazwisko …………………………………….
+Część V. Informacje o przeprowadzonych kontrolach Kontrolujący Podpis Data Forma Temat stanowisko imię i nazwisko pieczęć służbowe Dziennik Ustaw – 12 – Załącznik Poz. nr 2449 4 WZÓR WZÓR ROCZNY PLAN PRACY OŚRODKA KURATORSKIEGO Z ROZBICIEM NA POSZCZEGÓLNE MIESIĄCE Cele Osoba(-by) odpowiedzialna(-ne) Temat zajęć Sposób realizacji Miesiąc i zadania za realizację Dziennik Ustaw – 13 – Załącznik Poz. nr 2449 5 WZÓR WZÓR ARKUSZ SPOSTRZEŻEŃ O NIELETNIM Sygn. akt. Nkd ...... Nw ...... Imię i nazwisko …………………………………….
+Podpis osoby Wnioski do pracy Data Opis zachowania dokonującej wychowawczej wpisu
 

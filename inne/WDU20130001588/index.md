@@ -8,7 +8,7 @@ pos: 1588
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 125/8/A/2013 WYROK z dnia 28 listopada 2013 r.

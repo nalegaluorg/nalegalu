@@ -8,10 +8,10 @@ pos: 794
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 794 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 kwietnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000794) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/794/text.pdf) |
 
-Poz. 794 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 kwietnia 2023 r.
-zmieniające rozporządzenie w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług Na podstawie art. 99 ust. 13b oraz art. 109 ust. 14 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów, Inwestycji i Rozwoju z dnia 15 października 2019 r. w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług (Dz. U. poz. 1988, z późn. zm. ) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług Na podstawie art. 99 ust. 13b oraz art. 109 ust. 14 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Finansów, Inwestycji i Rozwoju z dnia 15 października 2019 r. w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług (Dz. U. poz. 1988, z późn. zm. ) wprowadza się następujące zmiany:
 1) w § 4 w pkt 6 wyrazy „art. 103 ust. 5a i 5b” zastępuje się wyrazami „art. 103 ust. 5a i 5ac”;
 2) w § 10 w ust. 1 w pkt 13 wyrazy „art. 103 ust. 5a i 5b” zastępuje się wyrazami „art. 103 ust. 5a i 5ac”;
 3) tytuł rozdziału 3a otrzymuje brzmienie: „Przepisy epizodyczne”;

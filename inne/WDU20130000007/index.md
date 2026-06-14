@@ -8,7 +8,7 @@ pos: 7
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich oraz ustawy o ochronie przyrody

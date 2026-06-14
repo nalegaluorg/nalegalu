@@ -8,10 +8,10 @@ pos: 2282
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2282 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 8 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2282/text.pdf) |
 
-Poz. 2282 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 8 grudnia 2021 r.
-w sprawie trybu zakładania i udostępniania konta w systemie teleinformatycznym obsługującym postępowania egzekucyjne i zabezpieczające prowadzone przez komorników Na podstawie art. 158a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2021 r. poz. 850 i 1090) zarządza się, co następuje: § 1. Ilekroć w rozporządzeniu jest mowa o:
+w sprawie trybu zakładania i udostępniania konta w systemie teleinformatycznym obsługującym postępowania egzekucyjne i zabezpieczające prowadzone przez komorników Na podstawie art. 158a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2021 r. poz. 850 i 1090) zarządza się, co następuje:
+§ 1. Ilekroć w rozporządzeniu jest mowa o:
 1) użytkowniku konta – należy przez to rozumieć osobę fizyczną, dla której założono konto w systemie teleinformatycznym obsługującym postępowania egzekucyjne i zabezpieczające prowadzone przez komorników;
 2) koncie – należy przez to rozumieć zbiór danych określających użytkownika konta wraz z zasobami systemu teleinformatycznego obsługującego postępowania egzekucyjne i zabezpieczające prowadzone przez komorników, przyporządkowanymi do konta tego użytkownika;
 3) nazwie użytkownika – należy przez to rozumieć niepowtarzalny identyfikator użytkownika konta w systemie teleinformatycznym obsługującym postępowania egzekucyjne i zabezpieczające prowadzone przez komorników;
@@ -38,7 +38,6 @@ w sprawie trybu zakładania i udostępniania konta w systemie teleinformatycznym
 3) w przypadku braku nr PESEL – datę i miejsce urodzenia, rodzaj, numer i serię dokumentu tożsamości, albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. );
 4) adres poczty elektronicznej;
 5) adres do korespondencji.
-Dziennik Ustaw – 2 – Poz. 2282
 3. Po złożeniu wniosku wnioskodawca określa nazwę użytkownika konta i hasło, jeżeli nie korzysta z uwierzytelnienia przy pomocy węzła krajowego identyfikacji elektronicznej.
 4. Konto zakłada się po automatycznej weryfikacji imienia lub imion i nazwiska oraz numeru PESEL, jeżeli został nadany, na podstawie rejestru PESEL, albo po weryfikacji tożsamości za pośrednictwem węzła krajowego identyfikacji elektronicznej.
 § 3. Konto udostępnia się użytkownikowi konta po uwierzytelnieniu, które następuje za pośrednictwem węzła krajowego identyfikacji elektronicznej albo przez podanie nazwy użytkownika i hasła, jeżeli taki sposób uwierzytelnienia został przez użytkownika ustalony.

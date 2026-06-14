@@ -2,10 +2,10 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych.*
 
-Łącznie: **269** orzeczeń
+Łącznie: **272** orzeczeń
 (pominięto 20 orzeczeń sądów rejonowych)
 
-## art. 2 (111)
+## art. 2 (112)
 
 - 2007-01-12 | SN | [IV CSK 318/06](https://www.saos.org.pl/judgments/84979) | Wyrok ★
 - 2022-09-27 | SO | [I ACa 1084/21](https://www.saos.org.pl/judgments/477843) | Wyrok
@@ -27,6 +27,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów no
 - 2018-07-05 | SO | [I ACa 1106/17](https://www.saos.org.pl/judgments/370149) | Wyrok
 - 2017-10-19 | SO | [I ACa 419/17](https://www.saos.org.pl/judgments/481108) | Wyrok
 - 2013-10-23 | SO | [VI ACa 420/13](https://www.saos.org.pl/judgments/43253) | Wyrok
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2025-12-04 | SO | [VII U 464/25](https://www.saos.org.pl/judgments/539759) | Wyrok
 - 2022-03-31 | SO | [XII C 2202/14](https://www.saos.org.pl/judgments/467144) | Wyrok
 - 2022-03-23 | SO | [XII C 1208/14](https://www.saos.org.pl/judgments/462515) | Wyrok
@@ -169,11 +170,14 @@ Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów no
 - 2004-06-18 | TK | [Tw 13/04](https://www.saos.org.pl/judgments/107090) | Postanowienie ★
 - 2003-02-12 | TK | [U 1/02](https://www.saos.org.pl/judgments/106684) | Postanowienie ★
 
-## art. 9 (102)
+## art. 9 (105)
 
 - 2002-12-10 | TK | [K 27/02](https://www.saos.org.pl/judgments/206152) | Wyrok ★
+- 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok
 - 2025-07-07 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/542880) | Wyrok
 - 2025-06-11 | SO | [III AUa 631/25](https://www.saos.org.pl/judgments/541214) | Uzasadnienie
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
+- 2026-03-07 | SO | [VII U 1167/25](https://www.saos.org.pl/judgments/545128) | Wyrok
 - 2026-01-19 | SO | [VII U 99/25](https://www.saos.org.pl/judgments/542232) | Wyrok
 - 2026-01-19 | SO | [VII U 81/25](https://www.saos.org.pl/judgments/542031) | Wyrok
 - 2025-12-31 | SO | [VII U 1847/24](https://www.saos.org.pl/judgments/542026) | Wyrok
@@ -274,7 +278,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów no
 - 2024-12-17 | SO | [VIII U 1982/24](https://www.saos.org.pl/judgments/526910) | Uzasadnienie
 - 2024-12-16 | SO | [VIII U 1924/24](https://www.saos.org.pl/judgments/526907) | Uzasadnienie
 
-## art. 10 (11)
+## art. 10 (12)
 
 - 2023-12-14 | SO | [III APa 8/23](https://www.saos.org.pl/judgments/504635) | Wyrok
 - 2022-09-20 | SO | [III AUa 1530/21](https://www.saos.org.pl/judgments/526426) | Wyrok
@@ -286,6 +290,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów no
 - 2020-11-19 | SO | [III AUa 88/20](https://www.saos.org.pl/judgments/440489) | Wyrok
 - 2020-11-19 | SO | [III AUa 115/20](https://www.saos.org.pl/judgments/440467) | Wyrok
 - 2016-05-25 | SO | [I ACa 1035/15](https://www.saos.org.pl/judgments/258004) | Wyrok
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2025-12-04 | SO | [VII U 464/25](https://www.saos.org.pl/judgments/539759) | Wyrok
 
 ## art. 13 (112)
@@ -418,9 +423,10 @@ Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów no
 - 2025-07-07 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/542880) | Wyrok
 - 2025-06-11 | SO | [III AUa 631/25](https://www.saos.org.pl/judgments/541214) | Uzasadnienie
 
-## art. 21 (2)
+## art. 21 (3)
 
 - 2002-12-10 | TK | [K 27/02](https://www.saos.org.pl/judgments/206152) | Wyrok ★
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2025-12-04 | SO | [VII U 464/25](https://www.saos.org.pl/judgments/539759) | Wyrok
 
 ## art. 25 (1)

@@ -8,10 +8,10 @@ pos: 1741
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1741 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 28 lipca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1741/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 28 lipca 2023 r.
-w sprawie czynności administracyjnych związanych z wykonywaniem tymczasowego aresztowania oraz kar i środków przymusu skutkujących pozbawienie wolności oraz dokumentowania tych czynności Na podstawie art. 249 § 3 pkt 7 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818 i 1606) zarządza się, co następuje:
-1) Centralna Baza Centralną Bazę Danych Osób Pozbawionych Wolności, o której mowa w art. 2 ust. 2 pkt 7a ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683);
-2) cudzoziemiec cudzoziemca w rozumieniu ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547);
-3) dokument osobisty następujące dokumenty:
+w sprawie czynności administracyjnych związanych z wykonywaniem tymczasowego aresztowania oraz kar i środków przymusu skutkujących pozbawienie wolności oraz dokumentowania tych czynności Na podstawie art. 249 § 3 pkt 7 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818 i 1606) zarządza się, co następuje:
+§ 1. Użyte w rozporządzeniu określenia oznaczają:
+1) Centralna Baza – Centralną Bazę Danych Osób Pozbawionych Wolności, o której mowa w art. 2 ust. 2 pkt 7a ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683);
+2) cudzoziemiec – cudzoziemca w rozumieniu ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547);
+3) dokument osobisty – następujące dokumenty:
 a) dowód osobisty,
 b) dokument paszportowy,
 c) książeczkę żeglarską,
@@ -37,44 +37,44 @@ d) dokument podróży,
 e) kartę pobytu, polski dokument tożsamości cudzoziemca, polski dokument podróży dla cudzoziemca, tymczasowy polski dokument podróży dla cudzoziemca, tymczasowe zaświadczenie tożsamości cudzoziemca, dokument potwierdzający posiadanie zgody na pobyt tolerowany o nazwie „zgoda na pobyt tolerowany”,
 f) inny dokument potwierdzający obywatelstwo lub prawo pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej,
 g) książeczkę wojskową, legitymację służbową żołnierza zawodowego oraz legitymację służbową funkcjonariusza organu powołanego do ochrony bezpieczeństwa publicznego, funkcjonariusza lub pracownika Służby Więziennej albo pracownika organu wymiaru sprawiedliwości lub organu ścigania;
-4) dokument podróży dokument uprawniający do przekroczenia granicy, w rozumieniu ustawy z dnia 12 grudnia 2013 r.
+4) dokument podróży – dokument uprawniający do przekroczenia granicy, w rozumieniu ustawy z dnia 12 grudnia 2013 r.
 o cudzoziemcach, albo inny dokument potwierdzający tożsamość i obywatelstwo cudzoziemca, o którym mowa w art. 9 ust. 1 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r.
 poz. 1697 oraz z 2023 r. poz. 547);
-5) dyrektor dyrektora jednostki penitencjarnej;
-6) dyrektor okręgowy dyrektora okręgowego Służby Więziennej;
-7) jednostka penitencjarna zakład karny lub areszt śledczy;
-8) kara porządkowa karę, o której mowa w art. 276 § 2 i art. 916 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, 1429, 1606, 1615 i 1667), zwanej dalej „k.p.c.”, art. 287 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ), zwanej dalej „k.pk.”, oraz art. 49 § 1 i art. 50 § 3 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U.
+5) dyrektor – dyrektora jednostki penitencjarnej;
+6) dyrektor okręgowy – dyrektora okręgowego Służby Więziennej;
+7) jednostka penitencjarna – zakład karny lub areszt śledczy;
+8) kara porządkowa – karę, o której mowa w art. 276 § 2 i art. 916 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, 1429, 1606, 1615 i 1667), zwanej dalej „k.p.c.”, art. 287 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ), zwanej dalej „k.p.k.”, oraz art. 49 § 1 i art. 50 § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U.
 z 2023 r. poz. 217, z późn. zm. );
-9) kierownik kierownika działu ewidencji zakładu karnego lub aresztu śledczego, zastępcę kierownika działu ewidencji zakładu karnego lub aresztu śledczego lub inną osobę, która sprawuje funkcję kierownika działu ewidencji zakładu karnego lub aresztu śledczego albo go zastępuje podczas jego nieobecności lub upoważnioną pisemnie za zgodą dyrektora do dokonywania w jego imieniu określonych czynności;
-10) komendant wojewódzki Policji również Komendanta Stołecznego Policji;
-11) KOZZD Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym, o którym mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2022 r. poz. 1689);
-12) odpis orzeczenia odzwierciedlenie treści orzeczenia, a także jego wyciąg;
-13) okres wykonywania kary okres wykonywania kary pozbawienia wolności, zastępczej kary pozbawienia wolności, kary aresztu wojskowego, kary aresztu lub zastępczej kary aresztu, kary porządkowej oraz środka przymusu skutkującego pozbawieniem wolności, orzeczonego w postępowaniu cywilnym;
-14) organ doprowadzający funkcjonariusza jednostki organizacyjnej Policji, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno-Skarbowej, żołnierza Żandarmerii Wojskowej, a ponadto komornika przy wykonywaniu orzeczenia sądu o zastosowaniu środka przymusu skutkującego pozbawieniem wolności wydanego w postępowaniu cywilnym oraz funkcjonariusza Służby Więziennej w przypadku, o którym mowa w art. 18 ust. 1 pkt 7 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej, a także w przypadku polecenia doprowadzenia;
-15) organ dysponujący prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, a po wniesieniu aktu oskarżenia sąd, przed którym sprawa się toczy, w sprawie, w której nastąpiło tymczasowe aresztowanie;
-16) organ wzywający prokuratora lub sąd, który wystawił nakaz wydania lub polecenie przetransportowania osadzonego w związku z jego udziałem w czynnościach procesowych;
-17) orzeczenie oczekujące na wykonanie orzeczenie podlegające wykonaniu, przesłane przez sąd wraz z informacją o poleceniu zatrzymania i doprowadzenia albo terminem stawienia się do aresztu śledczego oraz pozostałymi dokumentami niezbędnymi do przyjęcia;
-18) osadzony osobę pozbawioną wolności, ujętą w ewidencji jednostki penitencjarnej;
-19) osoba powiązana tymczasowo aresztowanego wymagającego izolowania od innego, wskazanego przez organ dysponujący tymczasowo aresztowanego;
-20) placówka pocztowa placówkę w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r.
+9) kierownik – kierownika działu ewidencji zakładu karnego lub aresztu śledczego, zastępcę kierownika działu ewidencji zakładu karnego lub aresztu śledczego lub inną osobę, która sprawuje funkcję kierownika działu ewidencji zakładu karnego lub aresztu śledczego albo go zastępuje podczas jego nieobecności lub upoważnioną pisemnie za zgodą dyrektora do dokonywania w jego imieniu określonych czynności;
+10) komendant wojewódzki Policji – również Komendanta Stołecznego Policji;
+11) KOZZD – Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym, o którym mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2022 r. poz. 1689);
+12) odpis orzeczenia – odzwierciedlenie treści orzeczenia, a także jego wyciąg;
+13) okres wykonywania kary – okres wykonywania kary pozbawienia wolności, zastępczej kary pozbawienia wolności, kary aresztu wojskowego, kary aresztu lub zastępczej kary aresztu, kary porządkowej oraz środka przymusu skutkującego pozbawieniem wolności, orzeczonego w postępowaniu cywilnym;
+14) organ doprowadzający – funkcjonariusza jednostki organizacyjnej Policji, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno-Skarbowej, żołnierza Żandarmerii Wojskowej, a ponadto komornika przy wykonywaniu orzeczenia sądu o zastosowaniu środka przymusu skutkującego pozbawieniem wolności wydanego w postępowaniu cywilnym oraz funkcjonariusza Służby Więziennej w przypadku, o którym mowa w art. 18 ust. 1 pkt 7 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej, a także w przypadku polecenia doprowadzenia;
+15) organ dysponujący – prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, a po wniesieniu aktu oskarżenia – sąd, przed którym sprawa się toczy, w sprawie, w której nastąpiło tymczasowe aresztowanie;
+16) organ wzywający – prokuratora lub sąd, który wystawił nakaz wydania lub polecenie przetransportowania osadzonego w związku z jego udziałem w czynnościach procesowych;
+17) orzeczenie oczekujące na wykonanie – orzeczenie podlegające wykonaniu, przesłane przez sąd wraz z informacją o poleceniu zatrzymania i doprowadzenia albo terminem stawienia się do aresztu śledczego oraz pozostałymi dokumentami niezbędnymi do przyjęcia;
+18) osadzony – osobę pozbawioną wolności, ujętą w ewidencji jednostki penitencjarnej;
+19) osoba powiązana – tymczasowo aresztowanego wymagającego izolowania od innego, wskazanego przez organ dysponujący tymczasowo aresztowanego;
+20) placówka pocztowa – placówkę w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r.
 poz. 1640);
-21) polecenie doprowadzenia polecenie:
-a) o którym mowa w art. 201 § 3 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy, zwanej dalej „k.k.w.” przeniesienia osadzonego do zakładu psychiatrycznego,
-b) o którym mowa w art. 19 ust. 3 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób przeniesienia skazanego do KOZZD,
-c) związane z wykonaniem postanowienia sądu penitencjarnego o udzieleniu przerwy w wykonaniu kary, o której mowa w art. 153 § 1 k.k.w. przeniesienia skazanego lub ukaranego do podmiotu leczniczego innego niż podmiot leczniczy dla osób pozbawionych wolności, w celu podjęcia leczenia, z tym że polecenie to może być zawarte również w treści tego postanowienia;
-22) pomieszczenie Policji pomieszczenie, o którym mowa w art. 223b § 1 kk.w., w którym mogą być odrębnie umieszczeni tymczasowo aresztowani po wniesieniu aktu oskarżenia, skazani i ukarani;
-23) przepustka przepustkę oraz zezwolenie na czasowe opuszczenie terenu jednostki penitencjarnej udzielone na podstawie przepisów art. 91 pkt 7, art. 92 pkt 9, art. 138 § 1 pkt 7 i 8, art. 165 § 2 oraz art. 234 § 2 kk.w., art. 1059 k.p.c., a ponadto udzielone na podstawie art. 91 pkt 3 i 4, art. 92 pkt 3 i 4, art. 131 § 2 oraz art. 141a § 1 kk.w., jeżeli są realizowane bez konwoju, asysty funkcjonariusza lub pracownika Służby Więziennej albo bez asysty innej osoby godnej zaufania;
-24) przetransportowanie przeniesienie osadzonego do innej jednostki penitencjarnej połączone ze skreśleniem go z ewidencji jednostki penitencjarnej, w której przebywał, i z ujęciem go w ewidencji jednostki penitencjarnej, do której został przeniesiony;
-25) skazany osobę odbywającą karę pozbawienia wolności, zastępczą karę pozbawienia wolności lub karę aresztu wojskowego za przestępstwo lub przestępstwo skarbowe;
-26) środek przymusu środek przymusu skutkujący pozbawieniem wolności, orzeczony w postępowaniu cywilnym;
-27) tymczasowo aresztowany osobę pozbawioną wolności na podstawie postanowienia o tymczasowym aresztowaniu, w tym również:
-a) po wyroku skazującym sądu pierwszej instancji do czasu otrzymania odpisu wyroku, którym wymierzono karę pozbawienia wolności albo karę aresztu wojskowego, wraz z nakazem przyjęcia,
-b) skazaną za granicą do czasu otrzymania odpisu orzeczenia sądu okręgowego określającego karę pozbawienia wolności, która ma być wykonywana, wraz z nakazem przyjęcia;
-28) ukarany osobę odbywającą karę aresztu lub zastępczą karę aresztu orzeczoną za wykroczenie albo zastępczą karę pozbawienia wolności orzeczoną za wykroczenie skarbowe, karę porządkową, a także osobę, wobec której jest wykonywany środek przymusu;
-29) właściwy sąd sąd, który skierował orzeczenie do wykonania;
-30) zakład leczniczy podmiot, o którym mowa w art. 213 § 1 k.k.w., znajdujący się poza terenem jednostki penitencjarnej;
-31) zarządzenie również odpis zarządzenia jako odzwierciedlenie jego treści, a także jego wyciąg.
-§ 2. 1. W przypadku gdy przepis rozporządzenia dotyczy przerwy w wykonaniu kary, przepisy dotyczące sądu penitencjarnego stosuje się do sądu oraz Prokuratora Generalnego, o których mowa w art. 568 k.pk.
+21) polecenie doprowadzenia – polecenie:
+a) o którym mowa w art. 201 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, zwanej dalej „k.k.w.” – przeniesienia osadzonego do zakładu psychiatrycznego,
+b) o którym mowa w art. 19 ust. 3 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób – przeniesienia skazanego do KOZZD,
+c) związane z wykonaniem postanowienia sądu penitencjarnego o udzieleniu przerwy w wykonaniu kary, o której mowa w art. 153 § 1 k.k.w. – przeniesienia skazanego lub ukaranego do podmiotu leczniczego innego niż podmiot leczniczy dla osób pozbawionych wolności, w celu podjęcia leczenia, z tym że polecenie to może być zawarte również w treści tego postanowienia;
+22) pomieszczenie Policji – pomieszczenie, o którym mowa w art. 223b § 1 k.k.w., w którym mogą być odrębnie umieszczeni tymczasowo aresztowani po wniesieniu aktu oskarżenia, skazani i ukarani;
+23) przepustka – przepustkę oraz zezwolenie na czasowe opuszczenie terenu jednostki penitencjarnej udzielone na podstawie przepisów art. 91 pkt 7, art. 92 pkt 9, art. 138 § 1 pkt 7 i 8, art. 165 § 2 oraz art. 234 § 2 k.k.w., art. 1059 k.p.c., a ponadto udzielone na podstawie art. 91 pkt 3 i 4, art. 92 pkt 3 i 4, art. 131 § 2 oraz art. 141a § 1 k.k.w., jeżeli są realizowane bez konwoju, asysty funkcjonariusza lub pracownika Służby Więziennej albo bez asysty innej osoby godnej zaufania;
+24) przetransportowanie – przeniesienie osadzonego do innej jednostki penitencjarnej połączone ze skreśleniem go z ewidencji jednostki penitencjarnej, w której przebywał, i z ujęciem go w ewidencji jednostki penitencjarnej, do której został przeniesiony;
+25) skazany – osobę odbywającą karę pozbawienia wolności, zastępczą karę pozbawienia wolności lub karę aresztu wojskowego za przestępstwo lub przestępstwo skarbowe;
+26) środek przymusu – środek przymusu skutkujący pozbawieniem wolności, orzeczony w postępowaniu cywilnym;
+27) tymczasowo aresztowany – osobę pozbawioną wolności na podstawie postanowienia o tymczasowym aresztowaniu, w tym również:
+a) po wyroku skazującym sądu pierwszej instancji – do czasu otrzymania odpisu wyroku, którym wymierzono karę pozbawienia wolności albo karę aresztu wojskowego, wraz z nakazem przyjęcia,
+b) skazaną za granicą – do czasu otrzymania odpisu orzeczenia sądu okręgowego określającego karę pozbawienia wolności, która ma być wykonywana, wraz z nakazem przyjęcia;
+28) ukarany – osobę odbywającą karę aresztu lub zastępczą karę aresztu orzeczoną za wykroczenie albo zastępczą karę pozbawienia wolności orzeczoną za wykroczenie skarbowe, karę porządkową, a także osobę, wobec której jest wykonywany środek przymusu;
+29) właściwy sąd – sąd, który skierował orzeczenie do wykonania;
+30) zakład leczniczy – podmiot, o którym mowa w art. 213 § 1 k.k.w., znajdujący się poza terenem jednostki penitencjarnej;
+31) zarządzenie – również odpis zarządzenia jako odzwierciedlenie jego treści, a także jego wyciąg.
+§ 2. 1. W przypadku gdy przepis rozporządzenia dotyczy przerwy w wykonaniu kary, przepisy dotyczące sądu penitencjarnego stosuje się do sądu oraz Prokuratora Generalnego, o których mowa w art. 568 k.p.k.
 2. Przepisy dotyczące tymczasowo aresztowanych stosuje się do osoby pozbawionej wolności na terytorium innego państwa, czasowo wydanej w celu złożenia zeznań w charakterze świadka lub dokonania z jej udziałem innej czynności procesowej przed polskim sądem lub prokuratorem w toczącym się postępowaniu karnym.
 § 3. 1. Jeżeli rozporządzenie nie stanowi inaczej, wszelkie czynności administracyjne wykonuje się bezzwłocznie. Dotyczy to w szczególności wprowadzania do wykonania postanowień w przedmiocie tymczasowego aresztowania, orzeczeń, obliczania okresu wykonywania kary, realizowania zwolnień, dokonywania adnotacji w aktach i dokumentach ewidencyjnych, przesyłania zawiadomień, doręczania osadzonym korespondencji oraz dokonywania wpisów do Centralnej Bazy.
 2. W razie konieczności zmiany lub poprawki w zapisie dokonanym w dokumencie nowy zapis odnotowuje się obok dotychczasowego, który przekreśla się w sposób umożliwiający jego odczytanie. Prawidłowość zmiany lub poprawki potwierdza czytelnym podpisem oraz datą, obok przekreślenia, osoba, która dokonała korekty. Przepisu nie stosuje się do dokonywania zmian lub poprawek w dokumentach elektronicznych; w takim przypadku tworzy się nowy dokument elektroniczny z uwzględnieniem zmian lub poprawek z zachowaniem wcześniejszego dokumentu elektronicznego.
@@ -96,13 +96,13 @@ b) skazaną za granicą do czasu otrzymania odpisu orzeczenia sądu okręgowego 
 3. Do czasu wykonania przez właściwy organ czynności, o których mowa w ust. 1, nie można przyjąć dokumentów do wykonania, chyba że sprostowanie dotyczy oczywistej omyłki pisarskiej lub rachunkowej.
 4. W przypadku, gdy właściwy organ nie wykona żądania, o którym mowa w ust. 1, dokumenty zwraca się wraz z pismem informującym o przyczynie zwrotu.
 § 6. 1. Dokumenty dotyczące czynności administracyjnych określonych w rozporządzeniu, w szczególności skutkujące pozbawieniem wolności, koniecznością dokonania lub zmiany obliczenia okresu wykonywania kary, wydaniem poza teren jednostki penitencjarnej lub zwolnieniem osadzonego oraz zawiadomienia, doręcza się przez:
-1) operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe;
+1) operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe;
 2) pracownika organu wysyłającego;
 3) organ doprowadzający;
 4) Centralną Bazę lub elektroniczną skrzynkę podawczą w formie:
 a) dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703),
-b) odwzorowania cyfrowego (skanu) dokumentu podpisanego kwalifikowanym podpisem elektronicznym albo zaawansowanym podpisem elektronicznym weryfikowanym certyfikatem, wystawianym przez Centralny Zarząd Służby Więziennej lub przez sąd, któremu Minister Sprawiedliwości powierzył zadania związane z wystawianiem takich certyfikatów, opatrzonym elektronicznym znacznikiem czasu, również przy użyciu elektronicznych znaczników czasu.
-2. Jeżeli brak jest możliwości doręczenia dokumentu przez Centralną Bazę lub elektroniczną skrzynkę podawczą, dokumenty mogą być przesłane również za pomocą innych środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) w formie, o której mowa w ust. 1 pkt 4, z zastrzeżeniem, że w przypadku dokumentów skutkujących pozbawieniem wolności lub zwolnieniem osadzonego, dla skuteczności doręczenia wymagane jest wcześniejsze poinformowanie telefonicznie dyrektora, a w czasie jego nieobecności dowódcę zmiany i przesłanie dokumentów w tej formie.
+b) odwzorowania cyfrowego (skanu) dokumentu – podpisanego kwalifikowanym podpisem elektronicznym albo zaawansowanym podpisem elektronicznym weryfikowanym certyfikatem, wystawianym przez Centralny Zarząd Służby Więziennej lub przez sąd, któremu Minister Sprawiedliwości powierzył zadania związane z wystawianiem takich certyfikatów, opatrzonym elektronicznym znacznikiem czasu, również przy użyciu elektronicznych znaczników czasu.
+2. Jeżeli brak jest możliwości doręczenia dokumentu przez Centralną Bazę lub elektroniczną skrzynkę podawczą, dokumenty mogą być przesłane również za pomocą innych środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) w formie, o której mowa w ust. 1 pkt 4, z zastrzeżeniem, że w przypadku dokumentów skutkujących pozbawieniem wolności lub zwolnieniem osadzonego, dla skuteczności doręczenia wymagane jest wcześniejsze poinformowanie telefonicznie dyrektora, a w czasie jego nieobecności – dowódcę zmiany i przesłanie dokumentów w tej formie.
 3. Doręczenie dokumentów w sposób, o którym mowa w ust. 2, nie zwalnia nadawcy od obowiązku doręczenia tych dokumentów do jednostki penitencjarnej, zgodnie z ust. 1.
 4. Dokumenty doręczone w formie dokumentu elektronicznego podlegają wydrukowaniu i włączeniu do akt ewidencyjnych. Osoba sporządzając wydruk zaopatruje go w datę i podpis oraz odcisk stempla imiennego.
 § 7. Dyrektor nie jest uprawniony do odmowy wykonania orzeczenia, które zawiera wzmiankę o wykonalności.
@@ -111,6 +111,7 @@ W przypadku uzasadnionego przypuszczenia, że pozbawienie wolności lub zwolnien
 2. W przypadku braku możliwości ustalenia, czy dokument wystawiony przez sąd w postępowaniu karnym pochodzi od organu dysponującego, należy zwrócić się do tego sądu o wskazanie sygnatury akt prokuratorskich; przepisy § 5 ust. 1, 3 i 4 stosuje się.
 § 9. 1. Sprawdzenie tożsamości osadzonego w związku z przyjęciem go do jednostki penitencjarnej, przed i po przetransportowaniu, w związku z wydaniem go poza teren jednostki penitencjarnej, opuszczeniem terenu jednostki penitencjarnej na podstawie decyzji o udzieleniu mu przepustki lub w związku ze zwolnieniem go, odbywa się w szczególności na podstawie dokumentów osobistych, rysopisu i zdjęć, a w razie potrzeby na podstawie przeglądu akt ewidencyjnych lub teczki osobopoznawczej albo przy wykorzystaniu informacji o tej osobie, zawartych w Centralnej Bazie.
 2. Wydanie osadzonego organowi doprowadzającemu następuje po pisemnym potwierdzeniu jego przejęcia czytelnym podpisem konwojenta, zawierającym imię i nazwisko. Potwierdzenie przejęcia zawiera ponadto datę i numer legitymacji służbowej.
+§ 10. 1. Tymczasowo aresztowanego mężczyznę osadza się w areszcie śledczym przeznaczonym dla mężczyzn.
 2. Tymczasowo aresztowaną kobietę osadza się w areszcie śledczym przeznaczonym dla kobiet.
 3. Przepisy ust. 1 i 2 stosuje się do skazanego i ukaranego, który zgłosił się do odbycia kary.
 § 11. 1. Tymczasowo aresztowanego przyjmuje się do aresztu śledczego wskazanego w nakazie przyjęcia, chyba że rozporządzenie stanowi inaczej.
@@ -118,14 +119,14 @@ W przypadku uzasadnionego przypuszczenia, że pozbawienie wolności lub zwolnien
 3. Tymczasowo aresztowanego wobec którego zarządzono poszukiwanie, przyjmuje się do aresztu śledczego, do którego nastąpiło doprowadzenie; przepis nie dotyczy przypadku, gdy w tej samej miejscowości siedzibę ma areszt śledczy wskazany w nakazie przyjęcia.
 4. Skazanego lub ukaranego doprowadzonego do odbycia kary przyjmuje się do aresztu śledczego, w którym znajduje się orzeczenie oczekujące na wykonanie. W szczególnie uzasadnionym przypadku, zwłaszcza gdy znaczna odległość pomiędzy siedzibą aresztu śledczego, w którym znajduje się orzeczenie, a siedzibą organu doprowadzającego i miejscem zatrzymania skazanego lub ukaranego, wobec którego zarządzono poszukiwanie, przemawia za doprowadzeniem zatrzymanego do innego aresztu śledczego, przyjmuje się go do aresztu, do którego nastąpiło doprowadzenie, o ile organ doprowadzający jednocześnie:
 1) zawiadomi o tym areszt śledczy, w którym znajduje się orzeczenie oczekujące na wykonanie;
-2) ustali warunki przyjęcia z dyrektorem, a w czasie jego nieobecności dowódcą zmiany.
+2) ustali warunki przyjęcia z dyrektorem, a w czasie jego nieobecności – dowódcą zmiany.
 5. Skazanego lub ukaranego doprowadzonego wraz z orzeczeniem przyjmuje się do aresztu śledczego, do którego nastąpiło doprowadzenie.
 6. Osadzonego, który zbiegł albo w wyznaczonym terminie nie powrócił z przepustki, przyjmuje się do:
 1) aresztu śledczego lub zakładu karnego typu zamkniętego, do którego nastąpiło doprowadzenie;
 2) jednostki penitencjarnej, do której się zgłosił; w takim przypadku przepisów § 10 nie stosuje się.
 7. Skazanego lub ukaranego doprowadzonego po przerwie w wykonaniu kary przyjmuje się do aresztu śledczego, do którego nastąpiło doprowadzenie, albo do zakładu karnego typu zamkniętego, w którym znajduje się dokumentacja doprowadzonego. Zgłaszającego się przyjmuje jednostka penitencjarna, o której mowa w § 134 ust. 2 i 3.
 8. Osobę skazaną za granicą i przekazaną na terytorium Rzeczypospolitej Polskiej w celu wykonania kary pozbawienia wolności oraz osobę pozbawioną wolności na terytorium innego państwa, sprowadzoną na terytorium Rzeczypospolitej Polskiej w celu złożenia zeznań w charakterze świadka lub dokonania z jej udziałem innej czynności procesowej w postępowaniu karnym, przyjmuje się do aresztu śledczego wskazanego w nakazie przyjęcia.
-9. W szczególnie uzasadnionym przypadku, gdy znaczna odległość pomiędzy siedzibą aresztu śledczego wskazanego w nakazie przyjęcia a miejscem przejęcia przez organ doprowadzający na terytorium Rzeczypospolitej Polskiej osoby skazanej za granicą i przekazanej w celu wykonania kary pozbawienia wolności przemawia za doprowadzeniem tej osoby do innego aresztu śledczego, przyjmuje się ją do aresztu, do którego nastąpiło doprowadzenie. W takim przypadku, jeżeli zachodzi konieczność przyjęcia grupy takich osób, przyjęcie następuje po uprzednim ustaleniu warunków przyjęcia z dyrektorem, a w czasie jego nieobecności dowódcą zmiany, także w czasie wskazanym w § 34 ust. 1 zdanie pierwsze.
+9. W szczególnie uzasadnionym przypadku, gdy znaczna odległość pomiędzy siedzibą aresztu śledczego wskazanego w nakazie przyjęcia a miejscem przejęcia przez organ doprowadzający na terytorium Rzeczypospolitej Polskiej osoby skazanej za granicą i przekazanej w celu wykonania kary pozbawienia wolności przemawia za doprowadzeniem tej osoby do innego aresztu śledczego, przyjmuje się ją do aresztu, do którego nastąpiło doprowadzenie. W takim przypadku, jeżeli zachodzi konieczność przyjęcia grupy takich osób, przyjęcie następuje po uprzednim ustaleniu warunków przyjęcia z dyrektorem, a w czasie jego nieobecności – dowódcą zmiany, także w czasie wskazanym w § 34 ust. 1 zdanie pierwsze.
 10. Osadzonego wzywanego z innej jednostki penitencjarnej do udziału w czynnościach procesowych kieruje się do aresztu śledczego właściwego ze względu na rejonizację osadzania ustaloną dla danego organu wzywającego.
 § 12. 1. Szczegółową rejonizację osadzania tymczasowo aresztowanych w aresztach śledczych ustala dyrektor okręgowy w uzgodnieniu z właściwymi prezesami sądów okręgowych i wojskowych sądów garnizonowych, prokuratorami okręgowymi, naczelnikami Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej oraz komendantami wojewódzkimi Policji.
 2. Ustalona rejonizacja tymczasowo aresztowanych ma zastosowanie do osadzonych w związku z ich udziałem w czynnościach procesowych w sprawie, w której nie zastosowano tymczasowego aresztowania.
@@ -137,8 +138,8 @@ W przypadku uzasadnionego przypuszczenia, że pozbawienie wolności lub zwolnien
 § 13. 1. W uzasadnionym przypadku, w szczególności wynikającym z konieczności:
 1) zabezpieczenia prawidłowego toku postępowania karnego,
 2) zapewnienia bezpieczeństwa osobie pozbawionej wolności lub bezpieczeństwa jednostki penitencjarnej,
-3) zapewnienia normy powierzchni mieszkalnej właściwy dyrektor okręgowy wraz z organem dysponującym lub wzywającym uzgadniają, w którym areszcie śledczym ma być osadzona określona osoba.
-2. O dokonanych uzgodnieniach dyrektor okręgowy zawiadamia dyrektora aresztu śledczego, w którym ta osoba ma być osadzona, a jeżeli uzgodnienia dotyczą osoby już osadzonej również dyrektora aresztu śledczego, w którym osoba ta aktualnie przebywa.
+3) zapewnienia normy powierzchni mieszkalnej – właściwy dyrektor okręgowy wraz z organem dysponującym lub wzywającym uzgadniają, w którym areszcie śledczym ma być osadzona określona osoba.
+2. O dokonanych uzgodnieniach dyrektor okręgowy zawiadamia dyrektora aresztu śledczego, w którym ta osoba ma być osadzona, a jeżeli uzgodnienia dotyczą osoby już osadzonej – również dyrektora aresztu śledczego, w którym osoba ta aktualnie przebywa.
 3. Jeżeli osadzony już przebywa w jednostce penitencjarnej wniosek o zmianę rejonizacji może złożyć również dyrektor. Do wniosku dołącza się zgodę organu dysponującego lub wzywającego.
 § 14. 1. Tymczasowo aresztowany, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, może być przetransportowany do innego aresztu śledczego wyłącznie na podstawie pisemnego polecenia lub pisemnej zgody organu dysponującego, chyba że rozporządzenie stanowi inaczej.
 2. Przepisu ust. 1 nie stosuje się do tymczasowo aresztowanego, którego można przetransportować do innej jednostki penitencjarnej na podstawie art. 223 § 5 k.k.w.
@@ -161,6 +162,7 @@ b) objętego szczególną ochroną, o której mowa w lit. a, w celu zapewnienia 
 2. Jeżeli w wyniku przekazania tymczasowo aresztowanego do dyspozycji innego organu konieczne jest przetransportowanie go do innego aresztu śledczego, ustalonego w rejonizacji osadzania tego organu, dyrektor zawiadamia o tym organ dysponujący.
 3. Dyrektor może, po upływie 14 dni od dnia przyjęcia, przetransportowania lub otrzymania zawiadomienia o przekazaniu do dyspozycji innego organu, samodzielnie polecić dokonanie przetransportowania osadzonego do właściwego ze względu na rejonizację osadzania aresztu śledczego, chyba że organ dysponujący lub wzywający zawiadomi, że inaczej uzgodnił z dyrektorem okręgowym.
 4. W przypadku tymczasowo aresztowanego, o którym mowa w § 11 ust. 2, 3 i 8, przyjętego do aresztu śledczego, który nie jest właściwy ze względu na rejonizację osadzania ustaloną dla danego organu dysponującego, dyrektor może, po upływie 14 dni od dnia przyjęcia, samodzielnie polecić dokonanie przetransportowania tymczasowo aresztowanego do właściwego ze względu na rejonizację osadzania aresztu śledczego.
+§ 20. 1. Przyjęcie do aresztu śledczego następuje po sprawdzeniu:
 1) dokumentów niezbędnych do przyjęcia;
 2) tożsamości osoby przyjmowanej.
 2. Do aresztu śledczego nie może być przyjęty osadzony wydany do udziału w czynnościach procesowych z innej jednostki penitencjarnej i nadal pozostający w jej ewidencji. Przepisu nie stosuje się do osadzonych, którzy zbiegli w czasie czynności procesowych.
@@ -179,7 +181,7 @@ nakaz przyjęcia może wystawić również prokurator.
 a) wykonaniu warunkowo zawieszonej kary,
 b) odwołaniu warunkowego zwolnienia albo amnestii,
 c) wykonaniu zastępczej kary pozbawienia wolności albo zastępczej kary aresztu,
-d) uchyleniu zezwolenia na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego oraz o wykonaniu tej kary w zakładzie karnym wraz z nakazem przyjęcia;
+d) uchyleniu zezwolenia na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego oraz o wykonaniu tej kary w zakładzie karnym – wraz z nakazem przyjęcia;
 3) odpis orzeczenia sądu okręgowego określającego karę pozbawienia wolności, która ma być wykonywana wobec osoby skazanej za granicą, wraz z nakazem przyjęcia;
 4) odpis orzeczenia sądu rejonowego o wykonaniu orzeczenia o karach o charakterze pieniężnym wobec osoby skazanej za granicą oraz odpis orzeczenia o wykonaniu zastępczej kary pozbawienia wolności wraz z nakazem przyjęcia;
 5) odpis orzeczenia o wymierzeniu kary porządkowej wraz z nakazem przyjęcia.
@@ -203,14 +205,14 @@ d) uchyleniu zezwolenia na odbycie przez skazanego kary pozbawienia wolności w 
 4. O przyjęciu osadzonego zawiadamia się natychmiast jednostkę penitencjarną, w której ewidencji pozostaje osadzony. Jednostka penitencjarna, która otrzymała zawiadomienie przesyła akta ewidencyjne, pozostałą dokumentację i depozyty osadzonego do jednostki penitencjarnej, w której nastąpiło przyjęcie, chyba że ustalono jego bezzwłoczne przetransportowanie do tej jednostki.
 § 28. W przypadku gdy przy przyjęciu doręczono kopie dokumentów, informację o tym zamieszcza się w zawiadomieniu o przyjęciu. Organ zarządzający osadzenie przesyła bezzwłocznie do aresztu śledczego odpisy dokumentów niezbędnych do przyjęcia osadzonego, jednocześnie żądając zwrotu dokumentów uprzednio przesłanych organowi doprowadzającemu albo bezzwłocznie podejmuje niezbędne działania w celu spowodowania przesłania tych dokumentów przez organ doprowadzający do aresztu śledczego, w którym nastąpiło przyjęcie.
 § 29. 1. Dokumentami służącymi do sprawdzenia tożsamości osoby przyjmowanej są:
-1) w przypadku obywatela polskiego dokumenty, o których mowa w § 1 pkt 3 lit. a–c;
+1) w przypadku obywatela polskiego – dokumenty, o których mowa w § 1 pkt 3 lit. a–c;
 2) w przypadku cudzoziemca dokumenty, o których mowa w § 1 pkt 3 lit. e i pkt 4.
 2. Do aresztu śledczego nie może być przyjęta osoba nieposiadająca ważnego dokumentu, za pomocą którego sprawdza się tożsamość, albo gdy istnieją uzasadnione wątpliwości co do tożsamości osoby przyjmowanej, wynikające:
 1) ze zużycia lub uszkodzenia posiadanego przez nią dokumentu;
 2) z niezgodności danych określających tożsamość, zawartych w poszczególnych dokumentach albo niezgodności tych danych w dokumencie z danymi uzyskanymi od osoby przyjmowanej;
 3) z braku możliwości uzyskania potwierdzenia tożsamości od osoby przyjmowanej.
 3. Przepisu ust. 2 nie stosuje się, jeżeli:
-1) tożsamość osoby doprowadzonej zostanie stwierdzona na piśmie przez organ doprowadzający; w przypadku obywatela polskiego pismo zawiera także informację o numerze PESEL, a w przypadku cudzoziemca jego obywatelstwo, a także numer PESEL, jeżeli został nadany; w razie gdy przyczyną niezgodności jest zmiana nazwiska informację o uprzednio używanym nazwisku;
+1) tożsamość osoby doprowadzonej zostanie stwierdzona na piśmie przez organ doprowadzający; w przypadku obywatela polskiego pismo zawiera także informację o numerze PESEL, a w przypadku cudzoziemca – jego obywatelstwo, a także numer PESEL, jeżeli został nadany; w razie gdy przyczyną niezgodności jest zmiana nazwiska – informację o uprzednio używanym nazwisku;
 2) sprawdzenie tożsamości osoby zgłaszającej się po przerwie w wykonaniu kary, ucieczce albo przepustce, jest możliwe na podstawie karty identyfikacyjnej, karty tożsamości lub rysopisu i zdjęć znajdujących się w jej aktach ewidencyjnych lub teczce osobopoznawczej.
 4. W razie doprowadzenia tymczasowo aresztowanego, którego tożsamości nie ustalono, organ doprowadzający doręcza pismo stwierdzające, że osoba doprowadzona jest osobą o nieustalonej tożsamości, której dotyczy postanowienie o tymczasowym aresztowaniu i nakaz przyjęcia.
 5. W przypadku cudzoziemca doprowadzonego ze stwierdzeniem tożsamości, o którym mowa w ust. 3 pkt 1, oraz w przypadkach, o których mowa w ust. 3 pkt 1 i ust. 4, organ doprowadzający doręcza ponadto aktualne zdjęcie osoby doprowadzonej.
@@ -222,19 +224,19 @@ Do czasu potwierdzenia tożsamości przez Policję osoba zgłaszająca się nie 
 § 30. 1. Do aresztu śledczego nie może być przyjęta osoba:
 1) doprowadzona do odbycia zastępczej kary pozbawienia wolności lub zastępczej kary aresztu za nieuiszczoną grzywnę, która wpłaci w tym areszcie kwotę pieniężną odpowiadającą wysokości kary grzywny;
 2) co do której ustalono, że podlega zwolnieniu w dniu kalendarzowym, w którym została doprowadzona; przepis § 112 ust. 2 pkt 3 stosuje się.
-2. O nieprzyjęciu osoby do aresztu śledczego decyduje dyrektor, a w czasie jego nieobecności dowódca zmiany.
+2. O nieprzyjęciu osoby do aresztu śledczego decyduje dyrektor, a w czasie jego nieobecności – dowódca zmiany.
 Przepisy § 36 ust. 1 i 5 stosuje się.
 3. Dyrektor zawiadamia właściwy sąd o nieprzyjęciu osoby oraz zwraca odpis orzeczenia wraz z nakazem przyjęcia.
 4. W przypadku, o którym mowa w ust. 1 pkt 2, zawiadomienie o nieprzyjęciu zawiera informację o ustalonym terminie upływu tymczasowego aresztowania lub końca kary.
 § 31. 1. Do aresztu śledczego nie może być przyjęta osoba wraz z dzieckiem, będąca jego rodzicem lub opiekunem.
 2. Przyjmowanie kobiet zgłaszających się lub doprowadzonych, wraz z dzieckiem, do jednostki penitencjarnej, przy której zorganizowano dom dla matki i dziecka, regulują przepisy w sprawie trybu przyjmowania dzieci matek pozbawionych wolności do domów dla matki i dziecka przy wskazanych zakładach karnych oraz szczegółowych zasad organizowania i działania tych placówek.
 § 32. 1. W przypadku przyjęcia do jednostki penitencjarnej osoby wymagającej natychmiastowego leczenia szpitalnego ze względu na bezpośrednie zagrożenie życia lub zdrowia lub kobiety od 28. tygodnia ciąży, osobie tej natychmiast zapewnia się odpowiednią opiekę lekarską.
-2. O przyjęciu do jednostki penitencjarnej natychmiast zawiadamia się sędziego penitencjarnego oraz właściwy sąd, a w przypadku tymczasowo aresztowanego organ dysponujący. Jeżeli osoba ta zgłosiła się albo została doprowadzona do jednostki penitencjarnej, przy której funkcjonuje szpital z oddziałem mogącym zapewnić jej specjalistyczną opiekę lekarską, zawiadomienie obejmuje również tę informację.
-3. Stan zdrowia lub ciążę stwierdza się na podstawie doręczonego przez organ doprowadzający dokumentu sporządzonego przez lekarza. Dokument może być również wystawiony przez lekarza podmiotu leczniczego dla osób pozbawionych wolności w areszcie śledczym, do którego nastąpiło doprowadzenie lub osoba taka zgłosiła się, a jeżeli nie jest to możliwe lekarza innego podmiotu leczniczego.
-§ 33. 1. W przypadku doprowadzenia do jednostki penitencjarnej osoby z obrażeniami ciała organ doprowadzający doręcza dokument sporządzony przez lekarza, zawierający ich opis. Dokument może być również wystawiony przez lekarza podmiotu leczniczego dla osób pozbawionych wolności jednostki penitencjarnej, do której nastąpiło doprowadzenie, a jeżeli nie jest to możliwe lekarza innego podmiotu leczniczego.
+2. O przyjęciu do jednostki penitencjarnej natychmiast zawiadamia się sędziego penitencjarnego oraz właściwy sąd, a w przypadku tymczasowo aresztowanego – organ dysponujący. Jeżeli osoba ta zgłosiła się albo została doprowadzona do jednostki penitencjarnej, przy której funkcjonuje szpital z oddziałem mogącym zapewnić jej specjalistyczną opiekę lekarską, zawiadomienie obejmuje również tę informację.
+3. Stan zdrowia lub ciążę stwierdza się na podstawie doręczonego przez organ doprowadzający dokumentu sporządzonego przez lekarza. Dokument może być również wystawiony przez lekarza podmiotu leczniczego dla osób pozbawionych wolności w areszcie śledczym, do którego nastąpiło doprowadzenie lub osoba taka zgłosiła się, a jeżeli nie jest to możliwe – lekarza innego podmiotu leczniczego.
+§ 33. 1. W przypadku doprowadzenia do jednostki penitencjarnej osoby z obrażeniami ciała organ doprowadzający doręcza dokument sporządzony przez lekarza, zawierający ich opis. Dokument może być również wystawiony przez lekarza podmiotu leczniczego dla osób pozbawionych wolności jednostki penitencjarnej, do której nastąpiło doprowadzenie, a jeżeli nie jest to możliwe – lekarza innego podmiotu leczniczego.
 2. Przepisy ust. 1 stosuje się odpowiednio do osoby zgłaszającej się do odbycia kary.
 3. Jeżeli osoba zgłosiła, że obrażenia powstały w związku z jej zatrzymaniem lub po zatrzymaniu, informację o doprowadzeniu takiej osoby, wraz z jej wyjaśnieniami dotyczącymi przyczyn i okoliczności powstania obrażeń, przesyła się sędziemu penitencjarnemu.
-§ 34. 1. Przyjmowanie tymczasowo aresztowanych, skazanych i ukaranych do aresztu śledczego odbywa się w dni robocze, w godzinach urzędowania administracji aresztu śledczego oraz soboty w godz. 8.00 12.00. W uzasadnionych przypadkach przyjęcie osoby doprowadzonej może nastąpić także w innym czasie oraz w dni ustawowo wolne od pracy, po uprzednim ustaleniu warunków przyjęcia z dyrektorem, a w czasie jego nieobecności z dowódcą zmiany.
+§ 34. 1. Przyjmowanie tymczasowo aresztowanych, skazanych i ukaranych do aresztu śledczego odbywa się w dni robocze, w godzinach urzędowania administracji aresztu śledczego oraz soboty w godz. 8.00 – 12.00. W uzasadnionych przypadkach przyjęcie osoby doprowadzonej może nastąpić także w innym czasie oraz w dni ustawowo wolne od pracy, po uprzednim ustaleniu warunków przyjęcia z dyrektorem, a w czasie jego nieobecności – z dowódcą zmiany.
 2. Przyjmowanie osadzonych zgłaszających się do jednostki penitencjarnej po przerwie w wykonaniu kary, ucieczce oraz tych, którzy w wyznaczonym terminie nie powrócili z przepustki, odbywa się każdego dnia przez całą dobę.
 3. Przyjmowanie dłużnika, wobec którego zastosowano środek przymusu, odbywa się w terminie uzgodnionym z komornikiem.
 4. W przypadku gdy przyjmowanie do jednostki penitencjarnej odbywa się w dniu wolnym od pracy albo po godzinach pracy lub dyżuru funkcjonariuszy lub pracowników działu ewidencji, realizuje je, w zakresie ustalonym przez dyrektora, dowódca zmiany.
@@ -246,16 +248,16 @@ Przepisy § 36 ust. 1 i 5 stosuje się.
 2) ukaranego, który powrócił z przepustki udzielonej na podstawie art. 1059 k.p.c.;
 3) skazanego lub ukaranego po przepustce, jeżeli w czasie pobytu na przepustce nadużył zaufania, z tym że notatkę tę sporządza się dopiero w przypadku, gdy sędzia penitencjarny zarządzi odliczenie czasu pobytu na przepustce od okresu odbywania kary.
 § 36. 1. Po przejęciu osoby doprowadzonej wydaje się organowi doprowadzającemu potwierdzenie doprowadzenia oraz przejęcia przekazanych przez ten organ wydanych lub odebranych przedmiotów posiadanych przez osobę doprowadzoną. Przepisu nie stosuje się w przypadku doprowadzenia osadzonego przez funkcjonariusza Służby Więziennej; dowódca zmiany odnotowuje ten fakt w książce przebiegu służby.
-2. W przypadku odmowy przyjęcia tymczasowo aresztowanego, skazanego lub ukaranego, sporządza się natychmiast szczegółową notatkę urzędową, którą podpisuje dyrektor, a w czasie jego nieobecności dowódca zmiany. Notatka zawiera w szczególności dane osobowe osoby doprowadzonej, informacje o doręczonych dokumentach, organie doprowadzającym i przyczynie odmowy przyjęcia.
+2. W przypadku odmowy przyjęcia tymczasowo aresztowanego, skazanego lub ukaranego, sporządza się natychmiast szczegółową notatkę urzędową, którą podpisuje dyrektor, a w czasie jego nieobecności – dowódca zmiany. Notatka zawiera w szczególności dane osobowe osoby doprowadzonej, informacje o doręczonych dokumentach, organie doprowadzającym i przyczynie odmowy przyjęcia.
 3. Notatkę dołącza się do orzeczenia oczekującego na wykonanie lub akt ewidencyjnych zwolnionego na przerwę w wykonaniu kary, a w innych przypadkach przechowuje się w dokumentacji działu ewidencji.
 4. Kopię notatki przekazuje się, za pokwitowaniem, organowi doprowadzającemu albo osobie zgłaszającej się do odbycia kary, a ponadto natychmiast przesyła się:
 1) organowi dysponującemu;
-2) właściwemu sądowi, a w przypadku zwolnionego na przerwę w wykonaniu kary sądowi penitencjarnemu, który jej udzielił;
+2) właściwemu sądowi, a w przypadku zwolnionego na przerwę w wykonaniu kary – sądowi penitencjarnemu, który jej udzielił;
 3) dyrektorowi okręgowemu.
 5. W przypadku gdy decyzję o odmowie przyjęcia podejmuje dowódca zmiany, niezależnie od sporządzenia i podpisania notatki odnotowuje on ten fakt w książce przebiegu służby.
 § 37. 1. Dokumenty osobiste osadzonego przechowuje się w dziale ewidencji. Dokumenty te ewidencjonuje się w aktach ewidencyjnych, z odnotowaniem ich nazwy i numeru oraz daty przyjęcia do depozytu. Prawidłowość odnotowania w aktach danych dotyczących dokumentu osadzony potwierdza czytelnym podpisem. Przepis § 108 ust. 1 stosuje się odpowiednio.
 2. Dokumenty, o których mowa w § 32 ust. 3 oraz § 33 ust. 1, a także dokumentację medyczną przyjmowanego, o ile przekazał ją do depozytu, przekazuje się podmiotowi leczniczemu dla osób pozbawionych wolności.
-3. Książeczkę wojskową skazanego na karę pozbawienia wolności lub karę aresztu wojskowego przesyła się do właściwego organu prowadzącego ewidencję wojskową, którą jest on objęty, a legitymację służbową żołnierza zawodowego skazanego na taką karę do dowódcy jednostki wojskowej, w której pełni lub ostatnio pełnił zawodową służbę wojskową.
+3. Książeczkę wojskową skazanego na karę pozbawienia wolności lub karę aresztu wojskowego przesyła się do właściwego organu prowadzącego ewidencję wojskową, którą jest on objęty, a legitymację służbową żołnierza zawodowego skazanego na taką karę – do dowódcy jednostki wojskowej, w której pełni lub ostatnio pełnił zawodową służbę wojskową.
 Jeżeli nie jest możliwe ustalenie właściwego organu prowadzącego ewidencję wojskową, książeczkę wojskową przesyła się do organu właściwego miejscowo dla jednostki penitencjarnej; zasadę stosuje się odpowiednio w przypadkach, o których mowa w § 128 ust. 4 pkt 4, § 131 ust. 1 pkt 5, § 142 ust. 2 pkt 1 i § 145 ust. 2.
 4. Na pisemne polecenie organu prowadzącego postępowanie karne, wydane w szczególności w związku ze stosowaniem środka zapobiegawczego polegającego na zakazie opuszczania przez osadzonego kraju, połączonego z zatrzymaniem mu paszportu lub innego dokumentu uprawniającego do przekroczenia granicy, dokumenty te przesyła się do organu wskazanego w piśmie.
 5. W szczególnie uzasadnionym przypadku, na wniosek osadzonego i za zgodą dyrektora, dokumenty osobiste mogą być wydane, za pokwitowaniem, wskazanej przez niego osobie. Do wydania dokumentu osobistego tymczasowo aresztowanego, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, jest wymagana zgoda organu dysponującego.
@@ -267,6 +269,7 @@ Jeżeli nie jest możliwe ustalenie właściwego organu prowadzącego ewidencję
 § 39. O wprowadzeniu do wykonania, wobec osoby już przebywającej w jednostce penitencjarnej, wyroku albo postanowienia o zastosowaniu tymczasowego aresztowania w innej sprawie zawiadamia się właściwy sąd lub organ dysponujący oraz komórkę organizacyjną bezpośrednio odpowiedzialną za prowadzenie oddziaływań penitencjarnych wobec tej osoby.
 Przepisy § 38 ust. 4 i 5 stosuje się.
 § 40. O osadzeniu w zakładzie karnym lub areszcie śledczym oraz o zwolnieniu z zakładu karnego lub aresztu śledczego osób podlegających obowiązkowi służby wojskowej, o których mowa w art. 5 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641 i 1615) zawiadamia się organ właściwy do prowadzenia ewidencji wojskowej.
+§ 41. 1. Izolowanie od siebie osób powiązanych następuje na podstawie pisemnej informacji organu dysponującego, zawierającej w szczególności ich dane osobowe. Informacja może być także przekazana przez sąd, który zastosował tymczasowe aresztowanie.
 2. Zaprzestanie izolowania osób powiązanych następuje po otrzymaniu:
 1) pisemnej informacji organu dysponującego o tym, że ich dalsze izolowanie jest zbędne;
 2) zawiadomienia o wydaniu wyroku sądu pierwszej instancji.
@@ -279,6 +282,7 @@ Przepisy § 38 ust. 4 i 5 stosuje się.
 5. Tymczasowo aresztowanych przydzielonych do różnych grup cel mieszkalnych należy izolować od siebie. Przepisu nie stosuje się do osób rozmieszczonych w grupie cel mieszkalnych, do której nie została przydzielona żadna osoba powiązana.
 6. W dniu wolnym od pracy albo po godzinach pracy lub dyżuru funkcjonariuszy lub pracowników działu ewidencji czynności, o których mowa w ust. 1 i 3, realizuje dowódca zmiany. Pisemną informację na ten temat dowódca zmiany przekazuje do działu ewidencji natychmiast po wznowieniu pracy lub dyżuru przez funkcjonariuszy lub pracowników tego działu.
 § 43. Rozmieszczenia osadzonych w oddziałach szpitalnych i izbach chorych dokonuje funkcjonariusz lub pracownik podmiotu leczniczego dla osób pozbawionych wolności, kierując się przede wszystkim wskazaniami medycznymi; tymczasowo aresztowanego, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, należy, w miarę możliwości, osadzać w oddzieleniu od skazanych, ukaranych oraz tymczasowo aresztowanych, względem których stosuje się przepisy o wykonywaniu kary pozbawienia wolności.
+§ 44. 1. Obliczenia okresu wykonywania kary dokonuje się po otrzymaniu podlegającego wykonaniu dokumentu, z którego treści wynika konieczność ustalenia terminów początku i końca wykonywania kary.
 2. Terminy początku i końca wykonywania kary określa się datami kalendarzowymi, godzinami i minutami. W razie braku informacji o godzinie i minucie zatrzymania osoby doprowadzonej, przyjmuje się, że zatrzymanie nastąpiło o godzinie 00.00 w dacie kalendarzowej, w której został on zatrzymany.
 3. W przypadku gdy konieczność dokonania obliczenia okresu wykonywania kary jest związana z przyjęciem skazanego lub ukaranego w dniu wolnym od pracy albo po godzinach pracy lub dyżuru funkcjonariuszy lub pracowników działu ewidencji, obliczenia dokonuje się pierwszego dnia roboczego po przyjęciu.
 4. Okresy wykonywania kar wobec skazanych lub ukaranych w jednostkach penitencjarnych następują bezpośrednio po sobie, licząc od daty kalendarzowej, godziny i minuty zakończenia poprzedniej kary. Do tych okresów wlicza się wszystkie okresy przebywania skazanego lub ukaranego poza jednostką penitencjarną, które zgodnie z przepisami ustawy zalicza się do okresów wykonywania kary.
@@ -286,12 +290,12 @@ Przepisy § 38 ust. 4 i 5 stosuje się.
 § 45. 1. W celu ustalenia terminu końca kary należy kolejno:
 1) ustalić, ile dni obejmuje okres wykonywania kary w wymiarze określonym w wyroku lub innym orzeczeniu, którym wymierzono karę podlegającą wykonaniu, jeżeli:
 a) kara została określona w jednostkach czasu innych niż dzień,
-b) kara została określona w dniach i jednostkach czasu innych niż dzień przeliczając wymierzoną karę na dni i przyjmując, że tydzień liczy się za dni 7, miesiąc za dni 30, a rok za dni 365, a następnie zsumować liczbę dni wynikających z tego przeliczenia, także z liczbą dni, która nie wymagała takiego przeliczenia,
+b) kara została określona w dniach i jednostkach czasu innych niż dzień – przeliczając wymierzoną karę na dni i przyjmując, że tydzień liczy się za dni 7, miesiąc za dni 30, a rok za dni 365, a następnie zsumować liczbę dni wynikających z tego przeliczenia, także z liczbą dni, która nie wymagała takiego przeliczenia,
 2) ustalić, o ile dni okres wykonywania kary, o którym mowa w pkt 1, ulega skróceniu,
-3) obliczyć w dniach okres podlegający zaliczeniu na poczet kary, na podstawie liczby dni, w których następowało faktyczne pozbawienie wolności, z uwzględnieniem zasady określonej w art. 140 § 4 kk.w., a następnie zsumować liczbę dni wynikających z obliczenia poszczególnych okresów,
+3) obliczyć w dniach okres podlegający zaliczeniu na poczet kary, na podstawie liczby dni, w których następowało faktyczne pozbawienie wolności, z uwzględnieniem zasady określonej w art. 140 § 4 k.k.w., a następnie zsumować liczbę dni wynikających z obliczenia poszczególnych okresów,
 4) ustalić liczbę dni podlegających zaliczeniu na poczet kary w miejsce dotychczas wykonanej kary grzywny albo kary ograniczenia wolności,
 5) zsumować wszystkie dni wynikające z ustaleń określonych w pkt 2–4,
-6) obliczyć liczbę dni, w których kara ma być wykonywana, odliczając od liczby dni ustalonej zgodnie z wytycznymi określonymi w pkt 1, liczbę dni podlegających zaliczeniu na poczet kary, o których mowa w pkt 5 a następnie do daty kalendarzowej ustalonej jako początek wykonywania kary należy doliczyć liczbę dni, w których kara ma być wykonywana, obliczonych w sposób określony w pkt 6, przyjmując, że pierwszy dzień kary kończy się w następnej dacie kalendarzowej, a ostatni dzień kary (termin końca kary) w dacie kalendarzowej, w której upływa tyle dni, przez ile dni kara ma być wykonywana. Koniec kary stanowi w tym dniu godzina i minuta odpowiadająca godzinie i minucie początku kary.
+6) obliczyć liczbę dni, w których kara ma być wykonywana, odliczając od liczby dni ustalonej zgodnie z wytycznymi określonymi w pkt 1, liczbę dni podlegających zaliczeniu na poczet kary, o których mowa w pkt 5 – a następnie do daty kalendarzowej ustalonej jako początek wykonywania kary należy doliczyć liczbę dni, w których kara ma być wykonywana, obliczonych w sposób określony w pkt 6, przyjmując, że pierwszy dzień kary kończy się w następnej dacie kalendarzowej, a ostatni dzień kary (termin końca kary) – w dacie kalendarzowej, w której upływa tyle dni, przez ile dni kara ma być wykonywana. Koniec kary stanowi w tym dniu godzina i minuta odpowiadająca godzinie i minucie początku kary.
 2. Obliczając w dniach okres podlegający zaliczeniu na poczet kary, o którym mowa w ust. 1 pkt 3, w pierwszej kolejności uwzględnia się liczbę dni zaliczonych przez sąd, a w przypadku braku takiej informacji oblicza się, ile dni upłynęło od dnia rozpoczęcia do dnia zakończenia okresu podlegającego zaliczeniu. W przypadku braku informacji o godzinie i minucie rozpoczęcia lub zakończenia okresu podlegającego zaliczeniu przyjmuje się godzinę 00.00.
 3. Przepisy ust. 1 pkt 3 i ust. 2 stosuje się:
 1) w przypadku zaliczenia na poczet kary:
@@ -308,13 +312,13 @@ b) okresu wykonywania kary pozbawienia wolności poza zakładem karnym w systemi
 3) wpływu do jednostki penitencjarnej, w której ewidencji jest ujęty osadzony, dokumentacji dotyczącej wyroku w innej sprawie;
 4) wpływu do jednostki penitencjarnej, w której ewidencji jest ujęty osadzony, orzeczenia o wymierzeniu kary porządkowej lub zastosowaniu środka przymusu;
 5) wpływu do jednostki penitencjarnej, w której ewidencji jest ujęty skazany odbywający karę dożywotniego pozbawienia wolności, prawomocnego wyroku w innej sprawie, którym orzeczono karę niebędącą karą dożywotniego pozbawienia wolności;
-6) zatrzymania jako tymczasowo aresztowanego w innej sprawie skazanego lub ukaranego korzystającego z przerwy w wykonaniu kary.
+6) zatrzymania – jako tymczasowo aresztowanego w innej sprawie – skazanego lub ukaranego korzystającego z przerwy w wykonaniu kary.
 2. Początek wykonywania kary pozbawienia wolności, zastępczej kary pozbawienia wolności za niewykonaną karę ograniczenia wolności, kary aresztu wojskowego, kary aresztu lub zastępczej kary aresztu za niewykonaną karę ograniczenia wolności, wymierzonej prawomocnym wyrokiem, który wpłynął w trakcie wykonywania zastępczej kary pozbawienia wolności lub zastępczej kary aresztu za nieuiszczoną grzywnę, liczy się od dnia ustalonego jako początek aktualnie wykonywanej kary zastępczej.
 3. W razie objęcia wyrokiem łącznym tylko niektórych ze skierowanych do wykonania kar, początek wykonywania kary nieobjętej tym wyrokiem łącznym ustala się zgodnie z ust. 1. Nie dokonuje się ponownego obliczenia okresu wykonywania kary nieobjętej wyrokiem łącznym, jeżeli kara została uprzednio wykonana w całości.
 4. W przypadku:
 1) uchylenia wyroku łącznego lub kary orzeczonej wyrokiem łącznym,
-2) utraty mocy wyroku łącznego lub kary orzeczonej wyrokiem łącznym, uprzednio skierowane do wykonania kary orzeczone wyrokami objętymi tym wyrokiem łącznym lub karą orzeczoną wyrokiem łącznym wprowadza się ponownie do wykonania, jeżeli w aktach ewidencyjnych znajduje się dokumentacja w tych sprawach.
-5. Przepisów ust. 1 pkt 1–3 i 5–6 oraz ust. 2 i 3 nie stosuje się, jeżeli z zarządzenia sędziego penitencjarnego, o którym mowa w art. 80 § 2 kk.w., wynika konieczność ustalenia w inny sposób początków wykonywania kar.
+2) utraty mocy wyroku łącznego lub kary orzeczonej wyrokiem łącznym, – uprzednio skierowane do wykonania kary orzeczone wyrokami objętymi tym wyrokiem łącznym lub karą orzeczoną wyrokiem łącznym wprowadza się ponownie do wykonania, jeżeli w aktach ewidencyjnych znajduje się dokumentacja w tych sprawach.
+5. Przepisów ust. 1 pkt 1–3 i 5–6 oraz ust. 2 i 3 nie stosuje się, jeżeli z zarządzenia sędziego penitencjarnego, o którym mowa w art. 80 § 2 k.k.w., wynika konieczność ustalenia w inny sposób początków wykonywania kar.
 § 48. 1. Jeżeli w czasie przerwy w wykonaniu kary skazany lub ukarany został osadzony w jednostce penitencjarnej do odbycia kary nieobjętej postanowieniem o jej udzieleniu, dalsze wykonanie kary objętej tym postanowieniem może nastąpić w przypadkach, o których mowa w § 26 ust. 1.
 2. Jeżeli wprowadzenie do wykonania kary nie jest możliwe, zawiadamia się o tym sąd penitencjarny. Kopię zawiadomienia włącza się do akt ewidencyjnych.
 § 49. Jeżeli w stosunku do osadzonego, który zbiegł albo w wyznaczonym terminie nie powrócił z przepustki, wpłynie wyrok do wykonania w innej sprawie, zawiadamia się właściwy sąd, że obliczenie okresu wykonywania kary zostanie dokonane po przyjęciu albo powrocie osadzonego. Przepisy § 135 ust. 1 pkt 1 i 2 stosuje się.
@@ -344,7 +348,7 @@ b) krótkotrwały pobyt osadzonego w danej jednostce penitencjarnej jest związa
 3. W przypadku wątpliwości co do prawidłowości obliczenia okresu wykonywania kary, dyrektor występuje do właściwego sądu z wnioskiem o ich rozstrzygnięcie w trybie art. 13 § 1 k.k.w. przesyłając obliczenie kary. Po otrzymaniu postanowienia sądu zawierającego odmienne stanowisko w tej sprawie, dokonuje się nowego obliczenia okresu wykonywania kary; do czasu otrzymania takiego postanowienia przyjmuje się, że obliczenie okresu wykonywania kary zostało sporządzone prawidłowo.
 § 57. 1. Przepisy § 44 i § 45 ust. 1 pkt 1 stosuje się w razie konieczności ustalenia terminu, do którego tymczasowe aresztowanie ma trwać, jeżeli termin ten nie został wskazany w postanowieniu o zastosowaniu tego środka.
 2. Początek wykonywania tymczasowego aresztowania liczy się:
-1) od chwili zatrzymania w związku z tymczasowym aresztowaniem, a w przypadku tymczasowo aresztowanego przekazanego na terytorium Rzeczypospolitej Polskiej z innego państwa, jeżeli termin ten nie został wskazany w postanowieniu o zastosowaniu tego środka od chwili przejęcia tej osoby przez organ doprowadzający na terytorium Rzeczypospolitej Polskiej; przepis § 44 ust. 2 zdanie drugie stosuje się;
+1) od chwili zatrzymania w związku z tymczasowym aresztowaniem, a w przypadku tymczasowo aresztowanego przekazanego na terytorium Rzeczypospolitej Polskiej z innego państwa, jeżeli termin ten nie został wskazany w postanowieniu o zastosowaniu tego środka – od chwili przejęcia tej osoby przez organ doprowadzający na terytorium Rzeczypospolitej Polskiej; przepis § 44 ust. 2 zdanie drugie stosuje się;
 2) od końca pełnego dnia, w rozumieniu § 44 ust. 5, który upływa w dacie kalendarzowej wpływu dokumentów do jednostki penitencjarnej, w której już przebywa osoba poszukiwana w związku z jej tymczasowym aresztowaniem.
 § 58. 1. Po otrzymaniu zawiadomienia o wyroku skazującym sądu pierwszej instancji lub odpisu tego wyroku, dokonuje się wstępnego ustalenia terminu końca kary orzeczonej wobec tymczasowo aresztowanego.
 2. Przepis ust. 1 stosuje się:
@@ -353,6 +357,7 @@ b) krótkotrwały pobyt osadzonego w danej jednostce penitencjarnej jest związa
 3. Upływ wstępnie ustalonego terminu końca kary nie skutkuje zwolnieniem z jednostki penitencjarnej.
 § 59. Jeżeli sąd nie zaliczył okresu tymczasowego aresztowania na poczet orzeczonej kary lub istnieje uzasadnione przypuszczenie, że nieprawidłowo zaliczył ten okres, dyrektor zawiadamia o tym właściwy sąd.
 § 60. O okresie wykonywania kary wobec tymczasowo aresztowanego w innej sprawie, a także o zmianie tego okresu, zawiadamia się organ dysponujący w celu uwzględnienia tej informacji przy zaliczaniu okresu tymczasowego aresztowania na poczet orzeczonej kary.
+§ 61. 1. Przyjętemu do jednostki penitencjarnej, zakłada się akta ewidencyjne i kartę identyfikacyjną.
 2. Osadzonego przyjętego lub przetransportowanego rejestruje się w dokumentach ewidencyjnych.
 3. Dane niezbędne do dokonania czynności, o których mowa w ust. 1 i 2, uzyskuje się z dokumentów dostępnych osobie przyjmującej. Mogą być one poszerzone o informacje uzyskane od osoby przyjmowanej oraz dotyczące tej osoby dane zgromadzone w Centralnej Bazie.
 4. Dane o osadzonych i dokumentach stanowiących podstawę wykonywania wobec nich pozbawienia wolności, odnotowuje się w Centralnej Bazie. Dane powinny być w pełni zgodne z danymi zawartymi w aktach i dokumentach ewidencyjnych.
@@ -365,7 +370,7 @@ b) krótkotrwały pobyt osadzonego w danej jednostce penitencjarnej jest związa
 4) włączyć pozostałe dokumenty do otrzymanych akt ewidencyjnych.
 2. Przepis ust. 1 stosuje się, gdy osadzony został doprowadzony do aresztu śledczego w związku z inną sprawą.
 § 64. 1. Zastępcze akta ewidencyjne zakłada się w razie wydania z jednostki penitencjarnej akt ewidencyjnych. Założenie akt zastępczych może nastąpić przez wykonanie kserokopii wszystkich stron obwoluty akt ewidencyjnych oraz wkładki. Akt ewidencyjnych nie wydaje się, jeżeli są one niezbędne do wykonania czynności związanych ze zwolnieniem osadzonego, o czym zawiadamia się organ zwracający się o ich wydanie. Jednocześnie wskazuje się termin, w którym akta będą mogły być wydane.
-2. Akta ewidencyjne wydaje się Dyrektorowi Generalnemu Służby Więziennej, dyrektorowi okręgowemu lub sędziemu penitencjarnemu, a w uzasadnionych przypadkach również dyrektorowi jednostki penitencjarnej, w której uprzednio przebywał osadzony. Innym uprawnionym organom akta wydaje się, jeżeli wykonane zostały wszystkie znajdujące się w nich orzeczenia i dokumentacja osadzonego może zostać przekazana do archiwum, chyba że wydania akt zażądał sąd lub prokurator w związku z prowadzonym postępowaniem karnym, a w przypadku sądu także w postępowaniu wykonawczym. W takim przypadku akta wydaje się jedynie na czas konieczny do wykonania niezbędnych czynności procesowych, nie dłuższy niż 14 dni od dnia ich doręczenia.
+2. Akta ewidencyjne wydaje się Dyrektorowi Generalnemu Służby Więziennej, dyrektorowi okręgowemu lub sędziemu penitencjarnemu, a w uzasadnionych przypadkach również dyrektorowi jednostki penitencjarnej, w której uprzednio przebywał osadzony. Innym uprawnionym organom akta wydaje się, jeżeli wykonane zostały wszystkie znajdujące się w nich orzeczenia i dokumentacja osadzonego może zostać przekazana do archiwum, chyba że wydania akt zażądał sąd lub prokurator w związku z prowadzonym postępowaniem karnym, a w przypadku sądu – także w postępowaniu wykonawczym. W takim przypadku akta wydaje się jedynie na czas konieczny do wykonania niezbędnych czynności procesowych, nie dłuższy niż 14 dni od dnia ich doręczenia.
 3. Zastępcze akta likwiduje się po zwrocie właściwych akt. Obwolutę właściwych akt uzupełnia się informacjami odnotowanymi na obwolucie zastępczych akt, a przechowywane w nich dokumenty włącza się do właściwych akt.
 § 65. Akta ewidencyjne przechowuje dział ewidencji.
 § 66. 1. W jednostkach penitencjarnych prowadzi się w formie papierowej lub w Centralnej Bazie następujące dokumenty ewidencyjne:
@@ -400,12 +405,12 @@ przepisy dotyczące przetransportowania stosuje się.
 1) tymczasowo aresztowanego, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności,
 2) tymczasowo aresztowanego, względem którego stosuje się przepisy o wykonywaniu kary pozbawienia wolności, skazanego lub ukaranego, w przypadku, gdy:
 a) przyczyną czasowego pobytu jest konieczność udzielenia mu natychmiastowej pomocy lekarskiej,
-b) zachodzi uzasadnione przypuszczenie, że czasowy pobyt zakończy się skreśleniem osadzonego z ewidencji jednostki penitencjarnej, w której uprzednio przebywał, i ujęciem w ewidencji jednostki czasowego pobytu przewiezienia osadzonego dokonuje się wraz z aktami ewidencyjnymi, a także tymi dokumentami, których skompletowanie nie spowoduje opóźnienia w przewiezieniu. Jeżeli zachodzi konieczność udzielenia natychmiastowej pomocy lekarskiej bezpośrednio po przyjęciu osadzonego, gdy akta ewidencyjne nie zostały jeszcze założone, albo w innych szczególnie uzasadnionych przypadkach, dopuszcza się przewiezienie osadzonego bez akt ewidencyjnych.
-§ 69. 1. O pobycie osadzonych w jednostce penitencjarnej w związku z przerwą w transportowaniu, w trakcie której nastąpiło ich przemieszczenie do pomieszczeń lub cel tej jednostki, czyni się adnotację w książce przebiegu służby dowódcy zmiany lub w odrębnym rejestrze jeżeli dyrektor tak ustali ze względu na liczbę wpisów dokonywanych z tego powodu w książce przebiegu służby. Adnotacja zawiera imię, nazwisko i numer legitymacji służbowej dowódcy konwoju, numer rejestracyjny samochodu, liczbę transportowanych osadzonych, czas i powód ich pobytu oraz nazwę jednostki, do której konwój się udaje.
+b) zachodzi uzasadnione przypuszczenie, że czasowy pobyt zakończy się skreśleniem osadzonego z ewidencji jednostki penitencjarnej, w której uprzednio przebywał, i ujęciem w ewidencji jednostki czasowego pobytu – przewiezienia osadzonego dokonuje się wraz z aktami ewidencyjnymi, a także tymi dokumentami, których skompletowanie nie spowoduje opóźnienia w przewiezieniu. Jeżeli zachodzi konieczność udzielenia natychmiastowej pomocy lekarskiej bezpośrednio po przyjęciu osadzonego, gdy akta ewidencyjne nie zostały jeszcze założone, albo w innych szczególnie uzasadnionych przypadkach, dopuszcza się przewiezienie osadzonego bez akt ewidencyjnych.
+§ 69. 1. O pobycie osadzonych w jednostce penitencjarnej w związku z przerwą w transportowaniu, w trakcie której nastąpiło ich przemieszczenie do pomieszczeń lub cel tej jednostki, czyni się adnotację w książce przebiegu służby dowódcy zmiany lub w odrębnym rejestrze – jeżeli dyrektor tak ustali ze względu na liczbę wpisów dokonywanych z tego powodu w książce przebiegu służby. Adnotacja zawiera imię, nazwisko i numer legitymacji służbowej dowódcy konwoju, numer rejestracyjny samochodu, liczbę transportowanych osadzonych, czas i powód ich pobytu oraz nazwę jednostki, do której konwój się udaje.
 2. Przepis stosuje się do transportowania przez organ doprowadzający osadzonych, którzy są ujęci w wykazie transportowym sporządzonym przez jednostkę penitencjarną.
 § 70. 1. O pobycie w jednostce penitencjarnej osoby uznanej za stwarzającą zagrożenie, w trybie określonym w przepisach ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób, umieszczonej w KOZZD, w związku z udzieleniem jej świadczenia zdrowotnego przez podmiot leczniczy dla osób pozbawionych wolności, czyni się adnotację w książce przebiegu służby dowódcy zmiany. Adnotacja zawiera: imię (imiona), nazwisko, imię ojca, numer PESEL osoby stwarzającej zagrożenie, w przypadku cudzoziemca numer PESEL, jeżeli został nadany, a także służbowe dane identyfikacyjne pracownika KOZZD odpowiedzialnego za przewiezienie osoby stwarzającej zagrożenie do jednostki penitencjarnej oraz numer rejestracyjny samochodu, którym dokonano jej przewiezienia.
 2. W razie konieczności, zwłaszcza w przypadku pozostania na nocleg osoby uznanej za stwarzającą zagrożenie, o której mowa w ust. 1, dyrektor określa, w razie potrzeby w porozumieniu z kierownikiem KOZZD, warunki pobytu tej osoby w jednostce penitencjarnej.
-§ 71. 1. W skorowidzu ruchomym ewidencjonuje się według miejsc zakwaterowania tymczasowo aresztowanych, względem których nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności.
+§ 71. 1. W skorowidzu ruchomym ewidencjonuje się – według miejsc zakwaterowania – tymczasowo aresztowanych, względem których nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności.
 2. W skorowidzu ruchomym odnotowuje się:
 1) dane osobowe tymczasowo aresztowanego;
 2) nazwę organu dysponującego i sygnaturę akt sprawy;
@@ -424,7 +429,7 @@ b) zachodzi uzasadnione przypuszczenie, że czasowy pobyt zakończy się skreśl
 1) zawiadomić tę jednostkę o otrzymaniu orzeczenia oczekującego na wykonanie; zawiadomienie może być dokonane telefonicznie;
 2) natychmiast przesłać odpis wyroku łącznego wraz z nakazem przyjęcia do tej jednostki, jeżeli sąd skierował do danego aresztu śledczego, jako orzeczenie z wyznaczonym terminem stawienia się, wyrok łączny obejmujący wszystkie lub niektóre z kar wykonywanych przed zwolnieniem na przerwę w wykonaniu kary; o przesłaniu orzeczenia zawiadamia się właściwy sąd, a w szczególnie uzasadnionych przypadkach, jeżeli termin stawienia się do odbycia kary pozwala zasadnie przypuszczać, że sąd nie zdąży uprzedzić o tym skazanego lub ukaranego, którego to orzeczenie dotyczy, zawiadamia się o tym osobę wezwaną do odbycia kary; zawiadomienia do skazanego lub ukaranego nie przesyła się, jeżeli na podstawie posiadanych dokumentów nie jest możliwe ustalenie jego adresu do doręczeń.
 7. W przypadkach, o których mowa w ust. 6, jednostka penitencjarna, w której znajdują się akta ewidencyjne zwolnionego na przerwę w wykonaniu kary, zawiadamia o tym sąd penitencjarny, podając w szczególności wyznaczony przez właściwy sąd termin stawienia się skazanego lub ukaranego do odbycia kary. Kopię zawiadomienia włącza się do akt ewidencyjnych. Przepis § 135 stosuje się.
-8. W razie niezgłoszenia się skazanego lub ukaranego do odbycia kary, zawiadamia się o tym właściwy sąd. Zawiadomienie wysyła się trzeciego dnia roboczego po wyznaczonym terminie stawienia się. Orzeczenie oczekujące na wykonanie zwraca się po upływie jednego roku od wyznaczonego przez ten sąd terminu stawienia lub po upływie jednego roku od dnia wpływu orzeczenia oczekującego w przypadku, gdy orzeczenie oczekujące zawiera informację o mającym nastąpić jego doprowadzeniu; przepisu nie stosuje się do wyroku łącznego, o którym mowa w ust. 6 pkt 2.
+8. W razie niezgłoszenia się skazanego lub ukaranego do odbycia kary, zawiadamia się o tym właściwy sąd. Zawiadomienie wysyła się trzeciego dnia roboczego po wyznaczonym terminie stawienia się. Orzeczenie oczekujące na wykonanie zwraca się po upływie jednego roku od wyznaczonego przez ten sąd terminu stawienia lub po upływie jednego roku od dnia wpływu orzeczenia oczekującego – w przypadku, gdy orzeczenie oczekujące zawiera informację o mającym nastąpić jego doprowadzeniu; przepisu nie stosuje się do wyroku łącznego, o którym mowa w ust. 6 pkt 2.
 9. Przy każdym przyjęciu sprawdza się, czy osoba zgłaszająca się lub doprowadzona nie figuruje w rejestrze orzeczeń oczekujących na wykonanie. W przypadku ustalenia, że orzeczenie takie zarejestrowano w innym areszcie, przepis ust. 5 stosuje się.
 § 75. 1. W rejestrze skazanych i ukaranych korzystających z przerwy w wykonaniu kary, odnotowuje się dane o skazanych i ukaranych, którzy mają zgłosić się po przerwie w wykonaniu kary.
 2. Podstawą dokonania adnotacji jest zawarte w aktach ewidencyjnych postanowienie sądu penitencjarnego o udzieleniu pierwszej lub dalszych przerw w wykonaniu kary.
@@ -477,15 +482,16 @@ Czas trwania tymczasowego aresztowania określony w postanowieniu o jego zastoso
 2. Jako osobę tymczasowo aresztowaną ewidencjonuje się także osobę pozbawioną wolności na terytorium innego państwa, czasowo wydaną w celu złożenia zeznań w charakterze świadka lub dokonania z jej udziałem innej czynności procesowej przed polskim sądem lub prokuratorem w toczącym się postępowaniu karnym.
 § 84. 1. Nakazy wydania lub przetransportowania oraz zarządzenia o wyrażeniu zgody na widzenie zrealizowane lub anulowane, przechowuje się w dziale ewidencji jednostki, w której zostały wykonane lub dokonano ustalenia o ich anulowaniu; do tego czasu nakazy czasowo przechowuje się wraz z aktami ewidencyjnymi osadzonego.
 2. Zarządzenia w przedmiocie zgody na rozmowy telefoniczne przechowuje się w aktach ewidencyjnych.
+§ 85. 1. Osadzonego wezwanego do udziału w czynności procesowej dokonywanej poza terenem jednostki penitencjarnej wydaje się organowi doprowadzającemu na podstawie wystawionego przez sąd lub prokuratora nakazu wydania.
 2. Po dokonaniu czynności procesowej osadzonego doprowadza się do jednostki penitencjarnej, z której został wydany.
 3. W razie konieczności dokonywania czynności procesowych przez dwa lub więcej kolejnych dni, osadzonego doprowadza się na nocleg do jednostki penitencjarnej, z której został wydany.
 4. Dyrektor powiadamia sędziego penitencjarnego oraz organ, który wystawił nakaz wydania, jeżeli osadzony wydany do udziału w czynności procesowej nie powrócił na nocleg; przepisu nie stosuje się w przypadkach, o których mowa w § 86 ust. 1–3.
 5. W przypadku, gdy organ wzywający poleci wydać organowi doprowadzającemu dokument osobisty osadzonego, przechowywany w depozycie jednostki penitencjarnej, pobranie dokumentu organ doprowadzający kwituje czytelnym podpisem, zawierającym imię i nazwisko, wpisując ponadto datę oraz nazwę i numer dokumentu osobistego.
-§ 86. 1. Wydanie osadzonego w celu umieszczenia w zakładzie leczniczym w związku z badaniem psychiatrycznym połączonym z obserwacją, następuje na podstawie nakazu wydania, a w przypadku, gdy nakaz wystawił sąd lub prokurator niebędący organem dysponującym ponadto postanowienia o skierowaniu osadzonego na badanie.
+§ 86. 1. Wydanie osadzonego w celu umieszczenia w zakładzie leczniczym w związku z badaniem psychiatrycznym połączonym z obserwacją, następuje na podstawie nakazu wydania, a w przypadku, gdy nakaz wystawił sąd lub prokurator niebędący organem dysponującym – ponadto postanowienia o skierowaniu osadzonego na badanie.
 2. Wydanie tymczasowo aresztowanego, skazanego lub ukaranego w celu umieszczenia w pomieszczeniu Policji, następuje na podstawie nakazu wydania oraz zarządzenia prezesa sądu rozpoznającego sprawę. Organ doprowadzający potwierdza datą i czytelnym podpisem, zawierającym imię i nazwisko, przejęcie książki zdrowia osadzonego.
 3. Wydanie czasowe osadzonego za granicę:
 1) w charakterze świadka w toczącym się tam postępowaniu karnym,
-2) jako osoby ściganej w związku z prowadzonym tam przeciwko niej postępowaniem karnym następuje na podstawie wystawionego przez sąd lub prokuratora nakazu wydania.
+2) jako osoby ściganej w związku z prowadzonym tam przeciwko niej postępowaniem karnym – następuje na podstawie wystawionego przez sąd lub prokuratora nakazu wydania.
 4. W przypadkach wydania czasowego osadzonego za granicę, osadzonego wydaje się wraz z dokumentem osobistym umożliwiającym przekroczenie granicy, jeżeli znajduje się w depozycie jednostki penitencjarnej. Organ doprowadzający kwituje datą i czytelnym podpisem, zawierającym imię i nazwisko, pobranie dokumentu osobistego, wpisując ponadto na pokwitowaniu jego nazwę i numer.
 5. W przypadkach, o których mowa w ust. 1 i 3, organowi doprowadzającemu przekazuje się, za potwierdzeniem, aktualną pisemną opinię o stanie zdrowia osadzonego.
 § 87. 1. Wydanie tymczasowo aresztowanego, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, do udziału w czynności procesowej, o której mowa w § 85 ust. 1 i § 86 ust. 1–3, sądowi i prokuratorowi, do dyspozycji którego on nie pozostaje, wymaga każdorazowo zgody organu dysponującego, chyba że organ ten ustali inaczej. W przypadku, gdy tymczasowo aresztowany pozostaje do dyspozycji więcej niż jednego organu, jest wymagana zgoda każdego organu, chyba że organy te ustalą inaczej.
@@ -495,7 +501,7 @@ Czas trwania tymczasowego aresztowania określony w postanowieniu o jego zastoso
 2) objętego szczególną ochroną w związku z toczącym się lub zakończonym postępowaniem karnym, ze względu na wystąpienie poważnego zagrożenia lub istnienie bezpośredniej obawy wystąpienia poważnego zagrożenia dla jego życia lub zdrowia, o ile dyrektor, określając sposób realizacji szczególnej ochrony, nie ustalił inaczej,
 3) któremu wymierzono karę pozbawienia wolności w wymiarze przynajmniej 25 lat albo dożywotniego pozbawienia wolności,
 4) który może być powodem zamachu na konwój,
-5) wobec którego wystąpiono z wnioskiem, o którym mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób zawiadamia się o tym organ wzywający i organ doprowadzający.
+5) wobec którego wystąpiono z wnioskiem, o którym mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób – zawiadamia się o tym organ wzywający i organ doprowadzający.
 2. Przyjęcie informacji, o której mowa w ust. 1, do wiadomości, organ doprowadzający potwierdza.
 3. Przepis ust. 2 stosuje się w przypadku, gdy:
 1) administracja jednostki penitencjarnej uzna za konieczne przekazanie organowi doprowadzającemu innych informacji istotnych ze względu na bezpieczeństwo osadzonego albo organu wzywającego lub doprowadzającego;
@@ -527,15 +533,15 @@ Jeżeli w trakcie takiej czynności procesowej zastosowano wobec osadzonego tymc
 2. W przypadku, gdy tymczasowo aresztowany, który był poszukiwany, zostanie zwolniony po czynności procesowej dokonanej w trakcie transportowania, organ dysponujący, zarządzając zwolnienie, zawiadamia o tym dyrektora aresztu śledczego, do którego przetransportowanie miało nastąpić. Akta ewidencyjne oraz pozostałą dokumentację osadzonego, dokumenty osobiste i depozyty oraz dokumenty, o których mowa w ust. 1, organ doprowadzający doręcza bezzwłocznie do tego aresztu. Przepisy § 61 ust. 2 i § 117 stosuje się.
 3. Osadzonego doprowadza się do jednostki penitencjarnej, jeżeli podlega osadzeniu w innej sprawie.
 § 97. 1. Do dokonania w areszcie śledczym czynności procesowej z udziałem tymczasowo aresztowanego, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, są uprawnieni:
-1) prokuratorzy i asesorzy jednostki organizacyjnej prokuratury prowadzącej lub nadzorującej postępowanie przygotowawcze w sprawie, w której nastąpiło tymczasowe aresztowanie, chyba że kierownik jednostki zastrzeże to uprawnienie tylko dla wskazanego prokuratora lub asesora na podstawie legitymacji służbowej;
-2) funkcjonariusze Policji, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno-Skarbowej, żołnierze Żandarmerii Wojskowej, funkcjonariusze finansowych organów postępowania przygotowawczego, jeżeli prowadzą postępowanie przygotowawcze w sprawie, w której nastąpiło tymczasowe aresztowanie na podstawie legitymacji służbowej oraz pisemnego upoważnienia organu dysponującego albo właściwego przełożonego;
-3) sędziowie i asesorzy sądowi, jeżeli prowadzą postępowanie w sprawie, w której nastąpiło tymczasowe aresztowanie na podstawie legitymacji służbowej;
-4) biegli, referendarze sądowi, asystenci sędziów, asystenci prokuratorów oraz aplikanci sądowi lub prokuratury na podstawie dokumentu tożsamości oraz pisemnego upoważnienia organu dysponującego.
+1) prokuratorzy i asesorzy jednostki organizacyjnej prokuratury prowadzącej lub nadzorującej postępowanie przygotowawcze w sprawie, w której nastąpiło tymczasowe aresztowanie, chyba że kierownik jednostki zastrzeże to uprawnienie tylko dla wskazanego prokuratora lub asesora – na podstawie legitymacji służbowej;
+2) funkcjonariusze Policji, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno-Skarbowej, żołnierze Żandarmerii Wojskowej, funkcjonariusze finansowych organów postępowania przygotowawczego, jeżeli prowadzą postępowanie przygotowawcze w sprawie, w której nastąpiło tymczasowe aresztowanie – na podstawie legitymacji służbowej oraz pisemnego upoważnienia organu dysponującego albo właściwego przełożonego;
+3) sędziowie i asesorzy sądowi, jeżeli prowadzą postępowanie w sprawie, w której nastąpiło tymczasowe aresztowanie – na podstawie legitymacji służbowej;
+4) biegli, referendarze sądowi, asystenci sędziów, asystenci prokuratorów oraz aplikanci sądowi lub prokuratury – na podstawie dokumentu tożsamości oraz pisemnego upoważnienia organu dysponującego.
 2. Prokurator lub asesor jednostki organizacyjnej prokuratury niebędący organem dysponującym, może dokonać na terenie aresztu śledczego czynności z udziałem tymczasowo aresztowanego, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, na podstawie legitymacji służbowej oraz dokumentu, z treści którego wynika, że wykonuje czynności służbowe.
 § 98. Do dokonania w jednostce penitencjarnej czynności procesowej z udziałem skazanego, ukaranego oraz tymczasowo aresztowanego, względem którego stosuje się przepisy o wykonywaniu kary pozbawienia wolności, są uprawnione osoby, o których mowa w § 97 ust. 1 w:
-1) pkt 1 i 3 na podstawie legitymacji służbowej;
-2) pkt 2 na podstawie legitymacji służbowej oraz pisemnego upoważnienia właściwego przełożonego;
-3) pkt 4 na podstawie dokumentu tożsamości oraz pisemnego upoważnienia sądu lub prokuratora.
+1) pkt 1 i 3 – na podstawie legitymacji służbowej;
+2) pkt 2 – na podstawie legitymacji służbowej oraz pisemnego upoważnienia właściwego przełożonego;
+3) pkt 4 – na podstawie dokumentu tożsamości oraz pisemnego upoważnienia sądu lub prokuratora.
 § 99. 1. Udzielenie obrońcy, pełnomocnikowi będącemu adwokatem albo radcą prawnym, notariuszowi, kuratorowi sądowemu oraz innym uprawnionym podmiotom widzenia:
 1) ze skazanym, ukaranym oraz z tymczasowo aresztowanym, względem którego stosuje się przepisy o wykonywaniu kary pozbawienia wolności, następuje na podstawie legitymacji służbowej;
 2) z tymczasowo aresztowanym, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, następuje na podstawie legitymacji służbowej oraz zarządzenia o zgodzie na widzenie wydanego przez organ dysponujący. W przypadku, gdy tymczasowo aresztowany pozostaje do dyspozycji kilku organów, wymagane jest dostarczenie zarządzenia wydanego przez każdy z organów, chyba że organy te zarządzą inaczej.
@@ -546,25 +552,26 @@ Jeżeli w trakcie takiej czynności procesowej zastosowano wobec osadzonego tymc
 4. Widzenia, o których mowa w ust. 1, odbywają się w godzinach urzędowania administracji jednostki penitencjarnej, w pomieszczeniach przeznaczonych do dokonywania czynności procesowych. Za zgodą dyrektora widzenie może być zrealizowane w innym czasie i miejscu.
 5. Przepisy ust. 1 pkt 2 i ust. 3 stosuje się odpowiednio do udzielania widzeń z rodziną i innymi osobami, z tym że na zarządzeniu o zgodzie na widzenie odnotowuje się ponadto czas trwania widzenia.
 6. Zarządzenie o zgodzie na widzenie podlega wykonaniu również po otrzymaniu zawiadomienia o przekazaniu tymczasowo aresztowanego do dyspozycji innego organu, chyba że nowy organ dysponujący zarządzi inaczej.
-§ 100. Udzielenie Rzecznikowi Praw Obywatelskich, Rzecznikowi Praw Dziecka lub sędziemu penitencjarnemu widzenia z osadzonym, odbywa się na podstawie legitymacji służbowej, a w przypadku osoby upoważnionej przez Rzecznika Praw Obywatelskich lub Rzecznika Praw Dziecka na podstawie legitymacji służbowej oraz pisemnego upoważnienia; do udzielenia widzenia z tymczasowo aresztowanym, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, nie jest wymagane zarządzenie o zgodzie na widzenie, wydane przez organ dysponujący.
-§ 101. 1. Do dokonania w jednostce penitencjarnej czynności procesowej z udziałem skazanego, ukaranego lub tymczasowo aresztowanego, względem którego stosuje się przepisy o wykonywaniu kary pozbawienia wolności, w sprawach o przestępstwa skarbowe oraz wykroczenia skarbowe, są uprawnieni funkcjonariusze finansowych organów postępowania przygotowawczego jeżeli prowadzą postępowanie przygotowawcze w tej sprawie na podstawie legitymacji służbowej oraz pisemnego upoważnienia właściwego przełożonego.
+§ 100. Udzielenie Rzecznikowi Praw Obywatelskich, Rzecznikowi Praw Dziecka lub sędziemu penitencjarnemu widzenia z osadzonym, odbywa się na podstawie legitymacji służbowej, a w przypadku osoby upoważnionej przez Rzecznika Praw Obywatelskich lub Rzecznika Praw Dziecka – na podstawie legitymacji służbowej oraz pisemnego upoważnienia; do udzielenia widzenia z tymczasowo aresztowanym, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, nie jest wymagane zarządzenie o zgodzie na widzenie, wydane przez organ dysponujący.
+§ 101. 1. Do dokonania w jednostce penitencjarnej czynności procesowej z udziałem skazanego, ukaranego lub tymczasowo aresztowanego, względem którego stosuje się przepisy o wykonywaniu kary pozbawienia wolności, w sprawach o przestępstwa skarbowe oraz wykroczenia skarbowe, są uprawnieni funkcjonariusze finansowych organów postępowania przygotowawczego – jeżeli prowadzą postępowanie przygotowawcze w tej sprawie – na podstawie legitymacji służbowej oraz pisemnego upoważnienia właściwego przełożonego.
 2. Dokonanie czynności procesowej z udziałem tymczasowo aresztowanego, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, następuje ponadto na podstawie pisemnego zezwolenia organu dysponującego, jeżeli osoby, o których mowa w ust. 1, prowadzą postępowanie przygotowawcze w innej sprawie niż ta, w której nastąpiło tymczasowe aresztowanie; przepis § 99 ust. 1 pkt 2 zdanie drugie stosuje się.
 § 102. Przesłuchanie osadzonego, a także rozprawy lub posiedzenia prowadzone przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość, odbywają się:
 1) w jednostkach penitencjarnych posiadających odpowiednie techniczne możliwości realizacji takich czynności;
 2) na podstawie pisemnego polecenia sądu lub prokuratora określającego zasady i warunki przeprowadzenia przesłuchania, rozprawy lub posiedzenia ponadto jego datę oraz osoby w nim uczestniczące;
-3) na podstawie pisemnego polecenia organu prowadzącego postępowanie na podstawie przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+3) na podstawie pisemnego polecenia organu prowadzącego postępowanie na podstawie przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 Przepisy o czynnościach procesowych poza terenem jednostki penitencjarnej stosuje się.
 § 103. Tymczasowo aresztowanemu, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, umożliwia się skorzystanie z aparatu telefonicznego na podstawie zarządzenia o zgodzie na korzystanie z aparatu telefonicznego wydanego przez organ dysponujący. W przypadku, gdy tymczasowo aresztowany pozostaje do dyspozycji kilku organów, wymagane jest posiadanie zarządzenia wydanego przez każdy z organów dysponujących, chyba że organy te zarządzą inaczej.
 § 104. 1. Czynności procesowe z udziałem osadzonych są dokonywane na terenie jednostki penitencjarnej w godzinach urzędowania administracji, w przeznaczonych do tego celu pomieszczeniach.
 2. Z ważnych względów czynności procesowe z udziałem osadzonych mogą być dokonywane w innych godzinach, pomiędzy apelem porannym a wieczornym.
 3. W przypadkach szczególnie ważnych i niecierpiących zwłoki, czynności procesowe z udziałem osadzonych mogą być dokonane również po apelu wieczornym, jeżeli przeprowadza je prokurator albo, za jego pisemnym zezwoleniem, inna osoba.
-4. O konieczności dokonania czynności procesowej poza godzinami urzędowania administracji należy uprzedzić dyrektora, a w czasie jego nieobecności dowódcę zmiany.
+4. O konieczności dokonania czynności procesowej poza godzinami urzędowania administracji należy uprzedzić dyrektora, a w czasie jego nieobecności – dowódcę zmiany.
 § 105. Wydanie organowi doprowadzającemu tymczasowo aresztowanego w celu umieszczenia w zakładzie leczniczym, w związku z jego stanem zdrowia, następuje na podstawie wydanego przez organ dysponujący pisemnego polecenia wskazującego ten zakład i określającego warunki umieszczenia w nim tymczasowo aresztowanego. Przepisy § 85 ust. 2, § 86 ust. 5 oraz § 87 stosuje się.
 § 106. 1. Jeżeli sąd lub prokurator prześle akta sprawy w celu przejrzenia ich przez osadzonego, zwraca się je w terminie określonym przez ten organ. Do akt dołącza się pisemne oświadczenie osadzonego, że je przejrzał.
 2. W przypadku, gdy przejrzenie akt sprawy przez osadzonego we wskazanym terminie nie jest możliwe, uzgadnia się z sądem lub prokuratorem termin zwrotu akt.
 3. Dyrektor ustala sposób przeglądania przez osadzonych akt sprawy oraz dokumentowania tej czynności.
+§ 107. 1. Adresowaną do osadzonego przesyłkę z korespondencją urzędową z dołączonym potwierdzeniem odbioru doręcza się adresatowi za pokwitowaniem na tym potwierdzeniu. Sekretariat jednostki penitencjarnej odnotowuje na potwierdzeniu odbioru numer przesyłki poleconej, jaki nadano przesłanej przesyłce.
 2. Na potwierdzeniu odbioru korespondencji urzędowej osadzony wpisuje datę i potwierdza odbiór pisma swoim czytelnym podpisem zawierającym imię i nazwisko, a doręczający wypełnia potwierdzenie odbioru.
-3. Potwierdzenie odbioru przekazuje się placówce pocztowej albo oddaje pracownikowi operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, zwanego dalej „operatorem pocztowym”, osobie występującej w imieniu operatora pocztowego lub innej osobie uprawnionej do doręczania przesyłek na podstawie odrębnych przepisów, nie później niż trzeciego dnia roboczego od daty doręczenia korespondencji. Potwierdzenia odbioru ewidencjonuje sekretariat jednostki penitencjarnej.
+3. Potwierdzenie odbioru przekazuje się placówce pocztowej albo oddaje pracownikowi operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, zwanego dalej „operatorem pocztowym”, osobie występującej w imieniu operatora pocztowego lub innej osobie uprawnionej do doręczania przesyłek na podstawie odrębnych przepisów, nie później niż trzeciego dnia roboczego od daty doręczenia korespondencji. Potwierdzenia odbioru ewidencjonuje sekretariat jednostki penitencjarnej.
 4. Przesyłkę z korespondencją urzędową, przesłaną jako przesyłka polecona bez potwierdzenia odbioru, doręcza się adresatowi za pokwitowaniem w rejestrze korespondencji.
 § 108. 1. W przypadku braku możliwości doręczenia osadzonemu przesyłki z korespondencją urzędową, odmowy jej przyjęcia lub odmowy albo niemożności pokwitowania jej odbioru przez adresata, umieszcza się o tym wzmiankę na potwierdzeniu odbioru. Wzmianka zawiera datę i czytelny podpis doręczającego.
 2. Przepis ust. 1 stosuje się do przesyłki z korespondencją urzędową przesłanej jako przesyłka polecona bez potwierdzenia odbioru, z tym że wzmiankę umieszcza się na przesyłce oraz w rejestrze korespondencji.
@@ -577,18 +584,19 @@ Przepisy o czynnościach procesowych poza terenem jednostki penitencjarnej stosu
 § 109. 1. Przesyłkę z korespondencją urzędową adresowaną do osadzonego przetransportowanego, do której nie dołączono potwierdzenia odbioru ani nie została przesłana jako przesyłka polecona bez potwierdzenia odbioru, przesyła się w ślad za przetransportowanym, z zawiadomieniem nadawcy pisma.
 2. Jeżeli przesyłka z korespondencją urzędową adresowaną do jednostki penitencjarnej obejmuje dokument zawierający rozstrzygnięcie skutkujące pozbawieniem wolności, koniecznością dokonania lub zmiany obliczenia okresu wykonywania kary lub zwolnieniem osadzonego, przepis § 74 ust. 5 stosuje się.
 3. Korespondencję urzędową adresowaną do jednostki penitencjarnej, dotyczącą osadzonego, przesyła się w ślad za przetransportowanym, z zawiadomieniem nadawcy pisma, o ile z jej treści nie wynika, że powinna być załatwiona i przechowywana przez administrację jednostki penitencjarnej, do której była adresowana. Przesyłkę z korespondencją urzędową, która wpłynęła jako polecona, przesyła się w ten sam sposób.
+§ 110. 1. Zwolnienie tymczasowo aresztowanego ze sprawy następuje na skutek upływu terminu stosowania tymczasowego aresztowania, jeżeli jednostka penitencjarna nie otrzymała w tej sprawie:
 1) odpisu wyroku skazującego na karę pozbawienia wolności albo karę aresztu wojskowego, wraz z nakazem przyjęcia;
-2) odpisu orzeczenia sądu okręgowego określającego karę pozbawienia wolności, która ma być wykonywana, wraz z nakazem przyjęcia w przypadku tymczasowo aresztowanego skazanego za granicą.
+2) odpisu orzeczenia sądu okręgowego określającego karę pozbawienia wolności, która ma być wykonywana, wraz z nakazem przyjęcia – w przypadku tymczasowo aresztowanego skazanego za granicą.
 2. Zwolnienie tymczasowo aresztowanego ze sprawy następuje również po otrzymaniu:
 1) odpisu postanowienia o uchyleniu tymczasowego aresztowania wydanego przez:
 a) organ dysponujący,
-b) sąd właściwy do rozpoznania zażalenia na postanowienie o zastosowaniu tymczasowego aresztowania lub wniosku w przedmiocie dalszego jego stosowania wraz z nakazem zwolnienia;
+b) sąd właściwy do rozpoznania zażalenia na postanowienie o zastosowaniu tymczasowego aresztowania lub wniosku w przedmiocie dalszego jego stosowania – wraz z nakazem zwolnienia;
 2) odpisu postanowienia o zmianie tymczasowego aresztowania na łagodniejszy środek zapobiegawczy, wraz z nakazem zwolnienia;
 3) odpisu postanowienia sądu o uchyleniu postanowienia przedłużającego tymczasowe aresztowanie, wraz z nakazem zwolnienia;
 4) odpisu protokołu przyjęcia poręczenia majątkowego, wraz z nakazem zwolnienia; przepis § 4 ust. 1 pkt 1–3 stosuje się;
 5) odpisu orzeczenia sądu o zastosowaniu środka zabezpieczającego, wraz z poleceniem doprowadzenia do zakładu psychiatrycznego lub nakazem wydania w celu umieszczenia tymczasowo aresztowanego w podmiocie leczniczym, o którym mowa w art. 71 ust. 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 172 oraz z 2022 r. poz. 2600), a jeżeli wobec tymczasowo aresztowanego:
-a) wykonywana jest również kara orzeczona w innej sprawie ponadto zarządzenia sędziego penitencjarnego o wykonaniu w pierwszej kolejności środka zabezpieczającego,
-b) wykonywane jest tymczasowe aresztowanie w innej sprawie ponadto dokumentu, wydanego przez organ dysponujący, z treści którego wynika, że tymczasowo aresztowany ma być zwolniony także z tej sprawy, wraz z nakazem zwolnienia;
+a) wykonywana jest również kara orzeczona w innej sprawie – ponadto zarządzenia sędziego penitencjarnego o wykonaniu w pierwszej kolejności środka zabezpieczającego,
+b) wykonywane jest tymczasowe aresztowanie w innej sprawie – ponadto dokumentu, wydanego przez organ dysponujący, z treści którego wynika, że tymczasowo aresztowany ma być zwolniony także z tej sprawy, wraz z nakazem zwolnienia;
 6) odpisu pisma Ministra Sprawiedliwości zawierającego rozstrzygnięcie w przedmiocie wydania ściganego tymczasowo aresztowanego obcemu państwu, wraz z nakazem wydania;
 7) odpisu pisma Ministra Sprawiedliwości lub postanowienia sądu zawierającego rozstrzygnięcie w przedmiocie przekazania tymczasowo aresztowanego obcemu państwu, wraz z nakazem wydania;
 8) odpisu wniosku o przejęcie ścigania karnego tymczasowo aresztowanego cudzoziemca, wraz z pismem organu dysponującego zawierającym informację o rozstrzygnięciu w przedmiocie przekazania ścigania organom państwa obcego i nakazem wydania; przepis § 4 ust. 1 pkt 1–3 stosuje się;
@@ -610,17 +618,17 @@ f) zawieszeniu postępowania wykonawczego,
 g) umorzeniu postępowania wykonawczego,
 h) rozłożeniu grzywny na raty,
 i) przywróceniu terminu do wniesienia środka odwoławczego od wykonywanego orzeczenia,
-j) uchyleniu aresztowania wykonywanego w związku z wymierzeniem kary porządkowej lub stosowaniem środka przymusu wraz z nakazem zwolnienia;
+j) uchyleniu aresztowania wykonywanego w związku z wymierzeniem kary porządkowej lub stosowaniem środka przymusu – wraz z nakazem zwolnienia;
 2) odpisu decyzji komisji penitencjarnej o udzieleniu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego; przepis § 4 ust. 1 pkt 1 i 4 stosuje się;
 3) odpisu postanowienia sądu penitencjarnego o udzieleniu przerwy w wykonaniu kary, o której mowa w art. 153 § 1 k.k.w., wraz z poleceniem doprowadzenia do podmiotu leczniczego, w celu podjęcia leczenia;
 4) zarządzenia zwolnienia skazanego, w przypadku wymierzenia w wyroku łącznym kary niższej od okresu odbytych i połączonych już kar pozbawienia wolności lub równej temu okresowi, wraz z odpisem nieprawomocnego wyroku łącznego i nakazem zwolnienia;
 5) odpisu wyroku uchylającego zaskarżony wyrok, wraz z nakazem zwolnienia;
 6) zarządzenia o zwolnieniu skazanego na skutek zastosowania prawa łaski wraz z nakazem zwolnienia;
 7) zarządzenia zwolnienia wydanego przez właściwy sąd w związku ze złożeniem kwoty pieniężnej przypadającej do uiszczenia tytułem grzywny zamienionej na zastępczą karę pozbawienia wolności lub zastępczą karę aresztu, wraz z nakazem zwolnienia;
-8) pisma głównego księgowego jednostki penitencjarnej, informującego o wysokości kwoty pieniężnej uiszczonej w tej jednostce tytułem grzywny zamienionej na zastępczą karę pozbawienia wolności lub zastępczą karę aresztu, jeżeli kwota ta jest równa kwocie pozostałej jeszcze do uiszczenia z uwzględnieniem okresu już wykonanej kary zastępczej;
+8) pisma głównego księgowego jednostki penitencjarnej, informującego o wysokości kwoty pieniężnej uiszczonej w tej jednostce tytułem grzywny zamienionej na zastępczą karę pozbawienia wolności lub zastępczą karę aresztu, jeżeli kwota ta jest równa kwocie pozostałej jeszcze do uiszczenia – z uwzględnieniem okresu już wykonanej kary zastępczej;
 9) odpisu orzeczenia sądu o zastosowaniu środka zabezpieczającego, wraz z poleceniem doprowadzenia do zakładu psychiatrycznego, a jeżeli wobec skazanego:
-a) wykonywana jest również kara orzeczona w innej sprawie ponadto zarządzenia sędziego penitencjarnego o wykonaniu w pierwszej kolejności środka zabezpieczającego,
-b) wykonywane jest tymczasowe aresztowanie w innej sprawie ponadto dokumentu, wydanego przez organ dysponujący, z treści którego wynika, że tymczasowo aresztowany ma być zwolniony także z tej sprawy, wraz z nakazem zwolnienia;
+a) wykonywana jest również kara orzeczona w innej sprawie – ponadto zarządzenia sędziego penitencjarnego o wykonaniu w pierwszej kolejności środka zabezpieczającego,
+b) wykonywane jest tymczasowe aresztowanie w innej sprawie – ponadto dokumentu, wydanego przez organ dysponujący, z treści którego wynika, że tymczasowo aresztowany ma być zwolniony także z tej sprawy, wraz z nakazem zwolnienia;
 10) odpisu postanowienia sądu o dopuszczalności przekazania, w celu wykonania kary w państwie obcym, cudzoziemca skazanego przez sąd polski, wraz z nakazem wydania;
 11) odpisu postanowienia sądu w przedmiocie wystąpienia do państwa członkowskiego Unii Europejskiej o wykonanie kary pozbawienia wolności, wraz z pismem tego sądu zawierającym informację o przekazaniu orzeczenia do wykonania za granicę i nakazem wydania;
 12) zarządzenia sędziego penitencjarnego o wykonaniu w pierwszej kolejności środka zabezpieczającego oraz odpisu orzeczenia sądu o zastosowaniu tego środka zabezpieczającego, wraz z:
@@ -632,8 +640,8 @@ b) nakazem wydania z zawartą w nim informacją o umieszczeniu skazanego lub uka
 5. Zwolnienie skazanego lub ukaranego doprowadzanego do:
 1) zakładu psychiatrycznego,
 2) KOZZD,
-3) podmiotu leczniczego, w celu podjęcia leczenia, w wykonaniu postanowienia sądu penitencjarnego o udzieleniu przerwy w wykonaniu kary, o której mowa w art. 153 § 1 kk.w.
-następuje z chwilą wydania organowi doprowadzającemu, w celu jego przekazania personelowi właściwego zakładu albo podmiotu leczniczego.
+3) podmiotu leczniczego, w celu podjęcia leczenia, w wykonaniu postanowienia sądu penitencjarnego o udzieleniu przerwy w wykonaniu kary, o której mowa w art. 153 § 1 k.k.w.
+– następuje z chwilą wydania organowi doprowadzającemu, w celu jego przekazania personelowi właściwego zakładu albo podmiotu leczniczego.
 § 112. 1. Zwolnienie osadzonego z jednostki penitencjarnej następuje w:
 1) dniu, w którym upływa termin stosowania tymczasowego aresztowania;
 2) dniu, w którym upływa termin końca kary lub środka przymusu;
@@ -656,7 +664,7 @@ a) akta ewidencyjne wraz z dokumentami skutkującymi zwolnieniem w celu potwierd
 b) świadectwo zwolnienia;
 2) podpisuje potwierdzenie legalności zwolnienia ze sprawy;
 3) do dokumentów, o których mowa w pkt 1 i 2, dołącza teczkę osobopoznawczą.
-2. Dyrektor ustala na podstawie informacji przekazanej przez podmiot leczniczy dla osób pozbawionych wolności zdolność osadzonego do samodzielnego powrotu do miejsca zameldowania lub miejsca przebywania bez zameldowania, a następnie sprawdza, czy właściwe służby jednostki penitencjarnej wykonały czynności niezbędne dla prawidłowego zwolnienia osadzonego.
+2. Dyrektor ustala – na podstawie informacji przekazanej przez podmiot leczniczy dla osób pozbawionych wolności – zdolność osadzonego do samodzielnego powrotu do miejsca zameldowania lub miejsca przebywania bez zameldowania, a następnie sprawdza, czy właściwe służby jednostki penitencjarnej wykonały czynności niezbędne dla prawidłowego zwolnienia osadzonego.
 3. Dokumentację, o której mowa w ust. 1, kierownik przedkłada dyrektorowi wraz z kalendarzem zwolnień skazanych i kalendarzem zwolnień tymczasowo aresztowanych w celu zatwierdzenia przez niego prawidłowości zwolnienia oraz podpisania:
 1) potwierdzenia legalności zwolnienia ze sprawy;
 2) świadectwa zwolnienia.
@@ -665,7 +673,7 @@ b) świadectwo zwolnienia;
 6. Otrzymanie dokumentów dotyczących osadzonego podlegającego zwolnieniu ze sprawy w danym dniu, dyrektor potwierdza w kalendarzu zwolnień skazanych i kalendarzu zwolnień tymczasowo aresztowanych.
 7. Przed zakończeniem urzędowania kierownik potwierdza w kalendarzu zwolnień skazanych i kalendarzu zwolnień tymczasowo aresztowanych, że przygotowano dokumenty dotyczące zwolnienia wszystkich osadzonych podlegających zwolnieniu w danym dniu oraz w dniach następnych, jeżeli są one wolne od pracy. Dotyczy to zarówno zwolnień ze sprawy, jak i z jednostki penitencjarnej.
 § 116. Otrzymanie świadectwa zwolnienia oraz dokumentów osobistych zwalniany potwierdza czytelnym podpisem na obwolucie akt ewidencyjnych. Przepis § 108 ust. 1 stosuje się odpowiednio. Duplikatu świadectwa zwolnienia nie sporządza się.
-§ 117. 1. Jeżeli w trakcie dokonywania czynności procesowych poza terenem jednostki penitencjarnej nastąpiło zwolnienie tymczasowo aresztowanego lub ukaranego karą porządkową, o której mowa w art. 276 § 2 i art. 916 § 1 k.p.c lub art. 287 § 2 k.pk., czynności związanych ze zwolnieniem dokonuje się po otrzymaniu dokumentów skutkujących zwolnieniem.
+§ 117. 1. Jeżeli w trakcie dokonywania czynności procesowych poza terenem jednostki penitencjarnej nastąpiło zwolnienie tymczasowo aresztowanego lub ukaranego karą porządkową, o której mowa w art. 276 § 2 i art. 916 § 1 k.p.c lub art. 287 § 2 k.p.k., czynności związanych ze zwolnieniem dokonuje się po otrzymaniu dokumentów skutkujących zwolnieniem.
 2. Jako termin zwolnienia odnotowywany w dokumentacji przyjmuje się datę, w której nastąpiło faktyczne zwolnienie.
 § 118. 1. O zwolnieniu tymczasowo aresztowanego ze sprawy zawiadamia się:
 1) organ dysponujący;
@@ -678,9 +686,9 @@ b) świadectwo zwolnienia;
 5. W zawiadomieniach o zwolnieniu przesyłanych do organów, o których mowa w ust. 1, 2 i 4, podaje się w szczególności datę i przyczynę zwolnienia.
 6. W zawiadomieniach o zwolnieniu osadzonego z jednostki penitencjarnej, przesyłanych do organów, o których mowa w ust. 1 i 2, odnotowuje się ponadto informację o miejscu przebywania osadzonego po zwolnieniu.
 7. Zawiadomienie o zwolnieniu przesyła się nie później niż pierwszego dnia roboczego po zwolnieniu.
-§ 119. 1. O terminie zwolnienia skazanego i ukaranego cudzoziemca z jednostki penitencjarnej na trzy miesiące przed tym terminem a ponadto o wszczęciu wobec niego przed sądem penitencjarnym postępowania w sprawie o warunkowe zwolnienie, udzielenie przerwy w wykonaniu kary albo zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, zawiadamia się:
-1) najbliższe dla jednostki penitencjarnej właściwe przedstawicielstwo dyplomatyczne lub urząd konsularny, a w przypadku braku przedstawicielstwa dyplomatycznego lub urzędu konsularnego na terenie Rzeczypospolitej Polskiej oraz gdy dotyczy to skazanego lub ukaranego, którego obywatelstwa nie ustalono ministra właściwego do spraw zagranicznych;
-2) wojewodę oraz komendanta oddziału Straży Granicznej właściwych miejscowo dla jednostki penitencjarnej, a kopią tego zawiadomienia komendanta wojewódzkiego Policji właściwego miejscowo dla jednostki penitencjarnej.
+§ 119. 1. O terminie zwolnienia skazanego i ukaranego cudzoziemca z jednostki penitencjarnej – na trzy miesiące przed tym terminem – a ponadto o wszczęciu wobec niego przed sądem penitencjarnym postępowania w sprawie o warunkowe zwolnienie, udzielenie przerwy w wykonaniu kary albo zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, zawiadamia się:
+1) najbliższe dla jednostki penitencjarnej właściwe przedstawicielstwo dyplomatyczne lub urząd konsularny, a w przypadku braku przedstawicielstwa dyplomatycznego lub urzędu konsularnego na terenie Rzeczypospolitej Polskiej oraz gdy dotyczy to skazanego lub ukaranego, którego obywatelstwa nie ustalono – ministra właściwego do spraw zagranicznych;
+2) wojewodę oraz komendanta oddziału Straży Granicznej właściwych miejscowo dla jednostki penitencjarnej, a kopią tego zawiadomienia – komendanta wojewódzkiego Policji właściwego miejscowo dla jednostki penitencjarnej.
 2. O wyznaczonym przez sąd penitencjarny terminie posiedzenia, na którym będzie rozpatrywana sprawa o udzielenie cudzoziemcowi warunkowego zwolnienia, przerwy w wykonaniu kary albo zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, powiadamia się bezzwłocznie po otrzymaniu wykazu spraw, które mają być w danym dniu rozpoznane (wokandy), komendanta oddziału Straży Granicznej właściwego miejscowo dla jednostki penitencjarnej.
 3. Jeżeli termin zwolnienia osadzonego cudzoziemca nie był wcześniej znany, zawiadomienia, o których mowa w ust. 1, przesyła się natychmiast po ustaleniu tego terminu.
 4. Zawiadomienie zawiera następujące dane dotyczące cudzoziemca:
@@ -700,7 +708,7 @@ b) świadectwo zwolnienia;
 3. Zawiadomienie zawiera informacje, o których mowa w § 119 ust. 4 pkt 1–5, oraz:
 1) oznaczenie właściwego sądu wraz z sygnaturą akt sprawy;
 2) termin początku i końca wykonywania kary.
-4. Po otrzymaniu dokumentu, z treści którego wynika, że wobec cudzoziemca, o którym mowa w ust. 1, została wydana decyzja o zobowiązaniu cudzoziemca do powrotu albo decyzja o wydaleniu, dyrektor przesyła kopię otrzymanego dokumentu, wraz z aktualnymi informacjami, o których mowa w ust. 3, jeśli decyzja dotyczy obywatela państwa członkowskiego Unii Europejskiej do właściwego sądu, a w pozostałych przypadkach do właściwej komórki organizacyjnej podległej Ministrowi Sprawiedliwości, w celu zainicjowania postępowania o przekazanie skazanego cudzoziemca do wykonania orzeczonej wobec niego kary pozbawienia wolności. W przypadku, gdy wykonanie tych decyzji nastąpiło przed zakończeniem postępowania o przekazanie skazanego, dyrektor informuje o tym właściwy sąd albo właściwą komórkę organizacyjną w Ministerstwie Sprawiedliwości.
+4. Po otrzymaniu dokumentu, z treści którego wynika, że wobec cudzoziemca, o którym mowa w ust. 1, została wydana decyzja o zobowiązaniu cudzoziemca do powrotu albo decyzja o wydaleniu, dyrektor przesyła kopię otrzymanego dokumentu, wraz z aktualnymi informacjami, o których mowa w ust. 3, jeśli decyzja dotyczy obywatela państwa członkowskiego Unii Europejskiej – do właściwego sądu, a w pozostałych przypadkach do właściwej komórki organizacyjnej podległej Ministrowi Sprawiedliwości, w celu zainicjowania postępowania o przekazanie skazanego cudzoziemca do wykonania orzeczonej wobec niego kary pozbawienia wolności. W przypadku, gdy wykonanie tych decyzji nastąpiło przed zakończeniem postępowania o przekazanie skazanego, dyrektor informuje o tym właściwy sąd albo właściwą komórkę organizacyjną w Ministerstwie Sprawiedliwości.
 5. Przesyłanie zawiadomień, o których mowa w ust. 1 i 4, nie stanowi przeszkody w przetransportowaniu skazanego cudzoziemca. Jeżeli przetransportowanie do jednostki penitencjarnej położonej w innym województwie nastąpiło po przesłaniu zawiadomienia, o którym mowa w ust. 1, dyrektor jednostki, do której przybył skazany cudzoziemiec, zawiadamia organy, do których wysłano zawiadomienie, o nowym miejscu pobytu skazanego. Zawiadomienie to przesyła się nie później niż trzeciego dnia roboczego po przetransportowaniu skazanego.
 6. Właściwa komórka organizacyjna podległa Ministrowi Sprawiedliwości bezzwłocznie zawiadamia jednostki penitencjarne, za pośrednictwem Centralnego Zarządu Służby Więziennej, o zmianach dotyczących państw stron Protokołu dodatkowego do Konwencji o przekazywaniu osób skazanych, sporządzonego w Strasburgu dnia 18 grudnia 1997 r. (Dz. U.
 z 2000 r. poz. 490), w tym o treści oświadczeń złożonych do art. 3 tego Protokołu.
@@ -717,31 +725,31 @@ o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożen
 § 126. 1. Jeżeli osadzony zbiegł albo w wyznaczonym terminie nie powrócił z przepustki, należy:
 1) zawiadomić pocztą elektroniczną komendę powiatową (rejonową, miejską) Policji właściwą dla miejsca stałego pobytu osadzonego, w razie potrzeby za pośrednictwem komendy wojewódzkiej (Stołecznej) Policji;
 2) przesłać wniosek o zatrzymanie osadzonego wraz z informacjami, które mogą ułatwić zatrzymanie, do komendy wojewódzkiej (Stołecznej) Policji właściwej miejscowo dla jednostki penitencjarnej, a jego odpis do:
-a) organu dysponującego w przypadku tymczasowo aresztowanego,
-b) właściwego sądu w przypadku skazanego lub ukaranego,
+a) organu dysponującego – w przypadku tymczasowo aresztowanego,
+b) właściwego sądu – w przypadku skazanego lub ukaranego,
 c) sądu penitencjarnego;
 3) skompletować dokumentację osadzonego, dołączając do akt ewidencyjnych teczkę osobopoznawczą, dokumentację zatrudnienia, książkę zdrowia, kartę identyfikacyjną oraz kartę tożsamości, a następnie przechowywać ją w dziale ewidencji oddzielnie od pozostałych akt.
 2. Zawiadomienie, o którym mowa w ust. 1 pkt 1, wysyła się:
-1) natychmiast w przypadku ucieczki;
-2) po apelu wieczornym w przypadku osadzonego korzystającego z przepustki;
-3) po upływie godziny od wyznaczonego osadzonemu terminu powrotu z przepustki jeżeli ten termin upływa po apelu wieczornym.
+1) natychmiast – w przypadku ucieczki;
+2) po apelu wieczornym – w przypadku osadzonego korzystającego z przepustki;
+3) po upływie godziny od wyznaczonego osadzonemu terminu powrotu z przepustki – jeżeli ten termin upływa po apelu wieczornym.
 3. W przypadku powrotu osadzonego lub przyjęcia go do innej jednostki penitencjarnej, jednostka, w której ewidencji dotychczas pozostawał, natychmiast przesyła zawiadomienie i odwołanie wniosku o zatrzymanie do organów, o których mowa w ust. 1 pkt 1 i 2.
-§ 127. 1. W przypadku, gdy skazany lub ukarany nie zgłosił się po przerwie w wykonaniu kary, zawiadomienie, o którym mowa w § 126 ust. 1 pkt 1, i wniosek, o którym mowa w § 126 ust. 1 pkt 2 wysyła się pierwszego dnia roboczego po upływie terminu zgłoszenia się do jednostki penitencjarnej. Przepis § 126 ust. 3 stosuje się.
+§ 127. 1. W przypadku, gdy skazany lub ukarany nie zgłosił się po przerwie w wykonaniu kary, zawiadomienie, o którym mowa w § 126 ust. 1 pkt 1, i wniosek, o którym mowa w § 126 ust. 1 pkt 2 – wysyła się pierwszego dnia roboczego po upływie terminu zgłoszenia się do jednostki penitencjarnej. Przepis § 126 ust. 3 stosuje się.
 2. Zawiadomienie i odwołanie wniosku, o których mowa w § 126 ust. 3, przesyła się ponadto, jeżeli po wysłaniu zawiadomień i wniosków, o których mowa w ust. 1, wpłynie postanowienie sądu penitencjarnego o udzieleniu dalszej przerwy w wykonaniu kary.
 § 128. 1. Jeżeli osadzony, który zbiegł albo w wyznaczonym terminie nie powrócił z przepustki lub przerwy w wykonaniu kary i w ciągu sześciu miesięcy nie zgłosi się lub nie zostanie ujęty, jednostka penitencjarna przesyła do organu dysponującego albo właściwego sądu wniosek o wydanie postanowień w przedmiocie zawieszenia postępowania wykonawczego oraz poszukiwania osadzonego listem gończym, o ile nie zostały one wydane wcześniej.
 2. Po otrzymaniu postanowienia organu dysponującego o zawieszeniu postępowania wykonawczego albo postanowienia właściwego sądu o zawieszeniu postępowania wykonawczego, osadzonego skreśla się z ewidencji jednostki penitencjarnej. Przepis § 113 stosuje się.
 3. O skreśleniu osadzonego z ewidencji zawiadamia się jednostki organizacyjne Policji, o których mowa w § 126 ust. 1 pkt 1 i 2, wraz z informacją, że do ponownego przyjęcia osadzonego do aresztu śledczego niezbędny jest nakaz przyjęcia oraz wystawione przez uprawniony organ odpisy dokumentów, które stanowiły podstawę prawną pobytu osadzonego w jednostce penitencjarnej, do czasu skreślenia go z ewidencji.
 4. Odpis zawiadomienia przesyła się do:
-1) organu dysponującego w przypadku tymczasowo aresztowanego;
-2) właściwego sądu w przypadku skazanego lub ukaranego;
+1) organu dysponującego – w przypadku tymczasowo aresztowanego;
+2) właściwego sądu – w przypadku skazanego lub ukaranego;
 3) sądu penitencjarnego;
 4) właściwego organu do prowadzenia ewidencji wojskowej.
 5. Jeżeli osoba skreślona z ewidencji jednostki penitencjarnej, zostanie osadzona w innej sprawie w innej jednostce, areszt śledczy, do którego została przyjęta, zawiadamia o tym jednostkę penitencjarną, w której nastąpiło skreślenie, w celu przesłania przez nią powiadomienia o ponownym osadzeniu do organu, o którym mowa w ust. 1. Kopię powiadomienia wraz z teczką osobopoznawczą, przesyła się do jednostki penitencjarnej, w której osadzony aktualnie przebywa.
 § 129. W przypadku, o którym mowa w § 128 ust. 2, jeżeli otrzymanie postanowienia o zawieszeniu postępowania albo zawieszeniu postępowania wykonawczego w jednej sprawie nie skutkuje skreśleniem osadzonego z ewidencji jednostki penitencjarnej z przyczyn określonych w § 113, w razie przyjęcia osadzonego przystępuje się do wykonania wszystkich orzeczeń, których wykonanie zawieszono do czasu ujęcia osadzonego.
 § 130. Jeżeli w stosunku do osadzonego, który zbiegł albo w wyznaczonym terminie nie powrócił z przepustki lub przebywa na przerwie w wykonaniu kary, wpłynie dokument informujący o jego zgonie, występuje się do organu dysponującego albo właściwego sądu z wnioskiem o przesłanie postanowienia o umorzeniu postępowania lub postępowania wykonawczego. Do wniosku dołącza się otrzymany dokument. Kopię wniosku i dokumentu włącza się do akt ewidencyjnych.
 § 131. 1. Jeżeli w stosunku do osadzonego, który zbiegł albo w wyznaczonym terminie nie powrócił z przepustki, zostanie umorzone postępowanie lub postępowanie wykonawcze w związku z jego zgonem, wpłyną dokumenty skutkujące zwolnieniem albo upłynie termin stosowania tymczasowego aresztowania, zawiadamia się o tym:
-1) organ dysponujący oraz organ, który zarządził zwolnienie w przypadku tymczasowo aresztowanego;
-2) właściwy sąd oraz sąd, który zarządził zwolnienie w przypadku skazanego lub ukaranego;
+1) organ dysponujący oraz organ, który zarządził zwolnienie – w przypadku tymczasowo aresztowanego;
+2) właściwy sąd oraz sąd, który zarządził zwolnienie – w przypadku skazanego lub ukaranego;
 3) jednostki organizacyjne Policji, o których mowa w § 126 ust. 1 pkt 1 i 2;
 4) sąd penitencjarny;
 5) właściwy organ do prowadzenia ewidencji wojskowej.
@@ -752,7 +760,7 @@ c) sądu penitencjarnego;
 § 132. 1. Jeżeli w stosunku do osadzonego, który zbiegł albo w wyznaczonym terminie nie powrócił z przepustki, zostanie umorzone postępowanie lub postępowanie wykonawcze w związku z jego zgonem, wpłyną dokumenty skutkujące zwolnieniem albo upłynie termin stosowania tymczasowego aresztowania lub gdy zostanie on skreślony z ewidencji jednostki penitencjarnej, obowiązuje tryb postępowania przewidziany przy zwalnianiu osadzonych, z tym że:
 1) dokumenty, o których mowa w § 1 pkt 3 lit. a, b, f i pkt 4, przesyła się wraz z pismem wyjaśniającym do podmiotu wydającego;
 2) książeczkę żeglarską przesyła się wraz z pismem wyjaśniającym do właściwego urzędu morskiego;
-3) książeczkę wojskową, jeżeli nie została odesłana przy przyjęciu, przesyła się do właściwego organu prowadzącego ewidencję wojskową, którą osadzony jest objęty, a legitymację służbową żołnierza zawodowego dowódcy jednostki wojskowej, w której osadzony pełni lub ostatnio pełnił zawodową służbę wojskową;
+3) książeczkę wojskową, jeżeli nie została odesłana przy przyjęciu, przesyła się do właściwego organu prowadzącego ewidencję wojskową, którą osadzony jest objęty, a legitymację służbową żołnierza zawodowego – dowódcy jednostki wojskowej, w której osadzony pełni lub ostatnio pełnił zawodową służbę wojskową;
 4) legitymację służbową funkcjonariusza organu powołanego do ochrony bezpieczeństwa publicznego, funkcjonariusza lub pracownika Służby Więziennej albo pracownika organu wymiaru sprawiedliwości lub organu ścigania, przesyła się do organu, który ją wydał;
 5) dokumenty, o których mowa w § 1 pkt 3 lit. e, przesyła się wraz z pismem wyjaśniającym do organu, który je wydał.
 2. Przepisy ust. 1 stosuje się do osadzonego zwolnionego w trakcie dokonywania czynności procesowych poza terenem jednostki penitencjarnej, który nie rozliczył się z tą jednostką w terminie miesiąca od daty zwolnienia.
@@ -771,45 +779,48 @@ c) sądu penitencjarnego;
 2) wyrok łączny wraz z nakazem przyjęcia włącza się do akt ewidencyjnych skazanego lub ukaranego zwolnionego na przerwę;
 3) zawiadamia się o tym sąd penitencjarny, który udzielił przerwy.
 2. W przypadku, gdy sąd, który przesłał wyrok łączny, wyznaczył skazanemu inny termin stawienia się do odbycia kary niż wynikający z postanowienia o udzieleniu przerwy w wykonaniu kary, zawiadamia się o tym sąd penitencjarny, który udzielił przerwy wnioskując jednocześnie o ustalenie terminu stawienia się skazanego do jednostki penitencjarnej.
-3. W przypadku, gdy właściwy sąd zawiadomił o odroczeniu wykonania kary wymierzonej wyrokiem łącznym, o którym mowa w ust. 1, otrzymanych dokumentów nie zwraca się do sądu, informując o tym na piśmie sąd penitencjarny, który udzielił przerwy w wykonaniu kary, a kopią tego zawiadomienia sąd, który skierował orzeczenie do wykonania.
+3. W przypadku, gdy właściwy sąd zawiadomił o odroczeniu wykonania kary wymierzonej wyrokiem łącznym, o którym mowa w ust. 1, otrzymanych dokumentów nie zwraca się do sądu, informując o tym na piśmie sąd penitencjarny, który udzielił przerwy w wykonaniu kary, a kopią tego zawiadomienia – sąd, który skierował orzeczenie do wykonania.
 4. Jeżeli w czasie przerwy w wykonaniu kary wpłynie wyrok łączny obejmujący wszystkie z pozostałych do wykonania kar, od których udzielono przerwy w wykonaniu kary, przyjmuje się, że przerwa została udzielona od tego wyroku łącznego. W takim przypadku za termin stawienia się do odbycia kary, jeżeli został wyznaczony, przyjmuje się wyznaczony termin udzielonej przerwy, o czym zawiadamia się sąd penitencjarny i właściwy sąd; w przypadku, gdy wraz z wyrokiem łącznym przesłano informację o mającym nastąpić doprowadzeniu skazanego lub ukaranego, natychmiast zawiadamia się właściwy sąd o udzielonej przerwie; w przypadku ustalenia, że wymierzona w wyroku łącznym kara jest niższa od okresu odbytych lub połączonych kar pozbawienia wolności lub równa temu okresowi, stosuje się ust. 1 pkt 1.
+§ 136. Wniosek, o którym mowa w art. 168a § 1 k.k.w., oraz dokument zawierający dane pokrzywdzonego, przesłane przez właściwy sąd, włącza się do akt ewidencyjnych, a kserokopie tych dokumentów przekazuje się komórce organizacyjnej bezpośrednio odpowiedzialnej za prowadzenie oddziaływań penitencjarnych wobec skazanego.
 § 137. 1. O opuszczeniu przez skazanego jednostki penitencjarnej, w przypadkach, o których mowa w art. 168a § 1 i 1a k.k.w., zawiadamia się pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje.
-2. Pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, zawiadamia się również o powrocie skazanego do jednostki penitencjarnej po ucieczce i w przypadkach, o których mowa w art. 168a § 1a kk.w.
+2. Pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, zawiadamia się również o powrocie skazanego do jednostki penitencjarnej po ucieczce i w przypadkach, o których mowa w art. 168a § 1a k.k.w.
 3. Zawiadomienia, o których mowa w ust. 1 i 2, przesyła się:
 1) nie później niż na 10 dni przed planowanym opuszczeniem przez skazanego jednostki penitencjarnej;
-2) nie później niż pierwszego dnia roboczego w pozostałych przypadkach.
-4. Na wniosek pokrzywdzonego zawiadomienia dokonuje się telefonicznie sporządzając w tym zakresie notatkę służbową lub pocztą elektroniczną. W przypadku uzasadnionych wątpliwości co do skuteczności zawiadomienia dokonanego pocztą elektroniczną; przepis ust. 3 stosuje się.
-5. Jeżeli po dokonaniu zawiadomienia wystąpią okoliczności powodujące zmianę terminu opuszczenia przez skazanego jednostki penitencjarnej, bądź skutkujące tym, że skazany we wskazanym terminie nie będzie mógł opuścić jednostki penitencjarnej należy bezzwłocznie, lecz nie później niż pierwszego dnia roboczego, po wystąpieniu tych okoliczności, zawiadomić o tym pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje.
+2) nie później niż pierwszego dnia roboczego – w pozostałych przypadkach.
+4. Na wniosek pokrzywdzonego zawiadomienia dokonuje się telefonicznie – sporządzając w tym zakresie notatkę służbową – lub pocztą elektroniczną. W przypadku uzasadnionych wątpliwości co do skuteczności zawiadomienia dokonanego pocztą elektroniczną; przepis ust. 3 stosuje się.
+5. Jeżeli po dokonaniu zawiadomienia wystąpią okoliczności powodujące zmianę terminu opuszczenia przez skazanego jednostki penitencjarnej, bądź skutkujące tym, że skazany we wskazanym terminie nie będzie mógł opuścić jednostki penitencjarnej – należy bezzwłocznie, lecz nie później niż pierwszego dnia roboczego, po wystąpieniu tych okoliczności, zawiadomić o tym pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje.
 § 138. Przepisy § 136 i § 137 stosuje się do świadka, o którym mowa w art. 168a § 6 k.k.w.
-§ 139. 1. Przepisy § 137 ust. 1–3 i 5 stosuje się odpowiednio do zawiadamiania realizowanego w trybie art. 168a § 3 i 4 kk.w., z tym że zawiadomienia przesyła się w trybie, o którym mowa w § 6 ust. 2.
-2. Zawiadomienia, o których mowa w art. 168a § 3 i 4 kk.w., przesyła się do komendy powiatowej (rejonowej, miejskiej) Policji właściwej dla miejsca stałego pobytu skazanego, w razie potrzeby za pośrednictwem komendy wojewódzkiej (Stołecznej) Policji.
+§ 139. 1. Przepisy § 137 ust. 1–3 i 5 stosuje się odpowiednio do zawiadamiania realizowanego w trybie art. 168a § 3 i 4 k.k.w., z tym że zawiadomienia przesyła się w trybie, o którym mowa w § 6 ust. 2.
+2. Zawiadomienia, o których mowa w art. 168a § 3 i 4 k.k.w., przesyła się do komendy powiatowej (rejonowej, miejskiej) Policji właściwej dla miejsca stałego pobytu skazanego, w razie potrzeby za pośrednictwem komendy wojewódzkiej (Stołecznej) Policji.
 § 140. Zawiadomienie realizowane w trybie art. 11 ust. 1 pkt 2 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym (Dz. U. z 2023 r. poz. 1304), zawierające informację o faktycznym adresie pobytu, pod którym osadzony będzie przebywał po opuszczeniu jednostki penitencjarnej, przekazuje się do jednostki organizacyjnej Policji właściwej ze względu na miejsce tego pobytu. Dokument potwierdzający dokonanie przez osadzonego zgłoszenia, włącza się do akt ewidencyjnych.
+§ 141. O urodzeniu dziecka przez tymczasowo aresztowaną powiadamia się organ dysponujący.
 § 142. 1. O zgonie osadzonego zawiadamia się natychmiast:
-1) prokuratora rejonowego, a w przypadku zgonu żołnierza służby czynnej zastępcę prokuratora rejonowego do spraw wojskowych, właściwego dla miejsca zgonu;
+1) prokuratora rejonowego, a w przypadku zgonu żołnierza służby czynnej – zastępcę prokuratora rejonowego do spraw wojskowych, właściwego dla miejsca zgonu;
 2) sędziego penitencjarnego;
-3) właściwy sąd w przypadku skazanego lub ukaranego;
-4) organ dysponujący w przypadku, gdy wobec osoby zmarłej było stosowane tymczasowe aresztowanie.
+3) właściwy sąd – w przypadku skazanego lub ukaranego;
+4) organ dysponujący – w przypadku, gdy wobec osoby zmarłej było stosowane tymczasowe aresztowanie.
 2. O zgonie osadzonego zawiadamia się ponadto:
 1) właściwy organ do prowadzenia ewidencji wojskowej;
-2) dowódcę jednostki wojskowej, w której zmarły ostatnio pełnił służbę w przypadku żołnierza służby czynnej;
-3) właściwe przedstawicielstwo dyplomatyczne lub urząd konsularny, a w przypadku braku przedstawicielstwa dyplomatycznego lub urzędu konsularnego na terenie Rzeczypospolitej Polskiej albo, gdy dotyczy to zmarłego, którego obywatelstwa nie ustalono ministra właściwego do spraw zagranicznych, jeżeli osadzony był cudzoziemcem;
+2) dowódcę jednostki wojskowej, w której zmarły ostatnio pełnił służbę – w przypadku żołnierza służby czynnej;
+3) właściwe przedstawicielstwo dyplomatyczne lub urząd konsularny, a w przypadku braku przedstawicielstwa dyplomatycznego lub urzędu konsularnego na terenie Rzeczypospolitej Polskiej albo, gdy dotyczy to zmarłego, którego obywatelstwa nie ustalono – ministra właściwego do spraw zagranicznych, jeżeli osadzony był cudzoziemcem;
 4) wojewodę właściwego dla miejsca zgonu, jeżeli osadzony był cudzoziemcem.
 § 143. W przypadku, gdy zgon osadzonego nastąpił w trakcie transportowania, jednostką penitencjarną właściwą do dokonania czynności administracyjnych związanych ze zgonem, jest jednostka położona najbliżej miejsca zgonu. Dowódca konwoju jest obowiązany bezzwłocznie przekazać do tej jednostki akta ewidencyjne oraz pozostałą dokumentację zmarłego, jego dokumenty osobiste i depozyty. Przepis § 61 ust. 2 stosuje się odpowiednio.
 § 144. 1. W przypadku, gdy pochowanie zwłok zleciła zakładowi pogrzebowemu jednostka penitencjarna, w aktach ewidencyjnych zmarłego odnotowuje się nazwę cmentarza, na którym pochowane zostały zwłoki.
 2. Jeżeli osoby najbliższe zmarłemu albo inne osoby podjęły się pochowania zwłok, pisemne oświadczenie tych osób włącza się do akt ewidencyjnych.
 3. W przypadku przekazania zwłok do celów naukowych publicznej uczelni medycznej lub publicznej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, do akt ewidencyjnych włącza się kopie wniosku do właściwego starosty wraz z jego decyzją w sprawie przekazania zwłok.
 § 145. 1. Dyrektor przedkłada kierownikowi urzędu stanu cywilnego właściwemu dla miejsca zgonu, w celu sporządzenia aktu zgonu, kartę zgonu oraz dokumenty, o których mowa w § 1 pkt 3 lit. a i b. Dokumenty, o których mowa w § 1 pkt 3 lit. c, e i f oraz pkt 4, dyrektor przesyła do organów, które je wydały.
-2. Książeczkę wojskową, jeżeli nie została odesłana przy przyjęciu, przesyła się do właściwego organu prowadzącego ewidencję wojskową, którą osadzony jest objęty, a legitymację służbową żołnierza zawodowego dowódcy jednostki wojskowej, w której osadzony pełni lub ostatnio pełnił zawodową służbę wojskową. Legitymację służbową funkcjonariusza organu powołanego do ochrony bezpieczeństwa publicznego, funkcjonariusza lub pracownika Służby Więziennej albo pracownika organu wymiaru sprawiedliwości lub organu ścigania, jeżeli nie została odesłana przy przyjęciu, przesyła się do organu, który ją wydał.
+2. Książeczkę wojskową, jeżeli nie została odesłana przy przyjęciu, przesyła się do właściwego organu prowadzącego ewidencję wojskową, którą osadzony jest objęty, a legitymację służbową żołnierza zawodowego – dowódcy jednostki wojskowej, w której osadzony pełni lub ostatnio pełnił zawodową służbę wojskową. Legitymację służbową funkcjonariusza organu powołanego do ochrony bezpieczeństwa publicznego, funkcjonariusza lub pracownika Służby Więziennej albo pracownika organu wymiaru sprawiedliwości lub organu ścigania, jeżeli nie została odesłana przy przyjęciu, przesyła się do organu, który ją wydał.
+§ 146. 1. W przypadku jednostek penitencjarnych, w których strukturach znajduje się wyodrębniony oddział zewnętrzny, zwany dalej „oddziałem zewnętrznym”, czynności administracyjne realizuje się z następującymi zmianami:
 1) przyjęcia realizuje się:
-a) w oddziale zewnętrznym, w skład którego wchodzi oddział aresztu śledczego jak w areszcie śledczym,
-b) w oddziale zewnętrznym, w skład którego nie wchodzi odział aresztu śledczego jak w zakładzie karnym;
+a) w oddziale zewnętrznym, w skład którego wchodzi oddział aresztu śledczego – jak w areszcie śledczym,
+b) w oddziale zewnętrznym, w skład którego nie wchodzi odział aresztu śledczego – jak w zakładzie karnym;
 2) zwolnienie osadzonego może nastąpić bezpośrednio z oddziału zewnętrznego;
 3) przetransportowanie osadzonego może nastąpić bezpośrednio do, oraz z oddziału zewnętrznego;
 4) wydanie osadzonego może nastąpić bezpośrednio z oddziału zewnętrznego;
 5) czynności zastrzeżone w rozporządzeniu dla sekretariatu może wykonywać również upoważniony funkcjonariusz lub pracownik;
 6) czynności zastrzeżone w rozporządzeniu dla dyrektora, może wykonywać również:
 a) zastępca dyrektora wykonujący czynności dyrektora w oddziale zewnętrznym,
-b) upoważniony funkcjonariusz lub pracownik podczas nieobecności zastępcy dyrektora wykonującego czynności dyrektora w oddziale zewnętrznym;
+b) upoważniony funkcjonariusz lub pracownik – podczas nieobecności zastępcy dyrektora wykonującego czynności dyrektora w oddziale zewnętrznym;
 7) czynności zastrzeżone w rozporządzeniu dla kierownika może wykonywać również funkcjonariusz lub pracownik działu ewidencji, upoważniony przez dyrektora do wykonywania czynności kierownika w oddziale zewnętrznym;
 8) zmiana miejsca zakwaterowania tymczasowo aresztowanego, względem którego nie stosuje się przepisów o wykonywaniu kary pozbawienia wolności, skutkująca przeniesieniem z oddziału zewnętrznego, w skład którego wchodzi oddział aresztu śledczego, do siedziby jednostki penitencjarnej albo z siedziby jednostki penitencjarnej do takiego oddziału zewnętrznego, wymaga zgody organu dysponującego; o dokonaniu takiego przeniesienia zawiadamia się organ dysponujący; przepis stosuje się do organu wzywającego i osadzonych wzywanych do udziału w czynnościach procesowych;
 9) osadzonego wydanego z oddziału zewnętrznego doprowadza się do oddziału zewnętrznego, z którego został wydany, a w przypadku konieczności dokonywania czynności procesowej z udziałem osadzonego wydanego z oddziału zewnętrznego przez dwa lub więcej kolejnych dni, doprowadza się go na nocleg do oddziału zewnętrznego, z którego został wydany;
@@ -819,35 +830,36 @@ b) upoważniony funkcjonariusz lub pracownik podczas nieobecności zastępcy dyr
 a) kalendarze zwolnień skazanych,
 b) kalendarze zwolnień tymczasowo aresztowanych,
 c) rejestr wydanych akt ewidencyjnych,
-d) rejestr korespondencji można prowadzić odrębnie dla siedziby jednostki penitencjarnej i dla oddziału zewnętrznego.
+d) rejestr korespondencji – można prowadzić odrębnie dla siedziby jednostki penitencjarnej i dla oddziału zewnętrznego.
 2. Decyzję w sprawach, o których mowa w ust. 1 pkt 2–4 i 12, podejmuje dyrektor, mając na względzie możliwości organizacyjne.
+§ 147. Sprawdzenie prawidłowości obliczenia okresu wykonywania kary, o którym mowa w § 54 ust. 2, uprzednio w całości wykonanej, następuje w oparciu o przepisy stanowiące podstawę obliczenia, obowiązujące w chwili obliczania tego okresu.
 § 148. Osadzeni ujęci w ewidencji wyodrębnionych oddziałów zewnętrznych realizujących czynności administracyjne w rozumieniu przepisów dotychczasowych, z dniem wejścia w życie przepisów rozporządzenia, zostają ujęci w ewidencji jednostki penitencjarnej, w skład której wchodzi ten oddział zewnętrzny.
 § 149. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Sprawiedliwości: Z. Ziobro
 
-#### Rozdział 1 Przepisy ogólne § 1. Użyte w rozporządzeniu określenia oznaczają:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Rejonizacja osadzenia w jednostkach penitencjarnych § 10. 1. Tymczasowo aresztowanego mężczyznę osadza się w areszcie śledczym przeznaczonym dla mężczyzn.
+#### Rozdział 2 Rejonizacja osadzenia w jednostkach penitencjarnych
 
-#### Rozdział 3 Przyjmowanie tymczasowo aresztowanych, skazanych lub ukaranych § 20. 1. Przyjęcie do aresztu śledczego następuje po sprawdzeniu:
+#### Rozdział 3 Przyjmowanie tymczasowo aresztowanych, skazanych lub ukaranych
 
-#### Rozdział 4 Rozmieszczanie tymczasowo aresztowanych § 41. 1. Izolowanie od siebie osób powiązanych następuje na podstawie pisemnej informacji organu dysponującego, zawierającej w szczególności ich dane osobowe. Informacja może być także przekazana przez sąd, który zastosował tymczasowe aresztowanie.
+#### Rozdział 4 Rozmieszczanie tymczasowo aresztowanych
 
-#### Rozdział 5 Obliczanie okresu wykonywania kary § 44. 1. Obliczenia okresu wykonywania kary dokonuje się po otrzymaniu podlegającego wykonaniu dokumentu, z którego treści wynika konieczność ustalenia terminów początku i końca wykonywania kary.
+#### Rozdział 5 Obliczanie okresu wykonywania kary
 
-#### Rozdział 6 Ewidencja tymczasowo aresztowanych, skazanych i ukaranych § 61. 1. Przyjętemu do jednostki penitencjarnej, zakłada się akta ewidencyjne i kartę identyfikacyjną.
+#### Rozdział 6 Ewidencja tymczasowo aresztowanych, skazanych i ukaranych
 
-#### Rozdział 7 Wydawanie do udziału w czynnościach procesowych oraz do zakładów leczniczych § 85. 1. Osadzonego wezwanego do udziału w czynności procesowej dokonywanej poza terenem jednostki penitencjarnej wydaje się organowi doprowadzającemu na podstawie wystawionego przez sąd lub prokuratora nakazu wydania.
+#### Rozdział 7 Wydawanie do udziału w czynnościach procesowych oraz do zakładów leczniczych
 
-#### Rozdział 8 Postępowanie z korespondencją urzędową § 107. 1. Adresowaną do osadzonego przesyłkę z korespondencją urzędową z dołączonym potwierdzeniem odbioru doręcza się adresatowi za pokwitowaniem na tym potwierdzeniu. Sekretariat jednostki penitencjarnej odnotowuje na potwierdzeniu odbioru numer przesyłki poleconej, jaki nadano przesłanej przesyłce.
+#### Rozdział 8 Postępowanie z korespondencją urzędową
 
-#### Rozdział 9 Zwalnianie osadzonych § 110. 1. Zwolnienie tymczasowo aresztowanego ze sprawy następuje na skutek upływu terminu stosowania tymczasowego aresztowania, jeżeli jednostka penitencjarna nie otrzymała w tej sprawie:
+#### Rozdział 9 Zwalnianie osadzonych
 
-#### Rozdział 10 Szczególne obowiązki informacyjne § 136. Wniosek, o którym mowa w art. 168a § 1 kk.w., oraz dokument zawierający dane pokrzywdzonego, przesłane przez właściwy sąd, włącza się do akt ewidencyjnych, a kserokopie tych dokumentów przekazuje się komórce organizacyjnej bezpośrednio odpowiedzialnej za prowadzenie oddziaływań penitencjarnych wobec skazanego.
+#### Rozdział 10 Szczególne obowiązki informacyjne
 
-#### Rozdział 11 Postępowanie w przypadku narodzin i zgonów § 141. O urodzeniu dziecka przez tymczasowo aresztowaną powiadamia się organ dysponujący.
+#### Rozdział 11 Postępowanie w przypadku narodzin i zgonów
 
-#### Rozdział 12 Wyodrębnione oddziały zewnętrzne § 146. 1. W przypadku jednostek penitencjarnych, w których strukturach znajduje się wyodrębniony oddział zewnętrzny, zwany dalej „oddziałem zewnętrznym”, czynności administracyjne realizuje się z następującymi zmianami:
+#### Rozdział 12 Wyodrębnione oddziały zewnętrzne
 
-#### Rozdział 13 Przepisy przejściowe i końcowe § 147. Sprawdzenie prawidłowości obliczenia okresu wykonywania kary, o którym mowa w § 54 ust. 2, uprzednio w całości wykonanej, następuje w oparciu o przepisy stanowiące podstawę obliczenia, obowiązujące w chwili obliczania tego okresu.
+#### Rozdział 13 Przepisy przejściowe i końcowe
 

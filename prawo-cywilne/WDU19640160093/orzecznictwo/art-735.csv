@@ -31,6 +31,8 @@ saos_id|date|court|case_number|type|score|saos_url
 541813|2025-12-18|SO|I ACa 246/23|Wyrok|56|https://www.saos.org.pl/judgments/541813
 544742|2025-12-12|SO|I AGa 92/23|Wyrok|56|https://www.saos.org.pl/judgments/544742
 541303|2025-12-12|SO|I ACa 1741/22|Wyrok|56|https://www.saos.org.pl/judgments/541303
+545141|2025-12-10|SO|I AGa 368/23|Wyrok|56|https://www.saos.org.pl/judgments/545141
+546057|2025-12-05|SO|I ACa 765/23|Wyrok|56|https://www.saos.org.pl/judgments/546057
 544345|2025-11-14|SO|I ACa 450/23|Wyrok|56|https://www.saos.org.pl/judgments/544345
 543915|2025-11-07|SO|I AGa 74/24|Wyrok|56|https://www.saos.org.pl/judgments/543915
 543718|2025-10-22|SO|III AUa 899/25|Wyrok|56|https://www.saos.org.pl/judgments/543718
@@ -43,12 +45,15 @@ saos_id|date|court|case_number|type|score|saos_url
 534709|2025-03-12|SO|III AUa 701/23|Wyrok|56|https://www.saos.org.pl/judgments/534709
 537676|2025-03-07|SO|I ACa 1280/22|Wyrok|56|https://www.saos.org.pl/judgments/537676
 540484|2025-02-11|SO|III AUa 212/24|Wyrok|56|https://www.saos.org.pl/judgments/540484
+545915|2025-01-21|SO|I ACa 2251/23|Wyrok|56|https://www.saos.org.pl/judgments/545915
 537892|2024-12-30|SO|III AUa 1036/23|Wyrok|56|https://www.saos.org.pl/judgments/537892
+546811|2024-06-27|SO|I AGa 114/24|Wyrok|56|https://www.saos.org.pl/judgments/546811
 528612|2024-06-19|SO|I ACa 865/22|Wyrok|56|https://www.saos.org.pl/judgments/528612
 525693|2024-06-04|SO|I AGa 332/22|Wyrok|56|https://www.saos.org.pl/judgments/525693
 516856|2024-03-19|SO|III AUa 154/23|Wyrok|56|https://www.saos.org.pl/judgments/516856
 494508|2024-02-29|SO|I ACa 720/22|Wyrok|56|https://www.saos.org.pl/judgments/494508
 519166|2024-02-08|SO|I AGa 182/22|Wyrok|56|https://www.saos.org.pl/judgments/519166
+545730|2023-12-29|SO|I AGa 214/22|Wyrok|56|https://www.saos.org.pl/judgments/545730
 504735|2023-12-12|SO|III AUa 1361/22|Wyrok|56|https://www.saos.org.pl/judgments/504735
 504719|2023-12-05|SO|III AUa 1287/22|Wyrok|56|https://www.saos.org.pl/judgments/504719
 504709|2023-12-05|SO|III AUa 1240/22|Wyrok|56|https://www.saos.org.pl/judgments/504709

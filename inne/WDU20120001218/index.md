@@ -8,7 +8,7 @@ pos: 1218
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 25 października 2012 r.

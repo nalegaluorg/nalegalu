@@ -8,7 +8,7 @@ pos: 1360
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie oceny zgodności
@@ -69,13 +69,49 @@ Art. 49–57. (pominięte)
 
 **Art. 2.** Celem ustawy jest:
 
+- **1)** eliminowanie zagrożeń stwarzanych przez wyroby dla życia lub zdrowia użytkowników i konsumentów oraz mienia, a także zagrożeń dla środowiska;
+- **2)** znoszenie barier technicznych w handlu i ułatwianie międzynarodowego obrotu towarowego;
+- **3)** stworzenie warunków do rzetelnej oceny wyrobów i procesów ich wytwarzania przez kompetentne i niezależne podmioty.
+
 **Art. 3.** System oceny zgodności tworzą:
 
+- **1)** przepisy określające zasadnicze i szczegółowe wymagania dotyczące wyrobów;
+- **2)** przepisy oraz normy określające działanie podmiotów uczestniczących w procesie oceny zgodności.
+
 **Art. 3a.** System kontroli wyrobów obejmuje:
+
+- **1)** kontrolę spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań;
+- **2)** postępowanie w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami.
 
 **Art. 4.** W procesie oceny zgodności uczestniczą producenci, ich upoważnieni przedstawiciele, importerzy, jednostki certyfikujące, jednostki kontrolujące oraz laboratoria.
 
 **Art. 5.** Ilekroć w ustawie jest mowa o:
+
+- **1)** wyrobie – należy przez to rozumieć rzecz, bez względu na stopień jej przetworzenia, przeznaczoną do wprowadzenia do obrotu lub oddania do użytku, z wyjątkiem artykułów rolno-spożywczych oraz środków żywienia zwierząt ;
+- **2)** wprowadzeniu do obrotu – należy przez to rozumieć udostępnienie przez producenta, jego upoważnionego przedstawiciela lub importera, nieodpłatnie albo za opłatą, po raz pierwszy na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym wyrobu w celu jego używania lub dystrybucji;
+- **3)** oznakowaniu zgodności – należy przez to rozumieć oznakowanie potwierdzające zgodność wyrobu z zasadniczymi lub szczegółowymi wymaganiami;
+- **4)** laboratorium – należy przez to rozumieć laboratorium badawcze lub laboratorium pomiarowe;
+- **5)** upoważnionym przedstawicielu – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym upoważnioną przez producenta na piśmie do działania w jego imieniu;
+- **6)** jednostce kontrolującej – należy przez to rozumieć jednostkę dokonującą sprawdzenia projektu wyrobu, wyrobu lub procesu jego wytwarzania oraz ustalenia ich zgodności z zasadniczymi lub szczegółowymi wymaganiami;
+- **7)** jednostce certyfikującej – należy przez to rozumieć niezależną od podmiotów wymienionych w pkt 2 jednostkę dokonującą certyfikacji, o której mowa w pkt 8;
+- **7a)** jednostce oceniającej zgodność – należy przez to rozumieć jednostkę, o której mowa w art. 2 pkt 13 rozporządzenia (WE) nr 765/2008;
+- **8)** certyfikacji – należy przez to rozumieć działanie jednostki certyfikującej, wykazujące, że należycie zidentyfikowany wyrób lub proces jego wytwarzania są zgodne z zasadniczymi lub szczegółowymi wymaganiami;
+- **9)** certyfikacie zgodności – należy przez to rozumieć dokument wydany przez notyfikowaną jednostkę certyfikującą, potwierdzający, że wyrób i proces jego wytwarzania są zgodne z zasadniczymi wymaganiami;
+- **10)** deklaracji zgodności – należy przez to rozumieć oświadczenie producenta lub jego upoważnionego przedstawiciela stwierdzające na jego wyłączną odpowiedzialność, że wyrób jest zgodny z zasadniczymi wymaganiami;
+- **11)** akredytacji – należy przez to rozumieć akredytację, o której mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008;
+- **12)** autoryzacji – należy przez to rozumieć zakwalifikowanie przez ministra lub kierownika urzędu centralnego, właściwego ze względu na przedmiot oceny zgodności, zgłaszającej się jednostki lub laboratorium do procesu notyfikacji;
+- **13)** notyfikacji – należy przez to rozumieć zgłoszenie Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek certyfikujących i kontrolujących oraz autoryzowanych laboratoriów właściwych do wykonywania czynności określonych w procedurach oceny zgodności;
+- **14)** normie zharmonizowanej – należy przez to rozumieć normę zharmonizowaną w rozumieniu art. 2 pkt 9 rozporządzenia (WE) nr 765/2008, której tytuł i numer zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej;
+- **15)** dyrektywach nowego podejścia – należy przez to rozumieć dyrektywy Wspólnoty Europejskiej, uchwalone zgodnie z zasadami zawartymi w uchwale Rady Unii Europejskiej z dnia 7 maja 1985 r., w sprawie nowego podejścia do harmonizacji technicznej oraz normalizacji;
+- **16)** zasadniczych wymaganiach – należy przez to rozumieć wymagania w zakresie cech wyrobu, jego projektowania lub wytwarzania, określone w dyrektywach nowego podejścia;
+- **17)** szczegółowych wymaganiach – należy przez to rozumieć wymagania, które powinien spełniać wyrób, określone w aktach prawnych Wspólnot Europejskich innych niż dyrektywy nowego podejścia;
+- **18)** (uchylony)
+- **19)** oddaniu do użytku – należy przez to rozumieć pierwsze na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym zgodne z przeznaczeniem użycie wyrobu, który nie został wprowadzony do obrotu;
+- **20)** producencie – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która projektuje i wytwarza wyrób, albo dla której ten wyrób zaprojektowano lub wytworzono, w celu wprowadzenia go do obrotu lub oddania do użytku pod własną nazwą lub znakiem;
+- **21)** importerze – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, która wprowadza do obrotu lub oddaje do użytku wyroby pochodzące z krajów trzecich;
+- **22)** specyfikacjach zharmonizowanych – należy przez to rozumieć specyfikacje techniczne inne niż normy europejskie, w szczególności dokumenty normatywne Międzynarodowej Organizacji Metrologii Prawnej (OIML), uznane przez Komisję Europejską i ogłaszane w Dzienniku Urzędowym Unii Europejskiej serii C;
+- **23)** dystrybutorze – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która dostarcza lub udostępnia wyrób po jego wprowadzeniu do obrotu;
+- **24)** innych wymaganiach – należy przez to rozumieć wymagania związane z wyrobem lub projektem wyrobu, określone w dyrektywach nowego podejścia lub w przepisach wydanych na podstawie art. 10 ust. 1 ustawy, inne niż zasadnicze lub szczegółowe wymagania.
 
 #### Rozdział 2 Zasady funkcjonowania oceny zgodności wyrobów z zasadniczymi i szczegółowymi wymaganiami
 

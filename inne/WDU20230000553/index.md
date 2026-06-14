@@ -8,7 +8,7 @@ pos: 553
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw
@@ -28,6 +28,55 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000553) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/553/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 ust. 1 otrzymuje brzmienie: „1. Ustawa określa:
+- **1)** warunki i tryb lokalizowania, budowy i przebudowy elektrowni wiatrowych;
+- **2)** zasady i sposób konsultowania ze społecznością lokalną lokalizowania elektrowni wiatrowych;
+- **3)** zasady lokalizowania nowej zabudowy mieszkaniowej w sąsiedztwie elektrowni wiatrowych;
+- **4)** zasady lokalizowania, budowy i przebudowy sieci elektroenergetycznych najwyższych napięć w sąsiedztwie elektrowni wiatrowych;
+- **5)** zasady partycypacji mieszkańców gminy w korzyściach wynikających z lokalizacji elektrowni wiatrowych;
+- **6)** zasady bezpiecznej eksploatacji elementów technicznych elektrowni wiatrowych.”;
+- **2)** po art. 1 dodaje się art. 1a w brzmieniu: „Art. 1a. W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503, 1846, 2185 i 2747 oraz z 2023 r. poz. 553), ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm. ) oraz ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029, z późn. zm. ).”;
+- **3)** w art. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3–10 w brzmieniu: „3) całkowita wysokość elektrowni wiatrowej – wysokość elektrowni wiatrowej mierzoną od poziomu gruntu do najwyższego punktu tej elektrowni przy maksymalnym wzniesieniu łopaty wirnika, wliczając w to część budowlaną, stanowiącą budowlę w rozumieniu przepisów prawa budowlanego, oraz urządzenia techniczne;
+- **4)** eksploatujący elektrownię wiatrową – podmiot, który ma siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, prowadzący działalność gospodarczą w zakresie wytwarzania energii elektrycznej w instalacji odnawialnego źródła energii wykorzystującej do wytwarzania energii elektrycznej energię wiatru na lądzie;
+- **5)** gmina pobliska – gminę, której obszar w całości albo w części jest położony w odległości mniejszej niż dziesięciokrotność maksymalnej całkowitej wysokości danej elektrowni wiatrowej lokalizowanej na terenie innej gminy;
+- **6)** budynek o funkcji mieszanej – budynek przeznaczony na stały pobyt ludzi, w którym funkcja mieszkalna stanowi ponad połowę jego powierzchni użytkowej;
+- **7)** operator – operatora systemu przesyłowego elektroenergetycznego, o którym mowa w art. 3 pkt 24 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm. );
+- **8)** sieć elektroenergetyczna najwyższych napięć – linię elektroenergetyczną najwyższych napięć lub stację elektroenergetyczną najwyższych napięć wchodzące w skład sieci przesyłowej w rozumieniu art. 3 pkt 11a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne; przez sieć elektroenergetyczną najwyższych napięć rozumie się również linię elektroenergetyczną najwyższych napięć lub stację elektroenergetyczną najwyższych napięć uwzględnione w miejscowym planie zagospodarowania przestrzennego, o którym mowa w art. 4 ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, zwanym dalej „planem miejscowym”, albo wobec których, na wniosek operatora, wszczęto postępowanie w sprawie wydania decyzji o środowiskowych uwarunkowaniach, decyzji o warunkach zabudowy, o której mowa w art. 4 ust. 2 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, zwanej dalej „decyzją WZ”, decyzji o lokalizacji inwestycji celu publicznego, o której mowa w art. 4 ust. 2 pkt 1 tej ustawy, zwanej dalej „decyzją LICP”, decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2022 r. poz. 273 i 1846), lub pozwolenia na budowę, albo wobec których operator dokonał kompletnego zgłoszenia, o którym mowa w przepisach prawa budowlanego, albo dla których wydano którąkolwiek z tych decyzji;
+- **9)** moc zainstalowana – moc zainstalowaną elektryczną instalacji odnawialnego źródła energii w rozumieniu art. 2 pkt 19b ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **10)** mieszkaniec gminy – odbiorcę energii elektrycznej w gospodarstwie domowym w rozumieniu art. 3 pkt 13b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zamieszkującego w gminie, na terenie której jest lokalizowana elektrownia wiatrowa.”;
+- **4)** tytuł rozdziału 2 otrzymuje brzmienie: „Lokalizacja i budowa”;
+- **5)** art. 3 otrzymuje brzmienie: „Art. 3. Lokalizacja elektrowni wiatrowej następuje wyłącznie na podstawie planu miejscowego.”;
+- **6)** w art. 4:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku lokalizowania, budowy lub przebudowy elektrowni wiatrowej odległość tej elektrowni od budynku mieszkalnego albo budynku o funkcji mieszanej jest równa lub większa od dziesięciokrotności całkowitej wysokości elektrowni wiatrowej, chyba że plan miejscowy określa inną odległość, wyrażoną w metrach, jednak nie mniejszą niż 700 metrów.”,
+    - **b)** uchyla się ust. 2 i 3,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku lokalizowania lub budowy budynku mieszkalnego albo budynku o funkcji mieszanej, na podstawie decyzji WZ albo decyzji LICP, albo lokalizowania takiego budynku na podstawie planu miejscowego odległość tego budynku od elektrowni wiatrowej wynosi nie mniej niż 700 metrów.
+
+5. W przypadku odbudowy, rozbudowy, nadbudowy, przebudowy, remontu istniejącego budynku mieszkalnego albo budynku o funkcji mieszanej lub zmiany sposobu użytkowania części takiego budynku kryterium minimalnej odległości, o którym mowa w ust. 4, nie jest wymagane.”;
+
+- **7)** po art. 4 dodaje się art. 4a–4c w brzmieniu: „Art. 4a. 1. W przypadku lokalizowania elektrowni wiatrowej odległość tej elektrowni od sieci elektroenergetycznej najwyższych napięć jest równa lub większa od trzykrotności maksymalnej średnicy wirnika wraz z łopatami albo równa lub większa od dwukrotności maksymalnej całkowitej wysokości elektrowni wiatrowej, określonych w planie miejscowym, w zależności od tego, która z tych wartości jest większa.
+
+2. W przypadku budowy lub przebudowy elektrowni wiatrowej odległość tej elektrowni od sieci elektroenergetycznej najwyższych napięć jest równa lub większa od trzykrotności średnicy wirnika wraz z łopatami albo równa lub większa od dwukrotności całkowitej wysokości elektrowni wiatrowej, w zależności od tego, która z tych wartości jest większa.
+
+3. W przypadku lokalizowania sieci elektroenergetycznej najwyższych napięć na podstawie planu miejscowego, decyzji WZ, decyzji LICP albo decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych, a także jej budowy lub przebudowy na podstawie pozwolenia na budowę albo zgłoszenia, o którym mowa w przepisach prawa budowlanego, odległość tej sieci od elektrowni wiatrowej jest równa lub większa od trzykrotności maksymalnej średnicy wirnika wraz z łopatami albo równa lub większa od dwukrotności maksymalnej całkowitej wysokości elektrowni wiatrowej, określonej w planie miejscowym, decyzji WZ albo decyzji LICP, w zależności od tego, która z tych wartości jest większa.
+
+4. W przypadku lokalizowania, budowy lub przebudowy sieci elektroenergetycznej najwyższych napięć, jeżeli maksymalna średnica wirnika wraz z łopatami i maksymalna całkowita wysokość elektrowni wiatrowej nie są określone w planie miejscowym, decyzji WZ albo decyzji LICP, operator we wniosku o wszczęcie postępowania w sprawie wydania decyzji albo w zgłoszeniu, o których mowa w ust. 3, albo we wniosku, o którym mowa w art. 17 pkt 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, wskazuje odległość sieci elektroenergetycznej najwyższych napięć od elektrowni wiatrowej.
+
+5. W szczególnie uzasadnionych przypadkach, we wniosku o wszczęcie postępowania w sprawie wydania decyzji albo w zgłoszeniu, o których mowa w ust. 3, albo we wniosku, o którym mowa w art. 17 pkt 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, operator może wskazać odległość sieci elektroenergetycznej najwyższych napięć od elektrowni wiatrowej mniejszą niż odległość, o której mowa w ust. 3. We wniosku operator przedstawia uzasadnienie dla wskazanej odległości.
+
+6. Przez odległość, o której mowa w ust. 1–5, rozumie się najkrótsze odcinki między:
+
+- **1)** rzutem poziomym istniejącej sieci elektroenergetycznej najwyższych napięć, albo
+- **2)** granicą terenu objętego wnioskiem, na podstawie którego wszczęto postępowanie w sprawie wydania decyzji o środowiskowych uwarunkowaniach, albo granicą terenu objętego tą decyzją, o ile została wydana, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, o ile nie zostało wszczęte postępowanie w sprawie wydania decyzji WZ, decyzji LICP, decyzji o ustaleniu lokalizacji inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych, ani pozwolenia na budowę, lub o ile te decyzje nie zostały wydane, albo nie zostały wniesione zgłoszenia, o których mowa w przepisach prawa budowlanego, albo
+- **3)** granicą terenu objętego wnioskami o wydanie decyzji WZ, decyzji LICP, decyzji o ustaleniu lokalizacji inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych, albo granicą terenu objętego tymi decyzjami, o ile zostały wydane, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, o ile nie zostało wniesione zgłoszenie, o którym mowa w przepisach prawa budowlanego, albo wszczęte postępowanie w sprawie wydania pozwolenia na budowę, lub o ile ta decyzja nie została wydana, albo
+- **4)** granicą terenu objętego zgłoszeniem, o którym mowa w przepisach prawa budowlanego, wnioskiem o wydanie pozwolenia na budowę, albo granicą terenu objętego tą decyzją, o ile została wydana, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, albo
+- **5)** linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza realizację inwestycji w zakresie sieci elektroenergetycznych najwyższych napięć, a:
+- **6)** okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej lub zlokalizowanej elektrowni wiatrowej – w przypadku lokalizowania sieci elektroenergetycznej najwyższych napięć, wydawania dla niej pozwolenia na budowę albo dokonywania zgłoszenia, o którym mowa w przepisach prawa budowlanego, gdy dla wszystkich elektrowni wiatrowych przewidzianych na terenie, którego sposób zagospodarowania określony w planie miejscowym, decyzji WZ albo decyzji LICP dopuszcza budowę elektrowni wiatrowej, wydano pozwolenia na budowę, albo
+- **7)** linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza budowę elektrowni wiatrowej, albo granicą terenu objętego decyzją WZ, albo decyzją LICP, na którym jest możliwa lokalizacja elektrowni wiatrowej, albo okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej elektrowni wiatrowej, w zależności od tego, która odległość jest mniejsza – w przypadku lokalizowania sieci elektroenergetycznej najwyższych napięć lub wydawania dla niej pozwolenia na budowę albo dokonywania zgłoszenia, o którym mowa w przepisach prawa budowlanego, jeżeli nie dla wszystkich elektrowni wiatrowych przewidzianych na terenie, którego sposób zagospodarowania określony w planie miejscowym, decyzji WZ albo decyzji LICP dopuszcza budowę elektrowni wiatrowej, wydano pozwolenia na budowę, albo
+- **8)** linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza budowę elektrowni wiatrowej – w przypadku lokalizowania elektrowni wiatrowej, albo
+- **9)** okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej lub planowanej elektrowni wiatrowej – w przypadku wydawania pozwolenia na budowę albo dokonywania zgłoszenia, o którym mowa w przepisach prawa budowlanego, dla elektrowni wiatrowej.
+
+7. Organ wydający decyzję o środowiskowych uwarunkowaniach, przy wydawaniu tej decyzji dla sieci elektroenergetycznej najwyższych napięć lub dla elektrowni wiatrowej, nie uwzględnia odległości określonych i wskazanych zgodnie z ust. 1–5.
 
 **Art. 4b.**
 
@@ -104,6 +153,10 @@ source: "isap-pdf"
 3. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii w rozumieniu przepisów art. 2 pkt 22 i 23 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280, 2674, 2705 i 2770) wójt, burmistrz albo prezydent miasta może zrezygnować z organizacji dyskusji publicznej w formie spotkań bezpośrednich, o których mowa w ust. 1 pkt 1 i 2.
 
 **Art. 6f.** W dyskusjach publicznych, o których mowa w art. 6e ust. 1 pkt 1 i 2, biorą udział:
+
+- **1)** wójt, burmistrz albo prezydent miasta, jego zastępca lub sekretarz gminy;
+- **2)** przedstawiciel gminnej komisji urbanistyczno-architektonicznej lub komisji, o której mowa w art. 8 ust. 4 lub 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+- **3)** przedstawiciel inwestora planującego inwestycję polegającą na budowie lub przebudowie elektrowni wiatrowej – jeżeli występuje.
 
 **Art. 6g.**
 
@@ -244,6 +297,9 @@ source: "isap-pdf"
 
 **Art. 8g.** Prezes UDT, w terminie 30 dni od dnia otrzymania kompletnego wniosku, przeprowadza certyfikację i:
 
+- **1)** dokonuje wpisu do rejestru, w przypadku pozytywnego wyniku weryfikacji, o której mowa w art. 8d ust. 2, albo
+- **2)** zawiadamia przedsiębiorcę o odmowie dokonania wpisu do rejestru, w przypadku negatywnego wyniku weryfikacji, o której mowa w art. 8d ust. 2.
+
 **Art. 8h.**
 
 1. Wpis do rejestru jest ważny przez 5 lat od dnia jego dokonania.
@@ -377,7 +433,21 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503, 1846, 2185 i 2747) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 w ust. 2a we wprowadzeniu do wyliczenia skreśla się wyrazy „a także ich stref ochronnych związanych z ograniczeniami w zabudowie oraz zagospodarowaniu i użytkowaniu terenu,”;
+- **2)** w art. 15: z 2022 r. poz. 1378, 1383, 2370 i 2687) oraz niebędących mikroinstalacją pozostałych instalacji odnawialnych źródeł energii wytwarzających energię elektryczną z energii promieniowania słonecznego, będących urządzeniami innymi niż wolnostojące, również w przypadku innego przeznaczenia terenu niż produkcyjne, chyba że ustalenia planu miejscowego zakazują lokalizacji takich instalacji.”;
+    - **a)** w ust. 3 w pkt 3a średnik zastępuje się przecinkiem i dodaje się wyrazy: „przy czym te tereny i ich strefy ochronne znajdują się w granicach obszaru, o którym mowa w art. 10 ust. 2a;”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Plan miejscowy przewidujący możliwość lokalizacji budynków umożliwia również lokalizację mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U.
+
+- **3)** w art. 62:
+    - **a)** w ust. 1 we wprowadzeniu do wyliczenia wyrazy „na czas nie dłuższy niż 9 miesięcy” zastępuje się wyrazami „na czas nie dłuższy niż 18 miesięcy”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. W przypadku, o którym mowa w ust. 1 pkt 2, wójt, burmistrz albo prezydent miasta może przedłużyć zawieszenie postępowania na dodatkowy czas, nie dłuższy niż 6 miesięcy, jeżeli w okresie zawieszenia postępowania dokonano wyłożenia projektu planu miejscowego.”.
+
 **Art. 5.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 48 dodaje się ust. 8 w brzmieniu: „8. Nie można odstąpić od przeprowadzenia strategicznej oceny oddziaływania na środowisko dla projektu miejscowego planu zagospodarowania przestrzennego, na podstawie którego ma być lokalizowana elektrownia wiatrowa w rozumieniu art. 2 pkt 1 ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724 oraz z 2023 r. poz. 553), zwana dalej „elektrownią wiatrową”, jeżeli wprowadza on nowe lub zmienia istniejące ustalenia związane z budową lub przebudową elektrowni wiatrowej, w tym mające wpływ na odległość między elektrownią wiatrową a budynkami mieszkalnymi lub budynkami o funkcji mieszanej w rozumieniu art. 2 pkt 6 tej ustawy.”;
+- **2)** w art. 49 we wprowadzeniu do wyliczenia wyrazy „o którym mowa w art. 48” zastępuje się wyrazami „o którym mowa w art. 48 ust. 1–7”;
+- **3)** w art. 54 ust. 3 otrzymuje brzmienie: „3. Do wnoszenia uwag i wniosków oraz opiniowania projektów miejscowych planów zagospodarowania przestrzennego oraz studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin stosuje się przepisy ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503, 1846, 2185 i 2747 oraz z 2023 r. poz. 553) oraz ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych.”;
+- **4)** w art. 75 w ust. 1 w pkt 1 w lit. r skreśla się wyrazy „o których mowa w art. 2 pkt 1 ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724),”.
 
 **Art. 6.** W ustawie z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2021 r. poz. 1538) w art. 5 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Inwestycji mieszkaniowych nie lokalizuje się w odległości, o której mowa w art. 4 ust. 4 ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724 oraz z 2023 r. poz. 553), lub większej, jeżeli taka została ustalona w miejscowym planie zagospodarowania przestrzennego.”.
 

@@ -8,7 +8,7 @@ pos: 414
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku akcyzowym

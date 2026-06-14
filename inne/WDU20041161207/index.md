@@ -8,7 +8,7 @@ pos: 1207
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pracowniczych programach emerytalnych
@@ -569,6 +569,10 @@ Art. 51–55. (pominięte)
 **Art. 27.** W przypadku gdy ustało zatrudnienie uczestnika u pracodawcy prowadzącego program lub nastąpiła likwidacja programu, środki pozostają na rachunku uczestnika do czasu wypłaty, wypłaty transferowej lub zwrotu.
 
 **Art. 28.** W zakresie nieuregulowanym ustawą zasady zarządzania środkami zgromadzonymi na rachunkach:
+
+- **1)** w funduszu emerytalnym określają przepisy o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **2)** w funduszach inwestycyjnych określają przepisy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
+- **3)** zakładów ubezpieczeń określają przepisy o działalności ubezpieczeniowej.
 
 #### Rozdział 3 Rejestracja programu
 

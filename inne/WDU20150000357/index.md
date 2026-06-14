@@ -8,7 +8,7 @@ pos: 357
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
@@ -559,6 +559,141 @@ c) ust. 2a otrzymuje brzmienie: „2a. Szkoła, o której mowa w ust. 2 pkt 6, m
 
 **Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 pkt 5 otrzymuje brzmienie: „5) możliwość pobierania nauki we wszystkich typach szkół przez dzieci i młodzież niepełnosprawną, niedostosowaną społecznie i zagrożoną niedostosowaniem społecznym, zgodnie z indywidualnymi potrzebami rozwojowymi i edukacyjnymi oraz predyspozycjami;”;
+- **2)** w art. 3:
+    - **a)** pkt 2a otrzymuje brzmienie: „2a) oddziale integracyjnym – należy przez to rozumieć oddział szkolny, w którym uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego uczą się i wychowują razem z pozostałymi uczniami, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 71b ust. 7 pkt 2;”,
+    - **b)** pkt 13b otrzymuje brzmienie: „13b) programie wychowania przedszkolnego lub programie nauczania do danych zajęć edukacyjnych z zakresu kształcenia ogólnego – należy przez to rozumieć opis sposobu realizacji celów wychowania lub kształcenia oraz treści nauczania ustalonych odpowiednio w podstawie programowej wychowania przedszkolnego lub podstawie programowej kształcenia ogólnego dla danego etapu edukacyjnego lub opis sposobu realizacji celów kształcenia oraz treści nauczania zajęć edukacyjnych, dla których nie została ustalona podstawa programowa kształcenia ogólnego, lecz program nauczania tych zajęć został włączony do szkolnego zestawu programów nauczania, o którym mowa w art. 22a ust. 7;”,
+    - **c)** po pkt 18 dodaje się pkt 18a i 18b w brzmieniu: „18a) specyficznych trudnościach w uczeniu się – należy przez to rozumieć trudności w uczeniu się odnoszące się do uczniów w normie intelektualnej, którzy mają trudności w przyswajaniu treści nauczania, wynikające ze specyfiki ich funkcjonowania percepcyjnomotorycznego i poznawczego, nieuwarunkowane schorzeniami neurologicznymi;
+
+- **18b)** upośledzeniu umysłowym w stopniu lekkim, umiarkowanym, znacznym lub głębokim – należy przez to rozumieć niepełnosprawność intelektualną w stopniu odpowiednio lekkim, umiarkowanym, znacznym lub głębokim;”, 11a ust. 4 – również dyplomu potwierdzającego kwalifikacje zawodowe;”,
+    - **d)** pkt 21 otrzymuje brzmienie: „21) egzaminie potwierdzającym kwalifikacje w zawodzie – należy przez to rozumieć egzamin umożliwiający uzyskanie świadectwa potwierdzającego kwalifikację w zawodzie w zakresie jednej kwalifikacji, a w przypadku uzyskania świadectw potwierdzających wszystkie kwalifikacje wyodrębnione w danym zawodzie oraz posiadania wykształcenia zasadniczego zawodowego, o którym mowa w art. 11a ust. 3, lub wykształcenia średniego, o którym mowa w art.
+    - **e)** po pkt 21 dodaje się pkt 21a–21c w brzmieniu: „21a) sprawdzianie – należy przez to rozumieć egzamin przeprowadzany w ostatnim roku nauki w szkole podstawowej, a w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej – w klasie, której zakres nauczania odpowiada klasie VI szkoły podstawowej, sprawdzający wiadomości i umiejętności ucznia lub słuchacza określone w podstawie programowej kształcenia ogólnego dla II etapu edukacyjnego;
+
+- **21b)** egzaminie gimnazjalnym – należy przez to rozumieć egzamin przeprowadzany w ostatnim roku nauki w gimnazjum, a w szkole artystycznej realizującej kształcenie ogólne w zakresie gimnazjum – w klasie, której zakres nauczania odpowiada klasie III gimnazjum, sprawdzający wiadomości i umiejętności ucznia lub słuchacza określone w podstawie programowej kształcenia ogólnego dla III etapu edukacyjnego;
+- **21c)** egzaminie maturalnym – należy przez to rozumieć egzamin przeprowadzany dla absolwentów posiadających wykształcenie średnie, o którym mowa w art. 11a ust. 4, umożliwiający uzyskanie świadectwa dojrzałości;”;
+- **3)** w art. 5: 2–2b, osobie prawnej utworzonej przez tę jednostkę samorządu terytorialnego lub osobie prawnej, w której ta jednostka samorządu terytorialnego ma udziały, albo której ma akcje. W szczególności jednostka samorządu terytorialnego nie może przekazać takiej osobie prawnej prowadzenia szkoły na podstawie ust. 5g, ani udzielić jej zezwolenia na założenie publicznej szkoły, placówki lub innej formy wychowania przedszkolnego na podstawie art. 58 ust. 3.”,
+    - **a)** po ust. 3f dodaje się ust. 3g w brzmieniu: „3g. Szkoły kształcące w zawodzie technik pożarnictwa może zakładać i prowadzić wyłącznie minister właściwy do spraw wewnętrznych.”,
+    - **b)** ust. 5g otrzymuje brzmienie: „5g. Jednostka samorządu terytorialnego, będąca organem prowadzącym szkołę liczącą nie więcej niż 70 uczniów, na podstawie uchwały organu stanowiącego tej jednostki oraz po uzyskaniu pozytywnej opinii organu sprawującego nadzór pedagogiczny, może przekazać, w drodze umowy, osobie prawnej niebędącej jednostką samorządu terytorialnego, z wyjątkiem osoby, o której mowa w ust. 5ga, lub osobie fizycznej, prowadzenie takiej szkoły.”,
+    - **c)** po ust. 5g dodaje się ust. 5ga w brzmieniu: „5ga. Jednostka samorządu terytorialnego nie może powierzyć lub przekazać wykonywania zadań oświatowych, o których mowa w art. 5a ust.
+    - **d)** w ust. 7: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) zapewnienie warunków umożliwiających stosowanie specjalnej organizacji nauki i metod pracy dla dzieci i młodzieży objętych kształceniem specjalnym;”, – pkt 3 otrzymuje brzmienie: „3) zapewnienie obsługi administracyjnej, w tym prawnej, obsługi finansowej, w tym w zakresie wyko-nywania czynności, o których mowa w art. 4 ust. 3 pkt 2–6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm. ), i obsługi organizacyjnej szkoły lub placówki;”;
+
+- **4)** w art. 5a:
+    - **a)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zapewnienie kształcenia, wychowania i opieki, w tym kształcenia specjalnego i profilaktyki społecznej, jest zadaniem oświatowym:”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Organ wykonawczy jednostki samorządu terytorialnego, w terminie do dnia 31 października, przedstawia organowi stanowiącemu jednostki samorządu terytorialnego informację o stanie realizacji zadań oświatowych tej jednostki za poprzedni rok szkolny, w tym o wynikach:
+
+- **1)** sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie, z uwzględnieniem działań podejmowanych przez szkoły nakierowanych na kształcenie uczniów ze specjalnymi potrzebami edukacyjnymi, w szkołach tych typów, których prowadzenie należy do zadań własnych jednostki samorządu terytorialnego;
+- **2)** nadzoru pedagogicznego sprawowanego przez kuratora oświaty lub właściwego ministra w szkołach i placówkach tych typów i rodzajów, których prowadzenie należy do zadań własnych jednostki samorządu terytorialnego.”;
+- **5)** art. 5b otrzymuje brzmienie: „Art. 5b. Prawa i obowiązki nauczycieli przedszkoli, szkół i placówek określa ustawa z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2014 r. poz. 191 i 1198), z zastrzeżeniem art. 7e.”;
+- **6)** po art. 5f dodaje się art. 5g w brzmieniu: „Art. 5g. Z tytułu udostępniania rodzicom gromadzonych przez publiczne przedszkola, inne formy wychowania przedszkolnego, szkoły i placówki informacji w zakresie nauczania, wychowania oraz opieki, dotyczących ich dzieci, nie mogą być pobierane od rodziców opłaty, bez względu na postać i sposób przekazywania tych informacji.”;
+- **7)** w art. 7:
+    - **a)** w ust. 1 pkt 5 otrzymuje brzmienie: „5) realizuje zasady oceniania, klasyfikowania i promowania uczniów oraz przeprowadzania sprawdzianu i egzaminów, o których mowa w rozdziałach 3a i 3b.”,
+    - **b)** ust. 1g otrzymuje brzmienie: „1g. Asystentowi, o którym mowa w ust. 1e, nie powierza się zadań określonych dla nauczycieli posiadających kwalifikacje z zakresu pedagogiki specjalnej zatrudnianych dodatkowo w celu współorganizowania kształcenia integracyjnego oraz współorganizowania kształcenia uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym, o których mowa w przepisach wydanych na podstawie art. 71b ust. 7 pkt 2.”,
+    - **c)** w ust. 3 pkt 3 otrzymuje brzmienie: „3) stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania sprawdzianu i egzaminów, o których mowa w ust. 1 pkt 5;”;
+
+- **8)** w art. 7a ust. 3 otrzymuje brzmienie: „3. Zezwolenie na utworzenie oddziału międzynarodowego w szkole podstawowej lub gimnazjum może zostać udzielone, jeżeli program nauczania ustalony przez zagraniczną instytucję edukacyjną, który ma być realizowany w tym oddziale, umożliwia uzyskanie przez uczniów wiadomości i umiejętności umożliwiających im przystąpienie odpowiednio do sprawdzianu i egzaminu gimnazjalnego.”;
+- **9)** w art. 7b ust. 5 i 6 otrzymują brzmienie: „5. Uczniowie oddziału międzynarodowego w szkole podstawowej i gimnazjum przystępują odpowiednio do sprawdzianu i egzaminu gimnazjalnego.
+
+6. Uczniowie oddziałów międzynarodowych w szkołach ponadgimnazjalnych, o których mowa w art. 9 ust. 1 pkt 3 lit. b i c, mogą przystąpić do egzaminu maturalnego.”;
+
+- **10)** po art. 7d dodaje się art. 7e w brzmieniu: „Art. 7e. l. W celu realizacji zajęć w ramach programów finansowanych ze środków pochodzących z budżetu Unii Europejskiej, prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz, w szkole lub placówce publicznej może być zatrudniony nauczyciel, który nie realizuje w tej szkole lub placówce tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych i opiekuńczych, posiadający kwalifikacje określone w przepisach wydanych na podstawie art. 9 ust. 2 i 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela oraz spełniający warunki określone w art. 10 ust. 5 pkt 3 i 4 tej ustawy. W celu potwierdzenia spełnienia warunku, o którym mowa w art. 10 ust. 5 pkt 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, nauczyciel, przed nawiązaniem stosunku pracy, jest obowiązany przedstawić dyrektorowi szkoły lub placówki informację z Krajowego Rejestru Karnego.
+
+2. Nauczyciela, o którym mowa w ust. 1, zatrudnia się na zasadach określonych w Kodeksie pracy, z tym że za każdą godzinę prowadzenia zajęć, o których mowa w ust. 1, nauczycielowi przysługuje wynagrodzenie nie wyższe niż wynagrodzenie za jedną godzinę prowadzenia zajęć ustalone w sposób określony w art. 35 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela dla nauczyciela dyplomowanego posiadającego wykształcenie wyższe magisterskie i realizującego tygodniowy obowiązkowy wymiar godzin zajęć, o którym mowa w art. 42 ust. 3 w tabeli w lp. 3 tej ustawy.”;
+
+- **11)** w art. 9:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) trzyletnie gimnazjum, dające możliwość dalszego kształcenia w szkołach, o których mowa w pkt 3 lit. a–c i e, w którym w ostatnim roku nauki przeprowadza się egzamin gimnazjalny;”,
+    - **b)** uchyla się ust. 1a i 1b,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, typy szkół artystycznych publicznych i niepublicznych, w tym szkół, w których przeprowadza się egzamin dyplomowy, oraz szkół, w których przeprowadza się sprawdzian, egzamin gimnazjalny i egzamin maturalny, z uwzględnieniem szkół realizujących kształcenie ogólne i kształcenie artystyczne, a także szkół realizujących wyłącznie kształcenie artystyczne.”;
+
+- **12)** w art. 9a ust. 2 otrzymuje brzmienie: „2. Do zadań Centralnej Komisji Egzaminacyjnej należy w szczególności:
+- **1)** przygotowywanie i ustalanie materiałów egzaminacyjnych, w szczególności zadań i arkuszy egzaminacyjnych do przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+- **2)** przygotowywanie i ustalanie zasad oceniania rozwiązań zadań wykorzystywanych do przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w celu zapewnienia porównywalności oceniania;
+- **3)** opracowywanie i ogłaszanie w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej informatorów zawierających w szczególności przykładowe zadania, jakie mogą wystąpić na sprawdzianie, egzaminie gimnazjalnym, egzaminie maturalnym, egzaminie potwierdzającym kwalifikacje w zawodzie oraz egzaminach eksternistycznych, o których mowa w art. 10 ust. 1 i 3, wraz z rozwiązaniami;
+- **4)** organizowanie druku i dystrybucji materiałów egzaminacyjnych; realizację wybranych zadań w zakresie druku i dystrybucji materiałów egzaminacyjnych dyrektor Centralnej Komisji Egzaminacyjnej może powierzyć dyrektorom okręgowych komisji egzaminacyjnych, jeżeli jest to uzasadnione ze względu na racjonalność wydatków związanych z przeprowadzaniem sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+- **5)** analizowanie wyników sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także składanie ministrowi właściwemu do spraw oświaty i wychowania corocznych sprawozdań dotyczących wyników tego sprawdzianu i tych egzaminów;
+- **6)** przygotowywanie, we współpracy z okręgowymi komisjami egzaminacyjnymi, materiałów szkoleniowych dla kandydatów na egzaminatorów i egzaminatorów;
+- **7)** współpraca z instytucjami krajowymi i zagranicznymi w zakresie egzaminowania;
+- **8)** inicjowanie lub organizowanie badań i analiz oraz opracowywanie nowych rozwiązań w zakresie egzaminowania;
+- **9)** realizowanie porozumień międzynarodowych i międzyresortowych w zakresie przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+- **10)** ogłaszanie każdego roku w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej:
+    - **a)** komunikatów w sprawie: – harmonogramu przeprowadzania sprawdzianu, egzaminu gimnazjalnego i egzaminu maturalnego w terminie głównym i terminie dodatkowym, a w przypadku egzaminu maturalnego – również w terminie poprawkowym, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w tym: – terminów ogłaszania wyników sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie, – terminów przekazywania szkołom wyników sprawdzianu, egzaminu gimnazjalnego i części pisemnej egzaminu maturalnego oraz zaświadczeń o szczegółowych wynikach sprawdzianu lub egzaminu gimnazjalnego, świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, – terminów przekazywania szkołom, placówkom, o których mowa w art. 2 pkt 3a, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 68a ust. 2, wyników egzaminu potwierdzającego kwalifikacje w zawodzie oraz terminów przekazywania szkołom, placówkom, o których mowa w art. 2 pkt 3a, i pracodawcom świadectw potwierdzających kwalifikację w zawodzie oraz terminów przekazywania szkołom dyplomów potwierdzających kwalifikacje zawodowe, – materiałów i przyborów pomocniczych, z których można korzystać na sprawdzianie, egzaminie gimnazjalnym, egzaminie maturalnym, egzaminie potwierdzającym kwalifikacje w zawodzie oraz egzaminach eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także listy systemów operacyjnych, programów użytkowych oraz języków programowania – w przypadku egzaminu maturalnego z in-formatyki, – szczegółowych sposobów dostosowania warunków i form przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, do potrzeb osób, o których mowa w art. 44zzr, art. 44zzzf i art. 44zzzh,
+    - **b)** informacji o sposobie organizacji i przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3.”;
+
+- **13)** w art. 9c:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Okręgowe komisje egzaminacyjne podlegają Centralnej Komisji Egzaminacyjnej.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Do zadań okręgowej komisji egzaminacyjnej należy w szczególności:
+
+- **1)** przeprowadzanie sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+- **2)** przygotowywanie propozycji zadań i arkuszy egzaminacyjnych do przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w zakresie określonym przez Centralną Komisję Egzaminacyjną;
+- **3)** przygotowywanie propozycji zadań do informatorów, o których mowa w art. 9a ust. 2 pkt 3, w zakresie określonym przez Centralną Komisję Egzaminacyjną;
+- **4)** przeprowadzanie próbnego zastosowania zadań w zakresie określonym przez Centralną Komisję Egzaminacyjną, w warunkach zapewniających ich ochronę przed nieuprawnionym ujawnieniem;
+- **5)** analizowanie wyników sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+- **6)** opracowywanie i przekazywanie:
+    - **a)** dyrektorom szkół, organom prowadzącym szkoły i kuratorom oświaty sprawozdań z przeprowadzonego sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie,
+    - **b)** kuratorom oświaty sprawozdań z przeprowadzonych egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+
+- **7)** prowadzenie ewidencji egzaminatorów zamieszkujących na terenie objętym właściwością danej okręgowej komisji egzaminacyjnej;
+- **8)** szkolenie kandydatów na egzaminatorów i egzaminatorów;
+- **9)** udzielanie szkołom, placówkom, o których mowa w art. 2 pkt 3a, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 68a ust. 2, upoważnień do przeprowadzania części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie oraz części pisemnej tego egzaminu przeprowadzanej z wykorzystaniem systemu elektronicznego, o których mowa w art. 44zzzl ust. 1;
+- **10)** współpraca z innymi okręgowymi komisjami egzaminacyjnymi;
+- **11)** współpraca z kuratorami oświaty właściwymi ze względu na zasięg terytorialny okręgowej komisji egzaminacyjnej w sprawach związanych z przeprowadzaniem sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+- **12)** wykonywanie innych zadań powierzonych przez dyrektora Centralnej Komisji Egzaminacyjnej lub ministra właściwego do spraw oświaty i wychowania.”,
+    - **c)** uchyla się ust. 2a,
+    - **d)** ust. 2b otrzymuje brzmienie: „2b. Dla celów przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego oraz egzaminu potwierdzającego kwalifikacje w zawodzie okręgowe komisje egzaminacyjne nadają szkołom, placówkom, o których mowa w art. 2 pkt 3a, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 68a ust. 2, indywidualne numery identyfikacyjne.”,
+    - **e)** w ust. 3: – pkt 1 otrzymuje brzmienie: „1) posiada kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole, z zakresu której jest przeprowadzany sprawdzian, egzamin gimnazjalny, egzamin maturalny, egzamin potwierdzający kwalifikacje w zawodzie, albo jest nauczycielem akademickim specjalizującym się w dziedzinie, z którą są związane zajęcia edukacyjne wchodzące w zakres odpowiednio sprawdzianu lub egzaminu;”, – pkt 4 otrzymuje brzmienie: „4) ukończyła z wynikiem pozytywnym szkolenie dla kandydatów na egzaminatorów organizowane przez okręgową komisję egzaminacyjną, zakończone egzaminem ze znajomości zasad przeprowadzania, w szczególności oceniania, sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie.”,
+    - **f)** ust. 4 otrzymuje brzmienie: „4. Do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie może również być wpisana osoba, która jest przedstawicielem pracodawcy lub organizacji pracodawców albo stowarzyszenia lub samorządu zawodowego oraz:
+
+- **1)** posiada kwalifikacje wymagane od instruktora praktycznej nauki zawodu i spełnia warunki określone w ust. 3 pkt 3 i 4 albo
+- **2)** posiada przygotowanie zawodowe uznane przez dyrektora szkoły lub placówki za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, o którym mowa w art. 7 ust. 1d, i spełnia warunki określone w ust. 3 pkt 3 i 4.”, 1 i 3, w zakresie ustalonym w przepisach prawa, biorą udział egzaminatorzy i nauczyciele, a w przypadku egzaminu potwierdzającego kwalifikacje w zawodzie – także pracodawcy lub upoważnieni przez nich pracownicy oraz podmioty prowadzące kwalifikacyjne kursy zawodowe, o których mowa w art. 68a ust. 2, lub upoważnieni przez nich pracownicy. W przeprowadzaniu części ustnej egzaminu maturalnego mogą również brać udział nauczyciele akademiccy.”,
+    - **g)** w ust. 5 w pkt 2 lit. b i c otrzymują brzmienie: „b) nieusprawiedliwionego nieuczestniczenia w pracach dotyczących przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, do których egzaminator został wyznaczony przez dyrektora okręgowej komisji egzaminacyjnej,
+    - **c)** nieprzestrzegania przepisów dotyczących przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, lub zasad oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2;”,
+    - **h)** ust. 9 otrzymuje brzmienie: „9. W przeprowadzaniu sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust.
+    - **i)** ust. 11 otrzymuje brzmienie: „11. Nauczyciele biorący udział w przeprowadzaniu sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie wykonują czynności związane z przeprowadzaniem tego sprawdzianu i tych egzaminów w ramach czynności i zajęć, o których mowa w art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, oraz ustalonego wynagrodzenia, z zastrzeżeniem ust. 12.”;
+
+- **14)** art. 9d i art. 9e otrzymują brzmienie: „Art. 9d. 1. Nadzór nad działalnością Centralnej Komisji Egzaminacyjnej sprawuje minister właściwy do spraw oświaty i wychowania.
+
+2. W ramach nadzoru, o którym mowa w ust. 1, minister właściwy do spraw oświaty i wychowania w szczególności:
+
+- **1)** może wydawać dyrektorowi Centralnej Komisji Egzaminacyjnej wiążące wytyczne i polecenia, z wyjątkiem indywidualnych spraw rozstrzyganych w drodze decyzji administracyjnej;
+- **2)** może zwracać się do dyrektora Centralnej Komisji Egzaminacyjnej o przygotowanie i przekazanie informacji, dokumentów i sprawozdań dotyczących określonej sprawy albo rodzaju spraw;
+- **3)** przeprowadza kontrole w Centralnej Komisji Egzaminacyjnej.
+
+3. Nadzór nad działalnością okręgowych komisji egzaminacyjnych sprawuje dyrektor Centralnej Komisji Egzaminacyjnej. Przepis ust. 2 stosuje się odpowiednio.
+
+4. Organizację Centralnej Komisji Egzaminacyjnej określa jej statut nadany w drodze zarządzenia przez ministra właściwego do spraw oświaty i wychowania. Zarządzenie podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+5. Szczegółowy zakres zadań i organizację okręgowej komisji egzaminacyjnej określa jej statut nadany przez dyrektora Centralnej Komisji Egzaminacyjnej w porozumieniu z ministrem właściwym do spraw oświaty i wychowania.
+
+6. Centralna Komisja Egzaminacyjna i okręgowe komisje egzaminacyjne są państwowymi jednostkami budżetowymi finansowanymi z części budżetu państwa, której dysponentem jest minister właściwy do spraw oświaty i wychowania.
+
+7. Działalnością Centralnej Komisji Egzaminacyjnej kieruje dyrektor, którego powołuje i odwołuje minister właściwy do spraw oświaty i wychowania.
+
+8. Wicedyrektorów Centralnej Komisji Egzaminacyjnej powołuje i odwołuje dyrektor Centralnej Komisji Egzaminacyjnej, za zgodą ministra właściwego do spraw oświaty i wychowania.
+
+9. Działalnością okręgowej komisji egzaminacyjnej kieruje dyrektor, którego powołuje i odwołuje dyrektor Centralnej Komisji Egzaminacyjnej.
+
+10. W okręgowej komisji egzaminacyjnej może być utworzone stanowisko wicedyrektora, którego powołuje i odwołuje dyrektor okręgowej komisji egzaminacyjnej, za zgodą dyrektora Centralnej Komisji Egzaminacyjnej.
+
+11. Stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i stanowisko dyrektora okręgowej komisji egzaminacyjnej może zajmować osoba:
+
+- **1)** która posiada wykształcenie wyższe magisterskie;
+- **2)** która posiada staż pracy określony w przepisach wydanych na podstawie ust. 14;
+- **3)** która posiada doświadczenie związane z organizowaniem egzaminów lub prowadzeniem badań w zakresie egzaminowania;
+- **4)** która spełnia warunki zdrowotne niezbędne do wykonywania pracy na stanowisku kierowniczym;
+- **5)** która ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych;
+- **6)** która nie była karana karą dyscyplinarną oraz nie toczy się przeciwko niej postępowanie dyscyplinarne;
+- **7)** która nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **8)** przeciwko której nie toczy się postępowanie o przestępstwo ścigane z oskarżenia publicznego;
+- **9)** która nie była karana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2013 r. poz. 168 oraz z 2012 r. poz. 1529);
+- **10)** która nie była karana karą porządkową, o której mowa w art. 108 Kodeksu pracy.
+
+12. Kandydata na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej oraz na stanowisko dyrektora okręgowej komisji egzaminacyjnej wyłania się w drodze konkursu ogłaszanego przez odpowiednio ministra właściwego do spraw oświaty i wychowania albo dyrektora Centralnej Komisji Egzaminacyjnej.
+
+13. Jeżeli do konkursu, o którym mowa w ust. 12, nie zgłosi się żaden kandydat albo w wyniku konkursu nie wyłoniono kandydata, odpowiednio minister właściwy do spraw oświaty i wychowania albo dyrektor Centralnej Komisji Egzaminacyjnej powołuje na stanowisko odpowiednio dyrektora Centralnej Komisji Egzaminacyjnej albo dyrektora okręgowej komisji egzaminacyjnej wskazanego przez siebie kandydata.
+
+14. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, staż pracy wymagany od osoby zajmującej stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej, sposób i tryb przeprowadzania konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej oraz skład i tryb pracy komisji konkursowej, uwzględniając sposób ogłaszania konkursu, sposób wyłaniania kandydata, sposób sprawowania nadzoru nad prawidłowością postępowania konkursowego oraz tryb unieważnienia konkursu.
+
+15. W rozporządzeniu, o którym mowa w ust. 14, minister właściwy do spraw oświaty i wychowania może określić dodatkowe wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko odpowiednio dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej, uwzględniając specyfikę zadań wykonywanych przez odpowiednio Centralną Komisję Egzaminacyjną i okręgową komisję egzaminacyjną.
+
 **Art. 9e.**
 
 1. Przygotowywanie materiałów egzaminacyjnych do przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także drukowanie, przechowywanie i transport materiałów egzaminacyjnych, odbywają się w warunkach zapewniających ich ochronę przed nieuprawnionym ujawnieniem.
@@ -1078,6 +1213,10 @@ c) ust. 2a otrzymuje brzmienie: „2a. Szkoła, o której mowa w ust. 2 pkt 6, m
 
 **Art. 44x.** W szkole dla dorosłych:
 
+- **1)** oceny bieżące z obowiązkowych zajęć edukacyjnych są ustalane według skali i w formach określonych w statucie szkoły;
+- **2)** semestralne oceny klasyfikacyjne z obowiązkowych zajęć edukacyjnych są ustalane według skali określonej w przepisach wydanych na podstawie art. 44zb;
+- **3)** końcowe oceny klasyfikacyjne z obowiązkowych zajęć edukacyjnych są wyrażane według skali określonej w przepisach wydanych na podstawie art. 44zb.
+
 **Art. 44y.**
 
 1. Słuchacz szkoły dla dorosłych, który w wyniku klasyfikacji semestralnej otrzymał negatywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zb, z jednych albo dwóch obowiązkowych zajęć edukacyjnych, może przystąpić do egzaminu poprawkowego z tych zajęć. Egzaminy poprawkowe są przeprowadzane po każdym semestrze.
@@ -1371,21 +1510,160 @@ c) ust. 2a otrzymuje brzmienie: „2a. Szkoła, o której mowa w ust. 2 pkt 6, m
 
 **Art. 93h.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
+- **1)** rodzaje dokumentów, które przedkłada się wraz z wnioskiem o uznanie świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, oraz wymagania dotyczące formy przedkładanych dokumentów,
+- **2)** rodzaje dokumentów, które przedkłada się wraz z wnioskiem o potwierdzenie wykształcenia lub uprawnień do kontynuacji nauki, o którym mowa w art. 93a, z których bezpośrednio lub pośrednio wynika posiadanie przez wnioskodawcę wykształcenia uzyskanego za granicą lub nabycie uprawnień do kontynuacji nauki za granicą,
+- **3)** sposób uwierzytelnienia świadectw lub innych dokumentów, o których mowa w art. 93 ust. 3,
+- **4)** warunki, jakie muszą spełniać tłumaczenia świadectw lub innych dokumentów, o których mowa w art. 93 ust. 3, oraz dokumentów, o których mowa w pkt 2,
+- **5)** warunki i tryb przeprowadzania rozmowy sprawdzającej, w tym skład komisji, o której mowa w art. 93f ust. 1, oraz warunki ustalania wyniku rozmowy sprawdzającej, a także zakres przedmiotów, które mogą być objęte rozmową sprawdzającą,
+- **6)** wysokość wynagrodzenia członków komisji, o którym mowa w art. 93f ust. 5, nie wyższą niż 10% minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego, posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, określonego na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
+- **7)** tryb wnoszenia opłaty, o której mowa w art. 93g ust. 1,
+- **8)** wysokość opłaty, która może podlegać zwrotowi w przypadkach, o których mowa w art. 93g ust. 5, oraz tryb zwrotu opłaty,
+- **9)** przypadki, w których opłata, o której mowa w art. 93g ust. 1, nie podlega zwrotowi – biorąc pod uwagę zasady przejrzystości i spójności procedur oraz stosowania obiektywnych kryteriów podczas rozpatrywania wniosków o uznanie świadectw lub innych dokumentów, wynikające z Konwencji o uznaniu kwalifikacji związanych z uzyskaniem wyższego wykształcenia w Regionie Europejskim, sporządzonej w Lizbonie dnia 11 kwietnia 1997 r.”;
+- **66)** w art. 94a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Osoby niebędące obywatelami polskimi korzystają z nauki i opieki w publicznych przedszkolach lub publicznych innych formach wychowania przedszkolnego, a także w niepublicznych przedszkolach, o których mowa w art. 90 ust. 1b, i niepublicznych innych formach wychowania przedszkolnego, o których mowa w art. 90 ust. 1c, a podlegające obowiązkowi szkolnemu korzystają z nauki i opieki w publicznych szkołach podstawowych, gimnazjach, publicznych szkołach artystycznych oraz w placówkach, w tym placówkach artystycznych, na warunkach dotyczących obywateli polskich.”,
+    - **b)** w ust. 6 pkt 1 otrzymuje brzmienie: „1) warunki i tryb przyjmowania do publicznych przedszkoli, innych form wychowania przedszkolnego, szkół, w tym szkół artystycznych, placówek oraz na kształcenie ustawiczne w formie kwalifikacyjnych kursów zawodowych osób niebędących obywatelami polskimi oraz obywateli polskich, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także rodzaje dokumentów potwierdzających poziom wykształcenia i stan zdrowia tych osób oraz sposób kwalifikowania do odpowiedniej klasy lub na odpowiedni semestr, uwzględniając brak znajomości języka polskiego przez kandydata lub brak możliwości przedłożenia przez kandydata dokumentów stwierdzających ukończenie za granicą szkoły lub kolejnego etapu edukacji;”;
+
+- **67)** po art. 94b dodaje się art. 94c w brzmieniu: „Art. 94c. Minister właściwy do spraw oświaty i wychowania może wspierać działania z zakresu międzynarodowej współpracy dzieci i młodzieży, w tym poprzez ich dofinansowanie, z uwzględnieniem rocznych i wieloletnich planów współpracy zagranicznej ministra właściwego do spraw oświaty i wychowania.”.
+
 **Art. 2.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2014 r. poz. 191 i 1198) wprowadza się następujące zmiany:
+
+- **1)** w art. 1: U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ), z zastrzeżeniem ust. 2 pkt 1a, 1b oraz pkt 2 lit. a;”,
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) publicznych przedszkolach, szkołach i placówkach oraz zakładach kształcenia i placówkach doskonalenia nauczycieli działających na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz.
+    - **b)** w ust. 2 po pkt la dodaje się pkt lb w brzmieniu: „1b) nauczyciele zatrudnieni w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 5 ust. 3b pkt 1 lit. b, ust. 3c i ust. 3d pkt 2 ustawy o systemie oświaty;”;
+
+- **2)** w art. 9b w ust. 4 pkt 4 otrzymuje brzmienie: „4) nauczycielom, o których mowa w art. 1 ust. 2 pkt 1 i 1b oraz art. 9e ust. 3, odpowiedni stopień – właściwy minister.”;
+- **3)** w art. 9d:
+    - **a)** ust. 5 otrzymuje brzmienie: „5. W przypadku nieobecności nauczyciela w pracy z powodu czasowej niezdolności do pracy wskutek choroby, zwolnienia z obowiązku świadczenia pracy lub urlopu innego niż urlop wypoczynkowy i urlopy, o których mowa w ust. 5a, trwającej nieprzerwanie dłużej niż miesiąc, staż ulega przedłużeniu o czas trwania tej nieobecności. W przypadku nieobecności dłuższej niż rok nauczyciel jest obowiązany do ponownego odbycia stażu w pełnym wymiarze.”,
+    - **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku nieobecności nauczyciela w pracy z powodu urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu macierzyńskiego, dodatkowego urlopu na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego lub urlopu ojcowskiego, staż ulega przedłużeniu o czas trwania tej nieobecności. W przypadku gdy łączny czas nieprzerwanej nieobecności w pracy z przyczyn, o których mowa w zdaniu pierwszym oraz w ust. 5, jest dłuższy niż rok i 6 miesięcy, nauczyciel jest obowiązany do ponownego odbycia stażu w pełnym wymiarze.”;
+
+- **4)** w art. 9e ust. 2 otrzymuje brzmienie: „2. Nauczyciel mianowany, o którym mowa w art. 1 ust. 2 pkt 1 i 1b, zatrudniony na stanowisku, na którym wymagane są kwalifikacje pedagogiczne, posiadający nieprzerwany okres pracy na tym stanowisku co najmniej 3 lata, a w przypadku nauczyciela posiadającego co najmniej stopień naukowy doktora co najmniej 2 lata, może złożyć wniosek o podjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego po upływie 4 lat od dnia nadania stopnia nauczyciela mianowanego, a w przypadku nauczyciela posiadającego co najmniej stopień naukowy doktora po upływie 3 lat.”;
+- **5)** w art. 9g w ust. 6:
+    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) urzędzie ministra właściwego do spraw oświaty i wychowania, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i publicznej placówce doskonalenia nauczycieli o zasięgu ogólnokrajowym – minister właściwy do spraw oświaty i wychowania;
+
+- **2)** urzędzie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, specjalistycznej jednostce nadzoru oraz publicznej placówce doskonalenia nauczycieli szkół artystycznych – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego;”,
+    - **b)** w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) urzędzie ministra właściwego do spraw rolnictwa oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych – minister właściwy do spraw rolnictwa.”;
+
+- **6)** w art. 17 ust. 2a otrzymuje brzmienie: „2a. Nauczyciele skierowani w trybie określonym w przepisach wydanych na podstawie art. 22 ust. 1 pkt 3 ustawy o systemie oświaty do pracy w szkołach działających na podstawie Konwencji o Statucie Szkół Europejskich, zwanych dalej „szkołami europejskimi”, otrzymują urlop bezpłatny na czas skierowania.”;
+- **7)** w art. 30 ust. 10b otrzymuje brzmienie: „l0b. Zwiększenie środków na poszczególne składniki wynagrodzenia dla nauczycieli ponad poziom określony w ust. 3 może odbywać się wyłącznie z dochodów własnych jednostek samorządu terytorialnego lub ze środków pochodzących z budżetu Unii Europejskiej.”;
+- **8)** w art. 32 ust. 3 i 4 otrzymują brzmienie: „3. Nauczycielom mianowanym i dyplomowanym zatrudnionym na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych, publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 5 ust. 3b pkt 1 lit. b, ust. 3c i ust. 3d pkt 2 ustawy o systemie oświaty, oprócz wynagrodzenia zasadniczego przysługują dodatki: za wysługę lat, motywacyjny oraz służbowy.
+
+4. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego oraz ministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia, wysokość i warunki przyznawania dodatków, o których mowa w ust. 3, z zastrzeżeniem art. 33, uwzględniając potrzebę zróżnicowania ich wysokości w zależności od jakości świadczonej pracy i zajmowanego stanowiska.”;
+
+- **9)** po art. 35 dodaje się art. 35a w brzmieniu: „Art. 35a. 1. Nauczycielom wymienionym w art. 1 ust. 1, którzy w ramach programów finansowanych ze środków pochodzących z budżetu Unii Europejskiej prowadzą zajęcia bezpośrednio z uczniami lub wychowankami albo na ich rzecz, za każdą godzinę prowadzenia tych zajęć przysługuje wynagrodzenie w wysokości ustalonej w sposób określony w art. 35 ust. 3.
+
+2. Zajęcia, o których mowa w ust. 1, są przydzielane za zgodą nauczyciela.
+
+3. Zajęcia, o których mowa w ust. 1, nie są wliczane do tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych i opiekuńczych, prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz.
+
+4. Wynagrodzenia nauczycieli, o którym mowa w ust. 1, nie uwzględnia się przy obliczaniu kwot wydatkowanych na średnie wynagrodzenia nauczycieli, o których mowa w art. 30 ust. 3.”;
+
+- **10)** w art. 91a ust. 2 otrzymuje brzmienie: „2. Nauczycielom mianowanym i dyplomowanym zatrudnionym w Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 5 ust. 3b pkt 1 lit. b, ust. 3c i ust. 3d pkt 2 ustawy o systemie oświaty, przysługują uprawnienia wynikające z art. 9a–9i, art. 30 ust. 5, art. 32, art. 33, art. 47, art. 49 ust. 1 pkt 3, art. 51, art. 58, art. 60, art. 63, art. 86–88 i art. 90.”.
 
 **Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149) w art. 53c ust. 2 otrzymuje brzmienie: „2. Praktyczna nauka zawodu dorosłych kończy się egzaminami potwierdzającymi kwalifikacje w zawodzie, przeprowadzanymi przez okręgową komisję egzaminacyjną, zgodnie z przepisami rozdziału 3b ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ), lub egzaminem czeladniczym przeprowadzanym przez komisje egzaminacyjne izb rzemieślniczych, zgodnie z przepisami w sprawie egzaminów na tytuły czeladnika i mistrza w zawodzie.”.
 
 **Art. 4.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ) w art. 169:
 
+- **1)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) świadectwo dojrzałości albo świadectwo dojrzałości i zaświadczenie o wynikach egzaminu maturalnego z poszczególnych przedmiotów, o których mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty – w przypadku ubiegania się o przyjęcie na studia pierwszego stopnia lub jednolite studia magisterskie;”;
+- **2)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Jeżeli podstawę przyjęcia na studia stanowią wyniki egzaminu dojrzałości i zaświadczenie o wynikach egzaminu maturalnego z poszczególnych przedmiotów, o którym mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty, senat uczelni może podjąć uchwałę o przeprowadzeniu egzaminów wstępnych, w trybie określonym na podstawie ust. 2, z wyłączeniem przedmiotów wymienionych w zaświadczeniu.”;
+- **3)** ust. 7 otrzymuje brzmienie: „7. Przepisy ust. 3 i 4 dotyczące egzaminu maturalnego oraz jego wyników stosuje się odpowiednio do egzaminu zagranicznego potwierdzonego świadectwem lub innym dokumentem uznanym w Rzeczypospolitej Polskiej za dokument uprawniający do ubiegania się o przyjęcie na studia wyższe zgodnie z art. 93 ust. 3 i 4 ustawy z dnia 7 września 1991 r. o systemie oświaty, egzaminu zagranicznego, jeżeli wynikające z niego uprawnienie do ubiegania się o przyjęcie na studia wyższe zostało potwierdzone w Rzeczypospolitej Polskiej zgodnie z art. 93a tej ustawy, oraz egzaminu zagranicznego potwierdzonego świadectwem lub innym dokumentem, dyplomem IB lub dyplomem EB, o których mowa w art. 93 ust. 1 tej ustawy, oraz wyników tego egzaminu.”.
+
 **Art. 5.** W ustawie z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw (Dz. U. Nr 56, poz. 458, z późn. zm. ) w art. 20 ust. 2 otrzymuje brzmienie: „2. Absolwenci, o których mowa w ust. 1, którzy w terminach określonych w ust. 1 nie przystąpili do egzaminu maturalnego, nie zdali egzaminu maturalnego, chcą podwyższyć wynik egzaminu maturalnego uzyskany z danego przedmiotu lub przedmiotów lub chcą przystąpić do egzaminu maturalnego z przedmiotu lub przedmiotów, z których wcześniej nie zdawali egzaminu maturalnego, przystępują do egzaminu maturalnego z danego przedmiotu lub przedmiotów na podstawie standardów wymagań, o których mowa w ust. 1, w okresie 5 lat szkolnych, licząc od końca roku szkolnego wymienionego w ust. 1.”.
 
 **Art. 6.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2015 r. poz. 45) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) nauczycieli, o których mowa w art. 7e ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty;”;
+- **2)** w art. 7 w ust. 1 pkt 9 otrzymuje brzmienie: „9) numer identyfikacyjny szkoły lub placówki, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty;”;
+- **3)** w art. 8 w pkt 1 w lit. j średnik zastępuje się przecinkiem i dodaje się lit. k w brzmieniu: „k) danych o wysokości przeciętnego wynagrodzenia przypadającego na 1 etat, z uwzględnieniem nieperiodycznych składników wynagrodzenia nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 5 ust. 3b pkt 1 lit. b, ust. 3c i ust. 3d pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty;”;
+- **4)** w art. 14 pkt 25 otrzymuje brzmienie: „25) uczestniczenie w zajęciach rozwijających zainteresowania i uzdolnienia, o których mowa w art. 64 ust. 1 pkt 6 ustawy z dnia 7 września 1991 r. o systemie oświaty, według rodzajów tych zajęć, oraz innych niż wymienione w art. 64 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty formach działalności dydaktyczno-wychowawczej;”;
+- **5)** w art. 20:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Dane dziedzinowe ucznia w związku ze sprawdzianem, egzaminem gimnazjalnym, egzaminem maturalnym i egzaminem potwierdzającym kwalifikacje w zawodzie oraz egzaminami eksternistycznymi przeprowadzanymi przez okręgowe komisje egzaminacyjne obejmują:”,
+    - **b)** pkt 1 otrzymuje brzmienie: „1) wyniki sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie;”;
+
+- **6)** w art. 26a w ust. 3 pkt 2 otrzymuje brzmienie: „2) informację o uczestniczeniu ucznia w zajęciach edukacyjnych, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz. U. Nr 17, poz. 78, z późn. zm. ).”;
+- **7)** w art. 29 w ust. 1: e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych, publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 5 ust. 3b pkt 1 lit. b, ust. 3c i ust. 3d pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty:”;
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) w odniesieniu do nauczycieli, o których mowa w art. 7e ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty:
+    - **a)** wykształcenie,
+    - **b)** przygotowanie pedagogiczne,
+    - **c)** posiadane kwalifikacje do nauczania,
+    - **d)** staż pracy,
+    - **e)** formę i wymiar zatrudnienia,
+    - **f)** zajmowane stanowiska i sprawowane funkcje,
+    - **g)** rodzaje i wymiar prowadzonych zajęć lub innych wykonywanych obowiązków,
+    - **h)** przyczyny nieprowadzenia zajęć,
+    - **i)** dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników i ich wysokości, w tym składników nieperiodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placówkach oświatowych prowadzonych przez jednostki samorządu terytorialnego i ministrów,
+    - **j)** datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia stosunku pracy;”,
+    - **b)** w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „w odniesieniu do nauczycieli mianowanych lub dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w urzędach obsługujących ministrów, kuratoriach oświaty, specjalistycznej jednostce nadzoru, o której mowa w art. 32a ust. 1 i 1a ustawy z dnia 7 września 1991 r. o systemie oświaty, organach sprawujących nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit.
+
+- **8)** art. 30 otrzymuje brzmienie: „Art. 30. Podmiot zobowiązany do przekazywania danych do zbioru danych szkoły lub placówki oświatowej, zbioru danych jednostki, zbioru danych nauczyciela i zbioru danych ucznia przekazuje dane do bazy danych SIO, w terminie 7 dni od dnia, w którym nastąpiła zmiana w stanie faktycznym, z wyjątkiem danych, o których mowa w art. 8 pkt 1 lit. c, e–k i pkt 2–4, art. 9 pkt 2, art. 14 pkt 25, art. 20 pkt 1, art. 29 ust. 1 pkt 1 lit. g, w zakresie dotyczącym rodzaju i wymiaru innych zajęć i czynności, o których mowa w art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, art. 29 ust. 1 pkt 1 lit. i oraz pkt 2 lit. g, w zakresie dotyczącym uzyskania kolejnego stopnia awansu zawodowego, oraz w przypadku nauczycieli w szkołach specjalnych zorganizowanych w podmiotach leczniczych – art. 29 ust. 1 pkt 1 lit. e oraz ust. 3 pkt 1 lit. c, w zakresie dotyczącym wymiaru zatrudnienia, i art. 29 ust. 1 pkt 1 lit. g, ust. 3 pkt 1 lit. e oraz ust. 4 pkt 5, a także danych identyfikacyjnych uczniów przystępujących do sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie.”;
+- **9)** w art. 31 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy zakres danych dziedzinowych gromadzonych w systemie informacji oświatowej w zbiorach danych szkół i placówek oświatowych, zbiorach danych jednostek, zbiorach danych uczniów i zbiorach danych nauczycieli oraz terminy przekazywania do bazy danych SIO danych, o których mowa w art. 8 pkt 1 lit. c, e–k i pkt 2–4, art. 9 pkt 2, art. 14 pkt 25, art. 20 pkt 1, art. 29 ust. 1 pkt 1 lit. g, w zakresie dotyczącym rodzaju i wymiaru innych zajęć i czynności, o których mowa w art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, art. 29 ust. 1 pkt 1 lit. i oraz pkt 2 lit. g, w zakresie dotyczącym uzyskania kolejnego stopnia awansu zawodowego, oraz w przypadku nauczycieli w szkołach specjalnych zorganizowanych w podmiotach leczniczych – art. 29 ust. 1 pkt 1 lit. e oraz ust. 3 pkt 1 lit. c, w zakresie dotyczącym wymiaru zatrudnienia, i art. 29 ust. 1 pkt 1 lit. g, ust. 3 pkt 1 lit. e oraz ust. 4 pkt 5, a także danych identyfikacyjnych uczniów przystępujących do sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie.”;
+- **10)** art. 38 otrzymuje brzmienie: „Art. 38. Okręgowa komisja egzaminacyjna przekazuje do RSPO informację o numerze identyfikacyjnym szkoły lub placówki, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty, w terminie 7 dni od dnia otrzymania z bazy danych SIO komunikatu o wpisaniu do RSPO danych identyfikacyjnych szkoły lub placówki.”;
+- **11)** w art. 42 pkt 10 otrzymuje brzmienie: „10) dane w związku ze sprawdzianem, egzaminem gimnazjalnym, egzaminem maturalnym i egzaminem potwierdzającym kwalifikacje w zawodzie oraz egzaminami eksternistycznymi przeprowadzanymi przez okręgowe komisje egzaminacyjne – okręgowe komisje egzaminacyjne;”;
+- **12)** art. 55 otrzymuje brzmienie: „Art. 55. 1. Okręgowe komisje egzaminacyjne, w związku z organizacją sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie mogą pozyskiwać następujące dane ucznia:
+- **1)** ze zbioru PESEL – drugie imię (imiona), datę i miejsce urodzenia;
+- **2)** z bazy danych SIO – numer PESEL, imię i nazwisko, informację o orzeczeniu o potrzebie kształcenia specjalnego, nazwę i adres szkoły, do której uczeń uczęszcza albo uczęszczał w przypadku uczniów przystępujących do egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie, oraz numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty.
+
+2. Szkoły przekazują do bazy danych SIO dane identyfikacyjne uczniów przystępujących do sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie w terminach określonych w przepisach wydanych na podstawie art. 31.”;
+
+- **13)** w art. 57 w ust. 1 pkt 2 otrzymuje brzmienie: „2) z bazy danych SIO – miejsce zamieszkania, nazwę i adres szkoły, do której uczeń uczęszczał, wyniki egzaminu gimnazjalnego, informację o uzyskaniu tytułu laureata olimpiady przedmiotowej, konkursu lub zawodów na szczeblu co najmniej powiatu.”.
+
 **Art. 7.** W ustawie z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827 oraz z 2014 r. poz. 7 i 811) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 20:
+    - **a)** w lit. b w zakresie art. 90 ust. 1b i 1c otrzymują brzmienie: „1b. Niepubliczne przedszkole może otrzymywać dotację z budżetu gminy na każdego ucznia w wysokości równej wydatkom bieżącym przewidzianym na jednego ucznia w przedszkolach prowadzonych przez gminę, pomniejszonym o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, jeżeli przedszkole to:
+
+- **1)** spełni warunki określone w art. 6 ust. 1, z tym że czas bezpłatnego nauczania, wychowania i opieki, o którym mowa w art. 6 ust. 1 pkt 2, nie może być krótszy niż czas bezpłatnego nauczania, wychowania i opieki ustalony przez radę gminy dla przedszkoli prowadzonych przez gminę,
+- **2)** będzie pobierać opłaty za korzystanie z wychowania przedszkolnego nie wyższe niż opłaty ustalone przez radę gminy na podstawie art. 14 ust. 5 pkt 1 lit. a,
+- **3)** będzie prowadzić dokumentację przebiegu nauczania, wychowania i opieki ustaloną dla przedszkoli publicznych,
+- **4)** zapewni liczbę uczniów w oddziale przedszkolnym nieprzekraczającą maksymalnej liczby uczniów w oddziale przedszkola publicznego, określonej w przepisach wydanych na podstawie art. 60 ust. 2,
+- **5)** zapewni uczniom pomoc psychologiczno-pedagogiczną zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 11,
+- **6)** stosuje zasady przyjmowania do publicznych przedszkoli, określone w rozdziale 2a – z tym że na ucznia niepełnosprawnego dotacja może być przyznana w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola w części oświatowej subwencji ogólnej otrzymywanej przez jednostkę samorządu terytorialnego. W przypadku braku na terenie gminy przedszkola prowadzonego przez gminę, podstawą do ustalenia wysokości dotacji są wydatki bieżące ponoszone przez najbliższą gminę na prowadzenie przedszkoli publicznych, pomniejszone o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy.
+
+1c. Niepubliczna inna forma wychowania przedszkolnego może otrzymywać dotację z budżetu gminy na każdego ucznia objętego tą formą wychowania przedszkolnego w wysokości równej 50% wydatków bieżących ponoszonych na jednego ucznia w przedszkolach prowadzonych przez gminę, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, jeżeli ta inna forma:
+
+- **1)** spełni warunki określone w art. 6 ust. 1 pkt 3 i ust. 2, z tym że czas bezpłatnego nauczania, wychowania i opieki, o którym mowa w art. 6 ust. 2, nie może być krótszy niż czas bezpłatnego nauczania, wychowania i opieki ustalony przez radę gminy dla publicznych innych form wychowania przedszkolnego prowadzonych przez gminę,
+- **2)** będzie pobierać opłaty za korzystanie z wychowania przedszkolnego nie wyższe niż opłaty ustalone przez radę gminy na podstawie art. 14 ust. 5 pkt 1 lit. b,
+- **3)** stosuje zasady przyjmowania do publicznych innych form wychowania przedszkolnego określone w rozdziale 2a – z tym że na ucznia niepełnosprawnego dotacja może być przyznana w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola w części oświatowej subwencji ogólnej otrzymywanej przez jednostkę samorządu terytorialnego. W przypadku braku na terenie gminy przedszkola prowadzonego przez gminę, podstawą do ustalenia wysokości dotacji są wydatki bieżące ponoszone przez najbliższą gminę na prowadzenie przedszkoli publicznych, pomniejszone o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy.”,
+    - **b)** w lit. c w zakresie art. 90 ust. 2b otrzymuje brzmienie: „2b. Dotacje dla niepublicznych przedszkoli niespełniających warunków, o których mowa w ust. 1b, przysługują na każdego ucznia w wysokości nie niższej niż 75% ustalonych w budżecie danej gminy wydatków bieżących ponoszonych w przedszkolach prowadzonych przez gminę w przeliczeniu na jednego ucznia, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, z tym że na ucznia niepełnosprawnego w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola w części oświatowej subwencji ogólnej otrzymywanej przez gminę, pod warunkiem że osoba prowadząca niepubliczne przedszkole poda organowi właściwemu do udzielania dotacji informację o planowanej liczbie uczniów nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji. W przypadku braku na terenie gminy przedszkola prowadzonego przez gminę, podstawą do ustalenia wysokości dotacji są wydatki bieżące ponoszone przez najbliższą gminę na prowadzenie przedszkola publicznego, pomniejszone o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy.”,
+    - **c)** w lit. c w zakresie art. 90 ust. 2d otrzymuje brzmienie: „2d. Osoba prowadząca wychowanie przedszkolne w formach, o których mowa w przepisach wydanych na podstawie art. 14a ust. 7, niespełniających warunków, o których mowa w ust. 1c, otrzymuje na każdego ucznia objętego tą formą wychowania przedszkolnego dotację z budżetu gminy w wysokości nie niższej niż 40% wydatków bieżących ponoszonych na jednego ucznia w przedszkolu publicznym prowadzonym przez gminę, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, z tym że na ucznia niepełnosprawnego w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola w części oświatowej subwencji ogólnej otrzymywanej przez gminę, pod warunkiem że osoba prowadząca niepubliczną formę wychowania przedszkolnego poda organowi właściwemu do udzielania dotacji informację o planowanej liczbie uczniów nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji. W przypadku braku na terenie gminy przedszkola prowadzonego przez gminę, podstawą do ustalenia wysokości dotacji są wydatki bieżące ponoszone przez najbliższą gminę na prowadzenie przedszkola publicznego, pomniejszone o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy.”;
+
+- **2)** w art. 14:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Do dnia 31 sierpnia 2015 r. dotacje dla niepublicznych przedszkoli przysługują na każdego ucznia w wysokości nie niższej niż 75% ustalonych w budżecie danej gminy wydatków bieżących ponoszonych w przedszkolach prowadzonych przez gminę w przeliczeniu na jednego ucznia, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, z tym że na ucznia niepełnosprawnego w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola w części oświatowej subwencji ogólnej otrzymywanej przez gminę, pod warunkiem że osoba prowadząca niepubliczne przedszkole poda organowi właściwemu do udzielania dotacji informację o planowanej liczbie uczniów nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji. W przypadku braku na terenie gminy przedszkola prowadzonego przez gminę, podstawą do ustalenia wysokości dotacji są wydatki bieżące ponoszone przez najbliższą gminę na prowadzenie przedszkola publicznego, pomniejszone o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Do dnia 31 sierpnia 2015 r. osoba prowadząca wychowanie przedszkolne w formach, o których mowa w przepisach wydanych na podstawie art. 14a ust. 7 ustawy zmienianej w art. 1, otrzymuje na każdego ucznia objętego tą formą wychowania przedszkolnego dotację z budżetu gminy w wysokości nie niższej niż 40% wydatków bieżących ponoszonych na jednego ucznia w przedszkolu prowadzonym przez gminę, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, z tym że na ucznia niepełnosprawnego w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola w części oświatowej subwencji ogólnej otrzymywanej przez gminę, pod warunkiem że osoba prowadząca niepubliczną formę wychowania przedszkolnego poda organowi właściwemu do udzielania dotacji informację o planowanej liczbie uczniów nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji. W przypadku braku na terenie gminy przedszkola prowadzonego przez gminę, podstawą do ustalenia wysokości dotacji są wydatki bieżące ponoszone przez najbliższą gminę na prowadzenie przedszkola publicznego, pomniejszone o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy.”.
 
 **Art. 8.** W ustawie z dnia 6 grudnia 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. z 2014 r. poz. 7 i 811) wprowadza się następujące zmiany:
 
+- **1)** w art. 1:
+    - **a)** w pkt 11 w zakresie art. 20l pkt 1 i 2 otrzymują brzmienie: „1) sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w art. 20f ust. 2 pkt 1–4, art. 20h ust. 6, art. 20i ust. 2 pkt 1, 3 i 4 oraz art. 20j ust. 2 pkt 1, 3, 4 i 5,
+
+- **2)** sposób ustalania punktacji w przypadku osób zwolnionych odpowiednio ze sprawdzianu lub egzaminu gimnazjalnego,”, 1a–1c i 2–3b, oraz tryb i zakres kontroli prawidłowości ich pobrania i wykorzystywania, uwzględniając w szczególności podstawę obliczania dotacji, zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji i w rozliczeniu jej wykorzystania, oraz termin i sposób rozliczenia dotacji.”,”;
+    - **b)** w pkt 17 lit. c otrzymuje brzmienie: „c) ust. 4 otrzymuje brzmienie: „4. Organ stanowiący jednostki samorządu terytorialnego ustala tryb udzielania i rozliczania dotacji, o których mowa w ust.
+
+- **2)** w art. 11: 20f ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.”, 1, w brzmieniu nadanym niniejszą ustawą, stosuje się.
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 do klasy pierwszej publicznej szkoły ponadgimnazjalnej dwujęzycznej lub oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów, którzy spełniają warunki, o których mowa w art.
+    - **b)** uchyla się ust. 3,
+    - **c)** ust. 4–6 otrzymują brzmienie: „4. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, o którym mowa w ust. 2, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Przepis art. 20c ust. 3 ustawy zmienianej w art.
+
+5. Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy zmienianej w art. 1, w postępowaniu rekrutacyjnym na lata szkolne 2014/2015–2016/2017 są przyjmowani w pierwszej kolejności do publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej lub oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 20f ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+6. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 do szkoły lub oddziału, o których mowa w ust. 1, przepisy art. 20a ust. 1–4, 6 i 7, art. 20b, art. 20s, art. 20t ust. 1, 2 pkt 1 i 4 lit. a, b, d i e oraz ust. 3–10, art. 20v i art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.”;
+
+- **3)** w art. 15 ust. 3 otrzymuje brzmienie: „3. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 do oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów zgodnie z art. 11.”;
+- **4)** w art. 20 pkt 3 otrzymuje brzmienie: „3) art. 1 pkt 17 lit. c, który wchodzi w życie z dniem 31 marca 2015 r.;”. [Art. 9. W ustawie z dnia 30 maja 2014 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 811) wprowadza się następujące zmiany:
+- **1)** w art. 20 w ust. 1 pkt 2–10 otrzymują brzmienie: „2) w 2015 r. – 306 mln zł;
+- **3)** w 2016 r. – 335 mln zł;
+- **4)** w 2017 r. – 376 mln zł;
+- **5)** w 2018 r. – 448 mln zł;
+- **6)** w 2019 r. – 453 mln zł;
+- **7)** w 2020 r. – 477 mln zł;
+- **8)** w 2021 r. – 552 mln zł;
+- **9)** w 2022 r. – 549 mln zł;
+- **10)** w 2023 r. – 492 mln zł.”;]
+- **2)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Rzeczoznawcy wpisani na listy rzeczoznawców na podstawie dotychczasowych przepisów podlegają z urzędu wpisowi na odpowiednie listy, o których mowa w art. 22an ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.”.
+
 **Art. 10.** W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw (Dz. U. poz. 1198) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w pkt 1 w zakresie art. 1 ust. 1 pkt 1 otrzymuje brzmienie: „1) publicznych przedszkolach, szkołach i placówkach oraz placówkach doskonalenia nauczycieli działających na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ), z zastrzeżeniem ust. 2 pkt la, lb oraz pkt 2 lit. a;”;
+- **2)** w art. 4 w pkt 19 uchyla się lit. c.
 
 **Art. 11.**
 
@@ -1395,6 +1673,9 @@ c) ust. 2a otrzymuje brzmienie: „2a. Szkoła, o której mowa w ust. 2 pkt 6, m
 
 **Art. 12.** W roku szkolnym 2014/2015:
 
+- **1)** szkoła publiczna realizuje ustalone przez ministra właściwego do spraw oświaty i wychowania zasady oceniania, klasyfikowania i promowania uczniów oraz przeprowadzania sprawdzianów i egzaminów zgodnie z art. 7 ust. 1 pkt 5 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy;
+- **2)** szkoła niepubliczna posiadająca uprawnienia szkoły publicznej stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania sprawdzianów i egzaminów, o których mowa w pkt 1.
+
 **Art. 13.** Do projektów realizowanych w ramach programów finansowanych ze środków pochodzących z budżetu Unii Europejskiej, w ramach których nauczyciele prowadzą zajęcia bezpośrednio z uczniami lub wychowankami albo na ich rzecz, dla których umowa o dofinansowanie została zawarta przed dniem wejścia w życie niniejszej ustawy, stosuje się dotychczasowe przepisy.
 
 **Art. 14.** Do dnia 31 grudnia 2015 r. do zadań Centralnej Komisji Egzaminacyjnej należy koordynowanie działalności okręgowych komisji egzaminacyjnych oraz nadzorowanie ich prac związanych z opracowywaniem propozycji zadań i arkuszy egzaminacyjnych do przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3 ustawy zmienianej w art. 1, a także nadzorowanie prac związanych z przeprowadzaniem tego sprawdzianu i tych egzaminów oraz ocenianiem przez okręgowe komisje egzaminacyjne prac egzaminacyjnych, w celu zapewnienia porównywalności oceniania.
@@ -1402,6 +1683,9 @@ c) ust. 2a otrzymuje brzmienie: „2a. Szkoła, o której mowa w ust. 2 pkt 6, m
 **Art. 15.** Osoby wpisane do ewidencji egzaminatorów w zakresie przeprowadzania sprawdzianu, egzaminu gimnazjalnego, egzaminu maturalnego i egzaminu potwierdzającego kwalifikacje w zawodzie na podstawie dotychczasowych przepisów nadal pozostają egzaminatorami.
 
 **Art. 16.** Osoby zajmujące w dniu 1 stycznia 2016 r. stanowiska:
+
+- **1)** dyrektora Centralnej Komisji Egzaminacyjnej oraz dyrektorów okręgowych komisji egzaminacyjnych zajmują nadal te stanowiska, do czasu ich odwołania odpowiednio przez ministra właściwego do spraw oświaty i wychowania lub dyrektora Centralnej Komisji Egzaminacyjnej;
+- **2)** wicedyrektorów odpowiednio Centralnej Komisji Egzaminacyjnej oraz okręgowych komisji egzaminacyjnych zajmują nadal te stanowiska, do czasu ich odwołania odpowiednio przez dyrektora Centralnej Komisji Egzaminacyjnej za zgodą ministra właściwego do spraw oświaty i wychowania lub przez dyrektora okręgowej komisji egzaminacyjnej za zgodą dyrektora Centralnej Komisji Egzaminacyjnej.
 
 **Art. 17.** Przepisy art. 20g ust. 1 i 1a, art. 20k ust. 1 pkt 5 i ust. 1a oraz art. 20zb ust. 2 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio do postępowania rekrutacyjnego, o którym mowa w art. 13 ustawy zmienianej w art. 8.
 
@@ -1523,9 +1807,15 @@ c) ust. 2a otrzymuje brzmienie: „2a. Szkoła, o której mowa w ust. 2 pkt 6, m
 
 **Art. 31.** Do zdającego, który do dnia 1 września 2015 r. nie zdał egzaminu potwierdzającego kwalifikacje w zawodzie i uzyskał z jednej części tego egzaminu co najmniej:
 
+- **1)** w przypadku części pisemnej – 50% punktów możliwych do uzyskania albo
+- **2)** w przypadku części praktycznej – 75% punktów możliwych do uzyskania – stosuje się przepisy art. 44zzzu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
 **Art. 32.** Szkoły lub placówki, w terminie do dnia 1 września 2015 r., dostosują swoje statuty do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 33.** Przepisy art. 61 ust. 3a–3e ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do uczniów w oddziale:
+
+- **1)** klasy II publicznej szkoły podstawowej – od roku szkolnego 2015/2016;
+- **2)** klasy III publicznej szkoły podstawowej – od roku szkolnego 2016/2017.
 
 **Art. 34.** Uchwały organów stanowiących jednostek samorządu terytorialnego podjęte na podstawie art. 80 ust. 4 i art. 90 ust. 4 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, zachowują moc do dnia wejścia w życie uchwał podjętych na podstawie art. 80 ust. 4 i art. 90 ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2015 r.
 
@@ -1556,4 +1846,11 @@ c) ust. 2a otrzymuje brzmienie: „2a. Szkoła, o której mowa w ust. 2 pkt 6, m
 **Art. 39.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 31 ust. 1 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ust. 1 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 września 2016 r.
 
 **Art. 40.** Ustawa wchodzi w życie z dniem 31 marca 2015 r., z wyjątkiem:
+
+- **1)** art. 26 ust. 2, który wchodzi w życie z dniem ogłoszenia;
+- **2)** art. 1 pkt 31, który wchodzi w życie z dniem 30 czerwca 2015 r.;
+- **3)** art. 1 pkt 2 lit. a–c, pkt 6, pkt 7 lit. b, pkt 11 lit. c, pkt 13 lit. c, pkt 15 lit. c, pkt 16 lit. a i d w zakresie art. 16 ust. 13 ustawy zmienianej w art. 1, pkt 25, 26, pkt 37 w zakresie art. 34 ust. 2b ustawy zmienianej w art. 1, pkt 38 lit. e w zakresie art. 35 ust. 6 ustawy zmienianej w art. 1, pkt 39, 40, 41, pkt 42 lit. a tiret pierwsze, pkt 45, 47, 48, pkt 51 lit. b i d, pkt 58, pkt 60 w zakresie art. 89 ustawy zmienianej w art. 1 i pkt 66 oraz art. 6 pkt 4, które wchodzą w życie z dniem 1 września 2015 r.;
+- **4)** art. 1 pkt 38 lit. a, b i d w zakresie art. 35 ust. 2b ustawy zmienianej w art. 1, które wchodzą w życie z dniem 1 października 2015 r.;
+- **5)** art. 1 pkt 13 lit. a i b w zakresie art. 9c ust. 2 pkt 12 ustawy zmienianej w art. 1, pkt 14 w zakresie art. 9d ustawy zmienianej w art. 1 i pkt 28 lit. c w zakresie art. 22ae ust. 8 ustawy zmienianej w art. 1, które wchodzą w życie z dniem 1 stycznia 2016 r.
+
 

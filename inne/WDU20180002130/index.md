@@ -8,7 +8,7 @@ pos: 2130
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw

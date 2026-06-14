@@ -8,10 +8,10 @@ pos: 1018
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 maja 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1018 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 10 maja 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1018/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 10 maja 2018 r.
-w sprawie przekazywania mienia ruchomego Skarbu Państwa będącego we władaniu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych Na podstawie art. 91 ust. 9 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2017 r. poz. 1456 oraz z 2018 r. poz. 138) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie przekazywania mienia ruchomego Skarbu Państwa będącego we władaniu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych Na podstawie art. 91 ust. 9 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2017 r. poz. 1456 oraz z 2018 r. poz. 138) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy tryb nieodpłatnego przekazywania na własność mienia ruchomego Skarbu Państwa będącego we władaniu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, niewykorzystywanego do realizacji ich zadań, zwanego dalej „mieniem ruchomym”, podmiotom wymienionym w art. 91 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, zwanym dalej „podmiotem”;
 2) elementy umowy o nieodpłatnym przekazaniu mienia ruchomego, zwanej dalej „umową”;
 3) wzór wniosku o nieodpłatne przekazanie mienia ruchomego, zwanego dalej „wnioskiem”;
@@ -40,7 +40,7 @@ w sprawie przekazywania mienia ruchomego Skarbu Państwa będącego we władaniu
 4. Nabór wniosków ogłasza się osobno w odniesieniu do rzeczy ruchomych koncesjonowanych i niekoncesjonowanych.
 § 3. 1. Wzór wniosku oraz dokumenty, które należy do niego dołączyć, są określone w załączniku do rozporządzenia.
 2. Wniosek składa się w postaci papierowej lub elektronicznej.
-3. Wniosek składany w postaci elektronicznej przesyła się za pośrednictwem elektronicznej skrzynki podawczej Ministra
+3. Wniosek składany w postaci elektronicznej przesyła się za pośrednictwem elektronicznej skrzynki podawczej Ministra Obrony Narodowej.
 4. Jeżeli dokumenty dołączane do wniosku nie są dostępne w postaci elektronicznej, można złożyć elektroniczne kopie takich dokumentów po uwierzytelnieniu ich przy użyciu kwalifikowanego podpisu elektronicznego lub podpisu potwierdzonego profilem zaufanym ePUAP. W uzasadnionych przypadkach Minister Obrony Narodowej może wezwać do przedstawienia oryginałów dołączonych dokumentów.
 § 4. 1. Wnioski rozpatruje komisja do spraw przekazywania mienia ruchomego, zwana dalej „komisją”, której skład i sposób pracy określa Minister Obrony Narodowej w drodze decyzji.
 2. Protokół prac komisji oraz wykaz mienia ruchomego sporządzony na podstawie złożonych wniosków sporządza się w terminie 60 dni od dnia upływu terminu do składania wniosków, o którym mowa w § 2 ust. 2 pkt 2.
@@ -66,7 +66,7 @@ b) przesłania kierownikowi, o którym mowa w ust. 1, informacji o zrealizowaniu
 § 6. Do spraw wszczętych i niezakończonych, w tym do umów zawartych przed wejściem w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 7. Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 9 lutego 2016 r. w sprawie szczegółowego trybu przekazywania mienia ruchomego Skarbu Państwa będącego we władaniu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych (Dz. U. poz. 267 i 1142).
 § 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. T. Zdzikot WZÓR inist a Obrony Narodowe W Ó ...................................................
+Minister Obrony Narodowej: wz. T. Zdzikot Załącznik do rozporządzenia Ministra Obrony Narodowej z dnia 10 maja 2018 r. (poz…..) WZÓR WZÓR ...................................................
 WNIOSEK o nieodpłatne przekazanie mienia ruchomego I. Dane podmiotu występującego o nieodpłatne przekazanie mienia ruchomego, jego siedziba, adres
 1. Pełna nazwa podmiotu .................................................................................................................................................
 .................................................................................................................................................
@@ -80,23 +80,24 @@ adres e-mail ...................................................... adres www ..
 2) ...........................................................................................................................................
 3) ...........................................................................................................................................
 5. Data rozpoczęcia działalności przez podmiot (dd.mm.rrrr) .................................................................................................................................................
-6. W przypadku wnioskowania o broń lub inne uzbrojenie dane podmiotu odbierającego przydzielone mienie, który posiada koncesję uprawniającą do transportu, przechowywania Każdą pozycję wniosku wypełnia się czytelnie (maszynowo lub drukowanymi literami). Pozycje wniosku niewypełniane oznacza są poziomą kreską.
-W przypadku stowarzyszeń lub fundacji posiadających oddziały lub terenowe jednostki organizacyjne podmiotem jest naczelny organ statutowy tych organizacji, jeżeli oddział lub terenowa jednostka (składowania) takich rzeczy, a następnie pozbawiania takich rzeczy bojowych cech użytkowych, wraz z kopią koncesji wyżej wymienionego podmiotu w tym zakresie: • nazwa .............................................................................................................
+6. W przypadku wnioskowania o broń lub inne uzbrojenie – dane podmiotu odbierającego przydzielone mienie, który posiada koncesję uprawniającą do transportu, przechowywania Każdą pozycję wniosku wypełnia się czytelnie (maszynowo lub drukowanymi literami). Pozycje wniosku niewypełniane oznacza są poziomą kreską.
+W przypadku stowarzyszeń lub fundacji posiadających oddziały lub terenowe jednostki organizacyjne podmiotem jest naczelny organ statutowy tych organizacji, jeżeli oddział lub terenowa jednostka organizacyjna nie posiada osobowości prawnej.
+(składowania) takich rzeczy, a następnie pozbawiania takich rzeczy bojowych cech użytkowych, wraz z kopią koncesji wyżej wymienionego podmiotu w tym zakresie: • nazwa .............................................................................................................
 • adres ...............................................................................................................
 • numer koncesji i rok jej wydania ...................................................................
 • telefon kontaktowy ........................................................................................
 II. Wykaz mienia ruchomego, o które występuje podmiot Lp. Nazwa mienia Ilość Miejsce odbioru III. Informacja o zadaniach realizowanych przez podmiot
-1. Podmiot prowadzi działalność jako: Wyszczególnienie Pole wyboru Stowarzyszenie posiadające uzgodnienie, o którym mowa w art. 45 ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U.
+1. Podmiot prowadzi działalność jako: Wyszczególnienie Pole wyboru Stowarzyszenie posiadające uzgodnienie, o którym mowa w art. 45 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U.
 z 2017 r. poz. 210, z późn. zm.) Szkoła z klasami mundurowymi o profilu wojskowym Szkoła z klasami mundurowymi o innym profilu niż wojskowy Organizacja, fundacja lub stowarzyszenie powołane do ochrony mienia oraz życia i zdrowia ludzi Muzeum wojskowości, dla którego Minister Obrony Narodowej jest organem założycielskim Państwowa lub samorządowa instytucja kultury Pozostałe muzea wojskowości Inny podmiot ……………………………………………………………………… Zaznaczyć właściwe.
 Wskazać jaki.
-2. Opis działalności prowadzonej przez podmiot Liczba członków Liczba uczniów Opis prowadzonej działalności IV. Cel pozyskania wnioskowanego mienia ruchomego Cel pozyskania wnioskowanego mienia ruchomego Wzmocnienie systemu obronnego państwa oraz szkolenie proobronne Promocja służby wojskowej, w tym służby w Wojskach Obrony Terytorialnej, a także wspieranie i doskonalenie umiejętności żołnierzy rezerwy Podtrzymywanie tradycji narodowych i patriotycznych Wsparcie przedsięwzięć aktywizujących społeczeństwo do budowy obywatelskiego zaplecza Sił Zbrojnych Rzeczypospolitej Polskiej Ochrona mienia i/lub życia Ochrona zdrowia Działalność na rzecz byłych żołnierzy (rezerwistów), weteranów, uczestników misji poza granicami kraju, a także ich rodzin Edukacja obronna Organizacje pozarządowe podają liczbę członków organizacji, a szkoły prowadzące innowację pedagogiczną związaną z obronnością lub bezpieczeństwem państwa liczbę uczniów klas objętych innowacją.
+2. Opis działalności prowadzonej przez podmiot Liczba członków Liczba uczniów Opis prowadzonej działalności IV. Cel pozyskania wnioskowanego mienia ruchomego Cel pozyskania wnioskowanego mienia ruchomego Wzmocnienie systemu obronnego państwa oraz szkolenie proobronne Promocja służby wojskowej, w tym służby w Wojskach Obrony Terytorialnej, a także wspieranie i doskonalenie umiejętności żołnierzy rezerwy Podtrzymywanie tradycji narodowych i patriotycznych Wsparcie przedsięwzięć aktywizujących społeczeństwo do budowy obywatelskiego zaplecza Sił Zbrojnych Rzeczypospolitej Polskiej Ochrona mienia i/lub życia Ochrona zdrowia Działalność na rzecz byłych żołnierzy (rezerwistów), weteranów, uczestników misji poza granicami kraju, a także ich rodzin Edukacja obronna Organizacje pozarządowe podają liczbę członków organizacji, a szkoły prowadzące innowację pedagogiczną związaną z obronnością lub bezpieczeństwem państwa – liczbę uczniów klas objętych innowacją.
 Zaznaczyć właściwe.
-Wsparcie kultury fizycznej w Siłach Zbrojnych Rzeczypospolitej Polskiej Wsparcie przedsięwzięć w zakresie przeciwdziałania uzależnieniom i patologii społecznej V. Działalność podmiotu. Własne inicjatywy, przedsięwzięcia oraz projekty zrealizowane w ciągu ostatnich 10 lat przez podmiot, związane z obronnością lub bezpieczeństwem państwa Dokumenty Nazwa Termin Charakterystyka potwierdzające Lp. zrealizowanego realizacji (opis) przedsięwzięcia realizację przedsięwzięcia przedsięwzięcia Załącznik nr ……… Załącznik nr ……… Załącznik nr ……… Załącznik nr ……… Załącznik nr ……… Załącznik nr ……… VI. Mienie dotychczas przekazane nieodpłatnie przez Ministra Obrony Narodowej Numer zbiorczego Data Lp. Nazwa otrzymanego mienia Ilość zestawienia otrzymania lub wykazu Dokumentacja fotograficzna, listy polecające, sprawozdania, zawarte umowy lub porozumienia dołączane do składanego wniosku.
+Wsparcie kultury fizycznej w Siłach Zbrojnych Rzeczypospolitej Polskiej Wsparcie przedsięwzięć w zakresie przeciwdziałania uzależnieniom i patologii społecznej V. Działalność podmiotu. Własne inicjatywy, przedsięwzięcia oraz projekty zrealizowane w ciągu ostatnich 10 lat przez podmiot, związane z obronnością lub bezpieczeństwem państwa Dokumenty Nazwa Termin Charakterystyka potwierdzające Lp. zrealizowanego realizacji (opis) przedsięwzięcia realizację przedsięwzięcia przedsięwzięcia Załącznik nr ……… Załącznik nr ……… Załącznik nr ……… Załącznik nr ……… Załącznik nr ……… Załącznik nr ……… VI. Mienie dotychczas przekazane nieodpłatnie przez Ministra Obrony Narodowej Numer zbiorczego Data Lp. Nazwa otrzymanego mienia Ilość zestawienia otrzymania lub wykazu Dokumentacja fotograficzna, listy polecające, sprawozdania, zawarte umowy lub porozumienia – dołączane do składanego wniosku.
 VII. Posiadane przez podmiot własne zasoby sprzętowe (zbiory muzealne) Nazwa zasobu sprzętowego Jednostka Lp. Ilość lub zbioru muzealnego miary VIII. Przebieg dotychczasowej współpracy podmiotu z Siłami Zbrojnymi Rzeczypospolitej Polskiej lub państwowymi i samorządowymi jednostkami organizacyjnymi, związanej z obronnością lub bezpieczeństwem państwa Dokumenty Nazwa Termin potwierdzające Lp. zrealizowanego Charakterystyka (opis) przedsięwzięcia realizacji realizację przedsięwzięcia przedsięwzięcia Załącznik nr …… Załącznik nr …… Załącznik nr …… Załącznik nr …… Załącznik nr …… Załącznik nr …… ..................................................................................................................................
 Dotyczy organizacji pozarządowej oraz muzeum założonego przez osobę fizyczną lub podmiot niebędący jednostką sektora finansów publicznych. W zestawieniu ujmuje się mienie, które nie zostało nieodpłatnie przekazane przez Ministerstwo Obrony Narodowej.
 Maksymalnie 21 przedsięwzięć.
-Dokumentacja fotograficzna, listy polecające, sprawozdania, zawarte umowy lub porozumienia dołączane do składanego wniosku.
-Wniosek podpisuje osoba uprawniona do reprezentowania podmiotu w Krajowym Rejestrze Sądowym lub ujęta w innym dokumencie. W przypadku złożenia wniosku przez ePUAP podpis potwierdzony profilem zaufanym ePUAP lub bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.
+Dokumentacja fotograficzna, listy polecające, sprawozdania, zawarte umowy lub porozumienia – dołączane do składanego wniosku.
+Wniosek podpisuje osoba uprawniona do reprezentowania podmiotu w Krajowym Rejestrze Sądowym lub ujęta w innym dokumencie. W przypadku złożenia wniosku przez ePUAP – podpis potwierdzony profilem zaufanym ePUAP lub bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.
 DOKUMENTY DOŁĄCZANE DO WNIOSKU Podmiot ubiegający się o przekazanie mienia ruchomego do wniosku dołącza następujące dokumenty :
 1. państwowe i samorządowe instytucje kultury:
 a) akt utworzenia państwowej lub samorządowej instytucji kultury,
@@ -107,11 +108,11 @@ a) akt utworzenia,
 b) statut lub wyciąg ze statutu dotyczący reprezentacji szkoły i zakresu działania,
 c) dokument potwierdzający umocowanie do podpisywania umów, w tym do zaciągania zobowiązań,
 d) dokument stwierdzający powierzenie obowiązków na stanowisku dyrektora szkoły,
-e) w przypadku gdy szkoła prowadzi innowację pedagogiczną związaną z działalnością na rzecz obronności lub bezpieczeństwa państwa dokument potwierdzający prowadzenie innowacji pedagogicznej;
-3. państwowe jednostki organizacyjne akt utworzenia;
-4. jednostki samorządu terytorialnego wykaz zadań realizowanych na rzecz obronności lub bezpieczeństwa państwa;
+e) w przypadku gdy szkoła prowadzi innowację pedagogiczną związaną z działalnością na rzecz obronności lub bezpieczeństwa państwa – dokument potwierdzający prowadzenie innowacji pedagogicznej;
+3. państwowe jednostki organizacyjne – akt utworzenia;
+4. jednostki samorządu terytorialnego – wykaz zadań realizowanych na rzecz obronności lub bezpieczeństwa państwa;
 5. organizacje pozarządowe prowadzące działalność pożytku publicznego:
-a) odpis z Krajowego Rejestru Sądowego, a w przypadku gdy podmiot nie jest wpisany do Krajowego Rejestru Sądowego dokument potwierdzający wpis do innego rejestru lub innej ewidencji ,
+a) odpis z Krajowego Rejestru Sądowego, a w przypadku gdy podmiot nie jest wpisany do Krajowego Rejestru Sądowego – dokument potwierdzający wpis do innego rejestru lub innej ewidencji ,
 b) statut,
 c) dokument potwierdzający uzgodnienie zakresu działania stowarzyszenia z Ministrem Obrony Narodowej lub z ministrem właściwym do spraw wewnętrznych ;
 6. muzeum utworzone przez osobę fizyczną lub podmiot niebędący jednostką sektora finansów publicznych:
@@ -122,7 +123,7 @@ a) statut (regulamin) wraz z potwierdzeniem uzgodnienia jego treści z ministrem
 b) dokumenty potwierdzające prowadzenie przedsięwzięć udostępniających zasoby muzeum społeczeństwu lub prowadzenie innych inicjatyw potwierdzających dążenie do otwarcia wystawy stałej, W odniesieniu do kopii dokumentów jest wymagane potwierdzenie ich zgodności z oryginałem przez umieszczenie na nich informacji w tym zakresie oraz podpisu osoby podpisującej wniosek.
 Zaznaczyć właściwe dla funkcjonowania jego formy.
 Wydruk z ewidencji Krajowego Rejestru Sądowego nie wymaga potwierdzania jego zgodności z oryginałem.
-Dotyczy stowarzyszeń posiadających uzgodnienie, o którym mowa w art. 45 ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2017 r. poz. 210, z późn. zm.).
+Dotyczy stowarzyszeń posiadających uzgodnienie, o którym mowa w art. 45 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2017 r. poz. 210, z późn. zm.).
 c) oświadczenie o spełnieniu wymogów określonych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, dotyczących zabezpieczenia zbiorów muzeum przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym ich zniszczeniem lub utratą;
-8. w przypadku wnioskowania o mienie koncesjonowane koncesję podmiotu wymienionego w pkt I ppkt 6 wniosku.
+8. w przypadku wnioskowania o mienie koncesjonowane – koncesję podmiotu wymienionego w pkt I ppkt 6 wniosku.
 

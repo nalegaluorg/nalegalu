@@ -8,7 +8,7 @@ pos: 649
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 34/99 Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący Stefan J. Jaworski Wiesław Johann Krzysztof Kolasiński Jadwiga Skórzewska-Łosiak – sprawozdawca Joanna Szymczak – protokolant po rozpoznaniu 26 czerwca 2000 r. na rozprawie sprawy z wniosku grupy posłów, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej, Ministra Spraw Wewnętrznych i Administracji oraz Prokuratora Generalnego o stwierdzenie niezgodności:

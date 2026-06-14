@@ -8,7 +8,7 @@ pos: 51
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie wykonania niektórych przepisów ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne wyniku wprowadzenia stanu wojennego.
@@ -24,7 +24,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990070051) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/51/text.pdf) |
 
-Na podstawie art. 3 i art. 7 ust. 3 ustawy z dnia 25 października 1990 r. o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego (Dz.U. z 1996 r. Nr 143, poz. 661, z 1997 r. Nr 82, poz. 518 i z 1998 r. Nr 162, poz. 1113) zarządza się, co następuje: § 1.
+Na podstawie art. 3 i art. 7 ust. 3 ustawy z dnia 25 października 1990 r. o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego (Dz.U. z 1996 r. Nr 143, poz. 661, z 1997 r. Nr 82, poz. 518 i z 1998 r. Nr 162, poz. 1113) zarządza się, co następuje:
+§ 1.
 Ilekroć w rozporządzeniu jest nowa, bez bliższego określenia, o:
 1) ustawie - rozumie się przez to ustawę z dnia 25 października 1990 r. o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego (Dz.U. z 1996 r. Nr 143, poz. 661, z 1997 r. Nr 82, poz. 518 i z 1998 r.
 Nr 162, poz. 1113),

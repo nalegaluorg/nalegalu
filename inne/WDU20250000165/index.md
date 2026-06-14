@@ -8,7 +8,7 @@ pos: 165
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu Narodowego Dnia Pamięci Żołnierzy Armii Krajowej W hołdzie żołnierzom Armii Krajowej – największej konspiracyjnej armii w podbitej przez Niemcy i Rosję Europie, armii, która jako zbrojne ramię Polskiego Państwa Podziemnego prowadziła bohaterską walkę o odzyskanie przez Rzeczpospolitą Polską suwerenności i niepodległości, a której żołnierze po II wojnie światowej byli prześladowani przez władze komunistyczne zależne od Związku Sowieckiego – stanowi się, co następuje:

@@ -8,7 +8,7 @@ pos: 2049
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Prawo przewozowe oraz ustawy o żegludze śródlądowej

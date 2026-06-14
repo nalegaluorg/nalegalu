@@ -8,10 +8,10 @@ pos: 2202
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2202 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 15 listopada 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2202/text.pdf) |
 
-Poz. 2202 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 15 listopada 2017 r.
-w sprawie czynności policji sądowej, wykonywanych przez żołnierzy Żandarmerii Wojskowej Na podstawie art. 20 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244, 768 i 1086) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie czynności policji sądowej, wykonywanych przez żołnierzy Żandarmerii Wojskowej Na podstawie art. 20 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2016 r. poz. 1483 i 1948 oraz z 2017 r. poz. 244, 768 i 1086) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) zakres czynności policji sądowej, wykonywanych przez żołnierzy Żandarmerii Wojskowej w sądach wojskowych i w powszechnych jednostkach organizacyjnych prokuratury, w których utworzono komórki organizacyjne do spraw wojskowych, zwanych dalej „sądami” i „prokuraturami”;
 2) sposób wykonywania czynności, o których mowa w pkt 1, w tym:
 a) usytuowanie policji sądowej,
@@ -43,7 +43,7 @@ c) sposób jej współdziałania z sądami wojskowymi i prokuratorami do spraw w
 3) pełnienie służby w pomieszczeniach sądów i prokuratur;
 4) ochronę bezpośrednią sędziów i prokuratorów oraz innych osób w czasie wykonywania przez nich czynności wynikających z realizacji zadań wymiaru sprawiedliwości;
 5) usuwanie z pomieszczeń sądów i prokuratur osób naruszających powagę sądu lub zakłócających porządek publiczny.
-Dziennik Ustaw – 2 – Poz. 2202 § 4. 1. Komendant oddziału Żandarmerii Wojskowej wyznacza żołnierzy Żandarmerii Wojskowej do wykonywania zadań policji sądowej na wniosek prezesa sądu wojskowego, Zastępcy Prokuratora Generalnego do Spraw Wojskowych, zastępcy prokuratora okręgowego do spraw wojskowych lub zastępcy prokuratora rejonowego do spraw wojskowych.
+§ 4. 1. Komendant oddziału Żandarmerii Wojskowej wyznacza żołnierzy Żandarmerii Wojskowej do wykonywania zadań policji sądowej na wniosek prezesa sądu wojskowego, Zastępcy Prokuratora Generalnego do Spraw Wojskowych, zastępcy prokuratora okręgowego do spraw wojskowych lub zastępcy prokuratora rejonowego do spraw wojskowych.
 2. Wniosek, który przekazuje się nie później niż w terminie 7 dni przed rozpoczęciem czynności, zawiera:
 1) termin realizacji czynności;
 2) proponowaną liczebność policji sądowej;

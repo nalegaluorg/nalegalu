@@ -8,7 +8,7 @@ pos: 927
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
@@ -32,6 +32,10 @@ source: "isap-pdf"
 **Art. 2.** Dokończenie budowy Zbiornika jest finansowane w latach 2016–2017.
 
 **Art. 3.** W ramach dokończenia budowy Zbiornika realizuje się zadania dotyczące:
+
+- **1)** Zbiornika;
+- **2)** przebudowy dróg;
+- **3)** przeciwdziałania osuwiskom ziemi i likwidowania ich skutków dla środowiska.
 
 **Art. 4.**
 

@@ -8,10 +8,10 @@ pos: 1525
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1525 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 28 lipca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001525) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1525/text.pdf) |
 
-Poz. 1525 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 28 lipca 2017 r.
 zmieniające rozporządzenie w sprawie ogólnych warunków technicznych eksploatacji pojazdów kolejowych Na podstawie art. 20 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727, z późn.
-zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Infrastruktury z dnia 12 października 2005 r. w sprawie ogólnych warunków technicznych eksploatacji pojazdów kolejowych (Dz. U. z 2016 r. poz. 226) wprowadza się następujące zmiany:
+zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 12 października 2005 r. w sprawie ogólnych warunków technicznych eksploatacji pojazdów kolejowych (Dz. U. z 2016 r. poz. 226) wprowadza się następujące zmiany:
 1) w § 13 uchyla się ust. 3;
 2) w § 17:
 a) ust. 2 otrzymuje brzmienie: „2. Przewoźnicy kolejowi, zarządcy infrastruktury, producenci, przedsiębiorcy zarządzający infrastrukturą i wykonujący przewozy w metrze, użytkownicy bocznic kolejowych i przedsiębiorcy wykonujący przewozy w obrębie bocznicy kolejowej występują do Prezesa Urzędu Transportu Kolejowego z wnioskiem o zatwierdzenie dokumentacji systemu utrzymania pojazdów kolejowych.”,
@@ -35,7 +35,6 @@ b) uchyla się ust. 6,
 c) ust. 7 i 8 otrzymują brzmienie: „7. Zamiar dokonania zmian w dokumentacji systemu utrzymania pojazdów kolejowych wraz z opisem projektowanych zmian należy zgłosić Prezesowi Urzędu Transportu Kolejowego. Prezes Urzędu Transportu Kolejowego może zażądać przedłożenia do zatwierdzenia projektowanych zmian, w terminie miesiąca od dnia otrzymania zgłoszenia, jeżeli uzna, że mogą one mieć wpływ na bezpieczeństwo ruchu kolejowego.
 8. W przypadku, o którym mowa w ust. 7, jeżeli dokumentacja systemu utrzymania podlega zatwierdzeniu przez Prezesa Urzędu Transportu Kolejowego, przepisy ust. 2–5 stosuje się odpowiednio.”,
 d) uchyla się ust. 9;
-Dziennik Ustaw – 2 – Poz. 1525
 3) po § 17 dodaje się § 17a w brzmieniu: „§ 17a. Przepisów § 13, § 17 oraz załącznika nr 3 do rozporządzenia nie stosuje się do pojazdów kolejowych:
 1) podlegających obowiązkowi wpisu do krajowego rejestru pojazdów kolejowych (NVR);
 2) kolei wąskotorowych;

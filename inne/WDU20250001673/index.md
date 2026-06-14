@@ -8,10 +8,10 @@ pos: 1673
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# zmianie ochronie zabytków i opiece nad zabytkami oraz niektórych innych ustaw
+# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 października 2025 r.*
 
@@ -27,35 +27,156 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001673) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1673/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 lipca 2003 r. ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080 i 1535) wprowadza następujące zmiany:
+- **1)** w art. 36:
+    - **a)** w ust. 1: – po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „1a) prowadzenie robót górniczych przy zabytku wpisanym do rejestru;
 
-**Art. 3.** W ustawie z dnia 16 kwietnia 2004 r. ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r. poz. 884) wprowadza następujące zmiany:
+- **1b)** usunięcie drzewa lub krzewu z nieruchomości lub jej części będącej wpisanym do rejestru parkiem, ogrodem lub inną formą zaprojektowanej zieleni z innego powodu niż prowadzenie prac konserwatorskich i restauratorskich, o których mowa w pkt 1;”, – uchyla się pkt 2, – uchyla się pkt 7, – uchyla się pkt 9–11, poz. 1478 i 1940 oraz z 2025 r. poz. 884), albo dokonanie zgłoszenia, o którym mowa w art. 83f ust. 4 tej ustawy, wojewódzki konserwator zabytków rozstrzyga w sprawie usunięcia drzewa lub krzewu w pozwoleniu, o którym mowa w ust. 1 pkt 1 albo 1b. Nie wydaje się zezwolenia, o którym mowa w art. 83 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, oraz nie dokonuje się zgłoszenia, o którym mowa w art. 83f ust. 4 tej ustawy. Do wydania decyzji w sprawie pozwolenia stosuje się odpowiednio przepisy art. 83a ust. 2a–6, art. 83c, art. 83d ust. 1–4 i 6, art. 84 ust. 1–3, art. 85 ust. 1–4 i 5–7 oraz art. 86 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. 1ab. W przypadku, o którym mowa w ust. 1aa, opłatę za usunięcie drzewa lub krzewu ustala się, przyjmując wysokość stawek określoną w przepisach wydanych na podstawie art. 85 ust. 4b ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. Do uiszczenia opłat za usunięcie drzewa lub krzewu stosuje się art. 87 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. 1ac. Jeżeli przyczyną usunięcia drzewa lub krzewu jest realizacja inwestycji wymagającej uzyskania pozwolenia na prowadzenie robót budowlanych, o którym mowa w ust. 1 pkt 1, lub pozwolenia na rozbiórkę, pozwolenia na budowę albo dokonania zgłoszenia robót budowlanych zgodnie z przepisami Prawa budowlanego, pozwolenie na usunięcie drzewa lub krzewu wykonuje się pod warunkiem uzyskania pozwoleń na prowadzenie robót budowlanych lub dokonania zgłoszenia robót budowlanych, które kolidują z drzewami lub krzewami, będącymi przedmiotem zezwolenia. Przepisu nie stosuje się do inwestycji liniowych celu publicznego. 1ad. Jeżeli w terminie 5 lat od dnia, w którym pozwolenie dotyczące usunięcia drzewa lub krzewu z nieruchomości stanowiącej własność osoby fizycznej na cele niezwiązane z prowadzeniem działalności gospodarczej stało się ostateczne, wystąpiono o wydanie decyzji o pozwolenie na budowę albo dokonano zgłoszenia budowy lub wykonywania innych robót budowlanych zgodnie z przepisami Prawa budowlanego, a budowa lub roboty budowlane mają związek z prowadzeniem działalności gospodarczej i będą realizowane na części nieruchomości, na której rosło usunięte drzewo, stosuje się odpowiednio przepisy art. 83f ust. 17–20 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. 1ae. W przypadkach, o których mowa w art. 83f ust. 1 pkt 13 i 14 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, nie wydaje się pozwolenia, o którym mowa w ust. 1 pkt 1b. 1af. W przypadku uzależnienia wydania pozwolenia, na podstawie ust. 1aa, od przesadzenia drzewa lub krzewu albo wykonania nasadzeń zastępczych oraz odroczenia opłaty za usunięcie drzewa lub krzewu, stosuje się odpowiednio przepisy art. 84 ust. 4–8 oraz art. 86 ust. 2 i 3 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody.”, Przepisy art. 83e ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody stosuje się odpowiednio.”;
+    - **b)** po ust. 1a dodaje się ust. 1aa–1af w brzmieniu: „1aa. W przypadku gdy pozwolenie, o którym mowa w ust. 1 pkt 1, obejmuje usunięcie drzewa lub krzewu oraz w przypadku pozwolenia, o którym mowa w ust. 1 pkt 1b, jeżeli jednocześnie jest wymagane uzyskanie zezwolenia, o którym mowa w art. 83 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r.
+    - **c)** w ust. 4 skreśla się wyrazy „9 i 11,”,
+    - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Pozwolenie, o którym mowa w ust. 1 pkt 1b, może być wydane również na wniosek właściciela urządzeń, o których mowa w art. 49 § 1 Kodeksu cywilnego, jeżeli drzewo lub krzew zagrażają funkcjonowaniu tych urządzeń.
 
-**Art. 4.** W ustawie z dnia 13 lipca 2023 r. zmianie ochronie zabytków i opiece nad zabytkami (Dz. U. poz. 1904, z 2024 r. poz. 647 oraz z 2025 r. poz. 537) 1:
+- **2)** po art. 36a dodaje się art. 36aa w brzmieniu: „Art. 36aa. 1. Zgłoszenia wojewódzkiemu konserwatorowi zabytków wymaga:
+- **1)** wykonywanie robót budowlanych w otoczeniu zabytku;
+- **2)** trwałe przeniesienie zabytku ruchomego wpisanego do rejestru, z naruszeniem ustalonego tradycją wystroju wnętrza, w którym zabytek ten się znajduje;
+- **3)** zmiana przeznaczenia zabytku wpisanego do rejestru lub sposobu korzystania z tego zabytku;
+- **4)** umieszczenie na zabytku wpisanym do rejestru: urządzeń technicznych, tablic reklamowych lub urządzeń reklamowych w rozumieniu art. 2 pkt 16b i 16c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527, 680 i 1668) oraz napisów, z zastrzeżeniem art. 12 ust. 1;
+- **5)** podejmowanie innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku wpisanego do rejestru, z wyłączeniem działań polegających na usuwaniu drzew lub krzewów z nieruchomości lub jej części wpisanej do rejestru zabytków, lecz niebędącej parkiem, ogrodem lub inną formą zaprojektowanej zieleni.
+
+2. Zgłoszenia dokonuje osoba fizyczna lub jednostka organizacyjna, o której mowa w art. 36 ust. 5, zamierzająca prowadzić działania, o których mowa w ust. 1.
+
+3. Wojewódzki konserwator zabytków wnosi sprzeciw, w drodze decyzji, w terminie 60 dni od dnia doręczenia zgłoszenia.
+
+4. Do realizacji działań, o których mowa w ust. 1, można przystąpić, jeżeli wojewódzki konserwator zabytków nie wniósł sprzeciwu w terminie, o którym mowa w ust. 3.
+
+5. Wojewódzki konserwator zabytków może z urzędu, przed upływem terminu, o którym mowa w ust. 3, wydać zaświadczenie o braku podstaw do wniesienia sprzeciwu. Wydanie zaświadczenia wyłącza możliwość wniesienia sprzeciwu oraz uprawnia do rozpoczęcia działań.
+
+6. W przypadku nierozpoczęcia działań, o których mowa w ust. 1, przed upływem 2 lat od określonego w zgłoszeniu terminu ich rozpoczęcia rozpoczęcie tych działań wymaga dokonania ponownego zgłoszenia.
+
+7. W razie konieczności uzupełnienia zgłoszenia wojewódzki konserwator zabytków nakłada na zgłaszającego, w drodze postanowienia, obowiązek uzupełnienia, w określonym terminie, brakujących dokumentów lub informacji. Nałożenie obowiązku przerywa bieg terminu, o którym mowa w ust. 3. Termin ten biegnie na nowo od dnia następującego po dniu doręczenia organowi dokumentów lub informacji określonych w postanowieniu. W przypadku niewykonania obowiązku uzupełnienia brakujących dokumentów lub informacji wojewódzki konserwator zabytków wnosi sprzeciw w terminie 60 dni od dnia następującego po dniu, w którym upłynął termin wykonania tego obowiązku.
+
+8. Wojewódzki konserwator zabytków wnosi sprzeciw, jeżeli:
+
+- **1)** zgłoszenie dotyczy działań objętych obowiązkiem uzyskania pozwolenia, o którym mowa w art. 36 ust. 1;
+- **2)** zgłoszenie dotyczy działań już rozpoczętych lub wykonanych;
+- **3)** zgłoszone roboty budowlane naruszają ustalenia ochrony zabytków w miejscowym planie zagospodarowania przestrzennego, decyzji o warunkach zabudowy lub innych decyzji, o których mowa w art. 7 pkt 4;
+- **4)** zgłoszone działania są niezgodne z przepisami uchwały, o której mowa w art. 37a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+- **5)** zgłoszone działania naruszają warunki, zakazy lub ograniczenia określone w uchwale o utworzeniu parku kulturowego;
+- **6)** zgłoszone działania spowodują:
+    - **a)** uszczerbek dla wartości zabytku lub
+    - **b)** uszkodzenie lub zniszczenie zabytku, lub
+    - **c)** niewłaściwe korzystanie z zabytku.
+
+9. Za dzień wniesienia sprzeciwu uznaje się dzień określony w art. 122b Kodeksu postępowania administracyjnego.
+
+10. Wojewódzki konserwator zabytków może wnieść sprzeciw i nałożyć w nim obowiązek uzyskania pozwolenia na prowadzenie działań, o których mowa w ust. 1, jeżeli ich realizacja mogłaby spowodować:
+
+- **1)** uszczerbek dla wartości zabytku lub
+- **2)** uszkodzenie lub zniszczenie zabytku, lub
+- **3)** niewłaściwe korzystanie z zabytku, lub
+- **4)** zagrożenie dla zabytku kradzieżą, zaginięciem lub nielegalnym wywozem za granicę.
+
+11. W przypadku gdy wojewódzki konserwator zabytków nie wniósł sprzeciwu, na wniosek zgłaszającego wydaje zaświadczenie o niezgłoszeniu sprzeciwu.
+
+12. Do zgłoszeń stosuje się odpowiednio przepisy rozdziałów 12 i 13 w dziale II Kodeksu postępowania administracyjnego. Na potrzeby stosowania przepisów, o których mowa w zdaniu pierwszym, przyjmuje się, że w przypadku bezskutecznego upływu terminu, o którym mowa w ust. 3, wojewódzki konserwator zabytków orzekł ostatecznie o przyjęciu zgłoszenia w dniu następującym po upływie tego terminu.
+
+13. Osoba fizyczna lub jednostka organizacyjna, o której mowa w art. 36 ust. 5, zamierzająca prowadzić działania, o których mowa w ust. 1, zamiast dokonania zgłoszenia może wystąpić z wnioskiem o wydanie pozwolenia na prowadzenie tych działań.
+
+14. Zgłoszenie zawiera:
+
+- **1)** wskazanie osoby fizycznej lub jednostki organizacyjnej, o której mowa w art. 36 ust. 5, zamierzającej prowadzić działania, o których mowa w ust. 1, dokonującej zgłoszenia oraz jej adres zamieszkania lub siedziby;
+- **2)** wskazanie zabytku, z uwzględnieniem miejsca jego położenia lub przechowywania lub miejsca prowadzenia robót budowlanych, o których mowa w ust. 1 pkt 1;
+- **3)** pełnomocnictwo, jeżeli zgłaszający działa przez pełnomocnika;
+- **4)** inne informacje i dokumenty określone w przepisach wydanych na podstawie art. 37 ust. 1 pkt 2.
+
+15. Dokonanie zgłoszenia wojewódzkiemu konserwatorowi zabytków nie zwalnia z obowiązku uzyskania pozwolenia na budowę albo dokonania zgłoszenia, w przypadkach określonych przepisami Prawa budowlanego.”;
+
+- **3)** w art. 37:
+    - **a)** w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „1) tryb wydawania pozwoleń, o których mowa w art. 36 ust. 1–1aa oraz art. 36aa ust. 10, oraz dokonywania zgłoszeń, o których mowa w art. 36aa ust. 1;
+
+- **2)** dane i informacje, które zawierają wnioski o wydanie pozwoleń, o których mowa w art. 36 ust. 1–1aa oraz art. 36aa ust. 10, oraz zgłoszenia, o których mowa w art. 36aa ust. 1, oraz dokumentację dołączaną do wniosków i zgłoszeń, niezbędną do ich rozpatrzenia;”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) wzory wniosków o wydanie pozwoleń, o których mowa w art. 36 ust. 1–1aa oraz art. 36aa ust. 10, oraz zgłoszeń, o których mowa w art. 36aa ust. 1;”, – pkt 3 otrzymuje brzmienie: „3) dane i informacje, które zawierają pozwolenia, o których mowa w art. 36 ust. 1–1aa oraz art. 36aa ust. 10, oraz warunki, które mogą zostać w nich zastrzeżone;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Tryb wydawania pozwoleń i dokonywania zgłoszeń, o których mowa w ust. 1 pkt 1, określa się, uwzględniając właściwość organów do ich wydawania oraz konieczność zapewnienia sprawności prowadzonego postępowania.”,
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Wzory wniosków i zgłoszeń, o których mowa w ust. 1 pkt 2a, określa się, uwzględniając konieczność zapewnienia przejrzystości danych podawanych przy ich wypełnianiu.”;
+
+- **4)** w art. 43:
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) robót budowlanych przy zabytku wpisanym do rejestru;”, – po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) robót górniczych;
+
+- **2b)** działań, o których mowa w art. 36 ust. 1 pkt 1b;”, – pkt 4 otrzymuje brzmienie: „4) działań, o których mowa w art. 36 ust. 1 pkt 6 i 8, przy zabytku wpisanym do rejestru;”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wojewódzki konserwator zabytków wydaje decyzję o wstrzymaniu działań, o których mowa w art. 36aa ust. 1, prowadzonych:
+
+- **1)** bez wymaganego zgłoszenia albo
+- **2)** pomimo wniesienia sprzeciwu od zgłoszenia, albo
+- **3)** w sposób niezgodny z dokonanym zgłoszeniem.”;
+- **5)** w art. 44:
+    - **a)** w ust. 1: – pkt 4 otrzymuje brzmienie: „4) zakazującej prowadzenia wstrzymanych działań, albo”, – dodaje się pkt 5 w brzmieniu: „5) nakładającej obowiązek podjęcia określonych czynności w celu doprowadzenia zabytku do jak najlepszego stanu, wskazując termin wykonania tych czynności.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadku nieuzyskania pozwolenia, o którym mowa w ust. 1 pkt 2, albo niewykonania obowiązku określonego w ust. 1 pkt 3, wojewódzki konserwator zabytków wydaje decyzję nakazującą przywrócenie zabytku do poprzedniego stanu lub uporządkowanie terenu albo decyzję nakładającą obowiązek podjęcia określonych czynności w celu doprowadzenia zabytku do jak najlepszego stanu, z określeniem terminu wykonania tych czynności.”,
+    - **c)** w ust. 4 wyrazy „ust. 1 pkt 1 i 3” zastępuje się wyrazami „ust. 1 pkt 1, 3 i 5”,
+    - **d)** dodaje się ust. 5 i 6 w brzmieniu: „5. Decyzja, o której mowa w ust. 1, nie zwalnia z obowiązku uzyskania pozwoleń, o których mowa w art. 36 ust. 1, albo dokonania zgłoszeń, o których mowa w art. 36aa ust. 1, jeżeli są wymagane.
+
+6. Przepisy ust. 1 pkt 1, 2, 4 i 5 oraz ust. 1a, 2 i 4 stosuje się odpowiednio do decyzji, o której mowa w art. 43 ust. 1a.”;
+
+- **6)** w art. 45:
+    - **a)** w ust. 1: – po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) roboty górnicze, 2b) działania, o których mowa w art. 36 ust. 1 pkt 1b,”, – w pkt 5 wyrazy „w art. 36 ust. 1 pkt 6–8 i 10–12” zastępuje się wyrazami „w art. 36 ust. 1 pkt 6, 8 i 12”,
+    - **b)** ust. 1a otrzymuje brzmienie: „1a. Jeżeli prace konserwatorskie lub restauratorskie, roboty budowlane, badania konserwatorskie, badania architektoniczne, roboty górnicze lub działania, o których mowa w art. 36 ust. 1 pkt 1b, 6, 8 i 12, wykonane przy zabytku wpisanym do rejestru bez wymaganego pozwolenia wojewódzkiego konserwatora zabytków lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu, nie powodują jego zniszczenia lub uszkodzenia lub innego uszczerbku dla wartości zabytku lub nie skutkują niewłaściwym korzystaniem z zabytku i nie zachodzi potrzeba uporządkowania terenu, wojewódzki konserwator zabytków wydaje decyzję o odstąpieniu od nałożenia obowiązków, o których mowa w ust. 1. Wojewódzki konserwator zabytków może w tej decyzji nałożyć obowiązek wykonania w określonym terminie, nie krótszym niż miesiąc, dokumentacji wykonanych prac, robót lub badań.”,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. Przepisy ust. 1 i 1a stosuje się odpowiednio w przypadku zrealizowania działań, o których mowa w art. 36aa ust. 1, bez wymaganego zgłoszenia albo pomimo wniesienia sprzeciwu od zgłoszenia, albo w sposób niezgodny z dokonanym zgłoszeniem.
+
+5. Decyzja, o której mowa w ust. 1, nie zwalnia z obowiązku uzyskania pozwoleń, o których mowa w art. 36 ust. 1, albo dokonania zgłoszeń, o których mowa w art. 36aa ust. 1, jeżeli są wymagane.”;
+
+- **7)** w art. 47 dodaje się ust. 5 i 6 w brzmieniu: „5. Wojewódzki konserwator zabytków może wydać decyzję o wstrzymaniu działań, o których mowa w art. 36aa ust. 1, wykonywanych na podstawie zgłoszenia, jeżeli w trakcie ich wykonywania wystąpiły nowe fakty lub okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku.
+
+6. Decyzja, o której mowa w ust. 5, wygasa, jeżeli w terminie 2 miesięcy od dnia jej doręczenia wojewódzki konserwator zabytków nie wyda decyzji nakazującej uzyskanie pozwolenia na wstrzymane działania, o których mowa w art. 36aa ust. 1.”;
+
+- **8)** w art. 107d ust. 1 i 2 otrzymują brzmienie: „1. Kto bez pozwolenia wojewódzkiego konserwatora zabytków podejmuje działania, o których mowa w art. 36 ust. 1 pkt 1–1b i 3–5, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.
+
+2. Kto podejmuje działania, o których mowa w art. 36 ust. 1 pkt 1–1b i 3–5, niezgodnie z zakresem lub warunkami określonymi w pozwoleniu wojewódzkiego konserwatora zabytków, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.”;
+
+- **9)** po art. 107d dodaje się art. 107da w brzmieniu: „Art. 107da. 1. Kto bez wymaganego zgłoszenia albo pomimo wniesienia sprzeciwu od zgłoszenia, albo w sposób niezgodny z dokonanym zgłoszeniem wykonuje roboty budowlane w otoczeniu zabytku, podlega karze pieniężnej w wysokości od 500 do 50 000 zł.
+
+2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji organ ochrony zabytków właściwy w sprawie zgłoszenia.”.
+
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080 i 1535) wprowadza się następujące zmiany:
+
+- **1)** w art. 29 w ust. 7 w części wspólnej po wyrazach „o ochronie zabytków i opiece nad zabytkami” dodaje się wyrazy „albo zaświadczenie wojewódzkiego konserwatora zabytków o dokonaniu zgłoszenia na podstawie przepisów o ochronie zabytków i opiece nad zabytkami, wobec którego wojewódzki konserwator zabytków nie wniósł sprzeciwu”;
+- **2)** w art. 36a:
+    - **a)** w ust. 5 w pkt 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „wymagającym uzyskania lub zmiany decyzji, pozwoleń, uzgodnień lub zgłoszeń, które są wymagane do uzyskania decyzji o pozwoleniu na budowę lub do dokonania zgłoszenia:”,
+    - **b)** w ust. 5b w pkt 2 lit. b otrzymuje brzmienie: „b) wymagań zawartych w pozwoleniu właściwego konserwatora zabytków wydanym na podstawie przepisów o ochronie zabytków i opiece nad zabytkami albo od treści zgłoszenia dokonanego do wojewódzkiego konserwatora zabytków, wobec którego wojewódzki konserwator zabytków nie wniósł sprzeciwu, jeżeli odstąpienie zostało uzgodnione z właściwym wojewódzkim konserwatorem zabytków.”;
+
+- **3)** w art. 39 ust. 1 otrzymuje brzmienie: „1. Prowadzenie robót budowlanych przy obiekcie budowlanym wpisanym do rejestru zabytków lub na obszarze wpisanym do rejestru zabytków wymaga, przed wydaniem decyzji o pozwoleniu na budowę albo przed dokonaniem zgłoszenia właściwemu organowi administracji architektoniczno-budowlanej, uzyskania odpowiednio pozwolenia na prowadzenie tych robót wydanego przez właściwego wojewódzkiego konserwatora zabytków albo dokonania do wojewódzkiego konserwatora zabytków zgłoszenia prowadzenia robót, wobec którego wojewódzki konserwator zabytków nie wniósł sprzeciwu.”.
+
+**Art. 3.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r. poz. 884) wprowadza się następujące zmiany:
+
+- **1)** w art. 83 dodaje się ust. 5 w brzmieniu: „5. Jeżeli usunięcie drzewa lub krzewu wymaga pozwolenia, o którym mowa w art. 36 ust. 1 pkt 1 albo 1b ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, w sprawie usunięcia drzewa lub krzewu wojewódzki konserwator zabytków rozstrzyga w tym pozwoleniu, stosując przepisy tej ustawy.”;
+- **2)** w art. 88 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) usunięcie drzewa lub krzewu bez wymaganego pozwolenia w przypadku, o którym mowa w art. 36 ust. 1aa ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;”.
+
+**Art. 4.** W ustawie z dnia 13 lipca 2023 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami (Dz. U. poz. 1904, z 2024 r. poz. 647 oraz z 2025 r. poz. 537) w art. 1:
+
+- **1)** pkt 6 otrzymuje brzmienie: „6) w art. 37 w ust. 1 w pkt 1–3 wyrazy „art. 36 ust. 1–1aa” zastępuje się wyrazami „art. 36 ust. 1–1aa i 1b”;”;
+- **2)** po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) w art. 45 w ust. 1 w pkt 5 oraz w ust. 1a wyrazy „ , 8 i 12” zastępuje się wyrazami „ i 8”;”.
 
 **Art. 5.**
 
 1. Do działań polegających na:
 
-- **1)** wykonywaniu robót budowlanych otoczeniu zabytku,
-- **2)** trwałym przeniesieniu zabytku ruchomego wpisanego do rejestru zabytków, z naruszeniem ustalonego tradycją wystroju wnętrza, którym zabytek ten znajduje,
-- **3)** zmianie przeznaczenia zabytku wpisanego do rejestru zabytków sposobu korzystania z tego zabytku,
-- **4)** umieszczeniu na zabytku wpisanym do rejestru zabytków: urządzeń technicznych, tablic reklamowych urządzeń reklamowych rozumieniu 2 16b i 16c z dnia 27 marca 2003 r. planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527, 680 i 1668) oraz napisów,
-- **5)** podejmowaniu innych działań, które mogłyby prowadzić do naruszenia substancji zmiany wyglądu zabytku wpisanego do rejestru zabytków – przypadku których przed dniem wejścia życie niniejszej wydano pozwolenie wojewódzkiego konserwatora zabytków, stosuje przepisy zmienianej 1, brzmieniu dotychczasowym.
+- **1)** wykonywaniu robót budowlanych w otoczeniu zabytku,
+- **2)** trwałym przeniesieniu zabytku ruchomego wpisanego do rejestru zabytków, z naruszeniem ustalonego tradycją wystroju wnętrza, w którym zabytek ten się znajduje,
+- **3)** zmianie przeznaczenia zabytku wpisanego do rejestru zabytków lub sposobu korzystania z tego zabytku,
+- **4)** umieszczeniu na zabytku wpisanym do rejestru zabytków: urządzeń technicznych, tablic reklamowych lub urządzeń reklamowych w rozumieniu art. 2 pkt 16b i 16c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527, 680 i 1668) oraz napisów,
+- **5)** podejmowaniu innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku wpisanego do rejestru zabytków – w przypadku których przed dniem wejścia w życie niniejszej ustawy wydano pozwolenie wojewódzkiego konserwatora zabytków, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
-2. Do postępowań sprawie wydania pozwolenia wojewódzkiego konserwatora zabytków na działania określone wszczętych i niezakończonych przed dniem wejścia życie niniejszej stosuje przepisy zmienianej 1, brzmieniu dotychczasowym.
+2. Do postępowań w sprawie wydania pozwolenia wojewódzkiego konserwatora zabytków na działania określone w ust. 1 wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
-3. Do postępowań sprawie usunięcia drzewa krzewu wszczętych i niezakończonych przed dniem wejścia życie niniejszej na podstawie przepisów ustaw zmienianych i 3 stosuje przepisy ustaw zmienianych i 3, brzmieniu dotychczasowym.
+3. Do postępowań w sprawie usunięcia drzewa lub krzewu wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów ustaw zmienianych w art. 1 i art. 3 stosuje się przepisy ustaw zmienianych w art. 1 i art. 3, w brzmieniu dotychczasowym.
 
-4. Pozwolenia, których 36 i 11 zmienianej 1, dotyczące usunięcia drzewa krzewu oraz zezwolenia na usunięcie drzewa krzewu wydane na podstawie zmienianej 3, wydane przed dniem wejścia życie niniejszej zachowują moc, a określone nich warunki, terminy i obowiązki, tym dotyczące opłat, nasadzeń zastępczych przesadzeń, podlegają wykonaniu na podstawie przepisów dotychczasowych.
+4. Pozwolenia, o których mowa w art. 36 ust. 1 pkt 1 i 11 ustawy zmienianej w art. 1, dotyczące usunięcia drzewa lub krzewu oraz zezwolenia na usunięcie drzewa lub krzewu wydane na podstawie ustawy zmienianej w art. 3, wydane przed dniem wejścia w życie niniejszej ustawy zachowują moc, a określone w nich warunki, terminy i obowiązki, w tym dotyczące opłat, nasadzeń zastępczych lub przesadzeń, podlegają wykonaniu na podstawie przepisów dotychczasowych.
 
-5. Do spraw, których 43–45 zmienianej 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej stosuje przepisy zmienianej 1, brzmieniu nadanym niniejszą ustawą. ustawy.
+5. Do spraw, o których mowa w art. 43–45 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Do spraw, których 29, 36a i 39 zmienianej 2, wszczętych i niezakończonych przed dniem wejścia życie niniejszej stosuje przepisy 29, 36a i 39 zmienianej 2, brzmieniu dotychczasowym.
+**Art. 6.** Przepis art. 107da ustawy zmienianej w art. 1 stosuje się do postępowań dotyczących naruszeń prawa rozpoczętych przed dniem wejścia w życie niniejszej ustawy w zakresie, w jakim to naruszenie trwa po dniu wejścia w życie niniejszej ustawy.
 
-**Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie 37 zmienianej zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 37 zmienianej 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane na podstawie przepisów dotychczasowych.
+**Art. 7.** Do spraw, o których mowa w art. 29, art. 36a i art. 39 ustawy zmienianej w art. 2, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 29, art. 36a i art. 39 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem 4, który wchodzi życie z dniem stycznia 2027 r.
+**Art. 8.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 37 ust. 1 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 37 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie przepisów dotychczasowych.
+
+**Art. 9.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 4, który wchodzi w życie z dniem 1 stycznia 2027 r.
 

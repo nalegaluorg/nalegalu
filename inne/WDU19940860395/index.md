@@ -8,7 +8,7 @@ pos: 395
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o uregulowaniu niektórych praw majątkowych Polskiej Akademii Nauk

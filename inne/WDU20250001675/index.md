@@ -8,7 +8,7 @@ pos: 1675
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
@@ -33,7 +33,58 @@ Art. 55–63. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i tryb zapobiegania oraz zwalczania zakażeń i chorób zakaźnych u ludzi, w tym zasady i tryb rozpoznawania i monitorowania sytuacji epidemiologicznej oraz podejmowania działań przeciwepidemicznych i zapobiegawczych w celu unieszkodliwienia źródeł zakażenia, przecięcia dróg szerzenia się zakażeń i chorób zakaźnych oraz uodpornienia osób podatnych na zakażenie;
+- **2)** zadania organów administracji publicznej w zakresie zapobiegania oraz zwalczania zakażeń i chorób zakaźnych u ludzi;
+- **3)** uprawnienia i obowiązki świadczeniodawców oraz osób przebywających na terytorium Rzeczypospolitej Polskiej w zakresie zapobiegania oraz zwalczania zakażeń i chorób zakaźnych u ludzi.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** badanie sanitarno-epidemiologiczne – badanie, w którego skład wchodzą badanie lekarskie, badania laboratoryjne oraz dodatkowe badania i konsultacje specjalistyczne, wykonywane w ramach nadzoru epidemiologicznego w celu wykrycia biologicznych czynników chorobotwórczych lub potwierdzenia rozpoznania choroby zakaźnej;
+- **2)** biologiczny czynnik chorobotwórczy – posiadające zdolność wywoływania objawów chorobowych drobnoustroje komórkowe lub wytwarzane przez nie produkty, zewnętrzne i wewnętrzne pasożyty człowieka lub wytwarzane przez nie produkty, cząstki bezkomórkowe zdolne do replikacji lub przenoszenia materiału genetycznego, w tym zmodyfikowane genetycznie hodowle komórkowe lub wytwarzane przez nie produkty;
+- **3)** choroba zakaźna – choroba, która została wywołana przez biologiczny czynnik chorobotwórczy;
+- **4)** choroba szczególnie niebezpieczna i wysoce zakaźna – choroba zakaźna łatwo rozprzestrzeniająca się, o wysokiej śmiertelności, powodująca szczególne zagrożenie dla zdrowia publicznego i wymagająca specjalnych metod zwalczania, w tym cholera, dżuma, ospa prawdziwa, wirusowe gorączki krwotoczne;
+- **5)** czynnik alarmowy – biologiczny czynnik chorobotwórczy o szczególnej zjadliwości lub oporności;
+- **6)** dekontaminacja – proces niszczenia biologicznych czynników chorobotwórczych przez mycie, dezynfekcję i sterylizację;
+- **7)** dezynfekcja – proces redukcji ilości biologicznych czynników chorobotwórczych przez zastosowanie metod fizycznych i chemicznych;
+- **8)** dochodzenie epidemiologiczne – wykrywanie zachorowań, czynnika etiologicznego oraz określanie przyczyn, źródeł, rezerwuarów i mechanizmów szerzenia się choroby zakaźnej lub zakażenia;
+- **9)** epidemia – wystąpienie na danym obszarze zakażeń lub zachorowań na chorobę zakaźną w liczbie wyraźnie większej niż we wcześniejszym okresie albo wystąpienie zakażeń lub chorób zakaźnych dotychczas niewystępujących;
+- **10)** informacje – dane nieobejmujące danych osobowych w rozumieniu przepisów o ochronie danych osobowych;
+- **10a)** instytut badawczy – instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080);
+- **11)** izolacja – odosobnienie osoby lub grupy osób chorych na chorobę zakaźną albo osoby lub grupy osób podejrzanych o chorobę zakaźną, w celu uniemożliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby;
+- **11a)** izolacja w warunkach domowych – odosobnienie osoby chorej z przebiegiem choroby zakaźnej niewymagającej bezwzględnej hospitalizacji ze względów medycznych w jej miejscu zamieszkania lub pobytu, w celu zapobieżenia szerzenia się chorób szczególnie niebezpiecznych i wysoce zakaźnych;
+- **12)** kwarantanna – odosobnienie osoby zdrowej, która była narażona na zakażenie, w celu zapobieżenia szerzeniu się chorób szczególnie niebezpiecznych i wysoce zakaźnych;
+- **13)** łańcuch chłodniczy – środki techniczne i rozwiązania organizacyjne służące utrzymaniu oraz monitorowaniu, zgodnych z zaleceniami wytwórcy warunków przechowywania, transportu i dystrybucji produktów immunologicznych w rozumieniu art. 2 pkt 30 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924 i 1416) w celu zachowania ich trwałości i zapobieżenia zmniejszeniu ich skuteczności;
+- **14)** nadzór epidemiologiczny – obserwację osoby zakażonej lub podejrzanej o zakażenie, bez ograniczenia jej swobody przemieszczania się, wykonywanie badań sanitarno-epidemiologicznych u tej osoby w celu wykrycia biologicznych czynników chorobotwórczych lub potwierdzenia rozpoznania choroby zakaźnej oraz zebranie, analizę i interpretację informacji o okolicznościach i skutkach zakażenia (nadzór indywidualny), jak i stałe, systematyczne gromadzenie, analizę oraz interpretację informacji o zachorowaniach lub innych procesach zachodzących w sferze zdrowia publicznego, wykorzystywane w celu zapobiegania i zwalczania zakażeń lub chorób zakaźnych (nadzór ogólny);
+- **15)** nadzór sentinel – wybiórczy nadzór epidemiologiczny, prowadzony przez wybrany podmiot lub zespół podmiotów w zakresie ich podstawowej działalności;
+- **16)** niepożądany odczyn poszczepienny – niepożądany objaw chorobowy pozostający w związku czasowym z wykonanym szczepieniem ochronnym;
+- **17)** nosiciel – osobę bez objawów choroby zakaźnej, w której organizmie bytują biologiczne czynniki chorobotwórcze, stanowiącą potencjalne źródło zakażenia innych osób;
+- **18)** ośrodek referencyjny – podmiot lub wyodrębnioną w jego strukturze jednostkę, wskazane przez ministra właściwego do spraw zdrowia, które uzyskały akredytację w zakresie przedmiotu referencyjności na podstawie przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) lub akredytację Światowej Organizacji Zdrowia lub Europejskiego Centrum do Spraw Zapobiegania i Kontroli Chorób, realizujące zadania z zakresu diagnostyki mikrobiologicznej lub klinicznej, obejmujące weryfikację rozpoznań zakażeń i wyników badań laboratoryjnych;
+- **19)** ozdrowieniec – osobę, u której ustąpiły objawy choroby zakaźnej;
+- **20)** podejrzany o chorobę zakaźną – osobę, u której występują objawy kliniczne lub odchylenia od stanu prawidłowego w badaniach dodatkowych, mogące wskazywać na chorobę zakaźną;
+- **21)** podejrzany o zakażenie – osobę, u której nie występują objawy zakażenia ani choroby zakaźnej, która miała styczność ze źródłem zakażenia, a charakter czynnika zakaźnego i okoliczności styczności uzasadniają podejrzenie zakażenia;
+- **21a)** publiczna służba krwi – podmioty, o których mowa w art. 4 ust. 3 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 1782);
+- **22)** stan epidemii – sytuację prawną wprowadzoną na danym obszarze w związku z wystąpieniem epidemii w celu podjęcia określonych w ustawie działań przeciwepidemicznych i zapobiegawczych dla zminimalizowania skutków epidemii;
+- **23)** stan zagrożenia epidemicznego – sytuację prawną wprowadzoną na danym obszarze w związku z ryzykiem wystąpienia epidemii w celu podjęcia określonych w ustawie działań zapobiegawczych;
+- **24)** sterylizacja – proces zniszczenia zdolnych do namnażania się form biologicznych czynników chorobotwórczych;
+- **25)** styczność – bezpośredni lub pośredni kontakt osoby ze źródłem zakażenia, jeżeli charakter tego kontaktu zagrażał lub zagraża przeniesieniem na tę osobę biologicznych czynników chorobotwórczych;
+- **26)** szczepienie ochronne – podanie szczepionki przeciw chorobie zakaźnej w celu sztucznego uodpornienia przeciwko tej chorobie;
+- **27)** świadczenie zdrowotne – świadczenie zdrowotne w rozumieniu art. 5 pkt 40 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461);
+- **28)** świadczeniodawca – świadczeniodawcę w rozumieniu art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **29)** ubezpieczony – ubezpieczonego w rozumieniu art. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **30)** zabiegi sanitarne – działania służące poprawie higieny osobistej, w tym mycie i strzyżenie, higieny odzieży, higieny pomieszczeń, podejmowane w celu zapobiegania oraz zwalczania zakażeń i chorób zakaźnych;
+- **31)** zagrożenie epidemiczne – zaistnienie na danym obszarze warunków lub przesłanek wskazujących na ryzyko wystąpienia epidemii;
+- **32)** zakażenie – wniknięcie do organizmu i rozwój w nim biologicznego czynnika chorobotwórczego;
+- **33)** zakażenie szpitalne – zakażenie, które wystąpiło w związku z udzieleniem świadczeń zdrowotnych, w przypadku gdy choroba:
+    - **a)** nie pozostawała w momencie udzielania świadczeń zdrowotnych w okresie wylęgania albo
+    - **b)** wystąpiła po udzieleniu świadczeń zdrowotnych, w okresie nie dłuższym niż najdłuższy okres jej wylęgania;
+
+- **34)** zaraźliwość – zdolność biologicznego czynnika chorobotwórczego do przeżycia i namnażania oraz do wywołania objawów chorobowych po przeniesieniu go do organizmu innego człowieka lub zwierzęcia;
+- **35)** zdrowie publiczne – stan zdrowotny całego społeczeństwa lub jego części, określany na podstawie wskaźników epidemiologicznych i demograficznych;
+- **36)** strefa zero – obszar, na którym wystąpił stan epidemii, znajdujący się bezpośrednio wokół ogniska wirusa, podlegający ograniczeniom, w szczególności zakazom, nakazom oraz środkom kontroli;
+- **37)** strefa buforowa – obszar wokół strefy zero, podlegający ograniczeniom, w szczególności zakazom lub nakazom dotyczącym przemieszczania się ludzi;
+- **38)** strefa zagrożenia – obszar, na którym możliwe jest ryzyko wystąpienia stanu epidemii;
+- **39)** zagrożony obszar – obszar jednej lub kilku jednostek podziału terytorialnego kraju lub obszar określony w sposób inny niż przez odniesienie do jednostek podziału terytorialnego kraju.
+- **40)** (uchylony)
 
 **Art. 3.**
 
@@ -979,6 +1030,11 @@ Art. 55–63. (pominięte)
 
 **Art. 28.** Lekarz, felczer lub kierownik zespołu ratownictwa medycznego, który podejrzewa lub rozpoznaje chorobę szczególnie niebezpieczną i wysoce zakaźną, stanowiącą zagrożenie dla zdrowia publicznego, lub stwierdza zgon w wyniku takiej choroby, podejmuje działania zapobiegające szerzeniu się zachorowań, w tym:
 
+- **1)** kieruje osobę podejrzaną o zakażenie lub zachorowanie oraz zakażoną lub chorą na chorobę zakaźną do szpitala specjalistycznego zapewniającego izolację i leczenie tej osoby oraz niezwłocznie informuje szpital o tym fakcie;
+- **2)** organizuje transport uniemożliwiający przeniesienie zakażenia na inne osoby;
+- **3)** poucza osobę chorą lub osobę sprawującą prawną pieczę nad chorą osobą małoletnią lub bezradną albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, osoby najbliższe oraz osoby, o których mowa w art. 17 ust. 1a, o obowiązkach wynikających z art. 5 ust. 1;
+- **4)** niezwłocznie powiadamia państwowego powiatowego inspektora sanitarnego właściwego dla miejsca podejrzenia, rozpoznania choroby szczególnie niebezpiecznej i wysoce zakaźnej lub stwierdzenia zgonu o podjętych działaniach.
+
 **Art. 29.**
 
 1. Diagnosta laboratoryjny lub inna osoba uprawniona do samodzielnego wykonywania czynności medycyny laboratoryjnej, w przypadku wykonania badania w kierunku biologicznego czynnika chorobotwórczego zgodnie z przepisami wydanymi na podstawie ust. 7 pkt 1, są obowiązani w przypadkach określonych w tych przepisach do zgłoszenia wyniku tego badania właściwemu państwowemu inspektorowi sanitarnemu określonemu zgodnie z przepisami wydanymi na podstawie ust. 7 pkt 2. Zgłoszenia dokonuje się niezwłocznie, nie później jednak niż w ciągu 24 godzin od momentu uzyskania wyniku.
@@ -1315,6 +1371,14 @@ Art. 55–63. (pominięte)
 
 **Art. 43.** Jednostki, o których mowa w art. 42 ust. 1, realizując zadania z zakresu ochrony zdrowia publicznego przed zakażeniami i chorobami zakaźnymi, współpracują z:
 
+- **1)** Państwową Inspekcją Sanitarną i Wojskową Inspekcją Sanitarną;
+- **2)** jednostkami Systemu Państwowego Ratownictwa Medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637);
+- **3)** podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **4)** Narodowym Funduszem Zdrowia;
+- **5)** podmiotami wchodzącymi w skład międzynarodowego nadzoru epidemiologicznego;
+- **6)** organami samorządu terytorialnego;
+- **7)** Policją, Państwową Strażą Pożarną i Strażą Graniczną.
+
 **Art. 44.**
 
 1. W celu zapewnienia skuteczności działań służących ochronie zdrowia publicznego przed zakażeniami i chorobami zakaźnymi wojewoda sporządza wojewódzki plan działania na wypadek wystąpienia epidemii, zwany dalej „planem”, na okres trzech lat, z możliwością aktualizacji.
@@ -1385,7 +1449,25 @@ Art. 55–63. (pominięte)
 
 **Art. 46a.** W przypadku wystąpienia stanu epidemii lub stanu zagrożenia epidemicznego o charakterze i w rozmiarach przekraczających możliwości działania właściwych organów administracji rządowej i organów jednostek samorządu terytorialnego, Rada Ministrów może określić, w drodze rozporządzenia, na podstawie danych przekazanych przez ministra właściwego do spraw zdrowia, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw administracji publicznej, Głównego Inspektora Sanitarnego oraz wojewodów:
 
+- **1)** zagrożony obszar wraz ze wskazaniem rodzaju strefy, na którym wystąpił stan epidemii lub stan zagrożenia epidemicznego,
+- **2)** rodzaj stosowanych rozwiązań – w zakresie określonym w art. 46b – mając na względzie zakres stosowanych rozwiązań oraz uwzględniając bieżące możliwości budżetu państwa oraz budżetów jednostek samorządu terytorialnego.
+
 **Art. 46b.** W rozporządzeniu, o którym mowa w art. 46a, można ustanowić:
+
+- **1)** ograniczenia, obowiązki i nakazy, o których mowa w art. 46 ust. 4;
+- **2)** czasowe ograniczenie określonych zakresów działalności przedsiębiorców;
+- **3)** czasową reglamentację zaopatrzenia w określonego rodzaju artykuły;
+- **4)** obowiązek poddania się badaniom lekarskim przez osoby chore i podejrzane o zachorowanie;
+- **4a)** obowiązek stosowania określonych środków profilaktycznych i zabiegów;
+- **5)** obowiązek poddania się kwarantannie;
+- **6)** miejsce kwarantanny;
+- **7)** (uchylony)
+- **8)** czasowe ograniczenie korzystania z lokali lub terenów oraz obowiązek ich zabezpieczenia;
+- **9)** nakaz ewakuacji w ustalonym czasie z określonych miejsc, terenów i obiektów;
+- **10)** nakaz lub zakaz przebywania w określonych miejscach i obiektach oraz na określonych obszarach;
+- **11)** zakaz opuszczania strefy zero przez osoby chore i podejrzane o zachorowanie;
+- **12)** nakaz określonego sposobu przemieszczania się;
+- **13)** nakaz zakrywania ust i nosa, w określonych okolicznościach, miejscach i obiektach oraz na określonych obszarach, wraz ze sposobem realizacji tego nakazu. Art. 46ba. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, uproszczone rodzaje i zakres dokumentacji medycznej, uproszczony sposób jej przetwarzania oraz skrócony okres przechowywania, obowiązujące od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, uwzględniając konieczność szybkiego i skutecznego podejmowania działań zapobiegających szerzeniu się epidemii oraz ochrony danych i informacji dotyczących stanu zdrowia pacjenta. Art. 46bb. Nieprzestrzeganie obowiązku, o którym mowa w art. 46b pkt 13, stanowi uzasadnioną przyczynę odmowy sprzedaży, o której mowa w art. 135 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734).
 
 **Art. 46c.**
 
@@ -1439,6 +1521,9 @@ Art. 55–63. (pominięte)
 10. W przypadkach, o których mowa w ust. 9, Rządowa Agencja Rezerw Strategicznych dokonuje zakupu określonej ilości asortymentów do rezerw z zachowaniem pierwszeństwa w odniesieniu do innych podmiotów.
 
 **Art. 46e.** Udostępnione z rezerw strategicznych:
+
+- **1)** produkty lecznicze,
+- **2)** środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, jeżeli wymagają przechowywania w szczególnych warunkach – są dystrybuowane na zasadach określonych w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
 **Art. 46f.**
 
@@ -1609,6 +1694,9 @@ Art. 55–63. (pominięte)
 
 **Art. 47c.** W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii ratownik, o którym mowa w art. 13 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, jednostki:
 
+- **1)** współpracującej z systemem Państwowe Ratownictwo Medyczne, o której mowa w art. 15 ust. 1 pkt 1–4 tej ustawy,
+- **2)** podległej Ministrowi Obrony Narodowej – może pobierać materiał z górnych dróg oddechowych w celu wykonania testu diagnostycznego w kierunku SARS-CoV-2 po odbyciu w tej jednostce przeszkolenia obejmującego procedurę pobrania materiału i jego zabezpieczenia oraz bezpieczeństwa osób pobierających, potwierdzonego zaświadczeniem.
+
 **Art. 48.** Pracownikom podmiotów leczniczych oraz innym osobom podejmującym na zasadach określonych w niniejszej ustawie działania w celu zapobiegania i zwalczania chorób zakaźnych i zakażeń u ludzi przysługuje ochrona prawna należna funkcjonariuszowi publicznemu.
 
 #### Rozdział 8a Kary pieniężne
@@ -1651,9 +1739,23 @@ Art. 55–63. (pominięte)
 
 **Art. 50.** Kto:
 
+- **1)** wbrew obowiązkowi, o którym mowa w art. 16 ust. 1, nie wdraża lub nie stosuje procedur zapewniających ochronę przed zakażeniami oraz chorobami zakaźnymi,
+- **2)** wbrew obowiązkom, o których mowa w art. 22 ust. 1 i 2, nie przestrzega wymagań higieniczno-sanitarnych,
+- **3)** wbrew obowiązkowi przeciwdziałania szerzeniu się zakażeń szpitalnych, nie podejmuje działań określonych w art. 14 ust. 1 i 2 – podlega karze grzywny.
+
 **Art. 51.** Kto:
 
+- **1)** nie będąc uprawnionym, przeprowadza szczepienia ochronne,
+- **2)** wbrew obowiązkowi prowadzenia dokumentacji medycznej dotyczącej szczepień ochronnych, nie dokonuje wpisu szczepienia, nie wystawia zaświadczenia o wykonaniu szczepienia lub nie prowadzi dokumentacji medycznej w tym zakresie lub prowadzi ją nierzetelnie,
+- **3)** wbrew obowiązkowi nie zawiadamia pacjenta lub osoby sprawującej prawną pieczę nad osobą małoletnią lub bezradną albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, o obowiązku poddania się obowiązkowym szczepieniom ochronnym lub nie informuje o ochronnych szczepieniach zalecanych – podlega karze grzywny.
+
 **Art. 52.** Kto:
+
+- **1)** wbrew obowiązkowi nie poucza pacjenta, osoby sprawującej prawną pieczę nad osobą małoletnią lub bezradną albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, o środkach ostrożności zapobiegających przeniesieniu zakażenia na inne osoby lub o ewentualnym obowiązku wynikającym z art. 6,
+- **2)** wbrew obowiązkowi nie informuje zakażonego o konieczności zgłoszenia się do lekarza jego partnera lub partnerów seksualnych,
+- **3)** wbrew obowiązkowi, o którym mowa w art. 21 ust. 1, nie zgłasza niepożądanego odczynu poszczepiennego,
+- **4)** wbrew obowiązkowi, o którym mowa w art. 27 ust. 1 lub 2, nie zgłasza zakażenia, zachorowania na chorobę zakaźną lub zgonu z powodu zakażenia lub choroby zakaźnej albo ich podejrzenia,
+- **5)** wbrew obowiązkowi, o którym mowa w art. 29 ust. 1, nie zgłasza wyniku badania w kierunku biologicznych czynników chorobotwórczych, które wywołują zakażenie lub chorobę zakaźną – podlega karze grzywny.
 
 **Art. 53.** Kto nie wykonuje decyzji o skierowaniu do pracy przy zapobieganiu oraz zwalczaniu epidemii, wydanej na podstawie art. 47, podlega karze grzywny.
 
@@ -1671,9 +1773,78 @@ Art. 55–63. (pominięte)
 
 **Art. 67.** Do dnia 31 grudnia 2015 r.:
 
+- **1)** przewodniczącym zespołu kontroli zakażeń szpitalnych może być lekarz, który posiada specjalizację inną niż określona na podstawie art. 15 ust. 5 oraz ukończył kurs specjalistyczny z zakresu epidemiologii i kontroli zakażeń szpitalnych;
+- **2)** w skład zespołu kontroli zakażeń szpitalnych mogą wchodzić pielęgniarki i położne, które do tego dnia zostały zatrudnione na stanowisku pielęgniarki epidemiologicznej oraz ukończyły kurs kwalifikacyjny z zakresu pielęgniarstwa epidemiologicznego;
+- **3)** szczepienia ochronne mogą wykonywać lekarze lub felczerzy, pielęgniarki, położne i higienistki szkolne, nieposiadający kwalifikacji określonych na podstawie art. 17 ust. 10 pkt 3, o ile posiadają 2,5-letnią praktykę w zakresie przeprowadzania szczepień ochronnych.
+
 **Art. 68.** (pominięty)
 
 **Art. 69.** Traci moc ustawa z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. poz. 1384, z późn. zm. ).
 
 **Art. 70.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z wyjątkiem art. 9, który wchodzi w życie z dniem 1 stycznia 2010 r. Załącznik do ustawy z dnia 5 grudnia 2008 r. (Dz. U. z 2025 r. poz.
+
+- **1675)**
+- **1)** (uchylony)
+- **2)** bąblowica i wągrzyca;
+- **3)** biegunki o etiologii infekcyjnej lub nieustalonej u dzieci do lat 2;
+- **4)** błonica;
+- **5)** borelioza z Lyme;
+- **6)** bruceloza;
+- **6a)** Chikungunya;
+- **7)** chlamydiozy i inne zakażenia nierzeżączkowe układu moczopłciowego;
+- **8)** cholera;
+- **9)** choroba Creutzfeldta-Jakoba i inne encefalopatie gąbczaste;
+- **9a)** choroba wirusowa Ebola (EVD);
+- **10)** czerwonka bakteryjna;
+- **11)** dur brzuszny i zakażenia pałeczkami durowymi;
+- **12)** dur wysypkowy (w tym choroba Brill-Zinssera) i inne riketsjozy;
+- **13)** dury rzekome A, B, C i zakażenia pałeczkami rzekomodurowymi;
+- **14)** dżuma;
+- **15)** giardioza;
+- **16)** gorączka Q;
+- **17)** gruźlica i inne mikobakteriozy;
+- **18)** grypa (w tym grypa ptaków u ludzi);
+- **19)** inwazyjne zakażenia Neisseria meningitidis;
+- **20)** inwazyjne zakażenia Streptococcus pneumoniae;
+- **21)** inwazyjne zakażenia Streptococcus pyogenes;
+- **22)** inwazyjne zakażenie Haemophilus influenzae;
+- **23)** jersinioza;
+- **24)** kampylobakterioza;
+- **25)** kiła;
+- **26)** kryptosporydioza;
+- **27)** krztusiec;
+- **28)** legioneloza;
+- **29)** leptospirozy;
+- **30)** listerioza;
+- **31)** nagminne zapalenie przyusznic (świnka);
+- **32)** nosacizna;
+- **33)** odra;
+- **34)** ornitozy;
+- **35)** ospa prawdziwa;
+- **36)** ospa wietrzna;
+- **37)** ostre nagminne porażenie dziecięce (poliomyelitis) oraz inne ostre porażenia wiotkie, w tym zespół Guillaina-Barrégo;
+- **38)** płonica;
+- **39)** pryszczyca;
+- **40)** różyczka i zespół różyczki wrodzonej;
+- **41)** rzeżączka;
+- **42)** salmonelozy inne niż wywołane przez pałeczki Salmonella Typhi i Salmonella Paratyphi A, B, C oraz zakażenia przez nie wywołane;
+- **43)** tężec;
+- **44)** toksoplazmoza wrodzona;
+- **45)** tularemia;
+- **46)** wąglik;
+- **47)** wirusowe gorączki krwotoczne, w tym żółta gorączka;
+- **48)** wirusowe zapalenia wątroby (A, B, C, inne) oraz zakażenia wywołane przez wirusy zapalenia wątroby;
+- **49)** (uchylony)
+- **50)** włośnica;
+- **51)** wścieklizna;
+- **52)** zakażenia żołądkowo-jelitowe oraz zatrucia pokarmowe o etiologii infekcyjnej lub nieustalonej;
+- **53)** zakażenia szpitalne oraz zakażenia biologicznymi czynnikami chorobotwórczymi opornymi na antybiotyki kluczowe dla leczenia;
+- **54)** zakażenia wirusem zachodniego Nilu;
+- **55)** zakażenie ludzkim wirusem niedoboru odporności (HIV) i zespół nabytego niedoboru odporności (AIDS);
+- **55a)** zapalenia opon mózgowo-rdzeniowych lub mózgu o etiologii infekcyjnej lub nieustalonej;
+- **56)** zatrucie jadem kiełbasianym (botulizm);
+- **57)** zespół hemolityczno-mocznicowy i inne postaci zakażenia werotoksycznymi pałeczkami Escherichia coli (STEC/VTEC);
+- **58)** zespoły ciężkiej ostrej niewydolności oddechowej (SARI) lub innej niewydolności narządowej o etiologii infekcyjnej lub nieustalonej;
+- **59)** zimnica (malaria).
+
 

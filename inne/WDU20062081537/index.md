@@ -8,7 +8,7 @@ pos: 1537
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o likwidacji niepodjętych depozytów
@@ -28,14 +28,23 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1537/text.pdf) |
 
 Złożenie przedmiotu świadczenia do depozytu sądowego
-Zwrot depozytu sądowego składającemu wydanie depozytu sądowego uprawnionemu
+Zwrot depozytu sądowego składającemu i wydanie depozytu sądowego uprawnionemu
 Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
-**Art. 1.** Ustawa reguluje zasady tryb likwidacji niepodjętych depozytów znajdujących się w dyspozycji jednostek sektora finansów publicznych.
+**Art. 1.** Ustawa reguluje zasady i tryb likwidacji niepodjętych depozytów znajdujących się w dyspozycji jednostek sektora finansów publicznych.
 
 **Art. 2.** W rozumieniu ustawy:
 
-**Art. 3.** Ustawy nie stosuje się do rzeczy, pieniędzy papierów wartościowych złożonych do depozytu, jeżeli przepisy szczególne regulują postępowanie związane ze złożeniem ich do depozytu likwidacją w razie ich niepodjęcia.
+- **1)** depozytami są:
+    - **a)** środki pieniężne, papiery wartościowe i rzeczy złożone do depozytu albo depozytu sądowego,
+    - **b)** rzeczy stanowiące dowody rzeczowe oraz rzeczy zatrzymane, co do których zapadło prawomocne orzeczenie o wydaniu ich uprawnionemu lub złożeniu do depozytu sądowego,
+    - **c)** środki pieniężne, papiery wartościowe i rzeczy złożone do depozytu jako kaucje i wadia;
+
+- **2)** jednostką sektora finansów publicznych jest jednostka wymieniona w art. 9 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz.
+- **1240)** ;
+- **3)** likwidacją niepodjętego depozytu jest przejście praw do tego depozytu na rzecz Skarbu Państwa.
+
+**Art. 3.** Ustawy nie stosuje się do rzeczy, pieniędzy i papierów wartościowych złożonych do depozytu, jeżeli przepisy szczególne regulują postępowanie związane ze złożeniem ich do depozytu i likwidacją w razie ich niepodjęcia.
 
 **Art. 4.**
 
@@ -45,7 +54,7 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 5.**
 
-1. Z chwilą likwidacji niepodjętego depozytu na Skarb Państwa przechodzą wszelkie korzyści ciężary, jakie przyniósł od dnia, w którym znalazł się w dyspozycji przechowującego depozyt.
+1. Z chwilą likwidacji niepodjętego depozytu na Skarb Państwa przechodzą wszelkie korzyści i ciężary, jakie przyniósł od dnia, w którym znalazł się w dyspozycji przechowującego depozyt.
 
 2. Likwidacja niepodjętego depozytu nie uchyla skutków prawnych wynikających ze złożenia przedmiotu świadczenia do depozytu, określonych w odrębnych przepisach.
 
@@ -75,7 +84,7 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 8.**
 
-1. Koszty przechowywania sprzedaży depozytu oraz utrzymania go w należytym stanie, a także koszty zawiadomień poszukiwań ponosi uprawniony.
+1. Koszty przechowywania i sprzedaży depozytu oraz utrzymania go w należytym stanie, a także koszty zawiadomień i poszukiwań ponosi uprawniony.
 
 2. Depozyt może być wydany po uiszczeniu przez uprawnionego kosztów, o których mowa w ust. 1.
 
@@ -91,11 +100,19 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 11.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 519 w § 4 kropkę na końcu zastępuje się przecinkiem oraz dodaje się pkt 5 w brzmieniu: „5) likwidacji niepodjętych depozytów.”;
+- **2)** w części pierwszej w księdze drugiej w tytule II dział V otrzymuje brzmienie: „DZIAŁ V. Sprawy depozytowe
+
 #### Rozdział 1.
 
 **Art. 692.** W sprawach o złożenie przedmiotu świadczenia do depozytu sądowego właściwy jest sąd miejsca wykonania zobowiązania. Jeżeli miejsca tego nie da się ustalić, właściwy jest sąd miejsca zamieszkania wierzyciela, a gdy wierzyciel jest nieznany lub gdy nie jest znane miejsce jego zamieszkania – sąd miejsca zamieszkania dłużnika. Jeżeli zobowiązanie jest zabezpieczone wpisem w księdze wieczystej, właściwy jest sąd miejsca położenia nieruchomości.
 
 **Art. 693.** We wniosku o złożenie przedmiotu świadczenia do depozytu sądowego należy:
+
+- **1)** określić zobowiązanie, przy wykonaniu którego składa się przedmiot;
+- **2)** przytoczyć okoliczności uzasadniające złożenie;
+- **3)** dokładnie oznaczyć przedmiot, który ma być złożony;
+- **4)** wskazać osobę, której przedmiot ma być wydany, oraz warunki, pod którymi wydanie ma nastąpić.
 
 **Art. 693¹.** W postępowaniu o złożenie przedmiotu świadczenia do depozytu sądowego sąd nie bada prawdziwości twierdzeń zawartych we wniosku, ograniczając się do oceny, czy według przytoczonych okoliczności złożenie do depozytu jest prawnie uzasadnione.
 
@@ -107,9 +124,9 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 693³.**
 
-§ 1. Jeżeli wierzyciel lub jego miejsce zamieszkania nie są znane, o zezwoleniu na złożenie przedmiotu świadczenia do depozytu sądowego sąd ogłosi publicznie w budynku sądowym oraz w lokalu organu gminy. Ponadto sąd zarządza umieszczenie ogłoszenia w dzienniku o zasięgu ogólnopolskim lub podaje je w inny sposób do wiadomości publicznej; może je również ogłosić w Monitorze Sądowym Gospodarczym.
+§ 1. Jeżeli wierzyciel lub jego miejsce zamieszkania nie są znane, o zezwoleniu na złożenie przedmiotu świadczenia do depozytu sądowego sąd ogłosi publicznie w budynku sądowym oraz w lokalu organu gminy. Ponadto sąd zarządza umieszczenie ogłoszenia w dzienniku o zasięgu ogólnopolskim lub podaje je w inny sposób do wiadomości publicznej; może je również ogłosić w Monitorze Sądowym i Gospodarczym.
 
-§ 2. Ogłoszenie powinno zawierać dane określone w art. 693 pkt 1, 3 4 oraz wezwanie wierzyciela do odbioru depozytu.
+§ 2. Ogłoszenie powinno zawierać dane określone w art. 693 pkt 1, 3 i 4 oraz wezwanie wierzyciela do odbioru depozytu.
 
 § 3. Jeżeli wierzyciel lub jego miejsce zamieszkania nie są znane, sąd ustanawia kuratora. Przepis art. 510 § 2 stosuje się odpowiednio.
 
@@ -117,17 +134,17 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 § 1. Sąd może zażądać, aby depozyt został złożony w odpowiednim opakowaniu.
 
-§ 2. Przed przyjęciem kosztowności do depozytu sądowego poddaje się je opisowi oszacowaniu przez biegłego w obecności dłużnika lub wyznaczonej przez niego osoby.
+§ 2. Przed przyjęciem kosztowności do depozytu sądowego poddaje się je opisowi i oszacowaniu przez biegłego w obecności dłużnika lub wyznaczonej przez niego osoby.
 
 **Art. 693⁵.**
 
 § 1. Jeżeli dłużnik jest zobowiązany do świadczeń powtarzających się, a zachodzą warunki do złożenia do depozytu sądowego świadczeń już wymagalnych, sąd może zezwolić dłużnikowi na składanie w przyszłości do depozytu dalszych świadczeń w chwili, gdy staną się wymagalne. O złożeniu każdego świadczenia sąd zawiadamia wierzyciela.
 
-§ 2. Na wniosek wierzyciela sąd uchyli postanowienie o zezwoleniu dłużnikowi na składanie do depozytu świadczeń na zasadach określonych w § 1, jeżeli wierzyciel wyrazi gotowość przyjmowania pokwitowania odbioru dalszych świadczeń wymagalnych.
+§ 2. Na wniosek wierzyciela sąd uchyli postanowienie o zezwoleniu dłużnikowi na składanie do depozytu świadczeń na zasadach określonych w § 1, jeżeli wierzyciel wyrazi gotowość przyjmowania i pokwitowania odbioru dalszych świadczeń wymagalnych.
 
 **Art. 693⁶.**
 
-§ 1. Pieniądze, kosztowności, książeczki oszczędnościowe, papiery wartościowe inne dokumenty oraz przedmioty, które mają być przyjęte do depozytu sądowego na podstawie przepisów szczególnych, przechowuje się w sądzie lub w banku. Inne przedmioty przechowuje się w miejscu wyznaczonym przez sąd.
+§ 1. Pieniądze, kosztowności, książeczki oszczędnościowe, papiery wartościowe i inne dokumenty oraz przedmioty, które mają być przyjęte do depozytu sądowego na podstawie przepisów szczególnych, przechowuje się w sądzie lub w banku. Inne przedmioty przechowuje się w miejscu wyznaczonym przez sąd.
 
 § 2. Jeżeli przedmiotem świadczenia jest książeczka oszczędnościowa, a przechowanie nie następuje u jej wystawcy, o przyjęciu książeczki oszczędnościowej do depozytu sąd zawiadomi tego wystawcę.
 
@@ -137,7 +154,7 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 § 2. Do dozorcy stosuje się odpowiednio przepisy dotyczące dozorcy w toku egzekucji sądowej.
 
-**Art. 693⁸.** Dokumenty inne depozyty rzeczowe przechowuje się w stanie niezmienionym.
+**Art. 693⁸.** Dokumenty i inne depozyty rzeczowe przechowuje się w stanie niezmienionym.
 
 **Art. 693⁹.**
 
@@ -153,7 +170,7 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 § 1. Na żądanie dłużnika sąd zwróci mu depozyt, jeżeli wierzyciel nie zażądał wydania depozytu.
 
-§ 2. Jeżeli wniosek dłużnika o zwrot depozytu wniosek wierzyciela o wydanie zostały zgłoszone równocześnie, sąd postanowi wydać depozyt wierzycielowi.
+§ 2. Jeżeli wniosek dłużnika o zwrot depozytu i wniosek wierzyciela o wydanie zostały zgłoszone równocześnie, sąd postanowi wydać depozyt wierzycielowi.
 
 **Art. 693¹².** W razie złożenia depozytu na skutek orzeczenia sądu lub innego organu, depozyt nie może być zwrócony dłużnikowi bez zezwolenia sądu lub innego organu, który wydał to orzeczenie, chyba że z orzeczenia wynika co innego.
 
@@ -189,11 +206,11 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 693²¹.** Uczestników, którzy nie są znani lub których miejsce zamieszkania lub siedziba nie jest znane, sąd wzywa do udziału w postępowaniu przez obwieszczenie publiczne w budynku sądowym.
 
-**Art. 693²².** Do wykonania orzeczenia o stwierdzeniu likwidacji niepodjętego depozytu jest obowiązany naczelnik właściwego urzędu skarbowego w trybie na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji.”.
+**Art. 693²².** Do wykonania orzeczenia o stwierdzeniu likwidacji niepodjętego depozytu jest obowiązany naczelnik właściwego urzędu skarbowego w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji.”.
 
 **Art. 12.** Do likwidacji niepodjętych depozytów istniejących w dniu wejścia w życie ustawy stosuje się przepisy tej ustawy, przy czym na poczet terminu przewidzianego w art. 6 ust. 4 zalicza się okres, przez jaki depozyt znajdował się w dyspozycji przechowującego depozyt.
 
-**Art. 13.** Traci moc dekret z dnia 18 września 1954 r. o likwidacji nie podjętych depozytów nie odebranych rzeczy (Dz. U. Nr 41, poz. 184, z 1965 r. Nr 16, poz. 94 oraz z 2004 r. Nr 51, poz. 514).
+**Art. 13.** Traci moc dekret z dnia 18 września 1954 r. o likwidacji nie podjętych depozytów i nie odebranych rzeczy (Dz. U. Nr 41, poz. 184, z 1965 r. Nr 16, poz. 94 oraz z 2004 r. Nr 51, poz. 514).
 
 **Art. 14.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

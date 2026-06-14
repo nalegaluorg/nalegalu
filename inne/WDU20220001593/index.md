@@ -8,10 +8,10 @@ pos: 1593
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1593 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 22 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1593/text.pdf) |
 
-Poz. 1593 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 22 lipca 2022 r.
-zmieniające rozporządzenie w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach Na podstawie art. 22 ust. 2 pkt 11 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 kwietnia 2013 r. w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach (Dz. U. poz. 532, z 2017 r. poz. 1643 oraz z 2019 r. poz. 322) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach Na podstawie art. 22 ust. 2 pkt 11 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 kwietnia 2013 r. w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach (Dz. U. poz. 532, z 2017 r. poz. 1643 oraz z 2019 r. poz. 322) wprowadza się następujące zmiany:
 1) w § 5 w ust. 2 po wyrazie „pedagodzy” dodaje się przecinek i wyrazy „pedagodzy specjalni”;
 2) po § 23 dodaje się § 23a w brzmieniu: „§ 23a. Do zadań pedagoga specjalnego w szkole i placówce należy w szczególności:
 1) współpraca z nauczycielami, wychowawcami grup wychowawczych lub innymi specjalistami, rodzicami oraz uczniami w:
@@ -36,7 +36,6 @@ b) prowadzeniu badań i działań diagnostycznych związanych z rozpoznawaniem i
 c) rozwiązywaniu problemów dydaktycznych i wychowawczych uczniów,
 d) określaniu niezbędnych do nauki warunków, sprzętu specjalistycznego i środków dydaktycznych, w tym wykorzystujących technologie informacyjno-komunikacyjne, odpowiednich ze względu na indywidualne potrzeby rozwojowe i edukacyjne oraz możliwości psychofizyczne ucznia;
 2) współpraca z zespołem, o którym mowa w przepisach wydanych na podstawie art. 71b ust. 7 pkt 2 ustawy, w zakresie opracowania i realizacji indywidualnego programu edukacyjno-terapeutycznego ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego, w tym zapewnienia mu pomocy psychologiczno-pedagogicznej;
-Dziennik Ustaw – 2 – Poz. 1593
 3) wspieranie nauczycieli, wychowawców grup wychowawczych i innych specjalistów w:
 a) rozpoznawaniu przyczyn niepowodzeń edukacyjnych uczniów lub trudności w ich funkcjonowaniu, w tym barier i ograniczeń utrudniających funkcjonowanie ucznia i jego uczestnictwo w życiu szkoły lub placówki,
 b) udzielaniu pomocy psychologiczno-pedagogicznej w bezpośredniej pracy z uczniem,

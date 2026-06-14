@@ -8,10 +8,10 @@ pos: 665
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 marca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 665 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 marca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/665/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 marca 2022 r.
-w sprawie kredytów na studia medyczne Na podstawie art. 103f ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583 i 655) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie kredytów na studia medyczne Na podstawie art. 103f ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583 i 655) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) terminy i sposób składania wniosków o kredyt na studia medyczne;
-2) terminy przekazywania i zakres informacji, o których mowa w art. 103e ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”;
+2) terminy przekazywania i zakres informacji, o których mowa w art. 103e ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”;
 3) termin zawarcia umowy kredytu na studia medyczne;
 4) niezbędne elementy umowy kredytu na studia medyczne;
 5) tryb wypłaty i spłaty kredytu na studia medyczne;
@@ -37,19 +37,19 @@ w sprawie kredytów na studia medyczne Na podstawie art. 103f ustawy z dnia 20 l
 8) sposób dokonywania rozliczeń z tytułu pokrywania odsetek należnych bankom.
 § 2. Wniosek o kredyt na studia medyczne może złożyć student, o którym mowa w art. 103a ust. 1 ustawy, zwany dalej „wnioskodawcą”, w terminie 21 dni od dnia rozpoczęcia danego semestru studiów.
 § 3. 1. Wniosek o kredyt na studia medyczne składa się w banku, o którym mowa w art. 103a ust. 2 ustawy, zwanym dalej „bankiem”, w postaci:
-1) elektronicznej za pomocą systemu teleinformatycznego banku albo
-2) papierowej na formularzu ustalonym przez bank.
+1) elektronicznej – za pomocą systemu teleinformatycznego banku albo
+2) papierowej – na formularzu ustalonym przez bank.
 2. Wniosek o kredyt na studia medyczne składany w postaci elektronicznej uwierzytelnia się z użyciem danych uwierzytelniających stosowanych przez bank do weryfikacji posiadacza rachunku bankowego w drodze elektronicznej.
 3. W przypadku składania wniosku o kredyt na studia medyczne w postaci elektronicznej do wniosku o kredyt na studia medyczne dołącza się cyfrowe odwzorowanie dokumentu, o którym mowa w art. 103a ust. 6 ustawy, a na żądanie banku przedstawia się oryginał tego dokumentu.
 § 4. Bank Gospodarstwa Krajowego, zwany dalej „BGK”, przekazuje ministrowi właściwemu do spraw zdrowia informację o liczbie zawartych w danym semestrze umów kredytu na studia medyczne oraz dane, o których mowa w art. 103a ust. 3 pkt 1 lit. d oraz ust. 7 pkt 2 lit. a–e ustawy, w terminie:
-1) do dnia 15 stycznia według stanu na dzień 31 grudnia poprzedniego roku;
-2) do dnia 15 lipca według stanu na dzień 30 czerwca danego roku.
+1) do dnia 15 stycznia – według stanu na dzień 31 grudnia poprzedniego roku;
+2) do dnia 15 lipca – według stanu na dzień 30 czerwca danego roku.
 § 5. 1. Umowę kredytu na studia medyczne zawiera się w terminie 14 dni od dnia złożenia kompletnego wniosku o kredyt na studia medyczne, nie później niż w terminie umożliwiającym wypłatę pierwszej transzy kredytu na studia medyczne zgodnie z terminem określonym w art. 103b ust. 1 ustawy.
 2. Umowa kredytu na studia medyczne zawiera w szczególności następujące elementy:
 1) okres, na jaki bank udzielił kredytu wnioskodawcy, zwanemu dalej „kredytobiorcą”;
 2) terminy wypłat semestralnych transz kredytu na studia medyczne;
-3) sposób weryfikacji przez bank posiadania statusu studenta w okresie obowiązywania umowy nie rzadziej niż dwa razy w roku;
-4) wymagane dokumenty oraz tryb zawarcia aneksu do umowy w przypadku wcześniejszego rozpoczęcia spłaty kredytu albo wydłużenia okresu wypłaty semestralnych transz kredytu na studia medyczne;
+3) sposób weryfikacji przez bank posiadania statusu studenta w okresie obowiązywania umowy – nie rzadziej niż dwa razy w roku;
+4) wymagane dokumenty oraz tryb zawarcia aneksu do umowy – w przypadku wcześniejszego rozpoczęcia spłaty kredytu albo wydłużenia okresu wypłaty semestralnych transz kredytu na studia medyczne;
 5) formę informowania banku przez kredytobiorcę o okolicznościach, o których mowa w art. 103b ust. 2 pkt 1–4 lub ust. 3 ustawy;
 6) formę informowania kredytobiorcy przez bank o nadchodzącym terminie rozpoczęcia spłaty kredytu na studia medyczne;
 7) sposób ustalenia przez bank harmonogramu spłaty kredytu na studia medyczne;
@@ -66,6 +66,7 @@ w sprawie kredytów na studia medyczne Na podstawie art. 103f ustawy z dnia 20 l
 § 9. 1. BGK przekazuje bankowi ze środków Funduszu Kredytowania Studiów Medycznych, o którym mowa w art. 103a ust. 2 ustawy:
 1) całą kwotę odsetek należnych od kredytu na studia medyczne:
 a) w okresie studiów, urlopów od zajęć, zawieszenia w prawach studenta lub innych przerw w studiach udzielonych zgodnie z regulaminem studiów,
+b) w okresie od dnia zakończenia studiów do terminu rozpoczęcia spłaty kredytu na studia medyczne,
 c) od umorzonego kredytu na studia medyczne naliczonych od dnia umorzenia do dnia przekazania środków dotychczas niespłaconych,
 d) w okresie od dnia utraty statusu studenta do terminu rozpoczęcia spłaty kredytu na studia medyczne,
 e) w okresie zawieszenia spłaty kredytu na studia medyczne;
@@ -76,7 +77,7 @@ e) w okresie zawieszenia spłaty kredytu na studia medyczne;
 2. Informacja, o której mowa w ust. 1, jest przekazywana w postaci elektronicznej.
 § 11. Wniosek o kredyt na studia medyczne obejmujący rok akademicki 2021/2022 wnioskodawca może złożyć do dnia 30 września 2022 r.
 § 12. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
-Minister Zdrowia: A. Niedzielski WZÓR Załącznik do rozporządzenia Ministra Zdrowia z dnia 17 marca 2022 r. (poz. …) WZÓR WNIOSEK O UMORZENIE KREDYTU NA STUDIA MEDYCZNE PRZEZ MINISTRA WŁAŚCIWEGO DO SPRAW ZDROWIA I. DANE OSOBOWE
+Minister Zdrowia: A. Niedzielski Załącznik do rozporządzenia Ministra Zdrowia z dnia 17 marca 2022 r. (poz. …) WZÓR WZÓR WNIOSEK O UMORZENIE KREDYTU NA STUDIA MEDYCZNE PRZEZ MINISTRA WŁAŚCIWEGO DO SPRAW ZDROWIA I. DANE OSOBOWE
 1. Imię (imiona) i nazwisko: .......................................................................................................
 obywatelstwo: .........................................................................................................................
 data i miejsce urodzenia: ........................................................................................................
@@ -101,16 +102,16 @@ Według stanu na dzień złożenia wniosku.
 9. Data uzyskania tytułu specjalisty : ........................................................................................
 IV. TREŚĆ ŻĄDANIA
 10. Wnoszę o umorzenie kredytu na studia medyczne na podstawie (należy wskazać podstawę ubiegania się o umorzenie kredytu na studia medyczne przez jej podkreślenie):
-1) art. 103d ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583 i 655), zwanej dalej „ustawą”, w związku ze spełnieniem łącznie dwóch następujących warunków:
+1) art. 103d ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583 i 655), zwanej dalej „ustawą”, w związku ze spełnieniem łącznie dwóch następujących warunków:
 a) wykonywaniem zawodu lekarza na terytorium Rzeczypospolitej Polskiej, w ramach praktyki zawodowej lub w podmiocie leczniczym udzielających świadczeń opieki zdrowotnej finansowanych ze środków publicznych, przez 10 lat w okresie 12 kolejnych lat liczonych od dnia ukończenia studiów, w łącznym wymiarze czasu pracy odpowiadającym co najmniej równoważnikowi jednego etatu oraz
 b) w okresie, o którym mowa w lit. a, uzyskaniem tytułu specjalisty w dziedzinie medycyny uznanej za priorytetową w dniu rozpoczęcia szkolenia specjalizacyjnego, w rozumieniu przepisów wydanych na podstawie art. 16g ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
 2) art. 103d ust. 2 pkt 1 ustawy w związku:
 a) ze szczególnie trudną sytuacją życiową lub
-b) z kontynuowaniem szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, ale w okresie, o którym mowa w pkt 1 lit. a nieukończeniem tego szkolenia lub nieuzyskaniem tytułu specjalisty z przyczyn ode mnie niezależnych;
+b) z kontynuowaniem szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, ale w okresie, o którym mowa w pkt 1 lit. a – nieukończeniem tego szkolenia lub nieuzyskaniem tytułu specjalisty z przyczyn ode mnie niezależnych;
 3) art. 103d ust. 2 pkt 2 lit. a ustawy w związku z trwałą utratą zdolności do spłaty zobowiązań;
 4) art. 103d ust. 3 ustawy w związku z:
-a) wykonywaniem zawodu lekarza na zasadach określonych w pkt 1 lit. a w okresie, który wynosi co najmniej: 5 lat, w okresie 7 kolejnych lat liczonych od dnia ukończenia studiów, oraz ukończeniem 2. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, W dziedzinie medycyny uznanej za priorytetową w dniu rozpoczęcia szkolenia specjalizacyjnego w rozumieniu przepisów wydanych na podstawie art. 16g ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm.) wskazać, jeżeli dotyczy.
-6 lat, w okresie 8 kolejnych lat liczonych od dnia ukończenia studiów, oraz ukończeniem 2. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, 7 lat, w okresie 9 kolejnych lat liczonych od dnia ukończenia studiów, oraz ukończeniem 3. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, 8 lat, w okresie 10 kolejnych lat liczonych od dnia ukończenia studiów, oraz ukończeniem 4. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, 9 lat, w okresie kolejnych 11 lat liczonych od dnia ukończenia studiów, oraz ukończeniem 4. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, oraz
+a) wykonywaniem zawodu lekarza na zasadach określonych w pkt 1 lit. a w okresie, który wynosi co najmniej: – 5 lat, w okresie 7 kolejnych lat liczonych od dnia ukończenia studiów, oraz ukończeniem 2. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, W dziedzinie medycyny uznanej za priorytetową w dniu rozpoczęcia szkolenia specjalizacyjnego w rozumieniu przepisów wydanych na podstawie art. 16g ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm.) – wskazać, jeżeli dotyczy.
+– 6 lat, w okresie 8 kolejnych lat liczonych od dnia ukończenia studiów, oraz ukończeniem 2. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, – 7 lat, w okresie 9 kolejnych lat liczonych od dnia ukończenia studiów, oraz ukończeniem 3. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, – 8 lat, w okresie 10 kolejnych lat liczonych od dnia ukończenia studiów, oraz ukończeniem 4. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, – 9 lat, w okresie kolejnych 11 lat liczonych od dnia ukończenia studiów, oraz ukończeniem 4. roku szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, oraz
 b) kontynuowaniem szkolenia specjalizacyjnego, o którym mowa w pkt 1 lit. b, na kolejnym roku albo ukończeniem tego szkolenia.
 V. INFORMACJE DOTYCZĄCE MIEJSCA LUB MIEJSC I OKRESU WYKONYWANIA ZAWODU LEKARZA
 11. Miejsce lub miejsca oraz okres wykonywania zawodu lekarza na terytorium Rzeczypospolitej Polskiej, w ramach praktyki zawodowej lub w podmiocie leczniczym udzielających świadczeń opieki zdrowotnej finansowanych ze środków publicznych, począwszy od dnia ukończenia studiów, w łącznym wymiarze czasu pracy odpowiadającym co najmniej równoważnikowi jednego etatu (należy wskazać nazwę podmiotu leczniczego oraz okres zatrudnienia: od–do):

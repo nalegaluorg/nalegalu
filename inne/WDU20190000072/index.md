@@ -8,10 +8,10 @@ pos: 72
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 15 stycznia 2019 OBWIESZCZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ 7 grudnia 2018 ogłoszenia jednolitego tekstu Ministra wymagań lokalowych sanitarnych jakie musi spełniać lokal, którym ma być prowadzony żłobek klub dziecięcy
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 72 OBWIESZCZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 7 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,64 +25,70 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000072) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/72/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych U. 2017 poz. 1523 oraz 2018 poz. 2243) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst Ministra 10 lipca 2014 wymagań lokalowych sanitarnych jakie musi spełniać lokal, którym ma być prowadzony żłobek klub dziecięcy U.
-poz. 925), uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra 8 grudnia 2017 zmieniającym rozporządzenie wymagań lokalowych sanitarnych jakie musi spełniać lokal, którym ma być prowadzony żłobek klub dziecięcy U. poz. 2379).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity obejmuje 2 3 rozporządzenia Ministra 8 grudnia 2017 zmieniającego rozporządzenie wymagań lokalowych sanitarnych jakie musi spełniać lokal, którym ma być prowadzony żłobek klub dziecięcy U. poz. 2379), które stanowią: „§ 2. 1. Utworzone przed dniem wejścia życie niniejszego żłobki kluby dziecięce spełniające wymagania określone ust. 2–5 zmienianego brzmieniu dotychczasowym mogą być prowadzone na podstawie przepisów dotychczasowych.
-2. Dopuszcza się prowadzenie żłobka klubu dziecięcego na podstawie przepisów określonych ust. 2–5 zmienianego brzmieniu dotychczasowym, jeżeli podmiot zamierzający prowadzić ten żłobek klub dziecięcy wystąpi o potwierdzenie spełniania wymagań lokalowych sanitarnych właściwych organów 31 grudnia 2017
-3. Podmioty prowadzące żłobki kluby dziecięce, o których mowa ust. 2, są obowiązane dostosować warunki lokalowe sanitarne lokali, których prowadzone są te żłobki kluby dziecięce, wymagań określonych ust. 2 pkt 5, ust. 4 8 zmienianego brzmieniu nadanym niniejszym rozporządzeniem terminie stycznia 2019
-3. Rozporządzenie wchodzi życie dniem stycznia 2018 r.”.
-Minister Społecznej: E. Rafalska MINISTRA PRACY I POLITYKI SPOŁECZNEJ 10 lipca 2014 wymagań lokalowych sanitarnych jakie musi spełniać lokal, którym ma być prowadzony żłobek klub dziecięcy Na podstawie art. 25 ust. 3 ustawy 4 lutego 2011 o opiece nad dziećmi wieku lat 3 U. 2018 poz. 603, 650, 1544 1629 oraz 2019 poz. 60) zarządza się, co następuje:
-1. 1. Lokal, którym ma być prowadzony żłobek klub dziecięcy, znajduje się budynku jego części, które spełniają wymagania określone przepisach warunków technicznych, jakim powinny odpowiadać budynki ich usytuowanie, oraz wymagania ochrony przeciwpożarowej dla kategorii zagrożenia ludzi ZL II, określone przepisach dotyczących ochrony przeciwpożarowej, tym że dopuszcza się spełnienie tych wymagań także sposób określony art. 6a ustawy 24 sierpnia 1991 o ochronie przeciwpożarowej U. 2018 poz. 620 1669).
-2. Dopuszcza się prowadzenie żłobka klubu dziecięcego lokalu znajdującym się budynku jego części, które spełniają wymagań określonych ust. 1, jeżeli lokal:
-1) przeznaczony dla więcej niż 25 dzieci;
-2) znajduje się na pierwszej kondygnacji nadziemnej budynku stanowi zwarty zespół przylegających siebie powiązanych funkcjonalnie pomieszczeń przeznaczonych na prowadzenie żłobka klubu dziecięcego;
-3) znajduje się strefie pożarowej, której elementy budynku są nierozprzestrzeniające ognia; wymaganie to dotyczy kondygnacji zlokalizowanych powyżej drugiej kondygnacji nadziemnej;
-4) posiada co najmniej dwa wyjścia na zewnątrz, przy czym jednym nich są drzwi wyjściowe lokalu, a drugim inne drzwi okno umożliwiające wyjście, bezpieczny sposób, osób wykonujących pracę żłobku klubie dziecięcym dziećmi, bezpośrednio bezpieczne miejsce na zewnątrz budynku;
-5) został wyposażony gaśnicę o skuteczności gaśniczej co najmniej 21 A, zgodnie wymaganiami określonymi przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych terenów, niezależod gaśnic zastosowanych strefie pożarowej, której znajduje się lokal.
-3. W lokalu, o którym mowa ust. 2, przejście ewakuacyjne pomieszczenia przeznaczonego przebywania dzieci, wyłączeniem pomieszczeń higieniczno-sanitarnych, drzwi, o których mowa ust. 2 pkt 4, prowadzi łącznie przez więcej niż dwa pomieszczenia, włączając to pomieszczenie przeznaczone przebywania dzieci, posiada długość nieprzekraczającą:
-1) 20 m
-2) 40 m przypadku przejścia ewakuacyjnego prowadzącego drzwi stanowiących wyjście ewakuacyjne lokalu bezpośrednio bezpieczne miejsce na zewnątrz budynku.
-4. Elementy wykończenia wnętrz wyposażenia stałego lokalu, o którym mowa ust. 2, na drogach ewakuacyjnych lokalu spełniają następujące warunki:
-1) stałe elementy wyposażenia wystroju wnętrz oraz okładziny ścienne wykładziny podłogowe są co najmniej trudno zapalne są intensywnie dymiące;
-2) okładziny sufitów oraz sufity podwieszone są wykonane materiałów niepalnych niezapalnych, niekapiących nieodpadających pod wpływem ognia.
-1000, 1290, 1669 2245), jeżeli żłobek klub dziecięcy wydzielony od pozostałych lokali elementami budowlanymi o klasie odporności ogniowej co najmniej EI 30 oraz dla lokalu żłobka klubu dziecięcego są zapewnione niezależne warunki ewakuacji określone ust. 2 pkt 4 ust. 3.
-7. W lokalu, o którym mowa ust. 2, na drogach ewakuacyjnych tego lokalu są spełnione wymagania określone przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych terenów, właściwe dla kategorii zagrożenia ludzi tej strefy pożarowej, której lokal te drogi się znajdują, szczególności występują tym lokalu ani na tych drogach warunki techniczne będące podstawą uznania budynku za zagrażający życiu ludzi.
-8. Drogi ewakuacyjne lokalu, o którym mowa ust. 2, posiadają obudowę o klasie odporności ogniowej co najmniej EI 15, a wyjścia pomieszczeń na te drogi są zamykane drzwiami; wymaganie dotyczące klasy odporności ogniowej dotyczy przypadków, których lokalu zapewniono dwie drogi ewakuacyjne, które się pokrywają ani krzyżują.
-1a. Ilekroć rozporządzeniu mowa o: kondygnacji, kondygnacji nadziemnej, kategorii zagrożenia ludzi, strefie pożarowej, przejściu ewakuacyjnym, drodze ewakuacyjnej, klasie odporności ogniowej, palności wyrobów (materiałów) budowlanych oraz elementach budynku nierozprzestrzeniających ognia należy przez to rozumieć odpowiednio kondygnację, kondygnację nadziemną, kategorię zagrożenia ludzi, strefę pożarową, przejście ewakuacyjne, drogę ewakuacyjną, klasę odporności ogniowej, palność wyrobów (materiałów) budowlanych oraz elementy budynku nierozprzestrzeniające ognia rozumieniu przepisów warunków technicznych, jakim powinny odpowiadać budynki ich usytuowanie.
-2. Lokal, którym ma być prowadzony żłobek klub dziecięcy, oraz jego wyposażenie spełniają następujące warunki:
-1) powierzchnia każdego pomieszczenia przeznaczonego na zbiorowy pobyt od 3 5 dzieci wynosi co najmniej 16 m ;
-przypadku liczby dzieci większej niż 5 powierzchnia pomieszczenia przeznaczonego na zbiorowy pobyt dzieci ulega odpowiedniemu zwiększeniu na każde kolejne dziecko, tym że:
-a) powierzchnia przypadająca na każde kolejne dziecko wynosi co najmniej 2 m , jeżeli czas pobytu dziecka przekracza 5 godzin dziennie,
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 10 lipca 2014 r. w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy (Dz. U.
+poz. 925), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 8 grudnia 2017 r. zmieniającym rozporządzenie w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy (Dz. U. poz. 2379).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 8 grudnia 2017 r. zmieniającego rozporządzenie w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy (Dz. U. poz. 2379), które stanowią: „§ 2. 1. Utworzone przed dniem wejścia w życie niniejszego rozporządzenia żłobki lub kluby dziecięce spełniające wymagania określone w § 1 ust. 2–5 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym mogą być prowadzone na podstawie przepisów dotychczasowych.
+2. Dopuszcza się prowadzenie żłobka lub klubu dziecięcego na podstawie przepisów określonych w § 1 ust. 2–5 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, jeżeli podmiot zamierzający prowadzić ten żłobek lub klub dziecięcy wystąpi o potwierdzenie spełniania wymagań lokalowych i sanitarnych do właściwych organów do dnia 31 grudnia 2017 r.
+3. Podmioty prowadzące żłobki i kluby dziecięce, o których mowa w ust. 1 i 2, są obowiązane dostosować warunki lokalowe i sanitarne lokali, w których prowadzone są te żłobki i kluby dziecięce, do wymagań określonych w § 1 ust. 2 pkt 5, ust. 4 i 8 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem w terminie do dnia 1 stycznia 2019 r.
+§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.”.
+Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 10 lipca 2014 r.
+w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy Na podstawie art. 25 ust. 3 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2018 r.
+poz. 603, 650, 1544 i 1629 oraz z 2019 r. poz. 60) zarządza się, co następuje:
+§ 1. 1. Lokal, w którym ma być prowadzony żłobek lub klub dziecięcy, znajduje się w budynku lub jego części, które spełniają wymagania określone w przepisach w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, oraz wymagania ochrony przeciwpożarowej dla kategorii zagrożenia ludzi ZL II, określone w przepisach dotyczących ochrony przeciwpożarowej, z tym że dopuszcza się spełnienie tych wymagań także w sposób określony w art. 6a ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2018 r. poz. 620 i 1669).
+2. Dopuszcza się prowadzenie żłobka lub klubu dziecięcego w lokalu znajdującym się w budynku lub jego części, które nie spełniają wymagań określonych w ust. 1, jeżeli lokal:
+1) jest przeznaczony dla nie więcej niż 25 dzieci;
+2) znajduje się na pierwszej kondygnacji nadziemnej budynku i stanowi zwarty zespół przylegających do siebie i powiązanych funkcjonalnie pomieszczeń przeznaczonych na prowadzenie żłobka lub klubu dziecięcego;
+3) znajduje się w strefie pożarowej, w której elementy budynku są nierozprzestrzeniające ognia; wymaganie to nie dotyczy kondygnacji zlokalizowanych powyżej drugiej kondygnacji nadziemnej;
+4) posiada co najmniej dwa wyjścia na zewnątrz, przy czym jednym z nich są drzwi wyjściowe z lokalu, a drugim – inne drzwi lub okno umożliwiające wyjście, w bezpieczny sposób, osób wykonujących pracę w żłobku lub klubie dziecięcym z dziećmi, bezpośrednio w bezpieczne miejsce na zewnątrz budynku;
+5) został wyposażony w gaśnicę o skuteczności gaśniczej co najmniej 21 A, zgodnie z wymaganiami określonymi w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, niezależnie od gaśnic zastosowanych w strefie pożarowej, w której znajduje się lokal.
+3. W lokalu, o którym mowa w ust. 2, przejście ewakuacyjne z pomieszczenia przeznaczonego do przebywania dzieci, z wyłączeniem pomieszczeń higieniczno-sanitarnych, do drzwi, o których mowa w ust. 2 pkt 4, prowadzi łącznie przez nie więcej niż dwa pomieszczenia, włączając w to pomieszczenie przeznaczone do przebywania dzieci, i posiada długość nieprzekraczającą:
+1) 20 m lub
+2) 40 m – w przypadku przejścia ewakuacyjnego prowadzącego do drzwi stanowiących wyjście ewakuacyjne z lokalu bezpośrednio w bezpieczne miejsce na zewnątrz budynku.
+4. Elementy wykończenia wnętrz i wyposażenia stałego w lokalu, o którym mowa w ust. 2, i na drogach ewakuacyjnych z lokalu spełniają następujące warunki:
+1) stałe elementy wyposażenia i wystroju wnętrz oraz okładziny ścienne i wykładziny podłogowe są co najmniej trudno zapalne i nie są intensywnie dymiące;
+2) okładziny sufitów oraz sufity podwieszone są wykonane z materiałów niepalnych lub niezapalnych, niekapiących i nieodpadających pod wpływem ognia.
+5. Strefa pożarowa, w której znajduje się lokal, o którym mowa w ust. 2, jest strefą pożarową określaną jako ZL, zgodnie z przepisami w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, zlokalizowaną w obiekcie innym niż tymczasowy obiekt budowlany.
+6. W strefie pożarowej, o której mowa w ust. 5, może występować inny lokal, w którym jest prowadzony żłobek, klub dziecięcy lub przedszkole w rozumieniu ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245), jeżeli żłobek lub klub dziecięcy jest wydzielony od pozostałych lokali elementami budowlanymi o klasie odporności ogniowej co najmniej EI 30 oraz dla lokalu żłobka lub klubu dziecięcego są zapewnione niezależne warunki ewakuacji określone w ust. 2 pkt 4 i ust. 3.
+7. W lokalu, o którym mowa w ust. 2, i na drogach ewakuacyjnych z tego lokalu są spełnione wymagania określone w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, właściwe dla kategorii zagrożenia ludzi tej strefy pożarowej, w której lokal i te drogi się znajdują, w szczególności nie występują w tym lokalu ani na tych drogach warunki techniczne będące podstawą do uznania budynku za zagrażający życiu ludzi.
+8. Drogi ewakuacyjne z lokalu, o którym mowa w ust. 2, posiadają obudowę o klasie odporności ogniowej co najmniej EI 15, a wyjścia z pomieszczeń na te drogi są zamykane drzwiami; wymaganie dotyczące klasy odporności ogniowej nie dotyczy przypadków, w których z lokalu zapewniono dwie drogi ewakuacyjne, które się nie pokrywają ani nie krzyżują.
+§ 1a. Ilekroć w rozporządzeniu jest mowa o: kondygnacji, kondygnacji nadziemnej, kategorii zagrożenia ludzi, strefie pożarowej, przejściu ewakuacyjnym, drodze ewakuacyjnej, klasie odporności ogniowej, palności wyrobów (materiałów) budowlanych oraz elementach budynku nierozprzestrzeniających ognia – należy przez to rozumieć odpowiednio kondygnację, kondygnację nadziemną, kategorię zagrożenia ludzi, strefę pożarową, przejście ewakuacyjne, drogę ewakuacyjną, klasę odporności ogniowej, palność wyrobów (materiałów) budowlanych oraz elementy budynku nierozprzestrzeniające ognia w rozumieniu przepisów w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie.
+§ 2. Lokal, w którym ma być prowadzony żłobek lub klub dziecięcy, oraz jego wyposażenie spełniają następujące warunki:
+1) powierzchnia każdego pomieszczenia przeznaczonego na zbiorowy pobyt od 3 do 5 dzieci wynosi co najmniej 16 m ;
+w przypadku liczby dzieci większej niż 5 powierzchnia pomieszczenia przeznaczonego na zbiorowy pobyt dzieci ulega odpowiedniemu zwiększeniu na każde kolejne dziecko, z tym że:
+a) powierzchnia przypadająca na każde kolejne dziecko wynosi co najmniej 2 m , jeżeli czas pobytu dziecka nie przekracza 5 godzin dziennie,
 b) powierzchnia przypadająca na każde kolejne dziecko wynosi co najmniej 2,5 m , jeżeli czas pobytu dziecka przekracza 5 godzin dziennie;
 2) wysokość pomieszczeń przeznaczonych na pobyt dzieci wynosi co najmniej 2,5 m;
-3) zapewnione utrzymanie czystości porządku lokalu, pomieszczenia są utrzymywane odpowiednim stanie oraz są przeprowadzane ich okresowe remonty konserwacje;
-4) pomieszczeniach higieniczno-sanitarnych:
-a) podłoga ściany są wykonane tak, aby było możliwe łatwe utrzymanie czystości tych pomieszczeniach,
-b) ściany wysokości co najmniej 2 m są pokryte materiałami zmywalnymi, nienasiąkliwymi odpornymi na działanie wilgoci oraz materiałami nietoksycznymi odpornymi na działanie środków dezynfekcyjnych;
-5) pościel leżaki są wyraźnie oznakowane, przypisane konkretnego dziecka odpowiednio przechowywane, tak aby zapobiec przenoszeniu się zakażeń;
-6) pomieszczeniach przeznaczonych na pobyt dzieci na grzejnikach centralnego ogrzewania są umieszczone osłony ochraniające przed bezpośrednim kontaktem elementem grzejnym;
-7) instalacja elektryczna zabezpieczona przed dostępem dzieci;
-8) pomieszczeniach zapewniona temperatura co najmniej 20°C;
-9) zapewniony dostęp węzła sanitarnego ciepłą bieżącą wodą utrzymania higieny osobistej dzieci, tym że:
-a) zapewniona co najmniej miska ustępowa na więcej niż 20 dzieci umywalka na więcej niż
-d) urządzeniach sanitarnych zapewniona centralna regulacja mieszania ciepłej wody przy zachowaniu środków bezpieczeństwa, aby dopuścić poparzenia osób korzystających tychże urządzeń, zwłaszcza na końcówkach instalacji,
-e) zapewniona dostateczna ilość mydła płynie, jednorazowe ręczniki środki pielęgnacji dzieci;
-10) zapewnione stanowisko przewijania dzieci;
-11) zapewniona liczba nocników odpowiadająca liczbie dzieci, których poziom rozwoju umożliwia korzystanie przez nocnika;
-12) nocniki są myte dezynfekowane oraz przechowywane sposób zabezpieczony przed dostępem dzieci;
-13) zapewnione miejsce przechowywania sprzętu środków utrzymania czystości, zabezpieczone przed dostępem dzieci;
-14) zapewnione miejsce przechowywania odzieży wierzchniej, którego mogą jednocześnie korzystać dzieci osoby wykonujące pracę żłobku klubie dziecięcym;
-15) meble są dostosowane wymagań ergonomii;
-16) wyposażenie posiada atesty certyfikaty;
-17) zabawki spełniają wymagania bezpieczeństwa higieny oraz posiadają oznakowanie CE;
-18) zapewniona możliwość otwierania pomieszczeniu niewyposażonym wentylację mechaniczną klimatyzację co najmniej 50% powierzchni okien;
-19) pomieszczenia przeznaczone na pobyt dzieci są wietrzone ciągu co najmniej 4 razy przez co najmniej 10 minut, o ile są wentylowane poprzez instalację wentylacji mechanicznej nawiewno-wywiewnej klimatyzowane;
-20) pomieszczeniach zapewnione oświetlenie o parametrach zgodnych Polską Normą;
-21) apteczki lokalu są wyposażone podstawowe środki opatrunkowe oraz podstawowe środki niezbędne udzielania pierwszej pomocy instrukcję o zasadach udzielania tej pomocy.
-3. W żłobku klubie dziecięcym, którego uczęszcza dziecko karmione mlekiem matki, zapewnia się właściwe warunki jego przechowywania podawania.
-4. 1. W lokalu, którym ma być prowadzony żłobek klub dziecięcy, zapewnia się, miarę możliwości, bezpośrednie wyjście na teren otwarty wyposażony urządzenia zabaw, niedostępny dla osób postronnych.
-2. Niemowlętom zapewnia się, miarę możliwości, leżakowanie na świeżym powietrzu, szczególności na werandzie tarasie.
-5. 1. Do żłobków klubów dziecięcych utworzonych przed dniem wejścia życie niniejszego stosuje się przepisy dotychczasowe.
-2. Przepis ust. stosuje się również podmiotu zamierzającego prowadzić żłobek klub dziecięcy, który przed dniem wejścia życie niniejszego wystąpił o opinię komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej opinię właściwego państwowego inspektora sanitarnego, o której mowa art. 25 ust. 2 ustawy 4 lutego 2011 o opiece nad dziećmi wieku lat 3.
-6. Rozporządzenie wchodzi życie dniem 14 lipca 2014
+3) jest zapewnione utrzymanie czystości i porządku w lokalu, pomieszczenia są utrzymywane w odpowiednim stanie oraz są przeprowadzane ich okresowe remonty i konserwacje;
+4) w pomieszczeniach higieniczno-sanitarnych:
+a) podłoga i ściany są wykonane tak, aby było możliwe łatwe utrzymanie czystości w tych pomieszczeniach,
+b) ściany do wysokości co najmniej 2 m są pokryte materiałami zmywalnymi, nienasiąkliwymi i odpornymi na działanie wilgoci oraz materiałami nietoksycznymi i odpornymi na działanie środków dezynfekcyjnych;
+5) pościel i leżaki są wyraźnie oznakowane, przypisane do konkretnego dziecka i odpowiednio przechowywane, tak aby zapobiec przenoszeniu się zakażeń;
+6) w pomieszczeniach przeznaczonych na pobyt dzieci na grzejnikach centralnego ogrzewania są umieszczone osłony ochraniające przed bezpośrednim kontaktem z elementem grzejnym;
+7) instalacja elektryczna jest zabezpieczona przed dostępem dzieci;
+8) w pomieszczeniach jest zapewniona temperatura co najmniej 20°C;
+9) jest zapewniony dostęp do węzła sanitarnego z ciepłą bieżącą wodą do utrzymania higieny osobistej dzieci, z tym że:
+a) jest zapewniona co najmniej 1 miska ustępowa na nie więcej niż 20 dzieci i 1 umywalka na nie więcej niż 15 dzieci,
+b) umiejscowienie miski ustępowej i umywalki jest dostosowane do wzrostu dzieci, chyba że dzieci korzystają z tych samych urządzeń sanitarnych co osoby wykonujące pracę w żłobku lub klubie dziecięcym, przy czym zastosowano rozwiązania umożliwiające dzieciom bezpieczne korzystanie z tych urządzeń,
+c) jest zapewniony brodzik z natryskiem lub inne urządzenie do mycia ciała dziecka,
+d) w urządzeniach sanitarnych jest zapewniona centralna regulacja mieszania ciepłej wody przy zachowaniu środków bezpieczeństwa, aby nie dopuścić do poparzenia osób korzystających z tychże urządzeń, zwłaszcza na końcówkach instalacji,
+e) jest zapewniona dostateczna ilość mydła w płynie, jednorazowe ręczniki i środki do pielęgnacji dzieci;
+10) jest zapewnione stanowisko do przewijania dzieci;
+11) jest zapewniona liczba nocników odpowiadająca liczbie dzieci, których poziom rozwoju umożliwia korzystanie przez nie z nocnika;
+12) nocniki są myte i dezynfekowane oraz przechowywane w sposób zabezpieczony przed dostępem dzieci;
+13) jest zapewnione miejsce do przechowywania sprzętu i środków utrzymania czystości, zabezpieczone przed dostępem dzieci;
+14) jest zapewnione miejsce do przechowywania odzieży wierzchniej, z którego mogą jednocześnie korzystać dzieci i osoby wykonujące pracę w żłobku lub klubie dziecięcym;
+15) meble są dostosowane do wymagań ergonomii;
+16) wyposażenie posiada atesty lub certyfikaty;
+17) zabawki spełniają wymagania bezpieczeństwa i higieny oraz posiadają oznakowanie CE;
+18) jest zapewniona możliwość otwierania w pomieszczeniu niewyposażonym w wentylację mechaniczną lub klimatyzację co najmniej 50% powierzchni okien;
+19) pomieszczenia przeznaczone na pobyt dzieci są wietrzone w ciągu dnia co najmniej 4 razy przez co najmniej 10 minut, o ile nie są wentylowane poprzez instalację wentylacji mechanicznej nawiewno-wywiewnej lub klimatyzowane;
+20) w pomieszczeniach jest zapewnione oświetlenie o parametrach zgodnych z Polską Normą;
+21) apteczki w lokalu są wyposażone w podstawowe środki opatrunkowe oraz podstawowe środki niezbędne do udzielania pierwszej pomocy i instrukcję o zasadach udzielania tej pomocy.
+§ 3. W żłobku i klubie dziecięcym, do którego uczęszcza dziecko karmione mlekiem matki, zapewnia się właściwe warunki do jego przechowywania i podawania.
+§ 4. 1. W lokalu, w którym ma być prowadzony żłobek lub klub dziecięcy, zapewnia się, w miarę możliwości, bezpośrednie wyjście na teren otwarty wyposażony w urządzenia do zabaw, niedostępny dla osób postronnych.
+2. Niemowlętom zapewnia się, w miarę możliwości, leżakowanie na świeżym powietrzu, w szczególności na werandzie lub tarasie.
+§ 5. 1. Do żłobków lub klubów dziecięcych utworzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+2. Przepis ust. 1 stosuje się również do podmiotu zamierzającego prowadzić żłobek lub klub dziecięcy, który przed dniem wejścia w życie niniejszego rozporządzenia wystąpił o opinię komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej lub opinię właściwego państwowego inspektora sanitarnego, o której mowa w art. 25 ust. 2 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3.
+§ 6. Rozporządzenie wchodzi w życie z dniem 14 lipca 2014 r.
 

@@ -8,10 +8,10 @@ pos: 2270
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 grudnia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2270 Rozpo R ządzenie M ini STRA Kli MAT u i ŚR odo W i SKA z dnia 4 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,24 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2270/text.pdf) |
 
-Rozpo R ządzenie M ini STRA Kli MAT u i ŚR odo W i SKA z dnia 4 grudnia 2020 r.
-w sprawie informacji dotyczących ruchów masowych ziemi Na podstawie art. 110a ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565 i 2127) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie informacji dotyczących ruchów masowych ziemi Na podstawie art. 110a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565 i 2127) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób ustalania terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy;
 2) metody, zakres i częstotliwość prowadzenia obserwacji terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy;
 3) informacje, jakie powinien zawierać rejestr terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy, zwany dalej „rejestrem”;
 4) sposób prowadzenia, formę i układ rejestru.
-§ 2. 1. Tereny zagrożone ruchami masowymi ziemi oraz tereny, na których występują te ruchy, ustala się na podstawie terenowego kartowania geologicznego lub map osuwisk i terenów zagrożonych w skali 1 : 10 000, kart rejestracyjnych terenów zagrożonych ruchami masowymi ziemi oraz kart rejestracyjnych terenów, na których występują ruchy masowe ziemi, przekazanych przez podmiot pełniący państwową służbę geologiczną na podstawie art. 163 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064 i 1339).
+§ 2. 1. Tereny zagrożone ruchami masowymi ziemi oraz tereny, na których występują te ruchy, ustala się na podstawie terenowego kartowania geologicznego lub map osuwisk i terenów zagrożonych w skali 1 : 10 000, kart rejestracyjnych terenów zagrożonych ruchami masowymi ziemi oraz kart rejestracyjnych terenów, na których występują ruchy masowe ziemi, przekazanych przez podmiot pełniący państwową służbę geologiczną na podstawie art. 163 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064 i 1339).
 2. W celu ustalenia terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy, można dodatkowo przeprowadzić w szczególności:
 1) wizję w terenie;
 2) wywiad z miejscową ludnością;
 3) analizę dostępnych materiałów kartograficznych, geologicznych, fotogrametrycznych i teledetekcyjnych.
 3. Po ustaleniu terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy, sporządza się kartę rejestracyjną terenu zagrożonego ruchami masowymi ziemi albo kartę rejestracyjną terenu, na którym występują ruchy masowe ziemi.
 4. Karty rejestracyjne, o których mowa w ust. 3, wprowadza się do rejestru i aktualizuje w razie zmiany zawartych w nich informacji, bez zbędnej zwłoki.
-Minister Klimatu i Środowiska kieruje działem administracji rządowej środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska § 3. 1. Obserwacje terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy, prowadzi się metodą wizji w terenie albo metodą monitoringu.
+Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
+§ 3. 1. Obserwacje terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy, prowadzi się metodą wizji w terenie albo metodą monitoringu.
 2. Metoda monitoringu polega na dokonywaniu pomiarów:
-1) powierzchniowego ruchu mas ziemnych przy zastosowaniu pomiarów geodezyjnych określonych w przepisach wydanych na podstawie art. 19 ust. 1 pkt 11 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U.
+1) powierzchniowego ruchu mas ziemnych przy zastosowaniu pomiarów geodezyjnych określonych w przepisach wydanych na podstawie art. 19 ust. 1 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U.
 z 2020 r. poz. 2052), zwana dalej „monitoringiem powierzchniowym”, lub
-2) wgłębnego ruchu mas ziemnych, przy zastosowaniu wgłębnych pomiarów pozwalających na rozpoznanie liczby, rodzaju i głębokości położenia powierzchni poślizgu, zwana dalej „monitoringiem wgłębnym” w celu określenia prędkości i kierunku przemieszczenia mas ziemnych.
+2) wgłębnego ruchu mas ziemnych, przy zastosowaniu wgłębnych pomiarów pozwalających na rozpoznanie liczby, rodzaju i głębokości położenia powierzchni poślizgu, zwana dalej „monitoringiem wgłębnym” – w celu określenia prędkości i kierunku przemieszczenia mas ziemnych.
 3. Dla prowadzenia monitoringu, o którym mowa w ust. 2, określa się liczbę i rodzaj punktów obserwacyjnych.
 4. Obserwacje prowadzi się z częstotliwością stosowną do ryzyka wystąpienia bezpośredniego zagrożenia dla życia i zdrowia ludzi oraz mienia, jednakże nie rzadziej niż raz na 3 lata, oraz każdorazowo po powzięciu przez starostę informacji o wystąpieniu ruchów masowych ziemi.
 5. Z prowadzonych obserwacji sporządza się protokół obserwacji.
@@ -64,43 +65,40 @@ b) terenu, na którym występują ruchy masowe ziemi;
 § 5. Do postępowania z mapami terenów, na których występują ruchy masowe ziemi, oraz terenów zagrożonych możliwością wystąpienia ruchów masowych ziemi, a także z kartami rejestracyjnymi terenu zagrożonego ruchami masowymi ziemi i kartami rejestracyjnymi osuwiska, sporządzonymi przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 § 6. Traci moc rozporządzenie Ministra Środowiska z dnia 20 czerwca 2007 r. w sprawie informacji dotyczących ruchów masowych ziemi (Dz. U. poz. 840).
 § 7. Rozporządzenie wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia.
-Minister Klimatu i Środowiska: M. Kurtyka Załączniki do rozporządzenia MinistraKlimatu i Środowiska z dnia4 grudnia 2020 r. (poz….) Załącznik nr 1 WZÓR KARTY REJESTRACYJNEJ TERENU ZAGROŻONEGO RUCHAMI MASOWYMI ZIEMI Załączniki do rozporządzenia Ministra Klimatu i Środowiska z dnia 4 grudnia 2020 r. (poz. 2270) załącznik nr 1 WZÓR KARTY REJESTRACYJNEJ TERENU ZAGROŻONEGO RUCHAMI MASOWYMI ZIEMI
+Minister Klimatu i Środowiska: M. Kurtyka Załączniki do rozporządzenia MinistraKlimatu Załączniki i Środowiska do rozporządzenia Ministra Klimatu i Środowiska z dnia 4 grudnia 2020 r. (poz. 2270) z dnia4 grudnia 2020 r. (poz….) załącznik nr 1 Załącznik nr 1 WZÓR KARTY REJESTRACYJNEJ TERENU WZÓR KARTY REJESTRACYJNEJ TERENU ZAGROŻONEGO RUCHAMI MASOWYMI ZIEMI ZAGROŻONEGO RUCHAMI MASOWYMI ZIEMI
 1. Numer ewidencyjny :
 2. Lokalizacja:
 1. Miejscowość : 2. Gmina : 3. Powiat : 4. Województwo :
 5. Numer ewidencyjny działek :
-6. Współrzędne płaskie prostokątne : X: Y:
-7. Mapa terenu :
+6. Współrzędne płaskie 7. Mapa terenu : prostokątne : X: Y:
 3. Główne kryterium wyznaczenia terenu :
 4. Wskazania dotyczące obserwacji :
 5. Wypełniający kartę (imię 6. Kategoria i numer kwalifikacji 7. Instytucja : i nazwisko): geologicznych :
 8. Data ustalenia : 9. Data wypełnienia karty : Ob j aśn i en ia : Siedem pierwszych cyfr oznacza identyfikator gminy według Krajowego rejestru urzędowego podziału terytorialnego kraju, o którym mowa w art. 41 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443, z późn. zm.), zwanego dalej „TERYT”, a sześć ostatnich cyfr oznacza numer identyfikacyjny nadawany przy wprowadzaniu karty rejestracyjnej terenu zagrożonego ruchami masowymi ziemi do bazy danych zagrożeń SOPO (System Osłony Przeciwosuwiskowej). W przypadku lokalizacji terenu w więcej niż jednej gminie, powiecie, województwie, należy podać identyfikatory wszystkich jednostek podziału terytorialnego.
 Nazwy jednostek podziału terytorialnego według TERYT.
 Fakultatywnie.
-Należy podać współrzędne płaskie prostokątne środka terenu X (północna) i Y (wschodnia) w układzie PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
+Należy podać współrzędne płaskie prostokątne środka terenu X (północna) i Y (wschodnia) w układzie PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
 poz. 2052).
 Należy zamieścić mapę z zasięgiem terenu z podziałką liniową.
 Należy podać według kryteriów geomorfologicznych, geologicznych, hydrogeologicznych lub hydrologicznych, antropogenicznych.
 Jeżeli są znane.
 Należy podać ewentualne uwagi i zalecenia dotyczące prowadzenia obserwacji i zagospodarowania przestrzennego terenu zagrożonego ruchami masowymi ziemi.
-Wymagane kategorie: VI, VII lub VIII. Należy podać numer kwalifikacji geologicznych zgodnie z przepisami ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064, z późn. zm.) albo numer decyzji uznającej kwalifikacje zawodowe w dziedzinie geologii, albo informację „osoba świadcząca usługi transgraniczne”.
+Wymagane kategorie: VI, VII lub VIII. Należy podać numer kwalifikacji geologicznych zgodnie z przepisami ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064, z późn. zm.) albo numer decyzji uznającej kwalifikacje zawodowe w dziedzinie geologii, albo informację „osoba świadcząca usługi transgraniczne”.
 Należy podać nazwę i siedzibę instytucji.
 Należy podać dzień, miesiąc, rok.
-
-## Załącznik nr 2 — WZÓR KARTY REJESTRACYJNEJ TERENU, NA KTÓRYM WYSTĘPUJĄ RUCHY MASOWE ZIEMI załącznik nr 2 WZÓR KARTY REJESTRACYJNEJ TERENU, NA KTÓRYM WYSTęPUJą RUCHY MASOWE ZIEMI
-
+Załącznik nr załącznik 2 nr 2 WZÓR KARTY REJESTRACYJNEJ TERENU, NA KTÓRYM WZÓR KARTY WYSTĘPUJĄ REJESTRACYJNEJ TERENU, RUCHY NA KTÓRYM MASOWE WYSTęPUJą ZIEMI RUCHY MASOWE ZIEMI
 1. Numer ewidencyjny :
 2. Lokalizacja:
 1. Miejscowość : 2. Gmina : 3. Powiat : 4. Województwo :
 5. Numer ewidencyjny działek :
 6. Mapa topograficzna 1 : 10 000 : 7. Arkusz SMGP 1 : 50 000 : 8. Współrzędne płaskie prostokątne : X: Y:
-9. Kraina geograficzna: 10. Jednostka 11. Zlewnia tektoniczna: : 12. Inne dane lokalizacyjne :
+9. Kraina geograficzna: 10. Jednostka 11. Zlewnia : 12. Inne dane tektoniczna: lokalizacyjne :
 3. Charakterystyka:
 1. Sytuacja geomorfologiczna : 2. Układ geologiczny :
 3. Rodzaj materiału : 4. Rodzaj ruchu : 5. Stopień aktywności :
 6. Krótki opis :
 4. Parametry morfologiczne :
-1) Ogólne: Powierzchnia Długość [ha]: [m] Szerokość : [m] Wysokość : maksymalna [m n.p.m.] Wysokość minimalna : [m n.p.m.] Rozpiętość pionowa : [m] Nachylenie [°] : :
+1) Ogólne: Powierzchnia Długość Szerokość Wysokość Wysokość Rozpiętość Nachylenie [ha]: [m] : [m] : maksymalna minimalna pionowa [°] : [m n.p.m.] : [m n.p.m.] : [m] :
 2) Skarpa główna: Wysokość [m] : Nachylenie [°]: Szczeliny powyżej skarpy : Skarpy drugorzędne :
 3) Koluwium: Wysokość czoła [m]: Długość [m] Nachylenie [°] Miąższość [m] : mierzona szacowana
 5. Podłoże:
@@ -126,10 +124,10 @@ c) Infrastruktura komunikacyjna: c) Infrastruktura komunikacyjna:
 d) Linie przesyłowe: d) Linie przesyłowe:
 e) Inne: e) Inne:
 3) Ocena możliwości wystąpienia dalszych ruchów osuwiskowych:
-11. Rodzaje i zakres wykonanych prac zabezpieczających Opis: TAK NIE :
+11. Rodzaje i zakres wykonanych prac zabezpieczających : Opis: TAK NIE
 12. Prowadzenie obserwacji:
-1) Wskazania do prowadzenia wizji w terenie Opis: TAK NIE :
-2) Wskazania do wprowadzenia monitoringu Opis: TAK NIE :
+1) Wskazania do prowadzenia wizji w terenie : Opis: TAK NIE
+2) Wskazania do wprowadzenia monitoringu : Opis: TAK NIE
 a) Dotychczas prowadzony monitoring powierzchniowy: Opis: TAK NIE
 b) Dotychczas prowadzony monitoring wgłębny: Opis: TAK NIE
 13. Stan badań :
@@ -141,7 +139,7 @@ b) Dotychczas prowadzony monitoring wgłębny: Opis: TAK NIE
 21. Data ustalenia : 22. Data wypełnienia karty : Ob j aśn i en ia : Siedem pierwszych cyfr oznacza identyfikator gminy według Krajowego rejestru urzędowego podziału terytorialnego kraju, o którym mowa w art. 41 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443, z późn. zm.) , zwanego dalej „TERYT”, a sześć ostatnich cyfr oznacza numer identyfikacyjny nadawany przy wprowadzaniu karty rejestracyjnej terenu , na którym występują ruchy masowe ziemi, do bazy danych zagrożeń SOPO (System Osłony Przeciwosuwiskowej). W przypadku lokalizacji terenu w więcej niż jednej gminie, powiecie, województwie, należy podać identyfikatory wszystkich jednostek podziału terytorialnego.
 Nazwy jednostek podziału terytorialnego według TERYT.
 Fakultatywnie.
-Należy podać godło mapy topograficznej w skali 1 : 10 000 w układzie PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 2052).
+Należy podać godło mapy topograficznej w skali 1 : 10 000 w układzie PL-1992, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 2052).
 Należy podać nazwę oraz numer (w nawiasie) arkusza Szczegółowej Mapy Geologicznej Polski (SMGP) w skali 1 : 50 000.
 Należy podać współrzędne płaskie prostokątne środka terenu X (północna) i Y (wschodnia) w układzie PL-1992.
 Należy podać zlewnię, na terenie której znajduje się teren, na podstawie Mapy Podziału Hydrograficznego Polski w skali 1 : 10 000.
@@ -177,7 +175,7 @@ d) zsuw rotacyjny,
 e) spływanie,
 f) spełzywanie,
 g) złożony (zmiana formy ruchu w dół stoku).
-W przypadku osuwiska aktywnego ciągle należy wpisać „A”; w przypadku osuwiska aktywnego okresowo „O”; a w przypadku osuwiska nieaktywnego „N”.
+W przypadku osuwiska aktywnego ciągle należy wpisać „A”; w przypadku osuwiska aktywnego okresowo – „O”; a w przypadku osuwiska nieaktywnego – „N”.
 Należy podać zwięzły opis osuwiska uwzględniający stopień aktywności.
 Należy wypełnić, korzystając z rysunku: Należy podać maksymalną długość osuwiska mierzoną zgodnie z kierunkiem ruchu mas koluwialnych (L).
 Należy podać maksymalną szerokość osuwiska (W).
@@ -225,8 +223,8 @@ g) cieki powierzchniowe.
 Należy podać dokładną datę lub przybliżony czas powstania osuwiska, o ile jest znane.
 Należy podać informacje uzupełniające dotyczące czasu powstania osuwiska.
 Wybrać jedną z przyczyn ruchu osuwiskowego:
-a) naturalna: podcięcie erozyjne, infiltracja wód opadowych, infiltracja wód roztopowych, wypływy wód na zboczu, sprzyjający układ warstw, inna,
-b) sztuczna: podcięcie przez wykop, obciążenie nasypem, obciążenie obiektem budowlanym, uszkodzenia drenażu, drgania i wstrząsy, antropogeniczne strome pochylenie skarpy, górnicze deformacje terenu, inna,
+a) naturalna: – podcięcie erozyjne, – infiltracja wód opadowych, – infiltracja wód roztopowych, – wypływy wód na zboczu, – sprzyjający układ warstw, – inna,
+b) sztuczna: – podcięcie przez wykop, – obciążenie nasypem, – obciążenie obiektem budowlanym, – uszkodzenia drenażu, – drgania i wstrząsy, – antropogeniczne strome pochylenie skarpy, – górnicze deformacje terenu, – inna,
 c) nieokreślona.
 Należy podać datę lub przybliżony czas aktywności osuwiska.
 Należy podać informacje uzupełniające dotyczące czasu i obszaru aktywności osuwiska.
@@ -250,12 +248,10 @@ Należy zamieścić mapę z zasięgiem terenu na podkładzie topograficznym w sk
 Należy sporządzić tylko w przypadku istnienia wystarczających danych geologicznych (np. na podstawie dokumentacji geologiczno-inżynierskiej).
 Należy załączyć fakultatywnie dokumentację fotograficzną obejmującą, w miarę możliwości, cały teren lub jego fragmenty aktywne i zniszczenia wywołane ruchami masowymi.
 Należy zamieścić informacje o możliwości zabezpieczenia oraz informacje, których zakres wykracza poza zagadnienia wyszczególnione w karcie.
-Wymagane kategorie: VI, VII lub VIII. Należy podać numer kwalifikacji geologicznych zgodnie z przepisami ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064, z późn. zm.) albo numer decyzji uznającej kwalifikacje zawodowe w dziedzinie geologii, albo informację „osoba świadcząca usługi transgraniczne”.
+Wymagane kategorie: VI, VII lub VIII. Należy podać numer kwalifikacji geologicznych zgodnie z przepisami ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064, z późn. zm.) albo numer decyzji uznającej kwalifikacje zawodowe w dziedzinie geologii, albo informację „osoba świadcząca usługi transgraniczne”.
 Należy podać nazwę i siedzibę instytucji.
 Należy podać dzień, miesiąc i rok.
-
-## Załącznik nr 3 — WZÓR PROTOKOŁU OBSERWACJI załącznik nr 3 WZÓR PROTOKOłU ObSERWACJI
-
+załącznik nr 3 WZÓR PROTOKOłU ObSERWACJI Załącznik nr3 WZÓR PROTOKOŁU OBSERWACJI
 1. Numer ewidencyjny :
 2. Wnioski z obserwacji :
 3. Zalecenia co do dalszych obserwacji :

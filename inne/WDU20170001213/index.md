@@ -8,7 +8,7 @@ pos: 1213
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 49/A/2017 WYROK z dnia 20 czerwca 2017 r.

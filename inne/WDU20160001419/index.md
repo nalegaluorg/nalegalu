@@ -8,10 +8,10 @@ pos: 1419
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 września 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1419 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 7 września 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001419) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1419/text.pdf) |
 
-Poz. 1419 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 7 września 2016 r.
 w sprawie identyfikacji banku w systemie teleinformatycznym obsługującym zajęcie wierzytelności z rachunku bankowego Na podstawie art. 112d ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn.
-zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe wymagania dotyczące identyfikacji banku w systemie teleinformatycznym, sposób posługiwania się podpisem elektronicznym na potrzeby autoryzacji treści przesyłanych w tym systemie oraz wymagania w zakresie doręczania korespondencji za jego pośrednictwem.
+zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe wymagania dotyczące identyfikacji banku w systemie teleinformatycznym, sposób posługiwania się podpisem elektronicznym na potrzeby autoryzacji treści przesyłanych w tym systemie oraz wymagania w zakresie doręczania korespondencji za jego pośrednictwem.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
 1) koncie – rozumie się przez to zbiór danych określających użytkownika wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego użytkownika;
 2) odbiorze pisma – rozumie się przez to poprzedzone uwierzytelnieniem pobranie doręczanego pisma;
@@ -38,7 +38,7 @@ zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółow
 § 4. W celu autoryzacji treści pisma składa się kwalifikowany podpis elektroniczny.
 § 5. W celu ochrony poufności informacji zawartych w pismach transmisja danych jest szyfrowana za pomocą protokołu TLS.
 § 6. W celu doręczenia pisma za pośrednictwem systemu teleinformatycznego pismo jest umieszczane w systemie teleinformatycznym w sposób umożliwiający użytkownikowi odbiór pisma za pośrednictwem konta danego użytkownika.
-Dziennik Ustaw – 2 – Poz. 1419 § 7. Doręczenie pisma odbywa się:
+§ 7. Doręczenie pisma odbywa się:
 1) przy użyciu interfejsu użytkownika tego systemu teleinformatycznego lub
 2) w drodze wymiany danych pomiędzy systemem teleinformatycznym a systemem informatycznym użytkownika realizowanej z wykorzystaniem rozwiązań opartych na modelu usługowym.
 § 8. Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.

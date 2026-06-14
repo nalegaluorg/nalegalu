@@ -8,7 +8,7 @@ pos: 39
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw
@@ -29,7 +29,26 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558 oraz z 2025 r. poz. 1077) wprowadza się następujące zmiany:
 
+- **1)** w art. 8 po ust. 1 dodaje się ust. 1 –1 w brzmieniu: „1 . Pełnomocnikiem członka spółdzielni będącego osobą fizyczną może być:
+- **1)** osoba bliska członka z wyłączeniem osób pozostających faktycznie we wspólnym pożyciu;
+- **2)** adwokat lub radca prawny;
+- **3)** inny członek tej samej spółdzielni.
+
+1. Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27 , że spełnia wymóg, o którym mowa w ust. 1 pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
+
+1. Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 1 zdanie pierwsze, jest nieważne.
+
+1. Członek spółdzielni lub pełnomocnik jest obowiązany do doręczenia spółdzielni pełnomocnictwa, a w przypadku gdy pełnomocnikiem jest osoba bliska członka – również oświadczenia, o którym mowa w ust. 1 zdanie pierwsze, nie później niż 3 dni przed terminem posiedzenia walnego zgromadzenia lub jego pierwszej części. 1 Pełnomocnik nie może brać udziału w głosowaniu, którego przedmiotem jest wybór i odwołanie członków rady nadzorczej lub członków zarządu spółdzielni.”;
+
+- **2)** po art. 27 dodaje się art. 27 w brzmieniu: „Art. 27 . Kto składa fałszywe oświadczenie, o którym mowa w art. 8 ust. 1 zdanie pierwsze, podlega karze grzywny.”;
+- **3)** w art. 27 po wyrazach „art. 27 ” dodaje się wyrazy „i art. 27 ”;
+- **4)** w art. 49 ust. 1 otrzymuje brzmienie: „1. Jeżeli przed upływem 24 miesięcy od dnia wejścia ustawy w życie spółdzielnia nie podejmie czynności, o których mowa w art. 41 i art. 42, a nie toczy się postępowanie sądowe w trybie art. 43 ust. 5, sąd na wniosek osoby, której zgodnie z przepisami ustawy przysługuje, z zastrzeżeniem art. 36, prawo żądania przeniesienia na nią własności lokalu należącego przed tym dniem do spółdzielni, orzeka o ustanowieniu odrębnej własności lokalu mieszkalnego lub lokalu o innym przeznaczeniu, na zasadach określonych w art. 39–43.”;
+- **5)** art. 49 otrzymuje brzmienie: „Art. 49 . Jeżeli spółdzielnia uchyla się jedynie od złożenia oświadczenia woli o ustanowieniu albo przeniesieniu odrębnej własności lokalu na rzecz osoby, o której mowa w art. 49 ust. 1, osoba ta może wystąpić do sądu z powództwem o zobowiązanie spółdzielni do złożenia odpowiedniego oświadczenia woli.”.
+
 **Art. 2.** W ustawie z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 w ust. 3 po wyrazach „art. 22 ust. 3 pkt 5, 5a i 6” dodaje się wyrazy „oraz w art. 32a”;
+- **2)** w art. 32a w pkt 2 wyrazy „wspólnoty mieszkaniowej” zastępuje się wyrazami „właścicieli lokali”.
 
 **Art. 3.** W ustawie z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273) w art. 22a w ust. 2 w pkt 2 po wyrazach „o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940)” kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) spółdzielnia mieszkaniowa.”.
 

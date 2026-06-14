@@ -8,10 +8,10 @@ pos: 669
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 669 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 27 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000669) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/669/text.pdf) |
 
-Poz. 669 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 27 marca 2023 r.
 w sprawie wykroczeń, za które pracownicy urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej wykonujący kontrolę gospodarowania wodami są uprawnieni do nakładania grzywien w drodze mandatu karnego, oraz warunków i sposobu wydawania upoważnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
-z 2022 r. poz. 1124) zarządza się, co następuje: § 1. Pracownicy urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej wykonujący kontrolę gospodarowania wodami są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w art. 476 ust. 1 i 2, art. 477 pkt 4–11 oraz art. 478 pkt 1, 2, 8 i 12–16 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U.
+z 2022 r. poz. 1124) zarządza się, co następuje:
+§ 1. Pracownicy urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej wykonujący kontrolę gospodarowania wodami są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w art. 476 ust. 1 i 2, art. 477 pkt 4–11 oraz art. 478 pkt 1, 2, 8 i 12–16 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U.
 z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295 i 412).
 § 2. Upoważnienie do nakładania grzywien w drodze mandatu karnego wydaje minister właściwy do spraw gospodarki wodnej.
 § 3. Upoważnienie do nakładania grzywien w drodze mandatu karnego zawiera:

@@ -8,10 +8,10 @@ pos: 2443
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 grudnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2443 ROZPORZĄDZENIE MINISTRA KLIMATU z dnia 11 grudnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2443/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA KLIMATU z dnia 11 grudnia 2019 r.
-w sprawie wykazów zawierających informacje i dane o zakresie korzystania ze środowiska oraz o wysokości należnych opłat Na podstawie art. 286 ust. 6 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wykazów zawierających informacje i dane o zakresie korzystania ze środowiska oraz o wysokości należnych opłat Na podstawie art. 286 ust. 6 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzory wykazów zawierających:
-a) informacje i dane o: zakresie korzystania ze środowiska, wykorzystane do ustalenia wysokości opłat za korzystanie ze środowiska, zwanych dalej „opłatami”, oraz wysokości należnych opłat,
+a) informacje i dane o: – zakresie korzystania ze środowiska, wykorzystane do ustalenia wysokości opłat za korzystanie ze środowiska, zwanych dalej „opłatami”, oraz – wysokości należnych opłat,
 b) zbiorcze zestawienie informacji o zakresie korzystania ze środowiska oraz o wysokości należnych opłat ‒ zwanych dalej „wykazami”;
 2) formę i postać wykazów;
 3) sposób przedkładania wykazów i wymagania z tym związane.
@@ -43,14 +43,14 @@ b) zbiorcze zestawienie informacji o zakresie korzystania ze środowiska oraz o 
 1) wnoszone na elektroniczną skrzynkę podawczą właściwych organów;
 2) opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 § 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-Minister Klimatu: M. Kurtyka M ……… W W W M W M W W W W W W W aksiwodorś ez ainatsyzrok acsjeim bul ecsjeiM … … … … … W … … W W W W W W W W W W W W W W W ………………… … ………… ………………………………………………… ………………………………………………………… W W M W M W M M W M M W M W W aksiwodorś ez ainatsyzrok acsjeim bul ecsjeiM … … W … W … W … W ………………… … ………… ………………………………………………… ………………………………………………………… W W M W W W aksiwodorś ez ainatsyzrok acsjeim bul ecsjeiM W W W … … … ………………… …………… ………………………………………………… ………………………………………………………… Załącznik nr 4 WZÓR WYKAZ ZAWIERAJĄCY ZBIORCZE ZESTAWIENIE INFORMACJI O ZAKRESIE KORZYSTANIA ZE ŚRODOWISKA ORAZ O WYSOKOŚCI NALEŻNYCH OPŁAT Zbiorcze zestawienie informacji o zakresie korzystania ze środowiska oraz o wysokości należnych opłat rok : Podmiot korzystający ze środowiska Nazwa: Adres: NIP: Telefon lub fax: Adres e-mail: Lp. Rodzaj korzystania ze środowiska Kod tabeli Wysokość opłaty [zł] 1 Wprowadzanie gazów lub pyłów do powietrza
+Minister Klimatu: M. Kurtyka M W W ……… M W … … W aksiwodorś ez ainatsyzrok acsjeim W bul ecsjeiM W M W W W W W … … … W … … W W W W W W W W W W W W W W W ………………………………………………………… ………………………………………………… ………… … ………………… W M W W M W M … … aksiwodorś ez ainatsyzrok acsjeim M bul ecsjeiM M W W M M W W W … W … W … W ………………………………………………………… ………………………………………………… ………… … ………………… W W aksiwodorś ez ainatsyzrok W acsjeim bul ecsjeiM M W W W W … … W … ………………………………………………………… ………………………………………………… …………… ………………… Dziennik Ustaw 30 – 30 – Poz. 2443 WZÓR Załącznik nr 4 WZÓR WYKAZ ZAWIERAJĄCY ZBIORCZE ZESTAWIENIE INFORMACJI O ZAKRESIE KORZYSTANIA ZE ŚRODOWISKA ORAZ O WYSOKOŚCI NALEŻNYCH OPŁAT Zbiorcze zestawienie informacji o zakresie korzystania ze środowiska rok : oraz o wysokości należnych opłat Podmiot korzystający ze środowiska Nazwa: Adres: NIP: Telefon lub fax: Adres e-mail: Lp. Rodzaj korzystania ze środowiska Kod Wysokość opłaty tabeli [zł] 1 Wprowadzanie gazów lub pyłów do powietrza
 1.1 Źródła powstawania substancji wprowadzanych do powietrza A
 1.2 Przeładunek benzyn silnikowych B
 1.3 Kotły o nominalnej mocy cieplnej do 5 MW opalane węglem C kamiennym, koksem, drewnem, olejem lub paliwem gazowym, dla których nie jest wymagane pozwolenie na wprowadzanie gazów lub pyłów do powietrza albo pozwolenie zintegrowane
 1.4 Silniki spalinowe D
 1.5 Chów lub hodowla drobiu E I Wysokość opłaty za wprowadzanie gazów lub pyłów do powietrza ogółem 2 Wprowadzanie gazów do powietrza z tytułu emisji gazów cieplarnianych objętych systemem handlu uprawnieniami do emisji, która nie została rozliczona II Wysokość opłaty za wprowadzanie gazów lub pyłów do powietrza z tytułu emisji gazów cieplarnianych objętych systemem handlu uprawnieniami do emisji, która nie została rozliczona ogółem 3 Wydane uprawnienia do emisji III Wysokość opłaty za wydane uprawnienia do emisji ogółem 4 Składowanie odpadów
 4.1 Odpady składowane selektywnie A
-4.2 Odpady składowane nieselektywnie A IV Wysokość opłaty za składowanie odpadów ogółem Suma opłat ogółem [zł] WZÓR Objaśnienia: Wypełnia się w każdym przypadku przedkładania któregokolwiek z wykazów zawartych w załącznikach nr 1–3 do rozporządzenia Ministra Klimatu z dnia 11 grudnia 2019 r. w sprawie wykazów zawierających informacje i dane o zakresie korzystania ze środowiska oraz o wysokości należnych opłat.
+4.2 Odpady składowane nieselektywnie A IV Wysokość opłaty za składowanie odpadów ogółem Suma opłat ogółem [zł] Dziennik Ustaw 31 – 31 – Poz. 2443 Objaśnienia: Wypełnia się w każdym przypadku przedkładania któregokolwiek z wykazów zawartych w załącznikach nr 1–3 do rozporządzenia Ministra Klimatu z dnia 11 grudnia 2019 r. w sprawie wykazów zawierających informacje i dane o zakresie korzystania ze środowiska oraz o wysokości należnych opłat.
 Należy podać rok, którego dotyczy wykaz.
 Oznaczenie literowe tabel w załącznikach nr 1–3 do rozporządzenia Ministra Klimatu z dnia 11 grudnia 2019 r.
 w sprawie wykazów zawierających informacje i dane o zakresie korzystania ze środowiska oraz o wysokości należnych opłat; należy podkreślić kod tej tabeli, którą dany podmiot korzystający ze środowiska wypełnił.

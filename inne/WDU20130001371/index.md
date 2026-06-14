@@ -8,10 +8,10 @@ pos: 1371
 act_type: Konwencja
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 listopada 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1371 Konwencja między Rzecząpospolitą Polską a Kanadą w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu wraz z Protokołem, podpisane w Ottawie dnia 14 maja 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1371/text.pdf) |
 
-Konwencja między Rzecząpospolitą Polską a Kanadą w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu wraz z Protokołem, podpisane w Ottawie dnia 14 maja 2012 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPOsPOlitej POlskiej podaje do powszechnej wiadomości: Dnia 14 maja 2012 r. w Ottawie zostały podpisane Konwencja między Rzecząpospolitą Polską a Kanadą w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu wraz z Protokołem, w następującym brzmieniu: Po zaznajomieniu się z powyższymi konwencją oraz protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, są przyjęte, ratyfikowane i potwierdzone, będą niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPOsPOlitej POlskiej podaje do powszechnej wiadomości: Dnia 14 maja 2012 r. w Ottawie zostały podpisane Konwencja między Rzecząpospolitą Polską a Kanadą w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu wraz z Protokołem, w następującym brzmieniu: Po zaznajomieniu się z powyższymi konwencją oraz protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, – są przyjęte, ratyfikowane i potwierdzone, – będą niezmiennie zachowywane.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 8 stycznia 2013 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.
+Prezes Rady Ministrów: D. Tusk
 

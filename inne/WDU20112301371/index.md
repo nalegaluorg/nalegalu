@@ -8,7 +8,7 @@ pos: 1371
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-10-27 |
-| Ostatnia zmiana | 2026-03-18 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112301371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -77,6 +77,31 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** pseudonimizacji – rozumie się przez to przetworzenie danych osobowych w taki sposób, aby nie można ich było już przypisać konkretnej osobie, której dane dotyczą, bez użycia dodatkowych informacji, pod warunkiem że takie dodatkowe informacje są przechowywane osobno i są objęte środkami technicznymi i organizacyjnymi uniemożliwiającymi ich przypisanie zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej;
+- **2)** (uchylony)
+- **3)** informacji – rozumie się przez to wszelkie treści dotyczące co najmniej jednej osoby fizycznej lub prawnej, faktów lub okoliczności istotnych dla podmiotów uprawnionych do celów wykonywania przez nie zadań na podstawie przepisów odrębnych w zakresie zapobiegania przestępstwom lub przestępstwom skarbowym, ich wykrywania lub prowadzenia postępowań przygotowawczych w ich sprawie, w tym dane wywiadowcze dotyczące tych przestępstw;
+- **3a)** informacjach dostępnych – rozumie się przez to informacje przechowywane w bazie danych, do których dostęp bezpośredni posiada punkt kontaktowy lub upoważniony podmiot uprawniony, do którego zwrócono się o informacje, oraz informacje, do których punkt kontaktowy lub upoważniony podmiot uprawniony, do którego zwrócono się o informacje, posiada dostęp pośredni;
+- **3b)** informacjach dostępnych bezpośrednio – rozumie się przez to informacje przechowywane w bazie danych, do których bezpośredni dostęp posiada punkt kontaktowy lub upoważniony podmiot uprawniony, do którego zwrócono się o informacje;
+- **3c)** informacjach dostępnych pośrednio – rozumie się przez to informacje, które punkt kontaktowy lub upoważniony podmiot uprawniony, do którego zwrócono się o informacje, może uzyskać od innych organów lub podmiotów;
+- **3d)** danych osobowych – rozumie się przez to dane osobowe, o których mowa w art. 4 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych osobowych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+- **4)** organach ścigania państw członkowskich Unii Europejskiej – rozumie się przez to organy państw członkowskich Unii Europejskiej oraz państw niebędących państwami członkowskimi Unii Europejskiej stosujących przepisy dorobku Schengen, które są uprawnione w tych państwach do wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości i jej zwalczania, oraz każdy organ, który uczestniczy we wspólnych podmiotach utworzonych przez co najmniej dwa państwa członkowskie Unii Europejskiej w celu zapobiegania przestępstwom lub przestępstwom skarbowym, ich wykrywania i ścigania;
+- **4a)** wyznaczonym organie ścigania – rozumie się przez to organ ścigania państwa członkowskiego Unii Europejskiej upoważniony do:
+    - **a)** składania wniosków o udzielenie informacji bezpośrednio do punktu kontaktowego lub upoważnionego podmiotu uprawnionego,
+    - **b)** udzielania odpowiedzi na wnioski składane przez punkt kontaktowy lub upoważniony podmiot uprawniony;
+
+- **4b)** upoważnionym podmiocie uprawnionym – rozumie się przez to podmiot uprawniony upoważniony do składania wniosków o udzielenie informacji do punktu kontaktowego państwa członkowskiego Unii Europejskiej lub bezpośrednio do wyznaczonego organu ścigania;
+- **5)** państwie trzecim – rozumie się przez to państwo niebędące państwem członkowskim Unii Europejskiej i niestosujące przepisy dorobku Schengen;
+- **6)** podmiotach uprawnionych – rozumie się przez to podmioty, o których mowa w art. 1 ust. 2 oraz art. 2 ust. 2;
+- **6a)** przestępstwie katalogowym – rozumie się przez to przestępstwo, o którym mowa w art. 2 ust. 2 decyzji ramowej Rady 2002/584/WSiSW z dnia 13 czerwca 2002 r. w sprawie europejskiego nakazu aresztowania i procedury wydawania osób między państwami członkowskimi (Dz. Urz. WE L 190 z 18.07.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 34), oraz przestępstwo, o którym mowa w art. 3 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z
+
+24. 05.2016, str. 53, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) 2016/794”;
+
+- **7)** (uchylony)
+- **8)** wymianie – rozumie się przez to przekazywanie, udostępnianie, uzyskiwanie lub otrzymywanie informacji przez organy ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencje Unii Europejskiej, organizacje międzynarodowe lub podmioty uprawnione;
+- **9)** organizacji międzynarodowej – rozumie się przez to organizację i organy jej podlegające działające na podstawie prawa międzynarodowego publicznego lub inny organ powołany w drodze umowy między co najmniej dwoma państwami lub na podstawie takiej umowy;
+- **10)** agencji Unii Europejskiej – rozumie się przez to agencję Unii Europejskiej zajmującą się zapobieganiem i zwalczaniem przestępczości;
+- **11)** wyznaczonych właściwych organach – rozumie się przez to organy państw członkowskich Unii Europejskiej wyznaczone na podstawie przepisów wdrażających art. 3 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/1153 z dnia 20 czerwca 2019 r. ustanawiającej zasady ułatwiające korzystanie z informacji finansowych i innych informacji w celu zapobiegania niektórym przestępstwom, ich wykrywania, prowadzenia dochodzeń w ich sprawie lub ich ścigania oraz uchylającej decyzję Rady 2000/642/WSiSW (Dz. Urz. UE L 186 z 11.07.2019, str. 122).
+
 #### Rozdział 2 Punkt kontaktowy
 
 **Art. 4.**
@@ -103,6 +128,15 @@ source: "isap-pdf"
 5. Ustawa nie narusza przepisów odrębnych o organizacji i zadaniach innych punktów kontaktowych niż wymieniony w ust. 1.
 
 **Art. 5.** Do zadań punktu kontaktowego należy:
+
+- **1)** przyjmowanie i ocenianie wniosków o udzielenie informacji składanych przez podmioty, o których mowa w art. 1 ust. 1 pkt 1, oraz udzielanie odpowiedzi na te wnioski;
+- **2)** przekazywanie wniosków o udzielenie informacji składanych przez podmioty, o których mowa w art. 1 ust. 1 pkt 1, podmiotom uprawnionym, zgodnie z ich właściwością, w celu udzielenia odpowiedzi na te wnioski;
+- **3)** ocenianie i przekazywanie podmiotom, o których mowa w art. 1 ust. 1 pkt 1, wniosków o udzielenie informacji składanych przez podmioty uprawnione oraz przekazywanie dodatkowych informacji lub wyjaśnień, o które wystąpiły podmioty, o których mowa w art. 1 ust. 1 pkt 1;
+- **3a)** zwracanie się do podmiotów uprawnionych o uzupełnienie lub poprawienie wniosku o udzielenie informacji;
+- **4)** udzielanie informacji z własnej inicjatywy podmiotom, o których mowa w art. 1 ust. 1 pkt 1;
+- **4a)** odmawianie udzielenia informacji oraz, w razie potrzeby, zwracanie się do podmiotów, o których mowa w art. 1 ust. 1 pkt 1, o uzupełnienie wniosku o udzielenie informacji lub przekazanie wyjaśnień w zakresie niezbędnym do rozpatrzenia tego wniosku;
+- **5)** koordynowanie wymiany informacji;
+- **6)** przetwarzanie, w tym przechowywanie, informacji wymienianych w oparciu o niniejszą ustawę.
 
 **Art. 6.**
 
@@ -164,6 +198,11 @@ source: "isap-pdf"
 3. Podmiot uprawniony zapewnia osobom delegowanym do wykonywania zadań w punkcie kontaktowym dostęp do szkoleń w zakresie, o którym mowa w ust. 1 pkt 3.
 
 **Art. 10.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** minimalne funkcjonalności, jakie musi posiadać system zarządzania sprawami prowadzony przez punkt kontaktowy,
+- **2)** tryb wyznaczania, organizację oraz sposób działania komórek organizacyjnych w podmiocie uprawnionym odpowiedzialnych za wymianę informacji z punktem kontaktowym,
+- **3)** tryb postępowania z wnioskami o udzielenie informacji,
+- **4)** tryb i sposób wymiany informacji między punktem kontaktowym a podmiotami, o których mowa w art. 1 ust. 1 pkt 1, oraz punktem kontaktowym a podmiotami uprawnionymi – mając na uwadze wymogi dotyczące zapewnienia efektywnej wymiany informacji przez punkt kontaktowy oraz ciągłości jego funkcjonowania, a także dotyczące wdrożenia systemu rejestrowania informacji w punkcie kontaktowym, w tym czasu przekazania lub otrzymania informacji oraz wniosków o przekazanie informacji.
 
 #### Rozdział 3 Warunki i zasady wymiany informacji z organami ścigania państw członkowskich Unii Europejskiej i agencjami Unii Europejskiej
 
@@ -519,6 +558,11 @@ source: "isap-pdf"
 
 **Art. 23b.** Do dnia 1 marca każdego roku Komendant Główny Policji przekazuje Komisji Europejskiej dane dotyczące wymiany informacji z państwami członkowskimi Unii Europejskiej, która miała miejsce w poprzednim roku kalendarzowym, obejmujące w szczególności liczbę:
 
+- **1)** wniosków o udzielenie informacji złożonych przez punkt kontaktowy oraz upoważnione podmioty uprawnione;
+- **2)** wniosków o udzielenie informacji otrzymanych przez punkt kontaktowy i upoważnione podmioty uprawnione oraz liczbę wniosków o udzielenie informacji, na które udzieliły one odpowiedzi, w podziale na pilne i niepilne wnioski oraz państwa członkowskie Unii Europejskiej, które otrzymały informacje;
+- **3)** wniosków o udzielenie informacji rozpatrzonych odmownie na podstawie art. 13, w podziale na państwa członkowskie Unii Europejskiej i podstawy odmowy;
+- **4)** przypadków, w których nastąpiło przekroczenie terminów określonych w art. 15 ust. 1 i 2, ponieważ konieczne było uzyskanie zgody organu prowadzącego postępowanie karne zgodnie z art. 14 ust. 1, w podziale na wnioskujące państwa członkowskie Unii Europejskiej.
+
 **Art. 24.** (uchylony)
 
 **Art. 25.** (uchylony)
@@ -547,6 +591,13 @@ source: "isap-pdf"
 **Art. 25b.** W zakresie, w jakim w związku z wymianą informacji, o której mowa w art. 2a ust. 2, podmioty, o których mowa w art. 1 ust. 2, dokonują bezpośredniej wymiany informacji z wyznaczonymi właściwymi organami, podmioty te prowadzą rejestry w zakresie wynikającym z art. 25a. Przepisy art. 25a ust. 2–4 stosuje się odpowiednio.
 
 **Art. 25c.** Organy prowadzące rejestry na podstawie art. 25a i art. 25b przekazują w terminie 4 miesięcy od dnia zakończenia roku kalendarzowego ministrowi właściwemu do spraw finansów publicznych dane za zakończony rok dotyczące informacji zgromadzonych w tych rejestrach, obejmujące w szczególności informacje o:
+
+- **1)** liczbie złożonych wniosków o informacje wraz ze wskazaniem organu składającego;
+- **2)** sposobie rozpatrzenia wniosku o informacje;
+- **3)** średnim czasie rozpatrzenia wniosku o informacje;
+- **4)** liczbie spraw dotyczących przestępstwa obejmującego co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia (UE) 2016/794, w których po przekazaniu odpowiedzi na wniosek wszczęte zostało postępowanie przygotowawcze – w zakresie, w jakim informacje te są dostępne dla organu prowadzącego rejestr;
+- **5)** liczbie osób, wobec których sporządzono akt oskarżenia dotyczący przestępstwa obejmującego co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia (UE) 2016/794, oraz liczbie osób skazanych za takie przestępstwa – w zakresie, w jakim informacje te są dostępne dla organu prowadzącego rejestr;
+- **6)** zasobach ludzkich lub informatycznych zaangażowanych przez organy prowadzące rejestry na podstawie art. 25a i art. 25b do obsługi wniosków o informacje składanych w związku z wymianą informacji, o której mowa w art. 2a ust. 2.
 
 **Art. 26.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
 

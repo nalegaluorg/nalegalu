@@ -8,10 +8,10 @@ pos: 1682
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1682 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 21 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1682/text.pdf) |
 
-Poz. 1682 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 21 sierpnia 2023 r.
 w sprawie trybu przyznawania zapomóg weteranom-funkcjonariuszom lub weteranom poszkodowanym-funkcjonariuszom oraz sposobu przekazywania zapomóg Na podstawie art. 31a ust. 6 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
-z 2022 r. poz. 2205 oraz z 2023 r. poz. 1405) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2022 r. poz. 2205 oraz z 2023 r. poz. 1405) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb przyznawania zapomóg weteranom-funkcjonariuszom lub weteranom poszkodowanym-funkcjonariuszom;
 2) dokumenty stanowiące podstawę przyznania zapomogi;
 3) sposób przekazywania przyznanych zapomóg.

@@ -8,10 +8,10 @@ pos: 1216
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 sierpnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11221166 I. Wywiad epidemiologiczny II. Wykaz badań lekarskich funkcjonariusza po powrocie do kraju po zakończeniu służby poza granicami państwa po przeprowadzonym wywiadzie lekarskim
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1216/text.pdf) |
 
-11221166 I. Wywiad epidemiologiczny II. Wykaz badań lekarskich funkcjonariusza po powrocie do kraju po zakończeniu służby poza granicami państwa po przeprowadzonym wywiadzie lekarskim
 1. Ogólne badanie lekarskie.
 2. Badania specjalistyczne: internistyczne, dermatologiczne, neurologiczne, laryngologiczne, okulistyczne, psychiatryczne w powiązaniu z opinią psychologiczną, a w przypadku funkcjonariusza-kobiety także ginekologiczne.
 3. Badania diagnostyczne:
@@ -55,7 +54,7 @@ WYWIAD EPIDEMIOLOGICZNY
 3) .........................................................................................................................................................
 4) .........................................................................................................................................................
 5) ..........................................................................................................................................................
-5. Charakter służby poza granicami państwa grupa specjalności:*
+5. Charakter służby poza granicami państwa – grupa specjalności:*
 1) kierowca;
 2) saper (miner, budowa mostów);
 3) operator sprzętu ciężkiego;
@@ -149,26 +148,27 @@ II. Ramowy plan „Treningu antystresowego" Dzień Rodzaj zajęć przed południ
 5. Czwartek zabiegi rehabilitacyjne relaksacja, propozycje organizatora możliwość konsultacji indywidualnych, zabiegi rehabilitacyjne
 6. Piątek zabiegi rehabilitacyjne, relaksacja, propozycje organizatora psychologiczne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
 7. Sobota propozycje organizatora propozycje organizatora propozycje organizatora
-8. Niedziela propozycje organizatora propozycje organizatora propozycje organizatora 1 2 3 4
-9. Poniedziałek zabiegi rehabilitacyjne, relaksacja, propozycje organizatora psychologiczne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
-10. Wtorek zabiegi rehabilitacyjne relaksacja, propozycje organizatora możliwość konsultacji indywidualnych, zabiegi rehabilitacyjne
-11. Środa zabiegi rehabilitacyjne, relaksacja, propozycje organizatora psychologiczne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
-12. Czwartek zabiegi rehabilitacyjne relaksacja, propozycje organizatora możliwość konsultacji indywidualnych, zabiegi rehabilitacyjne
-13. Piątek zabiegi rehabilitacyjne, relaksacja, psychologiczne spotkanie pożegnalne relaksacja konsultacje indywidualne, zabiegi rehabilitacyjne
+8. Niedziela propozycje organizatora propozycje organizatora propozycje organizatora 1 2 3 4 1 2 3 4
+9. Poniedziałek zabiegi rehabilitacyjne, relaksacja, propozycje organizatora
+9. Poniedziałek psychologiczne zabiegi rehabilitacyjne, zajęcia możliwość relaksacja, konsultacji propozycje organizatora psychologiczne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi grupowe indywidualnych, zabiegi rehabilitacyjne rehabilitacyjne
+10. Wtorek zabiegi rehabilitacyjne relaksacja, propozycje organizatora
+10. Wtorek zabiegi rehabilitacyjne możliwość relaksacja, konsultacji propozycje organizatora możliwość konsultacji indywidualnych, zabiegi indywidualnych, zabiegi rehabilitacyjne rehabilitacyjne
+11. Środa zabiegi rehabilitacyjne, relaksacja, propozycje organizatora
+11. Środa psychologiczne zabiegi rehabilitacyjne, zajęcia możliwość relaksacja, konsultacji propozycje organizatora psychologiczne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi grupowe indywidualnych, zabiegi rehabilitacyjne rehabilitacyjne
+12. Czwartek zabiegi rehabilitacyjne relaksacja, propozycje organizatora
+12. Czwartek zabiegi rehabilitacyjne możliwość relaksacja, konsultacji propozycje organizatora możliwość konsultacji indywidualnych, zabiegi indywidualnych, zabiegi rehabilitacyjne rehabilitacyjne relaksacja,
+13. Piątek zabiegi rehabilitacyjne, psychologiczne relaksacja, spotkanie pożegnalne
+13. Piątek zabiegi relaksacja rehabilitacyjne, konsultacje psychologiczne indywidualne, spotkanie pożegnalne relaksacja konsultacje indywidualne, zabiegi rehabilitacyjne zabiegi rehabilitacyjne
 14. Sobota wyjazd wyjazd wyjazd
-1. Istnieje możliwość zamiany zajęć przedpołudniowych z popołudniowymi, ale w taki sposób, aby nie zmieniła się ogólna liczba sesji zajęć grupowych (10) i relaksacyjnych (10).
-2. Pozostała część dnia powinna być wypełniona innymi możliwymi zabiegami relaksacyjno-rehabilitacyjnymi, tj. masażem, basenem i innymi związanymi z dostępnym szpitalowi zapleczem czy zaleceniami medycznymi.
-3. Wieczorna część turnusu powinna być zorganizowana przez instruktorów kulturalno-oświatowych w sposób umożliwiający funkcjonariuszom fakultatywne uczestnictwo np. w: spotkaniach zapoznawczych, tanecznych, zawodach, meczach, wycieczkach, projekcjach filmów, wyjściu do kina, teatru, ognisku itp. Zaleca się wcześniejsze zaplanowanie i przedstawienie sposobu organizacji propozycji imprez/spotkań, tak aby 1 2 3 4
-9. Poniedziałek zabiegi rehabilitacyjne, relaksacja, propozycje organizatora psychologiczne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
-10. Wtorek zabiegi rehabilitacyjne relaksacja, propozycje organizatora możliwość konsultacji indywidualnych, zabiegi rehabilitacyjne
-11. Środa zabiegi rehabilitacyjne, relaksacja, propozycje organizatora psychologiczne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
-12. Czwartek zabiegi rehabilitacyjne relaksacja, propozycje organizatora możliwość konsultacji indywidualnych, zabiegi rehabilitacyjne
-13. Piątek zabiegi rehabilitacyjne, relaksacja, psychologiczne spotkanie pożegnalne relaksacja konsultacje indywidualne, zabiegi rehabilitacyjne
 14. Sobota wyjazd wyjazd wyjazd
+1. Istnieje możliwość zamiany zajęć przedpołudniowych z popołudniowymi, ale w taki sposób,
 1. Istnieje możliwość zamiany zajęć przedpołudniowych z popołudniowymi, ale w taki sposób, aby nie zmieniła się ogólna liczba sesji zajęć grupowych (10) i relaksacyjnych (10).
-2. Pozostała część dnia powinna być wypełniona innymi możliwymi zabiegami relaksacyjno-rehabilitacyjnymi, tj. masażem, basenem i innymi związanymi z dostępnym szpitalowi zapleczem czy zaleceniami medycznymi.
-3. Wieczorna część turnusu powinna być zorganizowana przez instruktorów kulturalno-oświatowych w sposób umożliwiający funkcjonariuszom fakultatywne uczestnictwo np. w: spotkaniach zapoznawczych, tanecznych, zawodach, meczach, wycieczkach, projekcjach filmów, wyjściu do kina, teatru, ognisku itp. Zaleca się wcześniejsze zaplanowanie i przedstawienie sposobu organizacji propozycji imprez/spotkań, tak aby mogły być one zaprezentowane pierwszego dnia pobytu w postaci harmonogramu turnusu.
-4. Każdy funkcjonariusz uczestniczący w turnusie „Trening antystresowy” powinien wziąć udział w indywidualnej konsultacji z psychologiem (na początku i pod koniec turnusu), a przez cały czas trwania turnusu mieć możliwość umówienia się na taką konsultację.
+aby nie zmieniła się ogólna liczba sesji zajęć grupowych (10) i relaksacyjnych (10).
+2. Pozostała część dnia powinna być wypełniona innymi możliwymi zabiegami relaksacyjno2. Pozostała część dnia powinna być wypełniona innymi możliwymi zabiegami relaksacyjno-rehabilitacyjnymi, tj. masażem, basenem i innymi związanymi z dostępnym szpitalowi -rehabilitacyjnymi, tj. masażem, basenem i innymi związanymi z dostępnym szpitalowi zapleczem czy zaleceniami medycznymi.
+zapleczem czy zaleceniami medycznymi.
+3. Wieczorna część turnusu powinna być zorganizowana przez instruktorów kulturalno3. Wieczorna część turnusu powinna być zorganizowana przez instruktorów kulturalno-oświatowych w sposób umożliwiający funkcjonariuszom fakultatywne uczestnictwo -oświatowych w sposób umożliwiający funkcjonariuszom fakultatywne uczestnictwo np. w: spotkaniach zapoznawczych, tanecznych, zawodach, meczach, wycieczkach, np. w: spotkaniach zapoznawczych, tanecznych, zawodach, meczach, wycieczkach, projekcjach filmów, wyjściu do kina, teatru, ognisku itp. Zaleca się wcześniejsze projekcjach filmów, wyjściu do kina, teatru, ognisku itp. Zaleca się wcześniejsze zaplanowanie i przedstawienie sposobu organizacji propozycji imprez/spotkań, tak aby zaplanowanie i przedstawienie sposobu organizacji propozycji imprez/spotkań, tak aby mogły być one zaprezentowane pierwszego dnia pobytu w postaci harmonogramu turnusu.
+mogły być one zaprezentowane pierwszego dnia pobytu w postaci harmonogramu turnusu.
+4. Każdy funkcjonariusz uczestniczący w turnusie „Trening antystresowy” powinien wziąć udział w indywidualnej konsultacji z psychologiem (na początku i pod koniec turnusu), a przez cały czas trwania turnusu – mieć możliwość umówienia się na taką konsultację.
 III. Ogólna charakterystyka sesji psychologicznych zajęć grupowych
 1. W czasie trwania turnusu odbywa się 5 sesji zajęć grupowych.
 2. Każda sesja powinna trwać co najmniej 3 godziny.

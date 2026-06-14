@@ -8,10 +8,10 @@ pos: 2829
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2829 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2829/text.pdf) |
 
-Poz. 2829 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 grudnia 2022 r.
 w sprawie wymagań dla zakładu drobiu, po spełnieniu których podmiot prowadzący zakład drobiu ma obowiązek dokonywania zgłoszeń do komputerowej bazy danych Na podstawie art. 44 ust. 4 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U.
-poz. 2727) zarządza się, co następuje: § 1. Wymaganiami dla zakładu drobiu, po spełnieniu których podmiot prowadzący zakład drobiu ma obowiązek dokonywania zgłoszeń, o których mowa w art. 44 ust. 1 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt, są:
+poz. 2727) zarządza się, co następuje:
+§ 1. Wymaganiami dla zakładu drobiu, po spełnieniu których podmiot prowadzący zakład drobiu ma obowiązek dokonywania zgłoszeń, o których mowa w art. 44 ust. 1 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt, są:
 1) utrzymywanie nie mniej niż:
 a) 350 ptaków z gatunku kura (Gallus gallus) utrzymywanych jako kury nioski lub 500 ptaków z gatunku kura (Gallus gallus) utrzymywanych jako brojlery kurze,
 b) 100 ptaków z gatunku kaczka (Anas platyrhynchos) lub kaczka piżmowa (Cairina moschata),

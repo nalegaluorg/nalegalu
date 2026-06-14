@@ -8,10 +8,10 @@ pos: 1734
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 21 października Poz. 1734 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW 13 października sprawie maksymalnej wysokości miesięcznego wynagrodzenia członków Rady Bankowego Funduszu Gwarancyjnego Na podstawie art. 7 ust. 11 ustawy 10 czerwca o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji 996) zarządza się, co następuje: § 1. 1. Rozporządzenie określa maksymalną wysokość miesięcznego wynagrodzenia członków Rady Bankowego Funduszu Gwarancyjnego, zwanej dalej „Radą”, obejmującą:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1734 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 13 października 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,18 +25,20 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001734) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1734/text.pdf) |
 
+w sprawie maksymalnej wysokości miesięcznego wynagrodzenia członków Rady Bankowego Funduszu Gwarancyjnego Na podstawie art. 7 ust. 11 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa maksymalną wysokość miesięcznego wynagrodzenia członków Rady Bankowego Funduszu Gwarancyjnego, zwanej dalej „Radą”, obejmującą:
 1) wysokość części stałej wynagrodzenia;
 2) sposób ustalenia części zmiennej wynagrodzenia.
 2. Maksymalna wysokość miesięcznego wynagrodzenia członków Rady nie może przekraczać:
 1) 3,5-krotności – dla przewodniczącego Rady,
-2) 2,5-krotności – dla pozostałych członków Rady – przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród zysku czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego.
-3. Wynagrodzenie części stałej wynosi:
+2) 2,5-krotności – dla pozostałych członków Rady – przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego.
+3. Wynagrodzenie w części stałej wynosi:
 1) 1,5-krotność – dla przewodniczącego Rady,
-2) 1-krotność – dla pozostałych członków Rady – przeciętnego miesięcznego wynagrodzenia, o którym mowa ust. 2.
-4. Wynagrodzenie części zmiennej wynosi:
+2) 1-krotność – dla pozostałych członków Rady – przeciętnego miesięcznego wynagrodzenia, o którym mowa w ust. 2.
+4. Wynagrodzenie w części zmiennej wynosi:
 1) 2-krotność – dla przewodniczącego Rady,
-2) 1,5-krotność – dla pozostałych członków Rady – przeciętnego miesięcznego wynagrodzenia, o którym mowa ust. 2, i przysługuje wyłącznie za udział posiedzeniu Rady danym miesiącu.
-Dziennik Ustaw – 2 – Poz. 1734
-5. W przypadku gdy miesiącu odbędzie się więcej niż jedno posiedzenie Rady, wynagrodzenie części zmiennej oblicza się jako iloczyn liczby posiedzeń tym miesiącu, których członek Rady brał udział, oraz ilorazu wynagrodzenia określonego zgodnie ust. 4 i liczby wszystkich posiedzeń Rady danym miesiącu.
-§ 2. Rozporządzenie wchodzi życie dniem 1 listopada Minister Rozwoju i Finansów: wz. W. Janczyk
+2) 1,5-krotność – dla pozostałych członków Rady – przeciętnego miesięcznego wynagrodzenia, o którym mowa w ust. 2, i przysługuje wyłącznie za udział w posiedzeniu Rady w danym miesiącu.
+5. W przypadku gdy w miesiącu odbędzie się więcej niż jedno posiedzenie Rady, wynagrodzenie w części zmiennej oblicza się jako iloczyn liczby posiedzeń w tym miesiącu, w których członek Rady brał udział, oraz ilorazu wynagrodzenia określonego zgodnie z ust. 4 i liczby wszystkich posiedzeń Rady w danym miesiącu.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 listopada 2016 r.
+Minister Rozwoju i Finansów: wz. W. Janczyk
 

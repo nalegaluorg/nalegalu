@@ -8,10 +8,10 @@ pos: 772
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 772 OBWIESZCZENIE MINISTRA FINANSÓW 8 kwietnia 2020 ogłoszenia jednolitego tekstu wzoru sprawozdania źródłach pozyskanych funduszy cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych nim informacji
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 772 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 8 kwietnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000772) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/772/text.pdf) |
 
-1. Na podstawie 16 3 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia 27 sierpnia 2001 wzoru sprawozdania źródłach pozyskanych funduszy cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych nim informacji
-1036), uwzględnieniem zmiany wprowadzonej rozporządzeniem 13 listopada 2018 zmieniającym rozporządzenie wzoru sprawozdania źródłach pozyskanych funduszy cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych nim informacji 2217).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 2 13 listopada 2018 zmieniającego rozporządzenie wzoru sprawozdania źródłach pozyskanych funduszy cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych nim informacji 2217), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 3 miesięcy od ogłoszenia.”.
-Minister Finansów: T. Kościński wzoru sprawozdania źródłach pozyskanych funduszy cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych nim informacji Na podstawie 17 3 24 czerwca 1999 wykonywaniu inicjatywy ustawodawczej przez obywateli 2018 2120) zarządza się, co następuje:
-1. Ustala wzór sprawozdania finansowego źródłach pozyskanych funduszy cele inicjatywy ustawodawczej, stanowiący załącznik do rozporządzenia.
-2. Szczegółowy zakres sprawozdania finansowego obejmuje:
-1) informacje ogólne, które zawierają dane przychodach i wpływach, które składają się:
-a) środki pieniężne gromadzone rachunkach bankowych, tym pochodzące od osób prawnych, osób fizycznych, anonimowych ofiarodawców i innych podmiotów, ze zbiórek publicznych, a także odsetki od środków rachunkach bankowych, kredyty i pożyczki,
-b) wartość pozyskanych darowizn niepieniężnych, tym wartość darowizn rzeczowych i wartość usług świadczonych nieodpłatnie rzecz komitetu,
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wzoru sprawozdania o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych w nim informacji
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 27 sierpnia 2001 r. w sprawie wzoru sprawozdania o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych w nim informacji (Dz. U. poz. 1036), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 13 listopada 2018 r. zmieniającym rozporządzenie w sprawie wzoru sprawozdania o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych w nim informacji (Dz. U. poz. 2217).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 13 listopada 2018 r. zmieniającego rozporządzenie w sprawie wzoru sprawozdania o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych w nim informacji (Dz. U. poz. 2217), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
+Minister Finansów: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 sierpnia 2001 r.
+w sprawie wzoru sprawozdania o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych w nim informacji Na podstawie art. 17 ust. 3 ustawy z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli (Dz. U. z 2018 r. poz. 2120) zarządza się, co następuje:
+§ 1. Ustala się wzór sprawozdania finansowego o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej, stanowiący załącznik do rozporządzenia.
+§ 2. Szczegółowy zakres sprawozdania finansowego obejmuje:
+1) informacje ogólne, które zawierają dane o przychodach i wpływach, na które składają się:
+a) środki pieniężne gromadzone na rachunkach bankowych, w tym pochodzące od osób prawnych, osób fizycznych, anonimowych ofiarodawców i innych podmiotów, ze zbiórek publicznych, a także odsetki od środków na rachunkach bankowych, kredyty i pożyczki,
+b) wartość pozyskanych darowizn niepieniężnych, w tym wartość darowizn rzeczowych i wartość usług świadczonych nieodpłatnie na rzecz komitetu,
 c) pozostałe przychody i wpływy;
 2) informacje szczegółowe, które zawierają dane o:
 a) wpłatach od osób prawnych,
@@ -41,29 +42,31 @@ b) wpłatach od osób fizycznych,
 c) wpłatach ze zbiórek publicznych (z podaniem daty i miejsca przeprowadzonej zbiórki),
 d) wpłatach pozostałych,
 e) pozyskanych darowiznach niepieniężnych,
-f) wykonanych rzecz komitetu nieodpłatnych usługach,
+f) wykonanych na rzecz komitetu nieodpłatnych usługach,
 g) kredytach bankowych i otrzymanych pożyczkach,
 h) nadwyżce i sposobie jej wykorzystania;
 3) wykaz osób fizycznych, które dokonały wpłat;
 4) wykaz osób prawnych, które dokonały wpłat;
-5) wykaz podmiotów, które nieodpłatnie wykonały usługi rzecz komitetu.
-3. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia .
-Komitet inicjatywy ustawodawczej wykonywanej przez obywateli .....................................................................................................................................................................................................
+5) wykaz podmiotów, które nieodpłatnie wykonały usługi na rzecz komitetu.
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+WZÓR SPRAWOZDANIE FINANSOWE Komitet inicjatywy ustawodawczej wykonywanej przez obywateli .....................................................................................................................................................................................................
 .....................................................................................................................................................................................................
 .....................................................................................................................................................................................................
 .....................................................................................................................................................................................................
-W wykonaniu obowiązku nałożonego 17 2 24 czerwca 1999 wykonywaniu inicjatywy ustawodawczej przez obywateli 2018 2120) przedkłada sprawozdanie finansowe źródłach pozyskanych funduszy cele inicjatywy ustawodawczej.
-INFORMACJE OGÓLNE Kwota zł A. Przychody lub wpływy (suma pozycji I+II+III) I. Środki pieniężne gromadzone rachunku bankowym
+W wykonaniu obowiązku nałożonego art. 17 ust. 2 ustawy z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli (Dz. U. z 2018 r. poz. 2120) przedkłada się sprawozdanie finansowe o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej.
+INFORMACJE OGÓLNE Kwota w zł A. Przychody lub wpływy (suma pozycji I+II+III) I. Środki pieniężne gromadzone na rachunku bankowym
 1. Pochodzące od osób prawnych
 2. Pochodzące od osób fizycznych
 3. Pochodzące od anonimowych ofiarodawców
 4. Pochodzące od innych podmiotów
 5. Pochodzące ze zbiórek publicznych
-6. Odsetki od środków rachunkach bankowych
+6. Odsetki od środków na rachunkach bankowych
 7. Kredyty i pożyczki
 8. Inne przychody i wpływy II. Wartość pozyskanych darowizn niepieniężnych i nieodpłatnie świadczonych usług
 1. Wartość darowizn rzeczowych
-2. Wartość usług świadczonych nieodpłatnie rzecz komitetu wpłaty wypłaty stan
+2. Wartość usług świadczonych nieodpłatnie na rzecz komitetu III. Pozostałe przychody lub wpływy (niewymienione w pozycji I i II) INFORMACJE SZCZEGÓŁOWE Kwota w zł
+1. Rachunek bankowy: .........................................................................................................................................................
+wpłaty wypłaty stan
 1) wykaz osób prawnych, które dokonały wpłat (nazwa i siedziba osoby prawnej, statystyczny numer identyfikacyjny REGON):*
 a) .........................................................................................................................................
 b) .........................................................................................................................................
@@ -76,7 +79,7 @@ b) .............................................................................
 3. Wykaz wpłat od pozostałych podmiotów (nazwa i adres lub siedziba podmiotu):*
 a) ..................................................................................................................................................
 b) .................................................................................................................................................
-4. Wartość pozyskanych darowizn niepieniężnych (wartość pozyskanych darowizn niepieniężnych podaje wysokości możliwych do uzyskania cen ich sprzedaży netto, nie wyższych od cen nabycia lub kosztów wytworzenia pomniejszonych odpisy amortyzacyjne)
+4. Wartość pozyskanych darowizn niepieniężnych (wartość pozyskanych darowizn niepieniężnych podaje się w wysokości możliwych do uzyskania cen ich sprzedaży netto, nie wyższych od cen nabycia lub kosztów wytworzenia pomniejszonych o odpisy amortyzacyjne)
 1) wykaz osób prawnych (nazwa i siedziba osoby prawnej, statystyczny numer identyfikacyjny REGON), od których pozyskano darowizny niepieniężne:*
 a) .........................................................................................................................................
 b) .........................................................................................................................................
@@ -85,10 +88,15 @@ a) .............................................................................
 b) ........................................................................................................................................
 3) wykaz innych podmiotów, od których pozyskano darowizny niepieniężne (nazwa i adres lub siedziba podmiotu):*
 a) .........................................................................................................................................
-2) wykaz osób fizycznych (imię, nazwisko, adres zamieszkania, obywatelstwo) świadczących nieodpłatnie usługi rzecz komitetu:*
+b) ........................................................................................................................................
+5. Wartość świadczonych nieodpłatnie usług na rzecz komitetu (wartość świadczonych usług podaje się w wysokości możliwych do uzyskania cen ich sprzedaży netto, nie wyższych od cen nabycia)
+1) wykaz osób prawnych (nazwa i siedziba osoby prawnej, statystyczny numer identyfikacyjny REGON) świadczących nieodpłatnie usługi na rzecz komitetu:*
 a) .........................................................................................................................................
 b) ........................................................................................................................................
-3) wykaz innych podmiotów świadczących nieodpłatnie usługi rzecz komitetu (nazwa i adres lub siedziba podmiotu):*
+2) wykaz osób fizycznych (imię, nazwisko, adres zamieszkania, obywatelstwo) świadczących nieodpłatnie usługi na rzecz komitetu:*
+a) .........................................................................................................................................
+b) ........................................................................................................................................
+3) wykaz innych podmiotów świadczących nieodpłatnie usługi na rzecz komitetu (nazwa i adres lub siedziba podmiotu):*
 a) .........................................................................................................................................
 b) ........................................................................................................................................
 6. Kredyty i pożyczki:

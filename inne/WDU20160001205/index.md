@@ -8,10 +8,10 @@ pos: 1205
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1205 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 lipca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1205/text.pdf) |
 
-Poz. 1205 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 lipca 2016 r.
 w sprawie sposobu przeprowadzenia licytacji ruchomości Na podstawie art. 868 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r.
-poz. 101, z późn. zm. ) zarządza się, co następuje: § 1. Ilekroć w niniejszym rozporządzeniu jest mowa o ruchomości, należy przez to rozumieć również zbiór ruchomości.
+poz. 101, z późn. zm. ) zarządza się, co następuje:
+§ 1. Ilekroć w niniejszym rozporządzeniu jest mowa o ruchomości, należy przez to rozumieć również zbiór ruchomości.
 § 2. Po wywołaniu licytacji komornik podaje do wiadomości imiona i nazwiska licytantów. Następnie komornik poucza obecnych o treści art. 867 § 2 i 3, art. 867 § 2, art. 869–872, art. 874 oraz art. 879 ustawy z dnia 17 listopada 1964 r.
 – Kodeks postępowania cywilnego oraz zwraca się do osób obecnych z zapytaniem, czy którykolwiek z licytantów jest jedną z osób, o których mowa w art. 867 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 § 3. Jeżeli przedmiotem licytacji są dwie lub więcej ruchomości, dłużnik ma prawo wskazać kolejność, według której mają być one wystawione na sprzedaż. Jeżeli dłużnik nie skorzysta z tego prawa, o kolejności decyduje komornik.

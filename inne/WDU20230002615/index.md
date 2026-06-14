@@ -8,10 +8,10 @@ pos: 2615
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 grudnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2615 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 24 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2615/text.pdf) |
 
-Poz. 2615 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 24 listopada 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 24 grudnia 2019 r. w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. z 2022 r. poz. 1185), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 14 września 2022 r. zmieniającym rozporządzenie w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. poz. 1984).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 14 września 2022 r. zmieniającego rozporządzenie w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. poz. 1984), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Finansów: M. Rzeczkowska Dziennik Ustaw – 2 – Poz. 2615 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 grudnia 2019 r.
-w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Na podstawie art. 10b ust. 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 2500 oraz z 2023 r. poz. 614, 1234 i 1723) zarządza się, co następuje: § 1. Rozporządzenie określa:
+Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 grudnia 2019 r.
+w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Na podstawie art. 10b ust. 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 2500 oraz z 2023 r. poz. 614, 1234 i 1723) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób przesyłania zgłoszeń za pomocą środków komunikacji elektronicznej;
 2) rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy zgłoszeń.
 § 2. Zgłoszenia mogą być przesyłane:

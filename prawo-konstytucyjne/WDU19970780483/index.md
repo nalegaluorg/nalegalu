@@ -8,7 +8,7 @@ pos: 483
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # W trosce o byt i przyszłość naszej Ojczyzny, odzyskawszy w 1989 roku możliwość suwerennego i demokratycznego stanowienia o Jej losie, my, Naród Polski – wszyscy obywatele Rzeczypospolitej, zarówno wierzący w Boga będącego źródłem prawdy, sprawiedliwości, dobra i piękna, jak i nie podzielający tej wiary, a te uniwersalne wartości wywodzący z innych źródeł, równi w prawach i w powinnościach wobec dobra wspólnego – Polski, wdzięczni naszym przodkom za ich pracę, za walkę o niepodległość okupioną ogromnymi ofiarami, za kulturę zakorzenioną w chrześcijańskim dziedzictwie Narodu i ogólnoludzkich wartościach, nawiązując do najlepszych tradycji Pierwszej i Drugiej Rzeczypospolitej, zobowiązani, by przekazać przyszłym pokoleniom wszystko, co cenne z ponad tysiącletniego dorobku, złączeni więzami wspólnoty z naszymi rodakami rozsianymi po świecie, świadomi potrzeby współpracy ze wszystkimi krajami dla dobra Rodziny Ludzkiej, pomni gorzkich doświadczeń z czasów, gdy podstawowe wolności i prawa człowieka były w naszej Ojczyźnie łamane, pragnąc na zawsze zagwarantować prawa obywatelskie, a działaniu instytucji publicznych zapewnić rzetelność i sprawność, w poczuciu odpowiedzialności przed Bogiem lub przed własnym sumieniem, ustanawiamy Konstytucję Rzeczypospolitej Polskiej jako prawa podstawowe dla państwa oparte na poszanowaniu wolności i sprawiedliwości, współdziałaniu władz, dialogu społecznym oraz na zasadzie pomocniczości umacniającej uprawnienia obywateli i ich wspólnot.
@@ -23,7 +23,7 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1997-04-02 |
-| Ostatnia zmiana | 2026-03-18 |
+| Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/483/text.pdf) |
 
 Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą stosowali, wzywamy, aby czynili to, dbając o zachowanie przyrodzonej godności człowieka, jego prawa do wolności i obowiązku solidarności z innymi, a poszanowanie tych zasad mieli za niewzruszoną podstawę Rzeczypospolitej Polskiej.
@@ -339,7 +339,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 3. Ograniczenie prawa, o którym mowa w ust. 1 i 2, może nastąpić wyłącznie ze względu na określone w ustawach ochronę wolności i praw innych osób i podmiotów gospodarczych oraz ochronę porządku publicznego, bezpieczeństwa lub ważnego interesu gospodarczego państwa.
 
-4. Tryb udzielania informacji, o których mowa w ust. 1 i 2, określają ustawy, a w odniesieniu do i Senatu ich regulaminy.
+4. Tryb udzielania informacji, o których mowa w ust. 1 i 2, określają ustawy, a w odniesieniu do Sejmu i Senatu ich regulaminy.
 
 **Art. 62.**
 
@@ -553,7 +553,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 1. Sejm składa się z 460 posłów.
 
-2. Wybory do są powszechne, równe, bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym.
+2. Wybory do Sejmu są powszechne, równe, bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym.
 
 **Art. 97.**
 
@@ -563,37 +563,37 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 **Art. 98.**
 
-1. Sejm i Senat są wybierane na czteroletnie kadencje. Kadencje i Senatu rozpoczynają się z dniem zebrania się na pierwsze posiedzenie i trwają do dnia poprzedzającego dzień zebrania się następnej kadencji.
+1. Sejm i Senat są wybierane na czteroletnie kadencje. Kadencje Sejmu i Senatu rozpoczynają się z dniem zebrania się Sejmu na pierwsze posiedzenie i trwają do dnia poprzedzającego dzień zebrania się Sejmu następnej kadencji.
 
-2. Wybory do i Senatu zarządza Prezydent Rzeczypospolitej nie później niż na 90 dni przed upływem 4 lat od rozpoczęcia kadencji i Senatu, wyznaczając wybory na dzień wolny od pracy, przypadający w ciągu 30 dni przed upływem 4 lat od rozpoczęcia kadencji i Senatu.
+2. Wybory do Sejmu i Senatu zarządza Prezydent Rzeczypospolitej nie później niż na 90 dni przed upływem 4 lat od rozpoczęcia kadencji Sejmu i Senatu, wyznaczając wybory na dzień wolny od pracy, przypadający w ciągu 30 dni przed upływem 4 lat od rozpoczęcia kadencji Sejmu i Senatu.
 
-3. Sejm może skrócić swoją kadencję uchwałą podjętą większością co najmniej 2/3 głosów ustawowej liczby posłów. Skrócenie kadencji oznacza jednoczesne skrócenie kadencji Senatu. Przepis ust. 5 stosuje się odpowiednio.
+3. Sejm może skrócić swoją kadencję uchwałą podjętą większością co najmniej 2/3 głosów ustawowej liczby posłów. Skrócenie kadencji Sejmu oznacza jednoczesne skrócenie kadencji Senatu. Przepis ust. 5 stosuje się odpowiednio.
 
-4. Prezydent Rzeczypospolitej, po zasięgnięciu opinii Marszałka i Marszałka Senatu, może w przypadkach określonych w Konstytucji zarządzić skrócenie kadencji Sejmu. Wraz ze skróceniem kadencji skrócona zostaje również kadencja Senatu.
+4. Prezydent Rzeczypospolitej, po zasięgnięciu opinii Marszałka Sejmu i Marszałka Senatu, może w przypadkach określonych w Konstytucji zarządzić skrócenie kadencji Sejmu. Wraz ze skróceniem kadencji Sejmu skrócona zostaje również kadencja Senatu.
 
-5. Prezydent Rzeczypospolitej, zarządzając skrócenie kadencji Sejmu, zarządza jednocześnie wybory do i Senatu i wyznacza ich datę na dzień przypadający nie później niż w ciągu 45 dni od dnia zarządzenia skrócenia kadencji Sejmu. Prezydent Rzeczypospolitej zwołuje pierwsze posiedzenie nowo wybranego nie później niż na 15 dzień po dniu przeprowadzenia wyborów.
+5. Prezydent Rzeczypospolitej, zarządzając skrócenie kadencji Sejmu, zarządza jednocześnie wybory do Sejmu i Senatu i wyznacza ich datę na dzień przypadający nie później niż w ciągu 45 dni od dnia zarządzenia skrócenia kadencji Sejmu. Prezydent Rzeczypospolitej zwołuje pierwsze posiedzenie nowo wybranego Sejmu nie później niż na 15 dzień po dniu przeprowadzenia wyborów.
 
-6. W razie skrócenia kadencji stosuje się odpowiednio przepis ust. 1.
+6. W razie skrócenia kadencji Sejmu stosuje się odpowiednio przepis ust. 1.
 
 **Art. 99.**
 
-1. Wybrany do może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy 21 lat.
+1. Wybrany do Sejmu może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy 21 lat.
 
 2. Wybrany do Senatu może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy 30 lat.
 
-3. Wybraną do lub do Senatu nie może być osoba skazana prawomocnym wyrokiem na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego.
+3. Wybraną do Sejmu lub do Senatu nie może być osoba skazana prawomocnym wyrokiem na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego.
 
 **Art. 100.**
 
 1. Kandydatów na posłów i senatorów mogą zgłaszać partie polityczne oraz wyborcy.
 
-2. Nie można kandydować równocześnie do i Senatu.
+2. Nie można kandydować równocześnie do Sejmu i Senatu.
 
 3. Zasady i tryb zgłaszania kandydatów i przeprowadzania wyborów oraz warunki ważności wyborów określa ustawa.
 
 **Art. 101.**
 
-1. Ważność wyborów do i Senatu stwierdza Sąd Najwyższy.
+1. Ważność wyborów do Sejmu i Senatu stwierdza Sąd Najwyższy.
 
 2. Wyborcy przysługuje prawo zgłoszenia do Sądu Najwyższego protestu przeciwko ważności wyborów na zasadach określonych w ustawie. Posłowie i senatorowie
 
@@ -619,9 +619,9 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 1. Poseł nie może być pociągnięty do odpowiedzialności za swoją działalność wchodzącą w zakres sprawowania mandatu poselskiego ani w czasie jego trwania, ani po jego wygaśnięciu. Za taką działalność poseł odpowiada wyłącznie przed Sejmem, a w przypadku naruszenia praw osób trzecich może być pociągnięty do odpowiedzialności sądowej tylko za zgodą Sejmu.
 
-2. Od dnia ogłoszenia wyników wyborów do dnia wygaśnięcia mandatu poseł nie może być pociągnięty bez zgody do odpowiedzialności karnej.
+2. Od dnia ogłoszenia wyników wyborów do dnia wygaśnięcia mandatu poseł nie może być pociągnięty bez zgody Sejmu do odpowiedzialności karnej.
 
-3. Postępowanie karne wszczęte wobec osoby przed dniem wyboru jej na posła ulega na żądanie zawieszeniu do czasu wygaśnięcia mandatu. W takim przypadku ulega również zawieszeniu na ten czas bieg przedawnienia w postępowaniu karnym.
+3. Postępowanie karne wszczęte wobec osoby przed dniem wyboru jej na posła ulega na żądanie Sejmu zawieszeniu do czasu wygaśnięcia mandatu. W takim przypadku ulega również zawieszeniu na ten czas bieg przedawnienia w postępowaniu karnym.
 
 4. Poseł może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej. W takim przypadku nie stosuje się przepisów ust. 2 i 3.
 
@@ -635,7 +635,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 1. W zakresie określonym ustawą poseł nie może prowadzić działalności gospodarczej z osiąganiem korzyści z majątku Skarbu Państwa lub samorządu terytorialnego ani nabywać tego majątku.
 
-2. Za naruszenie zakazów, o których mowa w ust. 1, poseł, uchwałą podjętą na wniosek Marszałka Sejmu, może być pociągnięty do odpowiedzialności przed Trybunałem Stanu, który orzeka w przedmiocie pozbawienia mandatu.
+2. Za naruszenie zakazów, o których mowa w ust. 1, poseł, uchwałą Sejmu podjętą na wniosek Marszałka Sejmu, może być pociągnięty do odpowiedzialności przed Trybunałem Stanu, który orzeka w przedmiocie pozbawienia mandatu.
 
 **Art. 108.** Do senatorów stosuje się odpowiednio przepisy art. 103–107. Organizacja i działanie
 
@@ -643,13 +643,13 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 1. Sejm i Senat obradują na posiedzeniach.
 
-2. Pierwsze posiedzenia i Senatu Prezydent Rzeczypospolitej zwołuje na dzień przypadający w ciągu 30 dni od dnia wyborów, z wyjątkiem przypadków określonych w art. 98 ust. 3 i 5.
+2. Pierwsze posiedzenia Sejmu i Senatu Prezydent Rzeczypospolitej zwołuje na dzień przypadający w ciągu 30 dni od dnia wyborów, z wyjątkiem przypadków określonych w art. 98 ust. 3 i 5.
 
 **Art. 110.**
 
-1. Sejm wybiera ze swojego grona Marszałka i wicemarszałków.
+1. Sejm wybiera ze swojego grona Marszałka Sejmu i wicemarszałków.
 
-2. Marszałek przewodniczy obradom Sejmu, strzeże praw oraz reprezentuje Sejm na zewnątrz.
+2. Marszałek Sejmu przewodniczy obradom Sejmu, strzeże praw Sejmu oraz reprezentuje Sejm na zewnątrz.
 
 3. Sejm powołuje komisje stałe oraz może powoływać komisje nadzwyczajne.
 
@@ -659,13 +659,13 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 2. Tryb działania komisji śledczej określa ustawa.
 
-**Art. 112.** Organizację wewnętrzną i porządek prac oraz tryb powoływania i działalności jego organów, jak też sposób wykonywania konstytucyjnych i ustawowych obowiązków organów państwowych wobec określa regulamin uchwalony przez Sejm.
+**Art. 112.** Organizację wewnętrzną i porządek prac Sejmu oraz tryb powoływania i działalności jego organów, jak też sposób wykonywania konstytucyjnych i ustawowych obowiązków organów państwowych wobec Sejmu określa regulamin Sejmu uchwalony przez Sejm.
 
-**Art. 113.** Posiedzenia są jawne. Jeżeli wymaga tego dobro państwa, Sejm może bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów uchwalić tajność obrad.
+**Art. 113.** Posiedzenia Sejmu są jawne. Jeżeli wymaga tego dobro państwa, Sejm może bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów uchwalić tajność obrad.
 
 **Art. 114.**
 
-1. W przypadkach określonych w Konstytucji Sejm i Senat, obradując wspólnie pod przewodnictwem Marszałka lub w jego zastępstwie Marszałka Senatu, działają jako Zgromadzenie Narodowe.
+1. W przypadkach określonych w Konstytucji Sejm i Senat, obradując wspólnie pod przewodnictwem Marszałka Sejmu lub w jego zastępstwie Marszałka Senatu, działają jako Zgromadzenie Narodowe.
 
 2. Zgromadzenie Narodowe uchwala swój regulamin.
 
@@ -697,15 +697,15 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 2. Prawo wnoszenia poprawek do projektu ustawy w czasie rozpatrywania go przez Sejm przysługuje wnioskodawcy projektu, posłom i Radzie Ministrów.
 
-3. Marszałek może odmówić poddania pod głosowanie poprawki, która uprzednio nie była przedłożona komisji.
+3. Marszałek Sejmu może odmówić poddania pod głosowanie poprawki, która uprzednio nie była przedłożona komisji.
 
 4. Wnioskodawca może wycofać projekt ustawy w toku postępowania ustawodawczego w Sejmie do czasu zakończenia drugiego czytania projektu.
 
-**Art. 120.** Sejm uchwala ustawy zwykłą większością głosów w obecności co najmniej połowy ustawowej liczby posłów, chyba że Konstytucja przewiduje inną większość. W tym samym trybie Sejm podejmuje uchwały, jeżeli ustawa lub uchwała nie stanowi inaczej.
+**Art. 120.** Sejm uchwala ustawy zwykłą większością głosów w obecności co najmniej połowy ustawowej liczby posłów, chyba że Konstytucja przewiduje inną większość. W tym samym trybie Sejm podejmuje uchwały, jeżeli ustawa lub uchwała Sejmu nie stanowi inaczej.
 
 **Art. 121.**
 
-1. Ustawę uchwaloną przez Sejm Marszałek przekazuje Senatowi.
+1. Ustawę uchwaloną przez Sejm Marszałek Sejmu przekazuje Senatowi.
 
 2. Senat w ciągu 30 dni od dnia przekazania ustawy może ją przyjąć bez zmian, uchwalić poprawki albo uchwalić odrzucenie jej w całości. Jeżeli Senat w ciągu 30 dni od dnia przekazania ustawy nie podejmie stosownej uchwały, ustawę uznaje się za uchwaloną w brzmieniu przyjętym przez Sejm.
 
@@ -713,7 +713,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 **Art. 122.**
 
-1. Po zakończeniu postępowania określonego w art. 121 Marszałek przedstawia uchwaloną ustawę do podpisu Prezydentowi Rzeczypospolitej.
+1. Po zakończeniu postępowania określonego w art. 121 Marszałek Sejmu przedstawia uchwaloną ustawę do podpisu Prezydentowi Rzeczypospolitej.
 
 2. Prezydent Rzeczypospolitej podpisuje ustawę w ciągu 21 dni od dnia przedstawienia i zarządza jej ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
@@ -723,13 +723,13 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 5. Jeżeli Prezydent Rzeczypospolitej nie wystąpił z wnioskiem do Trybunału Konstytucyjnego w trybie ust. 3, może z umotywowanym wnioskiem przekazać ustawę Sejmowi do ponownego rozpatrzenia. Po ponownym uchwaleniu ustawy przez Sejm większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów Prezydent Rzeczypospolitej w ciągu 7 dni podpisuje ustawę i zarządza jej ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej. W razie ponownego uchwalenia ustawy przez Sejm Prezydentowi Rzeczypospolitej nie przysługuje prawo wystąpienia do Trybunału Konstytucyjnego w trybie ust. 3.
 
-6. Wystąpienie Prezydenta Rzeczypospolitej do Trybunału Konstytucyjnego z wnioskiem w sprawie zgodności ustawy z Konstytucją lub z wnioskiem do o ponowne rozpatrzenie ustawy wstrzymuje bieg, określonego w ust. 2, terminu do podpisania ustawy.
+6. Wystąpienie Prezydenta Rzeczypospolitej do Trybunału Konstytucyjnego z wnioskiem w sprawie zgodności ustawy z Konstytucją lub z wnioskiem do Sejmu o ponowne rozpatrzenie ustawy wstrzymuje bieg, określonego w ust. 2, terminu do podpisania ustawy.
 
 **Art. 123.**
 
 1. Rada Ministrów może uznać uchwalony przez siebie projekt ustawy za pilny, z wyjątkiem projektów ustaw podatkowych, ustaw dotyczących wyboru Prezydenta Rzeczypospolitej, Sejmu, Senatu oraz organów samorządu terytorialnego, ustaw regulujących ustrój i właściwość władz publicznych, a także kodeksów.
 
-2. Regulamin oraz regulamin Senatu określają odrębności w postępowaniu ustawodawczym w sprawie projektu pilnego.
+2. Regulamin Sejmu oraz regulamin Senatu określają odrębności w postępowaniu ustawodawczym w sprawie projektu pilnego.
 
 3. W postępowaniu w sprawie ustawy, której projekt został uznany za pilny, termin jej rozpatrzenia przez Senat wynosi 14 dni, a termin podpisania ustawy przez Prezydenta Rzeczypospolitej wynosi 7 dni.
 
@@ -777,7 +777,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 1. Kadencja Prezydenta Rzeczypospolitej rozpoczyna się w dniu objęcia przez niego urzędu.
 
-2. Wybory Prezydenta Rzeczypospolitej zarządza Marszałek na dzień przypadający nie wcześniej niż na 100 dni i nie później niż na 75 dni przed upływem kadencji urzędującego Prezydenta Rzeczypospolitej, a w razie opróżnienia urzędu Prezydenta Rzeczypospolitej – nie później niż w czternastym dniu po opróżnieniu urzędu, wyznaczając datę wyborów na dzień wolny od pracy przypadający w ciągu 60 dni od dnia zarządzenia wyborów.
+2. Wybory Prezydenta Rzeczypospolitej zarządza Marszałek Sejmu na dzień przypadający nie wcześniej niż na 100 dni i nie później niż na 75 dni przed upływem kadencji urzędującego Prezydenta Rzeczypospolitej, a w razie opróżnienia urzędu Prezydenta Rzeczypospolitej – nie później niż w czternastym dniu po opróżnieniu urzędu, wyznaczając datę wyborów na dzień wolny od pracy przypadający w ciągu 60 dni od dnia zarządzenia wyborów.
 
 **Art. 129.**
 
@@ -791,9 +791,9 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 **Art. 131.**
 
-1. Jeżeli Prezydent Rzeczypospolitej nie może przejściowo sprawować urzędu, zawiadamia o tym Marszałka Sejmu, który tymczasowo przejmuje obowiązki Prezydenta Rzeczypospolitej. Gdy Prezydent Rzeczypospolitej nie jest w stanie zawiadomić Marszałka o niemożności sprawowania urzędu, wówczas o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej rozstrzyga Trybunał Konstytucyjny na wniosek Marszałka Sejmu. W razie uznania przejściowej niemożności sprawowania urzędu przez Prezydenta Rzeczypospolitej Trybunał Konstytucyjny powierza Marszałkowi tymczasowe wykonywanie obowiązków Prezydenta Rzeczypospolitej.
+1. Jeżeli Prezydent Rzeczypospolitej nie może przejściowo sprawować urzędu, zawiadamia o tym Marszałka Sejmu, który tymczasowo przejmuje obowiązki Prezydenta Rzeczypospolitej. Gdy Prezydent Rzeczypospolitej nie jest w stanie zawiadomić Marszałka Sejmu o niemożności sprawowania urzędu, wówczas o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej rozstrzyga Trybunał Konstytucyjny na wniosek Marszałka Sejmu. W razie uznania przejściowej niemożności sprawowania urzędu przez Prezydenta Rzeczypospolitej Trybunał Konstytucyjny powierza Marszałkowi Sejmu tymczasowe wykonywanie obowiązków Prezydenta Rzeczypospolitej.
 
-2. Marszałek tymczasowo, do czasu wyboru nowego Prezydenta Rzeczypospolitej, wykonuje obowiązki Prezydenta Rzeczypospolitej w razie:
+2. Marszałek Sejmu tymczasowo, do czasu wyboru nowego Prezydenta Rzeczypospolitej, wykonuje obowiązki Prezydenta Rzeczypospolitej w razie:
 
 - **1)** śmierci Prezydenta Rzeczypospolitej,
 - **2)** zrzeczenia się urzędu przez Prezydenta Rzeczypospolitej,
@@ -801,7 +801,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 - **4)** uznania przez Zgromadzenie Narodowe trwałej niezdolności Prezydenta Rzeczypospolitej do sprawowania urzędu ze względu na stan zdrowia, uchwałą podjętą większością co najmniej 2/3 głosów ustawowej liczby członków Zgromadzenia Narodowego,
 - **5)** złożenia Prezydenta Rzeczypospolitej z urzędu orzeczeniem Trybunału Stanu.
 
-3. Jeżeli Marszałek nie może wykonywać obowiązków Prezydenta Rzeczypospolitej, obowiązki te przejmuje Marszałek Senatu.
+3. Jeżeli Marszałek Sejmu nie może wykonywać obowiązków Prezydenta Rzeczypospolitej, obowiązki te przejmuje Marszałek Senatu.
 
 4. Osoba wykonująca obowiązki Prezydenta Rzeczypospolitej nie może postanowić o skróceniu kadencji Sejmu.
 
@@ -867,9 +867,9 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 3. Przepis ust. 2 nie dotyczy:
 
-- **1)** zarządzania wyborów do i Senatu,
-- **2)** zwoływania pierwszego posiedzenia nowo wybranych i Senatu,
-- **3)** skracania kadencji w przypadkach określonych w Konstytucji,
+- **1)** zarządzania wyborów do Sejmu i Senatu,
+- **2)** zwoływania pierwszego posiedzenia nowo wybranych Sejmu i Senatu,
+- **3)** skracania kadencji Sejmu w przypadkach określonych w Konstytucji,
 - **4)** inicjatywy ustawodawczej,
 - **5)** zarządzania referendum ogólnokrajowego,
 - **6)** podpisywania albo odmowy podpisania ustawy,
@@ -879,7 +879,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 - **10)** wniosku o przeprowadzenie kontroli przez Najwyższą Izbę Kontroli,
 - **11)** desygnowania i powoływania Prezesa Rady Ministrów,
 - **12)** przyjmowania dymisji Rady Ministrów i powierzania jej tymczasowego pełnienia obowiązków,
-- **13)** wniosku do o pociągnięcie do odpowiedzialności przed Trybunałem Stanu członka Rady Ministrów,
+- **13)** wniosku do Sejmu o pociągnięcie do odpowiedzialności przed Trybunałem Stanu członka Rady Ministrów,
 - **14)** odwoływania ministra, któremu Sejm wyraził wotum nieufności,
 - **15)** zwoływania Rady Gabinetowej,
 - **16)** nadawania orderów i odznaczeń,
@@ -890,7 +890,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 - **21)** powoływania Prezesa i Wiceprezesa Trybunału Konstytucyjnego,
 - **22)** powoływania Prezesa Naczelnego Sądu Administracyjnego,
 - **23)** powoływania prezesów Sądu Najwyższego oraz wiceprezesów Naczelnego Sądu Administracyjnego,
-- **24)** wniosku do o powołanie Prezesa Narodowego Banku Polskiego,
+- **24)** wniosku do Sejmu o powołanie Prezesa Narodowego Banku Polskiego,
 - **25)** powoływania członków Rady Polityki Pieniężnej,
 - **26)** powoływania i odwoływania członków Rady Bezpieczeństwa Narodowego,
 - **27)** powoływania członków Krajowej Rady Radiofonii i Telewizji,
@@ -943,6 +943,14 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 **Art. 148.** Prezes Rady Ministrów:
 
+- **1)** reprezentuje Radę Ministrów,
+- **2)** kieruje pracami Rady Ministrów,
+- **3)** wydaje rozporządzenia,
+- **4)** zapewnia wykonywanie polityki Rady Ministrów i określa sposoby jej wykonywania,
+- **5)** koordynuje i kontroluje pracę członków Rady Ministrów,
+- **6)** sprawuje nadzór nad samorządem terytorialnym w granicach i formach określonych w Konstytucji i ustawach,
+- **7)** jest zwierzchnikiem służbowym pracowników administracji rządowej.
+
 **Art. 149.**
 
 1. Ministrowie kierują określonymi działami administracji rządowej lub wypełniają zadania wyznaczone im przez Prezesa Rady Ministrów. Zakres działania ministra kierującego działem administracji rządowej określają ustawy.
@@ -969,7 +977,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 **Art. 154.**
 
-1. Prezydent Rzeczypospolitej desygnuje Prezesa Rady Ministrów, który proponuje skład Rady Ministrów. Prezydent Rzeczypospolitej powołuje Prezesa Rady Ministrów wraz z pozostałymi członkami Rady Ministrów w ciągu 14 dni od dnia pierwszego posiedzenia lub przyjęcia dymisji poprzedniej Rady Ministrów i odbiera przysięgę od członków nowo powołanej Rady Ministrów.
+1. Prezydent Rzeczypospolitej desygnuje Prezesa Rady Ministrów, który proponuje skład Rady Ministrów. Prezydent Rzeczypospolitej powołuje Prezesa Rady Ministrów wraz z pozostałymi członkami Rady Ministrów w ciągu 14 dni od dnia pierwszego posiedzenia Sejmu lub przyjęcia dymisji poprzedniej Rady Ministrów i odbiera przysięgę od członków nowo powołanej Rady Ministrów.
 
 2. Prezes Rady Ministrów, w ciągu 14 dni od dnia powołania przez Prezydenta Rzeczypospolitej, przedstawia Sejmowi program działania Rady Ministrów z wnioskiem o udzielenie jej wotum zaufania. Wotum zaufania Sejm uchwala bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
 
@@ -979,7 +987,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 1. W razie niepowołania Rady Ministrów w trybie art. 154 ust. 3 Prezydent Rzeczypospolitej w ciągu 14 dni powołuje Prezesa Rady Ministrów i na jego wniosek pozostałych członków Rady Ministrów oraz odbiera od nich przysięgę. Sejm w ciągu 14 dni od dnia powołania Rady Ministrów przez Prezydenta Rzeczypospolitej udziela jej wotum zaufania większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
 
-2. W razie nieudzielenia Radzie Ministrów wotum zaufania w trybie określonym w ust. 1, Prezydent Rzeczypospolitej skraca kadencję i zarządza wybory.
+2. W razie nieudzielenia Radzie Ministrów wotum zaufania w trybie określonym w ust. 1, Prezydent Rzeczypospolitej skraca kadencję Sejmu i zarządza wybory.
 
 **Art. 156.**
 
@@ -1005,7 +1013,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 2. Prezydent Rzeczypospolitej odwołuje ministra, któremu Sejm wyraził wotum nieufności większością głosów ustawowej liczby posłów.
 
-**Art. 160.** Prezes Rady Ministrów może zwrócić się do o wyrażenie Radzie Ministrów wotum zaufania. Udzielenie wotum zaufania Radzie Ministrów następuje większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
+**Art. 160.** Prezes Rady Ministrów może zwrócić się do Sejmu o wyrażenie Radzie Ministrów wotum zaufania. Udzielenie wotum zaufania Radzie Ministrów następuje większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
 
 **Art. 161.** Prezydent Rzeczypospolitej, na wniosek Prezesa Rady Ministrów, dokonuje zmian w składzie Rady Ministrów.
 
@@ -1169,6 +1177,12 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 **Art. 188.** Trybunał Konstytucyjny orzeka w sprawach:
 
+- **1)** zgodności ustaw i umów międzynarodowych z Konstytucją,
+- **2)** zgodności ustaw z ratyfikowanymi umowami międzynarodowymi, których ratyfikacja wymagała uprzedniej zgody wyrażonej w ustawie,
+- **3)** zgodności przepisów prawa, wydawanych przez centralne organy państwowe, z Konstytucją, ratyfikowanymi umowami międzynarodowymi i ustawami,
+- **4)** zgodności z Konstytucją celów lub działalności partii politycznych,
+- **5)** skargi konstytucyjnej, o której mowa w art. 79 ust. 1.
+
 **Art. 189.** Trybunał Konstytucyjny rozstrzyga spory kompetencyjne pomiędzy centralnymi konstytucyjnymi organami państwa.
 
 **Art. 190.**
@@ -1274,7 +1288,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 3. Prezes Najwyższej Izby Kontroli nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej nie dającej się pogodzić z godnością jego urzędu.
 
-**Art. 206.** Prezes Najwyższej Izby Kontroli nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Prezes Najwyższej Izby Kontroli nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+**Art. 206.** Prezes Najwyższej Izby Kontroli nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Prezes Najwyższej Izby Kontroli nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
 **Art. 207.** Organizację oraz tryb działania Najwyższej Izby Kontroli określa ustawa. Rzecznik Praw Obywatelskich
 
@@ -1294,7 +1308,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 **Art. 210.** Rzecznik Praw Obywatelskich jest w swojej działalności niezawisły, niezależny od innych organów państwowych i odpowiada jedynie przed Sejmem na zasadach określonych w ustawie.
 
-**Art. 211.** Rzecznik Praw Obywatelskich nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik Praw Obywatelskich nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+**Art. 211.** Rzecznik Praw Obywatelskich nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik Praw Obywatelskich nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
 **Art. 212.** Rzecznik Praw Obywatelskich corocznie informuje Sejm i Senat o swojej działalności oraz o stanie przestrzegania wolności i praw człowieka i obywatela. Krajowa Rada Radiofonii i Telewizji
 
@@ -1406,7 +1420,7 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 1. W razie zagrożenia konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego, Prezydent Rzeczypospolitej na wniosek Rady Ministrów może wprowadzić, na czas oznaczony, nie dłuższy niż 90 dni, stan wyjątkowy na części albo na całym terytorium państwa.
 
-2. Przedłużenie stanu wyjątkowego może nastąpić tylko raz, za zgodą i na czas nie dłuższy niż 60 dni.
+2. Przedłużenie stanu wyjątkowego może nastąpić tylko raz, za zgodą Sejmu i na czas nie dłuższy niż 60 dni.
 
 **Art. 231.** Rozporządzenie o wprowadzeniu stanu wojennego lub wyjątkowego Prezydent Rzeczypospolitej przedstawia Sejmowi w ciągu 48 godzin od podpisania rozporządzenia. Sejm niezwłocznie rozpatruje rozporządzenie Prezydenta Rzeczypospolitej. Sejm może je uchylić bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
 
@@ -1442,6 +1456,6 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 6. Jeżeli ustawa o zmianie Konstytucji dotyczy przepisów rozdziału I, II lub XII, podmioty określone w ust. 1 mogą zażądać, w terminie 45 dni od dnia uchwalenia ustawy przez Senat, przeprowadzenia referendum zatwierdzającego. Z wnioskiem w tej sprawie podmioty te zwracają się do Marszałka Sejmu, który zarządza niezwłocznie przeprowadzenie referendum w ciągu 60 dni od dnia złożenia wniosku. Zmiana Konstytucji zostaje przyjęta, jeżeli za tą zmianą opowiedziała się większość głosujących.
 
-7. Po zakończeniu postępowania określonego w ust. 4 i 6 Marszałek przedstawia Prezydentowi Rzeczypospolitej uchwaloną ustawę do podpisu.
+7. Po zakończeniu postępowania określonego w ust. 4 i 6 Marszałek Sejmu przedstawia Prezydentowi Rzeczypospolitej uchwaloną ustawę do podpisu.
 
 

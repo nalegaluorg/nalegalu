@@ -8,7 +8,7 @@ pos: 648
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o finansowaniu Akademii Katolickiej w Warszawie z budżetu państwa

@@ -8,10 +8,10 @@ pos: 1848
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1848 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 15 grudnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001848) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1848/text.pdf) |
 
-Poz. 1848 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 15 grudnia 2014 r.
-w sprawie wysokości wynagrodzenia członków i przewodniczącego Rady do spraw Taryfikacji Na podstawie art. 31sa ust. 18 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) zarządza się, co następuje: § 1. Członkom Rady do spraw Taryfikacji, o której mowa w art. 31sa ust. 1 ustawy z dnia 27 sierpnia 2004 r.
+w sprawie wysokości wynagrodzenia członków i przewodniczącego Rady do spraw Taryfikacji Na podstawie art. 31sa ust. 18 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) zarządza się, co następuje:
+§ 1. Członkom Rady do spraw Taryfikacji, o której mowa w art. 31sa ust. 1 ustawy z dnia 27 sierpnia 2004 r.
 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”, przysługuje wynagrodzenie za udział w każdym posiedzeniu w wysokości:
 1) przewodniczącemu Rady do spraw Taryfikacji – 3000 zł,
 2) wiceprzewodniczącemu Rady do spraw Taryfikacji – 2700 zł,

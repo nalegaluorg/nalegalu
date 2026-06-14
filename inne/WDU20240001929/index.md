@@ -8,10 +8,10 @@ pos: 1929
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1929 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001929) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1929/text.pdf) |
 
-Poz. 1929 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 grudnia 2024 r.
-w sprawie wykazu krajów i terytoriów stosujących szkodliwą konkurencję podatkową w zakresie podatku dochodowego od osób fizycznych Na podstawie art. 23v ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 poz. 226, z późn. zm. ) zarządza się, co następuje: § 1. Szkodliwa konkurencja podatkowa jest stosowana w następujących krajach i na następujących terytoriach:
+w sprawie wykazu krajów i terytoriów stosujących szkodliwą konkurencję podatkową w zakresie podatku dochodowego od osób fizycznych Na podstawie art. 23v ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 poz. 226, z późn. zm. ) zarządza się, co następuje:
+§ 1. Szkodliwa konkurencja podatkowa jest stosowana w następujących krajach i na następujących terytoriach:
 1) Anguilla – Terytorium Zamorskie Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej;
 2) Antigua i Barbuda;
 3) Sint-Maarten, Curaçao – kraje wchodzące w skład Królestwa Niderlandów;
@@ -46,7 +46,6 @@ w sprawie wykazu krajów i terytoriów stosujących szkodliwą konkurencję poda
 17) Republika Nauru;
 18) Niue – Samorządne Terytorium Stowarzyszone z Nową Zelandią;
 19) Republika Panamy;
-Dziennik Ustaw – 2 – Poz. 1929
 20) Niezależne Państwo Samoa;
 21) Republika Seszeli;
 22) Saint Lucia;

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych.*
 
-Łącznie: **1205** orzeczeń
-(pominięto 1181 orzeczeń sądów rejonowych)
+Łącznie: **1208** orzeczeń
+(pominięto 1185 orzeczeń sądów rejonowych)
 
 ## art. 1 (85)
 
@@ -704,7 +704,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mi
 - 2018-06-13 | SO | [I Ns 881/16](https://www.saos.org.pl/judgments/350526) | Postanowienie
 - 2016-09-07 | SO | [III Ca 799/16](https://www.saos.org.pl/judgments/251382) | Uzasadnienie
 
-## art. 11 (82)
+## art. 11 (83)
 
 - 2005-04-20 | TK | [K 42/02](https://www.saos.org.pl/judgments/107195) | Wyrok ★
 - 2022-03-23 | SO | [I ACa 223/21](https://www.saos.org.pl/judgments/465704) | Wyrok
@@ -757,6 +757,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mi
 - 2014-05-27 | SO | [II C 1352/13](https://www.saos.org.pl/judgments/147109) | Wyrok
 - 2014-03-31 | SO | [II C 739/13](https://www.saos.org.pl/judgments/145828) | Wyrok
 - 2013-01-30 | SO | [I Ca 442/12](https://www.saos.org.pl/judgments/137635) | Wyrok
+- 2025-02-10 | SO | [I Ns 149/23](https://www.saos.org.pl/judgments/545217) | Postanowienie
 - 2020-02-19 | SO | [I Ns 661/17](https://www.saos.org.pl/judgments/405801) | Postanowienie
 - 2019-11-19 | SO | [I Ns 675/17](https://www.saos.org.pl/judgments/402327) | Postanowienie
 - 2019-07-04 | SO | [II Ns 316/17](https://www.saos.org.pl/judgments/392351) | Postanowienie
@@ -859,7 +860,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mi
 - 2014-09-05 | SO | [XV Ca 653/14](https://www.saos.org.pl/judgments/169729) | Postanowienie
 - 2016-09-29 | SO | [III Ca 434/16](https://www.saos.org.pl/judgments/254271) | Uzasadnienie
 
-## art. 15 (33)
+## art. 15 (34)
 
 - 2003-09-09 | TK | [SK 28/03](https://www.saos.org.pl/judgments/106384) | Wyrok ★
 - 2001-07-05 | TK | [T 18/01](https://www.saos.org.pl/judgments/105738) | Postanowienie ★
@@ -885,6 +886,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mi
 - 2012-06-29 | SO | [I ACa 629/12](https://www.saos.org.pl/judgments/5880) | Wyrok
 - 2018-06-06 | SO | [I ACz 548/18](https://www.saos.org.pl/judgments/347207) | Postanowienie
 - 2014-03-13 | SO | [I ACa 287/13](https://www.saos.org.pl/judgments/52927) | Postanowienie
+- 2021-11-24 | SO | [I C 977/21](https://www.saos.org.pl/judgments/545835) | Wyrok
 - 2017-04-05 | SO | [I C 784/16](https://www.saos.org.pl/judgments/375279) | Wyrok
 - 2014-06-25 | SO | [I Ca 140/14](https://www.saos.org.pl/judgments/147816) | Wyrok
 - 2014-05-27 | SO | [II C 1352/13](https://www.saos.org.pl/judgments/147109) | Wyrok
@@ -1756,7 +1758,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mi
 
 - 2004-06-24 | SN | [III CZP 29/04](https://www.saos.org.pl/judgments/82740) | Uchwała ★
 
-## (ogólnie) (277)
+## (ogólnie) (278)
 
 - 2024-04-10 | SO | [III AUa 753/22](https://www.saos.org.pl/judgments/505156) | Wyrok
 - 2024-02-14 | SO | [III AUa 1675/22](https://www.saos.org.pl/judgments/504807) | Wyrok
@@ -1977,6 +1979,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mi
 - 2013-11-14 | SO | [IV Ca 1768/12](https://www.saos.org.pl/judgments/30148) | Wyrok
 - 2013-10-07 | SO | [II C 684/10](https://www.saos.org.pl/judgments/140753) | Wyrok
 - 2013-07-12 | SO | [I C 155/13](https://www.saos.org.pl/judgments/140413) | Wyrok
+- 2026-03-03 | SO | [I Ns 214/25](https://www.saos.org.pl/judgments/546416) | Postanowienie
 - 2018-06-19 | SO | [II Ns 1488/12](https://www.saos.org.pl/judgments/346611) | Postanowienie
 - 2017-11-28 | SO | [XV Ca 575/17](https://www.saos.org.pl/judgments/345332) | Postanowienie
 - 2017-09-20 | SO | [II Ns 2228/16](https://www.saos.org.pl/judgments/307420) | Postanowienie

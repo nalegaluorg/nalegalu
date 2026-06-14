@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 21 marca 1985 r. o drogach publicznych.*
 
-Łącznie: **703** orzeczeń
-(pominięto 880 orzeczeń sądów rejonowych)
+Łącznie: **706** orzeczeń
+(pominięto 884 orzeczeń sądów rejonowych)
 
 ## art. 1 (21)
 
@@ -29,10 +29,11 @@ Orzeczenia powołujące: *Ustawa z dnia 21 marca 1985 r. o drogach publicznych.*
 - 2021-12-22 | SO | [III Ca 869/20](https://www.saos.org.pl/judgments/461733) | Uzasadnienie
 - 2020-03-06 | SO | [II K 487/19](https://www.saos.org.pl/judgments/428723) | Uzasadnienie
 
-## art. 2 (117)
+## art. 2 (119)
 
 - 2012-03-28 | SN | [V CSK 144/11](https://www.saos.org.pl/judgments/97691) | Wyrok ★
 - 2001-02-07 | SN | [V CKN 1490/00](https://www.saos.org.pl/judgments/80322) | Wyrok ★
+- 2026-02-02 | SO | [I ACa 3947/24](https://www.saos.org.pl/judgments/546885) | Wyrok
 - 2025-11-27 | SO | [I ACa 1268/25](https://www.saos.org.pl/judgments/538668) | Wyrok
 - 2023-01-19 | SO | [I ACa 569/21](https://www.saos.org.pl/judgments/494332) | Wyrok
 - 2021-07-14 | SO | [I ACa 465/20](https://www.saos.org.pl/judgments/446267) | Wyrok
@@ -67,6 +68,7 @@ Orzeczenia powołujące: *Ustawa z dnia 21 marca 1985 r. o drogach publicznych.*
 - 2013-02-07 | SO | [II AKa 382/12](https://www.saos.org.pl/judgments/137914) | Wyrok
 - 2012-12-19 | SO | [I ACa 661/12](https://www.saos.org.pl/judgments/5642) | Wyrok
 - 2013-03-15 | SO | [I ACz 124/13](https://www.saos.org.pl/judgments/10945) | Postanowienie
+- 2023-04-03 | SO | [II K 200/22](https://www.saos.org.pl/judgments/546938) | Wyrok
 - 2023-03-21 | SO | [II Ca 1049/22](https://www.saos.org.pl/judgments/539735) | Wyrok
 - 2022-10-07 | SO | [II C 587/18](https://www.saos.org.pl/judgments/477236) | Wyrok
 - 2022-08-31 | SO | [XIV C 854/21](https://www.saos.org.pl/judgments/474251) | Wyrok
@@ -558,7 +560,7 @@ Orzeczenia powołujące: *Ustawa z dnia 21 marca 1985 r. o drogach publicznych.*
 - 2014-06-23 | SO | [III Ca 1782/13](https://www.saos.org.pl/judgments/58646) | Uzasadnienie
 - 2014-05-22 | SO | [III Ca 1646/13](https://www.saos.org.pl/judgments/54921) | Uzasadnienie
 
-## art. 20 (215)
+## art. 20 (216)
 
 - 2001-06-26 | TK | [U 6/00](https://www.saos.org.pl/judgments/206145) | Wyrok ★
 - 2024-11-21 | SO | [I ACa 1098/22](https://www.saos.org.pl/judgments/533520) | Wyrok
@@ -604,6 +606,7 @@ Orzeczenia powołujące: *Ustawa z dnia 21 marca 1985 r. o drogach publicznych.*
 - 2013-01-10 | SO | [I ACa 717/12](https://www.saos.org.pl/judgments/13279) | Wyrok
 - 2012-11-15 | SO | [I ACa 518/12](https://www.saos.org.pl/judgments/4574) | Wyrok
 - 2012-09-27 | SO | [I ACa 500/12](https://www.saos.org.pl/judgments/1012) | Wyrok
+- 2026-02-04 | SO | [I C 176/25](https://www.saos.org.pl/judgments/545153) | Wyrok
 - 2023-08-09 | SO | [VIII C 361/22](https://www.saos.org.pl/judgments/512491) | Wyrok
 - 2023-07-28 | SO | [VIII C 1018/21](https://www.saos.org.pl/judgments/512331) | Wyrok
 - 2023-05-23 | SO | [VIII C 182/22](https://www.saos.org.pl/judgments/512417) | Wyrok

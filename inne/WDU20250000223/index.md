@@ -8,7 +8,7 @@ pos: 223
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej
@@ -34,6 +34,36 @@ Art. 127–136. (pominięte)
 **Art. 1.** Ustawa określa zasady, warunki i tryb udzielania cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz organy właściwe w tych sprawach.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** areszt dla cudzoziemców – areszt dla cudzoziemców w rozumieniu ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i
+- **1688)** ;
+- **1a)** beneficjent ochrony czasowej – cudzoziemca należącego do grupy wysiedleńców wymienionej w decyzji Rady Unii Europejskiej stwierdzającej istnienie masowego napływu wysiedleńców, o której mowa w art. 106 ust. 1, cudzoziemca, o którym mowa w art. 106 ust. 2, oraz cudzoziemca należącego do grupy wysiedleńców wymienionej w przepisach wydanych na podstawie art. 107 ust. 1;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** cudzoziemiec – cudzoziemca w rozumieniu ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+- **4a)** dane biometryczne – wizerunek twarzy i odciski linii papilarnych pobrane w celu umieszczenia w dokumentach podróży przewidzianych w Konwencji Genewskiej w formie elektronicznej;
+- **5)** dokument podróży – dokument uznany przez właściwy organ Rzeczypospolitej Polskiej, uprawniający do przekroczenia granicy, wydany przez organ państwa obcego, organ polski lub organizację międzynarodową albo podmiot upoważniony przez organ państwa obcego lub obcą władzę o charakterze państwowym;
+- **6)** granica – granicę państwową Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2024 r. poz. 388 i 1635);
+- **6a)** instrumentalizacja – prowadzenie przez państwo graniczące z Rzecząpospolitą Polską lub inny podmiot działań zmierzających do umożliwienia przekroczenia przez cudzoziemców wbrew przepisom prawa granicy zewnętrznej w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm. ), w szczególności z użyciem przemocy wobec funkcjonariuszy służb państwowych oraz żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej chroniących tę granicę lub w połączeniu z niszczeniem infrastruktury granicznej, mogących skutkować destabilizacją sytuacji wewnętrznej na terytorium Rzeczypospolitej Polskiej;
+- **7)** karta pobytu – dokument wydany cudzoziemcowi, który uzyskał zezwolenie na pobyt czasowy, zezwolenie na pobyt stały, zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, ochronę uzupełniającą, zgodę na pobyt ze względów humanitarnych lub status uchodźcy w Rzeczypospolitej Polskiej;
+- **7a)** kolejny wniosek o udzielenie ochrony międzynarodowej – wniosek o udzielenie ochrony międzynarodowej złożony przez cudzoziemca lub w jego imieniu po tym, jak w odniesieniu do poprzedniego wniosku o udzielenie ochrony międzynarodowej, który go dotyczył, została wydana decyzja ostateczna, w tym także o umorzeniu postępowania;
+- **8)** Konwencja Genewska – Konwencję dotyczącą statusu uchodźców, sporządzoną w Genewie dnia 28 lipca 1951 r. (Dz. U. z 1991 r. poz. 515 i 516);
+- **9)** kraj pochodzenia – państwo, którego obywatelem jest cudzoziemiec, a w przypadku cudzoziemca, którego obywatelstwa nie da się ustalić lub który nie posiada obywatelstwa żadnego państwa – państwo, w którym stale zamieszkuje;
+- **9a)** małoletni bez opieki – małoletniego cudzoziemca, który przybywa na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium bez opieki osób dorosłych, odpowiedzialnych za niego zgodnie z prawem obowiązującym w Rzeczypospolitej Polskiej; 9aa) ośrodek recepcyjny – ośrodek dla cudzoziemców pełniący funkcję punktu przyjęć cudzoziemców, którzy złożyli wniosek o udzielenie ochrony międzynarodowej;
+- **9b)** państwo członkowskie – państwo członkowskie Unii Europejskiej lub inne państwo, które stosuje rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 31);
+- **9c)** przesiedlenie – przeniesienie z kraju trzeciego na terytorium Rzeczypospolitej Polskiej uchodźcy mandatoryjnego w celu nadania mu na tym terytorium statusu uchodźcy lub udzielenia ochrony uzupełniającej;
+- **9d)** relokacja – przemieszczenie cudzoziemca, który złożył wniosek o udzielenie ochrony międzynarodowej na terytorium odpowiedzialnego państwa członkowskiego określonego w rozdziale III rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 31), i osoby, w imieniu której wniosek ten został złożony, z terytorium tego państwa członkowskiego na terytorium Rzeczypospolitej Polskiej lub przemieszczenie cudzoziemca objętego ochroną międzynarodową z państwa członkowskiego na terytorium Rzeczypospolitej Polskiej, w ramach odpowiedzialności i solidarności między państwami członkowskimi;
+- **10)** strzeżony ośrodek – strzeżony ośrodek w rozumieniu ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+- **11)** (uchylony)
+- **12)** uchodźca mandatoryjny – cudzoziemca uznanego za uchodźcę przez Wysokiego Komisarza Narodów Zjednoczonych do Spraw Uchodźców, zgodnie z jego mandatem wynikającym z Konwencji Genewskiej oraz Statutu Biura Wysokiego Komisarza Narodów Zjednoczonych do Spraw Uchodźców zatwierdzonego rezolucją Zgromadzenia Ogólnego Organizacji Narodów Zjednoczonych 428(V) z dnia 14 grudnia 1950 r.;
+- **13)** wniosek o udzielenie ochrony międzynarodowej – wniosek o objęcie przez Rzeczpospolitą Polską ochroną cudzoziemca, który ubiega się o status uchodźcy lub ochronę uzupełniającą;
+- **14)** osoby w zagranicznej instytucjonalnej pieczy zastępczej:
+    - **a)** dzieci lub osoby pełnoletnie, które bezpośrednio przed przyjazdem do Rzeczypospolitej Polskiej były umieszczone na terytorium państw swojego pochodzenia w instytucjach zapewniających całodobowy pobyt, różnych typów, form własności i podporządkowania, i które przybyły do Rzeczypospolitej Polskiej w ramach zorganizowanej ewakuacji tych instytucji,
+    - **b)** osoby zatrudnione w instytucjach, o których mowa w lit. a, które przybyły do Rzeczypospolitej Polskiej w celu sprawowania opieki nad osobami wymienionymi w lit. a;
+
+- **15)** osoby w zagranicznej rodzinnej pieczy zastępczej:
+    - **a)** dzieci lub osoby pełnoletnie, które bezpośrednio przed przyjazdem do Rzeczypospolitej Polskiej były umieszczone na terytorium państw swojego pochodzenia w rodzinnej pieczy zastępczej i które przybyły do Rzeczypospolitej Polskiej z tymi opiekunami,
+    - **b)** opiekunowie sprawujący opiekę nad osobami wymienionymi w lit. a, którzy przybyli do Rzeczypospolitej Polskiej w celu sprawowania opieki nad małoletnimi w ramach rodzinnej pieczy zastępczej.
 
 **Art. 3.**
 
@@ -61,7 +91,65 @@ Art. 127–136. (pominięte)
 
 **Art. 8.** W postępowaniach i rejestrach prowadzonych na podstawie ustawy mogą być przetwarzane następujące dane cudzoziemca:
 
+- **1)** imię (imiona) i nazwisko;
+- **2)** nazwisko poprzednie;
+- **3)** nazwisko rodowe;
+- **4)** płeć;
+- **5)** imię ojca;
+- **6)** imię i nazwisko rodowe matki;
+- **7)** data urodzenia lub wiek;
+- **8)** miejsce i kraj urodzenia;
+- **9)** kraj pochodzenia;
+- **10)** odciski linii papilarnych;
+- **11)** rysopis:
+    - **a)** wzrost w centymetrach,
+    - **b)** kolor oczu,
+    - **c)** znaki szczególne;
+
+- **11a)** wizerunek twarzy;
+- **12)** obywatelstwo (obywatelstwa);
+- **13)** narodowość;
+- **14)** rasa lub pochodzenie etniczne;
+- **15)** przekonania polityczne, religijne, filozoficzne;
+- **16)** przynależność wyznaniowa, partyjna, związkowa;
+- **17)** przynależność do określonych grup społecznych;
+- **18)** stan zdrowia;
+- **18a)** informacje o życiu seksualnym;
+- **19)** stan cywilny;
+- **20)** wykształcenie;
+- **21)** zawód wykonywany;
+- **22)** miejsce pracy;
+- **23)** miejsce zamieszkania lub miejsce pobytu;
+- **24)** informacje o karalności, o prowadzonych przeciwko niemu postępowaniach karnych i postępowaniach w sprawach o wykroczenia oraz o wydanych w stosunku do niego orzeczeniach w postępowaniu sądowym lub administracyjnym;
+- **25)** stosunek do służby wojskowej;
+- **26)** informacje o podróżach i pobytach zagranicznych w okresie ostatnich 5 lat;
+- **27)** informacje o wynikach sprawdzenia cudzoziemca w jednostce centralnej, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 603/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia systemu Eurodac do porównywania odcisków palców w celu skutecznego stosowania rozporządzenia (UE) nr 604/2013 w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca oraz w sprawie występowania o porównanie z danymi Eurodac przez organy ścigania państw członkowskich i Europol na potrzeby ochrony porządku publicznego, oraz zmieniającym rozporządzenie (UE) nr 1077/2011 ustanawiające Europejską Agencję ds. Zarządzania Operacyjnego Wielkoskalowymi Systemami Informatycznymi w Przestrzeni Wolności, Bezpieczeństwa i Sprawiedliwości (Dz. Urz. UE L 180 z 29.06.2013, str. 1), zwanym dalej „rozporządzeniem 603/2013”, oraz o czynnościach podjętych na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona), zwanego dalej „rozporządzeniem 604/2013”;
+- **28)** adres w kraju pochodzenia;
+- **29)** adres w kraju poprzedniego zamieszkania;
+- **30)** dane dotyczące dokumentu podróży:
+    - **a)** seria i numer,
+    - **b)** data wydania i data upływu ważności,
+    - **c)** nazwa i kraj organu wydającego,
+    - **d)** liczba osób wpisanych do dokumentu podróży;
+
+- **31)** dane dotyczące dokumentu tożsamości lub innego dokumentu potwierdzającego tożsamość:
+    - **a)** seria i numer,
+    - **b)** data wydania i data upływu ważności,
+    - **c)** nazwa i kraj organu wydającego;
+
+- **32)** numer rachunku płatniczego;
+- **33)** numer telefonu;
+- **34)** adres poczty elektronicznej.
+
 **Art. 9.** Dane cudzoziemca, na podstawie których jest możliwe ustalenie, że:
+
+- **1)** jest w toku lub zakończyło się postępowanie w sprawie:
+    - **a)** udzielenia ochrony międzynarodowej albo pozbawienia statusu uchodźcy lub ochrony uzupełniającej,
+    - **b)** udzielenia albo pozbawienia azylu wobec cudzoziemca,
+
+- **2)** cudzoziemcowi nadano albo odmówiono nadania statusu uchodźcy,
+- **3)** cudzoziemcowi udzielono albo odmówiono udzielenia azylu,
+- **4)** cudzoziemcowi udzielono albo odmówiono udzielenia ochrony uzupełniającej – nie mogą być udostępniane ani pozyskiwane od podmiotów, wobec których istnieje uzasadnione domniemanie, że dopuszczają się prześladowań lub wyrządzają poważną krzywdę.
 
 **Art. 10.** W przypadku gdy w postępowaniu prowadzonym na podstawie ustawy bierze udział cudzoziemiec, który nie umie lub nie może pisać, podpis cudzoziemca na dokumencie zastępuje tuszowy odcisk jego palca; obok tego odcisku inna osoba wpisuje imię i nazwisko osoby nieumiejącej lub niemogącej pisać, umieszczając swój podpis, z zaznaczeniem że został on złożony na życzenie nieumiejącego lub niemogącego pisać.
 
@@ -86,7 +174,13 @@ Art. 127–136. (pominięte)
 
 **Art. 11b.** Zadania określone w:
 
+- **1)** art. 45a i art. 45b ust. 2–4 – dotyczące wpisów danych cudzoziemca w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1860 z dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2018/1860”,
+- **2)** art. 46 i art. 54c – dotyczące wpisów danych cudzoziemca w Systemie Informacyjnym Schengen do celów odmowy wjazdu i pobytu na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2018/1861” – Komendant Główny Policji realizuje przy udziale funkcjonariuszy Straży Granicznej pełniących służbę w biurze SIRENE, o którym mowa w art. 35 ust. 1 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2023 r. poz. 1355 oraz z 2024 r. poz. 1688).
+
 **Art. 11c.** W celu realizacji zadań określonych w ustawie i w zakresie niezbędnym do realizacji tych zadań Szef Urzędu do Spraw Cudzoziemców, zwany dalej „Szefem Urzędu”, może pozyskiwać z systemu teleinformatycznego Straży Granicznej, przy wykorzystaniu systemu teleinformatycznego, o którym mowa w art. 449 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, informacje przetwarzane na podstawie art. 1 ust. 2 pkt 9 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ) dotyczące przekraczania przez cudzoziemców granicy Rzeczypospolitej Polskiej, jeżeli są spełnione następujące warunki:
+
+- **1)** system teleinformatyczny, za pośrednictwem którego są pozyskiwane te informacje, umożliwia identyfikację i rejestrację osób uzyskujących dostęp do danych Straży Granicznej oraz rejestruje zakres udostępnionych danych i datę udostępnienia danych;
+- **2)** Szef Urzędu posiada i stosuje zabezpieczenia techniczne i organizacyjne zapewniające poufność, integralność, dostępność i autentyczność danych.
 
 **Art. 12.** (uchylony)
 
@@ -137,6 +231,10 @@ Art. 127–136. (pominięte)
 3. Uzasadniona obawa przed prześladowaniem w kraju pochodzenia może istnieć, chociażby cudzoziemiec nie posiadał cech powodujących prześladowanie z powodu rasy, religii, narodowości, przekonań politycznych lub przynależności do określonej grupy społecznej, jeżeli takie cechy są mu przypisywane przez podmioty dopuszczające się prześladowań.
 
 **Art. 15.** Cudzoziemcowi, który nie spełnia warunków do nadania statusu uchodźcy, udziela się ochrony uzupełniającej, w przypadku gdy powrót do kraju pochodzenia może narazić go na rzeczywiste ryzyko doznania poważnej krzywdy przez:
+
+- **1)** orzeczenie kary śmierci lub wykonanie egzekucji,
+- **2)** tortury, nieludzkie lub poniżające traktowanie albo karanie,
+- **3)** poważne i zindywidualizowane zagrożenie dla życia lub zdrowia wynikające z powszechnego stosowania przemocy wobec ludności cywilnej w sytuacji międzynarodowego lub wewnętrznego konfliktu zbrojnego – i ze względu na to ryzyko nie może lub nie chce korzystać z ochrony kraju pochodzenia.
 
 **Art. 16.**
 
@@ -237,6 +335,10 @@ Art. 127–136. (pominięte)
 #### Rozdział 2 Postępowanie w sprawach udzielania ochrony międzynarodowej oraz pozbawiania statusu uchodźcy lub ochrony uzupełniającej
 
 **Art. 23.** Szef Urzędu w drodze decyzji:
+
+- **1)** nadaje albo odmawia nadania statusu uchodźcy;
+- **2)** udziela ochrony uzupełniającej albo odmawia jej udzielenia;
+- **3)** pozbawia statusu uchodźcy albo ochrony uzupełniającej.
 
 **Art. 24.**
 
@@ -586,9 +688,23 @@ Art. 127–136. (pominięte)
 
 **Art. 41.** W toku postępowania w sprawie udzielenia ochrony międzynarodowej wnioskodawca jest obowiązany:
 
+- **1)** przedstawić informacje niezbędne do ustalenia stanu faktycznego sprawy, a w szczególności dotyczące jego wieku, przeszłych doświadczeń mających znaczenie dla sprawy, tożsamości, obywatelstwa, krewnych, kraju i miejsc poprzedniego pobytu, wcześniejszych wniosków o udzielenie ochrony międzynarodowej, trasy podróży oraz powodów złożenia wniosku o udzielenie ochrony międzynarodowej;
+- **2)** udostępnić posiadane dowody potwierdzające okoliczności wskazane w uzasadnieniu wniosku o udzielenie ochrony międzynarodowej;
+- **3)** stawiać się na wezwanie organu prowadzącego postępowanie w celu przesłuchania lub złożenia wyjaśnień.
+
 **Art. 42.** Jeżeli wnioskodawca nie posiada dowodów potwierdzających okoliczności wskazane w uzasadnieniu wniosku o udzielenie ochrony międzynarodowej, okoliczności te można uznać za udowodnione, w przypadku gdy są spełnione łącznie następujące warunki:
 
+- **1)** wnioskodawca przedstawił wiarygodne i spójne informacje niezbędne do ustalenia stanu faktycznego sprawy;
+- **2)** wnioskodawca przedstawił wszystkie posiadane informacje i dowody służące do ustalenia stanu faktycznego sprawy i szczegółowo wyjaśnił przyczyny braku innych informacji i dowodów;
+- **3)** wyjaśnienia wnioskodawcy są spójne, wiarygodne i nie są sprzeczne z zebranymi w sprawie dowodami i materiałami;
+- **4)** wnioskodawca wystąpił z wnioskiem o udzielenie ochrony międzynarodowej w najwcześniejszym możliwym terminie, chyba że może wskazać uzasadniony powód, dla którego tego nie zrobił.
+
 **Art. 43.** Organ prowadzący postępowanie w sprawie udzielenia ochrony międzynarodowej ustala w szczególności:
+
+- **1)** mające znaczenie dla sprawy okoliczności faktyczne odnoszące się do kraju pochodzenia wnioskodawcy, w tym także bierze pod uwagę przepisy ustawowe i wykonawcze obowiązujące w tym kraju oraz sposób ich stosowania;
+- **2)** czy ze względu na przeszłość, płeć lub wiek wnioskodawcy, akty, których doświadczył lub na które mógłby zostać narażony, stanowią prześladowanie lub narażają go na rzeczywiste ryzyko doznania poważnej krzywdy;
+- **3)** czy działalność wnioskodawcy od chwili opuszczenia kraju pochodzenia służyła wyłącznie lub głównie stworzeniu warunków koniecznych do ubiegania się o udzielenie ochrony międzynarodowej;
+- **4)** czy istnieją warunki, o których mowa w art. 16 ust. 2, umożliwiające wnioskodawcy skorzystanie z ochrony innego państwa, którego obywatelstwo posiada.
 
 **Art. 44.**
 
@@ -633,6 +749,10 @@ Art. 127–136. (pominięte)
 
 **Art. 45a.** Jeżeli dane cudzoziemca zostały umieszczone w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, organ prowadzący postępowanie w sprawie udzielenia mu ochrony międzynarodowej, za pośrednictwem Komendanta Głównego Policji:
 
+- **1)** zwraca się do właściwego organu państwa obszaru Schengen, które umieściło dane, o przeprowadzenie konsultacji, o których mowa w art. 9 ust. 1 rozporządzenia nr 2018/1860, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **2)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o decyzji wydanej w sprawie udzielenia cudzoziemcowi ochrony międzynarodowej, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **3)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o zamiarze nadania cudzoziemcowi statusu uchodźcy lub udzielenia ochrony uzupełniającej lub o nadaniu cudzoziemcowi statusu uchodźcy lub o udzieleniu ochrony uzupełniającej, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu innego państwa obszaru Schengen, której nie towarzyszy zakaz ponownego wjazdu.
+
 **Art. 45b.**
 
 1. Jeżeli właściwy organ innego państwa obszaru Schengen występuje o przeprowadzenie konsultacji, o których mowa w art. 10 lub art. 11 rozporządzenia nr 2018/1860, a cudzoziemiec posiada status uchodźcy lub ochronę uzupełniającą, Szef Urzędu ustala, czy zachodzą przesłanki pozbawienia cudzoziemca tego statusu lub tej ochrony.
@@ -644,6 +764,9 @@ Art. 127–136. (pominięte)
 4. Komendant Główny Policji przekazuje właściwemu organowi innego państwa obszaru Schengen otrzymaną od Szefa Urzędu informację, o której mowa w ust. 2, w terminie 14 dni od dnia wystąpienia o przeprowadzenie konsultacji, o których mowa w art. 10 lub art. 11 rozporządzenia nr 2018/1860, a w przypadku przedłużenia tego terminu – w terminie przedłużonym.
 
 **Art. 46.** Jeżeli dane cudzoziemca znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu i pobytu, organ prowadzący postępowanie w sprawie udzielenia ochrony międzynarodowej:
+
+- **1)** rozpatrując wniosek o udzielenie ochrony międzynarodowej, przeprowadza, za pośrednictwem Komendanta Głównego Policji, z właściwym organem państwa obszaru Schengen, które dokonało wpisu do Systemu Informacyjnego Schengen, konsultacje, o których mowa w art. 27 rozporządzenia nr 2018/1861, i bierze pod uwagę powody leżące u podstaw decyzji państwa obszaru Schengen, które dokonało wpisu do Systemu Informacyjnego Schengen, oraz uwzględnia zagrożenia, o których mowa w art. 27 lit. d rozporządzenia nr 2018/1861, jakie może powodować obecność danego cudzoziemca na terytorium państw obszaru Schengen;
+- **2)** informuje właściwy organ innego państwa obszaru Schengen o decyzji wydanej w sprawie udzielenia cudzoziemcowi ochrony międzynarodowej lub o zamiarze nadania cudzoziemcowi statusu uchodźcy lub udzielenia mu ochrony uzupełniającej.
 
 **Art. 47.**
 
@@ -944,6 +1067,10 @@ Art. 127–136. (pominięte)
 
 **Art. 66.** Czynności w postępowaniu w sprawie udzielenia ochrony międzynarodowej z udziałem małoletniego bez opieki może dokonywać osoba, która spełnia co najmniej jeden z następujących warunków:
 
+- **1)** ukończyła studia wyższe magisterskie na kierunku prawo i posiada 2-letni staż pracy w instytucjach, których zakres działania obejmuje opiekę nad dziećmi;
+- **2)** ukończyła studia wyższe magisterskie lub wyższe zawodowe i posiada 2-letni staż pracy w administracji publicznej oraz odbyła przeszkolenie w zakresie prowadzenia postępowań w sprawie udzielenia ochrony międzynarodowej z udziałem małoletnich;
+- **3)** ukończyła studia wyższe magisterskie na kierunkach: pedagogika, psychologia lub socjologia oraz posiada 2-letni staż pracy w administracji publicznej.
+
 **Art. 67.**
 
 1. Małoletniego bez opieki, któremu odmówiono nadania statusu uchodźcy i udzielenia ochrony uzupełniającej, pozostawia się w pieczy zastępczej do czasu przekazania go organom lub organizacjom kraju pochodzenia, do których zadań statutowych należą sprawy małoletnich.
@@ -1004,6 +1131,11 @@ Art. 127–136. (pominięte)
 
 **Art. 69b.** Przy udzielaniu małoletniemu pomocy socjalnej uwzględnia się konieczność zabezpieczenia jego interesów, biorąc pod uwagę w szczególności:
 
+- **1)** możliwość połączenia rodziny;
+- **2)** dobro małoletniego i jego rozwój społeczny;
+- **3)** względy bezpieczeństwa i ochrony, w szczególności w przypadku gdy istnieje ryzyko, że małoletni jest ofiarą handlu ludźmi;
+- **4)** opinię małoletniego odpowiednio do jego wieku i dojrzałości.
+
 #### Rozdział 4a Nieodpłatna informacja prawna i nieodpłatna pomoc prawna
 
 **Art. 69c.**
@@ -1041,6 +1173,19 @@ Art. 127–136. (pominięte)
 10. Oświadczenia, o których mowa w ust. 4–6, przechowuje się w warunkach uniemożliwiających dostęp osób trzecich.
 
 **Art. 69e.** Nieodpłatna pomoc prawna obejmuje:
+
+- **1)** sporządzenie odwołania od decyzji o:
+    - **a)** odmowie nadania statusu uchodźcy lub udzielenia ochrony uzupełniającej,
+    - **b)** umorzeniu postępowania w sprawie udzielenia ochrony międzynarodowej,
+    - **c)** przekazaniu wnioskodawcy do państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej i umorzeniu postępowania,
+    - **d)** uznaniu wniosku o udzielenie ochrony międzynarodowej za niedopuszczalny,
+    - **e)** odmowie uwzględnienia oświadczenia wnioskodawcy o zamiarze dalszego ubiegania się o udzielenie ochrony międzynarodowej,
+    - **f)** pozbawieniu statusu uchodźcy lub ochrony uzupełniającej;
+
+- **2)** zastępstwo prawne w postępowaniu odwoławczym w sprawie:
+    - **a)** udzielenia ochrony międzynarodowej,
+    - **b)** przekazania wnioskodawcy do państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej,
+    - **c)** pozbawienia statusu uchodźcy lub ochrony uzupełniającej.
 
 **Art. 69f.**
 
@@ -1354,6 +1499,15 @@ Art. 127–136. (pominięte)
 
 **Art. 82a.** Cudzoziemiec przyjęty do ośrodka ma prawo do:
 
+- **1)** podtrzymywania zwyczajów, tradycji narodowych i kulturowych oraz wykonywania praktyk religijnych;
+- **2)** swobodnego poruszania się po terenie ośrodka, z wyłączeniem miejsc objętych zakazem wstępu;
+- **3)** dostępu do informacji o podmiotach udzielających nieodpłatnej pomocy prawnej w sprawach o udzielenie ochrony międzynarodowej;
+- **4)** dostępu do informacji o organizacjach pozarządowych lub międzynarodowych, do których zadań statutowych należą sprawy uchodźców;
+- **5)** dostępu do informacji o procedurach przeciwdziałania oraz reagowania na przypadki przemocy, w tym na tle seksualnym lub ze względu na płeć;
+- **6)** przyjmowania odwiedzin w przeznaczonych do tego pomieszczeniach;
+- **7)** składania do Szefa Urzędu, w języku ojczystym, skarg i wniosków w sprawach funkcjonowania ośrodka i warunków pobytu w nim;
+- **8)** kontaktów ze swoim pełnomocnikiem w warunkach nienaruszających prawa do prywatności.
+
 **Art. 82b.**
 
 1. Uprawnienie cudzoziemca do pobytu na terenie ośrodka potwierdza identyfikator.
@@ -1448,6 +1602,9 @@ Art. 127–136. (pominięte)
 **Art. 86c.** Cudzoziemiec zakwalifikowany do przesiedlenia lub relokacji przed przyjazdem na terytorium Rzeczypospolitej Polskiej może złożyć wniosek o udzielenie ochrony międzynarodowej do Szefa Urzędu za pośrednictwem funkcjonariusza Straży Granicznej delegowanego do wykonania zadania poza granicami państwa, który został upoważniony do przyjęcia takiego wniosku przez komendanta oddziału Straży Granicznej obejmującego terytorialnym zasięgiem działania m.st. Warszawę.
 
 **Art. 86d.** Funkcjonariusz Straży Granicznej, o którym mowa w art. 86c:
+
+- **1)** wykonuje czynności, o których mowa w art. 30 ust. 1 pkt 1–3 i 5–10, oraz niezwłocznie przekazuje Szefowi Urzędu wniosek o udzielenie ochrony międzynarodowej w celu jego rozpatrzenia;
+- **2)** wydaje zaświadczenie tożsamości ważne przez okres 90 dni od dnia wjazdu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 86e.** Przesłuchanie cudzoziemca, o którym mowa w art. 86c, w celu wyjaśnienia faktów istotnych dla rozstrzygnięcia sprawy, może odbyć się w miejscu jego pobytu przed przyjazdem na terytorium Rzeczypospolitej Polskiej.
 
@@ -1597,6 +1754,10 @@ Art. 127–136. (pominięte)
 
 **Art. 89e.** Cudzoziemcowi, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej, udziela się pomocy w celu wspierania procesu jego integracji ze społeczeństwem, w trybie i na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej. Art. 89ea. W przypadku gdy status uchodźcy nadano małoletniemu bez opieki lub udzielono mu ochrony uzupełniającej, Szef Urzędu, uwzględniając zakaz określony w art. 9, podejmuje działania mające na celu odnalezienie krewnych tego małoletniego, a w szczególności:
 
+- **1)** informuje małoletniego o możliwości poszukiwania jego krewnych za pośrednictwem międzynarodowych organizacji pozarządowych;
+- **2)** udziela małoletniemu pomocy w nawiązaniu kontaktu z międzynarodowymi organizacjami pozarządowymi;
+- **3)** udziela małoletniemu pomocy w zainicjowaniu poszukiwań jego krewnych.
+
 **Art. 89f.** Cudzoziemcowi, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej, przysługują uprawnienia cudzoziemca, któremu udzielono zezwolenia na zamieszkanie na czas oznaczony, o ile przepisy ustawy lub innych ustaw nie stanowią inaczej.
 
 **Art. 89g.**
@@ -1676,6 +1837,10 @@ Art. 127–136. (pominięte)
 
 **Art. 89o.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** wzór dokumentu podróży przewidzianego w Konwencji Genewskiej, uwzględniając postanowienia załącznika do Konwencji Genewskiej oraz obowiązek zamieszczania danych biometrycznych;
+- **2)** wzór formularza wniosku o wymianę lub wydanie nowego dokumentu podróży przewidzianego w Konwencji Genewskiej, uwzględniając dane, o których mowa w art. 8, dotyczące cudzoziemca i małoletnich dzieci towarzyszących cudzoziemcowi, w zakresie niezbędnym do wymiany lub wydania nowego dokumentu podróży przewidzianego w Konwencji Genewskiej;
+- **3)** sposób pobierania danych biometrycznych i zamieszczania ich w dokumentach podróży przewidzianych w Konwencji Genewskiej, który umożliwi potwierdzenie tożsamości cudzoziemca.
+
 #### Rozdział 8 Rada do Spraw Uchodźców
 
 **Art. 89p.**
@@ -1736,6 +1901,17 @@ Art. 127–136. (pominięte)
 3. Pierwsze posiedzenie plenarne Rady nowej kadencji zwołuje dotychczasowy przewodniczący w terminie 30 dni od dnia powołania członków Rady nowej kadencji.
 
 **Art. 89w.** Przewodniczący kieruje pracami Rady, w szczególności:
+
+- **1)** ustala plan pracy Rady;
+- **2)** zwołuje posiedzenia plenarne Rady;
+- **3)** wyznacza składy orzekające;
+- **4)** przydziela składom orzekającym sprawy do rozpatrzenia oraz czuwa nad terminowością ich załatwienia;
+- **5)** reprezentuje Radę przed innymi organami i instytucjami;
+- **6)** reprezentuje Radę w postępowaniu przed sądem administracyjnym lub wyznacza w tym celu innego członka Rady;
+- **7)** powołuje biegłych lub ekspertów do udziału w postępowaniu toczącym się przed Radą;
+- **8)** wyznacza członkom Rady zadania związane z działalnością Rady;
+- **9)** może powoływać zespoły tematyczne lub grupy robocze do opracowania zagadnień oraz dokonania analiz problemów wynikających z działalności Rady;
+- **10)** wykonuje inne zadania wynikające z przepisów prawa.
 
 **Art. 89z.**
 
@@ -1863,6 +2039,20 @@ Art. 127–136. (pominięte)
 7. O decyzji, o której mowa w ust. 1, Szef Urzędu niezwłocznie informuje Komendanta Głównego Straży Granicznej.
 
 **Art. 109a.** Przepisów art. 106 nie stosuje się do cudzoziemca, który:
+
+- **1)** posiada:
+    - **a)** zezwolenie na pobyt stały,
+    - **b)** zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej,
+    - **c)** zezwolenie na pobyt czasowy,
+    - **d)** status uchodźcy,
+    - **e)** ochronę uzupełniającą,
+    - **f)** zgodę na pobyt tolerowany,
+    - **g)** zgodę na pobyt ze względów humanitarnych;
+
+- **2)** złożył w Rzeczypospolitej Polskiej wniosek o udzielenie ochrony międzynarodowej lub w imieniu którego taki wniosek został złożony;
+- **3)** uzyskał ochronę czasową na terenie innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej przyznaną na podstawie decyzji Rady Unii Europejskiej, o której mowa w art. 106 ust. 1;
+- **4)** posiada obywatelstwo państwa członkowskiego Unii Europejskiej;
+- **5)** wjechał na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.
 
 **Art. 109b.**
 
@@ -2423,6 +2613,11 @@ Art. 127–136. (pominięte)
 2. Rejestr, o którym mowa w ust. 1 pkt 1, w zakresie dotyczącym cudzoziemców ubiegających się o udzielenie ochrony międzynarodowej, którym udzielono pomocy, może być prowadzony także w systemie kartotecznym.
 
 **Art. 120.** Rejestry, o których mowa w art. 119:
+
+- **1)** w pkt 1, prowadzi komendant oddziału Straży Granicznej, komendant placówki Straży Granicznej, Szef Urzędu i Rada, każdy w zakresie swojego działania;
+- **2)** w pkt 3 i 7, prowadzi Szef Urzędu;
+- **3)** (uchylony)
+- **4)** w pkt 6, prowadzi Komendant Główny Policji, komendant oddziału Straży Granicznej i komendant placówki Straży Granicznej, każdy w zakresie swojego działania.
 
 **Art. 121.**
 

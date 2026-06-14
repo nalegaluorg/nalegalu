@@ -8,7 +8,7 @@ pos: 1038
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o samorządzie pielęgniarek i położnych
@@ -45,6 +45,22 @@ source: "isap-pdf"
 - **2)** okręgowe izby pielęgniarek i położnych, zwane dalej „okręgowymi izbami”.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** izbie – należy przez to rozumieć okręgową izbę oraz Naczelną Izbę;
+- **2)** radzie – należy przez to rozumieć okręgową radę pielęgniarek i położnych oraz Naczelną Radę Pielęgniarek i Położnych;
+- **3)** okręgowym zjeździe, okręgowej radzie, okręgowym sądzie i okręgowym rzeczniku – należy przez to rozumieć odpowiednio: okręgowy zjazd pielęgniarek i położnych, okręgową radę pielęgniarek i położnych, okręgowy sąd pielęgniarek i położnych oraz okręgowego rzecznika odpowiedzialności zawodowej;
+- **4)** Krajowym Zjeździe, Naczelnej Radzie, Naczelnym Sądzie i Naczelnym Rzeczniku – należy przez to rozumieć odpowiednio: Krajowy Zjazd Pielęgniarek i Położnych, Naczelną Radę Pielęgniarek i Położnych, Naczelny Sąd Pielęgniarek i Położnych oraz Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **5)** rzeczniku odpowiedzialności zawodowej – należy przez to rozumieć okręgowego rzecznika odpowiedzialności zawodowej i Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **6)** sądzie pielęgniarek i położnych – należy przez to rozumieć okręgowy sąd pielęgniarek i położnych oraz Naczelny Sąd Pielęgniarek i Położnych;
+- **7)** zawodzie – należy przez to rozumieć zawód pielęgniarki lub położnej;
+- **8)** państwie członkowskim Unii Europejskiej – należy przez to rozumieć również państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym oraz Konfederację Szwajcarską;
+- **9)** obywatelach państw członkowskich Unii Europejskiej – należy przez to rozumieć obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej, a także:
+    - **a)** członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164),
+    - **b)** obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079),
+    - **c)** cudzoziemców posiadających zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 127, art. 137a lub art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **d)** cudzoziemców, którym w Rzeczypospolitej Polskiej nadano status uchodźcy lub udzielono ochrony uzupełniającej;
+
+- **10)** podmiocie leczniczym – należy przez to rozumieć podmiot leczniczy, o którym mowa w art. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211).
 
 #### Rozdział 2 Zadania i zasady działania samorządu
 
@@ -297,6 +313,19 @@ source: "isap-pdf"
 
 **Art. 20.** Krajowy Zjazd, w drodze uchwały, w szczególności:
 
+- **1)** określa zasady etyki zawodowej;
+- **2)** zajmuje stanowisko w sprawie kierunków rozwoju pielęgniarstwa i położnictwa;
+- **3)** przyjmuje program działania samorządu;
+- **4)** określa regulaminy organów Naczelnej Izby i ramowe regulaminy organów okręgowych izb;
+- **5)** ustala regulamin wyborów do organów izb oraz tryb odwoływania ich członków;
+- **6)** ustala liczbę członków organów Naczelnej Izby i liczbę zastępców Naczelnego Rzecznika;
+- **7)** wybiera Prezesa i pozostałych członków Naczelnej Rady, Przewodniczącego i pozostałych członków Naczelnej Komisji Rewizyjnej i Naczelnego Sądu oraz Naczelnego Rzecznika i jego zastępców;
+- **8)** uchwala zasady gospodarki finansowej Naczelnej Izby;
+- **9)** uchwala szczegółowy sposób przeprowadzania wizytacji, w tym sposób wyboru osób wykonujących czynności wizytacyjne;
+- **10)** rozpatruje i zatwierdza sprawozdania organów Naczelnej Izby;
+- **11)** określa wysokość i częstotliwość wpłat składki członkowskiej oraz zasady jej podziału;
+- **12)** udziela absolutorium Naczelnej Radzie.
+
 **Art. 21.**
 
 1. W skład Naczelnej Rady wchodzą:
@@ -338,7 +367,21 @@ source: "isap-pdf"
 
 **Art. 24.** Naczelna Komisja Rewizyjna:
 
+- **1)** kontroluje działalność finansową i gospodarczą Naczelnej Rady;
+- **2)** przedstawia Krajowemu Zjazdowi sprawozdanie wraz z wnioskiem w sprawie absolutorium dla Naczelnej Rady;
+- **3)** przedstawia Naczelnej Radzie corocznie informacje o wynikach przeprowadzonych kontroli;
+- **4)** sprawuje nadzór nad działalnością okręgowych komisji rewizyjnych.
+
 **Art. 25.** Naczelny Sąd:
+
+- **1)** rozpoznaje sprawy z zakresu odpowiedzialności zawodowej;
+- **2)** rozpatruje zażalenia w przypadkach przewidzianych w ustawie;
+- **3)** dokonuje wyboru zastępców Przewodniczącego Naczelnego Sądu spośród członków tego Sądu;
+- **4)** składa Naczelnej Radzie okresowe informacje o stanie spraw z zakresu odpowiedzialności zawodowej;
+- **5)** składa Krajowemu Zjazdowi sprawozdanie kadencyjne;
+- **6)** rozpoznaje odwołania od orzeczeń okręgowych sądów;
+- **7)** orzeka o wznowieniu postępowania w przedmiocie odpowiedzialności zawodowej;
+- **8)** przeprowadza szkolenia dla składów okręgowych sądów.
 
 **Art. 26.**
 
@@ -386,7 +429,24 @@ source: "isap-pdf"
 
 **Art. 30.** Okręgowy zjazd, w drodze uchwały, w szczególności:
 
+- **1)** ustala zasady gospodarki finansowej izby oraz uchwala roczny budżet;
+- **2)** rozpatruje i zatwierdza roczne i kadencyjne sprawozdania z działalności okręgowej rady, okręgowej komisji rewizyjnej, okręgowego sądu i okręgowego rzecznika;
+- **3)** ustala liczbę członków oraz szczegółową organizację, zasady i tryb działania organów izby;
+- **4)** wybiera przewodniczącego i pozostałych członków okręgowej rady, okręgowej komisji rewizyjnej i okręgowego sądu oraz okręgowego rzecznika i jego zastępców;
+- **5)** wybiera delegatów na Krajowy Zjazd;
+- **6)** odwołuje członków organów izby przed upływem kadencji;
+- **7)** udziela absolutorium ustępującej okręgowej radzie;
+- **8)** podejmuje uchwały w sprawach istotnych dla zawodów pielęgniarki i położnej oraz w innych sprawach objętych zakresem działania okręgowej izby.
+
 **Art. 31.** Okręgowa rada kieruje działalnością okręgowej izby i wykonuje zadania samorządu na obszarze działania izby, w szczególności:
+
+- **1)** wykonuje uchwały okręgowego zjazdu;
+- **2)** stwierdza oraz przyznaje prawo wykonywania zawodu;
+- **3)** prowadzi rejestr pielęgniarek i rejestr położnych;
+- **4)** powołuje komisje i zespoły problemowe i kieruje ich pracą;
+- **5)** prowadzi bieżące sprawy izby i wykonuje zadania zlecone przez Naczelną Radę;
+- **6)** składa roczne i kadencyjne sprawozdania z działalności oraz z wykonania budżetu przed okręgowym zjazdem;
+- **7)** współpracuje z terenowymi organami administracji rządowej oraz z jednostkami samorządu terytorialnego.
 
 **Art. 31a.** W okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, okręgowa rada, po podjęciu uchwały o braku możliwości przeprowadzenia okręgowego zjazdu w związku z ogłoszeniem takiego stanu, realizuje zadania, o których mowa w art. 30 pkt 1, w danym roku.
 
@@ -400,7 +460,16 @@ source: "isap-pdf"
 
 **Art. 33.** Okręgowa komisja rewizyjna:
 
+- **1)** kontroluje działalność finansową i gospodarczą okręgowej rady;
+- **2)** składa sprawozdania okręgowemu zjazdowi i Naczelnej Komisji Rewizyjnej;
+- **3)** występuje z wnioskiem w sprawie udzielenia absolutorium okręgowej radzie.
+
 **Art. 34.** Okręgowy sąd:
+
+- **1)** rozpatruje sprawy z zakresu odpowiedzialności zawodowej wniesione przez okręgowego rzecznika;
+- **2)** dokonuje wyboru zastępców przewodniczącego okręgowego sądu spośród członków tego sądu;
+- **3)** składa okręgowej radzie okresowe informacje o stanie prowadzonych spraw;
+- **4)** składa okręgowemu zjazdowi roczne i kadencyjne sprawozdania.
 
 **Art. 35.**
 
@@ -768,6 +837,11 @@ source: "isap-pdf"
 
 **Art. 74.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu pielęgniarek i położnych wznawia się, jeżeli:
 
+- **1)** w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem temu sądowi, wskazujące na to, że:
+    - **a)** osoba obwiniona nie popełniła czynu albo jej czyn nie stanowił przewinienia zawodowego lub nie podlegał karze,
+    - **b)** sąd ten umorzył postępowanie, błędnie przyjmując popełnienie przez osobę obwinioną zarzucanego jej czynu.
+
 **Art. 75.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu pielęgniarek i położnych można wznowić w przypadku uchylenia lub istotnej zmiany treści prawomocnego orzeczenia, z powodu którego zostało ono umorzone w trybie art. 59 ust. 1.
 
 **Art. 76.** Czyn, o którym mowa w art. 74 pkt 1, musi być ustalony prawomocnym wyrokiem skazującym, chyba że orzeczenie takie nie może zapaść z przyczyn wymienionych w art. 17 § 1 pkt 3–11 lub w art. 22 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
@@ -861,7 +935,13 @@ source: "isap-pdf"
 
 **Art. 87.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb prowadzenia rejestru ukaranych pielęgniarek i położnych,
+- **2)** sposób i tryb wykonania prawomocnych orzeczeń sądów pielęgniarek i położnych – kierując się potrzebą respektowania praw uczestników postępowania oraz specyfiką i złożonością postępowań w przedmiocie odpowiedzialności zawodowej.
+
 **Art. 88.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
+
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
 
 #### Rozdział 7 Majątek i gospodarka finansowa
 

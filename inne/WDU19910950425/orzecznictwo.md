@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 7 września 1991 r. o systemie oświaty.*
 
 Łącznie: **407** orzeczeń
-(pominięto 446 orzeczeń sądów rejonowych)
+(pominięto 447 orzeczeń sądów rejonowych)
 
 ## art. 1 (8)
 

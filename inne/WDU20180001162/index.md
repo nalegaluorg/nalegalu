@@ -8,7 +8,7 @@ pos: 1162
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wspieraniu nowych inwestycji
@@ -34,6 +34,19 @@ Art. 35–38. (pominięte)
 **Art. 1.** Ustawa określa zasady udzielania przedsiębiorcom wsparcia na realizację nowych inwestycji, organ właściwy w sprawach wspierania nowych inwestycji oraz jego kompetencje i tryb działania, a także zadania zarządzających obszarami odpowiedzialnych za wspieranie nowych inwestycji.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** nowa inwestycja:
+    - **a)** inwestycję w rzeczowe aktywa trwałe lub wartości niematerialne i prawne związane z założeniem nowego zakładu, zwiększeniem zdolności produkcyjnej istniejącego zakładu, dywersyfikacją produkcji zakładu przez wprowadzenie produktów uprzednio nieprodukowanych w zakładzie lub zasadniczą zmianą dotyczącą procesu produkcyjnego istniejącego zakładu lub
+    - **b)** nabycie aktywów należących do zakładu, który został zamknięty lub zostałby zamknięty, gdyby zakup nie nastąpił, przy czym aktywa nabywane są przez przedsiębiorcę niezwiązanego ze sprzedawcą i wyklucza się samo nabycie akcji lub udziałów przedsiębiorstwa;
+
+- **2)** obszar – tereny określone w przepisach wydanych na podstawie art. 5 ust. 3, na których zarządzający obszarem wykonuje zadania określone ustawą;
+- **3)** przedsiębiorca – przedsiębiorcę w rozumieniu art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222);
+- **4)** zarządzający obszarem – zarządzającego specjalną strefą ekonomiczną ustanowioną na podstawie przepisów ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604);
+- **5)** kryteria jakościowe – warunki zgodności ze średniookresową strategią rozwoju kraju, o której mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198), szczegółowo określone w przepisach wydanych na podstawie art. 14 ust. 3 pkt 3;
+- **6)** kryteria ilościowe – minimalne koszty inwestycji uzależnione od poziomu bezrobocia w powiecie, w którym ma być realizowana nowa inwestycja, szczegółowo określone w przepisach wydanych na podstawie art. 14 ust. 3 pkt 2; w przypadku gdy inwestycja jest położona w więcej niż jednym powiecie, poziom bezrobocia ustala się na podstawie tego powiatu, w którym znajdzie się większa część terenu, na którym zostanie zlokalizowana nowa inwestycja;
+- **7)** koszty kwalifikowane nowej inwestycji – poniesione w okresie ważności decyzji o wsparciu:
+    - **a)** koszty inwestycji kwalifikujące się do objęcia pomocą publiczną z tytułu nowej inwestycji, z wyłączeniem kosztów poniesionych na samochody osobowe, środki transportu lotniczego, tabor pływający oraz inne składniki majątku służące głównie celom osobistym przedsiębiorcy, a w przypadku przedsiębiorcy będącego spółką handlową – głównie celom osobistym jej wspólnika albo akcjonariusza, pomniejszone o naliczony podatek od towarów i usług oraz o podatek akcyzowy, jeżeli możliwość ich odliczeń wynika z odrębnych przepisów, lub
+    - **b)** dwuletnie koszty pracy poniesione przez przedsiębiorcę na tworzenie określonej liczby nowych miejsc pracy, przez określony czas, w związku z realizacją nowej inwestycji, jakie mogą być uwzględnione przy określaniu maksymalnej pomocy publicznej.
 
 **Art. 3.**
 

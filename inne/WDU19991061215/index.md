@@ -8,10 +8,10 @@ pos: 1215
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sygn. akt K. 4/99 Trybunał Konstytucyjny w składzie: Biruta Lewaszkiewicz-Petrykowska – przewodnicząca, Lech Garlicki – sprawozdawca, Stefan J.Jaworski, Wiesław Johann, Andrzej Mączyński – sprawozdawca, po rozpoznaniu w dniu 2o grudnia 1999 r. na rozprawie sprawy z wniosku grupy posłów na Sejm z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o stwierdzenie niezgodności przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118) z Konstytucją Rzeczypospolitej Polskiej, a mianowicie:
+# sygn. akt K. 4/99 Trybunał Konstytucyjny w składzie: Biruta Lewaszkiewicz-Petrykowska – przewodnicząca, Lech Garlicki – sprawozdawca, Stefan J.Jaworski, Wiesław Johann, Andrzej Mączyński – sprawozdawca, po rozpoznaniu w dniu 2o grudnia 1999 r. na rozprawie sprawy z wniosku grupy posłów na Sejm z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o stwierdzenie niezgodności przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118) z Konstytucją Rzeczypospolitej Polskiej, a mianowicie:
 
 | Pole | Wartość |
 |---|---|

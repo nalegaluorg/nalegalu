@@ -8,10 +8,12 @@ pos: 619
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# z dnia 25 lutego 2021 r.
+# o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw
+
+*USTAWA z dnia 25 lutego 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,38 +27,162 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/619/text.pdf) |
 
-zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378 oraz z 2021 r. poz. 4) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 1378 oraz z 2021 r. poz. 4) wprowadza się następujące zmiany:
+- **1)** po art. 26a dodaje się art. 26b w brzmieniu: „Art. 26b. 1. Minister właściwy do spraw oświaty i wychowania prowadzi monitoring karier absolwentów publicznych i niepublicznych szkół ponadpodstawowych, zwany dalej „monitoringiem karier absolwentów”.
 
-**Art. 2.** W ustawie z dnia 13 października 1998 r. systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423 432) art. 50 dodaje się 24 brzmieniu: „24. Zakład przekazuje ministrowi właściwemu do spraw oświaty wychowania dane, których art. 26b 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 1378 oraz z 2021 r. poz. 4 619), celu prowadzenia monitoringu karier absolwentów, art. 26b 1 tej ustawy.”.
+2. Monitoring karier absolwentów jest prowadzony w celu zapewnienia informacji na temat przebiegu karier absolwentów szkół ponadpodstawowych na potrzeby prowadzenia polityki oświatowej państwa na poziomie krajowym, regionalnym i lokalnym, w tym dostosowywania kierunków i treści kształcenia do wymogów rynku pracy oraz przygotowywania uczniów do wyboru zawodu i kierunku kształcenia.
 
-**Art. 3.** W ustawie z dnia 15 kwietnia 2011 r. systemie informacji oświatowej (Dz. U. z 2021 r. poz. 584) wprowadza się następujące zmiany:
+3. Monitoring karier absolwentów jest prowadzony na podstawie:
+
+- **1)** danych gromadzonych w systemie informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2021 r. poz. 584);
+- **2)** danych gromadzonych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on, o którym mowa w art. 342 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478);
+- **3)** danych gromadzonych przez okręgowe komisje egzaminacyjne;
+- **4)** danych gromadzonych przez Zakład Ubezpieczeń Społecznych na kontach ubezpieczonych lub kontach płatników składek.
+
+4. Monitoring karier absolwentów nie obejmuje absolwentów szkół ponadpodstawowych przy zakładach karnych i aresztach śledczych, o których mowa w art. 8 ust. 12.
+
+5. Grupę absolwentów szkół ponadpodstawowych objętych w danym roku monitoringiem karier absolwentów określa się na podstawie danych, o których mowa w ust. 3 pkt 1, według stanu na dzień 15 marca każdego roku szkolnego.
+
+6. Monitoring karier absolwentów obejmuje dane dotyczące absolwentów, o których mowa w ust. 5, którzy ukończyli szkołę ponadpodstawową:
+
+- **1)** w roku szkolnym bezpośrednio poprzedzającym rok szkolny, o którym mowa w ust. 5, oraz
+- **2)** w roku szkolnym poprzedzającym o dwa lata rok szkolny, o którym mowa w ust. 5, oraz
+- **3)** w roku szkolnym poprzedzającym o pięć lat rok szkolny, o którym mowa w ust. 5.
+
+7. Dane, o których mowa w ust. 3 pkt 1, obejmują:
+
+- **1)** numer PESEL absolwenta, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz – jeżeli absolwent nie jest obywatelem polskim – kraj pochodzenia;
+- **2)** rok urodzenia i płeć absolwenta;
+- **3)** numer szkoły ponadpodstawowej w Rejestrze Szkół i Placówek Oświatowych, o którym mowa w art. 7 ust. 1 pkt 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, którą absolwent ukończył;
+- **4)** rok szkolny, w którym absolwent ukończył szkołę ponadpodstawową, o której mowa w pkt 3;
+- **5)** zawód, w którym kształcił się absolwent – w przypadku absolwenta szkoły prowadzącej kształcenie zawodowe;
+- **6)** informację o uczestniczeniu w okresie do końca roku szkolnego, o którym mowa w pkt 4, w kwalifikacyjnym kursie zawodowym z określeniem kwalifikacji oraz datę rozpoczęcia i datę zakończenia tego kursu;
+- **7)** informację o uczestniczeniu w okresie do końca roku szkolnego, o którym mowa w pkt 4, w kursie umiejętności zawodowych oraz datę rozpoczęcia i datę zakończenia tego kursu;
+- **8)** numer szkoły ponadpodstawowej w Rejestrze Szkół i Placówek Oświatowych, o którym mowa w art. 7 ust. 1 pkt 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, do której absolwent uczęszczał albo uczęszcza, po ukończeniu szkoły ponadpodstawowej, o której mowa w pkt 3, oraz datę rozpoczęcia i datę zakończenia nauki w tej szkole;
+- **9)** zawód, w którym absolwent rozpoczął kształcenie – w przypadku absolwenta, który po ukończeniu szkoły ponadpodstawowej, o której mowa w pkt 3, rozpoczął naukę w szkole prowadzącej kształcenie zawodowe;
+- **10)** informację o uzyskaniu tytułu czeladnika przez absolwenta po zdaniu egzaminu czeladniczego zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159);
+- **11)** informację o uczestniczeniu przez absolwenta, po ukończeniu szkoły ponadpodstawowej, o której mowa w pkt 3, w kwalifikacyjnym kursie zawodowym z określeniem kwalifikacji oraz datę rozpoczęcia i datę zakończenia tego kursu;
+- **12)** informację o uczestniczeniu przez absolwenta, po ukończeniu szkoły ponadpodstawowej, o której mowa w pkt 3, w kursie umiejętności zawodowych oraz datę rozpoczęcia i datę zakończenia tego kursu.
+
+8. Dane, o których mowa w ust. 7 pkt 8–12, obejmują okres od dnia 1 września roku szkolnego następującego po roku szkolnym, o którym mowa w ust. 7 pkt 4, do dnia 30 kwietnia roku szkolnego, o którym mowa w ust. 5.
+
+9. Minister właściwy do spraw oświaty i wychowania przekazuje, w postaci elektronicznej, dane, o których mowa w ust. 7 pkt 1 i 4:
+
+- **1)** okręgowym komisjom egzaminacyjnym – w terminie do dnia 1 kwietnia każdego roku;
+- **2)** ministrowi właściwemu do spraw szkolnictwa wyższego i nauki oraz Zakładowi Ubezpieczeń Społecznych – w terminie do dnia 1 maja każdego roku.
+
+10. Okręgowe komisje egzaminacyjne przekazują ministrowi właściwemu do spraw oświaty i wychowania, w postaci elektronicznej, w terminie do dnia 1 czerwca roku, w którym jest prowadzony monitoring karier absolwentów, dane, o których mowa w ust. 7 pkt 1 i 4, uzupełnione o:
+
+- **1)** informację o kwalifikacji oraz dacie uzyskania certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie określonym w klasyfikacji zawodów szkolnictwa branżowego;
+- **2)** informację o zawodzie oraz dacie uzyskania dyplomu zawodowego w zakresie zawodu określonego w klasyfikacji zawodów szkolnictwa branżowego;
+- **3)** informację o złożeniu deklaracji przystąpienia do egzaminu maturalnego w danym roku oraz:
+    - **a)** w przypadku niezdania egzaminu maturalnego w danym roku, nieprzystąpienia do egzaminu maturalnego w danym roku albo złożenia oświadczenia o zamiarze przystąpienia do egzaminu maturalnego w terminie poprawkowym w danym roku – informację o tym, że egzamin ten nie został zdany,
+    - **b)** w przypadku zdania egzaminu maturalnego w danym roku – informację o dacie uzyskania świadectwa dojrzałości.
+
+11. Uzupełnione dane, o których mowa w ust. 10, są przekazywane według stanu na dzień 31 sierpnia roku szkolnego, o którym mowa w ust. 7 pkt 4, oraz za okres od dnia 1 września roku szkolnego następującego po roku szkolnym, o którym mowa w ust. 7 pkt 4, do dnia 31 marca roku, w którym jest prowadzony monitoring karier absolwentów. Dane te nie podlegają anonimizacji przed ich przekazaniem ministrowi właściwemu do spraw oświaty i wychowania.
+
+12. Okręgowe komisje egzaminacyjne przechowują dane, o których mowa w ust. 7 pkt 1 i 4, do dnia przekazania ministrowi właściwemu do spraw oświaty i wychowania uzupełnionych danych, o których mowa w ust. 10.
+
+13. Minister właściwy do spraw szkolnictwa wyższego i nauki przekazuje ministrowi właściwemu do spraw oświaty i wychowania, w postaci elektronicznej, w terminie do dnia 1 lipca roku, w którym jest prowadzony monitoring karier absolwentów, dane, o których mowa w ust. 7 pkt 1 i 4, uzupełnione o:
+
+- **1)** datę rozpoczęcia studiów;
+- **2)** nazwę kierunku studiów;
+- **3)** poziom studiów;
+- **4)** profil studiów;
+- **5)** datę ukończenia studiów i nazwę uzyskanego tytułu zawodowego albo datę skreślenia z listy studentów;
+- **6)** przyporządkowanie kierunku studiów do dyscypliny naukowej lub artystycznej, ze wskazaniem dyscypliny wiodącej w przypadku przyporządkowania kierunku studiów do więcej niż jednej dyscypliny.
+
+14. Uzupełnione dane, o których mowa w ust. 13, są przekazywane za okres od dnia 1 października roku kalendarzowego, w którym zakończył się rok szkolny, o którym mowa w ust. 7 pkt 4, do dnia 31 grudnia roku kalendarzowego poprzedzającego rok, w którym jest prowadzony monitoring karier absolwentów. Dane te nie podlegają anonimizacji przed ich przekazaniem ministrowi właściwemu do spraw oświaty i wychowania.
+
+15. Minister właściwy do spraw szkolnictwa wyższego i nauki przechowuje dane, o których mowa w ust. 7 pkt 1 i 4, do dnia przekazania ministrowi właściwemu do spraw oświaty i wychowania uzupełnionych danych, o których mowa w ust. 13.
+
+16. Zakład Ubezpieczeń Społecznych przekazuje ministrowi właściwemu do spraw oświaty i wychowania, w postaci elektronicznej, w terminie do dnia 1 lipca roku, w którym jest prowadzony monitoring karier absolwentów, dane, o których mowa w ust. 7 pkt 1 i 4, uzupełnione o:
+
+- **1)** rok i miesiąc zgonu absolwenta;
+- **2)** kod tytułu ubezpieczenia;
+- **3)** kod świadczenia albo przerwy w opłacaniu składek wraz z datą dzienną początku lub końca świadczenia albo przerwy w opłacaniu składek;
+- **4)** pierwsze cztery cyfry oraz siódmą cyfrę krajowego rejestru urzędowego podziału terytorialnego kraju w postaci umożliwiającej identyfikację województwa (dwie pierwsze cyfry), powiatu (trzecia i czwarta cyfra) oraz rodzaju gminy (siódma cyfra) na podstawie adresu zameldowania lub zamieszkania, lub adresu do korespondencji osoby ubezpieczonej w całym okresie objętym monitoringiem karier absolwentów;
+- **5)** kod Polskiej Klasyfikacji Działalności płatnika składek;
+- **6)** kod płatnika składek wygenerowany przez Zakład Ubezpieczeń Społecznych, niepozwalający na identyfikację płatnika;
+- **7)** rok i miesiąc wyrejestrowania płatnika składek;
+- **8)** podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe osoby ubezpieczonej lub podstawę wymiaru składek na ubezpieczenie wypadkowe osoby ubezpieczonej, lub podstawę wymiaru składek na ubezpieczenie zdrowotne osoby ubezpieczonej, lub podstawę wymiaru składek na ubezpieczenie chorobowe osoby ubezpieczonej;
+- **9)** informację o przekroczeniu 30-krotności prognozowanego przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej na dany rok kalendarzowy.
+
+17. Uzupełnione dane, o których mowa w ust. 16, są przekazywane za okres od dnia 1 stycznia roku szkolnego, o którym mowa w ust. 7 pkt 4, do dnia 10 maja roku, w którym jest prowadzony monitoring karier absolwentów. Dane te są przekazywane w podziale na miesiące. Dane te nie podlegają anonimizacji przed ich przekazaniem ministrowi właściwemu do spraw oświaty i wychowania.
+
+18. Zakład Ubezpieczeń Społecznych przechowuje dane, o których mowa w ust. 7 pkt 1 i 4, do dnia przekazania ministrowi właściwemu do spraw oświaty i wychowania uzupełnionych danych, o których mowa w ust. 16.
+
+19. Minister właściwy do spraw oświaty i wychowania dokonuje połączenia danych, o których mowa w ust. 7, 10, 13 i 16, w terminie do dnia 30 września roku, w którym jest prowadzony monitoring karier absolwentów.
+
+20. Po połączeniu danych, o którym mowa w ust. 19, minister właściwy do spraw oświaty i wychowania niezwłocznie usuwa z tych danych numer PESEL absolwenta, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz – jeżeli absolwent nie jest obywatelem polskim – kraj pochodzenia.
+
+21. Po usunięciu danych zgodnie z ust. 20 monitoring karier absolwentów odbywa się wyłącznie na podstawie danych zanonimizowanych.
+
+22. Minister właściwy do spraw oświaty i wychowania w terminie do dnia 1 października roku, w którym jest prowadzony monitoring karier absolwentów, przekazuje, w postaci elektronicznej, Instytutowi Badań Edukacyjnych w Warszawie dane zanonimizowane, o których mowa w ust. 21, w celu opracowania wyników monitoringu karier absolwentów.
+
+23. Minister właściwy do spraw oświaty i wychowania przechowuje dane zanonimizowane, o których mowa w ust. 21, przez okres 5 lat od dnia, w którym nastąpiła ich anonimizacja.
+
+24. Instytut Badań Edukacyjnych w Warszawie przekazuje wyniki monitoringu karier absolwentów ministrowi właściwemu do spraw oświaty i wychowania w terminie do dnia 30 listopada roku, w którym jest prowadzony monitoring karier absolwentów.
+
+25. Instytut Badań Edukacyjnych w Warszawie przechowuje dane, o których mowa w ust. 22, nie dłużej niż do dnia przekazania wyników monitoringu karier absolwentów ministrowi właściwemu do spraw oświaty i wychowania.
+
+26. Minister właściwy do spraw oświaty i wychowania udostępnia wyniki monitoringu karier absolwentów w postaci zagregowanej w Biuletynie Informacji Publicznej na swojej stronie podmiotowej. Nie udostępnia się zagregowanych wyników monitoringu karier absolwentów obejmujących mniej niż 10 osób.
+
+27. Minister właściwy do spraw oświaty i wychowania może powierzyć jednostce organizacyjnej podległej temu ministrowi prowadzenie monitoringu karier absolwentów.”;
+
+- **2)** w art. 37 w ust. 4 wyrazy „zgodnie z art. 44l” zastępuje się wyrazami „odpowiednio zgodnie z art. 44l lub art. 44wa”;
+- **3)** w art. 115 w ust. 3 wyrazy „zgodnie z przepisami art. 44l” zastępuje się wyrazami „odpowiednio zgodnie z art. 44l lub art. 44wa”;
+- **4)** w art. 164 w ust. 3 i 4 wyrazy „zgodnie z art. 44l” zastępuje się wyrazami „odpowiednio zgodnie z art. 44l lub art. 44wa”.
+
+**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423 i 432) w art. 50 dodaje się ust. 24 w brzmieniu: „24. Zakład przekazuje ministrowi właściwemu do spraw oświaty i wychowania dane, o których mowa w art. 26b ust. 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378 oraz z 2021 r. poz. 4 i 619), w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.”.
+
+**Art. 3.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2021 r. poz. 584) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) prowadzenia monitoringu karier absolwentów publicznych i niepublicznych szkół ponadpodstawowych.”;
+- **2)** w art. 8 w pkt 1:
+    - **a)** lit. e otrzymuje brzmienie: „e) liczby osób niebędących uczniami danej szkoły lub placówki oświatowej lub szkoły wchodzącej w skład zespołu korzystających z internatu, w tym liczby osób posiadających orzeczenie o potrzebie kształcenia specjalnego,”,
+    - **b)** lit. g otrzymuje brzmienie: „g) kosztów wynagrodzeń pracowników niebędących nauczycielami, wraz z pochodnymi pracownika, bez pochodnych pracodawcy, zatrudnionych w szkołach i placówkach oświatowych,”;
+
+- **3)** w art. 33 w pkt 1 lit. b otrzymuje brzmienie: „b) publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego oraz przez osoby fizyczne, dla których te jednostki samorządu terytorialnego są organem właściwym do wydania zezwolenia na założenie publicznej szkoły lub placówki oświatowej, oraz zespołów tych szkół i placówek oświatowych,”;
+- **4)** po art. 60a dodaje się art. 60b w brzmieniu: „Art. 60b. Dane absolwenta, o których mowa w art. 26b ust. 7 ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO przez ministra właściwego do spraw oświaty i wychowania w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.”;
+- **5)** w art. 93:
+    - **a)** w ust. 3 wyrazy „5 lat” zastępuje się wyrazami „6 lat”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Dane nauczyciela zgromadzone w zbiorze danych nauczyciela w bazie danych SIO zostają zanonimizowane po upływie 10 lat od dnia wprowadzenia do tego zbioru ostatniej informacji, z wyjątkiem danych, o których mowa w art. 29 ust. 1 pkt 1 lit. j oraz ust. 3 pkt 1 lit. g i pkt 2 lit. f, które zostają zanonimizowane po upływie 5 lat od dnia wprowadzenia do tego zbioru ostatniej informacji.”.
+
+**Art. 4.** W ustawie z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2020 r. poz. 2029 i 2400) w art. 2 w pkt 16 lit. a otrzymuje brzmienie: „a) jednostkę samorządu terytorialnego właściwą do wydania zezwolenia, o którym mowa w art. 88 ust. 4 pkt 1 lub art. 90 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,”.
+
+**Art. 5.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478) w art. 342 dodaje się ust. 5 w brzmieniu: „5. Dane zawarte w Systemie POL-on w zakresie, o którym mowa w art. 26b ust. 13 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, są przekazywane przez ministra ministrowi właściwemu do spraw oświaty i wychowania w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.”.
 
 **Art. 6.**
 
-1. W latach 2021–2029 minister właściwy do spraw oświaty wychowania celu, art. 26b 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, ramach monitoringu karier absolwentów, art. 26b 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, prowadzi monitoring karier absolwentów publicznych niepublicznych szkół ponadgimnazjalnych, którzy ukończyli szkołę ponadgimnazjalną latach szkolnych 2018/2019–2023/2024.
+1. W latach 2021–2029 minister właściwy do spraw oświaty i wychowania w celu, o którym mowa w art. 26b ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w ramach monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, prowadzi monitoring karier absolwentów publicznych i niepublicznych szkół ponadgimnazjalnych, którzy ukończyli szkołę ponadgimnazjalną w latach szkolnych 2018/2019–2023/2024.
 
-2. Do monitoringu karier absolwentów publicznych niepublicznych szkół ponadgimnazjalnych, 1, stosuje się odpowiednio przepisy art. 26b 3–27 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, z uwzględnieniem 3–6.
+2. Do monitoringu karier absolwentów publicznych i niepublicznych szkół ponadgimnazjalnych, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 26b ust. 3–27 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem ust. 3–6.
 
-3. Monitoring karier absolwentów publicznych niepublicznych szkół ponadgimnazjalnych, 1, obejmuje dane, których art. 26b 7, 10, 13 16 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, odniesieniu do absolwentów publicznych niepublicznych szkół ponadgimnazjalnych, oraz informacje, których 4 5.
+3. Monitoring karier absolwentów publicznych i niepublicznych szkół ponadgimnazjalnych, o którym mowa w ust. 1, obejmuje dane, o których mowa w art. 26b ust. 7, 10, 13 i 16 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w odniesieniu do absolwentów publicznych i niepublicznych szkół ponadgimnazjalnych, oraz informacje, o których mowa w ust. 4 i 5.
 
-4. W latach 2021–2025 okręgowe komisje egzaminacyjne przekazują ministrowi właściwemu do spraw oświaty wychowania:
+4. W latach 2021–2025 okręgowe komisje egzaminacyjne przekazują ministrowi właściwemu do spraw oświaty i wychowania:
 
-- **1)** wraz z danymi, których art. 26b 10 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą – informację kwalifikacji oraz dacie uzyskania świadectwa potwierdzającego kwalifikację zawodzie określonym klasyfikacji zawodów szkolnictwa zawodowego, określonej przepisach wydanych na podstawie art. 24 1 ustawy z dnia 7 września 1991 r. systemie oświaty (Dz. U. z 2020 r. poz. 1327 oraz z 2021 r. poz. 4), brzmieniu obowiązującym przed dniem 1 września 2017 r.;
-- **2)** wraz z danymi, których art. 26b 10 pkt 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą – informację zawodzie oraz dacie uzyskania dyplomu potwierdzającego kwalifikacje zawodowe zakresie zawodu określonego klasyfikacji zawodów szkolnictwa zawodowego, której pkt 1.
+- **1)** wraz z danymi, o których mowa w art. 26b ust. 10 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – informację o kwalifikacji oraz dacie uzyskania świadectwa potwierdzającego kwalifikację w zawodzie określonym w klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 24 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2020 r. poz. 1327 oraz z 2021 r. poz. 4), w brzmieniu obowiązującym przed dniem 1 września 2017 r.;
+- **2)** wraz z danymi, o których mowa w art. 26b ust. 10 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – informację o zawodzie oraz dacie uzyskania dyplomu potwierdzającego kwalifikacje zawodowe w zakresie zawodu określonego w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w pkt 1.
 
-5. W latach 2021–2028 okręgowe komisje egzaminacyjne przekazują ministrowi właściwemu do spraw oświaty wychowania:
+5. W latach 2021–2028 okręgowe komisje egzaminacyjne przekazują ministrowi właściwemu do spraw oświaty i wychowania:
 
-- **1)** wraz z danymi, których art. 26b 10 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą – informację kwalifikacji oraz dacie uzyskania świadectwa potwierdzającego kwalifikację zawodzie określonym klasyfikacji zawodów szkolnictwa zawodowego, określonej przepisach wydanych na podstawie art. 46 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 1378 oraz z 2021 r. poz. 4), brzmieniu obowiązującym przed dniem 1 września 2019 r.;
-- **2)** wraz z danymi, których art. 26b 10 pkt 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą – informację zawodzie oraz dacie uzyskania dyplomu potwierdzającego kwalifikacje zawodowe zakresie zawodu określonego klasyfikacji zawodów szkolnictwa zawodowego, której pkt 1.
+- **1)** wraz z danymi, o których mowa w art. 26b ust. 10 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – informację o kwalifikacji oraz dacie uzyskania świadectwa potwierdzającego kwalifikację w zawodzie określonym w klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378 oraz z 2021 r. poz. 4), w brzmieniu obowiązującym przed dniem 1 września 2019 r.;
+- **2)** wraz z danymi, o których mowa w art. 26b ust. 10 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – informację o zawodzie oraz dacie uzyskania dyplomu potwierdzającego kwalifikacje zawodowe w zakresie zawodu określonego w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w pkt 1.
 
-6. Informacje, których 4 5, są przekazywane według stanu za okres, których art. 26b 11 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+6. Informacje, o których mowa w ust. 4 i 5, są przekazywane według stanu i za okres, o których mowa w art. 26b ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 7.**
 
-1. W 2021 r. minister właściwy do spraw oświaty wychowania przekazuje, postaci elektronicznej, dane, których art. 26b 7 pkt 1 4 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, okręgowym komisjom egzaminacyjnym, ministrowi właściwemu do spraw szkolnictwa wyższego nauki oraz Zakładowi Ubezpieczeń Społecznych terminie do dnia 26 kwietnia.
+1. W 2021 r. minister właściwy do spraw oświaty i wychowania przekazuje, w postaci elektronicznej, dane, o których mowa w art. 26b ust. 7 pkt 1 i 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, okręgowym komisjom egzaminacyjnym, ministrowi właściwemu do spraw szkolnictwa wyższego i nauki oraz Zakładowi Ubezpieczeń Społecznych w terminie do dnia 26 kwietnia.
 
-2. W 2021 r. okręgowe komisje egzaminacyjne przekazują, postaci elektronicznej, uzupełnione dane, których
+2. W 2021 r. okręgowe komisje egzaminacyjne przekazują, w postaci elektronicznej, uzupełnione dane, o których mowa w art. 26b ust. 10 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, ministrowi właściwemu do spraw oświaty i wychowania w terminie do dnia 1 lipca.
+
+**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 3 pkt 2, który wchodzi w życie z dniem 1 września 2021 r.;
+- **2)** art. 1 pkt 2–4, art. 3 pkt 3 i pkt 5 lit. b oraz art. 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
 
 

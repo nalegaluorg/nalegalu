@@ -8,10 +8,10 @@ pos: 1960
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 października 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1960 ROZPORZĄDZENIE MINISTRA FINANSÓW, INWESTYCJI I ROZWOJU z dnia 3 października 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1960/text.pdf) |
 
-Poz. 1960 ROZPORZĄDZENIE MINISTRA FINANSÓW, INWESTYCJI I ROZWOJU z dnia 3 października 2019 r.
-w sprawie poziomu istotności przeterminowanego zobowiązania kredytowego Na podstawie art. 128 ust. 6a pkt 2b ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa poziom istotności przeterminowanego zobowiązania kredytowego, o którym mowa w art. 178 ust. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r.
+w sprawie poziomu istotności przeterminowanego zobowiązania kredytowego Na podstawie art. 128 ust. 6a pkt 2b ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa poziom istotności przeterminowanego zobowiązania kredytowego, o którym mowa w art. 178 ust. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r.
 w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 575/2013”.
 § 2. Przeterminowane zobowiązanie kredytowe uznaje się za istotne, w przypadku gdy są łącznie spełnione następujące warunki:
 1) kwota stanowiąca sumę wszystkich kwot przeterminowanych zobowiązań kredytowych dłużnika wobec banku lub jego jednostki dominującej lub zależnej przekroczy:
@@ -40,7 +40,6 @@ Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018
 Zmiany przedmiotowego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz.
 UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz.
 UE L 150 z 07.06.2019, str. 1 oraz Dz. Urz. UE L 183 z 09.07.2019, str. 14.
-Dziennik Ustaw – 2 – Poz. 1960
 2) kwota przeterminowanych zobowiązań kredytowych dłużnika w stosunku do łącznej kwoty wszystkich ekspozycji bilansowych banku lub jego jednostki dominującej lub zależnej wobec tego dłużnika, z wyłączeniem ekspozycji kapitałowych, przekroczy 1%.
 § 3. W przypadku banku stosującego definicję niewykonania zobowiązania określoną w art. 178 ust. 1 akapit pierwszy lit. a i b rozporządzenia 575/2013 dla ekspozycji detalicznych na poziomie poszczególnych instrumentów kredytowych, wartości określone w § 2 mają zastosowanie na poziomie tych instrumentów kredytowych udzielonych dłużnikowi przez bank lub jego jednostkę dominującą lub zależną.
 § 4. Banki dostosują prowadzoną działalność do przepisów niniejszego rozporządzenia do dnia 31 grudnia 2020 r.

@@ -8,10 +8,10 @@ pos: 651
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 kwietnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 651 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 5 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000651) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/651/text.pdf) |
 
-Poz. 651 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 5 kwietnia 2019 r.
-zmieniające rozporządzenie w sprawie umundurowania policjantów Na podstawie art. 12 ust. 1 pkt 2–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r. poz. 161 i 125) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. poz. 738, z późn. zm. ) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie umundurowania policjantów Na podstawie art. 12 ust. 1 pkt 2–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r. poz. 161 i 125) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. poz. 738, z późn. zm. ) wprowadza się następujące zmiany:
 1) w § 4 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Beret w kolorze granatowym, z wizerunkiem orła w kolorze srebrnym, z napisem „POLICJA”, haftowany mechanicznie, na czarnym tle, noszą policjanci Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, samodzielnych pododdziałów kontrterrorystycznych Policji i komórek organizacyjnych właściwych do spraw minersko-pirotechnicznych:”;
 2) w § 11a wyrazy „kombinezon antyterrorysty” zastępuje się wyrazami „kombinezon kontrterrorysty”;
 3) w § 26:
-a) w ust. 1 pkt 3 otrzymuje brzmienie: „3) berecie noszonym przez policjanta Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, samodzielnego pododdziału kontrterrorystycznego Policji i komórki organizacyjnej właściwej do spraw minersko -pirotechnicznych.”,
+a) w ust. 1 pkt 3 otrzymuje brzmienie: „3) berecie noszonym przez policjanta Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, samodzielnego pododdziału kontrterrorystycznego Policji i komórki organizacyjnej właściwej do spraw minersko- pirotechnicznych.”,
 b) w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Policjanci Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, samodzielnych pododdziałów kontrterrorystycznych Policji i komórek organizacyjnych właściwych do spraw minersko -pirotechnicznych noszą dystynkcje na beretach w następujący sposób:”;
 4) w § 28:
 a) w ust. 2 wyrazy „w szyku zwartym” zastępuje się wyrazami „w pododdziale zwartym”,
@@ -77,5 +77,7 @@ b) koszulce polo z krótkim rękawem do dnia 31 grudnia 2023 r.;
 2) lit. b, nosi się, z wyjątkiem gdy policjanci występują w pododdziale zwartym − po prawej stronie na wysokości odpowiadającej położeniu lewej górnej kieszeni.
 § 3. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie od dnia 5 kwietnia 2019 r.
 § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. P. Szefernaker
+Minister Spraw Wewnętrznych i Administracji: wz. P. Szefernaker Załącznik do rozporządzenia i Administracji z dnia 5 kwietnia 2019 r. (poz. …) I. I. WZORY WZORY ZNAKÓW ZNAKÓW IDENTYFIKACYJNYCH IDENTYFIKACYJNYCH POLICJANTA POLICJANTA Znak identyfikacji indywidualnej policjanta Znak identyfikacji imiennej w postaci metalowej tabliczki Znak identyfikacji imiennej w postaci taśmy sczepnej II. II. WZORY WZORY ZNAKÓW ZNAKÓW RODZAJÓW RODZAJÓW SŁUŻB SŁUŻB POLICJI, POLICJI, ZNAKÓW ZNAKÓW GENERALNEGO GENERALNEGO INSPEKTORA INSPEKTORA I NADINSPEKTORA I NADINSPEKTORA POLICJI POLICJI ORAZ ORAZ ZNAKU ZNAKU „POLICJA” „POLICJA” Do kurtki wyjściowej Służba kryminalna Służba śledcza Służba spraw wewnętrznych Służba prewencyjna Służba prewencyjna (z wyłączeniem komórek (komórki organizacyjne Oddziały prewencji organizacyjnych ruchu drogowego) ruchu drogowego) a ) b ) Policja sądowa Służba kontrterrorystyczna Służba wspomagająca,
+a) na prawą stronę kołnierza, Wyższa Szkoła Policji w Szczytnie,
+b) na lewą stronę kołnierza szkoły policyjne i ośrodki szkolenia Policji Do kurtki galowej, kurtki służbowej letniej i kurtki służbowej zimowej z podpinką i ocieplaczem z polaru Służba kryminalna Służba śledcza Służba spraw wewnętrznych Służba prewencyjna (z wyłączeniem komórek organizacyjnych ruchu drogowego) Służba prewencyjna Oddziały prewencji (komórki organizacyjne ruchu drogowego) Policja sądowa Służba kontrterrorystyczna Służba wspomagająca, Wyższa Szkoła Policji w Szczytnie, szkoły policyjne i ośrodki szkolenia Policji Znak do elementów ubioru służbowego i munduru ćwiczebnego Znak generalnego inspektora i nadinspektora Policji Znak do kurtki galowej i płaszcza wyjściowego całorocznego
 

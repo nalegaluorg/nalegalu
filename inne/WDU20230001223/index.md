@@ -8,12 +8,10 @@ pos: 1223
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -41,11 +39,11 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 
 1. Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwany dalej „Prezesem Urzędu”, jest centralnym organem administracji rządowej właściwym w sprawach związanych z:
 
-- **1)** dopuszczaniem do obrotu produktów leczniczych, z wyłączeniem produktów leczniczych dopuszczanych do obrotu bez konieczności uzyskania pozwolenia w zakresie określonym ustawą z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650);
-- **1a)** dopuszczaniem do obrotu weterynaryjnych produktów leczniczych w zakresie określonym rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2019/6 z dnia 11 grudnia 2018 r. w sprawie weterynaryjnych produktów leczniczych i uchylającym dyrektywę 2001/82/WE (Dz. Urz. UE L 4 z 07.01.2019, str. 43, z późn. zm. ), zwanym dalej „rozporządzeniem 2019/6”;
-- **2)** udostępnianiem na rynku i stosowaniem produktów biobójczych w zakresie określonym ustawą z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. z 2021 r. poz. 24);
+- **1)** dopuszczaniem do obrotu produktów leczniczych, z wyłączeniem produktów leczniczych dopuszczanych do obrotu bez konieczności uzyskania pozwolenia – w zakresie określonym ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650);
+- **1a)** dopuszczaniem do obrotu weterynaryjnych produktów leczniczych – w zakresie określonym rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2019/6 z dnia 11 grudnia 2018 r. w sprawie weterynaryjnych produktów leczniczych i uchylającym dyrektywę 2001/82/WE (Dz. Urz. UE L 4 z 07.01.2019, str. 43, z późn. zm. ), zwanym dalej „rozporządzeniem 2019/6”;
+- **2)** udostępnianiem na rynku i stosowaniem produktów biobójczych – w zakresie określonym ustawą z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. z 2021 r. poz. 24);
 - **3)** (uchylony)
-- **4)** badaniami klinicznymi, w tym badaniami klinicznymi weterynaryjnymi w zakresie określonym ustawą z dnia 6 września 2001 r. Prawo farmaceutyczne, przepisami o wyrobach medycznych oraz rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, z późn. zm. );
+- **4)** badaniami klinicznymi, w tym badaniami klinicznymi weterynaryjnymi – w zakresie określonym ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne, przepisami o wyrobach medycznych oraz rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, z późn. zm. );
 - **5)** wyrobami medycznymi, wyposażeniem wyrobów medycznych, systemami i zestawami zabiegowymi, produktami niemającymi przewidzianego zastosowania medycznego, w tym ich badaniami klinicznymi, bezpieczeństwem i wprowadzaniem do obrotu i do używania oraz nadzorem nad nimi w zakresie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”;
 - **6)** wyrobami medycznymi do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, w tym ich badaniami działania, bezpieczeństwem i wprowadzaniem do obrotu i do używania oraz nadzorem nad nimi, w zakresie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”;
 - **7)** notyfikacją, zgodnie z art. 42 ust. 2, 5 i 8 rozporządzenia 2017/745 oraz zgodnie z art. 38 ust. 2, 5 i 8 rozporządzenia 2017/746.
@@ -133,11 +131,11 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
     - **c)** prowadzenie Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej oraz wydawanie decyzji o odmowie udostępnienia tego rejestru,
     - **d)** wydawanie, w drodze decyzji, pozwoleń na prowadzenie badania klinicznego albo badania klinicznego weterynaryjnego,
     - **e)** prowadzenie Centralnej Ewidencji Badań Klinicznych,
-    - **f)** prowadzenie inspekcji badań klinicznych w zakresie zgodności tych badań z wymaganiami rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE, a w przypadku badań klinicznych produktów leczniczych weterynaryjnych lub badanych produktów leczniczych weterynaryjnych z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej,
+    - **f)** prowadzenie inspekcji badań klinicznych w zakresie zgodności tych badań z wymaganiami rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE, a w przypadku badań klinicznych produktów leczniczych weterynaryjnych lub badanych produktów leczniczych weterynaryjnych – z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej,
     - **g)** zbieranie i ocena raportów okresowych o bezpieczeństwie stosowania produktów leczniczych oraz zbieranie informacji o działaniach niepożądanych produktu leczniczego, badanego produktu leczniczego, produktu leczniczego weterynaryjnego i badanego produktu leczniczego weterynaryjnego,
     - **h)** nadzór nad bezpieczeństwem stosowania produktów leczniczych i produktów leczniczych weterynaryjnych oraz monitorowanie bezpieczeństwa ich stosowania,
     - **i)** prowadzenie kontroli systemu monitorowania bezpieczeństwa stosowania produktów leczniczych,
-    - **j)** ogłaszanie w Dzienniku Urzędowym ministra właściwego do spraw zdrowia, co najmniej raz w roku, Urzędowego Wykazu Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej z oddzielnym wykazem produktów leczniczych weterynaryjnych; wykaz zawiera nazwę produktu leczniczego, jego postać, niezbędne informacje o składzie jakościowym, kategorię dostępności, wielkość opakowania, numer pozwolenia, numer GTIN zgodny z systemem GS1, nazwę podmiotu odpowiedzialnego za wprowadzenie produktu leczniczego do obrotu oraz nazwę i kraj wytwórcy, a w przypadku produktu leczniczego weterynaryjnego także gatunki zwierząt, dla których jest przeznaczony,
+    - **j)** ogłaszanie w Dzienniku Urzędowym ministra właściwego do spraw zdrowia, co najmniej raz w roku, Urzędowego Wykazu Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej z oddzielnym wykazem produktów leczniczych weterynaryjnych; wykaz zawiera nazwę produktu leczniczego, jego postać, niezbędne informacje o składzie jakościowym, kategorię dostępności, wielkość opakowania, numer pozwolenia, numer GTIN zgodny z systemem GS1, nazwę podmiotu odpowiedzialnego za wprowadzenie produktu leczniczego do obrotu oraz nazwę i kraj wytwórcy, a w przypadku produktu leczniczego weterynaryjnego – także gatunki zwierząt, dla których jest przeznaczony,
     - **k)** zamieszczanie raz w miesiącu w Biuletynie Informacji Publicznej wykazu produktów leczniczych, które uzyskały pozwolenie na dopuszczenie do obrotu wydane przez Prezesa Urzędu; wykaz zawiera dane, o których mowa w lit. j,
     - **l)** prowadzenie rejestru wytwórców substancji czynnych, które mają zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe,
     - **m)** umożliwianie zgłaszania informacji o działaniach niepożądanych produktów leczniczych oraz gromadzenie i przetwarzanie tych spośród powziętych w ten sposób informacji, które przy zachowaniu należytej staranności można uznać za wiarygodne pod względem medycznym,
@@ -181,11 +179,11 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 - **4)** wydawanie opinii w przedmiocie niespełniania przez środek spożywczy wymagań produktu leczniczego, o której mowa w art. 31 ust. 2 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2022 r. poz. 2132 oraz z 2023 r. poz. 588);
 - **5)** opracowywanie i wydawanie Farmakopei Polskiej oraz ogłaszanie, w formie komunikatu w Biuletynie Informacji Publicznej, daty od której obowiązują wymagania w niej określone;
 - **6)** współpraca z organami administracji publicznej i instytutami badawczymi;
-- **7)** współpraca z właściwymi instytucjami Unii Europejskiej, Europejską Agencją Leków (EMA), Europejską Agencją Chemikaliów (ECHA), Europejskim Dyrektoriatem do spraw Jakości Leków (EDQM), właściwymi organami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym.
+- **7)** współpraca z właściwymi instytucjami Unii Europejskiej, Europejską Agencją Leków (EMA), Europejską Agencją Chemikaliów (ECHA), Europejskim Dyrektoriatem do spraw Jakości Leków (EDQM), właściwymi organami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
 
 2. Prezes Urzędu jest obowiązany przedstawiać niezwłocznie, na każde żądanie ministra właściwego do spraw zdrowia, pisemne informacje związane z wykonywaniem jego zadań oraz z działalnością Urzędu.
 
-3. W ramach realizacji zadań, o których mowa w ust. 1 pkt 7, w zakresie kontroli, o której mowa w ust. 1 pkt 1 lit. i, Prezes Urzędu dokonuje regularnego audytu systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, o którym mowa w art. 2 pkt 40c ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, i przekazuje jego wyniki Komisji Europejskiej w formie raportu co dwa lata.
+3. W ramach realizacji zadań, o których mowa w ust. 1 pkt 7, w zakresie kontroli, o której mowa w ust. 1 pkt 1 lit. i, Prezes Urzędu dokonuje regularnego audytu systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, o którym mowa w art. 2 pkt 40c ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, i przekazuje jego wyniki Komisji Europejskiej w formie raportu co dwa lata.
 
 **Art. 4a.**
 
@@ -195,9 +193,9 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 
 - **1)** dotyczy ona stosowania przepisów prawa powszechnie obowiązującego regulującego kwestie dopuszczania do obrotu produktów leczniczych,
 - **2)** dotyczy ona kwestii uregulowanych w wytycznych wydanych przez Komisję Europejską, Europejską Agencję Leków, Światową Organizację Zdrowia lub Międzynarodową konferencję ds. harmonizacji wymagań technicznych dla rejestracji produktów leczniczych stosowanych u ludzi (ICH),
-- **3)** podmiot odpowiedzialny wystąpił w zakresie objętym wnioskiem o wydanie porady naukowej, o której mowa w art. 57 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229, z późn. zm. ), do Europejskiej Agencji Leków lub z wnioskiem o udzielenie porady naukowej do innego właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym albo uzyskał tę poradę,
-- **4)** dotyczy ona postępowania toczącego się przed Prezesem Urzędu, Europejską Agencją Leków lub innym właściwym organem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym,
-- **5)** przedstawiciel Rzeczypospolitej Polskiej pełni rolę sprawozdawcy w procesie dopuszczenia do obrotu produktu leczniczego w trwającej procedurze scentralizowanej, o której mowa w przepisach rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków o czym informuje pisemnie podmiot zainteresowany otrzymaniem porady naukowej, zwany dalej „wnioskodawcą”.
+- **3)** podmiot odpowiedzialny wystąpił w zakresie objętym wnioskiem o wydanie porady naukowej, o której mowa w art. 57 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229, z późn. zm. ), do Europejskiej Agencji Leków lub z wnioskiem o udzielenie porady naukowej do innego właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo uzyskał tę poradę,
+- **4)** dotyczy ona postępowania toczącego się przed Prezesem Urzędu, Europejską Agencją Leków lub innym właściwym organem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym,
+- **5)** przedstawiciel Rzeczypospolitej Polskiej pełni rolę sprawozdawcy w procesie dopuszczenia do obrotu produktu leczniczego w trwającej procedurze scentralizowanej, o której mowa w przepisach rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków – o czym informuje pisemnie podmiot zainteresowany otrzymaniem porady naukowej, zwany dalej „wnioskodawcą”.
 
 3. Wnioskodawca składa wniosek do Prezesa Urzędu. Wniosek zawiera:
 
@@ -224,7 +222,7 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 
 12. Udostępnieniu w trybie ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902) nie podlegają informacje dotyczące danych wnioskodawców i informacje, o których mowa w ust. 3 pkt 3.
 
-13. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres udzielanych przez Prezesa Urzędu porad naukowych, wysokość opłat pobieranych za ich udzielenie oraz wzór wniosku o udzielenie porady naukowej, uwzględniając zakres porad naukowych udzielanych w innych państwach członkowskich Unii Europejskiej i państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym o zbliżonym produkcie krajowym brutto na jednego mieszkańca, nakład pracy związanej z udzieleniem porady i poziom kosztów ponoszonych przez Urząd oraz konieczność weryfikacji ewentualnego wystąpienia okoliczności wymienionych w ust. 2.
+13. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres udzielanych przez Prezesa Urzędu porad naukowych, wysokość opłat pobieranych za ich udzielenie oraz wzór wniosku o udzielenie porady naukowej, uwzględniając zakres porad naukowych udzielanych w innych państwach członkowskich Unii Europejskiej i państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym o zbliżonym produkcie krajowym brutto na jednego mieszkańca, nakład pracy związanej z udzieleniem porady i poziom kosztów ponoszonych przez Urząd oraz konieczność weryfikacji ewentualnego wystąpienia okoliczności wymienionych w ust. 2.
 
 **Art. 5.**
 
@@ -253,7 +251,7 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 
 1. Prezes Urzędu udostępnia, nie później niż w terminie 14 dni od dnia wydania ostatecznej decyzji o pozwoleniu na dopuszczenie do obrotu produktu leczniczego albo produktu leczniczego weterynaryjnego, albo wydania ostatecznej decyzji o zmianie danych objętych pozwoleniem, albo zmianie dokumentacji będącej podstawą wydania tego pozwolenia, na stronie internetowej Urzędu oraz w Biuletynie Informacji Publicznej aktualne pozwolenie na dopuszczenie do obrotu, ulotkę oraz Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego.
 
-1a. W zakresie produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych, Prezes Urzędu udostępnia na stronie internetowej Urzędu oraz w Biuletynie Informacji Publicznej, w terminie określonym w ust. 1, streszczenie planu zarządzania ryzykiem użycia produktu leczniczego, warunki nałożone zgodnie z art. 23b i 23c ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, wraz z terminem ich spełnienia, oraz wykaz produktów leczniczych podlegających dodatkowemu monitorowaniu, o którym mowa w art. 23 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego wspólnotowe procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i do celów weterynaryjnych i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229).
+1a. W zakresie produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych, Prezes Urzędu udostępnia na stronie internetowej Urzędu oraz w Biuletynie Informacji Publicznej, w terminie określonym w ust. 1, streszczenie planu zarządzania ryzykiem użycia produktu leczniczego, warunki nałożone zgodnie z art. 23b i 23c ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, wraz z terminem ich spełnienia, oraz wykaz produktów leczniczych podlegających dodatkowemu monitorowaniu, o którym mowa w art. 23 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego wspólnotowe procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i do celów weterynaryjnych i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229).
 
 2. Prezes Urzędu udostępnia w dniu ogłoszenia obwieszczenia, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2023 r. poz. 826), na stronie internetowej Urzędu oraz w Biuletynie Informacji Publicznej, Charakterystyki Produktów Leczniczych leków objętych tym obwieszczeniem.
 
@@ -261,18 +259,18 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 
 1. Przy Prezesie Urzędu działają następujące komisje o charakterze opiniodawczo-doradczym:
 
-- **1)** Komisja do Spraw Produktów Leczniczych w zakresie produktów leczniczych stosowanych u ludzi,
-- **2)** Komisja Farmakopei w zakresie opracowywania i wydawania Farmakopei Polskiej,
-- **3)** Komisja do Spraw Wyrobów Medycznych w zakresie wyrobów,
-- **4)** Komisja do Spraw Produktów Biobójczych w zakresie produktów biobójczych,
-- **5)** Komisja do Spraw Produktów Leczniczych Weterynaryjnych w zakresie produktów leczniczych weterynaryjnych,
-- **6)** Komisja do Spraw Produktów z Pogranicza w zakresie produktów spełniających jednocześnie kryteria produktu leczniczego oraz kryteria innego rodzaju produktu zwane dalej „Komisjami”.
+- **1)** Komisja do Spraw Produktów Leczniczych – w zakresie produktów leczniczych stosowanych u ludzi,
+- **2)** Komisja Farmakopei – w zakresie opracowywania i wydawania Farmakopei Polskiej,
+- **3)** Komisja do Spraw Wyrobów Medycznych – w zakresie wyrobów,
+- **4)** Komisja do Spraw Produktów Biobójczych – w zakresie produktów biobójczych,
+- **5)** Komisja do Spraw Produktów Leczniczych Weterynaryjnych – w zakresie produktów leczniczych weterynaryjnych,
+- **6)** Komisja do Spraw Produktów z Pogranicza – w zakresie produktów spełniających jednocześnie kryteria produktu leczniczego oraz kryteria innego rodzaju produktu – zwane dalej „Komisjami”.
 
 2. Do zadań Komisji do Spraw Produktów Leczniczych należy:
 
 - **1)** dokonywanie oceny merytorycznej dokumentacji dotyczącej produktów leczniczych przedłożonej przez Prezesa Urzędu, w szczególności w zakresie skuteczności działania, bezpieczeństwa stosowania, zgłoszonego we wniosku o dopuszczenie do obrotu;
 - **2)** opiniowanie raportów oceniających produkty lecznicze dopuszczane do obrotu, zgłaszane przez Prezesa Urzędu;
-- **2a)** dokonywanie oceny merytorycznej dokumentacji dotyczącej zgodności z odpowiednimi wymogami określonymi w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne wyrobów, które są ogólnoustrojowo wchłaniane lub których produkty metabolizmu są ogólnoustrojowo wchłaniane przez organizm ludzki, w celu osiągnięcia przewidzianego zastosowania;
+- **2a)** dokonywanie oceny merytorycznej dokumentacji dotyczącej zgodności z odpowiednimi wymogami określonymi w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne wyrobów, które są ogólnoustrojowo wchłaniane lub których produkty metabolizmu są ogólnoustrojowo wchłaniane przez organizm ludzki, w celu osiągnięcia przewidzianego zastosowania;
 - **3)** wykonywanie innych zadań zleconych przez Prezesa Urzędu w zakresie produktów leczniczych stosowanych u ludzi.
 
 3. Do zadań Komisji Farmakopei należy:
@@ -330,7 +328,7 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 
 11. Członkiem Komisji i grup eksperckich nie może być pracownik Urzędu.
 
-12. Przed powołaniem kandydaci na członków Komisji i grup eksperckich składają oświadczenia, o których mowa w art. 9 ust. 2. Członkowie Komisji i grup eksperckich przedstawiają informacje, o których mowa w art. 9 ust. 6. Do członków Komisji i członków grup eksperckich stosuje się odpowiednio przepisy art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+12. Przed powołaniem kandydaci na członków Komisji i grup eksperckich składają oświadczenia, o których mowa w art. 9 ust. 2. Członkowie Komisji i grup eksperckich przedstawiają informacje, o których mowa w art. 9 ust. 6. Do członków Komisji i członków grup eksperckich stosuje się odpowiednio przepisy art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 13. Prezes Urzędu udostępnia na stronie internetowej Urzędu oraz w Biuletynie Informacji Publicznej stanowiska, porządki obrad, wyniki głosowań, w tym złożone w trakcie głosowania wyjaśnienia i opinie mniejszości oraz protokoły z posiedzeń komisji i grup eksperckich na zasadach określonych w przepisach o dostępie do informacji publicznej.
 
@@ -339,7 +337,7 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 15. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy sposób wyłaniania kandydatów na członków Komisji,
-- **2)** sposób działania Komisji uwzględniając zakres zadań tych Komisji.
+- **2)** sposób działania Komisji – uwzględniając zakres zadań tych Komisji.
 
 **Art. 8.**
 
@@ -354,7 +352,7 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 1. Prezes Urzędu, Wiceprezesi Urzędu, pracownicy Urzędu, osoby związane z Urzędem umową zlecenia, umową o dzieło lub inną umową o podobnym charakterze, wykonujący czynności związane z prowadzeniem postępowań w zakresie produktów leczniczych, wyrobów lub produktów biobójczych, oraz członkowie Komisji i grup eksperckich, nie mogą:
 
 - **1)** być członkami organów spółek handlowych, przedstawicielami lub pełnomocnikami przedsiębiorców, którzy:
-    - **a)** złożyli wniosek o pozwolenie na dopuszczenie do obrotu produktów leczniczych albo uzyskali to pozwolenie lub złożyli wniosek o pozwolenie na import równoległy produktu leczniczego albo uzyskali to pozwolenie lub prowadzą działalność gospodarczą w zakresie wytwarzania lub importu, o którym mowa w art. 2 pkt 42 i 42a ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne,
+    - **a)** złożyli wniosek o pozwolenie na dopuszczenie do obrotu produktów leczniczych albo uzyskali to pozwolenie lub złożyli wniosek o pozwolenie na import równoległy produktu leczniczego albo uzyskali to pozwolenie lub prowadzą działalność gospodarczą w zakresie wytwarzania lub importu, o którym mowa w art. 2 pkt 42 i 42a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
     - **b)** złożyli wniosek o wydanie pozwolenia na wprowadzenie do obrotu, pozwolenia tymczasowego, o wydanie decyzji o wpisie do rejestru produktów biobójczych niskiego ryzyka lub pozwolenia na obrót produktem biobójczym lub uzyskali jedną z tych decyzji, lub prowadzą działalność gospodarczą w zakresie wytwarzania produktu biobójczego lub substancji czynnej wchodzących w skład produktów biobójczych,
     - **c)** są producentami lub upoważnionymi przedstawicielami w rozumieniu rozporządzenia 2017/745 albo rozporządzenia 2017/746;
 
@@ -365,12 +363,12 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 - **6)** wykonywać zajęć zarobkowych na podstawie umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w pkt 1–5;
 - **7)** pozostawać w takim stosunku prawnym ze stroną postępowania, że rozstrzygnięcia podejmowane w sprawach należących do zadań Prezesa Urzędu mogą mieć wpływ na ich prawa lub obowiązki wynikające z tego stosunku.
 
-2. Osoby, o których mowa w ust. 1, składają na formularzu oświadczenie o niezachodzeniu okoliczności określonych w ust. 1, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ), zwane dalej „oświadczeniem o braku konfliktu interesów”.
+2. Osoby, o których mowa w ust. 1, składają na formularzu oświadczenie o niezachodzeniu okoliczności określonych w ust. 1, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ), zwane dalej „oświadczeniem o braku konfliktu interesów”.
 
 3. Oświadczenie o braku konfliktu interesów składają:
 
-- **1)** ministrowi właściwemu do spraw zdrowia Prezes Urzędu i Wiceprezesi Urzędu, przed powołaniem;
-- **2)** Prezesowi Urzędu pozostałe osoby, przed zawarciem umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze.
+- **1)** ministrowi właściwemu do spraw zdrowia – Prezes Urzędu i Wiceprezesi Urzędu, przed powołaniem;
+- **2)** Prezesowi Urzędu – pozostałe osoby, przed zawarciem umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze.
 
 4. Naruszenie obowiązków, o których mowa w ust. 1–3 i ust. 6–7, stanowi podstawę do rozwiązania stosunku pracy bez wypowiedzenia z winy pracownika, wypowiedzenia umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze, odwołania ze stanowiska Prezesa Urzędu, Wiceprezesa Urzędu oraz odwołania ze składu Komisji albo grupy eksperckiej.
 
@@ -391,7 +389,7 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 - **2)** zawarciu przez nich umowy o świadczenie usług zarządczych z podmiotami, o których mowa w ust. 1, w terminie 30 dni od dnia zawarcia tej umowy;
 - **3)** zaistnieniu w stosunku do nich okoliczności, o których mowa w ust. 1 pkt 7, w terminie 30 dni od dnia powzięcia wiadomości o zaistnieniu tych okoliczności.
 
-8. W przypadkach, o których mowa w ust. 6, pracownik Urzędu albo osoba związana z Urzędem umową zlecenia, umową o dzieło lub inną umową o podobnym charakterze podlega wyłączeniu na podstawie art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+8. W przypadkach, o których mowa w ust. 6, pracownik Urzędu albo osoba związana z Urzędem umową zlecenia, umową o dzieło lub inną umową o podobnym charakterze podlega wyłączeniu na podstawie art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 9. Przepisy ust. 1–5 nie wyłączają stosowania do Prezesa Urzędu i Wiceprezesów Urzędu oraz innych pracowników Urzędu przepisów ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2022 r. poz. 1110 oraz z 2023 r. poz. 497), z tym że Prezes Urzędu i Wiceprezesi Urzędu składają oświadczenia o stanie majątkowym ministrowi właściwemu do spraw zdrowia.
 
@@ -401,7 +399,7 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 
 1. Osoby, o których mowa w art. 9 ust. 1, biorące udział w formalnej i merytorycznej ocenie wniosku o wydanie pozwolenia na badanie kliniczne wyrobu, o którym mowa w rozporządzeniu 2017/745, lub pozwolenia na badanie działania, o którym mowa w art. 58 ust. 1 lub art. 70 ust. 1 lub 2 rozporządzenia 2017/746, lub badanie działania wyrobu do diagnostyki w terapii celowanej, które nie jest prowadzone z wykorzystaniem wyłącznie pozostałości próbek i o którym mowa w art. 58 ust. 2 rozporządzenia 2017/746, składają oświadczenie zawierające informację o niepodleganiu niepożądanym wpływom oraz niezależności od sponsora i badaczy biorących udział w badaniu oraz osób fizycznych lub prawnych finansujących dane badanie kliniczne lub badanie działania.
 
-2. Oświadczenie, o którym mowa w ust. 1, składa się Prezesowi Urzędu, a w przypadku Prezesa Urzędu oraz Wiceprezesów Urzędu ministrowi właściwemu do spraw zdrowia:
+2. Oświadczenie, o którym mowa w ust. 1, składa się Prezesowi Urzędu, a w przypadku Prezesa Urzędu oraz Wiceprezesów Urzędu – ministrowi właściwemu do spraw zdrowia:
 
 - **1)** przed zawarciem umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze;
 - **2)** w terminie 14 dni od dnia powzięcia informacji o okolicznościach, o których mowa w ust. 1.
@@ -420,7 +418,7 @@ o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
 - **5)** uczestniczyć w postępowaniach, o których mowa w art. 9 ust. 1 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605), lub uczestniczyć w przeprowadzaniu tego badania klinicznego oraz wykonywać zajęcia zarobkowego na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z ośrodkiem badań klinicznych, w którym ma być prowadzone badanie kliniczne, którego dotyczy ocena;
 - **6)** być zatrudnione w podmiotach, o których mowa w pkt 1–3.
 
-2. Oświadczenie, o którym mowa w ust. 1, składa się Prezesowi Urzędu, a w przypadku Prezesa Urzędu oraz Wiceprezesów Urzędu ministrowi właściwemu do spraw zdrowia:
+2. Oświadczenie, o którym mowa w ust. 1, składa się Prezesowi Urzędu, a w przypadku Prezesa Urzędu oraz Wiceprezesów Urzędu – ministrowi właściwemu do spraw zdrowia:
 
 - **1)** przed zawarciem umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze;
 - **2)** w terminie 14 dni od dnia powzięcia informacji o okolicznościach, o których mowa w ust. 1.

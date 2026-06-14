@@ -8,12 +8,10 @@ pos: 1512
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Karcie Dużej Rodziny
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 października 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1512/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2023 r. poz. 2424), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 października 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 88 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858), który stanowi: „Art. 88. Ustawa wchodzi w życie z dniem 1 października 2024 r., z wyjątkiem:
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2023 r. poz. 2424), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 października 2024 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 88 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), który stanowi: „Art. 88. Ustawa wchodzi w życie z dniem 1 października 2024 r., z wyjątkiem:
 1) art. 5, art. 55 ust. 4–7, art. 68 pkt 18 i 19, art. 75 ust. 14 i art. 78–81, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 68 pkt 3 i art. 86, które wchodzą w życie z dniem 28 czerwca 2024 r.;
 3) art. 68 pkt 7 lit. a tiret pierwsze, pkt 8, pkt 9, pkt 10 lit. a tiret pierwsze i pkt 11, art. 76 i art. 77, które wchodzą w życie z dniem 1 czerwca 2025 r.;
@@ -48,6 +46,11 @@ Art. 31–35. (pominięte)
 
 **Art. 2.** Karta jest środkiem identyfikującym członka rodziny wielodzietnej, poświadczającym prawo członka rodziny wielodzietnej do uprawnień ustalonych w trybie określonym w niniejszej ustawie lub przyznanych na podstawie przepisów odrębnych:
 
+- **1)** wydawanym w formie dokumentu z tworzywa sztucznego, zwanym dalej „kartą tradycyjną”, lub
+- **2)** realizowanym przy użyciu: poz. 1275), zwanej dalej „aplikacją mObywatel”, na podstawie porozumienia między ministrem właściwym do spraw rodziny a ministrem właściwym do spraw informatyzacji – zwanym dalej „kartą elektroniczną”.
+    - **a)** oprogramowania dedykowanego dla urządzeń mobilnych, zawierającego usługi ułatwiające korzystanie z przyznanych uprawnień, udostępnionego przez ministra właściwego do spraw rodziny lub wskazanego w informacji zamieszczonej w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw rodziny lub
+    - **b)** aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r.
+
 **Art. 3.** Ilekroć w ustawie jest mowa o wójcie, należy przez to rozumieć także burmistrza oraz prezydenta miasta.
 
 #### Rozdział 2 Prawo do posiadania Karty
@@ -58,26 +61,30 @@ Art. 31–35. (pominięte)
 
 2. Członkami rodziny wielodzietnej są:
 
-- **1)** rodzic (rodzice) przez którego rozumie się także rodzica (rodziców) zastępczych lub osobę (osoby) prowadzącą rodzinny dom dziecka;
+- **1)** rodzic (rodzice) – przez którego rozumie się także rodzica (rodziców) zastępczych lub osobę (osoby) prowadzącą rodzinny dom dziecka;
 - **2)** małżonek rodzica;
-- **3)** dziecko przez które rozumie się także dziecko, nad którym rodzic sprawuje rodzinną pieczę zastępczą, oraz osobę przebywającą w dotychczasowej rodzinie zastępczej albo w rodzinnym domu dziecka, o której mowa w art. 37 ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177, 742, 743 i 858).
+- **3)** dziecko – przez które rozumie się także dziecko, nad którym rodzic sprawuje rodzinną pieczę zastępczą, oraz osobę przebywającą w dotychczasowej rodzinie zastępczej albo w rodzinnym domu dziecka, o której mowa w art. 37 ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177, 742, 743 i 858).
 
 2a. Prawo do posiadania Karty przysługuje dziecku, jeżeli w dniu składania wniosku o przyznanie Karty co najmniej troje dzieci w rodzinie wielodzietnej spełnia wymagania, o których mowa w ust. 2b.
 
 2b. Prawo do posiadania Karty przysługuje odpowiednio dziecku:
 
 - **1)** w wieku do ukończenia 18. roku życia;
-- **2)** w wieku do ukończenia 25. roku życia w przypadku gdy dziecko uczy się w:
-    - **a)** szkole do dnia 30 września następującego po końcu roku szkolnego,
-    - **b)** szkole wyższej do dnia 30 września roku w którym jest planowane ukończenie nauki zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4;
+- **2)** w wieku do ukończenia 25. roku życia – w przypadku gdy dziecko uczy się w:
+    - **a)** szkole – do dnia 30 września następującego po końcu roku szkolnego,
+    - **b)** szkole wyższej – do dnia 30 września roku – w którym jest planowane ukończenie nauki zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4;
 
-- **3)** bez ograniczeń wiekowych w przypadku dzieci legitymujących się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności.
+- **3)** bez ograniczeń wiekowych – w przypadku dzieci legitymujących się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności.
 
 3. Prawo do posiadania Karty nie przysługuje rodzicowi, którego sąd pozbawił władzy rodzicielskiej lub któremu sąd ograniczył władzę rodzicielską przez umieszczenie dziecka w pieczy zastępczej, chyba że sąd nie pozbawił go władzy rodzicielskiej lub jej nie ograniczył przez umieszczenie dziecka w pieczy zastępczej w stosunku do co najmniej trojga dzieci.
 
 4. Prawo do posiadania Karty nie przysługuje rodzicowi zastępczemu lub prowadzącemu rodzinny dom dziecka, w przypadku gdy sąd orzekł o odebraniu im dzieci z uwagi na niewłaściwe sprawowanie pieczy zastępczej.
 
 **Art. 5.** Prawo do posiadania Karty przysługuje członkowi rodziny wielodzietnej, który jest:
+
+- **1)** osobą posiadającą obywatelstwo polskie, mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej;
+- **2)** cudzoziemcem mającym miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielony w związku z okolicznością, o której mowa w art. 159 ust. 1 i art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769 i 1222), lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej, jeżeli zamieszkuje z członkami rodziny na terytorium Rzeczypospolitej Polskiej;
+- **3)** mającym miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej obywatelem państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom jego rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633), posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 6.**
 
@@ -135,21 +142,21 @@ Art. 31–35. (pominięte)
 
 4. Składając wniosek o przyznanie Karty, przedstawia się w szczególności:
 
-- **1)** w przypadku rodzica oświadczenia, że rodzic miał lub ma na utrzymaniu łącznie co najmniej troje dzieci oraz że nie jest lub nie był pozbawiony władzy rodzicielskiej ani ograniczony we władzy rodzicielskiej przez umieszczenie dziecka w pieczy zastępczej w stosunku do co najmniej trojga dzieci;
+- **1)** w przypadku rodzica – oświadczenia, że rodzic miał lub ma na utrzymaniu łącznie co najmniej troje dzieci oraz że nie jest lub nie był pozbawiony władzy rodzicielskiej ani ograniczony we władzy rodzicielskiej przez umieszczenie dziecka w pieczy zastępczej w stosunku do co najmniej trojga dzieci;
 - **2)** (uchylony)
 - **3)** (uchylony)
-- **4)** w przypadku dzieci w wieku powyżej 18. roku życia, które uczą się w szkole lub w szkole wyższej oświadczenie o planowanym terminie ukończenia nauki w danej placówce;
+- **4)** w przypadku dzieci w wieku powyżej 18. roku życia, które uczą się w szkole lub w szkole wyższej – oświadczenie o planowanym terminie ukończenia nauki w danej placówce;
 - **5)** (uchylony)
-- **6)** w przypadku dzieci umieszczonych w rodzinie zastępczej lub rodzinnym domu dziecka oryginał lub odpis postanowienia o umieszczeniu w rodzinie zastępczej lub rodzinnym domu dziecka;
-- **7)** w przypadku osób przebywających w dotychczasowej rodzinie zastępczej albo w rodzinnym domu dziecka, o których mowa w art. 37 ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej oświadczenie o pozostawaniu w dotychczasowej rodzinie zastępczej lub rodzinnym domu dziecka.
+- **6)** w przypadku dzieci umieszczonych w rodzinie zastępczej lub rodzinnym domu dziecka – oryginał lub odpis postanowienia o umieszczeniu w rodzinie zastępczej lub rodzinnym domu dziecka;
+- **7)** w przypadku osób przebywających w dotychczasowej rodzinie zastępczej albo w rodzinnym domu dziecka, o których mowa w art. 37 ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej – oświadczenie o pozostawaniu w dotychczasowej rodzinie zastępczej lub rodzinnym domu dziecka.
 
 4a. W przypadku osób nieposiadających numeru PESEL, składając wniosek o przyznanie Karty, poza dokumentami, o których mowa w ust. 4, przedstawia się oryginały lub odpisy dokumentów potwierdzających prawo do przyznania Karty, w szczególności:
 
-- **1)** w przypadku rodzica dokument potwierdzający tożsamość;
-- **2)** w przypadku małżonka rodzica dokument potwierdzający tożsamość oraz akt małżeństwa;
-- **3)** w przypadku dzieci w wieku do ukończenia 18. roku życia akt urodzenia lub dokument potwierdzający tożsamość;
-- **4)** w przypadku dzieci w wieku powyżej 18. roku życia dokument potwierdzający tożsamość;
-- **5)** w przypadku dzieci legitymujących się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności w wieku powyżej 18. roku życia dokument potwierdzający tożsamość.
+- **1)** w przypadku rodzica – dokument potwierdzający tożsamość;
+- **2)** w przypadku małżonka rodzica – dokument potwierdzający tożsamość oraz akt małżeństwa;
+- **3)** w przypadku dzieci w wieku do ukończenia 18. roku życia – akt urodzenia lub dokument potwierdzający tożsamość;
+- **4)** w przypadku dzieci w wieku powyżej 18. roku życia – dokument potwierdzający tożsamość;
+- **5)** w przypadku dzieci legitymujących się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności w wieku powyżej 18. roku życia – dokument potwierdzający tożsamość.
 
 5. W przypadku osób, o których mowa w art. 5 pkt 2, składając wniosek o przyznanie Karty, poza dokumentami, o których mowa w ust. 4 i 4a, okazuje się dokument potwierdzający prawo do zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
@@ -162,7 +169,7 @@ Art. 31–35. (pominięte)
 9. Wójt ustalający prawo do Karty jest obowiązany do samodzielnego uzyskania lub weryfikacji:
 
 - **1)** drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny, lub drogą pisemną, z rejestrów publicznych, w tym z rejestru PESEL, o którym mowa w przepisach o ewidencji ludności,
-- **2)** drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny z systemu informacji oświatowej, o którym mowa w przepisach o systemie informacji oświatowej odpowiednio informacji, o których mowa w art. 21 ust. 1 pkt 1, 2, 5, 7, 8, 8a, 10 i 11. Przedstawienie dokumentu potwierdzającego prawo do zamieszkania na terytorium Rzeczypospolitej Polskiej nie jest wymagane w przypadku, gdy wójt może bezpłatnie uzyskać dostęp do danych potwierdzających to prawo, dane te są mu znane z urzędu lub możliwe do ustalenia na podstawie danych, którymi rozporządza.
+- **2)** drogą elektroniczną, za pośrednictwem ministra właściwego do spraw rodziny z systemu informacji oświatowej, o którym mowa w przepisach o systemie informacji oświatowej – odpowiednio informacji, o których mowa w art. 21 ust. 1 pkt 1, 2, 5, 7, 8, 8a, 10 i 11. Przedstawienie dokumentu potwierdzającego prawo do zamieszkania na terytorium Rzeczypospolitej Polskiej nie jest wymagane w przypadku, gdy wójt może bezpłatnie uzyskać dostęp do danych potwierdzających to prawo, dane te są mu znane z urzędu lub możliwe do ustalenia na podstawie danych, którymi rozporządza.
 
 9a. Wniosek i dokumenty, o których mowa w ust. 4 i 5, mogą być składane drogą elektroniczną wyłącznie za pomocą systemu teleinformatycznego utworzonego przez ministra właściwego do spraw rodziny. Uwierzytelnianie użytkowników w tym systemie wymaga użycia profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 422 i 1222), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online, albo innych technologii, jeżeli zostaną udostępnione w tym systemie.
 
@@ -197,12 +204,12 @@ Art. 31–35. (pominięte)
 
 1. Karta jest przyznawana:
 
-- **1)** rodzicowi oraz małżonkowi rodzica na czas nieokreślony;
-- **2)** dziecku w wieku do ukończenia 18. roku życia do ukończenia 18. roku życia;
-- **3)** dziecku powyżej 18. roku życia odpowiednio do dnia 30 września następującego po końcu roku szkolnego, w którym jest planowane ukończenie nauki w danej placówce, lub, w przypadku szkoły wyższej, do dnia 30 września roku, w którym jest planowane ukończenie nauki w danej placówce, zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4, nie dłużej jednak niż do ukończenia 25. roku życia;
-- **4)** dziecku legitymującemu się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności, w wieku powyżej 18. roku życia na okres ważności orzeczenia;
-- **5)** dziecku umieszczonemu w rodzinnej pieczy zastępczej na czas umieszczenia w danej rodzinie zastępczej lub rodzinnym domu dziecka;
-- **6)** osobie przebywającej w dotychczasowej rodzinie zastępczej albo w rodzinnym domu dziecka, o której mowa w art. 37 ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej odpowiednio do dnia 30 września następującego po końcu roku szkolnego, w którym jest planowane ukończenie nauki w danej placówce, lub, w przypadku szkoły wyższej, do dnia 30 września roku, w którym jest planowane ukończenie nauki w danej placówce, zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4, nie dłużej jednak niż do ukończenia 25. roku życia.
+- **1)** rodzicowi oraz małżonkowi rodzica – na czas nieokreślony;
+- **2)** dziecku w wieku do ukończenia 18. roku życia – do ukończenia 18. roku życia;
+- **3)** dziecku powyżej 18. roku życia – odpowiednio do dnia 30 września następującego po końcu roku szkolnego, w którym jest planowane ukończenie nauki w danej placówce, lub, w przypadku szkoły wyższej, do dnia 30 września roku, w którym jest planowane ukończenie nauki w danej placówce, zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4, nie dłużej jednak niż do ukończenia 25. roku życia;
+- **4)** dziecku legitymującemu się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności, w wieku powyżej 18. roku życia – na okres ważności orzeczenia;
+- **5)** dziecku umieszczonemu w rodzinnej pieczy zastępczej – na czas umieszczenia w danej rodzinie zastępczej lub rodzinnym domu dziecka;
+- **6)** osobie przebywającej w dotychczasowej rodzinie zastępczej albo w rodzinnym domu dziecka, o której mowa w art. 37 ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej – odpowiednio do dnia 30 września następującego po końcu roku szkolnego, w którym jest planowane ukończenie nauki w danej placówce, lub, w przypadku szkoły wyższej, do dnia 30 września roku, w którym jest planowane ukończenie nauki w danej placówce, zgodnie z oświadczeniem, o którym mowa w art. 10 ust. 4 pkt 4, nie dłużej jednak niż do ukończenia 25. roku życia.
 
 2. W przypadku osób, o których mowa w art. 5 pkt 2, Karta jest przyznawana odpowiednio na okres, o którym mowa w ust. 1, nie dłużej jednak niż na okres wynikający z dokumentu potwierdzającego prawo do zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
@@ -232,13 +239,16 @@ Art. 31–35. (pominięte)
 
 **Art. 14.** Wójt, przyznając Kartę, informuje członka rodziny wielodzietnej o:
 
+- **1)** przysługujących mu uprawnieniach przez wskazanie strony internetowej urzędu obsługującego ministra właściwego do spraw rodziny, na której jest zamieszczony wykaz uprawnień przysługujących członkom rodzin wielodzietnych posiadającym Karty;
+- **2)** obowiązku niezwłocznego powiadomienia o wystąpieniu zmian mających wpływ na prawo do posiadania Karty, zmian danych zawartych w Karcie lub zmiany miejsca zamieszkania.
+
 **Art. 15.**
 
 1. W przypadku wystąpienia zmian:
 
 - **1)** mających wpływ na prawo do posiadania Karty lub
 - **2)** danych zawartych w Karcie
-- **3)** (uchylony) członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę.
+- **3)** (uchylony) – członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę.
 
 2. W przypadku zmiany miejsca zamieszkania skutkującej zmianą gminy członek rodziny wielodzietnej jest obowiązany do niezwłocznego powiadomienia o tym wójta, który przyznał Kartę, chyba że członek rodziny wielodzietnej złożył wniosek o przyznanie nowej Karty w związku ze zmianą miejsca zamieszkania.
 
@@ -275,6 +285,13 @@ Art. 31–35. (pominięte)
 
 **Art. 19.** Minister właściwy do spraw rodziny pozyskuje za pomocą systemu teleinformatycznego, o którym mowa w art. 18 ust. 1 pkt 2, dane o realizacji ustawy, w szczególności w zakresie:
 
+- **1)** liczby przyznanych Kart;
+- **2)** liczby rodzin wielodzietnych posiadających Karty;
+- **3)** liczby dzieci wchodzących w skład rodzin wielodzietnych posiadających Karty;
+- **4)** wydatków poniesionych na realizację ustawy;
+- **5)** informacji niezbędnych do ustalenia kosztów obsługi zadań gminy związanych z przyznaniem Karty;
+- **6)** informacji o przyznanych przez jednostki samorządu terytorialnego uprawnieniach dla członków rodzin wielodzietnych.
+
 **Art. 20.** Wojewoda, o którym mowa w art. 24 ust. 3, oraz organizacja pozarządowa, o której mowa w art. 24 ust. 4, przekazują na bieżąco ministrowi właściwemu do spraw rodziny za pomocą systemu teleinformatycznego, o którym mowa w art. 18 ust. 1 pkt 2, informacje na temat negocjacji przeprowadzonych z podmiotami innymi niż instytucje zgłoszone przez właściwych ministrów oraz umów zawartych z tymi podmiotami.
 
 **Art. 20a.**
@@ -303,13 +320,13 @@ Art. 31–35. (pominięte)
 - **11)** informacje o znacznym lub umiarkowanym stopniu niepełnosprawności, w tym informacje o okresie, na jaki zostało wydane orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności;
 - **12)** informację o umieszczeniu dziecka w pieczy zastępczej;
 - **13)** orzeczenie sądu o odebraniu lub ograniczeniu władzy rodzicielskiej;
-- **14)** dochody członków rodziny wielodzietnej w przypadku złożenia wniosku, o którym mowa w art. 13 ust. 3;
-- **15)** numer telefonu i adres poczty elektronicznej członka rodziny wielodzietnej o ile je posiada.
+- **14)** dochody członków rodziny wielodzietnej – w przypadku złożenia wniosku, o którym mowa w art. 13 ust. 3;
+- **15)** numer telefonu i adres poczty elektronicznej członka rodziny wielodzietnej – o ile je posiada.
 
 1a. Minister właściwy do spraw rodziny przetwarza również dane, o których mowa w ust. 1:
 
-- **1)** pkt 5 do celów statystycznych;
-- **2)** pkt 15 w zakresie adresu poczty elektronicznej w celu przekazywania informacji związanych z uprawnieniami dla rodzin.
+- **1)** pkt 5 – do celów statystycznych;
+- **2)** pkt 15 w zakresie adresu poczty elektronicznej – w celu przekazywania informacji związanych z uprawnieniami dla rodzin.
 
 2. Administratorami danych osobowych przetwarzanych w zakresie niezbędnym do realizacji zadań wynikających z niniejszej ustawy są wójt oraz minister właściwy do spraw rodziny.
 
@@ -327,6 +344,10 @@ Art. 31–35. (pominięte)
 7. Osoby przetwarzające dane osobowe, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności.
 
 **Art. 22.** Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób unieważnienia Karty, szczegółowy zakres informacji, jakie mają być zawarte we wniosku o przyznanie Karty lub wydanie jej duplikatu, oraz wzory:
+
+- **1)** Karty,
+- **2)** znaku „Tu honorujemy Kartę Dużej Rodziny”,
+- **3)** logo rodziny wielodzietnej – uwzględniając konieczność odpowiedniego zabezpieczenia Karty oraz ujednolicenia procedur w sprawach o przyznanie Karty, a także mając na uwadze konieczność zapewnienia szerokiej rozpoznawalności logo rodziny wielodzietnej i znaku „Tu honorujemy Kartę Dużej Rodziny”.
 
 #### Rozdział 4 Przyznanie uprawnień przysługujących na podstawie Karty
 
@@ -407,7 +428,7 @@ Art. 31–35. (pominięte)
 
 5. W przypadku gdy po przyznaniu Kart członkom rodziny wielodzietnej zmieniła się liczba członków rodziny wielodzietnej skutkująca koniecznością przyznania kolejnej Karty lub w przypadku przyznania nowej Karty członkowi rodziny wielodzietnej, który był już posiadaczem Karty, lub w przypadku stwierdzenia utraty prawa do posiadania Karty, koszt realizacji ustawy przez gminę wynosi 4,00 zł za przyznanie Karty.
 
-6. Koszt realizacji ustawy przez gminę za wydanie duplikatu Karty oraz wydanie karty tradycyjnej w przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, została już udostępniona karta elektroniczna, wynosi 2,00 zł .
+6. Koszt realizacji ustawy przez gminę za wydanie duplikatu Karty oraz wydanie karty tradycyjnej – w przypadku gdy członkowi rodziny wielodzietnej, na jego wniosek, została już udostępniona karta elektroniczna, wynosi 2,00 zł .
 
 7. (uchylony)
 
@@ -437,72 +458,72 @@ Art. 31–35. (pominięte)
 
 1. Maksymalny limit wydatków z budżetu państwa na lata 2017–2028 na realizację ustawy przez gminy, wojewodów, ministra właściwego do spraw rodziny i ministra właściwego do spraw transportu wynosi 1 541,55 mln zł, z tego:
 
-- **1)** w 2017 r. 24,91 mln zł, w tym:
+- **1)** w 2017 r. – 24,91 mln zł, w tym:
     - **a)** 0,92 mln zł na realizację ustawy przez gminy,
     - **b)** 5,99 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 18,00 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny;
 
-- **2)** w 2018 r. 34,54 mln zł, w tym:
+- **2)** w 2018 r. – 34,54 mln zł, w tym:
     - **a)** 1,93 mln zł na realizację ustawy przez gminy,
     - **b)** 5,70 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 21,00 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 5,91 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **3)** w 2019 r. 61,81 mln zł, w tym:
+- **3)** w 2019 r. – 61,81 mln zł, w tym:
     - **a)** 3,93 mln zł na realizację ustawy przez gminy,
     - **b)** 12,88 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 41,00 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 4,00 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **4)** w 2020 r. 68,40 mln zł, w tym:
+- **4)** w 2020 r. – 68,40 mln zł, w tym:
     - **a)** 2,42 mln zł na realizację ustawy przez gminy,
     - **b)** 8,95 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 46,83 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 10,20 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **5)** w 2021 r. 64,24 mln zł, w tym:
+- **5)** w 2021 r. – 64,24 mln zł, w tym:
     - **a)** 3,85 mln zł na realizację ustawy przez gminy,
     - **b)** 7,18 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 48,46 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 4,75 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **6)** w 2022 r. 78 mln zł, w tym:
+- **6)** w 2022 r. – 78 mln zł, w tym:
     - **a)** 7 mln zł na realizację ustawy przez gminy,
     - **b)** 9 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 55 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 7 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **7)** w 2023 r. 133,15 mln zł, w tym:
+- **7)** w 2023 r. – 133,15 mln zł, w tym:
     - **a)** 15 mln zł na realizację ustawy przez gminy,
     - **b)** 19,15 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 90 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 9 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **8)** w 2024 r. 193,5 mln zł, w tym:
+- **8)** w 2024 r. – 193,5 mln zł, w tym:
     - **a)** 15 mln zł na realizację ustawy przez gminy,
     - **b)** 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 135 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 10 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **9)** w 2025 r. 204,5 mln zł, w tym:
+- **9)** w 2025 r. – 204,5 mln zł, w tym:
     - **a)** 15 mln zł na realizację ustawy przez gminy,
     - **b)** 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 145 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 11 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **10)** w 2026 r. 215,5 mln zł, w tym:
+- **10)** w 2026 r. – 215,5 mln zł, w tym:
     - **a)** 15 mln zł na realizację ustawy przez gminy,
     - **b)** 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 155 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 12 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **11)** w 2027 r. 226,5 mln zł, w tym:
+- **11)** w 2027 r. – 226,5 mln zł, w tym:
     - **a)** 15 mln zł na realizację ustawy przez gminy,
     - **b)** 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 165 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
     - **d)** 13 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
 
-- **12)** w 2028 r. 237,5 mln zł, w tym:
+- **12)** w 2028 r. – 237,5 mln zł, w tym:
     - **a)** 15 mln zł na realizację ustawy przez gminy,
     - **b)** 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 175 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,

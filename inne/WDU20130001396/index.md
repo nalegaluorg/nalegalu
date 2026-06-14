@@ -8,10 +8,10 @@ pos: 1396
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 listopada 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1396 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 21 listopada 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1396/text.pdf) |
 
-Poz. 1396 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 21 listopada 2013 r.
-w sprawie określenia czynności, które przy prowadzeniu i przechowywaniu ksiąg wieczystych mogą spełniać samodzielnie pracownicy sądowi Na podstawie art. 58 pkt 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. z 2013 r. 707, z późn. zm. ) zarządza się, co następuje: § 1. 1. Pracownicy sądowi wyznaczeni przez prezesa sądu rejonowego lub przewodniczącego wydziału ksiąg wieczystych mogą samodzielnie:
+w sprawie określenia czynności, które przy prowadzeniu i przechowywaniu ksiąg wieczystych mogą spełniać samodzielnie pracownicy sądowi Na podstawie art. 58 pkt 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Pracownicy sądowi wyznaczeni przez prezesa sądu rejonowego lub przewodniczącego wydziału ksiąg wieczystych mogą samodzielnie:
 1) prowadzić księgi biurowe i inne urządzenia ewidencyjne;
 2) przyjmować wnioski o wpis do ksiąg wieczystych;
 3) zamieszczać w księgach wieczystych wzmianki o: wniosku, skardze na orzeczenie referendarza sądowego, apelacji i skardze kasacyjnej oraz usuwać je po uprawomocnieniu się orzeczenia;

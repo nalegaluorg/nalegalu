@@ -1,0 +1,61 @@
+---
+title: Rozporządzenie Ministra Rozwoju i Finansów z dnia 12 grudnia 2017 r. zmieniające rozporządzenie w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej
+address: WDU20180000006
+eli: DU/2018/6
+publisher: DU
+year: 2018
+pos: 6
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 6 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 12 grudnia 2017 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 6 |
+| ISAP | WDU20180000006 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2017-12-12 |
+| Data wydania | 2018-01-02 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/6/text.pdf) |
+
+zmieniające rozporządzenie w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej Na podstawie art. 9 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r.
+poz. 1010) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1248 oraz z 2011 r. poz. 1344) w załączniku wprowadza się następujące zmiany:
+1) pkt 1.3 otrzymuje brzmienie: „1.3. Misja PSSE Misją PSSE jest podnoszenie konkurencyjności województw: pomorskiego, kujawsko-pomorskiego, lubelskiego, wielkopolskiego i zachodniopomorskiego poprzez wdrażanie rozwiązań stymulujących rozwój nowoczesnych technologii, a także wspieranie rozwoju gospodarczego za pomocą rozwiązań uwzględniających i wykorzystujących szczególne uwarunkowania tych regionów.
+Realizacja misji polega na podejmowaniu inicjatyw mających na celu wzrost innowacyjności gospodarki województw na obszarach objętych strefą. Celem nadrzędnym jest tworzenie jak najlepszych warunków do realizacji przedsięwzięć inwestycyjnych oraz zwiększanie stopnia efektywności wykorzystywania potencjału gospodarczego regionów, w tym zasobów ludzkich poprzez tworzenie atrakcyjnych miejsc pracy.
+Funkcjonowanie Pomorskiej Specjalnej Strefy Ekonomicznej w regionach właściwych dla jej oddziaływania ma wspierać rozwój gospodarczo-społeczny z zamiarem osiągnięcia między innymi celów Strategii na rzecz inteligentnego i zrównoważonego rozwoju sprzyjającego włączeniu społecznemu – Europa 2020 oraz Strategii na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.). Osiągnięcie tego celu wiąże się nierozerwalnie z:
+1) realizacją zadań przyjętych i określonych w Strategii Rozwoju Województwa Pomorskiego 2020 , w szczególności w celu podniesienia konkurencyjności regionu, m.in. poprzez udoskonalanie oraz rozwój infrastruktury technicznej i komunalnej;
+2) realizacją zadań przyjętych i określonych w Strategii Rozwoju Województwa Kujawsko-Pomorskiego do roku 2020 – Plan modernizacji 2020+ , w szczególności w celu wzrostu konkurencyjności regionu poprzez działania zwiększające atrakcyjność inwestycyjną obszarów aktywności gospodarczej;
+3) realizacją zadań określonych w Strategii Rozwoju Województwa Lubelskiego na lata 2014–2020 z perspektywą do 2030 roku , w szczególności poprzez wzmacnianie urbanizacji regionu;
+4) realizacją zadań określonych w Strategii Rozwoju Województwa Wielkopolskiego do 2020 roku. Wielkopolska 2020 , w szczególności poprzez podniesienie konkurencyjności regionu;
+5) realizacją zadań przyjętych i określonych w Strategii Rozwoju Województwa Zachodniopomorskiego do roku 2020 ;
+6) rozwojem działalności Gdańskiego Parku Naukowo-Technologicznego im. Hilarego Koprowskiego.”;
+2) w pkt 3:
+a) ppkt 6 otrzymuje brzmienie: „6) przygotowanie techniczne gruntu, budowa lub udział w budowie infrastruktury drogowej i technicznej służącej realizacji projektów inwestycyjnych w oparciu o zezwolenie;”,
+b) ppkt 9 otrzymuje brzmienie: „9) współpraca z centrami obsługi inwestorów oraz Polską Agencją Inwestycji i Handlu S.A.;”,
+c) ppkt 18 otrzymuje brzmienie: „18) pracach projektowych dotyczących budowy infrastruktury drogowej i technicznej;”;
+3) pkt 6 otrzymuje brzmienie: „6. Polityka rozwoju PSSE
+6.1. Inwestycje znaczące dla regionów – perspektywy powiększania terenów Zasady włączania do stref nowych obszarów zostały określone w Koncepcji rozwoju specjalnych stref ekonomicznych, zwanej dalej „Koncepcją”, przyjętej przez Radę Ministrów dnia 27 stycznia 2009 r. Koncepcja określa główny cel włączania nowych terenów do specjalnych stref ekonomicznych, którym jest wspieranie nowych inwestycji pożądanych dla gospodarki kraju, a więc takich, które w najwyższym stopniu przyczynią się do zrównoważonego rozwoju społeczno-gospodarczego regionów. Pomorska Specjalna Strefa Ekonomiczna obejmuje zasięgiem działania pięć województw: pomorskie, kujawsko-pomorskie, lubelskie, wielkopolskie i zachodniopomorskie. Uwzględniając specyficzne uwarunkowania każdego z województw, zróżnicowano politykę zagospodarowania inwestycyjnego terenów.
+I tak:
+1) dla województwa pomorskiego – założono pozyskiwanie inwestorów prowadzących działalność badawczo-rozwojową, z sektora nowoczesnych usług i zaawansowanych technologii, współpracujących z instytucjami naukowymi oraz zajmujących się gromadzeniem i przetwarzaniem danych. W celu zagospodarowania kadry i terenów stoczniowych i portowych zakłada się również lokowanie inwestycji z branży maszynowej i metalowej. Uwzględniając bezrobocie w gminach oddalonych od dużych ośrodków miejskich, przewiduje się pozyskiwanie inwestorów gwarantujących tworzenie miejsc pracy w branży spożywczej i przetwórstwa tworzyw sztucznych.
+Zgodnie z Koncepcją dla województwa pomorskiego „kryterium sektorów priorytetowych” poszerza się o branżę logistyczną i przetwórstwo spożywcze;
+2) dla województwa kujawsko-pomorskiego – zakłada się pozyskiwanie inwestorów z sektora nowoczesnych usług, branży maszynowej, elektronicznej i przetwórstwa spożywczego oraz gwarantujących tworzenie miejsc pracy w dziedzinach, w których województwo dysponuje dużym potencjałem kadrowym.
+Zgodnie z Koncepcją dla województwa kujawsko-pomorskiego „kryterium sektorów priorytetowych” poszerza się o branżę papierniczą i produkcję wyrobów na rzecz budownictwa;
+3) dla województwa lubelskiego – z uwagi na potencjał regionu zakłada się pozyskiwanie inwestorów z branż i sektorów stwarzających możliwość kooperacji z firmami z branży spożywczej, meblarskiej i metalowej oraz z sektora usług magazynowania i obsługi transportu.
+Zgodnie z Koncepcją dla województwa lubelskiego „kryterium sektorów priorytetowych” poszerza się o przetwórstwo spożywcze i przemysł meblarski;
+4) dla województwa wielkopolskiego – zakłada się pozyskiwanie inwestorów reprezentujących zaawansowane technologie i współpracujących z instytucjami naukowymi oraz, ze względu na położenie strefy przy ważnych szlakach komunikacyjnych, projektów z branży logistycznej i poligraficznej.
+Zgodnie z Koncepcją dla województwa wielkopolskiego „kryterium sektorów priorytetowych” poszerza się o przemysł elektrotechniczny i produkcję części i akcesoriów dla przemysłu;
+5) dla województwa zachodniopomorskiego – zakłada się pozyskiwanie inwestorów z branży metalowej, maszynowej i elektronicznej. Priorytetowym kryterium wsparcia inwestycji w powiatach o stopie bezrobocia przekraczającej 20% będzie liczba tworzonych miejsc pracy.
+Zgodnie z Koncepcją dla województwa zachodniopomorskiego „kryterium sektorów priorytetowych” poszerza się o produkcję wyrobów na rzecz budownictwa oraz o przetwórstwo spożywcze.
+Realizowane działania marketingowo-promocyjne będą zgodne z polityką rozwoju strefy określoną w Koncepcji, a ujęte w niej zasady obejmowania nowych gruntów statusem specjalnej strefy ekonomicznej będą stanowić podstawę do oceny wniosków kierowanych do zarządzającego o włączenie nowych terenów do strefy.
+6.2. Etapy rozwoju PSSE Kształtowanie i rozwój strefy jest przedsięwzięciem długofalowym, prowadzonym do końca funkcjonowania strefy, tj. do dnia 31 grudnia 2026 r. Plan rozwoju ma charakter strategiczny oraz długofalowy i dzieli się na 3 etapy: Etap Okres Główne cele etapu ● rozwój nowych inwestycji na terenie strefy, ● dostosowanie obszarów strefy do potrzeb inwestorów, I 2009–2018 ● kontynuacja rozbudowy infrastruktury technicznej i drogowej oraz realizacja nowych inwestycji w ww. zakresie na terenie poszczególnych podstref, ● rozwój usług na terenie strefy i w jej otoczeniu, ● osiągnięcie pełnego zagospodarowania strefy II 2019–2024 ● stworzenie przedsiębiorcom optymalnych warunków prowadzenia działalności gospodarczej na terenie strefy III 2025–2026 ● przygotowanie warunków do funkcjonowania obszaru przemysłowego po wygaśnięciu regulacji prawnych obowiązujących w okresie funkcjonowania strefy ”.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Rozwoju i Finansów: wz. J. Kwieciński
+

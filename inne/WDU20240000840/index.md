@@ -8,10 +8,10 @@ pos: 840
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 884400 Ministra Infrastruktury z dnia 28 maja 2024 r. (Dz. U. poz. …..) Załącznik nr 1 SZCZEGÓŁOWY SPOSÓB PRZEPROWADZENIA OCENY RYZYKA METODĄ REAKTYWNĄ
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000840) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/840/text.pdf) |
 
-884400 maja 2024 r. (Dz. U. poz. …..) Załącznik nr 1 SZCZEGÓŁOWY SPOSÓB PRZEPROWADZENIA OCENY RYZYKA METODĄ REAKTYWNĄ
 1. Segmentacja Drogi poddawane ocenie ryzyka dzieli się na segmenty, którymi mogą być odcinki dróg lub węzły i skrzyżowania. Czynność ta jest nazywana segmentacją.
 Segmentacji dokonuje się oddzielnie dla:
-1) autostrad i dróg ekspresowych miejskich tj. dróg o klasie A lub S o charakterze miejskim, rozumianym zgodnie z pkt 1.1.1;
-2) autostrad i dróg ekspresowych zamiejskich tj. dróg o klasie A lub S o charakterze zamiejskim, rozumianym zgodnie z pkt 1.1.1;
+1) autostrad i dróg ekspresowych miejskich – tj. dróg o klasie A lub S o charakterze miejskim, rozumianym zgodnie z pkt 1.1.1;
+2) autostrad i dróg ekspresowych zamiejskich – tj. dróg o klasie A lub S o charakterze zamiejskim, rozumianym zgodnie z pkt 1.1.1;
 3) pozostałych dróg o klasach innych niż A i S o dwóch jezdniach, zwanych dalej „dwujezdniowymi”;
 4) pozostałych dróg o klasach innych niż A i S o jednej jezdni, zwanych dalej „jednojezdniowymi”.
 Segmentację przeprowadza się z założeniem uzyskania segmentów o możliwie jednorodnym charakterze z uwzględnieniem poniższych założeń.
@@ -82,7 +81,7 @@ Wyznaczając segmenty na drogach dwujezdniowych i jednojezdniowych, uwzględnia 
 4) natężenie ruchu;
 5) zalecane długości segmentów.
 Dopuszcza się zastosowanie dodatkowo innych kryteriów jednorodności segmentów oraz wartości granicznych dla wszystkich kryteriów stosowanych w segmentacji. Ich określenie oraz ocenę uzasadnienia zastosowania pozostawia się zarządcy drogi.
-Odcinki dróg dwujezdniowych i jednojezdniowych położone w granicach obszaru zabudowanego, zgodnie z art. 2 pkt 15 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, tj. oznakowane znakami pionowymi D-42 „obszar zabudowany” i D-43 „koniec obszaru zabudowanego”, podlegają ocenie ryzyka wyłącznie metodą reaktywną. W związku z tym te odcinki będą stanowiły odrębne segmenty w ramach tej metody. Z uwagi na ich specyficzny charakter, w tym szczególne nagromadzenie czynników wpływających na zmianę uwarunkowań bezpieczeństwa uczestników ruchu, do wyznaczenia tych segmentów stosuje się, oprócz lokalizacji znaków pionowych D-42 i D-43, jedynie kryterium zalecanej długości segmentu i tylko w zakresie długości maksymalnej.
+Odcinki dróg dwujezdniowych i jednojezdniowych położone w granicach obszaru zabudowanego, zgodnie z art. 2 pkt 15 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, tj. oznakowane znakami pionowymi D-42 „obszar zabudowany” i D-43 „koniec obszaru zabudowanego”, podlegają ocenie ryzyka wyłącznie metodą reaktywną. W związku z tym te odcinki będą stanowiły odrębne segmenty w ramach tej metody. Z uwagi na ich specyficzny charakter, w tym szczególne nagromadzenie czynników wpływających na zmianę uwarunkowań bezpieczeństwa uczestników ruchu, do wyznaczenia tych segmentów stosuje się, oprócz lokalizacji znaków pionowych D-42 i D-43, jedynie kryterium zalecanej długości segmentu i tylko w zakresie długości maksymalnej.
 Zarządca drogi może określić dodatkowe kryteria (np. kryterium minimalnej długości), na podstawie których określi zakres odcinków dróg dwujezdniowych i jednojezdniowych w granicach obszaru zabudowanego podlegających ocenie ryzyka metodą reaktywną w formie segmentów oraz zakres odcinków dróg dwujezdniowych i jednojezdniowych w granicach obszaru zabudowanego, które będą podlegały takiej samej ocenie ryzyka jak odcinki dróg dwujezdniowych i jednojezdniowych położone poza granicami obszaru zabudowanego (a więc także ocenie ryzyka metodą proaktywną).
 1.2.1. Lokalizacja węzłów i skrzyżowań Wyjściowym kryterium segmentacji na drogach dwujezdniowych i jednojezdniowych jest lokalizacja węzłów i skrzyżowań.
 W przypadku zastosowania podejścia A do segmentacji:
@@ -113,7 +112,7 @@ W przypadku braku danych dotyczących wypadków drogowych z trzech lat poprzedza
 Wypadki drogowe, do których doszło na niebędących częścią węzła lub skrzyżowania jezdniach, nad lub pod poddawaną ocenie ryzyka autostradą lub drogą ekspresową, lub pozostałą drogą, nie są zaliczane jako wypadki drogowe na drodze poddawanej ocenie ryzyka.
 Wypadki, do których doszło na wjazdach i wyjazdach lub łącznicach węzłów oraz na skrzyżowaniach, są brane pod uwagę w ocenie ryzyka.
 W przypadku krzyżowania się dróg podlegających ocenie ryzyka nie uwzględnia się podwójnie wypadków, które odnotowano na skrzyżowaniu. W przypadku krzyżowania się drogi podlegającej ocenie ryzyka z drogą niepodlegającą ocenie ryzyka należy uwzględniać wypadki odnotowane na ich skrzyżowaniu jako wypadki na drodze podlegającej ocenie ryzyka. Każdy wypadek, także odnotowany na skrzyżowaniu, musi być przyporządkowany tylko do jednej drogi. Przyporządkowania do dróg należy dokonywać zgodnie z danymi źródłowymi.
-W przypadku gdy nie jest to możliwe, wypadki należy przyporządkowywać w pierwszej kolejności do drogi najwyższej kategorii, w przypadku tej samej kategorii do drogi o najwyższej klasie, a w przypadku tej samej klasy do drogi o najniższym numerze.
+W przypadku gdy nie jest to możliwe, wypadki należy przyporządkowywać w pierwszej kolejności do drogi najwyższej kategorii, w przypadku tej samej kategorii – do drogi o najwyższej klasie, a w przypadku tej samej klasy – do drogi o najniższym numerze.
 W przypadku zastosowania podejścia A, jeśli nie jest możliwe stwierdzenie na podstawie danych źródłowych lokalizacji wypadku względem punktu środkowego skrzyżowania lub węzła, wypadek należy przypisać do segmentu o mniejszym kilometrażu.
 2.2. Dane dotyczące natężenia ruchu Dla każdego segmentu na potrzeby przeprowadzenia oceny ryzyka metodą reaktywną określa się wartość średniego dobowego ruchu rocznego (SDRR).
 Jeśli dana droga jest objęta Generalnym Pomiarem Ruchu (GPR), wówczas wykorzystuje się najnowsze dostępne wyniki GPR. Na drogach nieobjętych GPR należy posłużyć się wynikami pomiarów prowadzonych przez zarządcę drogi na podstawie art. 20 pkt 15 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
@@ -146,15 +145,15 @@ Formularz zawiera algorytmy, które dokonują stosownych obliczeń w zakresie gr
 2) średnio bezpiecznej;
 3) bezpiecznej.
 Wynik oceny ryzyka metodą reaktywną dla segmentów, które nie mogą być oceniane przy zastosowaniu tej metody (m.in. ze względu na brak wymaganych danych o wypadkach lub fakt podlegania budowie, w tym rozbudowie, lub przebudowie), określa się jako brak wyniku.
-4. Postępowanie w przypadku braku szczegółowych wymagań W przypadkach nieokreślonych w niniejszym załączniku zarządca drogi, wykonując ocenę ryzyka metodą reaktywną, może przyjąć własne założenia (w tym ujęte w opracowaniu Dyrekcji Generalnej ds. Mobilności i Transportu Komisji Europejskiej pt. Network Wide Road Safety Assessment Methodology and Implementation Handbook) pod warunkiem, że nie są one sprzeczne z postanowieniami rozporządzenia wraz z załącznikami.
+4. Postępowanie w przypadku braku szczegółowych wymagań W przypadkach nieokreślonych w niniejszym załączniku zarządca drogi, wykonując ocenę ryzyka metodą reaktywną, może przyjąć własne założenia (w tym ujęte w opracowaniu Dyrekcji Generalnej ds. Mobilności i Transportu Komisji Europejskiej pt. Network Wide Road Safety Assessment – Methodology and Implementation Handbook) pod warunkiem, że nie są one sprzeczne z postanowieniami rozporządzenia wraz z załącznikami.
 Zarządca drogi przeprowadzający ocenę ryzyka metodą reaktywną może dokonywać modyfikacji formularza obliczeniowego, przy czym nie może dokonywać zmian mających wpływ na algorytmy obliczeniowe.
 
 ## Załącznik nr 2 — SZCZEGÓŁOWY SPOSÓB PRZEPROWADZANIA OCENY RYZYKA METODĄ PROAKTYWNĄ
 
 1. Segmentacja Drogi poddawane ocenie ryzyka dzieli się na segmenty. Czynność ta jest nazywana segmentacją.
 Segmentacji dokonuje się oddzielnie dla:
-1) autostrad i dróg ekspresowych miejskich tj. dróg o klasie A lub S o charakterze miejskim, rozumianym zgodnie z pkt 1.1.1;
-2) autostrad i dróg ekspresowych zamiejskich tj. dróg o klasie A lub S o charakterze zamiejskim, rozumianym zgodnie z pkt 1.1.1;
+1) autostrad i dróg ekspresowych miejskich – tj. dróg o klasie A lub S o charakterze miejskim, rozumianym zgodnie z pkt 1.1.1;
+2) autostrad i dróg ekspresowych zamiejskich – tj. dróg o klasie A lub S o charakterze zamiejskim, rozumianym zgodnie z pkt 1.1.1;
 3) pozostałych dróg o klasach innych niż A i S o dwóch jezdniach, zwanych dalej „drogami dwujezdniowymi”;
 4) pozostałych dróg o klasach innych niż A i S o jednej jezdni, zwanych dalej „drogami jednojezdniowymi”.
 Segmentację przeprowadza się z założeniem uzyskania segmentów o możliwie jednorodnym charakterze z uwzględnieniem poniższych założeń.
@@ -203,7 +202,7 @@ Dopuszcza się tworzenie segmentów o długościach mniejszych lub większych ni
 5) zalecana długość segmentu.
 Dopuszcza się zastosowanie dodatkowo innych kryteriów jednorodności segmentów oraz wartości granicznych dla wszystkich kryteriów stosowanych w segmentacji. Ich określenie oraz ocenę uzasadnienia zastosowania pozostawia się zarządcy drogi.
 W przypadku zastosowania podejścia B wyznacza się segmenty o założonej, względnie stałej długości wynoszącej około 500 metrów bez uwzględnienia kryteriów jednorodności (a więc nie stosuje się założeń określonych w pkt 1.2.1–1.2.5).
-Odcinki dróg dwujezdniowych i jednojezdniowych położone w granicach obszaru zabudowanego, zgodnie z art. 2 pkt 15 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, tj. oznakowane znakami pionowymi D-42 „obszar zabudowany” i D-43 „koniec obszaru zabudowanego”, podlegają ocenie ryzyka wyłącznie metodą reaktywną.
+Odcinki dróg dwujezdniowych i jednojezdniowych położone w granicach obszaru zabudowanego, zgodnie z art. 2 pkt 15 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, tj. oznakowane znakami pionowymi D-42 „obszar zabudowany” i D-43 „koniec obszaru zabudowanego”, podlegają ocenie ryzyka wyłącznie metodą reaktywną.
 Zarządca drogi może określić dodatkowe kryteria (np. kryterium minimalnej długości), na podstawie których określi zakres odcinków dróg dwujezdniowych i jednojezdniowych w granicach obszaru zabudowanego podlegających ocenie ryzyka metodą reaktywną w formie segmentów oraz zakres odcinków dróg dwujezdniowych i jednojezdniowych w granicach obszaru zabudowanego, które będą podlegały takiej samej ocenie ryzyka jak odcinki dróg dwujezdniowych i jednojezdniowych położone poza granicami obszaru zabudowanego (a więc także ocenie ryzyka metodą proaktywną).
 1.2.1. Natężenie ruchu W przypadku istotnej zmiany wartości natężenia ruchu wydziela się odrębny segment. Ocenę zmiany natężenia ruchu pod kątem konieczności wydzielenia segmentu pozostawia się zarządcy drogi.
 1.2.2. Liczba pasów ruchu Segmenty powinny być możliwie jednorodne pod względem liczby pasów ruchu. W przypadku zmiany liczby pasów ruchu należy wydzielić nowy segment. W tym kryterium nie uwzględnia się zmiany liczby pasów na skrzyżowaniu lub pasów włączenia i wyłączenia.
@@ -228,7 +227,7 @@ c) mniejsza niż 3,1 m;
 a) większa lub równa 3,4 m,
 b) mniejsza niż 3,4 m i większa lub równa 3,15 m,
 c) mniejsza niż 3,15 m.
-Średnią szerokość pasów ruchu (ŚSPR) dla segmentu oblicza się według poniższego wzoru: gdzie: Ś𝑆𝑆𝑆𝑆𝑆𝑆 = (∑𝑠𝑠𝑠𝑠 )/𝑁𝑁 N liczba pasów ruchu dla segmentu, sp szerokość pasa ruchu i.
+Średnią szerokość pasów ruchu (ŚSPR) dla segmentu oblicza się według poniższego wzoru: gdzie: Ś𝑆𝑆𝑆𝑆𝑆𝑆 = (∑𝑠𝑠𝑠𝑠 )/𝑁𝑁 N – liczba pasów ruchu dla segmentu, sp – szerokość pasa ruchu i.
 Przy obliczeniach nie bierze się pod uwagę szerokości pasa awaryjnego oraz pasów włączenia i wyłączenia na węźle. Jeżeli szerokość danego pasa ruchu zmienia się w obrębie segmentu, określa się średnią ważoną szerokości pasów ruchu względem długości odcinka. Wynik należy zaokrąglić do 2 miejsc po przecinku.
 Przykład: Na liczącym 4 kilometry segmencie drogi o trzech pasach ruchu szerokość pasów ruchu wynosi: − na odcinku 1 km: 3,50 m, 3,50 m i 3,75 m, − na odcinku 3 km: 3,25 m, 3,50 m, 3,50 m.
 ŚSPR na odcinku 1 km wynosi: (3,50 + 3,50 + 3,75)/3 = 3,583 m.
@@ -236,7 +235,7 @@ Przykład: Na liczącym 4 kilometry segmencie drogi o trzech pasach ruchu szerok
 Średnia ważona wynosi: (3,583 × 1 + 3,417 × 3)/4 = 3,459 m, w zaokrągleniu: 3,46 m.
 2.1.2. Otoczenie drogi Ocena otoczenia drogi dotyczy obszaru znajdującego się za zewnętrzną krawędzią (prawą względem kierunku ruchu) jezdni do najbliższej przeszkody. W ocenie nie uwzględnia się przeszkód o charakterze punktowym.
 Należy zebrać dane dotyczące:
-1) szerokości strefy bez przeszkód (SBP) pomiaru strefy bez przeszkód dokonuje się od końca zewnętrznego pasa ruchu jezdni głównej do najbliższej przeszkody, tj. do strefy bez przeszkód zalicza się pas awaryjny oraz pasy włączenia i wyłączenia;
+1) szerokości strefy bez przeszkód (SBP) – pomiaru strefy bez przeszkód dokonuje się od końca zewnętrznego pasa ruchu jezdni głównej do najbliższej przeszkody, tj. do strefy bez przeszkód zalicza się pas awaryjny oraz pasy włączenia i wyłączenia;
 2) rodzaju przeszkód, przy czym wyróżnia się:
 a) barierę stalową,
 b) barierę betonową,
@@ -249,7 +248,7 @@ Przykład: Przykładowy sposób zapisu danych dla segmentu: Długość Szerokoś
 W pierwszej kolejności dla każdego łuku należy określić, czy jego promień wzdłuż osi drogi jest mniejszy niż odpowiednio 750 metrów dla autostrad i dróg ekspresowych miejskich oraz 1500 metrów dla autostrad i dróg ekspresowych zamiejskich. Następnie dla łuków spełniających ten warunek należy określić promień łuku oraz procentowo długość łuku względem długości segmentu. Jeśli zastosowano krzywą przejściową, to początek łuku zaleca się liczyć od środka tej krzywej.
 2.1.4. Odległości między węzłami Do przeprowadzenia analizy dla tego parametru należy zebrać dane dotyczące odległości pomiędzy nosami kolejnych wjazdów, wyjazdów lub łącznic (w ramach tego samego węzła lub pomiędzy kolejnymi węzłami). W przypadku gdy na danym segmencie odległość jest nie większa niż 1600 metrów (wartość graniczna dla autostrad i dróg ekspresowych zarówno o charakterze miejskim, jak i zamiejskim), należy dokonać pomiaru i odnotować długość każdego takiego odcinka.
 2.1.5. Konflikty z ruchem pieszych i rowerów Dla każdego segmentu należy odnotować, czy występują konflikty z ruchem pieszych i rowerów. Analiza występowania konfliktów z ruchem pieszych i rowerów na autostradach i drogach ekspresowych nie dotyczy parkingów i miejsc obsługi podróżnych, na których taki ruch jest co do zasady dopuszczalny. Za wymagające analizy na autostradach lub drogach ekspresowych należy uznać występowanie ruchu pieszych i rowerów wzdłuż i w poprzek drogi, w tym jezdni głównych oraz łącznic.
-W przypadku łącznic, gdy nie jest możliwe jednoznaczne przypisanie występującego ruchu pieszych i rowerów tylko do jednej z krzyżujących się dróg, należy go przyporządkować w pierwszej kolejności do drogi najwyższej kategorii, w przypadku tej samej kategorii do drogi o najwyższej klasie, a w przypadku tej samej klasy do drogi o najniższym numerze.
+W przypadku łącznic, gdy nie jest możliwe jednoznaczne przypisanie występującego ruchu pieszych i rowerów tylko do jednej z krzyżujących się dróg, należy go przyporządkować w pierwszej kolejności do drogi najwyższej kategorii, w przypadku tej samej kategorii – do drogi o najwyższej klasie, a w przypadku tej samej klasy – do drogi o najniższym numerze.
 Jeżeli odnotowano ruch pieszych lub rowerów, należy wskazać, czy ruch ten w całości jest obsługiwany przez przeznaczoną infrastrukturę, która zapewnia jego całkowite odseparowanie od ruchu drogowego (np. przez zastosowanie mostu lub tunelu dla pieszych lub rowerów).
 2.1.6. Funkcjonowanie systemu zarządzania ruchem lub ITS Dla każdego z segmentów należy określić, czy jest on objęty systemem zarządzania ruchem lub inteligentnym systemem transportowym, np. czy jest objęty usługą informowania uczestników ruchu drogowego o zdarzeniach mających potencjalny wpływ na bezpieczeństwo, takich jak wystąpienie wypadku drogowego, trudnych warunków pogodowych, obecności zwierząt na jezdni, obecności przedmiotów na jezdni, prowadzenia robót drogowych za pomocą znaków zmiennej treści.
 2.2. Drogi dwujezdniowe i jednojezdniowe
@@ -260,12 +259,12 @@ Podobnie jak w przypadku autostrad i dróg ekspresowych, dla celów rachunkowych
 3) mniejsza niż 3,15 m i większa lub równa 2,7 m;
 4) mniejsza niż 2,7 m.
 2.2.2. Otoczenie drogi Analiza tego parametru wymaga zgromadzenia danych dotyczących trzech cech otoczenia drogi dla każdego segmentu:
-1) szerokości strefy bez przeszkód (SBP) pomiaru strefy bez przeszkód dokonuje się od końca zewnętrznego pasa ruchu jezdni głównej do najbliższej przeszkody;
+1) szerokości strefy bez przeszkód (SBP) – pomiaru strefy bez przeszkód dokonuje się od końca zewnętrznego pasa ruchu jezdni głównej do najbliższej przeszkody;
 2) nachylenia i cech otoczenia drogi;
 3) rodzaju przeszkód.
 Na podstawie zebranych danych każdy segment należy przyporządkować do jednej z kategorii współczynnika bezpieczeństwa otoczenia drogi (WBOD). Przyporządkowanie WBOD ma charakter oceny eksperckiej, a kryteria wskazane w tabeli nr 1 należy traktować jako indykatywne.
-Tabela nr 1: Współczynniki bezpieczeństwa otoczenia drogi WBOD WBOD SBP Nachylenie Inne cechy 1 SBP ≥ 9,14 m mniejsze niż 1:4; nie dotyczy w przypadku najechania możliwe są odzyskanie kontroli nad pojazdem lub samodzielny powrót na jezdnię 2 ~3,05 m ≤ SBP ≤ 9,14 m około 1:4; w przypadku nie dotyczy najechania możliwe są odzyskanie kontroli nad pojazdem lub samodzielny powrót na jezdnię 3 SBP ~ 3,05 m około 1:3; w przypadku nierówna powierzchnia (dotyczy również bariery najechania odzyskanie otoczenia drogi energochłonnej kontroli nad pojazdem lub odsuniętej >1,98 m) samodzielny powrót na jezdnię są możliwe w minimalnym stopniu 4 1,52 m ≤ SBP ≤ 3,05 m około 1:3 lub 1:4; może posiadać barierę (dotyczy również bariery w przypadku najechania energochłonną energochłonnej odzyskanie kontroli nad (odległość od 1,52 m do odsuniętej od 1,52 m pojazdem lub samodzielny 1,98 m), mogą do 1,98 m) powrót na jezdnię są występować nieosłonięte możliwe w minimalnym drzewa, słupy, inne stopniu; zwiększone ryzyko obiekty (odległość wystąpienia wypadku ok. 3,05 m) 5 1,52 m ≤ SBP ≤ 3,05 m około 1:3; w przypadku mogą występować (dotyczy również najechania odzyskanie przeszkody twarde lub bariery energochłonnej kontroli nad pojazdem lub skarpa (odległość od odsuniętej <1,52 m) samodzielny powrót na 1,52 m do 1,98 m) jezdnię są praktycznie niemożliwe 6 SBP ≤ 1,52 m około 1:2; w przypadku brak bariery najechania odzyskanie energochłonnej, kontroli nad pojazdem lub nieosłonięte przeszkody samodzielny powrót na twarde (odległość do jezdnię są niemożliwe 1,98 m) 7 SBP ≤ 1,52 m 1:2 lub więcej; w przypadku najechania odzyskanie kontroli nad pojazdem lub samodzielny powrót na jezdnię są niemożliwe;
-wysokie brak bariery energochłonnej, występują klif lub pionowe skały prawdopodobieństwo poważnych obrażeń w razie wypadku W przypadku gdy otoczenie jest różnorodne w ramach jednego segmentu, należy go podzielić na podsegmenty i dla nich określić WBOD. Ogólną wartość WBOD dla segmentu w takim przypadku stanowi średnia ważona WBOD dla podsegmentów pod względem długości podsegmentów w stosunku do długości segmentu.
+Tabela nr 1: Współczynniki bezpieczeństwa otoczenia drogi WBOD WBOD SBP Nachylenie Inne cechy 1 SBP ≥ 9,14 m mniejsze niż 1:4; nie dotyczy w przypadku najechania możliwe są odzyskanie kontroli nad pojazdem lub samodzielny powrót na jezdnię 2 ~3,05 m ≤ SBP ≤ 9,14 m około 1:4; w przypadku nie dotyczy najechania możliwe są odzyskanie kontroli nad pojazdem lub samodzielny powrót na jezdnię 3 SBP ~ 3,05 m około 1:3; w przypadku nierówna powierzchnia (dotyczy również bariery najechania odzyskanie otoczenia drogi energochłonnej kontroli nad pojazdem lub odsuniętej >1,98 m) samodzielny powrót na jezdnię są możliwe w minimalnym stopniu 4 1,52 m ≤ SBP ≤ 3,05 m około 1:3 lub 1:4; może posiadać barierę (dotyczy również bariery w przypadku najechania energochłonną energochłonnej odzyskanie kontroli nad (odległość od 1,52 m do odsuniętej od 1,52 m pojazdem lub samodzielny 1,98 m), mogą do 1,98 m) powrót na jezdnię są występować nieosłonięte możliwe w minimalnym drzewa, słupy, inne stopniu; zwiększone ryzyko obiekty (odległość wystąpienia wypadku ok. 3,05 m) 5 1,52 m ≤ SBP ≤ 3,05 m około 1:3; w przypadku mogą występować (dotyczy również najechania odzyskanie przeszkody twarde lub bariery energochłonnej kontroli nad pojazdem lub skarpa (odległość od odsuniętej <1,52 m) samodzielny powrót na 1,52 m do 1,98 m) jezdnię są praktycznie niemożliwe 6 SBP ≤ 1,52 m około 1:2; w przypadku brak bariery najechania odzyskanie energochłonnej, kontroli nad pojazdem lub nieosłonięte przeszkody samodzielny powrót na twarde (odległość do jezdnię są niemożliwe 1,98 m) 7 SBP ≤ 1,52 m 1:2 lub więcej; w przypadku brak bariery najechania odzyskanie energochłonnej, kontroli nad pojazdem lub występują klif lub samodzielny powrót na pionowe skały jezdnię są niemożliwe;
+wysokie prawdopodobieństwo poważnych obrażeń w razie wypadku W przypadku gdy otoczenie jest różnorodne w ramach jednego segmentu, należy go podzielić na podsegmenty i dla nich określić WBOD. Ogólną wartość WBOD dla segmentu w takim przypadku stanowi średnia ważona WBOD dla podsegmentów pod względem długości podsegmentów w stosunku do długości segmentu.
 W przypadku dróg dwujezdniowych ocena otoczenia drogi dotyczy obszaru znajdującego się za zewnętrzną krawędzią (prawą względem kierunku ruchu) jezdni. W przypadku dróg jednojezdniowych otoczenie ocenia się odrębnie dla strony lewej i prawej drogi.
 Przykład: Na 4-kilometrowym odcinku drogi jednojezdniowej WBOD kształtuje się następująco: − po stronie lewej: o na odcinku 1 km WBOD ocenia się na 1, o na odcinku 2 km WBOD ocenia się na 3, o na odcinku 1 km WBOD ocenia się na 4, − po stronie prawej: o na odcinku 4 km WBOD ocenia się na 5.
 WBOD strony lewej określa się za pomocą średniej ważonej: (1 × 1 + 2 × 3 + 1 × 4)/4 = 2,75.
@@ -277,7 +276,7 @@ Dla zakrętu stanowiącego najostrzejszy łuk należy określić dodatkowo:
 2) czy występują na nim systemy automatycznej kontroli prędkości (stacjonarne urządzenie kontrolujące lub automatyczna kontrola średniej prędkości).
 2.2.4. Gęstość zjazdów Dla każdego z segmentów dróg dwujezdniowych i dróg jednojezdniowych należy określić liczbę zjazdów do nieruchomości (nie skrzyżowania). Oprócz zjazdów należy uwzględnić również faktycznie istniejące i użytkowane punkty, które zostały wyznaczone samowolnie.
 Jeśli nieruchomość posiada osobno jednokierunkowy wjazd i jednokierunkowy wyjazd, to należy je klasyfikować jako jeden. W przypadku dodatkowej jezdni należy uwzględnić faktyczną liczbę miejsc włączeń do jezdni głównej, a nie liczbę obsługiwanych nieruchomości.
-W przypadku dróg jednojezdniowych uwzględnia się zjazdy obustronnie, natomiast w przypadku dróg dwujezdniowych tylko zjazdy funkcjonujące dla danej jezdni.
+W przypadku dróg jednojezdniowych uwzględnia się zjazdy obustronnie, natomiast w przypadku dróg dwujezdniowych – tylko zjazdy funkcjonujące dla danej jezdni.
 2.2.5. Parametry skrzyżowań Dla każdego segmentu należy zebrać informacje na temat występowania skrzyżowań, a dla każdego z nich określić rodzaj oraz długość.
 Na potrzeby zastosowania metody proaktywnej wyróżnia się następujące rodzaje skrzyżowań:
 1) węzeł;
@@ -291,9 +290,9 @@ Na potrzeby zastosowania metody proaktywnej wyróżnia się następujące rodzaj
 9) 4-wlotowe, bez sygnalizacji świetlnej, z dodatkowymi pasami do skrętu;
 10) 4-wlotowe, bez sygnalizacji świetlnej, bez dodatkowych pasów do skrętu.
 Zaleca się określać rzeczywistą długość skrzyżowań. W przypadku gdy jest to niemożliwe, można przyjąć średnią długość dla danego rodzaju skrzyżowania lub długość przybliżoną.
-2.2.6. Konflikty z ruchem pieszych i rowerów Dla każdego segmentu dla dróg dwujezdniowych i jednojezdniowych należy odnotować, czy na danym segmencie (w przypadku dróg jednojezdniowych odrębnie dla strony lewej i strony prawej) występuje ruch pieszych lub rowerów, a jeżeli tak za pomocą jakiej infrastruktury dla pieszych lub rowerów ruch ten jest obsługiwany.
+2.2.6. Konflikty z ruchem pieszych i rowerów Dla każdego segmentu dla dróg dwujezdniowych i jednojezdniowych należy odnotować, czy na danym segmencie (w przypadku dróg jednojezdniowych – odrębnie dla strony lewej i strony prawej) występuje ruch pieszych lub rowerów, a jeżeli tak – za pomocą jakiej infrastruktury dla pieszych lub rowerów ruch ten jest obsługiwany.
 Jeżeli na danym segmencie występuje ruch rowerów wzdłuż drogi, należy odnotować, czy na całej długości występowania ruchu rowerowego jest on obsługiwany za pomocą drogi dla rowerów (lub drogi dla pieszych lub rowerów), pasa ruchu dla rowerów lub pobocza o nawierzchni twardej o szerokości >1 m lub też czy pomimo występowania ruchu rowerów brak przeznaczonej infrastruktury.
-Jeżeli na danym segmencie (w przypadku dróg jednojezdniowych odrębnie dla strony lewej i strony prawej) występuje ruch pieszych wzdłuż drogi, należy odnotować, czy na całej długości występowania ruchu pieszego jest on obsługiwany za pomocą drogi dla pieszych (lub drogi dla pieszych lub rowerów) lub czy pomimo występowania ruchu pieszych brak przeznaczonej infrastruktury.
+Jeżeli na danym segmencie (w przypadku dróg jednojezdniowych – odrębnie dla strony lewej i strony prawej) występuje ruch pieszych wzdłuż drogi, należy odnotować, czy na całej długości występowania ruchu pieszego jest on obsługiwany za pomocą drogi dla pieszych (lub drogi dla pieszych lub rowerów) lub czy pomimo występowania ruchu pieszych brak przeznaczonej infrastruktury.
 Jeżeli na danym segmencie występuje ruch pieszych lub rowerów w poprzek drogi (przekraczanie jezdni), należy odnotować dopuszczalną prędkość oraz liczbę występujących na danym segmencie:
 1) bezkolizyjnych przejść dla pieszych / przejazdów dla rowerów (mosty lub tunele);
 2) przejść dla pieszych / przejazdów dla rowerów z sygnalizacją świetlną i azylem;
@@ -324,15 +323,15 @@ Przez kompletność rozumie się także zgodność z odnośnymi przepisami w spr
 3. Obliczanie wyniku punktowego i przyporządkowanie do właściwej klasy bezpieczeństwa za pomocą formularza obliczeniowego Po wykonaniu segmentacji oraz przygotowaniu danych dotyczących parametrów drogi do przeprowadzenia oceny ryzyka metodą proaktywną zgromadzone dane dotyczące każdego z segmentów (wraz z oznaczeniem segmentu i jego długością określoną w metrach) umieszcza się w formularzu obliczeniowym dla metody proaktywnej.
 Formularz zawiera algorytmy, które dokonują stosownych obliczeń. Następnie na podstawie obliczonego wyniku punktowego przyporządkowują one każdy segment do jednej z trzech klas bezpieczeństwa:
 1) autostrady i drogi ekspresowe:
-a) bezpieczna wynik punktowy większy lub równy 85,
-b) średnio bezpieczna wynik punktowy większy lub równy 65 i mniejszy niż 85,
-c) niebezpieczna wynik punktowy mniejszy niż 65;
+a) bezpieczna – wynik punktowy większy lub równy 85,
+b) średnio bezpieczna – wynik punktowy większy lub równy 65 i mniejszy niż 85,
+c) niebezpieczna – wynik punktowy mniejszy niż 65;
 2) drogi dwujezdniowe i jednojezdniowe:
-a) bezpieczna wynik punktowy większy lub równy 80,
-b) średnio bezpieczna wynik punktowy większy lub równy 50 i mniejszy niż 80,
-c) niebezpieczna wynik punktowy mniejszy niż 50.
+a) bezpieczna – wynik punktowy większy lub równy 80,
+b) średnio bezpieczna – wynik punktowy większy lub równy 50 i mniejszy niż 80,
+c) niebezpieczna – wynik punktowy mniejszy niż 50.
 W przypadku gdy segment został zaliczony do klasy niebezpiecznej, ale pod względem natężenia ruchu segment znajduje się wśród 15 % segmentów o najniższym natężeniu ruchu w obrębie każdego z trzech rodzajów dróg określonych w § 2 pkt 1, § 2 pkt 2 lit. a oraz § 2 pkt 2 lit. b rozporządzenia, klasę bezpieczeństwa segmentu modyfikuje się przez zmianę z klasy niebezpiecznej na klasę średnio bezpieczną.
-4. Postępowanie w przypadku braku szczegółowych wymagań W przypadkach nieokreślonych w niniejszym załączniku zarządca drogi, wykonując ocenę ryzyka metodą proaktywną, może przyjąć własne założenia (w tym ujęte w opracowaniu Dyrekcji Generalnej ds. Mobilności i Transportu Komisji Europejskiej pt. Network Wide Road Safety Assessment Methodology and Implementation Handbook) pod warunkiem, że nie są one sprzeczne z postanowieniami rozporządzenia wraz z załącznikami.
+4. Postępowanie w przypadku braku szczegółowych wymagań W przypadkach nieokreślonych w niniejszym załączniku zarządca drogi, wykonując ocenę ryzyka metodą proaktywną, może przyjąć własne założenia (w tym ujęte w opracowaniu Dyrekcji Generalnej ds. Mobilności i Transportu Komisji Europejskiej pt. Network Wide Road Safety Assessment – Methodology and Implementation Handbook) pod warunkiem, że nie są one sprzeczne z postanowieniami rozporządzenia wraz z załącznikami.
 Zarządca drogi przeprowadzający ocenę ryzyka metodą proaktywną może dokonywać modyfikacji formularza obliczeniowego, przy czym nie może dokonywać zmian mających wpływ na algorytmy obliczeniowe.
 
 ## Załącznik nr 3 — SZCZEGÓŁOWY SPOSÓB SCALENIA WYNIKÓW OCENY RYZYKA METODĄ REAKTYWNĄ I METODĄ PROAKTYWNĄ, OKREŚLENIA WYNIKU OCENY RYZYKA ORAZ ZAWARTOŚĆ I SPOSÓB PREZENTACJI WYNIKÓW OCENY RYZYKA W SPRAWOZDANIU Z OCENY RYZYKA

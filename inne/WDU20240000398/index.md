@@ -8,10 +8,10 @@ pos: 398
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 marca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 339988 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 13 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/398/text.pdf) |
 
-339988 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 13 marca 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 26 czerwca 2002 r. w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2022 r. poz. 299), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 3 października 2023 r. zmieniającym rozporządzenie w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2202).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 3 października 2023 r. zmieniającego rozporządzenie w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 2202), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.”.
 Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 czerwca 2002 r.
-w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 48 ust. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 48 ust. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór legitymacji służbowej i innych dokumentów funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „funkcjonariuszem”;
 2) organy właściwe do wydawania, wymiany, unieważniania oraz dokonywania wpisów w legitymacji służbowej i innych dokumentach funkcjonariusza;
 3) przypadki, w których legitymacja służbowa lub inne dokumenty funkcjonariusza podlegają zwrotowi, wymianie lub unieważnieniu;
 4) tryb postępowania w przypadku utraty legitymacji służbowej lub innych dokumentów funkcjonariusza;
 5) sposób posługiwania się legitymacją lub innymi dokumentami przez funkcjonariusza.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) legitymacja legitymację służbową funkcjonariusza;
-2) książka zdrowia inny dokument funkcjonariusza;
-3) jednostka organizacyjna jednostkę organizacyjną, o której mowa w statucie Agencji Bezpieczeństwa Wewnętrznego.
+1) legitymacja – legitymację służbową funkcjonariusza;
+2) książka zdrowia – inny dokument funkcjonariusza;
+3) jednostka organizacyjna – jednostkę organizacyjną, o której mowa w statucie Agencji Bezpieczeństwa Wewnętrznego.
 § 3. Funkcjonariusz na czas pełnienia służby w Agencji Bezpieczeństwa Wewnętrznego, bezpośrednio po mianowaniu, otrzymuje:
 1) legitymację;
 2) książkę zdrowia.
@@ -81,11 +81,11 @@ w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Age
 § 16. 1. Legitymacje wydane funkcjonariuszom Urzędu Ochrony Państwa tracą ważność i podlegają zwrotowi organowi, o którym mowa w § 4 ust. 1.
 2. Książki zdrowia wydane funkcjonariuszom Urzędu Ochrony Państwa, do czasu zastąpienia ich nowymi, zachowują ważność. Obowiązujące dotychczas druki książek zdrowia wykorzystuje się do wyczerpania ich zapasów.
 § 17. Rozporządzenie wchodzi w życie z dniem 29 czerwca 2002 r.
-WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO I. OKŁADKA LEGITYMACJI Okładka wykonana ze skóry w kolorze czarnym ze srebrnymi tłoczeniami:
+WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA WZÓR AGENCJI LEGITYMACJI BEZPIECZEŃSTWA SŁUŻBOWEJ WEWNĘTRZNEGO FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO I. OKŁADKA LEGITYMACJI Okładka wykonana ze skóry w kolorze czarnym ze srebrnymi tłoczeniami:
 1. „RZECZPOSPOLITA POLSKA”.
 2. Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej.
 3. „AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO”.
-WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO II. CZĘŚĆ WEWNĘTRZNA LEGITYMACJI Legitymacja o wymiarach 70 × 184 mm wykonana na papierze z bieżącym znakiem wodnym, zalaminowana obustronnie folią zabezpieczającą.
+II. CZĘŚĆ WEWNĘTRZNA LEGITYMACJI Legitymacja o wymiarach 70 × 184 mm wykonana na papierze z bieżącym znakiem wodnym, zalaminowana obustronnie folią zabezpieczającą.
 AWERS
 1. Tło giloszowe wykonane w technice druku irysowego z elementami mikrodruków.
 2. Elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym.
@@ -111,5 +111,5 @@ REWERS
 2. Czarny napis: „W przypadku znalezienia tej legitymacji należy niezwłocznie dostarczyć ją do najbliższej jednostki Policji lub Agencji Bezpieczeństwa Wewnętrznego.
 Nieuprawnione posługiwanie się legitymacją podlega odpowiedzialności karnej.”.
 III. FOLIA ZABEZPIECZAJĄCA Folia zawiera elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym.
-K S Ą Ż AK Z D R O W A GA N A Ń W A W W N N OG K S Ą Ż AK Z D R O W A W W W K S Ą Ż AK Z D R O W A GA N A Ń W A W W N N OG K S Ą Ż AK Z D R O W A W W W K Ą AK D O W A m m aróG azrakel aktązceip i ainadab sipdoP ataD 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 awel anorts awarp anorts 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 eineibęzU enzcigolotamots einadaB {{ amohcur azetorp , { )tsom( ałats azetorp ,W eineinłepyw ,K anorok ,F akotezrp ,gZ igzaim lezrogz ,P acinhcórp ,V ńezrok ,ZZ ynamyzrtaz bąz ,B abęz karb :ENWOMU IKANZ łóD aróG łóD aróG łóD aróG łóD aróG łóD azotnedarap ,ynbęzan ainadab ńeimak( ataD aibęzyzrP )III ,II ,I .pots azrakel aktązceip i ewokęzczsdop akwózulŚ ałsąizD sipdoP ennołhc yłzęW enzcigolotamots einezceL azrakel aktązceip i sipdoP ainezsołgz ogenpętsan ataD comop anoleizdU einanzopzoR ataD m W W W Orzeczenia komisji lekarskich Data Nazwa KL Orzeczenie komisji m m U W GA
+A A W W A A OG W W Ń OG Ń O O N R R N D D Z Z AK AK N N W A W Ż A Ż W Ą Ą W N N S S K GA GA K W W W W W W A A W W O O R R D D Z Z AK AK Ż Ż Ą Ą S S K K m m A W O D AK Ą K )III ,II ,I .pots azrakel azotnedarap aktązceip i ewokęzczsdop akwózulŚ ałsąizD ,ynbęzan ainadab sipdoP ennołhc yłzęW ńeimak( ataD aibęzyzrP {{ – amohcur azetorp , { – )tsom( ałats azetorp ,W – eineinłepyw ,K – anorok ,F – akotezrp ,gZ – igzaim lezrogz ,P – acinhcórp ,V – ńezrok ,ZZ – ynamyzrtaz bąz ,B – abęz karb :ENWOMU IKANZ łóD aróG łóD aróG łóD aróG łóD aróG łóD aróG azrakel aktązceip i ainadab sipdoP ataD 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 awel anorts awarp anorts 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 eineibęzU enzcigolotamots einadaB azrakel ainezsołgz aktązceip i ogenpętsan comop anoleizdU einanzopzoR ataD sipdoP ataD enzcigolotamots einezceL m W W W Orzeczenia komisji lekarskich Nazwa Data KL Orzeczenie komisji m m GA W U
 

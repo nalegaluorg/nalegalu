@@ -8,7 +8,7 @@ pos: 2768
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach służących zachowaniu ważności niektórych orzeczeń o niepełnosprawności oraz orzeczeń o stopniu niepełnosprawności
@@ -44,6 +44,10 @@ source: "isap-pdf"
 2. Postępowanie w sprawie zmiany decyzji przyznającej prawo do świadczeń, o których mowa w ust. 1, wszczyna się z urzędu. Przepisów art. 10 i art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) nie stosuje się.
 
 **Art. 5.** W ustawie z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852 i 1429) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 23;
+- **2)** w art. 24 uchyla się ust. 1;
+- **3)** uchyla się art. 25 i art. 26.
 
 **Art. 6.** Ustawa wchodzi w życie z dniem 30 grudnia 2023 r.
 

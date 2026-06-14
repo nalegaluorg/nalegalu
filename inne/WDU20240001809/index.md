@@ -8,10 +8,10 @@ pos: 1809
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1809 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001809) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1809/text.pdf) |
 
-Poz. 1809 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 grudnia 2024 r.
-w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858, 1222, 1593 i 1615) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia z dnia 4 września 2020 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1548, z późn. zm. ) w § 2 ust. 4 otrzymuje brzmienie: „4. W przypadku gdy okres rozliczeniowy przedłużony po raz kolejny na podstawie ust. 2 upłynął i środki wynikające z wypłaty świadczeniodawcy należności ustalonych jako iloczyn odwrotności liczby okresów sprawozdawczych w okresie rozliczeniowym i kwoty zobowiązania dla danego zakresu świadczeń nie zostały rozliczone, dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia, na wniosek świadczeniodawcy, może rozliczyć te środki w następnych okresach rozliczeniowych umowy, o której mowa w ust. 1, lub w ramach kolejnych umów zawartych przez danego świadczeniodawcę, nie później niż do dnia 31 grudnia 2025 r.”.
+w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858, 1222, 1593 i 1615) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 4 września 2020 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1548, z późn. zm. ) w § 2 ust. 4 otrzymuje brzmienie: „4. W przypadku gdy okres rozliczeniowy przedłużony po raz kolejny na podstawie ust. 2 upłynął i środki wynikające z wypłaty świadczeniodawcy należności ustalonych jako iloczyn odwrotności liczby okresów sprawozdawczych w okresie rozliczeniowym i kwoty zobowiązania dla danego zakresu świadczeń nie zostały rozliczone, dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia, na wniosek świadczeniodawcy, może rozliczyć te środki w następnych okresach rozliczeniowych umowy, o której mowa w ust. 1, lub w ramach kolejnych umów zawartych przez danego świadczeniodawcę, nie później niż do dnia 31 grudnia 2025 r.”.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: wz. W. Konieczny
 

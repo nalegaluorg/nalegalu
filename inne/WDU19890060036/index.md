@@ -8,7 +8,7 @@ pos: 36
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Wyższej Szkole Pedagogicznej w Zielonej Górze nadaje się nazwę ,„„Wyższa Szkoła Pedagogiczna imienia Tadeusza Kotarbińskiego w Zielonej Górze”.

@@ -8,7 +8,7 @@ pos: 135
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Akademii Medycznej im. Karola Marcinkowskiego w Poznaniu nazwy „Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu”

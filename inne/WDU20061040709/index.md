@@ -8,7 +8,7 @@ pos: 709
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
@@ -39,7 +39,11 @@ source: "isap-pdf"
 
 2. Szef SKW oraz Szef SWW podlegają Ministrowi Obrony Narodowej, z zastrzeżeniem określonych w ustawie uprawnień Prezesa Rady Ministrów lub Ministra Koordynatora Służb Specjalnych, w przypadku jego powołania.
 
-3. Działalność Szefa SKW oraz Szefa SWW podlega kontroli Sejmu. Wojskowego oraz ich skróty: „SKW” i „SWW” przysługują wyłącznie Służbom, o których mowa w art. 1 i 2.
+3. Działalność Szefa SKW oraz Szefa SWW podlega kontroli Sejmu.
+
+**Art. 4.**
+
+1. Nazwy: Służba Kontrwywiadu Wojskowego i Służba Wywiadu Wojskowego oraz ich skróty: „SKW” i „SWW” przysługują wyłącznie Służbom, o których mowa w art. 1 i 2.
 
 2. Ilekroć w ustawie jest mowa o:
 
@@ -56,7 +60,7 @@ source: "isap-pdf"
     - **b)** przeciwko Rzeczypospolitej Polskiej określonych w rozdziale XVII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oraz takich czynów skierowanych przeciwko państwom obcym, które zapewniają wzajemność,
     - **c)** określonych w art. 140 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
     - **d)** określonych w art. 228–230 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, jeżeli mogą one zagrażać bezpieczeństwu lub zdolności bojowej SZ RP lub innych jednostek organizacyjnych MON,
-    - **e)** przeciwko ochronie informacji określonych w rozdziale XXXIII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, jeżeli mogą one zagrażać bezpieczeństwu lub zdolności bojowej SZ RP lub innych jednostek państwom obcym, które zapewniają wzajemność,
+    - **e)** przeciwko ochronie informacji określonych w rozdziale XXXIII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, jeżeli mogą one zagrażać bezpieczeństwu lub zdolności bojowej SZ RP lub innych jednostek organizacyjnych MON, a także takich czynów skierowanych przeciwko państwom obcym, które zapewniają wzajemność,
     - **f)** określonych w art. 33 ust. 1, 2 i 3 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582),
     - **g)** innych niż określone w lit. a–f, godzących w bezpieczeństwo potencjału obronnego państwa, SZ RP oraz jednostek organizacyjnych MON, a także państw, które zapewniają wzajemność,
     - **h)** określonych w art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1 i art. 239 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, jeżeli dotyczą przestępstw, o których mowa w lit. a–g, jak również ujawnianie mienia zagrożonego przepadkiem w związku z tymi przestępstwami;
@@ -67,7 +71,8 @@ source: "isap-pdf"
 - **4)** uzyskiwanie, gromadzenie, analizowanie, przetwarzanie i przekazywanie właściwym organom informacji mogących mieć znaczenie dla obronności państwa, bezpieczeństwa lub zdolności bojowej SZ RP lub innych jednostek organizacyjnych MON, w zakresie określonym w pkt 1, oraz podejmowanie działań w celu eliminowania ustalonych zagrożeń;
 - **5)** prowadzenie kontrwywiadu radioelektronicznego oraz przedsięwzięć z zakresu ochrony kryptograficznej i kryptoanalizy;
 - **6)** uczestniczenie w planowaniu i przeprowadzaniu kontroli realizacji umów międzynarodowych dotyczących rozbrojenia;
-- **7)** ochrona bezpieczeństwa jednostek wojskowych, innych jednostek organizacyjnych MON oraz żołnierzy wykonujących zadania służbowe poza granicami państwa; SZ RP i inne jednostki organizacyjne MON oraz produkcji i obrotu towarami, technologiami i usługami o przeznaczeniu wojskowym zamówionymi przez SZ RP i inne jednostki organizacyjne MON, w zakresie określonym w pkt 1;
+- **7)** ochrona bezpieczeństwa jednostek wojskowych, innych jednostek organizacyjnych MON oraz żołnierzy wykonujących zadania służbowe poza granicami państwa;
+- **8)** ochrona bezpieczeństwa badań naukowych i prac rozwojowych zleconych przez SZ RP i inne jednostki organizacyjne MON oraz produkcji i obrotu towarami, technologiami i usługami o przeznaczeniu wojskowym zamówionymi przez SZ RP i inne jednostki organizacyjne MON, w zakresie określonym w pkt 1;
 - **9)** podejmowanie działań, przewidzianych dla SKW, w innych ustawach, a także umowach międzynarodowych, którymi Rzeczpospolita Polska jest związana.
 
 2. Zadania SKW obejmują również rozpoznawanie oraz wykrywanie przestępstw, o których mowa w ust. 1, popełnionych we współdziałaniu z żołnierzami pełniącymi czynną służbę wojskową, funkcjonariuszami SKW i SWW lub pracownikami SZ RP i innych jednostek organizacyjnych MON.
@@ -89,7 +94,8 @@ source: "isap-pdf"
 
 - **3)** rozpoznawanie międzynarodowego obrotu bronią, amunicją i materiałami wybuchowymi oraz towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także rozpoznawanie międzynarodowego obrotu bronią masowej zagłady i zagrożeń związanych z rozprzestrzenianiem tej broni oraz środków jej przenoszenia;
 - **3a)** rozpoznawanie, przeciwdziałanie i zapobieganie zdarzeniom o charakterze terrorystycznym wymierzonym przeciwko personelowi i mieniu SZ RP poza granicami państwa oraz zwalczanie skutków takich zdarzeń;
-- **4)** rozpoznawanie i analizowanie zagrożeń występujących w rejonach napięć, konfliktów i kryzysów międzynarodowych, mających wpływ na obronność państwa oraz zdolność bojową SZ RP, a także podejmowanie działań mających na celu eliminowanie tych zagrożeń; z zakresu kryptoanalizy i kryptografii;
+- **4)** rozpoznawanie i analizowanie zagrożeń występujących w rejonach napięć, konfliktów i kryzysów międzynarodowych, mających wpływ na obronność państwa oraz zdolność bojową SZ RP, a także podejmowanie działań mających na celu eliminowanie tych zagrożeń;
+- **5)** prowadzenie wywiadu elektronicznego na rzecz SZ RP oraz przedsięwzięć z zakresu kryptoanalizy i kryptografii;
 - **6)** współdziałanie w organizowaniu polskich przedstawicielstw wojskowych za granicą;
 - **7)** uczestniczenie w planowaniu i przeprowadzaniu kontroli realizacji umów międzynarodowych dotyczących rozbrojenia;
 - **8)** podejmowanie innych działań przewidzianych dla SWW w odrębnych ustawach, a także umowach międzynarodowych, którymi Rzeczpospolita Polska jest związana.
@@ -110,7 +116,7 @@ source: "isap-pdf"
 
 5. Plany i sprawozdania, o których mowa w ust. 2 i 3, zatwierdza Minister Obrony Narodowej.
 
-6. Minister Obrony Narodowej przekazuje niezwłocznie Prezydentowi Rzeczypospolitej Polskiej wytyczne, o których mowa w ust. 1, oraz zatwierdzone w ust. 4.
+6. Minister Obrony Narodowej przekazuje niezwłocznie Prezydentowi Rzeczypospolitej Polskiej wytyczne, o których mowa w ust. 1, oraz zatwierdzone plany i sprawozdania, o których mowa w ust. 2 i 3, wraz z opiniami, o których mowa w ust. 4.
 
 **Art. 8.** Minister Obrony Narodowej określi, w drodze zarządzenia niepodlegającego ogłoszeniu, formy i tryb współdziałania SKW i SWW.
 
@@ -133,7 +139,8 @@ source: "isap-pdf"
 1. SKW i SWW przy realizacji swoich zadań współdziałają:
 
 - **1)** z Szefem Sztabu Generalnego Wojska Polskiego, komórkami organizacyjnymi Ministerstwa Obrony Narodowej oraz dowódcami rodzajów Sił Zbrojnych, Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni, Szefem Inspektoratu Wsparcia Sił Zbrojnych, dowódcami garnizonów wojskowych i jednostek wojskowych;
-- **2)** odpowiednimi organami, służbami i instytucjami podległymi ministrowi właściwemu do spraw wewnętrznych; właściwemu do spraw finansów publicznych;
+- **2)** odpowiednimi organami, służbami i instytucjami podległymi ministrowi właściwemu do spraw wewnętrznych;
+- **3)** odpowiednimi organami i jednostkami organizacyjnymi podległymi ministrowi właściwemu do spraw finansów publicznych;
 - **4)** odpowiednimi organami, służbami i instytucjami podległymi ministrowi właściwemu do spraw zagranicznych;
 - **5)** innymi organami, służbami i instytucjami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych.
 
@@ -147,7 +154,7 @@ source: "isap-pdf"
 
 2. Minister Obrony Narodowej określi, w drodze zarządzenia niepodlegającego ogłoszeniu, zakres i tryb współdziałania SKW i SWW z Szefem Sztabu Generalnego Wojska Polskiego, komórkami organizacyjnymi Ministerstwa Obrony Narodowej oraz dowódcami rodzajów Sił Zbrojnych, Dowódcą Wojsk Obrony Terytorialnej, Dowódcą Komponentu Wojsk Obrony Cyberprzestrzeni, Szefem Inspektoratu Wsparcia Sił Zbrojnych, dowódcami garnizonów wojskowych i jednostek wojskowych.
 
-2a. Minister Obrony Narodowej określi, w drodze zarządzenia niepodlegającego ogłoszeniu, odrębnie dla zespołów, o których mowa w ust. 1a i 1c, sposób i tryb ich pododdziałach SZ RP do składu takich zespołów.
+2a. Minister Obrony Narodowej określi, w drodze zarządzenia niepodlegającego ogłoszeniu, odrębnie dla zespołów, o których mowa w ust. 1a i 1c, sposób i tryb ich tworzenia oraz wyznaczania żołnierzy pełniących służbę w oddziałach lub pododdziałach SZ RP do składu takich zespołów.
 
 3. Minister Obrony Narodowej i minister właściwy do spraw zagranicznych określą, w drodze zarządzenia niepodlegającego ogłoszeniu, formy i tryb współdziałania SKW i SWW z organami, służbami i instytucjami podległymi ministrowi właściwemu do spraw zagranicznych, uwzględniając właściwość tych organów, służb i instytucji.
 
@@ -165,9 +172,16 @@ source: "isap-pdf"
 
 1. Organy administracji rządowej, organy samorządu terytorialnego, instytucje państwowe oraz przedsiębiorcy prowadzący działalność w zakresie użyteczności publicznej są obowiązani, w zakresie swojego działania, do współdziałania z SKW i SWW, a w szczególności do udzielania pomocy w realizacji zadań SKW i SWW.
 
-2. Przedsiębiorcy, instytucje oraz inne organizacje realizujące umowy z jednostkami organizacyjnymi MON, w zakresie badań naukowych i prac rozwojowych oraz produkcji i obrotu towarami, technologiami i usługami o przeznaczeniu wojskowym są obowiązane, w zakresie realizowanych umów, do chronionym interesem.
+2. Przedsiębiorcy, instytucje oraz inne organizacje realizujące umowy z jednostkami organizacyjnymi MON, w zakresie badań naukowych i prac rozwojowych oraz produkcji i obrotu towarami, technologiami i usługami o przeznaczeniu wojskowym są obowiązane, w zakresie realizowanych umów, do współdziałania z SKW i SWW, jeżeli nie stoi to w sprzeczności z ich prawnie chronionym interesem.
 
 **Art. 12a.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), nie stosuje się:
+
+- **1)** w sprawach dotyczących przyjęcia do służby albo pracy w SKW i SWW;
+- **2)** w sprawach wynikających ze stosunku służbowego funkcjonariuszy SKW i SWW oraz żołnierzy zawodowych wyznaczonych na stanowiska służbowe w SKW i SWW;
+- **3)** w sprawach wynikających ze stosunku pracy pracowników SKW i SWW;
+- **4)** w sprawach wynikających ze stosunku służbowego byłych funkcjonariuszy SKW i SWW oraz byłych żołnierzy zawodowych wyznaczonych na stanowiska służbowe w SKW i SWW;
+- **5)** w sprawach wynikających ze stosunku pracy byłych pracowników SKW oraz SWW;
+- **6)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby wpłynąć negatywnie na sposób realizacji zadań SKW lub SWW.
 
 #### Rozdział 2 Organizacja Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
@@ -179,11 +193,20 @@ source: "isap-pdf"
 
 3. Minister Obrony Narodowej, na wniosek Szefa właściwej służby, powołuje i odwołuje zastępców Szefa SKW i Szefa SWW, po zasięgnięciu opinii Sejmowej Komisji do Spraw Służb Specjalnych.
 
-**Art. 14.** W stosunku do żołnierzy zawodowych wyznaczonych na stanowiska Szefa SKW, Szefa SWW lub ich zastępców nie stosuje się przepisów ustawy z dnia z 2026 r. poz. 26), w zakresie przepisów określających zasady i tryb wyznaczania oraz zwalniania ze stanowisk służbowych.
+**Art. 14.** W stosunku do żołnierzy zawodowych wyznaczonych na stanowiska Szefa SKW, Szefa SWW lub ich zastępców nie stosuje się przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26), w zakresie przepisów określających zasady i tryb wyznaczania oraz zwalniania ze stanowisk służbowych.
 
 **Art. 15.** Powołanie na stanowisko Szefa SKW, Szefa SWW lub ich zastępców osoby niebędącej żołnierzem zawodowym albo funkcjonariuszem SKW albo SWW, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania, w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
 
 **Art. 16.** Szefem SKW i Szefem SWW może zostać osoba, która:
+
+- **1)** posiada wyłącznie obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** wykazuje nieskazitelną postawę moralną, obywatelską i patriotyczną;
+- **4)** daje rękojmię należytego wykonywania zadań;
+- **5)** spełnia wymagania określone w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych w zakresie dostępu do informacji niejawnych o klauzuli tajności „ściśle tajne”;
+- **6)** posiada wyższe wykształcenie;
+- **7)** nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102);
+- **8)** nie została skazana prawomocnym wyrokiem sądu dyscyplinarnego za czyn, o którym mowa w art. 1 ust. 1 lub 3 ustawy z dnia 3 grudnia 1998 r. o odpowiedzialności dyscyplinarnej sędziów, którzy w latach 1944–1989 sprzeniewierzyli się niezawisłości sędziowskiej (Dz. U. z 1999 r. poz. 1 oraz z 2001 r. poz. 1070).
 
 **Art. 17.**
 
@@ -192,7 +215,9 @@ source: "isap-pdf"
 - **1)** rezygnacji z zajmowanego stanowiska;
 - **2)** zrzeczenia się obywatelstwa polskiego lub nabycia obywatelstwa innego państwa;
 - **3)** skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe;
-- **4)** utraty predyspozycji niezbędnych do zajmowania stanowiska. nastąpić w przypadku niewykonywania obowiązków z powodu choroby trwającej nieprzerwanie ponad 3 miesiące.
+- **4)** utraty predyspozycji niezbędnych do zajmowania stanowiska.
+
+2. Odwołanie Szefa SKW albo Szefa SWW z zajmowanego stanowiska może nastąpić w przypadku niewykonywania obowiązków z powodu choroby trwającej nieprzerwanie ponad 3 miesiące.
 
 **Art. 18.** W przypadku zwolnienia stanowiska Szefa SKW albo Szefa SWW lub czasowej niemożności sprawowania przez niego funkcji, Prezes Rady Ministrów może powierzyć pełnienie obowiązków Szefa, na czas niedłuższy niż 3 miesiące, jego zastępcy lub, na wniosek Ministra Obrony Narodowej, innej osobie.
 
@@ -216,7 +241,7 @@ source: "isap-pdf"
 
 1. Minister Obrony Narodowej, po uzyskaniu zgody Prezesa Rady Ministrów, nadaje, w drodze zarządzeń, odrębnie dla SKW i SWW statut, który określa ich organizację wewnętrzną.
 
-2. Szefowie SKW i SWW, po uzyskaniu zgody Ministra Obrony Narodowej, w drodze zarządzeń, każdy w zakresie swojej właściwości, nadają regulaminy strukturę wewnętrzną i szczegółowe zadania.
+2. Szefowie SKW i SWW, po uzyskaniu zgody Ministra Obrony Narodowej, w drodze zarządzeń, każdy w zakresie swojej właściwości, nadają regulaminy organizacyjne jednostkom organizacyjnym każdej ze służb, w których określają ich strukturę wewnętrzną i szczegółowe zadania.
 
 3. Szefowie SKW i SWW, w drodze zarządzeń, każdy w zakresie swojej właściwości, tworzą, przekształcają i likwidują ośrodki szkolenia służb, określając ich strukturę, zadania oraz zasady funkcjonowania w zakresie nieobjętym innymi przepisami.
 
@@ -238,13 +263,20 @@ source: "isap-pdf"
 
 2. Pracownicy SKW i SWW mogą korzystać z kwatery internatowej albo miejsca w internacie. Przepisy art. 62 ust. 4–7 i 12 oraz art. 62a ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2025 r. poz. 694, 718 i 1366) stosuje się odpowiednio.
 
-#### Rozdział 3 Uprawnienia funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz żołnierzy zawodowych wyznaczonych na Wojskowego
+#### Rozdział 3 Uprawnienia funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego
 
 **Art. 24.** Żołnierze zawodowi wyznaczeni na stanowiska służbowe w SKW albo SWW posiadają uprawnienia i podlegają obowiązkom określonym w niniejszym rozdziale odpowiednio dla funkcjonariuszy SKW albo SWW.
 
 **Art. 25.** W granicach zadań, o których mowa w art. 5, funkcjonariusze SKW wykonują czynności:
 
+- **1)** operacyjno-rozpoznawcze;
+- **2)** analityczno-informacyjne;
+- **3)** wynikające z przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
+
 **Art. 26.** W granicach zadań, o których mowa w art. 6 ust. 1, funkcjonariusze SWW wykonują czynności:
+
+- **1)** operacyjno-rozpoznawcze;
+- **2)** analityczno-informacyjne.
 
 **Art. 27.**
 
@@ -254,7 +286,9 @@ source: "isap-pdf"
 
 3. Jeżeli informacje i materiały uzyskane przez SKW albo SWW wskazują na uzasadnione podejrzenie popełnienia przestępstwa lub przestępstwa skarbowego albo potwierdzają jego popełnienie, SKW albo SWW przedstawia je właściwemu prokuratorowi, w celu podjęcia decyzji w zakresie ich dalszego procesowego wykorzystania.
 
-4. Jeżeli informacje i materiały uzyskane przez SKW albo SWW dostatecznie uzasadniają podejrzenie popełnienia wykroczenia lub wykroczenia skarbowego albo potwierdzają jego popełnienie, SKW albo SWW zawiadamia organ właściwy dla ścigania sprawcy. okoliczności wskazujące na to, że sprawa będąca przedmiotem tych czynności nie pozostaje w kompetencji SKW albo SWW, Szef właściwej służby może podjąć decyzję o jej kontynuowaniu, jeżeli jest to uzasadnione bezpieczeństwem państwa.
+4. Jeżeli informacje i materiały uzyskane przez SKW albo SWW dostatecznie uzasadniają podejrzenie popełnienia wykroczenia lub wykroczenia skarbowego albo potwierdzają jego popełnienie, SKW albo SWW zawiadamia organ właściwy dla ścigania sprawcy.
+
+5. Jeżeli w toku realizacji czynności operacyjno-rozpoznawczych ujawnią się okoliczności wskazujące na to, że sprawa będąca przedmiotem tych czynności nie pozostaje w kompetencji SKW albo SWW, Szef właściwej służby może podjąć decyzję o jej kontynuowaniu, jeżeli jest to uzasadnione bezpieczeństwem państwa.
 
 6. Szef SKW albo Szef SWW podejmuje decyzję, o której mowa w ust. 5, za zgodą Prezesa Rady Ministrów, z zastrzeżeniem ust. 7. Wniosek w tej sprawie Szef SKW albo Szef SWW przedstawia za pośrednictwem Ministra Obrony Narodowej, powiadamiając Prezydenta Rzeczypospolitej Polskiej.
 
@@ -276,7 +310,7 @@ source: "isap-pdf"
 - **1)** ujawnił wszelkie okoliczności popełnionego czynu lub prowadzonej działalności;
 - **2)** zobowiązał się do podjęcia tajnej współpracy z SKW.
 
-2a. Szef SKW może odstąpić od obowiązku, o którym mowa w ust. 1, także w przypadku sprawcy przestępstwa, o którym mowa w art. 130 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, gdy wywiad państwa sojuszniczego, w którego działalności brał on udział, ujawni okoliczności popełnionego czynu lub prowadzonej działalności, zobowiązując się do dalszego jej prowadzenia w ramach tajnej ten wywiad czynności, uzyskując zgodę następczą na zasadach określonych w art. 9a.
+2a. Szef SKW może odstąpić od obowiązku, o którym mowa w ust. 1, także w przypadku sprawcy przestępstwa, o którym mowa w art. 130 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, gdy wywiad państwa sojuszniczego, w którego działalności brał on udział, ujawni okoliczności popełnionego czynu lub prowadzonej działalności, zobowiązując się do dalszego jej prowadzenia w ramach tajnej współpracy z SKW lub do bieżącego informowania o zakresie prowadzonych przez ten wywiad czynności, uzyskując zgodę następczą na zasadach określonych w art. 9a.
 
 3. Szef SKW może odstąpić od obowiązku, o którym mowa w ust. 1, po zasięgnięciu opinii Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego oraz Ministra Koordynatora Służb Specjalnych, jeżeli został powołany.
 
@@ -297,7 +331,9 @@ source: "isap-pdf"
 9. Szef SKW cofa ochronę lub pomoc w przypadku:
 
 - **1)** umyślnego naruszania przez osobę objętą ochroną lub pomocą, o których mowa w ust. 8, zasad albo zaleceń w zakresie tej ochrony lub pomocy;
-- **2)** zaistnienia co najmniej jednej z okoliczności, o których mowa w ust. 5–7. w ust. 9, sprawca przestępstwa szpiegostwa lub podejrzewany o przestępstwa o charakterze terrorystycznym jest obowiązany do zwrotu Szefowi SKW równowartości świadczeń otrzymanych w ramach pomocy, a także do zwrotu dokumentów określonych w art. 39 ust. 3, jeżeli zostały mu wydane. Przepis stosuje się odpowiednio do osób chronionych, o których mowa w ust. 8.
+- **2)** zaistnienia co najmniej jednej z okoliczności, o których mowa w ust. 5–7.
+
+10. W razie cofnięcia ochrony lub pomocy w przypadkach, o których mowa w ust. 9, sprawca przestępstwa szpiegostwa lub podejrzewany o przestępstwa o charakterze terrorystycznym jest obowiązany do zwrotu Szefowi SKW równowartości świadczeń otrzymanych w ramach pomocy, a także do zwrotu dokumentów określonych w art. 39 ust. 3, jeżeli zostały mu wydane. Przepis stosuje się odpowiednio do osób chronionych, o których mowa w ust. 8.
 
 **Art. 28.**
 
@@ -318,7 +354,7 @@ source: "isap-pdf"
 
 **Art. 29.**
 
-1. Funkcjonariusze SKW, wykonując czynności służące realizacji zadań, o których mowa w art. 5, mają prawo obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku -rozpoznawczych podejmowanych na podstawie ustawy.
+1. Funkcjonariusze SKW, wykonując czynności służące realizacji zadań, o których mowa w art. 5, mają prawo obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom w trakcie wykonywania czynności operacyjno-rozpoznawczych podejmowanych na podstawie ustawy.
 
 2. Na sposób przeprowadzenia czynności, o których mowa w ust. 1, w terminie 7 dni od dnia gdy podmiot dowiedział się o dokonanych wobec niego czynnościach – przysługuje zażalenie do prokuratora właściwego ze względu na miejsce przeprowadzenia czynności. Do zażalenia stosuje się przepisy postępowania karnego w zakresie dotyczącym postępowania odwoławczego.
 
@@ -340,7 +376,7 @@ source: "isap-pdf"
 
 **Art. 30a.**
 
-1. W przypadkach, o których mowa w art. 11 pkt 1–3, 5, 6, 8–10, 12, 13 i 15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a i b, pkt 7, 9, pkt 12 lit. a, pkt 13, 18 i 21 tej ustawy, lub wykorzystać te środki.
+1. W przypadkach, o których mowa w art. 11 pkt 1–3, 5, 6, 8–10, 12, 13 i 15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz SWW może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a i b, pkt 7, 9, pkt 12 lit. a, pkt 13, 18 i 21 tej ustawy, lub wykorzystać te środki.
 
 2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i e, pkt 2 i pkt 3 lit. a oraz w art. 47 pkt 1, 6 i 7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz SWW może użyć broni palnej lub ją wykorzystać.
 
@@ -358,7 +394,8 @@ source: "isap-pdf"
 
 4. Kontrola operacyjna prowadzona jest niejawnie i polega na:
 
-- **1)** uzyskiwaniu i utrwalaniu treści rozmów prowadzonych przy użyciu środków technicznych, w tym za pomocą sieci telekomunikacyjnych; transportu lub miejsc innych niż miejsca publiczne;
+- **1)** uzyskiwaniu i utrwalaniu treści rozmów prowadzonych przy użyciu środków technicznych, w tym za pomocą sieci telekomunikacyjnych;
+- **2)** uzyskiwaniu i utrwalaniu obrazu lub dźwięku osób z pomieszczeń, środków transportu lub miejsc innych niż miejsca publiczne;
 - **3)** uzyskiwaniu i utrwalaniu treści korespondencji, w tym korespondencji prowadzonej za pomocą środków komunikacji elektronicznej;
 - **4)** uzyskiwaniu i utrwalaniu danych zawartych w informatycznych nośnikach danych, telekomunikacyjnych urządzeniach końcowych, systemach informatycznych i teleinformatycznych;
 - **5)** uzyskiwaniu dostępu i kontroli zawartości przesyłek.
@@ -374,7 +411,9 @@ source: "isap-pdf"
 
 7. W uzasadnionych przypadkach, gdy podczas stosowania kontroli operacyjnej pojawią się nowe okoliczności istotne dla zapobieżenia lub wykrycia przestępstwa albo ustalenia sprawcy i uzyskania dowodów przestępstwa, sąd, o którym mowa w ust. 2, na pisemny wniosek Szefa SKW, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, może wydawać, również po upływie okresów, o których mowa w ust. 6, kolejne postanowienia o przedłużeniu kontroli operacyjnej na następujące po sobie okresy, z których żaden nie może trwać dłużej niż 12 miesięcy.
 
-7a. Szef SKW może upoważnić swojego zastępcę do składania wniosków, o których mowa w ust. 1, 3, 6 i 7, lub do zarządzania kontroli operacyjnej w trybie ust. 3. przepisy ust. 1a i 5. Sąd przed wydaniem postanowienia, o którym mowa w ust. 1, 3, 6 i 7, zapoznaje się z materiałami uzasadniającymi wniosek, w szczególności zgromadzonymi podczas stosowania kontroli operacyjnej zarządzonej w tej sprawie.
+7a. Szef SKW może upoważnić swojego zastępcę do składania wniosków, o których mowa w ust. 1, 3, 6 i 7, lub do zarządzania kontroli operacyjnej w trybie ust. 3.
+
+8. Do wniosków, o których mowa w ust. 3, 6 i 7, stosuje się odpowiednio przepisy ust. 1a i 5. Sąd przed wydaniem postanowienia, o którym mowa w ust. 1, 3, 6 i 7, zapoznaje się z materiałami uzasadniającymi wniosek, w szczególności zgromadzonymi podczas stosowania kontroli operacyjnej zarządzonej w tej sprawie.
 
 9. Wnioski, o których mowa w ust. 1, 3, 6 i 7, sąd rozpoznaje jednoosobowo, przy czym czynności sądu związane z rozpoznawaniem tych wniosków powinny być realizowane w warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872). W posiedzeniu sądu może wziąć udział wyłącznie prokurator i przedstawiciel Szefa SKW.
 
@@ -393,7 +432,7 @@ source: "isap-pdf"
 
 13. Szef SKW informuje Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego o wynikach kontroli operacyjnej po jej zakończeniu, a na jego żądanie również o przebiegu tej kontroli, przedstawiając zebrane w jej toku materiały.
 
-14. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Szef SKW przekazuje Pierwszemu Zastępcy Prokuratora Generalnego kontroli operacyjnej. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+14. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Szef SKW przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 14a. (uchylony) 14b. (uchylony) 14c. (uchylony) 14d. (uchylony) 14e. (uchylony) 14f. W przypadku, gdy materiały, o których mowa w ust. 14:
 
@@ -403,7 +442,9 @@ source: "isap-pdf"
 14g. W przypadku, o którym mowa w ust. 14f pkt 2, Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy niezwłocznie po otrzymaniu materiałów, kieruje je do sądu, który zarządził kontrolę operacyjną, albo wyraził na nią zgodę w trybie określonym w ust. 3, wraz z wnioskiem o:
 
 - **1)** stwierdzenie, które z przekazanych materiałów zawierają informacje, o których mowa w ust. 14f pkt 2;
-- **2)** dopuszczenie do wykorzystania w postępowaniu karnym materiałów zawierających informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, nieobjęte zakazami określonymi w art. 178a i art. 180 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Prokuratora Generalnego Prokuratora Krajowego, wydaje postanowienie o dopuszczeniu do wykorzystania w postępowaniu karnym materiałów, o których mowa w ust. 14g pkt 2, gdy jest to niezbędne dla dobra wymiaru sprawiedliwości, a okoliczność nie może być ustalona na podstawie innego dowodu, a także zarządza niezwłoczne zniszczenie materiałów, których wykorzystanie w postępowaniu karnym jest niedopuszczalne.
+- **2)** dopuszczenie do wykorzystania w postępowaniu karnym materiałów zawierających informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, nieobjęte zakazami określonymi w art. 178a i art. 180 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+
+14h. Sąd, niezwłocznie po złożeniu wniosku przez Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego, wydaje postanowienie o dopuszczeniu do wykorzystania w postępowaniu karnym materiałów, o których mowa w ust. 14g pkt 2, gdy jest to niezbędne dla dobra wymiaru sprawiedliwości, a okoliczność nie może być ustalona na podstawie innego dowodu, a także zarządza niezwłoczne zniszczenie materiałów, których wykorzystanie w postępowaniu karnym jest niedopuszczalne.
 
 14i. Na postanowienie sądu w przedmiocie dopuszczenia do wykorzystania w postępowaniu karnym materiałów, o których mowa w ust. 14g pkt 2, Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu przysługuje zażalenie. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
@@ -415,7 +456,11 @@ source: "isap-pdf"
 
 15b. Sąd, Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy i Szef SKW prowadzą rejestry wniosków, zarządzeń, zgód i postanowień dotyczących kontroli operacyjnej. Rejestry prowadzi się w formie elektronicznej, z zachowaniem przepisów o ochronie informacji niejawnych.
 
-16. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób dokumentowania kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów. mowa w art. 5, dane niestanowiące treści odpowiednio, komunikatu elektronicznego przesyłanego w ramach świadczonej publicznie dostępnej usługi telekomunikacyjnej, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
+16. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób dokumentowania kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów.
+
+**Art. 32.**
+
+1. SKW może uzyskiwać niezbędne do realizacji zadań, o których mowa w art. 5, dane niestanowiące treści odpowiednio, komunikatu elektronicznego przesyłanego w ramach świadczonej publicznie dostępnej usługi telekomunikacyjnej, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
 - **1)** art. 45 ust. 1 i art. 49 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), zwane dalej „danymi pocztowymi”,
@@ -435,7 +480,8 @@ source: "isap-pdf"
 
 6. Udostępnienie SKW danych telekomunikacyjnych, pocztowych lub internetowych może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli:
 
-- **1)** wykorzystywane sieci i system teleinformatyczny zapewniają: w którym zostały uzyskane,
+- **1)** wykorzystywane sieci i system teleinformatyczny zapewniają:
+    - **a)** możliwość ustalenia osoby uzyskującej te dane, ich rodzaju oraz czasu, w którym zostały uzyskane,
     - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiają osobie nieuprawnionej dostęp do tych danych;
 
 - **2)** jest to uzasadnione specyfiką lub zakresem zadań wykonywanych przez SKW albo prowadzonych przez nią czynności.
@@ -457,7 +503,9 @@ source: "isap-pdf"
 
 3. W ramach kontroli, o której mowa w ust. 1, sąd może zapoznać się z materiałami uzasadniającymi udostępnienie SKW danych telekomunikacyjnych, pocztowych lub internetowych.
 
-4. Sąd, o którym mowa w ust. 1, informuje Szefa SKW o wyniku kontroli w terminie 30 dni od jej zakończenia. podstawie art. 32b ust. 1.
+4. Sąd, o którym mowa w ust. 1, informuje Szefa SKW o wyniku kontroli w terminie 30 dni od jej zakończenia.
+
+5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 32b ust. 1.
 
 **Art. 32b.**
 
@@ -478,7 +526,9 @@ source: "isap-pdf"
 
 2a. Przed wydaniem pisemnej zgody Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy zapoznaje się z materiałami uzasadniającymi potrzebę przeprowadzenia czynności, o których mowa w ust. 1.
 
-3. Czynności określone w ust. 1 nie mogą polegać na kierowaniu działaniami wyczerpującymi znamiona czynu zabronionego pod groźbą kary. ust. 1 pkt 1 Szef SKW przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone w wyniku wykonywania czynności. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+3. Czynności określone w ust. 1 nie mogą polegać na kierowaniu działaniami wyczerpującymi znamiona czynu zabronionego pod groźbą kary.
+
+4. W przypadku potwierdzenia informacji o przestępstwie określonym w art. 5 ust. 1 pkt 1 Szef SKW przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone w wyniku wykonywania czynności. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 5. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1. Rozporządzenie powinno, uwzględniając niejawny charakter czynności, ustalać sposób przechowywania, przekazywania i niszczenia materiałów i dokumentów uzyskanych lub wytworzonych w związku z realizacją czynności, o których mowa w ust. 1, a także określać wzory stosowanych druków i rejestrów.
 
@@ -492,7 +542,7 @@ source: "isap-pdf"
 
 4. W przypadku potwierdzenia informacji o przestępstwie Szef SKW przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone w wyniku wykonywania czynności. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
-5. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1. Rozporządzenie powinno, uwzględniając niejawny charakter czynności, ustalać uzyskanych lub wytworzonych w związku z realizacją czynności, o których mowa w ust. 1, a także określać wzory stosowanych druków i rejestrów.
+5. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1. Rozporządzenie powinno, uwzględniając niejawny charakter czynności, ustalać sposób przechowywania, przekazywania i niszczenia materiałów i dokumentów uzyskanych lub wytworzonych w związku z realizacją czynności, o których mowa w ust. 1, a także określać wzory stosowanych druków i rejestrów.
 
 **Art. 35.** Nie popełnia przestępstwa, kto, będąc do tego uprawnionym, wykonuje czynności określone w art. 33 ust. 1, jeżeli zostały zachowane warunki określone w art. 33 ust. 3, a także kto wykonuje czynności określone w art. 34 ust. 1.
 
@@ -508,7 +558,11 @@ source: "isap-pdf"
 
 3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, wzór upoważnienia, o którym mowa w ust. 2, uwzględniając konieczność wskazania w upoważnieniu zakresu danych osobowych mających podlegać udostępnieniu.
 
-4. Prezes Rady Ministrów określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, zakres, warunki i tryb przekazywania odpowiednio SKW i SWW informacji przez organy, służby i instytucje państwowe, o których mowa w ust. 1, uwzględniając zakres i sposób działania tych instytucji, potrzebę minimalizowania kosztów udostępniania oraz konieczność szczegółowej ochrony danych osobowych. ochronę środków, form i metod realizacji zadań, zgromadzonych informacji oraz własnych obiektów i danych identyfikujących funkcjonariuszy tych służb.
+4. Prezes Rady Ministrów określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, zakres, warunki i tryb przekazywania odpowiednio SKW i SWW informacji przez organy, służby i instytucje państwowe, o których mowa w ust. 1, uwzględniając zakres i sposób działania tych instytucji, potrzebę minimalizowania kosztów udostępniania oraz konieczność szczegółowej ochrony danych osobowych.
+
+**Art. 39.**
+
+1. W związku z wykonywaniem swoich zadań SKW i SWW zapewniają ochronę środków, form i metod realizacji zadań, zgromadzonych informacji oraz własnych obiektów i danych identyfikujących funkcjonariuszy tych służb.
 
 2. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze SKW i SWW mogą posługiwać się dokumentami publicznymi w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863 oraz z 2025 r. poz. 1881) lub innymi dokumentami, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych.
 
@@ -522,7 +576,7 @@ source: "isap-pdf"
 
 4b. Przy sporządzaniu i wydawaniu dokumentów, o których mowa w ust. 4, SWW może dokonywać zmiany danych i informacji zgromadzonych w rejestrach publicznych i ewidencjach prowadzonych przez organy administracji publicznej, służących uprawdopodobnieniu danych i informacji zawartych w tych dokumentach.
 
-4c. Przy sporządzaniu i wydawaniu dokumentów, o których mowa w ust. 4, Szef SWW może korzystać z pomocy emitenta dokumentu publicznego, o którym mowa Spółki, o której mowa w art. 17 ust. 1 tej ustawy, i podmiotów, o których mowa w art. 18 tej ustawy, innych niż Spółka.
+4c. Przy sporządzaniu i wydawaniu dokumentów, o których mowa w ust. 4, Szef SWW może korzystać z pomocy emitenta dokumentu publicznego, o którym mowa w art. 2 ust. 1 pkt 3 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, Spółki, o której mowa w art. 17 ust. 1 tej ustawy, i podmiotów, o których mowa w art. 18 tej ustawy, innych niż Spółka.
 
 5. Na pisemny wniosek Szefa SKW albo Szefa SWW uprawnione organy, służby i instytucje państwowe wydają dokumenty i znaki identyfikujące osobom posługującym się nimi jako funkcjonariusze lub pracownicy tych organów, służb lub instytucji państwowych.
 
@@ -544,7 +598,7 @@ source: "isap-pdf"
 
 3. Za udzielenie pomocy osobom, o których mowa w ust. 1, może być przyznane wynagrodzenie wypłacane z funduszu operacyjnego.
 
-4. Jeśli w czasie korzystania lub w związku z korzystaniem przez SKW i SWW z pomocy osób, o których mowa w ust. 1, osoby te utraciły życie lub poniosły odszkodowanie, renta inwalidzka i rodzinna oraz świadczenia wyrównawcze, na zasadach i w trybie określonych w przepisach o świadczeniach osobistych na rzecz obrony w czasie pokoju.
+4. Jeśli w czasie korzystania lub w związku z korzystaniem przez SKW i SWW z pomocy osób, o których mowa w ust. 1, osoby te utraciły życie lub poniosły uszczerbek na zdrowiu, osobom tym lub ich spadkobiercom przysługuje odszkodowanie, renta inwalidzka i rodzinna oraz świadczenia wyrównawcze, na zasadach i w trybie określonych w przepisach o świadczeniach osobistych na rzecz obrony w czasie pokoju.
 
 5. Jeśli w czasie korzystania lub w związku z korzystaniem przez SKW i SWW z pomocy osób, o których mowa w ust. 1, osoby te poniosły szkodę w mieniu, osobom tym przysługuje ryczałt albo odszkodowanie, na zasadach i w trybie określonych w przepisach o świadczeniach rzeczowych na rzecz obrony w czasie pokoju.
 
@@ -564,6 +618,9 @@ source: "isap-pdf"
 - **8)** redaktorów naczelnych, dziennikarzy lub osób prowadzących działalność wydawniczą, o których mowa w ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914);
 - **9)** rektorów;
 - **10)** członków Rady Głównej Nauki i Szkolnictwa Wyższego, Polskiej Komisji Akredytacyjnej i Rady Doskonałości Naukowej.
+
+2. Funkcjonariusze SKW i SWW w okresie pełnienia służby nie mogą:
+
 - **1)** być członkami zarządów, rad nadzorczych lub komisji rewizyjnych spółek prawa handlowego;
 - **2)** być członkami zarządów, rad nadzorczych lub komisji rewizyjnych spółdzielni, z wyjątkiem rad nadzorczych spółdzielni mieszkaniowych;
 - **3)** być członkami zarządów fundacji prowadzących działalność gospodarczą;
@@ -583,7 +640,9 @@ source: "isap-pdf"
 
 **Art. 43.**
 
-1. Szefowie SKW i SWW, każdy w zakresie swojego działania, mogą zezwalać funkcjonariuszom i pracownikom SKW i SWW oraz byłym funkcjonariuszom i pracownikom, po ustaniu stosunku służbowego lub stosunku pracy w SKW i SWW, a także osobom udzielającym im pomocy w wykonywaniu czynności operacyjno-rozpoznawczych, na udzielenie informacji niejawnej określonej osobie lub instytucji. i pracowników Wojskowych Służb Informacyjnych przysługuje Ministrowi Obrony Narodowej.
+1. Szefowie SKW i SWW, każdy w zakresie swojego działania, mogą zezwalać funkcjonariuszom i pracownikom SKW i SWW oraz byłym funkcjonariuszom i pracownikom, po ustaniu stosunku służbowego lub stosunku pracy w SKW i SWW, a także osobom udzielającym im pomocy w wykonywaniu czynności operacyjno-rozpoznawczych, na udzielenie informacji niejawnej określonej osobie lub instytucji.
+
+2. Uprawnienie, o którym mowa w ust. 1, wobec byłych żołnierzy i pracowników Wojskowych Służb Informacyjnych przysługuje Ministrowi Obrony Narodowej.
 
 3. Zezwolenie, o którym mowa w ust. 1 i 2, nie może dotyczyć udzielenia informacji o:
 
@@ -596,7 +655,7 @@ source: "isap-pdf"
 
 5. Zakazu określonego w ust. 3 nie stosuje się również w przypadku żądania prokuratora lub sądu uzasadnionego podejrzeniem popełnienia przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem czynności operacyjno-rozpoznawczych.
 
-6. W razie odmowy zwolnienia funkcjonariusza, pracownika lub osoby udzielającej im pomocy w wykonywaniu czynności operacyjno-rozpoznawczych od lub „ściśle tajne” albo odmowy zezwolenia na udostępnienie materiałów stanowiących informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne” pomimo żądania prokuratora lub sądu, zgłoszonego w związku z postępowaniem karnym o przestępstwo określone w art. 105 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu lub zdrowiu, gdy jego następstwem była śmierć człowieka, Szef SKW albo Szef SWW przedstawia żądane materiały oraz wyjaśnienie Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do prawidłowości postępowania karnego, Szef SKW albo Szef SWW jest obowiązany zwolnić od zachowania tajemnicy lub udostępnić materiały objęte tajemnicą.
+6. W razie odmowy zwolnienia funkcjonariusza, pracownika lub osoby udzielającej im pomocy w wykonywaniu czynności operacyjno-rozpoznawczych od obowiązku zachowania w tajemnicy informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” albo odmowy zezwolenia na udostępnienie materiałów stanowiących informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne” pomimo żądania prokuratora lub sądu, zgłoszonego w związku z postępowaniem karnym o przestępstwo określone w art. 105 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu lub zdrowiu, gdy jego następstwem była śmierć człowieka, Szef SKW albo Szef SWW przedstawia żądane materiały oraz wyjaśnienie Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do prawidłowości postępowania karnego, Szef SKW albo Szef SWW jest obowiązany zwolnić od zachowania tajemnicy lub udostępnić materiały objęte tajemnicą.
 
 **Art. 44.**
 
@@ -612,7 +671,7 @@ source: "isap-pdf"
 - **6)** usunięcia pojazdów z miejsca postoju,
 - **7)** unieruchomienia, zniszczenia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem – jeżeli jest to niezbędne do zapewnienia bezpieczeństwa chronionych urządzeń, a także obszarów, obiektów oraz przebywających w nich osób.
 
-3. Czynności, o których mowa w ust. 2 pkt 2, 4, 6 i 7, mogą być wykonywane również w miejscu bezpośrednio sąsiadującym z chronionymi urządzeniami, lub bezpieczeństwa przebywających w nich osób.
+3. Czynności, o których mowa w ust. 2 pkt 2, 4, 6 i 7, mogą być wykonywane również w miejscu bezpośrednio sąsiadującym z chronionymi urządzeniami, obszarami lub obiektami, jeżeli jest to niezbędne do zapewnienia ich bezpieczeństwa lub bezpieczeństwa przebywających w nich osób.
 
 4. Czynności, o których mowa w ust. 2 pkt 4 i 5, wykonuje się z poszanowaniem dóbr osobistych osoby, w stosunku do której zostały podjęte.
 
@@ -628,7 +687,7 @@ source: "isap-pdf"
 
 4. W przypadku gdy sprawdzenie prewencyjne, o którym mowa w art. 44 ust. 2 pkt 5, musi być dokonane niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może go dokonać funkcjonariusz płci odmiennej niż osoba sprawdzana, także w miejscu niespełniającym warunku, o którym mowa w ust. 3, w sposób możliwie najmniej naruszający dobra osobiste osoby sprawdzanej.
 
-5. W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1 lub 2, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, zmierzające do usunięcia niebezpieczeństwa.
+5. W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1 lub 2, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje działania zmierzające do usunięcia niebezpieczeństwa.
 
 **Art. 44b.**
 
@@ -642,7 +701,9 @@ source: "isap-pdf"
 
 5. W przypadku ujawnienia materiałów lub substancji mogących zagrozić urządzeniu, obszarowi lub obiektowi chronionemu, a także życiu lub zdrowiu przebywających tam osób niezwłocznie dokonuje się zabezpieczenia i neutralizacji tych materiałów lub substancji w sposób właściwy dla rodzaju zagrożenia jakie wywołują.
 
-6. Szefowie SKW i SWW, każdy w zakresie swojego działania, mogą określić, w drodze zarządzenia niepodlegającego ogłoszeniu, sposób organizacji ochrony użytkowanych przez SKW i SWW urządzeń, obszarów lub obiektów w związku z nieuprawnionym naruszeniem przestrzeni powietrznej przez bezzałogowy statek powietrzny, szczegółowy sposób i tryb niszczenia, unieruchomienia lub przejęcia kontroli lotu bezzałogowego statku powietrznego, sposób dokonywania sprawdzenia, o którym mowa w ust. 2 i 3, sposób przekazywania materiałów do właściwego prokuratora oraz sposób dokumentowania tych czynności, uwzględniając potrzebę zapewnienia jak najbardziej efektywnej ochrony urządzeń, obszarów i obiektów oraz przebywających tam osób. Służba funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego
+6. Szefowie SKW i SWW, każdy w zakresie swojego działania, mogą określić, w drodze zarządzenia niepodlegającego ogłoszeniu, sposób organizacji ochrony użytkowanych przez SKW i SWW urządzeń, obszarów lub obiektów w związku z nieuprawnionym naruszeniem przestrzeni powietrznej przez bezzałogowy statek powietrzny, szczegółowy sposób i tryb niszczenia, unieruchomienia lub przejęcia kontroli lotu bezzałogowego statku powietrznego, sposób dokonywania sprawdzenia, o którym mowa w ust. 2 i 3, sposób przekazywania materiałów do właściwego prokuratora oraz sposób dokumentowania tych czynności, uwzględniając potrzebę zapewnienia jak najbardziej efektywnej ochrony urządzeń, obszarów i obiektów oraz przebywających tam osób.
+
+#### Rozdział 4 Służba funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego
 
 **Art. 45.** Służbę funkcjonariuszy SKW i SWW, określa ustawa z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego.
 
@@ -660,7 +721,9 @@ source: "isap-pdf"
 
 **Art. 47.**
 
-1. Wyznaczenie żołnierza zawodowego na stanowisko służbowe w SKW lub SWW następuje po przeprowadzeniu postępowania kwalifikacyjnego. Przepisy art. 4 i art. 5 ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego stosuje się odpowiednio. SKW i SWW, szczegółowe formy i tryb przeprowadzania postępowania kwalifikacyjnego wobec żołnierzy ubiegających się o wyznaczenie na stanowisko służbowe w SKW lub SWW, oraz wzór kwestionariusza osobowego, uwzględniając potrzebę uzyskania takich informacji o kandydacie, które są niezbędne do podjęcia decyzji o przyjęciu do służby w SKW lub SWW.
+1. Wyznaczenie żołnierza zawodowego na stanowisko służbowe w SKW lub SWW następuje po przeprowadzeniu postępowania kwalifikacyjnego. Przepisy art. 4 i art. 5 ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego stosuje się odpowiednio.
+
+2. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, szczegółowe formy i tryb przeprowadzania postępowania kwalifikacyjnego wobec żołnierzy ubiegających się o wyznaczenie na stanowisko służbowe w SKW lub SWW, oraz wzór kwestionariusza osobowego, uwzględniając potrzebę uzyskania takich informacji o kandydacie, które są niezbędne do podjęcia decyzji o przyjęciu do służby w SKW lub SWW.
 
 **Art. 48.**
 
@@ -678,7 +741,9 @@ source: "isap-pdf"
 
 **Art. 50.**
 
-1. Żołnierzowi zawodowemu można powierzyć, na okres do 6 miesięcy, pełnienie obowiązków służbowych na innym stanowisku. W takim przypadku uposażenie żołnierza nie może być obniżone. pełni służbę, za jego zgodą, można oddelegować do wykonywania zadań służbowych poza SKW albo SWW, po przeniesieniu go do dyspozycji Szefa tej służby.
+1. Żołnierzowi zawodowemu można powierzyć, na okres do 6 miesięcy, pełnienie obowiązków służbowych na innym stanowisku. W takim przypadku uposażenie żołnierza nie może być obniżone.
+
+2. Żołnierza, gdy jest to uzasadnione realizacją zadań SKW albo SWW, w której pełni służbę, za jego zgodą, można oddelegować do wykonywania zadań służbowych poza SKW albo SWW, po przeniesieniu go do dyspozycji Szefa tej służby.
 
 3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, warunki i tryb oddelegowania, uprawnienia i obowiązki żołnierza w czasie oddelegowania, wysokość i sposób wypłacania uposażenia i innych świadczeń pieniężnych przysługujących oddelegowanemu żołnierzowi, uwzględniając miejsce oraz charakter i zakres wykonywanych przez niego zadań służbowych poza SKW albo SWW, a także ustali, z uwzględnieniem przepisów o ochronie informacji niejawnych, szczególne uprawnienia i obowiązki żołnierza pełniącego służbę poza granicami kraju.
 
@@ -696,7 +761,11 @@ source: "isap-pdf"
 - **4)** posiada w spółkach prawa handlowego więcej niż 10 % akcji lub udziały przedstawiające więcej niż 10 % kapitału zakładowego – w każdej z tych spółek lub
 - **5)** prowadzi działalności gospodarczą na własny rachunek lub wspólnie z innymi osobami zarządza taką działalnością lub jest przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności – podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-2. Nie popełnia przestępstwa określonego w ust. 1 funkcjonariusz albo żołnierz, który uzyskał zgodę odpowiednio Szefa SKW albo Szefa SWW, o której mowa w art. 41 ust. 3 pkt 2–4. wyznaczony na stanowisko służbowe w SKW albo w SWW, który wbrew przepisom ustawy, wykorzystuje informacje uzyskane podczas lub w związku z pełnieniem obowiązków służbowych, do wpływania na działalność organów władzy publicznej, przedsiębiorców lub nadawców w rozumieniu art. 4 pkt 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji oraz redaktorów naczelnych, dziennikarzy lub osób prowadzących działalność wydawniczą, o których mowa w ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe – podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+2. Nie popełnia przestępstwa określonego w ust. 1 funkcjonariusz albo żołnierz, który uzyskał zgodę odpowiednio Szefa SKW albo Szefa SWW, o której mowa w art. 41 ust. 3 pkt 2–4.
+
+**Art. 53.**
+
+1. Funkcjonariusz SKW albo SWW oraz żołnierz zawodowy wyznaczony na stanowisko służbowe w SKW albo w SWW, który wbrew przepisom ustawy, wykorzystuje informacje uzyskane podczas lub w związku z pełnieniem obowiązków służbowych, do wpływania na działalność organów władzy publicznej, przedsiębiorców lub nadawców w rozumieniu art. 4 pkt 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji oraz redaktorów naczelnych, dziennikarzy lub osób prowadzących działalność wydawniczą, o których mowa w ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe – podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
 2. Jeżeli sprawca czynu, o którym mowa w ust. 1, działa w celu osiągnięcia korzyści osobistej lub majątkowej – podlega karze pozbawienia wolności od lat 2 do 12.
 
@@ -708,7 +777,9 @@ source: "isap-pdf"
 
 **Art. 55.**
 
-1. Funkcjonariusz SKW albo SWW oraz żołnierz zawodowy wyznaczony na stanowisko służbowe w SKW albo w SWW, który tajnie współpracuje z nadawcą w rozumieniu art. 4 pkt 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji oraz redaktorem naczelnym, dziennikarzem lub osobą prowadzącą działalność wydawniczą, o których mowa w ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe – podlega karze pozbawienia wolności od 6 miesięcy do lat 8. który uzyskał zgodę odpowiednio Szefa SKW albo Szefa SWW, o której mowa w art. 41 ust. 3 pkt 1. Przepis końcowy
+1. Funkcjonariusz SKW albo SWW oraz żołnierz zawodowy wyznaczony na stanowisko służbowe w SKW albo w SWW, który tajnie współpracuje z nadawcą w rozumieniu art. 4 pkt 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji oraz redaktorem naczelnym, dziennikarzem lub osobą prowadzącą działalność wydawniczą, o których mowa w ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe – podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+
+2. Nie popełnia przestępstwa określonego w ust. 1 funkcjonariusz albo żołnierz, który uzyskał zgodę odpowiednio Szefa SKW albo Szefa SWW, o której mowa w art. 41 ust. 3 pkt 1. Przepis końcowy
 
 **Art. 56.** Ustawa wchodzi w życie w terminie określonym w ustawie z dnia 9 czerwca 2006 r. – Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego.
 

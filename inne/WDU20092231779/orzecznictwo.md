@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 18 grudnia 2009 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz o zmianie niektórych innych ustaw*
 
-Łącznie: **39** orzeczeń
+Łącznie: **40** orzeczeń
 (pominięto 8 orzeczeń sądów rejonowych)
 
 ## art. 1 (10)
@@ -59,13 +59,14 @@ Orzeczenia powołujące: *Ustawa z dnia 18 grudnia 2009 r. o zmianie ustawy o sp
 - 2013-05-23 | SO | [I ACa 142/13](https://www.saos.org.pl/judgments/14221) | Wyrok
 - 2022-05-09 | SO | [II C 851/18](https://www.saos.org.pl/judgments/501537) | Wyrok
 
-## art. 6 (5)
+## art. 6 (6)
 
 - 2011-11-16 | SN | [II CSK 538/10](https://www.saos.org.pl/judgments/96246) | Postanowienie ★
 - 2012-01-12 | SN | [IV CSK 197/11](https://www.saos.org.pl/judgments/96757) | Postanowienie
 - 2013-06-28 | SO | [I ACa 203/13](https://www.saos.org.pl/judgments/21194) | Wyrok
 - 2020-09-17 | SO | [III C 1071/19](https://www.saos.org.pl/judgments/470777) | Wyrok
 - 2017-11-17 | SO | [I C 666/16](https://www.saos.org.pl/judgments/323429) | Wyrok
+- 2025-02-10 | SO | [I Ns 149/23](https://www.saos.org.pl/judgments/545217) | Postanowienie
 
 ## art. 7 (1)
 

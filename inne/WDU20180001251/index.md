@@ -8,10 +8,10 @@ pos: 1251
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 czerwca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1251 OBWIESZCZENIE mINIStrA ZDrOWIA z dnia 30 maja 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001251) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1251/text.pdf) |
 
-OBWIESZCZENIE mINIStrA ZDrOWIA z dnia 30 maja 2018 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie oznaczenia systemu Państwowe Ratownictwo Medyczne oraz wymagań w zakresie umundurowania członków zespołów ratownictwa medycznego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 18 października 2010 r. w sprawie oznaczenia systemu Państwowe Ratownictwo Medyczne oraz wymagań w zakresie umundurowania członków zespołów ratownictwa medycznego (Dz. U. poz. 1382), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 28 października 2016 r. zmieniającym rozporządzenie w sprawie oznaczenia systemu Państwowe Ratownictwo Medyczne oraz wymagań w zakresie umundurowania członków zespołów ratownictwa medycznego (Dz. U. poz. 1843).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 28 października 2016 r. zmieniającego rozporządzenie w sprawie oznaczenia systemu Państwowe Ratownictwo Medyczne oraz wymagań w zakresie umundurowania członków zespołów ratownictwa medycznego (Dz. U. poz. 1843), które stanowią: „ Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 8 lipca 2016 r. pod numerem 2016/341/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).” „§ 2. Umundurowanie członków zespołów ratownictwa medycznego niespełniające wymagań określonych w załącznikach nr 3 i 4 do rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, może być używane nie dłużej niż do dnia 31 grudnia 2020 r.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Zdrowia: Ł. Szumowski ROZPORZĄDZENIE mINIStrA ZDrOWIA z dnia 18 października 2010 r.
 w sprawie oznaczenia systemu Państwowe Ratownictwo Medyczne oraz wymagań w zakresie umundurowania członków zespołów ratownictwa medycznego Na podstawie art. 38 ust. 3 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U.
-z 2017 r. poz. 2195 oraz z 2018 r. poz. 650 i 1115) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2017 r. poz. 2195 oraz z 2018 r. poz. 650 i 1115) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór graficzny systemu Państwowe Ratownictwo Medyczne, zwanego dalej „systemem”, będący jego oznaczeniem;
 2) sposób oznakowania:
 a) jednostek systemu,
@@ -65,12 +65,12 @@ e) ratowników z jednostek współpracujących z systemem, o których mowa w art
 § 8. 1. Ubiory niespełniające wymagań określonych w niniejszym rozporządzeniu, w zakresie umundurowania członków zespołów ratownictwa medycznego i lotniczych zespołów ratownictwa medycznego oraz w zakresie oznakowania, o którym mowa w § 6, mogą być używane nie dłużej niż do dnia 31 grudnia 2013 r.
 2. Specjalistyczne środki transportu sanitarnego niespełniające wymagań określonych w niniejszym rozporządzeniu, w zakresie oznakowania zespołów ratownictwa medycznego i lotniczych zespołów ratownictwa medycznego, mogą być używane nie dłużej niż do dnia 31 grudnia 2013 r.
 § 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR GRAFICZNY SYSTEMU SPOSÓB OZNAKOWANIA JEDNOSTEK SYSTEMU I. Oznakowanie zespołów ratownictwa medycznego Zespół ratownictwa medycznego jest oznakowany poprzez umieszczenie na specjalistycznym środku transportu sanitarnego koloru białego lub żółtego:
+WZÓR GRAFICZNY SYSTEMU Załącznik nr 2 SPOSÓB OZNAKOWANIA JEDNOSTEK SYSTEMU SPOSÓB OZNAKOWANIA JEDNOSTEK SYSTEMU I. Oznakowanie zespołów ratownictwa medycznego Zespół ratownictwa medycznego jest oznakowany poprzez umieszczenie na specjalistycznym środku transportu sanitarnego koloru białego lub żółtego:
 1) wzoru graficznego systemu z tyłu, na dachu i po bokach pojazdu o średnicy 50 cm;
 2) nadruku lustrzanego „AMBULANS”, barwy czerwonej lub granatowej z przodu pojazdu, o wysokości znaków co najmniej 22 cm; dopuszczalne jest umieszczenie nadruku lustrzanego „AMBULANS” barwy czerwonej lub granatowej, o wysokości znaków co najmniej 10 cm także z tyłu pojazdu;
 3) po obu bokach pojazdu nadruku barwy czerwonej:
-a) „P” w przypadku podstawowego zespołu ratownictwa medycznego,
-b) „S” w przypadku specjalistycznego zespołu ratownictwa medycznego w okręgu o średnicy co najmniej 40 cm, o grubości linii koła i liter 4 cm;
+a) „P” – w przypadku podstawowego zespołu ratownictwa medycznego,
+b) „S” – w przypadku specjalistycznego zespołu ratownictwa medycznego – w okręgu o średnicy co najmniej 40 cm, o grubości linii koła i liter 4 cm;
 4) trzech pasów odblaskowych wykonanych z folii:
 a) typu 3 barwy czerwonej o szerokości co najmniej 15 cm, umieszczonej w obszarze pomiędzy linią okien i nadkolami,
 b) typu 1 lub 3 barwy czerwonej o szerokości co najmniej 15 cm, umieszczonej wokół dachu,
@@ -88,26 +88,27 @@ II. Oznakowanie lotniczych zespołów ratownictwa medycznego
 III. Oznakowanie szpitalnych oddziałów ratunkowych
 1. Szpitalny oddział ratunkowy oznakowany jest niebieską tablicą o wymiarach 90 cm × 90 cm, na której są umieszczone napisy w kolorze białym „SZPITALNY ODDZIAŁ RATUNKOWY” oraz „EMERGENCY” o wysokości znaków 10 cm oraz biały krzyż o wymiarach 20 cm × 20 cm.
 2. Oznakowanie umieszcza się przy wejściu głównym do szpitalnego oddziału ratunkowego oraz na znakach drogowych oznaczających drogę dojazdu do szpitala, w którym mieści się szpitalny oddział ratunkowy.
-UMUNDUROWANIE CZŁONKÓW ZESPOŁÓW RATOWNICTWA MEDYCZNEGO Tabela 1. Umundurowanie letnie i zimowe członków zespołów ratownictwa medycznego Lp. Element Opis umundurowania 1 2 3 Umundurowanie letnie 1 Koszula a) barwa fluorescencyjna czerwona zgodnie z Polską Normą
+
+## Załącznik nr 3 — UMUNDUROWANIE CZŁONKÓW ZESPOŁÓW RATOWNICTWA MEDYCZNEGO UMUNDUROWANIE CZŁONKÓW ZESPOŁÓW RATOWNICTWA MEDYCZNEGO Tabela 1. Umundurowanie letnie i zimowe członków zespołów ratownictwa medycznego Lp. Element Opis umundurowania 1 2 3 Umundurowanie letnie 1 Koszula a) barwa fluorescencyjna czerwona zgodnie z Polską Normą
+
 b) materiał o oporze pary wodnej nie większym niż 5 m x Pa/W
 c) krótki lub długi rękaw, kołnierzyk z usztywnieniem lub stójka
 d) z przodu co najmniej dwie kieszenie umieszczone symetrycznie po obu stronach z otworami przykrytymi klapkami
-e) oznakowania: naszywka na lewym rękawie, na wysokości ramienia z wzorem graficznym systemu naszywka albo taśma samosczepna z przodu odzieży po lewej stronie z nazwą funkcji nadruk na plecach z nazwą funkcji 2 Koszulka z krótkimi a) materiał o oporze pary wodnej nie większym niż 5 m rękawami x Pa/W
-b) barwa fluorescencyjna czerwona zgodnie z Polską Normą
+e) oznakowania: – naszywka na lewym rękawie, na wysokości ramienia z wzorem graficznym systemu – naszywka albo taśma samosczepna z przodu odzieży po lewej stronie z nazwą funkcji – nadruk na plecach z nazwą funkcji 2 Koszulka z krótkimi a) materiał o oporze pary wodnej nie większym niż 5 m x Pa/W rękawami b) barwa fluorescencyjna czerwona zgodnie z Polską Normą
 c) oznakowanie: z przodu po lewej stronie w górnej części wzór graficzny systemu 3 Spodnie a) barwa fluorescencyjna czerwona, zgodnie z Polską Normą , klasa 2 w zakresie minimalnej powierzchni materiałów zapewniających widzialność członków zespołu ratownictwa medycznego
 b) dwa równoległe pasy z materiału odblaskowego o szerokości 5 cm, zgodne z Polską Normą , rozmieszczone poniżej uda wokół całego obwodu nogawek
-c) kieszenie: dwie poniżej pasa z przodu, co najmniej jedna z tyłu na nogawkach, po zewnętrznych stronach na wysokości / uda kieszenie zewnętrzne przykryte klapkami
+c) kieszenie: – dwie poniżej pasa z przodu, co najmniej jedna z tyłu – na nogawkach, po zewnętrznych stronach na wysokości / uda kieszenie zewnętrzne przykryte klapkami
 d) na wysokości kolan wzmocnienia
 e) u góry podtrzymywacze paska 4 Obuwie a) materiał: skóra lub skóra i tkaniny, impregnowane wodoodpornie (całosezonowe) b) barwa czarna lub ciemnobrązowa
-c) wzór: typ trzewiki, wzmocniony nosek, budowa cholewki odpowiednia dla obuwia całosezonowego ponad kostkę, podeszwa antypoślizgowa, olejoodporna 5 Kurtka a) barwa fluorescencyjna czerwona, zgodnie z Polską Normą (całosezonowa) , klasa 2 w zakresie minimalnej powierzchni materiałów zapewniających widzialność członków zespołu ratownictwa medycznego
+c) wzór: typ trzewiki, wzmocniony nosek, budowa cholewki odpowiednia dla obuwia całosezonowego ponad kostkę, podeszwa antypoślizgowa, olejoodporna 5 Kurtka a) barwa fluorescencyjna czerwona, zgodnie z Polską Normą , klasa 2 w zakresie (całosezonowa) minimalnej powierzchni materiałów zapewniających widzialność członków zespołu ratownictwa medycznego
 b) zgodna z Polską Normą , co najmniej klasa 2 w zakresie wodoszczelności i w zakresie oporu pary wodnej
-c) pasy z materiału odblaskowego zgodnie z Polską Normą , rozmieszczone: na dole (nie mniej niż 5 cm od dolnej krawędzi) wokół całego obwodu kurtki pas odblaskowy umieszczony poziomo o szerokości nie mniej niż 5 cm * Dla umundurowania letniego i zimowego członków zespołów ratownictwa medycznego przyjęto, że: dopuszcza się łączenie elementów umundurowania również w kolorze granatowym i czarnym, przy czym powinno spełniać wymagania PN-EN 471+A1:2008 p. 5.3 lub normy ją zastępującej;
+c) pasy z materiału odblaskowego zgodnie z Polską Normą , rozmieszczone: – na dole (nie mniej niż 5 cm od dolnej krawędzi) wokół całego obwodu kurtki pas odblaskowy umieszczony poziomo o szerokości nie mniej niż 5 cm * Dla umundurowania letniego i zimowego członków zespołów ratownictwa medycznego przyjęto, że: dopuszcza się łączenie elementów umundurowania również w kolorze granatowym i czarnym, przy czym powinno spełniać wymagania PN-EN 471+A1:2008 p. 5.3 lub normy ją zastępującej;
 dopuszcza się umieszczenie dodatkowych elementów poprawiających komfort pracy i funkcjonalność umundurowania oraz bezpieczeństwo pracy.
-Ze zmianami wpro ad nymi zez § 1 pkt 1 rozporządze i Minst a dro ia dni 2 p źd iernka 0 r zmieniaj eg r zp rządzenie w spra ie znacze ia syste u Państ we at wnictw Medyczne oraz magań w zak esie m du owa i c ł ków espołów rat nic a medyczn g (Dz.
-Tabela 2. Minimalne zestawienie umundurowania w sztukach UMUNDUROWANIE CZŁONKÓW LOTNICZYCH ZESPOŁÓW RATOWNICTWA MEDYCZNEGO* Tabela 1 . Umundurowanie letnie i zimowe członków lotniczych zespołów ratownictwa medycznego Lp. Element umundurowania Opis Umundurowanie letnie 1 Spodnie a) barwa czerwona
+Ze zmianami wprowadzonymi przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 28 października 2016 r. zmieniającego rozporządzenie w sprawie oznaczenia systemu Państwowe Ratownictwo Medyczne oraz wymagań w zakresie umundurowania członków zespołów ratownictwa medycznego (Dz. U. poz. 1843), które weszło w życie z dniem 30 listopada 2016 r.
+Tabela 2. Minimalne zestawienie umundurowania w sztukach Załącznik nr 4 UMUNDUROWANIE CZŁONKÓW LOTNICZYCH ZESPOŁÓW RATOWNICTWA MEDYCZNEGO* UMUNDUROWANIE CZŁONKÓW LOTNICZYCH ZESPOŁÓW RATOWNICTWA MEDYCZNEGO* Tabela 1 . Umundurowanie letnie i zimowe członków lotniczych zespołów ratownictwa medycznego Lp. Element umundurowania Opis Umundurowanie letnie 1 Spodnie a) barwa czerwona
 b) co najmniej dwie kieszenie: biodrowe, nogawkowe
 c) wzmocnienia w miejscach narażonych na przecieranie, w szczególności na wysokości pośladków, krocza, kolan (wyprofilowanie kolan), na dole nogawek od strony wewnętrznej
-d) materiał odblaskowy taśmy odblaskowe na całych obwodach nogawek (poniżej stawu kolanowego), pojedynczy pas odblaskowy w odległości co najmniej 50 mm od dolnej krawędzi nogawki 2 Koszulka z długim lub krótkim a) barwa czerwona rękawem b) oznakowanie: − flaga polska na lewym ramieniu − naszywka − logo z wzorem graficznym systemu na prawym ramieniu − naszywka − na plecach napis: nazwa dysponenta lotniczego zespołu ratownictwa medycznego 3 Kombinezon lotniczy a) barwa czerwona jednoczęściowy rozpinany na b) co najmniej po dwie kieszenie: piersiowe, biodrowe, nogawkowe zamek błyskawiczny dwustronnie c) oznakowanie: rozdzielczy − funkcja z prawej strony z przodu − naszywka − nazwisko z lewej strony z przodu − naszywka lub identyfikator z nazwiskiem − flaga polska na lewym ramieniu − naszywka − logo z wzorem graficznym systemu na prawym ramieniu − naszywka − na plecach napis: nazwa dysponenta lotniczego zespołu ratownictwa medycznego
+d) materiał odblaskowy – taśmy odblaskowe na całych obwodach nogawek (poniżej stawu kolanowego), pojedynczy pas odblaskowy w odległości co najmniej 50 mm od dolnej krawędzi nogawki 2 Koszulka z długim lub krótkim a) barwa czerwona rękawem b) oznakowanie: − flaga polska na lewym ramieniu − naszywka − logo z wzorem graficznym systemu na prawym ramieniu − naszywka − na plecach napis: nazwa dysponenta lotniczego zespołu ratownictwa medycznego 3 Kombinezon lotniczy a) barwa czerwona jednoczęściowy rozpinany na b) co najmniej po dwie kieszenie: piersiowe, biodrowe, nogawkowe zamek błyskawiczny dwustronnie c) oznakowanie: rozdzielczy − funkcja z prawej strony z przodu − naszywka − nazwisko z lewej strony z przodu − naszywka lub identyfikator z nazwiskiem − flaga polska na lewym ramieniu − naszywka − logo z wzorem graficznym systemu na prawym ramieniu − naszywka − na plecach napis: nazwa dysponenta lotniczego zespołu ratownictwa medycznego
 d) materiał odblaskowy − taśmy odblaskowe: − na rękawach wokół całego obwodu (powyżej stawu łokciowego), pojedynczy pas odblaskowy − na całych obwodach nogawek (poniżej stawu kolanowego), pojedynczy pas odblaskowy w odległości co najmniej 50 mm od dolnej krawędzi nogawki 4 Koszulka polo a) barwa czerwona lub granatowa
 b) oznakowanie: flaga polska na lewym ramieniu − naszywka 5 Kurtka letnia a) barwa czerwona
 b) co najmniej dwie kieszenie boczne
@@ -115,12 +116,13 @@ c) dodatkowo co najmniej jedna kieszeń wewnętrzna na wysokości klatki piersio
 d) oznakowanie: − funkcja z prawej strony z przodu − naszywka − nazwisko z lewej strony z przodu − naszywka lub identyfikator z nazwiskiem − flaga polska na lewym ramieniu − naszywka − logo z wzorem graficznym systemu na prawym ramieniu − naszywka − na plecach napis: nazwa dysponenta lotniczego zespołu ratownictwa medycznego * Dla umundurowania letniego i zimowego członków lotniczego zespołu ratownictwa medycznego dopuszcza się:
 1) zastosowanie tkanin o barwie czerwonej lub fluorescencyjnej czerwonej oraz łączenie elementów umundurowania również o barwie granatowej i czarnej;
 2) umieszczenie dodatkowych elementów poprawiających komfort pracy i funkcjonalność umundurowania oraz bezpieczeństwo pracy.
+W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7.
 e) materiał odblaskowy − taśmy odblaskowe: − na rękawach wokół całego obwodu (poniżej stawu łokciowego), pojedynczy pas odblaskowy, w odległości co najmniej 50 mm od dolnej krawędzi rękawa − na dole kurtki wokół całego obwodu, pojedynczy pas odblaskowy w odległości co najmniej 50 mm od dolnej krawędzi kurtki
 f) kaptur z materiału wiatroszczelnego dopinany lub chowany w stójkę Umundurowanie zimowe 1 Kurtka rozpinana na zamek a) podpinka mocowana w sposób rozdzielczy błyskawiczny z podpinką b) materiał podpinki typu „polar” lub inny o podobnych właściwościach i kapturem c) barwa czerwona lub granatowa
 d) co najmniej dwie kieszenie boczne
 e) dodatkowo co najmniej jedna kieszeń wewnętrzna z otworem pionowym przy zapięciu głównym
 f) kaptur z materiału wiatroszczelnego dopinany lub chowany w stójkę
-g) oznakowanie: − funkcja z prawej strony z przodu − naszywka − nazwisko z lewej strony z przodu − naszywka lub identyfikator z nazwiskiem − flaga polska na lewym ramieniu − naszywka − logo z wzorem graficznym systemu na prawym ramieniu naszywka − na plecach napis: nazwa dysponenta lotniczego zespołu ratownictwa medycznego
+g) oznakowanie: − funkcja z prawej strony z przodu − naszywka − nazwisko z lewej strony z przodu − naszywka lub identyfikator z nazwiskiem − flaga polska na lewym ramieniu − naszywka − logo z wzorem graficznym systemu na prawym ramieniu – naszywka − na plecach napis: nazwa dysponenta lotniczego zespołu ratownictwa medycznego
 h) materiał odblaskowy − taśmy odblaskowe: − na rękawach wokół całego obwodu (poniżej stawu łokciowego), pojedynczy pas odblaskowy − na dole kurtki wokół całego obwodu, pojedynczy pas odblaskowy w odległości co najmniej 50 mm od dolnej krawędzi kurtki 2 Spodnie na szelki a) barwa czerwona lub granatowa
 b) co najmniej dwie kieszenie boczne
 c) wzmocnienia w miejscach narażonych na wycieranie, w szczególności na wysokości pośladków, krocza, kolan (wyprofilowanie kolan), na dole nogawek od strony wewnętrznej

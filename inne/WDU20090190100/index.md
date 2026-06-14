@@ -40,6 +40,21 @@ Art. 19–35. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** podmiot publiczny:
+    - **a)** jednostkę sektora finansów publicznych w rozumieniu przepisów finansach publicznych,
+    - **b)** inną, niż określona w lit. a, osobę prawną, utworzoną w szczególnym celu zaspokajania potrzeb charakterze powszechnym niemających charakteru przemysłowego ani handlowego, niedziałającą w zwykłych warunkach rynkowych, której celem nie jest wypracowanie zysku oraz nieponoszącą strat wynikających z prowadzenia działalności, jeżeli podmioty, których mowa w tym przepisie oraz w lit. a, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot: – finansują ją w ponad 50% lub – posiadają ponad połowę udziałów albo akcji, lub – sprawują nadzór nad organem zarządzającym, lub
+
+- **3)** składnik majątkowy – nieruchomość, część składową nieruchomości, przedsiębiorstwo w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326 i 1285), rzecz ruchomą oraz prawo majątkowe;
+- **4)** przedsięwzięcie:
+    - **a)** budowę lub remont obiektu budowlanego,
+    - **b)** świadczenie usług,
+    - **c)** wykonanie dzieła, w szczególności wyposażenie składnika majątkowego w urządzenia podwyższające jego wartość lub użyteczność, lub
+    - **d)** inne świadczenie – połączone z utrzymaniem lub zarządzaniem składnikiem majątkowym, który jest wykorzystywany do realizacji przedsięwzięcia publiczno-prywatnego lub jest z nim związany;
+
+- **5)** wkład własny – świadczenie podmiotu publicznego lub partnera prywatnego polegające w szczególności na:
+    - **a)** poniesieniu części wydatków na realizację przedsięwzięcia, w tym sfinansowaniu dopłat do usług świadczonych przez partnera prywatnego w ramach przedsięwzięcia,
+    - **b)** wniesieniu składnika majątkowego.
+
 **Art. 3.** (uchylony)
 
 #### Rozdział 1a Ocena efektywności realizacji przedsięwzięcia
@@ -196,6 +211,13 @@ Art. 19–35. (pominięte)
 2. Statut albo umowa spółki stanowią, że w razie bezskutecznego upływu terminu, którym mowa w ust. 1, udziały albo akcje partnera prywatnego, z wyjątkiem udziałów albo akcji należących do jednostek sektora finansów być nieodpłatne, jeżeli statut albo umowa spółki tak stanowią.
 
 **Art. 15.** Zgody wszystkich wspólników albo akcjonariuszy spółki, której mowa w art. 14 ust. 1 oraz 1a, wymaga:
+
+- **1)** zbycie lub obciążenie:
+    - **a)** nieruchomości,
+    - **b)** przedsiębiorstwa w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
+
+- **2)** zawiązanie innej spółki;
+- **3)** objęcie albo nabycie udziałów lub akcji innej spółki.
 
 **Art. 16.**
 

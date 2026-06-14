@@ -8,10 +8,10 @@ pos: 231
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 231 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 14 lutego 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000231) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/231/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 14 lutego 2024 r.
-w sprawie warunków wynagradzania za pracę pracowników parków narodowych i przyznawania im innych świadczeń związanych z pracą Na podstawie art. 103 ust. 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje: § 1. Rozporządzenie określa warunki wynagradzania za pracę pracowników parków narodowych, zwanych dalej „pracownikami”, i przyznawania im innych świadczeń związanych z pracą, w tym:
+w sprawie warunków wynagradzania za pracę pracowników parków narodowych i przyznawania im innych świadczeń związanych z pracą Na podstawie art. 103 ust. 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki wynagradzania za pracę pracowników parków narodowych, zwanych dalej „pracownikami”, i przyznawania im innych świadczeń związanych z pracą, w tym:
 1) kwoty wynagrodzenia zasadniczego;
 2) inne, poza wynagrodzeniem zasadniczym, składniki wynagrodzenia i ich kwoty:
 a) dodatek funkcyjny,
@@ -74,10 +74,10 @@ b) ośrodka hodowli zwierząt;
 3. Dodatek zadaniowy jest przyznawany w kwocie nieprzekraczającej 20% przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r.
 o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672).
 4. Dodatek zadaniowy nie przysługuje za wykonywanie zadań wynikających z zakresu obowiązków.
-§ 7. 1. Pracownikowi wykonującemu pracę w porze nocnej przysługuje dodatek do wynagrodzenia za każdą godzinę pracy w porze nocnej w wysokości 20% stawki godzinowej wynagrodzenia zasadniczego, nie niższy jednak od wysokości dodatku ustalonego na podstawie art. 151 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+§ 7. 1. Pracownikowi wykonującemu pracę w porze nocnej przysługuje dodatek do wynagrodzenia za każdą godzinę pracy w porze nocnej w wysokości 20% stawki godzinowej wynagrodzenia zasadniczego, nie niższy jednak od wysokości dodatku ustalonego na podstawie art. 151 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
 2. Pracownikowi zatrudnionemu stale w systemie pracy zmianowej przysługuje dodatek za każdą godzinę pracy:
-1) na II zmianie w wysokości 10%,
-2) na III zmianie w wysokości 20% stawki godzinowej wynagrodzenia zasadniczego.
+1) na II zmianie – w wysokości 10%,
+2) na III zmianie – w wysokości 20% – stawki godzinowej wynagrodzenia zasadniczego.
 3. W przypadku zbiegu uprawnień do dodatku za pracę w porze nocnej i do dodatku za pracę na II lub III zmianie przysługuje dodatek korzystniejszy dla pracownika.
 § 8. 1. Pracownikowi przysługuje dodatek za wysługę lat w wysokości 5% miesięcznego wynagrodzenia zasadniczego po 5 latach pracy. Dodatek ten wzrasta o 1% za każdy następny rok pracy do osiągnięcia 20% miesięcznego wynagrodzenia zasadniczego po 20 i więcej latach pracy.
 2. Do okresów pracy uprawniających do dodatku za wysługę lat wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz okresy prowadzenia działalności gospodarczej, a także inne okresy, jeżeli na podstawie odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
@@ -88,42 +88,42 @@ o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. p
 2) za dany miesiąc, jeżeli nabycie prawa do dodatku lub wyższej stawki dodatku nastąpiło pierwszego dnia miesiąca.
 § 9. Pracownikowi, z wyjątkiem dyrektora parku i jego zastępców oraz głównego księgowego, przysługuje dodatkowe wynagrodzenie roczne wypłacane na zasadach i w wysokości określonych w ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. z 2023 r. poz. 1690).
 § 10. 1. Pracownikowi spełniającemu warunki uprawniające do emerytury lub renty z tytułu niezdolności do pracy, którego stosunek pracy ustał w związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy, przysługuje jednorazowa odprawa pieniężna w wysokości:
-1) jednomiesięcznego wynagrodzenia jeżeli pracownik był zatrudniony krócej niż 10 lat;
-2) dwumiesięcznego wynagrodzenia po przepracowaniu co najmniej 10 lat;
-3) trzymiesięcznego wynagrodzenia po przepracowaniu co najmniej 15 lat;
-4) sześciomiesięcznego wynagrodzenia po przepracowaniu co najmniej 20 lat.
+1) jednomiesięcznego wynagrodzenia – jeżeli pracownik był zatrudniony krócej niż 10 lat;
+2) dwumiesięcznego wynagrodzenia – po przepracowaniu co najmniej 10 lat;
+3) trzymiesięcznego wynagrodzenia – po przepracowaniu co najmniej 15 lat;
+4) sześciomiesięcznego wynagrodzenia – po przepracowaniu co najmniej 20 lat.
 2. Przy ustalaniu okresów pracy i innych okresów uprawniających do jednorazowej odprawy stosuje się przepisy obowiązujące przy ustalaniu okresów uprawniających do dodatku za wysługę lat.
 3. Jednorazową odprawę oblicza się zgodnie z przepisami obowiązującymi przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
 4. Pracownik, który otrzymał jednorazową odprawę, nie może ponownie nabyć do niej prawa.
 § 11. 1. Pracownikowi przysługuje nagroda jubileuszowa w wysokości:
-1) 75% miesięcznego wynagrodzenia po 20 latach pracy;
-2) 100% miesięcznego wynagrodzenia po 25 latach pracy;
-3) 150% miesięcznego wynagrodzenia po 30 latach pracy;
-4) 200% miesięcznego wynagrodzenia po 35 latach pracy;
-5) 300% miesięcznego wynagrodzenia po 40 latach pracy;
-6) 400% miesięcznego wynagrodzenia po 45 latach pracy;
-7) 500% miesięcznego wynagrodzenia po 50 latach pracy.
+1) 75% miesięcznego wynagrodzenia – po 20 latach pracy;
+2) 100% miesięcznego wynagrodzenia – po 25 latach pracy;
+3) 150% miesięcznego wynagrodzenia – po 30 latach pracy;
+4) 200% miesięcznego wynagrodzenia – po 35 latach pracy;
+5) 300% miesięcznego wynagrodzenia – po 40 latach pracy;
+6) 400% miesięcznego wynagrodzenia – po 45 latach pracy;
+7) 500% miesięcznego wynagrodzenia – po 50 latach pracy.
 2. Do okresu pracy uprawniającego do nagrody jubileuszowej wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz okresy prowadzenia działalności gospodarczej, a także inne okresy, jeżeli na podstawie odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
 3. Do okresu pracy uprawniającego do nagrody jubileuszowej po 50 latach pracy wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne okresy, jeżeli na podstawie odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze, pod warunkiem że okresy te łącznie nie przekraczają 45 lat.
 4. Jeżeli pracownik był zatrudniony równocześnie w ramach więcej niż jednego zakończonego stosunku pracy, do okresu uprawniającego do nagrody jubileuszowej wlicza się jeden z tych okresów zatrudnienia.
 5. Pracownik nabywa prawo do nagrody jubileuszowej w dniu upływu okresu uprawniającego do tej nagrody.
 6. Pracownik dokumentuje swoje prawo do nagrody jubileuszowej, jeżeli w jego aktach osobowych brak jest odpowiedniej dokumentacji.
 7. Wypłata nagrody jubileuszowej następuje niezwłocznie po nabyciu przez pracownika prawa do tej nagrody.
-8. Podstawę obliczenia nagrody jubileuszowej stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do tej nagrody, a jeżeli dla pracownika jest to korzystniejsze wynagrodzenie przysługujące mu w dniu jej wypłaty.
+8. Podstawę obliczenia nagrody jubileuszowej stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do tej nagrody, a jeżeli dla pracownika jest to korzystniejsze – wynagrodzenie przysługujące mu w dniu jej wypłaty.
 Jeżeli pracownik nabył prawo do nagrody jubileuszowej, będąc zatrudnionym w innym wymiarze czasu pracy niż w dniu jej wypłaty, podstawę obliczenia nagrody stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do nagrody jubileuszowej. Nagrodę jubileuszową oblicza się zgodnie z przepisami obowiązującymi przy ustalaniu ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy.
 9. W przypadku ustania stosunku pracy w związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy pracownikowi, któremu do nabycia prawa do nagrody jubileuszowej brakuje mniej niż 12 miesięcy, licząc od dnia rozwiązania stosunku pracy, wypłaca się tę nagrodę w dniu rozwiązania stosunku pracy.
 10. Jeżeli w dniu wejścia w życie przepisów wprowadzających zaliczalność do okresów uprawniających do świadczeń pracowniczych okresów niepodlegających dotychczas zaliczeniu upływa okres uprawniający pracownika do dwóch lub więcej nagród jubileuszowych, wypłaca mu się nagrodę najwyższą.
-11. Pracownikowi, który w dniu wejścia w życie przepisów, o których mowa w ust. 10, ma okres dłuższy niż wymagany do nagrody jubileuszowej w danej wysokości, a w ciągu 12 miesięcy od tego dnia upłynie okres uprawniający go do nabycia nagrody jubileuszowej w wyższej wysokości, nagrodę niższą wypłaca się w pełnej wysokości, a w dniu nabycia prawa do nagrody wyższej różnicę między kwotą nagrody wyższej a kwotą nagrody niższej.
+11. Pracownikowi, który w dniu wejścia w życie przepisów, o których mowa w ust. 10, ma okres dłuższy niż wymagany do nagrody jubileuszowej w danej wysokości, a w ciągu 12 miesięcy od tego dnia upłynie okres uprawniający go do nabycia nagrody jubileuszowej w wyższej wysokości, nagrodę niższą wypłaca się w pełnej wysokości, a w dniu nabycia prawa do nagrody wyższej – różnicę między kwotą nagrody wyższej a kwotą nagrody niższej.
 12. Przepisy ust. 10 i 11 stosuje się, jeżeli w dniu, w którym pracownik udokumentował swoje prawo do nagrody jubileuszowej w niższej wysokości, był uprawniony do nagrody w wyższej wysokości oraz gdy pracownik prawo to nabędzie w ciągu 12 miesięcy od tego dnia.
 § 12. 1. W ramach środków na wynagrodzenia tworzy się fundusz premiowy w wysokości co najmniej 5% wynagrodzeń zasadniczych, z przeznaczeniem na premię motywacyjną dla pracowników.
 2. Premia motywacyjna dla pracowników ma charakter uznaniowy, może być przyznana indywidualnie w okresach miesięcznych i jest naliczana procentowo od wynagrodzenia zasadniczego.
 § 13. 1. Za czas niezdolności pracownika do pracy wskutek:
-1) choroby lub odosobnienia w związku z chorobą zakaźną trwającej łącznie do 33 dni w ciągu roku kalendarzowego, a w przypadku pracownika, który ukończył 50 rok życia trwającej łącznie do 14 dni w ciągu roku kalendarzowego pracownik ma prawo do:
+1) choroby lub odosobnienia w związku z chorobą zakaźną – trwającej łącznie do 33 dni w ciągu roku kalendarzowego, a w przypadku pracownika, który ukończył 50 rok życia – trwającej łącznie do 14 dni w ciągu roku kalendarzowego – pracownik ma prawo do:
 a) 80% wynagrodzenia, jeżeli okres jego zatrudnienia wynosi mniej niż 15 lat,
 b) 100% wynagrodzenia, jeżeli okres jego zatrudnienia wynosi co najmniej 15 lat;
-2) choroby lub odosobnienia w związku z chorobą zakaźną w okresie od 34 dnia niezdolności do pracy włącznie, a w przypadku pracownika, który ukończył 50 rok życia w okresie od 15 dnia niezdolności do pracy włącznie pracownik otrzymuje od pracodawcy świadczenie uzupełniające w wysokości stanowiącej różnicę między kwotą odpowiadającą 100% wynagrodzenia a kwotą otrzymywanego na zasadach określonych w odrębnych przepisach zasiłku chorobowego, pod warunkiem że okres jego zatrudnienia wynosi co najmniej 15 lat;
-3) wypadku w drodze do pracy lub z pracy albo choroby przypadającej w okresie ciąży w okresach wskazanych w pkt 1 pracownik zachowuje prawo do 100% wynagrodzenia;
-4) poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów w okresach wskazanych w pkt 1 pracownik zachowuje prawo do 100% wynagrodzenia.
+2) choroby lub odosobnienia w związku z chorobą zakaźną w okresie od 34 dnia niezdolności do pracy włącznie, a w przypadku pracownika, który ukończył 50 rok życia – w okresie od 15 dnia niezdolności do pracy włącznie – pracownik otrzymuje od pracodawcy świadczenie uzupełniające w wysokości stanowiącej różnicę między kwotą odpowiadającą 100% wynagrodzenia a kwotą otrzymywanego na zasadach określonych w odrębnych przepisach zasiłku chorobowego, pod warunkiem że okres jego zatrudnienia wynosi co najmniej 15 lat;
+3) wypadku w drodze do pracy lub z pracy albo choroby przypadającej w okresie ciąży – w okresach wskazanych w pkt 1 – pracownik zachowuje prawo do 100% wynagrodzenia;
+4) poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów – w okresach wskazanych w pkt 1 – pracownik zachowuje prawo do 100% wynagrodzenia.
 2. Przy ustalaniu okresu zatrudnienia, o którym mowa w ust. 1, stosuje się przepisy obowiązujące przy ustalaniu okresów uprawniających do dodatku za wysługę lat.
 3. Wynagrodzenie, o którym mowa w ust. 1, oblicza się według przepisów obowiązujących przy ustalaniu podstawy wymiaru zasiłku chorobowego i wypłaca za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
 § 14. Wynagrodzenie zasadnicze pracownika zatrudnionego w parku narodowym ustalone na dzień 1 stycznia 2024 r.

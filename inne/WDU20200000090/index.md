@@ -8,10 +8,10 @@ pos: 90
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 stycznia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 90 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I żEGluGI śRóDlĄDOwEJ z dnia 20 grudnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/90/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I żEGluGI śRóDlĄDOwEJ z dnia 20 grudnia 2019 r.
 w sprawie inspekcji państwa portu Na podstawie art. 58 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, 1702, 2197 i 2303) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób funkcjonowania inspekcji państwa portu, zwanej dalej „inspekcją”;
 2) tryb przeprowadzania inspekcji przez inspektora inspekcji państwa portu, zwanego dalej „inspektorem”;
 3) zakres i sposób przeprowadzania poszczególnych rodzajów inspekcji;
@@ -40,25 +40,27 @@ w sprawie inspekcji państwa portu Na podstawie art. 58 ustawy z dnia 18 sierpni
 11) sposób przekazywania informacji, o których mowa w art. 60 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanej dalej „ustawą”;
 12) wzory decyzji, o których mowa w art. 43 ust. 1 i 6, art. 45 ust. 1, art. 48 ust. 1, art. 49 ust. 9, art. 50 ust. 1 i 6 oraz art. 54 ust. 1 ustawy.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) konwencje umowy międzynarodowe, o których mowa w art. 5 pkt 33 ustawy, oraz:
+1) konwencje – umowy międzynarodowe, o których mowa w art. 5 pkt 33 ustawy, oraz:
 a) Międzynarodową konwencję o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami bunkrowymi, przyjętą przez Międzynarodową Organizację Morską w Londynie w dniu 23 marca 2001 r. (Dz. U.
 z 2008 r. poz. 939),
 b) Międzynarodową konwencję o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami, sporządzoną w Brukseli dnia 29 listopada 1969 r. (Dz. U. z 1976 r. poz. 184 i 185), zmienioną Protokołem sporządzonym w Londynie dnia 27 listopada 1992 r. (Dz. U. z 2001 r. poz. 1526 i 1528 oraz z 2008 r. poz. 962 i 963);
-2) Memorandum Paryskie międzynarodowe porozumienie państw Europy i Kanady w sprawie regionalnego systemu portowej kontroli statków obcych bander zawijających do ich portów, podpisane w Paryżu dnia 26 stycznia 1982 r.
+2) Memorandum Paryskie – międzynarodowe porozumienie państw Europy i Kanady w sprawie regionalnego systemu portowej kontroli statków obcych bander zawijających do ich portów, podpisane w Paryżu dnia 26 stycznia 1982 r.
 (Dz. Urz. MIiR z 2014 r. poz. 61);
-3) Program Szkolenia i Oceny Kompetencji Inspektorów PSC prowadzony przez Koordynatora do Spraw Inspekcji Państwa Portu program szkolenia i oceny kompetencji inspektorów, zgodny z postanowieniami Memorandum Paryskiego oraz programem opracowanym przez Komisję Europejską, pozwalający odpowiednio dokumentować wiedzę i kompetencje inspektorów;
-4) morski certyfikat pracy certyfikat, o którym mowa w prawidle 5.1.3 Konwencji o pracy na morzu, przyjętej przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 23 lutego 2006 r. (Dz. U. z 2013 r. poz. 845, z 2017 r. poz. 512 oraz z 2019 r. poz. 962), zwanej dalej „Konwencją MLC”;
-5) deklaracja zgodności deklaracja, o której mowa w prawidle 5.1.3 Konwencji MLC.
+3) Program Szkolenia i Oceny Kompetencji Inspektorów PSC – prowadzony przez Koordynatora do Spraw Inspekcji Państwa Portu program szkolenia i oceny kompetencji inspektorów, zgodny z postanowieniami Memorandum Paryskiego oraz programem opracowanym przez Komisję Europejską, pozwalający odpowiednio dokumentować wiedzę i kompetencje inspektorów;
+4) morski certyfikat pracy – certyfikat, o którym mowa w prawidle 5.1.3 Konwencji o pracy na morzu, przyjętej przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 23 lutego 2006 r. (Dz. U. z 2013 r. poz. 845, z 2017 r. poz. 512 oraz z 2019 r. poz. 962), zwanej dalej „Konwencją MLC”;
+5) deklaracja zgodności – deklaracja, o której mowa w prawidle 5.1.3 Konwencji MLC.
 § 3. 1. W trakcie przeprowadzania inspekcji inspektor podejmuje czynności niezbędne do tego, aby inspekcjonowane statki nie stanowiły zagrożenia dla bezpieczeństwa żeglugi, zdrowia osób lub środowiska.
 2. Inspektor przeprowadza inspekcje zgodnie z postanowieniami konwencji oraz procedurami i instrukcjami przyjętymi w ramach Memorandum Paryskiego, określonymi w systemie zarządzania jakością wprowadzonym przez dyrektora urzędu morskiego.
 § 4. Inspektor, przeprowadzając inspekcję statku podnoszącego banderę państwa niebędącego stroną konwencji lub statku niepodlegającego konwencjom, stosuje wobec tego statku i jego załogi te same kryteria, jak wobec załogi i statku podnoszącego banderę państwa będącego stroną konwencji, zgodnie z postanowieniami załącznika I do Memorandum Paryskiego.
+§ 5. Inspekcje może przeprowadzać inspektor, który:
 1) posiada:
 a) dyplom kapitana żeglugi wielkiej lub starszego oficera na statkach o pojemności brutto 3000 i powyżej oraz minimum pięcioletni staż pracy w charakterze oficera na statkach morskich, asystenta inspektora lub inspektora inspekcji państwa bandery, z tym że przynajmniej dwa lata pracy w charakterze oficera na statkach morskich,
 b) dyplom starszego oficera mechanika lub drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej oraz minimum pięcioletni staż pracy w charakterze oficera na statkach morskich, asystenta inspektora lub inspektora inspekcji państwa bandery, z tym że przynajmniej dwa lata pracy w charakterze oficera na statkach morskich,
 c) tytuł inżyniera budowy okrętów, inżyniera mechanika lub inżyniera w zawodzie związanym z gospodarką morską oraz minimum pięcioletni staż pracy w tym zawodzie, lub
-d) tytuł licencjata, inżyniera, magistra lub równorzędny oraz dokument potwierdzający odbycie przeszkolenia z za kresu wymagań dotyczących bezpieczeństwa statków oraz procedur przeprowadzania inspekcji;
+d) tytuł licencjata, inżyniera, magistra lub równorzędny oraz dokument potwierdzający odbycie przeszkolenia z zakresu wymagań dotyczących bezpieczeństwa statków oraz procedur przeprowadzania inspekcji;
 2) był, w tym w trakcie stażu pracy, o którym mowa w pkt 1, co najmniej przez rok:
 a) inspektorem inspekcji państwa bandery i przeprowadzał inspekcje w celu wydania certyfikatów lub nadzorował działalność uznanych organizacji, lub
+b) asystentem inspektora i uczestniczył w inspekcjach przeprowadzanych przez inspektorów;
 3) posiada zdolność ustnego i pisemnego komunikowania się z marynarzami w języku angielskim lub innym powszechnie stosowanym na morzu;
 4) posiada wiedzę w zakresie uregulowanym przez konwencje dotyczącą odpowiednich procedur inspekcji.
 § 6. Inspekcje w zakresie ochrony żeglugi może przeprowadzać inspektor, który spełnia wymagania określone w § 5 oraz posiada wiedzę w zakresie ochrony żeglugi i portów morskich, w szczególności:
@@ -76,11 +78,12 @@ a) inspektorem inspekcji państwa bandery i przeprowadzał inspekcje w celu wyda
 § 10. 1. Organy inspekcyjne współpracują w szczególności z Morską Służbą Poszukiwania i Ratownictwa, władzami portowymi, Strażą Graniczną, Krajową Administracją Skarbową i państwowymi granicznymi inspektorami sanitarnymi w celu uzyskania odpowiednich informacji na temat statków zawijających do polskich portów.
 2. Organy inspekcyjne prowadzą wymianę informacji i współpracują z właściwymi organami administracji morskiej oraz odpowiednimi władzami innych państw, Komisją Europejską i operatorem systemu THETIS.
 § 11. Wzór dokumentu identyfikacyjnego inspektora określa załącznik nr 1 do rozporządzenia.
+§ 12. 1. Wybierając statki do przeprowadzania inspekcji, bierze się pod uwagę:
 1) priorytet statku;
 2) częstotliwość zawijania statku do portów regionu Memorandum Paryskiego;
 3) zobowiązania inspekcyjne Rzeczypospolitej Polskiej;
 4) informacje pochodzące z systemu THETIS, uwzględniające postanowienia załącznika I do dyrektywy Parlamentu Europejskiego i Rady 2009/16/WE z dnia 23 kwietnia 2009 r. w sprawie kontroli przeprowadzanej przez państwo portu (Dz. Urz. UE L 131 z 28.05.2009, str. 57, z późn. zm. );
-5) w przypadku statków pasażerskich typu ro- ro i szybkich statków pasażerskich także przepisy § 20–22.
+5) w przypadku statków pasażerskich typu ro- ro i szybkich statków pasażerskich – także przepisy § 20–22.
 2. Planując inspekcję statku pasażerskiego typu ro- ro lub szybkiego statku pasażerskiego, organ inspekcyjny uwzględnia harmonogram eksploatacji i konserwacji statku pasażerskiego typu ro- ro lub szybkiego statku pasażerskiego.
 § 13. 1. Czynniki nadrzędne stanowią:
 1) zawieszenie lub wycofanie klasy statku ze względów bezpieczeństwa, od czasu ostatniej inspekcji w regionie Memorandum Paryskiego,
@@ -132,7 +135,8 @@ a) inspektorem inspekcji państwa bandery i przeprowadzał inspekcje w celu wyda
 16) warunki życia i pracy na statku nie spełniają wymogów Konwencji MLC lub przekazano informację, o której mowa w art. 56 ust. 1 pkt 2 ustawy,
 17) istnieją uzasadnione podstawy, by sądzić, że statek zmienił banderę w celu uniknięcia przestrzegania wymogów Konwencji MLC, lub
 18) w opinii inspektora, który opiera się na swojej wiedzy i doświadczeniu zawodowym, są podstawy do jej przeprowadzenia.
-3. Inspekcja bardziej szczegółowa obejmuje szczegółowe sprawdzenie zgodności z procedurami operacyjnymi obowią§ 17. Inspekcję bardziej szczegółową przeprowadza się również w przypadku stwierdzenia, że:
+3. Inspekcja bardziej szczegółowa obejmuje szczegółowe sprawdzenie zgodności z procedurami operacyjnymi obowiązującymi na statku.
+§ 17. Inspekcję bardziej szczegółową przeprowadza się również w przypadku stwierdzenia, że:
 1) międzynarodowy certyfikat ochrony statku (ISSC) jest nieważny,
 2) poziom ochrony statku jest niższy niż poziom ochrony portu lub obiektu portowego,
 3) nie zostały w wymaganym terminie przeprowadzone ćwiczenia w zakresie ochrony statku,
@@ -159,17 +163,17 @@ a) inspektorem inspekcji państwa bandery i przeprowadzał inspekcje w celu wyda
 § 19. 1. W przypadku stwierdzenia w wyniku inspekcji bardziej szczegółowej, że warunki życia i pracy na statku nie spełniają wymogów Konwencji MLC, organ inspekcyjny informuje kapitana statku o uchybieniach i terminach, w jakich należy je usunąć.
 2. W przypadku gdy uchybienia, o których mowa w ust. 1, są znaczące lub są związane ze złożoną informacją, o której mowa w art. 56 ust. 1 ustawy, organ inspekcyjny informuje o tych uchybieniach również reprezentatywne organizacje zrzeszające odpowiednio marynarzy lub armatorów.
 § 20. Statek pasażerski typu ro -ro oraz szybki statek pasażerski przed rozpoczęciem żeglugi na linii regularnej podlegają inspekcji wstępnej obejmującej czynności określone w załączniku nr 3 do rozporządzenia.
-§ 21. 1. W przypadku, o którym mowa w § 20, organ inspekcyjny może nie przeprowadzić inspekcji wstępnej i uwzględnić inspekcje przeprowadzane w ciągu ostatnich ośmiu miesięcy przez organ inspekcyjny innego państwa członkowskiego, jeżeli wyniki uprzednio przeprowadzonych inspekcji są ważne w nowych warunkach eksploatacji statku pasażerskiego typu ro- ro lub szybkiego statku pasażerskiego i potwierdzają spełnianie wymogów niezbędnych do bezpiecznego uprawiania żeglugi na linii regularnej.
+§ 21. 1. W przypadku, o którym mowa w § 20, organ inspekcyjny może nie przeprowadzić inspekcji wstępnej i uwzględnić inspekcje przeprowadzane w ciągu ostatnich ośmiu miesięcy przez organ inspekcyjny innego państwa członkowskiego, jeżeli wyniki uprzednio przeprowadzonych inspekcji są ważne w nowych warunkach eksploatacji statku pasażerskiego typu ro -ro lub szybkiego statku pasażerskiego i potwierdzają spełnianie wymogów niezbędnych do bezpiecznego uprawiania żeglugi na linii regularnej.
 2. Inspekcje, o których mowa w § 20, nie muszą być przeprowadzane przed rozpoczęciem uprawiania przez statek pasażerski typu ro- ro lub szybki statek pasażerski żeglugi na nowej linii regularnej, jeżeli wyniki uprzednio przeprowadzonych inspekcji potwierdzają spełnianie wymogów niezbędnych do bezpiecznego uprawiania żeglugi na nowej linii regularnej.
-3. W przypadku gdy w wyniku nieprzewidzianych okoliczności zachodzi pilna potrzeba szybkiego wprowadzenia zamiennego statku pasażerskiego typu ro -ro lub szybkiego statku pasażerskiego w celu zapewnienia ciągłości żeglugi, a przepisy ust. 1 i 2 nie mają zastosowania, organ inspekcyjny może zezwolić na rozpoczęcie uprawiania żeglugi przez ten statek pasażerski typu ro -ro lub ten szybki statek pasażerski, jeżeli oględziny oraz kontrola dokumentów nie budzą wątpliwości, że statek pasażerski typu ro -ro lub szybki statek pasażerski spełnia wymogi niezbędne do bezpiecznej eksploatacji.
+3. W przypadku gdy w wyniku nieprzewidzianych okoliczności zachodzi pilna potrzeba szybkiego wprowadzenia zamiennego statku pasażerskiego typu ro -ro lub szybkiego statku pasażerskiego w celu zapewnienia ciągłości żeglugi, a przepisy ust. 1 i 2 nie mają zastosowania, organ inspekcyjny może zezwolić na rozpoczęcie uprawiania żeglugi przez ten statek pasażerski typu ro -ro lub ten szybki statek pasażerski, jeżeli oględziny oraz kontrola dokumentów nie budzą wątpliwości, że statek pasażerski typu ro- ro lub szybki statek pasażerski spełnia wymogi niezbędne do bezpiecznej eksploatacji.
 4. W przypadku, o którym mowa w ust. 3, armator przedstawia, w terminie uzgodnionym z organem inspekcyjnym, statek pasażerski typu ro- ro lub szybki statek pasażerski do inspekcji wstępnej, którą organ inspekcyjny przeprowadza w terminie nie dłuższym niż miesiąc od dnia rozpoczęcia uprawiania żeglugi na linii regularnej.
-§ 22. 1. Statek pasażerski typu ro- ro oraz szybki statek pasażerski uprawiające żeglugę na linii regularnej podlegają inspekcji:
-1) obejmującej czynności określone w załączniku nr 3 do rozporządzenia oraz stosownie do przypadku rozporządzenia Komisji (UE) nr 428/2010 z dnia 20 maja 2010 r. w sprawie wykonania art. 14 dyrektywy Parlamentu Europejskiego i Rady 2009/16/WE w odniesieniu do rozszerzonych inspekcji statków;
+§ 22. 1. Statek pasażerski typu ro -ro oraz szybki statek pasażerski uprawiające żeglugę na linii regularnej podlegają inspekcji:
+1) obejmującej czynności określone w załączniku nr 3 do rozporządzenia oraz – stosownie do przypadku – rozporządzenia Komisji (UE) nr 428/2010 z dnia 20 maja 2010 r. w sprawie wykonania art. 14 dyrektywy Parlamentu Europejskiego i Rady 2009/16/WE w odniesieniu do rozszerzonych inspekcji statków;
 2) w trakcie uprawiania żeglugi na linii regularnej obejmującej:
 a) spełnienie wystarczającej liczby wymogów wymienionych w załączniku nr 3 do rozporządzenia zgodnie z fachową oceną inspektora,
 b) zagadnienia wymienione w załączniku nr 4 do rozporządzenia.
 2. Inspekcje, o których mowa w ust. 1, odbywają się co najmniej raz w roku, a odstęp między nimi wynosi nie mniej niż cztery miesiące i nie więcej niż osiem miesięcy.
-3. W przypadku gdy statek pasażerski typu ro -ro lub szybki statek pasażerski nie został poddany inspekcjom, o których mowa w ust. 1, statek ten otrzymuje status statku o priorytecie I.
+3. W przypadku gdy statek pasażerski typu ro- ro lub szybki statek pasażerski nie został poddany inspekcjom, o których mowa w ust. 1, statek ten otrzymuje status statku o priorytecie I.
 4. Inspekcję przeprowadzoną zgodnie z § 20 uznaje się za równoważną z inspekcją, o której mowa w ust. 1 pkt 1.
 5. Inspekcje przeprowadzone ze względu na wystąpienie czynników nadrzędnych lub nieprzewidzianych okoliczności zgodnie z § 12 ust. 1 pkt 4 nie mają wpływu na częstotliwość inspekcji określonych w ust. 1 i 2.
 § 23. 1. Organ inspekcyjny może wyrazić zgodę na to, aby podczas inspekcji statków pasażerskich typu ro -ro lub szybkich statków pasażerskich towarzyszył mu, w charakterze obserwatora, inspektor państwa portu innego państwa członkowskiego.
@@ -211,14 +215,15 @@ l) przekazywania niezbędnych informacji w czasie wypadku i zagrożenia;
 § 28. 1. Informacje, o których mowa w art. 60 ustawy, przekazuje się Komisji Europejskiej za pomocą systemu THETIS lub w formie pisemnej do dnia 1 kwietnia każdego roku.
 2. Listę regularnych pasażerskich i towarowych połączeń promowych przekazuje się Komisji Europejskiej wraz z podaniem dla każdego statku jego nazwy, numeru IMO i trasy oraz każdorazowo informuje o zmianach dotyczących tej listy.
 3. Informacje o liczbie inspektorów podlegające przekazaniu Komisji Europejskiej określa załącznik nr 18 do rozporządzenia.
+§ 29. Wymagania, o których mowa w § 5 pkt 1 i 2, nie dotyczą osób zatrudnionych w charakterze inspektora inspekcji państwa portu w dniu wejścia w życie rozporządzenia.
 § 30. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Upoważniam posiadacza niniejszego dokumentu do wykonywania zadań inspekcji państwa portu zgodnie z ustawą z dnia 18 sierpnia 2011 r.
+Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Załączniki do rozporządzenia Załączniki Ministra Gospodarki do rozporządzenia Morskiej i Ministra Żeglugi Gospodarki Śródlądowej Morskiej z dnia 20 i Żeglugi grudnia Śródlądowej 2019 r. (poz. z dnia ) 20 grudnia 2019 r. (poz. ) Załącznik nr 1 Załącznik nr 1 WZÓR WZÓR WZÓR DOKUMENT IDENTYFIKACYJNY INSPEKTORA INSPEKCJI PAŃSTWA PORTU DOKUMENT IDENTYFIKACYJNY INSPEKTORA INSPEKCJI PAŃSTWA PORTU RZECZPOSPOLITA POLSKA RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND REPUBLIC OF POLAND Imię i nazwisko posiadacza: Imię i nazwisko posiadacza: Full name of the holder: Full name of the holder: miejsce na ……………………………… miejsce na ……………………………… fotografię fotografię 43 x 33 mm Stanowisko: Inspektor PSC 43 x 33 mm Stanowisko: Inspektor PSC photograph Rank: PSC Officer photograph Rank: PSC Officer Podpis posiadacza: Podpis posiadacza: Signature of the holder: Signature of the holder: ……………………………… ……………………………… No. ……… No. ……… Organ wydający: Dyrektor Urzędu Morskiego w…………… Organ wydający: Dyrektor Urzędu Morskiego w…………… Issuing authority Issuing authority Upoważniam posiadacza niniejszego dokumentu do wykonywania zadań inspekcji państwa portu zgodnie z ustawą z dnia 18 sierpnia 2011 r.
 o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, z późn. zm.), rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 20 grudnia 2019 r. w sprawie inspekcji państwa portu (Dz. U. z 2020 r. poz. 90) oraz procedurami Memorandum Paryskiego w sprawie kontroli państwa portu.
 Niniejszy dokument uprawnia do wstępu na teren właściwego portu i obiektu portowego oraz na statek w celu wykonania czynności inspekcyjnych.
 Dyrektor Urzędu Morskiego w ……………………………..
 This is to certify that the holder of this identity card is authorized by the Director of Maritime Office in ……………….. to carry out port State control in accordance with the Act of 18 August 2011 on maritime safety (Journal of Laws of 2019 item 1452, as amended), with the regulation of Minister of Maritime Economy and Inland Navigation of 20 December 2019 on the Port State Control (Journal of Laws of 2020 item 90) and Procedures of the Paris Memorandum of Understanding on Port State Control.
 This document authorizes the holder to access to the port area, the port facility and the vessel in order to carry out port State control.
-Director of Maritime Office in ……………………………… Uwagi: dokument identyfikacyjny ma wymiary 106 x 66 mm, numer dokumentu składa się z liter PSC, po których umieszcza się skrót właściwego urzędu morskiego oraz trzycyfrowy kolejny numer zgodnie z ewidencją inspektorów prowadzoną przez właściwy urząd morski, np.: PSC-UMGDY-006, PSC-UMSZCZ-003, PSC-UMSL-002, dokument jest dwustronnie laminowany folią plastikową.
+Director of Maritime Office in ……………………………… Uwagi: – dokument identyfikacyjny ma wymiary 106 x 66 mm, – numer dokumentu składa się z liter PSC, po których umieszcza się skrót właściwego urzędu morskiego oraz trzycyfrowy kolejny numer zgodnie z ewidencją inspektorów prowadzoną przez właściwy urząd morski, np.: PSC-UMGDY-006, PSC-UMSZCZ-003, PSC-UMSL-002, – dokument jest dwustronnie laminowany folią plastikową.
 CERTYFIKATY I DOKUMENTY PODLEGAJĄCE INSPEKCJI
 1) Międzynarodowy certyfikat pomiarowy (International Tonnage Certificate).
 2) Certyfikat bezpieczeństwa statku pasażerskiego (Passenger Ship Safety Certificate).
@@ -227,8 +232,8 @@ CERTYFIKATY I DOKUMENTY PODLEGAJĄCE INSPEKCJI
 5) Certyfikat bezpieczeństwa radiowego statku towarowego (Cargo Ship Safety Radio Certificate).
 6) Certyfikat zwolnienia wraz z, w odpowiednich przypadkach, wykazem ładunków (Exemption Certificate, including, where appropriate, the list of cargoes).
 7) Certyfikat bezpieczeństwa statku towarowego (Cargo Ship Safety Certificate).
-8) Międzynarodowy certyfikat ochrony statku (International Ship Security Certificate ISSC).
-9) Zapis historii statku (Continuous Synopsis Record CSR).
+8) Międzynarodowy certyfikat ochrony statku (International Ship Security Certificate – ISSC).
+9) Zapis historii statku (Continuous Synopsis Record – CSR).
 10) Międzynarodowy certyfikat zdolności do przewozu ciekłych gazów luzem (International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk).
 11) Certyfikat zdolności do przewozu ciekłych gazów luzem (Certificate of Fitness for the Carriage of Liquefied Gases in Bulk).
 12) Międzynarodowy certyfikat zdolności do przewozu niebezpiecznych chemikaliów luzem (International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk).
@@ -246,19 +251,19 @@ CERTYFIKATY I DOKUMENTY PODLEGAJĄCE INSPEKCJI
 24) Rejestr godzin pracy i odpoczynku marynarzy (Records of hours of work and rest of seafarers).
 25) Informacja o stateczności (Stability information).
 26) Kopia dokumentu zgodności i certyfikat zarządzania bezpieczeństwem wydane zgodnie z Kodeksem ISM (Copy of the Document of Compliance and Safety Management Certificate issued in accordance with International Management Code for the Safe Operation of Ships and for Pollution Prevention).
-27) Świadectwa dotyczące wytrzymałości kadłuba statku i urządzeń maszynowych wydane przez stosowną uznaną organizację (wymagane tylko w przypadkach, kiedy statek utrzymuje klasę w uznanej organizacji) (Certificates as to the ship’s hull strength and machinery installations issued by the recognized organisation in question only to be required if the ship maintains its class with a recognized organisation).
+27) Świadectwa dotyczące wytrzymałości kadłuba statku i urządzeń maszynowych wydane przez stosowną uznaną organizację (wymagane tylko w przypadkach, kiedy statek utrzymuje klasę w uznanej organizacji) (Certificates as to the ship’s hull strength and machinery installations issued by the recognized organisation in question – only to be required if the ship maintains its class with a recognized organisation).
 28) Dokument zgodności ze specjalnymi wymaganiami dla statków przewożących towary niebezpieczne (Document of compliance with the special requirements for ships carrying dangerous goods).
 29) Certyfikat bezpieczeństwa szybkich statków pasażerskich oraz pozwolenie na ich eksploatację (High Speed Craft Certificate and Permit to Operate High Speed Craft).
 30) Manifest towarów niebezpiecznych lub wykaz ładunku, lub szczegółowy plan ładunkowy (Dangerous goods special lists or manifest, or detailed stowage plan).
-31) okrętowy zawierający zapisy testów i ćwiczeń, w tym ćwiczeń związanych z ochroną, oraz dziennik inspekcji i konserwacji środków ratunkowych i przeciwpożarowych oraz ich rozmieszczenia (Ship’s log book with respect to the records of tests and drills, including security drills, and the log for records of inspection and maintenance of lifesaving appliance and arrangements and of the fire fighting appliances and arrangements).
+31) Dziennik okrętowy zawierający zapisy testów i ćwiczeń, w tym ćwiczeń związanych z ochroną, oraz dziennik inspekcji i konserwacji środków ratunkowych i przeciwpożarowych oraz ich rozmieszczenia (Ship’s log book with respect to the records of tests and drills, including security drills, and the log for records of inspection and maintenance of lifesaving appliance and arrangements and of the fire fighting appliances and arrangements).
 32) Certyfikat bezpieczeństwa statku specjalistycznego (Special Purpose Ship Safety Certificate).
 33) Certyfikat bezpieczeństwa morskiej ruchomej platformy wiertniczej (MODU) (Mobile Offshore Drilling Unit Safety Certificate).
-34) Dla zbiornikowców do przewozu ropy naftowej zapis systemu monitorowania i kontroli postępowania z olejami podczas ostatniego rejsu w stanie balastowym (for oil tankers the record of oil discharge monitoring and control system for the last balast voyage).
-35) Rozkład alarmowy, plan ochrony przeciwpożarowej, statkowy podręcznik ochrony przeciwpożarowej, a dla statków pasażerskich plan zabezpieczenia niezatapialności (The muster list, fire control plan, fire safety operational booklet and for passanger ships a damage control plans and booklets).
+34) Dla zbiornikowców do przewozu ropy naftowej – zapis systemu monitorowania i kontroli postępowania z olejami podczas ostatniego rejsu w stanie balastowym (for oil tankers – the record of oil discharge monitoring and control system for the last balast voyage).
+35) Rozkład alarmowy, plan ochrony przeciwpożarowej, statkowy podręcznik ochrony przeciwpożarowej, a dla statków pasażerskich – plan zabezpieczenia niezatapialności (The muster list, fire control plan, fire safety operational booklet and for passanger ships – a damage control plans and booklets).
 36) Plan zapobiegania rozlewom olejowym (Shipboard Oil Pollution Emergency Plan).
-37) Dokumentacja przeglądów w przypadku masowców i zbiornikowców do przewozu ropy naftowej (Survey report files in case of bulk carriers and oil tankers).
+37) Dokumentacja przeglądów – w przypadku masowców i zbiornikowców do przewozu ropy naftowej (Survey report files in case of bulk carriers and oil tankers).
 38) Protokoły z poprzednich inspekcji w ramach inspekcji państwa portu (Reports of previous port State control inspections).
-39) Dla statków pasażerskich typu ro- ro informacja o maksymalnym współczynniku A/A (for ro -ro passenger ships information on the A/A maximum ratio).
+39) Dla statków pasażerskich typu ro- ro – informacja o maksymalnym współczynniku A/A (for ro -ro passenger ships – information on the A/A maximum ratio).
 40) Dokument uprawniający do przewozu ziarna (Document of authorisation for the carriage of grain).
 41) Poradnik mocowania ładunków (Cargo Securing Manual).
 42) Plan postępowania z odpadami i książka zapisów odpadowych (Garbage Management Plan and Garbage Record Book).
@@ -267,12 +272,12 @@ CERTYFIKATY I DOKUMENTY PODLEGAJĄCE INSPEKCJI
 45) Wykaz ograniczeń eksploatacyjnych dla statków pasażerskich (Lists of operational limitations for passenger ships).
 46) Instrukcje operacji ładunkowych na masowcu (Bulk Carrier Booklet).
 47) Plan załadunku i rozładunku dla masowców (Loading and unloading plan for bulk carriers).
-48) Certyfikat ubezpieczenia lub innego zabezpieczenia finansowego odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami Międzynarodowa konwencja o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami, 1992 (Certificate of insurance or other financial security in respect of civil liability for oil pollution damage International Convention on Civil Liability for Oil Pollution Damage, 1992).
+48) Certyfikat ubezpieczenia lub innego zabezpieczenia finansowego odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami – Międzynarodowa konwencja o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami, 1992 (Certificate of insurance or other financial security in respect of civil liability for oil pollution damage – International Convention on Civil Liability for Oil Pollution Damage, 1992).
 49) Świadectwa wymagane zgodnie z przepisami Unii Europejskiej w sprawie ubezpieczenia armatorów od roszczeń morskich (Certificates required under Directive 2009/20/EC of European Parliament and of the Council of 23 April 2009 on the insurance of shipowners for maritime claims).
 50) Świadectwo wymagane zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 392/2009 z dnia 23 kwietnia 2009 r. w sprawie odpowiedzialności przewoźników pasażerskich na morskich drogach wodnych z tytułu wypadków (Certificate required under Regulation (EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents).
 51) Międzynarodowy certyfikat zapobiegania zanieczyszczaniu powietrza (International Air Pollution Prevention Certificate).
 52) Międzynarodowe świadectwo zapobiegania zanieczyszczeniom ściekami (International Sewage Pollution Prevention Certificate).
-53) Certyfikat ubezpieczenia lub innego zabezpieczenia finansowego odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami bunkrowymi Międzynarodowa konwencja o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami bunkrowymi, 2001 (Certificate of insurance or other financial security in respect of civil liability for bunker oil pollution damage International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001).
+53) Certyfikat ubezpieczenia lub innego zabezpieczenia finansowego odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami bunkrowymi – Międzynarodowa konwencja o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami bunkrowymi, 2001 (Certificate of insurance or other financial security in respect of civil liability for bunker oil pollution damage – International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001).
 54) Międzynarodowy certyfikat użycia systemu antyporostowego lub deklaracja użycia systemu antyporostowego (International Anti- fouling System Certificate or Declaration of Anti- fouling System).
 55) Morski certyfikat pracy (Maritime Labour Certificate).
 56) Deklaracja zgodności (Declaration of Maritime Labour Compliance, parts I and II).
@@ -287,7 +292,7 @@ CERTYFIKATY I DOKUMENTY PODLEGAJĄCE INSPEKCJI
 65) Okrętowy plan zapobiegania zanieczyszczaniu morza szkodliwymi substancjami ciekłymi (Shipboard Marine pollution emergency plan for Noxious Liquid Substances).
 66) Program oceny stanu technicznego (Statement of compliance Condition Assessment Scheme (CAS)).
 67) Plan operacji przeładunku ładunku olejowego ze statku na statek (Plan operacji STS) oraz Zapisy operacji STS (STS Operation Plan and Records of STS Operations).
-68) Podręcznik procedur i instalacji w odniesieniu do chemikaliowców (Procedures and Arrangements Manual for chemical tankers).
+68) Podręcznik procedur i instalacji w odniesieniu do chemikaliowców (Procedures and Arrangements Manual – for chemical tankers).
 69) Zapisy dotyczące operacji przejścia na zasilanie paliwem innym niż aktualnie używane (Logbook for fuel oil change over).
 70) Świadectwo uznania typu spalarki okrętowej (Type approval certificate of incinerator).
 71) Dokumenty dostawy paliwa (Bunker delivery note).
@@ -298,7 +303,7 @@ CERTYFIKATY I DOKUMENTY PODLEGAJĄCE INSPEKCJI
 76) Kartoteka techniczna NOx (Technical files).
 77) Książka zapisów parametrów silnika (Record book of engine parameters).
 78) Książka inspekcji sprzętu przeładunkowego (Cargo Gear Record Book).
-79) Plan holowania awaryjnego (Ships -specific emergency towing procedure).
+79) Plan holowania awaryjnego (Ships- specific emergency towing procedure).
 80) Procedury podejmowania człowieka z wody (Plan/procedure to recover person from the water).
 81) Świadectwo inwentaryzacji materiałów niebezpiecznych wydawane statkom zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1257/2013 w sprawie recyklingu statków oraz zmieniającym rozporządzenie (WE) nr 1013/2006 i dyrektywę 2009/16/WE (Inventory certificate issued to ships in accordance with Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation (EC) No 1013/2006 and Directive 2009/16/EC).
 82) Świadectwo zgodności wydawane statkom zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2015/757 w sprawie monitorowania, raportowania i weryfikacji emisji dwutlenku węgla z transportu morskiego oraz zmiany dyrektywy 2009/16/WE (Document of compliance issued to ships in accordance with Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC).
@@ -310,8 +315,8 @@ a) harmonogram służby na morzu i służby w porcie,
 b) maksymalną liczbę godzin pracy lub minimalną liczbę godzin wypoczynku wymaganą dla wachtowych;
 4) czy kapitan nie jest ograniczany w podejmowaniu decyzji, które zgodnie z jego fachową oceną są niezbędne do bezpiecznej żeglugi i pracy, w szczególności przy niesprzyjającej pogodzie i wzburzonym morzu;
 5) czy kapitan prowadzi zapisy czynności nawigacyjnych oraz zdarzeń ważnych z punktu widzenia bezpieczeństwa żeglugi;
-6) czy wszelkie uszkodzenia lub trwałe wygięcia furt oraz połączonych z nimi płyt kadłuba mogące wpływać na integralność statku pasażerskiego typu ro -ro lub szybkiego statku pasażerskiego oraz wszelkie uchybienia w układach zabezpieczających takie furty są niezwłocznie zgłaszane zarówno administracji państwa bandery, jak i państwu portu, oraz natychmiast naprawiane zgodnie z ich wymogami;
-7) czy przed wyruszeniem w rejs statku pasażerskiego typu ro -ro lub szybkiego statku pasażerskiego jest dostępny aktualny plan podróży oraz czy w trakcie przygotowywania takiego planu są w pełni uwzględnione wytyczne ustalone w rezolucji Zgromadzenia IMO A.893(21) z dnia 25 listopada 1999 r. „Wytyczne planowania podróży”;
+6) czy wszelkie uszkodzenia lub trwałe wygięcia furt oraz połączonych z nimi płyt kadłuba mogące wpływać na integralność statku pasażerskiego typu ro- ro lub szybkiego statku pasażerskiego oraz wszelkie uchybienia w układach zabezpieczających takie furty są niezwłocznie zgłaszane zarówno administracji państwa bandery, jak i państwu portu, oraz natychmiast naprawiane zgodnie z ich wymogami;
+7) czy przed wyruszeniem w rejs statku pasażerskiego typu ro- ro lub szybkiego statku pasażerskiego jest dostępny aktualny plan podróży oraz czy w trakcie przygotowywania takiego planu są w pełni uwzględnione wytyczne ustalone w rezolucji Zgromadzenia IMO A.893(21) z dnia 25 listopada 1999 r. „Wytyczne planowania podróży”;
 8) czy są przekazywane do wiadomości pasażerów ogólne informacje o usługach i pomocy dostępnej na pokładzie dla osób starszych i niepełnosprawnych oraz czy informacje takie są udostępniane w formach odpowiednich dla osób słabowidzących.
 PROCEDURY STOSOWANE W ODNIESIENIU DO INSPEKCJI
 1) Celem inspekcji jest zapewnienie, aby spełnione były wymogi prawne ustanowione przez państwo bandery lub w jego imieniu, w szczególności związane z konstrukcją statku, niezatapialnością i statecznością, urządzeniami maszynowymi i instalacjami elektrycznymi, załadunkiem i statecznością, ochroną przeciwpożarową, maksymalną liczbą pasażerów, środkami ratunkowymi i przewozem towarów niebezpiecznych, radiokomunikacją i nawigacją. W tym celu inspekcje obejmują następujące czynności:
@@ -410,7 +415,8 @@ c) czy wyjścia, w szczególności wyjścia ze sklepów bezcłowych, co do któr
 a) czy wszyscy armatorzy zapewniają określoną obsługę techniczną w systemie planowej konserwacji, w odniesieniu do wszystkich obszarów związanych z bezpieczeństwem, włączając w to furty dziobowe i rufowe oraz otwory boczne, wraz z ich urządzeniami zamykającymi, obejmujące jednak również konserwację pomieszczeń maszynowni i wyposażenia ratunkowego,
 b) czy istnieją plany okresowych przeglądów wszystkich elementów, tak aby zapewnić utrzymanie norm bezpieczeństwa na najwyższym poziomie,
 c) czy istnieją procedury odnotowywania uchybień i potwierdzania ich prawidłowego usunięcia, tak aby kapitan i wyznaczona osoba na lądzie wchodząca w skład zarządu armatora byli świadomi istniejących uchybień oraz byli powiadamiani o ich usunięciu w określonym terminie,
-d) czy okresowe sprawdzenie działania układów zamykających wrota dziobowe i furty dziobowe obejmuje wskaźniki, wyposażenie nadzorujące i wszelkie szpigaty w przestrze niach pomiędzy furtą dziobową a wrotami we20) w zakresie odbywania rejsu:
+d) czy okresowe sprawdzenie działania układów zamykających wrota dziobowe i furty dziobowe obejmuje wskaźniki, wyposażenie nadzorujące i wszelkie szpigaty w przestrzeniach pomiędzy furtą dziobową a wrotami wewnętrznymi, a zwłaszcza mechanizmy zamykające i związane z nimi systemy hydrauliczne;
+20) w zakresie odbywania rejsu:
 a) w czasie rejsu należy wykorzystać sposobność do sprawdzenia przepełnienia, włączając w to dostępność miejsc do siedzenia i blokowanie przejść, schodów i wyjść awaryjnych przez bagaże i pasażerów, którzy nie mogą znaleźć miejsc siedzących,
 b) konieczne jest również sprawdzenie, czy pokład pojazdowy został opróżniony z pasażerów przed wyjściem statku w morze i czy nie mają oni ponownego wstępu na ten pokład aż do chwili bezpośrednio poprzedzającej przybicie statku do nabrzeża.
 INFORMACJE, KTÓRE ZAWIERA RAPORT Z PRZEPROWADZONEJ INSPEKCJI Raport z inspekcji zawiera co najmniej:
@@ -428,7 +434,7 @@ j) rok budowy ustalony na podstawie daty budowy statku podanej na świadectwach 
 k) organizacja lub organizacje, która(-re) wydała(-ły) świadectwa klasy statkowi, jeżeli statek takie posiada,
 l) uznana organizacja lub uznane organizacje lub jakakolwiek strona, która(-re) wydała statkowi certyfikaty w imieniu państwa bandery zgodnie ze stosowanymi konwencjami,
 m) nazwa i adres przedsiębiorstwa odpowiedzialnego za eksploatację statku w rozumieniu Kodeksu ISM lub armatora statku,
-n) w przypadku statków przewożących płynne lub stałe ładunki masowe nazwa i adres czarterującego odpowiedzialnego za wybór statku i rodzaj czarteru,
+n) w przypadku statków przewożących płynne lub stałe ładunki masowe – nazwa i adres czarterującego odpowiedzialnego za wybór statku i rodzaj czarteru,
 o) data sporządzenia końcowego raportu z inspekcji,
 p) wskazanie, że szczegółowe informacje na temat inspekcji lub zatrzymania mogą zostać opublikowane;
 2) informacje dotyczące inspekcji:
@@ -441,20 +447,20 @@ f) podjęte środki;
 3) dodatkowe informacje w przypadku zatrzymania:
 a) data zatrzymania,
 b) data zwolnienia z zatrzymania,
-c) charakter u chybień uzasadniających zatrzymanie (z odniesieniami do konwencji, o ile dotyczy),
+c) charakter uchybień uzasadniających zatrzymanie (z odniesieniami do konwencji, o ile dotyczy),
 d) wskazanie, o ile dotyczy, czy uznana organizacja lub jakikolwiek inny organ prywatny, który dokonał odpowiedniego przeglądu, ponosi odpowiedzialność w związku z uchybieniami, które same lub w połączeniu z innymi, doprowadziły do zatrzymania,
 e) podjęte środki.
 SZCZEGÓŁOWE KRYTERIA UZASADNIAJĄCE ZATRZYMANIE STATKU I. Podejmując decyzję o zatrzymaniu statku, inspektor stosuje następujące kryteria:
-1) przedział czasowy statek, który nie jest wystarczająco bezpieczny, aby wypływać z portu, będzie zatrzymany podczas pierwszej inspekcji, niezależnie od długości postoju statku w porcie do czasu likwidacji uszkodzeń i uzyskania stanu pełnego bezpieczeństwa;
+1) przedział czasowy – statek, który nie jest wystarczająco bezpieczny, aby wypływać z portu, będzie zatrzymany podczas pierwszej inspekcji, niezależnie od długości postoju statku w porcie do czasu likwidacji uszkodzeń i uzyskania stanu pełnego bezpieczeństwa;
 2) statek będzie zatrzymany, jeżeli jego uchybienia są wystarczająco poważne, aby konieczna była ponowna wizyta inspektora w celu upewnienia się, że uchybienia zostały usunięte przed wypłynięciem statku w morze.
 II. Lista uchybień skutkujących zatrzymaniem statku w odniesieniu do poszczególnych konwencji:
 1) Nieprawidłowości wynikające z Konwencji SOLAS:
 a) uchybienie niepozwalające na właściwą pracę napędu statku lub dotyczące innych istotnych urządzeń mechanicznych, jak również instalacji elektrycznych,
-b) niedostateczna czystość w maszynowni, nadmierne ilości mieszaniny wód zaolejonych w zęzach, izolacja rurociągów łącznie z rurami wydechowymi w maszynowni zanieczyszczona olejami, nieprawidłowa praca pomp zęzowych,
+b) niedostateczna czystość w maszynowni, nadmierne ilości mieszaniny wód zaolejonych w zęzach, izolacja rurociągów – łącznie z rurami wydechowymi w maszynowni – zanieczyszczona olejami, nieprawidłowa praca pomp zęzowych,
 c) nieprawidłowości w pracy generatora awaryjnego, oświetlenia, akumulatorów i przełączników,
 d) nieprawidłowości w pracy głównego i pomocniczego urządzenia sterowego,
 e) braki lub niewystarczająca ilość lub bardzo zły stan osobistych środków ratunkowych, jednostek ratunkowych i urządzeń do ich wodowania,
-f) braki lub niezgodność z wymaganiami lub bardzo zły stan systemu wykrywania pożaru, systemu alarmów pożarowych, sprzętu przeciwpożarowego, stałych urządzeń gaśniczych, zamknięć pożarowych, urządzeń szybkozamykających w stopniu uniemożliwiającym ich użycie zgodnie z przeznaczeniem,
+f) braki lub niezgodność z wymaganiami lub bardzo zły stan systemu wykrywania pożaru, systemu alarmów pożarowych, sprzętu przeciwpożarowego, stałych urządzeń gaśniczych, zamknięć pożarowych, urządzeń szybkozamykających – w stopniu uniemożliwiającym ich użycie zgodnie z przeznaczeniem,
 g) brak, bardzo zły stan lub nieprawidłowości w działaniu ochrony przeciwpożarowej na pokładzie zbiornikowców,
 h) braki, niezgodności z wymaganiami lub bardzo zły stan świateł, sygnalizacji wzrokowej lub dźwiękowej,
 i) braki lub nieprawidłowości w działaniu sprzętu radiowego, wymaganego do porozumiewania się w sytuacjach zagrożenia,
@@ -465,10 +471,11 @@ m) poważne nieprawidłowości związane z wymaganiami operacyjnymi określone w
 n) liczba, skład lub dokumenty kwalifikacyjne załogi niezgodne z dokumentem minimalnej bezpiecznej obsady,
 o) brak prowadzenia rozszerzonego programu przeglądów zgodnie z Konwencją SOLAS, rozdz. XI, prawidło 2.
 2) Nieprawidłowości wynikające z Międzynarodowego kodeksu budowy i wyposażenia statków przewożących niebezpieczne chemikalia luzem (Kodeks IBC):
-a) transport materiałów niewy mienionych w świadectwie zdolności lub brak informacji dotyczącej ładunku,
+a) transport materiałów niewymienionych w świadectwie zdolności lub brak informacji dotyczącej ładunku,
 b) brak lub uszkodzone wysokociśnieniowe urządzenie zabezpieczające,
 c) instalacje elektryczne samoistnie niebezpieczne lub niezgodne z wymaganiami kodeksu,
 d) źródła zapłonu w miejscach pożarowo niebezpiecznych,
+e) niedopełnienie wymagań specjalnych,
 f) przekroczenie maksymalnej dozwolonej ilości ładunku na jeden zbiornik,
 g) niewystarczające zabezpieczenie przed wysokimi temperaturami dla materiałów wrażliwych.
 3) Nieprawidłowości wynikające z Międzynarodowego kodeksu budowy i wyposażenia statków przewożących skroplone gazy luzem (Kodeks IGC):
@@ -480,7 +487,7 @@ e) brak lub uszkodzone zawory instalacji ładunkowej,
 f) brak lub uszkodzone systemy rozładowania ciśnienia (nadmiarowe zawory ciśnieniowe),
 g) instalacje elektryczne stwarzające ryzyko pożaru lub wybuchu produktów palnych,
 h) niedziałające wentylatory w części ładunkowej,
-i) niedziałające alarmy wysokiego i jeżeli wymagane niskiego ciśnienia na zbiornikach ładunkowych,
+i) niedziałające alarmy wysokiego – i jeżeli wymagane – niskiego ciśnienia na zbiornikach ładunkowych,
 j) uszkodzone urządzenie do wykrywania gazów oraz wizualne i dźwiękowe systemy alarmowania o wykrytych gazach,
 k) transport substancji wymagających inhibitora bez jego ważnego świadectwa.
 4) Nieprawidłowości wynikające z Konwencji o liniach ładunkowych, o której mowa w art. 5 pkt 33 lit. b ustawy:
@@ -524,13 +531,26 @@ f) znaczne nagromadzenie odpadów, zablokowanie sprzętem lub ładunkiem lub inn
 g) wyraźne dowody wskazujące na to, że zmęczenie wpływa na efektywność pracy personelu wachtowego i innych osób pełniących obowiązki na pierwszej wachcie po rozpoczęciu podróży lub na następnych wachtach.
 10) Zagadnienia, które nie stanowią podstawy zatrzymania, ale mogą stanowić podstawę do wstrzymania operacji:
 a) niebezpieczne połączenie statku z lądem,
-b) niebezpieczne postępowanie załogi statku w sytuacjach podanych poniżej: praca bez niezbędnego wyposażenia ochronnego, praca w pobliżu niezabezpieczonych otworów, praca na wysokości bez pasa bezpieczeństwa lub innego zabezpieczenia przed upadkiem z wysokości, praca w przestrzeniach zamkniętych bez wcześniejszego wypełnienia listy kontrolnej lub bez przestrzegania procedur bezpieczeństwa dla takich prac,
+b) niebezpieczne postępowanie załogi statku w sytuacjach podanych poniżej: – praca bez niezbędnego wyposażenia ochronnego, – praca w pobliżu niezabezpieczonych otworów, – praca na wysokości bez pasa bezpieczeństwa lub innego zabezpieczenia przed upadkiem z wysokości, – praca w przestrzeniach zamkniętych bez wcześniejszego wypełnienia listy kontrolnej lub bez przestrzegania procedur bezpieczeństwa dla takich prac,
 c) niebezpiecznie prowadzone prace, którym towarzyszy wytwarzanie wysokich temperatur, włączając w to prace spawalnicze, bez wcześniejszego wypełnienia listy kontrolnej lub bez przestrzegania procedur bezpieczeństwa dla takich prac,
 d) operacje odnoszące się do bezpieczeństwa statku i ochrony przed zanieczyszczeniami, pozostające pod nadzorem osoby nieposiadającej wymaganej biegłości i znajomości nadzorowanej operacji,
 e) operacje ładunkowe z wykorzystaniem niespełniających wymogów bezpieczeństwa, nietestowanych lub nieutrzymanych (niekonserwowanych) należycie statkowych urządzeń przeładunkowych,
 f) nieprawidłowości w pracy lub utrzymaniu (konserwacji) systemu gazu obojętnego,
 g) inne nieprawidłowości, o których mowa w zaleceniach Memorandum Paryskiego, odnoszące się do specyficznych typów statków.
-właściciel kapitan owner: …...………………………………….., master: ……………..……………………….., agent instytucja klasyfikacyjna / uznana organizacja agents: ………………………………………., classification society/RO: …………………, zacumowany berthed at: …………………..……………….
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Sposób funkcjonowania inspekcji
+
+#### Rozdział 3 Tryb przeprowadzania inspekcji przez inspektora
+
+#### Rozdział 4 Przepisy przejściowe i końcowe
+
+## Załącznik nr 7 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ……..……… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O ZATRZYMANIU STATKU NOTICE OF DETENTION FOR THE MASTER Numer No. ……………………….
+
+Niżej podpisany The undersigned …………………………………………………………………….…………………..
+upoważniony inspektor inspekcji państwa portu Urzędu Morskiego w duly authorized officer of the Maritime Office in …………………………………………………….
+niniejszym zawiadamia, że herewith notifies you that statek sygnał rozpoznawczy the ship: ..…………………………..……....., call sign: …………………………………..…., numer IMO pojemność brutto IMO number: ……………………………....., gross tonnage: ……...……………………….., port macierzysty bandera port of registry: ...…………………………..., flag state: ………………………………….…, typ statku rok budowy type of ship: …………………………………, date on which keel was laid: ……….…………, właściciel kapitan owner: …...………………………………….., master: ……………..……………………….., agent instytucja klasyfikacyjna / uznana organizacja agents: ………………………………………., classification society/RO: …………………, zacumowany berthed at: …………………..……………….
 został zatrzymany na podstawie przepisów: has been detained in accordance with the provisions of:
 Art. 43 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, z późn. zm.) � Art. 43 paragraph 1 of the Act of 18 August 2011 on maritime safety (Journal of Laws of 2019 item 1452, as amended)
 Art. 26 pkt 1 lit. c ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2017 r. poz. 2000, z późn. zm.) � Art. 26 item 1c of the Act of 16 March 1995 on prevention of maritime pollution from ships (Journal of Laws of 2017 item 2000, as amended) z powodu: on account of: wystąpienia jednego lub więcej kryteriów zatrzymania statku, o których mowa w załączniku X do dyrektywy Rady 2009/16/WE E z dnia 23 kwietnia 2009 r. w sprawie kontroli przeprowadzanej przez państwo portu (Dz. Urz. UE L 131 z 28.05.2009, str. 57, z późn. zm.);
@@ -538,7 +558,7 @@ Art. 26 pkt 1 lit. c ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszcza
 braku możliwości przedstawienia przez członków załogi statku dowodów potwierdzających ich kwalifikacje zawodowe do pełnienia obowiązków na nich nałożonych, zgodnie z art. 12 dyrektywy Parlamentu Europejskiego i Rady 2008/106/WE z dnia 19 listopada 2008 r.
 w sprawie minimalnego poziomu wyszkolenia marynarzy (Dz. Urz. UE L 323 z 03.12.2008, str. 33, z późn. zm.);
 � crew members being unable to provide proof of professional proficiency for the duties assigned to them as mentioned in article 12 of Directive 2008/106/EC of the European Parliament and of the Council of 19 November 2008 (Official Journal of the European Union L 323, as amended);
-niespełniania przez kapitana statku lub członków załogi wymagań operacyjnych, zawartych w konwencjach, o których mowa w art. 5 pkt 33 i art. 62 ust. 1 ustawy o bezpieczeństwie morskim oraz w art. 271a § 1 lub 272 § 1 ustawy z dnia 18 września 2001 r. Kodeks morski (Dz. U. z 2018 r. poz. 2175);
+niespełniania przez kapitana statku lub członków załogi wymagań operacyjnych, zawartych w konwencjach, o których mowa w art. 5 pkt 33 i art. 62 ust. 1 ustawy o bezpieczeństwie morskim oraz w art. 271a § 1 lub 272 § 1 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175);
 � master or crew unable to comply with operational requirements as contained in the Conventions mentioned in article 5 point 33 and article 62 paragraph 1 of the 2011 on maritime safety and in article 271a paragraph 1 or 272 paragraph 1 of the Maritime Code of 18 September 2001 (Journal of Laws of 2018, item 2175);
 innych uchybień, które razem lub oddzielnie stwarzają wyraźne zagrożenie dla bezpieczeństwa żeglugi, zdrowia lub środowiska;
 � other deficiencies which, individually or together, are clearly hazardous to safety, health or environment;
@@ -555,7 +575,12 @@ nazwisko i podpis name and signature ……………………………………�
 Pieczęć Dyrektora Urzędu Morskiego Seal Decyzji nadaje się rygor natychmiastowej wykonalności.
 The detention shall become applicable immediately.
 Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against the detention may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of the Notice of Detention.
-type of ship: …………………………………, date on which keel was laid: …….…………, właściciel kapitan owner: …...………………………………….., master: ……………..……………………….., agent instytucja klasyfikacyjna / uznana organizacja agents: ………………………………………., classification society/RO: …………………, zacumowany berthed at: …………………..……………….
+
+## Załącznik nr 8 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ………… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O WSTRZYMANIU OPERACJI NOTICE OF SUSPENSION OF THE OPERATION FOR THE MASTER Numer No. ……………………….
+
+Niżej podpisany The undersigned ………………………………………………………………………………………..
+upoważniony inspektor inspekcji państwa portu Urzędu Morskiego w duly authorized officer of the Maritime Office in …………………………………………………….
+niniejszym zawiadamia, że herewith notifies you that statek sygnał rozpoznawczy the ship: ..…………………………..……....., call sign: …………………………………..…., numer IMO pojemność brutto IMO number: ……………………………....., gross tonnage: ……...……………………….., port macierzysty bandera port of registry: ...…………………………..., flag state: ………………………………….…, typ statku rok budowy type of ship: …………………………………, date on which keel was laid: …….…………, właściciel kapitan owner: …...………………………………….., master: ……………..……………………….., agent instytucja klasyfikacyjna / uznana organizacja agents: ………………………………………., classification society/RO: …………………, zacumowany berthed at: …………………..……………….
 wstrzymano operacje na podstawie przepisów: the cargo operation has been prohibited in accordance with the provisions of:
 Art. 43 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, z późn. zm.) � Art. 43 paragraph 1 of the Act of 18 August 2011 on maritime safety (Journal of Laws of 2019 item 1452, as amended)
 Art. 26 pkt 1 lit. c ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2017 r. poz. 2000, z późn. zm.) � Art. 26 item 1c of the Act of 16 March 1995 on prevention of maritime pollution from ships (Journal of Laws of 2017 item 2000, as amended) z powodu: on account of: wystąpienia kryteriów, o których mowa w załączniku X do dyrektywy Rady 2009/16/WE E z dnia 23 kwietnia 2009 r. w sprawie kontroli przeprowadzonej przez państwo portu (Dz. Urz. UE L 131 z 28.05.2009, str. 57, z późn. zm.).
@@ -571,13 +596,27 @@ nazwisko i podpis name and signature ……………………………………�
 Pieczęć Dyrektora Urzędu Morskiego Seal Decyzji nadaje się rygor natychmiastowej wykonalności.
 The decision shall become applicable immediately.
 Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against the suspension of the operation may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of the Notice of Suspension of the Operation.
-numer IMO IMO number: ………………………………....., bandera flag state: ……………………………………..…, zatrzymany dnia which was detained on……………………………………………..
+
+## Załącznik nr 9 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ………… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O ZWOLNIENIU STATKU Z ZATRZYMANIA NOTICE OF RELEASE Numer No. ……………………….
+
+Niżej podpisany The undersigned ………………………………………………………………………………………..
+upoważniony inspektor inspekcji państwa portu Urzędu Morskiego w duly authorized officer of the Maritime Office in …………………………………………………….
+niniejszym zawiadamia, że herewith notifies you that na podstawie art. 45 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U.
+z 2019 r. poz. 1452, z późn. zm.) in accordance with article 45 paragraph 1 of the Act of 18 August 2011 on maritime safety (Journal of Laws of 2019 item 1452, as amended) statek the ship: ..…………………………..……....., kapitan master ..…………………………..……....., numer IMO IMO number: ………………………………....., bandera flag state: ……………………………………..…, zatrzymany dnia which was detained on……………………………………………..
 po ponownej inspekcji przeprowadzonej dnia w porcie after re-inspection of the above ship on (date) …………... at ……………….…… (port, country) jest zwolniony.
 has been released.
 Miejsce i data wydania Place and date of issue ………………………………………………………………………………….
 Z upoważnienia Dyrektora Urzędu Morskiego w On behalf of the Director of the Maritime Office in …………… : ………………………………….
 nazwisko i podpis name and signature ……………………………………………….
 Pieczęć Dyrektora Urzędu Morskiego Seal Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this decision may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of this decision.
+
+## Załącznik nr 10 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W …………...
+
+DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O COFNIĘCIU WSTRZYMANIA OPERACJI NOTICE OF WITHDRAWAL OF SUSPENSION OF THE OPERATION Numer No. ……………………….
+Niżej podpisany The undersigned ………………………………………………………………………………………..
+upoważniony inspektor inspekcji państwa portu Urzędu Morskiego w duly authorized officer of the Maritime Office in …………………………………………………….
+niniejszym zawiadamia, że herewith notifies you that na podstawie art. 45 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U.
+z 2019 r. poz. 1452, z późn. zm.) in accordance with article 45 paragraph 1 of the Act of 18 August 2011 on maritime safety (Journal of Laws of 2019 item 1452, as amended) decyzja o wstrzymaniu operacji na statku formal prohibition of the ship ………………………..……………….. to continue an operation bandery o numerze IMO flag ………………………………. IMO number ………….……………..
 wydana w dnia numer issued in (port) …………….…. on (date) ……………….., no ………………..., została cofnięta.
 IS NOW WITHDRAWN.
 W dniu w porcie została przeprowadzona ponowna inspekcja wyżej wymienionego statku, On (date) ………………….... in (port) ……………….. re-inspection of the ship która potwierdziła, że statek spełnia wymagania konwencji międzynarodowych.
@@ -586,6 +625,13 @@ Miejsce i data wydania Place and date of issue ……………………………
 Z upoważnienia Dyrektora Urzędu Morskiego w On behalf of the Director of the Maritime Office in …………… : ………………………………….
 nazwisko i podpis name and signature ……………………………………………….
 Pieczęć Dyrektora Urzędu Morskiego Seal Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this decision may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of this decision.
+
+## Załącznik nr 11 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ………… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O WYDANIU ZGODY NA WYJŚCIE Z PORTU W CELU DOKONANIA NAPRAWY W STOCZNI REMONTOWEJ CONDITIONS OF RELEASE FROM DETENTION TO A REPAIR YARD Numer No. ……………………….
+
+Do: Pan/Pani kapitan statku To the Master of the vessel: ………………………………………………………………….
+nazwa statku nr IMO bandera ship name ………………………… IMO No .....……………. flag ……………………....
+typ statku sygnał rozpoznawczy data budowy type of ship ..................................... call sign .......……………... year of keel laid .......................
+pojemność brutto gross tonnage ................................
 uznana(-ne) organizacja(-je) instytucja(-je) klasyfikacyjna(-ne) RO ……………………………… classification society(ies) ……………………..., armator agent company …………………………….. agents ……………………………………….……, Na podstawie art. 43 ust. 6 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U.
 z 2019 r. poz. 1452, z późn. zm. zezwalam statkowi na wyjście z portu ……………… w celu dokonania naprawy w stoczni remontowej w porcie ………………… w państwie …………………, po spełnieniu następujących warunków: In accordance with article 43 paragraph 6 of the Act of 18 August 2011 on maritime safety (Journal of Laws of 2019 item 1452, as amended), your vessel, which is currently detained in …………….(port), is authorized to proceed to …………... (port) in ……………….. (country) to rectify outstanding deficiencies subject to the following conditions: UDANIE SIĘ DO UZGODNIONEJ STOCZNI REMONTOWEJ BEZ SPEŁNIENIA POWYŻSZYCH WARUNKÓW LUB NIEZAWINIĘCIE DO PORTU, W KTÓRYM ZNAJDUJE SIĘ UZGODNIONA STOCZNIA REMONTOWA, SKUTKUJE WYDANIEM ZAKAZU WEJŚCIA DO WSZYSTKICH PORTÓW RZECZYPOSPOLITEJ POLSKIEJ ORAZ PAŃSTW-STRON MEMORANDUM PARYSKIEGO.
 Podstawa prawna: art. 50 ust. 1 pkt 1 i 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, art. 21.4 dyrektywy 2009/16/WE oraz sekcja 4.2 Memorandum Paryskiego w sprawie inspekcji państwa portu.
@@ -596,13 +642,17 @@ Any changes to the above conditions may only be made in consultation with the Di
 Zobowiązuje się kapitana przedmiotowego statku do zażądania od organu inspekcyjnego państwa portu, w którym znajduje się uzgodniona stocznia remontowa, przekazania Dyrektorowi Urzędu Morskiego w ……………… informacji o zawinięciu statku do uzgodnionej stoczni remontowej. Brak potwierdzenia przybycia statku do tej stoczni po upływie przybliżonego czasu przybycia (ETA) wskazanego poniżej, zostanie potraktowany jako niewywiązanie się z warunków udzielenia statkowi zgody na wyjście z portu w celu dokonania naprawy w uzgodnionej stoczni remontowej.
 You must request the Port State Authority of the repair port to inform the Director of the Maritime Office in ………………………………. when the ship has arrived at the repair yard.
 No confirmation of the ship’s arrival after the ETA indicated below will be considered evidence that the ship has not complied with the condition of release.
-Z powyższą uwagą zapoznałam(-łem) się I confirm that I have received this notice Nazwisko kapitana (lub przedstawiciela) podpis Name of the Master (or representative) …………………….…. signature ……………………… Kopię otrzymują: Copy: Organ inspekcyjny państwa portu, w którym znajduje się uzgodniona stocznia remontowa Port State Authority of the repair port Państwo bandery Flag State Authority Uznana(-ne) organizacja(-je) Recognized Organization(s) Instytucja(-je) klasyfikacyjna(-ne) Classification Society(ies) Agent statku Ship’s agent Kapitanat portu Harbour master office Sekretariat Memorandum Paryskiego Secretariat Paris MoU Koordynator inspekcji państwa portu Port State Coordinator Organ inspekcyjny państwa portu ……………………… jest proszony o poinformowanie Dyrektora Urzędu Morskiego w …………………… o przybyciu lub nieprzybyciu w oczekiwanym czasie statku do uzgodnionej stoczni remontowej.
+Z powyższą uwagą zapoznałam(-łem) się I confirm that I have received this notice Nazwisko kapitana (lub przedstawiciela) podpis Name of the Master (or representative) …………………….…. signature ……………………… Kopię otrzymują: Copy: Organ inspekcyjny państwa portu, w którym Port State Authority of the repair port znajduje się uzgodniona stocznia remontowa Państwo bandery Flag State Authority Uznana(-ne) organizacja(-je) Recognized Organization(s) Instytucja(-je) klasyfikacyjna(-ne) Classification Society(ies) Agent statku Ship’s agent Kapitanat portu Harbour master office Sekretariat Memorandum Paryskiego Secretariat Paris MoU Koordynator inspekcji państwa portu Port State Coordinator Organ inspekcyjny państwa portu ……………………… jest proszony o poinformowanie Dyrektora Urzędu Morskiego w …………………… o przybyciu lub nieprzybyciu w oczekiwanym czasie statku do uzgodnionej stoczni remontowej.
 The Port State Control Authority of the port of ………… is requested to advise the Director of the Maritime Office in ……… WHEN THE SHIP ARRIVES OR IF THE SHIP DOES NOT ARRIVE AT THE EXPECTED TIME.
-Data i przybliżony czas wyjścia statku z portu Date of departure and ETD from (port) ……………………………………………………………… Data i przybliżony czas wejścia statku do portu Date of arrival and ETA in (port) …………..………………………………………………………… Zawiadomić Dyrektora Urzędu Morskiego w Reporting Authority the Director of the Maritime Office in ……………………………………… Fax …………………………………………………. Tel. ……………………………………………… Nazwisko i podpis upoważnionego inspektora Data wydania Name and signature ………………………..………………………… Date of issue ……………….
+Data i przybliżony czas wyjścia statku z portu Date of departure and ETD from (port) ……………………………………………………………… Data i przybliżony czas wejścia statku do portu Date of arrival and ETA in (port) …………..………………………………………………………… Zawiadomić Dyrektora Urzędu Morskiego w Reporting Authority – the Director of the Maritime Office in ……………………………………… Fax …………………………………………………. Tel. ……………………………………………… Nazwisko i podpis upoważnionego inspektora Data wydania Name and signature ………………………..………………………… Date of issue ……………….
 (duly authorized Port State Control Officer) Decyzji nadaje się rygor natychmiastowej wykonalności.
 This decision shall become applicable immediately.
 Od niniejszej decyzji przysługuje prawo wniesienia odwołania, do ministra właściwego do spraw gospodarki morskiej, w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this decision may be brought, to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of this decision.
-Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG DECYZJA O ZAKAZIE WEJŚCIA DO PORTÓW REFUSAL OF ACCESS ORDER Nazwa statku bandera numer IMO Ship Name ……………….., Flag ……………….. IMO number ………………………..
+
+## Załącznik nr 12 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ………… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O WYDANIU ZAKAZU WEJŚCIA DO PORTÓW W PRZYPADKU, GDY STATEK ZOSTAŁ ZATRZYMANY PO RAZ TRZECI REFUSAL OF ACCESS ORDER – MULTIPLE DETENTION Numer Ref. No. ……………………….
+
+Do: Pan/Pani: …………………. kapitan statku: ……………… armator: ……………………………..
+To: Master and ISM Company of a Banned Vessel Od: Dyrektor Urzędu Morskiego w ………… w państwie zatrzymania From: Banning State Kopię otrzymują: Państwo bandery Copy: Flag Uznana(-ne) organizacja(-je) Recognized Organization(s) Instytucja(-je) klasyfikacyjna(-ne) Classification Society(ies) Państwa-strony Memorandum Paryskiego All Paris MoU members Sekretariat Memorandum Paryskiego Paris MoU Secretariat Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG DECYZJA O ZAKAZIE WEJŚCIA DO PORTÓW REFUSAL OF ACCESS ORDER Nazwa statku bandera numer IMO Ship Name ……………….., Flag ……………….. IMO number ………………………..
 Wyżej wymieniony statek został zatrzymany w dniu ……………………… w porcie ………………………. .
 Jest to trzecie z kolei zatrzymanie w porcie państwa-strony Memorandum Paryskiego w ciągu ostatnich 36/24* miesięcy. Wyżej wymieniony statek podnosi banderę państwa, które znalazło się na czarnej/szarej* liście w sprawozdaniu Memorandum Paryskiego.
 W związku z powyższym, na podstawie art. 48 ust. 1 pkt 1/2* ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, z późn. zm.), wydaję wyżej wymienionemu statkowi zakaz wejścia do portu ……………………………, który zgodnie z przepisami Memorandum Paryskiego skutkuje zakazem wejścia do wszystkich portów Rzeczypospolitej Polskiej oraz państw-stron Memorandum Paryskiego . Decyzji nadaje się rygor natychmiastowej wykonalności od chwili, gdy statek uzyska zgodę na wyjście z portu lub kotwicowiska.
@@ -616,7 +666,11 @@ Please be advised that all costs of the inspection for lifting the ban have to b
 Miejsce i data wydania Place and date of issue ………………………………………………………………………………… Z upoważnienia Dyrektora Urzędu Morskiego w On behalf of the Director of the Maritime Office in …………… : …………………………………..
 nazwisko i podpis name and signatur ……………………………………………….
 Pieczęć Dyrektora Urzędu Morskiego Seal Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this refusal of access may be brought, to the minister responsible for maritime economy, through the Director of Maritime Office in …………………..., within 14 days of the receipt of this decision.
-Sekretariat Memorandum Paryskiego Paris MoU Secretariat Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG DECYZJA O COFNIĘCIU ZAKAZU WEJŚCIA DO PORTÓW CANCELLATION OF REFUSAL OF ACCESS Nazwa statku bandera numer IMO Ship’s name ………...………., flag ………..……. IMO number …………………………………...
+
+## Załącznik nr 13 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ………… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O COFNIĘCIU ZAKAZU WEJŚCIA DO PORTÓW CANCELLATION OF REFUSAL OF ACCESS Numer Ref. No. ……………………….
+
+Do: ………………… armator statku …………….
+To: Company Od: Dyrektor Urzędu Morskiego w ………… w państwie zatrzymania From: Banning State Kopię otrzymują: Państwo bandery Copy: Flag Uznana(-ne) organizacja(-je) Recognized Organization(s) Instytucja(-je) klasyfikacyjna(-ne) Classification Society(ies) Państwa-strony Memorandum Paryskiego All Paris MoU members Sekretariat Memorandum Paryskiego Paris MoU Secretariat Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG DECYZJA O COFNIĘCIU ZAKAZU WEJŚCIA DO PORTÓW CANCELLATION OF REFUSAL OF ACCESS Nazwa statku bandera numer IMO Ship’s name ………...………., flag ………..……. IMO number …………………………………...
 Na podstawie art. 49 ust. 9/art. 50 ust. 6* ustawy z dnia 18 sierpnia 2011 r.
 o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, z późn. zm.) In accordance with article 49 paragraph 9/article 50 paragraph 6* Act of 18 August 2011 on maritime safety (Journal of Laws of 2019 item 1452, as amended) cofam zakaz wejścia statku do portu THE REFUSAL OF ACCESS TO PARIS MOU PORTS the ship…………..……………………, bandery o numerze IMO flag…………………………………… IMO number ………………………..………..… do portu (port zatrzymania) wydany decyzją z dnia nr issued in (port) ……………..………. on (date) ……………………….., reference number …...
 który zgodnie z przepisami Memorandum Paryskiego skutkuje cofnięciem zakazu wejścia wyżej wymienionego statku do wszystkich portów Rzeczypospolitej Polskiej oraz państw-stron Memorandum Paryskiego.
@@ -626,7 +680,12 @@ nazwisko i podpis name and signature ……………………………………�
 Pieczęć Dyrektora Urzędu Morskiego Seal Decyzji nadaje się rygor natychmiastowej wykonalności.
 This cancellation of refusal of access shall become applicable immediately.
 Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this decision may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of this decision.
-Państwa-strony Memorandum Paryskiego All Paris MoU members Sekretariat Memorandum Paryskiego Paris MoU Secretariat Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG ZAKAZ WEJŚCIA DO PORTÓW REFUSAL OF ACCESS Nazwa statku bandera numer IMO Ship’s name…………… flag ………………..... IMO number ………………..
+
+## Załącznik nr 14 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ……………..
+
+DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O WYDANIU ZAKAZU WEJŚCIA DO PORTÓW W PRZYPADKU, GDY STATEK, UDAJĄC SIĘ DO UZGODNIONEJ STOCZNI REMONTOWEJ, OPUŚCIŁ PORT BEZ SPEŁNIENIA OKREŚLONYCH WARUNKÓW LUB NIE ZAWINĄŁ DO UZGODNIONEJ STOCZNI REMONTOWEJ REFUSAL OF ACCESS – JUMP DETENTION IN THE CASE SHIP FAILS TO CALL AT AN AGREED REPAIR YARD OR FAILED TO COMPLY WITH THE DETENTION ORDER Numer Ref. No. ……………………….
+Do: Pan/Pani: ………………… kapitan statku: ……………… armator:……………………………..
+To: Master and Company of a Banned Vessel Od: Dyrektor Urzędu Morskiego w ………… w państwie zatrzymania From: Banning State Kopię otrzymują: Państwo bandery Copy: Flag Uznana(-ne) organizacja(-je) Recognized Organization(s) Instytucja(-je) klasyfikacyjna(-ne) Classification Society(ies) Państwa-strony Memorandum Paryskiego All Paris MoU members Sekretariat Memorandum Paryskiego Paris MoU Secretariat Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG ZAKAZ WEJŚCIA DO PORTÓW REFUSAL OF ACCESS Nazwa statku bandera numer IMO Ship’s name…………… flag ………………..... IMO number ………………..
 Wyżej wymieniony statek, zatrzymany w porcie ……………….. w dniu …………………, opuścił port w dniu ………………… bez spełnienia warunków uzgodnionych przez Dyrektora Urzędu Morskiego w ……………… z właściwymi władzami państwa bandery statku/lecz nie zawinął do uzgodnionej stoczni remontowej w porcie ………………………* .
 The above named vessel which was detained in (port) …………… on (date) …………… left the port on (date) …………… without complying with the conditions determined by (the Competent Authority)/but failed to call at the repair yard in (port) as agreed* .
 Inne ważne dowody/informacje do wprowadzenia w razie potrzeby (Insert here any other relevant evidence/information if required) Na podstawie art. 50 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U.
@@ -644,7 +703,11 @@ nazwisko i podpis name and signature ……………………………………�
 Pieczęć Dyrektora Urzędu Morskiego Seal Decyzji nadaje się rygor natychmiastowej wykonalności.
 The refusal of access shall become applicable immediately.
 Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this decision may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of this decision.
-odmawiam wejścia statkowi bandery o numerze IMO the ship ……………………………… flag …………………….. IMO No ………………….
+
+## Załącznik nr 15 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ………… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O ODMOWIE WEJŚCIA DO PORTU STATKU O OBCEJ PRZYNALEŻNOŚCI, KTÓREMU ORGANY INSPEKCYJNE PAŃSTW-STRON MEMORANDUM PARYSKIEGO WYDAŁY DECYZJĘ O ZAKAZIE WEJŚCIA DO PORTÓW REFUSAL OF ACCESS OF A SHIP WHICH HAS BEEN REFUSED ACCESS TO PARIS MOU PORTS Numer Ref. No. ……………………….
+
+Do: Kapitan statku To: Master of the vessel: …………………… Kopię otrzymują: Państwa-strony Memorandum Paryskiego Copy: All MoU members Na podstawie art. 54 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U.
+z 2019 r. poz. 1452, z późn. zm.) According to the art. 54 paragraph 1 of the Act of 18 August 2011 on maritime safety (Journal of Laws of 2019 item 1452, as amended) odmawiam wejścia statkowi bandery o numerze IMO the ship ……………………………… flag …………………….. IMO No ………………….
 do portu is refused to access to the port of ……………..…….. .
 Decyzji nadaje się rygor natychmiastowej wykonalności.
 The refusal of access shall become applicable immediately.
@@ -656,7 +719,11 @@ Miejsce i data wydania Place and date of issue ……………………………
 Z upoważnienia Dyrektora Urzędu Morskiego w On behalf of the Director of the Maritime Office in …………… : ………………………………….
 nazwisko i podpis name and signature ……………………………………………….
 Pieczęć Dyrektora Urzędu Morskiego Seal Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this decision may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of this decision.
-Państwa-strony Memorandum Paryskiego All Paris MoU members Sekretariat Memorandum Paryskiego Paris MoU Secretariat Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG DECYZJA O ZAKAZIE WEJŚCIA DO PORTÓW REFUSAL OF ACCESS ORDER Nazwa statku bandera numer IMO Ship’s name ……………, flag ………………….. IMO number ………………..
+
+## Załącznik nr 16 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W …………… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O WYDANIU ZAKAZU WEJŚCIA DO PORTÓW W PRZYPADKU, GDY STATEK ZOSTAŁ ZATRZYMANY PO OTRZYMANIU UPRZEDNIO DWUKROTNIE ZAKAZU WEJŚCIA DO PORTU REFUSAL OF ACCESS ORDER – IN CASE OF A THIRD BAN Numer Ref. No. ……………………….
+
+Do: Pan/Pani: …………………. kapitan statku: ……………… armator:……………………………..
+To: Master and Company of a Banned Vessel Od: Dyrektor Urzędu Morskiego w ………… w państwie zatrzymania From: Banning State Kopię otrzymują: Państwo bandery Copy: Flag Uznana(-ne) organizacja(-je) Recognized Organization(s) Instytucja(-je) klasyfikacyjna(-ne) Classification Society(ies) Państwa-strony Memorandum Paryskiego All Paris MoU members Sekretariat Memorandum Paryskiego Paris MoU Secretariat Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG DECYZJA O ZAKAZIE WEJŚCIA DO PORTÓW REFUSAL OF ACCESS ORDER Nazwa statku bandera numer IMO Ship’s name ……………, flag ………………….. IMO number ………………..
 Wyżej wymieniony statek został zatrzymany w dniu …………… w porcie …………… . Jest to kolejne zatrzymanie po wydanym uprzednio drugim zakazie wejścia do portu państwa-strony Memorandum Paryskiego. W związku z powyższym, na podstawie art. 51 ust. 1 ustawy z dnia 18 sierpnia 2011 r.
 o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, z późn. zm.), wydaję wyżej wymienionemu statkowi zakaz wejścia do portu ……….., który zgodnie z przepisami Memorandum Paryskiego skutkuje zakazem wejścia do wszystkich portów Rzeczypospolitej Polskiej oraz państw-stron Memorandum Paryskiego na czas nieokreślony. Decyzji nadaje się rygor natychmiastowej wykonalności od chwili, gdy statek uzyska zgodę na wyjście z portu.
 The above named vessel was detained in ……………….. (port) on …………… (date). This is subsequent detention after the second refusal of access order in the Paris MoU region. Therefore under the provisions of section 4 of the Paris MoU, article 16 of EU Council Directive 2009/16/EC the ship will be refused further access to any port and anchorage in Paris MoU region, except a port and anchorage of the ship’s flag State. This refusal of access will become applicable immediately after the ship is authorized to leave this port and anchorage.
@@ -682,31 +749,25 @@ Miejsce i data wydania Place and date of issue ……………………………
 Z upoważnienia Dyrektora Urzędu Morskiego w On behalf of the Director of the Maritime Office in …………… : ………………………………….
 nazwisko i podpis name and signature ……………………………………………….
 Pieczęć Dyrektora Urzędu Morskiego Seal Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this decision may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of this decision.
-Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG DECYZJA O ZAKAZIE WEJŚCIA DO PORTÓW NA STAŁE PERMANENT REFUSAL OF ACCESS FROM THE PARIS MOU REGION Nazwa statku bandera numer IMO Ship’s name ………....…, flag ……………..….. IMO number ………………..
+
+## Załącznik nr 17 — WZÓR WZÓR INSPEKCJA PAŃSTWA PORTU PORT STATE CONTROL RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND DYREKTOR URZĘDU MORSKIEGO W ………… DIRECTOR OF MARITIME OFFICE IN ………… DECYZJA O WYDANIU ZAKAZU WEJŚCIA DO PORTÓW W PRZYPADKU, GDY STATEK ZOSTAŁ ZATRZYMANY PO OTRZYMANIU UPRZEDNIO TRZYKROTNIE ZAKAZU WEJSCIA DO PORTU REFUSAL OF ACCESS ORDER – IN CASE OF A FOURTH BAN Numer Ref. No. ……………………….
+
+Do: Pan/Pani: …………………. kapitan statku: ……………… armator:……………………………..
+To: Master and Company of a Banned Vessel Od: Dyrektor Urzędu Morskiego w ……………….… w państwie zatrzymania…………………… From: Banning State Kopię otrzymują: Państwo bandery Copy: Flag Uznana(-ne) organizacja(-je) Recognized Organization(s) Instytucja(-je) klasyfikacyjna(-ne) Classification Society(ies) Państwa-strony Memorandum Paryskiego All Paris MoU members Sekretariat Memorandum Paryskiego Paris MoU Secretariat 37 Komisja Europejska European Commission Memorandum Tokijskie Tokyo MoU Memorandum Rejonu Karaibów Caribbean MoU Memorandum Morza Śródziemnego Mediterranean MoU Memorandum Morza Czarnego Black Sea MoU Memorandum Rijadzkie Riyadh MoU Straż Przybrzeżna Stanów Zjednoczonych USCG DECYZJA O ZAKAZIE WEJŚCIA DO PORTÓW NA STAŁE PERMANENT REFUSAL OF ACCESS FROM THE PARIS MOU REGION Nazwa statku bandera numer IMO Ship’s name ………....…, flag ……………..….. IMO number ………………..
 Wyżej wymieniony statek został zatrzymany w dniu …………… w porcie ………………. . Jest to kolejne zatrzymanie po trzykrotnie wydanym uprzednio zakazie wejścia do portu państwa-strony Memorandum Paryskiego.
 � The above named vessel was detained in ………………. (port) on …………….. (date). This is subsequent detention after the third refusal of access order in the Paris MoU region.
 Wyżej wymienionemu statkowi w dniu …………… w porcie ……………. został wydany trzeci zakaz wejścia do portu. Po upływie 24 miesięcy od tej daty statek nie spełnia warunków koniecznych do jego cofnięcia, o których mowa w art. 51 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, z późn. zm.).
 � The above named vessel was subject to a third refusal of access in ………. (port) on ……… (date). After a period of 24 months has passed from the issue of the third refusal of access order, the vessel do not meet the criteria as specified in provisions of section 4.1 of the Paris MOU.
 W związku z powyższym, na podstawie art. 52 ust. 1 ustawy z dnia 18 sierpnia 2011 r.
 o bezpieczeństwie morskim, wydaję wyżej wymienionemu statkowi zakaz wejścia do portu, który zgodnie z przepisami Memorandum Paryskiego skutkuje zakazem wejścia do wszystkich portów Rzeczypospolitej Polskiej oraz państw-stron Memorandum Paryskiego na stałe. Decyzji nadaje się rygor natychmiastowej wykonalności od chwili, gdy statek uzyska zgodę na wyjście z portu.
-Therefore under the provisions of section 4 of the Paris MoU, article 16 of EU Council Directive 2009/16/EC, the ship will be permanently refused further access to any port and anchorage in Paris MoU region, except a port and anchorage of the ship’s flag State. This refusal of access will become applicable immediately after the ship is authorized to leave this port and anchorage.
+38 Therefore under the provisions of section 4 of the Paris MoU, article 16 of EU Council Directive 2009/16/EC, the ship will be permanently refused further access to any port and anchorage in Paris MoU region, except a port and anchorage of the ship’s flag State. This refusal of access will become applicable immediately after the ship is authorized to leave this port and anchorage.
 Zgodnie z art. 54 ust. 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim w wyjątkowych przypadkach spowodowanych siłą wyższą, potrzebą zapewnienia statkowi bezpieczeństwa, w celu zmniejszenia ryzyka zanieczyszczenia lub usunięcia uchybień dyrektor urzędu morskiego może wyrazić zgodę na wejście do portu statkowi pod warunkiem, że armator lub kapitan zastosuje zalecone przez dyrektora urzędu morskiego środki zapewniające bezpieczne wejście statku do portu.
 Your attention is drawn to the provisions of Section 4.4 of the Paris MOU and/or article 21.6 of EU Council Directive 2009/16/EC which allow access to a specific port and anchorage in the event of force majeure or overriding safety considerations, or to reduce or minimise the risk of pollution or to have deficiencies rectified, provided that adequate measures to the satisfaction of the competent authority of such state have been implemented by the company or the master of the ship to ensure safe entry.
 Miejsce i data wydania Place and date of issue ………………………………………………………………………………….
 Z upoważnienia Dyrektora Urzędu Morskiego w On behalf of the Director of the Maritime Office in …………… : ………………………………….
 nazwisko i podpis name and signature ……………………………………………….
 Pieczęć Dyrektora Urzędu Morskiego Seal Od niniejszej decyzji przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki morskiej w terminie 14 dni od dnia jej doręczenia, za pośrednictwem Dyrektora Urzędu Morskiego w ……………………… An appeal against this decision may be brought to the minister responsible for maritime economy, through the Director of the Maritime Office in …………………..., within 14 days of the receipt of this decision.
-
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
-
-#### Rozdział 2 Sposób funkcjonowania inspekcji § 5. Inspekcje może przeprowadzać inspektor, który:
-
-#### Rozdział 3 Tryb przeprowadzania inspekcji przez inspektora § 12. 1. Wybierając statki do przeprowadzania inspekcji, bierze się pod uwagę:
-
-#### Rozdział 4 Przepisy przejściowe i końcowe § 29. Wymagania, o których mowa w § 5 pkt 1 i 2, nie dotyczą osób zatrudnionych w charakterze inspektora inspekcji państwa portu w dniu wejścia w życie rozporządzenia.
-
-## Załącznik nr 18 — INFORMACJE O LICZBIE INSPEKTORÓW INSPEKCJI PAŃSTWA PORTU Liczba Liczba inspektorów inspektorów Przeliczenie (B) na zatrudnionych zatrudnionych pełny wymiar Port/obszar w pełnym w niepełnym Ogółem (A+C) godzin wymiarze wymiarze (C) godzin godzin (A) (B) Port X/lub obszar X ...
-
+39 Załącznik nr 18 INFORMACJE INFORMACJE O LICZBIE O LICZBIE INSPEKTORÓW INSPEKTORÓW INSPEKCJI INSPEKCJI PAŃSTWA PAŃSTWA PORTU PORTU Liczba Liczba inspektorów inspektorów Przeliczenie (B) na zatrudnionych zatrudnionych pełny wymiar Port/obszar w pełnym w niepełnym Ogółem (A+C) godzin wymiarze wymiarze (C) godzin godzin (A) (B) Port X/lub obszar X ...
 Port Y/lub obszar Y ...
-OGÓŁEM INFORMACJE O LICZBIE INSPEKTORÓW INSPEKCJI PAŃSTWA PORTU
+OGÓŁEM 40
 

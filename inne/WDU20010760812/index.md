@@ -8,7 +8,7 @@ pos: 812
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów
@@ -47,6 +47,12 @@ source: "isap-pdf"
 
 **Art. 4.** Zabrania się na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem art. 5:
 
+- **1)** prowadzenia badań, produkcji, wytwarzania, przetwarzania, zużycia lub nabywania w jakikolwiek inny sposób, gromadzenia, przechowywania, zbywania lub przekazywania komukolwiek broni chemicznej;
+- **2)** używania broni chemicznej;
+- **3)** podejmowania jakichkolwiek przygotowań wojskowych do użycia broni chemicznej;
+- **4)** używania chemicznych środków policyjnych jako środka prowadzenia działań wojennych;
+- **5)** podżegania lub pomocnictwa w podejmowaniu działalności zabronionej w pkt 1–4.
+
 **Art. 5.** Produkcja, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie nr 1 Załącznika do Konwencji dotyczącego związków chemicznych, zwanym dalej „Wykazem 1”, może być prowadzone wyłącznie w celach niezabronionych przez Konwencję i w ilościach przez nią dozwolonych oraz zgodnie z jej wymogami.
 
 **Art. 6.**
@@ -68,6 +74,10 @@ source: "isap-pdf"
 4. Do udzielenia, odmowy udzielenia, zmiany i cofnięcia pozwolenia lub ograniczenia jego zakresu w stosunku do wniosku stosuje się odpowiednio przepisy art. 16, art. 17 ust. 1 i 2, art. 18, art. 20, art. 21 ust. 1–5, art. 22, art. 23 i art. 26 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z 2000 r. poz. 958 i 1193 oraz z 2001 r. poz. 509 i 679) .
 
 **Art. 8.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, tryb wydawania pozwoleń na produkcję, wytwarzanie, przetwarzanie, zużycie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie 1. Rozporządzenie to określi w szczególności:
+
+- **1)** wzory wniosków o wydanie pozwolenia na produkcję, wytwarzanie, przetwarzanie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie 1;
+- **2)** dokumenty, które powinny być dołączone do wniosków, o których mowa w pkt 1;
+- **3)** wzory pozwolenia na produkcję, wytwarzanie, przetwarzanie, nabywanie, gromadzenie, przechowywanie, zbywanie, przekazywanie lub używanie toksycznych związków chemicznych lub ich prekursorów, wymienionych w Wykazie 1.
 
 **Art. 9.**
 
@@ -150,6 +160,17 @@ source: "isap-pdf"
 
 **Art. 16.** Zespół inspekcyjny, w granicach zadań określonych w Załączniku do Konwencji dotyczącym jej stosowania i weryfikacji, jest uprawniony do:
 
+- **1)** wejścia na teren każdego obiektu na terytorium Rzeczypospolitej Polskiej, w odniesieniu do którego:
+    - **a)** przedstawiono informację lub deklarację w związku z działalnością prowadzoną zgodnie z art. VI Konwencji,
+    - **b)** zażądano inspekcji na żądanie, zgodnie z art. IX ust. 8 Konwencji,
+    - **c)** zostało wszczęte dochodzenie, zgodnie z art. X ust. 9 Konwencji;
+
+- **2)** prowadzenia innej działalności inspekcyjnej, zgodnie z Konwencją;
+- **3)** używania sprzętu zatwierdzonego zgodnie z Konwencją, włącznie z zainstalowaniem urządzeń służących do stałego monitorowania obiektów;
+- **4)** prowadzenia rozmów z posiadaczem kontrolowanego obiektu lub jego przedstawicielem;
+- **5)** przeglądania dokumentów i rejestrów;
+- **6)** pobierania próbek w celu ich analizy.
+
 **Art. 17.**
 
 1. Zespołowi inspekcyjnemu towarzyszy zespół eskortujący, powołany przez ministra właściwego ze względu na inspekcjonowany obiekt, w uzgodnieniu z ministrem właściwym do spraw zagranicznych.
@@ -172,6 +193,12 @@ source: "isap-pdf"
 
 **Art. 19.** Podczas prowadzenia inspekcji kontrolowane podmioty i przedsiębiorcy, o których mowa w art. 2, mają prawo do:
 
+- **1)** uczestniczenia w pracach zespołu eskortującego;
+- **2)** składania wyjaśnień i wnoszenia zastrzeżeń podczas prowadzenia inspekcji;
+- **3)** zapoznania się z ustaleniami inspekcji i zgromadzoną dokumentacją;
+- **4)** otrzymania sprawozdania z przeprowadzonej inspekcji oraz zgłoszenia uwag do tego sprawozdania;
+- **5)** uczestniczenia w spotkaniach podsumowujących inspekcje oraz zgłaszania uwag.
+
 **Art. 20.**
 
 1. Koszty związane z przeprowadzeniem inspekcji są ponoszone ze środków budżetu państwa, które zapewniają właściwi dysponenci odpowiednich części budżetu.
@@ -179,6 +206,16 @@ source: "isap-pdf"
 2. Ministrowie właściwi ze względu na prowadzone inspekcje przedstawiają ministrowi właściwemu do spraw zagranicznych wniosek o refundację poniesionych kosztów, który jest przekazywany do Organizacji do spraw Zakazu Broni Chemicznej, zwanej dalej „Organizacją”.
 
 **Art. 21.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb przyjmowania inspekcji Organizacji na terytorium Rzeczypospolitej Polskiej. Rozporządzenie to określi w szczególności:
+
+- **1)** tryb powiadamiania o inspekcji;
+- **2)** sposób ustalania składu zespołu eskortującego;
+- **3)** obowiązki ministra właściwego ze względu na inspekcjonowany obiekt w zakresie:
+    - **a)** powiadamiania właściwych organów oraz właściciela obiektu o planowanej inspekcji,
+    - **b)** przygotowania inspekcji,
+    - **c)** zapewnienia zespołowi inspekcyjnemu i zespołowi eskortującemu dostępu do obiektu objętego inspekcją, transportu do miejsca i z miejsca inspekcji, zakwaterowania, pomieszczeń do pracy, tłumaczeń, korzystania ze środków łączności oraz opieki medycznej,
+    - **d)** zapewnienia przeprowadzenia inspekcji zgodnie z procedurami przewidzianymi w Konwencji;
+
+- **4)** tryb pokrywania kosztów inspekcji oraz występowania do Organizacji w celu refundacji poniesionych kosztów.
 
 #### Rozdział 6 Ochrona informacji
 

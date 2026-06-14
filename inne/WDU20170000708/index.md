@@ -8,7 +8,7 @@ pos: 708
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
@@ -29,7 +29,56 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady systemu monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanego dalej „systemem monitorowania przewozu i obrotu”;
+- **1a)** obowiązki podmiotów uczestniczących w drogowym i kolejowym przewozie towarów oraz podmiotów dokonujących obrotu paliwami opałowymi;
+- **2)** odpowiedzialność za naruszenie obowiązków związanych z drogowym i kolejowym przewozem towarów oraz z obrotem paliwami opałowymi.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** data zakończenia przewozu towaru – datę dostarczenia towaru na terytorium kraju do miejsca wskazanego w zgłoszeniu albo datę objęcia na terytorium kraju procedurą celną towaru będącego przedmiotem przewozu albo datę wywozu towaru z terytorium kraju;
+- **2)** kierujący – osobę fizyczną: o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731);
+    - **a)** która kieruje pojazdem samochodowym lub zespołem pojazdów składającym się z pojazdu samochodowego oraz przyczepy lub naczepy w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ),
+    - **b)** będącą maszynistą w rozumieniu ustawy z dnia 28 marca 2003 r.
+
+- **2a)** lokalizator – telekomunikacyjne urządzenie końcowe wykorzystujące technologie pozycjonowania satelitarnego i transmisji danych, na którym zainstalowano oprogramowanie udostępnione przez Szefa Krajowej Administracji Skarbowej, służące do monitorowania trasy przewozu towaru;
+- **3)** nadawca towaru – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą, dokonującą wysyłki towaru będącego przedmiotem przewozu;
+- **3a)** numer lokalizatora – indywidualny numer przydzielany podczas instalacji oprogramowania, o którym mowa w pkt 2a;
+- **4)** numer referencyjny – unikatowy identyfikator nadawany zgłoszeniu;
+- **4a)** numer urządzenia – indywidualny numer urządzenia przekazującego dane geolokalizacyjne środka transportu do zewnętrznego systemu lokalizacji używanego przez przewoźnika;
+- **4b)** obrót paliwami opałowymi – czynności określone w art. 6a albo w art. 6b;
+- **5)** odbiorca towaru – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą, do której ma być dostarczony towar będący przedmiotem przewozu;
+- **5a)** paliwa opałowe – towary nieobjęte zwolnieniem od akcyzy ze względu na ich przeznaczenie, o których mowa w art. 89 ust. 1 pkt 9, 10 i pkt 15 lit. a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723);
+- **5b)** podmiot nabywający – podmiot, na który przeniesiono posiadanie lub własność paliw opałowych w przypadku, o którym mowa w art. 6a ust. 1, albo zarejestrowanego odbiorcę, o którym mowa w art. 6b ust. 1 pkt 1;
+- **6)** podmiot odbierający:
+    - **a)** osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą, dokonującą wewnątrzwspólnotowego nabycia towarów, importu towarów lub nabycia towarów w przypadku dostawy towarów w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i
+
+- **852)** albo
+    - **b)** zużywający podmiot olejowy nieprowadzący działalności gospodarczej;
+
+- **6a)** podmiot sprzedający – pośredniczący podmiot olejowy, który przenosi posiadanie lub własność paliw opałowych w przypadku, o którym mowa w art. 6a ust. 1, albo zarejestrowanego odbiorcę, o którym mowa w art. 6b ust. 1 pkt 2;
+- **7)** podmiot wysyłający – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą, dokonującą:
+    - **a)** dostawy towarów w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług: – ostatniej przed rozpoczęciem przewozu towarów – w przypadku gdy jest dostawcą towaru, a po wydaniu towaru jest on przewożony na rzecz podmiotu odbierającego, – uprawnioną do rozporządzania towarami jak właściciel w momencie rozpoczęcia przewozu – w przypadku gdy dostarcza towary na rzecz podmiotu odbierającego w celu dokonania dostawy towarów po zakończeniu przewozu towarów,
+    - **b)** wewnątrzwspólnotowej dostawy towarów w rozumieniu ustawy, o której mowa w lit. a,
+    - **c)** eksportu towarów w rozumieniu ustawy, o której mowa w lit. a;
+
+- **7a)** pośredniczący podmiot olejowy – podmiot, o którym mowa w art. 2 ust. 1 pkt 23e ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
+- **8)** przewoźnik – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą, wykonującą przewóz towarów;
+- **9)** przewóz towarów – przemieszczanie towaru na lub przez terytorium kraju środkiem transportu po drodze publicznej albo krajowej sieci kolejowej, z uwzględnieniem postojów wymaganych podczas tego przemieszczania, przeładunku oraz rozładunku;
+- **10)** rodzaj towaru – towar klasyfikowany do jednej pozycji Nomenklatury Scalonej, o której mowa w art. 3 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwanej dalej „CN”;
+- **11)** środek transportu – pojazd: o transporcie kolejowym;
+    - **a)** samochodowy lub zespół pojazdów składający się z pojazdu samochodowego oraz przyczepy lub naczepy w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+    - **b)** kolejowy bez napędu w rozumieniu ustawy z dnia 28 marca 2003 r.
+
+- **12)** terytorium kraju – terytorium Rzeczypospolitej Polskiej;
+- **13)** terytorium państwa członkowskiego – terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej;
+- **14)** terytorium państwa trzeciego – terytorium państwa niewchodzącego w skład Unii Europejskiej;
+- **15)** wyznaczone miejsce – miejsce przeznaczone do przechowywania lub strzeżenia środka transportu, o którym mowa w art. 2 pkt 11 lit. a, wraz z towarem albo towaru, prowadzone przez dyrektora izby administracji skarbowej albo przez podmiot, któremu powierzono prowadzenie takiego miejsca;
+- **15a)** zewnętrzny system lokalizacji – system używany przez przewoźnika gromadzący dane geolokalizacyjne środka transportu przekazywane z zainstalowanego w tym środku transportu urządzenia wykorzystującego technologie pozycjonowania satelitarnego i transmisji danych;
+- **16)** zgłoszenie – zgłoszenie do rejestru zgłoszeń:
+    - **a)** przewozu towaru obejmującego przewóz określonej ilości tego samego rodzaju towaru albo określonych ilości różnych rodzajów towaru przewożonych od jednego nadawcy towaru do jednego odbiorcy towaru, do jednego miejsca dostarczenia towaru, jednym środkiem transportu albo
+    - **b)** obrotu paliwami opałowymi;
+
+- **17)** zużywający podmiot olejowy – podmiot, o którym mowa w art. 2 ust. 1 pkt 22b ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
 
 **Art. 3.**
 
@@ -512,6 +561,14 @@ source: "isap-pdf"
 3. Przepisu ust. 2 nie stosuje się, jeżeli dane geolokalizacyjne środka transportu są przekazywane do rejestru z zewnętrznego systemu lokalizacji.
 
 **Art. 10b.** W przypadku gdy środek transportu jest wyposażony w lokalizator, kierujący jest obowiązany:
+
+- **1)** włączyć lokalizator:
+    - **a)** przed rozpoczęciem przewozu towaru – w przypadku przewozu towaru, o którym mowa w art. 5 ust. 1, a w przypadku kilku miejsc załadunku na terytorium kraju z chwilą rozpoczęcia przewozu towaru z pierwszego miejsca załadunku na terytorium kraju,
+    - **b)** z chwilą rozpoczęcia przewozu towaru na terytorium kraju – w przypadku przewozu towaru, o którym mowa w art. 6 ust. 1 i art. 7 ust. 1;
+
+- **2)** wyłączyć lokalizator nie wcześniej niż z chwilą:
+    - **a)** dostarczenia towaru do miejsca dostarczenia towaru na terytorium kraju, a w przypadku kilku miejsc dostarczenia towaru na terytorium kraju z chwilą dostarczenia towaru do ostatniego miejsca dostarczenia towaru na terytorium kraju,
+    - **b)** zakończenia przewozu towaru na terytorium kraju.
 
 **Art. 10c.**
 

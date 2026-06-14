@@ -8,10 +8,10 @@ pos: 1506
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1506 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 6 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1506/text.pdf) |
 
-Poz. 1506 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 6 lipca 2022 r.
-w sprawie kontroli prawidłowości przekazywania danych rynkowych Na podstawie art. 8 ust. 4 ustawy z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. z 2015 r. poz. 1160) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie kontroli prawidłowości przekazywania danych rynkowych Na podstawie art. 8 ust. 4 ustawy z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. z 2015 r. poz. 1160) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) przedsiębiorców i rodzaj artykułów rolno-spożywczych, objętych kontrolą prawidłowości przekazywania danych rynkowych, zwaną dalej „kontrolą”;
 2) częstotliwość przeprowadzania kontroli.
 § 2. Kontrolą objęci są przedsiębiorcy wymienieni w § 13 pkt 1 lit. a i b, pkt 2 lit. a i b, pkt 3 lit. a, pkt 4 lit. a oraz pkt 7 lit. a i b rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 marca 2021 r. w sprawie zbieranych danych rynkowych (Dz. U. poz. 589), zwanego dalej „rozporządzeniem w sprawie zbieranych danych rynkowych”, obowiązani do nieodpłatnego przekazywania danych rynkowych objętych kontrolą.

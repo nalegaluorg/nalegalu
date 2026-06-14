@@ -8,10 +8,10 @@ pos: 816
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 czerwca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 816 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 czerwca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/816/text.pdf) |
 
-Poz. 816 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 czerwca 2016 r.
-w sprawie uznawania praktyki zawodowej odbytej przez technika farmaceutycznego Na podstawie art. 8 ust. 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie uznawania praktyki zawodowej odbytej przez technika farmaceutycznego Na podstawie art. 8 ust. 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb uznawania praktyki zawodowej odbytej przez technika farmaceutycznego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym oraz w Konfederacji Szwajcarskiej, zwanych dalej „państwem członkowskim”, albo państwie niebędącym państwem członkowskim;
 2) maksymalny uznawany okres praktyki, o której mowa w pkt 1.
 § 2. 1. Technik farmaceutyczny ubiegający się o uznanie praktyki zawodowej, zwany dalej „wnioskodawcą”, składa do ministra właściwego do spraw zdrowia wniosek o uznanie praktyki zawodowej odbytej w państwie członkowskim albo państwie niebędącym państwem członkowskim za równoważną z praktyką odbytą zgodnie z przepisami wydanymi na podstawie art. 91 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn.

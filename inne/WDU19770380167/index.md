@@ -8,7 +8,7 @@ pos: 167
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # MIĘDZYNARODOWY PAKT PRAW OBYWATELSKICH I POLITYCZNYCH Państwa Strony niniejszego Paktu, zważywszy, że zgodnie z zasadami ogłoszonymi w Karcie Narodów Zjednoczonych uznanie przyrodzonej godności oraz równych i niezbywalnych praw wszystkich członków wspólnoty ludzkiej stanowi podstawę wolności, sprawiedliwoŚci i pokoju na Świecie, uznając, że prawa te wynikają z przyrodzonej godności człowieka, uznając, że zgodnie z Powszechną Deklaracją Praw Człowieka ideał wolnej istoty ludzkiej korzystającej z wolności obywatelskiej i politycznej oraz wyzwolonej od lęku i niedostatku może być osiągnięty tylko wówczas, kiedy zostaną stworzone warunki zapewniające każdemu korzystanie z praw obywatelskich i politycznych oraz gospodarczych, społecznych i kulturalnych, zważywszy wynikający z Karty Narodów Zjednoczonych obowiązek Państw popierania powszechnego poszanowania i przestrzegania praw i wolności człowieka, biorąc pod uwagę, że jednostka ludzka, mająca obowiązki w stosunku do innych jednostek i w stosunku do społeczności, do której należy, powinna dążyć do popierania i przestrzegania praw uznanych w niniejszym Pakcie, zgodziły się na następujące artykuły:
@@ -61,7 +61,7 @@ iv) wszelkiej pracy lub świadczeń stanowiących część normalnych obowiązk�
 Artykuł 9
 1. Każdy ma prawo do wolności i bezpieczeństwa osobistego. Nikt nie może być samowolnie aresztowany lub zatrzymany. Nikt nie może być pozbawiony wolnoŚci inaczej jak tylko na zasadach i w trybie ustalonym przez ustawę.
 2. Osobę aresztowaną należy poinformować w chwili aresztowania o przyczynach aresztowania 1 w krótkim czasie powiadomić o wysuwanych przeciwko niej zarzutach .
-3. Osoba aresztowana lub zatrzymana pod zarzutem dokonania przestępstwa powinna być w krótkim czasie postawiona przed sędzią lub przed inną osobą ustawowo uprawnioną do sprawowania władzy sądowej i powinna być osądzona w rozsądnym terminie lub zwolniona. Nie powinno stanowić ogólnej zasady, że osoby oczekujące na rozprawę mają być zatrzymane w areszcie, lecz zwolnienie ich może być uzależnione od gwarancji zapewniających ich stawienie się na rozprawę, w każdej innej fazie postępowania sądowego oraz w razie potrzeby w celu wykonania wyroku.
+3. Osoba aresztowana lub zatrzymana pod zarzutem dokonania przestępstwa powinna być w krótkim czasie postawiona przed sędzią lub przed inną osobą ustawowo uprawnioną do sprawowania władzy sądowej i powinna być osądzona w rozsądnym terminie lub zwolniona. Nie powinno stanowić ogólnej zasady, że osoby oczekujące na rozprawę mają być zatrzymane w areszcie, lecz zwolnienie ich może być uzależnione od gwarancji zapewniających ich stawienie się na rozprawę, w każdej innej fazie postępowania sądowego oraz - w razie potrzeby - w celu wykonania wyroku.
 4. Każdy pozbawiony wolności przez aresztowanie lub zatrzymanie ma prawo odwołania się do sądu w celu niezwłocznego orzeczenia przez sąd o legalności zatrzymania i zarządzenia zwolnienia, jeżeli to zatrzymanie okaże się bezprawne.
 5. Każdy, kto został bezprawnie aresztowany lub zatrzymany, ma prawo do odszkodowania, którego może dochodzić w drodze sądowej.
 1. Każda osoba pozbawiona wolności będzie traktowana w sposób humanitarny i z poszanowaniem przyrodzonej godności człowieka.
@@ -149,7 +149,7 @@ I. Państwa Strony niniejszego Paktu zobowiązują się do przedkładania sprawo
 a) w ciągu roku od dnia wejścia w życie niniejszego Paktu dla tych Państw Stron ,
 b) następnie na każde wezwanie Komitetu.
 2. Wszystkie sprawozdania zostaną przedłożone Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych, który przekaże je Komitetowi do rozpatrzenia.
-Sprawozdania powinny wskazywać czynniki i trudności o ile takie istnieją wpływające na realizację niniejszego Paktu.
+Sprawozdania powinny wskazywać czynniki i trudności - o ile takie istnieją wpływające na realizację niniejszego Paktu.
 3. Sekretarz Generalny Organizacji Narodów Zjednoczonych może w porozumieniu z Komitetem przekazać organizacjom wyspecjalizowanym kopie tych części sprawozdań, które mogą dotyczyć ich zakresu działalności.
 4. Komitet bada sprawozdania przedłożone przez Państwa Strony niniejszego Paktu.
 Przekazuje on Państwom Stronom swoje sprawozdania wraz z takimi uwagami natury ogólnej, jakie uzna za właściwe. Komitet może również przekazać te uwagi wraz z kopiami sprawozdań, jakie otrzymał od Państw Stron niniejszego Paktu, Radzie Gospodarczej i Społecznej.
@@ -182,9 +182,9 @@ c) jeżeli rozstrzygnięcie w myśl punktu b) nie zostanie osiągnięte, sprawoz
 d) jeżeli Komisja przedłoży sprawozdanie zgodnie z punktem c), zainteresowane Państwa Strony zawiadomią, w ciągu trzech miesięcy od dnia otrzymania tego sprawozdania, Przewodniczącego Komitetu, czy akceptują treść sprawozdania Komisji.
 8. Postanowienia niniejszego artykułu nie ograniczają obowiązków Komitetu przewidzianych w artykule 41.
 9. Zainteresowane Państwa Strony pokryją w równym stopniu wszelkie wydatki członków Komisji zgodnie z preliminarzem, który zostanie sporządzony przez Sekretarza Generalnego Organizacji Narodów Zjednoczonych.
-10. Sekretarz Generalny Organizacji Narodów Zjednoczonych jest upoważniony do pokrycia w razie potrzeby wydatków członków Komisji, zanim zainteresowane Państwa Strony dokonają ich zwrotu zgodnie z ustępem 9 niniejszego artykułu .
+10. Sekretarz Generalny Organizacji Narodów Zjednoczonych jest upoważniony do pokrycia - w razie potrzeby - wydatków członków Komisji, zanim zainteresowane Państwa Strony dokonają ich zwrotu zgodnie z ustępem 9 niniejszego artykułu .
 Artykuł 43 Członkowie Komitetu i Komisji Pojednawczej ad hoc, wyznaczeni zgodnie z postanowieniami artykułu 41, korzystają z ułatwień, przywilejów i immunitetów, jakie przysługują ekspertom działającym z ramienia Organizacji Narodów Zjednoczonych, zgodnie z postanowieniami odpowiednich rozdziałów Konwencji dotyczącej przywilejów i immunitetów Narodów Zjednoczonych.
-Postanowienia dotyczące wykonania niniejszego Paktu stosuje się bez uszczerbku dla sposobów postępowania w dziedzinie praw człowieka określonych przez lub na podstawie aktów konstytucyjnych i konwencji Organizacji Narodów Zjednoczonych 1 organizacji wyspecjalizowanych oraz nie stanowią przeszkody w stosowaniu przez Państwa Strony niniejszego Paktu innych sposobów załatwiania sporów, zgodnie z ogólnymi bądź szczegółowymi porozumieniami międzynarodowymi, obowiązującymi w stosunkach między nimi.
+Postanowienia dotyczące wykonania niniejszego Paktu stosuje się bez uszczerbku dla sposobów postępowania w dziedzinie praw człowieka określonych przez - lub na podstawie aktów konstytucyjnych i konwencji Organizacji Narodów Zjednoczonych 1 organizacji wyspecjalizowanych oraz nie stanowią przeszkody w stosowaniu przez Państwa Strony niniejszego Paktu innych sposobów załatwiania sporów, zgodnie z ogólnymi bądź szczegółowymi porozumieniami międzynarodowymi, obowiązującymi w stosunkach między nimi.
 Komitet przedkłada Zgromadzeniu Ogólnemu Organizacji Narodów Zjednoczonych, za pośrednictwem Rady Gospodarczej i Społecznej, roczne sprawozdania ze swej działalności.
 Artykuł 46 Żadne z postanowień niniejszego Paktu nie może być interpretowane jako naruszające postanowienia Karty Narodów Zjednoczonych 1 statutów organizacji wyspecjalizowanych, określających odpowiednie obowiązki różnych organów Organizacji Narodów Zjednoczonych i organizacji wyspecjalizowanych odnośnie do spraw, których dotyczy niniejszy Pakt.
 Żadne z postanowień niniejszego Paktu nie może być interpretowane jako naruszające przyrodzone prawo wszystkich narodów do pełnego i swobodnego posiadania i użytkowania ich bogactw i zasobów naturalnych.

@@ -8,7 +8,7 @@ pos: 123
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Rzeczniku Praw Obywatelskich
@@ -47,11 +47,11 @@ source: "isap-pdf"
 
 **Art. 3.**
 
-1. Rzecznika powołuje Sejm za zgodą Senatu na wniosek Marszałka albo grupy 35 posłów.
+1. Rzecznika powołuje Sejm za zgodą Senatu na wniosek Marszałka Sejmu albo grupy 35 posłów.
 
 2. Szczegółowy tryb zgłaszania kandydatów na Rzecznika Praw Obywatelskich określa uchwała Sejmu.
 
-3. Uchwałę o powołaniu Rzecznika Marszałek przesyła niezwłocznie Marszałkowi Senatu.
+3. Uchwałę Sejmu o powołaniu Rzecznika Marszałek Sejmu przesyła niezwłocznie Marszałkowi Senatu.
 
 4. Senat podejmuje uchwałę w sprawie wyrażenia zgody na powołanie Rzecznika w ciągu miesiąca od dnia przekazania Senatowi uchwały Sejmu, o której mowa w ust.
 
@@ -83,9 +83,9 @@ source: "isap-pdf"
 
 3. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadku określonym w ust. 1 pkt 1, na wniosek Marszałka Sejmu.
 
-4. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadkach określonych w ust. 1 pkt 2 oraz w ust. 2, na wniosek Marszałka lub grupy co najmniej 35 posłów, większością co najmniej 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów.
+4. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadkach określonych w ust. 1 pkt 2 oraz w ust. 2, na wniosek Marszałka Sejmu lub grupy co najmniej 35 posłów, większością co najmniej 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów.
 
-**Art. 7a.** Rzecznik nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne dla zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+**Art. 7a.** Rzecznik nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne dla zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
 **Art. 7b.** Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
 
@@ -109,9 +109,9 @@ source: "isap-pdf"
 
 1. Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7c ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia o pozostawieniu wniosku bez biegu.
+2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7c ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7c ust. 3 i 4, Marszałek kieruje go do organu właściwego na podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku.
+3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7c ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku.
 
 4. Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
 
@@ -143,11 +143,11 @@ source: "isap-pdf"
 
 5. Sejm wyraża zgodę na zatrzymanie lub aresztowanie Rzecznika w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Rzecznika.
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+6. Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
 **Art. 7f.**
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7d ust. 9 i art. 7e ust. 5.
+1. Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7d ust. 9 i art. 7e ust. 5.
 
 2. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
@@ -163,6 +163,12 @@ source: "isap-pdf"
 
 **Art. 9.** Podjęcie czynności przez Rzecznika następuje:
 
+- **1)** na wniosek obywateli lub ich organizacji;
+- **2)** na wniosek organów samorządów;
+- **2a)** na wniosek Rzecznika Praw Dziecka;
+- **2b)** na wniosek Rzecznika Małych i Średnich Przedsiębiorców;
+- **3)** z własnej inicjatywy.
+
 **Art. 10.** Wniosek kierowany do Rzecznika jest wolny od opłat, nie wymaga zachowania szczególnej formy, lecz powinien zawierać oznaczenie wnioskodawcy oraz osoby, której wolności i praw sprawa dotyczy, a także określać przedmiot sprawy.
 
 **Art. 11.**
@@ -177,6 +183,10 @@ source: "isap-pdf"
 2. W zakresie realizacji zasady równego traktowania między podmiotami prywatnymi Rzecznik może podjąć działania, o których mowa w ust. 1 pkt 2.
 
 **Art. 12.** Podejmując sprawę Rzecznik może:
+
+- **1)** samodzielnie prowadzić postępowanie wyjaśniające;
+- **2)** zwrócić się o zbadanie sprawy lub jej części do właściwych organów, w szczególności organów nadzoru, prokuratury, kontroli państwowej, zawodowej lub społecznej;
+- **3)** zwrócić się do Sejmu o zlecenie Najwyższej Izbie Kontroli przeprowadzenia kontroli dla zbadania określonej sprawy lub jej części.
 
 **Art. 13.**
 
@@ -202,6 +212,15 @@ source: "isap-pdf"
 3. Rzecznik odmawia ujawnienia nazwiska i innych danych osobowych skarżącego, w tym także wobec organów władzy publicznej, jeżeli uzna to za niezbędne dla ochrony wolności, praw i interesów jednostki.
 
 **Art. 14.** Po zbadaniu sprawy Rzecznik może:
+
+- **1)** wyjaśnić wnioskodawcy, że nie stwierdził naruszenia wolności i praw człowieka i obywatela;
+- **2)** skierować wystąpienie do organu, organizacji lub instytucji, w których działalności stwierdził naruszenie wolności i praw człowieka i obywatela; wystąpienie takie nie może naruszać niezawisłości sędziowskiej;
+- **3)** zwrócić się do organu nadrzędnego nad jednostką, o której mowa w pkt 2, z wnioskiem o zastosowanie środków przewidzianych w przepisach prawa;
+- **4)** żądać wszczęcia postępowania w sprawach cywilnych, jak również wziąć udział w każdym toczącym się już postępowaniu – na prawach przysługujących prokuratorowi;
+- **5)** żądać wszczęcia przez uprawnionego oskarżyciela postępowania przygotowawczego w sprawach o przestępstwa ścigane z urzędu;
+- **6)** zwrócić się o wszczęcie postępowania administracyjnego, wnosić skargi do sądu administracyjnego, a także uczestniczyć w tych postępowaniach – na prawach przysługujących prokuratorowi;
+- **7)** wystąpić z wnioskiem o ukaranie, a także o uchylenie prawomocnego rozstrzygnięcia w postępowaniu w sprawach o wykroczenia, na zasadach i w trybie określonych w odrębnych przepisach;
+- **8)** wnieść kasację lub rewizję nadzwyczajną od prawomocnego orzeczenia, na zasadach i w trybie określonych w odrębnych przepisach.
 
 **Art. 15.**
 
@@ -237,6 +256,10 @@ source: "isap-pdf"
 
 **Art. 17b.** Do zakresu działania Rzecznika, dotyczącego realizacji zasady równego traktowania, należy również:
 
+- **1)** promowanie, analizowanie, monitorowanie i wspieranie równego traktowania wszystkich osób;
+- **2)** prowadzenie niezależnych badań dotyczących dyskryminacji;
+- **3)** opracowywanie i wydawanie niezależnych sprawozdań i wydawanie zaleceń odnośnie do problemów związanych z dyskryminacją.
+
 **Art. 17c.**
 
 1. Rzecznik może przetwarzać wszelkie informacje, w tym dane osobowe, niezbędne do realizacji swoich ustawowych zadań.
@@ -246,6 +269,9 @@ source: "isap-pdf"
 3. Rzecznik dopuszcza do przetwarzania danych osobowych osoby posiadające pisemne upoważnienie. Warunkiem udzielenia upoważnienia jest pisemne zobowiązanie się osoby upoważnianej do zachowania przetwarzanych danych osobowych w poufności.
 
 **Art. 18.** Przepisy ustawy dotyczące ochrony wolności i praw człowieka i obywatela stosuje się również odpowiednio do:
+
+- **1)** osób niebędących obywatelami polskimi, znajdujących się pod władzą Rzeczypospolitej Polskiej – w zakresie przysługujących im wolności i praw;
+- **2)** osób prawnych i jednostek organizacyjnych niebędących osobami prawnymi, którym ustawa przyznaje zdolność prawną – w zakresie określonym w przepisach ustawy z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2024 r. poz. 1175).
 
 **Art. 19.**
 
@@ -259,7 +285,7 @@ source: "isap-pdf"
 
 3. Rzecznik może przedkładać Sejmowi i Senatowi określone sprawy wynikające z jego działalności.
 
-4. Rzecznik na wniosek Marszałka przedstawia informację lub podejmuje czynności w określonych sprawach.
+4. Rzecznik na wniosek Marszałka Sejmu przedstawia informację lub podejmuje czynności w określonych sprawach.
 
 5. Rzecznik raz na dwa lata przekazuje Sejmowi i Senatowi sprawozdanie z wykonania ustawy, o której mowa w art. 1 ust. 5.
 

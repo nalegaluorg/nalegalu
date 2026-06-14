@@ -8,10 +8,10 @@ pos: 1772
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1772 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 21 listopada 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001772) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1772/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 21 listopada 2014 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie sposobu przeprowadzania i dokumentowania przez Agencję Bezpieczeństwa Wewnętrznego niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 7 października 2002 r. w sprawie sposobu przeprowadzania i dokumentowania przez Agencję Bezpieczeństwa Wewnętrznego niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa (Dz. U. Nr 172, poz. 1404), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 29 kwietnia 2014 r. zmieniającym rozporządzenie w sprawie sposobu przeprowadzania i dokumentowania przez Agencję Bezpieczeństwa Wewnętrznego niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa (Dz. U. poz. 691).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzania i dokumentowania przez Agencję Bezpieczeństwa Wewnętrznego niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa (Dz. U. poz. 691), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Prezes Rady Ministrów: E. Kopacz RozPoRządzenie PREZESA RADY MINISTRÓW z dnia 7 października 2002 r.
-w sprawie sposobu przeprowadzania i dokumentowania przez Agencję Bezpieczeństwa Wewnętrznego niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa Na podstawie art. 30 ust. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm. ) zarządza się, co następuje: § 1. Ilekroć w rozporządzeniu jest mowa o ustawie, rozumie się przez to ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
+w sprawie sposobu przeprowadzania i dokumentowania przez Agencję Bezpieczeństwa Wewnętrznego niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa Na podstawie art. 30 ust. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm. ) zarządza się, co następuje:
+§ 1. Ilekroć w rozporządzeniu jest mowa o ustawie, rozumie się przez to ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
 § 2. 1. Przeprowadzanie niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa, zwanego dalej „czynnościami”, polega na obserwowaniu:
 1) przesyłek, co do których zachodzi uzasadnione przypuszczenie, że mogą zawierać przedmioty przestępstwa;
 2) nieruchomości lub przedmiotów ruchomych, w tym pojazdów, co do których zachodzi uzasadnione przypuszczenie, że są wykorzystywane do wytwarzania, przemieszczania, przechowywania lub obrotu przedmiotami przestępstwa;
@@ -81,9 +81,9 @@ w sprawie sposobu przeprowadzania i dokumentowania przez Agencję Bezpieczeństw
 3. Szef Agencji Bezpieczeństwa Wewnętrznego przechowuje drugie egzemplarze zawiadomienia Prokuratora Generalnego o zarządzeniu czynności i informacji o wynikach czynności, pierwszy egzemplarz zarządzenia Prokuratora Generalnego o zaniechaniu czynności oraz pojedyncze egzemplarze wniosków, zarządzeń, zawiadomień organów i instytucji publicznych, notatek służbowych, protokołów zniszczenia materiałów oraz opisów wyników sprawdzeń i ocen, o których mowa w § 2 ust. 4.
 § 12. (uchylony).
 § 13. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR do rozporządzenia Prezesa Rady Ministrów z dnia 7 października 2002 r.
+do rozporządzenia Prezesa Rady Ministrów z dnia 7 października 2002 r.
 
-## Załącznik nr 1 — WZÓR ………………………………..………….
+## Załącznik nr 1 — WZÓR WZÓR ………………………………..………….
 
 (klauzula tajności po wypełnieniu) ……………………….. ………...…………………..
 L. dz. _____________ Egz. pojedynczy SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO WNIOSEK NR _____________ Na podstawie art. 30 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) wnoszę o ZARZĄDZENIE czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania, obrotu* przedmiotami przestępstwa w sprawie nr ……………. pod kryptonimem ……… prowadzonej przez……………………. dotyczącej przestępstwa wymienionego w art. 5 ust. 1 pkt 2 lit….. ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu i określonego w art. ……………………………………………………………………………………… ……………………………………………………………………………………………………….…… na okres ….. tygodni/miesięcy* , od dnia …………… do dnia ………….. .
@@ -91,24 +91,24 @@ Czynności stosowane będą wobec: ………………………………………
 KIEROWNIK KOMÓRKI KIEROWNIK JEDNOSTKI ORGANIZACYJNEJ ABW ORGANIZACYJNEJ ABW Z SIEDZIBĄ W WARSZAWIE ................................................ ………………………………… DYREKTOR DELEGATURY ABW ___________________________ * Niepotrzebne skreślić.
 1/2 ………………………………..………….
 (klauzula tajności po wypełnieniu) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
-L. dz. _________ Egz. pojedynczy 2/2 ZARZĄDZENIE NR _________ Na podstawie art. 30 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania, obrotu* przedmiotami przestępstwa w sprawie nr …………….. pod kryptonimem …………… prowadzonej przez ……………………………………………………………………………………………………… dotyczącej przestępstwa wymienionego w art. 5 ust. 1 pkt 2 lit. …… ustawy z dnia 24 maja 2002 r.
+L. dz. _________ Egz. pojedynczy ZARZĄDZENIE NR _________ Na podstawie art. 30 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania, obrotu* przedmiotami przestępstwa w sprawie nr …………….. pod kryptonimem …………… prowadzonej przez ……………………………………………………………………………………………………… dotyczącej przestępstwa wymienionego w art. 5 ust. 1 pkt 2 lit. …… ustawy z dnia 24 maja 2002 r.
 o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu i określonego w art. ……………….
 …………………………………………………………………………………………………………….
 na okres ………….. tygodni/miesięcy* od dnia …………. do dnia………….. .
 Czynności stosowane będą wobec ……………………………………………………………………….
 …………………………………………………………………………………………………………….
-SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO 1/1 WZÓR Załącznik nr 2 L. dz. ____________ Egz. nr ……..
+SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO 2/2 WZÓR WZÓR Załącznik nr 2 L. dz. ____________ Egz. nr ……..
 PROKURATOR GENERALNY ZAWIADOMIENIE NR _____________ Zgodnie z art. 30 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) zawiadamiam o zarządzeniu czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania, obrotu* przedmiotami przestępstwa w sprawie nr ……………. pod kryptonimem ……… prowadzonej przez……………………. dotyczącej przestępstwa wymienionego w art. 5 ust. 1 pkt 2 lit. … ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu i określonego w art. …………………………………………………………………………...
 …………………………………………………………………………………………………………… na okres ….. tygodni/miesięcy* , od dnia…………… do dnia………….. .
 Czynności stosowane będą wobec:……………………………………………………………………….
 …………………………………………………………………………………………………………… w celu ……………………………………………………………………………………………………..
 …………………………………………………………………………………………………………….
 UZASADNIENIE SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO …………………………………………………………..
-WZÓR 1/1 Załącznik nr 3 WZÓR …………………………….. .…………………………… L. dz. ___________ Egz. pojedynczy ZAWIADOMIENIE NR _____________ Zawiadamiam, że na podstawie art. 30 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) zarządziłem niejawne nadzorowanie wytwarzania, przemieszczania, przechowywania, obrotu* przedmiotami przestępstwa.
-W związku z tym, na mocy art. 30 ust. 3 wymienionej ustawy, należy przesyłkę: …………………………………………………………………………………………………………… dopuścić do dalszego przewozu w stanie nienaruszonym* , wydać za pokwitowaniem funkcjonariuszowi ABW okazującemu niniejsze zawiadomienie, bez dopuszczenia do dalszego przewozu* , wydać za pokwitowaniem funkcjonariuszowi ABW okazującemu niniejsze zawiadomienie oraz dopuścić do dalszego przewozu w stanie zwróconym* .
+1/1 Załącznik nr 3 WZÓR WZÓR …………………………….. .…………………………… L. dz. ___________ Egz. pojedynczy ZAWIADOMIENIE NR _____________ Zawiadamiam, że na podstawie art. 30 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) zarządziłem niejawne nadzorowanie wytwarzania, przemieszczania, przechowywania, obrotu* przedmiotami przestępstwa.
+W związku z tym, na mocy art. 30 ust. 3 wymienionej ustawy, należy przesyłkę: …………………………………………………………………………………………………………… – dopuścić do dalszego przewozu w stanie nienaruszonym* , – wydać za pokwitowaniem funkcjonariuszowi ABW okazującemu niniejsze zawiadomienie, bez dopuszczenia do dalszego przewozu* , – wydać za pokwitowaniem funkcjonariuszowi ABW okazującemu niniejsze zawiadomienie oraz dopuścić do dalszego przewozu w stanie zwróconym* .
 Potwierdzam przyjęcie do wiadomości i realizacji niniejszego zawiadomienia. Zobowiązuję się do zachowania w tajemnicy treści niniejszego zawiadomienia oraz informacji o wszystkich czynnościach, jakie zostaną podjęte dla wykonania zarządzenia Szefa Agencji Bezpieczeństwa Wewnętrznego.
 Zostałem uprzedzony, że w przypadku ujawnienia lub wykorzystania tych informacji wbrew temu zobowiązaniu poniosę odpowiedzialność karną określoną w art. 265 lub art. 266 Kodeksu karnego.
-______________________ * WZÓR 1/1 Załącznik nr 4 WZÓR …………………………….. .…………………………… L. dz. ___________ Egz. nr ……..
+______________________ * 1/1 Załącznik nr 4 WZÓR WZÓR …………………………….. .…………………………… L. dz. ___________ Egz. nr ……..
 ZARZĄDZENIE NR………..
 Na podstawie art. 30 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) ZARZĄDZAM ZANIECHANIE CZYNNOŚCI w sprawie nr …………., pod kryptonimem ……………… prowadzonej przez ………………………..
 dotyczącej przestępstwa wymienionego w art. 5 ust. 1 pkt 2 lit. …… ustawy z dnia 24 maja 2002 r.
@@ -116,14 +116,14 @@ o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu i określonego w ar
 ...................................................................................................................................................................
 zastosowanych w dniu ………….…. przez Szefa Agencji Bezpieczeństwa Wewnętrznego.
 UZASADNIENIE …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… PROKURATOR GENERALNY ……………………………………..
-WZÓR 1/2 ………………………………..………….
-(klauzula tajności po wypełnieniu) Załącznik nr 5 WZÓR ………………………………..………….
+1/1 Załącznik nr 5 WZÓR WZÓR ………………………………..………….
 (klauzula tajności po wypełnieniu) …………………………………. .…………………………… (nazwa jednostki organizacyjnej ABW) (nazwa miejscowości, data) L. dz. ___________ Egz. pojedynczy NOTATKA SŁUŻBOWA dot. sprawy nr ………………… pod kryptonimem ……………..
 Działając na podstawie zarządzenia nr ……. Szefa Agencji Bezpieczeństwa Wewnętrznego z dnia ……………………………… o przeprowadzeniu ……………………………………………………… …………………………………………………………………………………………………………… wydanego na wniosek nr ………………………………………………………………………………… z dnia ……………………. wobec……………………………………………………………………...
 …………………………………………………………………………………………………………… czynności w dniach od ……….. do …………….. w …………………………………………………… (nazwa miejscowości) przeprowadzili …………………………………………………………………………………………...
 …………………………………………………………………………………………………………… Wyniki przeprowadzonych czynności ……………………………………………………………...........
-…………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… WZÓR L. dz. _______ Egz. pojedynczy 2/2 …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… .………………………………………………………………………………………………………… …………………………………………………………………………………………………………..
-…………………………………………………………………………………………………………… .………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… KIEROWNIK KOMÓRKI KIEROWNIK JEDNOSTKI ORGANIZACYJNEJ ABW ORGANIZACYJNEJ ABW 1/1 Załącznik nr 6 WZÓR …………………………….. .…………………………… L. dz. ___________ Egz. nr ……..
+…………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… 1/2 ………………………………..………….
+(klauzula tajności po wypełnieniu) L. dz. _______ Egz. pojedynczy …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… .………………………………………………………………………………………………………… …………………………………………………………………………………………………………..
+…………………………………………………………………………………………………………… .………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… KIEROWNIK KOMÓRKI KIEROWNIK JEDNOSTKI ORGANIZACYJNEJ ABW ORGANIZACYJNEJ ABW 2/2 Załącznik nr 6 WZÓR WZÓR …………………………….. .…………………………… L. dz. ___________ Egz. nr ……..
 PROKURATOR GENERALNY INFORMACJA o przeprowadzonych czynnościach, o których mowa w art. 30 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.)
 1. Nr sprawy …………………………. kryptonim ……………………………………………..
 2. Nr i data zarządzenia Szefa ABW ………………………………………………………………
@@ -132,7 +132,7 @@ PROKURATOR GENERALNY INFORMACJA o przeprowadzonych czynnościach, o których mow
 5. Termin przeprowadzenia czynności …………………………………………………………….
 6. Uzyskane wyniki ………………………………………………………………………………..
 ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… ……………………………………………………………………………………………………….
-SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO WZÓR 1/1 Załącznik nr 7 WZÓR L. dz. ___________ Egz. pojedynczy ZARZĄDZENIE NR........................
+SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO 1/1 Załącznik nr 7 WZÓR WZÓR L. dz. ___________ Egz. pojedynczy ZARZĄDZENIE NR........................
 Na podstawie § 9 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 7 października 2002 r. w sprawie sposobu przeprowadzania i dokumentowania przez Agencję Bezpieczeństwa Wewnętrznego niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa (Dz. U. z 2014 r. poz. 1772) ZARZĄDZAM ZNISZCZENIE MATERIAŁÓW zgromadzonych podczas czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa* prowadzonych w sprawie nr …………….... pod kryptonimem………………..
 przez ………………………….……………………………………………………………………………………… na podstawie zarządzenia/zarządzeń* Szefa ABW nr ……………………….. wydanego/wydanych* w trybie art.
 30 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) z uwagi na fakt, że nie zawierają dowodów pozwalających na wszczęcie postępowania karnego.
@@ -140,12 +140,12 @@ W celu realizacji przedmiotowego zarządzenia powołuję komisję w składzie:
 1. ……………………………………………………………………………………………………………………
 2. ……………………………………………………………………………………………………………………
 3. …………………………………………………………………………………………………………………… SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO ……………………………………..
-WZÓR 1/1 Załącznik nr 8 WZÓR ………………………………. ………………………..
+1/1 Załącznik nr 8 WZÓR WZÓR ………………………………. ………………………..
 L. dz. ________________ Egz. pojedynczy PROTOKÓŁ ZNISZCZENIA MATERIAŁÓW Komisja powołana na podstawie zarządzenia nr ………………… Szefa Agencji Bezpieczeństwa Wewnętrznego z dnia …………………………….. w składzie:
 1. …………………………………………………………………………………………………...
 2. …………………………………………………………………………………………………...
 3. ……………………………………………..…………….............................................................
 dokonała w dniu …………… zniszczenia materiałów/usunięcia zapisów informacji* zgromadzonych podczas czynności przeprowadzanych zgodnie z zarządzeniem nr ……………… wydanym w trybie art. 30 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.) Wykaz zniszczonych materiałów ………………………………………………………………………...
 …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… Podpisy członków komisji:
-1. ……………………………. 2. ………………………….... 3. …………………………… WZÓR ……………………………… ………… W ……………………………… ………… … ……… … ……………… W W W …………… …… ………… …… …… … ……… ……… W ……… …… … ……… … … W W W …………… …… ………… …… …… … ……… ……… W Ó ………… … ……………… W W …………… …… ………… …… …… … ……… ………
+1. ……………………………. 2. ………………………….... 3. …………………………… 1/1 W …… ……… …… …… ……… …………… ………… W … W ………… ………… ……………………………… ……………………………… W ……………… … ……… … …… ……… …… …… ……… …………… ………… … W W W … … W ……… … …… ……… W …… ……… …… …… ……… …………… ………… … W Ó W ……………… … …………
 

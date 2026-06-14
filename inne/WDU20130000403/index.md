@@ -8,7 +8,7 @@ pos: 403
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych
@@ -31,9 +31,35 @@ source: "isap-pdf"
 
 **Art. 2.** Przepisy ustawy stosuje się do transakcji handlowych, których wyłącznymi stronami są:
 
+- **1)** przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803);
+- **2)** podmioty prowadzące działalność, o której mowa w art. 6 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **3)** podmioty, o których mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. ‒ Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825);
+- **4)** osoby wykonujące wolny zawód;
+- **5)** oddziały i przedstawicielstwa przedsiębiorców zagranicznych;
+- **6)** (uchylony)
+- **7)** przedsiębiorcy z państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+
 **Art. 3.** Przepisów ustawy nie stosuje się do:
 
+- **1)** długów objętych postępowaniami prowadzonymi na podstawie ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825) oraz ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309) odpowiednio od dnia ogłoszenia upadłości albo od dnia otwarcia postępowania restrukturyzacyjnego;
+- **2)** umów, na podstawie których są wykonywane czynności bankowe w rozumieniu przepisów art. 5 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm. );
+- **3)** umów, których stronami są wyłącznie podmioty zaliczane do sektora finansów publicznych w rozumieniu przepisów o finansach publicznych.
+- **4)** (uchylony)
+
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** transakcja handlowa – umowę, której przedmiotem jest odpłatna dostawa towaru lub odpłatne świadczenie usługi, jeżeli strony, o których mowa w art. 2, zawierają ją w związku z wykonywaną działalnością;
+- **1a)** świadczenie pieniężne – wynagrodzenie za dostawę towaru lub wykonanie usługi w transakcji handlowej;
+- **2)** podmiot publiczny – podmioty, o których mowa w art. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
+- **3)** odsetki ustawowe za opóźnienie w transakcjach handlowych:
+    - **a)** w przypadku transakcji handlowych, w których dłużnikiem jest podmiot publiczny będący podmiotem leczniczym – odsetki w wysokości równej sumie stopy referencyjnej Narodowego Banku Polskiego i ośmiu punktów procentowych,
+    - **b)** w przypadku transakcji handlowych, w których dłużnikiem nie jest podmiot publiczny będący podmiotem leczniczym – odsetki w wysokości równej sumie stopy referencyjnej Narodowego Banku Polskiego i dziesięciu punktów procentowych;
+
+- **4)** podmiot leczniczy – podmiot, o którym mowa w art. 4 ust. 1 pkt 2–4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz.
+- **991)** ;
+- **5)** mikroprzedsiębiorca, mały przedsiębiorca, średni przedsiębiorca – odpowiednio mikroprzedsiębiorcę, małego przedsiębiorcę i średniego przedsiębiorcę w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i art. 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. );
+- **6)** duży przedsiębiorca – przedsiębiorcę niebędącego mikroprzedsiębiorcą, małym przedsiębiorcą ani średnim przedsiębiorcą;
+- **7)** grupa kapitałowa – grupę kapitałową w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2021 r. poz. 275, z 2022 r. poz. 2581 i 2640 oraz z 2023 r. poz. 852).
 
 **Art. 4a.** Do transakcji handlowych nie stosuje się przepisu art. 481 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326 i 1285).
 
@@ -149,6 +175,9 @@ source: "isap-pdf"
 4. Zrzeczenie się roszczenia o ustalenie, że termin zapłaty jest rażąco nieuczciwy wobec wierzyciela, jest nieważne.
 
 **Art. 11b.** Do ustalenia wysokości odsetek ustawowych za opóźnienie w transakcjach handlowych stosuje się stopę referencyjną Narodowego Banku Polskiego obowiązującą w dniu:
+
+- **1)** 1 stycznia – do odsetek należnych za okres od dnia 1 stycznia do dnia 30 czerwca;
+- **2)** 1 lipca – do odsetek należnych za okres od dnia 1 lipca do dnia 31 grudnia.
 
 **Art. 11c.** Minister właściwy do spraw gospodarki ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość odsetek ustawowych za opóźnienie w transakcjach handlowych.
 

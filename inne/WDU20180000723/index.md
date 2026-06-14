@@ -8,7 +8,7 @@ pos: 723
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu
@@ -32,6 +32,9 @@ Art. 158–180. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady i tryb przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;
+- **2)** warunki wykonywania działalności gospodarczej przez niektóre instytucje obowiązane.
 
 **Art. 2.**
 
@@ -183,6 +186,9 @@ Art. 158–180. (pominięte)
 
 **Art. 4.** Przepisów rozporządzenia 2015/847 nie stosuje się do transferów środków pieniężnych wykonywanych pomiędzy dostawcami usług płatniczych mającymi siedzibę na terytorium Rzeczypospolitej Polskiej, na rachunek płatniczy odbiorcy umożliwiający dokonywanie wyłącznie płatności za dostawę towarów lub usług, jeżeli:
 
+- **1)** dostawca usług płatniczych odbiorcy może za pomocą niepowtarzalnego identyfikatora transakcji monitorować transfer środków pieniężnych pomiędzy odbiorcą a osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, która zawarła z odbiorcą umowę na dostawę towarów lub usług;
+- **2)** kwota transferu środków pieniężnych z tytułu płatności za dostawę towarów lub usług nie przekracza równowartości 1000 euro.
+
 **Art. 5.** Przeliczenia kwot wyrażonych w ustawie w euro dokonuje się według średniego kursu waluty ogłoszonego przez NBP, obowiązującego w dniu przeprowadzania transakcji, w dniu zlecenia przeprowadzenia transakcji lub w dniu wydania decyzji o nałożeniu kary pieniężnej.
 
 **Art. 6.** Instytucje obowiązane wyznaczają kadrę kierowniczą wyższego szczebla odpowiedzialną za wykonywanie obowiązków określonych w ustawie.
@@ -232,6 +238,10 @@ Art. 158–180. (pominięte)
 4. Kadencja Generalnego Inspektora wygasa w razie jego śmierci.
 
 **Art. 11b.** Prezes Rady Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może odwołać Generalnego Inspektora przed upływem kadencji w przypadku:
+
+- **1)** niewykonywania przez niego zadań na skutek długotrwałej choroby trwającej co najmniej 6 miesięcy;
+- **2)** zaprzestania spełniania warunków, o których mowa w art. 11 ust. 1 pkt 1, 2 i 4 i ust. 2;
+- **3)** złożenia rezygnacji.
 
 **Art. 11c.**
 
@@ -749,6 +759,10 @@ Art. 158–180. (pominięte)
 
 **Art. 44a.** W przypadku transakcji związanej z państwem trzecim wysokiego ryzyka, zidentyfikowanym przez Komisję Europejską w akcie delegowanym przyjętym na podstawie art. 9 dyrektywy 2015/849, przeprowadzanej przez osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, instytucje obowiązane, oprócz stosowania środków bezpieczeństwa finansowego, o których mowa w art. 44 ust. 1, podejmują co najmniej jedno z następujących działań ograniczających ryzyko związane z taką transakcją:
 
+- **1)** podejmują dodatkowe czynności w ramach stosowanych wzmożonych środków bezpieczeństwa finansowego;
+- **2)** wprowadzają zintensyfikowane obowiązki związane z przekazywaniem informacji lub raportowaniem transakcji;
+- **3)** ograniczają zakres stosunków gospodarczych lub transakcji.
+
 **Art. 44b.**
 
 1. Utworzenie przez instytucję obowiązaną oddziału lub przedstawicielstwa w państwie trzecim wysokiego ryzyka, zidentyfikowanym przez Komisję Europejską w akcie delegowanym przyjętym na podstawie art. 9 dyrektywy 2015/849, wymaga uzyskania zezwolenia:
@@ -972,7 +986,48 @@ Art. 158–180. (pominięte)
 
 **Art. 58.** Do zgłaszania informacji o beneficjentach rzeczywistych i ich aktualizacji są obowiązane:
 
+- **1)** spółki jawne;
+- **2)** spółki komandytowe;
+- **3)** spółki komandytowo-akcyjne;
+- **4)** spółki z ograniczoną odpowiedzialnością;
+- **4a)** proste spółki akcyjne;
+- **5)** spółki akcyjne, z wyjątkiem spółek publicznych w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620 i 1863 oraz z 2025 r. poz.
+- **146)** ;
+- **6)** trusty, których powiernicy lub osoby zajmujące stanowiska równoważne:
+    - **a)** mają miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej lub
+    - **b)** nawiązują stosunki gospodarcze lub nabywają nieruchomość na terytorium Rzeczypospolitej Polskiej w imieniu lub na rzecz trustu;
+
+- **7)** spółki partnerskie;
+- **8)** europejskie zgrupowania interesów gospodarczych;
+- **9)** spółki europejskie;
+- **10)** spółdzielnie;
+- **11)** spółdzielnie europejskie;
+- **12)** stowarzyszenia podlegające wpisowi do Krajowego Rejestru Sądowego;
+- **13)** fundacje.
+
 **Art. 59.** Informacje podlegające zgłoszeniu do Rejestru obejmują:
+
+- **1)** dane identyfikacyjne podmiotów wymienionych w art. 58:
+    - **a)** nazwę (firmę) lub w przypadku trustu inne dane pozwalające zidentyfikować trust,
+    - **b)** formę organizacyjną,
+    - **c)** siedzibę lub w przypadku trustu miejsce zamieszkania lub siedzibę powiernika trustu lub osoby zajmującej stanowisko równoważne,
+    - **d)** numer w Krajowym Rejestrze Sądowym lub w przypadku trustu nazwę właściwego rejestru wraz z numerem, o ile został wpisany do rejestru,
+    - **e)** NIP, o ile został nadany;
+
+- **2)** dane identyfikacyjne beneficjenta rzeczywistego podmiotów, o których mowa w art. 58 pkt 1–5 i 7–13:
+    - **a)** imię i nazwisko,
+    - **b)** każde posiadane obywatelstwo,
+    - **c)** państwo zamieszkania,
+    - **d)** numer PESEL albo datę urodzenia – w przypadku osób nieposiadających numeru PESEL,
+    - **e)** informację o wielkości i charakterze udziału lub uprawnieniach przysługujących beneficjentowi rzeczywistemu;
+
+- **3)** dane identyfikacyjne beneficjenta rzeczywistego trustu, o którym mowa w art. 58 pkt 6:
+    - **a)** imię i nazwisko,
+    - **b)** każde posiadane obywatelstwo,
+    - **c)** państwo zamieszkania,
+    - **d)** numer PESEL albo datę urodzenia – w przypadku osób nieposiadających numeru PESEL,
+    - **e)** informację o uprawnieniach przysługujących beneficjentowi rzeczywistemu,
+    - **f)** w przypadku, o którym mowa w art. 2 ust. 2 pkt 1 lit. b tiret czwarte, informacje o grupie osób, w których głównym interesie powstał lub działa trust.
 
 **Art. 60.**
 
@@ -1041,6 +1096,9 @@ Art. 158–180. (pominięte)
 
 **Art. 63.** Informacje, o których mowa w art. 59 i art. 61 ust. 1a, są wprowadzane do Rejestru niezwłocznie po ich zgłoszeniu lub aktualizacji. Art 64. Informacje, o których mowa w art. 59 i art. 61 ust. 1a, dotyczące podmiotów, o których mowa w art. 58:
 
+- **1)** pkt 1–5 i 7–13 – są przechowywane przez okres 10 lat, licząc od dnia, w którym dokonano wykreślenia informacji o tych podmiotach z Krajowego Rejestru Sądowego;
+- **2)** pkt 6 – są przechowywane przez okres 10 lat, licząc od dnia, w którym ustał obowiązek zgłoszenia danych do Rejestru lub ich aktualizacji.
+
 **Art. 65.** (uchylony)
 
 **Art. 66.** Do przetwarzania danych osobowych zgromadzonych w Rejestrze nie stosuje się przepisów art. 15 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
@@ -1106,6 +1164,10 @@ Art. 158–180. (pominięte)
 **Art. 70c.** Podmioty, o których mowa w art. 70a ust. 1, w zakresie swojej właściwości przetwarzają informacje, o których mowa w art. 59, w tym dane osobowe, uzyskane z Rejestru. Przetwarzanie informacji, w tym danych osobowych, może mieć charakter niejawny oraz odbywać się bez zgody i wiedzy osoby, której dane dotyczą.
 
 **Art. 71.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** sposób sporządzania i składania wniosków o udostępnienie informacji, o których mowa w art. 59, oraz udostępniania tych informacji,
+- **2)** tryb składania wniosków o udostępnienie informacji, o których mowa w art. 59, oraz udostępniania tych informacji,
+- **3)** terminy udostępniania informacji, o których mowa w art. 59 – mając na uwadze potrzebę zapewnienia szybkiego, wiarygodnego i bezpiecznego dostępu do informacji z Rejestru.
 
 **Art. 71a.** Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, organ Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego w sprawach Rejestru, określając zakres tych zadań, mając na względzie przygotowanie techniczne i organizacyjne urzędu obsługującego ten organ.
 
@@ -1361,7 +1423,18 @@ Art. 158–180. (pominięte)
 
 **Art. 93.** Minister właściwy do spraw finansów publicznych udostępnia wzory:
 
+- **1)** zawiadomień, o których mowa w art. 86 ust. 1 i art. 90 ust. 1,
+- **2)** żądań, o których mowa w art. 86 ust. 5 i art. 87 ust. 1,
+- **3)** zwolnień, o których mowa w art. 86 ust. 6,
+- **4)** informacji o zawiadomieniu, o której mowa w art. 89 ust. 8 – w formie dokumentu elektronicznego.
+
 **Art. 94.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób sporządzania i przekazywania:
+
+- **1)** zawiadomień, o których mowa w art. 86 ust. 1 i art. 90 ust. 1,
+- **2)** potwierdzeń, o których mowa w art. 86 ust. 3,
+- **3)** żądań, o których mowa w art. 86 ust. 5 i art. 87 ust. 1,
+- **4)** zwolnień, o których mowa w art. 86 ust. 6,
+- **5)** informacji o zawiadomieniu, o której mowa w art. 89 ust. 8 – oraz tryb ich przekazywania, mając na uwadze konieczność sprawnego, wiarygodnego i bezpiecznego ich przekazywania.
 
 **Art. 95.** W zakresie nieuregulowanym w niniejszym rozdziale do wstrzymania transakcji lub blokady rachunku przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304) stosuje się odpowiednio.
 
@@ -1561,6 +1634,9 @@ Art. 158–180. (pominięte)
 
 **Art. 109.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, sposób:
 
+- **1)** sporządzania i przyjmowania przez Generalnego Inspektora wniosków, o których mowa w art. 104 ust. 1 oraz art. 105 ust. 1, 3 i 4, oraz tryb ich przyjmowania,
+- **2)** przekazywania przez Generalnego Inspektora informacji, o których mowa w art. 106 ust. 1–2 – mając na uwadze potrzebę zapewnienia szybkiego i bezpiecznego ich przyjmowania i przekazywania.
+
 **Art. 110.**
 
 1. Generalny Inspektor udostępnia na wniosek lub z urzędu zagranicznym jednostkom analityki finansowej oraz pozyskuje od tych jednostek informacje związane z praniem pieniędzy lub finansowaniem terroryzmu, w tym informacje o czynach zabronionych, z których mogą pochodzić wartości majątkowe, a także informacje mogące mieć znaczenie dla wykrywania lub zwalczania terroryzmu lub związanej z nim przestępczości zorganizowanej.
@@ -1696,6 +1772,13 @@ Art. 158–180. (pominięte)
 
 **Art. 116c.** Generalny Inspektor w terminie 4 miesięcy od dnia zakończenia roku kalendarzowego przekazuje ministrowi właściwemu do spraw finansów publicznych dane za zakończony rok dotyczące informacji zgromadzonych w rejestrze, o którym mowa w art. 116b, dotyczące wniosków składanych w sprawach obejmujących co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia 2016/794, obejmujące w szczególności informacje o:
 
+- **1)** liczbie złożonych wniosków wraz ze wskazaniem organu składającego;
+- **2)** sposobie rozpatrzenia wniosków;
+- **3)** średnim czasie rozpatrzenia wniosku;
+- **4)** liczbie spraw dotyczących przestępstwa obejmującego co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia 2016/794, w których po przekazaniu informacji przez Generalnego Inspektora wszczęte zostało postępowanie przygotowawcze – w zakresie, w jakim informacje te są dostępne dla Generalnego Inspektora;
+- **5)** liczbie osób, wobec których sporządzono akt oskarżenia dotyczący przestępstwa obejmującego co najmniej jedną z form przestępczości, o której mowa w załączniku I do rozporządzenia 2016/794, oraz liczbie osób skazanych za takie przestępstwa – w zakresie, w jakim informacje te są dostępne dla Generalnego Inspektora;
+- **6)** zasobach ludzkich lub informatycznych zaangażowanych do obsługi wniosków składanych na podstawie art. 105 ust. 1 i 4 lub art. 115 ust. 1a.
+
 **Art. 116d.** Minister właściwy do spraw finansów publicznych przekazuje Komisji Europejskiej dane otrzymane na podstawie art. 116c i art. 25c ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2023 r. poz. 783).
 
 #### Rozdział 10 Szczególne środki ograniczające
@@ -1750,6 +1833,10 @@ Art. 158–180. (pominięte)
 
 **Art. 121.** Komitet może rekomendować wpisanie na listę, o której mowa w art. 120 ust. 1:
 
+- **1)** osób, co do których istnieje uzasadnione podejrzenie, że popełniają same lub wspólnie i w porozumieniu z inną osobą przestępstwo określone w art. 115 § 20, art. 120, art. 121, art. 136, art. 166, art. 167, art. 171, art. 252, art. 255a lub art. 259a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny albo wykonanie takiego czynu polecają lub kierują popełnieniem go przez inną osobę albo podżegają do jego popełnienia lub ułatwiają jego popełnienie;
+- **2)** podmiotów, które są własnością lub są kontrolowane bezpośrednio lub pośrednio przez osoby, co do których istnieje uzasadnione podejrzenie, o którym mowa w pkt 1;
+- **3)** osób lub podmiotów, które działają w imieniu lub pod kierunkiem osób, co do których istnieje uzasadnione podejrzenie, o którym mowa w pkt 1, albo podmiotów, o których mowa w pkt 2.
+
 **Art. 122.**
 
 1. Komitet może rekomendować wpisanie na listę, o której mowa w art. 120 ust. 1, lub wykreślenie z niej osób lub podmiotów na uzasadniony wniosek przekazany za pośrednictwem ministra właściwego do spraw zagranicznych przez podmioty, o których mowa w art. 12 ust. 1 pkt 9.
@@ -1789,6 +1876,9 @@ Art. 158–180. (pominięte)
 5. Przepisy ust. 1–4 stosuje się odpowiednio do wniosków dotyczących zezwolenia na wykorzystanie zamrożonych wartości majątkowych lub udostępnienie wartości majątkowych, złożonych na podstawie rozporządzenia Rady (WE) nr 881/2002 z dnia 27 maja 2002 r. wprowadzającego niektóre szczególne środki ograniczające skierowane przeciwko niektórym osobom i podmiotom związanym z organizacjami ISIL (Daisz) i Al-Kaida (Dz. Urz. UE L 139 z 29.05.2002, str. 9, z późn. zm.), zwanego dalej „rozporządzeniem 881/2002”, rozporządzenia Rady (UE) nr 753/2011 z dnia 1 sierpnia 2011 r. w sprawie środków ograniczających skierowanych przeciwko niektórym osobom, grupom, przedsiębiorstwom i podmiotom w związku z sytuacją w Afganistanie (Dz. Urz. UE L 199 z 02.08.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 753/2011”, rozporządzenia Rady (WE) nr 2580/2001 z dnia 27 grudnia 2001 r. w sprawie szczególnych środków restrykcyjnych skierowanych przeciwko niektórym osobom i podmiotom mających na celu zwalczanie terroryzmu (Dz. Urz. UE L 344 z 28.12.2001, str. 70, z późn. zm.), zwanego dalej „rozporządzeniem 2580/2001”.
 
 **Art. 128.** Szczególnych środków ograniczających, o których mowa w art. 117 ust. 2 pkt 2, nie stosuje się do:
+
+- **1)** naliczania należnych odsetek od środków pieniężnych zgromadzonych na rachunkach osób lub podmiotów, wobec których stosuje się szczególne środki ograniczające, pod warunkiem że naliczone odsetki podlegają zamrożeniu;
+- **2)** dokonywania płatności na rachunki osób lub podmiotów, wobec których stosuje się szczególne środki ograniczające z tytułu zobowiązań wobec tych osób lub podmiotów powstałych przed dniem powstania obowiązku stosowania szczególnych środków ograniczających, pod warunkiem że płatności te dokonywane są na rachunek prowadzony w Unii Europejskiej i podlegają zamrożeniu.
 
 #### Rozdział 11 (uchylony)
 
@@ -1846,7 +1936,17 @@ Art. 158–180. (pominięte)
 
 **Art. 129g.** Organ właściwy w sprawach rejestru działalności na rzecz spółek lub trustów odmawia, w drodze decyzji, dokonania wpisu do tego rejestru, jeżeli:
 
+- **1)** wniosek jest niekompletny i nie został uzupełniony w wyznaczonym terminie;
+- **2)** dane zawarte we wniosku są niezgodne ze stanem faktycznym.
+
 **Art. 129h.** Rejestr działalności na rzecz spółek lub trustów zawiera:
+
+- **1)** numer i datę wpisu do rejestru;
+- **2)** imię, nazwisko albo nazwę (firmę);
+- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile został nadany, oraz NIP;
+- **4)** wskazanie świadczonych usług, o których mowa w art. 2 ust. 1 pkt 16;
+- **5)** informacje o zawieszeniu działalności;
+- **6)** informacje o zakończeniu działalności na rzecz spółek lub trustów.
 
 **Art. 129i.**
 
@@ -1857,6 +1957,16 @@ Art. 158–180. (pominięte)
 **Art. 129j.** Podmiot wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym, wykonujący działalność na rzecz spółek lub trustów zawiadamia w formie elektronicznej organ właściwy w sprawach rejestru działalności na rzecz spółek lub trustów o zawieszeniu wykonywania działalności w terminie 14 dni od dnia zawieszenia jej wykonywania.
 
 **Art. 129k.** Organ właściwy w sprawach rejestru działalności na rzecz spółek i trustów wykreśla, w drodze decyzji, podmiot wykonujący działalność na rzecz spółek lub trustów z tego rejestru:
+
+- **1)** na wniosek podmiotu wniesiony w formie elektronicznej;
+- **2)** po uzyskaniu informacji o wykreśleniu podmiotu z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego;
+- **3)** w przypadku stwierdzenia:
+    - **a)** niespełniania przez podmiot warunków wymaganych prawem do wykonywania działalności na rzecz spółek lub trustów,
+    - **b)** że podmiot złożył oświadczenie, o którym mowa w art. 129f ust. 2, niezgodne ze stanem faktycznym;
+
+- **4)** na wniosek Generalnego Inspektora po nałożeniu kary administracyjnej, o której mowa w art. 150 ust. 1 pkt 2, w zakresie, w jakim nakazano zaprzestania podejmowania przez instytucję obowiązaną określonych czynności. Art. 129ka. 1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności na rzecz spółek lub trustów, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
+
+2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb składania wniosków o wpis do rejestru działalności na rzecz spółek lub trustów, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności, mając na uwadze konieczność zapewnienia bezpiecznego i sprawnego składania tych wniosków oraz tego zawiadomienia.
 
 **Art. 129l.** Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, organ Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego do prowadzenia rejestru działalności na rzecz spółek lub trustów, określając zakres tych zadań, mając na względzie przygotowanie techniczne i organizacyjne urzędu obsługującego ten organ.
 
@@ -1908,7 +2018,17 @@ Art. 158–180. (pominięte)
 
 **Art. 129s.** Organ właściwy w sprawach rejestru działalności w zakresie walut wirtualnych odmawia, w drodze decyzji, dokonania wpisu do tego rejestru, jeżeli:
 
+- **1)** wniosek jest niekompletny i nie został uzupełniony w wyznaczonym terminie;
+- **2)** dane zawarte we wniosku są niezgodne ze stanem faktycznym.
+
 **Art. 129t.** Rejestr działalności w zakresie walut wirtualnych zawiera:
+
+- **1)** numer i datę wpisu do rejestru;
+- **2)** imię, nazwisko albo nazwę (firmę);
+- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile został nadany, oraz numer identyfikacji podatkowej (NIP);
+- **4)** wskazanie świadczonych usług, o których mowa w art. 2 ust. 1 pkt 12;
+- **5)** informacje o zawieszeniu działalności;
+- **6)** informacje o zakończeniu działalności w zakresie walut wirtualnych.
 
 **Art. 129u.**
 
@@ -1919,6 +2039,16 @@ Art. 158–180. (pominięte)
 **Art. 129v.** Podmiot wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym, wykonujący działalność w zakresie walut wirtualnych, zawiadamia w formie elektronicznej organ właściwy w sprawach rejestru działalności w zakresie walut wirtualnych o zawieszeniu wykonywania działalności w terminie 14 dni od dnia zawieszenia jej wykonywania.
 
 **Art. 129w.** Organ właściwy w sprawach rejestru działalności w zakresie walut wirtualnych wykreśla, w drodze decyzji, podmiot wykonujący działalność w zakresie walut wirtualnych z tego rejestru:
+
+- **1)** na wniosek podmiotu wniesiony w formie elektronicznej;
+- **2)** po uzyskaniu informacji o wykreśleniu podmiotu z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego;
+- **3)** w przypadku stwierdzenia:
+    - **a)** niespełniania przez podmiot warunków wymaganych prawem do wykonywania działalności w zakresie walut wirtualnych,
+    - **b)** że podmiot złożył oświadczenie, o którym mowa w art. 129r ust. 2, niezgodne ze stanem faktycznym;
+
+- **4)** na wniosek Generalnego Inspektora po nałożeniu kary administracyjnej, o której mowa w art. 150 ust. 1 pkt 2, w zakresie, w jakim nakazano zaprzestania podejmowania przez instytucję obowiązaną określonych czynności. Art. 129wa. 1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności w zakresie walut wirtualnych, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
+
+2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb składania wniosków o wpis do rejestru działalności w zakresie walut wirtualnych, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności, mając na uwadze konieczność zapewnienia bezpiecznego i sprawnego składania tych wniosków oraz tego zawiadomienia.
 
 **Art. 129x.** Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, organ Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego do prowadzenia rejestru działalności w zakresie walut wirtualnych, określając zakres tych zadań, mając na względzie przygotowanie techniczne i organizacyjne urzędu obsługującego ten organ.
 
@@ -2117,9 +2247,46 @@ Art. 158–180. (pominięte)
 
 **Art. 147.** Instytucja obowiązana, która nie dopełnia obowiązku:
 
+- **1)** wyznaczenia osoby odpowiedzialnej za wykonanie obowiązków określonych w ustawie, o którym mowa w art. 7 i art. 8,
+- **2)** sporządzania oceny ryzyka oraz jej aktualizacji, o którym mowa w art. 27 ust. 3,
+- **3)** przekazania na żądanie Generalnego Inspektora oceny ryzyka oraz innych informacji mogących mieć wpływ na krajową ocenę ryzyka, o którym mowa w art. 28,
+- **4)** stosowania środków bezpieczeństwa finansowego, o których mowa w:
+    - **a)** art. 33,
+    - **b)** art. 43 – w przypadkach wyższego ryzyka prania pieniędzy lub finansowania terroryzmu oraz w przypadkach, o których mowa w art. 44–46,
+
+- **5)** dokumentowania zastosowanych środków bezpieczeństwa finansowego oraz wyników bieżącej analizy przeprowadzanych transakcji oraz wykazania na żądanie organów, o których mowa w art. 130, zastosowania odpowiednich środków bezpieczeństwa, o których mowa w art. 34 ust. 3,
+- **6)** przechowywania dokumentacji, o którym mowa w art. 49 ust. 1 i 2,
+- **7)** wprowadzenia wewnętrznej procedury instytucji obowiązanej, o którym mowa w art. 50,
+- **8)** wprowadzenia procedury grupowej, o którym mowa w art. 51,
+- **9)** zapewnienia udziału osób wykonujących obowiązki związane z przeciwdziałaniem praniu pieniędzy oraz finansowaniu terroryzmu w programach szkoleniowych, o którym mowa w art. 52,
+- **10)** wdrożenia wewnętrznej procedury anonimowego zgłaszania naruszeń przepisów z zakresu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, o którym mowa w art. 53,
+- **11)** zachowania w tajemnicy faktu przekazania Generalnemu Inspektorowi lub innym właściwym organom informacji, o którym mowa w art. 54 ust. 1,
+- **12)** przekazania lub udostępnienia informacji, o którym mowa w art. 72 lub art. 76,
+- **13)** przekazania zawiadomień, o którym mowa w art. 74, art. 86 ust. 1 lub art. 90 ust. 1,
+- **14)** zachowania w tajemnicy informacji o planowanym wszczęciu oraz o prowadzeniu analiz dotyczących prania pieniędzy lub finansowania terroryzmu, o którym mowa w art. 54 ust. 1,
+- **15)** wykonania zaleceń pokontrolnych wydanych przez Generalnego Inspektora,
+- **16)** uzyskania zezwolenia na utworzenie oddziału lub przedstawicielstwa w państwie trzecim wysokiego ryzyka, zidentyfikowanym przez Komisję Europejską w akcie delegowanym przyjętym na podstawie art. 9 dyrektywy 2015/849, o którym mowa w art. 44b ust. 1,
+- **17)** zastosowania się do decyzji Generalnego Inspektora albo KNF, o której mowa w art. 44b ust. 4 i 5 oraz art. 44c ust. 1,
+- **18)** nieprzeprowadzania transakcji, rozwiązania stosunków gospodarczych lub nienawiązywania stosunków gospodarczych, o którym mowa w art. 41 ust. 1,
+- **19)** nieprzeprowadzania transakcji, o którym mowa w art. 86 ust. 4 lub art. 89 ust. 3,
+- **20)** wstrzymania transakcji lub blokady rachunku, o którym mowa w art. 86 ust. 5 lub art. 87 ust. 2 – podlega karze administracyjnej.
+
 **Art. 148.** Instytucja obowiązana, która nie dopełnia obowiązku:
 
+- **1)** zapewnienia, aby transferowi środków pieniężnych towarzyszyły informacje o płatniku lub odbiorcy, o którym mowa w art. 4–6 rozporządzenia 2015/847,
+- **2)** wdrożenia skutecznych procedur pozwalających na wykrywanie brakujących informacji o płatniku lub odbiorcy, o których mowa w art. 7, art. 8, art. 11 i art. 12 rozporządzenia 2015/847,
+- **3)** informowania Generalnego Inspektora o nieprzekazywaniu wymaganych informacji o płatniku lub odbiorcy lub o podjętych działaniach, o którym mowa w art. 8 rozporządzenia 2015/847,
+- **4)** zachowania wszystkich otrzymanych informacji o płatniku i odbiorcy, które towarzyszą transferowi, o którym mowa w art. 10 rozporządzenia 2015/847,
+- **5)** udzielania Generalnemu Inspektorowi informacji, o którym mowa w art. 14 rozporządzenia 2015/847,
+- **6)** przechowywania dokumentacji, o którym mowa w art. 16 rozporządzenia 2015/847 – podlega karze administracyjnej.
+
 **Art. 149.** Instytucja obowiązana, która:
+
+- **1)** nie dopełnia obowiązku stosowania szczególnych środków ograniczających, o których mowa w art. 117 ust. 1, lub obowiązku przekazywania Generalnemu Inspektorowi posiadanych informacji związanych z ich stosowaniem,
+- **2)** nie dopełnia obowiązku zamrażania funduszy lub zasobów gospodarczych albo zakazu udostępnienia funduszy lub zasobów gospodarczych, określonego w art. 2 ust. 1, 2 i 3 rozporządzenia 881/2002, art. 3 ust. 1 i 2 rozporządzenia 753/2011 oraz art. 2 ust. 1 rozporządzenia 2580/2001,
+- **3)** nie stosuje się do zakazu świadomego i celowego udziału w działaniach, których przedmiotem lub celem jest, bezpośrednio lub pośrednio, próba obejścia nakazu zamrożenia lub zakazu udostępnienia funduszy lub zasobów gospodarczych lub obowiązku informowania o obejściu tych nakazów i zakazów, określonego w art. 4 ust. 1 i 2 rozporządzenia 881/2002, art. 3 ust. 3 rozporządzenia 753/2011 oraz art. 3 rozporządzenia 2580/2001,
+- **4)** nie dopełnia obowiązku niezwłocznego przekazania informacji, które ułatwiłyby zapewnienie zgodności z rozporządzeniem 881/2002, rozporządzeniem 753/2011 oraz rozporządzeniem 2580/2001, lub obowiązku współpracy z Generalnym Inspektorem w zakresie weryfikacji tych informacji, określonego w art. 5 ust. 1 rozporządzenia 881/2002, art. 8 ust. 1 rozporządzenia 753/2011 oraz art. 4 ust. 1 rozporządzenia 2580/2001,
+- **5)** nie stosuje się do zakazu świadczenia usług finansowych określonego w art. 2 ust. 2 rozporządzenia 2580/2001 – podlega karze administracyjnej.
 
 **Art. 150.**
 

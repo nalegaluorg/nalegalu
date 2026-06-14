@@ -8,10 +8,10 @@ pos: 1221
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1221 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 26 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1221/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 26 czerwca 2023 r.
-w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez diagnostów laboratoryjnych Na podstawie art. 61 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez diagnostów laboratoryjnych Na podstawie art. 61 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wykaz dziedzin medycyny laboratoryjnej, w których jest możliwe odbywanie szkolenia specjalizacyjnego;
 2) wykaz kodów specjalizacji w określonych dziedzinach medycyny laboratoryjnej;
 3) wysokość wynagrodzenia za wykonanie czynności kontrolnych, o którym mowa w art. 37 ust. 11 pkt 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, zwanej dalej „ustawą”;
@@ -149,7 +149,7 @@ Korekta dyplomu PESDL nie jest dokonywana, jeżeli CEM na dyplomie nie stwierdzi
 4. W przypadku gdy do wniosku, o którym mowa w ust. 1, nie dołączono potwierdzenia uiszczenia opłaty, o której mowa w art. 59 ust. 5 ustawy, dyrektor CEM wzywa diagnostę laboratoryjnego do usunięcia braków formalnych w terminie 7 dni od dnia doręczenia wezwania z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpoznania.
 5. Wydanie dyplomu PESDL zawierającego jego korektę następuje w terminie 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 1, wraz z potwierdzeniem wniesienia opłaty, o której mowa w art. 59 ust. 5 ustawy.
 § 19. 1. Wysokość opłaty za przystąpienie do PESDL wynosi 450 zł.
-2. W przypadku gdy osoba zdająca przystępuje wyłącznie do egzaminu teoretycznego albo wyłącznie do egzaminu praktycznego wchodzącego w skład PESDL wysokość opłaty wynosi 225 zł.
+2. W przypadku gdy osoba zdająca przystępuje wyłącznie do egzaminu teoretycznego albo wyłącznie do egzaminu praktycznego wchodzącego w skład PESDL – wysokość opłaty wynosi 225 zł.
 § 20. 1. Do szkoleń specjalizacyjnych rozpoczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 2. Za czynności kontrolne, o których mowa w art. 37 ust. 11 pkt 1 ustawy, wykonane przed dniem wejścia w życie rozporządzenia, osobom wykonującym te czynności przysługuje wynagrodzenie ustalone na podstawie przepisów dotychczasowych.
 3. Dyplom potwierdzający uzyskanie tytułu specjalisty, o którym mowa w art. 31 ust. 1 ustawy, jest wydawany według wzoru określonego w załączniku nr 7 do rozporządzenia.
@@ -159,19 +159,18 @@ Minister Zdrowia: A. Niedzielski WYKAZ KODÓW SPECJALIZACJI W OKREŚLONYCH DZIED
 2. W przypadku stwierdzenia braków formalnych we wniosku wojewoda właściwy ze względu na obszar województwa, na którego terenie wnioskodawca zamierza odbywać szkolenie specjalizacyjne, za pomocą Systemu Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 30 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, z późn. zm.), zwraca wniosek i wzywa wnioskodawcę do usunięcia tych braków w terminie 7 dni od dnia doręczenia wezwania. Po bezskutecznym upływie tego terminu wniosek jest pozostawiany bez rozpoznania.
 3. W postępowaniu konkursowym, o którym mowa w art. 41 ust. 4 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, przyznaje się punkty za:
 1) okres zatrudnienia w zawodzie diagnosty laboratoryjnego w wymiarze odpowiadającym pełnemu wymiarowi czasu pracy:
-a) za co najmniej 3-letni okres zatrudnienia 5 punktów,
-b) za co najmniej 5-letni okres zatrudnienia 10 punktów,
-c) za co najmniej 10-letni okres zatrudnienia 15 punktów;
-2) posiadanie stopnia doktora 6 punktów;
-3) posiadanie stopnia doktora habilitowanego 8 punktów;
-4) posiadanie tytułu profesora 10 punktów;
+a) za co najmniej 3-letni okres zatrudnienia – 5 punktów,
+b) za co najmniej 5-letni okres zatrudnienia – 10 punktów,
+c) za co najmniej 10-letni okres zatrudnienia – 15 punktów;
+2) posiadanie stopnia doktora – 6 punktów;
+3) posiadanie stopnia doktora habilitowanego – 8 punktów;
+4) posiadanie tytułu profesora – 10 punktów;
 5) opublikowanie jako autor lub współautor:
-a) monografii naukowej 4 punkty,
-b) artykułu naukowego oryginalnego 3 punkty,
-c) artykułu o charakterze poglądowym, rozdziału w książce naukowej lub popularnonaukowej 2 punkty,
-d) artykułu popularnonaukowego, programu multimedialnego lub komunikatu z badań naukowych 1 punkt,
-e) publikacji w czasopiśmie naukowym zamieszczonym w wykazie czasopism naukowych ujętych w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r.
-Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.) lub w wykazach czasopism naukowych sporządzonych na podstawie poprzednio obowiązujących przepisów 1 punkt łącznie nie więcej niż 25 punktów.
+a) monografii naukowej – 4 punkty,
+b) artykułu naukowego oryginalnego – 3 punkty,
+c) artykułu o charakterze poglądowym, rozdziału w książce naukowej lub popularnonaukowej – 2 punkty,
+d) artykułu popularnonaukowego, programu multimedialnego lub komunikatu z badań naukowych – 1 punkt,
+e) publikacji w czasopiśmie naukowym zamieszczonym w wykazie czasopism naukowych ujętych w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.) lub w wykazach czasopism naukowych sporządzonych na podstawie poprzednio obowiązujących przepisów – 1 punkt – łącznie nie więcej niż 25 punktów.
 WZÓR OŚWIADCZENIE CZŁONKA ZESPOŁU EGZAMINACYJNEGO .....................................................................................
 .....................................................................................
 Oświadczenie Ja, niżej podpisana(-ny), oświadczam, że nie jestem:
@@ -198,6 +197,6 @@ b) dwukolorowe linie giloszowe wykonane w technice druku irysowego,
 c) mikrodruki,
 d) element graficzny wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym,
 e) element graficzny wykonany farbą irydyscentną;
-3) pozostałe zabezpieczenia numerację typograficzną wykonaną farbą aktywną w promieniowaniu ultrafioletowym.
+3) pozostałe zabezpieczenia – numerację typograficzną wykonaną farbą aktywną w promieniowaniu ultrafioletowym.
 2. Blankiet dyplomu jest wykonany na podłożu papierowym w formacie jednostronnym A4.
 

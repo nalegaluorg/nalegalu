@@ -8,10 +8,10 @@ pos: 1110
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 czerwca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1110 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 6 czerwca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001110) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1110/text.pdf) |
 
-Poz. 1110 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 6 czerwca 2018 r.
-w sprawie metody obliczania kwoty, o której mowa w art. 76 ust. 4 pkt 2 ustawy o usługach płatniczych Na podstawie art. 76 ust. 6 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa metodę obliczania kwoty, o której mowa w art. 76 ust. 4 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, zwanej dalej „ustawą”.
+w sprawie metody obliczania kwoty, o której mowa w art. 76 ust. 4 pkt 2 ustawy o usługach płatniczych Na podstawie art. 76 ust. 6 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa metodę obliczania kwoty, o której mowa w art. 76 ust. 4 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, zwanej dalej „ustawą”.
 § 2. Kwotę, o której mowa w art. 76 ust. 4 pkt 2 ustawy, oblicza się jako sumę następujących elementów:
 1) 4% części wielkości płatności do 5 mln euro,
 2) 2,5% części wielkości płatności w przedziale powyżej 5 mln euro do 10 mln euro,

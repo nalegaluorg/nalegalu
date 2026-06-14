@@ -8,10 +8,10 @@ pos: 1042
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 czerwca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1042 Załącznik do rozporządzenia Ministra Infrastruktury z dnia 7 czerwca 2021 r. (poz. ….) ZASADNICZEWYMAGANIASYSTEMU KOLEI
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1042/text.pdf) |
 
-z dnia 7 czerwca 2021 r. (poz. ….) ZASADNICZEWYMAGANIASYSTEMU KOLEI
 1. Wymagania ogólne
 1.1. Bezpieczeństwo:
 1.1.1. Części składowe systemu kolei Unii mające wpływ na bezpieczeństwo funkcjonowania systemu, w tym szczególnie związane z ruchem kolejowym, powinny być projektowane, konstruowane, wytwarzane, montowane, budowane, utrzymywane i monitorowane w sposób zapewniający bezpieczeństwo funkcjonowania systemu kolei Unii, w tym w szczególnie trudnych warunkach.
@@ -67,10 +66,10 @@ z dnia 7 czerwca 2021 r. (poz. ….) ZASADNICZEWYMAGANIASYSTEMU KOLEI
 3.3. Urządzenia i budowle przeznaczone do prowadzenia ruchu kolejowego wchodzące w skład podsystemu „energia” powinny:
 3.3.1. umożliwiać pojazdom kolejowym osiąganie wymaganych parametrów pracy;
 3.3.2. być kompatybilne z urządzeniami zamontowanymi na pojazdach kolejowych.
-4. Wymagania dla podsystemu „sterowanie urządzenia pokładowe”
-4.1. Urządzenia i budowle przeznaczone do prowadzenia ruchu kolejowego wchodzące w skład podsystemu „sterowanie urządzenia pokładowe” oraz procedury związane z prowadzeniem ruchu kolejowego powinny umożliwiać pociągom jazdę przy zachowaniu wymaganego poziomu bezpieczeństwa. Części składowe podsystemu zainstalowane w kabinie maszynisty powinny umożliwiać niezakłóconą jazdę pociągu, zgodnie z założonymi warunkami, w całym systemie kolei Unii.
-4.2. Urządzenia przeznaczone do prowadzenia ruchu kolejowego wchodzące w skład podsystemu „sterowanie urządzenia pokładowe” powinny być tak skonstruowane, aby w warunkach awaryjnych zapewniały bezpieczny przejazd pociągu, który otrzymał już zezwolenie na jazdę.
-4.3. Po wprowadzeniu do użytkowania urządzeń przeznaczonych do prowadzenia ruchu kolejowego wchodzących w skład podsystemu „sterowanie urządzenia przytorowe” wprowadzane później części podsystemu „infrastruktura” i nowy tabor powinny być dostosowane do sposobu eksploatacji elementów podsystemu „sterowanie urządzenia pokładowe”.
+4. Wymagania dla podsystemu „sterowanie – urządzenia pokładowe”
+4.1. Urządzenia i budowle przeznaczone do prowadzenia ruchu kolejowego wchodzące w skład podsystemu „sterowanie – urządzenia pokładowe” oraz procedury związane z prowadzeniem ruchu kolejowego powinny umożliwiać pociągom jazdę przy zachowaniu wymaganego poziomu bezpieczeństwa. Części składowe podsystemu zainstalowane w kabinie maszynisty powinny umożliwiać niezakłóconą jazdę pociągu, zgodnie z założonymi warunkami, w całym systemie kolei Unii.
+4.2. Urządzenia przeznaczone do prowadzenia ruchu kolejowego wchodzące w skład podsystemu „sterowanie – urządzenia pokładowe” powinny być tak skonstruowane, aby w warunkach awaryjnych zapewniały bezpieczny przejazd pociągu, który otrzymał już zezwolenie na jazdę.
+4.3. Po wprowadzeniu do użytkowania urządzeń przeznaczonych do prowadzenia ruchu kolejowego wchodzących w skład podsystemu „sterowanie – urządzenia przytorowe” wprowadzane później części podsystemu „infrastruktura” i nowy tabor powinny być dostosowane do sposobu eksploatacji elementów podsystemu „sterowanie – urządzenia pokładowe”.
 5. Wymagania dla podsystemu „tabor”
 5.1. W podsystemie „tabor” konstrukcja pojazdów kolejowych i połączeń między nimi powinna być zaprojektowana w taki sposób, aby chroniła pasażerów oraz przedziały pasażerskie i przedziały obsługi oraz kabinę maszynisty w czasie kolizji lub wykolejenia.
 5.2. Tabor poruszający się w tunelach o długości ponad 1000 m powinien być projektowany, budowany i eksploatowany w sposób zapewniający spełnienie szczególnych warunków bezpieczeństwa z uwzględnieniem przepisów i norm wymaganych w systemie kolei Unii.
@@ -88,7 +87,7 @@ z dnia 7 czerwca 2021 r. (poz. ….) ZASADNICZEWYMAGANIASYSTEMU KOLEI
 5.3.2.5. pasażerowie mieli zapewniony dostęp do zrozumiałych i wyczerpujących informacji na temat przepisów mających do nich zastosowanie, zarówno podczas jazdy pociągu, jak i jego postoju na stacjach kolejowych.
 5.4. Urządzenia i instalacje elektryczne stanowiące wyposażenie pojazdów kolejowych nie powinny obniżać poziomu bezpieczeństwa i zakłócać funkcjonowania urządzeń przeznaczonych do prowadzenia ruchu kolejowego.
 5.5. W podsystemie „tabor” konstrukcja istotnych dla bezpieczeństwa i eksploatacji elementów wyposażenia pojazdów kolejowych, układów jezdnych, napędowych i hamowania oraz system kontroli i sterowania pojazdem kolejowym powinny, w dających się przewidzieć sytuacjach awaryjnych, umożliwiać jazdę pociągu bez negatywnych skutków dla pozostałych elementów wyposażenia tych pojazdów.
-5.6. Urządzenia i instalacje elektryczne wchodzące w skład podsystemu „tabor” powinny być zgodne technicznie z urządzeniami wchodzącymi w skład podsystemu „sterowanie urządzenia przytorowe”.
+5.6. Urządzenia i instalacje elektryczne wchodzące w skład podsystemu „tabor” powinny być zgodne technicznie z urządzeniami wchodzącymi w skład podsystemu „sterowanie – urządzenia przytorowe”.
 5.7. Charakterystyki odbieraków prądu zamontowanych na pojazdach trakcyjnych powinny umożliwiać im jazdę z wykorzystaniem systemów zasilania energią elektryczną, stosowanych w systemie kolei Unii.
 5.8. Charakterystyki pojazdów kolejowych powinny umożliwiać im jazdę na liniach kolejowych wchodzących w skład systemu kolei Unii, na których jest przewidziana eksploatacja tych pojazdów, z uwzględnieniem warunków klimatycznych.
 5.9. Ogólnodostępne części podsystemu „tabor” powinny zapewniać dostępność dla osób niepełnosprawnych i osób o ograniczonej sprawności ruchowej zgodnie z pkt 1.6.1.

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach.*
 
 Łącznie: **198** orzeczeń
-(pominięto 104 orzeczeń sądów rejonowych)
+(pominięto 105 orzeczeń sądów rejonowych)
 
 ## art. 1 (11)
 

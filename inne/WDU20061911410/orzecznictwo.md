@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym*
 
-Łącznie: **130** orzeczeń
+Łącznie: **131** orzeczeń
 (pominięto 163 orzeczeń sądów rejonowych)
 
 ## art. 3 (77)
@@ -149,9 +149,10 @@ Orzeczenia powołujące: *Ustawa z dnia 8 września 2006 r. o Państwowym Ratown
 
 - 2014-08-21 | SO | [VIII U 2610/13](https://www.saos.org.pl/judgments/60645) | Wyrok
 
-## art. 32 (14)
+## art. 32 (15)
 
 - 2011-01-12 | SN | [II PK 183/10](https://www.saos.org.pl/judgments/93881) | Wyrok ★
+- 2025-01-21 | SO | [I ACa 2251/23](https://www.saos.org.pl/judgments/545915) | Wyrok
 - 2013-05-21 | KIO | [KIO 1058/13](https://www.saos.org.pl/judgments/122638) | Wyrok
 - 2010-11-18 | KIO | [KIO 2408/10](https://www.saos.org.pl/judgments/117088) | Wyrok
 - 2024-02-06 | SO | [IV Pa 14/23](https://www.saos.org.pl/judgments/508803) | Wyrok

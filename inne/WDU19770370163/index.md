@@ -8,7 +8,7 @@ pos: 163
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o polskiej strefie rybołówstwa morskiego W celu wzmożenia ochrony żywych zasobów wód przyległych do brzegu morskiego Rzeczypospolitej Polskiej i zapewnienia ich racjonalnego wykorzystania, stanowi się, co następuje:

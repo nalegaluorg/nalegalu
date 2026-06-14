@@ -8,7 +8,7 @@ pos: 1110
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie
@@ -53,18 +53,25 @@ source: "isap-pdf"
 
 3. Do uprawnień, praw i zobowiązań znoszonych uczelni mają zastosowanie zasady sukcesji uniwersalnej.
 
-4. Stan gospodarki finansowej Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej zostanie wykazany w bilansach sporządzonych przez te dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. z 2018 r. 917, z późn. zm. ) stosuje się odpowiednio;
+4. Stan gospodarki finansowej Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej zostanie wykazany w bilansach sporządzonych przez te uczelnie na dzień poprzedzający utworzenie Uniwersytetu.
 
+**Art. 6.**
+
+1. Z dniem utworzenia Uniwersytetu:
+
+- **1)** pracownicy zatrudnieni w Akademii Rolniczej w Szczecinie oraz w Politechnice Szczecińskiej stają się pracownikami Uniwersytetu. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm. ) stosuje się odpowiednio;
 - **2)** studenci Akademii Rolniczej w Szczecinie oraz studenci Politechniki Szczecińskiej stają się studentami Uniwersytetu;
 - **3)** doktoranci Akademii Rolniczej w Szczecinie oraz doktoranci Politechniki Szczecińskiej stają się doktorantami Uniwersytetu;
 - **4)** osoby niebędące studentami studiów doktoranckich, które wszczęły przewody doktorskie w Akademii Rolniczej w Szczecinie oraz w Politechnice Szczecińskiej, kontynuują wszczęte przewody w Uniwersytecie;
-- **5)** słuchacze studiów podyplomowych i kursów dokształcających Akademii Rolniczej w Szczecinie oraz słuchacze studiów podyplomowych i kursów dokształcających Politechniki Szczecińskiej stają się słuchaczami studiów podyplomowych i kursów dokształcających
+- **5)** słuchacze studiów podyplomowych i kursów dokształcających Akademii Rolniczej w Szczecinie oraz słuchacze studiów podyplomowych i kursów dokształcających Politechniki Szczecińskiej stają się słuchaczami studiów podyplomowych i kursów dokształcających Uniwersytetu.
 
 2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2008/2009 do Akademii Rolniczej w Szczecinie i Politechniki Szczecińskiej z dniem utworzenia Uniwersytetu stają się jego studentami. Rekrutacja w Uniwersytecie w roku akademickim 2009/2010 na poszczególne kierunki studiów prowadzone przez wydziały odbywa się według zasad określonych w odpowiednich uchwałach senatów Akademii Rolniczej w Szczecinie i Politechniki Szczecińskiej podjętych do dnia 31 maja 2008 r.
 
-3. Podstawowe jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej z dniem utworzenia Uniwersytetu stają się podstawowymi jednostkami organizacyjnymi Podstawowe jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do prowadzenia studiów na określonym kierunku i poziomie kształcenia, zachowują te uprawnienia po utworzeniu
+3. Podstawowe jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej z dniem utworzenia Uniwersytetu stają się podstawowymi jednostkami organizacyjnymi Uniwersytetu. Podstawowe jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do prowadzenia studiów na określonym kierunku i poziomie kształcenia, zachowują te uprawnienia po utworzeniu Uniwersytetu.
 
-5. Jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, które przed dniem utworzenia Uniwersytetu zostały poddane ocenie parametrycznej i zostały zaliczone do określonych kategorii naukowych, zachowują te kategorie po utworzeniu
+4. Jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Uniwersytetu.
+
+5. Jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, które przed dniem utworzenia Uniwersytetu zostały poddane ocenie parametrycznej i zostały zaliczone do określonych kategorii naukowych, zachowują te kategorie po utworzeniu Uniwersytetu.
 
 **Art. 7.** (pominięty)
 

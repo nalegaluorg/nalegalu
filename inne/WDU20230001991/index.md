@@ -8,10 +8,10 @@ pos: 1991
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11999911 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 4 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001991) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1991/text.pdf) |
 
-11999911 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 4 września 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 16 listopada 2010 r. w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 1479), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Rady Ministrów z dnia 7 marca 2018 r. zmieniającym rozporządzenie w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 592);
@@ -37,8 +36,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 2. Przepis ust. 1 stosuje się również do środków, które zostały przekazane na rachunek bieżący dochodów budżetowych ministra właściwego do spraw środowiska, a następnie zostały z tego rachunku przekazane na rachunek bieżący dochodów budżetowych ministra właściwego do spraw klimatu.
 § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 16 listopada 2010 r.
-w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Na podstawie art. 400q ust. 7 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy sposób prowadzenia gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zwanego dalej „Narodowym Funduszem”, i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, zwanych dalej „wojewódzkimi funduszami”.
-§ 2. Narodowy Fundusz przekazuje projekt rocznego planu finansowego, o którym mowa w art. 400q ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, zwanej dalej „ustawą”, ministrowi właściwemu do spraw klimatu i ministrowi właściwemu do spraw finansów publicznych, w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
+w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Na podstawie art. 400q ust. 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy sposób prowadzenia gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zwanego dalej „Narodowym Funduszem”, i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, zwanych dalej „wojewódzkimi funduszami”.
+§ 2. Narodowy Fundusz przekazuje projekt rocznego planu finansowego, o którym mowa w art. 400q ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zwanej dalej „ustawą”, ministrowi właściwemu do spraw klimatu i ministrowi właściwemu do spraw finansów publicznych, w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
 § 3. 1. Wojewódzkie fundusze uchwalają roczne plany finansowe na następny rok kalendarzowy do dnia 30 listopada każdego roku.
 2. Wzór rocznego planu finansowego, o którym mowa w ust. 1, określa załącznik do rozporządzenia.
 3. Wojewódzkie fundusze przekazują roczne plany finansowe zarządom województw, ministrowi właściwemu do spraw klimatu i ministrowi właściwemu do spraw finansów publicznych w terminie 7 dni od dnia ich uchwalenia.
@@ -68,8 +68,8 @@ w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospod
 4. Łącznie ze sprawozdaniami, o których mowa w ust. 1, Narodowy Fundusz i wojewódzkie fundusze przekazują organom, o których mowa w ust. 2 i 3, część opisową wykonania planowanych przychodów i kosztów.
 § 11. 1. Narodowy Fundusz i wojewódzkie fundusze przekazują środki na rachunek bieżący dochodów budżetowych ministra właściwego do spraw klimatu w celu dofinansowania zadań z zakresu ochrony środowiska i gospodarki wodnej realizowanych przez państwowe jednostki budżetowe, w sposób określony w ust. 2–9, chyba że odrębna ustawa stanowi inaczej.
 2. Na podstawie:
-1) wniosków kierowników państwowych jednostek budżetowych o przekazanie środków w przypadku zadań nowych, na realizację których nie zostały zawarte umowy, o których mowa w ust. 6, w tym zadań nowych będących zadaniami wieloletnimi,
-2) zawartych umów, o których mowa w ust. 6 w przypadku zadań, których realizacja ma być kontynuowana w następnym roku budżetowym, będących zadaniami wieloletnimi Narodowy Fundusz lub wojewódzkie fundusze uzgadniają z właściwymi dysponentami części budżetowych listy zadań zakwalifikowanych do dofinansowania.
+1) wniosków kierowników państwowych jednostek budżetowych o przekazanie środków – w przypadku zadań nowych, na realizację których nie zostały zawarte umowy, o których mowa w ust. 6, w tym zadań nowych będących zadaniami wieloletnimi,
+2) zawartych umów, o których mowa w ust. 6 – w przypadku zadań, których realizacja ma być kontynuowana w następnym roku budżetowym, będących zadaniami wieloletnimi – Narodowy Fundusz lub wojewódzkie fundusze uzgadniają z właściwymi dysponentami części budżetowych listy zadań zakwalifikowanych do dofinansowania.
 3. Narodowy Fundusz i wojewódzkie fundusze przekazują informacje o kwotach środków planowanych na dofinansowanie zadań znajdujących się na listach, o których mowa w ust. 2, ministrowi właściwemu do spraw klimatu , w terminie wynikającym z harmonogramu prac nad projektem ustawy budżetowej.
 4. Minister właściwy do spraw klimatu przekazuje zbiorczą informację o kwocie środków określonych przez Narodowy Fundusz i wojewódzkie fundusze na dofinansowanie zadań znajdujących się na listach, o których mowa w ust. 2, ministrowi właściwemu do spraw finansów publicznych, w terminie umożliwiającym ujęcie w projekcie ustawy budżetowej rezerwy celowej, o której mowa w art. 410c ust. 2 ustawy, zwanej dalej „rezerwą celową”.
 5. Listy zadań zakwalifikowanych do dofinansowania, o których mowa w ust. 2, mogą być zmieniane w ramach kwot, o których mowa w ust. 3. Zmiany list są uzgadniane odpowiednio przez Narodowy Fundusz lub wojewódzkie fundusze z właściwym dysponentem części budżetowej.
@@ -98,8 +98,8 @@ c) dokonywania kontroli realizacji zadań.
 4. Listy zadań zakwalifikowanych do dofinansowania, o których mowa w ust. 2, są przekazywane właściwym dysponentom części budżetowych oraz ministrowi właściwemu do spraw środowiska, w terminie 5 dni od dnia ich sporządzenia.
 5. Listy zadań zakwalifikowanych do dofinansowania, o których mowa w ust. 2, mogą być zmieniane w ramach kwot, o których mowa w ust. 2.
 6. Zmiany list zadań zakwalifikowanych do dofinansowania, o których mowa w ust. 2, są uzgadniane odpowiednio przez Narodowy Fundusz lub wojewódzkie fundusze:
-1) z właściwymi kierownikami państwowych jednostek budżetowych i dysponentami części budżetowych w zakresie zadań objętych umowami, o których mowa w ust. 3 pkt 1;
-2) z właściwymi dysponentami części budżetowych w zakresie zadań objętych wnioskami, o których mowa w ust. 3 pkt 2 i 3.
+1) z właściwymi kierownikami państwowych jednostek budżetowych i dysponentami części budżetowych – w zakresie zadań objętych umowami, o których mowa w ust. 3 pkt 1;
+2) z właściwymi dysponentami części budżetowych – w zakresie zadań objętych wnioskami, o których mowa w ust. 3 pkt 2 i 3.
 7. Umowy zawarte przez Narodowy Fundusz i wojewódzkie fundusze z państwowymi jednostkami budżetowymi lub dysponentami części budżetowych przed dniem wejścia w życie rozporządzenia, przewidujące wypłaty środków odpowiednio Narodowego Funduszu lub wojewódzkich funduszy po dniu 31 grudnia 2010 r., powinny być dostosowane do przepisów rozporządzenia w terminie do dnia 31 marca 2011 r.
 8. W wyniku zaakceptowania wniosków, o których mowa w ust. 3 pkt 2 i 3, Narodowy Fundusz i wojewódzkie fundusze zawierają z państwowymi jednostkami budżetowymi umowy o realizację zadań znajdujących się na listach, o których mowa w ust. 2.
 9. W umowach, o których mowa w ust. 7 i 8, określa się w szczególności:
@@ -113,12 +113,12 @@ e) dokonywania rozliczania osiągania efektów rzeczowych i ekologicznych oraz k
 a) weryfikacji i akceptacji wniosków o uruchomienie środków z rezerwy celowej,
 b) weryfikacji i akceptacji rozliczeń środków wydatkowanych przez państwowe jednostki budżetowe,
 c) dokonywania kontroli realizacji zadań.
-10. Wnioski kierowników państwowych jednostek budżetowych o uruchomienie środków z rezerwy celowej, po ich akceptacji odpowiednio przez Narodowy Fundusz lub wojewódzkie fundusze, przekazywane właściwym dysponentom części budżetowych, stanowią dla dysponentów części budżetowych podstawę do wystąpienia do ministra właściwego do spraw
+10. Wnioski kierowników państwowych jednostek budżetowych o uruchomienie środków z rezerwy celowej, po ich akceptacji odpowiednio przez Narodowy Fundusz lub wojewódzkie fundusze, przekazywane właściwym dysponentom części budżetowych, stanowią dla dysponentów części budżetowych podstawę do wystąpienia do ministra właściwego do spraw finansów publicznych o uruchomienie środków z rezerwy celowej.
 11. Narodowy Fundusz i wojewódzkie fundusze przekazują środki na rachunek bieżący dochodów budżetowych ministra właściwego do spraw środowiska w wysokości wynikającej z zaakceptowanych wniosków o uruchomienie środków z rezerwy celowej, w terminie 5 dni roboczych od dnia ich akceptacji.
 12. Narodowy Fundusz i wojewódzkie fundusze informują ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw środowiska o przekazaniu środków na dochody budżetu państwa, w terminie 5 dni roboczych od dnia przekazania środków, wskazując zadania realizowane przez państwowe jednostki budżetowe, w celu dofinansowania których są przekazywane środki.
 § 14. Rozporządzenie wchodzi w życie z dniem 1 grudnia 2010 r., z wyjątkiem § 11, który wchodzi w życie z dniem 1 stycznia 2011 r.
-ROCZNY PLAN FINANSOWY WOJEWÓDZKIEGO FUNDUSZU OCHRONY ŚRODOWISKA I GOSPODARKI WODNEJ W ………………. NA ………... R.
-7 ROCZNY PLAN FINANSOWY WOJEWÓDZKIEGO FUNDUSZU OCHRONY ŚRODOWISKA I GOSPODARKI WODNEJ W ………………. NA ………... R.
+Załącznik do rozporządzenia Rady Ministrów z dnia 16 listopada 2010 r.
+ROCZNY PLAN FINANSOWY WOJEWÓDZKIEGO FUNDUSZU OCHRONY ŚRODOWISKA ROCZNY I PLAN GOSPODARKI FINANSOWY WODNEJ WOJEWÓDZKIEGO W ………………. FUNDUSZU NA OCHRONY ………... R. ŚRODOWISKA I GOSPODARKI WODNEJ W ………………. NA ………... R.
 w tys. zł Przewidywane Lp. Wyszczególnienie wykonanie planu Plan (rok) % (rok-1) „roku [4/3] poprzedniego” 1 2 3 4 5 I. Stan Funduszu na początek roku z tego:
 1. Rzeczowy majątek trwały oraz wartości niematerialne i prawne
 2. Udziały i akcje
@@ -164,7 +164,7 @@ w tys. zł Przewidywane Lp. Wyszczególnienie wykonanie planu Plan (rok) % (rok-
 3. Umorzenia pożyczek
 3.1. w tym jednostkom sektora finansów publicznych
 4. Nagrody za działalność na rzecz ochrony środowiska i gospodarki wodnej niezwiązaną z wykonywaniem obowiązków pracowników administracji rządowej i samorządowej
-5. Inne wydatki na ochronę środowiska 10 1 2 3 4 5
+5. Inne wydatki na ochronę środowiska 1 2 3 4 5
 6. Koszty działalności organów i biura w tym:
 6.1. wynagrodzenia i składki od nich naliczane w tym:
 6.1.1. wynagrodzenia
@@ -183,7 +183,7 @@ w tys. zł Przewidywane Lp. Wyszczególnienie wykonanie planu Plan (rok) % (rok-
 4.2. papiery wartościowe jednostek samorządu terytorialnego
 5. Należności
 5.1. w tym z tytułu udzielonych pożyczek
-5.1.1. w tym jednostkom sektora finansów publicznych 11 1 2 3 4 5
+5.1.1. w tym jednostkom sektora finansów publicznych 1 2 3 4 5
 6. Pozostałe aktywa w tym:
 6.1. pozostałe należności
 7. Zobowiązania (minus)

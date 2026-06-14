@@ -8,10 +8,10 @@ pos: 1584
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 października 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11558844 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 17 października 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,19 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001584) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1584/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 17 października 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie sposobu przenoszenia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 20 sierpnia 2003 r. w sprawie sposobu przenoszenia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym (Dz. U. z 2016 r. poz. 463), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 31 lipca 2017 r. zmieniającym rozporządzenie w sprawie sposobu przenoszenia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym (Dz. U. poz. 1500).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 lipca 2017 r. zmieniającego rozporządzenie w sprawie sposobu przenoszenia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym (Dz. U. poz. 1500), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Sprawiedliwości: A. Bodnar ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 20 sierpnia 2003 r.
 w sprawie sposobu przenoszenia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym Na podstawie art. 10 ust. 3 i 4 ustawy z dnia 14 lutego 2003 r. o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym (Dz. U. poz. 363 oraz z 2015 r. poz. 218) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób przenoszenia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym, a w szczególności sposób:
 1) przekształcania numeracji ksiąg wieczystych;
 2) zamieszczania w księdze wieczystej wyniku sprawdzenia zgodności oznaczenia nieruchomości w księdze wieczystej z danymi zawartymi w bazie danych ewidencji gruntów i budynków;
 3) postępowania w razie wystąpienia przeszkód w migracji księgi wieczystej.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) EGiB należy przez to rozumieć ewidencję gruntów i budynków;
-2) SWDE należy przez to rozumieć standard wymiany danych ewidencyjnych, określony w załączniku nr 4 do rozporządzenia Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2019 r. poz. 393) ;
-3) RZHLZ należy przez to rozumieć rejestr zabezpieczenia hipotecznych listów zastawnych.
+1) EGiB – należy przez to rozumieć ewidencję gruntów i budynków;
+2) SWDE – należy przez to rozumieć standard wymiany danych ewidencyjnych, określony w załączniku nr 4 do rozporządzenia Ministra Rozwoju Regionalnego i Budownictwa z dnia 29 marca 2001 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2019 r. poz. 393) ;
+3) RZHLZ – należy przez to rozumieć rejestr zabezpieczenia hipotecznych listów zastawnych.
 § 3. 1. Numer dotychczasowej księgi wieczystej przekształca się w ten sposób, że numer księgi wieczystej prowadzonej w systemie informatycznym tworzy się jako połączenie kolejno: czteroznakowego kodu wydziału ksiąg wieczystych sądu rejonowego, z którego księga wieczysta została przekazana do ośrodka migracyjnego, numeru dotychczasowej księgi wieczystej oraz cyfry kontrolnej.
 2. (uchylony).
 3. Cyfrę kontrolną wylicza się na podstawie kodu wydziału ksiąg wieczystych sądu rejonowego i numeru dotychczasowej księgi wieczystej.
@@ -50,9 +50,10 @@ w sprawie sposobu przenoszenia treści dotychczasowej księgi wieczystej do stru
 7. Przepisy ust. 4 i 6 stosuje się odpowiednio do rubryk, podrubryk i podpól, z tym że w przypadku działu III i IV w strukturze księgi wieczystej prowadzonej w systemie informatycznym powtarza się zestaw rubryk składających się na strukturę działu.
 § 5. W systemie informatycznym jednoznacznie identyfikuje się sędziego lub referendarza sądowego zatwierdzającego prawidłowość przeniesienia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym.
 § 6. Po przeniesieniu treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym, w ośrodku migracyjnym ksiąg wieczystych, na pierwszej stronie dotychczasowej księgi wieczystej zamieszcza się napis „Księga zapisana w centralnej bazie danych ksiąg wieczystych”.
+§ 7. Dane ujawnione na okładce i pierwszej stronie dotychczasowej księgi wieczystej przenosi się do:
 1) rubryki 0.1 „informacje podstawowe” odpowiednio do pól:
 0.1.0.1 „numer księgi”,
-0.1.0.2 „oznaczenie wydziału” odpowiednio do podpól: A „nazwa sądu”, B „siedziba sądu”, C „kod wydziału”, D „numer wydziału”, E „nazwa wydziału”,
+0.1.0.2 „oznaczenie wydziału” odpowiednio do podpól: – A „nazwa sądu”, – B „siedziba sądu”, – C „kod wydziału”, – D „numer wydziału”, – E „nazwa wydziału”,
 0.1.0.3 „typ księgi”;
 2) rubryki 0.2 „dane o założeniu księgi wieczystej” odpowiednio do pola:
 0.2.0.4 „data założenia dotychczasowej księgi wieczystej”.
@@ -65,7 +66,8 @@ w sprawie sposobu przenoszenia treści dotychczasowej księgi wieczystej do stru
 0.3.0.2 „podstawa zamknięcia księgi”;
 3) w rubryce 0.4 „podstawa zmiany”:
 0.4.0.1 „podstawa zmiany”.
-§ 10. Nie przenosi się danych ujawnionych na okładce lub pierwszej stronie dotychczasowej księgi wieczystej, których
+§ 10. Nie przenosi się danych ujawnionych na okładce lub pierwszej stronie dotychczasowej księgi wieczystej, których nie uwzględniono w strukturze księgi wieczystej prowadzonej w systemie informatycznym.
+§ 11. Nie wypełnia się następujących pól:
 1) w rubryce 1.1 „wzmianka w księdze wieczystej”:
 1.1.0.3 „chwila wykreślenia”,
 1.1.0.4 „omówienie wykreślenia”;
@@ -89,7 +91,8 @@ c) w podrubryce 1.4.3 „urządzenie”:
 1.1.0.2 „chwila zamieszczenia”.
 § 21. Wpisy z łamu 2 „Numer nieruchomości” przenosi się do rubryki 1.2 „numer nieruchomości” do pola:
 1.2.0.1 „numer bieżący nieruchomości”.
-§ 22. W księdze wieczystej prowadzonej w systemie informatycznym wprowadza się numer położenia nieruchomości § 23. Wpisy z łamu 3 „Położenie” przenosi się do:
+§ 22. W księdze wieczystej prowadzonej w systemie informatycznym wprowadza się numer położenia nieruchomości w rubryce 1.3 „położenie” w polu 1.3.0.1 „numer porządkowy”.
+§ 23. Wpisy z łamu 3 „Położenie” przenosi się do:
 1) rubryki 1.3 „położenie” odpowiednio do pól:
 1.3.0.2 „województwo”,
 1.3.0.3 „powiat”,
@@ -101,17 +104,17 @@ a) dla nieruchomości gruntowej do podrubryki 1.4.1 „działka ewidencyjna” o
 1.4.1.5 „ulica”,
 b) dla nieruchomości budynkowej lub prawa do domu jednorodzinnego w spółdzielni mieszkaniowej do podrubryki
 1.4.2 „budynek” odpowiednio do pól:
-1.4.2.4 „dane adresowe” odpowiednio do podpól: A „ulica (aleja, plac)”, B „numer budynku”,
+1.4.2.4 „dane adresowe” odpowiednio do podpól: – A „ulica (aleja, plac)”, – B „numer budynku”,
 c) dla nieruchomości lokalowej, własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego do podrubryki 1.4.4 „lokal” odpowiednio do pól:
 1.4.4.2 „ulica”,
 1.4.4.3 „numer budynku”.
-§ 24. W księdze wieczystej prowadzonej w systemie informatycznym wprowadza się w rubryce 1.4 „oznaczenie” w podrubryce: 1.4.1 „działka ewidencyjna”, 1.4.2 „budynek”, 1.4.3 „urządzenie” w polu 1.4.1.4, 1.4.2.3, 1.4.3.2 „położenie” numer porządkowy położenia zapisanego w rubryce 1.3 „położenie” w polu 1.3.0.1 „numer porządkowy”.
+§ 24. W księdze wieczystej prowadzonej w systemie informatycznym wprowadza się w rubryce 1.4 „oznaczenie” w podrubryce: 1.4.1 „działka ewidencyjna”, 1.4.2 „budynek”, 1.4.3 „urządzenie” w polu 1.4.1.4, 1.4.2.3, 1.4.3.2 „położenie” – numer porządkowy położenia zapisanego w rubryce 1.3 „położenie” w polu 1.3.0.1 „numer porządkowy”.
 § 25. Wpisy z łamu 4 „Mapa i opis” przenosi się do:
 1) rubryki 1.4 „oznaczenie” odpowiednio:
 a) dla nieruchomości gruntowej do podrubryki 1.4.1 „działka ewidencyjna” odpowiednio do pól:
 1.4.1.1 „identyfikator działki”,
 1.4.1.2 „numer działki”,
-1.4.1.3 „obręb ewidencyjny” odpowiednio do podpól: A „numer obrębu”, B „nazwa obrębu”,
+1.4.1.3 „obręb ewidencyjny” odpowiednio do podpól: – A „numer obrębu”, – B „nazwa obrębu”,
 b) dla nieruchomości budynkowej lub prawa do domu jednorodzinnego w spółdzielni mieszkaniowej do podrubryki
 1.4.2 „budynek” odpowiednio do pól:
 1.4.2.1 „identyfikator budynku”,
@@ -119,15 +122,15 @@ b) dla nieruchomości budynkowej lub prawa do domu jednorodzinnego w spółdziel
 1.4.2.5 „liczba kondygnacji”,
 1.4.2.6 „liczba samodzielnych lokali”,
 1.4.2.7 „powierzchnia użytkowa budynku”,
-1.4.2.10 „nieruchomość, na której usytuowany jest budynek”, odpowiednio do podpól: A „numer księgi wieczystej”, B „numer obrębu ewidencyjnego”, C „numer działki ewidencyjnej”,
+1.4.2.10 „nieruchomość, na której usytuowany jest budynek”, odpowiednio do podpól: – A „numer księgi wieczystej”, – B „numer obrębu ewidencyjnego”, – C „numer działki ewidencyjnej”,
 1.4.2.11 „odrębność”,
 c) dla nieruchomości lokalowej, własnościowego spółdzielczego prawa do lokalu mieszkalnego lub spółdzielczego prawa do lokalu użytkowego do podrubryki 1.4.4 „lokal” odpowiednio do pól:
 1.4.4.1 „identyfikator lokalu”,
 1.4.4.4 „numer lokalu”,
-1.4.4.6 „opis lokalu” odpowiednio do podpól: A „rodzaj izby”, B „liczba izb”,
-1.4.4.7 „opis pomieszczeń przynależnych” odpowiednio do podpól: A „rodzaj pomieszczenia”, B „liczba pomieszczeń”,
+1.4.4.6 „opis lokalu” odpowiednio do podpól: – A „rodzaj izby”, – B „liczba izb”,
+1.4.4.7 „opis pomieszczeń przynależnych” odpowiednio do podpól: – A „rodzaj pomieszczenia”, – B „liczba pomieszczeń”,
 1.4.4.8 „kondygnacja”,
-1.4.4.10 „nieruchomość zabudowana budynkiem” odpowiednio do podpól: A „numer księgi wieczystej”, B „numer obrębu”, C „numer działki ewidencyjnej”,
+1.4.4.10 „nieruchomość zabudowana budynkiem” odpowiednio do podpól: – A „numer księgi wieczystej”, – B „numer obrębu”, – C „numer działki ewidencyjnej”,
 1.4.4.11 „odrębność”;
 2) rubryki 1.7 „podstawa oznaczenia (sprostowania)” odpowiednio do pól:
 1.7.0.1 „podstawa oznaczenia (sprostowania)”,
@@ -140,7 +143,7 @@ a) dla działki ewidencyjnej do podrubryki 1.4.1 „działka ewidencyjna” odpo
 b) dla budynku do podrubryki 1.4.2 „budynek” odpowiednio do pól:
 1.4.2.1 „identyfikator budynku”,
 1.4.2.2 „identyfikator działki”,
-1.4.2.4 „dane adresowe” odpowiednio do podpól: A „ulica (aleja, plac)”, B „numer budynku”,
+1.4.2.4 „dane adresowe” odpowiednio do podpól: – A „ulica (aleja, plac)”, – B „numer budynku”,
 1.4.2.5 „liczba kondygnacji”,
 1.4.2.6 „liczba samodzielnych lokali”,
 1.4.2.7 „powierzchnia użytkowa budynku”,
@@ -154,6 +157,7 @@ c) dla urządzenia do podrubryki 1.4.3 „urządzenie” odpowiednio do pól:
 2) dla budynków i urządzeń do rubryki 1.7 „podstawa oznaczenia (sprostowania)” odpowiednio do pól:
 1.7.0.1 „podstawa oznaczenia (sprostowania)”,
 1.7.0.5 „numer karty akt”,
+1.7.0.6 „numer księgi”;
 3) dla gruntu oddanego w użytkowanie wieczyste do rubryki 1.11 „spis praw” odpowiednio do podrubryki 1.11.2 „prawo użytkowania wieczystego” do pól:
 1.11.2.1 „okres użytkowania”,
 1.11.2.2 „sposób korzystania”.
@@ -182,22 +186,22 @@ a) do podrubryki 1.8.1 „dane o wniosku” odpowiednio do pól:
 b) do podrubryki 1.8.2 „chwila wpisu” do pola:
 1.8.2.1 „chwila wpisu”;
 4) rubryki 1.4 „oznaczenie” odpowiednio:
-a) dla wpisu, który dotyczy działki ewidencyjnej przyłączonej do nieruchomości, do podrubryki 1.4.1 „działka ewidencyjna” odpowiednio do pola 1.4.1.8 „przyłączenie” odpowiednio do podpól: A „numer księgi wieczystej”, B „obszar”,
-b) dla wpisu, który wskazuje księgę zaginioną, zniszczoną, dawną lub zbiór dokumentów, do podrubryki 1.4.1 „działka ewidencyjna” odpowiednio do pola 1.4.1.9 „numer księgi zaginionej, zniszczonej, dawnej, zbioru dokumentów” odpowiednio do podpól: A „numer księgi zaginionej”, B „numer księgi zniszczonej”, C „numer księgi dawnej”,
+a) dla wpisu, który dotyczy działki ewidencyjnej przyłączonej do nieruchomości, do podrubryki 1.4.1 „działka ewidencyjna” odpowiednio do pola 1.4.1.8 „przyłączenie” odpowiednio do podpól: – A „numer księgi wieczystej”, – B „obszar”,
+b) dla wpisu, który wskazuje księgę zaginioną, zniszczoną, dawną lub zbiór dokumentów, do podrubryki 1.4.1 „działka ewidencyjna” odpowiednio do pola 1.4.1.9 „numer księgi zaginionej, zniszczonej, dawnej, zbioru dokumentów” odpowiednio do podpól: – A „numer księgi zaginionej”, – B „numer księgi zniszczonej”, – C „numer księgi dawnej”, – D „oznaczenie zbioru dokumentów”,
 c) dla wpisu, który dotyczy budynku przyłączonego do nieruchomości, dodatkowo do podrubryki 1.4.2 „budynek” odpowiednio do pola:
 1.4.2.13 „przyłączenie”,
 d) dla wpisu, który dotyczy lokalu wyodrębnionego z budynku, do podrubryki 1.4.2 „budynek” odpowiednio do pól:
-1.4.2.14 „informacja o wyodrębnionych lokalach” odpowiednio do podpól: A „numer lokalu”, B „numer księgi wieczystej”,
+1.4.2.14 „informacja o wyodrębnionych lokalach” odpowiednio do podpól: – A „numer lokalu”, – B „numer księgi wieczystej”,
 1.4.2.15 „części wspólne po wyodrębnieniu lokali”,
 e) dla wpisu, który dotyczy urządzenia przyłączonego do nieruchomości, do podrubryki 1.4.3 „urządzenie” odpowiednio do pola:
 1.4.3.5 „przyłączenie”,
 f) dla wpisu, który dotyczy lokalu przyłączonego do nieruchomości, dodatkowo do podrubryki 1.4.4 „lokal” odpowiednio do pola:
 1.4.4.9 „przyłączenie”.
 § 30. W rubryce 1.6 „zgodność z danymi ewidencji gruntów i budynków” wpisuje się:
-1) w polu: 1.6.0.1 „zgodność” znacznik weryfikacji danych wpisanych w dziale I -O księgi wieczystej z danymi zawartymi w ewidencji gruntów i budynków (Z zgodny, N niezgodny, B brak możliwości sprawdzenia zgodności), według stanu na ostatni dzień minionego kwartału, dostępnych w formacie SWDE;
-2) w polu 1.6.0.2 „chwila sprawdzenia” data, godzina i minuta sprawdzenia zgodności danych zawartych w księdze wieczystej z danymi ewidencji gruntów i budynków;
-3) w polu 1.6.0.3 „wersja bazy EGiB” data ostatniej aktualizacji stanu bazy danych EGiB, z którą dokonywana jest weryfikacja danych wpisanych w dziale I- O.
-§ 31. Wpisy lub części wpisów, ujawnione w dziale I -O dotychczasowej księgi wieczystej, które zawierają treść nieobjętą strukturą księgi wieczystej, a także projekty wpisów ujawnione w tym dziale przenosi się do rubryki 1.9 „komentarz”, pola 1.9.0.1 „komentarz do migracji”, podpola A.
+1) w polu: 1.6.0.1 „zgodność” – znacznik weryfikacji danych wpisanych w dziale I- O księgi wieczystej z danymi zawartymi w ewidencji gruntów i budynków (Z – zgodny, N – niezgodny, B – brak możliwości sprawdzenia zgodności), według stanu na ostatni dzień minionego kwartału, dostępnych w formacie SWDE;
+2) w polu 1.6.0.2 „chwila sprawdzenia” – data, godzina i minuta sprawdzenia zgodności danych zawartych w księdze wieczystej z danymi ewidencji gruntów i budynków;
+3) w polu 1.6.0.3 „wersja bazy EGiB” – data ostatniej aktualizacji stanu bazy danych EGiB, z którą dokonywana jest weryfikacja danych wpisanych w dziale I- O.
+§ 31. Wpisy lub części wpisów, ujawnione w dziale I- O dotychczasowej księgi wieczystej, które zawierają treść nieobjętą strukturą księgi wieczystej, a także projekty wpisów ujawnione w tym dziale przenosi się do rubryki 1.9 „komentarz”, pola 1.9.0.1 „komentarz do migracji”, podpola A.
 § 32. Ostatni numer bieżący nieruchomości, przeniesiony do rubryki 1.2 „numer nieruchomości”, pola 1.2.0.1 „numer bieżący nieruchomości” przenosi się dodatkowo do rubryki 1.9 „komentarz”, pola 1.9.0.1 „komentarz do migracji”, podpola B.
 § 33. Nie wypełnia się następujących pól:
 1) w rubryce 1.10 „wzmianka w księdze wieczystej”:
@@ -208,23 +212,25 @@ f) dla wpisu, który dotyczy lokalu przyłączonego do nieruchomości, dodatkowo
 § 34. Numer bieżący wpisu przenosi się zgodnie z numeracją w dotychczasowej księdze wieczystej.
 § 35. Pole 1.11.1.2 „napis” w rubryce 1.11 „spis praw” wypełnia się w przypadku, gdy w dziale I -O ujawniono oddanie gruntu w użytkowanie wieczyste, ujawniono na takim gruncie budynek stanowiący odrębny od gruntu przedmiot własności lub urządzenie stanowiące odrębny przedmiot własności.
 § 36. Wpisy z łamu 1 „Wzmianka o wniosku” przenosi się do rubryki 1.10 „wzmianka w księdze wieczystej” odpowiednio do pól:
-1.10.0.1 „wzmianka”, § 37. Wpisy z łamu 2 „Numer bieżący wpisu” przenosi się do rubryki 1.11 „spis praw” podrubryki 1.11.1 „spis praw związanych z własnością” odpowiednio do pola:
+1.10.0.1 „wzmianka”,
+1.10.0.2 „chwila zamieszczenia”.
+§ 37. Wpisy z łamu 2 „Numer bieżący wpisu” przenosi się do rubryki 1.11 „spis praw” podrubryki 1.11.1 „spis praw związanych z własnością” odpowiednio do pola:
 1.11.1.1 „numer prawa”.
 § 38. Wpisy z łamu 3 „Oznaczenie prawa” i łamu 4 „Zmiany” przenosi się do:
 1) rubryki 1.11 „spis praw” odpowiednio:
 a) do podrubryki 1.11.1 „spis praw związanych z własnością” odpowiednio do pól:
 1.11.1.2 „napis”,
 1.11.1.3 „rodzaj prawa”,
-1.11.1.4 „treść prawa” dla prawa związanego z własnością nieruchomości, prawem użytkowania wieczystego lub własnościowym spółdzielczym prawem do lokalu mieszkalnego, spółdzielczym prawem do lokalu użytkowego lub prawem do domu jednorodzinnego w spółdzielni mieszkaniowej,
-1.11.1.5 „księga powiązana” dla prawa związanego z własnością nieruchomości ujawnionej w innej księdze wieczystej odpowiednio do podpól: A „numer księgi wieczystej”, B „numer wpisu”,
-1.11.1.6 „udział związany” dla udziału właściciela lokalu w nieruchomości wspólnej odpowiednio do podpól: A „wielkość udziału w nieruchomości wspólnej, którą stanowi grunt oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali”, B „wielkość udziału w nieruchomości wspólnej, którą stanowi prawo użytkowania wieczystego oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali”, C „numer księgi wieczystej”, D „numer udziału w prawie”,
+1.11.1.4 „treść prawa” – dla prawa związanego z własnością nieruchomości, prawem użytkowania wieczystego lub własnościowym spółdzielczym prawem do lokalu mieszkalnego, spółdzielczym prawem do lokalu użytkowego lub prawem do domu jednorodzinnego w spółdzielni mieszkaniowej,
+1.11.1.5 „księga powiązana” – dla prawa związanego z własnością nieruchomości ujawnionej w innej księdze wieczystej odpowiednio do podpól: – A „numer księgi wieczystej”, – B „numer wpisu”,
+1.11.1.6 „udział związany” – dla udziału właściciela lokalu w nieruchomości wspólnej odpowiednio do podpól: – A „wielkość udziału w nieruchomości wspólnej, którą stanowi grunt oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali”, – B „ wielkość udziału w nieruchomości wspólnej, którą stanowi prawo użytkowania wieczystego oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali”, – C „numer księgi wieczystej”, – D „numer udziału w prawie”,
 b) dla własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego lub prawa do domu jednorodzinnego w spółdzielni mieszkaniowej do podrubryki 1.11.3 „opisanie spółdzielni mieszkaniowej” odpowiednio do pól:
 1.11.3.1 „nazwa spółdzielni mieszkaniowej”,
 1.11.3.2 „siedziba spółdzielni mieszkaniowej”,
 1.11.3.3 „REGON spółdzielni mieszkaniowej”;
 2) rubryki 1.4 „oznaczenie” odpowiednio:
 a) dla prawa do domu jednorodzinnego w spółdzielni mieszkaniowej dodatkowo do podrubryki 1.4.2 „budynek” odpowiednio do pola:
-1.4.2.4 „dane adresowe” odpowiednio do podpola: B „numer budynku”,
+1.4.2.4 „dane adresowe” odpowiednio do podpola: – B „numer budynku”,
 b) dla własnościowego spółdzielczego prawa do lokalu mieszkalnego lub spółdzielczego prawa do lokalu użytkowego dodatkowo do podrubryki 1.4.4 „lokal” odpowiednio do pola:
 1.4.4.4 „numer lokalu”;
 3) rubryki 1.12 „podstawa wpisu” odpowiednio do podrubryk:
@@ -273,10 +279,11 @@ a) do podrubryki 1.13.1 „dane o wniosku” odpowiednio do pól:
 b) do podrubryki 1.13.2 „chwila wpisu” odpowiednio do pól:
 1.13.2.1 „chwila wpisu”.
 § 39. Nie przenosi się wpisów z łamu 5 „Wykreślenia”.
-§ 40. Wpisy lub części wpisów, ujawnione w dziale I -Sp dotychczasowej księgi wieczystej, które zawierają treść nieobjętą strukturą księgi wieczystej, prowadzonej w systemie informatycznym, a także projekty wpisów zamieszczone w tym dziale, przenosi się do rubryki 1.14 „komentarz”, pola 1.14.0.1 „komentarz do migracji”, podpola A.
+§ 40. Wpisy lub części wpisów, ujawnione w dziale I- Sp dotychczasowej księgi wieczystej, które zawierają treść nieobjętą strukturą księgi wieczystej, prowadzonej w systemie informatycznym, a także projekty wpisów zamieszczone w tym dziale, przenosi się do rubryki 1.14 „komentarz”, pola 1.14.0.1 „komentarz do migracji”, podpola A.
 § 41. Ostatni numer bieżący wpisu ujawnionego w dotychczasowej księdze wieczystej przenosi się do rubryki 1.14 „komentarz”, pola 1.14.0.1 „komentarz do migracji”, podpola B również w przypadku, gdy jest to numer wykreślonego prawa.
 § 42. Jeżeli we wpisie wskazana została księga wieczysta, której numer zawiera literę, numer tej księgi przenosi się do rubryki 1.9 „komentarz”, pola 1.9.0.1 „komentarz do migracji”, podpola A lub do rubryki 1.14 „komentarz”, pola
 1.14.0.1 „komentarz do migracji”, podpola A.
+§ 43. Nie wypełnia się następujących pól w rubryce 2.1 „wzmianka w księdze wieczystej”:
 2.1.0.3 „chwila wykreślenia”,
 2.1.0.4 „omówienie wykreślenia”.
 § 44. Pola: 2.3.0.2 i 2.4.1.1 „napis” odpowiednio w rubryce: 2.3 „właściciel wyodrębnionego lokalu” i 2.4 „użytkownik wieczysty” w podrubryce 2.4.1 „napis” wypełnia się tylko w przypadku, gdy w dotychczasowej księdze wieczystej, w dziale I -O, ujawniono oddanie gruntu w użytkowanie wieczyste, ujawniono na takim gruncie budynek stanowiący odrębny od gruntu przedmiot własności lub urządzenie stanowiące odrębny przedmiot własności.
@@ -343,6 +350,7 @@ d) dla jednostki samorządu terytorialnego (związku międzygminnego) jako użyt
 2.4.4.4 „REGON”,
 2.4.4.5 „nazwa uprawnionego”,
 2.4.4.6 „siedziba uprawnionego”,
+2.4.4.7 „REGON uprawnionego”,
 e) dla innej osoby prawnej lub jednostki organizacyjnej niebędącej osobą prawną, której ustawa przyznaje zdolność prawną, jako użytkownika wieczystego lub współużytkownika wieczystego, do podrubryki 2.4.5 „inna osoba prawna” odpowiednio do pól:
 2.4.5.2 „nazwa”,
 2.4.5.3 „siedziba”,
@@ -384,7 +392,7 @@ e) dla osoby fizycznej jako uprawnionego lub współuprawnionego z tytułu włas
 2.5.5.8 „PESEL”;
 4) dla udziału właściciela wyodrębnionego lokalu do rubryki 2.3 „właściciel wyodrębnionego lokalu” odpowiednio do pól:
 2.3.0.2 „napis”,
-2.3.0.3 „wielkość udziału” odpowiednio do podpól: A „wielkość udziału w nieruchomości wspólnej, którą stanowi grunt oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali”, B „wielkość udziału w nieruchomości wspólnej, którą stanowi prawo użytkowania wieczystego oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali”,
+2.3.0.3 „wielkość udziału” odpowiednio do podpól: – A „wielkość udziału w nieruchomości wspólnej, którą stanowi grunt oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali”, – B „wielkość udziału w nieruchomości wspólnej, którą stanowi prawo użytkowania wieczystego oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali”,
 2.3.0.4 „numer księgi”,
 2.3.0.5 „numer lokalu”.
 § 52. Nie przenosi się wpisów z łamu 4 „Numer bieżący nieruchomości”.
@@ -416,6 +424,7 @@ c) dla orzeczenia sądu, które stanowi podstawę nabycia, do podrubryki 2.6.3 �
 2.6.3.4 „nazwa sądu”,
 2.6.3.5 „siedziba sądu”,
 2.6.3.6 „numer karty akt”,
+2.6.3.7 „numer księgi”,
 d) dla innej podstawy nabycia do podrubryki 2.6.4 „inna podstawa” odpowiednio do pól:
 2.6.4.1 „wskazanie podstawy”,
 2.6.4.2 „sygnatura”,
@@ -435,16 +444,19 @@ b) do podrubryki 2.7.2 „chwila wpisu” do pola:
 2.7.2.1 „chwila wpisu”.
 § 54. Wpisy lub części wpisów, ujawnione w dziale II dotychczasowej księgi wieczystej, które zawierają treść nieobjętą strukturą księgi wieczystej, a także projekty wpisów zamieszczone w tym dziale przenosi się do rubryki 2.8 „komentarz”, pola 2.8.0.1 „komentarz do migracji”, podpola A.
 § 55. Jeżeli we wpisie wskazana została księga wieczysta, której numer zawiera literę, numer tej księgi przenosi się do rubryki 2.8 „komentarz”, pola 2.8.0.1 „komentarz do migracji”, podpola A.
+§ 56. Nie wypełnia się następujących pól:
 1) w rubryce 3.1 „wzmianka w księdze wieczystej”:
 3.1.0.3 „chwila wykreślenia”,
 3.1.0.4 „omówienie wykreślenia”;
 2) w rubryce 3.4 „treść wpisu”: w podrubryce 3.4.1 „treść prawa, roszczenia, ograniczenia, ostrzeżenia”:
 3.4.1.7 „rodzaj zmiany”.
 § 57. Numer bieżący wpisu przenosi się zgodnie z numeracją w dotychczasowej księdze wieczystej do pola 3.2.0.1 „numer wpisu” w rubryce 3.2 „numer wpisu”.
-§ 58. Pole 3.3.0.1 „napis” w rubryce 3.3 „napis” wypełnia się w przypadku, gdy w dotychczasowej księdze wieczystej, w dziale I -O, ujawniono oddanie gruntu w użytkowanie wieczyste, ujawniono na takim gruncie budynek stanowiący odrębny od gruntu przedmiot własności lub urządzenie stanowiące odrębny przedmiot własności albo w dziale III ujawniono informację o tym, że wszelkie prawa, roszczenia lub ograniczenia ciążące na lokalach wyodrębnionych z nieruchomości ujawnionej w dziale I- O ciążą na przynależnych do nich udziałach we współwłasności lub współużytkowaniu wieczystym.
+§ 58. Pole 3.3.0.1 „napis” w rubryce 3.3 „napis” wypełnia się w przypadku, gdy w dotychczasowej księdze wieczystej, w dziale I- O, ujawniono oddanie gruntu w użytkowanie wieczyste, ujawniono na takim gruncie budynek stanowiący odrębny od gruntu przedmiot własności lub urządzenie stanowiące odrębny przedmiot własności albo w dziale III ujawniono informację o tym, że wszelkie prawa, roszczenia lub ograniczenia ciążące na lokalach wyodrębnionych z nieruchomości ujawnionej w dziale I- O ciążą na przynależnych do nich udziałach we współwłasności lub współużytkowaniu wieczystym.
 § 59. Jeżeli w dotychczasowej księdze wieczystej pod jednym numerem bieżącym wpisu ujawniono kilka praw, roszczeń, ograniczeń lub ostrzeżeń, każdemu z tych praw, roszczeń, ograniczeń lub ostrzeżeń nadaje się odrębny numer wpisu.
 § 60. Wpisy z łamu 1 „Wzmianka o wniosku” przenosi się do rubryki 3.1 „wzmianka w księdze wieczystej” odpowiednio do pól:
-3.1.0.1 „wzmianka”, § 61. Wpisy z łamu 2 „Numer bieżący wpisu” przenosi się do rubryki 3.2 „numer wpisu” do pola:
+3.1.0.1 „wzmianka”,
+3.1.0.2 „chwila zamieszczenia”.
+§ 61. Wpisy z łamu 2 „Numer bieżący wpisu” przenosi się do rubryki 3.2 „numer wpisu” do pola:
 3.2.0.1 „numer wpisu”.
 § 62. Wpisy z łamu 3 „Prawa, roszczenia, ciężary i ograniczenia” i łamu 5 „Wpis” przenosi się do:
 1) rubryki 3.3 „napis” odpowiednio do pola:
@@ -486,7 +498,7 @@ f) dla prawa, roszczenia, ograniczenia lub ostrzeżenia, które nie współobci�
 3.4.6.1 „numer księgi”,
 3.4.6.2 „inne informacje”,
 g) dla prawa, roszczenia, ograniczenia lub ostrzeżenia, które współobciąża inną nieruchomość, dodatkowo do podrubryki 3.4.1 „treść prawa, roszczenia, ograniczenia, ostrzeżenia” odpowiednio do pól:
-3.4.1.6 „nieruchomość współobciążona” odpowiednio do podpól: A „numer księgi wieczystej”, B „numer wpisu”;
+3.4.1.6 „nieruchomość współobciążona” odpowiednio do podpól: – A „numer księgi wieczystej”, – B „numer wpisu”;
 3) rubryki 3.5 „podstawa wpisu” odpowiednio:
 a) dla aktu notarialnego, który stanowi podstawę wpisu, do podrubryki 3.5.1 „akt notarialny” odpowiednio do pól:
 3.5.1.1 „tytuł aktu”,
@@ -536,6 +548,7 @@ b) do podrubryki 3.6.2 „chwila wpisu” odpowiednio do pól:
 § 64. Wpisy lub części wpisów, ujawnione w dziale III dotychczasowej księgi wieczystej, które zawierają treść nieobjętą strukturą księgi wieczystej, a także projekty wpisów zamieszczone w tym dziale przenosi się do rubryki 3.7 „komentarz”, pola 3.7.0.1 „komentarz do migracji”, podpola A.
 § 65. Ostatni numer bieżący wpisu ujawnionego w dotychczasowej księdze wieczystej, nawet jeśli jest to numer wykreślonego prawa, roszczenia, ograniczenia lub ostrzeżenia, przenosi się do rubryki 3.7 „komentarz”, pola 3.7.0.1 „komentarz do migracji”, podpola B.
 § 66. Jeżeli we wpisie wskazana została księga wieczysta, której numer zawiera literę, numer tej księgi przenosi się do rubryki 3.7 „komentarz”, pola 3.7.0.1 „komentarz do migracji”, podpola A.
+§ 67. Nie wypełnia się następujących pól:
 1) w rubryce 4.1 „wzmianka w księdze wieczystej”:
 4.1.0.3 „chwila wykreślenia”,
 4.1.0.4 „omówienie wykreślenia”;
@@ -545,7 +558,8 @@ b) do podrubryki 3.6.2 „chwila wpisu” odpowiednio do pól:
 § 69. Jeżeli w dotychczasowej księdze wieczystej pod jednym numerem bieżącym wpisu ujawnionych jest kilka hipotek lub roszczeń o ustanowienie hipotek, każdej z hipotek (roszczeniu o ustanowienie hipoteki) nadaje się odrębny numer hipoteki (roszczenia).
 § 70. Rodzaj pieniądza określającego sumę hipoteki wyraża się skrótem przyjętym w tabeli kursów Narodowego Banku Polskiego.
 § 71. W przypadku hipoteki zabezpieczającej wierzytelność banku, w polu 4.4.4.1 „nazwa” wpisuje się firmę banku i jego oddział, o ile został wskazany w dotychczasowej księdze wieczystej.
-§ 72. Pole 4.3.0.1 „napis” w rubryce 4.3 „napis” wypełnia się w przypadku, gdy w dotychczasowej księdze wieczystej, w dziale I -O, ujawniono oddanie gruntu w użytkowanie wieczyste, ujawniono na takim gruncie budynek stanowiący odrębny od gruntu przedmiot własności lub urządzenie stanowiące odrębny przedmiot własności lub w dziale IV ujawniono informację o tym, iż wszelkie prawa, roszczenia lub ograniczenia ciążące na lokalach wyodrębnionych z nieruchomości ujawnio§ 73. Wpisy z łamu 1 „Wzmianka o wniosku” przenosi się do rubryki 4.1 „wzmianka w księdze wieczystej” odpowiednio do pól:
+§ 72. Pole 4.3.0.1 „napis” w rubryce 4.3 „napis” wypełnia się w przypadku, gdy w dotychczasowej księdze wieczystej, w dziale I -O, ujawniono oddanie gruntu w użytkowanie wieczyste, ujawniono na takim gruncie budynek stanowiący odrębny od gruntu przedmiot własności lub urządzenie stanowiące odrębny przedmiot własności lub w dziale IV ujawniono informację o tym, iż wszelkie prawa, roszczenia lub ograniczenia ciążące na lokalach wyodrębnionych z nieruchomości ujawnionej w dziale I- O ciążą na przynależnych do nich udziałach we współwłasności lub współużytkowaniu wieczystym.
+§ 73. Wpisy z łamu 1 „Wzmianka o wniosku” przenosi się do rubryki 4.1 „wzmianka w księdze wieczystej” odpowiednio do pól:
 4.1.0.1 „wzmianka”,
 4.1.0.2 „chwila zamieszczenia”.
 § 74. Wpisy z łamu 2 „Numer bieżący wpisu” przenosi się do rubryki 4.2 „numer hipoteki (roszczenia)” odpowiednio do pól:
@@ -561,7 +575,7 @@ a) dla hipoteki (roszczenia o ustanowienie hipoteki) niewspółobciążającej i
 4.4.1.1 „rodzaj hipoteki (roszczenia)”,
 4.4.1.3 „suma słownie”,
 4.4.1.4 „waluta sumy”,
-4.4.1.5 „odsetki” odpowiednio do podpól: A „rodzaj odsetek”, B „wysokość odsetek”,
+4.4.1.5 „odsetki” odpowiednio do podpól: – A „rodzaj odsetek”, – B „wysokość odsetek”,
 4.4.1.6 „udział”,
 4.4.1.7 „hipoteka na wierzytelności hipotecznej”,
 4.4.1.8 „rodzaj zabezpieczonej wierzytelności”,
@@ -596,7 +610,7 @@ e) dla hipoteki (roszczenia o ustanowienie hipoteki) niewspółobciążającej i
 4.4.5.6 „imię matki”,
 4.4.5.7 „PESEL”,
 f) dla hipoteki łącznej do podrubryki 4.4.1 „treść hipoteki (roszczenia)” odpowiednio do pól:
-4.4.1.12 „księga współobciążona” odpowiednio do podpól: A „numer księgi wieczystej”, B „numer hipoteki (roszczenia)”,
+4.4.1.12 „księga współobciążona” odpowiednio do podpól: – A „numer księgi wieczystej”, – B „numer hipoteki (roszczenia)”,
 4.4.1.13 „inne informacje”;
 3) rubryki 4.5 „podstawa wpisu” odpowiednio:
 a) dla aktu notarialnego, który stanowi podstawę wpisu, do podrubryki 4.5.1 „akt notarialny” odpowiednio do pól:
@@ -647,34 +661,36 @@ b) do podrubryki 4.6.2 „chwila wpisu” do pola:
 § 78. Wpisy lub części wpisów, ujawnione w dziale IV dotychczasowej księgi wieczystej, które zawierają treść nieobjętą strukturą księgi wieczystej, a także projekty wpisów zamieszczone w tym dziale przenosi się do rubryki 4.7 „komentarz”, pola 4.7.0.1 „komentarz do migracji”, podpola A.
 § 79. Ostatni numer bieżący wpisu ujawnionego w dotychczasowej księdze wieczystej, nawet jeśli jest to numer wykreślonej hipoteki (roszczenia), przenosi się do rubryki 4.7 „komentarz”, pola 4.7.0.1 „komentarz do migracji”, podpola B.
 § 80. Jeżeli we wpisie wskazana została księga wieczysta, której numer zawiera literę, numer tej księgi przenosi się do rubryki 4.7 „komentarz”, pola 4.7.0.1 „komentarz do migracji”, podpola A.
-2. Przy zwrocie ksiąg wieczystych, o których mowa w ust. 1, sędzia lub referendarz sądowy sporządza protokół, w którym zamieszcza informację o prowadzeniu dwóch albo więcej ksiąg wieczystych dla tej samej nieruchomości albo tego samego § 82. 1. W przypadku stwierdzenia, że w wydziale ksiąg wieczystych prowadzone są co najmniej dwie księgi wieczyste o tym samym numerze, z których jedna już została przeniesiona do struktury księgi wieczystej prowadzonej w systemie informatycznym, pozostałe księgi zwraca się do sądu rejonowego bez zakończenia migracji.
+§ 81. 1. W przypadku stwierdzenia, że dla tej samej nieruchomości albo tego samego ograniczonego prawa rzeczowego prowadzi się dwie lub więcej ksiąg wieczystych o różnych numerach, nie wstrzymuje się migracji tych ksiąg.
+2. Przy zwrocie ksiąg wieczystych, o których mowa w ust. 1, sędzia lub referendarz sądowy sporządza protokół, w którym zamieszcza informację o prowadzeniu dwóch albo więcej ksiąg wieczystych dla tej samej nieruchomości albo tego samego prawa.
+§ 82. 1. W przypadku stwierdzenia, że w wydziale ksiąg wieczystych prowadzone są co najmniej dwie księgi wieczyste o tym samym numerze, z których jedna już została przeniesiona do struktury księgi wieczystej prowadzonej w systemie informatycznym, pozostałe księgi zwraca się do sądu rejonowego bez zakończenia migracji.
 2. Przy zwrocie ksiąg wieczystych, o których mowa w ust. 1, sędzia lub referendarz sądowy sporządza protokół, w którym zamieszcza informację, że w wydziale ksiąg wieczystych prowadzone są co najmniej dwie księgi wieczyste o tym samym numerze, oraz wskazuje datę założenia dotychczasowej księgi wieczystej, która została przeniesiona do struktury księgi wieczystej prowadzonej w systemie informatycznym.
 § 83. 1. W przypadku nieczytelności treści dotychczasowej księgi wieczystej sędzia lub referendarz sądowy, w ramach czynności wyjaśniających, zwraca się do wydziału ksiąg wieczystych o nadesłanie kopii właściwego dokumentu znajdującego się w aktach księgi wieczystej.
 2. Wskazanie treści dotychczasowej księgi wieczystej odczytanej w toku czynności wyjaśniających następuje w formie protokołu sporządzonego przez sędziego lub referendarza sądowego.
 3. Jeżeli w ramach czynności wyjaśniających nie jest możliwe odczytanie treści dotychczasowej księgi wieczystej, sędzia lub referendarz sądowy sporządza protokół, w którym wskazuje zakres i miejsce nieczytelności. Protokół ten wraz z dotychczasową księgą wieczystą ośrodek migracyjny ksiąg wieczystych zwraca do sądu rejonowego.
 § 84. Brak prawomocności wpisów w księdze wieczystej nie stanowi przeszkody w migracji księgi wieczystej.
-(uchylony) Zasady wpisu danych w razie wystąpienia znaku pisarskiego niewystępującego w powyższej tablicy W przypadku wystąpienia w danych podlegających wpisowi do systemu informatycznego znaku pisarskiego niewystępującego w powyższej tablicy stosuje się następujące zasady:
+§ 85. Rozporządzenie wchodzi w życie z dniem 1 października 2003 r.
+(uchylony) WYKAZ WYKAZ DOPUSZCZALNYCH DOPUSZCZALNYCH ZNAKÓW ZNAKÓW PISARSKICH PISARSKICH W W SYSTEMIE SYSTEMIE INFORMATYCZNYM INFORMATYCZNYM Zasady wpisu danych w razie wystąpienia znaku pisarskiego niewystępującego w powyższej tablicy W przypadku wystąpienia w danych podlegających wpisowi do systemu informatycznego znaku pisarskiego niewystępującego w powyższej tablicy stosuje się następujące zasady:
 1. Pomija się wszystkie znaki diakrytyczne występujące w danym znaku, z wyjątkiem liter ze znakami diakrytycznymi wymienionymi w powyższej tabeli.
 2. W przypadku dyftongów wpisujemy pierwszą literę tworzącą dyftong (np. AE = A).
 3. W przypadku wystąpienia innego znaku, nienależącego do grupy znaków, o których mowa w pkt 1 i 2, w miejsce tego znaku wpisuje się znak *.
 4. Apostrof w nazwiskach osób fizycznych i nazwach innych niż osoby fizyczne podmiotów piszemy zgodnie z pisownią oryginału, z zastosowaniem dostępnego znaku z tablicy zawartej w niniejszym załączniku.
-5. W przypadku wystąpienia cudzysłowów: cudzysłów otwierający („) zamienia się na cudzysłów zamykający (”), cudzysłów («) oraz (») zastępuje się cudzysłowem zamykającym (”).
+5. W przypadku wystąpienia cudzysłowów: – cudzysłów otwierający („) zamienia się na cudzysłów zamykający (”), – cudzysłów («) oraz (») zastępuje się cudzysłowem zamykającym (”).
 6. W przypadku wystąpienia znaku pisarskiego przesuniętego w stosunku do linii tekstu (indeks górny lub dolny) sprowadza się ten znak do linii tekstu (np. m = m2, x = x3). W przypadku równoczesnego wystąpienia obu indeksów indeks górny poprzedza indeks dolny przy wpisie danych do księgi wieczystej prowadzonej w systemie informatycznym.
-WYKAZ DOPUSZCZALNYCH ZNAKÓW PISARSKICH W SYSTEMIE INFORMATYCZNYM
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa sposób przenoszenia treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym, a w szczególności sposób:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Przenoszenie treści okładki i pierwszej strony dotychczasowej księgi wieczystej § 7. Dane ujawnione na okładce i pierwszej stronie dotychczasowej księgi wieczystej przenosi się do:
+#### Rozdział 2 Przenoszenie treści okładki i pierwszej strony dotychczasowej księgi wieczystej
 
-#### Rozdział 3 Przenoszenie treści działu I dotychczasowej księgi wieczystej § 11. Nie wypełnia się następujących pól:
+#### Rozdział 3 Przenoszenie treści działu I dotychczasowej księgi wieczystej
 
-#### Rozdział 4 Przenoszenie treści działu II dotychczasowej księgi wieczystej § 43. Nie wypełnia się następujących pól w rubryce 2.1 „wzmianka w księdze wieczystej”:
+#### Rozdział 4 Przenoszenie treści działu II dotychczasowej księgi wieczystej
 
-#### Rozdział 5 Przenoszenie treści działu III dotychczasowej księgi wieczystej § 56. Nie wypełnia się następujących pól:
+#### Rozdział 5 Przenoszenie treści działu III dotychczasowej księgi wieczystej
 
-#### Rozdział 6 Przenoszenie treści działu IV dotychczasowej księgi wieczystej § 67. Nie wypełnia się następujących pól:
+#### Rozdział 6 Przenoszenie treści działu IV dotychczasowej księgi wieczystej
 
-#### Rozdział 7 Postępowanie w razie przeszkód w migracji księgi wieczystej § 81. 1. W przypadku stwierdzenia, że dla tej samej nieruchomości albo tego samego ograniczonego prawa rzeczowego prowadzi się dwie lub więcej ksiąg wieczystych o różnych numerach, nie wstrzymuje się migracji tych ksiąg.
+#### Rozdział 7 Postępowanie w razie przeszkód w migracji księgi wieczystej
 
-#### Rozdział 8 Przepis końcowy § 85. Rozporządzenie wchodzi w życie z dniem 1 października 2003 r.
+#### Rozdział 8 Przepis końcowy
 

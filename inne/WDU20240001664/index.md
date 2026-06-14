@@ -8,10 +8,10 @@ pos: 1664
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1664 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 5 listopada 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1664/text.pdf) |
 
-Poz. 1664 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 5 listopada 2024 r.
-zmieniające rozporządzenie w sprawie Komisji Heraldycznej Na podstawie art. 2a ust. 5 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 27 lipca 1999 r. w sprawie Komisji Heraldycznej (Dz. U. z 2022 r.
+zmieniające rozporządzenie w sprawie Komisji Heraldycznej Na podstawie art. 2a ust. 5 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 27 lipca 1999 r. w sprawie Komisji Heraldycznej (Dz. U. z 2022 r.
 poz. 1779) wprowadza się następujące zmiany:
 1) w § 3 dodaje się ust. 4 w brzmieniu: „4. Podmioty, o których mowa w § 2 ust. 2 pkt 1 i 2, mogą odstąpić od wskazania kandydatów na członków Komisji, informując o tym ministra właściwego do spraw administracji publicznej w terminie, o którym mowa w ust. 2.
 W takim przypadku członka Komisji wskazuje minister właściwy do spraw administracji publicznej.”;
@@ -38,7 +38,6 @@ b) dodaje się ust. 4 w brzmieniu: „4. W przypadku uporczywego uchylania się 
 2. W przypadku nieobecności przewodniczącego zadania przewodniczącego wykonuje jego zastępca.”;
 4) w § 6 ust. 2 otrzymuje brzmienie: „2. Przewodniczący może zapraszać na posiedzenia specjalistów z zakresu zadań podejmowanych przez Komisję, a zwłaszcza z zakresu heraldyki, weksylologii, projektowania graficznego i sztuk plastycznych.”;
 5) w § 7 dodaje się ust. 5 w brzmieniu: „5. Członek Komisji, który nie może orzekać w danej sprawie w związku z konfliktem interesów, jest zobowiązany poinformować o tym Komisję i wyłączyć się z dyskusji oraz głosowania. Fakt ten odnotowuje się w protokole posiedzenia.”;
-Dziennik Ustaw – 2 – Poz. 1664
 6) w § 10:
 a) ust. 1 otrzymuje brzmienie: „1. Członkom Komisji z tytułu udziału w posiedzeniu przysługuje wynagrodzenie w wysokości 500 zł za każdy dzień posiedzenia. Przewodniczący, a w razie jego nieobecności zastępca przewodniczącego, otrzymuje wynagrodzenie w wysokości 750 zł.”,
 b) dodaje się ust. 4 i 5 w brzmieniu: „4. Członkowi Komisji referującemu wniosek przysługuje wynagrodzenie w wysokości 500 zł za każdy omówiony wniosek.

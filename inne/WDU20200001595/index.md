@@ -8,10 +8,10 @@ pos: 1595
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 września 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1595 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 25 sierpnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1595/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 25 sierpnia 2020 r.
-w sprawie konkursu ofert oddanie w użytkowanie obwodu rybackiego Na podstawie art. 6d ust. 26 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2019 r. poz. 2168) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) wymogi dotyczące ogłoszenia o konkursie ofert oddanie w użytkowanie obwodu rybackiego, zwanym dalej „konkursem”;
+w sprawie konkursu ofert na oddanie w użytkowanie obwodu rybackiego Na podstawie art. 6d ust. 26 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2019 r. poz. 2168) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) wymogi dotyczące ogłoszenia o konkursie ofert na oddanie w użytkowanie obwodu rybackiego, zwanym dalej „konkursem”;
 2) elementy ofert i sposób ich oceny;
 3) czynności komisji konkursowej;
 4) maksymalną stawkę opłaty rocznej za 1 ha powierzchni obwodu rybackiego.
 § 2. 1. Ogłoszenie o konkursie podaje się do publicznej wiadomości w drodze:
 1) wywieszenia w siedzibie dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie, zwanego dalej „dyrektorem regionalnego zarządu”;
-2) umieszczenia stronie internetowej regionalnego zarządu gospodarki wodnej.
+2) umieszczenia na stronie internetowej regionalnego zarządu gospodarki wodnej.
 2. W ogłoszeniu o konkursie podaje się informacje o:
 1) adresie siedziby dyrektora regionalnego zarządu;
 2) nazwie i numerze obwodu rybackiego, który jest przedmiotem konkursu;
@@ -50,30 +50,30 @@ c) wzorem umowy o oddanie w użytkowanie obwodu rybackiego, zwanej dalej „umow
 1) w którym udostępnia się informacje, o których mowa w ust. 2 pkt 3, nie może być krótszy niż 3 miesiące,
 2) wniesienia wadium, o którym w ust. 2 pkt 4, nie może być krótszy niż 3 miesiące,
 3) składania ofert, o którym mowa w ust. 2 pkt 5, nie może być krótszy niż 3 miesiące,
-4) zakończenia konkursu, o którym mowa w ust. 2 pkt 7, nie może być dłuższy niż 6 miesięcy licząc od dnia wywieszenia ogłoszenia o konkursie w siedzibie dyrektora regionalnego zarządu.
+4) zakończenia konkursu, o którym mowa w ust. 2 pkt 7, nie może być dłuższy niż 6 miesięcy – licząc od dnia wywieszenia ogłoszenia o konkursie w siedzibie dyrektora regionalnego zarządu.
 4. Jeżeli przeprowadzony konkurs nie doprowadził do zawarcia umowy, dyrektor regionalnego zarządu, przeprowadzając ponownie konkurs, może wyznaczyć krótsze terminy niż określone w ust. 3, przy czym termin:
 1) w którym udostępnia się informacje, o których mowa w ust. 2 pkt 3, nie może być krótszy niż 2 miesiące,
 2) wniesienia wadium, o którym w ust. 2 pkt 4, nie może być krótszy niż 2 miesiące,
 3) składania ofert, o którym mowa w ust. 2 pkt 5, nie może być krótszy niż 2 miesiące,
-4) zakończenia konkursu, o którym mowa w ust. 2 pkt 7, nie może być dłuższy niż 4 miesiące licząc od dnia wywieszenia ogłoszenia o ponownym konkursie w siedzibie dyrektora regionalnego zarządu.
-§ 3. Dyrektor regionalnego zarządu udostępnia zainteresowanym podmiotom w swojej siedzibie oraz przez umieszczenie stronie internetowej regionalnego zarządu gospodarki wodnej aktualne informacje o:
-1) cenach materiału zarybieniowego, podstawie których jest ustalana wartość ofertowa i referencyjna materiału zarybieniowego;
+4) zakończenia konkursu, o którym mowa w ust. 2 pkt 7, nie może być dłuższy niż 4 miesiące – licząc od dnia wywieszenia ogłoszenia o ponownym konkursie w siedzibie dyrektora regionalnego zarządu.
+§ 3. Dyrektor regionalnego zarządu udostępnia zainteresowanym podmiotom w swojej siedzibie oraz przez umieszczenie na stronie internetowej regionalnego zarządu gospodarki wodnej aktualne informacje o:
+1) cenach materiału zarybieniowego, na podstawie których jest ustalana wartość ofertowa i referencyjna materiału zarybieniowego;
 2) sposobie rozliczenia obciążeń publicznoprawnych związanych z przedmiotem użytkowania oraz nakładów rzeczowych określonych w operacie rybackim;
 3) zasadach udostępniania przez uprawnionego do rybactwa wód obwodu rybackiego do celów badań naukowych, w tym w szczególności monitoringu ichtiofauny;
-4) sposobie przekazywania przez uprawnionego do rybactwa danych temat wyników prowadzonej gospodarki rybackiej w danym obwodzie rybackim;
+4) sposobie przekazywania przez uprawnionego do rybactwa danych na temat wyników prowadzonej gospodarki rybackiej w danym obwodzie rybackim;
 5) ograniczeniach związanych z korzystaniem z wód obwodu rybackiego wynikających z oddania w użytkowanie gruntów pod tymi wodami.
 § 4. 1. W konkursie mogą brać udział osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej, zdolne do czynności prawnych, jeżeli wniosą wadium w wysokości, formie, terminie i miejscu, które zostały określone w ogłoszeniu o konkursie.
 2. Wysokość wadium ustala się z uwzględnieniem kosztów związanych z przygotowaniem i przeprowadzeniem konkursu, w tym opracowaniem operatu rybackiego, a także wielkością, położeniem i typem wody w obwodzie rybackim.
 3. Wadium zwraca się niezwłocznie oferentom, z którymi nie została zawarta umowa.
 4. Wadium nie podlega zwrotowi oferentowi, który uchylił się od zawarcia umowy.
-5. Wadium wniesione przez oferenta, z którym zawarto umowę, może zostać zaliczone poczet kosztów opracowania operatu rybackiego oraz opłaty rocznej.
-§ 5. 1. Oferent składa ofertę piśmie, w zamkniętej i nieoznaczonej kopercie, za potwierdzeniem odbioru, w sposób, miejscu i terminie, które zostały określone w ogłoszeniu o konkursie.
+5. Wadium wniesione przez oferenta, z którym zawarto umowę, może zostać zaliczone na poczet kosztów opracowania operatu rybackiego oraz opłaty rocznej.
+§ 5. 1. Oferent składa ofertę na piśmie, w zamkniętej i nieoznaczonej kopercie, za potwierdzeniem odbioru, w sposób, miejscu i terminie, które zostały określone w ogłoszeniu o konkursie.
 2. Oferent może złożyć tylko jedną ofertę.
 3. Oferent jest związany ofertą do dnia zawarcia umowy.
 § 6. 1. Oferta zawiera:
 1) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres oferenta;
 2) datę jej sporządzenia;
-3) proponowane średnioroczne minimalne nakłady rzeczowo-finansowe przewidziane zarybienia, zwane dalej „nakładami rzeczowo-finansowymi”, w ujęciu rzeczowym, wskazującym gatunki materiału zarybieniowego, i finansowym, z uwzględnieniem cen, o których mowa w § 3 pkt 1;
+3) proponowane średnioroczne minimalne nakłady rzeczowo-finansowe przewidziane na zarybienia, zwane dalej „nakładami rzeczowo-finansowymi”, w ujęciu rzeczowym, wskazującym gatunki materiału zarybieniowego, i finansowym, z uwzględnieniem cen, o których mowa w § 3 pkt 1;
 4) proponowaną stawkę opłaty rocznej za dany obwód rybacki wyrażoną w dt żyta i jej równowartości pieniężnej, zwaną dalej „stawką opłaty rocznej”;
 5) wskazanie osoby, której kwalifikacje i doświadczenie zawodowe w zakresie rybactwa śródlądowego będą gwarantowały prowadzenie racjonalnej gospodarki rybackiej w obwodzie rybackim;
 6) wykaz środków trwałych i wyposażenia służącego prowadzeniu racjonalnej gospodarki rybackiej w obwodzie rybackim, w tym wylęgarni ryb lub raków, wraz z ich opisem zawierającym ilość, rodzaj, dane i stan techniczny oraz aktualne albo planowane miejsce ich położenia lub składowania.
@@ -100,13 +100,13 @@ c) wzorem umowy o oddanie w użytkowanie obwodu rybackiego, zwanej dalej „umow
 a) liczbie złożonych ofert,
 b) liczbie ofert odrzuconych z przyczyn określonych w pkt 7–10, wraz z uzasadnieniem przyczyn odrzucenia ofert,
 c) liczbie ofert przyjętych do oceny;
-12) zwraca się do jednostki uprawnionej do opiniowania operatów rybackich, zwanej dalej „jednostką uprawnioną”, z wnioskiem o przedstawienie opinii w sprawie ekonomicznie uzasadnionej wartości referencyjnej nakładów użytkowanie obwodu rybackiego, z podziałem stawkę opłaty rocznej i nakłady rzeczowo-finansowe;
+12) zwraca się do jednostki uprawnionej do opiniowania operatów rybackich, zwanej dalej „jednostką uprawnioną”, z wnioskiem o przedstawienie opinii w sprawie ekonomicznie uzasadnionej wartości referencyjnej nakładów na użytkowanie obwodu rybackiego, z podziałem na stawkę opłaty rocznej i nakłady rzeczowo-finansowe;
 13) dokonuje oceny ofert, zgodnie z art. 6d ust. 14–16 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
-14) wskazuje oferenta, którego oferta została wybrana podstawie dokonanej oceny;
+14) wskazuje oferenta, którego oferta została wybrana na podstawie dokonanej oceny;
 15) sporządza protokół z przebiegu konkursu.
-2. Czynności, o których mowa w ust. 1 pkt 1–11, komisja konkursowa wykonuje posiedzeniu jawnym, w miejscu i terminie publicznego otwarcia ofert podanych w ogłoszeniu o konkursie.
+2. Czynności, o których mowa w ust. 1 pkt 1–11, komisja konkursowa wykonuje na posiedzeniu jawnym, w miejscu i terminie publicznego otwarcia ofert podanych w ogłoszeniu o konkursie.
 § 8. 1. Jednostka uprawniona w terminie 14 dni od dnia otrzymania wniosku wydaje opinię, o której mowa w § 7 ust. 1 pkt 12, i przekazuje ją komisji konkursowej.
-2. W trakcie prac komisji konkursowej jej członkowie, a także osoby, które brały udział w wydaniu opinii, o której mowa w § 7 ust. 1 pkt 12, są zobowiązani do zachowania w tajemnicy danych i informacji, w posiadanie których wejdą odpowiednio w trakcie prac komisji konkursowej lub wydawania opinii, o której mowa w § 7 ust. 1 pkt 12, zasadach przewidzianych w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486) dla tajemnicy statystycznej.
+2. W trakcie prac komisji konkursowej jej członkowie, a także osoby, które brały udział w wydaniu opinii, o której mowa w § 7 ust. 1 pkt 12, są zobowiązani do zachowania w tajemnicy danych i informacji, w posiadanie których wejdą odpowiednio w trakcie prac komisji konkursowej lub wydawania opinii, o której mowa w § 7 ust. 1 pkt 12, na zasadach przewidzianych w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486) dla tajemnicy statystycznej.
 § 9. 1. Komisja konkursowa, dokonując oceny:
 1) przygotowania i doświadczenia zawodowego oferenta, przyznaje sumę punktów od 0 do 35 za kwalifikacje i doświadczenie zawodowe w zakresie rybactwa śródlądowego osoby, o której mowa w § 6 ust. 1 pkt 5, zgodnie ze sposobem przyznawania punktów określonym w pkt I załącznika nr 1 do rozporządzenia;
 2) wysokości zaproponowanej stawki opłaty rocznej, porównuje zaproponowaną przez oferentów stawkę opłaty rocznej wyrażoną pieniężnie z referencyjną stawką opłaty rocznej za dany obwód rybacki i przyznaje punkty od 0 do 30, z postąpieniem co 5 punktów, zgodnie z zasadą, że największa liczba punktów przypada oferentowi, który zaproponował stawkę opłaty rocznej najbliższą referencyjnej stawce tej opłaty; w przypadku gdy oferenci zaproponowali stawkę opłaty rocznej w tej samej wysokości, otrzymują tę samą liczbę punktów;
@@ -136,7 +136,7 @@ c) liczbie ofert przyjętych do oceny;
 3. Maksymalna stawka opłaty rocznej za 1 ha powierzchni obwodu rybackiego obejmującego starorzecze odpowiada maksymalnej stawce opłaty rocznej określonej w załączniku nr 2 do rozporządzenia dla rzeki lub jej odcinka, które to starorzecze utworzyły.
 4. Maksymalna stawka opłaty rocznej za 1 ha powierzchni obwodu rybackiego obejmującego rzeki, odcinki rzek, jeziora lub zbiorniki zaporowe położone w jednym obwodzie rybackim odpowiada maksymalnej stawce opłaty rocznej określonej w załączniku nr 2 do rozporządzenia dla rzeki, odcinka rzeki, jeziora lub zbiornika zaporowego, które zajmują największą część powierzchni zasadniczego obwodu rybackiego.
 § 14. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: wz. G. Witkowski do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 25 sierpnia 2020 r. (poz.…) Załącznik nr 1 I. SPOSÓB PRZYZNAWANIA PUNKTÓW ZA PRZYGOTOWANIE I DOŚWIADCZENIE ZAWODOWE OFERENTA Do obliczenia liczby punktów za przygotowanie i doświadczenie zawodowe oferenta przyjmuje się sumę punktów przyznaną za kwalifikacje i doświadczenie zawodowe w zakresie rybactwa śródlądowego wskazanej osoby, której kwalifikacje i doświadczenie zawodowe w zakresie rybactwa śródlądowego będą gwarantowały prowadzenie racjonalnej gospodarki rybackiej w obwodzie rybackim. Osobą tą jest sam oferent, w przypadku gdy oferentem jest osoba fizyczna, albo wskazana przez oferenta osoba pełniąca rolę ichtiologa, w przypadku gdy oferentem jest osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej. Łączna liczba przyznanych punktów za przygotowanie i doświadczenie zawodowe oferenta przyjmuje wartość od 0 do 35 punktów, zgodnie z poniższą tabelą.
-Przygotowanie i doświadczenie zawodowe oferenta Liczba punktów ukończone studia wyższe kierunku rybactwo 20 Kwalifikacje ukończona szkoła średnia o profilu rybackim i uzyskanie 15 zawodowe w zakresie dyplomu technika rybactwa śródlądowego rybactwa śródlądowego ukończone studia wyższe kierunku pokrewnym 15 rybactwu, w szczególności kierunku zootechnika, rolnictwo lub ochrona środowiska ze specjalizacją rybacką lub uzupełnione wykształceniem w zakresie rybactwa śródlądowego ukończone studia wyższe kierunku pokrewnym 10 rybactwu, w szczególności kierunku zootechnika, rolnictwo lub ochrona środowiska ukończona szkoła średnia o profilu pokrewnym rybactwu, 5 w szczególności zootechnicznym, rolniczym lub z zakresu ochrony środowiska brak kwalifikacji zawodowych określonych w powyższych 0 wersach Doświadczenie zawodowe w zakresie rybactwa śródlądowego 10 lat pracy lub więcej 15 więcej niż 3 lata pracy, jednak mniej niż 10 lat pracy 10 3 lata pracy lub mniej, z wyłączeniem braku 5 doświadczenia zawodowego brak doświadczenia zawodowego określonego 0 w powyższych wersach II. SPOSÓB PRZYZNAWANIA PUNKTÓW ZA GATUNKI MATERIAŁU ZARYBIENIOWEGO ZAPROPONOWANE W NAKŁADACH RZECZOWO-FINANSOWYCH Do obliczenia liczby punktów za gatunki materiału zarybieniowego zaproponowane w nakładach rzeczowo-finansowych przyjmuje się sumę punktów przyznaną za gatunki materiału zarybieniowego wskazane w ofercie, uwzględniając typ wody obwodu rybackiego, zgodnie z poniższą tabelą. Dla obwodu rybackiego, który obejmuje różne typy wód, przyznaje się liczbę punktów przypisaną gatunkom materiału zarybieniowego dla tego typu wody, który zajmuje największą część powierzchni zasadniczego obwodu rybackiego.
+Minister Gospodarki Morskiej i Żeglugi Śródlądowej: wz. G. Witkowski Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 25 sierpnia 2020 r. (poz.…) Załącznik nr 1 I. SPOSÓB PRZYZNAWANIA PUNKTÓW ZA PRZYGOTOWANIE I DOŚWIADCZENIE ZAWODOWE OFERENTA Do obliczenia liczby punktów za przygotowanie i doświadczenie zawodowe oferenta przyjmuje się sumę punktów przyznaną za kwalifikacje i doświadczenie zawodowe w zakresie rybactwa śródlądowego wskazanej osoby, której kwalifikacje i doświadczenie zawodowe w zakresie rybactwa śródlądowego będą gwarantowały prowadzenie racjonalnej gospodarki rybackiej w obwodzie rybackim. Osobą tą jest sam oferent, w przypadku gdy oferentem jest osoba fizyczna, albo wskazana przez oferenta osoba pełniąca rolę ichtiologa, w przypadku gdy oferentem jest osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej. Łączna liczba przyznanych punktów za przygotowanie i doświadczenie zawodowe oferenta przyjmuje wartość od 0 do 35 punktów, zgodnie z poniższą tabelą.
+Przygotowanie i doświadczenie zawodowe oferenta Liczba punktów ukończone studia wyższe na kierunku rybactwo 20 Kwalifikacje ukończona szkoła średnia o profilu rybackim i uzyskanie 15 zawodowe w zakresie dyplomu technika rybactwa śródlądowego rybactwa śródlądowego ukończone studia wyższe na kierunku pokrewnym 15 rybactwu, w szczególności na kierunku zootechnika, rolnictwo lub ochrona środowiska – ze specjalizacją rybacką lub uzupełnione wykształceniem w zakresie rybactwa śródlądowego ukończone studia wyższe na kierunku pokrewnym 10 rybactwu, w szczególności na kierunku zootechnika, rolnictwo lub ochrona środowiska ukończona szkoła średnia o profilu pokrewnym rybactwu, 5 w szczególności zootechnicznym, rolniczym lub z zakresu ochrony środowiska brak kwalifikacji zawodowych określonych w powyższych 0 wersach 10 lat pracy lub więcej 15 Doświadczenie więcej niż 3 lata pracy, jednak mniej niż 10 lat pracy 10 zawodowe w zakresie rybactwa śródlądowego 3 lata pracy lub mniej, z wyłączeniem braku 5 doświadczenia zawodowego brak doświadczenia zawodowego określonego 0 w powyższych wersach II. SPOSÓB PRZYZNAWANIA PUNKTÓW ZA GATUNKI MATERIAŁU ZARYBIENIOWEGO ZAPROPONOWANE W NAKŁADACH RZECZOWO-FINANSOWYCH Do obliczenia liczby punktów za gatunki materiału zarybieniowego zaproponowane w nakładach rzeczowo-finansowych przyjmuje się sumę punktów przyznaną za gatunki materiału zarybieniowego wskazane w ofercie, uwzględniając typ wody obwodu rybackiego, zgodnie z poniższą tabelą. Dla obwodu rybackiego, który obejmuje różne typy wód, przyznaje się liczbę punktów przypisaną gatunkom materiału zarybieniowego dla tego typu wody, który zajmuje największą część powierzchni zasadniczego obwodu rybackiego.
 Typ wody Gatunek materiału zarybieniowego Liczba punktów certa, głowacica, jesiotr ostronosy, lipień, łosoś, pstrąg 5 potokowy, troć wędrowna rzeka boleń, brzana, sandacz, sieja, szczupak, świnka, węgorz 4 jaź, kleń 3 miętus, okoń, sum 2 pozostałe 1 sandacz, sieja, sielawa, szczupak, troć jeziorowa, węgorz 5 jezioro karaś pospolity, lin 4 okoń 3 miętus 2 pozostałe 1 sandacz, szczupak, troć jeziorowa, węgorz 5 zbiornik zaporowy boleń 4 karaś pospolity, lin 3 jaź, kleń, sum 2 pozostałe 1
 

@@ -8,7 +8,7 @@ pos: 917
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamentalnym dobrem osobistym człowieka, a ochrona praw osób z zaburzeniami psychicznymi należy do obowiązków państwa, stanowi się, co następuje:
@@ -73,6 +73,28 @@ source: "isap-pdf"
 8. Rada Ministrów przekazuje Sejmowi Rzeczypospolitej Polskiej informację, o której mowa w ust. 7, w terminie 3 miesięcy od dnia jej przyjęcia.
 
 **Art. 3.** Ilekroć przepisy niniejszej ustawy stanowią o:
+
+- **1)** osobie z zaburzeniami psychicznymi, odnosi się to do osoby:
+    - **a)** chorej psychicznie (wykazującej zaburzenia psychotyczne),
+    - **b)** upośledzonej umysłowo,
+    - **c)** wykazującej inne zakłócenia czynności psychicznych, które zgodnie ze stanem wiedzy medycznej zaliczane są do zaburzeń psychicznych, a osoba ta wymaga świadczeń zdrowotnych lub innych form pomocy i opieki niezbędnych do życia w środowisku rodzinnym lub społecznym;
+
+- **2)** szpitalu psychiatrycznym, odnosi się to również do:
+    - **a)** oddziału psychiatrycznego w szpitalu ogólnym,
+    - **b)** kliniki psychiatrycznej,
+    - **c)** sanatorium dla osób z zaburzeniami psychicznymi,
+    - **d)** innego zakładu leczniczego podmiotu leczniczego w rozumieniu przepisów o działalności leczniczej, sprawującego całodobową opiekę psychiatryczną lub odwykową, niezależnie od podmiotu, który je tworzy i utrzymuje;
+
+- **3)** domu pomocy społecznej lub środowiskowym domu samopomocy, odnosi się to również do wszelkich form pomocy instytucjonalnej dla osób, o których mowa w pkt 1;
+- **4)** zgodzie, oznacza to swobodnie wyrażoną zgodę osoby z zaburzeniami psychicznymi, która – niezależnie od stanu jej zdrowia psychicznego – jest rzeczywiście zdolna do zrozumienia przekazywanej w dostępny sposób informacji o celu przyjęcia do szpitala psychiatrycznego, jej stanie zdrowia, proponowanych czynnościach diagnostycznych i leczniczych oraz o dających się przewidzieć skutkach tych działań lub ich zaniechania;
+- **5)** dyspozytorze medycznym, kierującym akcją prowadzenia medycznych czynności ratunkowych, zespole ratownictwa medycznego, należy przez to rozumieć odpowiednio: dyspozytora medycznego, kierującego akcją prowadzenia medycznych czynności ratunkowych, zespół ratownictwa medycznego w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2024 r. poz. 652);
+- **6)** przymusie bezpośrednim, bez wskazania środka przymusu bezpośredniego, należy przez to rozumieć:
+    - **a)** przytrzymanie – doraźne, krótkotrwałe unieruchomienie osoby z użyciem siły fizycznej,
+    - **b)** przymusowe zastosowanie leków – doraźne lub przewidziane w planie postępowania leczniczego wprowadzenie leków do organizmu osoby – bez jej zgody,
+    - **c)** unieruchomienie – obezwładnienie osoby z użyciem pasów, uchwytów, prześcieradeł lub kaftana bezpieczeństwa,
+    - **d)** izolację – umieszczenie osoby, pojedynczo, w zamkniętym i odpowiednio przystosowanym pomieszczeniu;
+
+- **7)** lekarzu psychiatrze – należy przez to rozumieć lekarza specjalistę w dziedzinie psychiatrii lub lekarza specjalistę w dziedzinie psychiatrii dzieci i młodzieży.
 
 **Art. 4.**
 
@@ -403,6 +425,10 @@ source: "isap-pdf"
 
 **Art. 18f.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
 
+- **1)** sposób dokumentowania zastosowania przymusu bezpośredniego oraz sposób dokonywania oceny zasadności jego zastosowania,
+- **2)** sposób przeprowadzania oceny stanu fizycznego osoby z zaburzeniami psychicznymi unieruchomionej lub izolowanej,
+- **3)** rodzaje i wzory dokumentów stosowanych przy wykonywaniu czynności, o których mowa w pkt 1 i 2 – uwzględniając potrzebę ochrony praw i godności osoby, wobec której jest stosowany przymus bezpośredni, oraz skutecznej oceny zasadności stosowania tego przymusu.
+
 **Art. 19.** Przewidziane w innych ustawach badanie stanu psychicznego osoby, przeprowadzane na żądanie sądu, prokuratora lub innego uprawnionego organu, powinno się odbywać w podmiotach leczniczych udzielających świadczeń zdrowotnych w zakresie psychiatrycznej opieki zdrowotnej. W razie potrzeby badanie to może być przeprowadzone w opiniodawczych zespołach sądowych specjalistów, a wyjątkowo także w miejscu zamieszkania osoby badanej.
 
 **Art. 20.** Przepisy ustawy przewidujące wymóg wyrażenia zgody przez przedstawiciela ustawowego osoby małoletniej lub osoby ubezwłasnowolnionej całkowicie stosuje się również do osoby ubezwłasnowolnionej częściowo, jeżeli wynika to z postanowienia sądu opiekuńczego o ustanowieniu kuratora.
@@ -727,6 +753,13 @@ source: "isap-pdf"
 2. Sąd ustanawia adwokata lub radcę prawnego z urzędu, jeżeli postępowanie dotyczy bezpośrednio osoby przyjmowanej do szpitala psychiatrycznego albo do domu pomocy społecznej, albo przebywającej w danym podmiocie, bez jej zgody.
 
 **Art. 49.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób postępowania w sprawach przyjęcia oraz wypisania ze szpitala psychiatrycznego,
+- **2)** wzory:
+    - **a)** skierowania do szpitala psychiatrycznego,
+    - **b)** zawiadomień kierownika szpitala psychiatrycznego oraz sądu opiekuńczego o przyjęciu do tego szpitala osoby chorej psychicznie bez jej pisemnej zgody na podstawie art. 23 ust. 1 lub osoby z zaburzeniami psychicznymi na podstawie art. 24 ust. 1,
+    - **c)** (uchylona)
+    - **d)** zawiadomień sądu opiekuńczego o wypisaniu ze szpitala psychiatrycznego oraz o pozostaniu w szpitalu psychiatrycznym za zgodą osoby przyjętej do tego szpitala – uwzględniając ochronę praw i godności osób przyjmowanych i wypisywanych ze szpitali psychiatrycznych oraz potrzebę zapewnienia sprawnego przebiegu procesu leczniczego.
 
 #### Rozdział 6 Ochrona tajemnicy
 

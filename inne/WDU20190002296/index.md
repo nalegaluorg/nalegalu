@@ -8,10 +8,10 @@ pos: 2296
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 listopada 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2296 OBWIESZCZENIE mINIStra OBrONy NarOdOWEj z dnia 30 października 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,22 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2296/text.pdf) |
 
-OBWIESZCZENIE mINIStra OBrONy NarOdOWEj z dnia 30 października 2019 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie mianowania na stopnie służbowe funkcjonariuszy Służby Wywiadu Wojskowego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie mianowania na stopnie służbowe funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1242), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającym rozporządzenie w sprawie mianowania na stopnie służbowe funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1718).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie mianowania na stopnie służbowe funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1718), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Obrony Narodowej: wz. T. Zdzikot ROZPORZĄDZENIE mINIStra OBrONy NarOdOWEj z dnia 25 września 2006 r.
-w sprawie mianowania na stopnie służbowe funkcjonariuszy Służby Wywiadu Wojskowego Na podstawie art. 37 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 1529 i 1726) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie mianowania na stopnie służbowe funkcjonariuszy Służby Wywiadu Wojskowego Na podstawie art. 37 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 1529 i 1726) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe zasady i tryb mianowania na stopnie służbowe, zwane dalej „stopniami”,
 2) wzory wniosków o mianowanie na stopnie,
-3) wzory aktów mianowania na stopnie funkcjonariuszy Służby Wywiadu Wojskowego.
+3) wzory aktów mianowania na stopnie – funkcjonariuszy Służby Wywiadu Wojskowego.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) ustawa ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego;
-2) SWW Służbę Wywiadu Wojskowego;
-3) Szef SWW Szefa Służby Wywiadu Wojskowego;
-4) funkcjonariusz funkcjonariusza SWW;
-5) przełożony kierownika jednostki organizacyjnej, zastępcę Szefa SWW;
-6) bezpośredni przełożony przełożonego zajmującego stanowisko nie niższe niż kierownika sekcji lub inne równorzędne, któremu funkcjonariusz podlega bezpośrednio.
+1) ustawa – ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego;
+2) SWW – Służbę Wywiadu Wojskowego;
+3) Szef SWW – Szefa Służby Wywiadu Wojskowego;
+4) funkcjonariusz – funkcjonariusza SWW;
+5) przełożony – kierownika jednostki organizacyjnej, zastępcę Szefa SWW;
+6) bezpośredni przełożony – przełożonego zajmującego stanowisko nie niższe niż kierownika sekcji lub inne równorzędne, któremu funkcjonariusz podlega bezpośrednio.
 § 3. 1. Wniosek o mianowanie funkcjonariusza na stopień starszego szeregowego oraz na stopień w korpusie podoficerów składa do przełożonego posiadającego uprawnienie w sprawach osobowych bezpośredni przełożony tego funkcjonariusza.
 2. Wniosek o mianowanie funkcjonariusza na stopień w korpusie chorążych składa do Szefa SWW przełożony tego funkcjonariusza.
 3. Wniosek o mianowanie funkcjonariusza na stopień w korpusie oficerów składa przełożony tego funkcjonariusza do Szefa SWW, który po zaopiniowaniu przedstawia go Ministrowi Obrony Narodowej.
@@ -54,7 +54,7 @@ w sprawie mianowania na stopnie służbowe funkcjonariuszy Służby Wywiadu Wojs
 § 5. Szef SWW może uzależnić mianowanie osoby, o której mowa w art. 36 ust. 1 ustawy, od odbycia przeszkolenia zawodowego.
 § 6. 1. Osobę:
 1) przyjmowaną do służby w SWW posiadającą stopień wojskowy, policyjny, Urzędu Ochrony Państwa, Biura Ochrony Rządu, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej lub Służby Więziennej,
-2) przyjętą do służby w SWW i posiadającą stopień Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu mianuje się na stopień w SWW z dniem mianowania na stanowisko służbowe.
+2) przyjętą do służby w SWW i posiadającą stopień Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu – mianuje się na stopień w SWW z dniem mianowania na stanowisko służbowe.
 2. W przypadku gdy mianowanie, o którym mowa w ust. 1 pkt 1, zostało uzależnione od odbycia przeszkolenia zawodowego wymaganego w SWW, mianowanie na stopień następuje niezwłocznie po odbyciu tego przeszkolenia.
 § 7. Mianowania funkcjonariusza na stopień w korpusie podoficerów i chorążych dokonuje się po spełnieniu warunków, o których mowa w art. 27 ustawy.
 § 8. Mianowania funkcjonariusza na pierwszy stopień oficerski dokonuje się po spełnieniu warunków, o których mowa w art. 28 ustawy.
@@ -82,10 +82,11 @@ WZÓR …………………………….
 ………………………………………. ……………………………………….
 ………………………………………. ……………………………………….
 …………………………………………………………………………………… …………………………………………………………………………………… …………………………………………………………………………………… ……………………………. …………………………….
-________ …………………………….
+________ WZÓR …………………………….
 ……………………………. …………………………….
-__________ WZÓR WZÓR AKT MIANOWANIA NA STOPIEŃ W SŁUŻBIE WYWIADU WOJSKOWEGO RZECZPOSPOLITA POLSKA AKT MIANOWANIA NA STOPIEŃ W SŁUŻBIE WYWIADU WOJSKOWEGO Na podstawie art. .... * ustawy z dnia 9 czerwca 2006 r.
-o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 1529, z późn. zm.) ** Rozkazem personalnym ................... z dnia .................... .
+__________ DzieDnznieinkn Uiks Utaswta wN r 173 - 8965 – 7 – - Poz. Poz. 2296 1242 WZÓR WZÓR AKT AKT MIANOWANIA MIANOWANIA NA NA PIERWSZY PIERWSZY STOPIEŃ STOPIEŃ OFICERSKI OFICERSKI W W SŁUŻBIE SŁUŻBIE WYWIADU WYWIADU WOJSKOWEGO WOJSKOWEGO RZECZPOSPOLITA POLSKA AKT MIANOWANIA NA PIERWSZY STOPIEŃ OFICERSKI W SŁUŻBIE WYWIADU WOJSKOWEGO Na podstawie art. 28 ustawy z dnia 9 czerwca 2006 r.
+o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 1529, z późn. zm.) PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ Postanowieniem nr ..................... z dnia .........................
+PODPORUCZNIKA DzieDnznieinkn Uiks Utaswtaw N r 173 - 8–9 86 6– - Poz. Poz. 2296 1242 WZÓR WZÓR AKT AKT MIANOWANIA MIANOWANIA NA NA STOPIEŃ STOPIEŃ W W SŁUŻBIE SŁUŻBIE WYWIADU WYWIADU WOJSKOWEGO WOJSKOWEGO RZECZPOSPOLITA POLSKA AKT MIANOWANIA NA STOPIEŃ W SŁUŻBIE WYWIADU WOJSKOWEGO Na podstawie art. .... * ustawy z dnia 9 czerwca 2006 r.
+o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 1529, z późn. zm.) ** Rozkazem personalnym ................... z dnia .....................
 mianował na stopień z dniem ........................................................................................ .
-WZÓR AKT MIANOWANIA NA STOPIEŃ W SŁUŻBIE WYWIADU WOJSKOWEGO
 

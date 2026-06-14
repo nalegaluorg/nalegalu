@@ -8,7 +8,7 @@ pos: 675
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo o miarach
@@ -28,6 +28,93 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/675/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 106h w ust. 2 wyrazy „fakturą emitowaną” zastępuje się wyrazami „fakturą wystawianą”;
+- **2)** użyte w art. 111 w ust. 1, w ust. 2 w zdaniu pierwszym, w ust. 3, w ust. 3a we wprowadzeniu do wyliczenia, w ust. 7a w pkt 3 i 4 i w ust. 8 w pkt 4 i 5 oraz w art. 127 w ust. 1 w pkt 2 wyrazy „obrót i kwota podatku należnego”, w różnej liczbie i różnym przypadku, zastępuje się użytym w odpowiednim przypadku wyrazem „sprzedaż”;
+- **3)** w art. 111:
+    - **a)** uchyla się ust. 1a,
+    - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W ewidencji, o której mowa w ust. 1, wykazuje się dane o sprzedaży, zawarte w dokumentach wystawianych przy zastosowaniu kas rejestrujących, w tym określające przedmiot opodatkowania, wysokość podstawy opodatkowania i podatku należnego oraz dane służące identyfikacji poszczególnych sprzedaży, w tym numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku albo podatku od wartości dodanej.”,
+    - **c)** w ust. 3a: – pkt 4 otrzymuje brzmienie: „4) poddawać kasy rejestrujące w terminach określonych w przepisach wydanych na podstawie ust. 7a pkt 4 obowiązkowemu przeglądowi technicznemu przez właściwy podmiot prowadzący serwis kas rejestrujących;”, – uchyla się pkt 5, – pkt 8 otrzymuje brzmienie: „8) dokonywać wydruku dokumentów wystawianych przy zastosowaniu kasy rejestrującej;”, – uchyla się pkt 10, – w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 i 13 w brzmieniu: „12) zapewnić połączenie umożliwiające przesyłanie danych między kasą rejestrującą a Centralnym Repozytorium Kas, określone w art. 111a ust. 3;
+
+- **13)** zakończyć używanie kas rejestrujących w przypadku zakończenia działalności gospodarczej lub pracy kas rejestrujących, zapewniając zabezpieczenie danych z kasy rejestrującej.”, 3ab. W przypadku gdy z przyczyn niezależnych od podatnika nie jest możliwe zapewnienie połączenia, o którym mowa w art. 111a ust. 3:
+    - **d)** po ust. 3a dodaje się ust. 3aa i 3ab w brzmieniu: „3aa. Wykonanie obowiązku, o którym mowa w ust. 3a pkt 4, stwierdza się na podstawie wpisu wyniku przeglądu technicznego w książce kasy rejestrującej i zapisu daty dokonania tego przeglądu w Centralnym Repozytorium Kas.
+
+- **1)** czasowo – podatnik jest obowiązany prowadzić ewidencję sprzedaży i zapewnić to połączenie niezwłocznie po ustaniu tych przyczyn;
+- **2)** trwale – podatnik jest obowiązany prowadzić ewidencję sprzedaży i za zgodą naczelnika urzędu skarbowego zapewnić to połączenie w ustalonych z naczelnikiem urzędu skarbowego odstępach czasowych.”,
+    - **e)** ust. 3b i 3c otrzymują brzmienie: „3b. Podatnicy prowadzący ewidencję sprzedaży, u których podstawą opodatkowania jest kwota prowizji lub inna postać wynagrodzenia za wykonywane usługi w ramach umowy agencyjnej, zlecenia, pośrednictwa lub innej umowy o podobnym charakterze albo marża, ewidencjonują na potrzeby obliczenia osiąganej przez nich wysokości podstawy opodatkowania i podatku należnego całą wartość sprzedaży własnej oraz prowadzonej na rzecz lub w imieniu innych podatników.
+
+3c. Do prowadzenia ewidencji sprzedaży mogą być stosowane wyłącznie kasy rejestrujące, które zostały nabyte w okresie obowiązywania potwierdzenia, o którym mowa w ust. 6b, z uwzględnieniem ust. 3d.”,
+
+- **f)** po ust. 3c dodaje się ust. 3ca w brzmieniu: „3ca. Podatnicy mogą używać kas rejestrujących, o których mowa w ust. 6a, do prowadzenia ewidencji sprzedaży, na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze, gdy zostały one nabyte odpowiednio przez wynajmującego, wydzierżawiającego, leasingodawcę lub drugą stronę innej umowy o podobnym charakterze, w okresie obowiązywania potwierdzenia, o którym mowa w ust. 6b, z uwzględnieniem ust. 3d.”,
+- **g)** ust. 4–6c otrzymują brzmienie: „4. Podatnicy, u których:
+- **1)** powstał obowiązek prowadzenia ewidencji sprzedaży i którzy w obowiązujących terminach rozpoczęli prowadzenie ewidencji sprzedaży przy zastosowaniu kas rejestrujących, o których mowa w ust. 6a,
+- **2)** nie powstał obowiązek prowadzenia ewidencji sprzedaży i którzy rozpoczęli prowadzenie ewidencji sprzedaży przy zastosowaniu kas rejestrujących, o których mowa w ust. 6a, oraz dotychczas nie używali kas rejestrujących lub kas, o których mowa w art. 145a ust. 1, do prowadzenia ewidencji sprzedaży – mają prawo do odliczenia od podatku należnego kwoty wydanej na zakup każdej z kas rejestrujących, w wysokości 90% jej ceny zakupu (bez podatku), nie więcej jednak niż 700 zł, a w przypadku gdy kwota ta jest w okresie rozliczeniowym wyższa od kwoty podatku należnego, mają prawo do zwrotu ich różnicy na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, lub do odliczenia od podatku należnego tej różnicy za następne okresy rozliczeniowe, pod warunkiem że zakup kas rejestrujących nastąpił nie później niż w terminie 6 miesięcy od dnia rozpoczęcia prowadzenia tej ewidencji.
+
+5. W przypadku gdy podatnicy, o których mowa w ust. 4, wykonują wyłącznie czynności zwolnione od podatku lub są podatnikami, u których sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9, urząd skarbowy dokonuje zwrotu kwoty określonej w ust. 4 na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, w terminie do 25. dnia od dnia złożenia wniosku przez podatnika.
+
+6. Podatnicy są obowiązani do zwrotu odliczonych lub zwróconych im kwot wydanych na zakup kas rejestrujących, w przypadku gdy w okresie 3 lat od dnia rozpoczęcia prowadzenia ewidencji sprzedaży zakończą działalność gospodarczą lub nie poddadzą kas rejestrujących w terminach określonych w przepisach wydanych na podstawie ust. 7a pkt 4 obowiązkowemu przeglądowi technicznemu przez właściwy podmiot prowadzący serwis, a także w innych przypadkach określonych w przepisach wydanych na podstawie ust. 7 pkt 2.
+
+6a. Kasa rejestrująca musi zapewniać prawidłowe zaewidencjonowanie, przechowywanie i bezpieczne przesyłanie danych z kasy rejestrującej na zewnętrzne nośniki danych oraz umożliwiać połączenie i przesyłanie danych między kasą rejestrującą a Centralnym Repozytorium Kas, określone w art. 111a ust. 3. Pamięć fiskalna kasy rejestrującej musi posiadać numer unikatowy nadawany w drodze czynności materialno-technicznych przez ministra właściwego do spraw finansów publicznych.
+
+6b. Producenci krajowi i podmioty dokonujące wewnątrzwspólnotowego nabycia lub importu kas rejestrujących w celu wprowadzenia ich na terytorium kraju do obrotu są obowiązani do uzyskania dla danego typu kas rejestrujących potwierdzenia Prezesa Głównego Urzędu Miar, że kasy te spełniają funkcje wymienione w ust. 6a i wymagania techniczne dla kas rejestrujących.
+
+6c. Potwierdzenie, o którym mowa w ust. 6b, wydaje się na czas określony. Potwierdzenie to może być cofnięte w przypadku wprowadzenia do obrotu kas rejestrujących:
+
+- **1)** niespełniających funkcji wymienionych w ust. 6a lub wymagań technicznych dla kas rejestrujących, lub
+- **2)** niezgodnych z egzemplarzem wzorcowym kasy rejestrującej lub dokumentami dołączanymi do wniosku o wydanie tego potwierdzenia.”,
+    - **h)** ust. 6e i 6f otrzymują brzmienie: „6e. Spełnienie funkcji wymienionych w ust. 6a i wymagań technicznych dla kas rejestrujących stwierdza się na podstawie wyników badań wykonywanych przez Prezesa Głównego Urzędu Miar, potwierdzonych sprawozdaniem.
+
+6f. W przypadku stwierdzenia na podstawie badań, że dany typ kas rejestrujących nie spełnia określonych funkcji wymienionych w ust. 6a lub wymagań technicznych dla kas rejestrujących, Prezes Głównego Urzędu Miar odmawia wydania potwierdzenia, o którym mowa w ust. 6b.”,
+
+- **i)** po ust. 6f dodaje się ust. 6fa w brzmieniu: „6fa. W przypadku zmiany programu pracy kasy rejestrującej Prezes Głównego Urzędu Miar zmienia, w drodze decyzji, potwierdzenie, o którym mowa w ust. 6b. Przepisy ust. 6b, ust. 6d pkt 2, ust. 6e i 6f stosuje się odpowiednio.”,
+- **j)** w ust. 6g pkt 2 otrzymuje brzmienie: „2) zamieszczania w dokumentach obowiązkowo dołączanych do kasy rejestrującej przy wprowadzaniu jej do obrotu deklaracji, według wzoru określonego w przepisach wydanych na podstawie ust. 9 pkt 6, o spełnieniu przez dostarczaną kasę funkcji wymienionych w ust. 6a i wymagań technicznych dla kas rejestrujących oraz zgodności z egzemplarzem wzorcowym kasy, która była podstawą do wydania potwierdzenia, o którym mowa w ust. 6b.”,
+- **k)** ust. 6j i 6k otrzymują brzmienie: „6j. W przypadku gdy do obrotu wprowadzono kasę rejestrującą, która wbrew deklaracji, o której mowa w ust. 6g pkt 2, nie spełnia funkcji wymienionych w ust. 6a lub wymagań technicznych dla kas rejestrujących, lub do której nie dołączono takiej deklaracji, naczelnik urzędu skarbowego nakłada, w drodze decyzji, na producenta krajowego, podmiot dokonujący wewnątrzwspólnotowego nabycia lub importu kasy rejestrującej albo inny podmiot wprowadzający do obrotu tę kasę karę pieniężną w wysokości 5000 zł.
+
+6k. Podstawą do wydania decyzji, o której mowa w ust. 6j, w zakresie wymaganych funkcji wymienionych w ust. 6a i wymagań technicznych dla kas rejestrujących jest opinia Prezesa Głównego Urzędu Miar, która zawiera opis braków w zakresie spełnienia tych funkcji lub wymagań technicznych.”,
+
+- **l)** po ust. 6k dodaje się ust. 6ka w brzmieniu: „6ka. W przypadku gdy podatnik nie podda kasy rejestrującej w terminach określonych w przepisach wydanych na podstawie ust. 7a pkt 4 obowiązkowemu przeglądowi technicznemu przez właściwy podmiot prowadzący serwis, naczelnik urzędu skarbowego nakłada, w drodze decyzji, na podatnika karę pieniężną w wysokości 300 zł.”,
+- **m)** ust. 6l otrzymuje brzmienie: „6l. Wpływy z kar pieniężnych, o których mowa w ust. 6j i 6ka, stanowią dochód budżetu państwa. Karę pieniężną uiszcza się, bez wezwania naczelnika urzędu skarbowego, na rachunek bankowy właściwego urzędu skarbowego w terminie 14 dni od dnia doręczenia decyzji, o której mowa w ust. 6j i 6ka.”,
+- **n)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia:
+- **1)** określi warunki, sposób i tryb odliczania od podatku należnego lub zwrotu kwot, o których mowa w ust. 4 i 5, uwzględniając obowiązki podatników związane ze składaniem deklaracji podatkowej oraz przeciwdziałanie nadużyciom związanym z odliczeniem albo zwrotem tych kwot;
+- **2)** określi warunki i tryb zwrotu przez podatnika kwot, o których mowa w ust. 6, oraz inne przypadki naruszenia warunków związanych z ich odliczeniem albo zwrotem, powodujące konieczność dokonania przez podatnika zwrotu, uwzględniając okres używania kas rejestrujących, przestrzeganie przez podatników obowiązków związanych z używaniem tych kas oraz konieczność zapewnienia kontroli realizacji nałożonego na podatników obowiązku zwrotu odliczonych albo zwróconych im kwot wydanych na zakup kas rejestrujących w przypadku naruszenia warunków związanych z odliczeniem albo zwrotem tych kwot;
+- **3)** może podwyższyć wysokość odliczenia lub zwrotu kwoty wydanej na zakup kas rejestrujących, uwzględniając wydatki związane z ich zakupem.”,
+    - **o)** w ust. 7a: – pkt 1 otrzymuje brzmienie: „1) sposób prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących, w tym kas o zastosowaniu specjalnym dla danego rodzaju czynności, oraz warunki i sposób używania kas rejestrujących, w tym sposób zakończenia używania kas w przypadku zakończenia działalności gospodarczej lub pracy tych kas, szczególne przypadki i sposób wystawiania dokumentów w postaci innej niż wydruk przy zastosowaniu kas rejestrujących oraz rodzaje dokumentów składanych w związku z używaniem kas rejestrujących, sposób ich składania oraz wzory tych dokumentów, uwzględniając potrzebę właściwego prowadzenia ewidencji sprzedaży przy zastosowaniu kas rejestrujących przez podatników, o których mowa w ust. 1, oraz potrzebę przeciwdziałania nieewidencjonowaniu sprzedaży przy zastosowaniu tych kas przez podatników, jak również zapewnienia kontroli prawidłowości rozliczania podatku i prawidłowości końcowego rozliczenia pracy kas rejestrujących;”, – uchyla się pkt 2,
+    - **p)** w ust. 8: – w pkt 2 wyraz „obrotu” zastępuje się wyrazem „sprzedaży”, – w pkt 7 wyraz „obrotu” zastępuje się wyrazem „sprzedaży”,
+    - **q)** ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** wymagania techniczne dla kas rejestrujących dotyczące:
+    - **a)** rodzajów kas rejestrujących,
+    - **b)** konstrukcji kas rejestrujących,
+    - **c)** zapisu i przechowywania danych w pamięciach kas rejestrujących,
+    - **d)** dokumentów wystawianych przy zastosowaniu kas rejestrujących,
+    - **e)** pracy kas rejestrujących, w tym połączenia i przesyłania danych między kasami rejestrującymi a Centralnym Repozytorium Kas, określonych w art. 111a ust. 3, oraz fiskalizacji kas rejestrujących,
+    - **f)** kas rejestrujących o zastosowaniu specjalnym,
+
+- **2)** rodzaje danych zawartych we wniosku o wydanie potwierdzenia, o którym mowa w ust. 6b, oraz rodzaje dokumentów, w tym oświadczeń, i urządzeń, w tym kas rejestrujących wzorcowych do badań, niezbędnych do wydania potwierdzenia, w tym dołączanych do wniosku o wydanie potwierdzenia,
+- **3)** okres, na który jest wydawane potwierdzenie, o którym mowa w ust. 6b,
+- **4)** zakres badań kasy rejestrującej oraz rodzaje danych zawartych w sprawozdaniu z badań kasy rejestrującej,
+- **5)** sposób oznaczania pamięci fiskalnej kas rejestrujących numerami unikatowymi oraz warunki ich przydzielania,
+- **6)** rodzaje dokumentów dołączanych do kasy rejestrującej przy wprowadzaniu jej do obrotu oraz wzór deklaracji, o której mowa w ust. 6g pkt 2 – uwzględniając potrzebę przeciwdziałania nieewidencjonowaniu lub nieprawidłowemu prowadzeniu ewidencji sprzedaży przez podatników oraz zabezpieczenia zaewidencjonowanych danych, a także bezpiecznego przesyłania tych danych między kasą a Centralnym Repozytorium Kas, konieczność zapewnienia nabywcy prawa do otrzymania dowodu nabycia towarów i usług z uwidocznioną kwotą podatku oraz możliwość sprawdzenia przez niego prawidłowości zaewidencjonowania sprzedaży i wystawiania dowodu potwierdzającego jej dokonanie oraz optymalne dla danego rodzaju sprzedaży rozwiązania techniczne dotyczące konstrukcji kas rejestrujących, jak również celowość systematycznej aktualizacji i weryfikacji wydanych potwierdzeń, o których mowa w ust. 6b.”;
+- **4)** po art. 111 dodaje się art. 111a i art. 111b w brzmieniu: „Art. 111a. 1. Szef Krajowej Administracji Skarbowej prowadzi Centralne Repozytorium Kas, formułuje polecenia do kas rejestrujących i jest administratorem danych w nim zawartych.
+
+2. Centralne Repozytorium Kas jest systemem teleinformatycznym służącym do:
+
+- **1)** odbierania i gromadzenia danych z kas rejestrujących, które obejmują:
+    - **a)** dane o sprzedaży wykazane w prowadzonej ewidencji, o której mowa w art. 111 ust. 1,
+    - **b)** dane o zdarzeniach zapisywanych w pamięciach kas rejestrujących, mających znaczenie dla pracy kas rejestrujących, które wystąpiły podczas używania tych kas, w tym o fiskalizacji kasy, zmianach stawek podatku, zmianach adresu punktu sprzedaży i datach dokonania przeglądów technicznych;
+
+- **2)** analizy i kontroli danych z kas rejestrujących;
+- **3)** przesyłania poleceń do kas rejestrujących, dotyczących pracy kas.
+
+3. Kasy rejestrujące łączą się z Centralnym Repozytorium Kas za pośrednictwem sieci telekomunikacyjnej w sposób, który zapewnia:
+
+- **1)** przesyłanie danych z kas rejestrujących do Centralnego Repozytorium Kas w sposób bezpośredni, ciągły, zautomatyzowany lub na żądanie Szefa Krajowej Administracji Skarbowej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej;
+- **2)** przesyłanie poleceń z Centralnego Repozytorium Kas do kas rejestrujących, dotyczących pracy kas, i ich odbiór przez te kasy:
+    - **a)** związanych z fiskalizacją kasy rejestrującej,
+    - **b)** obejmujących określenie: – sposobu i zakresu przesyłania danych z tej kasy, – sposobu pracy kasy rejestrującej,
+    - **c)** zapewniających prawidłowość pracy kasy rejestrującej.
+
+4. Szef Krajowej Administracji Skarbowej udostępnia dane z kas rejestrujących zgromadzone w Centralnym Repozytorium Kas ministrowi właściwemu do spraw finansów publicznych, dyrektorom izb administracji skarbowej, naczelnikom urzędów skarbowych i naczelnikom urzędów celno-skarbowych, w zakresie niezbędnym do wykonywania obowiązków ustawowych.
 
 **Art. 111b.**
 
@@ -134,6 +221,9 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2019 r. poz. 541) w art. 24:
 
+- **1)** w ust. 2 pkt 12 otrzymuje brzmienie: „12) wydanie, zmianę albo odmowę wydania potwierdzenia, o którym mowa odpowiednio w art. 111 ust. 6b i art. 145a ust. 6 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ), oraz umorzenie postępowania wszczętego z wniosku o wydanie potwierdzenia.”;
+- **2)** ust. 2b otrzymuje brzmienie: „2b. Wysokość opłaty, o której mowa w ust. 2 pkt 12, ustala się na podstawie stawki za godzinę pracy pracowników Głównego Urzędu Miar i oblicza się według tej stawki, pomnożonej przez liczbę godzin przeznaczonych na wykonanie czynności związanych z wydaniem, zmianą albo odmową wydania potwierdzenia określonego odpowiednio w art. 111 ust. 6b i art. 145a ust. 6 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, albo umorzeniem postępowania wszczętego z wniosku o wydanie potwierdzenia.”.
+
 **Art. 3.** Tworzy się Centralne Repozytorium Kas.
 
 **Art. 4.**
@@ -151,6 +241,9 @@ source: "isap-pdf"
 **Art. 7.** Do zdarzeń polegających na wprowadzeniu do obrotu kasy rejestrującej, która wbrew deklaracji, o której mowa w art. 111 ust. 6g pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, nie spełnia funkcji, kryteriów lub warunków technicznych dla kas rejestrujących, lub do której nie dołączono takiej deklaracji, zaistniałych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 111 ust. 6j ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
 **Art. 8.** Potwierdzenia o spełnieniu funkcji, kryteriów i warunków technicznych dla kas rejestrujących przez:
+
+- **1)** kasy rejestrujące z elektronicznym zapisem kopii – zachowują moc przez okres, na który zostały wydane, nie dłużej jednak niż do dnia 31 grudnia 2022 r.;
+- **2)** kasy rejestrujące z papierowym zapisem kopii – zachowują moc przez okres, na który zostały wydane, nie dłużej jednak niż do dnia 31 sierpnia 2019 r.
 
 **Art. 8a.** Okres obowiązywania potwierdzeń o spełnieniu funkcji, kryteriów i warunków technicznych dla kas rejestrujących przez kasy rejestrujące z elektronicznym zapisem kopii o zastosowaniu specjalnym, który kończy się z dniem 31 grudnia 2022 r. zgodnie z art. 145a ust. 7 pkt 1 ustawy zmienianej w art. 1 (w brzmieniu z dnia 1 maja 2019 r., Dz. U. z 2019 r. poz. 675) oraz art. 8, przedłuża się z mocy prawa do dnia 31 grudnia 2023 r.
 

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej.*
 
 Łącznie: **49** orzeczeń
-(pominięto 71 orzeczeń sądów rejonowych)
+(pominięto 72 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

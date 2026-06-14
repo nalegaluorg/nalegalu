@@ -8,10 +8,10 @@ pos: 662
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 maja 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 662 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 9 maja 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/662/text.pdf) |
 
-Poz. 662 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 9 maja 2014 r.
 w sprawie określenia siedzib i obszarów właściwości sądów wojskowych Na podstawie art. 3 § 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r.
-poz. 952, z późn. zm. ) zarządza się, co następuje: § 1. 1. Określa się siedziby i obszary właściwości wojskowych sądów okręgowych:
+poz. 952, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Określa się siedziby i obszary właściwości wojskowych sądów okręgowych:
 1) Wojskowy Sąd Okręgowy w Poznaniu – dla województw objętych właściwością wojskowych sądów garnizonowych w Gdyni, Poznaniu, Szczecinie i Wrocławiu;
 2) Wojskowy Sąd Okręgowy w Warszawie – dla województw objętych właściwością wojskowych sądów garnizonowych w Lublinie, Olsztynie i Warszawie.
 2. Określa się siedziby i obszary właściwości wojskowych sądów garnizonowych:

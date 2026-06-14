@@ -8,7 +8,7 @@ pos: 1322
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Agencji Mienia Wojskowego
@@ -32,6 +32,19 @@ Art. 102–119. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania, zasady działalności oraz organizację Agencji Mienia Wojskowego, zwanej dalej „Agencją”;
+- **2)** zasady i tryb gospodarowania mieniem Skarbu Państwa powierzonym Agencji, w tym mieniem:
+    - **a)** będącym do dnia jego przekazania Agencji w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo ministrowi właściwemu do spraw wewnętrznych lub przez nich nadzorowanych, a także innym mieniem będącym we władaniu tych jednostek oraz dobrami niematerialnymi o charakterze majątkowym, niewykorzystywanym do realizacji ich zadań,
+    - **b)** przekazanym pozostałym po likwidacji państwowych osób prawnych, dla których organem założycielskim lub organem nadzoru był Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych;
+
+- **3)** zasady i tryb gospodarowania mieniem Skarbu Państwa przekazanym Agencji:
+    - **a)** na podstawie umowy użyczenia lub decyzji właściwego ministra,
+    - **b)** w celu zbycia albo nieodpłatnego przekazania tego mienia siłom zbrojnym państw obcych;
+
+- **4)** zasady gospodarki mieszkaniowej i internatowej oraz przebudowy i remontów zasobów mieszkaniowych i internatowych, o których mowa w ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270);
+- **5)** zadania realizowane przez Agencję w zakresie obrotu towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa na zasadach i w trybie określonych w ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582);
+- **6)** zasady i tryb gospodarowania niektórymi składnikami mienia Skarbu Państwa bez pośrednictwa Agencji.
 
 **Art. 2.** Mienie, o którym mowa w art. 1 pkt 2 i 3, obejmuje wszystkie prawa majątkowe i niemajątkowe przekazane Agencji na zasadach i w trybie określonych w ustawie.
 
@@ -161,6 +174,10 @@ Art. 102–119. (pominięte)
 4. Przekazanie przez Agencję do użytkowania urzędowi obsługującemu Ministra Obrony Narodowej i jednostkom organizacyjnym podległym Ministrowi Obrony Narodowej przedmiotu dostaw i usług, o których mowa w ust. 3, następuje na podstawie umowy określającej zasady korzystania z przedmiotu umowy oraz zasady płatności, z uwzględnieniem wydatkowanych przez Ministra Obrony Narodowej środków finansowych na nabycie przedmiotu dostaw i usług.
 
 **Art. 10.** Organami Agencji są:
+
+- **1)** Prezes Agencji;
+- **2)** Rada Nadzorcza;
+- **3)** dyrektorzy oddziałów regionalnych Agencji.
 
 **Art. 11.**
 
@@ -453,7 +470,30 @@ Art. 102–119. (pominięte)
 
 **Art. 33.** Agencja tworzy następujące fundusze:
 
+- **1)** fundusze własne:
+    - **a)** fundusz zasobowy będący kapitałem zakładowym – w wartości mienia Skarbu Państwa, o którym mowa w art. 1 pkt 2, przekazanego Agencji do zagospodarowania,
+    - **b)** fundusz rezerwowy – tworzony z zysku netto Agencji;
+
+- **2)** fundusze specjalne:
+    - **a)** fundusz remontowy – tworzony w wartości odpisów na fundusz remontowy odnoszonych w ciężar kosztów,
+    - **b)** inne fundusze.
+
 **Art. 34.** Fundusz zasobowy ulega:
+
+- **1)** zwiększeniu o:
+    - **a)** wartość mienia Skarbu Państwa, o którym mowa w art. 1 pkt 2, przekazanego Agencji do zagospodarowania na podstawie art. 44 oraz innego mienia przekazanego Agencji,
+    - **b)** skutki aktualizacji wartości aktywów znajdujących odzwierciedlenie w funduszu zasobowym,
+    - **c)** wartość mienia powstałego w wyniku realizacji zadań własnych i zleconych sfinansowanych z funduszu rezerwowego,
+    - **d)** wartość inwestycji i zakupów środków trwałych sfinansowanych z dotacji budżetowych,
+    - **e)** wartość zysku netto Agencji po podziale wyniku finansowego,
+    - **f)** wartość rozwiązanych odpisów z tytułu trwałej utraty wartości składników mienia, w tym akcji lub udziałów w spółkach i społecznych inicjatywach mieszkaniowych, stanowiących własność Skarbu Państwa, w przypadku ustania przyczyny, dla której ich dokonano;
+
+- **2)** zmniejszeniu o:
+    - **a)** wartość mienia stanowiącego własność Skarbu Państwa – sprzedanego, zlikwidowanego albo przekazanego, w tym nieodpłatnie, przez Agencję, w tym wartość umorzonych akcji lub udziałów,
+    - **b)** skutki aktualizacji wartości aktywów znajdujących odzwierciedlenie w funduszu zasobowym,
+    - **c)** umorzenia składników majątkowych zaliczonych do aktywów trwałych stanowiących własność Skarbu Państwa,
+    - **d)** wartość odpisów z tytułu trwałej utraty wartości składników mienia, w tym akcji lub udziałów w spółkach i społecznych inicjatywach mieszkaniowych, stanowiących własność Skarbu Państwa,
+    - **e)** pokrycie straty netto Agencji przewyższającej kwotę funduszu rezerwowego.
 
 **Art. 35.**
 
@@ -496,6 +536,12 @@ Art. 102–119. (pominięte)
 **Art. 39.** Agencja może zaciągać kredyty po uzyskaniu zgody Ministra Obrony Narodowej wydanej w porozumieniu z ministrem właściwym do spraw finansów publicznych.
 
 **Art. 40.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, sposób prowadzenia gospodarki finansowej Agencji, w tym:
+
+- **1)** sposób i tryb sporządzania planów finansowych,
+- **2)** sposób i tryb dokonywania zmian w planach finansowych,
+- **3)** sposób realizacji planów finansowych, dokonywania rozliczeń wewnętrznych oraz zaciągania zobowiązań,
+- **4)** sposób rozliczania kosztów działalności,
+- **5)** sposób gospodarowania środkami finansowymi – biorąc pod uwagę potrzebę przestrzegania zasad celowego i oszczędnego dokonywania wydatków oraz terminowej realizacji zadań.
 
 **Art. 41.**
 
@@ -647,6 +693,17 @@ Art. 102–119. (pominięte)
 3. Do sposobu i trybu przekazywania mienia w użyczenie Agencji stosuje się odpowiednio przepisy art. 44 ust. 1 i 3 oraz art. 46–48.
 
 **Art. 51.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb przekazywania mienia do zagospodarowania albo w użyczenie, w tym:
+
+- **1)** szczegółowy zakres planu przekazywania mienia, sposób i tryb jego opracowywania, uzgadniania i zatwierdzania,
+- **2)** tryb dokonywania korekt planu przekazywania mienia oraz ich uzgadniania i zatwierdzania,
+- **3)** sposób ustalania w protokołach zdawczo-odbiorczych:
+    - **a)** wartości przekazywanego mienia,
+    - **b)** kosztów rekultywacji środowiska,
+    - **c)** kosztów odkażania i dezaktywacji skażonego mienia,
+    - **d)** kosztów rozbiórki obiektów budowlanych, które ze względów technicznych nie nadają się do dalszego użytkowania,
+    - **e)** kosztów przejęcia kompleksu magazynowego,
+
+- **4)** elementy, które powinien zawierać protokół zdawczo-odbiorczy – uwzględniając zasady prawidłowej ewidencji mienia.
 
 **Art. 52.**
 
@@ -941,6 +998,12 @@ Art. 102–119. (pominięte)
 
 **Art. 75.** Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób gospodarowania lokalami mieszkalnymi przez Agencję, w tym:
 
+- **1)** zakres remontów, konserwacji i napraw lokali mieszkalnych, które obciążają Agencję, oraz zakres konserwacji, napraw i wymiany, których Agencja nie wykonuje w lokalach mieszkalnych, z uwzględnieniem podziału na kwatery, kwatery internatowe i inne lokale mieszkalne oraz tytułów prawnych do tych lokali;
+- **2)** sposób i tryb dokonywania remontów i ich odbioru, zapewniając sprawność postępowania;
+- **3)** sposób ustalania zużycia wyposażenia i urządzeń technicznych w lokalu mieszkalnym oraz normy tego zużycia, kwalifikujące do naprawy lub wymiany, z uwzględnieniem podziału na kwatery, kwatery internatowe i inne lokale mieszkalne;
+- **4)** sposób ustalania kosztów remontów kwater albo lokali mieszkalnych nieprzeznaczonych na kwatery internatowe, uwzględniając sposób sporządzania kosztorysu inwestorskiego;
+- **5)** wzór protokołu przekazania i przyjęcia oraz opróżnienia lokalu mieszkalnego, uwzględniając uproszczony charakter wzoru tego dokumentu oraz możliwości dokonania odpowiednich rozliczeń przy opróżnianiu lokalu mieszkalnego, a także zapewniając sprawność postępowania.
+
 **Art. 76.**
 
 1. Lokale mieszkalne, w stosunku do których Agencja wykonuje w imieniu Skarbu Państwa prawo własności lub inne prawa rzeczowe, mogą być zbywane, pod rygorem nieważności, wyłącznie na zasadach określonych w niniejszej ustawie.
@@ -1009,6 +1072,13 @@ Art. 102–119. (pominięte)
 
 **Art. 83.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób i tryb sprzedaży lokali mieszkalnych, w tym:
 
+- **1)** sposób i tryb zawiadamiania osób uprawnionych do nabycia o przeznaczeniu zajmowanych przez nie lokali mieszkalnych do sprzedaży,
+- **2)** dokumenty potwierdzające uprawnienia do stosowania pomniejszeń, o których mowa w art. 79 ust. 2,
+- **3)** sporządzanie i uzupełnianie wykazu lokali mieszkalnych przeznaczonych do sprzedaży oraz podawanie go do wiadomości publicznej,
+- **4)** zakres protokołu uzgodnień warunków sprzedaży lokalu mieszkalnego,
+- **5)** terminy wnoszenia należności z tytułu sprzedaży oraz terminy wnoszenia rat z tytułu sprzedaży lokali mieszkalnych wraz z oprocentowaniem,
+- **6)** wzór wniosku o nabycie lokalu mieszkalnego – biorąc pod uwagę konieczność zapewnienia sprawnego postępowania w tej sprawie, a w odniesieniu do wniosku o nabycie lokalu mieszkalnego mając na względzie, aby zawierał on jedynie informacje niezbędne do dokonania sprzedaży.
+
 **Art. 84.**
 
 1. W przypadku gdy sprzedaż lokalu mieszkalnego nie jest możliwa ze względu na nieuregulowany stan prawny związanej z nim nieruchomości gruntowej lub inne ciążące na tym lokalu wady prawne, a przeszkody te nie zostały usunięte do dnia 1 stycznia 2007 r., osoba uprawniona do nabycia tego lokalu uzyskuje z tym dniem uprawnienia do odprawy mieszkaniowej.
@@ -1016,6 +1086,9 @@ Art. 102–119. (pominięte)
 2. W przypadku, o którym mowa w ust. 1, stosuje się przepisy art. 23 ust. 1, 3 i ust. 4 pkt 1, art. 41 ust. 1 pkt 1, ust. 2 i 4–7, art. 45 oraz art. 47 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 **Art. 85.** Dyrektor oddziału regionalnego Agencji może nieodpłatnie przekazać, w drodze umowy, na własność wspólnocie mieszkaniowej:
+
+- **1)** urządzenia oraz pomieszczenia lub budynki wchodzące w skład infrastruktury technicznej związanej z budynkami mieszkalnymi, a także grunt niezbędny do właściwego ich funkcjonowania;
+- **2)** lokale użytkowe zbędne do realizacji zadań Agencji położone w budynku wspólnoty, takie jak strychy, wózkarnie, piwnice i inne pomieszczenia użytkowe po urządzeniach technicznych.
 
 **Art. 86.** W sprawach dotyczących sprzedaży lokali mieszkalnych, nieuregulowanych w niniejszej ustawie, stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688) i ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 

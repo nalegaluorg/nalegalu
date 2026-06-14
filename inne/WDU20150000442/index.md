@@ -8,7 +8,7 @@ pos: 442
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 32/3/A/2015 WYROK z dnia 17 marca 2015 r.

@@ -8,10 +8,10 @@ pos: 817
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 czerwca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 817 ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 6 czerwca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/817/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 6 czerwca 2016 r.
 w sprawie wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wymagania w zakresie projektowania i budowy dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych;
 2) procedury oceny zgodności dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych;
 3) zakres dokumentacji technicznej dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych;
 4) sposób oznakowania urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych;
 5) elementy deklaracji zgodności.
 § 2. Przepisy rozporządzenia nie mają zastosowania do:
-1) wyrobów medycznych przeznaczonych do użytku w środo wisku medycznym;
+1) wyrobów medycznych przeznaczonych do użytku w środowisku medycznym;
 2) urządzeń i systemów ochronnych, w przypadku gdy zagrożenie wybuchowe wynika wyłącznie z obecności materiałów wybuchowych lub substancji chemicznie niestabilnych;
 3) urządzeń przeznaczonych do użytku domowego i stosowanych do celów niezarobkowych, w przypadku gdy atmosfera potencjalnie wybuchowa może powstać rzadko, wyłącznie w wyniku przypadkowego wycieku paliwa gazowego;
 4) środków ochrony indywidualnej;
@@ -42,17 +42,18 @@ w sprawie wymagań dla urządzeń i systemów ochronnych przeznaczonych do użyt
 7) wyrobów zaprojektowanych i wykonanych na użytek sił zbrojnych lub Policji oraz innych służb, do których zadań należy zapewnienie przestrzegania prawa i porządku publicznego;
 8) urządzeń i systemów ochronnych w odniesieniu do zagrożeń wymienionych w pkt 1.2.7 załącznika nr 2 do rozporządzenia, w zakresie określonym w przepisach odrębnych.
 § 3. Użyte w rozporządzeniu określenia oznaczają:
-1) urządzenia maszyny, aparaturę, sprzęt stały lub ruchomy, komponenty sterujące i oprzyrządowanie oraz należące do nich systemy wykrywania i zapobiegania, które oddzielnie lub połączone ze sobą są przeznaczone do wytwarzania, przesyłania, magazynowania, pomiaru, regulacji i przetwarzania energii lub do przekształcania materiałów, a które, przez ich własne potencjalne źródła zapłonu, są zdolne do spowodowania wybuchu;
-2) systemy ochronne sprzęt inny niż komponenty urządzeń, którego zadaniem jest natychmiastowe powstrzymanie powstającego wybuchu lub ograniczenie skutecznego zasięgu płomienia i ciśnienia wybuchu, udostępniany na rynku oddzielnie do stosowania autonomicznego;
-3) komponenty części i podzespoły istotne dla bezpiecznego funkcjonowania urządzeń i systemów ochronnych, lecz bez funkcji autonomicznych;
-4) atmosfera wybuchowa mieszaninę z powietrzem, w warunkach atmosferycznych, substancji palnych w postaci gazu, pary, mgły lub pyłu, w której to mieszaninie po nastąpieniu zapłonu spalanie rozprzestrzenia się na całą niespaloną jej część;
-5) atmosfera potencjalnie wybuchowa atmosferę, która w zależności od warunków lokalnych i ruchowych może stać się wybuchowa;
-6) kategoria urządzeń kategorię, w ramach każdej grupy urządzeń, wyodrębnioną ze względu na wymagany poziom zabezpieczenia przeciwwybuchowego, jaki należy zapewnić;
-7) grupa I urządzeń urządzenia przeznaczone do stosowania w wyrobiskach podziemnych kopalń i w częściach instalacji powierzchniowych tych kopalń, zagrożonych występowaniem gazu kopalnianego lub pyłu palnego, obejmujące kategorie urządzeń M 1 i M 2;
-8) grupa II urządzeń urządzenia przeznaczone do stosowania w innych miejscach zagrożonych występowaniem atmosfery wybuchowej, obejmujące kategorie urządzeń 1, 2 i 3;
-9) użytkowanie zgodnie z przeznaczeniem użycie wyrobu zalecane przez producenta przez przypisanie urządzenia do danej grupy i kategorii urządzeń lub przez dostarczenie wszelkich informacji wymaganych dla zapewnienia bezpiecznego funkcjonowania systemu ochronnego, sprzętu lub komponentu.
+1) urządzenia – maszyny, aparaturę, sprzęt stały lub ruchomy, komponenty sterujące i oprzyrządowanie oraz należące do nich systemy wykrywania i zapobiegania, które oddzielnie lub połączone ze sobą są przeznaczone do wytwarzania, przesyłania, magazynowania, pomiaru, regulacji i przetwarzania energii lub do przekształcania materiałów, a które, przez ich własne potencjalne źródła zapłonu, są zdolne do spowodowania wybuchu;
+2) systemy ochronne – sprzęt inny niż komponenty urządzeń, którego zadaniem jest natychmiastowe powstrzymanie powstającego wybuchu lub ograniczenie skutecznego zasięgu płomienia i ciśnienia wybuchu, udostępniany na rynku oddzielnie do stosowania autonomicznego;
+3) komponenty – części i podzespoły istotne dla bezpiecznego funkcjonowania urządzeń i systemów ochronnych, lecz bez funkcji autonomicznych;
+4) atmosfera wybuchowa – mieszaninę z powietrzem, w warunkach atmosferycznych, substancji palnych w postaci gazu, pary, mgły lub pyłu, w której to mieszaninie po nastąpieniu zapłonu spalanie rozprzestrzenia się na całą niespaloną jej część;
+5) atmosfera potencjalnie wybuchowa – atmosferę, która w zależności od warunków lokalnych i ruchowych może stać się wybuchowa;
+6) kategoria urządzeń – kategorię, w ramach każdej grupy urządzeń, wyodrębnioną ze względu na wymagany poziom zabezpieczenia przeciwwybuchowego, jaki należy zapewnić;
+7) grupa I urządzeń – urządzenia przeznaczone do stosowania w wyrobiskach podziemnych kopalń i w częściach instalacji powierzchniowych tych kopalń, zagrożonych występowaniem gazu kopalnianego lub pyłu palnego, obejmujące kategorie urządzeń M 1 i M 2;
+8) grupa II urządzeń – urządzenia przeznaczone do stosowania w innych miejscach zagrożonych występowaniem atmosfery wybuchowej, obejmujące kategorie urządzeń 1, 2 i 3;
+9) użytkowanie zgodnie z przeznaczeniem – użycie wyrobu zalecane przez producenta przez przypisanie urządzenia do danej grupy i kategorii urządzeń lub przez dostarczenie wszelkich informacji wymaganych dla zapewnienia bezpiecznego funkcjonowania systemu ochronnego, sprzętu lub komponentu.
 § 4. 1. Grupy i kategorie urządzeń oraz zakres dotyczących ich wymagań uzupełniających określa załącznik nr 1 do rozporządzenia.
-2. Wymagania w zakresie projektowania i budowy dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów
+2. Wymagania w zakresie projektowania i budowy dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych, określa załącznik nr 2 do rozporządzenia.
+§ 5. Procedurami oceny zgodności dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych, stosowanymi przez producenta przed wprowadzeniem ich do obrotu są:
 1) badanie typu UE (moduł B), zwane dalej „modułem B”, określone w załączniku nr 3 do rozporządzenia;
 2) zgodność z typem w oparciu o zapewnienie jakości procesu produkcji (moduł D), zwana dalej „modułem D”, określona w załączniku nr 4 do rozporządzenia;
 3) zgodność z typem w oparciu o weryfikację wyrobu (moduł F), zwana dalej „modułem F”, określona w załączniku nr 5 do rozporządzenia;
@@ -61,20 +62,22 @@ w sprawie wymagań dla urządzeń i systemów ochronnych przeznaczonych do użyt
 6) wewnętrzna kontrola produkcji (moduł A), zwana dalej „modułem A”, określona w załączniku nr 8 do rozporządzenia;
 7) zgodność w oparciu o weryfikację jednostkową (moduł G), zwana dalej „modułem G”, określona w załączniku nr 9 do rozporządzenia.
 § 6. 1. Procedury oceny zgodności urządzeń przeznaczonych do użytku w atmosferze potencjalnie wybuchowej i w razie potrzeby sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, ustala się następująco:
-1) dla grupy urządzeń I i II, kategorii urządzeń M 1 i 1 stosuje się moduł B w połączeniu z jedną z poniższych procedur:
+1) dla grupy urządzeń I i II, kategorii urządzeń M 1 i 1 – stosuje się moduł B w połączeniu z jedną z poniższych procedur:
 a) modułem D,
 b) modułem F;
 2) dla grupy urządzeń I i II, kategorii urządzeń M 2 i 2:
-a) w przypadku silników spalinowych wewnętrznego spalania i urządzeń elektrycznych tych grup i kategorii stosuje się moduł B w połączeniu z jedną z następujących procedur: modułem C1, modułem E,
-b) w przypadku innych urządzeń tych grup i kategorii stosuje się moduł A, przesyłając dokumentację techniczną jednostce notyfikowanej, która potwierdza w jak najkrótszym terminie odbiór tej dokumentacji i ją przechowuje;
-3) w odniesieniu do grupy urządzeń II, kategorii urządzeń 3 stosuje się moduł A;
-4) w odniesieniu do grup urządzeń I i II oprócz procedur, o których mowa w pkt 1–3, można również zastosować moduł G.
+a) w przypadku silników spalinowych wewnętrznego spalania i urządzeń elektrycznych tych grup i kategorii – stosuje się moduł B w połączeniu z jedną z następujących procedur: – modułem C1, – modułem E,
+b) w przypadku innych urządzeń tych grup i kategorii – stosuje się moduł A, przesyłając dokumentację techniczną jednostce notyfikowanej, która potwierdza w jak najkrótszym terminie odbiór tej dokumentacji i ją przechowuje;
+3) w odniesieniu do grupy urządzeń II, kategorii urządzeń 3 – stosuje się moduł A;
+4) w odniesieniu do grup urządzeń I i II – oprócz procedur, o których mowa w pkt 1–3, można również zastosować moduł G.
 2. W przypadku systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej stosuje się procedury oceny zgodności określone w ust. 1 pkt 1 lub pkt 4.
 3. W przypadku komponentów, które są częścią urządzeń i systemów ochronnych, stosuje się procedury oceny zgodności określone w ust. 1, z wyjątkiem umieszczenia oznakowania CE i sporządzenia deklaracji zgodności.
 4. W przypadku, o którym mowa w ust. 3, producent wystawia pisemne świadectwo zgodności komponentów, które są częścią urządzeń i systemów ochronnych, z mającymi zastosowanie przepisami rozporządzenia, podając charakterystyki tych komponentów oraz warunki ich wbudowania do urządzeń lub systemów ochronnych, w celu spełnienia wymagań określonych w załączniku nr 2 do rozporządzenia, mających zastosowanie dla urządzeń lub systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej.
 5. W przypadku wymagań dotyczących bezpieczeństwa ludzi, o których mowa w załączniku nr 2 pkt 1.2.7 do rozporządzenia, oprócz procedur oceny zgodności określonych w ust. 1 i 2, można również zastosować moduł A.
 6. Przepisów ust. 1, 2 i 5 nie stosuje się do urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej innych niż komponenty, a których użytkowanie jest istotne dla bezpieczeństwa, w przypadku gdy na uzasadniony wniosek producenta albo importera wydane zostało zezwolenie na wprowadzenie do obrotu lub oddanie do użytku tych urządzeń i systemów ochronnych.
+§ 7. Dokumentacja techniczna, w celu zapewnienia zgodności wyrobu, zawiera, odpowiednio do zastosowanej procedury oceny zgodności, informacje określone w załączniku nr 3 pkt 3 ppkt 3 do rozporządzenia, w załączniku nr 8 pkt 2 do rozporządzenia lub w załączniku nr 9 pkt 2 do rozporządzenia.
 § 8. Elementy deklaracji zgodności określa załącznik nr 10 do rozporządzenia.
+§ 9. 1. Urządzenia i systemy ochronne przeznaczone do użytku w atmosferze potencjalnie wybuchowej, sprzęt zabezpieczający, sterujący i regulacyjny przeznaczony do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, są objęte oznakowaniem CE, które umieszcza się przed wprowadzeniem ich do obrotu.
 2. Oznakowanie CE umieszcza się w sposób widoczny, czytelny i trwały na wyrobach lub na przytwierdzonych na nich tabliczkach znamionowych.
 3. W przypadku braku możliwości umieszczenia oznakowania CE na wyrobach lub przytwierdzonych na nich tabliczkach znamionowych, ze względu na specyfikę wyrobów, oznakowanie CE umieszcza się na ich opakowaniu oraz na dołączonych do nich dokumentach.
 4. W przypadku gdy na etapie kontroli produkcji wyrobu zaangażowana jest jednostka notyfikowana, za oznakowaniem CE podaje się numer identyfikacyjny tej jednostki.
@@ -82,6 +85,7 @@ b) w przypadku innych urządzeń tych grup i kategorii stosuje się moduł A, pr
 6. Za oznakowaniem CE oraz, w stosownych przypadkach, za numerem identyfikacyjnym jednostki notyfikowanej umieszcza się oznakowanie specjalne zabezpieczenia przeciwwybuchowego , symbole grupy i kategorii urządzeń oraz inne oznakowania i informacje, o których mowa w załączniku nr 2 pkt 1.0.4 do rozporządzenia.
 7. Za oznakowaniem CE oraz, w stosownych przypadkach, za numerem identyfikacyjnym jednostki notyfikowanej, a także za oznakowaniami, symbolami i informacjami, o których mowa w ust. 6, można umieścić znaki wskazujące na szczególne zagrożenie lub szczególne zastosowanie wyrobu.
 8. Na urządzeniach i systemach ochronnych, które zostały zaprojektowane dla atmosfery wybuchowej spowodowanej przez gazy, pary lub mgły lub dla atmosfery wybuchowej spowodowanej przez pyły, umieszcza się oznakowanie, o którym mowa w załączniku nr 2 pkt 1.0.4 ppkt 7 i 8 do rozporządzenia.
+§ 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Rozwoju: wz. J. Kwieciński GRUPY I KATEGORIE URZĄDZEŃ ORAZ ZAKRES DOTYCZĄCYCH ICH WYMAGAŃ UZUPEŁNIAJĄCYCH I. Grupa urządzeń I
 1. Kategoria urządzeń M 1 obejmuje urządzenia zaprojektowane i, w razie potrzeby, wyposażone w specjalne dodatkowe środki zabezpieczenia przeciwwybuchowego, tak aby mogły funkcjonować zgodnie z parametrami ruchowymi ustalonymi przez producenta oraz zapewniać bardzo wysoki poziom zabezpieczenia.
 Urządzenia tej kategorii są przeznaczone do prac w wyrobiskach podziemnych kopalń i w częściach ich instalacji powierzchniowych, w których jest prawdopodobne wystąpienie zagrożenia gazem kopalnianym lub pyłem palnym.
@@ -175,7 +179,8 @@ f) regulacji;
 3) wyeliminowane były zagrożenia nieelektryczne, które są znane z doświadczenia;
 4) zapewnić, że przewidywane warunki przeciążenia nie prowadzą do sytuacji niebezpiecznych.
 1.2.8. Przeciążenie urządzenia Na etapie projektowania należy zapobiegać niebezpiecznym przeciążeniom urządzeń za pomocą zintegrowanego sprzętu pomiarowego, sterującego i regulacyjnego, takiego jak odłączniki przeciążeniowe, ograniczniki temperatury, wyłączniki sterowane różnicą ciśnień, przepływomierze, przekaźniki czasowe, liczniki obrotów lub podobny sprzęt monitorujący tego rodzaju.
-1.2.9. Systemy z osłonami ognioszczelnymi Jeżeli części, które mogą spowodować powstanie zapłonu w atmosferze wybuchowej, umieszczone są w osłonie, należy zapewnić, aby osłona ta wytrzymała ciśnienie powstałe podczas wewnętrznego wybuchu mieszaniny wybu1.3. Potencjalne źródła zapłonu
+1.2.9. Systemy z osłonami ognioszczelnymi Jeżeli części, które mogą spowodować powstanie zapłonu w atmosferze wybuchowej, umieszczone są w osłonie, należy zapewnić, aby osłona ta wytrzymała ciśnienie powstałe podczas wewnętrznego wybuchu mieszaniny wybuchowej i zapobiegała przeniesieniu się wybuchu do atmosfery wybuchowej otaczającej osłonę.
+1.3. Potencjalne źródła zapłonu
 1.3.1. Zagrożenia pochodzące od różnych źródeł zapłonu Nie mogą występować potencjalne źródła zapłonu, takie jak: iskry, płomienie, łuki elektryczne, wysokie temperatury powierzchni, energia akustyczna, promieniowanie optyczne, fale elektromagnetyczne i inne źródła zapłonu.
 1.3.2. Zagrożenia od elektryczności statycznej Za pomocą odpowiednich środków należy zapobiegać powstawaniu ładunków elektrostatycznych zdolnych do wywołania niebezpiecznych wyładowań.
 1.3.3. Zagrożenia od prądów błądzących i upływowych Należy zapobiegać występowaniu w częściach przewodzących urządzenia prądów błądzących lub upływowych, sprzyjających powstawaniu niebezpiecznej korozji, przegrzewaniu powierzchni lub iskrzeniu zdolnemu do wywołania zapłonu.
@@ -190,9 +195,9 @@ Jako zasadę ogólną należy stosować regułę bezpieczeństwa w razie uszkodz
 Wyłączanie związane z bezpieczeństwem musi na ogół bezpośrednio uruchamiać odpowiedni sprzęt sterujący bez pośrednictwa oprogramowania.
 1.5.2. W przypadku uszkodzenia sprzętu zabezpieczającego, urządzenia lub systemy ochronne powinny, w miarę wszelkich możliwości, być zabezpieczone.
 1.5.3. Układ sterowania awaryjnego sprzętu zabezpieczającego musi, na ile jest to możliwe, być wyposażony w blokadę ponownego uruchomienia. Rozkaz ponownego uruchomienia może skutkować normalną pracą jedynie w sytuacji, gdy blokada ponownego uruchomienia została celowo skasowana.
-1.5.4. Jednostki sterujące i wyświetlacze Gdy używa się jednostek sterujących i wyświetlaczy, muszą być one zaprojektowane zgodnie z zasadami ergonomii w celu osiągnięc ia najwyższego możliwego poziomu bezpieczeństwa działania odpowiedniego do ryzyka wybuchu.
+1.5.4. Jednostki sterujące i wyświetlacze Gdy używa się jednostek sterujących i wyświetlaczy, muszą być one zaprojektowane zgodnie z zasadami ergonomii w celu osiągnięcia najwyższego możliwego poziomu bezpieczeństwa działania odpowiedniego do ryzyka wybuchu.
 1.5.5. Wymagania dotyczące sprzętu, który w celu zabezpieczenia przeciwwybuchowego wykorzystuje funkcje pomiarowe Sprzęt z funkcjami pomiarowymi musi spełniać następujące wymagania:
-1) w przypadku gdy miałby być stosowany razem z urządzeniami używanymi w atmosferze wybuchowej, sprzęt z funkcjami pomiarowymi musi być zaprojektowany i wykonany tak, aby mógł funkcjonować zgodnie z jego
+1) w przypadku gdy miałby być stosowany razem z urządzeniami używanymi w atmosferze wybuchowej, sprzęt z funkcjami pomiarowymi musi być zaprojektowany i wykonany tak, aby mógł funkcjonować zgodnie z jego przewidywalnym zakresem działania i szczególnymi warunkami użytkowania;
 2) w miarę potrzeb musi być możliwe sprawdzenie dokładności odczytu i zdolności do pracy sprzętu z funkcjami pomiarowymi;
 3) projekt sprzętu z funkcjami pomiarowymi musi uwzględniać współczynnik bezpieczeństwa zapewniający, że próg alarmu będzie dostatecznie oddalony od granic wybuchowości lub zapalności analizowanej atmosfery ze szczególnym uwzględnieniem warunków eksploatacji instalacji i możliwych odchyleń parametrów układu pomiarowego.
 1.5.6. Ryzyko pochodzące od oprogramowania Podczas projektowania sterowanych przez oprogramowanie urządzeń, systemów ochronnych i sprzętu zabezpieczającego należy szczególnie brać pod uwagę ryzyko związane z błędami programu.
@@ -208,7 +213,7 @@ Nie dotyczy to energii magazynowanej elektrochemicznie.
 2. Wymagania uzupełniające dotyczące urządzeń
 2.0. Wymagania mające zastosowanie do urządzeń grupy I
 2.0.1. Wymagania mające zastosowanie do urządzeń grupy I kategorii M 1 Urządzenia grupy I kategorii M 1 muszą spełniać następujące wymagania:
-1) muszą być zaprojektowane i wykonane tak, aby źródła zapłonu nie stały się aktywne nawet w przypadku rzad kich zdarzeń dotyczących tych urządzeń;
+1) muszą być zaprojektowane i wykonane tak, aby źródła zapłonu nie stały się aktywne nawet w przypadku rzadkich zdarzeń dotyczących tych urządzeń;
 2) urządzenia muszą być wyposażone w środki zabezpieczające takie, że:
 a) w przypadku defektu jednego ze środków zabezpieczających, przynajmniej drugi niezależny środek zapewni wymagany poziom zabezpieczenia, albo
 b) wymagany poziom zabezpieczenia był zapewniony w przypadku wystąpienia dwóch niezależnych od siebie uszkodzeń;
@@ -216,6 +221,7 @@ b) wymagany poziom zabezpieczenia był zapewniony w przypadku wystąpienia dwóc
 4) w miarę potrzeb urządzenie należy konstruować tak, aby pył nie mógł do niego wnikać;
 5) w celu zapobieżenia zapaleniu pyłu zawieszonego temperatury powierzchni części urządzeń powinny być wyraźnie niższe od temperatury zapłonu przewidywanej mieszaniny pyłowo-powietrznej;
 6) urządzenia muszą być tak zaprojektowane, aby otwarcie ich części, które mogą być źródłem zapłonu, było możliwe tylko przy wyłączonym zasilaniu lub w warunkach iskrobezpiecznych. Jeżeli wyłączenie urządzeń nie jest możliwe, producent powinien umieścić tabliczkę ostrzegawczą na otwieranych częściach urządzeń.
+W razie potrzeby urządzenia muszą być wyposażone w odpowiednie dodatkowe systemy blokujące.
 2.0.2. Wymagania mające zastosowanie do urządzeń grupy I kategorii M 2 Urządzenia grupy I kategorii M 2 muszą spełniać następujące wymagania:
 1) muszą być wyposażone w takie środki zabezpieczające, aby źródła zapłonu nie mogły stać się aktywne podczas normalnego działania, nawet w bardziej surowych warunkach eksploatacji, w szczególności wynikających z nieostrożnego obchodzenia się z urządzeniem i zmiennych warunków środowiska. Przewiduje się wyłączenie tych urządzeń w przypadku wystąpienia atmosfery wybuchowej;
 2) muszą być tak zaprojektowane, aby otwarcie ich części, które mogą być źródłem zapłonu, było możliwe tylko przy wyłączonym zasilaniu lub za pośrednictwem odpowiednich blokad. Jeżeli wyłączenie urządzeń nie jest możliwe, producent powinien umieścić tabliczkę ostrzegawczą na otwieranych częściach urządzeń;
@@ -321,7 +327,7 @@ W szczególności zawiera ona odpowiedni opis:
 Zakłada ona zgodność z tymi wymaganiami w odniesieniu do elementów systemu jakości zgodnych z odpowiednimi specyfikacjami właściwej normy zharmonizowanej.
 Oprócz doświadczenia w zakresie systemów zarządzania jakością zespół audytowy ma co najmniej jednego członka posiadającego doświadczenie z zakresu oceny w dziedzinie danego wyrobu i technologii danego wyrobu, a także znajomość odpowiednich wymagań rozporządzenia. Audyt obejmuje wizytę oceniającą w zakładzie producenta. Zespół audytowy dokonuje przeglądu dokumentacji technicznej, o której mowa w pkt 3.1 ppkt 5, w celu weryfikacji zdolności producenta do zidentyfikowania właściwych wymagań rozporządzenia oraz do przeprowadzenia koniecznych badań w celu zapewnienia zgodności wyrobu z tymi wymaganiami.
 O wyniku audytu powiadamia się producenta. Powiadomienie zawiera wnioski z audytu oraz uzasadnienie dokonanej oceny.
-3.4. Producent zobowiązuje się do wypełniania zobowiązań wynikających z tak zatwierdzonego systemu jakości oraz
+3.4. Producent zobowiązuje się do wypełniania zobowiązań wynikających z tak zatwierdzonego systemu jakości oraz utrzymywania go w taki sposób, aby pozostawał odpowiedni oraz wydajny.
 3.5. Producent informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych zmianach systemu jakości.
 Jednostka notyfikowana ocenia proponowane zmiany i decyduje, czy zmieniony system jakości będzie wciąż spełniać wymagania, o których mowa w pkt 3.2, czy też konieczna jest jego ponowna ocena.
 Powiadamia ona producenta o swojej decyzji. Powiadomienie zawiera wnioski z badania oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
@@ -344,7 +350,8 @@ Kopia deklaracji zgodności UE towarzyszy każdemu wyrobowi innemu niż komponen
 7. Obowiązki jednostki notyfikowanej
 7.1. Każda jednostka notyfikowana informuje właściwy organ notyfikujący o wydanych lub cofniętych zatwierdzeniach systemów jakości oraz, okresowo lub na żądanie, udostępnia właściwemu organowi notyfikującemu wykaz zatwierdzeń systemów jakości, których wydania odmówiła, które zawiesiła lub poddała innym ograniczeniom.
 7.2. Każda jednostka notyfikowana informuje pozostałe jednostki notyfikowane o zatwierdzeniach systemów jakości, których wydania odmówiła, które cofnęła, zawiesiła lub poddała innym ograniczeniom oraz, na żądanie, o zatwierdzeniach systemów jakości, które wydała.
-8. Upoważniony przedstawiciel Zobowiązania producenta określone w pkt 3.1, 3.5, 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełMODUŁ F: ZGODNOŚĆ Z TYPEM W OPARCIU O WERYFIKACJĘ WYROBU
+8. Upoważniony przedstawiciel Zobowiązania producenta określone w pkt 3.1, 3.5, 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+MODUŁ F: ZGODNOŚĆ Z TYPEM W OPARCIU O WERYFIKACJĘ WYROBU
 1. Zgodność z typem w oparciu o weryfikację wyrobu to część procedury oceny zgodności, w której producent wywiązuje się z obowiązków określonych w pkt 2 i 5 oraz na swoją wyłączną odpowiedzialność zapewnia i oświadcza, że wyroby, wobec których zastosowano wymagania pkt 3, są zgodne z typem opisanym w certyfikacie badania typu UE i spełniają mające do nich zastosowanie wymagania rozporządzenia.
 2. Produkcja Producent wprowadza wszelkie niezbędne środki, aby proces produkcji i jego monitorowanie zapewniały zgodność wytworzonych wyrobów z zatwierdzonym typem opisanym w certyfikacie badania typu UE oraz z mającymi do nich zastosowanie wymaganiami rozporządzenia.
 3. Weryfikacja Wybrana przez producenta jednostka notyfikowana przeprowadza odpowiednie badania i testy w celu sprawdzenia zgodności wyrobów z zatwierdzonym typem opisanym w certyfikacie badania typu UE oraz z właściwymi wymaganiami rozporządzenia.
@@ -360,8 +367,9 @@ Producent przechowuje certyfikaty zgodności do dyspozycji organów nadzoru rynk
 Kopia deklaracji zgodności UE towarzyszy każdemu wyrobowi innemu niż komponent.
 Za zgodą i na odpowiedzialność jednostki notyfikowanej, o której mowa w pkt 3, producent może umieścić na wyrobach innych niż komponenty także numer identyfikacyjny jednostki notyfikowanej.
 5.3. Producent sporządza pisemne świadectwo zgodności dla każdego modelu komponentu i przechowuje je do dyspozycji organów nadzoru rynku przez okres 10 lat po wprowadzeniu wyrobu do obrotu. Świadectwo zgodności identyfikuje model komponentu, dla którego zostało sporządzone. Kopia świadectwa zgodności jest dołączana do każdego komponentu.
-6. Za zgodą i na odpowiedzia lność jednostki notyfikowanej producent może umieścić na wyrobach numer identyfikacyjny jednostki notyfikowanej podczas procesu produkcji.
-7. Upoważniony przedstawiciel Zobowiązania producenta mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie. Upoważniony przedstawiciel nie może wykonać MODUŁ C1: ZGODNOŚĆ Z TYPEM W OPARCIU O WEWNĘTRZNĄ KONTROLĘ PRODUKCJI ORAZ BADANIE WYROBÓW POD NADZOREM
+6. Za zgodą i na odpowiedzialność jednostki notyfikowanej producent może umieścić na wyrobach numer identyfikacyjny jednostki notyfikowanej podczas procesu produkcji.
+7. Upoważniony przedstawiciel Zobowiązania producenta mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie. Upoważniony przedstawiciel nie może wykonać obowiązków producenta określonych w pkt 2.
+MODUŁ C1: ZGODNOŚĆ Z TYPEM W OPARCIU O WEWNĘTRZNĄ KONTROLĘ PRODUKCJI ORAZ BADANIE WYROBÓW POD NADZOREM
 1. Zgodność z typem w oparciu o wewnętrzną kontrolę produkcji oraz badanie wyrobów pod nadzorem to część procedury oceny zgodności, w której producent wywiązuje się ze zobowiązań przedstawionych w pkt 2, 3 i 4 oraz na swoją wyłączną odpowiedzialność zapewnia i oświadcza, że dane wyroby są zgodne z typem opisanym w certyfikacie badania typu UE i spełniają wymagania rozporządzenia mające do nich zastosowanie.
 2. Produkcja Producent wprowadza wszelkie niezbędne środki, aby proces produkcji i jego monitorowanie zapewniały zgodność wytworzonych wyrobów z typem opisanym w certyfikacie badania typu UE oraz z mającymi do nich zastosowanie wymaganiami rozporządzenia.
 3. Kontrola produktów W celu weryfikacji zgodności każdego wytworzonego egzemplarza wyrobu z typem opisanym w certyfikacie badania typu UE oraz z właściwymi wymaganiami rozporządzenia producent lub osoba działająca w jego imieniu przeprowadza jedno lub więcej badań jednego lub więcej szczegółowych aspektów tego wyrobu. Badania są przeprowadzone na odpowiedzialność jednostki notyfikowanej, wybranej przez producenta.
@@ -418,7 +426,8 @@ Kopia deklaracji zgodności UE towarzyszy każdemu wyrobowi innemu niż komponen
 7. Obowiązki jednostki notyfikowanej
 7.1. Każda jednostka notyfikowana informuje właściwy organ notyfikujący o wydanych lub cofniętych zatwierdzeniach systemów jakości oraz, okresowo lub na żądanie, udostępnia właściwemu organowi notyfikującemu wykaz zatwierdzeń systemów jakości, których wydania odmówiła, które zawiesiła lub poddała innym ograniczeniom.
 7.2. Każda jednostka notyfikowana informuje pozostałe jednostki notyfikowane o zatwierdzeniach systemów jakości, których wydania odmówiła, które cofnęła lub zawiesiła, oraz, na żądanie, o zatwierdzeniach systemów jakości, które wydała.
-8. Upoważniony przedstawiciel Zobowiązania producenta określone w pkt 3.1, 3.5, 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełMODUŁ A: WEWNĘTRZNA KONTROLA PRODUKCJI
+8. Upoważniony przedstawiciel Zobowiązania producenta określone w pkt 3.1, 3.5, 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie.
+MODUŁ A: WEWNĘTRZNA KONTROLA PRODUKCJI
 1. Wewnętrzna kontrola produkcji to procedura oceny zgodności, w której producent wywiązuje się ze zobowiązań określonych w pkt 2, 3 i 4 oraz na swoją wyłączną odpowiedzialność zapewnia i oświadcza, że dane wyroby są zgodne z wymaganiami rozporządzenia mającymi do nich zastosowanie.
 2. Dokumentacja techniczna Producent sporządza dokumentację techniczną. Dokumentacja umożliwia ocenę zgodności wyrobu z mającymi do niego zastosowanie wymaganiami rozporządzenia oraz obejmuje odpowiednią analizę i ocenę ryzyka.
 Dokumentacja techniczna określa mające zastosowanie wymagania i obejmuje, w stopniu odpowiednim dla takiej oceny, projekt, produkcję i działanie wyrobu. Dokumentacja techniczna zawiera co najmniej następujące elementy:
@@ -469,13 +478,13 @@ ELEMENTY DEKLARACJI ZGODNOŚCI Deklaracja zgodności zawiera określone we wskaz
 9. Informacje dodatkowe, o ile występują.
 10. Informację, w czyim imieniu deklaracja zgodności została podpisana, oraz imię, nazwisko, stanowisko i podpis osoby upoważnionej do sporządzenia deklaracji zgodności, a także miejsce i datę sporządzenia tej deklaracji.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Procedury oceny zgodności § 5. Procedurami oceny zgodności dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej, sprzętu zabezpieczającego, sterującego i regulacyjnego przeznaczonego do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, oraz komponentów, które są częścią urządzeń i systemów ochronnych, stosowanymi przez producenta przed wprowadzeniem ich do obrotu są:
+#### Rozdział 2 Procedury oceny zgodności
 
-#### Rozdział 3 Zakres dokumentacji technicznej i elementy deklaracji zgodności § 7. Dokumentacja techniczna, w celu zapewnienia zgodności wyrobu, zawiera, odpowiednio do zastosowanej procedury oceny zgodności, informacje określone w załączniku nr 3 pkt 3 ppkt 3 do rozporządzenia, w załączniku nr 8 pkt 2 do rozporządzenia lub w załączniku nr 9 pkt 2 do rozporządzenia.
+#### Rozdział 3 Zakres dokumentacji technicznej i elementy deklaracji zgodności
 
-#### Rozdział 4 Sposób oznakowania urządzeń i systemów ochronnych § 9. 1. Urządzenia i systemy ochronne przeznaczone do użytku w atmosferze potencjalnie wybuchowej, sprzęt zabezpieczający, sterujący i regulacyjny przeznaczony do użytku poza atmosferą potencjalnie wybuchową, który wymagany jest lub przyczynia się do bezpiecznego funkcjonowania urządzeń i systemów ochronnych wobec zagrożeń wybuchowych, są objęte oznakowaniem CE, które umieszcza się przed wprowadzeniem ich do obrotu.
+#### Rozdział 4 Sposób oznakowania urządzeń i systemów ochronnych
 
-#### Rozdział 5 Przepis końcowy § 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+#### Rozdział 5 Przepis końcowy
 

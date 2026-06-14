@@ -8,10 +8,10 @@ pos: 1312
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1312 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 23 sierpnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1312/text.pdf) |
 
-Poz. 1312 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 23 sierpnia 2024 r.
-w sprawie nadania statutu Komendzie Głównej Państwowej Straży Pożarnej Na podstawie art. 13a ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 127 i 1089) zarządza się, co następuje: § 1. Komendzie Głównej Państwowej Straży Pożarnej nadaje się statut, który stanowi załącznik do rozporządzenia.
+w sprawie nadania statutu Komendzie Głównej Państwowej Straży Pożarnej Na podstawie art. 13a ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 127 i 1089) zarządza się, co następuje:
+§ 1. Komendzie Głównej Państwowej Straży Pożarnej nadaje się statut, który stanowi załącznik do rozporządzenia.
 § 2. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 10 września 2021 r. w sprawie nadania statutu Komendzie Głównej Państwowej Straży Pożarnej (Dz. U. poz. 1703).
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk Dziennik Ustaw – 2 – Poz. 1312 STATUT KOMENDY GŁÓWNEJ PAŃSTWOWEJ STRAŻY POŻARNEJ § 1. Komenda Główna Państwowej Straży Pożarnej, zwana dalej „Komendą Główną”, jest urzędem zapewniającym obsługę Komendanta Głównego Państwowej Straży Pożarnej, zwanego dalej „Komendantem Głównym”.
+Prezes Rady Ministrów: D. Tusk STATUT KOMENDY GŁÓWNEJ PAŃSTWOWEJ STRAŻY POŻARNEJ
+§ 1. Komenda Główna Państwowej Straży Pożarnej, zwana dalej „Komendą Główną”, jest urzędem zapewniającym obsługę Komendanta Głównego Państwowej Straży Pożarnej, zwanego dalej „Komendantem Głównym”.
 § 2. 1. Komendant Główny kieruje Komendą Główną przy pomocy zastępców Komendanta Głównego oraz kierowników komórek organizacyjnych, o których mowa w § 3 ust. 1.
 2. Zakres czynności zastępców Komendanta Głównego oraz kierowników komórek organizacyjnych, o których mowa w § 3 ust. 1, ustala Komendant Główny.
 3. Komendant Główny może upoważnić zastępców Komendanta Głównego oraz kierowników komórek organizacyjnych, o których mowa w § 3 ust. 1, do podejmowania, w jego imieniu, decyzji w określonych przez niego sprawach.

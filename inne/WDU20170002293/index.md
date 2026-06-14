@@ -8,10 +8,10 @@ pos: 2293
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2293 PLAN RUCHU PODZIEMNEGO ZAKŁADU GÓRNICZEGO
 
 | Pole | Wartość |
 |---|---|
@@ -27,25 +27,25 @@ source: "isap-pdf"
 
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Podstawowe obiekty, maszyny i urządzenia zakładu górniczego:
 1) ogólny opis, charakterystyka i dane techniczne;
 2) zestawienie danych technicznych i parametrów ruchu:
-a) urządzeń wyciągowych w szybach i szybikach — według wzoru 2,
-b) stacji wentylatorów głównych — według wzoru 3;
-3) zestawienie projektowanych zmian w podstawowych obiektach, maszynach i urządzeniach zakładu górniczego (budowa nowych, przebudowa, rozbudowa lub likwidacja), z wyjątkiem obiektów budowlanych zakładu górniczego — według wzoru 4. Programy remontów kapitalnych i modernizacji w odniesieniu do podstawowych obiektów, maszyn i urządzeń zakładu górniczego, z podaniem zakresu i planu naprawy oraz planu modernizacji.
+a) urządzeń wyciągowych w szybach i szybikach — według wzoru nr 2,
+b) stacji wentylatorów głównych — według wzoru nr 3;
+3) zestawienie projektowanych zmian w podstawowych obiektach, maszynach i urządzeniach zakładu górniczego (budowa nowych, przebudowa, rozbudowa lub likwidacja), z wyjątkiem obiektów budowlanych zakładu górniczego — według wzoru nr 4. Programy remontów kapitalnych i modernizacji w odniesieniu do podstawowych obiektów, maszyn i urządzeń zakładu górniczego, z podaniem zakresu i planu naprawy oraz planu modernizacji.
 3. Zasilanie zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 4. Charakterystyka terenu przemysłowego zakładu górniczego z określeniem obiektów budowlanych zakładu górniczego.
-5. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 5.
+5. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 5.
 6. Składy materiałów wybuchowych — typy składów, ich lokalizacja, ilość środków strzałowych, które mogą być przechowywane, oraz sposób przewietrzania.
-7. Tabelaryczny opis partii złoża lub pokładów, w których będą prowadzone eksploatacyjne roboty górnicze — według wzoru 6. W przypadku konieczności zamieszcza się uzupełnienie tabeli w formie opisowej.
-8. Zestawienie planowanych wyrobisk udostępniających i wyrobisk przygotowawczych — według wzoru 7.
+7. Tabelaryczny opis partii złoża lub pokładów, w których będą prowadzone eksploatacyjne roboty górnicze — według wzoru nr 6. W przypadku konieczności zamieszcza się uzupełnienie tabeli w formie opisowej.
+8. Zestawienie planowanych wyrobisk udostępniających i wyrobisk przygotowawczych — według wzoru nr 7.
 Zakres informacji:
 1) szyby i szybiki;
 2) chodniki podstawowe na poziomach;
 3) główne upadowe;
 4) przekopy oraz inne wyrobiska kamienne.
-wawcze w zakresie podstawowych wiązek wyrobisk.
+W zestawieniu wyrobisk przygotowawczych ujmuje się wyłącznie wyrobiska w pokładach zagrożonych tąpaniami. W przypadku zakładów górniczych wydobywających rudy miedzi ujmuje się roboty przygotowawcze w zakresie podstawowych wiązek wyrobisk.
 9. Roboty wiertnicze i roboty geologiczne wykonywane na potrzeby ruchu zakładu górniczego.
 10. Podsadzka i wykorzystanie odpadów:
 1) zakres stosowania poszczególnych rodzajów podsadzki lub mieszanin doszczelniających;
@@ -76,6 +76,7 @@ c) podsieci wentylacyjnych;
 1) charakterystyka zagrożenia wybuchem pyłu węglowego;*
 2) profilaktyka.
 15. Zagrożenie pożarowe:
+1) pożary endogeniczne:
 a) ocena zagrożenia pożarowego rejonów wydobywczych,
 b) rozpoznawanie zagrożenia oraz profilaktyka,
 c) zestawienie pól pożarowych z podaniem powierzchni w m , otamowanych zasobów w tonach oraz daty powstania pola,
@@ -87,7 +88,7 @@ d) plan likwidacji pól pożarowych;
 3) monitorowanie oraz profilaktyka i usuwanie zagrożenia tąpaniami.
 17. Zagrożenie wodne i warunki hydrogeologiczne:
 1) charakterystyka zagrożenia wodnego;*
-2) zestawienie źródeł zagrożenia wodnego — według wzoru 8;
+2) zestawienie źródeł zagrożenia wodnego — według wzoru nr 8;
 3) przewidywane kształtowanie się zagrożenia wodnego związanego z prowadzonymi i projektowanymi robotami górniczymi, a także zagrożeń związanych z odprowadzaniem wód podsadzkowych oraz ze strony szybów, szybików i otworów wiertniczych;
 4) przewidywane kształtowanie się zagrożenia wodnego ze strony wód powodziowych dla zakładu górniczego, sposoby zabezpieczenia obiektów i wyrobisk górniczych przed skutkami powodzi.
 18. Zagrożenie substancjami promieniotwórczymi.
@@ -105,8 +106,8 @@ W szczególności określa się:
 1) zasoby przemysłowe w części objętej projektowaną eksploatacją;
 2) opis projektowanych strat w zasobach przemysłowych i nieprzemysłowych, z uzasadnieniem;
 3) sposób ochrony i racjonalnego wykorzystania kopalin towarzyszących w okresie obowiązywania planu ruchu;
-wzoru 9.
-23. Likwidacja zbędnych ze względów technicznych i technologicznych urządzeń, instalacji, obiektów lub wyrobisk zakładu górniczego. Zestawienie projektowanych zmian w podstawowych obiektach i urządzeniach zakładu górniczego (budowa nowych, przebudowa, rozbudowa i likwidacja) — według wzoru 10.
+4) zestawienie projektowanych strat w zasobach złoża kopaliny oraz kopaliny towarzyszącej — według wzoru nr 9.
+23. Likwidacja zbędnych ze względów technicznych i technologicznych urządzeń, instalacji, obiektów lub wyrobisk zakładu górniczego. Zestawienie projektowanych zmian w podstawowych obiektach i urządzeniach zakładu górniczego (budowa nowych, przebudowa, rozbudowa i likwidacja) — według wzoru nr 10.
 24. Ochrona środowiska oraz obiektów budowlanych. Zamierzenia w zakresie zapobiegania i ograniczania szkód wyrządzonych ruchem zakładu górniczego w okresie obowiązywania planu ruchu.
 W szczególności uwzględnia się:
 1) następujące rygory związane z eksploatacją złoża w granicach filarów ochronnych wyznaczonych dla dóbr wymagających ochrony:
@@ -114,7 +115,7 @@ a) środki profilaktyki górniczej i budowlanej,
 b) koordynację robót górniczych i zapobiegawczo-naprawczych,
 c) obserwacje obiektów budowlanych,
 d) geodezyjne, geofizyczne i inne pomiary wskaźników deformacji oraz parametrów drgań gruntu powodowanych działalnością górniczą;
-2) zestawienie obiektów budowlanych oraz infrastruktury technicznej o kategorii odporności równej lub niższej od kategorii terenu górniczego w zasięgu wpływów projektowanej eksploatacji, z uwzględnieniem odporności dynamicznej na wstrząsy górnicze — według wzoru 11;
+2) zestawienie obiektów budowlanych oraz infrastruktury technicznej o kategorii odporności równej lub niższej od kategorii terenu górniczego w zasięgu wpływów projektowanej eksploatacji, z uwzględnieniem odporności dynamicznej na wstrząsy górnicze — według wzoru nr 11;
 3) prognozę wpływu działalności górniczej na środowisko, w szczególności w zakresie:
 a) deformacji ciągłych,
 b) deformacji nieciągłych,
@@ -127,10 +128,11 @@ f) istotnych zmian stosunków wodnych, a zwłaszcza możliwości wystąpienia za
 a) ochrony: powierzchni ziemi, sieci hydrograficznej, obiektów budowlanych oraz infrastruktury technicznej,
 b) rekultywacji terenów niekorzystnie przekształconych w wyniku wydobywania kopalin;
 6) gospodarkę odpadami oraz masami ziemnymi lub skalnymi powstałymi w związku z wydobywaniem kopalin ze złóż wraz z ich przerabianiem;
-7) gospodarkę wodno-ściekową, w tym zapotrzebowanie, doprowadzenie, odprowadzenie, oczyszczanie i wykorzystanie wód (środki techniczne, bilans wód kopalnianych) — według wzoru 12;
+7) gospodarkę wodno-ściekową, w tym zapotrzebowanie, doprowadzenie, odprowadzenie, oczyszczanie i wykorzystanie wód (środki techniczne, bilans wód kopalnianych) — według wzoru nr 12;
 8) ochronę powietrza przed zanieczyszczeniem (urządzenia ochrony powietrza, ich stan techniczny, zamierzenia w zakresie ograniczenia emisji substancji wprowadzanych do powietrza w sposób zorganizowany i niezorganizowany);
 9) ochronę przed hałasem i wibracjami przenikającymi do środowiska, urządzenia ochronne, zamierzenia w zakresie ograniczenia hałasu i wibracji przenikających do środowiska;
 10) czynniki mające wpływ na środowisko, w szczególności:
+a) substancje toksyczne,
 b) źródła promieniowania jonizującego: naturalne i sztuczne.
 25. Czynniki szkodliwe dla zdrowia w środowisku pracy. Miejsca i źródła ich występowania. Profilaktyka.
 26. Organizacja opieki lekarskiej, w tym udzielanie pierwszej pomocy przedmedycznej.
@@ -157,6 +159,7 @@ e) nieczynnych wyrobisk górniczych mających bezpośrednie połączenie z powie
 f) zasięgu istniejących i prognozowanych zawodnień i podtopień terenów w wyniku projektowanej eksploatacji.
 Na mapie tej uwzględnia się wpływy eksploatacji prowadzonej przez sąsiednie zakłady górnicze.
 4. Profile cieków wodnych w granicach wpływów projektowanej eksploatacji, z uwzględnieniem prognozowanych obniżeń.
+5. Mapa terenu przemysłowego zakładu górniczego, sporządzona w skali nie mniejszej niż 1:5 000, z naniesieniem granic zakładu górniczego.
 6. Mapy wyrobisk górniczych, w których będą prowadzone roboty górnicze, sporządzone w skali nie mniejszej niż 1:5 000, z naniesieniem:
 1) granic części złoża w danym obszarze górniczym, eksploatowanego przez inny zakład górniczy;
 2) oznaczonych części złoża przeznaczonych do eksploatacji, oznaczonych odrębnym kolorem, zgodnie z Polską Normą dotyczącą definicji, wzorów i symboli map górniczych;
@@ -184,7 +187,7 @@ Na mapie tej uwzględnia się wpływy eksploatacji prowadzonej przez sąsiednie 
 1) stacji odmetanowania;
 2) sieci rurociągów odmetanowania od stacji odmetanowania do poszczególnych rejonów.
 9. Schematy ideowe rurociągów podsadzkowych oraz schematy instalacji służących do wykorzystywania w wyrobiskach górniczych odpadów oraz mas ziemnych lub skalnych powstałych w związku z wydobywaniem kopalin ze złóż wraz z ich przerabianiem.
-trze, inne media energetyczne oraz wodę.
+10. Schematy ideowe zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 11. Schematy ideowe układów głównego odwadniania.
 12. Schemat ideowy centralnych lub grupowych urządzeń klimatyzacyjnych.
 13. Schematy ideowe układów rurociągów przeciwpożarowych oraz głównych rurociągów w szybach, z zaznaczeniem głównych i rezerwowych zbiorników wodnych.
@@ -200,14 +203,14 @@ ZESTAWIENIE PLANOWANYCH WYROBISK UDOSTĘPNIAJĄCYCH I WYROBISK PRZYGOTOWAWCZYCH 
 ZESTAWIENIE ŹRÓDEŁ ZAGROŻENIA WODNEGO Zakład górniczy ...........................................
 ZESTAWIENIE PROJEKTOWANYCH STRAT W ZASOBACH ZŁOŻA KOPALINY ORAZ KOPALINY TOWARZYSZĄCEJ Zakład górniczy ...........................................
 ZESTAWIENIE OBIEKTÓW BUDOWLANYCH ORAZ INFRASTRUKTURY TECHNICZNEJ O KATEGORII ODPORNOŚCI RÓWNEJ LUB NIŻSZEJ OD KATEGORII TERENU GÓRNICZEGO W ZASIĘGU WPŁYWÓW PROJEKTOWANEJ EKSPLOATACJI, Z UWZGLĘDNIENIEM ODPORNOŚCI DYNAMICZNEJ NA WSTRZĄSY GÓRNICZE Zakład górniczy ...........................................
-GOSPODARKA WODNO-ŚCIEKOWA
+GOSPODARKA WODNO-ŚCIEKOWA PLAN RUCHU ODKRYWKOWEGO ZAKŁADU GÓRNICZEGO
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.*
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.*
 2. Opis terenu zakładu górniczego oraz jego zagospodarowania, z określeniem obiektów budowlanych zakładu górniczego.
 3. Charakterystyka elementów przyrodniczych środowiska oraz rozpoznanych zabytków archeologicznych i innych zabytków w granicach zakładu górniczego, a także sposoby ich zabezpieczenia. Występowanie obszarów chronionych, w tym obszarów ochrony oraz stref ochronnych.
 4. Ogólna charakterystyka geologiczna i hydrogeologiczna złoża. Opis przewidywanych warunków geologicznych i hydrogeologicznych partii złoża, w których będą prowadzone roboty górnicze. Wpływ eksploatacji na stosunki wodne.
-5. Sposób zagospodarowania złoża kopaliny w przestrzeni, w granicach której ma być wykonywana działalność górnicza. Zestawienie zasobów kopaliny głównej i kopalin towarzyszących na podstawie aktualnego operatu ewidencyjnego zasobów złoża kopaliny, a w przypadku jego braku dokumentacji geologicznej lub ostatniego dodatku do dokumentacji geologicznej. według wzoru 2.*
+5. Sposób zagospodarowania złoża kopaliny w przestrzeni, w granicach której ma być wykonywana działalność górnicza. Zestawienie zasobów kopaliny głównej i kopalin towarzyszących na podstawie aktualnego operatu ewidencyjnego zasobów złoża kopaliny, a w przypadku jego braku dokumentacji geologicznej lub ostatniego dodatku do dokumentacji geologicznej. według wzoru nr 2.*
 6. Gospodarka złożem kopaliny w okresie obowiązywania planu ruchu.
 W szczególności określa się:
 1) ograniczenia wpływające na dopuszczalność wydobycia kopaliny;
@@ -216,10 +219,10 @@ W szczególności określa się:
 4) określenie stopnia zamierzonego wykorzystania zasobów złoża, w tym kopalin towarzyszących, wielkość projektowanego wskaźnika wykorzystania zasobów złoża oraz wskaźnika wykorzystania zasobów przemysłowych, z uzasadnieniem;
 5) przedsięwzięcia mające na celu kompleksowe i racjonalne wykorzystanie kopaliny głównej i kopalin towarzyszących w okresie obowiązywania planu ruchu, w nawiązaniu do projektu zagospodarowania złoża;
 6) opis części złoża kopaliny, której wydobycie nie jest technicznie możliwe lub gospodarczo uzasadnione;
-7) zestawienie projektowanych strat w zasobach złoża kopaliny według wzoru 3.*
+7) zestawienie projektowanych strat w zasobach złoża kopaliny według wzoru nr 3.*
 7. Zakres eksploatacji kopaliny ze złoża i zakres zdejmowania nadkładu.*
-8. Opis robót udostępniających i przygotowawczych w okresie obowiązywania planu ruchu. Zestawienie robót geologicznych wykonywanych na potrzeby ruchu zakładu górniczego według wzoru 4.* Uzasadnienie planowanych do wykonania robót geologicznych.
-zwałowisk nadkładu i składowisk urobku, w szczególności szerokość poziomów i półek, wysokości pięter oraz kąty nachylenia skarp i zboczy. Pasy ochronne wyrobisk górniczych.
+8. Opis robót udostępniających i przygotowawczych w okresie obowiązywania planu ruchu. Zestawienie robót geologicznych wykonywanych na potrzeby ruchu zakładu górniczego według wzoru nr 4.* Uzasadnienie planowanych do wykonania robót geologicznych.
+9. Systemy eksploatacji złoża, zwałowania i składowania, podstawowe parametry wyrobisk górniczych, zwałowisk nadkładu i składowisk urobku, w szczególności szerokość poziomów i półek, wysokości pięter oraz kąty nachylenia skarp i zboczy. Pasy ochronne wyrobisk górniczych.
 10. Organizacja robót strzałowych, stosowane metody strzelania w zakładzie górniczym, dostawa środków strzałowych, przewidywany maksymalny zasięg zagrożeń rozrzutem odłamków skalnych, działanie udarowej fali powietrza, drgań sejsmicznych, rozmieszczenie schronów strzałowych.
 Składy materiałów wybuchowych — typy składów, lokalizacja, ilość środków strzałowych, które mogą być przechowywane, opis stref zagrożenia.
 11. Zagrożenia naturalne:
@@ -241,10 +244,11 @@ c) profilaktyka;
 16. Organizacja i sposób zabezpieczenia zakładu górniczego w przypadku czasowego wstrzymania eksploatacji.
 17. Zasilanie zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę. Zasilanie rezerwowe. Oświetlenie wyrobisk.
 18. Opis transportu wewnątrzzakładowego — przewozu oponowego, urządzeń odstawy, innych systemów transportu z powołaniem się na regulaminy transportu.
-19. Likwidacja zbędnych ze względów technicznych i technologicznych urządzeń, instalacji, obiektów lub wyrobisk zakładu górniczego. Zestawienie projektowanych zmian w podstawowych obiektach i urządzeniach zakładu górniczego (budowa nowych, przebudowa, rozbudowa i likwidacja) — według wzoru 5.
-Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 6.* ności górniczej, w szczególności obejmujące:
+19. Likwidacja zbędnych ze względów technicznych i technologicznych urządzeń, instalacji, obiektów lub wyrobisk zakładu górniczego. Zestawienie projektowanych zmian w podstawowych obiektach i urządzeniach zakładu górniczego (budowa nowych, przebudowa, rozbudowa i likwidacja) — według wzoru nr 5.
+Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 6.*
+20. Ochrona środowiska. Zamierzenia w zakresie ograniczania i usuwania ujemnych wpływów działalności górniczej, w szczególności obejmujące:
 1) profilaktykę górniczą i budowlaną oraz usuwanie szkód wyrządzonych ruchem zakładu górniczego;
-2) przewidywane kierunki, sposób oraz terminy rozpoczęcia i zakończenia rekultywacji gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego — według wzoru 7;*
+2) przewidywane kierunki, sposób oraz terminy rozpoczęcia i zakończenia rekultywacji gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego — według wzoru nr 7;*
 3) sposób przeciwdziałania zmianom stosunków wodnych;
 4) gospodarkę odpadami oraz masami ziemnymi lub skalnymi powstałymi w związku z prowadzeniem eksploatacji kopalin;
 5) gospodarkę wodno-ściekową, środki techniczne, ochronę oraz oczyszczanie i wykorzystanie wód;
@@ -264,6 +268,7 @@ Dodatkowe zagadnienia ujmowane w planie ruchu zakładu górniczego wydobywające
 28. Zasady współdziałania z załogą urządzenia stałego lub ruchomego, z którego będą prowadzone odkrywkowe roboty górnicze, w tym współdziałanie w zakresie ratownictwa górniczego i morskiego. Organizacja ratownictwa załogi w przypadku konieczności opuszczania urządzenia stałego lub ruchomego oraz system alarmowy i rodzaj wyposażenia ratunkowego.
 29. Opis transportu ludzi, sprzętu i materiałów.
 30. Opis stanu środowiska morskiego (wody, dna morskiego, bentosu) przed rozpoczęciem oraz w trakcie prowadzenia ruchu zakładu górniczego.
+Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu górniczego, z określeniem stanowisk osób kierownictwa i dozoru ruchu. W przypadku wydobywania kopaliny w granicach obszarów morskich Rzeczypospolitej Polskiej struktura organizacyjna uwzględnia również załogę urządzenia stałego lub ruchomego, z którego będą prowadzone odkrywkowe roboty górnicze.
 2. Mapa sytuacyjno-wysokościowa powierzchni w granicach terenu górniczego, sporządzona w skali, w jakiej są sporządzane mapy wyrobisk górniczych, z naniesieniem:
 1) zakresu planowanej eksploatacji;
@@ -286,7 +291,7 @@ Jeżeli skład materiałów wybuchowych jest zlokalizowany poza obszarem górnic
 5) zakresu planowanych na poszczególnych poziomach robót górniczych związanych z usuwaniem nadkładu i eksploatacją złoża kopaliny głównej oraz kopalin towarzyszących w okresie obowiązywania planu ruchu, z oznaczeniem części złoża zakwalifikowanych do przewidywanych strat w zasobach przemysłowych i nieprzemysłowych.
 4. Charakterystyczne przekroje geologiczne złoża w rejonie planowanej eksploatacji, w skali map wyrobisk górniczych, z zaznaczeniem granic udokumentowania złoża, granic zasobów przemysłowych i nieprzemysłowych oraz oznaczonych części złoża zakwalifikowanych do przewidywanych strat w zasobach przemysłowych i nieprzemysłowych.
 5. Charakterystyczne profile wyrobisk górniczych, zwałowisk i składowisk, z uwzględnieniem minimalnych szerokości poziomów i półek, maksymalnych wysokości i kątów nachylenia skarp wyrobisk, zwałowisk i składowisk urobku i wyrobów oraz kątów generalnych zboczy, a także dopuszczalnych szerokości pasów ochronnych.
-trze, inne media energetyczne oraz wodę.
+6. Schematy ideowe zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 7. Schematy ideowe oraz planowane zmiany, w odniesieniu do:
 1) urządzeń głównego odwadniania;
 2) stałego transportu wewnątrzzakładowego i głównej odstawy.* Dodatkowe załączniki ujmowane w planie ruchu zakładu górniczego wydobywającego kopaliny w granicach obszarów morskich Rzeczypospolitej Polskiej:
@@ -301,10 +306,10 @@ PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Zakład górniczy ....
 ZESTAWIENIE PROJEKTOWANYCH STRAT W ZASOBACH ZŁOŻA KOPALINY Zakład górniczy ...........................................
 ZESTAWIENIE ROBÓT GEOLOGICZNYCH WYKONYWANYCH NA POTRZEBY RUCHU ZAKŁADU GÓRNICZEGO Zakład górniczy ...........................................
 ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO Zakład górniczy ...........................................
-PRZEWIDYWANE KIERUNKI, SPOSÓB ORAZ TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO
+PRZEWIDYWANE KIERUNKI, SPOSÓB ORAZ TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO PLAN RUCHU ZAKŁADU GÓRNICZEGO WYDOBYWAJĄCEGO KOPALINY OTWORAMI WIERTNICZYMI
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy według wzoru nr 1.
 2. Przedmiot działalności zakładu górniczego.
 3. Sposoby łączności zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych.
 4. Podstawowe własności fizykochemiczne wydobywanej kopaliny głównej i towarzyszącej.
@@ -314,25 +319,25 @@ W szczególności określa się:
 1) zasady dokumentowania ilości wydobytej kopaliny;
 2) ograniczenia wpływające na dopuszczalne wydobycie kopaliny;
 3) zasoby przemysłowe, a w przypadku:
-a) złóż kopalin stałych także zasoby operatywne,
-b) złóż ropy naftowej i gazu ziemnego także zasoby wydobywalne,
-c) złóż wód leczniczych, wód termalnych i solanek także zasoby eksploatacyjne;
+a) złóż kopalin stałych – także zasoby operatywne,
+b) złóż ropy naftowej i gazu ziemnego – także zasoby wydobywalne,
+c) złóż wód leczniczych, wód termalnych i solanek – także zasoby eksploatacyjne;
 4) wielkość projektowanego wskaźnika wykorzystania zasobów przemysłowych, z uzasadnieniem, w okresie obowiązywania planu ruchu oraz od rozpoczęcia eksploatacji do upływu okresu obowiązywania planu ruchu;
 5) przedsięwzięcia mające na celu kompleksowe i racjonalne wykorzystanie kopaliny głównej i kopalin towarzyszących w okresie obowiązywania planu ruchu;
 6) opis części złoża kopaliny, której wydobycie nie jest technicznie możliwe lub gospodarczo uzasadnione, z uzasadnieniem;
 7) zasoby kopalin towarzyszących określone w projekcie zagospodarowania złoża; w przypadku ich pozyskiwania, podaje się zakres i częstotliwość pomiarów parametrów złożowych oraz warunki eksploatacji;
 8) projektowane straty, z uzasadnieniem, obliczeniem ich wielkości i odniesieniem do rejonu występowania wynikającego z zakresu projektowanej eksploatacji;
-9) zestawienie projektowanych strat w zasobach złoża kopaliny według wzoru 2.
+9) zestawienie projektowanych strat w zasobach złoża kopaliny według wzoru nr 2.
 7. Opis obszaru i terenu górniczego. Charakterystyka obiektów budowlanych zakładu górniczego. Opis obiektów lub obszarów, dla których wyznaczono filar ochronny.
-8. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego według wzoru 3.
-rowych, stref zagrożenia wybuchem oraz miejsc i pomieszczeń zagrożonych powstaniem atmosfery niezdatnej do oddychania.
+8. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego według wzoru nr 3.
+9. Zagrożenia naturalne, techniczne i środowiskowe, ich charakterystyka i profilaktyka. Opis stref pożarowych, stref zagrożenia wybuchem oraz miejsc i pomieszczeń zagrożonych powstaniem atmosfery niezdatnej do oddychania.
 10. Podstawowe dane techniczne urządzeń stosowanych przy wydobywaniu kopalin, w szczególności urządzeń wiertniczych, urządzeń wydobywczych oraz urządzeń związanych z rekonstrukcją odwiertów.
 11. Rodzaje płuczek wiertniczych.
 12. Podstawowe dane techniczne urządzeń do wykonywania zabiegów, w szczególności agregatów cementacyjnych, kompresorów, pomp, urządzeń oczyszczających płuczkę wiertniczą, urządzeń i sprzętu do intensyfikacji przypływu.
 13. Podstawowe dane techniczne urządzeń energetycznych, w szczególności agregatów prądotwórczych, transformatorów, kotłów parowych.
 14. Zasilanie zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 15. Zakres projektowanych wierceń, pogłębień i rekonstrukcji odwiertów, względnie ich likwidacja.
-W przypadku projektowanych wierceń na potrzeby prowadzenia ruchu zakładu górniczego: projekt (projekty) geologiczno-techniczne wiercenia według wzoru 4.
+W przypadku projektowanych wierceń na potrzeby prowadzenia ruchu zakładu górniczego: projekt (projekty) geologiczno-techniczne wiercenia według wzoru nr 4.
 16. Sposób odprowadzania wód złożowych, używania wód technologicznych i związane z tym instalacje techniczne.
 17. Zasady prowadzenia próbnej lub stałej eksploatacji, warunki wydobycia kopaliny z poszczególnych odwiertów i horyzontów produktywnych. Przewidywane zabiegi, charakterystyka płynów stosowanych podczas zabiegów w odwiertach i wtórne metody eksploatacji złoża.
 18. Opis schematu technologicznego eksploatacji, w tym podstawowe parametry techniczne wydobywania kopaliny. Opis systemu kontrolno-pomiarowego procesu technologicznego oraz zakres, rodzaj i częstotliwość pomiarów parametrów złożowych i eksploatacyjnych.
@@ -345,7 +350,7 @@ W przypadku projektowanych wierceń na potrzeby prowadzenia ruchu zakładu górn
 2) rekultywacji gruntów po działalności górniczej;
 3) gospodarki odpadami;
 4) gospodarki wodno-ściekowej, ochrony wód podziemnych i powierzchniowych;
-ograniczenia emisji substancji wprowadzanych do powietrza w sposób zorganizowany i niezorganizowany);
+5) ochrony powietrza przed zanieczyszczeniem (urządzenia ochrony powietrza, zamierzenia w zakresie ograniczenia emisji substancji wprowadzanych do powietrza w sposób zorganizowany i niezorganizowany);
 6) ochrony przed hałasem i wibracjami przenikającymi do środowiska (urządzenia ochronne, zamierzenia w zakresie ograniczenia hałasu i wibracji przenikających do środowiska);
 7) przechowywania substancji toksycznych oraz źródeł promieniowania jonizującego: naturalnego i sztucznego.
 24. Czynniki szkodliwe dla zdrowia w środowisku pracy. Miejsca i źródła ich występowania. Profilaktyka.
@@ -366,7 +371,7 @@ Plan ruchu zakładu górniczego wydobywającego węglowodory w granicach obszar�
 1) wybuchu, pożaru, utraty kontroli nad odwiertem lub wyciekiem ropy naftowej, gazu ziemnego lub substancji niebezpiecznych powodujących lub mogących potencjalnie spowodować śmiertelne lub ciężkie uszkodzenie ciała;
 2) zdarzenia prowadzącego do poważnego uszkodzenia instalacji lub połączonej infrastruktury powodujących lub mogących potencjalnie spowodować śmiertelne lub ciężkie uszkodzenie ciała;
 3) innego zdarzenia prowadzącego do śmierci lub ciężkich uszkodzeń ciała co najmniej 5 osób, które znajdowały się na instalacji lub uczestniczyły w działaniach związanych ze złożami;
-dowisku i ich naprawie.
+4) poważnej szkody w środowisku, rozumianej zgodnie z przepisami o zapobieganiu szkodom w środowisku i ich naprawie.
 przy czym instalację bezzałogową traktuje się tak, jakby była instalacją załogową.
 W analizie poważnych zagrożeń należy uwzględnić ryzyko dla środowiska, w tym wpływ warunków klimatycznych i zmian klimatu na długofalową odporność instalacji.
 37. Charakterystyka urządzenia stałego lub ruchomego, z którego będą prowadzone roboty górnicze lub wykonywane roboty geologiczne na potrzeby ruchu zakładu górniczego, zwanego dalej „urządzeniem stałym lub ruchomym”, w szczególności:
@@ -387,7 +392,7 @@ W analizie poważnych zagrożeń należy uwzględnić ryzyko dla środowiska, w 
 46. Informacje na temat programu prac związanych z odwiertem, w tym o okresie jego funkcjonowania, szczegółach i weryfikacji zabezpieczeń przed utratą kontroli nad odwiertem (głowice eksploatacyjne, sprzęt, płyny wiertnicze i uszczelnienie kolumn rur okładzinowych) oraz kontroli kierunku wiercenia, a także informacje na temat ograniczeń dotyczących bezpieczeństwa działań, zgodnie z zarządzaniem ryzykiem.
 47. Rzeczoznawca do spraw ruchu zakładu górniczego ocenia, czy profilaktyka zagrożeń, o której mowa w pkt 8, jest odpowiednia, w szczególności czy zastosowane zabezpieczenia i systemy sterowania w sposób właściwy zabezpieczają odwiert przed zagrożeniami.
 48. Podsumowanie udziału pracowników w przygotowaniu dokumentu bezpieczeństwa w zakresie charakterystyki zagrożeń występujących w zakładzie górniczym.
-nanie zmian w planie ruchu zakładu górniczego w trybie, określonym w art. 108 ust. 10e ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.* Załączniki do planu ruchu
+49. Informacja o sposobie uwzględnienia postanowienia organu nadzoru górniczego nakazującego dokonanie zmian w planie ruchu zakładu górniczego w trybie, określonym w art. 108 ust. 10e ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.* Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu górniczego, z określeniem stanowisk osób kierownictwa i dozoru ruchu. W przypadku wydobywania kopaliny w granicach obszarów morskich Rzeczypospolitej Polskiej struktura organizacyjna uwzględnia również załogę urządzenia stałego lub ruchomego, odpowiadającą etatyzacji statków.
 2. Mapa sytuacyjno-wysokościowa powierzchni w granicach terenu górniczego, sporządzona w skali nie mniejszej niż 1:25 000, z naniesieniem:
 1) granic obszaru i terenu górniczego, przedstawionych zgodnie z Polskimi Normami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju;
@@ -407,7 +412,7 @@ W przypadkach uzasadnionych rozbudowaną infrastrukturą liniową mapa terenu pr
 6. Schemat rurociągów technologicznych, z uwzględnieniem pompowni i zbiorników magazynowych.
 7. Wykaz odwiertów z podaniem ich przeznaczenia i głębokości oraz interwałów udostępnienia horyzontów produktywnych.
 8. Schematy ideowe zasilania zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
-wiertniczymi pomija się załącznik 4. Do tego planu ruchu dodatkowo są załączane dokumenty wymienione w pkt 9 13:
+W planie ruchu zakładu górniczego wydobywającego kopaliny stałe otworami wiertniczymi pomija się załącznik nr 4. Do tego planu ruchu dodatkowo są załączane dokumenty wymienione w pkt 9 13:
 9. Mapa wydobycia kopaliny, sporządzona w skali nie mniejszej niż 1:5 000, z oznaczeniem:
 1) kwalifikacji zasobów przemysłowych i nieprzemysłowych;
 2) strat w zasobach;
@@ -423,7 +428,7 @@ wiertniczymi pomija się załącznik 4. Do tego planu ruchu dodatkowo są załą
 7) rurociągów technologicznych, z podaniem zdolności przesyłowych, oraz zbiorników, z podaniem zdolności magazynowych.
 12. Schematy konstrukcji i uzbrojenia odwiertów napowierzchniowe i wgłębne.
 13. Schemat zasilania zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
-W planie ruchu zakładu górniczego wydobywającego węglowodory otworami wiertniczymi w granicach obszarów morskich Rzeczypospolitej Polskiej pomija się załącznik 2. Do tego planu ruchu są załączane dodatkowo dokumenty wymienione w pkt 14 18:
+W planie ruchu zakładu górniczego wydobywającego węglowodory otworami wiertniczymi w granicach obszarów morskich Rzeczypospolitej Polskiej pomija się załącznik nr 2. Do tego planu ruchu są załączane dodatkowo dokumenty wymienione w pkt 14 18:
 14. Mapa batymetryczna dna morskiego, sporządzona w skali nie mniejszej niż 1:25 000, z naniesieniem:
 1) granic udokumentowania złoża;
 2) granic obszaru i terenu górniczego;
@@ -432,20 +437,20 @@ W planie ruchu zakładu górniczego wydobywającego węglowodory otworami wiertn
 15. Strefy zagrożenia pożarowego i zagrożenia wybuchem, naniesione na planie części urządzenia stałego lub ruchomego, z której będą prowadzone roboty górnicze.
 16. Plan zwalczania rozlewów olejowych i likwidacji zagrożeń dla środowiska, skoordynowany z Krajowym Planem Zwalczania Zagrożeń i Zanieczyszczeń Środowiska Morskiego, uzgodniony z właściwym terenowym organem administracji morskiej oraz Morską Służbą Poszukiwania i Ratownictwa.
 17. Opis systemu zarządzania środowiskiem i bezpieczeństwem ruchu.
-górniczego.
+18. Opis systemu niezależnej weryfikacji przeprowadzanej przez rzeczoznawcę do spraw ruchu zakładu górniczego.
 W planie ruchu zakładu górniczego przedsiębiorcy wykonującego działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż otworami wiertniczymi w granicach obszarów morskich Rzeczypospolitej Polskiej pkt 37 49 niniejszego planu ruchu oraz pkt 14 18 załączników do planu ruchu wymagają opinii rzeczoznawcy do spraw ruchu zakładu górniczego.
 Zakład górniczy ...........................................
 PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Zakład górniczy ...........................................
 ZESTAWIENIE PROJEKTOWANYCH STRAT W ZASOBACH ZŁOŻA KOPALINY Zakład górniczy ...........................................
-ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO
+ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO PLAN RUCHU ZAKŁADU GÓRNICZEGO PROWADZĄCEGO METODĄ PODZIEMNĄ: PODZIEMNE BEZZBIORNIKOWE MAGAZYNOWANIE SUBSTANCJI LUB PODZIEMNE SKŁADOWANIE ODPADÓW
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Podstawowe obiekty, maszyny i urządzenia zakładu górniczego:
 1) ogólny opis, charakterystyka i dane techniczne;
 2) zestawienie danych technicznych i parametrów ruchu:
-a) urządzeń wyciągowych w szybach i szybikach — według wzoru 2,
-b) stacji wentylatorów głównych — według wzoru 3.
+a) urządzeń wyciągowych w szybach i szybikach — według wzoru nr 2,
+b) stacji wentylatorów głównych — według wzoru nr 3.
 3. Charakterystyka magazynowanej substancji lub składowanych odpadów, obejmująca:
 1) rodzaj oraz pozycję klasyfikacyjną substancji lub odpadu;
 2) miejsce pochodzenia;
@@ -453,7 +458,7 @@ b) stacji wentylatorów głównych — według wzoru 3.
 4) wyniki badań: składu chemicznego, radioaktywności, toksyczności i wytrzymałości.
 4. Zasilanie zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 5. Charakterystyka terenu przemysłowego zakładu górniczego z określeniem obiektów budowlanych zakładu górniczego.
-6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 4.
+6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 4.
 7. Składy materiałów wybuchowych — typy składów, ich lokalizacja, ilość środków strzałowych, które mogą być przechowywane, oraz sposób przewietrzania.
 8. Charakterystyka geologiczna, hydrogeologiczna i geologiczno-inżynierska górotworu w obszarze górniczym, którego granice zostały wyznaczone dla magazynowania substancji lub składowania odpadów.
 9. Opis bezzbiornikowego magazynowania substancji lub składowania odpadów, z uwzględnieniem:
@@ -462,6 +467,7 @@ b) stacji wentylatorów głównych — według wzoru 3.
 3) zatłaczania magazynowanej substancji lub składowanego odpadu za pomocą otworów wiertniczych.
 10. Termin rozpoczęcia magazynowania lub składowania, przewidywany termin zamknięcia magazynu lub składowiska.
 11. Opis zagospodarowania powierzchni w granicach terenu górniczego. Opis obiektów lub obszarów, dla których wyznaczono filar ochronny.
+12. Przewidywany wpływ działalności na środowisko.
 13. Przedsięwzięcia podjęte w celu ochrony środowiska.
 14. Przewidywane środki, w tym organizacyjne i techniczne, niezbędne do zapewnienia bezpieczeństwa pracy i bezpieczeństwa powszechnego oraz ochrony elementów środowiska, jeżeli w granicach obszaru górniczego są planowane bądź prowadzone roboty związane z poszukiwaniem lub rozpoznawaniem złóż kopalin lub wód podziemnych albo jeżeli obszary górnicze sąsiadują ze sobą.
 15. Niezbędne prace adaptacyjne, uszczelnianie oraz ekranizacja górotworu.
@@ -474,7 +480,7 @@ b) stacji wentylatorów głównych — według wzoru 3.
 6) pojemności wyrobisk górniczych.
 17. Ilość substancji lub odpadów przewidziana do magazynowania lub składowania w okresie obowiązywania planu ruchu w rozbiciu na poszczególne wyrobiska górnicze.
 18. Prace zabezpieczające substancje lub odpady przed ich przemieszczaniem.
-19. Zamierzenia dotyczące utrzymania zdolności magazynowania substancji lub składowania odpadów, w tym planowane do wykonania wyrobiska górnicze (roboty górnicze) — według wzoru 5. Opis sposobu zagospodarowania kopaliny i skały płonnej lub innej substancji uzyskanej w wyniku robót górniczych.
+19. Zamierzenia dotyczące utrzymania zdolności magazynowania substancji lub składowania odpadów, w tym planowane do wykonania wyrobiska górnicze (roboty górnicze) — według wzoru nr 5. Opis sposobu zagospodarowania kopaliny i skały płonnej lub innej substancji uzyskanej w wyniku robót górniczych.
 20. Roboty wiertnicze dla celów technologicznych oraz roboty geologiczne wykonywane na potrzeby ruchu zakładu górniczego.
 21. Przewietrzanie:
 1) sposoby regulacji i zabezpieczeń:
@@ -487,7 +493,8 @@ c) podsieci wentylacyjnych;
 5) harmonogram niezbędnych robót związanych ze zmianami w sieci wentylacyjnej;*
 6) połączenia wentylacyjne z sąsiednimi zakładami górniczymi.
 22. Zagrożenie metanowe:
-1) charakterystyka zagrożenia metanowego;* działalność w wyrobiskach solnych — gazonośność złoża lub jego części;
+1) charakterystyka zagrożenia metanowego;*
+2) metanonośność w pokładach lub ich częściach, a w odniesieniu do zakładów górniczych prowadzących działalność w wyrobiskach solnych — gazonośność złoża lub jego części;
 3) metanowość bezwzględna zakładu górniczego;
 4) monitorowanie oraz profilaktyka i usuwanie zagrożenia metanowego.
 23. Zagrożenie wyrzutami gazów i skał:
@@ -505,7 +512,7 @@ c) podsieci wentylacyjnych;
 2) monitorowanie oraz profilaktyka i usuwanie zagrożenia tąpaniami.
 27. Zagrożenie wodne i warunki hydrogeologiczne:
 1) charakterystyka zagrożenia wodnego;*
-2) zestawienie źródeł zagrożenia wodnego — według wzoru 6;
+2) zestawienie źródeł zagrożenia wodnego — według wzoru nr 6;
 3) przewidywane kształtowanie się zagrożenia wodnego związanego z magazynowaniem substancji lub składowaniem odpadów;
 4) przewidywane kształtowanie się zagrożenia wodnego ze strony wód powodziowych dla zakładu górniczego, sposoby zabezpieczenia obiektów i wyrobisk górniczych przed skutkami powodzi.
 28. Zagrożenie substancjami promieniotwórczymi:
@@ -519,9 +526,10 @@ c) podsieci wentylacyjnych;
 2) organizacja służby strzałowej.
 31. Ochrona środowiska. Zamierzenia w zakresie ograniczenia i usuwania ujemnych wpływów działalności zakładu górniczego.
 W szczególności uwzględnia się:
+1) ochronę powierzchni;
 2) gospodarkę odpadami;
 3) sposób ochrony wód podziemnych i powierzchniowych, w tym ujęć wód wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia;
-4) gospodarkę wodno-ściekową, w tym zapotrzebowanie, doprowadzenie, odprowadzenie, oczyszczanie i wykorzystanie wód (środki techniczne, bilans wód kopalnianych) — według wzoru 7.
+4) gospodarkę wodno-ściekową, w tym zapotrzebowanie, doprowadzenie, odprowadzenie, oczyszczanie i wykorzystanie wód (środki techniczne, bilans wód kopalnianych) — według wzoru nr 7.
 5) ochronę przed hałasem i wibracjami przenikającymi do środowiska (urządzenia ochronne, zamierzenia w zakresie ograniczenia hałasu i wibracji przenikających do środowiska);
 6) przechowywanie substancji toksycznych oraz źródeł promieniowania jonizującego: naturalnego i sztucznego;
 7) zasady prowadzenia pomiarów i obserwacji wpływów magazynowania i składowania na środowisko i warunki hydrogeologiczne w rejonie wyrobisk przeznaczonych do magazynowania lub składowania oraz na terenie górniczym.
@@ -542,6 +550,8 @@ Załączniki do planu ruchu
 2) granic obszarów i terenów górniczych, które zostały wyznaczone w bezpośrednim sąsiedztwie obszaru i terenu górniczego;
 3) obiektów budowlanych zakładu górniczego;
 4) obrysu wyrobisk górniczych przewidzianych do magazynowania substancji lub składowania odpadów;
+5) dróg transportu substancji lub odpadów;
+6) szybów i miejsc udostępnienia magazynu lub składowiska z powierzchni;
 7) ujęć wód podziemnych i powierzchniowych.
 3. Mapa podstawowych przekrojów geologicznych przez rejon magazynu lub składowiska.
 4. Mapy wyrobisk górniczych, sporządzone w skali nie mniejszej niż 1:5 000, z naniesieniem:
@@ -571,24 +581,24 @@ ZESTAWIENIE DANYCH TECHNICZNYCH I PARAMETRÓW RUCHU STACJI WENTYLATORÓW GŁÓWN
 ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO Zakład górniczy ...........................................
 PLANOWANE DO WYKONANIA WYROBISKA GÓRNICZE (ROBOTY GÓRNICZE) Zakład górniczy ...........................................
 ZESTAWIENIE ŹRÓDEŁ ZAGROŻENIA WODNEGO Zakład górniczy ...........................................
-GOSPODARKA WODNO-ŚCIEKOWA
+GOSPODARKA WODNO-ŚCIEKOWA PLAN RUCHU ZAKŁADU GÓRNICZEGO PROWADZĄCEGO METODĄ OTWOROWĄ: PODZIEMNE BEZZBIORNIKOWE MAGAZYNOWANIE SUBSTANCJI LUB PODZIEMNE SKŁADOWANIE ODPADÓW
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Przedmiot działalności zakładu górniczego.
 3. Rodzaje oraz podstawowe własności fizykochemiczne magazynowanych substancji lub składowanych odpadów.
 4. Dane podziemnego magazynu lub składowiska: pojemność całkowita, pojemność robocza, pojemność buforowa, dopuszczalne ciśnienie maksymalne i minimalne, charakterystyka pracy magazynu (poszczególnych komór) lub składowiska, określenie dla każdego z odwiertów podstawowych parametrów zatłaczania i odbioru.
 5. Podstawowe dane geologiczne i hydrogeologiczne magazynu lub składowiska. Warunki izolacji magazynu lub składowiska. Niezbędne prace adaptacyjne i uzupełniające; uszczelnianie górotworu.
 6. Opis obszaru i terenu górniczego. Opis obiektów lub obszarów, dla których wyznaczono filar ochronny.
 7. Przewidywane środki, w tym organizacyjne i techniczne, niezbędne do zapewnienia bezpieczeństwa pracy i bezpieczeństwa powszechnego oraz ochrony poszczególnych złóż kopalin i innych elementów środowiska, jeżeli w granicach obszaru górniczego są planowane bądź prowadzone roboty związane z poszukiwaniem lub rozpoznawaniem złóż kopalin lub wód podziemnych albo jeżeli obszary górnicze sąsiadują ze sobą.
-8. Charakterystyka obiektów budowlanych zakładu górniczego. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 2.
+8. Charakterystyka obiektów budowlanych zakładu górniczego. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 2.
 9. Podstawowe dane techniczne urządzeń stosowanych przy magazynowaniu substancji lub składowaniu odpadów, w szczególności urządzeń wiertniczych, urządzeń wydobywczych oraz urządzeń związanych z rekonstrukcją odwiertów.
 10. Podstawowe dane techniczne urządzeń do wykonywania zabiegów, w szczególności agregatów cementacyjnych, kompresorów, pomp, urządzeń oczyszczających płuczkę wiertniczą, urządzeń i sprzętu do intensyfikacji przypływu.
 11. Podstawowe dane techniczne urządzeń energetycznych, w szczególności agregatów prądotwórczych, transformatorów, kotłów parowych.
 12. Zasilanie zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 13. Zamierzenia dotyczące utrzymania zdolności magazynowania substancji lub składowania odpadów, w tym zakres projektowanych wierceń, pogłębień i rekonstrukcji odwiertów, względnie ich likwidacji.
-W przypadku projektowanych wierceń na potrzeby prowadzenia ruchu zakładu górniczego: projekt (projekty) geologiczno-techniczne wiercenia — według wzoru 3.
-gazynowania i składowania na okres przestoju.
+W przypadku projektowanych wierceń na potrzeby prowadzenia ruchu zakładu górniczego: projekt (projekty) geologiczno-techniczne wiercenia — według wzoru nr 3.
+14. Sposoby likwidacji odwiertów, ich oznakowanie oraz zabezpieczenie odwiertów wyłączonych z magazynowania i składowania na okres przestoju.
 15. Sposób odprowadzania wód związanych z magazynowaną substancją i związane z tym instalacje techniczne.
 16. Opis procesu technologicznego magazynowania lub składowania (rurociągi, zbiorniki, przepompownie i inne instalacje oraz urządzenia). Opis systemu kontrolno-pomiarowego procesu technologicznego oraz zakres, rodzaj i częstotliwość pomiarów parametrów magazynowania i składowania, w tym szczelności magazynu lub składowiska.
 17. Stosowane systemy i zabezpieczenia przed uszkadzaniem filarów ochronnych lub filarów międzykomorowych, naruszaniem półek ochronnych oraz wypływami płynów na powierzchnię.
@@ -609,7 +619,8 @@ gazynowania i składowania na okres przestoju.
 25. Szkolenie załogi.
 Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu górniczego, z określeniem stanowisk osób kierownictwa i dozoru ruchu.
-2. Mapa sytuacyjno-wysokościowa powierzchni w granicach terenu górniczego w skali nie mniejszej niż Normami dotyczącymi map górniczych;
+2. Mapa sytuacyjno-wysokościowa powierzchni w granicach terenu górniczego w skali nie mniejszej niż 1:25 000, z naniesieniem:
+1) granic obszaru i terenu górniczego oraz granic zakładu górniczego, przedstawionych zgodnie z Polskimi Normami dotyczącymi map górniczych;
 2) granic obszarów i terenów górniczych, które zostały wyznaczone w bezpośrednim sąsiedztwie obszaru i terenu górniczego;
 3) granic magazynu substancji lub składowiska odpadów;
 4) lokalizacji odwiertów i rurociągów technologicznych;
@@ -627,10 +638,10 @@ Załączniki do planu ruchu
 7. Schematy ideowe zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 Zakład górniczy ...........................................
 PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Zakład górniczy ...........................................
-ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO
+ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO PLAN RUCHU ZAKŁADU GÓRNICZEGO PROWADZĄCEGO PODZIEMNE SKŁADOWANIE DWUTLENKU WĘGLA
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego, w tym sposoby łączności zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Przedmiot działalności zakładu górniczego.
 3. Ilość, skład procentowy oraz charakterystyka, w tym źródła pochodzenia oraz podstawowe własności fizykochemiczne, zatłaczanego dwutlenku węgla. Dopuszczalny skład zatłaczanego dwutlenku węgla.
 4. Dane podziemnego składowiska dwutlenku węgla: pojemność całkowita, dopuszczalne ciśnienie maksymalne, charakterystyka pracy podziemnego składowiska dwutlenku węgla, określenie dla każdego z odwiertów podstawowych parametrów zatłaczania, w tym maksymalnej wydajności i ciśnienia zatłaczania dwutlenku węgla.
@@ -639,12 +650,12 @@ ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU G
 7. Zagrożenia naturalne, techniczne i środowiskowe, ich charakterystyka i profilaktyka. Opis stref pożarowych, stref zagrożenia wybuchem oraz miejsc i pomieszczeń zagrożonych powstaniem atmosfery niezdatnej do oddychania.
 8. Przewidywane środki, w tym organizacyjne i techniczne, niezbędne do zapewnienia bezpieczeństwa pracy i bezpieczeństwa powszechnego oraz ochrony złóż kopalin, wód podziemnych i innych elementów środowiska, jeżeli w granicach obszaru górniczego są planowane bądź prowadzone roboty związane z poszukiwaniem lub rozpoznawaniem złóż kopalin lub wód podziemnych albo jeżeli obszary górnicze sąsiadują ze sobą.
 9. Przewidywane przedsięwzięcia mające na celu zapobieżenie wystąpieniu wycieków dwutlenku węgla oraz wydostaniu się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla, a także mające na celu zapobieżenie innym nieprawidłowościom w procesie podziemnego składowania dwutlenku węgla, które mogą powodować zagrożenie dla bezpieczeństwa pracy i bezpieczeństwa powszechnego lub dla zdrowia i życia ludzi oraz dla środowiska, w tym wód podziemnych.
-10. Charakterystyka obiektów budowlanych zakładu górniczego. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 2.
+10. Charakterystyka obiektów budowlanych zakładu górniczego. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 2.
 11. Podstawowe dane techniczne urządzeń stosowanych przy składowaniu dwutlenku węgla, w szczególności urządzeń instalacji do zatłaczania dwutlenku węgla, urządzeń wiertniczych oraz urządzeń związanych z rekonstrukcją odwiertów.
-agregatów cementacyjnych, kompresorów, pomp, urządzeń oczyszczających płuczkę wiertniczą, urządzeń i sprzętu do intensyfikacji przypływu.
+12. Podstawowe dane techniczne urządzeń do wykonywania zabiegów specjalnych, w szczególności agregatów cementacyjnych, kompresorów, pomp, urządzeń oczyszczających płuczkę wiertniczą, urządzeń i sprzętu do intensyfikacji przypływu.
 13. Podstawowe dane techniczne urządzeń energetycznych, w szczególności agregatów prądotwórczych, transformatorów, kotłów parowych.
 14. Zasilanie zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę, z podaniem podstawowych parametrów technicznych i technologicznych.
-15. Zamierzenia dotyczące utrzymania zdolności składowania dwutlenku węgla, w tym zakres projektowanych wierceń, pogłębień i rekonstrukcji odwiertów, względnie ich likwidacji. W przypadku projektowanych wierceń na potrzeby prowadzenia ruchu zakładu górniczego: projekt (projekty) geologiczno-techniczny wiercenia — według wzoru 3.
+15. Zamierzenia dotyczące utrzymania zdolności składowania dwutlenku węgla, w tym zakres projektowanych wierceń, pogłębień i rekonstrukcji odwiertów, względnie ich likwidacji. W przypadku projektowanych wierceń na potrzeby prowadzenia ruchu zakładu górniczego: projekt (projekty) geologiczno-techniczny wiercenia — według wzoru nr 3.
 16. Szczegółowe dane identyfikujące otwór wiertniczy lub odwiert, w tym dane lokalizacyjne otworu wiertniczego lub odwiertu.
 17. Sposoby i harmonogram likwidacji otworów wiertniczych lub odwiertów, ich oznakowanie oraz zabezpieczenie odwiertów wyłączonych ze składowania dwutlenku węgla na okres przestoju.
 18. Opis procesu technologicznego składowania (rurociągi, zbiorniki, przepompownie, odwierty iniekcyjne i inne instalacje oraz urządzenia), z podaniem podstawowych parametrów technicznych i technologicznych (wydajność, temperatura i ciśnienie zatłaczanego dwutlenku węgla), oraz określeniem granicy pomiędzy operatorem sieci transportowej dwutlenku węgla a zakładem górniczym prowadzącym składowanie, a także rozwiązań technicznych w zakresie bezpiecznego odbioru dwutlenku węgla od operatora sieci transportowej.
@@ -659,7 +670,7 @@ agregatów cementacyjnych, kompresorów, pomp, urządzeń oczyszczających płuc
 3) gospodarki odpadami;
 4) gospodarki wodno-ściekowej, ochrony wód podziemnych i powierzchniowych (z uwzględnieniem stref ochronnych);
 5) ochrony powietrza przed zanieczyszczeniem (urządzenia ochrony powietrza, zamierzenia w zakresie ograniczenia emisji substancji wprowadzanych do powietrza w sposób zorganizowany i niezorganizowany);
-w zakresie ograniczenia hałasu i wibracji);
+6) ochrony przed hałasem i wibracjami przenikającymi do środowiska (urządzenia ochronne, zamierzenia w zakresie ograniczenia hałasu i wibracji);
 7) przechowywania substancji toksycznych oraz źródeł promieniowania jonizującego: naturalnego i sztucznego;
 8) oceny ryzyka wycieku składowanego dwutlenku węgla oraz ryzyka związanego z bezpieczeństwem długoterminowego składowania dwutlenku węgla.
 25. Opis przedsięwzięć, które będą podejmowane w związku z zamknięciem i po zamknięciu podziemnego składowiska dwutlenku węgla, ze szczególnym uwzględnieniem ich uwarunkowań technicznych.
@@ -681,7 +692,7 @@ Plan ruchu zakładu górniczego prowadzącego podziemne składowanie dwutlenku w
 34. Opis transportu ludzi, sprzętu i materiałów.
 35. Głębokość morza w miejscu lokalizacji otworu wiertniczego lub odwiertu oraz warunki posadowienia urządzenia stałego lub kotwiczenia urządzenia ruchomego.
 36. Opis stanu środowiska morskiego (wody, dna morskiego, bentosu) prowadzony przed rozpoczęciem oraz w trakcie ruchu zakładu górniczego.
-nikającego z charakteru dna morskiego i z zagrożeń istniejących w środowisku morskim, takich jak rurociągi i zakotwiczenie urządzeń ruchomych lub statków.
+37. Opis ograniczeń wynikających z charakteru środowiska morskiego i warunków meteorologicznych, które mogą wpływać na bezpieczeństwo składowania, a także ustaleń dotyczących identyfikacji ryzyka wynikającego z charakteru dna morskiego i z zagrożeń istniejących w środowisku morskim, takich jak rurociągi i zakotwiczenie urządzeń ruchomych lub statków.
 38. Informacje na temat programu prac związanych z obsługą i wykorzystaniem odwiertu, w tym o okresie jego funkcjonowania, szczegółach i weryfikacji zabezpieczeń przed utratą kontroli nad odwiertem (głowice eksploatacyjne sprzęt, płyny wiertnicze i uszczelnienie kolumn rur okładzinowych) oraz kontroli kierunku wiercenia, a także informacje na temat ograniczeń dotyczących bezpieczeństwa działań, zgodnie z zarządzaniem ryzykiem.
 Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu górniczego, z określeniem stanowisk osób kierownictwa i dozoru ruchu.
@@ -692,7 +703,7 @@ Załączniki do planu ruchu
 4) nieruchomości, na której będzie zlokalizowany zakład górniczy, w szczególności instalacja zatłaczająca oraz instalacja służąca do prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla;
 5) lokalizacji odwiertów i rurociągów technologicznych;
 6) stref zasilania i stref ochronnych dla wód i ujęć wody;
-7) granic sekcji mapy składowiska dwutlenku węgla w skali nie mniejszej niż 1:5 000, stanowiących załącznik 6 do planu ruchu.
+7) granic sekcji mapy składowiska dwutlenku węgla w skali nie mniejszej niż 1:5 000, stanowiących załącznik nr 6 do planu ruchu.
 3. Mapy strukturalno-tektoniczne i hydrogeologiczne składowiska dwutlenku węgla w skali nie mniejszej niż 1:25 000.
 4. Schemat technologiczny z uwzględnieniem rurociągów, pompowni i zbiorników technologicznych, z podaniem zasadniczych parametrów oraz oznaczeniem miejsca przekazania dwutlenku węgla do zakładu górniczego (granicy podziału pomiędzy operatorem sieci transportowej a zakładem górniczym).
 5. Wykaz odwiertów z podaniem ich przeznaczenia i głębokości oraz interwałów udostępnienia horyzontów składowych dwutlenku węgla.
@@ -704,8 +715,9 @@ Załączniki do planu ruchu
 5) stref zagrożenia pożarowego i zagrożenia wybuchem;
 6) dróg dojazdowych do odwiertów;
 7) głównych ciągów technologicznych, z podaniem zdolności przesyłowych, a przy zbiornikach manipulacyjnych z podaniem zdolności magazynowych.
+7. Schematy konstrukcji i uzbrojenia odwiertów — napowierzchniowe i wgłębne.
 8. Schematy ideowe zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę, z podaniem zasadniczych parametrów.
-W planie ruchu zakładu górniczego prowadzącego podziemne składowanie dwutlenku węgla w granicach obszarów morskich Rzeczypospolitej Polskiej pomija się załącznik 2 i 6. Do tego planu ruchu są załączane dodatkowo dokumenty wymienione w pkt 9—11:
+W planie ruchu zakładu górniczego prowadzącego podziemne składowanie dwutlenku węgla w granicach obszarów morskich Rzeczypospolitej Polskiej pomija się załącznik nr 2 i 6. Do tego planu ruchu są załączane dodatkowo dokumenty wymienione w pkt 9—11:
 9. Mapa batymetryczna dna morskiego, sporządzona w skali nie mniejszej niż 1:25 000, z naniesieniem:
 1) granic rejonu prowadzenia działalności oraz podziemnego składowiska dwutlenku węgla;
 2) granic obszaru i terenu górniczego;
@@ -717,7 +729,7 @@ W planie ruchu zakładu górniczego prowadzącego podziemne składowanie dwutlen
 11. Plan zwalczania rozlewów olejowych i likwidacji zagrożeń dla środowiska, skoordynowany z Krajowym Planem Zwalczania Zagrożeń i Zanieczyszczeń Środowiska Morskiego, uzgodniony z właściwym terenowym organem administracji morskiej oraz Morską Służbą Poszukiwania i Ratownictwa.
 Zakład górniczy ...........................................
 PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Zakład górniczy ...........................................
-ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO
+ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO PLAN RUCHU ZAKŁADU WYKONUJĄCEGO ROBOTY GEOLOGICZNE NIEPOLEGAJĄCE NA BADANIACH GEOFIZYCZNYCH WYMAGAJĄCYCH UŻYCIA ŚRODKÓW STRZAŁOWYCH
 1. Nazwa i dane teleadresowe:*
 1) przedsiębiorcy lub podmiotu, który uzyskał decyzję o zatwierdzeniu projektu robót geologicznych, lub podmiotu, który zgłosił projekt robót geologicznych obejmujący wyłącznie wiercenia w celu wykorzystania ciepła Ziemi;
 2) zakładu;
@@ -737,7 +749,7 @@ Opis konfiguracji otworu w okresie wiercenia, obejmujący w szczególności info
 13. Sposób dostarczania wody dla celów przemysłowych.
 14. Sposób przeprowadzania badań po zakończeniu wiercenia oraz przewidywany okres prowadzenia testów produkcyjnych w odwiertach.
 15. Sposób i termin likwidacji odwiertu albo sposób zabezpieczenia odwiertu do czasu przekazania go do eksploatacji. Zasady i tryb postępowania związanego z przekazaniem odwiertu do eksploatacji.
-pracy i bezpieczeństwa powszechnego oraz ochrony poszczególnych złóż kopalin i innych elementów środowiska, podczas wykonywania robót objętych planem ruchu, jeżeli roboty te będą prowadzone w granicach obszaru górniczego.
+16. Przewidywane środki, w tym organizacyjne i techniczne, niezbędne do zapewnienia bezpieczeństwa pracy i bezpieczeństwa powszechnego oraz ochrony poszczególnych złóż kopalin i innych elementów środowiska, podczas wykonywania robót objętych planem ruchu, jeżeli roboty te będą prowadzone w granicach obszaru górniczego.
 17. Ochrona środowiska, ze szczególnym uwzględnieniem zamierzeń w zakresie:
 1) ochrony powierzchni;
 2) rekultywacji gruntów po robotach geologicznych;
@@ -756,10 +768,11 @@ Plan ruchu zakładu wykonującego roboty geologiczne w granicach obszarów morsk
 2) zdarzenia prowadzącego do poważnego uszkodzenia instalacji lub połączonej infrastruktury powodujących lub mogących potencjalnie spowodować śmiertelne lub ciężkie uszkodzenie ciała;
 3) innego zdarzenia prowadzącego do śmierci lub ciężkich uszkodzeń ciała co najmniej 5 osób, które znajdowały się na instalacji lub uczestniczyły w działaniach związanych ze złożami;
 4) poważnej szkody w środowisku, rozumianej zgodnie z przepisami o zapobieganiu szkodom w środowisku i ich naprawie.
-przy czym instalację bezzałogową traktuje się tak, jakby była instalacją załogową.
+– przy czym instalację bezzałogową traktuje się tak, jakby była instalacją załogową.
 W analizie poważnych zagrożeń należy uwzględnić ryzyko dla środowiska, w tym wpływ warunków klimatycznych i zmian klimatu na długofalową odporność instalacji.
 23. Charakterystyka urządzenia stałego lub ruchomego, z którego będą wykonywane roboty geologiczne, w szczególności:
 1) rodzaj;
+2) podstawowe wyposażenie;
 3) podstawowe parametry techniczne.
 24. Charakterystyka innych stosowanych urządzeń, w szczególności:
 1) rodzaj;
@@ -775,16 +788,16 @@ W analizie poważnych zagrożeń należy uwzględnić ryzyko dla środowiska, w 
 32. Informacje na temat programu prac związanych z otworem wiertniczym, szczegółach i weryfikacji zabezpieczeń przed utratą kontroli nad otworem wiertniczym (sprzęt, głowice przeciwerupcyjne, płyny wiertnicze i uszczelnienie kolumn rur okładzinowych) oraz kontroli kierunku wiercenia, a także informacje na temat ograniczeń dotyczących bezpieczeństwa działań, zgodnie z zarządzeniem ryzykiem.
 33. Rzeczoznawca do spraw ruchu zakładu górniczego ocenia, czy profilaktyka zagrożeń, o której mowa w pkt 7, jest odpowiednia, w szczególności czy zastosowane zabezpieczenia i systemy sterowania w sposób właściwy zabezpieczają odwiert przed zagrożeniami.
 34. Podsumowanie udziału pracowników w przygotowaniu dokumentu bezpieczeństwa w zakresie charakterystyki zagrożeń występujących w zakładzie górniczym.
-35. Informacja o sposobie uwzględnienia postanowienia organu nadzoru górniczego nakazującego dokonanie zmian w planie ruchu zakładu górniczego w trybie określonym w art. 108 ust. 10e ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.
+35. Informacja o sposobie uwzględnienia postanowienia organu nadzoru górniczego nakazującego dokonanie zmian w planie ruchu zakładu górniczego w trybie określonym w art. 108 ust. 10e ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu, z określeniem stanowisk osób kierownictwa i dozoru ruchu.
 2. Odpis koncesji, a w przypadku wykonywania robót geologicznych niewymagających koncesji — decyzji właściwego organu administracji geologicznej zatwierdzający projekt robót geologicznych.
-żeli roboty geologiczne obejmują wyłącznie wiercenia w celu wykorzystania ciepła Ziemi.
-3. Projekt (projekty) geologiczno-techniczny otworu — według wzoru 1.
+Oświadczenie przedsiębiorcy o przyjęciu bez sprzeciwu projektu robót geologicznych przez starostę, jeżeli roboty geologiczne obejmują wyłącznie wiercenia w celu wykorzystania ciepła Ziemi.
+3. Projekt (projekty) geologiczno-techniczny otworu — według wzoru nr 1.
 4. Mapa sytuacyjno-wysokościowa powierzchni w skali zapewniającej czytelność przedstawianej treści, z naniesioną lokalizacją otworów oraz ich oznaczeniem, lokalizacją obiektów budowlanych zakładu, a także z naniesieniem granic zakładu oraz granic istniejących obszarów i terenów górniczych.
 5. Schematy ideowe zasilania wiertni w energię elektryczną.
 Plan ruchu zakładu wykonującego roboty geologiczne w granicach obszarów morskich Rzeczypospolitej Polskiej nie obejmuje załącznika 4. Do tego planu ruchu dodatkowo załącza się dokumenty wymienione w pkt 6—11:
-6. Projekt (projekty) geologiczno-techniczny otworu — według wzoru 2.
+6. Projekt (projekty) geologiczno-techniczny otworu — według wzoru nr 2.
 7. Mapa batymetryczna dna morskiego w skali nie mniejszej niż 1:25 000, z naniesieniem:
 1) lokalizacji otworów wiertniczych;
 2) rurociągów i instalacji podwodnych;
@@ -794,6 +807,7 @@ Plan ruchu zakładu wykonującego roboty geologiczne w granicach obszarów morsk
 10. Opis systemu zarządzania środowiskiem i bezpieczeństwem ruchu.
 11 Opis sytemu niezależnej weryfikacji przeprowadzanej przez rzeczoznawcę do spraw ruchu zakładu górniczego.
 W planie ruchu zakładu przedsiębiorcy wykonującego działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej pkt 22–35 niniejszego planu ruchu oraz pkt 6–11 załączników do planu ruchu wymagają opinii rzeczoznawcy do spraw ruchu zakładu.
+PLAN RUCHU ZAKŁADU WYKONUJĄCEGO ROBOTY GEOLOGICZNE, POLEGAJĄCE NA BADANIACH GEOFIZYCZNYCH WYMAGAJĄCYCH UŻYCIA ŚRODKÓW STRZAŁOWYCH
 1. Nazwa i dane teleadresowe:*
 1) przedsiębiorcy lub podmiotu, który uzyskał decyzję o zatwierdzeniu projektu robót geologicznych;
 2) zakładu;
@@ -816,7 +830,7 @@ W planie ruchu zakładu przedsiębiorcy wykonującego działalność polegając�
 3) gospodarki odpadami;
 4) gospodarki wodno-ściekowej, ochrony wód podziemnych i powierzchniowych;
 5) ochrony powietrza przed zanieczyszczeniem (urządzenia ochrony powietrza, zamierzenia w zakresie ograniczenia emisji substancji wprowadzanych do powietrza w sposób zorganizowany i niezorganizowany);
-w zakresie ograniczenia hałasu i wibracji przenikających do środowiska);
+6) ochrony przed hałasem i wibracjami przenikającymi do środowiska (urządzenia ochronne, zamierzenia w zakresie ograniczenia hałasu i wibracji przenikających do środowiska);
 7) przechowywania substancji toksycznych oraz źródeł promieniowania jonizującego: naturalnego i sztucznego.
 15. Czynniki szkodliwe dla zdrowia w środowisku pracy. Miejsca i źródła ich występowania. Profilaktyka.
 16. Opis szczególnych przedsięwzięć w zakresie ochrony przeciwpożarowej.
@@ -825,28 +839,28 @@ w zakresie ograniczenia hałasu i wibracji przenikających do środowiska);
 Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu, z określeniem stanowisk osób kierownictwa i dozoru ruchu.
 2. Mapa sytuacyjno-wysokościowa powierzchni, w skali zapewniającej czytelność przedstawianej treści, z oznaczeniem profili z otworami strzałowymi, naniesieniem granic zakładu i granic istniejących obszarów i terenów górniczych oraz lokalizacji obiektów wymagających szczególnej ochrony.
+PLAN RUCHU LIKWIDOWANEGO (LIKWIDOWANEJ OZNACZONEJ CZĘŚCI) PODZIEMNEGO ZAKŁADU GÓRNICZEGO
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Podstawowe obiekty, maszyny i urządzenia zakładu górniczego:
 1) ogólny opis, charakterystyka i dane techniczne;
 2) zestawienie danych technicznych i parametrów ruchu:
-a) urządzeń wyciągowych w szybach i szybikach — według wzoru 2,
-b) stacji wentylatorów głównych — według wzoru 3.
+a) urządzeń wyciągowych w szybach i szybikach — według wzoru nr 2,
+b) stacji wentylatorów głównych — według wzoru nr 3.
 3. Zasilanie zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 4. Charakterystyka terenu przemysłowego zakładu górniczego z określeniem obiektów budowlanych zakładu górniczego.
-5. Zestawienie projektowanych robót budowlanych w zakresie rozbiórki obiektów budowlanych zakładu górniczego — według wzoru 4. Zestawienie obiektów budowlanych zakładu górniczego, nieprzeznaczonych do rozbiórki, dla których przewiduje się inne formy zagospodarowania i użytkowania — według wzoru
-5.
+5. Zestawienie projektowanych robót budowlanych w zakresie rozbiórki obiektów budowlanych zakładu górniczego — według wzoru nr 4. Zestawienie obiektów budowlanych zakładu górniczego, nieprzeznaczonych do rozbiórki, dla których przewiduje się inne formy zagospodarowania i użytkowania — według wzoru nr 5.
 6. Składy materiałów wybuchowych — typy składów, ich lokalizacja, ilość środków strzałowych, które mogą być przechowywane, oraz sposób przewietrzania.
 7. Przewidywane zmiany charakteru i kolejności likwidacji podstawowych obiektów, maszyn i urządzeń zakładu górniczego.
 8. Okres likwidacji zakładu górniczego, w tym: przewidywane terminy rozpoczęcia likwidacji zakładu górniczego, rozpoczęcia likwidacji podstawowych obiektów, maszyn i urządzeń zakładu górniczego, zakończenia eksploatacji i zakończenia likwidacji zakładu górniczego oraz terminy rozpoczęcia i zakończenia rekultywacji gruntów po działalności górniczej.
-9. Opis robót górniczych związanych z likwidacją zakładu górniczego lub jego oznaczonej części. Opis partii złoża lub pokładów, w których roboty te będą prowadzone — według wzoru 6.
+9. Opis robót górniczych związanych z likwidacją zakładu górniczego lub jego oznaczonej części. Opis partii złoża lub pokładów, w których roboty te będą prowadzone — według wzoru nr 6.
 10. Sposób likwidacji szybów i szybików oraz innych wyrobisk górniczych, mających połączenie z powierzchnią.
 11. Sposób likwidacji wyrobisk niewymienionych w pkt 10, ze szczególnym uwzględnieniem przewidywanego zakresu zastosowania podsadzki, w tym:
 1) zakres stosowania poszczególnych rodzajów podsadzki lub mieszanin doszczelniających;
 2) stosowane technologie podsadzania lub doszczelniania, podstawowe parametry techniczne i eksploatacyjne instalacji oraz urządzeń do wytwarzania i transportu podsadzki oraz mieszanin doszczelniających, a także sposób odprowadzania i oczyszczania wody podsadzkowej;
 3) zakres i częstotliwość monitorowania podsadzania lub doszczelniania rejonu.
-ru 7 — oraz wykaz i harmonogram likwidacji wyrobisk górniczych.
+12. Przewidywane do likwidacji wyrobiska udostępniające i wyrobiska przygotowawcze — według wzoru nr 7 — oraz wykaz i harmonogram likwidacji wyrobisk górniczych.
 13. Roboty wiertnicze.
 14. Sposób zagospodarowania kopaliny uzyskanej w trakcie robót likwidacyjnych.
 15. Przedsięwzięcia chroniące sąsiednie złoża kopalin oraz wyrobiska sąsiednich zakładów górniczych.
@@ -872,8 +886,8 @@ c) plan likwidacji pól pożarowych;
 2) metody zapobiegania pożarom egzogenicznym.
 22. Zagrożenie wodne i warunki hydrogeologiczne:
 1) charakterystyka zagrożenia wodnego;*
-2) zestawienie źródeł zagrożenia wodnego dla planowanych robót likwidacyjnych — według wzoru 8;
-jego oznaczonej części dla czynnych wyrobisk zakładu górniczego i sąsiednich zakładów górniczych oraz sposób ich zabezpieczenia;
+2) zestawienie źródeł zagrożenia wodnego dla planowanych robót likwidacyjnych — według wzoru nr 8;
+3) przewidywane kształtowanie się zagrożenia wodnego związanego z likwidacją zakładu górniczego lub jego oznaczonej części dla czynnych wyrobisk zakładu górniczego i sąsiednich zakładów górniczych oraz sposób ich zabezpieczenia;
 4) wpływ zmian warunków hydrogeologicznych związanych z likwidacją na wody podziemne i powierzchniowe, w tym ujęcia wód wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia;
 5) planowany sposób kontroli zmian warunków hydrogeologicznych w górotworze w trakcie prowadzenia likwidacji i po jej zakończeniu.
 23. Zagrożenie substancjami promieniotwórczymi: przewidywane kształtowanie się stanu zagrożenia substancjami promieniotwórczymi.
@@ -893,9 +907,10 @@ W szczególności uwzględnia się:
 8) sposób zabezpieczenia obiektów, urządzeń lub wyrobisk stanowiących zabytki archeologiczne i inne zabytki;
 9) sposób zabezpieczenia przed niekontrolowaną emisją gazów kopalnianych;
 10) zasady postępowania z odpadami oraz masami ziemnymi lub skalnymi powstałymi w związku z likwidacją zakładu górniczego lub jego oznaczonej części;
-11) gospodarkę wodno-ściekową — według wzoru 9, a także ogólne zamierzenia w tym zakresie w związku z likwidacją zakładu górniczego lub jego oznaczonej części.
+11) gospodarkę wodno-ściekową — według wzoru nr 9, a także ogólne zamierzenia w tym zakresie w związku z likwidacją zakładu górniczego lub jego oznaczonej części.
 27. Czynniki szkodliwe dla zdrowia w środowisku pracy. Miejsca i źródła ich występowania. Profilaktyka.
 28. Organizacja opieki lekarskiej, w tym udzielanie pierwszej pomocy przedmedycznej.
+Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu górniczego, z określeniem stanowisk osób kierownictwa i dozoru ruchu.
 2. Harmonogram likwidacji zakładu górniczego lub jego oznaczonej części.
 3. Mapa sytuacyjno-wysokościowa powierzchni w granicach terenu górniczego, sporządzona w skali nie mniejszej niż 1:5 000, a w uzasadnionych przypadkach w skali 1:10 000, przedstawiająca sytuację i zagospodarowanie powierzchni w granicach terenu górniczego, z naniesieniem:
@@ -926,14 +941,14 @@ W szczególności uwzględnia się:
 14) wyrobisk przewidzianych do likwidacji z wykorzystaniem odpadów.
 5. Przekroje geologiczne rejonów, w których są planowane górnicze roboty likwidacyjne, oraz połączenia hydrauliczne z sąsiednimi zakładami górniczymi.
 6. Schemat ideowy sieci rurociągów odmetanowania z uwzględnieniem stacji odmetanowania.
-w wyrobiskach górniczych odpadów oraz mas ziemnych lub skalnych powstałych w związku z wydobywaniem kopalin ze złóż wraz z ich przerabianiem.
+7. Schematy ideowe rurociągów podsadzkowych oraz schematy instalacji służących do wykorzystywania w wyrobiskach górniczych odpadów oraz mas ziemnych lub skalnych powstałych w związku z wydobywaniem kopalin ze złóż wraz z ich przerabianiem.
 8. Schematy ideowe zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 9. Schematy ideowe układów głównego odwadniania.
 10. Schematy ideowe układów przewozu i jazdy ludzi w wyrobiskach poziomych oraz pochyłych o nachyleniu do 45°.
 11. Schemat ideowy centralnych lub grupowych urządzeń klimatyzacyjnych.
 12. Schematy ideowe układów rurociągów przeciwpożarowych oraz głównych rurociągów w szybach, z zaznaczeniem głównych i rezerwowych zbiorników wodnych.
 13. Książka obudowy obejmująca rysunki stosowanej w okresie obowiązywania planu ruchu obudowy dla wyrobisk górniczych.
-14. Inwentaryzacja gruntów zakładu górniczego wymagających rekultywacji oraz przewidywany kierunek, sposób i terminy rozpoczęcia i zakończenia rekultywacji — według wzoru 10.
+14. Inwentaryzacja gruntów zakładu górniczego wymagających rekultywacji oraz przewidywany kierunek, sposób i terminy rozpoczęcia i zakończenia rekultywacji — według wzoru nr 10.
 Likwidowany zakład górniczy ...........................................
 PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Likwidowany zakład górniczy ...........................................
 ZESTAWIENIE DANYCH TECHNICZNYCH I PARAMETRÓW RUCHU URZĄDZEŃ WYCIĄGOWYCH W SZYBACH I SZYBIKACH Likwidowany zakład górniczy ...........................................
@@ -944,14 +959,14 @@ OPIS PARTII ZŁOŻA LUB POKŁADÓW, W KTÓRYCH BĘDĄ PROWADZONE ROBOTY GÓRNICZ
 PRZEWIDYWANE DO LIKWIDACJI WYROBISKA UDOSTĘPNIAJĄCE I WYROBISKA PRZYGOTOWAWCZE Likwidowany zakład górniczy ...........................................
 ZESTAWIENIE ź RÓDEŁ ZAGROŻENIA WODNEGO DLA PLANOWANYCH ROBÓT LIKWIDACYJNYCH Likwidowany zakład górniczy ...........................................
 GOSPODARKA WODNO-ŚCIEKOWA Likwidowany zakład górniczy ...........................................
-INWENTARYZACJA GRUNTÓW ZAKŁADU GÓRNICZEGO WYMAGAJĄCYCH REKULTYWACJI ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI
+INWENTARYZACJA GRUNTÓW ZAKŁADU GÓRNICZEGO WYMAGAJĄCYCH REKULTYWACJI ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI PLAN RUCHU LIKWIDOWANEGO (LIKWIDOWANEJ OZNACZONEJ CZĘŚCI) ODKRYWKOWEGO ZAKŁADU GÓRNICZEGO
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Okres likwidacji zakładu górniczego, w tym: terminy rozpoczęcia likwidacji zakładu górniczego, rozpoczęcia likwidacji podstawowych obiektów i urządzeń zakładu górniczego, zakończenia eksploatacji i zakończenia likwidacji zakładu górniczego oraz terminy rozpoczęcia i zakończenia rekultywacji gruntów po działalności górniczej.
 3. Opis terenu górniczego oraz jego zagospodarowania, z określeniem obiektów budowlanych zakładu górniczego, a także jego zmiany w okresie obowiązywania planu ruchu, wraz z opisem obiektów lub obszarów, dla których wyznaczono filar ochronny.
 4. Charakterystyka geologiczna i hydrogeologiczna złoża. Zmiany warunków hydrogeologicznych przewidywane podczas likwidacji, z uwzględnieniem wpływów na sąsiednie zakłady górnicze oraz na warunki hydrogeologiczne wód podziemnych i powierzchniowych, w tym ujęć wód wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia.
-5. Opis planowanych sposobów ochrony sąsiednich złóż kopalin. Zestawienie zasobów kopaliny głównej i kopalin towarzyszących według dodatku do dokumentacji geologicznej rozliczającego zasoby złoża kopaliny lub według operatu ewidencyjnego zasobów złoża kopaliny — według wzoru 2.
+5. Opis planowanych sposobów ochrony sąsiednich złóż kopalin. Zestawienie zasobów kopaliny głównej i kopalin towarzyszących według dodatku do dokumentacji geologicznej rozliczającego zasoby złoża kopaliny lub według operatu ewidencyjnego zasobów złoża kopaliny — według wzoru nr 2.
 6. Opis sposobu likwidacji lub zabezpieczenia wyrobisk górniczych i zwałowisk, a w przypadku wykorzystania odpadów do likwidacji — także zakres i częstotliwość monitoringu wód. Opis robót górniczych związanych z likwidacją zakładu górniczego.
 7. Organizacja robót strzałowych, stosowane metody strzelania w zakładzie górniczym, dostawa środków strzałowych, przewidywany maksymalny zasięg zagrożeń rozrzutem odłamków skalnych, działanie udarowej fali powietrza, drgań sejsmicznych, rozmieszczenie schronów strzałowych.
 Składy materiałów wybuchowych — typ składów, lokalizacja, ilość środków strzałowych, które mogą być przechowywane, opis stref zagrożenia.
@@ -965,6 +980,7 @@ b) profilaktyka;
 3) zagrożenie wodne:
 a) charakterystyka zagrożenia,*
 b) opis źródeł zagrożenia, z uwzględnieniem wód opadowych oraz wód powodziowych,
+c) profilaktyka;
 4) inne zagrożenia naturalne.
 9. Zagrożenie pożarowe i jego charakterystyka.
 10. Zamknięte źródła promieniowania jonizującego: naturalnego i sztucznego, ich wielkości oraz miejsca występowania.
@@ -981,17 +997,17 @@ transportu wewnątrzzakładowego — przewozu oponowego, urządzeń odstawy, inn
 6) ochronę powietrza przed zanieczyszczeniem (urządzenia i środki ochrony powietrza, zamierzenia w zakresie ograniczenia emisji substancji wprowadzanych do powietrza w sposób zorganizowany i niezorganizowany);
 7) ochronę przed hałasem i wibracjami (urządzenia ochronne, zamierzenia w zakresie ograniczenia hałasu i wibracji przenikających do środowiska).
 Opis wpływu likwidacji zakładu górniczego na środowisko oraz obiekty i urządzenia na powierzchni.
-Zestawienie obiektów zakładu górniczego oraz obiektów przewidzianych do likwidacji — według wzoru
-3.
+Zestawienie obiektów zakładu górniczego oraz obiektów przewidzianych do likwidacji — według wzoru nr 3.
 16. Opis przedsięwzięć związanych z ochroną wyrobisk sąsiednich zakładów górniczych.
 17. Sposób zabezpieczenia lub likwidacji urządzeń technicznych, urządzeń transportowych oraz zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
-18. Zestawienie projektowanych robót budowlanych w zakresie rozbiórki obiektów budowlanych zakładu górniczego — według wzoru 4. Zestawienie obiektów budowlanych zakładu górniczego, nieprzeznaczonych do rozbiórki, dla których przewiduje się inne formy zagospodarowania i użytkowania — według wzoru 5.
+18. Zestawienie projektowanych robót budowlanych w zakresie rozbiórki obiektów budowlanych zakładu górniczego — według wzoru nr 4. Zestawienie obiektów budowlanych zakładu górniczego, nieprzeznaczonych do rozbiórki, dla których przewiduje się inne formy zagospodarowania i użytkowania — według wzoru 5.
 19. Czynniki szkodliwe dla zdrowia w środowisku pracy. Miejsca i źródła ich występowania. Profilaktyka.
 20. Organizacja opieki lekarskiej, w tym udzielanie pierwszej pomocy przedmedycznej.
 21. Szkolenie załogi.
+Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu górniczego, z określeniem stanowisk osób kierownictwa i dozoru ruchu. W przypadku wydobywania kopaliny w granicach obszarów morskich Rzeczypospolitej Polskiej schemat organizacyjny uwzględnia również załogę urządzenia stałego lub ruchomego.
 2. Harmonogram likwidacji zakładu górniczego.
-3. Inwentaryzacja gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego oraz przewidywany kierunek, sposób i terminy rozpoczęcia i zakończenia rekultywacji — według wzoru 6.
+3. Inwentaryzacja gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego oraz przewidywany kierunek, sposób i terminy rozpoczęcia i zakończenia rekultywacji — według wzoru nr 6.
 4. Mapa sytuacyjno-wysokościowa powierzchni w granicach terenu górniczego, sporządzona w skali, w jakiej są sporządzane mapy wyrobisk górniczych, z naniesieniem:
 1) robót likwidacyjnych i rekultywacyjnych;
 2) zwałowisk nadkładu i składowisk urobku;
@@ -1013,7 +1029,7 @@ Jeżeli skład materiałów wybuchowych jest zlokalizowany poza obszarem górnic
 5) zakresu planowanych na poszczególnych poziomach robót górniczych związanych z likwidacją zakładu górniczego.
 6. Charakterystyczne przekroje geologiczne złoża, w skali map wyrobisk górniczych, z zaznaczeniem granic udokumentowania złoża oraz granic zasobów przemysłowych i nieprzemysłowych.
 7. Charakterystyczne profile wyrobisk górniczych, zwałowisk i składowisk, z uwzględnieniem minimalnych szerokości poziomów i półek, maksymalnych wysokości i kątów nachylenia skarp wyrobisk, zwałowisk i składowisk urobku i wyrobów oraz kątów generalnych zboczy, a także dopuszczalnych szerokości pasów ochronnych.
-trze, inne media energetyczne oraz wodę.
+8. Schematy ideowe zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 9. Schematy ideowe oraz planowane zmiany, w odniesieniu do:
 1) urządzeń głównego odwadniania;
 2) stałego transportu wewnątrzzakładowego i głównej odstawy.* Dodatkowe załączniki ujmowane w planie ruchu zakładu górniczego wydobywającego kopaliny w granicach obszarów morskich Rzeczypospolitej Polskiej:
@@ -1028,15 +1044,15 @@ PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Likwidowany zakład g�
 ZESTAWIENIE OBIEKTÓW ZAKŁADU GÓRNICZEGO ORAZ OBIEKTÓW PRZEWIDZIANYCH DO LIKWIDACJI Likwidowany zakład górniczy ...........................................
 ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W ZAKRESIE ROZBIÓRKI OBIEKTÓW BUDOWLANYCH ZAKŁADU GÓRNICZEGO Likwidowany zakład górniczy ...........................................
 ZESTAWIENIE OBIEKTÓW BUDOWLANYCH ZAKŁADU GÓRNICZEGO, NIEPRZEZNACZONYCH DO ROZBIÓRKI, DLA KTÓRYCH PRZEWIDUJE SIĘ INNE FORMY ZAGOSPODAROWANIA I UŻYTKOWANIA Likwidowany zakład górniczy ...........................................
-INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI
+INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI PLAN RUCHU LIKWIDOWANEGO (LIKWIDOWANEJ OZNACZONEJ CZĘŚCI) ZAKŁADU GÓRNICZEGO WYDOBYWAJĄCEGO KOPALINY OTWORAMI WIERTNICZYMI
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Przedmiot działalności zakładu górniczego.
 3. Sposoby łączności zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych.
 4. Podstawowe dane geologiczne i hydrogeologiczne likwidowanego złoża po zakończeniu eksploatacji.
 5. Opis obszaru i terenu górniczego. Charakterystyka obiektów budowlanych likwidowanego zakładu górniczego.
-6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 2. Harmonogram robót. Opis obiektów niepodlegających likwidacji oraz sposób ich zabezpieczenia.
+6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 2. Harmonogram robót. Opis obiektów niepodlegających likwidacji oraz sposób ich zabezpieczenia.
 7. Zagrożenia naturalne, techniczne i środowiskowe, ich charakterystyka i profilaktyka. Opis stref pożarowych, stref zagrożenia wybuchem oraz miejsc i pomieszczeń zagrożonych powstaniem atmosfery niezdatnej do oddychania.
 8. Podstawowe dane techniczne urządzeń stosowanych do likwidacji zakładu górniczego, w szczególności urządzeń wiertniczych, związanych z likwidacją odwiertów.
 9. Podstawowe dane techniczne urządzeń do wykonywania zabiegów, w szczególności agregatów cementacyjnych, kompresorów oraz pomp.
@@ -1047,7 +1063,7 @@ INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU G�
 14. Gospodarka wodno-ściekowa i odpadami oraz ogólne zamierzenia w tym zakresie w związku z likwidacją zakładu górniczego.
 15. Monitoring zmian ciśnienia w zlikwidowanych komorach eksploatacyjnych, sposoby likwidacji zapadlisk w obrębie wpływów eksploatacji.
 16. Opis planowanych sposobów ochrony sąsiednich złóż kopalin. Przewidywane skutki likwidacji zakładu górniczego dla środowiska, z uwzględnieniem wód podziemnych i powierzchniowych oraz stateczności powierzchni. Przedsięwzięcia chroniące wyrobiska sąsiednich zakładów górniczych.
-pracy i bezpieczeństwa powszechnego oraz ochrony poszczególnych złóż kopalin i innych elementów środowiska, jeżeli w granicach obszaru górniczego lub w rejonie objętym likwidacją są planowane bądź prowadzone roboty związane z poszukiwaniem lub rozpoznawaniem złóż kopalin lub wód podziemnych albo jeżeli obszary górnicze sąsiadują ze sobą.
+17. Przewidywane środki, w tym organizacyjne i techniczne, niezbędne do zapewnienia bezpieczeństwa pracy i bezpieczeństwa powszechnego oraz ochrony poszczególnych złóż kopalin i innych elementów środowiska, jeżeli w granicach obszaru górniczego lub w rejonie objętym likwidacją są planowane bądź prowadzone roboty związane z poszukiwaniem lub rozpoznawaniem złóż kopalin lub wód podziemnych albo jeżeli obszary górnicze sąsiadują ze sobą.
 18. Ochrona środowiska, ze szczególnym uwzględnieniem zamierzeń w zakresie:
 1) ochrony powierzchni;
 2) rekultywacji gruntów po działalności górniczej;
@@ -1065,10 +1081,11 @@ Plan ruchu likwidowanego zakładu górniczego prowadzącego działalność w gra
 2) zdarzenia prowadzącego do poważnego uszkodzenia instalacji lub połączonej infrastruktury powodujących lub mogących potencjalnie spowodować śmiertelne lub ciężkie uszkodzenie ciała;
 3) innego zdarzenia prowadzącego do śmierci lub ciężkich uszkodzeń ciała co najmniej 5 osób, które znajdowały się na instalacji lub uczestniczyły w działaniach związanych ze złożami;
 4) poważnej szkody w środowisku, rozumianej zgodnie z przepisami o zapobieganiu szkodom w środowisku i ich naprawie.
-przy czym instalację bezzałogową traktuje się tak, jakby była instalacją załogową.
+– przy czym instalację bezzałogową traktuje się tak, jakby była instalacją załogową.
 W analizie poważnych zagrożeń należy uwzględnić ryzyko dla środowiska, w tym wpływ warunków klimatycznych i zmian klimatu na długofalową odporność instalacji.
 23. Charakterystyka urządzenia stałego lub ruchomego, z którego będą prowadzone roboty likwidacyjne, w szczególności:
 1) rodzaj i typ;
+2) podstawowe wyposażenie;
 3) podstawowe parametry techniczne.
 24. Charakterystyka innych stosowanych urządzeń, w szczególności:
 1) rodzaj;
@@ -1083,13 +1100,13 @@ W analizie poważnych zagrożeń należy uwzględnić ryzyko dla środowiska, w 
 31. Opis ograniczeń wynikających z charakteru środowiska morskiego i warunków meteorologicznych, które mogą wpływać na bezpieczeństwo likwidacji, a także ustaleń dotyczących identyfikacji ryzyka wynikającego z charakteru dna morskiego i z zagrożeń istniejących w środowisku morskim, takich jak rurociągi i zakotwiczenie urządzeń ruchomych lub statków.
 32. Rzeczoznawca do spraw ruchu zakładu górniczego ocenia, czy profilaktyka zagrożeń, o której mowa w pkt 7, jest odpowiednia, w szczególności czy zastosowane zabezpieczenia i systemy sterowania w sposób właściwy zabezpieczają odwiert przed zagrożeniami.
 33. Podsumowanie udziału pracowników w przygotowaniu dokumentu bezpieczeństwa w zakresie charakterystyki zagrożeń występujących w zakładzie górniczym.
-34. Informacja o sposobie uwzględnienia postanowienia organu nadzoru górniczego nakazującego dokonanie zmian w planie ruchu zakładu górniczego w trybie określonym w art. 108 ust. 10e ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.
+34. Informacja o sposobie uwzględnienia postanowienia organu nadzoru górniczego nakazującego dokonanie zmian w planie ruchu zakładu górniczego w trybie określonym w art. 108 ust. 10e ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu górniczego, z określeniem stanowisk osób kierownictwa oraz dozoru ruchu. W przypadku likwidacji odwiertów w granicach obszarów morskich Rzeczypospolitej Polskiej struktura organizacyjna uwzględnia również załogę urządzenia stałego lub ruchomego, odpowiadającą etatyzacji statków.
 2. Mapa sytuacyjno-wysokościowa powierzchni w granicach terenu górniczego, sporządzona w skali nie mniejszej niż 1:25 000, z naniesieniem:
 1) granic udokumentowania złoża;
 2) granic obszaru i terenu górniczego oraz granic zakładu górniczego, przedstawionych zgodnie z Polskimi Normami dotyczącymi map górniczych;
-i terenu górniczego;
+3) granic obszarów i terenów górniczych, które zostały wyznaczone w bezpośrednim sąsiedztwie obszaru i terenu górniczego;
 4) lokalizacji odwiertów oraz rurociągów związanych z eksploatacją kopaliny;
 5) wyrobisk mających połączenia z powierzchnią terenu;
 6) niecek bezodpływowych i kategorii przydatności terenu do zabudowy po zakończeniu działalności górniczej;
@@ -1104,7 +1121,7 @@ i terenu górniczego;
 W przypadkach uzasadnionych rozbudowaną infrastrukturą liniową mapa terenu przemysłowego zakładu górniczego, w części dotyczącej tej infrastruktury, sporządzona jest w skali 1:10 000.
 4. Wykaz obiektów nieobjętych likwidacją zakładu górniczego.
 5. Schematy ideowe zasilania zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
-6. Inwentaryzacja gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego oraz przewidywany kierunek, sposób i terminy rozpoczęcia i zakończenia rekultywacji — według wzoru 3.
+6. Inwentaryzacja gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego oraz przewidywany kierunek, sposób i terminy rozpoczęcia i zakończenia rekultywacji — według wzoru nr 3.
 Do planu ruchu likwidowanego zakładu górniczego wydobywającego kopaliny stałe otworami wiertniczymi dodatkowo są załączane:
 7. Mapa odwiertów w skali nie mniejszej niż 1:5 000, z naniesieniem:
 1) pól eksploatacyjnych, rejonów i kierunków eksploatacji istniejących odwiertów;
@@ -1114,34 +1131,35 @@ Do planu ruchu likwidowanego zakładu górniczego wydobywającego kopaliny stał
 5) dróg dojazdowych do odwiertów (rejonów);
 6) rurociągów technologicznych, z podaniem zdolności przesyłowych, oraz zbiorników, z podaniem zdolności magazynowych.
 8. Schematy konstrukcji i uzbrojenia odwiertów — napowierzchniowe i wgłębne.
-W planie ruchu likwidowanego zakładu górniczego wydobywającego węglowodory otworami wiertniczymi w granicach obszarów morskich Rzeczypospolitej Polskiej pomija się załączniki 2, 3 i 6. Do tego planu ruchu są załączane:
+W planie ruchu likwidowanego zakładu górniczego wydobywającego węglowodory otworami wiertniczymi w granicach obszarów morskich Rzeczypospolitej Polskiej pomija się załączniki nr 2, 3 i 6. Do tego planu ruchu są załączane:
 9. Mapa batymetryczna dna morskiego w skali nie mniejszej niż 1:25 000, z naniesieniem:
 1) granic udokumentowania złoża;
+2) granic obszaru i terenu górniczego;
 3) lokalizacji odwiertów;
 4) rurociągów i instalacji podwodnych.
 10. Strefy zagrożenia pożarowego i zagrożenia wybuchem, naniesione na planie części urządzenia stałego lub ruchomego, z której będą wykonywane prace likwidacyjne.
 11. Plan zwalczania rozlewów olejowych i likwidacji zagrożeń dla środowiska, skoordynowany z Krajowym Planem Zwalczania Zagrożeń i Zanieczyszczeń Środowiska Morskiego, uzgodniony z właściwym terenowym organem administracji morskiej oraz Morską Służbą Poszukiwania i Ratownictwa.
 12. Opis systemu zarządzania środowiskiem i bezpieczeństwem ruchu.
 13. Opis systemu niezależnej weryfikacji przeprowadzanej przez rzeczoznawcę do spraw ruchu zakładu górniczego.
-W planie ruchu zakładu przedsiębiorcy wykonującego działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej pkt 23 - 35 niniejszego planu ruchu oraz pkt 9 13 załączników do planu ruchu wymagają opinii rzeczoznawcy do spraw ruchu zakładu.
+W planie ruchu zakładu przedsiębiorcy wykonującego działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej pkt 23 - 35 niniejszego planu ruchu oraz pkt 9 – 13 załączników do planu ruchu wymagają opinii rzeczoznawcy do spraw ruchu zakładu.
 Likwidowany zakład górniczy ...........................................
 PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Likwidowany zakład górniczy ...........................................
 ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO Likwidowany zakład górniczy ...........................................
-INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI
+INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI PLAN RUCHU LIKWIDOWANEGO (LIKWIDOWANEJ OZNACZONEJ CZĘŚCI) ZAKŁADU GÓRNICZEGO PROWADZĄCEGO METODĄ PODZIEMNĄ: PODZIEMNE BEZZBIORNIKOWE MAGAZYNOWANIE SUBSTANCJI LUB PODZIEMNE SKŁADOWANIE ODPADÓW
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Podstawowe obiekty, maszyny i urządzenia zakładu górniczego:
 1) ogólny opis, charakterystyka i dane techniczne;
 2) zestawienie danych technicznych i parametrów ruchu:
-a) urządzeń wyciągowych w szybach i szybikach — według wzoru 2,
-b) stacji wentylatorów głównych — według wzoru 3.
+a) urządzeń wyciągowych w szybach i szybikach — według wzoru nr 2,
+b) stacji wentylatorów głównych — według wzoru nr 3.
 3. Charakterystyka magazynowanych substancji lub składowanych odpadów, obejmująca:
 1) rodzaj oraz pozycję klasyfikacyjną substancji lub odpadu;
 2) własności fizyczne i chemiczne odpadu.
 4. Zasilanie zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 5. Charakterystyka terenu przemysłowego zakładu górniczego z określeniem obiektów budowlanych zakładu górniczego.
-6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 4.
+6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 4.
 7. Charakterystyka geologiczna, hydrogeologiczna i geologiczno-inżynierska górotworu w obszarze górniczym, którego granice wyznaczono dla magazynowania substancji lub składowania odpadów.
 8. Okres likwidacji zakładu górniczego, w tym: przewidywane terminy rozpoczęcia likwidacji zakładu górniczego, rozpoczęcia likwidacji podstawowych obiektów, maszyn i urządzeń zakładu górniczego, zakończenia prowadzenia ruchu i zakończenia likwidacji zakładu górniczego oraz terminy rozpoczęcia i zakończenia rekultywacji gruntów po działalności górniczej.
 9. Niezbędne prace adaptacyjne, uszczelnianie oraz ekranizacja górotworu.
@@ -1149,9 +1167,9 @@ b) stacji wentylatorów głównych — według wzoru 3.
 11. Sposób likwidacji szybów i szybików oraz innych wyrobisk górniczych, mających połączenie z powierzchnią.
 12. Sposób likwidacji wyrobisk niewymienionych w pkt 11, ze szczególnym uwzględnieniem przewidywanego zakresu zastosowania podsadzki, w tym:
 1) zakres stosowania poszczególnych rodzajów podsadzki lub mieszanin doszczelniających;
-cyjne instalacji oraz urządzeń do wytwarzania i transportu podsadzki oraz mieszanin doszczelniających, a także sposób odprowadzania i oczyszczania wody podsadzkowej;
+2) stosowane technologie podsadzania lub doszczelniania, podstawowe parametry techniczne i eksploatacyjne instalacji oraz urządzeń do wytwarzania i transportu podsadzki oraz mieszanin doszczelniających, a także sposób odprowadzania i oczyszczania wody podsadzkowej;
 3) zakres i częstotliwość monitorowania podsadzania lub doszczelniania rejonu.
-13. Przewidywane do likwidacji wyrobiska górnicze — według wzoru 5, a także harmonogram likwidacji wyrobisk górniczych.
+13. Przewidywane do likwidacji wyrobiska górnicze — według wzoru nr 5, a także harmonogram likwidacji wyrobisk górniczych.
 14. Opis zagospodarowania powierzchni w granicach terenu górniczego.
 15. Wpływ działalności na środowisko oraz przedsięwzięcia podjęte w celu ochrony środowiska.
 16. Roboty wiertnicze dla celów technologicznych.
@@ -1180,11 +1198,12 @@ c) podsieci wentylacyjnych;
 21. Zagrożenie pożarowe:
 1) pożarami endogenicznymi: ocena zagrożenia pożarowego, rozpoznawanie i profilaktyka, zestawienie pól pożarowych;
 2) pożarami egzogenicznymi: metody zapobiegania.
+22. Zagrożenie tąpaniami:
 1) charakterystyka zagrożenia tąpaniami;*
 2) monitorowanie oraz profilaktyka i usuwanie zagrożenia tąpaniami.
 23. Zagrożenie wodne i warunki hydrogeologiczne:
 1) charakterystyka zagrożenia wodnego;*
-2) zestawienie źródeł zagrożenia wodnego — według wzoru 6;
+2) zestawienie źródeł zagrożenia wodnego — według wzoru nr 6;
 3) przewidywane kształtowanie się zagrożenia wodnego związanego z magazynowaniem substancji lub składowaniem odpadów;
 4) przewidywane kształtowanie się zagrożenia wodnego ze strony wód powodziowych dla zakładu górniczego, sposoby zabezpieczenia obiektów i wyrobisk górniczych przed skutkami powodzi.
 24. Zagrożenie substancjami promieniotwórczymi:
@@ -1200,11 +1219,12 @@ W szczególności uwzględnia się:
 6) sposób przeciwdziałania zmianom stosunków wodnych na powierzchni w przypadku zatapiania wyrobisk zakładu górniczego lub podniesienia poziomu wód gruntowych;
 7) sposób zabezpieczenia obiektów, urządzeń lub wyrobisk stanowiących zabytki archeologiczne i inne zabytki;
 8) sposób zabezpieczenia przed niekontrolowaną emisją gazów kopalnianych;
-9) gospodarkę wodno-ściekową — według wzoru 7, a także ogólne zamierzenia w tym zakresie w związku z likwidacją zakładu górniczego lub jego oznaczonej części;
+9) gospodarkę wodno-ściekową — według wzoru nr 7, a także ogólne zamierzenia w tym zakresie w związku z likwidacją zakładu górniczego lub jego oznaczonej części;
 10) monitoring środowiska w rejonie likwidowanego magazynu lub składowiska: zakres i częstotliwość oraz przewidywane działania zapobiegawcze w przypadku niekontrolowanego wydostawania się substancji lub odpadu z magazynu lub składowiska w trakcie jego likwidacji.
 26. Czynniki szkodliwe dla zdrowia w środowisku pracy. Miejsca i źródła ich występowania. Profilaktyka.
 27. Organizacja opieki lekarskiej, w tym udzielanie pierwszej pomocy przedmedycznej.
 28. Szkolenie załogi.
+Załączniki do planu ruchu
 1. Struktura organizacyjna zakładu górniczego, z określeniem stanowisk osób kierownictwa i dozoru ruchu.
 2. Harmonogram likwidacji zakładu górniczego lub jego oznaczonej części.
 3. Mapa sytuacyjno-wysokościowa powierzchni w granicach terenu górniczego, sporządzona w skali nie mniejszej niż 1:5 000, w uzasadnionych przypadkach w skali 1:10 000, z naniesieniem:
@@ -1238,15 +1258,15 @@ ZESTAWIENIE DANYCH TECHNICZNYCH I PARAMETRÓW RUCHU STACJI WENTYLATORÓW GŁÓWN
 ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO Likwidowany zakład górniczy ...........................................
 PRZEWIDYWANE DO LIKWIDACJI WYROBISKA GÓRNICZE Likwidowany zakład górniczy ...........................................
 ZESTAWIENIE ŹRÓDEŁ ZAGROŻENIA WODNEGO Likwidowany zakład górniczy ...........................................
-GOSPODARKA WODNO-ŚCIEKOWA
+GOSPODARKA WODNO-ŚCIEKOWA PLAN RUCHU LIKWIDOWANEGO (LIKWIDOWANEJ OZNACZONEJ CZĘŚCI) ZAKŁADU GÓRNICZEGO PROWADZĄCEGO METODĄ OTWOROWĄ: PODZIEMNE BEZZBIORNIKOWE MAGAZYNOWANIE SUBSTANCJI LUB PODZIEMNE SKŁADOWANIE ODPADÓW
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Przedmiot działalności zakładu górniczego.
 3. Sposoby łączności zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych.
 4. Podstawowe dane geologiczne i hydrogeologiczne.
 5. Opis obszaru i terenu górniczego. Charakterystyka obiektów budowlanych zakładu górniczego.
-6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 2. Harmonogram robót. Opis obiektów niepodlegających likwidacji oraz sposób ich zabezpieczenia.
+6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 2. Harmonogram robót. Opis obiektów niepodlegających likwidacji oraz sposób ich zabezpieczenia.
 7. Podstawowe dane techniczne urządzeń stosowanych do likwidacji zakładu górniczego, w szczególności urządzeń wiertniczych, związanych z likwidacją odwiertów.
 8. Podstawowe dane techniczne urządzeń do wykonywania zabiegów, w szczególności agregatów cementacyjnych, kompresorów oraz pomp.
 9. Podstawowe dane techniczne urządzeń energetycznych, w szczególności agregatów prądotwórczych, transformatorów oraz kotłów parowych.
@@ -1257,7 +1277,7 @@ GOSPODARKA WODNO-ŚCIEKOWA
 14. Gospodarka wodno-ściekowa i ogólne zamierzenia w tym zakresie w związku z likwidacją zakładu górniczego.
 15. Przewidywane skutki likwidacji zakładu górniczego dla środowiska, z uwzględnieniem wód podziemnych i powierzchniowych oraz stateczności powierzchni. Przedsięwzięcia chroniące wyrobiska sąsiednich zakładów górniczych.
 16. Monitoring zmian ciśnienia w zlikwidowanych komorach, w których magazynowano substancje lub składowano odpady, oraz sposoby likwidacji zapadlisk w obrębie wpływów działalności górniczej.
-pracy i bezpieczeństwa powszechnego oraz ochrony poszczególnych złóż kopalin i innych elementów środowiska, jeżeli w granicach obszaru górniczego lub w rejonie objętym likwidacją są planowane bądź prowadzone roboty związane z poszukiwaniem lub rozpoznawaniem złóż kopalin lub wód podziemnych albo jeżeli obszary górnicze sąsiadują ze sobą.
+17. Przewidywane środki, w tym organizacyjne i techniczne, niezbędne do zapewnienia bezpieczeństwa pracy i bezpieczeństwa powszechnego oraz ochrony poszczególnych złóż kopalin i innych elementów środowiska, jeżeli w granicach obszaru górniczego lub w rejonie objętym likwidacją są planowane bądź prowadzone roboty związane z poszukiwaniem lub rozpoznawaniem złóż kopalin lub wód podziemnych albo jeżeli obszary górnicze sąsiadują ze sobą.
 18. Ochrona środowiska, ze szczególnym uwzględnieniem zamierzeń w zakresie:
 1) ochrony powierzchni;
 2) rekultywacji gruntów po działalności górniczej;
@@ -1283,6 +1303,7 @@ Załączniki do planu ruchu
 3. Wykaz obiektów nieobjętych likwidacją zakładu górniczego.
 4. Wykaz odwiertów z podaniem ich przeznaczenia i głębokości oraz interwałów udostępnienia horyzontów magazynowych i składowych.
 5. Mapa pola magazynowego lub składowego, sporządzona na podkładzie mapy sytuacyjnowysokościowej w skali nie mniejszej niż 1:5 000, z naniesieniem:
+1) rejonów prowadzonej działalności;
 2) obiektów budowlanych zakładu górniczego;
 3) granic filarów ochronnych;
 4) stref zagrożenia pożarowego i zagrożenia wybuchem;
@@ -1290,19 +1311,19 @@ Załączniki do planu ruchu
 6) rurociągów technologicznych.
 6. Schematy konstrukcji i uzbrojenia odwiertów — napowierzchniowe i wgłębne.
 7. Schematy ideowe zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
-8. Inwentaryzacja gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego oraz przewidywany kierunek, sposób i termin rozpoczęcia i zakończenia rekultywacji — według wzoru 3.
+8. Inwentaryzacja gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego oraz przewidywany kierunek, sposób i termin rozpoczęcia i zakończenia rekultywacji — według wzoru nr 3.
 Likwidowany zakład górniczy ...........................................
 PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Likwidowany zakład górniczy ...........................................
 ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO Likwidowany zakład górniczy ...........................................
-INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI
+INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI PLAN RUCHU LIKWIDOWANEGO (LIKWIDOWANEJ OZNACZONEJ CZĘŚCI) ZAKŁADU GÓRNICZEGO PROWADZĄCEGO PODZIEMNE SKŁADOWANIE DWUTLENKU WĘGLA
 1. Podstawowe dane dotyczące przedsiębiorcy i zakładu górniczego:
 1) nazwa i dane teleadresowe przedsiębiorcy i zakładu górniczego, w tym sposoby łączności zakładu górniczego, jego obiektów terenowych oraz jednostek terenowych;*
-2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru 1.
+2) podstawowe wskaźniki charakteryzujące zakład górniczy — według wzoru nr 1.
 2. Przedmiot działalności zakładu górniczego.
 3. Charakterystyka oraz podstawowe własności fizykochemiczne dwutlenku węgla, zatłoczonego do podziemnego składowiska dwutlenku węgla.
 4. Aktualne i przewidywane warunki geologiczne, hydrogeologiczne i geologiczno-inżynierskie kompleksu podziemnego składowania dwutlenku węgla. Warunki izolacji składowiska. Niezbędne prace adaptacyjne i uzupełniające, uszczelnianie górotworu.
 5. Opis obszaru i terenu górniczego. Charakterystyka obiektów budowlanych zakładu górniczego.
-6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru 2. Harmonogram robót. Opis obiektów niepodlegających likwidacji oraz sposób ich zabezpieczenia.
+6. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu górniczego — według wzoru nr 2. Harmonogram robót. Opis obiektów niepodlegających likwidacji oraz sposób ich zabezpieczenia.
 7. Zagrożenia naturalne, techniczne i środowiskowe, ich charakterystyka i profilaktyka. Opis stref pożarowych, stref zagrożenia wybuchem oraz miejsc i pomieszczeń zagrożonych powstaniem atmosfery niezdatnej do oddychania.
 8. Podstawowe dane techniczne urządzeń stosowanych do likwidacji zakładu górniczego, w szczególności urządzeń wiertniczych, związanych z likwidacją odwiertów.
 9. Podstawowe dane techniczne urządzeń do wykonywania zabiegów związanych z likwidacją lub zabezpieczeniem składowiska, w szczególności agregatów cementacyjnych, kompresorów oraz pomp.
@@ -1313,7 +1334,7 @@ INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU G�
 Wykaz odwiertów niepodlegających likwidacji oraz sposób ich zabezpieczenia.
 14. Harmonogram robót likwidacyjnych.
 15. Opis przedsięwzięć, które będą podejmowane w związku z zamknięciem i po zamknięciu podziemnego składowiska dwutlenku węgla, ze szczególnym uwzględnieniem ich uwarunkowań technicznych.
-tlenku węgla z jego zachowaniem modelowym, określonym w dokumentacji geologicznej.
+16. Ocena zgodności zachowania się dwutlenku węgla zatłoczonego do podziemnego składowiska dwutlenku węgla z jego zachowaniem modelowym, określonym w dokumentacji geologicznej.
 17. Charakterystyka szczelności zamykanego podziemnego składowiska dwutlenku węgla i likwidowanej instalacji zatłaczającej oraz instalacji służącej do prowadzenia monitoringu.
 18. Program działań naprawczych w przypadku wydostania się dwutlenku węgla poza składowisko oraz kompleks podziemnego składowania dwutlenku węgla, po jego zamknięciu.
 19. Przewidywane działania naprawcze w przypadku wystąpienia wycieków dwutlenku węgla oraz wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla.
@@ -1332,7 +1353,8 @@ tlenku węgla z jego zachowaniem modelowym, określonym w dokumentacji geologicz
 24. Organizacja opieki lekarskiej, w tym udzielanie pierwszej pomocy przedmedycznej.
 25. Szkolenie załogi.
 26. Opis i harmonogram działań do wykonania po likwidacji obiektów zakładu górniczego, niezbędnych do przekazania odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla.
-Plan ruchu likwidowanego albo likwidowanej oznaczonej części zakładu górniczego prowadzącego podziemne składowanie dwutlenku węgla w granicach obszarów morskich Rzeczypospolitej Polskiej nie obejmuje zagadnień ujętych w pkt 22 ppkt 1 i 2, a dodatkowo obejmuje zagadnienia ujęte w pkt 27—36: w szczególności:
+Plan ruchu likwidowanego albo likwidowanej oznaczonej części zakładu górniczego prowadzącego podziemne składowanie dwutlenku węgla w granicach obszarów morskich Rzeczypospolitej Polskiej nie obejmuje zagadnień ujętych w pkt 22 ppkt 1 i 2, a dodatkowo obejmuje zagadnienia ujęte w pkt 27—36:
+27. Charakterystyka urządzenia stałego lub ruchomego, z którego będą prowadzone roboty likwidacyjne, w szczególności:
 1) rodzaj;
 2) podstawowe wyposażenie;
 3) podstawowe parametry techniczne.
@@ -1354,13 +1376,13 @@ Załączniki do planu ruchu
 1) granic obszaru i terenu górniczego oraz granic zakładu górniczego, przedstawionych zgodnie z Polskimi Normami dotyczącymi map górniczych;
 2) granic obszarów i terenów górniczych, które zostały wyznaczone w bezpośrednim sąsiedztwie obszaru i terenu górniczego;
 3) granic podziemnego składowiska dwutlenku węgla;
-oraz instalacja służąca do prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla;
+4) nieruchomości, na której jest zlokalizowany zakład górniczy, w szczególności instalacja zatłaczająca oraz instalacja służąca do prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla;
 5) lokalizacji odwiertów oraz rurociągów technologicznych;
 6) stref zasilania i stref ochronnych dla wód i ujęć wodnych;
 7) wyrobisk mających połączenia z powierzchnią terenu;
 8) niecek bezodpływowych;
 9) kategorii przydatności terenu do zabudowy po zakończeniu działalności górniczej;
-10) granic sekcji mapy składowiska dwutlenku węgla w skali nie mniejszej niż 1:5 000, stanowiących załącznik 5 do planu ruchu.
+10) granic sekcji mapy składowiska dwutlenku węgla w skali nie mniejszej niż 1:5 000, stanowiących załącznik nr 5 do planu ruchu.
 3. Wykaz obiektów nieobjętych likwidacją zakładu górniczego.
 4. Wykaz odwiertów z podaniem ich przeznaczenia i głębokości oraz interwałów udostępnienia horyzontów składowania dwutlenku węgla.
 5. Mapa składowiska dwutlenku węgla, sporządzona na podkładzie mapy sytuacyjno-wysokościowej w skali nie mniejszej niż 1:5 000, z naniesieniem:
@@ -1373,8 +1395,8 @@ oraz instalacja służąca do prowadzenia monitoringu kompleksu podziemnego skł
 7) zasięgu wpływów działalności.
 6. Schematy konstrukcji i uzbrojenia odwiertów — napowierzchniowe i wgłębne.
 7. Schematy ideowe zasilania zakładu górniczego w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
-8. Inwentaryzacja gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego oraz przewidywany kierunek, sposób i terminy rozpoczęcia i zakończenia rekultywacji — według wzoru 3.
-W planie ruchu zakładu górniczego prowadzącego podziemne składowanie dwutlenku węgla w granicach obszarów morskich Rzeczypospolitej Polskiej pomija się załącznik 2, 5 i 8. Do tego planu ruchu są załączane dodatkowo dokumenty wymienione w pkt 9—11:
+8. Inwentaryzacja gruntów przekształconych w wyniku prowadzenia ruchu zakładu górniczego oraz przewidywany kierunek, sposób i terminy rozpoczęcia i zakończenia rekultywacji — według wzoru nr 3.
+W planie ruchu zakładu górniczego prowadzącego podziemne składowanie dwutlenku węgla w granicach obszarów morskich Rzeczypospolitej Polskiej pomija się załącznik nr 2, 5 i 8. Do tego planu ruchu są załączane dodatkowo dokumenty wymienione w pkt 9—11:
 9. Mapa batymetryczna dna morskiego, sporządzona w skali nie mniejszej niż 1:25 000, z naniesieniem:
 1) granic rejonu prowadzenia działalności oraz podziemnego składowiska dwutlenku węgla;
 2) granic obszaru i terenu górniczego;
@@ -1382,12 +1404,12 @@ W planie ruchu zakładu górniczego prowadzącego podziemne składowanie dwutlen
 4) lokalizacji odwiertów;
 5) rurociągów i instalacji podwodnych;
 6) lokalizacji urządzenia stałego lub ruchomego.
-wstania atmosfery niezdatnej do oddychania, naniesione na planie części urządzenia stałego lub ruchomego, z której będą prowadzone roboty górnicze.
+10. Strefy zagrożenia pożarowego i zagrożenia wybuchem oraz przestrzenie zagrożone możliwością powstania atmosfery niezdatnej do oddychania, naniesione na planie części urządzenia stałego lub ruchomego, z której będą prowadzone roboty górnicze.
 11. Plan zwalczania rozlewów olejowych i likwidacji zagrożeń dla środowiska, skoordynowany z Krajowym Planem Zwalczania Zagrożeń i Zanieczyszczeń Środowiska Morskiego, uzgodniony z właściwym terenowym organem administracji morskiej oraz Morską Służbą Poszukiwania i Ratownictwa.
 Likwidowany zakład górniczy ...........................................
 PODSTAWOWE WSKAŹNIKI CHARAKTERYZUJĄCE ZAKŁAD GÓRNICZY Likwidowany zakład górniczy ...........................................
 ZESTAWIENIE PROJEKTOWANYCH ROBÓT BUDOWLANYCH W OBIEKTACH BUDOWLANYCH ZAKŁADU GÓRNICZEGO Likwidowany zakład górniczy ...........................................
-INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI
+INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU GÓRNICZEGO ORAZ PRZEWIDYWANY KIERUNEK, SPOSÓB I TERMINY ROZPOCZĘCIA I ZAKOŃCZENIA REKULTYWACJI PLAN RUCHU ZAKŁADU PROWADZĄCEGO DZIAŁALNOŚĆ OKREŚLONĄ W ART. 2 UST. 1 USTAWY Z DNIA 9 CZERWCA 2011 r. — PRAWO GEOLOGICZNE I GÓRNICZE
 1. Nazwa i dane teleadresowe zakładu.*
 2. Charakter i miejsce wykonywania działalności oraz informacja o obszarach i terenach górniczych, których granice zostały wyznaczone w bezpośrednim sąsiedztwie.
 3. Sposoby łączności zakładu, jego obiektów terenowych oraz jednostek terenowych.
@@ -1400,16 +1422,17 @@ INWENTARYZACJA GRUNTÓW PRZEKSZTAŁCONYCH W WYNIKU PROWADZENIA RUCHU ZAKŁADU G�
 10. Sposób odwadniania zakładu.
 11. Organizacja robót strzałowych wraz z organizacją służby strzałowej.
 12. Zestawienie danych technicznych i parametrów ruchu:
-1) urządzeń wyciągowych w szybach i szybikach — według wzoru 1;
-2) stacji wentylatorów głównych — według wzoru 2.
+1) urządzeń wyciągowych w szybach i szybikach — według wzoru nr 1;
+2) stacji wentylatorów głównych — według wzoru nr 2.
 13. Dane techniczne urządzeń stosowanych do wykonania robót, likwidacji obiektów, urządzeń oraz instalacji.
-14. Podstawowe dane techniczne obiektów budowlanych i urządzeń energetycznych zakładu. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu — według wzoru 3.
+14. Podstawowe dane techniczne obiektów budowlanych i urządzeń energetycznych zakładu. Zestawienie projektowanych robót budowlanych w obiektach budowlanych zakładu — według wzoru nr 3.
 15. Zasilanie zakładu, jego obiektów terenowych oraz jednostek terenowych w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 16. Organizacja służby dyspozytorskiej i sposób ewidencji osób przebywających w wyrobiskach.
 17. Charakterystyka zagrożeń naturalnych związanych z prowadzoną działalnością.*
 18. Charakterystyka zagrożenia pożarowego, stref zagrożenia wybuchem oraz miejsc i pomieszczeń zagrożonych powstaniem atmosfery niezdatnej do oddychania.
 19. Przewietrzanie:
 1) sposoby regulacji i zabezpieczeń:
+a) grupowych i rejonowych prądów powietrza,
 b) połączeń pomiędzy prądami powietrza doprowadzanymi od szybu wdechowego a odprowadzanymi do szybu wydechowego,
 c) podsieci wentylacyjnych;
 2) harmonogram niezbędnych robót związanych ze zmianami w sieci wentylacyjnej;*
@@ -1423,7 +1446,7 @@ c) podsieci wentylacyjnych;
 1) ochrony powierzchni;
 2) rekultywacji gruntów po działalności;
 3) gospodarki odpadami;
-4) gospodarki wodno-ściekowej — według wzoru 4;
+4) gospodarki wodno-ściekowej — według wzoru nr 4;
 5) ochrony powietrza przed zanieczyszczeniem (urządzenia ochrony powietrza, zamierzenia w zakresie ograniczenia emisji substancji wprowadzanych do powietrza w sposób zorganizowany i niezorganizowany);
 6) ochrony przed hałasem i wibracjami przenikającymi do środowiska (urządzenia ochronne, zamierzenia w zakresie ograniczenia hałasu i wibracji przenikających do środowiska);
 7) przechowywania substancji toksycznych oraz źródeł promieniowania jonizującego: naturalnego i sztucznego.
@@ -1435,6 +1458,8 @@ Załączniki do planu ruchu
 1) sytuacji i zagospodarowania powierzchni wraz z granicami zakładu oraz granicami obszarów i terenów górniczych, które zostały wyznaczone w bezpośrednim sąsiedztwie prowadzonej działalności;
 2) obiektów budowlanych zakładu;
 3) miejsc i obszarów planowanych robót;
+4) stref występowania zagrożeń;
+5) filarów ochronnych.
 Jeżeli wymaga tego specyfika prowadzonej działalności, dołącza się odpowiednie mapy wyrobisk górniczych, sporządzone zgodnie z Polskimi Normami dotyczącymi map górniczych.
 3. Schemat ideowy zasilania zakładu, jego obiektów terenowych oraz jednostek terenowych w energię elektryczną, parę wodną, sprężone powietrze, inne media energetyczne oraz wodę.
 4. Schematy ideowe układów głównego odwadniania.

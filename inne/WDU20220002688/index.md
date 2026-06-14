@@ -8,10 +8,10 @@ pos: 2688
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2688 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 15 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002688) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2688/text.pdf) |
 
-Poz. 2688 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 15 grudnia 2022 r.
 w sprawie wynagrodzenia prowizyjnego Banku Gospodarstwa Krajowego z tytułu obsługi Rządowego Funduszu Rozwoju Dróg oraz sposobu i terminów jego wypłaty Na podstawie art. 9b ust. 2 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U.
-z 2022 r. poz. 505, 655, 1561, 1768 i 1846) zarządza się, co następuje: § 1. Rozporządzenie określa wysokość wynagrodzenia prowizyjnego Banku Gospodarstwa Krajowego, zwanego dalej „Bankiem”, z tytułu obsługi Rządowego Funduszu Rozwoju Dróg, zwanego dalej „Funduszem”, oraz sposób i terminy jego wypłaty.
+z 2022 r. poz. 505, 655, 1561, 1768 i 1846) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wysokość wynagrodzenia prowizyjnego Banku Gospodarstwa Krajowego, zwanego dalej „Bankiem”, z tytułu obsługi Rządowego Funduszu Rozwoju Dróg, zwanego dalej „Funduszem”, oraz sposób i terminy jego wypłaty.
 § 2. 1. Bankowi przysługuje wynagrodzenie prowizyjne w wysokości iloczynu kosztów faktycznie poniesionych przez Bank z tytułu obsługi Funduszu i współczynnika 1,02.
 2. Podstawę do obliczenia wynagrodzenia prowizyjnego stanowią koszty faktycznie poniesione przez Bank z tytułu obsługi Funduszu w granicach określonych w planie uzasadnionych kosztów ponoszonych przez Bank z tytułu obsługi Funduszu stanowiącym załącznik do planu finansowego Funduszu, o którym mowa w art. 9 ust. 1 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg.
 3. Bank samodzielnie pobiera miesięczne wynagrodzenie prowizyjne 10 dnia miesiąca następującego po miesiącu, którego to wynagrodzenie dotyczy.

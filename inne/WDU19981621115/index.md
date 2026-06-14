@@ -8,7 +8,7 @@ pos: 1115
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 1) art. 4 otrzymuje brzmienie: „Art. 4. Świadczenia zdrowotne mogą być udzielane przez zakłady opieki zdrowotnej oraz przez osoby fizyczne wykonujące zawód medyczny lub przez grupową praktykę lekarską, grupową praktykę pielęgniarek, położnych na zasadach określonych w odrębnych przepisach;.
@@ -72,6 +72,26 @@ Nie dotyczy to zakładów, o których mowa w art. 43a.";
 
 **Art. 43g.** Do szpitala klinicznego, w zakresie spraw nie uregulowanych w niniejszym rozdziale, stosuje się odpowiednio przepisy ustawy".;
 
+- **9)** w art. 44 po ust. 4 dodaje się ust. 5 1 6 w brzmieniu: "5. Z kierownikiem szpitala klinicznego nawiązuje stosunek pracy albo zawiera umowę cywilnoprawną Minister Zdrowia i Opieki Społecznej, po uzgodnieniu z rektorem państwowej uczelni medycznej lub państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, z zastrzeżeniem art. 43b ust. 7.
+
+6. Uzgodnienie, o którym mowa w ust. 5, dotyczy wyłącznie osoby proponowanej na stanowisko kierownika szpitala klinicznego;.
+
+- **10)** wart. 44a:
+    - **a)** w ust. 1: - pkt I otrzymuje brzmienie: "|) kierownika zakładu, z wyjątkiem kierownika samodzielnego zakładu opieki zdrowotnej oraz kierownika szpitala klinicznego,", - po pkt 3 dodaje się pkt 3a 1 3b w brzmieniu: "3a) ordynatora - kierownika kliniki, 3b) ordynatora - kierownika oddziału klinicznego”,,
+    - **b)** ust. 2 otrzymuje brzmienie: „„2. Konkurs na stanowisko kierownika zakładu opieki zdrowotnej oraz zastępcy kierownika w okoliczności określonej w ust. 1 pkt 2, ogłasza podmiot, który utworzył zakład, a na pozostałe stanowiska - kierownik zakładu, z zastrzeżeniem ust. 2a.",
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „„2a. Konkurs na stanowisko ordynatora - kierownika kliniki oraz ordynatora - kierownika oddziału klinicznego ogłasza i przeprowadza rektor właściwej państwowej uczelni medycznej lub państwowej uczelni prowadzącej działalność dydaktyczną 1 badawczą w dziedzinie nauk medycznych”.,
+    - **d)** po ust. 7 dodaje się ust. 7a w brzmieniu: „„/a. Stosunek pracy nawiązany z kandydatem wybranym na stanowisko ordynatora - kierownika kliniki oraz ordynatora - kierownika oddziału klinicznego może być rozwiązany na wniosek kierownika zakładu;.
+
+- **11)** po art. 44b dodaje się art. 44c w brzmieniu: "Art. 44c. W samodzielnym publicznym szpitalu klinicznym Minister Zdrowia i Opieki Społecznej powołuje społeczną radę szpitala, której skład 1 zadania określa w statucie tej jednostki.";
+- **12)** wart. 45 w ust. I w pkt 2 lit. e) otrzymuje brzmienie: "e) przedstawiciel rektora państwowej uczelni medycznej lub państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych lub dyrektora Centrum Medycznego Kształcenia Podyplomowego - w zakładzie (szpitalu), w którym jest oddział kliniczn y . " ;
+- **13)** w art. 48a w ust. 1 w pkt 2 przecinek na końcu zastępuje się kropką oraz skreśla się pkt 3;
+- **14)** skreśla się rozdział 5;
+- **15)** wart. 67:
+    - **a)** po ust. 3 dodaje się ust. 3a w brzmieniu: "3a. Rektor właściwej państwowej uczelni medycznej albo państwowej uczelni prowadzącej działalność dydaktycznąi badawczą w dziedzinie nauk medycznych, o którym mowa w art. 43b ust. 1, obowiązany jest przekazać Ministrowi Zdrowia i Opieki Społecznej do dnia 31 stycznia i 31 lipca każdego roku informację obejmującą wyniki kontroli, o której mowa w ust. 3.",
+    - **b)** ust. 5 otrzymuje brzmienie: "5. Minister Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, szczegółowe zasady sprawowania nadzoru nad samodzielnymi publicznymi zakładami opieki zdrowotnej i nad jednostkami, o których mowa w art. 70a ust. 3.';
+
+- **16)** po dziale IV dodaje się dział V w brzmieniu: "Dział V Transport sanitarny
+
 **Art. 70a.**
 
 1. Transport sanitarny jest to przewóz osób albo materiałów biologicznych i materiałów wykorzystywanych do udzielania Świadczeń zdrowotnych, wymagających specjalnych warunków trans2. Transport sanitarny wykonywany jest specjalistycznymi środkami transportu samochodowego i lotniczego.
@@ -117,15 +137,19 @@ Nie dotyczy to zakładów, o których mowa w art. 43a.";
 - **2)** w celu wykonania zadań, o których mowa w art. 70f ust. 2,
 - **3)** przyznawane na podstawie odrębnych przepisów na cele szczególne.
 
-**Art. 70e.** Minister Zdrowia i Opieki Społecznej może określić, w drodze rozArt. 70f. 1.
+**Art. 70e.** Minister Zdrowia i Opieki Społecznej może określić, w drodze rozorządzenia, szczególne zasady rachunku kosztów w jednostkach, których mowa w art. 70a ust. 3.
+
+**Art. 70f.**
+
+1. Nadzór nad kolumnami transportu sanitarnego i Centralnym Zespołem Lotnictwa Sanitarnego sprawowany jest na zasadach określonych w art. 67. . Minister Zdrowia i Opieki Społecznej, wojewoda albo organ jednostki samorządu terytorialnego może nałożyć na podmioty prowadzące transport sanitarny specjalistycznymi środkami transportu sanitarnego obowiązek wykonania dodatkowego zadania w przypadku katastrofy, epidemii, klęski żywiołowej albo w celu wykonania zobowiązań międzynarodowych. Przepisy art. 67a ust. 2 1 3 stosuje się odpowiednio.
 
 **Art. 70g.**
 
-1.
+1. Ministrowi Zdrowia i Opieki Społecznej w stosunku do podmiotów tworzących transport sanitarny oraz wojewodzie w stosunku do podmiotów tworzących transport sanitarny na obszarze województwa przysługuje prawo przeprowadzania czynności kontrolnych polegających na stwierdzeniu spełnienia przez specjalistyczne środki transportu sanitarnego wymagań, o których mowa w art. 70a ust. 7 18. Przepisy art. 65 ust. I pkt 2 1 3 stosuje się odpowiednio.
 
 **Art. 70h.**
 
-1. orządzenia, szczególne zasady rachunku kosztów w jednostkach, których mowa w art. 70a ust. 3. Nadzór nad kolumnami transportu sanitarnego i Centralnym Zespołem Lotnictwa Sanitarnego sprawowany jest na zasadach określonych w art. 67. . Minister Zdrowia i Opieki Społecznej, wojewoda albo organ jednostki samorządu terytorialnego może nałożyć na podmioty prowadzące transport sanitarny specjalistycznymi środkami transportu sanitarnego obowiązek wykonania dodatkowego zadania w przypadku katastrofy, epidemii, klęski żywiołowej albo w celu wykonania zobowiązań międzynarodowych. Przepisy art. 67a ust. 2 1 3 stosuje się odpowiednio. Ministrowi Zdrowia i Opieki Społecznej w stosunku do podmiotów tworzących transport sanitarny oraz wojewodzie w stosunku do podmiotów tworzących transport sanitarny na obszarze województwa przysługuje prawo przeprowadzania czynności kontrolnych polegających na stwierdzeniu spełnienia przez specjalistyczne środki transportu sanitarnego wymagań, o których mowa w art. 70a ust. 7 18. Przepisy art. 65 ust. I pkt 2 1 3 stosuje się odpowiednio. Do kolumny transportu sanitarnego i Centralnego Zespołu Lotnictwa Sanitarnego stosuje się odpowiednio przepisy art. 11, 36, 38 ust. I, art. 42 1 44.
+1. Do kolumny transportu sanitarnego i Centralnego Zespołu Lotnictwa Sanitarnego stosuje się odpowiednio przepisy art. 11, 36, 38 ust. I, art. 42 1 44.
 
 2. Do wpisu do rejestru kolumn transportu sanitarnego, o którym mowawart . 70 bust . 2 , stosujesięo dp owiednioprzepisyart . 35 b
 
@@ -161,19 +185,17 @@ Nie dotyczy to zakładów, o których mowa w art. 43a.";
 
 - **1)** umowy spółki, o której mowa w ust. 1,
 - **2)** listy lekarzy grupowej praktyki lekarskiej,
+- **3)** danych o spełnieniu przez lekarzy grupowej praktyki lekarskiej warunków określonych w art. 50 ust. I pkt 1 i 2 lub ust. 2pkt1i2,
+- **4)** danych dotyczących adresu grupowej praktyki lekarskiej,
+- **5)** danych, o których mowa w art. 50 ust. 4 pkt 2. Do grupowej praktyki lekarskiej wykonywanej przez lekarzy w miejscu wezwania nie ma zastosowania przepis art. 50 ust. 4 pkt 2, natomiast stosuje się przepis art. 50 ust. 5a pkt 3.
 
-6.
-
-- **3)** danych o spełnieniu przez lekarzy grupowej praktyki lekarskiej warunków określonych w art. 50 ust. I pkt 1 i 2 lub ust.
+6. Grupowa praktyka lekarska nie może być wykonywana w publicznym zakładzie opieki zdrowotnej na podstawie umowy cywilnoprawnej o udzielanie świadczeń zdrowotnych.
 
 **Art. 50b.**
 
-1. 2pkt1i2,
+1. Okręgowa rada lekarska po sprawdzeniu spełnienia wymogów, o których mowa w art. 50 ust. I pkt 1 12 lub ust. 2pktli2 iust. 4 pkt 2 lub ust. 5a pkt 2 i 3, albo w art. 50a ust. 2, 4 1 5, wydaje zezwolenie i dokonuje wpisu do rejestru indywidualnych praktyk lekarskich, indywidualnych specjalistycznych praktyk lekarskich lub grupowych praktyk lekarskich oraz wydaje lekarzowi lub grupowej praktyce lekarskiej dokument stwierdzający wpis. . Jeżeli lekarz zamierzający wykonywać indywidualną praktykę lekarską lub indywidualną specjalistyczną praktykę lekarską lub co najmniej jeden z lekarzy grupowej praktyki lekarskiej jest członkiem innej okręgowej izby lekarskiej, w uzasadnionych przypadkach okręgowa rada lekarska może podjąć uchwałę o zarejestrowaniu tej praktyki. „ Minister Zdrowia i Opieki Społecznej, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określa w drodze rozporządzenia:
 
-- **4)** danych dotyczących adresu grupowej praktyki lekarskiej,
-- **5)** danych, o których mowa w art. 50 ust. 4 pkt 2. Do grupowej praktyki lekarskiej wykonywanej przez lekarzy w miejscu wezwania nie ma zastosowania przepis art. 50 ust. 4 pkt 2, natomiast stosuje się przepis art. 50 ust. 5a pkt 3. Grupowa praktyka lekarska nie może być wykonywana w publicznym zakładzie opieki zdrowotnej na podstawie umowy cywilnoprawnej o udzielanie świadczeń zdrowotnych. Okręgowa rada lekarska po sprawdzeniu spełnienia wymogów, o których mowa w art. 50 ust. I pkt 1 12 lub ust. 2pktli2 iust. 4 pkt 2 lub ust. 5a pkt 2 i 3, albo w art. 50a ust. 2, 4 1 5, wydaje zezwolenie i dokonuje wpisu do rejestru indywidualnych praktyk lekarskich, indywidualnych specjalistycznych praktyk lekarskich lub grupowych praktyk lekarskich oraz wydaje lekarzowi lub grupowej praktyce lekarskiej dokument stwierdzający wpis. . Jeżeli lekarz zamierzający wykonywać indywidualną praktykę lekarską lub indywidualną specjalistyczną praktykę lekarską lub co najmniej jeden z lekarzy grupowej praktyki lekarskiej jest członkiem innej okręgowej izby lekarskiej, w uzasadnionych przypadkach okręgowa rada lekarska może podjąć uchwałę o zarejestrowaniu tej praktyki. „ Minister Zdrowia i Opieki Społecznej, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określa w drodze rozporządzenia:
-    - **l)** wymagania, jakim powinny odpowiadać pod względem fachowym 1 sanitarnym pomieszczenia, w których można wykonywać indywidualną praktykę lekarską, indywidualną specjalistyczną praktykę lekarską i grupową praktykę lekarską,
-
+- **l)** wymagania, jakim powinny odpowiadać pod względem fachowym 1 sanitarnym pomieszczenia, w których można wykonywać indywidualną praktykę lekarską, indywidualną specjalistyczną praktykę lekarską i grupową praktykę lekarską,
 - **2)** wymagania, jakim powinny odpowiadać pod względem fachowym 1 sanitarnym urządzenia, za pomocą których można wykonywać czynności w ramach indywidualnej praktyki lekarskiej, indywidualnej specjalistycznej praktyki lekarskiej 1 grupowej praktyki lekarskiej,
 - **3)** wymagania, jakim powinien odpowiadać sprzęt medyczny, o którym mowa w art. 50 ust. 5a pkt 3. „ Minister Zdrowia i Opieki Społecznej, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określa, w drodze rozporządzenia, szczegółowe zasady 1 tryb postępowania w sprawach wydawania zezwoleń i wpisu do rejestrów indywidualnych praktyk lekarskich, indywidualnych specjalistycznych praktyk lekarskich i grupowych praktyk lekarskich oraz ustala dane objęte wpisem i sposób prowadzenia rejestrów. „ Lekarz prowadzący indywidualną praktykę lekarską lub indywidualną specjalistyczną praktykę lekarską oraz grupowa praktyka lekarska mają obowiązek powiadomić okręgową radę lekarską, która wydała zezwolenie, o zmianie danych objętych wpisem do rejestrów;.
 - **5)** art. 52 otrzymuje brzmienie: o których mowa w art. 50 ust. I pkt 3 oraz w ust. 2 pkt 3, indywidualną praktykę lekarską lub indywidualną specjalistyczną praktykę lekarską w razie: I) pozbawienia lekarza prawa wykonywania zawodu,
@@ -201,7 +223,57 @@ Nie dotyczy to zakładów, o których mowa w art. 43a.";
 
 **Art. 4.** Wustawiezdnia 5 lipca 1996 r . ozawodachpielęgniarkiipołożnej ( D z . U . N r 91 , p o z . 410 orazz 1998 r . N r 106 , p o z . 668 ) wprowadzasięnastępującezmiany : 1 ) a r t . 25 otrzymujebrzmienie : „ A r t . 25 . 1 . Pielęgniarka , położnamożewykonywaćindywidualnąpraktykę pielęgniarki , położnejlubindywidualnąspecja li stycznąpraktykę pielęgniarki , położnejzwanychdalejo dp owiednioindywidualną praktykąalboindywidualnąspecja li stycznąpraktyką , pouzyska niuzezwoleniawłaściwejzewzględunamiejscewykonywania praktykiokręgowejradypielęgniarekipołożnych . 2 . Zezwolenienawykonywanieindywidualnejpraktykiwydajesię , jeże li pielęgniarka , położna : 1 ) posiadaprawowykonywaniazawodu , 2 ) wykonywałazawódconajmniejprzezokres 2 l a t . 3 . Zezwolenienawykonywanieindywidualnejspecjalistycznej praktykiwydajesię , jeże li pielęgniarka , położna : 1 ) spełniawar un k i , októrychmowawust . 2 ,
 
+- **2)** posiada specjalizację w dziedzinie mającej zastosowanie w ochronie zdrowia. . Pielęgniarka, położna uzyskuje zezwolenie na wykonywanie indywidualnej praktyki, indywidualnej specjalistycznej praktyki, po przedstawieniu właściwej okręgowej radzie pielęgniarek i położnych danych o:
+- **1)** spełnieniu warunków określonych w ust. 2 lub 3,
+- **2)** pomieszczeniu, w którym zamierza wykonywać praktykę oraz jego wyposażeniu w aparaturę i sprzęt medyczny, a także opinię organu sanitarnego o spełnieniu warunków umożliwiających udzielenie określonych świadczeń zdrowotnych z zastrzeżeniem ust. 8 i art. 27. . Zezwolenia, o których mowa w ust. 2 i 3, podlegają wpisowi do rejestru indywidualnych praktyk i indywidualnych specjalistycznych praktyk, prowadzonego przez okręgową radę pielęgniarek 1 położnych, o której mowa w ust. 1. . Za równoznaczne z indywidualną praktyką lub indywidualną specjalistyczną praktyką w rozumieniu ustawy uważa się wykonywanie zawodu pielęgniarki, położnej poza zakładem opieki zdrowotnej na podstawie umowy o pracę lub umowy cywilnoprawnej, z zastosowaniem ust. 1-4. . Indywidualna praktyka lub indywidualna specjalistyczna praktyka może być także wykonywana przez pielęgniarkę, położną wyłącznie w miejscu wezwania. . Pielęgniarka, położna w celu wykonywania indywidualnej praktyki lub indywidualnej specjalistycznej praktyki w miejscu wezwania uzyskuje zezwolenie, o którym mowa w ust. 1, po przedstawieniu właściwej okręgowej radzie pielęgniarek i położnych danycho :
+- **1)** spełnieniu warunków określonych w ust. 2 lub 3,
+- **2)** adresie praktyki i przechowywania dokumentów medycznych,
+- **3)** sprzęcie medycznym umożliwiającym udzielanie określonych Świadczeń zdrowotnych w miejscu wezwania;.
+- **2)** po art. 25 dodaje się art. 25a 1 25b w brzmieniu: W celu udzielania świadczeń zdrowotnych pielęgniarki, położne mogą prowadzić grupową praktykę w formie spółki prawa cywil. W ramach grupowej praktyki pielęgniarek, położnych mogą być udzielane świadczenia zdrowotne wyłącznie przez pielęgniarki, położne będące wspólnikami spółki, o której mowa w ust. I, spełniające warunki określone w art. 25 ust. 213. . Grupowa praktyka pielęgniarek, położnych może rozpocząć działalność po uzyskaniu zezwolenia na wykonywanie grupowej praktyki pielęgniarek, położnych właściwej ze względu na miejsce wykonywania praktyki okręgowej rady pielęgniarek i położnych. . Jeżeli przepisy ustawy nie stanowią inaczej, grupowa praktyka pielęgniarek, położnych uzyskuje zezwolenie, o którym mowa w ust. 3, po przedstawieniu właściwej okręgowej radzie pielęgniarek i położnych:
+- **1)** umowy spółki, o której mowa w ust. I,
+- **2)** listy pielęgniarek, położnych grupowej praktyki pielęgniarek, położnych,
+- **3)** danych o spełnieniu przez pielęgniarki, położne warunków określonych w art. 25 ust. 2 lub 3,
+- **4)** danych, o których mowa w art. 25 ust. 4 pkt 2. . Zezwolenie, o którym mowa w ust. 3, podlega wpisowi do rejestru grupowych praktyk pielęgniarek, położnych prowadzonego przez właściwą okręgową radę pielęgniarek i położnych. . Grupowa praktyka pielęgniarek, położnych wykonywana w miejscu wezwania w celu uzyskania zezwolenia, o którym mowa w ust. 3, przedstawia właściwej okręgowej radzie pielęgniarek 1 położnych dane o spełnieniu warunków, o których mowa w ust. 4 pkt I i 2 oraz w art. 25 ust. 2 lub 3, oraz dane, o których mowa w art. 25 ust. 8 pkt 3. . Grupowa praktyka pielęgniarek, położnych może być wykonywana na podstawie umowy cywilnoprawnej zawartej z innym podmiotem niż zakład opieki zdrowotnej, z zachowaniem ust. 3-5. . Wykonywanie grupowej praktyki pielęgniarek, położnych, o której mowa w ust. 1, nie jest prowadzeniem zakładu opieki zdrowotnej.
+
+**Art. 25b.** P ielęgniarki, położne prowadzące indywidualną praktykę, indywidualną specjalistyczną praktykę oraz grupową praktykę pielęgniarek, położnych mają obowiązek w terminie 30 dni powiadomić kręgową radę pielęgniarek i położnych, która wydała zezwolenie, zmianie danych objętych zezwoleniem*.;
+
+- **3)** art. 261 27 otrzymują brzmienie: Indywidualną praktykę, indywidualną specjalistyczną praktykę i grupową praktykę pielęgniarek, położnych prowadzi się w pomieszczeniach i przy użyciu urządzeń, które odpowiadają określonym wymaganiom technicznym i sanitarnym, chyba że przepisy ustawy stanowią inaczej. Minister Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, wymagania, jakim powinny odpowiadać pod względem technicznym i sanitarnym urządzenia i pomieszczenia, w których można wykonywać indywidualną praktykę, indywidualną specjalistyczną praktykę i grupową praktykę pielęgniarek, położnych.
+
 **Art. 27.** W przypadku gdy indywidualna praktyka, indywidualna specjalistyczna praktyka i grupowa praktyka pielęgniarek, położnych jest wykonywana na zasadach określonych w art. 25 ust. 6 oraz w art. 25a ust. 7 obowiązek spełnienia danych, o których mowa w art. 25 ust. 4 pkt 2, spoczywa na podmiocie, który zawarł odpowiednią umowę z wyłączeniem sytuacji, w której pomieszczenie, sprzęt i aparatura medyczna nie stanowią własności tego podmiotu”;.
 
+- **4)** po art. 27 dodaje się art. 27a 1 27b w brzmieniu: „Art. 27a. 1. Grupowa praktyka pielęgniarek, położnych nie może być wykonywana w publicznym zakładzie opieki zdrowotnej na podstawie umowy cywilnoprawnej o udzielanie świadczeń zdrowotnych.
+
+2. Pielęgniarka, położna może wykonywać w zakładzie opieki zdrowotnej opiekę pielęgnacyjną, o której mowa w art. 19 ust. 3 pkt I ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz.U. Nr 91, poz. 408, z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 1041 oraz z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 756), na podstawie umowy cywilnoprawnej zawartej z pacjentem, członkiem jego rodziny lub opiekunem prawnym.
+
 **Art. 27b.** Jeżeli pielęgniarka, położna zamierzająca wykonywać indywidualną praktykę, indywidualną specjalistyczną praktykę lub co najmniej jedna z pielęgniarek, położnych grupowej praktyki jest członkiem innej okręgowej izby pielęgniarek i położnych, w uzasadnionych przypadkach okręgowa rada pielęgniarek i położnych może podjąć uchwałę o zarejestrowaniu tej praktyk”i.;
+
+- **5)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Naczelna Rada Pielęgniarek i Położnych ustala opłaty za wydanie zezwoleń, o których mowa w art. 25 ust. 1 i art. 25a ust. 3.
+
+2. Opłaty, o których mowa w ust. I pobiera właściwa okręgowa rada pielęgniarek i położnych;.
+
+- **6)** art. 29 otrzymuje brzmienie: „Art. 29. 1. Okręgowa rada pielęgniarek i położnych cofa zezwolenie na prowadzenie indywidualnej praktyki lub indywidualnej specjalistycznej praktyki wykonywanej przez pielęgniarkę, położną w raZ i e :
+    - **l)** pozbawienia prawa wykonywania zawodu pielęgniarki, położnej ,
+
+- **2)** zawieszenia prawa wykonywania zawodu pielęgniarki, położn e j ,
+- **3)** zrzeczenia się przez pielęgniarkę, położną prawa wykonywania zawodu,
+- **4)** skreślenia pielęgniarki, położnej z listy członków okręgowej izby pielęgniarek i położnych,
+- **5)** rezygnacji z prowadzenia indywidualnej praktyki lub indywidualnej specjalistycznej praktyki,
+- **6)** niespełnienia wymogów określonych w art. 26 ust. 1.
+
+2. Okręgowa rada pielęgniarek i położnych cofa zezwolenie, o któpielęgniarek, położnych, jeżeli nie spełnia wymagań określonych w art. 25 ust. 2 albo 3, ust. 8 pkt 3, art. 25a ust. 2 oraz art. 26 ust.
+
+- **7)** art. 30 ust. 1 otrzymuje brzmienie: „Art. 30. 1. Nadzór nad indywidualną praktyką, indywidualną specjalistyczną praktyką oraz nad grupową praktyką pielęgniarek, położnych sprawuje właściwa okręgowa rada pielęgniarek i położnych”;
+- **8)** art. 31 skreśla się;
+- **9)** w art. 37 wyrazy „do dnia 31 grudnia 1999 r.” zastępuje się wyrazami „do dnia 31 grudnia 2001 r.*. W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 1 Nr 63, poz. 314, z 1994 r. Nr I, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z stępujące zmiany: I) wart. 47 w ust. I w pkt 5 skreśla się wyrazy "oraz kierownik szpitala klinicznego lub przedstawiciel kierowników szpitali klinicznych";
+- **2)** art. 65a otrzymuje brzmienie: "Art. 65a.1. W skład uczelni medycznej lub państwowej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych może wchodzić szpital kliniczny będący niepublicznym zakładem opieki zdrowotnej.
+
+2. Zasady tworzenia i działania szpitala klinicznego, o którym mowa w ust. 1, określają przepisy o zakładach opieki zdrowotnej.";
+
+- **3)** wart. 100: W ustawie z dnia 16 kwietnia 1993 r. o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie (Dz.U. Nr 44, poz. 200) w art. 2 w ust. I w pkt 3 skreśla się wyraz „„publiczne”. W ustawie z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej - w związku z reformą ustrojową państwa (Dz.U. Nr 106, poz. 668) w art. 63 w pkt 1 skreśla się wyrazy „„i w art. 100 w ust. 1”. Z dniem wejścia w życie ustawy pracownicy szpitala klinicznego, pracownicy kolumny transportu sanitarnego, pracownicy Centralnego Zespołu Lotnictwa Sanitarnego stają się pracownikami szpitala klinicznego, pracownikami kolumny transportu sanitarnego, pracownikami Centralnego Zespołu Lotnictwa Sanitarnego w rozumieniu niniejszej ustawy. I. Minister Zdrowia i Opieki Społecznej, w porozumieniu z rektorem właściwej uczelni medycznej albo z dyrektorem Centrum Medycznego Kształcenia Podyplomowego, nada, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy, statut szpitalowi klinicznemu będącemu publicznym zakładem opieki zdrowotnej, uczestniczącemu w udzielaniu świadczeń zdrowotnych w powiązaniu z realizacją zadań dydaktycznych i badawczych na podstawie dotychczasowych przepisów.
+    - **a)** ust. I otrzymuje brzmienie: "1. Nauczyciele akademiccy zatrudnieni w uczelniach medycznych lub w uczelni prowadzącej działalność w dziedzinie nauk medycznych uczestniczą w sprawowaniu opieki zdrowotnej poprzez wykonywanie zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych w szpitalach klinicznych będących zakładami opieki zdrowotnej lub oddziałach innych zakładów opieki zdrowotnej (szpitali), udostępnianych uczelniom na zasadach określonych w przepisach o zakładach opieki zdrowotnej.",
+    - **b)** po ust. I dodaje się ust. la w brzmieniu: „la. Nauczyciele, o których mowa w ust. I, są zatrudniani na podstawie umowy o pracę albo umowy cywilnoprawnej na udzielanie świadczeń zdrowotnych, zawartej ze szpitalem klinicznym albo innym zakładem opieki zdrowotnej (szpitalem).",
+    - **c)** w ust. 2 wyrazy „ust.l” zastępuje się wyrazami „ust.l i la”.
+
+2. W szpitalach klinicznych osoby na stanowiskach, o których mowa w art. 44a ust. | ustawy wymienionej w art. l, pozostają na tych stanowiskach, chyba że z dniem wejścia w życie ustawy upływa okres, na który nawiązany został z nimi stosunek pracy lub zawarta została umowa cywilnoprawna o zarządzanie zakładem. Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie stosuje się przepisy dotychczasowe, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy. Ustawa wchodzi w życie z dniem ogłoszenia.
+
 

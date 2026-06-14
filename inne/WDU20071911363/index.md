@@ -8,7 +8,7 @@ pos: 1363
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o czasowym posługiwaniu się dowodami osobistymi wydanymi przed dniem 1 stycznia 2001 r.

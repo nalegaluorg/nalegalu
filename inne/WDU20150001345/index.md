@@ -8,10 +8,10 @@ pos: 1345
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 września 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1345 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 25 sierpnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001345) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1345/text.pdf) |
 
-Poz. 1345 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 25 sierpnia 2015 r.
 zmieniające rozporządzenie w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
-z 2014 r. poz. 1438 oraz z 2015 r. poz. 308 i 349) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187 i 230) po § 13a dodaje się § 13b w brzmieniu: „§ 13b. 1. W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi i przetwórstwa produktów rolnych, o której mowa w § 2 ust. 1 pkt 6, rolnikowi, który w 2015 r. był producentem owoców porzeczki czarnej.
+z 2014 r. poz. 1438 oraz z 2015 r. poz. 308 i 349) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187 i 230) po § 13a dodaje się § 13b w brzmieniu: „§ 13b. 1. W 2015 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi i przetwórstwa produktów rolnych, o której mowa w § 2 ust. 1 pkt 6, rolnikowi, który w 2015 r. był producentem owoców porzeczki czarnej.
 2. Pomoc, o której mowa w ust. 1, ma charakter pomocy de minimis w rolnictwie i jest udzielana zgodnie z przepisami rozporządzenia nr 1408/2013 oraz przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
 3. Stawka pomocy, o której mowa w ust. 1, wynosi 600 zł na 1 ha powierzchni owocujących w 2015 r. upraw porzeczki czarnej.
 4. Wysokość pomocy, o której mowa w ust. 1, ustala się jako iloczyn powierzchni owocujących w 2015 r.

@@ -8,10 +8,10 @@ pos: 2014
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22001144 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 18 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002014) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2014/text.pdf) |
 
-22001144 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 18 sierpnia 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 30 marca 2015 r. w sprawie dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych (Dz. U. z 2020 r. poz. 1318), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 27 maja 2022 r. zmieniającym rozporządzenie w sprawie dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych (Dz. U. poz. 1158).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–5 rozporządzenia Ministra Finansów z dnia 27 maja 2022 r. zmieniającego rozporządzenie w sprawie dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych (Dz. U. poz. 1158), które stanowią: „§ 2. 1. Zgłoszenie, o którym mowa w § 5 rozporządzenia zmienianego w § 1, złożone przed dniem wejścia w życie niniejszego rozporządzenia podlega korekcie w zakresie prognozowanej kwoty dotacji i sposobu jej obliczenia za okres od dnia 1 czerwca 2022 r. do dnia 31 grudnia 2022 r.
@@ -36,16 +35,17 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 § 4. Do dotacji przedmiotowych do dotowanych posiłków sprzedawanych w barach mlecznych, należnych za okres do dnia 31 maja 2022 r., stosuje się przepisy dotychczasowe.
 § 5. Rozporządzenie wchodzi w życie z dniem 1 czerwca 2022 r.”.
 Minister Finansów: wz. A. Soboń ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 30 marca 2015 r.
-w sprawie dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych Na podstawie art. 130 ust. 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie:
+w sprawie dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych Na podstawie art. 130 ust. 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie:
 1) ustala stawkę dotacji przedmiotowej do dotowanych posiłków sprzedawanych w barach mlecznych, zwanej dalej „dotacją”;
 2) określa szczegółowy sposób oraz tryb udzielania i rozliczania dotacji, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia tych dotacji oraz termin zwrotu dotacji.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) przedsiębiorcy prowadzącym bar mleczny rozumie się przez to przedsiębiorcę prowadzącego działalność gospodarczą w postaci samoobsługowych, bezalkoholowych, ogólnodostępnych zakładów masowego żywienia, sprzedających całodziennie posiłki mleczno-nabiałowo-jarskie;
-2) surowcach rozumie się przez to surowce zużyte do sporządzania dotowanych posiłków w barach mlecznych, wymienione w załączniku nr 1 do rozporządzenia;
-3) dotowanym posiłku rozumie się przez to przetworzoną i gotową do spożycia potrawę mleczno-nabiałowo-jarską przyrządzoną wyłącznie z surowców lub wody, sprzedawaną w barze mlecznym konsumentom spożywającym posiłki na miejscu lub na wynos, zaewidencjonowaną przy zastosowaniu kas rejestrujących lub poprzez wystawienie faktury w sposób umożliwiający jednoznaczne zidentyfikowanie dotowanego posiłku, z tym że przetworzeniem potrawy jest proces przyrządzania potrawy wchodzącej w skład dotowanego posiłku, w wyniku którego zakupione przez przedsiębiorcę prowadzącego bar mleczny surowce otrzymują nowy kształt, wygląd, postać, formę, cechy lub właściwości;
-4) narzucie rozumie się przez to kwotę, o którą powiększa się wartość surowców, z uwzględnieniem podatku od towarów i usług, zużytych do przyrządzania dotowanych posiłków w barach mlecznych, w celu ustalenia ceny dotowanego posiłku;
-5) izbie administracji skarbowej rozumie się przez to izbę administracji skarbowej, przy pomocy której właściwy, ze względu na miejsce zamieszkania albo siedzibę przedsiębiorcy prowadzącego bar mleczny, dyrektor izby administracji skarbowej wykonuje swoje zadania;
-6) urzędzie skarbowym rozumie się przez to urząd skarbowy, przy pomocy którego właściwy, ze względu na miejsce zamieszkania albo siedzibę przedsiębiorcy prowadzącego bar mleczny, naczelnik urzędu skarbowego wykonuje swoje zadania.
+1) przedsiębiorcy prowadzącym bar mleczny – rozumie się przez to przedsiębiorcę prowadzącego działalność gospodarczą w postaci samoobsługowych, bezalkoholowych, ogólnodostępnych zakładów masowego żywienia, sprzedających całodziennie posiłki mleczno-nabiałowo-jarskie;
+2) surowcach – rozumie się przez to surowce zużyte do sporządzania dotowanych posiłków w barach mlecznych, wymienione w załączniku nr 1 do rozporządzenia;
+3) dotowanym posiłku – rozumie się przez to przetworzoną i gotową do spożycia potrawę mleczno-nabiałowo-jarską przyrządzoną wyłącznie z surowców lub wody, sprzedawaną w barze mlecznym konsumentom spożywającym posiłki na miejscu lub na wynos, zaewidencjonowaną przy zastosowaniu kas rejestrujących lub poprzez wystawienie faktury w sposób umożliwiający jednoznaczne zidentyfikowanie dotowanego posiłku, z tym że przetworzeniem potrawy jest proces przyrządzania potrawy wchodzącej w skład dotowanego posiłku, w wyniku którego zakupione przez przedsiębiorcę prowadzącego bar mleczny surowce otrzymują nowy kształt, wygląd, postać, formę, cechy lub właściwości;
+4) narzucie – rozumie się przez to kwotę, o którą powiększa się wartość surowców, z uwzględnieniem podatku od towarów i usług, zużytych do przyrządzania dotowanych posiłków w barach mlecznych, w celu ustalenia ceny dotowanego posiłku;
+5) izbie administracji skarbowej – rozumie się przez to izbę administracji skarbowej, przy pomocy której właściwy, ze względu na miejsce zamieszkania albo siedzibę przedsiębiorcy prowadzącego bar mleczny, dyrektor izby administracji skarbowej wykonuje swoje zadania;
+6) urzędzie skarbowym – rozumie się przez to urząd skarbowy, przy pomocy którego właściwy, ze względu na miejsce zamieszkania albo siedzibę przedsiębiorcy prowadzącego bar mleczny, naczelnik urzędu skarbowego wykonuje swoje zadania.
 § 2a. Dotacja stanowi pomoc publiczną, o której mowa w decyzji Komisji z dnia 20 grudnia 2011 r. w sprawie stosowania art. 106 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy państwa w formie rekompensaty z tytułu świadczenia usług publicznych, przyznawanej przedsiębiorstwom zobowiązanym do wykonywania usług świadczonych w ogólnym interesie gospodarczym (Dz. Urz. UE L 7 z 11.01.2012, str. 3).
 § 3. 1. Dotacja może być przekazana na dotowane posiłki przedsiębiorcy prowadzącemu bar mleczny, który:
 1) stosuje stawkę narzutu nieprzekraczającą 45% wartości surowców zużytych do przyrządzania dotowanych posiłków;
@@ -87,8 +87,7 @@ w sprawie dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych 
 § 14. 1. Przedsiębiorca, który korzystał z dotacji przed dniem wejścia w życie rozporządzenia, prowadzi ewidencję ilościowo-wartościową surowców zużytych do sporządzenia posiłków w barach mlecznych zgodnie z dotychczasowymi przepisami do czasu ustalenia z dyrektorem izby skarbowej sposobu prowadzenia ewidencji, o którym mowa w § 10 ust. 2, nie dłużej jednak niż przez 2 miesiące od dnia wejścia w życie rozporządzenia.
 2. Przedsiębiorca, który korzystał z dotacji przed dniem wejścia w życie rozporządzenia, rozpoczyna sporządzanie i gromadzenie kart recepturowych dotowanych posiłków po ustaleniu z dyrektorem izby skarbowej sposobu ich sporządzania i gromadzenia, o którym mowa w § 10 ust. 2, nie później jednak niż z dniem 1 czerwca 2015 r.
 § 15. (pominięty).
-§ 16. Traci moc rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie stawek, szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych (Dz. U. poz. 1705 oraz z r. poz. 1820).
+§ 16. Traci moc rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie stawek, szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych do posiłków sprzedawanych w barach mlecznych (Dz. U. poz. 1705 oraz z 2014 r. poz. 1820).
 § 17. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2015 r., z wyjątkiem § 3 ust. 1 pkt 2, który wchodzi w życie z dniem 1 maja 2015 r.
-WYKAZ SUROWCÓW DO SPORZĄDZANIA POSIŁKÓW W BARACH MLECZNYCH, DO KTÓRYCH MOGĄ BYĆ UDZIELANE DOTACJE .
-WZÓR
+WYKAZ SUROWCÓW DO SPORZĄDZANIA POSIŁKÓW W BARACH MLECZNYCH, DO KTÓRYCH MOGĄ BYĆ UDZIELANE DOTACJE WZÓR .
 

@@ -8,10 +8,10 @@ pos: 1547
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 września 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1547 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 4 września 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1547/text.pdf) |
 
-Poz. 1547 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 4 września 2020 r.
 zmieniające rozporządzenie w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
-z 2020 r. poz. 729, 956 i 1423) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2013 r. poz. 1213, z 2016 r.
+z 2020 r. poz. 729, 956 i 1423) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2013 r. poz. 1213, z 2016 r.
 poz. 1873 oraz z 2020 r. poz. 1056) wprowadza się następujące zmiany:
 1) w § 3:
 a) pkt 1 otrzymuje brzmienie: „1) art. 60 § 2 i 3, art. 110, art. 111, art. 113, art. 117 § 1 oraz art. 136 § 1 i 2 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń;”,

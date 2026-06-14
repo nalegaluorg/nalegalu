@@ -18,6 +18,7 @@ saos_id|date|court|case_number|type|score|saos_url
 82271|2003-10-22|SN|II UZ 79/03|Postanowienie|69|https://www.saos.org.pl/judgments/82271
 82047|2003-06-04|SN|III UZP 4/03|Postanowienie|69|https://www.saos.org.pl/judgments/82047
 81864|2003-02-18|SN|II UK 146/02|Postanowienie|69|https://www.saos.org.pl/judgments/81864
+545511|2026-04-28|SO|III AUa 595/25|Wyrok|56|https://www.saos.org.pl/judgments/545511
 544844|2026-04-09|SO|III AUa 694/25|Wyrok|56|https://www.saos.org.pl/judgments/544844
 541284|2026-01-22|SO|III AUa 346/25|Wyrok|56|https://www.saos.org.pl/judgments/541284
 541607|2025-12-17|SO|III AUa 772/25|Wyrok|56|https://www.saos.org.pl/judgments/541607
@@ -815,6 +816,7 @@ saos_id|date|court|case_number|type|score|saos_url
 539344|2025-10-09|SO|III AUa 1794/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/539344
 539341|2025-10-09|SO|III AUa 1511/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/539341
 543354|2025-09-03|SO|III AUa 953/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/543354
+545047|2025-07-10|SO|III AUa 763/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/545047
 539340|2025-07-10|SO|III AUa 1106/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/539340
 541207|2025-07-07|SO|III AUa 123/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/541207
 539334|2025-06-27|SO|III AUa 1008/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/539334
@@ -826,6 +828,8 @@ saos_id|date|court|case_number|type|score|saos_url
 482555|2021-05-26|SO|III AUa 2141/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/482555
 472279|2020-03-05|SO|III AUa 2298/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/472279
 46038|2014-04-24|SO|III AUa 1508/13|Uzasadnienie|42|https://www.saos.org.pl/judgments/46038
+546611|2026-04-23|SO|VII U 506/25|Wyrok|40|https://www.saos.org.pl/judgments/546611
+546609|2026-04-22|SO|VII U 1959/25|Wyrok|40|https://www.saos.org.pl/judgments/546609
 544180|2026-03-03|SO|VII U 1194/25|Wyrok|40|https://www.saos.org.pl/judgments/544180
 544422|2026-02-27|SO|VII U 2274/25|Wyrok|40|https://www.saos.org.pl/judgments/544422
 543210|2026-02-06|SO|VII U 1486/25|Wyrok|40|https://www.saos.org.pl/judgments/543210

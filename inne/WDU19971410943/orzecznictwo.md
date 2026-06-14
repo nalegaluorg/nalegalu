@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 4 września 1997 r. o działach administracji rządowej.*
 
 Łącznie: **32** orzeczeń
-(pominięto 37 orzeczeń sądów rejonowych)
+(pominięto 39 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

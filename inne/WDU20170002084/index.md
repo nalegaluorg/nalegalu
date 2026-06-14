@@ -8,10 +8,10 @@ pos: 2084
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2084 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 9 listopada 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2084/text.pdf) |
 
-Poz. 2084 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 9 listopada 2017 r.
 zmieniające rozporządzenie w sprawie przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym Na podstawie art. 80ba ust. 6 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r.
-poz. 1260 i 1926) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Cyfryzacji z dnia 11 sierpnia 2016 r. w sprawie przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym (Dz. U. poz. 1320 i 2214) wprowadza się następujące zmiany:
+poz. 1260 i 1926) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 11 sierpnia 2016 r. w sprawie przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym (Dz. U. poz. 1320 i 2214) wprowadza się następujące zmiany:
 1) w § 4 wyrazy „administratora ewidencji” zastępuje się wyrazami „administratora danych i informacji zgromadzonych w ewidencji”;
 2) w § 6:
 a) w ust. 1 w pkt 2 wyrazy „administratora ewidencji” zastępuje się wyrazami „administratora danych i informacji zgromadzonych w ewidencji”,

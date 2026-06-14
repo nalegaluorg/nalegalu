@@ -8,10 +8,10 @@ pos: 2380
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22338800 Załączniki do rozporządzenia Ministra Środowiska z dnia 16 grudnia 2016 r. (Dz. U. z 2022 r. poz.
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ source: "isap-pdf"
 | Data wydania | 2022-11-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002380) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2380/text.pdf) |
-
-22338800 Załączniki do rozporządzenia Ministra Środowiska z dnia 16 grudnia 2016 r. (Dz. U. z 2022 r. poz.
 
 ## Załącznik nr 1 — GATUNKI ZWIERZĄT OBJĘTYCH OCHRONĄ ŚCISŁĄ, Z WYSZCZEGÓLNIENIEM GATUNKÓW WYMAGAJĄCYCH OCHRONY CZYNNEJ Lp. Nazwa polska* Nazwa naukowa* Ochrona czynna SSAKI MAMMALIA PARZYSTOKOPYTNE ARTIODACTYLA
 
@@ -526,7 +524,7 @@ source: "isap-pdf"
 495. jesiotr ostronosy (1) Acipenser oxyrinchus x KARPIOKSZTAŁTNE CYPRINIFORMES
 496. koza złotawa Sabanejewia aurata
 497. strzebla błotna Eupallasella percnurus x ŁOSOSIOKSZTAŁTNE SALMONIFORMES
-498. głowacica - osobniki występujące Hucho hucho w dorzeczu Dunaju RYBY CEFALASPIDOKSZTAŁTNE CEPHALASPIDOMORPHI ** PETROMYZONTIFORMES
+498. głowacica - osobniki występujące Hucho hucho w dorzeczu Dunaju RYBY CEPHALASPIDOMORPHI CEFALASPIDOKSZTAŁTNE ** PETROMYZONTIFORMES
 499. minóg morski Petromyzon marinus x MAŁŻE BIVALVIA ** VENEROIDA
 500. gałeczka żeberkowana Sphaerium solidum ** UNIONOIDEA
 501. perłoródka rzeczna Margaritifera margaritifera x
@@ -620,11 +618,11 @@ source: "isap-pdf"
 589. łątka ozdobna Coenagrion ornatum
 590. iglica mała Nehalennia speciosa x PROSTOSKRZYDŁE ORTHOPTERA
 591. ** (1) Isophya stysi
-592. stepówka Gampsocleis glabra Objaśnienia: * Gatunki zwierząt zostały pogrupowane w wyższe jednostki systematyczne w ten sposób, że: wielkimi literami, czcionką pogrubioną wyróżniono nazwy GROMAD, wielkimi literami, czcionką zwykłą wyróżniono nazwy RZĘDÓW, nazwy naukowe gatunków wyróżniono czcionką pochyłą.
-** brak polskiej nazwy gatunkowej lub rzędu.
-(1) gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 2.
-(2) gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 3.
-(3) gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 4.
+592. stepówka Gampsocleis glabra Objaśnienia: * Gatunki zwierząt zostały pogrupowane w wyższe jednostki systematyczne w ten sposób, że: – wielkimi literami, czcionką pogrubioną wyróżniono nazwy GROMAD , – wielkimi literami, czcionką zwykłą wyróżniono nazwy RZĘDÓW, – nazwy naukowe gatunków wyróżniono czcionką pochyłą.
+** – brak polskiej nazwy gatunkowej lub rzędu.
+(1) – gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 2.
+(2) – gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 3.
+(3) – gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 4.
 Załącznik nr GATUNKI ZWIERZĄT OBJĘTYCH OCHRONĄ CZĘŚCIOWĄ Lp. Nazwa polska* Nazwa naukowa* SSAKI MAMMALIA DRAPIEŻNE CARNIVORA
 1. gronostaj (1) Mustela erminea
 2. łasica (1) Mustela nivalis
@@ -678,7 +676,7 @@ Załącznik nr GATUNKI ZWIERZĄT OBJĘTYCH OCHRONĄ CZĘŚCIOWĄ Lp. Nazwa polsk
 50. piskorz Misgurnus fossilis
 51. piekielnica Alburnoides bipunctatus
 52. brzanka Barbus peloponnesius (B. carpthicus, B. meridionalis)
-53. ciosa - osobniki poza populacją Zalewu Wiślanego Pelecus cultratus
+53. ciosa - osobniki poza populacją Pelecus cultratus Zalewu Wiślanego
 54. różanka Rhodeus amarus (Rhodeus sericeus)
 55. kiełb białopłetwy Romanogobio albipinnatus
 56. kiełb Kesslera Romanogobio kessleri CIERNIKOKSZTAŁTNE GASTEROSTEIFORMES
@@ -732,7 +730,7 @@ Załącznik nr GATUNKI ZWIERZĄT OBJĘTYCH OCHRONĄ CZĘŚCIOWĄ Lp. Nazwa polsk
 104. poraj Dicerca moesta
 105. pysznik jodłowy Eurythyrea austriaca
 106. pysznik dębowy Eurythyrea quercus
-107. tęcznik dołkowany (liszkarz dołkowany) Calosoma auropunctatum
+107. tęcznik dołkowany (liszkarz Calosoma auropunctatum dołkowany)
 108. tęcznik mniejszy Calosoma inquisitor
 109. tęcznik liszkarz Calosoma sycophanta
 110. biegacz zielonozłoty Carabus auronitens
@@ -836,13 +834,13 @@ Załącznik nr GATUNKI ZWIERZĄT OBJĘTYCH OCHRONĄ CZĘŚCIOWĄ Lp. Nazwa polsk
 208. straszka północna (1) Sympecma paedisca CHRUŚCIKI TRICHOPTERA
 209. krynicznia wilgotka Crunoecia irrorata SIODEŁKOWCE CLITELLATA ** ARHYNCHOBDELLIDA
 210. pijawka lekarska (4) Hirudo medicinalis inne gatunki
-211. gatunki wymienione w załączniku IV do dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm.) - inne niż gatunki objęte ochroną ścisłą na podstawie załącznika nr 1 do rozporządzenia oraz inne niż gatunki objęte ochroną częściową wymienione w lp. 1–210 Objaśnienia: * Gatunki zwierząt zostały pogrupowane w wyższe jednostki systematyczne w ten sposób, że: wielkimi literami, czcionką pogrubioną wyróżniono nazwy GROMAD, wielkimi literami, czcionką zwykłą wyróżniono nazwy RZĘDÓW, nazwy naukowe gatunków wyróżniono czcionką pochyłą.
-** brak nazwy polskiej.
-(1) gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 2.
-(2) gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 3.
-(4) gatunek, którego dotyczy odstępstwo, o którym mowa w § 9 pkt 6.
+211. gatunki wymienione w załączniku IV do dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm.) - inne niż gatunki objęte ochroną ścisłą na podstawie załącznika nr 1 do rozporządzenia oraz inne niż gatunki objęte ochroną częściową wymienione w lp. 1–210 Objaśnienia: * Gatunki zwierząt zostały pogrupowane w wyższe jednostki systematyczne w ten sposób, że: – wielkimi literami, czcionką pogrubioną wyróżniono nazwy GROMAD, – wielkimi literami, czcionką zwykłą wyróżniono nazwy RZĘDÓW, – nazwy naukowe gatunków wyróżniono czcionką pochyłą.
+** – brak nazwy polskiej.
+(1) – gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 2.
+(2) – gatunek, którego dotyczy zakaz, o którym mowa w § 6 ust. 3.
+(4) – gatunek, którego dotyczy odstępstwo, o którym mowa w § 9 pkt 6.
 Załącznik nr GATUNKI ZWIERZĄT OBJĘTYCH OCHRONĄ CZĘŚCIOWĄ, KTÓRE MOGĄ BYĆ POZYSKIWANE, ORAZ SPOSOBY ICH POZYSKIWANIA Lp. Nazwa polska* Nazwa naukowa* Sposób pozyskiwania SSAKI MAMMALIA GRYZONIE RODENTIA
 1. bóbr europejski Castor fiber przez odstrzał z broni myśliwskiej lub chwytanie w pułapki żywołowne - w okresie od dnia 1 października do dnia 15 marca ŚLIMAKI GASTROPODA PŁUCODYSZNE PULMONATA
-2. ślimak winniczek Helix pomatia ręczny zbiór osobników o średnicy muszli nie mniejszej niż 30 mm w okresie od dnia 20 kwietnia do dnia 31 maja Objaśnienia: * Gatunki zwierząt zostały pogrupowane w wyższe jednostki systematyczne w ten sposób, że: wielkimi literami, czcionką pogrubioną wyróżniono nazwy GROMAD, wielkimi literami, czcionką zwykłą wyróżniono nazwy RZĘDÓW, nazwy naukowe gatunków wyróżniono czcionką pochyłą.
+2. ślimak winniczek Helix pomatia ręczny zbiór osobników o średnicy muszli nie mniejszej niż 30 mm w okresie od dnia 20 kwietnia do dnia 31 maja Objaśnienia: * Gatunki zwierząt zostały pogrupowane w wyższe jednostki systematyczne w ten sposób, że: – wielkimi literami, czcionką pogrubioną wyróżniono nazwy GROMAD , – wielkimi literami, czcionką zwykłą wyróżniono nazwy RZĘDÓW, – nazwy naukowe gatunków wyróżniono czcionką pochyłą.
 W W W W
 

@@ -8,10 +8,10 @@ pos: 2275
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 listopada 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2275 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 18 listopada 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002275) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2275/text.pdf) |
 
-Poz. 2275 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 18 listopada 2019 r.
-w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Konrada Szymańskiego Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) zarządza się, co następuje: § 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Konrada Szymańskiego Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) zarządza się, co następuje:
+§ 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 § 2. Do zakresu działania ministra należy w szczególności:
 1) obsługa Prezesa Rady Ministrów w zakresie udziału w spotkaniach Rady Europejskiej oraz innych spotkaniach szefów państw i rządów Unii Europejskiej, w tym z państwami trzecimi;
 2) współpraca z doradcami szefów państw i rządów Unii Europejskiej oraz koordynowanie kontaktów Prezesa Rady Ministrów z przewodniczącym Rady Europejskiej, przewodniczącym Komisji Europejskiej i przewodniczącym Parlamentu Europejskiego w związku ze spotkaniami Rady Europejskiej;

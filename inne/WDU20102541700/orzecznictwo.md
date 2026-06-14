@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania*
 
 Łącznie: **35** orzeczeń
-(pominięto 35 orzeczeń sądów rejonowych)
+(pominięto 36 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

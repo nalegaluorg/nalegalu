@@ -8,12 +8,10 @@ pos: 1186
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Radzie Sądownictwa
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001186) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1186/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. z 2021 r. poz. 269), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r. o zmianie ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 sierpnia 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 14 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615), który stanowi: „Art. 14. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. z 2021 r. poz. 269), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 sierpnia 2024 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 14 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615), który stanowi: „Art. 14. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 1) art. 1 pkt 1–3 i art. 3 pkt 10, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;
 2) art. 4 i art. 9, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
@@ -132,8 +130,8 @@ Art. 46–49. (pominięte)
 
 6. Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia kandydata, zwraca się na piśmie do prezesa sądu właściwego dla zgłoszonego kandydata, a w przypadku gdy zgłoszenie dotyczy prezesa:
 
-- **1)** sądu rejonowego, sądu okręgowego albo wojskowego sądu garnizonowego do prezesa sądu wyższej instancji,
-- **2)** sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego do wiceprezesa albo zastępcy prezesa tego sądu z wnioskiem o sporządzenie i przekazanie, w terminie siedmiu dni od dnia otrzymania wniosku, informacji obejmującej dorobek orzeczniczy kandydata, w tym doniosłe społecznie lub precedensowe orzeczenia, i istotne informacje dotyczące kultury urzędowania, przede wszystkim ujawnione podczas wizytacji i lustracji.
+- **1)** sądu rejonowego, sądu okręgowego albo wojskowego sądu garnizonowego – do prezesa sądu wyższej instancji,
+- **2)** sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego – do wiceprezesa albo zastępcy prezesa tego sądu – z wnioskiem o sporządzenie i przekazanie, w terminie siedmiu dni od dnia otrzymania wniosku, informacji obejmującej dorobek orzeczniczy kandydata, w tym doniosłe społecznie lub precedensowe orzeczenia, i istotne informacje dotyczące kultury urzędowania, przede wszystkim ujawnione podczas wizytacji i lustracji.
 
 7. W przypadku, gdy informacja, o której mowa w ust. 6, nie zostanie sporządzona w terminie, o którym mowa w ust. 6, Marszałek Sejmu zwraca się na piśmie do kandydata na członka Rady o sporządzenie przez niego tej informacji, w terminie siedmiu dni od dnia otrzymania wniosku Marszałka Sejmu. Kopię sporządzonej przez siebie informacji kandydat na członka Rady przekazuje, odpowiednio, prezesowi sądu właściwego dla zgłoszonego kandydata, prezesowi sądu wyższej instancji albo wiceprezesowi albo zastępcy prezesa sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego.
 
@@ -253,7 +251,7 @@ Art. 46–49. (pominięte)
 
 - **1)** komisję do spraw odpowiedzialności dyscyplinarnej sędziów i asesorów sądowych, której zadaniem jest analizowanie wyroków sądów dyscyplinarnych, składanie Radzie wniosków w przedmiocie żądania podjęcia czynności dyscyplinarnych, zaskarżania orzeczeń sądów dyscyplinarnych i rzeczników dyscyplinarnych oraz żądania wznowienia postępowania dyscyplinarnego;
 - **2)** komisję budżetową, której zadaniem jest coroczne:
-    - **a)** opracowywanie projektu uchwały zawierającej plan dochodów i wydatków Rady oraz uchwał zawierających wnioski, o których mowa w art. 178 § 3 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334) i art. 4 § 4 ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250),
+    - **a)** opracowywanie projektu uchwały zawierającej plan dochodów i wydatków Rady oraz uchwał zawierających wnioski, o których mowa w art. 178 § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334) i art. 4 § 4 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250),
     - **b)** badanie danych zawartych w oświadczeniach prezesów sądów apelacyjnych oraz prezesów wojskowych sądów okręgowych o ich stanie majątkowym celem dokonania przez Radę analizy tych oświadczeń do dnia 30 czerwca każdego roku;
 
 - **3)** komisję do spraw wizytacji i lustracji, której zadaniem jest przygotowanie projektów uchwał w sprawach przeprowadzenia wizytacji sądu albo jego jednostki organizacyjnej, lustracji w sądzie albo lustracji pracy sędziego lub asesora sądowego;
@@ -289,7 +287,7 @@ Art. 46–49. (pominięte)
 
 **Art. 22.**
 
-1. Rada określa w regulaminie szczegółowy tryb swojego działania, z uwzględnieniem zastosowania systemu teleinformatycznego obsługującego postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, o którym mowa w ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, zwanego dalej „systemem teleinformatycznym”.
+1. Rada określa w regulaminie szczegółowy tryb swojego działania, z uwzględnieniem zastosowania systemu teleinformatycznego obsługującego postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, o którym mowa w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, zwanego dalej „systemem teleinformatycznym”.
 
 1a. Rada, określając szczegółowy tryb swojego działania, kieruje się potrzebą zapewnienia dostępności informacji o postępowaniu przed Radą oraz wyczerpującej informacji o kandydatach i powodach, dla których przedstawiono wniosek o powołanie danej osoby do pełnienia urzędu sędziego albo asesora sądowego.
 
@@ -311,9 +309,12 @@ Art. 46–49. (pominięte)
 
 1. Rada może wyznaczyć do stałego wykonywania pracy w Biurze członka Rady będącego sędzią, za jego zgodą. Wyznaczenie następuje na czas określony.
 
-2. Do sędziego delegowanego do pełnienia czynności w Biurze stosuje się odpowiednio przepisy art. 78 § 2–4 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych. Wysokość dodatków ustala Minister Sprawiedliwości na wniosek Przewodniczącego.
+2. Do sędziego delegowanego do pełnienia czynności w Biurze stosuje się odpowiednio przepisy art. 78 § 2–4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych. Wysokość dodatków ustala Minister Sprawiedliwości na wniosek Przewodniczącego.
 
 **Art. 26.** Członkowie Rady w związku z pełnieniem obowiązków w Radzie otrzymują:
+
+- **1)** diety za każdy dzień udziału w posiedzeniach plenarnych i innych pracach Rady w wysokości 20 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych;
+- **2)** zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878) według zasad obowiązujących przy podróżach służbowych na obszarze kraju.
 
 **Art. 27.**
 
@@ -435,7 +436,7 @@ Art. 46–49. (pominięte)
 
 2. Sędziowie wizytatorzy po rozpatrzeniu uwag podtrzymują ocenę kwalifikacji asesora sądowego, do której zgłoszono uwagi, albo dokonują oceny odmiennej. Stanowisko sędziów wizytatorów sporządza się na piśmie wraz z uzasadnieniem i doręcza się asesorowi sądowemu.
 
-3. Uwagi asesora sądowego złożone po terminie, o którym mowa w art. 106xa § 4 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, pozostawia się bez rozpatrzenia.
+3. Uwagi asesora sądowego złożone po terminie, o którym mowa w art. 106xa § 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, pozostawia się bez rozpatrzenia.
 
 **Art. 38.**
 
@@ -459,7 +460,7 @@ Art. 46–49. (pominięte)
 
 **Art. 40.**
 
-1. O wszczęciu postępowania lub odmowie uwzględnienia wniosku w przedmiocie stwierdzenia okoliczności wymienionych w art. 7 ust. 1 pkt 1–5, ust. 2 i ust. 3 oraz w art. 8 ust. 1 ustawy z dnia 17 grudnia 1997 r. o zmianie ustawy Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. z 1998 r. poz. 607, z 2001 r. poz. 1070 oraz z 2011 r. poz. 714), Rada rozstrzyga w drodze uchwały.
+1. O wszczęciu postępowania lub odmowie uwzględnienia wniosku w przedmiocie stwierdzenia okoliczności wymienionych w art. 7 ust. 1 pkt 1–5, ust. 2 i ust. 3 oraz w art. 8 ust. 1 ustawy z dnia 17 grudnia 1997 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. z 1998 r. poz. 607, z 2001 r. poz. 1070 oraz z 2011 r. poz. 714), Rada rozstrzyga w drodze uchwały.
 
 2. Odpis uchwały doręcza się wnioskodawcy oraz zainteresowanemu sędziemu lub członkowi jego rodziny wraz z odpisem wniosku. Odpis uchwały o wszczęciu postępowania doręcza się również jednostce organizacyjnej wypłacającej uposażenie sędziowskie lub uposażenie rodzinne.
 
@@ -493,7 +494,7 @@ Art. 46–49. (pominięte)
 
 2a. Wszystkie odwołania wniesione przez uczestników tego samego postępowania podlegają łącznemu rozpoznaniu i rozstrzygnięciu w toku jednego postępowania przed Sądem Najwyższym.
 
-3. Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o skardze kasacyjnej. Przepisu art. 87 tej ustawy nie stosuje się.
+3. Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o skardze kasacyjnej. Przepisu art. 87 tej ustawy nie stosuje się.
 
 3a. W sprawach dotyczących uchwał w przedmiocie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego Sąd Najwyższy dokonuje doręczeń w sposób określony w art. 32 ust. 1a.
 

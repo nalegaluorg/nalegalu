@@ -8,10 +8,10 @@ pos: 125
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 125 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 19 stycznia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/125/text.pdf) |
 
-Poz. 125 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 19 stycznia 2015 r.
-w sprawie odpadów pochodzących z procesów wytwarzania dwutlenku tytanu oraz z przetwarzania tych odpadów, które nie mogą być unieszkodliwiane przez ich składowanie Na podstawie art. 100 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm. ) zarządza się, co następuje: § 1. Unieszkodliwiane przez składowanie nie mogą być następujące odpady powstające w procesie siarczanowym wytwarzania dwutlenku tytanu oraz z przetwarzania tych odpadów:
+w sprawie odpadów pochodzących z procesów wytwarzania dwutlenku tytanu oraz z przetwarzania tych odpadów, które nie mogą być unieszkodliwiane przez ich składowanie Na podstawie art. 100 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm. ) zarządza się, co następuje:
+§ 1. Unieszkodliwiane przez składowanie nie mogą być następujące odpady powstające w procesie siarczanowym wytwarzania dwutlenku tytanu oraz z przetwarzania tych odpadów:
 1) szlamy w postaci nierozłożonej rudy z wyłączeniem przetworzonego odpadu;
 2) odpady mocnych kwasów w postaci macierzystych cieczy powstających w fazie filtracji po hydrolizie roztworu siarczanu tytanylu lub połączonych macierzystych cieczy i odpadów, jeżeli cieczom tym towarzyszą odpady słabych kwasów zawierające więcej niż 0,5% wolnego kwasu siarkowego i różne metale ciężkie;
 3) odpady z przetwarzania odpadów poprodukcyjnych zawierające różne metale ciężkie i powstające podczas przetwarzania odpadów mocnych kwasów metodą zatężania, w postaci odfiltrowanych soli, szlamów i odpadów ciekłych, z wyłączeniem zneutralizowanych i odfiltrowanych lub zdekantowanych (oddzielonych) odpadów zawierających śladowe ilości metali ciężkich;

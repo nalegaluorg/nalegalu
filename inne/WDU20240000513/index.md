@@ -8,10 +8,10 @@ pos: 513
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 kwietnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 513 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000513) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/513/text.pdf) |
 
-Poz. 513 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 kwietnia 2024 r.
-w sprawie warunków, sposobu i trybu zaopatrywania pacjentów szpitala w znaki identyfikacyjne oraz sposobu postępowania w razie stwierdzenia ich braku Na podstawie art. 36 ust. 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej z 2023 r. 991, 1675 i 1972) zarządza się, co następuje: § 1. 1. Pacjenta zaopatruje się w znak identyfikacyjny przy przyjęciu do szpitala, po ustaleniu jego tożsamości.
+w sprawie warunków, sposobu i trybu zaopatrywania pacjentów szpitala w znaki identyfikacyjne oraz sposobu postępowania w razie stwierdzenia ich braku Na podstawie art. 36 ust. 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991, 1675 i 1972) zarządza się, co następuje:
+§ 1. 1. Pacjenta zaopatruje się w znak identyfikacyjny przy przyjęciu do szpitala, po ustaleniu jego tożsamości.
 2. Pacjenta, którego tożsamości nie można ustalić przy przyjęciu do szpitala, zaopatruje się w znak identyfikacyjny zawierający oznaczenie „NN” oraz dodatkowe oznaczenie numeryczne, umożliwiające identyfikację pacjenta do czasu ustalenia jego tożsamości.
 3. Pacjenta, który potrzebuje natychmiastowego udzielenia świadczenia zdrowotnego ze względu na zagrożenie życia lub zdrowia, zaopatruje się w znak identyfikacyjny niezwłocznie po udzieleniu takiego świadczenia.
 § 2. 1. Noworodka urodzonego w szpitalu zaopatruje się w znak identyfikacyjny niezwłocznie po urodzeniu.
-2. Czynności, o której mowa w ust. 1, dokonuje się w obecności matki lub innej osoby bliskiej w rozumieniu art. 3 ust. 1 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta z 2023 r. 1545, 1675, 1692 i 1972) obecnej przy porodzie, chyba że przebieg porodu na to nie pozwala.
+2. Czynności, o której mowa w ust. 1, dokonuje się w obecności matki lub innej osoby bliskiej w rozumieniu art. 3 ust. 1 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675, 1692 i 1972) obecnej przy porodzie, chyba że przebieg porodu na to nie pozwala.
 3. Adnotacji o dokonaniu czynności, o której mowa w ust. 2, dokonuje się w indywidualnej dokumentacji medycznej noworodka oraz indywidualnej dokumentacji medycznej matki.
 § 3. Znak identyfikacyjny umieszcza się w indywidualnej dokumentacji medycznej pacjenta oraz na opasce albo na zdjęciu – w przypadku, o którym mowa w § 5 ust. 1.
 § 4. 1. Opaskę ze znakiem identyfikacyjnym zakłada się na nadgarstek pacjenta, a w przypadku gdy jest to niemożliwe albo niewskazane ze względu na przebieg procesu leczenia, w okolicy kostki kończyny dolnej.
@@ -38,7 +38,7 @@ w sprawie warunków, sposobu i trybu zaopatrywania pacjentów szpitala w znaki i
 3. Opaska ze znakiem identyfikacyjnym powinna być zapięta w sposób zapewniający jej utrzymanie się na nadgarstku lub okolicy kostki kończyny dolnej pacjenta w trakcie jego pobytu w szpitalu.
 § 5. 1. W przypadku gdy założenie opaski ze znakiem identyfikacyjnym dziecku, które nie ukończyło szóstego roku życia, w sposób określony w § 4 ust. 1 nie jest możliwe, za zgodą matki lub innej osoby bliskiej, lub opiekuna faktycznego wykonuje się zdjęcie dziecka, na którym umieszcza się znak identyfikacyjny i umieszcza się to zdjęcie w widocznym miejscu na łóżku dziecka albo na inkubatorze.
 2. W przypadku braku zgody, o której mowa w ust. 1, na łóżku dziecka albo na inkubatorze umieszcza się opaskę ze znakiem identyfikacyjnym.
-Dziennik Ustaw – 2 – Poz. 513 § 6. Adnotacji o okolicznościach uniemożliwiających założenie opaski ze znakiem identyfikacyjnym w sposób określony w § 4 ust. 1 oraz oświadczenia o wyrażeniu zgody na wykonanie i umieszczenie na łóżku albo na inkubatorze zdjęcia dziecka, albo o braku takiej zgody, dokonuje się w indywidualnej dokumentacji medycznej dziecka.
+§ 6. Adnotacji o okolicznościach uniemożliwiających założenie opaski ze znakiem identyfikacyjnym w sposób określony w § 4 ust. 1 oraz oświadczenia o wyrażeniu zgody na wykonanie i umieszczenie na łóżku albo na inkubatorze zdjęcia dziecka, albo o braku takiej zgody, dokonuje się w indywidualnej dokumentacji medycznej dziecka.
 § 7. 1. Przy wypisywaniu pacjenta ze szpitala, po sprawdzeniu zgodności znaku identyfikacyjnego umieszczonego na opasce, a w przypadku, o którym mowa w § 5 ust. 1, na zdjęciu dziecka, ze znakiem identyfikacyjnym umieszczonym w indywidualnej dokumentacji medycznej, opaskę ze znakiem identyfikacyjnym albo zdjęcie wydaje się pacjentowi albo jego matce lub innej osobie bliskiej, lub opiekunowi faktycznemu.
 2. W przypadku, o którym mowa w § 4 ust. 2, drugą opaskę ze znakiem identyfikacyjnym dołącza się do indywidualnej dokumentacji medycznej pacjenta.
 3. Adnotacji o dokonaniu czynności, o których mowa w ust. 1 i 2, dokonuje się w indywidualnej dokumentacji medycznej pacjenta.

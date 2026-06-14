@@ -8,10 +8,10 @@ pos: 1151
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 sierpnia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1151 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1151/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 lipca 2015 r.
-zmieniające rozporządzenie w sprawie podziału środków finansowych na realizację programu operacyjnego „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” na lata 2007–2013 Na podstawie art. 8 ust. 1 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. Nr 72, poz. 619 i Nr 157, poz. 1241) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia września 2009 r. w sprawie podziału środków finansowych na realizację programu operacyjnego „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” na lata 2007–2013 (Dz. U. z 2013 r. poz. 236, z późn. zm. ) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+zmieniające rozporządzenie w sprawie podziału środków finansowych na realizację programu operacyjnego „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” na lata 2007–2013 Na podstawie art. 8 ust. 1 ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. Nr 72, poz. 619 i Nr 157, poz. 1241) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2009 r. w sprawie podziału środków finansowych na realizację programu operacyjnego „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” na lata 2007–2013 (Dz. U. z 2013 r. poz. 236, z późn. zm. ) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Rolnictwa i Rozwoju Wsi: M. Sawicki PODZIAŁ ŚRODKÓW FINANSOWYCH NA REALIZACJĘ PROGRAMU OPERACYJNEGO Wysokość limitów środków finansowych (w euro) Osie priorytetowe zawarte w programie operacyjnym z podziałem wkład na poszczególne środki wkład publiczny z Europejskiego wkład krajowy ogółem Funduszu Rybackiego 1 2 3 4
 1. Środki na rzecz dostosowania floty 165 578 763,69 124 184 072,77 41 394 690,92 rybackiej
-1.1. Pomoc publiczna z tytułu trwałego 29 925 513,56 22 444 135,17 481 378,39 zaprzestania działalności połowowej
+1.1. Pomoc publiczna z tytułu trwałego 29 925 513,56 22 444 135,17 7 481 378,39 zaprzestania działalności połowowej
 1.2. Pomoc publiczna z tytułu tymczasowego 72 183 962,10 54 137 971,58 18 045 990,52 zaprzestania działalności połowowej
 1.3. Inwestycje na statkach rybackich 17 552 133,88 13 164 101,66 4 388 032,22 i selektywność
-1.4. Rybactwo przybrzeżne 29 299 415,74 21 974 562,55 324 853,19
+1.4. Rybactwo przybrzeżne 29 299 415,74 21 974 562,55 7 324 853,19
 1.5. Rekompensaty społeczno-gospodarcze 16 617 738,41 12 463 301,81 4 154 436,60 w celu zarządzania krajową flotą rybacką
 2. Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami 277 110 825,73 207 833 119,30 69 277 706,43 rybołówstwa i akwakultury
 2.1. Inwestycje w chów i hodowlę ryb 60 745 195,30 45 558 896,48 15 186 298,82

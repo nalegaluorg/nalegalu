@@ -8,7 +8,7 @@ pos: 826
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o doradztwie podatkowym oraz niektórych innych ustaw
@@ -28,6 +28,63 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101220826) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/826/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2008 r. Nr 73, poz. 443, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 ust. 1 otrzymuje brzmienie: „1. Czynności doradztwa podatkowego obejmują:
+- **1)** udzielanie podatnikom, płatnikom i inkasentom, na ich zlecenie lub na ich rzecz, porad, opinii i wyjaśnień z zakresu ich obowiązków podatkowych i celnych oraz w sprawach egzekucji administracyjnej związanej z tymi obowiązkami;
+- **2)** prowadzenie, w imieniu i na rzecz podatników, płatników i inkasentów, ksiąg podatkowych i innych ewidencji do celów podatkowych oraz udzielanie im pomocy w tym zakresie;
+- **3)** sporządzanie, w imieniu i na rzecz podatników, płatników i inkasentów, zeznań i deklaracji podatkowych lub udzielanie im pomocy w tym zakresie;
+- **4)** reprezentowanie podatników, płatników i inkasentów w postępowaniu przed organami administracji publicznej i w zakresie sądowej kontroli decyzji, postanowień i innych aktów administracyjnych w sprawach wymienionych w pkt 1.”;
+- **2)** w art. 3 pkt 3 otrzymuje brzmienie: „3) biegli rewidenci, z wyłączeniem czynności, o których mowa w art. 2 ust. 1 pkt 4.”;
+- **3)** w art. 4 ust. 2 otrzymuje brzmienie: „2. Podmioty wymienione w ust. 1 pkt 1 – 3 wykonują doradztwo podatkowe wyłącznie przez doradców podatkowych, radców prawnych lub biegłych rewidentów zatrudnionych w tych podmiotach. Przepis art. 3 pkt 3 stosuje się odpowiednio.”;
+- **4)** w art. 6 ust. 3 otrzymuje brzmienie: „3. Na listę doradców podatkowych wpisuje się również osoby fizyczne, których kwalifikacje do wykonywania zawodu doradcy podatkowego zostały uznane na zasadach określonych w ustawie z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. Nr 63, poz. 394), zwanej dalej „ustawą o uznawaniu kwalifikacji”, jeżeli:
+- **1)** spełniają warunki określone w ust. 1 pkt 2 i 3;
+- **2)** wystąpią z wnioskiem o wpis na listę, nie później niż w terminie 12 miesięcy od dnia doręczenia decyzji o uznaniu kwalifikacji wydanej na podstawie art. 7 ust. 3 ustawy o uznawaniu kwalifikacji.”;
+- **5)** w art. 7:
+    - **a)** w ust. 3 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) rodzaje prowadzonej działalności gospodarczej lub rodzaje zatrudnienia;”,
+    - **b)** w ust. 4 uchyla się pkt 2a,
+    - **c)** w ust. 5 pkt 1 otrzymuje brzmienie: „1) kopię decyzji wydanej na podstawie art. 7 ust. 3 ustawy o uznawaniu kwalifikacji;”;
+
+- **6)** w art. 10:
+    - **a)** w ust. 1 w pkt 2 uchyla się lit. b oraz c,
+    - **b)** w ust. 1a uchyla się pkt 3a,
+    - **c)** uchyla się ust. 4;
+
+- **7)** art. 14 otrzymuje brzmienie: „Art. 14. 1. Krajowa Rada Doradców Podatkowych prowadzi rejestr osób prawnych uprawnionych do wykonywania doradztwa podatkowego, zwany dalej „rejestrem”.
+
+2. Wpis do rejestru jest dokonywany na wniosek osoby prawnej spełniającej warunki, o których mowa w art. 4 ust. 1 pkt 1 albo 3. Do złożenia wniosku jest obowiązany organ zarządzający osoby prawnej.
+
+3. Wniosek osoby prawnej o dokonanie wpisu do rejestru zawiera:
+
+- **1)** pełną i skróconą firmę (nazwę) osoby prawnej, adres jej siedziby oraz numer identyfikacji podatkowej (NIP);
+- **2)** formę organizacyjno-prawną;
+- **3)** nazwiska, imiona i adresy oraz numery identyfikacji podatkowej (NIP) albo inne numery służące identyfikacji dla celów podatkowych lub ubezpieczeń społecznych nadane w państwie pochodzenia wspólników (akcjonariuszy), członków zarządów oraz organów nadzoru spółek, o których mowa w art. 4 ust. 1 pkt 3;
+- **4)** nazwiska, imiona i adresy oraz numery identyfikacji podatkowej (NIP) albo inne numery służące identyfikacji dla celów podatkowych lub ubezpieczeń społecznych nadane w państwie pochodzenia członków organów zarządzających osób prawnych, o których mowa w art. 4 ust. 1 pkt 1;
+- **5)** odpis umowy spółki albo statutu;
+- **6)** aktualny wypis z właściwego rejestru sądowego.
+
+4. Wpis do rejestru zawiera następujące dane:
+
+- **1)** numer i datę wpisu do rejestru;
+- **2)** pełną i skróconą firmę (nazwę) osoby prawnej oraz adres jej siedziby.
+
+5. Osoba prawna wpisana do rejestru jest obowiązana zawiadomić Krajową Radę Doradców Podatkowych o wszelkich zmianach danych określonych w ust. 3 pkt 1 – 4 oraz zmianach umowy spółki albo statutu w zakresie dotyczącym warunków wykonywania doradztwa podatkowego określonych w art. 4 ust. 1 pkt 1 albo 3, w terminie 30 dni od dnia zaistnienia tych zmian.
+
+6. Krajowa Rada Doradców Podatkowych sprawuje nadzór nad przestrzeganiem przez podmioty wpisane do rejestru warunków wykonywania doradztwa podatkowego, o których mowa w art. 4 ust. 1 pkt 1 lub 3. Spełnienie tych warunków ustala się na podstawie aktualnego wypisu z właściwego rejestru sądowego lub odpisu umowy spółki bądź statutu.
+
+7. Rejestr jest prowadzony w formie elektronicznej i jest dostępny w Biuletynie Informacji Publicznej na stronie podmiotowej Krajowej Rady Doradców Podatkowych.”;
+
+- **8)** art. 16 otrzymuje brzmienie: „Art. 16. Krajowa Rada Doradców Podatkowych skreśla osobę prawną z rejestru:
+- **1)** na jej wniosek;
+- **2)** z urzędu albo na wniosek ministra właściwego do spraw finansów publicznych - w przypadku:
+    - **a)** nieprzestrzegania warunków określonych w art. 4,
+    - **b)** rażącego lub uporczywego naruszania zasad i sposobu prowadzenia reklamy usług doradztwa podatkowego, wbrew postanowieniom art. 38 ust. 3;
+
+- **3)** z urzędu – w przypadku ustania osoby prawnej.”;
+- **9)** art. 18 i 19 otrzymują brzmienie: „Art. 18. 1. Krajowa Rada Doradców Podatkowych wydaje decyzję administracyjną w sprawie wpisu do rejestru oraz o skreśleniu z rejestru. Decyzję podpisuje przewodniczący posiedzenia, na którym decyzja została podjęta.
+
+2. Do decyzji, o których mowa w ust. 1, stosuje się odpowiednio art. 127 § 3 Kodeksu postępowania administracyjnego.
+
+3. Decyzje, o których mowa w ust. 1, są przekazywane do wiadomości ministrowi właściwemu do spraw finansów publicznych.
 
 **Art. 19.**
 

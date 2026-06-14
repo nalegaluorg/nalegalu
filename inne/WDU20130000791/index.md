@@ -8,7 +8,7 @@ pos: 791
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 58/5/A/2013 WYROK z dnia 13 czerwca 2013 r.

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 21 grudnia 2000 r. o żegludze śródlądowej.*
 
 Łącznie: **6** orzeczeń
-(pominięto 47 orzeczeń sądów rejonowych)
+(pominięto 48 orzeczeń sądów rejonowych)
 
 ## art. 6 (1)
 

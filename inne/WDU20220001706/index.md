@@ -8,10 +8,10 @@ pos: 1706
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 sierpnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1706 OBWIESZCZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 29 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,26 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001706) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1706/text.pdf) |
 
-OBWIESZCZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 29 lipca 2022 r.
-w sprawie ogłoszenia jednolitego tekstu Ministra w sprawie zasad sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst Ministra z dnia 21 grudnia 2018 r. w sprawie zasad sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 2531), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra z dnia 22 marca 2022 r. zmieniającym rozporządzenie w sprawie zasad sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 2 Ministra z dnia 22 marca 2022 r. zmieniającego rozporządzenie w sprawie zasad sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 21 grudnia 2018 r.
-w sprawie zasad sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur Na podstawie art. 5 ust. 9 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony (Dz. U. z 2021 r. poz. 1070) zarządza się, co następuje:
-1. Rozporządzenie określa zasady sposób organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur.
-2. 1. Organizację wojewódzkiego inspektoratu ochrony środowiska, zwanego dalej „wojewódzkim inspektoratem”, stanowią następujące komórki organizacyjne:
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 2531), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu i Środowiska z dnia 22 marca 2022 r. zmieniającym rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 22 marca 2022 r. zmieniającego rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 676), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
+Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 21 grudnia 2018 r.
+w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur Na podstawie art. 5 ust. 9 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070) zarządza się, co następuje:
+§ 1. Rozporządzenie określa zasady i sposób organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur.
+§ 2. 1. Organizację wojewódzkiego inspektoratu ochrony środowiska, zwanego dalej „wojewódzkim inspektoratem”, stanowią następujące komórki organizacyjne:
 1) wydział inspekcji;
 2) wydział prawny.
 2. Organizację wojewódzkiego inspektoratu mogą stanowić następujące komórki organizacyjne:
 1) wydziały lub samodzielne stanowiska pracy do spraw:
 a) administracyjno-technicznych,
-b) budżetu finansów,
+b) budżetu i finansów,
 c) egzekucji należności,
 d) informatycznych,
-e) kadr szkolenia,
+e) kadr i szkolenia,
 f) organizacji,
-g) kontaktów z mediami promocji,
-h) przeciwpożarowych oraz bezpieczeństwa higieny pracy,
+g) kontaktów z mediami i promocji,
+h) przeciwpożarowych oraz bezpieczeństwa i higieny pracy,
 i) współpracy międzynarodowej,
 j) zamówień publicznych,
 k) spraw obronnych,
@@ -54,12 +53,12 @@ n) zwalczania przestępczości środowiskowej;
 2) delegatury.
 3. W ramach wydziału inspekcji może zostać wyodrębniona grupa interwencyjno-wyjazdowa lub inne grupy o charakterze zadaniowym.
 4. Wydziały lub samodzielne stanowiska pracy, o których mowa w ust. 2 pkt 1, można łączyć lub włączyć w skład innych wydziałów, o których mowa w tych przepisach oraz w przepisach ust. 1.
-5. W wojewódzkim inspektoracie mogą być tworzone inne niż wymienione w ust. 2 pkt samodzielne stanowiska pracy, jeżeli przepisy odrębne tak stanowią.
-3. 1. W skład delegatury wchodzi dział inspekcji.
+5. W wojewódzkim inspektoracie mogą być tworzone inne niż wymienione w ust. 2 pkt 1 samodzielne stanowiska pracy, jeżeli przepisy odrębne tak stanowią.
+§ 3. 1. W skład delegatury wchodzi dział inspekcji.
 2. W ramach działu inspekcji może zostać wyodrębniona grupa interwencyjno-wyjazdowa lub inne grupy o charakterze zadaniowym.
-3. W skład delegatury mogą wchodzić samodzielne stanowiska pracy do spraw administracyjno-technicznych informatycznych.
+3. W skład delegatury mogą wchodzić samodzielne stanowiska pracy do spraw administracyjno-technicznych i informatycznych.
 4. Samodzielne stanowiska pracy do spraw informatycznych w delegaturze mogą być włączone do działu inspekcji.
-4. Regulaminy organizacyjne określające organizację wojewódzkich inspektoratów ochrony środowiska wydane na podstawie przepisów dotychczasowych należy dostosować do przepisów niniejszego w terminie 60 dni od dnia jego wejścia w życie.
-5. Traci moc rozporządzenie Ministra z dnia 30 maja 2011 r. w sprawie zasad sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 747).
-6. Rozporządzenie wchodzi w życie z dniem stycznia 2019 r.
+§ 4. Regulaminy organizacyjne określające organizację wojewódzkich inspektoratów ochrony środowiska wydane na podstawie przepisów dotychczasowych należy dostosować do przepisów niniejszego rozporządzenia w terminie 60 dni od dnia jego wejścia w życie.
+§ 5. Traci moc rozporządzenie Ministra Środowiska z dnia 30 maja 2011 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 747).
+§ 6. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
 

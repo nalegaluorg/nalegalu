@@ -8,10 +8,10 @@ pos: 2472
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 29 grudnia 2018 ROZPORZĄDZENIE MINISTRA ZDROWIA I MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 28 grudnia 2018 badań zawartość alkoholu organizmie Na podstawie art. 47 ust. 2 ustawy 26 października 1982 o wychowaniu trzeźwości przeciwdziałaniu alkoholizmowi (Dz. 2018 2137 2244) zarządza się, co następuje: Rozporządzenie określa warunki sposób przeprowadzania badań celu ustalenia zawartości alkoholu organizmie, zwanych dalej „badaniami”, sposób ich dokumentowania oraz weryfikacji.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2472 ROZPORZĄDZENIE MINISTRA ZDROWIA I MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 28 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,92 +25,103 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002472) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2472/text.pdf) |
 
-2. Badania obejmują badanie wydychanego powietrza badanie krwi.
-2. Badanie wydychanego powietrza przeprowadza przed badaniem krwi, jeżeli stan badanej to pozwala.
-3. Badanie wydychanego powietrza przeprowadza sposób nieinwazyjny przy użyciu urządzenia elektronicznego dokonującego pomiaru stężenia alkoholu wydychanym powietrzu metodą:
-1) spektrometrii podczerwieni
-2) utleniania elektrochemicznego zwanego dalej „analizatorem wydechu”.
-2. Badania analizatorem wydechu przeprowadza przed upływem 15 minut od chwili zakończenia spożywania alkoholu, palenia wyrobów tytoniowych, tym palenia nowatorskich wyrobów tytoniowych, palenia papierosów elektronicznych używania wyrobów tytoniowych bezdymnych przez osobę badaną.
-4. Pomiaru analizatorem wydechu dokonuje użyciem ustnika. Ustnik podlega wymianie każdorazowo przed przeprowadzeniem pomiaru. Opakowanie ustnika należy otwierać obecności badanej.
-2. W przypadku dokonania pierwszego pomiaru analizatorem wydechu, o którym mowa 3 ust. 1 1, oraz uzyskania wyniku ponad 0,00 mg/dm , dokonuje niezwłocznie drugiego pomiaru.
-3. W przypadku dokonania pierwszego pomiaru analizatorem wydechu, o którym mowa 3 ust. 1 2, oraz uzyskania wyniku ponad 0,00 mg/dm , dokonuje drugiego pomiaru po upływie 15 minut.
-4. Na żądanie badanej albo gdy zachodzi uzasadnione podejrzenie popełnienia przez nią przestępstwa, wynik badania dokonanego analizatorem wydechu, o którym mowa 3 ust. 1 2, wynoszący ponad 0,00 mg/dm należy zweryfikować badaniem analizatorem wydechu, o którym mowa 3 ust. 1 1, przez dokonanie dwóch pomiarów.
-Drugiego pomiaru dokonuje niezwłocznie po dokonaniu pierwszego pomiaru.
-od 0,10 mg/dm , a drugim pomiarze wyniku 0,00 mg/dm , dokonuje niezwłocznie trzeciego pomiaru tym samym analizatorem wydechu. Jeżeli wynik trzeciego pomiaru wynosi 0,00 mg/dm , to badanie wskazuje stan po użyciu alkoholu.
-5. Badanie wydychanego powietrza może być przeprowadzone przy użyciu analizatora wydechu niewyposażonego cyfrową prezentację wyniku pomiaru, a także bez użycia ustnika, jeżeli producent analizatora wydechu przewiduje taki sposób jego eksploatacji.
-2. Jeżeli badanie, o którym mowa ust. 1, wykaże obecność alkoholu wydychanym powietrzu, niezwłocznie przeprowadza badanie analizatorem wydechu, o którym mowa 3 ust. 1 1 2. Przepisy 4 stosuje się.
-6. Jeżeli osoba podejrzana o popełnienie przestępstwa wykroczenia oddaliła miejsca zdarzenia przed badaniem jej stanu trzeźwości, a następnie została zatrzymana albo sama zgłosiła do uprawnionego organu powołanego do ochrony porządku publicznego, należy dokonać badania analizatorem wydechu. Przepisów 5 stosuje się.
-2. Jeżeli wynik pierwszego pomiaru wynosi ponad 0,00 mg/dm , przypadku dokonania tego pomiaru:
-1) analizatorem wydechu, o którym mowa 3 ust. 1 1 niezwłocznie dokonuje drugiego pomiaru tym samym analizatorem wydechu;
-2) analizatorem wydechu, o którym mowa 3 ust. 1 2 niezwłocznie dokonuje dwóch pomiarów analizatorem wydechu, o którym mowa 3 ust. 1
-3. Po upływie 30 minut od przeprowadzenia ostatniego pomiarów, o których mowa ust. 2, przeprowadza dwa kolejne pomiary analizatorem wydechu, o którym mowa 3 ust. 1 1, zachowaniem 30-minutowego odstępu pomiędzy tymi pomiarami.
-4. Przepisu ust. 1 stosuje się, jeżeli od chwili zdarzenia do zatrzymania zgłoszenia upłynął taki czas, że badanie jest bezzasadne.
-5. Przepisy ust. 1–4 stosuje odpowiednio do osoby, która oddaliła miejsca zdarzenia, ale zachodzi podejrzenie spożycia przez nią alkoholu po zdarzeniu.
-7. Z badania przeprowadzonego analizatorem wydechu wskazującego obecność alkoholu organizmie badanej sporządza protokół, który zawiera:
-1) dane badanej:
-a) imię nazwisko,
-b) numer PESEL, a jeżeli posiada, serię numer dokumentu potwierdzającego jej tożsamość,
+w sprawie badań na zawartość alkoholu w organizmie Na podstawie art. 47 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2018 r. poz. 2137 i 2244) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki i sposób przeprowadzania badań w celu ustalenia zawartości alkoholu w organizmie, zwanych dalej „badaniami”, sposób ich dokumentowania oraz weryfikacji.
+§ 2. 1. Badania obejmują badanie wydychanego powietrza lub badanie krwi.
+2. Badanie wydychanego powietrza przeprowadza się przed badaniem krwi, jeżeli stan osoby badanej na to pozwala.
+§ 3. 1. Badanie wydychanego powietrza przeprowadza się w sposób nieinwazyjny przy użyciu urządzenia elektronicznego dokonującego pomiaru stężenia alkoholu w wydychanym powietrzu metodą:
+1) spektrometrii w podczerwieni lub
+2) utleniania elektrochemicznego – zwanego dalej „analizatorem wydechu”.
+2. Badania analizatorem wydechu nie przeprowadza się przed upływem 15 minut od chwili zakończenia spożywania alkoholu, palenia wyrobów tytoniowych, w tym palenia nowatorskich wyrobów tytoniowych, palenia papierosów elektronicznych lub używania wyrobów tytoniowych bezdymnych przez osobę badaną.
+§ 4. 1. Pomiaru analizatorem wydechu dokonuje się z użyciem ustnika. Ustnik podlega wymianie każdorazowo przed przeprowadzeniem pomiaru. Opakowanie ustnika należy otwierać w obecności osoby badanej.
+2. W przypadku dokonania pierwszego pomiaru analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 1, oraz uzyskania wyniku ponad 0,00 mg/dm , dokonuje się niezwłocznie drugiego pomiaru.
+3. W przypadku dokonania pierwszego pomiaru analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 2, oraz uzyskania wyniku ponad 0,00 mg/dm , dokonuje się drugiego pomiaru po upływie 15 minut.
+4. Na żądanie osoby badanej albo gdy zachodzi uzasadnione podejrzenie popełnienia przez nią przestępstwa, wynik badania dokonanego analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 2, wynoszący ponad 0,00 mg/dm należy zweryfikować badaniem analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 1, przez dokonanie dwóch pomiarów.
+Drugiego pomiaru dokonuje się niezwłocznie po dokonaniu pierwszego pomiaru.
+5. W przypadku dokonania pierwszego pomiaru analizatorem wydechu i uzyskania wyniku równego lub większego od 0,10 mg/dm , a w drugim pomiarze wyniku 0,00 mg/dm , dokonuje się niezwłocznie trzeciego pomiaru tym samym analizatorem wydechu. Jeżeli wynik trzeciego pomiaru wynosi 0,00 mg/dm , to badanie nie wskazuje na stan po użyciu alkoholu.
+§ 5. 1. Badanie wydychanego powietrza może być przeprowadzone przy użyciu analizatora wydechu niewyposażonego w cyfrową prezentację wyniku pomiaru, a także bez użycia ustnika, jeżeli producent analizatora wydechu przewiduje taki sposób jego eksploatacji.
+2. Jeżeli badanie, o którym mowa w ust. 1, wykaże obecność alkoholu w wydychanym powietrzu, niezwłocznie przeprowadza się badanie analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 1 lub 2. Przepisy § 4 stosuje się.
+§ 6. 1. Jeżeli osoba podejrzana o popełnienie przestępstwa lub wykroczenia oddaliła się z miejsca zdarzenia przed badaniem jej stanu trzeźwości, a następnie została zatrzymana albo sama zgłosiła się do uprawnionego organu powołanego do ochrony porządku publicznego, należy dokonać badania analizatorem wydechu. Przepisów § 5 nie stosuje się.
+2. Jeżeli wynik pierwszego pomiaru wynosi ponad 0,00 mg/dm , w przypadku dokonania tego pomiaru:
+1) analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 1 – niezwłocznie dokonuje się drugiego pomiaru tym samym analizatorem wydechu;
+2) analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 2 – niezwłocznie dokonuje się dwóch pomiarów analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 1.
+3. Po upływie 30 minut od przeprowadzenia ostatniego z pomiarów, o których mowa w ust. 2, przeprowadza się dwa kolejne pomiary analizatorem wydechu, o którym mowa w § 3 ust. 1 pkt 1, z zachowaniem 30-minutowego odstępu pomiędzy tymi pomiarami.
+4. Przepisu ust. 1 nie stosuje się, jeżeli od chwili zdarzenia do zatrzymania lub zgłoszenia się upłynął taki czas, że badanie jest bezzasadne.
+5. Przepisy ust. 1–4 stosuje się odpowiednio do osoby, która nie oddaliła się z miejsca zdarzenia, ale zachodzi podejrzenie spożycia przez nią alkoholu po zdarzeniu.
+§ 7. 1. Z badania przeprowadzonego analizatorem wydechu wskazującego na obecność alkoholu w organizmie osoby badanej sporządza się protokół, który zawiera:
+1) dane osoby badanej:
+a) imię i nazwisko,
+b) numer PESEL, a jeżeli nie posiada, serię i numer dokumentu potwierdzającego jej tożsamość,
 c) wiek,
 d) płeć,
-e) wzrost podstawie oświadczenia badanej, jeżeli jego złożenie jest możliwe,
-f) masę ciała podstawie oświadczenia badanej, jeżeli jego złożenie jest możliwe,
+e) wzrost – na podstawie oświadczenia osoby badanej, jeżeli jego złożenie jest możliwe,
+f) masę ciała – na podstawie oświadczenia osoby badanej, jeżeli jego złożenie jest możliwe,
 g) podpis, jeżeli jego złożenie jest możliwe;
-2) imię, nazwisko podpis przeprowadzającej badanie;
-3) imię, nazwisko podpis osoby, obecności której przeprowadzono badanie;
-4) wynik pomiaru pomiarów postaci cyfrowej oraz jednostkę, jakiej wyrażony jest wynik, a przypadku badania przeprowadzonego wyłącznie przy użyciu analizatora wydechu niewyposażonego cyfrową prezentację wyniku pomiaru opis prezentacji wyniku pomiaru;
-5) datę, godzinę minutę badania;
+2) imię, nazwisko i podpis osoby przeprowadzającej badanie;
+3) imię, nazwisko i podpis osoby, w obecności której przeprowadzono badanie;
+4) wynik pomiaru lub pomiarów w postaci cyfrowej oraz jednostkę, w jakiej wyrażony jest wynik, a w przypadku badania przeprowadzonego wyłącznie przy użyciu analizatora wydechu niewyposażonego w cyfrową prezentację wyniku pomiaru – opis prezentacji wyniku pomiaru;
+5) datę, godzinę i minutę badania;
 6) miejsce wykonania badania;
-stwierdzenia;
+7) nazwę, model i numer fabryczny analizatora wydechu, którym przeprowadzono badanie;
+8) ilość, rodzaj i godzinę spożycia napojów alkoholowych przez osobę badaną w ciągu ostatnich 24 godzin – na podstawie oświadczenia osoby badanej, jeżeli jego złożenie jest możliwe;
+9) informację o chorobach, na jakie choruje osoba badana – na podstawie oświadczenia osoby badanej, jeżeli jego złożenie jest możliwe;
+10) informację o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie i godzinie ich stwierdzenia;
 11) informację o żądaniu przez osobę badaną przeprowadzenia badania krwi;
-12) uwagi badanej co do sposobu przeprowadzenia badania, jeżeli zostały zgłoszone.
-2. Osobę badaną, jeżeli jest to możliwe, informuje o możliwości odmowy złożenia oświadczeń, o których mowa ust. 1 8 9.
-3. Protokół przebiegu badania przeprowadzonego analizatorem wydechu, którym uzyskano wynik równy 0,00 mg/dm , sporządza się:
-1) przypadku prowadzenia dalszego postępowania popełnienia przestępstwa wykroczenia;
-2) żądanie badanej o czym należy ją pouczyć.
-4. Protokół przebiegu badania przeprowadzonego analizatorem wydechu, sporządzony żądanie badanej, przekazuje tej osobie.
-8. Badanie krwi przeprowadza się, jeżeli:
-1) osoba badana odmawia poddania badaniu wydychanego powietrza;
+12) uwagi osoby badanej co do sposobu przeprowadzenia badania, jeżeli zostały zgłoszone.
+2. Osobę badaną, jeżeli jest to możliwe, informuje się o możliwości odmowy złożenia oświadczeń, o których mowa w ust. 1 pkt 8 i 9.
+3. Protokół z przebiegu badania przeprowadzonego analizatorem wydechu, w którym uzyskano wynik równy 0,00 mg/dm , sporządza się:
+1) w przypadku prowadzenia dalszego postępowania w sprawie popełnienia przestępstwa lub wykroczenia;
+2) na żądanie osoby badanej – o czym należy ją pouczyć.
+4. Protokół z przebiegu badania przeprowadzonego analizatorem wydechu, sporządzony na żądanie osoby badanej, przekazuje się tej osobie.
+§ 8. 1. Badanie krwi przeprowadza się, jeżeli:
+1) osoba badana odmawia poddania się badaniu wydychanego powietrza;
 2) osoba badana, pomimo przeprowadzenia badania wydychanego powietrza, żąda badania krwi;
-3) stan badanej, szczególności wynikający ze spożycia alkoholu, choroby układu oddechowego innych przyczyn, uniemożliwia przeprowadzenie badania wydychanego powietrza;
-4) wystąpił brak wskazania stężenia alkoholu wydychanym powietrzu spowodowany przekroczeniem zakresu pomiarowego analizatora wydechu.
-2. Jeżeli badaniu krwi podlega osoba, o której mowa 6 ust. 1 5, przypadkach, o których mowa ust. 1 1, 3 4, krew do badania pobiera trzykrotnie, zachowaniem 30-minutowych odstępów pomiędzy pobraniami.
-9. Badanie krwi pobranej żyły badanej polega przeprowadzeniu co najmniej dwóch analiz laboratoryjnych krwi: metodą chromatografii gazowej detektorem płomieniowo-jonizacyjnym metodą spektrofotometryczną użyciem dehydrogenazy alkoholowej (metodą enzymatyczną), albo metodą chromatografii gazowej detektorem płomieniowo-jonizacyjnym przy użyciu dwóch różnych warunków analitycznych.
-2. Krew do badania pobiera do dwóch probówek, objętości co najmniej po 5 cm do każdej nich, zachowaniem następujących warunków:
-1) do pobrania krwi używa wyłącznie sprzętu jednorazowego użytku;
-2) do probówek, do których pobiera krew, wolno dodawać jakichkolwiek substancji, poza środkami zapobiegającymi krzepnięciu rozkładowi krwi umieszczonymi każdej probówce przez producenta;
-3) do dezynfekcji skóry używa środków odkażających niezawierających alkoholu.
-3. Probówki zawierające krew do badania oznacza sposób zapewniający ustalenie tożsamości osoby, od której została pobrana krew, poprzez podanie imienia nazwiska oraz numeru PESEL tej osoby, a jeżeli posiada numeru PESEL, serii numeru dokumentu potwierdzającego jej tożsamość, oraz zabezpiecza sposób uniemożliwiający zmianę ich zawartości zniszczenie czasie przechowywania transportu. Czynności te wykonuje obecności badanej, jeżeli jest to możliwe.
-4. W przypadku niemożności ustalenia tożsamości badanej stosuje oznaczenie „NN” opisuje znaki szczególne badanej.
-5. Do czasu rozpoczęcia badania krwi pobraną krew przechowuje temperaturze od 3°C do 6°C, zastrzeżeniem ust. 6.
-6. Krew pobrana do badania może być transportowana dłużej niż 72 godziny od momentu pobrania temperaturze od 0°C do 25°C.
-10. Z czynności pobrania krwi sporządza protokół, który zawiera:
-1) dane badanej:
-f) masę ciała podstawie oświadczenia badanej, jeżeli jego złożenie jest możliwe,
+3) stan osoby badanej, w szczególności wynikający ze spożycia alkoholu, choroby układu oddechowego lub innych przyczyn, uniemożliwia przeprowadzenie badania wydychanego powietrza;
+4) wystąpił brak wskazania stężenia alkoholu w wydychanym powietrzu spowodowany przekroczeniem zakresu pomiarowego analizatora wydechu.
+2. Jeżeli badaniu krwi podlega osoba, o której mowa w § 6 ust. 1 i 5, w przypadkach, o których mowa w ust. 1 pkt 1, 3 i 4, krew do badania pobiera się trzykrotnie, z zachowaniem 30-minutowych odstępów pomiędzy pobraniami.
+§ 9. 1. Badanie krwi pobranej z żyły osoby badanej polega na przeprowadzeniu co najmniej dwóch analiz laboratoryjnych krwi: metodą chromatografii gazowej z detektorem płomieniowo-jonizacyjnym i metodą spektrofotometryczną z użyciem dehydrogenazy alkoholowej (metodą enzymatyczną), albo metodą chromatografii gazowej z detektorem płomieniowo-jonizacyjnym przy użyciu dwóch różnych warunków analitycznych.
+2. Krew do badania pobiera się do dwóch probówek, w objętości co najmniej po 5 cm do każdej z nich, z zachowaniem następujących warunków:
+1) do pobrania krwi używa się wyłącznie sprzętu jednorazowego użytku;
+2) do probówek, do których pobiera się krew, nie wolno dodawać jakichkolwiek substancji, poza środkami zapobiegającymi krzepnięciu i rozkładowi krwi umieszczonymi w każdej probówce przez producenta;
+3) do dezynfekcji skóry używa się środków odkażających niezawierających alkoholu.
+3. Probówki zawierające krew do badania oznacza się w sposób zapewniający ustalenie tożsamości osoby, od której została pobrana krew, poprzez podanie imienia i nazwiska oraz numeru PESEL tej osoby, a jeżeli nie posiada numeru PESEL, serii i numeru dokumentu potwierdzającego jej tożsamość, oraz zabezpiecza się w sposób uniemożliwiający zmianę ich zawartości lub zniszczenie w czasie przechowywania lub transportu. Czynności te wykonuje się w obecności osoby badanej, jeżeli jest to możliwe.
+4. W przypadku niemożności ustalenia tożsamości osoby badanej stosuje się oznaczenie „NN” i opisuje znaki szczególne osoby badanej.
+5. Do czasu rozpoczęcia badania krwi pobraną krew przechowuje się w temperaturze od 3°C do 6°C, z zastrzeżeniem ust. 6.
+6. Krew pobrana do badania może być transportowana nie dłużej niż 72 godziny od momentu pobrania w temperaturze od 0°C do 25°C.
+§ 10. 1. Z czynności pobrania krwi sporządza się protokół, który zawiera:
+1) dane osoby badanej:
+a) imię i nazwisko,
+b) numer PESEL, a jeżeli nie posiada, serię i numer dokumentu potwierdzającego jej tożsamość,
+c) wiek,
+d) płeć,
+e) wzrost – na podstawie oświadczenia osoby badanej, jeżeli jego złożenie jest możliwe,
+f) masę ciała – na podstawie oświadczenia osoby badanej, jeżeli jego złożenie jest możliwe,
 g) podpis, jeżeli jego złożenie jest możliwe;
-2) imię, nazwisko podpis przeprowadzającej pobranie krwi;
-3) miejsce pobrania krwi od badanej;
-4) datę, godzinę minutę pobrania krwi od badanej;
+2) imię, nazwisko i podpis osoby przeprowadzającej pobranie krwi;
+3) miejsce pobrania krwi od osoby badanej;
+4) datę, godzinę i minutę pobrania krwi od osoby badanej;
 5) rodzaj środka odkażającego użytego do dezynfekcji skóry;
-6) ilość, rodzaj godzinę spożycia napojów alkoholowych przez osobę badaną ciągu ostatnich 24 godzin podstawie oświadczenia badanej, jeżeli jego złożenie jest możliwe;
-7) informację o chorobach, jakie choruje osoba badana podstawie oświadczenia badanej, jeżeli jego złożenie jest możliwe;
-8) informację o objawach okolicznościach uzasadniających przeprowadzenie badania oraz dokładnej dacie godziich stwierdzenia.
-2. Osobę badaną, jeżeli jest to możliwe, informuje o możliwości odmowy złożenia oświadczeń, o których mowa ust. 1 6 7.
-3. Z czynności badania krwi sporządza protokół, który zawiera:
-1) informacje, o których mowa ust. 1 1 lit. a 4;
-2) imię, nazwisko podpis osoby, która przeprowadziła badanie krwi pobranej od badanej;
-3) miejsce przeprowadzenia badania krwi pobranej od badanej;
-4) nazwę metody przeprowadzenia badania krwi pobranej od badanej;
-5) wynik badania krwi pobranej od badanej.
-11. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia zdrowia badanej, decyzję o pobraniu krwi odstąpieniu od jej pobrania podejmuje lekarz.
-2. Odstąpienie od pobrania krwi utrwala formie pisemnego protokołu, zawierającego:
+6) ilość, rodzaj i godzinę spożycia napojów alkoholowych przez osobę badaną w ciągu ostatnich 24 godzin – na podstawie oświadczenia osoby badanej, jeżeli jego złożenie jest możliwe;
+7) informację o chorobach, na jakie choruje osoba badana – na podstawie oświadczenia osoby badanej, jeżeli jego złożenie jest możliwe;
+8) informację o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dokładnej dacie i godzinie ich stwierdzenia.
+2. Osobę badaną, jeżeli jest to możliwe, informuje się o możliwości odmowy złożenia oświadczeń, o których mowa w ust. 1 pkt 6 i 7.
+3. Z czynności badania krwi sporządza się protokół, który zawiera:
+1) informacje, o których mowa w ust. 1 pkt 1 lit. a i pkt 4;
+2) imię, nazwisko i podpis osoby, która przeprowadziła badanie krwi pobranej od osoby badanej;
+3) miejsce przeprowadzenia badania krwi pobranej od osoby badanej;
+4) nazwę metody przeprowadzenia badania krwi pobranej od osoby badanej;
+5) wynik badania krwi pobranej od osoby badanej.
+§ 11. 1. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia lub zdrowia osoby badanej, decyzję o pobraniu krwi lub odstąpieniu od jej pobrania podejmuje lekarz.
+2. Odstąpienie od pobrania krwi utrwala się w formie pisemnego protokołu, zawierającego:
 1) dane osoby, wobec której odstąpiono od wykonania pobrania krwi:
-a) imię nazwisko,
-b) numer PESEL, a jeżeli posiada, serię numer dokumentu potwierdzającego jej tożsamość,
+a) imię i nazwisko,
+b) numer PESEL, a jeżeli nie posiada, serię i numer dokumentu potwierdzającego jej tożsamość,
 c) wiek,
 d) płeć,
 e) podpis, jeżeli jego złożenie jest możliwe;
-2) imię, nazwisko podpis osoby, która podjęła decyzję o odstąpieniu od wykonania pobrania krwi;
-3) opis okoliczności przyczyn odstąpienia od wykonania pobrania krwi;
+2) imię, nazwisko i podpis osoby, która podjęła decyzję o odstąpieniu od wykonania pobrania krwi;
+3) opis okoliczności i przyczyn odstąpienia od wykonania pobrania krwi;
 4) opis stanu klinicznego osoby, wobec której odstąpiono od wykonania pobrania krwi.
-12. Rozporządzenie wchodzi życie dniem 31 grudnia 2018 Minister Zdrowia: wz. J. Szczurek-Żelazko Minister Spraw Wewnętrznych Administracji: wz. K. Kozłowski
+§ 12. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2018 r.
+Minister Zdrowia: wz. J. Szczurek-Żelazko Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

@@ -8,7 +8,7 @@ pos: 1818
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o realizowaniu usług społecznych przez centrum usług społecznych
@@ -27,9 +27,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1818/text.pdf) |
 
+Art. 51–75. (pominięte)
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady przyjmowania przez gminę programów usług społecznych;
+- **2)** zasady tworzenia, zadania, organizację oraz zasady działania centrum usług społecznych, zwanego dalej „centrum”;
+- **3)** zasady realizowania programów usług społecznych przez centrum.
 
 **Art. 2.**
 
@@ -48,7 +54,7 @@ source: "isap-pdf"
 - **11)** pobudzania aktywności obywatelskiej,
 - **12)** mieszkalnictwa,
 - **13)** ochrony środowiska,
-- **14)** reintegracji zawodowej i społecznej świadczone w formie niematerialnej bezpośrednio na rzecz osób, rodzin, grup społecznych, grup mieszkańców o określonych potrzebach lub ogółu mieszkańców.
+- **14)** reintegracji zawodowej i społecznej – podejmowane przez gminę w celu zaspokajania potrzeb wspólnoty samorządowej, świadczone w formie niematerialnej bezpośrednio na rzecz osób, rodzin, grup społecznych, grup mieszkańców o określonych potrzebach lub ogółu mieszkańców.
 
 2. Usługami społecznymi są w szczególności działania podejmowane na podstawie:
 
@@ -67,7 +73,8 @@ source: "isap-pdf"
 - **1718)** ;
 - **13)** ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87 oraz z 2025 r. poz. 1173);
 - **14)** ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2026 r. poz. 95);
-- **15)** ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278); z 2025 r. poz. 798);
+- **15)** ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278);
+- **16)** ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2025 r. poz. 798);
 - **17)** ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2024 r. poz. 1512).
 
 3. Usługi społeczne są świadczone przez osoby posiadające odpowiednie kwalifikacje, jeżeli wymogi w tym zakresie wynikają z przepisów odrębnych.
@@ -104,6 +111,7 @@ source: "isap-pdf"
 - **2)** okres realizacji programu;
 - **3)** opis potrzeb uzasadniających realizację programu;
 - **4)** charakterystykę i przewidywaną liczbę osób objętych programem;
+- **5)** określenie usług społecznych oferowanych w programie;
 - **6)** warunki i tryb kwalifikowania osób zainteresowanych do korzystania z usług społecznych określonych w programie;
 - **7)** wysokość opłaty za usługi społeczne, osoby uprawnione do uzyskania ulg w opłacie za usługi społeczne i wysokość tych ulg, jeżeli program przewiduje opłatę lub ulgi w opłacie za usługi społeczne;
 - **8)** sposób dokumentowania spełniania warunków, o których mowa w pkt 6, oraz uprawnień do uzyskania ulg w opłacie, o których mowa w pkt 7;
@@ -129,7 +137,8 @@ source: "isap-pdf"
 2. Informacja, o której mowa w ust. 1, zawiera:
 
 - **1)** nazwę programu;
-- **2)** okres realizacji programu; skorzystały z usług społecznych określonych w programie, w podziale na poszczególne usługi;
+- **2)** okres realizacji programu;
+- **3)** przewidywaną liczbę osób objętych programem oraz liczbę osób, które skorzystały z usług społecznych określonych w programie, w podziale na poszczególne usługi;
 - **4)** opis stopnia realizacji programu;
 - **5)** wyniki monitorowania realizacji programu i ocenę programu w oparciu o mierniki efektywności realizacji programu;
 - **6)** koszty realizacji programu;
@@ -154,6 +163,8 @@ source: "isap-pdf"
 **Art. 8.**
 
 1. W celu zaspokajania potrzeb wspólnoty samorządowej w zakresie określonych usług społecznych oraz koordynacji tych usług gmina może utworzyć jednostkę organizacyjną – centrum.
+
+2. Centrum jest jednostką budżetową.
 
 3. Utworzenie i prowadzenie centrum należy do zadań własnych gminy o charakterze fakultatywnym.
 
@@ -182,6 +193,10 @@ source: "isap-pdf"
 
 **Art. 10.** Warunkiem utworzenia centrum, o którym mowa w art. 9:
 
+- **1)** ust. 1 pkt 1 – jest przekazanie do realizacji centrum wszystkich zadań, w tym usług społecznych, realizowanych dotychczas przez ośrodek pomocy społecznej oraz wybranych i nierealizowanych przez ośrodek pomocy społecznej do dnia utworzenia centrum usług społecznych z co najmniej dwóch zakresów, o których mowa w art. 2 ust. 1;
+- **2)** ust. 1 pkt 2 – jest zawarcie porozumienia, na podstawie którego gmina przekazuje do realizacji gminie, która ma utworzyć centrum, wybrane usługi społeczne z co najmniej trzech zakresów, o których mowa w art. 2 ust. 1;
+- **3)** ust. 3 pkt 2 – jest przekazanie przez miasto do realizacji centrum wybranych usług społecznych z co najmniej trzech zakresów, o których mowa w art. 2 ust. 1.
+
 **Art. 11.**
 
 1. Porozumienie, o którym mowa w art. 10 pkt 2, zawiera w szczególności:
@@ -203,7 +218,8 @@ source: "isap-pdf"
 
 - **1)** zaspokajanie potrzeb wspólnoty samorządowej w zakresie usług społecznych przekazanych do realizacji centrum, w tym określonych w programie usług społecznych;
 - **2)** prowadzenie rozeznania potrzeb i potencjału wspólnoty samorządowej w zakresie usług społecznych;
-- **3)** opracowywanie diagnozy potrzeb i potencjału wspólnoty samorządowej w zakresie usług społecznych; zainteresowanych do korzystania z usług społecznych określonych w programie usług społecznych oraz opracowywanie i monitorowanie realizacji indywidualnych planów usług społecznych;
+- **3)** opracowywanie diagnozy potrzeb i potencjału wspólnoty samorządowej w zakresie usług społecznych;
+- **4)** realizowanie programu usług społecznych, w tym kwalifikowanie osób zainteresowanych do korzystania z usług społecznych określonych w programie usług społecznych oraz opracowywanie i monitorowanie realizacji indywidualnych planów usług społecznych;
 - **5)** realizowanie innych niż usługi społeczne zadań przekazanych do realizacji centrum, w tym zadań z zakresu pomocy społecznej, w przypadku, o którym mowa w art. 9 ust. 2 pkt 1 oraz ust. 3 pkt 1;
 - **6)** podejmowanie działań na rzecz integracji i wspierania rozwoju wspólnoty samorządowej z wykorzystaniem potencjału tej wspólnoty, w tym organizowanie działań samopomocowych, wolontaryjnych i sąsiedzkich stanowiących uzupełnienie usług społecznych (działania wspierające);
 - **7)** opracowywanie standardów jakości usług społecznych określonych w programie usług społecznych, w przypadku braku określenia tych standardów w obowiązujących przepisach, oraz ich wdrażanie;
@@ -216,7 +232,8 @@ source: "isap-pdf"
 
 1. Przy wykonywaniu zadań centrum:
 
-- **1)** oferuje określone usługi społeczne wszystkim osobom uprawnionym (zasada powszechności); w szczególności potrzebę respektowania poczucia ich podmiotowości i bezpieczeństwa (zasada podmiotowości);
+- **1)** oferuje określone usługi społeczne wszystkim osobom uprawnionym (zasada powszechności);
+- **2)** ma na względzie dobro osób korzystających z usług społecznych, w szczególności potrzebę respektowania poczucia ich podmiotowości i bezpieczeństwa (zasada podmiotowości);
 - **3)** zachowuje standardy jakości usług społecznych (zasada jakości);
 - **4)** zmierza do zapewnienia usług społecznych jak najpełniej odpowiadających na potrzeby wspólnoty samorządowej, z uwzględnieniem różnych faz życia oraz sytuacji rodzin (zasada kompleksowości);
 - **5)** współpracuje z organami administracji publicznej, organizacjami pozarządowymi i podmiotami, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, podmiotami wykonującymi działalność leczniczą w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz osobami fizycznymi i prawnymi (zasada współpracy);
@@ -229,7 +246,9 @@ source: "isap-pdf"
 
 **Art. 16.** Centrum, o którym mowa w art. 9 ust. 1 pkt 2 oraz ust. 3 pkt 2, może realizować wyłącznie usługi społeczne i działania związane z realizacją tych usług oraz działania wspierające.
 
-**Art. 17.** Dyrektor centrum, o którym mowa w art. 9 ust. 2 pkt 1 oraz ust. 3 pkt 1, wykonuje uprawnienia i obowiązki kierownika ośrodka pomocy społecznej określone w ustawie z dnia 12 marca 2004 r. o pomocy społecznej oraz w innych przepisach określających zasady realizowania zadań przekazanych do realizacji centrum. centrum, sprawozdanie z działalności centrum za poprzedni rok kalendarzowy oraz przedstawia wnioski wynikające z rozeznania potrzeb i potencjału wspólnoty samorządowej w zakresie usług społecznych. W przypadku centrum, o którym mowa w art. 9 ust. 1 pkt 2, dokumenty, o których mowa w zdaniu pierwszym, przedstawia się w odniesieniu do każdej z gmin, która zawarła porozumienie, o którym mowa w art. 10 pkt 2, lub porozumienie, o którym mowa w art. 15.
+**Art. 17.** Dyrektor centrum, o którym mowa w art. 9 ust. 2 pkt 1 oraz ust. 3 pkt 1, wykonuje uprawnienia i obowiązki kierownika ośrodka pomocy społecznej określone w ustawie z dnia 12 marca 2004 r. o pomocy społecznej oraz w innych przepisach określających zasady realizowania zadań przekazanych do realizacji centrum.
+
+**Art. 18.** Dyrektor centrum przedstawia corocznie radzie gminy, która utworzyła centrum, sprawozdanie z działalności centrum za poprzedni rok kalendarzowy oraz przedstawia wnioski wynikające z rozeznania potrzeb i potencjału wspólnoty samorządowej w zakresie usług społecznych. W przypadku centrum, o którym mowa w art. 9 ust. 1 pkt 2, dokumenty, o których mowa w zdaniu pierwszym, przedstawia się w odniesieniu do każdej z gmin, która zawarła porozumienie, o którym mowa w art. 10 pkt 2, lub porozumienie, o którym mowa w art. 15.
 
 **Art. 19.**
 
@@ -257,7 +276,9 @@ source: "isap-pdf"
 
 1. Na podstawie wniosków wynikających z rozeznania potrzeb i potencjału wspólnoty samorządowej w zakresie usług społecznych centrum opracowuje diagnozę potrzeb i potencjału wspólnoty samorządowej w zakresie usług społecznych.
 
-2. Diagnoza, o której mowa w ust. 1, jest opracowywana na okres 5 lat i podlega aktualizacji w przypadku istotnej zmiany wniosków wynikających z rozeznania, o którym mowa w ust. 1. dotyczące:
+2. Diagnoza, o której mowa w ust. 1, jest opracowywana na okres 5 lat i podlega aktualizacji w przypadku istotnej zmiany wniosków wynikających z rozeznania, o którym mowa w ust. 1.
+
+3. Diagnoza, o której mowa w ust. 1, zawiera w szczególności informacje dotyczące:
 
 - **1)** potrzeb wspólnoty samorządowej w zakresie usług społecznych;
 - **2)** jednostek organizacyjnych gminy, organizacji pozarządowych i podmiotów, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz osób fizycznych i prawnych, wykonujących usługi z zakresu, o którym mowa w art. 2 ust. 1, na obszarze działania centrum wraz ze wskazaniem wykonywanych przez nie usług.
@@ -282,7 +303,9 @@ source: "isap-pdf"
 2. W skład zespołu, o którym mowa w ust. 1:
 
 - **1)** pkt 2 – wchodzą organizator usług społecznych oraz koordynatorzy indywidualnych planów usług społecznych w liczbie dostosowanej do potrzeb wynikających z uwarunkowań lokalnych;
-- **2)** pkt 3 – wchodzą organizator pomocy społecznej, specjaliści z zakresu pracy socjalnej, pracy z rodziną oraz inni specjaliści realizujący zadania z zakresu pomocy społecznej, w tym w zakresie integracji społecznej. komórka realizująca zadania z zakresu pracy socjalnej.
+- **2)** pkt 3 – wchodzą organizator pomocy społecznej, specjaliści z zakresu pracy socjalnej, pracy z rodziną oraz inni specjaliści realizujący zadania z zakresu pomocy społecznej, w tym w zakresie integracji społecznej.
+
+3. W ramach zespołu, o którym mowa w ust. 1 pkt 3, może zostać wyodrębniona komórka realizująca zadania z zakresu pracy socjalnej.
 
 4. W ramach zespołu, o którym mowa w ust. 1 pkt 3, centrum zatrudnia pracowników socjalnych zgodnie z zasadami określonymi w art. 110 ust. 11 i 12 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
 
@@ -315,7 +338,8 @@ source: "isap-pdf"
 - **1)** ma wykształcenie wyższe;
 - **2)** ma co najmniej 3-letnie doświadczenie na stanowisku kierowniczym w podmiotach wykonujących usługi z zakresu, o którym mowa w art. 2 ust. 1;
 - **3)** ukończyła specjalizację z zakresu organizacji pomocy społecznej lub uzyskała tytuł specjalisty w dziedzinie zdrowia publicznego, lub ukończyła studia podyplomowe w zakresie organizacji lub zarządzania w ochronie zdrowia;
-- **4)** ukończyła szkolenie z zakresu zarządzania i organizacji usług społecznych; publicznego lub umyślne przestępstwo skarbowe lub wobec której nie wydano prawomocnego wyroku warunkowo umarzającego postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego lub umyślnego przestępstwa skarbowego.
+- **4)** ukończyła szkolenie z zakresu zarządzania i organizacji usług społecznych;
+- **5)** nie była prawomocnie skazana za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub wobec której nie wydano prawomocnego wyroku warunkowo umarzającego postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego lub umyślnego przestępstwa skarbowego.
 
 **Art. 26.**
 
@@ -333,8 +357,9 @@ source: "isap-pdf"
 - **1)** ust. 2 pkt 1 oraz ust. 3 pkt 1 – organizatorowi pomocy społecznej;
 - **2)** ust. 1 pkt 2 oraz ust. 3 pkt 2 – pracownikowi centrum, który spełnia wymogi określone w art. 122 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
 
-4. Na wniosek dyrektora centrum upoważnienia, o którym mowa w: pracownikowi centrum;
+4. Na wniosek dyrektora centrum upoważnienia, o którym mowa w:
 
+- **1)** ust. 1 – wójt (burmistrz, prezydent miasta) może udzielić dodatkowo innemu pracownikowi centrum;
 - **2)** ust. 2:
     - **a)** pkt 1 – wójt (burmistrz, prezydent miasta) może udzielić dodatkowo innemu pracownikowi centrum zatrudnionemu w zespole do spraw realizacji zadań z zakresu pomocy społecznej,
     - **b)** pkt 2 – wójt (burmistrz, prezydent miasta) może udzielić dodatkowo innemu pracownikowi centrum.
@@ -355,9 +380,25 @@ source: "isap-pdf"
 
 **Art. 28.** Organizatorem usług społecznych może być osoba, która:
 
+- **1)** ma wykształcenie wyższe;
+- **2)** ma co najmniej 2-letnie doświadczenie na stanowisku kierowniczym w podmiotach wykonujących usługi z zakresu, o którym mowa w art. 2 ust. 1;
+- **3)** ukończyła szkolenie, o którym mowa w art. 25 ust. 2 pkt 4;
+- **4)** nie była prawomocnie skazana za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub wobec której nie wydano prawomocnego wyroku warunkowo umarzającego postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego lub umyślnego przestępstwa skarbowego.
+
 **Art. 29.** Do zadań koordynatora indywidualnych planów usług społecznych należy, w szczególności:
 
+- **1)** przeprowadzanie rozpoznania indywidualnych potrzeb osoby zainteresowanej skorzystaniem z usług społecznych określonych w programie usług społecznych, zwanego dalej „rozpoznaniem indywidualnych potrzeb”;
+- **2)** opracowywanie indywidualnych planów usług społecznych i ich aktualizacji;
+- **3)** monitorowanie realizacji indywidualnych planów usług społecznych;
+- **4)** koordynowanie usług społecznych udzielanych w ramach indywidualnych planów usług społecznych;
+- **5)** przeprowadzanie z osobami objętymi indywidualnymi planami usług społecznych rozmów podsumowujących realizację tych planów.
+
 **Art. 30.** Koordynatorem indywidualnych planów usług społecznych może być osoba, która:
+
+- **1)** spełnia wymogi przewidziane do wykonywania zawodu pracownika socjalnego;
+- **2)** ma co najmniej 2-letnie doświadczenie w świadczeniu pracy socjalnej;
+- **3)** odbyła szkolenie z zakresu opracowywania i realizacji indywidualnych planów usług społecznych;
+- **4)** nie była prawomocnie skazana za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub wobec której nie wydano prawomocnego wyroku warunkowo umarzającego postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego lub umyślnego przestępstwa skarbowego.
 
 **Art. 31.**
 
@@ -366,19 +407,33 @@ source: "isap-pdf"
 2. Organizatorem pomocy społecznej może być osoba, która:
 
 - **1)** spełnia wymogi, o których mowa w art. 122 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
-- **2)** nie była prawomocnie skazana za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub wobec której nie wydano prawomocnego wyroku warunkowo umarzającego postępowanie karne publicznego lub umyślnego przestępstwa skarbowego.
+- **2)** nie była prawomocnie skazana za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub wobec której nie wydano prawomocnego wyroku warunkowo umarzającego postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego lub umyślnego przestępstwa skarbowego.
 
 3. Organizator pomocy społecznej kieruje zespołem, o którym mowa w art. 23 ust. 1 pkt 3.
 
 **Art. 32.** Do zadań organizatora społeczności lokalnej należy w szczególności:
 
+- **1)** prowadzenie na bieżąco rozeznania:
+    - **a)** potrzeb wspólnoty samorządowej w zakresie działań wspierających,
+    - **b)** potencjału wspólnoty samorządowej w zakresie działań wspierających;
+
+- **2)** opracowywanie, w oparciu o wnioski wynikające z rozeznania potrzeb i potencjału wspólnoty samorządowej w zakresie działań wspierających, planu organizowania społeczności lokalnej i jego aktualizacji oraz realizacja tego planu;
+- **3)** podejmowanie działań w celu aktywizacji wspólnoty samorządowej, w szczególności organizowanie działań wspierających;
+- **4)** inicjowanie innych niż określone w pkt 3 działań zmierzających do wzmocnienia więzi społecznych i integracji wspólnoty samorządowej;
+- **5)** współpraca z podmiotami prowadzącymi na obszarze działania centrum animację lokalną lub inne formy pracy środowiskowej.
+
 **Art. 33.** Organizatorem społeczności lokalnej może być osoba, która:
+
+- **1)** ma wykształcenie wyższe;
+- **2)** ma co najmniej 2-letnie doświadczenie w zakresie prowadzenia animacji lokalnej lub innych form pracy środowiskowej, w tym pracy ze społecznością lokalną;
+- **3)** uzyskała II stopień specjalizacji w zawodzie pracownik socjalny w zakresie specjalności praca socjalna ze społecznością lokalną lub odbyła szkolenie z zakresu organizacji społeczności lokalnej;
+- **4)** nie była prawomocnie skazana za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub wobec której nie wydano prawomocnego wyroku warunkowo umarzającego postępowanie karne w sprawie popełnienia przestępstwa umyślnego ściganego z oskarżenia publicznego lub umyślnego przestępstwa skarbowego.
 
 **Art. 34.**
 
 1. Szkolenia, o których mowa w art. 25 ust. 2 pkt 4, art. 30 pkt 3 i art. 33 pkt 3, organizują regionalne ośrodki polityki społecznej.
 
-2. Rada Ministrów określi, w drodze rozporządzenia, minimum programowe i wymiar zajęć dydaktycznych realizowanych w ramach szkoleń, o których mowa dydaktycznej prowadzącej te szkolenia, kierując się koniecznością odpowiedniego przygotowania dyrektora centrum, organizatora usług społecznych, koordynatora indywidualnych planów usług społecznych oraz organizatora społeczności lokalnej do wykonywania zadań wynikających z ustawy.
+2. Rada Ministrów określi, w drodze rozporządzenia, minimum programowe i wymiar zajęć dydaktycznych realizowanych w ramach szkoleń, o których mowa w art. 25 ust. 2 pkt 4, art. 30 pkt 3 i art. 33 pkt 3, oraz wymagania dotyczące kadry dydaktycznej prowadzącej te szkolenia, kierując się koniecznością odpowiedniego przygotowania dyrektora centrum, organizatora usług społecznych, koordynatora indywidualnych planów usług społecznych oraz organizatora społeczności lokalnej do wykonywania zadań wynikających z ustawy.
 
 #### Rozdział 5 Zasady realizowania programów usług społecznych przez centrum
 
@@ -401,6 +456,7 @@ source: "isap-pdf"
 
 2. Rozpoznanie indywidualnych potrzeb obejmuje rozmowę z wnioskodawcą mającą na celu:
 
+- **1)** przedstawienie przez wnioskodawcę potrzeb w zakresie usług społecznych;
 - **2)** ustalenie rodzaju usług społecznych, z których korzysta osoba zainteresowana, oraz form i trybu korzystania z tych usług;
 - **3)** ocenę zasadności i możliwości udzielenia osobie zainteresowanej usług społecznych objętych wnioskiem oraz podjęcia działań wspierających osobę zainteresowaną, z uwzględnieniem wniosków wynikających z rozeznania potrzeb i potencjału wspólnoty samorządowej w zakresie usług społecznych;
 - **4)** poinformowanie o opłacie za usługi społeczne określone w programie usług społecznych, osobach uprawnionych do uzyskania ulg w opłacie za usługi społeczne i wysokości tych ulg.
@@ -421,7 +477,9 @@ source: "isap-pdf"
 1. Indywidualny plan usług społecznych zawiera w szczególności:
 
 - **1)** wskazanie usług społecznych, określonych w programie lub programach usług społecznych, odpowiadających na potrzeby osoby zainteresowanej;
-- **2)** sposób realizacji indywidualnego planu usług społecznych, w szczególności wskazanie harmonogramu realizacji usług społecznych, podmiotów wykonujących te usługi oraz miejsca ich wykonywania. wspierających osobę zainteresowaną.
+- **2)** sposób realizacji indywidualnego planu usług społecznych, w szczególności wskazanie harmonogramu realizacji usług społecznych, podmiotów wykonujących te usługi oraz miejsca ich wykonywania.
+
+2. Indywidualny plan usług społecznych może zawierać określenie działań wspierających osobę zainteresowaną.
 
 **Art. 40.** Indywidualny plan usług społecznych opracowuje się w terminie niedłuższym niż 30 dni od dnia wystąpienia z wnioskiem, o którym mowa w art. 35, na okres niezbędny do realizacji usług społecznych wynikających z rozpoznania indywidualnych potrzeb, niedłużej jednak niż na rok.
 
@@ -449,7 +507,7 @@ source: "isap-pdf"
 
 **Art. 44.**
 
-1. Rezygnacja z korzystania z usług społecznych określonych w programie usług społecznych wymaga poinformowania dyrektora centrum. Jeżeli program usług społecznych przewiduje opłatę za określone w nim usługi społeczne, prawo korzystać do dnia złożenia rezygnacji.
+1. Rezygnacja z korzystania z usług społecznych określonych w programie usług społecznych wymaga poinformowania dyrektora centrum. Jeżeli program usług społecznych przewiduje opłatę za określone w nim usługi społeczne, rezygnacja nie zwalnia z ponoszenia opłaty za usługi społeczne, z których osoba miała prawo korzystać do dnia złożenia rezygnacji.
 
 2. W uzasadnionych przypadkach dyrektor centrum może zwolnić w całości albo w części osobę, o której mowa w ust. 1, z ponoszenia opłaty za usługi społeczne, z których miała ona prawo korzystać do dnia złożenia rezygnacji.
 
@@ -473,6 +531,10 @@ source: "isap-pdf"
 
 **Art. 49.** Czynności polegające na:
 
+- **1)** kwalifikowaniu,
+- **2)** prowadzeniu rozpoznania indywidualnych potrzeb,
+- **3)** opracowywaniu indywidualnych planów usług społecznych – może wykonywać wyłącznie centrum i nie mogą one zostać powierzone innemu podmiotowi.
+
 **Art. 50.**
 
 1. Centrum przetwarza określone w programie usług społecznych dane osobowe, w tym dane osobowe, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych):
@@ -487,17 +549,35 @@ source: "isap-pdf"
 
 3. Dane osobowe, o których mowa w ust. 1, zabezpiecza się w sposób odpowiedni do zagrożeń i ryzyka wystąpienia sytuacji, o których mowa w ust. 2, w szczególności biorąc pod uwagę, czy dane osobowe przetwarzane są w sposób zautomatyzowany czy w sposób inny niż zautomatyzowany, oraz uwzględniając zapewnienie kontroli nad tym, jakie dane osobowe, kiedy i przez kogo były przetwarzane.
 
-4. Osoby przetwarzające dane osobowe, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności. Zmiany w przepisach Art. 51–75. (pominięte)
+4. Osoby przetwarzające dane osobowe, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności.
+
+#### Rozdział 6 Zmiany w przepisach
 
 #### Rozdział 7 Przepisy przejściowe i przepis końcowy
 
 **Art. 76.** W okresie roku od utworzenia centrum usług społecznych do opracowywania:
 
+- **1)** programu usług społecznych przyjmowanego w gminie, która utworzyła centrum usług społecznych, lub gminie będącej stroną porozumienia, o którym mowa w art. 10 pkt 2, nie stosuje się wymogu, o którym mowa w art. 5 ust. 2;
+- **2)** planu organizowania społeczności lokalnej, o którym mowa w art. 20 ust. 1, nie stosuje się wymogu, o którym mowa w art. 20 ust. 2.
+
 **Art. 77.** W okresie roku od zawarcia porozumienia, o którym mowa w art. 15, do opracowywania:
+
+- **1)** programu usług społecznych przyjmowanego w gminie innej niż będąca stroną porozumienia, o którym mowa w art. 10 pkt 2, nie stosuje się wymogu, o którym mowa w art. 5 ust. 2;
+- **2)** planu organizowania społeczności lokalnej, o którym mowa w art. 20 ust. 1, w zakresie odnoszącym się do gminy innej niż będąca stroną porozumienia, o którym mowa w art. 10 pkt 2, nie stosuje się wymogu, o którym mowa w art. 20 ust. 2.
 
 **Art. 78.** W okresie dwóch lat od dnia wejścia w życie ustawy:
 
+- **1)** dyrektorem centrum usług społecznych może być osoba, która nie spełnia wymogu, o którym mowa w art. 25 ust. 2 pkt 4;
+- **2)** organizatorem usług społecznych może być osoba, która nie spełnia wymogu, o którym mowa w art. 28 pkt 3;
+- **3)** koordynatorem indywidualnych planów usług społecznych może być osoba, która nie spełnia wymogu, o którym mowa w art. 30 pkt 3;
+- **4)** organizatorem społeczności lokalnej może być osoba, która nie spełnia wymogu, o którym mowa w art. 33 pkt 3.
+
+**Art. 79.** Rada Ministrów raz na 3 lata przedkłada Sejmowi i Senatowi informację o realizacji ustawy.
+
 **Art. 80.** Ilekroć w przepisach odrębnych jest mowa o:
+
+- **1)** ośrodku pomocy społecznej, należy przez to rozumieć centrum usług społecznych,
+- **2)** kierowniku ośrodka pomocy społecznej, należy przez to rozumieć dyrektora centrum usług społecznych – jeżeli centrum usług społecznych powstało w wyniku przekształcenia ośrodka pomocy społecznej.
 
 **Art. 81.** Ustawa wchodzi w życie z dniem 1 stycznia 2020 r.
 

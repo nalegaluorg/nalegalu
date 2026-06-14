@@ -8,7 +8,7 @@ pos: 534
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Sieci Badawczej Łukasiewicz
@@ -48,6 +48,7 @@ Art. 70–97. (pominięte)
 - **3)** wspieranie polityki gospodarczej państwa, w szczególności przez dokonywanie:
     - **a)** prognoz trendów i skutków zmian technologicznych, które mogą mieć silny wpływ na społeczeństwo i jego rozwój,
     - **b)** analiz aktualnego stanu techniki oraz opracowywanie technologicznych map drogowych na potrzeby polityk publicznych,
+    - **c)** pobudzania inwestowania przez przedsiębiorców w działalność naukową,
 
 - **4)** prowadzenie działalności mającej na celu kształtowanie świadomości społecznej na temat zaawansowanych technologii – przez Centrum Łukasiewicz i instytuty Sieci.
 
@@ -69,7 +70,9 @@ Art. 70–97. (pominięte)
 - **2)** inicjowanie i realizacja programów, innych niż programy strategiczne, obejmujących finansowanie lub współfinansowanie badań naukowych lub prac rozwojowych oraz działań przygotowujących do wdrożenia wyniki badań naukowych lub prac rozwojowych;
 - **3)** inicjowanie i realizacja programów, innych niż programy strategiczne, obejmujących finansowanie lub współfinansowanie komercjalizacji wyników badań naukowych lub prac rozwojowych oraz innych form ich transferu do gospodarki przez przedsiębiorców oraz inne podmioty posiadające zdolność do komercjalizacji w praktyce.
 
-3. Siedzibą Centrum Łukasiewicz jest miasto stołeczne Warszawa. orła ustalonym dla godła Rzeczypospolitej Polskiej i nazwą Centrum Łukasiewicz w otoku.
+3. Siedzibą Centrum Łukasiewicz jest miasto stołeczne Warszawa.
+
+4. Centrum Łukasiewicz ma prawo używania okrągłej pieczęci z wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej i nazwą Centrum Łukasiewicz w otoku.
 
 **Art. 3.**
 
@@ -92,6 +95,18 @@ Art. 70–97. (pominięte)
 7. Instytut Sieci nie odpowiada za zobowiązania Skarbu Państwa ani innych osób prawnych. Skarb Państwa nie odpowiada za zobowiązania instytutu Sieci.
 
 **Art. 4.** Poza działalnością podstawową, o której mowa w art. 2 ust. 2 i art. 3 ust. 2, Centrum Łukasiewicz i instytuty Sieci mogą:
+
+- **1)** realizować projekty badawcze w zakresie badań naukowych i prac rozwojowych innych niż określone w art. 1 ust. 2 pkt 1;
+- **2)** produkować unikatową aparaturę badawczą i unikatowe materiały;
+- **3)** prowadzić działalność:
+    - **a)** metrologiczną, normalizacyjną i certyfikacyjną,
+    - **b)** w zakresie standaryzacji procesów wspierających rozwój innowacyjności,
+    - **c)** w zakresie popularyzacji nauki i wiedzy o nowych technologiach;
+
+- **4)** dokonywać oceny zgodności;
+- **5)** opracowywać prototypy nowych rozwiązań technologicznych na podstawie projektów badawczych realizowanych przez podmioty systemu szkolnictwa wyższego i nauki, o których mowa w art. 7 ust. 1 pkt 1, 2, 4–6 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **6)** prowadzić kursy i szkolenia kadr dla gospodarki;
+- **7)** prowadzić inną działalność związaną z charakterem Centrum Łukasiewicz albo instytutu Sieci.
 
 **Art. 5.**
 
@@ -133,11 +148,15 @@ Art. 70–97. (pominięte)
 
 3. Sieć działa zgodnie z:
 
+- **1)** rocznymi planami działalności;
 - **2)** 4-letnimi i 10-letnimi strategiami działalności.
 
 #### Rozdział 2 Organy Centrum Łukasiewicz
 
 **Art. 10.** Organami Centrum Łukasiewicz są:
+
+- **1)** Prezes;
+- **2)** Rada Centrum Łukasiewicz, zwana dalej „Radą”.
 
 **Art. 11.**
 
@@ -165,6 +184,10 @@ Art. 70–97. (pominięte)
 4. Odmowa zawarcia umowy o zarządzanie Siecią przez kandydata na Prezesa lub Wiceprezesa skutkuje odmową jego powołania przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
 
 5. Z dniem rozwiązania umowy o zarządzanie Siecią minister właściwy do spraw szkolnictwa wyższego i nauki odwołuje Prezesa lub Wiceprezesa.
+
+**Art. 13.**
+
+1. Prezesem może być osoba, która:
 
 - **1)** korzysta z pełni praw publicznych;
 - **2)** posiada co najmniej stopień naukowy doktora;
@@ -194,6 +217,7 @@ Art. 70–97. (pominięte)
 
 2. Prezes:
 
+- **1)** opracowuje projekty 4-letnich i 10-letnich strategii działalności Sieci;
 - **2)** sporządza projekt rocznego:
     - **a)** planu działalności Sieci w oparciu o kierunki działalności Sieci na dany rok określone przez Radę zgodnie z art. 19 ust. 1 pkt 1,
     - **b)** planu działalności Centrum Łukasiewicz,
@@ -217,7 +241,8 @@ Art. 70–97. (pominięte)
 
 - **2)** ministrowi właściwemu do spraw szkolnictwa wyższego i nauki – roczne sprawozdanie finansowe Centrum Łukasiewicz wraz:
     - **a)** ze sprawozdaniem z badania w rozumieniu art. 2 pkt 31 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891),
-    - **b)** z opinią Rady – w terminie do dnia 31 marca każdego roku.
+    - **b)** z opinią Rady
+    - **c)** (uchylona) – w terminie do dnia 31 marca każdego roku.
 
 3a. Do rocznego sprawozdania finansowego Centrum Łukasiewicz przedkładanego ministrowi właściwemu do spraw szkolnictwa wyższego i nauki Prezes dołącza, w terminie do dnia 31 maja każdego roku, roczne sprawozdanie z działalności Centrum Łukasiewicz za rok poprzedni zatwierdzone przez Radę.
 
@@ -243,7 +268,8 @@ Art. 70–97. (pominięte)
 
 4. W przypadku odwołania albo śmierci Prezesa albo Wiceprezesa minister właściwy do spraw szkolnictwa wyższego i nauki wyznacza do pełnienia obowiązków:
 
-- **1)** Prezesa – jednego z Wiceprezesów albo inną osobę spełniającą warunki, o których mowa w art. 13 ust. 1, o których mowa w art. 13 ust. 2 albo 3 – na okres niedłuższy niż 6 miesięcy.
+- **1)** Prezesa – jednego z Wiceprezesów albo inną osobę spełniającą warunki, o których mowa w art. 13 ust. 1,
+- **2)** Wiceprezesa – innego Wiceprezesa albo inną osobę spełniającą warunki, o których mowa w art. 13 ust. 2 albo 3 – na okres niedłuższy niż 6 miesięcy.
 
 5. Z osobą wyznaczoną do pełnienia obowiązków Prezesa albo Wiceprezesa nie zawiera się umowy o zarządzanie Siecią.
 
@@ -267,12 +293,23 @@ Art. 70–97. (pominięte)
 
 5. Członkom Kolegium Doradców, o których mowa w ust. 2 pkt 1 i 2, przysługuje wynagrodzenie za udział w posiedzeniach Kolegium Doradców w wysokości nieprzekraczającej 50 % minimalnego miesięcznego wynagrodzenia zasadniczego profesora w uczelni publicznej, określonego w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, a w przypadku członków zamiejscowych – także zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-6. W przypadku odwołania albo śmierci członka Kolegium Doradców minister właściwy do spraw gospodarki niezwłocznie powołuje na jego miejsce inną osobę, z zachowaniem zasad, o których mowa w ust. 2 i 3. z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia:
+6. W przypadku odwołania albo śmierci członka Kolegium Doradców minister właściwy do spraw gospodarki niezwłocznie powołuje na jego miejsce inną osobę, z zachowaniem zasad, o których mowa w ust. 2 i 3.
+
+7. Minister właściwy do spraw szkolnictwa wyższego i nauki, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia:
 
 - **1)** tryb pracy Kolegium Doradców,
 - **2)** wysokość wynagrodzenia członków Kolegium Doradców – mając na uwadze zakres jego zadań i ich znaczenie dla efektywnej realizacji celów Sieci.
 
 **Art. 17.** Do zadań Kolegium Doradców należy:
+
+- **1)** przedstawianie propozycji obszarów priorytetowych działalności Sieci na dany rok;
+- **2)** wyrażanie, na wniosek Prezesa albo z własnej inicjatywy, opinii:
+    - **a)** na temat współpracy Centrum Łukasiewicz i instytutów Sieci ze środowiskiem społeczno-gospodarczym, w szczególności z przedsiębiorcami,
+    - **b)** na temat współpracy Centrum Łukasiewicz i instytutów Sieci ze środowiskiem naukowym, w szczególności z uczelniami,
+    - **c)** w innych sprawach istotnych dla funkcjonowania Sieci;
+
+- **3)** przygotowywanie stanowisk na potrzeby realizacji celu Sieci, o którym mowa w art. 1 ust. 2 pkt 3;
+- **4)** opiniowanie projektów regulaminów, o których mowa w art. 31 ust. 1.
 
 **Art. 18.**
 
@@ -288,7 +325,9 @@ Art. 70–97. (pominięte)
 
 2. Przewodniczącego Rady w randze sekretarza albo podsekretarza stanu powołuje i odwołuje minister właściwy do spraw gospodarki.
 
-3. Członków Rady w randze sekretarzy albo podsekretarzy stanu powołuje i odwołuje minister właściwy do spraw gospodarki. Członków Rady, o których mowa w ust. 1 pkt 2 lit. a oraz c–e, minister właściwy do spraw gospodarki powołuje i odwołuje na wniosek właściwych ministrów. spraw gospodarki niezwłocznie powołuje na jego miejsce inną osobę. Przepis ust. 3 zdanie drugie stosuje się.
+3. Członków Rady w randze sekretarzy albo podsekretarzy stanu powołuje i odwołuje minister właściwy do spraw gospodarki. Członków Rady, o których mowa w ust. 1 pkt 2 lit. a oraz c–e, minister właściwy do spraw gospodarki powołuje i odwołuje na wniosek właściwych ministrów.
+
+4. W przypadku odwołania albo śmierci członka Rady minister właściwy do spraw gospodarki niezwłocznie powołuje na jego miejsce inną osobę. Przepis ust. 3 zdanie drugie stosuje się.
 
 **Art. 19.**
 
@@ -315,12 +354,17 @@ Art. 70–97. (pominięte)
 
 **Art. 20.** Organami instytutu Sieci są:
 
+- **1)** dyrektor;
+- **2)** rada instytutu Sieci.
+
 **Art. 21.**
 
 1. Prezes powołuje na okres 5 lat:
 
 - **1)** dyrektora – po zasięgnięciu opinii rady instytutu Sieci;
-- **2)** zastępców dyrektora, w liczbie niewiększej niż 3, w tym zastępcę dyrektora do spraw badawczych – na wniosek dyrektora. podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+- **2)** zastępców dyrektora, w liczbie niewiększej niż 3, w tym zastępcę dyrektora do spraw badawczych – na wniosek dyrektora.
+
+2. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 3. Ta sama osoba może pełnić funkcję dyrektora lub zastępcy dyrektora niedłużej niż przez 2 następujące po sobie okresy, o których mowa w ust. 1.
 
@@ -349,7 +393,7 @@ Art. 70–97. (pominięte)
 - **3)** posiada co najmniej 3-letnie doświadczenie w zarządzaniu zespołami pracowniczymi;
 - **4)** nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** nie została ukarana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych;
-- **6)** w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. nie pracowała w organach bezpieczeństwa państwa w rozumieniu art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów pełniła w nich służby ani nie współpracowała z tymi organami.
+- **6)** w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. nie pracowała w organach bezpieczeństwa państwa w rozumieniu art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, nie pełniła w nich służby ani nie współpracowała z tymi organami.
 
 2. Zastępcą dyrektora niebędącym zastępcą, o którym mowa w ust. 1, może być osoba, która:
 
@@ -382,7 +426,7 @@ Art. 70–97. (pominięte)
 - **3)** ustalanie regulaminu organizacyjnego instytutu Sieci, po zasięgnięciu opinii rady instytutu Sieci;
 - **4)** realizacja polityki kadrowej w instytucie Sieci;
 - **5)** zarządzanie mieniem instytutu Sieci w celu jego wykorzystania do realizacji zadań statutowych instytutu Sieci, z uwzględnieniem art. 33 ust. 1 pkt 2;
-- **6)** występowanie do ministra właściwego, o którym mowa w art. 2 pkt 14 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, z wnioskami mowa w art. 4 pkt 6, do Zintegrowanego Systemu Kwalifikacji.
+- **6)** występowanie do ministra właściwego, o którym mowa w art. 2 pkt 14 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, z wnioskami o włączenie kwalifikacji nadawanych po ukończeniu kursów i szkoleń, o których mowa w art. 4 pkt 6, do Zintegrowanego Systemu Kwalifikacji.
 
 3. Dyrektor przedkłada Prezesowi:
 
@@ -404,6 +448,9 @@ Art. 70–97. (pominięte)
 - **3)** utraty zdolności do pełnienia obowiązków na skutek długotrwałej choroby trwającej co najmniej 6 miesięcy;
 - **4)** działania niezgodnego z prawem, zasadami gospodarności lub celowości;
 - **5)** niezatwierdzenia rocznego sprawozdania finansowego instytutu Sieci albo jego nieprzedłożenia do zatwierdzenia w terminie, o którym mowa w art. 24 ust. 3 pkt 2 lit. c.
+
+2. Prezes odwołuje zastępcę dyrektora do spraw badawczych w przypadku:
+
 - **1)** zaprzestania spełniania wymagań, o których mowa w art. 23 ust. 1 pkt 1, 2, 4 lub 5;
 - **2)** o którym mowa w ust. 1 pkt 2–4.
 
@@ -423,11 +470,21 @@ Art. 70–97. (pominięte)
 
 **Art. 26.** Do zadań rady instytutu Sieci należy:
 
+- **1)** określanie perspektywicznych kierunków działalności badawczej i wdrożeniowej instytutu Sieci;
+- **2)** uchwalanie statutu instytutu Sieci;
+- **3)** opiniowanie:
+    - **a)** regulaminu organizacyjnego instytutu Sieci,
+    - **b)** rocznych planów działalności instytutu Sieci,
+    - **c)** rocznych sprawozdań z działalności instytutu Sieci,
+    - **d)** projektu podziału zysku netto instytutu Sieci;
+
+- **4)** wyrażanie opinii w sprawach dotyczących działalności instytutu Sieci przedstawionych przez dyrektora albo organy Centrum Łukasiewicz.
+
 **Art. 27.**
 
 1. W skład rady instytutu Sieci wchodzi niemniej niż 9 i niewięcej niż 15 członków.
 
-2. Niewięcej niż 40 % składu rady instytutu Sieci stanowią jego pracownicy. Pozostali członkowie rady instytutu Sieci są powoływani przez Prezesa, na wniosek się wiedzą i praktycznym dorobkiem w sferze gospodarczej objętej działalnością instytutu Sieci.
+2. Niewięcej niż 40 % składu rady instytutu Sieci stanowią jego pracownicy. Pozostali członkowie rady instytutu Sieci są powoływani przez Prezesa, na wniosek dyrektora, spośród osób niebędących pracownikami instytutu Sieci, wyróżniających się wiedzą i praktycznym dorobkiem w sferze gospodarczej objętej działalnością instytutu Sieci.
 
 3. Liczbę członków rady instytutu Sieci oraz tryb wyboru do rady instytutu Sieci jego pracowników określa jego statut.
 
@@ -453,7 +510,14 @@ Art. 70–97. (pominięte)
 
 **Art. 28.** Centrum Łukasiewicz i instytuty Sieci mogą prowadzić działalność gospodarczą pod warunkiem, że:
 
+- **1)** nie jest ona finansowana ze środków pochodzących z budżetu państwa;
+- **2)** dochód osiągany z jej prowadzenia jest przeznaczany wyłącznie na działalność podstawową Centrum Łukasiewicz albo instytutu Sieci, o której mowa odpowiednio w art. 2 ust. 2 albo art. 3 ust. 2.
+
 **Art. 29.** Centrum Łukasiewicz i instytuty Sieci wyodrębniają pod względem finansowym i rachunkowym prowadzoną działalność:
+
+- **1)** o której mowa w art. 2 ust. 2 pkt 1 i 3–5 albo art. 3 ust. 2;
+- **2)** o której mowa w art. 4, niestanowiącą działalności gospodarczej;
+- **3)** gospodarczą.
 
 **Art. 30.**
 
@@ -468,12 +532,14 @@ Art. 70–97. (pominięte)
 
 1. Prezes ustala wspólne dla Centrum Łukasiewicz i instytutów Sieci regulaminy:
 
-- **1)** zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej wraz z zasadami komercjalizacji w ramach Sieci, który określa w szczególności: który określa w szczególności:
+- **1)** zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej wraz z zasadami komercjalizacji w ramach Sieci, który określa w szczególności:
     - **a)** zasady i procedury komercjalizacji,
     - **b)** prawa i obowiązki Centrum Łukasiewicz i jego pracowników oraz instytutów Sieci i ich pracowników w zakresie ochrony i korzystania z praw autorskich i praw pokrewnych oraz praw własności przemysłowej,
     - **c)** zasady wynagradzania twórców,
     - **d)** zasady podziału środków finansowych uzyskanych z komercjalizacji między twórcę będącego pracownikiem Centrum Łukasiewicz albo instytutu Sieci a Centrum Łukasiewicz albo instytut Sieci,
     - **e)** zasady korzystania z majątku Centrum Łukasiewicz i instytutów Sieci do celów komercjalizacji oraz świadczenia usług badawczych;
+
+- **2)** korzystania z infrastruktury badawczej Centrum Łukasiewicz i instytutów Sieci, który określa w szczególności:
     - **a)** prawa i obowiązki Centrum Łukasiewicz i jego pracowników oraz instytutów Sieci i ich pracowników w zakresie wykorzystywania tej infrastruktury do realizacji projektów badawczych,
     - **b)** zasady wykorzystywania tej infrastruktury do realizacji projektów badawczych przez osoby niebędące pracownikami Centrum Łukasiewicz ani instytutów Sieci oraz podmioty niedziałające w ramach Sieci.
 
@@ -493,7 +559,9 @@ Art. 70–97. (pominięte)
     - **a)** Prezesa – jeżeli wartość rynkowa przedmiotu czynności prawnej przekracza kwotę 250 000 zł, ale nie przekracza kwoty 5 000 000 zł,
     - **b)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej – jeżeli wartość rynkowa przedmiotu czynności prawnej przekracza kwotę 5 000 000 zł.
 
-2. W przypadkach, o których mowa w ust. 1 pkt 1 i pkt 2 lit. b, do wniosku o wyrażenie zgody dołącza się opinię ministra właściwego do spraw szkolnictwa wyższego i nauki. korzystania innym podmiotom na podstawie umów stosuje się przepis art. 38 ust. 3 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940).
+2. W przypadkach, o których mowa w ust. 1 pkt 1 i pkt 2 lit. b, do wniosku o wyrażenie zgody dołącza się opinię ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+3. Do określenia wartości rynkowej składników aktywów trwałych oddanych do korzystania innym podmiotom na podstawie umów stosuje się przepis art. 38 ust. 3 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940).
 
 4. Uzyskania zgody, o której mowa w ust. 1, nie wymagają czynności prawne, o których mowa w art. 38 ust. 5 pkt 1–3 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
@@ -510,6 +578,13 @@ Art. 70–97. (pominięte)
 #### Rozdział 4a Finansowanie inwestowania przez przedsiębiorców w działalność naukową
 
 **Art. 34a.** Centrum Łukasiewicz:
+
+- **1)** określa sposób realizacji programów strategicznych oraz nimi zarządza;
+- **2)** określa zakresy tematyczne programów, o których mowa w art. 2 ust. 2a pkt 2 i 3, sposób ich realizacji oraz nimi zarządza;
+- **3)** ogłasza konkursy na wykonanie projektów w ramach programów strategicznych oraz programów, o których mowa w art. 2 ust. 2a pkt 2 i 3, zwanych dalej „projektami”;
+- **4)** przeprowadza ocenę i wybór wniosków dotyczących wykonania projektów, zwanych dalej „wnioskami”;
+- **5)** zawiera umowy o wykonanie projektów i ich finansowanie;
+- **6)** prowadzi nadzór nad wykonaniem projektów, ich odbiór, ocenę i rozliczenie finansowe.
 
 **Art. 34b.**
 
@@ -533,7 +608,9 @@ Art. 70–97. (pominięte)
 - **7)** jednostki organizacyjne posiadające osobowość prawną i siedzibę na terytorium Rzeczypospolitej Polskiej;
 - **8)** Prezes Głównego Urzędu Miar;
 - **9)** osoby fizyczne;
-- **10)** przedsiębiorcy prowadzący badania naukowe w innej formie organizacyjnej niż określone w pkt 1–7. promesę finansowania. Warunkiem przyznania środków finansowych na wykonanie projektu jest zatrudnienie tej osoby przez podmiot, o którym mowa w ust. 1 pkt 1, albo grupę podmiotów, o której mowa w ust. 1 pkt 2.
+- **10)** przedsiębiorcy prowadzący badania naukowe w innej formie organizacyjnej niż określone w pkt 1–7.
+
+2. W przypadku projektu zgłoszonego przez osobę fizyczną Prezes wydaje promesę finansowania. Warunkiem przyznania środków finansowych na wykonanie projektu jest zatrudnienie tej osoby przez podmiot, o którym mowa w ust. 1 pkt 1, albo grupę podmiotów, o której mowa w ust. 1 pkt 2.
 
 3. Przepisu ust. 2 nie stosuje się do osób fizycznych, których projekty zakwalifikowano do finansowania w ramach programów związanych ze wsparciem komercjalizacji wyników badań naukowych i prac rozwojowych lub ochrony patentowej.
 
@@ -552,7 +629,9 @@ Art. 70–97. (pominięte)
 - **1)** związku małżeńskim, stosunku pokrewieństwa lub powinowactwa do drugiego stopnia włącznie;
 - **2)** takim stosunku prawnym, że wynik sprawy może mieć wpływ na jego prawa lub obowiązki;
 - **3)** stosunku osobistym tego rodzaju, że mógłby wywołać wątpliwości co do bezstronności eksperta lub członka zespołu ekspertów;
-- **4)** stosunku służbowym lub innej formie współpracy w okresie 3 lat poprzedzających złożenie wniosku, dokonanie oceny lub sporządzenie opinii, o których mowa w ust. 2. został wyłączony z postępowania w sprawie danego wniosku zgodnie z ust. 4. Przepis stosuje się również do ocen i opinii sporządzonych przez zespół ekspertów, w skład którego wchodziła osoba wyłączona z postępowania w sprawie danego wniosku zgodnie z ust. 4.
+- **4)** stosunku służbowym lub innej formie współpracy w okresie 3 lat poprzedzających złożenie wniosku, dokonanie oceny lub sporządzenie opinii, o których mowa w ust. 2.
+
+5. Prezes nie uwzględnia oceny lub opinii sporządzonej przez eksperta, który został wyłączony z postępowania w sprawie danego wniosku zgodnie z ust. 4. Przepis stosuje się również do ocen i opinii sporządzonych przez zespół ekspertów, w skład którego wchodziła osoba wyłączona z postępowania w sprawie danego wniosku zgodnie z ust. 4.
 
 6. Prezes może zlecić przeprowadzenie zewnętrznego audytu w zakresie prawidłowości i rzetelności wykonywania zadań przez ekspertów.
 
@@ -579,7 +658,9 @@ Art. 70–97. (pominięte)
 
 1. Rozstrzygnięcia w sprawie przyznania środków finansowych na wykonanie projektów są podejmowane przez Prezesa w drodze decyzji, na podstawie listy rankingowej pozytywnie zaopiniowanych wniosków.
 
-2. W przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych wnioskodawca może złożyć wniosek o ponowne rozpatrzenie sprawy, w terminie 14 dni od dnia doręczenia mu decyzji Prezesa. dnia jego złożenia.
+2. W przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych wnioskodawca może złożyć wniosek o ponowne rozpatrzenie sprawy, w terminie 14 dni od dnia doręczenia mu decyzji Prezesa.
+
+3. Prezes rozstrzyga w sprawie wniosku niepóźniej niż w terminie 3 miesięcy od dnia jego złożenia.
 
 4. Jeżeli przepisy ustawy albo przepisy odrębne nie stanowią inaczej, do postępowań w sprawach przyznania środków finansowych na wykonanie projektów stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), z wyłączeniem art. 10, art. 13, art. 14, art. 28, art. 31, art. 56, art. 61 § 4, art. 63, art. 64, art. 75–103, art. 107, art. 114–122 oraz art. 123.
 
@@ -608,7 +689,35 @@ Art. 70–97. (pominięte)
 
 **Art. 34h.** Nadzór nad wykonaniem projektu obejmuje:
 
+- **1)** ocenę raportów okresowych z wykonania projektu;
+- **2)** kontrolę w siedzibie wykonawcy projektu przez wyznaczony przez Prezesa zespół kontrolujący;
+- **3)** uprawnienia Prezesa do wstrzymania finansowania projektu w przypadku wydatkowania przez wykonawcę projektu środków finansowych niezgodnie z umową lub nieosiągnięcia wyników zaplanowanych na danym etapie realizacji projektu do czasu wyjaśnienia nieprawidłowości;
+- **4)** uprawnienia Prezesa do przerwania finansowania projektu w przypadku wydatkowania przez wykonawcę projektu środków finansowych niezgodnie z umową lub nieterminowego albo nienależytego wykonywania umowy;
+- **5)** inne działania nadzorcze określone w umowie, o której mowa w art. 34g.
+
 **Art. 34i.** Należności finansowe wynikające z rozliczenia środków finansowych przyznanych na wykonanie projektów Prezes może umorzyć z urzędu albo na wniosek dłużnika, jeżeli:
+
+- **1)** dłużnik został wykreślony z właściwego rejestru, a odpowiedzialność za długi nie przeszła na osoby trzecie;
+- **2)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się sumy wyższej od kosztów egzekucyjnych, albo postępowanie egzekucyjne okazało się nieskuteczne;
+- **3)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika z przyczyn, o których mowa w art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172), albo umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 361 ust. 1 tej ustawy.
+
+2. Prezes, na uzasadniony wniosek dłużnika albo z urzędu, może odroczyć termin spłaty lub rozłożyć na raty płatność należności finansowej wynikającej z rozliczenia środków finansowych przyznanych na wykonanie projektów albo umorzyć w całości albo w części należność finansową wynikającą z rozliczenia środków finansowych przyznanych na wykonanie projektów, o ile umorzenie nie będzie stanowiło pomocy publicznej lub pomocy de minimis, jeżeli:
+
+- **1)** wystąpiła nadzwyczajna zmiana stosunków gospodarczych, której strony nie mogły przewidzieć w dniu otrzymania środków finansowych, z powodu której zapłata należności przez dłużnika groziłaby znacznym pogorszeniem jego sytuacji ekonomicznej;
+- **2)** wystąpiły ważne zdarzenia losowe niezależne od dłużnika;
+- **3)** jest to uzasadnione ryzykiem naukowym wynikającym z charakteru wykonywanego projektu;
+- **4)** jest to uzasadnione ważnymi względami społecznymi lub gospodarczymi oraz uzasadnionym interesem Skarbu Państwa.
+
+3. Umorzenie należności finansowej wynikającej z rozliczenia środków finansowych przyznanych na wykonanie projektów wymaga zgody Ministra w przypadku, o którym mowa:
+
+- **1)** w ust. 1 pkt 3 i ust. 2 pkt 1–3, jeżeli wartość należności finansowej przekracza 150 000 zł;
+- **2)** w ust. 2 pkt 4.
+
+4. Spłata należności finansowej odroczonej albo rozłożonej na raty następuje na podstawie umowy zawartej z dłużnikiem.
+
+5. Do umorzenia należności finansowych wynikających z rozliczenia środków finansowych przyznanych na wykonanie projektów w przypadkach, o których mowa w ust. 1, stosuje się odpowiednio przepisy o pomocy publicznej lub pomocy de minimis.
+
+6. Prezes zamieszcza, na stronie podmiotowej Centrum Łukasiewicz w Biuletynie Informacji Publicznej, kwartalną informację o umorzeniach należności finansowych wynikających z rozliczenia środków finansowych przyznanych na wykonanie projektów, zawierającą wykaz podmiotów wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, do końca miesiąca następującego po zakończeniu kwartału.
 
 **Art. 34j.**
 
@@ -618,6 +727,17 @@ Art. 70–97. (pominięte)
 
 **Art. 34k.** W celu realizacji zadań, o których mowa w art. 2 ust. 2a, Centrum Łukasiewicz może:
 
+- **1)** udzielać finansowania w formie: ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ),
+    - **a)** wsparcia bezzwrotnego,
+    - **b)** pomocy zwrotnej, o której mowa w art. 67 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r.
+    - **c)** instrumentów finansowych, o których mowa w art. 2 lit. p rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm. );
+
+- **2)** utworzyć spółki, obejmować lub nabywać udziały i akcje lub obejmować warranty subskrypcyjne uprawniające do zapisu lub objęcia akcji w spółkach mających siedzibę na terytorium Rzeczypospolitej Polskiej lub za granicą;
+- **3)** obejmować lub nabywać certyfikaty inwestycyjne, o których mowa w art. 117 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz.
+- **60)** .
+
+2. Przepisy ust. 1 mogą być odpowiednio stosowane w przypadku wsparcia udzielanego ze środków innych niż pochodzące z budżetu Unii Europejskiej.
+
 **Art. 34l.**
 
 1. Za pośrednictwem Centrum Łukasiewicz może być udzielana pomoc publiczna w związku z realizacją celu, o którym mowa w art. 1 ust. 2 pkt 3 lit. c.
@@ -626,7 +746,8 @@ Art. 70–97. (pominięte)
 
 - **1)** przeznaczenie pomocy,
 - **2)** rodzaje kosztów kwalifikujących się do objęcia pomocą,
-- **3)** sposób kumulowania pomocy, – z uwzględnieniem wymagań dotyczących dopuszczalnej pomocy publicznej określonych w przepisach prawa wspólnotowego oraz celów Sieci.
+- **3)** sposób kumulowania pomocy,
+- **4)** maksymalne wielkości pomocy – z uwzględnieniem wymagań dotyczących dopuszczalnej pomocy publicznej określonych w przepisach prawa wspólnotowego oraz celów Sieci.
 
 #### Rozdział 5 Nadzór nad działalnością Centrum Łukasiewicz i instytutów Sieci
 
@@ -656,7 +777,8 @@ Art. 70–97. (pominięte)
 3. Prezes, nierzadziej niż raz na 3 lata, przeprowadza kontrolę instytutu Sieci w celu dokonania oceny:
 
 - **1)** gospodarki finansowej;
-- **2)** jakości pracy; instytutu Sieci i rocznych planów działalności Sieci;
+- **2)** jakości pracy;
+- **3)** prawidłowości realizacji zadań wynikających z rocznych planów działalności instytutu Sieci i rocznych planów działalności Sieci;
 - **4)** jakości zarządzania, w szczególności przestrzegania regulaminów, o których mowa w art. 31 ust. 1.
 
 4. Na podstawie wyników kontroli instytutu Sieci Prezes może zlecić dyrektorowi podjęcie czynności naprawczych lub usprawniających działalność tego instytutu.
@@ -679,6 +801,10 @@ Art. 70–97. (pominięte)
     - **d)** skuteczności działań podejmowanych przez Centrum Łukasiewicz i instytuty Sieci w zakresie komercjalizacji.
 
 **Art. 38.** Prezes może przeprowadzić ewaluację działalności instytutu Sieci w celu określenia jej wpływu na realizację planu działalności Sieci, obejmującą co najmniej ocenę:
+
+- **1)** adekwatności działań podejmowanych w instytucie Sieci w ramach planu działalności Sieci, ze szczególnym uwzględnieniem działań podejmowanych we współpracy z innymi instytutami Sieci lub Centrum Łukasiewicz oraz innymi podmiotami;
+- **2)** stopnia oraz sposobu realizacji celów instytutu Sieci ujętych w jego rocznym planie działalności;
+- **3)** poziomu poniesionych nakładów w stosunku do efektów działalności instytutu Sieci.
 
 #### Rozdział 7 Tworzenie, łączenie, podział, likwidacja i upadłość instytutów Sieci
 
@@ -704,7 +830,8 @@ Art. 70–97. (pominięte)
 
 3. W przypadku, o którym mowa w:
 
-- **1)** ust. 1 – Prezes zasięga opinii rady instytutu Sieci i jego dyrektora oraz działających w tym instytucie zakładowych organizacji związkowych; zasięgają opinii działających w tym instytucie zakładowych organizacji związkowych.
+- **1)** ust. 1 – Prezes zasięga opinii rady instytutu Sieci i jego dyrektora oraz działających w tym instytucie zakładowych organizacji związkowych;
+- **2)** ust. 2 – rada instytutu Sieci i jego dyrektor przed złożeniem wniosku do Prezesa zasięgają opinii działających w tym instytucie zakładowych organizacji związkowych.
 
 **Art. 41.**
 
@@ -730,7 +857,9 @@ Art. 70–97. (pominięte)
 
 **Art. 42.**
 
-1. Podział instytutu Sieci polega na wydzieleniu z tego instytutu komórki organizacyjnej albo komórek organizacyjnych w celu włączenia tej komórki organizacyjnej albo tych komórek organizacyjnych do Centrum Łukasiewicz albo innego instytutu Sieci. komórka organizacyjna albo komórki organizacyjne innego instytutu Sieci, przejmuje pracowników i mienie przekazane tej komórce organizacyjnej albo tym komórkom organizacyjnym w wyniku podziału.
+1. Podział instytutu Sieci polega na wydzieleniu z tego instytutu komórki organizacyjnej albo komórek organizacyjnych w celu włączenia tej komórki organizacyjnej albo tych komórek organizacyjnych do Centrum Łukasiewicz albo innego instytutu Sieci.
+
+2. Centrum Łukasiewicz albo instytut Sieci, do którego została włączona komórka organizacyjna albo komórki organizacyjne innego instytutu Sieci, przejmuje pracowników i mienie przekazane tej komórce organizacyjnej albo tym komórkom organizacyjnym w wyniku podziału.
 
 3. Do pracowników, o których mowa w ust. 2, stosuje się art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
@@ -764,10 +893,34 @@ Art. 70–97. (pominięte)
 - **8)** zadysponowanie mieniem likwidowanego instytutu Sieci;
 - **9)** uregulowanie zobowiązań likwidowanego instytutu Sieci wobec jego pracowników i rozwiązanie z nimi stosunku pracy;
 - **10)** złożenie wniosku o wykreślenie instytutu Sieci z KRS po zakończeniu likwidacji;
+- **11)** przekazanie dokumentacji zlikwidowanego instytutu Sieci do archiwum.
 
 6. Wynagrodzenie likwidatora jest finansowane ze środków likwidowanego instytutu Sieci i zaliczane do kosztów likwidacji.
 
 **Art. 44.** Rada, na wniosek Prezesa, w drodze uchwały, dokonuje:
+
+- **1)** połączenia instytutów Sieci, wskazując:
+    - **a)** nazwy i siedziby łączonych instytutów Sieci oraz ich numery REGON i NIP,
+    - **b)** instytut Sieci powstały w wyniku połączenia,
+    - **c)** termin połączenia,
+    - **d)** składniki majątkowe, w tym tytuł prawny do nieruchomości, które w wyniku połączenia wejdą w skład majątku instytutu Sieci, o którym mowa w lit. b,
+    - **e)** sposób łączenia planów finansowych łączonych instytutów Sieci i podziału nagród – w przypadku gdy połączenie następuje w trakcie roku obrotowego;
+
+- **2)** podziału instytutu Sieci, wskazując:
+    - **a)** nazwę i siedzibę instytutu Sieci podlegającego podziałowi oraz jego numery REGON i NIP,
+    - **b)** komórkę organizacyjną albo komórki organizacyjne instytutu Sieci, które będą z niego wydzielone w celu włączenia do Centrum Łukasiewicz albo innego instytutu Sieci,
+    - **c)** Centrum Łukasiewicz albo instytut Sieci, do którego będzie włączona komórka organizacyjna albo będą włączone komórki organizacyjne instytutu Sieci podlegającego podziałowi,
+    - **d)** termin podziału,
+    - **e)** sposób podziału mienia oraz rozliczeń z tytułu zobowiązań i przejęcia uprawnień i obowiązków wynikających z decyzji administracyjnych;
+
+- **3)** likwidacji instytutu Sieci, wskazując:
+    - **a)** nazwę i siedzibę likwidowanego instytutu Sieci oraz jego numery REGON i NIP,
+    - **b)** dzień otwarcia i dzień zakończenia likwidacji,
+    - **c)** termin zakończenia działalności instytutu Sieci,
+    - **d)** sposób i tryb rozdysponowania mienia instytutu Sieci, z uwzględnieniem art. 47 ust. 1,
+    - **e)** sposób uregulowania zobowiązań instytutu Sieci.
+
+**Art. 45.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, tryb łączenia, podziału i likwidacji instytutów Sieci, mając na względzie potrzebę zapewnienia sprawnego przebiegu tych procesów i zabezpieczenia realizacji celów Sieci, o których mowa w art. 1 ust. 2.
 
 **Art. 46.**
 
@@ -802,7 +955,7 @@ Art. 70–97. (pominięte)
 - **1)** pionu badawczego;
 - **2)** pionu wsparcia.
 
-2. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, wykaz stanowisk, na których są zatrudniani pracownicy Centrum Łukasiewicz i instytutów Sieci w ramach pionów, o których mowa w ust. 1, oraz pracowników.
+2. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, wykaz stanowisk, na których są zatrudniani pracownicy Centrum Łukasiewicz i instytutów Sieci w ramach pionów, o których mowa w ust. 1, oraz kwalifikacje wymagane do ich zajmowania, mając na uwadze zakres zadań tych pracowników.
 
 **Art. 49.** Pracownikom pionu badawczego przysługuje urlop wypoczynkowy w wymiarze 36 dni w roku.
 
@@ -835,12 +988,19 @@ Art. 70–97. (pominięte)
 
 2. Informacja o wyniku naboru zawiera:
 
-- **1)** określenie stanowiska pracy, na które nabór był prowadzony; zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
+- **1)** określenie stanowiska pracy, na które nabór był prowadzony;
+- **2)** imię albo imiona i nazwisko wybranego kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
 - **3)** uzasadnienie dokonanego wyboru kandydata albo niezatrudnienia żadnego kandydata.
 
 **Art. 53.** Jeżeli stosunek pracy osoby wybranej w drodze naboru ustał w terminie 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku pracy kolejną osobę spośród kandydatów, o których mowa w art. 51 ust. 2 pkt 3. Przepisy art. 52 stosuje się odpowiednio.
 
 **Art. 54.** W Centrum Łukasiewicz i w instytutach Sieci nie może istnieć stosunek bezpośredniej podległości służbowej między:
+
+- **1)** małżonkami;
+- **2)** osobami pozostającymi ze sobą w stosunku:
+    - **a)** pokrewieństwa do drugiego stopnia włącznie,
+    - **b)** powinowactwa pierwszego stopnia,
+    - **c)** przysposobienia, opieki lub kurateli.
 
 **Art. 55.**
 
@@ -853,7 +1013,12 @@ Art. 70–97. (pominięte)
 
 **Art. 56.** Warunki wynagradzania pracowników:
 
-**Art. 56a.** Wykonywanie obowiązków pracownika pionu badawczego stanowi działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2025 r. poz. 24). Gospodarka finansowa Sieci
+- **1)** Centrum Łukasiewicz – określa się w zakładowym regulaminie wynagradzania ustalonym przez Prezesa albo w zakładowym układzie zbiorowym pracy;
+- **2)** instytutu Sieci – określa się w zakładowym regulaminie wynagradzania ustalonym przez dyrektora albo w zakładowym układzie zbiorowym pracy.
+
+**Art. 56a.** Wykonywanie obowiązków pracownika pionu badawczego stanowi działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2025 r. poz. 24).
+
+#### Rozdział 9 Gospodarka finansowa Sieci
 
 **Art. 57.**
 
@@ -879,6 +1044,7 @@ Art. 70–97. (pominięte)
 - **3b)** inne środki przekazane przez ministra właściwego do spraw szkolnictwa wyższego i nauki;
 - **4)** środki przekazane przez podmioty inne niż minister właściwy do spraw szkolnictwa wyższego i nauki;
 - **5)** koszty, w tym:
+    - **a)** wynagrodzenia i prawnie obowiązujące obciążenia od nich naliczane,
     - **b)** płatności odsetkowe wynikające z zaciągniętych zobowiązań,
     - **c)** zakup towarów i usług;
 
@@ -906,7 +1072,8 @@ Art. 70–97. (pominięte)
     - **d)** inwestycje związane z działalnością naukową,
     - **e)** zadania finansowane przez Centrum Łukasiewicz, o których mowa w art. 2 ust. 2a;
 
-- **3)** dotacje podmiotowe na utrzymanie: skali kraju,
+- **3)** dotacje podmiotowe na utrzymanie:
+    - **a)** aparatury naukowo-badawczej lub stanowiska badawczego, unikatowych w skali kraju,
     - **b)** specjalnej infrastruktury informatycznej – mających istotne znaczenie dla realizacji polityki naukowej państwa;
 
 - **4)** inne środki przekazane przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
@@ -941,7 +1108,9 @@ Art. 70–97. (pominięte)
 
 2. Fundusz rozwoju przeznacza się w szczególności na zakup środków trwałych i materiałów związanych z realizacją projektów badawczych.
 
-3. Z funduszu nagród wypłaca się nagrody dla pracowników Centrum Łukasiewicz. Wypłata następuje po zatwierdzeniu sprawozdania finansowego Centrum Łukasiewicz. Warunki wypłaty ze środków funduszu nagród określa zakładowy układ zbiorowy pracy albo regulamin wynagradzania ustalony przez Prezesa. na podstawie umów przez przedsiębiorców wdrażających wyniki badań naukowych lub prac rozwojowych prowadzonych w Centrum Łukasiewicz, z tytułu osiągnięcia wymiernych efektów wdrożenia.
+3. Z funduszu nagród wypłaca się nagrody dla pracowników Centrum Łukasiewicz. Wypłata następuje po zatwierdzeniu sprawozdania finansowego Centrum Łukasiewicz. Warunki wypłaty ze środków funduszu nagród określa zakładowy układ zbiorowy pracy albo regulamin wynagradzania ustalony przez Prezesa.
+
+4. Fundusz wdrożeń tworzy się ze środków przekazanych Centrum Łukasiewicz na podstawie umów przez przedsiębiorców wdrażających wyniki badań naukowych lub prac rozwojowych prowadzonych w Centrum Łukasiewicz, z tytułu osiągnięcia wymiernych efektów wdrożenia.
 
 5. Z funduszu wdrożeń wypłaca się nagrody dla pracowników Centrum Łukasiewicz za osiągnięcie wymiernych efektów wdrożenia. Warunki wypłat ze środków funduszu wdrożeń określa zakładowy układ zbiorowy pracy albo regulamin ustalony przez Prezesa.
 
@@ -958,7 +1127,9 @@ Art. 70–97. (pominięte)
 
 4. Prezes, po uzyskaniu opinii Rady, przedstawia ministrowi właściwemu do spraw szkolnictwa wyższego i nauki projekt podziału zysku netto Centrum Łukasiewicz. Minister właściwy do spraw szkolnictwa wyższego i nauki, mając na względzie potrzebę zapewnienia prawidłowego funkcjonowania Centrum Łukasiewicz, może dokonać innego podziału zysku netto niż proponowany przez Prezesa.
 
-**Art. 61a.** Prezes może przekazać środki pochodzące z subwencji na koszty działalności oraz realizację zadań Centrum Łukasiewicz, o których mowa w art. 2 ust. 2, instytutowi Sieci wyznaczonemu zgodnie z art. 31 ust. 2. Środki przekazuje się na podstawie umowy. przez firmę audytorską wybraną przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
+**Art. 61a.** Prezes może przekazać środki pochodzące z subwencji na koszty działalności oraz realizację zadań Centrum Łukasiewicz, o których mowa w art. 2 ust. 2, instytutowi Sieci wyznaczonemu zgodnie z art. 31 ust. 2. Środki przekazuje się na podstawie umowy.
+
+**Art. 62.** Roczne sprawozdanie finansowe Centrum Łukasiewicz podlega badaniu przez firmę audytorską wybraną przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
 
 **Art. 63.**
 
@@ -982,9 +1153,27 @@ Art. 70–97. (pominięte)
     - **b)** płatności odsetkowe wynikające z zaciągniętych zobowiązań,
     - **c)** koszty majątkowe.
 
-3. Dyrektor, w terminie do dnia 15 grudnia każdego roku, przekazuje Prezesowi do zatwierdzenia projekt rocznego planu finansowego instytutu Sieci. określonym dla sporządzania rocznego planu finansowego.
+3. Dyrektor, w terminie do dnia 15 grudnia każdego roku, przekazuje Prezesowi do zatwierdzenia projekt rocznego planu finansowego instytutu Sieci.
+
+4. Zmian rocznego planu finansowego instytutu Sieci dokonuje się w trybie określonym dla sporządzania rocznego planu finansowego.
 
 **Art. 64.** Przychodami instytutu Sieci są:
+
+- **1)** subwencja, o której mowa w art. 63 ust. 2 pkt 2;
+- **1a)** dotacje celowe, o których mowa w art. 63 ust. 2 pkt 2a;
+- **1b)** dotacje podmiotowe, o których mowa w art. 63 ust. 2 pkt 2b;
+- **1c)** inne środki przekazane przez ministra właściwego do spraw szkolnictwa wyższego i nauki;
+- **2)** dotacje celowe na:
+    - **a)** realizację przez instytut Sieci projektów badawczych w ramach celu Sieci, o którym mowa w art. 1 ust. 2 pkt 1,
+    - **b)** finansowanie lub dofinansowanie kosztów inwestycji dotyczących realizacji przez instytut Sieci projektów badawczych w ramach celu Sieci, o którym mowa w art. 1 ust. 2 pkt 1, obejmujących: – zakup, wytworzenie lub rozbudowę aparatury naukowo-badawczej oraz infrastruktury informatycznej, – budowę, przebudowę lub rozbudowę obiektów budowlanych, – zakup nieruchomości;
+
+- **2a)** środki, o których mowa w art. 61a;
+- **3)** środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi;
+- **4)** przychody z działalności gospodarczej;
+- **5)** przychody z udziałów, akcji, skarbowych papierów wartościowych i odsetek;
+- **6)** przychody ze sprzedaży składników własnego mienia oraz z tytułu odpłatności za korzystanie z tych składników przez osoby trzecie na podstawie umowy najmu, dzierżawy albo innej umowy;
+- **7)** przychody z dziedziczenia, darowizn i zapisów;
+- **8)** przychody z innych źródeł.
 
 **Art. 65.**
 
@@ -996,6 +1185,10 @@ Art. 70–97. (pominięte)
 2. Fundusz statutowy odzwierciedla wartość netto środków trwałych, wartości niematerialnych i prawnych oraz innych składników aktywów, stanowiących wyposażenie instytutu Sieci na dzień rozpoczęcia przez niego działalności.
 
 3. Fundusz rezerwowy służy pokrywaniu strat instytutu Sieci.
+
+**Art. 66.**
+
+1. Instytut Sieci może tworzyć fundusze:
 
 - **1)** rozwoju;
 - **2)** nagród;
@@ -1020,7 +1213,11 @@ Art. 70–97. (pominięte)
 
 3. W przypadku gdy fundusz rezerwowy osiągnie wartość 20 % funduszu statutowego, instytut Sieci może nie dokonywać odpisu z zysku na fundusz rezerwowy zgodnie z ust. 2 pkt 1.
 
-4. Dyrektor, po uzyskaniu opinii rady instytutu Sieci, przedstawia Prezesowi projekt podziału zysku netto instytutu Sieci. Prezes, mając na względzie potrzebę zapewnienia prawidłowego funkcjonowania instytutu Sieci, może dokonać podziału zysku netto innego niż proponowany przez dyrektora. w art. 63 ust. 2 pkt 3, na podstawie wniosków złożonych przez dyrektorów, w oparciu o roczny plan finansowy Centrum Łukasiewicz, z uwzględnieniem kierunków działalności Sieci, o których mowa w art. 19 ust. 1 pkt 1.
+4. Dyrektor, po uzyskaniu opinii rady instytutu Sieci, przedstawia Prezesowi projekt podziału zysku netto instytutu Sieci. Prezes, mając na względzie potrzebę zapewnienia prawidłowego funkcjonowania instytutu Sieci, może dokonać podziału zysku netto innego niż proponowany przez dyrektora.
+
+**Art. 68.**
+
+1. Prezes przyznaje instytutom Sieci dotacje, o których mowa w art. 63 ust. 2 pkt 3, na podstawie wniosków złożonych przez dyrektorów, w oparciu o roczny plan finansowy Centrum Łukasiewicz, z uwzględnieniem kierunków działalności Sieci, o których mowa w art. 19 ust. 1 pkt 1.
 
 2. Przy przyznawaniu dotacji, o których mowa w art. 63 ust. 2 pkt 3, Prezes bierze pod uwagę:
 
@@ -1046,7 +1243,8 @@ Art. 70–97. (pominięte)
 6. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
 
 - **1)** tryb przyznawania dotacji, o których mowa w art. 63 ust. 2 pkt 3, w tym szczegółowy zakres informacji zawartych we wniosku o ich przyznanie,
-- **2)** sposób ustalania wysokości dotacji, o których mowa w art. 63 ust. 2 pkt 3, szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania tych dotacji – mając na uwadze znaczenie tych dotacji dla prawidłowego wykonywania zadań przez instytuty Sieci i dla możliwości realizacji celów Sieci.
+- **2)** sposób ustalania wysokości dotacji, o których mowa w art. 63 ust. 2 pkt 3,
+- **3)** warunki i tryb rozliczania dotacji, o których mowa w art. 63 ust. 2 pkt 3, w tym szczegółowy zakres informacji zawartych w raporcie rocznym i raporcie końcowym z wykorzystania tych dotacji – mając na uwadze znaczenie tych dotacji dla prawidłowego wykonywania zadań przez instytuty Sieci i dla możliwości realizacji celów Sieci.
 
 **Art. 69.**
 
@@ -1063,8 +1261,9 @@ Art. 70–97. (pominięte)
 - **3)** jest to uzasadnione ryzykiem naukowym wynikającym z charakteru realizowanego projektu badawczego;
 - **4)** jest to uzasadnione ważnymi względami społecznymi lub gospodarczymi oraz uzasadnionym interesem Skarbu Państwa.
 
-3. Umorzenie należności finansowej wynikającej z rozliczenia dotacji, o których mowa w art. 63 ust. 2 pkt 3, wymaga zgody ministra właściwego do spraw szkolnictwa wyższego i nauki w przypadku, o którym mowa w: 150 000 zł;
+3. Umorzenie należności finansowej wynikającej z rozliczenia dotacji, o których mowa w art. 63 ust. 2 pkt 3, wymaga zgody ministra właściwego do spraw szkolnictwa wyższego i nauki w przypadku, o którym mowa w:
 
+- **1)** ust. 1 pkt 3 i ust. 2 pkt 1–3, jeżeli wartość należności finansowej przekracza 150 000 zł;
 - **2)** ust. 2 pkt 4.
 
 4. Spłata należności finansowej odroczonej albo rozłożonej na raty następuje na podstawie umowy zawartej z dłużnikiem.
@@ -1095,6 +1294,7 @@ Art. 70–97. (pominięte)
 - **10)** Instytut Logistyki i Magazynowania w Poznaniu,
 - **11)** Instytut Lotnictwa w Warszawie,
 - **12)** Instytut Mechaniki Precyzyjnej w Warszawie,
+- **13)** Instytut Mechanizacji Budownictwa i Górnictwa Skalnego w Warszawie,
 - **14)** Instytut Metali Nieżelaznych w Gliwicach,
 - **15)** Instytut Metalurgii Żelaza im. Stanisława Staszica w Gliwicach,
 - **16)** Instytut Napędów i Maszyn Elektrycznych KOMEL w Katowicach,
@@ -1128,7 +1328,8 @@ Art. 70–97. (pominięte)
 
 1. Instytuty Sieci powstałe z przekształcenia:
 
-- **1)** instytutów badawczych, o których mowa w art. 98 ust. 2, mowa w art. 84 , w brzmieniu nadanym niniejszą ustawą, do dnia 31 marca 2020 r.,
+- **1)** instytutów badawczych, o których mowa w art. 98 ust. 2,
+- **2)** instytutów badawczych dokonanego zgodnie z art. 9 ust. 1 pkt 4 ustawy, o której mowa w art. 84 , w brzmieniu nadanym niniejszą ustawą, do dnia 31 marca 2020 r.,
 - **3)** spółki, o której mowa w art. 98 ust. 3 – zachowują osobowość prawną i działają na podstawie dotychczasowych wpisów do KRS niedłużej niż do dnia 30 września 2020 r.
 
 2. W okresie od dnia 1 kwietnia 2020 r. do dnia 31 lipca 2020 r. dyrektorzy złożą wnioski o wpis do KRS instytutów Sieci powstałych z przekształcenia:
@@ -1141,13 +1342,19 @@ Art. 70–97. (pominięte)
 
 **Art. 100.** W terminie 30 dni od dnia wejścia w życie ustawy:
 
+- **1)** minister właściwy do spraw szkolnictwa wyższego i nauki dokona w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on, o którym mowa w art. 342 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zmian związanych z przekształceniem instytutów badawczych, o których mowa w art. 98 ust. 2, w instytuty Sieci;
+- **2)** dyrektor instytutu Sieci powstałego z przekształcenia spółki, o której mowa w art. 98 ust. 3, wprowadzi dane dotyczące tego instytutu do Zintegrowanego Systemu Informacji o Szkolnictwie Wyższym i Nauce POL-on.
+
 **Art. 101.**
 
 1. Instytuty Sieci powstałe z przekształcenia instytutów badawczych, o których mowa w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, wstępują we wszystkie prawa i obowiązki, których podmiotem były te instytuty badawcze albo ta spółka.
 
-2. Uprawnienia i obowiązki instytutów badawczych, o których mowa w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, wynikające z decyzji przekształcenia tych instytutów badawczych albo tej spółki.
+2. Uprawnienia i obowiązki instytutów badawczych, o których mowa w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, wynikające z decyzji administracyjnych przechodzą z mocy prawa na instytuty Sieci powstałe z przekształcenia tych instytutów badawczych albo tej spółki.
 
 **Art. 102.** Z dniem wejścia w życie ustawy:
+
+- **1)** mienie instytutów badawczych, o których mowa w art. 98 ust. 2, albo spółki, o której mowa w art. 98 ust. 3, staje się mieniem instytutów Sieci powstałych z przekształcenia tych instytutów badawczych albo tej spółki;
+- **2)** wierzytelności i zobowiązania instytutów badawczych, o których mowa w art. 98 ust. 2, albo spółki, o której mowa w art. 98 ust. 3, stają się wierzytelnościami i zobowiązaniami instytutów Sieci powstałych z przekształcenia tych instytutów badawczych albo tej spółki.
 
 **Art. 103.**
 
@@ -1163,7 +1370,11 @@ Art. 70–97. (pominięte)
 
 6. Środki funduszy badań własnych i funduszy stypendialnych zgromadzone na podstawie dotychczasowych przepisów przez instytuty badawcze, o których mowa w art. 98 ust. 2, stają się środkami funduszy rozwoju utworzonych przez instytuty Sieci powstałe z przekształcenia tych instytutów badawczych, na podstawie przepisów niniejszej ustawy.
 
-7. Suma kapitału zakładowego i kapitału zapasowego spółki, o której mowa w art. 98 ust. 3, przekształcanej w instytut Sieci staje się jego funduszem statutowym, a suma kapitału z aktualizacji wyceny oraz pozostałych kapitałów rezerwowych staje się jego funduszem rezerwowym. o których mowa w art. 98 ust. 2, pełnią swoje funkcje do dnia powołania dyrektorów i zastępców dyrektorów instytutów Sieci powstałych z przekształcenia tych instytutów badawczych, niedłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
+7. Suma kapitału zakładowego i kapitału zapasowego spółki, o której mowa w art. 98 ust. 3, przekształcanej w instytut Sieci staje się jego funduszem statutowym, a suma kapitału z aktualizacji wyceny oraz pozostałych kapitałów rezerwowych staje się jego funduszem rezerwowym.
+
+**Art. 104.**
+
+1. Dyrektorzy i zastępcy dyrektorów instytutów badawczych, o których mowa w art. 98 ust. 2, pełnią swoje funkcje do dnia powołania dyrektorów i zastępców dyrektorów instytutów Sieci powstałych z przekształcenia tych instytutów badawczych, niedłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
 2. Rady naukowe instytutów badawczych, o których mowa w art. 98 ust. 2, wykonują zadania rad instytutów Sieci powstałych z przekształcenia tych instytutów badawczych do dnia powołania tych rad na podstawie przepisów niniejszej ustawy, niedłużej jednak niż do dnia 31 grudnia 2019 r.
 
@@ -1181,7 +1392,11 @@ Art. 70–97. (pominięte)
 
 5. Kadencja rady instytutu Sieci, o której mowa w ust. 3, upływa z dniem powołania rady instytutu Sieci powstałego z przekształcenia spółki, o której mowa w art. 98 ust. 3, zgodnie z postanowieniami statutu tego instytutu Sieci, niepóźniej niż do dnia 31 grudnia 2019 r.
 
-6. Rada instytutu Sieci opiniuje sprawozdanie finansowe spółki oraz sprawozdanie zarządu z działalności spółki, o których mowa w art. 118 ust. 2 pkt 1 lit. b. w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, stają się pracownikami instytutów Sieci powstałych z przekształcenia tych instytutów badawczych i tej spółki. Do pracowników tych stosuje się przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+6. Rada instytutu Sieci opiniuje sprawozdanie finansowe spółki oraz sprawozdanie zarządu z działalności spółki, o których mowa w art. 118 ust. 2 pkt 1 lit. b.
+
+**Art. 106.**
+
+1. Pracownicy instytutów badawczych, o których mowa w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, stają się pracownikami instytutów Sieci powstałych z przekształcenia tych instytutów badawczych i tej spółki. Do pracowników tych stosuje się przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 2. Urlopy wypoczynkowe, do których pracownicy instytutów badawczych, o których mowa w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, nabyli prawo przed dniem wejścia w życie ustawy, są wykorzystywane na zasadach i w wymiarze ustalonych na podstawie przepisów dotychczasowych.
 
@@ -1203,7 +1418,9 @@ Art. 70–97. (pominięte)
 
 **Art. 108.**
 
-1. Z dniem wejścia w życie ustawy ulegają rozwiązaniu komisje dyscyplinarne, o których mowa w art. 54 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, powołane w instytutach badawczych, o których mowa w art. 98 ust. 2. badawczo-technicznych instytutów badawczych, o których mowa w art. 98 ust. 2, wszczęte i niezakończone przed dniem wejścia w życie ustawy podlegają z tym dniem umorzeniu.
+1. Z dniem wejścia w życie ustawy ulegają rozwiązaniu komisje dyscyplinarne, o których mowa w art. 54 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, powołane w instytutach badawczych, o których mowa w art. 98 ust. 2.
+
+2. Postępowania dyscyplinarne w sprawach pracowników naukowych lub badawczo-technicznych instytutów badawczych, o których mowa w art. 98 ust. 2, wszczęte i niezakończone przed dniem wejścia w życie ustawy podlegają z tym dniem umorzeniu.
 
 **Art. 109.** Konkursy na pracowników naukowych instytutów badawczych, o których mowa w art. 98 ust. 2, niezakończone do dnia wejścia w życie ustawy ulegają zakończeniu z tym dniem.
 
@@ -1223,7 +1440,9 @@ Art. 70–97. (pominięte)
 
 3. Przeniesienie na studia doktoranckie prowadzone w uczelni odbywa się za zgodą doktorantów instytutów badawczych, o których mowa w ust. 1.
 
-4. Z dniem wejścia w życie ustawy wygasają umowy zawarte przez instytuty badawcze, o których mowa w ust. 1, z doktorantami. doktoranci instytutów badawczych, o których mowa w ust. 1, są zwolnieni z obowiązku:
+4. Z dniem wejścia w życie ustawy wygasają umowy zawarte przez instytuty badawcze, o których mowa w ust. 1, z doktorantami.
+
+5. W przypadku przeniesienia na studia doktoranckie prowadzone w uczelni doktoranci instytutów badawczych, o których mowa w ust. 1, są zwolnieni z obowiązku:
 
 - **1)** uzupełniania praktyk zawodowych w formie prowadzenia zajęć dydaktycznych lub uczestniczenia w ich prowadzeniu za lata studiów doktoranckich, które zostały im zaliczone w instytucie badawczym;
 - **2)** odbycia praktyk zawodowych w formie prowadzenia zajęć dydaktycznych lub uczestniczenia w ich prowadzeniu w roku akademickim 2018/2019.
@@ -1242,7 +1461,9 @@ Art. 70–97. (pominięte)
 - **1)** na podstawie przepisów ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju oraz ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki, a także środków finansowych, o których mowa w art. 365 pkt 9 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce – toczą się na zasadach dotychczasowych;
 - **2)** o których mowa w art. 365 pkt 4 lit. b, pkt 5 i 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce – podlegają z dniem wejścia w życie ustawy umorzeniu.
 
-**Art. 114.** Kontrole instytutów badawczych, o których mowa w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, niezakończone do dnia wejścia w życie ustawy skierowaniem wystąpienia pokontrolnego ulegają zakończeniu z tym dniem. postępowania w sprawach, o których mowa w art. 35a ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, dotyczące uchwał rad naukowych instytutów badawczych, o których mowa w art. 98 ust. 2, podlegają z tym dniem umorzeniu.
+**Art. 114.** Kontrole instytutów badawczych, o których mowa w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, niezakończone do dnia wejścia w życie ustawy skierowaniem wystąpienia pokontrolnego ulegają zakończeniu z tym dniem.
+
+**Art. 115.** Wszczęte i niezakończone przed dniem wejścia w życie ustawy postępowania w sprawach, o których mowa w art. 35a ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, dotyczące uchwał rad naukowych instytutów badawczych, o których mowa w art. 98 ust. 2, podlegają z tym dniem umorzeniu.
 
 **Art. 116.**
 
@@ -1265,7 +1486,10 @@ Art. 70–97. (pominięte)
     - **b)** sprawozdania finansowe instytutów badawczych, o których mowa w art. 98 ust. 2 pkt 20 i 21, i przekażą do zatwierdzenia ministrowi właściwemu do spraw energii,
     - **c)** sprawozdanie finansowe instytutu badawczego, o którym mowa w art. 98 ust. 2 pkt 26, i przekażą do zatwierdzenia ministrowi właściwemu do spraw informatyzacji;
 
-- **2)** 6 miesięcy od dnia wejścia w życie ustawy, ustalą regulaminy organizacyjne instytutów Sieci. w art. 98 ust. 3, w terminie:
+- **2)** 6 miesięcy od dnia wejścia w życie ustawy, ustalą regulaminy organizacyjne instytutów Sieci.
+
+2. Dyrektor instytutu Sieci powstałego z przekształcenia spółki, o której mowa w art. 98 ust. 3, w terminie:
+
 - **1)** 2 miesięcy od dnia wejścia w życie ustawy:
     - **a)** przekaże sprawozdanie finansowe spółki oraz sprawozdanie zarządu z działalności spółki za rok obrotowy 2018 do zatwierdzenia podmiotowi uprawnionemu do wykonywania praw z udziałów spółki, o której mowa w art. 98 ust. 3, należących do Skarbu Państwa w dniu 31 marca 2019 r.,
     - **b)** sporządzi sprawozdanie finansowe spółki oraz sprawozdanie zarządu z działalności spółki za okres od dnia 1 stycznia 2019 r. do dnia 31 marca 2019 r. i przekaże je, po przeprowadzeniu badania przez wybraną przez spółkę, o której mowa w art. 98 ust. 3, firmę audytorską, do zatwierdzenia podmiotowi uprawnionemu do wykonywania praw z udziałów spółki, o której mowa w art. 98 ust. 3, należących do Skarbu Państwa w dniu 31 marca 2019 r.;
@@ -1279,7 +1503,9 @@ Art. 70–97. (pominięte)
 
 4. Stany aktywów i pasywów na dzień zamknięcia ksiąg rachunkowych instytutów badawczych, o których mowa w art. 98 ust. 2, i spółki, o której mowa w art. 98 ust. 3, stają się stanami aktywów i pasywów na dzień otwarcia ksiąg rachunkowych instytutów Sieci powstałych w wyniku przekształcenia tych instytutów badawczych albo tej spółki.
 
-5. Bilans zamknięcia przekształcanej spółki, o której mowa w art. 98 ust. 3, staje się bilansem otwarcia instytutu Sieci, powstałego z jej przekształcenia. poprzedzający jej przekształcenie powiększa zysk z lat ubiegłych bądź pomniejsza stratę z lat ubiegłych.
+5. Bilans zamknięcia przekształcanej spółki, o której mowa w art. 98 ust. 3, staje się bilansem otwarcia instytutu Sieci, powstałego z jej przekształcenia.
+
+6. Zysk netto przekształcanej spółki, o której mowa w art. 98 ust. 3, za okres poprzedzający jej przekształcenie powiększa zysk z lat ubiegłych bądź pomniejsza stratę z lat ubiegłych.
 
 7. Strata netto przekształcanej spółki, o której mowa w art. 98 ust. 3 za okres poprzedzający jej przekształcenie pomniejsza zysk z lat ubiegłych bądź powiększa stratę z lat ubiegłych.
 
@@ -1307,6 +1533,9 @@ Art. 70–97. (pominięte)
 
 **Art. 123.** Prezes, w terminie:
 
+- **1)** miesiąca od dnia wejścia w życie ustawy, sporządzi projekt planu działalności Centrum Łukasiewicz na 2019 r.,
+- **2)** 2 miesięcy od dnia wejścia w życie ustawy, sporządzi, w oparciu o plan działalności Centrum Łukasiewicz i plany działalności instytutów Sieci, o których mowa w art. 116, projekt planu działalności Sieci na 2019 r. ‒ i przedstawi do zatwierdzenia Radzie.
+
 **Art. 124.**
 
 1. Do dnia wejścia w życie przepisów wydanych na podstawie art. 4a ust. 4 ustawy, o której mowa w art. 75 , w brzmieniu nadanym niniejszą ustawą, niedłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy:
@@ -1320,7 +1549,9 @@ Art. 70–97. (pominięte)
 3. Czynności dokonane w postępowaniach, o których mowa w ust. 1, przez:
 
 - **1)** Instytut Mechanizacji Budownictwa i Górnictwa Skalnego w Warszawie, Instytut Przemysłu Organicznego w Warszawie i Instytut Mechaniki Precyzyjnej w Warszawie – przed dniem wejścia w życie niniejszej ustawy,
-- **2)** Sieć Badawcza Łukasiewicz – Instytut Mechanizacji Budownictwa i Górnictwa Skalnego, Sieć Badawcza Łukasiewicz – Instytut Przemysłu Organicznego i Sieć Badawcza Łukasiewicz – Instytut Mechaniki Precyzyjnej – przed upływem terminu, o którym mowa w ust. 1 – pozostają w mocy. 3 miesięcy od dnia wejścia w życie ustawy, wskaże swojego przedstawiciela do rad naukowych instytutów badawczych.
+- **2)** Sieć Badawcza Łukasiewicz – Instytut Mechanizacji Budownictwa i Górnictwa Skalnego, Sieć Badawcza Łukasiewicz – Instytut Przemysłu Organicznego i Sieć Badawcza Łukasiewicz – Instytut Mechaniki Precyzyjnej – przed upływem terminu, o którym mowa w ust. 1 – pozostają w mocy.
+
+**Art. 125.** Minister właściwy do spraw szkolnictwa wyższego i nauki, w terminie 3 miesięcy od dnia wejścia w życie ustawy, wskaże swojego przedstawiciela do rad naukowych instytutów badawczych.
 
 **Art. 126.** Rada Główna Instytutów Badawczych staje się z dniem wejścia w życie ustawy Radą Główną Instytutów Badawczych, o której mowa w art. 33 ustawy, o której mowa w art. 84 , w brzmieniu nadanym niniejszą ustawą, i działa w dotychczasowym składzie do końca kadencji rozpoczętej przed dniem wejścia w życie niniejszej ustawy.
 
@@ -1337,7 +1568,7 @@ Art. 70–97. (pominięte)
 
 3. Czynności, o których mowa w ust. 1, wykonane przez:
 
-- **1)** COBRO – Instytut Badawczy Opakowań w Warszawie, Instytut Biopolimerów i Włókien Chemicznych w Łodzi, Instytut Mechaniki Precyzyjnej w Warszawie niniejszej ustawy,
+- **1)** COBRO – Instytut Badawczy Opakowań w Warszawie, Instytut Biopolimerów i Włókien Chemicznych w Łodzi, Instytut Mechaniki Precyzyjnej w Warszawie i Instytut Przemysłu Organicznego w Warszawie przed dniem wejścia w życie niniejszej ustawy,
 - **2)** Sieć Badawcza Łukasiewicz – COBRO – Instytut Badawczy Opakowań, Sieć Badawcza Łukasiewicz – Instytut Biopolimerów i Włókien Chemicznych, Sieć Badawcza Łukasiewicz – Instytut Mechaniki Precyzyjnej i Sieć Badawcza Łukasiewicz – Instytut Przemysłu Organicznego przed upływem terminu, o którym mowa w ust. 1 – pozostają w mocy.
 
 **Art. 128.** Wypłata wynagrodzeń dostosowanych w zakresie minimalnej wysokości miesięcznego wynagrodzenia zasadniczego określonego w art. 137 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce oraz w przepisach wydanych na podstawie art. 137 ust. 2 tej ustawy, zgodnie z art. 248 ust. 2 ustawy zmienianej w art. 95 w brzmieniu nadanym niniejszą ustawą, jest dokonywana z wyrównaniem od dnia 1 stycznia 2019 r.
@@ -1349,4 +1580,10 @@ Art. 70–97. (pominięte)
 **Art. 131.** W roku 2019 środki finansowe, o których mowa w art. 365 pkt 1 i 2 ustawy zmienianej w art. 96 , przyznane przed dniem wejścia w życie niniejszej ustawy przeznacza się również na realizację inwestycji w obszarze działalności dydaktycznej i w obszarze działalności badawczej.
 
 **Art. 132.** Przepisy wykonawcze wydane na podstawie art. 402 pkt 1 i 2 ustawy zmienianej w art. 96 zachowują moc, jednak niedłużej niż przez okres 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 133.** Ustawa wchodzi w życie z dniem 1 kwietnia 2019 r., z wyjątkiem:
+
+- **1)** art. 95, art. 96 pkt 3, 5, 9–11, pkt 14 lit. c, pkt 21 lit. a, pkt 25, 26 i 39, art. 111 ust. 2, art. 128 i art. 130, które wchodzą w życie z dniem następującym po dniu ogłoszenia ;
+- **2)** art. 39, art. 41 ust. 1 pkt 1 i ust. 5 pkt 1, art. 74 i art. 84 pkt 1 lit. c tiret drugie, które wchodzą w życie z dniem 1 kwietnia 2020 r.
+
 

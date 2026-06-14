@@ -8,10 +8,10 @@ pos: 1056
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 czerwca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1056 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 6 czerwca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001056) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1056/text.pdf) |
 
-Poz. 1056 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 6 czerwca 2019 r.
 w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Michała Wosia Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392, z 2015 r.
-poz. 1064, z 2018 r. poz. 1669 oraz z 2019 r. poz. 271 i 730) zarządza się, co następuje: § 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+poz. 1064, z 2018 r. poz. 1669 oraz z 2019 r. poz. 271 i 730) zarządza się, co następuje:
+§ 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 § 2. Do zakresu działania ministra należy w szczególności:
 1) analiza potrzeb i przygotowywanie propozycji kierunków działań w zakresie pomocy humanitarnej;
 2) promowanie, upowszechnianie i propagowanie problematyki pomocy humanitarnej;

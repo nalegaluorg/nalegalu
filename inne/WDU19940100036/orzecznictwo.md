@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin.*
 
 Łącznie: **563** orzeczeń
-(pominięto 132 orzeczeń sądów rejonowych)
+(pominięto 134 orzeczeń sądów rejonowych)
 
 ## art. 1 (6)
 

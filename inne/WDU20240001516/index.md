@@ -8,10 +8,10 @@ pos: 1516
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 października 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1516 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,25 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1516/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 września 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 31 lipca 2017 r. w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 1561), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 20 maja 2020 r. zmieniającym rozporządzenie w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U. poz. 950).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 maja 2020 r. zmieniającego rozporządzenie w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika (Dz. U.
 poz. 950), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Sprawiedliwości: A. Bodnar ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 31 lipca 2017 r.
-w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika Na podstawie art. 14 ust. 2 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich (Dz. U. z 2024 r. poz. 560 i 1228) zarządza się, co następuje: § 1. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie rozumie się przez to ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich ;
-2) Rejestrze rozumie się przez to Rejestr z dostępem ograniczonym, o którym mowa w art. 4 ust. 1 pkt 1 ustawy;
-3) biurze informacyjnym rozumie się przez to Biuro Informacyjne Krajowego Rejestru Karnego;
-4) użytkowniku rozumie się przez to osobę fizyczną korzystającą z systemu teleinformatycznego, za pośrednictwem którego udostępnia się informacje z Rejestru;
-5) koncie użytkownika indywidualnego rozumie się przez to dane opisujące użytkownika wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego użytkownika;
-6) osobie uprawnionej do informacji rozumie się przez to osobę fizyczną uprawnioną do uzyskania informacji na podstawie art. 12 ustawy, z wyjątkiem osoby, o której mowa w art. 12 pkt 8 ustawy;
-7) koncie użytkownika instytucjonalnego rozumie się przez to dane opisujące:
+w sprawie trybu, sposobu i zakresu uzyskiwania i udostępniania informacji z Rejestru z dostępem ograniczonym oraz sposobu zakładania konta użytkownika Na podstawie art. 14 ust. 2 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich (Dz. U. z 2024 r. poz. 560 i 1228) zarządza się, co następuje:
+§ 1. Ilekroć w rozporządzeniu jest mowa o:
+1) ustawie – rozumie się przez to ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich ;
+2) Rejestrze – rozumie się przez to Rejestr z dostępem ograniczonym, o którym mowa w art. 4 ust. 1 pkt 1 ustawy;
+3) biurze informacyjnym – rozumie się przez to Biuro Informacyjne Krajowego Rejestru Karnego;
+4) użytkowniku – rozumie się przez to osobę fizyczną korzystającą z systemu teleinformatycznego, za pośrednictwem którego udostępnia się informacje z Rejestru;
+5) koncie użytkownika indywidualnego – rozumie się przez to dane opisujące użytkownika wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego użytkownika;
+6) osobie uprawnionej do informacji – rozumie się przez to osobę fizyczną uprawnioną do uzyskania informacji na podstawie art. 12 ustawy, z wyjątkiem osoby, o której mowa w art. 12 pkt 8 ustawy;
+7) koncie użytkownika instytucjonalnego – rozumie się przez to dane opisujące:
 a) podmiot niebędący osobą fizyczną albo osobę uprawnioną do informacji,
 b) użytkowników uprawnionych do korzystania z systemu teleinformatycznego w imieniu tego podmiotu albo tej osoby, wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego podmiotu albo tej osoby;
-8) identyfikatorze użytkownika rozumie się przez to unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujący użytkownika;
-9) podpisie elektronicznym rozumie się przez to kwalifikowany podpis elektroniczny, podpis osobisty albo podpis zaufany;
-10) administratorze rozumie się przez to użytkownika uprawnionego do zarządzania kontem użytkownika instytucjonalnego.
+8) identyfikatorze użytkownika – rozumie się przez to unikalny ciąg znaków alfanumerycznych jednoznacznie identyfikujący użytkownika;
+9) podpisie elektronicznym – rozumie się przez to kwalifikowany podpis elektroniczny, podpis osobisty albo podpis zaufany;
+10) administratorze – rozumie się przez to użytkownika uprawnionego do zarządzania kontem użytkownika instytucjonalnego.
 § 2. 1. Podmiotom, o których mowa w art. 12 pkt 4–7a ustawy, oraz osobie, o której mowa w art. 12 pkt 8 ustawy, informację z Rejestru udostępnia się za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 4 ust. 3 ustawy.
 2. Informacje udostępnia się poprzez konto użytkownika indywidualnego albo konto użytkownika instytucjonalnego.
 3. Podmioty, o których mowa w art. 12 pkt 1–3 ustawy, uzyskują informacje z Rejestru za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1, lub za pośrednictwem elektronicznej aplikacji dostępowej tych podmiotów.
@@ -60,7 +60,7 @@ e) hasła;
 1) wprowadzeniu przez administratora do systemu teleinformatycznego:
 a) nazwy i adresu podmiotu,
 b) informacji, w jakim charakterze podmiot będzie występował o uzyskanie informacji z Rejestru,
-c) danych administratora w postaci: imienia i nazwiska, numeru PESEL, o ile został nadany, adresu poczty elektronicznej, identyfikatora użytkownika, hasła;
+c) danych administratora w postaci: – imienia i nazwiska, – numeru PESEL, o ile został nadany, – adresu poczty elektronicznej, – identyfikatora użytkownika, – hasła;
 2) zaakceptowaniu przez administratora warunków korzystania z systemu teleinformatycznego;
 3) dokonaniu przez administratora aktywacji dostępu do konta za pomocą linku aktywacyjnego, przesłanego przez system teleinformatyczny na adres poczty elektronicznej;
 4) wprowadzeniu przez administratora do systemu teleinformatycznego informacji o sposobie reprezentacji podmiotu oraz danych, o których mowa w pkt 1 lit. c tiret pierwsze do czwartego, osoby lub osób uprawnionych do reprezentowania podmiotu. Wprowadzenia danych osoby lub osób uprawnionych do reprezentowania podmiotu należy dokonać w taki sposób, aby umożliwić działanie za pośrednictwem konta użytkownika instytucjonalnego zgodnie ze sposobem reprezentacji;
@@ -70,10 +70,10 @@ c) danych administratora w postaci: imienia i nazwiska, numeru PESEL, o ile zost
 2. Jeżeli nie zostały dokonane czynności, o których mowa w ust. 1 pkt 1–5, zgłoszenie nie zawiera danych, o których mowa w ust. 1 pkt 6, lub jeżeli zgłoszenie zostało wniesione przez osoby nieuprawnione, biuro informacyjne wzywa do usunięcia braków w terminie 14 dni od dnia otrzymania wezwania. W przypadku nieuzupełnienia braku w terminie zgłoszenie uważa się za bezskuteczne, o czym poucza się w wezwaniu.
 § 5. 1. Utworzenie konta użytkownika instytucjonalnego osoby uprawnionej do informacji następuje po:
 1) wprowadzeniu przez administratora do systemu teleinformatycznego:
-a) firmy, a w przypadku jej nieposiadania imienia i nazwiska osoby uprawnionej do informacji,
+a) firmy, a w przypadku jej nieposiadania – imienia i nazwiska osoby uprawnionej do informacji,
 b) adresu osoby uprawnionej do informacji,
 c) informacji, w jakim charakterze osoba będzie występowała o uzyskanie informacji z Rejestru,
-d) danych administratora w postaci: imienia i nazwiska, numeru PESEL, o ile został nadany, adresu poczty elektronicznej, identyfikatora użytkownika, hasła;
+d) danych administratora w postaci: – imienia i nazwiska, – numeru PESEL, o ile został nadany, – adresu poczty elektronicznej, – identyfikatora użytkownika, – hasła;
 2) zaakceptowaniu przez administratora warunków korzystania z systemu teleinformatycznego;
 3) dokonaniu przez administratora aktywacji dostępu do konta za pomocą linku aktywacyjnego, przesłanego przez system teleinformatyczny na adres poczty elektronicznej;
 4) wprowadzeniu przez administratora do systemu teleinformatycznego danych, o których mowa w pkt 1 lit. d tiret pierwsze do czwartego, osoby uprawnionej do informacji;

@@ -8,10 +8,10 @@ pos: 1175
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 czerwca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1175 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 6 czerwca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,18 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1175/text.pdf) |
 
-Poz. 1175 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 6 czerwca 2018 r.
-zmieniające rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budowle kolejowe i ich usytuowanie Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529 oraz z 2018 r. poz. 12, 317, 352 i 650) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Transportu i Gospodarki Morskiej z dnia 10 września 1998 r. w sprawie warunków technicznych, jakim powinny odpowiadać budowle kolejowe i ich usytuowanie (Dz. U. poz. 987 oraz z 2014 r. poz. 867) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budowle kolejowe i ich usytuowanie Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529 oraz z 2018 r. poz. 12, 317, 352 i 650) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Transportu i Gospodarki Morskiej z dnia 10 września 1998 r. w sprawie warunków technicznych, jakim powinny odpowiadać budowle kolejowe i ich usytuowanie (Dz. U. poz. 987 oraz z 2014 r. poz. 867) wprowadza się następujące zmiany:
 1) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. 1. Dla budowli kolejowych wchodzących w skład podsystemów strukturalnych w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2017 r. poz. 2117 i 2361 oraz z 2018 r. poz. 650 i 927), objętych zasadniczymi wymaganiami dotyczącymi interoperacyjności systemu kolei, uwzględnia się warunki techniczne określone w technicznych specyfikacjach interoperacyjności stanowiących załączniki do:
 1) rozporządzenia Komisji (UE) nr 1299/2014 z dnia 18 listopada 2014 r. dotyczącego technicznych specyfikacji interoperacyjności podsystemu „Infrastruktura” systemu kolei w Unii Europejskiej (Dz. Urz. UE L 356 z 12.12.2014, str. 1, z późn. zm. );
 2) rozporządzenia Komisji (UE) nr 1301/2014 z dnia 18 listopada 2014 r. w sprawie technicznych specyfikacji interoperacyjności podsystemu „Energia” systemu kolei w Unii (Dz. Urz. UE L 356 z 12.12.2014, str. 179, z późn. zm. );
 3) rozporządzenia Komisji (UE) 2016/919 z dnia 27 maja 2016 r. w sprawie technicznej specyfikacji interoperacyjności w zakresie podsystemów „Sterowanie” systemu kolei w Unii Europejskiej (Dz. Urz. UE L 158 z 15.06.2016, str. 1, z późn. zm. );
 4) rozporządzenia Komisji (UE) nr 1300/2014 z dnia 18 listopada 2014 r. w sprawie technicznych specyfikacji interoperacyjności odnoszących się do dostępności systemu kolei Unii dla osób niepełnosprawnych i osób o ograniczonej możliwości poruszania się (Dz. Urz. UE L 356 z 12.12.2014, str. 110);
 5) rozporządzenia Komisji (UE) nr 1303/2014 z dnia 18 listopada 2014 r. w sprawie technicznej specyfikacji interoperacyjności w zakresie aspektu „Bezpieczeństwo w tunelach kolejowych” systemu kolei w Unii Europejskiej (Dz. Urz. UE L 356 z 12.12.2014, str. 394, z późn. zm. ).
-Dziennik Ustaw – 2 – Poz. 1175
 2. Przy projektowaniu i robotach budowlanych budowli kolejowych, o których mowa w ust. 1, uwzględnia się systemy zarządzania bezpieczeństwem stosowane u zarządców infrastruktury.”;
 2) w § 13:
-a) w ust. 2 tabela 3.1 „Parametry eksploatacyjne linii kolejowych” otrzymuje brzmienie: Parametry eksploatacyjne linii kolejowych Lp. Kategoria linii kolejowej Obciążenie przewozami T Prędkość maksymalna [Tg/rok] pociągów pasażerskich V Prędkość maksymalna pociągów towarowych [km/h] V [km/h] 1 2 3 4 5 1 Magistralne (0) T ≥ 25 120 < V ≤ 250 80 < V ≤ 120 2 Pierwszorzędne (1) 10 ≤ T < 25 80 < V ≤ 120 60 < V ≤ 80 3 Drugorzędne (2) 3 ≤ T < 10 60 < V ≤ 80 50 <V ≤ 60 4 Znaczenia miejscowego (3) T < 3 V ≤ 60 V ≤ 50
+a) w ust. 2 tabela 3.1 „Parametry eksploatacyjne linii kolejowych” otrzymuje brzmienie: Parametry eksploatacyjne linii kolejowych Lp. Kategoria linii kolejowej Obciążenie przewozami T Prędkość maksymalna Prędkość maksymalna [Tg/rok] pociągów pasażerskich pociągów towarowych V [km/h] V [km/h] 1 2 3 4 5 1 Magistralne (0) T ≥ 25 120 < V ≤ 250 80 < V ≤ 120 2 Pierwszorzędne (1) 10 ≤ T < 25 80 < V ≤ 120 60 < V ≤ 80 3 Drugorzędne (2) 3 ≤ T < 10 60 < V ≤ 80 50 <V ≤ 60 4 Znaczenia miejscowego (3) T < 3 V ≤ 60 V ≤ 50
 b) dodaje się ust. 5 w brzmieniu: „5. W odniesieniu do budowli kolejowych, o których mowa w § 2a ust. 1, stosuje się także kategorie linii, o których mowa w pkt 4.2.1. „Kategorie linii według TSI” załącznika do rozporządzenia Komisji (UE) nr 1299/2014 z dnia 18 listopada 2014 r. dotyczącego technicznych specyfikacji interoperacyjności podsystemu „Infrastruktura” systemu kolei w Unii Europejskiej.”;
 3) w § 15 w ust. 5 w tabeli 3.2 „Warunki klasyfikacji torów kolejowych” w kolumnie 2 „dopuszczalna prędkość pociągów w km/h” liczbę „200” zastępuje się liczbą „250”;
 4) w § 98:

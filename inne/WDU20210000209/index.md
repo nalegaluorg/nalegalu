@@ -8,10 +8,10 @@ pos: 209
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lutego 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 209 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 21 stycznia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/209/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 21 stycznia 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Wywiadu
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 26 czerwca 2002 r. w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Wywiadu (Dz. U. z 2018 r. poz. 1582), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 24 grudnia 2019 r. zmieniającym rozporządzenie w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 2513).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 grudnia 2019 r. zmieniającego rozporządzenie w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 2513), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.”.
 Prezes Rady Ministrów: M. Morawiecki RozPoRządzenie PREZESA RADY MINISTRÓW z dnia 26 czerwca 2002 r.
-w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Wywiadu Na podstawie art. 48 ust. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27 i 2320) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Wywiadu Na podstawie art. 48 ust. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27 i 2320) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór legitymacji służbowej i innych dokumentów funkcjonariusza Agencji Wywiadu, zwanego dalej „funkcjonariuszem”;
 2) organy właściwe do wydawania, wymiany, unieważniania oraz dokonywania wpisów w legitymacji służbowej i innych dokumentach funkcjonariusza;
 3) przypadki, w których legitymacja służbowa lub inne dokumenty funkcjonariusza podlegają zwrotowi, wymianie lub unieważnieniu;
 4) tryb postępowania w przypadku utraty legitymacji służbowej lub innych dokumentów funkcjonariusza;
 5) sposób posługiwania się legitymacją lub innymi dokumentami przez funkcjonariusza.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) legitymacja legitymację służbową funkcjonariusza;
-2) książka zdrowia inny dokument funkcjonariusza;
-3) jednostka organizacyjna jednostkę organizacyjną, o której mowa w statucie Agencji Wywiadu.
+1) legitymacja – legitymację służbową funkcjonariusza;
+2) książka zdrowia – inny dokument funkcjonariusza;
+3) jednostka organizacyjna – jednostkę organizacyjną, o której mowa w statucie Agencji Wywiadu.
 § 3. Funkcjonariusz na czas pełnienia służby w Agencji Wywiadu, bezpośrednio po mianowaniu, otrzymuje:
 1) legitymację;
 2) książkę zdrowia.
@@ -81,9 +81,9 @@ w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Age
 § 16. 1. Legitymacje wydane funkcjonariuszom Urzędu Ochrony Państwa tracą ważność i podlegają zwrotowi organowi, o którym mowa w § 4 ust. 1.
 2. Książki zdrowia wydane funkcjonariuszom Urzędu Ochrony Państwa, do czasu zastąpienia ich nowymi, zachowują ważność. Obowiązujące dotychczas druki książek zdrowia wykorzystuje się do wyczerpania ich zapasów.
 § 17. Rozporządzenie wchodzi w życie z dniem 29 czerwca 2002 r.
-WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI WYWIADU do rozporządzenia Prezesa Rady Ministrów z dnia 26 czerwca 2002 r.
+Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 26 czerwca 2002 r.
 
-## Załącznik nr 1 — WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI WYWIADU I. OKŁADKA LEGITYMACJI Okładka wykonana ze skóry w kolorze czarnym, ze srebrnymi tłoczeniami:
+## Załącznik nr 1 — WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI WYWIADU WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI WYWIADU I. OKŁADKA LEGITYMACJI Okładka wykonana ze skóry w kolorze czarnym, ze srebrnymi tłoczeniami:
 
 1. RZECZPOSPOLITA POLSKA.
 2. Orzeł w koronie według wzoru określonego dla godła Rzeczypospolitej Polskiej.
@@ -124,5 +124,5 @@ b) AGENCJA WYWIADU.
 2) W przypadku znalezienia tej legitymacji należy niezwłocznie dostarczyć ją do najbliższej jednostki Policji. Nieuprawnione posługiwanie się legitymacją lub ukrywanie znalezionej legitymacji podlega odpowiedzialności karnej.
 3. Kod QR zawierający odnośnik do strony internetowej: www.aw.gov.pl/kontakt.
 4. Element graficzny w formie biało-czerwonej flagi umieszczony bezpośrednio pod kodem QR.
-2 rn kinzcąłaZ 8 9 01 11 21 31 41 51 71 81 91
+2 rn kinzcąłaZ – 91 –
 

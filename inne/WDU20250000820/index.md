@@ -29,13 +29,85 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie dnia 9 kwietnia 2010 o Służbie Więziennej (Dz. U. 2024 poz. 1869 1871 oraz 2025 poz. 179, 240 718) wprowadza się następujące zmiany:
 
+- **1)** 7 uchyla się pkt 1a;
+- **2)** 8:
+    - **a)** ust. 1 uchyla się pkt 1a,
+    - **b)** uchyla się ust. 1b;
+
+- **3)** uchyla się 11a–11c;
+- **4)** 16 uchyla się ust. 2a;
+- **5)** uchyla się rozdział 3a;
+- **6)** 24 ust. 1 otrzymuje brzmienie: „1. Służba Więzienna, celu realizacji zadań, o których mowa 2 ust. 1, 2 2b, oraz zadań wynikających odrębnych ustaw, jest uprawniona do przetwarzania:
+- **1)** informacji innych niż dane osobowe,
+- **2)** danych osobowych, a celu realizacji zadań, o których mowa 2 ust. 1 2, także danych, o których mowa 14 ust. 1 ustawy dnia 14 grudnia 2018 o ochronie danych osobowych przetwarzanych związku zapobieganiem zwalczaniem przestępczości (Dz. U. 2023 poz. 1206) – niezbędnych do realizacji tych zadań.”;
+- **7)** 32 ust. 1 skreśla się wyrazy „Szef IWSW,”;
+- **8)** 36 ust. 3 5 skreśla się wyrazy „ , Szefa IWSW”;
+- **9)** 38a ust. 2 skreśla się wyrazy „ , tym że Szef IWSW – do służby IWSW”;
+- **10)** uchyla się 38b;
+    - **b)** ust. 2 pkt 1 skreśla się wyrazy „oraz IWSW”;
+
+- **12)** 39g ust. 2 pkt 3 średnik zastępuje się kropką uchyla się pkt 4;
+- **13)** 42 uchyla się ust. 3a;
+- **14)** 43c uchyla się ust. 3a;
+- **15)** 43u:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Dyrektor okręgowy, Rektor właściwy komendant zgłaszają potrzeby szkoleniowe komendantowi wyznaczonemu przez Dyrektora Generalnego, który prowadzi nabór kandydatów na szkolenie zawodowe elektronicznym systemie obsługi szkolenia.”,
+    - **b)** ust. 3 skreśla się wyrazy „ , Szefa IWSW”;
+
+- **16)** 43zb ust. 3 skreśla się wyrazy „ , Szefa IWSW”;
+- **17)** 43zd uchyla się ust. 2;
+- **18)** 43zn:
+    - **a)** uchyla się ust. 1a,
+    - **b)** ust. 6 uchyla się pkt 1a;
+
+- **19)** 47 ust. 1 skreśla się zdanie trzecie;
+- **20)** 48:
+    - **a)** uchyla się ust. 1a,
+    - **b)** ust. 3 skreśla się wyrazy „albo 1a”;
+
+- **21)** 50:
+    - **a)** ust. 2 uchyla się pkt 3,
+    - **b)** uchyla się ust. 3a;
+
+- **22)** 58 uchyla się ust. 4–6;
+- **23)** 63:
+    - **a)** ust. 1 uchyla się pkt 2 4,
+    - **b)** ust. 2: – pkt 1 skreśla się wyrazy „oraz Szefa IWSW”, – uchyla się pkt 3;
+
+- **24)** 64 uchyla się ust. 1a, 3 4;
+- **25)** 67a ust. 1 uchyla się pkt 2;
+- **26)** 72 ust. 4 skreśla się wyrazy „albo Szef IWSW”;
+- **27)** 88:
+    - **a)** pkt 1 skreśla się wyrazy „i Szefie IWSW”,
+    - **b)** uchyla się pkt 3;
+
+- **28)** 90 ust. 4 otrzymuje brzmienie: „4. Jeżeli opinia została wydana przez Ministra Sprawiedliwości, Dyrektor Generalny może zwrócić się do Mini31) 173 ust. 3 pkt 2 otrzymuje brzmienie: „2) Dyrektorowi Generalnemu jego zastępcom oraz Rektorowi – dwie normy.”;
+- **32)** 192:
+    - **a)** pkt 1 skreśla się wyrazy „oraz Szefa IWSW jego zastępców”,
+    - **b)** uchyla się pkt 3;
+
+- **33)** 231 ust. 8 pkt 1 skreśla się wyrazy „Szefowi IWSW, zastępcy Szefa IWSW,” oraz „ , funkcjonariuszom IWSW”;
+- **34)** 240a ust. 2 skreśla się wyrazy „ , Szefa IWSW, zastępcy Szefa IWSW”;
+- **35)** 246 uchyla się ust. 2a;
+- **36)** 250:
+    - **a)** ust. 1a zdanie pierwsze otrzymuje brzmienie: „Dyrektor Generalny a na Uczelni – Rektor, drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony dłuższy niż 3 miesiące.”,
+    - **b)** ust. 1c skreśla się wyrazy „oraz IWSW”.
+
 **Art. 2.** W ustawie dnia 16 września 1982 o pracownikach urzędów państwowych (Dz. U. 2023 poz. 1917 oraz 2025 poz. 39 620) 1 ust. 2 uchyla się pkt 5d.
 
 **Art. 3.** W ustawie dnia 13 października 1995 o zasadach ewidencji identyfikacji podatników płatników (Dz. U. 2025 poz. 237 769) 15:
 
+- **1)** ust. 2 uchyla się pkt 1e;
+- **2)** ust. 3 pkt 3 skreśla się wyrazy „1e,”.
+
 **Art. 4.** W ustawie dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. U. 2024 poz. 1251) wprowadza się następujące zmiany:
 
+- **1)** 80c ust. 1 uchyla się pkt 7b;
+- **2)** 100ah ust. 1 uchyla się pkt 9a.
+
 **Art. 5.** W ustawie dnia 29 sierpnia 1997 – Ordynacja podatkowa (Dz. U. 2025 poz. 111, 497, 621, 622 769) wprowadza się następujące zmiany:
+
+- **1)** 297 § 1 uchyla się pkt 9a;
+- **2)** 298 pkt 5b skreśla się wyrazy „ , Inspektoratowi Wewnętrznemu Służby Więziennej”.
 
 **Art. 6.** W ustawie dnia 29 sierpnia 1997 – Prawo bankowe (Dz. U. 2024 poz. 1646, późn. zm. ) 105 ust. 1 pkt 2 lit. zd przecinek zastępuje się średnikiem uchyla się lit. ze.
 
@@ -54,6 +126,9 @@ source: "isap-pdf"
 **Art. 14.** W ustawie dnia 5 listopada 2009 o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. 2025 poz. 379) 9f ust. 1 uchyla się pkt 12c.
 
 **Art. 15.** W ustawie dnia 5 sierpnia 2010 o ochronie informacji niejawnych (Dz. U. 2024 poz. 632 1222) wprowadza się następujące zmiany:
+
+- **1)** 23 ust. 3 pkt 1 skreśla się wyrazy „Szefa Inspektoratu Wewnętrznego Służby Więziennej,”;
+- **2)** 72 ust. 1 pkt 6 średnik zastępuje się kropką uchyla się pkt 7.
 
 **Art. 16.** W ustawie dnia 16 września 2011 o wymianie informacji organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. 2023 poz. 783) 1 ust. 2 uchyla się pkt 2b.
 

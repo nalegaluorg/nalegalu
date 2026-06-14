@@ -8,7 +8,7 @@ pos: 855
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
@@ -29,6 +29,90 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2:
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) dane statystyczne – dane dotyczące zjawisk, zdarzeń, obiektów i działalności podmiotów gospodarki narodowej oraz życia i sytuacji osób fizycznych, w tym dane osobowe, pozyskane bezpośrednio od respondentów albo z systemów informacyjnych administracji publicznej i rejestrów urzędowych, od momentu ich zebrania na potrzeby wykonywania zadań statystyki publicznej;”,
+    - **b)** uchyla się pkt 4 i 5,
+    - **c)** pkt 7 otrzymuje brzmienie: „7) program badań statystycznych statystyki publicznej – ustalony przez Radę Ministrów, w trybie określonym w rozdziale 2, szczegółowy zakres podmiotowy i przedmiotowy badań statystycznych;”,
+    - **d)** po pkt 8 dodaje się pkt 8a i 8b w brzmieniu: „8a) dane jednostkowe identyfikowalne – dane statystyczne zawierające informacje dotyczące konkretnego podmiotu gospodarki narodowej albo osoby fizycznej, identyfikujące bezpośrednio ten podmiot albo osobę według nazwy, imienia i nazwiska, adresu lub publicznie dostępnego numeru identyfikacyjnego oraz pozwalające na pośrednią identyfikację tego podmiotu albo osoby z użyciem innych środków niż środki pozwalające na bezpośrednią identyfikację, z wyłączeniem środków wymagających nadmiernych kosztów, czasu lub działań;
+
+- **8b)** dane jednostkowe nieidentyfikowalne – dane statystyczne zawierające informacje dotyczące konkretnego podmiotu gospodarki narodowej albo osoby fizycznej, niepozwalające na bezpośrednią ani pośrednią identyfikację tego podmiotu albo osoby;”,
+    - **e)** pkt 9 otrzymuje brzmienie: „9) dane jednostkowe – dane jednostkowe identyfikowalne i dane jednostkowe nieidentyfikowalne;”,
+    - **f)** uchyla się pkt 10,
+    - **g)** po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) respondent – osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, przekazującą dane dla celów statystycznych;”,
+    - **h)** pkt 12 i 13 otrzymują brzmienie: „12) rejestry urzędowe – rejestry publiczne w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114) oraz inne rejestry i ewidencje prowadzone na podstawie ustaw lub wydanych na ich podstawie aktów wykonawczych, zawierające informacje o podmiotach gospodarki narodowej i ich działalności, informacje o osobach fizycznych, ich życiu i sytuacji oraz dotyczące zjawisk, zdarzeń i obiektów;
+
+- **13)** systemy informacyjne administracji publicznej – systemy zbierania, gromadzenia i przetwarzania informacji przez organy administracji publicznej, Zakład Ubezpieczeń Społecznych, Narodowy Fundusz Zdrowia, Komisję Nadzoru Finansowego, organy rejestrowe, inne państwowe lub samorządowe osoby prawne oraz inne podmioty prowadzące rejestry urzędowe;”,
+    - **i)** po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) dane administracyjne – informacje i dane zgromadzone w rejestrach i systemach, o których mowa w pkt 12 i 13;”;
+
+- **2)** art. 5 otrzymuje brzmienie: „Art. 5. 1. W ramach statystyki publicznej:
+- **1)** dane są zbierane ze wszystkich dostępnych źródeł określonych w ustawie i wydanych na jej podstawie aktach wykonawczych albo w odrębnych ustawach;
+- **2)** są gromadzone dane statystyczne od podmiotów gospodarki narodowej i o tych podmiotach oraz ich działalności, a także dane statystyczne od osób fizycznych i o tych osobach, ich życiu i sytuacji, oraz dane statystyczne dotyczące zjawisk, zdarzeń i obiektów.
+
+2. Przepis ust. 1 nie dotyczy danych chronionych tajemnicą zawodową, chyba że przepis odrębnej ustawy zezwala na wykorzystanie tego rodzaju danych dla celów statystycznych.”;
+
+- **3)** w art. 6:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W ramach prowadzonych badań statystycznych dane od respondentów są zbierane metodą obserwacji pełnej, w tym w spisach powszechnych, lub metodą obserwacji reprezentacyjnej na wylosowanej lub dobranej celowo próbie danej zbiorowości.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Badania statystyczne z udziałem osób fizycznych, z wyłączeniem spisów powszechnych, są prowadzone na zasadzie udziału dobrowolnego.”;
+
+- **4)** w art. 7 ust. 1 otrzymuje brzmienie: „1. Jeżeli badanie statystyczne jest prowadzone na zasadzie obowiązku, respondenci są obowiązani do udzielenia i przekazania prowadzącemu badanie pełnych, zgodnych ze stanem faktycznym, rzetelnych i wyczerpujących danych, zgodnie ze szczegółowym zakresem, w formie, postaci i terminach określonych w programie badań statystycznych statystyki publicznej.”;
+- **5)** art. 8 otrzymuje brzmienie: „Art. 8. Dane ujawniające pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub filozoficzne, przynależność wyznaniową, partyjną lub związkową, jak również dane o stanie zdrowia, kodzie genetycznym, nałogach lub życiu seksualnym oraz dane dotyczące skazań, orzeczeń o ukaraniu i nałożonych mandatach karnych, a także innych orzeczeń wydanych w postępowaniu sądowym lub administracyjnym nie mogą być zbierane na zasadzie obowiązku w badaniach statystycznych prowadzonych z udziałem osób fizycznych.”;
+- **6)** art. 10 otrzymuje brzmienie: „Art. 10. Dane jednostkowe identyfikowalne zebrane w badaniach statystycznych podlegają bezwzględnej ochronie. Dane te mogą być wykorzystywane wyłącznie do opracowań, zestawień i analiz statystycznych oraz do tworzenia przez Prezesa Głównego Urzędu Statystycznego operatu do badań statystycznych; udostępnianie lub wykorzystywanie tych danych dla innych niż podane w ustawie celów jest zabronione (tajemnica statystyczna).”;
+- **7)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Pracownicy służb statystyki publicznej, rachmistrze spisowi, ankieterzy statystyczni oraz inne osoby wykonujące czynności w imieniu i na rzecz statystyki publicznej, mający bezpośredni dostęp do danych jednostkowych, są obowiązani do bezwzględnego przestrzegania tajemnicy statystycznej i mogą być dopuszczeni do wykonywania tych czynności po złożeniu Prezesowi Głównego Urzędu Statystycznego, dyrektorowi urzędu statystycznego albo kierującemu inną jednostką służb statystyki publicznej pisemnego przyrzeczenia następującej treści: „Przyrzekam, że będę wykonywać swoje prace na rzecz statystyki publicznej z całą rzetelnością, zgodnie z etyką zawodową statystyka, a poznane w czasie ich wykonywania dane jednostkowe zachowam w tajemnicy wobec osób trzecich.”.
+
+2. W przypadku prowadzenia badań statystycznych przez organ lub podmiot niestanowiący służb statystyki publicznej przepis ust. 1 stosuje się do osób mających bezpośredni dostęp do danych jednostkowych, z tym że przyrzeczenie jest składane kierującemu jednostką organizacyjną danego organu lub podmiotu.”;
+
+- **8)** w art. 13 ust. 1–5 otrzymują brzmienie: „1. Organy administracji publicznej, Zakład Ubezpieczeń Społecznych, Narodowy Fundusz Zdrowia, Komisja Nadzoru Finansowego, a także inne państwowe lub samorządowe osoby prawne, organy rejestrowe oraz inne podmioty prowadzące rejestry urzędowe przekazują lub udostępniają nieodpłatnie służbom statystyki publicznej zgromadzone dane administracyjne w szczegółowym zakresie, postaci i terminach, określonych w programie badań statystycznych statystyki publicznej, w szczególności w postaci zbiorów danych z systemów teleinformatycznych, w tym wyników pomiarów, danych monitoringu środowiska, a w przypadku braku systemu teleinformatycznego – w innej utrwalonej postaci.
+
+2. Organy i podmioty, o których mowa w ust. 1, przekazują dane administracyjne łącznie z informacjami objaśniającymi zawartość informacyjną tych danych (metadane).
+
+3. Organy i podmioty, o których mowa w ust. 1, są obowiązane do:
+
+- **1)** stosowania standardów klasyfikacyjnych, numeru identyfikacyjnego i oznaczeń kodowych przyjętych w rejestrze terytorialnym, o których mowa w rozdziale 6;
+- **2)** przekazywania, na wniosek Prezesa Głównego Urzędu Statystycznego, informacji o zawartości informacyjnej eksploatowanych systemów informacyjnych administracji publicznej oraz rejestrów urzędowych;
+- **3)** informowania Prezesa Głównego Urzędu Statystycznego o projektowanym zakresie informacyjnym systemów informacyjnych administracji publicznej oraz rejestrów urzędowych na etapie ich tworzenia lub modernizacji.
+
+4. Prezes Głównego Urzędu Statystycznego jest uprawniony do zgłaszania organom i podmiotom, o których mowa w ust. 1, wniosków dotyczących zawartości informacyjnej i wymogów jakości danych administracyjnych w celu umożliwienia wykorzystania tych danych na potrzeby statystyki publicznej.
+
+5. Przy wyborze źródeł danych na potrzeby statystyki publicznej w pierwszej kolejności uwzględnia się dane administracyjne.”;
+
+- **9)** w art. 15 w ust. 3 pkt 6 otrzymuje brzmienie: „6) opiniowanie kosztów badań statystycznych oraz metodyki ich szacowania, o których mowa w art. 50 ust. 1a i 1c.”;
+- **10)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Program badań statystycznych statystyki publicznej ustala corocznie Rada Ministrów, w drodze rozporządzenia, określając dla każdego badania:
+- **1)** temat,
+- **2)** organ lub podmiot prowadzący,
+- **3)** cykliczność,
+- **4)** cel,
+- **5)** szczegółowy zakres podmiotowy i przedmiotowy,
+- **6)** źródła danych,
+- **7)** podmioty przekazujące dane,
+- **8)** informacje dotyczące przekazywanych danych, obejmujące:
+    - **a)** zakres danych ze wskazaniem podmiotów przekazujących te dane, w tym szczegółowy zakres danych osobowych z katalogu danych wymienionych w art. 35b ust. 1,
+    - **b)** poziom agregacji,
+    - **c)** obligatoryjność albo dobrowolność przekazania,
+    - **d)** postać i formę,
+    - **e)** częstotliwość, termin i miejsce przekazania,
+    - **f)** metody obserwacji, o których mowa w art. 6 ust. 1,
+
+- **9)** rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia – mając na celu zapewnienie przeprowadzenia badań o istotnym znaczeniu dla obserwacji procesów demograficznych, społecznych, gospodarczych i środowiska naturalnego, a w szczególności badań stałych pozwalających na obserwację ciągłą podstawowych dziedzin życia i występujących w nim zjawisk, badań cyklicznych, w tym spisów powszechnych, badań gwarantujących porównywalność wyników, w przypadku gdy dotyczą one zmiennych w czasie obiektów obserwacji statystycznej lub gdy zmianie ulega metodologia badania oraz badań koniecznych dla wykonania przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych.
+
+2. Ustalając w programie badań statystycznych statystyki publicznej szczegółowy zakres przekazywanych w określonym badaniu statystycznym danych osobowych, uwzględnia się ograniczenia określone w przepisach rozdziału 4a.
+
+3. Na etapie przygotowywania projektu programu badań statystycznych statystyki publicznej dokonuje się wyboru źródeł danych, biorąc pod uwagę jakość danych, w szczególności ich aktualność i obciążenia ponoszone przez respondentów.”;
+
+- **11)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. 1. Przekazywanie danych, o których mowa w art. 18 ust. 1 pkt 8 lit. a, następuje w postaci elektronicznej, w szczególności za pośrednictwem elektronicznej platformy gromadzenia danych statystycznych, o której mowa w art. 28a ust. 2, a w przypadkach wskazanych w programie badań statystycznych statystyki publicznej – w innej formie lub postaci.
+
+2. Prowadzący badanie statystyczne ustala szczegółowy format przekazywanych danych na podstawie informacji, o których mowa w art. 18 ust. 1 pkt 8, określonych w programie badań statystycznych statystyki publicznej.
+
+3. Szczegółowy format przekazywanych danych jest udostępniany na stronie internetowej Głównego Urzędu Statystycznego oraz dodatkowo, w zakresie prowadzonych badań statystycznych, na stronie internetowej organu lub podmiotu prowadzącego badania statystyczne w trybie określonym w art. 20 ust. 2 pkt 1, do dnia 31 grudnia roku poprzedzającego rok sprawozdawczy.”;
+
+- **12)** uchyla się art. 19;
+- **13)** w art. 20:
+    - **a)** w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) stosowania zasad, o których mowa w art. 25a.”,
+    - **b)** dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku badania statystycznego prowadzonego w trybie, o którym mowa w ust. 2 pkt 1, Prezes Głównego Urzędu Statystycznego, na wniosek prowadzącego badanie statystyczne, udostępnia prowadzącemu badanie z operatu do badań statystycznych dane adresowe podmiotów wylosowanych lub wybranych na podstawie wskazanych przez prowadzącego badanie cech, z wyłączeniem danych adresowych osób fizycznych nieprowadzących działalności gospodarczej.
+
+5. W przypadku badania statystycznego prowadzonego w trybie, o którym mowa w ust. 2 pkt 2 albo 3, dane jednostkowe są dostępne dla prowadzących badanie niezależnie od organu lub podmiotu, który je zebrał.”;
+
+- **14)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „Rozdział 2a Współdziałanie Prezesa Głównego Urzędu Statystycznego z Prezesem Narodowego Banku Polskiego
+
 **Art. 21a.**
 
 1. Prezes Głównego Urzędu Statystycznego i Prezes Narodowego Banku Polskiego współdziałają ze sobą, prowadząc badania statystyczne na podstawie niniejszej ustawy, ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036 oraz z 2015 r. poz. 855) oraz ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2012 r. poz. 826, z 2013 r. poz. 1036 oraz z 2015 r. poz. 855).
@@ -44,7 +128,61 @@ source: "isap-pdf"
 
 4. Wymiana danych, o których mowa w ust. 3, następuje w trybie określonym w art. 23 ust. 11 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim.
 
-**Art. 21b.** Ujęcie w projekcie programu badań statystycznych statystyki publicznej badań statystycznych prowadzonych przez Narodowy Bank Polski następuje na wniosek Prezesa Narodowego Banku Polskiego skierowany do Prezesa Głównego Urzędu Statystycznego.”; „Art. 22. Służby statystyki publicznej stanowią Prezes Głównego Urzędu Statystycznego, podlegli mu dyrektorzy urzędów statystycznych, jednostki przez niego nadzorowane utworzone na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ) oraz jednostki, o których mowa w art. 27.”;
+**Art. 21b.** Ujęcie w projekcie programu badań statystycznych statystyki publicznej badań statystycznych prowadzonych przez Narodowy Bank Polski następuje na wniosek Prezesa Narodowego Banku Polskiego skierowany do Prezesa Głównego Urzędu Statystycznego.”;
+
+- **15)** art. 22 otrzymuje brzmienie: „Art. 22. Służby statystyki publicznej stanowią Prezes Głównego Urzędu Statystycznego, podlegli mu dyrektorzy urzędów statystycznych, jednostki przez niego nadzorowane utworzone na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ) oraz jednostki, o których mowa w art. 27.”;
+- **16)** w art. 25 w ust. 1 pkt 1 otrzymuje brzmienie: „1) rozpoznawanie zapotrzebowania na informacje i analizy statystyczne, koordynowanie prac i przygotowywanie projektu programu badań statystycznych statystyki publicznej oraz przedstawianie go Radzie;”;
+- **17)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a. Prezes Głównego Urzędu Statystycznego, wykonując zadania określone w ustawie, kieruje się zasadami niezależności zawodowej, bezstronności, rzetelności i odpowiedzialności za wysoką jakość statystyk krajowych i międzynarodowych, zgodnie z europejskim kodeksem praktyk statystycznych, o którym mowa w art. 11 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 223/2009 z dnia 11 marca 2009 r. w sprawie statystyki europejskiej oraz uchylającego rozporządzenie Parlamentu Europejskiego i Rady (WE, Euratom) nr 1101/2008 w sprawie przekazywania do Urzędu Statystycznego Wspólnot Europejskich danych statystycznych objętych zasadą poufności, rozporządzenie Rady (WE) nr 322/97 w sprawie statystyk Wspólnoty oraz decyzję Rady 89/382/EWG, Euratom w sprawie ustanowienia Komitetu ds. Programów Statystycznych Wspólnot Europejskich (Dz. Urz. UE L 87 z 31.03.2009, str. 164), zwanego dalej „rozporządzeniem nr 223/2009”.”;
+- **18)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Badania statystyczne mogą być prowadzone z udziałem rachmistrzów spisowych, ankieterów statystycznych i rzeczoznawców.
+
+2. Zadaniem rachmistrzów spisowych jest zbieranie danych statystycznych w spisach powszechnych, a ankieterów statystycznych zbieranie danych w innych badaniach statystycznych.
+
+3. Zadaniem rzeczoznawców jest przygotowywanie opinii i ocen dotyczących określonego przedmiotu badań statystycznych.
+
+4. Ankieterem statystycznym może być osoba pełnoletnia, która posiada co najmniej wykształcenie średnie, niekarana, korzystająca z pełni praw publicznych. Ankieter statystyczny może wykonywać czynności w ramach stosunku pracy lub na podstawie umów cywilnoprawnych. Ankieter statystyczny przy wykonywaniu czynności jest obowiązany do posiadania i okazywania legitymacji wydanej przez dyrektora urzędu statystycznego.
+
+5. Przepis ust. 4 stosuje się do rzeczoznawców, z tym że rzeczoznawca:
+
+- **1)** posiada wiedzę specjalistyczną w dziedzinie stanowiącej przedmiot badań statystycznych, w zakresie którego przygotowuje opinie i oceny;
+- **2)** czynności wykonuje na podstawie umów cywilnoprawnych.
+
+6. Zasady i tryb powoływania rachmistrzów spisowych określają odrębne ustawy, o których mowa w art. 9 ust. 1.
+
+7. Rachmistrzom spisowym i ankieterom statystycznym w czasie wykonywania czynności określonych w ust. 2 przysługuje ochrona prawna przewidziana dla funkcjonariuszy publicznych.”;
+
+- **19)** po art. 28 dodaje się art. 28a w brzmieniu: „Art. 28a. 1. Prezes Głównego Urzędu Statystycznego prowadzi system teleinformatyczny, na który składają się elektroniczna platforma gromadzenia danych statystycznych oraz elektroniczna platforma udostępniania wynikowych informacji statystycznych i innych zasobów informacyjnych.
+
+2. Elektroniczna platforma gromadzenia danych statystycznych umożliwia w szczególności:
+
+- **1)** uwierzytelnianie respondentów;
+- **2)** komunikowanie się służb statystyki publicznej z respondentami;
+- **3)** przekazywanie danych przez respondentów;
+- **4)** przekazywanie danych z systemów informacyjnych administracji publicznej i rejestrów urzędowych oraz z systemów informacyjnych Narodowego Banku Polskiego.
+
+3. Elektroniczna platforma udostępniania wynikowych informacji statystycznych i innych zasobów informacyjnych umożliwia w szczególności:
+
+- **1)** udostępnianie wynikowych informacji statystycznych;
+- **2)** komunikowanie się odbiorców wynikowych informacji statystycznych ze służbami statystyki publicznej;
+- **3)** udostępnianie podstawowych standardów klasyfikacyjnych i ich interpretacji;
+- **4)** udostępnianie danych z krajowych rejestrów urzędowych prowadzonych przez Prezesa Głównego Urzędu Statystycznego, o których mowa w art. 41 ust. 1;
+- **5)** przekazywanie danych statystycznych na potrzeby Europejskiego Systemu Statystycznego i organizacji międzynarodowych.
+
+4. Dostęp do prowadzonej przez Prezesa Głównego Urzędu Statystycznego elektronicznej platformy udostępniania wynikowych informacji statystycznych i innych zasobów informacyjnych w zakresie określonym w ust. 3 pkt 1–4 jest nieodpłatny.”;
+
+- **20)** uchyla się art. 29;
+- **21)** art. 30 otrzymuje brzmienie: „Art. 30. 1. Podmioty gospodarki narodowej są obowiązane do:
+- **1)** posiadania numeru identyfikacyjnego krajowego rejestru urzędowego podmiotów gospodarki narodowej, o którym mowa w art. 41 ust. 1 pkt 1, i posługiwania się nim przy przekazywaniu danych wykorzystywanych dla celów statystycznych;
+- **2)** stosowania w prowadzonej ewidencji, dokumentacji oraz rachunkowości standardów klasyfikacyjnych, o których mowa w rozdziale 6;
+- **3)** przekazania nieodpłatnie danych dotyczących prowadzonej działalności i jej wyników zgodnie z programem badań statystycznych statystyki publicznej oraz w formacie udostępnionym zgodnie z art. 18a ust. 3.
+
+2. Przekazywanie danych, o których mowa w ust. 1 pkt 3, odbywa się:
+
+- **1)** w postaci elektronicznej, w szczególności za pośrednictwem elektronicznej platformy gromadzenia danych statystycznych, a w przypadkach wskazanych w programie badań statystycznych statystyki publicznej – w innej formie lub postaci;
+- **2)** w postaci wywiadu przeprowadzanego przez ankietera statystycznego metodą wywiadu bezpośredniego lub wywiadu telefonicznego.”;
+- **22)** art. 30a otrzymuje brzmienie: „Art. 30a. Mikroprzedsiębiorca w rozumieniu art. 2 ust. 3 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1) za rok kalendarzowy, w którym uzyskał wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym, podlega obowiązkowi przekazywania informacji i danych statystycznych, o których mowa w art. 30 ust. 1 pkt 3, jeżeli obowiązek ich przekazywania wynika z umów i zobowiązań międzynarodowych lub przepisów prawa Unii Europejskiej.”;
+- **23)** uchyla się art. 31;
+- **24)** uchyla się art. 35;
+- **25)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „Rozdział 4a Przetwarzanie danych osobowych dla celów statystycznych
 
 **Art. 35a.**
 
@@ -61,6 +199,7 @@ source: "isap-pdf"
 - **3)** płeć;
 - **4)** numer PESEL;
 - **5)** obywatelstwo;
+- **6)** narodowość;
 - **7)** pochodzenie etniczne;
 - **8)** pochodzenie rasowe;
 - **9)** wyznanie, przynależność do kościoła lub związku wyznaniowego;
@@ -105,6 +244,7 @@ source: "isap-pdf"
 - **22)** budżet czasu;
 - **23)** subiektywne oceny dotyczące jakości życia i sytuacji społeczno-ekonomicznej;
 - **24)** pomoc społeczną, w tym beneficjentów pomocy społecznej;
+- **25)** ubóstwo i wykluczenie społeczne;
 - **26)** wspieranie rodziny i pieczę zastępczą;
 - **27)** świadczenia na rzecz rodziny;
 - **28)** opiekę nad dziećmi i młodzieżą;
@@ -129,6 +269,21 @@ source: "isap-pdf"
 
 **Art. 35c.** Służby statystyki publicznej przetwarzają dane osobowe określone w art. 35b ust. 1 oraz informacje o życiu i sytuacji osób fizycznych lub o wybranych aspektach życia i sytuacji tych osób, o których mowa w art. 35b ust. 2, pochodzące z systemów informacyjnych administracji publicznej i rejestrów urzędowych, prowadzonych bezpośrednio lub przez jednostki podległe i nadzorowane przez:
 
+- **1)** ministrów właściwych do spraw:
+    - **a)** wewnętrznych – z rejestru PESEL i centralnej ewidencji pojazdów,
+    - **b)** finansów publicznych – z systemu podatkowego,
+    - **c)** pracy, zabezpieczenia społecznego i rodziny – z systemu monitoringu świadczeń społecznych (pomocy społecznej, wspierania rodziny i pieczy zastępczej, świadczeń z funduszu alimentacyjnego) i elektronicznego krajowego systemu monitoringu orzekania o niepełnosprawności,
+    - **d)** zdrowia – z systemu informacji w ochronie zdrowia,
+    - **e)** oświaty i wychowania – z systemu informacji oświatowej,
+    - **f)** nauki i szkolnictwa wyższego – ze zintegrowanego systemu informacji o nauce i szkolnictwie wyższym,
+
+- **2)** Zakład Ubezpieczeń Społecznych, Prezesa Kasy Rolniczego Ubezpieczenia Społecznego, Narodowy Fundusz Zdrowia, Szefa Urzędu do Spraw Cudzoziemców, Głównego Inspektora Weterynarii, Państwową Inspekcję Farmaceutyczną, Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych oraz Agencję Restrukturyzacji i Modernizacji Rolnictwa – z systemów i rejestrów związanych z ich działalnością ustawową,
+- **3)** Prezesa Głównego Urzędu Statystycznego – z krajowych rejestrów urzędowych, o których mowa w art. 41 ust. 1,
+- **4)** organy administracji rządowej w województwie – z systemów i rejestrów związanych z ich działalnością ustawową lub statutową,
+- **5)** organy jednostek samorządu terytorialnego – z ewidencji gruntów i budynków, rejestrów wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę, rejestrów mieszkańców, rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego, ewidencji podatkowej nieruchomości, rejestrów bezrobotnych i poszukujących pracy, systemów pomocy społecznej, świadczeń rodzinnych i świadczeń z funduszu alimentacyjnego, elektronicznego krajowego systemu monitoringu orzekania o niepełnosprawności,
+- **6)** sądy okręgowe – z ewidencji i systemów dotyczących orzeczonych rozwodów i separacji oraz w zakresie informacji dotyczących przysposobienia,
+- **7)** samorządy zawodowe – z rejestrów i ewidencji dotyczących osób wykonujących określone zawody – w szczegółowym zakresie określonym w programie badań statystycznych statystyki publicznej.
+
 **Art. 35d.** Służby statystyki publicznej po opracowaniu zebranych danych osobowych, nie dłużej jednak niż po upływie 10 lat od zebrania tych danych, są obowiązane do przechowywania danych dotyczących osób fizycznych wyłącznie w postaci uniemożliwiającej identyfikację osoby, której dotyczą (anonimizacja), z wyjątkiem danych osobowych gromadzonych i przechowywanych w formie operatów do badań statystycznych, o których mowa w art. 35f.
 
 **Art. 35e.** Gromadzenie w jednym zbiorze danych wszystkich zebranych przez służby statystyki publicznej danych dotyczących konkretnej osoby fizycznej, pochodzących z różnych badań statystycznych i różnych źródeł, które w połączeniu mogłyby służyć do charakterystyki lub oceny tej osoby – jest zabronione.
@@ -140,6 +295,14 @@ source: "isap-pdf"
 2. Operaty do badań statystycznych, o których mowa w ust. 1, podlegają stałej i bieżącej aktualizacji w celu umożliwienia obserwacji statystycznej określonego zjawiska w czasie i przestrzeni, z zachowaniem szczególnych warunków bezpieczeństwa i bezwzględnej ochrony danych przewidzianej w art. 10.
 
 **Art. 35g.** Przepisy art. 35a–35e stosuje się do innych organów i podmiotów prowadzących badania statystyczne, o których mowa w art. 20.”;
+
+- **26)** art. 37 i art. 38 otrzymują brzmienie: „Art. 37. Wynikowe informacje statystyczne są:
+- **1)** dostępne w ramach prowadzonej przez Prezesa Głównego Urzędu Statystycznego elektronicznej platformy udostępniania wynikowych informacji statystycznych i innych zasobów informacyjnych;
+- **2)** publikowane w wydawnictwach Głównego Urzędu Statystycznego i urzędów statystycznych oraz innych organów i podmiotów prowadzących badania statystyczne;
+- **3)** ogłaszane w dziennikach urzędowych, jeżeli przepis szczególny tak stanowi;
+- **4)** podawane do wiadomości w środkach masowego przekazu;
+- **5)** opracowywane i przekazywane na potrzeby Unii Europejskiej i organizacji międzynarodowych, w formie i trybie określonych w przepisach Unii Europejskiej dotyczących statystyk oraz wiążących Rzeczpospolitą Polską umowach międzynarodowych;
+- **6)** dostępne w innych formach niż wymienione w pkt 1–5.
 
 **Art. 38.**
 
@@ -154,6 +317,7 @@ source: "isap-pdf"
 2. Dane udostępnione zgodnie z ust. 1 mogą być wykorzystane wyłącznie w celu wskazanym we wniosku, z zachowaniem zasad, o których mowa w art. 38 ust. 1 oraz w rozporządzeniu nr 223/2009.”;
 
 - **28)** art. 39 otrzymuje brzmienie: „Art. 39. Prezes Głównego Urzędu Statystycznego zapewnia przechowywanie zgromadzonych danych zgodnie z zasadami określonymi w art. 10 i art. 35d–35f.”;
+- **29)** w art. 50:
     - **a)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Prezes Głównego Urzędu Statystycznego, przedstawiając Radzie projekt programu badań statystycznych statystyki publicznej zgodnie z art. 25 ust. 1 pkt 1, przedstawia także koszty badań statystycznych na kolejny rok, ze wskazaniem szczegółowo źródeł ich finansowania.
 
 1b. Koszty badań statystycznych, o których mowa w ust. 1a, są publikowane na stronie internetowej Głównego Urzędu Statystycznego, w formie skorygowanego planu wydatków na badania statystyczne, po ogłoszeniu ustawy budżetowej na dany rok.
@@ -165,13 +329,29 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036) w art. 23 wprowadza się następujące zmiany:
 
+- **1)** użyty w ust. 5–8 w tej samej liczbie i przypadku wyraz „indywidualne” zastępuje się użytym w odpowiedniej liczbie i przypadku wyrazem „jednostkowe”;
+- **2)** ust. 10 otrzymuje brzmienie: „10. Wymiana między Narodowym Bankiem Polskim i Głównym Urzędem Statystycznym zebranych danych jednostkowych nieidentyfikowalnych, a w szczególnych przypadkach wynikających z uczestnictwa w Europejskim Systemie Banków Centralnych (ESBC) i Europejskim Systemie Statystycznym (ESS) danych jednostkowych identyfikowalnych podmiotów gospodarki narodowej, oraz wyników agregacji tych danych odbywa się nieodpłatnie, na zasadzie wzajemności, w zakresie niezbędnym do wykonywania ustawowo określonych zadań, z zachowaniem tajemnic ustawowo chronionych.”.
+
 **Art. 3.** W ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2012 r. poz. 826 oraz z 2013 r. poz. 1036) art. 31 otrzymuje brzmienie: „Art. 31. Narodowy Bank Polski jest obowiązany do przestrzegania tajemnicy w zakresie danych jednostkowych uzyskanych od banków i rezydentów, w wykonaniu obowiązków określonych w art. 30 ust. 1, na zasadach określonych w art. 23 ust. 5–7 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036 oraz z 2015 r. poz. 855).”.
 
 **Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2015 r. poz. 45 i 357) art. 63 otrzymuje brzmienie: „Art. 63. Główny Urząd Statystyczny pozyskuje dane z bazy danych SIO zgodnie ze szczegółowym zakresem, w formie, postaci i terminach określonych w programie badań statystycznych statystyki publicznej, ustalonym na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej.”.
 
-**Art. 5.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636 i 788) w art. 23 w ust. 2 pkt 1 otrzymuje brzmienie: „1) dane statystyczne, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm. );”. raz pierwszy do programu badań statystycznych statystyki publicznej na rok 2018. 2. Format, o którym mowa w art. 18a ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zostanie udostępniony po raz pierwszy do dnia 31 grudnia 2017 r. odpowiednio na stronie internetowej Głównego Urzędu Statystycznego i na stronie internetowej organu lub podmiotu, o których mowa w art. 20 ust. 2 pkt 1 ustawy zmienianej w art. 1.
+**Art. 5.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636 i 788) w art. 23 w ust. 2 pkt 1 otrzymuje brzmienie: „1) dane statystyczne, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm. );”.
+
+**Art. 6.**
+
+1. Przepisy art. 18 i art. 18a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się po raz pierwszy do programu badań statystycznych statystyki publicznej na rok 2018.
+
+2. Format, o którym mowa w art. 18a ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zostanie udostępniony po raz pierwszy do dnia 31 grudnia 2017 r. odpowiednio na stronie internetowej Głównego Urzędu Statystycznego i na stronie internetowej organu lub podmiotu, o których mowa w art. 20 ust. 2 pkt 1 ustawy zmienianej w art. 1.
 
 **Art. 7.** Program badań statystycznych statystyki publicznej na rok 2017 ustala Rada Ministrów, w drodze rozporządzenia, określając dla każdego badania:
+
+- **1)** temat i organ prowadzący badanie,
+- **2)** rodzaj badania,
+- **3)** zakres podmiotowy i przedmiotowy oraz źródła zbieranych danych statystycznych,
+- **4)** podmioty gospodarki narodowej i osoby fizyczne nieprowadzące działalności gospodarczej zobowiązane do udzielania informacji i przekazywania danych statystycznych lub uczestniczące w badaniu na zasadzie dobrowolności,
+- **5)** formy, częstotliwość, terminy i miejsce przekazywania danych statystycznych,
+- **6)** rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia – mając na celu zapewnienie przeprowadzenia badań o istotnym znaczeniu dla obserwacji procesów demograficznych, społecznych, gospodarczych i środowiska naturalnego, a w szczególności badań stałych pozwalających na obserwację ciągłą podstawowych dziedzin życia i występujących w nim zjawisk, badań cyklicznych, w tym spisów powszechnych, oraz badań gwarantujących porównywalność wyników, w przypadku gdy dotyczą one zmiennych w czasie obiektów obserwacji statystycznej lub gdy zmianie ulega metodologia badania, oraz badań koniecznych dla wykonania przyjętych przez Rzeczpospolitą Polską zobowiązań międzynarodowych, a także uwzględnienie zasad dotyczących przetwarzania danych osobowych określonych w przepisach rozdziału 4a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą oraz ustalania kosztów badań statystycznych określonych w art. 50 tej ustawy.
 
 **Art. 8.** Programy badań statystycznych statystyki publicznej ustalone przed dniem wejścia w życie niniejszej ustawy do czasu zakończenia realizacji określonych w nich badań statystycznych zachowują moc i mogą być zmieniane w granicach określonych w art. 18 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, z uwzględnieniem przepisów rozdziału 4a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 

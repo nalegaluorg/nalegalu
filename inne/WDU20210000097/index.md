@@ -8,7 +8,7 @@ pos: 97
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zawodzie farmaceuty
@@ -33,6 +33,10 @@ Art. 82–86. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** uzyskiwania prawa wykonywania zawodu farmaceuty;
+- **2)** wykonywania zawodu farmaceuty;
+- **3)** ustawicznego rozwoju zawodowego farmaceutów.
+
 **Art. 2.**
 
 1. Zawód farmaceuty jest samodzielnym zawodem medycznym.
@@ -40,6 +44,27 @@ Art. 82–86. (pominięte)
 2. Zawód farmaceuty może wykonywać osoba, która spełnia wymagania określone niniejszą ustawą.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** magister farmacji – tytuł zawodowy nadany absolwentowi jednolitych studiów magisterskich na kierunku farmacja;
+- **2)** obywatel państwa członkowskiego – obywatela państwa członkowskiego oraz: poz. 769, 1222 i 1688),
+    - **a)** obywatela polskiego, który uzyskał kwalifikacje w państwie członkowskim,
+    - **b)** członka rodziny obywatela polskiego lub obywatela państwa członkowskiego, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688),
+    - **c)** obywatela państwa trzeciego posiadającego zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, o którym mowa w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r.
+    - **d)** obywatela państwa trzeciego posiadającego zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 151 ust. 1, art. 151b ust. 1, art. 157a ust. 1 lub art. 157g ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **e)** obywatela państwa trzeciego posiadającego wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych, wizę krajową w celu odbycia stażu lub wizę krajową w celu udziału w programie wolontariatu europejskiego,
+    - **f)** obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **g)** obywatela państwa trzeciego przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **h)** obywatela państwa trzeciego posiadającego status uchodźcy lub objętego ochroną uzupełniającą, o którym mowa w ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223 i 389),
+    - **i)** obywatela państwa trzeciego, który przybywa na terytorium Rzeczypospolitej Polskiej lub przebywa na tym terytorium w celu połączenia się z rodziną i jest członkiem rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej w związku z nadaniem mu statusu uchodźcy lub udzieleniem mu ochrony uzupełniającej,
+    - **j)** obywatela państwa trzeciego, który ubiega się o przyjęcie na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji w rozumieniu art. 3 pkt 24 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **k)** obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i ma prawo do wykonywania pracy oraz posiada dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. ), oraz obywatela państwa trzeciego, który został przyjęty na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym;
+
+- **3)** obywatel państwa trzeciego – obywatela państwa innego niż państwo członkowskie;
+- **4)** państwo członkowskie – państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską;
+- **5)** samorząd zawodu farmaceuty – samorząd zawodu farmaceuty w rozumieniu art. 1 ust. 1 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2024 r. poz. 688);
+- **6)** sporządzanie produktu leczniczego – czynności przeprowadzane w aptece, w zakresie i zgodnie z zasadami określonymi w Farmakopei Polskiej lub Farmakopei Europejskiej, lub innych odpowiednich farmakopeach uznawanych oficjalnie przez państwa członkowskie, obejmujące sporządzanie leków recepturowych i leków aptecznych oraz przygotowywanie do podania pacjentowi leku gotowego, polegające na jego przetwarzaniu, odtwarzaniu, rozdozowywaniu lub przepakowywaniu, w tym czynności polegające na sporządzaniu badanego produktu leczniczego z przeznaczeniem do badań naukowych oraz eksperymentów medycznych;
+- **7)** usługa farmacji klinicznej – działania na rzecz zwiększenia skuteczności, bezpieczeństwa i zasadności, w tym ekonomicznej, użycia produktów leczniczych oraz wsparcie lekarza prowadzącego leczenie w zakresie farmakoterapii, realizowane przez farmaceutę w podmiocie wykonującym działalność leczniczą na rzecz pacjenta, członków rodziny pacjenta lub personelu medycznego;
+- **8)** wywiad farmaceutyczny – działanie farmaceuty polegające na uzyskaniu od pacjenta informacji niezbędnych do wyboru właściwego produktu leczniczego o kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686 oraz z 2025 r. poz. 129), zwanej dalej „ustawą – Prawo farmaceutyczne”, oraz na udzieleniu porady w zakresie stosowania produktów leczniczych lub rekomendacji konsultacji lekarskiej.
 
 **Art. 4.**
 
@@ -642,6 +667,9 @@ Art. 82–86. (pominięte)
 
 **Art. 42.** Przepisów art. 38–41 nie stosuje się do obywatela państwa trzeciego:
 
+- **1)** posiadającego zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c albo d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+- **2)** któremu w Rzeczypospolitej Polskiej nadano status uchodźcy albo udzielono ochrony uzupełniającej.
+
 #### Rozdział 5 Ustawiczny rozwój zawodowy farmaceutów
 
 **Art. 43.**
@@ -651,6 +679,10 @@ Art. 82–86. (pominięte)
 2. Ustawiczny rozwój zawodowy może być realizowany przez kształcenie podyplomowe lub doskonalenie zawodowe.
 
 **Art. 44.** Farmaceuta ma prawo do stałego aktualizowania wiedzy i umiejętności przez uczestnictwo w ramach kształcenia podyplomowego w:
+
+- **1)** szkoleniu specjalizacyjnym;
+- **2)** kursach kwalifikacyjnych;
+- **3)** studiach podyplomowych.
 
 **Art. 45.**
 
@@ -1218,6 +1250,10 @@ Art. 82–86. (pominięte)
 
 **Art. 64.** Do zadań Zespołu Egzaminacyjnego należy:
 
+- **1)** przeprowadzenie PESF zgodnie z regulaminem porządkowym, o którym mowa w art. 65 ust. 13;
+- **2)** przekazanie do CEM kart odpowiedzi niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminów ustnego i praktycznego oraz dokumentacji związanej z przeprowadzonym PESF, niezwłocznie po zakończonym PESF, nie później jednak niż w terminie 14 dni od dnia zakończenia PESF.
+
 **Art. 65.**
 
 1. Zakres PESF jest zgodny z programem danego szkolenia specjalizacyjnego.
@@ -1353,6 +1389,19 @@ Art. 82–86. (pominięte)
 
 **Art. 71.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** wykaz dziedzin farmacji, w których jest możliwe odbywanie szkolenia specjalizacyjnego, uwzględniając potrzebę zabezpieczenia dostępu do świadczeń zdrowotnych w określonym zakresie oraz potrzebę zapewnienia dostępu do usług farmaceutycznych,
+- **2)** wykaz kodów specjalizacji w określonych dziedzinach farmacji,
+- **3)** wysokość wynagrodzenia za wykonanie czynności kontrolnych, o których mowa w art. 47 ust. 10 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych,
+- **4)** wykaz dziedzin farmacji, w których farmaceuta posiadający odpowiednią specjalizację I stopnia może uzyskać tytuł specjalisty po odbyciu uzupełniającego szkolenia specjalizacyjnego zgodnie z programem, o którym mowa w art. 50 ust. 16, uwzględniając potrzebę zapewnienia dostępu do usług farmaceutycznych,
+- **5)** regulamin postępowania kwalifikacyjnego, uwzględniając konieczność zapewnienia sprawnej organizacji tego postępowania,
+- **6)** zakres informacji, o których mowa w art. 53 ust. 3, wprowadzanych do SMK przez kierownika specjalizacji, uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji,
+- **7)** wzór oświadczenia, o którym mowa w art. 63 ust. 4, uwzględniając konieczność zachowania bezstronności pracy PKE,
+- **8)** szczegółowy sposób i tryb składania PESF oraz ustalania jego wyników, uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia PESF oraz zapewnienia równego traktowania osób składających PESF,
+- **9)** wzór dyplomu specjalisty,
+- **10)** tryb wydawania przez dyrektora CEM duplikatu lub odpisu dyplomu PESF oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESF,
+- **11)** tryb dokonywania przez dyrektora CEM wymiany dyplomu PESF oraz sposób uiszczania opłaty za dokonanie wymiany dyplomu – uwzględniając konieczność prawidłowego wydania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
+- **12)** wysokość opłaty za PESF, uwzględniając koszty przeprowadzenia PESF oraz wydania dyplomu potwierdzającego uzyskanie tytułu specjalisty.
+
 **Art. 72.**
 
 1. Minister właściwy do spraw zdrowia uznaje uzyskany za granicą tytuł specjalisty w danej dziedzinie farmacji za równoważny z tytułem specjalisty w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
@@ -1486,6 +1535,16 @@ Art. 82–86. (pominięte)
 
 **Art. 74.** Dane zamieszczane w SMK mogą zostać udostępnione:
 
+- **1)** farmaceucie – w zakresie monitorowania przebiegu szkolenia specjalizacyjnego;
+- **2)** uczelniom – w zakresie wykonywanych przez nie zadań;
+- **3)** konsultantom w ochronie zdrowia – w zakresie wykonywanych zadań określonych w ustawie oraz w zakresie zadań, o których mowa w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254);
+- **4)** CEM – w zakresie wykonywanych zadań określonych w ustawie, dotyczących organizowania i przeprowadzania PESF;
+- **5)** CMKP – w zakresie wykonywanych zadań określonych w ustawie, dotyczących udzielania akredytacji podmiotom zamierzającym prowadzić szkolenie specjalizacyjne, kontroli i monitorowania realizacji szkolenia specjalizacyjnego;
+- **6)** wojewodom – w zakresie wykonywanych zadań określonych w ustawie, dotyczących przebiegu szkolenia specjalizacyjnego farmaceutów;
+- **7)** jednostkom szkolącym – w zakresie wykonywanych zadań określonych w ustawie;
+- **8)** NIA i okręgowym izbom aptekarskim – w zakresie wykonywanych zadań określonych w ustawie;
+- **9)** ministrowi właściwemu do spraw zdrowia – w zakresie wykonywania zadań określonych w ustawie.
+
 **Art. 75.**
 
 1. Kurs kwalifikacyjny, o którym mowa w art. 44 pkt 2, ma na celu uzyskanie przez farmaceutę wiedzy i umiejętności do udzielania określonych świadczeń zdrowotnych lub usług farmaceutycznych wchodzących w zakres danej dziedziny farmacji lub dziedziny mającej zastosowanie w ochronie zdrowia.
@@ -1532,6 +1591,11 @@ Art. 82–86. (pominięte)
 14. Od decyzji, o której mowa w ust. 12, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
 
 **Art. 76.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** zakres problematyki kursów kwalifikacyjnych,
+- **2)** sposób i tryb przeprowadzania postępowania kwalifikacyjnego na kurs kwalifikacyjny,
+- **3)** sposób i tryb odbywania i zaliczania kursu kwalifikacyjnego,
+- **4)** wzór zaświadczenia potwierdzającego odbycie kursu kwalifikacyjnego – uwzględniając zakres wiedzy i umiejętności niezbędnych do wykonywania określonych świadczeń zdrowotnych lub usług farmaceutycznych, a także mając na celu uwzględnienie obiektywnych kryteriów weryfikacji wiedzy i umiejętności zdobytych podczas tego kursu.
 
 **Art. 77.**
 
@@ -1622,6 +1686,9 @@ Art. 82–86. (pominięte)
 **Art. 93.** Farmaceuta, który w dniu wejścia w życie niniejszej ustawy narusza ograniczenia, o których mowa w art. 88 ust. 1a–1c ustawy zmienianej w art. 83 , w brzmieniu nadanym niniejszą ustawą, jest obowiązany, nie później niż w terminie 6 miesięcy, dostosować się do wskazanych ograniczeń.
 
 **Art. 94.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 107zc i art. 107zf ust. 4 ustawy zmienianej w art. 83 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 71 i art. 78 ust. 4,
+- **2)** art. 2c ust. 6, art. 4 ust. 4, art. 4c ust. 6 oraz art. 4e ust. 4 ustawy zmienianej w art. 82 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12 ust. 6, art. 13 ust. 6 i art. 17 ust. 4 – jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 95.** Do dnia 31 stycznia 2023 r. kształcenie podyplomowe farmaceutów w zakresie czynności dokonywanych za pomocą SMK odbywa się na dotychczasowych zasadach określonych w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 

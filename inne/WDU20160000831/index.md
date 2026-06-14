@@ -8,7 +8,7 @@ pos: 831
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o efektywności energetycznej
@@ -33,7 +33,35 @@ Art. 43–48. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** (uchylony)
+- **2)** zadania jednostek sektora publicznego w zakresie efektywności energetycznej;
+- **3)** zasady realizacji obowiązku uzyskania oszczędności energii;
+- **4)** zasady przeprowadzania audytu energetycznego przedsiębiorstwa;
+- **5)** zasady prowadzenia centralnego rejestru oszczędności energii finalnej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** audyt efektywności energetycznej − opracowanie zawierające analizę zużycia energii oraz określające stan techniczny obiektu, urządzenia technicznego lub instalacji, zawierające wykaz przedsięwzięć służących poprawie efektywności energetycznej obiektu, urządzenia technicznego lub instalacji, a także ocenę ich opłacalności ekonomicznej i możliwej do uzyskania oszczędności energii;
+- **2)** ciepło – ciepło w rozumieniu art. 3 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303);
+- **3)** efektywność energetyczna – stosunek uzyskanej wielkości efektu użytkowego danego obiektu, urządzenia technicznego lub instalacji, w typowych warunkach ich użytkowania lub eksploatacji, do ilości zużycia energii przez ten obiekt, urządzenie techniczne lub instalację, albo w wyniku wykonanej usługi niezbędnej do uzyskania tego efektu;
+- **4)** efekt użytkowy – efekt uzyskany w wyniku dostarczenia energii do danego obiektu, urządzenia technicznego lub instalacji, w szczególności wykonanie pracy mechanicznej, zapewnienie komfortu cieplnego lub oświetlenie;
+- **5)** energia – energię pierwotną lub energię finalną;
+- **6)** energia pierwotna – energię zawartą w pierwotnych nośnikach energii, pozyskiwaną bezpośrednio ze środowiska, a w szczególności: w węglu kamiennym energetycznym (łącznie z węglem odzyskanym z hałd), w węglu kamiennym koksowym, w węglu brunatnym, w ropie naftowej (łącznie z gazoliną), w gazie ziemnym wysokometanowym (łącznie z gazem z odmetanowania kopalń węgla kamiennego), w gazie ziemnym zaazotowanym, w torfie do celów opałowych, oraz energię: wody, wiatru, słoneczną, geotermalną wykorzystywaną do wytwarzania energii elektrycznej, ciepła lub chłodu, a także biomasę w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2024 r. poz. 20, 834 i 1946 oraz z 2025 r. poz. 303);
+- **7)** energia finalna – energię lub paliwa w rozumieniu art. 3 pkt 1 i 3 ustawy z dnia 10 kwietnia 1997 r. ‒ Prawo energetyczne, dostarczone odbiorcy końcowemu;
+- **8)** jednostka sektora publicznego – podmiot, o którym mowa w art. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620);
+- **9)** odbiorca końcowy – odbiorcę końcowego w rozumieniu art. 3 pkt 13a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **10)** oszczędność energii – ilość energii stanowiącą różnicę między energią potencjalnie zużytą przez obiekt, urządzenie techniczne lub instalację w danym okresie, przed zrealizowaniem jednego lub kilku przedsięwzięć służących poprawie efektywności energetycznej, a energią zużytą przez ten obiekt, urządzenie techniczne lub instalację w takim samym okresie, po zrealizowaniu tych przedsięwzięć i po uwzględnieniu znormalizowanych warunków zewnętrznych wpływających na zużycie energii;
+- **11)** przedsiębiorstwo energetyczne – przedsiębiorstwo energetyczne w rozumieniu art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **12)** przedsięwzięcie służące poprawie efektywności energetycznej – działanie polegające na wprowadzeniu zmian lub usprawnień w obiekcie, w urządzeniu technicznym lub w instalacji, w wyniku których uzyskuje się oszczędność energii;
+- **13)** tona oleju ekwiwalentnego – równoważnik jednej tony ropy naftowej o wartości opałowej równej 41 868 kJ/kg;
+- **14)** rozpoczęcie prac zmierzających do realizacji przedsięwzięcia służącego poprawie efektywności energetycznej – rozpoczęcie robót budowlanych związanych z realizacją przedsięwzięcia służącego poprawie efektywności energetycznej lub pierwsze prawnie wiążące zobowiązanie do zamówienia urządzeń służących poprawie efektywności energetycznej lub inne zobowiązanie, które sprawia, że przedsięwzięcie staje się nieodwracalne, w zależności od tego, które zdarzenie nastąpi wcześniej, z wyłączeniem zakupu gruntów oraz prac przygotowawczych polegających na uzyskiwaniu zezwoleń i wykonywaniu wstępnych studiów wykonalności oraz prac przygotowawczych, o których mowa w art. 41 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418);
+- **15)** paliwa ciekłe – następujące rodzaje ciekłych nośników energii:
+    - **a)** gaz płynny LPG o kodach CN: 2711 12, 2711 13 i 2711 19 00,
+    - **b)** benzyny silnikowe o kodach CN: 2710 12 45 i 2710 12 49,
+    - **c)** oleje napędowe o kodach CN: 2710 19 42, 2710 19 44 i 2710 20 11 ‒ stosowane w transporcie drogowym lub kolejowym;
+
+- **16)** podmiot paliwowy – każdy podmiot, w tym mający siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, dokonujący, samodzielnie lub za pośrednictwem innego podmiotu, wytwarzania, importu lub nabycia wewnątrzwspólnotowego paliw ciekłych;
+- **17)** wprowadzenie do obrotu paliw ciekłych – pierwsze rozporządzenie paliwami ciekłymi na terytorium Rzeczypospolitej Polskiej przez podmiot paliwowy, który dokonał ich wytworzenia, importu lub nabycia wewnątrzwspólnotowego, polegające na dokonaniu jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw ciekłych lub zużycie ich na potrzeby własne na tym terytorium, z wyłączeniem przywozu paliw ciekłych przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222 i 340).
 
 **Art. 3.**
 
@@ -537,6 +565,14 @@ Art. 43–48. (pominięte)
 3. Do wykonywania obowiązku umorzenia świadectwa efektywności energetycznej, o którym mowa w ust. 1 pkt 2, stosuje się odpowiednio przepisy art. 30 i art. 31.
 
 **Art. 29.** Minister właściwy do spraw klimatu określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy zakres i sposób sporządzania audytu efektywności energetycznej,
+- **2)** wzór karty, o której mowa w art. 25 ust. 1 pkt 2,
+- **3)** szczegółowy sposób i tryb wyrywkowej weryfikacji audytu efektywności energetycznej, o której mowa w art. 26 ust. 1,
+- **4)** dane i metody, które mogą być wykorzystywane przy określaniu i weryfikacji uzyskanych oszczędności energii,
+- **5)** sposób sporządzania oceny efektywności energetycznej dostarczania ciepła, o której mowa w art. 25 ust. 3,
+- **6)** współczynniki sprawności procesów przetwarzania energii pierwotnej w energię finalną,
+- **7)** sposób przeliczania jednostek energii na porównywalne jednostki – biorąc pod uwagę aktualny stan wiedzy technicznej w zakresie efektywności energetycznej, zapewnienie zharmonizowanych zasad pomiarów oraz sprawnej i prawidłowej weryfikacji oszczędności energii.
 
 **Art. 30.**
 

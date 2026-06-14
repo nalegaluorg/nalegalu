@@ -8,7 +8,7 @@ pos: 416
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Państwowej Inspekcji Sanitarnej
@@ -385,9 +385,26 @@ Art. 37azb. 1. Podmiot prowadzący laboratorium wykonujące badania jakości wod
 
 **Art. 1.** Państwowa Inspekcja Sanitarna jest powołana do realizacji zadań z zakresu zdrowia publicznego, w szczególności poprzez sprawowanie nadzoru nad warunkami:
 
+- **1)** higieny środowiska,
+- **2)** higieny pracy w zakładach pracy,
+- **3)** higieny radiacyjnej,
+- **4)** higieny procesów nauczania i wychowania,
+- **5)** higieny wypoczynku i rekreacji,
+- **6)** zdrowotnymi żywności, żywienia i produktów kosmetycznych,
+- **7)** higieniczno-sanitarnymi, jakie powinien spełniać personel medyczny, sprzęt oraz pomieszczenia, w których są udzielane świadczenia zdrowotne – w celu ochrony zdrowia ludzkiego przed niekorzystnym wpływem szkodliwości i uciążliwości środowiskowych, zapobiegania powstawaniu chorób, w tym chorób zakaźnych i zawodowych.
+
 **Art. 2.** Wykonywanie zadań określonych w art. 1 polega na sprawowaniu zapobiegawczego i bieżącego nadzoru sanitarnego oraz prowadzeniu działalności zapobiegawczej i przeciwepidemicznej w zakresie chorób zakaźnych i innych chorób powodowanych warunkami środowiska, a także na prowadzeniu działalności oświatowo-zdrowotnej.
 
 **Art. 3.** Do zakresu działania Państwowej Inspekcji Sanitarnej w dziedzinie zapobiegawczego nadzoru sanitarnego należy w szczególności:
+
+- **1)** opiniowanie projektów planów zagospodarowania przestrzennego województwa, miejscowych planów zagospodarowania przestrzennego i planów ogólnych gminy;
+- **1a)** uzgadnianie warunków zabudowy i zagospodarowania terenu pod względem wymagań higienicznych i zdrowotnych;
+- **2)** uzgadnianie dokumentacji projektowej pod względem wymagań higienicznych i zdrowotnych dotyczących:
+    - **a)** budowy oraz zmiany sposobu użytkowania obiektów budowlanych, statków morskich, żeglugi śródlądowej i powietrznych,
+    - **b)** nowych materiałów i procesów technologicznych przed ich zastosowaniem w produkcji lub budownictwie;
+
+- **3)** uczestniczenie w dopuszczeniu do użytku obiektów budowlanych, statków morskich, żeglugi śródlądowej i powietrznych oraz środków komunikacji lądowej;
+- **4)** inicjowanie przedsięwzięć oraz prac badawczych w dziedzinie zapobiegania negatywnym wpływom czynników i zjawisk fizycznych, chemicznych i biologicznych na zdrowie ludzi.
 
 **Art. 4.**
 
@@ -440,6 +457,11 @@ Art. 37azb. 1. Podmiot prowadzący laboratorium wykonujące badania jakości wod
 - **1938)** , może być wydana również przez państwowego powiatowego inspektora sanitarnego albo państwowego granicznego inspektora sanitarnego, który zawiadamia o tym niezwłocznie właściwy organ Wojskowej Inspekcji Sanitarnej. Dalsze postępowanie w sprawie jest prowadzone przez Wojskową Inspekcję Sanitarną.
 
 **Art. 6.** Państwowa Inspekcja Sanitarna inicjuje, organizuje, prowadzi, koordynuje i nadzoruje działalność oświatowo-zdrowotną w celu ukształtowania odpowiednich postaw i zachowań zdrowotnych, a w szczególności:
+
+- **1)** inicjuje i wytycza kierunki przedsięwzięć zmierzających do zaznajamiania społeczeństwa z czynnikami szkodliwymi dla zdrowia, popularyzowania zasad higieny i racjonalnego żywienia, metod zapobiegania chorobom oraz umiejętności udzielania pierwszej pomocy;
+- **2)** pobudza aktywność społeczną do działań na rzecz własnego zdrowia;
+- **3)** udziela porad i informacji w zakresie zapobiegania i eliminowania negatywnego wpływu czynników i zjawisk fizycznych, chemicznych i biologicznych na zdrowie ludzi;
+- **4)** ocenia działalność oświatowo-zdrowotną prowadzoną przez szkoły i inne placówki oświatowo-wychowawcze, szkoły wyższe oraz środki masowego przekazywania, podmioty lecznicze oraz inne podmioty, instytucje i organizacje, a także udziela im pomocy w prowadzeniu tej działalności.
 
 **Art. 6a.**
 
@@ -832,13 +854,32 @@ Art. 37azb. 1. Podmiot prowadzący laboratorium wykonujące badania jakości wod
 
 **Art. 22f.** Zadania Wojskowej Inspekcji Sanitarnej realizują:
 
+- **1)** Główny Inspektor Sanitarny Wojska Polskiego oraz Szef Wojskowej Inspekcji Sanitarnej – Zastępca Głównego Inspektora Sanitarnego Wojska Polskiego – w komórce organizacyjnej urzędu obsługującego Ministra Obrony Narodowej właściwej do spraw zdrowia;
+- **2)** komendanci wojskowych ośrodków medycyny prewencyjnej oraz wojskowi inspektorzy sanitarni wojskowych ośrodków medycyny prewencyjnej – w strukturze jednostek organizacyjnych podległych Ministrowi Obrony Narodowej.
+
 **Art. 22g.** Organy, o których mowa w art. 22b ust. 1, korzystają z ochrony prawnej przewidzianej dla państwowych inspektorów sanitarnych.
 
 **Art. 22h.** Organy, o których mowa w art. 22b ust. 1, w związku z wykonywaniem zadań, mają prawo do:
 
+- **1)** wstępu o każdej porze do obiektów:
+    - **a)** jednostek i podmiotów określonych w art. 22a ust. 1 oraz do środków transportu, uzbrojenia i sprzętu wojskowego znajdujących się w dyspozycji tych jednostek i podmiotów, a także na okręty Marynarki Wojennej, w tym do pomieszczeń i urządzeń wchodzących w ich skład,
+    - **b)** zajmowanych przez żołnierzy wojsk obcych i ich personel cywilny przebywających na terytorium Rzeczypospolitej Polskiej oraz przemieszczających się przez to terytorium,
+    - **c)** będących w trakcie budowy prowadzonej na terenie jednostek i podmiotów określonych w art. 22a ust. 1;
+
+- **2)** żądania pisemnych lub ustnych informacji oraz wzywania i przesłuchiwania osób;
+- **3)** żądania okazania dokumentów i udostępniania wszelkich danych niezbędnych w dochodzeniu epidemiologicznym lub do ustalenia wykroczeń związanych ze stanem higienicznym;
+- **4)** pobierania nieodpłatnie próbek do badań;
+- **5)** nakazania, w drodze decyzji, usunięcia w określonym terminie stwierdzonych uchybień higienicznych i zdrowotnych;
+- **6)** wydania niezbędnych ze względu na ochronę zdrowia i życia ludzkiego decyzji o unieruchomieniu lub wyłączeniu z eksploatacji obiektu, okrętu Marynarki Wojennej, zakładu pracy, jego części (stanowiska pracy lub urządzenia), środka transportu, uzbrojenia i sprzętu wojskowego, wycofaniu z obrotu środka spożywczego, przedmiotu użytku lub innego wyrobu mogącego mieć wpływ na zdrowie ludzi albo o podjęciu lub zaprzestaniu innych działań, jeżeli naruszenie wymagań higienicznych i zdrowotnych spowodowało bezpośrednie zagrożenie życia lub zdrowia na terenie obiektów jednostek i podmiotów określonych w art. 22a ust. 1 lub obiektów określonych w pkt 1 lit. b, lub w stosunku do osób, o których mowa w art. 22a ust. 2, przy czym decyzje w tych sprawach podlegają natychmiastowemu wykonaniu;
+- **7)** stosowania środków, o których mowa w art. 29.
+
 **Art. 22i.** Organy, o których mowa w art. 22b ust. 1, podczas realizacji zadań posługują się legitymacją służbową wojskowego inspektora sanitarnego wydawaną przez Głównego Inspektora Sanitarnego Wojska Polskiego na czas pełnienia funkcji.
 
 **Art. 22j.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** siedziby i właściwość miejscową organów, o których mowa w art. 22b ust. 1 pkt 3, oraz tryb wykonywania zadań przez Wojskową Inspekcję Sanitarną,
+- **2)** wzór legitymacji służbowej organów, o których mowa w art. 22b ust. 1,
+- **3)** wykaz dodatkowych kwalifikacji mających zastosowanie w realizacji zadań Wojskowej Inspekcji Sanitarnej – uwzględniając rodzaj i charakter wykonywanych zadań, specyfikę zadań Wojskowej Inspekcji Sanitarnej, w tym zadań realizowanych poza granicami kraju, sprawność funkcjonowania Wojskowej Inspekcji Sanitarnej oraz potrzebę zapewnienia identyfikacji jej organów.
 
 #### Rozdział 3 Uprawnienia Państwowej Inspekcji Sanitarnej
 
@@ -1014,6 +1055,9 @@ Art. 37azb. 1. Podmiot prowadzący laboratorium wykonujące badania jakości wod
 6. (uchylony)
 
 **Art. 36a.** Państwowa Inspekcja Sanitarna jest uprawniona do nieodpłatnego korzystania z danych zgromadzonych:
+
+- **1)** w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) prowadzonym przez Prezesa Głównego Urzędu Statystycznego;
+- **2)** przez Zakład Ubezpieczeń Społecznych na koncie płatnika składek, o którym mowa w art. 45 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230, 1429, 1672 i 1941).
 
 **Art. 37.**
 

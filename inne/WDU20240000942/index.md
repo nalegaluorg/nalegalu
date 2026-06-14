@@ -8,7 +8,7 @@ pos: 942
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Akademii Ignatianum w Krakowie z budżetu państwa

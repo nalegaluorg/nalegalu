@@ -8,12 +8,12 @@ pos: 1531
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# zmianie ustawy Centralnym Porcie Komunikacyjnym
+# o zmianie ustawy o Centralnym Porcie Komunikacyjnym
 
-*USTAWA z 24 września 2025 r.*
+*USTAWA z dnia 24 września 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,25 +27,152 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001531) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1531/text.pdf) |
 
-**Art. 1.** W ustawie z 10 maja 2018 r. Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747) wprowadza się następujące zmiany:
 
-**Art. 2.** Do spraw związanych z realizacją Inwestycji lub Inwestycji Towarzyszących rozumieniu 2 pkt 3 i 4 ustawy zmienianej 1 wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, szczególności:
+- **1)** w art. 40 w ust. 2 pkt 11 otrzymuje brzmienie: „11) termin wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową.”;
+- **2)** w art. 44 w ust. 1 pkt 4 otrzymuje brzmienie: „4) zobowiązuje do wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz uprawnia do faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową;”;
+- **3)** po art. 44 dodaje się art. 44a w brzmieniu: „Art. 44a. 1. Decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK nadaje się rygor natychmiastowej wykonalności na wniosek Spółki Celowej, jeżeli jest to uzasadnione interesem społecznym lub gospodarczym lub jeżeli jest to niezbędne do wykazania prawa do dysponowania nieruchomością na cele budowlane w rozumieniu art. 3 pkt 11 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
-**Art. 3.** Postępowania wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy decyzją niezwłocznym zajęciu nieruchomości wydaną przez organ pierwszej instancji umarza się.
+2. Decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK, której nadano rygor natychmiastowej wykonalności, wywołuje skutki, o których mowa w art. 44 ust. 1 pkt 2–4, oraz:
+
+- **1)** przyznaje Spółce Celowej prawo do dysponowania nieruchomością na cele budowlane w rozumieniu art. 3 pkt 11 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **2)** stanowi podstawę uzyskania pozwolenia na prace przygotowawcze, o którym mowa w art. 76a ust. 1;
+- **3)** wiąże Prezesa Urzędu Lotnictwa Cywilnego przy wydawaniu zezwolenia na założenie lotniska użytku publicznego, o którym mowa w art. 55 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **4)** uprawnia Spółkę Celową do zajęcia terenów wód płynących, dróg publicznych lub terenów linii kolejowej, na zasadach i w trybie określonych w art. 81.”;
+- **4)** uchyla się art. 46;
+- **5)** w art. 52:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Termin wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową określony w decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK nie może być krótszy niż 120 dni, licząc od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna. Na wniosek Spółki Celowej organ wyznacza dłuższy termin dla obszarów określonych w decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku gdy decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK nadano rygor natychmiastowej wykonalności i decyzja ta nie stała się ostateczna, termin wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową, nie może być krótszy niż 120 dni, licząc od dnia, w którym organ pierwszej instancji wydał decyzję ustalającą wysokość odszkodowania z tytułu wywłaszczenia nieruchomości.”,
+    - **c)** uchyla się ust. 2–4,
+    - **d)** w ust. 5 zdanie drugie otrzymuje brzmienie: „Egzekucję obowiązku wydania nieruchomości przeprowadza się w terminie 30 dni od dnia otrzymania wniosku Spółki Celowej.”,
+    - **e)** w ust. 6: – w pkt 1 wyrazy „o której mowa w ust. 2” zastępuje się wyrazami „o której mowa w art. 44a ust. 1”, – w pkt 2 wyraz „Inwestorowi” zastępuje się wyrazami „Spółce Celowej”, – w części wspólnej wyrazy: – – „Inwestor jest obowiązany” zastępuje się wyrazami „Spółka Celowa jest obowiązana”, – – „lokalu tymczasowego” zastępuje się wyrazami „lokalu zamiennego”,
+    - **f)** ust. 7 otrzymuje brzmienie: „7. Osoba, której wskazano lokal zamienny, jest obowiązana do opróżnienia tego lokalu najpóźniej w dniu upływu terminu 120 dni, licząc od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna.”,
+    - **g)** dodaje się ust. 8 w brzmieniu: „8. W przypadku gdy faktyczne objęcie nieruchomości w posiadanie przez Spółkę Celową nastąpi po upływie terminu, o którym mowa w ust. 1, Spółka Celowa nie ma obowiązku wskazania lokalu zamiennego.”;
+
+- **6)** w art. 59:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Z dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna, albo z dniem, w którym decyzji tej nadano rygor natychmiastowej wykonalności, wszczyna się postępowanie w sprawie ustalenia wysokości odszkodowania z tytułu wywłaszczenia nieruchomości.”,
+    - **b)** uchyla się ust. 2–8;
+
+- **7)** po art. 59 dodaje się art. 59a w brzmieniu: „Art. 59a. 1. Decyzję ustalającą wysokość odszkodowania wydaje się w terminie 30 dni od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna.
+
+2. Jeżeli decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK został nadany rygor natychmiastowej wykonalności, decyzję ustalającą wysokość odszkodowania wydaje się w terminie 60 dni od dnia nadania decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK rygoru natychmiastowej wykonalności.
+
+3. Na wniosek osoby uprawnionej do otrzymania odszkodowania skierowany do Spółki Celowej wypłaca się zaliczkę w wysokości 85 % odszkodowania ustalonego przez organ pierwszej instancji w decyzji ustalającej wysokość odszkodowania. W przypadku odwołania od decyzji ustalającej wysokość odszkodowania wypłata zaliczki nie ma wpływu na prowadzone postępowanie odwoławcze. Wypłata zaliczki następuje jednorazowo w terminie 30 dni od dnia złożenia wniosku.
+
+4. Osoba, której wypłacono zaliczkę, albo jej spadkobiercy są obowiązani do zwrotu zaliczki po jej waloryzacji na dzień zwrotu, jeżeli decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK została zmieniona, uchylona lub stwierdzono jej nieważność, w całości lub w części dotyczącej tej osoby.
+
+5. Wysokość wypłacanego odszkodowania pomniejsza się o kwotę wypłaconej zaliczki.”;
+
+- **8)** art. 65 otrzymuje brzmienie: „Art. 65. W przypadku gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie CPK odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż w terminie 30 dni od dnia:
+- **1)** doręczenia zawiadomienia o wydaniu decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK, której nadano rygor natychmiastowej wykonalności,
+- **2)** doręczenia zawiadomienia o nadaniu decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK rygoru natychmiastowej wykonalności,
+- **3)** w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego.”;
+- **9)** art. 67 otrzymuje brzmienie: „Art. 67. 1. Do zapłaty odszkodowania, w tym zaliczki, o której mowa w art. 59a ust. 3, jest obowiązana Spółka Celowa.
+
+2. Zapłata odszkodowania następuje jednorazowo, w terminie 14 dni od dnia, w którym decyzja ustalająca wysokość odszkodowania stała się ostateczna.
+
+3. W przypadku określonym w art. 59a ust. 2, gdy decyzja ustalająca wysokość odszkodowania stała się ostateczna przed dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna, zapłata odszkodowania następuje jednorazowo, w terminie 14 dni od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna.
+
+4. Za zgodą osoby uprawnionej do odszkodowania wojewoda może ustalić inny niż określony w ust. 2 i 3 sposób zapłaty odszkodowania.
+
+5. Odszkodowanie wpłaca się do depozytu sądowego, jeżeli:
+
+- **1)** osoba uprawniona do odszkodowania odmawia jego przyjęcia;
+- **2)** wypłata odszkodowania jest niemożliwa z przyczyn niezależnych od Spółki Celowej;
+- **3)** odszkodowanie dotyczy nieruchomości o nieuregulowanym stanie prawnym.
+
+6. W przypadku wystąpienia przez Spółkę Celową o zgodę, o której mowa w art. 58 ust. 2, Spółka Celowa przedstawia właścicielowi lub użytkownikowi wieczystemu nieruchomości co najmniej dwie propozycje nieruchomości zamiennych.
+
+7. Różnicę między wysokością odszkodowania ustalonego w decyzji ustalającej wysokość odszkodowania a wartością nieruchomości zamiennej wyrównuje się przez dopłatę pieniężną.
+
+8. Przeniesienie praw do nieruchomości zamiennej na rzecz osoby, której zostało przyznane odszkodowanie, następuje z dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna. W przypadku gdy decyzja ustalająca wysokość odszkodowania stała się ostateczna po dniu, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna, przeniesienie praw do nieruchomości zamiennej na rzecz osoby, której zostało przyznane odszkodowanie, następuje z dniem, w którym decyzja ustalająca wysokość odszkodowania stała się ostateczna. Ostateczna decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK oraz ostateczna decyzja ustalająca wysokość odszkodowania stanowią podstawę do dokonywania wpisów w księdze wieczystej i w katastrze nieruchomości.
+
+9. Na wniosek właściciela lub użytkownika wieczystego przed przeniesieniem praw do nieruchomości zamiennej, o którym mowa w ust. 8, niezależnie od wniesienia odwołania od decyzji ustalającej wysokość odszkodowania, nieruchomość zamienna wskazana w tej decyzji może być przekazana w użyczenie właścicielowi lub użytkownikowi wieczystemu.
+
+10. W przypadku zawarcia w sprawie ustalenia odszkodowania ugody w rozumieniu art. 114–121 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego ostateczne postanowienie zatwierdzające ugodę stanowi podstawę do dokonywania wpisów w księdze wieczystej i w katastrze nieruchomości. Przepisy ust. 8 i 9 stosuje się odpowiednio.”;
+
+- **10)** uchyla się art. 69;
+- **11)** w art. 76 dodaje się ust. 5 w brzmieniu: „5. Przepis art. 44a ust. 1 stosuje się odpowiednio do pozwolenia na budowę, o którym mowa w ust. 1.”;
+- **12)** w art. 82 ust. 2 otrzymuje brzmienie: „2. Przepisy art. 85–90 stosuje się odpowiednio do postępowań dotyczących decyzji o zezwoleniu na udostępnienie nieruchomości oraz decyzji ustalającej wysokość odszkodowania.”;
+- **13)** art. 120a otrzymuje brzmienie: „Art. 120a. 1. W przypadku złożenia przez Inwestora wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej:
+- **1)** nie wszczyna się postępowań o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej którymkolwiek z wariantów zawartych we wniosku o wydanie decyzji o środowiskowych uwarunkowaniach,
+- **2)** wszczęte postępowania, o których mowa w pkt 1, zawiesza się – do czasu wydania prawomocnej decyzji o środowiskowych uwarunkowaniach lub decyzji o umorzeniu postępowania.
+
+2. Pełnomocnik może udzielić zgody na wszczęcie postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu albo na podjęcie zawieszonego postępowania, o których mowa w ust. 1, biorąc pod uwagę:
+
+- **1)** wymogi prawidłowego przygotowania, realizacji oraz użytkowania planowanej Inwestycji Towarzyszącej;
+- **2)** wpływ realizacji inwestycji, której dotyczy wniosek o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, na możliwości zagospodarowania terenu;
+- **3)** brak niespójności z wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach, o którym mowa w ust. 1;
+- **4)** ryzyka wskazane w art. 120r ust. 2.
+
+3. Zgoda, o której mowa w ust. 2, jest udzielana na wniosek podmiotu ubiegającego się o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu.
+
+4. Do wniosku o wydanie zgody, o której mowa w ust. 2, dołącza się:
+
+- **1)** kopię złożonego wniosku o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu wraz z załącznikami, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – w przypadku postępowania, które zostało zawieszone na podstawie ust. 1 pkt 2;
+- **2)** projekt wniosku o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu wraz z załącznikami, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – w przypadku gdy postępowanie o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu nie zostało wszczęte;
+- **3)** uzasadnienie wykazujące, że inwestycja wskazana we wniosku o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu albo w projekcie takiego wniosku nie będzie powodowała kolizji z budową lub funkcjonowaniem Inwestycji Towarzyszącej.
+
+5. Zgodę, o której mowa w ust. 2, dołącza się do:
+
+- **1)** wniosku o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu – w przypadku, o którym mowa w ust. 1 pkt 1;
+- **2)** wniosku o podjęcie zawieszonego postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu – w przypadku, o którym mowa w ust. 1 pkt 2.”;
+- **14)** w art. 120b:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Pełnomocnik może udzielić zgody na wszczęcie postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego, które dotyczy chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach, biorąc pod uwagę:
+
+- **1)** wymogi prawidłowego przygotowania, realizacji oraz użytkowania planowanej Inwestycji Towarzyszącej;
+- **2)** wpływ realizacji inwestycji, której dotyczy wniosek o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego, na możliwości zagospodarowania terenu;
+- **3)** brak niespójności z decyzją o środowiskowych uwarunkowaniach, o której mowa w ust. 1;
+- **4)** ryzyka wskazane w art. 120r ust. 2.”,
+    - **b)** po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Zgoda, o której mowa w ust. 2, jest udzielana na wniosek podmiotu ubiegającego się o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego.
+
+2b. Do wniosku o wydanie zgody, o której mowa w ust. 2, dołącza się projekt wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego wraz z załącznikami, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+
+2c. Zgodę, o której mowa w ust. 2, dołącza się do wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego.
+
+2d. W odniesieniu do nieruchomości objętych chociażby w części decyzją o środowiskowych uwarunkowaniach, o której mowa w ust. 1, przepisów art. 120a nie stosuje się.”,
+
+- **c)** ust. 3–6 otrzymują brzmienie: „3. Postępowania, o których mowa w ust. 1 pkt 2, są umarzane po upływie 2 miesięcy od dnia wydania decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1.
+
+4. Decyzje, o których mowa w ust. 1 pkt 3, tracą moc po upływie 2 miesięcy od dnia wydania decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1.
+
+5. Przepisów ust. 1 pkt 2 i 3 nie stosuje się do:
+
+- **1)** decyzji o ustaleniu lokalizacji inwestycji celu publicznego wydanych przed złożeniem wniosku, o którym mowa w art. 120a ust. 1, które zostały wskazane przez Pełnomocnika;
+- **2)** decyzji o warunkach zabudowy i zagospodarowania terenu wydanych po uprzednim uzyskaniu zgody, o której mowa w art. 120a ust. 2;
+- **3)** postępowań o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu wszczętych za zgodą, o której mowa w art. 120a ust. 2.
+
+6. Pełnomocnik przekazuje właściwym gminom informacje o decyzjach, o których mowa w ust. 5 pkt 1, w terminie miesiąca od dnia wydania decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1. Do wskazania przez Pełnomocnika decyzji, o których mowa w ust. 5 pkt 1, przepisy ust. 2 stosuje się odpowiednio.”.
+
+**Art. 2.** Do spraw związanych z realizacją Inwestycji lub Inwestycji Towarzyszących w rozumieniu art. 2 pkt 3 i 4 ustawy zmienianej w art. 1 wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, w szczególności:
+
+- **1)** decyzją o ustaleniu lokalizacji inwestycji w zakresie Centralnego Portu Komunikacyjnego,
+- **2)** pozwoleniem na prace wstępne, o którym mowa w art. 75e ust. 1 ustawy zmienianej w art. 1,
+- **3)** pozwoleniem na prace przygotowawcze, o którym mowa w art. 76a ust. 1 ustawy zmienianej w art. 1,
+- **4)** zgodą wodnoprawną,
+- **5)** pozwoleniem na budowę,
+- **6)** pozwoleniem na rozbiórkę,
+- **7)** decyzją o zezwoleniu na zajęcie pasa drogowego,
+- **8)** pozwoleniem wojewódzkiego konserwatora zabytków – stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z wyjątkiem spraw dotyczących złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy wniosków o udzielenie zgody na wszczęcie postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego na podstawie art. 120b ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, do których stosuje się przepisy dotychczasowe.
+
+**Art. 3.** Postępowania wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy decyzją o niezwłocznym zajęciu nieruchomości wydaną przez organ pierwszej instancji umarza się.
 
 **Art. 4.**
 
-1. Decyzje niezwłocznym zajęciu nieruchomości wydane przed dniem wejścia życie niniejszej ustawy pozostają mocy.
+1. Decyzje o niezwłocznym zajęciu nieruchomości wydane przed dniem wejścia w życie niniejszej ustawy pozostają w mocy.
 
-2. W przypadku decyzji, których mowa ust. 1:
+2. W przypadku decyzji, o których mowa w ust. 1:
 
-- **1)** wysokość odszkodowania powiększa się kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego przypadku, gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją niezwłocznym zajęciu nieruchomości odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż terminie 30 dni od wejścia życie niniejszej ustawy;
-- **2)** terminie 60 dni od wejścia życie niniejszej ustawy wydaje się decyzję ustalającą wysokość odszkodowania; do postępowań sprawie ustalenia wysokości odszkodowania z tytułu wywłaszczenia nieruchomości stosuje się przepisy działu III rozdziału 6 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą;
-- **3)** wydanie nieruchomości, opróżnienie lokali i innych pomieszczeń oraz faktyczne objęcie nieruchomości posiadanie przez Spółkę Celową rozumieniu 2 pkt 10 ustawy zmienianej 1 może nastąpić nie wcześniej niż po upływie 120 dni od dnia, którym organ pierwszej instancji wydał decyzję ustalającą wysokość odszkodowania, której znacza dłuższy termin dla obszarów określonych decyzji inwestycji zakresie Centralnego Portu Komunikacyjnego.
+- **1)** wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego w przypadku, gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o niezwłocznym zajęciu nieruchomości odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż w terminie 30 dni od dnia wejścia w życie niniejszej ustawy;
+- **2)** w terminie 60 dni od dnia wejścia w życie niniejszej ustawy wydaje się decyzję ustalającą wysokość odszkodowania; do postępowań w sprawie ustalenia wysokości odszkodowania z tytułu wywłaszczenia nieruchomości stosuje się przepisy działu III rozdziału 6 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą;
+- **3)** wydanie nieruchomości, opróżnienie lokali i innych pomieszczeń oraz faktyczne objęcie nieruchomości w posiadanie przez Spółkę Celową w rozumieniu art. 2 pkt 10 ustawy zmienianej w art. 1 może nastąpić nie wcześniej niż po upływie 120 dni od dnia, w którym organ pierwszej instancji wydał decyzję ustalającą wysokość odszkodowania, o której mowa w pkt 2, nie później jednak niż w terminie 120 dni, licząc od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie Centralnego Portu Komunikacyjnego stała się ostateczna; na wniosek Spółki Celowej organ wyznacza dłuższy termin dla obszarów określonych w decyzji o ustaleniu lokalizacji inwestycji w zakresie Centralnego Portu Komunikacyjnego.
 
-**Art. 5.** Jeżeli decyzji inwestycji zakresie Centralnego Portu Komunikacyjnego został nadany całości lub części rygor natychmiastowej wykonalności przed dniem wejścia życie niniejszej ustawy:
+**Art. 5.** Jeżeli decyzji o ustaleniu lokalizacji inwestycji w zakresie Centralnego Portu Komunikacyjnego został nadany w całości lub w części rygor natychmiastowej wykonalności przed dniem wejścia w życie niniejszej ustawy:
 
-**Art. 6.** Zgody na wszczęcie postępowania wydanie decyzji inwestycji celu publicznego udzielone na podstawie 120b ust. 2 ustawy zmienianej 1 brzmieniu dotychczasowym wydane przed dniem wejścia życie niniejszej ustawy pozostają mocy.
+- **1)** do tej decyzji stosuje się przepisy art. 44a ust. 2, art. 52 ust. 1a oraz art. 59a ust. 2 ustawy zmienianej w art. 1, z tym że decyzję ustalającą wysokość odszkodowania wydaje się w terminie 60 dni od dnia wejścia w życie niniejszej ustawy;
+- **2)** wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego w przypadku, gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej tą decyzją odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.
+**Art. 6.** Zgody na wszczęcie postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego udzielone na podstawie art. 120b ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym wydane przed dniem wejścia w życie niniejszej ustawy pozostają w mocy.
+
+**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 1420
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 grudnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1420 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 11 grudnia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001420) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1420/text.pdf) |
 
-Poz. 1420 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 11 grudnia 2012 r.
 w sprawie wykazu specjalizacji uprawniających lekarza do samodzielnego wykonywania czynności diagnostyki laboratoryjnej w medycznym laboratorium diagnostycznym Na podstawie art. 16g ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r.
-Nr 277, poz. 1634 i Nr 291, poz. 1707 oraz z 2012 r. poz. 95) zarządza się, co następuje: § 1. Wykaz specjalizacji uprawniających lekarza do samodzielnego wykonywania czynności diagnostyki laboratoryjnej, o których mowa w art. 2 ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2004 r. Nr 144, poz. 1529, z późn. zm. ), w medycznym laboratorium diagnostycznym jest określony w załączniku do rozporządzenia.
+Nr 277, poz. 1634 i Nr 291, poz. 1707 oraz z 2012 r. poz. 95) zarządza się, co następuje:
+§ 1. Wykaz specjalizacji uprawniających lekarza do samodzielnego wykonywania czynności diagnostyki laboratoryjnej, o których mowa w art. 2 ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2004 r. Nr 144, poz. 1529, z późn. zm. ), w medycznym laboratorium diagnostycznym jest określony w załączniku do rozporządzenia.
 § 2. Lekarze, którzy na podstawie dotychczasowych przepisów nabyli uprawnienia do samodzielnego wykonywania czynności diagnostyki laboratoryjnej w medycznym laboratorium diagnostycznym, zachowują te uprawnienia.
 § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
 Minister Zdrowia: B.A. Arłukowicz WYKAZ SPECJALIZACJI UPRAWNIAJĄCYCH LEKARZA DO SAMODZIELNEGO WYKONYWANIA CZYNNOŚCI DIAGNOSTYKI LABORATORYJNEJ W MEDYCZNYM LABORATORIUM DIAGNOSTYCZNYM

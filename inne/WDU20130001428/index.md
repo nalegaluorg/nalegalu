@@ -8,7 +8,7 @@ pos: 1428
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 100/7/A/2013 WYROK z dnia 22 października 2013 r.

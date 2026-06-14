@@ -8,7 +8,7 @@ pos: 1418
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej
@@ -41,6 +41,13 @@ source: "isap-pdf"
 2. Przepisy ust. 1 stosuje się także do osób, które na skutek innych okoliczności związanych z wojną rozpoczętą w 1939 r., były zmuszone opuścić byłe terytorium Rzeczypospolitej Polskiej.
 
 **Art. 2.** Prawo do rekompensaty przysługuje właścicielowi nieruchomości pozostawionych poza obecnymi granicami Rzeczypospolitej Polskiej, jeżeli spełnia on łącznie następujące wymogi:
+
+- **1)** był w dniu 1 września 1939 r. obywatelem polskim i miał miejsce zamieszkania na byłym terytorium Rzeczypospolitej Polskiej w rozumieniu przepisów:
+    - **a)** art. 3 ustawy z dnia 2 sierpnia 1926 r. o prawie właściwym dla stosunków prywatnych wewnętrznych (Dz. U. poz. 580) lub
+    - **b)** art. 24 Kodeksu Postępowania Cywilnego (Dz. U. z 1932 r. poz. 934), lub
+    - **c)** § 3–10 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 maja 1934 r. wydanego w porozumieniu z Ministrem Skarbu co do § 2 ust. 3–5, z Ministrem Spraw Wojskowych co do §§ 20, 21, 22, 24 ust. 3, § 49 ust. 1 i 2, § 55 i § 56 oraz z Ministrem Spraw Zagranicznych co do § 18 ust. 1 i 2, § 51 i § 55, o meldunkach i księgach ludności (Dz. U. poz. 489) – oraz opuścił byłe terytorium Rzeczypospolitej Polskiej z przyczyn, o których mowa w art. 1, lub z tych przyczyn nie mógł na nie powrócić;
+
+- **2)** posiada obywatelstwo polskie.
 
 **Art. 3.**
 

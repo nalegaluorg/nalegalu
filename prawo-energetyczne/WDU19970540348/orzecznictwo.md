@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne.*
 
-Łącznie: **911** orzeczeń
-(pominięto 3138 orzeczeń sądów rejonowych)
+Łącznie: **912** orzeczeń
+(pominięto 3155 orzeczeń sądów rejonowych)
 
 ## art. 1 (35)
 
@@ -53,7 +53,7 @@ Orzeczenia powołujące: *Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne
 - 2013-06-28 | SO | [VI ACa 1544/12](https://www.saos.org.pl/judgments/24980) | Wyrok
 - 2013-04-25 | SO | [VI ACa 1364/12](https://www.saos.org.pl/judgments/16889) | Wyrok
 
-## art. 3 (190)
+## art. 3 (191)
 
 - 2004-06-15 | SN | [III SZP 2/04](https://www.saos.org.pl/judgments/82729) | Uchwała ★
 - 2003-10-22 | TK | [Ts 84/03](https://www.saos.org.pl/judgments/106493) | Postanowienie ★
@@ -61,6 +61,7 @@ Orzeczenia powołujące: *Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne
 - 2010-04-21 | SN | [V CSK 345/09](https://www.saos.org.pl/judgments/92101) | Wyrok ★
 - 2005-06-10 | SN | [II CK 738/04](https://www.saos.org.pl/judgments/163310) | Wyrok ★
 - 2003-04-09 | SN | [I CKN 252/01](https://www.saos.org.pl/judgments/81951) | Wyrok ★
+- 2025-03-31 | SO | [I AGa 64/24](https://www.saos.org.pl/judgments/546016) | Wyrok
 - 2023-02-02 | SO | [III AUa 38/22](https://www.saos.org.pl/judgments/493184) | Wyrok
 - 2022-10-11 | SO | [V AGa 63/22](https://www.saos.org.pl/judgments/509940) | Wyrok
 - 2022-04-13 | SO | [I AGa 351/20](https://www.saos.org.pl/judgments/482603) | Wyrok
@@ -250,7 +251,7 @@ Orzeczenia powołujące: *Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne
 
 - 2019-04-10 | SO | [III Ca 54/19](https://www.saos.org.pl/judgments/388599) | Uzasadnienie
 
-## art. 4 (59)
+## art. 4 (60)
 
 - 2000-09-26 | TK | [P 11/99](https://www.saos.org.pl/judgments/206035) | Wyrok ★
 - 2000-10-23 | TK | [U 9/99](https://www.saos.org.pl/judgments/105725) | Postanowienie ★
@@ -258,6 +259,7 @@ Orzeczenia powołujące: *Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne
 - 2010-04-21 | SN | [V CSK 345/09](https://www.saos.org.pl/judgments/92101) | Wyrok ★
 - 2009-07-15 | SN | [III SK 34/08](https://www.saos.org.pl/judgments/90612) | Wyrok ★
 - 2002-05-21 | SN | [III CZP 27/02](https://www.saos.org.pl/judgments/81410) | Postanowienie
+- 2025-03-31 | SO | [I AGa 64/24](https://www.saos.org.pl/judgments/546016) | Wyrok
 - 2024-08-01 | SO | [I AGa 82/24](https://www.saos.org.pl/judgments/495134) | Wyrok
 - 2023-04-20 | SO | [I AGa 69/21](https://www.saos.org.pl/judgments/490695) | Wyrok
 - 2022-09-20 | SO | [I ACa 105/22](https://www.saos.org.pl/judgments/516342) | Wyrok
@@ -689,13 +691,14 @@ Orzeczenia powołujące: *Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne
 
 - 2011-11-29 | SN | [I CSK 99/11](https://www.saos.org.pl/judgments/96414) | Wyrok ★
 
-## art. 9 (105)
+## art. 9 (106)
 
 - 2006-07-25 | TK | [P 24/05](https://www.saos.org.pl/judgments/107640) | Wyrok ★
 - 2000-09-26 | TK | [P 11/99](https://www.saos.org.pl/judgments/206035) | Wyrok ★
 - 2004-06-15 | SN | [III SZP 2/04](https://www.saos.org.pl/judgments/82729) | Uchwała ★
 - 2000-10-23 | TK | [U 9/99](https://www.saos.org.pl/judgments/105725) | Postanowienie ★
 - 2008-12-19 | SN | [III SK 10/08](https://www.saos.org.pl/judgments/89382) | Wyrok ★
+- 2025-03-31 | SO | [I AGa 64/24](https://www.saos.org.pl/judgments/546016) | Wyrok
 - 2023-04-20 | SO | [I AGa 69/21](https://www.saos.org.pl/judgments/490695) | Wyrok
 - 2022-09-20 | SO | [I ACa 105/22](https://www.saos.org.pl/judgments/516342) | Wyrok
 - 2022-07-27 | SO | [VII AGa 1229/21](https://www.saos.org.pl/judgments/480258) | Wyrok

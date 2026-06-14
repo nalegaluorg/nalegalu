@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Konwencja o prawach dziecka, przyjęta przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 20 listopada 1989 r.*
 
 Łącznie: **70** orzeczeń
-(pominięto 31 orzeczeń sądów rejonowych)
+(pominięto 32 orzeczeń sądów rejonowych)
 
 ## art. 1 (6)
 

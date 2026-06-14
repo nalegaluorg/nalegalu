@@ -8,10 +8,10 @@ pos: 1179
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 sierpnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1179 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1179/text.pdf) |
 
-Poz. 1179 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 lipca 2024 r.
-w sprawie reorganizacji Centralnego Laboratorium Ochrony Radiologicznej Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534) zarządza się, co następuje: § 1. Nadzór nad Centralnym Laboratorium Ochrony Radiologicznej z siedzibą w Warszawie, numer identyfikacyjny REGON 000327008, numer identyfikacji podatkowej NIP 525-000-83-18 , sprawuje minister właściwy do spraw gospodarki surowcami energetycznymi.
+w sprawie reorganizacji Centralnego Laboratorium Ochrony Radiologicznej Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534) zarządza się, co następuje:
+§ 1. Nadzór nad Centralnym Laboratorium Ochrony Radiologicznej z siedzibą w Warszawie, numer identyfikacyjny REGON 000327008, numer identyfikacji podatkowej NIP 525-000-83-18 , sprawuje minister właściwy do spraw gospodarki surowcami energetycznymi.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Prezes Rady Ministrów: D. Tusk
 

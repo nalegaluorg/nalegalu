@@ -8,10 +8,10 @@ pos: 1927
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 września 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1927 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 września 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001927) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1927/text.pdf) |
 
-Poz. 1927 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 września 2022 r.
 w sprawie organizacji roku szkolnego w szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i w schroniskach dla nieletnich Na podstawie art. 47 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082 oraz z 2022 r.
-poz. 655, 1079, 1116, 1383, 1700 i 1730) zarządza się, co następuje: § 1. Zajęcia dydaktyczno-wychowawcze w szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i w schroniskach dla nieletnich rozpoczynają się w pierwszym powszednim dniu września, z wyjątkiem soboty, a kończą w ostatni piątek czerwca.
+poz. 655, 1079, 1116, 1383, 1700 i 1730) zarządza się, co następuje:
+§ 1. Zajęcia dydaktyczno-wychowawcze w szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i w schroniskach dla nieletnich rozpoczynają się w pierwszym powszednim dniu września, z wyjątkiem soboty, a kończą w ostatni piątek czerwca.
 § 2. 1. Zajęcia dydaktyczno-wychowawcze w roku szkolnym dzielą się na dwa semestry:
 1) I semestr – od dnia rozpoczęcia zajęć dydaktyczno-wychowawczych we wrześniu do ostatniego powszedniego dnia stycznia, z wyjątkiem soboty;
 2) II semestr – od pierwszego powszedniego dnia lutego, z wyjątkiem soboty, do dnia zakończenia rocznych zajęć dydaktyczno-wychowawczych.
@@ -44,7 +44,7 @@ poz. 655, 1079, 1116, 1383, 1700 i 1730) zarządza się, co następuje: § 1. Za
 4) zajęcia w warsztatach szkolnych;
 5) prace społecznie użyteczne;
 6) zajęcia w ramach wolontariatu.
-Dziennik Ustaw – 2 – Poz. 1927 § 6. Wychowankowi umieszczonemu w izbie adaptacyjnej w okręgowym ośrodku wychowawczym, zakładzie poprawczym i w schronisku dla nieletnich szkoła zapewnia udział w zajęciach dydaktyczno-wychowawczych organizowanych dla wychowanków, a w sytuacjach zagrożenia bezpieczeństwa – w zajęciach indywidualnych, według ustalonego tygodniowego rozkładu zajęć.
+§ 6. Wychowankowi umieszczonemu w izbie adaptacyjnej w okręgowym ośrodku wychowawczym, zakładzie poprawczym i w schronisku dla nieletnich szkoła zapewnia udział w zajęciach dydaktyczno-wychowawczych organizowanych dla wychowanków, a w sytuacjach zagrożenia bezpieczeństwa – w zajęciach indywidualnych, według ustalonego tygodniowego rozkładu zajęć.
 § 7. W Dniu Edukacji Narodowej organizuje się dla wychowanków zajęcia, o których mowa w § 5.
 § 8. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2022 r.
 Minister Sprawiedliwości: Z. Ziobro

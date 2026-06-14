@@ -8,10 +8,10 @@ pos: 1191
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lipca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1191 Załączniki dorozporządzeniaMinistraSprawiedliwości Załącznik nr 1 WZORZEC UMOWY PROSTEJ SPÓŁKIAKCYJNEJ Umowa prostej spółki akcyjnej z dnia ……………………… § 1 Stawający:
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ source: "isap-pdf"
 | Data wydania | 2021-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1191/text.pdf) |
-
-## Załącznik nr 1 — WZORZEC UMOWY PROSTEJ SPÓŁKIAKCYJNEJ Umowa prostej spółki akcyjnej z dnia ……………………… § 1 Stawający:
 
 1) ……………………………………………………………………………………………;
 2) ……………………………………………………………………………………………;
@@ -140,7 +138,7 @@ W skład pierwszej Rady dyrektorów Spółki akcjonariusze powołują:
 Informacja o podpisach akcjonariuszy:
 1) ………………….
 2) ………………….
-3) ………………… WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKIZ OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ DO ZAWARCIA ZCZŁONKIEM ZARZĄDU UMOWY PROSTEJ SPÓŁKIAKCYJNEJ PRZY WYKORZYSTANIU WZORCA UMOWY Uchwała nr ……………… z dnia ……………… § 1 Zgromadzenie wspólników spółki …………………………………………, zwanej dalej „Spółką”, działając na podstawie art. 210 § 1 Kodeksu spółek handlowych, postanawia ustanowić
+3) ………………… Załącznik nr 2 WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKIZ OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ DO ZAWARCIA ZCZŁONKIEM ZARZĄDU UMOWY PROSTEJ SPÓŁKIAKCYJNEJ PRZY WYKORZYSTANIU WZORCA UMOWY Uchwała nr ……………… z dnia ……………… § 1 Zgromadzenie wspólników spółki …………………………………………, zwanej dalej „Spółką”, działając na podstawie art. 210 § 1 Kodeksu spółek handlowych, postanawia ustanowić
 1) ………………………………………………………………………………………………,
 2) ……………………………………………………………………………………………… pełnomocnikiem / pełnomocnikami Spółki do zawarcia umowy spółki ………………………………………………………………………………………………… z członkiem / członkami zarządu Spółki
 1) ………………………………………………………………………………………………,
@@ -148,7 +146,7 @@ Informacja o podpisach akcjonariuszy:
 § 2 Pełnomocnik jest uprawniony do samodzielnego kształtowania treści umowy, kierując się interesem Spółki / Pełnomocnicy są uprawnieni do samodzielnego kształtowania treści umowy, kierując się interesem Spółki.
 § 3 Uchwała wchodzi w życie z dniem podjęcia.
 Uchwała została podjęta jednogłośnie / za uchwałą oddano …… głosów za, …… głosów przeciw.
-Informacja o podpisie Przewodniczącego Zgromadzenia wspólników: WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKIAKCYJNEJ DO ZAWARCIA ZCZŁONKIEM ZARZĄDU UMOWY PROSTEJ SPÓŁKIAKCYJNEJ PRZY WYKORZYSTANIU WZORCA UMOWY § 1 Walne Zgromadzenie spółki …………………...………………………………………………, zwanej dalej „Spółką”, działając na podstawie art. 379 § 1 Kodeksu spółek handlowych, postanawia ustanowić
+Informacja o podpisie Przewodniczącego Zgromadzenia wspólników: Załącznik nr 3 WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKIAKCYJNEJ DO ZAWARCIA ZCZŁONKIEM ZARZĄDU UMOWY PROSTEJ SPÓŁKIAKCYJNEJ PRZY WYKORZYSTANIU WZORCA UMOWY § 1 Walne Zgromadzenie spółki …………………...………………………………………………, zwanej dalej „Spółką”, działając na podstawie art. 379 § 1 Kodeksu spółek handlowych, postanawia ustanowić
 1) ………………………………………………………………………………………………,
 2) ……………………………………………………………………………………………….
 pełnomocnikiem / pełnomocnikami Spółki do zawarcia umowy spółki ………………………………………………………………………………………………….
@@ -157,22 +155,28 @@ z członkiem / członkami zarządu Spółki
 2) ……………………………………………………………………………………………… § 2 Pełnomocnik jest uprawniony do samodzielnego kształtowania treści umowy, kierując się interesem Spółki / Pełnomocnicy są uprawnieni do samodzielnego kształtowania treści umowy, kierując się interesem Spółki.
 § 3 Uchwała wchodzi w życie z dniem podjęcia.
 Uchwała została podjęta jednogłośnie / za uchwałą oddano …… głosów za, …… głosów przeciw.
-Informacja o podpisie Przewodniczącego Walnego Zgromadzenia: WZORZEC OŚWIADCZENIA CZŁONKÓW ZARZĄDU ALBO RADY DYREKTORÓW PROSTEJ SPÓŁKIAKCYJNEJ O WYSOKOŚCIKAPITAŁU AKCYJNEGO Członkowie Zarządu / Rady dyrektorów spółki ……………………………., zwanej dalej „Spółką”, oświadczają, że na dzień złożenia niniejszego oświadczenia kapitał akcyjny Spółki wynosi ……………………….. (słownie: ………………..).
+Informacja o podpisie Przewodniczącego Walnego Zgromadzenia: Załącznik nr 4 WZORZEC OŚWIADCZENIA CZŁONKÓW ZARZĄDU ALBO RADY DYREKTORÓW PROSTEJ SPÓŁKIAKCYJNEJ O WYSOKOŚCIKAPITAŁU AKCYJNEGO Członkowie Zarządu / Rady dyrektorów spółki ……………………………., zwanej dalej „Spółką”, oświadczają, że na dzień złożenia niniejszego oświadczenia kapitał akcyjny Spółki wynosi ……………………….. (słownie: ………………..).
 Informacja o podpisach wszystkich członków Zarządu / Rady dyrektorów:
 1) ……………………………..
 2) ……………………………..
 3) ……………………………..
-PROSTEJ SPÓŁKIAKCYJNEJ O WNIESIENIU WKŁADÓW NA POKRYCIE AKCJI W CZĘŚCI PRZEWIDZIANEJ W UMOWIE SPÓŁKI Członkowie Zarządu / Rady dyrektorów spółki ……………………………., zwanej dalej „Spółką”, oświadczają, że wszystkie wkłady do Spółki na pokrycie akcji zostały wniesione w części przewidzianej w umowie spółki.
+
+## Załącznik nr 5 — WZORZEC OŚWIADCZENIA CZŁONKÓW ZARZĄDU ALBO RADY DYREKTORÓW PROSTEJ SPÓŁKIAKCYJNEJ O WNIESIENIU WKŁADÓW NA POKRYCIE AKCJI W CZĘŚCI PRZEWIDZIANEJ W UMOWIE SPÓŁKI Członkowie Zarządu / Rady dyrektorów spółki ……………………………., zwanej dalej „Spółką”, oświadczają, że wszystkie wkłady do Spółki na pokrycie akcji zostały wniesione w części przewidzianej w umowie spółki.
+
 Informacja o podpisach wszystkich członków Zarządu / Rady dyrektorów:
 1) ……………………………..
 2) ……………………………..
 3) ……………………………..
-WZORZEC LISTY AKCJONARIUSZY PROSTEJ SPÓŁKIAKCYJNEJ …………………………..……. Prosta spółka akcyjna według stanu na dzień ………….
+
+## Załącznik nr 6 — WZORZEC LISTY AKCJONARIUSZY PROSTEJ SPÓŁKIAKCYJNEJ …………………………..……. Prosta spółka akcyjna według stanu na dzień ………….
+
 Imię i nazwisko / Nazwa Liczba i seria akcji Informacja o podpisach wszystkich członków Zarządu / Rady dyrektorów:
 1) ……………………………..
 2) ……………………………..
 3) ……………………………..
-WZORZEC UCHWAŁY O USTANOWIENIU PROKURY PRZEZPROSTĄ SPÓŁKĘAKCYJNĄ Zarząd / Rada dyrektorów spółki …………………………………………………………… ustanawia prokurentem / prokurentami spółki następującą osobę / następujące osoby:
+
+## Załącznik nr 7 — WZORZEC UCHWAŁY O USTANOWIENIU PROKURY PRZEZPROSTĄ SPÓŁKĘAKCYJNĄ Zarząd / Rada dyrektorów spółki …………………………………………………………… ustanawia prokurentem / prokurentami spółki następującą osobę / następujące osoby:
+
 1) …………………………………………, rodzaj prokury: (oddzielna / łączna / oddziałowa oddzielna / oddziałowa łączna); oznaczenie oddziału spółki : ………………………………;
 sposób wykonywania prokury : …………………………… ;
 2) …………………………………………, rodzaj prokury: (oddzielna / łączna / oddziałowa oddzielna / oddziałowa łączna); oznaczenie oddziału spółki : ………………………………;
@@ -181,7 +185,9 @@ Informacja o podpisach wszystkich członków Zarządu / Rady dyrektorów:
 1) .........................................................
 2) .........................................................
 3) .........................................................
-WZORZEC WYKAZU ADRESÓW DO DORĘCZEŃALBO ADRESÓW DO DORĘCZEŃ ELEKTRONICZNYCH CZŁONKÓW ZARZĄDU / RADY DYREKTORÓW PROSTEJ SPÓŁKIAKCYJNEJ …………………………..……. Prosta spółka akcyjna według stanu na dzień ………….
+
+## Załącznik nr 8 — WZORZEC WYKAZU ADRESÓW DO DORĘCZEŃALBO ADRESÓW DO DORĘCZEŃ ELEKTRONICZNYCH CZŁONKÓW ZARZĄDU / RADY DYREKTORÓW PROSTEJ SPÓŁKIAKCYJNEJ …………………………..……. Prosta spółka akcyjna według stanu na dzień ………….
+
 Imię i nazwisko Adres do doręczeń albo adres do doręczeń elektronicznych Informacja o podpisach wszystkich członków Zarządu / Rady dyrektorów:
 1) ……………………………..
 2) ……………………………..

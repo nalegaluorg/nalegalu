@@ -8,10 +8,10 @@ pos: 641
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 kwietnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 641 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/641/text.pdf) |
 
-Poz. 641 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 kwietnia 2024 r.
 zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych Na podstawie art. 9 ust. 5 ustawy z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych (Dz. U.
-z 2021 r. poz. 1496) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2017 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. z 2020 r. poz. 2244 oraz z 2023 r. poz. 1122) wprowadza się następujące zmiany:
+z 2021 r. poz. 1496) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2017 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych (Dz. U. z 2020 r. poz. 2244 oraz z 2023 r. poz. 1122) wprowadza się następujące zmiany:
 1) w § 2 w pkt 3 w lit. b w tiret drugim w części wspólnej kropkę zastępuje się przecinkiem i dodaje się wyraz „albo” oraz dodaje się tiret trzecie w brzmieniu: „− przez okres nie dłuższy niż 24 miesiące od dnia zawarcia umowy o przyznaniu pomocy finansowej w ramach interwencji, o której mowa w art. 77 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), objętej Planem Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, zwanej dalej „umową o przyznaniu pomocy w ramach interwencji”, ale nie później niż do dnia 30 czerwca 2029 r., nie więcej niż w 4 etapach, a każdy z etapów będzie realizowany przez okres od 90 do 180 dni, zgodnie z umową o przyznaniu pomocy w ramach interwencji.”;
 2) w § 3 w pkt 2 w lit. b dodaje się przecinek oraz dodaje się lit. c w brzmieniu: „c) umowie o przyznaniu pomocy w ramach interwencji”;
 3) w § 8:
 a) w ust. 1 w pkt 1 liczbę „120 000” zastępuje się liczbą „150 000”,
 b) ust. 2 otrzymuje brzmienie: „2. Przez najkorzystniejszą ofertę należy rozumieć ofertę z najniższą ceną lub kosztem lub ofertę, która przedstawia najkorzystniejszy bilans ceny lub kosztu i innych kryteriów określonych przez podmiot, któremu udzielono wsparcia.”;
-Dziennik Ustaw – 2 – Poz. 641
 4) w § 10:
 a) w ust. 2 w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje się wyraz „albo” oraz dodaje się lit. c w brzmieniu: „c) po zrealizowaniu operacji lub jej etapu, o których mowa w umowie o przyznaniu pomocy w ramach interwencji.”,
 b) w ust. 3 w pkt 2: – po lit. b dodaje się lit. ba w brzmieniu: „ba) dokumenty, o których mowa w umowie o przyznaniu pomocy w ramach interwencji,”, – w lit. c przed wyrazem „działania” dodaje się wyrazy „oświadczenie, że”,

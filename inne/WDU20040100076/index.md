@@ -8,7 +8,7 @@ pos: 76
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
@@ -33,6 +33,34 @@ source: "isap-pdf"
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** gospodarstwo rolne – gospodarstwo w rozumieniu art. 3 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/2115”;
+- **2)** producent – producenta rolnego, beneficjenta programów rybackich, posiadacza zwierzęcia, organizację producentów, podmiot prowadzący zakład utylizacyjny oraz potencjalnego beneficjenta;
+- **3)** producent rolny – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, będącą:
+    - **a)** (uchylona)
+    - **b)** rolnikiem w rozumieniu art. 3 pkt 1 rozporządzenia 2021/2115;
+    - **c)** (uchylona) 3a) (uchylony) 3b) beneficjent programów rybackich – beneficjenta programów rybackich finansowanych ze środków europejskich i wdrażanych przez Agencję;
+
+- **3c)** posiadacz zwierzęcia: UE L 84 z 31.03.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/429” – w odniesieniu do bydła, wielbłądowatych, jeleniowatych, owiec, kóz i świń, – art. 2 pkt 3 rozporządzenia wykonawczego Komisji (UE) 2021/963 z dnia 10 czerwca 2021 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429, (UE) 2016/1012 i (UE) 2019/6 w odniesieniu do identyfikacji i rejestracji koniowatych oraz określającego wzory dokumentów identyfikacyjnych dla tych zwierząt (Dz. Urz. UE L 213 z
+    - **a)** podmiot w rozumieniu: – art. 4 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r. w sprawie przenośnych chorób zwierząt oraz zmieniającego i uchylającego niektóre akty w dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz.
+
+16. 06.2021, str. 3) – w odniesieniu do koniowatych – z wyłączeniem przewoźnika w rozumieniu art. 4 pkt 25 rozporządzenia 2016/429,
+
+- **b)** zakład w rozumieniu art. 4 pkt 27 rozporządzenia 2016/429 – w odniesieniu do ptaków z gatunków: kura (Gallus gallus), kaczka (Anas platyrhynchos), kaczka piżmowa (Cairina moschata), gęś (Anser anser), gęś garbonosa (Anser cygnoides), indyk (Meleagris gallopavo), przepiórka japońska (Coturnix japonica), perlica (Numida meleagris) oraz struś (Struthio camelus), w tym wylęgarnię w rozumieniu art. 4 pkt 47 rozporządzenia 2016/429,
+- **c)** rzeźnię w rozumieniu ust. 1 pkt 1.16 załącznika I do rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14),
+- **d)** właściciela koniowatego;
+- **4)** organizacja producentów – grupę producentów rolnych i związek grup producentów rolnych uznane na podstawie przepisów ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145) oraz organizację producentów, zrzeszenie organizacji producentów, organizację międzybranżową, międzynarodową organizację producentów, międzynarodowe zrzeszenie organizacji producentów i międzynarodową organizację międzybranżową uznane na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm. );
+- **5)** (uchylony)
+- **6)** podmiot prowadzący zakład utylizacyjny – podmiot prowadzący zakład przetwórczy lub spalarnię w rozumieniu przepisów o systemie identyfikacji i rejestracji zwierząt;
+- **6a)** potencjalny beneficjent – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która może:
+    - **a)** ubiegać się o przyznanie pomocy w ramach działań objętych programem rozwoju obszarów wiejskich,
+    - **b)** uczestniczyć w innych niefinansowych, współfinansowanych lub finansowanych ze środków Unii Europejskiej lub ze środków budżetowych mechanizmach administrowanych przez Agencję lub Krajowy Ośrodek Wsparcia Rolnictwa, w ramach których odpowiednio Agencja lub Krajowy Ośrodek Wsparcia Rolnictwa realizuje swoje zadania – niebędącą producentem rolnym, beneficjentem programów rybackich, posiadaczem zwierzęcia, organizacją producentów lub podmiotem prowadzącym zakład utylizacyjny;
+
+- **6b)** jednostka gruntu nierolniczego – jednostkę gruntu nierolniczego w rozumieniu art. 2 pkt 12 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 1741, z 2025 r. poz. 321 oraz z 2026 r. poz. 305);
+- **7)** działka rolna – działkę rolną w rozumieniu art. 2 pkt 4 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023– 2027;
+- **7a)** właściciel koniowatego – właściciela w rozumieniu art. 2 pkt 4 rozporządzenia wykonawczego Komisji (UE) 2021/963 z dnia 10 czerwca 2021 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429, (UE) 2016/1012 i (UE) 2019/6 w odniesieniu do identyfikacji i rejestracji koniowatych oraz określającego wzory dokumentów identyfikacyjnych dla tych zwierząt;
+- **8)** zwierzęta – bydło, wielbłądowate, jeleniowate, owce, kozy, świnie i koniowate, o których mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, oraz ptaki z gatunków: kura (Gallus gallus), kaczka (Anas platyrhynchos), kaczka piżmowa (Cairina moschata), gęś (Anser anser), gęś garbonosa (Anser cygnoides), indyk (Meleagris gallopavo), przepiórka japońska (Coturnix japonica), perlica (Numida meleagris) oraz struś (Struthio camelus);
+- **9)** płatności – pomoc finansową dla producentów rolnych, organizacji producentów i potencjalnych beneficjentów udzielaną w całości lub w części ze środków Europejskiego Funduszu Orientacji i Gwarancji Rolnej, Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz przejściowe wsparcie krajowe, o którym mowa w przepisach o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027.
+
 **Art. 3a.**
 
 1. Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że przepisy ustawy stanowią inaczej.
@@ -47,6 +75,13 @@ source: "isap-pdf"
 3. Strony oraz inne osoby uczestniczące w postępowaniu, o którym mowa w ust. 1, są obowiązane przedstawiać dowody oraz dawać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek; ciężar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne.
 
 **Art. 4.** System składa się z:
+
+- **1)** ewidencji producentów;
+- **2)** ewidencji gospodarstw rolnych;
+- **3)** ewidencji wniosków o przyznanie płatności;
+- **3a)** systemu identyfikacji działek rolnych, o którym mowa w art. 68 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/2116”;
+- **3b)** systemu monitorowania obszarów w rozumieniu art. 65 ust. 4 lit. b rozporządzenia 2021/2116;
+- **4)** dokumentacji związanej z prowadzeniem ewidencji i systemów, o których mowa w pkt 1–3b.
 
 **Art. 5.**
 
@@ -100,6 +135,14 @@ source: "isap-pdf"
 3. Jeżeli producentem, pełnomocnikiem lub członkiem organizacji producentów jest osoba fizyczna nieposiadająca obywatelstwa polskiego, ewidencja producentów zamiast numeru ewidencyjnego powszechnego elektronicznego systemu ewidencji ludności (PESEL) zawiera numer paszportu tej osoby lub innego dokumentu stwierdzającego jej tożsamość.
 
 **Art. 8.** Ewidencja gospodarstw rolnych zawiera:
+
+- **1)** numer identyfikacyjny, o którym mowa w art. 12;
+- **2)** numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli numer taki został nadany;
+- **3)** dane dotyczące powierzchni gospodarstwa rolnego, z podaniem identyfikatorów oraz powierzchni wchodzących w jego skład działek ewidencyjnych, na których są położone działki rolne;
+- **4)** dane umożliwiające identyfikację działek rolnych wchodzących w skład gospodarstwa rolnego, dotyczące w szczególności:
+    - **a)** powierzchni działek rolnych wykazanej w hektarach, z dokładnością do drugiego miejsca po przecinku,
+    - **b)** lokalizacji działek rolnych, z podaniem numerów działek ewidencyjnych, na których są one położone,
+    - **c)** sposobu wykorzystywania działek rolnych.
 
 **Art. 9.**
 

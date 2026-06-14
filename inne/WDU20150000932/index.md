@@ -8,7 +8,7 @@ pos: 932
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 83/6/A/2015 WYROK z dnia 23 czerwca 2015 r.

@@ -8,10 +8,12 @@ pos: 150
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Dz.U. poz. 150
+# o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw
+
+*USTAWA z dnia 6 grudnia 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +27,64 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000150) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/150/text.pdf) |
 
-USTAWA dnia 6 grudnia 2018 o zmianie o zawodach lekarza lekarza dentysty oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2018 r. poz. 617, z późn. zm. ) w art. 40:
 
-**Art. 1.** W ustawie dnia 5 grudnia 1996 o zawodach lekarza lekarza dentysty (Dz. U. 2018 poz. 617, późn. zm. ) art. 40:
+- **1)** ust. 3a otrzymuje brzmienie: „3a. Zwolnienia z tajemnicy lekarskiej, o którym mowa w ust. 3, nie stosuje się, jeśli ujawnieniu tajemnicy sprzeciwi się inna osoba bliska w rozumieniu art. 3 ust. 1 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta lub sprzeciwił się temu, zgodnie z art. 14 ust. 4 tej ustawy, pacjent za życia, z zastrzeżeniem ust. 3b i 3c. Sprzeciw dołącza się do dokumentacji medycznej pacjenta.”;
+- **2)** po ust. 3a dodaje się ust. 3b–3d w brzmieniu: „3b. W przypadku sporu między osobami bliskimi w rozumieniu art. 3 ust. 1 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta o ujawnienie tajemnicy lub o zakres jej ujawnienia, zgodę na ujawnienie tajemnicy wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm. ), w postępowaniu nieprocesowym na wniosek osoby bliskiej lub lekarza. Lekarz może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o ujawnienie tajemnicy lub sprzeciwiająca się jej ujawnieniu jest osobą bliską. Sąd, wyrażając zgodę na ujawnienie tajemnicy, może określić zakres jej ujawnienia, o którym mowa w ust. 2a.
 
-**Art. 2.** W ustawie dnia 6 listopada 2008 o prawach pacjenta Rzeczniku Praw Pacjenta (Dz. U. 2017 poz. 1318 1524 oraz 2018 poz. 1115, 1515, 2219 2429) wprowadza następujące zmiany:
+3c. W przypadku gdy pacjent za życia sprzeciwił się ujawnieniu tajemnicy lekarskiej, o której mowa w ust. 3, sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej w rozumieniu art. 3 ust. 1 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, może wyrazić zgodę na ujawnienie tajemnicy i określić zakres jej ujawnienia, jeżeli jest to niezbędne:
 
-**Art. 3.** W ustawie dnia 6 czerwca 1997 – Kodeks postępowania karnego (Dz. U. 2018 poz. 1987 2399) art. 181 § 1 otrzymuje brzmienie: „§ 1. W wypadkach przewidzianych art. 179 art. 180 sąd przesłuchuje taką osobę na rozprawie wyłączeniem jawności. Nie dotyczy to wypadku, gdy zwolnienie tajemnicy nastąpiło na podstawie art. 40 2 pkt 4, art. 40 3, art. 40 3b 3c dnia 5 grudnia 1996 o zawodach lekarza lekarza dentysty (Dz. U. 2018 poz. 617, późn. zm. ), art. 14 2 pkt 3, art. 14 3 art. 14 6 7 dnia 6 listopada 2008 o prawach pacjenta Rzeczniku Praw Pacjenta (Dz. U. 2017 poz. 1318, późn. zm. ), przewidzianym przez te zakresie.”.
+- **1)** w celu dochodzenia odszkodowania lub zadośćuczynienia, z tytułu śmierci pacjenta;
+- **2)** dla ochrony życia lub zdrowia osoby bliskiej.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+3d. W przypadku wystąpienia do sądu z wnioskiem, o którym mowa w ust. 3b albo 3c, sąd bada:
+
+- **1)** interes uczestników postępowania;
+- **2)** rzeczywistą więź osoby bliskiej ze zmarłym pacjentem;
+- **3)** wolę zmarłego pacjenta;
+- **4)** okoliczności wyrażenia sprzeciwu.”.
+
+**Art. 2.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318 i 1524 oraz z 2018 r. poz. 1115, 1515, 2219 i 2429) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 1 pkt 2 otrzymuje brzmienie: „2) osoba bliska – małżonka, krewnego do drugiego stopnia lub powinowatego do drugiego stopnia w linii prostej, przedstawiciela ustawowego, osobę pozostającą we wspólnym pożyciu lub osobę wskazaną przez pacjenta;”;
+- **2)** w art. 14:
+    - **a)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. W sytuacjach, o których mowa w ust. 2, ujawnienie tajemnicy może nastąpić wyłącznie w niezbędnym zakresie. W sytuacji, o której mowa w ust. 2 pkt 3, zakres ujawnienia tajemnicy może określić pacjent lub jego przedstawiciel ustawowy.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Osoby wykonujące zawód medyczny, z wyjątkiem przypadków, o których mowa w ust. 2 pkt 1–3 i ust. 2a, są związane tajemnicą również po śmierci pacjenta, chyba że zgodę na ujawnienie tajemnicy wyrazi osoba bliska. Osoba bliska wyrażająca zgodę na ujawnienie tajemnicy może określić zakres jej ujawnienia, o którym mowa w ust. 2b.
+
+4. Zwolnienia z tajemnicy, o którym mowa w ust. 3, nie stosuje się, jeśli ujawnieniu tajemnicy sprzeciwi się inna osoba bliska lub sprzeciwił się temu pacjent za życia, z zastrzeżeniem ust. 6 i 7. Sprzeciw dołącza się do dokumentacji medycznej pacjenta.”,
+
+- **c)** dodaje się ust. 5–8 w brzmieniu: „5. Przed wyrażeniem sprzeciwu, o którym mowa w ust. 4, pacjent ma prawo do uzyskania informacji o skutkach złożenia sprzeciwu.
+
+6. W przypadku sporu między osobami bliskimi o ujawnienie tajemnicy lub o zakres jej ujawnienia, zgodę na ujawnienie tajemnicy wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm. ), w postępowaniu nieprocesowym na wniosek osoby bliskiej lub osoby wykonującej zawód medyczny. Osoba wykonująca zawód medyczny może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o ujawnienie tajemnicy lub sprzeciwiająca się jej ujawnieniu jest osobą bliską. Sąd, wyrażając zgodę na ujawnienie tajemnicy, może określić zakres jej ujawnienia, o którym mowa w ust. 2b.
+
+7. W przypadku gdy pacjent za życia sprzeciwił się ujawnieniu tajemnicy, o której mowa w ust. 4, sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej, może wyrazić zgodę na ujawnienie tajemnicy i określić zakres jej ujawnienia, jeżeli jest to niezbędne:
+
+- **1)** w celu dochodzenia odszkodowania lub zadośćuczynienia, z tytułu śmierci pacjenta;
+- **2)** dla ochrony życia lub zdrowia osoby bliskiej.
+
+8. W przypadku wystąpienia do sądu z wnioskiem, o którym mowa w ust. 6 albo 7, sąd bada:
+
+- **1)** interes uczestników postępowania;
+- **2)** rzeczywistą więź osoby bliskiej ze zmarłym pacjentem;
+- **3)** wolę zmarłego pacjenta;
+- **4)** okoliczności wyrażenia sprzeciwu.”;
+- **3)** w art. 26: Osoba wykonująca zawód medyczny może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o udostępnienie dokumentacji lub sprzeciwiająca się jej udostępnieniu jest osobą bliską.
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Po śmierci pacjenta dokumentacja medyczna jest udostępniana osobie upoważnionej przez pacjenta za życia lub osobie, która w chwili zgonu pacjenta była jego przedstawicielem ustawowym. Dokumentacja medyczna jest udostępniana także osobie bliskiej, chyba że udostępnieniu sprzeciwi się inna osoba bliska lub sprzeciwił się temu pacjent za życia, z zastrzeżeniem ust. 2a i 2b.”,
+    - **b)** po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. W przypadku sporu między osobami bliskimi o udostępnienie dokumentacji medycznej, zgodę na udostępnienie wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej lub osoby wykonującej zawód medyczny.
+
+2b. W przypadku gdy pacjent za życia sprzeciwił się udostępnieniu dokumentacji medycznej, o którym mowa w ust. 2, sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w postępowaniu nieprocesowym na wniosek osoby bliskiej, może wyrazić zgodę na udostępnienie dokumentacji medycznej i określić zakres jej udostępnienia, jeżeli jest to niezbędne:
+
+- **1)** w celu dochodzenia odszkodowania lub zadośćuczynienia, z tytułu śmierci pacjenta;
+- **2)** dla ochrony życia lub zdrowia osoby bliskiej.
+
+2c. W przypadku wystąpienia do sądu z wnioskiem, o którym mowa w ust. 2a albo 2b, sąd bada:
+
+- **1)** interes uczestników postępowania;
+- **2)** rzeczywistą więź osoby bliskiej ze zmarłym pacjentem;
+- **3)** wolę zmarłego pacjenta;
+- **4)** okoliczności wyrażenia sprzeciwu.”.
+
+**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399) w art. 181 § 1 otrzymuje brzmienie: „§ 1. W wypadkach przewidzianych w art. 179 i art. 180 sąd przesłuchuje taką osobę na rozprawie z wyłączeniem jawności. Nie dotyczy to wypadku, gdy zwolnienie z tajemnicy nastąpiło na podstawie art. 40 ust. 2 pkt 4, art. 40 ust. 3, art. 40 ust. 3b i 3c ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2018 r. poz. 617, z późn. zm. ), art. 14 ust. 2 pkt 3, art. 14 ust. 3 lub art. 14 ust. 6 i 7 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318, z późn. zm. ), w przewidzianym przez te ustawy zakresie.”.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

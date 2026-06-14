@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 19 listopada 2009 r. o grach hazardowych*
 
-Łącznie: **482** orzeczeń
-(pominięto 1253 orzeczeń sądów rejonowych)
+Łącznie: **484** orzeczeń
+(pominięto 1254 orzeczeń sądów rejonowych)
 
 ## art. 1 (107)
 
@@ -115,7 +115,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 listopada 2009 r. o grach hazardowych
 - 2014-03-12 | SO | [V Ka 1599/13](https://www.saos.org.pl/judgments/38353) | Uzasadnienie
 - 2013-02-14 | SO | [VI Ka 2/13](https://www.saos.org.pl/judgments/7992) | Uzasadnienie
 
-## art. 2 (225)
+## art. 2 (226)
 
 - 2015-10-21 | TK | [P 32/12](https://www.saos.org.pl/judgments/206729) | Wyrok ★
 - 2013-07-23 | TK | [P 4/11](https://www.saos.org.pl/judgments/111607) | Wyrok ★
@@ -153,6 +153,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 listopada 2009 r. o grach hazardowych
 - 2012-11-13 | SO | [VI ACa 754/12](https://www.saos.org.pl/judgments/6359) | Wyrok
 - 2012-10-26 | SO | [VI ACa 613/12](https://www.saos.org.pl/judgments/5472) | Wyrok
 - 2012-10-09 | SO | [VI ACa 553/12](https://www.saos.org.pl/judgments/6078) | Wyrok
+- 2026-04-01 | SO | [II AKa 120/24](https://www.saos.org.pl/judgments/545495) | Uzasadnienie
 - 2024-12-05 | SO | [II K 200/23](https://www.saos.org.pl/judgments/532937) | Wyrok
 - 2024-01-15 | SO | [VI K 1156/23](https://www.saos.org.pl/judgments/510918) | Wyrok
 - 2024-01-12 | SO | [IV Ka 1019/23](https://www.saos.org.pl/judgments/507797) | Wyrok
@@ -1486,7 +1487,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 listopada 2009 r. o grach hazardowych
 - 2019-02-18 | SO | [VI Ka 357/18](https://www.saos.org.pl/judgments/374625) | Wyrok
 - 2017-08-18 | SO | [V Kz 591/17](https://www.saos.org.pl/judgments/299373) | Uzasadnienie
 
-## art. 15 (21)
+## art. 15 (22)
 
 - 2013-07-23 | TK | [P 4/11](https://www.saos.org.pl/judgments/111607) | Wyrok ★
 - 2010-12-31 | TK | [Tw 25/10](https://www.saos.org.pl/judgments/206298) | Postanowienie ★
@@ -1508,6 +1509,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 listopada 2009 r. o grach hazardowych
 - 2018-07-10 | SO | [IV Ka 599/18](https://www.saos.org.pl/judgments/359994) | Wyrok
 - 2017-09-11 | SO | [IV Ka 473/17](https://www.saos.org.pl/judgments/311792) | Wyrok
 - 2016-10-19 | KIO | [KIO 1890/15](https://www.saos.org.pl/judgments/264921) | Postanowienie
+- 2026-05-15 | SO | [VI Ka 1466/25](https://www.saos.org.pl/judgments/546858) | Uzasadnienie
 - 2022-10-10 | SO | [X GC 521/22](https://www.saos.org.pl/judgments/488500) | Zarządzenie
 
 ## art. 18 (3)

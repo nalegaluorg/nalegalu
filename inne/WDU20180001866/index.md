@@ -8,10 +8,10 @@ pos: 1866
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 października 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1866 ZmianY do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r., przyjęte w Londynie dnia 22 maja 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001866) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1866/text.pdf) |
 
-ZmianY do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r., przyjęte w Londynie dnia 22 maja 2014 r.
 Przekład
 

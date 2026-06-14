@@ -8,10 +8,10 @@ pos: 780
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 maja 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 778800 Załączniki do rozporządzenia Ministra Infrastruktury z dnia 11 stycznia.2021 r. (poz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000780) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/780/text.pdf) |
 
+….) Załącznik nr 1 SZCZEGÓŁOWE WARUNKI, JAKIE SĄ OBOWIĄZANI SPEŁNIAĆ PRACOWNICY ZATRUDNIENI NA STANOWISKACH KOLEJOWYCH, W TYM WYMAGANE WYKSZTAŁCENIE, PROGRAM I ZAKRES PRZYGOTOWANIA ZAWODOWEGO I WYMAGANY CZAS JEGO TRWANIA ORAZ ZAKRES ZAGADNIEŃ EGZAMINACYJNYCH DLA POSZCZEGÓLNYCH STANOWISK KOLEJOWYCH
 1. Dyżurny ruchu I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie co najmniej średnie lub średnie branżowe.
-2. Staż pracy 2 lata pracy na innym stanowisku kolejowym oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe.
+2. Staż pracy – 2 lata pracy na innym stanowisku kolejowym oraz odbycie przygotowania zawodowego.
 Wariant C
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy 5 lat pracy na stanowisku nastawniczego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – 5 lat pracy na stanowisku nastawniczego oraz odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Liczba dni Liczba dni Liczba dni Lp. Temat dla wariantu dla wariantu dla wariantu A: B: C: Szkolenie teoretyczne
 1. Szkolenie teoretyczne nie jest według nie jest wymagane programu wymagane pracodawcy Staż stanowiskowy i szkolenie praktyczne
 1. Struktura organizacyjna przedsiębiorstwa: zapoznanie się z zagadnieniami 1 2 2 administracyjnymi i wybranymi zagadnieniami pracowniczymi
@@ -45,21 +46,21 @@ II. Program przygotowania zawodowego: Liczba dni Liczba dni Liczba dni Lp. Temat
 7. Zapoznanie z zagadnieniami systemu 1 1 1 zarządzania bezpieczeństwem (SMS)
 8. Zasady organizowania i wykonywania przewozu 2 3 3 koleją towarów niebezpiecznych
 9. Zasady organizacji międzynarodowych i krajowych przewozów osób i rzeczy; rozkłady 3 5 5 jazdy pociągów
-10. Dyspozytura struktura organizacyjna pionu dyspozytorskiego; nadzór dyspozytorski nad ruchem pasażerskim i towarowym; zapoznanie się z zasadami organizacji akcji ratunkowej po 4 6 6 zdarzeniu kolejowym; łączność dyspozytorska;
+10. Dyspozytura – struktura organizacyjna pionu dyspozytorskiego; nadzór dyspozytorski nad ruchem pasażerskim i towarowym; zapoznanie się z zasadami organizacji akcji ratunkowej po 4 6 6 zdarzeniu kolejowym; łączność dyspozytorska;
 współpraca dyspozytora liniowego z innymi dyspozytorami i dyżurnymi ruchu
 11. Ogólna budowa pojazdów kolejowych 1 2 2
-12. Oględziny techniczne wagonów w składzie pociągu, próby hamulca zespolonego 1 2 2
+12. Oględziny techniczne wagonów w składzie 1 2 2 pociągu, próby hamulca zespolonego
 13. Zabezpieczanie ładunków w wagonie, wzrokowa 1 1 1 ocena sprawności technicznej taboru kolejowego Suma 34 62 62 Zajęcia próbne
-1. Zajęcia próbne wykonywanie pracy pod 10 20 20 nadzorem na stanowisku dyżurnego ruchu Ogółem: 44 82 82 III. Zakres zagadnień egzaminacyjnych:
+1. Zajęcia próbne – wykonywanie pracy pod 10 20 20 nadzorem na stanowisku dyżurnego ruchu Ogółem: 44 82 82 III. Zakres zagadnień egzaminacyjnych:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu:
 a) techniki i organizacji ruchu kolejowego,
 b) sterowania ruchem kolejowym;
-2) część ustna znajomość zagadnień z zakresu:
+2) część ustna – znajomość zagadnień z zakresu:
 a) techniki i organizacji ruchu kolejowego,
 b) sygnalizacji kolejowej,
 c) systemu zarządzania bezpieczeństwem,
-d) obsługi urządzeń sterowania ruchem kolejowym i łączności oraz ogólna znajomość: budowy urządzeń sterowania ruchem kolejowym i łączności, organizacji i wykonywania wojskowych przewozów transportem kolejowym oraz przewozu koleją towarów niebezpiecznych, budowy urządzeń zabezpieczenia ruchu na przejazdach kolejowych, budowy toru kolejowego i rozjazdów kolejowych.
+d) obsługi urządzeń sterowania ruchem kolejowym i łączności oraz ogólna znajomość: – budowy urządzeń sterowania ruchem kolejowym i łączności, – organizacji i wykonywania wojskowych przewozów transportem kolejowym oraz przewozu koleją towarów niebezpiecznych, – budowy urządzeń zabezpieczenia ruchu na przejazdach kolejowych, – budowy toru kolejowego i rozjazdów kolejowych.
 2. Egzamin praktyczny:
 1) dokonanie zapisów w dokumentacji techniczno-ruchowej (egzemplarz szkoleniowy) podczas występowania usterek w działaniu urządzeń sterowania ruchem kolejowym;
 2) wypisanie rozkazów pisemnych (egzemplarz szkoleniowy) w zadanych przypadkach;
@@ -70,33 +71,33 @@ d) obsługi urządzeń sterowania ruchem kolejowym i łączności oraz ogólna z
 7) obsługa urządzeń rogatkowych z posterunku nastawczego;
 8) użycie środków technicznych służących do miejscowego zabezpieczania iglic zwrotnicowych w krańcowym położeniu, przejście na lokalne nastawianie zwrotnic;
 9) sposoby zabezpieczania drogi przebiegu dla jazd na sygnał zastępczy lub rozkaz pisemny.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465), zwanej dalej „ustawą Kodeks pracy”.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465), zwanej dalej „ustawą – Kodeks pracy”.
 V. 1. Zdanie egzaminu kwalifikacyjnego na stanowisko dyżurnego ruchu uprawnia do wykonywania czynności nastawniczego i zwrotniczego oraz dodatkowo do obsługi przejazdu kolejowego sterowanego z posterunku nastawczego.
 2. Staż pracy na innym stanowisku kolejowym, o którym mowa w wariancie B, nie jest wymagany w przypadku kandydatów do egzaminu ubiegających się o uzyskanie uprawnień na stanowisko dyżurny ruchu u zarządcy infrastruktury zarządzającego infrastrukturą kolejową obejmującą wyłącznie linie kolejowe o zasięgu miejskim, podmiejskim lub regionalnym lub u użytkownika bocznicy kolejowej.
 2. Nastawniczy I. Kwalifikacje wymagane od kandydatów do egzaminu:
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Lp. Temat Liczba dni Szkolenie teoretyczne
-1. Szkolenie teoretyczne według programu pracodawcy dla kandydatów, którzy posiadają wykształcenie określone w wariancie A dla stanowiska dyżurnego ruchu nie jest wymagane Staż stanowiskowy i szkolenie praktyczne
-1. Struktura organizacyjna przedsiębiorstwa: zapoznanie się z zagadnieniami administracyjnymi, wybranymi zagadnieniami pracowniczymi i z zagadnieniami systemu zarządzania bezpieczeństwem (SMS) 2
+1. Szkolenie teoretyczne według programu pracodawcy dla kandydatów, którzy posiadają wykształcenie określone w wariancie A dla stanowiska dyżurnego ruchu – nie jest wymagane Staż stanowiskowy i szkolenie praktyczne
+1. Struktura organizacyjna przedsiębiorstwa: zapoznanie się z zagadnieniami administracyjnymi, wybranymi zagadnieniami 2 pracowniczymi i z zagadnieniami systemu zarządzania bezpieczeństwem (SMS)
 2. Techniczne posterunki nastawcze: zapoznanie się z dokumentacją techniczno-ruchową prowadzoną na posterunku; zakres czynności podstawowych i dodatkowych nastawniczego; zapoznanie 7 z rodzajami urządzeń sterowania ruchem kolejowym oraz kolejowej łączności przewodowej i bezprzewodowej
 3. Regulamin techniczny posterunku technicznego 2
 4. Budowa, utrzymanie i zasady kontroli stanu technicznego torów 5 i rozjazdów
 5. Urządzenia elektroenergetyczne na posterunku ruchu 2
-6. Budowa i obsługa przejazdu kolejowego lub przejścia sterowanego z posterunku nastawczego oraz postępowanie w razie uszkodzenia urządzeń rogatkowych 4
+6. Budowa i obsługa przejazdu kolejowego lub przejścia sterowanego z posterunku nastawczego oraz postępowanie w razie uszkodzenia 4 urządzeń rogatkowych
 7. Ogólna budowa pojazdów kolejowych 1
 8. Oględziny techniczne wagonów w składzie pociągu, uproszczona 1 próba hamulca zespolonego
 9. Zabezpieczanie ładunków w wagonie, wzrokowa ocena sprawności 1 technicznej taboru kolejowego Suma 25 Zajęcia próbne
-1. Zajęcia próbne pod nadzorem na stanowisku nastawniczego 8 Ogółem: 33 III. Zakres zagadnień egzaminacyjnych:
+1. Zajęcia próbne – pod nadzorem na stanowisku nastawniczego 8 Ogółem: 33 III. Zakres zagadnień egzaminacyjnych:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu:
 a) techniki ruchu kolejowego,
 b) sterowania ruchem kolejowym;
-2) część ustna znajomość zagadnień z zakresu:
+2) część ustna – znajomość zagadnień z zakresu:
 a) techniki ruchu kolejowego,
 b) sygnalizacji kolejowej,
 c) obsługi urządzeń sterowania ruchem kolejowym i łączności,
-d) ogólna znajomość budowy urządzeń: sterowania ruchem kolejowym i łączności, zabezpieczenia ruchu na przejazdach kolejowych, toru kolejowego i rozjazdów kolejowych.
+d) ogólna znajomość budowy urządzeń: – sterowania ruchem kolejowym i łączności, – zabezpieczenia ruchu na przejazdach kolejowych, – toru kolejowego i rozjazdów kolejowych.
 2. Egzamin praktyczny:
 1) dokonanie zapisów w dokumentacji techniczno-ruchowej (egzemplarz szkoleniowy) podczas występowania usterek w działaniu urządzeń sterowania ruchem kolejowym;
 2) użycie środków technicznych służących do miejscowego zabezpieczania iglic zwrotnicowych w krańcowym położeniu;
@@ -106,27 +107,27 @@ d) ogólna znajomość budowy urządzeń: sterowania ruchem kolejowym i łączno
 6) odłączenie napędu zwrotnicowego o scentralizowanym sposobie nastawiania i przejścia na ręczne przestawianie zwrotnicy;
 7) obsługa urządzeń rogatkowych z posterunku nastawczego;
 8) sposoby zabezpieczania drogi przebiegu dla jazd na sygnał zastępczy lub rozkaz pisemny.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 V. Zdanie egzaminu kwalifikacyjnego na stanowisko nastawniczego uprawnia do wykonywania czynności na stanowisku zwrotniczego oraz dodatkowo do obsługi przejazdu kolejowego sterowanego z posterunku nastawczego.
 3. Zwrotniczy I. Kwalifikacje wymagane od kandydatów do egzaminu:
 1. Wykształcenie: co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
 2. Staż pracy: odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Lp. Temat Liczba dni Szkolenie teoretyczne
-1. Szkolenie teoretyczne według programu pracodawcy Dla kandydatów, którzy posiadają wykształcenie określone w wariancie A dla stanowiska dyżurnego ruchu nie jest wymagane Staż stanowiskowy i szkolenia praktyczne
+1. Szkolenie teoretyczne według programu pracodawcy Dla kandydatów, którzy posiadają wykształcenie określone w wariancie A dla stanowiska dyżurnego ruchu – nie jest wymagane Staż stanowiskowy i szkolenia praktyczne
 1. Struktura organizacyjna przedsiębiorstwa: zapoznanie się z zagadnieniami administracyjnymi, wybranymi zagadnieniami 2 pracowniczymi i z zagadnieniami systemu zarządzania bezpieczeństwem (SMS)
 2. Techniczne posterunki nastawcze: zapoznanie się z dokumentacją techniczno-ruchową prowadzoną na posterunku; zakres czynności podstawowych i dodatkowych zwrotniczego; zapoznanie 2 z rodzajami urządzeń sterowania ruchem kolejowym oraz kolejowej łączności przewodowej i bezprzewodowej
 3. Regulamin techniczny stacji/posterunku technicznego 1
 4. Budowa, utrzymanie i zasady kontroli stanu technicznego torów 3 i rozjazdów
 5. Urządzenia elektroenergetyczne na posterunku ruchu 1
 6. Budowa i obsługa przejazdu kolejowego lub przejścia sterowanego z posterunku nastawczego oraz postępowanie w razie 2 uszkodzenia urządzeń rogatkowych Suma 11 Zajęcia próbne
-1. Zajęcia próbne pod nadzorem na stanowisku zwrotniczego 3 Ogółem: 14 III. Zakres zagadnień egzaminacyjnych:
+1. Zajęcia próbne – pod nadzorem na stanowisku zwrotniczego 3 Ogółem: 14 III. Zakres zagadnień egzaminacyjnych:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematu lub rozwiązanie testu z zakresu techniki ruchu kolejowego;
-2) część ustna znajomość zagadnień z zakresu:
+1) część pisemna – opracowanie tematu lub rozwiązanie testu z zakresu techniki ruchu kolejowego;
+2) część ustna – znajomość zagadnień z zakresu:
 a) techniki ruchu kolejowego,
 b) sygnalizacji kolejowej,
 c) obsługi urządzeń sterowania ruchem kolejowym i łączności,
-d) ogólna znajomość budowy: urządzeń zabezpieczenia ruchu na przejazdach kolejowych, toru kolejowego i rozjazdów kolejowych.
+d) ogólna znajomość budowy: – urządzeń zabezpieczenia ruchu na przejazdach kolejowych, – toru kolejowego i rozjazdów kolejowych.
 2. Egzamin praktyczny:
 1) dokonanie zapisów w dokumentacji techniczno-ruchowej (egzemplarz szkoleniowy) podczas występowania usterek w działaniu urządzeń sterowania ruchem kolejowym;
 2) założenie zamka trzpieniowego i spony iglicowej;
@@ -135,39 +136,39 @@ d) ogólna znajomość budowy: urządzeń zabezpieczenia ruchu na przejazdach ko
 5) osłonięcie sygnałami zamkniętego toru szlakowego i stacyjnego;
 6) obsługa urządzeń rogatkowych z posterunku nastawczego;
 7) zabezpieczenie przejazdu w przypadku uszkodzenia urządzeń rogatkowych.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 V. Zdanie egzaminu kwalifikacyjnego na stanowisko zwrotniczego uprawnia dodatkowo do obsługi przejazdu kolejowego sterowanego z posterunku nastawczego.
 4. Kierownik pociągu: Kierownik pociągu pasażerskiego i towarowego I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu organizacji przewozów kolejowych lub ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu organizacji przewozów kolejowych lub ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy rok pracy na stanowisku konduktora lub manewrowego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – rok pracy na stanowisku konduktora lub manewrowego oraz odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Liczba dni dla Liczba dni dla Lp. Temat wariantu A: wariantu B: Szkolenie teoretyczne
-1. Szkolenie teoretyczne według programu nie jest wymagane pracodawcy Staż stanowiskowy i szkolenie praktyczne
-1. Regulaminy techniczne posterunków i odcinków zdalnego prowadzenia ruchu, prowadzenie dokumentacji techniczno-ruchowej, zasady prowadzenia ruchu pociągów, rodzaje urządzeń sterowania ruchem kolejowym i łączności, sygnalizacja kolejowa, przygotowywanie dróg 3 6 przebiegów dla jazd pociągowych i manewrowych
+1. Szkolenie teoretyczne nie jest wymagane według programu pracodawcy Staż stanowiskowy i szkolenie praktyczne
+1. Regulaminy techniczne posterunków i odcinków zdalnego prowadzenia ruchu, prowadzenie dokumentacji techniczno-ruchowej, zasady prowadzenia ruchu pociągów, rodzaje urządzeń sterowania 3 6 ruchem kolejowym i łączności, sygnalizacja kolejowa, przygotowywanie dróg przebiegów dla jazd pociągowych i manewrowych
 2. Sposoby zestawiania pociągów pasażerskich i towarowych, ogólne zasady przewozu wagonów z towarami niebezpiecznymi, z przesyłkami 2 4 nadzwyczajnymi oraz ogólne zasady ładowania i zabezpieczania ładunku na wagonach
-3. Obowiązki manewrowego oraz nadzorującego i kierującego manewrami, sposoby wykonywania manewrów, sygnały podawane przy manewrach, sprzęganie i rozprzęganiem taboru, prędkości jazd manewrowych, manewry po torach głównych oraz przez przejazdy i przejścia; zabezpieczenie taboru przed zbiegnięciem, dokumentacja ruchowa w zakresie pracy manewrowej 2 4
+3. Obowiązki manewrowego oraz nadzorującego i kierującego manewrami, sposoby wykonywania manewrów, sygnały podawane przy manewrach, sprzęganie i rozprzęganiem taboru, 2 4 prędkości jazd manewrowych, manewry po torach głównych oraz przez przejazdy i przejścia; zabezpieczenie taboru przed zbiegnięciem, dokumentacja ruchowa w zakresie pracy manewrowej
 4. Rodzaje hamulców, obsługa urządzeń wagonowych, obliczanie rzeczywistej oraz wymaganej masy hamującej, 4 10 wykonywanie szczegółowej i uproszczonej próby hamulca, sygnały podawane przy próbie hamulca
 5. Rozkazy pisemne i ostrzeżenia dla drużyn pociągowych, dokumenty 2 3 pociągowe, wewnętrzny rozkład jazdy
-6. Nadzór nad prowadzeniem i regulowaniem ruchu pociągów w sytuacjach nadzwyczajnych, organizacja akcji ratunkowej w razie 2 2 zdarzeń kolejowych i klęsk żywiołowych
+6. Nadzór nad prowadzeniem i regulowaniem ruchu pociągów w sytuacjach nadzwyczajnych, 2 2 organizacja akcji ratunkowej w razie zdarzeń kolejowych i klęsk żywiołowych
 7. Prawa i obowiązki kierownika pociągu wynikające z regulaminu pracy, obowiązki kierownika pociągu z jednoi wieloosobową obsadą konduktorską, prowadzenie dokumentacji pociągowej, użytkowanie urządzeń radiołączności pociągowej, podawanie i odbieranie sygnałów kolejowych w zakresie drużyny 5 5 pociągowej, postępowanie w razie zagrożenia bezpieczeństwa podróżnych oraz bezpieczeństwa ruchu kolejowego, samodzielne wykonanie zahamowania pociągu w kabinie maszynisty, sposoby odłączenia urządzeń energetycznych pojazdu w nagłych przypadkach
 8. Budowa taboru oraz oględziny techniczne 3 6 pociągu Suma: 23 40 Zajęcia próbne
-1. Zajęcia próbne wykonywanie pod 3 5 nadzorem czynności kierownika pociągu Ogółem: 26 45 III. Zakres zagadnień egzaminacyjnych dla kierownika pociągu pasażerskiego i towarowego:
+1. Zajęcia próbne – wykonywanie pod 3 5 nadzorem czynności kierownika pociągu Ogółem: 26 45 III. Zakres zagadnień egzaminacyjnych dla kierownika pociągu pasażerskiego i towarowego:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu:
 a) zasad postępowania w przypadku szczególnych wydarzeń i zagrożenia bezpieczeństwa ruchu kolejowego,
 b) zasad zestawiania pociągów,
 c) zasad prowadzenia ruchu pociągów i pracy manewrowej,
 d) obowiązków jedno- i wieloosobowej drużyny konduktorskiej,
 e) osłony pociągu zatrzymanego na torze szlakowym;
-2) część ustna znajomość:
+2) część ustna – znajomość:
 a) obsady i przygotowania pociągów do jazdy,
 b) sygnalizacji kolejowej,
 c) prowadzenia ruchu pociągów na szlaku bez blokady liniowej, z półsamoczynną i samoczynną blokadą liniową, szczególne sposoby prowadzenia ruchu pociągów,
 d) zezwolenia na wjazd, wyjazd lub przejazd pociągu,
 e) warunków przejazdu pociągu obok semafora, na którym brak sygnału zezwalającego,
-f) powiadamiania drużyn pociągowych rozkazy pisemne, ostrzeżenia,
+f) powiadamiania drużyn pociągowych – rozkazy pisemne, ostrzeżenia,
 g) zasad wykonywania manewrów,
 h) określania i podziału pociągów, rozkładów jazdy do użytku wewnętrznego i publicznego,
 i) obsługi urządzeń radiołączności kolejowej,
@@ -187,18 +188,18 @@ o) sposobu oznaczenia miejsca robót i zapewnienia bezpieczeństwa pracownikom z
 7) wypełnianie prowadzonej przez kierownika pociągu dokumentacji związanej z pracą ruchową i obsadą drużyny pociągowej i konduktorskiej;
 8) prezentacja obsługi wytypowanych urządzeń i wyposażenia wagonów;
 9) wykonanie oględzin technicznych pociągu.
-IV. Szkolenie i egzamin w zakresie zagadnień bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin w zakresie zagadnień bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 V. 1. Kandydat na kierownika pociągu pasażerskiego i towarowego powinien odbywać przygotowanie zawodowe i zdawać egzamin zgodnie z rodzajem i specyfiką przewozów wykonywanych przez pracodawcę.
 2. Staż pracy na stanowisku konduktora lub manewrowego, o którym mowa w wariancie B, nie jest wymagany w przypadku kandydatów do egzaminu ubiegających się o uzyskanie uprawnień na stanowisko kierownik pociągu u przewoźnika kolejowego wykonującego przewozy o zasięgu miejskim, podmiejskim lub regionalnym.
 Kierownik pociągu gospodarczego i roboczego I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu organizacji przewozów kolejowych lub ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu organizacji przewozów kolejowych lub ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy odbycie przygotowania zawodowego II. Program przygotowania zawodowego dla kierownika pociągu gospodarczego i roboczego: Liczba dni dla Liczba dni dla Lp. Temat wariantu A: wariantu B: Szkolenie teoretyczne
-1. Szkolenie teoretyczne nie jest wymagane według programu pracodawcy Staż stanowiskowy i szkolenie praktyczne
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – odbycie przygotowania zawodowego II. Program przygotowania zawodowego dla kierownika pociągu gospodarczego i roboczego: Liczba dni dla Liczba dni dla Lp. Temat wariantu A: wariantu B: Szkolenie teoretyczne
+1. Szkolenie teoretyczne według programu nie jest wymagane pracodawcy Staż stanowiskowy i szkolenie praktyczne
 1. Struktura organizacyjna przedsiębiorstwa: zapoznanie się z zagadnieniami administracyjnymi, wybranymi zagadnieniami 1 2 pracowniczymi oraz z zagadnieniami systemu zarządzania bezpieczeństwem (SMS)
-2. Obowiązki kierownika pociągu gospodarczego i roboczego, nadzorowanie, kierowanie i wykonywanie manewrów, dokumenty 2 3 prowadzone przez drużynę pociągową
+2. Obowiązki kierownika pociągu gospodarczego i roboczego, nadzorowanie, kierowanie 2 3 i wykonywanie manewrów, dokumenty prowadzone przez drużynę pociągową
 3. Regulaminy techniczne posterunków i odcinków zdalnego prowadzenia ruchu, zasady prowadzenia ruchu pociągów, rodzaje urządzeń sterowania ruchem 3 4 kolejowym i łączności, sygnalizacja kolejowa, przygotowanie dróg przebiegu dla jazd manewrowych
 4. Zasady przewozu przesyłek 2 2 nadzwyczajnych
 5. Sposoby obsługi urządzeń samowyładowczych w wagonach 3 4 używanych przy utrzymaniu infrastruktury kolejowej
@@ -207,10 +208,10 @@ Wariant B
 8. Zasady oględzin technicznych wagonów w składzie pociągu, sposoby 2 3 przeprowadzania prób hamulca zespolonego
 9. Hamowanie pociągu w kabinie maszynisty oraz sposoby odłączania 2 3 urządzeń energetycznych pojazdu kolejowego w sytuacjach szczególnych
 10. Zasady postępowania w przypadku wykonywania nieplanowych (awaryjnych) robót w strefie 1 2 oddziaływania na urządzenia samoczynnej sygnalizacji przejazdowej Suma 20 29 Zajęcia próbne
-1. Zajęcia próbne wykonywanie czynności kierownika pociągu roboczego 2 5 i gospodarczego pod nadzorem Ogółem: 22 34 III. Zakres zagadnień egzaminacyjnych dla kierownika pociągu gospodarczego i roboczego:
+1. Zajęcia próbne – wykonywanie czynności kierownika pociągu roboczego 2 5 i gospodarczego pod nadzorem Ogółem: 22 34 III. Zakres zagadnień egzaminacyjnych dla kierownika pociągu gospodarczego i roboczego:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu pracy i obowiązków kierownika pociągu gospodarczego i roboczego;
-2) część ustna znajomość zagadnień:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu pracy i obowiązków kierownika pociągu gospodarczego i roboczego;
+2) część ustna – znajomość zagadnień:
 a) techniki ruchu kolejowego,
 b) sygnalizacji kolejowej,
 c) prowadzenia dokumentów pociągowych,
@@ -218,7 +219,7 @@ d) łączności bezprzewodowej,
 e) zestawiania pociągów gospodarczych i roboczych,
 f) obsługi urządzeń samowyładowczych wagonów,
 g) osłony miejsca robót i zasad zapewnienia bezpieczeństwa pracowników przez kierującego robotami,
-h) ogólna znajomość przewozu: wagonów z towarami niebezpiecznymi, przesyłek nadzwyczajnych.
+h) ogólna znajomość przewozu: – wagonów z towarami niebezpiecznymi, – przesyłek nadzwyczajnych.
 2. Egzamin praktyczny:
 1) wykonanie pod nadzorem sprzęgania i rozprzęgania wagonów towarowych lub innych pojazdów kolejowych przeznaczonych do kolejowych robót torowych lub utrzymania i naprawy infrastruktury i sieci trakcyjnej;
 2) wykonanie próby hamulca zespolonego;
@@ -229,13 +230,13 @@ h) ogólna znajomość przewozu: wagonów z towarami niebezpiecznymi, przesyłek
 7) wypełnienie prowadzonej przez kierownika pociągu gospodarczego i roboczego dokumentacji pociągowej;
 8) określenie czynności związanych z wykryciem pękniętej szyny;
 9) przygotowanie drogi przebiegu po rozjazdach wyznaczonych do obsługi przez drużynę pociągową.
-IV. Szkolenie i egzamin w zakresie zagadnień bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin w zakresie zagadnień bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 5. Ustawiacz I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych lub ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy 6 miesięcy pracy na stanowisku manewrowego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych lub ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – 6 miesięcy pracy na stanowisku manewrowego oraz odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy rok pracy na stanowisku manewrowego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – rok pracy na stanowisku manewrowego oraz odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Liczba dni dla Liczba dni dla Lp. Temat wariantu A: wariantu B: Szkolenie teoretyczne
 1. Szkolenie teoretyczne według programu nie jest wymagane pracodawcy Staż stanowiskowy i szkolenie praktyczne
 1. Struktura organizacyjna przedsiębiorstwa: zapoznanie się z zagadnieniami administracyjnymi, wybranymi zagadnieniami 1 2 pracowniczymi oraz z zagadnieniami systemu zarządzania bezpieczeństwem (SMS)
@@ -250,11 +251,11 @@ II. Program przygotowania zawodowego: Liczba dni dla Liczba dni dla Lp. Temat wa
 10. Próby hamulca zespolonego 2 3 Suma 16 25 Zajęcia próbne
 1. Zajęcia próbne pod nadzorem na 5 10 stanowisku ustawiacza Ogółem: 21 35 III. Zakres zagadnień egzaminacyjnych:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu:
 a) organizacji i techniki ruchu kolejowego,
 b) zagadnień handlowo-przewozowych,
 c) przewozu towarów niebezpiecznych;
-2) część ustna znajomość:
+2) część ustna – znajomość:
 a) organizacji i techniki ruchu kolejowego,
 b) sygnalizacji kolejowej,
 c) zagadnień handlowo-przewozowych.
@@ -263,15 +264,15 @@ c) zagadnień handlowo-przewozowych.
 2) wykonanie oględzin technicznych składu pociągu;
 3) wykonanie próby hamulca zespolonego;
 4) przyjęcie i zdanie wagonu w punkcie zdawczo-odbiorczym.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 V. 1. Kandydat na ustawiacza powinien odbywać przygotowanie zawodowe i zdawać egzamin zgodnie z rodzajem i specyfiką przewozów wykonywanych przez pracodawcę.
 2. Zdanie egzaminu kwalifikacyjnego na stanowisko ustawiacza uprawnia do wykonywania czynności na stanowisku manewrowego.
 6. Manewrowy I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe, po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych lub ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe, po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych lub ruchu kolejowego i sygnalizacji kolejowej, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Liczba dni dla Liczba dni dla Lp. Temat wariantu A: wariantu B: Szkolenie teoretyczne
 1. Szkolenie teoretyczne według programu nie jest wymagane pracodawcy Staż stanowiskowy i szkolenie praktyczne
 1. Czynności podstawowe i dodatkowe manewrowego, urządzenia sterowania ruchem kolejowym oraz kolejowej 3 6 łączności przewodowej i bezprzewodowej
@@ -282,10 +283,10 @@ II. Program przygotowania zawodowego: Liczba dni dla Liczba dni dla Lp. Temat wa
 6. Budowa wagonu 1 2
 7. Oględziny techniczne wagonów 1 2 w składzie pociągu
 8. Uproszczona próba hamulca zespolonego 1 2 Suma: 12 24 Zajęcia próbne
-1. Zajęcia próbne wykonywanie czynności 14 20 manewrowego pod nadzorem Ogółem: 26 44 III. Zakres zagadnień egzaminacyjnych:
+1. Zajęcia próbne – wykonywanie czynności 14 20 manewrowego pod nadzorem Ogółem: 26 44 III. Zakres zagadnień egzaminacyjnych:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu techniki ruchu kolejowego;
-2) część ustna znajomość zagadnień z zakresu:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu techniki ruchu kolejowego;
+2) część ustna – znajomość zagadnień z zakresu:
 a) techniki ruchu kolejowego,
 b) sygnalizacji kolejowej,
 c) obsługi urządzeń sterowania ruchem kolejowym w zakresie prowadzenia manewrów.
@@ -296,22 +297,22 @@ c) obsługi urządzeń sterowania ruchem kolejowym w zakresie prowadzenia manewr
 4) zabezpieczenie taboru przed zbiegnięciem;
 5) wykonanie uproszczonej próby hamulca zespolonego;
 6) przygotowanie drogi przebiegu po rozjazdach wyznaczonych do obsługi przez drużynę pociągową.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 V. Kandydat na manewrowego powinien odbywać przygotowanie zawodowe i zdawać egzamin zgodnie z rodzajem i specyfiką przewozów wykonywanych przez pracodawcę.
 7. Rewident taboru I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych, mechaniki, elektryki lub mechatroniki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych, mechaniki, elektryki lub mechatroniki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy rok pracy przy naprawie i utrzymaniu taboru kolejowego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – rok pracy przy naprawie i utrzymaniu taboru kolejowego oraz odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Liczba dni dla Liczba dni dla Lp. Temat wariantu A: wariantu B: Szkolenie teoretyczne
 1. Szkolenie teoretyczne według programu nie jest wymagane pracodawcy Staż stanowiskowy i szkolenie praktyczne
 1. Budowa, naprawa i utrzymanie taboru 88 177 kolejowego
 2. Zagadnienia z zakresu przewozu towarów niebezpiecznych oraz przesyłek 2 3 nadzwyczajnych Suma 90 180 Zajęcia próbne
-1. Zajęcia próbne wykonywanie pracy pod nadzorem na stanowisku rewidenta 20 40 taboru Ogółem: 110 220 III. Zakres zagadnień egzaminacyjnych:
+1. Zajęcia próbne – wykonywanie pracy pod nadzorem na stanowisku rewidenta 20 40 taboru Ogółem: 110 220 III. Zakres zagadnień egzaminacyjnych:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu konstrukcji urządzeń hamulcowych taboru kolejowego, wykonywanie oględzin technicznych ze wskazaniem usterek i uszkodzeń w podwoziu i częściach biegowych;
-2) część ustna znajomość:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu konstrukcji urządzeń hamulcowych taboru kolejowego, wykonywanie oględzin technicznych ze wskazaniem usterek i uszkodzeń w podwoziu i częściach biegowych;
+2) część ustna – znajomość:
 a) konstrukcji eksploatowanego taboru kolejowego,
 b) podstaw elektrotechniki, maszyn i urządzeń elektrycznych,
 c) stosowanych systemów ogrzewania, oświetlenia oraz klimatyzacji,
@@ -334,28 +335,28 @@ s) zagadnień związanych z gospodarką taborem kolejowym w komunikacji krajowej
 t) zasad ochrony przeciwpożarowej.
 2. Egzamin praktyczny:
 1) wykonanie oględzin technicznych składu pociągu oraz wymaganej próby hamulca;
-2) wybranie z przygotowanej grupy wagonów wagonów spełniających warunki kursowania w komunikacji międzynarodowej.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+2) wybranie z przygotowanej grupy wagonów – wagonów spełniających warunki kursowania w komunikacji międzynarodowej.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 V. Kandydat na rewidenta taboru powinien odbywać przygotowanie zawodowe i zdawać egzamin zgodnie z rodzajem i specyfiką taboru kolejowego eksploatowanego przez pracodawcę.
 8. Automatyk I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu sterowania ruchem kolejowym, automatyki, mechaniki, elektryki, elektrotechniki, elektroniki, telekomunikacji, teletechniki, mechatroniki lub informatyki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy rok na stanowiskach związanych z naprawą, utrzymaniem lub instalacją urządzeń sterowania ruchem kolejowym oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu sterowania ruchem kolejowym, automatyki, mechaniki, elektryki, elektrotechniki, elektroniki, telekomunikacji, teletechniki, mechatroniki lub informatyki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – rok na stanowiskach związanych z naprawą, utrzymaniem lub instalacją urządzeń sterowania ruchem kolejowym oraz odbycie przygotowania zawodowego.
 Wariant B
 1. Wykształcenie:
 1) zasadnicze zawodowe oraz tytuł robotnika wykwalifikowanego lub zasadnicze branżowe w zawodach i specjalnościach związanych ze sterowaniem ruchem kolejowym lub w specjalnościach z dziedziny: mechanicznej, elektrycznej, elektrotechnicznej, elektronicznej, teletechnicznej, mechatronicznej lub informatycznej albo
 2) dyplom potwierdzający kwalifikacje zawodowe lub dyplom zawodowy w zawodzie, nauczanym na poziomie branżowej szkoły I stopnia lub zasadniczej szkoły zawodowej, związanym ze sterowaniem ruchem kolejowym lub w zawodzie, dla którego podstawa programowa kształcenia w zawodzie określa umiejętności z dziedziny: mechaniki, elektryki, elektrotechniki, elektroniki, teletechniki, mechatroniki lub informatyki.
-2. Staż pracy 18 miesięcy na stanowiskach związanych z naprawą, utrzymaniem lub instalacją urządzeń sterowania ruchem kolejowym oraz odbycie przygotowania zawodowego.
+2. Staż pracy – 18 miesięcy na stanowiskach związanych z naprawą, utrzymaniem lub instalacją urządzeń sterowania ruchem kolejowym oraz odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego.
-1. Staż stanowiskowy i szkolenie praktyczne według programu pracodawcy.
-2. Szkolenie teoretyczne według programu pracodawcy, z tym że kandydaci, którzy ukończyli kształcenie w zawodach lub na kierunkach, w których programy nauczania zawierają zagadnienia z zakresu sterowania ruchem kolejowym, nie podlegają szkoleniu teoretycznemu.
+1. Staż stanowiskowy i szkolenie praktyczne – według programu pracodawcy.
+2. Szkolenie teoretyczne – według programu pracodawcy, z tym że kandydaci, którzy ukończyli kształcenie w zawodach lub na kierunkach, w których programy nauczania zawierają zagadnienia z zakresu sterowania ruchem kolejowym, nie podlegają szkoleniu teoretycznemu.
 III. Zakres zagadnień egzaminacyjnych:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu prac i obowiązków automatyka sterowania ruchem kolejowym;
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu prac i obowiązków automatyka sterowania ruchem kolejowym;
 2) część ustna:
 a) znajomość budowy, działania, utrzymania i obsługi urządzeń sterowania ruchem kolejowym,
 b) znajomość technologii montażu poszczególnych zespołów i podzespołów urządzeń sterowania ruchem kolejowym, czytania schematów blokowych i szczegółowych,
-c) ogólna znajomość: zasad sporządzania dokumentacji eksploatacyjnej urządzeń sterowania ruchem kolejowym na posterunku ruchu, sygnalizacji kolejowej, działania i obsługi przewodowej i radiowej łączności kolejowej, podstawowych zasadach techniki i organizacji ruchu pociągów i manewrów, regulaminów technicznych posterunku technicznego, odcinka zdalnego prowadzenia ruchu, systemów obsługiwanych przez dyżurnego ruchu, dokumentacji znajdującej się na posterunku ruchu dotyczącej regulaminowych działań personelu obsługi i pracowników utrzymania infrastruktury kolejowej.
-2. Egzamin praktyczny umiejętność wykonywania prac przy urządzeniach zewnętrznych i wewnętrznych sterowania ruchem kolejowym:
+c) ogólna znajomość: – zasad sporządzania dokumentacji eksploatacyjnej urządzeń sterowania ruchem kolejowym na posterunku ruchu, – sygnalizacji kolejowej, – działania i obsługi przewodowej i radiowej łączności kolejowej, – podstawowych zasadach techniki i organizacji ruchu pociągów i manewrów, – regulaminów technicznych posterunku technicznego, odcinka zdalnego prowadzenia ruchu, – systemów obsługiwanych przez dyżurnego ruchu, – dokumentacji znajdującej się na posterunku ruchu dotyczącej regulaminowych działań personelu obsługi i pracowników utrzymania infrastruktury kolejowej.
+2. Egzamin praktyczny – umiejętność wykonywania prac przy urządzeniach zewnętrznych i wewnętrznych sterowania ruchem kolejowym:
 1) zmontowanie wyznaczonego urządzenia lub jego zespołu;
 2) zdemontowanie wyznaczonego urządzenia lub jego zespołu;
 3) regulacja wyznaczonego urządzenia lub jego części składowej;
@@ -363,24 +364,24 @@ c) ogólna znajomość: zasad sporządzania dokumentacji eksploatacyjnej urządz
 5) wykonanie wyznaczonych pomiarów przy użyciu mierników i sprawdzianów;
 6) ustalenie i usunięcie symulowanych niesprawności w urządzeniach sterowania ruchem kolejowym;
 7) wykonanie czynności poprzedzających przystąpienie do prac w czynnych urządzeniach sterowania ruchem kolejowym, polegających na dokonaniu zapisu w książce kontroli urządzeń sterowania ruchem kolejowym, z uwzględnieniem zakresu robót, konieczności wprowadzenia obostrzonych zasad prowadzenia ruchu oraz sposobu ostrzegania pracujących pracowników obsługi technicznej.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 9. Toromistrz I. Kwalifikacje wymagane od kandydatów do egzaminu.
 Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy nawierzchni kolejowej lub budownictwa, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy rok przy budowie, naprawie lub utrzymaniu nawierzchni kolejowej oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy nawierzchni kolejowej lub budownictwa, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – rok przy budowie, naprawie lub utrzymaniu nawierzchni kolejowej oraz odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie zasadnicze zawodowe lub zasadnicze branżowe oraz uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego po ukończeniu kształcenia w zawodach, w których podstawy programowe kształcenia w zawodach lub programy nauczania zawierają zagadnienia z zakresu budowy nawierzchni kolejowej lub budownictwa.
-2. Staż pracy 2 lata przy budowie, naprawie lub utrzymaniu nawierzchni kolejowej oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – zasadnicze zawodowe lub zasadnicze branżowe oraz uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego po ukończeniu kształcenia w zawodach, w których podstawy programowe kształcenia w zawodach lub programy nauczania zawierają zagadnienia z zakresu budowy nawierzchni kolejowej lub budownictwa.
+2. Staż pracy – 2 lata przy budowie, naprawie lub utrzymaniu nawierzchni kolejowej oraz odbycie przygotowania zawodowego.
 Wariant C
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy 3 lata przy budowie, naprawie lub utrzymaniu nawierzchni kolejowej oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – 3 lata przy budowie, naprawie lub utrzymaniu nawierzchni kolejowej oraz odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego.
-1. Staż stanowiskowy i szkolenie praktyczne według programu pracodawcy.
-2. Szkolenie teoretyczne według programu pracodawcy, z tym że kandydaci, którzy posiadają wykształcenie co najmniej średnie po ukończeniu kształcenia w zawodach lub na kierunkach, w których programy nauczania zawierają zagadnienia z zakresu budowy nawierzchni kolejowej lub budownictwa nie podlegają szkoleniu teoretycznemu.
-3. Zajęcia próbne wykonywanie czynności toromistrza pod nadzorem 24 dni.
+1. Staż stanowiskowy i szkolenie praktyczne – według programu pracodawcy.
+2. Szkolenie teoretyczne – według programu pracodawcy, z tym że kandydaci, którzy posiadają wykształcenie co najmniej średnie po ukończeniu kształcenia w zawodach lub na kierunkach, w których programy nauczania zawierają zagadnienia z zakresu budowy nawierzchni kolejowej lub budownictwa – nie podlegają szkoleniu teoretycznemu.
+3. Zajęcia próbne – wykonywanie czynności toromistrza pod nadzorem – 24 dni.
 III. Zakres zagadnień egzaminacyjnych.
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu:
 a) pracy i obowiązków toromistrza,
 b) zasad tyczenia osi torów i rozjazdów,
 c) zasad niwelacji toru i terenu,
@@ -394,7 +395,7 @@ j) obsługi toromierza,
 k) budowy i regulacji zamknięć nastawczych,
 l) zasad podbijania torów i rozjazdów,
 m) dokonywania bieżących napraw i czynności utrzymaniowych nawierzchni kolejowej;
-2) część ustna znajomość:
+2) część ustna – znajomość:
 a) zasad tyczenia osi torów i rozjazdów,
 b) zasad niwelowania torów i terenu, dokonywania stosownych pomiarów i obliczania strzałek łuków,
 c) zasad dokonywania kontroli stanu torów, rozjazdów i budowli kolejowych oraz związanych z tym pomiarów,
@@ -415,7 +416,7 @@ q) zasad postępowania w razie wypadku kolejowego oraz uszkodzenia toru, podtorz
 r) sposobów udzielania pierwszej pomocy w razie wypadków z ludźmi lub nagłych zachorowań,
 s) zasad składowania elementów nawierzchni kolejowej,
 t) wykorzystania komputerowych systemów wspomagających decyzje przy ocenie stanu technicznego nawierzchni.
-2. Egzamin praktyczny umiejętność wykonania prac:
+2. Egzamin praktyczny – umiejętność wykonania prac:
 1) wykonanie badań bezpośrednich toru;
 2) dokonanie pomiaru strzałek łuku;
 3) wykonanie technicznych badań rozjazdu;
@@ -427,22 +428,22 @@ t) wykorzystania komputerowych systemów wspomagających decyzje przy ocenie sta
 9) usunięcie wychlapu w torze;
 10) osygnalizowanie przejazdu kolejowego od strony toru i drogi;
 11) dokonanie regulacji zamknięcia nastawczego suwakowego.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 10. Dróżnik przejazdowy I. Kwalifikacje wymagane od kandydatów do egzaminu:
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Lp. Temat Liczba dni Szkolenie teoretyczne
-1. Szkolenie teoretyczne według programu pracodawcy dla kandydatów, którzy posiadają wykształcenie określone w wariancie A dla stanowisk: dyżurnego ruchu, automatyka lub toromistrza nie jest wymagane Staż stanowiskowy i szkolenie praktyczne
+1. Szkolenie teoretyczne według programu pracodawcy dla kandydatów, którzy posiadają wykształcenie określone w wariancie A dla stanowisk: dyżurnego ruchu, automatyka lub toromistrza – nie jest wymagane Staż stanowiskowy i szkolenie praktyczne
 1. Struktura organizacyjna przedsiębiorstwa: zapoznanie się z zagadnieniami administracyjnymi, wybranymi zagadnieniami pracowniczymi oraz 2 z zagadnieniami systemu zarządzania bezpieczeństwem (SMS)
 2. Regulamin obsługi przejazdu lub przejścia, obowiązki dróżnika przejazdowego i dokumentacja 4 techniczno-ruchowa prowadzona na przejeździe
 3. Budowa i obsługa urządzeń zabezpieczenia ruchu na przejeździe lub przejściu oraz obsługa urządzeń 4 łączności
 4. Zasady postępowania w razie uszkodzenia urządzeń zabezpieczenia ruchu na przejeździe lub przejściu oraz zasady postępowania w przypadku 4 wykonywania nieplanowych robót w strefie oddziaływania na urządzenia samoczynnej sygnalizacji przejazdowej
 5. Zasady wzrokowej oceny sprawności technicznej 2 przejeżdżających pojazdów kolejowych
 6. Ogólna budowa toru oraz sposoby osłony przeszkody i ograniczenia prędkości jazdy pociągów na torach szlakowych i stacyjnych oraz zapoznanie z zasadami 2 kierowania ruchem drogowym na przejazdach kolejowych Suma 18 Zajęcia próbne
-1. Zajęcia próbne pod nadzorem na stanowisku 5 dróżnika przejazdowego Ogółem: 23 III. Zakres zagadnień egzaminacyjnych:
+1. Zajęcia próbne – pod nadzorem na stanowisku dróżnika przejazdowego Ogółem: 23 III. Zakres zagadnień egzaminacyjnych:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu zadań i obowiązków dróżnika przejazdowego;
-2) część ustna znajomość:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu zadań i obowiązków dróżnika przejazdowego;
+2) część ustna – znajomość:
 a) obowiązków dróżnika przejazdowego,
 b) techniki ruchu kolejowego,
 c) sygnalizacji kolejowej,
@@ -450,32 +451,32 @@ d) budowy i obsługi urządzeń zabezpieczenia ruchu kolejowego na przejazdach s
 e) zasad przygotowania kolei do pracy w warunkach zimowych,
 f) budowy toru kolejowego i nawierzchni kolejowej oraz podstawowych prac związanych z utrzymaniem torów i nawierzchni przejazdu,
 g) zagadnień związanych z przewozem wagonów z towarami niebezpiecznymi oraz przewozem przesyłek nadzwyczajnych.
-2. Egzamin praktyczny umiejętność wykonywania prac:
+2. Egzamin praktyczny – umiejętność wykonywania prac:
 1) obsługa urządzeń rogatkowych;
 2) zabezpieczenie przejazdu w przypadku uszkodzenia urządzeń rogatkowych;
 3) przyjęcie i potwierdzenie informacji o odjeździe pociągu na szlaku jedno- i wielotorowym;
 4) osłonięcie sygnałami przeszkody na torach kolejowych;
 5) osłonięcie sygnałami miejsca ograniczenia prędkości pociągów;
 6) wypełnianie dokumentacji techniczno-ruchowej (egzemplarz szkoleniowy) prowadzonej na przejeździe (egzemplarz szkoleniowy).
-IV. Szkolenie i egzamin w zakresie zagadnień bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
-V. Pracownicy zatrudnieni na stanowisku dróżnika przejazdowego powinni posiadać ważne zaświadczenie o ukończeniu szkolenia w zakresie kierowania ruchem na skrzyżowaniu w obrębie przejazdu kolejowego wydane przez wojewódzki ośrodek ruchu drogowego, zgodnie z ustawą z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ).
+IV. Szkolenie i egzamin w zakresie zagadnień bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
+V. Pracownicy zatrudnieni na stanowisku dróżnika przejazdowego powinni posiadać ważne zaświadczenie o ukończeniu szkolenia w zakresie kierowania ruchem na skrzyżowaniu w obrębie przejazdu kolejowego wydane przez wojewódzki ośrodek ruchu drogowego, zgodnie z ustawą z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ).
 11. Prowadzący pojazdy kolejowe Prowadzący pojazdy kolejowe specjalne, które nie są przeznaczone do samodzielnej jazdy po czynnych torach kolejowych Egzamin może być przeprowadzony dla jednego lub kilku typów pojazdów kolejowych specjalnych.
 I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe, po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych, mechaniki, elektroniki lub elektryki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy 6 miesięcy na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją taboru kolejowego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe, po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych, mechaniki, elektroniki lub elektryki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – 6 miesięcy na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją taboru kolejowego oraz odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy rok na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją taboru kolejowego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – rok na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją taboru kolejowego oraz odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego:
-1. Staż stanowiskowy i szkolenie praktyczne według programu pracodawcy.
-2. Szkolenie teoretyczne według programu pracodawcy.
-3. Zajęcia próbne prowadzenie pojazdu kolejowego specjalnego pod nadzorem 20 dni.
+1. Staż stanowiskowy i szkolenie praktyczne – według programu pracodawcy.
+2. Szkolenie teoretyczne – według programu pracodawcy.
+3. Zajęcia próbne – prowadzenie pojazdu kolejowego specjalnego pod nadzorem – 20 dni.
 III. Zakres egzaminu kwalifikacyjnego:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu:
 a) budowy, działania, obsługi i utrzymania pojazdu kolejowego specjalnego,
 b) organizacji, techniki i metod wykonywania prac określonym pojazdem kolejowym specjalnym;
-2) część ustna znajomość:
+2) część ustna – znajomość:
 a) przeznaczenia, budowy, działania i zasad obsługi określonego pojazdu kolejowego specjalnego,
 b) systemów remontów planowo-zapobiegawczych określonego pojazdu kolejowego specjalnego,
 c) zasad i zakresu obsługi oraz konserwacji urządzeń elektrycznych określonego pojazdu kolejowego specjalnego,
@@ -490,18 +491,18 @@ h) dokumentacji eksploatacyjnej oraz warunków dopuszczania pojazdów kolejowych
 3) wykrycie i usunięcie symulowanej usterki stwierdzonej w czasie pracy pojazdu kolejowego specjalnego;
 4) osłonięcie sygnałami pojazdu kolejowego specjalnego w czasie nieprzewidzianego postoju;
 5) wykonanie czynności obsługowych po zakończeniu pracy pojazdu kolejowego specjalnego.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami Kodeksu pracy.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami Kodeksu pracy.
 V. 1. Prowadzący pojazdy kolejowe specjalne pozostające pod nadzorem dozoru technicznego powinni uzyskać uprawnienia do obsługi tych maszyn.
 2. Prowadzący pojazdy kolejowe specjalne przystosowane do poruszania się po torach kolejowych i drogach publicznych (pojazdy szynowo-drogowe) powinni ukończyć kurs dla kierowcy (operatora) pojazdu drogowego (maszyny budowlanej) i posiadać prawo jazdy (uprawnienia do obsługi) odpowiedniej kategorii.
 3. Osoby uprawnione do wykonywania czynności na stanowisku prowadzącego pojazdy kolejowe w specjalności prowadzący pojazdy kolejowe specjalne, które nie są przeznaczone do samodzielnej jazdy po czynnych torach kolejowych, mogą prowadzić te pojazdy po torach czynnych jedynie w zakresie niezbędnym do wykonywania manewrów oraz przemieszczania pojazdu kolejowego do miejsca wykonywania pracy.
 Prowadzący pojazdy kolejowe wyłącznie w obrębie bocznicy kolejowej I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych, mechaniki, elektroniki lub elektryki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikacje w zawodzie na poziomie technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy 3 miesiące na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją taboru kolejowego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych, mechaniki, elektroniki lub elektryki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikacje w zawodzie na poziomie technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – 3 miesiące na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją taboru kolejowego oraz odbycie przygotowania zawodowego.
 Wariant B
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy 6 miesięcy na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją taboru kolejowego oraz odbycie przygotowania zawodowego.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – 6 miesięcy na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją taboru kolejowego oraz odbycie przygotowania zawodowego.
 II. Program przygotowania zawodowego: Liczba dni dla Liczba dni dla Lp. Temat wariantu A: wariantu B: Szkolenie teoretyczne
-1. Szkolenie teoretyczne nie jest wymagane według programu pracodawcy Staż stanowiskowy i szkolenie praktyczne
+1. Szkolenie teoretyczne według programu nie jest wymagane pracodawcy Staż stanowiskowy i szkolenie praktyczne
 1. Praca przy czynnościach prowadzącego pojazdy kolejowe w obrębie bocznicy 10 20 kolejowej bez prawa do prowadzenia pojazdu
 2. Technika ruchu kolejowego, sygnalizacja 3 6 i manewry
 3. Hamulce kolejowe 2 4
@@ -510,13 +511,13 @@ II. Program przygotowania zawodowego: Liczba dni dla Liczba dni dla Lp. Temat wa
 6. Usterki i uszkodzenia pojazdów 1 2 trakcyjnych
 7. Organizacja pracy bocznicy kolejowej 1 1
 8. Bezpieczeństwo i higiena pracy; ochrona przeciwpożarowa na pojazdach 1 1 trakcyjnych Suma 22 42 Zajęcia próbne
-1. Zajęcia próbne prowadzenie pojazdu kolejowego w obrębie bocznicy 15 30 kolejowej pod nadzorem Ogółem: 37 72 III. Zakres egzaminu kwalifikacyjnego:
+1. Zajęcia próbne – prowadzenie pojazdu kolejowego w obrębie bocznicy 15 30 kolejowej pod nadzorem Ogółem: 37 72 III. Zakres egzaminu kwalifikacyjnego:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu:
 a) budowy, eksploatacji i utrzymania pojazdów trakcyjnych,
 b) techniki ruchu kolejowego i manewrów,
 c) budowy i obsługi hamulców kolejowych;
-2) część ustna znajomość:
+2) część ustna – znajomość:
 a) budowy, eksploatacji i utrzymania pojazdów trakcyjnych,
 b) techniki ruchu kolejowego i manewrów,
 c) budowy i obsługi hamulców kolejowych.
@@ -524,22 +525,22 @@ c) budowy i obsługi hamulców kolejowych.
 1) wykonanie czynności przygotowania pojazdu kolejowego do pracy i zdania po pracy;
 2) wykonanie jazdy próbnej oraz obsługa urządzeń i hamulców pojazdu kolejowego;
 3) obsługa hamulców podczas wykonywania próby hamulca pociągu.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy Kodeks pracy.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami ustawy – Kodeks pracy.
 V. Osoby uprawnione do wykonywania czynności na stanowisku prowadzącego pojazdy kolejowe w specjalności prowadzący pojazdy kolejowe wyłącznie w obrębie bocznicy kolejowej mogą prowadzić te pojazdy po infrastrukturze kolejowej jedynie w zakresie niezbędnym do wykonywania manewrów oraz przemieszczania pojazdu kolejowego do miejsca wykonywania pracy.
 Prowadzący pojazdy kolejowe po liniach kolejowych, o których mowa w art. 18 ust. 2 pkt 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym I. Kwalifikacje wymagane od kandydatów do egzaminu: Wariant A
-1. Wykształcenie co najmniej średnie lub średnie branżowe, po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych, mechaniki, elektroniki lub elektryki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
-2. Staż pracy 6 miesięcy na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją pojazdów kolejowych.
+1. Wykształcenie – co najmniej średnie lub średnie branżowe, po ukończeniu kształcenia w zawodach lub na kierunkach studiów, w których podstawy programowe kształcenia w zawodach lub programy nauczania lub programy studiów zawierają zagadnienia z zakresu budowy pojazdów szynowych, mechaniki, elektroniki lub elektryki, oraz uzyskanie odpowiednio tytułu zawodowego technika, świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym na poziomie technika, dyplomu potwierdzającego kwalifikacje zawodowe lub dyplomu zawodowego w zawodzie nauczanym na poziomie technika lub dyplomu ukończenia studiów.
+2. Staż pracy – 6 miesięcy na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją pojazdów kolejowych.
 Wariant B
-1. Wykształcenie co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
-2. Staż pracy rok na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją pojazdów kolejowych.
+1. Wykształcenie – co najmniej zasadnicze zawodowe lub zasadnicze branżowe.
+2. Staż pracy – rok na stanowiskach związanych z utrzymaniem, naprawą lub eksploatacją pojazdów kolejowych.
 II. Program przygotowania zawodowego.
-1. Staż stanowiskowy i szkolenie praktyczne według programu pracodawcy, przy czym wymagane jest odbycie modułu szkolenia obejmującego pracę przy czynnościach prowadzącego pojazdy kolejowe bez prawa do prowadzenia pojazdu kolejowego w wymiarze co najmniej 60 dni.
-2. Szkolenie teoretyczne według programu pracodawcy.
-3. Zajęcia próbne prowadzenie pojazdu kolejowego pod nadzorem 20 dni.
+1. Staż stanowiskowy i szkolenie praktyczne – według programu pracodawcy, przy czym wymagane jest odbycie modułu szkolenia obejmującego pracę przy czynnościach prowadzącego pojazdy kolejowe bez prawa do prowadzenia pojazdu kolejowego w wymiarze co najmniej 60 dni.
+2. Szkolenie teoretyczne – według programu pracodawcy.
+3. Zajęcia próbne – prowadzenie pojazdu kolejowego pod nadzorem – 20 dni.
 III. Zakres egzaminu kwalifikacyjnego:
 1. Egzamin teoretyczny:
-1) część pisemna opracowanie tematów lub rozwiązanie testu z zakresu konstrukcji i obsługi pojazdów kolejowych;
-2) część ustna znajomość:
+1) część pisemna – opracowanie tematów lub rozwiązanie testu z zakresu konstrukcji i obsługi pojazdów kolejowych;
+2) część ustna – znajomość:
 a) konstrukcji pojazdu kolejowego,
 b) przygotowania do pracy i zdania po pracy pojazdu kolejowego,
 c) działania i obsługi hamulców stosowanych w pojeździe kolejowym,
@@ -548,67 +549,72 @@ e) sposobu lokalizowania i usuwania przyczyn wadliwej pracy,
 f) obsługi aktywnych systemów zabezpieczeń i urządzeń radiołączności,
 g) wymaganych instrukcji oraz regulaminów wewnętrznych,
 h) sygnalizacji i organizacji ruchu.
-2. Egzamin praktyczny umiejętność:
+2. Egzamin praktyczny – umiejętność:
 1) wykonywania czynności przygotowania do pracy i zdania po pracy pojazdu kolejowego;
 2) prowadzenia pojazdu kolejowego po linii kolejowej;
 3) wstępnych oględzin technicznych pociągu i obsługi hamulca;
 4) lokalizowania i wykrywania usterek w poszczególnych obwodach i urządzeniach;
 5) obsługi aktywnych systemów zabezpieczeń i urządzeń radiołączności;
 6) prowadzenia dokumentacji eksploatacyjnej i naprawczej.
-IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami Kodeksu pracy.
-Charakterystyka stanowiska kolejowego: Nazwa stanowiska określenie czynności, warunków i miejsca pracy Terminy badań Lp.
+IV. Szkolenie i egzamin z zakresu bezpieczeństwa i higieny pracy – według odrębnego programu opracowanego przez pracodawcę zgodnie z przepisami Kodeksu pracy.
+
+## Załącznik nr 3 — Charakterystyka stanowiska kolejowego: Nazwa stanowiska określenie czynności, warunków i miejsca pracy Terminy badań Lp.
+
 kolejowego z uwzględnieniem warunków szkodliwych lub okresowych uciążliwych 1 2 3 4
 1. Dyżurny ruchu Prowadzenie ruchu pociągów na stacji co 2 lata i przyległych szlakach. Zarządzanie, nadzorowanie i wykonywanie innych czynności, związanych z ruchem pociągów i pracą manewrową stacji. Praca ciągła w systemie zmianowym, możliwość pracy w narażeniu na warunki atmosferyczne, w dużym napięciu uwagi. Możliwość pracy przy monitorze ekranowym powyżej 4 godzin.
 Odpowiedzialność za bezpieczeństwo ruchu pociągów i życie pasażerów. Prowadzenie dokumentacji ruchowej.
-2. Nastawniczy Obsługa urządzeń sterowania ruchem kolejowym. Sprawdzanie stanu i działania zwrotnic, wykolejnic i sygnałów. Możliwość pracy w torach czynnych w narażeniu na zmienne warunki atmosferyczne. Prowadzenie dokumentacji ruchowej. Praca fizyczna na nastawniach wyposażonych w urządzenia sterowania ruchem kolejowym. Praca w systemie zmianowym. Odpowiedzialność za bezpieczeństwo ruchu pociągów. Praca ciągła w zmiennym rytmie dobowym.
-co 2 lata
+2. Nastawniczy Obsługa urządzeń sterowania ruchem co 2 lata kolejowym. Sprawdzanie stanu i działania zwrotnic, wykolejnic i sygnałów. Możliwość pracy w torach czynnych w narażeniu na zmienne warunki atmosferyczne. Prowadzenie dokumentacji ruchowej. Praca fizyczna na nastawniach wyposażonych w urządzenia sterowania ruchem kolejowym. Praca w systemie zmianowym. Odpowiedzialność za bezpieczeństwo ruchu pociągów. Praca ciągła w zmiennym rytmie dobowym.
 3. Zwrotniczy Obsługa i utrzymanie zwrotnic i wykolejnic, co 2 lata nastawianie ręczne lub automatyczne. Praca w systemie zmianowym. Możliwość pracy w torach czynnych w narażeniu na zmienne warunki atmosferyczne, w wymuszonej pozycji ciała.
 4. Kierownik pociągu Praca wykonywana przed rozpoczęciem jazdy, co 2 lata podczas jazdy lub manewrów. Praca w zmiennym rytmie dobowym. Duża odpowiedzialność. Narażenie na warunki atmosferyczne.
-5. Ustawiacz Zestawianie, łączenie i rozłączanie pojazdów kolejowych (pociągów), obsługa punktów raz w roku ładunkowych. Wykonywanie manewrów przy użyciu lokomotywy i kierowanie pracą drużyny manewrowej. Praca w zmiennym rytmie dobowym, odpowiedzialna, wymagająca dużego napięcia uwagi. Praca na wysokości przy sprawdzaniu stanu wagonów i przesyłek wagonowych. Narażenie na zagrożenia wynikające z ruchu taboru oraz na warunki atmosferyczne i hałas.
+5. Ustawiacz Zestawianie, łączenie i rozłączanie pojazdów raz w roku kolejowych (pociągów), obsługa punktów ładunkowych. Wykonywanie manewrów przy użyciu lokomotywy i kierowanie pracą drużyny manewrowej. Praca w zmiennym rytmie dobowym, odpowiedzialna, wymagająca dużego napięcia uwagi. Praca na wysokości przy sprawdzaniu stanu wagonów i przesyłek wagonowych. Narażenie na zagrożenia wynikające z ruchu taboru oraz na warunki atmosferyczne i hałas.
 6. Manewrowy Zestawianie, łączenie i rozłączanie pojazdów raz w roku kolejowych (pociągów), przestawianie zwrotnic, hamowanie taboru przy użyciu płozów hamulcowych, zabezpieczanie wagonów przed zbiegnięciem oraz inne prace zlecone przez ustawiacza. Praca fizyczna w wymuszonej pozycji ciała, wymagająca sprawności i uwagi.
 Praca na wysokości przy sprawdzaniu stanu wagonów i przesyłek wagonowych. Praca w systemie zmianowym. Narażenie na zagrożenia wynikające z ruchu taboru. Narażenie na warunki atmosferyczne i hałas.
 7. Rewident taboru Sprawdzanie wagonów i pojazdów pod co 2 lata względem przydatności technicznej do ruchu.
 Sprawdzanie działania hamulców. Dokonywanie bieżących napraw. Praca wykonywana w wymuszonej pozycji ciała. Narażenie na warunki atmosferyczne. Możliwa praca na wysokości.
-8. Automatyk Utrzymanie, naprawa i montaż urządzeń do 55 roku życia sterowania ruchem kolejowym. Praca w różnych co 2 lata, porach doby przy urządzeniach sterowania powyżej ruchem kolejowym na torach czynnych. 55 roku życia Możliwość pracy przy urządzeniach raz w roku ciśnieniowych oraz emitujących promieniowanie elektromagnetyczne. Możliwość pracy na wysokości do i powyżej 3 m. Niebezpieczeństwo porażenia prądem. Narażenie na zagrożenia wynikające z ruchu taboru oraz warunki atmosferyczne.
-9. Toromistrz Organizowanie, kierowanie i nadzór nad do 55 roku życia robotami torowymi. Praca w torach czynnych co 2 lata, w narażeniu na zmienne warunki atmosferyczne. powyżej Możliwość pracy w różnych porach doby. 55 roku życia raz w roku
+8. Automatyk Utrzymanie, naprawa i montaż urządzeń do 55 roku życia sterowania ruchem kolejowym. Praca w różnych co 2 lata, porach doby przy urządzeniach sterowania powyżej ruchem kolejowym na torach czynnych. 55 roku życia – Możliwość pracy przy urządzeniach raz w roku ciśnieniowych oraz emitujących promieniowanie elektromagnetyczne. Możliwość pracy na wysokości do i powyżej 3 m. Niebezpieczeństwo porażenia prądem. Narażenie na zagrożenia wynikające z ruchu taboru oraz warunki atmosferyczne.
+9. Toromistrz Organizowanie, kierowanie i nadzór nad do 55 roku życia robotami torowymi. Praca w torach czynnych co 2 lata, w narażeniu na zmienne warunki atmosferyczne. powyżej Możliwość pracy w różnych porach doby. 55 roku życia – raz w roku
 10. Dróżnik Obsługa urządzeń zabezpieczających przejazd. co 2 lata przejazdowy Osłanianie pociągów zatrzymywanych na szlaku.
 Konserwowanie i utrzymywanie przejazdu i nawierzchni kolejowej w granicach przejazdu.
 Praca w systemie zmianowym, możliwość pracy w narażeniu na warunki atmosferyczne. Praca odpowiedzialna, przy dużym napięciu uwagi.
-11. Prowadzący Prowadzenie i obsługa pojazdu trakcyjnego. do 55 roku życia pojazdy kolejowe Przygotowanie pojazdu do pracy, usuwanie co 2 lata, typowych uszkodzeń. Praca odpowiedzialna powyżej wymagająca szczególnej sprawności psychicznej. 55 roku życia Narażenie na stres, hałas, wibrację i niekorzystne raz w roku warunki mikroklimatyczne. Praca wykonywana w zmiennym rytmie dobowym. Zmienność warunków pracy w zależności od pory roku.
-......................................................
+11. Prowadzący Prowadzenie i obsługa pojazdu trakcyjnego. do 55 roku życia pojazdy kolejowe Przygotowanie pojazdu do pracy, usuwanie co 2 lata, typowych uszkodzeń. Praca odpowiedzialna powyżej wymagająca szczególnej sprawności psychicznej. 55 roku życia – Narażenie na stres, hałas, wibrację i niekorzystne raz w roku warunki mikroklimatyczne. Praca wykonywana w zmiennym rytmie dobowym. Zmienność warunków pracy w zależności od pory roku.
+– 44 – Załącznik nr 4 WZÓR ......................................................
 ORZECZENIE LEKARSKIE Rodzaj badania lekarskiego: wstępne / okresowe / kontrolne / inne * W wyniku profilaktycznego badania lekarskiego i badania psychologicznego orzeka się, że: Pan(i) ............................................................................................................................................
 urodzony(-na) w ...........................................................................................................................
 zamieszkały(-ła) ...........................................................................................................................
 Numer PESEL / w przypadku braku numeru PESEL nazwa i numer dokumentu stwierdzającego tożsamość ..........................................................................................................
 zatrudniony(-na) / przyjmowany(-na) do pracy* w ...................................................................................................................................................
 stanowisko ...................................................................................................................................
-1) wobec braku przeciwwskazań zdrowotnych jest zdolny(-na) do wykonywania pracy na wyżej wymienionym stanowisku* data następnego badania okresowego .......................................................................................
+1) wobec braku przeciwwskazań zdrowotnych jest zdolny(-na) do wykonywania pracy na wyżej wymienionym stanowisku* – data następnego badania okresowego .......................................................................................
 2) wobec przeciwwskazań zdrowotnych jest niezdolny(-na) do wykonywania pracy na wyżej wymienionym stanowisku* .........................................................................................................
 3) wobec przeciwwskazań zdrowotnych utracił(a) zdolność do wykonywania dotychczasowej pracy z dniem* .............................................................................................................................
 UWAGI LEKARZA: ......................................................................................................................................................
 .....................................................................................................................................................
 .................................. dnia .....................
-POUCZENIE: Osoba badana lub pracodawca otrzymujący orzeczenie lekarskie jeżeli nie zgadza się z treścią orzeczenia, może złożyć w terminie 7 dni od dnia wydania tego orzeczenia pisemne odwołanie do:
-1) uprawnionego lekarza, który je wydał w przypadku wydania orzeczenia przez uprawnionego lekarza;
-2) komisji lekarskiej, która je wydała w przypadku wydania orzeczenia przez komisję lekarską w siedzibie Kolejowego Ośrodka Medycyny Pracy Kolejowego Zakładu Medycyny Pracy.
-.........................................
+POUCZENIE: Osoba badana lub pracodawca otrzymujący orzeczenie lekarskie – jeżeli nie zgadza się z treścią orzeczenia, może złożyć w terminie 7 dni od dnia wydania tego orzeczenia pisemne odwołanie do:
+1) uprawnionego lekarza, który je wydał – w przypadku wydania orzeczenia przez uprawnionego lekarza;
+2) komisji lekarskiej, która je wydała – w przypadku wydania orzeczenia przez komisję lekarską w siedzibie Kolejowego Ośrodka Medycyny Pracy Kolejowego Zakładu Medycyny Pracy.
+
+## Załącznik nr 5 — WZÓR .........................................
+
 ORZECZENIE LEKARSKIE (wydane w trybie odwoławczym) W wyniku ponownego profilaktycznego badania lekarskiego i badania psychologicznego orzeka się, że: Pan(i) ............................................................................................................................................
 urodzony(-na) w ...........................................................................................................................
 zamieszkały(-ła) ...........................................................................................................................
 numer PESEL / w przypadku braku numeru PESEL nazwa i numer dokumentu stwierdzającego tożsamość ..........................................................................................................
 zatrudniony(-na) / przyjmowany(-na) do pracy* w ...................................................................................................................................................
 stanowisko ...................................................................................................................................
-1) wobec braku przeciwwskazań zdrowotnych jest zdolny(-na) do wykonywania pracy na wyżej wymienionym stanowisku* data następnego badania okresowego ......................................................................................................................................................
+1) wobec braku przeciwwskazań zdrowotnych jest zdolny(-na) do wykonywania pracy na wyżej wymienionym stanowisku* – data następnego badania okresowego ......................................................................................................................................................
 2) wobec przeciwwskazań zdrowotnych jest niezdolny(-na) do wykonywania pracy na wyżej wymienionym stanowisku* .........................................................................................................
 3) wobec przeciwwskazań zdrowotnych utracił(a) zdolność do wykonywania dotychczasowej pracy z dniem* .............................................................................................................................
 UWAGI LEKARZA: ......................................................................................................................................................
 ......................................................................................................................................................
 .................................. dnia ...................................
 POUCZENIE: Od niniejszego orzeczenia odwołanie nie przysługuje.
-(format A4) ....................................................
+
+## Załącznik nr 6 — WZÓR (format A4) ....................................................
+
 ŚWIADECTWO ZDANIA EGZAMINU KWALIFIKACYJNEGO NR ....../ WERYFIKACYJNEGO NR ......* Komisja egzaminacyjna, działająca na podstawie § 38 rozporządzenia Ministra Infrastruktury z dnia 11 stycznia 2021 r. w sprawie pracowników zatrudnionych na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego oraz prowadzeniem określonych rodzajów pojazdów kolejowych (Dz. U. z 2024 r. poz. 780), stwierdza, że Pan (Pani) urodzony(-na) dnia .............................. w ......................................................., zatrudniony(-na) w ...................................................................................................................................................
 ......................................................................................................................................................
 zdał(a) w dniu .............................. r. egzamin kwalifikacyjny / weryfikacyjny* na stanowisko ...................................................................................................................................
 ....................................... ..................................................................................
-okładka: po złożeniu format A7, tło jasnoniebieskie, litery czarne po złożeniu format A7, tło białe, litery czarne
+– 49 – Załącznik nr 7 WZÓR okładka: po złożeniu format A7, tło jasnoniebieskie, litery czarne po złożeniu format A7, tło białe, litery czarne
 

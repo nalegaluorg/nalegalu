@@ -8,7 +8,7 @@ pos: 616
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
@@ -33,7 +33,16 @@ Art. 40–47. (pominięte)
 
 **Art. 1.** Ustawa określa zasady i tryb:
 
+- **1)** przyznawania i wypłaty:
+    - **a)** jednorazowego odszkodowania przysługującego w razie wypadku pozostającego w związku ze służbą, zwanego dalej „wypadkiem”, lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby, zwanej dalej „chorobą”,
+    - **b)** odszkodowania za przedmioty osobistego użytku utracone, zniszczone lub uszkodzone wskutek wypadku – zwanych dalej „świadczeniami odszkodowawczymi”;
+
+- **2)** ustalania okoliczności i przyczyn wypadku oraz związku choroby ze szczególnymi warunkami lub właściwościami służby.
+
 **Art. 2.** Świadczenia odszkodowawcze przysługują:
+
+- **1)** funkcjonariuszowi Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Celno-Skarbowej, zwanemu dalej „funkcjonariuszem”, który doznał stałego lub długotrwałego uszczerbku na zdrowiu wskutek wypadku albo choroby;
+- **2)** członkom rodziny funkcjonariusza, który zmarł wskutek wypadku albo choroby.
 
 **Art. 3.**
 
@@ -77,7 +86,15 @@ Art. 40–47. (pominięte)
 
 **Art. 8.** W razie śmierci funkcjonariusza wskutek wypadku lub choroby świadczenia odszkodowawcze przysługują członkom jego rodziny:
 
+- **1)** małżonkowi, z wyjątkiem przypadku orzeczonej separacji,
+- **2)** dzieciom własnym, dzieciom drugiego małżonka, dzieciom przysposobionym oraz przyjętym na wychowanie i utrzymanie przed osiągnięciem pełnoletności, w tym również w ramach rodziny zastępczej, wnukom, rodzeństwu i innym dzieciom, jeżeli w dniu śmierci funkcjonariusza spełniali warunki wymagane do uzyskania renty rodzinnej,
+- **3)** rodzicom, osobom przysposabiającym, macosze i ojczymowi, jeżeli w dniu śmierci funkcjonariusza prowadzili z nim wspólne gospodarstwo domowe lub jeżeli funkcjonariusz bezpośrednio przed śmiercią znacząco przyczyniał się do ich utrzymania albo jeżeli ustalone zostało wyrokiem lub ugodą sądową prawo do alimentów ze strony tego funkcjonariusza – zwanym dalej „uprawnionymi członkami rodziny”.
+
 **Art. 9.** Jednorazowe odszkodowanie przysługuje, jeżeli funkcjonariusz albo funkcjonariusz zwolniony ze służby:
+
+- **1)** doznał uszczerbku na zdrowiu lub zmarł wskutek wypadku w ciągu 3 lat od dnia wypadku;
+- **2)** doznał uszczerbku na zdrowiu wskutek choroby nie później niż w ciągu 3 lat od dnia zwolnienia ze służby;
+- **3)** zmarł wskutek choroby w ciągu 3 lat od dnia ustalenia uszczerbku na zdrowiu wskutek tej choroby, nie później jednak niż w ciągu 3 lat od dnia zwolnienia ze służby.
 
 **Art. 10.** Podstawę obliczenia wysokości jednorazowego odszkodowania stanowi przeciętne miesięczne wynagrodzenie w gospodarce narodowej w poprzednim roku, ogłaszane do celów emerytalnych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego, stosowane poczynając od drugiego kwartału każdego roku, przez jeden rok, zwane dalej „przeciętnym wynagrodzeniem”.
 
@@ -119,7 +136,7 @@ Art. 40–47. (pominięte)
 
 **Art. 14.**
 
-1. W szczególnie uzasadnionych przypadkach odpowiednio Prezes Rady Ministrów, minister właściwy do spraw finansów publicznych, minister właściwy do spraw wewnętrznych albo Szef Kancelarii może:
+1. W szczególnie uzasadnionych przypadkach odpowiednio Prezes Rady Ministrów, minister właściwy do spraw finansów publicznych, minister właściwy do spraw wewnętrznych albo Szef Kancelarii Sejmu może:
 
 - **1)** podwyższyć jednorazowe odszkodowanie funkcjonariuszowi albo uprawnionemu członkowi rodziny, nie więcej jednak niż o 100% wysokości odszkodowania ustalonej na podstawie art. 11 i art. 12;
 - **2)** przyznać jednorazowe odszkodowanie:
@@ -196,7 +213,7 @@ Art. 40–47. (pominięte)
 - **3)** Szef Krajowej Administracji Skarbowej – komisję powypadkową powołuje minister właściwy do spraw finansów publicznych;
 - **4)** Komendant Straży Marszałkowskiej – komisję powypadkową powołuje Szef Kancelarii Sejmu.
 
-5. Jeżeli wymaga tego ważny interes służby, w szczególności gdy postępowanie wyjaśniające mogłoby narazić niejawne dane osobowe funkcjonariusza lub czynności przez niego wykonywane na ujawnienie, komisję powypadkową powołuje odpowiednio Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Centralnego Biura Antykorupcyjnego, Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Krajowej Administracji Skarbowej, Szef Kancelarii lub Komendant Służby Ochrony Państwa.
+5. Jeżeli wymaga tego ważny interes służby, w szczególności gdy postępowanie wyjaśniające mogłoby narazić niejawne dane osobowe funkcjonariusza lub czynności przez niego wykonywane na ujawnienie, komisję powypadkową powołuje odpowiednio Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Centralnego Biura Antykorupcyjnego, Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Krajowej Administracji Skarbowej, Szef Kancelarii Sejmu lub Komendant Służby Ochrony Państwa.
 
 6. Członkami komisji powypadkowej nie mogą być osoby będące świadkami wypadku oraz osoby, których bezstronność może budzić wątpliwości.
 
@@ -309,6 +326,11 @@ Art. 40–47. (pominięte)
 
 **Art. 29.** Zbiorcze zestawienie wypadków pozostających w związku z pełnieniem służby zaistniałych w danym roku kalendarzowym sporządzają:
 
+- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu oraz Szef Centralnego Biura Antykorupcyjnego,
+- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej oraz Komendant Służby Ochrony Państwa,
+- **3)** Szef Krajowej Administracji Skarbowej,
+- **4)** Szef Kancelarii Sejmu – i przekazują odpowiednio Prezesowi Rady Ministrów, ministrowi właściwemu do spraw wewnętrznych albo ministrowi właściwemu do spraw finansów publicznych w terminie do końca marca następnego roku.
+
 #### Rozdział 4 Ustalanie związku choroby ze szczególnymi warunkami lub właściwościami służby
 
 **Art. 30.**
@@ -339,6 +361,17 @@ Art. 40–47. (pominięte)
 
 **Art. 33.** Postępowanie w sprawie przyznania świadczeń odszkodowawczych wszczyna się:
 
+- **1)** z urzędu w przypadku:
+    - **a)** stwierdzenia w okresie pozostawania w służbie uszczerbku na zdrowiu funkcjonariusza,
+    - **b)** śmierci funkcjonariusza w okresie pozostawania w służbie wskutek wypadku lub choroby;
+
+- **2)** na wniosek funkcjonariusza albo uprawnionych członków rodziny w przypadku:
+    - **a)** stwierdzenia stałego lub długotrwałego uszczerbku na zdrowiu lub śmierci funkcjonariusza, które nastąpiły po jego zwolnieniu ze służby,
+    - **b)** pogorszenia stanu zdrowia funkcjonariusza wskutek wypadku lub choroby,
+    - **c)** stwierdzenia przez komisję lekarską, że wskutek wypadku lub choroby funkcjonariusz nie doznał stałego lub długotrwałego uszczerbku na zdrowiu albo że jego śmierć nie pozostaje w związku z wypadkiem lub chorobą,
+    - **d)** stwierdzenia przez komisję powypadkową, że wypadek funkcjonariusza nie pozostaje w związku ze służbą lub nastąpił w okolicznościach wymienionych w art. 7 ust. 1,
+    - **e)** szkody poniesionej przez funkcjonariusza wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem, o którym mowa w art. 3, przedmiotów osobistego użytku.
+
 **Art. 34.**
 
 1. Prawo do świadczeń odszkodowawczych i ich wysokość ustala się w drodze decyzji.
@@ -351,7 +384,7 @@ Art. 40–47. (pominięte)
     - **b)** funkcjonariuszy oddelegowanych do pełnienia zadań służbowych w urzędzie obsługującym ministra właściwego do spraw wewnętrznych oraz członków ich rodzin;
 
 - **2a)** minister właściwy do spraw finansów publicznych w stosunku do Szefa Krajowej Administracji Skarbowej i jego zastępców oraz członków ich rodzin;
-- **2b)** Szef Kancelarii w stosunku do Komendanta Straży Marszałkowskiej, jego zastępców, funkcjonariuszy Straży Marszałkowskiej oraz członków ich rodzin;
+- **2b)** Szef Kancelarii Sejmu w stosunku do Komendanta Straży Marszałkowskiej, jego zastępców, funkcjonariuszy Straży Marszałkowskiej oraz członków ich rodzin;
 - **3)** Szef Agencji Bezpieczeństwa Wewnętrznego w stosunku do funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz członków ich rodzin;
 - **4)** Szef Agencji Wywiadu w stosunku do funkcjonariuszy Agencji Wywiadu oraz członków ich rodzin;
 - **5)** Szef Centralnego Biura Antykorupcyjnego w stosunku do funkcjonariuszy Centralnego Biura Antykorupcyjnego oraz członków ich rodzin;
@@ -392,7 +425,16 @@ Art. 40–47. (pominięte)
 
 **Art. 35.** Prawo do jednorazowego odszkodowania ustala się na podstawie:
 
+- **1)** orzeczenia komisji lekarskiej, o której mowa w art. 31;
+- **2)** protokołu powypadkowego;
+- **3)** dokumentów potwierdzających stan cywilny lub stopień pokrewieństwa uprawnionego członka rodziny z poszkodowanym funkcjonariuszem, w szczególności wyciągów z aktów stanu cywilnego;
+- **4)** zaświadczenia właściwego organu emerytalnego stwierdzającego spełnienie przez uprawnionych członków rodziny innych niż małżonek warunków wymaganych do uzyskania renty rodzinnej po zmarłym funkcjonariuszu;
+- **5)** innych dowodów potwierdzających spełnienie warunków, o których mowa w art. 8 pkt 3.
+
 **Art. 36.** Prawo do odszkodowania za szkody poniesione wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem przedmiotów osobistego użytku i wysokość tego odszkodowania ustala się na podstawie:
+
+- **1)** protokołu powypadkowego;
+- **2)** innych dowodów przedstawionych przez osobę uprawnioną do odszkodowania.
 
 **Art. 37.**
 

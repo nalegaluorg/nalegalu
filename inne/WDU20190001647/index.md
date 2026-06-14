@@ -8,10 +8,10 @@ pos: 1647
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1647 RozpoRządzenie MinistRa edukacji naRodowej z dnia 27 sierpnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001647) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1647/text.pdf) |
 
-RozpoRządzenie MinistRa edukacji naRodowej z dnia 27 sierpnia 2019 r.
-w sprawie kolegium arbitrażu egzaminacyjnego Na podstawie art. 9cc ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2019 r. poz. 1481) i art. 123 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287) zarządza się, co następuje: § 1. 1. Rozporządzenie określa:
+w sprawie kolegium arbitrażu egzaminacyjnego Na podstawie art. 9cc ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2019 r. poz. 1481) i art. 123 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa:
 1) tryb wyznaczania składu Kolegium Arbitrażu Egzaminacyjnego do rozpatrzenia odwołania, o którym mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7 ustawy z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą”;
 2) tryb i sposób działania Kolegium Arbitrażu Egzaminacyjnego;
 3) stawki za jedno zadanie egzaminacyjne rozpatrzone w ramach odwołania przez arbitrów i egzaminatorów, o których mowa w art. 9cb ust. 6 ustawy, zwanych dalej „egzaminatorami”;
@@ -52,17 +52,18 @@ w sprawie kolegium arbitrażu egzaminacyjnego Na podstawie art. 9cc ustawy z dni
 § 6. 1. Osoba ubiegająca się o wpis na listę arbitrów, o której mowa w art. 9ca ust. 1 pkt 1 albo 2 ustawy, składa wniosek, którego wzór stanowi załącznik nr 2 do rozporządzenia.
 2. Do wniosku dołącza się:
 1) poświadczone przez kandydata za zgodność z oryginałem kopie dokumentów potwierdzających:
-a) posiadanie wymaganego wykształcenia, w tym stopnia lub tytułu w dziedzinie nauki lub sztuki w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 ustawy,
-b) wpis do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 1 i ust. 4 pkt 1 i 2 ustawy;
-2) informację o posiadanym doświadczeniu w pracy dydaktycznej w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 ustawy;
+a) posiadanie wymaganego wykształcenia, w tym stopnia lub tytułu w dziedzinie nauki lub sztuki – w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 ustawy,
+b) wpis do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy – w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 1 i ust. 4 pkt 1 i 2 ustawy;
+2) informację o posiadanym doświadczeniu w pracy dydaktycznej – w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 ustawy;
 3) rekomendację, o której mowa w art. 9ca ust. 3 i 4 ustawy;
-4) oświadczenie kandydata o posiadaniu kompetencji w dziedzinie technologii informacyjno ‑komunikacyjnych, o któ5) oświadczenie kandydata, że:
+4) oświadczenie kandydata o posiadaniu kompetencji w dziedzinie technologii informacyjno ‑ komunikacyjnych, o których mowa w art. 9ca ust. 3 i 4 ustawy;
+5) oświadczenie kandydata, że:
 a) ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych,
 b) nie toczy się przeciwko niemu postępowanie karne w sprawie o umyślne przestępstwo ścigane z oskarżenia publicznego lub postępowanie dyscyplinarne,
 c) nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe,
-d) nie był prawomocnie ukarany karą dyscyplinarną w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 i 4 ustawy;
+d) nie był prawomocnie ukarany karą dyscyplinarną – w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 i 4 ustawy;
 6) oświadczenie kandydata, że nie jest zatrudniony w Centralnej Komisji Egzaminacyjnej lub okręgowej komisji egzaminacyjnej;
-7) oświadczenie kandydata, że jest zatrudniony odpowiednio w instytucie badawczym, jednostce naukowej Polskiej Akademii Nauk, Polskiej Akademii Umiejętności lub szkole wyższej w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 ustawy.
+7) oświadczenie kandydata, że jest zatrudniony odpowiednio w instytucie badawczym, jednostce naukowej Polskiej Akademii Nauk, Polskiej Akademii Umiejętności lub szkole wyższej – w przypadku osób, o których mowa w art. 9ca ust. 3 pkt 2 i ust. 4 pkt 3 ustawy.
 § 7. 1. Do wyznaczania składu Kolegium Arbitrażu Egzaminacyjnego do rozpatrzenia odwołania od wyniku weryfikacji sumy punktów z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie stosuje się przepisy § 2 i § 3, z tym że Kolegium Arbitrażu Egzaminacyjnego zapoznaje się z umieszczonym na platformie odwołaniem, uzasadnieniem i dołączonymi dokumentami, o których mowa w art. 44zzzt ust. 11 i 12 ustawy, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
 2. Stawka za jedno zadanie egzaminacyjne rozpatrzone w ramach odwołania od wyniku weryfikacji sumy punktów z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie przez arbitrów i egzaminatorów, o których mowa w art. 9cb ust. 6 ustawy, w brzmieniu obowiązującym przed dniem 1 września 2019 r., wynosi 75 zł.
 3. Do zwrotu kosztów przejazdu i zakwaterowania arbitrów i egzaminatorów, o których mowa w art. 9cb ust. 6 ustawy, w brzmieniu obowiązującym przed dniem 1 września 2019 r., wyznaczonych do rozpatrzenia odwołania od wyniku weryfikacji sumy punktów z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie stosuje się § 5.
@@ -72,27 +73,27 @@ d) nie był prawomocnie ukarany karą dyscyplinarną w przypadku osób, o który
 § 9. Do odwołań, o których mowa w art. 44zzz ust. 7 ustawy albo art. 44zzzt ust. 7 ustawy, w brzmieniu obowiązującym przed dniem 1 września 2019 r., nierozpatrzonych przed dniem 1 września 2019 r., stosuje się przepisy niniejszego rozporządzenia.
 § 10. Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 11 października 2016 r. w sprawie Kolegium Arbitrażu Egzaminacyjnego (Dz. U. poz. 1710).
 § 11. Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-Minister Edukacji Narodowej: D. Piontkowski STAWKI ZA JEDNO ZADANIE EGZAMINACYJNE ROZPATRYWANE W RAMACH ODWOŁANIA Załącznik nr 1 STAWKI ZA JEDNO ZADANIE EGZAMINACYJNE ROZPATRYWANE W RAMACH ODWOŁANIA Zadania w arkuszach egzaminacyjnych, o których Stopień złożoności rozwiązania mowa w art. 9a ust. 2 Stawka za jedno Lp.
-zadania egzaminacyjnego pkt 1 ustawy z dnia 7 września zadanie egzaminacyjne 1991 r. o systemie oświaty (Dz. U. z 2019 r. poz. 1481) 1 1. stopień zadania, których rozwiązanie jest oceniane z uwzględnieniem wielu język polski poziom 125 zł podstawowy wypracowanie;
-język polski poziom kryteriów, w szczególności rozszerzony wypracowanie;
-ocena obejmuje uzasadnienie język obcy nowożytny tezy lub stanowiska, poprawność poziom rozszerzony rzeczową, kompozycję, wypowiedź pisemna;
-zgodność wypowiedzi język obcy nowożytny z poleceniem, poprawność poziom dwujęzyczny językową, styl tekstu wypowiedź pisemna;
-język mniejszości narodowej poziom podstawowy wypracowanie;
-język mniejszości narodowej poziom rozszerzony wypracowanie;
-język mniejszości etnicznej poziom podstawowy wypracowanie;
-język mniejszości etnicznej poziom rozszerzony wypracowanie;
-język mniejszości regionalnej poziom podstawowy wypracowanie;
-język mniejszości regionalnej poziom rozszerzony wypracowanie;
-filozofia poziom podstawowy wypracowanie;
-filozofia poziom rozszerzony wypracowanie;
-historia poziom podstawowy wypracowanie;
-historia poziom rozszerzony wypracowanie;
-historia muzyki poziom podstawowy wypracowanie;
-historia muzyki poziom rozszerzony wypracowanie;
-historia sztuki poziom rozszerzony wypracowanie;
-język łaciński i kultura antyczna poziom rozszerzony wypracowanie;
-wiedza o społeczeństwie poziom podstawowy wypracowanie;
-wiedza o społeczeństwie poziom rozszerzony wypracowanie 2 2. stopień Pozostałe zadania 75 zł niewymienione w lp. 1 Załącznik nr 2 WZÓR WNIOSEK O WPIS NA LISTĘ ARBITRÓW Nazwisko …………..……………………………… Imię (imiona) …………………………..
+Minister Edukacji Narodowej: D. Piontkowski Załącznik nr 1 STAWKI ZA JEDNO ZADANIE EGZAMINACYJNE ROZPATRYWANE W RAMACH STAWKI ZA JEDNO ZADANIE EGZAMINACYJNE ODWOŁANIA ROZPATRYWANE W RAMACH ODWOŁANIA Zadania w arkuszach egzaminacyjnych, o których Stopień złożoności rozwiązania mowa w art. 9a ust. 2 Stawka za jedno Lp.
+zadania egzaminacyjnego pkt 1 ustawy z dnia 7 września zadanie egzaminacyjne 1991 r. o systemie oświaty (Dz. U. z 2019 r. poz. 1481) 1 1. stopień – zadania, których język polski – poziom 125 zł rozwiązanie jest oceniane podstawowy – wypracowanie;
+z uwzględnieniem wielu język polski – poziom kryteriów, w szczególności rozszerzony – wypracowanie;
+ocena obejmuje uzasadnienie język obcy nowożytny – tezy lub stanowiska, poprawność poziom rozszerzony – rzeczową, kompozycję, wypowiedź pisemna;
+zgodność wypowiedzi język obcy nowożytny – z poleceniem, poprawność poziom dwujęzyczny – językową, styl tekstu wypowiedź pisemna;
+język mniejszości narodowej – poziom podstawowy – wypracowanie;
+język mniejszości narodowej – poziom rozszerzony – wypracowanie;
+język mniejszości etnicznej – poziom podstawowy – wypracowanie;
+język mniejszości etnicznej – poziom rozszerzony – wypracowanie;
+język mniejszości regionalnej – poziom podstawowy – wypracowanie;
+język mniejszości regionalnej – poziom rozszerzony – wypracowanie;
+filozofia – poziom podstawowy – wypracowanie;
+filozofia – poziom rozszerzony – wypracowanie;
+historia – poziom podstawowy – wypracowanie;
+historia – poziom rozszerzony – wypracowanie;
+historia muzyki – poziom podstawowy – wypracowanie;
+historia muzyki – poziom rozszerzony – wypracowanie;
+historia sztuki – poziom rozszerzony – wypracowanie;
+język łaciński i kultura antyczna – poziom rozszerzony – wypracowanie;
+wiedza o społeczeństwie – poziom podstawowy – wypracowanie;
+wiedza o społeczeństwie – poziom rozszerzony – wypracowanie 2 2. stopień Pozostałe zadania 75 zł niewymienione w lp. 1 Załącznik nr 2 WZÓR WNIOSEK O WPIS NA LISTĘ ARBITRÓW Nazwisko …………..……………………………… Imię (imiona) …………………………..
 Stopień lub tytuł w dziedzinie nauki lub sztuki ………………………………………………..
 Nazwa przedmiotu, z którego jest przeprowadzany egzamin maturalny ……………………… …………………………………………………………………………………………………..
 albo symbol/oznaczenie i nazwa kwalifikacji, w zakresie której kandydat ubiega się o wpis …………………………………………………………………………………………………..

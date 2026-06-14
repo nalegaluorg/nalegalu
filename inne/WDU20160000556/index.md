@@ -8,12 +8,10 @@ pos: 556
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie wzoru dokumentu sprzedaży wzoru deklaracji przejęcia Na podstawie art. 20 ustawy dnia 5 grudnia 2008 r. organizacji rynku rybnego (Dz. U. 2015 r. poz. 1970) zarządza się, co następuje: § 1. Określa się wzór:
-
-*ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ dnia 6 kwietnia 2016 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 556 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 6 kwietnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000556) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/556/text.pdf) |
 
+w sprawie wzoru dokumentu sprzedaży i wzoru deklaracji przejęcia Na podstawie art. 20 ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. z 2015 r. poz. 1970) zarządza się, co następuje:
+§ 1. Określa się wzór:
 1) dokumentu sprzedaży, stanowiący załącznik nr 1 do rozporządzenia;
 2) deklaracji przejęcia, stanowiący załącznik nr 2 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej Żeglugi Śródlądowej: M. Gróbarczyk M … … …………………… ………………………… … … Nr formularza deklaracji przejęcia Oznaka rybacka nazwa statku rybackiego, którego dokonano wyładunku produktów rybołówstwa Nazwa portu data wyładunku Imię nazwisko kapitana lub armatora albo nazwa armatora produktów rybołówstwa statku rybackiego, którego dokonano wyładunku produktów rybołówstwa Imię nazwisko oraz adres miejsce zamieszkania albo nazwa adres siedziby przedsiębiorcy przejmującego produkty rybołówstwa oraz adres obiektu, którym produkty są albo będą przechowywane Nr dokumentu przewozowego Gatunek Kod alfa-3 Rejon połowu Masa kg albo masa produktów FAO (obszar kg liczba rybołówstwa geograficzny) sztukach Kod postaci produktu alfa-3 Czytelny podpis Czytelny podpis przedsiębiorcy dostawcy produktów rybołówstwa: przejmującego produkty rybołówstwa: …………………………………… …………………….…………………..
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk …… M W M M … … … … ………………………… ………………………… …………………… …………………… … … … … ……… ……… ZAŁĄCZNIK Nr 2 WZÓR WZÓR DEKLARACJA PRZEJĘCIA NR: .........
+Nr formularza deklaracji przejęcia Oznaka rybacka i nazwa statku rybackiego, z którego dokonano wyładunku produktów rybołówstwa Nazwa portu i data wyładunku Imię i nazwisko kapitana lub armatora albo nazwa armatora produktów rybołówstwa statku rybackiego, z którego dokonano wyładunku produktów rybołówstwa Imię i nazwisko oraz adres i miejsce zamieszkania albo nazwa i adres siedziby przedsiębiorcy przejmującego produkty rybołówstwa oraz adres obiektu, w którym produkty są albo będą przechowywane Nr dokumentu przewozowego Gatunek Kod alfa-3 Rejon połowu Masa w kg albo masa Kod postaci produktu produktów FAO (obszar w kg i liczba alfa-3 rybołówstwa geograficzny) w sztukach Czytelny podpis Czytelny podpis przedsiębiorcy dostawcy produktów rybołówstwa: przejmującego produkty rybołówstwa: …………………………………… …………………….…………………..
 Numer nadany przez przedsiębiorcę przejmującego produkty rybołówstwa.
 W sztukach podaje się ryby łososiowate.
-Według tabeli 1 załącznika I do rozporządzenia wykonawczego Komisji (UE) nr 404/2011 dnia 8 kwietnia 2011 r. ustanawiającego szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1224/2009
+Według tabeli 1 załącznika I do rozporządzenia wykonawczego Komisji (UE) nr 404/2011 z dnia 8 kwietnia 2011 r. ustanawiającego szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1224/2009 ustanawiającego wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa (Dz. Urz. UE L 112 z 30.04.2011, str. 1, z późn. zm.).
+Opis: Deklaracja przejęcia produktów rybołówstwa jest wykonana na papierze samokopiującym i ma format A4.
 

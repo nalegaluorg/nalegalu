@@ -8,7 +8,7 @@ pos: 1243
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o języku migowym i innych środkach komunikowania się
@@ -31,6 +31,11 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** korzystania przez osoby uprawnione z pomocy osoby przybranej w kontaktach z organami administracji publicznej, jednostkami systemu, podmiotami leczniczymi, jednostkami Policji, Państwowej Straży Pożarnej i straży gminnych oraz jednostkami ochotniczymi działającymi w tych obszarach;
+- **2)** obsługi osób uprawnionych w kontaktach z organami administracji publicznej;
+- **3)** dofinansowania kosztów kształcenia osób uprawnionych, członków ich rodzin oraz innych osób mających stały lub bezpośredni kontakt z osobami uprawnionymi w zakresie polskiego języka migowego, systemu językowo-migowego i sposobów komunikowania się osób głuchoniewidomych na różnych poziomach;
+- **4)** monitorowania rozwiązań wspierających komunikowanie się i dostępu do nich.
+
 **Art. 2.**
 
 1. Ustawa dotyczy:
@@ -43,6 +48,22 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** osobie przybranej – należy przez to rozumieć osobę, która ukończyła 16 lat i została wybrana przez osobę uprawnioną w celu ułatwienia porozumienia z osobą uprawnioną i udzielenia jej pomocy w załatwieniu spraw w organach administracji publicznej, jednostkach systemu, podmiotach leczniczych, jednostkach Policji, Państwowej Straży Pożarnej i straży gminnych oraz jednostkach ochotniczych działających w tych obszarach;
+- **1a)** języku polskim – należy przez to rozumieć język polski w piśmie nauczany metodą glottodydaktyczną; przepisy art. 11a ust. 1 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2021 r. poz. 672) stosuje się odpowiednio do osób uprawnionych mieszkających na terenie Rzeczypospolitej Polskiej;
+- **2)** polskim języku migowym (PJM) – należy przez to rozumieć naturalny wizualno-przestrzenny język komunikowania się osób uprawnionych;
+- **3)** systemie językowo-migowym (SJM) – należy przez to rozumieć podstawowy środek komunikowania się osób uprawnionych, w którym znaki migowe wspierają wypowiedź dźwiękowo-artykulacyjną;
+- **4)** sposobach komunikowania się osób głuchoniewidomych (SKOGN) – należy przez to rozumieć podstawowy środek komunikowania się osób uprawnionych, w którym sposób przekazu komunikatu jest dostosowany do potrzeb wynikających z łącznego występowania dysfunkcji narządu wzroku i słuchu;
+- **5)** środkach wspierających komunikowanie się – należy przez to rozumieć rozwiązania lub usługi umożliwiające kontakt, w szczególności poprzez:
+    - **a)** korzystanie z poczty elektronicznej,
+    - **b)** przesyłanie wiadomości tekstowych, w tym z wykorzystaniem wiadomości SMS, MMS lub komunikatorów internetowych,
+    - **c)** komunikację audiowizualną, w tym z wykorzystaniem komunikatorów internetowych,
+    - **d)** przesyłanie faksów,
+    - **e)** strony internetowe spełniające standardy dostępności dla osób niepełnosprawnych;
+
+- **6)** organach administracji publicznej – należy przez to rozumieć organy określone w art. 5 § 2 pkt 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185);
+- **7)** jednostkach systemu – należy przez to rozumieć jednostki systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720 i 1733);
+- **8)** podmiotach leczniczych – należy przez to rozumieć podmioty lecznicze, o których mowa w art. 4 ust.1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974, 1079 i 2280).
+
 **Art. 4.**
 
 1. Osoba uprawniona ma prawo do swobodnego korzystania z wybranej przez siebie formy komunikowania się.
@@ -51,7 +72,16 @@ source: "isap-pdf"
 
 **Art. 5.** Osoby uprawnione mają prawo do:
 
+- **1)** usług, o których mowa w art. 9 ust. 1 i 2;
+- **2)** świadczeń, o których mowa w art. 11 ust. 1;
+- **3)** dofinansowania, o którym mowa w art. 18.
+
 **Art. 6.** Przepisy ustawy są realizowane przez:
+
+- **1)** organy administracji publicznej,
+- **2)** jednostki systemu,
+- **3)** podmioty lecznicze,
+- **4)** jednostki Policji, Państwowej Straży Pożarnej i straże gminne oraz jednostki ochotnicze działające w tych obszarach – zwane dalej „podmiotami zobowiązanymi”.
 
 #### Rozdział 2 Obsługa osób uprawnionych
 
@@ -129,6 +159,16 @@ source: "isap-pdf"
 4. Wpis do rejestru i korzystanie z rejestru są bezpłatne.
 
 **Art. 16.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, zakres oraz zasady funkcjonowania rejestru, o którym mowa w art. 15, a w szczególności:
+
+- **1)** wzór rejestru,
+- **2)** wzór wniosku o wpis do rejestru,
+- **3)** wzór wniosku o zmianę danych podlegających wpisowi do rejestru,
+- **4)** wzór zawiadomienia o wpisie do rejestru,
+- **5)** wzór zawiadomienia o wykreśleniu z rejestru,
+- **6)** wzór oświadczenia potwierdzającego znajomość PJM, SJM i SKOGN,
+- **7)** zasady wpisu do rejestru, zmiany danych i skreślenia na liście,
+- **8)** tryb udostępniania informacji, ich zakres, a także tryb udostępniania wniosków oraz ich składania,
+- **9)** zakres danych publikowanych w rejestrze – mając na uwadze potrzebę zapewnienia sprawnego funkcjonowania rejestru.
 
 **Art. 17.**
 
@@ -239,7 +279,7 @@ source: "isap-pdf"
 
 **Art. 27.**
 
-1. Rada Ministrów przedstawia, w ramach informacji Rządu Rzeczypospolitej Polskiej o działaniach podejmowanych w danym roku na rzecz realizacji postanowień uchwały Rzeczypospolitej Polskiej z dnia 1 sierpnia 1997 r. – Karta Praw Osób Niepełnosprawnych (M.P. poz. 475), informację o funkcjonowaniu ustawy w roku poprzednim.
+1. Rada Ministrów przedstawia, w ramach informacji Rządu Rzeczypospolitej Polskiej o działaniach podejmowanych w danym roku na rzecz realizacji postanowień uchwały Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 1997 r. – Karta Praw Osób Niepełnosprawnych (M.P. poz. 475), informację o funkcjonowaniu ustawy w roku poprzednim.
 
 2. Pierwsza informacja, o której mowa w ust. 1, zostanie przedstawiona za rok następujący po dniu wejścia w życie ustawy.
 

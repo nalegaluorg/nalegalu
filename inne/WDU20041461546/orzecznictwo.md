@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi*
 
-Łącznie: **900** orzeczeń
-(pominięto 1185 orzeczeń sądów rejonowych)
+Łącznie: **901** orzeczeń
+(pominięto 1192 orzeczeń sądów rejonowych)
 
 ## art. 2 (3)
 
@@ -1048,6 +1048,10 @@ Orzeczenia powołujące: *Ustawa z dnia 27 maja 2004 r. o funduszach inwestycyjn
 - 2019-10-25 | SO | [III Ca 1257/19](https://www.saos.org.pl/judgments/415179) | Uzasadnienie
 - 2017-08-30 | SO | [III Ca 1059/17](https://www.saos.org.pl/judgments/311588) | Uzasadnienie
 - 2016-06-27 | SO | [III Ca 633/16](https://www.saos.org.pl/judgments/242346) | Uzasadnienie
+
+## art. 208 (1)
+
+- 2025-12-16 | SO | [I ACa 723/23](https://www.saos.org.pl/judgments/545139) | Wyrok
 
 ## art. 220 (1)
 

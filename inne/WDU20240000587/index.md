@@ -8,10 +8,10 @@ pos: 587
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 kwietnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 587 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 10 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/587/text.pdf) |
 
-Poz. 587 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 10 kwietnia 2024 r.
-w sprawie organu właściwego w sprawach zaopatrzenia emerytalnego funkcjonariuszy Służby Więziennej oraz ich rodzin Na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280, 1429 i 1834) zarządza się, co następuje: § 1. Rozporządzenie określa organ właściwy w sprawach zaopatrzenia emerytalnego funkcjonariuszy Służby Więziennej oraz ich rodzin, zakres jego działania, stopień dysponenta środków, siedzibę organu, strukturę organizacyjną oraz sposób powoływania i odwoływania organu oraz jego zastępców.
+w sprawie organu właściwego w sprawach zaopatrzenia emerytalnego funkcjonariuszy Służby Więziennej oraz ich rodzin Na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280, 1429 i 1834) zarządza się, co następuje:
+§ 1. Rozporządzenie określa organ właściwy w sprawach zaopatrzenia emerytalnego funkcjonariuszy Służby Więziennej oraz ich rodzin, zakres jego działania, stopień dysponenta środków, siedzibę organu, strukturę organizacyjną oraz sposób powoływania i odwoływania organu oraz jego zastępców.
 § 2. 1. Dyrektor Biura Emerytalnego Służby Więziennej, zwany dalej „Dyrektorem Biura”, jest organem właściwym w sprawach zaopatrzenia emerytalnego osób, o których mowa w § 1.
 2. Dyrektora Biura powołuje i odwołuje Dyrektor Generalny Służby Więziennej.
 3. Zastępców Dyrektora Biura powołuje i odwołuje Dyrektor Generalny Służby Więziennej na pisemny wniosek Dyrektora Biura.
@@ -40,7 +40,6 @@ w sprawie organu właściwego w sprawach zaopatrzenia emerytalnego funkcjonarius
 5) ustalanie kwot nienależnie pobranych świadczeń pieniężnych oraz dochodzenie ich zwrotu;
 6) współpraca z organami emerytalnymi i rentowymi w sprawach dotyczących zabezpieczenia społecznego;
 7) współpraca z organami administracji rządowej, organami jednostek organizacyjnych Służby Więziennej oraz komórkami organizacyjnymi Centralnego Zarządu Służby Więziennej;
-Dziennik Ustaw – 2 – Poz. 587
 8) przedkładanie Ministrowi Sprawiedliwości zaopiniowanych wniosków o przyznanie zaopatrzenia emerytalnego w drodze wyjątku;
 9) opracowywanie projektów aktów prawnych dotyczących zaopatrzenia emerytalnego;
 10) rozpatrywanie skarg i wniosków w sprawach z zakresu zaopatrzenia emerytalnego;

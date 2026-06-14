@@ -8,10 +8,10 @@ pos: 1016
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lipca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1016 OBWIESZCZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ” z dnia 26 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,46 +25,31 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1016/text.pdf) |
 
-OBWIESZCZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ” z dnia 26 czerwca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej w sprawie Świadectwa pracy I. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 30 grudnia 2016 r. w sprawie świadectwa pracy (Dz. U.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej w sprawie świadectwa pracy
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 30 grudnia 2016 r. w sprawie świadectwa pracy (Dz.
 z 2020 r. poz. 1862), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 11 maja 2023 r. zmieniającym rozporządzenie w sprawie świadectwa pracy (Dz. U. poz. 912).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje $ 2 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 11 maja 2023 r. zmieniającego rozporządzenie w sprawie świadectwa pracy (Dz. U. poz. 912), który stanowi: „$ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.
-Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk D_ Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej — praca, na podstawie $ 1 ust. 2 pkt 2 rozporząMINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ?” z dnia 30 grudnia 2016 r.
-w sprawie świadectwa pracy Na podstawie art. 97 $ 4 ustawy z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r.
-poz. 878) zarządza się, co następuje: $ 1. Rozporządzenie określa:
-2)
-3)
-4) szczegółową treść świadectwa pracy;
-sposób i tryb wydawania świadectwa pracy;
-sposób 1 tryb prostowania i uzupełniania świadectwa pracy;
-pomocniczy wzór Świadectwa pracy.
+Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk D_- Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej — praca, na podstawie $ 1 ust. 2 pkt 2 rozporząMINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ?” z dnia 30 grudnia 2016 r.
+w sprawie świadectwa pracy Na podstawie art. 97 $ 4 ustawy z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 poz. 878) zarządza się, co następuje: $ 1. Rozporządzenie określa: szczegółową treść świadectwa pracy;
+2) sposób i tryb wydawania świadectwa pracy;
+3) sposób 1 tryb prostowania i uzupełniania świadectwa pracy;
+4) pomocniczy wzór Świadectwa pracy.
 $ 2. 1. W świadectwie pracy zamieszcza się informacje niezbędne do ustalenia uprawnień ze stosunku pracy i uprawnień z ubezpieczeń społecznych, dotyczące:
-1)
-2)
-3)
-4)
-5) 5a)
-6) 6a)?)
-1)
-8)
-9)
-10)
-11)
-12) okresu lub okresów zatrudnienia;
-wymiaru czasu pracy pracownika w czasie trwania stosunku pracy;
-rodzaju wykonywanej pracy lub zajmowanych stanowisk lub pełnionych funkcji;
-trybu i podstawy prawnej rozwiązania lub podstawy prawnej wygaśnięcia stosunku pracy, a w przypadku rozwiązania umowy o pracę za wypowiedzeniem — strony stosunku pracy, która dokonała wypowiedzenia;
-okresu, za który pracownikowi przysługuje odszkodowanie w związku ze skróceniem okresu wypowiedzenia umowy o pracę na podstawie art. 36! $ 1 ustawy z dnia 26 czerwca 1974 r. — Kodeks pracy, zwanej dalej „Kodeksem pracy”;
-zwolnienia od pracy przewidzianego w art. 148! $ I Kodeksu pracy, wykorzystanego w roku kalendarzowym, w którym ustał stosunek pracy;
-urlopu wypoczynkowego przysługującego pracownikowi w roku kalendarzowym, w którym ustał stosunek pracy i wykorzystanego w tym roku;
-urlopu opiekuńczego wykorzystanego w roku kalendarzowym, w którym ustał stosunek pracy;
-wykorzystanego urlopu bezpłatnego i podstawy prawnej jego udzielenia;
-wykorzystanego urlopu ojcowskiego;
-wykorzystanego urlopu rodzicielskiego i podstawy prawnej jego udzielenia;
-wykorzystanego urlopu wychowawczego i podstawy prawnej jego udzielenia;
-okresu, w którym pracownik korzystał z ochrony stosunku pracy, o której mowa w art. 186? $ 1 pkt 2 Kodeksu pracy;
-zwolnienia od pracy przewidzianego w art. 188 Kodeksu pracy, wykorzystanego w roku kalendarzowym, w którym ustał stosunek pracy;
-D__ Na dzień ogłoszenia obwieszczenia w Dzienniku Rzeczypospolitej Polskiej działem administracji rządowej — praca kieruje 12a)? liczby dni pracy zdalnej, przewidzianej w art. 673 $ 1 Kodeksu pracy, wykonywanej w roku kalendarzowym, w którym ustał stosunek pracy;
+1) okresu lub okresów zatrudnienia;
+2) wymiaru czasu pracy pracownika w czasie trwania stosunku pracy;
+3) rodzaju wykonywanej pracy lub zajmowanych stanowisk lub pełnionych funkcji;
+4) trybu i podstawy prawnej rozwiązania lub podstawy prawnej wygaśnięcia stosunku pracy, a w przypadku rozwiązania umowy o pracę za wypowiedzeniem — strony stosunku pracy, która dokonała wypowiedzenia;
+5) okresu, za który pracownikowi przysługuje odszkodowanie w związku ze skróceniem okresu wypowiedzenia umowy o pracę na podstawie art. 36! $ 1 ustawy z dnia 26 czerwca 1974 r. — Kodeks pracy, zwanej dalej „Kodeksem pracy”;
+5a)” zwolnienia od pracy przewidzianego w art. 148! $ I Kodeksu pracy, wykorzystanego w roku kalendarzowym, w którym ustał stosunek pracy;
+6) urlopu wypoczynkowego przysługującego pracownikowi w roku kalendarzowym, w którym ustał stosunek pracy i wykorzystanego w tym roku;
+6a)?) urlopu opiekuńczego wykorzystanego w roku kalendarzowym, w którym ustał stosunek pracy;
+1) wykorzystanego urlopu bezpłatnego i podstawy prawnej jego udzielenia;
+8) wykorzystanego urlopu ojcowskiego;
+9) wykorzystanego urlopu rodzicielskiego i podstawy prawnej jego udzielenia;
+10) wykorzystanego urlopu wychowawczego i podstawy prawnej jego udzielenia;
+11) okresu, w którym pracownik korzystał z ochrony stosunku pracy, o której mowa w art. 186? $ I pkt 2 Kodeksu pracy;
+12) zwolnienia od pracy przewidzianego w art. 188 Kodeksu pracy, wykorzystanego w roku kalendarzowym, w którym ustał stosunek pracy;
+D__ Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej — praca kieruje 12a)? liczby dni pracy zdalnej, przewidzianej w art. 673 $ 1 Kodeksu pracy, wykonywanej w roku kalendarzowym, w którym ustał stosunek pracy;
 13) liczby dni, za które pracownik otrzymał wynagrodzenie, zgodnie z art. 92 Kodeksu pracy, w roku kalendarzowym, w którym ustał stosunek pracy;
 14) okresu odbytej czynnej służby wojskowej lub jej form zastępczych;
 15) okresu wykonywania pracy w szczególnych warunkach lub w szczególnym charakterze;
@@ -73,7 +58,7 @@ D__ Na dzień ogłoszenia obwieszczenia w Dzienniku Rzeczypospolitej Polskiej dz
 18) zajęcia wynagrodzenia za pracę w myśl przepisów o postępowaniu egzekucyjnym;
 19) należności ze stosunku pracy uznanych i niezaspokojonych przez pracodawcę do dnia ustania tego stosunku z powodu braku środków finansowych;
 20) informacji o wysokości i składnikach wynagrodzenia oraz o uzyskanych kwalifikacjach — na żądanie pracownika.
-2. W świadectwie pracy zamieszcza się pouczenie o prawie pracownika wystąpienia z wnioskiem do pracodawcy o sprostowanie świadectwa pracy w ciągu 14 dni od otrzymania świadectwa pracy, a w razie nieuwzględnienia tego wniosku przez pracodawcę — o prawie wystąpienia z żądaniem sprostowania świadectwa pracy do sądu pracy w ciągu 14 dni od zawiadomienia o odmowie sprostowania świadectwa pracy przez pracodawcę, a w przypadku niezawiadomienia przez pracodawcę o odmowie sprostowania świadectwa pracy — o prawie wystąpienia z żądaniem sprostowania świadectwa pracy do sądu pracy.
+2. W świadectwie pracy zamieszcza się pouczenie o prawie pracownika wystąpienia z wnioskiem do pracodawcy o sprostowanie świadectwa pracy w ciągu 14 dni od otrzymania świadectwa pracy, a w razie nieuwzględnienia tego wniosku przez pracodawcę — o prawie wystąpienia z żądaniem sprostowania świadectwa pracy do sądu pracy w ciągu 14 dni od zawiadomienia o odmowie sprostowania Świadectwa pracy przez pracodawcę, a w przypadku niezawiadomienia przez pracodawcę o odmowie sprostowania świadectwa pracy — o prawie wystąpienia z żądaniem sprostowania świadectwa pracy do sądu pracy.
 2a. Pracodawca będący agencją pracy tymczasowej zamieszcza w świadectwie pracy wydawanym pracownikowi tymczasowemu także informacje dotyczące każdego pracodawcy użytkownika, na rzecz którego pracownik wykonywał pracę tymczasową na podstawie umowy o pracę oraz okresów wykonywania takiej pracy.
 3. Pomocniczy wzór świadectwa pracy zawiera załącznik do rozporządzenia.
 $ 3. W przypadku upoważnienia przez pracownika innej osoby do odbioru świadectwa pracy upoważnienie może być dostarczone pracodawcy w postaci papierowej lub elektronicznej.
@@ -83,31 +68,33 @@ $ 6. (uchylony).
 $ 7. 1. Pracodawca zawiadamia pracownika — w postaci papierowej lub elektronicznej — o negatywnym rozpatrzeniu wniosku o sprostowanie świadectwa pracy w ciągu 7 dni od dnia otrzymania tego wniosku. W razie uwzględnienia wniosku, pracodawca wydaje pracownikowi w tym terminie nowe świadectwo pracy.
 2. W razie uwzględnienia przez sąd pracy powództwa pracownika o sprostowanie świadectwa pracy pracodawca wydaje pracownikowi nowe świadectwo pracy, w ciągu 7 dni od dnia uprawomocnienia się orzeczenia sądu w tej sprawie.
 3. W razie prawomocnego orzeczenia sądu pracy o przywróceniu pracownika do pracy lub przyznaniu mu odszkodowania z tytułu niezgodnego z przepisami prawa wypowiedzenia umowy o pracę lub jej rozwiązania bez wypowiedzenia pracodawca, na żądanie pracownika, w ciągu 7 dni od dnia przedłożenia przez pracownika Świadectwa pracy, uzupełnia treść wydanego mu uprzednio świadectwa pracy o dodatkową informację o tym orzeczeniu.
+4. Dodany przez $ I pkt I lit. c rozporządzenia, o którym mowa w odnośniku 2.
 4. Jeżeli orzeczenie, o którym mowa w ust. 3, zostało wydane w związku z rozwiązaniem przez pracodawcę umowy o pracę bez wypowiedzenia z winy pracownika, z naruszeniem przepisów o rozwiązywaniu w tym trybie umów o pracę, pracodawca wydaje pracownikowi, w terminie określonym w ust. 2, nowe świadectwo pracy zawierające informację o rozwiązaniu umowy o pracę za wypowiedzeniem dokonanym przez pracodawcę.
 4a. W razie zawarcia ugody skutkującej koniecznością wydania pracownikowi nowego świadectwa pracy pracodawca wydaje pracownikowi nowe świadectwo pracy w ciągu 7 dni od dnia zawarcia lub zatwierdzenia ugody przez sąd.
 4b. Jeżeli z przyczyn obiektywnych wydanie nowego lub uzupełnionego świadectwa pracy pracownikowi w terminie określonym w ust. 1-4a nie jest możliwe, pracodawca w ciągu 7 dni od dnia upływu tego terminu przesyła świadectwo pracy pracownikowi za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. — Prawo pocztowe albo doręcza je w inny sposób.
 5. W przypadkach określonych w ust. I zdanie drugie oraz w ust. 2, 4 i 4a pracodawca, najpóźniej w dniu wydania pracownikowi nowego świadectwa pracy, usuwa z akt osobowych pracownika i niszczy poprzednio wydane świadectwo pracy w sposób uniemożliwiający odtworzenie jego treści.
-$ 8. Przepis $ 7 ust. 2 15 stosuje się odpowiednio w razie uwzględnienia przez sąd pracy powództwa pracownika o odszkodowanie w związku z niewydaniem w terminie lub wydaniem niewłaściwego świadectwa pracy.
-$9. 1. Wrazie prawomocnego orzeczenia sądu pracy o odszkodowaniu na rzecz pracodawcy z tytułu nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia na podstawie art. 55 $ 1! Kodeksu pracy, pracownik w ciągu 7 dni od dnia uprawomocnienia się orzeczenia sądu w tej sprawie przedkłada pracodawcy wydane mu świadectwo pracy w celu uzupełnienia treści tego Świadectwa o informację o wydanym orzeczeniu sądu pracy.
-2. Wrazie niespełnienia obowiązku, o którym mowa w ust. 1, pracodawca wzywa pracownika do przedłożenia świadectwa pracy w ciągu 7 dni od otrzymania wezwania w celu zamieszczenia takiej informacji w świadectwie pracy. Pracodawca uzupełnia świadectwo pracy i wydaje je pracownikowi w ciągu 7 dni od przedłożenia go przez pracownika. Przepis $ 7 ust. 4b stosuje się odpowiednio.
+$ 8. Przepis $ 7 ust. 2 15 stosuje się odpowiednio w razie uwzględnienia przez sąd pracy powództwa pracownika o szkodowanie w związku z niewydaniem w terminie lub wydaniem niewłaściwego świadectwa pracy.
+$ 9. 1. Wrazie prawomocnego orzeczenia sądu pracy o odszkodowaniu na rzecz pracodawcy z tytułu nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia na podstawie art. 55 $ 1! Kodeksu pracy, pracownik w ciągu 7 dni od dnia uprawomocnienia się orzeczenia sądu w tej sprawie przedkłada pracodawcy wydane mu świadectwo pracy w celu uzupełnienia treści tego Świadectwa o informację o wydanym orzeczeniu sądu pracy.
+2. Wrazie niespełnienia obowiązku, o którym mowa w ust. 1, pracodawca wzywa pracownika do przedłożenia świadectwa pracy w ciągu 7 dni od otrzymania wezwania w celu zamieszczenia takiej informacji w świadectwie pracy. Pracodawca uzupełnia świadectwo pracy i wydaje je pracownikowi w ciągu 7 dni od przedłożenia go przez pracownika. Przepis $ 7 ust.
+stosuje się odpowiednio.
 $ 10. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.”
-5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 15 maja 1996 r. w sprawie ZałącznikdorozporządzeniaMinistraRodziny , Pracyi Po li tykiSpołecznej zdnia 30 grudnia 2016 r . ( D z . U . z 2024 r . p o z . ) 9 WZÓR ( pracodawcaorazjegosiedzibalub ( miejscowośćidata ) ( nu merNIPlubREGON - P K D ) ŚWIADECTWOPRACY 1 . Stwierdzasię , Ż E ... ooo o a aaa z aaa ooo aoeoano nn aa : ( imię ( imiona ) inazwiskopracownika ) [ 100 20 ) 1 ZYRYC byłzatrudniony ..... eee eee eee eee aaa aaa aaa atenaata wokresieOd ............. 22222111111 -- 11 . ( OEWWYMIATZE .... - . eeeeeeeee aaa n a n aa w cc n c a wokresieOd ................... - ... 11 - 1 .. OEWWYMIAarZE ....... - eeeeeee aaa e z n aaa zncnica wokresieOd .................. -- .. 1111111 . tOEWWYMIArZE ...... eeeeeeee o e aaa aa aa z aa aa ncnica RENAOJ 4 EIEFOKE : C H E RENAJ 4< EIEKOKE : C H E TENAJSICNK : C H A ( pracodawcaużytkownik ) 3 . Wokresiezatrudnieniapracownikwykonywałpracę ...... - eee eeeee seasonenea ( rodzajwykonywanejpracylubzajmowanestanowiska , lubpełnionefunkcje )
-4. Stosunek pracy ustał w wyniku: ZY ECGC VZAZY LEC: R | JNAWAZEO WE
-5. Został zastosowany skrócony okres wypowiedzenia umowy o pracę na podstawie art. 36! $ 1 Kodeksu pracy |. a ewa aaaaaaaaaaaaaaaaaaaazaaaaaaaaaaianaiznani
+5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 15 maja 1996 r. w sprawie ZałącznikdorozporządzeniaMinistraRodziny , Pracyi Po li tykiSpołecz zdnia 30 grudnia 2016 r . ( D z . U . z 2024 r . p o z . 1016 ) 9 WZÓR ( pracodawcaorazjegosiedzibalub ( miejscowośćidata ) ( nu merNIPlubREGON - P K D ) ŚWIADECTWOPRACY 1 . Stwierdzasię , Ż E ... ooo e a u aaa oeoano nn aa : ( imię ( imiona ) inazwiskopracownika ) [ 100 20 ) 1 Z O YYYY byłzatrudniony ..... eee eee eee eee aaa aaa a aa t aaa tzatnatnena wokresieOd ........... 1 . 22222111111 -- 11 . ( ONEWWYMIATZE .... - . eeeeeeee aaa a n aa n cc n c a wokresieOd ................... - ... 1111 .. OHWWYMIArZE ....... ee u eeeee aaa e aaa znzansnoica wokresieOd .................. - - .. 111111 .. tOEWWYMIArZE ....... eeeeeeee s aa a e aaaaa ancnoica RENAOJES EE : C H E RENAJ 4< EIEKOKE : C H E TENAJSICNK : C H A ( pracodawcaużytkownik ) 3 . Wokresiezatrudnieniapracownikwykonywałpracę ..... - eee eee seasonec aaa c a ( rodzajwykonywanejpracylubzajmowanestanowiska , lubpełnionefunkcje ) 6 ) Wbrzmieniuustalonymprzez $ 1 p k t 2 rozporządzenia , októrymmowawodnośniku 2 .
+4. Stosunek pracy ustał w wyniku: ZOE KOC ZVZZY ADEC: R | JNAWAZEO WE
+5. Został zastosowany skrócony okres wypowiedzenia umowy o pracę na podstawie art. 36! $ 1 Kodeksu pracy |.
 6. W okresie zatrudnienia pracownik:
-l) wykorzystał zwolnienie od pracy przewidziane w art. 148! $ I Kodeksu pracy ................
-2) wykorzystał urlop wypoczynkowy w wymiarze ...........ooso aeaa aaea aaea aaea aaae aaa aeaa eaeaeaaaa ace W CYMI „-oseessezeczeecezto Eo zCOzZOSESECAEZEEEESEWEZEA ASEAN GAZ PAWOSZAEWESNOEAINEGOSAYGAOOC WEW DAGNY ORAN CHAO EWAKEGAUAAH (urlop wypoczynkowy wykorzystany na podstawie art. 167? Kodeksu pracy w roku kalendarzowym, w którym ustał stosunek pracy)
-3) wykorzystał urlop opiekuńczy w wymiarze ...........aa.a .eee. aa-a asaa asaa aaea aaae aaa aae aaaa aa aaaaaaaaaeccca
-4) korzystał z urlopu bezpłatnego ............ee.e a.aa a.aa. a.aa .aa-a eaaae aeeaeas aaas eaaaasaaae (okres trwania urlopu bezpłatnego i podstawa prawna jego udzielenia)
-5) wykorzystał urlop ojcowski w wymiarze ..........-...::222::4221122- WE częściach
-6) wykorzystał urlop rodzicielski w wymiarze ...............:-22-2211112222. WE częściach
-7) wykorzystał urlop wychowawczy udzielony na podstawie ...................--2::--::ssesssunasaaseez.
-W WYMIarZE ....-...uaaaaoaaeaaaasacaenaaa: w okresie (okresach) ..............--.ea. uaaaaa aaas aa aaaaaaaaaaceczć WE częściach
-8) korzystał z ochrony stosunku pracy, o której mowa w art. 186* $ 1 pkt 2 Kodeksu pracy, w okresie (okresach) .................seeeuaaa aaa aaa aaa aaa aaa aaa aaa aaa aaa a wawa aaaaaaa aa aaaaaaarraaccaaaaa
-7.
-11) był niezdolny do pracy przez okreS ...........a.aa- aaae aaae aaa aeaa aasa aaau aaaa a aaaa aas aaaasaazaeacceć dni I stycznia 2003 r. do dnia 31 grudnia 2003 r., zgodnie z art. 92 $ 1' Kodeksu pracy obowiązującym w tym okresie)
-13) odbył służbę wojskową w okresie ...........aa.a a.aa. aa.a aa.a aa.a a.aa. aasa aaau aaa aaa aaaaa aa eaaaaaaaaaaaaaaaa
-15) wykorzystał dodatkowy urlop albo inne uprawnienia lub świadczenia przewidziane przepisami prawa pracy. ....-eeeeuaa aaa aaa aaa aaa aaa aaa aaa aaa aaa aaa aaa aaa wana a a aaa aaaaaaaazraaeaaaaaaraaccć O Informacja o zajęciu wynagrodzenia: ........aa.a aa-a aa-a a-aa aa.a a.aa. aa.a aa.a asaa aaas aaae aeeaaaaaaeraaccca (podpis pracodawcy lub osoby reprezentującej pracodawcę albo osoby upoważnionej do składania oświadczeń w imieniu pracodawcy) POUCZENIE Pracownik może w ciągu 14 dni od otrzymania świadectwa pracy wystąpić z wnioskiem do pracodawcy o sprostowanie świadectwa pracy. W razie nieuwzględnienia wniosku pracownikowi przysługuje, w ciągu 14 dni od zawiadomienia o odmowie sprostowania Świadectwa pracy, prawo wystąpienia z żądaniem jego sprostowania do sądu pracy.
+1) wykorzystał zwolnienie od pracy przewidziane w art. 148! $ I Kodeksu pracy ................
+2) wykorzystał urlop wypoczynkowy w wymiarze ..........a.aas a eaaa aaea aaae aaa aeaa eaaa aeaa eeecaaaa ace W CYMI „-oseessezeczeecezto Eo zCOzZOSESECAEZEEEESEWEZEA ASEAN GAZ PAWOSZAEWESNOEAINEGOSAYGAOOC WEW DAGNY ORAN CHAO EWAKEGAUAAH (urlop wypoczynkowy wykorzystany na podstawie art. 167? Kodeksu pracy w roku kalendarzowym, w którym ustał stosunek pracy)
+3) wykorzystał urlop opiekuńczy w wymiarze ..........a.aa .ea.u .aaa- aas aaa saaae aaa aeaa eaaaaaaaaaaaaaccca
+4) korzystał z urlopu bezpłatnego ...........ee.e e.ee a.aa. .aa.a a.a-a aeaeae eeeaeaaasaaace (okres trwania urlopu bezpłatnego i podstawa prawna jego udzielenia)
+5) wykorzystał urlop ojcowski w wymiarze ...........---..:::2221:4221122- WE częściach
+6) wykorzystał urlop rodzicielski w wymiarze ...............:-2222211112221. WE częściach
+7) wykorzystał urlop wychowawczy udzielony na podstawie ...................--2::-:::sssessunasaaaeez.
+W WYyMIarZE ....-..uuaaaaaaaeaaaascaeinaaa: w okresie (okresach) ..............--eea. auaaa aaasa aaaaaaaaaaaceczi EE częściach
+8) korzystał z ochrony stosunku pracy, o której mowa w art. 186* $ 1 pkt 2 Kodeksu pracy, w okresie (okresach) ................sseeeuaaa aaa aaa aaa a aaa aaa aaa aaa aaa aaa aaa a wawa a owane aaaaaaraaacecaaaa
+11) był niezdolny do pracy przez okreS ...........a.aa- aaae aaae aaa aeaa aasa aaau aaa aaaaa aaas aaaasaanaeacceć dni I stycznia 2003 r. do dnia 31 grudnia 2003 r., zgodnie z art. 92 $ 1! Kodeksu pracy obowiązującym w tym okresie)
+13) odbył służbę wojskową w okresie ..............aa-a -aa-a a -aaa .aa.a .aa.au aaa aa uaaa aa uaaa aaaaeaaaaaaaaaaaaazaaa
+15) wykorzystał dodatkowy urlop albo inne uprawnienia lub świadczenia przewidziane przepisami prawa pracy. ...--eeeeeaa aaa aaa aaa aaa aaa aaa oaza aaa aaa aaa a aaa a a aaa aaa a aaaaaa zaa eaaaaaaraaccć O
+7. Informacja o zajęciu wynagrodzenia: ......e.au .aaa .aa.a .aa.a aa.a aasa aaa aasa aasa aaae aeaaaaaeaaaaccca (podpis pracodawcy lub osoby reprezentującej pracodawcę albo osoby upoważnionej do składania oświadczeń w imieniu pracodawcy) POUCZENIE Pracownik może w ciągu 14 dni od otrzymania świadectwa pracy wystąpić z wnioskiem do pracodawcy o sprostowanie świadectwa pracy. W razie nieuwzględnienia wniosku pracownikowi przysługuje, w ciągu 14 dni od zawiadomienia o odmowie sprostowania Świadectwa pracy, prawo wystąpienia z żądaniem jego sprostowania do sądu pracy.
 W przypadku niezawiadomienia przez pracodawcę o odmowie sprostowania Świadectwa pracy, żądanie sprostowania świadectwa pracy wnosi się do sądu pracy.
 (podstawa prawna — art. 97 $ 2! Kodeksu pracy) SPOSÓB WYPEŁNIANIA ŚWIADECTWA PRACY
 1. Nr REGON- — stanowi identyfikator pracodawcy nadany przez właściwy urząd PKD statystyczny.

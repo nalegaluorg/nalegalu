@@ -8,10 +8,10 @@ pos: 1262
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 czerwca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1262 UmowA z dnia 15 lutego 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1262/text.pdf) |
 
-UmowA z dnia 15 lutego 2017 r.
 między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o zmianie Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o wzajemnej ochronie informacji niejawnych, podpisanej w Warszawie dnia 18 sierpnia 2006 r.
 Przekład
 

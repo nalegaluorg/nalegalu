@@ -8,12 +8,10 @@ pos: 259
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Badań Medycznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -59,11 +57,31 @@ Art. 34–40. (pominięte)
 
 **Art. 2.** Działalność Agencji polega na:
 
+- **1)** dofinansowaniu badań naukowych i prac rozwojowych w dziedzinie nauk medycznych i nauk o zdrowiu oraz projektów interdyscyplinarnych wyłonionych w drodze konkursu, ze szczególnym uwzględnieniem badań klinicznych, obserwacyjnych i epidemiologicznych oraz eksperymentów badawczych;
+- **2)** wydawaniu opinii i ekspertyz w dziedzinie nauk medycznych i nauk o zdrowiu na rzecz organów administracji publicznej lub innych podmiotów w wyniku realizacji zawartych umów;
+- **3)** inicjowaniu i rozwijaniu współpracy międzynarodowej w dziedzinie nauk medycznych i nauk o zdrowiu na podstawie programów, o których mowa w art. 15 ust. 1 pkt 1;
+- **4)** inicjowaniu i realizacji własnych badań naukowych i prac rozwojowych;
+- **5)** wspieraniu działalności Naczelnej Komisji Bioetycznej, o której mowa w rozdziale 4 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605);
+- **6)** inicjowaniu i rozwijaniu działań o charakterze edukacyjnym i szkoleniowym.
+
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** badaniu naukowym – należy przez to rozumieć badanie naukowe w rozumieniu art. 4 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897) w dziedzinie nauk medycznych i nauk o zdrowiu lub badanie interdyscyplinarne łączące co najmniej dwie dziedziny nauki, z których jedna to dziedzina nauk medycznych i nauk o zdrowiu;
+- **2)** beneficjencie – należy przez to rozumieć podmiot, który zawarł umowę z Agencją na realizację i dofinansowanie projektu;
+- **2a)** eksperymencie badawczym – należy przez to rozumieć eksperyment badawczy w rozumieniu art. 21 ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287 i 1897);
+- **3)** konkursie – należy przez to rozumieć ogłoszony i przeprowadzany przez Agencję nabór wniosków na realizację i dofinansowanie projektu;
+- **4)** pracach rozwojowych – należy przez to rozumieć prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **5)** programie – należy przez to rozumieć instrument realizacji zadań Agencji wyznaczający strategiczne cele w zakresie rozwoju innowacji w obszarze ochrony zdrowia i działania niezbędne do ich osiągnięcia oraz definiujący w sposób mierzalny oczekiwane efekty;
+- **6)** projekcie – należy przez to rozumieć przedsięwzięcie realizowane w ramach zadań Agencji, o których mowa w art. 15 ust. 2, o określonej wartości finansowej, prowadzone w ustalonych ramach czasowych na podstawie umowy albo badanie naukowe lub prace rozwojowe, o których mowa w art. 15 ust. 1 pkt 5 i 6;
+- **7)** projekcie interdyscyplinarnym – należy przez to rozumieć projekt o celach medycznych, który łączy co najmniej dwie dziedziny nauki, z których jedna to dziedzina nauk medycznych i nauk o zdrowiu;
+- **8)** wniosku – należy przez to rozumieć wniosek na realizację i dofinansowanie projektu złożony w konkursie.
 
 #### Rozdział 2 Organy i organizacja Agencji
 
 **Art. 4.** Organami Agencji są:
+
+- **1)** Prezes Agencji, zwany dalej „Prezesem”;
+- **2)** Rada Agencji, zwana dalej „Radą”.
 
 **Art. 5.**
 
@@ -82,12 +100,12 @@ Art. 34–40. (pominięte)
 
 4. Zastępców Prezesa w liczbie nie większej niż trzech powołuje Prezes w drodze konkursu. Prezes może odwołać zastępcę w każdym czasie.
 
-5. Powołanie, o którym mowa w ust. 1 i 4, stanowi nawiązanie stosunku pracy na podstawie powołania, o którym mowa w przepisach ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878, 1222, 1871 i 1965).
+5. Powołanie, o którym mowa w ust. 1 i 4, stanowi nawiązanie stosunku pracy na podstawie powołania, o którym mowa w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878, 1222, 1871 i 1965).
 
 6. Wynagrodzenie:
 
-- **1)** Prezesa ustala minister właściwy do spraw zdrowia;
-- **2)** zastępców Prezesa ustala Prezes.
+- **1)** Prezesa – ustala minister właściwy do spraw zdrowia;
+- **2)** zastępców Prezesa – ustala Prezes.
 
 7. Prezes oraz zastępcy Prezesa, za zgodą odpowiednio ministra właściwego do spraw zdrowia lub Prezesa, mogą podejmować dodatkowe zatrudnienie, jeżeli wykonywanie tego zatrudnienia nie przeszkadza w pełnieniu obowiązków Prezesa lub zastępcy Prezesa.
 
@@ -99,7 +117,7 @@ Art. 34–40. (pominięte)
 9. Minister właściwy do spraw zdrowia ogłasza konkurs na stanowisko Prezesa:
 
 - **1)** co najmniej na 8 tygodni przed upływem kadencji Prezesa;
-- **2)** niezwłocznie w przypadku odwołania albo śmierci Prezesa.
+- **2)** niezwłocznie – w przypadku odwołania albo śmierci Prezesa.
 
 10. Informację o naborze na stanowisko Prezesa ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Agencji oraz na stronie podmiotowej Biuletynu Informacji Publicznej Agencji i na stronie podmiotowej Biuletynu Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
 
@@ -132,7 +150,7 @@ Art. 34–40. (pominięte)
 
 - **1)** nazwę i adres Agencji;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) albo informację o niewyłonieniu kandydata.
+- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) albo informację o niewyłonieniu kandydata.
 
 17. Umieszczenie na stronie podmiotowej Biuletynu Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
 
@@ -195,7 +213,7 @@ Art. 34–40. (pominięte)
 
 1. W skład Rady wchodzi od 15 do 20 członków powoływanych i odwoływanych przez ministra właściwego do spraw zdrowia. Członków Rady w liczbie nie większej niż ośmiu wskazuje minister właściwy do spraw zdrowia. Pozostałych członków Rady minister właściwy do spraw zdrowia powołuje spośród kandydatów, których zgłaszają:
 
-- **1)** dwóch minister właściwy do spraw szkolnictwa wyższego i nauki;
+- **1)** dwóch – minister właściwy do spraw szkolnictwa wyższego i nauki;
 - **2)** po jednym:
     - **a)** minister właściwy do spraw gospodarki,
     - **b)** Minister Obrony Narodowej,
@@ -256,8 +274,8 @@ Art. 34–40. (pominięte)
 
 4. W przypadku Przewodniczącego i członków Rady:
 
-- **1)** będących jednocześnie członkami korpusu służby cywilnej wynagrodzenie, o którym mowa w ust. 3, nie może przekroczyć jednokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
-- **2)** innych niż określeni w pkt 1 wynagrodzenie, o którym mowa w ust. 3, nie może przekroczyć dwukrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+- **1)** będących jednocześnie członkami korpusu służby cywilnej – wynagrodzenie, o którym mowa w ust. 3, nie może przekroczyć jednokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
+- **2)** innych niż określeni w pkt 1 – wynagrodzenie, o którym mowa w ust. 3, nie może przekroczyć dwukrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 13.**
 
@@ -312,7 +330,7 @@ Art. 34–40. (pominięte)
 
 3. Agencja przetwarza następujące dane osobowe niezbędne do prowadzenia badań naukowych i prac rozwojowych:
 
-- **1)** numer PESEL osoby uczestniczącej w badaniu naukowym lub pracy rozwojowej lub świadczeniobiorcy w rozumieniu art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **1)** numer PESEL osoby uczestniczącej w badaniu naukowym lub pracy rozwojowej lub świadczeniobiorcy w rozumieniu art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **2)** numer kodu pocztowego adresu miejsca zamieszkania osoby uczestniczącej w badaniu naukowym lub pracy rozwojowej lub świadczeniobiorcy;
 - **3)** informacje o świadczeniach finansowanych ze środków publicznych udzielonych na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub na podstawie badania naukowego finansowanego przez Agencję.
 
@@ -326,7 +344,7 @@ Art. 34–40. (pominięte)
 
 - **1)** imię i nazwisko osoby uprawnionej do reprezentowania wnioskodawców i beneficjentów;
 - **2)** imię i nazwisko osoby wskazanej do kontaktów roboczych ze strony beneficjenta;
-- **3)** imię i nazwisko, adres zamieszkania oraz numer PESEL osób otrzymujących wynagrodzenie w ramach realizacji projektu, a w przypadku braku numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość.
+- **3)** imię i nazwisko, adres zamieszkania oraz numer PESEL osób otrzymujących wynagrodzenie w ramach realizacji projektu, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość.
 
 6. Przy przetwarzaniu danych osobowych, o których mowa w ust. 3, administrator danych wdraża odpowiednie zabezpieczenia techniczne i organizacyjne praw i wolności osób fizycznych, których dane osobowe są przetwarzane, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), w szczególności przez pseudonimizację albo szyfrowanie danych, nadawanie uprawnień do przetwarzania minimalnej liczbie osób niezbędnych do prowadzenia badań naukowych i prac rozwojowych, kontrolę dostępu do pomieszczeń, w których przechowywane są dokumenty zawierające dane osobowe, oraz opracowanie procedury określającej sposób zabezpieczenia danych.
 
@@ -360,7 +378,7 @@ Art. 34–40. (pominięte)
 
 1. W konkursie mogą brać udział:
 
-- **1)** podmioty, o których mowa w art. 7 ust. 1 pkt 1–6 i 8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **1)** podmioty, o których mowa w art. 7 ust. 1 pkt 1–6 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **2)** Centrum Medycznego Kształcenia Podyplomowego, o którym mowa w ustawie z dnia 13 września 2018 r. o Centrum Medycznego Kształcenia Podyplomowego (Dz. U. z 2024 r. poz. 570 i 1897);
 - **3)** podmioty lecznicze, dla których podmiotem tworzącym jest publiczna uczelnia medyczna albo uczelnia prowadząca działalność dydaktyczną i badawczą w dziedzinie nauk medycznych i nauk o zdrowiu, albo Centrum Medycznego Kształcenia Podyplomowego;
 - **4)** przedsiębiorcy mający status centrum badawczo-rozwojowego w rozumieniu art. 17 ust. 2 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2022 r. poz. 2474);
@@ -410,7 +428,7 @@ Art. 34–40. (pominięte)
 
 12. Wysokość wynagrodzenia eksperta, o którym mowa w ust. 1 i 3, określa umowa zawierana z Prezesem. Do zawarcia umowy nie stosuje się przepisów o zamówieniach publicznych, z zastrzeżeniem zapewnienia przejrzystości wyboru ekspertów i równego ich traktowania.
 
-13. Ekspertom, o których mowa w ust. 1 i 3, zamieszkałym poza miejscowością, w której odbywa się posiedzenie zespołu oceny wniosków, przysługuje zwrot kosztów podróży i noclegu na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+13. Ekspertom, o których mowa w ust. 1 i 3, zamieszkałym poza miejscowością, w której odbywa się posiedzenie zespołu oceny wniosków, przysługuje zwrot kosztów podróży i noclegu na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 19.**
 
@@ -449,7 +467,7 @@ Art. 34–40. (pominięte)
 
 12. W przypadku uwzględnienia protestów przepisy ust. 4–6 stosuje się.
 
-13. Do wyłączenia pracowników Agencji, ekspertów, o których mowa w art. 18 ust. 1 i 3, w zakresie nieuregulowanym ustawą, doręczeń oraz sposobu obliczania terminów w sprawach rozpatrywania protestu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) dotyczące wyłączenia pracowników organu, doręczeń i sposobu obliczania terminów.
+13. Do wyłączenia pracowników Agencji, ekspertów, o których mowa w art. 18 ust. 1 i 3, w zakresie nieuregulowanym ustawą, doręczeń oraz sposobu obliczania terminów w sprawach rozpatrywania protestu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) dotyczące wyłączenia pracowników organu, doręczeń i sposobu obliczania terminów.
 
 **Art. 19a.** Przepisów o konkursie nie stosuje się w przypadku dofinansowywania badań naukowych lub prac rozwojowych podejmowanych przez podmioty, o których mowa w art. 17 ust. 1, w przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, jeżeli badania lub prace te dotyczą metod zwalczania zakażenia lub choroby zakaźnej będącej przyczyną ogłoszenia danego stanu.
 
@@ -466,7 +484,7 @@ Art. 34–40. (pominięte)
 - **5)** sposób i zakres końcowej oceny merytorycznej projektu;
 - **6)** sposób i warunki udostępniania i rozpowszechniania efektów projektu, z uwzględnieniem przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233);
 - **7)** tryb kontroli wykonywania projektu;
-- **8)** termin zwrotu niewykorzystanych środków, nie dłuższy niż 30 dni od określonego w umowie dnia zakończenia realizacji projektu, a w przypadku projektu realizowanego za granicą 60 dni od określonego w umowie dnia zakończenia jego realizacji;
+- **8)** termin zwrotu niewykorzystanych środków, nie dłuższy niż 30 dni od określonego w umowie dnia zakończenia realizacji projektu, a w przypadku projektu realizowanego za granicą – 60 dni od określonego w umowie dnia zakończenia jego realizacji;
 - **9)** zakres praw stron do praw autorskich, patentowych i pokrewnych oraz praw własności przemysłowej, w tym sposoby i warunki rozporządzania tymi prawami oraz ich wykorzystania dla celów komercyjnych i do dalszych badań.
 
 **Art. 21.**
@@ -490,6 +508,12 @@ Art. 34–40. (pominięte)
 
 **Art. 22.** Nadzór Agencji nad realizacją projektu obejmuje:
 
+- **1)** ocenę raportów okresowych z wykonania projektu;
+- **2)** kontrolę u beneficjenta lub podmiotu wykonującego projekt;
+- **3)** uprawnienie Prezesa, po zasięgnięciu opinii Rady, do wstrzymania finansowania projektu w przypadku wydatkowania przez wykonawcę środków finansowych niezgodnie z umową na realizację i dofinansowanie projektu lub nieosiągnięcia wyników zaplanowanych na danym etapie realizacji projektu lub badania naukowego lub prac rozwojowych do czasu wyjaśnienia nieprawidłowości;
+- **4)** uprawnienie Prezesa, po zasięgnięciu opinii Rady, do przerwania finansowania projektu w przypadku nieterminowego lub nienależytego wykonywania umowy na realizację i dofinansowanie projektu;
+- **5)** uprawnienie Prezesa, po zasięgnięciu opinii Rady, do zakończenia finansowania projektu lub badania naukowego i pracy rozwojowej i uznania wydatków poniesionych za rozliczone, na wniosek beneficjenta w sytuacji wysokiego ryzyka braku spodziewanych i zaplanowanych rezultatów.
+
 **Art. 23.** Agencja prowadzi systematyczną ewaluację finansowanych projektów i przeprowadzonych na ich podstawie badań naukowych oraz prac rozwojowych oraz innych zadań Agencji, w tym w zakresie korzyści finansowych dla budżetu państwa i systemu ochrony zdrowia z prowadzonych badań i analiz.
 
 **Art. 24.**
@@ -501,7 +525,7 @@ Art. 34–40. (pominięte)
 - **1)** przeznaczenie pomocy,
 - **2)** rodzaje kosztów kwalifikujących się do objęcia pomocą,
 - **3)** sposób kumulowania pomocy,
-- **4)** maksymalne wielkości pomocy uwzględniając warunki dotyczące dopuszczalnej pomocy publicznej określone w przepisach prawa Unii Europejskiej oraz konieczność zapewnienia efektywnego i skutecznego wykorzystania pomocy publicznej i pomocy de minimis oraz przejrzystości jej udzielania.
+- **4)** maksymalne wielkości pomocy – uwzględniając warunki dotyczące dopuszczalnej pomocy publicznej określone w przepisach prawa Unii Europejskiej oraz konieczność zapewnienia efektywnego i skutecznego wykorzystania pomocy publicznej i pomocy de minimis oraz przejrzystości jej udzielania.
 
 **Art. 25.**
 
@@ -510,6 +534,10 @@ Art. 34–40. (pominięte)
 2. Podmioty, o których mowa w ust. 1, mogą udzielić dofinansowania Agencji na rzecz prowadzenia zainicjowanego przez nich badania naukowego na podstawie umowy zawartej z Agencją.
 
 **Art. 26.** Działalność Agencji dotycząca inicjowania i rozwijania współpracy międzynarodowej w dziedzinie nauk medycznych i nauk o zdrowiu jest realizowana w obszarach wskazanych w programie, o którym mowa w art. 15 ust. 1 pkt 1, i polega na:
+
+- **1)** inicjowaniu zawierania porozumień dotyczących współpracy międzynarodowej;
+- **2)** pomocy podmiotom, o których mowa w art. 7 ust. 1 pkt 1–6 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w realizacji międzynarodowych projektów badawczych;
+- **3)** organizacji wydarzeń naukowych i propagowaniu działalności naukowej.
 
 #### Rozdział 4 Gospodarka finansowa Agencji
 
@@ -655,6 +683,9 @@ Art. 34–40. (pominięte)
 
 **Art. 44.** Prezes, w terminie 30 dni od dnia wejścia w życie ustawy:
 
+- **1)** sporządzi i przedstawi ministrowi właściwemu do spraw zdrowia do zatwierdzenia roczny plan finansowy Agencji,
+- **2)** sporządzi roczny plan działalności Agencji – obowiązujący do końca 2019 r.
+
 **Art. 45.**
 
 1. W 2019 r. dotacje, o których mowa w art. 28 ust. 1 pkt 1 i 2, wynoszą łącznie 50 000 tys. zł i są przeznaczone na pokrycie kosztów utworzenia Agencji, w tym wydatki majątkowe, oraz na pokrycie bieżących kosztów Agencji związanych z realizacją zadań określonych w ustawie.
@@ -663,16 +694,16 @@ Art. 34–40. (pominięte)
 
 2. W latach 2019–2029 maksymalny limit wydatków będących skutkiem finansowym ustawy będzie wynosić:
 
-- **1)** 50 000 tys. zł w 2019 r.;
-- **2)** 366 000 tys. zł w 2020 r.;
-- **3)** 480 000 tys. zł w 2021 r.;
-- **4)** 544 000 tys. zł w 2022 r.;
-- **5)** 953 405 tys. zł w 2023 r.;
-- **6)** 1 260 923 tys. zł w 2024 r.;
-- **7)** 1 354 937 tys. zł w 2025 r.;
-- **8)** 1 361 460 tys. zł w 2026 r.;
-- **9)** 1 421 731 tys. zł w 2027 r.;
-- **10)** 1 478 300 tys. zł w 2028 r.
+- **1)** 50 000 tys. zł – w 2019 r.;
+- **2)** 366 000 tys. zł – w 2020 r.;
+- **3)** 480 000 tys. zł – w 2021 r.;
+- **4)** 544 000 tys. zł – w 2022 r.;
+- **5)** 953 405 tys. zł – w 2023 r.;
+- **6)** 1 260 923 tys. zł – w 2024 r.;
+- **7)** 1 354 937 tys. zł – w 2025 r.;
+- **8)** 1 361 460 tys. zł – w 2026 r.;
+- **9)** 1 421 731 tys. zł – w 2027 r.;
+- **10)** 1 478 300 tys. zł – w 2028 r.
 
 2a. Limity wydatków, o których mowa w ust. 2 pkt 3–10, podwyższa się o środki niewykorzystane z lat ubiegłych pochodzące z odpisu wymienionego w art. 28 ust. 1 pkt 3.
 

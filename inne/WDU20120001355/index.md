@@ -8,10 +8,10 @@ pos: 1355
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 grudnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1355 RozpoRządzenie MinistRa Rolnictwa i Rozwoju wsi z dnia 16 listopada 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1355/text.pdf) |
 
-RozpoRządzenie MinistRa Rolnictwa i Rozwoju wsi z dnia 16 listopada 2012 r.
-w sprawie wykazu gatunków ryb uznanych za nierodzime i wykazu gatunków ryb uznanych za rodzime oraz warunków wprowadzania gatunków ryb uznanych za nierodzime, dla których nie jest wymagane zezwolenie na wprowadzenie Na podstawie art. 3f ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471 oraz z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wykazu gatunków ryb uznanych za nierodzime i wykazu gatunków ryb uznanych za rodzime oraz warunków wprowadzania gatunków ryb uznanych za nierodzime, dla których nie jest wymagane zezwolenie na wprowadzenie Na podstawie art. 3f ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471 oraz z 2010 r. Nr 182, poz. 1228 i Nr 200, poz. 1322) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wykaz gatunków ryb uznanych za nierodzime, dla których nie jest wymagane zezwolenie na wprowadzenie:
 a) o którym mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym, zwanej dalej „ustawą”,
 b) w rozumieniu art. 3 pkt 10 rozporządzenia Rady (WE) nr 708/2007 z dnia 11 czerwca 2007 r. w sprawie wykorzystania w akwakulturze gatunków obcych i niewystępujących miejscowo (Dz. Urz. UE L 168 z 28.06.2007, str. 1), zwanego dalej „rozporządzeniem nr 708/2007”;
@@ -44,13 +44,13 @@ b) w rozumieniu art. 3 pkt 10 rozporządzenia nr 708/2007.
 2) operat rybacki, w którym przewidziano wprowadzenie ryb tych gatunków, uzyskał pozytywną opinię sporządzoną przez uprawnioną jednostkę wskazaną w przepisach wydanych na podstawie art. 6a ust. 6 ustawy;
 3) pochodzą one z obiektu przeznaczonego do chowu lub hodowli ryb, w którym w okresie 3 lat poprzedzających to wprowadzenie nie stwierdzono występowania gatunku niedocelowego w rozumieniu art. 3 pkt 8 rozporządzenia nr 708/2007.
 2. W przypadku ryb z gatunku karp warunkiem wprowadzenia do jezior i zbiorników zaporowych jest ponadto zastosowanie dawki zarybieniowej odpowiednio nie większej niż:
-1) 4 kg i 5 kg kroczka karpia na 1 ha powierzchni obwodu rybackiego dla jezior i zbiorników zaporowych o powierzchni nieprzekraczającej 100 ha;
-2) 3 kg i 4 kg kroczka karpia na 1 ha powierzchni obwodu rybackiego dla jezior i zbiorników zaporowych o powierzchni powyżej 100 ha do 500 ha;
-3) 2 kg i 3 kg kroczka karpia na 1 ha powierzchni obwodu rybackiego dla jezior i zbiorników zaporowych o powierzchni powyżej 500 ha.
+1) 4 kg i 5 kg kroczka karpia na 1 ha powierzchni obwodu rybackiego – dla jezior i zbiorników zaporowych o powierzchni nieprzekraczającej 100 ha;
+2) 3 kg i 4 kg kroczka karpia na 1 ha powierzchni obwodu rybackiego – dla jezior i zbiorników zaporowych o powierzchni powyżej 100 ha do 500 ha;
+3) 2 kg i 3 kg kroczka karpia na 1 ha powierzchni obwodu rybackiego – dla jezior i zbiorników zaporowych o powierzchni powyżej 500 ha.
 § 6. 1. Gatunki ryb uznane za nierodzime określone w załączniku nr 1 do rozporządzenia mogą zostać wprowadzone do obiektu przeznaczonego do chowu lub hodowli ryb, jeżeli:
 1) zostały spełnione wymagania weterynaryjne dla danej działalności w zakresie chowu lub hodowli zwierząt akwakultury oraz rozrodu ryb, określone w przepisach o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
 2) obiekt został zabezpieczony przed wydostaniem się ryb hodowlanych do powierzchniowych wód śródlądowych;
-3) w obiekcie są przeprowadzane coroczne kontrole w zakresie obecności gatunków niedocelowych w rozumieniu art. 3 pkt 8 rozporządzenia nr 708/2007, a w przypadku stwierdzenia wystąpienia ryb takich gatunków są podejmowane działania ograniczające ich liczebność oraz uniemożliwiające ich wydostanie się do powierzchniowych wód śródlądowych.
+3) w obiekcie są przeprowadzane coroczne kontrole w zakresie obecności gatunków niedocelowych w rozumieniu art. 3 pkt 8 rozporządzenia nr 708/2007, a w przypadku stwierdzenia wystąpienia ryb takich gatunków – są podejmowane działania ograniczające ich liczebność oraz uniemożliwiające ich wydostanie się do powierzchniowych wód śródlądowych.
 2. Gatunki ryb inne niż wymienione w załączniku nr 2 do rozporządzenia mogą zostać wprowadzone do zamkniętego zakładu akwakultury w rozumieniu art. 3 pkt 3 rozporządzenia nr 708/2007, jeżeli:
 1) spełnia on wymagania określone w art. 3 pkt 3 rozporządzenia nr 708/2007, co zostało potwierdzone w wyniku przeprowadzonej kontroli;
 2) podmiot prowadzący zamknięty zakład akwakultury przekazał ministrowi właściwemu do spraw rybołówstwa:

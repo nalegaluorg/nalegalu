@@ -8,10 +8,10 @@ pos: 2262
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2262 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 21 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2262/text.pdf) |
 
-Poz. 2262 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 21 grudnia 2016 r.
 w sprawie upoważnienia Instytutu Przemysłu Organicznego oraz Instytutu Mechaniki Precyzyjnej do uznawania kwalifikacji zawodowych Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r.
-poz. 543, z późn. zm. ) zarządza się, co następuje: § 1. Upoważnia się Instytut Przemysłu Organicznego w Warszawie oraz Instytut Mechaniki Precyzyjnej w Warszawie do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania zawodów regulowanych:
+poz. 543, z późn. zm. ) zarządza się, co następuje:
+§ 1. Upoważnia się Instytut Przemysłu Organicznego w Warszawie oraz Instytut Mechaniki Precyzyjnej w Warszawie do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania zawodów regulowanych:
 1) pirotechnika;
 2) rusznikarza;
 3) specjalisty do spraw oczyszczania terenu z materiałów wybuchowych i niebezpiecznych;

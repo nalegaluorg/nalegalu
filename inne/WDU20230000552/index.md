@@ -8,10 +8,10 @@ pos: 552
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 552 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 16 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/552/text.pdf) |
 
-Poz. 552 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 16 marca 2023 r.
-zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 7 października 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2019 r. poz. 1943) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 7 października 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2019 r. poz. 1943) wprowadza się następujące zmiany:
 1) § 4 otrzymuje brzmienie: „§ 4. Dodatkami uzasadnionymi szczególnymi właściwościami, kwalifikacjami, warunkami albo miejscem pełnienia służby są:
 1) dodatek kontrolerski;
 2) dodatek stołeczny;
@@ -39,7 +39,7 @@ o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „kw
 3. Funkcjonariuszowi oddelegowanemu do realizacji zadań służbowych poza Agencją Bezpieczeństwa Wewnętrznego na podstawie art. 56 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu dodatek stołeczny przysługuje, jeżeli funkcjonariusz spełnia jeden z poniższych warunków:
 1) stałym miejscem pełnienia służby funkcjonariusza bezpośrednio przed oddelegowaniem była jedna z miejscowości, o których mowa w ust. 1;
 2) miejscem realizacji zadań służbowych przez funkcjonariusza w podmiocie oddelegowania jest jedna z miejscowości, o których mowa w ust. 1.
-Dziennik Ustaw – 2 – Poz. 552 § 5b. 1. Funkcjonariuszowi biorącemu udział w akcjach lub operacjach poza stałym miejscem pełnienia służby przysługuje za każdy rozpoczęty dzień wykonywania zadań w ramach tych akcji lub operacji dodatek terenowy w wysokości 6% kwoty bazowej. Przepisu § 1 ust. 3 nie stosuje się.
+§ 5b. 1. Funkcjonariuszowi biorącemu udział w akcjach lub operacjach poza stałym miejscem pełnienia służby przysługuje za każdy rozpoczęty dzień wykonywania zadań w ramach tych akcji lub operacji dodatek terenowy w wysokości 6% kwoty bazowej. Przepisu § 1 ust. 3 nie stosuje się.
 2. Dodatek, o którym mowa w ust. 1, przysługuje funkcjonariuszowi, który odbywa szkolenie w systemie skoszarowanym w Centralnym Ośrodku Szkolenia i Edukacji Agencji Bezpieczeństwa Wewnętrznego, a który bierze udział w akcjach lub operacjach poza terenem tej jednostki.”.
 § 2. 1. Dodatek stołeczny oraz dodatek terenowy określone w § 4 pkt 2 i 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, przysługują funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego od dnia 1 marca 2023 r.
 2. Decyzje administracyjne w formie rozkazów personalnych w sprawie dodatku stołecznego określonego w § 4 pkt 2 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, dla funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego zostaną wydane w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia.

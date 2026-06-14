@@ -1,8 +1,12 @@
 saos_id|date|court|case_number|type|score|saos_url
+545830|2026-04-28|SO|I AGa 137/24|Wyrok|56|https://www.saos.org.pl/judgments/545830
+545125|2026-03-27|SO|VII AGa 881/24|Wyrok|56|https://www.saos.org.pl/judgments/545125
+546679|2025-12-01|SO|I AGa 173/23|Wyrok|56|https://www.saos.org.pl/judgments/546679
 533653|2025-05-28|SO|I AGa 197/24|Wyrok|56|https://www.saos.org.pl/judgments/533653
 540868|2025-04-29|SO|V AGa 123/23|Wyrok|56|https://www.saos.org.pl/judgments/540868
 533392|2025-04-23|SO|V AGa 425/22|Wyrok|56|https://www.saos.org.pl/judgments/533392
 544449|2025-04-09|SO|I AGa 154/24|Wyrok|56|https://www.saos.org.pl/judgments/544449
+546628|2024-11-28|SO|I AGa 120/24|Wyrok|56|https://www.saos.org.pl/judgments/546628
 531517|2024-11-26|SO|I AGa 22/24|Wyrok|56|https://www.saos.org.pl/judgments/531517
 532714|2024-11-18|SO|I AGa 273/22|Wyrok|56|https://www.saos.org.pl/judgments/532714
 520782|2024-10-21|SO|I AGa 279/22|Wyrok|56|https://www.saos.org.pl/judgments/520782
@@ -13,6 +17,7 @@ saos_id|date|court|case_number|type|score|saos_url
 495025|2024-04-24|SO|I AGa 300/22|Wyrok|56|https://www.saos.org.pl/judgments/495025
 494952|2024-04-18|SO|I AGa 205/22|Wyrok|56|https://www.saos.org.pl/judgments/494952
 518197|2024-03-27|SO|I AGa 124/23|Wyrok|56|https://www.saos.org.pl/judgments/518197
+545408|2024-03-14|SO|I AGa 331/23|Wyrok|56|https://www.saos.org.pl/judgments/545408
 518205|2024-01-31|SO|I AGa 73/23|Wyrok|56|https://www.saos.org.pl/judgments/518205
 495060|2023-11-23|SO|I AGa 336/22|Wyrok|56|https://www.saos.org.pl/judgments/495060
 494913|2023-10-26|SO|I AGa 164/22|Wyrok|56|https://www.saos.org.pl/judgments/494913
@@ -52,6 +57,7 @@ saos_id|date|court|case_number|type|score|saos_url
 516625|2024-03-07|SO|V GC 180/23|Wyrok|40|https://www.saos.org.pl/judgments/516625
 519903|2022-01-03|SO|V Ga 287/21|Wyrok|40|https://www.saos.org.pl/judgments/519903
 471661|2021-06-02|SO|II Ca 3143/21|Wyrok|40|https://www.saos.org.pl/judgments/471661
+546471|2026-04-30|SO|XIII Ga 457/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/546471
 534865|2025-09-16|SO|XIII Ga 1090/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/534865
 527149|2025-03-26|SO|XIII Ga 364/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/527149
 528284|2025-02-28|SO|XIII Ga 1018/24|Zarządzenie|27|https://www.saos.org.pl/judgments/528284

@@ -8,7 +8,7 @@ pos: 1355
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
@@ -34,6 +34,38 @@ Art. 38–42. (pominięte)
 **Art. 1.** Ustawa określa zasady i sposób realizacji udziału Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, w tym obowiązki i uprawnienia organów dotyczące dokonywania wpisów oraz wglądu do danych zawartych w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym poprzez Krajowy System Informatyczny (KSI).
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** bezpośrednim dostępie – rozumie się przez to dokonywanie wpisów oraz wgląd do danych przetwarzanych poprzez Krajowy System Informatyczny (KSI), realizowany w sposób bezpośredni przez organ wskazany w ustawie;
+- **2)** Centralnym Wizowym Systemie Informacyjnym – rozumie się przez to system centralny, o którym mowa w art. 1 ust. 2 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego (VIS) (Dz. Urz. UE L 213 z 15.06.2004, str. 5–7);
+- **3)** centralnym organie technicznym KSI – rozumie się przez to Komendanta Głównego Policji;
+- **4)** danych – rozumie się przez to dane SIS lub dane VIS;
+- **5)** danych SIS – rozumie się przez to dane określone w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1860 z dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2018/1860”, art. 20 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, z późn. zm. ), zwanego dalej „rozporządzeniem 2018/1861”, oraz art. 20 ust. 1–3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm. ), zwanego dalej „rozporządzeniem 2018/1862”;
+- **6)** danych VIS – rozumie się przez to dane określone w art. 5 ust. 1 rozporządzenia (WE) nr 767/2008 Parlamentu Europejskiego i Rady z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany danych pomiędzy państwami członkowskimi na temat wiz krótkoterminowych (rozporządzenie w sprawie VIS) (Dz. Urz. UE L 218 z 13.08.2008, str. 60–81);
+- **7)** informacjach uzupełniających – rozumie się przez to informacje uzupełniające, o których mowa w art. 3 pkt 2 rozporządzenia 2018/1861 oraz art. 3 pkt 2 rozporządzenia 2018/1862;
+- **8)** interfejsie krajowym – rozumie się przez to interfejs krajowy, o którym mowa w art. 1 ust. 2 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego;
+- **9)** (uchylony)
+- **10)** kopii krajowej – rozumie się przez to kopię bazy danych SIS, o której mowa w art. 4 ust. 1 lit. b rozporządzenia 2018/1861 oraz art. 4 ust. 1 lit. b rozporządzenia 2018/1862;
+- **11)** Krajowym Systemie Informatycznym (KSI) – rozumie się przez to zespół współpracujących ze sobą urządzeń, procedur przetwarzania informacji i narzędzi programowych (oprogramowania) zastosowanych w celu przetwarzania danych oraz infrastrukturę telekomunikacyjną, umożliwiające organom administracji publicznej i organom wymiaru sprawiedliwości przetwarzanie danych gromadzonych w Systemie Informacyjnym Schengen oraz w Wizowym Systemie Informacyjnym;
+- **12)** (uchylony)
+- **13)** państwie członkowskim – rozumie się przez to państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym nienależące do Unii Europejskiej lub państwo niebędące stroną umowy o Europejskim Obszarze Gospodarczym, którego obywatele mogą korzystać ze swobody przepływu osób na podstawie umów zawartych przez to państwo ze Wspólnotą Europejską i jej państwami członkowskimi, z wyjątkiem państwa, wobec którego Rada podjęła decyzję o niestosowaniu przepisów dorobku Schengen;
+- **14)** pośrednim dostępie – rozumie się przez to dokonywanie wpisów oraz wgląd do danych przetwarzanych poprzez Krajowy System Informatyczny (KSI), realizowany w sytuacjach wskazanych w ustawie za pośrednictwem centralnego organu technicznego KSI albo organu wskazanego w art. 7 ust. 2;
+- **14a)** systemie centralnym SIS – rozumie się przez to system centralny, o którym mowa w art. 4 ust. 1 lit. a rozporządzenia 2018/1861 oraz art. 4 ust. 1 lit. a rozporządzenia 2018/1862;
+- **15)** Systemie Informacyjnym Schengen – rozumie się przez to system informacyjny, o którym mowa w art. 4 rozporządzenia 2018/1861 oraz art. 4 rozporządzenia 2018/1862;
+- **15a)** systemie krajowym N.SIS – rozumie się przez to polski system krajowy zawierający kopię krajową, który łączy się z systemem centralnym SIS, spełniający wymagania, o których mowa w art. 4 ust. 1 lit. b rozporządzenia 2018/1861 oraz art. 4 ust. 1 lit. b rozporządzenia 2018/1862;
+- **16)** Wizowym Systemie Informacyjnym – rozumie się przez to system, o którym mowa w art. 1 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego (VIS);
+- **17)** wpisie – rozumie się przez to czynności faktyczne polegające na wprowadzeniu do Systemu Informacyjnego Schengen lub Wizowego Systemu Informacyjnego, zmianie lub usunięciu z Systemu Informacyjnego Schengen lub Wizowego Systemu Informacyjnego danych umożliwiających właściwym organom identyfikację osoby lub przedmiotu oraz podjęcie wnioskowanego działania w związku ze zidentyfikowaniem osoby lub przedmiotu;
+- **18)** przetwarzaniu danych – rozumie się przez to przetwarzanie danych osobowych, o którym mowa w art. 3 pkt 6 rozporządzenia 2018/1861 oraz art. 3 pkt 5 rozporządzenia 2018/1862, a także jakiekolwiek operacje wykonywane na danych niebędących danymi osobowymi, takie jak zbieranie, wpisywanie, utrwalanie, przechowywanie, opracowywanie, zmienianie, udostępnianie i usuwanie;
+- **19)** rozporządzeniu 2016/679 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+- **20)** tożsamości przywłaszczonej – rozumie się przez to dane wprowadzone do Systemu Informacyjnego Schengen zgodnie z art. 47 rozporządzenia 2018/1861 oraz art. 62 rozporządzenia 2018/1862 dotyczące osoby pokrzywdzonej, której tożsamością posługuje się osoba poszukiwana na podstawie wpisu do Systemu Informacyjnego Schengen;
+- **21)** odsyłaczu – rozumie się przez to odsyłacz, o którym mowa w art. 48 rozporządzenia 2018/1861 oraz art. 63 rozporządzenia 2018/1862, utworzony w Systemie Informacyjnym Schengen pomiędzy co najmniej dwoma wpisami;
+- **22)** danych biometrycznych – rozumie się przez to dane, o których mowa w art. 3 pkt 13 rozporządzenia 2018/1861 oraz art. 3 pkt 12 rozporządzenia 2018/1862;
+- **23)** danych daktyloskopijnych – rozumie się przez to dane, o których mowa w art. 3 pkt 14 rozporządzenia 2018/1861 oraz art. 3 pkt 13 rozporządzenia 2018/1862;
+- **24)** użytkowniku indywidualnym – rozumie się przez to osobę fizyczną upoważnioną w ramach organu do dostępu do Krajowego Systemu Informatycznego (KSI) oraz do przetwarzania danych poprzez Krajowy System Informatyczny (KSI), która w celu dostępu do danych SIS korzysta bezpośrednio z aplikacji WWW SIS, a w celu dostępu do danych VIS korzysta bezpośrednio z aplikacji WWW VIS;
+- **25)** użytkowniku instytucjonalnym – rozumie się przez to organ uprawniony do dostępu i współpracy z Krajowym Systemem Informatycznym (KSI) za pośrednictwem własnego systemu teleinformatycznego;
+- **26)** użytkowniku końcowym – rozumie się przez to osobę fizyczną upoważnioną do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI) za pośrednictwem systemu teleinformatycznego użytkownika instytucjonalnego;
+- **27)** aplikacji WWW SIS – rozumie się przez to graficzny interfejs użytkownika Krajowego Systemu Informatycznego (KSI), stanowiący informatyczne narzędzie dostępowe do danych SIS udostępnione użytkownikowi indywidualnemu przez centralny organ techniczny KSI;
+- **28)** aplikacji WWW VIS – rozumie się przez to graficzny interfejs użytkownika Krajowego Systemu Informatycznego (KSI), stanowiący informatyczne narzędzie dostępowe do danych VIS udostępnione użytkownikowi indywidualnemu przez centralny organ techniczny KSI; <29) danych EES – rozumie się przez to dane, o których mowa w art. 3 ust. 1 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z 09.12.2017, str. 20, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/2226”;
+- **30)** systemie EES – rozumie się przez to System Wjazdu/Wyjazdu (EES), o którym mowa w art. 7 rozporządzenia 2017/2226.>
 
 #### Rozdział 2 Organy i służby uprawnione do przetwarzania danych
 
@@ -209,6 +241,18 @@ Art. 38–42. (pominięte)
 
 **Art. 6.** Bezpośredni dostęp do Wizowego Systemu Informacyjnego realizowany poprzez Krajowy System Informatyczny (KSI) umożliwiający wgląd do danych VIS w celu:
 
+- **1)** rozpatrzenia złożonych wniosków wizowych oraz podjęcia decyzji dotyczących tych wniosków, jak również decyzji o unieważnieniu, przedłużeniu, cofnięciu wizy, przysługuje Straży Granicznej, konsulowi, wojewodzie, ministrowi właściwemu do spraw zagranicznych lub Szefowi Urzędu do Spraw Cudzoziemców;
+- **2)** przeprowadzania konsultacji między centralnymi organami wizowymi w sprawie wniosków wizowych zgodnie z art. 22 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1) przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
+- **3)** sporządzania sprawozdań i statystyk, przysługuje Straży Granicznej, konsulowi, wojewodzie, ministrowi właściwemu do spraw zagranicznych lub Szefowi Urzędu do Spraw Cudzoziemców;
+- **4)** sprawdzenia na przejściach granicznych tożsamości posiadacza wizy, autentyczności wizy lub spełnienia warunków wjazdu na terytorium państw członkowskich zgodnie z art. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77/1 z 23.03.2016) przysługuje Straży Granicznej i Służbie Celno-Skarbowej;
+- **5)** sprawdzania na terytorium Rzeczypospolitej Polskiej tożsamości posiadacza wizy, autentyczności wizy lub spełniania warunków wjazdu lub pobytu na terytorium państw członkowskich przysługuje komendantowi wojewódzkiemu Policji, komendantowi powiatowemu (miejskiemu) Policji, komendantowi oddziału Straży Granicznej lub komendantowi placówki Straży Granicznej, Służbie Celno-Skarbowej, wojewodzie lub Szefowi Urzędu do Spraw Cudzoziemców;
+- **6)** zidentyfikowania osoby, która nie spełnia lub przestała spełniać warunki wjazdu lub pobytu na terytorium państw członkowskich, przysługuje Straży Granicznej, Policji, Służbie Celno-Skarbowej, wojewodzie lub Szefowi Urzędu do Spraw Cudzoziemców;
+- **7)** określania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej zgodnie z art. 12 i art. 34 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013) przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
+- **8)** rozpatrzenia wniosku o udzielenie ochrony międzynarodowej przysługuje Szefowi Urzędu do Spraw Cudzoziemców lub Radzie do Spraw Uchodźców;
+- **9)** realizacji obowiązku, o którym mowa w art. 25 ust. 2 rozporządzenia (WE) nr 767/2008 Parlamentu Europejskiego i Rady z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany danych pomiędzy państwami członkowskimi na temat wiz krótkoterminowych (rozporządzenie w sprawie VIS), przysługuje konsulowi lub wojewodzie. <Art. 6a. W związku z ustanowieniem interoperacyjności między systemem EES i Wizowym Systemem Informacyjnym, o której mowa w art. 8 rozporządzenia 2017/2226 oraz w art. 17a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS):
+- **1)** organy, o których mowa w art. 5 ust. 1, mogą dokonać wglądu do danych EES z poziomu VIS w celach, o których mowa w art. 17a ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS);
+- **2)** Straż Graniczna może dokonać wglądu do danych VIS z poziomu EES w celach, o których mowa w art. 17a ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS).>
+
 **Art. 7.**
 
 1. Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych VIS przysługuje sądowi, prokuraturze, Policji, Straży Granicznej, Służbie Celno-Skarbowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, Służbie Ochrony Państwa, Służbie Kontrwywiadu Wojskowego, Żandarmerii Wojskowej lub Służbie Wywiadu Wojskowego, jeżeli:
@@ -276,6 +320,11 @@ Art. 38–42. (pominięte)
 **Art. 18.** W przypadku stwierdzenia nieprawidłowości działania Krajowego Systemu Informatycznego (KSI) lub jego zabezpieczenia w poszczególnych organach mających do niego bezpośredni dostęp minister właściwy do spraw wewnętrznych jest uprawniony do zablokowania bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) dla organu, w przypadku którego stwierdzone zostały te nieprawidłowości, do czasu ich usunięcia.
 
 **Art. 19.** W celu wykonania zadań, o których mowa w art. 16–18, minister właściwy do spraw wewnętrznych może:
+
+- **1)** żądać przedłożenia informacji w zakresie niezbędnym do ustalenia stanu faktycznego;
+- **2)** przeprowadzać, w godzinach urzędowania danego organu, oględziny urządzeń, nośników oraz systemów informatycznych włączonych do Krajowego Systemu Informatycznego (KSI) w ramach danego organu;
+- **3)** zlecać sporządzanie ekspertyz i opinii;
+- **4)** żądać zablokowania bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) do czasu usunięcia stwierdzonych nieprawidłowości.
 
 **Art. 20.** W przypadku stwierdzenia nieprawidłowości działania Krajowego Systemu Informatycznego (KSI) minister właściwy do spraw wewnętrznych może żądać wszczęcia postępowania dyscyplinarnego lub innego przewidzianego prawem postępowania przeciwko osobom winnym dopuszczenia do uchybień i poinformowania tych osób, w określonym terminie, o wynikach tego postępowania i podjętych działaniach.
 
@@ -450,4 +499,9 @@ Art. 38–42. (pominięte)
 **Art. 45.** (pominięty)
 
 **Art. 46.** Ustawa wchodzi w życie z dniem ogłoszenia , z tym że:
+
+- **1)** art. 5–7, art. 13 oraz art. 27 ust. 1 pkt 5–7 stosuje się zgodnie z określoną przez Komisję Europejską datą rozpoczęcia funkcjonowania Wizowego Systemu Informacyjnego w Rzeczypospolitej Polskiej;
+- **2)** (uchylony)
+- **3)** art. 41 wchodzi w życie z dniem określonym w decyzji Rady, zgodnie z art. 3 ust. 2 Aktu dotyczącego warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w Traktatach stanowiących podstawę Unii Europejskiej z dnia 16 kwietnia 2003 r. (Dz. U. z 2004 r. poz. 864).
+
 

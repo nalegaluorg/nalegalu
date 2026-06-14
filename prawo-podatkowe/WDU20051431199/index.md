@@ -8,7 +8,7 @@ pos: 1199
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw
@@ -29,6 +29,30 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727 i Nr 86, poz. 732) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10-12 w brzmieniu: „10) cenie transakcyjnej - rozumie się przez to cenę przedmiotu transakcji zawieranej pomiędzy podmiotami powiązanymi w rozumieniu przepisów prawa podatkowego dotyczących podatku dochodowego od osób fizycznych, podatku dochodowego od osób prawnych oraz podatku od towarów i usług;
+- **11)** podmiocie krajowym - rozumie się przez to podmiot krajowy w rozumieniu przepisów prawa podatkowego, dotyczących podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych;
+- **12)** podmiocie zagranicznym - rozumie się przez to podmiot zagraniczny w rozumieniu przepisów prawa podatkowego, dotyczących podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych.”;
+- **2)** art. 3a otrzymuje brzmienie: „Art. 3a. § 1. Podania oraz deklaracje określone w rozporządzeniu wydanym na podstawie § 3 mogą być składane za pomocą środków komunikacji elektronicznej.
+
+§ 2. Organ podatkowy lub elektroniczna skrzynka podawcza systemu teleinformatycznego administracji podatkowej potwierdza, w formie elektronicznej, złożenie deklaracji lub podania za pomocą środków komunikacji elektronicznej.
+
+§ 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, rodzaje deklaracji, które mogą być składane za pomocą środków komunikacji elektronicznej, mając na względzie potrzebę stopniowego upowszechniania elektronicznej formy kontaktów z organami podatkowymi oraz częstotliwość składania deklaracji.”;
+
+- **3)** dodaje się art. 3b-3d w brzmieniu: „Art. 3b. § 1. Deklaracja składana za pomocą środków komunikacji elektronicznej powinna zawierać:
+- **1)** dane w ustalonym formacie elektronicznym, zawarte we wzorze deklaracji określonym w odrębnych przepisach,
+- **2)** jeden podpis elektroniczny.
+
+§ 2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** strukturę logiczną deklaracji i podań składanych za pomocą środków komunikacji elektronicznej;
+- **2)** sposób przesyłania deklaracji i podań za pomocą środków komunikacji elektronicznej;
+- **3)** rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy deklaracji lub podań.
+
+§ 3. Wydając rozporządzenie, o którym mowa w § 2, minister właściwy do spraw finansów publicznych powinien uwzględnić:
+
+- **1)** potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w deklaracjach i podaniach oraz potrzebę ich ochrony przed nieuprawnionym dostępem;
+- **2)** limity wysokości zobowiązania podatkowego, kwoty nadpłaty lub zwrotu podatku wynikających z deklaracji i rodzaj podatku, którego dotyczy deklaracja, a także wymagania dla poszczególnych rodzajów podpisu określone w przepisach o podpisie elektronicznym, w szczególności dotyczące weryfikacji podpisu i znakowania czasem.
+
 **Art. 3c.**
 
 § 1. Podatnik lub płatnik zamierzający składać deklaracje w formie elektronicznej:
@@ -47,13 +71,31 @@ source: "isap-pdf"
 
 **Art. 3d.** Składanie deklaracji za pomocą środków komunikacji elektronicznej wójtowi, burmistrzowi (prezydentowi miasta), staroście, marszałkowi województwa regulują odrębne przepisy.”;
 
+- **4)** w art. 12 w § 6 pkt 1 otrzymuje brzmienie: „1) wysłane za pomocą środków komunikacji elektronicznej, za poświadczeniem przedłożenia, do organu podatkowego lub do jednostki informatycznej obsługi administracji podatkowej,”;
+- **5)** w art. 13 w § 2 w pkt 2 kropkę zastę puje się średnikiem i dodaje się pkt 3-5 w brzmieniu: „3) organ właściwy w sprawach porozumień dotyczących ustalenia cen transakcyjnych;
+- **4)** organ właściwy w sprawach interpretacji postanowień umów o unikaniu podwójnego opodatkowania oraz innych ratyfikowanych umów międzynarodowych dotyczących problematyki podatkowej;
+- **5)** organ właściwy w sprawach informacji przekazywanych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe o założonych i zlikwidowanych rachunkach bankowych związanych z prowadzeniem działalności gospodarczej.”;
+- **6)** w art. 14:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Interpretacjami, o których mowa w § 1 pkt 2, są wszelkie wyjaśnienia treści obowiązującego prawa podatkowego, kierowane do organów podatkowych i organów kontroli skarbowej, dotyczące problemów prawa podatkowego. Interpretacje, w tym także ich zmiany, są ogłaszane w Dzienniku Urzędowym Ministra Finansów.”,
+    - **b)** uchyla się § 4;
+
+- **7)** po art. 14d dodaje się art. 14e w brzmieniu: „Art. 14e. § 1. Minister właściwy do spraw finansów publicznych wydaje pisemne interpretacje w indywidualnych sprawach, w których nie toczy się i nie toczyło postępowanie podatkowe lub kontrola podatkowa albo postępowanie przed sądem administracyjnym, wyłącznie w zakresie postanowień umów o unikaniu podwójnego opodatkowania oraz innych ratyfikowanych umów międzynarodowych dotyczących problematyki podatkowej.
+
+§ 2. Przepisy art. 14a-14d stosuje się odpowiednio, z tym że termin, o którym mowa w art. 14b § 3, wynosi 6 miesięcy od dnia otrzymania wniosku.”;
+
+- **8)** po dziale II dodaje się dział IIa w brzmieniu: „Dział IIa Porozumienia w sprawach ustalenia cen transakcyjnych
+
 **Art. 20a.** Minister właściwy do spraw finansów publicznych, zwany w niniejszym dziale „organem właściwym w sprawie porozumienia”, na wniosek podmiotu krajowego, uznaje prawidłowość wyboru i stosowania metody ustalania ceny transakcyjnej między:
+
+- **1)** powiązanymi ze sobą podmiotami krajowymi lub
+- **2)** podmiotem krajowym powiązanym z podmiotem zagranicznym a tym podmiotem zagranicznym, lub
+- **3)** podmiotem krajowym powiązanym z podmiotem zagranicznym a innymi podmiotami krajowymi powiązanymi z tym samym podmiotem zagranicznym - dalej zwane „porozumieniem jednostronnym”.
 
 **Art. 20b.**
 
 § 1. Organ właściwy w sprawie porozumienia, na wniosek podmiotu krajowego, po uzyskaniu zgody władzy podatkowej właściwej dla podmiotu zagranicznego powiązanego z wnioskodawcą, uznaje prawidłowość wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotem krajowym powiązanym z podmiotem zagranicznym a tym podmiotem zagranicznym (porozumienie dwustronne).
 
-§ 2. W przypadku gdy porozumienie dotyczy podmiotów zagranicznych z więcej niż jednego państwa, jego zawarcie wymaga zgody władz podatkowych państw, właściwych dla podmiotów zagranie wielostronne).
+§ 2. W przypadku gdy porozumienie dotyczy podmiotów zagranicznych z więcej niż jednego państwa, jego zawarcie wymaga zgody władz podatkowych państw, właściwych dla podmiotów zagranicznych, z którymi ma być dokonywana transakcja (porozumienie wielostronne).
 
 **Art. 20c.** Porozumienie może dotyczyć transakcji, które mają zostać dokonane po złożeniu wniosku o zawarcie porozumienia, jak i transakcji, których realizację rozpoczęto przed dniem złożenia wniosku.
 
@@ -72,13 +114,33 @@ source: "isap-pdf"
 
 **Art. 20f.** Wnioskujący o zawarcie porozumienia obowiązany jest do przedstawienia:
 
+- **1)** propozycji stosowania metody ustalania ceny transakcyjnej, a w szczególności wskazania jednej z metod, o których mowa w przepisach o podatku dochodowym od osób prawnych lub przepisach o podatku dochodowym od osób fizycznych;
+- **2)** opisu sposobu stosowania proponowanej metody w odniesieniu do transakcji, która ma być przedmiotem porozumienia, a w szczególności do wskazania:
+    - **a)** zasad kalkulacji ceny transakcyjnej,
+    - **b)** prognoz finansowych, na których opiera się kalkulacja ceny transakcyjnej,
+    - **c)** analizy danych porównawczych, jakie wykorzystano do kalkulacji ceny transakcyjnej;
+
+- **3)** okoliczności mogących mieć wpływ na prawidłowe ustalenie ceny transakcyjnej, a w szczególności:
+    - **a)** rodzaju, przedmiotu i wartości transakcji, która ma być przedmiotem porozumienia krajowego,
+    - **b)** opisu przebiegu transakcji, w tym analizy aktywów, funkcji i ryzyk stron transakcji, oraz opisu strategii gospodarczej stron transakcji i innych okoliczności, jeżeli ta strategia lub okoliczności mają wpływ na cenę przedmiotu transakcji,
+    - **c)** danych dotyczących sytuacji gospodarczej w branży, w której prowadzi działalność wnioskodawca, w tym danych dotyczących operacji gospodarczych zawieranych przez podmioty niepowiązane, które wykorzystano do sporządzenia kalkulacji ceny transakcyjnej,
+    - **d)** struktury organizacyjnej i kapitałowej wnioskodawcy oraz podmiotów z nim powiązanych, które są stroną transakcji, oraz opisu stosowanych przez podmioty powiązane zasad rachunkowości finansowej;
+
+- **4)** dokumentów mających istotny wpływ na wysokość ceny transakcyjnej, a w szczególności tekstów umów, porozumień i innych dokumentów wskazujących na zamiary stron transakcji;
+- **5)** propozycji okresu obowiązywania porozumienia;
+- **6)** wykazu podmiotów powiązanych, z którymi ma być dokonywana transakcja, wraz z ich zgodą na przedłożenie organowi właściwemu w sprawie porozumienia wszelkich dokumentów dotyczących transakcji i złożenia niezbędnych wyjaśnień.
+
 **Art. 20g.**
 
 § 1. W razie istnienia wątpliwości dotyczących wybranej przez wnioskującego metody ustalania ceny transakcyjnej i zasad jej stosowania lub wątpliwości do treści dokumentów załączonych do wniosku, organ właściwy w sprawie porozumienia zwraca się o wyjaśnienie tych wątpliwości lub przedłożenie dokumentów uzupełniających.
 
 § 2. W celu wyjaśnienia wątpliwości, o których mowa w § 1, organ właściwy w sprawie porozumienia może organizować spotkanie uzgodnieniowe.
 
-§ 3. Ze spotkania uzgodnieniowego sporządza się protokół. Przebieg spotkania uzgodnieniowego może być ponadto utrwalony za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych. cję wyboru i stosowania metody ustalania ceny transakcyjnej, z zastrzeżeniem § 2.
+§ 3. Ze spotkania uzgodnieniowego sporządza się protokół. Przebieg spotkania uzgodnieniowego może być ponadto utrwalony za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.
+
+**Art. 20h.**
+
+§ 1. Do czasu wydania decyzji wnioskodawca może zmienić propozycję wyboru i stosowania metody ustalania ceny transakcyjnej, z zastrzeżeniem § 2.
 
 § 2. Jeżeli w toku postępowania organ właściwy w sprawie porozumienia stwierdzi istnienie przeszkód, które nie pozwalają na zaakceptowanie wyboru i stosowania metody ustalania ceny transakcyjnej przedstawionej we wniosku, zawiadamia o tych przeszkodach wnioskodawcę oraz proponuje inną metodę ustalania ceny transakcyjnej. Zawiadomienie powinno zawierać uzasadnienie faktyczne i prawne. Wnioskodawca w terminie 30 dni od dnia doręczenia zawiadomienia może zmienić wniosek lub złożyć dodatkowe wyjaśnienia i dokumenty.
 
@@ -99,7 +161,9 @@ source: "isap-pdf"
 
 § 4. Termin obowiązywania decyzji w sprawie porozumienia nie może być dłuższy niż 3 lata.
 
-§ 5. Termin obowiązywania decyzji w sprawie porozumienia może być przedłużony na wniosek podmiotu powiązanego, złożony nie później niż na 6 miesięcy przed upływem tego terminu, jeżeli kryteria uznanej w tej decyzji metody ustalania ceny transakcyjnej między podmiotami powiązanymi nie uległy zmianie. Przedłużony termin obowiązywania decyzji nie może być dłuższy niż kolejne 3 lata. mienia następuje w drodze decyzji.
+§ 5. Termin obowiązywania decyzji w sprawie porozumienia może być przedłużony na wniosek podmiotu powiązanego, złożony nie później niż na 6 miesięcy przed upływem tego terminu, jeżeli kryteria uznanej w tej decyzji metody ustalania ceny transakcyjnej między podmiotami powiązanymi nie uległy zmianie. Przedłużony termin obowiązywania decyzji nie może być dłuższy niż kolejne 3 lata.
+
+§ 6. Przedłużenie terminu obowiązywania decyzji w sprawie porozumienia następuje w drodze decyzji.
 
 **Art. 20j.**
 
@@ -130,9 +194,13 @@ source: "isap-pdf"
 
 § 2. Wysokość opłaty od wniosku w sprawie porozumienia wynosi 1 procent wartości transakcji będącej przedmiotem porozumienia, przy czym dla porozumienia:
 
-- **1)** jednostronnego: 000 zł i nie więcej niż 200 000 zł, § 3. Wysokość opłaty od wniosku o przedłużenie terminu obowiązywania decyzji w sprawie porozumienia wynosi połowę wysokości opłaty należnej od wniosku o zawarcie porozumienia.
+- **1)** jednostronnego:
     - **a)** dotyczącego wyłącznie podmiotów krajowych – wynosi nie mniej niż 5 000 zł i nie więcej niż 50 000 zł,
     - **b)** dotyczącego podmiotu zagranicznego – wynosi nie mniej niż 20 000 zł i nie więcej niż 100 000 zł;
+
+- **2)** dwustronnego lub wielostronnego – wynosi nie mniej niż 50 000 zł i nie więcej niż 200 000 zł,
+
+§ 3. Wysokość opłaty od wniosku o przedłużenie terminu obowiązywania decyzji w sprawie porozumienia wynosi połowę wysokości opłaty należnej od wniosku o zawarcie porozumienia.
 
 **Art. 20n.**
 
@@ -145,6 +213,28 @@ source: "isap-pdf"
 **Art. 20p.** Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają podmiot składający wniosek o uznanie prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi.
 
 **Art. 20q.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy działu IV.”;
+
+- **9)** w art. 21 § 3a otrzymuje brzmienie: „§ 3a. Jeżeli w postępowaniu podatkowym organ podatkowy stwierdzi, że kwota zwrotu podatku lub kwota nadwyżki podatku naliczonego nad należnym w rozumieniu przepisów o podatku od towarów i usług jest inna niż wykazana w deklaracji, organ podatkowy wydaje decyzję, w której określa prawidłową wysokość zwrotu podatku lub nadwyżki podatku naliczonego nad należnym.”;
+- **10)** po art. 21a dodaje się art. 21b w brzmieniu: „Art. 21b. Jeżeli w postępowaniu podatkowym organ podatkowy stwierdzi, że:
+- **1)** wysokość dochodu jest inna niż wykazana w deklaracji, a osiągnięty dochód nie powoduje powstania zobowiązania podatkowego,
+- **2)** w deklaracji została wykazana strata, a osiągnięto dochód w wysokości nie powodującej powstania zobowiązania podatkowego - organ podatkowy wydaje decyzję, w której okre śla wysokość tego dochodu.”;
+- **11)** w art. 22 § 1a otrzymuje brzmienie: „§ 1a. Rozporządzenie, o którym mowa w § 1 pkt 1, dotyczące zaniechania poboru podatku od podatników prowadzących działalność gospodarczą, którzy w wyniku zaniechania poboru podatku staną się beneficjentami pomocy w rozumieniu przepisów o postępowaniu w sprawach dotyczących pomocy publicznej, stanowiące pomoc publiczną, zawiera program pomocowy, określający przeznaczenie i warunki dopuszczalności pomocy publicznej.”;
+- **12)** w art. 23a skreśla się oznaczenie § 1 i uchyla się § 2;
+- **13)** art. 24 otrzymuje brzmienie: „Art. 24. Organ podatkowy, w drodze decyzji, określa wysokość straty poniesionej przez podatnika, jeżeli w postępowaniu podatkowym organ ten stwierdzi, że podatnik nie złożył deklaracji, nie wykazał w deklaracji straty lub wysokość poniesionej straty różni się od wysokości wykazanej w deklaracji, a poniesienie straty zgodnie z przepisami prawa podatkowego uprawnia do skorzystania z ulg podatkowych.”;
+- **14)** uchyla się art. 24a i 24b;
+- **15)** w art. 33: 33d zabezpieczenie w trybie przepisów o postępowaniu egzekucyjnym w administracji, w zakresie objętym tym wnioskiem, może nastąpić po wydaniu postanowienia odmawiającego przyjęcia zabezpieczenia.”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Zobowiązanie podatkowe przed terminem płatności może być zabezpieczone na majątku podatnika, a w przypadku osób pozostających w związku małżeńskim także na majątku wspólnym, jeżeli zachodzi uzasadniona obawa, że nie zostanie ono wykonane, a w szczególności gdy podatnik trwale nie uiszcza wymagalnych zobowiązań o charakterze publicznoprawnym lub dokonuje czynności polegających na zbywaniu majątku, które mogą utrudnić lub udaremnić egzekucję. W przypadku zabezpieczenia na majątku wspólnym małżonków przepis art. 29 § 2 stosuje się odpowiednio.”,
+    - **b)** § 5 otrzymuje brzmienie: „§ 5. Zabezpieczenie następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji albo w formie określonej w art. 33d. W razie złożenia wniosku o zabezpieczenie w formie określonej w art.
+
+- **16)** w art. 33b pkt 2 otrzymuje brzmienie: „2) osób, o których mowa w art. 115, 116 i 116a, po doręczeniu im decyzji orzekającej o odpowiedzialności podatkowej za zaległości podatkowe spółki lub innej osoby prawnej, jeżeli zachodzi uzasadniona obawa, że zobowiązanie nie zostanie przez spółkę lub inną osobę prawną wykonane, a w szczególności gdy spółka lub inna osoba prawna trwale nie uiszcza wymagalnych zobowiązań o charakterze publicznoprawnym lub dokonuje czynności polegających na zbywaniu majątku, które mogą utrudnić lub udaremnić egzekucję; decyzja o zabezpieczeniu wygasa, gdy egzekucja z majątku podatnika okazała się w całości albo w części bezskuteczna.”;
+- **17)** w art. 33c dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Przepisy art. 33 § 2 pkt 2 i 3, § 3, § 4 pkt 2, art. 33a § 1 pkt 2 i 3 oraz art. 33b stosuje się odpowiednio do zaległości, o których mowa w art. 52 § 1.”;
+- **18)** po art. 33c dodaje się art. 33d-33g w brzmieniu: „Art. 33d. Wykonanie decyzji o zabezpieczeniu następuje przez przyjęcie przez organ podatkowy, na wniosek strony, zabezpieczenia wykonania zobowiązania określonego w decyzji o zabezpieczeniu wraz z odsetkami za zwłokę, w formie:
+- **1)** gwarancji bankowej lub ubezpieczeniowej;
+- **2)** poręczenia banku;
+- **3)** weksla z poręczeniem wekslowym banku;
+- **4)** czeku potwierdzonego przez krajowy bank wystawcy czeku;
+- **5)** zastawu rejestrowego na prawach z papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski - według ich wartości nominalnej;
+- **6)** depozytu w gotówce.
 
 **Art. 33e.**
 
@@ -161,7 +251,37 @@ source: "isap-pdf"
 
 **Art. 33g.** W sprawie przyjęcia zabezpieczenia, o którym mowa w art. 33d, wydaje się postanowienie, na które przysługuje zażalenie.”;
 
-**Art. 53a.** Jeżeli w postępowaniu podatkowym po zakończeniu roku podatkowego lub innego okresu rozliczeniowego organ podatkowy stwierdzi, że podatnik mimo ciążącego na nim obowiązku nie złożył deklaracji, wysokość zaliczek jest inna niż wykazana w deklaracji lub zaliczki nie zostały zapłacone w całości lub w części, organ ten wydaje decyzję, w której określa wysokość odsetek za zwłokę na dzień złożenia zeznania podatkowego za rok podatkowy lub inny okres rozliczeniowy, a w przypadku niezłożenia zeznania w termijąc prawidłową wysokość zaliczek na podatek.”;
+- **19)** w art. 34 w § 3 pkt 3 otrzymuje brzmienie: „3) nieruchomość stanowiąca przedmiot współwłasności łącznej wspólników spółki cywilnej lub część ułamkowa nieruchomości stanowiąca udział wspólników spółki cywilnej - z tytułu zaległości podatkowych spółki.”;
+- **20)** po art. 45 dodaje się art. 45a w brzmieniu: „Art. 45a. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór formularza oświadczenia o rzeczach ruchomych oraz zbywalnych prawach majątkowych, które mogą być przedmiotem zastawu skarbowego, uwzględniający dane identyfikujące osobę składającą oświadczenie, rodzaj, wartość i dane identyfikacyjne rzeczy, rodzaj i wartość prawa majątkowego, które może być przedmiotem zastawu skarbowego, ich stan prawny wraz z ewentualnymi obciążeniami.”;
+- **21)** art. 48 otrzymuje brzmienie: „Art. 48 § 1. Organ podatkowy, na wniosek podatnika, w przypadkach uzasadnionych ważnym interesem podatnika lub interesem publicznym może odraczać terminy przewidziane w przepisach prawa podatkowego, z wyjątkiem terminów określonych w art. 68-71, art. 77 § 1-3, art. 79 § 2, art. 80 § 1, art. 87 § 3 i 4, art. 88 § 1 i art. 118.
+
+§ 2. Przepisy § 1 stosuje się odpowiednio do terminów dotyczących płatników lub inkasentów.
+
+§ 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość rzeczową organów podatkowych w sprawach, o których mowa w § 1, uwzględniając właściwość organów w zakresie czynności, dla których przewidziane są terminy, oraz termin udzielanego odroczenia.”;
+
+- **22)** w art. 49 § 1 otrzymuje brzmienie: „§ 1. W razie wydania decyzji na podstawie art. 67a § 1 pkt 1 lub pkt 2 nowym terminem płatności jest dzień, w którym, zgodnie z decyzją, powinna nastąpić zapłata odroczonego podatku lub zaległości podatkowej wraz z odsetkami za zwłokę albo poszczególnych rat, na jakie został rozłożony podatek lub zaległość podatkowa wraz z odsetkami za zwłokę.”;
+- **23)** w art. 51 § 2 otrzymuje brzmienie: „§ 2. Za zaległość podatkową uważa się także niezapłaconą w terminie płatności zaliczkę na podatek, w tym również zaliczkę, o której mowa w art. 23a, lub ratę podatku.”;
+- **24)** w art. 53 § 3 otrzymuje brzmienie: „§ 3. Odsetki za zwłokę nalicza podatnik, płatnik, inkasent, następca prawny lub osoba trzecia odpowiadająca za zaległości podatkowe, z zastrzeżeniem art. 53a, art. 62 § 4, art. 66 § 5, art. 67a § 1 pkt 1 lub 2 i art. 76a § 1.”;
+- **25)** art. 53a otrzymuje brzmienie:
+
+**Art. 53a.** Jeżeli w postępowaniu podatkowym po zakończeniu roku podatkowego lub innego okresu rozliczeniowego organ podatkowy stwierdzi, że podatnik mimo ciążącego na nim obowiązku nie złożył deklaracji, wysokość zaliczek jest inna niż wykazana w deklaracji lub zaliczki nie zostały zapłacone w całości lub w części, organ ten wydaje decyzję, w której określa wysokość odsetek za zwłokę na dzień złożenia zeznania podatkowego za rok podatkowy lub inny okres rozliczeniowy, a w przypadku niezłożenia zeznania w terminie - odsetki na ostatni dzień terminu złożenia zeznania, przyjmując prawidłową wysokość zaliczek na podatek.”;
+
+- **26)** w art. 54:
+    - **a)** w § 1: - pkt 5 otrzymuje brzmienie: „5) jeżeli wysokość odsetek nie przekraczałaby trzykrotności wartości opłaty dodatkowej pobieranej przez „Pocztę Polską” za polecenie przesyłki listowej;”, - po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) za okres od dnia następnego po upływie dwóch lat od dnia złożenia deklaracji, od zaległości związanych z popełnionymi w deklaracji błędami rachunkowymi lub oczywistymi omyłkami, jeżeli w tym okresie nie zostały one ujawnione przez organ podatkowy;”,
+    - **b)** po § 4 dodaje się § 5 w brzmieniu:
+
+§ 5. Przepisu § 1 pkt 6 nie stosuje się w razie skorygowania deklaracji po zakończeniu kontroli podatkowej - w zakresie odsetek za zwłokę od zaległości podatkowych wynikających z tej korekty.”;
+
+- **27)** w art. 57 § 1 otrzymuje brzmienie: „§ 1. W decyzji wydanej na podstawie art. 67a § 1 pkt 1 lub 2, dotyczącej podatków stanowiących dochód budżetu państwa, organ podatkowy ustala opłatę prolongacyjną od kwoty podatku lub zaległości podatkowej.”;
+- **28)** w art. 59 w § 2 pkt 3 otrzymuje brzmienie: „3) umorzenia, w przypadkach przewidzianych w art. 67d § 3;”;
+- **29)** w art. 60 § 4 otrzymuje brzmienie: „§ 4. Zlecenia płatnicze na rzecz organów podatkowych mogą być składane również w formie dokumentu elektronicznego przy użyciu oprogramowania udostępnionego przez banki lub inną instytucję finansową uprawnioną do przyjmowania zleceń płatniczych albo w inny sposób uzgodniony z bankiem lub inną instytucją przyjmującą zlecenie.”;
+- **30)** art. 63 otrzymuje brzmienie: „Art. 63. § 1. Podstawy opodatkowania, kwoty podatków, z zastrzeżeniem § 2, odsetki za zwłokę, opłaty prolongacyjne, oprocentowanie nadpłat oraz wynagrodzenia przysługujące płatnikom i inkasentom zaokrągla się do pełnych złotych w ten sposób, że końcówki kwot wynoszące mniej niż 50 groszy pomija się, a końcówki kwot wynoszące 50 i wię cej groszy podwyższa się do pełnych złotych.
+
+§ 2. Zaokrąglania podstaw opodatkowania i kwot podatków nie stosuje się do opłaty skarbowej oraz opłat, o których mowa w przepisach o podatkach i opłatach lokalnych.”;
+
+- **31)** w art. 66 w § 2 pkt 2 otrzymuje brzmienie: „2) w przypadku, o którym mowa w § 1 pkt 2, na podstawie umowy zawartej między wójtem, burmistrzem (prezydentem miasta), starostą albo marszałkiem województwa a podatnikiem.”;
+- **32)** uchyla się art. 67;
+- **33)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „Rozdział 7a Ulgi w spłacie zobowiązań podatkowych
 
 **Art. 67a.**
 
@@ -190,6 +310,7 @@ source: "isap-pdf"
     - **h)** na rozwój małych i średnich przedsiębiorstw,
     - **i)** na restrukturyzację,
     - **j)** na ochronę środowiska,
+    - **k)** na prace badawczo-rozwojowe,
     - **l)** regionalną,
     - **m)** udzielaną na inne przeznaczenia określone na podstawie § 6 przez Radę Ministrów.
 
@@ -214,7 +335,8 @@ source: "isap-pdf"
 § 1. Organ podatkowy może z urzędu udzielać ulg w spłacie zobowiązań podatkowych, o których mowa w art. 67a § 1 pkt 3, jeżeli:
 
 - **1)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty przewyższającej wydatki egzekucyjne;
-- **2)** kwota zaległości podatkowej nie przekracza pięciokrotnej wartości kosztów upomnienia w postępowaniu egzekucyjnym; kończonym postępowaniu likwidacyjnym lub upadłościowym;
+- **2)** kwota zaległości podatkowej nie przekracza pięciokrotnej wartości kosztów upomnienia w postępowaniu egzekucyjnym;
+- **3)** kwota zaległości podatkowej nie została zaspokojona w zakończonym postępowaniu likwidacyjnym lub upadłościowym;
 - **4)** podatnik zmarł, nie pozostawiając żadnego majątku lub pozostawił ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów albo pozostawił przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty 5 000 zł, i jednocześnie brak jest spadkobierców innych niż Skarb Państwa lub jednostka samorządu terytorialnego oraz nie ma możliwości orzeczenia odpowiedzialności podatkowej osoby trzeciej.
 
 § 2. W przypadkach, o których mowa w § 1 pkt 3 i 4, decyzję umarzającą zaległość podatkową pozostawia się w aktach sprawy.
@@ -223,7 +345,175 @@ source: "isap-pdf"
 
 **Art. 67e.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość rzeczową poszczególnych organów podatkowych w sprawach stosowania ulg w spłacie zobowiązań podatkowych, uwzględniając wysokość kwoty będącej przedmiotem ulgi oraz terminy wpłat podatku lub zaległości podatkowej.”;
 
+- **34)** w art. 70:
+    - **a)** w § 2 pkt 1 otrzymuje brzmienie: „1) od dnia wydania decyzji, o których mowa w art. 67a § 1 pkt 1 lub 2, do dnia terminu płatności odroczonego podatku lub zaległości podatkowej, ostatniej raty podatku lub ostatniej raty zaległości podatkowej;”,
+    - **b)** w § 4 zdanie drugie otrzymuje brzmienie: „Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu, w którym zastosowano środek egzekucyjny.”,
+    - **c)** uchyla się § 5,
+    - **d)** § 6 i 7 otrzymują brzmienie: „§ 6. Bieg terminu przedawnienia zobowiązania podatkowego zostaje zawieszony z dniem:
+
+- **1)** wszczęcia postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe, jeżeli podejrzenie popełnienia przestępstwa lub wykroczenia wiąże się z niewykonaniem tego zobowiązania;
+- **2)** wniesienia skargi do sądu administracyjnego na decyzję dotyczącą tego zobowiązania;
+- **3)** wniesienia żądania ustalenia przez sąd powszechny istnienia lub nieistnienia stosunku prawnego lub prawa.
+
+§ 7. Termin przedawnienia biegnie dalej od dnia następującego po dniu:
+
+- **1)** prawomocnego zakończenia postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe;
+- **2)** doręczenia organowi podatkowemu odpisu orzeczenia sądu administracyjnego, ze stwierdzeniem jego prawomocności;
+- **3)** uprawomocnienia się orzeczenia sądu powszechnego w sprawie ustalenia istnienia lub nieistnienia stosunku prawnego lub prawa.”;
+- **35)** uchyla się art. 70b;
+- **36)** art. 71 otrzymuje brzmienie: „Art. 71. Przepisy art. 70 stosuje się odpowiednio do należności płatników lub inkasentów z tytułu nie pobranych albo nie wpłaconych podatków.”;
+- **37)** w art. 72 w § 1 pkt 4 otrzymuje brzmienie: „4) zobowiązania zapłaconego przez osobę trzecią lub spadkobiercę, jeżeli w decyzji o ich odpowiedzialności podatkowej lub decyzji ustalającej wysokość zobowiązania podatkowego spadkodawcy określono je nienależnie lub w wysokości większej od należnej.”;
+- **38)** w art. 73 w § 1 pkt 5 i 6 otrzymują brzmienie: „5) zapłaty przez osobę trzecią lub spadkobiercę należności wynikającej z decyzji o odpowiedzialności podatkowej lub decyzji ustalającej wysokość zobowiązania podatkowego spadkodawcy, jeżeli należność ta została określona nienależnie lub w wysokości większej od należnej;
+- **6)** złożenia korekty deklaracji w podatku od towarów i usług obniżającej wysokość zobowiązania podatkowego, w związku ze zwiększeniem kwoty podatku naliczonego lub obniżeniem kwoty podatku należnego w rozumieniu przepisów o podatku od towarów i usług.”;
+- **39)** w art. 75 w § 2 w pkt 1 lit. b otrzymuje brzmienie: „b) w deklaracjach innych niż wymienione w art. 73 § 2 pkt 2 i 3, z wyjątkiem deklaracji dotyczącej zaliczek na podatek dochodowy, wykazali zobowiązanie podatkowe nienależne lub w wysokości większej od należnej i wpłacili zadeklarowany podatek,”;
+- **40)** art. 76 otrzymuje brzmienie: „Art. 76. § 1. Nadpłaty wraz z ich oprocentowaniem podlegają zaliczeniu z urzędu na poczet zaległości podatkowych wraz z odsetkami za zwłokę, odsetek za zwłokę określonych w decyzji, o której mowa w art. 53a, oraz bieżących zobowiązań podatkowych, a w razie ich braku podlegają zwrotowi z urzędu, chyba że podatnik złoży wniosek o zaliczenie nadpłaty w całości lub w części na poczet przyszłych zobowiązań podatkowych, z zastrzeżeniem § 2.
+
+§ 2. Nadpłaty, których wysokość nie przekracza wysokości kosztów upomnienia w postępowaniu egzekucyjnym, podlegają z urzędu zaliczeniu na poczet zaległości podatkowych wraz z odsetkami za zwłokę, odsetek za zwłokę określonych w decyzji, o której mowa w art. 53a, oraz bieżących zobowiązań podatkowych, a w razie ich braku - na poczet przyszłych zobowiązań podatkowych, chyba że podatnik wystąpi o ich zwrot.
+
+§ 3. Przepisy § 1 i 2 stosuje się odpowiednio do zaliczania nadpłaty płatnika lub inkasenta na poczet jego zaległości podatkowych, bieżących zobowiązań podatkowych lub zobowiązań powstałych w związku z wykonywaniem obowiązków płatnika lub inkasenta.”;
+
+- **41)** w art. 76a w § 2 pkt 1 otrzymuje brzmienie: „1) powstania nadpłaty - w przypadkach, o których mowa w art. 73 § 1 pkt 1-3 i 5 oraz § 2;”;
+- **42)** w art. 77:
+    - **a)** w § 1 pkt 2 i 3 otrzymują brzmienie: „2) 30 dni od dnia wydania decyzji stwierdzającej nadpłatę lub określającej wysokość nadpłaty;
+
+- **3)** 14 dni od dnia doręczenia organowi podatkowemu odpisu orzeczenia sądu administracyjnego, ze stwierdzeniem jego prawomocności, uchylającego decyzję organu podatkowego pierwszej instancji lub stwierdzającego jej nieważność, z zastrzeżeniem § 3;”,
+    - **b)** § 2 i 3 otrzymują brzmienie: „§ 2. W przypadku skorygowania deklaracji:
+
+- **1)** w trybie określonym w art. 274 § 1 pkt 1 - nadpłata podlega zwrotowi w terminie 3 miesięcy od dnia upływu terminu do wniesienia sprzeciwu;
+- **2)** przez podatnika - nadpłata podlega zwrotowi w terminie 3 miesięcy od dnia jej skorygowania.
+
+§ 3. W przypadku uchylenia decyzji, o której mowa w § 1 pkt 1 lit. a-d, lub stwierdzenia jej nieważności, jeżeli następnie, w terminie 3 miesięcy od dnia uchylenia lub stwierdzenia nieważności przez organ podatkowy lub od dnia doręczenia organowi podatkowemu odpisu orzeczenia sądu administracyjnego ze stwierdzeniem jego prawomocności, uchylającego decyzję lub stwierdzającego jej nieważność, zostanie wydana decyzja w tej samej sprawie, nadpłata, którą stanowi różnica między podatkiem wpłaconym a podatkiem wynikającym z tej decyzji, podlega zwrotowi w terminie 30 dni od dnia wydania nowej decyzji.”;
+
+- **43)** w art. 78:
+    - **a)** w § 3 pkt 4 otrzymuje brzmienie: „4) w przypadku przewidzianym w art. 77 § 1 pkt 5 i § 2 - od dnia powstania nadpłaty, jeżeli nadpłata nie została zwrócona w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 73 § 2, lub od dnia skorygowania zeznania lub deklaracji w trybie art. 274 lub art. 274a.”,
+    - **b)** § 5 otrzymuje brzmienie: „§ 5. W przypadku przewidzianym w art. 77 § 1 pkt 4 oprocentowanie przysługuje za okres:
+
+- **1)** od dnia powstania nadpłaty do dnia jej zwrotu - pod warunkiem złożenia przez podatnika wniosku o zwrot nadpłaty w terminie 30 dni od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego lub od dnia, w którym uchylono lub zmieniono w całości lub w części akt normatywny;
+- **2)** od dnia powstania nadpłaty do trzydziestego dnia od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego lub od dnia, w którym uchylono lub zmieniono w całości lub w części akt normatywny - jeżeli wniosek o zwrot nadpłaty został złożony po upływie 30 dni od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego lub od dnia, w którym uchylono lub zmieniono w całości lub w części ten akt.”;
+- **44)** w art. 79 w § 2 w pkt 1 uchyla się lit. c;
+- **45)** w art. 81 dotychczasową treść oznacza się jako § 2 i dodaje § 1 w brzmieniu: „§ 1. Jeżeli odrębne przepisy nie stanowią inaczej, podatnicy, płatnicy i inkasenci mogą skorygować uprzednio złożoną deklarację.”;
+- **46)** uchyla się art. 81a;
+- **47)** w art. 81b:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Uprawnienie do skorygowania deklaracji:
+
+- **1)** ulega zawieszeniu na czas trwania postępowania podatkowego lub kontroli podatkowej – w zakresie objętym tym postępowaniem lub kontrolą;
+- **2)** przysługuje nadal po zakończeniu:
+    - **a)** kontroli podatkowej,
+    - **b)** postępowania podatkowego – w zakresie nie objętym decyzją określającą wysokość zobowiązania podatkowego.”,
+    - **b)** po § 2 dodaje się § 3 w brzmieniu: „§ 3. Przepisu § 1 pkt 2 lit. a nie stosuje się w zakresie podatku od towarów i usług.”;
+
+- **48)** uchyla się art. 81c;
+- **49)** w art. 82:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Banki i spółdzielcze kasy oszczędnościowo-kredytowe obowiązane są do sporządzania i przekazywania ministrowi właściwemu do spraw finansów publicznych, w formie dokumentu elektronicznego, comiesięcznych informacji o założonych i zlikwidowanych rachunkach bankowych związanych z prowadzeniem działalności gospodarczej, w terminie do 7. dnia następnego miesiąca.”,
+    - **b)** uchyla się § 2b,
+    - **c)** § 3 otrzymuje brzmienie: „§ 3. Banki, spółdzielcze kasy oszczędnościowo-kredytowe oraz inne instytucje finansowe, na pisemne żądanie ministra właściwego do spraw finansów publicznych lub jego upoważnionego przedstawiciela, są obowiązane do udzielenia informacji w razie wystąpienia władz państw obcych - w zakresie i na zasadach określonych w rozdziale 2 działu VIIa oraz wynikających z ratyfikowanych umów o unikaniu podwójnego opodatkowania i innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska.”,
+    - **d)** dodaje się § 7 i 8 w brzmieniu: „§ 7. Minister właściwy do spraw finansów publicznych mając na uwadze usprawnienie przekazywania i przetwarzania informacji, o których mowa w § 2, określi, w drodze rozporządzenia:
+
+- **1)** format i tryb przekazywania dokumentu elektronicznego, uwzględniając jego zabezpieczenie przed nieuprawnionym dostępem;
+- **2)** wzór informacji o założonych i zlikwidowanych rachunkach bankowych oraz rachunkach w spółdzielczych kasach oszczędnościowo-kredytowych, o których mowa w § 2, uwzględniając numer rachunku, datę jego założenia albo likwidacji, dane identyfikujące posiadacza rachunku, w tym nazwisko i imię lub nazwę posiadacza, miejsce zamieszkania lub adres siedziby, rodzaj i numer identyfikatora posiadacza rachunku, kod kraju posiadacza rachunku, numer identyfikacji podatkowej.
+
+§ 8. Obowiązek określony w § 2 może być wykonany za pośrednictwem instytucji, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe.”;
+
+- **50)** uchyla się art. 89 i 90;
+- **51)** w art. 93 uchyla się § 3;
+- **52)** art. 93c otrzymuje brzmienie: „Art. 93c. § 1. Osoby prawne przejmujące lub osoby prawne powstałe w wyniku podziału wstępują, z dniem podziału lub z dniem wydzielenia, we wszelkie przewidziane w przepisach prawa podatkowego prawa i obowiązki osoby prawnej dzielonej pozostające w związku z przydzielonymi im, w planie podziału, składnikami majątku.
+
+§ 2. Przepis § 1 stosuje się, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie - także majątek osoby prawnej dzielonej, stanowi zorganizowaną część przedsiębiorstwa.”.
+
+- **53)** uchyla się art. 97a;
+- **54)** w art. 100:
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Organy podatkowe właściwe ze względu na ostatnie miejsce zamieszkania spadkodawcy orzekają w odrębnych decyzjach o zakresie odpowiedzialności poszczególnych spadkobierców lub określają wysokość nadpłaty albo zwrotu podatku.
+
+§ 2. W decyzji organ podatkowy określa wysokość znanych w dniu otwarcia spadku zobowiązań spadkodawcy, o których mowa w art. 98 § 1 i 2, z zastrzeżeniem § 2a.”,
+
+- **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Wydając decyzję, organ podatkowy określa prawidłową wysokość zobowiązania podatkowego, wysokość poniesionej straty uprawniającej spadkobierców do skorzystania, zgodnie z przepisami prawa podatkowego, z ulg podatkowych, wysokość nadpłaty lub zwrotu podatku, jeżeli ich wysokość jest inna niż wykazana w deklaracji złożonej przez spadkodawcę albo spadkodawca deklaracji nie złożył.”;
+- **55)** w art. 103 w § 1 pkt 2 otrzymuje brzmienie: „2) decyzjach wydanych na podstawie art. 67a § 1 pkt 1 lub 2, jeżeli nie upłynął termin płatności odroczonego podatku lub zaległości podatkowej lub termin płatności rat;”;
+- **56)** w art. 109 § 1 otrzymuje brzmienie: „§ 1. W sprawie odpowiedzialności podatkowej osoby trzeciej przepisy art. 29, art. 47 § 1, art. 51 § 1, art. 53 § 3, art. 55, art. 57, art. 59, art. 60 oraz art. 64-66 stosuje się odpowiednio.”;
+- **57)** w art. 112: 306g, a przed dniem nabycia przedsiębiorstwa, jego części lub składników majątku, jeżeli od dnia wydania zaświadczenia do dnia zbycia:
+    - **a)** w § 1 pkt 3 otrzymuje brzmienie: „3) składników majątku związanego z prowadzoną działalnością gospodarczą wymienionych w § 2, jeżeli ich wartość jednostkowa w dniu zbycia wynosi co najmniej 15 000 zł”,
+    - **b)** § 7 otrzymuje brzmienie: „§ 7. Nabywca odpowiada również za zaległości podatkowe i inne należności zbywcy, wymienione w art. 107 § 2 pkt 2-4, z zastrzeżeniem § 4 pkt 2, powstałe po dniu wydania zaświadczenia, o którym mowa w art.
+
+- **1)** upłynęło 30 dni - w przypadku zbycia przedsiębiorstwa lub jego części;
+- **2)** upłynęły 3 dni - w przypadku zbycia składników majątku.”;
+- **58)** art. 117 otrzymuje brzmienie: „Art. 117. § 1. Osoby prawne przejmujące lub osoby prawne powstałe w wyniku podziału (osoby nowozawiązane) odpowiadają solidarnie całym swoim majątkiem za zaległości podatkowe osoby prawnej dzielonej, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie - także majątek osoby prawnej dzielonej, nie stanowi zorganizowanej części przedsiębiorstwa.
+
+§ 2. Zakres odpowiedzialności osób prawnych przejmujących lub osób prawnych nowozawiązanych ograniczony jest do wartości aktywów netto nabytych, wynikających z planu podziału.
+
+§ 3. Zakres odpowiedzialności osób prawnych przejmujących lub osób prawnych nowozawiązanych przy podziale przez wydzielenie ograniczony jest do zaleg łości z tytułu zobowiązań podatkowych powstałych do dnia wydzielenia.
+
+§ 4. Przepis art. 115 § 4 stosuje się odpowiednio do orzekania o odpowiedzialności podatkowej za zaległości podatkowe osoby prawnej wykreślonej z właściwego rejestru na skutek jej podziału.”;
+
+- **59)** po art. 117 dodaje się art. 117a w brzmieniu: „Art. 117a. Gwarant lub poręczyciel, którego zabezpieczenie zostało przyjęte przez organ podatkowy, odpowiada całym swoim majątkiem, solidarnie z podatnikiem, płatnikiem, inkasentem, ich następcą prawnym lub osobą trzecią, za zobowiązanie wynikające z decyzji, która jest przedmiotem zabezpieczenia, wraz z odsetkami za zwłokę, oraz kosztami postępowania egzekucyjnego powstałymi w związku z wykonaniem tej decyzji - do wysokości kwoty gwarancji lub poręczenia i w terminie wskazanym w gwarancji lub poręczeniu.”;
+- **60)** w art. 118 w § 2 zdanie drugie otrzymuje brzmienie: „Przepisy art. 70 § 2 pkt 1, § 3 i 4 stosuje się odpowiednio, z tym że termin biegu przedawnienia po jego przerwaniu wynosi 3 lata.”;
+- **61)** w art. 133 § 1 otrzymuje brzmienie: „§ 1. Stroną w postępowaniu podatkowym jest podatnik, płatnik, inkasent lub ich następca prawny, a także osoby trzecie, o których mowa w art. 110– 117a, które z uwagi na swój interes prawny żądają czynności organu podatkowego, do której czynność organu podatkowego się odnosi lub której interesu prawnego działanie organu podatkowego dotyczy.”;
+- **62)** po art. 133 dodaje się art. 133a w brzmieniu: „Art. 133a. § 1. Organizacja społeczna może w sprawie dotyczącej innej osoby, za jej zgodą, występować z żądaniem:
+- **1)** wszczęcia postępowania;
+- **2)** dopuszczenia jej do udziału w postępowaniu - jeżeli jest to uzasadnione celami statutowymi tej organizacji i gdy przemawia za tym interes publiczny.
+
+§ 2. Organ podatkowy, uznając żądanie organizacji społecznej za uzasadnione, postanawia o wszczęciu postępowania z urzędu lub o dopuszczeniu organizacji do udziału w postępowaniu. Na postanowienie o odmowie wszczęcia postępowania lub dopuszczenia do udziału w postępowaniu organizacji społecznej służy zażalenie.
+
+§ 3. Organizacja społeczna uczestniczy w postępowaniu na prawach strony.”;
+
+- **63)** w art. 143:
+    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Upoważnienie może obejmować podpisywanie pism podpisem elektronicznym oraz ich przesyłanie za pomocą środków komunikacji elektronicznej - z wyłączeniem wydawania zaświadczeń.”,
+    - **b)** w § 2 zdanie wstępne otrzymuje brzmienie: „Upoważnienie, o którym mowa w § 1 i 1a, może być udzielone również:”;
+
+- **64)** art. 144 otrzymuje brzmienie: „Art. 144. Organ podatkowy doręcza pisma za pokwitowaniem przez pocztę, przez swoich pracowników lub przez osoby uprawnione na podstawie odrębnych przepisów.”;
+- **65)** po art. 144 dodaje się art. 144a w brzmieniu: „Art. 144a. § 1. Doręczanie pism, z wyjątkiem zaświadczeń, może nastąpić za pomocą środków komunikacji elektronicznej, w rozumieniu przepisów o świadczeniu usług drogą elektroniczną, na adres poczty elektronicznej strony, jej przedstawiciela lub pełnomocnika, jeżeli wystąpiono do organu podatkowego o doręczanie pism drogą elektroniczną.
+
+§ 2. W sprawie sporządzania struktury pism w formie dokumentów elektronicznych oraz warunków organizacyjno-technicznych stosuje się odpowiednio przepisy ustawy - Kodeks postępowania administracyjnego oraz przepisy wykonawcze wydane na jej podstawie.”;
+
+- **66)** w art. 146 § 1 otrzymuje brzmienie: „§ 1. W toku postępowania strona oraz jej przedstawiciel lub pełnomocnik mają obowiązek zawiadomić organ podatkowy o zmianie swojego adresu, w tym adresu poczty elektronicznej, jeżeli wystąpiono o doręczanie pism drogą elektroniczną.”;
+- **67)** w art. 148 w § 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) na wskazany adres poczty elektronicznej.”;
+- **68)** art. 151 otrzymuje brzmienie: „Art. 151. Osobom prawnym oraz jednostkom organizacyjnym niemającym osobowości prawnej pisma doręcza się w lokalu ich siedziby lub w miejscu prowadzenia działalności - osobie upoważnionej do odbioru korespondencji. Przepisy art. 146, art. 148 § 2 pkt 1 i 3 oraz art. 150 stosuje się odpowiednio.”;
+- **69)** w art. 152 po § 2 dodaje się § 3 w brzmieniu: „§ 3. W przypadku doręczenia pisma za pomocą środków komunikacji elektronicznej, doręczenie jest skuteczne, jeżeli w terminie 2 dni od dnia wysłania pisma organ podatkowy otrzyma w formie elektronicznej potwierdzenie doręczenia pisma. W razie nieotrzymania takiego potwierdzenia organ podatkowy doręcza pismo w sposób określony w art.
+
+144. ”;
+
+- **70)** w art. 153 § 1 otrzymuje brzmienie: „§ 1. Jeżeli adresat odmawia przyjęcia pisma przesłanego mu w sposób określony w art. 144, pismo zwraca się nadawcy z adnotacją o odmowie jego przyjęcia i datą odmowy. Pismo wraz z adnotacją włącza się do akt sprawy.”;
+- **71)** po art. 154 dodaje się art. 154a-154c w brzmieniu: „Art. 154a. § 1. Minister właściwy do spraw finansów publicznych może wystąpić do władzy Państwa Członkowskiego Unii Europejskiej właściwej w sprawach podatkowych, zwanej dalej „obcą władz ą”, z wnioskiem o doręczenie pisma organu podatkowego.
+
+§ 2. Wniosek, o którym mowa w § 1, powinien zawierać dane niezbędne do identyfikacji podmiotu, któremu ma być doręczone pismo, w szczególności nazwisko lub nazwę (firmę) oraz adres.
+
+**Art. 154b.** Pisma pochodzące od obcej władzy doręcza organ podatkowy wskazany przez ministra właściwego do spraw finansów publicznych, stosując przepisy art. 144-154.
+
 **Art. 154c.** Przepisy art. 154a i 154b stosuje się do doręczania pism w zakresie spraw, o których mowa w art. 305b. Pisma obcych władz w sprawach niewymienionych w art. 305b są doręczane z zachowaniem zasady wzajemności.”;
+
+- **72)** w art. 165:
+    - **a)** § 3b otrzymuje brzmienie: „§ 3b. Datą wszczęcia postępowania na żądanie strony wniesione za pomocą środków komunikacji elektronicznej jest dzień otrzymania żądania przez organ podatkowy lub przez jednostkę informatyczną obsługi administracji podatkowej.”,
+    - **b)** w § 5 pkt 2 otrzymuje brzmienie: „2) umorzenia zaległości podatkowych w przypadkach, o których mowa w art. 67d § 1.”,
+    - **c)** po § 6 dodaje się § 7 w brzmieniu: „§ 7. Organ podatkowy nie wydaje postanowienia o wszczęciu postępowania w przypadku złożenia zeznania podatkowego przez podatników podatku od spadków i darowizn. W tym przypadku za datę wszczęcia postępowania przyjmuje się datę złożenia zeznania.”;
+
+- **73)** w art. 168:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Podania (żądania, wyjaśnienia, odwołania, zażalenia, ponaglenia, wnioski) mogą być wnoszone na piśmie, telegraficznie lub za pomocą dalekopisu, telefaksu, środków komunikacji elektronicznej albo za pomocą formularza umieszczonego na stronie internetowej właściwego organu podatkowego lub jednostki informatycznej obsługi administracji podatkowej, umożliwiającego wprowadzenie danych do systemu teleinformatycznego tego organu lub jednostki, a także ustnie do protokołu.”,
+    - **b)** § 4 i 5 otrzymują brzmienie: „§ 4. Organ podatkowy obowiązany jest potwierdzić wniesienie podania, jeżeli wnoszący je tego zażąda. Organ podatkowy lub jednostka informatyczna obsługi administracji podatkowej poświadcza, w formie elektronicznej, wniesienie podania za pomocą środków komunikacji elektronicznej albo za pomocą formularza umieszczonego na stronie internetowej właściwego organu podatkowego.
+
+§ 5. Do podań wnoszonych w formie elektronicznej stosuje się odpowiednio przepis art. 3b.”;
+
+- **74)** art. 181 otrzymuje brzmienie: „Art. 181. Dowodami w postępowaniu podatkowym mogą być w szczególności księgi podatkowe, deklaracje złożone przez stronę, zeznania świadków, opinie biegłych, materiały i informacje zebrane w wyniku oględzin, informacje podatkowe oraz inne dokumenty zgromadzone w toku czynności sprawdzających lub kontroli podatkowej, z zastrzeżeniem art. 284a § 3, art. 284b § 3 i art. 288 § 2, oraz materiały zgromadzone w toku prawomocnie zakończonego postępowania karnego albo postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.”.
+- **75)** w art. 182 § 2 otrzymuje brzmienie: „§ 2. Przepisy § 1 stosuje się odpowiednio do zakładów ubezpieczeń, funduszy inwestycyjnych i banków prowadzących działalność maklerską, w zakresie prowadzonych indywidualnych kont emerytalnych, a także do domów maklerskich oraz spółdzielczych kas oszczędnościowokredytowych.”;
+- **76)** po art.199 dodaje się art. 199a w brzmieniu: „Art. 199a. § 1. Organ podatkowy dokonując ustalenia treści czynności prawnej, uwzględnia zgodny zamiar stron i cel czynności, a nie tylko dosłowne brzmienie oświadczeń woli złożonych przez strony czynności.
+
+§ 2. Jeżeli pod pozorem dokonania czynności prawnej dokonano innej czynności prawnej, skutki podatkowe wywodzi się z tej ukrytej czynności prawnej.
+
+§ 3. Jeżeli z dowodów zgromadzonych w toku postępowania, w szczególności zeznań strony, chyba że strona odmawia składania zeznań, wynikają wątpliwości co do istnienia lub nieistnienia stosunku prawnego lub prawa, z którym związane są skutki podatkowe, organ podatkowy występuje do sądu powszechnego o ustalenie istnienia lub nieistnienia tego stosunku prawnego lub prawa.”;
+
+- **77)** w art. 201 w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) w razie wystąpienia, na podstawie ratyfikowanych umów o unikaniu podwójnego opodatkowania lub innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, do organów innego państwa o udzielenie informacji niezbędnych do ustalenia lub określenia wysokości zobowiązania podatkowego.”;
+- **78)** w art. 208 § 1 otrzymuje brzmienie: „§ 1. Gdy postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe, w szczególności w razie przedawnienia zobowiązania podatkowego, organ podatkowy wydaje decyzję o umorzeniu postępowania.”;
+- **79)** art. 212 otrzymuje brzmienie: „Art. 212. Organ podatkowy, który wydał decyzję, jest nią związany od chwili jej doręczenia. Decyzje, o których mowa w art. 67d, wiążą organ podatkowy od chwili ich wydania.”;
+- **80)** uchyla się art. 223a;
+- **81)** art. 224 i 224a otrzymują brzmienie: „Art. 224. § 1. Wniesienie odwołania od decyzji organu podatkowego nie wstrzymuje jej wykonania, z zastrzeżeniem art. 224a.
+
+§ 2. Organ podatkowy, z urzędu lub na wniosek strony, wstrzymuje w drodze postanowienia wykonanie decyzji w całości lub w części, w przypadku uzasadnionym ważnym interesem strony lub interesem publicznym.
+
+§ 3. Wniosek o wstrzymanie wykonania decyzji może być złożony również przed wniesieniem odwołania.
+
+§ 4. W sprawie wstrzymania wykonania decyzji postanawia:
+
+- **1)** organ, który wydał decyzję - do czasu przekazania odwołania wraz z aktami sprawy właściwemu organowi odwoławczemu;
+- **2)** organ odwoławczy - po otrzymaniu odwołania wraz z aktami sprawy.
+
+§ 5. Na postanowienie w sprawie wstrzymania wykonania decyzji służy zażalenie.
 
 **Art. 224a.**
 
@@ -237,6 +527,7 @@ source: "isap-pdf"
 - **82)** w art. 224b dotychczasową treść oznacza się jako § 1 oraz dodaje się § 2 w brzmieniu: „§ 2. Wstrzymanie wykonania decyzji nie ma wpływu na naliczanie odsetek za zwłokę.”;
 - **83)** w art. 233 § 3 otrzymuje brzmienie: „§ 3. Samorządowe kolegium odwoławcze uprawnione jest do wydania decyzji uchylającej i rozstrzygającej sprawę co do istoty jedynie w przypadku, gdy przepisy prawa nie pozostawiają sposobu jej rozstrzygnięcia uznaniu organu podatkowego pierwszej instancji. W pozostałych przypadkach samorządowe kolegium odwoławcze uwzględniając odwołanie, ogranicza się do uchylenia zaskarżonej decyzji.”;
 - **84)** po art. 234 dodaje się art. 234a w brzmieniu: „Art. 234a. Organ odwoławczy zwraca akta sprawy organowi pierwszej instancji nie wcześniej niż po upływie terminu do wniesienia skargi do sądu administracyjnego.”;
+- **85)** w art. 240:
     - **a)** w § 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9-11 w brzmieniu: „9) ratyfikowana umowa o unikaniu podwójnego opodatkowania lub inna ratyfikowana umowa międzynarodowa, której stroną jest Rzeczpospolita Polska, ma wpływ na treść wydanej decyzji;
 
 - **10)** wynik zakończonej procedury wzajemnego porozumiewania lub procedury arbitrażowej, prowadzonych na podstawie ratyfikowanej umowy o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, ma wpływ na treść wydanej decyzji;
@@ -250,7 +541,7 @@ source: "isap-pdf"
 - **88)** w art. 260 § 1 otrzymuje brzmienie: „§ 1. Stronie, która poniosła szkodę na skutek wydania decyzji, która następnie została uchylona w wyniku wznowienia postępowania lub stwierdzono nieważność tej decyzji, służy odszkodowanie za poniesioną stratę i utracone korzyści, chyba że przesłanki, które uzasadniają uchylenie decyzji lub stwierdzenie jej nieważności, powstały z winy strony.”;
 - **89)** w art. 261 § 2 otrzymuje brzmienie: „§ 2. Odszkodowanie przysługuje od organu wydającego decyzję, której następnie stwierdzono nieważność lub którą uchylono w wyniku wznowienia post ępowania. Wniosek o odszkodowanie wnosi się do tego organu.”;
 - **90)** w art. 272 zdanie wstępne otrzymuje brzmienie: „Organy podatkowe pierwszej instancji, z zastrzeżeniem art. 272a, dokonują czynności sprawdzających, mających na celu:”;
-- **91)** po art. 272 dodaje się art. 272a w brzmieniu: „Art. 272a. Jednostka organizacyjna urzędu obsługującego ministra właściwego do spraw finansów publicznych, właściwa na podstawie przepisów o podatku od towarów i usług w zakresie wymiany z podatku, dokonuje czynności sprawdzających odnoszących się do dokumentów składanych do tej jednostki.”;
+- **91)** po art. 272 dodaje się art. 272a w brzmieniu: „Art. 272a. Jednostka organizacyjna urzędu obsługującego ministra właściwego do spraw finansów publicznych, właściwa na podstawie przepisów o podatku od towarów i usług w zakresie wymiany z Państwami Członkowskimi Unii Europejskiej informacji o tym podatku, dokonuje czynności sprawdzających odnoszących się do dokumentów składanych do tej jednostki.”;
 - **92)** art. 274 otrzymuje brzmienie: „Art. 274. § 1. W razie stwierdzenia, że deklaracja zawiera błędy rachunkowe lub inne oczywiste omyłki bądź że wypełniono ją niezgodnie z ustalonymi wymaganiami, organ podatkowy w zależności od charakteru i zakresu uchybień:
 - **1)** koryguje deklarację, dokonując stosownych poprawek lub uzupełnień, jeżeli zmiana wysokości zobowiązania podatkowego, kwoty nadpłaty, kwoty zwrotu podatku lub wysokości straty w wyniku tej korekty nie przekracza kwoty 1 000 zł;
 - **2)** zwraca się do składającego deklarację o jej skorygowanie oraz złożenie niezbędnych wyjaśnień, wskazując przyczyny, z powodu których informacje zawarte w deklaracji podaje się w wątpliwość.
@@ -268,7 +559,8 @@ source: "isap-pdf"
 
 - **93)** w art. 275 § 3 otrzymuje brzmienie: „§ 3. Przepis § 2 stosuje się również do zakładów ubezpieczeń i funduszy inwestycyjnych, w zakresie prowadzonych indywidualnych kont emerytalnych, oraz do domów maklerskich, banków prowadzących działalność maklerską, towarzystw funduszy inwestycyjnych i spółdzielczych kas oszczędnościowo-kredytowych.”;
 - **94)** w art. 281:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organy podatkowe pierwszej instancji, z zastrzeżeniem § 3, przeprowadzają kontrolę podatkową u podatników, płatników, inkasentów oraz następców prawnych, zwanych dalej „kontrolowanymi.”, „§ 3. Minister właściwy do spraw finansów publicznych przeprowadza kontrolę podatkową, której celem jest sprawdzenie stosowania uznanej przez ten organ metody ustalania ceny transakcyjnej między podmiotami powiązanymi.”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organy podatkowe pierwszej instancji, z zastrzeżeniem § 3, przeprowadzają kontrolę podatkową u podatników, płatników, inkasentów oraz następców prawnych, zwanych dalej „kontrolowanymi.”,
+    - **b)** po § 2 dodaje się § 3 w brzmieniu: „§ 3. Minister właściwy do spraw finansów publicznych przeprowadza kontrolę podatkową, której celem jest sprawdzenie stosowania uznanej przez ten organ metody ustalania ceny transakcyjnej między podmiotami powiązanymi.”;
 
 - **95)** art. 281a otrzymuje brzmienie: „Art. 281a. Podatnicy, płatnicy, inkasenci oraz następcy prawni mogą, w formie pisemnej, wyznaczyć osobę fizyczną, która będzie upoważniona do ich reprezentowania w trakcie kontroli podatkowej, oraz zgłosić tę osobę naczelnikowi urzędu skarbowego właściwemu w sprawie opodatkowania podatkiem dochodowym, wójtowi, burmistrzowi (prezydentowi miasta).”;
 - **96)** w art. 283 w § 1:
@@ -280,7 +572,8 @@ source: "isap-pdf"
     - **b)** § 3 otrzymuje brzmienie: „§ 3. W razie nieobecności kontrolowanego lub osób, o których mowa w § 2 albo w art. 281a, kontrolujący wzywa kontrolowanego lub osobę wskazaną w trybie art. 281a do stawienia się w miejscu, w którym można prowadzić czynności kontrolne następnego dnia po upływie 7 dni od dnia doręczenia wezwania.”;
 
 - **98)** w art. 284a:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. W przypadku gdy okoliczności faktyczne uzasadniają niezwłoczne podjęcie kontroli, a w szczególności istnieje ryzyko utraty materiału dowodowego lub istnieje uzasadnione prawdopodobieństwo popełnienia przestępstwa skarbowego lub wykroczenia skarbowego, kontrola podatkowa może być wszczęta po okazaniu legitymacji służbowej kontrolowanemu lub osobie, o której mowa w art. 281a, albo osobie wymienionej w art. 284 § 2.”, „§ 5. Organ podatkowy może zawiesić kontrolę podatkową, jeżeli w okresie 30 dni od dnia jej wszczęcia nie zostaną ustalone dane identyfikujące kontrolowanego.”,
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. W przypadku gdy okoliczności faktyczne uzasadniają niezwłoczne podjęcie kontroli, a w szczególności istnieje ryzyko utraty materiału dowodowego lub istnieje uzasadnione prawdopodobieństwo popełnienia przestępstwa skarbowego lub wykroczenia skarbowego, kontrola podatkowa może być wszczęta po okazaniu legitymacji służbowej kontrolowanemu lub osobie, o której mowa w art. 281a, albo osobie wymienionej w art. 284 § 2.”,
+    - **b)** § 5 otrzymuje brzmienie: „§ 5. Organ podatkowy może zawiesić kontrolę podatkową, jeżeli w okresie 30 dni od dnia jej wszczęcia nie zostaną ustalone dane identyfikujące kontrolowanego.”,
     - **c)** po § 5 dodaje się § 5a i 5b w brzmieniu: „§ 5a. Zawieszona kontrola podatkowa może być podjęta w każdym czasie, gdy zostaną ustalone dane identyfikujące kontrolowanego.
 
 § 5b. Zawieszona kontrola podatkowa podlega umorzeniu, jeżeli w ciągu 5 lat od dnia wydania postanowienia o zawieszeniu nie zostaną ustalone dane identyfikujące kontrolowanego.”,
@@ -291,7 +584,7 @@ source: "isap-pdf"
     - **b)** § 3 otrzymuje brzmienie: „§ 3. Jeżeli zachodzi uzasadnione przypuszczenie, że kontrolowany będący osobą fizyczną nie ujawnił wszystkich obrotów lub przychodów mających znaczenie dla określenia lub ustalenia wysokości zobowiązania podatkowego, kontrolujący może zwrócić się do kontrolowanego o złożenie oświadczenia o stanie majątkowym na określony dzień. Oświadczenie to składane jest pod rygorem odpowiedzialności karnej za fałszywe zeznania. Kontrolujący, zwracając się o złożenie oświadczenia, uprzedza kontrolowanego o odpowiedzialności karnej za fałszywe zeznania.”,
     - **c)** po § 3 dodaje się § 4 w brzmieniu: „§ 4. Przepis § 3 stosuje się odpowiednio do osób fizycznych będących wspólnikami kontrolowanej spółki nieposiadającej osobowości prawnej.”;
 
-- **100)** w art. 286a § 1 otrzymuje brzmienie: „§ 1. Kontrolujący może w razie uzasadnionej potrzeby wezwać, w pilnych przypadkach także ustnie, pomocy organu Policji, Straży Granicznej lub straży miejskiej (gminnej), jeżeli trafi na opór uniemożliwiający lub utrudniający przeprowadzenie czynności kontrolnych, albo zwrócić się o ich asystę, gdy zachodzi uzasadnione przypuszczenie, że na taki opór natrafi. Jeżeli pomocy właściwy organ wojskowy, chyba że zwłoka grozi udaremnieniem czynności kontrolnych, a na miejscu nie ma organu wojskowego.”;
+- **100)** w art. 286a § 1 otrzymuje brzmienie: „§ 1. Kontrolujący może w razie uzasadnionej potrzeby wezwać, w pilnych przypadkach także ustnie, pomocy organu Policji, Straży Granicznej lub straży miejskiej (gminnej), jeżeli trafi na opór uniemożliwiający lub utrudniający przeprowadzenie czynności kontrolnych, albo zwrócić się o ich asystę, gdy zachodzi uzasadnione przypuszczenie, że na taki opór natrafi. Jeżeli opór stawia żołnierz czynnej służby wojskowej, kontrolujący wzywa do pomocy właściwy organ wojskowy, chyba że zwłoka grozi udaremnieniem czynności kontrolnych, a na miejscu nie ma organu wojskowego.”;
 - **101)** w art. 288 § 4 otrzymuje brzmienie: „§ 4. W przypadku gdy nieruchomości lub ich części albo rzeczy znajdują się w posiadaniu osób trzecich, osoby te są obowiązane je udostępnić, w celu przeszukania lub oględzin, na żądanie organu podatkowego. Przepisy § 2 i 3 stosuje się odpowiednio.”;
 - **102)** w art. 290 § 1 otrzymuje brzmienie: „§ 1. Przebieg kontroli kontrolujący dokumentuje w protokole. Stan faktyczny może być ponadto utrwalony za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.” ;
 - **103)** art. 290a otrzymuje brzmienie: „Art. 290a. Minister właściwy do spraw finansów publicznych w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw informatyzacji, w drodze rozporządzenia, określi sposób zabezpieczania, odtwarzania i wykorzystywania dowodów utrwalonych za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych, uwzględniając rodzaje czynników zewnętrznych, których działanie może spowodować zniszczenie lub uszkodzenie dowodu, obecność przedstawiciela organu kontrolującego podczas ich odtwarzania, formę oznakowania dowodu oraz ewidencjonowania czynności odtworzenia i wykorzystania dowodu.”;
@@ -301,7 +594,8 @@ source: "isap-pdf"
 § 2. Porozumienia, o których mowa w § 1, mogą przewidywać obecność przedstawicieli obcej władzy w toku czynności kontrolnych.”;
 
 - **106)** w art. 293 w § 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) informacjach uzyskanych w toku postępowania w sprawie zawarcia porozumień, o których mowa w dziale IIa.”;
-- **107)** w art. 294 w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) przedstawiciele obcej władzy obecni w toku czynności kontrolnych, w związku z prowadzeniem równoczesnych kontroli.”; „Art. 295a. W toku postępowania w sprawie zawarcia porozumień, o których mowa w dziale IIa, dostęp do informacji przekazanych przez przedsiębiorców w tym postępowaniu przysługuje pracownikowi załatwiającemu sprawę, jego bezpośredniemu przełożonemu oraz ministrowi właściwemu do spraw finansów publicznych.”;
+- **107)** w art. 294 w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) przedstawiciele obcej władzy obecni w toku czynności kontrolnych, w związku z prowadzeniem równoczesnych kontroli.”;
+- **108)** po art. 295 dodaje się art. 295a w brzmieniu: „Art. 295a. W toku postępowania w sprawie zawarcia porozumień, o których mowa w dziale IIa, dostęp do informacji przekazanych przez przedsiębiorców w tym postępowaniu przysługuje pracownikowi załatwiającemu sprawę, jego bezpośredniemu przełożonemu oraz ministrowi właściwemu do spraw finansów publicznych.”;
 - **109)** w art. 296 w § 1:
     - **a)** pkt 1 otrzymuje brzmienie: „1) pochodzące z banków lub spółdzielczych kas oszczędnościowokredytowych, z wyłączeniem informacji, o których mowa w art. 82 § 2, oraz z innych instytucji finansowych,”,
     - **b)** w pkt 2 na końcu dodaje się przecinek oraz pkt 3 w brzmieniu: „3) uzyskane w postępowaniu w sprawie zawarcia porozumień, o których mowa w dziale IIa”;
@@ -314,7 +608,7 @@ source: "isap-pdf"
 
 § 2. Minister właściwy do spraw finansów publicznych może upoważnić Generalnego Inspektora Kontroli Skarbowej, dyrektora izby skarbowej oraz dyrektora urzędu kontroli skarbowej do występowania do obcych władz o udzielenie informacji i udzielania im informacji na zasadach określonych w niniejszym rozdziale.”;
 
-- **115)** w art. 306h § 2 otrzymuje brzmienie: „§ 2. Zgoda podatnika nie jest wymagana, jeżeli z żądaniem wydania zaświadczenia, o którym mowa w § 1, występuje małżonek podatnika pozostający z nim we wspólności majątkowej. Małżonek podatnika składa oświadczenie o powiedzialności karnej za fałszywe zeznania.”;
+- **115)** w art. 306h § 2 otrzymuje brzmienie: „§ 2. Zgoda podatnika nie jest wymagana, jeżeli z żądaniem wydania zaświadczenia, o którym mowa w § 1, występuje małżonek podatnika pozostający z nim we wspólności majątkowej. Małżonek podatnika składa oświadczenie o pozostawaniu z podatnikiem we wspólności majątkowej pod rygorem odpowiedzialności karnej za fałszywe zeznania.”;
 - **116)** w art. 306i w § 2 pkt 2 otrzymuje brzmienie: „2) podatku dochodowego (we wszystkich formach opodatkowania); w przypadku opodatkowania podatkiem dochodowym od osób fizycznych na zasadach ogólnych - z określeniem wysokości dochodu przyjętego do podstawy opodatkowania, a w przypadku osób prawnych - z określeniem wysokości dochodu przyjętego do podstawy opodatkowania, jak również kwoty podatku należnego.”;
 - **117)** w art. 306j:
     - **a)** pkt 3 otrzymuje brzmienie: „3) wzór rejestru zaświadczeń oraz szczegółowy sposób jego prowadzenia, uwzględniając treść wniosku o wydanie zaświadczenia, datę złożenia wniosku lub wyrażenia zgody na wydanie zaświadczenia, sposób załatwienia wniosku, treść wydanego zaświadczenia oraz dane identyfikujące wnioskodawcę, biorąc pod uwagę uproszczenie i usprawnienie procesu wydawania zaświadczeń;”,
@@ -323,6 +617,9 @@ source: "isap-pdf"
 **Art. 2.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, z późn. zm. ) po art. 189 dodaje się art. 189 w brzmieniu: „Art. 189 . Uprawnienie, o którym mowa w art. 189, przysługuje również, w toku prowadzonego postępowania, organowi podatkowemu lub organowi kontroli skarbowej, jeżeli ustalenie istnienia lub nieistnienia stosunku prawnego lub prawa jest niezbędne dla oceny skutków podatkowych.”.
 
 **Art. 3.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2004 r. Nr 142, poz. 1514 i Nr 146, poz. 1546) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 uchyla się ust. 2;
+- **2)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „Rozdział 4a Zeznania podatkowe
 
 **Art. 17a.**
 
@@ -339,7 +636,7 @@ source: "isap-pdf"
     - **b)** dane dotyczące przedmiotu opodatkowania, w tym nabyte rzeczy i prawa majątkowe, miejsce położenia tych rzeczy lub wykonywania praw majątkowych, wraz z ich wartością rynkową oraz długi i ciężary obciążające nabyte rzeczy i prawa majątkowe, a także nakłady poczynione na rzeczy nabyte w drodze zasiedzenia,
     - **c)** dane podatników obowiązanych do złożenia zeznania podatkowego, w tym imiona, nazwiska, adresy i numery identyfikacji podatkowej, dane stanowiące podstawę zaliczenia do grupy podatkowej, o której mowa w art. 14, oraz wielkość nabytego udziału;
 
-- **2)** rodzaje dokumentów, które powinny być dołączone do zeznania podatkowego, uwzględniając konieczność potwierdzenia nabycia rzeczy lub praw majątkowych wymienionych w zeznaniu podatkowym, posiadania przez zbywcę tytułu prawnego do tych rzeczy lub praw, istnienia długów i ciężarów, obciążających nabyte rzeczy lub prawa majątkowe, a rzecz przez nabywcę podczas biegu zasiedzenia;
+- **2)** rodzaje dokumentów, które powinny być dołączone do zeznania podatkowego, uwzględniając konieczność potwierdzenia nabycia rzeczy lub praw majątkowych wymienionych w zeznaniu podatkowym, posiadania przez zbywcę tytułu prawnego do tych rzeczy lub praw, istnienia długów i ciężarów, obciążających nabyte rzeczy lub prawa majątkowe, a przy nabyciu w drodze zasiedzenia - poniesienie nakładów na rzecz przez nabywcę podczas biegu zasiedzenia;
 - **3)** przypadki, w których może być złożone wspólne zeznanie podatkowe, oraz tryb jego składania, uwzględniając konieczność uproszczenia postępowania podatkowego oraz zmniejszenia kosztów jego prowadzenia.”;
 - **3)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Notariusze są płatnikami podatku od darowizny dokonanej w formie aktu notarialnego albo zawartej w tej formie umowy nieodpłatnego zniesienia współwłasności lub ugody w tym przedmiocie.
 
@@ -360,31 +657,169 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 1993 r. Nr 94, poz. 431, z późn. zm. ) w art. 6a dodaje się ust. 12-14 w brzmieniu: „12. Rada gminy może określić, w drodze uchwały, warunki i tryb składania informacji o gruntach oraz deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej, w szczególności:
 
+- **1)** ich format elektroniczny,
+- **2)** sposób ich przesyłania za pomocą środków komunikacji elektronicznej,
+- **3)** rodzaje podpisu elektronicznego, którym powinny być opatrzone.
+
+13. Rada gminy w uchwale, o której mowa w ust. 12, uwzględnia w szczególności:
+
+- **1)** zakres danych zawartych we wzorach określonych uchwałą rady gminy w sprawie wzorów informacji o gruntach i deklaracji na podatek rolny oraz konieczność ich opatrzenia podpisem elektronicznym;
+- **2)** potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w informacjach o gruntach i deklaracjach na podatek rolny oraz potrzebę ich ochrony przed nieuprawnionym dostępem;
+- **3)** limity wysokości zobowiązania podatkowego, kwoty nadpłaty lub zwrotu podatku wynikające z deklaracji na podatek rolny, a także wymagania dla poszczególnych rodzajów podpisu elektronicznego określone w przepisach o podpisie elektronicznym, w szczególności dotyczące weryfikacji podpisu elektronicznego i znakowania czasem.
+
+14. Organ podatkowy lub jednostka informatyczna obsługi administracji podatkowej poświadcza, w formie elektronicznej, złożenie informacji o gruntach i deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej.”.
+
 **Art. 5.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2002 r. Nr 9, poz. 84, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 dodaje się ust. 14-16 w brzmieniu: „14. Rada gminy może określić, w drodze uchwały, warunki i tryb składania informacji o nieruchomościach i obiektach budowlanych oraz deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej, w szczególności:
+- **1)** ich format elektroniczny,
+- **2)** sposób ich przesyłania za pomocą środków komunikacji elektronicznej,
+- **3)** rodzaje podpisu elektronicznego, którym powinny być opatrzone.
+
+15. Rada gminy w uchwale, o której mowa w ust. 14, uwzględnia w szczególności:
+
+- **1)** zakres danych zawartych we wzorach określonych uchwałą rady gminy w sprawie wzorów informacji o nieruchomościach i obiektach budowlanych i deklaracji na podatek od nieruchomości oraz konieczność ich opatrzenia podpisem elektronicznym;
+- **2)** potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w informacjach o nieruchomościach i obiektach budowlanych i deklaracjach na podatek od nieruchomości oraz potrzebę ich ochrony przed nieuprawnionym dostępem;
+- **3)** limity wysokości zobowiązania podatkowego, kwoty nadpłaty lub zwrotu podatku wynikające z deklaracji na podatek od nieruchomości, a także wymagania dla poszczególnych rodzajów podpisu elektronicznego określone w przepisach o podpisie elektronicznym, w szczególności dotyczące weryfikacji podpisu elektronicznego i znakowania czasem.
+
+16. Organ podatkowy lub jednostka informatyczna obsługi administracji podatkowej poświadcza, w formie elektronicznej, złożenie informacji o nieruchomościach i obiektach budowlanych i deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej.”;
+
+- **2)** w art. 9 dodaje się ust. 9-12 w brzmieniu: „9. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi w drodze rozporządzenia:
+- **1)** format elektroniczny deklaracji na podatek od środków transportowych,
+- **2)** sposób przesyłania deklaracji na podatek od środków transportowych za pomocą środków komunikacji elektronicznej,
+- **3)** rodzaje podpisu elektronicznego, którym powinny być opatrzone deklaracje na podatek od środków transportowych.
+
+10. Minister właściwy do spraw finansów publicznych w rozporządzeniu, o którym mowa w ust. 9, uwzględnia w szczególności:
+
+- **1)** zakres danych zawartych we wzorze deklaracji na podatek od środków transportowych określonym w rozporządzeniu, o którym mowa w ust. 8, oraz konieczność jej opatrzenia podpisem elektronicznym;
+- **2)** potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w deklaracjach na podatek od środków transportowych oraz potrzebę ich ochrony przed nieuprawnionym dostępem;
+- **3)** limity wysokości zobowiązania podatkowego, kwoty nadpłaty lub zwrotu podatku wynikające z deklaracji na podatek od środków transportowych, a także wymagania dla poszczególnych rodzajów podpisu elektronicznego określone w przepisach o podpisie elektronicznym, w szczególności dotyczące weryfikacji podpisu elektronicznego i znakowania czasem.
+
+11. Rada gminy może wprowadzić, w drodze uchwały, możliwość składania deklaracji na podatek od środków transportowych za pomocą środków komunikacji elektronicznej.
+
+12. Organ podatkowy lub jednostka informatyczna obsługi administracji podatkowej poświadcza, w formie elektronicznej, złożenie deklaracji na podatek od środków transportowych za pomocą środków komunikacji elektronicznej.”.
 
 **Art. 6.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 25:
+    - **a)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku wydania przez właściwy organ podatkowy, na podstawie przepisów Ordynacji podatkowej, decyzji o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, w zakresie określonym w tej decyzji stosuje się metodę w niej wskazaną.”,
+    - **b)** w ust. 4 zdanie wstępne otrzymuje brzmienie: „Przepisy ust. 1-3a stosuje się odpowiednio, gdy:”;
+
+- **2)** w art. 26:
+    - **a)** ust. 6a i 6b otrzymują brzmienie: „6a. Za darowizny, o których mowa w ust. 1 pkt 9, oraz darowizny odliczane na podstawie odrębnych ustaw nie uważa się wpłat, o które zmniejsza się podatek zgodnie z art. 27d lub ryczałt od przychodów ewidencjonowanych zgodnie z art. 14a ustawy o zryczałtowanym podatku dochodowym.
+
+6b. Podatnicy korzystający z odliczenia darowizn, o którym mowa w ust. 1 pkt 9 oraz wynikającego z odrębnych ustaw, są obowiązani wykazać w zeznaniu, o którym mowa w art. 45 ust. 1, kwotę przekazanej darowizny, kwotę dokonanego odliczenia oraz dane pozwalające na identyfikację obdarowanego, w szczególności jego nazwę i adres.”,
+
+- **b)** po ust. 6c dodaje się ust. 6d w brzmieniu: „6d. Przepis ust. 7 stosuje się odpowiednio do darowizn odliczanych na podstawie odrębnych ustaw.”;
+- **3)** w art. 45 po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Podatnicy, którym właściwy organ podatkowy, na podstawie przepisów Ordynacji podatkowej, wydał decyzję o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, dołączają do zeznania sprawozdanie o realizacji uznanej metody ustalania ceny transakcyjnej.
+
+5b. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 5a, w celu usprawnienia weryfikacji stosowania metody określonej w decyzji o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, uwzględniający w szczególności dane identyfikujące podmioty powiązane, wielkość sprzedaży uzyskanej przy zastosowaniu uznanej metody ustalania ceny transakcyjnej, ceny stosowane w transakcjach z podmiotami powiązanymi oraz okres stosowania metody.”.
+
 **Art. 7.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 11:
+    - **a)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku wydania przez właściwy organ podatkowy, na podstawie przepisów Ordynacji podatkowej, decyzji o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, w zakresie określonym w tej decyzji stosuje się metodę w niej wskazaną.”,
+    - **b)** w ust. 4 zdanie wstępne otrzymuje brzmienie: „Przepisy ust. 1-3a stosuje się odpowiednio, gdy:”;
+
+- **2)** w art. 18: 1 pkt 1 i 7 oraz wynikającego z odrębnych ustaw, są obowiązani wykazać w zeznaniu, o którym mowa w art. 27 ust. 1, kwotę przekazanej darowizny, kwotę dokonanego odliczenia oraz dane pozwalające na identyfikację obdarowanego, w szczególności jego nazwę, adres i numer identyfikacji podatkowej.”,
+    - **a)** ust. 1c otrzymuje brzmienie: „1c. Odliczenie darowizn, o którym mowa w ust. 1 pkt 1 i 7 oraz wynikające z odrębnych ustaw, stosuje się, jeżeli wysokość darowizny jest udokumentowana dowodem wpłaty na rachunek bankowy obdarowanego, a w przypadku darowizny innej niż pieniężna - dokumentem, z którego wynika wartość tej darowizny, oraz oświadczeniem obdarowanego o jej przyjęciu.”,
+    - **b)** uchyla się ust. 1d,
+    - **c)** ust. 1g otrzymuje brzmienie: „1g. Podatnicy korzystający z odliczenia darowizn, o którym mowa w ust.
+    - **d)** po ust. 1h dodaje się ust. 1i w brzmieniu: „1i. Przepisy ust. 1e, 1f i 1h stosuje się odpowiednio do podatników otrzymujących darowizny, które podlegają odliczeniu na podstawie odrębnych ustaw.”;
+
+- **3)** w art. 26:
+    - **a)** w ust. 3 zdanie drugie otrzymuje brzmienie: „Płatnicy są obowiązani przesłać urzędowi skarbowemu deklarację o pobranym podatku, sporządzoną według ustalonego wzoru, a podatnikom, o których mowa w:
+
+- **1)** art. 3 ust. 1 - informację o wysokości pobranego podatku,
+- **2)** art. 3 ust. 2, oraz urzędowi skarbowemu - informację o dokonanych wypłatach i pobranym podatku - sporządzone według ustalonego wzoru.”, 3 pkt 1, płatnicy są obowiązani przesłać w terminie przekazania kwoty pobranego podatku, a informację, o której mowa w ust. 3 pkt 2, w terminie do końca trzeciego miesiąca roku następującego po roku podatkowym, w którym dokonano wypłat, o których mowa w ust. 1, również wówczas, gdy płatnik w roku podatkowym sporządzał i przekazywał informacje w trybie przewidzianym w ust. 3b.
+    - **b)** ust. 3a-3d otrzymują brzmienie: „3a. Deklarację, o której mowa w ust. 3, i informację, o której mowa w ust.
+
+3b. Na pisemny wniosek podatnika, o którym mowa w art. 3 ust. 2, płatnik, w terminie 14 dni od dnia złożenia tego wniosku, jest obowiązany do sporządzenia i przesłania podatnikowi oraz urzędowi skarbowemu, którym kieruje naczelnik właściwy w sprawach opodatkowania osób zagranicznych, informacji, o której mowa w ust. 3 pkt 2.
+
+3c. W razie zaprzestania przez płatnika prowadzenia działalności przed upływem terminu, o którym mowa w ust. 3a, płatnik przekazuje informację, o której mowa w ust. 3 pkt 2, w terminie do dnia zaprzestania działalności.
+
+3d. Informację, o której mowa w ust. 3 pkt 2, sporządzają i przekazują również podmioty, które dokonują wypłat należnoś ci z tytułów wymienionych w art. 21 ust. 1 oraz art. 22 ust. 2, gdy na podstawie umowy o unikaniu podwójnego opodatkowania lub ustawy nie są obowiązane do poboru podatku. Przepisy ust. 3b i 3c stosuje się odpowiednio.”;
+
+- **4)** w art. 27 dodaje się ust. 3 i 4 w brzmieniu: „3. Podatnicy, którym właściwy organ podatkowy, na podstawie przepisów Ordynacji podatkowej, wydał decyzję o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, dołączają do zeznania sprawozdanie o realizacji uznanej metody ustalania ceny transakcyjnej.
+
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 3, w celu usprawnienia weryfikacji stosowania metody określonej w decyzji o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, uwzględniający w szczególności dane identyfikujące podmioty powiązane, wielkość sprzedaży uzyskanej przy zastosowaniu uznanej metody ustalania ceny transakcyjnej, ceny stosowane w transakcjach z podmiotami powiązanymi oraz okres stosowania metody.”;
+
+- **5)** w załączniku nr 4:
+    - **a)** tytuł kolumny drugiej otrzymuje brzmienie: „Państwo”,
+    - **b)** dodaje się lp. 25 w brzmieniu: 25 Konfederacja Szwajcar- spółki utworzone według prawa szwajcarskiego, ska ślane jako: „société anonyme”/”Aktiengesellschaft”/”societá nima”, „société á responsibilité limitée”/”Gesellschaft beschränkter Haftung”/”societá a responsibilitá ta”, „société en commandite par actions”/”Kommanditaktiengesellschaft”/ „societá in accomandita per azioni”
+
+- **6)** w załączniku nr 5:
+    - **a)** tytuł kolumny drugiej otrzymuje brzmienie: „Państwo”,
+    - **b)** dodaje się lp. 25 w brzmieniu: 25 Konfederacja Szwajcar- spółki utworzone według prawa szwajcarskiego, ska ślane jako: „société anonyme”/”Aktiengesellschaft”/”societá nima”, „société á responsibilité limitée”/”Gesellschaft beschränkter Haftung”/”societá a responsibilitá ta”, „société en commandite par actions”/”Kommanditaktiengesellschaft”/ „societá in accomandita per azioni”
 
 **Art. 8.** W ustawie z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2005 r. Nr 111, poz. 937 i Nr 132, poz. 1108) w art. 160 w ust. 1b w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) organom podatkowym w zakresie i na zasadach określonych w ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199).”.
 
 **Art. 9.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. Nr 137, poz. 887, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z poźn. zm. ) po art. 21 dodaje się art. 21a w brzmieniu: stawie przepisów ustawy - Ordynacja podatkowa, decyzji o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, w zakresie określonym w tej decyzji stosuje się metodę w niej wskazaną. 2. Podatnicy, którym właściwy organ podatkowy, na podstawie przepisów ustawy - Ordynacja podatkowa, wydał decyzję o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, dołączają do zeznania sprawozdanie o realizacji uznanej metody ustalania ceny transakcyjnej. 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 2, w celu usprawnienia weryfikacji stosowania metody określonej w decyzji o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, uwzględniający w szczególności dane identyfikujące podmioty powiązane, wielkość sprzedaży uzyskanej przy zastosowaniu uznanej metody ustalania ceny transakcyjnej, ceny stosowane w transakcjach z podmiotami powiązanymi oraz okres stosowania metody.”.
+- **1)** w art. 26 w ust. 3a pkt 3 otrzymuje brzmienie: „3) nieruchomość stanowiąca przedmiot współwłasności łącznej wspólników spółki cywilnej lub część ułamkowa nieruchomości stanowiąca udział wspólników spółki cywilnej - w przypadku gdy dłużnikiem jest spółka;”;
+- **2)** art. 31 otrzymuje brzmienie: „Art. 31. Do należności z tytułu składek stosuje się odpowiednio: art. 12, art. 26, art. 29 § 1 i 2, art. 33, art. 33a, art. 33b, art. 51 § 1, art. 55, art. 59 § 1 pkt 1, 3, 4, 8 i 9, art. 60 § 1, art. 61 § 1, art. 62 § 1, 3 - 5, art. 72 § 1 pkt 1 i 4 i § 2, art. 73 § 1 pkt 1 i 5, art. 77b § 1 i 2, art. 91, art. 93, art. 93a-93c, art. 93e, art. 94, art. 97 § 1, art. 98 § 1 i 2 pkt 1, 2, 5 i 7, art. 100, art. 101, art. 105 § 1 i 2, art. 106 § 1 i 2, art. 107 § 1, 1a, i 2 pkt 2 i 4, art. 108 § 1 i 4, art. 110 § 1, § 2 pkt 2, § 3, art. 111 § 1-4 i 5 pkt 1, art. 112, art. 113, art. 114, art. 115, art. 116, art. 116a, art. 117, art. 118 § 1 i 2 oraz art. 119 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa.”.
+
+**Art. 10.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z poźn. zm. ) po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. 1. W przypadku wydania przez właściwy organ podatkowy, na podstawie przepisów ustawy - Ordynacja podatkowa, decyzji o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, w zakresie określonym w tej decyzji stosuje się metodę w niej wskazaną. 2. Podatnicy, którym właściwy organ podatkowy, na podstawie przepisów ustawy - Ordynacja podatkowa, wydał decyzję o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, dołączają do zeznania sprawozdanie o realizacji uznanej metody ustalania ceny transakcyjnej. 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 2, w celu usprawnienia weryfikacji stosowania metody określonej w decyzji o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi, uwzględniający w szczególności dane identyfikujące podmioty powiązane, wielkość sprzedaży uzyskanej przy zastosowaniu uznanej metody ustalania ceny transakcyjnej, ceny stosowane w transakcjach z podmiotami powiązanymi oraz okres stosowania metody.”.
 
 **Art. 11.** W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz.U. z 1999 r. Nr 83, poz. 930, z późn. zm. ) po art. 16 dodaje się art. 16a w brzmieniu: „Art. 16a. Nie podlega karze za przestępstwo skarbowe lub wykroczenie skarbowe, kto złożył prawnie skuteczną, w rozumieniu przepisów ustawy - Ordynacja podatkowa, korektę deklaracji podatkowej wraz z uzasadnieniem przyczyny korekty i w całości uiścił, niezwłocznie lub w terminie wyznaczonym przez uprawniony organ, należność publicznoprawną uszczuploną lub narażoną na uszczuplenie.”.
 
 **Art. 12.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2005 r. Nr 41, poz. 399) w art. 10:
 
+- **1)** ust. 1 otrzymuje brzmienie: „1. Podatnicy są obowiązani, bez wezwania organu podatkowego, złożyć deklarację w sprawie podatku od czynności cywilnoprawnych, według ustalonego wzoru, oraz obliczyć i wpłacić podatek w terminie 14 dni od dnia powstania obowiązku podatkowego, z wyłączeniem przypadków, gdy podatek jest pobierany przez płatnika.”;
+- **2)** ust. 3a-4 otrzymują brzmienie: „3a. Płatnicy są obowiązani:
+- **1)** założyć i prowadzić na każdy rok podatkowy osobny rejestr podatku;
+- **2)** wpłacić pobrany podatek na rachunek organu podatkowego właściwego ze względu na siedzibę płatnika, w terminie do 7. dnia miesiąca następującego po miesiącu, w którym pobrano podatek, a także przekazać w tym terminie deklarację o wysokości pobranego i wpłaconego podatku przez płatnika według ustalonego wzoru.
+
+3b. Notariusze, jako płatnicy podatku, są obowiązani do przekazywania w terminie, o którym mowa w ust. 3a pkt 2, organowi podatkowemu właściwemu ze względu na siedzibę płatnika odpisów sporządzanych aktów notarialnych dotyczących czynności cywilnoprawnych stanowiących przedmiot opodatkowania oraz kopii rejestrów podatku.
+
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** wzory deklaracji, o których mowa w ust. 1 i ust. 3a pkt 2, oraz szczegółowy zakres zawartych w nich danych, w szczególności:
+    - **a)** w deklaracji, o której mowa w ust. 1 - datę i miejsce dokonania czynności, imię i nazwisko albo nazwę lub firmę strony czynności cywilnoprawnej, numer identyfikacji podatkowej oraz miejsce zamieszkania (siedzibę) strony czynności cywilnoprawnej, zwięzłe określenie treści i przedmiotu czynności, miejsce jego położenia lub wykonywania praw majątkowych, podstawę opodatkowania, odliczenia od podstawy opodatkowania, stawkę podatku, kwotę należnego podatku,
+    - **b)** w deklaracji, o której mowa w ust. 3a pkt 2 - rodzaj płatnika, imię i nazwisko płatnika albo nazwę lub firmę, adres miejsca zamieszkania albo siedziby, numer identyfikacji podatkowej, kwotę podatku pobranego w danym miesiącu, kwotę potrąconego wynagrodzenia z tytułu poboru podatku oraz kwotę podatku wpłaconego naczelnikowi urz ędu skarbowego i datę sporządzenia deklaracji;
+
+- **2)** szczegółowy sposób zapłaty, pobierania i zwrotu podatku, w tym czynności związane z poborem podatku i sposób udzielania przez płatnika pouczeń stronom czynności cywilnoprawnej oraz treść rejestrów podatku - uwzględniając konieczność uproszczenia postępowania podatkowego oraz zmniejszenia kosztów jego prowadzenia, jak również prawidłowy sposób poboru podatku przez płatników.”.
+
 **Art. 13.** W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz. U. z 2004 r. Nr 253, poz. 2532, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 skreśla się oznaczenie ust. 1 i uchyla się ust. 2;
+- **2)** tytuł rozdziału 4 otrzymuje brzmienie: „Zapłata i zwrot opłaty skarbowej”;
+- **3)** art. 11 otrzymuje brzmienie: „Art. 11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób zapłaty i zwrotu opłaty skarbowej przez wskazanie:
+- **1)** szczegółowego sposobu zapłaty i zwrotu opłaty skarbowej;
+- **2)** przypadków, w których zapłata opłaty skarbowej następuje znakami tej opłaty lub przez użycie urzędowego blankietu wekslowego;
+- **3)** wzorów znaków opłaty skarbowej oraz urzędowych blankietów wekslowych, a także warunków ich wymiany - uwzględniając konieczność uproszczenia postępowania podatkowego oraz zmniejszenia kosztów jego prowadzenia.”;
+- **4)** w art. 13 w ust. 2 w pkt 2 uchyla się lit. a.
 
 **Art. 14.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. Nr 200, poz. 1682 i Nr 216, poz. 1826) w art. 6 dodaje się ust. 10-12 w brzmieniu: „10. Rada gminy może określić, w drodze uchwały, warunki i tryb składania informacji o lasach oraz deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej, w szczególności:
 
+- **1)** ich format elektroniczny,
+- **2)** sposób ich przesyłania za pomocą środków komunikacji elektronicznej,
+- **3)** rodzaje podpisu elektronicznego, którym powinny być opatrzone.
+
+11. Rada gminy w uchwale, o której mowa w ust. 10, uwzględnia w szczególności:
+
+- **1)** zakres danych zawartych we wzorach określonych uchwałą rady gminy w sprawie wzorów informacji o lasach i deklaracji na podatek leśny oraz konieczność ich opatrzenia podpisem elektronicznym;
+- **2)** potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w informacjach o lasach i deklaracjach na podatek leśny oraz potrzebę ich ochrony przed nieuprawnionym dostępem;
+- **3)** limity wysokości zobowiązania podatkowego, kwoty nadpłaty lub zwrotu podatku wynikające z deklaracji na podatek leśny, a także wymagania dla poszczególnych rodzajów podpisu elektronicznego określone w przepisach o podpisie elektronicznym, w szczególności dotyczące weryfikacji podpisu elektronicznego i znakowania czasem.
+
+12. Organ podatkowy lub jednostka informatyczna obsługi administracji podatkowej poświadcza, w formie elektronicznej, złożenie informacji o lasach i deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej.”.
+
 **Art. 15.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. Nr 228, poz. 2255, z późn. zm. ) w art. 25a:
+
+- **1)** ust. 4 i 5 otrzymują brzmienie: „4. W celu weryfikacji oświadczeń organ właściwy występuje, do dnia 30 czerwca każdego roku, do naczelnika urzędu skarbowego o przekazanie informacji dotyczących dochodów osób otrzymujących świadczenia rodzinne, w zakresie określonym w zaświadczeniu, o którym mowa w art. 23 ust. 4 pkt 1.
+
+5. Naczelnik urzędu skarbowego przekazuje informacje nie później niż do dnia 31 lipca danego roku.”;
+
+- **2)** uchyla się ust. 6.
 
 **Art. 16.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535 oraz z 2005 r. Nr 14, poz. 113 i Nr 90, poz. 756) wprowadza się następujące zmiany:
 
-**Art. 17.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807 i Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289 i Nr 94, poz. 788) w art. 83 w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: właściwy organ wydał decyzję o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi - w zakresie związanym z wykonaniem tej decyzji.”.
+- **1)** w art. 32 dodaje się ust. 5 w brzmieniu: „5. Przepisy ust. 1-4 nie mają zastosowania w przypadku transakcji zawieranych pomiędzy podmiotami powiązanymi, w odniesieniu do których właściwy organ podatkowy, na podstawie ustawy - Ordynacja podatkowa, wydał decyzję o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi.”,
+- **2)** w art. 99 uchyla się ust. 16;
+- **3)** w art. 102 uchyla się ust. 2;
+- **4)** w art. 114 uchyla się ust. 6.
+
+**Art. 17.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807 i Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289 i Nr 94, poz. 788) w art. 83 w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) kontrola dotyczy podmiotów, którym na mocy odrębnych przepisów właściwy organ wydał decyzję o uznaniu prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej między podmiotami powiązanymi - w zakresie związanym z wykonaniem tej decyzji.”.
 
 **Art. 18.**
 
@@ -417,7 +852,16 @@ source: "isap-pdf"
 
 **Art. 26.**
 
-§ 1. Do dnia określenia szczegółowych warunków udzielania ulg w spłacie zobowiązań podatkowych, w przypadkach wymienionych w art. 67b § 1 pkt 3 lit. e-l ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, odpowiednio dla danego przeznaczenia, nie stosuje się art. 67a tej ustawy, a wnioski o udzielenie ulg w spłacie zobowiązań podatkowych podlegają rozpatrzeniu odpowiednio na podstawie art. 48 § 1 pkt 1 i 2 oraz art. 67 ustawy wymienionej w art. 1 w brzmieniu obowiązującym do dnia 31 sierpnia 2005 r. darczą w sektorze transportu, w zakresie tej działalności, nie stosuje się art. 67a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, a wnioski o udzielenie ulg w spłacie zobowiązań podatkowych podlegają rozpatrzeniu odpowiednio na podstawie art. 48 § 1 pkt 1 i 2 oraz art. 67 ustawy wymienionej w art. 1 w brzmieniu obowiązującym do dnia 31 sierpnia 2005 r.
+§ 1. Do dnia określenia szczegółowych warunków udzielania ulg w spłacie zobowiązań podatkowych, w przypadkach wymienionych w art. 67b § 1 pkt 3 lit. e-l ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, odpowiednio dla danego przeznaczenia, nie stosuje się art. 67a tej ustawy, a wnioski o udzielenie ulg w spłacie zobowiązań podatkowych podlegają rozpatrzeniu odpowiednio na podstawie art. 48 § 1 pkt 1 i 2 oraz art. 67 ustawy wymienionej w art. 1 w brzmieniu obowiązującym do dnia 31 sierpnia 2005 r.
+
+§ 2. Do dnia 1 maja 2007 r. wobec podatników prowadzących działalność gospodarczą w sektorze transportu, w zakresie tej działalności, nie stosuje się art. 67a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, a wnioski o udzielenie ulg w spłacie zobowiązań podatkowych podlegają rozpatrzeniu odpowiednio na podstawie art. 48 § 1 pkt 1 i 2 oraz art. 67 ustawy wymienionej w art. 1 w brzmieniu obowiązującym do dnia 31 sierpnia 2005 r.
 
 **Art. 27.** Ustawa wchodzi w życie z dniem 1 września 2005 r., z wyjątkiem:
+
+- **1)** art. 1 pkt 71, pkt 105, pkt 107, pkt 112, pkt 113 oraz pkt 114, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 7 pkt 5 i 6, które wchodzą w życie z dniem ogłoszenia i mają zastosowanie do przychodów (dochodów) uzyskanych od dnia 1 lipca 2005 r.;
+- **3)** art. 1 pkt 1, pkt 5 w zakresie dodawanego pkt 3, pkt 8, pkt 30, pkt 94, pkt 96 lit. b, pkt 106, pkt 108, pkt 109 lit. b i pkt 110, art. 6, art. 7 pkt 1-4, art. 10, art. 16 pkt 1 oraz art. 17, które wchodzą w życie z dniem 1 stycznia 2006 r.;
+- **4)** art. 1 pkt 2-4, pkt 29, pkt 63, pkt 65-69, pkt 72 lit. a i pkt 73, art. 3, art. 4, art. 5, art. 12, art. 13, art. 14 oraz art. 16 pkt 2-4, które wchodzą w życie z dniem 16 sierpnia 2006 r.;
+- **5)** art. 1 pkt 5 w zakresie dodawanego pkt 5, pkt 49 lit. a, b i d oraz art. 18, które wchodzą w życie z dniem 1 stycznia 2007 r.
+
 

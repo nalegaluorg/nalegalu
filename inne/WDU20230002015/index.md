@@ -8,12 +8,10 @@ pos: 2015
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -41,7 +39,16 @@ Art. 40–47. (pominięte)
 
 **Art. 1.** Ustawa określa zasady i tryb:
 
+- **1)** przyznawania i wypłaty:
+    - **a)** jednorazowego odszkodowania przysługującego w razie wypadku pozostającego w związku ze służbą, zwanego dalej „wypadkiem”, lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby, zwanej dalej „chorobą”,
+    - **b)** odszkodowania za przedmioty osobistego użytku utracone, zniszczone lub uszkodzone wskutek wypadku – zwanych dalej „świadczeniami odszkodowawczymi”;
+
+- **2)** ustalania okoliczności i przyczyn wypadku oraz związku choroby ze szczególnymi warunkami lub właściwościami służby.
+
 **Art. 2.** Świadczenia odszkodowawcze przysługują:
+
+- **1)** funkcjonariuszowi Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Celno-Skarbowej, zwanemu dalej „funkcjonariuszem”, który doznał stałego lub długotrwałego uszczerbku na zdrowiu wskutek wypadku albo choroby;
+- **2)** członkom rodziny funkcjonariusza, który zmarł wskutek wypadku albo choroby.
 
 **Art. 3.**
 
@@ -69,7 +76,7 @@ Art. 40–47. (pominięte)
 
 **Art. 5.** Ilekroć w ustawie jest mowa o „kierowniku jednostki organizacyjnej”, należy przez to rozumieć kierownika jednostki organizacyjnej, w której funkcjonariusz pełnił służbę w chwili wypadku lub ustalenia uszczerbku na zdrowiu doznanego wskutek choroby.
 
-**Art. 6.** Do postępowań w sprawie przyznania świadczeń odszkodowawczych, w zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+**Art. 6.** Do postępowań w sprawie przyznania świadczeń odszkodowawczych, w zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 #### Rozdział 2 Zasady przyznawania świadczeń odszkodowawczych
 
@@ -85,7 +92,15 @@ Art. 40–47. (pominięte)
 
 **Art. 8.** W razie śmierci funkcjonariusza wskutek wypadku lub choroby świadczenia odszkodowawcze przysługują członkom jego rodziny:
 
+- **1)** małżonkowi, z wyjątkiem przypadku orzeczonej separacji,
+- **2)** dzieciom własnym, dzieciom drugiego małżonka, dzieciom przysposobionym oraz przyjętym na wychowanie i utrzymanie przed osiągnięciem pełnoletności, w tym również w ramach rodziny zastępczej, wnukom, rodzeństwu i innym dzieciom, jeżeli w dniu śmierci funkcjonariusza spełniali warunki wymagane do uzyskania renty rodzinnej,
+- **3)** rodzicom, osobom przysposabiającym, macosze i ojczymowi, jeżeli w dniu śmierci funkcjonariusza prowadzili z nim wspólne gospodarstwo domowe lub jeżeli funkcjonariusz bezpośrednio przed śmiercią znacząco przyczyniał się do ich utrzymania albo jeżeli ustalone zostało wyrokiem lub ugodą sądową prawo do alimentów ze strony tego funkcjonariusza – zwanym dalej „uprawnionymi członkami rodziny”.
+
 **Art. 9.** Jednorazowe odszkodowanie przysługuje, jeżeli funkcjonariusz albo funkcjonariusz zwolniony ze służby:
+
+- **1)** doznał uszczerbku na zdrowiu lub zmarł wskutek wypadku w ciągu 3 lat od dnia wypadku;
+- **2)** doznał uszczerbku na zdrowiu wskutek choroby nie później niż w ciągu 3 lat od dnia zwolnienia ze służby;
+- **3)** zmarł wskutek choroby w ciągu 3 lat od dnia ustalenia uszczerbku na zdrowiu wskutek tej choroby, nie później jednak niż w ciągu 3 lat od dnia zwolnienia ze służby.
 
 **Art. 10.** Podstawę obliczenia wysokości jednorazowego odszkodowania stanowi przeciętne miesięczne wynagrodzenie w gospodarce narodowej w poprzednim roku, ogłaszane do celów emerytalnych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego, stosowane poczynając od drugiego kwartału każdego roku, przez jeden rok, zwane dalej „przeciętnym wynagrodzeniem”.
 
@@ -108,8 +123,8 @@ Art. 40–47. (pominięte)
 
 2. Jeżeli do jednorazowego odszkodowania są uprawnieni równocześnie:
 
-- **1)** małżonek i jedno lub więcej dzieci odszkodowanie przysługuje w wysokości ustalonej w ust. 1 pkt 1, zwiększonej o 3,5-krotne przeciętne wynagrodzenie na każde dziecko;
-- **2)** dwoje lub więcej dzieci odszkodowanie przysługuje w wysokości określonej w ust. 1 pkt 1, zwiększonej o 3,5-krotne przeciętne wynagrodzenie na drugie i każde następne dziecko.
+- **1)** małżonek i jedno lub więcej dzieci – odszkodowanie przysługuje w wysokości ustalonej w ust. 1 pkt 1, zwiększonej o 3,5-krotne przeciętne wynagrodzenie na każde dziecko;
+- **2)** dwoje lub więcej dzieci – odszkodowanie przysługuje w wysokości określonej w ust. 1 pkt 1, zwiększonej o 3,5-krotne przeciętne wynagrodzenie na drugie i każde następne dziecko.
 
 3. Jeżeli oprócz małżonka lub dzieci do jednorazowego odszkodowania są uprawnieni równocześnie inni członkowie rodziny, każdemu z nich odszkodowanie przysługuje w wysokości 3,5-krotnego przeciętnego wynagrodzenia, niezależnie od odszkodowania przysługującego małżonkowi lub dzieciom zgodnie z ust. 1 pkt 1 lub ust. 2.
 
@@ -131,13 +146,13 @@ Art. 40–47. (pominięte)
 
 - **1)** podwyższyć jednorazowe odszkodowanie funkcjonariuszowi albo uprawnionemu członkowi rodziny, nie więcej jednak niż o 100% wysokości odszkodowania ustalonej na podstawie art. 11 i art. 12;
 - **2)** przyznać jednorazowe odszkodowanie:
-    - **a)** członkowi rodziny zmarłego funkcjonariusza niespełniającemu warunków wymaganych do uzyskania renty rodzinnej do wysokości określonej w art. 12,
-    - **b)** uprawnionemu członkowi rodziny funkcjonariusza zaginionego w czasie pełnienia służby w wysokości określonej w art. 12,
-    - **c)** uprawnionemu członkowi rodziny funkcjonariusza zmarłego wskutek przestępstwa, jeżeli zachodzi uzasadnione przypuszczenie, że jego śmierć pozostaje w związku ze służbą do wysokości określonej w art. 12.
+    - **a)** członkowi rodziny zmarłego funkcjonariusza niespełniającemu warunków wymaganych do uzyskania renty rodzinnej – do wysokości określonej w art. 12,
+    - **b)** uprawnionemu członkowi rodziny funkcjonariusza zaginionego w czasie pełnienia służby – w wysokości określonej w art. 12,
+    - **c)** uprawnionemu członkowi rodziny funkcjonariusza zmarłego wskutek przestępstwa, jeżeli zachodzi uzasadnione przypuszczenie, że jego śmierć pozostaje w związku ze służbą – do wysokości określonej w art. 12.
 
 2. Osobie, o której mowa w ust. 1 pkt 2 lit. a, można przyznać jednorazowe odszkodowanie wyłącznie w przypadku braku uprawnionych członków rodziny.
 
-**Art. 15.** Funkcjonariuszowi, który doznał uszczerbku na zdrowiu wskutek wypadku określonego w art. 3, a w razie jego śmierci wskutek takiego wypadku uprawnionym członkom rodziny przysługuje odszkodowanie za udowodnione szkody poniesione wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem przedmiotów osobistego użytku.
+**Art. 15.** Funkcjonariuszowi, który doznał uszczerbku na zdrowiu wskutek wypadku określonego w art. 3, a w razie jego śmierci wskutek takiego wypadku – uprawnionym członkom rodziny przysługuje odszkodowanie za udowodnione szkody poniesione wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem przedmiotów osobistego użytku.
 
 **Art. 16.**
 
@@ -153,10 +168,10 @@ Art. 40–47. (pominięte)
 
 2. Jeżeli wypadkowi uległ:
 
-- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego zawiadamia się Prezesa Rady Ministrów;
-- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej lub Komendant Służby Ochrony Państwa zawiadamia się ministra właściwego do spraw wewnętrznych;
-- **3)** Szef Krajowej Administracji Skarbowej zawiadamia się ministra właściwego do spraw finansów publicznych;
-- **4)** Komendant Straży Marszałkowskiej zawiadamia się Szefa Kancelarii Sejmu.
+- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego – zawiadamia się Prezesa Rady Ministrów;
+- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej lub Komendant Służby Ochrony Państwa – zawiadamia się ministra właściwego do spraw wewnętrznych;
+- **3)** Szef Krajowej Administracji Skarbowej – zawiadamia się ministra właściwego do spraw finansów publicznych;
+- **4)** Komendant Straży Marszałkowskiej – zawiadamia się Szefa Kancelarii Sejmu.
 
 3. Bezpośredni przełożony funkcjonariusza, który uległ wypadkowi, niezwłocznie zawiadamia o tym kierownika jednostki organizacyjnej.
 
@@ -179,10 +194,10 @@ Art. 40–47. (pominięte)
 
 7. W rozumieniu przepisów niniejszego rozdziału zadania kierownika jednostki organizacyjnej wykonuje w odniesieniu do:
 
-- **1)** Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu lub Szefa Centralnego Biura Antykorupcyjnego Prezes Rady Ministrów;
-- **2)** Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej lub Komendanta Służby Ochrony Państwa minister właściwy do spraw wewnętrznych;
-- **3)** Szefa Krajowej Administracji Skarbowej minister właściwy do spraw finansów publicznych;
-- **4)** Komendanta Straży Marszałkowskiej Szef Kancelarii Sejmu.
+- **1)** Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu lub Szefa Centralnego Biura Antykorupcyjnego – Prezes Rady Ministrów;
+- **2)** Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej lub Komendanta Służby Ochrony Państwa – minister właściwy do spraw wewnętrznych;
+- **3)** Szefa Krajowej Administracji Skarbowej – minister właściwy do spraw finansów publicznych;
+- **4)** Komendanta Straży Marszałkowskiej – Szef Kancelarii Sejmu.
 
 **Art. 18.** Funkcjonariusza, który uległ wypadkowi, kierownik jednostki organizacyjnej lub inny przełożony niezwłocznie kieruje na badanie niezbędne do ustalenia zawartości w organizmie alkoholu, środków odurzających, substancji psychotropowych lub innych substancji o podobnym działaniu, jeżeli zachodzi uzasadnione przypuszczenie wystąpienia okoliczności, o których mowa w art. 7 ust. 1 pkt 2, chyba że stan jego zdrowia albo okoliczności wypadku nie uzasadniają przeprowadzenia takiego badania.
 
@@ -190,8 +205,8 @@ Art. 40–47. (pominięte)
 
 1. Kierownik jednostki organizacyjnej powołuje komisję powypadkową, w której skład wchodzą co najmniej:
 
-- **1)** jako przewodniczący przedstawiciel służby właściwej do spraw bezpieczeństwa i higieny służby i pracy w jednostce organizacyjnej;
-- **2)** jako członek przedstawiciel służby właściwy do oceny okoliczności i przyczyn wypadku lub inna osoba wskazana przez powołującego komisję powypadkową.
+- **1)** jako przewodniczący – przedstawiciel służby właściwej do spraw bezpieczeństwa i higieny służby i pracy w jednostce organizacyjnej;
+- **2)** jako członek – przedstawiciel służby właściwy do oceny okoliczności i przyczyn wypadku lub inna osoba wskazana przez powołującego komisję powypadkową.
 
 2. Jeżeli w jednostce organizacyjnej nie utworzono służby właściwej do spraw bezpieczeństwa i higieny służby i pracy, w skład komisji powypadkowej wchodzi osoba, której kierownik jednostki organizacyjnej powierzył wykonywanie zadań w zakresie bezpieczeństwa i higieny służby i pracy.
 
@@ -199,10 +214,10 @@ Art. 40–47. (pominięte)
 
 4. Jeżeli wypadkowi uległ:
 
-- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego komisję powypadkową powołuje Prezes Rady Ministrów;
-- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej lub Komendant Służby Ochrony Państwa komisję powypadkową powołuje minister właściwy do spraw wewnętrznych;
-- **3)** Szef Krajowej Administracji Skarbowej komisję powypadkową powołuje minister właściwy do spraw finansów publicznych;
-- **4)** Komendant Straży Marszałkowskiej komisję powypadkową powołuje Szef Kancelarii Sejmu.
+- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego – komisję powypadkową powołuje Prezes Rady Ministrów;
+- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej lub Komendant Służby Ochrony Państwa – komisję powypadkową powołuje minister właściwy do spraw wewnętrznych;
+- **3)** Szef Krajowej Administracji Skarbowej – komisję powypadkową powołuje minister właściwy do spraw finansów publicznych;
+- **4)** Komendant Straży Marszałkowskiej – komisję powypadkową powołuje Szef Kancelarii Sejmu.
 
 5. Jeżeli wymaga tego ważny interes służby, w szczególności gdy postępowanie wyjaśniające mogłoby narazić niejawne dane osobowe funkcjonariusza lub czynności przez niego wykonywane na ujawnienie, komisję powypadkową powołuje odpowiednio Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Centralnego Biura Antykorupcyjnego, Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Krajowej Administracji Skarbowej, Szef Kancelarii Sejmu lub Komendant Służby Ochrony Państwa.
 
@@ -267,14 +282,14 @@ Art. 40–47. (pominięte)
 
 3. W przypadku, o którym mowa w ust. 2:
 
-- **1)** pkt 1 przepisy ust. 1 i art. 23 ust. 2 i 3 stosuje się;
-- **2)** pkt 2 kierownik jednostki organizacyjnej zatwierdza protokół powypadkowy.
+- **1)** pkt 1 – przepisy ust. 1 i art. 23 ust. 2 i 3 stosuje się;
+- **2)** pkt 2 – kierownik jednostki organizacyjnej zatwierdza protokół powypadkowy.
 
 **Art. 25.**
 
 1. Zatwierdzony protokół powypadkowy przekazuje się po jednym egzemplarzu:
 
-- **1)** funkcjonariuszowi, który uległ wypadkowi, a jeżeli funkcjonariusz ten poniósł śmierć w wypadku uprawnionym członkom rodziny, za pisemnym potwierdzeniem odbioru; przepis art. 23 ust. 3 stosuje się;
+- **1)** funkcjonariuszowi, który uległ wypadkowi, a jeżeli funkcjonariusz ten poniósł śmierć w wypadku – uprawnionym członkom rodziny, za pisemnym potwierdzeniem odbioru; przepis art. 23 ust. 3 stosuje się;
 - **2)** właściwej komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych albo komisji lekarskiej Agencji Bezpieczeństwa Wewnętrznego albo Agencji Wywiadu.
 
 2. Do akt postępowania wyjaśniającego dołącza się egzemplarz zatwierdzonego protokołu powypadkowego, uwagi i zastrzeżenia wniesione przez funkcjonariusza, który uległ wypadkowi, albo uprawnionych członków rodziny oraz zdanie odrębne, jeżeli zostało złożone przez członka komisji powypadkowej.
@@ -301,21 +316,26 @@ Art. 40–47. (pominięte)
 
 - **1)** tryb postępowania komisji powypadkowej,
 - **2)** tryb zgłaszania i rozpatrywania uwag i zastrzeżeń do ustaleń komisji powypadkowej oraz zatwierdzania tych ustaleń,
-- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego mając na względzie sprawne i terminowe prowadzenie tych postępowań.
+- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego – mając na względzie sprawne i terminowe prowadzenie tych postępowań.
 
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb ustalania okoliczności i przyczyn wypadków w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej i Służbie Ochrony Państwa, w szczególności:
 
 - **1)** tryb postępowania komisji powypadkowej,
 - **2)** tryb zgłaszania i rozpatrywania uwag i zastrzeżeń do ustaleń komisji powypadkowej oraz zatwierdzania tych ustaleń,
-- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego mając na względzie sprawne i terminowe prowadzenie tych postępowań.
+- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego – mając na względzie sprawne i terminowe prowadzenie tych postępowań.
 
 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb ustalania okoliczności i przyczyn wypadków w Służbie Celno-Skarbowej, w szczególności:
 
 - **1)** tryb postępowania komisji powypadkowej,
 - **2)** tryb zgłaszania i rozpatrywania uwag i zastrzeżeń do ustaleń komisji powypadkowej oraz zatwierdzania tych ustaleń,
-- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego mając na względzie sprawne i terminowe prowadzenie tych postępowań.
+- **3)** wzory rejestru wypadków pozostających w związku z pełnieniem służby, protokołu powypadkowego oraz innych dokumentów sporządzanych w toku postępowania wyjaśniającego – mając na względzie sprawne i terminowe prowadzenie tych postępowań.
 
 **Art. 29.** Zbiorcze zestawienie wypadków pozostających w związku z pełnieniem służby zaistniałych w danym roku kalendarzowym sporządzają:
+
+- **1)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu oraz Szef Centralnego Biura Antykorupcyjnego,
+- **2)** Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej oraz Komendant Służby Ochrony Państwa,
+- **3)** Szef Krajowej Administracji Skarbowej,
+- **4)** Szef Kancelarii Sejmu – i przekazują odpowiednio Prezesowi Rady Ministrów, ministrowi właściwemu do spraw wewnętrznych albo ministrowi właściwemu do spraw finansów publicznych w terminie do końca marca następnego roku.
 
 #### Rozdział 4 Ustalanie związku choroby ze szczególnymi warunkami lub właściwościami służby
 
@@ -346,6 +366,17 @@ Art. 40–47. (pominięte)
 #### Rozdział 6 Postępowanie w sprawie przyznania świadczeń odszkodowawczych
 
 **Art. 33.** Postępowanie w sprawie przyznania świadczeń odszkodowawczych wszczyna się:
+
+- **1)** z urzędu w przypadku:
+    - **a)** stwierdzenia w okresie pozostawania w służbie uszczerbku na zdrowiu funkcjonariusza,
+    - **b)** śmierci funkcjonariusza w okresie pozostawania w służbie wskutek wypadku lub choroby;
+
+- **2)** na wniosek funkcjonariusza albo uprawnionych członków rodziny w przypadku:
+    - **a)** stwierdzenia stałego lub długotrwałego uszczerbku na zdrowiu lub śmierci funkcjonariusza, które nastąpiły po jego zwolnieniu ze służby,
+    - **b)** pogorszenia stanu zdrowia funkcjonariusza wskutek wypadku lub choroby,
+    - **c)** stwierdzenia przez komisję lekarską, że wskutek wypadku lub choroby funkcjonariusz nie doznał stałego lub długotrwałego uszczerbku na zdrowiu albo że jego śmierć nie pozostaje w związku z wypadkiem lub chorobą,
+    - **d)** stwierdzenia przez komisję powypadkową, że wypadek funkcjonariusza nie pozostaje w związku ze służbą lub nastąpił w okolicznościach wymienionych w art. 7 ust. 1,
+    - **e)** szkody poniesionej przez funkcjonariusza wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem, o którym mowa w art. 3, przedmiotów osobistego użytku.
 
 **Art. 34.**
 
@@ -401,7 +432,16 @@ Art. 40–47. (pominięte)
 
 **Art. 35.** Prawo do jednorazowego odszkodowania ustala się na podstawie:
 
+- **1)** orzeczenia komisji lekarskiej, o której mowa w art. 31;
+- **2)** protokołu powypadkowego;
+- **3)** dokumentów potwierdzających stan cywilny lub stopień pokrewieństwa uprawnionego członka rodziny z poszkodowanym funkcjonariuszem, w szczególności wyciągów z aktów stanu cywilnego;
+- **4)** zaświadczenia właściwego organu emerytalnego stwierdzającego spełnienie przez uprawnionych członków rodziny innych niż małżonek warunków wymaganych do uzyskania renty rodzinnej po zmarłym funkcjonariuszu;
+- **5)** innych dowodów potwierdzających spełnienie warunków, o których mowa w art. 8 pkt 3.
+
 **Art. 36.** Prawo do odszkodowania za szkody poniesione wskutek utraty, zniszczenia lub uszkodzenia w związku z wypadkiem przedmiotów osobistego użytku i wysokość tego odszkodowania ustala się na podstawie:
+
+- **1)** protokołu powypadkowego;
+- **2)** innych dowodów przedstawionych przez osobę uprawnioną do odszkodowania.
 
 **Art. 37.**
 
@@ -415,13 +455,13 @@ Art. 40–47. (pominięte)
 
 **Art. 38.**
 
-1. Od decyzji, o której mowa w art. 37 ust. 1, przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych, na zasadach i w terminach określonych w przepisach ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550 i 1429).
+1. Od decyzji, o której mowa w art. 37 ust. 1, przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych, na zasadach i w terminach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550 i 1429).
 
 2. Odwołanie do sądu pracy i ubezpieczeń społecznych przysługuje także w razie niewydania decyzji w terminie 60 dni od dnia zgłoszenia wniosku o przyznanie świadczenia odszkodowawczego bądź powstania obowiązku wszczęcia postępowania z urzędu. Odwołanie można wnieść w każdym czasie po upływie tego terminu.
 
 3. Od decyzji, o której mowa w art. 37 ust. 3, przysługuje skarga do sądu administracyjnego.
 
-**Art. 39.** Świadczenia odszkodowawcze, w tym przyznane na podstawie art. 14, wypłaca jednostka organizacyjna, na której zaopatrzeniu finansowym funkcjonariusz pozostaje, albo w przypadku funkcjonariusza zwolnionego albo zmarłego, albo zaginionego jednostka, na której zaopatrzeniu pozostawał przed dniem zwolnienia albo śmierci, albo zaginięcia, w terminie 14 dni od dnia wydania decyzji.
+**Art. 39.** Świadczenia odszkodowawcze, w tym przyznane na podstawie art. 14, wypłaca jednostka organizacyjna, na której zaopatrzeniu finansowym funkcjonariusz pozostaje, albo w przypadku funkcjonariusza zwolnionego albo zmarłego, albo zaginionego – jednostka, na której zaopatrzeniu pozostawał przed dniem zwolnienia albo śmierci, albo zaginięcia, w terminie 14 dni od dnia wydania decyzji.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 

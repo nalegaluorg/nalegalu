@@ -8,7 +8,7 @@ pos: 1245
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 59/A/2016 WYROK z dnia 28 czerwca 2016 r.

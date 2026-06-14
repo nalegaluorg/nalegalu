@@ -8,10 +8,10 @@ pos: 1028
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# rewers
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11002288 WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA awers rewers
 
 | Pole | Wartość |
 |---|---|
@@ -25,52 +25,56 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1028/text.pdf) |
 
-2) elementy w promieniowaniu ultrafioletowym;
-3) w lewym górnym rogu wizerunek dla godła Rzeczypospolitej Polskiej;
-4) „RZECZPOSPOLITA
-5) „THE REPUBLIC OF POLAND”;
-SPRAW I ADMINISTRACJI”;
-7) „MINISTRY OF INTERIOR AND ADMINISTRATION”;
-8) „LEGITYMACJA WETERANA-FUNKCJONARIUSZA”;
-9) „OFFICER VETERAN’S IDENTITY CARD”;
-10) napisy „SERIA” i „NR” miejscami na serii i numeru legitymacji;
-11) „NAZWISKO SURNAME” miejscem na nazwiska;
-12) „SERIES AND NUMBER”;
-13) „IMIĘ FIRST NAME” miejscem na imienia;
-14) „NR PESEL” miejscem na numeru PESEL;
-NUMBER”.
-w technice druku irysowego elementami mikrodruku;
-2) elementy w promieniowaniu ultrafioletowym;
-3) „Organ wydający legitymację Issuing authority:”;
-4) SPRAW I ADMINISTRACJI”;
-5) OF INTERIOR AND ADMINISTRATION”;
-napisy „data wydania:” oraz „r.” miejscem na daty wydania legitymacji;
-7) „date of issue”;
-8) „Ważna tożsamości”;
-9) „Valid together with an ID Card”;
-10) w prawym rogu grawerowany laserowo w postaci oznaczenia indywidualrewers
-2) elementy w promieniowaniu ultrafioletowym;
-3) w lewym górnym rogu wizerunek dla godła Rzeczypospolitej Polskiej;
-4) „RZECZPOSPOLITA
-5) „THE REPUBLIC OF POLAND”;
-SPRAW I ADMINISTRACJI”;
-7) „MINISTRY OF INTERIOR AND ADMINISTRATION”;
-8) „LEGITYMACJA WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA”;
-9) „SUFFERED OFFICER VETERAN’S IDENTITY CARD”;
-10) napisy „SERIA” i „NR” miejscami na serii i numeru legitymacji;
-11) „NAZWISKO SURNAME” miejscem na nazwiska;
-12) „SERIES AND NUMBER”;
-13) „IMIĘ FIRST NAME” miejscem na imienia;
-14) „NR PESEL” miejscem na numeru PESEL;
-NUMBER”.
-w technice druku irysowego elementami mikrodruku;
-2) elementy w promieniowaniu ultrafioletowym;
-3) „Organ wydający legitymację Issuing authority:”;
-4) SPRAW I ADMINISTRACJI”;
-5) OF INTERIOR AND ADMINISTRATION”;
-napisy „data wydania:” oraz „r.” miejscem na daty wydania legitymacji;
-7) „date of issue”;
-8) „Ważna tożsamości”;
-9) „Valid together with an ID Card”;
-10) w prawym rogu grawerowany laserowo w postaci oznaczenia indywidual-
+1) dwukolorowe tło giloszowe, wykonane w technice druku irysowego z elementami mikrodruku;
+2) elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+3) w lewym górnym rogu wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
+4) napis „RZECZPOSPOLITA POLSKA”;
+5) napis „THE REPUBLIC OF POLAND”;
+6) napis „MINISTERSTWO SPRAW WEWNĘTRZNYCH I ADMINISTRACJI”;
+7) napis „MINISTRY OF INTERIOR AND ADMINISTRATION”;
+8) napis „LEGITYMACJA WETERANA-FUNKCJONARIUSZA”;
+9) napis „OFFICER VETERAN’S IDENTITY CARD”;
+10) napisy „SERIA” i „NR” wraz z miejscami na wpisanie serii i numeru legitymacji;
+11) napis „NAZWISKO / SURNAME” wraz z miejscem na wpisanie nazwiska;
+12) napis „SERIES AND NUMBER”;
+13) napis „IMIĘ / FIRST NAME” wraz z miejscem na wpisanie imienia;
+14) napis „NR PESEL” wraz z miejscem na wpisanie numeru PESEL;
+15) napis „PERSONAL NUMBER”.
+Rewers:
+1) dwukolorowe tło giloszowe, wykonane w technice druku irysowego z elementami mikrodruku;
+2) elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+3) napis „Organ wydający legitymację / Issuing authority:”;
+4) napis „MINISTER SPRAW WEWNĘTRZNYCH I ADMINISTRACJI”;
+5) napis „MINISTER OF INTERIOR AND ADMINISTRATION”;
+6) napisy „data wydania:” oraz „r.” wraz z miejscem na wpisanie daty wydania legitymacji;
+7) napis „date of issue”;
+8) napis „Ważna wraz z dowodem tożsamości”;
+9) napis „Valid together with an ID Card”;
+10) w prawym dolnym rogu grawerowany laserowo element w postaci oznaczenia indywidualWZÓR LEGITYMACJI WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA awers rewers
+1) dwukolorowe tło giloszowe, wykonane w technice druku irysowego z elementami mikrodruku;
+2) elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+3) w lewym górnym rogu wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
+4) napis „RZECZPOSPOLITA POLSKA”;
+5) napis „THE REPUBLIC OF POLAND”;
+6) napis „MINISTERSTWO SPRAW WEWNĘTRZNYCH I ADMINISTRACJI”;
+7) napis „MINISTRY OF INTERIOR AND ADMINISTRATION”;
+8) napis „LEGITYMACJA WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA”;
+9) napis „SUFFERED OFFICER VETERAN’S IDENTITY CARD”;
+10) napisy „SERIA” i „NR” wraz z miejscami na wpisanie serii i numeru legitymacji;
+11) napis „NAZWISKO / SURNAME” wraz z miejscem na wpisanie nazwiska;
+12) napis „SERIES AND NUMBER”;
+13) napis „IMIĘ / FIRST NAME” wraz z miejscem na wpisanie imienia;
+14) napis „NR PESEL” wraz z miejscem na wpisanie numeru PESEL;
+15) napis „PERSONAL NUMBER”.
+Rewers:
+1) dwukolorowe tło giloszowe, wykonane w technice druku irysowego z elementami mikrodruku;
+2) elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+3) napis „Organ wydający legitymację / Issuing authority:”;
+4) napis „MINISTER SPRAW WEWNĘTRZNYCH I ADMINISTRACJI”;
+5) napis „MINISTER OF INTERIOR AND ADMINISTRATION”;
+6) napisy „data wydania:” oraz „r.” wraz z miejscem na wpisanie daty wydania legitymacji;
+7) napis „date of issue”;
+8) napis „Ważna wraz z dowodem tożsamości”;
+9) napis „Valid together with an ID Card”;
+10) w prawym dolnym rogu grawerowany laserowo element w postaci oznaczenia indywidual-
 

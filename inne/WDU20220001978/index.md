@@ -8,10 +8,10 @@ pos: 1978
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 września 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1978 OBWIESZCZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 8 września 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001978) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1978/text.pdf) |
 
-OBWIESZCZENIE MINISTRA RODZINY I POLITYKI SPOŁECZNEJ z dnia 8 września 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 6 listopada 2014 r. w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości (Dz. U. poz. 1564), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 18 września 2021 r. zmieniającym rozporządzenie w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości (Dz. U. poz. 1791).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 18 września 2021 r. zmieniającego rozporządzenie w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości (Dz. U.
 poz. 1791), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.
 Minister Rodziny i Polityki Społecznej: M. Maląg ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 6 listopada 2014 r.
-w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości Na podstawie art. 8 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2021 r. poz. 1858 oraz z 2022 r. poz. 655) zarządza się, co następuje: § 1. Rozporządzenie określa miejsca odosobnienia, w których warunki pobytu nie różniły się od warunków w obozach koncentracyjnych i w których osadzone osoby pozostawały w dyspozycji hitlerowskich władz bezpieczeństwa, a także więzienia i obozy NKWD, więzienia i obozy będące pod nadzorem NKWD, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości, oraz obozy, o których mowa w art. 3 pkt 2 i w art. 4 ust. 1 pkt 1 lit. b i c oraz pkt 3 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, zwanej dalej „ustawą”.
+w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości Na podstawie art. 8 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2021 r. poz. 1858 oraz z 2022 r. poz. 655) zarządza się, co następuje:
+§ 1. Rozporządzenie określa miejsca odosobnienia, w których warunki pobytu nie różniły się od warunków w obozach koncentracyjnych i w których osadzone osoby pozostawały w dyspozycji hitlerowskich władz bezpieczeństwa, a także więzienia i obozy NKWD, więzienia i obozy będące pod nadzorem NKWD, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości, oraz obozy, o których mowa w art. 3 pkt 2 i w art. 4 ust. 1 pkt 1 lit. b i c oraz pkt 3 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, zwanej dalej „ustawą”.
 § 2. 1. Obozami koncentracyjnymi określonymi w art. 3 pkt 2 ustawy są:
 1) Arbeitsdorf;
 2) Auschwitz;
@@ -57,8 +57,8 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 22) Vaivara;
 23) Warschau (Warszawa).
 2. Podobozami obozu koncentracyjnego wymienionego w ust. 1 pkt 2 są:
-1) Auschwitz II (Birkenau Brzezinka);
-2) Auschwitz III (Monowitz Monowice);
+1) Auschwitz II (Birkenau – Brzezinka);
+2) Auschwitz III (Monowitz – Monowice);
 3) Altdorf (Stara Wieś);
 4) Althammer (Stara Kuźnia);
 5) Babitz (Babice);
@@ -127,7 +127,7 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 16) Baubrigade IV;
 17) Baubrigade V;
 18) Baubrigade VI;
-19) Baubrigade V West;
+19) Baubrigade V – West;
 20) Bensberg bei Köln;
 21) Berga/Elster;
 22) Berlin;
@@ -395,7 +395,7 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 44) Mittweida;
 45) Mockethal;
 46) Moschendorf;
-47) Mülsen St. Micheln;
+47) Mülsen – St. Micheln;
 48) Münchberg;
 49) Neu Rohlau (Nová Role);
 50) Nossen;
@@ -619,7 +619,7 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 4) Baubrigade I;
 5) Baubrigade III;
 6) Baubrigade IV;
-7) Baubrigade V West;
+7) Baubrigade V – West;
 8) Baubrigade VI;
 9) Blankenburg;
 10) Groβwerther;
@@ -652,7 +652,7 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 12) Dormettingen;
 13) Echterdingen;
 14) Ellwangen;
-15 ) Erzingen;
+15) Erzingen;
 16) Frankfurt/Main;
 17) Frommern;
 18) Geisenheim;
@@ -701,7 +701,7 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 5) Baubrigade 11;
 6) Baubrigade I;
 7) Baubrigade II;
-8) Baubrigade V West;
+8) Baubrigade V – West;
 9) Beendorf;
 10) Blumenthal;
 11) Boizenburg;
@@ -885,7 +885,7 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 29) Thorn I (Toruń);
 30) Thorn II;
 31) Zeyerniederkampen (Kępiny Wielkie).
-§ 3. Obozami określonymi w art. 3 pkt 2 i art. 4 ust. 1 pkt 3 lit. a ustawy są poprawcze obozy pracy i poprawcze kolonie pracy podległe Głównemu Zarządowi Obozów i Kolonii Poprawczych NKWD, a od marca 1946 r. MWD ZSRR:
+§ 3. Obozami określonymi w art. 3 pkt 2 i art. 4 ust. 1 pkt 3 lit. a ustawy są poprawcze obozy pracy i poprawcze kolonie pracy podległe Głównemu Zarządowi Obozów i Kolonii Poprawczych NKWD, a od marca 1946 r. – MWD ZSRR:
 1) Achtubiński ITŁ;
 2) Achunłag;
 3) Aktiubiński ITŁ;
@@ -1369,11 +1369,11 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 29) Grudziądz;
 30) Hrubieszów;
 31) Iława;
-32) Inowrocław Mątwy;
+32) Inowrocław – Mątwy;
 33) Inta;
 34) Jaworzno;
-35) Katowice Ligota;
-36) Katowice Załęska Hałda;
+35) Katowice – Ligota;
+36) Katowice – Załęska Hałda;
 37) Kędzierzyn;
 38) Kętrzyn;
 39) Kijany;
@@ -1389,7 +1389,7 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 49) Kutno;
 50) Lędziny;
 51) Lubań;
-52) Lublin Majdanek;
+52) Lublin – Majdanek;
 53) Łabędy;
 54) Łagiewniki;
 55) Łuków;
@@ -1422,7 +1422,7 @@ w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości pols
 82) Skrobów;
 83) Sokołów Podlaski;
 84) Sokółka;
-85) Sosnowiec Radocha;
+85) Sosnowiec – Radocha;
 86) Stalino;
 87) Stalinogorsk;
 88) Strzelce Opolskie;

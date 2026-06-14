@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze*
 
 Łącznie: **281** orzeczeń
-(pominięto 404 orzeczeń sądów rejonowych)
+(pominięto 411 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 

@@ -8,7 +8,7 @@ pos: 1673
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych
@@ -33,7 +33,28 @@ Art. 38–45. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** rodzaje świadczeń z tytułu wypadków przy pracy i chorób zawodowych oraz warunki nabywania prawa do tych świadczeń;
+- **2)** zasady i tryb przyznawania świadczeń, ustalania ich wysokości oraz zasady ich wypłaty;
+- **3)** zasady różnicowania stopy procentowej składki na ubezpieczenie społeczne z tytułu wypadków przy pracy i chorób zawodowych w zależności od zagrożeń zawodowych i ich skutków;
+- **4)** zasady finansowania prewencji wypadkowej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** „fundusz wypadkowy” – fundusz wyodrębniony w ramach Funduszu Ubezpieczeń Społecznych, o którym mowa w przepisach ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), zwanych dalej „przepisami o systemie ubezpieczeń społecznych”;
+- **2)** „lekarz orzecznik” – lekarza orzecznika Zakładu Ubezpieczeń Społecznych; [2a) „komisja lekarska” – komisję lekarską Zakładu Ubezpieczeń Społecznych;]
+- **3)** „okres ubezpieczenia wypadkowego” – okres podlegania ubezpieczeniu wypadkowemu, a także okres podlegania ubezpieczeniu społecznemu lub zaopatrzeniu emerytalnemu przed dniem 1 stycznia 1999 r.;
+- **4)** „płatnik składek” – płatnika składek na ubezpieczenie wypadkowe w rozumieniu przepisów o systemie ubezpieczeń społecznych;
+- **4a)** „projekt” – działania inwestycyjne lub inwestycyjno-doradcze skierowane na utrzymanie zdolności do pracy przez cały okres aktywności zawodowej, o określonej przez płatnika składek wartości, prowadzone w ustalonych ramach czasowych;
+- **5)** „przeciętne wynagrodzenie” – przeciętne miesięczne wynagrodzenie w gospodarce narodowej w poprzednim roku, ogłaszane do celów emerytalnych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego, stosowane poczynając od drugiego kwartału każdego roku przez okres jednego roku;
+- **6)** „ustawa o świadczeniach pieniężnych z ubezpieczenia chorobowego” – ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083);
+- **7)** „ustawa o emeryturach i rentach z FUS” – ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159);
+- **8)** „rok składkowy” – okres obowiązywania stopy procentowej składek na ubezpieczenie wypadkowe należnych za okres od dnia 1 kwietnia danego roku do dnia 31 marca następnego roku;
+- **9)** „rejestr REGON” – krajowy rejestr urzędowy podmiotów gospodarki narodowej;
+- **10)** „rodzaj działalności według PKD” – rodzaj przeważającej działalności zakodowanej według Polskiej Klasyfikacji Działalności w rejestrze REGON, z zastrzeżeniem art. 29 ust. 3;
+- **11)** „ubezpieczony” – osobę fizyczną podlegającą ubezpieczeniu wypadkowemu, a także osobę, która przed dniem 1 stycznia 1999 r. podlegała ubezpieczeniu społecznemu lub zaopatrzeniu emerytalnemu, z wyłączeniem osób podlegających ubezpieczeniu społecznemu rolników;
+- **12)** „ubezpieczenie wypadkowe” – ubezpieczenie społeczne z tytułu wypadków przy pracy i chorób zawodowych w rozumieniu przepisów o systemie ubezpieczeń społecznych;
+- **13)** „uraz” – uszkodzenie tkanek ciała lub narządów człowieka wskutek działania czynnika zewnętrznego;
+- **14)** „Zakład” – Zakład Ubezpieczeń Społecznych.
 
 **Art. 3.**
 
@@ -86,7 +107,7 @@ Art. 38–45. (pominięte)
 
 - **1)** podmiot wypłacający stypendium sportowe – w stosunku do pobierających te stypendia;
 - **2)** podmiot, na którego rzecz wykonywana jest odpłatnie praca w czasie odbywania kary pozbawienia wolności lub tymczasowego aresztowania – w stosunku do wykonujących tę pracę na podstawie skierowania do pracy;
-- **3)** Kancelaria w stosunku do posłów i Kancelaria Senatu w stosunku do senatorów;
+- **3)** Kancelaria Sejmu w stosunku do posłów i Kancelaria Senatu w stosunku do senatorów;
 - **4)** pracodawca, u którego osoba pobierająca stypendium odbywa staż lub szkolenie, przygotowanie zawodowe dorosłych, lub jednostka, w której osoba pobierająca stypendium odbywa szkolenie lub uczestniczy w działaniach w zakresie reintegracji społecznej – w stosunku do osoby pobierającej stypendium w okresie odbywania tego stażu, szkolenia, przygotowania zawodowego dorosłych lub uczestnictwa w działaniach w zakresie reintegracji społecznej na podstawie skierowania wydanego przez powiatowy urząd pracy lub przez inny podmiot kierujący;
 - **5)** spółdzielnia produkcyjna, spółdzielnia kółek rolniczych – w stosunku do członków tych spółdzielni oraz innych osób traktowanych na równi z członkiem spółdzielni, w rozumieniu przepisów o systemie ubezpieczeń społecznych, wykonujących pracę na rzecz tych spółdzielni;
 - **6)** podmiot, na którego rzecz wykonywana jest praca na podstawie umowy agencyjnej, umowy zlecenia lub umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia – w stosunku do wykonujących te umowy;
@@ -171,6 +192,9 @@ Art. 38–45. (pominięte)
 5. (uchylony)
 
 **Art. 10.** Prawo do zasiłków i świadczenia rehabilitacyjnego z ubezpieczenia wypadkowego ustalają i świadczenie to oraz zasiłki wypłacają:
+
+- **1)** płatnicy składek, jeżeli są zobowiązani do ustalania prawa do zasiłków w razie choroby i macierzyństwa i ich wypłaty;
+- **2)** Zakład – w pozostałych przypadkach.
 
 **Art. 11.**
 
@@ -652,6 +676,12 @@ Art. 38–45. (pominięte)
 
 **Art. 37h.** Płatnik składek jest obowiązany do zwrotu przyznanego dofinansowania wraz z odsetkami liczonymi od następnego dnia po przekazaniu środków na rachunek bankowy płatnika składek do dnia ich zwrotu w przypadku:
 
+- **1)** rezygnacji lub odstąpienia od realizacji projektu;
+- **2)** niewykonania zobowiązań wynikających z zawartej umowy o dofinansowanie;
+- **3)** odmowy poddania projektu kontroli w trakcie jego realizacji lub po jego zakończeniu;
+- **4)** realizacji projektu w sposób niezgodny z wnioskiem o dofinansowanie projektu;
+- **5)** wykorzystania dofinansowania niezgodnie z przeznaczeniem.
+
 #### Rozdział 6 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
 **Art. 46.** Do wniosków o jednorazowe odszkodowanie zgłoszonych przed dniem wejścia w życie ustawy stosuje się przepisy obowiązujące w dniu wydania orzeczenia o uszczerbku na zdrowiu lub stwierdzającego związek śmierci z wypadkiem albo chorobą zawodową.
@@ -739,7 +769,21 @@ Art. 38–45. (pominięte)
 
 **Art. 60.** Przepisy:
 
+- **1)** art. 34 ust. 3 stosuje się poczynając od składek należnych za okres od dnia 1 kwietnia 2006 r.;
+- **2)** art. 36 stosuje się do kontroli przeprowadzonych u płatników składek nie wcześniej niż w dniu wejścia w życie ustawy.
+
 **Art. 61.** Tracą moc:
 
+- **1)** ustawa z dnia 27 września 1973 r. o zaopatrzeniu emerytalnym twórców i ich rodzin (Dz. U. z 1983 r. poz. 145, z późn. zm. );
+- **2)** ustawa z dnia 12 czerwca 1975 r. o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 1983 r. poz. 144, z późn. zm. );
+- **3)** ustawa z dnia 19 grudnia 1975 r. o ubezpieczeniu społecznym osób wykonujących pracę na podstawie umowy agencyjnej lub umowy zlecenia (Dz. U. z 1995 r. poz. 333, z późn. zm. );
+- **4)** dekret z dnia 4 marca 1976 r. o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz ich rodzin (Dz. U. z 1983 r. poz. 135, z późn. zm. );
+- **5)** ustawa z dnia 18 grudnia 1976 r. o ubezpieczeniu społecznym osób prowadzących działalność gospodarczą oraz ich rodzin (Dz. U. z 1989 r. poz. 250, z późn. zm. );
+- **6)** ustawa z dnia 17 maja 1989 r. o ubezpieczeniu społecznym duchownych (Dz. U. poz. 156, z późn. zm. ).
+
 **Art. 62.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem:
+
+- **1)** art. 45 pkt 3, art. 50 ust. 3 i art. 56, które wchodzą w życie z dniem ogłoszenia ;
+- **2)** art. 40, który wchodzi w życie z dniem 1 października 2003 r.
+
 

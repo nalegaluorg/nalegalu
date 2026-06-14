@@ -8,12 +8,12 @@ pos: 78
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# przerywania Uznając, że życie jest fundamentalnym dobrem człowieka, a troska życie zdrowie należy podstawowych obowiązków państwa, społeczeństwa obywatela; uznając prawo każdego odpowiedzialnego decydowania posiadaniu dzieci prawo dostępu informacji, edukacji, poradnictwa środków umożliwiających korzystanie tego prawa, stanowi się, co następuje:
+# o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży Uznając, że życie jest fundamentalnym dobrem człowieka, a troska o życie i zdrowie należy do podstawowych obowiązków państwa, społeczeństwa i obywatela; uznając prawo każdego do odpowiedzialnego decydowania o posiadaniu dzieci oraz prawo dostępu do informacji, edukacji, poradnictwa i środków umożliwiających korzystanie z tego prawa, stanowi się, co następuje:
 
-*USTAWA 7 stycznia 1993 r.*
+*USTAWA z dnia 7 stycznia 1993 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -28,69 +28,76 @@ source: "isap-pdf"
 
 **Art. 1.**
 
-- **1)** Prawo życia podlega ochronie, tym również fazie prenatalnej granicach określonych ustawie.
+- **1)** Prawo do życia podlega ochronie, w tym również w fazie prenatalnej w granicach określonych w ustawie.
 
 **Art. 2.**
 
-1. Organy administracji rządowej samorządu terytorialnego, zakresie swoich kompetencji określonych przepisach szczególnych, są obowiązane zapewnienia kobietom opieki medycznej, socjalnej prawnej szczególności poprzez:
+1. Organy administracji rządowej oraz samorządu terytorialnego, w zakresie swoich kompetencji określonych w przepisach szczególnych, są obowiązane do zapewnienia kobietom w ciąży opieki medycznej, socjalnej i prawnej w szczególności poprzez:
 
-- **1)** opiekę prenatalną nad płodem opiekę medyczną nad kobietą ciąży,
-- **2)** pomoc materialną opiekę nad kobietami ciąży, znajdującymi się trudnych materialnych, na zasadach określonych ustawie 12 marca 2004 r. pomocy społecznej (Dz. U. 2021 r. poz. 2268 2270 2022 r. poz. 1, 66 1079),
+- **1)** opiekę prenatalną nad płodem oraz opiekę medyczną nad kobietą w ciąży,
+- **2)** pomoc materialną i opiekę nad kobietami w ciąży, znajdującymi się w trudnych warunkach materialnych, na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66 i 1079),
+- **3)** dostęp do szczegółowych informacji na temat uprawnień, zasiłków i świadczeń przysługujących kobietom w ciąży, matkom, ojcom oraz ich dzieciom oraz do informacji dotyczących instytucji i organizacji pomagających w rozwiązywaniu problemów psychologicznych i społecznych, a także zajmujących się sprawami przysposobienia.
 
-2. Organy administracji rządowej samorządu terytorialnego, zakresie swoich kompetencji określonych przepisach szczególnych, są zobowiązane zapewnić obywatelom swobodny dostęp metod środków służących dla świadomej prokreacji.
+2. Organy administracji rządowej oraz samorządu terytorialnego, w zakresie swoich kompetencji określonych w przepisach szczególnych, są zobowiązane zapewnić obywatelom swobodny dostęp do metod i środków służących dla świadomej prokreacji.
 
-2a. Organy administracji rządowej samorządu terytorialnego, zakresie swoich kompetencji określonych przepisach szczególnych, są zobowiązane zapewnić swobodny dostęp informacji badań prenatalnych, szczególnie wtedy, gdy istnieje podwyższone ryzyko bądź podejrzenie wystąpienia wady genetycznej lub rozwojowej albo nieuleczalnej choroby zagrażającej życiu płodu.
+2a. Organy administracji rządowej oraz samorządu terytorialnego, w zakresie swoich kompetencji określonych w przepisach szczególnych, są zobowiązane zapewnić swobodny dostęp do informacji i badań prenatalnych, szczególnie wtedy, gdy istnieje podwyższone ryzyko bądź podejrzenie wystąpienia wady genetycznej lub rozwojowej płodu albo nieuleczalnej choroby zagrażającej życiu płodu.
 
-3. Szkoła ma obowiązek udzielić uczennicy urlopu innej pomocy niezbędnej ukończenia przez nią edukacji, miarę możliwości nie powodując opóźnień zaliczaniu przedmiotów. Jeżeli ciąża, poród lub połóg powoduje niemożliwość zaliczenia terminie egzaminów ważnych dla ciągłości nauki, szkoła zobowiązana jest wyznaczenia dodatkowego terminu egzaminu dogodnego dla kobiety, okresie nie dłuższym niż 6 miesięcy.
+3. Szkoła ma obowiązek udzielić uczennicy w ciąży urlopu oraz innej pomocy niezbędnej do ukończenia przez nią edukacji, w miarę możliwości nie powodując opóźnień w zaliczaniu przedmiotów. Jeżeli ciąża, poród lub połóg powoduje niemożliwość zaliczenia w terminie egzaminów ważnych dla ciągłości nauki, szkoła zobowiązana jest do wyznaczenia dodatkowego terminu egzaminu dogodnego dla kobiety, w okresie nie dłuższym niż 6 miesięcy.
 
-4. Zakres formy tryb udzielania pomocy, której 1 2, określa, drodze rozporządzenia, Rada Ministrów.
+4. Zakres i formy oraz tryb udzielania pomocy, o której mowa w ust. 1 i 2, określa, w drodze rozporządzenia, Rada Ministrów.
 
 **Art. 3.**
 
-1. Organy administracji rządowej samorządu terytorialnego współdziałają udzielają pomocy Kościołowi Katolickiemu, innym kościołom związkom wyznaniowym organizacjom społecznym, które organizują opiekę nad kobietami ciąży, jak również organizują rodziny zastępcze lub udzielają pomocy przysposabianiu dzieci.
+1. Organy administracji rządowej oraz samorządu terytorialnego współdziałają i udzielają pomocy Kościołowi Katolickiemu, innym kościołom i związkom wyznaniowym oraz organizacjom społecznym, które organizują opiekę nad kobietami w ciąży, jak również organizują rodziny zastępcze lub udzielają pomocy w przysposabianiu dzieci.
 
-2. Zakres, formy tryb udzielania pomocy, której 1, określa, drodze rozporządzenia, Rada Ministrów.
+2. Zakres, formy oraz tryb udzielania pomocy, o której mowa w ust. 1, określa, w drodze rozporządzenia, Rada Ministrów.
 
 **Art. 4.**
 
-1. Do programów nauczania szkolnego wprowadza się wiedzę życiu seksualnym człowieka, zasadach świadomego odpowiedzialnego rodzicielstwa, 1, zawartych podstawie programowej kształcenia ogólnego wprowadzi systemu dokształcania doskonalenia nauczycieli tematykę określoną 1.
+1. Do programów nauczania szkolnego wprowadza się wiedzę o życiu seksualnym człowieka, o zasadach świadomego i odpowiedzialnego rodzicielstwa, o wartości rodziny, życia w fazie prenatalnej oraz metodach i środkach świadomej prokreacji.
+
+2. (uchylony)
+
+3. Minister właściwy do spraw oświaty i wychowania ustali, w drodze rozporządzenia, sposób nauczania szkolnego i zakres treści, o których mowa w ust. 1, zawartych w podstawie programowej kształcenia ogólnego oraz wprowadzi do systemu dokształcania i doskonalenia nauczycieli tematykę określoną w ust. 1.
 
 **Art. 4a.**
 
-1. Przerwanie może być dokonane wyłącznie przez lekarza, przypadku gdy:
+1. Przerwanie ciąży może być dokonane wyłącznie przez lekarza, w przypadku gdy:
 
 - **1)** ciąża stanowi zagrożenie dla życia lub zdrowia kobiety ciężarnej,
 - **2)** (utracił moc)
-- **3)** zachodzi uzasadnione podejrzenie, że ciąża powstała wyniku czynu zabronionego,
+- **3)** zachodzi uzasadnione podejrzenie, że ciąża powstała w wyniku czynu zabronionego,
 - **4)** (utracił moc)
 
-2. W przypadkach określonych 1 2 przerwanie jest dopuszczalne chwili osiągnięcia przez płód zdolności samodzielnego życia poza organizmem kobiety ciężarnej; przypadku określonym 1 3 lub 4, jeżeli od początku nie upłynęło więcej niż 12 tygodni.
+2. W przypadkach określonych w ust. 1 pkt 2 przerwanie ciąży jest dopuszczalne do chwili osiągnięcia przez płód zdolności do samodzielnego życia poza organizmem kobiety ciężarnej; w przypadku określonym w ust. 1 pkt 3 lub 4, jeżeli od początku ciąży nie upłynęło więcej niż 12 tygodni.
 
-3. W przypadkach, których 1 1 2, przerwania dokonuje lekarz szpitalu.
+3. W przypadkach, o których mowa w ust. 1 pkt 1 i 2, przerwania ciąży dokonuje lekarz w szpitalu.
 
-4. Do przerwania wymagana jest pisemna zgoda kobiety. W przypadku małoletniej lub kobiety ubezwłasnowolnionej całkowicie wymagana jest pisemna zgoda jej przedstawiciela ustawowego. W przypadku małoletniej powyżej 13 roku życia wymagana jest również pisemna zgoda tej osoby. W przypadku małoletniej poniżej 13 roku życia wymagana jest zgoda sądu opiekuńczego, a małoletnia ma prawo wyrażenia własnej opinii. W przypadku kobiety ubezwłasnowolnionej całkowicie wymagana jest także pisemna zgoda tej osoby, chyba że na wyrażenie zgody nie pozwala stan jej zdrowia psychicznego. W razie braku zgody
+4. Do przerwania ciąży wymagana jest pisemna zgoda kobiety. W przypadku małoletniej lub kobiety ubezwłasnowolnionej całkowicie wymagana jest pisemna zgoda jej przedstawiciela ustawowego. W przypadku małoletniej powyżej 13 roku życia wymagana jest również pisemna zgoda tej osoby. W przypadku małoletniej poniżej 13 roku życia wymagana jest zgoda sądu opiekuńczego, a małoletnia ma prawo do wyrażenia własnej opinii. W przypadku kobiety ubezwłasnowolnionej całkowicie wymagana jest także pisemna zgoda tej osoby, chyba że na wyrażenie zgody nie pozwala stan jej zdrowia psychicznego. W razie braku zgody przedstawiciela ustawowego, do przerwania ciąży wymagana jest zgoda sądu opiekuńczego.
 
-6. W przypadku, którym 1 4, kobieta składa pisemne oświadczenie, a ponadto zaświadczenie odbytej konsultacji u lekarza podstawowej opieki zdrowotnej, innego niż dokonujący przerwania ciąży, lub u innej wybranej przez siebie uprawnionej osoby. Przerwanie może być dokonane, jeżeli kobieta podtrzymuje zamiar przerwania po upływie 3 dni od konsultacji.
+5. Wystąpienie okoliczności, o których mowa w ust. 1 pkt 1 i 2, stwierdza inny lekarz niż dokonujący przerwania ciąży, chyba że ciąża zagraża bezpośrednio życiu kobiety. Okoliczność, o której mowa w ust. 1 pkt 3, stwierdza prokurator.
 
-7. Celem konsultacji, której 6, jest szczególności ustalenie sytuacji zdrowotnej życiowej kobiety, pomoc rozwiązaniu jej problemów, między innymi poprzez wskazanie dostępnych form pomocy przysługujących kobietom związku ciążą po urodzeniu dziecka, poinformowanie kobiety prawnej życia fazie prenatalnej, aspektach medycznych przerwania ciąży, a także środkach metodach antykoncepcyjnych. Za zgodą kobiety konsultacji może wziąć udział jej partner, członkowie rodziny lub inna bliska osoba.
+6. W przypadku, o którym mowa w ust. 1 pkt 4, kobieta składa pisemne oświadczenie, a ponadto zaświadczenie o odbytej konsultacji u lekarza podstawowej opieki zdrowotnej, innego niż dokonujący przerwania ciąży, lub u innej wybranej przez siebie uprawnionej osoby. Przerwanie ciąży może być dokonane, jeżeli kobieta podtrzymuje zamiar przerwania ciąży po upływie 3 dni od konsultacji.
 
-8. Do prywatnych gabinetów lekarskich, których dokonuje się przerwania ciąży, zakresie wymagań, jakim powinny odpowiadać pod względem fachowym sanitarnym pomieszczenia urządzenia gabinetu prywatnego, zakresie dotyczącym dokumentacji medycznej sprawowania kontroli nad tymi gabinetami stosuje się odrębne przepisy.
+7. Celem konsultacji, o której mowa w ust. 6, jest w szczególności ustalenie sytuacji zdrowotnej i życiowej kobiety, pomoc w rozwiązaniu jej problemów, między innymi poprzez wskazanie dostępnych form pomocy przysługujących kobietom w związku z ciążą i po urodzeniu dziecka, poinformowanie kobiety o ochronie prawnej życia w fazie prenatalnej, o aspektach medycznych ciąży oraz przerwania ciąży, a także o środkach i metodach antykoncepcyjnych. Za zgodą kobiety w konsultacji może wziąć udział jej partner, członkowie rodziny lub inna bliska osoba.
 
-9. Minister Zdrowia Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Lekarskiej określi, drodze rozporządzenia, kwalifikacje zawodowe lekarzy, uprawniające dokonania przerwania ciąży, kwalifikacje lekarzy, których
+8. Do prywatnych gabinetów lekarskich, w których dokonuje się przerwania ciąży, w zakresie wymagań, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia gabinetu prywatnego, oraz w zakresie dotyczącym dokumentacji medycznej i sprawowania kontroli nad tymi gabinetami stosuje się odrębne przepisy.
 
-5.
+9. Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Lekarskiej określi, w drodze rozporządzenia, kwalifikacje zawodowe lekarzy, uprawniające do dokonania przerwania ciąży, oraz kwalifikacje lekarzy, o których mowa w ust. 5.
 
-10. Minister Zdrowia Opieki Społecznej porozumieniu ministrem właściwym spraw zabezpieczenia społecznego określi, drodze przysługuje prawo bezpłatnego przerwania publicznym zakładzie opieki zdrowotnej.
+10. Minister Zdrowia i Opieki Społecznej w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, kwalifikacje innych niż lekarz osób uprawnionych do przeprowadzania konsultacji, o których mowa w ust. 6, sposób tworzenia list osób konsultujących oraz sposób i tryb przeprowadzania konsultacji.
+
+**Art. 4b.** Osobom objętym ubezpieczeniem społecznym i osobom uprawnionym na podstawie odrębnych przepisów do bezpłatnej opieki leczniczej przysługuje prawo do bezpłatnego przerwania ciąży w publicznym zakładzie opieki zdrowotnej.
 
 **Art. 4c.**
 
-1. Osoby wykonujące czynności wynikające są obowiązane zachowania tajemnicy wszystkiego, czym powzięły wiadomość związku wykonywaniem tych czynności, stosownie odrębnych przepisów.
+1. Osoby wykonujące czynności wynikające z ustawy są obowiązane do zachowania w tajemnicy wszystkiego, o czym powzięły wiadomość w związku z wykonywaniem tych czynności, stosownie do odrębnych przepisów.
 
-2. W razie zawinionego ujawnienia wiadomości, których 1, sąd może przyznać osobie poszkodowanej odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę. Art. 5–8. (pominięte)
+2. W razie zawinionego ujawnienia wiadomości, o których mowa w ust. 1, sąd może przyznać osobie poszkodowanej odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę. Art. 5–8. (pominięte)
 
-**Art. 9.** Rada Ministrów przedkłada Sejmowi corocznie, terminie 31 lipca, sprawozdanie wykonywania skutkach jej stosowania.
+**Art. 9.** Rada Ministrów przedkłada Sejmowi corocznie, w terminie do dnia 31 lipca, sprawozdanie z wykonywania ustawy oraz o skutkach jej stosowania.
 
-**Art. 10.** Traci moc ustawa 27 kwietnia 1956 r. przerywania (Dz. U. poz. 61 1969 r. poz. 95).
+**Art. 10.** Traci moc ustawa z dnia 27 kwietnia 1956 r. o warunkach dopuszczalności przerywania ciąży (Dz. U. poz. 61 oraz z 1969 r. poz. 95).
 
-**Art. 11.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

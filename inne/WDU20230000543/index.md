@@ -8,10 +8,10 @@ pos: 543
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 543 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 17 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000543) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/543/text.pdf) |
 
-Poz. 543 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 17 marca 2023 r.
-zmieniające rozporządzenie w sprawie pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich Na podstawie art. 23a ust. 9 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2021 r. poz. 2256 oraz z 2023 r. poz. 412) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 9 sierpnia 2021 r. w sprawie pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich (Dz. U. poz. 1438) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich Na podstawie art. 23a ust. 9 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2021 r. poz. 2256 oraz z 2023 r. poz. 412) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 9 sierpnia 2021 r. w sprawie pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich (Dz. U. poz. 1438) wprowadza się następujące zmiany:
 1) w § 3 w ust. 1:
 a) uchyla się pkt 5,
 b) w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) numer identyfikacyjny, o którym mowa w art. 12 ust. 1 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2022 r. poz. 2001 i 2727 oraz z 2023 r. poz. 412).”;

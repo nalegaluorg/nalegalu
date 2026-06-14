@@ -8,10 +8,10 @@ pos: 257
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 257 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000257) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/257/text.pdf) |
 
-Poz. 257 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 stycznia 2023 r.
-w sprawie zmiany obszaru wolnego obszaru celnego w Mszczonowie w województwie mazowieckim Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2022 r. poz. 2073) zarządza się, co następuje: § 1. Określa się w załączniku do rozporządzenia granice i obszar wolnego obszaru celnego w Mszczonowie w województwie mazowieckim, ustanowionego rozporządzeniem Rady Ministrów z dnia 18 lipca 2000 r. w sprawie ustanowienia wolnego obszaru celnego w Mszczonowie w województwie mazowieckim (Dz. U. poz. 721 oraz z 2003 r. poz. 876).
+w sprawie zmiany obszaru wolnego obszaru celnego w Mszczonowie w województwie mazowieckim Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2022 r. poz. 2073) zarządza się, co następuje:
+§ 1. Określa się w załączniku do rozporządzenia granice i obszar wolnego obszaru celnego w Mszczonowie w województwie mazowieckim, ustanowionego rozporządzeniem Rady Ministrów z dnia 18 lipca 2000 r. w sprawie ustanowienia wolnego obszaru celnego w Mszczonowie w województwie mazowieckim (Dz. U. poz. 721 oraz z 2003 r. poz. 876).
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska Dziennik Ustaw – 2 – Poz. 257 SZCZEGÓŁOWY OPIS GRANIC I OBSZAR WOLNEGO OBSZARU CELNEGO W MSZCZONOWIE W WOJEWÓDZTWIE MAZOWIECKIM Opis przebiegu granic wolnego obszaru celnego jest przedstawiony na mapie. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie administracji skarbowej nadzorującej wolny obszar celny i w Ministerstwie Finansów.
+Minister Finansów: M. Rzeczkowska SZCZEGÓŁOWY OPIS GRANIC I OBSZAR WOLNEGO OBSZARU CELNEGO W MSZCZONOWIE W WOJEWÓDZTWIE MAZOWIECKIM Opis przebiegu granic wolnego obszaru celnego jest przedstawiony na mapie. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie administracji skarbowej nadzorującej wolny obszar celny i w Ministerstwie Finansów.
 Granice wolnego obszaru celnego zlokalizowanego w Mszczonowie w województwie mazowieckim są wyznaczone przez następujące punkty graniczne:
 1) poczynając od punktu A, zlokalizowanego w rogu ogrodzenia przy bramie nr 3, granica biegnie wzdłuż ogrodzenia do punktu B oddalonego od punktu A o 178 m; w odległości 166 m od punktu A znajduje się brama nr 4;
 2) od punktu B granica biegnie wzdłuż ogrodzenia do punktu C oddalonego od punktu B o 61 m;

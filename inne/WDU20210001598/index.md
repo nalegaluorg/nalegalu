@@ -8,7 +8,7 @@ pos: 1598
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw
@@ -28,6 +28,155 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1598/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680, 1177 i 1535) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) CCP – CCP, o którym mowa w art. 2 pkt 1 rozporządzenia nr 648/2012;”,
+    - **b)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) działanie w ramach przymusowej restrukturyzacji – podjęcie przez Fundusz decyzji o wszczęciu przymusowej restrukturyzacji, o której mowa w art. 101 ust. 7 lub art. 102 ust. 1, zastosowanie co najmniej jednego z instrumentów przymusowej restrukturyzacji, o których mowa w art. 110, lub wykonanie przez Fundusz uprawnienia w przymusowej restrukturyzacji;”,
+    - **c)** po pkt 17 dodaje się pkt 17a w brzmieniu: „17a) globalna instytucja o znaczeniu systemowym – jednostkę, o której mowa w art. 4 ust. 1 pkt 133 rozporządzenia nr 575/2013;”,
+    - **d)** pkt 19 otrzymuje brzmienie: „19) grupa – podmiot dominujący oraz podmioty zależne, o których mowa w art. 4 ust. 1 pkt 16 rozporządzenia nr 575/2013;”,
+    - **e)** po pkt 19 dodaje się pkt 19a w brzmieniu: „19a) grupa podlegająca przymusowej restrukturyzacji:
+    - **a)** podmiot podlegający przymusowej restrukturyzacji oraz jego podmioty zależne, o ile żaden z tych podmiotów zależnych: – nie jest podmiotem podlegającym przymusowej restrukturyzacji, – nie jest podmiotem zależnym innych podmiotów podlegających przymusowej restrukturyzacji, – nie jest podmiotem mającym siedzibę w państwie trzecim, który zgodnie z planem przymusowej restrukturyzacji nie wchodzi w skład grupy podlegającej przymusowej restrukturyzacji, ani nie jest podmiotem zależnym tego podmiotu mającego siedzibę w państwie trzecim, albo
+    - **b)** organ centralny, bank lub instytucję kredytową trwale powiązane z organem centralnym, a także ich podmioty zależne, w przypadku gdy organ centralny lub co najmniej jeden bank lub jedna instytucja kredytowa jest podmiotem podlegającym przymusowej restrukturyzacji;”,
+    - **f)** po pkt 22 dodaje się pkt 22a w brzmieniu: „22a) instrumenty dodatkowe w Tier I – instrumenty kapitałowe spełniające warunki określone w art. 52 ust. 1 rozporządzenia nr 575/2013;”,
+    - **g)** po pkt 23 dodaje się pkt 23a i 23b w brzmieniu: „23a) instrumenty w kapitale podstawowym Tier I – instrumenty kapitałowe spełniające warunki określone w art. 28 ust. 1–4, art. 29 ust. 1–5 lub art. 31 ust. 1 rozporządzenia nr 575/2013;
+
+- **23b)** instrumenty w Tier II – instrumenty kapitałowe lub pożyczki podporządkowane, spełniające warunki określone w art. 63 rozporządzenia nr 575/2013;”,
+    - **h)** po pkt 27 dodaje się pkt 27a i 27b w brzmieniu: „27a) istotny podmiot zależny – istotną jednostkę zależną, o której mowa w art. 4 ust. 1 pkt 135 rozporządzenia nr 575/2013;
+
+- **27b)** kapitał podstawowy Tier I – kapitał podstawowy Tier I obliczony zgodnie z art. 50 rozporządzenia nr 575/2013;”,
+    - **i)** uchyla się pkt 32,
+    - **j)** po pkt 33 dodaje się pkt 33a i 33b w brzmieniu: „33a) krajowy podmiot zależny – podmiot zależny mający siedzibę na terytorium Rzeczypospolitej Polskiej;
+
+- **33b)** łączna kwota ekspozycji na ryzyko – kwotę obliczoną zgodnie z art. 92 ust. 3 rozporządzenia nr 575/2013;”,
+    - **k)** po pkt 36 dodaje się pkt 36a w brzmieniu: „36a) organ centralny – podmiot, o którym mowa w art. 10 ust. 1 rozporządzenia nr 575/2013;”,
+    - **l)** po pkt 39 dodaje się pkt 39a w brzmieniu: „39a) podmiot dominujący – podmiot, o którym mowa w art. 4 ust. 1 pkt 15 lit. a rozporządzenia nr 575/2013;”,
+    - **m)** po pkt 41 dodaje się pkt 41a w brzmieniu: „41a) podmiot podlegający przymusowej restrukturyzacji:
+    - **a)** bank, instytucję kredytową lub firmę inwestycyjną, które nie są częścią grupy objętej nadzorem skonsolidowanym zgodnie z przepisami państwa członkowskiego, wobec których w planie przymusowej restrukturyzacji opracowanym zgodnie z art. 73 przewidziano działanie w ramach przymusowej restrukturyzacji,
+    - **b)** osobę prawną mającą siedzibę w państwie członkowskim, która została wskazana w planie przymusowej restrukturyzacji opracowanym zgodnie z art. 77 ust. 2 lub grupowym planie przymusowej restrukturyzacji opracowanym zgodnie z art. 74 ust. 1 jako podmiot, wobec którego przewidziano działanie w ramach przymusowej restrukturyzacji;”,
+    - **n)** w pkt 43: – w lit. a po wyrazie „administratora” dodaje się przecinek i wyrazy „zastępcę administratora”, – w lit. c po wyrazie „administratora” dodaje się przecinek i wyrazy „zastępcę administratora”,
+    - **o)** pkt 45 otrzymuje brzmienie: „45) podmiot zależny:
+    - **a)** podmiot, o którym mowa w art. 4 ust. 1 pkt 16 rozporządzenia nr 575/2013,
+    - **b)** bank lub instytucję kredytową trwale powiązane z organem centralnym, organ centralny oraz ich podmioty zależne, w zakresie, w jakim do grupy podlegającej przymusowej restrukturyzacji, o której mowa w pkt 19a lit. b, stosuje się przepisy art. 70–72, art. 82, art. 91–95, art. 97–99, art. 132–134, z uwzględnieniem sposobu, w jaki spełniają wymogi określone w art. 98 ust. 2a, oraz przepis art. 141n ustawy – Prawo bankowe;”,
+    - **p)** po pkt 47 dodaje się pkt 47a w brzmieniu: „47a) podporządkowane instrumenty kwalifikowalne – instrumenty spełniające kryteria określone w art. 72a rozporządzenia nr 575/2013, z wyłączeniem instrumentów, o których mowa w art. 72b ust. 3– 5 tego rozporządzenia;”,
+    - **q)** pkt 66 i 67 otrzymują brzmienie: „66) środki na finansowanie przymusowej restrukturyzacji banków i firm inwestycyjnych – środki funduszu przymusowej restrukturyzacji banków do wykorzystania na ten cel;
+
+- **67)** środki na finansowanie przymusowej restrukturyzacji kas – środki funduszu przymusowej restrukturyzacji kas do wykorzystania na ten cel;”,
+    - **r)** pkt 69 i 70 otrzymują brzmienie: „69) środki systemu gwarantowania depozytów w bankach – środki funduszu gwarancyjnego banków do wykorzystania oraz funduszu statutowego, po pomniejszeniu o wartość rzeczowych aktywów trwałych oraz wartości niematerialnych i prawnych;
+
+- **70)** środki systemu gwarantowania depozytów w kasach – środki funduszu gwarancyjnego kas do wykorzystania;”,
+    - **s)** po pkt 74a dodaje się pkt 74b w brzmieniu: „74b) ustawa o nadzorze makroostrożnościowym – ustawę z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2021 r. poz. 140, 680 i 1598);”,
+    - **t)** po pkt 88 dodaje się pkt 88a w brzmieniu: „88a) wymóg połączonego bufora – wymóg, o którym mowa w art. 55 ust. 4 ustawy o nadzorze makroostrożnościowym;”,
+    - **u)** po pkt 90 dodaje się pkt 90a i 90b w brzmieniu: „90a) zobowiązania kwalifikowalne – zobowiązania mogące podlegać umorzeniu lub konwersji, które spełniają warunki określone w art. 97a–97g lub art. 98 ust. 2l pkt 1, oraz instrumenty w Tier II, o których mowa w art. 72a ust. 1 lit. b rozporządzenia nr 575/2013;
+
+- **90b)** zobowiązania mogące podlegać umorzeniu lub konwersji – zobowiązania i instrumenty kapitałowe, które nie kwalifikują się do instrumentów w kapitale podstawowym Tier I, instrumentów dodatkowych w Tier I lub instrumentów w Tier II podmiotu, o którym mowa w art. 64 pkt 2, i które nie są wyłączone z umorzenia lub konwersji zobowiązań na podstawie art. 206 ust. 1;”;
+- **2)** w art. 5 w ust. 1 pkt 5 otrzymuje brzmienie: „5) przygotowywanie, przegląd i aktualizacja planów przymusowej restrukturyzacji i grupowych planów przymusowej restrukturyzacji;”;
+- **3)** w art. 6:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Osoby pełniące funkcje w organach Funduszu i pracownicy Funduszu nie mogą podejmować działań, które mogłyby wywołać podejrzenie o ich stronniczość, w szczególności:
+
+- **1)** nabywać, zbywać i posiadać akcji lub udziałów:
+    - **a)** podmiotu krajowego,
+    - **b)** podmiotu dominującego w stosunku do podmiotu krajowego lub podmiotu zależnego podmiotu krajowego,
+    - **c)** podmiotu powiązanego z podmiotem, o którym mowa w lit. a lub b, przez pozostawanie z podmiotem w tej samej grupie;
+
+- **2)** nabywać, zbywać i posiadać obligacji emitowanych przez podmiot, o którym mowa w pkt 1, lub Kasę Krajową;
+- **3)** nabywać, zbywać i posiadać instrumentów finansowych, których emitentem jest podmiot krajowy, oraz instrumentów pochodnych, których instrumentem bazowym są papiery wartościowe emitowane przez podmiot, o którym mowa w pkt 1, lub Kasę Krajową;
+- **4)** pełnić funkcji w podmiocie, o którym mowa w pkt 1, lub Kasie Krajowej lub podejmować zatrudnienia w podmiocie, o którym mowa w pkt 1, lub Kasie Krajowej, na podstawie umowy o pracę albo świadczyć w nich pracy na podstawie umowy zlecenia, umowy o dzieło, umowy agencyjnej albo innej umowy o podobnym charakterze.”,
+    - **b)** dodaje się ust. 3–5 w brzmieniu: „3. Osoby pełniące funkcje w organach Funduszu i pracownicy Funduszu mogą:
+
+- **1)** podejmować zatrudnienie w instytucji pomostowej lub pełnić funkcję w organach instytucji pomostowej;
+- **2)** podejmować zatrudnienie w podmiocie zarządzającym aktywami lub pełnić funkcję w jego organach;
+- **3)** podejmować zatrudnienie w podmiocie w restrukturyzacji lub podmiocie powiązanym z podmiotem w restrukturyzacji przez pozostawanie z tym podmiotem w relacjach, o których mowa w art. 4 ust. 1 pkt 14–16 ustawy – Prawo bankowe, lub pozostawanie z tym podmiotem w tej samej grupie;
+- **4)** pełnić funkcję w organach podmiotów, o których mowa w pkt 3.
+
+4. Przepisu ust. 2 nie stosuje się do:
+
+- **1)** udziałów obowiązkowych w kasie w związku z gromadzeniem w niej środków pieniężnych, otrzymanymi pożyczkami lub kredytami, przeprowadzanymi w niej rozliczeniami finansowymi oraz zawieranymi za pośrednictwem kasy umowami ubezpieczenia na zasadach określonych w ustawie z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2019 r. poz. 1881);
+- **2)** papierów wartościowych emitowanych przez Skarb Państwa;
+- **3)** papierów wartościowych emitowanych, poręczonych lub gwarantowanych przez rządy lub banki centralne państw członkowskich lub państw będących członkami Organizacji Współpracy Gospodarczej i Rozwoju;
+- **4)** jednostek uczestnictwa funduszy inwestycyjnych w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2021 r. poz. 605 i 1595).
+
+5. Członkowie Rady Funduszu, członkowie Zarządu Funduszu oraz pracownicy Funduszu są obowiązani dostosować się do wymagań, o których mowa w ust. 2, w terminie 7 miesięcy odpowiednio od dnia objęcia mandatu członka Rady Funduszu lub członka Zarządu Funduszu, lub nawiązania stosunku pracy.”;
+
+- **4)** w art. 8:
+    - **a)** dotychczasową treść oznacza się jako ust. 1 i w tym ust. w pkt 9 lit. i otrzymuje brzmienie: „i) zmniejszenia częstotliwości przeglądów planów przymusowej restrukturyzacji dla niektórych podmiotów i grupowych planów przymusowej restrukturyzacji,”,
+    - **b)** dodaje się ust. 2 w brzmieniu: „2. Rada Funduszu może upoważnić Zarząd Funduszu do podjęcia decyzji w sprawie zwrotnego przekazania środków między funduszami własnymi w przypadkach określonych przez Radę Funduszu.”;
+
+- **5)** w art. 11:
+    - **a)** w ust. 2 pkt 4 otrzymuje brzmienie: „4) składanie wniosków do Rady Funduszu w sprawach, o których mowa w art. 8 ust. 1 pkt 5–10 i 13;”,
+    - **b)** w ust. 4: – pkt 2 otrzymuje brzmienie: „2) umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych,”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) nałożenia na podmiot lub jego instytucję dominującą obowiązku wyemitowania nowych praw udziałowych,”, – pkt 5 otrzymuje brzmienie: „5) ustanowienia i odwołania administratora lub zastępcy administratora,”, – po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) zawieszenia wykonania zobowiązań do płatności lub dostawy, o którym mowa w art. 144a ust. 1,”, – pkt 16 otrzymuje brzmienie: „16) nałożenia przez Fundusz kary pieniężnej, o której mowa w art. 79 ust. 1, art. 95 ust. 6 lub art. 337a ust. 1,”, – w pkt 26 dodaje się przecinek i dodaje się pkt 27–29 w brzmieniu: „27) nałożenia zakazu wypłaty zysków powyżej maksymalnej kwoty podlegającej wypłacie, o którym mowa w art. 96a ust. 2,
+
+- **28)** uchylenia zakazu wypłaty zysków powyżej maksymalnej kwoty podlegającej wypłacie, o którym mowa w art. 96a ust. 2,
+- **29)** związanych z zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w rozdziale 3a ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124, z 2019 r. poz. 1798 oraz z 2021 r. poz. 1598)”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. W zakresie nieuregulowanym w ustawie do decyzji, o których mowa w ust. 4 pkt 1–15 oraz pkt 17–29, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735 i 1491), zwanej dalej „Kodeksem postępowania administracyjnego”, z wyłączeniem art. 9, art. 10, art. 13, art. 31, art. 35 § 2–5, art. 36–38, art. 39 , art. 46 § 3–9, art. 48, art. 49, art. 61 § 4, art. 66a, art. 73, art. 78, art. 79, art. 81, art. 89– 96, art. 105 § 2, art. 106, art. 109 i art. 127–140 tej ustawy.”,
+    - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Sprawy w przedmiocie wydania decyzji, o których mowa w ust. 4, Fundusz załatwia bez zbędnej zwłoki, jednak nie później niż w terminie 6 miesięcy od dnia wszczęcia postępowania, a w sprawach szczególnie skomplikowanych – nie później niż w terminie roku od dnia wszczęcia postępowania.”,
+    - **e)** dodaje się ust. 10 w brzmieniu: „10. W sprawach dotyczących informacji publicznej Zarząd Funduszu może upoważnić Prezesa, Zastępcę Prezesa, innych członków Zarządu lub pracowników Funduszu do wydawania decyzji administracyjnych.”;
+
+- **6)** w art. 24:
+    - **a)** w ust. 3 w pkt 1 uchyla się lit. b,
+    - **b)** ust. 9 otrzymuje brzmienie: „9. Jeżeli środki deponenta objęte ochroną gwarancyjną, w wyniku zastosowania instrumentu przejęcia przedsiębiorstwa lub instrumentu instytucji pomostowej, zostały przeniesione do innego podmiotu albo do instytucji pomostowej, deponentowi nie przysługują roszczenia z tytułu gwarancji w odniesieniu do pozostałych środków zgromadzonych na rachunkach w podmiocie w restrukturyzacji, o ile na dzień określony w decyzji, na podstawie której następuje to przeniesienie, wartość środków przeniesionych odpowiada limitowi, o którym mowa w ust. 1, 3 lub 4, albo jest od niego wyższa.”,
+    - **c)** dodaje się ust. 10 w brzmieniu: „10. W przypadku, o którym mowa w ust. 9, do obliczenia wartości euro w złotych przyjmuje się kurs średni ogłaszany przez Narodowy Bank Polski z dnia określonego w decyzji Funduszu o zastosowaniu instrumentu przejęcia przedsiębiorstwa lub instrumentu instytucji pomostowej, a w przypadku braku takiego określenia – z dnia wszczęcia przymusowej restrukturyzacji.”;
+
+- **7)** art. 31 otrzymuje brzmienie: „Art. 31. Za wdrożenie i utrzymywanie prawidłowo funkcjonującego systemu wyliczania, zgodność danych, o których mowa w art. 29 ust. 2, z saldami kont księgi głównej i ksiąg pomocniczych oraz przekazywanie Funduszowi tych danych jest odpowiedzialny podmiot uprawniony do reprezentacji.”;
+- **8)** w art. 47:
+    - **a)** w ust. 1 pkt 5 otrzymuje brzmienie: „5) kwoty środków odpowiadających zobowiązaniom do zapłaty, o których mowa w art. 56 ust. 1 i art. 57 ust. 1, które podmioty objęte systemem gwarantowania są obowiązane przekazać Funduszowi, ze wskazaniem tych podmiotów.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Treść uchwały, o której mowa w ust. 1, Fundusz podaje do publicznej wiadomości na swojej stronie internetowej lub w drodze ogłoszenia w dzienniku o zasięgu ogólnokrajowym oraz przekazuje podmiotom objętym systemem gwarantowania obowiązanym do przekazania środków odpowiadających zobowiązaniom do zapłaty, podmiotowi, za którego pośrednictwem będą realizowane wypłaty środków gwarantowanych, i podmiotowi, w stosunku do którego nastąpiło spełnienie warunku gwarancji, w celu udostępnienia treści uchwały w placówkach podmiotu.”;
+
+- **9)** w art. 56 uchyla się ust. 2;
+- **10)** w art. 57 uchyla się ust. 2;
+- **11)** w dziale III tytuł rozdziału 2 otrzymuje brzmienie: „Umorzenie lub konwersja instrumentów kapitałowych lub zobowiązań kwalifikowalnych”;
+- **12)** w art. 70:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Fundusz może dokonać umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych:
+
+- **1)** niezależnie od działania w ramach przymusowej restrukturyzacji, bez podejmowania decyzji o wszczęciu przymusowej restrukturyzacji, albo
+- **2)** w ramach przymusowej restrukturyzacji, łącznie z jednym lub kilkoma instrumentami, o których mowa w art. 110 ust. 1.”,
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) zaistniały warunki, o których mowa w art. 101 ust. 7–9, lub okoliczności, o których mowa w art. 102 ust. 1 lub 4, lub”,
+    - **c)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Fundusz dokonuje umorzenia lub konwersji zobowiązań kwalifikowalnych w przypadku, o którym mowa w ust. 1, jeżeli:
+
+- **1)** zostały spełnione warunki określone w ust. 2 pkt 1 i 3;
+- **2)** zobowiązania kwalifikowalne spełniają warunki, o których mowa w art. 98 ust. 2l pkt 1.
+
+2b. W przypadku umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych kwotę, która uległa obniżeniu w wyniku tego umorzenia lub konwersji, uwzględnia się przy ustalaniu progów określonych w art. 274 i art. 275 pkt 1 oraz określonych w art. 19a ust. 2 pkt 2 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej.”,
+
+- **d)** ust. 5–7 otrzymują brzmienie: „5. Fundusz dokonuje umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych, jeżeli te instrumenty lub zobowiązania są zaliczane do funduszy własnych lub zobowiązań kwalifikowalnych krajowego podmiotu dominującego na poziomie indywidualnym i skonsolidowanym, a w opinii Funduszu bez dokonania umorzenia lub konwersji tych instrumentów lub zobowiązań grupa będzie zagrożona upadłością.
+
+6. W przypadku gdy instrumenty kapitałowe lub zobowiązania kwalifikowalne są zaliczane do funduszy własnych lub zobowiązań kwalifikowalnych podmiotu zależnego od krajowego podmiotu dominującego na poziomie indywidualnym oraz do funduszy własnych lub zobowiązań kwalifikowalnych na poziomie skonsolidowanym, Fundusz może uzgodnić z właściwym organem przymusowej restrukturyzacji lub właściwym organem nadzoru dla podmiotu zależnego umorzenie lub konwersję tych instrumentów lub zobowiązań przez ten organ, jeżeli w opinii Funduszu i tego organu bez umorzenia lub konwersji tych instrumentów lub zobowiązań grupa będzie zagrożona upadłością.
+
+7. W przypadku gdy instrumenty kapitałowe lub zobowiązania kwalifikowalne są zaliczane do funduszy własnych lub zobowiązań kwalifikowalnych krajowego podmiotu zależnego od unijnej instytucji dominującej na poziomie indywidualnym oraz do funduszy własnych lub zobowiązań kwalifikowalnych na poziomie skonsolidowanym, Fundusz może uzgodnić z właściwym organem przymusowej restrukturyzacji dla grupy lub właściwym organem nadzoru dla grupy dokonanie umorzenia lub konwersji tych instrumentów lub zobowiązań, jeżeli w opinii Funduszu i tego organu bez umorzenia lub konwersji tych instrumentów lub zobowiązań grupa będzie zagrożona upadłością.”,
+
+- **e)** ust. 9 i 10 otrzymują brzmienie: „9. W przypadkach, o których mowa w ust. 6 i 7, Fundusz i właściwe organy przymusowej restrukturyzacji lub właściwe organy nadzoru uwzględniają wpływ umorzenia lub konwersji instrumentu kapitałowego lub zobowiązania kwalifikowalnego na stabilność finansową państw, w których podmioty grupy prowadzą działalność.
+
+10. Podejmując decyzje, o których mowa w ust. 6 i 7, Fundusz i właściwe organy przymusowej restrukturyzacji lub właściwe organy nadzoru ustalają, czy jest możliwe podjęcie działań innych niż umorzenie lub konwersja instrumentów kapitałowych lub zobowiązań kwalifikowalnych, w szczególności zastosowanie nadzorczych instrumentów wczesnej interwencji lub wsparcia kapitałowego od podmiotu dominującego, a jeżeli takie działania są możliwe, czy mogą zostać łatwo podjęte i czy jest prawdopodobne, że w rozsądnym czasie usuną zagrożenie upadłością.”,
+
+- **f)** ust. 12 i 13 otrzymują brzmienie: „12. Przed dokonaniem umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych, o których mowa w ust. 2, 2a, 5 i 6, Fundusz zapewnia przeprowadzenie oszacowania, o którym mowa w art. 137 ust. 2 lub 3, w celu określenia kwoty strat do pokrycia oraz niezbędnej kwoty konwersji, w celu rekapitalizacji podmiotu lub grupy.
+
+13. W przypadkach, o których mowa w ust. 6 i 7, umorzenie lub konwersja instrumentów kapitałowych lub zobowiązań kwalifikowalnych podmiotu zależnego nie mogą być dokonane w stopniu wyższym niż umorzenie lub konwersja podobnych instrumentów kapitałowych lub zobowiązań kwalifikowalnych podmiotu dominującego.”;
+
+- **13)** po art. 70 dodaje się art. 70a i art. 70b w brzmieniu: „Art. 70a. 1. W przypadku podmiotów działających w formie spółki kapitałowej decyzja w przedmiocie umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych zawiera:
+- **1)** wskazanie kwoty, o jaką kapitał zakładowy ma zostać obniżony, a w przypadku gdy instrumenty kapitałowe lub zobowiązania kwalifikowalne podlegają konwersji na udziały lub akcje, które są ustanawiane lub emitowane na podstawie decyzji Funduszu, sumy, o jaką kapitał zakładowy ma zostać podwyższony;
+- **2)** wskazanie liczby, serii i numeru lub innego oznaczenia instrumentów kapitałowych lub zobowiązań kwalifikowalnych podlegających umorzeniu lub konwersji, a w przypadku posiadania przez te instrumenty lub zobowiązania odrębnego oznaczenia, o którym mowa w art. 55 ustawy o obrocie instrumentami finansowymi, również wskazanie tego oznaczenia;
+- **3)** wskazanie liczby, serii, numeru oraz wartości nominalnej nowo ustanowionych udziałów lub wyemitowanych akcji lub wartości, o którą następuje podwyższenie wartości nominalnej udziałów lub akcji już istniejących;
+- **4)** oznaczenie, czy akcje powstałe wskutek konwersji są imienne, czy na okaziciela;
+- **5)** wskazanie osób, które obejmują akcje lub udziały w podwyższonym kapitale zakładowym lub na rzecz których następuje emisja akcji lub ustanowienie udziałów, w tym przez wskazanie instrumentów kapitałowych lub zobowiązań kwalifikowalnych, których posiadacze są uprawnieni do objęcia takich akcji lub udziałów;
+- **6)** określenie, że objęcie akcji lub udziałów w podwyższonym kapitale zakładowym następuje z wyłączeniem prawa pierwszeństwa lub prawa poboru;
+- **7)** określenie ceny emisyjnej nowych akcji albo ceny obejmowanych udziałów;
+- **8)** wskazanie daty, od której powstałe w wyniku konwersji akcje lub udziały będą uczestniczyć w dywidendzie;
+- **9)** sposób pozwalający na identyfikację instrumentów kapitałowych lub zobowiązań kwalifikowalnych podlegających umorzeniu – w przypadku gdy określona w tej decyzji liczba lub wartość umarzanych instrumentów kapitałowych lub zobowiązań kwalifikowalnych jest mniejsza niż liczba lub wartość tych instrumentów lub zobowiązań oznaczonych odrębnym oznaczeniem, o którym mowa w art. 55 ustawy o obrocie instrumentami finansowymi.
+
+2. Decyzja, o której mowa w ust. 1, zastępuje określone w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320), zwanej dalej „Kodeksem spółek handlowych”, ustawie – Prawo bankowe oraz statucie lub umowie spółki czynności związane z obniżeniem lub podwyższeniem kapitału zakładowego, pokryciem straty, przystąpieniem do spółki, objęciem udziałów lub akcji, wniesieniem wkładu oraz zmianą statutu lub umowy spółki.
+
+3. Instrumenty kapitałowe oraz zobowiązania kwalifikowalne wskazane w decyzji, o której mowa w ust. 1, stanowiące instrumenty finansowe rejestrowane w depozycie papierów wartościowych, umarza się lub konwertuje według stanu na koniec dnia, w którym decyzja, o której mowa w ust. 1, lub informacja o tej decyzji została zamieszczona na stronie internetowej Funduszu. Dzień zamieszczenia decyzji lub informacji o decyzji na stronie internetowej Funduszu jest dniem ustalenia osób uprawnionych z umarzanych lub konwertowanych instrumentów finansowych. Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna dokonuje rozrachunku transakcji w instrumentach finansowych będących przedmiotem umorzenia lub konwersji do końca dnia, w którym decyzja lub informacja o decyzji została zamieszczona na stronie internetowej Funduszu, a wszystkie wprowadzone do systemu rozrachunku zlecenia rozrachunku dotyczące nierozrachowanych transakcji w tych instrumentach finansowych tracą ważność z końcem tego dnia.
+
+4. Zamieszczenie decyzji, o której mowa w ust. 1, lub informacji o tej decyzji na stronie internetowej Funduszu zastępuje przekazanie odpisu decyzji:
+
+- **1)** akcjonariuszom lub wspólnikom, którzy na podstawie tej decyzji objęli akcje lub udziały w podwyższonym kapitale zakładowym;
+- **2)** akcjonariuszom lub wspólnikom, których akcje lub udziały zostały umorzone na podstawie tej decyzji;
+- **3)** obligatariuszom lub posiadaczom innych instrumentów kapitałowych lub finansowych, które podlegają umorzeniu albo konwersji na podstawie tej decyzji.
+
+5. Fundusz, w celu ujawnienia w Krajowym Rejestrze Sądowym obniżenia lub podwyższenia kapitału zakładowego spółki, niezwłocznie informuje o wydaniu decyzji, o której mowa w ust. 1, właściwy sąd rejestrowy, przekazując mu odpis tej decyzji bez oszacowania i uzasadnienia, z uwzględnieniem obowiązku dochowania tajemnic, o których mowa w art. 320 ust. 2, oraz tajemnic, o których mowa w art. 104 ustawy – Prawo bankowe, art. 9e ustawy o spółdzielczych kasach oszczędnościowo-kredytowych i art. 147 ustawy o obrocie instrumentami finansowymi.
+
+6. Odpis decyzji, o której mowa w ust. 1, stanowi podstawę wpisu obniżenia lub podwyższenia kapitału zakładowego spółki do Krajowego Rejestru Sądowego. Podwyższenie albo obniżenie kapitału zakładowego spółki następuje z chwilą doręczenia decyzji Funduszu podmiotowi, o którym mowa w ust. 1.
+
+7. W przypadku gdy instrumenty będące przedmiotem umorzenia lub powstałe w wyniku konwersji podlegają zarejestrowaniu w depozycie papierów wartościowych albo w rejestrze akcjonariuszy, Fundusz niezwłocznie informuje Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną albo podmiot prowadzący rejestr akcjonariuszy o wydaniu decyzji, o której mowa w ust. 1, przekazując mu odpis tej decyzji w zakresie niezbędnym do ujawnienia umorzenia akcji w depozycie papierów wartościowych albo w rejestrze akcjonariuszy albo w celu rejestracji odpowiednio w depozycie papierów wartościowych albo w rejestrze akcjonariuszy akcji wyemitowanych w ramach podwyższenia kapitału zakładowego spółki.
 
 **Art. 70b.**
 
@@ -99,6 +248,105 @@ source: "isap-pdf"
 - **23)** art. 83 i art. 84 otrzymują brzmienie: „Art. 83. Rada Funduszu, w drodze uchwały, określi szczegółowy zakres informacji, jakie zawiera plan przymusowej restrukturyzacji, uwzględniając przedmiot i zakres działalności podmiotów objętych planem zgodnie z art. 73 ust. 1 i 1a, w szczególności wykonywanie przez te podmioty działalności maklerskiej, ich strukturę właścicielską, formę prawną prowadzonej działalności, profil ryzyka, skalę powiązań z innymi podmiotami rynku finansowego oraz ich udział w systemie ochrony instytucjonalnej.
 
 **Art. 84.** Fundusz przekazuje podmiotowi krajowemu streszczenie istotnych elementów planu przymusowej restrukturyzacji, o którym mowa w art. 81 ust. 1 pkt 1, a krajowy podmiot dominujący informuje o przyjęciu grupowego planu przymusowej restrukturyzacji, na piśmie, w terminie 30 dni od dnia przyjęcia planu przymusowej restrukturyzacji lub grupowego planu przymusowej restrukturyzacji przez Zarząd Funduszu.”;
+
+- **24)** w art. 85 ust. 1 otrzymuje brzmienie: „1. Podmiot krajowy przekazuje Funduszowi informacje niezbędne do opracowania, przeglądu i aktualizacji planów przymusowej restrukturyzacji, dotyczące w szczególności rozwiązań organizacyjnych podmiotu, podmiotów powiązanych kapitałowo lub organizacyjnie, struktury kapitałowej, struktury zatrudnienia, rodzaju i zakresu prowadzonej działalności, z uwzględnieniem strategii rozwoju oraz aktywów i pasywów podmiotu, w tym informacje z rejestru, o którym mowa w art. 88.”;
+- **25)** w art. 89:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Fundusz, nie rzadziej niż raz w roku, dokonuje przeglądu planów przymusowej restrukturyzacji i grupowych planów przymusowej restrukturyzacji dla grup krajowych podmiotów dominujących i, w razie potrzeby, ich aktualizacji. Do aktualizacji planów przymusowej restrukturyzacji i grupowych planów przymusowej restrukturyzacji dla grup krajowych podmiotów dominujących przepisy art. 73–86 stosuje się odpowiednio.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku podmiotu, wobec którego przeprowadzono przymusową restrukturyzację lub zastosowano instrument umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych, Fundusz dokonuje dodatkowego przeglądu planu przymusowej restrukturyzacji i, w razie potrzeby, jego aktualizacji.”,
+    - **c)** uchyla się ust. 2;
+
+- **26)** w art. 90 w ust. 1 pkt 1 otrzymuje brzmienie: „1) określić mniejszą niż wskazana w art. 89 ust. 1 częstotliwość przeglądów planów przymusowej restrukturyzacji i grupowych planów przymusowej restrukturyzacji;”;
+- **27)** użyte w art. 90 w ust. 1 w pkt 2, w art. 185 w ust. 1 i 3 oraz w art. 186 wyrazy „ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym” zastępuje się wyrazami „ustawy o nadzorze makroostrożnościowym”;
+- **28)** w art. 91:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Po istotnej zmianie organizacyjnej lub prawnej podmiotu, w szczególności po nabyciu lub zbyciu podmiotów zależnych, zmianie struktury organizacyjnej podmiotu, zmianie podmiotu dominującego, zmianie siedziby podmiotu dominującego oraz zmianie działalności lub sytuacji finansowej podmiotu, Fundusz dokonuje przeglądu planu przymusowej restrukturyzacji i, w razie potrzeby, po zasięgnięciu opinii Komisji Nadzoru Finansowego, aktualizuje ten plan. Przepisy art. 73 ust. 3, art. 78–81 i art. 83–85 stosuje się odpowiednio.
+
+2. W przypadku, o którym mowa w art. 73 ust. 2, Fundusz dokonuje przeglądu planu przymusowej restrukturyzacji i, w razie potrzeby, aktualizuje ten plan, po konsultacji z właściwymi organami nadzoru oraz właściwymi organami przymusowej restrukturyzacji państw, w których podmiot krajowy prowadzi działalność w formie istotnego oddziału.”,
+
+- **b)** ust. 4 otrzymuje brzmienie: „4. Jeżeli w wyniku przeglądu planu przymusowej restrukturyzacji zostaną stwierdzone okoliczności, które uniemożliwiają lub utrudniają przeprowadzenie przymusowej restrukturyzacji, Fundusz informuje o nich, w formie pisemnej, podmiot i Komisję Nadzoru Finansowego, a w przypadku, o którym mowa w art. 73 ust. 2, także właściwe organy nadzoru oraz właściwe organy przymusowej restrukturyzacji państw, w których podmiot krajowy prowadzi działalność w formie istotnego oddziału.”,
+- **c)** po ust. 5 dodaje się ust. 5a–5e w brzmieniu: „5a. W przypadku gdy:
+- **1)** podmiot objęty wymogiem, o którym mowa w art. 97 ust. 1, spełnia wymogi w zakresie funduszy własnych, o których mowa w art. 92 rozporządzenia nr 575/2013, i wymóg połączonego bufora stosowanego ponad dodatkowy wymóg w zakresie funduszy własnych, o którym mowa w art. 138 ust. 2 pkt 2 ustawy – Prawo bankowe albo art. 110y ust. 3 ustawy o obrocie instrumentami finansowymi, a jednocześnie nie spełnia wymogu połączonego bufora stosowanego jako uzupełnienie minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych, o którym mowa w art. 97 ust. 2, 2b–2s i 16–20, art. 97c–97e oraz art. 97h, obliczonego i wyrażonego zgodnie z art. 97 ust. 2b pkt 1, lub
+- **2)** podmiot nie spełnia wymogów, o których mowa w art. 92a rozporządzenia nr 575/2013, lub nie utrzymuje minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych określonego zgodnie z art. 97 ust. 2, 2b–2s i 16–20, art. 97c–97e oraz art. 97h – podmiot, w terminie 2 tygodni od dnia otrzymania informacji, o której mowa w ust. 4, przedstawia Funduszowi plan działań mających na celu usunięcie okoliczności uniemożliwiających lub utrudniających przeprowadzenie przymusowej restrukturyzacji wraz z terminem jego wdrożenia.
+
+5b. Plan, o którym mowa w ust. 5a, określa działania mające na celu zapewnienie jednoczesnego spełnienia wymogu połączonego bufora oraz utrzymywania minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych. Termin wdrożenia tego planu uwzględnia przyczyny zaistnienia okoliczności uniemożliwiających lub utrudniających przeprowadzenie przymusowej restrukturyzacji.
+
+5c. Fundusz, po zasięgnięciu opinii Komisji Nadzoru Finansowego, ocenia skuteczność przedstawionego zgodnie z ust. 5 lub 5a planu działań, w szczególności w przypadku powzięcia informacji, o których mowa w art. 326. Przepis art. 73 ust. 3 stosuje się odpowiednio.
+
+5d. W przypadku stwierdzenia przez Fundusz, że realizacja środków określonych w planie działań przedstawionym zgodnie z ust. 5 lub 5a nie doprowadzi do ograniczenia lub usunięcia okoliczności uniemożliwiających lub utrudniających przeprowadzenie przymusowej restrukturyzacji we właściwym czasie, Fundusz przekazuje podmiotowi pisemne stanowisko zawierające:
+
+- **1)** przesłanki, na podstawie których Fundusz stwierdził, że zaproponowane działania nie doprowadzą do ograniczenia lub usunięcia okoliczności uniemożliwiających lub utrudniających przeprowadzenie przymusowej restrukturyzacji, wraz z ich uzasadnieniem;
+- **2)** propozycję alternatywnych środków, które w ocenie Funduszu są proporcjonalne i doprowadzą do ograniczenia lub usunięcia okoliczności uniemożliwiających lub utrudniających przeprowadzenie przymusowej restrukturyzacji, wraz z ich uzasadnieniem oraz proponowanym terminem wdrożenia;
+- **3)** ocenę wpływu zaproponowanych przez Fundusz środków na sytuację finansową podmiotu oraz jego zdolność do dalszego stabilnego funkcjonowania;
+- **4)** wskazanie zagrożeń dla stabilności finansowej wynikających z okoliczności utrudniających przeprowadzenie przymusowej restrukturyzacji.
+
+5e. W przypadku, o którym mowa w ust. 5d, podmiot, w terminie 30 dni od dnia otrzymania stanowiska Funduszu, przedstawia plan realizacji środków określonych zgodnie z ust. 5d pkt 2 wraz z harmonogramem działań. Plan uwzględnia stanowisko Funduszu.”,
+
+- **d)** uchyla się ust. 6,
+- **e)** w ust. 7 zdanie pierwsze otrzymuje brzmienie: „Jeżeli plan działań przedstawiony zgodnie z ust. 5 lub 5a jest w opinii Funduszu niewystarczający, Fundusz, po zasięgnięciu opinii Komisji Nadzoru Finansowego, określi środki niezbędne do usunięcia okoliczności wskazanych w ust. 4.”;
+- **29)** w art. 92: Przepisy art. 74, art. 79, art. 80, art. 82, art. 84 i art. 86 stosuje się odpowiednio.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Fundusz, wspólnie z właściwymi organami przymusowej restrukturyzacji, po zasięgnięciu opinii Komisji Nadzoru Finansowego i organów nadzoru podmiotów zależnych oraz właściwych organów przymusowej restrukturyzacji państw, w których podmiot prowadzi działalność w formie istotnego oddziału, w ramach kolegium przymusowej restrukturyzacji, dokonuje przeglądu grupowego planu przymusowej restrukturyzacji i, w razie potrzeby, aktualizuje ten plan. Przepisy art. 74, art. 79, art. 80, art. 82, art. 84 i art. 86 stosuje się odpowiednio.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Fundusz dokonuje przeglądu grupowego planu przymusowej restrukturyzacji dla grupy krajowego podmiotu dominującego po istotnej zmianie organizacyjnej lub prawnej grupy lub podmiotu wchodzącego w jej skład, zmianie działalności lub sytuacji finansowej grupy lub podmiotu wchodzącego w jej skład, wspólnie z właściwymi organami przymusowej restrukturyzacji, i, w razie potrzeby, aktualizuje ten plan, po zasięgnięciu opinii Komisji Nadzoru Finansowego i organów nadzoru podmiotów zależnych oraz po konsultacji z właściwymi organami przymusowej restrukturyzacji państw, w których podmiot prowadzi działalność w formie istotnego oddziału, w ramach kolegium przymusowej restrukturyzacji.
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku gdy w ramach grupy została zidentyfikowana więcej niż jedna grupa podlegająca przymusowej restrukturyzacji, przepisy ust. 1 i 1a stosuje się odpowiednio do każdej grupy podlegającej przymusowej restrukturyzacji.”,
+    - **d)** ust. 3 otrzymuje brzmienie: „3. Jeżeli w wyniku przeglądu grupowego planu przymusowej restrukturyzacji zostaną stwierdzone okoliczności, które uniemożliwiają lub utrudniają przeprowadzenie przymusowej restrukturyzacji grupy lub poszczególnych podmiotów grupy, przepisy art. 91 ust. 4 i 5–5b stosuje się odpowiednio.”,
+    - **e)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Fundusz i właściwe organy przymusowej restrukturyzacji, w ramach kolegium przymusowej restrukturyzacji, po konsultacji z kolegium właściwych władz nadzorczych, o którym mowa w art. 141f ust. 18 ustawy – Prawo bankowe, lub kolegium złożonym z właściwych organów nadzoru, o którym mowa w art. 110j ust. 1 ustawy o obrocie instrumentami finansowymi, oraz właściwymi organami przymusowej restrukturyzacji państw, w których podmioty grupy prowadzą działalność w formie istotnego oddziału, oceniają skuteczność przedstawionych zgodnie z ust. 3 planów działań mających na celu usunięcie okoliczności uniemożliwiających lub utrudniających przeprowadzenie przymusowej restrukturyzacji.
+
+3b. Po konsultacji z kolegium właściwych władz nadzorczych, o którym mowa w art. 141f ust. 18 ustawy – Prawo bankowe, lub kolegium złożonym z właściwych organów nadzoru, o którym mowa w art. 110j ust. 1 ustawy o obrocie instrumentami finansowymi, i właściwymi organami przymusowej restrukturyzacji państw, w których podmioty grupy prowadzą działalność w formie istotnego oddziału, Fundusz i właściwe organy przymusowej restrukturyzacji uzgadniają, w ramach kolegium przymusowej restrukturyzacji, w formie wspólnej decyzji, środki niezbędne do ograniczenia lub usunięcia okoliczności uniemożliwiających lub utrudniających przeprowadzenie przymusowej restrukturyzacji i powiadamiają o tym Europejski Urząd Nadzoru Bankowego. W przypadku podmiotów będących częścią grupy przepisy art. 91 ust. 4, 5 i 7 stosuje się odpowiednio.”,
+
+- **f)** ust. 4 otrzymuje brzmienie: „4. Fundusz, we współpracy z Komisją Nadzoru Finansowego i Europejskim Urzędem Nadzoru Bankowego, po konsultacji z właściwymi organami nadzoru podmiotów zależnych, opracowuje informację zawierającą analizę zidentyfikowanych okoliczności utrudniających lub uniemożliwiających przeprowadzenie przymusowej restrukturyzacji wraz ze wskazaniem przyczyny, dla której realizacja środków określonych w planach działań, przedstawionych zgodnie z ust. 3, nie doprowadzi do ich ograniczenia lub usunięcia, oraz zalecenia dotyczące środków niezbędnych do ich ograniczenia lub usunięcia. Fundusz uwzględnia wpływ tych środków na działalność grupy.”,
+- **g)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Określając środki, o których mowa w ust. 3b, oraz opracowując informację, o której mowa w ust. 4, uwzględnia się wpływ środków na model biznesowy grupy.”,
+- **h)** ust. 5 i 6 otrzymują brzmienie: „5. Fundusz przekazuje informację, o której mowa w ust. 4, krajowemu podmiotowi dominującemu, właściwym organom przymusowej restrukturyzacji dla podmiotów zależnych i właściwym organom przymusowej restrukturyzacji dla istotnych oddziałów, a w przypadku, o którym mowa w art. 91 ust. 5a – krajowemu podmiotowi dominującemu.
+
+6. Krajowy podmiot dominujący może, w terminie 4 miesięcy od dnia otrzymania informacji, o której mowa w ust. 4, przedstawić Funduszowi uwagi do tej informacji oraz propozycję innych środków mających na celu ograniczenie lub usunięcie we właściwym czasie okoliczności wskazanych w informacji wraz z uzasadnieniem.”,
+
+- **i)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. W przypadku, o którym mowa w art. 91 ust. 5a, krajowy podmiot dominujący, w terminie 2 tygodni od dnia otrzymania informacji, o której mowa w ust. 4, przedstawia Funduszowi plan realizacji środków mających na celu zapewnienie jednoczesnego spełnienia wymogu połączonego bufora oraz utrzymywania minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych lub propozycję innych środków wraz z uzasadnieniem i proponowanym terminem ich wdrożenia.”,
+- **j)** w ust. 7 po wyrazach „o której mowa w ust. 6” dodaje się wyrazy „i 6a”,
+- **k)** ust. 8 i 9 otrzymują brzmienie: „8. Fundusz i właściwe organy przymusowej restrukturyzacji dla podmiotów zależnych, po konsultacji z właściwymi organami nadzoru dla podmiotów grupy i właściwymi organami przymusowej restrukturyzacji dla istotnych oddziałów podmiotów grupy, w ramach kolegium przymusowej restrukturyzacji dokonują analizy i oceny okoliczności wskazanych w ust. 3 i 3a, środków, o których mowa w ust. 3b, zaleceń, o których mowa w ust. 4, oraz propozycji, o których mowa w ust. 6 lub 6a, uwzględniając potencjalne skutki tych środków, zaleceń i propozycji w państwach członkowskich, w których podmioty grupy prowadzą działalność.
+
+9. Środki niezbędne do usunięcia okoliczności określonych w ust. 3 są uzgadniane w formie wspólnej decyzji przez Fundusz i właściwe organy przymusowej restrukturyzacji w ramach kolegium przymusowej restrukturyzacji w terminie 4 miesięcy od dnia przekazania przez krajowy podmiot dominujący Funduszowi uwag do informacji, o których mowa w ust. 6, albo w terminie miesiąca od dnia upływu terminu ich przekazania. Środki te mogą w szczególności obejmować zalecenia, o których mowa w ust. 4, oraz propozycje, o których mowa w ust. 6 i 6a.”,
+
+- **l)** po ust. 9 dodaje się ust. 9a w brzmieniu: „9a. W przypadku, o którym mowa w art. 91 ust. 5a, środki niezbędne do usunięcia okoliczności określonych w ust. 3 są uzgadniane w formie wspólnej decyzji przez Fundusz i właściwe organy przymusowej restrukturyzacji w ramach kolegium przymusowej restrukturyzacji w terminie 2 tygodni od dnia przekazania przez krajowy podmiot dominujący Funduszowi propozycji, o której mowa w ust. 6a.”,
+- **m)** w ust. 10 po wyrazach „w ust. 9” dodaje się wyrazy „i 9a”,
+- **n)** w ust. 11 po wyrazach „w ust. 9” dodaje się wyrazy „i 9a”;
+- **30)** w art. 93:
+    - **a)** w ust. 1 wyrazy „przeprowadzonej oceny” zastępuje się wyrazami „przeprowadzonego przeglądu”,
+    - **b)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Jeżeli przed upływem terminu 4 miesięcy, a w przypadku określonym w art. 91 ust. 5a – terminu 2 tygodni, od dnia przekazania właściwemu organowi przymusowej restrukturyzacji dla grupy propozycji działań zapewniających usunięcie okoliczności, o których mowa w ust. 1, albo w przypadku upływu terminu na ich przekazanie, nie zostaną uzgodnione środki niezbędne do usunięcia tych okoliczności, Fundusz dokonuje ustalenia tych środków w zakresie odnoszącym się do krajowego podmiotu zależnego z uwzględnieniem opinii pozostałych właściwych organów przymusowej restrukturyzacji wchodzących w skład kolegium przymusowej restrukturyzacji.”;
+
+- **31)** w art. 94 ust. 1 otrzymuje brzmienie: „1. Jeżeli plan przymusowej restrukturyzacji lub grupowy plan przymusowej restrukturyzacji zakłada restrukturyzację podmiotu z wykorzystaniem instrumentu umorzenia lub konwersji zobowiązań, a także w celu zapewnienia możliwości dokonania umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych zgodnie z art. 70 ust. 1, Fundusz, po zasięgnięciu opinii Komisji Nadzoru Finansowego, może zobowiązać podmiot do warunkowego podniesienia kapitału zakładowego oraz usunięcia postanowień statutu lub umowy spółki ograniczających możliwość dokonania umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych lub wykorzystania instrumentu umorzenia lub konwersji zobowiązań.”;
+- **32)** w art. 95:
+    - **a)** w ust. 1 dodaje się zdanie drugie w brzmieniu: „Fundusz zasięga opinii Komitetu Stabilności Finansowej w przypadku, gdy zalecenie, ze względu na wielkość podmiotu lub grupy, może mieć wpływ na stabilność krajowego systemu finansowego lub poziom ryzyka systemowego.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przed zastosowaniem środków, o których mowa w ust. 1, Fundusz analizuje ich potencjalny wpływ na podmiot, wewnętrzny rynek usług finansowych oraz stabilność systemu finansowego w państwach członkowskich innych niż Rzeczpospolita Polska.”,
+    - **c)** w ust. 2 zdanie drugie otrzymuje brzmienie: „Fundusz niezwłocznie informuje o wydanym zaleceniu Komisję Nadzoru Finansowego oraz Komitet Stabilności Finansowej, jeżeli wyraził opinię, o której mowa w ust. 1 zdanie drugie.”,
+    - **d)** uchyla się ust. 3,
+    - **e)** w ust. 4: – pkt 9–11 otrzymują brzmienie: „9) utworzenia dominującej finansowej spółki holdingowej z państwa członkowskiego z siedzibą na terytorium Rzeczypospolitej Polskiej lub unijnej dominującej finansowej spółki holdingowej w celu ułatwienia przymusowej restrukturyzacji oraz uniknięcia sytuacji, w której zastosowanie instrumentów przymusowej restrukturyzacji oraz uprawnień, o których mowa w przepisach rozdziału 5, będzie miało negatywne skutki dla niefinansowej części danej grupy;
+
+- **10)** emisji zobowiązań kwalifikowalnych w celu osiągnięcia minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych, instrumentów dłużnych zamiennych na kapitał lub innych instrumentów kapitałowych lub dłużnych podlegających umorzeniu lub konwersji;
+- **11)** podjęcia działań innych niż określone w pkt 10 w celu osiągnięcia minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych, w szczególności renegocjacji warunków zobowiązań kwalifikowalnych, instrumentów dodatkowych w Tier I lub instrumentów w Tier II oraz zobowiązań, o których mowa w art. 206 ust. 1, w celu zapewnienia skuteczności umorzenia lub konwersji na mocy prawa właściwego dla tego zobowiązania lub tego instrumentu;”, – po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) zmiany profilu zapadalności instrumentów funduszy własnych, za zgodą Komisji Nadzoru Finansowego, oraz zobowiązań kwalifikowalnych, o których mowa w art. 97a–97g i art. 98 ust. 2l pkt 1, w celu zapewnienia stałego utrzymywania minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych;”, – w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 i 14 w brzmieniu: „13) przedstawienia planu działań mających na celu zapewnienie jednoczesnego spełnienia wymogu połączonego bufora i utrzymywania minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych wyrażonego zgodnie z art. 97 ust. 2b pkt 1 oraz zapewnienie utrzymywania minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych wyrażonego zgodnie z art. 97 ust. 2b pkt 2;
+- **14)** przygotowania w systemach do prowadzenia ksiąg rachunkowych banku funkcjonalności umożliwiającej dokonanie na wybrany dzień systemowych operacji redukcji sald kapitału i odsetek w zakresie wszystkich lub wybranych zobowiązań, z wykorzystaniem stosowanych w systemie wyliczania parametrów dotyczących klientów oraz wierzytelności oraz z uwzględnieniem przypisania zobowiązania do kategorii zaspokajania roszczeń zgodnie z art. 440 ust. 2 ustawy – Prawo upadłościowe.”;
+- **33)** po art. 96 dodaje się art. 96a–96d w brzmieniu: „Art. 96a. 1. Podmiot objęty wymogiem, o którym mowa w art. 97 ust. 1, prowadzi wewnętrzny proces weryfikacji w celu ustalenia, czy posiada fundusze własne i zobowiązania kwalifikowalne w kwocie koniecznej do jednoczesnego spełniania wymogu połączonego bufora oraz utrzymywania minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych wyrażonego zgodnie z art. 97 ust. 2, 2b–2s i 16–20, art. 97c–97e oraz art. 97h.
+
+2. W przypadku, o którym mowa w art. 91 ust. 5a pkt 1, Fundusz, po zasięgnięciu opinii Komisji Nadzoru Finansowego, może, w drodze decyzji, zakazać podmiotowi wypłaty zysków powyżej maksymalnej kwoty podlegającej wypłacie związanej z minimalnym wymogiem w zakresie funduszy własnych i zobowiązań kwalifikowalnych (M-MDA).
+
+3. Przez wypłatę zysków, o której mowa w ust. 2, należy rozumieć:
+
+- **1)** dokonywanie wypłaty zysków związanej z kapitałem podstawowym Tier I, o której mowa w art. 55 ust. 3 ustawy o nadzorze makroostrożnościowym;
+- **2)** podejmowanie zobowiązań do wypłaty zmiennych składników wynagrodzenia lub uznaniowych świadczeń emerytalnych;
+- **3)** dokonywanie wypłaty zmiennych składników wynagrodzenia, jeżeli zobowiązanie do wypłaty powstało w okresie, w którym podmiot nie spełniał wymogu połączonego bufora;
+- **4)** dokonywanie płatności z tytułu instrumentów dodatkowych w Tier I.
+
+4. Podmiot niezwłocznie powiadamia Fundusz i Komisję Nadzoru Finansowego o wystąpieniu okoliczności, o których mowa w art. 91 ust. 5a pkt 1. Podmiot przekazuje Funduszowi informację o M-MDA, na jego żądanie, w terminie określonym przez Fundusz, nie krótszym niż 5 dni roboczych od dnia otrzymania żądania Funduszu.
+
+5. Fundusz, wydając decyzję, o której mowa w ust. 2, uwzględnia następujące okoliczności:
+
+- **1)** przyczynę, czas trwania i skalę niespełnienia wymogu, a także jego wpływ na wykonalność planu przymusowej restrukturyzacji lub grupowego planu przymusowej restrukturyzacji;
+- **2)** prawdopodobieństwo podjęcia przez podmiot działań zmierzających do zwiększenia sumy funduszy własnych i zobowiązań kwalifikowalnych oraz ryzyko dalszego obniżenia sumy funduszy własnych i zobowiązań kwalifikowalnych, w tym prawdopodobieństwo wystąpienia zagrożenia podmiotu upadłością, o którym mowa w art. 101 ust. 3;
+- **3)** możliwość usunięcia we właściwym czasie okoliczności uniemożliwiającej lub utrudniającej przeprowadzenie przymusowej restrukturyzacji – w przypadku, o którym mowa w art. 91 ust. 5a pkt 1;
+- **4)** brak zdolności podmiotu do zastąpienia zobowiązań, które przestały spełniać kryteria kwalifikowalności lub zapadalności określone w art. 97a– 97f lub art. 98 ust. 2l lub określone w art. 72b i art. 72c rozporządzenia nr 575/2013, w tym czy brak zdolności ma charakter indywidualny, czy wynika z zakłóceń na całym rynku;
+- **5)** adekwatność i proporcjonalność zakazu oraz jego wpływ na warunki finansowania podmiotu i wykonalność planu przymusowej restrukturyzacji lub grupowego planu przymusowej restrukturyzacji.
+
+6. Fundusz, do dnia ustania okoliczności, o których mowa w art. 91 ust. 5a pkt 1, nie rzadziej niż raz w miesiącu, dokonuje oceny zasadności wydania decyzji, o której mowa w ust. 2, i konieczności utrzymania zakazu wynikającego z tej decyzji. Podmiot przekazuje Funduszowi informacje o ustaleniach dokonanych zgodnie z ust. 1 oraz inne informacje niezbędne do oceny okoliczności określonych w ust. 5.
+
+7. Fundusz potwierdza ustanie okoliczności, o których mowa w art. 91 ust. 5a pkt 1, i uchyla decyzję, o której mowa w ust. 2, po zasięgnięciu opinii Komisji Nadzoru Finansowego.
+
+8. Komisja Nadzoru Finansowego wyraża opinię, o której mowa w ust. 2 i 7, niezwłocznie, nie później niż w terminie 30 dni od dnia otrzymania wniosku Funduszu o wydanie takiej opinii.
 
 **Art. 96b.**
 
@@ -384,6 +632,15 @@ source: "isap-pdf"
 3. Kwota kapitału podstawowego Tier I, którą podmiot utrzymuje w celu spełnienia wymogu połączonego bufora, nie jest jednocześnie zaliczana do wymogów wyrażonych jako odsetek łącznej kwoty ekspozycji na ryzyko, o których mowa w art. 97c, art. 97d ust. 1 i art. 97e.
 
 **Art. 97g.** W przypadkach, o których mowa w art. 97d ust. 1 i art. 97e, Fundusz uwzględnia:
+
+- **1)** obecność kupujących i sprzedających na rynku funduszy własnych i podporządkowanych instrumentów kwalifikowalnych podmiotu podlegającego przymusowej restrukturyzacji, gotowych do zawierania transakcji, dostępność wyceny takich instrumentów oraz czas konieczny do zrealizowania transakcji niezbędnych do celów zastosowania się do rozstrzygnięcia Funduszu;
+- **2)** wartość instrumentów, które wynikają z zobowiązań kwalifikowalnych, które spełniają warunki określone w art. 72a rozporządzenia nr 575/2013, o rezydualnym terminie zapadalności wynoszącym mniej niż rok, liczonym od dnia określenia przez Fundusz minimalnej kwoty funduszy własnych lub podporządkowanych instrumentów kwalifikowalnych, lub zobowiązań, o których mowa w art. 97b ust. 1, których warunki emisji lub konstrukcja przewidują możliwość dokonania korekt ilościowych w stosunku do wymogów, o których mowa w art. 97d ust. 1 i art. 97e;
+- **3)** dostępność i wartość instrumentów, które spełniają warunki, o których mowa w art. 72a rozporządzenia nr 575/2013, inne niż określone w art. 72b ust. 2 lit. d tego rozporządzenia;
+- **4)** czy kwota zobowiązań, które są wyłączone ze stosowania umorzenia i konwersji zgodnie z art. 206 ust. 1 lub 3 i zaliczają się do tej samej kategorii uprzywilejowania co zobowiązania kwalifikowalne o najwyższym stopniu uprzywilejowania lub kategorii, która w postępowaniu upadłościowym podlega zaspokojeniu w dalszej kolejności zaspokajania należności zgodnie z art. 440 ust. 2 ustawy – Prawo upadłościowe, jest istotna w porównaniu z kwotą funduszy własnych i zobowiązań kwalifikowalnych podmiotu podlegającego przymusowej restrukturyzacji;
+- **5)** model biznesowy, sposób finansowania, profil ryzyka, w tym kapitał, płynność i finansowanie, jakość aktywów, model prowadzenia działalności i zarządzania podmiotu podlegającego przymusowej restrukturyzacji, oraz potencjalne straty Funduszu;
+- **6)** znaczenie podmiotu dla stabilności finansowej oraz wpływ na funkcjonowanie gospodarki, w szczególności ze względu na powiązania z innymi podmiotami systemu finansowego;
+- **7)** wpływ potencjalnych kosztów restrukturyzacji podmiotu określonych w programie restrukturyzacji, o którym mowa w art. 214, na poziom funduszy własnych podmiotu podlegającego przymusowej restrukturyzacji;
+- **8)** czy kwota zobowiązań wyłączonych ze stosowania umorzenia lub konwersji, o których mowa w pkt 4, przekracza poziom 5% łącznej kwoty funduszy własnych i zobowiązań kwalifikowalnych podmiotu podlegającego przymusowej restrukturyzacji, poniżej którego kwotę tę uznaje się za nieistotną.
 
 **Art. 97h.**
 
@@ -827,6 +1084,48 @@ source: "isap-pdf"
 
 **Art. 204.** Wierzyciele, których wierzytelności podlegają konwersji, obejmują prawa udziałowe w liczbie wynikającej z wartości konwertowanych wierzytelności oraz wartości nominalnej lub ceny emisyjnej ustalonej w decyzji o zastosowaniu instrumentu umorzenia lub konwersji zobowiązań. Wartość tych praw jest ustalana przez Fundusz w sposób umożliwiający pokrycie strat oraz wzrost funduszy własnych podmiotu w restrukturyzacji zgodnie z art. 202 ust. 1.”;
 
+- **76)** w art. 205 ust. 1 otrzymuje brzmienie: „1. W przypadku gdy podmiot w restrukturyzacji wyemitował instrumenty finansowe, które przewidują redukcję kwoty zobowiązania lub konwersję zobowiązania na prawa udziałowe lub inne pozycje funduszy własnych w przypadku zdarzenia powiązanego z sytuacją finansową, wypłacalnością, pozycją kapitałową lub poziomem funduszy własnych, zobowiązanie takie umarza się lub konwertuje zgodnie z warunkami emisji, przed dokonaniem umorzenia lub konwersji pozostałych zobowiązań, o których mowa w art. 209 ust. 3 pkt 3.”;
+- **77)** w art. 206:
+    - **a)** w ust. 1: – pkt 6 otrzymuje brzmienie: „6) wynikających z uczestnictwa w systemach płatności, systemach rozrachunku lub zobowiązań wobec operatorów tych systemów lub ich uczestników, powstałych w wyniku uczestnictwa w takim systemie, lub wobec CCP posiadających zezwolenie na prowadzenie działalności w Unii Europejskiej uzyskane zgodnie z art. 14 rozporządzenia nr 648/2012 oraz kontrahentów centralnych z państw trzecich uznanych przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych zgodnie z art. 25 rozporządzenia nr 648/2012, które staną się wymagalne w terminie krótszym niż 7 dni od dnia ich umorzenia lub konwersji;”, – w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) wobec podmiotów należących do tej samej grupy podlegającej przymusowej restrukturyzacji, niebędących podmiotami podlegającymi przymusowej restrukturyzacji, niezależnie od terminu wymagalności tych zobowiązań.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku, o którym mowa w ust. 1 pkt 11, właściwy organ przymusowej restrukturyzacji dla podmiotu zależnego niebędącego podmiotem podlegającym przymusowej restrukturyzacji ustala, czy kwota wynikająca z zobowiązań i funduszy własnych, o których mowa w art. 98 ust. 2l, jest wystarczająca do przeprowadzenia przymusowej restrukturyzacji.”,
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Fundusz ustala, czy zobowiązania wobec podmiotów należących do tej samej grupy podlegającej przymusowej restrukturyzacji, niebędących podmiotami podlegającymi przymusowej restrukturyzacji, które nie podlegały wyłączeniu zgodnie z ust. 1 pkt 11, powinny zostać w całości albo części wyłączone zgodnie z ust. 3 w celu przeprowadzenia przymusowej restrukturyzacji.”;
+
+- **78)** w art. 208 ust. 1 otrzymuje brzmienie: „1. Umorzeniu lub konwersji podlegają zobowiązania z tytułu kwoty głównej lub kwoty pozostającej do spłaty, w tym odsetek.”;
+- **79)** w art. 209 w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) instrumenty kapitałowe lub zobowiązania kwalifikowalne zgodnie z kolejnością określoną w art. 72 ust. 1;
+- **2)** pozostałe zobowiązania kwalifikowalne, jeżeli kwota umorzenia lub konwersji wierzytelności, o których mowa w pkt 1, jest mniejsza niż konieczna kwota umorzenia lub konwersji;”;
+- **80)** w art. 211:
+    - **a)** uchyla się ust. 1,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Prawo wykonywania głosu z praw udziałowych objętych w wyniku konwersji pozostaje zawieszone do czasu zakończenia przymusowej restrukturyzacji.”,
+    - **c)** dodaje się ust. 3 w brzmieniu: „3. Do konwersji zobowiązań nie stosuje się przepisów art. 34 ust. 2 ustawy – Prawo bankowe, art. 37a, art. 37b i art. 69–69b ustawy o ofercie publicznej oraz art. 19 ust. 1 pkt 2 oraz art. 86 ustawy o obrocie instrumentami finansowymi oraz art. 3 ust. 1 i 3 rozporządzenia nr 2017/1129.”;
+
+- **81)** uchyla się art. 212;
+- **82)** po art. 212 dodaje się art. 212a i art. 212b w brzmieniu: „Art. 212a. 1. Decyzja o zastosowaniu instrumentu umorzenia lub konwersji zobowiązań dotycząca podmiotów działających w formie spółki kapitałowej zawiera:
+- **1)** wskazanie kwoty, o jaką kapitał zakładowy ma zostać obniżony, a w przypadku gdy instrumenty kapitałowe lub zobowiązania podlegają konwersji na udziały lub akcje, które są ustanawiane lub emitowane na podstawie decyzji Funduszu – sumy, o jaką kapitał zakładowy ma zostać podwyższony;
+- **2)** wskazanie liczby, serii i numerów lub innego oznaczenia instrumentów kapitałowych lub zobowiązań podlegających umorzeniu lub konwersji, a w przypadku posiadania przez te instrumenty lub zobowiązania odrębnego oznaczenia, o którym mowa w art. 55 ustawy o obrocie instrumentami finansowymi, również wskazanie tego oznaczenia;
+- **3)** wskazanie liczby, serii oraz wartości nominalnej nowo ustanowionych udziałów lub wyemitowanych akcji lub wartości, o którą następuje podwyższenie wartości nominalnej udziałów lub akcji już istniejących;
+- **4)** oznaczenie, czy akcje powstałe wskutek konwersji są imienne, czy na okaziciela;
+- **5)** wskazanie osób, które obejmują akcje lub udziały w podwyższonym kapitale zakładowym lub na rzecz których następuje emisja akcji lub ustanowienie udziałów, w tym przez wskazanie instrumentów kapitałowych lub zobowiązań podlegających konwersji, których posiadacze są uprawnieni do objęcia takich akcji lub udziałów;
+- **6)** określenie, że objęcie akcji lub udziałów w podwyższonym kapitale zakładowym następuje z wyłączeniem prawa pierwszeństwa lub prawa poboru;
+- **7)** określenie ceny emisyjnej nowych akcji albo ceny obejmowanych udziałów;
+- **8)** wskazanie daty, od której akcje lub udziały powstałe w wyniku konwersji będą uczestniczyć w dywidendzie;
+- **9)** sposób pozwalający na identyfikację instrumentów kapitałowych lub zobowiązań podlegających umorzeniu – w przypadku gdy określona w tej decyzji liczba lub wartość umarzanych instrumentów kapitałowych lub zobowiązań jest mniejsza niż liczba lub wartość tych instrumentów lub zobowiązań oznaczonych odrębnym oznaczeniem, o którym mowa w art. 55 ustawy o obrocie instrumentami finansowymi.
+
+2. Decyzja, o której mowa w ust. 1, zastępuje określone w Kodeksie spółek handlowych, ustawie – Prawo bankowe oraz statucie lub umowie spółki czynności związane z obniżeniem lub podwyższeniem kapitału zakładowego, pokryciem straty, przystąpieniem do spółki, objęciem udziałów lub akcji, wniesieniem wkładu oraz zmianą statutu lub umowy spółki.
+
+3. Instrumenty kapitałowe oraz zobowiązania, wskazane w decyzji, o której mowa w ust. 1, stanowiące instrumenty finansowe rejestrowane w depozycie papierów wartościowych, umarza się lub konwertuje według stanu na koniec dnia, w którym decyzja, o której mowa w ust. 1, lub informacja o tej decyzji została zamieszczona na stronie internetowej Funduszu. Dzień zamieszczenia decyzji lub informacji o decyzji na stronie internetowej Funduszu jest dniem ustalenia osób uprawnionych z umarzanych lub konwertowanych instrumentów finansowych. Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna dokonuje rozrachunku transakcji w instrumentach finansowych będących przedmiotem umorzenia lub konwersji do końca dnia, w którym decyzja lub informacja o decyzji została zamieszczona na stronie internetowej Funduszu, a wszystkie wprowadzone do systemu rozrachunku zlecenia rozrachunku dotyczące nierozrachowanych transakcji w tych instrumentach finansowych tracą ważność z końcem tego dnia.
+
+4. Zamieszczenie decyzji, o której mowa w ust. 1, lub informacji o tej decyzji na stronie internetowej Funduszu zastępuje przekazanie odpisu decyzji:
+
+- **1)** akcjonariuszom lub wspólnikom, którzy na podstawie tej decyzji objęli akcje lub udziały w podwyższonym kapitale zakładowym;
+- **2)** akcjonariuszom lub wspólnikom, których akcje lub udziały zostały umorzone na podstawie tej decyzji;
+- **3)** obligatariuszom lub posiadaczom innych instrumentów kapitałowych lub finansowych, które podlegają umorzeniu albo konwersji na podstawie tej decyzji.
+
+5. Fundusz, w celu ujawnienia w Krajowym Rejestrze Sądowym obniżenia lub podwyższenia kapitału zakładowego spółki, niezwłocznie informuje o wydaniu decyzji, o której mowa w ust. 1, właściwy sąd rejestrowy, przekazując mu odpis tej decyzji bez oszacowania i uzasadnienia, z uwzględnieniem obowiązku dochowania tajemnic, o których mowa w art. 320 ust. 2, oraz tajemnic, o których mowa w art. 104 ustawy – Prawo bankowe, art. 9e ustawy o spółdzielczych kasach oszczędnościowo-kredytowych i art. 147 ustawy o obrocie instrumentami finansowymi.
+
+6. Odpis decyzji, o której mowa w ust. 1, stanowi podstawę wpisu obniżenia lub podwyższenia kapitału zakładowego spółki do Krajowego Rejestru Sądowego. Podwyższenie albo obniżenie kapitału zakładowego spółki następuje z chwilą doręczenia decyzji Funduszu podmiotowi, o którym mowa w ust. 1.
+
+7. W przypadku gdy instrumenty będące przedmiotem umorzenia lub powstałe w wyniku konwersji podlegają zarejestrowaniu w depozycie papierów wartościowych albo w rejestrze akcjonariuszy, Fundusz niezwłocznie informuje Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną albo podmiot prowadzący rejestr akcjonariuszy o wydaniu decyzji, o której mowa w ust. 1, przekazując mu odpis tej decyzji w zakresie niezbędnym do ujawnienia umorzenia akcji w depozycie papierów wartościowych albo w rejestrze akcjonariuszy albo w celu rejestracji odpowiednio w depozycie papierów wartościowych albo w rejestrze akcjonariuszy akcji wyemitowanych w ramach podwyższenia kapitału zakładowego spółki.
+
 **Art. 212b.**
 
 1. Decyzja w przedmiocie umorzenia zobowiązań podmiotu w restrukturyzacji będącego bankiem spółdzielczym albo kasą zawiera:
@@ -1037,21 +1336,88 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 16 w ust. 1 pkt 58 otrzymuje brzmienie: „58) wydatków i kosztów bezpośrednio sfinansowanych z dochodów (przychodów), o których mowa w art. 17 ust. 1 pkt 14a, 23, 24, 42, 47, 48, 52, 53, 54a, 55, 56, 56b i 59;”;
+- **2)** w art. 17 w ust. 1 po pkt 56a dodaje się pkt 56b w brzmieniu: „56b) środki finansowe przeznaczone na zapłatę za przeniesienie praw udziałowych przejmowanego podmiotu, o którym mowa w art. 19d ust. 1 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124, z 2019 r. poz. 1798 oraz z 2021 r. poz. 1598), otrzymane przez podmiot przejmujący;”.
+
 **Art. 3.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112 oraz z 2020 r. poz. 2320) wprowadza się następujące zmiany:
+
+- **1)** w art. 44 w ust. 1 pkt 2a otrzymuje brzmienie: „2a) dane o osobie administratora, o którym mowa w art. 153 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680, 1177, 1535 i 1598), lub zastępcy administratora, o którym mowa w art. 154a tej ustawy;”;
+- **2)** w art. 45 po ust. 1b dodaje się ust. 1ba w brzmieniu: „1ba. Po przesłaniu do sądu rejestrowego przez Bankowy Fundusz Gwarancyjny odpisu decyzji bez oszacowania i uzasadnienia w przedmiocie umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych albo odpisu decyzji o zastosowaniu instrumentu umorzenia lub konwersji zobowiązań wpisów danych, o których mowa w art. 38 pkt 3, pkt 8 lit. a–d i g i pkt 9 lit. a–e, h oraz i, w dziale 1 rejestru przedsiębiorców dokonuje się z urzędu.”.
 
 **Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540) w art. 93 dodaje się § 4 w brzmieniu: „§ 4. Przepis § 1 stosuje się odpowiednio do:
 
+- **1)** banku przejmującego inny bank;
+- **2)** spółdzielczej kasy oszczędnościowo-kredytowej, banku lub instytucji kredytowej przejmujących spółdzielczą kasę oszczędnościowo-kredytową.”.
+
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2020 r. poz. 2027) wprowadza się następujące zmiany:
+
+- **1)** w art. 39 po ust. 3a dodaje się ust. 3b w brzmieniu: „3b. Zarząd NBP może zwolnić podmiot w restrukturyzacji lub instytucję pomostową, o których mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680, 1177, 1535 i 1598), z obowiązku utrzymywania rezerwy obowiązkowej w okresie przymusowej restrukturyzacji.”;
+- **2)** po art. 43 dodaje się art. 43a w brzmieniu: „Art. 43a. 1. W przypadku zabezpieczenia kredytów, o których mowa w art. 42 i art. 43, przelewem wierzytelności hipotecznych lub wierzytelności zabezpieczonych zastawami rejestrowymi na NBP przechodzą odpowiednio hipoteki lub zastawy rejestrowe z dniem udzielenia tych kredytów. Przepisów art. 79 ust. 1 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204 oraz z 2021 r. poz. 1177) oraz art. 17 ust. 1 zdanie drugie ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017) nie stosuje się.
+
+2. Do chwili ujawnienia cesjonariusza w odpowiednim rejestrze przelew wierzytelności, o którym mowa w ust. 1, jest bezskuteczny w stosunku do dłużnika rzeczowego. W razie wygaśnięcia hipoteki albo zastawu rejestrowego przed ujawnieniem cesjonariusza w odpowiednim rejestrze cedent jest obowiązany dokonać wszelkich czynności umożliwiających wykreślenie hipoteki z księgi wieczystej albo zastawu rejestrowego z rejestru zastawów.
+
+3. Z chwilą zawiadomienia sądu, sądu polubownego lub organu prowadzącego postępowanie administracyjne o przelewie wierzytelności, o którym mowa w ust. 1, na zabezpieczenie kredytów, o których mowa w art. 42 i art. 43, NBP wstępuje z mocy prawa w miejsce kredytobiorcy do postępowań cywilnych, administracyjnych, sądowo-administracyjnych oraz przed sądami polubownymi, dotyczących przelanych wierzytelności, bez zezwolenia strony przeciwnej albo osoby trzeciej, która ma interes prawny.
+
+4. Przepis ust. 3 stosuje się również do dotychczasowego kredytobiorcy w zakresie wstąpienia w miejsce NBP do postępowań po spłacie należności z tytułu udzielenia kredytów, o których mowa w art. 42 i art. 43, na podstawie zaświadczenia wydanego przez NBP.”.
 
 **Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 4 w ust. 1 pkt 52 i 53 otrzymują brzmienie: „52) podmiot podlegający przymusowej restrukturyzacji – podmiot, o którym mowa w art. 2 pkt 41a ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680, 1177, 1535 i 1598);
+- **53)** grupa podlegająca przymusowej restrukturyzacji – grupę, o której mowa w art. 2 pkt 19a ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;”;
+- **2)** w art. 104 w ust. 2 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „13) udzielenie przez Narodowy Bank Polski informacji objętych tajemnicą bankową następuje na rzecz Banku Gospodarstwa Krajowego w zakresie zlecenia spraw i czynności związanych z udzieleniem kredytów, o których mowa w art. 42 i art. 43 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, w tym związanych z zabezpieczeniem lub obsługą tych kredytów.”;
+- **3)** w art. 106d w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Banki, inne instytucje ustawowo upoważnione do udzielania kredytów, izby rozliczeniowe utworzone na podstawie art. 67, instytucje utworzone na mocy art. 105 ust. 4, jednostki zarządzające systemem ochrony, o których mowa w art. 22d ust. 1 pkt 2 ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających, instytucje pożyczkowe, instytucje finansowe, których podstawowa działalność polega na udostępnianiu składników majątkowych na podstawie umowy leasingu lub świadczeniu usług faktoringowych, podmioty, których podstawowa działalność polega na udostępnianiu składników majątkowych na podstawie umowy leasingu, oraz podmioty, o których mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, mogą przetwarzać i wzajemnie udostępniać informacje, w tym informacje objęte tajemnicą bankową, w przypadkach:”;
+- **4)** art. 106e otrzymuje brzmienie: „Art. 106e. Do przetwarzania danych osobowych przez banki, inne instytucje ustawowo upoważnione do udzielania kredytów oraz instytucje utworzone na podstawie art. 105 ust. 4, jednostki zarządzające systemem ochrony, o których mowa w art. 22d ust. 1 pkt 2 ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających, instytucje pożyczkowe, instytucje finansowe, których podstawowa działalność polega na udostępnianiu składników majątkowych na podstawie umowy leasingu lub świadczeniu usług faktoringowych, podmioty, których podstawowa działalność polega na udostępnianiu składników majątkowych na podstawie umowy leasingu, oraz podmioty, o których mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, przepisu art. 15 rozporządzenia 2016/679 nie stosuje się w zakresie, w jakim jest to niezbędne dla prawidłowej realizacji zadań dotyczących przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu, zgodnie z art. 106, oraz zapobiegania przestępstwom, zgodnie z art. 106a i art. 106d.”;
+- **5)** w art. 141q w ust. 4 zdanie pierwsze otrzymuje brzmienie: „Przed wydaniem decyzji, o której mowa w ust. 1, Komisja Nadzoru Finansowego występuje do Bankowego Funduszu Gwarancyjnego o przedstawienie w terminie 21 dni roboczych opinii w sprawie przewidywanego wpływu wykonania planu naprawy na przymusową restrukturyzację, o której mowa w dziale III w rozdziale 5 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.”;
+- **6)** w art. 142 w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) wystąpić do zarządu banku z nakazem przekazania do Komisji Nadzoru Finansowego w terminie przez nią wskazanym:
+    - **a)** analizy przyczyn pogarszającej się sytuacji finansowej banku oraz prognozy kształtowania się tej sytuacji we wskazanym przez Komisję Nadzoru Finansowego okresie,
+    - **b)** w przypadku braku zaakceptowanego przez Komisję Nadzoru Finansowego planu naprawy lub konieczności jego zmiany – deklaracji o podjęciu środków pozwalających zminimalizować skutki naruszeń, o których mowa w ust. 1, lub ryzyko ich wystąpienia oraz okolicznościach wskazanych w ust. 2, wraz z harmonogramem działań mających na celu przywrócenie sposobu prowadzenia przez bank działalności do stanu zgodności z obowiązującymi przepisami prawa,
+    - **c)** dodatkowego, w stosunku do planu naprawy, harmonogramu działań mających na celu poprawę sytuacji finansowej banku.”.
+
 **Art. 7.** W ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2019 r. poz. 212) wprowadza się następujące zmiany:
 
+- **1)** w art. 1:
+    - **a)** pkt 6–10 otrzymują brzmienie: „6) CCP – podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia (UE) nr 648/2012;
+
+- **7)** agent rozrachunkowy – podmiot prowadzący w ramach systemu rachunki rozliczeniowe dla instytucji lub CCP, poprzez które dokonuje rozrachunku i udziela – w zależności od posiadanych uprawnień – kredytu dla celów rozrachunkowych instytucji lub CCP;
+- **8)** izba rozliczeniowa – podmiot, do którego obowiązków należy obliczanie należności lub zobowiązań netto instytucji, CCP lub agenta rozrachunkowego;
+- **9)** uczestnik – instytucję, CCP, agenta rozrachunkowego, izbę rozliczeniową, podmiot prowadzący system lub członka rozliczającego, o którym mowa w art. 2 pkt 14 rozporządzenia (UE) nr 648/2012;
+- **10)** uczestnik pośredni – instytucję, CCP, agenta rozrachunkowego, izbę rozliczeniową lub podmiot prowadzący system, związany z uczestnikiem umową umożliwiającą przekazywanie jego zleceń rozrachunku do systemu, pod warunkiem że uczestnik pośredni jest znany podmiotowi prowadzącemu system;”, w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm. ).”;
+    - **b)** pkt 19 otrzymuje brzmienie: „19) podmiot prowadzący system – CCP, agenta rozrachunkowego oraz izbę rozliczeniową, w tym w szczególności izbę rozliczeniową lub izbę rozrachunkową działającą na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub inne podmioty określające wspólne dla uczestników systemu zasady realizacji ich zleceń rozrachunku;”,
+    - **c)** dodaje się pkt 20 w brzmieniu: „20) rozporządzenie (UE) nr 648/2012 – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r.
+
+- **2)** w art. 2:
+    - **a)** w ust. 1 wyrazy „partnera centralnego” zastępuje się wyrazem „CCP”,
+    - **b)** w ust. 2 wyrazy „partnera centralnego” zastępuje się wyrazem „CCP”;
+
+- **3)** w art. 3 wyrazy „partner centralny” zastępuje się wyrazem „CCP”;
+- **4)** w art. 16 ust. 2 otrzymuje brzmienie: „2. Prowadzenie systemów rozrachunku papierów wartościowych, z wyjątkiem systemów prowadzonych przez Krajowy Depozyt Papierów Wartościowych S.A. lub przez spółkę, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 6 lub ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz systemów prowadzonych przez NBP, wymaga zezwolenia KNF na prowadzenie izby rozliczeniowej lub izby rozrachunkowej, wydanego na podstawie art. 68a ust. 5 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub zezwolenia KNF na świadczenie usług rozliczeniowych jako CCP, wydanego na podstawie art. 14 ust. 1 rozporządzenia (UE) nr 648/2012, lub zezwolenia KNF na prowadzenie działalności jako depozyt papierów wartościowych, wydanego na podstawie art. 16 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 28.08.2014, str. 1, z późn. zm. ).”.
+
 **Art. 8.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2020 r. poz. 2176) w art. 5:
+
+- **1)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Prawo do informacji publicznej podlega ograniczeniu w zakresie i na zasadach określonych w ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124, z 2019 r. poz. 1798 oraz z 2021 r. poz. 1598).”;
+- **2)** ust. 3 otrzymuje brzmienie: „3. Nie można, z zastrzeżeniem ust. 1 i 2–2b, ograniczać dostępu do informacji o sprawach rozstrzyganych w postępowaniu przed organami państwa, w szczególności w postępowaniu administracyjnym, karnym lub cywilnym, ze względu na ochronę interesu strony, jeżeli postępowanie dotyczy władz publicznych lub innych podmiotów wykonujących zadania publiczne albo osób pełniących funkcje publiczne – w zakresie tych zadań lub funkcji.”.
 
 **Art. 9.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325, z 2020 r. poz. 2299 i 2320 oraz z 2021 r. poz. 54 i 159) w art. 28 po § 3 dodaje się § 3a w brzmieniu: „§ 3a. W przypadku, o którym mowa w § 3, sąd może zawiadomić o toczącym się postępowaniu Prokuratorię Generalną Rzeczypospolitej Polskiej, jeżeli z uwagi na przedmiot postępowania może zachodzić potrzeba ochrony ważnych praw lub interesów Rzeczypospolitej Polskiej.”.
 
 **Art. 10.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080 i 1177) wprowadza się następujące zmiany:
+
+- **1)** w art. 426 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. We wniosku, o którym mowa w ust. 2, jako syndyk może zostać wskazany bank.”;
+- **2)** w art. 427:
+    - **a)** w ust. 1 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) przedstawicieli banku, o którym mowa w art. 426 ust. 2a;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Syndykiem może być także bank wskazany we wniosku, o którym mowa w art. 426 ust. 2, po uzyskaniu pozytywnej opinii:
+
+- **1)** Komisji Nadzoru Finansowego – w przypadku wniosku złożonego przez Bankowy Fundusz Gwarancyjny;
+- **2)** Bankowego Funduszu Gwarancyjnego – w przypadku wniosku złożonego przez Komisję Nadzoru Finansowego.”;
+- **3)** w art. 440:
+    - **a)** w ust. 2 w pkt 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „kategoria szósta – należności z tytułu obligacji lub innych instrumentów dłużnych, które wykazują właściwości zbywalnych wierzytelności, lub z tytułu instrumentów wywołujących skutki prawne dłużnych instrumentów finansowych, wraz z odsetkami i kosztami egzekucji, z wyłączeniem należności określonych w pkt 9, jeżeli są łącznie spełnione następujące warunki:”, – lit. b otrzymuje brzmienie: „b) w umowie lub załączonych do niej dokumentach i informacjach dotyczących emisji dłużnych instrumentów finansowych lub instrumentów wywołujących skutki prawne dłużnych instrumentów finansowych, a w stosownych przypadkach także w prospekcie emisyjnym, w sposób wyraźny i przystępny określono kategorię zaspokojenia należności,”, – lit. d otrzymuje brzmienie: „d) wartość nominalna jednej obligacji lub jednego instrumentu dłużnego nie jest niższa niż 400 000 zł lub równowartość tej kwoty wyrażona w innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia przez emitenta decyzji o emisji;”,
+    - **b)** w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Z masy upadłości zaspokaja się w pierwszej kolejności koszty postępowania upadłościowego, a następnie koszty przymusowej restrukturyzacji niepokryte z przychodów z przymusowej restrukturyzacji, a jeżeli fundusze masy upadłości na to pozwalają – również inne zobowiązania masy upadłości, o których mowa w art. 230 ust. 2, w miarę wpływu do masy upadłości stosownych sum.”;
+
+- **4)** w art. 441a:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. We wniosku, o którym mowa w ust. 1, jako syndyk mogą zostać wskazane bank albo spółdzielcza kasa oszczędnościowo-kredytowa.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W postępowaniu upadłościowym wobec spółdzielczej kasy oszczędnościowo-kredytowej syndykiem może być także spółdzielcza kasa oszczędnościowo-kredytowa albo bank wskazane we wniosku, o którym mowa w ust. 1, po uzyskaniu pozytywnej opinii:
+
+- **1)** Komisji Nadzoru Finansowego – w przypadku wniosku złożonego przez Bankowy Fundusz Gwarancyjny;
+- **2)** Bankowego Funduszu Gwarancyjnego – w przypadku wniosku złożonego przez Komisję Nadzoru Finansowego.”.
 
 **Art. 11.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2020 r. poz. 1198 oraz z 2021 r. poz. 680) w art. 3 po ust. 1f dodaje się ust. 1g w brzmieniu: „1g. W przypadku przejęcia przez BGK praw udziałowych, o których mowa w art. 19d ust. 1 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124, z 2019 r. poz. 1798 oraz z 2021 r. poz. 1598), do BGK nie stosuje się konsolidacji ostrożnościowej, o której mowa w art. 10a– 24 rozporządzenia nr 575/2013.”.
 
@@ -1059,13 +1425,147 @@ source: "isap-pdf"
 
 **Art. 13.** W ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2020 r. poz. 103) w art. 2:
 
+- **1)** w ust. 1: z 2019 r. poz. 212 oraz z 2021 r. poz. 1598);”,
+    - **a)** pkt 9 otrzymuje brzmienie: „9) CCP, agent rozrachunkowy lub izba rozliczeniowa w rozumieniu ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U.
+    - **b)** w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „14) Bankowy Fundusz Gwarancyjny.”;
+
+- **2)** w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) umów, których stroną jest Bankowy Fundusz Gwarancyjny, a portfel kredytowy banku stanowią w znacznej części umowy, w których dłużnikiem jest konsument z tytułu zawartej umowy o kredyt konsumencki w rozumieniu przepisów ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, chyba że nie jest możliwe inne skuteczne zapewnienie przywrócenia płynności płatniczej, o której mowa w art. 138 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.”.
+
 **Art. 14.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2020 r. poz. 2059 oraz z 2021 r. poz. 680 i 815) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 2 pkt 9 otrzymuje brzmienie: „9) nadzór w zakresie przewidzianym przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/1011”;”;
+- **2)** po art. 3b dodaje się art. 3ba i art. 3bb w brzmieniu: „Art. 3ba. 1. Komisja może, zgodnie z art. 7 ust. 1 rozporządzenia nr 1286/2014, określić, w drodze decyzji, język inny niż język polski, w jakim sporządza się dokument zawierający kluczowe informacje dotyczące detalicznego produktu zbiorowego inwestowania, o którym mowa w art. 4 pkt 1 rozporządzenia nr 1286/2014, zwanego dalej „PRIP”, jeżeli produkt ten jest dystrybuowany na terytorium Rzeczypospolitej Polskiej.
+
+2. Do decyzji, o której mowa w ust. 1, przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735 i
+
+- **1491)** stosuje się odpowiednio.
+
+3. Decyzja, o której mowa w ust. 1, jest natychmiast wykonalna.
+
+4. Decyzja, o której mowa w ust. 1, podlega ogłoszeniu w Dzienniku Urzędowym Komisji Nadzoru Finansowego. Informacje o wydaniu decyzji Komisja przekazuje niezwłocznie do publicznej wiadomości za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
+
+5. Osoba sprzedająca PRIP lub osoba doradzająca w zakresie PRIP, w rozumieniu przepisów rozporządzenia nr 1286/2014, może proponować PRIP inwestorowi indywidualnemu, o którym mowa w art. 4 pkt 6 lit. a rozporządzenia nr 1286/2014, na podstawie dokumentu zawierającego kluczowe informacje, sporządzonego w języku określonym w decyzji Komisji wydanej na podstawie ust. 1, pod warunkiem przyjęcia, najpóźniej przed zawarciem pierwszej transakcji dotyczącej tego PRIP, oświadczenia od inwestora indywidualnego, że posługuje się on językiem, w którym sporządzono ten dokument, w stopniu umożliwiającym mu zrozumienie informacji zawartych w tym dokumencie.
+
+6. Oświadczenie, o którym mowa w ust. 5, złożone osobom, o których mowa w ust. 5, jest skuteczne również w odniesieniu do dokumentów zawierających kluczowe informacje odnoszących się do innych PRIP, sporządzonych w języku wskazanym w tym oświadczeniu, których sprzedaży te osoby dokonują lub w zakresie których doradzają. Art. 3bb. 1. W przypadku gdy wymaga tego ochrona uzasadnionych interesów inwestorów lub konieczność zapobieżenia zagrożeniu prawidłowego funkcjonowania rynku finansowego, Komisja, w drodze decyzji, może uchylić decyzję, o której mowa w art. 3ba ust. 1.
+
+2. Do decyzji, o której mowa w ust. 1, przepisy art. 3ba ust. 2–4 stosuje się odpowiednio.”;
+
+- **3)** po art. 3g dodaje się art. 3h i art. 3i w brzmieniu: „Art. 3h. 1. Zawarcie umowy, której przedmiotem jest zobowiązanie kwalifikowalne, o którym mowa w art. 2 pkt 90a ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680, 1177, 1535 i 1598), lub instrument wyemitowany w celu zaliczenia do instrumentów dodatkowych w Tier I, o których mowa w art. 2 pkt 22a tej ustawy, lub instrumentów w Tier II, o których mowa w art. 2 pkt 23b tej ustawy, z inwestorem innym niż którykolwiek z podmiotów wymienionych w art. 3 pkt 39b lit. a–m ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zwanym dalej „klientem detalicznym”, oraz pośrednictwo w zawarciu takiej umowy są dopuszczalne, o ile kwota nominalna tego zobowiązania lub instrumentu nie jest niższa niż 400 000 zł albo równowartość tej kwoty wyrażona w innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia przez emitenta decyzji o emisji danego instrumentu albo zawarcia tej umowy.
+
+2. W przypadku naruszenia ust. 1 Komisja może, w drodze decyzji:
+
+- **1)** zakazać osobie oferującej klientowi detalicznemu zawarcie umowy zawierania lub pośredniczenia w zawieraniu umów z klientami detalicznymi;
+- **2)** nałożyć na osobę oferującą klientowi detalicznemu zawarcie umowy karę pieniężną do wysokości nieprzekraczającej:
+    - **a)** w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej: – kwoty nieprzekraczającej 10% całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym albo – dwukrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia – w przypadku gdy jest możliwe ich ustalenie,
+    - **b)** w przypadku osoby fizycznej: – kwoty 2 905 000 zł albo – dwukrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia – w przypadku gdy jest możliwe ich ustalenie.
+
+3. W przypadku jednostki dominującej, która sporządza skonsolidowane sprawozdanie finansowe, i jednostki zależnej jednostki dominującej, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 2 pkt 2 lit. a, stanowi kwota całkowitego skonsolidowanego rocznego przychodu jednostki dominującej ujawniona w ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+4. Decyzja, o której mowa w ust. 2, jest natychmiast wykonalna.
+
+5. Komisja przekazuje do publicznej wiadomości informacje o treści rozstrzygnięcia, o którym mowa w ust. 2, rodzaju i charakterze naruszenia, imieniu i nazwisku osoby fizycznej lub firmie (nazwie) podmiotu, na który została nałożona sankcja.
+
+6. Przekazanie do publicznej wiadomości informacji określonych w ust. 5 wymaga podjęcia przez Komisję uchwały.
+
+7. Informacje, o których mowa w ust. 5, dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, Komisja udostępnia na stronie internetowej przez okres 5 lat, licząc od dnia ich udostępnienia.
+
+8. W przypadku nałożenia sankcji, o której mowa w ust. 2, Komisja może, w drodze decyzji, zobowiązać osobę, która naruszyła przepis ust. 1, do bezpośredniego poinformowania klientów detalicznych o rodzaju i wysokości nałożonego środka, organie właściwym do rozpatrzenia skargi lub prawie wystąpienia z roszczeniem odszkodowawczym.
+
 **Art. 3i.** Komisja jest właściwym organem w rozumieniu art. 23b ust. 7 rozporządzenia 2016/1011.”;
+
+- **4)** w art. 19e ust. 1 i 2 otrzymują brzmienie: „1. Wpływy z tytułu kar pieniężnych nakładanych przez Komisję na podstawie art. 3c ust. 1 pkt 5, art. 3g ust. 1 pkt 7 i art. 3h ust. 2 pkt 2 oraz na podstawie ustaw, o których mowa w art. 1 ust. 2, stanowią środki Funduszu Edukacji Finansowej, o którym mowa w ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2019 r. poz. 2279 oraz z 2020 r. poz. 2320).
+
+2. Do należności z tytułu kar pieniężnych nakładanych przez Komisję na podstawie art. 3c ust. 1 pkt 5, art. 3g ust. 1 pkt 7 i art. 3h ust. 2 pkt 2 oraz na podstawie ustaw, o których mowa w art. 1 ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.”.
 
 **Art. 15.** W ustawie z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2016 r. poz. 1436) w art. 6 dodaje się ust. 3–11 w brzmieniu: „3. W przypadku zabezpieczenia gwarancji, o których mowa w ust. 1, przelewem wierzytelności hipotecznych lub wierzytelności zabezpieczonych zastawami rejestrowymi na Skarb Państwa przechodzą odpowiednio hipoteki lub zastawy rejestrowe z dniem udzielenia tych gwarancji. Przepisów art. 79 ust. 1 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204 oraz z 2021 r. poz. 1177) i art. 17 ust. 1 zdanie drugie ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów nie stosuje się. 4. Do chwili ujawnienia cesjonariusza w odpowiednim rejestrze przelew wierzytelności, o którym mowa w ust. 3, jest bezskuteczny w stosunku do dłużnika rzeczowego. W razie wygaśnięcia hipoteki albo zastawu rejestrowego przed ujawnieniem cesjonariusza w odpowiednim rejestrze cedent jest obowiązany dokonać wszelkich czynności umożliwiających wykreślenie hipoteki z księgi wieczystej albo zastawu rejestrowego z rejestru zastawów. 5. Z chwilą zawiadomienia sądu, sądu polubownego lub organu prowadzącego postępowanie administracyjne o przelewie wierzytelności na zabezpieczenie gwarancji, o których mowa w ust. 1, Skarb Państwa wstępuje z mocy prawa w miejsce instytucji finansowej do postępowań cywilnych, administracyjnych, sądowo-administracyjnych oraz przed sądami polubownymi, dotyczących przelanych wierzytelności, bez zezwolenia strony przeciwnej albo osoby trzeciej, która ma interes prawny. 6. Przepis ust. 5 stosuje się odpowiednio do instytucji finansowej w zakresie wstąpienia w miejsce Skarbu Państwa do postępowań po spłacie należności z tytułu udzielenia gwarancji, o których mowa w ust. 1, na podstawie zaświadczenia wydanego przez ministra właściwego do spraw finansów publicznych. 7. Z chwilą zaspokojenia należności Narodowego Banku Polskiego z tytułu udzielenia kredytu refinansowego, o którym mowa w art. 42 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim – w przypadku braku zaspokojenia Skarbu Państwa z tytułu wypłaty gwarancji dla Narodowego Banku Polskiego – na Skarb Państwa z mocy prawa przechodzi nadwyżka środków pieniężnych i pozostałe zabezpieczenie tego kredytu, a w przypadku, w którym zabezpieczenie to stanowią wierzytelności, na Skarb Państwa z mocy prawa przechodzą także wszelkie prawa związane z tymi wierzytelnościami. 8. W przypadku, o którym mowa w ust. 7, Skarb Państwa wstępuje z mocy prawa w miejsce Narodowego Banku Polskiego w stosunki prawne dotyczące przejętego zabezpieczenia. Przepisy ust. 3–5 stosuje się odpowiednio. 9. Z chwilą zaspokojenia należności Skarbu Państwa z tytułu wypłaty gwarancji dla Narodowego Banku Polskiego – w przypadku braku zaspokojenia Narodowego Banku Polskiego z tytułu udzielenia kredytu refinansowego, o którym mowa w art. 42 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, zabezpieczonego tą gwarancją – na Narodowy Bank Polski z mocy prawa przechodzi nadwyżka środków pieniężnych i pozostałe zabezpieczenie tej gwarancji, a w przypadku, w którym zabezpieczenie to stanowią wierzytelności, na Narodowy Bank Polski z mocy prawa przechodzą także wszelkie prawa związane z tymi wierzytelnościami. 10. W przypadku, o którym mowa w ust. 9, Narodowy Bank Polski wstępuje z mocy prawa w miejsce Skarbu Państwa w stosunki prawne dotyczące przejętego zabezpieczenia. Przepisy art. 43a ust. 1–3 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim stosuje się odpowiednio. 11. W przypadku udzielenia gwarancji za instytucję finansową przepisy ust. 7–10 stosuje się odpowiednio.”.
 
 **Art. 16.** W ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124 oraz z 2019 r. poz. 1798) wprowadza się następujące zmiany:
+
+- **1)** w art. 19a:
+    - **a)** ust. 1–5 otrzymują brzmienie: „1. W razie wystąpienia kryzysu systemowego, w celu zapobieżenia likwidacji podmiotu objętego postępowaniem przymusowej restrukturyzacji, Bankowy Fundusz Gwarancyjny, po uzyskaniu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego oraz zgody ministra właściwego do spraw instytucji finansowych, może zastosować rządowe instrumenty stabilizacji finansowej, jeżeli zastosowanie instrumentów przymusowej restrukturyzacji, o których mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, nie byłoby wystarczające do:
+
+- **1)** uniknięcia znacznych negatywnych skutków dla stabilności finansowej lub
+- **2)** ochrony interesu publicznego, w przypadku gdy podmiot, o którym mowa w art. 2a ust. 2, otrzymał wcześniej nadzwyczajne wsparcie płynności od Narodowego Banku Polskiego, lub
+- **3)** ochrony interesu publicznego, jeżeli publiczne wsparcie kapitałowe z instrumentu wsparcia kapitałowego zostało wcześniej udzielone podmiotowi, o którym mowa w art. 2a ust. 2 – w odniesieniu do instrumentu tymczasowej własności publicznej.
+
+2. Zastosowanie rządowych instrumentów stabilizacji finansowej może nastąpić wyłącznie:
+
+- **1)** gdy wobec podmiotu, o którym mowa w art. 2a ust. 2, wydano uprzednio decyzję o wszczęciu przymusowej restrukturyzacji, oraz
+- **2)** gdy w celu pokrycia strat lub podniesienia funduszy własnych podmiotu, o którym mowa w art. 2a ust. 2, dokonano umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych lub umorzenia lub konwersji zobowiązań, w wysokości co najmniej 8% zobowiązań ogółem powiększonych o fundusze własne, określonych na podstawie oszacowania, o którym mowa w art. 137 ust. 2 i 3 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, lub w inny sposób akcjonariusze oraz wierzyciele przekazali wkład na poczet pokrycia strat i dokapitalizowania tego podmiotu.
+
+3. Bankowy Fundusz Gwarancyjny występuje z wnioskiem o zgodę na zastosowanie rządowych instrumentów stabilizacji finansowej do ministra właściwego do spraw instytucji finansowych. Bankowy Fundusz Gwarancyjny przekazuje kopię wniosku Prezesowi Rady Ministrów oraz ministrowi właściwemu do spraw aktywów państwowych.
+
+4. Bankowy Fundusz Gwarancyjny wydaje decyzję w sprawie zastosowania rządowego instrumentu stabilizacji finansowej. Bankowy Fundusz Gwarancyjny przekazuje kopię tej decyzji Prezesowi Rady Ministrów, ministrowi właściwemu do spraw instytucji finansowych oraz ministrowi właściwemu do spraw aktywów państwowych.
+
+5. W zakresie nieuregulowanym w ustawie do decyzji, o której mowa w ust. 4:
+
+- **1)** stosuje się odpowiednio przepisy art. 11 ust. 8 i 9, art. 103 ust. 1, 3, 4 i 5, art. 104–106 i art. 109 ust. 1–5 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+- **2)** stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735 i 1491), z wyjątkiem przepisów art. 9, art. 10, art. 13, art. 31, art. 35 § 2–5, art. 36–38, art. 39 , art. 46 § 3–9, art. 48, art. 49, art. 61 § 4, art. 66a, art. 73, art. 78, art. 79, art. 81, art. 89–96, art. 105 § 2, art. 106, art. 109 i art. 127–140 tej ustawy.”,
+    - **b)** uchyla się ust. 6,
+    - **c)** dodaje się ust. 8 i 9 w brzmieniu: „8. Na wniosek ministra właściwego do spraw instytucji finansowych Prokuratoria Generalna Rzeczypospolitej Polskiej wydaje opinię prawną w przedmiocie wskazanego w tym wniosku istotnego zagadnienia prawnego związanego z zastosowaniem rządowego instrumentu stabilizacji finansowej. Wydanie opinii prawnej albo odmowa jej wydania następuje w terminie 14 dni od dnia doręczenia wniosku, chyba że w uzgodnieniu z Prezesem Prokuratorii Generalnej Rzeczypospolitej Polskiej ustalono inny termin, nie krótszy niż 4 dni robocze od dnia doręczenia wniosku.
+
+9. Minister właściwy do spraw instytucji finansowych wydaje zgodę albo odmawia wydania zgody po otrzymaniu wniosku, o którym mowa w ust. 3, oraz opinii, o której mowa w ust. 8, o ile wystąpił o jej wydanie.”;
+
+- **2)** w art. 19b:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zastosowanie publicznego wsparcia kapitałowego polega na objęciu lub nabyciu instrumentów w kapitale podstawowym Tier I lub instrumentów dodatkowych w kapitale Tier I, lub instrumentów w kapitale Tier II.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Podmioty objęte instrumentem publicznego wsparcia kapitałowego powinny być zarządzane w sposób zapewniający pokrycie z uzyskanych przychodów kosztów działalności oraz zobowiązań.”,
+    - **c)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Bankowy Fundusz Gwarancyjny podejmuje uchwałę, zgodnie z art. 113 ust. 1 pkt 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, o emisji instrumentów, o których mowa w ust. 1, po wydaniu decyzji, o której mowa w art. 19a ust. 4.
+
+3b. Minister właściwy do spraw aktywów państwowych po otrzymaniu decyzji, o której mowa w art. 19a ust. 4, i uchwały Bankowego Funduszu Gwarancyjnego, o której mowa w ust. 3a, składa niezwłocznie, w imieniu Skarbu Państwa, oświadczenie woli o objęciu lub nabyciu instrumentów, o których mowa w ust. 1.”,
+
+- **d)** ust. 4 otrzymuje brzmienie: „4. Organ sprawujący nadzór właścicielski nad podmiotem obejmującym lub nabywającym instrumenty, o których mowa w ust. 1, po ustaniu okoliczności, o których mowa w art. 19a ust. 1, zbywa te instrumenty, gdy pozwalają na to warunki rynkowe i finansowe. Zbycie może nastąpić wyłącznie na rzecz podmiotów innych niż wskazane w art. 19c ust. 1.”,
+- **e)** dodaje się ust. 5 w brzmieniu: „5. Organ sprawujący nadzór właścicielski nad podmiotem obejmującym lub nabywającym instrumenty, o których mowa w ust. 1, przed zbyciem, o którym mowa w ust. 4, zasięga opinii Prezesa Narodowego Banku Polskiego, Przewodniczącego Komisji Nadzoru Finansowego, ministra właściwego do spraw instytucji finansowych i Bankowego Funduszu Gwarancyjnego.”;
+- **3)** w art. 19c:
+    - **a)** w ust. 2 pkt 6 otrzymuje brzmienie: „6) wywiera decydujący wpływ na działalność spółki (spółki zależnej) albo spółdzielni (spółdzielni zależnej).”,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. W przypadku zastosowania instrumentów, o których mowa w ust. 1 i art. 19b ust. 1, przepisów art. 9, art. 22–22d, art. 25 i art. 138 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe nie stosuje się.
+
+4. W przypadku zastosowania instrumentu, o którym mowa w ust. 1, do podmiotu przejmującego prawa udziałowe nie stosuje się przepisów art. 17 oraz art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.”;
+
+- **4)** w art. 19d:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przeniesienia praw udziałowych dokonuje Bankowy Fundusz Gwarancyjny w drodze decyzji. Przeniesienie praw udziałowych następuje z chwilą doręczenia decyzji Bankowego Funduszu Gwarancyjnego podmiotowi, o którym mowa w art. 2a ust. 2. Decyzja określa podmiot lub podmioty przejmujące prawa udziałowe, prawa udziałowe podlegające przeniesieniu oraz sposób wykonywania praw z przenoszonych praw udziałowych.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1e w brzmieniu: „1a. W decyzji Bankowy Fundusz Gwarancyjny może również dokonać podwyższenia kapitału zakładowego podmiotu, o którym mowa w art. 2a ust. 2. W decyzji Bankowy Fundusz Gwarancyjny określa:
+
+- **1)** sumę, o jaką kapitał zakładowy ma być podwyższony;
+- **2)** liczbę, serię, numery oraz wartość nominalną nowo ustanowionych udziałów albo wyemitowanych akcji lub wartość, o którą następuje podwyższenie wartości nominalnej udziałów albo akcji już istniejących;
+- **3)** czy akcje nowej emisji są imienne czy na okaziciela;
+- **4)** podmiot lub podmioty, które obejmują akcje lub udziały w podwyższonym kapitale zakładowym;
+- **5)** termin na opłacenie akcji lub udziałów, o których mowa w pkt 4, nie dłuższy niż 3 dni robocze od dnia doręczenia decyzji;
+- **6)** że objęcie akcji lub udziałów w podwyższonym kapitale zakładowym następuje z wyłączeniem prawa pierwszeństwa lub prawa poboru;
+- **7)** cenę emisyjną nowych akcji albo udziałów;
+- **8)** datę, od której nowe akcje lub udziały będą uczestniczyć w dywidendzie.
+
+1b. Decyzja Bankowego Funduszu Gwarancyjnego zastępuje określone w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz statucie lub umowie spółki czynności związane z podwyższeniem kapitału zakładowego, przystąpieniem do spółki, objęciem udziałów lub akcji oraz zmianą statutu lub umowy spółki.
+
+1c. Bankowy Fundusz Gwarancyjny, w celu ujawnienia w Krajowym Rejestrze Sądowym podwyższenia kapitału zakładowego podmiotu, o którym mowa w art. 2a ust. 2, po opłaceniu w całości akcji albo udziałów, niezwłocznie informuje o wydaniu decyzji właściwy sąd rejestrowy, przekazując mu odpis decyzji bez oszacowania i uzasadnienia, z uwzględnieniem obowiązku dochowania tajemnic, o których mowa w art. 320 ust. 2 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, art. 104 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz art. 147 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, spis nabywców udziałów lub akcji ze wskazaniem liczby udziałów lub akcji przypadających na każdego z nich oraz oświadczenie Bankowego Funduszu Gwarancyjnego, że wkłady na udziały lub akcje zostały wniesione. Przepisy art. 291 i art. 479 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych stosuje się odpowiednio.
+
+1d. Dokumenty wymienione w ust. 1c stanowią podstawę wpisu podwyższenia kapitału zakładowego podmiotu, o którym mowa w art. 2a ust. 2, do Krajowego Rejestru Sądowego.
+
+1e. Podwyższenie kapitału zakładowego podmiotu, o którym mowa w art. 2a ust. 2, następuje z chwilą doręczenia decyzji Bankowego Funduszu Gwarancyjnego temu podmiotowi.”,
+
+- **c)** ust. 2 otrzymuje brzmienie: „2. Z dniem doręczenia decyzji podmiotowi, o którym mowa w art. 2a ust. 2, zostaje zakończona przymusowa restrukturyzacja.”,
+- **d)** ust. 4 otrzymuje brzmienie: „4. Decyzję doręcza się podmiotowi przejmującemu prawa udziałowe oraz przekazuje się Zarządowi Krajowego Depozytu Papierów Wartościowych albo podmiotowi prowadzącemu rejestr akcjonariuszy dla podmiotu objętego instrumentem tymczasowej własności publicznej. Kopię tej decyzji przekazuje się Prezesowi Rady Ministrów, ministrowi właściwemu do spraw instytucji finansowych, ministrowi właściwemu do spraw aktywów państwowych, Przewodniczącemu Komisji Nadzoru Finansowego i Prezesowi Narodowego Banku Polskiego.”,
+- **e)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Przeniesienie praw udziałowych nie wymaga zgody właścicieli, dłużników ani wierzycieli podmiotu przejmującego prawa udziałowe.
+
+4b. Komisja Nadzoru Finansowego, biorąc pod uwagę sytuację finansową podmiotu przejmującego prawa udziałowe, może udzielić zezwolenia temu podmiotowi na czasowe niespełnianie wymogu, o którym mowa w art. 55 ust. 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2021 r. poz. 140, 680 i 1598).”,
+
+- **f)** dodaje się ust. 6 w brzmieniu: „6. W zakresie nieuregulowanym w ustawie do decyzji oraz do postępowania w sprawie wydania decyzji, o której mowa w ust. 1:
+- **1)** stosuje się odpowiednio przepisy art. 11 ust. 8 i 9, art. 103 ust. 1, 3, 4 i 5, art. 104–106 i art. 109 ust. 1–5 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+- **2)** stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów art. 9, art. 10, art. 13, art. 31, art. 35 § 2–5, art. 36–38, art. 39 , art. 46 § 3–9, art. 48, art. 49, art. 61 § 4, art. 66a, art. 73, art. 78, art. 79, art. 81, art. 89–96, art. 105 § 2, art. 106, art. 109 i art. 127–140 tej ustawy.”;
+- **5)** w art. 19f: o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, dokonane na zlecenie Bankowego Funduszu Gwarancyjnego. W przypadku zaistnienia istotnej zmiany Bankowy Fundusz Gwarancyjny zleca podmiotowi przygotowującemu oszacowanie dokonanie jego aktualizacji w części niezbędnej do zastosowania rządowych instrumentów stabilizacji finansowej.”;
+    - **a)** ust. 5 otrzymuje brzmienie: „5. Przeniesienie zdematerializowanych praw udziałowych następuje przez dokonanie, w dniu realizacji dyspozycji, zapisu tych akcji na rachunku papierów wartościowych podmiotu przejmującego prawa udziałowe w zamian za zapłatę ceny ustalonej zgodnie z ust. 8.”,
+    - **b)** ust. 6a otrzymuje brzmienie: „6a. W przypadku gdy przedmiotem przeniesienia są prawa udziałowe zarejestrowane w rejestrze akcjonariuszy, podmiot prowadzący rejestr akcjonariuszy, po otrzymaniu od Bankowego Funduszu Gwarancyjnego decyzji, o której mowa w art. 19d ust. 1, dokonuje ich blokady w rejestrze akcjonariuszy od dnia otrzymania tej decyzji do dnia realizacji dyspozycji wpisu podmiotu przejmującego jako uprawnionego z tych praw udziałowych.”,
+    - **c)** ust. 6c otrzymuje brzmienie: „6c. Przeniesienie praw udziałowych, o których mowa w ust. 6a, następuje przez dokonanie wpisu do rejestru akcjonariuszy danych podmiotu przejmującego jako akcjonariusza podmiotu objętego instrumentem tymczasowej własności publicznej w zamian za zapłatę ceny ustalonej zgodnie z ust. 8.”,
+    - **d)** ust. 8 otrzymuje brzmienie: „8. Do ustalenia ceny za przeniesienie praw udziałowych stosuje się oszacowanie, o którym mowa w art. 137 ustawy z dnia 10 czerwca 2016 r.
+
+- **6)** w art. 19g:
+    - **a)** w ust. 2 zdanie drugie otrzymuje brzmienie: „Organ sprawujący nadzór właścicielski nad tym podmiotem, w drodze decyzji, nakazuje podmiotowi przejmującemu prawa udziałowe zbycie tych praw.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Przed wydaniem decyzji, o której mowa w ust. 2, organ sprawujący nadzór właścicielski zasięga opinii Prezesa Rady Ministrów, ministra właściwego do spraw instytucji finansowych, ministra właściwego do spraw aktywów państwowych, Prezesa Narodowego Banku Polskiego, Przewodniczącego Komisji Nadzoru Finansowego i Bankowego Funduszu Gwarancyjnego.”;
+
+- **7)** po art. 19g dodaje się art. 19h i art. 19i w brzmieniu: „Art. 19h. 1. Informacje związane z zastosowaniem rządowych instrumentów stabilizacji finansowej mogą być udostępniane na podstawie przepisów o dostępie do informacji publicznej nie wcześniej niż po ustaniu okoliczności, o których mowa w art. 19a ust. 1.
+
+2. Bankowy Fundusz Gwarancyjny, po zasięgnięciu opinii ministra właściwego do spraw aktywów państwowych, Prezesa Narodowego Banku Polskiego, Przewodniczącego Komisji Nadzoru Finansowego i ministra właściwego do spraw instytucji finansowych, udostępnia decyzję, o której mowa w art. 19a ust. 4, na stronie podmiotowej Biuletynu Informacji Publicznej Bankowego Funduszu Gwarancyjnego, o ile jej udostępnienie nie spowoduje negatywnych skutków dla stabilności finansowej lub ograniczenia albo uniemożliwienia skutecznego zastosowania rządowych instrumentów stabilizacji finansowej. Decyzję udostępnia się nie wcześniej niż po ustaniu okoliczności, o których mowa w art. 19a ust. 1.
+
+3. Informacje uzyskane lub wytworzone w związku z zastosowaniem rządowych instrumentów stabilizacji finansowej, których nieuprawnione udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes Skarbu Państwa, stanowią tajemnicę zawodową, o której mowa w art. 320 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 
 **Art. 19i.**
 
@@ -1087,17 +1587,101 @@ source: "isap-pdf"
 
 **Art. 17.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2020 r. poz. 794 i 1639 oraz z 2021 r. poz. 355) po art. 34b dodaje się art. 34c w brzmieniu: „Art. 34c. 1. W przypadku powzięcia informacji, że użytkownik niebędący konsumentem w zakresie prowadzonej działalności dopuszcza się naruszenia przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009, KNF może:
 
+- **1)** wezwać tego użytkownika do usunięcia naruszeń i przedstawienia informacji o sposobie usunięcia tych naruszeń w terminie 14 dni od dnia doręczenia wezwania albo
+- **2)** powiadomić o naruszeniach właściwe organy nadzorcze macierzystego państwa członkowskiego użytkownika – w przypadku użytkowników stale zamieszkujących lub mających siedzibę na terytorium państwa członkowskiego innego niż Rzeczpospolita Polska.
+
+2. W wezwaniu, o którym mowa w ust. 1 pkt 1, KNF poucza użytkownika o wskazanych w ust. 3 możliwych skutkach nieusunięcia naruszeń lub braku odpowiedzi na wezwanie.
+
+3. W przypadku nieusunięcia naruszeń, o których mowa w ust. 1, lub w przypadku braku odpowiedzi na wezwanie, o którym mowa w ust. 1 pkt 1, KNF może, w drodze decyzji, nałożyć na użytkownika karę pieniężną do wysokości 100 000 zł.
+
+4. Ustalając wysokość kary pieniężnej, o której mowa w ust. 3, KNF uwzględnia rodzaj i wagę naruszenia, rozmiar prowadzonej działalności oraz sytuację finansową użytkownika, który dopuścił się naruszenia.”.
+
 **Art. 18.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2019 r. poz. 2279 oraz z 2020 r. poz. 2320) w art. 43c w ust. 1 pkt 1 otrzymuje brzmienie: „1) wpływów z tytułu kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie ustaw, o których mowa w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2020 r. poz. 2059 oraz z 2021 r. poz. 680, 815 i 1598), oraz art. 3c ust. 1 pkt 5, art. 3g ust. 1 pkt 7 i art. 3h ust. 2 pkt 2 tej ustawy, z wyjątkiem kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie art. 138 ust. 3 pkt 3a i art. 141 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz art. 72 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;”.
 
 **Art. 19.** W ustawie z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2021 r. poz. 140 i 680) w art. 6 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) stwierdzanie przesłanek wystąpienia i ustania kryzysu systemowego, o którym mowa w art. 2 pkt 16 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124, z 2019 r. poz. 1798 oraz z 2021 r. poz. 1598).”.
 
 **Art. 20.** W ustawie z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 762 i 2320) wprowadza się następujące zmiany:
 
+- **1)** w art. 18:
+    - **a)** w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej o projektach umów, ugód oraz jednostronnych czynności prawnych dokonywanych przez Skarb Państwa, jeżeli wartość przedmiotu czynności prawnej przekracza kwotę 50 000 000 zł.”,
+    - **b)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej w przedmiocie wzoru umowy, istotnych postanowień umowy, ogólnych warunków umowy lub projektu umowy dotyczących zamówień udzielanych na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, jeżeli wartość przedmiotu zamówienia przekracza kwotę 50 000 000 zł.”;
+
+- **2)** w art. 19 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Osoba zastępowana może zlecić Prokuratorii Generalnej wydanie opinii prawnej niezależnie od tego, czy wyraziła zgodę, o której mowa w art. 12 ust. 5 pkt 2.”;
+- **3)** w art. 26:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W przypadku sporu między innymi niż Skarb Państwa państwowymi osobami prawnymi, osobami prawnymi z udziałem Skarbu Państwa lub państwowych osób prawnych oraz spółkami kapitałowymi z udziałem tych podmiotów, każda z nich może wystąpić do Sądu Polubownego z wnioskiem o:
+
+- **1)** rozstrzygnięcie sporu;
+- **2)** przeprowadzenie mediacji lub inne polubowne rozwiązanie sporu.”,
+    - **b)** ust. 2b otrzymuje brzmienie: „2b. Sąd Polubowny może prowadzić również mediacje w postępowaniu administracyjnym z udziałem organu administracji publicznej lub podmiotu, o którym mowa w ust. 2a.”;
+
+- **4)** po art. 30 dodaje się art. 30a w brzmieniu: „Art. 30a. Organ administracji rządowej, państwowa jednostka organizacyjna nieposiadająca osobowości prawnej lub podmiot reprezentujący Skarb Państwa niezwłocznie zawiadamia Prokuratorię Generalną o wszczęciu postępowania przed sądem administracyjnym, w którym jest stroną albo uczestnikiem na prawach strony, jeżeli w tym postępowaniu może zachodzić potrzeba ochrony ważnych praw lub interesów Rzeczypospolitej Polskiej.”;
+- **5)** w art. 40 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Prezes Prokuratorii Generalnej, po zawiadomieniu Prezesa Rady Ministrów, może powoływać rady i zespoły w sprawach należących do zakresu działania Prokuratorii Generalnej. Prezes Prokuratorii Generalnej informuje niezwłocznie Prezesa Rady Ministrów o zakończeniu działalności powołanych rad i zespołów.”;
+- **6)** w art. 133 w ust. 1:
+    - **a)** pkt 6–10 otrzymują brzmienie: „6) 2022 r. – 56 493 193 zł;
+
+- **7)** 2023 r. – 56 493 193 zł;
+- **8)** 2024 r. – 56 493 193 zł;
+- **9)** 2025 r. – 56 493 193 zł;
+- **10)** 2026 r. – 56 493 193 zł;”,
+    - **b)** dodaje się pkt 11–14 w brzmieniu: „11) 2027 r. – 56 493 193 zł;
+
+- **12)** 2028 r. – 56 493 193 zł;
+- **13)** 2029 r. – 56 493 193 zł;
+- **14)** 2030 r. – 56 493 193 zł.”.
+
 **Art. 21.** W ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2020 r. poz. 1415) wprowadza się następujące zmiany:
+
+- **1)** w art. 50 w ust. 3 zdanie drugie otrzymuje brzmienie: „Dokumentację corocznej oceny systemu wewnętrznej kontroli jakości sporządza się w języku polskim i przechowuje się przez okres co najmniej 8 lat.”;
+- **2)** w art. 61:
+    - **a)** w ust. 7 we wprowadzeniu do wyliczenia wyrazy „w okresie ostatnich 5 lat” zastępuje się wyrazami „w okresie ostatnich 8 lat”,
+    - **b)** w ust. 7b w zdaniu pierwszym wyrazy „w okresie ostatnich 5 lat” zastępuje się wyrazami „w okresie ostatnich 8 lat”;
+
+- **3)** w art. 67:
+    - **a)** w ust. 1 we wprowadzeniu do wyliczenia wyrazy „okres nie krótszy niż 5 lat” zastępuje się wyrazami „okres nie krótszy niż 8 lat”,
+    - **b)** w ust. 5 wyrazy „co najmniej 5 lat” zastępuje się wyrazami „co najmniej 8 lat”,
+    - **c)** w ust. 5a wyrazy „co najmniej 5 lat” zastępuje się wyrazami „co najmniej 8 lat”,
+    - **d)** w ust. 6 wyrazy „okres nie krótszy niż 5 lat” zastępuje się wyrazami „okres nie krótszy niż 8 lat”,
+    - **e)** w ust. 7 wyrazy „co najmniej 5 lat” zastępuje się wyrazami „co najmniej 8 lat”,
+    - **f)** ust. 8 otrzymuje brzmienie: „8. W przypadku wszczęcia postępowania dyscyplinarnego lub postępowania w sprawie odpowiedzialności firmy audytorskiej okres przechowywania dokumentacji klienta, akt badania oraz innych dokumentów istotnych dla oceny zgodności działalności firmy audytorskiej lub biegłych rewidentów z przepisami ustawy lub rozporządzenia nr 537/2014 ulega wydłużeniu do czasu przedawnienia odpowiednio okresu karalności przewinienia dyscyplinarnego albo nałożenia kary administracyjnej. Agencja zawiadamia firmę audytorską o wszczęciu postępowania dyscyplinarnego.”;
+
+- **4)** w art. 141 ust. 1 i 2 otrzymują brzmienie: „1. Nie można wszcząć postępowania dyscyplinarnego w sprawie przewinienia dyscyplinarnego, jeżeli od chwili jego popełnienia upłynęło 8 lat.
+
+2. Jeżeli przed upływem okresu, o którym mowa w ust. 1, wszczęto postępowanie dyscyplinarne, karalność przewinienia dyscyplinarnego ustaje z upływem 10 lat od chwili popełnienia przewinienia dyscyplinarnego.”;
+
+- **5)** w art. 183 dodaje się ust. 7 i 8 w brzmieniu: „7. Nie wszczyna się postępowania w sprawie nałożenia kary administracyjnej, o której mowa w ust. 1, jeżeli od dnia naruszenia przepisów ustawy lub rozporządzenia nr 537/2014 upłynęło 8 lat.
+
+8. Kara administracyjna, o której mowa w ust. 1, nie może zostać nałożona, jeżeli upłynęło 10 lat od dnia naruszenia przepisów ustawy lub rozporządzenia nr 537/2014.”;
+
+- **6)** w art. 193 dodaje się ust. 5 w brzmieniu: „5. Do wszczęcia postępowania w sprawach, o których mowa w art. 192, oraz do terminu nakładania kar administracyjnych w tych sprawach przepisy art. 183 ust. 7 i 8 stosuje się odpowiednio.”.
 
 **Art. 22.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 w ust. 1 uchyla się pkt 5;
+- **2)** w art. 11: poz. 680, 1177, 1535 i 1598), w szczególności usług świadczonych przez podmiot, z którym zostanie zawarta umowa o dokonanie wypłat środków gwarantowanych;
+    - **a)** uchyla się ust. 3,
+    - **b)** w ust. 5 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10–14 w brzmieniu: „10) związanych z procesem wypłat środków gwarantowanych, o których mowa w art. 2 pkt 65 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r.
+
+- **11)** związanych z przymusową restrukturyzacją albo umorzeniem lub konwersją instrumentów kapitałowych, o których mowa w art. 101 ust. 7 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, których przedmiotem jest:
+    - **a)** przeprowadzenie oszacowania,
+    - **b)** świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego,
+    - **c)** powierzenie przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywania pośrednictwa w zakresie czynności wymienionych w art. 5 i art. 6 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm. ), w imieniu i na rzecz banku w restrukturyzacji, oraz czynności związanych z działalnością prowadzoną przez firmę inwestycyjną w restrukturyzacji, w tym z prowadzoną przez nią działalnością maklerską;
+
+- **12)** udzielanych przez instytucję pomostową, o której mowa w art. 2 pkt 26 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, lub podmiot zarządzający aktywami, o którym mowa w art. 2 pkt 46 tej ustawy;
+- **13)** związanych z zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124, z 2019 r. poz. 1798 oraz z 2021 r. poz. 1598), w szczególności zamówień, których przedmiotem jest:
+    - **a)** dokonanie oszacowania określonego w art. 19f ust. 8 tej ustawy,
+    - **b)** świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego,
+    - **c)** powierzenie podmiotowi trzeciemu zarządzania prawami, o których mowa w art. 19b ust. 1 tej ustawy;
+
+- **14)** na usługi Banku Gospodarstwa Krajowego, w zakresie zlecenia przez: z 2016 r. poz. 1436 oraz z 2021 r. poz. 1598), lub udzieleniem gwarancji spłaty kredytu refinansowego, o której mowa w art. 4 ust. 1 tej ustawy, w tym związanych z zabezpieczeniem lub obsługą udzielonego wsparcia lub udzielonej gwarancji,
+    - **a)** ministra właściwego do spraw finansów publicznych spraw i czynności związanych z udzieleniem wsparcia, o którym mowa w art. 3 ust. 1 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U.
+    - **b)** Narodowy Bank Polski spraw i czynności związanych z udzieleniem kredytów, o których mowa w art. 42 i art. 43 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2020 r. poz. 2027 oraz z 2021 r. poz. 1598), w tym związanych z zabezpieczeniem lub obsługą tych kredytów.”.
+
 **Art. 23.** W ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 72, 802, 1135 i 1163) wprowadza się następujące zmiany:
+
+- **1)** po art. 115a dodaje się art. 115b w brzmieniu: „Art. 115b. W ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124 oraz z 2019 r. poz. 1798) wprowadza się następujące zmiany:
+- **1)** w art. 19a w ust. 5 w pkt 2 skreśla się wyrazy „art. 46 § 3–9,”;
+- **2)** w art. 19d w ust. 6 w pkt 2 skreśla się wyrazy „art. 46 § 3–9,”.”;
+- **2)** po art. 133 dodaje się art. 133a w brzmieniu: „Art. 133a. W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680, 1177 i 1535) w art. 11 w ust. 5 skreśla się wyrazy „art. 46 § 3–9,”.”.
 
 **Art. 24.**
 
@@ -1158,11 +1742,20 @@ source: "isap-pdf"
 
 **Art. 33.** W szczególnie uzasadnionym przypadku Bankowy Fundusz Gwarancyjny może określić termin, po którym podmiot, o którym mowa w art. 97 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jest obowiązany spełniać wymogi określone w art. 97–99 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przypadający po dniu 31 grudnia 2023 r., uwzględniając:
 
+- **1)** rozwój sytuacji finansowej podmiotu;
+- **2)** szanse na spełnienie przez podmiot, w rozsądnym terminie, wymogów, o których mowa w art. 97–99 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **3)** możliwość zastąpienia przez podmiot zobowiązań, które nie spełniają warunków określonych w art. 72b i art. 72c rozporządzenia nr 575/2013, art. 97a–97g lub art. 98 ust. 2l i 2m ustawy zmienianej w art. 1, a w przypadku braku możliwości tego zastąpienia – charakter indywidualny lub wpływ zakłóceń na rynku;
+- **4)** ryzyko systemowe oraz możliwość zapewnienia finansowania działalności gospodarczej, w szczególności poprzez udzielanie kredytów, pożyczek pieniężnych, udzielanie i potwierdzanie gwarancji bankowych oraz otwieranie i potwierdzanie akredytyw, udzielanie i potwierdzanie poręczeń.
+
 **Art. 34.** Bankowy Fundusz Gwarancyjny, określając termin, o którym mowa w art. 33, może określić inny termin na podanie przez podmioty informacji do wiadomości publicznej, zgodnie z art. 99a ust. 8 ustawy zmienianej w art. 1.
 
 **Art. 35.** Bankowy Fundusz Gwarancyjny może dokonywać zmiany wysokości wymogów, o których mowa w art. 32 ust. 2, lub terminów ustalonych zgodnie z art. 33.
 
 **Art. 36.** Bankowy Fundusz Gwarancyjny, ustalając 12-miesięczne okresy, o których mowa w art. 32 ust. 2, oraz termin, o którym mowa w art. 33, uwzględnia:
+
+- **1)** udział depozytów w strukturze finansowania banku oraz brak instrumentów dłużnych w modelu finansowania;
+- **2)** dostęp do rynku kapitałowego, którego przedmiotem obrotu są zobowiązania kwalifikowalne;
+- **3)** zakres, w jakim podmiot podlegający przymusowej restrukturyzacji utrzymuje kapitał podstawowy Tier I w celu spełnienia wymogu, o którym mowa w art. 98 ust. 1–2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 37.** W przypadku podmiotu, wobec którego przed dniem wejścia w życie niniejszej ustawy zastosowano instrumenty przymusowej restrukturyzacji lub wykonano uprawnienie do umorzenia lub konwersji, o którym mowa w art. 70 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, z wyjątkiem podmiotów, w stosunku do których Rada Bankowego Funduszu Gwarancyjnego podjęła uchwałę, o której mowa w art. 90 ust. 1 pkt 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, Bankowy Fundusz Gwarancyjny do dnia 31 grudnia każdego roku określa okres, w którym podmiot ten jest obowiązany spełnić wymogi określone w art. 97–99 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -1212,4 +1805,10 @@ source: "isap-pdf"
 **Art. 45.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 304 ust. 11 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 304 ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 46.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 114 i art. 14 pkt 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 1 lit. n, pkt 5 lit. b tiret trzecie, pkt 40 lit. d w zakresie art. 101 ust. 12b pkt 3, pkt 46, pkt 67, pkt 83 lit. a, pkt 84, pkt 87 lit. b, pkt 106 lit. c oraz art. 3 pkt 1, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia;
+- **3)** art. 20 pkt 1, 2 i 4–6, które wchodzą w życie z dniem 1 stycznia 2022 r.;
+- **4)** art. 1 pkt 39 w zakresie art. 99a ust. 6, który wchodzi w życie z dniem 1 stycznia 2024 r.
+
 

@@ -8,7 +8,7 @@ pos: 1240
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego
@@ -44,6 +44,11 @@ Art. 51–82. (pominięte)
 5. Rada wspiera prowadzenie dialogu społecznego na wszystkich szczeblach jednostek samorządu terytorialnego.
 
 **Art. 2.** Do właściwości Rady oraz jej stron należy:
+
+- **1)** wyrażanie opinii i zajmowanie stanowisk,
+- **2)** opiniowanie projektów założeń projektów ustaw oraz projektów aktów prawnych, 2a) opiniowanie projektów strategii, projektów programów oraz projektów innych dokumentów rządowych dotyczących planowanych działań Rady Ministrów, przygotowywanych przez Radę Ministrów oraz jej członków,
+- **3)** inicjowanie na zasadach określonych niniejszą ustawą procesu legislacyjnego,
+- **4)** wykonywanie innych zadań wynikających z odrębnych ustaw – w sprawach, o których mowa w art. 1.
 
 #### Rozdział 2 Uprawnienia Rady Dialogu Społecznego i jej stron
 
@@ -111,7 +116,7 @@ Art. 51–82. (pominięte)
 
 4. Nieprzyjęcie projektu przez Radę Ministrów do dalszych prac wymaga przedstawienia przez właściwego ministra stronie pracowników i stronie pracodawców Rady, w terminie 2 miesięcy od dnia podjęcia decyzji o nieprzyjęciu projektu, nie później niż w terminie 4 miesięcy od dnia otrzymania projektu przez właściwego ministra, pisemnego uzasadnienia.
 
-5. W przypadku wniesienia projektu ustawy do z istotnymi zmianami, informacja zawierająca uzasadnienie zmian jest zamieszczana w uzasadnieniu projektu.
+5. W przypadku wniesienia projektu ustawy do Sejmu z istotnymi zmianami, informacja zawierająca uzasadnienie zmian jest zamieszczana w uzasadnieniu projektu.
 
 **Art. 8.**
 
@@ -161,7 +166,7 @@ Art. 51–82. (pominięte)
 
 **Art. 14.** Strona pracowników i strona pracodawców Rady mogą podjąć uchwałę o wystąpieniu przez przewodniczącego Rady do Sądu Najwyższego z wnioskiem o rozstrzygnięcie zagadnienia prawnego, jeżeli w orzecznictwie Sądu Najwyższego lub sądów powszechnych ujawniły się rozbieżności w wykładni prawa.
 
-**Art. 14a.** Rada może podjąć uchwałę o wystąpieniu przez przewodniczącego Rady do i Senatu z wnioskiem o umożliwienie przedstawienia Sejmowi lub Senatowi informacji dotyczącej spraw o istotnym znaczeniu w zakresie, o którym mowa w art. 1.
+**Art. 14a.** Rada może podjąć uchwałę o wystąpieniu przez przewodniczącego Rady do Sejmu i Senatu z wnioskiem o umożliwienie przedstawienia Sejmowi lub Senatowi informacji dotyczącej spraw o istotnym znaczeniu w zakresie, o którym mowa w art. 1.
 
 **Art. 14b.** Strona pracowników i strona pracodawców Rady mogą podjąć uchwałę o wystąpieniu przez przewodniczącego Rady do ministra właściwego do spraw finansów publicznych z wnioskiem o wydanie interpretacji ogólnej, w przypadku niejednolitego stosowania przepisów prawa podatkowego w określonych decyzjach, postanowieniach oraz interpretacjach indywidualnych, wydanych przez organy podatkowe w takich samych stanach faktycznych lub zdarzeniach przyszłych oraz w takich samych stanach prawnych, w szczególności gdy wydanie interpretacji ogólnej służy realizacji celów Rady, o których mowa w art. 1.
 
@@ -419,6 +424,15 @@ Art. 51–82. (pominięte)
 
 **Art. 36.** Rada uchwala swój regulamin, określający:
 
+- **1)** tryb i sposób pracy oraz tryb zwoływania posiedzeń Rady oraz Prezydium Rady;
+- **2)** tryb powoływania i sposób funkcjonowania zespołów problemowych, o których mowa w art. 34;
+- **3)** formę i sposób udostępniania komunikatu, o którym mowa w art. 35 ust. 3;
+- **4)** sposób informowania o przebiegu posiedzeń Rady;
+- **5)** sposób zapraszania do udziału w pracach Rady przedstawicieli z głosem doradczym;
+- **6)** tryb powoływania i zadania sekretarzy Prezydium Rady;
+- **7)** organizację, sposób działania i tryb pracy Biura Rady Dialogu Społecznego;
+- **8)** zasady współpracy Rady z wojewódzkimi radami dialogu społecznego, w zakresie wskazanym w ustawie.
+
 **Art. 37.**
 
 1. Tworzy się Biuro Rady Dialogu Społecznego, zapewniające obsługę techniczną, organizacyjną i kancelaryjno-biurową oraz ekspercką Rady, zwane dalej „Biurem”.
@@ -612,6 +626,9 @@ Art. 51–82. (pominięte)
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 83.** Do pierwszego składu Rady Dialogu Społecznego Prezydent Rzeczypospolitej Polskiej powoła:
+
+- **1)** po ośmiu przedstawicieli każdej organizacji związkowej oraz po sześciu przedstawicieli każdej organizacji pracodawców, które w dniu wejścia w życie niniejszej ustawy były reprezentowane w Trójstronnej Komisji do Spraw Społeczno-Gospodarczych, na wniosek tych organizacji;
+- **2)** przedstawicieli strony rządowej, na wniosek Prezesa Rady Ministrów.
 
 **Art. 84.**
 

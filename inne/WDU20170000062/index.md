@@ -8,10 +8,10 @@ pos: 62
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 11 stycznia 2017 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO 30 grudnia 2016 sprawie adaptacyjnego testu umiejętności toku postępowania sprawie uznania wykonywania zawodu muzealnika Na podstawie art. 22 ustawy 22 grudnia 2015 zasadach uznawania nabytych państwach członkowskich Unii Europejskiej (Dz. U. 2016 poz. 65) zarządza się, co następuje:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 62 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 30 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,81 +25,102 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/62/text.pdf) |
 
-1) warunki, sposób tryb odbywania adaptacyjnego, sposób tryb wykonywania nadzoru nad jego odbywaniem oceny nabytych jego trakcie umiejętności, warunki, sposób tryb przeprowadzania testu umiejętności oceny posiadanych wnioskodawcę umiejętności,
-3) sposób ustalania kosztów odbywania adaptacyjnego przeprowadzania testu umiejętności tryb pobierania zwrotu opłaty za odbycie adaptacyjnego przeprowadzenie testu umiejętności toku postępowania sprawie uznania nabytych innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) stronach umowy Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej wykonywania na terytorium Rzeczypospolitej Polskiej zawodu muzealnika.
-§ 2. Ilekroć rozporządzeniu jest mowa o:
-1) postępowaniu należy to rozumieć postępowanie sprawie uznania prowadzone na podstawie przepisów ustawy 22 grudnia 2015 zasadach uznawania nabytych państwach członkowskich Unii Europejskiej;
-(Dz. U. 2012 poz. 987, późn. zm. ), którym wnioskodawca odbywa staż adaptacyjny.
-§ 3. Organ prowadzący postępowanie doręcza postanowienie, którym mowa art. 20 ust. ustawy 22 grudnia 2015 zasadach uznawania nabytych państwach członkowskich Unii Europejskiej, wraz kopią dokumentacji zawierającej informacje posiadanych kwalifikacjach, tym wykształceniu doświadczeniu zawodowym wnioskodawcy, odpowiednio jednostce albo komisji egzaminacyjnej, która przygotowuje przeprowadza test umiejętności. Kopia postanowienia wraz kopią dokumentacji może być przekazana postaci elektronicznej.
-§ 4. Wnioskodawca informuje organ prowadzący postępowanie zamiarze odbycia adaptacyjnego albo przystąpieniu testu umiejętności.
-1) dokument zawierający zobowiązanie jednostki nawiązania wnioskodawcą stosunku pracy albo zawarcia umowy cywilnoprawnej celu odbycia adaptacyjnego albo wniosek wskazanie jednostki, której wnioskodawca odbędzie staż adaptacyjny przypadku gdy przynajmniej jednostki, których wnioskodawca mógłby odbyć staż adaptacyjny, odmówią nawiązania nim stosunku prawnego celu odbycia adaptacyjnego.
-2. W dokumencie, którym mowa ust. pkt 1, jednostka określa:
-1) rodzaj stosunku prawnego, który zostanie nawiązany wnioskodawcą;
-termin, jakim nawiąże stosunek prawny;
-3) okres, na jaki nawiąże stosunek prawny, zgodny czasem trwania adaptacyjnego wyznaczonym organ prowadzący postępowanie;
-4) informację obowiązkach, jakie powierzy wnioskodawcy;
-5) przewidywane koszty odbywania wnioskodawcę adaptacyjnego.
-3. W przypadku, którym mowa ust. pkt 2, organ prowadzący postępowanie wskazuje jednostkę, której wnioskodawca odbędzie staż adaptacyjny.
-§ 6. Program adaptacyjnego opracowuje kierownik jednostki, której odbywany jest ten staż, uwzględniając zakres czas trwania adaptacyjnego określony postanowieniu, którym mowa art. 20 ust. ustawy 22 grudnia 2015 zasadach uznawania nabytych państwach członkowskich Unii Europejskiej.
-§ 7. 1. Koszty odbywania wnioskodawcę adaptacyjnego są ustalane kwotowo kierownika jednostki na podstawie rzeczywistych wydatków związanych odbywaniem adaptacyjnego, uwzględnieniem okresu, którym mowa § 5 ust. 2 pkt 3, obowiązków, których mowa § 5 ust. 2 pkt 4.
-2. Rzeczywiste wydatki związane odbywaniem adaptacyjnego obejmują:
+w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu muzealnika Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny nabytych w jego trakcie umiejętności,
+2) warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności,
+3) sposób ustalania kosztów odbywania stażu adaptacyjnego i przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za odbycie stażu adaptacyjnego i przeprowadzenie testu umiejętności – w toku postępowania w sprawie uznania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu muzealnika.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) postępowaniu – należy przez to rozumieć postępowanie w sprawie uznania kwalifikacji zawodowych prowadzone na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+2) organie prowadzącym postępowanie – należy przez to rozumieć ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub podmiot upoważniony na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r.
+o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm. );
+3) wnioskodawcy – należy przez to rozumieć osobę ubiegającą się o uznanie kwalifikacji zawodowych do wykonywania zawodu muzealnika;
+4) jednostce – należy przez to rozumieć muzeum w rozumieniu art. 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987, z późn. zm. ), w którym wnioskodawca odbywa staż adaptacyjny.
+§ 3. Organ prowadzący postępowanie doręcza postanowienie, o którym mowa w art. 20 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, wraz z kopią dokumentacji zawierającej informacje o posiadanych kwalifikacjach, w tym o wykształceniu i doświadczeniu zawodowym wnioskodawcy, odpowiednio jednostce albo komisji egzaminacyjnej, która przygotowuje i przeprowadza test umiejętności. Kopia postanowienia wraz z kopią dokumentacji może być przekazana w postaci elektronicznej.
+§ 4. Wnioskodawca informuje organ prowadzący postępowanie o zamiarze odbycia stażu adaptacyjnego albo przystąpieniu do testu umiejętności.
+§ 5. 1. Wnioskodawca przekazuje organowi prowadzącemu postępowanie:
+1) dokument zawierający zobowiązanie jednostki do nawiązania z wnioskodawcą stosunku pracy albo zawarcia umowy cywilnoprawnej w celu odbycia stażu adaptacyjnego albo
+2) wniosek o wskazanie jednostki, w której wnioskodawca odbędzie staż adaptacyjny – w przypadku gdy przynajmniej 3 jednostki, w których wnioskodawca mógłby odbyć staż adaptacyjny, odmówią nawiązania z nim stosunku prawnego w celu odbycia stażu adaptacyjnego.
+2. W dokumencie, o którym mowa w ust. 1 pkt 1, jednostka określa:
+1) rodzaj stosunku prawnego, który zostanie nawiązany z wnioskodawcą;
+2) termin, w jakim nawiąże stosunek prawny;
+3) okres, na jaki nawiąże stosunek prawny, zgodny z czasem trwania stażu adaptacyjnego wyznaczonym przez organ prowadzący postępowanie;
+4) informację o obowiązkach, jakie powierzy wnioskodawcy;
+5) przewidywane koszty odbywania przez wnioskodawcę stażu adaptacyjnego.
+3. W przypadku, o którym mowa w ust. 1 pkt 2, organ prowadzący postępowanie wskazuje jednostkę, w której wnioskodawca odbędzie staż adaptacyjny.
+§ 6. Program stażu adaptacyjnego opracowuje kierownik jednostki, w której odbywany jest ten staż, uwzględniając zakres i czas trwania stażu adaptacyjnego określony w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
+§ 7. 1. Koszty odbywania przez wnioskodawcę stażu adaptacyjnego są ustalane kwotowo przez kierownika jednostki na podstawie rzeczywistych wydatków związanych z odbywaniem stażu adaptacyjnego, z uwzględnieniem okresu, o którym mowa w § 5 ust. 2 pkt 3, i obowiązków, o których mowa w § 5 ust. 2 pkt 4.
+2. Rzeczywiste wydatki związane z odbywaniem stażu adaptacyjnego obejmują:
 1) wydatki techniczno-organizacyjne jednostki;
-wynagrodzenie opiekuna adaptacyjnego.
-3. Opłata tytułu kosztów odbywania wnioskodawcę adaptacyjnego jest wnoszona jednorazowo albo
-5. Oceny przyczyn nieprzystąpienia odbycia adaptacyjnego dokonuje kierownik jednostki, kierując się zasadami określonymi przepisach sposobie usprawiedliwiania nieobecności pracy udzielania pracownikom zwolnień od pracy.
-6. Wniesiona wnioskodawcę opłata, której mowa ust. 3, podlega zwrotowi na rachunek bankowy wskazany wnioskodawcę, przypadku gdy staż adaptacyjny nie odbył się winy jednostki.
-§ 8. 1. Staż adaptacyjny odbywa się pod nadzorem opiekuna adaptacyjnego, którym może być osoba posiadająca co najmniej 5-letnie doświadczenie wykonywaniu zawodu muzealnika.
-2. Opiekuna adaptacyjnego wyznacza kierownik jednostki.
-3. W przypadku braku możliwości dalszego pełnienia nadzoru opiekuna adaptacyjnego kierownik jednostki niezwłocznie dokonuje zmiany opiekuna informuje tym wnioskodawcę organ prowadzący postępowanie.
-4. Kierownik jednostki może dokonać zmiany opiekuna adaptacyjnego nie później niż na miesiące przed zakończeniem adaptacyjnego po złożeniu wnioskodawcę lub opiekuna adaptacyjnego umotywowanego wniosku.
-5. Opiekun adaptacyjnego czasie trwania adaptacyjnego:
+2) wynagrodzenie opiekuna stażu adaptacyjnego.
+3. Opłata z tytułu kosztów odbywania przez wnioskodawcę stażu adaptacyjnego jest wnoszona jednorazowo albo w równych miesięcznych ratach, płatnych z góry do dnia 10. każdego miesiąca, na rachunek bankowy wskazany przez jednostkę. W przypadku odbywania stażu adaptacyjnego w ramach stosunku pracy albo na podstawie odpłatnej umowy cywilnoprawnej opłata z tytułu odbywania przez wnioskodawcę stażu adaptacyjnego może być, za zgodą wnioskodawcy wyrażoną pisemnie, potrącana z jego wynagrodzenia w miesięcznych ratach.
+4. Wniesiona przez wnioskodawcę opłata, o której mowa w ust. 3, podlega na żądanie wnioskodawcy zwrotowi, jeżeli wnioskodawca z uzasadnionych przyczyn nie przystąpił do odbycia stażu adaptacyjnego. Zwrotu opłaty dokonuje się na rachunek bankowy wskazany przez wnioskodawcę w terminie 30 dni od dnia wystąpienia z żądaniem.
+5. Oceny przyczyn nieprzystąpienia wnioskodawcy do odbycia stażu adaptacyjnego dokonuje kierownik jednostki, kierując się zasadami określonymi w przepisach o sposobie usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy.
+6. Wniesiona przez wnioskodawcę opłata, o której mowa w ust. 3, podlega zwrotowi na rachunek bankowy wskazany przez wnioskodawcę, w przypadku gdy staż adaptacyjny nie odbył się z winy jednostki.
+§ 8. 1. Staż adaptacyjny odbywa się pod nadzorem opiekuna stażu adaptacyjnego, którym może być osoba posiadająca co najmniej 5-letnie doświadczenie w wykonywaniu zawodu muzealnika.
+2. Opiekuna stażu adaptacyjnego wyznacza kierownik jednostki.
+3. W przypadku braku możliwości dalszego pełnienia nadzoru przez opiekuna stażu adaptacyjnego kierownik jednostki niezwłocznie dokonuje zmiany opiekuna i informuje o tym wnioskodawcę i organ prowadzący postępowanie.
+4. Kierownik jednostki może dokonać zmiany opiekuna stażu adaptacyjnego nie później niż na 3 miesiące przed zakończeniem stażu adaptacyjnego po złożeniu przez wnioskodawcę lub opiekuna stażu adaptacyjnego umotywowanego wniosku.
+5. Opiekun stażu adaptacyjnego w czasie trwania stażu adaptacyjnego:
 1) określa zadania wnioskodawcy;
-kontroluje realizację powierzonych zadań;
-3) udziela pomocy prawidłowym prowadzeniu dziennika adaptacyjnego;
-4) zapewnia prawidłowy przebieg adaptacyjnego;
-5) co najmniej raz na kwartał sporządza okresową ocenę realizacji programu adaptacyjnego.
-§ 9. W trakcie odbywania adaptacyjnego wnioskodawca:
-1) przestrzega porządku organizacyjno-prawnego obowiązującego miejscu odbywania adaptacyjnego;
-realizuje program adaptacyjnego;
-3) prowadzi dziennik adaptacyjnego.
-§ 10. 1. Na uzasadniony wniosek wnioskodawcy, złożony nie później niż 14 dni przed zakończeniem adaptacyjnego, organ prowadzący postępowanie, drodze postanowienia, może przedłużyć czas trwania adaptacyjnego albo odmówić przedłużenia tego okresu.
-2. Organ prowadzący postępowanie przedłuża czas trwania adaptacyjnego albo odmawia przedłużenia tego okresu po zapoznaniu się opinią dotychczasowym przebiegu adaptacyjnego sporządzoną opiekuna adaptacyjnego kierownika jednostki. Przepisy § 5–13 stosuje się odpowiednio.
-§ 11. 1. Nadzór nad prawidłowym przebiegiem adaptacyjnego sprawuje kierownik jednostki.
-2. Opiekun adaptacyjnego informuje kierownika jednostki realizacji wnioskodawcę obowiązków wynikających programu adaptacyjnego, którym mowa § 6.
-§ 12. 1. Zaliczenia adaptacyjnego dokonuje się na podstawie oceny nabytych wnioskodawcę umiejętności.
-2. Oceny umiejętności nabytych wnioskodawcę trakcie adaptacyjnego dokonuje organ prowadzący postępowanie na podstawie opinii opiekuna adaptacyjnego kierownika jednostki nie później niż terminie 14 dni od zakończenia adaptacyjnego.
+2) kontroluje realizację powierzonych zadań;
+3) udziela pomocy w prawidłowym prowadzeniu dziennika stażu adaptacyjnego;
+4) zapewnia prawidłowy przebieg stażu adaptacyjnego;
+5) co najmniej raz na kwartał sporządza okresową ocenę realizacji programu stażu adaptacyjnego.
+§ 9. W trakcie odbywania stażu adaptacyjnego wnioskodawca:
+1) przestrzega porządku organizacyjno-prawnego obowiązującego w miejscu odbywania stażu adaptacyjnego;
+2) realizuje program stażu adaptacyjnego;
+3) prowadzi dziennik stażu adaptacyjnego.
+§ 10. 1. Na uzasadniony wniosek wnioskodawcy, złożony nie później niż 14 dni przed zakończeniem stażu adaptacyjnego, organ prowadzący postępowanie, w drodze postanowienia, może przedłużyć czas trwania stażu adaptacyjnego albo odmówić przedłużenia tego okresu.
+2. Organ prowadzący postępowanie przedłuża czas trwania stażu adaptacyjnego albo odmawia przedłużenia tego okresu po zapoznaniu się z opinią o dotychczasowym przebiegu stażu adaptacyjnego sporządzoną przez opiekuna stażu adaptacyjnego oraz kierownika jednostki. Przepisy § 5–13 stosuje się odpowiednio.
+§ 11. 1. Nadzór nad prawidłowym przebiegiem stażu adaptacyjnego sprawuje kierownik jednostki.
+2. Opiekun stażu adaptacyjnego informuje kierownika jednostki o realizacji przez wnioskodawcę obowiązków wynikających z programu stażu adaptacyjnego, o którym mowa w § 6.
+§ 12. 1. Zaliczenia stażu adaptacyjnego dokonuje się na podstawie oceny nabytych przez wnioskodawcę umiejętności.
+2. Oceny umiejętności nabytych przez wnioskodawcę w trakcie stażu adaptacyjnego dokonuje organ prowadzący postępowanie na podstawie opinii opiekuna stażu adaptacyjnego i kierownika jednostki nie później niż w terminie 14 dni od dnia zakończenia stażu adaptacyjnego.
+3. Ocena umiejętności nabytych przez wnioskodawcę w trakcie stażu adaptacyjnego jest przekazywana wnioskodawcy w terminie 7 dni od dnia jej sporządzenia.
+§ 13. 1. Wnioskodawca, który nie zaliczył stażu, może ponownie wystąpić do organu prowadzącego postępowanie z wnioskiem o odbycie stażu adaptacyjnego.
+2. Do ponownego odbycia stażu adaptacyjnego stosuje się przepisy § 5–12 i ust. 1.
+§ 14. 1. Test umiejętności przygotowuje i przeprowadza komisja egzaminacyjna trzy razy w roku.
+2. Komisja egzaminacyjna składa się z 5 członków powołanych przez organ prowadzący postępowanie spośród osób dysponujących odpowiednią wiedzą oraz posiadających co najmniej 5-letnie doświadczenie zawodowe w zakresie wykonywania zawodu muzealnika.
 3. Organ prowadzący postępowanie spośród członków komisji egzaminacyjnej wyznacza przewodniczącego komisji egzaminacyjnej.
-§ 15. 1. Organ prowadzący postępowanie zawiadamia wnioskodawcę co najmniej 30 dni przed wyznaczonym dniem przeprowadzenia testu umiejętności miejscu terminie jego przeprowadzenia, wysokości opłaty tytułu kosztów przeprowadzenia testu umiejętności numerze rachunku bankowego organu prowadzącego postępowanie, na który należy dokonać opłaty.
-2. Koszty przeprowadzenia testu umiejętności ustala organ prowadzący postępowanie na podstawie rzeczywistych wydatków techniczno-organizacyjnych ponoszonych organ prowadzący postępowanie związku przeprowadzeniem testu umiejętności.
-3. Wnioskodawca przedstawia dowód dokonania opłaty, której mowa ust. 1, przed przystąpieniem testu umiejętności.
-4. Wniesiona wnioskodawcę opłata, której mowa ust. 1, podlega zwrotowi, jeżeli wnioskodawca uzasadnionych przyczyn nie przystąpił testu umiejętności.
-5. Oceny przyczyny usprawiedliwiającej nieprzystąpienie testu umiejętności wyznaczonym terminie dokonuje przewodniczący komisji egzaminacyjnej, kierując się zasadami określonymi przepisach sposobie usprawiedliwiania nieobecności pracy udzielania pracownikom zwolnień od pracy.
-6. Zwrotu opłaty, przypadku, którym mowa ust. 4, dokonuje się na żądanie na wskazany niego rachunek bankowy terminie 30 dni od wystąpienia żądaniem.
-§ 16. 1. Test umiejętności opracowuje komisja egzaminacyjna, uwzględniając zakres testu umiejętności określony postanowieniu, którym mowa art. 20 ust. ustawy 22 grudnia 2015 zasadach uznawania nabytych państwach członkowskich Unii Europejskiej.
+§ 15. 1. Organ prowadzący postępowanie zawiadamia wnioskodawcę co najmniej 30 dni przed wyznaczonym dniem przeprowadzenia testu umiejętności o miejscu i terminie jego przeprowadzenia, wysokości opłaty z tytułu kosztów przeprowadzenia testu umiejętności oraz numerze rachunku bankowego organu prowadzącego postępowanie, na który należy dokonać opłaty.
+2. Koszty przeprowadzenia testu umiejętności ustala organ prowadzący postępowanie na podstawie rzeczywistych wydatków techniczno-organizacyjnych ponoszonych przez organ prowadzący postępowanie w związku z przeprowadzeniem testu umiejętności.
+3. Wnioskodawca przedstawia dowód dokonania opłaty, o której mowa w ust. 1, przed przystąpieniem do testu umiejętności.
+4. Wniesiona przez wnioskodawcę opłata, o której mowa w ust. 1, podlega zwrotowi, jeżeli wnioskodawca z uzasadnionych przyczyn nie przystąpił do testu umiejętności.
+5. Oceny przyczyny usprawiedliwiającej nieprzystąpienie do testu umiejętności w wyznaczonym terminie dokonuje przewodniczący komisji egzaminacyjnej, kierując się zasadami określonymi w przepisach o sposobie usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy.
+6. Zwrotu opłaty, w przypadku, o którym mowa w ust. 4, dokonuje się na żądanie wnioskodawcy na wskazany przez niego rachunek bankowy w terminie 30 dni od dnia wystąpienia z żądaniem.
+§ 16. 1. Test umiejętności opracowuje komisja egzaminacyjna, uwzględniając zakres testu umiejętności określony w postanowieniu, o którym mowa w art. 20 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
 2. Test umiejętności zatwierdza organ prowadzący postępowanie.
-3. Test umiejętności składa się dwóch części: pisemnej ustnej.
-4. Część pisemna testu umiejętności trwa nie dłużej niż 120 minut składa się nie więcej niż 30 pytań, tym 10% charakterze opisowym. Każde pytań niemające charakteru opisowego zawiera nie mniej niż możliwości odpowiedzi, których jedna jest prawidłowa.
-5. Do ustnej części testu umiejętności dopuszcza się osoby, które uzyskały więcej niż 75% punktów możliwych uzyskania części pisemnej.
-6. Część ustna testu umiejętności składa się nie więcej niż 10 pytań trwa 30 minut. Część ustną testu umiejętności uznaje się za zdaną, jeżeli osoba zdająca odpowiedziała poprawnie na co najmniej 75% pytań.
+3. Test umiejętności składa się z dwóch części: pisemnej i ustnej.
+4. Część pisemna testu umiejętności trwa nie dłużej niż 120 minut i składa się z nie więcej niż 30 pytań, w tym 10% o charakterze opisowym. Każde z pytań niemające charakteru opisowego zawiera nie mniej niż 3 możliwości odpowiedzi, z których jedna jest prawidłowa.
+5. Do ustnej części testu umiejętności dopuszcza się osoby, które uzyskały więcej niż 75% punktów możliwych do uzyskania z części pisemnej.
+6. Część ustna testu umiejętności składa się z nie więcej niż 10 pytań i trwa do 30 minut. Część ustną testu umiejętności uznaje się za zdaną, jeżeli osoba zdająca odpowiedziała poprawnie na co najmniej 75% pytań.
 § 17. 1. Przy ocenie testu umiejętności za każdą:
 1) prawidłową odpowiedź przyznaje się:
-a) 5 punktów za pytanie charakterze opisowym,
-b) punkt za pytanie niemające charakteru opisowego;
-błędną odpowiedź albo brak odpowiedzi punktów się nie przyznaje.
-2. Wynik testu określa się jako „pozytywny” przypadku zaliczenia drugiego etapu albo „negatywny” przypadku § 19. 1. Nieprzystąpienie testu umiejętności wyznaczonym terminie bez uzasadnionej przyczyny uważa się za odstąpienie od testu umiejętności.
-2. Ponowne przystąpienie testu umiejętności wymaga złożenia wniosku organu prowadzącego postępowanie przeprowadzenie testu umiejętności, chyba że nieprzystąpienie testu umiejętności nastąpiło uzasadnionej przyczyny.
-3. W przypadku nieprzystąpienia testu umiejętności uzasadnionej przyczyny organ prowadzący postępowanie wyznacza nowy termin testu umiejętności.
-§ 20. 1. W przypadku gdy test umiejętności nie odbył się winy komisji egzaminacyjnej, organ prowadzący postępowanie wyznacza nowy termin testu umiejętności.
-2. Wnioskodawca nie wnosi ponownie opłaty, której mowa § 15 ust. 1.
-§ 21. 1. Wnioskodawca, który uzyskał negatywny wynik testu umiejętności, może ponownie przystąpić testu umiejętności nie wcześniej niż po upływie miesięcy od dnia, którym przeprowadzono test umiejętności.
-2. Do ponownego przeprowadzenia testu umiejętności stosuje się przepisy § 14–20 ust. 1.
-§ 23. Osoby odbywające staż adaptacyjny dniu wejścia życie rozporządzenia odbywają go na podstawie dotychczasowych przepisów.
-§ 24. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Kultury Dziedzictwa Narodowego: P. Gliński
+a) 5 punktów za pytanie o charakterze opisowym,
+b) 1 punkt za pytanie niemające charakteru opisowego;
+2) błędną odpowiedź albo brak odpowiedzi punktów się nie przyznaje.
+2. Wynik testu określa się jako „pozytywny” w przypadku zaliczenia drugiego etapu albo „negatywny” w przypadku niezaliczenia jednego z etapów.
+§ 18. 1. Z przebiegu testu umiejętności komisja egzaminacyjna sporządza protokół, w którym podaje się datę przeprowadzenia testu umiejętności, skład komisji egzaminacyjnej, imię i nazwisko osoby, która przystąpiła do testu umiejętności, czas rozpoczęcia i zakończenia testu umiejętności, wyniki testu umiejętności, istotne okoliczności, które nastąpiły w jego trakcie, oraz podpisy członków komisji egzaminacyjnej.
+2. Protokół, o którym mowa w ust. 1, przewodniczący komisji egzaminacyjnej przekazuje organowi prowadzącemu postępowanie, a wynik testu umiejętności – wnioskodawcy, w terminie nie dłuższym niż 3 dni od dnia przeprowadzenia testu umiejętności.
+3. Wnioskodawcy przysługuje prawo wniesienia do komisji egzaminacyjnej odwołania od wyniku testu umiejętności w terminie 14 dni od dnia otrzymania informacji o wyniku testu umiejętności. Komisja egzaminacyjna rozpatruje odwołanie w terminie 14 dni od dnia otrzymania odwołania. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+§ 19. 1. Nieprzystąpienie do testu umiejętności w wyznaczonym terminie bez uzasadnionej przyczyny uważa się za odstąpienie od testu umiejętności.
+2. Ponowne przystąpienie do testu umiejętności wymaga złożenia wniosku do organu prowadzącego postępowanie o przeprowadzenie testu umiejętności, chyba że nieprzystąpienie do testu umiejętności nastąpiło z uzasadnionej przyczyny.
+3. W przypadku nieprzystąpienia do testu umiejętności z uzasadnionej przyczyny organ prowadzący postępowanie wyznacza nowy termin testu umiejętności.
+§ 20. 1. W przypadku gdy test umiejętności nie odbył się z winy komisji egzaminacyjnej, organ prowadzący postępowanie wyznacza nowy termin testu umiejętności.
+2. Wnioskodawca nie wnosi ponownie opłaty, o której mowa w § 15 ust. 1.
+§ 21. 1. Wnioskodawca, który uzyskał negatywny wynik z testu umiejętności, może ponownie przystąpić do testu umiejętności nie wcześniej niż po upływie 3 miesięcy od dnia, w którym przeprowadzono test umiejętności.
+2. Do ponownego przeprowadzenia testu umiejętności stosuje się przepisy § 14–20 oraz ust. 1.
+§ 22. Do wniosków o odbycie stażu adaptacyjnego albo przystąpienia do testu umiejętności złożonych i nierozpatrzonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+§ 23. Osoby odbywające staż adaptacyjny w dniu wejścia w życie rozporządzenia odbywają go na podstawie dotychczasowych przepisów.
+§ 24. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 
-#### Rozdział Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Staż adaptacyjny § 5. 1. Wnioskodawca przekazuje organowi prowadzącemu postępowanie:
+#### Rozdział 2 Staż adaptacyjny
 
-#### Rozdział 4 Przepisy przejściowe przepis końcowy § 22. Do wniosków odbycie adaptacyjnego albo przystąpienia testu umiejętności złożonych nierozpatrzonych przed dniem wejścia życie rozporządzenia stosuje się przepisy dotychczasowe.
+#### Rozdział 3 Test umiejętności
+
+#### Rozdział 4 Przepisy przejściowe i przepis końcowy
 
